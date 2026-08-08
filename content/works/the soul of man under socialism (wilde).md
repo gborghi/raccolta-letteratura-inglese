@@ -49,13 +49,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/golden-age|Golden Age]], [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Rebel, Christ Figure
+**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/christ-figure|Christ Figure]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/rose|Rose]], [[motifs/childhood|Childhood]], [[motifs/city|City]]
 **Themes & Concepts:** [[concepts/individualism|Individualism]], [[concepts/artist-and-society|Artist and Society]], [[concepts/poverty|Poverty]], [[concepts/social-injustice|Social Injustice]], [[concepts/reform|Reform]], [[concepts/satire-of-society|Satire of Society]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/french-revolution|French Revolution]], [[historical-references/christianity|Christianity]]
 **Settings:** [[settings/industrial-city|Industrial City]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

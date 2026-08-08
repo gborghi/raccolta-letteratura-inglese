@@ -25,7 +25,7 @@ tags:
 - [[works/epitaph-on-himself-(coleridge)|EPITAPH ON HIMSELF (Coleridge)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 115. What Inn is this (Dickinson)
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0115_what_inn_is_this|115. What Inn is this (Dickinson)]]
 - [[works/1-henry-iv-(shakespeare)|1 HENRY IV (Shakespeare)]]
 - [[works/2-henry-iv-(shakespeare)|2 HENRY IV (Shakespeare)]]
 - [[works/on-nothing-and-kindred-subjects-(belloc)|On Nothing and Kindred Subjects (Belloc)]]

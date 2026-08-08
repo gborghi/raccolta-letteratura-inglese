@@ -214,7 +214,7 @@ The chemist said it would be all right, but I’ve never been the same.
 You are a proper [[archetypes/fool|fool]], I said.  
 
 
-[[motifs/well|Well]], if Albert won’t leave you [[Alone|alone]], there it is, I said,  
+[[motifs/well|Well]], if Albert won’t leave you alone, there it is, I said,  
 What you get married for if you don’t want children?  
 HURRY UP PLEASE ITS [[motifs/time|TIME]]  
 [[motifs/well|Well]], that [[characters/sunday|Sunday]] Albert was [[motifs/home|home]], they had a hot gammon,  
@@ -336,7 +336,7 @@ The chemist said it would be all right, but I’ve never been the same.
 You are a proper [[archetypes/fool|fool]], I said.  
 
 
-[[motifs/well|Well]], if Albert won’t leave you [[Alone|alone]], there it is, I said,  
+[[motifs/well|Well]], if Albert won’t leave you alone, there it is, I said,  
 What you get married for if you don’t want children?  
 HURRY UP PLEASE ITS [[motifs/time|TIME]]  
 [[motifs/well|Well]], that [[characters/sunday|Sunday]] Albert was [[motifs/home|home]], they had a hot gammon,  
@@ -353,7 +353,7 @@ III. The [[motifs/fire|Fire]] Sermon
     The [[motifs/river|river]]’s tent is broken; the last ringers of leaf  
 Clutch and sink into the wet bank. The [[motifs/wind|wind]]  
 Crosses the brown land, unheard. The nymphs are departed.  
-Sweet Thames, run softly, till I end my [[Song|song]].  
+Sweet Thames, run softly, till I end my song.  
 The [[motifs/river|river]] bears no empty bottles, sandwich papers,  
 Silk handkerchiefs, cardboard boxes, cigarette ends  
 Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.  
@@ -362,7 +362,7 @@ Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.
 
 Departed, have left no addresses.  
 By the waters of Leman I sat down and wept …  
-Sweet Thames, run softly till I end my [[Song|song]],  
+Sweet Thames, run softly till I end my song,  
 Sweet Thames, run softly, for I speak not loud or long.  
 But at my back in a cold blast I hear  
 The rattle of the bones, and chuckle spread from ear to ear.  
@@ -421,7 +421,7 @@ Perceived the scene, and foretold the rest —
 
 
 He, the young man carbuncular, arrives,  
-A small [[house]] agent’s clerk, with one bold stare,  
+A small house agent’s clerk, with one bold stare,  
 One of the low on whom assurance sits  
 As a silk hat on a Bradford millionaire.  
 The [[motifs/time|time]] is now propitious, as he guesses,  
@@ -447,7 +447,7 @@ And gropes his way, finding the stairs unlit …
 Her brain allows one half-formed thought to pass:  
 ‘[[motifs/well|Well]] now that’s done: and I’m glad it’s over.’  
 When lovely woman stoops to folly and  
-Paces about her room again, [[Alone|alone]],  
+Paces about her room again, alone,  
 She smooths her hair with automatic hand,  
 And puts a record on the gramophone.  
     ‘This music crept by me upon the waters’  
@@ -473,7 +473,7 @@ Inexplicable splendour of Ionian white and gold.
                     The barges wash  
                     Drifting logs  
                     Down Greenwich reach  
-                    Past the Isle of [[dogs|Dogs]].  
+                    Past the Isle of Dogs.  
                                          Weialala leia  
                                          Wallala leialala  
                     Elizabeth and Leicester  
@@ -524,7 +524,7 @@ III. The [[motifs/fire|Fire]] Sermon
     The [[motifs/river|river]]’s tent is broken; the last ringers of leaf  
 Clutch and sink into the wet bank. The [[motifs/wind|wind]]  
 Crosses the brown land, unheard. The nymphs are departed.  
-Sweet Thames, run softly, till I end my [[Song|song]].  
+Sweet Thames, run softly, till I end my song.  
 The [[motifs/river|river]] bears no empty bottles, sandwich papers,  
 Silk handkerchiefs, cardboard boxes, cigarette ends  
 Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.  
@@ -533,7 +533,7 @@ Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.
 
 Departed, have left no addresses.  
 By the waters of Leman I sat down and wept …  
-Sweet Thames, run softly till I end my [[Song|song]],  
+Sweet Thames, run softly till I end my song,  
 Sweet Thames, run softly, for I speak not loud or long.  
 But at my back in a cold blast I hear  
 The rattle of the bones, and chuckle spread from ear to ear.  
@@ -592,7 +592,7 @@ Perceived the scene, and foretold the rest —
 
 
 He, the young man carbuncular, arrives,  
-A small [[house]] agent’s clerk, with one bold stare,  
+A small house agent’s clerk, with one bold stare,  
 One of the low on whom assurance sits  
 As a silk hat on a Bradford millionaire.  
 The [[motifs/time|time]] is now propitious, as he guesses,  
@@ -618,7 +618,7 @@ And gropes his way, finding the stairs unlit …
 Her brain allows one half-formed thought to pass:  
 ‘[[motifs/well|Well]] now that’s done: and I’m glad it’s over.’  
 When lovely woman stoops to folly and  
-Paces about her room again, [[Alone|alone]],  
+Paces about her room again, alone,  
 She smooths her hair with automatic hand,  
 And puts a record on the gramophone.  
     ‘This music crept by me upon the waters’  
@@ -644,7 +644,7 @@ Inexplicable splendour of Ionian white and gold.
                     The barges wash  
                     Drifting logs  
                     Down Greenwich reach  
-                    Past the Isle of [[dogs|Dogs]].  
+                    Past the Isle of Dogs.  
                                          Weialala leia  
                                          Wallala leialala  
                     Elizabeth and Leicester  
@@ -1084,7 +1084,7 @@ Illa negat; placuit quae sit sententia docti
 Quaerere Tiresiae; [[characters/venus|Venus]] huic erat utraque nota.  
 Nam duo magnorum viridi coeuntia silva  
 Corpora serpentum baculi violaverat ictu  
-Deque viro factus, mirabile, [[femina]] septem  
+Deque viro factus, mirabile, femina septem  
 Egerat autumnos; octavo rursus eosdem  
 Vidit et ‘est vestrae si tanta potentia plagae’,  
 Dixit ‘ut auctoris sortem in contraria mutet,  
@@ -1100,7 +1100,7 @@ Scire futura dedit poenamque levavit honore.
 221. This may not appear as exact as Sappho’s lines, but I had in mind the ‘longshore’ or ‘dory’ fisherman, who returns at nightfall.
 
 
-253. V. Goldsmith, the [[Song|song]] in The Vicar of Wakefield.
+253. V. Goldsmith, the song in The Vicar of Wakefield.
 257. V. The Tempest, as above.
 
 
@@ -1113,7 +1113,7 @@ Scire futura dedit poenamque levavit honore.
 279. V. Froude, Elizabeth, Vol. I, ch. iv, letter of De Quadra to Philip of Spain:
 
 
-‘In the afternoon we were in a barge, watching the games on the [[motifs/river|river]]. (The [[characters/queen|Queen]]) was [[Alone|alone]] with Lord Robert and myself on the poop, when they began to talk nonsense, and went so far that Lord Robert at last said, as I was on the spot there was no reason why they should not be married if the [[characters/queen|queen]] pleased.’  
+‘In the afternoon we were in a barge, watching the games on the [[motifs/river|river]]. (The [[characters/queen|Queen]]) was alone with Lord Robert and myself on the poop, when they began to talk nonsense, and went so far that Lord Robert at last said, as I was on the spot there was no reason why they should not be married if the [[characters/queen|queen]] pleased.’  
 
 
 293. Cf. Purgatorio, V. 133:
@@ -1134,7 +1134,7 @@ V. WHAT THE THUNDER SAID
 In the first part of Part V three themes are employed: the [[motifs/journey|journey]] to Emmaus, the approach to the Chapel Perilous (see Miss Weston’s book) and the present [[motifs/decay|decay]] of eastern Europe.  
 
 
-357. This is Turdus aonalaschkae pallasii, the hermit-thrush which I have heard in Quebec Province. Chapman says (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) ‘it is most at [[motifs/home|home]] in secluded woodland and thickety retreats…. Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequalled.’ Its ‘[[motifs/water|water]]-dripping [[Song|song]]’ is justly celebrated.
+357. This is Turdus aonalaschkae pallasii, the hermit-thrush which I have heard in Quebec Province. Chapman says (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) ‘it is most at [[motifs/home|home]] in secluded woodland and thickety retreats…. Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequalled.’ Its ‘[[motifs/water|water]]-dripping song’ is justly celebrated.
 
 
 360. The following lines were stimulated by the account of one of the Antarctic expeditions (I forget which, but I think one of Shackleton’s): it was related that the party of explorers, at the extremity of their strength, had the constant delusion that there was one more member than could actually be counted.
@@ -1377,7 +1377,7 @@ Il farmacista disse che sarebbe andato tutto bene, ma non sono più stata la ste
 Sei proprio una [[archetypes/fool|sciocca]], dissi.  
 
 
-[[motifs/well|Beh]], se Albert non ti lascia [[Alone|sola]], è così, dissi,  
+[[motifs/well|Beh]], se Albert non ti lascia sola, è così, dissi,  
 Per cosa ti sei sposata se non vuoi figli?  
 FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
 [[motifs/well|Beh]], quella [[characters/sunday|domenica]] Albert era a [[motifs/home|casa]], avevano un prosciutto caldo,  
@@ -1394,7 +1394,7 @@ III. Il sermone del [[motifs/fire|fuoco]]
     La tenda del [[motifs/river|fiume]] è rotta; le ultime dita di foglia  
 S'aggrappano e affondano nella riva bagnata. Il [[motifs/wind|vento]]  
 Attraversa la terra bruna, inudito. Le ninfe sono partite.  
-Dolce Tamigi, scorri piano, finché non finisca il mio [[Song|canto]].  
+Dolce Tamigi, scorri piano, finché non finisca il mio canto.  
 Il [[motifs/river|fiume]] non porta bottiglie vuote, carte da panini,  
 Fazzoletti di seta, scatole di cartone, mozziconi di sigaretta  
 O altra testimonianza di notti d'[[motifs/summer|estate]]. Le ninfe sono partite.  
@@ -1403,7 +1403,7 @@ E i loro amici, gli oziosi eredi dei direttori della [[motifs/city|City]];
 
 Partiti, non hanno lasciato indirizzi.  
 Presso le acque del Lemano mi sedetti e piansi …  
-Dolce Tamigi, scorri piano finché non finisca il mio [[Song|canto]],  
+Dolce Tamigi, scorri piano finché non finisca il mio canto,  
 Dolce Tamigi, scorri piano, ché non parlo forte né a lungo.  
 Ma alle mie spalle in una fredda raffica odo  
 Lo sferragliare delle ossa, e un ghigno steso da orecchio a orecchio.  
@@ -1462,7 +1462,7 @@ Anch'io attendevo l'ospite atteso.
 
 
 Egli, il giovanotto foruncoloso, arriva,  
-Impiegato di un piccolo agente di [[house|case]], con uno sguardo sfrontato,  
+Impiegato di un piccolo agente di case, con uno sguardo sfrontato,  
 Uno degli infimi su cui la sicurezza sta  
 Come un cilindro di seta su un milionario di Bradford.  
 Il [[motifs/time|momento]] è ora propizio, come indovina,  
@@ -1488,7 +1488,7 @@ Appena consapevole dell'[[archetypes/lover|amante]] partito;
 Il suo cervello lascia passare un pensiero mezzo formato:  
 ‘[[motifs/well|Beh]] ora è fatta: e sono contenta che sia finita.’  
 Quando amabile donna cede alla follia e  
-Torna a misurare la sua stanza, [[Alone|sola]],  
+Torna a misurare la sua stanza, sola,  
 Si liscia i capelli con mano automatica,  
 E mette un disco sul grammofono.  
     ‘Questa musica mi strisciò accanto sulle acque’  
@@ -1514,7 +1514,7 @@ Inesplicabile splendore di bianco e oro ionico.
                     Le chiatte lavano  
                     Tronchi alla deriva  
                     Giù per il tratto di Greenwich  
-                    Oltre l'Isle of [[dogs|Dogs]].  
+                    Oltre l'Isle of Dogs.  
                                          Weialala leia  
                                          Wallala leialala  
                     Elisabetta e Leicester  
@@ -1791,7 +1791,7 @@ Illa negat; placuit quae sit sententia docti
 Quaerere Tiresiae; [[characters/venus|Venus]] huic erat utraque nota.  
 Nam duo magnorum viridi coeuntia silva  
 Corpora serpentum baculi violaverat ictu  
-Deque viro factus, mirabile, [[femina]] septem  
+Deque viro factus, mirabile, femina septem  
 Egerat autumnos; octavo rursus eosdem  
 Vidit et ‘est vestrae si tanta potentia plagae’,  
 Dixit ‘ut auctoris sortem in contraria mutet,  
@@ -1807,20 +1807,20 @@ Scire futura dedit poenamque levavit honore.
 221. Questo può non apparire esatto quanto i versi di Saffo, ma avevo in mente il pescatore ‘longshore’ o ‘dory’, che rientra al calar della notte.
 
 
-253. V. Goldsmith, la [[Song|canzone]] in The Vicar of Wakefield.  
+253. V. Goldsmith, la canzone in The Vicar of Wakefield.  
 257. V. La tempesta, come sopra.
 
 
 264. L'interno di St. Magnus Martyr è a mio giudizio uno dei più belli fra gli interni di Wren. Si veda The Proposed Demolition of Nineteen [[motifs/city|City]] Churches: (P. S. [[archetypes/king|King]] & Son, Ltd.).
 
 
-266. Il [[Song|Canto]] delle (tre) figlie del Tamigi comincia qui. Dal verso 292 al 306 incluso esse parlano a turno. V. Götterdämmerung, III, i: le figlie del Reno.
+266. Il Canto delle (tre) figlie del Tamigi comincia qui. Dal verso 292 al 306 incluso esse parlano a turno. V. Götterdämmerung, III, i: le figlie del Reno.
 
 
 279. V. Froude, Elizabeth, Vol. I, cap. iv, lettera di De Quadra a Filippo di Spagna:
 
 
-‘Nel pomeriggio eravamo su una chiatta, a guardare i giochi sul [[motifs/river|fiume]]. (La [[characters/queen|Regina]]) era [[Alone|sola]] con Lord Robert e con me a poppa, quando cominciarono a dire sciocchezze, e andarono tanto oltre che Lord Robert alla fine disse che, trovandomi io presente, non c'era ragione perché non si sposassero se alla [[characters/queen|regina]] fosse piaciuto.’  
+‘Nel pomeriggio eravamo su una chiatta, a guardare i giochi sul [[motifs/river|fiume]]. (La [[characters/queen|Regina]]) era sola con Lord Robert e con me a poppa, quando cominciarono a dire sciocchezze, e andarono tanto oltre che Lord Robert alla fine disse che, trovandomi io presente, non c'era ragione perché non si sposassero se alla [[characters/queen|regina]] fosse piaciuto.’  
 
 
 293. Cfr. Purgatorio, V. 133:
@@ -1841,7 +1841,7 @@ V. CIÒ CHE DISSE IL TUONO
 Nella prima parte della Parte V sono impiegati tre temi: il [[motifs/journey|viaggio]] a Emmaus, l'accostarsi alla Cappella Perigliosa (si veda il libro di Miss Weston) e l'attuale [[motifs/decay|decadenza]] dell'Europa orientale.  
 
 
-357. È il Turdus aonalaschkae pallasii, il tordo eremita che ho udito nella Provincia del Quebec. Chapman dice (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) che ‘è più a [[motifs/home|casa]] sua in boschi appartati e in rifugi di macchia…. Le sue note non sono notevoli per varietà o volume, ma per purezza e dolcezza di tono e per squisita modulazione non hanno pari.’ Il suo ‘[[motifs/water|acqua]]-stillante [[Song|canto]]’ è giustamente celebre.
+357. È il Turdus aonalaschkae pallasii, il tordo eremita che ho udito nella Provincia del Quebec. Chapman dice (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) che ‘è più a [[motifs/home|casa]] sua in boschi appartati e in rifugi di macchia…. Le sue note non sono notevoli per varietà o volume, ma per purezza e dolcezza di tono e per squisita modulazione non hanno pari.’ Il suo ‘[[motifs/water|acqua]]-stillante canto’ è giustamente celebre.
 
 
 360. I versi seguenti furono suggeriti dal racconto di una delle spedizioni antartiche (non ricordo quale, ma credo una di Shackleton): si narrava che il gruppo degli esploratori, allo stremo delle forze, avesse la costante illusione che vi fosse un membro in più di quanti se ne potessero effettivamente contare.
@@ -2086,7 +2086,7 @@ The chemist said it would be all right, but I’ve never been the same.
 You are a proper [[archetypes/fool|fool]], I said.  
 
 
-[[motifs/well|Well]], if Albert won’t leave you [[Alone|alone]], there it is, I said,  
+[[motifs/well|Well]], if Albert won’t leave you alone, there it is, I said,  
 What you get married for if you don’t want children?  
 HURRY UP PLEASE ITS [[motifs/time|TIME]]  
 [[motifs/well|Well]], that [[characters/sunday|Sunday]] Albert was [[motifs/home|home]], they had a hot gammon,  
@@ -2306,7 +2306,7 @@ The chemist said it would be all right, but I’ve never been the same.
 You are a proper [[archetypes/fool|fool]], I said.  
 
 
-[[motifs/well|Well]], if Albert won’t leave you [[Alone|alone]], there it is, I said,  
+[[motifs/well|Well]], if Albert won’t leave you alone, there it is, I said,  
 What you get married for if you don’t want children?  
 HURRY UP PLEASE ITS [[motifs/time|TIME]]  
 [[motifs/well|Well]], that [[characters/sunday|Sunday]] Albert was [[motifs/home|home]], they had a hot gammon,  
@@ -2323,7 +2323,7 @@ III. The [[motifs/fire|Fire]] Sermon
     The [[motifs/river|river]]’s tent is broken; the last ringers of leaf  
 Clutch and sink into the wet bank. The [[motifs/wind|wind]]  
 Crosses the brown land, unheard. The nymphs are departed.  
-Sweet Thames, run softly, till I end my [[Song|song]].  
+Sweet Thames, run softly, till I end my song.  
 The [[motifs/river|river]] bears no empty bottles, sandwich papers,  
 Silk handkerchiefs, cardboard boxes, cigarette ends  
 Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.  
@@ -2332,7 +2332,7 @@ Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.
 
 Departed, have left no addresses.  
 By the waters of Leman I sat down and wept …  
-Sweet Thames, run softly till I end my [[Song|song]],  
+Sweet Thames, run softly till I end my song,  
 Sweet Thames, run softly, for I speak not loud or long.  
 But at my back in a cold blast I hear  
 The rattle of the bones, and chuckle spread from ear to ear.  
@@ -2391,7 +2391,7 @@ Perceived the scene, and foretold the rest —
 
 
 He, the young man carbuncular, arrives,  
-A small [[house]] agent’s clerk, with one bold stare,  
+A small house agent’s clerk, with one bold stare,  
 One of the low on whom assurance sits  
 As a silk hat on a Bradford millionaire.  
 The [[motifs/time|time]] is now propitious, as he guesses,  
@@ -2417,7 +2417,7 @@ And gropes his way, finding the stairs unlit …
 Her brain allows one half-formed thought to pass:  
 ‘[[motifs/well|Well]] now that’s done: and I’m glad it’s over.’  
 When lovely woman stoops to folly and  
-Paces about her room again, [[Alone|alone]],  
+Paces about her room again, alone,  
 She smooths her hair with automatic hand,  
 And puts a record on the gramophone.  
     ‘This music crept by me upon the waters’  
@@ -2443,7 +2443,7 @@ Inexplicable splendour of Ionian white and gold.
                     The barges wash  
                     Drifting logs  
                     Down Greenwich reach  
-                    Past the Isle of [[dogs|Dogs]].  
+                    Past the Isle of Dogs.  
                                          Weialala leia  
                                          Wallala leialala  
                     Elizabeth and Leicester  
@@ -2598,7 +2598,7 @@ Il farmacista disse che sarebbe andato tutto bene, ma non sono più stata la ste
 Sei proprio una [[archetypes/fool|sciocca]], dissi.  
 
 
-[[motifs/well|Beh]], se Albert non ti lascia [[Alone|sola]], è così, dissi,  
+[[motifs/well|Beh]], se Albert non ti lascia sola, è così, dissi,  
 Per cosa ti sei sposata se non vuoi figli?  
 FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
 [[motifs/well|Beh]], quella [[characters/sunday|domenica]] Albert era a [[motifs/home|casa]], avevano un prosciutto caldo,  
@@ -2620,7 +2620,7 @@ III. The [[motifs/fire|Fire]] Sermon
     The [[motifs/river|river]]’s tent is broken; the last ringers of leaf  
 Clutch and sink into the wet bank. The [[motifs/wind|wind]]  
 Crosses the brown land, unheard. The nymphs are departed.  
-Sweet Thames, run softly, till I end my [[Song|song]].  
+Sweet Thames, run softly, till I end my song.  
 The [[motifs/river|river]] bears no empty bottles, sandwich papers,  
 Silk handkerchiefs, cardboard boxes, cigarette ends  
 Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.  
@@ -2629,7 +2629,7 @@ Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.
 
 Departed, have left no addresses.  
 By the waters of Leman I sat down and wept …  
-Sweet Thames, run softly till I end my [[Song|song]],  
+Sweet Thames, run softly till I end my song,  
 Sweet Thames, run softly, for I speak not loud or long.  
 But at my back in a cold blast I hear  
 The rattle of the bones, and chuckle spread from ear to ear.  
@@ -2688,7 +2688,7 @@ Perceived the scene, and foretold the rest —
 
 
 He, the young man carbuncular, arrives,  
-A small [[house]] agent’s clerk, with one bold stare,  
+A small house agent’s clerk, with one bold stare,  
 One of the low on whom assurance sits  
 As a silk hat on a Bradford millionaire.  
 The [[motifs/time|time]] is now propitious, as he guesses,  
@@ -2714,7 +2714,7 @@ And gropes his way, finding the stairs unlit …
 Her brain allows one half-formed thought to pass:  
 ‘[[motifs/well|Well]] now that’s done: and I’m glad it’s over.’  
 When lovely woman stoops to folly and  
-Paces about her room again, [[Alone|alone]],  
+Paces about her room again, alone,  
 She smooths her hair with automatic hand,  
 And puts a record on the gramophone.  
     ‘This music crept by me upon the waters’  
@@ -2740,7 +2740,7 @@ Inexplicable splendour of Ionian white and gold.
                     The barges wash  
                     Drifting logs  
                     Down Greenwich reach  
-                    Past the Isle of [[dogs|Dogs]].  
+                    Past the Isle of Dogs.  
                                          Weialala leia  
                                          Wallala leialala  
                     Elizabeth and Leicester  
@@ -2806,7 +2806,7 @@ III. Il sermone del [[motifs/fire|fuoco]]
     La tenda del [[motifs/river|fiume]] è rotta; le ultime dita di foglia  
 S'aggrappano e affondano nella riva bagnata. Il [[motifs/wind|vento]]  
 Attraversa la terra bruna, inudito. Le ninfe sono partite.  
-Dolce Tamigi, scorri piano, finché non finisca il mio [[Song|canto]].  
+Dolce Tamigi, scorri piano, finché non finisca il mio canto.  
 Il [[motifs/river|fiume]] non porta bottiglie vuote, carte da panini,  
 Fazzoletti di seta, scatole di cartone, mozziconi di sigaretta  
 O altra testimonianza di notti d'[[motifs/summer|estate]]. Le ninfe sono partite.  
@@ -2815,7 +2815,7 @@ E i loro amici, gli oziosi eredi dei direttori della [[motifs/city|City]];
 
 Partiti, non hanno lasciato indirizzi.  
 Presso le acque del Lemano mi sedetti e piansi …  
-Dolce Tamigi, scorri piano finché non finisca il mio [[Song|canto]],  
+Dolce Tamigi, scorri piano finché non finisca il mio canto,  
 Dolce Tamigi, scorri piano, ché non parlo forte né a lungo.  
 Ma alle mie spalle in una fredda raffica odo  
 Lo sferragliare delle ossa, e un ghigno steso da orecchio a orecchio.  
@@ -2874,7 +2874,7 @@ Anch'io attendevo l'ospite atteso.
 
 
 Egli, il giovanotto foruncoloso, arriva,  
-Impiegato di un piccolo agente di [[house|case]], con uno sguardo sfrontato,  
+Impiegato di un piccolo agente di case, con uno sguardo sfrontato,  
 Uno degli infimi su cui la sicurezza sta  
 Come un cilindro di seta su un milionario di Bradford.  
 Il [[motifs/time|momento]] è ora propizio, come indovina,  
@@ -2900,7 +2900,7 @@ Appena consapevole dell'[[archetypes/lover|amante]] partito;
 Il suo cervello lascia passare un pensiero mezzo formato:  
 ‘[[motifs/well|Beh]] ora è fatta: e sono contenta che sia finita.’  
 Quando amabile donna cede alla follia e  
-Torna a misurare la sua stanza, [[Alone|sola]],  
+Torna a misurare la sua stanza, sola,  
 Si liscia i capelli con mano automatica,  
 E mette un disco sul grammofono.  
     ‘Questa musica mi strisciò accanto sulle acque’  
@@ -2926,7 +2926,7 @@ Inesplicabile splendore di bianco e oro ionico.
                     Le chiatte lavano  
                     Tronchi alla deriva  
                     Giù per il tratto di Greenwich  
-                    Oltre l'Isle of [[dogs|Dogs]].  
+                    Oltre l'Isle of Dogs.  
                                          Weialala leia  
                                          Wallala leialala  
                     Elisabetta e Leicester  
@@ -3375,7 +3375,7 @@ Illa negat; placuit quae sit sententia docti
 Quaerere Tiresiae; [[characters/venus|Venus]] huic erat utraque nota.  
 Nam duo magnorum viridi coeuntia silva  
 Corpora serpentum baculi violaverat ictu  
-Deque viro factus, mirabile, [[femina]] septem  
+Deque viro factus, mirabile, femina septem  
 Egerat autumnos; octavo rursus eosdem  
 Vidit et ‘est vestrae si tanta potentia plagae’,  
 Dixit ‘ut auctoris sortem in contraria mutet,  
@@ -3391,7 +3391,7 @@ Scire futura dedit poenamque levavit honore.
 221. This may not appear as exact as Sappho’s lines, but I had in mind the ‘longshore’ or ‘dory’ fisherman, who returns at nightfall.
 
 
-253. V. Goldsmith, the [[Song|song]] in The Vicar of Wakefield.
+253. V. Goldsmith, the song in The Vicar of Wakefield.
 257. V. The Tempest, as above.
 
 
@@ -3404,7 +3404,7 @@ Scire futura dedit poenamque levavit honore.
 279. V. Froude, Elizabeth, Vol. I, ch. iv, letter of De Quadra to Philip of Spain:
 
 
-‘In the afternoon we were in a barge, watching the games on the [[motifs/river|river]]. (The [[characters/queen|Queen]]) was [[Alone|alone]] with Lord Robert and myself on the poop, when they began to talk nonsense, and went so far that Lord Robert at last said, as I was on the spot there was no reason why they should not be married if the [[characters/queen|queen]] pleased.’  
+‘In the afternoon we were in a barge, watching the games on the [[motifs/river|river]]. (The [[characters/queen|Queen]]) was alone with Lord Robert and myself on the poop, when they began to talk nonsense, and went so far that Lord Robert at last said, as I was on the spot there was no reason why they should not be married if the [[characters/queen|queen]] pleased.’  
 
 
 293. Cf. Purgatorio, V. 133:
@@ -3425,7 +3425,7 @@ V. WHAT THE THUNDER SAID
 In the first part of Part V three themes are employed: the [[motifs/journey|journey]] to Emmaus, the approach to the Chapel Perilous (see Miss Weston’s book) and the present [[motifs/decay|decay]] of eastern Europe.  
 
 
-357. This is Turdus aonalaschkae pallasii, the hermit-thrush which I have heard in Quebec Province. Chapman says (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) ‘it is most at [[motifs/home|home]] in secluded woodland and thickety retreats…. Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequalled.’ Its ‘[[motifs/water|water]]-dripping [[Song|song]]’ is justly celebrated.
+357. This is Turdus aonalaschkae pallasii, the hermit-thrush which I have heard in Quebec Province. Chapman says (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) ‘it is most at [[motifs/home|home]] in secluded woodland and thickety retreats…. Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequalled.’ Its ‘[[motifs/water|water]]-dripping song’ is justly celebrated.
 
 
 360. The following lines were stimulated by the account of one of the Antarctic expeditions (I forget which, but I think one of Shackleton’s): it was related that the party of explorers, at the extremity of their strength, had the constant delusion that there was one more member than could actually be counted.
@@ -3692,7 +3692,7 @@ Illa negat; placuit quae sit sententia docti
 Quaerere Tiresiae; [[characters/venus|Venus]] huic erat utraque nota.  
 Nam duo magnorum viridi coeuntia silva  
 Corpora serpentum baculi violaverat ictu  
-Deque viro factus, mirabile, [[femina]] septem  
+Deque viro factus, mirabile, femina septem  
 Egerat autumnos; octavo rursus eosdem  
 Vidit et ‘est vestrae si tanta potentia plagae’,  
 Dixit ‘ut auctoris sortem in contraria mutet,  
@@ -3708,7 +3708,7 @@ Scire futura dedit poenamque levavit honore.
 221. This may not appear as exact as Sappho’s lines, but I had in mind the ‘longshore’ or ‘dory’ fisherman, who returns at nightfall.
 
 
-253. V. Goldsmith, the [[Song|song]] in The Vicar of Wakefield.
+253. V. Goldsmith, the song in The Vicar of Wakefield.
 257. V. The Tempest, as above.
 
 
@@ -3721,7 +3721,7 @@ Scire futura dedit poenamque levavit honore.
 279. V. Froude, Elizabeth, Vol. I, ch. iv, letter of De Quadra to Philip of Spain:
 
 
-‘In the afternoon we were in a barge, watching the games on the [[motifs/river|river]]. (The [[characters/queen|Queen]]) was [[Alone|alone]] with Lord Robert and myself on the poop, when they began to talk nonsense, and went so far that Lord Robert at last said, as I was on the spot there was no reason why they should not be married if the [[characters/queen|queen]] pleased.’  
+‘In the afternoon we were in a barge, watching the games on the [[motifs/river|river]]. (The [[characters/queen|Queen]]) was alone with Lord Robert and myself on the poop, when they began to talk nonsense, and went so far that Lord Robert at last said, as I was on the spot there was no reason why they should not be married if the [[characters/queen|queen]] pleased.’  
 
 
 293. Cf. Purgatorio, V. 133:
@@ -3742,7 +3742,7 @@ V. WHAT THE THUNDER SAID
 In the first part of Part V three themes are employed: the [[motifs/journey|journey]] to Emmaus, the approach to the Chapel Perilous (see Miss Weston’s book) and the present [[motifs/decay|decay]] of eastern Europe.  
 
 
-357. This is Turdus aonalaschkae pallasii, the hermit-thrush which I have heard in Quebec Province. Chapman says (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) ‘it is most at [[motifs/home|home]] in secluded woodland and thickety retreats…. Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequalled.’ Its ‘[[motifs/water|water]]-dripping [[Song|song]]’ is justly celebrated.
+357. This is Turdus aonalaschkae pallasii, the hermit-thrush which I have heard in Quebec Province. Chapman says (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) ‘it is most at [[motifs/home|home]] in secluded woodland and thickety retreats…. Its notes are not remarkable for variety or volume, but in purity and sweetness of tone and exquisite modulation they are unequalled.’ Its ‘[[motifs/water|water]]-dripping song’ is justly celebrated.
 
 
 360. The following lines were stimulated by the account of one of the Antarctic expeditions (I forget which, but I think one of Shackleton’s): it was related that the party of explorers, at the extremity of their strength, had the constant delusion that there was one more member than could actually be counted.
@@ -3859,7 +3859,7 @@ Illa negat; placuit quae sit sententia docti
 Quaerere Tiresiae; [[characters/venus|Venus]] huic erat utraque nota.  
 Nam duo magnorum viridi coeuntia silva  
 Corpora serpentum baculi violaverat ictu  
-Deque viro factus, mirabile, [[femina]] septem  
+Deque viro factus, mirabile, femina septem  
 Egerat autumnos; octavo rursus eosdem  
 Vidit et ‘est vestrae si tanta potentia plagae’,  
 Dixit ‘ut auctoris sortem in contraria mutet,  
@@ -3875,20 +3875,20 @@ Scire futura dedit poenamque levavit honore.
 221. Questo può non apparire esatto quanto i versi di Saffo, ma avevo in mente il pescatore ‘longshore’ o ‘dory’, che rientra al calar della notte.
 
 
-253. V. Goldsmith, la [[Song|canzone]] in The Vicar of Wakefield.  
+253. V. Goldsmith, la canzone in The Vicar of Wakefield.  
 257. V. La tempesta, come sopra.
 
 
 264. L'interno di St. Magnus Martyr è a mio giudizio uno dei più belli fra gli interni di Wren. Si veda The Proposed Demolition of Nineteen [[motifs/city|City]] Churches: (P. S. [[archetypes/king|King]] & Son, Ltd.).
 
 
-266. Il [[Song|Canto]] delle (tre) figlie del Tamigi comincia qui. Dal verso 292 al 306 incluso esse parlano a turno. V. Götterdämmerung, III, i: le figlie del Reno.
+266. Il Canto delle (tre) figlie del Tamigi comincia qui. Dal verso 292 al 306 incluso esse parlano a turno. V. Götterdämmerung, III, i: le figlie del Reno.
 
 
 279. V. Froude, Elizabeth, Vol. I, cap. iv, lettera di De Quadra a Filippo di Spagna:
 
 
-‘Nel pomeriggio eravamo su una chiatta, a guardare i giochi sul [[motifs/river|fiume]]. (La [[characters/queen|Regina]]) era [[Alone|sola]] con Lord Robert e con me a poppa, quando cominciarono a dire sciocchezze, e andarono tanto oltre che Lord Robert alla fine disse che, trovandomi io presente, non c'era ragione perché non si sposassero se alla [[characters/queen|regina]] fosse piaciuto.’  
+‘Nel pomeriggio eravamo su una chiatta, a guardare i giochi sul [[motifs/river|fiume]]. (La [[characters/queen|Regina]]) era sola con Lord Robert e con me a poppa, quando cominciarono a dire sciocchezze, e andarono tanto oltre che Lord Robert alla fine disse che, trovandomi io presente, non c'era ragione perché non si sposassero se alla [[characters/queen|regina]] fosse piaciuto.’  
 
 
 293. Cfr. Purgatorio, V. 133:
@@ -3909,7 +3909,7 @@ V. CIÒ CHE DISSE IL TUONO
 Nella prima parte della Parte V sono impiegati tre temi: il [[motifs/journey|viaggio]] a Emmaus, l'accostarsi alla Cappella Perigliosa (si veda il libro di Miss Weston) e l'attuale [[motifs/decay|decadenza]] dell'Europa orientale.  
 
 
-357. È il Turdus aonalaschkae pallasii, il tordo eremita che ho udito nella Provincia del Quebec. Chapman dice (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) che ‘è più a [[motifs/home|casa]] sua in boschi appartati e in rifugi di macchia…. Le sue note non sono notevoli per varietà o volume, ma per purezza e dolcezza di tono e per squisita modulazione non hanno pari.’ Il suo ‘[[motifs/water|acqua]]-stillante [[Song|canto]]’ è giustamente celebre.
+357. È il Turdus aonalaschkae pallasii, il tordo eremita che ho udito nella Provincia del Quebec. Chapman dice (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) che ‘è più a [[motifs/home|casa]] sua in boschi appartati e in rifugi di macchia…. Le sue note non sono notevoli per varietà o volume, ma per purezza e dolcezza di tono e per squisita modulazione non hanno pari.’ Il suo ‘[[motifs/water|acqua]]-stillante canto’ è giustamente celebre.
 
 
 360. I versi seguenti furono suggeriti dal racconto di una delle spedizioni antartiche (non ricordo quale, ma credo una di Shackleton): si narrava che il gruppo degli esploratori, allo stremo delle forze, avesse la costante illusione che vi fosse un membro in più di quanti se ne potessero effettivamente contare.

@@ -16,17 +16,17 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 13. Sleep is supposed to be (Dickinson)
-- 146. On such a night, or such a night, (Dickinson)
-- 1533. On that specific Pillow (Dickinson)
-- 194. On this long storm the Rainbow rose — (Dickinson)
-- 363. I went to thank Her — (Dickinson)
-- 369. She lay as if at play (Dickinson)
-- 542. I had no Cause to be awake — (Dickinson)
-- 654. A long — long Sleep — A famous — Sleep — (Dickinson)
-- 804. No Notice gave She, but a Change — (Dickinson)
-- 829. Ample make this Bed — (Dickinson)
-- 96. Sexton! My Master's sleeping here. (Dickinson)
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0013_sleep_is_supposed_to_be|13. Sleep is supposed to be (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0146_on_such_a_night_or_such_a_night|146. On such a night, or such a night, (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1533_on_that_specific_pillow|1533. On that specific Pillow (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0194_on_this_long_storm_the_rainbow_rose|194. On this long storm the Rainbow rose — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0363_i_went_to_thank_her|363. I went to thank Her — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0369_she_lay_as_if_at_play|369. She lay as if at play (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0542_i_had_no_cause_to_be_awake|542. I had no Cause to be awake — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0654_a_long_long_sleep_a_famous_sleep|654. A long — long Sleep — A famous — Sleep — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0804_no_notice_gave_she_but_a_change|804. No Notice gave She, but a Change — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0829_ample_make_this_bed|829. Ample make this Bed — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0096_sexton_my_masters_sleeping_here|96. Sexton! My Master's sleeping here. (Dickinson)]]
 - [[works/epitaph-on-himself-(coleridge)|EPITAPH ON HIMSELF (Coleridge)]]
 - [[works/for-annie-(poe)|For Annie (Poe)]]
 - [[works/mesmeric-revelation-(poe)|Mesmeric Revelation (Poe)]]

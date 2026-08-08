@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/temptation|Temptation]]
 **Forms & Genres:** [[forms/satire|Satire]]

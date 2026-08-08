@@ -52,7 +52,7 @@ How sing the splendour of the revelries,
 When buts of wine are drunk off to the lees?  
 And that bright lance, against the fretted wall,  
 Beneath the shade of stately banneral,  
-Is slung with shining cuirass, [[Sword|sword]], and shield?  
+Is slung with shining cuirass, sword, and shield?  
 Where ye may see a spur in bloody field.  
 Light-footed damsels move with gentle paces  
 Round the wide hall, and show their happy faces;  
@@ -157,7 +157,7 @@ Had found white coursers prancing in the glen:
 Friends very dear to him he soon will see;  
 So pushes off his boat most eagerly,  
 And soon upon the lake he skims along,  
-Deaf to the [[motifs/nightingale|nightingale]]’s first under-[[Song|song]];  
+Deaf to the [[motifs/nightingale|nightingale]]’s first under-song;  
 Nor minds he the white swans that dream so sweetly:  
 His spirit flies before him so completely.  
 
@@ -255,10 +255,10 @@ Sweet as blue heavens o’er enchanted isles.
 
 Softly the breezes from the forest came,  
 Softly they blew aside the taper’s flame;  
-Clear was the [[Song|song]] from Philomel’s far bower;  
+Clear was the song from Philomel’s far bower;  
 Grateful the incense from the lime-tree flower;  
 Mysterious, wild, the far heard trumpet’s tone;  
-Lovely the [[motifs/moon|moon]] in ether, all [[Alone|alone]]:  
+Lovely the [[motifs/moon|moon]] in ether, all alone:  
 Sweet too the converse of these happy mortals,  
 As that of busy spirits when the portals  
 Are closing in the west; or that soft humming  
@@ -271,7 +271,7 @@ Sweet be their [[motifs/sleep|sleep]]. * * * * * * * * *
 <span class="atom-split" data-atom="027_to_kosciusko" data-title="TO KOSCIUSKO" data-chapter="" data-kind="intro"></span>
 
 
-Good Kosciusko, thy great name [[Alone|alone]]  
+Good Kosciusko, thy great name alone  
   Is a full harvest whence to reap high feeling;  
   It comes upon us like the glorious pealing  
 Of the wide spheres — an everlasting tone.  
@@ -443,7 +443,7 @@ SCENE IV.
 | FIRST CAPTAIN | The [[archetypes/king\|King]]- |
 | SECOND CAPTAIN | The Empress greets- |
 | GLOCESTER | What of the [[archetypes/king\|King]]? |
-| FIRST CAPTAIN | He sole and lone maintains<br>A hopeless bustle mid our swarming arms,<br>And with a nimble savageness attacks,<br>Escapes, makes fiercer onset, then anew<br>Eludes [[motifs/death\|death]], giving [[motifs/death\|death]] to most that dare<br>Trespass within the circuit of his [[Sword\|sword]]!<br>He must by this have fallen. Baldwin is taken;<br>And for the Duke of Bretagne, like a stag<br>He flies, for the Welsh beagles to hunt down.<br>God save the Empress! |
+| FIRST CAPTAIN | He sole and lone maintains<br>A hopeless bustle mid our swarming arms,<br>And with a nimble savageness attacks,<br>Escapes, makes fiercer onset, then anew<br>Eludes [[motifs/death\|death]], giving [[motifs/death\|death]] to most that dare<br>Trespass within the circuit of his sword!<br>He must by this have fallen. Baldwin is taken;<br>And for the Duke of Bretagne, like a stag<br>He flies, for the Welsh beagles to hunt down.<br>God save the Empress! |
 | GLOCESTER | Now our dreaded [[characters/queen\|Queen]]:<br>What message from her Highness? |
 | SECOND CAPTAIN | Royal Maud<br>From the throng’d towers of [[characters/lincoln\|Lincoln]] hath look’d down,<br>Like Pallas from the walls of Ilion,<br>And seen her enemies havock’d at her feet.<br>She greets most noble Glocester from her heart,<br>Intreating him, his captains, and brave knights,<br>To grace a banquet. The high [[motifs/city\|city]] gates<br>Are envious which shall see your triumph pass;<br>The streets are full of music. - |
 | *(didascalia)* | Enter Second Knight. - |
@@ -454,8 +454,8 @@ SCENE IV.
 | GLOCESTER | A mighty soldier!- Does he still hold out? |
 | SECOND KNIGHT | He shames our victory. His valour still<br>Keeps elbow-room amid our eager swords,<br>And holds our bladed falchions all aloof-<br>His gleaming battle-axe being slaughter-sick,<br>Smote on the morion of a Flemish knight,<br>Broke short in his hand; upon the which he flung<br>The heft away with such a vengeful force,<br>It paunch’d the Earl of Chester’s [[motifs/horse\|horse]], who then<br>Spleen-hearted came in full career at him. |
 | GLOCESTER | Did no one take him at a vantage then? |
-| SECOND KNIGHT | Three then with tiger leap upon him flew,<br>Whom, with his [[Sword\|sword]] swift-drawn and nimbly held,<br>He stung away again, and stood to breathe, |
-| Smiling | Anon upon him rush’d once more<br>A throng of foes, and in this renew’d strife,<br>My [[Sword\|sword]] met his and snapp’d off at the hilts. |
+| SECOND KNIGHT | Three then with tiger leap upon him flew,<br>Whom, with his sword swift-drawn and nimbly held,<br>He stung away again, and stood to breathe, |
+| Smiling | Anon upon him rush’d once more<br>A throng of foes, and in this renew’d strife,<br>My sword met his and snapp’d off at the hilts. |
 | GLOCESTER | Come, lead me to this Mars- and let us move<br>In [[motifs/silence\|silence]], not insulting his sad doom<br>With clamorous trumpets. To the Empress bear<br>My salutation as befits the [[motifs/time\|time]].<br>[Exeunt Glocester and Forces. |
 
 ### SCENE III.
@@ -463,9 +463,9 @@ SCENE IV.
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | The Field of Battle. Enter Stephen unarmed. - |
-| STEPHEN | Another [[Sword\|sword]]! And what if I could seize<br>One from Bellona’s gleaming armoury,<br>Or choose the fairest of her sheaved spears!<br>Where are my enemies? Here, close at hand,<br>Here come the testy brood. O for a [[Sword\|sword]]!<br>I’m faint- a biting [[Sword\|sword]]! A noble [[Sword\|sword]]!<br>A hedge-stake- or a ponderous stone to hurl<br>With brawny vengeance, like the labourer [[characters/cain\|Cain]].<br>Come on! Farewell my kingdom, and all hail<br>Thou superb, plumb’d, and helmeted renown,<br>All hail- I would not truck this brilliant day<br>To rule in Pylos with a Nestor’s beard-<br>Come on! - |
+| STEPHEN | Another sword! And what if I could seize<br>One from Bellona’s gleaming armoury,<br>Or choose the fairest of her sheaved spears!<br>Where are my enemies? Here, close at hand,<br>Here come the testy brood. O for a sword!<br>I’m faint- a biting sword! A noble sword!<br>A hedge-stake- or a ponderous stone to hurl<br>With brawny vengeance, like the labourer [[characters/cain\|Cain]].<br>Come on! Farewell my kingdom, and all hail<br>Thou superb, plumb’d, and helmeted renown,<br>All hail- I would not truck this brilliant day<br>To rule in Pylos with a Nestor’s beard-<br>Come on! - |
 | *(didascalia)* | Enter De Kaims and Knights, &c. - |
-| DE KAIMS | Is’t [[concepts/madness\|madness]], or a hunger after [[motifs/death\|death]],<br>That makes thee thus unarm’d throw taunts at us?<br>Yield, Stephen, or my [[Sword\|sword]]’s point dip in<br>The gloomy current of a traitor’s heart. |
+| DE KAIMS | Is’t [[concepts/madness\|madness]], or a hunger after [[motifs/death\|death]],<br>That makes thee thus unarm’d throw taunts at us?<br>Yield, Stephen, or my sword’s point dip in<br>The gloomy current of a traitor’s heart. |
 | STEPHEN | Do it, De Kaims, I will not budge an inch. |
 | DE KAIMS | Yes, of thy [[concepts/madness\|madness]] thou shalt take the meed. |
 | STEPHEN | Darest thou? |

@@ -54,7 +54,7 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** Thomas Becket
+**Characters:** [[characters/thomas-becket|Thomas Becket]]
 
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/education|Education]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/class-conflict|Class Conflict]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/antisemitism|Antisemitism]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/poem-sequence|Poem Sequence]], [[forms/satire|Satire]], [[forms/parody|Parody]]

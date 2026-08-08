@@ -52,66 +52,66 @@ tags:
 - [[works/trochaics-(coleridge)|TROCHAICS (Coleridge)]]
 - [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
-- 1059. Sang from the Heart, Sire, (Dickinson)
-- 1061. Three Weeks passed since I had seen Her — (Dickinson)
-- 1084. At Half past Three, a single Bird (Dickinson)
-- 1102. His Bill is clasped — his Eye forsook — (Dickinson)
-- 1104. The Crickets sang (Dickinson)
-- 1265. The most triumphant Bird I ever knew or met (Dickinson)
-- 1279. The Way to know the Bobolink (Dickinson)
-- 1304. Not with a Club, the Heart is broken (Dickinson)
-- 1420. One Joy of so much anguish (Dickinson)
-- 1465. Before you thought of Spring (Dickinson)
-- 1466. One of the ones that Midas touched (Dickinson)
-- 1480. The fascinating chill that music leaves (Dickinson)
-- 1568. To see her is a Picture — (Dickinson)
-- 157. Musicians wrestle everywhere — (Dickinson)
-- 1576. The Spirit lasts — but in what mode — (Dickinson)
-- 1585. The Bird her punctual music brings (Dickinson)
-- 1591. The Bobolink is gone — (Dickinson)
-- 1600. Upon his Saddle sprung a Bird (Dickinson)
-- 161. A feather from the Whippoorwill (Dickinson)
-- 1630. As from the earth the light Balloon (Dickinson)
-- 167. To learn the Transport by the Pain (Dickinson)
-- 1761. A train went through a burial gate, (Dickinson)
-- 1764. The saddest noise, the sweetest noise, (Dickinson)
-- 1775. The earth has many keys, (Dickinson)
-- 179. If I could bribe them by a Rose (Dickinson)
-- 183. I've heard an Organ talk, sometimes (Dickinson)
-- 24. There is a morn by men unseen — (Dickinson)
-- 297. It's like the Light — (Dickinson)
-- 302. Like Some Old fashioned Miracle (Dickinson)
-- 312. Her — last Poems — (Dickinson)
-- 315. He fumbles at your Soul (Dickinson)
-- 321. Of all the Sounds despatched abroad, (Dickinson)
-- 324. Some keep the Sabbath going to Church — (Dickinson)
-- 326. I cannot dance upon my Toes — (Dickinson)
-- 348. I dreaded that first Robin, so, (Dickinson)
-- 364. The Morning after Woe — (Dickinson)
-- 367. Over and over, like a Tune — (Dickinson)
-- 410. The first Day's Night had come — (Dickinson)
-- 436. The Wind — tapped like a tired Man — (Dickinson)
-- 5. I have a Bird in spring (Dickinson)
-- 503. Better — than Music! For I — who heard it — (Dickinson)
-- 505. I would not paint — a picture — (Dickinson)
-- 526. To hear an Oriole sing (Dickinson)
-- 616. I rose — because He sank — (Dickinson)
-- 634. You'll know Her — by Her Foot — (Dickinson)
-- 635. I think the longest Hour of all (Dickinson)
-- 653. Of Being is a Bird (Dickinson)
-- 673. The Love a Life can show Below (Dickinson)
-- 699. The Judge is like the Owl — (Dickinson)
-- 706. Life, and Death, and Giants — (Dickinson)
-- 733. The Spirit is the Conscious Ear. (Dickinson)
-- 746. Never for Society (Dickinson)
-- 755. No Bobolink — reverse His Singing (Dickinson)
-- 774. It is a lonesome Glee — (Dickinson)
-- 783. The Birds begun at Four o'clock — (Dickinson)
-- 797. By my Window have I for Scenery (Dickinson)
-- 83. Heart, not so heavy as mine (Dickinson)
-- 850. I sing to use the Waiting (Dickinson)
-- 861. Split the Lark — and you'll find the Music — (Dickinson)
-- 880. The Bird must sing to earn the Crumb (Dickinson)
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1059_sang_from_the_heart_sire|1059. Sang from the Heart, Sire, (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1061_three_weeks_passed_since_i_had_seen_her|1061. Three Weeks passed since I had seen Her — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1084_at_half_past_three_a_single_bird|1084. At Half past Three, a single Bird (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1102_his_bill_is_clasped_his_eye_forsook|1102. His Bill is clasped — his Eye forsook — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1104_the_crickets_sang|1104. The Crickets sang (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1265_the_most_triumphant_bird_i_ever_knew_or_met|1265. The most triumphant Bird I ever knew or met (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1279_the_way_to_know_the_bobolink|1279. The Way to know the Bobolink (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1304_not_with_a_club_the_heart_is_broken|1304. Not with a Club, the Heart is broken (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1420_one_joy_of_so_much_anguish|1420. One Joy of so much anguish (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#1465_before_you_thought_of_spring|1465. Before you thought of Spring (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1466_one_of_the_ones_that_midas_touched|1466. One of the ones that Midas touched (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1480_the_fascinating_chill_that_music_leaves|1480. The fascinating chill that music leaves (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#1568_to_see_her_is_a_picture|1568. To see her is a Picture — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0157_musicians_wrestle_everywhere|157. Musicians wrestle everywhere — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1576_the_spirit_lasts_but_in_what_mode|1576. The Spirit lasts — but in what mode — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1585_the_bird_her_punctual_music_brings|1585. The Bird her punctual music brings (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1591_the_bobolink_is_gone|1591. The Bobolink is gone — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1600_upon_his_saddle_sprung_a_bird|1600. Upon his Saddle sprung a Bird (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0161_a_feather_from_the_whippoorwill|161. A feather from the Whippoorwill (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1630_as_from_the_earth_the_light_balloon|1630. As from the earth the light Balloon (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0167_to_learn_the_transport_by_the_pain|167. To learn the Transport by the Pain (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1761_a_train_went_through_a_burial_gate|1761. A train went through a burial gate, (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1764_the_saddest_noise_the_sweetest_noise|1764. The saddest noise, the sweetest noise, (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1775_the_earth_has_many_keys|1775. The earth has many keys, (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0179_if_i_could_bribe_them_by_a_rose|179. If I could bribe them by a Rose (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0183_ive_heard_an_organ_talk_sometimes|183. I've heard an Organ talk, sometimes (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0024_there_is_a_morn_by_men_unseen|24. There is a morn by men unseen — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0297_its_like_the_light|297. It's like the Light — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0302_like_some_old_fashioned_miracle|302. Like Some Old fashioned Miracle (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0312_her_last_poems|312. Her — last Poems — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0315_he_fumbles_at_your_soul|315. He fumbles at your Soul (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0321_of_all_the_sounds_despatched_abroad|321. Of all the Sounds despatched abroad, (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0324_some_keep_the_sabbath_going_to_church|324. Some keep the Sabbath going to Church — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0326_i_cannot_dance_upon_my_toes|326. I cannot dance upon my Toes — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0348_i_dreaded_that_first_robin_so|348. I dreaded that first Robin, so, (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0364_the_morning_after_woe|364. The Morning after Woe — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0367_over_and_over_like_a_tune|367. Over and over, like a Tune — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0410_the_first_days_night_had_come|410. The first Day's Night had come — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0436_the_wind_tapped_like_a_tired_man|436. The Wind — tapped like a tired Man — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0005_i_have_a_bird_in_spring|5. I have a Bird in spring (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0503_better_than_music_for_i_who_heard_it|503. Better — than Music! For I — who heard it — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0505_i_would_not_paint_a_picture|505. I would not paint — a picture — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0526_to_hear_an_oriole_sing|526. To hear an Oriole sing (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0616_i_rose_because_he_sank|616. I rose — because He sank — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0634_youll_know_her_by_her_foot|634. You'll know Her — by Her Foot — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0635_i_think_the_longest_hour_of_all|635. I think the longest Hour of all (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0653_of_being_is_a_bird|653. Of Being is a Bird (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0673_the_love_a_life_can_show_below|673. The Love a Life can show Below (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0699_the_judge_is_like_the_owl|699. The Judge is like the Owl — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0706_life_and_death_and_giants|706. Life, and Death, and Giants — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0733_the_spirit_is_the_conscious_ear|733. The Spirit is the Conscious Ear. (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0746_never_for_society|746. Never for Society (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0755_no_bobolink_reverse_his_singing|755. No Bobolink — reverse His Singing (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0774_it_is_a_lonesome_glee|774. It is a lonesome Glee — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0783_the_birds_begun_at_four_oclock|783. The Birds begun at Four o'clock — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0797_by_my_window_have_i_for_scenery|797. By my Window have I for Scenery (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0083_heart_not_so_heavy_as_mine|83. Heart, not so heavy as mine (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0850_i_sing_to_use_the_waiting|850. I sing to use the Waiting (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0861_split_the_lark_and_youll_find_the_music|861. Split the Lark — and you'll find the Music — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0880_the_bird_must_sing_to_earn_the_crumb|880. The Bird must sing to earn the Crumb (Dickinson)]]
 - [[works/conversation-galante-(eliot)|Conversation Galante (Eliot)]]
 - [[works/iii-at-the-first-turning-of-the-second-stair-(eliot)|III At the first turning of the second stair (Eliot)]]
 - [[works/portrait-of-a-lady-(eliot)|Portrait of a Lady (Eliot)]]
@@ -141,9 +141,9 @@ tags:
 - [[works/the-devil-in-the-belfry-(poe)|The Devil in the Belfry (Poe)]]
 - [[works/the-haunted-palace-(poe)|The Haunted Palace (Poe)]]
 - [[works/to-isadore-(poe)|To Isadore (Poe)]]
-- Sonnet 102 (Shakespeare)
-- Sonnet 128 (Shakespeare)
-- Sonnet 8 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_102|Sonnet 102 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_128|Sonnet 128 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_008|Sonnet 8 (Shakespeare)]]
 - [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
 - [[works/the-two-gentlemen-of-verona-(shakespeare)|THE TWO GENTLEMEN OF VERONA (Shakespeare)]]
 - [[works/twelfth-night-(shakespeare)|TWELFTH NIGHT (Shakespeare)]]

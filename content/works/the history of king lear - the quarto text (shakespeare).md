@@ -85,12 +85,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/great-chain-of-being|Great Chain of Being]]
-**Archetypes:** King, Tragic Hero, Fool, Villain, Outsider
+**Archetypes:** [[archetypes/king|King]], [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/fool|Fool]], [[archetypes/villain|Villain]], [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/storm|Storm]], [[concepts/nature|Nature]], [[motifs/madness-(2)|Madness (2)]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/animals|Animals]], [[motifs/nakedness|Nakedness]], [[motifs/crown|Crown]]
 **Themes & Concepts:** [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/madness|Madness]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/natural-order|Natural Order]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/pride|Pride]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/mortality|Mortality]], [[concepts/humility|Humility]], [[concepts/fate-and-free-will|Fate and Free Will]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Settings:** [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/court|Court]]
-**Characters:** King Lear, Cordelia, Goneril, Regan, Edmund, Edgar, Gloucester, Kent, Fool (2)
+**Characters:** [[characters/king-lear|King Lear]], [[characters/cordelia|Cordelia]], [[characters/goneril|Goneril]], [[characters/regan|Regan]], [[characters/edmund|Edmund]], [[characters/edgar|Edgar]], [[characters/gloucester|Gloucester]], [[characters/kent|Kent]], [[characters/fool-(2)|Fool (2)]]
 
 ## Testo integrale / Full text
 

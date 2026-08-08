@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Crone
+**Archetypes:** [[archetypes/crone|Crone]]
 **Motifs:** [[motifs/flags-and-banners|Flags and Banners]]
 **Themes & Concepts:** [[concepts/slavery|Slavery]], [[concepts/social-injustice|Social Injustice]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]

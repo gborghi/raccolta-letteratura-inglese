@@ -50,11 +50,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Self-Made Man
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
 
 **Topoi:** [[topoi/vanitas|Vanitas]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** Midas, Vanderbilt
+**Characters:** [[characters/midas|Midas]], [[characters/vanderbilt|Vanderbilt]]
 
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/secrets|Secrets]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/pride|Pride]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/self-reliance-and-earned-success|Self-Reliance and Earned Success]], [[concepts/deception|Deception]], [[concepts/economics|Economics]]

@@ -35,7 +35,7 @@ tags:
 
 **Historical References:** [[historical-references/bible|Bible]]
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 
 **Motifs:** [[motifs/grave|Grave]], [[motifs/silence|Silence]]
 

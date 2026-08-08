@@ -59,13 +59,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint, Prophet
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/prophet|Prophet]]
 
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]]
 
 **Topoi:** [[topoi/contemptus-mundi|Contemptus Mundi]]
 
-**Characters:** Christ, [[historical-references/robert-blatchford|Robert Blatchford]], Moses
+**Characters:** [[characters/christ|Christ]], [[historical-references/robert-blatchford|Robert Blatchford]], [[characters/moses|Moses]]
 
 **Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/faith|Faith]], [[concepts/doubt|Doubt]], [[concepts/truth|Truth]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/self-denial-and-renunciation|Self-Denial and Renunciation]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/supernatural-(2)|Supernatural (2)]], [[concepts/joy|Joy]], [[concepts/rationalism|Rationalism]], [[concepts/revelation|Revelation]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]

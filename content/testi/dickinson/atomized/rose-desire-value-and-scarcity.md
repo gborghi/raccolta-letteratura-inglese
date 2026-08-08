@@ -31,7 +31,7 @@ Which in the Clover dwell.
 
 Garlands for Queens, may be -  
 Laurels - for rare degree  
-Of [[motifs/soul|soul]] or [[Sword|sword]] -  
+Of [[motifs/soul|soul]] or sword -  
 Ah - but remembering me -  
 Ah - but remembering thee -  
 [[concepts/nature|Nature]] in chivalry -  
@@ -185,7 +185,7 @@ If they would linger for a Bird
 My Tambourin were soonest heard  
 Among the April Woods!  
 Unwearied, all the [[motifs/summer|summer]] long,  
-Only to break in wilder [[Song|song]]  
+Only to break in wilder song  
 When [[motifs/winter|Winter]] shook the boughs!  
 
 What if they hear me!  
@@ -283,7 +283,7 @@ Mine was the only one
 
 I was so happy I forgot  
 To shut the [[motifs/door|Door]] And it went out  
-And I am all [[Alone|alone]] —  
+And I am all alone —  
 
 If I could find it Anywhere  
 I would not mind the [[motifs/journey|journey]] there  
@@ -466,7 +466,7 @@ Should disentrall thy [[motifs/soul|soul]] —
 <span class="atom-split" data-atom="1434_go_not_too_near_a_house_of_rose" data-title="1434. Go not too near a House of Rose —" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/desire,motif/flowers,concept/beauty,concept/transience,concept/joy,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-Go not too near a [[house|House]] of [[motifs/rose|Rose]] —  
+Go not too near a House of [[motifs/rose|Rose]] —  
 The depredation of a Breeze —  
 Or inundation of a [[motifs/dew|Dew]]  
 Alarms its walls away —  

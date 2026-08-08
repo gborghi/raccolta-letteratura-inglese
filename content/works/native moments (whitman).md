@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/common-man|Common Man]], [[concepts/joy|Joy]], [[concepts/friendship|Friendship]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 

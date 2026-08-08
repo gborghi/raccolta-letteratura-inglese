@@ -91,7 +91,7 @@ tags:
 
 **Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/renaissance|Renaissance]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/medieval-england|Medieval England]]
 
-**Archetypes:** Hero, Prophet, Martyr Saint, Fool
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/prophet|Prophet]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/fool|Fool]]
 
 **Settings:** [[settings/italy|Italy]], [[settings/london|London]], [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/russia|Russia]], [[settings/europe|Europe]]
 
@@ -99,7 +99,7 @@ tags:
 
 **Topoi:** [[topoi/contemptus-mundi|Contemptus Mundi]], [[topoi/poet-as-prophet|Poet as Prophet]]
 
-**Characters:** Jane Eyre, Mr Rochester, Christ, Charlotte Bronte, [[historical-references/william-morris|William Morris]], Lord Byron, Alexander Pope, St Francis of Assisi, Edmond Rostand, Charles II, [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]], Thomas Carlyle, Leo Tolstoy, Girolamo Savonarola, Sir Walter Scott, Cyrano de Bergerac, Prince Florizel of Bohemia, Rob Roy, Meg Merrilees
+**Characters:** [[characters/jane-eyre|Jane Eyre]], [[characters/mr-rochester|Mr Rochester]], [[characters/christ|Christ]], [[characters/charlotte-bronte|Charlotte Bronte]], [[historical-references/william-morris|William Morris]], [[characters/lord-byron|Lord Byron]], [[characters/alexander-pope|Alexander Pope]], [[characters/st-francis-of-assisi|St Francis of Assisi]], [[characters/edmond-rostand|Edmond Rostand]], [[characters/charles-ii|Charles II]], [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]], [[characters/thomas-carlyle|Thomas Carlyle]], [[characters/leo-tolstoy|Leo Tolstoy]], [[characters/girolamo-savonarola|Girolamo Savonarola]], [[characters/sir-walter-scott|Sir Walter Scott]], [[characters/cyrano-de-bergerac|Cyrano de Bergerac]], [[characters/prince-florizel-of-bohemia|Prince Florizel of Bohemia]], [[characters/rob-roy|Rob Roy]], [[characters/meg-merrilees|Meg Merrilees]]
 
 **Themes & Concepts:** [[concepts/identity|Identity]], [[concepts/artist-and-society|Artist and Society]], [[concepts/heroism|Heroism]], [[concepts/faith|Faith]], [[concepts/paradox|Paradox]], [[concepts/democracy|Democracy]], [[concepts/doubt|Doubt]], [[concepts/greatness|Greatness]], [[concepts/power-of-language|Power of Language]], [[concepts/asceticism|Asceticism]], [[concepts/optimism-and-pessimism|Optimism and Pessimism]], [[concepts/cult-of-simplicity|Cult of Simplicity]], [[concepts/the-spirit-of-romance|The Spirit of Romance]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/biography|Biography]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]], [[forms/nonfiction|Nonfiction]]

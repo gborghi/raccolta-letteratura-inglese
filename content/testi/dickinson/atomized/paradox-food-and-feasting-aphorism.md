@@ -331,7 +331,7 @@ The Sum that it had grown.
 
 I sing to use the Waiting  
 My Bonnet but to tie  
-And shut the [[motifs/door|Door]] unto my [[house|House]]  
+And shut the [[motifs/door|Door]] unto my House  
 No more to do have I  
 
 Till His best step approaching  
@@ -354,7 +354,7 @@ His Suit a chance
 His Troth a Term  
 Protracted as the Breeze  
 Continual Ban propoundeth He  
-Continual [[divorce|Divorce]].
+Continual Divorce.
 
 
 

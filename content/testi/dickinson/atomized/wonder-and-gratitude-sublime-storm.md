@@ -117,7 +117,7 @@ Whose fingers string the stalactite —
 Who counts the wampum of the [[motifs/night|night]]  
 To see that none is due?  
 
-Who built this little Alban [[house|House]]  
+Who built this little Alban House  
 And shut the windows down so close  
 My spirit cannot see?  
 Who'll let me out some gala day  
@@ -421,7 +421,7 @@ Of [[concepts/nature|Nature]]'s — [[motifs/summer|Summer]] Day!
 <span class="atom-split" data-atom="0629_i_watched_the_moon_around_the_house" data-title="629. I watched the Moon around the House" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/moon,motif/nature,motif/the_window,motif/flowers,concept/the_sublime,concept/mortality,concept/alienation,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
 
 
-I watched the [[motifs/moon|Moon]] around the [[house|House]]  
+I watched the [[motifs/moon|Moon]] around the House  
 Until upon a Pane —  
 She stopped — a Traveller's privilege — for Rest —  
 And there upon  
@@ -442,7 +442,7 @@ Did independent, Amber —
 Sustain her in the sky —  
 
 Or like a Stemless Flower —  
-Upheld in [[rolling]] Air  
+Upheld in rolling Air  
 By finer Gravitations —  
 Than bind Philosopher —  
 
@@ -574,7 +574,7 @@ Then came one drop of Giant [[motifs/rain|Rain]] —
 And then, as if the Hands  
 That held the Dams — had parted hold —  
 The Waters Wrecked the Sky —  
-But overlooked my Father's [[house|House]] —  
+But overlooked my Father's House —  
 Just Quartering a [[motifs/tree|Tree]] —
 
 

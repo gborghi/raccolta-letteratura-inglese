@@ -59,11 +59,11 @@ tags:
 
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]]
 
-**Archetypes:** Detective, Corrupt Official, Avenger
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/avenger|Avenger]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/guilt|Guilt]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/mercy|Mercy]], [[concepts/class-conflict|Class Conflict]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/satire-of-society|Satire of Society]], [[concepts/labor-and-work|Labor and Work]], [[concepts/identity|Identity]], [[concepts/fanaticism|Fanaticism]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
 **Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/puritanism|Puritanism]]
-**Characters:** Father Brown, Flambeau
+**Characters:** [[characters/father-brown|Father Brown]], [[characters/flambeau|Flambeau]]
 
 ## Testo integrale / Full text
 

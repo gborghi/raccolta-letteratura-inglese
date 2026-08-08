@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/vanitas|Vanitas]], [[topoi/contemptus-mundi|Contemptus Mundi]]
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Themes & Concepts:** [[concepts/pride|Pride]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/epigram|Epigram]]
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]

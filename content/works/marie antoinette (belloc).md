@@ -52,6 +52,6 @@ tags:
 **Motifs:** [[motifs/crown|Crown]], [[motifs/blood|Blood]], [[motifs/prison|Prison]], [[motifs/gallows|Gallows]]
 **Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/reformation|Reformation]], [[historical-references/frederick-the-great|Frederick the Great]]
 **Settings:** [[settings/france|France]], [[settings/paris|Paris]], [[settings/austria|Austria]], [[settings/europe|Europe]]
-**Characters:** Maria Theresa, [[historical-references/frederick-the-great|Frederick the Great]], Louis XIV
-**Archetypes:** Tragic Hero, Martyr Saint
+**Characters:** [[characters/maria-theresa|Maria Theresa]], [[historical-references/frederick-the-great|Frederick the Great]], [[characters/louis-xiv|Louis XIV]]
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/martyr-saint|Martyr Saint]]
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]

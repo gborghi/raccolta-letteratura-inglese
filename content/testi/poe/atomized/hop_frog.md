@@ -317,7 +317,7 @@ Poor fellow! his large eyes gleamed, rather than shone; for the effect of
 wine on his excitable brain was not more powerful than instantaneous. He
 placed the goblet nervously on the table, and looked round upon the
 company with a half-insane stare. They all seemed highly amused at
-the [[success]] of the [[archetypes/king|king]]’s ‘joke.’
+the success of the [[archetypes/king|king]]’s ‘joke.’
 
 “And now to business,” said the prime minister, a very fat man.
 

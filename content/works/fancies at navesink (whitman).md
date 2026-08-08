@@ -37,7 +37,7 @@ tags:
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 **Historical References:** [[historical-references/renaissance|Renaissance]]
 **Settings:** [[settings/sea-(2)|Sea (2)]], [[motifs/ship|Ship]]
-**Characters:** Hamlet
+**Characters:** [[characters/hamlet|Hamlet]]
 
 ## Testo integrale / Full text
 

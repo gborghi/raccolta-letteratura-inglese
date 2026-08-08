@@ -56,13 +56,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/war-as-glory|War as Glory]], [[topoi/quest|Quest]]
-**Archetypes:** Hero, Tyrant
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/cross|Cross]], [[motifs/sea|Sea]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/drums-and-bugles|Drums and Bugles]], [[motifs/blood|Blood]], [[motifs/prison|Prison]], [[motifs/flags-and-banners|Flags and Banners]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/slavery|Slavery]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]]
 **Historical References:** [[historical-references/battle-of-lepanto|Battle of Lepanto]], [[historical-references/crusades|Crusades]], [[historical-references/christianity|Christianity]], [[historical-references/islam|Islam]], [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/orient|Orient]]
-**Characters:** Don John of Austria, Don Quixote, Ariel, Michael, [[historical-references/cervantes|Cervantes]], Mahound, The Pope, King Philip, Soldan of Byzantium
+**Characters:** [[characters/don-john-of-austria|Don John of Austria]], [[characters/don-quixote|Don Quixote]], [[characters/ariel|Ariel]], [[characters/michael|Michael]], [[historical-references/cervantes|Cervantes]], [[characters/mahound|Mahound]], [[characters/the-pope|The Pope]], [[characters/king-philip|King Philip]], [[characters/soldan-of-byzantium|Soldan of Byzantium]]
 
 ## Testo integrale / Full text
 

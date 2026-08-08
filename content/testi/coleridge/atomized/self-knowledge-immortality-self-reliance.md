@@ -25,7 +25,7 @@ And Wit congeal’d stands fix’d in wintry trance.
 But to the sounds with duteous haste repair  
 Cold Industry, and wary-footed Care;   10  
 And Dulness, dosing on a couch of lead,  
-Pleas’d with the [[Song|song]] uplifts her heavy head,  
+Pleas’d with the song uplifts her heavy head,  
 The sympathetic numbers lists awhile,  
 Then yawns propitiously a frosty smile. . . .  
 [Caetera desunt.]  
@@ -76,7 +76,7 @@ So [[concepts/nature|Nature]] mourn’d when sunk the First Day’s light,   35
 With [[motifs/stars|stars]], unseen before, spangling her robe of [[motifs/night|night]]!  
 Still soar, my Friend, those richer views among,  
 Strong, rapid, fervent, flashing Fancy’s beam!  
-Virtue and [[concepts/truth|Truth]] shall [[motifs/love|love]] your gentler [[Song|song]];  
+Virtue and [[concepts/truth|Truth]] shall [[motifs/love|love]] your gentler song;  
 But Poesy demands th’ impassion’d theme:   40  
 Waked by Heaven’s silent dews at Eve’s mild gleam  
 What balmy sweets Pomona breathes around!  
@@ -97,7 +97,7 @@ With fruits and [[motifs/flowers|flowers]] she loads the tempest-honor’d groun
 The whelming thaw, the ponderous shower,  
 The [[motifs/silence|silence]] of the freezing [[motifs/night|night]]!  
 Since Laura murmur’d o’er thy [[motifs/leaves|leaves]]    5  
-The potent sorceries of [[Song|song]],  
+The potent sorceries of song,  
 To thee, meek Flowret! gentler gales  
 And cloudless skies belong.  
 2  
@@ -151,7 +151,7 @@ Where Zephyr-trembling Lilies grow,    50
 And bend to kiss their softer selves  
 That tremble in the stream below: —  
 There nightly borne does Laura lie  
-A [[Magic|magic]] Slumber heaves her breast:  
+A magic Slumber heaves her breast:  
 Her arm, white wanderer of the Harp,   55  
 Beneath her cheek is prest.  
 8*  
@@ -181,12 +181,12 @@ The ‘Lines’ were never sent or never appeared in the Morning Post.
 To the [[motifs/snow|Snow]] Drop.  
 1  
 [[concepts/fear|Fear]] thou no more the wintry [[motifs/storm|storm]],  
-Sweet Flowret, blest by LAURA’S [[Song|song]]:  
+Sweet Flowret, blest by LAURA’S song:  
 She gaz’d upon thy slender form,  
 The mild Enchantress gaz’d so long;  
 That trembling as she saw thee droop,  
 Poor Trembler! o’er thy snowy bed,  
-With [[Imitation|imitation]]’s sympathy  
+With imitation’s sympathy  
 She too inclin’d her head.  
 2  
 She droop’d her head, she stretch’d her arm,  
@@ -307,7 +307,7 @@ And to deform and kill the things whereon we feed.
 
 Is’t returned, as ‘twas sent? Is’t no worse for the wear?   5  
 Think first, what you are! Call to mind what you were!  
-I gave you [[innocence]], I gave you [[concepts/hope|hope]],  
+I gave you innocence, I gave you [[concepts/hope|hope]],  
 Gave health, and genius, and an ample scope.  
 Return you me [[concepts/guilt|guilt]], lethargy, [[concepts/despair|despair]]?  
 Make out the invent’ry; inspect, compare!   10  
@@ -324,7 +324,7 @@ Then die — if die you dare!
 If dead, we cease to be; if total gloom  
 [[motifs/swallow|Swallow]] up life’s brief flash for aye, we fare  
 As [[motifs/summer|summer]]-gusts, of sudden birth and doom,  
-Whose sound and motion not [[Alone|alone]] declare,  
+Whose sound and motion not alone declare,  
 But are their whole of being! If the breath   5  
 Be Life itself, and not its task and tent,  
 If even a [[motifs/soul|soul]] like [[historical-references/milton|Milton]]’s can know [[motifs/death|death]];  
@@ -430,7 +430,7 @@ Thus cried the God with high imperial tone:
 In robe of stiffest state, that scoff’d at [[concepts/beauty|beauty]],  
 A pronoun-verb imperative he shone —  
 Then substantive and plural-singular grown,  
-He thus spake on:—’Behold in I [[Alone|alone]]  
+He thus spake on:—’Behold in I alone  
 (For Ethics boast a syntax of their own)  
 Or if in ye, yet as I doth depute ye,  
 In O! I, you, the vocative of duty!  
@@ -550,7 +550,7 @@ O blessed letters! that combine in one
 All ages past, and make one live with all:  
 By you we do confer with who are gone,  
 And the dead-living unto council call:  
-By you the [[unborn]] shall have communion  
+By you the unborn shall have communion  
 Of what we feel, and what does us befall.  
 *       *       *       *       *
 O blessed letters, &c.  

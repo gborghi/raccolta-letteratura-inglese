@@ -55,10 +55,10 @@ tags:
 
 ## Connections
 
-**Characters:** Barbara (St Barbara), Caesar
+**Characters:** [[characters/barbara-(st-barbara)|Barbara (St Barbara)]], [[characters/caesar|Caesar]]
 
 **Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/war-as-glory|War as Glory]]
-**Archetypes:** Martyr Saint, Tyrant, Christ Figure
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tyrant|Tyrant]], [[archetypes/christ-figure|Christ Figure]]
 **Motifs:** [[motifs/window|Window]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/blood|Blood]], [[motifs/light-and-dark|Light and Dark]], [[motifs/lightning|Lightning]], [[motifs/chains|Chains]], [[motifs/flags-and-banners|Flags and Banners]]
 **Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/faith|Faith]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/providence|Providence]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]]

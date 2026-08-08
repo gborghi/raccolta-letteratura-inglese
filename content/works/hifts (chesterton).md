@@ -55,10 +55,10 @@ tags:
 
 **Historical References:** [[historical-references/george-bernard-shaw|George Bernard Shaw]], [[historical-references/h.g.-wells|H.G. Wells]]
 
-**Characters:** Lady Hypatia Hagg, Dr. Hagg
+**Characters:** [[characters/lady-hypatia-hagg|Lady Hypatia Hagg]], [[characters/dr.-hagg|Dr. Hagg]]
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Monster
+**Archetypes:** [[archetypes/monster|Monster]]
 **Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/wind|Wind]], [[motifs/grave|Grave]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/light-and-dark|Light and Dark]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/grotesque|Grotesque]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/vanity|Vanity]], [[concepts/eugenics|Eugenics]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]], [[forms/parody|Parody]]

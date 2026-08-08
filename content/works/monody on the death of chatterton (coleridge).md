@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/artist-and-society|Artist and Society]], [[concepts/poverty|Poverty]], [[concepts/social-injustice|Social Injustice]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/elegy|Elegy]]

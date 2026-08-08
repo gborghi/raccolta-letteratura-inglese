@@ -16,9 +16,9 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1024. So large my Will (Dickinson)
-- 1086. What Twigs We held by — (Dickinson)
-- 1154. A full fed Rose on meals of Tint (Dickinson)
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1024_so_large_my_will|1024. So large my Will (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1086_what_twigs_we_held_by|1086. What Twigs We held by — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1154_a_full_fed_rose_on_meals_of_tint|1154. A full fed Rose on meals of Tint (Dickinson)]]
 - [[works/hast-never-come-to-thee-an-hour-(whitman)|Hast Never Come to Thee an Hour (Whitman)]]
 - [[works/the-happiest-day-(poe)|The Happiest Day (Poe)]]
 - [[works/thought-(whitman)|Thought (Whitman)]]

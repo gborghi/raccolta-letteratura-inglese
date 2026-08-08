@@ -48,7 +48,7 @@ The vast immortal suns and the long-enduring pensive moons shall
 again shine.  
 
 Then dearest [[archetypes/child|child]] mournest thou only for jupiter?  
-Considerest thou [[Alone|alone]] the burial of the [[motifs/stars|stars]]?  
+Considerest thou alone the burial of the [[motifs/stars|stars]]?  
 
 Something there is,  
 (With my lips soothing thee, adding I whisper,  
@@ -72,8 +72,8 @@ Or the radiant sisters the Pleiades.
 _Cluster: SEA-DRIFT_  
 
 
-On the beach at [[motifs/night|night]] [[Alone|alone]],  
-As the old mother sways her to and fro singing her husky [[Song|song]],  
+On the beach at [[motifs/night|night]] alone,  
+As the old mother sways her to and fro singing her husky song,  
 As I watch the bright [[motifs/stars|stars]] shining, I think a thought of the clef  
 of the universes and of the future.  
 
@@ -489,7 +489,7 @@ Elements merge in the [[motifs/night|night]], ships make tacks in the [[motifs/d
 The sailor sails, the [[concepts/exile|exile]] returns [[motifs/home|home]],  
 The fugitive returns unharm’d, the immigrant is back beyond months  
 and years,  
-The poor Irishman lives in the simple [[house]] of his [[motifs/childhood|childhood]] with  
+The poor Irishman lives in the simple house of his [[motifs/childhood|childhood]] with  
 the [[motifs/well|well]] known neighbors and faces,  
 They warmly welcome him, he is barefoot again, he forgets he is [[motifs/well|well]] off,  
 The Dutchman voyages [[motifs/home|home]], and the Scotchman and Welshman voyage  
@@ -678,7 +678,7 @@ O sun of [[motifs/noon|noon]] refulgent! my special word to thee.
 
 Hear me illustrious!  
 Thy [[archetypes/lover|lover]] me, for always I have loved thee,  
-Even as basking babe, then happy boy [[Alone|alone]] by some wood edge, thy  
+Even as basking babe, then happy boy alone by some wood edge, thy  
 touching-distant beams enough,  
 Or man matured, or young or old, as now to thee I launch my invocation.  
 
@@ -759,7 +759,7 @@ Shot gold, maroon and violet, dazzling silver, emerald, fawn,
 The earth’s whole amplitude and [[concepts/nature|Nature]]’s multiform power consign’d  
 for once to colors;  
 The light, the general air possess’d by them--colors till now unknown,  
-No limit, confine--not the Western sky [[Alone|alone]]--the high meridian--  
+No limit, confine--not the Western sky alone--the high meridian--  
 North, South, all,  
 Pure luminous color fighting the silent shadows to the last.  
 
@@ -819,7 +819,7 @@ Objects and groups, bearings, faces, reminiscences;
 The calmer sight--the golden setting, clear and broad:  
 So much i’ the atmosphere, the points of view, the situations whence  
 we scan,  
-Bro’t out by them [[Alone|alone]]--so much (perhaps the best) unreck’d before;  
+Bro’t out by them alone--so much (perhaps the best) unreck’d before;  
 The lights indeed from them--old age’s lambent peaks.  
 
 

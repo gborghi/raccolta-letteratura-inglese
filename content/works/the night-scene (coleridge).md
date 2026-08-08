@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/garden|Garden]], [[motifs/night|Night]], [[motifs/stars|Stars]], [[motifs/serpent-snake|Serpent Snake]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/sublime|Sublime]]
 **Forms & Genres:** [[forms/blank-verse|Blank Verse]], [[forms/verse-drama|Verse Drama]], [[forms/fragment|Fragment]]

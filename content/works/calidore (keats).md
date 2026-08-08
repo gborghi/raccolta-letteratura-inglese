@@ -26,7 +26,7 @@ tags:
 
 **Themes & Concepts:** [[concepts/history|History]]
 **Topoi:** [[topoi/locus-amoenus|Locus Amoenus]]
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Motifs:** [[concepts/nature|Nature]]
 **Forms & Genres:** [[forms/medieval-romance|Medieval Romance]], [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]]

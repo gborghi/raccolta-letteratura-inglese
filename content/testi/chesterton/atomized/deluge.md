@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il [[deluge|Diluvio]]  
+Il Diluvio  
 G. K. Chesterton  
 
 Benché piogge gigantesche spengano il sole,  
@@ -25,21 +25,21 @@ qui sto io per segno.
 Benché la terra si colmi di acque oscure,  
 la mia coppa è colma di vino.  
 Dite ai preti tremanti che qui  
-sotto la verga del [[deluge|diluvio]],  
+sotto la verga del diluvio,  
 un uomo senza nome, lacero, spezzato,  
 si levò, e brindò a Dio.  
 
 Il sole fu dove ora è la pioggia,  
 [[motifs/bees|api]] a ronzare nella calura,  
 forse venne una fanciulla canterina,  
-ora venga il [[deluge|diluvio]]:  
+ora venga il diluvio:  
 Bruna d'aureola, verde di veste,  
 dritta come verga d'oro,  
 Brinda ora al trono del tuono!  
 Brinda all'ira di Dio.  
 
 Alto nel relitto tenni la coppa,  
-strinsi la mia [[Sword|spada]] rugginosa,  
+strinsi la mia spada rugginosa,  
 rizzai la mia piuma lacera  
 alla gloria del Signore.  
 Non disfatti erano cielo e terra,  
@@ -52,7 +52,7 @@ e l'avesse vuotato come una coppa.
 <span class="atom-split" data-atom="part--part_01" data-title="deluge (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bees"></span>
 
 
-The [[deluge|Deluge]]  
+The Deluge  
 G. K. Chesterton  
 
 Though giant rains put out the sun,  
@@ -60,21 +60,21 @@ Here stand I for a sign.
 Though earth be filled with waters dark,  
 My cup is filled with wine.  
 Tell to the trembling priests that here  
-Under the [[deluge]] rod,  
+Under the deluge rod,  
 One nameless, tattered, broken man  
 Stood up, and drank to God.  
 
 Sun has been where the rain is now,  
 [[motifs/bees|Bees]] in the heat to hum,  
 Haply a humming maiden came,  
-Now let the [[deluge]] come:  
+Now let the deluge come:  
 Brown of aureole, green of garb,  
 Straight as a golden rod,  
 Drink to the throne of thunder now!  
 Drink to the wrath of God.  
 
 High in the wreck I held the cup,  
-I clutched my rusty [[Sword|sword]],  
+I clutched my rusty sword,  
 I cocked my tattered feather  
 To the glory of the Lord.  
 Not undone were the heaven and earth,  
@@ -85,7 +85,7 @@ And drained it like a cup.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il [[deluge|Diluvio]]  
+Il Diluvio  
 G. K. Chesterton  
 
 Benché piogge gigantesche spengano il sole,  
@@ -93,21 +93,21 @@ qui sto io per segno.
 Benché la terra si colmi di acque oscure,  
 la mia coppa è colma di vino.  
 Dite ai preti tremanti che qui  
-sotto la verga del [[deluge|diluvio]],  
+sotto la verga del diluvio,  
 un uomo senza nome, lacero, spezzato,  
 si levò, e brindò a Dio.  
 
 Il sole fu dove ora è la pioggia,  
 [[motifs/bees|api]] a ronzare nella calura,  
 forse venne una fanciulla canterina,  
-ora venga il [[deluge|diluvio]]:  
+ora venga il diluvio:  
 Bruna d'aureola, verde di veste,  
 dritta come verga d'oro,  
 Brinda ora al trono del tuono!  
 Brinda all'ira di Dio.  
 
 Alto nel relitto tenni la coppa,  
-strinsi la mia [[Sword|spada]] rugginosa,  
+strinsi la mia spada rugginosa,  
 rizzai la mia piuma lacera  
 alla gloria del Signore.  
 Non disfatti erano cielo e terra,  

@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Motifs:** [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/providence|Providence]]
 **Forms & Genres:** [[forms/fragment|Fragment]], [[forms/allegory|Allegory]]

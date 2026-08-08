@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
-**Archetypes:** King
+**Archetypes:** [[archetypes/king|King]]
 **Motifs:** [[motifs/crown|Crown]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]]
 **Forms & Genres:** [[forms/elegy|Elegy]]

@@ -28,7 +28,7 @@ tags:
 - [[works/the-fall-of-robespierre-(coleridge)|THE FALL OF ROBESPIERRE (Coleridge)]]
 - [[works/the-raven-(coleridge)|THE RAVEN (Coleridge)]]
 - [[works/a-tale-of-two-cities-(dickens)|A Tale of Two Cities (Dickens)]]
-- 1509. Mine Enemy is growing old — (Dickinson)
+- [[testi/dickinson/atomized/terror-and-horror-madness#1509_mine_enemy_is_growing_old|1509. Mine Enemy is growing old — (Dickinson)]]
 - [[works/otho-the-great-(keats)|Otho the Great (Keats)]]
 - [[works/hop-frog-(poe)|Hop-Frog (Poe)]]
 - [[works/scenes-from-politian-(poe)|Scenes From Politian (Poe)]]

@@ -31,7 +31,7 @@ But to each other dream, and nightly weep.
 
 With every morn their [[motifs/love|love]] grew tenderer,  
 With every eve deeper and tenderer still;  10  
-He might not in [[house]], field, or [[motifs/garden|garden]] stir,  
+He might not in house, field, or [[motifs/garden|garden]] stir,  
 But her full shape would all his seeing fill;  
 And his continual voice was pleasanter  
 To her, than noise of trees or hidden rill;  
@@ -120,7 +120,7 @@ Ah! better had it been for ever so,
 Than idle ears should pleasure in their woe.  
 
 Were they unhappy then?--It cannot be--  
-Too many [[motifs/tears|tears]] for [[lovers]] have been shed,  90  
+Too many [[motifs/tears|tears]] for lovers have been shed,  90  
 Too many sighs give we to them in fee,  
 Too much of pity after they are dead,  
 Too many doleful stories do we see,  
@@ -150,7 +150,7 @@ For them the Ceylon diver held his breath,
 And went all naked to the hungry shark;  
 For them his ears gush’d [[motifs/blood|blood]]; for them in [[motifs/death|death]]  
 The seal on the cold ice with piteous bark  
-Lay full of darts; for them [[Alone|alone]] did seethe  
+Lay full of darts; for them alone did seethe  
 A thousand men in troubles wide and dark:  
 Half-ignorant, they turn’d an easy [[motifs/wheel|wheel]],  
 That set sharp racks at work, to pinch and peel.  120  
@@ -160,7 +160,7 @@ Gush’d with more [[concepts/pride|pride]] than do a wretch’s [[motifs/tears|
 Why were they proud? Because fair orange-mounts  
 Were of more soft ascent than lazar stairs?--  
 Why were they proud? Because red-lin’d accounts  
-Were richer than the [[songs]] of Grecian years?--  
+Were richer than the songs of Grecian years?--  
 Why were they proud? again we ask aloud,  
 Why in the name of Glory were they proud?  
 
@@ -210,7 +210,7 @@ When ’twas their plan to coax her by degrees
 To some high noble and his olive-trees.  
 
 And many a jealous conference had they,  
-And many times they bit their lips [[Alone|alone]],  170  
+And many times they bit their lips alone,  170  
 Before they fix’d upon a surest way  
 To make the youngster for his crime atone;  
 And at the last, these men of cruel clay  
@@ -238,7 +238,7 @@ With belt, and spur, and bracing huntsman’s dress.
 
 And as he to the [[settings/court|court]]-yard pass’d along,  
 Each third step did he pause, and listen’d oft  
-If he could hear his lady’s matin-[[Song|song]],  
+If he could hear his lady’s matin-song,  
 Or the light whisper of her footstep soft;  
 And as he thus over his passion hung,  
 He heard a laugh full musical aloft;  
@@ -281,10 +281,10 @@ And ‘scape at once from [[concepts/hope|Hope]]’s accursed bands;  230
 To-day thou wilt not see him, nor to-morrow,  
 And the next day will be a day of sorrow.  
 
-She weeps [[Alone|alone]] for pleasures not to be;  
+She weeps alone for pleasures not to be;  
 Sorely she wept until the [[motifs/night|night]] came on,  
 And then, instead of [[motifs/love|love]], O misery!  
-She brooded o’er the luxury [[Alone|alone]]:  
+She brooded o’er the luxury alone:  
 His image in the dusk she seem’d to see,  
 And to the [[motifs/silence|silence]] made a gentle moan,  
 Spreading her perfect arms upon the air,  
@@ -341,12 +341,12 @@ To speak as when on earth it was awake,
 And [[characters/isabella|Isabella]] on its music hung:  
 Languor there was in it, and tremulous shake,  
 As in a palsied Druid’s harp unstrung;  
-And through it moan’d a ghostly under-[[Song|song]],  
+And through it moan’d a ghostly under-song,  
 Like hoarse [[motifs/night|night]]-gusts sepulchral briars among.  
 
 Its eyes, though wild, were still all dewy bright  
 With [[motifs/love|love]], and kept all [[characters/phantom|phantom]] [[concepts/fear|fear]] aloof  290  
-From the poor girl by [[Magic|magic]] of their light,  
+From the poor girl by magic of their light,  
 The while it did unthread the horrid woof  
 Of the late darken’d [[motifs/time|time]],--the murderous spite  
 Of [[concepts/pride|pride]] and avarice,--the dark pine roof  
@@ -364,7 +364,7 @@ And it shall comfort me within the tomb.
 
 “I am a [[archetypes/shadow|shadow]] now, alas! alas!  
 Upon the skirts of human-[[concepts/nature|nature]] dwelling  
-[[works/alone-(poe)|Alone]]: I chant [[Alone|alone]] the holy mass,  
+[[works/alone-(poe)|Alone]]: I chant alone the holy mass,  
 While little sounds of life are round me knelling,  
 And glossy [[motifs/bees|bees]] at [[motifs/noon|noon]] do fieldward pass,  
 And many a chapel bell the hour is telling,  310  
@@ -455,13 +455,13 @@ And [[characters/isabella|Isabella]] did not stamp and rave.
 Ah! wherefore all this wormy circumstance?  
 Why linger at the yawning tomb so long?  
 O for the gentleness of old [[works/romance-(poe)|Romance]],  
-The simple plaining of a minstrel’s [[Song|song]]!  
+The simple plaining of a minstrel’s song!  
 Fair reader, at the old tale take a glance,  
 For here, in [[concepts/truth|truth]], it doth not [[motifs/well|well]] belong  390  
 To speak:--O turn thee to the very tale,  
 And taste the music of that vision pale.  
 
-With duller steel than the Perséan [[Sword|sword]]  
+With duller steel than the Perséan sword  
 They cut away no formless [[archetypes/monster|monster]]’s head,  
 But one, whose gentleness did [[motifs/well|well]] accord  
 With [[motifs/death|death]], as life. The ancient harps have said,  
@@ -535,7 +535,7 @@ By one mark’d out to be a Noble’s bride.
 
 And, furthermore, her brethren [[concepts/wonder|wonder]]’d much  
 Why she sat drooping by the Basil green,  
-And why it flourish’d, as by [[Magic|magic]] touch;  
+And why it flourish’d, as by magic touch;  
 Greatly they [[concepts/wonder|wonder]]’d what the thing might mean:  460  
 They could not surely give belief, that such  
 A very nothing would have power to wean  
@@ -666,7 +666,7 @@ For he left the merry tale
 Messenger for spicy ale.  
 
 Gone, the merry morris din;  
-Gone, the [[Song|song]] of Gamelyn;  
+Gone, the song of Gamelyn;  
 Gone, the tough-belted outlaw  
 Idling in the “grenè shawe;”  
 All are gone away and past!  
@@ -889,11 +889,11 @@ From a Letter to George Keats and His Wife
 When they were come into the Faery’s [[settings/court|Court]]
 They rang - no one at [[motifs/home|home]] - all gone to sport
 And [[motifs/dance|dance]] and kiss and [[motifs/love|love]] as faeries do
-For Fa[e]ries be as humans, [[lovers]] true -
+For Fa[e]ries be as humans, lovers true -
 Amid the woods they were, so lone and wild,
 Where even the Robin feels himself exil’d
 And where the very brooks as if afraid
-Hurry along to some less [[Magic|magic]] shade.
+Hurry along to some less magic shade.
 ‘No one at [[motifs/home|home]]!’ the fretful princess cried
 ‘And all for nothing such a dre[a]ry ride,
 10
@@ -949,7 +949,7 @@ She smil’d at her own beauteous face again.
 Yet for all this - for all her pretty face
 She took it in her head to see the place.
 Women gain little from experience
-Either in [[lovers|Lovers]], husbands or expense.
+Either in Lovers, husbands or expense.
 The more the [[concepts/beauty|beauty]], the more fortune too,
 [[concepts/beauty|Beauty]] before the wide world never knew.
 So each fair reasons - tho’ it oft miscarries.
@@ -973,7 +973,7 @@ End of Canto xii
 
 CANTO THE XIII
 
-The Mule no sooner saw himself [[Alone|alone]]
+The Mule no sooner saw himself alone
 Than he prick’d up his ears - and said ‘[[motifs/well|well]] done!
 At least, unhappy Prince, I may be free -
 No more a Princess shall side-saddle me.
@@ -1106,7 +1106,7 @@ And too unlucent for thee make.
 I [[motifs/love|love]] thee, crystal Faery, true!  
 Sooth I am as sick for you!  
 SALAMANDER        Out, ye aguish Faeries, out!  
-Chilly [[lovers]], what a rout  
+Chilly lovers, what a rout  
 Keep ye with your frozen breath.  
 Colder than the mortal [[motifs/death|death]].  
 Adder-eyed Dusketha, speak,  

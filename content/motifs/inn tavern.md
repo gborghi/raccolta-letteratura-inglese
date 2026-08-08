@@ -32,9 +32,9 @@ tags:
 - [[works/martin-chuzzlewit-(dickens)|Martin Chuzzlewit (Dickens)]]
 - [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 1060. Air has no Residence, no Neighbor, (Dickinson)
-- 1077. These are the Signs to Nature's Inns — (Dickinson)
-- 115. What Inn is this (Dickinson)
+- [[testi/dickinson/atomized/alienation-outsider-exile#1060_air_has_no_residence_no_neighbor|1060. Air has no Residence, no Neighbor, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1077_these_are_the_signs_to_natures_inns|1077. These are the Signs to Nature's Inns — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0115_what_inn_is_this|115. What Inn is this (Dickinson)]]
 - [[works/bustopher-jones-the-cat-about-town-(eliot)|Bustopher Jones the Cat About Town (Eliot)]]
 - [[works/journey-of-the-magi-(eliot)|Journey of the Magi (Eliot)]]
 - [[works/lines-on-the-mermaid-tavern-(keats)|LINES ON THE MERMAID TAVERN (Keats)]]

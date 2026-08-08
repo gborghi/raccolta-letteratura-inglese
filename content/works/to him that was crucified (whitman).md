@@ -23,11 +23,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Christ Figure
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]]
 **Motifs:** [[motifs/cross|Cross]]
 **Themes & Concepts:** [[concepts/comradeship|Comradeship]], [[concepts/faith|Faith]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

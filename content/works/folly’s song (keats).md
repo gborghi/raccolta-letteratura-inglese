@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/food-and-feasting|Food and Feasting]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/joy|Joy]]
 **Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/satire|Satire]]

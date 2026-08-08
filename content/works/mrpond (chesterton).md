@@ -70,9 +70,9 @@ tags:
 
 **Topoi:** [[topoi/all-the-world's-a-stage|All the World's a Stage]], [[topoi/double|Double]]
 
-**Characters:** Mr Pond, Captain Gahagan, Sir Hubert Wotton, Joan Varney, Marshal Von Grock
+**Characters:** [[characters/mr-pond|Mr Pond]], [[characters/captain-gahagan|Captain Gahagan]], [[characters/sir-hubert-wotton|Sir Hubert Wotton]], [[characters/joan-varney|Joan Varney]], [[characters/marshal-von-grock|Marshal Von Grock]]
 
-**Archetypes:** Detective, Fool, Villain, Corrupt Official
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/fool|Fool]], [[archetypes/villain|Villain]], [[archetypes/corrupt-official|Corrupt Official]]
 **Motifs:** [[motifs/death|Death]], [[motifs/blood|Blood]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/garden|Garden]], [[motifs/moon|Moon]]
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/revenge|Revenge]], [[concepts/guilt|Guilt]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/self-deception|Self-Deception]], [[concepts/fanaticism|Fanaticism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/melodrama|Melodrama]]

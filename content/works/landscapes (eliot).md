@@ -27,7 +27,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Pilgrim
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 **Motifs:** [[concepts/nature|Nature]], [[motifs/birds|Birds]], [[motifs/seasons|Seasons]], [[motifs/river|River]], [[motifs/decay|Decay]]
 **Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

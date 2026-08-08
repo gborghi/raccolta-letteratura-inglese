@@ -92,5 +92,5 @@ tags:
 **Motifs:** [[motifs/road|Road]], [[motifs/sea|Sea]], [[motifs/river|River]], [[motifs/storm|Storm]], [[motifs/book-reading|Book Reading]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/battle-of-ethandun|Battle of Ethandun]], [[historical-references/king-alfred|King Alfred]], [[historical-references/medieval-england|Medieval England]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/france|France]], [[settings/spain|Spain]], [[settings/europe|Europe]]
-**Characters:** Hilaire Belloc, William Shakespeare
-**Archetypes:** Fanatic
+**Characters:** [[characters/hilaire-belloc|Hilaire Belloc]], [[characters/william-shakespeare|William Shakespeare]]
+**Archetypes:** [[archetypes/fanatic|Fanatic]]

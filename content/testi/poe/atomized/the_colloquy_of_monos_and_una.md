@@ -162,7 +162,7 @@ Tutte quelle verità che per noi erano le più durature
 
 L'importanza può essere compresa soltanto attraverso quell'analogia che parla…
 
-Toni di verifica per l’[[concepts/imagination|immaginazione]] [[Alone|solitaria]] e per la ragione spontanea.
+Toni di verifica per l’[[concepts/imagination|immaginazione]] solitaria e per la ragione spontanea.
 
 Non ha alcun peso… A volte, questo intelletto poetico procedeva in questo modo.
 
@@ -317,7 +317,7 @@ Ogni giorno, nei [[motifs/dreams|sogni]]. Ed è stato proprio in quel momento, a
 
 I giorni a venire, quando la superficie terrestre segnata dalle tracce dell’arte…
 
-Dopo aver subito quella [[concepts/purification|purificazione]] {*3} che solo [[Alone|lei]] poteva cancellare.
+Dopo aver subito quella [[concepts/purification|purificazione]] {*3} che solo lei poteva cancellare.
 
 “Le sue oscenità rettangolari dovrebbero rivestirsi di nuovo…”
 
@@ -471,7 +471,7 @@ Dolori che li avevano generati; mentre quelle lacrime grandi e continue.
 
 Che mi colpì in faccia, rivelando agli spettatori di quale cuore si trattasse…
 
-Sconvolto, ogni fibra del mio corpo tremava di estasi, [[Alone|solo]]. E.
+Sconvolto, ogni fibra del mio corpo tremava di estasi, solo. E.
 
 Questa fu davvero la [[motifs/death|Morte]] di cui parlavano questi spettatori.
 
@@ -491,7 +491,7 @@ Le loro immagini mi hanno suscitato l’immagine di urla, gemiti e…
 
 Altre espressioni desolate di terrore, orrore o dolore.
 
-[[Alone|Solo]], avvolto in un abito bianco, passava in tutte le direzioni.
+Solo, avvolto in un abito bianco, passava in tutte le direzioni.
 
 Musicalmente parlando, riguarda me.
 
@@ -499,7 +499,7 @@ Musicalmente parlando, riguarda me.
 
 Il giorno declinava; e man mano che la sua luce svaniva, io… venivo posseduto.
 
-A causa di un vago senso di disagio, di un'ansia simile a quella che prova [[The Sleeper|il dormiente]] quando.
+A causa di un vago senso di disagio, di un'ansia simile a quella che prova il dormiente quando.
 
 “Tristi suoni reali continuano a risuonare nella sua testa… bassi e lontani.”
 
@@ -665,7 +665,7 @@ E la corruzione, nei miei tristi e solenni sonni, insieme al verme.
 
 
 
-E qui, in questa [[motifs/prison|prigione]]-[[house|casa]] che ha pochi [[motifs/secrets|segreti]] da rivelare.
+E qui, in questa [[motifs/prison|prigione]]-casa che ha pochi [[motifs/secrets|segreti]] da rivelare.
 
 Passarono giorni, settimane e mesi; e l’[[motifs/soul|'anima]] osservava tutto ciò che accadeva.
 
@@ -685,7 +685,7 @@ Lo spazio ristretto che circonda immediatamente ciò che era…
 
 Che un tempo era stato il [[concepts/body|-corpo]], ora stava diventando il [[concepts/body|-corpo]] stesso. Alla fine.
 
-Come spesso accade a [[The Sleeper|colui che dorme]] (attraverso il [[motifs/sleep|)sogno]] e nel suo mondo [[Alone|solitario]]).
+Come spesso accade a colui che dorme (attraverso il [[motifs/sleep|)sogno]] e nel suo mondo solitario).
 
 [[motifs/death|Morte]] si era immaginata così. Alla fine, come a volte accadeva sulla Terra.
 
@@ -693,7 +693,7 @@ Come spesso accade a [[The Sleeper|colui che dorme]] (attraverso il [[motifs/sle
 
 Svegliandosi, si ritrovò ancora parzialmente avvolto nei [[motifs/dreams|sogni]], almeno per me.
 
-Un rigido abbraccio dell’[[archetypes/shadow|Ombra]] portò con sé quella luce che soltanto [[Alone|unicamente]] poteva esistere.
+Un rigido abbraccio dell’[[archetypes/shadow|Ombra]] portò con sé quella luce che soltanto unicamente poteva esistere.
 
 Aveva il potere di sorprendere, la luce di un [[motifs/love|Amore]] duraturo. Gli uomini lavoravano sodo.
 
@@ -874,7 +874,7 @@ all—since those truths which to us were of the most enduring
 
 importance could only be reached by that analogy which speaks in
 
-proof tones to the [[concepts/imagination|imagination]] [[Alone|alone]] and to the unaided reason
+proof tones to the [[concepts/imagination|imagination]] alone and to the unaided reason
 
 bears no weight—occasionally did this poetic intellect proceed a
 
@@ -1088,7 +1088,7 @@ Tutte quelle verità che per noi erano le più durature
 
 L'importanza può essere compresa soltanto attraverso quell'analogia che parla…
 
-Toni di verifica per l’[[concepts/imagination|immaginazione]] [[Alone|solitaria]] e per la ragione spontanea.
+Toni di verifica per l’[[concepts/imagination|immaginazione]] solitaria e per la ragione spontanea.
 
 Non ha alcun peso… A volte, questo intelletto poetico procedeva in questo modo.
 
@@ -1180,11 +1180,11 @@ perversion of our taste, or rather in the blind neglect of its
 
 culture in the schools. For, in [[concepts/truth|truth]], it was at this crisis that
 
-taste [[Alone|alone]]—that faculty which, holding a middle position between
+taste alone—that faculty which, holding a middle position between
 
 the pure intellect and the moral sense, could never safely have
 
-been disregarded—it was now that taste [[Alone|alone]] could have led us
+been disregarded—it was now that taste alone could have led us
 
 gently back to [[concepts/beauty|Beauty]], to [[concepts/nature|Nature]], and to Life. But alas for the
 
@@ -1248,7 +1248,7 @@ daily, in [[motifs/dreams|dreams]]. Now it was that, in twilight, we discoursed 
 
 the days to come, when the Art-scarred surface of the Earth,
 
-having undergone that [[concepts/purification|purification]] {*3} which [[Alone|alone]] could efface
+having undergone that [[concepts/purification|purification]] {*3} which alone could efface
 
 its rectangular obscenities, should clothe itself anew in the
 
@@ -1433,7 +1433,7 @@ Ogni giorno, nei [[motifs/dreams|sogni]]. Ed è stato proprio in quel momento, a
 
 I giorni a venire, quando la superficie terrestre segnata dalle tracce dell’arte…
 
-Dopo aver subito quella [[concepts/purification|purificazione]] {*3} che solo [[Alone|lei]] poteva cancellare.
+Dopo aver subito quella [[concepts/purification|purificazione]] {*3} che solo lei poteva cancellare.
 
 “Le sue oscenità rettangolari dovrebbero rivestirsi di nuovo…”
 
@@ -1591,7 +1591,7 @@ sorrows which gave them birth; while the large and constant [[motifs/tears|tears
 
 which fell upon my face, telling the bystanders of a heart which
 
-broke, thrilled every fibre of my frame with ecstasy [[Alone|alone]]. And
+broke, thrilled every fibre of my frame with ecstasy alone. And
 
 this was in [[concepts/truth|truth]] the [[motifs/death|Death]] of which these bystanders spoke
 
@@ -1611,7 +1611,7 @@ their images impressed me with the idea of shrieks, groans, and
 
 other dismal expressions of terror, of horror, or of wo. You
 
-[[Alone|alone]], habited in a white robe, passed in all directions
+alone, habited in a white robe, passed in all directions
 
 musically about me.
 
@@ -1619,7 +1619,7 @@ musically about me.
 
 The day waned; and, as its light faded away, I became possessed
 
-by a vague uneasiness—an anxiety such as [[The Sleeper|the sleeper]] feels when
+by a vague uneasiness—an anxiety such as the sleeper feels when
 
 sad real sounds fall continuously within his ear—low distant
 
@@ -1773,7 +1773,7 @@ Dolori che li avevano generati; mentre quelle lacrime grandi e continue.
 
 Che mi colpì in faccia, rivelando agli spettatori di quale cuore si trattasse…
 
-Sconvolto, ogni fibra del mio corpo tremava di estasi, [[Alone|solo]]. E.
+Sconvolto, ogni fibra del mio corpo tremava di estasi, solo. E.
 
 Questa fu davvero la [[motifs/death|Morte]] di cui parlavano questi spettatori.
 
@@ -1793,7 +1793,7 @@ Le loro immagini mi hanno suscitato l’immagine di urla, gemiti e…
 
 Altre espressioni desolate di terrore, orrore o dolore.
 
-[[Alone|Solo]], avvolto in un abito bianco, passava in tutte le direzioni.
+Solo, avvolto in un abito bianco, passava in tutte le direzioni.
 
 Musicalmente parlando, riguarda me.
 
@@ -1801,7 +1801,7 @@ Musicalmente parlando, riguarda me.
 
 Il giorno declinava; e man mano che la sua luce svaniva, io… venivo posseduto.
 
-A causa di un vago senso di disagio, di un'ansia simile a quella che prova [[The Sleeper|il dormiente]] quando.
+A causa di un vago senso di disagio, di un'ansia simile a quella che prova il dormiente quando.
 
 “Tristi suoni reali continuano a risuonare nella sua testa… bassi e lontani.”
 
@@ -1972,7 +1972,7 @@ and corruption, to my sad and solemn slumbers with the worm.
 
 
 
-And here, in the [[motifs/prison|prison]]-[[house]] which has few [[motifs/secrets|secrets]] to disclose,
+And here, in the [[motifs/prison|prison]]-house which has few [[motifs/secrets|secrets]] to disclose,
 
 there rolled away days and weeks and months; and the [[motifs/soul|soul]] watched
 
@@ -1992,7 +1992,7 @@ that of place. The narrow space immediately surrounding what had
 
 been the [[concepts/body|body]], was now growing to be the [[concepts/body|body]] itself. At length,
 
-as often happens to [[The Sleeper|the sleeper]] (by [[motifs/sleep|sleep]] and its world [[Alone|alone]] is
+as often happens to the sleeper (by [[motifs/sleep|sleep]] and its world alone is
 
 [[motifs/death|Death]] imaged)—at length, as sometimes happened on Earth to the
 
@@ -2000,7 +2000,7 @@ deep slumberer, when some flitting light half startled him into
 
 awaking, yet left him half enveloped in [[motifs/dreams|dreams]]—so to me, in the
 
-strict embrace of the [[archetypes/shadow|Shadow]] came that light which [[Alone|alone]] might
+strict embrace of the [[archetypes/shadow|Shadow]] came that light which alone might
 
 have had power to startle—the light of enduring [[motifs/love|Love]]. Men toiled
 
@@ -2107,7 +2107,7 @@ E la corruzione, nei miei tristi e solenni sonni, insieme al verme.
 
 
 
-E qui, in questa [[motifs/prison|prigione]]-[[house|casa]] che ha pochi [[motifs/secrets|segreti]] da rivelare.
+E qui, in questa [[motifs/prison|prigione]]-casa che ha pochi [[motifs/secrets|segreti]] da rivelare.
 
 Passarono giorni, settimane e mesi; e l’[[motifs/soul|'anima]] osservava tutto ciò che accadeva.
 
@@ -2127,7 +2127,7 @@ Lo spazio ristretto che circonda immediatamente ciò che era…
 
 Che un tempo era stato il [[concepts/body|-corpo]], ora stava diventando il [[concepts/body|-corpo]] stesso. Alla fine.
 
-Come spesso accade a [[The Sleeper|colui che dorme]] (attraverso il [[motifs/sleep|)sogno]] e nel suo mondo [[Alone|solitario]]).
+Come spesso accade a colui che dorme (attraverso il [[motifs/sleep|)sogno]] e nel suo mondo solitario).
 
 [[motifs/death|Morte]] si era immaginata così. Alla fine, come a volte accadeva sulla Terra.
 
@@ -2135,7 +2135,7 @@ Come spesso accade a [[The Sleeper|colui che dorme]] (attraverso il [[motifs/sle
 
 Svegliandosi, si ritrovò ancora parzialmente avvolto nei [[motifs/dreams|sogni]], almeno per me.
 
-Un rigido abbraccio dell’[[archetypes/shadow|Ombra]] portò con sé quella luce che soltanto [[Alone|unicamente]] poteva esistere.
+Un rigido abbraccio dell’[[archetypes/shadow|Ombra]] portò con sé quella luce che soltanto unicamente poteva esistere.
 
 Aveva il potere di sorprendere, la luce di un [[motifs/love|Amore]] duraturo. Gli uomini lavoravano sodo.
 

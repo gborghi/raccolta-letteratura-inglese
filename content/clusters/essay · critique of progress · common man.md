@@ -16,7 +16,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1082. Revolution is the Pod (Dickinson)
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1082_revolution_is_the_pod|1082. Revolution is the Pod (Dickinson)]]
 - [[works/a-child's-history-of-england-(dickens)|A Child's History of England (Dickens)]]
 - [[works/a-shy-bird-(chesterton)|A Shy Bird (Chesterton)]]
 - [[works/alarms-and-discursions-(chesterton)|alarms and discursions (Chesterton)]]

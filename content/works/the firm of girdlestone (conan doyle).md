@@ -91,4 +91,4 @@ tags:
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/ship|Ship]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/london|London]], [[settings/africa|Africa]]
-**Archetypes:** Villain, Self-Made Man
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/self-made-man|Self-Made Man]]

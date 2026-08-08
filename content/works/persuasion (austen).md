@@ -55,13 +55,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/marriage|Marriage]], [[motifs/autumn|Autumn]], [[motifs/sea|Sea]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/nostalgia|Nostalgia]], [[concepts/melancholy|Melancholy]], [[concepts/memory-and-time|Memory and Time]], [[concepts/class-conflict|Class Conflict]], [[concepts/pride|Pride]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]]
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** Anne Elliot, Captain Wentworth, Sir Walter Elliot, Lady Russell, Admiral Croft, Captain Benwick, Elizabeth Elliot
+**Characters:** [[characters/anne-elliot|Anne Elliot]], [[characters/captain-wentworth|Captain Wentworth]], [[characters/sir-walter-elliot|Sir Walter Elliot]], [[characters/lady-russell|Lady Russell]], [[characters/admiral-croft|Admiral Croft]], [[characters/captain-benwick|Captain Benwick]], [[characters/elizabeth-elliot|Elizabeth Elliot]]
 
 ## Testo integrale / Full text
 

@@ -30,13 +30,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]]
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/winter|Winter]], [[motifs/food-and-feasting|Food and Feasting]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/lust-sexual-desire|Lust Sexual Desire]]
 **Forms & Genres:** [[forms/spenserian-stanza|Spenserian Stanza]], [[forms/medieval-romance|Medieval Romance]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]]
 **Settings:** [[settings/castle|Castle]]
-**Characters:** Madeline, Porphyro
+**Characters:** [[characters/madeline|Madeline]], [[characters/porphyro|Porphyro]]
 
 ## Testo integrale / Full text
 

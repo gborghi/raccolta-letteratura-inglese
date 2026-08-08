@@ -14,7 +14,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- Sonnet 59 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_059|Sonnet 59 (Shakespeare)]]
 
 </div>
 

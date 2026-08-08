@@ -411,7 +411,7 @@ Making Gratitude
 
 
 To offer brave assistance  
-To Lives that stand [[Alone|alone]] —  
+To Lives that stand alone —  
 When One has failed to stop them —  
 Is Human — but Divine  
 
@@ -518,13 +518,13 @@ Mines have no Wings.
 
 
 How happy is the little Stone  
-That rambles in the [[motifs/road|Road]] [[Alone|alone]],  
+That rambles in the [[motifs/road|Road]] alone,  
 And doesn't care about Careers  
 And Exigencies never fears —  
 Whose Coat of elemental Brown  
 A passing Universe put on,  
 And independent as the [[motifs/sun|Sun]]  
-Associates or glows [[Alone|alone]],  
+Associates or glows alone,  
 Fulfilling absolute Decree  
 In casual simplicity —
 

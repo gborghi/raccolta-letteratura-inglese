@@ -31,7 +31,7 @@ Erano terribili. Gli uomini parlavano. Le donne urlavano. I bambini…
 
 “Muggirono”. Le mucche muggirono, i cavalli nitriscono, i gatti…
 
-Caterwaulled. Quei [[dogs|cani]] danzavano, _Danzavano davvero!_ Allora forse.
+Caterwaulled. Quei cani danzavano, _Danzavano davvero!_ Allora forse.
 
 “Possibile? Ho ballato… Ahimè, pensai, i miei giorni di danza sono finiti…”
 
@@ -61,7 +61,7 @@ Una espressione… una cosa… (scusate, gentile lettore!) nel mondo… ma…
 
 “Sono sempre guidato dai miei sentimenti… In una mente del genere, ripeto,…”
 
-Quante memorie vengono risvegliate da una cosa così insignificante. I [[dogs|cani]].
+Quante memorie vengono risvegliate da una cosa così insignificante. I cani.
 
 Danzai! Non riuscivo… Loro si muovevano agilmente… Io piangevo. Si divertivano… Io singhiozzavo.
 
@@ -91,7 +91,7 @@ In altezza era simile agli altri, ma la sua testa era leggermente più grande de
 
 Il suo codice era stato tagliato molto vicino alla base, il che le dava un aspetto di animale ferito.
 
-[[innocence|innocenza]], quella caratteristica che rendeva quell’animale così affascinante, facendola diventare la sua preferita.
+innocenza, quella caratteristica che rendeva quell’animale così affascinante, facendola diventare la sua preferita.
 
 Con tutto.
 
@@ -258,7 +258,7 @@ Di [[characters/pompey|Pompeo]], e senza il suo aiuto, riuscì a superare quella
 
 L’ultimo passo… e finalmente entrai nella camera della campana. Ero lì.
 
-Subito dopo, arrivò il mio cagnolino. [[characters/pompey|Pompeo]] da [[Alone|solo]].
+Subito dopo, arrivò il mio cagnolino. [[characters/pompey|Pompeo]] da solo.
 
 Rimasi indietro. Mi trovavo in cima alle scale…
 
@@ -769,7 +769,7 @@ were choking. Pigs were whistling. Carts they rattled. Bulls they
 
 bellowed. Cows they lowed. Horses they neighed. Cats they
 
-caterwauled. [[dogs|Dogs]] they danced. _Danced!_ Could it then be
+caterwauled. Dogs they danced. _Danced!_ Could it then be
 
 possible? Danced! Alas, thought I, my dancing days are over! Thus
 
@@ -799,7 +799,7 @@ an expression) thing (pardon me, gentle reader!) in the world—but
 
 I am always led away by my feelings. In such a mind, I repeat,
 
-what a host of recollections are stirred up by a trifle! The [[dogs]]
+what a host of recollections are stirred up by a trifle! The dogs
 
 danced! I—I could not! They frisked—I wept. They capered—I sobbed
 
@@ -827,7 +827,7 @@ in height, but her head was somewhat bigger than her [[concepts/body|body]], and
 
 her tail being cut off exceedingly close, gave an air of injured
 
-[[innocence]] to the interesting animal which rendered her a favorite
+innocence to the interesting animal which rendered her a favorite
 
 with all.
 
@@ -956,7 +956,7 @@ Erano terribili. Gli uomini parlavano. Le donne urlavano. I bambini…
 
 “Muggirono”. Le mucche muggirono, i cavalli nitriscono, i gatti…
 
-Caterwaulled. Quei [[dogs|cani]] danzavano, _Danzavano davvero!_ Allora forse.
+Caterwaulled. Quei cani danzavano, _Danzavano davvero!_ Allora forse.
 
 “Possibile? Ho ballato… Ahimè, pensai, i miei giorni di danza sono finiti…”
 
@@ -986,7 +986,7 @@ Una espressione… una cosa… (scusate, gentile lettore!) nel mondo… ma…
 
 “Sono sempre guidato dai miei sentimenti… In una mente del genere, ripeto,…”
 
-Quante memorie vengono risvegliate da una cosa così insignificante. I [[dogs|cani]].
+Quante memorie vengono risvegliate da una cosa così insignificante. I cani.
 
 Danzai! Non riuscivo… Loro si muovevano agilmente… Io piangevo. Si divertivano… Io singhiozzavo.
 
@@ -1016,7 +1016,7 @@ In altezza era simile agli altri, ma la sua testa era leggermente più grande de
 
 Il suo codice era stato tagliato molto vicino alla base, il che le dava un aspetto di animale ferito.
 
-[[innocence|innocenza]], quella caratteristica che rendeva quell’animale così affascinante, facendola diventare la sua preferita.
+innocenza, quella caratteristica che rendeva quell’animale così affascinante, facendola diventare la sua preferita.
 
 Con tutto.
 
@@ -1188,7 +1188,7 @@ of [[characters/pompey|Pompey]], and, without his assistance, surmounted the one
 
 remaining step, and gained the chamber of the belfry. I was
 
-followed immediately afterward by my poodle. [[characters/pompey|Pompey]] [[Alone|alone]]
+followed immediately afterward by my poodle. [[characters/pompey|Pompey]] alone
 
 remained behind. I stood at the head of the staircase, and
 
@@ -1373,7 +1373,7 @@ Di [[characters/pompey|Pompeo]], e senza il suo aiuto, riuscì a superare quella
 
 L’ultimo passo… e finalmente entrai nella camera della campana. Ero lì.
 
-Subito dopo, arrivò il mio cagnolino. [[characters/pompey|Pompeo]] da [[Alone|solo]].
+Subito dopo, arrivò il mio cagnolino. [[characters/pompey|Pompeo]] da solo.
 
 Rimasi indietro. Mi trovavo in cima alle scale…
 
@@ -1691,7 +1691,7 @@ of the [[motifs/machine|machine]], were absolutely starting from their sockets.
 
 While I was thinking how I should possibly manage without them,
 
-one actually tumbled out of my head, and, [[rolling]] down the steep
+one actually tumbled out of my head, and, rolling down the steep
 
 side of the steeple, lodged in the rain gutter which ran along
 

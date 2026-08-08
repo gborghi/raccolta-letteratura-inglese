@@ -47,7 +47,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Detective
+**Archetypes:** [[archetypes/detective|Detective]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/mirror|Mirror]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/truth|Truth]], [[concepts/critique-of-progress|Critique of Progress]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/detective-fiction|Detective Fiction]], [[forms/nonfiction|Nonfiction]]

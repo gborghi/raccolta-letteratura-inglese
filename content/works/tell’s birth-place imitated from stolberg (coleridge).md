@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Hero, Child
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/child|Child]]
 **Motifs:** [[concepts/nature|Nature]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/hymn|Hymn]], [[forms/translation|Translation]]

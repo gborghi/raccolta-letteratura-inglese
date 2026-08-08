@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child, Great Mother
+**Archetypes:** [[archetypes/child|Child]], [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/childhood|Childhood]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/maturation-and-growth|Maturation and Growth]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]

@@ -194,7 +194,7 @@ In un angolo remoto della città, raccolsi diversi oggetti antichi…
 
 Volumi del tutto sconosciuti o dimenticati. Il libraio li vendette.
 
-Per me, una [[Song|canzone]]. Tra queste, una che presumibilmente era.
+Per me, una canzone. Tra queste, una che presumibilmente era.
 
 La [[forms/translation|traduzione]] di un passo dell’“Inferno” di [[historical-references/dante|Dante]]; l’ho copiata con notevole precisione.
 
@@ -231,7 +231,7 @@ A modo loro, abbastanza buoni.
 
 
 
-Dopo aver realizzato copie fedeli di questi [[Poems|poemi]], ne ho firmato ciascuno.
+Dopo aver realizzato copie fedeli di questi poemi, ne ho firmato ciascuno.
 
 Li chiamavano “Oppodeldoc”, un nome piacevole e sonoro, e li trattavano con grande cura.
 
@@ -241,7 +241,7 @@ Quattro principali riviste, con la richiesta di una pubblicazione rapida e…
 
 Pagamento immediato. Tuttavia, il risultato di questo piano ben congegnato.
 
-Un tale [[success|successo]] mi avrebbe risparmiato molti problemi nell’aldilà.
+Un tale successo mi avrebbe risparmiato molti problemi nell’aldilà.
 
 Questo mi ha convinto che alcuni editori non possono essere facilmente ingannati.
 
@@ -569,7 +569,7 @@ Merito. Per quanto riguarda quel discorso trimestrale sul “sforzo costante”,
 
 “Impossibile comprendere il senso di tutto ciò… In definitiva, quindi…”
 
-Era soddisfatto del [[success|successo]] del mio primo tentativo, e ora.
+Era soddisfatto del successo del mio primo tentativo, e ora.
 
 L’unica domanda che mi ponevo era su come dovessi disporne.
 
@@ -1537,7 +1537,7 @@ _Come?_
 
 
 
-Il mio piano era estremamente semplice: per una [[Song|-canzone]], comprai un sedicesimo.
+Il mio piano era estremamente semplice: per una -canzone, comprai un sedicesimo.
 
 “La Tartaruga a Scatto”: ecco tutto. L’operazione era stata completata.
 
@@ -1903,7 +1903,7 @@ remote corner of the town, I got together several antique and
 
 altogether unknown or forgotten volumes. The bookseller sold them
 
-to me for a [[Song|song]]. From one of these, which purported to be a
+to me for a song. From one of these, which purported to be a
 
 [[forms/translation|translation]] of one [[historical-references/dante|Dante]]’s “Inferno,” I copied with remarkable
 
@@ -2103,7 +2103,7 @@ In un angolo remoto della città, raccolsi diversi oggetti antichi…
 
 Volumi del tutto sconosciuti o dimenticati. Il libraio li vendette.
 
-Per me, una [[Song|canzone]]. Tra queste, una che presumibilmente era.
+Per me, una canzone. Tra queste, una che presumibilmente era.
 
 La [[forms/translation|traduzione]] di un passo dell’“Inferno” di [[historical-references/dante|Dante]]; l’ho copiata con notevole precisione.
 
@@ -2144,7 +2144,7 @@ sufficiently good in their way.
 
 
 
-Having made fair copies of these [[Poems|poems]], I signed every one of
+Having made fair copies of these poems, I signed every one of
 
 them “Oppodeldoc,” (a fine sonorous name,) and, doing each up
 
@@ -2154,7 +2154,7 @@ four principal Magazines, with a request for speedy insertion and
 
 prompt pay. The result of this [[motifs/well|well]] conceived plan, however, (the
 
-[[success]] of which would have saved me much trouble in after life,)
+success of which would have saved me much trouble in after life,)
 
 served to convince me that some editors are not to be bamboozled,
 
@@ -2358,7 +2358,7 @@ A modo loro, abbastanza buoni.
 
 
 
-Dopo aver realizzato copie fedeli di questi [[Poems|poemi]], ne ho firmato ciascuno.
+Dopo aver realizzato copie fedeli di questi poemi, ne ho firmato ciascuno.
 
 Li chiamavano “Oppodeldoc”, un nome piacevole e sonoro, e li trattavano con grande cura.
 
@@ -2368,7 +2368,7 @@ Quattro principali riviste, con la richiesta di una pubblicazione rapida e…
 
 Pagamento immediato. Tuttavia, il risultato di questo piano ben congegnato.
 
-Un tale [[success|successo]] mi avrebbe risparmiato molti problemi nell’aldilà.
+Un tale successo mi avrebbe risparmiato molti problemi nell’aldilà.
 
 Questo mi ha convinto che alcuni editori non possono essere facilmente ingannati.
 
@@ -2701,7 +2701,7 @@ merit. As for the Quarterly cant about “sustained effort,” it is
 
 impossible to see the sense of it. Upon the whole, therefore, I
 
-was satisfied with the [[success]] of my maiden attempt, and now the
+was satisfied with the success of my maiden attempt, and now the
 
 only question regarded the disposal I should make of it. My
 
@@ -2908,7 +2908,7 @@ Merito. Per quanto riguarda quel discorso trimestrale sul “sforzo costante”,
 
 “Impossibile comprendere il senso di tutto ciò… In definitiva, quindi…”
 
-Era soddisfatto del [[success|successo]] del mio primo tentativo, e ora.
+Era soddisfatto del successo del mio primo tentativo, e ora.
 
 L’unica domanda che mi ponevo era su come dovessi disporne.
 
@@ -4668,7 +4668,7 @@ more. However—it might be just as [[motifs/well|well]] to roll him once or twi
 
 in the gutter, and then put him in charge of the police. Any [[motifs/time|time]]
 
-the next morning you can call at the watch-[[house]] and swear an
+the next morning you can call at the watch-house and swear an
 
 assault.”
 
@@ -4700,7 +4700,7 @@ _modo?_
 
 
 
-My plan was exceedingly simple. I bought, for a [[Song|song]], a sixteenth
+My plan was exceedingly simple. I bought, for a song, a sixteenth
 
 of the “Snapping-Turtle”:—that was all. The thing was _done_, and
 
@@ -4964,7 +4964,7 @@ _Come?_
 
 
 
-Il mio piano era estremamente semplice: per una [[Song|-canzone]], comprai un sedicesimo.
+Il mio piano era estremamente semplice: per una -canzone, comprai un sedicesimo.
 
 “La Tartaruga a Scatto”: ecco tutto. L’operazione era stata completata.
 

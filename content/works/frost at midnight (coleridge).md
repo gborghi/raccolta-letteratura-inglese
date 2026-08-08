@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/book-of-nature|Book of Nature]]
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[concepts/nature|Nature]], [[motifs/memory|Memory]], [[motifs/winter|Winter]]
 **Themes & Concepts:** [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/blank-verse|Blank Verse]]

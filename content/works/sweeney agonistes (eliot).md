@@ -33,13 +33,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/katabasis-descent|Katabasis Descent]]
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/death|Death]], [[motifs/dreams|Dreams]], [[motifs/music-and-song|Music and Song]], [[motifs/wine-and-drink|Wine and Drink]]
 **Themes & Concepts:** [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/guilt|Guilt]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/alienation|Alienation]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/greek-tragedy|Greek Tragedy]]
 **Settings:** [[settings/london|London]]
-**Characters:** Sweeney
+**Characters:** [[characters/sweeney|Sweeney]]
 
 ## Testo integrale / Full text
 

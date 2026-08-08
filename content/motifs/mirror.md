@@ -24,8 +24,8 @@ tags:
 - [[works/the-pang-more-sharp-than-all-an-allegory-(coleridge)|THE PANG MORE SHARP THAN ALL AN ALLEGORY (Coleridge)]]
 - [[works/the-picture-or-the-lover’s-resolution-(coleridge)|THE PICTURE OR THE LOVER’S RESOLUTION (Coleridge)]]
 - [[works/to-the-young-artist-kayser-of-kaserwerth-(coleridge)|TO THE YOUNG ARTIST KAYSER OF KASERWERTH (Coleridge)]]
-- 351. I felt my life with both my hands (Dickinson)
-- 747. It dropped so low — in my Regard — (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0351_i_felt_my_life_with_both_my_hands|351. I felt my life with both my hands (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0747_it_dropped_so_low_in_my_regard|747. It dropped so low — in my Regard — (Dickinson)]]
 - [[works/gerontion-(eliot)|Gerontion (Eliot)]]
 - [[works/an-extempore-(keats)|An Extempore (Keats)]]
 - [[works/the-castle-builder---fragments-of-a-dialogue-(keats)|The Castle Builder - Fragments of a Dialogue (Keats)]]
@@ -38,12 +38,12 @@ tags:
 - [[works/to-the-river---(poe)|To the River-- (Poe)]]
 - [[works/william-wilson-(poe)|William Wilson (Poe)]]
 - [[works/richard-ii-(shakespeare)|RICHARD II (Shakespeare)]]
-- Sonnet 103 (Shakespeare)
-- Sonnet 126 (Shakespeare)
-- Sonnet 22 (Shakespeare)
-- Sonnet 3 (Shakespeare)
-- Sonnet 62 (Shakespeare)
-- Sonnet 77 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_103|Sonnet 103 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_126|Sonnet 126 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_022|Sonnet 22 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_003|Sonnet 3 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_062|Sonnet 62 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_077|Sonnet 77 (Shakespeare)]]
 - [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
 - [[works/the-winter’s-tale-(shakespeare)|THE WINTER’S TALE (Shakespeare)]]
 - [[works/a-hand-mirror-(whitman)|A Hand-Mirror (Whitman)]]

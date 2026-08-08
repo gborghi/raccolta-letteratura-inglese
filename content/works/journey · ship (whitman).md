@@ -42,7 +42,7 @@ Raccolta tematica di 22 componimenti di Walt Whitman.
 - [[works/after-the-supper-and-talk-(whitman)|After the Supper and Talk]]
 - [[works/an-old-man’s-thought-of-school-(whitman)|An Old Man’s Thought of School]]
 - [[works/city-of-ships-(whitman)|City of Ships]]
-- Gliding O’er all
+- [[testi/whitman/atomized/journey-ship#135_gliding_o_er_all|Gliding O’er all]]
 - [[works/in-cabin’d-ships-at-sea-(whitman)|In Cabin’d Ships at Sea]]
 - [[works/joy,-shipmate,-joy!-(whitman)|Joy, Shipmate, Joy!]]
 - [[works/not-the-pilot-(whitman)|Not the Pilot]]
@@ -55,7 +55,7 @@ Raccolta tematica di 22 componimenti di Walt Whitman.
 - [[works/song-of-the-open-road-(whitman)|Song of the Open Road]]
 - [[works/the-dismantled-ship-(whitman)|The Dismantled Ship]]
 - [[works/the-ship-starting-(whitman)|The Ship Starting]]
-- The Untold Want
+- [[testi/whitman/atomized/journey-ship#289_the_untold_want|The Untold Want]]
 - [[works/to-rich-givers-(whitman)|To Rich Givers]]
 - [[works/twenty-years-(whitman)|Twenty Years]]
 - [[works/what-ship-puzzled-at-sea-(whitman)|What Ship Puzzled at Sea]]

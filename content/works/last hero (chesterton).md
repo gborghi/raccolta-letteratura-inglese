@@ -48,7 +48,7 @@ tags:
 **Settings:** [[settings/battlefield|Battlefield]]
 
 **Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/love-death-(liebestod)|Love-Death (Liebestod)]], [[topoi/war-as-glory|War as Glory]]
-**Archetypes:** Hero, Christ Figure
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/christ-figure|Christ Figure]]
 **Motifs:** [[motifs/storm|Storm]], [[motifs/wind|Wind]], [[motifs/blood|Blood]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/stars|Stars]], [[motifs/sun|Sun]], [[motifs/rain|Rain]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/mortality|Mortality]], [[concepts/joy|Joy]], [[concepts/romantic-love|Romantic Love]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/paradox|Paradox]], [[concepts/death-and-love|Death and Love]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]], [[forms/dramatic-monologue|Dramatic Monologue]]

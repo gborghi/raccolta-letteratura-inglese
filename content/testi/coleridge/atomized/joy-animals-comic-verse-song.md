@@ -33,7 +33,7 @@ Nought now remain’d but ‘Noes’ — how little meant!
 And the sweet coyness that endears consent.  
 The youth upon his knees enraptur’d fell:   15  
 The strange misfortune, oh! what words can tell?  
-Tell! ye neglected sylphs! who lap-[[dogs]] guard,  
+Tell! ye neglected sylphs! who lap-dogs guard,  
 Why snatch’d ye not away your precious ward?  
 Why suffer’d ye the [[archetypes/lover|lover]]’s weight to fall  
 On the ill-fated neck of much-lov’d Ball?   20  
@@ -73,7 +73,7 @@ What [[motifs/time|time]] the Bloodhound lur’d by Human scent
 Thro’ all Confusion’s quagmires floundering went.  
 Nor cheering pipe, nor Bird’s shrill note   15  
 Around thy dreary paths shall float;  
-Their boding [[songs]] shall scritch-owls pour  
+Their boding songs shall scritch-owls pour  
 To fright the guilty shepherds sore,  
 Led by the wandering fires astray  
 Thro’ the dank horrors of thy way!   20  
@@ -135,7 +135,7 @@ When every friend is gone to them that rest;   20
 Or of old men that leave, when they expire,  
 Daughters, that should have perish’d with their sire —  
 Leave them to toil all day through paths unknown,  
-And [[house]] at [[motifs/night|night]] behind some sheltering stone;  
+And house at [[motifs/night|night]] behind some sheltering stone;  
 Impatient of the thought, with lively cheer   25  
 She broke half-closed the tasteless tale severe.  
 She play’d with fancies of a gayer hue,  
@@ -172,7 +172,7 @@ Yes! now the hour approach’d that should restore
 Her [[archetypes/lover|lover]] from the wars to part no more.  
 Her thoughts were wild, her [[motifs/soul|soul]] was in her eye,  
 She wept and laugh’d as if she knew not why;   60  
-And she had made a [[Song|song]] about the wars,  
+And she had made a song about the wars,  
 And sang it to the sun and to the [[motifs/stars|stars]]!  
 But while she look’d and listen’d, stood and ran,  
 And saw him plain in every distant man,  
@@ -198,7 +198,7 @@ She wander’d up the crag and down the slope,
 But not, as in her happy days of [[concepts/hope|hope]],  
 To seek the churning-plant of sovereign power,   85  
 That grew in clefts and bore a scarlet flower!  
-She roam’d, without a purpose, all [[Alone|alone]],  
+She roam’d, without a purpose, all alone,  
 Thro’ high grey vales unknowing and unknown.  
 Kind-hearted stranger! patiently you hear  
 A tedious tale: I thank you for that tear.   90  
@@ -426,7 +426,7 @@ As thus I sat, in careless chat,   115
 With the morning’s wet newspaper,
 In eager haste, without his hat,
 As blind and blund’ring as a bat,
-In came that fierce [[aristocrat|Aristocrat]],
+In came that fierce Aristocrat,
 Our pursy woollen-draper.   120
 XXI
 And so my Muse per force drew bit;
@@ -468,7 +468,7 @@ Ride by on his vocations,
 And the Devil thought of his old Friend  
 [[motifs/death|Death]] in the Revelations.   20  
 VI  
-He saw a cottage with a [[topoi/double|double]] coach-[[house]],  
+He saw a cottage with a [[topoi/double|double]] coach-house,  
 A cottage of gentility;  
 And the Devil did grin, for his darling sin  
 Is [[concepts/pride|pride]] that apes [[concepts/humility|humility]].  
@@ -496,7 +496,7 @@ If a man be but used to his trade.’
 XI  
 He saw the same Turnkey unfetter a man,  
 With but little expedition,  
-Which put him in mind of the long [[debate]]  
+Which put him in mind of the long debate  
 On the Slave-trade abolition.   45  
 XII  
 He saw an old acquaintance  
@@ -511,7 +511,7 @@ And leered like a [[motifs/love|love]]-sick pigeon.
 XIV  
 He saw a certain minister  
 (A minister to his mind)    55  
-Go up into a certain [[house|House]],  
+Go up into a certain House,  
 With a majority behind.  
 XV  
 The Devil quoted Genesis  
@@ -537,7 +537,7 @@ It was general conflagration.   70
 <span class="atom-split" data-atom="206_letter_july_19_1802" data-title="LETTER, JULY 19, 1802." data-chapter="" data-kind="intro"></span>
 
 
-And sing his lofty [[Song|song]] and teach me to rejoice!  
+And sing his lofty song and teach me to rejoice!  
 O [[characters/edmund|Edmund]], friend of my devoutest choice,  
 O rais’d from anxious dread and busy care,  
 By the immenseness of the good and fair  
@@ -563,7 +563,7 @@ of lines 75 foll.]
 Do you ask what the [[motifs/birds|birds]] say? The Sparrow, the Dove,  
 The Linnet and Thrush say, ‘I [[motifs/love|love]] and I [[motifs/love|love]]!’  
 In the [[motifs/winter|winter]] they’re silent — the [[motifs/wind|wind]] is so strong;  
-What it says, I don’t know, but it sings a loud [[Song|song]].  
+What it says, I don’t know, but it sings a loud song.  
 But green [[motifs/leaves|leaves]], and blossoms, and sunny warm weather,   5  
 And singing, and loving — all come back together.  
 But the Lark is so brimful of gladness and [[motifs/love|love]],  
@@ -600,7 +600,7 @@ Not a [[motifs/soul|soul]] at [[motifs/home|home]] may stay:   5
 For the shepherds must go  
 With lance and bow  
 To hunt the wolf in the woods to-day.  
-Leave the hearth and leave the [[house]]  
+Leave the hearth and leave the house  
 To the cricket and the mouse:   10  
 Find grannam out a sunny seat.  
 With babe and lambkin at her feet.  
@@ -700,7 +700,7 @@ Beneath the cliffs of Dumpton Bay.
 Where, Ramsgate and Broadstairs between,  
 Rude caves and grated doors are seen:  
 And here I’ll watch till break of day,  
-(For Fancy in her [[Magic|magic]] might   85  
+(For Fancy in her magic might   85  
 Can turn broad [[motifs/noon|noon]] to starless [[motifs/night|night]]!)  
 When lo! methinks a sudden band  
 Of smock-clad smugglers round me stand.  
@@ -710,7 +710,7 @@ And stow me in the boat hard by.
 Suppose us fairly now afloat,  
 Till Boulogne mouth receives our Boat.  
 But, bless us! what a numerous band  
-Of [[cockneys]] anglicise the strand!   95  
+Of cockneys anglicise the strand!   95  
 Delinquent bankrupts, leg-bail’d debtors,  
 Some for the news, and some for letters —  
 With hungry look and tarnished dress,  
@@ -795,7 +795,7 @@ But what if Nectar, in their lingo,
 Is but another name for Stingo?  
 B.  
 Why, then we and the Gods are equally blest,  
-And Olympus an Ale-[[house]] as good as the best!  
+And Olympus an Ale-house as good as the best!  
 First published in Morning Post, September 18, 1801. Included in  
 Essays, &c., iii. 995-6. First collected P. and D. W., 1877, ii.  
 167.  
@@ -806,9 +806,9 @@ Essays, &c., iii. 995-6. First collected P. and D. W., 1877, ii.
 <span class="atom-split" data-atom="366_drinking_versus_thinking" data-title="DRINKING VERSUS THINKING" data-chapter="" data-kind="intro"></span>
 
 
-OR, A [[Song|SONG]] AGAINST THE NEW [[philosophy|PHILOSOPHY]]  
+OR, A SONG AGAINST THE NEW PHILOSOPHY  
 My Merry men all, that drink with glee  
-This fanciful [[philosophy|Philosophy]],  
+This fanciful Philosophy,  
 Pray tell me what good is it?  
 If antient Nick should come and take,  
 The same across the Stygian Lake,  
@@ -823,7 +823,7 @@ My merry men all, here’s punch and wine,
 And spicy bishop, drink divine!  
 Let’s live while we are able.  
 While Mirth and Sense sit, hand in glove,  
-This Don [[philosophy|Philosophy]] we’ll shove  
+This Don Philosophy we’ll shove  
 Dead drunk beneath the table!  
 First published in Morning Post, September 25, 1801. Included in  
 Essays, &c., iii. 966-7. First collected P. and D. W., 1877, ii.  

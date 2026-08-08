@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-IL [[Song|CANTO]] DELLO STRANO [[ascetic|ASCETA]]  
+IL CANTO DELLO STRANO ASCETA  
 
 Fossi stato un Pagano,  
 avrei lodato la vite purpurea,  
@@ -31,7 +31,7 @@ esattamente due volte al giorno.
 Fossi stato un Pagano,  
 avrei incoronato i riccioli di Neèra,  
 e riempito la vita di [[motifs/love|amori]],  
-la mia [[house|casa]] di fanciulle danzanti;  
+la mia casa di fanciulle danzanti;  
 ma Higgins è un Pagano,  
 e in aule di conferenza è costretto,  
 dove le sue zie, che non sono maritate,  
@@ -70,7 +70,7 @@ e non vogliono avere lo spasso.
 <span class="atom-split" data-atom="part--part_01" data-title="ascetic (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,concept/faith,form/riddle"></span>
 
 
-THE [[Song|SONG]] OF THE STRANGE [[ascetic|ASCETIC]]  
+THE SONG OF THE STRANGE ASCETIC  
 
 If I had been a Heathen,  
 I'd have praised the purple vine,  
@@ -84,7 +84,7 @@ Exactly twice a day.
 If I had been a Heathen,  
 I'd have crowned Neaera's curls,  
 And filled my life with [[motifs/love|love]] affairs,  
-My [[house]] with dancing girls;  
+My house with dancing girls;  
 But Higgins is a Heathen,  
 And to lecture rooms is forced,  
 Where his aunts, who are not married,  
@@ -121,7 +121,7 @@ And will not have the fun.
 
 <span class="qlang-split" data-lang="it"></span>
 
-IL [[Song|CANTO]] DELLO STRANO [[ascetic|ASCETA]]  
+IL CANTO DELLO STRANO ASCETA  
 
 Fossi stato un Pagano,  
 avrei lodato la vite purpurea,  
@@ -135,7 +135,7 @@ esattamente due volte al giorno.
 Fossi stato un Pagano,  
 avrei incoronato i riccioli di Neèra,  
 e riempito la vita di [[motifs/love|amori]],  
-la mia [[house|casa]] di fanciulle danzanti;  
+la mia casa di fanciulle danzanti;  
 ma Higgins è un Pagano,  
 e in aule di conferenza è costretto,  
 dove le sue zie, che non sono maritate,  

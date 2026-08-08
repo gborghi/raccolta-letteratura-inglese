@@ -46,7 +46,7 @@ tags:
 **Motifs:** [[motifs/death|Death]], [[motifs/sleep|Sleep]], [[motifs/stars|Stars]]
 **Themes & Concepts:** [[concepts/immortality|Immortality]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/mortality|Mortality]], [[concepts/sublime|Sublime]], [[concepts/beauty|Beauty]]
 **Forms & Genres:** [[forms/short-story|Short Story]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

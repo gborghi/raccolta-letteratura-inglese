@@ -32,7 +32,7 @@ ma un sacro sopore lo tiene con l'asino e la pecora.
 
 Chinàti intorno al suo giaciglio, ché per ciascuno ha un dono;  
 guarda come i suoi occhi si destano, levate le mani, oh levate!  
-Per l'oro, egli dona una [[Sword|spada]] affilata  
+Per l'oro, egli dona una spada affilata  
 (difendi con essa il tuo piccolo Signore!),  
 per l'incenso, il fumo rosso della battaglia.  
 Mirra per gli onorati, felici morti;  
@@ -62,7 +62,7 @@ But holy slumber holds with ass and sheep.
 
 Bend low about his bed, for each he has a gift;  
 See how his eyes awake, lift up your hands, O lift!  
-For gold, he gives a keen-edged [[Sword|sword]]  
+For gold, he gives a keen-edged sword  
 (Defend with it Thy little Lord!),  
 For incense, smoke of battle red.  
 Myrrh for the honoured happy dead;  
@@ -90,7 +90,7 @@ ma un sacro sopore lo tiene con l'asino e la pecora.
 
 Chinàti intorno al suo giaciglio, ché per ciascuno ha un dono;  
 guarda come i suoi occhi si destano, levate le mani, oh levate!  
-Per l'oro, egli dona una [[Sword|spada]] affilata  
+Per l'oro, egli dona una spada affilata  
 (difendi con essa il tuo piccolo Signore!),  
 per l'incenso, il fumo rosso della battaglia.  
 Mirra per gli onorati, felici morti;  

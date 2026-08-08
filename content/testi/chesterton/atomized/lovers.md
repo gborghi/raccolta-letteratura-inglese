@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Solo per [[lovers|Innamorati]]
+Solo per Innamorati
 
 Un pittore impetuoso e una critica perspicace
 _________________________________________________________________
@@ -79,7 +79,7 @@ Da The Poet and the Lunatics di Chesterton
 <span class="atom-split" data-atom="part--part_01" data-title="lovers (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/silence,character/diana"></span>
 
 
-For [[lovers|Lovers]] Only
+For Lovers Only
 
 An Impetuous Painter and A Discerning Critic
 _________________________________________________________________
@@ -139,7 +139,7 @@ From Chesterton's The Poet and the Lunatics
 
 <span class="qlang-split" data-lang="it"></span>
 
-Solo per [[lovers|Innamorati]]
+Solo per Innamorati
 
 Un pittore impetuoso e una critica perspicace
 _________________________________________________________________

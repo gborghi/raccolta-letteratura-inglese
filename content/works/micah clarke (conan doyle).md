@@ -86,5 +86,5 @@ tags:
 **Historical References:** [[historical-references/english-civil-war|English Civil War]], [[historical-references/puritanism|Puritanism]], [[historical-references/oliver-cromwell|Oliver Cromwell]], [[historical-references/reformation|Reformation]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/battlefield|Battlefield]]
 **Characters:** [[historical-references/oliver-cromwell|Oliver Cromwell]]
-**Archetypes:** Quest Hero, Mentor, Fanatic
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/mentor|Mentor]], [[archetypes/fanatic|Fanatic]]
 **Topoi:** [[topoi/journey-of-life|Journey of Life]]

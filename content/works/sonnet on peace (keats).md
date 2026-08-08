@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/reform|Reform]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]

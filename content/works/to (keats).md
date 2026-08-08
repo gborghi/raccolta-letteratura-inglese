@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]]
 **Forms & Genres:** [[forms/medieval-romance|Medieval Romance]], [[forms/lyric|Lyric]]

@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/marriage|Marriage]]
 **Themes & Concepts:** [[concepts/body|Body]], [[concepts/regeneration|Regeneration]], [[concepts/self|Self]]
 

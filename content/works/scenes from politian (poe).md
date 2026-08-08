@@ -45,7 +45,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/love-as-religion|Love as Religion]], [[topoi/paradise-lost|Paradise Lost]]
-**Archetypes:** Lover, (Reputed) Fallen Woman, Avenger, Tragic Hero
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/avenger|Avenger]], [[archetypes/tragic-hero|Tragic Hero]]
 **Motifs:** [[motifs/death|Death]], [[motifs/mirror|Mirror]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/cross|Cross]], [[motifs/music-and-song|Music and Song]], [[motifs/moon|Moon]]
 **Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]], [[concepts/honour|Honour]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]], [[forms/fragment|Fragment]]

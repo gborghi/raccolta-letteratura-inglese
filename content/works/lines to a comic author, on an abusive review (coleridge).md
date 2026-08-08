@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]
 **Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/satire|Satire]]
 **Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/greek-mythology|Greek Mythology]]

@@ -74,5 +74,5 @@ tags:
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/wit|Wit]], [[concepts/nonsense|Nonsense]], [[concepts/mortality|Mortality]], [[concepts/nostalgia|Nostalgia]], [[concepts/solitude|Solitude]]
 **Motifs:** [[motifs/inn-tavern|Inn Tavern]], [[motifs/road|Road]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/wine-and-drink|Wine and Drink]]
 **Settings:** [[settings/england|England]], [[settings/inn|Inn]], [[settings/oxford|Oxford]]
-**Archetypes:** The Writer
+**Archetypes:** [[archetypes/the-writer|The Writer]]
 **Topoi:** [[topoi/memento-mori|Memento Mori]]

@@ -37,7 +37,7 @@ tags:
 
 Raccolta tematica di 24 componimenti di Walt Whitman.
 
-- A Farm Picture
+- [[testi/whitman/atomized/nature-book-of-nature-natural-order#127_a_farm_picture|A Farm Picture]]
 - [[works/all-is-truth-(whitman)|All Is Truth]]
 - [[works/by-broad-potomac’s-shore-(whitman)|By Broad Potomac’s Shore]]
 - [[works/continuities-(whitman)|Continuities]]

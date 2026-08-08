@@ -122,8 +122,8 @@ tags:
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/road|Road]], [[motifs/hill|Hill]], [[motifs/bells|Bells]], [[motifs/sea|Sea]], [[motifs/prayer|Prayer]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/boer-war|Boer War]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/france|France]], [[settings/europe|Europe]]
-**Characters:** Virgin Mary
-**Archetypes:** Pilgrim, Poet as Prophet (2)
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/poet-as-prophet-(2)|Poet as Prophet (2)]]
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/carpe-diem|Carpe Diem]], [[topoi/memento-mori|Memento Mori]]
 
 **Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

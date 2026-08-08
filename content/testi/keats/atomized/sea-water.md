@@ -49,7 +49,7 @@ Singest of [[motifs/summer|summer]] in full-throated ease.  10
 O, for a draught of vintage! that hath been  
 Cool’d a long age in the deep-delved earth,  
 Tasting of Flora and the country green,  
-[[motifs/dance|Dance]], and Provençal [[Song|song]], and sunburnt mirth!  
+[[motifs/dance|Dance]], and Provençal song, and sunburnt mirth!  
 O for a beaker full of the warm South,  
 Full of the true, the blushful Hippocrene,  
 With beaded bubbles winking at the brim,  
@@ -84,7 +84,7 @@ Nor what soft incense hangs upon the boughs,
 But, in embalmed darkness, guess each sweet  
 Wherewith the seasonable month endows  
 The grass, the thicket, and the fruit-tree wild;  
-White hawthorn, and the [[Pastoral|pastoral]] eglantine;  
+White hawthorn, and the pastoral eglantine;  
 Fast fading violets cover’d up in [[motifs/leaves|leaves]];  
 And mid-May’s eldest [[archetypes/child|child]],  
 The coming musk-[[motifs/rose|rose]], full of dewy wine,  
@@ -105,11 +105,11 @@ Thou wast not born for [[motifs/death|death]], immortal Bird!
 No hungry generations tread thee down;  
 The voice I hear this passing [[motifs/night|night]] was heard  
 In ancient days by emperor and clown:  
-Perhaps the [[concepts/self|self]]-same [[Song|song]] that found a path  
+Perhaps the [[concepts/self|self]]-same song that found a path  
 Through the sad heart of Ruth, when, sick for [[motifs/home|home]],  
 She stood in [[motifs/tears|tears]] amid the alien corn;  
 The same that oft-times hath  
-Charm’d [[Magic|magic]] casements, opening on the foam  
+Charm’d magic casements, opening on the foam  
 Of perilous seas, in faery lands forlorn.  70  
 
 Forlorn! the very word is like a bell  
@@ -178,7 +178,7 @@ Definitively on these mighty things;
 Forgive me that I have not Eagle’s wings -  
 That what I want I know not where to seek:  
 And think that I would not be over meek  
-In [[rolling]] out upfollow’d thunderings,  
+In rolling out upfollow’d thunderings,  
 Even to the steep of Heliconian springs,  
 Were I of ample strength for such a freak -  
 Think too, that all those numbers should be thine;  
@@ -246,7 +246,7 @@ Thee heave to airy [[motifs/sleep|sleep]] from fathom [[motifs/dreams|dreams]]?
 [[motifs/sleep|Sleep]] in the lap of thunder or sunbeams,  
 Or when grey clouds are thy cold coverlid.  
 Thou answer’st not; for thou art dead asleep;  
-Thy life is but two dead [[eternities]] -  
+Thy life is but two dead eternities -  
 10  
 The last in air, the former in the deep;  
 First with the whales, last with the eagle-skies -  

@@ -8,7 +8,7 @@ tags:
 *Cluster* — **112 works**.
 
 ## Defining concepts
-[[concepts/satire-of-society|Satire of Society]] (94), [[forms/satire|Satire]] (66), [[forms/epigram|Epigram]] (58), [[concepts/appearance-vs-reality|Appearance vs Reality]] (19), [[forms/parody|Parody]] (18), [[concepts/artist-and-society|Artist and Society]] (16), [[concepts/grotesque|Grotesque]] (16), [[concepts/deception|Deception]] (15), [[motifs/animals|Animals]] (14), [[motifs/money-and-gold|Money and Gold]] (13), [[motifs/wine-and-drink|Wine and Drink]] (13), Fool (12), [[concepts/critique-of-progress|Critique of Progress]] (11), [[concepts/power-and-corruption|Power and Corruption]] (10), [[forms/short-story|Short Story]] (10)
+[[concepts/satire-of-society|Satire of Society]] (94), [[forms/satire|Satire]] (66), [[forms/epigram|Epigram]] (58), [[concepts/appearance-vs-reality|Appearance vs Reality]] (19), [[forms/parody|Parody]] (18), [[concepts/artist-and-society|Artist and Society]] (16), [[concepts/grotesque|Grotesque]] (16), [[concepts/deception|Deception]] (15), [[motifs/animals|Animals]] (14), [[motifs/money-and-gold|Money and Gold]] (13), [[motifs/wine-and-drink|Wine and Drink]] (13), [[archetypes/fool|Fool]] (12), [[concepts/critique-of-progress|Critique of Progress]] (11), [[concepts/power-and-corruption|Power and Corruption]] (10), [[forms/short-story|Short Story]] (10)
 
 ## Works
 
@@ -16,14 +16,14 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1207. He preached upon Breadth till it argued him narrow — (Dickinson)
-- 1392. Hope is a strange invention — (Dickinson)
-- 1747. The parasol is the umbrella's daughter, (Dickinson)
-- 229. A Burdock — clawed my Gown — (Dickinson)
-- 401. What Soft — Cherubic Creatures — (Dickinson)
-- 641. Size circumscribes — it has no room (Dickinson)
-- 896. Of Silken Speech and Specious Shoe (Dickinson)
-- 969. He who in Himself believes — (Dickinson)
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1207_he_preached_upon_breadth_till_it_argued_him_narrow|1207. He preached upon Breadth till it argued him narrow — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1392_hope_is_a_strange_invention|1392. Hope is a strange invention — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1747_the_parasol_is_the_umbrellas_daughter|1747. The parasol is the umbrella's daughter, (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0229_a_burdock_clawed_my_gown|229. A Burdock — clawed my Gown — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0401_what_soft_cherubic_creatures|401. What Soft — Cherubic Creatures — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0641_size_circumscribes_it_has_no_room|641. Size circumscribes — it has no room (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0896_of_silken_speech_and_specious_shoe|896. Of Silken Speech and Specious Shoe (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0969_he_who_in_himself_believes|969. He who in Himself believes — (Dickinson)]]
 - [[works/a-boston-ballad-1854-(whitman)|A Boston Ballad 1854 (Whitman)]]
 - [[works/a-character-(coleridge)|A CHARACTER (Coleridge)]]
 - [[works/a-dialogue-between-an-author-and-his-friend-(coleridge)|A DIALOGUE BETWEEN AN AUTHOR AND HIS FRIEND (Coleridge)]]

@@ -69,6 +69,6 @@ tags:
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/classical-education|Classical Education]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/vanity|Vanity]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]]
 **Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/wine-and-drink|Wine and Drink]]
 **Settings:** [[settings/oxford|Oxford]]
-**Archetypes:** Pharisee, The Teacher
+**Archetypes:** [[archetypes/pharisee|Pharisee]], [[archetypes/the-teacher|The Teacher]]
 
 **Also relevant to:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]

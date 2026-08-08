@@ -51,7 +51,7 @@ tags:
 
 **Historical References:** [[historical-references/spanish-inquisition|Spanish Inquisition]], [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 
 **Topoi:** [[topoi/war-as-glory|War as Glory]]
 

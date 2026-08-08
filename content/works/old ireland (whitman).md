@@ -27,7 +27,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/exile|Exile]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/regeneration|Regeneration]]
 **Forms & Genres:** [[forms/allegory|Allegory]]

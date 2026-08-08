@@ -31,7 +31,7 @@ tags:
 **Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/sublime|Sublime]]
 **Forms & Genres:** [[forms/fragment|Fragment]]
 **Settings:** [[settings/orient|Orient]]
-**Characters:** Kubla Khan
+**Characters:** [[characters/kubla-khan|Kubla Khan]]
 
 ## Testo integrale / Full text
 

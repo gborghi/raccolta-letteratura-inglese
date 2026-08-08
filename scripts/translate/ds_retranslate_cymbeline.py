@@ -69,7 +69,7 @@ def translate_scene(en_path, dry_run=False):
              "--timeout", "300",
              "-"],
             stdin=open(tmp.name, "r", encoding="utf-8"),
-            capture_output=True, text=True, timeout=360,
+            capture_output=True, text=True, encoding="utf-8", timeout=360,
             cwd=HERE,
             env={**os.environ, "PYTHONIOENCODING": "utf-8"},
         )

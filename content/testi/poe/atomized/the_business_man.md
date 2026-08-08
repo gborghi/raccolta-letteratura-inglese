@@ -214,7 +214,7 @@ Per mettere gradualmente in evidenza ogni singola parte…
 
 Il mio lavoro. Non passava mai mezzogiorno senza che portassi a casa un cliente.
 
-Alla [[house|casa]] dei miei datori di lavoro, i signori Cut & Comeagain. Dico questo.
+Alla casa dei miei datori di lavoro, i signori Cut & Comeagain. Dico questo.
 
 Con orgoglio, ma con [[motifs/tears|lacrime]] negli occhi, perché l’azienda si era dimostrata all’altezza delle aspettative.
 
@@ -602,7 +602,7 @@ Dite pure che me la sono cavata abbastanza bene. È stato semplice, diretto.
 
 Un lavoro facile e senza requisiti particolari…
 
-Un semplice [[Song|canto]], per cui bisogna utilizzare un “mulino musicale” e, per sistemarlo correttamente, non c’è altro da fare che.
+Un semplice canto, per cui bisogna utilizzare un “mulino musicale” e, per sistemarlo correttamente, non c’è altro da fare che.
 
 Per iniziare il lavoro, basterà dare loro tre o quattro colpi decisi…
 
@@ -710,7 +710,7 @@ Riuscì a modificare la frase principale, al fine di sostituirla con…
 
 “Cambiare ‘teste’ con ‘code’… Questa modifica sembrava così ovviamente appropriata…”
 
-che la [[house|Casa]] fosse d'accordo su di esso, senza alcuna obiezione.
+che la Casa fosse d'accordo su di esso, senza alcuna obiezione.
 
 
 
@@ -765,7 +765,7 @@ what they call an orderly manner. Now here, I conceive, is a
 
 positive [[concepts/paradox|paradox]]. True method appertains to the ordinary and the
 
-obvious [[Alone|alone]], and cannot be applied to the _outré_. What
+obvious alone, and cannot be applied to the _outré_. What
 
 definite idea can a [[concepts/body|body]] attach to such expressions as
 
@@ -861,7 +861,7 @@ believed when I state, however solemnly, that my poor father put
 
 me, when I was about fifteen years of age, into the
 
-counting-[[house]] of what be termed “a respectable hardware and
+counting-house of what be termed “a respectable hardware and
 
 commission merchant doing a capital bit of business!” A capital
 
@@ -1134,7 +1134,7 @@ suit upon my back, was the admiration of all the knowing men in
 
 the trade. [[motifs/noon|Noon]] never passed without my bringing [[motifs/home|home]] a customer
 
-to the [[house]] of my employers, Messrs. Cut & Comeagain. I say this
+to the house of my employers, Messrs. Cut & Comeagain. I say this
 
 proudly, but with [[motifs/tears|tears]] in my eyes—for the firm proved themselves
 
@@ -1323,7 +1323,7 @@ Per mettere gradualmente in evidenza ogni singola parte…
 
 Il mio lavoro. Non passava mai mezzogiorno senza che portassi a casa un cliente.
 
-Alla [[house|casa]] dei miei datori di lavoro, i signori Cut & Comeagain. Dico questo.
+Alla casa dei miei datori di lavoro, i signori Cut & Comeagain. Dico questo.
 
 Con orgoglio, ma con [[motifs/tears|lacrime]] negli occhi, perché l’azienda si era dimostrata all’altezza delle aspettative.
 
@@ -1918,7 +1918,7 @@ say that I made out pretty [[motifs/well|well]]. It is a plain, straightforward
 
 business, and requires no particular abilities. You can get a
 
-music-mill for a mere [[Song|song]], and to put it in order, you have but
+music-mill for a mere song, and to put it in order, you have but
 
 to open the works, and give them three or four smart raps with a
 
@@ -2024,7 +2024,7 @@ succeeded in amending the main clause, so as to substitute the
 
 word “tails” for “heads.” This amendment was so obviously proper,
 
-that the [[house|House]] concurred in it nem. con.
+that the House concurred in it nem. con.
 
 
 
@@ -2071,7 +2071,7 @@ Dite pure che me la sono cavata abbastanza bene. È stato semplice, diretto.
 
 Un lavoro facile e senza requisiti particolari…
 
-Un semplice [[Song|canto]], per cui bisogna utilizzare un “mulino musicale” e, per sistemarlo correttamente, non c’è altro da fare che.
+Un semplice canto, per cui bisogna utilizzare un “mulino musicale” e, per sistemarlo correttamente, non c’è altro da fare che.
 
 Per iniziare il lavoro, basterà dare loro tre o quattro colpi decisi…
 
@@ -2179,7 +2179,7 @@ Riuscì a modificare la frase principale, al fine di sostituirla con…
 
 “Cambiare ‘teste’ con ‘code’… Questa modifica sembrava così ovviamente appropriata…”
 
-che la [[house|Casa]] fosse d'accordo su di esso, senza alcuna obiezione.
+che la Casa fosse d'accordo su di esso, senza alcuna obiezione.
 
 
 

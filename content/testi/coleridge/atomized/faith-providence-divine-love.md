@@ -16,7 +16,7 @@ tags:
 
 Seraphs! around th’ Eternal’s seat who throng  
 With tuneful ecstasies of praise:  
-O! teach our feeble tongues like yours the [[Song|song]]  
+O! teach our feeble tongues like yours the song  
 Of fervent gratitude to raise —  
 Like you, inspired with holy flame    5  
 To dwell on that Almighty name  
@@ -258,7 +258,7 @@ And sure he deem’d that orb was quench’d in [[motifs/night|night]]:
 For still, &c.
 4{o}.
 To juggle this easily-juggled people into better
-[[Humour|humour]] with the supplies (and themselves, perhaps, affrighted
+humour with the supplies (and themselves, perhaps, affrighted
 by the successes of the French) our Ministry sent an
 Ambassador to [[settings/paris|Paris]] to sue for Peace. The supplies are
 granted: and in the meantime the Archduke Charles turns the
@@ -503,12 +503,12 @@ And found the lowly stable-shed
 Where the Virgin-Mother lay:  
 And now they checked their eager tread,  
 For to the Babe, that at her bosom clung,   5  
-A Mother’s [[Song|song]] the Virgin-Mother sung.  
+A Mother’s song the Virgin-Mother sung.  
 II  
 They told her how a glorious light,  
 Streaming from a heavenly throng,  
 Around them shone, suspending [[motifs/night|night]]!  
-While sweeter than a mother’s [[Song|song]],  
+While sweeter than a mother’s song,  
 10  
 Blest Angels heralded the Saviour’s birth,  
 Glory to God on high! and Peace on Earth.  
@@ -565,7 +565,7 @@ Peace, Peace on Earth! the Prince of Peace is born.’
 For shame, dear friend, renounce this canting strain!  
 What would’st thou have a good great man obtain?  
 Place? titles? salary? a gilded chain?  
-Or throne of corses which his [[Sword|sword]] had slain?   10  
+Or throne of corses which his sword had slain?   10  
 [[concepts/greatness|Greatness]] and goodness are not means, but ends!  
 Hath he not always treasures, always friends,  
 The good great man? three treasures, [[motifs/love|LOVE]], and LIGHT,  
@@ -642,7 +642,7 @@ to embrace them?
 3  
 [[concepts/imagination|Imagination]]; honourable aims;  
 Free commune with the choir that cannot die;  
-Science and [[Song|song]]; delight in little things,   50  
+Science and song; delight in little things,   50  
 The buoyant [[archetypes/child|child]] surviving in the man;  
 Fields, forests, ancient [[settings/mountains|mountains]], ocean, sky,  
 With all their voices — O dare I accuse  
@@ -669,7 +669,7 @@ And if the babe perchance should lisp the notes aright,
 6  
 Then is she tenfold gladder than before!  
 But should disease or chance the darling take,  
-What then avail those [[songs]], which sweet of yore  
+What then avail those songs, which sweet of yore  
 Were only sweet for their sweet echo’s sake?   75  
 Dear maid! no prattler at a mother’s knee  
 Was e’er so dearly prized as I prize thee:  
@@ -735,7 +735,7 @@ I might now have been sloshing down Junket and Curds,
 Like a Devonshire Christian:   51  
 But now a Philistine!  
 Ye Earthmen! be warned by a judgement so tragic,  
-And wipe yourselves cleanly with all books of [[Magic|magic]] —  
+And wipe yourselves cleanly with all books of magic —  
 Hark! hark! it is Dives! ‘Hold your Bother, you Booby!  
 I am burnt ashy white, and you yet are but ruby.’   56  
 Epilogue.  
@@ -827,7 +827,7 @@ Inaudible as of the sphere
 Our music dies upon the ear,  
 Enchanted with the mortal Syren’s strain.  
 [[concepts/hope|HOPE]]  
-Yet let our choral [[songs]] abound!  
+Yet let our choral songs abound!  
 Th’ inspiring Power, its living Source,   10  
 May flow with them and give them force,  
 If, elsewhere all unheard, in Heaven they sound.  
@@ -856,7 +856,7 @@ See, O World, see thy salvation!
 Let the Heavens with praises ring.  
 Who would have a Throne above,  
 Let him [[concepts/hope|hope]], believe and [[motifs/love|love]];   30  
-And whoso loves no earthly [[Song|song]],  
+And whoso loves no earthly song,  
 But does for heavenly music long,  
 [[concepts/faith|Faith]], [[concepts/hope|Hope]], and [[concepts/charity|Charity]] for him,  
 Shall sing like wingéd Cherubim.  
@@ -942,7 +942,7 @@ And pouring out our heart in [[motifs/prayer|prayer]],
 Our heav’nly Father’s [[concepts/mercy|mercy]] crave.  
 Until Jehovah from his throne  
 Shall heed his [[concepts/suffering|suffering]] people’s fears;   70  
-Shall turn to [[Song|song]] the Mourner’s groan,  
+Shall turn to song the Mourner’s groan,  
 To smiles of joy the Nation’s [[motifs/tears|tears]].  
 Praise to the Lord! Loud praises sing!  
 And bless Jehovah’s righteous hand!  
@@ -1011,7 +1011,7 @@ Yet Milner —
 FRIEND  
 Enough of Milner! we’re agreed,  
 Who now defends would then have done the deed.  
-But who not feels [[Persuasion|persuasion]]’s gentle sway,  
+But who not feels persuasion’s gentle sway,  
 Who but must meet the proffered hand half way   20  
 When courteous Butler —  
 POET  
@@ -1057,9 +1057,9 @@ I trust the bolts and [[motifs/cross|cross]]-bars of the laws
 More than the Protestant milk all newly lapt,  
 Impearling a tame wild-cat’s whisker’d jaws!  
 1825, or 1826.  
-[[Song|SONG]]  
+SONG  
 Though veiled in spires of myrtle-wreath,  
-[[motifs/love|Love]] is a [[Sword|sword]] which cuts its sheath,  
+[[motifs/love|Love]] is a sword which cuts its sheath,  
 And through the clefts itself has made,  
 We spy the flashes of the blade!  
 But through the clefts itself has made   5  
@@ -1114,7 +1114,7 @@ IV
 Ah! he is gone, and yet will not depart! —  
 Is with me still, yet I from him exiled!   35  
 For still there lives within my secret heart  
-The [[Magic|magic]] image of the [[Magic|magic]] [[archetypes/child|Child]],  
+The magic image of the magic [[archetypes/child|Child]],  
 Which there he made up-grow by his strong art,  
 As in that crystal orb — wise Merlin’s feat, —  
 The wondrous ‘World of Glass,’ wherein inisled   40  
@@ -1296,7 +1296,7 @@ And a square stone with a few pious texts
 Cut neatly on it, keeps the mould down tight.  
 First published in 1893. Compare Osorio, Act III, lines 259-   62  
 (ante, p. 560).  
-And with my whole heart sing the stately [[Song|song]],  
+And with my whole heart sing the stately song,  
 Loving the God that made me.  
 First published in 1893. Compare Fears in [[concepts/solitude|Solitude]], ll. 196-7 (ante,  
 p. 263).  

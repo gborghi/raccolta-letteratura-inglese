@@ -37,7 +37,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/animals|Animals]], [[motifs/blood|Blood]], [[motifs/city|City]], [[motifs/crown|Crown]], [[motifs/wine-and-drink|Wine and Drink]]
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/satire-of-society|Satire of Society]], [[concepts/pride|Pride]], [[concepts/grotesque|Grotesque]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]

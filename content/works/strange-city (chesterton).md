@@ -47,7 +47,7 @@ tags:
 
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/virgil|Virgil]]
 
-**Archetypes:** Poet as Prophet (2)
+**Archetypes:** [[archetypes/poet-as-prophet-(2)|Poet as Prophet (2)]]
 
 **Motifs:** [[motifs/city|City]]
 **Themes & Concepts:** [[concepts/truth|Truth]], [[concepts/imagination|Imagination]], [[concepts/faith|Faith]], [[concepts/paradox|Paradox]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/power-of-language|Power of Language]], [[concepts/one-life-(pantheism)|One Life (Pantheism)]], [[concepts/heaven-and-the-afterlife|Heaven and the Afterlife]], [[concepts/natural-order|Natural Order]], [[concepts/eternity|Eternity]], [[concepts/beauty|Beauty]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/appearance-vs-reality|Appearance vs Reality]]

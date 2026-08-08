@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider, Lover
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/garden|Garden]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/flowers|Flowers]]
 **Themes & Concepts:** [[concepts/melancholy|Melancholy]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/allegory|Allegory]]

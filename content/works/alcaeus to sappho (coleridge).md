@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/white-and-red|White and Red]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

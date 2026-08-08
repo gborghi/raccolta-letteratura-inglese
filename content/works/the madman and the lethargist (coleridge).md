@@ -27,7 +27,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/madness-(2)|Madness (2)]]
 **Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/satire-of-society|Satire of Society]], [[concepts/doubt|Doubt]]
 **Forms & Genres:** [[forms/fable|Fable]], [[forms/satire|Satire]]

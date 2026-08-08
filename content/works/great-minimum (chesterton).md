@@ -38,7 +38,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 
 **Topoi:** [[topoi/carpe-diem|Carpe Diem]]
 **Motifs:** [[motifs/rose|Rose]], [[motifs/flowers|Flowers]], [[motifs/stars|Stars]], [[motifs/lightning|Lightning]], [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]]

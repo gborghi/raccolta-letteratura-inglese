@@ -20,10 +20,10 @@ With slowest steps thy funeral steed must go,
 Nodding his head in all the pomp of woe:  
 Wide scatter round each dark and deadly weed,   5  
 And let the [[concepts/melancholy|melancholy]] [[forms/dirge|dirge]] complain,  
-(Whilst Bats shall shriek and [[dogs|Dogs]] shall howling run)  
+(Whilst Bats shall shriek and Dogs shall howling run)  
 The tea-kettle is spoilt and Coleridge is undone!  
-Your cheerful [[songs]], ye unseen crickets, cease!  
-Let [[songs]] of grief your alter’d minds engage!   10  
+Your cheerful songs, ye unseen crickets, cease!  
+Let songs of grief your alter’d minds engage!   10  
 For he who sang responsive to your lay,  
 What [[motifs/time|time]] the joyous bubbles ‘gan to play,  
 The sooty swain has felt the [[motifs/fire|fire]]’s fierce rage; —  
@@ -160,7 +160,7 @@ Clamorous his duns, his gaming debts unpaid,
 The youth indignant seiz’d his tailor’s bill,  
 And on its back thus wrote with moral quill:  
 ‘Various as colours in the rainbow shown,  
-Or similar in emptiness [[Alone|alone]],   10  
+Or similar in emptiness alone,   10  
 How false, how vain are Man’s pursuits below!  
 Wealth, [[concepts/honour|Honour]], Pleasure — what can ye bestow?  
 Yet see, how high and low, and young and old  
@@ -263,7 +263,7 @@ In drizzly rains poppean dews   15
 O’er the tired inmates of the Coach diffuse;  
 And when thou’st charm’d our eyes to rest,  
 Pillowing the chin upon the breast,  
-Bid many [[A Dream|a dream]] from thy dominions  
+Bid many a dream from thy dominions  
 Wave its various-painted pinions,   20  
 Till ere the splendid visions close  
 We snore quartettes in ecstasy of nose.  
@@ -486,7 +486,7 @@ III
 <span class="atom-split" data-atom="140_on_a_ruined_house_in_a_romantic_country" data-title="ON A RUINED HOUSE IN A ROMANTIC COUNTRY" data-chapter="" data-kind="intro"></span>
 
 
-And this reft [[house]] is that the which he built,  
+And this reft house is that the which he built,  
 Lamented Jack! And here his malt he pil’d,  
 Cautious in vain! These rats that squeak so wild,  
 Squeak, not unconscious of their father’s [[concepts/guilt|guilt]].  
@@ -577,7 +577,7 @@ rather when we recollect that this phrase of ‘golden verses’
 is applied emphatically to the works of that philosopher who
 imposed [[motifs/silence|silence]] on all with whom he had to deal. Besides is
 it not somewhat improbable that Talleyrand should have
-preferred prose to rhyme, when the latter [[Alone|alone]] has got the
+preferred prose to rhyme, when the latter alone has got the
 chink? Is it not likewise curious that in our official answer
 no notice whatever is taken of the Chief Consul, Bonaparte, as
 if there had been no such person [man Essays, &c., 1850]
@@ -621,7 +621,7 @@ Till he bids the trump sound neither [[concepts/body|body]] nor [[motifs/soul|so
 For the dead men’s heads have slipt under their bolsters.  
 Oh! ho! brother Bard, in our churchyard,  
 Both beds and bolsters are soft and green;  
-Save one [[Alone|alone]], and that’s of stone,  
+Save one alone, and that’s of stone,  
 And under it lies a Counsellor keen.   10  
 ‘Twould be a square tomb, if it were not too long;  
 And ‘tis fenced round with irons sharp, spear-like, and strong.  
@@ -641,7 +641,7 @@ On that stone tomb to you I’ll show   25
 Two round spaces void of [[motifs/snow|snow]].  
 I swear by our Knight, and his forefathers’ souls,  
 That in size and shape they are just like the holes  
-In the [[house]] of privity  
+In the house of privity  
 Of that ancient family.   30  
 On those two places void of [[motifs/snow|snow]],  
 There have sat in the [[motifs/night|night]] for an hour or so,  
@@ -736,7 +736,7 @@ Besides, whate’er he wrote or said
 Came from his heart as [[motifs/well|well]] as head;  
 And though he never left in lurch  
 His [[archetypes/king|king]], his country, or his church,   50  
-‘Twas but to [[Humour|humour]] his own cynical  
+‘Twas but to humour his own cynical  
 Contempt of doctrines Jacobinical;  
 To his own [[concepts/conscience|conscience]] only hearty,  
 ‘Twas but by chance he serv’d the party; —  
@@ -805,7 +805,7 @@ As I am a Rhymer,
 And now at least a merry one,  
 Mr. Mum’s Rudesheimer  
 And the church of St. Geryon  
-Are the two things [[Alone|alone]]   5  
+Are the two things alone   5  
 That deserve to be known  
 In the [[concepts/body|body]]-and-[[motifs/soul|soul]]-stinking town of Cologne.  
 1828.  
@@ -1300,7 +1300,7 @@ Friend, No. 12, Nov. 9, 1809.
 When thieves come, I bark: when gallants, I am still —  
 So perform both my Master’s and Mistress’s will.  
 First published in Morning Post, Oct. 2, 1802. Included in The  
-Friend (title, ‘For a French [[house|House]]-Dog’s Collar’), No. 12, Nov. 9,  
+Friend (title, ‘For a French House-Dog’s Collar’), No. 12, Nov. 9,  
 1809.  
 In vain I praise thee, Zoilus!  
 In vain thou rail’st at me!  
@@ -1358,7 +1358,7 @@ And thus enjoys at once what half the world are wooing.
 First published in Morning Post, Oct. 11, 1802.  
 Each Bond-street buck conceits, unhappy elf!  
 He shews his clothes! Alas! he shews himself.  
-O that they knew, these overdrest [[concepts/self|self]]-[[lovers]],  
+O that they knew, these overdrest [[concepts/self|self]]-lovers,  
 What hides the [[concepts/body|body]] oft the mind discovers.  
 First published in Morning Post, Oct. 11, 1802.  
 
@@ -1447,7 +1447,7 @@ T. C., who had just returned from [[settings/italy|Italy]] and was once more wri
 the press. It is possible that he veiled his initials in the line, ‘Let  
 Sense and [[concepts/truth|Truth]] unClue.’  
 An excellent adage commands that we should  
-Relate of the dead that [[Alone|alone]] which is good;  
+Relate of the dead that alone which is good;  
 But of the great Lord who here lies in lead  
 We know nothing good but that he is dead.  
 First published in The Friend, No. 12, Nov. 9, 1809. Included in  
@@ -1537,7 +1537,7 @@ Ill agrees with those ears so raw and so red.
 A Musical Critic of old fell a-pouting  
 When he saw how his asinine honours were sprouting;  
 But he hid ‘em quite snug, in a full friz of hair,  
-And the Barber [[Alone|alone]] smoked his donkeys [so] rare.  
+And the Barber alone smoked his donkeys [so] rare.  
 Thy judgment much worse, and thy perkers as ample,  
 O give heed to [[archetypes/king|King]] Midas, and take his example.  
 Thus to publish your fate is as useless as wrong —  

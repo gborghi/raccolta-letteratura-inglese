@@ -36,24 +36,24 @@ tags:
 - [[works/the-battle-of-life-(dickens)|The Battle of Life (Dickens)]]
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
-- 1033. Said Death to Passion (Dickinson)
-- 106. The Daisy follows soft the Sun — (Dickinson)
-- 107. 'Twas such a little — little boat (Dickinson)
-- 1142. The Props assist the House (Dickinson)
-- 116. I had some things that I called mine — (Dickinson)
-- 1182. Remembrance has a Rear and Front — (Dickinson)
-- 1210. The Sea said Come to the Brook — (Dickinson)
-- 1239. Risk is the Hair that holds the Tun (Dickinson)
-- 1255. Longing is like the Seed (Dickinson)
-- 136. Have you got a Brook in your little heart, (Dickinson)
-- 1664. I did not reach Thee (Dickinson)
-- 232. The Sun — just touched the Morning — (Dickinson)
-- 30. Adrift! A little boat adrift! (Dickinson)
-- 545. 'Tis One by One — the Father counts — (Dickinson)
-- 621. I asked no other thing — (Dickinson)
-- 712. Because I could not stop for Death — (Dickinson)
-- 723. It tossed — and tossed — (Dickinson)
-- 9. Through lane it lay — through bramble — (Dickinson)
+- [[testi/dickinson/atomized/death-silence-bells#1033_said_death_to_passion|1033. Said Death to Passion (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0106_the_daisy_follows_soft_the_sun|106. The Daisy follows soft the Sun — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0107_twas_such_a_little_little_boat|107. 'Twas such a little — little boat (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1142_the_props_assist_the_house|1142. The Props assist the House (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0116_i_had_some_things_that_i_called_mine|116. I had some things that I called mine — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1182_remembrance_has_a_rear_and_front|1182. Remembrance has a Rear and Front — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1210_the_sea_said_come_to_the_brook|1210. The Sea said Come to the Brook — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1239_risk_is_the_hair_that_holds_the_tun|1239. Risk is the Hair that holds the Tun (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1255_longing_is_like_the_seed|1255. Longing is like the Seed (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0136_have_you_got_a_brook_in_your_little_heart|136. Have you got a Brook in your little heart, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1664_i_did_not_reach_thee|1664. I did not reach Thee (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0232_the_sun_just_touched_the_morning|232. The Sun — just touched the Morning — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0030_adrift_a_little_boat_adrift|30. Adrift! A little boat adrift! (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0545_tis_one_by_one_the_father_counts|545. 'Tis One by One — the Father counts — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0621_i_asked_no_other_thing|621. I asked no other thing — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0712_because_i_could_not_stop_for_death|712. Because I could not stop for Death — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0723_it_tossed_and_tossed|723. It tossed — and tossed — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0009_through_lane_it_lay_through_bramble|9. Through lane it lay — through bramble — (Dickinson)]]
 - [[works/spenserian-stanza-(keats)|Spenserian Stanza (Keats)]]
 - [[works/eldorado-(poe)|Eldorado (Poe)]]
 - [[works/shadow-a-parable-(poe)|Shadow-A Parable (Poe)]]

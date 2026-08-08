@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/mirror|Mirror]], [[motifs/flowers|Flowers]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/imagination|Imagination]], [[concepts/disillusionment|Disillusionment]]
 **Forms & Genres:** [[forms/allegory|Allegory]]

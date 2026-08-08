@@ -174,7 +174,7 @@ Call witness to their principles
 Observing that hysteria  
     Might easily be misunderstood;  
 Mrs. Turner intimates  
-    It does the [[house]] no sort of good.  
+    It does the house no sort of good.  
 But Doris, towelled from the bath,  
     Enters padding on broad feet,  
 Bringing sal volatile  
@@ -229,7 +229,7 @@ chiamano a testimone i loro princìpi
 osservando che l’isterismo  
     potrebbe facilmente esser frainteso;  
 la signora Turner lascia intendere  
-    che non fa alla [[house|casa]] nessun bene.  
+    che non fa alla casa nessun bene.  
 Ma Doris, uscita dal bagno nell’asciugamano,  
     entra padellando sui piedi larghi,  
 portando sale volatile  
@@ -242,11 +242,11 @@ portando sale volatile
 
 The [[motifs/wind|wind]] sprang up at four o’[[motifs/clock|clock]]  
 The [[motifs/wind|wind]] sprang up at four o’[[motifs/clock|clock]]  
-The [[motifs/wind|wind]] sprang up and broke [[The Bells|the bells]]  
+The [[motifs/wind|wind]] sprang up and broke the bells  
 Swinging between life and [[motifs/death|death]]  
 Here, in [[motifs/death|death]]’s dream kingdom  
 The waking echo of confusing strife  
-Is it [[A Dream|a dream]] or something else  
+Is it a dream or something else  
 When the surface of the blackened [[motifs/river|river]]  
 Is a face that sweats with [[motifs/tears|tears]]?  
 I saw across the blackened [[motifs/river|river]]  
@@ -259,11 +259,11 @@ The Tartar horsemen shake their spears.
 
 Il [[motifs/wind|vento]] si levò alle quattro in [[motifs/clock|punto]]  
 il [[motifs/wind|vento]] si levò alle quattro in [[motifs/clock|punto]]  
-il [[motifs/wind|vento]] si levò e spezzò [[The Bells|le campane]]  
+il [[motifs/wind|vento]] si levò e spezzò le campane  
 oscillanti fra la vita e la [[motifs/death|morte]]  
 qui, nel regno di sogno della [[motifs/death|morte]]  
 l’eco desta della contesa confusa  
-è [[A Dream|un sogno]] o qualcos’altro  
+è un sogno o qualcos’altro  
 quando la superficie del [[motifs/river|fiume]] annerito  
 è un volto che suda [[motifs/tears|lacrime]]?  
 Vidi al di là del [[motifs/river|fiume]] annerito  
@@ -300,11 +300,11 @@ When the familiar scene is suddenly strange
 Or the [[motifs/well|well]] known is what we have yet to learn,  
 And two worlds meet, and intersect, and change;  
 When cats are maddened in the moonlight [[motifs/dance|dance]],  
-[[dogs|Dogs]] cower, flitter bats, and owls range  
+Dogs cower, flitter bats, and owls range  
 At witches’ sabbath of the maiden aunts;  
 When the nocturnal traveller can arouse  
 No sleeper by his call; or when by chance  
-An empty face peers from an empty [[house]];  
+An empty face peers from an empty house;  
 By whom, and by what means, was this designed?  
 The whispered incantation which allows  
 Free passage to the phantoms of the mind?  
@@ -341,11 +341,11 @@ quando la scena familiare è d’un tratto strana
 o il [[motifs/well|ben]] noto è ciò che ancora dobbiamo apprendere,  
 e due mondi s’incontrano, e s’intersecano, e mutano;  
 quando i gatti impazziscono nella [[motifs/dance|danza]] del chiaro di luna,  
-i [[dogs|cani]] s’acquattano, i pipistrelli guizzano, e i gufi vagano  
+i cani s’acquattano, i pipistrelli guizzano, e i gufi vagano  
 al sabba delle zie zitelle;  
 quando il viandante notturno non riesce a destare  
 nessun dormiente col suo richiamo; o quando per caso  
-un volto vuoto s’affaccia da una [[house|casa]] vuota;  
+un volto vuoto s’affaccia da una casa vuota;  
 da chi, e con quali mezzi, fu ideato tutto questo?  
 La sussurrata incantazione che concede  
 libero passaggio ai fantasmi della mente?  
@@ -365,7 +365,7 @@ To whom I owe the leaping delight
 That quickens my senses in our wakingtime  
 And the rhythm that governs the repose of our sleepingtime,  
       The breathing in unison  
-Of [[lovers]] whose bodies smell of each other  
+Of lovers whose bodies smell of each other  
 Who think the same thoughts without need of speech  
 And babble the same speech without need of meaning.  
 No peevish [[motifs/winter|winter]] [[motifs/wind|wind]] shall chill  
@@ -382,7 +382,7 @@ A colei cui devo il balzante diletto
 che ravviva i miei sensi nel nostro tempo di veglia  
 e il ritmo che governa il riposo del nostro tempo di sonno,  
       il respirare all’unisono  
-di [[lovers|amanti]] i cui corpi odorano l’uno dell’altro,  
+di amanti i cui corpi odorano l’uno dell’altro,  
 che pensano gli stessi pensieri senza bisogno di parole  
 e cinguettano le stesse parole senza bisogno di senso.  
 Nessun stizzoso [[motifs/wind|vento]] d’[[motifs/winter|inverno]] agghiaccerà,  
@@ -440,7 +440,7 @@ On a Portrait
 Among a crowd of tenuous [[motifs/dreams|dreams]], unknown  
 To us of restless brain and weary feet,  
 Forever hurrying, up and down the street,  
-She stands at evening in the room [[Alone|alone]].  
+She stands at evening in the room alone.  
 Not like a tranquil goddess carved of stone  
 But evanescent, as if one should meet  
 A pensive [[characters/lamia|lamia]] in some wood-retreat,  
@@ -459,7 +459,7 @@ Sopra un ritratto
 Fra una folla di tenui [[motifs/dreams|sogni]], ignota  
 a noi dal cervello inquieto e dai piedi stanchi,  
 sempre in fretta, su e giù per la strada,  
-ella sta la sera nella stanza [[Alone|sola]].  
+ella sta la sera nella stanza sola.  
 Non come una dea tranquilla scolpita in pietra,  
 ma evanescente, come s’incontrassimo  
 una [[characters/lamia|lamia]] pensosa in qualche ritiro boschivo,  
@@ -481,7 +481,7 @@ Nocturne
 
 
 Guitar and hat in hand, beside the gate  
-With [[characters/juliet|Juliet]], in the usual [[debate]]  
+With [[characters/juliet|Juliet]], in the usual debate  
 Of [[motifs/love|love]], beneath a bored but courteous [[motifs/moon|moon]];  
 The conversation failing, strikes some tune  
 Banal, and out of pity for their fate  
@@ -492,7 +492,7 @@ The [[archetypes/hero|hero]] smiles; in my best mode oblique
 Rolls toward the [[motifs/moon|moon]] a frenzied eye profound,  
 (No need of ‘[[motifs/love|Love]] forever?’ — ‘[[motifs/love|Love]] next week?’)  
 While female readers all in [[motifs/tears|tears]] are drowned: —  
-‘The perfect climax all true [[lovers]] seek!’  
+‘The perfect climax all true lovers seek!’  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -502,7 +502,7 @@ Notturno
 
 
 chitarra e cappello in mano, presso il cancello  
-[[characters/juliet|Giulietta]], nel solito [[debate|dibattito]]  
+[[characters/juliet|Giulietta]], nel solito dibattito  
 d’[[motifs/love|amore]], sotto una [[motifs/moon|luna]] annoiata ma cortese;  
 venendo meno la conversazione, attacca qualche aria  
 banale, e per pietà del loro destino  
@@ -513,7 +513,7 @@ l’[[archetypes/hero|eroe]] sorride; nel mio miglior modo obliquo
 volge verso la [[motifs/moon|luna]] un occhio frenetico e profondo,  
 (nessun bisogno di ‘[[motifs/love|Amore]] per sempre?’ — ‘[[motifs/love|Amore]] la settimana prossima?’)  
 mentre le lettrici sono tutte annegate in [[motifs/tears|lacrime]]: —  
-‘Il climax perfetto che tutti i veri [[lovers|amanti]] cercano!’
+‘Il climax perfetto che tutti i veri amanti cercano!’
 
 
 
@@ -544,7 +544,7 @@ Haranguing spectres, set him there;
 (Feebly contemptuous of nose),  
 ‘Your damned thin moonlight, worse than gas —  
 ‘Now in [[settings/new-york|New York]]’ — and so it goes.  
-[[logic|Logic]] a marionette’s, all wrong  
+Logic a marionette’s, all wrong  
 Of premises; yet in some star  
 A [[archetypes/hero|hero]]! — Where would he belong?  
 But, even at that, what mask bizarre!  
@@ -576,7 +576,7 @@ spettri che arringano, mettetelo là;
 (fiaccamente sprezzante di naso),  
 ‘Il vostro maledetto chiaro di luna sottile, peggio del gas —  
 ‘Ora a [[settings/new-york|New York]]’ — e via così.  
-[[logic|Logica]] da marionetta, tutta sbagliata  
+Logica da marionetta, tutta sbagliata  
 nelle premesse; eppure in qualche stella  
 un [[archetypes/hero|eroe]]! — Dove sarebbe il suo posto?  
 Ma, anche così, che maschera bizzarra!

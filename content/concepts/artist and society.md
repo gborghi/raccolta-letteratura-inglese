@@ -90,41 +90,41 @@ tags:
 - [[works/translation-of-wrangham’s-‘hendecasyllabi-ad-bruntonam-e-granta-exituram’-kal.-oct.mdccxc-(coleridge)|TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ KAL. OCT.MDCCXC (Coleridge)]]
 - [[works/written-in-an-album-(coleridge)|WRITTEN IN AN ALBUM (Coleridge)]]
 - [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
-- 1025. The Products of my Farm are these (Dickinson)
-- 1048. Reportless Subjects, to the Quick (Dickinson)
-- 1059. Sang from the Heart, Sire, (Dickinson)
-- 1126. Shall I take thee, the Poet said (Dickinson)
-- 1129. Tell all the Truth but tell it slant — (Dickinson)
-- 1261. A Word dropped careless on a Page (Dickinson)
-- 1275. The Spider as an Artist (Dickinson)
-- 1446. His Mind like Fabrics of the East (Dickinson)
-- 1475. Fame is the one that does not stay — (Dickinson)
-- 148. All overgrown by cunning moss, (Dickinson)
-- 1600. Upon his Saddle sprung a Bird (Dickinson)
-- 167. To learn the Transport by the Pain (Dickinson)
-- 179. If I could bribe them by a Rose (Dickinson)
-- 291. How the old Mountains drip with Sunset (Dickinson)
-- 307. The One who could repeat the Summer day — (Dickinson)
-- 308. I send Two Sunsets — (Dickinson)
-- 312. Her — last Poems — (Dickinson)
-- 320. We play at Paste — (Dickinson)
-- 326. I cannot dance upon my Toes — (Dickinson)
-- 441. This is my letter to the World (Dickinson)
-- 448. This was a Poet — It is That (Dickinson)
-- 488. Myself was formed — a Carpenter — (Dickinson)
-- 544. The Martyr Poets — did not tell — (Dickinson)
-- 569. I reckon — when I count it all — (Dickinson)
-- 581. I found the words to every thought (Dickinson)
-- 593. I think I was enchanted (Dickinson)
-- 604. Unto my Books — so good to turn — (Dickinson)
-- 605. The Spider holds a Silver Ball (Dickinson)
-- 613. They shut me up in Prose — (Dickinson)
-- 657. I dwell in Possibility — (Dickinson)
-- 675. Essential Oils — are wrung — (Dickinson)
-- 709. Publication — is the Auction (Dickinson)
-- 713. Fame of Myself, to justify, (Dickinson)
-- 741. Drama's Vitallest Expression is the Common Day (Dickinson)
-- 880. The Bird must sing to earn the Crumb (Dickinson)
+- [[testi/dickinson/atomized/seasons-winter-autumn#1025_the_products_of_my_farm_are_these|1025. The Products of my Farm are these (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1048_reportless_subjects_to_the_quick|1048. Reportless Subjects, to the Quick (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1059_sang_from_the_heart_sire|1059. Sang from the Heart, Sire, (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1126_shall_i_take_thee_the_poet_said|1126. Shall I take thee, the Poet said (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1129_tell_all_the_truth_but_tell_it_slant|1129. Tell all the Truth but tell it slant — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1261_a_word_dropped_careless_on_a_page|1261. A Word dropped careless on a Page (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#1275_the_spider_as_an_artist|1275. The Spider as an Artist (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#1446_his_mind_like_fabrics_of_the_east|1446. His Mind like Fabrics of the East (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1475_fame_is_the_one_that_does_not_stay|1475. Fame is the one that does not stay — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0148_all_overgrown_by_cunning_moss|148. All overgrown by cunning moss, (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1600_upon_his_saddle_sprung_a_bird|1600. Upon his Saddle sprung a Bird (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0167_to_learn_the_transport_by_the_pain|167. To learn the Transport by the Pain (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0179_if_i_could_bribe_them_by_a_rose|179. If I could bribe them by a Rose (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0291_how_the_old_mountains_drip_with_sunset|291. How the old Mountains drip with Sunset (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0307_the_one_who_could_repeat_the_summer_day|307. The One who could repeat the Summer day — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0308_i_send_two_sunsets|308. I send Two Sunsets — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0312_her_last_poems|312. Her — last Poems — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0320_we_play_at_paste|320. We play at Paste — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0326_i_cannot_dance_upon_my_toes|326. I cannot dance upon my Toes — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0441_this_is_my_letter_to_the_world|441. This is my letter to the World (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0448_this_was_a_poet_it_is_that|448. This was a Poet — It is That (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0488_myself_was_formed_a_carpenter|488. Myself was formed — a Carpenter — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0544_the_martyr_poets_did_not_tell|544. The Martyr Poets — did not tell — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0569_i_reckon_when_i_count_it_all|569. I reckon — when I count it all — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0581_i_found_the_words_to_every_thought|581. I found the words to every thought (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0593_i_think_i_was_enchanted|593. I think I was enchanted (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0604_unto_my_books_so_good_to_turn|604. Unto my Books — so good to turn — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0605_the_spider_holds_a_silver_ball|605. The Spider holds a Silver Ball (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0613_they_shut_me_up_in_prose|613. They shut me up in Prose — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0657_i_dwell_in_possibility|657. I dwell in Possibility — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0675_essential_oils_are_wrung|675. Essential Oils — are wrung — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0709_publication_is_the_auction|709. Publication — is the Auction (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0713_fame_of_myself_to_justify|713. Fame of Myself, to justify, (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0741_dramas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0880_the_bird_must_sing_to_earn_the_crumb|880. The Bird must sing to earn the Crumb (Dickinson)]]
 - [[works/a-note-on-war-poetry-(eliot)|A Note on War Poetry (Eliot)]]
 - [[works/also-by-t.-s.-eliot-(eliot)|Also by T. S. Eliot (Eliot)]]
 - [[works/ix-son-of-man,-behold-with-thine-eyes,-and-hear-with-thine-ears-(eliot)|IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot)]]
@@ -155,22 +155,22 @@ tags:
 - [[works/the-landscape-garden-(poe)|The Landscape Garden (Poe)]]
 - [[works/the-literary-life-of-thingum-bob,-esq-(poe)|The Literary Life of Thingum Bob, Esq (Poe)]]
 - [[works/love’s-labour’s-won---a-brief-account-(shakespeare)|LOVE’S LABOUR’S WON - A BRIEF ACCOUNT (Shakespeare)]]
-- Sonnet 100 (Shakespeare)
-- Sonnet 101 (Shakespeare)
-- Sonnet 103 (Shakespeare)
-- Sonnet 111 (Shakespeare)
-- Sonnet 112 (Shakespeare)
-- Sonnet 21 (Shakespeare)
-- Sonnet 38 (Shakespeare)
-- Sonnet 76 (Shakespeare)
-- Sonnet 78 (Shakespeare)
-- Sonnet 79 (Shakespeare)
-- Sonnet 80 (Shakespeare)
-- Sonnet 82 (Shakespeare)
-- Sonnet 83 (Shakespeare)
-- Sonnet 84 (Shakespeare)
-- Sonnet 85 (Shakespeare)
-- Sonnet 86 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_100|Sonnet 100 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_101|Sonnet 101 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_103|Sonnet 103 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_111|Sonnet 111 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_112|Sonnet 112 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_021|Sonnet 21 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_038|Sonnet 38 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_076|Sonnet 76 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_078|Sonnet 78 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_079|Sonnet 79 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_080|Sonnet 80 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_082|Sonnet 82 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_083|Sonnet 83 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_084|Sonnet 84 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_085|Sonnet 85 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_086|Sonnet 86 (Shakespeare)]]
 - [[works/a-font-of-type-(whitman)|A Font of Type (Whitman)]]
 - [[works/as-i-ponder’d-in-silence-(whitman)|As I Ponder’d in Silence (Whitman)]]
 - [[works/as-the-greek’s-signal-flame-(whitman)|As the Greek’s Signal Flame (Whitman)]]

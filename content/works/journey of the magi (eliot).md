@@ -33,13 +33,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/quest|Quest]], [[topoi/night-journey-vision|Night Journey Vision]]
-**Archetypes:** Pilgrim
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 **Motifs:** [[motifs/journey|Journey]], [[motifs/winter|Winter]], [[motifs/death|Death]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/horse|Horse]], [[motifs/cross|Cross]]
 **Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/faith|Faith]], [[concepts/paradox|Paradox]]
 **Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]]
 **Historical References:** [[historical-references/bible|Bible]]
 **Settings:** [[settings/orient|Orient]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

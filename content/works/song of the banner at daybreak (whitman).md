@@ -26,7 +26,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/flags-and-banners|Flags and Banners]], [[motifs/dawn|Dawn]], [[motifs/money-and-gold|Money and Gold]], [[motifs/drums-and-bugles|Drums and Bugles]]
 **Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]]
 **Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]]

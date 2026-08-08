@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/truth|Truth]]
 **Forms & Genres:** [[forms/epigram|Epigram]]

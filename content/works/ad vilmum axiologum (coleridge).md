@@ -23,7 +23,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/immortality-through-verse|Immortality Through Verse]]
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Motifs:** [[motifs/music-and-song|Music and Song]]
 **Themes & Concepts:** [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/artist-and-society|Artist and Society]]
 

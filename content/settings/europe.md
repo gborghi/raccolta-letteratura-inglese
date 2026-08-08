@@ -92,8 +92,8 @@ tags:
 - [[works/uncle-bernac-(conan-doyle)|Uncle Bernac (Conan Doyle)]]
 - [[works/a-tale-of-two-cities-(dickens)|A Tale of Two Cities (Dickens)]]
 - [[works/american-notes-(dickens)|American Notes (Dickens)]]
-- 312. Her — last Poems — (Dickinson)
-- 80. Our lives are Swiss — (Dickinson)
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0312_her_last_poems|312. Her — last Poems — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0080_our_lives_are_swiss|80. Our lives are Swiss — (Dickinson)]]
 - [[works/burbank-with-a-baedeker-bleistein-with-a-cigar-(eliot)|Burbank with a Baedeker Bleistein with a Cigar (Eliot)]]
 - [[works/lune-de-miel-(eliot)|Lune de Miel (Eliot)]]
 - [[works/happy-is-england!-i-could-be-content-(keats)|HAPPY IS ENGLAND! I COULD BE CONTENT (Keats)]]

@@ -28,13 +28,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Witch Enchantress, Temptress
+**Archetypes:** [[archetypes/witch-enchantress|Witch Enchantress]], [[archetypes/temptress|Temptress]]
 **Motifs:** [[motifs/garden|Garden]], [[motifs/flowers|Flowers]], [[motifs/animals|Animals]], [[motifs/serpent-snake|Serpent Snake]]
 **Themes & Concepts:** [[concepts/temptation|Temptation]], [[concepts/grotesque|Grotesque]]
 **Forms & Genres:** [[forms/lyric|Lyric]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 **Settings:** [[settings/garden-(2)|Garden (2)]]
-**Characters:** Odysseus Ulysses
+**Characters:** [[characters/odysseus-ulysses|Odysseus Ulysses]]
 
 ## Testo integrale / Full text
 

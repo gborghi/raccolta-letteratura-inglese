@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/sleep|Sleep]], [[motifs/dawn|Dawn]]
 **Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

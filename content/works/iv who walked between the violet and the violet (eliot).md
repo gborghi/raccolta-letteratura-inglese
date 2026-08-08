@@ -24,7 +24,7 @@ tags:
 
 **Motifs:** [[motifs/water|Water]], [[motifs/flowers|Flowers]], [[motifs/garden|Garden]]
 **Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/exile|Exile]]
-**Characters:** Virgin Mary
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

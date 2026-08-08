@@ -158,7 +158,7 @@ And he said that he had, with the most encouraging results,
 turned [[motifs/city|city]] men out on all fours in a field covered with veal cutlets.
 Then [[characters/tolstoy|Tolstoy]] and the Humanitarians said that the world was growing
 more merciful, and therefore no one would ever [[motifs/desire|desire]] to kill.
-And Mr. Mick not only became a [[vegetarian]], but at length declared
+And Mr. Mick not only became a vegetarian, but at length declared
 vegetarianism doomed ("shedding," as he called it finely, "the green
 [[motifs/blood|blood]] of the silent [[motifs/animals|animals]]"), and predicted that men in a better age
 would live on nothing but salt.  And then came the pamphlet from Oregon
@@ -221,7 +221,7 @@ an unalterable law of the Inscrutable it will some day be larger
 than an elephant, just as we know, when we see weeds and dandelions
 growing more and more thickly in a [[motifs/garden|garden]], that they must, in spite
 of all our efforts, grow taller than the chimney-pots and [[motifs/swallow|swallow]]
-the [[house]] from sight, so we know and reverently acknowledge,
+the house from sight, so we know and reverently acknowledge,
 that when any power in human politics has shown for any period
 of [[motifs/time|time]] any considerable activity, it will go on until it reaches
 to the sky."
@@ -332,7 +332,7 @@ E disse di aver, con i risultati più incoraggianti,
 mandato uomini di [[motifs/city|città]] carponi in un campo cosparso di cotolette di vitello.
 Poi [[characters/tolstoy|Tolstoj]] e gli Umanitari dissero che il mondo stava diventando
 più misericordioso, e che perciò nessuno avrebbe più [[motifs/desire|desiderato]] uccidere.
-E il signor Mick non solo divenne [[vegetarian|vegetariano]], ma alla fine dichiarò
+E il signor Mick non solo divenne vegetariano, ma alla fine dichiarò
 il vegetarianismo condannato ("versando", come lo definì con eleganza, "il verde
 [[motifs/blood|sangue]] dei silenziosi [[motifs/animals|animali]]"), e predisse che gli uomini di un'età migliore
 avrebbero vissuto di nient'altro che sale. E poi arrivò l'opuscolo dall'Oregon
@@ -395,7 +395,7 @@ un'inalterabile legge dell'Imperscrutabile un giorno sarà più grande
 di un elefante, proprio come sappiamo, quando vediamo erbacce e denti di leone
 crescere sempre più fitti in un [[motifs/garden|giardino]], che devono, a dispetto
 di tutti i nostri sforzi, crescere più alti dei comignoli e [[motifs/swallow|inghiottire]]
-la [[house|casa]] sottraendola alla vista, così sappiamo e riverentemente riconosciamo,
+la casa sottraendola alla vista, così sappiamo e riverentemente riconosciamo,
 che quando un potere qualsiasi nella politica umana ha mostrato per un periodo
 di [[motifs/time|tempo]] qualsiasi un'attività considerevole, esso andrà avanti finché non raggiungerà
 il cielo."
@@ -473,9 +473,9 @@ had become an assumed condition.  There was really no reason for any
 man doing anything but the thing he had done the day before.
 
 There was therefore no reason whatever why the three young men who had
-always walked up to their [[government|Government]] office together should not walk
+always walked up to their Government office together should not walk
 up to it together on this particular wintry and cloudy morning.
-Everything in that age had become mechanical, and [[government|Government]]
+Everything in that age had become mechanical, and Government
 clerks especially.  All those clerks assembled regularly at their posts.
 Three of those clerks always walked into town together.
 All the neighbourhood knew them:  two of them were tall and one short.
@@ -496,8 +496,8 @@ If you look at a thing nine hundred and ninety-nine times,
 you are perfectly safe; if you look at it the thousandth [[motifs/time|time]],
 you are in frightful danger of seeing it for the first [[motifs/time|time]].
 
-So the short [[government|Government]] official looked at the coat-tails of
-the tall [[government|Government]] officials, and through street after street,
+So the short Government official looked at the coat-tails of
+the tall Government officials, and through street after street,
 and round corner after corner, saw only coat-tails, coat-tails,
 and again coat-tails...when, he did not in the least know why,
 something happened to his eyes.
@@ -528,7 +528,7 @@ the small clerk, they had merely the effect of all miracles...they
 changed the universe.  He discovered the fact that all romantics
 know...that adventures happen on dull days, and not on sunny ones.
 When the chord of monotony is stretched most tight, then it breaks
-with a sound like [[Song|song]].  He had scarcely noticed the weather before,
+with a sound like song.  He had scarcely noticed the weather before,
 but with the four dead eyes glaring at him he looked round and realized
 the strange dead day.
 
@@ -591,10 +591,10 @@ ragione perché un uomo facesse qualcosa di diverso da ciò che aveva fatto il
 giorno prima.
 
 Non c'era dunque ragione alcuna perché i tre giovani che erano sempre andati
-insieme a piedi fino al loro ufficio del [[government|Governo]] non ci
+insieme a piedi fino al loro ufficio del Governo non ci
 andassero insieme anche in quella particolare mattina invernale e nuvolosa.
 In quell'epoca tutto era divenuto meccanico, e specialmente gli impiegati del
-[[government|Governo]].  Tutti quegli impiegati si radunavano regolarmente ai
+Governo.  Tutti quegli impiegati si radunavano regolarmente ai
 loro posti.  Tre di quegli impiegati andavano sempre in città insieme.
 Tutto il vicinato li conosceva: due erano alti e uno basso.  E in quella
 particolare mattina l'impiegato basso era solo di pochi secondi in ritardo
@@ -614,8 +614,8 @@ Vita, ed è questa: se guardi una cosa novecentonovantanove volte, sei
 perfettamente al sicuro; se la guardi per la millesima [[motifs/time|volta]], corri
 il terribile pericolo di vederla per la prima [[motifs/time|volta]].
 
-Così il piccolo funzionario del [[government|Governo]] guardò le falde della
-giacca degli alti funzionari del [[government|Governo]], e strada dopo strada,
+Così il piccolo funzionario del Governo guardò le falde della
+giacca degli alti funzionari del Governo, e strada dopo strada,
 e angolo dopo angolo, non vide che falde di giacca, falde di giacca, e ancora
 falde di giacca... quando, senza sapere minimamente perché, qualcosa accadde
 ai suoi occhi.
@@ -645,7 +645,7 @@ impiegato, essi ebbero semplicemente l'effetto di tutti i miracoli... mutarono
 l'universo.  Egli scoprì quel fatto che tutti i romantici conoscono... che le
 avventure accadono nelle giornate smorte, e non in quelle soleggiate.  Quando
 la corda della monotonia è tesa al massimo, allora si spezza con un suono simile
-a un [[Song|canto]].  Prima aveva a malapena notato il tempo, ma con i quattro
+a un canto.  Prima aveva a malapena notato il tempo, ma con i quattro
 occhi morti che lo fissavano si guardò attorno e si rese conto della strana
 giornata morta.
 
@@ -677,7 +677,7 @@ the longest intervals, dropping a sentence at about every sixth lamp-post.
 
 They crawled on past the lamp-posts; their mien was so immovable
 that a fanciful description might almost say, that the lamp-posts
-crawled past the men, as in [[A Dream|a dream]].  Then the small man suddenly
+crawled past the men, as in a dream.  Then the small man suddenly
 ran after them and said:
 
 "I want to get my hair cut.  I say, do you know a little shop anywhere
@@ -729,7 +729,7 @@ my opinion, I should say he was a man with a taste for nonsense,
 as they call it...artistic fooling, and all that kind of thing.
 And I seriously believe that he has talked nonsense so much
 that he has half bewildered his own mind and doesn't know
-the difference between [[Sanity|sanity]] and insanity.  He has gone round
+the difference between sanity and insanity.  He has gone round
 the mental world, so to speak, and found the place where the East
 and the West are one, and extreme idiocy is as good as sense.
 But I can't explain these psychological games."
@@ -740,7 +740,7 @@ As they passed up the long streets towards their restaurant the copper
 twilight cleared slowly to a pale yellow, and by the [[motifs/time|time]] they
 reached it they stood discernible in a tolerable [[motifs/winter|winter]] daylight.
 The Honourable [[characters/james-barker|James Barker]], one of the most powerful officials
-in the English [[government|Government]] (by this [[motifs/time|time]] a rigidly official one),
+in the English Government (by this [[motifs/time|time]] a rigidly official one),
 was a lean and elegant young man, with a blank handsome face and
 bleak blue eyes.  He had a great amount of intellectual capacity,
 of that peculiar kind which raises a man from throne to throne
@@ -784,7 +784,7 @@ splashed with great silver facings.  From the shoulder swung a short
 green furred cloak, somewhat like that of a Hussar, the lining
 of which gleamed every now and then with a kind of tawny crimson.
 His breast glittered with medals; round his neck was the red
-ribbon and star of some foreign order; and a long straight [[Sword|sword]],
+ribbon and star of some foreign order; and a long straight sword,
 with a blazing hilt, trailed and clattered along the pavement.
 At this [[motifs/time|time]] the pacific and utilitarian development of Europe had
 relegated all such customs to the Museums.  The only remaining force,
@@ -812,7 +812,7 @@ più lunghi, lasciando cadere una frase all'incirca ogni sesto lampione.
 
 Strisciavano oltre i lampioni; il loro contegno era così immobile che una
 descrizione fantasiosa potrebbe quasi dire che erano i lampioni a strisciare
-oltre gli uomini, come in [[A Dream|un sogno]].  Poi il piccolo d'improvviso
+oltre gli uomini, come in un sogno.  Poi il piccolo d'improvviso
 corse loro dietro e disse:
 
 "Voglio farmi tagliare i capelli.  Dico, conoscete una qualche botteguccia
@@ -860,7 +860,7 @@ capirtene, di queste cose.  Che ne fai di lui?"
 uomo col gusto del nonsenso, come lo chiamano... buffoneria artistica, e tutta
 roba di quel tipo.  E credo seriamente che abbia parlato di nonsensi a tal
 punto da aver quasi confuso la propria mente e da non distinguere più la
-differenza tra la [[Sanity|ragione]] e la follia.  Ha fatto il giro del mondo
+differenza tra la ragione e la follia.  Ha fatto il giro del mondo
 mentale, per così dire, e ha trovato il luogo dove l'Oriente e l'Occidente
 sono una cosa sola, e l'estrema idiozia vale quanto il buonsenso.  Ma questi
 giochi psicologici non so spiegarli."
@@ -872,7 +872,7 @@ ramato si schiarì lentamente in un giallo pallido, e nel [[motifs/time|momento]
 lo raggiunsero si stagliavano distinti in una tollerabile luce diurna
 d'[[motifs/winter|inverno]].
 L'Onorevole [[characters/james-barker|James Barker]], uno dei funzionari più potenti del
-[[government|Governo]] inglese (a quel [[motifs/time|punto]] rigidamente ufficiale),
+Governo inglese (a quel [[motifs/time|punto]] rigidamente ufficiale),
 era un giovane snello ed elegante, dal volto bello e inespressivo e dagli
 occhi azzurri e gelidi.  Aveva una grande dose di capacità intellettuale,
 di quella peculiare specie che innalza un uomo di trono in trono e lo lascia
@@ -916,7 +916,7 @@ brillante, spruzzata di grandi mostrine d'argento.  Dalla spalla gli
 pendeva un corto mantello verde foderato di pelliccia, un po' come quello di
 un Ussaro, la cui fodera balenava di tanto in tanto di una sorta di cremisi
 fulvo.  Il petto gli scintillava di medaglie; intorno al collo aveva il nastro
-rosso e la stella di qualche ordine straniero; e una lunga [[Sword|spada]]
+rosso e la stella di qualche ordine straniero; e una lunga spada
 diritta, dall'elsa sfolgorante, strisciava e tintinnava lungo il selciato.
 A quel [[motifs/time|tempo]] lo sviluppo pacifico e utilitario dell'Europa aveva
 relegato tutte queste usanze ai Musei.  L'unica forza rimasta, la piccola ma
@@ -1479,14 +1479,14 @@ The old idealistic republicans used to found [[concepts/democracy|democracy]] on
 that all men were equally intelligent.  Believe me, the sane and enduring
 [[concepts/democracy|democracy]] is founded on the fact that all men are equally idiotic.
 Why should we not choose out of them one as much as another?
-All that we want for [[government|Government]] is a man not criminal and insane,
+All that we want for Government is a man not criminal and insane,
 who can rapidly look over some petitions and sign some proclamations.
-To think what [[motifs/time|time]] was wasted in arguing about the [[house|House]]
+To think what [[motifs/time|time]] was wasted in arguing about the House
 of Lords, Tories saying it ought to be preserved because it was clever,
 and Radicals saying it ought to be destroyed because it was stupid,
 and all the [[motifs/time|time]] no one saw that it was right because it was stupid,
 because that chance mob of ordinary men thrown there by accident
-of [[motifs/blood|blood]], were a great democratic protest against the Lower [[house|House]],
+of [[motifs/blood|blood]], were a great democratic protest against the Lower House,
 against the eternal insolence of the aristocracy of talents.
 We have established now in England, the thing towards which all systems
 have dimly groped, the dull popular despotism without illusions.
@@ -1510,7 +1510,7 @@ monarchies were a matter of luck:  so are alphabetical monarchies.
 Can you find a deep philosophical meaning in the difference between
 the Stuarts and the Hanoverians?  Believe me, I will undertake
 to find a deep philosophical meaning in the contrast between the dark
-[[forms/tragedy|tragedy]] of the A's, and the solid [[success]] of the B's."
+[[forms/tragedy|tragedy]] of the A's, and the solid success of the B's."
 
 "And you risk it?" asked the other.  "Though the man may be a [[archetypes/tyrant|tyrant]]
 or a cynic or a criminal?"
@@ -1533,13 +1533,13 @@ the man who may happen to come next, as a good despot?"
 
 "I do," said Barker, simply.  "He may not be a good man.
 But he will be a good despot.  For when he comes to a mere business
-routine of [[government]] he will endeavour to do ordinary justice.
+routine of government he will endeavour to do ordinary justice.
 Do we not assume the same thing in a jury?"
 
 The old President smiled.
 
 "I don't know," he said, "that I have any particular
-objection in detail to your excellent scheme of [[government|Government]].
+objection in detail to your excellent scheme of Government.
 My only objection is a quite personal one.  It is, that if I were
 asked whether I would belong to it, I should ask first of all,
 if I was not permitted, as an alternative, to be a toad in a ditch.
@@ -1560,7 +1560,7 @@ moment into the air."
 The fact is I want to reflect a little on those beautiful words
 that have just been uttered.  'Speaking,' yes, that was the phrase,
 'speaking in the interests of the public.'  One cannot get the honey
-from such things without being [[Alone|alone]] for a little."
+from such things without being alone for a little."
 
 "Is he really off his chump, do you think?" asked Lambert.
 
@@ -1623,14 +1623,14 @@ la [[concepts/democracy|democrazia]] sull'idea che tutti gli uomini fossero ugua
 intelligenti.  Credetemi, la [[concepts/democracy|democrazia]] sana e duratura si fonda
 sul fatto che tutti gli uomini sono ugualmente idioti.  Perché non dovremmo
 sceglierne uno tra loro tanto quanto un altro?  Tutto ciò che vogliamo dal
-[[government|Governo]] è un uomo non criminale e non pazzo, che sappia scorrere
+Governo è un uomo non criminale e non pazzo, che sappia scorrere
 rapidamente qualche petizione e firmare qualche proclama.  Pensare a quanto
-[[motifs/time|tempo]] fu sprecato a discutere sulla [[house|Camera]] dei Lord, i Tory a
+[[motifs/time|tempo]] fu sprecato a discutere sulla Camera dei Lord, i Tory a
 dire che andava conservata perché era intelligente, e i Radicali a dire che
 andava distrutta perché era stupida, e per tutto quel [[motifs/time|tempo]] nessuno che vedesse
 che era giusta perché era stupida, perché quella casuale accozzaglia di uomini
 comuni gettati là per accidente di [[motifs/blood|sangue]] era una grande protesta
-democratica contro la [[house|Camera]] Bassa, contro l'eterna insolenza
+democratica contro la Camera Bassa, contro l'eterna insolenza
 dell'aristocrazia dei talenti.  Abbiamo ormai istituito in Inghilterra la cosa
 verso cui tutti i sistemi hanno oscuramente brancolato, l'ottuso dispotismo
 popolare senza illusioni.  Vogliamo un solo uomo a capo del nostro Stato, non
@@ -1653,7 +1653,7 @@ questione di fortuna: così le monarchie alfabetiche.  Riuscite a trovare un
 profondo significato filosofico nella differenza tra gli Stuart e gli
 Hannover?  Credetemi, mi impegno a trovare un profondo significato filosofico
 nel contrasto tra l'oscura [[forms/tragedy|tragedia]] delle A e il solido
-[[success|successo]] delle B."
+successo delle B."
 
 "E voi ve la rischiate?" chiese l'altro.  "Anche se l'uomo può essere un
 [[archetypes/tyrant|tiranno]] o un cinico o un criminale?"
@@ -1676,13 +1676,13 @@ all'uomo che potrà capitare per primo, come a un buon despota?"
 
 "È così," disse Barker, semplicemente.  "Può non essere un buon uomo.  Ma sarà
 un buon despota.  Perché quando giunge alla mera routine amministrativa del
-[[government|governo]] egli si sforzerà di fare ordinaria giustizia.  Non
+governo egli si sforzerà di fare ordinaria giustizia.  Non
 supponiamo forse la stessa cosa in una giuria?"
 
 Il vecchio Presidente sorrise.
 
 "Non so," disse, "di avere alcuna obiezione particolare nel dettaglio al vostro
-eccellente schema di [[government|Governo]].  La mia unica obiezione è del tutto
+eccellente schema di Governo.  La mia unica obiezione è del tutto
 personale.  È che, se mi si chiedesse se vorrei farne parte, chiederei prima di
 tutto se non mi fosse concesso, come alternativa, di essere un rospo in un
 fosso.  È tutto.  Non si può discutere con la scelta dell'[[motifs/soul|anima]]."
@@ -1700,7 +1700,7 @@ Il signor [[characters/auberon-quin|Auberon Quin]] [[motifs/rose|si alzò]] d'im
 semmai.  Stranamente e riccamente bene.  Il fatto è che voglio riflettere un
 poco su quelle belle parole che sono appena state pronunciate.  'Parlando,'
 sì, era questa la frase, 'parlando nell'interesse del pubblico.'  Non si può
-cavare il miele da simili cose senza restare [[Alone|soli]] per un poco."
+cavare il miele da simili cose senza restare soli per un poco."
 
 "Credi che gli sia proprio dato di volta il cervello?" chiese Lambert.
 
@@ -1735,7 +1735,7 @@ solitaria risata.  Ripeteva a se stesso ancora e ancora, con un ricco accento:
 
 CHAPTER III
 
-THE [[motifs/hill|HILL]] OF [[Humour|HUMOUR]]
+THE [[motifs/hill|HILL]] OF HUMOUR
 
 "IN a little square [[motifs/garden|garden]] of yellow roses, beside the sea,"
 said [[characters/auberon-quin|Auberon Quin]], "there was a Nonconformist minister who
@@ -1750,14 +1750,14 @@ There was a short pause as Quin and his friends Barker and Lambert
 went swinging on through the slushy grass of Kensington Gardens.
 Then Auberon resumed.
 
-"That story," he said reverently, "is the test of [[Humour|humour]]."
+"That story," he said reverently, "is the test of humour."
 
 They walked on further and faster, wading through higher grass
 as they began to climb a slope.
 
 "I perceive," continued Auberon, "that you have passed the test,
 and consider the anecdote excruciatingly funny; since you say nothing.
-Only coarse [[Humour|humour]] is received with pot-[[house]] applause.
+Only coarse humour is received with pot-house applause.
 The great anecdote is received in [[motifs/silence|silence]], like a benediction.
 You felt pretty benedicted, didn't you, Barker?"
 
@@ -1795,7 +1795,7 @@ Again there was a [[motifs/silence|silence]], and then Lambert said:
 
 "It seems a bit mysterious."
 
-"Mysterious!" cried the other.  "The true [[Humour|humour]] is mysterious.
+"Mysterious!" cried the other.  "The true humour is mysterious.
 Do you not realize the chief incident of the nineteenth
 and twentieth centuries?"
 
@@ -1821,18 +1821,18 @@ If I were to say that you were guilty of the supreme blasphemy
 of looking at that tree and not seeing in it a new religion,
 a special revelation of God, you would simply say I was a mystic,
 and think no more about me.  But if...and he lifted a pontifical
-hand...if I say that you cannot see the [[Humour|humour]] of that tree,
-and that I see the [[Humour|humour]] of it...my God! you will roll about
+hand...if I say that you cannot see the humour of that tree,
+and that I see the humour of it...my God! you will roll about
 at my feet."
 
 He paused a moment, and then resumed.
 
-"Yes; a sense of [[Humour|humour]], a weird and delicate sense of [[Humour|humour]],
+"Yes; a sense of humour, a weird and delicate sense of humour,
 is the new religion of mankind!  It is towards that men will strain
 themselves with the asceticism of saints.  Exercises, spiritual exercises,
-will be set in it.  It will be asked, 'Can you see the [[Humour|humour]] of this
-iron railing?' or 'Can you see the [[Humour|humour]] of this field of corn?
-Can you see the [[Humour|humour]] of the [[motifs/stars|stars]]?  Can you see the [[Humour|humour]]
+will be set in it.  It will be asked, 'Can you see the humour of this
+iron railing?' or 'Can you see the humour of this field of corn?
+Can you see the humour of the [[motifs/stars|stars]]?  Can you see the humour
 of the sunsets?'  How often I have laughed myself to [[motifs/sleep|sleep]] over
 a violet sunset."
 
@@ -1854,7 +1854,7 @@ the words, as if they had been corked up painfully for a long [[motifs/time|time
 "You have," began Quin, "no..."
 
 "I don't care a curse," said Lambert, violently, "whether I have 'a
-delicate sense of [[Humour|humour]]' or not.  I won't stand it.  It's all a
+delicate sense of humour' or not.  I won't stand it.  It's all a
 confounded fraud.  There's no joke in those infernal tales at all.
 You know there isn't as [[motifs/well|well]] as I do."
 
@@ -1869,7 +1869,7 @@ Barker turned a fierce red, but continued to stare at the horizon.
 
 CAPITOLO III
 
-LA [[motifs/hill|COLLINA]] DELL'[[Humour|UMORISMO]]
+LA [[motifs/hill|COLLINA]] DELL'UMORISMO
 
 "In un piccolo [[motifs/garden|giardino]] quadrato di rose gialle, presso il mare,"
 disse [[characters/auberon-quin|Auberon Quin]], "c'era un pastore anticonformista che non era mai
@@ -1884,14 +1884,14 @@ Ci fu una breve pausa mentre Quin e i suoi amici Barker e Lambert proseguivano
 dondolando attraverso l'erba fangosa dei Kensington Gardens.  Poi Auberon
 riprese.
 
-"Quella storia," disse con reverenza, "è la prova dell'[[Humour|umorismo]]."
+"Quella storia," disse con reverenza, "è la prova dell'umorismo."
 
 Camminarono oltre, più lontano e più svelti, guadando erba più alta man mano
 che cominciavano a salire un pendio.
 
 "Mi accorgo," continuò Auberon, "che avete superato la prova, e trovate
-l'aneddoto atrocemente divertente; giacché non dite nulla.  Solo l'[[Humour|umorismo]]
-grossolano è accolto con applausi da [[house|osteria]].  Il grande aneddoto è
+l'aneddoto atrocemente divertente; giacché non dite nulla.  Solo l'umorismo
+grossolano è accolto con applausi da osteria.  Il grande aneddoto è
 accolto in [[motifs/silence|silenzio]], come una benedizione.  Ti sei sentito proprio
 benedetto, vero, Barker?"
 
@@ -1927,14 +1927,14 @@ Di nuovo ci fu un [[motifs/silence|silenzio]], e poi Lambert disse:
 
 "Pare un po' misteriosa."
 
-"Misteriosa!" gridò l'altro.  "Il vero [[Humour|umorismo]] è misterioso.  Non vi
+"Misteriosa!" gridò l'altro.  "Il vero umorismo è misterioso.  Non vi
 rendete conto dell'evento capitale del diciannovesimo e ventesimo secolo?"
 
 "E quale sarebbe?" chiese Lambert, secco.
 
 "È semplicissimo," rispose l'altro.  "Finora era la rovina di uno scherzo che
 la gente non lo cogliesse.  Ora è la [[concepts/sublime|sublime]] vittoria di uno scherzo
-che la gente non lo colga.  L'[[Humour|umorismo]], amici miei, è l'unica
+che la gente non lo colga.  L'umorismo, amici miei, è l'unica
 sacralità rimasta all'umanità.  È l'unica cosa di cui abbiate una vera paura.
 Guardate quell'albero."
 
@@ -1951,18 +1951,18 @@ parchi pubblici.  Se vi dicessi che siete colpevoli della suprema bestemmia di
 guardare quell'albero e di non vedervi una nuova religione, una speciale
 rivelazione di Dio, direste semplicemente che ero un mistico, e non pensereste
 più a me.  Ma se... e alzò una mano pontificale... se dico che non riuscite a
-vedere l'[[Humour|umorismo]] di quell'albero, e che io ne vedo l'[[Humour|umorismo]]...
+vedere l'umorismo di quell'albero, e che io ne vedo l'umorismo...
 mio Dio! vi rotolerete ai miei piedi."
 
 Fece una pausa un istante, e poi riprese.
 
-"Sì; un senso dell'[[Humour|umorismo]], uno strano e delicato senso dell'[[Humour|umorismo]],
+"Sì; un senso dell'umorismo, uno strano e delicato senso dell'umorismo,
 è la nuova religione dell'umanità!  È verso quella che gli uomini si sforzeranno
 con l'ascesi dei santi.  Vi si stabiliranno esercizi, esercizi spirituali.  Si
-chiederà: 'Riuscite a vedere l'[[Humour|umorismo]] di questa ringhiera di ferro?'
-oppure 'Riuscite a vedere l'[[Humour|umorismo]] di questo campo di grano?  Riuscite
-a vedere l'[[Humour|umorismo]] delle [[motifs/stars|stelle]]?  Riuscite a vedere
-l'[[Humour|umorismo]] dei tramonti?'  Quante volte mi sono addormentato
+chiederà: 'Riuscite a vedere l'umorismo di questa ringhiera di ferro?'
+oppure 'Riuscite a vedere l'umorismo di questo campo di grano?  Riuscite
+a vedere l'umorismo delle [[motifs/stars|stelle]]?  Riuscite a vedere
+l'umorismo dei tramonti?'  Quante volte mi sono addormentato
 dal ridere, sprofondando nel [[motifs/sleep|sonno]] sopra un tramonto violetto."
 
 "Proprio così," disse il signor Barker, con un intelligente imbarazzo.
@@ -1984,7 +1984,7 @@ quelle parole, come se fossero state penosamente tappate dentro per un lungo
 "Tu non hai," cominciò Quin, "nessun..."
 
 "Non me ne importa un accidente," disse Lambert, con violenza, "se ho 'un
-delicato senso dell'[[Humour|umorismo]]' oppure no.  Non lo sopporto.  È tutta
+delicato senso dell'umorismo' oppure no.  Non lo sopporto.  È tutta
 una maledetta frode.  In quei racconti infernali non c'è proprio nessuno scherzo.
 Lo sai tanto [[motifs/well|bene]] quanto me che non c'è."
 
@@ -2012,7 +2012,7 @@ hanged if you look it.  You are more.  You are a great revolutionist
 or deliverer of the world, and I look forward to seeing you
 carved in marble between Luther and Danton, if possible in your
 present attitude, the hat slightly on one side.  I said as I came
-up the [[motifs/hill|hill]] that the new [[Humour|humour]] was the last of the religions.
+up the [[motifs/hill|hill]] that the new humour was the last of the religions.
 You have made it the last of the superstitions.  But let me give you
 a very serious warning.  Be careful how you ask me to do anything outre,
 to imitate the man in the pantomime, and to sit on my hat.  Because I
@@ -2028,7 +2028,7 @@ the main avenue of Kensington Gardens.
 "Two hundred yards away," he said, "are all your fashionable acquaintances
 with nothing on earth to do but to stare at each other and at us.
 We are standing upon an elevation under the open sky, a peak as it
-were of fantasy, a Sinai of [[Humour|humour]].  We are in a great pulpit
+were of fantasy, a Sinai of humour.  We are in a great pulpit
 or platform, lit up with sunlight, and half [[settings/london|London]] can see us.
 Be careful how you suggest things to me.  For there is in me a [[concepts/madness|madness]]
 which goes beyond [[concepts/martyrdom|martyrdom]], the [[concepts/madness|madness]] of an utterly idle man."
@@ -2083,7 +2083,7 @@ might have fallen upon him, unnerved him with pleasure.
 "Which of us," he began, and the respectful official interrupted him.
 
 "Not you, sir, I am sorry to say.  If I may be permitted to say so,
-we know your services to the [[government|Government]], and should be very thankful
+we know your services to the Government, and should be very thankful
 if it were.  The choice has fallen..."
 
 "God bless my [[motifs/soul|soul]]!" said Lambert, jumping back two paces.  "Not me.
@@ -2124,15 +2124,15 @@ legs in the air, as he was dragged, up more or less upside down,
 and then accepting it.  A mere matter of detail separates me from
 those great men.  I will accept the post three times and refuse
 it afterwards.  Oh!  I will toil for you, my faithful people!
-You shall have a banquet of [[Humour|humour]]."
+You shall have a banquet of humour."
 
 By this [[motifs/time|time]] he had been landed the right way up, and the two
 men were still trying in vain to impress him with the gravity
 of the situation.
 
 "Did you not tell me, Wilfrid Lambert," he said, "that I should be
-of more public value if I adopted a more popular form of [[Humour|humour]]?
-And when should a popular form of [[Humour|humour]] be more firmly riveted upon
+of more public value if I adopted a more popular form of humour?
+And when should a popular form of humour be more firmly riveted upon
 me than now, when I have become the darling of a whole people?
 Officer," he continued, addressing the startled messenger,
 "are there no ceremonies to celebrate my entry into the [[motifs/city|city]]?"
@@ -2153,7 +2153,7 @@ and manipulation, "you're putting it on with the tails in front."
 as we can come to ritual with our imperfect apparatus.  Lead on."
 
 The rest of that afternoon and evening was to Barker and Lambert
-a [[nightmare]], which they could not properly realize or recall.
+a nightmare, which they could not properly realize or recall.
 The [[archetypes/king|King]], with his coat on the wrong way, went towards the streets
 that were awaiting him, and the old Kensington Palace which was the
 Royal residence.  As he passed small groups of men, the groups turned
@@ -2181,7 +2181,7 @@ venga da impiccarmi se ne hai l'aria.  Sei di più.  Sei un grande rivoluzionari
 o liberatore del mondo, e mi aspetto di vederti
 scolpito nel marmo tra Lutero e Danton, se possibile nel tuo
 atteggiamento attuale, il cappello leggermente di traverso.  Ho detto salendo
-la [[motifs/hill|collina]] che il nuovo [[Humour|umorismo]] era l'ultima delle religioni.
+la [[motifs/hill|collina]] che il nuovo umorismo era l'ultima delle religioni.
 Tu ne hai fatto l'ultima delle superstizioni.  Ma lascia che ti dia
 un avvertimento molto serio.  Sta' attento a chiedermi di fare qualcosa di outre,
 di imitare l'uomo della pantomima, e di sedermi sul mio cappello.  Perché io
@@ -2197,7 +2197,7 @@ il viale principale dei Kensington Gardens.
 «A duecento metri di distanza,» disse, «ci sono tutte le tue eleganti conoscenze
 che non hanno nient'altro al mondo da fare se non fissarsi a vicenda e fissare noi.
 Noi siamo ritti su un'altura sotto il cielo aperto, una vetta per così
-dire di fantasia, un Sinai dell'[[Humour|umorismo]].  Siamo su un grande pulpito
+dire di fantasia, un Sinai dell'umorismo.  Siamo su un grande pulpito
 o palco, illuminato dal sole, e mezza [[settings/london|Londra]] può vederci.
 Sta' attento a ciò che mi suggerisci.  Perché c'è in me una [[concepts/madness|follia]]
 che va oltre il [[concepts/martyrdom|martirio]], la [[concepts/madness|follia]] di un uomo assolutamente ozioso.»
@@ -2252,7 +2252,7 @@ potesse essere caduta su di lui, lo scompose dal piacere.
 «Chi di noi,» cominciò, e il rispettoso funzionario lo interruppe.
 
 «Non lei, signore, mi dispiace dirlo.  Se mi è concesso dirlo,
-conosciamo i suoi servigi al [[government|Governo]], e ne saremmo ben lieti
+conosciamo i suoi servigi al Governo, e ne saremmo ben lieti
 se fosse così.  La scelta è caduta...»
 
 «Dio benedica l'[[motifs/soul|anima]] mia!» disse Lambert, saltando indietro di due passi.  «Non io.
@@ -2293,15 +2293,15 @@ gambe in aria mentre veniva trascinato su, più o meno a testa in giù,
 e poi accettarlo.  Un mero dettaglio mi separa da
 quei grandi uomini.  Accetterò la carica tre volte e la rifiuterò
 in seguito.  Oh!  Faticherò per voi, popolo mio fedele!
-Avrete un banchetto di [[Humour|umorismo]].»
+Avrete un banchetto di umorismo.»
 
 A questo [[motifs/time|punto]] era stato posato per il verso giusto, e i due
 uomini cercavano ancora invano di impressionarlo con la gravità
 della situazione.
 
 «Non mi hai detto, Wilfrid Lambert,» disse, «che sarei stato
-di maggior valore pubblico se avessi adottato una forma di [[Humour|umorismo]] più popolare?
-E quando dovrebbe una forma popolare di [[Humour|umorismo]] essere più saldamente rivettata su
+di maggior valore pubblico se avessi adottato una forma di umorismo più popolare?
+E quando dovrebbe una forma popolare di umorismo essere più saldamente rivettata su
 di me se non ora, che sono diventato il beniamino di un intero popolo?
 Agente,» proseguì, rivolgendosi al messaggero sbigottito,
 «non ci sono cerimonie per celebrare il mio ingresso nella [[motifs/city|città]]?»
@@ -2322,7 +2322,7 @@ e di manovre, «la sta indossando con le falde davanti.»
 vicino al rito possiamo raggiungere con il nostro apparato imperfetto.  Guidami.»
 
 Il resto di quel pomeriggio e di quella sera fu per Barker e Lambert
-un [[nightmare|incubo]], che non riuscivano a realizzare o rievocare come si deve.
+un incubo, che non riuscivano a realizzare o rievocare come si deve.
 Il [[archetypes/king|Re]], con la giacca al contrario, si diresse verso le strade
 che lo attendevano, e verso il vecchio Palazzo di Kensington che era la
 residenza reale.  Mentre passava accanto a piccoli capannelli di uomini, i capannelli si trasformavano
@@ -2366,12 +2366,12 @@ the young politician held it out.
 The [[archetypes/king|King]] placed it on his own chair, and sat on it.
 
 "A quaint old custom," he explained, smiling above the ruins.
-"When the [[archetypes/king|King]] receives the representatives of the [[house|House]] of Barker,
+"When the [[archetypes/king|King]] receives the representatives of the House of Barker,
 the hat of the latter is immediately destroyed in this manner.
 It represents the absolute finality of the act of homage expressed
 in the removal of it.  It declares that never until that hat shall
 once more appear upon your head (a contingency which I firmly
-believe to be remote) shall the [[house|House]] of Barker [[archetypes/rebel|rebel]] against
+believe to be remote) shall the House of Barker [[archetypes/rebel|rebel]] against
 the [[motifs/crown|Crown]] of England."
 
 Barker stood with clenched fist, and shaking lip.
@@ -2385,7 +2385,7 @@ with an oath, and stopped again.
 passionate rationality.  "Are you mad?"
 
 "Not in the least," replied the [[archetypes/king|King]], pleasantly.  "Madmen are
-always serious; they go mad from lack of [[Humour|humour]].  You are looking
+always serious; they go mad from lack of humour.  You are looking
 serious yourself, James."
 
 "Why can't you keep it to your own private life?" expostulated the other.
@@ -2401,11 +2401,11 @@ that it would be amusing to be dignified in the banquet hall and
 in the street, and at my own fireside (I could procure a fireside)
 to keep the company in a roar.  But that is what every one does.
 Every one is [[motifs/grave|grave]] in public, and funny in private.
-My sense of [[Humour|humour]] suggests the reversal of this; it suggests
+My sense of humour suggests the reversal of this; it suggests
 that one should be funny in public, and solemn in private.
 I [[motifs/desire|desire]] to make the State functions, parliaments, coronations, and so on,
 one roaring old-fashioned pantomime.  But, on the other hand,
-I shut myself up [[Alone|alone]] in a small store-room for two hours a day,
+I shut myself up alone in a small store-room for two hours a day,
 where I am so dignified that I come out quite ill."
 
 By this [[motifs/time|time]] Barker was walking up and down the room, his frock-coat
@@ -2414,7 +2414,7 @@ flapping like the black wings of a bird.
 "[[motifs/well|Well]], you will ruin the country, that's all," he said shortly.
 
 "It seems to me," said Auberon, "that the tradition of ten centuries
-is being broken, and the [[house|House]] of Barker is rebelling against the [[motifs/crown|Crown]]
+is being broken, and the House of Barker is rebelling against the [[motifs/crown|Crown]]
 of England.  It would be with regret (for I admire your appearance)
 that I should be obliged forcibly to decorate your head with the remains
 of this hat, but..."
@@ -2457,10 +2457,10 @@ than an angler stands, of being pulled into the [[motifs/river|river]] by a stro
 Herbert Spencer refrained from theft for the same reason that
 he refrained from wearing feathers in his hair, because he was
 an English gentleman with different tastes.  I am an English
-gentleman with different tastes.  He liked [[philosophy]].  I like art.
+gentleman with different tastes.  He liked philosophy.  I like art.
 He liked writing ten books on the [[concepts/nature|nature]] of human society.
 I like to see the Lord Chamberlain walking in front of me with
-a piece of paper pinned to his coat-tails. It is my [[Humour|humour]].
+a piece of paper pinned to his coat-tails. It is my humour.
 Are you answered?  At any rate, I have said my last serious word today,
 and my last serious word I trust for the remainder of my life in this
 Paradise of Fools.  The remainder of my conversation with you today,
@@ -2499,12 +2499,12 @@ il giovane politico glielo porse.
 Il [[archetypes/king|Re]] lo posò sulla propria sedia e vi si sedette sopra.
 
 «Una bizzarra vecchia usanza,» spiegò, sorridendo al di sopra delle rovine.
-«Quando il [[archetypes/king|Re]] riceve i rappresentanti della [[house|Casa]] di Barker,
+«Quando il [[archetypes/king|Re]] riceve i rappresentanti della Casa di Barker,
 il cappello di costoro viene immediatamente distrutto in questo modo.
 Rappresenta l'assoluta definitività dell'atto di omaggio espresso
 nel toglierlo.  Dichiara che mai, finché quel cappello non
 comparirà di nuovo sul tuo capo (evenienza che credo fermamente
-essere remota), la [[house|Casa]] di Barker si [[archetypes/rebel|ribellerà]] contro
+essere remota), la Casa di Barker si [[archetypes/rebel|ribellerà]] contro
 la [[motifs/crown|Corona]] d'Inghilterra.»
 
 Barker stava col pugno serrato e il labbro tremante.
@@ -2518,7 +2518,7 @@ con un'imprecazione, e si fermò di nuovo.
 appassionata razionalità.  «Sei matto?»
 
 «Nient'affatto,» rispose il [[archetypes/king|Re]], amabilmente.  «I matti sono
-sempre seri; impazziscono per mancanza di [[Humour|umorismo]].  Anche tu hai
+sempre seri; impazziscono per mancanza di umorismo.  Anche tu hai
 un'aria seria, James.»
 
 «Perché non puoi limitarlo alla tua vita privata?» protestò l'altro.
@@ -2534,11 +2534,11 @@ che sarebbe divertente essere dignitoso nella sala del banchetto e
 per strada, e al proprio focolare (potrei procurarmi un focolare)
 tenere la compagnia in un fragore di risate.  Ma è ciò che fanno tutti.
 Tutti sono [[motifs/grave|gravi]] in pubblico, e buffi in privato.
-Il mio senso dell'[[Humour|umorismo]] suggerisce il rovesciamento di ciò; suggerisce
+Il mio senso dell'umorismo suggerisce il rovesciamento di ciò; suggerisce
 che si debba essere buffi in pubblico, e solenni in privato.
 [[motifs/desire|Desidero]] fare delle funzioni di Stato, dei parlamenti, delle incoronazioni e via dicendo,
 un'unica fragorosa pantomima all'antica.  Ma, d'altra parte,
-mi rinchiudo da [[Alone|solo]] in un piccolo sgabuzzino per due ore al giorno,
+mi rinchiudo da solo in un piccolo sgabuzzino per due ore al giorno,
 dove sono così dignitoso che ne esco addirittura malato.»
 
 A questo [[motifs/time|punto]] Barker camminava su e giù per la stanza, la sua finanziera
@@ -2547,7 +2547,7 @@ sbatteva come le ali nere di un uccello.
 «[[motifs/well|Ebbene]], manderai il paese in rovina, ecco tutto,» disse in tono secco.
 
 «Mi pare,» disse Auberon, «che la tradizione di dieci secoli
-venga infranta, e che la [[house|Casa]] di Barker si stia ribellando contro la [[motifs/crown|Corona]]
+venga infranta, e che la Casa di Barker si stia ribellando contro la [[motifs/crown|Corona]]
 d'Inghilterra.  Sarebbe con rammarico (giacché ammiro il tuo aspetto)
 che mi vedrei costretto a decorarti con la forza il capo con i resti
 di questo cappello, ma...»
@@ -2590,10 +2590,10 @@ di quanto ne corra un pescatore di essere trascinato nel [[motifs/river|fiume]] 
 Herbert Spencer si asteneva dal furto per la stessa ragione per cui
 si asteneva dal portare piume tra i capelli, perché era
 un gentiluomo inglese con gusti diversi.  Io sono un gentiluomo
-inglese con gusti diversi.  A lui piaceva la [[philosophy|filosofia]].  A me piace l'arte.
+inglese con gusti diversi.  A lui piaceva la filosofia.  A me piace l'arte.
 A lui piaceva scrivere dieci libri sulla [[concepts/nature|natura]] della società umana.
 A me piace vedere il Lord Ciambellano camminare davanti a me con
-un pezzo di carta appuntato alle falde della giacca. È il mio [[Humour|umorismo]].
+un pezzo di carta appuntato alle falde della giacca. È il mio umorismo.
 Ti ho risposto?  A ogni modo, ho detto la mia ultima parola seria per oggi,
 e la mia ultima parola seria, confido, per il resto della mia vita in questo
 Paradiso dei Folli.  Il resto della mia conversazione con te oggi,
@@ -2625,7 +2625,7 @@ out into the purple [[motifs/night|night]].
 He passed swiftly up a street in the neighbourhood of Notting [[motifs/hill|Hill]],
 when suddenly he felt a hard object driven into his waistcoat.
 He paused, put up a single eye-glass, and beheld a boy with a wooden
-[[Sword|sword]] and a paper cocked hat, wearing that expression of awed
+sword and a paper cocked hat, wearing that expression of awed
 satisfaction with which a [[archetypes/child|child]] contemplates his work when he has
 hit some one very hard.  The [[archetypes/king|King]] gazed thoughtfully for some [[motifs/time|time]]
 at his assailant, and slowly took a note-book from his breast-pocket.
@@ -2735,7 +2735,7 @@ nella purpurea [[motifs/night|notte]].
 
 Percorse rapidamente una strada nei dintorni di Notting [[motifs/hill|Hill]],
 quando all'improvviso sentì un oggetto duro conficcarglisi nel panciotto.
-Si fermò, inforcò un monocolo, e scorse un ragazzo con una [[Sword|spada]]
+Si fermò, inforcò un monocolo, e scorse un ragazzo con una spada
 di legno e un cappello di carta a tricorno, che aveva quell'espressione di reverente
 soddisfazione con cui un [[archetypes/child|bambino]] contempla la propria opera quando ha
 colpito qualcuno molto forte.  Il [[archetypes/king|Re]] fissò pensoso per un po' di [[motifs/time|tempo]]
@@ -2838,7 +2838,7 @@ of the Society for the Recovery of [[settings/london|London]] Antiquities can I 
 my heart (cheers). If the world turns upon my policy, and the storms
 of popular hostility begin to rise (no, no), I feel that it is here,
 with my brave Recoverers around me, that I can best meet them,
-[[Sword|sword]] in hand" (loud cheers).
+sword in hand" (loud cheers).
 
 His Majesty then went on to explain that, now old age was creeping
 upon him, he proposed to devote his remaining strength to bringing
@@ -2860,7 +2860,7 @@ old English customs, if our descendants can say it was through this man,
 humble as he was, that the Ten Turnips are still eaten in Fulham,
 and the Putney parish councillor still shaves one half of his head I
 shall look my great fathers reverently but not fearfully in the face
-when I go down to the last [[house]] of Kings."
+when I go down to the last house of Kings."
 
 The [[archetypes/king|King]] paused, visibly affected, but collecting himself,
 resumed once more.
@@ -2875,19 +2875,19 @@ which in [[concepts/honour|honour]] of the best [[motifs/blood|blood]] of the de
 called Kensington Gore.  Men of Hammersmith will not fail to remember
 that the very name of Kensington originated from the lips of their [[archetypes/hero|hero]].
 For at the great banquet of [[concepts/reconciliation|reconciliation]] held after the war,
-when the disdainful oligarchs declined to join in the [[songs]] of the men
+when the disdainful oligarchs declined to join in the songs of the men
 of the Broadway (which are to this day of a rude and popular character),
-the great Republican leader, with his rough [[Humour|humour]], said the words
+the great Republican leader, with his rough humour, said the words
 which are written in gold upon his monument, 'Little [[motifs/birds|birds]]
 that can sing and won't sing, must be made to sing.'  So that the
 Eastern Knights were called Cansings or Kensings ever afterwards.
 But you also have great memories, O men of Kensington!  You showed
-that you could sing, and sing great war-[[songs]]. Even after the dark
+that you could sing, and sing great war-songs. Even after the dark
 day of Kensington Gore, [[concepts/history|history]] will not forget those three Knights
 who guarded your disordered retreat from Hyde Park (so called from your
 hiding there), those three Knights after whom Knightsbridge is named.
 Nor will it forget the day of your re-emergence, purged in the [[motifs/fire|fire]]
-of calamity, cleansed of your oligarchic corruptions, when, [[Sword|sword]] in hand,
+of calamity, cleansed of your oligarchic corruptions, when, sword in hand,
 you drove the Empire of Hammersmith back mile by mile, swept it
 past its own Broadway, and broke it at last in a battle so long
 and bloody that the [[motifs/birds|birds]] of prey have left their name upon it.
@@ -2940,7 +2940,7 @@ You will all, however, be subject to enrolment in the local
 the meaning of which I am studying in my researches into [[concepts/history|history]].
 Personally, I believe a tocsin to be some kind of highly paid official.
 If, therefore, any of you happen to have such a thing as a halberd
-in the [[house]], I should advise you to practise with it in the [[motifs/garden|garden]]."
+in the house, I should advise you to practise with it in the [[motifs/garden|garden]]."
 
 Here the [[archetypes/king|King]] buried his face in his handkerchief and hurriedly
 left the platform, overcome by emotions.
@@ -2963,7 +2963,7 @@ della Società per il Recupero delle Antichità di [[settings/london|Londra]] po
 il mio cuore (applausi). Se il mondo si rivolterà contro la mia politica, e le tempeste
 dell'ostilità popolare cominceranno a levarsi (no, no), sento che è qui,
 con i miei valorosi Recuperatori attorno a me, che meglio potrò affrontarle,
-[[Sword|spada]] alla mano» (grandi applausi).
+spada alla mano» (grandi applausi).
 
 Sua Maestà proseguì poi spiegando che, ora che la vecchiaia gli stava
 strisciando addosso, si proponeva di dedicare le forze che gli restavano a suscitare
@@ -2985,7 +2985,7 @@ vecchie usanze inglesi, se i nostri discendenti potranno dire che fu grazie a qu
 per quanto umile, che le Dieci Rape si mangiano ancora a Fulham,
 e il consigliere parrocchiale di Putney si rade ancora metà del capo,
 guarderò i miei grandi padri con riverenza ma senza timore in volto
-quando scenderò all'ultima [[house|dimora]] dei Re.»
+quando scenderò all'ultima dimora dei Re.»
 
 Il [[archetypes/king|Re]] fece una pausa, visibilmente commosso, ma ricomponendosi,
 riprese ancora una volta.
@@ -3000,19 +3000,19 @@ che in [[concepts/honour|onore]] del miglior [[motifs/blood|sangue]] dell'aristo
 chiamato Kensington Gore.  Gli uomini di Hammersmith non mancheranno di ricordare
 che il nome stesso di Kensington ebbe origine dalle labbra del loro [[archetypes/hero|eroe]].
 Poiché al grande banchetto della [[concepts/reconciliation|Riconciliazione]] tenuto dopo la guerra,
-quando gli sdegnosi oligarchi rifiutarono di unirsi ai [[songs|canti]] degli uomini
+quando gli sdegnosi oligarchi rifiutarono di unirsi ai canti degli uomini
 del Broadway (che sono a tutt'oggi di carattere rozzo e popolare),
-il grande capo repubblicano, col suo rude [[Humour|umorismo]], disse le parole
+il grande capo repubblicano, col suo rude umorismo, disse le parole
 che sono scritte in oro sul suo monumento: "Gli [[motifs/birds|uccellini]]
 che sanno cantare e non vogliono cantare, si deve farli cantare."  Cosicché i
 Cavalieri Orientali furono chiamati Cansing o Kensing da allora in poi.
 Ma anche voi avete grandi memorie, o uomini di Kensington!  Voi mostraste
-che sapevate cantare, e cantare grandi [[songs|canti]] di guerra. Anche dopo l'oscuro
+che sapevate cantare, e cantare grandi canti di guerra. Anche dopo l'oscuro
 giorno di Kensington Gore, la [[concepts/history|storia]] non dimenticherà quei tre Cavalieri
 che protessero la vostra scomposta ritirata da Hyde Park (così chiamato dal vostro
 nascondervi là), quei tre Cavalieri da cui prende nome Knightsbridge.
 Né dimenticherà il giorno del vostro riemergere, purgati nel [[motifs/fire|fuoco]]
-della sventura, mondati dalle vostre corruzioni oligarchiche, quando, [[Sword|spada]] alla mano,
+della sventura, mondati dalle vostre corruzioni oligarchiche, quando, spada alla mano,
 respingeste l'Impero di Hammersmith miglio dopo miglio, lo spazzaste
 oltre il suo stesso Broadway, e infine lo spezzaste in una battaglia tanto lunga
 e sanguinosa che gli [[motifs/birds|uccelli]] rapaci vi hanno lasciato il proprio nome.
@@ -3065,7 +3065,7 @@ Tutti voi, tuttavia, sarete soggetti all'arruolamento nelle guardie
 il cui significato sto studiando nelle mie ricerche sulla [[concepts/history|storia]].
 Personalmente, credo che un tocsin sia una specie di funzionario assai ben pagato.
 Se, pertanto, qualcuno di voi possiede per caso una cosa come un'alabarda
-in [[house|casa]], gli consiglierei di esercitarsi con essa in [[motifs/garden|giardino]].»
+in casa, gli consiglierei di esercitarsi con essa in [[motifs/garden|giardino]].»
 
 A questo punto il [[archetypes/king|Re]] affondò il volto nel fazzoletto e in fretta
 lasciò il palco, sopraffatto dall'emozione.
@@ -3175,7 +3175,7 @@ Barker's wild eyes flared.
 
 "But, in God's name, don't you see, Quin, that the thing
 is quite different?  In the centre it doesn't matter so much,
-just because the whole object of despotism is to get some sort of [[unity]].
+just because the whole object of despotism is to get some sort of unity.
 But if any damned parish can go to any damned man..."
 
 "I see your difficulty," said [[archetypes/king|King]] Auberon, calmly.  "You feel
@@ -3297,7 +3297,7 @@ Gli occhi folli di Barker fiammeggiarono.
 
 «Ma, in nome di Dio, non vedi, Quin, che la cosa
 è del tutto diversa?  Al centro non importa poi tanto,
-proprio perché l'intero scopo del dispotismo è ottenere una qualche [[unity|unità]].
+proprio perché l'intero scopo del dispotismo è ottenere una qualche unità.
 Ma se una qualsiasi maledetta parrocchia può andare da un qualsiasi maledetto uomo...»
 
 «Vedo la tua difficoltà,» disse [[archetypes/king|Re]] Auberon, con calma.  «Temi
@@ -3377,7 +3377,7 @@ occasion to interview the [[archetypes/king|King]] about a matter wider and even
 urgent than the problem of the halberdiers and the omnibus.
 This was the greatest question which then and for long afterwards
 brought a stir to the [[motifs/blood|blood]] and a flush to the cheek of all
-the speculative builders and [[house]] agents from Shepherd's Bush to
+the speculative builders and house agents from Shepherd's Bush to
 the Marble Arch, and from Westbourne Grove to High Street, Kensington.
 I refer to the great affair of the improvements in Notting [[motifs/hill|Hill]].
 The scheme was conducted chiefly by Mr. Buck, the abrupt
@@ -3401,7 +3401,7 @@ hurried over to speak to the [[archetypes/king|King]].
 
 Ten years had not tired the [[archetypes/king|King]] of his joke.  There were still
 new faces to be seen looking out from the symbolic head-gears
-he had designed, gazing at him from amid the [[Pastoral|pastoral]] ribbons of
+he had designed, gazing at him from amid the pastoral ribbons of
 Shepherd's Bush or from under the sombre hoods of the Blackfriars [[motifs/road|Road]].
 And the interview which was promised him with the Provost
 of North Kensington he anticipated with a particular pleasure,
@@ -3485,7 +3485,7 @@ occasione di trovarsi a colloquio col [[archetypes/king|Re]] su una questione pi
 urgente del problema degli alabardieri e dell'omnibus.
 Era la più grande questione che allora e per lungo tempo in seguito
 fece fremere il [[motifs/blood|sangue]] e accendere le gote a tutti
-i costruttori speculatori e agli agenti [[house|immobiliari]] da Shepherd's Bush
+i costruttori speculatori e agli agenti immobiliari da Shepherd's Bush
 fino al Marble Arch, e da Westbourne Grove fino a High Street, Kensington.
 Alludo alla grande faccenda dei lavori di miglioramento a Notting [[motifs/hill|Hill]].
 Il progetto era condotto principalmente dal signor Buck, il brusco
@@ -3509,7 +3509,7 @@ si affrettò a parlare col [[archetypes/king|Re]].
 
 Dieci anni non avevano stancato il [[archetypes/king|Re]] del suo scherzo.  C'erano ancora
 volti nuovi che spuntavano dai copricapi simbolici
-che aveva disegnato, e lo fissavano di tra i nastri [[Pastoral|pastorali]] di
+che aveva disegnato, e lo fissavano di tra i nastri pastorali di
 Shepherd's Bush o da sotto i cupi cappucci della [[motifs/road|Strada]] dei Blackfriars.
 E il colloquio che gli era stato promesso col Prevosto
 di North Kensington lo pregustava con particolare piacere,
@@ -3605,14 +3605,14 @@ nose with his finger on the [[motifs/window|window]]-pane, heard the last two wo
 
 "The chief point is," continued Buck, doggedly, "that the only part
 that is really in question is one dirty little street...Pump Street...a
-street with nothing in it but a public [[house]] and a penny toy-shop,
+street with nothing in it but a public house and a penny toy-shop,
 and that sort of thing.  All the respectable people of Notting [[motifs/hill|Hill]]
 have accepted our compensation.  But the ineffable Wayne sticks
 out over Pump Street.  Says he's Provost of Notting [[motifs/hill|Hill]].
 He's only Provost of Pump Street."
 
 "A good thought," replied Auberon.  "I like the idea of a Provost
-of Pump Street.  Why not let him [[Alone|alone]]?"
+of Pump Street.  Why not let him alone?"
 
 "And drop the whole scheme!" cried out Buck, with a burst of
 brutal spirit.  "I'll be damned if we do.  No. I'm for sending
@@ -3739,14 +3739,14 @@ del Prevosto sul vetro della [[motifs/window|finestra]], colse le ultime due par
 
 «Il punto principale è,» proseguì Buck, ostinato, «che l'unica parte
 davvero in discussione è una lurida stradicciola... Pump Street... una
-via che non ha nulla se non un'osteria [[house|pubblica]] e una botteguccia di giocattoli da un soldo,
+via che non ha nulla se non un'osteria pubblica e una botteguccia di giocattoli da un soldo,
 e roba del genere.  Tutta la gente rispettabile di Notting [[motifs/hill|Hill]]
 ha accettato il nostro indennizzo.  Ma l'ineffabile Wayne si impunta
 su Pump Street.  Dice di essere Prevosto di Notting [[motifs/hill|Hill]].
 È solo Prevosto di Pump Street.»
 
 «Un bel pensiero,» rispose Auberon.  «Mi piace l'idea di un Prevosto
-di Pump Street.  Perché non lasciarlo in [[Alone|pace]]?»
+di Pump Street.  Perché non lasciarlo in pace?»
 
 «E lasciar cadere tutto il progetto!» esclamò Buck, con uno scoppio di
 spirito brutale.  «Che io sia dannato se lo faccio.  No.  Sono per mandare
@@ -3869,7 +3869,7 @@ deal to say on the matter.
 
 "Welcome, West Kensington," said the [[archetypes/king|King]].  "I have long wished
 to see you, touching that matter of the Hammersmith land to the south
-of the Rowton [[house|House]].  Will you hold it feudally from the Provost
+of the Rowton House.  Will you hold it feudally from the Provost
 of Hammersmith?  You have only to do him homage by putting his left
 arm in his overcoat and then marching [[motifs/home|home]] in state."
 
@@ -3955,7 +3955,7 @@ da dire sulla faccenda.
 
 «Benvenuto, West Kensington,» disse il [[archetypes/king|Re]].  «Da tempo desideravo
 vedervi, a proposito di quella faccenda della terra di Hammersmith a sud
-della [[house|Casa]] Rowton.  La terrete in feudo dal Prevosto
+della Casa Rowton.  La terrete in feudo dal Prevosto
 di Hammersmith?  Non dovrete far altro che rendergli omaggio infilandogli il braccio
 sinistro nel soprabito e poi marciando verso [[motifs/home|casa]] in pompa magna.»
 
@@ -4012,7 +4012,7 @@ They marched and wheeled into position with an almost startling
 dignity, and discipline.
 
 They carried a yellow banner with a great red [[motifs/lion|lion]], named by
-the [[archetypes/king|King]] as the Notting [[motifs/hill|Hill]] emblem, after a small public-[[house]]
+the [[archetypes/king|King]] as the Notting [[motifs/hill|Hill]] emblem, after a small public-house
 in the neighbourhood, which he once frequented.
 
 Between the two lines of his followers there advanced towards the [[archetypes/king|King]]
@@ -4021,7 +4021,7 @@ He would have been called handsome, but that a certain indefinable
 air of his nose being too big for his face, and his feet for
 his legs, gave him a look of awkwardness and extreme youth.
 His robes were red, according to the [[archetypes/king|King]]'s heraldry,
-and [[Alone|alone]] among the Provosts, he was girt with a great [[Sword|sword]].
+and alone among the Provosts, he was girt with a great sword.
 This was [[characters/adam-wayne|Adam Wayne]], the intractable Provost of Notting [[motifs/hill|Hill]].
 
 The [[archetypes/king|King]] flung himself back in his chair, and rubbed his hands.
@@ -4048,7 +4048,7 @@ followed in a smothered way.  But the big blue eyes of [[characters/adam-wayne|A
 never changed, and he called out in an odd, boyish voice down the hall:
 
 "I bring homage to my [[archetypes/king|King]].  I bring him the only thing
-I have...my [[Sword|sword]]."
+I have...my sword."
 
 And with a great gesture he flung it down on the ground, and knelt
 on one knee behind it.
@@ -4138,7 +4138,7 @@ Marciarono e ruotarono in posizione con una dignità e una disciplina
 quasi sorprendenti.
 
 Recavano uno stendardo giallo con un grande [[motifs/lion|leone]] rosso, chiamato dal
-[[archetypes/king|Re]] emblema di Notting [[motifs/hill|Hill]], dal nome di una piccola osteria [[house|pubblica]]
+[[archetypes/king|Re]] emblema di Notting [[motifs/hill|Hill]], dal nome di una piccola osteria pubblica
 del vicinato che egli un tempo frequentava.
 
 Fra le due file dei suoi seguaci avanzò verso il [[archetypes/king|Re]]
@@ -4147,7 +4147,7 @@ Lo si sarebbe detto bello, se non fosse stato per una certa indefinibile
 aria che il suo naso avesse di essere troppo grande per il volto, e i piedi
 per le gambe, il che gli conferiva un aspetto goffo e di estrema giovinezza.
 Le sue vesti erano rosse, secondo l'araldica del [[archetypes/king|Re]],
-e [[Alone|solo]] fra i Prevosti egli era cinto di una grande [[Sword|spada]].
+e solo fra i Prevosti egli era cinto di una grande spada.
 Costui era [[characters/adam-wayne|Adam Wayne]], l'intrattabile Prevosto di Notting [[motifs/hill|Hill]].
 
 Il [[archetypes/king|Re]] si lasciò ricadere all'indietro sulla sedia e si stropicciò le mani.
@@ -4174,7 +4174,7 @@ lo seguì in modo soffocato.  Ma i grandi occhi azzurri di [[characters/adam-way
 non mutarono, ed egli gridò con una strana voce fanciullesca per tutta la sala:
 
 «Reco omaggio al mio [[archetypes/king|Re]].  Gli reco l'unica cosa
-che ho... la mia [[Sword|spada]].»
+che ho... la mia spada.»
 
 E con un ampio gesto la gettò a terra, e si inginocchiò
 su un solo ginocchio dietro di essa.
@@ -4248,7 +4248,7 @@ altrui, mio Lord Buck,» disse il Prevosto Wayne.
 "They've sold dirtier things," said Wayne, calmly; "they have
 sold themselves."
 
-"It's no good, my Buckling," said the [[archetypes/king|King]], [[rolling]] about on
+"It's no good, my Buckling," said the [[archetypes/king|King]], rolling about on
 his chair.  "You can't cope with this chivalrous eloquence.
 You can't cope with an [[archetypes/artist|artist]].  You can't cope with the humourist
 of Notting [[motifs/hill|Hill]].  O, Nunc dimittis...that I have lived to see this day!
@@ -4286,14 +4286,14 @@ of the Cities.  Isn't it immense?"
 "Immense is no unworthy word for that glorious design."
 
 "Oh, hang you...but, of course, I see.  You want me to clear the room
-of these reasonable sows.  You want the two humourists [[Alone|alone]] together.
+of these reasonable sows.  You want the two humourists alone together.
 Leave us, gentlemen."
 
 Buck threw a sour look at Barker, and at a sullen signal the whole
 pageant of blue and green, of red, gold and purple rolled out
 of the room, leaving only two in the great hall, the [[archetypes/king|King]] sitting
 in his seat on the dais, and the red-clad figure still kneeling
-on the floor before his fallen [[Sword|sword]].
+on the floor before his fallen sword.
 
 The [[archetypes/king|King]] bounded down the steps and smacked Provost Wayne on the back.
 
@@ -4313,7 +4313,7 @@ but as dramatic critics.  Isn't it a joke?"
 [[characters/adam-wayne|Adam Wayne]] looked down like a boy, and answered in a constrained voice:
 
 "I do not understand your Majesty.  I cannot believe that while I
-fight for your royal charter your Majesty deserts me for these [[dogs]]
+fight for your royal charter your Majesty deserts me for these dogs
 of the gold hunt."
 
 "Oh, damn your...But what's this?  What the devil's this?"
@@ -4381,15 +4381,15 @@ high and honourable."
 
 "It was your Majesty who first stirred my dim patriotism into flame.
 Ten years ago, when I was a boy (I am only nineteen), I was playing
-on the slope of Pump Street, with a wooden [[Sword|sword]] and a paper helmet,
-dreaming of great wars.  In an angry trance I struck out with my [[Sword|sword]]
+on the slope of Pump Street, with a wooden sword and a paper helmet,
+dreaming of great wars.  In an angry trance I struck out with my sword
 and stood petrified, for I saw that I had struck you, Sire, my [[archetypes/king|King]],
 as you wandered in a noble secrecy, watching over your people's welfare.
 But I need have had no [[concepts/fear|fear]].  Then was I taught to understand kingliness.
 You neither shrank nor frowned.  You summoned no guards.
 You invoked no punishments.  But in august and burning words,
 which are written in my [[motifs/soul|soul]], never to be erased, you told me
-ever to turn my [[Sword|sword]] against the enemies of my inviolate [[motifs/city|city]].
+ever to turn my sword against the enemies of my inviolate [[motifs/city|city]].
 Like a priest pointing to the altar, you pointed to the [[motifs/hill|hill]] of Notting.
 ' So long,' you said, ' as you are ready to die for the sacred mountain,
 even if it were ringed with all the armies of Bayswater.'
@@ -4404,7 +4404,7 @@ ready to die."
 «Hanno venduto cose più sudicie,» disse Wayne, con calma; «hanno
 venduto se stessi.»
 
-«Non c'è niente da fare, mio Buckling,» disse il [[archetypes/king|Re]], [[rolling|rotolandosi]] sulla
+«Non c'è niente da fare, mio Buckling,» disse il [[archetypes/king|Re]], rotolandosi sulla
 sedia.  «Non potete tener testa a questa eloquenza cavalleresca.
 Non potete tener testa a un [[archetypes/artist|Artista]].  Non potete tener testa all'umorista
 di Notting [[motifs/hill|Hill]].  Oh, Nunc dimittis... che io abbia vissuto per vedere questo giorno!
@@ -4442,14 +4442,14 @@ delle Città.  Non è immensa?»
 «Immenso non è parola indegna per quel glorioso disegno.»
 
 «Oh, alla malora... ma, certo, capisco.  Volete che liberi la sala
-da queste scrofe ragionevoli.  Volete i due umoristi da [[Alone|soli]] insieme.
+da queste scrofe ragionevoli.  Volete i due umoristi da soli insieme.
 Lasciateci, signori.»
 
 Buck lanciò a Barker un'occhiata acida, e a un tetro segnale l'intero
 corteo azzurro e verde, rosso, oro e porpora defluì fuori
 dalla sala, lasciandone soltanto due nel grande salone: il [[archetypes/king|Re]] seduto
 al suo posto sul predellino, e la figura vestita di rosso ancora inginocchiata
-sul pavimento davanti alla sua [[Sword|spada]] caduta.
+sul pavimento davanti alla sua spada caduta.
 
 Il [[archetypes/king|Re]] balzò giù per i gradini e diede una pacca sulla schiena al Prevosto Wayne.
 
@@ -4469,7 +4469,7 @@ ma da critici drammatici.  Non è uno scherzo?»
 [[characters/adam-wayne|Adam Wayne]] abbassò lo sguardo come un ragazzo, e rispose con voce trattenuta:
 
 «Non capisco Vostra Maestà.  Non posso credere che, mentre io
-combatto per la vostra carta regale, Vostra Maestà mi abbandoni per questi [[dogs|cani]]
+combatto per la vostra carta regale, Vostra Maestà mi abbandoni per questi cani
 della caccia all'oro.»
 
 «Oh, che tu sia... Ma cos'è questo?  Che diavolo è questo?»
@@ -4537,15 +4537,15 @@ alto e onorevole.»
 
 «Fu Vostra Maestà a ridestare per primo il mio fioco patriottismo in fiamma.
 Dieci anni fa, quando ero ragazzo (ho solo diciannove anni), giocavo
-sul pendio di Pump Street, con una [[Sword|spada]] di legno e un elmo di carta,
-sognando grandi guerre.  In una collera di trance vibrai un colpo con la mia [[Sword|spada]]
+sul pendio di Pump Street, con una spada di legno e un elmo di carta,
+sognando grandi guerre.  In una collera di trance vibrai un colpo con la mia spada
 e restai impietrito, poiché vidi di aver colpito voi, Sire, mio [[archetypes/king|Re]],
 mentre vagavate in una nobile segretezza, vegliando sul bene del vostro popolo.
 Ma non avevo motivo di [[concepts/fear|temere]].  Allora mi fu insegnato a comprendere la regalità.
 Voi non vi ritraeste né vi accigliaste.  Non chiamaste guardie.
 Non invocaste castighi.  Ma con parole auguste e ardenti,
 che sono scritte nella mia [[motifs/soul|anima]], per non essere mai cancellate, mi diceste
-di rivolgere sempre la mia [[Sword|spada]] contro i nemici della mia inviolata [[motifs/city|città]].
+di rivolgere sempre la mia spada contro i nemici della mia inviolata [[motifs/city|città]].
 Come un sacerdote che addita l'altare, additaste la [[motifs/hill|collina]] di Notting.
 "Fintanto," diceste, "che sarai pronto a morire per la sacra montagna,
 anche se fosse cinta da tutte le armate di Bayswater."
@@ -4568,7 +4568,7 @@ I thought I would have a joke, and I have created a passion.
 I tried, to compose a burlesque, and it seems to be turning halfway
 through into an [[forms/epic|epic]].  What is to be done with such a world?
 In the Lord's name, wasn't the joke broad and bold enough?
-I abandoned my subtle [[Humour|humour]] to amuse you, and I seem to have brought
+I abandoned my subtle humour to amuse you, and I seem to have brought
 [[motifs/tears|tears]] to your eyes.  What's to be done with people when you write
 a pantomime for them...call the sausages classic festoons, and the
 policeman cut in two a [[forms/tragedy|tragedy]] of public duty?  But why am I talking?
@@ -4626,7 +4626,7 @@ Adam went on, his voice ringing in the roof.
 "This laughter with which men tyrannize is not the great power you
 think it.  Peter was crucified, and crucified head downwards.
 What could be funnier than the idea of a respectable old Apostle
-upside down?  What could be more in the style of your modern [[Humour|humour]]?
+upside down?  What could be more in the style of your modern humour?
 But what was the good of it?  Upside down or right side up,
 Peter was Peter to mankind.  Upside down he still hangs over Europe,
 and millions move and breathe only in the life of his church."
@@ -4653,7 +4653,7 @@ blaze with alternate [[concepts/hope|hope]] and [[concepts/fear|fear]]."
 
 Auberon was flicking [[motifs/dust|dust]] off his sleeve with quite a new seriousness
 on his face, distinct from the owlish solemnity which was the pose
-of his [[Humour|humour]].
+of his humour.
 
 "It is very difficult," he said at last.  "It is a damned
 difficult thing.  I see what you mean...I agree with you
@@ -4677,11 +4677,11 @@ but such thoughts are rather terrible."
 The Provost of Notting [[motifs/hill|Hill]] seemed to have fallen into a kind of trance;
 in his eyes was an elvish light.
 
-"I know of a [[Magic|magic]] wand, but it is a wand that only one or two may
+"I know of a magic wand, but it is a wand that only one or two may
 rightly use, and only seldom.  It is a fairy wand of great [[concepts/fear|fear]],
 stronger than those who use it...often frightful, often wicked to use.
 But whatever is touched with it is never again wholly common.
-Whatever is touched with it takes a [[Magic|magic]] from outside the world.
+Whatever is touched with it takes a magic from outside the world.
 If I touch, with this fairy wand, the railways and the roads of
 Notting [[motifs/hill|Hill]], men will [[motifs/love|love]] them, and be afraid of them for ever."
 
@@ -4699,7 +4699,7 @@ Credevo di fare uno scherzo, e ho creato una passione.
 Cercavo di comporre un burlesque, e pare che si stia trasformando, a metà
 strada, in un [[forms/epic|Epos]].  Che farne di un mondo simile?
 In nome del Signore, non era ampio e ardito abbastanza, lo scherzo?
-Ho abbandonato il mio sottile [[Humour|umorismo]] per divertirti, e pare che ti abbia strappato
+Ho abbandonato il mio sottile umorismo per divertirti, e pare che ti abbia strappato
 [[motifs/tears|lacrime]] dagli occhi.  Che farne della gente, quando scrivi
 una pantomima per essa... chiami le salsicce festoni classici, e il
 poliziotto tagliato in due una [[forms/tragedy|tragedia]] del pubblico dovere?  Ma perché parlo?
@@ -4757,7 +4757,7 @@ Adam proseguì, la voce che risuonava fino al soffitto.
 «Questa risata con cui gli uomini tiranneggiano non è il grande potere che voi
 credete.  Pietro fu crocifisso, e crocifisso a testa in giù.
 Che cosa poteva esservi di più buffo dell'idea di un rispettabile vecchio Apostolo
-a testa in giù?  Che cosa poteva esservi di più nello stile del vostro moderno [[Humour|umorismo]]?
+a testa in giù?  Che cosa poteva esservi di più nello stile del vostro moderno umorismo?
 Ma a che servì?  A testa in giù o dritto,
 Pietro fu Pietro per l'umanità.  A testa in giù, egli pende ancora sull'Europa,
 e milioni si muovono e respirano soltanto nella vita della sua chiesa.»
@@ -4784,7 +4784,7 @@ fiammeggiano alternando [[concepts/hope|speranza]] e [[concepts/fear|paura]].»
 
 Auberon si stava spazzando via la [[motifs/dust|polvere]] dalla manica con una serietà del tutto nuova
 sul volto, distinta dalla solennità da gufo che era la posa
-del suo [[Humour|umorismo]].
+del suo umorismo.
 
 «È molto difficile,» disse infine.  «È una cosa maledettamente
 difficile.  Capisco cosa intendete... concordo con voi
@@ -4808,11 +4808,11 @@ ma tali pensieri sono piuttosto terribili.»
 Il Prevosto di Notting [[motifs/hill|Hill]] pareva essere caduto in una sorta di trance;
 nei suoi occhi c'era una luce elfica.
 
-«Conosco una bacchetta [[Magic|magica]], ma è una bacchetta che solo uno o due possono
+«Conosco una bacchetta magica, ma è una bacchetta che solo uno o due possono
 usare rettamente, e solo di rado.  È una bacchetta fatata di grande [[concepts/fear|paura]],
 più forte di coloro che la usano... spesso spaventosa, spesso malvagia a usarsi.
 Ma qualunque cosa ne sia toccata non è mai più del tutto comune.
-Qualunque cosa ne sia toccata prende una [[Magic|magia]] da fuori del mondo.
+Qualunque cosa ne sia toccata prende una magia da fuori del mondo.
 Se io tocco, con questa bacchetta fatata, le ferrovie e le strade di
 Notting [[motifs/hill|Hill]], gli uomini le [[motifs/love|ameranno]], e ne avranno paura per sempre.»
 
@@ -4830,10 +4830,10 @@ The touch of it is the finger of a strange perfection."
 
 "What is your wand?" cried the [[archetypes/king|King]], impatiently.
 
-"There it is," said Wayne; and pointed to the floor, where his [[Sword|sword]]
+"There it is," said Wayne; and pointed to the floor, where his sword
 lay flat and shining.
 
-"The [[Sword|sword]]!" cried the [[archetypes/king|King]]; and sprang up straight on the dais.
+"The sword!" cried the [[archetypes/king|King]]; and sprang up straight on the dais.
 
 "Yes, yes," cried Wayne, hoarsely.  "The things touched by that are
 not vulgar.  The things touched by that..."
@@ -4858,7 +4858,7 @@ that it could really capture.  I think Buck and Barker and these rich
 vultures hurt the [[motifs/soul|soul]] of every man, hurt every inch of the ground,
 hurt every brick of the houses, that they can really capture.
 Do you think I have no right to fight for Notting [[motifs/hill|Hill]],
-you whose English [[government|Government]] has so often fought for tomfooleries?
+you whose English Government has so often fought for tomfooleries?
 If, as your rich friends say, there are no gods, and the skies
 are dark above us, what should a man fight for, but the place where
 he had the Eden of [[motifs/childhood|childhood]] and the short heaven of first [[motifs/love|love]]?
@@ -4880,7 +4880,7 @@ Auberon turned on Wayne with violence.
 
 "What the devil is all this?  What am I saying?  What are you saying?
 Have you hypnotized me?  Curse your [[concepts/uncanny|uncanny]] blue eyes!
-Let me go.  Give me back my sense of [[Humour|humour]].  Give it me back.
+Let me go.  Give me back my sense of humour.  Give it me back.
 Give it me back, I say!"
 
 "I solemnly assure you," said Wayne, uneasily, with a gesture,
@@ -4901,10 +4901,10 @@ Il suo tocco è il dito di una strana perfezione."
 
 "Qual è la tua bacchetta?" gridò il [[archetypes/king|Re]], spazientito.
 
-"Eccola," disse Wayne; e indicò il pavimento, dove la sua [[Sword|spada]]
+"Eccola," disse Wayne; e indicò il pavimento, dove la sua spada
 giaceva piatta e lucente.
 
-"La [[Sword|spada]]!" gridò il [[archetypes/king|Re]]; e balzò in piedi sulla pedana.
+"La spada!" gridò il [[archetypes/king|Re]]; e balzò in piedi sulla pedana.
 
 "Sì, sì," gridò Wayne, con voce rauca.  "Le cose toccate da quella non sono
 volgari.  Le cose toccate da quella..."
@@ -4929,7 +4929,7 @@ che potesse davvero conquistare.  Io penso che Buck e Barker e questi ricchi
 avvoltoi feriscano l'[[motifs/soul|anima]] di ogni uomo, feriscano ogni pollice del terreno,
 feriscano ogni mattone delle case, che possono davvero conquistare.
 Credi che io non abbia il diritto di combattere per Notting [[motifs/hill|Hill]],
-tu il cui [[government|Governo]] inglese ha così spesso combattuto per sciocchezze?
+tu il cui Governo inglese ha così spesso combattuto per sciocchezze?
 Se, come dicono i tuoi ricchi amici, non vi sono dèi, e i cieli
 sono oscuri sopra di noi, per che cosa dovrebbe combattere un uomo, se non
 per il luogo dove ebbe l'Eden dell'[[motifs/childhood|infanzia]] e il breve paradiso del primo [[motifs/love|amore]]?
@@ -4951,7 +4951,7 @@ Auberon si voltò contro Wayne con violenza.
 
 "Che diavolo è tutto questo?  Che cosa sto dicendo?  Che cosa stai dicendo?
 Mi hai ipnotizzato?  Maledetti i tuoi [[concepts/uncanny|inquietanti]] occhi azzurri!
-Lasciami andare.  Ridammi il mio senso dell'[[Humour|umorismo]].  Ridammelo.
+Lasciami andare.  Ridammi il mio senso dell'umorismo.  Ridammelo.
 Ridammelo, ti dico!"
 
 "Ti assicuro solennemente," disse Wayne, a disagio, con un gesto,
@@ -4972,8 +4972,8 @@ CHAPTER I
 
 THE MENTAL CONDITION OF [[characters/adam-wayne|ADAM WAYNE]]
 
-A LITTLE while after the [[archetypes/king|King]]'s accession a small book of [[Poems|poems]]
-appeared, called "Hymns of the [[motifs/hill|Hill]]."  They were not good [[Poems|poems]],
+A LITTLE while after the [[archetypes/king|King]]'s accession a small book of poems
+appeared, called "Hymns of the [[motifs/hill|Hill]]."  They were not good poems,
 nor was the book successful, but it attracted a certain amount of
 attention from one particular school of critics.  The [[archetypes/king|King]] himself,
 who was a member of the school, reviewed it in his capacity of
@@ -5070,7 +5070,7 @@ Here, somewhat abruptly, the review concluded, probably because the [[archetypes
 had to send off his copy at that moment, as he was in some want of money.
 But the [[archetypes/king|King]] was a very good critic, whatever he may have been as [[archetypes/king|King]],
 and he had, to a considerable extent, hit the right nail on the head.
-"Hymns on the [[motifs/hill|Hill]]" was not at all like the [[Poems|poems]] originally
+"Hymns on the [[motifs/hill|Hill]]" was not at all like the poems originally
 published in praise of the poetry of [[settings/london|London]].  And the reason
 was that it was really written by a man who had seen nothing else
 but [[settings/london|London]], and who regarded it, therefore, as the universe.
@@ -5103,8 +5103,8 @@ CAPITOLO I
 
 LA CONDIZIONE MENTALE DI [[characters/adam-wayne|ADAM WAYNE]]
 
-POCO dopo l'ascesa al trono del [[archetypes/king|Re]] apparve un piccolo libro di [[Poems|poesie]],
-intitolato «Inni della [[motifs/hill|Collina]]».  Non erano buone [[Poems|poesie]],
+POCO dopo l'ascesa al trono del [[archetypes/king|Re]] apparve un piccolo libro di poesie,
+intitolato «Inni della [[motifs/hill|Collina]]».  Non erano buone poesie,
 né il libro ebbe successo, ma attirò una certa dose di
 attenzione da parte di una particolare scuola di critici.  Lo stesso [[archetypes/king|Re]],
 che era membro della scuola, lo recensì nella sua veste di
@@ -5201,7 +5201,7 @@ Qui, in modo alquanto brusco, la recensione si concluse, probabilmente perché i
 doveva spedire la sua copia in quel momento, trovandosi in qualche ristrettezza di denaro.
 Ma il [[archetypes/king|Re]] era un ottimo critico, qualunque cosa fosse stato come [[archetypes/king|Re]],
 e aveva, in misura considerevole, colto nel segno.
-«Inni sulla [[motifs/hill|Collina]]» non somigliava affatto alle [[Poems|poesie]] originariamente
+«Inni sulla [[motifs/hill|Collina]]» non somigliava affatto alle poesie originariamente
 pubblicate in lode della poesia di [[settings/london|Londra]].  E la ragione
 era che era davvero stato scritto da un uomo che non aveva visto null'altro
 che [[settings/london|Londra]], e che perciò la considerava l'universo.
@@ -5254,7 +5254,7 @@ failure in literature that he became a portent in English [[concepts/history|his
 He was one of those to whom [[concepts/nature|nature]] has given the [[motifs/desire|desire]] without the power
 of artistic expression.  He had been a dumb poet from his cradle.
 He might have been so to his [[motifs/grave|grave]], and carried unuttered
-into the darkness a treasure of new and sensational [[Song|song]].
+into the darkness a treasure of new and sensational song.
 But he was born under the lucky star of a single coincidence.
 He happened to be at the head of his dingy municipality at
 the [[motifs/time|time]] of the [[archetypes/king|King]]'s jest, at the [[motifs/time|time]] when all municipalities
@@ -5280,16 +5280,16 @@ It exists, like other virtues and vices, in a certain undiluted reality.
 It is not confused with all kinds of other things.  A [[archetypes/child|child]] speaking
 of his country or his village may make every mistake in Mandeville
 or tell every lie in Munchausen, but in his statement there will be
-no psychological lies any more than there can be in a good [[Song|song]].
+no psychological lies any more than there can be in a good song.
 [[characters/adam-wayne|Adam Wayne]], as a boy, had for his dull streets in Notting [[motifs/hill|Hill]]
 the ultimate and ancient sentiment that went out to Athens or Jerusalem.
 He knew the secret of the passion, those [[motifs/secrets|secrets]] which make
-real old national [[songs]] sound so strange to our civilization.
+real old national songs sound so strange to our civilization.
 He knew that real patriotism tends to sing about sorrows and forlorn
 hopes much more than about victory.  He knew that in proper
-names themselves is half the poetry of all national [[Poems|poems]].
+names themselves is half the poetry of all national poems.
 Above all, he knew the supreme psychological fact about patriotism,
-as certain in connection with it as that a fine shame comes to all [[lovers]],
+as certain in connection with it as that a fine shame comes to all lovers,
 the fact that the patriot never under any circumstances boasts
 of the largeness of his country, but always, and of necessity,
 boasts of the smallness of it.
@@ -5300,7 +5300,7 @@ slum like Pump Street, can see a little Adam claiming to be [[archetypes/king|ki
 of a paving-stone. And he will always be proudest if the stone
 is almost too narrow for him to keep his feet inside it.
 
-It was while he was in such [[A Dream|a dream]] of defensive battle, marking out
+It was while he was in such a dream of defensive battle, marking out
 some strip of street or fortress of steps as the limit of his
 haughty claim, that the [[archetypes/king|King]] had met him, and, with a few words flung
 in mockery, ratified for ever the strange boundaries of his [[motifs/soul|soul]].
@@ -5332,7 +5332,7 @@ His friend, who was also a great intellectual admirer,
 looked at them painfully, but without any particular emotion.
 He was so troubled about it that he went back quite a large
 number of times on quiet evenings and stared at the railings,
-waiting for something to happen to his [[motifs/blood|blood]], but without [[success]].
+waiting for something to happen to his [[motifs/blood|blood]], but without success.
 At last he took refuge in asking Wayne himself.  He discovered
 that the ecstacy lay in the one point he had never noticed about
 the railings even after his six visits, the fact that they were
@@ -5374,7 +5374,7 @@ fallito nella letteratura che divenne un portento nella [[concepts/history|stori
 Era uno di quelli a cui la [[concepts/nature|natura]] ha dato il [[motifs/desire|desiderio]] senza il potere
 dell'espressione artistica.  Era stato un poeta muto fin dalla culla.
 Avrebbe potuto restarlo fino alla [[motifs/grave|tomba]], e portare inespresso
-nelle tenebre un tesoro di nuovo e sensazionale [[Song|canto]].
+nelle tenebre un tesoro di nuovo e sensazionale canto.
 Ma nacque sotto la fortunata stella di una singola coincidenza.
 Si trovò a essere a capo del suo squallido municipio al
 [[motifs/time|tempo]] dello scherzo del [[archetypes/king|Re]], al [[motifs/time|tempo]] in cui a tutti i municipi
@@ -5400,16 +5400,16 @@ Essa esiste, come le altre virtù e i vizi, in una certa realtà non diluita.
 Non si confonde con ogni sorta di altre cose.  Un [[archetypes/child|bambino]] che parli
 del proprio paese o del proprio villaggio può commettere ogni errore che è in Mandeville
 o dire ogni menzogna che è in Munchausen, ma nella sua affermazione non vi saranno
-menzogne psicologiche più di quante possano essercene in una bella [[Song|canzone]].
+menzogne psicologiche più di quante possano essercene in una bella canzone.
 [[characters/adam-wayne|Adam Wayne]], da ragazzo, nutriva per le sue squallide strade di Notting [[motifs/hill|Hill]]
 il sentimento ultimo e antico che si rivolgeva ad Atene o a Gerusalemme.
 Conosceva il segreto della passione, quei [[motifs/secrets|segreti]] che rendono
-i veri antichi [[songs|canti]] nazionali così strani alla nostra civiltà.
+i veri antichi canti nazionali così strani alla nostra civiltà.
 Sapeva che il vero patriottismo tende a cantare le sventure e le speranze
 perdute assai più che la vittoria.  Sapeva che nei nomi propri
-stessi sta metà della poesia di tutti i [[Poems|poemi]] nazionali.
+stessi sta metà della poesia di tutti i poemi nazionali.
 Soprattutto, conosceva il supremo fatto psicologico del patriottismo,
-altrettanto certo, in rapporto ad esso, quanto il fatto che una bella vergogna coglie tutti gli [[lovers|innamorati]]:
+altrettanto certo, in rapporto ad esso, quanto il fatto che una bella vergogna coglie tutti gli innamorati:
 il fatto che il patriota non si vanta mai, in nessuna circostanza,
 della grandezza del proprio paese, ma sempre, e per necessità,
 si vanta della sua piccolezza.
@@ -5420,7 +5420,7 @@ squallido come Pump Street, può vedere un piccolo Adam che pretende di essere [
 di un lastricato.  E sarà sempre più orgoglioso se la pietra
 è quasi troppo stretta perché egli vi tenga dentro i piedi.
 
-Fu mentre si trovava in [[A Dream|un sogno]] simile di battaglia difensiva, tracciando
+Fu mentre si trovava in un sogno simile di battaglia difensiva, tracciando
 qualche striscia di strada o fortezza di gradini come limite della sua
 altera pretesa, che il [[archetypes/king|Re]] lo aveva incontrato e, con poche parole lanciate
 per scherno, aveva ratificato per sempre gli strani confini della sua [[motifs/soul|anima]].
@@ -5452,7 +5452,7 @@ Il suo amico, che era anch'egli un grande ammiratore intellettuale,
 le guardò con pena, ma senza alcuna particolare emozione.
 Ne fu tanto turbato che vi tornò un buon
 numero di volte in tranquille serate e fissò le ringhiere,
-aspettando che qualcosa accadesse al suo [[motifs/blood|sangue]], ma senza [[success|successo]].
+aspettando che qualcosa accadesse al suo [[motifs/blood|sangue]], ma senza successo.
 Alla fine si rifugiò nel chiederlo a Wayne stesso.  Scoprì
 che l'estasi risiedeva nell'unico punto che non aveva mai notato riguardo alle
 ringhiere, nemmeno dopo le sue sei visite: il fatto che esse erano
@@ -5475,7 +5475,7 @@ lance gli ricordavano di tanto in tanto le ringhiere.
 
 A couple of days after his interview with the [[archetypes/king|King]], [[characters/adam-wayne|Adam Wayne]]
 was pacing like a caged [[motifs/lion|lion]] in front of five shops that occupied
-the upper end of the disputed street.  They were a [[grocer]]'s,
+the upper end of the disputed street.  They were a grocer's,
 a chemist's, a barber's, an old curiosity shop, and a toy-shop
 that sold also newspapers.  It was these five shops which his
 childish fastidiousness had first selected as the essentials
@@ -5484,7 +5484,7 @@ If Notting [[motifs/hill|Hill]] was the heart of the universe, and Pump Street
 was the heart of Notting [[motifs/hill|Hill]], this was the heart of Pump Street.
 The fact that they were all small and side by side realized that feeling
 for a formidable comfort and compactness which, as we have said,
-was the heart of his patriotism and of all patriotism.  The [[grocer]]
+was the heart of his patriotism and of all patriotism.  The grocer
 (who had a wine and spirit licence) was included because he could
 provision the garrison; the old curiosity shop because it contained
 enough swords, pistols, partisans, [[motifs/cross|cross]]-bows, and blunderbusses to arm
@@ -5505,7 +5505,7 @@ figure and eagle nose of [[characters/adam-wayne|Adam Wayne]].
 He swung his stick restlessly, and seemed fitfully talking to himself.
 
 "There are, after all, enigmas," he said, "even to the man who has [[concepts/faith|faith]].
-There are doubts that remain even after the true [[philosophy]]
+There are doubts that remain even after the true philosophy
 is completed in every rung and rivet.  And here is one of them.
 Is the normal human need, the normal human condition, higher or
 lower than those special spates of the [[motifs/soul|soul]] which call out a
@@ -5514,15 +5514,15 @@ or sacrifice which are made possible only by the existence of evil?
 Which should come first to our affections, the enduring sanities of peace
 or the half-maniacal virtues of battle?  Which should come first,
 the man great in the daily round or the man great in emergency?
-Which should come first, to return to the enigma before me, the [[grocer]]
+Which should come first, to return to the enigma before me, the grocer
 or the chemist?  Which is more certainly the stay of the [[motifs/city|city]],
-the swift chivalrous chemist or the benignant all-providing, [[grocer]]?
+the swift chivalrous chemist or the benignant all-providing, grocer?
 In such ultimate spiritual doubts it is only possible to choose
 a side by the higher instincts and to abide the issue.  In any case,
 I have made my choice.  May I be pardoned if I choose wrongly,
-but I choose the [[grocer]]."
+but I choose the grocer."
 
-"Good morning, sir," said the [[grocer]], who was a middle-aged man,
+"Good morning, sir," said the grocer, who was a middle-aged man,
 partially bald, with harsh red whiskers and beard, and forehead
 lined with all the cares of the small tradesman.  "What can I
 do for you, sir?"
@@ -5533,19 +5533,19 @@ with the beginnings of [[concepts/wonder|wonder]].
 
 "I come, sir," he said soberly, "to appeal to your patriotism."
 
-"Why, sir," said the [[grocer]], "that sounds like the times when I
+"Why, sir," said the grocer, "that sounds like the times when I
 was a boy and we used to have elections."
 
 "You will have them again," said Wayne, firmly, "and far greater things.
-Listen, Mr. Mead.  I know the temptations which a [[grocer]] has to a too
-cosmopolitan [[philosophy]].  I can imagine what it must be to sit all
+Listen, Mr. Mead.  I know the temptations which a grocer has to a too
+cosmopolitan philosophy.  I can imagine what it must be to sit all
 day as you do surrounded with wares from all the ends of the earth,
 from strange seas that we have never sailed and strange forests
 that we could not even picture.  No Eastern [[archetypes/king|king]] ever had such
 argosies or such cargoes coming from the sunrise and the sunset,
 and Solomon in all his glory was not enriched like one of you.
 India is at your elbow," he cried, lifting his voice and pointing his
-stick at a drawer of rice, the [[grocer]] making a movement of some alarm,
+stick at a drawer of rice, the grocer making a movement of some alarm,
 "China is before you, Demerara is behind you, [[settings/america|America]] is above
 your head, and at this very moment, like some old Spanish admiral,
 you hold Tunis in your hands."
@@ -5561,7 +5561,7 @@ like many tradesmen into too dusty and mechanical a narrowness,
 but rather to be too broad, to be too general, too liberal.
 If a narrow nationalism be the danger of the pastrycook who makes
 his own wares under his own heavens, no less is cosmopolitanism
-the danger of the [[grocer]].  But I come to you in the name of that
+the danger of the grocer.  But I come to you in the name of that
 patriotism which no wanderings or enlightenments should ever
 wholly extinguish, and I ask you to remember Notting [[motifs/hill|Hill]].
 For, after all, in this cosmopolitan magnificence, she has
@@ -5585,7 +5585,7 @@ from Notting [[motifs/hill|Hill]]."
 
 Un paio di giorni dopo il suo colloquio con il [[archetypes/king|Re]], [[characters/adam-wayne|Adam Wayne]]
 passeggiava avanti e indietro come un [[motifs/lion|leone]] in gabbia davanti a cinque negozi che occupavano
-l'estremità superiore della strada contesa.  Erano quelli di un [[grocer|droghiere]],
+l'estremità superiore della strada contesa.  Erano quelli di un droghiere,
 di un farmacista, di un barbiere, di un negozio di anticaglie, e di un negozio di giocattoli
 che vendeva anche giornali.  Furono questi cinque negozi che la sua
 fanciullesca meticolosità aveva per prima scelto come gli elementi essenziali
@@ -5594,7 +5594,7 @@ Se Notting [[motifs/hill|Hill]] era il cuore dell'universo, e Pump Street
 era il cuore di Notting [[motifs/hill|Hill]], questo era il cuore di Pump Street.
 Il fatto che fossero tutti piccoli e uno accanto all'altro realizzava quel sentimento
 di formidabile agio e compattezza che, come abbiamo detto,
-era il cuore del suo patriottismo e di ogni patriottismo.  Il [[grocer|droghiere]]
+era il cuore del suo patriottismo e di ogni patriottismo.  Il droghiere
 (che aveva la licenza per vino e liquori) fu incluso perché poteva
 approvvigionare la guarnigione; il negozio di anticaglie perché conteneva
 abbastanza spade, pistole, partigiane, [[motifs/cross|balestre]] e archibugi da armare
@@ -5615,7 +5615,7 @@ e il naso d'aquila di [[characters/adam-wayne|Adam Wayne]].
 Faceva ruotare inquieto il bastone, e pareva parlare a se stesso a scatti.
 
 "Vi sono, dopo tutto, degli enigmi," disse, "anche per l'uomo che ha [[concepts/faith|fede]].
-Vi sono dubbi che restano anche dopo che la vera [[philosophy|filosofia]]
+Vi sono dubbi che restano anche dopo che la vera filosofia
 è compiuta in ogni piolo e in ogni chiodo.  Ed eccone uno.
 Il normale bisogno umano, la normale condizione umana, è più alta o
 più bassa di quelle particolari piene dell'[[motifs/soul|anima]] che chiamano a raccolta una
@@ -5624,15 +5624,15 @@ o di sacrificio resi possibili solo dall'esistenza del male?
 Che cosa dovrebbe venire prima nei nostri affetti, le durevoli assennatezze della pace
 o le virtù semifolli della battaglia?  Che cosa dovrebbe venire prima,
 l'uomo grande nella routine quotidiana o l'uomo grande nell'emergenza?
-Che cosa dovrebbe venire prima, per tornare all'enigma che mi sta dinanzi, il [[grocer|droghiere]]
+Che cosa dovrebbe venire prima, per tornare all'enigma che mi sta dinanzi, il droghiere
 o il farmacista?  Chi è più sicuramente il sostegno della [[motifs/city|città]],
-lo svelto e cavalleresco farmacista o il benevolo droghiere che tutto provvede, il [[grocer|droghiere]]?
+lo svelto e cavalleresco farmacista o il benevolo droghiere che tutto provvede, il droghiere?
 In tali estremi dubbi spirituali è possibile scegliere
 una parte solo per mezzo degli istinti più alti e attenderne l'esito.  In ogni caso,
 ho fatto la mia scelta.  Che io sia perdonato se scelgo male,
-ma io scelgo il [[grocer|droghiere]]."
+ma io scelgo il droghiere."
 
-"Buongiorno, signore," disse il [[grocer|droghiere]], che era un uomo di mezza età,
+"Buongiorno, signore," disse il droghiere, che era un uomo di mezza età,
 parzialmente calvo, con ispidi favoriti e barba rossi, e la fronte
 solcata da tutte le preoccupazioni del piccolo commerciante.  "Che cosa posso
 fare per lei, signore?"
@@ -5643,19 +5643,19 @@ con i primi accenni di [[concepts/wonder|stupore]].
 
 "Vengo, signore," disse sobriamente, "a fare appello al suo patriottismo."
 
-"Ebbene, signore," disse il [[grocer|droghiere]], "ciò suona come ai tempi in cui io
+"Ebbene, signore," disse il droghiere, "ciò suona come ai tempi in cui io
 ero ragazzo e si tenevano le elezioni."
 
 "Ne avrà di nuovo," disse Wayne, con fermezza, "e cose ben più grandi.
-Ascolti, signor Mead.  Conosco le tentazioni cui un [[grocer|droghiere]] è esposto verso una troppo
-cosmopolita [[philosophy|filosofia]].  Immagino che cosa debba essere sedere tutto
+Ascolti, signor Mead.  Conosco le tentazioni cui un droghiere è esposto verso una troppo
+cosmopolita filosofia.  Immagino che cosa debba essere sedere tutto
 il giorno, come fa lei, circondato da mercanzie provenienti da tutti i confini della terra,
 da mari strani che non abbiamo mai solcato e strane foreste
 che non potremmo nemmeno raffigurarci.  Nessun [[archetypes/king|re]] d'Oriente ebbe mai simili
 flotte o simili carichi giungenti dall'alba e dal tramonto,
 e Salomone in tutta la sua gloria non era arricchito quanto uno di voi.
 L'India è al suo gomito," gridò, alzando la voce e puntando il suo
-bastone verso un cassetto di riso, mentre il [[grocer|droghiere]] faceva un gesto di qualche allarme,
+bastone verso un cassetto di riso, mentre il droghiere faceva un gesto di qualche allarme,
 "la Cina è davanti a lei, il Demerara è dietro di lei, l'[[settings/america|America]] è sopra
 il suo capo, e in questo preciso istante, come un vecchio ammiraglio spagnolo,
 lei tiene Tunisi nelle sue mani."
@@ -5671,7 +5671,7 @@ come molti commercianti in una ristrettezza troppo polverosa e meccanica,
 ma piuttosto di essere troppo ampio, troppo generale, troppo liberale.
 Se un angusto nazionalismo è il pericolo del pasticciere che fa
 le proprie mercanzie sotto il proprio cielo, non minore è il cosmopolitismo
-il pericolo del [[grocer|droghiere]].  Ma io vengo a lei nel nome di quel
+il pericolo del droghiere.  Ma io vengo a lei nel nome di quel
 patriottismo che nessun vagabondaggio o illuminismo dovrebbe mai
 spegnere del tutto, e le chiedo di ricordare Notting [[motifs/hill|Hill]].
 Poiché, dopo tutto, in questa magnificenza cosmopolita, essa ha
@@ -5695,7 +5695,7 @@ da Notting [[motifs/hill|Hill]]."
 <span class="atom-split" data-atom="chapter_07--part_04" data-title="Napoleon of Notting Hill — Chapter 1 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/pilgrim,motif/blood,motif/childhood,motif/city,motif/hill,motif/night,motif/pain,motif/soul,motif/supernatural,motif/uncanny,motif/water,concept/fear,concept/uncanny,character/adam_wayne"></span>
 
 
-The [[grocer]] sat for some little while, with dim eyes and his mouth open,
+The grocer sat for some little while, with dim eyes and his mouth open,
 looking rather like a fish.  Then he scratched the back of his head,
 and said nothing.  Then he said:
 
@@ -5706,18 +5706,18 @@ pine-apple chunks, he waved his stick generally towards them.
 
 "Yes," he said, "I'll take those."
 
-"All those, sir?" said the [[grocer]], with greatly increased interest.
+"All those, sir?" said the grocer, with greatly increased interest.
 
 "Yes, yes; all those," replied Wayne, still a little bewildered,
 like a man splashed with cold [[motifs/water|water]].
 
-"Very good, sir; thank you, sir," said the [[grocer]] with animation.
+"Very good, sir; thank you, sir," said the grocer with animation.
 "You may count upon my patriotism, sir."
 
 "I count upon it already," said Wayne, and passed out into
 the gathering [[motifs/night|night]].
 
-The [[grocer]] put the box of dates back in its place.
+The grocer put the box of dates back in its place.
 
 "What a nice fellow he is," he said.  "It's odd how often they are nice.
 Much nicer than those as are all right."
@@ -5726,8 +5726,8 @@ Meanwhile [[characters/adam-wayne|Adam Wayne]] stood outside the glowing chemist
 unmistakably wavering.
 
 "What a weakness it is," he muttered.  "I have never got
-rid of it from [[motifs/childhood|childhood]].  The [[concepts/fear|fear]] of this [[Magic|magic]] shop.
-The [[grocer]] is rich, he is romantic, he is poetical in the truest sense,
+rid of it from [[motifs/childhood|childhood]].  The [[concepts/fear|fear]] of this magic shop.
+The grocer is rich, he is romantic, he is poetical in the truest sense,
 but he is not...no, he is not [[motifs/supernatural|supernatural]].  But the chemist!
 All the other shops stand in Notting [[motifs/hill|Hill]], but this stands
 in Elf-land. Look at those great burning bowls of colour.
@@ -5746,7 +5746,7 @@ entirely business-like smile.
 somewhat forward.  "It is on such clear and mellow nights that your
 shop is most itself.  Then they appear most perfect, those moons
 of green and gold and crimson, which from afar, oft guide the [[archetypes/pilgrim|pilgrim]]
-of [[motifs/pain|pain]] and sickness to this [[house]] of merciful witchcraft."
+of [[motifs/pain|pain]] and sickness to this house of merciful witchcraft."
 
 "Can I get you anything?" asked the chemist.
 
@@ -5788,7 +5788,7 @@ and immediately said:
 "And the next article, please?"
 
 "Alum," said the Provost, wildly.  "I resume.  It is in this sacred town
-[[Alone|alone]] that your priesthood is reverenced.  Therefore, when you fight
+alone that your priesthood is reverenced.  Therefore, when you fight
 for us you fight not only for yourself, but for everything you typify.
 You fight not only for Notting [[motifs/hill|Hill]], but for Fairyland, for as surely
 as Buck and Barker and such men hold sway, the sense of Fairyland
@@ -5812,13 +5812,13 @@ glad to oblige a good customer."
 
 "It is so fortunate," he said, "to have tact, to be able to play
 upon the peculiar talents and specialities, the cosmopolitanism
-of the [[grocer]] and the world-old necromancy of the chemist.
+of the grocer and the world-old necromancy of the chemist.
 Where should I be without tact?"
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il [[grocer|droghiere]] rimase seduto per un breve momento, con gli occhi spenti e la bocca aperta,
+Il droghiere rimase seduto per un breve momento, con gli occhi spenti e la bocca aperta,
 somigliando piuttosto a un pesce.  Poi si grattò la nuca,
 e non disse nulla.  Poi disse:
 
@@ -5829,18 +5829,18 @@ pezzi d'ananas, agitò il bastone genericamente verso di esse.
 
 "Sì," disse, "prenderò quelle."
 
-"Tutte quelle, signore?" disse il [[grocer|droghiere]], con interesse assai accresciuto.
+"Tutte quelle, signore?" disse il droghiere, con interesse assai accresciuto.
 
 "Sì, sì; tutte quelle," rispose Wayne, ancora un po' frastornato,
 come un uomo spruzzato d'[[motifs/water|acqua]] fredda.
 
-"Benissimo, signore; grazie, signore," disse il [[grocer|droghiere]] con animazione.
+"Benissimo, signore; grazie, signore," disse il droghiere con animazione.
 "Può contare sul mio patriottismo, signore."
 
 "Ci conto già," disse Wayne, e uscì nella
 [[motifs/night|notte]] che si addensava.
 
-Il [[grocer|droghiere]] rimise a posto la scatola di datteri.
+Il droghiere rimise a posto la scatola di datteri.
 
 "Che bravo tipo," disse.  "È strano quanto spesso siano bravi.
 Molto più bravi di quelli che sono a posto."
@@ -5849,8 +5849,8 @@ Intanto [[characters/adam-wayne|Adam Wayne]] stava fuori dalla farmacia luminosa
 inequivocabilmente esitante.
 
 "Che debolezza è mai questa," mormorò.  "Non me ne sono mai
-liberato fin dall'[[motifs/childhood|infanzia]].  La [[concepts/fear|paura]] di questa bottega [[Magic|magica]].
-Il [[grocer|droghiere]] è ricco, è romantico, è poetico nel senso più vero,
+liberato fin dall'[[motifs/childhood|infanzia]].  La [[concepts/fear|paura]] di questa bottega magica.
+Il droghiere è ricco, è romantico, è poetico nel senso più vero,
 ma non è... no, non è [[motifs/supernatural|soprannaturale]].  Ma il farmacista!
 Tutti gli altri negozi stanno a Notting [[motifs/hill|Hill]], ma questo sta
 nel Paese degli Elfi.  Guardate quelle grandi coppe ardenti di colore.
@@ -5869,7 +5869,7 @@ del tutto professionale.
 le mani in avanti.  "È in notti così limpide e dolci che la vostra
 bottega è più se stessa.  Allora appaiono più perfette quelle lune
 di verde e d'oro e di cremisi che, di lontano, spesso guidano il [[archetypes/pilgrim|pellegrino]]
-del [[motifs/pain|dolore]] e della malattia a questa [[house|casa]] di misericordiosa stregoneria."
+del [[motifs/pain|dolore]] e della malattia a questa casa di misericordiosa stregoneria."
 
 "Posso darle qualcosa?" chiese il farmacista.
 
@@ -5911,7 +5911,7 @@ e subito disse:
 "E il prossimo articolo, prego?"
 
 "Allume," disse il Prevosto, follemente.  "Riprendo.  È in questa sacra città
-[[Alone|soltanto]] che il vostro sacerdozio è riverito.  Perciò, quando combattete
+soltanto che il vostro sacerdozio è riverito.  Perciò, quando combattete
 per noi non combattete solo per voi stessi, ma per tutto ciò che voi simboleggiate.
 Non combattete solo per Notting [[motifs/hill|Hill]], ma per il Paese delle Fate, poiché tanto sicuramente
 quanto Buck e Barker e simili uomini avranno il dominio, il senso del Paese delle Fate
@@ -5935,7 +5935,7 @@ lieti di accontentare un buon cliente."
 
 "È così fortunato," disse, "avere tatto, poter far leva
 sui talenti e le specialità peculiari, sul cosmopolitismo
-del [[grocer|droghiere]] e sull'antichissima negromanzia del farmacista.
+del droghiere e sull'antichissima negromanzia del farmacista.
 Dove sarei senza il tatto?"
 
 
@@ -5976,7 +5976,7 @@ of this age, as I have felt it from my cradle.  I sometimes wondered
 how many other people felt the oppression of this [[concepts/union|union]] between quietude
 and terror.  I see blank [[motifs/well|well]]-ordered streets, and men in black
 moving about inoffensively, sullenly.  It goes on day after day,
-day after day, and nothing happens; but to me it is like [[A Dream|a dream]]
+day after day, and nothing happens; but to me it is like a dream
 from which I might awake screaming.  To me the straightness
 of our life is the straightness of a thin cord stretched tight.
 Its stillness is terrible.  It might snap with a noise like thunder.
@@ -5997,7 +5997,7 @@ of modernity will last, though I think for the present it will increase.
 What a farce is this modern liberality.  [[concepts/freedom|Freedom]] of speech means
 practically in our modern civilization that we must only talk
 about unimportant things.  We must not talk about religion, for that
-is illiberal; we must not talk about bread and [[cheese]], for that is
+is illiberal; we must not talk about bread and cheese, for that is
 talking shop; we must not talk about [[motifs/death|death]], for that is depressing;
 we must not talk about birth, for that is indelicate.  It cannot last.
 Something must break this strange indifference, this strange
@@ -6014,7 +6014,7 @@ attached any meaning.
 quite know what to be either."
 
 "Why not," said Wayne, gently having reached the crisis of his
-delicate [[Persuasion|persuasion]] "why not be a Colonel?"
+delicate persuasion "why not be a Colonel?"
 
 It was at this point, in all probability, that the interview
 began to yield more disappointing results.  The man appeared
@@ -6022,7 +6022,7 @@ inclined at first to regard the suggestion of becoming a Colonel
 as outside the sphere of immediate and relevant discussion.
 A long exposition of the inevitable war of independence,
 coupled with the purchase of a doubtful sixteenth-century
-[[Sword|sword]] for an exaggerated price, seemed to resettle matters.
+sword for an exaggerated price, seemed to resettle matters.
 Wayne left the shop, however, somewhat infected with the [[concepts/melancholy|melancholy]]
 of its owner.
 
@@ -6048,7 +6048,7 @@ any of your sort here.  You get out."
 And he came forward with the desperate annoyance of a mild
 person when enraged.
 
-[[characters/adam-wayne|Adam Wayne]] laid his hand for a moment on the [[Sword|sword]], then dropped it.
+[[characters/adam-wayne|Adam Wayne]] laid his hand for a moment on the sword, then dropped it.
 
 "Notting [[motifs/hill|Hill]]," he said, "will need her bolder sons;" and he turned
 gloomily to the toy-shop.
@@ -6088,19 +6088,19 @@ La sua conversazione con l'uomo che teneva la bottega di curiosità era comincia
 
 Gli occhi di Wayne brillarono d'improvviso.
 
-«Un gran detto», disse, «degno di un uomo la cui merce è la [[concepts/history|storia]] umana. Terribilmente quiete: ecco in due parole lo spirito di questa età, come l'ho sentito fin dalla culla. Talvolta mi chiedevo quante altre persone sentissero l'oppressione di questa [[concepts/union|unione]] tra la quiete e il terrore. Vedo vuote strade [[motifs/well|ben]] ordinate, e uomini vestiti di nero che si muovono inoffensivi, imbronciati. Va avanti giorno dopo giorno, giorno dopo giorno, e non accade nulla; ma per me è come [[A Dream|un sogno]] da cui potrei destarmi urlando. Per me la rettitudine della nostra vita è la rettitudine di una fune sottile tesa allo spasimo. La sua immobilità è terribile. Potrebbe spezzarsi con un fragore di tuono. E voi che sedete, tra le macerie delle grandi guerre, voi che sedete, per così dire, su un [[settings/battlefield|campo di battaglia]], sapete che la guerra era meno terribile di questa pace maligna; sapete che i giovani sfaccendati che portavano quelle spade sotto Francesco o Elisabetta, il rozzo Cavaliere o Barone che roteava quella mazza nelle battaglie di Piccardia o del Northumberland, potevano essere terribilmente rumorosi, ma non erano, come noi, terribilmente quieti.»
+«Un gran detto», disse, «degno di un uomo la cui merce è la [[concepts/history|storia]] umana. Terribilmente quiete: ecco in due parole lo spirito di questa età, come l'ho sentito fin dalla culla. Talvolta mi chiedevo quante altre persone sentissero l'oppressione di questa [[concepts/union|unione]] tra la quiete e il terrore. Vedo vuote strade [[motifs/well|ben]] ordinate, e uomini vestiti di nero che si muovono inoffensivi, imbronciati. Va avanti giorno dopo giorno, giorno dopo giorno, e non accade nulla; ma per me è come un sogno da cui potrei destarmi urlando. Per me la rettitudine della nostra vita è la rettitudine di una fune sottile tesa allo spasimo. La sua immobilità è terribile. Potrebbe spezzarsi con un fragore di tuono. E voi che sedete, tra le macerie delle grandi guerre, voi che sedete, per così dire, su un [[settings/battlefield|campo di battaglia]], sapete che la guerra era meno terribile di questa pace maligna; sapete che i giovani sfaccendati che portavano quelle spade sotto Francesco o Elisabetta, il rozzo Cavaliere o Barone che roteava quella mazza nelle battaglie di Piccardia o del Northumberland, potevano essere terribilmente rumorosi, ma non erano, come noi, terribilmente quieti.»
 
 Se fosse un lieve imbarazzo di [[concepts/conscience|coscienza]] circa la fonte e la data originarie delle armi cui si alludeva, o semplicemente una depressione radicata, il custode del passato appariva, semmai, un po' più preoccupato.
 
-«Ma non credo», proseguì Wayne, «che questo orribile [[motifs/silence|silenzio]] della modernità durerà, benché per ora, penso, aumenterà. Che farsa è questa liberalità moderna. La [[concepts/freedom|Libertà]] di parola significa in pratica, nella nostra civiltà moderna, che dobbiamo parlare soltanto di cose senza importanza. Non dobbiamo parlare di religione, perché è illiberale; non dobbiamo parlare di pane e [[cheese|formaggio]], perché è parlar di mestiere; non dobbiamo parlare della [[motifs/death|morte]], perché è deprimente; non dobbiamo parlare della nascita, perché è indelicato. Non può durare. Qualcosa deve spezzare questa strana indifferenza, questo strano egoismo sognante, questa strana [[concepts/loneliness|solitudine]] di milioni in mezzo a una folla. Qualcosa deve spezzarla. Perché non dovremmo essere io e voi? Non sapete far altro che custodire reliquie?»
+«Ma non credo», proseguì Wayne, «che questo orribile [[motifs/silence|silenzio]] della modernità durerà, benché per ora, penso, aumenterà. Che farsa è questa liberalità moderna. La [[concepts/freedom|Libertà]] di parola significa in pratica, nella nostra civiltà moderna, che dobbiamo parlare soltanto di cose senza importanza. Non dobbiamo parlare di religione, perché è illiberale; non dobbiamo parlare di pane e formaggio, perché è parlar di mestiere; non dobbiamo parlare della [[motifs/death|morte]], perché è deprimente; non dobbiamo parlare della nascita, perché è indelicato. Non può durare. Qualcosa deve spezzare questa strana indifferenza, questo strano egoismo sognante, questa strana [[concepts/loneliness|solitudine]] di milioni in mezzo a una folla. Qualcosa deve spezzarla. Perché non dovremmo essere io e voi? Non sapete far altro che custodire reliquie?»
 
 Il bottegaio aveva un'espressione che gradualmente si rischiarava, la quale avrebbe indotto chi non simpatizzasse con la causa del [[motifs/lion|Leone]] Rosso a pensare che l'ultima frase fosse l'unica a cui egli avesse attribuito un qualche senso.
 
 «Sono piuttosto vecchio per mettermi in un affare nuovo», disse, «e non so nemmeno bene che cosa fare.»
 
-«Perché no», disse Wayne, avendo con dolcezza raggiunto il culmine della sua delicata [[Persuasion|persuasione]], «perché non fare il Colonnello?»
+«Perché no», disse Wayne, avendo con dolcezza raggiunto il culmine della sua delicata persuasione, «perché non fare il Colonnello?»
 
-Fu a questo punto, con ogni probabilità, che il colloquio cominciò a dare esiti più deludenti. L'uomo parve dapprima incline a considerare la proposta di diventare Colonnello come esterna alla sfera della discussione immediata e pertinente. Una lunga esposizione dell'inevitabile guerra d'indipendenza, unita all'acquisto di una dubbia [[Sword|spada]] del Cinquecento a un prezzo esagerato, parve rimettere le cose a posto. Wayne lasciò la bottega, tuttavia, alquanto contagiato dalla [[concepts/melancholy|malinconia]] del suo proprietario.
+Fu a questo punto, con ogni probabilità, che il colloquio cominciò a dare esiti più deludenti. L'uomo parve dapprima incline a considerare la proposta di diventare Colonnello come esterna alla sfera della discussione immediata e pertinente. Una lunga esposizione dell'inevitabile guerra d'indipendenza, unita all'acquisto di una dubbia spada del Cinquecento a un prezzo esagerato, parve rimettere le cose a posto. Wayne lasciò la bottega, tuttavia, alquanto contagiato dalla [[concepts/melancholy|malinconia]] del suo proprietario.
 
 Quella [[concepts/melancholy|malinconia]] fu completata dal barbiere.
 
@@ -6116,7 +6116,7 @@ Quella [[concepts/melancholy|malinconia]] fu completata dal barbiere.
 
 E si fece avanti con la disperata irritazione di una persona mite quando è esasperata.
 
-[[characters/adam-wayne|Adam Wayne]] posò per un istante la mano sulla [[Sword|spada]], poi la lasciò ricadere.
+[[characters/adam-wayne|Adam Wayne]] posò per un istante la mano sulla spada, poi la lasciò ricadere.
 
 «Notting [[motifs/hill|Hill]]», disse, «avrà bisogno dei suoi figli più arditi»; e si volse cupamente verso il negozio di giocattoli.
 
@@ -6131,7 +6131,7 @@ Si accostò al banco con una depressione che rapidamente vinse mentre si rivolge
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/death,motif/desire,motif/garden,motif/hill,motif/memory,motif/pain,motif/stars,motif/time,concept/beauty,concept/doubt,concept/immortality,concept/wonder"></span>
 
 
-"Sir," said Wayne, "I am going from [[house]] to [[house]] in this street of ours,
+"Sir," said Wayne, "I am going from house to house in this street of ours,
 seeking to stir up some sense of the danger which now threatens
 our [[motifs/city|city]].  Nowhere have I felt my duty so difficult as here.
 For the toy-shop keeper has to do with all that remains to us of Eden
@@ -6149,7 +6149,7 @@ instinct older than the destructive.  You keep dolls; you make
 yourself the priest of that divine idolatry.  You keep Noah's Arks;
 you perpetuate the [[motifs/memory|memory]] of the salvation of all life as a precious,
 an irreplaceable thing.  But do you keep only, sir, the symbols
-of this prehistoric [[Sanity|sanity]], this childish rationality of the earth?
+of this prehistoric sanity, this childish rationality of the earth?
 Do you not keep more terrible things?  What are those boxes,
 seemingly of lead soldiers, that I see in that glass case?
 Are they not witnesses to that terror and [[concepts/beauty|beauty]], that [[motifs/desire|desire]] for a
@@ -6160,7 +6160,7 @@ of Eden?  Do not despise the lead soldiers, Mr. Turnbull."
 but with great emphasis.
 
 "I am glad to hear it," replied Wayne.  "I confess that I feared
-for my military schemes the awful [[innocence]] of your profession.
+for my military schemes the awful innocence of your profession.
 How, I thought to myself, will this man, used only to the wooden
 swords that give pleasure, think of the steel swords that give [[motifs/pain|pain]]?
 But I am at least partly reassured.  Your tone suggests to me that I have
@@ -6267,11 +6267,11 @@ It seems to interest you too."
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Signore», disse Wayne, «vado di [[house|casa]] in [[house|casa]] in questa nostra strada, cercando di destare qualche senso del pericolo che ora minaccia la nostra [[motifs/city|città]]. In nessun luogo ho sentito il mio dovere così difficile come qui. Poiché il negoziante di giocattoli ha a che fare con tutto ciò che ci resta dell'Eden prima che cominciassero le prime guerre. Voi sedete qui a meditare di continuo sui desideri di quel meraviglioso [[motifs/time|tempo]] in cui ogni scala conduce alle [[motifs/stars|stelle]], e ogni sentiero di [[motifs/garden|giardino]] all'altro capo del nulla. È forse con leggerezza, credete, che io batto il cupo antico tamburo del pericolo nel paradiso dei bambini? Ma considerate un istante; non condannatemi in fretta. Perfino quel paradiso stesso racchiude la voce o il principio di quel pericolo, proprio come l'Eden che fu fatto per la perfezione racchiudeva l'albero terribile. Perché giudicate l'[[motifs/childhood|infanzia]], anche dal vostro stesso arsenale dei suoi piaceri. Voi tenete mattoncini; vi fate così, senza dubbio, testimone dell'istinto costruttivo, più antico del distruttivo. Voi tenete bambole; vi fate sacerdote di quella divina idolatria. Voi tenete Arche di Noè; perpetuate la [[motifs/memory|memoria]] della salvezza di ogni vita come una cosa preziosa, insostituibile. Ma tenete soltanto, signore, i simboli di questa preistorica [[Sanity|saggezza]], di questa infantile razionalità della terra? Non tenete cose più terribili? Cosa sono quelle scatole, apparentemente di soldatini di piombo, che vedo in quella vetrina? Non sono forse testimoni di quel terrore e di quella [[concepts/beauty|bellezza]], di quel [[motifs/desire|desiderio]] di una [[motifs/death|morte]] leggiadra, che non poté essere escluso nemmeno dall'[[concepts/immortality|immortalità]] dell'Eden? Non disprezzate i soldatini di piombo, Mr. Turnbull.»
+«Signore», disse Wayne, «vado di casa in casa in questa nostra strada, cercando di destare qualche senso del pericolo che ora minaccia la nostra [[motifs/city|città]]. In nessun luogo ho sentito il mio dovere così difficile come qui. Poiché il negoziante di giocattoli ha a che fare con tutto ciò che ci resta dell'Eden prima che cominciassero le prime guerre. Voi sedete qui a meditare di continuo sui desideri di quel meraviglioso [[motifs/time|tempo]] in cui ogni scala conduce alle [[motifs/stars|stelle]], e ogni sentiero di [[motifs/garden|giardino]] all'altro capo del nulla. È forse con leggerezza, credete, che io batto il cupo antico tamburo del pericolo nel paradiso dei bambini? Ma considerate un istante; non condannatemi in fretta. Perfino quel paradiso stesso racchiude la voce o il principio di quel pericolo, proprio come l'Eden che fu fatto per la perfezione racchiudeva l'albero terribile. Perché giudicate l'[[motifs/childhood|infanzia]], anche dal vostro stesso arsenale dei suoi piaceri. Voi tenete mattoncini; vi fate così, senza dubbio, testimone dell'istinto costruttivo, più antico del distruttivo. Voi tenete bambole; vi fate sacerdote di quella divina idolatria. Voi tenete Arche di Noè; perpetuate la [[motifs/memory|memoria]] della salvezza di ogni vita come una cosa preziosa, insostituibile. Ma tenete soltanto, signore, i simboli di questa preistorica saggezza, di questa infantile razionalità della terra? Non tenete cose più terribili? Cosa sono quelle scatole, apparentemente di soldatini di piombo, che vedo in quella vetrina? Non sono forse testimoni di quel terrore e di quella [[concepts/beauty|bellezza]], di quel [[motifs/desire|desiderio]] di una [[motifs/death|morte]] leggiadra, che non poté essere escluso nemmeno dall'[[concepts/immortality|immortalità]] dell'Eden? Non disprezzate i soldatini di piombo, Mr. Turnbull.»
 
 «Non li disprezzo», disse Mr. Turnbull, del negozio di giocattoli, in breve, ma con grande enfasi.
 
-«Sono lieto di sentirlo», rispose Wayne. «Confesso che temevo per i miei disegni militari la spaventosa [[innocence|innocenza]] della vostra professione. Come, mi dicevo, penserà quest'uomo, avvezzo solo alle spade di legno che danno piacere, alle spade d'acciaio che danno [[motifs/pain|dolore]]? Ma sono almeno in parte rassicurato. Il vostro tono mi suggerisce che ho almeno l'accesso a una porta della vostra terra fatata... la porta attraverso cui entrano i soldati, giacché non si può negare... non dovrei, signore, più negare che è di soldati che vengo a parlare. Che la vostra gentile occupazione vi renda misericordioso verso i mali del mondo. Che la vostra stessa argentea esperienza smorzi i nostri sanguigni dolori. Poiché c'è guerra a Notting [[motifs/hill|Hill]].»
+«Sono lieto di sentirlo», rispose Wayne. «Confesso che temevo per i miei disegni militari la spaventosa innocenza della vostra professione. Come, mi dicevo, penserà quest'uomo, avvezzo solo alle spade di legno che danno piacere, alle spade d'acciaio che danno [[motifs/pain|dolore]]? Ma sono almeno in parte rassicurato. Il vostro tono mi suggerisce che ho almeno l'accesso a una porta della vostra terra fatata... la porta attraverso cui entrano i soldati, giacché non si può negare... non dovrei, signore, più negare che è di soldati che vengo a parlare. Che la vostra gentile occupazione vi renda misericordioso verso i mali del mondo. Che la vostra stessa argentea esperienza smorzi i nostri sanguigni dolori. Poiché c'è guerra a Notting [[motifs/hill|Hill]].»
 
 Il piccolo negoziante di giocattoli balzò in piedi d'improvviso, battendo le grasse mani come due ventagli sul banco.
 
@@ -6376,7 +6376,7 @@ What did you do with it?"
 "Ah, that is rather interesting!" replied Turnbull, with his mouth full.
 "I used that five pounds in a kindly and philanthropic act."
 
-Wayne was gazing with [[Mystification|mystification]] in his queer and [[archetypes/innocent|innocent]] eyes.
+Wayne was gazing with mystification in his queer and [[archetypes/innocent|innocent]] eyes.
 
 "I used that five pounds," continued the other, "in giving no less
 than forty little [[settings/london|London]] boys rides in hansom cabs."
@@ -6399,7 +6399,7 @@ really goes with the assistance of nonsense and good meals.
 Stripped of its decorative beauties, my statement was strictly accurate.
 Last [[motifs/night|night]] I gave forty half-crowns to forty little boys,
 and sent them all over [[settings/london|London]] to take hansom cabs.  I told them
-in every case to tell the [[cabman]] to bring them to this spot.
+in every case to tell the cabman to bring them to this spot.
 In half an hour from now the declaration of war will be posted up.
 At the same [[motifs/time|time]] the cabs will have begun to come in, you will have
 ordered out the guard, the little boys will drive up in state,
@@ -6447,7 +6447,7 @@ Turnbull annuì e ficcò la testa nel boccale.
 
 «Ah, questa è cosa piuttosto interessante!» rispose Turnbull, con la bocca piena. «Ho usato quelle cinque sterline in un atto benevolo e filantropico.»
 
-Wayne fissava con [[Mystification|perplessità]] nei suoi occhi strani e [[archetypes/innocent|innocenti]].
+Wayne fissava con perplessità nei suoi occhi strani e [[archetypes/innocent|innocenti]].
 
 «Ho usato quelle cinque sterline», proseguì l'altro, «per offrire a non meno di quaranta ragazzini di [[settings/london|Londra]] giri in vetture da nolo.»
 
@@ -6457,7 +6457,7 @@ Wayne fissava con [[Mystification|perplessità]] nei suoi occhi strani e [[arche
 
 «Pazzo!» disse Wayne, posando la matita; «e cinque sterline andate!»
 
-«Siete in errore», spiegò Turnbull. «Voi creature [[motifs/grave|serie]] non potrete mai essere portate a capire quanto più svelto proceda il lavoro con l'aiuto delle sciocchezze e dei buoni pasti. Spogliata delle sue bellezze decorative, la mia affermazione era rigorosamente esatta. Ieri [[motifs/night|notte]] ho dato quaranta mezze corone a quaranta ragazzini, e li ho mandati per tutta [[settings/london|Londra]] a prendere vetture da nolo. In ogni caso ho detto loro di dire al [[cabman|vetturino]] di portarli in questo punto. Fra mezz'ora da adesso sarà affissa la dichiarazione di guerra. Nello stesso [[motifs/time|tempo]] le vetture avranno cominciato ad arrivare, voi avrete fatto uscire la guardia, i ragazzini arriveranno in pompa magna, requisiremo i cavalli per la cavalleria, useremo le vetture per la barricata, e daremo agli uomini la scelta tra servire nelle nostre file e la detenzione nei nostri seminterrati e cantine. I ragazzini possiamo usarli come esploratori. La cosa principale è che iniziamo la guerra con un vantaggio ignoto a tutti gli altri eserciti... i cavalli. E ora», disse, finendo la birra, «andrò ad addestrare le truppe.»
+«Siete in errore», spiegò Turnbull. «Voi creature [[motifs/grave|serie]] non potrete mai essere portate a capire quanto più svelto proceda il lavoro con l'aiuto delle sciocchezze e dei buoni pasti. Spogliata delle sue bellezze decorative, la mia affermazione era rigorosamente esatta. Ieri [[motifs/night|notte]] ho dato quaranta mezze corone a quaranta ragazzini, e li ho mandati per tutta [[settings/london|Londra]] a prendere vetture da nolo. In ogni caso ho detto loro di dire al vetturino di portarli in questo punto. Fra mezz'ora da adesso sarà affissa la dichiarazione di guerra. Nello stesso [[motifs/time|tempo]] le vetture avranno cominciato ad arrivare, voi avrete fatto uscire la guardia, i ragazzini arriveranno in pompa magna, requisiremo i cavalli per la cavalleria, useremo le vetture per la barricata, e daremo agli uomini la scelta tra servire nelle nostre file e la detenzione nei nostri seminterrati e cantine. I ragazzini possiamo usarli come esploratori. La cosa principale è che iniziamo la guerra con un vantaggio ignoto a tutti gli altri eserciti... i cavalli. E ora», disse, finendo la birra, «andrò ad addestrare le truppe.»
 
 E uscì dalla latteria, lasciando il Prevosto a fissare il vuoto.
 
@@ -6487,7 +6487,7 @@ but the button of the Club of Old Clipper's Best Pals,
 a decoration obtained (with difficulty) from a halfpenny boy's paper.
 Thus also it happened that the only spot of colour in the room
 was [[characters/adam-wayne|Adam Wayne]], who entered in great dignity with the great red
-robes and the great [[Sword|sword]].
+robes and the great sword.
 
 "We have met," said Auberon, "to decide the most arduous of
 modern problems.  May we be successful."  And he sat down gravely.
@@ -6513,7 +6513,7 @@ to stand out for a bigger price, but you aren't doing that.
 You're refusing what you and every sane man know to be a splendid
 offer simply from malice or spite...it must be malice or spite.
 And that kind of thing is really criminal; it's against the public good;
-The [[archetypes/king|King]]'s [[government|Government]] would be justified in forging you."
+The [[archetypes/king|King]]'s Government would be justified in forging you."
 
 With his lean fingers spread on the table he stared anxiously
 at Wayne's face, which did not move.
@@ -6540,12 +6540,12 @@ up his children to run naked in the street, as do what you say you
 have a right to do.  People have been compelled to sell before now.
 The [[archetypes/king|King]] could compel you, and I [[concepts/hope|hope]] he will."
 
-"Until he does," said Wayne, calmly, "the power and [[government]]
+"Until he does," said Wayne, calmly, "the power and government
 of this great nation is on my side and not yours, and I defy you
 to defy it."
 
 "In what sense," cried Barker, with his feverish eyes and hands,
-"is the [[government|Government]] on your side?"
+"is the Government on your side?"
 
 With one ringing movement Wayne unrolled a great parchment on the table.
 It was decorated down the sides with wild [[motifs/water|water]]-colour sketches
@@ -6611,7 +6611,7 @@ CAPITOLO III
 
 L'ESPERIMENTO DI MR. BUCK
 
-UN'accorata ed eloquente petizione fu inoltrata al [[archetypes/king|Re]] firmata coi nomi di Wilson, Barker, Buck, Swindon e altri. Vi si sosteneva che, all'imminente conferenza da tenersi alla presenza di Sua Maestà circa la definitiva destinazione della proprietà di Pump Street, non si sarebbe ritenuto incompatibile col decoro politico e con l'indicibile rispetto che essi nutrivano per Sua Maestà se fossero comparsi in ordinario abito da mattina, senza il costume decretato per loro come Prevosti. Così accadde che la compagnia comparve a quel consiglio in redingote e che il [[archetypes/king|Re]] stesso limitò il suo [[motifs/love|amore]] per la cerimonia comparendo (secondo la sua non insolita maniera) in abito da sera con un solo ordine... in questo caso non la Giarrettiera, ma il distintivo del Club dei Migliori Compari del Vecchio Clipper, decorazione ottenuta (con difficoltà) da un giornaletto per ragazzi da mezzo penny. Così pure accadde che l'unica macchia di colore nella sala fosse [[characters/adam-wayne|Adam Wayne]], che entrò con grande dignità con la grande veste rossa e la grande [[Sword|spada]].
+UN'accorata ed eloquente petizione fu inoltrata al [[archetypes/king|Re]] firmata coi nomi di Wilson, Barker, Buck, Swindon e altri. Vi si sosteneva che, all'imminente conferenza da tenersi alla presenza di Sua Maestà circa la definitiva destinazione della proprietà di Pump Street, non si sarebbe ritenuto incompatibile col decoro politico e con l'indicibile rispetto che essi nutrivano per Sua Maestà se fossero comparsi in ordinario abito da mattina, senza il costume decretato per loro come Prevosti. Così accadde che la compagnia comparve a quel consiglio in redingote e che il [[archetypes/king|Re]] stesso limitò il suo [[motifs/love|amore]] per la cerimonia comparendo (secondo la sua non insolita maniera) in abito da sera con un solo ordine... in questo caso non la Giarrettiera, ma il distintivo del Club dei Migliori Compari del Vecchio Clipper, decorazione ottenuta (con difficoltà) da un giornaletto per ragazzi da mezzo penny. Così pure accadde che l'unica macchia di colore nella sala fosse [[characters/adam-wayne|Adam Wayne]], che entrò con grande dignità con la grande veste rossa e la grande spada.
 
 «Ci siamo riuniti», disse Auberon, «per decidere il più arduo dei problemi moderni. Che si possa aver successo.» E si sedette con gravità.
 
@@ -6621,7 +6621,7 @@ Buck girò un poco la sedia e accavallò una gamba sull'altra.
 
 «La difficoltà si può esporre assai semplicemente», disse Wayne. «Potete offrire un milione e vi sarà molto difficile ottenere Pump Street.»
 
-«Ma, sentite qui, Mr. Wayne», esclamò Barker, intervenendo con una specie di fredda concitazione. «Sentite un po'. Non avete alcun diritto di assumere una posizione simile. Avete il diritto di tener duro per un prezzo maggiore, ma non è ciò che state facendo. State rifiutando quella che voi e ogni uomo sano di mente sapete essere un'offerta splendida, per pura malizia o dispetto... dev'essere malizia o dispetto. E quel genere di cosa è davvero criminale; è contro il bene pubblico; il [[government|Governo]] del [[archetypes/king|Re]] sarebbe giustificato nel costringervi.»
+«Ma, sentite qui, Mr. Wayne», esclamò Barker, intervenendo con una specie di fredda concitazione. «Sentite un po'. Non avete alcun diritto di assumere una posizione simile. Avete il diritto di tener duro per un prezzo maggiore, ma non è ciò che state facendo. State rifiutando quella che voi e ogni uomo sano di mente sapete essere un'offerta splendida, per pura malizia o dispetto... dev'essere malizia o dispetto. E quel genere di cosa è davvero criminale; è contro il bene pubblico; il Governo del [[archetypes/king|Re]] sarebbe giustificato nel costringervi.»
 
 Con le magre dita distese sul tavolo fissava ansiosamente il volto di Wayne, che non si mosse.
 
@@ -6637,9 +6637,9 @@ Buck arrossì e disse stizzito:
 
 «Voglio dire che deve... che dovrebbe, come dico abbiamo fatto del nostro meglio per essere generosi. Sfido chiunque a negarlo. Stando così le cose, Mr. Wayne, non voglio dire una parola scortese. [[concepts/hope|Spero]] non sia scortese dire che potete, e dovreste, essere in prigione. È criminale fermare i lavori pubblici per un capriccio. Un uomo potrebbe [[motifs/well|anche]] bruciare diecimila cipolle nel suo [[motifs/garden|giardino]] davanti a casa o allevare i figli perché corrano nudi per strada, come fare ciò che dite di aver diritto di fare. La gente è stata costretta a vendere anche in passato. Il [[archetypes/king|Re]] potrebbe costringervi, e [[concepts/hope|spero]] che lo farà.»
 
-«Finché non lo fa», disse Wayne, con calma, «la potenza e il [[government|governo]] di questa grande nazione sono dalla mia parte e non dalla vostra, e vi sfido a sfidarli.»
+«Finché non lo fa», disse Wayne, con calma, «la potenza e il governo di questa grande nazione sono dalla mia parte e non dalla vostra, e vi sfido a sfidarli.»
 
-«In che senso», esclamò Barker, coi suoi occhi e le sue mani febbrili, «il [[government|Governo]] è dalla vostra parte?»
+«In che senso», esclamò Barker, coi suoi occhi e le sue mani febbrili, «il Governo è dalla vostra parte?»
 
 Con un solo gesto squillante Wayne srotolò una grande pergamena sul tavolo. Era decorata lungo i margini con selvaggi schizzi ad [[motifs/water|acquerello]] di consiglieri parrocchiali con corone e ghirlande.
 
@@ -6706,7 +6706,7 @@ Wayne bowed.
 "Mr. Buck has spoken correctly," said the [[archetypes/king|King]]; "the negotiations
 are at an end."
 
-All the men at the table [[motifs/rose|rose]] to their feet; Wayne [[Alone|alone]]
+All the men at the table [[motifs/rose|rose]] to their feet; Wayne alone
 [[motifs/rose|rose]] without excitement.
 
 "Have I, then," he said, "your Majesty's permission to depart?
@@ -6832,7 +6832,7 @@ Wayne si inchinò.
 
 «Mr. Buck ha parlato correttamente», disse il [[archetypes/king|Re]]; «le trattative sono concluse.»
 
-Tutti gli uomini al tavolo si [[motifs/rose|alzarono]] in piedi; Wayne [[Alone|solo]] si [[motifs/rose|alzò]] senza eccitazione.
+Tutti gli uomini al tavolo si [[motifs/rose|alzarono]] in piedi; Wayne solo si [[motifs/rose|alzò]] senza eccitazione.
 
 «Ho dunque», disse, «il permesso di vostra Maestà di andarmene? Ho dato la mia ultima risposta.»
 
@@ -6974,8 +6974,8 @@ It was the [[archetypes/king|King]].
 
 "Barker," he said at length, appealingly, "you are an old friend
 of mine...you understand my hobbies as I understand yours.
-Why can't you let it [[Alone|alone]]?  I hoped that such fun might come
-out of this Wayne business.  Why can't you let it [[Alone|alone]]?
+Why can't you let it alone?  I hoped that such fun might come
+out of this Wayne business.  Why can't you let it alone?
 It doesn't really so much matter to you...what's a [[motifs/road|road]] or so?
 For me it's the one joke that may save me from pessimism.
 Take fewer men and give me an hour's fun.  Really and truly,
@@ -6983,7 +6983,7 @@ James, if you collected coins or humming-[[motifs/birds|birds]], and I could buy
 one with the price of your [[motifs/road|road]], I would buy it.  I collect
 incidents...those rare, those precious things.  Let me have one.
 Pay a few pounds for it.  Give these Notting Hillers a chance.
-Let them [[Alone|alone]]."
+Let them alone."
 
 "Auberon," said Barker, kindly, forgetting all royal titles
 in a rare moment of sincerity, "I do feel what you mean.
@@ -7010,13 +7010,13 @@ The [[archetypes/king|King]] watched the tail of the retreating regiment with a 
 of genuine depression, which made him seem more like a baby than ever.
 Then he swung round and struck his hands together.
 
-"In a world without [[Humour|humour]]," he said, "the only thing to do is to eat.
+"In a world without humour," he said, "the only thing to do is to eat.
 And how perfect an exception!  How can these people strike dignified
 attitudes, and pretend that things matter, when the total ludicrousness
 of life is proved by the very method by which it is supported?
 A man strikes the lyre, and says, 'Life is real, life is earnest,'
 and then goes into a room and stuffs alien substances into a hole
-in his head.  I think [[concepts/nature|Nature]] was indeed a little broad in her [[Humour|humour]]
+in his head.  I think [[concepts/nature|Nature]] was indeed a little broad in her humour
 in these matters.  But we all fall back on the pantomime, as I
 have in this municipal affair.  [[concepts/nature|Nature]] has her farces, like, the act
 of eating or the shape of the kangaroo, for the more brutal appetite.
@@ -7082,7 +7082,7 @@ E uscì dalla sala prima che chiunque altro potesse muoversi.
 
 Quaranta operai, cento Alabardieri di Bayswater, duecento del South e trecento del North Kensington, si radunarono ai piedi di Holland Walk e la risalirono in marcia, sotto la direzione generale di Barker, che appariva accaldato e felice in alta uniforme. In coda al corteo una piccola e imbronciata figura indugiava come un monello. Era il [[archetypes/king|Re]].
 
-«Barker», disse infine, in tono supplichevole, «tu sei un mio vecchio amico... tu capisci i miei passatempi come io capisco i tuoi. Perché non puoi lasciar [[Alone|perdere]]? Speravo che da questa faccenda di Wayne potesse venire tanto spasso. Perché non puoi lasciar [[Alone|perdere]]? In fondo non ti importa poi molto... cos'è una [[motifs/road|strada]] più o meno? Per me è l'unico scherzo che possa salvarmi dal pessimismo. Prendi meno uomini e concedimi un'ora di spasso. Davvero e sinceramente, James, se tu collezionassi monete o [[motifs/birds|colibrì]], e io potessi comprarne uno col prezzo della tua [[motifs/road|strada]], lo comprerei. Io colleziono episodi... quelle cose rare, quelle cose preziose. Lasciamene avere uno. Paga qualche sterlina per esso. Dai a questi abitanti di Notting Hill una possibilità. Lasciali [[Alone|in pace]].»
+«Barker», disse infine, in tono supplichevole, «tu sei un mio vecchio amico... tu capisci i miei passatempi come io capisco i tuoi. Perché non puoi lasciar perdere? Speravo che da questa faccenda di Wayne potesse venire tanto spasso. Perché non puoi lasciar perdere? In fondo non ti importa poi molto... cos'è una [[motifs/road|strada]] più o meno? Per me è l'unico scherzo che possa salvarmi dal pessimismo. Prendi meno uomini e concedimi un'ora di spasso. Davvero e sinceramente, James, se tu collezionassi monete o [[motifs/birds|colibrì]], e io potessi comprarne uno col prezzo della tua [[motifs/road|strada]], lo comprerei. Io colleziono episodi... quelle cose rare, quelle cose preziose. Lasciamene avere uno. Paga qualche sterlina per esso. Dai a questi abitanti di Notting Hill una possibilità. Lasciali in pace.»
 
 «Auberon», disse Barker, con gentilezza, dimenticando tutti i titoli regali in un raro momento di sincerità, «sento davvero ciò che intendi. Ho avuto momenti in cui questi passatempi mi hanno colpito. Ho avuto momenti in cui ho simpatizzato coi tuoi umori. Ho avuto momenti, per quanto tu possa non crederlo facilmente, in cui ho simpatizzato con la [[concepts/madness|follia]] di [[characters/adam-wayne|Adam Wayne]]. Ma il mondo, Auberon, il mondo reale, non è governato da questi passatempi. Va avanti su grandi brutali ruote di fatti... ruote sulle quali tu sei la farfalla. E Wayne è la mosca sulla [[motifs/wheel|ruota]].»
 
@@ -7094,7 +7094,7 @@ E [[characters/james-barker|James Barker]] proseguì, ridendo, col colorito acce
 
 Il [[archetypes/king|Re]] osservò la coda del reggimento che si ritirava con uno sguardo di genuina depressione, che lo faceva sembrare più che mai un bambino. Poi si voltò di scatto e batté le mani insieme.
 
-«In un mondo senza [[Humour|umorismo]]», disse, «l'unica cosa da fare è mangiare. E quale perfetta eccezione! Come possono queste persone assumere pose dignitose, e fingere che le cose importino, quando la totale ridicolaggine della vita è provata proprio dal metodo con cui essa si sostiene? Un uomo pizzica la lira e dice: 'La vita è reale, la vita è seria', e poi entra in una stanza e si ficca sostanze estranee in un buco nella testa. Penso che la [[concepts/nature|Natura]] sia stata davvero un po' spinta nel suo [[Humour|umorismo]] in queste faccende. Ma tutti ripieghiamo sulla pantomima, come ho fatto io in questa faccenda municipale. La [[concepts/nature|Natura]] ha le sue farse, come l'atto di mangiare o la forma del canguro, per l'appetito più brutale. Riserba le sue [[motifs/stars|stelle]] e le sue [[settings/mountains|montagne]] per coloro che sanno apprezzare qualcosa di più sottilmente ridicolo.» Si volse al suo scudiero. «Ma, poiché ho detto 'mangiare', facciamo un picnic come due bravi bambini. Corri a portarmi una tavola e una dozzina di portate all'incirca, e champagne in abbondanza, e sotto questi rami ondeggianti, Bowler, torneremo alla [[concepts/nature|Natura]].»
+«In un mondo senza umorismo», disse, «l'unica cosa da fare è mangiare. E quale perfetta eccezione! Come possono queste persone assumere pose dignitose, e fingere che le cose importino, quando la totale ridicolaggine della vita è provata proprio dal metodo con cui essa si sostiene? Un uomo pizzica la lira e dice: 'La vita è reale, la vita è seria', e poi entra in una stanza e si ficca sostanze estranee in un buco nella testa. Penso che la [[concepts/nature|Natura]] sia stata davvero un po' spinta nel suo umorismo in queste faccende. Ma tutti ripieghiamo sulla pantomima, come ho fatto io in questa faccenda municipale. La [[concepts/nature|Natura]] ha le sue farse, come l'atto di mangiare o la forma del canguro, per l'appetito più brutale. Riserba le sue [[motifs/stars|stelle]] e le sue [[settings/mountains|montagne]] per coloro che sanno apprezzare qualcosa di più sottilmente ridicolo.» Si volse al suo scudiero. «Ma, poiché ho detto 'mangiare', facciamo un picnic come due bravi bambini. Corri a portarmi una tavola e una dozzina di portate all'incirca, e champagne in abbondanza, e sotto questi rami ondeggianti, Bowler, torneremo alla [[concepts/nature|Natura]].»
 
 
 
@@ -7141,7 +7141,7 @@ lit a cigar slowly, and went on:
 
 "Yesterday I thought that something next door to a really entertaining
 miracle might happen to me before I went to amuse the worms.
-To see that red-haired maniac waving a great [[Sword|sword]] and making speeches
+To see that red-haired maniac waving a great sword and making speeches
 to his incomparable followers, would have been a glimpse of that Land
 of Youth from which the Fates shut us out.  I had planned some quite
 delightful things.  A Congress of Knightsbridge with a treaty,
@@ -7179,7 +7179,7 @@ with them, as the [[archetypes/king|King]] said in his famous newspaper article,
 "like a captured bride."  The great fence swung and split
 under the load of climbers that still scaled and cleared it.
 Tremendous gaps were torn in it by this living artillery; and through
-them the [[archetypes/king|King]] could see more and more frantic faces, as in [[A Dream|a dream]],
+them the [[archetypes/king|King]] could see more and more frantic faces, as in a dream,
 and more and more men running.  They were as miscellaneous as if some
 one had taken the lid off a human dustbin.  Some were untouched,
 some were slashed and battered and bloody, some were splendidly dressed,
@@ -7211,13 +7211,13 @@ between the broken gates of a [[motifs/garden|garden]], there appeared framed
 a flaming figure.
 
 [[characters/adam-wayne|Adam Wayne]], the conqueror, with his face flung back, and his mane
-like a [[motifs/lion|lion]]'s, stood with his great [[Sword|sword]] point upwards, the red raiment
+like a [[motifs/lion|lion]]'s, stood with his great sword point upwards, the red raiment
 of his office flapping round him like the red wings of an archangel.
 And the [[archetypes/king|King]] saw, he knew not how, something new and overwhelming.
 The great green trees and the great red robes swung together in the [[motifs/wind|wind]].
-The [[Sword|sword]] seemed made for the sunlight.  The preposterous masquerade,
+The sword seemed made for the sunlight.  The preposterous masquerade,
 born of his own mockery, towered over him and embraced the world.
-This was the normal, this was [[Sanity|sanity]], this was [[concepts/nature|nature]]; and he himself,
+This was the normal, this was sanity, this was [[concepts/nature|nature]]; and he himself,
 with his rationality and his detachment and his black frock-coat,
 he was the exception and the accident...a blot of black upon a world
 of crimson and gold.
@@ -7265,7 +7265,7 @@ accese lentamente un sigaro, e proseguì:
 
 «Ieri pensavo che qualcosa a un passo da un miracolo davvero divertente
 potesse capitarmi prima che andassi a rallegrare i vermi.
-Vedere quel maniaco dai capelli rossi agitare un gran [[Sword|spada]] e fare discorsi
+Vedere quel maniaco dai capelli rossi agitare un gran spada e fare discorsi
 ai suoi incomparabili seguaci sarebbe stato uno scorcio di quel Paese
 della Giovinezza da cui le Parche ci escludono.  Avevo progettato alcune cose
 davvero deliziose.  Un Congresso di Knightsbridge con un trattato,
@@ -7303,7 +7303,7 @@ come disse il [[archetypes/king|Re]] nel suo celebre articolo di giornale,
 «come una sposa rapita».  Il grande steccato oscillava e si spaccava
 sotto il carico degli arrampicatori che ancora lo scalavano e lo superavano.
 Squarci enormi vi venivano aperti da quell'artiglieria vivente; e attraverso
-di essi il [[archetypes/king|Re]] poteva vedere sempre più volti frenetici, come in [[A Dream|un sogno]],
+di essi il [[archetypes/king|Re]] poteva vedere sempre più volti frenetici, come in un sogno,
 e sempre più uomini che correvano.  Erano assortiti come se qualcuno
 avesse tolto il coperchio a una pattumiera umana.  Alcuni erano illesi,
 alcuni erano sfregiati e ammaccati e insanguinati, alcuni erano splendidamente vestiti,
@@ -7335,13 +7335,13 @@ tra i cancelli spezzati di un [[motifs/garden|giardino]], apparve incorniciata
 una figura fiammeggiante.
 
 [[characters/adam-wayne|Adam Wayne]], il conquistatore, col volto rovesciato all'indietro, e la sua criniera
-come quella di un [[motifs/lion|leone]], stava con la punta della sua gran [[Sword|spada]] rivolta in alto, la rossa veste
+come quella di un [[motifs/lion|leone]], stava con la punta della sua gran spada rivolta in alto, la rossa veste
 del suo ufficio che gli sbatteva intorno come le rosse ali di un arcangelo.
 E il [[archetypes/king|Re]] vide, non sapeva come, qualcosa di nuovo e travolgente.
 I grandi alberi verdi e le grandi vesti rosse ondeggiavano insieme nel [[motifs/wind|vento]].
-La [[Sword|spada]] pareva fatta per la luce del sole.  La stravagante mascherata,
+La spada pareva fatta per la luce del sole.  La stravagante mascherata,
 nata dalla sua stessa beffa, torreggiava su di lui e abbracciava il mondo.
-Questo era il normale, questa era la [[Sanity|sanità mentale]], questa era la [[concepts/nature|natura]]; ed egli stesso,
+Questo era il normale, questa era la sanità mentale, questa era la [[concepts/nature|natura]]; ed egli stesso,
 con la sua razionalità e il suo distacco e la sua nera finanziera,
 era l'eccezione e l'accidente... una macchia di nero su un mondo
 di cremisi e d'oro.
@@ -7393,7 +7393,7 @@ They ordered drinks in [[motifs/silence|silence]].
 "How did it happen?" asked Buck, turning his big bold eyes on him.
 
 "How the devil do I know?" cried Barker.  "It happened
-like...like [[A Dream|a dream]].  How can two hundred men beat six hundred?
+like...like a dream.  How can two hundred men beat six hundred?
 How can they?"
 
 "[[motifs/well|Well]]," said Buck, coolly.  "How did they?  You ought to know."
@@ -7430,7 +7430,7 @@ whose head had been struck, or had been an electric cord.
 None of us knew why we were moving, but we moved and jostled.
 Then we recovered, and went on through the little dirty streets,
 round corners, and up twisted ways.  The little crooked streets
-began to give me a feeling I can't explain...as if it were [[A Dream|a dream]].
+began to give me a feeling I can't explain...as if it were a dream.
 I felt as if things had lost their reason, and we should never
 get out of the maze.  Odd to hear me talk like that, isn't it?
 The streets were quite [[motifs/well|well]]-known streets, all down on the map.
@@ -7465,7 +7465,7 @@ I can only put it in this way.  We went round one turning, two turnings,
 three turnings, four turnings, five.  Then I lifted myself slowly
 up from the gutter where I had been shot half senseless, and was
 beaten down again by living men crashing on top of me, and the world
-was full of roaring, and big men [[rolling]] about like ninepins."
+was full of roaring, and big men rolling about like ninepins."
 
 Buck looked at his map with knitted brows.
 
@@ -7539,7 +7539,7 @@ Ordinarono da bere in [[motifs/silence|silenzio]].
 «Com'è successo?» chiese Buck, volgendo su di lui i grandi occhi arditi.
 
 «Come diavolo faccio a saperlo?» gridò Barker.  «È successo
-come... come [[A Dream|un sogno]].  Come possono duecento uomini battere seicento?
+come... come un sogno.  Come possono duecento uomini battere seicento?
 Come possono?»
 
 «[[motifs/well|Bene]],» disse Buck, freddamente.  «Come hanno fatto?  Dovresti saperlo tu.»
@@ -7576,7 +7576,7 @@ la cui testa fosse stata colpita, o fosse un cavo elettrico.
 Nessuno di noi sapeva perché ci muovevamo, ma ci muovevamo e ci spingevamo.
 Poi ci riprendevamo, e proseguivamo per le sporche viuzze,
 attorno ai cantoni, e su per i vicoli contorti.  Le piccole vie storte
-cominciarono a darmi una sensazione che non so spiegare... come se fosse [[A Dream|un sogno]].
+cominciarono a darmi una sensazione che non so spiegare... come se fosse un sogno.
 Sentivo come se le cose avessero perso la ragione, e non dovessimo
 mai più uscire dal labirinto.  Strano sentirmi parlare così, non è vero?
 Le vie erano vie assai [[motifs/well|ben]] note, tutte segnate sulla mappa.
@@ -7611,7 +7611,7 @@ Posso metterla solo in questo modo.  Girammo una svolta, due svolte,
 tre svolte, quattro svolte, cinque.  Poi mi sollevai lentamente
 dal rigagnolo dove ero stato scagliato mezzo tramortito, e fui
 di nuovo abbattuto da uomini vivi che mi piombavano addosso, e il mondo
-era pieno di ruggiti, e uomini enormi che [[rolling|rotolavano]] come birilli.»
+era pieno di ruggiti, e uomini enormi che rotolavano come birilli.»
 
 Buck guardò la sua mappa con le sopracciglia aggrottate.
 
@@ -7776,7 +7776,7 @@ from Wilson to Swindon, from Swindon to Barker again;
 if his course was jagged, it had the jaggedness of the [[motifs/lightning|lightning]].
 Only two things he carried with him, his inevitable cigar
 and the map of North Kensington and Notting [[motifs/hill|Hill]].  There were,
-as he again and again pointed out, with every variety of [[Persuasion|persuasion]]
+as he again and again pointed out, with every variety of persuasion
 and violence, only nine possible ways of approaching Pump Street
 within a quarter of a mile around it; three out of Westbourne Grove,
 two out of Ladbroke Grove, and four out of Notting [[motifs/hill|Hill]] High Street.
@@ -7918,7 +7918,7 @@ da Wilson a Swindon, da Swindon di nuovo a Barker;
 se il suo tragitto era frastagliato, aveva la frastagliatura del [[motifs/lightning|fulmine]].
 Solo due cose portava con sé, il suo immancabile sigaro
 e la mappa di North Kensington e Notting [[motifs/hill|Hill]].  C'erano,
-come faceva notare più e più volte, con ogni varietà di [[Persuasion|persuasione]]
+come faceva notare più e più volte, con ogni varietà di persuasione
 e violenza, soltanto nove modi possibili di avvicinarsi a Pump Street
 entro un quarto di miglio all'intorno; tre da Westbourne Grove,
 due da Ladbroke Grove, e quattro da Notting [[motifs/hill|Hill]] High Street.
@@ -7931,7 +7931,7 @@ fosse sprofondato dal cielo nero.
 <span class="atom-split" data-atom="chapter_10--part_03" data-title="Napoleon of Notting Hill — Chapter 1 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/bees,motif/city,motif/fire,motif/hill,motif/journey,motif/machine,motif/night,motif/road,motif/time,motif/well,concept/fear,concept/melancholy,setting/london,character/queen"></span>
 
 
-The sky was particularly black, and on this [[Alone|alone]] was one false
+The sky was particularly black, and on this alone was one false
 protest raised against the triumphant optimism of the Provost of
 North Kensington.  He overruled it with his infectious common sense.
 
@@ -7973,7 +7973,7 @@ At length a shrill trumpet rang from some way up the street;
 it was the signal of advance.  Buck briefly gave the word, and the whole
 purple line, with its dimly shining steel, moved up the side alley.
 Before it was a slope of street, long, straight, and shining in the dark.
-It was a [[Sword|sword]] pointed at Pump Street, the heart at which nine
+It was a sword pointed at Pump Street, the heart at which nine
 other swords were pointed that [[motifs/night|night]].
 
 A quarter of an hour's silent marching brought them almost within
@@ -7982,7 +7982,7 @@ was no sound and no sign of the enemy.  This [[motifs/time|time]], at any rate,
 they knew that they were closing in on it mechanically, and they
 marched on under the lamplight and the dark without any of that eerie
 sense of ignorance which Barker had felt when entering the hostile
-country by one avenue [[Alone|alone]].
+country by one avenue alone.
 
 "Halt...point arms!" cried Buck, suddenly, and as he,
 spoke there came a clatter of feet tumbling along the stones.
@@ -8017,7 +8017,7 @@ though it twists about.  Forward!"
 As they moved along the last three hundred yards of their [[motifs/journey|journey]],
 Buck fell, for the first [[motifs/time|time]] in his life, perhaps, into a kind
 of philosophical reverie, for men of his type are always made kindly,
-and as it were [[concepts/melancholy|melancholy]], by [[success]].
+and as it were [[concepts/melancholy|melancholy]], by success.
 
 "I am sorry for poor old Wayne, I really am," he thought.
 "He spoke up splendidly for me at that Council.
@@ -8033,7 +8033,7 @@ If they're ousted from Pump Street they're flying somewhere.
 If they're not flying past the church they're flying past the Works.
 And so we have them.  We business men should have no chance at
 all except that cleverer people than we get [[motifs/bees|bees]] in their bonnets
-that prevent them from reasoning properly...so we reason [[Alone|alone]].
+that prevent them from reasoning properly...so we reason alone.
 And so I, who am comparatively stupid, see things as God sees them,
 as a vast [[motifs/machine|machine]].  My God, what's this?"  And he clapped his hands
 to his eyes and staggered back.
@@ -8043,7 +8043,7 @@ Then through the darkness he cried in a dreadful voice:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il cielo era particolarmente nero, e su questo [[Alone|soltanto]] si levò una falsa
+Il cielo era particolarmente nero, e su questo soltanto si levò una falsa
 protesta contro l'ottimismo trionfante del Prevosto di
 North Kensington.  Egli la scavalcò col suo contagioso buon senso.
 
@@ -8085,7 +8085,7 @@ Alla fine una tromba stridula risuonò da qualche punto più su per la strada;
 era il segnale dell'avanzata.  Buck diede brevemente l'ordine, e l'intera
 fila purpurea, col suo acciaio fiocamente luccicante, risalì per il vicolo laterale.
 Davanti a essa c'era un declivio di strada, lungo, dritto e lucente nel buio.
-Era una [[Sword|spada]] puntata verso Pump Street, il cuore verso cui nove
+Era una spada puntata verso Pump Street, il cuore verso cui nove
 altre spade erano puntate quella [[motifs/night|notte]].
 
 Un quarto d'ora di marcia silenziosa li portò quasi a portata
@@ -8094,7 +8094,7 @@ c'era suono né segno del nemico.  Questa [[motifs/time|volta]], in ogni caso,
 sapevano che vi si stringevano attorno meccanicamente, e
 marciarono sotto la luce dei lampioni e il buio senza alcuno di quel misterioso
 senso d'ignoranza che Barker aveva provato entrando nel paese
-nemico per un'unica via da [[Alone|solo]].
+nemico per un'unica via da solo.
 
 «Alt... armi in resta!» gridò Buck, all'improvviso, e mentre
 parlava giunse un frastuono di piedi che ruzzolavano sulle pietre.
@@ -8129,7 +8129,7 @@ per quanto si contorca.  Avanti!»
 Mentre procedevano lungo le ultime trecento iarde del loro [[motifs/journey|cammino]],
 Buck cadde, forse per la prima [[motifs/time|volta]] in vita sua, in una specie
 di fantasticheria filosofica, poiché gli uomini del suo tipo sono sempre resi benevoli,
-e come dire [[concepts/melancholy|malinconici]], dal [[success|successo]].
+e come dire [[concepts/melancholy|malinconici]], dal successo.
 
 «Mi dispiace per il povero vecchio Wayne, davvero,» pensò.
 «Ha parlato splendidamente in mio favore a quel Consiglio.
@@ -8145,7 +8145,7 @@ Se sono scacciati da Pump Street, fuggono da qualche parte.
 Se non fuggono oltre la chiesa, fuggono oltre lo Stabilimento.
 E così li abbiamo in pugno.  Noi uomini d'affari non avremmo alcuna possibilità
 se non che gente più astuta di noi si mette [[motifs/bees|grilli]] per la testa
-che le impediscono di ragionare come si deve... e così ragioniamo [[Alone|noi soli]].
+che le impediscono di ragionare come si deve... e così ragioniamo noi soli.
 E così io, che sono comparativamente stupido, vedo le cose come le vede Dio,
 come una vasta [[motifs/machine|macchina]].  Dio mio, cos'è questo?»  E si portò le mani
 agli occhi e barcollò all'indietro.
@@ -8199,7 +8199,7 @@ with steel that gave no glint against any light.
 . . . . .
 
 Buck, though badly maimed with the blow of a halberd, kept an angry
-but splendid [[Sanity|sanity]].  He groped madxy for the wall and found it.
+but splendid sanity.  He groped madxy for the wall and found it.
 Struggling with crawling fingers along it, he found a side
 opening and retreated into it with the remnants of his men.
 Their adventures during that prodigious [[motifs/night|night]] are not to be described.
@@ -8263,7 +8263,7 @@ con acciaio che non dava alcun luccichio contro nessuna luce.
 . . . . .
 
 Buck, benché gravemente mutilato dal colpo di un'alabarda, conservò una furiosa
-ma splendida [[Sanity|lucidità]].  Brancolò all'impazzata verso il muro e lo trovò.
+ma splendida lucidità.  Brancolò all'impazzata verso il muro e lo trovò.
 Lottando con dita striscianti lungo di esso, trovò un'apertura
 laterale e vi si ritirò coi resti dei suoi uomini.
 Le loro avventure durante quella prodigiosa [[motifs/night|notte]] non si possono descrivere.
@@ -8292,9 +8292,9 @@ CHAPTER II
 THE CORRESPONDENT OF THE "[[settings/court|COURT]] JOURNAL"
 
 JOURNALISM had become like most other such things in England,
-under the cautious [[government]] and [[philosophy]] represented by
+under the cautious government and philosophy represented by
 [[characters/james-barker|James Barker]], somewhat sleepy and much diminished in importance.
-This was partly due to the disappearance of party [[government]]
+This was partly due to the disappearance of party government
 and public speaking, partly to the compromise or deadlock
 which had made foreign wars impossible, but mostly, of course,
 to the temper of the whole nation, which was that of a people in a
@@ -8347,7 +8347,7 @@ said the [[archetypes/king|King]].  "Now, where are your posters of last [[motif
 any posters exactly..."
 
 "Paper, paper!" cried the [[archetypes/king|King]], wildly; "bring me paper as big
-as a [[house]].  I'll do you posters.  Stop, I must take my coat off."
+as a house.  I'll do you posters.  Stop, I must take my coat off."
 He began removing that garment with an air of set intensity, flung it
 playfully at Mr. Hoskins' head, entirely enveloping him, and looked
 at himself in the glass.  "The coat off," he said, "and hat on.
@@ -8417,7 +8417,7 @@ positions over the front of the office.
 He picked up another of the large strips of wall-paper, and, laying it
 across a desk, pulled out a fountain-pen and began writing with
 feverish intensity, reading clauses and fragments aloud to himself,
-and [[rolling]] them on his tongue like wine, to see if they had
+and rolling them on his tongue like wine, to see if they had
 the pure journalistic flavour.
 
 
@@ -8428,9 +8428,9 @@ CAPITOLO II
 IL CORRISPONDENTE DEL "[[settings/court|COURT]] JOURNAL"
 
 IL GIORNALISMO era diventato come quasi tutte le altre cose simili in Inghilterra,
-sotto il cauto [[government|governo]] e la [[philosophy|filosofia]] rappresentati da
+sotto il cauto governo e la filosofia rappresentati da
 [[characters/james-barker|James Barker]], alquanto sonnolento e assai scemato d'importanza.
-Ciò si doveva in parte alla scomparsa del [[government|governo]] di partito
+Ciò si doveva in parte alla scomparsa del governo di partito
 e dell'oratoria pubblica, in parte al compromesso o allo stallo
 che avevano reso impossibili le guerre estere, ma soprattutto, naturalmente,
 al temperamento dell'intera nazione, che era quello di un popolo in una
@@ -8483,7 +8483,7 @@ disse il [[archetypes/king|Re]]. "Ora, dove sono i vostri manifesti della disfat
 alcun manifesto propriamente..."
 
 "Carta, carta!" gridò il [[archetypes/king|Re]], selvaggiamente; "portatemi carta grande
-come una [[house|casa]]. Ve li faccio io i manifesti. Fermo, devo togliermi la giacca."
+come una casa. Ve li faccio io i manifesti. Fermo, devo togliermi la giacca."
 Cominciò a levarsi quell'indumento con aria di ferma intensità, la scagliò
 scherzosamente contro la testa del signor Hoskins, avvolgendolo del tutto, e si guardò
 allo specchio. "La giacca via," disse, "e il cappello in testa.
@@ -8553,7 +8553,7 @@ ben in vista sulla facciata dell'ufficio.
 Prese un'altra delle grandi strisce di carta da parati e, distendendola
 su una scrivania, tirò fuori una penna stilografica e cominciò a scrivere con
 febbrile intensità, leggendo ad alta voce a se stesso frasi e frammenti,
-e [[rolling|facendoli rotolare]] sulla lingua come vino, per vedere se avessero
+e facendoli rotolare sulla lingua come vino, per vedere se avessero
 il puro sapore giornalistico.
 
 
@@ -8564,7 +8564,7 @@ il puro sapore giornalistico.
 "The news of the disaster to our forces in Notting [[motifs/hill|Hill]], awful as
 it is, awful as it is... (no, distressing as it is), may do some
 good if it draws attention to the what's-his-name inefficiency
-(scandalous inefficiency, of course) of the [[government|Government]]'s preparations.
+(scandalous inefficiency, of course) of the Government's preparations.
 In our present state of information, it would be premature
 (what a jolly word!)... it would be premature to cast any reflections
 upon the conduct of General Buck, whose services upon so many
@@ -8691,7 +8691,7 @@ in a chair.  The office [[motifs/clock|clock]] ticked exactly in the stillness.
 "La notizia del disastro alle nostre forze a Notting [[motifs/hill|Hill]], per terribile che
 sia, per terribile che sia... (no, per angosciante che sia), può fare qualche
 bene se richiama l'attenzione sulla come-si-chiama inefficienza
-(scandalosa inefficienza, s'intende) dei preparativi del [[government|Governo]].
+(scandalosa inefficienza, s'intende) dei preparativi del Governo.
 Nel nostro attuale stato di informazioni, sarebbe prematuro
 (che parola gioviale!)... sarebbe prematuro gettare qualsiasi ombra
 sulla condotta del generale Buck, i cui servigi su tanti
@@ -8823,7 +8823,7 @@ At length Barker said suddenly:
 The Hammersmith to Maida Vale thoroughfare was an uncommonly
 good speculation.  You and I hoped a great deal from it.  But is it
 worth it?  It will cost us thousands to crush this ridiculous riot.
-Suppose we let it [[Alone|alone]]?"
+Suppose we let it alone?"
 
 "And be thrashed in public by a red-haired madman whom any two
 doctors would lock up?" cried out Buck, starting to his feet.
@@ -8863,7 +8863,7 @@ simply went round as they would have done if a [[motifs/road|road]] were being m
 and the omnibup on which the correspondent of the [[settings/court|Court]] Journal
 was sitting swept round the corner of [[characters/queen|Queen]]'s [[motifs/road|Road]], Bayswater.
 
-The [[archetypes/king|King]] was [[Alone|alone]] on the top of the vehicle, and was enjoying
+The [[archetypes/king|King]] was alone on the top of the vehicle, and was enjoying
 the [[characters/speed|speed]] at which it was going.
 
 "Forward, my [[concepts/beauty|beauty]], my Arab," he said, patting the omnibus encouragingly,
@@ -8881,7 +8881,7 @@ The guard or picket of red halberdiers who had stopped the vehicle
 did not number more than twenty, and they were under the command
 of a short, dark, clever-looking young man, conspicuous among
 the rest as being clad in an ordinary frock-coat, but girt round
-the waist with a red sash and a long seventeenth-century [[Sword|sword]].
+the waist with a red sash and a long seventeenth-century sword.
 A shiny silk hat and spectacles completed the outfit in a pleasing manner.
 
 "To whom have I the [[concepts/honour|honour]] of speaking?" said the [[archetypes/king|King]], endeavouring to
@@ -8935,7 +8935,7 @@ Alla fine Barker disse all'improvviso:
 La grande arteria da Hammersmith a Maida Vale era una speculazione
 insolitamente buona. Tu e io ci speravamo molto. Ma ne vale
 la pena? Ci costerà migliaia di sterline schiacciare questa ridicola rivolta.
-E se la lasciassimo [[Alone|in pace]]?"
+E se la lasciassimo in pace?"
 
 "E farci bastonare in pubblico da un pazzo dai capelli rossi che due
 medici qualunque farebbero rinchiudere?" gridò Buck, balzando in piedi.
@@ -8975,7 +8975,7 @@ giravano semplicemente attorno come avrebbero fatto se una [[motifs/road|strada]
 e l'omnibus sul quale sedeva il corrispondente del [[settings/court|Court]] Journal
 svoltò l'angolo di [[characters/queen|Queen]]'s [[motifs/road|Road]], Bayswater.
 
-Il [[archetypes/king|Re]] era [[Alone|solo]] sull'imperiale del veicolo, e godeva
+Il [[archetypes/king|Re]] era solo sull'imperiale del veicolo, e godeva
 la [[characters/speed|velocità]] alla quale procedeva.
 
 "Avanti, mia [[concepts/beauty|bellezza]], mio arabo," disse, dando pacche incoraggianti all'omnibus,
@@ -8993,7 +8993,7 @@ La guardia o picchetto di alabardieri rossi che aveva fermato il veicolo
 non contava più di venti uomini, ed erano al comando
 di un giovane basso, bruno, dall'aria sveglia, cospicuo fra
 gli altri per essere vestito di un'ordinaria redingote, ma cinto attorno
-alla vita da una fascia rossa e da una lunga [[Sword|spada]] del diciassettesimo secolo.
+alla vita da una fascia rossa e da una lunga spada del diciassettesimo secolo.
 Un lucido cilindro di seta e degli occhiali completavano l'abbigliamento in modo gradevole.
 
 "Con chi ho l'[[concepts/honour|onore]] di parlare?" disse il [[archetypes/king|Re]], sforzandosi di
@@ -9110,7 +9110,7 @@ Please ask the office-boy to insert mots justes.)
 element which is always ready to devour all beautiful things
 (as the Black Pig in the Irish Mythology will finally devour
 the [[motifs/stars|stars]] and gods); that commonplace element, as I say, has in
-its Black Piggish way devoured finally the chances of any [[Romance|romance]]
+its Black Piggish way devoured finally the chances of any romance
 in this affair; that which once consisted of absurd but thrilling
 combats in the streets, has degenerated into something which is
 the very prose of warfare...it has degenerated into a siege.
@@ -9139,7 +9139,7 @@ when his heart is weak.  'Pump Street'"the heart is a pump.
 And I am drivelling.
 
 "Our finest leader at the front is beyond all question, General Wilson.
-He has adopted [[Alone|alone]] among the other Provosts the uniform of his
+He has adopted alone among the other Provosts the uniform of his
 own halberdiers, although that fine old sixteenth-century garb
 was not originally intended to go with red side-whiskers. It was
 he who, against a most admirable and desperate defence, broke last
@@ -9159,7 +9159,7 @@ himself particularly.  And he came over our barricade like a devil
 from hell.'  I repeated this speech to General Wilson himself,
 with some delicate improvements, and he seemed pleased with it.
 He does not, however, seem pleased with anything so much just now as
-he is with the wearing of a [[Sword|sword]].  I have it from the front on the best
+he is with the wearing of a sword.  I have it from the front on the best
 authority that General Wilson was not completely shaved yesterday.
 It is believed in military circles that he is growing a moustache....
 
@@ -9233,7 +9233,7 @@ Prego chiedere al fattorino d'ufficio d'inserire i mots justes.)
 che è sempre pronto a divorare tutte le cose belle
 (come il Maiale Nero nella mitologia irlandese finirà per divorare
 le [[motifs/stars|stelle]] e gli dèi); quell'elemento banale, come dico, ha alla
-sua maniera di Maiale Nero divorato infine le probabilità di qualsiasi [[Romance|romanticismo]]
+sua maniera di Maiale Nero divorato infine le probabilità di qualsiasi romanticismo
 in questa faccenda; ciò che una volta consisteva in assurdi ma emozionanti
 combattimenti nelle strade, è degenerato in qualcosa che è
 la vera prosa della guerra... è degenerato in un assedio.
@@ -9262,7 +9262,7 @@ quando il cuore è debole. 'Pump Street'—il cuore è una pompa.
 E sto vaneggiando.
 
 "Il nostro miglior comandante al fronte è, fuori di ogni dubbio, il generale Wilson.
-Ha adottato [[Alone|solo]] fra gli altri Provosti l'uniforme dei suoi
+Ha adottato solo fra gli altri Provosti l'uniforme dei suoi
 propri alabardieri, sebbene quella bella vecchia foggia cinquecentesca
 non fosse originariamente destinata ad accompagnarsi a fedine rosse. Fu
 lui che, contro una difesa più ammirevole e disperata, irruppe ieri
@@ -9282,7 +9282,7 @@ particolarmente. E ci venne addosso sulla barricata come un diavolo
 dall'inferno.' Ripetei questo discorso al generale Wilson stesso,
 con qualche delicato miglioramento, ed egli parve compiaciuto.
 Non pare, tuttavia, compiaciuto di alcunché tanto in questo momento quanto
-lo è del portare una [[Sword|spada]]. Ho dal fronte, dalla migliore
+lo è del portare una spada. Ho dal fronte, dalla migliore
 autorità, che il generale Wilson non era completamente rasato ieri.
 Nei circoli militari si crede che si stia facendo crescere i baffi....
 
@@ -9389,7 +9389,7 @@ possible authority, the method of the sortie is explained.
 But we have no explanation of its object.  Just as Barker's Blues
 were swinging round the corner after them, they were stopped,
 but not by an enemy; only by the voice of one man, and he a friend.
-Red Wilson of Bayswater ran [[Alone|alone]] along the main [[motifs/road|road]] like a madman
+Red Wilson of Bayswater ran alone along the main [[motifs/road|road]] like a madman
 waving them back with a halberd snatched from a sentinel.
 He was in supreme command, and Barker stopped at the corner,
 staring and bewildered.  We could hear Wilson's voice loud
@@ -9499,7 +9499,7 @@ autorità possibile, il metodo della sortita è spiegato.
 Ma non abbiamo spiegazione del suo scopo. Proprio mentre i Blu di Barker
 stavano svoltando l'angolo dietro a loro, furono fermati,
 ma non da un nemico; solo dalla voce di un uomo, e un amico per giunta.
-Wilson il Rosso di Bayswater corse [[Alone|solo]] lungo la [[motifs/road|strada]] maestra come un pazzo
+Wilson il Rosso di Bayswater corse solo lungo la [[motifs/road|strada]] maestra come un pazzo
 respingendoli con un'alabarda strappata a una sentinella.
 Era al comando supremo, e Barker si fermò all'angolo,
 fissando e sbigottito. Potevamo udire la voce di Wilson forte
@@ -9520,7 +9520,7 @@ the dusk I could hear the clear orders and the clank of arms,
 and see the green army of Wilson marching by towards the west.
 They were our great fighting-men. Wilson had filled them
 with his own [[motifs/fire|fire]]; in a few days they had become veterans.
-Each of them wore a silver medal of a pump, to boast that they [[Alone|alone]]
+Each of them wore a silver medal of a pump, to boast that they alone
 of all the allied armies had stood victorious in Pump Street.
 
 "I managed to slip past the detachment of Barker's Blues, who are guarding
@@ -9575,11 +9575,11 @@ always volunteers for some war or other.  And what's funnier,
 he generally isn't half bad at it, Lambert is distinctly good.
 The yellow West Kensingtons I always reckoned the weakest part
 of the army; but he has pulled them together uncommonly [[motifs/well|well]],
-though he's subordinate to Swindon, who's a [[donkey]].  In the attack
+though he's subordinate to Swindon, who's a donkey.  In the attack
 from Pembridge [[motifs/road|Road]] the other [[motifs/night|night]] he showed great pluck.'
 
 "'He has shown greater pluck than that,' I said.  'He has criticized
-my sense of [[Humour|humour]].  That was his first engagement.'
+my sense of humour.  That was his first engagement.'
 
 "This remark was, I am sorry to say, lost on the admirable
 commander of the allied forces.  We were in the act of climbing
@@ -9590,7 +9590,7 @@ the old-fashioned map.
 
 "We reached the top of it, panting somewhat, and were just about to turn
 the corner by a place called (in chivalrous anticipation of our wars of
-[[Sword|sword]] and axe) Tower Crecy, when we were suddenly knocked in the stomach
+sword and axe) Tower Crecy, when we were suddenly knocked in the stomach
 (I can use no other term) by a horde of men hurled back upon us.
 They wore the red uniform of Wayne; their halberds were broken;
 their foreheads bleeding; but the mere impetus of their retreat
@@ -9635,7 +9635,7 @@ il crepuscolo potevo udire gli ordini chiari e il cozzare delle armi,
 e vedere il verde esercito di Wilson marciare verso ovest.
 Erano i nostri grandi combattenti. Wilson li aveva riempiti
 del suo proprio [[motifs/fire|fuoco]]; in pochi giorni erano diventati veterani.
-Ognuno di essi portava una medaglia d'argento raffigurante una pompa, per vantarsi che essi [[Alone|soli]]
+Ognuno di essi portava una medaglia d'argento raffigurante una pompa, per vantarsi che essi soli
 di tutti gli eserciti alleati erano rimasti vittoriosi in Pump Street.
 
 "Riuscii a sgusciare oltre il distaccamento dei Blu di Barker, che custodiscono
@@ -9690,11 +9690,11 @@ si offre sempre volontario per qualche guerra o altro. E cosa più buffa,
 di solito non è affatto male a farla, Lambert è decisamente bravo.
 I gialli di West Kensington li ho sempre stimati la parte più debole
 dell'esercito; ma lui li ha rimessi insieme insolitamente [[motifs/well|bene]],
-sebbene sia subordinato a Swindon, che è un [[donkey|somaro]]. Nell'attacco
+sebbene sia subordinato a Swindon, che è un somaro. Nell'attacco
 da Pembridge [[motifs/road|Road]] l'altra [[motifs/night|notte]] mostrò gran fegato.'
 
 "'Ha mostrato fegato maggiore di quello,' dissi. 'Ha criticato
-il mio senso dell'[[Humour|umorismo]]. Quello fu il suo primo scontro.'
+il mio senso dell'umorismo. Quello fu il suo primo scontro.'
 
 "Questa osservazione andò, mi spiace dirlo, perduta sull'ammirevole
 comandante delle forze alleate. Eravamo nell'atto di scalare
@@ -9705,7 +9705,7 @@ carta geografica all'antica.
 
 "Ne raggiungemmo la cima, ansando alquanto, ed eravamo giusto sul punto di svoltare
 l'angolo presso un luogo chiamato (in cavalleresca anticipazione delle nostre guerre di
-[[Sword|spada]] e ascia) Tower Crécy, quando fummo d'un tratto colpiti allo stomaco
+spada e ascia) Tower Crécy, quando fummo d'un tratto colpiti allo stomaco
 (non posso usare altro termine) da un'orda di uomini scagliati indietro su di noi.
 Portavano l'uniforme rossa di Wayne; le loro alabarde erano spezzate;
 le loro fronti sanguinanti; ma la mera spinta della loro ritirata
@@ -9782,7 +9782,7 @@ the corner and had shaken the Waynites heavily, hurling back a few
 of the more timid, as I have just described, into our very arms.
 When our force struck the tail of Wayne's, every one knew that all
 was up with him.  His favourite military barber was struck down.
-His [[grocer]] was stunned.  He himself was hurt in the thigh,
+His grocer was stunned.  He himself was hurt in the thigh,
 and reeled back against the wall.  We had him in a trap with two jaws.
 'Is that you?' shouted Lambert, genially, to Wilson, across the
 hemmed-in host of Notting [[motifs/hill|Hill]].  'That's about the ticket,'
@@ -9801,15 +9801,15 @@ Halberds round the Red [[motifs/lion|Lion]]!  They are the thorns round the [[mo
 and Lambert, whose idiotic face was almost beautiful with battle,
 felt it as by an instinct, and cried"
 
-"'Drop your public-[[house]] [[motifs/flag|flag]], you footler!  Drop it!'
+"'Drop your public-house [[motifs/flag|flag]], you footler!  Drop it!'
 
 "'The banner of the Red [[motifs/lion|Lion]] seldom stoops,' said Wayne, proudly,
 letting it out luxuriantly on the [[motifs/night|night]] [[motifs/wind|wind]].
 
 "The next moment I knew that poor Adam's sentimental theatricality
-had cost him much.  Lambert was on the wall at a bound, his [[Sword|sword]]
+had cost him much.  Lambert was on the wall at a bound, his sword
 in his teeth, and had slashed at Wayne's head before he had [[motifs/time|time]]
-to draw his [[Sword|sword]], his hands being busy with the enormous [[motifs/flag|flag]].
+to draw his sword, his hands being busy with the enormous [[motifs/flag|flag]].
 He stepped back only just in [[motifs/time|time]] to avoid the first cut, and let
 the [[motifs/flag|flag]]-staff fall, so that the spear-blade at the end of it
 pointed to Lambert.
@@ -9897,7 +9897,7 @@ all'angolo e avevano scosso pesantemente i Wayniti, respingendo alcuni
 dei più timorosi, come ho appena descritto, proprio fra le nostre braccia.
 Quando la nostra forza colpì la coda di quella di Wayne, tutti seppero che
 per lui era finita.  Il suo barbiere militare prediletto fu abbattuto.
-Il suo [[grocer|droghiere]] fu tramortito.  Egli stesso fu ferito alla coscia,
+Il suo droghiere fu tramortito.  Egli stesso fu ferito alla coscia,
 e barcollò all'indietro contro il muro.  Lo avevamo in una trappola a due ganasce.
 «Sei tu?» gridò Lambert, cordialmente, a Wilson, attraverso la
 schiera accerchiata di Notting [[motifs/hill|Hill]].  «È proprio così che ci vuole»,
@@ -9916,15 +9916,15 @@ Alabarde attorno al [[motifs/lion|Leone]] Rosso!  Sono le spine attorno alla [[m
 e Lambert, il cui volto idiota era quasi bello nella battaglia,
 lo avvertì come per istinto, e gridò»
 
-«"Getta la tua bandiera da [[house|osteria]], [[motifs/flag|bandiera]] di taverna, sciocco!  Gettala!"
+«"Getta la tua bandiera da osteria, [[motifs/flag|bandiera]] di taverna, sciocco!  Gettala!"
 
 «"Il vessillo del [[motifs/lion|Leone]] Rosso di rado si china", disse Wayne, con fierezza,
 lasciandolo dispiegare sontuosamente sul [[motifs/wind|vento]] della [[motifs/night|notte]].
 
 «L'attimo dopo compresi che la sentimentale teatralità del povero Adam
-gli era costata cara.  Lambert fu sul muro con un balzo, la [[Sword|spada]]
+gli era costata cara.  Lambert fu sul muro con un balzo, la spada
 fra i denti, e aveva vibrato un fendente al capo di Wayne prima che egli avesse [[motifs/time|tempo]]
-di sguainare la [[Sword|spada]], avendo le mani occupate con l'enorme [[motifs/flag|bandiera]].
+di sguainare la spada, avendo le mani occupate con l'enorme [[motifs/flag|bandiera]].
 Indietreggiò appena in [[motifs/time|tempo]] per evitare il primo colpo, e lasciò
 cadere l'asta della [[motifs/flag|bandiera]], sicché la punta di lancia all'estremità di essa
 si rivolse verso Lambert.
@@ -10071,7 +10071,7 @@ Every man who felt or looked at that infinity of men knew that it
 was the triumph of Buck's brutal arithmetic.  Whether Wayne was right
 or wrong, wise or foolish, was quite a fair matter for discussion.
 But it was a matter of [[concepts/history|history]].  At the foot of Church Street,
-opposite Kensington Church, they paused in their glowing good [[Humour|humour]].
+opposite Kensington Church, they paused in their glowing good humour.
 
 "Let us send some kind of messenger or herald up to them," said Buck,
 turning to Barker and the [[archetypes/king|King]].  "Let us send and ask them to [[motifs/cave|cave]]
@@ -10185,7 +10185,7 @@ Ogni uomo che sentisse o guardasse quell'infinità di uomini sapeva che era
 il trionfo della brutale aritmetica di Buck.  Se Wayne avesse ragione
 o torto, fosse saggio o folle, era materia del tutto lecita di discussione.
 Ma era materia di [[concepts/history|storia]].  Ai piedi di Church Street,
-di fronte alla Chiesa di Kensington, si fermarono nel loro raggiante buon [[Humour|umore]].
+di fronte alla Chiesa di Kensington, si fermarono nel loro raggiante buon umore.
 
 «Mandiamo su a loro qualche sorta di messaggero o araldo,» disse Buck,
 volgendosi a Barker e al [[archetypes/king|Re]].  «Mandiamo a chiedere loro di [[motifs/cave|cedere]]
@@ -10237,7 +10237,7 @@ it will not be a safe property."
 
 "The bet's made, your Majesty," said Buck.
 
-Another long [[motifs/silence|silence]] ensued, in the course of which Barker [[Alone|alone]],
+Another long [[motifs/silence|silence]] ensued, in the course of which Barker alone,
 amid the motionless army, strolled and stamped in his restless way.
 
 Then Buck suddenly leant forward.
@@ -10253,7 +10253,7 @@ the centre of the spacious and silent Church Street was walking,
 beyond question, the herald of the Red [[motifs/lion|Lion]], with two trumpeters.
 
 Buck had something in him which taught him how to be magnanimous.
-In his hour of [[success]] he felt magnanimous towards Wayne,
+In his hour of success he felt magnanimous towards Wayne,
 whom he really admired; magnanimous towards the [[archetypes/king|King]], off whom
 he had scored so publicly; and, above all, magnanimous towards Barker,
 who was the titular leader of this vast South Kensington army,
@@ -10301,7 +10301,7 @@ of South Kensington, or crush the old customs of Bayswater."
 An irrepressible explosion of laughter went up from the fore front
 of the great army.
 
-"The [[archetypes/king|King]] must have had something to do with this [[Humour|humour]],"
+"The [[archetypes/king|King]] must have had something to do with this humour,"
 said Buck, slapping his thigh.  "It's too deliciously insolent.
 Barker, have a glass of wine."
 
@@ -10325,7 +10325,7 @@ Buck had dropped his glass and sent a great splash of wine
 over the [[motifs/road|road]].
 
 "But...but..." he said; and then by a last and splendid effort
-of his great [[Sanity|sanity]], looked the facts in the face.
+of his great sanity, looked the facts in the face.
 
 "We must surrender," he said.  "You could do nothing against fifty
 thousand tons of [[motifs/water|water]] coming down a steep [[motifs/hill|hill]], ten minutes hence.
@@ -10363,7 +10363,7 @@ Il [[archetypes/king|Re]], che era andato a passeggio fino alla testa della fila
 
 «La scommessa è fatta, Maestà», disse Buck.
 
-Seguì un altro lungo [[motifs/silence|silenzio]], durante il quale Barker, [[Alone|solo]] in mezzo all'esercito immobile, passeggiava e batteva i piedi nel suo modo irrequieto.
+Seguì un altro lungo [[motifs/silence|silenzio]], durante il quale Barker, solo in mezzo all'esercito immobile, passeggiava e batteva i piedi nel suo modo irrequieto.
 
 Poi Buck si sporse improvvisamente in avanti.
 
@@ -10373,7 +10373,7 @@ Poi Buck si sporse improvvisamente in avanti.
 
 «Non è vero», disse Buck, con calma; e il [[archetypes/king|Re]] non rispose, poiché giù per il centro della spaziosa e silenziosa Church Street stava avanzando, senza alcun dubbio, l'araldo del [[motifs/lion|Leone]] Rosso, con due trombettieri.
 
-Buck aveva in sé qualcosa che gli insegnava a essere magnanimo. Nella sua ora di [[success|successo]] si sentiva magnanimo verso Wayne, che davvero ammirava; magnanimo verso il [[archetypes/king|Re]], a spese del quale aveva segnato punti così pubblicamente; e, soprattutto, magnanimo verso Barker, che era il capo nominale di quel vasto esercito di South Kensington, evocato dal suo stesso talento.
+Buck aveva in sé qualcosa che gli insegnava a essere magnanimo. Nella sua ora di successo si sentiva magnanimo verso Wayne, che davvero ammirava; magnanimo verso il [[archetypes/king|Re]], a spese del quale aveva segnato punti così pubblicamente; e, soprattutto, magnanimo verso Barker, che era il capo nominale di quel vasto esercito di South Kensington, evocato dal suo stesso talento.
 
 «Generale Barker», disse, inchinandosi, «vi proponete adesso di ricevere il messaggio degli assediati?»
 
@@ -10397,7 +10397,7 @@ Prima che le parole fossero terminate il [[archetypes/king|Re]] era corso avanti
 
 Un'irrefrenabile esplosione di risa si levò dalla prima linea del grande esercito.
 
-«Il [[archetypes/king|Re]] deve aver avuto qualcosa a che fare con questo [[Humour|umorismo]]», disse Buck, dandosi una manata sulla coscia. «È deliziosamente insolente. Barker, bevete un bicchiere di vino.»
+«Il [[archetypes/king|Re]] deve aver avuto qualcosa a che fare con questo umorismo», disse Buck, dandosi una manata sulla coscia. «È deliziosamente insolente. Barker, bevete un bicchiere di vino.»
 
 E nella sua giovialità mandò davvero un soldato dall'altra parte, al ristorante di fronte alla chiesa, e fece portare due bicchieri per un brindisi.
 
@@ -10407,7 +10407,7 @@ Quando le risa si furono spente, l'araldo continuò del tutto monotono:
 
 Buck aveva lasciato cadere il suo bicchiere e sparso un gran fiotto di vino sulla [[motifs/road|strada]].
 
-«Ma... ma...» disse; e poi, con un ultimo e splendido sforzo della sua grande [[Sanity|lucidità]], guardò i fatti in faccia.
+«Ma... ma...» disse; e poi, con un ultimo e splendido sforzo della sua grande lucidità, guardò i fatti in faccia.
 
 «Dobbiamo arrenderci», disse. «Non potreste far nulla contro cinquantamila tonnellate d'[[motifs/water|acqua]] che scendono giù per un ripido [[motifs/hill|colle]], di qui a dieci minuti. Dobbiamo arrenderci. I nostri quattromila uomini potrebbero [[motifs/well|bene]] essere quattro. Vicisti Galilae! Perkins, potete [[motifs/well|bene]] andarmi a prendere un altro bicchiere di vino.»
 
@@ -10434,7 +10434,7 @@ as it were, decrepit.
 If he looked old, it was not because of anything physical or mental.
 It was because he still wore, with a quaint conservatism,
 the frock-coat and high hat of the days before the great war.
-"I have survived the [[deluge|Deluge]]," he said.  "I am a pyramid, and must
+"I have survived the Deluge," he said.  "I am a pyramid, and must
 behave as such."
 
 As he passed up the street the Kensingtonians in their picturesque
@@ -10461,14 +10461,14 @@ It was about sunset, and the lamps were being lit.
 Auberon paused to look at them, for they were Chiffy's finest work,
 and his artistic eye never failed to feast on them.  In [[motifs/memory|memory]]
 of the Great Battle of the Lamps, each great iron lamp was surmounted
-by a veiled figure, [[Sword|sword]] in hand, holding over the flame an iron
+by a veiled figure, sword in hand, holding over the flame an iron
 hood or extinguisher, as if ready to let it fall if the armies
 of the South and West should again show their flags in the [[motifs/city|city]].
 Thus no [[archetypes/child|child]] in Notting [[motifs/hill|Hill]] could play about the streets without
 the very lamp-posts reminding him of the salvation of his country
 in the dreadful year.
 
-"Old Wayne was right in a way," commented the [[archetypes/king|King]].  "The [[Sword|sword]] does
+"Old Wayne was right in a way," commented the [[archetypes/king|King]].  "The sword does
 make things beautiful.  It has made the whole world romantic by now.
 And to think people once thought me a buffoon for suggesting a romantic
 Notting [[motifs/hill|Hill]].  Deary me, deary me (I think that is the expression).
@@ -10476,7 +10476,7 @@ It seems like a previous existence."
 
 Turning a corner he found himself in Pump Street, opposite the four
 shops which [[characters/adam-wayne|Adam Wayne]] had studied twenty years before.
-He entered idly the shop of Mr. Mead, the [[grocer]].  Mr. Mead was
+He entered idly the shop of Mr. Mead, the grocer.  Mr. Mead was
 somewhat older, like the rest of the world, and his red beard,
 which he now wore with a moustache, and long and full, was partly
 blanched and discoloured.  He was dressed in a long and richly
@@ -10489,7 +10489,7 @@ The whole shop had the sombre and sumptuous look of its owner.
 The wares were displayed as prominently as in the old days, but they
 were now blended and arranged with a sense of tint and grouping,
 too often neglected by the dim grocers of those forgotten days.
-The wares were shown plainly, but shown not so much as an old [[grocer]]
+The wares were shown plainly, but shown not so much as an old grocer
 would have shown his stock, but rather as an educated virtuoso would have
 shown his treasures.  The tea was stored in great blue and green vases,
 inscribed with the nine indispensable sayings of the wise men of China.
@@ -10516,13 +10516,13 @@ the form of an Arabian mosque, he proceeded to serve his customer.
 know why I should think about it just now, but I was just thinking
 of twenty years ago.  Do you remember the times before the war?"
 
-The [[grocer]], having wrapped up the liquorice sticks in a piece of paper
+The grocer, having wrapped up the liquorice sticks in a piece of paper
 (inscribed with some appropriate sentiment), lifted his large grey
 eyes dreamily, and looked at the darkening sky outside.
 
 "Oh yes, your Majesty," he said.  "I remember these streets before
 the Lord Provost began to rule us.  I can't remember how we felt
-very [[motifs/well|well]].  All the great [[songs]] and the fighting change one so;
+very [[motifs/well|well]].  All the great songs and the fighting change one so;
 and I don't think we can really estimate all we owe to the Provost;
 but I can remember his coming into this very shop twenty-two years ago,
 and I remember the things he said.  The singular thing is that as
@@ -10532,7 +10532,7 @@ that seem to me odd...as odd as a madman's antics."
 
 "Ah!" said the [[archetypes/king|King]]; and looked at him with an unfathomable quietness.
 
-"I thought nothing of being a [[grocer]] then," he said.  "Isn't that odd
+"I thought nothing of being a grocer then," he said.  "Isn't that odd
 enough for anybody?  I thought nothing of all the wonderful places
 that my goods came from, and wonderful ways that they are made.
 I did not know that I was for all practical purposes a [[archetypes/king|king]] with
@@ -10552,7 +10552,7 @@ La sera del tre ottobre, vent'anni dopo la grande vittoria di Notting [[motifs/h
 
 Era cambiato poco, salvo qualche filo di grigio tra i capelli, poiché il suo volto era sempre stato vecchio, e il suo passo lento e, per così dire, decrepito.
 
-Se appariva vecchio, non era per alcunché di fisico o mentale. Era perché portava ancora, con un bizzarro conservatorismo, la finanziera e il cilindro dei giorni precedenti la grande guerra. «Sono sopravvissuto al [[deluge|Diluvio]]», disse. «Sono una piramide, e devo comportarmi come tale.»
+Se appariva vecchio, non era per alcunché di fisico o mentale. Era perché portava ancora, con un bizzarro conservatorismo, la finanziera e il cilindro dei giorni precedenti la grande guerra. «Sono sopravvissuto al Diluvio», disse. «Sono una piramide, e devo comportarmi come tale.»
 
 Mentre risaliva la strada i Kensingtoniani nei loro pittoreschi camiciotti azzurri lo salutavano come un [[archetypes/king|Re]], per poi seguirlo con lo sguardo come una curiosità. Pareva loro strano che gli uomini avessero un tempo indossato un abbigliamento così stravagante.
 
@@ -10562,11 +10562,11 @@ Il [[archetypes/king|Re]], coltivando l'andatura attribuita al più vecchio degl
 
 Passò attraverso la Porta di Ossington, sormontata da un grande [[motifs/lion|leone]], lavorato in rame rosso su ottone giallo, con il motto «Nothing Ill». La guardia in rosso e oro lo salutò con l'alabarda.
 
-Era circa il tramonto, e si accendevano i lampioni. Auberon si fermò a guardarli, poiché erano l'opera più bella di Chiffy, e il suo occhio d'artista non mancava mai di nutrirsene. In [[motifs/memory|memoria]] della Grande Battaglia dei Lampioni, ogni grande lampione di ferro era sormontato da una figura velata, [[Sword|spada]] in pugno, che teneva sopra la fiamma un cappuccio o spegnitoio di ferro, come pronta a lasciarlo cadere se gli eserciti del Sud e dell'Ovest avessero di nuovo mostrato le loro bandiere nella [[motifs/city|città]]. Così nessun [[archetypes/child|bambino]] a Notting [[motifs/hill|Hill]] poteva giocare per le strade senza che i lampioni stessi gli rammentassero la salvezza del suo paese nell'anno terribile.
+Era circa il tramonto, e si accendevano i lampioni. Auberon si fermò a guardarli, poiché erano l'opera più bella di Chiffy, e il suo occhio d'artista non mancava mai di nutrirsene. In [[motifs/memory|memoria]] della Grande Battaglia dei Lampioni, ogni grande lampione di ferro era sormontato da una figura velata, spada in pugno, che teneva sopra la fiamma un cappuccio o spegnitoio di ferro, come pronta a lasciarlo cadere se gli eserciti del Sud e dell'Ovest avessero di nuovo mostrato le loro bandiere nella [[motifs/city|città]]. Così nessun [[archetypes/child|bambino]] a Notting [[motifs/hill|Hill]] poteva giocare per le strade senza che i lampioni stessi gli rammentassero la salvezza del suo paese nell'anno terribile.
 
-«Il vecchio Wayne aveva ragione in un certo senso», commentò il [[archetypes/king|Re]]. «La [[Sword|spada]] rende davvero belle le cose. Ha reso ormai romantico il mondo intero. E pensare che un tempo la gente mi credeva un buffone per aver proposto una Notting [[motifs/hill|Hill]] romantica. Povero me, povero me (credo sia questa l'espressione). Sembra un'esistenza precedente.»
+«Il vecchio Wayne aveva ragione in un certo senso», commentò il [[archetypes/king|Re]]. «La spada rende davvero belle le cose. Ha reso ormai romantico il mondo intero. E pensare che un tempo la gente mi credeva un buffone per aver proposto una Notting [[motifs/hill|Hill]] romantica. Povero me, povero me (credo sia questa l'espressione). Sembra un'esistenza precedente.»
 
-Svoltato un angolo si trovò in Pump Street, di fronte alle quattro botteghe che [[characters/adam-wayne|Adam Wayne]] aveva studiato vent'anni prima. Entrò oziosamente nella bottega del signor Mead, il [[grocer|droghiere]]. Il signor Mead era alquanto più vecchio, come il resto del mondo, e la sua barba rossa, che ora portava con i baffi, lunga e folta, era in parte imbiancata e scolorita. Era vestito di una lunga e riccamente ricamata veste di azzurro, bruno e cremisi, intessuta con una complessità orientale di motivi, e coperta di oscuri simboli e figure, che rappresentavano le sue merci passare di mano in mano e di nazione in nazione. Intorno al collo aveva la catena con l'Argosia Azzurra intagliata nel turchese, che portava come Gran Maestro dei Droghieri. L'intera bottega aveva l'aspetto tetro e sontuoso del suo proprietario. Le merci erano esposte in vista come ai vecchi tempi, ma erano ora fuse e disposte con un senso della tinta e del raggruppamento, troppo spesso trascurato dagli offuscati droghieri di quei giorni dimenticati. Le merci erano mostrate con chiarezza, ma mostrate non tanto come un vecchio [[grocer|droghiere]] avrebbe mostrato la sua scorta, bensì piuttosto come un colto virtuoso avrebbe mostrato i suoi tesori. Il tè era conservato in grandi vasi azzurri e verdi, iscritti con le nove indispensabili sentenze dei saggi della Cina. Altri vasi di un confuso arancio e porpora, meno rigidi e dominanti, più umili e sognanti, conservavano simbolicamente il tè dell'India. Una fila di cofanetti di un semplice metallo argenteo conteneva carni in scatola. Ciascuno era lavorato con qualche forma rozza ma ritmica, come una conchiglia, un corno, un pesce, o una mela, per indicare quale materiale vi fosse stato inscatolato. «Vostra Maestà», disse il signor Mead, con un inchino orientale. «Questo è un [[concepts/honour|onore]] per me, ma ancor più un [[concepts/honour|onore]] per la [[motifs/city|città]].»
+Svoltato un angolo si trovò in Pump Street, di fronte alle quattro botteghe che [[characters/adam-wayne|Adam Wayne]] aveva studiato vent'anni prima. Entrò oziosamente nella bottega del signor Mead, il droghiere. Il signor Mead era alquanto più vecchio, come il resto del mondo, e la sua barba rossa, che ora portava con i baffi, lunga e folta, era in parte imbiancata e scolorita. Era vestito di una lunga e riccamente ricamata veste di azzurro, bruno e cremisi, intessuta con una complessità orientale di motivi, e coperta di oscuri simboli e figure, che rappresentavano le sue merci passare di mano in mano e di nazione in nazione. Intorno al collo aveva la catena con l'Argosia Azzurra intagliata nel turchese, che portava come Gran Maestro dei Droghieri. L'intera bottega aveva l'aspetto tetro e sontuoso del suo proprietario. Le merci erano esposte in vista come ai vecchi tempi, ma erano ora fuse e disposte con un senso della tinta e del raggruppamento, troppo spesso trascurato dagli offuscati droghieri di quei giorni dimenticati. Le merci erano mostrate con chiarezza, ma mostrate non tanto come un vecchio droghiere avrebbe mostrato la sua scorta, bensì piuttosto come un colto virtuoso avrebbe mostrato i suoi tesori. Il tè era conservato in grandi vasi azzurri e verdi, iscritti con le nove indispensabili sentenze dei saggi della Cina. Altri vasi di un confuso arancio e porpora, meno rigidi e dominanti, più umili e sognanti, conservavano simbolicamente il tè dell'India. Una fila di cofanetti di un semplice metallo argenteo conteneva carni in scatola. Ciascuno era lavorato con qualche forma rozza ma ritmica, come una conchiglia, un corno, un pesce, o una mela, per indicare quale materiale vi fosse stato inscatolato. «Vostra Maestà», disse il signor Mead, con un inchino orientale. «Questo è un [[concepts/honour|onore]] per me, ma ancor più un [[concepts/honour|onore]] per la [[motifs/city|città]].»
 
 Auberon si tolse il cilindro.
 
@@ -10578,13 +10578,13 @@ E avvicinandosi reverentemente a un barattolo verde e argento, fatto a forma di 
 
 «Stavo giusto pensando, signor Mead», disse il [[archetypes/king|Re]] pensieroso, «non so perché dovrei pensarci proprio ora, ma stavo giusto pensando a vent'anni fa. Ricordate i tempi prima della guerra?»
 
-Il [[grocer|droghiere]], avendo avvolto i bastoncini di liquirizia in un pezzo di carta (iscritto con qualche sentimento appropriato), sollevò i grandi occhi grigi sognanti, e guardò il cielo che si oscurava fuori.
+Il droghiere, avendo avvolto i bastoncini di liquirizia in un pezzo di carta (iscritto con qualche sentimento appropriato), sollevò i grandi occhi grigi sognanti, e guardò il cielo che si oscurava fuori.
 
-«Oh sì, Vostra Maestà», disse. «Ricordo queste strade prima che il Lord Provost cominciasse a governarci. Non riesco a ricordare [[motifs/well|bene]] come ci sentivamo. Tutti i grandi [[songs|canti]] e i combattimenti cambiano tanto un uomo; e non credo che possiamo davvero valutare tutto ciò che dobbiamo al Provost; ma ricordo il suo entrare in questa stessa bottega ventidue anni fa, e ricordo le cose che disse. La cosa singolare è che, per quanto ricordo, allora giudicai strane le cose che disse a quel [[motifs/time|tempo]]. Ora sono le cose che dissi io, per quanto riesca a rammentarle, che mi paiono strane... strane come le smorfie di un pazzo.»
+«Oh sì, Vostra Maestà», disse. «Ricordo queste strade prima che il Lord Provost cominciasse a governarci. Non riesco a ricordare [[motifs/well|bene]] come ci sentivamo. Tutti i grandi canti e i combattimenti cambiano tanto un uomo; e non credo che possiamo davvero valutare tutto ciò che dobbiamo al Provost; ma ricordo il suo entrare in questa stessa bottega ventidue anni fa, e ricordo le cose che disse. La cosa singolare è che, per quanto ricordo, allora giudicai strane le cose che disse a quel [[motifs/time|tempo]]. Ora sono le cose che dissi io, per quanto riesca a rammentarle, che mi paiono strane... strane come le smorfie di un pazzo.»
 
 «Ah!» disse il [[archetypes/king|Re]]; e lo guardò con un'imperscrutabile quiete.
 
-«Allora non davo alcun peso all'essere un [[grocer|droghiere]]», disse. «Non è abbastanza strano per chiunque? Non pensavo affatto a tutti i luoghi meravigliosi da cui provenivano le mie merci, e ai modi meravigliosi in cui sono fatte. Non sapevo di essere a tutti gli effetti pratici un [[archetypes/king|re]] con schiavi che arpionano pesci presso la pozza segreta, e raccolgono frutti nelle isole sotto il mondo. La mia mente era vuota su tutto ciò. Ero matto come un cappellaio.»
+«Allora non davo alcun peso all'essere un droghiere», disse. «Non è abbastanza strano per chiunque? Non pensavo affatto a tutti i luoghi meravigliosi da cui provenivano le mie merci, e ai modi meravigliosi in cui sono fatte. Non sapevo di essere a tutti gli effetti pratici un [[archetypes/king|re]] con schiavi che arpionano pesci presso la pozza segreta, e raccolgono frutti nelle isole sotto il mondo. La mia mente era vuota su tutto ciò. Ero matto come un cappellaio.»
 
 
 
@@ -10598,7 +10598,7 @@ lamps that commemorated the battle were already flaming.
 "To inflame every one so much that he is lost himself in the blaze;
 Is this his victory, that he, my incomparable Wayne, is now
 only one in a world of Waynes?  Has he conquered and become by
-conquest commonplace?  Must Mr. Mead, the [[grocer]], talk as high as he?
+conquest commonplace?  Must Mr. Mead, the grocer, talk as high as he?
 Lord! what a strange world in which a man cannot remain unique
 even by taking the trouble to go mad."
 
@@ -10633,7 +10633,7 @@ at this moment."
 
 The [[archetypes/king|King]] entered the shop, which was an Aladdin's [[motifs/garden|garden]] of shades
 and hues, for as the chemist's scheme of colour was more brilliant
-than the [[grocer]]'s scheme, so it was arranged with even more delicacy
+than the grocer's scheme, so it was arranged with even more delicacy
 and fancy.  Never, if the phrase may be employed, had such a nosegay
 of medicines been presented to the artistic eye.
 
@@ -10644,9 +10644,9 @@ blue velvet, cut in the richest [[historical-references/renaissance|Renaissance]
 so as to show gleams and gaps of a wonderful lemon or pale yellow.
 He had several [[motifs/chains|chains]] round his neck and his plumes, which were
 of several tints, of bronze and gold, hung down to the great gold
-hilt of his long [[Sword|sword]].  He was drinking a dose of sal-volatile,
+hilt of his long sword.  He was drinking a dose of sal-volatile,
 and admiring its opal tint.  The [[archetypes/king|King]] advanced with a slight
-[[Mystification|mystification]] towards the tall figure, whose face was in [[archetypes/shadow|shadow]],
+mystification towards the tall figure, whose face was in [[archetypes/shadow|shadow]],
 then he said:
 
 "By the Great Lord of Luck, Barker!"
@@ -10692,7 +10692,7 @@ Are you the patriot, and he the [[archetypes/tyrant|tyrant]]?"
 
 "It is not from Wayne himself altogether that the evil comes,"
 answered Barker.  "He, indeed, is now mostly wrapped in [[motifs/dreams|dreams]], and sits
-with his old [[Sword|sword]] beside the [[motifs/fire|fire]].  But Notting [[motifs/hill|Hill]] is the [[archetypes/tyrant|tyrant]],
+with his old sword beside the [[motifs/fire|fire]].  But Notting [[motifs/hill|Hill]] is the [[archetypes/tyrant|tyrant]],
 your Majesty.  Its Council and its crowds have been so intoxicated
 by the spreading over the whole [[motifs/city|city]] of Wayne's old ways and visions,
 that they try to meddle with every one, and rule every one,
@@ -10707,7 +10707,7 @@ It is rumoured that Notting [[motifs/hill|Hill]] has vetoed the statue of
 General Wilson they are putting up opposite Chepstow Place.
 If that is so, it is a black and white shameless breach of the terms
 of which we surrendered to Turnbull after the battle of the Tower.
-We were to keep our own customs and [[concepts/self|self]]-[[government]]. If that is so..."
+We were to keep our own customs and [[concepts/self|self]]-government. If that is so..."
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10719,7 +10719,7 @@ lampade che commemoravano la battaglia già fiammeggiavano.
 «Infiammare talmente ogni uomo da perdersi egli stesso nel divampare;
 è questa la sua vittoria, che egli, il mio incomparabile Wayne, ora
 è soltanto uno in un mondo di Wayne? Ha vinto ed è divenuto, per la
-vittoria, cosa comune? Deve il signor Mead, il [[grocer|droghiere]], parlare tanto alto quanto lui?
+vittoria, cosa comune? Deve il signor Mead, il droghiere, parlare tanto alto quanto lui?
 Signore! che strano mondo, nel quale un uomo non può restare unico
 neppure prendendosi la briga di impazzire.»
 
@@ -10754,7 +10754,7 @@ in questo momento.»
 
 Il [[archetypes/king|Re]] entrò nella bottega, che era un [[motifs/garden|giardino]] di Aladino di ombre
 e tinte, poiché come lo schema di colore del farmacista era più brillante
-di quello del [[grocer|droghiere]], così era disposto con ancor maggior delicatezza
+di quello del droghiere, così era disposto con ancor maggior delicatezza
 e fantasia. Mai, se è lecito impiegar la frase, un tale mazzolino
 di medicine era stato presentato all'occhio artistico.
 
@@ -10765,9 +10765,9 @@ velluto azzurro, tagliato alla più ricca maniera [[historical-references/renais
 in modo da mostrar bagliori e squarci d'un meraviglioso limone o giallo pallido.
 Aveva parecchie [[motifs/chains|catene]] intorno al collo, e i suoi pennacchi, che erano
 di parecchie tinte, di bronzo e d'oro, gli scendevano fino alla grande impugnatura
-d'oro della sua lunga [[Sword|spada]]. Beveva una dose di sale volatile,
+d'oro della sua lunga spada. Beveva una dose di sale volatile,
 e ne ammirava la tinta opalina. Il [[archetypes/king|Re]] avanzò con una lieve
-[[Mystification|perplessità]] verso l'alta figura, il cui volto era in [[archetypes/shadow|ombra]],
+perplessità verso l'alta figura, il cui volto era in [[archetypes/shadow|ombra]],
 poi disse:
 
 «Per il Gran Signore della Fortuna, Barker!»
@@ -10813,7 +10813,7 @@ Sei tu il patriota, ed egli il [[archetypes/tyrant|tiranno]]?»
 
 «Non è propriamente da Wayne stesso che viene il male,»
 rispose Barker. «Egli, invero, è ora perlopiù avvolto nei [[motifs/dreams|sogni]], e siede
-con la sua vecchia [[Sword|spada]] accanto al [[motifs/fire|fuoco]]. Ma Notting [[motifs/hill|Hill]] è il [[archetypes/tyrant|tiranno]],
+con la sua vecchia spada accanto al [[motifs/fire|fuoco]]. Ma Notting [[motifs/hill|Hill]] è il [[archetypes/tyrant|tiranno]],
 Vostra Maestà. Il suo Consiglio e le sue folle sono state talmente inebriate
 dal diffondersi su tutta la [[motifs/city|città]] delle vecchie usanze e visioni di Wayne,
 che cercano d'immischiarsi con ognuno, e di governare ognuno,
@@ -10828,7 +10828,7 @@ Corre voce che Notting [[motifs/hill|Hill]] abbia posto il veto sulla statua del
 Generale Wilson che stanno erigendo di fronte a Chepstow Place.
 Se è così, è una nera e sfacciata, aperta violazione dei termini
 coi quali ci arrendemmo a Turnbull dopo la battaglia della Torre.
-Dovevamo conservare i nostri costumi e il nostro [[concepts/self|auto]]-[[government|governo]]. Se è così...»
+Dovevamo conservare i nostri costumi e il nostro [[concepts/self|auto]]-governo. Se è così...»
 
 
 
@@ -10847,7 +10847,7 @@ is sometimes foolish, as [[motifs/well|well]] as base, to despise the conquered.
 
 "Let us step outside," said Barker, with a grim composure.
 
-Buck did so, and stood [[rolling]] his eyes up and down the lamp-lit street.
+Buck did so, and stood rolling his eyes up and down the lamp-lit street.
 
 "I would like to have a go at smashing all this," he muttered,
 "though I am over sixty.  I would like..."
@@ -10871,7 +10871,7 @@ the gas-works, fighting with their handful of men like fiends from hell?
 And that then, in that great hour, Wayne sprang through a [[motifs/window|window]]
 of the gas-works, with one blow of his hand brought darkness
 on the whole [[motifs/city|city]], and then with a cry like a [[motifs/lion|lion]]'s, that was
-heard through four streets, flew at Wilson's men, [[Sword|sword]] in hand,
+heard through four streets, flew at Wilson's men, sword in hand,
 and swept them, bewildered as they were, and ignorant of the map,
 clear out of the sacred street again?  And don't you know that
 upon that [[motifs/night|night]] every year all lights are turned out for half
@@ -10890,7 +10890,7 @@ And the old guard of God turned to bay.
 For the old guard of God turns to bay, turns to bay,
 And the [[motifs/stars|stars]] fall down before it ere its banners fall to-day.
 For when armies were around us as a howling and a horde, 
-When falling was the citadel and broken was the [[Sword|sword]],
+When falling was the citadel and broken was the sword,
 The darkness came upon them like the Dragon of the Lord,
 When the old guard of God turned to bay."
 
@@ -10899,7 +10899,7 @@ when they were stopped by a scurry and a yell.  Barker had bounded
 into the street with a cry of "South Kensington!" and a drawn dagger.
 In less [[motifs/time|time]] than man could blink, the whole packed street was
 full of curses and struggling.  Barker was flung back against
-the shop-front, but used the second only to draw his [[Sword|sword]] as [[motifs/well|well]]
+the shop-front, but used the second only to draw his sword as [[motifs/well|well]]
 as his dagger, and calling out, "This is not the first [[motifs/time|time]] I've
 come through the thick of you," flung himself again into the press.
 It was evident that he had drawn [[motifs/blood|blood]] at last, for a more violent
@@ -10914,7 +10914,7 @@ next shop, which was the old curiosity shop, and, plunging in
 his hand, snatched a kind of Japanese scimitar, and calling
 out, "Kensington!  Kensington!" rushed to Barker's assistance.
 
-Barker's [[Sword|sword]] was broken, but he was laying about him with his dagger.
+Barker's sword was broken, but he was laying about him with his dagger.
 Just as Buck ran up, a man of Hotting [[motifs/hill|Hill]] struck Barker down,
 but Buck struck the man down on top of him, and Barker sprang up again,
 the [[motifs/blood|blood]] running down his face.
@@ -10996,7 +10996,7 @@ Una figura corpulenta in vesti purpuree, con un'aquila d'argento appesa al collo
 
 «Usciamo fuori», disse Barker, con truce compostezza.
 
-Buck lo fece, e rimase [[rolling|roteando]] gli occhi su e giù per la strada illuminata dai lampioni.
+Buck lo fece, e rimase roteando gli occhi su e giù per la strada illuminata dai lampioni.
 
 «Mi piacerebbe provare a fare a pezzi tutto questo», mormorò, «benché abbia più di sessant'anni. Mi piacerebbe...»
 
@@ -11006,7 +11006,7 @@ La sua voce terminò in un grido, ed egli barcollò indietro d'un passo, con le 
 
 Poiché in [[concepts/truth|verità]] ogni lampione della strada si era spento, sicché non riuscivano a scorgere nemmeno il contorno l'uno dell'altro, se non debolmente. La voce del farmacista giunse con sorprendente allegria dalla densità.
 
-«Oh, non lo sapete?» disse. «Non vi hanno mai detto che questa è la Festa dei Lumi, l'anniversario della grande battaglia che quasi perse e a stento salvò Notting [[motifs/hill|Hill]]? Non sapete, Maestà, che in questa [[motifs/night|notte]] ventun anni fa vedemmo le uniformi verdi di Wilson caricare giù per questa strada, e ricacciare Wayne e Turnbull contro le officine del gas, combattendo con la loro manciata di uomini come demoni dell'inferno? E che allora, in quella grande ora, Wayne balzò attraverso una [[motifs/window|finestra]] delle officine del gas, con un solo colpo della mano portò le tenebre sull'intera [[motifs/city|città]], e poi con un grido come quello d'un [[motifs/lion|leone]], che fu udito per quattro strade, si scagliò sugli uomini di Wilson, la [[Sword|spada]] in pugno, e li spazzò via, sbigottiti com'erano, e ignari della mappa, di nuovo fuori dalla sacra strada? E non sapete che in quella [[motifs/night|notte]], ogni anno, tutte le luci vengono spente per mezz'ora mentre cantiamo nelle tenebre l'inno di Notting [[motifs/hill|Hill]]? Udite! là comincia.»
+«Oh, non lo sapete?» disse. «Non vi hanno mai detto che questa è la Festa dei Lumi, l'anniversario della grande battaglia che quasi perse e a stento salvò Notting [[motifs/hill|Hill]]? Non sapete, Maestà, che in questa [[motifs/night|notte]] ventun anni fa vedemmo le uniformi verdi di Wilson caricare giù per questa strada, e ricacciare Wayne e Turnbull contro le officine del gas, combattendo con la loro manciata di uomini come demoni dell'inferno? E che allora, in quella grande ora, Wayne balzò attraverso una [[motifs/window|finestra]] delle officine del gas, con un solo colpo della mano portò le tenebre sull'intera [[motifs/city|città]], e poi con un grido come quello d'un [[motifs/lion|leone]], che fu udito per quattro strade, si scagliò sugli uomini di Wilson, la spada in pugno, e li spazzò via, sbigottiti com'erano, e ignari della mappa, di nuovo fuori dalla sacra strada? E non sapete che in quella [[motifs/night|notte]], ogni anno, tutte le luci vengono spente per mezz'ora mentre cantiamo nelle tenebre l'inno di Notting [[motifs/hill|Hill]]? Udite! là comincia.»
 
 Attraverso la [[motifs/night|notte]] giunse un fragore di tamburi, e poi un possente gonfiarsi di voci umane:
 
@@ -11019,13 +11019,13 @@ E la vecchia guardia di Dio si volse a far fronte.
 Poiché la vecchia guardia di Dio si volge a far fronte, si volge a far fronte,
 E le [[motifs/stars|stelle]] cadono davanti a lei prima che oggi cadano i suoi vessilli.
 Poiché quando gli eserciti ci circondavano come un urlo e un'orda,
-Quando cadeva la cittadella e spezzata era la [[Sword|spada]],
+Quando cadeva la cittadella e spezzata era la spada,
 Le tenebre calarono su di loro come il Drago del Signore,
 Quando la vecchia guardia di Dio si volse a far fronte.»
 
-Le voci stavano appena sollevandosi in una seconda strofa, quando furono interrotte da uno scompiglio e da un urlo. Barker si era slanciato nella strada con un grido di «South Kensington!» e un pugnale sguainato. In meno [[motifs/time|tempo]] di quanto un uomo impieghi a battere ciglio, l'intera strada gremita si riempì di imprecazioni e di lotta. Barker fu scaraventato all'indietro contro la vetrina del negozio, ma sfruttò l'attimo solo per sguainare la [[Sword|spada]] oltre [[motifs/well|che]] il pugnale, e gridando «Non è la prima [[motifs/time|volta]] che vengo attraverso la calca di voi», si gettò di nuovo nella mischia. Era evidente che aveva finalmente versato [[motifs/blood|sangue]], poiché sorse un clamore ancor più violento, e molti altri coltelli e spade divennero visibili nella fioca luce. Barker, dopo aver ferito più d'un uomo, sembrava sul punto d'essere respinto ancora una volta, quando Buck a un tratto uscì sulla strada. Non aveva alcuna arma, poiché egli prediligeva piuttosto la pacifica magnificenza del gran borghese che il combattivo dandismo che aveva sostituito in Barker l'antico cupo dandismo. Ma con un colpo del pugno serrato ruppe il vetro del negozio accanto, che era il vecchio negozio di curiosità, e, cacciandovi dentro la mano, afferrò una sorta di scimitarra giapponese, e gridando «Kensington! Kensington!» si precipitò in soccorso di Barker.
+Le voci stavano appena sollevandosi in una seconda strofa, quando furono interrotte da uno scompiglio e da un urlo. Barker si era slanciato nella strada con un grido di «South Kensington!» e un pugnale sguainato. In meno [[motifs/time|tempo]] di quanto un uomo impieghi a battere ciglio, l'intera strada gremita si riempì di imprecazioni e di lotta. Barker fu scaraventato all'indietro contro la vetrina del negozio, ma sfruttò l'attimo solo per sguainare la spada oltre [[motifs/well|che]] il pugnale, e gridando «Non è la prima [[motifs/time|volta]] che vengo attraverso la calca di voi», si gettò di nuovo nella mischia. Era evidente che aveva finalmente versato [[motifs/blood|sangue]], poiché sorse un clamore ancor più violento, e molti altri coltelli e spade divennero visibili nella fioca luce. Barker, dopo aver ferito più d'un uomo, sembrava sul punto d'essere respinto ancora una volta, quando Buck a un tratto uscì sulla strada. Non aveva alcuna arma, poiché egli prediligeva piuttosto la pacifica magnificenza del gran borghese che il combattivo dandismo che aveva sostituito in Barker l'antico cupo dandismo. Ma con un colpo del pugno serrato ruppe il vetro del negozio accanto, che era il vecchio negozio di curiosità, e, cacciandovi dentro la mano, afferrò una sorta di scimitarra giapponese, e gridando «Kensington! Kensington!» si precipitò in soccorso di Barker.
 
-La [[Sword|spada]] di Barker era spezzata, ma egli menava colpi all'intorno con il pugnale. Proprio mentre Buck accorreva, un uomo di Notting [[motifs/hill|Hill]] abbatté Barker, ma Buck abbatté quell'uomo sopra di lui, e Barker balzò di nuovo in piedi, il [[motifs/blood|sangue]] che gli colava lungo il volto.
+La spada di Barker era spezzata, ma egli menava colpi all'intorno con il pugnale. Proprio mentre Buck accorreva, un uomo di Notting [[motifs/hill|Hill]] abbatté Barker, ma Buck abbatté quell'uomo sopra di lui, e Barker balzò di nuovo in piedi, il [[motifs/blood|sangue]] che gli colava lungo il volto.
 
 A un tratto tutte queste grida furono fesse da una gran voce, che pareva piombare dal cielo. Fu terribile per Buck e Barker e il [[archetypes/king|Re]] per il suo sembrare provenire dai cieli vuoti; ma fu più terribile perché era una voce familiare, e una che al tempo stesso non udivano da così lungo [[motifs/time|tempo]].
 
@@ -11236,7 +11236,7 @@ Barker is checked!  Turnbull charges...wins!  But our left is broken.
 Wilson has smashed Bowles and Mead, and may turn our flank.
 Forward, the Provost's Guard!"
 
-And the whole centre moved forward, Wayne's face and hair and [[Sword|sword]]
+And the whole centre moved forward, Wayne's face and hair and sword
 flaming in the van.
 
 The [[archetypes/king|King]] ran suddenly forward.
@@ -11265,7 +11265,7 @@ with which Wayne's small army was engaged lay the great sea of
 the allied armies, which looked on as yet as scornful spectators,
 but could have broken all four armies by moving a finger.
 
-Suddenly they did move.  Some of the front contingents, the [[Pastoral|pastoral]]
+Suddenly they did move.  Some of the front contingents, the pastoral
 chiefs from Shepherd's Bush, with their spears and fleeces,
 were seen advancing, and the rude clans from Paddington Green.
 They were advancing for a very good reason.  Buck, of North Kensington,
@@ -11310,7 +11310,7 @@ E un altro fragore d'acciaio sulla destra mostrò che Barker si era scontrato co
 
 «Turnbull è là!» gridò Wayne. «Guardatelo respingerli indietro! Barker è arrestato! Turnbull carica... vince! Ma la nostra sinistra è spezzata. Wilson ha travolto Bowles e Mead, e potrebbe aggirare il nostro fianco. Avanti, Guardia del Prevosto!»
 
-E tutto il centro avanzò, il volto e i capelli e la [[Sword|spada]] di Wayne fiammeggianti in testa.
+E tutto il centro avanzò, il volto e i capelli e la spada di Wayne fiammeggianti in testa.
 
 Il [[archetypes/king|Re]] corse d'improvviso in avanti.
 
@@ -11320,7 +11320,7 @@ Sulla sinistra il Rosso Wilson stava assaltando le file spezzate, la sua piccola
 
 Sulla destra, tuttavia, Turnbull aveva portato il vessillo del [[motifs/lion|Leone]] Rosso con uno slancio contro gli uomini di Barker, e lo stendardo degli [[motifs/birds|Uccelli]] d'Oro resisteva a fatica contro di esso. Gli uomini di Barker cadevano rapidamente. Al centro Wayne e Buck erano alle prese, ostinati e confusi. Per quanto riguardava il combattimento, esso era perfettamente pari. Ma il combattimento era una farsa. Poiché dietro i tre piccoli eserciti coi quali il piccolo esercito di Wayne era alle prese giaceva il grande mare degli eserciti alleati, che per ora osservavano come spettatori sprezzanti, ma che avrebbero potuto spezzare tutti e quattro gli eserciti muovendo un dito.
 
-D'improvviso essi si mossero. Alcuni dei contingenti di prima linea, i capi [[Pastoral|pastorali]] di Shepherd's Bush, con le loro lance e i loro velli, furono visti avanzare, e i rozzi clan di Paddington Green. Avanzavano per un'ottima ragione. Buck, di North Kensington, faceva segnali freneticamente; era circondato, e totalmente tagliato fuori. I suoi reggimenti erano una massa di gente che si dibatteva, isolata come un'isola in un rosso mare di Notting [[motifs/hill|Hill]].
+D'improvviso essi si mossero. Alcuni dei contingenti di prima linea, i capi pastorali di Shepherd's Bush, con le loro lance e i loro velli, furono visti avanzare, e i rozzi clan di Paddington Green. Avanzavano per un'ottima ragione. Buck, di North Kensington, faceva segnali freneticamente; era circondato, e totalmente tagliato fuori. I suoi reggimenti erano una massa di gente che si dibatteva, isolata come un'isola in un rosso mare di Notting [[motifs/hill|Hill]].
 
 Gli alleati erano stati troppo incuranti e sicuri. Avevano lasciato che la forza di Barker fosse fatta a pezzi da Turnbull, e nel momento in cui ciò fu compiuto, l'astuto vecchio condottiero di Notting [[motifs/hill|Hill]] fece volteggiare i suoi uomini e attaccò Buck alle spalle e su entrambi i lati. Nello stesso momento Wayne gridò «Carica!» e lo colpì di fronte come una folgore.
 
@@ -11341,18 +11341,18 @@ and died somewhere far in the depths of their reeling ranks.
 Then the battle roared on; every man of Notting [[motifs/hill|Hill]] was
 slain before [[motifs/night|night]].
 
-Wayne was standing by a tree [[Alone|alone]] after the battle.
+Wayne was standing by a tree alone after the battle.
 Several men approached him with axes.  One struck at him.
 His foot seemed partly to slip; but he flung his hand out,
 and steadied himself against the tree.
 
-Barker sprang after him, [[Sword|sword]] in hand, and shaking with excitement.
+Barker sprang after him, sword in hand, and shaking with excitement.
 
 "How large now, my lord," he cried, "is the Empire of Notting [[motifs/hill|Hill]]?"
 
 Wayne smiled in the gathering dark.
 
-"Always as large as this," he said, and swept his [[Sword|sword]] round
+"Always as large as this," he said, and swept his sword round
 in a semicircle of silver.
 
 Barker dropped, wounded in the neck; and Wilson sprang over his
@@ -11362,9 +11362,9 @@ and a mass of the West Kensington halberdiers ploughed up the slope,
 knee-deep in grass, bearing the yellow banner of the [[motifs/city|city]] before them,
 and shouting aloud.
 
-At the same second Wilson went down under Wayne's [[Sword|sword]], seemingly smashed
-like a fly.  The great [[Sword|sword]] [[motifs/rose|rose]] again like, a bird, but Wilson
-seemed to rise with it, and, his [[Sword|sword]] being broken, sprang at
+At the same second Wilson went down under Wayne's sword, seemingly smashed
+like a fly.  The great sword [[motifs/rose|rose]] again like, a bird, but Wilson
+seemed to rise with it, and, his sword being broken, sprang at
 Wayne's throat like a dog.  The foremost of the yellow halberdiers
 had reached the tree and swung his axe above the struggling Wayne.
 With a curse the [[archetypes/king|King]] whirled up his own halberd and dashed
@@ -11396,15 +11396,15 @@ something that he had seen somewhere long ago in a restaurant.
 He saw, with his swimming eyes, red and yellow, the colours of Nicaragua.
 
 Quin did not see the end.  Wilson, wild with joy, sprang again
-at [[characters/adam-wayne|Adam Wayne]], and the great [[Sword|sword]] of Notting [[motifs/hill|Hill]] was whirled
+at [[characters/adam-wayne|Adam Wayne]], and the great sword of Notting [[motifs/hill|Hill]] was whirled
 above once more.  Then men ducked instinctively at the rushing
-noise of the [[Sword|sword]] coming down out of the sky, and Wilson of
+noise of the sword coming down out of the sky, and Wilson of
 Bayswater was smashed and wiped down upon the floor like a fly.
 Nothing was left of him but a wreck; but the blade that had
-broken him was broken.  In dying he had snapped the great [[Sword|sword]]
-and the spell of it; the [[Sword|sword]] of Wayne was broken, at the hilt.
+broken him was broken.  In dying he had snapped the great sword
+and the spell of it; the sword of Wayne was broken, at the hilt.
 One rush of the enemy carried Wayne by force against the tree.
-They were too close to use halberd or even [[Sword|sword]]; they were breast
+They were too close to use halberd or even sword; they were breast
 to breast, even nostrils to nostrils.  But Buck got his dagger free.
 
 "Kill him!" he cried, in a strange stifled voice.  "Kill him!
@@ -11483,18 +11483,18 @@ e morì in qualche punto lontano, nel profondo delle loro schiere vacillanti.
 Poi la battaglia tornò a ruggire; ogni uomo di Notting [[motifs/hill|Hill]] fu
 trucidato prima di [[motifs/night|notte]].
 
-Wayne stava presso un albero, [[Alone|solo]], dopo la battaglia.
+Wayne stava presso un albero, solo, dopo la battaglia.
 Parecchi uomini gli si avvicinarono con le asce.  Uno lo colpì.
 Il piede parve in parte scivolargli; ma protese la mano,
 e si tenne saldo contro l'albero.
 
-Barker gli balzò dietro, la [[Sword|spada]] in pugno, e tremante d'eccitazione.
+Barker gli balzò dietro, la spada in pugno, e tremante d'eccitazione.
 
 «Quanto è grande ora, mio signore», gridò, «l'Impero di Notting [[motifs/hill|Hill]]?»
 
 Wayne sorrise nel buio che s'addensava.
 
-«Sempre grande così», disse, e roteò la [[Sword|spada]]
+«Sempre grande così», disse, e roteò la spada
 in un semicerchio d'argento.
 
 Barker cadde, ferito al collo; e Wilson balzò sopra il suo
@@ -11504,9 +11504,9 @@ e una massa di alabardieri di West Kensington solcò il pendio,
 con l'erba fino al ginocchio, recando innanzi a sé il vessillo giallo della [[motifs/city|città]],
 e gridando forte.
 
-Nello stesso secondo Wilson cadde sotto la [[Sword|spada]] di Wayne, apparentemente schiacciato
-come una mosca.  La grande [[Sword|spada]] si [[motifs/rose|levò]] di nuovo come un uccello, ma Wilson
-parve levarsi con essa, e, spezzatasi la sua [[Sword|spada]], balzò
+Nello stesso secondo Wilson cadde sotto la spada di Wayne, apparentemente schiacciato
+come una mosca.  La grande spada si [[motifs/rose|levò]] di nuovo come un uccello, ma Wilson
+parve levarsi con essa, e, spezzatasi la sua spada, balzò
 alla gola di Wayne come un cane.  Il primo degli alabardieri gialli
 aveva raggiunto l'albero e alzò l'ascia sopra Wayne che lottava.
 Con una bestemmia il [[archetypes/king|Re]] fece roteare la propria alabarda e ne calò
@@ -11538,15 +11538,15 @@ qualcosa che aveva veduto in qualche luogo, molto tempo prima, in un ristorante.
 Vide, con gli occhi annebbiati, il rosso e il giallo, i colori del Nicaragua.
 
 Quin non vide la fine.  Wilson, folle di gioia, balzò di nuovo
-su [[characters/adam-wayne|Adam Wayne]], e la grande [[Sword|spada]] di Notting [[motifs/hill|Hill]] fu roteata
+su [[characters/adam-wayne|Adam Wayne]], e la grande spada di Notting [[motifs/hill|Hill]] fu roteata
 ancora una volta in alto.  Allora gli uomini si abbassarono d'istinto al sibilante
-rumore della [[Sword|spada]] che scendeva giù dal cielo, e Wilson di
+rumore della spada che scendeva giù dal cielo, e Wilson di
 Bayswater fu schiacciato e spazzato al suolo come una mosca.
 Di lui non rimase che un relitto; ma la lama che l'aveva
-spezzato era spezzata.  Morendo egli aveva infranto la grande [[Sword|spada]]
-e il suo incantesimo; la [[Sword|spada]] di Wayne era spezzata, all'elsa.
+spezzato era spezzata.  Morendo egli aveva infranto la grande spada
+e il suo incantesimo; la spada di Wayne era spezzata, all'elsa.
 Un solo assalto del nemico trascinò Wayne di forza contro l'albero.
-Erano troppo vicini per usare l'alabarda o persino la [[Sword|spada]]; erano petto
+Erano troppo vicini per usare l'alabarda o persino la spada; erano petto
 contro petto, persino narici contro narici.  Ma Buck riuscì a liberare il pugnale.
 
 «Uccidetelo!» gridò, con voce strana e soffocata.  «Uccidetelo!
@@ -11861,7 +11861,7 @@ We are mad, because we are two lobes of the same brain, and that
 brain has been cloven in two.  And if you ask for the proof of it,
 it is not hard to find.  It is not merely that you, the humourist,
 have been in these dark days stripped of the joy of gravity.
-It is not merely that I, the fanatic, have had to grope without [[Humour|humour]].
+It is not merely that I, the fanatic, have had to grope without humour.
 It is that though we seem to be opposite iii everything, we have been
 opposite like man and woman, aiming at the same moment at the same
 practical thing.  We are the father and the mother of the Charter
@@ -11894,7 +11894,7 @@ the ages that loved God, are full of blasphemous grotesques.
 The mother laughs continually at the [[archetypes/child|child]], the [[archetypes/lover|lover]] laughs continually
 at the [[archetypes/lover|lover]], the wife at the husband, the friend at the friend.
 [[characters/auberon-quin|Auberon Quin]], we have been too long separated, let us go out together.
-You have a halberd and I a [[Sword|sword]], let us start our wanderings over
+You have a halberd and I a sword, let us start our wanderings over
 the world.  For we are its two essentials.  Come, it is already day."
 
 In the blank white light Auberon hesitated a moment.
@@ -11936,7 +11936,7 @@ Alla fine Wayne disse, assai lentamente:
 
 Wayne balzò giù dall'altura sopra di lui e tese la mano.
 
-«Non mi fermerò a ringraziarti», disse, con una curiosa gioia nella voce, «per il grande bene che hai realmente operato per il mondo. Tutto ciò che penso di quanto ti ho detto un momento fa, persino quando credevo che la tua voce fosse la voce di un'onnipotenza beffarda, il cui riso è più antico dei venti del cielo. Ma lascia che dica ciò che è immediato e vero. Tu ed io, [[characters/auberon-quin|Auberon Quin]], siamo stati entrambi, lungo tutta la nostra vita, più e più volte chiamati pazzi. E siamo pazzi. Siamo pazzi, perché non siamo due uomini ma un solo uomo. Siamo pazzi, perché siamo due lobi dello stesso cervello, e quel cervello è stato spaccato in due. E se chiedi la prova di ciò, non è difficile da trovare. Non è soltanto che tu, l'umorista, sei stato in questi giorni oscuri spogliato della gioia della gravità. Non è soltanto che io, il fanatico, ho dovuto brancolare senza [[Humour|umorismo]]. È che, benché sembriamo opposti in tutto, siamo stati opposti come l'uomo e la donna, mirando nel medesimo istante alla medesima cosa pratica. Siamo il padre e la madre della Carta delle Città.»
+«Non mi fermerò a ringraziarti», disse, con una curiosa gioia nella voce, «per il grande bene che hai realmente operato per il mondo. Tutto ciò che penso di quanto ti ho detto un momento fa, persino quando credevo che la tua voce fosse la voce di un'onnipotenza beffarda, il cui riso è più antico dei venti del cielo. Ma lascia che dica ciò che è immediato e vero. Tu ed io, [[characters/auberon-quin|Auberon Quin]], siamo stati entrambi, lungo tutta la nostra vita, più e più volte chiamati pazzi. E siamo pazzi. Siamo pazzi, perché non siamo due uomini ma un solo uomo. Siamo pazzi, perché siamo due lobi dello stesso cervello, e quel cervello è stato spaccato in due. E se chiedi la prova di ciò, non è difficile da trovare. Non è soltanto che tu, l'umorista, sei stato in questi giorni oscuri spogliato della gioia della gravità. Non è soltanto che io, il fanatico, ho dovuto brancolare senza umorismo. È che, benché sembriamo opposti in tutto, siamo stati opposti come l'uomo e la donna, mirando nel medesimo istante alla medesima cosa pratica. Siamo il padre e la madre della Carta delle Città.»
 
 Quin abbassò lo sguardo sui detriti di [[motifs/leaves|foglie]] e legname, le reliquie della battaglia e della fuga precipitosa, ora luccicanti nella luce ardente del giorno, e infine disse:
 
@@ -11944,7 +11944,7 @@ Quin abbassò lo sguardo sui detriti di [[motifs/leaves|foglie]] e legname, le r
 
 Il volto selvaggio di Wayne fiammeggiò di qualcosa di divino, mentre lo volgeva a essere colpito dall'aurora.
 
-«Conosco qualcosa che muterà quell'antagonismo, qualcosa che è al di fuori di noi, qualcosa di cui tu ed io per tutta la vita forse abbiamo tenuto troppo poco conto. L'eguale ed eterno essere umano muterà quell'antagonismo, poiché l'essere umano non vede alcun reale antagonismo tra il riso e il rispetto, l'essere umano, l'[[concepts/common-man|uomo comune]], che meri geni come te e me possono solo adorare come un dio. Quando vengono giorni oscuri e tetri, tu ed io siamo necessari, il puro fanatico, il puro satirico. Abbiamo insieme rimediato a un grande torto. Abbiamo innalzato le città moderne in quella poesia che chiunque conosca l'umanità sa essere incommensurabilmente più comune del comune. Ma nelle persone sane non c'è guerra tra noi. Non siamo che i due lobi del cervello di un aratore. Il riso e l'[[motifs/love|amore]] sono ovunque. Le cattedrali, edificate nelle epoche che amavano Dio, sono piene di grotteschi blasfemi. La madre ride di continuo del [[archetypes/child|bambino]], l'[[archetypes/lover|amante]] ride di continuo dell'[[archetypes/lover|amante]], la moglie del marito, l'amico dell'amico. [[characters/auberon-quin|Auberon Quin]], siamo stati separati troppo a lungo, usciamo insieme. Tu hai un'alabarda ed io una [[Sword|spada]], cominciamo i nostri vagabondaggi per il mondo. Poiché noi siamo i suoi due elementi essenziali. Vieni, è già giorno.»
+«Conosco qualcosa che muterà quell'antagonismo, qualcosa che è al di fuori di noi, qualcosa di cui tu ed io per tutta la vita forse abbiamo tenuto troppo poco conto. L'eguale ed eterno essere umano muterà quell'antagonismo, poiché l'essere umano non vede alcun reale antagonismo tra il riso e il rispetto, l'essere umano, l'[[concepts/common-man|uomo comune]], che meri geni come te e me possono solo adorare come un dio. Quando vengono giorni oscuri e tetri, tu ed io siamo necessari, il puro fanatico, il puro satirico. Abbiamo insieme rimediato a un grande torto. Abbiamo innalzato le città moderne in quella poesia che chiunque conosca l'umanità sa essere incommensurabilmente più comune del comune. Ma nelle persone sane non c'è guerra tra noi. Non siamo che i due lobi del cervello di un aratore. Il riso e l'[[motifs/love|amore]] sono ovunque. Le cattedrali, edificate nelle epoche che amavano Dio, sono piene di grotteschi blasfemi. La madre ride di continuo del [[archetypes/child|bambino]], l'[[archetypes/lover|amante]] ride di continuo dell'[[archetypes/lover|amante]], la moglie del marito, l'amico dell'amico. [[characters/auberon-quin|Auberon Quin]], siamo stati separati troppo a lungo, usciamo insieme. Tu hai un'alabarda ed io una spada, cominciamo i nostri vagabondaggi per il mondo. Poiché noi siamo i suoi due elementi essenziali. Vieni, è già giorno.»
 
 Nella bianca luce vuota Auberon esitò un momento. Poi fece il saluto formale con la sua alabarda, e se ne andarono insieme nel mondo ignoto.
 

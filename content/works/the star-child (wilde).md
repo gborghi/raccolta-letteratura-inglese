@@ -58,13 +58,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/quest|Quest]], [[topoi/paradise-lost|Paradise Lost]], [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** Christ Figure, Child, Outsider, Great Mother, Pilgrim
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/child|Child]], [[archetypes/outsider|Outsider]], [[archetypes/great-mother|Great Mother]], [[archetypes/pilgrim|Pilgrim]]
 **Motifs:** [[motifs/winter|Winter]], [[motifs/stars|Stars]], [[motifs/mirror|Mirror]], [[motifs/animals|Animals]], [[motifs/money-and-gold|Money and Gold]], [[motifs/crown|Crown]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/clothing-and-costume|Clothing and Costume]]
 **Themes & Concepts:** [[concepts/pride|Pride]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/humility|Humility]], [[concepts/mercy|Mercy]], [[concepts/conversion|Conversion]], [[concepts/beauty|Beauty]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/social-injustice|Social Injustice]]
 **Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 **Settings:** [[settings/enchanted-wood-(2)|Enchanted Wood (2)]], [[settings/court|Court]]
-**Characters:** Christ, Star-Child, Woodcutter
+**Characters:** [[characters/christ|Christ]], [[characters/star-child|Star-Child]], [[characters/woodcutter|Woodcutter]]
 
 ## Testo integrale / Full text
 

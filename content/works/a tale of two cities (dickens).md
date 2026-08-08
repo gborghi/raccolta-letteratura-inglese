@@ -73,13 +73,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** Martyr Saint, Christ Figure, Avenger, Double Doppelganger
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/avenger|Avenger]], [[archetypes/double-doppelganger|Double Doppelganger]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/storm|Storm]], [[motifs/city|City]], [[motifs/light-and-dark|Light and Dark]]
 **Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/martyrdom|Martyrdom]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/romantic-love|Romantic Love]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/historical-novel|Historical Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
 **Historical References:** [[historical-references/french-revolution|French Revolution]]
 **Settings:** [[settings/paris|Paris]], [[settings/london|London]], [[settings/europe|Europe]]
-**Characters:** Sydney Carton, Charles Darnay, Lucie Manette, Doctor Manette, Madame Defarge, Ernest Defarge, Jarvis Lorry, Miss Pross, Jerry Cruncher, Marquis St. Evremonde
+**Characters:** [[characters/sydney-carton|Sydney Carton]], [[characters/charles-darnay|Charles Darnay]], [[characters/lucie-manette|Lucie Manette]], [[characters/doctor-manette|Doctor Manette]], [[characters/madame-defarge|Madame Defarge]], [[characters/ernest-defarge|Ernest Defarge]], [[characters/jarvis-lorry|Jarvis Lorry]], [[characters/miss-pross|Miss Pross]], [[characters/jerry-cruncher|Jerry Cruncher]], [[characters/marquis-st.-evremonde|Marquis St. Evremonde]]
 
 ## Testo integrale / Full text
 

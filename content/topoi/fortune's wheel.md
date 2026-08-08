@@ -31,9 +31,9 @@ tags:
 - [[works/to-fortune-(coleridge)-(2)|TO FORTUNE (Coleridge) (2)]]
 - [[works/zapolya-a-christmas-tale-in-two-parts-(coleridge)|ZAPOLYA A CHRISTMAS TALE IN TWO PARTS (Coleridge)]]
 - [[works/a-tale-of-two-cities-(dickens)|A Tale of Two Cities (Dickens)]]
-- 373. I'm saying every day (Dickinson)
-- 385. Smiling back from Coronation (Dickinson)
-- 700. You've seen Balloons set — Haven't You (Dickinson)
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0373_im_saying_every_day|373. I'm saying every day (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0385_smiling_back_from_coronation|385. Smiling back from Coronation (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0700_youve_seen_balloons_set_havent_you|700. You've seen Balloons set — Haven't You (Dickinson)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
 - [[works/king-stephen-(keats)|King Stephen (Keats)]]
@@ -49,13 +49,13 @@ tags:
 - [[works/richard-ii-(shakespeare)|RICHARD II (Shakespeare)]]
 - [[works/richard-iii-(shakespeare)|RICHARD III (Shakespeare)]]
 - [[works/sir-thomas-more-(shakespeare)|SIR THOMAS MORE (Shakespeare)]]
-- Sonnet 111 (Shakespeare)
-- Sonnet 124 (Shakespeare)
-- Sonnet 25 (Shakespeare)
-- Sonnet 29 (Shakespeare)
-- Sonnet 37 (Shakespeare)
-- Sonnet 87 (Shakespeare)
-- Sonnet 90 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_111|Sonnet 111 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_124|Sonnet 124 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_025|Sonnet 25 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_029|Sonnet 29 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_037|Sonnet 37 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_087|Sonnet 87 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_090|Sonnet 90 (Shakespeare)]]
 - [[works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)|THE FIRST PART OF THE CONTENTION - (2 HENRY VI) (Shakespeare)]]
 - [[works/the-history-of-king-lear---the-quarto-text-(shakespeare)|THE HISTORY OF KING LEAR - THE QUARTO TEXT (Shakespeare)]]
 - [[works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)|THE TRAGEDY OF KING LEAR - THE FOLIO TEXT (Shakespeare)]]

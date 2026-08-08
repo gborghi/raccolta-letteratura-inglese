@@ -39,5 +39,5 @@ tags:
 **Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/deception|Deception]], [[concepts/greed-and-money|Greed and Money]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/money-and-gold|Money and Gold]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Settings:** [[settings/island|Island]], [[motifs/ship|Ship]]
-**Characters:** Captain Sharkey
-**Archetypes:** Villain, Trickster, Avenger
+**Characters:** [[characters/captain-sharkey|Captain Sharkey]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/trickster|Trickster]], [[archetypes/avenger|Avenger]]

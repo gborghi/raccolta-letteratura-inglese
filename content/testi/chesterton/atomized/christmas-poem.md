@@ -58,7 +58,7 @@ e la nostra pace è riposta in cose impossibili
 dove cozzarono e tuonarono ali impensabili  
 attorno a una stella incredibile.  
 
-A una [[house|casa]] aperta nella sera  
+A una casa aperta nella sera  
 a [[motifs/home|casa]] verranno tutti gli uomini,  
 a un luogo più antico dell'Eden  
 e a una città più alta di Roma.  
@@ -115,7 +115,7 @@ And our peace is put in impossible things
 Where clashed and thundered unthinkable wings  
 Round an incredible star.  
 
-To an open [[house]] in the evening  
+To an open house in the evening  
 [[motifs/home|Home]] shall all men come,  
 To an older place than Eden  
 And a taller town than Rome.  
@@ -170,7 +170,7 @@ e la nostra pace è riposta in cose impossibili
 dove cozzarono e tuonarono ali impensabili  
 attorno a una stella incredibile.  
 
-A una [[house|casa]] aperta nella sera  
+A una casa aperta nella sera  
 a [[motifs/home|casa]] verranno tutti gli uomini,  
 a un luogo più antico dell'Eden  
 e a una città più alta di Roma.  

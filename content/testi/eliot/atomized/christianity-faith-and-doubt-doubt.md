@@ -211,7 +211,7 @@ I have walked many years in this [[motifs/city|city]],
 Kept [[concepts/faith|faith]] and fast, provided for the poor,  
 Have given and taken [[concepts/honour|honour]] and ease.  
 There went never any rejected from my door.  
-Who shall remember my [[house]], where shall live my children’s children  
+Who shall remember my house, where shall live my children’s children  
 When the [[motifs/time|time]] of sorrow is come?  
 They will take to the goat’s path, and the fox’s [[motifs/home|home]],  
 Fleeing from the foreign faces and the foreign swords.  
@@ -230,7 +230,7 @@ Light upon light, mounting the saints’ stair.
 Not for me the [[concepts/martyrdom|martyrdom]], the ecstasy of thought and [[motifs/prayer|prayer]],  
 Not for me the ultimate vision.  
 Grant me thy peace.  
-(And a [[Sword|sword]] shall pierce thy heart. Thine also).  
+(And a sword shall pierce thy heart. Thine also).  
 
 
 I am tired with my own life and the lives of those after me,  
@@ -241,7 +241,7 @@ Having seen thy salvation.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un [[Song|Canto]] per Simeone  
+Un Canto per Simeone  
     Signore, i giacinti romani fioriscono nelle ciotole e  
 il sole d’[[motifs/winter|inverno]] striscia presso i colli di [[motifs/snow|neve]];  
 la stagione ostinata ha fatto argine.  
@@ -254,7 +254,7 @@ Ho camminato molti anni in questa [[motifs/city|città]],
 ho tenuto [[concepts/faith|fede]] e digiuno, ho provveduto ai poveri,  
 ho dato e ricevuto [[concepts/honour|onore]] e agio.  
 Nessuno mai se ne andò respinto dalla mia porta.  
-Chi ricorderà la mia [[house|casa]], dove vivranno i figli dei miei figli  
+Chi ricorderà la mia casa, dove vivranno i figli dei miei figli  
 quando sarà venuto il [[motifs/time|tempo]] del dolore?  
 Prenderanno il sentiero della capra, e la [[motifs/home|tana]] della volpe,  
 fuggendo dai volti stranieri e dalle spade straniere.  
@@ -273,7 +273,7 @@ luce su luce, salendo la scala dei santi.
 Non per me il [[concepts/martyrdom|martirio]], l’estasi del pensiero e della [[motifs/prayer|preghiera]],  
 non per me la visione ultima.  
 Concedimi la tua pace.  
-(E una [[Sword|spada]] trafiggerà il tuo cuore. Anche il tuo).  
+(E una spada trafiggerà il tuo cuore. Anche il tuo).  
 
 
 Sono stanco della mia stessa vita e delle vite di quelli dopo di me,  
@@ -292,7 +292,7 @@ Fellow citizens of the saints, of the household of GOD, being built upon the fou
 
 
 Of apostles and prophets, [[characters/christ|Christ]] Jesus Himself the chief cornerstone.  
-But you, have you built [[motifs/well|well]], that you now sit helpless in a ruined [[house]]?  
+But you, have you built [[motifs/well|well]], that you now sit helpless in a ruined house?  
 
 
 Where many are born to idleness, to frittered lives and squalid deaths, embittered scorn in honeyless hives,  
@@ -307,7 +307,7 @@ Your building not fitly framed together, you sit ashamed and [[concepts/wonder|w
 And some say: ‘How can we [[motifs/love|love]] our neighbour? For [[motifs/love|love]] must be made real in act, as [[motifs/desire|desire]] unites with desired; we have only our labour to give and our labour is not required.  
 
 
-We wait on corners, with nothing to bring but the [[songs]] we can sing which nobody wants to hear sung;  
+We wait on corners, with nothing to bring but the songs we can sing which nobody wants to hear sung;  
 
 
 Waiting to be flung in the end, on a heap less useful than dung’.  
@@ -345,7 +345,7 @@ For sloth, for avarice, gluttony, neglect of the Word of GOD,
 
 For [[concepts/pride|pride]], for lechery, treachery, for every act of sin.  
 And of all that was done that was good, you have the inheritance.  
-For good and ill deeds belong to a man [[Alone|alone]], when he stands [[Alone|alone]] on the other side of [[motifs/death|death]],  
+For good and ill deeds belong to a man alone, when he stands alone on the other side of [[motifs/death|death]],  
 
 
 But here upon earth you have the reward of the good and ill that was done by those who have gone before you.  
@@ -371,7 +371,7 @@ There is no life that is not in community,
 And no community not lived in praise of GOD.  
 
 
-Even the anchorite who meditates [[Alone|alone]],  
+Even the anchorite who meditates alone,  
 For whom the days and nights repeat the praise of GOD,  
 
 
@@ -398,7 +398,7 @@ concittadini dei santi, della famiglia di DIO, edificati sul fondamento
 
 
 degli apostoli e dei profeti, essendo [[characters/christ|Cristo]] Gesù stesso la pietra angolare.  
-Ma voi, avete costruito [[motifs/well|bene]], che ora sedete impotenti in una [[house|casa]] in rovina?  
+Ma voi, avete costruito [[motifs/well|bene]], che ora sedete impotenti in una casa in rovina?  
 
 
 Dove molti nascono all’ozio, a vite sperperate e a squallide morti, a scherno inasprito in alveari senza miele,  
@@ -413,7 +413,7 @@ Il vostro edificio non ben commesso insieme, sedete vergognosi e vi [[concepts/w
 E alcuni dicono: ‘Come possiamo [[motifs/love|amare]] il nostro prossimo? Ché l’[[motifs/love|amore]] dev’essere reso reale nell’atto, come il [[motifs/desire|desiderio]] s’unisce al desiderato; non abbiamo che il nostro lavoro da dare e il nostro lavoro non è richiesto.  
 
 
-Aspettiamo agli angoli, senza nulla da portare se non i [[songs|canti]] che sappiamo cantare e che nessuno vuole sentir cantare;  
+Aspettiamo agli angoli, senza nulla da portare se non i canti che sappiamo cantare e che nessuno vuole sentir cantare;  
 
 
 aspettando d’essere gettati alla fine su un mucchio meno utile del letame’.  
@@ -451,7 +451,7 @@ per l’accidia, per l’avarizia, la gola, la negligenza della Parola di DIO,
 
 per la [[concepts/pride|superbia]], per la lussuria, il tradimento, per ogni atto di peccato.  
 E di tutto ciò che fu fatto di buono, voi avete l’eredità.  
-Ché le opere buone e cattive appartengono all’uomo [[Alone|solo]], quando egli sta [[Alone|solo]] dall’altra parte della [[motifs/death|morte]],  
+Ché le opere buone e cattive appartengono all’uomo solo, quando egli sta solo dall’altra parte della [[motifs/death|morte]],  
 
 
 ma qui sulla terra voi avete la ricompensa del bene e del male che fu fatto da quelli che vi hanno preceduto.  
@@ -477,7 +477,7 @@ Non c’è vita che non sia in comunità,
 e nessuna comunità non vissuta in lode di DIO.  
 
 
-Anche l’anacoreta che medita [[Alone|solo]],  
+Anche l’anacoreta che medita solo,  
 per il quale i giorni e le notti ripetono la lode di DIO,  
 
 
@@ -521,10 +521,10 @@ Many read nothing but the race reports.
 Much is your reading, but not the Word of GOD,  
 
 
-Much is your building, but not the [[house|House]] of GOD.  
+Much is your building, but not the House of GOD.  
 
 
-Will you build me a [[house]] of plaster, with corrugated roofing,  
+Will you build me a house of plaster, with corrugated roofing,  
 To be filled with a litter of [[characters/sunday|Sunday]] newspapers?  
 1ST MALE VOICE:  
    A Cry from the East:  
@@ -559,14 +559,14 @@ To be filled with a litter of [[characters/sunday|Sunday]] newspapers?
 
 
    Shall we lift up our feet among perpetual ruins?  
-   I have loved the [[concepts/beauty|beauty]] of Thy [[house|House]], the peace of Thy sanctuary,  
+   I have loved the [[concepts/beauty|beauty]] of Thy House, the peace of Thy sanctuary,  
    I have swept the floors and garnished the altars.  
    Where there is no temple there shall be no homes,  
    Though you have shelters and institutions,  
    Precarious lodgings while the rent is paid,  
    Subsiding basements where the rat breeds  
    Or sanitary dwellings with numbered doors  
-   Or a [[house]] a little better than your neighbour’s;  
+   Or a house a little better than your neighbour’s;  
    When the Stranger says: ‘What is the meaning of this [[motifs/city|city]]?  
    Do you huddle close together because you [[motifs/love|love]] each other?’  
    What will you answer? ‘We all dwell together  
@@ -582,7 +582,7 @@ To be filled with a litter of [[characters/sunday|Sunday]] newspapers?
    Exploiting the seas and developing the [[settings/mountains|mountains]],  
    Dividing the [[motifs/stars|stars]] into common and preferred,  
    Engaged in devising the perfect refrigerator,  
-   Engaged in working out a rational [[morality]],  
+   Engaged in working out a rational morality,  
    Engaged in printing as many books as possible,  
    Plotting of happiness and flinging empty bottles,  
    Turning from your vacancy to fevered enthusiasm  
@@ -616,10 +616,10 @@ molti non leggono altro che i resoconti delle corse.
 Molta è la vostra lettura, ma non la Parola di DIO,  
 
 
-molta è la vostra edilizia, ma non la [[house|Casa]] di DIO.  
+molta è la vostra edilizia, ma non la Casa di DIO.  
 
 
-Mi costruirete una [[house|casa]] d’intonaco, con tetto di lamiera ondulata,  
+Mi costruirete una casa d’intonaco, con tetto di lamiera ondulata,  
 per essere riempita d’un guazzabuglio di giornali della [[characters/sunday|Domenica]]?  
 1ª VOCE MASCHILE:  
    Un Grido dall’Oriente:  
@@ -654,14 +654,14 @@ per essere riempita d’un guazzabuglio di giornali della [[characters/sunday|Do
 
 
    Solleveremo i nostri piedi fra rovine perpetue?  
-   Ho amato la [[concepts/beauty|bellezza]] della Tua [[house|Casa]], la pace del Tuo santuario,  
+   Ho amato la [[concepts/beauty|bellezza]] della Tua Casa, la pace del Tuo santuario,  
    ho spazzato i pavimenti e ornato gli altari.  
    Dove non c’è tempio non ci saranno case,  
    benché abbiate ricoveri e istituzioni,  
    alloggi precari finché l’affitto è pagato,  
    seminterrati che sprofondano dove si riproduce il ratto  
    o abitazioni igieniche con porte numerate  
-   o una [[house|casa]] un po’ migliore di quella del vostro vicino;  
+   o una casa un po’ migliore di quella del vostro vicino;  
    quando lo Straniero dice: ‘Qual è il significato di questa [[motifs/city|città]]?  
    Vi stringete così vicini gli uni agli altri perché vi [[motifs/love|amate]]?’  
    che cosa risponderete? ‘Abitiamo tutti insieme  
@@ -677,7 +677,7 @@ per essere riempita d’un guazzabuglio di giornali della [[characters/sunday|Do
    sfruttando i mari e sviluppando le [[settings/mountains|montagne]],  
    dividendo le [[motifs/stars|stelle]] in ordinarie e privilegiate,  
    occupati a ideare il frigorifero perfetto,  
-   occupati a elaborare una [[morality|morale]] razionale,  
+   occupati a elaborare una morale razionale,  
    occupati a stampare quanti più libri possibile,  
    tramando felicità e scagliando bottiglie vuote,  
    volgendovi dal vostro vuoto a un entusiasmo febbrile  
@@ -711,7 +711,7 @@ There were enemies without to destroy him,
 And spies and [[concepts/self|self]]-seekers within,  
 When he and his men laid their hands to rebuilding the wall.  
 So they built as men must build  
-With the [[Sword|sword]] in one hand and the trowel in the other.  
+With the sword in one hand and the trowel in the other.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -735,7 +735,7 @@ Vi erano nemici di fuori per distruggerlo,
 e spie e cercatori di [[concepts/self|sé]] di dentro,  
 quando egli e i suoi uomini posero mano a riedificare il muro.  
 Così costruirono come gli uomini devono costruire  
-con la [[Sword|spada]] in una mano e la cazzuola nell’altra.
+con la spada in una mano e la cazzuola nell’altra.
 
 
 
@@ -755,10 +755,10 @@ Preserve me from the enemy who has something to gain: and from the friend who ha
 Remembering the words of Nehemiah the [[archetypes/prophet|Prophet]]: ‘The trowel in hand, and the gun rather loose in the holster.’  
 
 
-Those who sit in a [[house]] of which the use is forgotten: are like snakes that lie on mouldering stairs, content in the sunlight.  
+Those who sit in a house of which the use is forgotten: are like snakes that lie on mouldering stairs, content in the sunlight.  
 
 
-And the others run about like [[dogs]], full of enterprise, sniffing and barking: they say, ‘This [[house]] is a nest of serpents, let us destroy it,  
+And the others run about like dogs, full of enterprise, sniffing and barking: they say, ‘This house is a nest of serpents, let us destroy it,  
 
 
 And have done with these abominations, the turpitudes of the Christians.’ And these are not justified, nor the others.  
@@ -773,7 +773,7 @@ If [[concepts/humility|humility]] and purity be not in the heart, they are not i
 The man who has builded during the day would return to his hearth at nightfall: to be blessed with the gift of [[motifs/silence|silence]], and doze before he sleeps.  
 
 
-But we are encompassed with snakes and [[dogs]]: therefore some must labour, and others must hold the spears.  
+But we are encompassed with snakes and dogs: therefore some must labour, and others must hold the spears.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -791,10 +791,10 @@ Preservami dal nemico che ha qualcosa da guadagnare: e dall’amico che ha qualc
 Ricordando le parole di Neemia il [[archetypes/prophet|Profeta]]: ‘La cazzuola in mano, e la pistola piuttosto lenta nella fondina.’  
 
 
-Quelli che siedono in una [[house|casa]] di cui l’uso è dimenticato: sono come serpi che giacciono su scale in sfacelo, contente nella luce del sole.  
+Quelli che siedono in una casa di cui l’uso è dimenticato: sono come serpi che giacciono su scale in sfacelo, contente nella luce del sole.  
 
 
-E gli altri corrono qua e là come [[dogs|cani]], pieni d’intraprendenza, fiutando e abbaiando: dicono, ‘Questa [[house|casa]] è un nido di serpenti, distruggiamola,  
+E gli altri corrono qua e là come cani, pieni d’intraprendenza, fiutando e abbaiando: dicono, ‘Questa casa è un nido di serpenti, distruggiamola,  
 
 
 e facciamola finita con queste abominazioni, le turpitudini dei Cristiani.’ E questi non sono giustificati, né gli altri.  
@@ -809,7 +809,7 @@ Se [[concepts/humility|umiltà]] e purezza non sono nel cuore, non sono nella [[
 L’uomo che ha costruito durante il giorno vorrebbe tornare al suo focolare sul far della notte: per essere benedetto col dono del [[motifs/silence|silenzio]], e sonnecchiare prima di dormire.  
 
 
-Ma siamo circondati da serpi e da [[dogs|cani]]: perciò alcuni devono faticare, e altri devono impugnare le lance.
+Ma siamo circondati da serpi e da cani: perciò alcuni devono faticare, e altri devono impugnare le lance.
 
 
 
@@ -962,7 +962,7 @@ That men both deny gods and worship gods, professing first Reason,
 And then Money, and Power, and what they call Life, or Race, or Dialectic.  
 
 
-The Church disowned, the tower overthrown, [[The Bells|the bells]] upturned, what have we to do  
+The Church disowned, the tower overthrown, the bells upturned, what have we to do  
 
 
 But stand with empty hands and palms turned upwards  
@@ -1064,7 +1064,7 @@ che gli uomini insieme neghino gli dèi e adorino gli dèi, professando prima la
 e poi il Denaro, e il Potere, e ciò che chiamano Vita, o Razza, o Dialettica.  
 
 
-La Chiesa rinnegata, la torre abbattuta, [[The Bells|le campane]] rovesciate, che cosa ci resta da fare  
+La Chiesa rinnegata, la torre abbattuta, le campane rovesciate, che cosa ci resta da fare  
 
 
 se non stare a mani vuote e coi palmi rivolti in alto  
@@ -1113,7 +1113,7 @@ Remembering the past.
 The heathen are come into thine inheritance,  
 And thy temple have they defiled.  
 Who is this that cometh from Edom?  
-He has trodden the wine-press [[Alone|alone]].  
+He has trodden the wine-press alone.  
 There came one who spoke of the shame of Jerusalem  
 And the holy places defiled;  
 Peter the Hermit, scourging with words.  
@@ -1167,7 +1167,7 @@ ricordando il passato.
 I pagani sono entrati nella tua eredità,  
 e il tuo tempio hanno profanato.  
 Chi è costui che viene da Edom?  
-Egli ha pigiato il tino [[Alone|da solo]].  
+Egli ha pigiato il tino da solo.  
 Venne uno che parlò della vergogna di Gerusalemme  
 e dei luoghi santi profanati;  
 Pietro l’Eremita, che flagellava con le parole.  
@@ -1219,7 +1219,7 @@ O DIO, aiutaci.
 IX Son of Man, behold with thine eyes, and hear with thine ears  
 Son of Man, behold with thine eyes, and hear with thine ears  
 And set thine heart upon all that I show thee.  
-Who is this that has said: the [[house|House]] of GOD is a [[house|House]] of Sorrow;  
+Who is this that has said: the House of GOD is a House of Sorrow;  
 
 
 We must walk in black and go sadly, with longdrawn faces,  
@@ -1284,7 +1284,7 @@ The visible reminder of Invisible Light.
 IX Figlio dell’uomo, guarda con i tuoi occhi, e odi con i tuoi orecchi  
 Figlio dell’uomo, guarda con i tuoi occhi, e odi con i tuoi orecchi  
 e poni il tuo cuore su tutto ciò che io ti mostro.  
-Chi è costui che ha detto: la [[house|Casa]] di DIO è una [[house|Casa]] di Dolore;  
+Chi è costui che ha detto: la Casa di DIO è una Casa di Dolore;  
 
 
 dobbiamo camminare in nero e andare tristemente, con volti allungati,  
@@ -1348,8 +1348,8 @@ il visibile richiamo della Luce Invisibile.
 <span class="atom-split" data-atom="067_x_you_have_seen_the_house_built_you_have_seen_it_adorned" data-title="X You have seen the house built, you have seen it adorned" data-chapter="" data-kind="intro"></span>
 
 
-X You have seen the [[house]] built, you have seen it adorned  
-You have seen the [[house]] built, you have seen it adorned  
+X You have seen the house built, you have seen it adorned  
+You have seen the house built, you have seen it adorned  
 By one who came in the [[motifs/night|night]], it is now dedicated to GOD.  
 
 
@@ -1415,8 +1415,8 @@ O Light Invisible, we give Thee thanks for Thy great glory!
 
 <span class="qlang-split" data-lang="it"></span>
 
-X Avete visto la [[house|casa]] costruita, l’avete vista adornata  
-Avete visto la [[house|casa]] costruita, l’avete vista adornata  
+X Avete visto la casa costruita, l’avete vista adornata  
+Avete visto la casa costruita, l’avete vista adornata  
 da uno che venne nella [[motifs/night|notte]], ora è consacrata a DIO.  
 
 

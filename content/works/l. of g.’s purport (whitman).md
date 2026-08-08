@@ -27,7 +27,7 @@ tags:
 **Motifs:** [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/immortality|Immortality]], [[concepts/artist-and-society|Artist and Society]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

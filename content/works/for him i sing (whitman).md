@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Self-Made Man
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
 **Motifs:** [[motifs/time|Time]], [[concepts/nature|Nature]]
 **Themes & Concepts:** [[concepts/identity|Identity]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

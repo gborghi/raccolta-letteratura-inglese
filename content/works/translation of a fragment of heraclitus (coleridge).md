@@ -23,7 +23,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Themes & Concepts:** [[concepts/truth|Truth]]
 **Forms & Genres:** [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/greek-mythology|Greek Mythology]]

@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Femme Fatale
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/romantic-love|Romantic Love]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/satire|Satire]]

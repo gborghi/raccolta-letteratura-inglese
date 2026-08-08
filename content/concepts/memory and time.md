@@ -30,66 +30,66 @@ tags:
 - [[works/david-copperfield-(dickens)|David Copperfield (Dickens)]]
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
-- 1063. Ashes denote that Fire was — (Dickinson)
-- 1130. That odd old man is dead a year — (Dickinson)
-- 1133. The Snow that never drifts — (Dickinson)
-- 1147. After a hundred years (Dickinson)
-- 1182. Remembrance has a Rear and Front — (Dickinson)
-- 1184. The Days that we can spare (Dickinson)
-- 1196. To make Routine a Stimulus (Dickinson)
-- 1253. Had this one Day not been. (Dickinson)
-- 1273. That sacred Closet when you sweep — (Dickinson)
-- 1294. Two Lengths has every Day — (Dickinson)
-- 14. One Sister have I in our house, (Dickinson)
-- 1464. One thing of it we borrow (Dickinson)
-- 1498. Glass was the Street — in tinsel Peril (Dickinson)
-- 1507. The Pile of Years is not so high (Dickinson)
-- 1508. You cannot make Remembrance grow (Dickinson)
-- 1549. My Wars are laid away in Books — (Dickinson)
-- 1628. A Drunkard cannot meet a Cork (Dickinson)
-- 169. In Ebon Box, when years have flown (Dickinson)
-- 1738. Softened by Time's consummate plush, (Dickinson)
-- 1742. The distance that the dead have gone (Dickinson)
-- 1753. Through those old Grounds of memory, (Dickinson)
-- 296. One Year ago — jots what (Dickinson)
-- 33. If recollecting were forgetting, (Dickinson)
-- 345. Funny — to be a Century — (Dickinson)
-- 349. I had the Glory — that will do — (Dickinson)
-- 360. Death sets a Thing significant (Dickinson)
-- 411. The Color of the Grave is Green — (Dickinson)
-- 433. Knows how to forget! (Dickinson)
-- 563. I could not prove the Years had feet — (Dickinson)
-- 584. It ceased to hurt me, though so slow (Dickinson)
-- 599. There is a pain — so utter — (Dickinson)
-- 607. Of nearness to her sundered Things (Dickinson)
-- 609. I Years had been from Home (Dickinson)
-- 610. You'll find — it when you try to die — (Dickinson)
-- 619. Glee — The great storm is over — (Dickinson)
-- 624. Forever — is composed of Nows — (Dickinson)
-- 635. I think the longest Hour of all (Dickinson)
-- 650. Pain — has an Element of Blank — (Dickinson)
-- 659. That first Day, when you praised Me, Sweet, (Dickinson)
-- 660. 'Tis good — the looking back on Grief — (Dickinson)
-- 672. The Future — never spoke — (Dickinson)
-- 686. They say that Time assuages — (Dickinson)
-- 693. Shells from the Coast mistaking — (Dickinson)
-- 701. A Thought went up my mind today — (Dickinson)
-- 712. Because I could not stop for Death — (Dickinson)
-- 721. Behind Me — dips Eternity — (Dickinson)
-- 734. If He were living — dare I ask — (Dickinson)
-- 744. Remorse — is Memory — awake — (Dickinson)
-- 752. So the Eyes accost — and sunder (Dickinson)
-- 768. When I hoped, I recollect (Dickinson)
-- 784. Bereaved of all, I went abroad — (Dickinson)
-- 788. Joy to have merited the Pain — (Dickinson)
-- 8. There is a word (Dickinson)
-- 814. One Day is there of the Series (Dickinson)
-- 88. As by the dead we love to sit, (Dickinson)
-- 895. A Cloud withdrew from the Sky (Dickinson)
-- 902. The first Day that I was a Life (Dickinson)
-- 906. The Admirations — and Contempts — of time — (Dickinson)
-- 93. Went up a year this evening! (Dickinson)
-- 995. This was in the White of the Year — (Dickinson)
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1063_ashes_denote_that_fire_was|1063. Ashes denote that Fire was — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1130_that_odd_old_man_is_dead_a_year|1130. That odd old man is dead a year — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1133_the_snow_that_never_drifts|1133. The Snow that never drifts — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1147_after_a_hundred_years|1147. After a hundred years (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1182_remembrance_has_a_rear_and_front|1182. Remembrance has a Rear and Front — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1184_the_days_that_we_can_spare|1184. The Days that we can spare (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1196_to_make_routine_a_stimulus|1196. To make Routine a Stimulus (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1253_had_this_one_day_not_been|1253. Had this one Day not been. (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1273_that_sacred_closet_when_you_sweep|1273. That sacred Closet when you sweep — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1294_two_lengths_has_every_day|1294. Two Lengths has every Day — (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0014_one_sister_have_i_in_our_house|14. One Sister have I in our house, (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1464_one_thing_of_it_we_borrow|1464. One thing of it we borrow (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1498_glass_was_the_street_in_tinsel_peril|1498. Glass was the Street — in tinsel Peril (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1507_the_pile_of_years_is_not_so_high|1507. The Pile of Years is not so high (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1508_you_cannot_make_remembrance_grow|1508. You cannot make Remembrance grow (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1549_my_wars_are_laid_away_in_books|1549. My Wars are laid away in Books — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1628_a_drunkard_cannot_meet_a_cork|1628. A Drunkard cannot meet a Cork (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0169_in_ebon_box_when_years_have_flown|169. In Ebon Box, when years have flown (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1738_softened_by_times_consummate_plush|1738. Softened by Time's consummate plush, (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1742_the_distance_that_the_dead_have_gone|1742. The distance that the dead have gone (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1753_through_those_old_grounds_of_memory|1753. Through those old Grounds of memory, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0296_one_year_ago_jots_what|296. One Year ago — jots what (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0033_if_recollecting_were_forgetting|33. If recollecting were forgetting, (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0345_funny_to_be_a_century|345. Funny — to be a Century — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0349_i_had_the_glory_that_will_do|349. I had the Glory — that will do — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0360_death_sets_a_thing_significant|360. Death sets a Thing significant (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0411_the_color_of_the_grave_is_green|411. The Color of the Grave is Green — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0433_knows_how_to_forget|433. Knows how to forget! (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0563_i_could_not_prove_the_years_had_feet|563. I could not prove the Years had feet — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0584_it_ceased_to_hurt_me_though_so_slow|584. It ceased to hurt me, though so slow (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0599_there_is_a_pain_so_utter|599. There is a pain — so utter — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0607_of_nearness_to_her_sundered_things|607. Of nearness to her sundered Things (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0609_i_years_had_been_from_home|609. I Years had been from Home (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0610_youll_find_it_when_you_try_to_die|610. You'll find — it when you try to die — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0619_glee_the_great_storm_is_over|619. Glee — The great storm is over — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0624_forever_is_composed_of_nows|624. Forever — is composed of Nows — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0635_i_think_the_longest_hour_of_all|635. I think the longest Hour of all (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0650_pain_has_an_element_of_blank|650. Pain — has an Element of Blank — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0659_that_first_day_when_you_praised_me_sweet|659. That first Day, when you praised Me, Sweet, (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0660_tis_good_the_looking_back_on_grief|660. 'Tis good — the looking back on Grief — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0672_the_future_never_spoke|672. The Future — never spoke — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0686_they_say_that_time_assuages|686. They say that Time assuages — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0693_shells_from_the_coast_mistaking|693. Shells from the Coast mistaking — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0701_a_thought_went_up_my_mind_today|701. A Thought went up my mind today — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0712_because_i_could_not_stop_for_death|712. Because I could not stop for Death — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0721_behind_me_dips_eternity|721. Behind Me — dips Eternity — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0734_if_he_were_living_dare_i_ask|734. If He were living — dare I ask — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0744_remorse_is_memory_awake|744. Remorse — is Memory — awake — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0752_so_the_eyes_accost_and_sunder|752. So the Eyes accost — and sunder (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0768_when_i_hoped_i_recollect|768. When I hoped, I recollect (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0784_bereaved_of_all_i_went_abroad|784. Bereaved of all, I went abroad — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0788_joy_to_have_merited_the_pain|788. Joy to have merited the Pain — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0008_there_is_a_word|8. There is a word (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0814_one_day_is_there_of_the_series|814. One Day is there of the Series (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0088_as_by_the_dead_we_love_to_sit|88. As by the dead we love to sit, (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0895_a_cloud_withdrew_from_the_sky|895. A Cloud withdrew from the Sky (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0902_the_first_day_that_i_was_a_life|902. The first Day that I was a Life (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0906_the_admirations_and_contempts_of_time|906. The Admirations — and Contempts — of time — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0093_went_up_a_year_this_evening|93. Went up a year this evening! (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0995_this_was_in_the_white_of_the_year|995. This was in the White of the Year — (Dickinson)]]
 - [[works/at-graduation-1905-(eliot)|At Graduation 1905 (Eliot)]]
 - [[works/a,-b,-c-(eliot)|A, B, C (Eliot)]]
 - [[works/burnt-norton-1935-(eliot)|Burnt Norton 1935 (Eliot)]]
@@ -114,10 +114,10 @@ tags:
 - [[works/dream-land-(poe)|Dream-Land (Poe)]]
 - [[works/romance-(poe)|Romance (Poe)]]
 - [[works/ulalume-(poe)|Ulalume (Poe)]]
-- Sonnet 106 (Shakespeare)
-- Sonnet 122 (Shakespeare)
-- Sonnet 30 (Shakespeare)
-- Sonnet 77 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_106|Sonnet 106 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_122|Sonnet 122 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_030|Sonnet 30 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_077|Sonnet 77 (Shakespeare)]]
 - [[works/a-broadway-pageant-(whitman)|A Broadway Pageant (Whitman)]]
 - [[works/as-i-sit-writing-here-(whitman)|As I Sit Writing Here (Whitman)]]
 - [[works/crossing-brooklyn-ferry-(whitman)|Crossing Brooklyn Ferry (Whitman)]]

@@ -68,13 +68,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Fool, Trickster
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/jealousy|Jealousy]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/common-man|Common Man]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
 **Historical References:** [[historical-references/elizabethan-england|Elizabethan England]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** Falstaff, Mistress Ford, Mistress Page, Master Ford, Master Page, Mistress Quickly, Anne Page, Fenton, Doctor Caius
+**Characters:** [[characters/falstaff|Falstaff]], [[characters/mistress-ford|Mistress Ford]], [[characters/mistress-page|Mistress Page]], [[characters/master-ford|Master Ford]], [[characters/master-page|Master Page]], [[characters/mistress-quickly|Mistress Quickly]], [[characters/anne-page|Anne Page]], [[characters/fenton|Fenton]], [[characters/doctor-caius|Doctor Caius]]
 
 ## Testo integrale / Full text
 

@@ -58,13 +58,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Orphan, Self-Made Man, (Reputed) Fallen Woman, Villain
+**Archetypes:** [[archetypes/orphan|Orphan]], [[archetypes/self-made-man|Self-Made Man]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/villain|Villain]]
 **Motifs:** [[motifs/childhood|Childhood]], [[motifs/memory|Memory]], [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/journey|Journey]]
 **Themes & Concepts:** [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/identity|Identity]], [[concepts/memory-and-time|Memory and Time]], [[concepts/social-injustice|Social Injustice]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/class-conflict|Class Conflict]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/fallen-woman|Fallen Woman]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/bildungsroman|Bildungsroman]], [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]]
-**Characters:** David Copperfield, Uriah Heep, Wilkins Micawber, Betsey Trotwood, Agnes Wickfield, Dora Spenlow, James Steerforth, Mr Peggotty, Little Emily, Edward Murdstone, Clara Peggotty
+**Characters:** [[characters/david-copperfield|David Copperfield]], [[characters/uriah-heep|Uriah Heep]], [[characters/wilkins-micawber|Wilkins Micawber]], [[characters/betsey-trotwood|Betsey Trotwood]], [[characters/agnes-wickfield|Agnes Wickfield]], [[characters/dora-spenlow|Dora Spenlow]], [[characters/james-steerforth|James Steerforth]], [[characters/mr-peggotty|Mr Peggotty]], [[characters/little-emily|Little Emily]], [[characters/edward-murdstone|Edward Murdstone]], [[characters/clara-peggotty|Clara Peggotty]]
 
 ## Testo integrale / Full text
 

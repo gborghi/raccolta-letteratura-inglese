@@ -15,18 +15,18 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/gkc-all-is-grist-(chesterton)|GKC All is Grist (Chesterton)]]
-- 1080. When they come back — if Blossoms do — (Dickinson)
-- 1114. The largest Fire ever known (Dickinson)
-- 1174. There's the Battle of Burgoyne — (Dickinson)
-- 140. An altered look about the hills — (Dickinson)
-- 142. Whose are the little beds, I asked (Dickinson)
-- 1519. The Dandelion's pallid tube (Dickinson)
-- 161. A feather from the Whippoorwill (Dickinson)
-- 163. Tho' my destiny be Fustian — (Dickinson)
-- 342. It will be Summer — eventually. (Dickinson)
-- 701. A Thought went up my mind today — (Dickinson)
-- 846. Twice had Summer her fair Verdure (Dickinson)
-- 99. New feet within my garden go — (Dickinson)
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1080_when_they_come_back_if_blossoms_do|1080. When they come back — if Blossoms do — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1114_the_largest_fire_ever_known|1114. The largest Fire ever known (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1174_theres_the_battle_of_burgoyne|1174. There's the Battle of Burgoyne — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0140_an_altered_look_about_the_hills|140. An altered look about the hills — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0142_whose_are_the_little_beds_i_asked|142. Whose are the little beds, I asked (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#1519_the_dandelions_pallid_tube|1519. The Dandelion's pallid tube (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0161_a_feather_from_the_whippoorwill|161. A feather from the Whippoorwill (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0163_tho_my_destiny_be_fustian|163. Tho' my destiny be Fustian — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0342_it_will_be_summer_eventually|342. It will be Summer — eventually. (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0701_a_thought_went_up_my_mind_today|701. A Thought went up my mind today — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0846_twice_had_summer_her_fair_verdure|846. Twice had Summer her fair Verdure (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0099_new_feet_within_my_garden_go|99. New feet within my garden go — (Dickinson)]]
 - [[works/choruses-from-‘the-rock’-1934-(eliot)|CHORUSES FROM ‘THE ROCK’ 1934 (Eliot)]]
 - [[works/east-coker-1940-(eliot)|East Coker 1940 (Eliot)]]
 - [[works/four-quartets-(eliot)|FOUR QUARTETS (Eliot)]]
@@ -35,7 +35,7 @@ tags:
 - [[works/mellonta-tauta-(poe)|Mellonta Tauta (Poe)]]
 - [[works/metzengerstein-(poe)|Metzengerstein (Poe)]]
 - [[works/the-conqueror-worm-(poe)|The Conqueror Worm (Poe)]]
-- Sonnet 59 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_059|Sonnet 59 (Shakespeare)]]
 - [[works/ages-and-ages-returning-at-intervals-(whitman)|Ages and Ages Returning at Intervals (Whitman)]]
 - [[works/continuities-(whitman)|Continuities (Whitman)]]
 - [[works/facing-west-from-california’s-shores-(whitman)|Facing West from California’s Shores (Whitman)]]

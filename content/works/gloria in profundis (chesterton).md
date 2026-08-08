@@ -46,7 +46,7 @@ tags:
 **Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/paradox|Paradox]], [[concepts/humility|Humility]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/eternity|Eternity]], [[concepts/incarnation|Incarnation]]
 **Forms & Genres:** [[forms/hymn|Hymn]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
-**Characters:** Christ, Satan
+**Characters:** [[characters/christ|Christ]], [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

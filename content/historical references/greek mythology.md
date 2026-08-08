@@ -64,14 +64,14 @@ tags:
 - [[works/translation-of-a-fragment-of-heraclitus-(coleridge)|TRANSLATION OF A FRAGMENT OF HERACLITUS (Coleridge)]]
 - [[works/translation-of-the-first-strophe-of-pindar’s-second-olympic-(coleridge)|TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC (Coleridge)]]
 - [[works/translation-of-wrangham’s-‘hendecasyllabi-ad-bruntonam-e-granta-exituram’-kal.-oct.mdccxc-(coleridge)|TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ KAL. OCT.MDCCXC (Coleridge)]]
-- 11. I never told the buried gold (Dickinson)
-- 1132. The smouldering embers blush — (Dickinson)
-- 116. I had some things that I called mine — (Dickinson)
-- 1466. One of the ones that Midas touched (Dickinson)
-- 1545. The Bible is an antique Volume — (Dickinson)
-- 1760. Elysium is as far as to (Dickinson)
-- 282. How noteless Men, and Pleiads, stand, (Dickinson)
-- 284. The Drop, that wrestles in the Sea — (Dickinson)
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0011_i_never_told_the_buried_gold|11. I never told the buried gold (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1132_the_smouldering_embers_blush|1132. The smouldering embers blush — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0116_i_had_some_things_that_i_called_mine|116. I had some things that I called mine — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1466_one_of_the_ones_that_midas_touched|1466. One of the ones that Midas touched (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1545_the_bible_is_an_antique_volume|1545. The Bible is an antique Volume — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1760_elysium_is_as_far_as_to|1760. Elysium is as far as to (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0282_how_noteless_men_and_pleiads_stand|282. How noteless Men, and Pleiads, stand, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0284_the_drop_that_wrestles_in_the_sea|284. The Drop, that wrestles in the Sea — (Dickinson)]]
 - [[works/circe’s-palace-(eliot)|Circe’s Palace (Eliot)]]
 - [[works/ii.-a-game-of-chess-(eliot)|II. A Game of Chess (Eliot)]]
 - [[works/mr.-apollinax-(eliot)|Mr. Apollinax (Eliot)]]
@@ -109,13 +109,13 @@ tags:
 - [[works/sonnet-to-science-(poe)|Sonnet-To Science (Poe)]]
 - [[works/to-helen-(poe)|To Helen (Poe)]]
 - [[works/a-midsummer-night’s-dream-(shakespeare)|A MIDSUMMER NIGHT’S DREAM (Shakespeare)]]
-- Sonnet 102 (Shakespeare)
-- Sonnet 119 (Shakespeare)
-- Sonnet 153 (Shakespeare)
-- Sonnet 154 (Shakespeare)
-- Sonnet 19 (Shakespeare)
-- Sonnet 38 (Shakespeare)
-- Sonnet 53 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_102|Sonnet 102 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_119|Sonnet 119 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_153|Sonnet 153 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_154|Sonnet 154 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_019|Sonnet 19 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_038|Sonnet 38 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_053|Sonnet 53 (Shakespeare)]]
 - [[works/the-two-noble-kinsmen-(shakespeare)|THE TWO NOBLE KINSMEN (Shakespeare)]]
 - [[works/troilus-and-cressida-(shakespeare)|TROILUS AND CRESSIDA (Shakespeare)]]
 - [[works/various-poems-(shakespeare)|VARIOUS POEMS (Shakespeare)]]

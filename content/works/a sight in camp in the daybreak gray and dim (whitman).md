@@ -24,12 +24,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** Christ Figure
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]]
 **Motifs:** [[motifs/death|Death]], [[motifs/dawn|Dawn]]
 **Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/divine-love|Divine Love]]
 **Historical References:** [[historical-references/christianity|Christianity]]
 **Settings:** [[settings/military-camp|Military Camp]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

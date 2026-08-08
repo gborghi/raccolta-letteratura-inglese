@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/mirror|Mirror]]
 **Themes & Concepts:** [[concepts/pride|Pride]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]]

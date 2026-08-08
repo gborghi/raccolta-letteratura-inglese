@@ -8,7 +8,7 @@ tags:
 *Cluster* — **17 works**.
 
 ## Defining concepts
-[[motifs/city|City]] (14), [[settings/london|London]] (12), [[concepts/satire-of-society|Satire of Society]] (10), [[concepts/common-man|Common Man]] (7), [[concepts/appearance-vs-reality|Appearance vs Reality]] (6), [[forms/satire|Satire]] (6), [[concepts/power-and-corruption|Power and Corruption]] (5), [[motifs/money-and-gold|Money and Gold]] (5), [[historical-references/regency-georgian-england|Regency Georgian England]] (5), [[concepts/social-injustice|Social Injustice]] (4), [[forms/novel|Novel]] (4), [[topoi/theatrum-mundi|Theatrum Mundi]] (4), Corrupt Official (4), [[concepts/deception|Deception]] (4), [[topoi/world-upside-down|World Upside Down]] (4)
+[[motifs/city|City]] (14), [[settings/london|London]] (12), [[concepts/satire-of-society|Satire of Society]] (10), [[concepts/common-man|Common Man]] (7), [[concepts/appearance-vs-reality|Appearance vs Reality]] (6), [[forms/satire|Satire]] (6), [[concepts/power-and-corruption|Power and Corruption]] (5), [[motifs/money-and-gold|Money and Gold]] (5), [[historical-references/regency-georgian-england|Regency Georgian England]] (5), [[concepts/social-injustice|Social Injustice]] (4), [[forms/novel|Novel]] (4), [[topoi/theatrum-mundi|Theatrum Mundi]] (4), [[archetypes/corrupt-official|Corrupt Official]] (4), [[concepts/deception|Deception]] (4), [[topoi/world-upside-down|World Upside Down]] (4)
 
 ## Works
 
@@ -16,7 +16,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 741. Drama's Vitallest Expression is the Common Day (Dickinson)
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0741_dramas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
 - [[works/an-ideal-husband-(wilde)|An Ideal Husband (Wilde)]]
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
 - [[works/broadway-(whitman)|Broadway (Whitman)]]

@@ -75,7 +75,7 @@ Comes thine alabaster steed;
 Servant of heroic deed!  
 O’er his loins, his trappings glow  
 Like the northern lights on [[motifs/snow|snow]].  
-Mount his back! thy [[Sword|sword]] unsheath!  
+Mount his back! thy sword unsheath!  
 Sign of the enchanter’s [[motifs/death|death]];  
 Bane of every wicked spell;  
 Silencer of dragon’s yell.  

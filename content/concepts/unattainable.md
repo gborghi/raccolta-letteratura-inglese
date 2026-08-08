@@ -14,8 +14,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 838. Impossibility, like Wine (Dickinson)
-- 840. I cannot buy it — 'tis not sold — (Dickinson)
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0838_impossibility_like_wine|838. Impossibility, like Wine (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0840_i_cannot_buy_it_tis_not_sold|840. I cannot buy it — 'tis not sold — (Dickinson)]]
 
 </div>
 

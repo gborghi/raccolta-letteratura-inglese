@@ -28,7 +28,7 @@ tags:
 **Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]]
 **Historical References:** [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
 **Settings:** [[settings/london|London]]
-**Characters:** Tiresias
+**Characters:** [[characters/tiresias|Tiresias]]
 
 ## Testo integrale / Full text
 

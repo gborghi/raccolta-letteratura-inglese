@@ -49,7 +49,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/theatrum-mundi|Theatrum Mundi]]
-**Archetypes:** Fool, Corrupt Official
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/corrupt-official|Corrupt Official]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/road|Road]], [[motifs/horse|Horse]], [[motifs/inn-tavern|Inn Tavern]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/nostalgia|Nostalgia]], [[concepts/pride|Pride]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/grotesque|Grotesque]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/parody|Parody]], [[forms/short-story|Short Story]]

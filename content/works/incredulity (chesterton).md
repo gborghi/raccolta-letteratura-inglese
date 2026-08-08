@@ -81,12 +81,12 @@ tags:
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/double|Double]], [[topoi/katabasis-descent|Katabasis Descent]]
 
-**Archetypes:** Detective, Trickster, Double Doppelganger, Avenger
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/trickster|Trickster]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/avenger|Avenger]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/supernatural|Supernatural]], [[motifs/blood|Blood]], [[motifs/money-and-gold|Money and Gold]], [[motifs/ghosts|Ghosts]], [[motifs/great-house|Great House]], [[motifs/light-and-dark|Light and Dark]], [[motifs/mirror|Mirror]], [[motifs/snow|Snow]], [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/guilt|Guilt]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/uncanny|Uncanny]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/revenge|Revenge]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/class-conflict|Class Conflict]], [[concepts/fanaticism|Fanaticism]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]], [[forms/gothic-novel|Gothic Novel]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/first-world-war|First World War]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/medieval-england|Medieval England]]
-**Characters:** Father Brown, Flambeau
+**Characters:** [[characters/father-brown|Father Brown]], [[characters/flambeau|Flambeau]]
 
 ## Testo integrale / Full text
 

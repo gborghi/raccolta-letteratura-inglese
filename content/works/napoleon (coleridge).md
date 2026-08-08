@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/sun|Sun]]
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/conscience|Conscience]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/divine-love|Divine Love]]
 **Forms & Genres:** [[forms/fragment|Fragment]]

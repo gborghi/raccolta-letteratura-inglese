@@ -44,7 +44,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Common Man (2)
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
 **Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/secrets|Secrets]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/class-conflict|Class Conflict]], [[concepts/paradox|Paradox]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/democracy|Democracy]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/economics|Economics]]

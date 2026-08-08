@@ -58,7 +58,7 @@ tags:
 **Settings:** [[settings/garden-(2)|Garden (2)]]
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/locus-amoenus|Locus Amoenus]]
-**Archetypes:** Child, Artist, Fool, Wise Old Man Sage
+**Archetypes:** [[archetypes/child|Child]], [[archetypes/artist|Artist]], [[archetypes/fool|Fool]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 **Motifs:** [[motifs/dreams|Dreams]], [[concepts/nature|Nature]], [[motifs/childhood|Childhood]], [[motifs/flowers|Flowers]], [[motifs/moon|Moon]], [[motifs/sun|Sun]], [[motifs/sea|Sea]], [[motifs/stars|Stars]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/satire-of-society|Satire of Society]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/vanity|Vanity]], [[concepts/indolence|Indolence]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/satire|Satire]], [[forms/comic-verse-song|Comic Verse Song]]

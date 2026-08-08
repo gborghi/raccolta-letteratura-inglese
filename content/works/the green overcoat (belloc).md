@@ -43,5 +43,5 @@ tags:
 **Themes & Concepts:** [[concepts/temptation|Temptation]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/greed|Greed]]
 **Motifs:** [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/machine|Machine]], [[motifs/rain|Rain]]
 **Settings:** [[settings/industrial-city|Industrial City]], [[settings/rural-england|Rural England]]
-**Archetypes:** Satanic Figure, Trickster
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/trickster|Trickster]]
 **Topoi:** [[topoi/temptation-(2)|Temptation (2)]]

@@ -27,7 +27,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Pilgrim
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 **Motifs:** [[motifs/memory|Memory]]
 **Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/mortality|Mortality]], [[concepts/sublime|Sublime]], [[concepts/madness|Madness]]
 **Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]]

@@ -58,12 +58,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** Detective
+**Archetypes:** [[archetypes/detective|Detective]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/city|City]], [[motifs/night|Night]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/identity|Identity]], [[concepts/imagination|Imagination]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
 **Settings:** [[settings/paris|Paris]], [[settings/europe|Europe]]
-**Characters:** C. Auguste Dupin
+**Characters:** [[characters/c.-auguste-dupin|C. Auguste Dupin]]
 
 ## Testo integrale / Full text
 

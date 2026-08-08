@@ -34,7 +34,7 @@ tags:
 **Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/conversion|Conversion]], [[concepts/humility|Humility]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/self-knowledge|Self-Knowledge]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/free-verse|Free Verse]]
 **Historical References:** [[historical-references/christianity|Christianity]]
-**Characters:** Virgin Mary
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

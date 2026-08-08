@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Innocent
+**Archetypes:** [[archetypes/innocent|Innocent]]
 **Motifs:** [[motifs/dawn|Dawn]]
 **Themes & Concepts:** [[concepts/body|Body]], [[concepts/innocence-and-experience|Innocence and Experience]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

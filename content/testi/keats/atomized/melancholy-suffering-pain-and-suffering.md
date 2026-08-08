@@ -122,7 +122,7 @@ At length burst in the argent revelry,
 With plume, tiara, and all rich array,  
 Numerous as shadows haunting fairily  
 The brain, new stuff’d, in youth, with triumphs gay  40  
-Of old [[Romance|romance]]. These let us wish away,  
+Of old romance. These let us wish away,  
 And turn, sole-thoughted, to one Lady there,  
 Whose heart had brooded, all that wintry day,  
 On [[motifs/love|love]], and wing’d St. Agnes’ saintly care,  
@@ -174,7 +174,7 @@ All eyes be muffled, or a hundred swords
 Will [[motifs/storm|storm]] his heart, [[motifs/love|Love]]’s fev’rous citadel:  
 For him, those chambers held barbarian hordes,  
 Hyena foemen, and hot-blooded lords,  
-Whose very [[dogs]] would execrations howl  
+Whose very dogs would execrations howl  
 Against his lineage: not one breast affords  
 Him any [[concepts/mercy|mercy]], in that mansion foul,  
 Save one old beldame, weak in [[concepts/body|body]] and in [[motifs/soul|soul]]. 90  
@@ -191,7 +191,7 @@ They are all here to-[[motifs/night|night]], the whole [[motifs/blood|blood]]-th
 
 “Get hence! get hence! there’s dwarfish Hildebrand; 100  
 He had a fever late, and in the fit  
-He cursed thee and thine, both [[house]] and land:  
+He cursed thee and thine, both house and land:  
 Then there’s that old Lord Maurice, not a whit  
 More tame for his gray hairs--Alas me! flit!  
 Flit like a [[archetypes/ghost|ghost]] away.”--”Ah, Gossip dear,  
@@ -267,7 +267,7 @@ That he might see her [[concepts/beauty|beauty]] unespied,
 And win perhaps that [[motifs/night|night]] a peerless bride,  
 While legion’d fairies pac’d the coverlet,  
 And pale enchantment held her sleepy-eyed.  
-Never on such a [[motifs/night|night]] have [[lovers]] met,  170  
+Never on such a [[motifs/night|night]] have lovers met,  170  
 Since Merlin paid his Demon all the monstrous debt.  
 
 “It shall be as thou wishest,” said the Dame:  
@@ -475,7 +475,7 @@ She hurried at his words, beset with fears,
 For there were sleeping dragons all around,  
 At glaring watch, perhaps, with ready spears--  
 Down the wide stairs a darkling way they found.--  
-In all the [[house]] was heard no human sound.  
+In all the house was heard no human sound.  
 A chain-droop’d lamp was flickering by each door;  
 The arras, rich with horseman, hawk, and hound,  
 Flutter’d in the besieging [[motifs/wind|wind]]’s uproar;  
@@ -492,7 +492,7 @@ The [[motifs/chains|chains]] lie silent on the footworn stones;--
 The key turns, and the door upon its hinges groans.  
 
 And they are gone: ay, ages long ago  370  
-These [[lovers]] fled away into the [[motifs/storm|storm]].  
+These lovers fled away into the [[motifs/storm|storm]].  
 That [[motifs/night|night]] the Baron dreamt of many a woe,  
 And all his warrior-guests, with shade and form  
 Of [[characters/witch|witch]], and demon, and large coffin-worm,  
@@ -508,7 +508,7 @@ For aye unsought for slept among his ashes cold.
 
 
 I  
-Can [[motifs/death|death]] be [[motifs/sleep|sleep]], when life is but [[A Dream|a dream]],  
+Can [[motifs/death|death]] be [[motifs/sleep|sleep]], when life is but a dream,  
 And scenes of bliss pass as a [[characters/phantom|phantom]] by?  
 The transient pleasures as a vision seem,  
 And yet we think the greatest [[motifs/pain|pain]]’s to die.  
@@ -516,7 +516,7 @@ And yet we think the greatest [[motifs/pain|pain]]’s to die.
 II  
 How strange it is that man on earth should roam,  
 And lead a life of woe, but not forsake  
-His rugged path; nor dare he view [[Alone|alone]]  
+His rugged path; nor dare he view alone  
 His future doom which is but to awake.  
 
 
@@ -528,13 +528,13 @@ His future doom which is but to awake.
 O Chatterton! how very sad thy fate!  
 Dear [[archetypes/child|child]] of sorrow - son of misery!  
 How soon the film of [[motifs/death|death]] obscur’d that eye,  
-Whence Genius mildly flash’d, and high [[debate]].  
+Whence Genius mildly flash’d, and high debate.  
 How soon that voice, majestic and elate,  
 Melted in dying numbers! Oh! how nigh  
 Was [[motifs/night|night]] to thy fair morning. Thou didst die  
 A half-blown flow’ret which cold blasts amate.  
 But this is past: thou art among the [[motifs/stars|stars]]  
-Of highest Heaven: to the [[rolling]] spheres  10  
+Of highest Heaven: to the rolling spheres  10  
 Thou sweetly singest: naught thy hymning mars,  
 Above the ingrate world and human fears.  
 On earth the good man base detraction bars  
@@ -598,7 +598,7 @@ I
 Old Meg she was a gipsy,  
 And liv’d upon the moors:  
 Her bed it was the brown heath turf,  
-And her [[house]] was out of doors.  
+And her house was out of doors.  
 
 II  
 Her apples were swart blackberries,  
@@ -647,7 +647,7 @@ She died full long agone!
 Not Aladdin magian  
 Ever such a work began;  
 Not the wizard of the Dee  
-Ever such [[A Dream|a dream]] could see;  
+Ever such a dream could see;  
 Not St John, in Patmos’ Isle,  
 In the passion of his toil,  
 When he saw the churches seven,  
@@ -693,7 +693,7 @@ But the dulled eye of mortal
 Hath pass’d beyond the rocky portal;  
 So for ever will I leave  
 Such a taint, and soon unweave  
-All the [[Magic|magic]] of the place.’  
+All the magic of the place.’  
 So saying, with a Spirit’s glance  
 50  
 He dived!  
@@ -709,7 +709,7 @@ Orbed is the [[motifs/moon|moon]] and bright,
 And the [[motifs/stars|stars]] they glisten, glisten,  
 Seeming with bright eyes to listen -  
 For what listen they?  
-For a [[Song|song]] and for a charm.  
+For a song and for a charm.  
 See they glisten in alarm,  
 And the [[motifs/moon|moon]] is waxing warm  
 To hear what I shall say.  
@@ -778,7 +778,7 @@ O, what could it grieve for? Its feet were tied,
 With a silken thread of my own hand’s weaving;  
 Sweet little red feet! why should you die -  
 Why should you leave me, sweet bird! why?  
-You liv’d [[Alone|alone]] in the forest-tree,  
+You liv’d alone in the forest-tree,  
 Why, pretty thing! would you not live with me?  
 I kiss’d you oft and gave you white peas;  
 Why not live sweetly, as in the green trees?  
@@ -794,7 +794,7 @@ Why did I laugh tonight? No voice will tell:
 No God, no Demon of severe response,  
 Deigns to reply from heaven or from hell.  
 Then to my human heart I turn at once.  
-Heart! Thou and I are here sad and [[Alone|alone]];  
+Heart! Thou and I are here sad and alone;  
 I say, why did I laugh! O mortal [[motifs/pain|pain]]!  
 O Darkness! Darkness! ever must I moan,  
 To question Heaven and Hell and Heart in vain.  
@@ -857,7 +857,7 @@ Iced in the great lakes, to afflict mankind;
 Whose rank-grown forests, frosted, black, and blind,  
 Would fright a Dryad; whose harsh herbag’d meads 40  
 Make lean and lank the starv’d ox while he feeds;  
-There bad [[motifs/flowers|flowers]] have no scent, [[motifs/birds|birds]] no sweet [[Song|song]],  
+There bad [[motifs/flowers|flowers]] have no scent, [[motifs/birds|birds]] no sweet song,  
 And great unerring [[concepts/nature|Nature]] once seems wrong.  
 
 O, for some sunny spell  

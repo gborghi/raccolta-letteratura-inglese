@@ -27,7 +27,7 @@ tags:
 **Motifs:** [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/mortality|Mortality]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/epigram|Epigram]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

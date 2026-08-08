@@ -106,7 +106,7 @@ little to distress or vex her.
 
 She was the youngest of the two daughters of a most affectionate,
 indulgent father; and had, in consequence of her sister’s [[motifs/marriage|marriage]],
-been mistress of his [[house]] from a very early period. Her mother had
+been mistress of his house from a very early period. Her mother had
 died too long ago for her to have more than an indistinct remembrance
 of her caresses; and her place had been supplied by an excellent woman
 as governess, who had fallen little short of a mother in affection.
@@ -161,7 +161,7 @@ such an affection for her as could never find fault.
 How was she to bear the change?—It was true that her friend was going
 only half a mile from them; but [[works/emma-(austen)|Emma]] was aware that great must be the
 difference between a Mrs. Weston, only half a mile from them, and a
-Miss Taylor in the [[house]]; and with all her advantages, natural and
+Miss Taylor in the house; and with all her advantages, natural and
 domestic, she was now in great danger of [[concepts/suffering|suffering]] from intellectual
 [[concepts/solitude|solitude]]. She dearly loved her father, but he was no companion for her.
 He could not meet her in conversation, rational or playful.
@@ -177,7 +177,7 @@ Her sister, though comparatively but little removed by matrimony, being
 settled in [[settings/london|London]], only sixteen miles off, was much beyond her daily
 reach; and many a long October and November evening must be struggled
 through at Hartfield, before Christmas brought the next visit from
-[[characters/isabella|Isabella]] and her husband, and their little children, to fill the [[house]],
+[[characters/isabella|Isabella]] and her husband, and their little children, to fill the house,
 and give her pleasant society again.
 
 Highbury, the large and populous village, almost amounting to a town,
@@ -216,10 +216,10 @@ Mr. Weston ever thought of her!”
 “I cannot agree with you, papa; you know I cannot. Mr. Weston is such a
 good-humoured, pleasant, excellent man, that he thoroughly deserves a
 good wife;—and you would not have had Miss Taylor live with us for
-ever, and bear all my odd humours, when she might have a [[house]] of her
+ever, and bear all my odd humours, when she might have a house of her
 own?”
 
-“A [[house]] of her own!—But where is the advantage of a [[house]] of her own?
+“A house of her own!—But where is the advantage of a house of her own?
 This is three times as large.—And you have never any odd humours, my
 dear.”
 
@@ -366,12 +366,12 @@ matches.”
 
 “I promise you to make none for myself, papa; but I must, indeed, for
 other people. It is the greatest amusement in the world! And after such
-[[success]], you know!—Every [[concepts/body|body]] said that Mr. Weston would never marry
+success, you know!—Every [[concepts/body|body]] said that Mr. Weston would never marry
 again. Oh dear, no! Mr. Weston, who had been a widower so long, and who
 seemed so perfectly comfortable without a wife, so constantly occupied
 either in his business in town or among his friends here, always
 acceptable wherever he went, always cheerful—Mr. Weston need not spend
-a single evening in the year [[Alone|alone]] if he did not like it. Oh no! Mr.
+a single evening in the year alone if he did not like it. Oh no! Mr.
 Weston certainly would never marry again. Some people even talked of a
 promise to his wife on her deathbed, and others of the son and the
 uncle not letting him. All manner of solemn nonsense was talked on the
@@ -381,26 +381,26 @@ subject, but I believed none of it.
 with him in Broadway Lane, when, because it began to drizzle, he darted
 away with so much gallantry, and borrowed two umbrellas for us from
 Farmer Mitchell’s, I made up my mind on the subject. I planned the
-match from that hour; and when such [[success]] has blessed me in this
+match from that hour; and when such success has blessed me in this
 instance, dear papa, you cannot think that I shall leave off
 match-making.”
 
-“I do not understand what you mean by ‘[[success]],’” said Mr. Knightley.
-“[[success|Success]] supposes endeavour. Your [[motifs/time|time]] has been properly and delicately
+“I do not understand what you mean by ‘success,’” said Mr. Knightley.
+“Success supposes endeavour. Your [[motifs/time|time]] has been properly and delicately
 spent, if you have been endeavouring for the last four years to bring
 about this [[motifs/marriage|marriage]]. A worthy employment for a young lady’s mind! But
 if, which I rather imagine, your making the match, as you call it,
 means only your planning it, your saying to yourself one idle day, ‘I
 think it would be a very good thing for Miss Taylor if Mr. Weston were
 to marry her,’ and saying it again to yourself every now and then
-afterwards, why do you talk of [[success]]? Where is your merit? What are
+afterwards, why do you talk of success? Where is your merit? What are
 you proud of? You made a lucky guess; and _that_ is all that can be
 said.”
 
 “And have you never known the pleasure and triumph of a lucky guess?—I
 pity you.—I thought you cleverer—for, depend upon it a lucky guess is
 never merely luck. There is always some talent in it. And as to my poor
-word ‘[[success]],’ which you quarrel with, I do not know that I am so
+word ‘success,’ which you quarrel with, I do not know that I am so
 entirely without any claim to it. You have drawn two pretty pictures;
 but I think there may be a third—a something between the do-nothing and
 the do-all. If I had not promoted Mr. Weston’s visits here, and given
@@ -421,7 +421,7 @@ circle grievously.”
 “Only one more, papa; only for Mr. Elton. Poor Mr. Elton! You like Mr.
 Elton, papa,—I must look about for a wife for him. There is nobody in
 Highbury who deserves him—and he has been here a whole year, and has
-fitted up his [[house]] so comfortably, that it would be a shame to have
+fitted up his house so comfortably, that it would be a shame to have
 him single any longer—and I thought when he was joining their hands
 to-day, he looked so very much as if he would like to have the same
 kind office done for him! I think very [[motifs/well|well]] of Mr. Elton, and this is
@@ -497,7 +497,7 @@ to seek, and his own situation to improve as he could.
 A complete change of life became desirable. He quitted the militia and
 engaged in trade, having brothers already established in a good way in
 [[settings/london|London]], which afforded him a favourable opening. It was a concern which
-brought just employment enough. He had still a small [[house]] in Highbury,
+brought just employment enough. He had still a small house in Highbury,
 where most of his leisure days were spent; and between useful
 occupation and the pleasures of society, the next eighteen or twenty
 years of his life passed cheerfully away. He had, by that [[motifs/time|time]],
@@ -511,7 +511,7 @@ schemes; but as it was not the tyrannic influence of youth on youth, it
 had not shaken his determination of never settling till he could
 purchase Randalls, and the sale of Randalls was long looked forward to;
 but he had gone steadily on, with these objects in view, till they were
-accomplished. He had made his fortune, bought his [[house]], and obtained
+accomplished. He had made his fortune, bought his house, and obtained
 his wife; and was beginning a new period of existence, with every
 probability of greater happiness than in any yet passed through. He had
 never been an unhappy man; his own temper had secured him from that,
@@ -621,21 +621,21 @@ CHAPTER III
 Mr. Woodhouse was fond of society in his own way. He liked very much to
 have his friends come and see him; and from various united causes, from
 his long residence at Hartfield, and his good [[concepts/nature|nature]], from his fortune,
-his [[house]], and his daughter, he could command the visits of his own
+his house, and his daughter, he could command the visits of his own
 little circle, in a great measure, as he liked. He had not much
 intercourse with any families beyond that circle; his horror of late
 hours, and large dinner-parties, made him unfit for any acquaintance
 but such as would visit him on his own terms. Fortunately for him,
 Highbury, including Randalls in the same parish, and Donwell Abbey in
 the parish adjoining, the seat of Mr. Knightley, comprehended many
-such. Not unfrequently, through [[works/emma-(austen)|Emma]]’s [[Persuasion|persuasion]], he had some of the
+such. Not unfrequently, through [[works/emma-(austen)|Emma]]’s persuasion, he had some of the
 chosen and the best to dine with him: but evening parties were what he
 preferred; and, unless he fancied himself at any [[motifs/time|time]] unequal to
 company, there was scarcely an evening in the week in which [[works/emma-(austen)|Emma]] could
 not make up a card-table for him.
 
 Real, long-standing regard brought the Westons and Mr. Knightley; and
-by Mr. Elton, a young man living [[Alone|alone]] without liking it, the privilege
+by Mr. Elton, a young man living alone without liking it, the privilege
 of exchanging any vacant evening of his own blank [[concepts/solitude|solitude]] for the
 elegancies and society of Mr. Woodhouse’s drawing-room, and the smiles
 of his lovely daughter, was in no danger of being thrown away.
@@ -675,14 +675,14 @@ gossip.
 Mrs. Goddard was the mistress of a School—not of a seminary, or an
 establishment, or any thing which professed, in long sentences of
 refined nonsense, to combine liberal acquirements with elegant
-[[morality]], upon new principles and new systems—and where young ladies
+morality, upon new principles and new systems—and where young ladies
 for enormous pay might be screwed out of health and into [[concepts/vanity|vanity]]—but a
 real, honest, old-fashioned Boarding-school, where a reasonable
 quantity of accomplishments were sold at a reasonable price, and where
 girls might be sent to be out of the way, and scramble themselves into
 a little [[concepts/education|education]], without any danger of coming back prodigies. Mrs.
 Goddard’s school was in high repute—and very deservedly; for Highbury
-was reckoned a particularly healthy spot: she had an ample [[house]] and
+was reckoned a particularly healthy spot: she had an ample house and
 [[motifs/garden|garden]], gave the children plenty of wholesome food, let them run about
 a great deal in the [[motifs/summer|summer]], and in [[motifs/winter|winter]] dressed their chilblains with
 her own hands. It was no [[concepts/wonder|wonder]] that a train of twenty young couple now
@@ -704,8 +704,8 @@ fearfully anticipated.
 
 As she sat one morning, looking forward to exactly such a close of the
 present day, a note was brought from Mrs. Goddard, requesting, in most
-respectful terms, to be allowed to bring Miss [[smith|Smith]] with her; a most
-welcome request: for Miss [[smith|Smith]] was a girl of seventeen, whom [[works/emma-(austen)|Emma]] knew
+respectful terms, to be allowed to bring Miss Smith with her; a most
+welcome request: for Miss Smith was a girl of seventeen, whom [[works/emma-(austen)|Emma]] knew
 very [[motifs/well|well]] by sight, and had long felt an interest in, on account of her
 [[concepts/beauty|beauty]]. A very gracious invitation was returned, and the evening no
 longer dreaded by the fair mistress of the mansion.
@@ -725,7 +725,7 @@ great sweetness, and, before the end of the evening, [[works/emma-(austen)|Emma]
 pleased with her manners as her person, and quite determined to
 continue the acquaintance.
 
-She was not struck by any thing remarkably clever in Miss [[smith|Smith]]’s
+She was not struck by any thing remarkably clever in Miss Smith’s
 conversation, but she found her altogether very engaging—not
 inconveniently shy, not unwilling to talk—and yet so far from pushing,
 shewing so proper and becoming a deference, seeming so pleasantly
@@ -786,7 +786,7 @@ could disagree with you.”
 
 [[works/emma-(austen)|Emma]] allowed her father to talk—but supplied her visitors in a much
 more satisfactory style, and on the present evening had particular
-pleasure in sending them away happy. The happiness of Miss [[smith|Smith]] was
+pleasure in sending them away happy. The happiness of Miss Smith was
 quite equal to her intentions. Miss Woodhouse was so great a personage
 in Highbury, that the prospect of the introduction had given as much
 panic as pleasure; but the humble, grateful little girl went off with
@@ -812,8 +812,8 @@ In that respect Mrs. Weston’s loss had been important. Her father never
 went beyond the shrubbery, where two divisions of the ground sufficed
 him for his long walk, or his short, as the year varied; and since Mrs.
 Weston’s [[motifs/marriage|marriage]] her exercise had been too much confined. She had
-ventured once [[Alone|alone]] to Randalls, but it was not pleasant; and a Harriet
-[[smith|Smith]], therefore, one whom she could summon at any [[motifs/time|time]] to a walk,
+ventured once alone to Randalls, but it was not pleasant; and a Harriet
+Smith, therefore, one whom she could summon at any [[motifs/time|time]] to a walk,
 would be a valuable addition to her privileges. But in every respect,
 as she saw more of her, she approved her, and was confirmed in all her
 kind designs.
@@ -857,8 +857,8 @@ five-and-twenty years with her; and of their having eight cows, two of
 them Alderneys, and one a little Welch cow, a very pretty little Welch
 cow indeed; and of Mrs. Martin’s saying as she was so fond of it, it
 should be called _her_ cow; and of their having a very handsome
-[[motifs/summer|summer]]-[[house]] in their [[motifs/garden|garden]], where some day next year they were all to
-drink tea:—a very handsome [[motifs/summer|summer]]-[[house]], large enough to hold a dozen
+[[motifs/summer|summer]]-house in their [[motifs/garden|garden]], where some day next year they were all to
+drink tea:—a very handsome [[motifs/summer|summer]]-house, large enough to hold a dozen
 people.”
 
 For some [[motifs/time|time]] she was amused, without thinking beyond the immediate
@@ -1110,7 +1110,7 @@ next beginning was,
 Knightley’s or Mr. Weston’s. They have more gentleness. They might be
 more safely held up as a pattern. There is an openness, a quickness,
 almost a bluntness in Mr. Weston, which every [[concepts/body|body]] likes in _him_,
-because there is so much good-[[Humour|humour]] with it—but that would not do to
+because there is so much good-humour with it—but that would not do to
 be copied. Neither would Mr. Knightley’s downright, decided, commanding
 sort of manner, though it suits _him_ very [[motifs/well|well]]; his figure, and look,
 and situation in life seem to allow it; but if any young man were to
@@ -1188,7 +1188,7 @@ thinks exactly as I do on the subject. We were speaking of it only
 yesterday, and agreeing how fortunate it was for [[works/emma-(austen)|Emma]], that there
 should be such a girl in Highbury for her to associate with. Mr.
 Knightley, I shall not allow you to be a fair judge in this case. You
-are so much used to live [[Alone|alone]], that you do not know the value of a
+are so much used to live alone, that you do not know the value of a
 companion; and, perhaps no man can be a good judge of the comfort a
 woman feels in the society of one of her own sex, after being used to
 it all her life. I can imagine your objection to [[characters/harriet-smith|Harriet Smith]]. She is
@@ -1222,7 +1222,7 @@ still see, hear, and remember. [[works/emma-(austen)|Emma]] is spoiled by being 
 of her family. At ten years old, she had the misfortune of being able
 to answer questions which puzzled her sister at seventeen. She was
 always quick and assured: [[characters/isabella|Isabella]] slow and diffident. And ever since
-she was twelve, [[works/emma-(austen)|Emma]] has been mistress of the [[house]] and of you all. In
+she was twelve, [[works/emma-(austen)|Emma]] has been mistress of the house and of you all. In
 her mother she lost the only person able to cope with her. She inherits
 her mother’s talents, and must have been under subjection to her.”
 
@@ -1334,7 +1334,7 @@ found; for it shall be attended to.”
 her sister.”
 
 “Be satisfied,” said he, “I will not raise any outcry. I will keep my
-ill-[[Humour|humour]] to myself. I have a very sincere interest in [[works/emma-(austen)|Emma]]. [[characters/isabella|Isabella]]
+ill-humour to myself. I have a very sincere interest in [[works/emma-(austen)|Emma]]. [[characters/isabella|Isabella]]
 does not seem more my sister; has never excited a greater interest;
 perhaps hardly so great. There is an anxiety, a curiosity in what one
 feels for [[works/emma-(austen)|Emma]]. I [[concepts/wonder|wonder]] what will become of her!”
@@ -1387,7 +1387,7 @@ warmly, that she could not suppose any thing wanting which a little
 Harriet’s manner, since her introduction at Hartfield, was not one of
 the least agreeable proofs of his growing attachment.
 
-“You have given Miss [[smith|Smith]] all that she required,” said he; “you have
+“You have given Miss Smith all that she required,” said he; “you have
 made her graceful and easy. She was a beautiful creature when she came
 to you, but, in my opinion, the attractions you have added are
 infinitely superior to what she received from [[concepts/nature|nature]].”
@@ -1449,7 +1449,7 @@ likeness difficult; and yet there is a peculiarity in the shape of the
 eye and the lines about the mouth which one ought to catch.”
 
 “Exactly so—The shape of the eye and the lines about the mouth—I have
-not a [[concepts/doubt|doubt]] of your [[success]]. Pray, pray attempt it. As you will do it,
+not a [[concepts/doubt|doubt]] of your success. Pray, pray attempt it. As you will do it,
 it will indeed, to use your own words, be an exquisite possession.”
 
 “But I am afraid, Mr. Elton, Harriet will not like to sit. She thinks
@@ -1553,7 +1553,7 @@ to employ him in reading.
 
 “If he would be so good as to read to them, it would be a kindness
 indeed! It would amuse away the difficulties of her part, and lessen
-the irksomeness of Miss [[smith|Smith]]’s.”
+the irksomeness of Miss Smith’s.”
 
 Mr. Elton was only too happy. Harriet listened, and [[works/emma-(austen)|Emma]] drew in peace.
 She must allow him to be still frequently coming to look; any thing
@@ -1581,7 +1581,7 @@ entreated for the permission of attending and reading to them again.
 “By all means. We shall be most happy to consider you as one of the
 party.”
 
-The same civilities and courtesies, the same [[success]] and satisfaction,
+The same civilities and courtesies, the same success and satisfaction,
 took place on the morrow, and accompanied the whole progress of the
 picture, which was rapid and happy. Every [[concepts/body|body]] who saw it was pleased,
 but Mr. Elton was in continual raptures, and defended it through every
@@ -1590,7 +1590,7 @@ criticism.
 “Miss Woodhouse has given her friend the only [[concepts/beauty|beauty]] she
 wanted,”—observed Mrs. Weston to him—not in the least suspecting that
 she was addressing a [[archetypes/lover|lover]].—“The expression of the eye is most correct,
-but Miss [[smith|Smith]] has not those eyebrows and eyelashes. It is the fault of
+but Miss Smith has not those eyebrows and eyelashes. It is the fault of
 her face that she has them not.”
 
 “Do you think so?” replied he. “I cannot agree with you. It appears to
@@ -1606,7 +1606,7 @@ added,
 she is sitting down—which naturally presents a different—which in short
 gives exactly the idea—and the proportions must be preserved, you know.
 Proportions, fore-shortening.—Oh no! it gives one exactly the idea of
-such a height as Miss [[smith|Smith]]’s. Exactly so indeed!”
+such a height as Miss Smith’s. Exactly so indeed!”
 
 “It is very pretty,” said Mr. Woodhouse. “So prettily done! Just as
 your drawings always are, my dear. I do not know any [[concepts/body|body]] who draws so
@@ -1620,10 +1620,10 @@ Look at the tree.”
 “But it is never safe to sit out of doors, my dear.”
 
 “You, sir, may say any thing,” cried Mr. Elton, “but I must confess
-that I regard it as a most happy thought, the placing of Miss [[smith|Smith]] out
+that I regard it as a most happy thought, the placing of Miss Smith out
 of doors; and the tree is touched with such inimitable spirit! Any
 other situation would have been much less in character. The naïveté of
-Miss [[smith|Smith]]’s manners—and altogether—Oh, it is most admirable! I cannot
+Miss Smith’s manners—and altogether—Oh, it is most admirable! I cannot
 keep my eyes from it. I never saw such a likeness.”
 
 The next thing wanted was to get the picture framed; and here were a
@@ -1631,7 +1631,7 @@ few difficulties. It must be done directly; it must be done in [[settings/london
 the order must go through the hands of some intelligent person whose
 taste could be depended on; and [[characters/isabella|Isabella]], the usual doer of all
 commissions, must not be applied to, because it was December, and Mr.
-Woodhouse could not bear the idea of her stirring out of her [[house]] in
+Woodhouse could not bear the idea of her stirring out of her house in
 the fogs of December. But no sooner was the distress known to Mr.
 Elton, than it was removed. His gallantry was always on the alert.
 “Might he be trusted with the commission, what infinite pleasure should
@@ -1679,7 +1679,7 @@ minute brought it all out. She had heard, as soon as she got back to
 Mrs. Goddard’s, that Mr. Martin had been there an hour before, and
 finding she was not at [[motifs/home|home]], nor particularly expected, had left a
 little parcel for her from one of his sisters, and gone away; and on
-opening this parcel, she had actually found, besides the two [[songs]]
+opening this parcel, she had actually found, besides the two songs
 which she had lent Elizabeth to copy, a letter to herself; and this
 letter was from him, from Mr. Martin, and contained a direct proposal
 of [[motifs/marriage|marriage]]. “Who could have thought it? She was so surprized she did
@@ -2057,7 +2057,7 @@ and brother. I had no hesitation in advising him to marry. He proved to
 me that he could afford it; and that being the case, I was convinced he
 could not do better. I praised the fair lady too, and altogether sent
 him away very happy. If he had never esteemed my opinion before, he
-would have thought highly of me then; and, I dare say, left the [[house]]
+would have thought highly of me then; and, I dare say, left the house
 thinking me the best friend and counsellor man ever had. This happened
 the [[motifs/night|night]] before last. Now, as we may fairly suppose, he would not
 allow much [[motifs/time|time]] to pass before he spoke to the lady, and as he does not
@@ -2266,7 +2266,7 @@ with Harriet.”
 
 “Nonsense, errant nonsense, as ever was talked!” cried Mr.
 Knightley.—“[[characters/robert-martin|Robert Martin]]’s manners have sense, sincerity, and
-good-[[Humour|humour]] to recommend them; and his mind has more true gentility
+good-humour to recommend them; and his mind has more true gentility
 than [[characters/harriet-smith|Harriet Smith]] could understand.”
 
 [[works/emma-(austen)|Emma]] made no answer, and tried to look cheerfully unconcerned, but was
@@ -2465,7 +2465,7 @@ easier to you.”
 
 “Oh no! he had never written, hardly ever, any thing of the kind in his
 life. The stupidest fellow! He was afraid not even Miss Woodhouse”—he
-stopt a moment—“or Miss [[smith|Smith]] could inspire him.”
+stopt a moment—“or Miss Smith could inspire him.”
 
 The very next day however produced some proof of inspiration. He called
 for a few moments, just to leave a piece of paper on the table
@@ -2473,7 +2473,7 @@ containing, as he said, a charade, which a friend of his had addressed
 to a young lady, the object of his admiration, but which, from his
 manner, [[works/emma-(austen)|Emma]] was immediately convinced must be his own.
 
-“I do not offer it for Miss [[smith|Smith]]’s collection,” said he. “Being my
+“I do not offer it for Miss Smith’s collection,” said he. “Being my
 friend’s, I have no right to expose it in any degree to the public eye,
 but perhaps you may not dislike looking at it.”
 
@@ -2502,7 +2502,7 @@ Behold him there, the monarch of the seas!
 But ah! united, what reverse we have!
 Man’s boasted power and [[concepts/freedom|freedom]], all are flown;
 Lord of the earth and sea, he bends a slave,
-And woman, lovely woman, reigns [[Alone|alone]].
+And woman, lovely woman, reigns alone.
 
 Thy ready wit the word will soon supply,
 May its approval beam in that soft eye!
@@ -2514,7 +2514,7 @@ passing it to Harriet, sat happily smiling, and saying to herself,
 while Harriet was puzzling over the paper in all the confusion of [[concepts/hope|hope]]
 and dulness, “Very [[motifs/well|well]], Mr. Elton, very [[motifs/well|well]] indeed. I have read worse
 charades. _Courtship_—a very good hint. I give you credit for it. This
-is feeling your way. This is saying very plainly—‘Pray, Miss [[smith|Smith]],
+is feeling your way. This is saying very plainly—‘Pray, Miss Smith,
 give me leave to pay my addresses to you. Approve my charade and my
 intentions in the same glance.’
 
@@ -2550,7 +2550,7 @@ it out, Miss Woodhouse. Do help me. I never saw any thing so hard. Is
 it kingdom? I [[concepts/wonder|wonder]] who the friend was—and who could be the young
 lady. Do you think it is a good one? Can it be woman?
 
-And woman, lovely woman, reigns [[Alone|alone]].
+And woman, lovely woman, reigns alone.
 
 
 Can it be Neptune?
@@ -2566,7 +2566,7 @@ Miss Woodhouse, do you think we shall ever find it out?”
 of? Where would be the use of his bringing us a charade made by a
 friend upon a [[characters/mermaid|mermaid]] or a shark? Give me the paper and listen.
 
-For Miss ———, read Miss [[smith|Smith]].
+For Miss ———, read Miss Smith.
 
 My first displays the wealth and pomp of kings,
 Lords of the earth! their luxury and ease.
@@ -2583,7 +2583,7 @@ That is _ship_;—plain as it can be.—Now for the cream.
 But ah! united, (_courtship_, you know,) what reverse we have!
 Man’s boasted power and [[concepts/freedom|freedom]], all are flown.
 Lord of the earth and sea, he bends a slave,
-And woman, lovely woman, reigns [[Alone|alone]].
+And woman, lovely woman, reigns alone.
 
 
 A very proper compliment!—and then follows the application, which I
@@ -2591,7 +2591,7 @@ think, my dear Harriet, you cannot find much difficulty in
 comprehending. Read it in comfort to yourself. There can be no [[concepts/doubt|doubt]] of
 its being written for you and to you.”
 
-Harriet could not long resist so delightful a [[Persuasion|persuasion]]. She read the
+Harriet could not long resist so delightful a persuasion. She read the
 concluding lines, and was all flutter and happiness. She could not
 speak. But she was not wanted to speak. It was enough for her to feel.
 [[works/emma-(austen)|Emma]] spoke for her.
@@ -2934,7 +2934,7 @@ paper from the table, she returned it—
 
 “Oh! here is the charade you were so obliging as to leave with us;
 thank you for the sight of it. We admired it so much, that I have
-ventured to write it into Miss [[smith|Smith]]’s collection. Your friend will not
+ventured to write it into Miss Smith’s collection. Your friend will not
 take it amiss I [[concepts/hope|hope]]. Of course I have not transcribed beyond the first
 eight lines.”
 
@@ -2980,7 +2980,7 @@ leading at right angles from the broad, though irregular, main street
 of the place; and, as may be inferred, containing the blessed abode of
 Mr. Elton. A few inferior dwellings were first to be passed, and then,
 about a quarter of a mile down the lane [[motifs/rose|rose]] the Vicarage, an old and
-not very good [[house]], almost as close to the [[motifs/road|road]] as it could be. It had
+not very good house, almost as close to the [[motifs/road|road]] as it could be. It had
 no advantage of situation; but had been very much smartened up by the
 present proprietor; and, such as it was, there could be no possibility
 of the two friends passing it without a slackened pace and observing
@@ -2989,7 +2989,7 @@ eyes.—[[works/emma-(austen)|Emma]]’s remark was—
 “There it is. There go you and your [[forms/riddle|riddle]]-book one of these
 days.”—Harriet’s was—
 
-“Oh, what a sweet [[house]]!—How very beautiful!—There are the yellow
+“Oh, what a sweet house!—How very beautiful!—There are the yellow
 curtains that Miss Nash admires so much.”
 
 “I do not often walk this way _now_,” said [[works/emma-(austen)|Emma]], as they proceeded,
@@ -3035,7 +3035,7 @@ in [[motifs/love|love]]; it is not my way, or my [[concepts/nature|nature]]; and
 shall. And, without [[motifs/love|love]], I am sure I should be a [[archetypes/fool|fool]] to change such a
 situation as mine. Fortune I do not want; employment I do not want;
 consequence I do not want: I believe few married women are half as much
-mistress of their husband’s [[house]] as I am of Hartfield; and never,
+mistress of their husband’s house as I am of Hartfield; and never,
 never could I expect to be so truly beloved and important; so always
 first and always right in any man’s eyes as I am in my father’s.”
 
@@ -3163,7 +3163,7 @@ Anxious to separate herself from them as far as she could, she soon
 afterwards took possession of a narrow footpath, a little raised on one
 side of the lane, leaving them together in the main [[motifs/road|road]]. But she had
 not been there two minutes when she found that Harriet’s habits of
-dependence and [[Imitation|imitation]] were bringing her up too, and that, in short,
+dependence and imitation were bringing her up too, and that, in short,
 they would both be soon after her. This would not do; she immediately
 stopped, under pretence of having some alteration to make in the lacing
 of her half-boot, and stooping down in complete occupation of the
@@ -3189,7 +3189,7 @@ Mr. Elton was still talking, still engaged in some interesting detail;
 and [[works/emma-(austen)|Emma]] experienced some disappointment when she found that he was
 only giving his fair companion an account of the yesterday’s party at
 his friend Cole’s, and that she was come in herself for the Stilton
-[[cheese]], the north Wiltshire, the butter, the celery, the beet-root, and
+cheese, the north Wiltshire, the butter, the celery, the beet-root, and
 all the dessert.
 
 “This would soon have led to something better, of course,” was her
@@ -3199,7 +3199,7 @@ could but have kept longer away!”
 
 They now walked on together quietly, till within view of the vicarage
 pales, when a sudden resolution, of at least getting Harriet into the
-[[house]], made her again find something very much amiss about her boot,
+house, made her again find something very much amiss about her boot,
 and fall behind to arrange it once more. She then broke the lace off
 short, and dexterously throwing it into a ditch, was presently obliged
 to entreat them to stop, and acknowledged her inability to put herself
@@ -3208,11 +3208,11 @@ to rights so as to be able to walk [[motifs/home|home]] in tolerable comfort.
 “Part of my lace is gone,” said she, “and I do not know how I am to
 contrive. I really am a most troublesome companion to you both, but I
 [[concepts/hope|hope]] I am not often so ill-equipped. Mr. Elton, I must beg leave to
-stop at your [[house]], and ask your housekeeper for a bit of ribband or
+stop at your house, and ask your housekeeper for a bit of ribband or
 string, or any thing just to keep my boot on.”
 
 Mr. Elton looked all happiness at this proposition; and nothing could
-exceed his alertness and attention in conducting them into his [[house]]
+exceed his alertness and attention in conducting them into his house
 and endeavouring to make every thing appear to advantage. The room they
 were taken into was the one he chiefly occupied, and looking forwards;
 behind it was another with which it immediately communicated; the door
@@ -3226,7 +3226,7 @@ adjoining room. For ten minutes she could hear nothing but herself. It
 could be protracted no longer. She was then obliged to be finished, and
 make her appearance.
 
-The [[lovers]] were standing together at one of the windows. It had a most
+The lovers were standing together at one of the windows. It had a most
 favourable aspect; and, for half a minute, [[works/emma-(austen)|Emma]] felt the glory of
 having schemed successfully. But it would not do; he had not come to
 the point. He had been most agreeable, most delightful; he had told
@@ -3257,7 +3257,7 @@ sister’s family was so very near at hand, that first in anticipation,
 and then in reality, it became henceforth her prime object of interest;
 and during the ten days of their stay at Hartfield it was not to be
 expected—she did not herself expect—that any thing beyond occasional,
-fortuitous assistance could be afforded by her to the [[lovers]]. They
+fortuitous assistance could be afforded by her to the lovers. They
 might advance rapidly if they would, however; they must advance somehow
 or other whether they would or no. She hardly wished to have more
 leisure for them. There are people, who the more you do for them, the
@@ -3308,7 +3308,7 @@ and a strong habit of regard for every old acquaintance.
 Mr. John Knightley was a tall, gentleman-like, and very clever man;
 rising in his profession, domestic, and respectable in his private
 character; but with reserved manners which prevented his being
-generally pleasing; and capable of being sometimes out of [[Humour|humour]]. He
+generally pleasing; and capable of being sometimes out of humour. He
 was not an ill-tempered man, not so often unreasonably [[motifs/cross|cross]] as to
 deserve such a reproach; but his temper was not his great perfection;
 and, indeed, with such a worshipping wife, it was hardly possible that
@@ -3849,7 +3849,7 @@ nothing to wish otherwise, but that the days did not pass so swiftly.
 It was a delightful visit;—perfect, in being much too short.
 
 In general their evenings were less engaged with friends than their
-mornings; but one complete dinner engagement, and out of the [[house]] too,
+mornings; but one complete dinner engagement, and out of the house too,
 there was no avoiding, though at Christmas. Mr. Weston would take no
 denial; they must all dine at Randalls one day;—even Mr. Woodhouse was
 persuaded to think it a possible thing in preference to a division of
@@ -3871,7 +3871,7 @@ The evening before this great event (for it was a very great event that
 Mr. Woodhouse should dine out, on the 24th of December) had been spent
 by Harriet at Hartfield, and she had gone [[motifs/home|home]] so much indisposed with
 a cold, that, but for her own earnest wish of being nursed by Mrs.
-Goddard, [[works/emma-(austen)|Emma]] could not have allowed her to leave the [[house]]. [[works/emma-(austen)|Emma]]
+Goddard, [[works/emma-(austen)|Emma]] could not have allowed her to leave the house. [[works/emma-(austen)|Emma]]
 called on her the next day, and found her doom already signed with
 regard to Randalls. She was very feverish and had a bad sore throat:
 Mrs. Goddard was full of care and affection, Mr. Perry was talked of,
@@ -3960,7 +3960,7 @@ gives way to it—and this must be the case with Mr. Elton; a most
 valuable, amiable, pleasing young man undoubtedly, and very much in
 [[motifs/love|love]] with Harriet; but still, he cannot refuse an invitation, he must
 dine out wherever he is asked. What a strange thing [[motifs/love|love]] is! he can see
-ready wit in Harriet, but will not dine [[Alone|alone]] for her.”
+ready wit in Harriet, but will not dine alone for her.”
 
 Soon afterwards Mr. Elton quitted them, and she could not but do him
 the justice of feeling that there was a great deal of sentiment in his
@@ -4023,7 +4023,7 @@ of [[motifs/snow|snow]] were finding their way down, and the sky had the appeara
 being so overcharged as to want only a milder air to produce a very
 white world in a very short [[motifs/time|time]].
 
-[[works/emma-(austen)|Emma]] soon saw that her companion was not in the happiest [[Humour|humour]]. The
+[[works/emma-(austen)|Emma]] soon saw that her companion was not in the happiest humour. The
 preparing and the going abroad in such weather, with the sacrifice of
 his children after dinner, were evils, were disagreeables at least,
 which Mr. John Knightley did not by any means like; he anticipated
@@ -4044,7 +4044,7 @@ than usual, setting forward voluntarily, without excuse, in defiance of
 the voice of [[concepts/nature|nature]], which tells man, in every thing given to his view
 or his feelings, to stay at [[motifs/home|home]] himself, and keep all under shelter
 that he can;—here are we setting forward to spend five dull hours in
-another man’s [[house]], with nothing to say or to hear that was not said
+another man’s house, with nothing to say or to hear that was not said
 and heard yesterday, and may not be said and heard again to-morrow.
 Going in dismal weather, to return probably in worse;—four horses and
 four servants taken out for nothing but to convey five idle, shivering
@@ -4082,7 +4082,7 @@ sentiment as he answered.
 
 “Oh! no—I am grieved to find—I was on the point of telling you that
 when I called at Mrs. Goddard’s door, which I did the very last thing
-before I returned to dress, I was told that Miss [[smith|Smith]] was not better,
+before I returned to dress, I was told that Miss Smith was not better,
 by no means better, rather worse. Very much grieved and concerned—I had
 flattered myself that she must be better after such a cordial as I knew
 had been given her in the morning.”
@@ -4125,7 +4125,7 @@ have done, for Mr. Woodhouse would hardly have ventured had there been
 much [[motifs/snow|snow]] on the ground; but now it is of no consequence. This is quite
 the season indeed for friendly meetings. At Christmas every [[concepts/body|body]]
 invites their friends about them, and people think little of even the
-worst weather. I was snowed up at a friend’s [[house]] once for a week.
+worst weather. I was snowed up at a friend’s house once for a week.
 Nothing could be pleasanter. I went for only one [[motifs/night|night]], and could not
 get away till that very day se’nnight.”
 
@@ -4172,7 +4172,7 @@ CHAPTER XIV
 
 Some change of countenance was necessary for each gentleman as they
 walked into Mrs. Weston’s drawing-room;—Mr. Elton must compose his
-joyous looks, and Mr. John Knightley disperse his ill-[[Humour|humour]]. Mr. Elton
+joyous looks, and Mr. John Knightley disperse his ill-humour. Mr. Elton
 must smile less, and Mr. John Knightley more, to fit them for the
 place.—[[works/emma-(austen)|Emma]] only might be as [[concepts/nature|nature]] prompted, and shew herself just as
 happy as she was. To her it was real enjoyment to be with the Westons.
@@ -4255,14 +4255,14 @@ hospitality, the very first leisure from the saddle of mutton, to say
 to her,
 
 “We want only two more to be just the right number. I should like to
-see two more here,—your pretty little friend, Miss [[smith|Smith]], and my
+see two more here,—your pretty little friend, Miss Smith, and my
 son—and then I should say we were quite complete. I believe you did not
 hear me telling the others in the drawing-room that we are expecting
 Frank. I had a letter from him this morning, and he will be with us
 within a fortnight.”
 
 [[works/emma-(austen)|Emma]] spoke with a very proper degree of pleasure; and fully assented to
-his proposition of Mr. [[characters/frank-churchill|Frank Churchill]] and Miss [[smith|Smith]] making their
+his proposition of Mr. [[characters/frank-churchill|Frank Churchill]] and Miss Smith making their
 party quite complete.
 
 “He has been wanting to come to us,” continued Mr. Weston, “ever since
@@ -4325,7 +4325,7 @@ Mr. Weston. I am very much afraid that it will all end in nothing. Mr.
 Weston, I dare say, has been telling you exactly how the matter
 stands?”
 
-“Yes—it seems to depend upon nothing but the ill-[[Humour|humour]] of Mrs.
+“Yes—it seems to depend upon nothing but the ill-humour of Mrs.
 Churchill, which I imagine to be the most certain thing in the world.”
 
 “My [[works/emma-(austen)|Emma]]!” replied Mrs. Weston, smiling, “what is the certainty of
@@ -4346,7 +4346,7 @@ thing of; but it must be a life of misery. What a blessing, that she
 never had any children! Poor little creatures, how unhappy she would
 have made them!”
 
-[[works/emma-(austen)|Emma]] wished she had been [[Alone|alone]] with Mrs. Weston. She should then have
+[[works/emma-(austen)|Emma]] wished she had been alone with Mrs. Weston. She should then have
 heard more: Mrs. Weston would speak to her, with a degree of unreserve
 which she would not hazard with [[characters/isabella|Isabella]]; and, she really believed,
 would scarcely try to conceal any thing relative to the Churchills from
@@ -4458,7 +4458,7 @@ and she had difficulty in behaving with temper. He turned to Mrs.
 Weston to implore her assistance, “Would not she give him her
 support?—would not she add her persuasions to his, to induce Miss
 Woodhouse not to go to Mrs. Goddard’s till it were certain that Miss
-[[smith|Smith]]’s disorder had no infection? He could not be satisfied without a
+Smith’s disorder had no infection? He could not be satisfied without a
 promise—would not she give him her influence in procuring it?”
 
 “So scrupulous for others,” he continued, “and yet so careless for
@@ -4511,7 +4511,7 @@ that he might be able to keep them all at Randalls; and with the utmost
 good-will was sure that accommodation might be found for every [[concepts/body|body]],
 calling on his wife to agree with him, that with a little contrivance,
 every [[concepts/body|body]] might be lodged, which she hardly knew how to do, from the
-consciousness of there being but two spare rooms in the [[house]].
+consciousness of there being but two spare rooms in the house.
 
 “What is to be done, my dear [[works/emma-(austen)|Emma]]?—what is to be done?” was Mr.
 Woodhouse’s first exclamation, and all that he could say for some [[motifs/time|time]].
@@ -4580,7 +4580,7 @@ Mr. Knightley and [[works/emma-(austen)|Emma]] settled it in a few brief sentenc
 
 And the bell was rung, and the carriages spoken for. A few minutes
 more, and [[works/emma-(austen)|Emma]] hoped to see one troublesome companion deposited in his
-own [[house]], to get sober and cool, and the other recover his temper and
+own house, to get sober and cool, and the other recover his temper and
 happiness when this visit of hardship were over.
 
 The carriage came: and Mr. Woodhouse, always the first object on such
@@ -4634,10 +4634,10 @@ replied,
 
 
 “I am very much astonished, Mr. Elton. This to _me_! you forget
-yourself—you take me for my friend—any message to Miss [[smith|Smith]] I shall be
+yourself—you take me for my friend—any message to Miss Smith I shall be
 happy to deliver; but no more of this to _me_, if you please.”
 
-“Miss [[smith|Smith]]!—message to Miss [[smith|Smith]]!—What could she possibly mean!”—And
+“Miss Smith!—message to Miss Smith!—What could she possibly mean!”—And
 he repeated her words with such assurance of accent, such boastful
 pretence of amazement, that she could not help replying with quickness,
 
@@ -4649,8 +4649,8 @@ to say no more, and I will endeavour to forget it.”
 But Mr. Elton had only drunk wine enough to elevate his spirits, not at
 all to confuse his intellects. He perfectly knew his own meaning; and
 having warmly protested against her suspicion as most injurious, and
-slightly touched upon his respect for Miss [[smith|Smith]] as her friend,—but
-acknowledging his [[concepts/wonder|wonder]] that Miss [[smith|Smith]] should be mentioned at all,—he
+slightly touched upon his respect for Miss Smith as her friend,—but
+acknowledging his [[concepts/wonder|wonder]] that Miss Smith should be mentioned at all,—he
 resumed the subject of his own passion, and was very urgent for a
 favourable answer.
 
@@ -4661,19 +4661,19 @@ replied,
 “It is impossible for me to [[concepts/doubt|doubt]] any longer. You have made yourself
 too clear. Mr. Elton, my astonishment is much beyond any thing I can
 express. After such behaviour, as I have witnessed during the last
-month, to Miss [[smith|Smith]]—such attentions as I have been in the daily habit
+month, to Miss Smith—such attentions as I have been in the daily habit
 of observing—to be addressing me in this manner—this is an unsteadiness
 of character, indeed, which I had not supposed possible! Believe me,
 sir, I am far, very far, from gratified in being the object of such
 professions.”
 
 “Good Heaven!” cried Mr. Elton, “what can be the meaning of this?—Miss
-[[smith|Smith]]!—I never thought of Miss [[smith|Smith]] in the whole course of my
+Smith!—I never thought of Miss Smith in the whole course of my
 existence—never paid her any attentions, but as your friend: never
 cared whether she were dead or alive, but as your friend. If she has
 fancied otherwise, her own wishes have misled her, and I am very
-sorry—extremely sorry—But, Miss [[smith|Smith]], indeed!—Oh! Miss Woodhouse! who
-can think of Miss [[smith|Smith]], when Miss Woodhouse is near! No, upon my
+sorry—extremely sorry—But, Miss Smith, indeed!—Oh! Miss Woodhouse! who
+can think of Miss Smith, when Miss Woodhouse is near! No, upon my
 [[concepts/honour|honour]], there is no unsteadiness of character. I have thought only of
 you. I protest against having paid the smallest attention to any one
 else. Every thing that I have said or done, for many weeks past, has
@@ -4696,19 +4696,19 @@ to your views, till this moment. As to myself, I am very sorry that you
 should have been giving way to any feelings—Nothing could be farther
 from my wishes—your attachment to my friend Harriet—your pursuit of
 her, (pursuit, it appeared,) gave me great pleasure, and I have been
-very earnestly wishing you [[success]]: but had I supposed that she were
+very earnestly wishing you success: but had I supposed that she were
 not your attraction to Hartfield, I should certainly have thought you
 judged ill in making your visits so frequent. Am I to believe that you
 have never sought to recommend yourself particularly to Miss
-[[smith|Smith]]?—that you have never thought seriously of her?”
+Smith?—that you have never thought seriously of her?”
 
 “Never, madam,” cried he, affronted in his turn: “never, I assure you.
-_I_ think seriously of Miss [[smith|Smith]]!—Miss [[smith|Smith]] is a very good sort of
+_I_ think seriously of Miss Smith!—Miss Smith is a very good sort of
 girl; and I should be happy to see her respectably settled. I wish her
 extremely [[motifs/well|well]]: and, no [[concepts/doubt|doubt]], there are men who might not object
 to—Every [[concepts/body|body]] has their level: but as for myself, I am not, I think,
 quite so much at a loss. I need not so totally [[concepts/despair|despair]] of an equal
-alliance, as to be addressing myself to Miss [[smith|Smith]]!—No, madam, my
+alliance, as to be addressing myself to Miss Smith!—No, madam, my
 visits to Hartfield have been for yourself only; and the encouragement
 I received—”
 
@@ -4716,7 +4716,7 @@ I received—”
 mistaken in supposing it. I have seen you only as the admirer of my
 friend. In no other light could you have been more to me than a common
 acquaintance. I am exceedingly sorry: but it is [[motifs/well|well]] that the mistake
-ends where it does. Had the same behaviour continued, Miss [[smith|Smith]] might
+ends where it does. Had the same behaviour continued, Miss Smith might
 have been led into a misconception of your views; not being aware,
 probably, any more than myself, of the very great inequality which you
 are so sensible of. But, as it is, the disappointment is single, and, I
@@ -4731,7 +4731,7 @@ there had not been so much anger, there would have been desperate
 awkwardness; but their straightforward emotions left no room for the
 little zigzags of embarrassment. Without knowing when the carriage
 turned into Vicarage Lane, or when it stopped, they found themselves,
-all at once, at the door of his [[house]]; and he was out before another
+all at once, at the door of his house; and he was out before another
 syllable passed.—[[works/emma-(austen)|Emma]] then felt it indispensable to wish him a good
 [[motifs/night|night]]. The compliment was just returned, coldly and proudly; and, under
 indescribable irritation of spirits, she was then conveyed to
@@ -4742,7 +4742,7 @@ been trembling for the dangers of a solitary drive from Vicarage
 Lane—turning a corner which he could never bear to think of—and in
 strange hands—a mere common coachman—no James; and there it seemed as
 if her return only were wanted to make every thing go [[motifs/well|well]]: for Mr.
-John Knightley, ashamed of his ill-[[Humour|humour]], was now all kindness and
+John Knightley, ashamed of his ill-humour, was now all kindness and
 attention; and so particularly solicitous for the comfort of her
 father, as to seem—if not quite ready to join him in a basin of
 gruel—perfectly sensible of its being exceedingly wholesome; and the
@@ -4927,7 +4927,7 @@ Mr. Elton’s absenting himself.
 It was weather which might fairly confine every [[concepts/body|body]] at [[motifs/home|home]]; and
 though she hoped and believed him to be really taking comfort in some
 society or other, it was very pleasant to have her father so [[motifs/well|well]]
-satisfied with his being all [[Alone|alone]] in his own [[house]], too wise to stir
+satisfied with his being all alone in his own house, too wise to stir
 out; and to hear him say to Mr. Knightley, whom no weather could keep
 entirely from them,—
 
@@ -4937,7 +4937,7 @@ These days of confinement would have been, but for her private
 perplexities, remarkably comfortable, as such seclusion exactly suited
 her brother, whose feelings must always be of great importance to his
 companions; and he had, besides, so thoroughly cleared off his
-ill-[[Humour|humour]] at Randalls, that his amiableness never failed him during
+ill-humour at Randalls, that his amiableness never failed him during
 the rest of his stay at Hartfield. He was always agreeable and
 obliging, and speaking pleasantly of every [[concepts/body|body]]. But with all the hopes
 of cheerfulness, and all the present comfort of delay, there was still
@@ -5012,7 +5012,7 @@ thing testifying such an ingenuousness of disposition and lowly opinion
 of herself, as must appear with particular advantage at that moment to
 her friend.
 
-[[works/emma-(austen)|Emma]] was in the [[Humour|humour]] to value simplicity and modesty to the utmost;
+[[works/emma-(austen)|Emma]] was in the humour to value simplicity and modesty to the utmost;
 and all that was amiable, all that ought to be attaching, seemed on
 Harriet’s side, not her own. Harriet did not consider herself as having
 any thing to complain of. The affection of such a man as Mr. Elton
@@ -5360,7 +5360,7 @@ and after speaking some [[motifs/time|time]] of what the poor must suffer in [[m
 and receiving no other answer than a very plaintive—“Mr. Elton is so
 good to the poor!” she found something else must be done.
 
-They were just approaching the [[house]] where lived Mrs. and [[characters/miss-bates|Miss Bates]].
+They were just approaching the house where lived Mrs. and [[characters/miss-bates|Miss Bates]].
 She determined to call upon them and seek safety in numbers. There was
 always sufficient reason for such an attention; Mrs. and [[characters/miss-bates|Miss Bates]]
 loved to be called on, and she knew she was considered by the very few
@@ -5369,7 +5369,7 @@ that respect, and as not contributing what she ought to the stock of
 their scanty comforts.
 
 She had had many a hint from Mr. Knightley and some from her own heart,
-as to her deficiency—but none were equal to counteract the [[Persuasion|persuasion]]
+as to her deficiency—but none were equal to counteract the persuasion
 of its being very disagreeable,—a waste of [[motifs/time|time]]—tiresome women—and all
 the horror of being in danger of falling in with the second-rate and
 third-rate of Highbury, who were calling on them for ever, and
@@ -5378,7 +5378,7 @@ resolution of not passing their door without going in—observing, as she
 proposed it to Harriet, that, as [[motifs/well|well]] as she could calculate, they were
 just now quite safe from any letter from [[characters/jane-fairfax|Jane Fairfax]].
 
-The [[house]] belonged to people in business. Mrs. and [[characters/miss-bates|Miss Bates]] occupied
+The house belonged to people in business. Mrs. and [[characters/miss-bates|Miss Bates]] occupied
 the drawing-room floor; and there, in the very moderate-sized
 apartment, which was every thing to them, the visitors were most
 cordially and even gratefully welcomed; the quiet neat old lady, who
@@ -5391,7 +5391,7 @@ sweet-cake from the beaufet—“Mrs. Cole had just been there, just called
 in for ten minutes, and had been so good as to sit an hour with them,
 and _she_ had taken a piece of cake and been so kind as to say she
 liked it very much; and, therefore, she hoped Miss Woodhouse and Miss
-[[smith|Smith]] would do them the favour to eat a piece too.”
+Smith would do them the favour to eat a piece too.”
 
 The mention of the Coles was sure to be followed by that of Mr. Elton.
 There was intimacy between them, and Mr. Cole had heard from Mr. Elton
@@ -5403,7 +5403,7 @@ went through it very [[motifs/well|well]], with all the interest and all the
 commendation that could be requisite, and always putting forward to
 prevent Harriet’s being obliged to say a word.
 
-This she had been prepared for when she entered the [[house]]; but meant,
+This she had been prepared for when she entered the house; but meant,
 having once talked him handsomely over, to be no farther incommoded by
 any troublesome topic, and to wander at large amongst all the
 Mistresses and Misses of Highbury, and their card-parties. She had not
@@ -5630,7 +5630,7 @@ better than I can tell it for her.”
 “I am afraid we must be running away,” said [[works/emma-(austen)|Emma]], glancing at Harriet,
 and beginning to rise—“My father will be expecting us. I had no
 intention, I thought I had no power of staying more than five minutes,
-when I first entered the [[house]]. I merely called, because I would not
+when I first entered the house. I merely called, because I would not
 pass the door without inquiring after Mrs. Bates; but I have been so
 pleasantly detained! Now, however, we must wish you and Mrs. Bates good
 morning.”
@@ -5824,7 +5824,7 @@ pitiable or more honourable than the sacrifices she had resolved on.
 [[works/emma-(austen)|Emma]] was very willing now to acquit her of having seduced Mr. Dixon’s
 affections from his wife, or of any thing mischievous which her
 [[concepts/imagination|imagination]] had suggested at first. If it were [[motifs/love|love]], it might be
-simple, single, successless [[motifs/love|love]] on her side [[Alone|alone]]. She might have been
+simple, single, successless [[motifs/love|love]] on her side alone. She might have been
 unconsciously sucking in the sad [[motifs/poison|poison]], while a sharer of his
 conversation with her friend; and from the best, the purest of motives,
 might now be denying herself this visit to Ireland, and resolving to
@@ -6128,7 +6128,7 @@ short, I do not think I am particularly quick at those sort of
 discoveries. I do not pretend to it. What is before me, I see. At the
 same [[motifs/time|time]], nobody could [[concepts/wonder|wonder]] if Mr. Elton should have aspired—Miss
 Woodhouse lets me chatter on, so good-humouredly. She knows I would not
-offend for the world. How does Miss [[smith|Smith]] do? She seems quite recovered
+offend for the world. How does Miss Smith do? She seems quite recovered
 now. Have you heard from Mrs. John Knightley lately? Oh! those dear
 little children. Jane, do you know I always fancy Mr. Dixon like Mr.
 John Knightley. I mean in person—tall, and with that sort of look—and
@@ -6170,7 +6170,7 @@ coming too. [[motifs/well|Well]], that is so very!—I am sure if Jane is tired,
 be so kind as to give her your arm.—Mr. Elton, and Miss Hawkins!—Good
 morning to you.”
 
-[[works/emma-(austen)|Emma]], [[Alone|alone]] with her father, had half her attention wanted by him while
+[[works/emma-(austen)|Emma]], alone with her father, had half her attention wanted by him while
 he lamented that young people would be in such a hurry to marry—and to
 marry strangers too—and the other half she could give to her own view
 of the subject. It was to herself an amusing and a very welcome piece
@@ -6193,7 +6193,7 @@ in listening; and Harriet, unchecked, ran eagerly through what she had
 to tell. “She had set out from Mrs. Goddard’s half an hour ago—she had
 been afraid it would rain—she had been afraid it would pour down every
 moment—but she thought she might get to Hartfield first—she had hurried
-on as fast as possible; but then, as she was passing by the [[house]] where
+on as fast as possible; but then, as she was passing by the house where
 a young woman was making up a gown for her, she thought she would just
 step in and see how it went on; and though she did not seem to stay
 half a moment there, soon after she came out it began to rain, and she
@@ -6325,7 +6325,7 @@ had gone away deeply offended—he came back engaged to another—and to
 another as superior, of course, to the first, as under such
 circumstances what is gained always is to what is lost. He came back
 gay and [[concepts/self|self]]-satisfied, eager and busy, caring nothing for Miss
-Woodhouse, and defying Miss [[smith|Smith]].
+Woodhouse, and defying Miss Smith.
 
 The charming Augusta Hawkins, in addition to all the usual advantages
 of perfect [[concepts/beauty|beauty]] and merit, was in possession of an independent
@@ -6422,7 +6422,7 @@ servants, and furniture, was continually in agitation around her. Her
 regard was receiving strength by invariable praise of him, and her
 regrets kept alive, and feelings irritated by ceaseless repetitions of
 Miss Hawkins’s happiness, and continual observation of, how much he
-seemed attached!—his air as he walked by the [[house]]—the very sitting of
+seemed attached!—his air as he walked by the house—the very sitting of
 his hat, being all in proof of how much he was in [[motifs/love|love]]!
 
 Had it been allowable entertainment, had there been no [[motifs/pain|pain]] to her
@@ -6490,7 +6490,7 @@ an hour. She went on herself, to give that portion of [[motifs/time|time]] to an
 servant who was married, and settled in Donwell.
 
 The quarter of an hour brought her punctually to the white gate again;
-and Miss [[smith|Smith]] receiving her summons, was with her without delay, and
+and Miss Smith receiving her summons, was with her without delay, and
 unattended by any alarming young man. She came solitarily down the
 gravel walk—a Miss Martin just appearing at the door, and parting with
 her seemingly with ceremonious civility.
@@ -6501,7 +6501,7 @@ understand the sort of meeting, and the sort of [[motifs/pain|pain]] it was crea
 She had seen only Mrs. Martin and the two girls. They had received her
 doubtingly, if not coolly; and nothing beyond the merest commonplace
 had been talked almost all the [[motifs/time|time]]—till just at last, when Mrs.
-Martin’s saying, all of a sudden, that she thought Miss [[smith|Smith]] was
+Martin’s saying, all of a sudden, that she thought Miss Smith was
 grown, had brought on a more interesting subject, and a warmer manner.
 In that very room she had been measured last September, with her two
 friends. There were the pencilled marks and memorandums on the wainscot
@@ -6603,7 +6603,7 @@ something like a look of [[motifs/spring|spring]], a tender smile even there.
 question, however, which did not augur much.
 
 But neither geography nor tranquillity could come all at once, and [[works/emma-(austen)|Emma]]
-was now in a [[Humour|humour]] to resolve that they should both come in [[motifs/time|time]].
+was now in a humour to resolve that they should both come in [[motifs/time|time]].
 
 The morning of the interesting day arrived, and Mrs. Weston’s faithful
 pupil did not forget either at ten, or eleven, or twelve o’[[motifs/clock|clock]], that
@@ -6654,7 +6654,7 @@ but in coming _home_ I felt I might do any thing.”
 The word _home_ made his father look on him with fresh complacency.
 [[works/emma-(austen)|Emma]] was directly sure that he knew how to make himself agreeable; the
 conviction was strengthened by what followed. He was very much pleased
-with Randalls, thought it a most admirably arranged [[house]], would hardly
+with Randalls, thought it a most admirably arranged house, would hardly
 allow it even to be very small, admired the situation, the walk to
 Highbury, Highbury itself, Hartfield still more, and professed himself
 to have always felt the sort of interest in the country which none but
@@ -6757,11 +6757,11 @@ of paying a visit, which must be paid some day or other, and therefore
 may as [[motifs/well|well]] be paid now. I have the [[concepts/honour|honour]] of being acquainted with a
 neighbour of yours, (turning to [[works/emma-(austen)|Emma]],) a lady residing in or near
 Highbury; a family of the name of Fairfax. I shall have no difficulty,
-I suppose, in finding the [[house]]; though Fairfax, I believe, is not the
+I suppose, in finding the house; though Fairfax, I believe, is not the
 proper name—I should rather say Barnes, or Bates. Do you know any
 family of that name?”
 
-“To be sure we do,” cried his father; “Mrs. Bates—we passed her [[house]]—I
+“To be sure we do,” cried his father; “Mrs. Bates—we passed her house—I
 saw [[characters/miss-bates|Miss Bates]] at the [[motifs/window|window]]. True, true, you are acquainted with Miss
 Fairfax; I remember you knew her at Weymouth, and a fine girl she is.
 Call upon her, by all means.”
@@ -6814,7 +6814,7 @@ this is quite unnecessary; Frank knows a puddle of [[motifs/water|water]] when h
 it, and as to Mrs. Bates’s, he may get there from the [[motifs/crown|Crown]] in a hop,
 step, and jump.”
 
-They were permitted to go [[Alone|alone]]; and with a cordial nod from one, and a
+They were permitted to go alone; and with a cordial nod from one, and a
 graceful bow from the other, the two gentlemen took leave. [[works/emma-(austen)|Emma]]
 remained very [[motifs/well|well]] pleased with this beginning of the acquaintance, and
 could now engage to think of them all at Randalls any hour of the day,
@@ -6843,7 +6843,7 @@ with him. They walked thither directly.
 [[works/emma-(austen)|Emma]] had hardly expected them: for Mr. Weston, who had called in for
 half a minute, in order to hear that his son was very handsome, knew
 nothing of their plans; and it was an agreeable surprize to her,
-therefore, to perceive them walking up to the [[house]] together, arm in
+therefore, to perceive them walking up to the house together, arm in
 arm. She was wanting to see him again, and especially to see him in
 company with Mrs. Weston, upon his behaviour to whom her opinion of him
 was to depend. If he were deficient there, nothing should make amends
@@ -6862,7 +6862,7 @@ the whole village, and found matter of commendation and interest much
 oftener than [[works/emma-(austen)|Emma]] could have supposed.
 
 Some of the objects of his curiosity spoke very amiable feelings. He
-begged to be shewn the [[house]] which his father had lived in so long, and
+begged to be shewn the house which his father had lived in so long, and
 which had been the [[motifs/home|home]] of his father’s father; and on recollecting
 that an old woman who had nursed him was still living, walked in [[topoi/quest|quest]]
 of her cottage from one end of the street to the other; and though in
@@ -6876,7 +6876,7 @@ absenting himself; that he had not been acting a part, or making a
 parade of insincere professions; and that Mr. Knightley certainly had
 not done him justice.
 
-Their first pause was at the [[motifs/crown|Crown]] Inn, an inconsiderable [[house]], though
+Their first pause was at the [[motifs/crown|Crown]] Inn, an inconsiderable house, though
 the principal one of the sort, where a couple of pair of post-horses
 were kept, more for the convenience of the neighbourhood than from any
 run on the [[motifs/road|road]]; and his companions had not expected to be detained by
@@ -6916,7 +6916,7 @@ of the evil he was holding cheap. It was but an effusion of lively
 spirits.
 
 At last he was persuaded to move on from the front of the [[motifs/crown|Crown]]; and
-being now almost facing the [[house]] where the Bateses lodged, [[works/emma-(austen)|Emma]]
+being now almost facing the house where the Bateses lodged, [[works/emma-(austen)|Emma]]
 recollected his intended visit the day before, and asked him if he had
 paid it.
 
@@ -7124,16 +7124,16 @@ was not exactly what she had expected; less of the man of the world in
 some of his notions, less of the spoiled [[archetypes/child|child]] of fortune, therefore
 better than she had expected. His ideas seemed more moderate—his
 feelings warmer. She was particularly struck by his manner of
-considering Mr. Elton’s [[house]], which, as [[motifs/well|well]] as the church, he would
+considering Mr. Elton’s house, which, as [[motifs/well|well]] as the church, he would
 go and look at, and would not join them in finding much fault with. No,
-he could not believe it a bad [[house]]; not such a [[house]] as a man was to
+he could not believe it a bad house; not such a house as a man was to
 be pitied for having. If it were to be shared with the woman he loved,
-he could not think any man to be pitied for having that [[house]]. There
+he could not think any man to be pitied for having that house. There
 must be ample room in it for every real comfort. The man must be a
 blockhead who wanted more.
 
 Mrs. Weston laughed, and said he did not know what he was talking
-about. Used only to a large [[house]] himself, and without ever thinking
+about. Used only to a large house himself, and without ever thinking
 how many advantages and accommodations were attached to its size, he
 could be no judge of the privations inevitably belonging to a small
 one. But [[works/emma-(austen)|Emma]], in her own mind, determined that he _did_ know what he
@@ -7226,10 +7226,10 @@ unpretending; but, on the other hand, they were of low origin, in
 trade, and only moderately genteel. On their first coming into the
 country, they had lived in proportion to their income, quietly, keeping
 little company, and that little unexpensively; but the last year or two
-had brought them a considerable increase of means—the [[house]] in town had
+had brought them a considerable increase of means—the house in town had
 yielded greater profits, and fortune in general had smiled on them.
-With their wealth, their views increased; their want of a larger [[house]],
-their inclination for more company. They added to their [[house]], to their
+With their wealth, their views increased; their want of a larger house,
+their inclination for more company. They added to their house, to their
 number of servants, to their expenses of every sort; and by this [[motifs/time|time]]
 were, in fortune and style of living, second only to the family at
 Hartfield. Their [[motifs/love|love]] of society, and their new dining-room, prepared
@@ -7375,7 +7375,7 @@ He did, on the condition of some promises on her side: such as that, if
 she came [[motifs/home|home]] cold, she would be sure to warm herself thoroughly; if
 hungry, that she would take something to eat; that her own maid should
 sit up for her; and that Serle and the butler should see that every
-thing were safe in the [[house]], as usual.
+thing were safe in the house, as usual.
 
 
 
@@ -7422,7 +7422,7 @@ his propensity to dine with Mr. Cole.
 
 Her father’s comfort was amply secured, Mrs. Bates as [[motifs/well|well]] as Mrs.
 Goddard being able to come; and her last pleasing duty, before she left
-the [[house]], was to pay her respects to them as they sat together after
+the house, was to pay her respects to them as they sat together after
 dinner; and while her father was fondly noticing the [[concepts/beauty|beauty]] of her
 dress, to make the two ladies all the amends in her power, by helping
 them to large slices of cake and full glasses of wine, for whatever
@@ -7471,7 +7471,7 @@ The party was rather large, as it included one other family, a proper
 unobjectionable country family, whom the Coles had the advantage of
 naming among their acquaintance, and the male part of Mr. Cox’s family,
 the lawyer of Highbury. The less worthy females were to come in the
-evening, with [[characters/miss-bates|Miss Bates]], Miss Fairfax, and Miss [[smith|Smith]]; but already, at
+evening, with [[characters/miss-bates|Miss Bates]], Miss Fairfax, and Miss Smith; but already, at
 dinner, they were too numerous for any subject of conversation to be
 general; and, while politics and Mr. Elton were talked over, [[works/emma-(austen)|Emma]] could
 fairly surrender all her attention to the pleasantness of her
@@ -7553,7 +7553,7 @@ and so liberal.—It is a handsome present.”
 now be shut up in [[settings/london|London]], untouched by any [[concepts/body|body]].”
 
 “That is a grand pianoforte, and he might think it too large for Mrs.
-Bates’s [[house]].”
+Bates’s house.”
 
 “You may _say_ what you chuse—but your countenance testifies that your
 _thoughts_ on this subject are very much like mine.”
@@ -7702,7 +7702,7 @@ and her niece, made his way directly to the opposite side of the
 circle, where sat Miss Woodhouse; and till he could find a seat by her,
 would not sit at all. [[works/emma-(austen)|Emma]] divined what every [[concepts/body|body]] present must be
 thinking. She was his object, and every [[concepts/body|body]] must perceive it. She
-introduced him to her friend, Miss [[smith|Smith]], and, at convenient moments
+introduced him to her friend, Miss Smith, and, at convenient moments
 afterwards, heard what each thought of the other. “He had never seen so
 lovely a face, and was delighted with her naïveté.” And she, “Only to
 be sure it was paying him too great a compliment, but she did think
@@ -7960,9 +7960,9 @@ suited [[works/emma-(austen)|Emma]] best to lead, she gave a very proper complia
 She knew the limitations of her own powers too [[motifs/well|well]] to attempt more
 than she could perform with credit; she wanted neither taste nor spirit
 in the little things which are generally acceptable, and could
-accompany her own voice [[motifs/well|well]]. One accompaniment to her [[Song|song]] took her
+accompany her own voice [[motifs/well|well]]. One accompaniment to her song took her
 agreeably by surprize—a second, slightly but correctly taken by Frank
-Churchill. Her pardon was duly begged at the close of the [[Song|song]], and
+Churchill. Her pardon was duly begged at the close of the song, and
 every thing usual followed. He was accused of having a delightful
 voice, and a perfect knowledge of music; which was properly denied; and
 that he knew nothing of the matter, and had no voice at all, roundly
@@ -8024,16 +8024,16 @@ From that moment, [[works/emma-(austen)|Emma]] could have taken her oath that Mr
 had no concern in giving the instrument. But whether he were entirely
 free from peculiar attachment—whether there were no actual
 preference—remained a little longer doubtful. Towards the end of Jane’s
-second [[Song|song]], her voice grew thick.
+second song, her voice grew thick.
 
 “That will do,” said he, when it was finished, thinking aloud—“you have
 sung quite enough for one evening—now be quiet.”
 
-Another [[Song|song]], however, was soon begged for. “One more;—they would not
+Another song, however, was soon begged for. “One more;—they would not
 fatigue Miss Fairfax on any account, and would only ask for one more.”
 And [[characters/frank-churchill|Frank Churchill]] was heard to say, “I think you could manage this
 without effort; the first part is so very trifling. The strength of the
-[[Song|song]] falls on the second.”
+song falls on the second.”
 
 Mr. Knightley grew angry.
 
@@ -8195,7 +8195,7 @@ answer.
 She looked down the Randalls [[motifs/road|road]]. The scene enlarged; two persons
 appeared; Mrs. Weston and her son-in-law; they were walking into
 Highbury;—to Hartfield of course. They were stopping, however, in the
-first place at Mrs. Bates’s; whose [[house]] was a little nearer Randalls
+first place at Mrs. Bates’s; whose house was a little nearer Randalls
 than Ford’s; and had all but knocked, when [[works/emma-(austen)|Emma]] caught their
 eye.—Immediately they crossed the [[motifs/road|road]] and came forward to her; and the
 agreeableness of yesterday’s engagement seemed to give fresh pleasure
@@ -8287,8 +8287,8 @@ Weston and [[characters/miss-bates|Miss Bates]] met them at the door.
 
 “My dear Miss Woodhouse,” said the latter, “I am just run across to
 entreat the favour of you to come and sit down with us a little while,
-and give us your opinion of our new instrument; you and Miss [[smith|Smith]]. How
-do you do, Miss [[smith|Smith]]?—Very [[motifs/well|well]] I thank you.—And I begged Mrs. Weston
+and give us your opinion of our new instrument; you and Miss Smith. How
+do you do, Miss Smith?—Very [[motifs/well|well]] I thank you.—And I begged Mrs. Weston
 to come with me, that I might be sure of succeeding.”
 
 “I [[concepts/hope|hope]] Mrs. Bates and Miss Fairfax are—”
@@ -8418,9 +8418,9 @@ pursued only by the sounds of her desultory good-will.
 
 “Pray take care, Mrs. Weston, there is a step at the turning. Pray take
 care, Miss Woodhouse, ours is rather a dark staircase—rather darker and
-narrower than one could wish. Miss [[smith|Smith]], pray take care. Miss
+narrower than one could wish. Miss Smith, pray take care. Miss
 Woodhouse, I am quite concerned, I am sure you hit your foot. Miss
-[[smith|Smith]], the step at the turning.”
+Smith, the step at the turning.”
 
 
 
@@ -8608,7 +8608,7 @@ wanted something from Kingston.”
 “Mrs. Cole has servants to send. Can I do any thing for _you_?”
 
 “No, I thank you. But do come in. Who do you think is here?—Miss
-Woodhouse and Miss [[smith|Smith]]; so kind as to call to hear the new
+Woodhouse and Miss Smith; so kind as to call to hear the new
 pianoforte. Do put up your [[motifs/horse|horse]] at the [[motifs/crown|Crown]], and come in.”
 
 “[[motifs/well|Well]],” said he, in a deliberating manner, “for five minutes, perhaps.”
@@ -8707,10 +8707,10 @@ and the interesting employment had followed, of reckoning up exactly
 who there would be, and portioning out the indispensable division of
 space to every couple.
 
-“You and Miss [[smith|Smith]], and Miss Fairfax, will be three, and the two Miss
+“You and Miss Smith, and Miss Fairfax, will be three, and the two Miss
 Coxes five,” had been repeated many times over. “And there will be the
 two Gilberts, young Cox, my father, and myself, besides Mr. Knightley.
-Yes, that will be quite enough for pleasure. You and Miss [[smith|Smith]], and
+Yes, that will be quite enough for pleasure. You and Miss Smith, and
 Miss Fairfax, will be three, and the two Miss Coxes five; and for five
 couple there will be plenty of room.”
 
@@ -8850,7 +8850,7 @@ nobody else could.”
 “Sir,” said Mr. Woodhouse, rather warmly, “you are very much mistaken
 if you suppose Mr. Perry to be that sort of character. Mr. Perry is
 extremely concerned when any of us are ill. But I do not understand how
-the room at the [[motifs/crown|Crown]] can be safer for you than your father’s [[house]].”
+the room at the [[motifs/crown|Crown]] can be safer for you than your father’s house.”
 
 “From the very circumstance of its being larger, sir. We shall have no
 occasion to open the windows at all—not once the whole evening; and it
@@ -8905,7 +8905,7 @@ complaint. I [[concepts/hope|hope]] whenever poor [[characters/isabella|Isabella
 measles, she will send for Perry.”
 
 “My father and Mrs. Weston are at the [[motifs/crown|Crown]] at this moment,” said Frank
-Churchill, “examining the capabilities of the [[house]]. I left them there
+Churchill, “examining the capabilities of the house. I left them there
 and came on to Hartfield, impatient for your opinion, and hoping you
 might be persuaded to join them and give your advice on the spot. I was
 desired to say so from both. It would be the greatest pleasure to them,
@@ -8946,7 +8946,7 @@ the only addition. What was to be done? This card-room would be wanted
 as a card-room now; or, if cards were conveniently voted unnecessary by
 their four selves, still was it not too small for any comfortable
 supper? Another room of much better size might be secured for the
-purpose; but it was at the other end of the [[house]], and a long awkward
+purpose; but it was at the other end of the house, and a long awkward
 passage must be gone through to get at it. This made a difficulty. Mrs.
 Weston was afraid of draughts for the young people in that passage; and
 neither [[works/emma-(austen)|Emma]] nor the gentlemen could tolerate the prospect of being
@@ -9250,14 +9250,14 @@ course of Hartfield days. To complete every other recommendation, he
 had _almost_ told her that he loved her. What strength, or what
 constancy of affection he might be subject to, was another point; but
 at present she could not [[concepts/doubt|doubt]] his having a decidedly warm admiration,
-a conscious preference of herself; and this [[Persuasion|persuasion]], joined to all
+a conscious preference of herself; and this persuasion, joined to all
 the rest, made her think that she _must_ be a little in [[motifs/love|love]] with him,
 in spite of every previous determination against it.
 
 “I certainly must,” said she. “This sensation of listlessness,
 weariness, stupidity, this disinclination to sit down and employ
 myself, this feeling of every thing’s being dull and insipid about the
-[[house]]!— I must be in [[motifs/love|love]]; I should be the oddest creature in the world
+house!— I must be in [[motifs/love|love]]; I should be the oddest creature in the world
 if I were not—for a few weeks at least. [[motifs/well|Well]]! evil to some is always
 good to others. I shall have many fellow-mourners for the ball, if not
 for [[characters/frank-churchill|Frank Churchill]]; but Mr. Knightley will be happy. He may spend the
@@ -9490,7 +9490,7 @@ make her resolve on not being the last to pay her respects; and she
 made a point of Harriet’s going with her, that the worst of the
 business might be gone through as soon as possible.
 
-She could not enter the [[house]] again, could not be in the same room to
+She could not enter the house again, could not be in the same room to
 which she had with such vain artifice retreated three months ago, to
 lace up her boot, without _recollecting_. A thousand vexatious thoughts
 would recur. Compliments, charades, and horrible blunders; and it was
@@ -9522,7 +9522,7 @@ been expected to marry, she must allow him to have the right to look as
 little wise, and to be as much affectedly, and as little really easy as
 could be.
 
-“[[motifs/well|Well]], Miss Woodhouse,” said Harriet, when they had quitted the [[house]],
+“[[motifs/well|Well]], Miss Woodhouse,” said Harriet, when they had quitted the house,
 and after waiting in vain for her friend to begin; “[[motifs/well|Well]], Miss
 Woodhouse, (with a gentle sigh,) what do you think of her?—Is not she
 very charming?”
@@ -9577,7 +9577,7 @@ alliance, and his place and his carriages were the [[concepts/pride|pride]] of h
 
 The very first subject after being seated was Maple Grove, “My brother
 Mr. Suckling’s seat;”—a comparison of Hartfield to Maple Grove. The
-grounds of Hartfield were small, but neat and pretty; and the [[house]] was
+grounds of Hartfield were small, but neat and pretty; and the house was
 modern and [[motifs/well|well]]-built. Mrs. Elton seemed most favourably impressed by
 the size of the room, the entrance, and all that she could see or
 imagine. “Very like Maple Grove indeed!—She was quite struck by the
@@ -9587,7 +9587,7 @@ to.—“Was not it astonishingly like?—She could really almost fancy
 herself at Maple Grove.”
 
 “And the staircase—You know, as I came in, I observed how very like the
-staircase was; placed exactly in the same part of the [[house]]. I really
+staircase was; placed exactly in the same part of the house. I really
 could not help exclaiming! I assure you, Miss Woodhouse, it is very
 delightful to me, to be reminded of a place I am so extremely partial
 to as Maple Grove. I have spent so many happy months there! (with a
@@ -9607,7 +9607,7 @@ of matrimony.”
 [[works/emma-(austen)|Emma]] made as slight a reply as she could; but it was fully sufficient
 for Mrs. Elton, who only wanted to be talking herself.
 
-“So extremely like Maple Grove! And it is not merely the [[house]]—the
+“So extremely like Maple Grove! And it is not merely the house—the
 grounds, I assure you, as far as I could observe, are strikingly like.
 The laurels at Maple Grove are in the same profusion as here, and stand
 very much in the same way—just across the lawn; and I had a glimpse of
@@ -9660,7 +9660,7 @@ we are a very quiet set of people, I believe; more disposed to stay at
 “Ah! there is nothing like staying at [[motifs/home|home]] for real comfort. Nobody can
 be more devoted to [[motifs/home|home]] than I am. I was quite a proverb for it at
 Maple Grove. Many a [[motifs/time|time]] has Selina said, when she has been going to
-Bristol, ‘I really cannot get this girl to move from the [[house]]. I
+Bristol, ‘I really cannot get this girl to move from the house. I
 absolutely must go in by myself, though I hate being stuck up in the
 barouche-landau without a companion; but Augusta, I believe, with her
 own good-will, would never stir beyond the park paling.’ Many a [[motifs/time|time]]
@@ -9729,7 +9729,7 @@ to me; and having always been used to a very musical society, both at
 Maple Grove and in Bath, it would have been a most serious sacrifice. I
 honestly said as much to Mr. E. when he was speaking of my future [[motifs/home|home]],
 and expressing his fears lest the retirement of it should be
-disagreeable; and the inferiority of the [[house]] too—knowing what I had
+disagreeable; and the inferiority of the house too—knowing what I had
 been accustomed to—of course he was not wholly without apprehension.
 When he was speaking of it in that way, I honestly said that _the_
 _world_ I could give up—parties, balls, plays—for I had no [[concepts/fear|fear]] of
@@ -9753,7 +9753,7 @@ pardoned, in consideration of the motive.”
 “No, indeed, I have no doubts at all on that head. I am delighted to
 find myself in such a circle. I [[concepts/hope|hope]] we shall have many sweet little
 concerts together. I think, Miss Woodhouse, you and I must establish a
-musical club, and have regular weekly meetings at your [[house]], or ours.
+musical club, and have regular weekly meetings at your house, or ours.
 Will not it be a good plan? If _we_ exert ourselves, I think we shall
 not be long in want of allies. Something of that [[concepts/nature|nature]] would be
 particularly desirable for _me_, as an inducement to keep me in
@@ -9991,7 +9991,7 @@ other way, in doing too much, and being too careless of expense. Maple
 Grove will probably be my model more than it ought to be—for we do not
 at all affect to equal my brother, Mr. Suckling, in income.—However, my
 resolution is taken as to noticing [[characters/jane-fairfax|Jane Fairfax]].—I shall certainly have
-her very often at my [[house]], shall introduce her wherever I can, shall
+her very often at my house, shall introduce her wherever I can, shall
 have musical parties to draw out her talents, and shall be constantly
 on the watch for an eligible situation. My acquaintance is so very
 extensive, that I have little [[concepts/doubt|doubt]] of hearing of something to suit her
@@ -10282,7 +10282,7 @@ of this party.—His professional engagements did not allow of his being
 put off, but both father and daughter were disturbed by its happening
 so. Mr. Woodhouse considered eight persons at dinner together as the
 utmost that his nerves could bear—and here would be a ninth—and [[works/emma-(austen)|Emma]]
-apprehended that it would be a ninth very much out of [[Humour|humour]] at not
+apprehended that it would be a ninth very much out of humour at not
 being able to come even to Hartfield for forty-eight hours without
 falling in with a dinner-party.
 
@@ -10659,7 +10659,7 @@ A gentleman’s family is all that I should condition for.”
 “I know you, I know you; you would take up with any thing; but I shall
 be a little more nice, and I am sure the good Campbells will be quite
 on my side; with your superior talents, you have a right to move in the
-first circle. Your musical knowledge [[Alone|alone]] would entitle you to name
+first circle. Your musical knowledge alone would entitle you to name
 your own terms, have as many rooms as you like, and mix in the family
 as much as you chose;—that is—I do not know—if you knew the harp, you
 might do all that, I am very sure; but you sing as [[motifs/well|well]] as play;—yes, I
@@ -10716,13 +10716,13 @@ Mr. Woodhouse was almost as glad to see him now, as he would have been
 sorry to see him before. John Knightley only was in mute
 astonishment.—That a man who might have spent his evening quietly at
 [[motifs/home|home]] after a day of business in [[settings/london|London]], should set off again, and walk
-half a mile to another man’s [[house]], for the sake of being in mixed
+half a mile to another man’s house, for the sake of being in mixed
 company till bed-[[motifs/time|time]], of finishing his day in the efforts of civility
 and the noise of numbers, was a circumstance to strike him deeply. A
 man who had been in motion since eight o’[[motifs/clock|clock]] in the morning, and
 might now have been still, who had been long talking, and might have
 been silent, who had been in more than one crowd, and might have been
-[[Alone|alone]]!—Such a man, to quit the tranquillity and independence of his own
+alone!—Such a man, to quit the tranquillity and independence of his own
 fireside, and on the evening of a cold sleety April day rush out again
 into the world!—Could he by a touch of his finger have instantly taken
 back his wife, there would have been a motive; but his coming would
@@ -10924,7 +10924,7 @@ He had done his duty and could return to his son.
 
 “When Frank left us,” continued he, “it was quite uncertain when we
 might see him again, which makes this day’s news doubly welcome. It has
-been completely unexpected. That is, _I_ always had a strong [[Persuasion|persuasion]]
+been completely unexpected. That is, _I_ always had a strong persuasion
 he would be here again soon, I was sure something favourable would turn
 up—but nobody believed me. He and Mrs. Weston were both dreadfully
 desponding. ‘How could he contrive to come? And how could it be
@@ -10959,7 +10959,7 @@ intended. Now will be the [[motifs/time|time]]. This will be complete enjoyment;
 do not know, Mrs. Elton, whether the uncertainty of our meetings, the
 sort of constant expectation there will be of his coming in to-day or
 to-morrow, and at any hour, may not be more friendly to happiness than
-having him actually in the [[house]]. I think it is so. I think it is the
+having him actually in the house. I think it is so. I think it is the
 state of mind which gives most spirit and delight. I [[concepts/hope|hope]] you will be
 pleased with my son; but you must not expect a prodigy. He is generally
 thought a fine young man, but do not expect a prodigy. Mrs. Weston’s
@@ -11064,7 +11064,7 @@ only one day, and you are engaged with a dinner-party!—When did it
 happen before, or any thing like it? Your neighbourhood is increasing,
 and you mix more with it. A little while ago, every letter to [[characters/isabella|Isabella]]
 brought an account of fresh gaieties; dinners at Mr. Cole’s, or balls
-at the [[motifs/crown|Crown]]. The difference which Randalls, Randalls [[Alone|alone]] makes in
+at the [[motifs/crown|Crown]]. The difference which Randalls, Randalls alone makes in
 your goings-on, is very great.”
 
 “Yes,” said his brother quickly, “it is Randalls that does it all.”
@@ -11179,13 +11179,13 @@ endure its noise. Her nerves were under continual irritation and
 communicated a change of plan. They were going to remove immediately to
 Richmond. Mrs. Churchill had been recommended to the medical skill of
 an eminent person there, and had otherwise a fancy for the place. A
-ready-furnished [[house]] in a favourite spot was engaged, and much benefit
+ready-furnished house in a favourite spot was engaged, and much benefit
 expected from the change.
 
 [[works/emma-(austen)|Emma]] heard that Frank wrote in the highest spirits of this arrangement,
 and seemed most fully to appreciate the blessing of having two months
 before him of such near neighbourhood to many dear friends—for the
-[[house]] was taken for May and June. She was told that now he wrote with
+house was taken for May and June. She was told that now he wrote with
 the greatest confidence of being often with them, almost as often as he
 could even wish.
 
@@ -11382,7 +11382,7 @@ fault since; the rivet never came out again. My mother often talks of
 your good-[[concepts/nature|nature]]. Does not she, Jane?—Do not we often talk of Mr. Frank
 Churchill?—Ah! here’s Miss Woodhouse.—Dear Miss Woodhouse, how do you
 do?—Very [[motifs/well|well]] I thank you, quite [[motifs/well|well]]. This is meeting quite in
-[[Fairy-Land|fairy-land]]!—Such a transformation!—Must not compliment, I know (eyeing
+fairy-land!—Such a transformation!—Must not compliment, I know (eyeing
 [[works/emma-(austen)|Emma]] most complacently)—that would be rude—but upon my word, Miss
 Woodhouse, you do look—how do you like Jane’s hair?—You are a
 judge.—She did it all herself. Quite wonderful how she does her
@@ -11443,7 +11443,7 @@ suppose.”
 smile—“No, do not tell me—I do not want to know what you mean.—Where is
 my father?—When are we to begin dancing?”
 
-[[works/emma-(austen)|Emma]] could hardly understand him; he seemed in an odd [[Humour|humour]]. He walked
+[[works/emma-(austen)|Emma]] could hardly understand him; he seemed in an odd humour. He walked
 off to find his father, but was quickly back again with both Mr. and
 Mrs. Weston. He had met with them in a little perplexity, which must be
 laid before [[works/emma-(austen)|Emma]]. It had just occurred to Mrs. Weston that Mrs. Elton
@@ -11493,7 +11493,7 @@ could [[motifs/love|love]] a ballroom better, and could like [[characters/frank-
 seemed often observing her. She must not flatter herself that he
 thought of her dancing, but if he were criticising her behaviour, she
 did not feel afraid. There was nothing like flirtation between her and
-her partner. They seemed more like cheerful, easy friends, than [[lovers]].
+her partner. They seemed more like cheerful, easy friends, than lovers.
 That [[characters/frank-churchill|Frank Churchill]] thought less of her than he had done, was
 indubitable.
 
@@ -11516,7 +11516,7 @@ Escape, however, was not his plan. He came to the part of the room
 where the sitters-by were collected, spoke to some, and walked about in
 front of them, as if to shew his liberty, and his resolution of
 maintaining it. He did not omit being sometimes directly before Miss
-[[smith|Smith]], or speaking to those who were close to her.—[[works/emma-(austen)|Emma]] saw it. She was
+Smith, or speaking to those who were close to her.—[[works/emma-(austen)|Emma]] saw it. She was
 not yet dancing; she was working her way up from the [[characters/bottom|bottom]], and had
 therefore leisure to look around, and by only turning her head a little
 she saw it all. When she was half-way up the set, the whole group were
@@ -11539,8 +11539,8 @@ great pleasure at any [[motifs/time|time]] to stand up with an old friend like M
 Gilbert.”
 
 “Mrs. Gilbert does not mean to [[motifs/dance|dance]], but there is a young lady
-disengaged whom I should be very glad to see dancing—Miss [[smith|Smith]].” “Miss
-[[smith|Smith]]!—oh!—I had not observed.—You are extremely obliging—and if I were
+disengaged whom I should be very glad to see dancing—Miss Smith.” “Miss
+Smith!—oh!—I had not observed.—You are extremely obliging—and if I were
 not an old married man.—But my dancing days are over, Mrs. Weston. You
 will excuse me. Any thing else I should be most happy to do, at your
 command—but my dancing days are over.”
@@ -11580,7 +11580,7 @@ foolish. She did not think he was quite so hardened as his wife, though
 growing very like her;—_she_ spoke some of her feelings, by observing
 audibly to her partner,
 
-“Knightley has taken pity on poor little Miss [[smith|Smith]]!—Very good-natured,
+“Knightley has taken pity on poor little Miss Smith!—Very good-natured,
 I declare.”
 
 Supper was announced. The move began; and [[characters/miss-bates|Miss Bates]] might be heard
@@ -11615,10 +11615,10 @@ is but one. I never saw any thing equal to the comfort and
 style—Candles everywhere.—I was telling you of your grandmama,
 Jane,—There was a little disappointment.—The baked apples and biscuits,
 excellent in their way, you know; but there was a delicate fricassee of
-sweetbread and some [[asparagus]] brought in at first, and good Mr.
-Woodhouse, not thinking the [[asparagus]] quite boiled enough, sent it all
+sweetbread and some asparagus brought in at first, and good Mr.
+Woodhouse, not thinking the asparagus quite boiled enough, sent it all
 out again. Now there is nothing grandmama loves better than sweetbread
-and [[asparagus]]—so she was rather disappointed, but we agreed we would
+and asparagus—so she was rather disappointed, but we agreed we would
 not speak of it to any [[concepts/body|body]], for [[concepts/fear|fear]] of its getting round to dear Miss
 Woodhouse, who would be so very much concerned!—[[motifs/well|Well]], this is
 brilliant! I am all amazement! could not have supposed any thing!—Such
@@ -11626,7 +11626,7 @@ elegance and profusion!—I have seen nothing like it since—[[motifs/well|Well
 shall we sit? where shall we sit? Anywhere, so that Jane is not in a
 draught. Where _I_ sit is of no consequence. Oh! do you recommend this
 side?—[[motifs/well|Well]], I am sure, Mr. Churchill—only it seems too good—but just as
-you please. What you direct in this [[house]] cannot be wrong. Dear Jane,
+you please. What you direct in this house cannot be wrong. Dear Jane,
 how shall we ever recollect half the dishes for grandmama? Soup too!
 Bless me! I should not be helped so soon, but it smells most excellent,
 and I cannot help beginning.”
@@ -11726,7 +11726,7 @@ he could not allow himself the pleasure of stopping at Hartfield, as he
 was to be at [[motifs/home|home]] by the middle of the day. She did not regret it.
 
 Having arranged all these matters, looked them through, and put them
-all to rights, she was just turning to the [[house]] with spirits freshened
+all to rights, she was just turning to the house with spirits freshened
 up for the demands of the two little boys, as [[motifs/well|well]] as of their
 grandpapa, when the great iron sweep-gate opened, and two persons
 entered whom she had never less expected to see together—Frank
@@ -11742,7 +11742,7 @@ and surprizes be explained. Such events are very interesting, but the
 suspense of them cannot last long. A few minutes made [[works/emma-(austen)|Emma]] acquainted
 with the whole.
 
-Miss [[smith|Smith]], and Miss Bickerton, another parlour boarder at Mrs.
+Miss Smith, and Miss Bickerton, another parlour boarder at Mrs.
 Goddard’s, who had been also at the ball, had walked out together, and
 taken a [[motifs/road|road]], the Richmond [[motifs/road|road]], which, though apparently public enough
 for safety, had led them into alarm.—About half a mile beyond Highbury,
@@ -11841,7 +11841,7 @@ he sat, and, as [[works/emma-(austen)|Emma]] had foreseen, would scarcely be sat
 their promising never to go beyond the shrubbery again. It was some
 comfort to him that many inquiries after himself and Miss Woodhouse
 (for his neighbours knew that he loved to be inquired after), as [[motifs/well|well]]
-as Miss [[smith|Smith]], were coming in during the rest of the day; and he had
+as Miss Smith, were coming in during the rest of the day; and he had
 the pleasure of returning for answer, that they were all very
 indifferent—which, though not exactly true, for she was perfectly [[motifs/well|well]],
 and Harriet not much otherwise, [[works/emma-(austen)|Emma]] would not interfere with. She had
@@ -12019,7 +12019,7 @@ a minute’s [[motifs/silence|silence]] she heard Harriet say in a very serious 
 shall never marry.”
 
 [[works/emma-(austen)|Emma]] then looked up, and immediately saw how it was; and after a
-moment’s [[debate]], as to whether it should pass unnoticed or not,
+moment’s debate, as to whether it should pass unnoticed or not,
 replied,
 
 “Never marry!—This is a new resolution.”
@@ -12164,14 +12164,14 @@ had any such plan.”
 
 “Indeed you did. I remember it perfectly. You mentioned it as what was
 certainly to be very soon. Mrs. Perry had told somebody, and was
-extremely happy about it. It was owing to _her_ [[Persuasion|persuasion]], as she
+extremely happy about it. It was owing to _her_ persuasion, as she
 thought his being out in bad weather did him a great deal of harm. You
 must remember it now?”
 
 “Upon my word I never heard of it till this moment.”
 
 “Never! really, never!—Bless me! how could it be?—Then I must have
-dreamt it—but I was completely persuaded—Miss [[smith|Smith]], you walk as if you
+dreamt it—but I was completely persuaded—Miss Smith, you walk as if you
 were tired. You will not be sorry to find yourself at [[motifs/home|home]].”
 
 “What is this?—What is this?” cried Mr. Weston, “about Perry and a
@@ -12182,7 +12182,7 @@ can afford it. You had it from himself, had you?”
 nobody.—Very odd!—I really was persuaded of Mrs. Weston’s having
 mentioned it in one of her letters to Enscombe, many weeks ago, with
 all these particulars—but as she declares she never heard a syllable of
-it before, of course it must have been [[A Dream|a dream]]. I am a great dreamer. I
+it before, of course it must have been a dream. I am a great dreamer. I
 dream of every [[concepts/body|body]] at Highbury when I am away—and when I have gone
 through my particular friends, then I begin dreaming of Mr. and Mrs.
 Perry.”
@@ -12192,7 +12192,7 @@ a regular connected dream about people whom it was not very likely you
 should be thinking of at Enscombe. Perry’s setting up his carriage! and
 his wife’s persuading him to it, out of care for his health—just what
 will happen, I have no [[concepts/doubt|doubt]], some [[motifs/time|time]] or other; only a little
-premature. What an air of probability sometimes runs through [[A Dream|a dream]]!
+premature. What an air of probability sometimes runs through a dream!
 And at others, what a heap of absurdities it is! [[motifs/well|Well]], Frank, your
 dream certainly shews that Highbury is in your thoughts when you are
 absent. [[works/emma-(austen)|Emma]], you are a great dreamer, I think?”
@@ -12554,7 +12554,7 @@ and simple as possible. Is not that your idea?”
 table spread in the dining-room. The [[concepts/nature|nature]] and the simplicity of
 gentlemen and ladies, with their servants and furniture, I think is
 best observed by meals within doors. When you are tired of eating
-strawberries in the [[motifs/garden|garden]], there shall be cold meat in the [[house]].”
+strawberries in the [[motifs/garden|garden]], there shall be cold meat in the house.”
 
 “[[motifs/well|Well]]—as you please; only don’t have a great set out. And, by the bye,
 can I or my housekeeper be of any use to you with our opinion?—Pray be
@@ -12569,16 +12569,16 @@ clever.”
 “I will answer for it, that mine thinks herself full as clever, and
 would spurn any [[concepts/body|body]]’s assistance.”
 
-“I wish we had a [[donkey]]. The thing would be for us all to come on
+“I wish we had a donkey. The thing would be for us all to come on
 donkeys, Jane, [[characters/miss-bates|Miss Bates]], and me—and my caro sposo walking by. I
-really must talk to him about purchasing a [[donkey]]. In a country life I
+really must talk to him about purchasing a donkey. In a country life I
 conceive it to be a sort of necessary; for, let a woman have ever so
 many resources, it is not possible for her to be always shut up at
 [[motifs/home|home]];—and very long walks, you know—in [[motifs/summer|summer]] there is [[motifs/dust|dust]], and in
 [[motifs/winter|winter]] there is dirt.”
 
 “You will not find either, between Donwell and Highbury. Donwell Lane
-is never dusty, and now it is perfectly dry. Come on a [[donkey]], however,
+is never dusty, and now it is perfectly dry. Come on a donkey, however,
 if you prefer it. You can borrow Mrs. Cole’s. I would wish every thing
 to be as much to your taste as possible.”
 
@@ -12601,7 +12601,7 @@ for his easy credulity. He did consent. He had not been at Donwell for
 two years. “Some very fine morning, he, and [[works/emma-(austen)|Emma]], and Harriet, could go
 very [[motifs/well|well]]; and he could sit still with Mrs. Weston, while the dear
 girls walked about the gardens. He did not suppose they could be damp
-now, in the middle of the day. He should like to see the old [[house]]
+now, in the middle of the day. He should like to see the old house
 again exceedingly, and should be very happy to meet Mr. and Mrs. Elton,
 and any other of his neighbours.—He could not see any objection at all
 to his, and [[works/emma-(austen)|Emma]]’s, and Harriet’s going there some very fine morning.
@@ -12638,7 +12638,7 @@ sympathiser.
 It was so long since [[works/emma-(austen)|Emma]] had been at the Abbey, that as soon as she
 was satisfied of her father’s comfort, she was glad to leave him, and
 look around her; eager to refresh and correct her [[motifs/memory|memory]] with more
-particular observation, more exact understanding of a [[house]] and grounds
+particular observation, more exact understanding of a house and grounds
 which must ever be so interesting to her and all her family.
 
 She felt all the honest [[concepts/pride|pride]] and complacency which her alliance with
@@ -12648,7 +12648,7 @@ characteristic situation, low and sheltered—its ample gardens
 stretching down to meadows washed by a stream, of which the Abbey, with
 all the old neglect of prospect, had scarcely a sight—and its abundance
 of timber in rows and avenues, which neither fashion nor extravagance
-had rooted up.—The [[house]] was larger than Hartfield, and totally unlike
+had rooted up.—The house was larger than Hartfield, and totally unlike
 it, covering a good deal of ground, rambling and irregular, with many
 comfortable, and one or two handsome rooms.—It was just what it ought
 to be, and it looked what it was—and [[works/emma-(austen)|Emma]] felt an increasing respect
@@ -12716,7 +12716,7 @@ limes, which stretching beyond the [[motifs/garden|garden]] at an equal distance
 [[motifs/river|river]], seemed the finish of the pleasure grounds.—It led to nothing;
 nothing but a view at the end over a low stone wall with high pillars,
 which seemed intended, in their erection, to give the appearance of an
-approach to the [[house]], which never had been there. Disputable, however,
+approach to the house, which never had been there. Disputable, however,
 as might be the taste of such a termination, it was in itself a
 charming walk, and the view which closed it extremely pretty.—The
 considerable slope, at nearly the foot of which the Abbey stood,
@@ -12750,7 +12750,7 @@ It was too old a story.—[[characters/robert-martin|Robert Martin]] had probabl
 Harriet.—They took a few turns together along the walk.—The shade was
 most refreshing, and [[works/emma-(austen)|Emma]] found it the pleasantest part of the day.
 
-The next remove was to the [[house]]; they must all go in and eat;—and they
+The next remove was to the house; they must all go in and eat;—and they
 were all seated and busy, and still [[characters/frank-churchill|Frank Churchill]] did not come. Mrs.
 Weston looked, and looked in vain. His father would not own himself
 uneasy, and laughed at her fears; but she could not be cured of wishing
@@ -12785,7 +12785,7 @@ to a [[archetypes/child|child]], than in a total want of taste for what he saw, 
 slow, constant, and methodical.—Before this second looking over was
 begun, however, [[works/emma-(austen)|Emma]] walked into the hall for the sake of a few
 moments’ free observation of the entrance and ground-plot of the
-[[house]]—and was hardly there, when [[characters/jane-fairfax|Jane Fairfax]] appeared, coming quickly
+house—and was hardly there, when [[characters/jane-fairfax|Jane Fairfax]] appeared, coming quickly
 in from the [[motifs/garden|garden]], and with a look of escape.—Little expecting to meet
 Miss Woodhouse so soon, there was a start at first; but Miss Woodhouse
 was the very person she was in [[topoi/quest|quest]] of.
@@ -12806,17 +12806,17 @@ be missed; and when they do, will you have the goodness to say that I
 am gone?”
 
 “Certainly, if you wish it;—but you are not going to walk to Highbury
-[[Alone|alone]]?”
+alone?”
 
 “Yes—what should hurt me?—I walk fast. I shall be at [[motifs/home|home]] in twenty
 minutes.”
 
-“But it is too far, indeed it is, to be walking quite [[Alone|alone]]. Let my
+“But it is too far, indeed it is, to be walking quite alone. Let my
 father’s servant go with you.—Let me order the carriage. It can be
 round in five minutes.”
 
 “Thank you, thank you—but on no account.—I would rather walk.—And for
-_me_ to be afraid of walking [[Alone|alone]]!—I, who may so soon have to guard
+_me_ to be afraid of walking alone!—I, who may so soon have to guard
 others!”
 
 She spoke with great agitation; and [[works/emma-(austen)|Emma]] very feelingly replied, “That
@@ -12830,10 +12830,10 @@ exhausted. The greatest kindness you can shew me, will be to let me
 have my own way, and only say that I am gone when it is necessary.”
 
 [[works/emma-(austen)|Emma]] had not another word to oppose. She saw it all; and entering into
-her feelings, promoted her quitting the [[house]] immediately, and watched
+her feelings, promoted her quitting the house immediately, and watched
 her safely off with the zeal of a friend. Her parting look was
 grateful—and her parting words, “Oh! Miss Woodhouse, the comfort of
-being sometimes [[Alone|alone]]!”—seemed to burst from an overcharged heart, and
+being sometimes alone!”—seemed to burst from an overcharged heart, and
 to describe somewhat of the continual [[concepts/endurance|endurance]] to be practised by her,
 even towards some of those who loved her best.
 
@@ -12866,7 +12866,7 @@ came—[[concepts/madness|Madness]] in such weather!—absolute [[concepts/madne
 
 [[works/emma-(austen)|Emma]] listened, and looked, and soon perceived that [[characters/frank-churchill|Frank Churchill]]’s
 state might be best defined by the expressive phrase of being out of
-[[Humour|humour]]. Some people were always [[motifs/cross|cross]] when they were hot. Such might be
+humour. Some people were always [[motifs/cross|cross]] when they were hot. Such might be
 his constitution; and as she knew that eating and drinking were often
 the cure of such incidental complaints, she recommended his taking some
 refreshment; he would find abundance of every thing in the
@@ -12900,7 +12900,7 @@ England.”
 
 “They may be induced to go too. A warm climate may be prescribed for
 her. I have more than half an expectation of our all going abroad. I
-assure you I have. I feel a strong [[Persuasion|persuasion]], this morning, that I
+assure you I have. I feel a strong persuasion, this morning, that I
 shall soon be abroad. I ought to travel. I am tired of doing nothing. I
 want a change. I am serious, Miss Woodhouse, whatever your penetrating
 eyes may fancy—I am sick of England—and would leave it to-morrow, if I
@@ -13041,7 +13041,7 @@ motive. You order me, whether you speak or not. And you can be always
 with me. You are always with me.”
 
 “Dating from three o’[[motifs/clock|clock]] yesterday. My perpetual influence could not
-begin earlier, or you would not have been so much out of [[Humour|humour]]
+begin earlier, or you would not have been so much out of humour
 before.”
 
 “Three o’[[motifs/clock|clock]] yesterday! That is your date. I thought I had seen you
@@ -13249,7 +13249,7 @@ They walked off, followed in half a minute by Mr. Knightley. Mr.
 Weston, his son, [[works/emma-(austen)|Emma]], and Harriet, only remained; and the young man’s
 spirits now [[motifs/rose|rose]] to a pitch almost unpleasant. Even [[works/emma-(austen)|Emma]] grew tired at
 last of flattery and merriment, and wished herself rather walking
-quietly about with any of the others, or sitting almost [[Alone|alone]], and
+quietly about with any of the others, or sitting almost alone, and
 quite unattended to, in tranquil observation of the beautiful views
 beneath her. The appearance of the servants looking out for them to
 give notice of the carriages was a joyful sight; and even the bustle of
@@ -13761,7 +13761,7 @@ endanger its maintenance. They spoke, therefore, of Mrs. Churchill’s
 Short letters from Frank were received at Randalls, communicating all
 that was immediately important of their state and plans. Mr. Churchill
 was better than could be expected; and their first removal, on the
-departure of the funeral for Yorkshire, was to be to the [[house]] of a
+departure of the funeral for Yorkshire, was to be to the house of a
 very old friend in Windsor, to whom Mr. Churchill had been promising a
 visit the last ten years. At present, there was nothing to be done for
 Harriet; good wishes for the future were all that could yet be possible
@@ -13818,7 +13818,7 @@ in the [[concepts/hope|hope]] that Jane would be induced to join her—but it wo
 do;—[[characters/miss-bates|Miss Bates]] came to the carriage door, all gratitude, and agreeing
 with her most earnestly in thinking an airing might be of the greatest
 service—and every thing that message could do was tried—but all in
-vain. [[characters/miss-bates|Miss Bates]] was obliged to return without [[success]]; Jane was quite
+vain. [[characters/miss-bates|Miss Bates]] was obliged to return without success; Jane was quite
 unpersuadable; the mere proposal of going out seemed to make her
 worse.—[[works/emma-(austen)|Emma]] wished she could have seen her, and tried her own powers;
 but, almost before she could hint the wish, [[characters/miss-bates|Miss Bates]] made it appear
@@ -13897,7 +13897,7 @@ To guess what all this meant, was impossible even for [[works/emma-(austen)|Emma
 really important seemed announced by his looks; but, as her friend was
 [[motifs/well|well]], she endeavoured not to be uneasy, and settling it with her
 father, that she would take her walk now, she and Mr. Weston were soon
-out of the [[house]] together and on their way at a quick pace for
+out of the house together and on their way at a quick pace for
 Randalls.
 
 “Now,”—said [[works/emma-(austen)|Emma]], when they were fairly beyond the sweep gates,—“now
@@ -13971,7 +13971,7 @@ heard him add, in a lower tone, before he quitted the room,—“I have
 been as good as my word. She has not the least idea.”
 
 Mrs. Weston was looking so ill, and had an air of so much perturbation,
-that [[works/emma-(austen)|Emma]]’s uneasiness increased; and the moment they were [[Alone|alone]], she
+that [[works/emma-(austen)|Emma]]’s uneasiness increased; and the moment they were alone, she
 eagerly said,
 
 “What is it my dear friend? Something of a very unpleasant [[concepts/nature|nature]], I
@@ -14142,7 +14142,7 @@ been a [[concepts/hope|hope]], a chance, a possibility;—but scarcely are her r
 rest in the family vault, than her husband is persuaded to act exactly
 opposite to what she would have required. What a blessing it is, when
 undue influence does not survive the [[motifs/grave|grave]]!—He gave his consent with
-very little [[Persuasion|persuasion]].”
+very little persuasion.”
 
 “Ah!” thought [[works/emma-(austen)|Emma]], “he would have done as much for Harriet.”
 
@@ -14226,7 +14226,7 @@ right as this speech proclaimed; and its happy effect on his spirits
 was immediate. His air and voice recovered their usual briskness: he
 shook her heartily and gratefully by the hand, and entered on the
 subject in a manner to prove, that he now only wanted [[motifs/time|time]] and
-[[Persuasion|persuasion]] to think the engagement no very bad thing. His companions
+persuasion to think the engagement no very bad thing. His companions
 suggested only what could palliate imprudence, or smooth objections;
 and by the [[motifs/time|time]] they had talked it all over together, and he had talked
 it all over again with [[works/emma-(austen)|Emma]], in their walk back to Hartfield, he was
@@ -15186,7 +15186,7 @@ She might assist his resolution, or reconcile him to it; she might give
 just praise to Harriet, or, by representing to him his own
 independence, relieve him from that state of indecision, which must be
 more intolerable than any alternative to such a mind as his.—They had
-reached the [[house]].
+reached the house.
 
 “You are going in, I suppose?” said he.
 
@@ -15307,7 +15307,7 @@ that had taken him from the country.—The Box [[motifs/hill|Hill]] party had de
 on going away. He would save himself from witnessing again such
 permitted, encouraged attentions.—He had gone to learn to be
 indifferent.—But he had gone to a wrong place. There was too much
-domestic happiness in his brother’s [[house]]; woman wore too amiable a
+domestic happiness in his brother’s house; woman wore too amiable a
 form in it; [[characters/isabella|Isabella]] was too much like [[works/emma-(austen)|Emma]]—differing only in those
 striking inferiorities, which always brought the other in brilliancy
 before him, for much to have been done, even had his [[motifs/time|time]] been
@@ -15324,7 +15324,7 @@ discovery.
 He had found her agitated and low.—[[characters/frank-churchill|Frank Churchill]] was a [[archetypes/villain|villain]].— He
 heard her declare that she had never loved him. [[characters/frank-churchill|Frank Churchill]]’s
 character was not desperate.—She was his own [[works/emma-(austen)|Emma]], by hand and word,
-when they returned into the [[house]]; and if he could have thought of
+when they returned into the house; and if he could have thought of
 [[characters/frank-churchill|Frank Churchill]] then, he might have deemed him a very good sort of
 fellow.
 
@@ -15337,7 +15337,7 @@ fellow.
 CHAPTER XIV
 
 
-What totally different feelings did [[works/emma-(austen)|Emma]] take back into the [[house]] from
+What totally different feelings did [[works/emma-(austen)|Emma]] take back into the house from
 what she had brought out!—she had then been only daring to [[concepts/hope|hope]] for a
 little respite of [[concepts/suffering|suffering]];—she was now in an exquisite flutter of
 happiness, and such happiness moreover as she believed must still be
@@ -15348,7 +15348,7 @@ had been collected!—and how often had her eyes fallen on the same
 shrubs in the lawn, and observed the same beautiful effect of the
 western sun!—But never in such a state of spirits, never in any thing
 like it; and it was with difficulty that she could summon enough of her
-usual [[concepts/self|self]] to be the attentive lady of the [[house]], or even the attentive
+usual [[concepts/self|self]] to be the attentive lady of the house, or even the attentive
 daughter.
 
 Poor Mr. Woodhouse little suspected what was plotting against him in
@@ -15367,7 +15367,7 @@ but when he was gone, she began to be a little tranquillised and
 subdued—and in the course of the sleepless [[motifs/night|night]], which was the tax for
 such an evening, she found one or two such very serious points to
 consider, as made her feel, that even her happiness must have some
-alloy. Her father—and Harriet. She could not be [[Alone|alone]] without feeling
+alloy. Her father—and Harriet. She could not be alone without feeling
 the full weight of their separate claims; and how to guard the comfort
 of both to the utmost, was the question. With respect to her father, it
 was a question soon answered. She hardly knew yet what Mr. Knightley
@@ -15443,7 +15443,7 @@ indulgence.—You are all goodness, and I believe there will be need of
 even all your goodness to allow for some parts of my past conduct.—But
 I have been forgiven by one who had still more to resent. My [[concepts/courage|courage]]
 rises while I write. It is very difficult for the prosperous to be
-humble. I have already met with such [[success]] in two applications for
+humble. I have already met with such success in two applications for
 pardon, that I may be in danger of thinking myself too sure of yours,
 and of those among your friends who have had any ground of offence.—You
 must all endeavour to comprehend the exact [[concepts/nature|nature]] of my situation when
@@ -15451,7 +15451,7 @@ I first arrived at Randalls; you must consider me as having a secret
 which was to be kept at all hazards. This was the fact. My right to
 place myself in a situation requiring such concealment, is another
 question. I shall not discuss it here. For my [[concepts/temptation|temptation]] to _think_ it
-a right, I refer every caviller to a brick [[house]], sashed windows below,
+a right, I refer every caviller to a brick house, sashed windows below,
 and casements above, in Highbury. I dared not address her openly; my
 difficulties in the then state of Enscombe must be too [[motifs/well|well]] known to
 require definition; and I was fortunate enough to prevail, before we
@@ -15472,7 +15472,7 @@ have been sooner paid. You will look back and see that I did not come
 till Miss Fairfax was in Highbury; and as _you_ were the person
 slighted, you will forgive me instantly; but I must work on my father’s
 compassion, by reminding him, that so long as I absented myself from
-his [[house]], so long I lost the blessing of knowing you. My behaviour,
+his house, so long I lost the blessing of knowing you. My behaviour,
 during the very happy fortnight which I spent with you, did not, I
 [[concepts/hope|hope]], lay me open to reprehension, excepting on one point. And now I
 come to the principal, the only important part of my conduct while
@@ -15637,7 +15637,7 @@ opening the cause to him, for my suspense while all was at stake?—No;
 do not pity me till I reached Highbury, and saw how ill I had made her.
 Do not pity me till I saw her wan, sick looks.—I reached Highbury at
 the [[motifs/time|time]] of day when, from my knowledge of their late breakfast hour, I
-was certain of a good chance of finding her [[Alone|alone]].—I was not
+was certain of a good chance of finding her alone.—I was not
 disappointed; and at last I was not disappointed either in the object
 of my [[motifs/journey|journey]]. A great deal of very reasonable, very just displeasure I
 had to persuade away. But it is done; we are reconciled, dearer, much
@@ -15847,7 +15847,7 @@ thinking it over most deeply, most intently; he had at first hoped to
 induce Mr. Woodhouse to remove with her to Donwell; he had wanted to
 believe it feasible, but his knowledge of Mr. Woodhouse would not
 suffer him to deceive himself long; and now he confessed his
-[[Persuasion|persuasion]], that such a transplantation would be a risk of her father’s
+persuasion, that such a transplantation would be a risk of her father’s
 comfort, perhaps even of his life, which must not be hazarded. Mr.
 Woodhouse taken from Hartfield!—No, he felt that it ought not to be
 attempted. But the plan which had arisen on the sacrifice of this, he
@@ -15861,7 +15861,7 @@ thoughts. Like him, she had tried the scheme and rejected it; but such
 an alternative as this had not occurred to her. She was sensible of all
 the affection it evinced. She felt that, in quitting Donwell, he must
 be sacrificing a great deal of independence of hours and habits; that
-in living constantly with her father, and in no [[house]] of his own, there
+in living constantly with her father, and in no house of his own, there
 would be much, very much, to be borne with. She promised to think of
 it, and advised him to think of it more; but he was fully convinced,
 that no reflection could alter his wishes or his opinion on the
@@ -15979,7 +15979,7 @@ prospect would certainly add to the interest with which she should
 attend to any thing Jane might communicate.
 
 She went—she had driven once unsuccessfully to the door, but had not
-been into the [[house]] since the morning after Box [[motifs/hill|Hill]], when poor Jane
+been into the house since the morning after Box [[motifs/hill|Hill]], when poor Jane
 had been in such distress as had filled her with compassion, though all
 the worst of her sufferings had been unsuspected.—The [[concepts/fear|fear]] of being
 still unwelcome, determined her, though assured of their being at [[motifs/home|home]],
@@ -16005,7 +16005,7 @@ congratulatory sensations into a very, very earnest shake of the hand.
 
 Mrs. Bates and Mrs. Elton were together. [[characters/miss-bates|Miss Bates]] was out, which
 accounted for the previous tranquillity. [[works/emma-(austen)|Emma]] could have wished Mrs.
-Elton elsewhere; but she was in a [[Humour|humour]] to have patience with every
+Elton elsewhere; but she was in a humour to have patience with every
 [[concepts/body|body]]; and as Mrs. Elton met her with unusual graciousness, she hoped
 the rencontre would do them no harm.
 
@@ -16207,9 +16207,9 @@ a creature as his Harry stand at our sideboard for any consideration.
 And as for Mrs. Hodges, Wright holds her very cheap indeed.—She
 promised Wright a receipt, and never sent it.”
 
-“I met William Larkins,” continued Mr. Elton, “as I got near the [[house]],
+“I met William Larkins,” continued Mr. Elton, “as I got near the house,
 and he told me I should not find his master at [[motifs/home|home]], but I did not
-believe him.—William seemed rather out of [[Humour|humour]]. He did not know what
+believe him.—William seemed rather out of humour. He did not know what
 was come to his master lately, he said, but he could hardly ever get
 the speech of him. I have nothing to do with William’s wants, but it
 really is of very great importance that _I_ should see Knightley
@@ -16633,7 +16633,7 @@ or amuses you, should not please and amuse me too.”
 “There is one subject,” he replied, “I [[concepts/hope|hope]] but one, on which we do not
 think alike.” He paused a moment, again smiling, with his eyes fixed on
 her face. “Does nothing occur to you?—Do not you recollect?—Harriet
-[[smith|Smith]].”
+Smith.”
 
 Her cheeks flushed at the name, and she felt afraid of something,
 though she knew not what.
@@ -16644,7 +16644,7 @@ believe, and know the whole.”
 “No, I have not; I know nothing; pray tell me.”
 
 “You are prepared for the worst, I see—and very bad it is. Harriet
-[[smith|Smith]] marries [[characters/robert-martin|Robert Martin]].”
+Smith marries [[characters/robert-martin|Robert Martin]].”
 
 [[works/emma-(austen)|Emma]] gave a start, which did not seem like being prepared—and her eyes,
 in eager gaze, said, “No, this is impossible!” but her lips were
@@ -16682,7 +16682,7 @@ and I got him to take charge of some papers which I was wanting to send
 to John.—He delivered these papers to John, at his chambers, and was
 asked by him to join their party the same evening to Astley’s. They
 were going to take the two eldest boys to Astley’s. The party was to be
-our brother and sister, Henry, John—and Miss [[smith|Smith]]. My friend Robert
+our brother and sister, Henry, John—and Miss Smith. My friend Robert
 could not resist. They called for him in their way; were all extremely
 amused; and my brother asked him to dine with them the next day—which
 he did—and in the course of that visit (as I understand) he found an
@@ -16698,8 +16698,8 @@ we deal only in the great.—However, I must say, that [[characters/robert-marti
 heart seemed for _him_, and to _me_, very overflowing; and that he did
 mention, without its being much to the purpose, that on quitting their
 box at Astley’s, my brother took charge of Mrs. John Knightley and
-little John, and he followed with Miss [[smith|Smith]] and Henry; and that at one
-[[motifs/time|time]] they were in such a crowd, as to make Miss [[smith|Smith]] rather uneasy.”
+little John, and he followed with Miss Smith and Henry; and that at one
+[[motifs/time|time]] they were in such a crowd, as to make Miss Smith rather uneasy.”
 
 He stopped.—[[works/emma-(austen)|Emma]] dared not attempt any immediate reply. To speak, she
 was sure would be to betray a most unreasonable degree of happiness.
@@ -16797,7 +16797,7 @@ She checked herself, however, and submitted quietly to a little more
 praise than she deserved.
 
 Their conversation was soon afterwards closed by the entrance of her
-father. She was not sorry. She wanted to be [[Alone|alone]]. Her mind was in a
+father. She was not sorry. She wanted to be alone. Her mind was in a
 state of flutter and [[concepts/wonder|wonder]], which made it impossible for her to be
 collected. She was in dancing, singing, exclaiming spirits; and till
 she had moved about, and talked to herself, and laughed and reflected,
@@ -16832,11 +16832,11 @@ to welcome as a duty.
 
 In the gayest and happiest spirits she set forward with her father; not
 always listening, but always agreeing to what he said; and, whether in
-speech or [[motifs/silence|silence]], conniving at the comfortable [[Persuasion|persuasion]] of his being
+speech or [[motifs/silence|silence]], conniving at the comfortable persuasion of his being
 obliged to go to Randalls every day, or poor Mrs. Weston would be
 disappointed.
 
-They arrived.—Mrs. Weston was [[Alone|alone]] in the drawing-room:—but hardly had
+They arrived.—Mrs. Weston was alone in the drawing-room:—but hardly had
 they been told of the baby, and Mr. Woodhouse received the thanks for
 coming, which he asked for, when a glimpse was caught through the
 blind, of two figures passing near the [[motifs/window|window]].
@@ -17037,7 +17037,7 @@ attachment to Mr. Knightley, and really able to accept another man from
 unbiased inclination, it was not long that she had to suffer from the
 recurrence of any such uncertainty. A very few days brought the party
 from [[settings/london|London]], and she had no sooner an opportunity of being one hour
-[[Alone|alone]] with Harriet, than she became perfectly satisfied—unaccountable
+alone with Harriet, than she became perfectly satisfied—unaccountable
 as it was!—that [[characters/robert-martin|Robert Martin]] had thoroughly supplanted Mr. Knightley,
 and was now forming all her views of happiness.
 
@@ -17123,7 +17123,7 @@ proceed.
 In this state of suspense they were befriended, not by any sudden
 illumination of Mr. Woodhouse’s mind, or any wonderful change of his
 nervous system, but by the operation of the same system in another
-way.—Mrs. Weston’s poultry-[[house]] was robbed one [[motifs/night|night]] of all her
+way.—Mrs. Weston’s poultry-house was robbed one [[motifs/night|night]] of all her
 turkeys—evidently by the ingenuity of man. Other poultry-yards in the
 neighbourhood also suffered.—Pilfering was _housebreaking_ to Mr.
 Woodhouse’s fears.—He was very uneasy; and but for the sense of his

@@ -29,7 +29,7 @@ tags:
 **Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/faith|Faith]], [[concepts/innocence-and-experience|Innocence and Experience]]
 **Forms & Genres:** [[forms/hymn|Hymn]]
 **Historical References:** [[historical-references/catholic-church|Catholic Church]]
-**Characters:** Virgin Mary, Christ
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

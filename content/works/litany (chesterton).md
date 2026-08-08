@@ -45,7 +45,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
@@ -53,7 +53,7 @@ tags:
 **Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/faith|Faith]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/providence|Providence]], [[concepts/eternity|Eternity]], [[concepts/paradox|Paradox]], [[concepts/incarnation|Incarnation]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/hymn|Hymn]], [[forms/litany|Litany]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/litany-of-loreto|Litany of Loreto]]
-**Characters:** Virgin Mary, Christ
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

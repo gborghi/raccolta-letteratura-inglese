@@ -49,11 +49,11 @@ tags:
 **Historical References:** [[historical-references/bible|Bible]]
 
 **Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/contemptus-mundi|Contemptus Mundi]]
-**Archetypes:** Satanic Figure, Trickster
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/trickster|Trickster]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/money-and-gold|Money and Gold]], [[motifs/great-house|Great House]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/birds|Birds]]
 **Themes & Concepts:** [[concepts/temptation|Temptation]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/pride|Pride]], [[concepts/disillusionment|Disillusionment]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/vanity-of-worldly-things|Vanity of Worldly Things]], [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/sin-and-the-fall|Sin and the Fall]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/lyric|Lyric]], [[forms/satire|Satire]]
-**Characters:** Satan
+**Characters:** [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

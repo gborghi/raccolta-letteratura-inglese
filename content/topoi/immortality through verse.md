@@ -27,22 +27,22 @@ tags:
 - [[works/on-donne’s-poem-‘to-a-flea-(coleridge)|ON DONNE’S POEM ‘TO A FLEA (Coleridge)]]
 - [[works/snow-drop.-(coleridge)|SNOW DROP. (Coleridge)]]
 - [[works/the-snow-drop-(coleridge)|THE SNOW-DROP (Coleridge)]]
-- 1009. I was a Phoebe — nothing more — (Dickinson)
-- 1183. Step lightly on this narrow spot — (Dickinson)
-- 1261. A Word dropped careless on a Page (Dickinson)
-- 1475. Fame is the one that does not stay — (Dickinson)
-- 1587. He ate and drank the precious Words — (Dickinson)
-- 1600. Upon his Saddle sprung a Bird (Dickinson)
-- 1651. A Word made Flesh is seldom (Dickinson)
-- 307. The One who could repeat the Summer day — (Dickinson)
-- 326. I cannot dance upon my Toes — (Dickinson)
-- 371. A precious — mouldering pleasure — 'tis — (Dickinson)
-- 397. When Diamonds are a Legend, (Dickinson)
-- 448. This was a Poet — It is That (Dickinson)
-- 488. Myself was formed — a Carpenter — (Dickinson)
-- 544. The Martyr Poets — did not tell — (Dickinson)
-- 657. I dwell in Possibility — (Dickinson)
-- 675. Essential Oils — are wrung — (Dickinson)
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1009_i_was_a_phoebe_nothing_more|1009. I was a Phoebe — nothing more — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1183_step_lightly_on_this_narrow_spot|1183. Step lightly on this narrow spot — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1261_a_word_dropped_careless_on_a_page|1261. A Word dropped careless on a Page (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1475_fame_is_the_one_that_does_not_stay|1475. Fame is the one that does not stay — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1587_he_ate_and_drank_the_precious_words|1587. He ate and drank the precious Words — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1600_upon_his_saddle_sprung_a_bird|1600. Upon his Saddle sprung a Bird (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#1651_a_word_made_flesh_is_seldom|1651. A Word made Flesh is seldom (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0307_the_one_who_could_repeat_the_summer_day|307. The One who could repeat the Summer day — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0326_i_cannot_dance_upon_my_toes|326. I cannot dance upon my Toes — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0371_a_precious_mouldering_pleasure_tis|371. A precious — mouldering pleasure — 'tis — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0397_when_diamonds_are_a_legend|397. When Diamonds are a Legend, (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0448_this_was_a_poet_it_is_that|448. This was a Poet — It is That (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0488_myself_was_formed_a_carpenter|488. Myself was formed — a Carpenter — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0544_the_martyr_poets_did_not_tell|544. The Martyr Poets — did not tell — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0657_i_dwell_in_possibility|657. I dwell in Possibility — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0675_essential_oils_are_wrung|675. Essential Oils — are wrung — (Dickinson)]]
 - [[works/a-note-on-war-poetry-(eliot)|A Note on War Poetry (Eliot)]]
 - [[works/fragment-of-an-ode-to-maia,-(keats)|Fragment of an Ode to Maia, (Keats)]]
 - [[works/how-many-bards-gild-the-lapses-of-time!-(keats)|HOW MANY BARDS GILD THE LAPSES OF TIME! (Keats)]]
@@ -64,22 +64,22 @@ tags:
 - [[works/hymn-to-aristogeiton-and-harmodius-(poe)|Hymn to Aristogeiton and Harmodius (Poe)]]
 - [[works/romance-(poe)|Romance (Poe)]]
 - [[works/the-forest-reverie-(poe)|The Forest Reverie (Poe)]]
-- Sonnet 100 (Shakespeare)
-- Sonnet 101 (Shakespeare)
-- Sonnet 107 (Shakespeare)
-- Sonnet 122 (Shakespeare)
-- Sonnet 15 (Shakespeare)
-- Sonnet 17 (Shakespeare)
-- Sonnet 18 (Shakespeare)
-- Sonnet 19 (Shakespeare)
-- Sonnet 38 (Shakespeare)
-- Sonnet 54 (Shakespeare)
-- Sonnet 55 (Shakespeare)
-- Sonnet 60 (Shakespeare)
-- Sonnet 63 (Shakespeare)
-- Sonnet 65 (Shakespeare)
-- Sonnet 74 (Shakespeare)
-- Sonnet 81 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_100|Sonnet 100 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_101|Sonnet 101 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_107|Sonnet 107 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_122|Sonnet 122 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_015|Sonnet 15 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_017|Sonnet 17 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_018|Sonnet 18 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_019|Sonnet 19 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_038|Sonnet 38 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_054|Sonnet 54 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_055|Sonnet 55 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_060|Sonnet 60 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_063|Sonnet 63 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_065|Sonnet 65 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_074|Sonnet 74 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_081|Sonnet 81 (Shakespeare)]]
 - [[works/various-poems-(shakespeare)|VARIOUS POEMS (Shakespeare)]]
 - [[works/as-consequent,-etc.-(whitman)|As Consequent, Etc. (Whitman)]]
 - [[works/as-the-greek’s-signal-flame-(whitman)|As the Greek’s Signal Flame (Whitman)]]

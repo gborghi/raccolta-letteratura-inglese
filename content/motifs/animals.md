@@ -48,77 +48,77 @@ tags:
 - [[works/written-after-a-walk-before-supper-(coleridge)|WRITTEN AFTER A WALK BEFORE SUPPER (Coleridge)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
 - [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
-- 100. A science — so the Savants say, (Dickinson)
-- 1035. Bee! I'm expecting you! (Dickinson)
-- 1058. Bloom — is Result — to meet a Flower (Dickinson)
-- 1065. Let down the Bars, Oh Death — (Dickinson)
-- 1068. Further in Summer than the Birds (Dickinson)
-- 111. The Bee is not afraid of me. (Dickinson)
-- 1167. Alone and in a Circumstance (Dickinson)
-- 1182. Remembrance has a Rear and Front — (Dickinson)
-- 1185. A little Dog that wags his tail (Dickinson)
-- 1224. Like Trains of Cars on Tracks of Plush (Dickinson)
-- 1228. So much of Heaven has gone from Earth (Dickinson)
-- 1271. September's Baccalaureate (Dickinson)
-- 1274. The Bone that has no Marrow, (Dickinson)
-- 1275. The Spider as an Artist (Dickinson)
-- 1276. 'Twas later when the summer went (Dickinson)
-- 128. Bring me the sunset in a cup, (Dickinson)
-- 129. Cocoon above! Cocoon below! (Dickinson)
-- 131. Besides the Autumn poets sing (Dickinson)
-- 134. Perhaps you'd like to buy a flower, (Dickinson)
-- 137. Flowers — Well — if anybody (Dickinson)
-- 138. Pigmy seraphs — gone astray — (Dickinson)
-- 1388. Those cattle smaller than a Bee (Dickinson)
-- 1405. Bees are Black, with Gilt Surcingles — (Dickinson)
-- 145. This heart that broke so long — (Dickinson)
-- 1521. The Butterfly upon the Sky, (Dickinson)
-- 1524. A faded Boy — in sallow Clothes (Dickinson)
-- 1526. His oriental heresies (Dickinson)
-- 1535. The Life that tied too tight escapes (Dickinson)
-- 1575. The Bat is dun, with wrinkled Wings — (Dickinson)
-- 165. A wounded Deer — leaps highest — (Dickinson)
-- 173. A fuzzy fellow, without feet, (Dickinson)
-- 1746. The most important population (Dickinson)
-- 1775. The earth has many keys, (Dickinson)
-- 186. What shall I do — it whimpers so — (Dickinson)
-- 206. The Flower must not blame the Bee — (Dickinson)
-- 213. Did the Harebell loose her girdle (Dickinson)
-- 228. Blazing in Gold and quenching in Purple (Dickinson)
-- 229. A Burdock — clawed my Gown — (Dickinson)
-- 230. We — Bee and I — live by the quaffing — (Dickinson)
-- 288. I'm Nobody! Who are you (Dickinson)
-- 319. The nearest Dream recedes — unrealized — (Dickinson)
-- 328. A Bird came down the Walk — (Dickinson)
-- 354. From Cocoon forth a Butterfly (Dickinson)
-- 492. Civilization — spurns — the Leopard! (Dickinson)
-- 496. As far from pity, as complaint — (Dickinson)
-- 507. She sights a Bird — she chuckles — (Dickinson)
-- 517. He parts Himself — like Leaves — (Dickinson)
-- 533. Two butterflies went out at Noon — (Dickinson)
-- 541. Some such Butterfly be seen (Dickinson)
-- 557. She hideth Her the last — (Dickinson)
-- 565. One Anguish — in a Crowd — (Dickinson)
-- 566. A Dying Tiger — moaned for Drink — (Dickinson)
-- 661. Could I but ride indefinite (Dickinson)
-- 668. Nature is what we see — (Dickinson)
-- 682. 'Twould ease — a Butterfly — (Dickinson)
-- 699. The Judge is like the Owl — (Dickinson)
-- 738. You said that I was Great — one Day — (Dickinson)
-- 754. My Life had stood — a Loaded Gun — (Dickinson)
-- 762. The Whole of it came not at once — (Dickinson)
-- 790. Nature — the Gentlest Mother is, (Dickinson)
-- 793. Grief is a Mouse — (Dickinson)
-- 796. Who Giants know, with lesser Men (Dickinson)
-- 805. This Bauble was preferred of Bees — (Dickinson)
-- 822. This Consciousness that is aware (Dickinson)
-- 842. Good to hide, and hear 'em hunt! (Dickinson)
-- 862. Light is sufficient to itself — (Dickinson)
-- 872. As the Starved Maelstrom laps the Navies (Dickinson)
-- 885. Our little Kinsmen — after Rain (Dickinson)
-- 9. Through lane it lay — through bramble — (Dickinson)
-- 979. This Merit hath the worst — (Dickinson)
-- 986. A narrow fellow in the grass (Dickinson)
+- [[testi/dickinson/atomized/flowers-spring-garden#0100_a_science_so_the_savants_say|100. A science — so the Savants say, (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#1035_bee_im_expecting_you|1035. Bee! I'm expecting you! (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#1058_bloom_is_result_to_meet_a_flower|1058. Bloom — is Result — to meet a Flower (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1065_let_down_the_bars_oh_death|1065. Let down the Bars, Oh Death — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1068_further_in_summer_than_the_birds|1068. Further in Summer than the Birds (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0111_the_bee_is_not_afraid_of_me|111. The Bee is not afraid of me. (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1167_alone_and_in_a_circumstance|1167. Alone and in a Circumstance (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1182_remembrance_has_a_rear_and_front|1182. Remembrance has a Rear and Front — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#1185_a_little_dog_that_wags_his_tail|1185. A little Dog that wags his tail (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1224_like_trains_of_cars_on_tracks_of_plush|1224. Like Trains of Cars on Tracks of Plush (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1228_so_much_of_heaven_has_gone_from_earth|1228. So much of Heaven has gone from Earth (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1271_septembers_baccalaureate|1271. September's Baccalaureate (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1274_the_bone_that_has_no_marrow|1274. The Bone that has no Marrow, (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#1275_the_spider_as_an_artist|1275. The Spider as an Artist (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1276_twas_later_when_the_summer_went|1276. 'Twas later when the summer went (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0128_bring_me_the_sunset_in_a_cup|128. Bring me the sunset in a cup, (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0129_cocoon_above_cocoon_below|129. Cocoon above! Cocoon below! (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0131_besides_the_autumn_poets_sing|131. Besides the Autumn poets sing (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0134_perhaps_youd_like_to_buy_a_flower|134. Perhaps you'd like to buy a flower, (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0137_flowers_well_if_anybody|137. Flowers — Well — if anybody (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0138_pigmy_seraphs_gone_astray|138. Pigmy seraphs — gone astray — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1388_those_cattle_smaller_than_a_bee|1388. Those cattle smaller than a Bee (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1405_bees_are_black_with_gilt_surcingles|1405. Bees are Black, with Gilt Surcingles — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0145_this_heart_that_broke_so_long|145. This heart that broke so long — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1521_the_butterfly_upon_the_sky|1521. The Butterfly upon the Sky, (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1524_a_faded_boy_in_sallow_clothes|1524. A faded Boy — in sallow Clothes (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#1526_his_oriental_heresies|1526. His oriental heresies (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1535_the_life_that_tied_too_tight_escapes|1535. The Life that tied too tight escapes (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1575_the_bat_is_dun_with_wrinkled_wings|1575. The Bat is dun, with wrinkled Wings — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0165_a_wounded_deer_leaps_highest|165. A wounded Deer — leaps highest — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0173_a_fuzzy_fellow_without_feet|173. A fuzzy fellow, without feet, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1746_the_most_important_population|1746. The most important population (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1775_the_earth_has_many_keys|1775. The earth has many keys, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0186_what_shall_i_do_it_whimpers_so|186. What shall I do — it whimpers so — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0206_the_flower_must_not_blame_the_bee|206. The Flower must not blame the Bee — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0213_did_the_harebell_loose_her_girdle|213. Did the Harebell loose her girdle (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0228_blazing_in_gold_and_quenching_in_purple|228. Blazing in Gold and quenching in Purple (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0229_a_burdock_clawed_my_gown|229. A Burdock — clawed my Gown — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0230_we_bee_and_i_live_by_the_quaffing|230. We — Bee and I — live by the quaffing — (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0288_im_nobody_who_are_you|288. I'm Nobody! Who are you (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0319_the_nearest_dream_recedes_unrealized|319. The nearest Dream recedes — unrealized — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0328_a_bird_came_down_the_walk|328. A Bird came down the Walk — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0354_from_cocoon_forth_a_butterfly|354. From Cocoon forth a Butterfly (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0492_civilization_spurns_the_leopard|492. Civilization — spurns — the Leopard! (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0496_as_far_from_pity_as_complaint|496. As far from pity, as complaint — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0507_she_sights_a_bird_she_chuckles|507. She sights a Bird — she chuckles — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0517_he_parts_himself_like_leaves|517. He parts Himself — like Leaves — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0533_two_butterflies_went_out_at_noon|533. Two butterflies went out at Noon — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0541_some_such_butterfly_be_seen|541. Some such Butterfly be seen (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0557_she_hideth_her_the_last|557. She hideth Her the last — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0565_one_anguish_in_a_crowd|565. One Anguish — in a Crowd — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0566_a_dying_tiger_moaned_for_drink|566. A Dying Tiger — moaned for Drink — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0661_could_i_but_ride_indefinite|661. Could I but ride indefinite (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0668_nature_is_what_we_see|668. Nature is what we see — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0682_twould_ease_a_butterfly|682. 'Twould ease — a Butterfly — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0699_the_judge_is_like_the_owl|699. The Judge is like the Owl — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0738_you_said_that_i_was_great_one_day|738. You said that I was Great — one Day — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0754_my_life_had_stood_a_loaded_gun|754. My Life had stood — a Loaded Gun — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0762_the_whole_of_it_came_not_at_once|762. The Whole of it came not at once — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0790_nature_the_gentlest_mother_is|790. Nature — the Gentlest Mother is, (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0793_grief_is_a_mouse|793. Grief is a Mouse — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0796_who_giants_know_with_lesser_men|796. Who Giants know, with lesser Men (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0805_this_bauble_was_preferred_of_bees|805. This Bauble was preferred of Bees — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0822_this_consciousness_that_is_aware|822. This Consciousness that is aware (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0842_good_to_hide_and_hear_em_hunt|842. Good to hide, and hear 'em hunt! (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0862_light_is_sufficient_to_itself|862. Light is sufficient to itself — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0872_as_the_starved_maelstrom_laps_the_navies|872. As the Starved Maelstrom laps the Navies (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0885_our_little_kinsmen_after_rain|885. Our little Kinsmen — after Rain (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0009_through_lane_it_lay_through_bramble|9. Through lane it lay — through bramble — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0979_this_merit_hath_the_worst|979. This Merit hath the worst — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0986_a_narrow_fellow_in_the_grass|986. A narrow fellow in the grass (Dickinson)]]
 - [[works/bustopher-jones-the-cat-about-town-(eliot)|Bustopher Jones the Cat About Town (Eliot)]]
 - [[works/cat-morgan-introduces-himself-(eliot)|Cat Morgan Introduces Himself (Eliot)]]
 - [[works/circe’s-palace-(eliot)|Circe’s Palace (Eliot)]]
@@ -153,9 +153,9 @@ tags:
 - [[works/the-murders-in-the-rue-morgue-(poe)|The Murders in the Rue Morgue (Poe)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
-- Sonnet 19 (Shakespeare)
-- Sonnet 91 (Shakespeare)
-- Sonnet 96 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_019|Sonnet 19 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_091|Sonnet 91 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_096|Sonnet 96 (Shakespeare)]]
 - [[works/the-history-of-king-lear---the-quarto-text-(shakespeare)|THE HISTORY OF KING LEAR - THE QUARTO TEXT (Shakespeare)]]
 - [[works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)|THE TRAGEDY OF KING LEAR - THE FOLIO TEXT (Shakespeare)]]
 - [[works/timon-of-athens-(shakespeare)|TIMON OF ATHENS (Shakespeare)]]

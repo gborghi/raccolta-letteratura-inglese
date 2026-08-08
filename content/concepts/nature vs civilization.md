@@ -35,23 +35,23 @@ tags:
 - [[works/martin-chuzzlewit-(dickens)|Martin Chuzzlewit (Dickens)]]
 - [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
-- 1286. I thought that nature was enough (Dickinson)
-- 138. Pigmy seraphs — gone astray — (Dickinson)
-- 1655. Conferring with myself (Dickinson)
-- 324. Some keep the Sabbath going to Church — (Dickinson)
-- 354. From Cocoon forth a Butterfly (Dickinson)
-- 41. I robbed the Woods — (Dickinson)
-- 492. Civilization — spurns — the Leopard! (Dickinson)
-- 585. I like to see it lap the Miles — (Dickinson)
-- 647. A little Road — not made of Man — (Dickinson)
-- 661. Could I but ride indefinite (Dickinson)
-- 668. Nature is what we see — (Dickinson)
-- 697. I could bring You Jewels — had I a mind to — (Dickinson)
-- 699. The Judge is like the Owl — (Dickinson)
-- 70. Arcturus is his other name — (Dickinson)
-- 722. Sweet Mountains — Ye tell Me no lie — (Dickinson)
-- 755. No Bobolink — reverse His Singing (Dickinson)
-- 812. A Light exists in Spring (Dickinson)
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1286_i_thought_that_nature_was_enough|1286. I thought that nature was enough (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0138_pigmy_seraphs_gone_astray|138. Pigmy seraphs — gone astray — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1655_conferring_with_myself|1655. Conferring with myself (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0324_some_keep_the_sabbath_going_to_church|324. Some keep the Sabbath going to Church — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0354_from_cocoon_forth_a_butterfly|354. From Cocoon forth a Butterfly (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0041_i_robbed_the_woods|41. I robbed the Woods — (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0492_civilization_spurns_the_leopard|492. Civilization — spurns — the Leopard! (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0585_i_like_to_see_it_lap_the_miles|585. I like to see it lap the Miles — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0647_a_little_road_not_made_of_man|647. A little Road — not made of Man — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0661_could_i_but_ride_indefinite|661. Could I but ride indefinite (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0668_nature_is_what_we_see|668. Nature is what we see — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0697_i_could_bring_you_jewels_had_i_a_mind_to|697. I could bring You Jewels — had I a mind to — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0699_the_judge_is_like_the_owl|699. The Judge is like the Owl — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0070_arcturus_is_his_other_name|70. Arcturus is his other name — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0722_sweet_mountains_ye_tell_me_no_lie|722. Sweet Mountains — Ye tell Me no lie — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0755_no_bobolink_reverse_his_singing|755. No Bobolink — reverse His Singing (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0812_a_light_exists_in_spring|812. A Light exists in Spring (Dickinson)]]
 - [[works/meg-merrilies-(keats)|Meg Merrilies (Keats)]]
 - [[works/o-solitude!-if-i-must-with-thee-dwell-(keats)|O SOLITUDE! IF I MUST WITH THEE DWELL (Keats)]]
 - [[works/teignmouth-(keats)|Teignmouth (Keats)]]

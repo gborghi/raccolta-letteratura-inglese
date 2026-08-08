@@ -57,7 +57,7 @@ L'arca di Noè rossa era davvero la enorme [[motifs/ship|nave]] della salvezza t
 che naviga sul mare gonfio di pioggia, rosso nella prima
 mattina di [[concepts/hope|speranza]].
 
-Suppongo che tutti conoscano quegli istanti sbalorditivi di astrazione, quelle brillanti lacune nella mente. In tali momenti si può vedere il volto del proprio migliore amico come un insensato disegno di occhiali o baffi. Sono comunemente caratterizzati dai due segni della lentezza della loro crescita e dell'improvvisità della loro fine. Il ritorno al pensiero reale è spesso brusco quanto scontrarsi con una persona. Molto spesso, infatti (nel mio caso), è proprio questo che accade. Ma in ogni caso il risveglio è sempre enfatico e, generalmente parlando, è sempre completo. Ora, in questo caso, sono tornato con uno shock di [[Sanity|sanità]] alla consapevolezza che stavo, dopotutto, solo fissando una squallida bottega di giocattoli; ma per qualche strana ragione la cura mentale non sembrava essere definitiva. C'era ancora nella mia mente qualcosa di incontrollabile che mi diceva che ero incappato in un'atmosfera strana, o che avevo già fatto qualcosa di strano. Mi sentivo come se avessi compiuto un miracolo o commesso un peccato. Era come se fossi comunque passato oltre qualche confine nell'[[motifs/soul|anima]].
+Suppongo che tutti conoscano quegli istanti sbalorditivi di astrazione, quelle brillanti lacune nella mente. In tali momenti si può vedere il volto del proprio migliore amico come un insensato disegno di occhiali o baffi. Sono comunemente caratterizzati dai due segni della lentezza della loro crescita e dell'improvvisità della loro fine. Il ritorno al pensiero reale è spesso brusco quanto scontrarsi con una persona. Molto spesso, infatti (nel mio caso), è proprio questo che accade. Ma in ogni caso il risveglio è sempre enfatico e, generalmente parlando, è sempre completo. Ora, in questo caso, sono tornato con uno shock di sanità alla consapevolezza che stavo, dopotutto, solo fissando una squallida bottega di giocattoli; ma per qualche strana ragione la cura mentale non sembrava essere definitiva. C'era ancora nella mia mente qualcosa di incontrollabile che mi diceva che ero incappato in un'atmosfera strana, o che avevo già fatto qualcosa di strano. Mi sentivo come se avessi compiuto un miracolo o commesso un peccato. Era come se fossi comunque passato oltre qualche confine nell'[[motifs/soul|anima]].
 
 Per scuotermi da questa sensazione pericolosa e sognante sono entrato nel negozio
 e ho cercato di comprare dei soldatini di legno.  L'uomo del negozio era molto vecchio
@@ -141,7 +141,7 @@ più sanguigno, con un'enorme parrucca, sventolandosi il volto acceso
 con un cappello militare del taglio della [[characters/queen|regina]] Anna.  Portava la testa [[motifs/well|ben]] eretta come un soldato,
 e il suo volto infuocato aveva persino un'aria di arroganza, subito
 smentita dagli occhi, che erano letteralmente umili
-come quelli di un cane.  La sua [[Sword|spada]] faceva un gran fracasso, come se la bottega
+come quelli di un cane.  La sua spada faceva un gran fracasso, come se la bottega
 fosse troppo piccola per essa.
 
 "In verità," disse Sir [[characters/richard|Richard]] Steele, "è cosa quanto mai prodigiosa,
@@ -246,7 +246,7 @@ The return to real thinking is often as abrupt as bumping into a man.
 Very often indeed (in my case) it is bumping into a man.
 But in any case the awakening is always emphatic and,
 generally speaking, it is always complete.  Now, in this case,
-I did come back with a shock of [[Sanity|sanity]] to the consciousness
+I did come back with a shock of sanity to the consciousness
 that I was, after all, only staring into a dingy little toy-shop;
 but in some strange way the mental cure did not seem to be final.
 There was still in my mind an unmanageable something that told
@@ -335,7 +335,7 @@ L'arca di Noè rossa era davvero la enorme [[motifs/ship|nave]] della salvezza t
 che naviga sul mare gonfio di pioggia, rosso nella prima
 mattina di [[concepts/hope|speranza]].
 
-Suppongo che tutti conoscano quegli istanti sbalorditivi di astrazione, quelle brillanti lacune nella mente. In tali momenti si può vedere il volto del proprio migliore amico come un insensato disegno di occhiali o baffi. Sono comunemente caratterizzati dai due segni della lentezza della loro crescita e dell'improvvisità della loro fine. Il ritorno al pensiero reale è spesso brusco quanto scontrarsi con una persona. Molto spesso, infatti (nel mio caso), è proprio questo che accade. Ma in ogni caso il risveglio è sempre enfatico e, generalmente parlando, è sempre completo. Ora, in questo caso, sono tornato con uno shock di [[Sanity|sanità]] alla consapevolezza che stavo, dopotutto, solo fissando una squallida bottega di giocattoli; ma per qualche strana ragione la cura mentale non sembrava essere definitiva. C'era ancora nella mia mente qualcosa di incontrollabile che mi diceva che ero incappato in un'atmosfera strana, o che avevo già fatto qualcosa di strano. Mi sentivo come se avessi compiuto un miracolo o commesso un peccato. Era come se fossi comunque passato oltre qualche confine nell'[[motifs/soul|anima]].
+Suppongo che tutti conoscano quegli istanti sbalorditivi di astrazione, quelle brillanti lacune nella mente. In tali momenti si può vedere il volto del proprio migliore amico come un insensato disegno di occhiali o baffi. Sono comunemente caratterizzati dai due segni della lentezza della loro crescita e dell'improvvisità della loro fine. Il ritorno al pensiero reale è spesso brusco quanto scontrarsi con una persona. Molto spesso, infatti (nel mio caso), è proprio questo che accade. Ma in ogni caso il risveglio è sempre enfatico e, generalmente parlando, è sempre completo. Ora, in questo caso, sono tornato con uno shock di sanità alla consapevolezza che stavo, dopotutto, solo fissando una squallida bottega di giocattoli; ma per qualche strana ragione la cura mentale non sembrava essere definitiva. C'era ancora nella mia mente qualcosa di incontrollabile che mi diceva che ero incappato in un'atmosfera strana, o che avevo già fatto qualcosa di strano. Mi sentivo come se avessi compiuto un miracolo o commesso un peccato. Era come se fossi comunque passato oltre qualche confine nell'[[motifs/soul|anima]].
 
 Per scuotermi da questa sensazione pericolosa e sognante sono entrato nel negozio
 e ho cercato di comprare dei soldatini di legno.  L'uomo del negozio era molto vecchio
@@ -425,7 +425,7 @@ fanning his flushed face with a military hat of the cut
 of [[characters/queen|Queen]] Anne.  He carried his head [[motifs/well|well]] back like a soldier,
 and his hot face had even a look of arrogance, which was suddenly
 contradicted by his eyes, which were literally as humble
-as a dog's. His [[Sword|sword]] made a great clatter, as if the shop
+as a dog's. His sword made a great clatter, as if the shop
 were too small for it.
 
 "Indeed," said Sir [[characters/richard|Richard]] Steele, "'tis a most prodigious matter,
@@ -513,7 +513,7 @@ più sanguigno, con un'enorme parrucca, sventolandosi il volto acceso
 con un cappello militare del taglio della [[characters/queen|regina]] Anna.  Portava la testa [[motifs/well|ben]] eretta come un soldato,
 e il suo volto infuocato aveva persino un'aria di arroganza, subito
 smentita dagli occhi, che erano letteralmente umili
-come quelli di un cane.  La sua [[Sword|spada]] faceva un gran fracasso, come se la bottega
+come quelli di un cane.  La sua spada faceva un gran fracasso, come se la bottega
 fosse troppo piccola per essa.
 
 "In verità," disse Sir [[characters/richard|Richard]] Steele, "è cosa quanto mai prodigiosa,

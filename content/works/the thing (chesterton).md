@@ -74,7 +74,7 @@ tags:
 
 **Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]]
 
-**Characters:** St. Francis of Assisi, St. Joan of Arc
+**Characters:** [[characters/st.-francis-of-assisi|St. Francis of Assisi]], [[characters/st.-joan-of-arc|St. Joan of Arc]]
 
 **Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/home|Home]], [[motifs/food-and-feasting|Food and Feasting]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/conversion|Conversion]], [[concepts/doubt|Doubt]], [[concepts/truth|Truth]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/democracy|Democracy]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/distributism|Distributism]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]], [[concepts/history|History]]

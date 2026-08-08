@@ -30,9 +30,9 @@ piacere sottile come il tuo spirito, strano e snello come la tua figura,
 più fiero della [[motifs/pain|pena]] che ti avvolge, più soave del nome del tuo dolore.  
 
 Non come la mia, o consacrata della mia [[motifs/soul|anima]], non come la mia la rozza e lieve  
-facile allegria di molti volti, spavalda [[concepts/pride|superbia]] di [[Song|canto]] e battaglia;  
+facile allegria di molti volti, spavalda [[concepts/pride|superbia]] di canto e battaglia;  
 qualcosa di più strano, di più dolce, qualcosa che t'attende lontano,  
-segreto come i tuoi sensi feriti, [[Magic|magico]] come sono i tuoi dolori.  
+segreto come i tuoi sensi feriti, magico come sono i tuoi dolori.  
 
 Ma su questa, l'arpa suprema di Dio, tesa solo per essere percossa una volta,  
 il canuto [[motifs/time|Tempo]] è un principiante, la Vita un pasticcione, la [[motifs/death|Morte]] un somaro.  
@@ -59,9 +59,9 @@ Pleasure subtle as your spirit, strange and slender as your frame,
 Fiercer than the [[motifs/pain|pain]] that folds you, softer than your sorrow's name.  
 
 Not as mine, my [[motifs/soul|soul]]'s annointed, not as mine the rude and light  
-Easy mirth of many faces, swaggering [[concepts/pride|pride]] of [[Song|song]] and fight;  
+Easy mirth of many faces, swaggering [[concepts/pride|pride]] of song and fight;  
 Something stranger, something sweeter, something waiting you afar,  
-Secret as your stricken senses, [[Magic|magic]] as your sorrows are.  
+Secret as your stricken senses, magic as your sorrows are.  
 
 But on this, God's harp supernal, stretched but to be stricken once,  
 Hoary [[motifs/time|time]] is a beginner, Life a bungler, [[motifs/death|Death]] a dunce.  
@@ -86,9 +86,9 @@ piacere sottile come il tuo spirito, strano e snello come la tua figura,
 più fiero della [[motifs/pain|pena]] che ti avvolge, più soave del nome del tuo dolore.  
 
 Non come la mia, o consacrata della mia [[motifs/soul|anima]], non come la mia la rozza e lieve  
-facile allegria di molti volti, spavalda [[concepts/pride|superbia]] di [[Song|canto]] e battaglia;  
+facile allegria di molti volti, spavalda [[concepts/pride|superbia]] di canto e battaglia;  
 qualcosa di più strano, di più dolce, qualcosa che t'attende lontano,  
-segreto come i tuoi sensi feriti, [[Magic|magico]] come sono i tuoi dolori.  
+segreto come i tuoi sensi feriti, magico come sono i tuoi dolori.  
 
 Ma su questa, l'arpa suprema di Dio, tesa solo per essere percossa una volta,  
 il canuto [[motifs/time|Tempo]] è un principiante, la Vita un pasticcione, la [[motifs/death|Morte]] un somaro.  

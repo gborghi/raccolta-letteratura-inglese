@@ -26,7 +26,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** Femme Fatale
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]]
 **Motifs:** [[motifs/moon|Moon]], [[motifs/stars|Stars]], [[motifs/autumn|Autumn]], [[motifs/memory|Memory]]
 **Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

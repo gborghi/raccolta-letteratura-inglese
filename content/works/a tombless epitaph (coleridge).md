@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Themes & Concepts:** [[concepts/truth|Truth]], [[concepts/artist-and-society|Artist and Society]], [[concepts/satire-of-society|Satire of Society]], [[concepts/nostalgia|Nostalgia]]
 **Forms & Genres:** [[forms/elegy|Elegy]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]

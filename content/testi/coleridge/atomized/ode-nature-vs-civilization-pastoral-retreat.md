@@ -118,7 +118,7 @@ Her transient bliss, her lasting woe,
 Her maniac joys, that know no measure,  
 And Riot rude and painted Pleasure; —  
 Till (sad reverse!) the Enchantress vile  
-To frowns converts her [[Magic|magic]] smile;    55  
+To frowns converts her magic smile;    55  
 Her train impatient to destroy,  
 Observe her frown with gloomy joy;  
 On thee with harpy fangs they seize  
@@ -274,7 +274,7 @@ To the tune of distant-tinkling teams,
 While lusty Labour scouting sorrow  
 Bids the Dame a glad good-morrow,  
 Who jogs the accustom’d [[motifs/road|road]] along,  
-And paces cheery to her cheering [[Song|song]].   20  
+And paces cheery to her cheering song.   20  
 III  
 But not our filmy pinion  
 We scorch amid the blaze of day,  
@@ -290,7 +290,7 @@ Fann’d by the unfrequent gale
 We shield us from the [[archetypes/tyrant|Tyrant]]’s mid-day rage.  
 IV  
 Thither, while the murmuring throng  
-Of wild-[[motifs/bees|bees]] hum their drowsy [[Song|song]],  
+Of wild-[[motifs/bees|bees]] hum their drowsy song,  
 By [[concepts/indolence|Indolence]] and Fancy brought,    35  
 A youthful Bard, ‘unknown to Fame,’  
 Wooes the [[characters/queen|Queen]] of Solemn Thought,  
@@ -327,7 +327,7 @@ Where wearied with his flower-caressing sport,   65
 Supine he slumbers on a violet bank;  
 Then with quaint music [[forms/hymn|hymn]] the parting gleam  
 By lonely Otter’s [[motifs/sleep|sleep]]-persuading stream;  
-Or where his wave with loud unquiet [[Song|song]]  
+Or where his wave with loud unquiet song  
 Dash’d o’er the rocky channel froths along;   70  
 Or where, his silver waters smooth’d to rest,  
 The tall tree’s [[archetypes/shadow|shadow]] sleeps upon his breast.  
@@ -464,7 +464,7 @@ Long-listening to the viewless sky-lark’s note
 (Viewless, or haply for a moment seen   20  
 Gleaming on sunny wings) in whisper’d tones  
 I’ve said to my Belovéd, ‘Such, sweet Girl!  
-The inobtrusive [[Song|song]] of Happiness,  
+The inobtrusive song of Happiness,  
 Unearthly minstrelsy! then only heard  
 When the [[motifs/soul|Soul]] seeks to hear; when all is hush’d,   25  
 And the Heart listens!’  
@@ -622,7 +622,7 @@ Blacker was he than blackest jet,
 Flew low in the rain, and his feathers not wet.   10  
 He picked up the acorn and buried it straight  
 By the side of a [[motifs/river|river]] both deep and great.  
-Where then did [[The Raven|the Raven]] go?  
+Where then did the Raven go?  
 He went high and low,  
 Over [[motifs/hill|hill]], over dale, did the black Raven go.   15  
 Many Autumns, many Springs  
@@ -634,7 +634,7 @@ And the acorn was grown to a tall oak tree.
 They built them a nest in the topmost bough,  
 And young ones they had, and were happy enow.  
 But soon came a Woodman in leathern guise,  
-His brow, like a pent-[[house]], hung over his eyes.   25  
+His brow, like a pent-house, hung over his eyes.   25  
 He’d an axe in his hand, not a word he spoke,  
 But with many a hem! and a sturdy stroke,  
 At length he brought down the poor Raven’s own oak.  
@@ -647,10 +647,10 @@ And with this tree and others they made a good [[motifs/ship|ship]].
 The [[motifs/ship|ship]], it was launched; but in sight of the land   35  
 Such a [[motifs/storm|storm]] there did rise as no [[motifs/ship|ship]] could withstand.  
 It bulged on a rock, and the waves rush’d in fast:  
-Round and round flew [[The Raven|the raven]], and cawed to the blast.  
+Round and round flew the raven, and cawed to the blast.  
 He heard the last shriek of the perishing souls —  
 See! see! o’er the topmast the mad [[motifs/water|water]] rolls!   40  
-Right glad was [[The Raven|the Raven]], and off he went fleet,  
+Right glad was the Raven, and off he went fleet,  
 And [[motifs/death|Death]] riding [[motifs/home|home]] on a cloud he did meet,  
 And he thank’d him again and again for this treat:  
 They had taken his all, and [[concepts/revenge|REVENGE]] IT WAS SWEET!  
@@ -726,7 +726,7 @@ And cast into that hole. My husband’s father
 Sobb’d like a [[archetypes/child|child]] — it almost broke his heart:
 And once as he was working in the cellar,
 He heard a voice distinctly; ‘twas the youth’s,   60
-Who sung a doleful [[Song|song]] about green fields,
+Who sung a doleful song about green fields,
 How sweet it were on lake or wild savannah,
 To hunt for food, and be a naked man,
 And wander up and down at liberty.
@@ -745,7 +745,7 @@ Went likewise, and when he return’d to Spain,
 He told Leoni, that the poor mad youth,   75
 Soon after they arriv’d in that new world,
 In spite of his dissuasion, seiz’d a boat,
-And all [[Alone|alone]], set sail by silent moonlight
+And all alone, set sail by silent moonlight
 Up a great [[motifs/river|river]], great as any sea,
 And ne’er was heard of more: but ‘tis suppos’d,   80
 He liv’d and died among the savage men.
@@ -815,7 +815,7 @@ And Britain joined the dire array;
 Though dear her shores and circling ocean,  
 Though many friendships, many youthful loves  
 Had swoln the patriot emotion  
-And flung a [[Magic|magic]] light o’er all her hills and groves;   35  
+And flung a magic light o’er all her hills and groves;   35  
 Yet still my voice, unaltered, sang defeat  
 To all that braved the [[archetypes/tyrant|tyrant]]-quelling lance,  
 And shame too long delayed and vain retreat!  
@@ -842,7 +842,7 @@ Writhed like a wounded dragon in his gore;
 Then I reproached my fears that would not flee;  
 ‘And soon,’ I said, ‘shall Wisdom teach her lore  
 In the low huts of them that toil and groan!   60  
-And, conquering by her happiness [[Alone|alone]],  
+And, conquering by her happiness alone,  
 Shall France compel the nations to be free,  
 Till [[motifs/love|Love]] and Joy look round, and call the Earth their own.’  
 IV  
@@ -909,7 +909,7 @@ A balmy [[motifs/night|night]]! and though the [[motifs/stars|stars]] be dim,
 Yet let us think upon the vernal showers  
 That gladden the green earth, and we shall find   10  
 A pleasure in the dimness of the [[motifs/stars|stars]].  
-And hark! the [[motifs/nightingale|Nightingale]] begins its [[Song|song]],  
+And hark! the [[motifs/nightingale|Nightingale]] begins its song,  
 ‘Most musical, most [[concepts/melancholy|melancholy]]’ bird!  
 A [[concepts/melancholy|melancholy]] bird? Oh! idle thought!  
 In [[concepts/nature|Nature]] there is nothing [[concepts/melancholy|melancholy]].   15  
@@ -926,10 +926,10 @@ When he had better far have stretched his limbs   25
 Beside a brook in mossy forest-dell,  
 By sun or [[motifs/moon|moon]]-light, to the influxes  
 Of shapes and sounds and shifting elements  
-Surrendering his whole spirit, of his [[Song|song]]  
+Surrendering his whole spirit, of his song  
 And of his fame forgetful! so his fame   30  
 Should share in [[concepts/nature|Nature]]’s [[concepts/immortality|immortality]],  
-A venerable thing! and so his [[Song|song]]  
+A venerable thing! and so his song  
 Should make all [[concepts/nature|Nature]] lovelier, and itself  
 Be loved like [[concepts/nature|Nature]]! But ‘twill not be so;  
 And youths and maidens most poetical,   35  
@@ -956,7 +956,7 @@ Thin grass and [[archetypes/king|king]]-cups grow within the paths.
 But never elsewhere in one place I knew   55  
 So many nightingales; and far and near,  
 In wood and thicket, over the wide grove,  
-They answer and provoke each other’s [[Song|song]],  
+They answer and provoke each other’s song,  
 With skirmish and capricious passagings,  
 And murmurs musical and swift jug jug,   60  
 And one low piping sound more sweet than all —  
@@ -984,7 +984,7 @@ As if some sudden gale had swept at once
 A hundred airy harps! And she hath watched  
 Many a [[motifs/nightingale|nightingale]] perch giddily  
 On blossomy twig still swinging from the breeze,  
-And to that motion tune his wanton [[Song|song]]   85  
+And to that motion tune his wanton song   85  
 Like tipsy Joy that reels with tossing head.  
 Farewell, O Warbler! till to-morrow eve,  
 And you, my friends! farewell, a short farewell!  
@@ -1007,7 +1007,7 @@ While his fair eyes, that swam with undropped [[motifs/tears|tears]],
 Did glitter in the yellow [[motifs/moon|moon]]-beam! [[motifs/well|Well]]! — 105  
 It is a father’s tale: But if that Heaven  
 Should give me life, his [[motifs/childhood|childhood]] shall grow up  
-Familiar with these [[songs]], that with the [[motifs/night|night]]  
+Familiar with these songs, that with the [[motifs/night|night]]  
 He may associate joy. — Once more, farewell,  
 Sweet [[motifs/nightingale|Nightingale]]! once more, my friends! farewell.   110  
 1798.  
@@ -1020,7 +1020,7 @@ Sweet [[motifs/nightingale|Nightingale]]! once more, my friends! farewell.   110
 
 Never, believe me,  
 Appear the Immortals,  
-Never [[Alone|alone]]:  
+Never alone:  
 Scarce had I welcomed the Sorrow-beguiler,  
 Iacchus! but in came Boy Cupid the Smiler;   5  
 Lo! Phoebus the Glorious descends from his throne!  
@@ -1056,7 +1056,7 @@ Forbids me to die!
 Nor cold, nor stern, my [[motifs/soul|soul]]! yet I detest  
 These scented Rooms, where, to a gaudy throng,  
 Heaves the proud Harlot her distended breast,  
-In intricacies of laborious [[Song|song]].  
+In intricacies of laborious song.  
 These feel not Music’s genuine power, nor deign   5  
 To melt at [[concepts/nature|Nature]]’s passion-warbled plaint;  
 But when the long-breathed singer’s uptrilled strain  
@@ -1082,7 +1082,7 @@ And while the lazy boat sways to and fro,
 Breathes in his flute sad airs, so wild and slow,  
 That his own cheek is wet with quiet [[motifs/tears|tears]].  
 But O, dear Anne! when midnight [[motifs/wind|wind]] careers,  
-And the gust pelting on the out-[[house]] shed   30  
+And the gust pelting on the out-house shed   30  
 Makes the cock shrilly in the rainstorm crow,  
 To hear thee sing some ballad full of woe,  
 Ballad of [[motifs/ship|ship]]-wreck’d sailor floating dead,  
@@ -1109,7 +1109,7 @@ Hail! O Goddess, thrice hail! Blest be thou! and, blessing, I [[forms/hymn|hymn]
 thee!  
 Forth, ye sweet sounds! from my harp, and my voice shall float on  
 your surges —  
-Soar thou aloft, O my [[motifs/soul|soul]]! and bear up my [[Song|song]] on thy pinions.  
+Soar thou aloft, O my [[motifs/soul|soul]]! and bear up my song on thy pinions.  
 Travelling the vale with mine eyes — green meadows and lake with  
 green island,   5  
 Dark in its basin of rock, and the bare stream flowing in  
@@ -1147,7 +1147,7 @@ Mightier far was the joy of thy sudden resilience; and forthwith
 Myriad myriads of lives teemed forth from the mighty embracement.  
 Thousand-fold tribes of dwellers, impelled by thousand-fold  
 instincts,  
-Filled, as [[A Dream|a dream]], the wide waters; the rivers sang on their  
+Filled, as a dream, the wide waters; the rivers sang on their  
 channels;   30  
 Laughed on their shores the hoarse seas; the yearning ocean  
 swelled upward;  
@@ -1260,7 +1260,7 @@ I may not [[concepts/hope|hope]] from outward forms to win   45
 The passion and the Life, whose fountains are within.  
 IV  
 O Lady! we receive but what we give,  
-And in our life [[Alone|alone]] does [[concepts/nature|Nature]] live:  
+And in our life alone does [[concepts/nature|Nature]] live:  
 Ours is her wedding garment, ours her shroud!  
 And would we aught behold, of higher worth,   50  
 Than that inanimate cold world allowed  
@@ -1317,11 +1317,11 @@ Of agony by torture lengthened out
 That lute sent forth! Thou [[motifs/wind|Wind]], that rav’st without,  
 Bare crag, or mountain-tairn, or blasted tree,   100  
 Or pine-grove whither woodman never clomb,  
-Or lonely [[house]], long held the witches’ [[motifs/home|home]],  
+Or lonely house, long held the witches’ [[motifs/home|home]],  
 Methinks were fitter instruments for thee,  
 Mad Lutanist! who in this month of showers,  
 Of dark-brown gardens, and of peeping [[motifs/flowers|flowers]],   105  
-Mak’st Devils’ yule, with worse than wintry [[Song|song]],  
+Mak’st Devils’ yule, with worse than wintry song,  
 The blossoms, buds, and timorous [[motifs/leaves|leaves]] among.  
 Thou Actor, perfect in all tragic sounds!  
 Thou mighty Poet, e’en to frenzy bold!  
@@ -1384,7 +1384,7 @@ Thy habitation from [[concepts/eternity|eternity]]!
 O dread and silent Mount! I gazed upon thee,  
 Till thou, still present to the bodily sense,  
 Didst vanish from my thought: entranced in [[motifs/prayer|prayer]]   15  
-I worshipped the Invisible [[Alone|alone]].  
+I worshipped the Invisible alone.  
 Yet, like some sweet beguiling melody,  
 So sweet, we know not we are listening to it,  
 Thou, the meanwhile, wast blending with my Thought,  
@@ -1393,9 +1393,9 @@ Till the dilating [[motifs/soul|Soul]], enrapt, transfused,
 Into the mighty vision passing — there  
 As in her natural form, swelled vast to Heaven!  
 Awake, my [[motifs/soul|soul]]! not only passive praise  
-Thou owest! not [[Alone|alone]] these swelling [[motifs/tears|tears]],   25  
+Thou owest! not alone these swelling [[motifs/tears|tears]],   25  
 Mute thanks and secret ecstasy! Awake,  
-Voice of sweet [[Song|song]]! Awake, my heart, awake!  
+Voice of sweet song! Awake, my heart, awake!  
 Green vales and icy cliffs, all join my [[forms/hymn|Hymn]].  
 Thou first and chief, sole sovereign of the Vale!  
 O struggling with the darkness all the [[motifs/night|night]],   30  
@@ -1573,7 +1573,7 @@ And this gay month, th’ enchantress of the year,
 To cheat poor me (no conjuror, God wot!)  
 And Chisholm’s [[concepts/self|self]] accomplice in the plot.  
 Can you then [[concepts/wonder|wonder]] if I went astray?  
-Not bards [[Alone|alone]], nor [[lovers]] mad as they; — 45  
+Not bards alone, nor lovers mad as they; — 45  
 All [[concepts/nature|Nature]] day-[[motifs/dreams|dreams]] in the month of May.  
 And if I pluck’d ‘each flower that sweetest blows,’ —  
 Who walks in [[motifs/sleep|sleep]], needs follow must his nose.  
@@ -1604,7 +1604,7 @@ LINES COMPOSED 21ST FEBRUARY 1825
 All [[concepts/nature|Nature]] seems at work. Slugs leave their lair —  
 The [[motifs/bees|bees]] are stirring — [[motifs/birds|birds]] are on the wing —  
 And [[motifs/winter|Winter]] slumbering in the open air,  
-Wears on his smiling face [[A Dream|a dream]] of [[motifs/spring|Spring]]!  
+Wears on his smiling face a dream of [[motifs/spring|Spring]]!  
 And I the while, the sole unbusy thing,   5  
 Nor honey make, nor pair, nor build, nor sing.  
 Yet [[motifs/well|well]] I ken the banks where amaranths blow,  
@@ -1626,13 +1626,13 @@ And [[concepts/hope|Hope]] without an object cannot live.
 Or late, in one of those most weary hours,  
 When life seems emptied of all genial powers,  
 A dreary mood, which he who ne’er has known  
-May bless his happy lot, I sate [[Alone|alone]];  
+May bless his happy lot, I sate alone;  
 And, from the numbing spell to win relief,   5  
 Call’d on the Past for thought of glee or grief.  
 In vain! bereft alike of grief and glee,  
 I sate and cow’r’d o’er my own vacancy!  
 And as I watch’d the dull continuous ache,  
-Which, all else slumb’ring, seem’d [[Alone|alone]] to wake;   10  
+Which, all else slumb’ring, seem’d alone to wake;   10  
 O Friend! long wont to notice yet conceal,  
 And soothe by [[motifs/silence|silence]] what words cannot heal,  
 I but half saw that quiet hand of thine  
@@ -1671,14 +1671,14 @@ Of hopes, which in lamenting I renew’d:   45
 And last, a matron now, of sober mien,  
 Yet radiant still and with no earthly sheen,  
 Whom as a faery [[archetypes/child|child]] my [[motifs/childhood|childhood]] woo’d  
-Even in my [[motifs/dawn|dawn]] of thought — [[philosophy|Philosophy]];  
+Even in my [[motifs/dawn|dawn]] of thought — Philosophy;  
 Though then unconscious of herself, pardie,   50  
 She bore no other name than Poesy;  
 And, like a gift from heaven, in lifeful glee,  
 That had but newly left a mother’s knee,  
 Prattled and play’d with bird and flower, and stone,  
 As if with elfin playfellows [[motifs/well|well]] known,   55  
-And life reveal’d to [[innocence]] [[Alone|alone]].  
+And life reveal’d to innocence alone.  
 Thanks, gentle [[archetypes/artist|artist]]! now I can descry  
 Thy fair creation with a mastering eye,  
 And all awake! And now in fix’d gaze stand,  
@@ -1718,7 +1718,7 @@ Weeps liquid gems, the presents of the [[motifs/dawn|dawn]]; —
 Thine all delights, and every muse is thine;  
 And more than all, the embrace and intertwine  
 Of all with all in gay and twinkling [[motifs/dance|dance]]!   95  
-Mid gods of Greece and warriors of [[Romance|romance]],  
+Mid gods of Greece and warriors of romance,  
 See! Boccace sits, unfolding on his knees  
 The new-found roll of old Maeonides;  
 But from his mantle’s fold, and near the heart,  

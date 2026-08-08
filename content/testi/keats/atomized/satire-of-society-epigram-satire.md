@@ -43,7 +43,7 @@ So scared, he sent for that ‘Good [[archetypes/king|King]] of Cats’
 Young Daniel, who soon did pluck away the beam  
 From out his eye, and said he did not deem  
 The sceptre worth a straw - his cushions old door-mats.  
-A horrid [[nightmare]] similar somewhat  
+A horrid nightmare similar somewhat  
 Of late has haunted a most motley crew,  
 10  
 Most loggerheads and chapmen - we are told  
@@ -126,7 +126,7 @@ When Kate Eyebrow keeps a coach,
 Huzza for folly O!  
 When the pig is over-roasted,  
 Huzza for folly O!  
-And the [[cheese]] is over-toasted,  
+And the cheese is over-toasted,  
 Huzza for folly O!  
 When Sir Snap is with his lawyer,  
 Huzza for folly O!  
@@ -291,7 +291,7 @@ Even so long my [[motifs/sleep|sleep]] has been secure -
 And to be so awaked I’ll not endure.  
 Oh [[motifs/pain|pain]] - for since the eagle’s earliest scream  
 I’ve had a damn’d confounded ugly dream,  
-A [[nightmare]] sure. What, Madam, was it you?  
+A nightmare sure. What, Madam, was it you?  
 It cannot be! My old eyes are not true!  
 Red-Crag, my spectacles! Now let me see!  
 Good Heavens, Lady, how the gemini  

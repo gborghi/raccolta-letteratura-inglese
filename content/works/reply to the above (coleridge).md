@@ -24,7 +24,7 @@ tags:
 
 **Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/faith|Faith]], [[concepts/mortality|Mortality]], [[concepts/friendship|Friendship]]
 **Forms & Genres:** [[forms/epigram|Epigram]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

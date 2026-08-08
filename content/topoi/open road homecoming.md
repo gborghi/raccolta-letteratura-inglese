@@ -30,13 +30,13 @@ tags:
 - [[works/american-notes-(dickens)|American Notes (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 647. A little Road — not made of Man — (Dickinson)
-- 661. Could I but ride indefinite (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0647_a_little_road_not_made_of_man|647. A little Road — not made of Man — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0661_could_i_but_ride_indefinite|661. Could I but ride indefinite (Dickinson)]]
 - [[works/at-graduation-1905-(eliot)|At Graduation 1905 (Eliot)]]
 - [[works/mélange-adultère-de-tout-(eliot)|Mélange Adultère de Tout (Eliot)]]
 - [[works/a-song-about-myself-(keats)|A Song About Myself (Keats)]]
-- Sonnet 109 (Shakespeare)
-- Sonnet 117 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_109|Sonnet 109 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_117|Sonnet 117 (Shakespeare)]]
 - [[works/a-promise-to-california-(whitman)|A Promise to California (Whitman)]]
 - [[works/adieu-to-a-soldier-(whitman)|Adieu to a Soldier (Whitman)]]
 - [[works/as-i-lay-with-my-head-in-your-lap-camerado-(whitman)|As I Lay with My Head in Your Lap Camerado (Whitman)]]

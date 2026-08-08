@@ -45,13 +45,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/life-as-a-battle|Life as a Battle]]
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/blood|Blood]], [[concepts/nature|Nature]], [[motifs/seasons|Seasons]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/humility|Humility]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/allegory|Allegory]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** Marion Jeddler, Grace Jeddler, Doctor Jeddler, Alfred Heathfield, Michael Warden, Clemency Newcome, Benjamin Britain
+**Characters:** [[characters/marion-jeddler|Marion Jeddler]], [[characters/grace-jeddler|Grace Jeddler]], [[characters/doctor-jeddler|Doctor Jeddler]], [[characters/alfred-heathfield|Alfred Heathfield]], [[characters/michael-warden|Michael Warden]], [[characters/clemency-newcome|Clemency Newcome]], [[characters/benjamin-britain|Benjamin Britain]]
 
 ## Testo integrale / Full text
 

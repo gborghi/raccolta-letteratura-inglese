@@ -51,11 +51,11 @@ tags:
 - [[works/american-notes-(dickens)|American Notes (Dickens)]]
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 116. I had some things that I called mine — (Dickinson)
-- 1388. Those cattle smaller than a Bee (Dickinson)
-- 1757. Upon the gallows hung a wretch, (Dickinson)
-- 394. 'Twas Love — not me — (Dickinson)
-- 597. It always felt to me — a wrong (Dickinson)
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0116_i_had_some_things_that_i_called_mine|116. I had some things that I called mine — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1388_those_cattle_smaller_than_a_bee|1388. Those cattle smaller than a Bee (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1757_upon_the_gallows_hung_a_wretch|1757. Upon the gallows hung a wretch, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0394_twas_love_not_me|394. 'Twas Love — not me — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0597_it_always_felt_to_me_a_wrong|597. It always felt to me — a wrong (Dickinson)]]
 - [[works/hop-frog-(poe)|Hop-Frog (Poe)]]
 - [[works/the-murders-in-the-rue-morgue-(poe)|The Murders in the Rue Morgue (Poe)]]
 - [[works/the-mystery-of-marie-roget-(poe)|The Mystery of Marie Roget (Poe)]]

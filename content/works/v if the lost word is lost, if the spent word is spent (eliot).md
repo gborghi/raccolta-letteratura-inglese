@@ -28,7 +28,7 @@ tags:
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]]
 **Historical References:** [[historical-references/bible|Bible]]
 **Settings:** [[motifs/desert|Desert]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

@@ -36,7 +36,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/vanitas|Vanitas]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/paradise-lost|Paradise Lost]]
-**Archetypes:** Tragic Hero, Tyrant, Usurper, King
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/tyrant|Tyrant]], [[archetypes/usurper|Usurper]], [[archetypes/king|King]]
 **Motifs:** [[motifs/crown|Crown]], [[motifs/death|Death]], [[motifs/fire|Fire]], [[motifs/childhood|Childhood]]
 **Themes & Concepts:** [[concepts/ambition|Ambition]], [[concepts/pride|Pride]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/romantic-love|Romantic Love]], [[concepts/sin-and-the-fall|Sin and the Fall]]
 **Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]], [[forms/narrative-poem|Narrative Poem]]

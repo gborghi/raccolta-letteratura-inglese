@@ -40,21 +40,21 @@ tags:
 - [[works/great-expectations-(dickens)|Great Expectations (Dickens)]]
 - [[works/little-dorrit-(dickens)|Little Dorrit (Dickens)]]
 - [[works/martin-chuzzlewit-(dickens)|Martin Chuzzlewit (Dickens)]]
-- 1232. The Clover's simple Fame (Dickinson)
-- 1272. So proud she was to die (Dickinson)
-- 1427. To earn it by disdaining it (Dickinson)
-- 143. For every Bird a Nest — (Dickinson)
-- 385. Smiling back from Coronation (Dickinson)
-- 401. What Soft — Cherubic Creatures — (Dickinson)
-- 427. I'll clutch — and clutch — (Dickinson)
-- 540. I took my Power in my Hand — (Dickinson)
-- 551. There is a Shame of Nobleness — (Dickinson)
-- 639. My Portion is Defeat — today — (Dickinson)
-- 641. Size circumscribes — it has no room (Dickinson)
-- 700. You've seen Balloons set — Haven't You (Dickinson)
-- 704. No matter — now — Sweet — (Dickinson)
-- 709. Publication — is the Auction (Dickinson)
-- 713. Fame of Myself, to justify, (Dickinson)
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#1232_the_clovers_simple_fame|1232. The Clover's simple Fame (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1272_so_proud_she_was_to_die|1272. So proud she was to die (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#1427_to_earn_it_by_disdaining_it|1427. To earn it by disdaining it (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0143_for_every_bird_a_nest|143. For every Bird a Nest — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0385_smiling_back_from_coronation|385. Smiling back from Coronation (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0401_what_soft_cherubic_creatures|401. What Soft — Cherubic Creatures — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0427_ill_clutch_and_clutch|427. I'll clutch — and clutch — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0540_i_took_my_power_in_my_hand|540. I took my Power in my Hand — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0551_there_is_a_shame_of_nobleness|551. There is a Shame of Nobleness — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0639_my_portion_is_defeat_today|639. My Portion is Defeat — today — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0641_size_circumscribes_it_has_no_room|641. Size circumscribes — it has no room (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0700_youve_seen_balloons_set_havent_you|700. You've seen Balloons set — Haven't You (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0704_no_matter_now_sweet|704. No matter — now — Sweet — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0709_publication_is_the_auction|709. Publication — is the Auction (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0713_fame_of_myself_to_justify|713. Fame of Myself, to justify, (Dickinson)]]
 - [[works/ix-son-of-man,-behold-with-thine-eyes,-and-hear-with-thine-ears-(eliot)|IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/the-death-of-saint-narcissus-(eliot)|The Death of Saint Narcissus (Eliot)]]
@@ -74,9 +74,9 @@ tags:
 - [[works/all-is-true---(henry-viii)-(shakespeare)|ALL IS TRUE - (HENRY VIII) (Shakespeare)]]
 - [[works/coriolanus-(shakespeare)|CORIOLANUS (Shakespeare)]]
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
-- Sonnet 62 (Shakespeare)
-- Sonnet 84 (Shakespeare)
-- Sonnet 91 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_062|Sonnet 62 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_084|Sonnet 84 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_091|Sonnet 91 (Shakespeare)]]
 - [[works/the-history-of-king-lear---the-quarto-text-(shakespeare)|THE HISTORY OF KING LEAR - THE QUARTO TEXT (Shakespeare)]]
 - [[works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)|THE TRAGEDY OF KING LEAR - THE FOLIO TEXT (Shakespeare)]]
 - [[works/timon-of-athens-(shakespeare)|TIMON OF ATHENS (Shakespeare)]]

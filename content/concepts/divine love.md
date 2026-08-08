@@ -40,48 +40,48 @@ tags:
 - [[works/the-virgin’s-cradle-hymn-(coleridge)|THE VIRGIN’S CRADLE-HYMN (Coleridge)]]
 - [[works/to-baby-bates-(coleridge)|TO BABY BATES (Coleridge)]]
 - [[works/translation-of-a-passage-in-ottfried’s-metrical-paraphrase-of-the-gospel-(coleridge)|TRANSLATION OF A PASSAGE IN OTTFRIED’S METRICAL PARAPHRASE OF THE GOSPEL (Coleridge)]]
-- 1021. Far from Love the Heavenly Father (Dickinson)
-- 106. The Daisy follows soft the Sun — (Dickinson)
-- 1178. My God — He sees thee — (Dickinson)
-- 1204. Whatever it is — she has tried it — (Dickinson)
-- 1237. My Heart ran so to thee (Dickinson)
-- 1262. I cannot see my soul but know 'tis there (Dickinson)
-- 1286. I thought that nature was enough (Dickinson)
-- 1496. All that I do (Dickinson)
-- 1555. I groped for him before I knew (Dickinson)
-- 1643. Extol thee — could I Then I will (Dickinson)
-- 217. Savior! I've no one else to tell — (Dickinson)
-- 315. He fumbles at your Soul (Dickinson)
-- 317. Just so — Jesus — raps — (Dickinson)
-- 357. God is a distant — stately Lover — (Dickinson)
-- 453. Love — thou art high — (Dickinson)
-- 463. I live with Him — I see His face — (Dickinson)
-- 487. You love the Lord — you cannot see — (Dickinson)
-- 528. Mine — by the Right of the White Election! (Dickinson)
-- 535. She's happy, with a new Content — (Dickinson)
-- 549. That I did always love (Dickinson)
-- 573. The Test of Love — is Death — (Dickinson)
-- 603. He found my Being — set it up — (Dickinson)
-- 625. 'Twas a long Parting — but the time (Dickinson)
-- 673. The Love a Life can show Below (Dickinson)
-- 674. The Soul that hath a Guest (Dickinson)
-- 694. The Heaven vests for Each (Dickinson)
-- 698. Life — is what we make of it — (Dickinson)
-- 722. Sweet Mountains — Ye tell Me no lie — (Dickinson)
-- 725. Where Thou art — that — is Home — (Dickinson)
-- 740. You taught me Waiting with Myself — (Dickinson)
-- 751. My Worthiness is all my Doubt — (Dickinson)
-- 800. Two — were immortal twice — (Dickinson)
-- 817. Given in Marriage unto Thee (Dickinson)
-- 833. Perhaps you think me stooping (Dickinson)
-- 871. The Sun and Moon must make their haste — (Dickinson)
-- 964. Unto Me I do not know you — (Dickinson)
-- 968. Fitter to see Him, I may be (Dickinson)
+- [[testi/dickinson/atomized/faith-providence-divine-love#1021_far_from_love_the_heavenly_father|1021. Far from Love the Heavenly Father (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0106_the_daisy_follows_soft_the_sun|106. The Daisy follows soft the Sun — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1178_my_god_he_sees_thee|1178. My God — He sees thee — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1204_whatever_it_is_she_has_tried_it|1204. Whatever it is — she has tried it — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1237_my_heart_ran_so_to_thee|1237. My Heart ran so to thee (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1262_i_cannot_see_my_soul_but_know_tis_there|1262. I cannot see my soul but know 'tis there (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1286_i_thought_that_nature_was_enough|1286. I thought that nature was enough (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1496_all_that_i_do|1496. All that I do (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1555_i_groped_for_him_before_i_knew|1555. I groped for him before I knew (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1643_extol_thee_could_i_then_i_will|1643. Extol thee — could I Then I will (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0217_savior_ive_no_one_else_to_tell|217. Savior! I've no one else to tell — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0315_he_fumbles_at_your_soul|315. He fumbles at your Soul (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0317_just_so_jesus_raps|317. Just so — Jesus — raps — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0357_god_is_a_distant_stately_lover|357. God is a distant — stately Lover — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0453_love_thou_art_high|453. Love — thou art high — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0463_i_live_with_him_i_see_his_face|463. I live with Him — I see His face — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0487_you_love_the_lord_you_cannot_see|487. You love the Lord — you cannot see — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0528_mine_by_the_right_of_the_white_election|528. Mine — by the Right of the White Election! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0535_shes_happy_with_a_new_content|535. She's happy, with a new Content — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0549_that_i_did_always_love|549. That I did always love (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0573_the_test_of_love_is_death|573. The Test of Love — is Death — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0603_he_found_my_being_set_it_up|603. He found my Being — set it up — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0625_twas_a_long_parting_but_the_time|625. 'Twas a long Parting — but the time (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0673_the_love_a_life_can_show_below|673. The Love a Life can show Below (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0674_the_soul_that_hath_a_guest|674. The Soul that hath a Guest (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0694_the_heaven_vests_for_each|694. The Heaven vests for Each (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0698_life_is_what_we_make_of_it|698. Life — is what we make of it — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0722_sweet_mountains_ye_tell_me_no_lie|722. Sweet Mountains — Ye tell Me no lie — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0725_where_thou_art_that_is_home|725. Where Thou art — that — is Home — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0740_you_taught_me_waiting_with_myself|740. You taught me Waiting with Myself — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0751_my_worthiness_is_all_my_doubt|751. My Worthiness is all my Doubt — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0800_two_were_immortal_twice|800. Two — were immortal twice — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0817_given_in_marriage_unto_thee|817. Given in Marriage unto Thee (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0833_perhaps_you_think_me_stooping|833. Perhaps you think me stooping (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0871_the_sun_and_moon_must_make_their_haste|871. The Sun and Moon must make their haste — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0964_unto_me_i_do_not_know_you|964. Unto Me I do not know you — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0968_fitter_to_see_him_i_may_be|968. Fitter to see Him, I may be (Dickinson)]]
 - [[works/ii-lady,-three-white-leopards-sat-under-a-juniper-tree-(eliot)|II Lady, three white leopards sat under a juniper-tree (Eliot)]]
 - [[works/ii-thus-your-fathers-were-made-(eliot)|II Thus your fathers were made (Eliot)]]
 - [[works/hymn-(poe)|Hymn (Poe)]]
-- Sonnet 105 (Shakespeare)
-- Sonnet 108 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_105|Sonnet 105 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_108|Sonnet 108 (Shakespeare)]]
 - [[works/a-persian-lesson-(whitman)|A Persian Lesson (Whitman)]]
 - [[works/a-sight-in-camp-in-the-daybreak-gray-and-dim-(whitman)|A Sight in Camp in the Daybreak Gray and Dim (Whitman)]]
 - [[works/chanting-the-square-deific-(whitman)|Chanting the Square Deific (Whitman)]]

@@ -85,10 +85,10 @@ tags:
 
 **Settings:** [[motifs/desert|Desert]], [[settings/battlefield|Battlefield]], [[settings/jerusalem|Jerusalem]]
 
-**Characters:** Godfrey de Bouillon, Peter the Hermit, Ezra Pound, Tancred, [[historical-references/voltaire|Voltaire]], [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]]
+**Characters:** [[characters/godfrey-de-bouillon|Godfrey de Bouillon]], [[characters/peter-the-hermit|Peter the Hermit]], [[characters/ezra-pound|Ezra Pound]], [[characters/tancred|Tancred]], [[historical-references/voltaire|Voltaire]], [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]]
 
 **Topoi:** [[topoi/quest|Quest]], [[topoi/combat-strife|Combat Strife]]
-**Archetypes:** Pilgrim, Hero, Rebel, Common Man (2)
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/hero|Hero]], [[archetypes/rebel|Rebel]], [[archetypes/common-man-(2)|Common Man (2)]]
 **Motifs:** [[motifs/cross|Cross]], [[motifs/blood|Blood]], [[motifs/fire|Fire]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/dust|Dust]], [[motifs/light-and-dark|Light and Dark]], [[motifs/garden|Garden]], [[motifs/hill|Hill]], [[motifs/wheel|Wheel]], [[motifs/journey|Journey]]
 **Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/martyrdom|Martyrdom]], [[concepts/faith|Faith]], [[concepts/common-man|Common Man]], [[concepts/democracy|Democracy]], [[concepts/class-conflict|Class Conflict]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/fanaticism|Fanaticism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/reason-and-rationalism|Reason and Rationalism]], [[concepts/popular-revolution|Popular Revolution]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

@@ -251,7 +251,7 @@ La peste sta compiendo il suo “lavoro” in modo splendido sia in Europa che�
 
 Ayesher. Non è davvero straordinario che, prima di tutto ciò che è magnifico…
 
-La luce gettata sulla [[philosophy|filosofia]] dall’umanità aveva abituato il mondo a questo modo di vedere le cose.
+La luce gettata sulla filosofia dall’umanità aveva abituato il mondo a questo modo di vedere le cose.
 
 “Ritenere la guerra e la peste delle calamità? Lo sai davvero?”
 
@@ -384,7 +384,7 @@ In particolare, si può dire che ogni forma di pensiero razionale venisse pratic
 
 Cosiddetto. Nessuno osava pronunciare una [[concepts/truth|verità]] di cui si sentisse convinto.
 
-In debito soltanto con la propria [[motifs/soul|Anima]], [[Alone|da solo]]. Non importava se la [[concepts/truth|.verità]] fosse.
+In debito soltanto con la propria [[motifs/soul|Anima]], da solo. Non importava se la [[concepts/truth|.verità]] fosse.
 
 Anche se dimostrabilmente una [[concepts/truth|verità]], per gli sciocchi testardi di.
 
@@ -468,7 +468,7 @@ Titolo: Recentemente tradotto dall’Inglitch… che, tra l’altro, sembra…
 
 “Sono stati i fondamenti della cultura americana… Secondo un esperto, è così.”
 
-Senza dubbio l'opera più intelligente dell'antichità sull'argomento trattato, la [[logic|Logica]].
+Senza dubbio l'opera più intelligente dell'antichità sull'argomento trattato, la Logica.
 
 Il titolo dell’autore, che all’epoca era molto stimato, era Miller…
 
@@ -517,7 +517,7 @@ Un criterio di verità assiomatica.
 
 Ora non mi lamento più così tanto di questi antichi… perché loro…
 
-La [[logic|logica]], secondo le loro stesse affermazioni, è del tutto priva di fondamento, inutile e.
+La logica, secondo le loro stesse affermazioni, è del tutto priva di fondamento, inutile e.
 
 Assolutamente fantastico… ma solo a causa della loro pompa e stupidità.
 
@@ -716,7 +716,7 @@ Durante le indagini, si scoprì che ciò che riguarda tutti in realtà…
 
 “Nessuno di nessuno… e quella ‘Repubblica’… beh, era davvero qualcosa di assurdo.”
 
-Quell’area non disponeva affatto di un [[government|governo]]; tuttavia, è comunque correlata.
+Quell’area non disponeva affatto di un governo; tuttavia, è comunque correlata.
 
 La prima circostanza che disturbò in modo particolare…
 
@@ -777,7 +777,7 @@ Sul volto della terra… a meno che non si consideri il caso di…
 
 Qualsiasi cosa, quella [[concepts/democracy|democrazia]] è davvero una forma molto ammirevole di governo.
 
-Il [[government|governo]], per i [[dogs|cani]].
+Il governo, per i cani.
 
 
 
@@ -867,9 +867,9 @@ Di ciò che, in termini di geometria terrena, consideriamo…
 
 Solo il lato matematico, a differenza di quello pratico.
 
-Un’idea, in realtà, è quella concezione pratica che [[Alone|solamente]] noi possediamo.
+Un’idea, in realtà, è quella concezione pratica che solamente noi possediamo.
 
-Non si ha alcun diritto di nutrire alcuna speranza riguardo a quei circoli legati al [[titanic|Titanic]].
+Non si ha alcun diritto di nutrire alcuna speranza riguardo a quei circoli legati al Titanic.
 
 Titolo:  
 Con cui dobbiamo confrontarci, almeno nella fantasia, quando supponiamo…
@@ -1103,7 +1103,7 @@ Solo un indizio del progetto di erigere un monumento in futuro…
 
 [[motifs/time|Tempo]]; come se un pilastro fondamentale venisse posato con cautela, da solo, in solitudine.
 
-“e [[Alone|da solo]]” (scusate se cito il grande poeta americano)
+“e da solo” (scusate se cito il grande poeta americano)
 
 “Benton!”, come garanzia di intenzioni generose… Noi.
 
@@ -1144,7 +1144,7 @@ Rapida ispezione delle copie di giornali, ecc.
 Titolo:  
 Si scoprì che i grandi uomini di quei tempi tra gli americani erano…
 
-C'era un certo John, un [[smith|artigiano]], e un certo Zacchary, un sarto.
+C'era un certo John, un artigiano, e un certo Zacchary, un sarto.
 
 
 
@@ -1609,7 +1609,7 @@ the plague is doing its good work beautifully both in Yurope and
 
 Ayesher. Is it not truly remarkable that, before the magnificent
 
-light shed upon [[philosophy]] by Humanity, the world was accustomed
+light shed upon philosophy by Humanity, the world was accustomed
 
 to regard War and Pestilence as calamities? Do you know that
 
@@ -1741,7 +1741,7 @@ especially, that a virtual end was put to all thinking, properly
 
 so called. No man dared utter a [[concepts/truth|truth]] to which he felt himself
 
-indebted to his [[motifs/soul|Soul]] [[Alone|alone]]. It mattered not whether the [[concepts/truth|truth]] was
+indebted to his [[motifs/soul|Soul]] alone. It mattered not whether the [[concepts/truth|truth]] was
 
 even demonstrably a [[concepts/truth|truth]], for the bullet-headed savans of the
 
@@ -1788,7 +1788,7 @@ La peste sta compiendo il suo “lavoro” in modo splendido sia in Europa che�
 
 Ayesher. Non è davvero straordinario che, prima di tutto ciò che è magnifico…
 
-La luce gettata sulla [[philosophy|filosofia]] dall’umanità aveva abituato il mondo a questo modo di vedere le cose.
+La luce gettata sulla filosofia dall’umanità aveva abituato il mondo a questo modo di vedere le cose.
 
 “Ritenere la guerra e la peste delle calamità? Lo sai davvero?”
 
@@ -1921,7 +1921,7 @@ In particolare, si può dire che ogni forma di pensiero razionale venisse pratic
 
 Cosiddetto. Nessuno osava pronunciare una [[concepts/truth|verità]] di cui si sentisse convinto.
 
-In debito soltanto con la propria [[motifs/soul|Anima]], [[Alone|da solo]]. Non importava se la [[concepts/truth|.verità]] fosse.
+In debito soltanto con la propria [[motifs/soul|Anima]], da solo. Non importava se la [[concepts/truth|.verità]] fosse.
 
 Anche se dimostrabilmente una [[concepts/truth|verità]], per gli sciocchi testardi di.
 
@@ -2009,7 +2009,7 @@ lately translated from the Inglitch—which, by the way, appears to
 
 have been the rudiment of the Amriccan. Pundit says it is
 
-decidedly the cleverest ancient work on its topic, [[logic|Logic]]. The
+decidedly the cleverest ancient work on its topic, Logic. The
 
 author (who was much thought of in his day) was one Miller, or
 
@@ -2057,7 +2057,7 @@ a criterion of axiomatic [[concepts/truth|truth]].”
 
 Now I do not complain of these ancients so much because their
 
-[[logic]] is, by their own showing, utterly baseless, worthless and
+logic is, by their own showing, utterly baseless, worthless and
 
 fantastic altogether, as because of their pompous and imbecile
 
@@ -2191,7 +2191,7 @@ Titolo: Recentemente tradotto dall’Inglitch… che, tra l’altro, sembra…
 
 “Sono stati i fondamenti della cultura americana… Secondo un esperto, è così.”
 
-Senza dubbio l'opera più intelligente dell'antichità sull'argomento trattato, la [[logic|Logica]].
+Senza dubbio l'opera più intelligente dell'antichità sull'argomento trattato, la Logica.
 
 Il titolo dell’autore, che all’epoca era molto stimato, era Miller…
 
@@ -2240,7 +2240,7 @@ Un criterio di verità assiomatica.
 
 Ora non mi lamento più così tanto di questi antichi… perché loro…
 
-La [[logic|logica]], secondo le loro stesse affermazioni, è del tutto priva di fondamento, inutile e.
+La logica, secondo le loro stesse affermazioni, è del tutto priva di fondamento, inutile e.
 
 Assolutamente fantastico… ma solo a causa della loro pompa e stupidità.
 
@@ -2421,7 +2421,7 @@ themselves!—did ever anybody hear of such an absurdity?—that they
 
 existed in a sort of every-man-for-himself confederacy, after the
 
-fashion of the “prairie [[dogs]]” that we read of in [[forms/fable|fable]]. He says
+fashion of the “prairie dogs” that we read of in [[forms/fable|fable]]. He says
 
 that they started with the queerest idea conceivable, viz: that
 
@@ -2437,7 +2437,7 @@ length, it was discovered that what is everybody’s business is
 
 nobody’s, and that the “Republic” (so the absurd thing was
 
-called) was without a [[government]] at all. It is related, however,
+called) was without a government at all. It is related, however,
 
 that the first circumstance which disturbed, very particularly,
 
@@ -2457,7 +2457,7 @@ fraud. A little reflection upon this discovery sufficed to render
 
 evident the consequences, which were that rascality must
 
-predominate—in a word, that a republican [[government]] could never
+predominate—in a word, that a republican government could never
 
 be any thing but a rascally one. While the philosophers, however,
 
@@ -2623,7 +2623,7 @@ Durante le indagini, si scoprì che ciò che riguarda tutti in realtà…
 
 “Nessuno di nessuno… e quella ‘Repubblica’… beh, era davvero qualcosa di assurdo.”
 
-Quell’area non disponeva affatto di un [[government|governo]]; tuttavia, è comunque correlata.
+Quell’area non disponeva affatto di un governo; tuttavia, è comunque correlata.
 
 La prima circostanza che disturbò in modo particolare…
 
@@ -2685,11 +2685,11 @@ analogies. As for Republicanism, no analogy could be found for it
 
 upon the face of the earth—unless we except the case of the
 
-“prairie [[dogs]],” an exception which seems to demonstrate, if
+“prairie dogs,” an exception which seems to demonstrate, if
 
 anything, that [[concepts/democracy|democracy]] is a very admirable form of
 
-[[government]]—for [[dogs]].
+government—for dogs.
 
 
 
@@ -2775,9 +2775,9 @@ of it which, in regard to all earthly geometry, we consider as
 
 merely the mathematical, in contradistinction from the practical,
 
-idea—is, in sober fact, the practical conception which [[Alone|alone]] we
+idea—is, in sober fact, the practical conception which alone we
 
-have any right to entertain in respect to those [[titanic|Titanic]] circles
+have any right to entertain in respect to those Titanic circles
 
 with which we have to deal, at least in fancy, when we suppose
 
@@ -2872,7 +2872,7 @@ Sul volto della terra… a meno che non si consideri il caso di…
 
 Qualsiasi cosa, quella [[concepts/democracy|democrazia]] è davvero una forma molto ammirevole di governo.
 
-Il [[government|governo]], per i [[dogs|cani]].
+Il governo, per i cani.
 
 
 
@@ -2962,9 +2962,9 @@ Di ciò che, in termini di geometria terrena, consideriamo…
 
 Solo il lato matematico, a differenza di quello pratico.
 
-Un’idea, in realtà, è quella concezione pratica che [[Alone|solamente]] noi possediamo.
+Un’idea, in realtà, è quella concezione pratica che solamente noi possediamo.
 
-Non si ha alcun diritto di nutrire alcuna speranza riguardo a quei circoli legati al [[titanic|Titanic]].
+Non si ha alcun diritto di nutrire alcuna speranza riguardo a quei circoli legati al Titanic.
 
 Titolo:  
 Con cui dobbiamo confrontarci, almeno nella fantasia, quando supponiamo…
@@ -3200,7 +3200,7 @@ mere indication of the design to erect a monument at some future
 
 [[motifs/time|time]]; a corner-stone being cautiously laid by itself “solitary
 
-and [[Alone|alone]]” (excuse me for quoting the great American poet
+and alone” (excuse me for quoting the great American poet
 
 Benton!), as a guarantee of the magnanimous intention. We
 
@@ -3240,7 +3240,7 @@ hasty inspection of the fac-similes of newspapers, &c., &c., I
 
 find that the great men in those days among the Amriccans, were
 
-one John, a [[smith]], and one Zacchary, a tailor.
+one John, a smith, and one Zacchary, a tailor.
 
 
 
@@ -3414,7 +3414,7 @@ Solo un indizio del progetto di erigere un monumento in futuro…
 
 [[motifs/time|Tempo]]; come se un pilastro fondamentale venisse posato con cautela, da solo, in solitudine.
 
-“e [[Alone|da solo]]” (scusate se cito il grande poeta americano)
+“e da solo” (scusate se cito il grande poeta americano)
 
 “Benton!”, come garanzia di intenzioni generose… Noi.
 
@@ -3455,7 +3455,7 @@ Rapida ispezione delle copie di giornali, ecc.
 Titolo:  
 Si scoprì che i grandi uomini di quei tempi tra gli americani erano…
 
-C'era un certo John, un [[smith|artigiano]], e un certo Zacchary, un sarto.
+C'era un certo John, un artigiano, e un certo Zacchary, un sarto.
 
 
 

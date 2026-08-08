@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]]
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Motifs:** [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/elegy|Elegy]]

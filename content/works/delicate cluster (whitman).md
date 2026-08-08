@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/flag|Flag]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

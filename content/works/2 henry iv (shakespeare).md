@@ -70,13 +70,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/tempus-fugit|Tempus Fugit]], [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Fool, King, Rebel
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/king|King]], [[archetypes/rebel|Rebel]]
 **Motifs:** [[motifs/inn-tavern|Inn Tavern]], [[motifs/time|Time]], [[motifs/death|Death]], [[motifs/crown|Crown]], [[motifs/madness-(2)|Madness (2)]]
 **Themes & Concepts:** [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/mortality|Mortality]], [[concepts/conscience|Conscience]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/disillusionment|Disillusionment]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]], [[forms/verse-drama|Verse Drama]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]]
 **Settings:** [[settings/court|Court]], [[settings/inn|Inn]]
-**Characters:** Falstaff, Henry IV, Prince Hal, Earl of Northumberland, Lord Chief Justice, Justice Shallow, Doll Tearsheet, Mistress Quickly, Prince John
+**Characters:** [[characters/falstaff|Falstaff]], [[characters/henry-iv|Henry IV]], [[characters/prince-hal|Prince Hal]], [[characters/earl-of-northumberland|Earl of Northumberland]], [[characters/lord-chief-justice|Lord Chief Justice]], [[characters/justice-shallow|Justice Shallow]], [[characters/doll-tearsheet|Doll Tearsheet]], [[characters/mistress-quickly|Mistress Quickly]], [[characters/prince-john|Prince John]]
 
 ## Testo integrale / Full text
 

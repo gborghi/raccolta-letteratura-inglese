@@ -42,7 +42,7 @@ Lingered upon the pools that stand in drains,
 Let fall upon its back the soot that falls from chimneys,  
 Slipped by the terrace, made a sudden leap,  
 And seeing that it was a soft October [[motifs/night|night]],  
-Curled once about the [[house]], and fell asleep.  
+Curled once about the house, and fell asleep.  
    And indeed there will be [[motifs/time|time]]  
 For the yellow smoke that slides along the street  
 Rubbing its back upon the [[motifs/window|window]]-panes;  
@@ -131,7 +131,7 @@ After the novels, after the teacups, after the skirts that trail along the floor
 
 And this, and so much more? —  
 It is impossible to say just what I mean!  
-But as if a [[Magic|magic]] lantern threw the nerves in patterns on a screen:  
+But as if a magic lantern threw the nerves in patterns on a screen:  
 Would it have been worth while  
 If one, settling a pillow or throwing off a shawl,  
 And turning toward the [[motifs/window|window]], should say:  
@@ -163,7 +163,7 @@ Till human voices wake us, and we drown.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il [[Song|Canto]] d’[[motifs/love|Amore]] di [[characters/j.-alfred-prufrock|J. Alfred Prufrock]]  
+Il Canto d’[[motifs/love|Amore]] di [[characters/j.-alfred-prufrock|J. Alfred Prufrock]]  
 S’i’ credesse che mia risposta fosse  
 a persona che mai tornasse al mondo,  
 questa fiamma staria sanza più scosse;  
@@ -191,7 +191,7 @@ indugiò sulle pozze che stanno nei tombini,
 lasciò cadere sul dorso la fuliggine che cade dai camini,  
 scivolò lungo la terrazza, spiccò un balzo improvviso,  
 e vedendo che era una molle [[motifs/night|notte]] d’ottobre,  
-s’arricciò una volta intorno alla [[house|casa]], e s’addormentò.  
+s’arricciò una volta intorno alla casa, e s’addormentò.  
    E davvero ci sarà [[motifs/time|tempo]]  
 per il fumo giallo che scivola lungo la strada  
 strusciando il dorso sui vetri della [[motifs/window|finestra]];  
@@ -280,7 +280,7 @@ dopo i romanzi, dopo le tazze da tè, dopo le gonne che strisciano sul pavimento
 
 e questo, e tanto altro ancora? —  
 È impossibile dire proprio ciò che intendo!  
-Ma come se una lanterna [[Magic|magica]] proiettasse i nervi in disegni su uno schermo:  
+Ma come se una lanterna magica proiettasse i nervi in disegni su uno schermo:  
 ne sarebbe valsa la pena  
 se una, sistemandosi un cuscino o gettando via uno scialle,  
 e voltandosi verso la [[motifs/window|finestra]], dicesse:  
@@ -400,7 +400,7 @@ Another bank defaulter has confessed.
 I keep my countenance,  
 I remain [[concepts/self|self]]-possessed  
 Except when a street-piano, mechanical and tired  
-Reiterates some worn-out common [[Song|song]]  
+Reiterates some worn-out common song  
 With the smell of hyacinths across the [[motifs/garden|garden]]  
 Recalling things that other people have desired.  
 Are these ideas right or wrong?  
@@ -538,7 +538,7 @@ un altro cassiere fallito ha confessato.
 Mantengo il contegno,  
 resto padrone di [[concepts/self|me]]  
 salvo quando un piano da strada, meccanico e stanco,  
-ripete qualche logoro [[Song|motivo]] comune  
+ripete qualche logoro motivo comune  
 con l’odore dei giacinti attraverso il [[motifs/garden|giardino]]  
 che richiama cose che altri hanno desiderato.  
 Sono giuste o sbagliate queste idee?  
@@ -774,7 +774,7 @@ I was neither at the hot gates
 Nor fought in the warm rain  
 Nor knee deep in the salt marsh, heaving a cutlass,  
 Bitten by flies, fought.  
-My [[house]] is a decayed [[house]],  
+My house is a decayed house,  
 And the Jew squats on the [[motifs/window|window]]-sill, the owner,  
 Spawned in some estaminet of Antwerp,  
 Blistered in Brussels, patched and peeled in [[settings/london|London]].  
@@ -798,7 +798,7 @@ By Madame de Tornquist, in the dark room
 Shifting the candles; Fräulein von Kulp  
 Who turned in the hall, one hand on the door. Vacant shuttles  
 Weave the [[motifs/wind|wind]]. I have no [[motifs/ghosts|ghosts]],  
-An old man in a draughty [[house]]  
+An old man in a draughty house  
 Under a windy knob.  
 After such knowledge, what [[concepts/forgiveness|forgiveness]]? Think now  
 [[concepts/history|History]] has many cunning passages, contrived corridors  
@@ -817,7 +817,7 @@ Are forced upon us by our impudent crimes.
 These [[motifs/tears|tears]] are shaken from the wrath-bearing tree.  
 The tiger springs in the new year. Us he devours. Think at last  
 We have not reached conclusion, when I  
-Stiffen in a rented [[house]]. Think at last  
+Stiffen in a rented house. Think at last  
 I have not made this show purposelessly  
 And it is not by any concitation  
 Of the backward devils.  
@@ -841,7 +841,7 @@ Of Belle Isle, or running on the Horn.
 White feathers in the [[motifs/snow|snow]], the Gulf claims,  
 And an old man driven by the Trades  
 To a sleepy corner.  
-                                                 Tenants of the [[house]],  
+                                                 Tenants of the house,  
 Thoughts of a dry brain in a dry season.  
 
 
@@ -857,7 +857,7 @@ Non fui alle porte calde
 né combattei nella pioggia tiepida  
 né fino al ginocchio nella palude salata, brandendo una sciabola,  
 morso dalle mosche, combattei.  
-La mia [[house|casa]] è una [[house|casa]] decaduta,  
+La mia casa è una casa decaduta,  
 e l’Ebreo sta accovacciato sul davanzale della [[motifs/window|finestra]], il padrone,  
 generato in qualche estaminet d’Anversa,  
 coperto di vesciche a Bruxelles, rattoppato e scortecciato a [[settings/london|Londra]].  
@@ -881,7 +881,7 @@ da Madame de Tornquist, nella stanza buia
 spostando le candele; Fräulein von Kulp  
 che si voltò nell’andito, una mano sulla porta. Spole vuote  
 tessono il [[motifs/wind|vento]]. Non ho [[motifs/ghosts|fantasmi]],  
-un vecchio in una [[house|casa]] piena di spifferi  
+un vecchio in una casa piena di spifferi  
 sotto un cocuzzolo ventoso.  
 Dopo tale conoscenza, quale [[concepts/forgiveness|perdono]]? Pensa ora,  
 la [[concepts/history|Storia]] ha molti passaggi astuti, corridoi artificiosi  
@@ -900,7 +900,7 @@ ci sono imposte dai nostri impudenti delitti.
 Queste [[motifs/tears|lacrime]] sono scosse giù dall’albero che porta l’ira.  
 La tigre balza nel nuovo anno. Ci divora. Pensa infine:  
 non siamo giunti a conclusione, quando io  
-m’irrigidisco in una [[house|casa]] in affitto. Pensa infine:  
+m’irrigidisco in una casa in affitto. Pensa infine:  
 non ho fatto questa esibizione senza scopo  
 e non è per alcuna concitazione  
 dei demoni all’indietro.  
@@ -924,7 +924,7 @@ di Belle Isle, o correndo sull’Horn.
 Piume bianche nella [[motifs/snow|neve]], il Golfo reclama,  
 e un vecchio sospinto dagli Alisei  
 in un angolo assonnato.  
-                                                 Inquilini della [[house|casa]],  
+                                                 Inquilini della casa,  
 pensieri di un cervello arido in una stagione arida.
 
 
@@ -939,7 +939,7 @@ The zebra stripes along his jaw
 Swelling to maculate giraffe.  
 The circles of the stormy [[motifs/moon|moon]]  
 Slide westward toward the [[motifs/river|River]] Plate,  
-[[motifs/death|Death]] and [[The Raven|the Raven]] drift above  
+[[motifs/death|Death]] and the Raven drift above  
 And [[characters/sweeney|Sweeney]] guards the hornèd gate.  
 Gloomy Orion and the Dog  
 Are veiled; and hushed the shrunken seas;  
@@ -986,7 +986,7 @@ le strisce zebrate lungo la mascella
 gonfiandosi in giraffa maculata.  
 I cerchi della [[motifs/moon|luna]] tempestosa  
 scivolano a occidente verso il [[motifs/river|Río]] de la Plata,  
-la [[motifs/death|Morte]] e [[The Raven|il Corvo]] vanno alla deriva lassù  
+la [[motifs/death|Morte]] e il Corvo vanno alla deriva lassù  
 e [[characters/sweeney|Sweeney]] custodisce la porta cornea.  
 Cupo Orione e il Cane  
 sono velati; e taciuti i mari rattrappiti;  

@@ -17,7 +17,7 @@ tags:
 VERA
 OR, THE NIHILISTS.
 A DRAMA IN A PROLOGUE AND FOUR ACTS.
-Wilde’s first attempt at drama is a melodramatic [[forms/tragedy|tragedy]] set in [[settings/russia|Russia]], concerning the real life figure of Vera Ivanovna Zasulich, a Marxist writer and revolutionary. The play was first performed in [[settings/new-york|New York]] in 1882, whilst Wilde was lecturing in [[settings/america|America]], but it was not a [[success]] and quickly folded, being rarely performed today.
+Wilde’s first attempt at drama is a melodramatic [[forms/tragedy|tragedy]] set in [[settings/russia|Russia]], concerning the real life figure of Vera Ivanovna Zasulich, a Marxist writer and revolutionary. The play was first performed in [[settings/new-york|New York]] in 1882, whilst Wilde was lecturing in [[settings/america|America]], but it was not a success and quickly folded, being rarely performed today.
 The drama introduces Vera, who works as a barmaid in her father’s tavern, situated near the [[motifs/prison|prison]] camps in Siberia. One day, as a gang of prisoners stop at the tavern, Vera recognises her brother Dmitri as one of the prisoners. In an impassioned speech, he begs her to go to Moscow and join the Nihilists, a terrorism group trying to assassinate the Czar and avenge his [[concepts/imprisonment|imprisonment]]. Vera at once finds herself immersed in a dangerous world of terrorism and intrigue.
 
 Vera Ivanovna Zasulich (1849-1919)
@@ -67,7 +67,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | Scene. — 99 Rue Tchernavaya, Moscow. A large garret lit by oil lamps hung from ceiling. Some masked men standing silent and apart from one another. A man in a scarlet mask is writing at a table. Door at back. Man in yellow with drawn [[Sword\|sword]] at it. Knocks heard. Figures in cloaks and masks enter. |
+| *(didascalia)* | Scene. — 99 Rue Tchernavaya, Moscow. A large garret lit by oil lamps hung from ceiling. Some masked men standing silent and apart from one another. A man in a scarlet mask is writing at a table. Door at back. Man in yellow with drawn sword at it. Knocks heard. Figures in cloaks and masks enter. |
 | Password | Per crucem ad lucem. |
 | Answer | Per sanguinem ad libertatem. |
 | *(didascalia)* | ([[motifs/clock\|Clock]] strikes. Conspirators form a semicircle in the middle of the stage.) |
@@ -97,7 +97,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Mich | Would that she were! We can do little without her. |
 | Alexis | She cannot have been seized, President? but the police are on her track, I know. |
 | Mich | You always seem to know a good deal about the movements of the police in Moscow — too much for an honest conspirator. |
-| Pres | If those [[dogs]] have caught her, the red [[motifs/flag\|flag]] of the people will float on a barricade in every street till we find her! It was foolish of her to go to the Grand Duke’s ball. I told her so, but she said she wanted to see the Czar and all his cursed brood face to face once. |
+| Pres | If those dogs have caught her, the red [[motifs/flag\|flag]] of the people will float on a barricade in every street till we find her! It was foolish of her to go to the Grand Duke’s ball. I told her so, but she said she wanted to see the Czar and all his cursed brood face to face once. |
 | Alexis | Gone to the State ball? |
 | Mich | I have no [[concepts/fear\|fear]]. She is as hard to capture as a she-wolf is, and twice as dangerous; besides, she is [[motifs/well\|well]] disguised. But is there any news from the Palace to-[[motifs/night\|night]], President? What is that bloody despot doing now besides torturing his only son? Have any of you seen him? One hears strange stories about him. They say he loves the people; but a [[archetypes/king\|king]]’s son never does that. You cannot breed them like that. |
 
@@ -130,9 +130,9 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Professor | The subject, my good brother, is assassination considered as a method of political [[concepts/reform\|reform]]. |
 | Mich | I think little of pen and ink in revolutions. One dagger will do more than a hundred epigrams. Still, let us read this scholar’s last production. Give it to me. I will read it myself. |
 | Prof | Brother, you never mind your stops; let Alexis read it. |
-| Mich | Ay! he is as tripping of speech as if he were some young [[aristocrat]]; but for my own part I care not for the stops so that the sense be plain. |
+| Mich | Ay! he is as tripping of speech as if he were some young aristocrat; but for my own part I care not for the stops so that the sense be plain. |
 | Alex | (reading). “The past has belonged to the [[archetypes/tyrant\|tyrant]], and he has defiled it; ours is the future, and we shall make it holy.” Ay! let us make the future holy; let there be one revolution at least which is not bred in crime, nurtured in murder! |
-| Mich | They have spoken to us by the [[Sword\|sword]], and by the [[Sword\|sword]] we shall answer! You are too delicate for us, Alexis. There should be none here but men whose hands are rough with labour or red with [[motifs/blood\|blood]]. |
+| Mich | They have spoken to us by the sword, and by the sword we shall answer! You are too delicate for us, Alexis. There should be none here but men whose hands are rough with labour or red with [[motifs/blood\|blood]]. |
 
 
 
@@ -155,7 +155,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Omnes | Martial law! We are lost! We are lost! |
 | Alex | Martial law! Impossible! |
 | Mich | [[archetypes/fool\|Fool]], nothing is impossible in [[settings/russia\|Russia]] but [[concepts/reform\|reform]]. |
-| Vera | Ay, martial law. The last right to which the people clung has been taken from them. Without trial, without appeal, without accuser even, our brothers will be taken from their houses, shot in the streets like [[dogs]], sent away to die in the [[motifs/snow\|snow]], to starve in the dungeon, to rot in the mine. Do you know what martial law means? It means the strangling of a whole nation. The streets will be filled with soldiers [[motifs/night\|night]] and day; there will be sentinels at every door. No man dare walk abroad now but the spy or the traitor. Cooped up in the dens we hide in, meeting by stealth, speaking with bated breath; what good can we do now for [[settings/russia\|Russia]]? |
+| Vera | Ay, martial law. The last right to which the people clung has been taken from them. Without trial, without appeal, without accuser even, our brothers will be taken from their houses, shot in the streets like dogs, sent away to die in the [[motifs/snow\|snow]], to starve in the dungeon, to rot in the mine. Do you know what martial law means? It means the strangling of a whole nation. The streets will be filled with soldiers [[motifs/night\|night]] and day; there will be sentinels at every door. No man dare walk abroad now but the spy or the traitor. Cooped up in the dens we hide in, meeting by stealth, speaking with bated breath; what good can we do now for [[settings/russia\|Russia]]? |
 | Pres | We can suffer at least. |
 | Vera | We have done that too much already. The hour is now come to annihilate and to [[concepts/revenge\|revenge]]. |
 | Pres | Up to this the people have borne everything. |
@@ -242,7 +242,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Pres | Shall I tell the brethren? |
 | Mich | Not a word, not a word! There is a traitor amongst us. |
 | Vera | Come, are these the proclamations? Yes, they will do; yes, they will do. Send five hundred to Kiev and Odessa and Novgorod, five hundred to Warsaw, and have twice the number distributed among the Southern Provinces, though these dull Russian peasants care little for our proclamations, and less for our martyrdoms. When the blow is struck, it must be from the town, not from the country. |
-| Mich | Ay, and by the [[Sword\|sword]] not by the goose-quill. |
+| Mich | Ay, and by the sword not by the goose-quill. |
 
 
 
@@ -261,7 +261,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Mich | Ay, you! You knew it, none better. Such weapons as these are not forged in a day. Why did you not tell us of it? A week ago there had been [[motifs/time\|time]] to lay the mine, to raise the barricade, to strike one blow at least for liberty. But now the hour is past. It is too late, it is too late! Why did you keep it a secret from us, I say? |
 | Alex | Now by the hand of [[concepts/freedom\|freedom]], [[characters/michael\|Michael]], my brother, you wrong me. I knew nothing of this hideous law. By my [[motifs/soul\|soul]], my brothers, I knew not of it! How should I know? |
 | Mich | Because you are a traitor! Where did you go when you left us the [[motifs/night\|night]] of our last meeting here? |
-| Alex | To mine own [[house]], [[characters/michael\|Michael]]. |
+| Alex | To mine own house, [[characters/michael\|Michael]]. |
 | Mich | Liar! I was on your track. You left here an hour after midnight. Wrapped in a large cloak, you crossed the [[motifs/river\|river]] in a boat a mile below the second bridge, and gave the ferryman a gold piece, you, the poor student of medicine! You doubled back twice, and hid in an archway so long that I had almost made up my mind to stab you at once, only that I am fond of hunting. So! you thought that you had baffled all pursuit, did you? [[archetypes/fool\|Fool]]! I am a bloodhound that never loses the scent. I followed you from street to street. At last I saw you pass swiftly across the Place St. Isaac, whisper to the guards the secret password, enter the palace by a private door with your own key. |
 | Conspirators | The palace! |
 | Vera | Alexis! |
@@ -351,7 +351,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Speaker | Line |
 |---|---|
 | Gen | I shall not forget, Prince. But shall we not see you back to the palace? The State ball is almost over and you are expected. |
-| Alex | I shall be there; but I shall return [[Alone\|alone]]. Remember, not a word about my strolling players. |
+| Alex | I shall be there; but I shall return alone. Remember, not a word about my strolling players. |
 | Gen | Or your pretty gipsy, eh, Prince? your pretty gipsy! I’ [[concepts/faith\|faith]], I should like to see her before I go; she has such fine eyes through her mask. [[motifs/well\|Well]], good [[motifs/night\|night]], your Highness; good [[motifs/night\|night]]. |
 | Alex | Good [[motifs/night\|night]], General. |
 | *(didascalia)* | (Exit General and the soldiers.) |
@@ -423,8 +423,8 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 |---|---|
 | Prince Paul | What has happened to you, my dear Petrovitch? you seem quite out of sorts. You haven’t quarrelled with your cook, I [[concepts/hope\|hope]]? What a [[forms/tragedy\|tragedy]] that would be for you; you would lose all your friends. |
 | Prince Petro | I [[concepts/fear\|fear]] I wouldn’t be so fortunate as that. You forget I would still have my purse. But you are wrong for once; my chef and I are on excellent terms. |
-| Prince Paul | Then your creditors or Mademoiselle [[characters/vera-sabouroff\|Vera Sabouroff]] have been writing to you? I find both of them such excellent correspondents. But really you needn’t be alarmed. I find the most violent proclamations from the Executive Committee, as they call it, left all over my [[house]]. I never read them; they are so badly spelt as a rule. |
-| Prince Petro | Wrong again, Prince; the Nihilists leave me [[Alone\|alone]] for some reason or other. |
+| Prince Paul | Then your creditors or Mademoiselle [[characters/vera-sabouroff\|Vera Sabouroff]] have been writing to you? I find both of them such excellent correspondents. But really you needn’t be alarmed. I find the most violent proclamations from the Executive Committee, as they call it, left all over my house. I never read them; they are so badly spelt as a rule. |
+| Prince Petro | Wrong again, Prince; the Nihilists leave me alone for some reason or other. |
 | Prince Paul | Ah! true. I forgot. Indifference is the [[concepts/revenge\|revenge]] the world takes on mediocrities. |
 | Prince Petro | I am bored with life, Prince. Since the opera season ended I have been a perpetual martyr to ennui. |
 | Prince Paul | The maladie du siècle! You want a new excitement, Prince. Let me see — you have been married twice already; suppose you try — falling in [[motifs/love\|love]], for once. |
@@ -450,7 +450,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Czare | And after [[motifs/death\|death]]? |
 | Prince Paul | Heaven is a despotism. I shall be at [[motifs/home\|home]] there. |
 | Czare | Do you never think of the people and their rights? |
-| Prince Paul | The people and their rights bore me. I am sick of both. In these modern days to be vulgar, illiterate, common and vicious, seems to give a man a marvellous infinity of rights that his honest fathers never dreamed of. Believe me, Prince, in good [[concepts/democracy\|democracy]] every man should be an [[aristocrat]]; but these people in [[settings/russia\|Russia]] who seek to thrust us out are no better than the [[motifs/animals\|animals]] in one’s preserves, and made to be shot at, most of them. |
+| Prince Paul | The people and their rights bore me. I am sick of both. In these modern days to be vulgar, illiterate, common and vicious, seems to give a man a marvellous infinity of rights that his honest fathers never dreamed of. Believe me, Prince, in good [[concepts/democracy\|democracy]] every man should be an aristocrat; but these people in [[settings/russia\|Russia]] who seek to thrust us out are no better than the [[motifs/animals\|animals]] in one’s preserves, and made to be shot at, most of them. |
 | Czare | (excitedly). If they are common, illiterate, vulgar, no better than the beasts of the field, who made them so? |
 | *(didascalia)* | (Enter Aide-de-Camp.) |
 | Aide-de-Camp | His Imperial Majesty, the Emperor! (Prince Paul looks at the Czarevitch, and smiles.) |
@@ -461,7 +461,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Czar | To kiss my hand? There is some plot in it. He wants to [[motifs/poison\|poison]] me. There, kiss my son’s hand; it will do quite as [[motifs/well\|well]]. |
 | *(didascalia)* | (Prince Paul signs to Count Petouchof to leave the room. Exit Petouchof and the guards. Czar sinks down into his chair. The courtiers remain silent.) |
 | Prince Paul | Sire! will your Majesty — |
-| Czar | What do you startle me like that for? No, I won’t. (Watches the courtiers nervously.) Why are you clattering your [[Sword\|sword]], sir? (To Count Rouvaloff.) Take it off, I shall have no man wear a [[Sword\|sword]] in my presence (looking at Czarevitch), least of all my son. (To Prince Paul.) You are not angry with me, Prince? You won’t [[motifs/desert\|desert]] me, will you? Say you won’t [[motifs/desert\|desert]] me. What do you want? You can have anything — anything. |
+| Czar | What do you startle me like that for? No, I won’t. (Watches the courtiers nervously.) Why are you clattering your sword, sir? (To Count Rouvaloff.) Take it off, I shall have no man wear a sword in my presence (looking at Czarevitch), least of all my son. (To Prince Paul.) You are not angry with me, Prince? You won’t [[motifs/desert\|desert]] me, will you? Say you won’t [[motifs/desert\|desert]] me. What do you want? You can have anything — anything. |
 | Prince Paul | Sire, ’tis enough for me to have your confidence. (Aside.) I was afraid he was going to [[concepts/revenge\|revenge]] himself and give me another decoration. |
 | Czar | [[motifs/well\|Well]], gentlemen. |
 | Marq | de Poiv. Sire, I have the [[concepts/honour\|honour]] to present to you a loyal address from your subjects in the Province of Archangel, expressing their horror at the last attempt on your Majesty’s life. |
@@ -492,7 +492,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Czar | I won’t open it. There may be something in it. |
 | Prince Paul | It would be a very disappointing letter, Sire, if there wasn’t. (Takes letter himself, and reads it.) |
 | Prince Petro | (to Count Rouvaloff). It must be some sad news. I know that smile too [[motifs/well\|well]]. |
-| Prince Paul | From the Chief of the Police at Archangel, Sire. “The Governor of the province was shot this morning by a woman as he was entering the courtyard of his own [[house]]. The assassin has been seized.” |
+| Prince Paul | From the Chief of the Police at Archangel, Sire. “The Governor of the province was shot this morning by a woman as he was entering the courtyard of his own house. The assassin has been seized.” |
 
 
 
@@ -606,7 +606,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Czar | A Nihilist! If you have sown with them, you shall reap with them! If you have talked with them, you shall rot with them! If you have lived with them, with them you shall die! |
 | Prince Petro | Die! |
 | Czar | A plague on all sons, I say! There should be no more marriages in [[settings/russia\|Russia]] when one can breed such vipers as you are! Arrest the Czarevitch, I say! |
-| Prince Paul | Czarevitch! by order of the Emperor, I demand your [[Sword\|sword]]. (Czarevitch gives up [[Sword\|sword]]; Prince Paul places it on the table.) Foolish boy! you are not made for a conspirator; you have not learned to hold your tongue. Heroics are out of place in a palace. |
+| Prince Paul | Czarevitch! by order of the Emperor, I demand your sword. (Czarevitch gives up sword; Prince Paul places it on the table.) Foolish boy! you are not made for a conspirator; you have not learned to hold your tongue. Heroics are out of place in a palace. |
 | Czar | O God! |
 | Czare | If I am to die for the people, I am ready; one Nihilist more or less in [[settings/russia\|Russia]], what does that matter? |
 | Prince Paul | A good deal I should say to the one Nihilist. |
@@ -623,8 +623,8 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 |---|---|
 | Czare | Father, Emperor, Imperial Master, I plead not for my own life, but for the lives of my brothers, the people. |
 | Prince Paul | Your brothers, the people, Prince, are not content with their own lives, they always want to take their neighbour’s too. |
-| Czar | I am sick of being afraid. I have done with terror now. From this day I proclaim war against the people — war to their annihilation. As they have dealt with me, so shall I deal with them. I shall grind them to powder, and strew their [[motifs/dust\|dust]] upon the air. There shall be a spy in every man’s [[house]], a traitor on every hearth, a hangman in every village, a gibbet in every square. Plague, leprosy, or fever shall be less deadly than my wrath; I will make every frontier a [[motifs/grave\|grave]]-yard, every province a lazar-[[house]], and cure the sick by the [[Sword\|sword]]. I shall have peace in [[settings/russia\|Russia]], though it be the peace of the dead. Who said I was a coward? Who said I was afraid? See, thus shall I crush this people beneath my feet! (Takes up [[Sword\|sword]] of Czarevitch off table and tramples on it.) |
-| Czare | Father, beware, the [[Sword\|sword]] you tread on may turn and wound you. The people suffer long, but vengeance comes at last, vengeance with red hands and bloody purpose. |
+| Czar | I am sick of being afraid. I have done with terror now. From this day I proclaim war against the people — war to their annihilation. As they have dealt with me, so shall I deal with them. I shall grind them to powder, and strew their [[motifs/dust\|dust]] upon the air. There shall be a spy in every man’s house, a traitor on every hearth, a hangman in every village, a gibbet in every square. Plague, leprosy, or fever shall be less deadly than my wrath; I will make every frontier a [[motifs/grave\|grave]]-yard, every province a lazar-house, and cure the sick by the sword. I shall have peace in [[settings/russia\|Russia]], though it be the peace of the dead. Who said I was a coward? Who said I was afraid? See, thus shall I crush this people beneath my feet! (Takes up sword of Czarevitch off table and tramples on it.) |
+| Czare | Father, beware, the sword you tread on may turn and wound you. The people suffer long, but vengeance comes at last, vengeance with red hands and bloody purpose. |
 | Prince Paul | Bah! the people are bad shots; they always miss one. |
 | Czare | There are times when the people are instruments of God. |
 
@@ -636,7 +636,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 
 | Speaker | Line |
 |---|---|
-| Czar | Ay! and when kings are God’s scourges for the people. Oh, my own son, in my own [[house]]! My own flesh and [[motifs/blood\|blood]] against me! Take him away! Take him away! Bring in my guards. (Enter the Imperial Guard. Czar points to Czarevitch, who stands [[Alone\|alone]] at the side of the stage.) To the blackest [[motifs/prison\|prison]] in Moscow! Let me never see his face again. (Czarevitch is being led out.) No, no, leave him! I don’t trust guards. They are all Nihilists! They would let him escape and he would kill me, kill me! No, I’ll bring him to [[motifs/prison\|prison]] myself, you and I (to Prince Paul). I trust you, you have no [[concepts/mercy\|mercy]]. I shall have no [[concepts/mercy\|mercy]]. Oh, my own son against me! How hot it is! The air stifles me! I feel as if I were going to faint, as if something were at my throat. Open the windows, I say! Out of my sight! Out of my sight! I can’t bear his eyes. Wait, wait for me. (Throws [[motifs/window\|window]] open and goes out on balcony.) |
+| Czar | Ay! and when kings are God’s scourges for the people. Oh, my own son, in my own house! My own flesh and [[motifs/blood\|blood]] against me! Take him away! Take him away! Bring in my guards. (Enter the Imperial Guard. Czar points to Czarevitch, who stands alone at the side of the stage.) To the blackest [[motifs/prison\|prison]] in Moscow! Let me never see his face again. (Czarevitch is being led out.) No, no, leave him! I don’t trust guards. They are all Nihilists! They would let him escape and he would kill me, kill me! No, I’ll bring him to [[motifs/prison\|prison]] myself, you and I (to Prince Paul). I trust you, you have no [[concepts/mercy\|mercy]]. I shall have no [[concepts/mercy\|mercy]]. Oh, my own son against me! How hot it is! The air stifles me! I feel as if I were going to faint, as if something were at my throat. Open the windows, I say! Out of my sight! Out of my sight! I can’t bear his eyes. Wait, wait for me. (Throws [[motifs/window\|window]] open and goes out on balcony.) |
 
 
 
@@ -660,7 +660,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | Same scene and business as Act I. Man in yellow dress, with drawn [[Sword\|sword]], at the door.<br>Password outside. Væ tyrannis. |
+| *(didascalia)* | Same scene and business as Act I. Man in yellow dress, with drawn sword, at the door.<br>Password outside. Væ tyrannis. |
 | Answer | Væ victis (repeated three times). |
 | *(didascalia)* | (Enter Conspirators, who form a semicircle, masked and cloaked.) |
 | President | What hour is it? |
@@ -688,7 +688,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Vera | To Siberia? |
 | Prince Paul | No, to [[settings/paris\|Paris]]. He has confiscated my estates, robbed me of my office and my cook. I have nothing left but my decorations. I am here for [[concepts/revenge\|revenge]]. |
 | Pres | Then you have a right to be one of us. We also meet daily for [[concepts/revenge\|revenge]]. |
-| Prince Paul | You want money, of course. No one ever joins a conspiracy who has any. Here. (Throws money on table.) You have so many spies that I should think you want information. [[motifs/well\|Well]], you will find me the best informed man in [[settings/russia\|Russia]] on the abuses of our [[government\|Government]]. I made them nearly all myself. |
+| Prince Paul | You want money, of course. No one ever joins a conspiracy who has any. Here. (Throws money on table.) You have so many spies that I should think you want information. [[motifs/well\|Well]], you will find me the best informed man in [[settings/russia\|Russia]] on the abuses of our Government. I made them nearly all myself. |
 | Vera | President, I don’t trust this man. He has done us too much harm in [[settings/russia\|Russia]] to let him go in safety. |
 | Prince Paul | Believe me, Mademoiselle, you are wrong; I will be a most valuable addition to your circle; as for you, gentlemen, if I had not thought that you would be useful to me I shouldn’t have risked my neck among you, or dined an hour earlier than usual so as to be in [[motifs/time\|time]]. |
 
@@ -718,7 +718,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Pres | (shrugging his shoulders). Strangle him. |
 | Prince Paul | “The rights of humanity!” In the old times men carried out their rights for themselves as they lived, but nowadays every baby seems born with a social manifesto in its mouth much bigger than itself. “[[concepts/nature\|Nature]] is not a temple, but a workshop: we demand the right to labour.” Ah, I shall surrender my own rights in that respect. |
 | Vera | Oh, will he never come? will he never come? |
-| Prince Paul | “The family as subversive of true socialistic and communal [[unity]] is to be annihilated.” Yes, President, I agree completely with Article 5. A family is a terrible incumbrance, especially when one is not married. (Three knocks at the door.) |
+| Prince Paul | “The family as subversive of true socialistic and communal unity is to be annihilated.” Yes, President, I agree completely with Article 5. A family is a terrible incumbrance, especially when one is not married. (Three knocks at the door.) |
 | Vera | Alexis at last! |
 | Password | Væ tyrannis! |
 | Answer | Væ victis! |
@@ -744,7 +744,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Pres | What a chance his coming out on the balcony was! |
 | Mich | A chance? There is no such thing as chance. It was God’s finger led him there. |
 | Pres | And where have you been these three days? |
-| Mich | Hiding in the [[house]] of the priest Nicholas at the [[motifs/cross\|cross]]-roads. |
+| Mich | Hiding in the house of the priest Nicholas at the [[motifs/cross\|cross]]-roads. |
 | Pres | Nicholas is an honest man. |
 | Mich | Ay, honest enough for a priest. I am here now for vengeance on a traitor! |
 | Vera | O God, will he never come? Alexis! why are you not here? You cannot have turned traitor! |
@@ -783,7 +783,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Pres | Prince, we are in your debt. |
 | Prince Paul | The normal condition of the Nihilists. |
 | Mich | Ay, but we are paying our debts off with interest now. Two Emperors in one week. That will make the balance straight. We would have thrown in a Prime Minister if you had not come. |
-| Prince Paul | Ah, I am sorry you told me. It robs my visit of all its picturesqueness and adventure. I thought I was perilling my head by coming here, and you tell me I have saved it. One is sure to be disappointed if one tries to get [[Romance\|romance]] out of modern life. |
+| Prince Paul | Ah, I am sorry you told me. It robs my visit of all its picturesqueness and adventure. I thought I was perilling my head by coming here, and you tell me I have saved it. One is sure to be disappointed if one tries to get romance out of modern life. |
 | Mich | It is not so romantic a thing to lose one’s head, Prince Paul. |
 | Prince Paul | No, but it must often be very dull to keep it. Don’t you find that sometimes? ([[motifs/clock\|Clock]] strikes six.) |
 | Vera | Oh, it is past the hour! It is past the hour! |
@@ -817,7 +817,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 |---|---|
 | Vera | Not yet! Not yet! I have a word to say. |
 | Mich | (aside). Plague take her! I knew it would come to this. |
-| Vera | This boy has been our brother. [[motifs/night\|Night]] after [[motifs/night\|night]] he has perilled his own life to come here. [[motifs/night\|Night]] after [[motifs/night\|night]], when every street was filled with spies, every [[house]] with traitors. Delicately nurtured like a [[archetypes/king\|king]]’s son, he has dwelt among us. |
+| Vera | This boy has been our brother. [[motifs/night\|Night]] after [[motifs/night\|night]] he has perilled his own life to come here. [[motifs/night\|Night]] after [[motifs/night\|night]], when every street was filled with spies, every house with traitors. Delicately nurtured like a [[archetypes/king\|king]]’s son, he has dwelt among us. |
 | Pres | Ay! under a false name. He lied to us at the beginning. He lies to us now at the end. |
 | Vera | I swear he is true. There is not a man here who does not owe him his life a thousand times. When the bloodhounds were on us that [[motifs/night\|night]], who saved us from arrest, torture, flogging, [[motifs/death\|death]], but he ye seek to kill? — |
 | Mich | To kill all tyrants is our mission! |
@@ -864,7 +864,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 
 | Speaker | Line |
 |---|---|
-| Mich | (holding up his hand). A moment! I have something to say. (Approaches Vera; speaks very slowly.) [[characters/vera-sabouroff\|Vera Sabouroff]], have you forgotten your brother? (Pauses to see effect; Vera starts.) Have you forgotten that young face, pale with famine; those young limbs twisted with torture; the iron [[motifs/chains\|chains]] they made him walk in? What week of liberty did they give him? What pity did they show him for a day? (Vera falls in a chair.) Oh! you could talk glibly enough then of vengeance, glibly enough of liberty. When you said you would come to Moscow, your old father caught you by the knees and begged you not to leave him childless and [[Alone\|alone]]. I seem to hear his cries still ringing in my ears, but you were as deaf to him as the rocks on the roadside; as chill and cold as the [[motifs/snow\|snow]] on the [[motifs/hill\|hill]]. You left your father that [[motifs/night\|night]], and three weeks after he died of a broken heart. You wrote to me to follow you here. I did so; first because I loved you; but you soon cured me of that; whatever gentle feeling, whatever pity, whatever humanity, was in my heart you withered up and destroyed, as the canker worm eats the corn, and the plague kills the [[archetypes/child\|child]]. You bade me cast out [[motifs/love\|love]] from my breast as a vile thing, you turned my hand to iron, and my heart to stone; you told me to live for [[concepts/freedom\|freedom]] and for [[concepts/revenge\|revenge]]. I have done so; but you, what have you done? |
+| Mich | (holding up his hand). A moment! I have something to say. (Approaches Vera; speaks very slowly.) [[characters/vera-sabouroff\|Vera Sabouroff]], have you forgotten your brother? (Pauses to see effect; Vera starts.) Have you forgotten that young face, pale with famine; those young limbs twisted with torture; the iron [[motifs/chains\|chains]] they made him walk in? What week of liberty did they give him? What pity did they show him for a day? (Vera falls in a chair.) Oh! you could talk glibly enough then of vengeance, glibly enough of liberty. When you said you would come to Moscow, your old father caught you by the knees and begged you not to leave him childless and alone. I seem to hear his cries still ringing in my ears, but you were as deaf to him as the rocks on the roadside; as chill and cold as the [[motifs/snow\|snow]] on the [[motifs/hill\|hill]]. You left your father that [[motifs/night\|night]], and three weeks after he died of a broken heart. You wrote to me to follow you here. I did so; first because I loved you; but you soon cured me of that; whatever gentle feeling, whatever pity, whatever humanity, was in my heart you withered up and destroyed, as the canker worm eats the corn, and the plague kills the [[archetypes/child\|child]]. You bade me cast out [[motifs/love\|love]] from my breast as a vile thing, you turned my hand to iron, and my heart to stone; you told me to live for [[concepts/freedom\|freedom]] and for [[concepts/revenge\|revenge]]. I have done so; but you, what have you done? |
 
 
 
@@ -884,7 +884,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Vera | The lot is mine! see the bloody sign upon it! Dmitri, my brother, you shall have your [[concepts/revenge\|revenge]] now. |
 | Pres | [[characters/vera-sabouroff\|Vera Sabouroff]], you are chosen to be a regicide. God has been good to you. The dagger or the [[motifs/poison\|poison]]? (Offers her dagger and vial.) |
 | Vera | I can trust my hand better with the dagger; it never fails. (Take dagger.) I shall stab him to the heart, as he has stabbed me. Traitor, to leave us for a ribbon, a gaud, a bauble, to lie to me every day he came here, to forget us in an hour. [[characters/michael\|Michael]] was right, he loved me not, nor the people either. Methinks that if I was a mother and bore a man-[[archetypes/child\|child]] I would [[motifs/poison\|poison]] my breast to him, lest he might grow to a traitor or to a [[archetypes/king\|king]]. (Prince Paul whispers to the President.) |
-| Pres | Ay, Prince Paul, that is the best way. Vera, the Czar sleeps to-[[motifs/night\|night]] in his own room in the north wing of the palace. Here is the key of the private door in the street. The passwords of the guards will be given to you. His own servants will be drugged. You will find him [[Alone\|alone]]. |
+| Pres | Ay, Prince Paul, that is the best way. Vera, the Czar sleeps to-[[motifs/night\|night]] in his own room in the north wing of the palace. Here is the key of the private door in the street. The passwords of the guards will be given to you. His own servants will be drugged. You will find him alone. |
 | Vera | It is [[motifs/well\|well]]. I shall not fail. |
 | Pres | We will wait outside in the Place St. Isaac, under the [[motifs/window\|window]]. As the [[motifs/clock\|clock]] strikes twelve from the tower of St. Nicholas you will give us the sign that the dog is dead. |
 | Vera | And what shall the sign be? |
@@ -916,7 +916,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 
 | Speaker | Line |
 |---|---|
-| Vera | Ay, red with the [[motifs/blood\|blood]] of that false heart. I shall not forget it. (Standing in the middle of the stage.) To strangle whatever [[concepts/nature\|nature]] is in me, neither to [[motifs/love\|love]] nor to be loved, neither to pity nor to be pitied. Ay! it is an oath, an oath. Methinks the spirit of Charlotte Corday has entered my [[motifs/soul\|soul]] now. I shall carve my name on the world, and be ranked among the great heroines. Ay! the spirit of Charlotte Corday beats in each petty vein, and nerves my woman’s hand to strike, as I have nerved my woman’s heart to hate. Though he laughs in his [[motifs/dreams\|dreams]], I shall not falter. Though he [[motifs/sleep\|sleep]] peacefully I shall not miss my blow. Be glad, my brother, in your stifled cell; be glad and laugh to-[[motifs/night\|night]]. To-[[motifs/night\|night]] this new-fledged Czar shall post with bloody feet to Hell, and greet his father there! This Czar! O traitor, liar, false to his oath, false to me! To play the patriot amongst us, and now to wear a [[motifs/crown\|crown]]; to sell us, like Judas, for thirty silver pieces, to betray us with a kiss! (With more passion.) O Liberty, O mighty mother of eternal [[motifs/time\|time]], thy robe is purple with the [[motifs/blood\|blood]] of those who have died for thee! Thy throne is the Calvary of the people, thy [[motifs/crown\|crown]] the [[motifs/crown\|crown]] of thorns. O crucified mother, the despot has driven a nail through thy right hand, and the [[archetypes/tyrant\|tyrant]] through thy left! Thy feet are pierced with their iron. When thou wert athirst thou calledst on the priests for [[motifs/water\|water]], and they gave thee bitter drink. They thrust a [[Sword\|sword]] into thy side. They mocked thee in thine agony of age on age. Here, on thy altar, O Liberty, do I dedicate myself to thy service; do with me as thou wilt! (Brandishing dagger.) The end has come now, and by thy sacred wounds, O crucified mother, O Liberty, I swear that [[settings/russia\|Russia]] shall be saved! |
+| Vera | Ay, red with the [[motifs/blood\|blood]] of that false heart. I shall not forget it. (Standing in the middle of the stage.) To strangle whatever [[concepts/nature\|nature]] is in me, neither to [[motifs/love\|love]] nor to be loved, neither to pity nor to be pitied. Ay! it is an oath, an oath. Methinks the spirit of Charlotte Corday has entered my [[motifs/soul\|soul]] now. I shall carve my name on the world, and be ranked among the great heroines. Ay! the spirit of Charlotte Corday beats in each petty vein, and nerves my woman’s hand to strike, as I have nerved my woman’s heart to hate. Though he laughs in his [[motifs/dreams\|dreams]], I shall not falter. Though he [[motifs/sleep\|sleep]] peacefully I shall not miss my blow. Be glad, my brother, in your stifled cell; be glad and laugh to-[[motifs/night\|night]]. To-[[motifs/night\|night]] this new-fledged Czar shall post with bloody feet to Hell, and greet his father there! This Czar! O traitor, liar, false to his oath, false to me! To play the patriot amongst us, and now to wear a [[motifs/crown\|crown]]; to sell us, like Judas, for thirty silver pieces, to betray us with a kiss! (With more passion.) O Liberty, O mighty mother of eternal [[motifs/time\|time]], thy robe is purple with the [[motifs/blood\|blood]] of those who have died for thee! Thy throne is the Calvary of the people, thy [[motifs/crown\|crown]] the [[motifs/crown\|crown]] of thorns. O crucified mother, the despot has driven a nail through thy right hand, and the [[archetypes/tyrant\|tyrant]] through thy left! Thy feet are pierced with their iron. When thou wert athirst thou calledst on the priests for [[motifs/water\|water]], and they gave thee bitter drink. They thrust a sword into thy side. They mocked thee in thine agony of age on age. Here, on thy altar, O Liberty, do I dedicate myself to thy service; do with me as thou wilt! (Brandishing dagger.) The end has come now, and by thy sacred wounds, O crucified mother, O Liberty, I swear that [[settings/russia\|Russia]] shall be saved! |
 
 
 
@@ -962,13 +962,13 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Gen | Kotemk. You are always getting money. I never get a single kopeck I have not got a right to. It’s unbearable; it’s ridiculous! My nephew is going to be married. I must get his dowry for him. |
 | Prince Petro | My dear General, your nephew must be a perfect Turk. He seems to get married three times a week regularly. |
 | Gen | Kot. [[motifs/well\|Well]], he wants a dowry to console him. |
-| Count R | I am sick of town. I want a [[house]] in the country. |
-| Marq | de Poiv. I am sick of the country. I want a [[house]] in town. |
+| Count R | I am sick of town. I want a house in the country. |
+| Marq | de Poiv. I am sick of the country. I want a house in town. |
 | Baron Raff | Mes amis, I am extremely sorry for you. It is out of the question. |
 | Prince Petro | But my son, Baron? |
 | Gen | Kotemk. But my nephew? |
-| Marq | de Poiv. But my [[house]] in town? |
-| Count R | But my [[house]] in the country? |
+| Marq | de Poiv. But my house in town? |
+| Count R | But my house in the country? |
 | Marq | de Poiv. But my wife’s diamond bracelet? |
 | Baron Raff | Gentlemen, impossible! The old regime in [[settings/russia\|Russia]] is dead; the funeral begins to-day. |
 | Count R | Then I shall wait for the [[concepts/resurrection\|resurrection]]. |
@@ -1006,7 +1006,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 
 | Speaker | Line |
 |---|---|
-| Czar | Then I banish you for your bad jokes. Bon voyage, Messieurs. If you value your lives you will catch the first train for [[settings/paris\|Paris]]. (Exeunt Ministers.) [[settings/russia\|Russia]] is [[motifs/well\|well]] rid of such men as these. They are the jackals that follow in the [[motifs/lion\|lion]]’s track. They have no [[concepts/courage\|courage]] themselves, except to pillage and rob. But for these men and for Prince Paul my father would have been a good [[archetypes/king\|king]], would not have died so horribly as he did die. How strange it is, the most real parts of one’s life always seem to be [[A Dream\|a dream]]! The council, the fearful law which was to kill the people, the arrest, the cry in the courtyard, the [[characters/pistol\|pistol]]-shot, my father’s bloody hands, and then the [[motifs/crown\|crown]]! One can live for years sometimes, without living at all, and then all life comes crowding into a single hour. I had no [[motifs/time\|time]] to think. Before my father’s hideous shriek of [[motifs/death\|death]] had died in my ears I found this [[motifs/crown\|crown]] on my head, the purple robe around me, and heard myself called a [[archetypes/king\|king]]. I would have given it up all then; it seemed nothing to me then; but now, can I give it up now? [[motifs/well\|Well]], Colonel, [[motifs/well\|well]]? (Enter Colonel of the Guard.) |
+| Czar | Then I banish you for your bad jokes. Bon voyage, Messieurs. If you value your lives you will catch the first train for [[settings/paris\|Paris]]. (Exeunt Ministers.) [[settings/russia\|Russia]] is [[motifs/well\|well]] rid of such men as these. They are the jackals that follow in the [[motifs/lion\|lion]]’s track. They have no [[concepts/courage\|courage]] themselves, except to pillage and rob. But for these men and for Prince Paul my father would have been a good [[archetypes/king\|king]], would not have died so horribly as he did die. How strange it is, the most real parts of one’s life always seem to be a dream! The council, the fearful law which was to kill the people, the arrest, the cry in the courtyard, the [[characters/pistol\|pistol]]-shot, my father’s bloody hands, and then the [[motifs/crown\|crown]]! One can live for years sometimes, without living at all, and then all life comes crowding into a single hour. I had no [[motifs/time\|time]] to think. Before my father’s hideous shriek of [[motifs/death\|death]] had died in my ears I found this [[motifs/crown\|crown]] on my head, the purple robe around me, and heard myself called a [[archetypes/king\|king]]. I would have given it up all then; it seemed nothing to me then; but now, can I give it up now? [[motifs/well\|Well]], Colonel, [[motifs/well\|well]]? (Enter Colonel of the Guard.) |
 
 
 
@@ -1041,7 +1041,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | *(didascalia)* | (Enter Page.) |
 | Page | It is after eleven, Sire. Shall I take the first watch in your room to-[[motifs/night\|night]]? |
 | Czar | Why should you watch me, boy? The [[motifs/stars\|stars]] are my best sentinels. |
-| Page | It was your Imperial father’s wish, Sire, never to be left [[Alone\|alone]] while he slept. |
+| Page | It was your Imperial father’s wish, Sire, never to be left alone while he slept. |
 | Czar | My father was troubled with bad [[motifs/dreams\|dreams]]. Go, get to your bed, boy; it is nigh on midnight, and these late hours will spoil those red cheeks. (Page tries to kiss his hand.) Nay, nay; we have played together too often as children for that. Oh, to breathe the same air as her, and not to see her! the light seems to have gone from my life, the sun vanished from my day. |
 | Page | Sire, — Alexis, — let me stay with you to-[[motifs/night\|night]]! There is some danger over you; I feel there is. |
 
@@ -1074,7 +1074,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 
 | Speaker | Line |
 |---|---|
-| Czar | Vera, you here! My dream was no dream at all. Why have you left me three days [[Alone\|alone]], when I most needed you? O God, you think I am a traitor, a liar, a [[archetypes/king\|king]]? I am, for [[motifs/love\|love]] of you. Vera, it was for you I broke my oath and wear my father’s [[motifs/crown\|crown]]. I would lay at your feet this mighty [[settings/russia\|Russia]], which you and I have loved so [[motifs/well\|well]]; would give you this earth as a footstool! set this [[motifs/crown\|crown]] on your head. The people will [[motifs/love\|love]] us. We will rule them by [[motifs/love\|love]], as a father rules his children. There shall be liberty in [[settings/russia\|Russia]] for every man to think as his heart bids him; liberty for men to speak as they think. I have banished the wolves that preyed on us; I have brought back your brother from Siberia; I have opened the blackened jaws of the mine. The courier is already on his way; within a week Dmitri and all those with him will be back in their own land. The people shall be free — are free now — and you and I, Emperor and Empress of this mighty realm, will walk among them openly, in [[motifs/love\|love]]. When they gave me this [[motifs/crown\|crown]] first, I would have flung it back to them, had it not been for you, Vera. O God! It is men’s custom in [[settings/russia\|Russia]] to bring gifts to those they [[motifs/love\|love]]. I said, I will bring to the woman I [[motifs/love\|love]] a people, an empire, a world! Vera, it is for you, for you [[Alone\|alone]], I kept this [[motifs/crown\|crown]]; for you [[Alone\|alone]] I am a [[archetypes/king\|king]]. Oh, I have loved you better than my oath! Why will you not speak to me? You [[motifs/love\|love]] me not! You [[motifs/love\|love]] me not! You have come to warn me of some plot against my life. What is life worth to me without you? (Conspirators murmur outside.) |
+| Czar | Vera, you here! My dream was no dream at all. Why have you left me three days alone, when I most needed you? O God, you think I am a traitor, a liar, a [[archetypes/king\|king]]? I am, for [[motifs/love\|love]] of you. Vera, it was for you I broke my oath and wear my father’s [[motifs/crown\|crown]]. I would lay at your feet this mighty [[settings/russia\|Russia]], which you and I have loved so [[motifs/well\|well]]; would give you this earth as a footstool! set this [[motifs/crown\|crown]] on your head. The people will [[motifs/love\|love]] us. We will rule them by [[motifs/love\|love]], as a father rules his children. There shall be liberty in [[settings/russia\|Russia]] for every man to think as his heart bids him; liberty for men to speak as they think. I have banished the wolves that preyed on us; I have brought back your brother from Siberia; I have opened the blackened jaws of the mine. The courier is already on his way; within a week Dmitri and all those with him will be back in their own land. The people shall be free — are free now — and you and I, Emperor and Empress of this mighty realm, will walk among them openly, in [[motifs/love\|love]]. When they gave me this [[motifs/crown\|crown]] first, I would have flung it back to them, had it not been for you, Vera. O God! It is men’s custom in [[settings/russia\|Russia]] to bring gifts to those they [[motifs/love\|love]]. I said, I will bring to the woman I [[motifs/love\|love]] a people, an empire, a world! Vera, it is for you, for you alone, I kept this [[motifs/crown\|crown]]; for you alone I am a [[archetypes/king\|king]]. Oh, I have loved you better than my oath! Why will you not speak to me? You [[motifs/love\|love]] me not! You [[motifs/love\|love]] me not! You have come to warn me of some plot against my life. What is life worth to me without you? (Conspirators murmur outside.) |
 
 
 
@@ -1103,7 +1103,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Vera | Methought that some one laughed. |
 | Czar | It was but the [[motifs/wind\|wind]] and rain; the [[motifs/night\|night]] is full of [[motifs/storm\|storm]]. (Conspirators murmur outside.) |
 | Vera | It should be so indeed. Oh, where are your guards? where are your guards? |
-| Czar | Where should they be but at [[motifs/home\|home]]? I shall not live pent round by [[Sword\|sword]] and steel. The [[motifs/love\|love]] of a people is a [[archetypes/king\|king]]’s best [[concepts/body\|body]]-guard. |
+| Czar | Where should they be but at [[motifs/home\|home]]? I shall not live pent round by sword and steel. The [[motifs/love\|love]] of a people is a [[archetypes/king\|king]]’s best [[concepts/body\|body]]-guard. |
 | Vera | The [[motifs/love\|love]] of a people! |
 | Czar | Sweet, you are safe here. Nothing can harm you here. O [[motifs/love\|love]], I knew you trusted me! You said you would have trust. |
 | Vera | I have had trust. O [[motifs/love\|love]], the past seems but some dull grey dream from which our souls have wakened. This is life at last. |
@@ -1117,7 +1117,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Speaker | Line |
 |---|---|
 | Czar | Ay, life at last. |
-| Vera | Our wedding [[motifs/night\|night]]! Oh, let me drink my fill of [[motifs/love\|love]] to-[[motifs/night\|night]]! Nay, sweet, not yet, not yet. How still it is, and yet methinks the air is full of music. It is some [[motifs/nightingale\|nightingale]] who, wearying of the south, has come to sing in this bleak north to [[lovers]] such as we. It is the [[motifs/nightingale\|nightingale]]. Dost thou not hear it? |
+| Vera | Our wedding [[motifs/night\|night]]! Oh, let me drink my fill of [[motifs/love\|love]] to-[[motifs/night\|night]]! Nay, sweet, not yet, not yet. How still it is, and yet methinks the air is full of music. It is some [[motifs/nightingale\|nightingale]] who, wearying of the south, has come to sing in this bleak north to lovers such as we. It is the [[motifs/nightingale\|nightingale]]. Dost thou not hear it? |
 | Czar | Oh, sweet, mine ears are clogged to all sweet sounds save thine own voice, and mine eyes blinded to all sights but thee, else had I heard that [[motifs/nightingale\|nightingale]], and seen the golden-vestured morning sun itself steal from its sombre east before its [[motifs/time\|time]] for [[concepts/jealousy\|jealousy]] that thou art twice as fair. |
 | Vera | Yet would that thou hadst heard the [[motifs/nightingale\|nightingale]]. Methinks that bird will never sing again. |
 | Czar | It is no [[motifs/nightingale\|nightingale]]. ’Tis [[motifs/love\|love]] himself singing for very ecstasy of joy that thou art changed into his votaress. ([[motifs/clock\|Clock]] begins striking twelve.) Oh, listen, sweet, it is the [[archetypes/lover\|lover]]’s hour. Come, let us stand without, and hear the midnight answered from tower to tower over the wide white town. Our wedding [[motifs/night\|night]]! What is that? What is that? |
@@ -1208,7 +1208,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Peter | Why, more whisky, your Excellency. |
 | Colonel | What clods these peasants are! You have a better room than this? |
 | Peter | Yes, sir. |
-| Colonel | Bring me there. Sergeant, post your picket outside, and see that these scoundrels do not communicate with any one. No letter writing, you [[dogs]], or you’ll be flogged for it. Now for the venison. (To Peter bowing before him.) Get out of the way, you [[archetypes/fool\|fool]]! Who is that girl? (sees Vera). |
+| Colonel | Bring me there. Sergeant, post your picket outside, and see that these scoundrels do not communicate with any one. No letter writing, you dogs, or you’ll be flogged for it. Now for the venison. (To Peter bowing before him.) Get out of the way, you [[archetypes/fool\|fool]]! Who is that girl? (sees Vera). |
 | Peter | My daughter, your Highness. |
 | Colonel | Can she read and write? |
 | Peter | Ay, that she can, sir. |
@@ -1253,7 +1253,7 @@ Scene, Moscow. [[motifs/time|Time]], 1800.
 | Vera | You must escape, Dmitri. I will take your place. |
 | Dmitri | Impossible! You can only [[concepts/revenge\|revenge]] us. |
 | Vera | I shall [[concepts/revenge\|revenge]] you. |
-| Dmitri | Listen! there is a [[house]] in Moscow — |
+| Dmitri | Listen! there is a house in Moscow — |
 | Sergeant | Prisoners, attention! — the Colonel is coming — young woman, your [[motifs/time\|time]] is up. |
 | *(didascalia)* | (Enter Colonel, Aide-de-Camp and Peter.) |
 | Peter | I [[concepts/hope\|hope]] your Highness is pleased with the venison. I shot it myself. |

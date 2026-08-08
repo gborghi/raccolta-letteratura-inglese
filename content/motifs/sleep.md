@@ -32,30 +32,30 @@ tags:
 - [[works/the-pains-of-sleep-(coleridge)|THE PAINS OF SLEEP (Coleridge)]]
 - [[works/the-virgin’s-cradle-hymn-(coleridge)|THE VIRGIN’S CRADLE-HYMN (Coleridge)]]
 - [[works/the-visionary-hope-(coleridge)|THE VISIONARY HOPE (Coleridge)]]
-- 112. Where bells no more affright the morn — (Dickinson)
-- 120. If this is fading (Dickinson)
-- 13. Sleep is supposed to be (Dickinson)
-- 133. As Children bid the Guest Good Night (Dickinson)
-- 142. Whose are the little beds, I asked (Dickinson)
-- 1428. Water makes many Beds (Dickinson)
-- 146. On such a night, or such a night, (Dickinson)
-- 1533. On that specific Pillow (Dickinson)
-- 1759. Which misses most, (Dickinson)
-- 216. Safe in their alabaster chambers (Dickinson)
-- 333. The Grass so little has to do — (Dickinson)
-- 363. I went to thank Her — (Dickinson)
-- 369. She lay as if at play (Dickinson)
-- 423. The Months have ends — the Years — a knot — (Dickinson)
-- 45. There's something quieter than sleep (Dickinson)
-- 450. Dreams — are well — but Waking's better, (Dickinson)
-- 536. The Heart asks Pleasure — first — (Dickinson)
-- 542. I had no Cause to be awake — (Dickinson)
-- 617. Don't put up my Thread and Needle — (Dickinson)
-- 654. A long — long Sleep — A famous — Sleep — (Dickinson)
-- 829. Ample make this Bed — (Dickinson)
-- 96. Sexton! My Master's sleeping here. (Dickinson)
-- 970. Color — Caste — Denomination — (Dickinson)
-- 99. New feet within my garden go — (Dickinson)
+- [[testi/dickinson/atomized/death-silence-bells#0112_where_bells_no_more_affright_the_morn|112. Where bells no more affright the morn — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0120_if_this_is_fading|120. If this is fading (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0013_sleep_is_supposed_to_be|13. Sleep is supposed to be (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0133_as_children_bid_the_guest_good_night|133. As Children bid the Guest Good Night (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0142_whose_are_the_little_beds_i_asked|142. Whose are the little beds, I asked (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1428_water_makes_many_beds|1428. Water makes many Beds (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0146_on_such_a_night_or_such_a_night|146. On such a night, or such a night, (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1533_on_that_specific_pillow|1533. On that specific Pillow (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1759_which_misses_most|1759. Which misses most, (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0216_safe_in_their_alabaster_chambers|216. Safe in their alabaster chambers (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0333_the_grass_so_little_has_to_do|333. The Grass so little has to do — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0363_i_went_to_thank_her|363. I went to thank Her — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0369_she_lay_as_if_at_play|369. She lay as if at play (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0423_the_months_have_ends_the_years_a_knot|423. The Months have ends — the Years — a knot — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0045_theres_something_quieter_than_sleep|45. There's something quieter than sleep (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0450_dreams_are_well_but_wakings_better|450. Dreams — are well — but Waking's better, (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0536_the_heart_asks_pleasure_first|536. The Heart asks Pleasure — first — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0542_i_had_no_cause_to_be_awake|542. I had no Cause to be awake — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0617_dont_put_up_my_thread_and_needle|617. Don't put up my Thread and Needle — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0654_a_long_long_sleep_a_famous_sleep|654. A long — long Sleep — A famous — Sleep — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0829_ample_make_this_bed|829. Ample make this Bed — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0096_sexton_my_masters_sleeping_here|96. Sexton! My Master's sleeping here. (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0970_color_caste_denomination|970. Color — Caste — Denomination — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0099_new_feet_within_my_garden_go|99. New feet within my garden go — (Dickinson)]]
 - [[works/lines-(keats)|Lines (Keats)]]
 - [[works/on-death-(keats)|On Death (Keats)]]
 - [[works/sleep-and-poetry-(keats)|SLEEP AND POETRY (Keats)]]
@@ -68,10 +68,10 @@ tags:
 - [[works/the-sleeper-(poe)|The Sleeper (Poe)]]
 - [[works/cymbeline-(shakespeare)|CYMBELINE (Shakespeare)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
-- Sonnet 27 (Shakespeare)
-- Sonnet 43 (Shakespeare)
-- Sonnet 61 (Shakespeare)
-- Sonnet 87 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_027|Sonnet 27 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_043|Sonnet 43 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_061|Sonnet 61 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_087|Sonnet 87 (Shakespeare)]]
 - [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
 - [[works/a-clear-midnight-(whitman)|A Clear Midnight (Whitman)]]
 - [[works/camps-of-green-(whitman)|Camps of Green (Whitman)]]

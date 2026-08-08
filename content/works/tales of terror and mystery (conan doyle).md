@@ -52,5 +52,5 @@ tags:
 **Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/fear|Fear]], [[concepts/crime-and-punishment|Crime and Punishment]]
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/supernatural|Supernatural]], [[motifs/blood|Blood]], [[motifs/secrets|Secrets]]
 **Settings:** [[settings/london|London]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]]
-**Archetypes:** Detective, Villain, Ghost
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]], [[archetypes/ghost|Ghost]]
 **Topoi:** [[topoi/memento-mori|Memento Mori]]

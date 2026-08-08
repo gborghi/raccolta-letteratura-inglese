@@ -27,7 +27,7 @@ Un freddo pomeriggio di novembre… Avevo appena completato…
 
 Un pasto insolitamente sostanzioso, nel quale il tartufo, utile per i disturbi digestivi, giocò un ruolo importante…
 
-Non l’elemento meno importante. Era seduto [[Alone|da solo]] lì dentro.
+Non l’elemento meno importante. Era seduto da solo lì dentro.
 
 Sala da pranzo, con i piedi appoggiati al parapetto e accanto a me…
 
@@ -49,7 +49,7 @@ Con l’aiuto di abbondanti quantità di Lafitte… e, quando anche questo non b
 
 Un giornale abbandonato, nel mezzo del [[concepts/despair|dispero]]. Dopo averlo letto attentamente, quella rubrica.
 
-Della sezione “case in affitto” e della colonna “[[dogs|cani]] persi”, e poi.
+Della sezione “case in affitto” e della colonna “cani persi”, e poi.
 
 “Due colonne intitolate ‘Mogli e apprendisti fuggiti’, le ho analizzate attentamente…”
 
@@ -331,7 +331,7 @@ occhi.
 
 
 
-“Mio Dio!”, disse l’[[The Angel of the Odd|Angelo dell’Impariato]], apparentemente molto commosso.
+“Mio Dio!”, disse l’Angelo dell’Impariato, apparentemente molto commosso.
 
 Titolo:  
 "Nel mio momento di difficoltà… ‘Mio Dio, quell’uomo è o ubriaco o pazzo’"
@@ -344,7 +344,7 @@ Vino… Bevi un po’, come un vero gentiluomo, e non fare storie.
 
 
 
-Allora [[The Angel of the Odd|l’Angelo dell’Impari]] riempì di nuovo il mio calice (che era vuoto).
+Allora l’Angelo dell’Impari riempì di nuovo il mio calice (che era vuoto).
 
 Una terza parte piena di Porto… e un liquido incolore che versò
 
@@ -372,9 +372,9 @@ Il genio che ha guidato attraverso i contrattempi dell’umanità…
 Titolo:  
 A chi spettava il compito di causare quegli strani incidenti…
 
-continuano a sorprendere il [[skeptic|scettico]]. Una o due volte, quando ero.
+continuano a sorprendere il scettico. Una o due volte, quando ero.
 
-Osando esprimere la mia totale [[Incredulity|incredulità]] riguardo a lui.
+Osando esprimere la mia totale incredulità riguardo a lui.
 
 Le sue pretese lo fecero arrabbiare moltissimo, al punto che alla fine…
 
@@ -414,7 +414,7 @@ E mi venne voglia di fare un pisolino di quindici o venti minuti…
 Titolo:  
 Un appuntamento di grande importanza… del quale non si poteva assolutamente fare a meno.
 
-Dovrei tenerla. La polizza assicurativa della mia abitazione, la mia [[house|casa]], aveva.
+Dovrei tenerla. La polizza assicurativa della mia abitazione, la mia casa, aveva.
 
 Scaduto il giorno prima; e, essendo sorta una disputa,…
 
@@ -465,7 +465,7 @@ può avere l’[[motifs/clock|orologio]]?» Esaminandolo scoprii
 
 che uno dei raspi d’uva passa che avevo schiccherato per la
 
-stanza durante il discorso dell’[[The Angel of the Odd|Angelo del Disagio]] era volato
+stanza durante il discorso dell’Angelo del Disagio era volato
 
 attraverso il cristallo incrinato e, conficcandosi, per singolare combinazione, nel
 
@@ -519,7 +519,7 @@ in tempo per impedirgli di fuggirsene con essa attraverso il
 
 buco. Ben presto un forte odore soffocante mi assalì le narici:
 
-la [[house|casa]], me ne accorsi chiaramente, era in [[motifs/fire|fiamme]]. In pochi minuti l’
+la casa, me ne accorsi chiaramente, era in [[motifs/fire|fiamme]]. In pochi minuti l’
 
 incendio divampò con violenza, e in un lasso di tempo incredibilmente
 
@@ -535,7 +535,7 @@ porco enorme, nel cui ventre rotondo, e anzi in tutta la cui
 
 aria e fisionomia, c’era qualcosa che mi ricordava
 
-l’[[The Angel of the Odd|Angelo del Disagio]] — quando questo porco, dico, che fino allora
+l’Angelo del Disagio — quando questo porco, dico, che fino allora
 
 aveva sonnecchiato tranquillo nel fango, si mise a un tratto in
 
@@ -677,7 +677,7 @@ Risvegliato improvvisamente dall’udire una voce vuota provenire dall’alto…
 
 Sembrava che stesse canticchiando pigramente un brano d’opera… Alzando lo sguardo, lo notai.
 
-[[The Angel of the Odd|L’Angelo del Disagio]]. Era appoggiato lì, con le braccia incrociate.
+L’Angelo del Disagio. Era appoggiato lì, con le braccia incrociate.
 
 Il bordo dell’auto… e con una pipa in bocca…
 
@@ -806,7 +806,7 @@ Più di quanto… nella mia testa
 
 
 
-“Vai all’inferno, maledetto!” ruggì [[The Angel of the Odd|l’Angelo dell’Impariato]].
+“Vai all’inferno, maledetto!” ruggì l’Angelo dell’Impariato.
 
 
 
@@ -814,7 +814,7 @@ Tagliando l’aria con queste parole, fece scorrere un coltello affilato…
 
 "#Guida che mi teneva sospeso… e proprio in quel momento…"
 
-Proprio sopra la mia stessa [[house|casa]], (che, durante i miei viaggi, )
+Proprio sopra la mia stessa casa, (che, durante i miei viaggi, )
 
 Era stato ricostruito in modo molto bello… ma purtroppo è successo che io ci inciampassi sopra.
 
@@ -883,7 +883,7 @@ It was a chilly November afternoon. I had just consummated an
 
 unusually hearty dinner, of which the dyspeptic _truffe_ formed
 
-not the least important item, and was sitting [[Alone|alone]] in the
+not the least important item, and was sitting alone in the
 
 dining-room, with my feet upon the fender, and at my elbow a
 
@@ -905,7 +905,7 @@ by aid of frequent Lafitte, and, all failing, I betook myself to
 
 a stray newspaper in [[concepts/despair|despair]]. Having carefully perused the column
 
-of “houses to let,” and the column of “[[dogs]] lost,” and then the
+of “houses to let,” and the column of “dogs lost,” and then the
 
 two columns of “wives and apprentices runaway,” I attacked with
 
@@ -1096,7 +1096,7 @@ Un freddo pomeriggio di novembre… Avevo appena completato…
 
 Un pasto insolitamente sostanzioso, nel quale il tartufo, utile per i disturbi digestivi, giocò un ruolo importante…
 
-Non l’elemento meno importante. Era seduto [[Alone|da solo]] lì dentro.
+Non l’elemento meno importante. Era seduto da solo lì dentro.
 
 Sala da pranzo, con i piedi appoggiati al parapetto e accanto a me…
 
@@ -1118,7 +1118,7 @@ Con l’aiuto di abbondanti quantità di Lafitte… e, quando anche questo non b
 
 Un giornale abbandonato, nel mezzo del [[concepts/despair|dispero]]. Dopo averlo letto attentamente, quella rubrica.
 
-Della sezione “case in affitto” e della colonna “[[dogs|cani]] persi”, e poi.
+Della sezione “case in affitto” e della colonna “cani persi”, e poi.
 
 “Due colonne intitolate ‘Mogli e apprendisti fuggiti’, le ho analizzate attentamente…”
 
@@ -1405,7 +1405,7 @@ eyes.
 
 
 
-“Mein Gott!” said [[The Angel of the Odd|the Angel of the Odd]], apparently much softened
+“Mein Gott!” said the Angel of the Odd, apparently much softened
 
 at my distress; “mein Gott, te man is eder ferry dronk or ferry
 
@@ -1417,7 +1417,7 @@ now—don’t!”
 
 
 
-Hereupon [[The Angel of the Odd|the Angel of the Odd]] replenished my goblet (which was
+Hereupon the Angel of the Odd replenished my goblet (which was
 
 about a third full of Port) with a colorless fluid that he poured
 
@@ -1443,9 +1443,9 @@ the genius who presided over the _contretemps_ of mankind, and
 
 whose business it was to bring about the _odd accidents_ which
 
-are continually astonishing the [[skeptic]]. Once or twice, upon my
+are continually astonishing the skeptic. Once or twice, upon my
 
-venturing to express my total [[Incredulity|incredulity]] in respect to his
+venturing to express my total incredulity in respect to his
 
 pretensions, he grew very angry indeed, so that at length I
 
@@ -1483,7 +1483,7 @@ minutes, as is my custom after dinner. At six I had an
 
 appointment of consequence, which it was quite indispensable that
 
-I should keep. The policy of insurance for my dwelling [[house]] had
+I should keep. The policy of insurance for my dwelling house had
 
 expired the day before; and, some dispute having arisen, it was
 
@@ -1620,7 +1620,7 @@ occhi.
 
 
 
-“Mio Dio!”, disse l’[[The Angel of the Odd|Angelo dell’Impariato]], apparentemente molto commosso.
+“Mio Dio!”, disse l’Angelo dell’Impariato, apparentemente molto commosso.
 
 Titolo:  
 "Nel mio momento di difficoltà… ‘Mio Dio, quell’uomo è o ubriaco o pazzo’"
@@ -1633,7 +1633,7 @@ Vino… Bevi un po’, come un vero gentiluomo, e non fare storie.
 
 
 
-Allora [[The Angel of the Odd|l’Angelo dell’Impari]] riempì di nuovo il mio calice (che era vuoto).
+Allora l’Angelo dell’Impari riempì di nuovo il mio calice (che era vuoto).
 
 Una terza parte piena di Porto… e un liquido incolore che versò
 
@@ -1661,9 +1661,9 @@ Il genio che ha guidato attraverso i contrattempi dell’umanità…
 Titolo:  
 A chi spettava il compito di causare quegli strani incidenti…
 
-continuano a sorprendere il [[skeptic|scettico]]. Una o due volte, quando ero.
+continuano a sorprendere il scettico. Una o due volte, quando ero.
 
-Osando esprimere la mia totale [[Incredulity|incredulità]] riguardo a lui.
+Osando esprimere la mia totale incredulità riguardo a lui.
 
 Le sue pretese lo fecero arrabbiare moltissimo, al punto che alla fine…
 
@@ -1703,7 +1703,7 @@ E mi venne voglia di fare un pisolino di quindici o venti minuti…
 Titolo:  
 Un appuntamento di grande importanza… del quale non si poteva assolutamente fare a meno.
 
-Dovrei tenerla. La polizza assicurativa della mia abitazione, la mia [[house|casa]], aveva.
+Dovrei tenerla. La polizza assicurativa della mia abitazione, la mia casa, aveva.
 
 Scaduto il giorno prima; e, essendo sorta una disputa,…
 
@@ -1759,7 +1759,7 @@ can be the matter with the [[motifs/clock|clock]]?” Upon examining it I discov
 
 that one of the raisin stems which I had been filliping about the
 
-room during the discourse of [[The Angel of the Odd|the Angel of the Odd]], had flown
+room during the discourse of the Angel of the Odd, had flown
 
 through the fractured crystal, and lodging, singularly enough, in
 
@@ -1813,7 +1813,7 @@ in season to prevent his making his escape with it through the
 
 hole. Very soon, a strong suffocating odor assailed my nostrils;
 
-the [[house]], I clearly perceived, was on [[motifs/fire|fire]]. In a few minutes the
+the house, I clearly perceived, was on [[motifs/fire|fire]]. In a few minutes the
 
 blaze broke forth with violence, and in an incredibly brief
 
@@ -1829,7 +1829,7 @@ huge hog, about whose rotund stomach, and indeed about whose
 
 whole air and physiognomy, there was something which reminded me
 
-of [[The Angel of the Odd|the Angel of the Odd]],—when this hog, I say, which hitherto had
+of the Angel of the Odd,—when this hog, I say, which hitherto had
 
 been quietly slumbering in the mud, took it suddenly into his
 
@@ -1942,7 +1942,7 @@ può avere l’[[motifs/clock|orologio]]?» Esaminandolo scoprii
 
 che uno dei raspi d’uva passa che avevo schiccherato per la
 
-stanza durante il discorso dell’[[The Angel of the Odd|Angelo del Disagio]] era volato
+stanza durante il discorso dell’Angelo del Disagio era volato
 
 attraverso il cristallo incrinato e, conficcandosi, per singolare combinazione, nel
 
@@ -1996,7 +1996,7 @@ in tempo per impedirgli di fuggirsene con essa attraverso il
 
 buco. Ben presto un forte odore soffocante mi assalì le narici:
 
-la [[house|casa]], me ne accorsi chiaramente, era in [[motifs/fire|fiamme]]. In pochi minuti l’
+la casa, me ne accorsi chiaramente, era in [[motifs/fire|fiamme]]. In pochi minuti l’
 
 incendio divampò con violenza, e in un lasso di tempo incredibilmente
 
@@ -2012,7 +2012,7 @@ porco enorme, nel cui ventre rotondo, e anzi in tutta la cui
 
 aria e fisionomia, c’era qualcosa che mi ricordava
 
-l’[[The Angel of the Odd|Angelo del Disagio]] — quando questo porco, dico, che fino allora
+l’Angelo del Disagio — quando questo porco, dico, che fino allora
 
 aveva sonnecchiato tranquillo nel fango, si mise a un tratto in
 
@@ -2159,7 +2159,7 @@ suddenly revived by hearing a hollow voice from above, which
 
 seemed to be lazily humming an opera air. Looking up, I perceived
 
-[[The Angel of the Odd|the Angel of the Odd]]. He was leaning with his arms folded, over
+the Angel of the Odd. He was leaning with his arms folded, over
 
 the rim of the car; and with a pipe in his mouth, at which he
 
@@ -2285,7 +2285,7 @@ my head than—
 
 
 
-“Go to der teuffel, ten!” roared [[The Angel of the Odd|the Angel of the Odd]].
+“Go to der teuffel, ten!” roared the Angel of the Odd.
 
 
 
@@ -2293,7 +2293,7 @@ In pronouncing these words, he drew a sharp knife across the
 
 guide-rope by which I was suspended, and as we then happened to
 
-be precisely over my own [[house]], (which, during my peregrinations,
+be precisely over my own house, (which, during my peregrinations,
 
 had been handsomely rebuilt,) it so occurred that I tumbled
 
@@ -2400,7 +2400,7 @@ Risvegliato improvvisamente dall’udire una voce vuota provenire dall’alto…
 
 Sembrava che stesse canticchiando pigramente un brano d’opera… Alzando lo sguardo, lo notai.
 
-[[The Angel of the Odd|L’Angelo del Disagio]]. Era appoggiato lì, con le braccia incrociate.
+L’Angelo del Disagio. Era appoggiato lì, con le braccia incrociate.
 
 Il bordo dell’auto… e con una pipa in bocca…
 
@@ -2529,7 +2529,7 @@ Più di quanto… nella mia testa
 
 
 
-“Vai all’inferno, maledetto!” ruggì [[The Angel of the Odd|l’Angelo dell’Impariato]].
+“Vai all’inferno, maledetto!” ruggì l’Angelo dell’Impariato.
 
 
 
@@ -2537,7 +2537,7 @@ Tagliando l’aria con queste parole, fece scorrere un coltello affilato…
 
 "#Guida che mi teneva sospeso… e proprio in quel momento…"
 
-Proprio sopra la mia stessa [[house|casa]], (che, durante i miei viaggi, )
+Proprio sopra la mia stessa casa, (che, durante i miei viaggi, )
 
 Era stato ricostruito in modo molto bello… ma purtroppo è successo che io ci inciampassi sopra.
 

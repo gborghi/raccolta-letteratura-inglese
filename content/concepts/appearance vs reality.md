@@ -75,43 +75,43 @@ tags:
 - [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
 - [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
-- 105. To hang our head — ostensibly — (Dickinson)
-- 1054. Not to discover weakness is (Dickinson)
-- 1071. Perception of an object costs (Dickinson)
-- 1097. Dew — is the Freshet in the Grass — (Dickinson)
-- 1101. Between the form of Life and Life (Dickinson)
-- 1105. Like Men and Women Shadows walk (Dickinson)
-- 117. In rags mysterious as these (Dickinson)
-- 1170. Nature affects to be sedate (Dickinson)
-- 1189. The Voice that stands for Floods to me (Dickinson)
-- 1207. He preached upon Breadth till it argued him narrow — (Dickinson)
-- 1267. I saw that the Flake was on it (Dickinson)
-- 1284. Had we our senses (Dickinson)
-- 1290. The most pathetic thing I do (Dickinson)
-- 1419. It was a quiet seeming Day — (Dickinson)
-- 1430. Who never wanted — maddest Joy (Dickinson)
-- 1645. The Ditch is dear to the Drunken man (Dickinson)
-- 165. A wounded Deer — leaps highest — (Dickinson)
-- 1663. His mind of man, a secret makes (Dickinson)
-- 1747. The parasol is the umbrella's daughter, (Dickinson)
-- 175. I have never seen Volcanoes — (Dickinson)
-- 329. So glad we are — a Stranger'd deem (Dickinson)
-- 353. A happy lip — breaks sudden — (Dickinson)
-- 401. What Soft — Cherubic Creatures — (Dickinson)
-- 421. A Charm invests a face (Dickinson)
-- 443. I tie my Hat — I crease my Shawl — (Dickinson)
-- 451. The Outer — from the Inner (Dickinson)
-- 500. Within my Garden, rides a Bird (Dickinson)
-- 514. Her smile was shaped like other smiles — (Dickinson)
-- 518. Her sweet Weight on my Heart a Night (Dickinson)
-- 526. To hear an Oriole sing (Dickinson)
-- 531. We dream — it is good we are dreaming — (Dickinson)
-- 543. I fear a Man of frugal Speech — (Dickinson)
-- 664. Of all the Souls that stand create — (Dickinson)
-- 693. Shells from the Coast mistaking — (Dickinson)
-- 747. It dropped so low — in my Regard — (Dickinson)
-- 753. My Soul — accused me — And I quailed — (Dickinson)
-- 782. There is an arid Pleasure — (Dickinson)
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0105_to_hang_our_head_ostensibly|105. To hang our head — ostensibly — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1054_not_to_discover_weakness_is|1054. Not to discover weakness is (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1071_perception_of_an_object_costs|1071. Perception of an object costs (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1097_dew_is_the_freshet_in_the_grass|1097. Dew — is the Freshet in the Grass — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1101_between_the_form_of_life_and_life|1101. Between the form of Life and Life (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1105_like_men_and_women_shadows_walk|1105. Like Men and Women Shadows walk (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0117_in_rags_mysterious_as_these|117. In rags mysterious as these (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1170_nature_affects_to_be_sedate|1170. Nature affects to be sedate (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1189_the_voice_that_stands_for_floods_to_me|1189. The Voice that stands for Floods to me (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1207_he_preached_upon_breadth_till_it_argued_him_narrow|1207. He preached upon Breadth till it argued him narrow — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1267_i_saw_that_the_flake_was_on_it|1267. I saw that the Flake was on it (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1284_had_we_our_senses|1284. Had we our senses (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1290_the_most_pathetic_thing_i_do|1290. The most pathetic thing I do (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1419_it_was_a_quiet_seeming_day|1419. It was a quiet seeming Day — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1430_who_never_wanted_maddest_joy|1430. Who never wanted — maddest Joy (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#1645_the_ditch_is_dear_to_the_drunken_man|1645. The Ditch is dear to the Drunken man (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0165_a_wounded_deer_leaps_highest|165. A wounded Deer — leaps highest — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1663_his_mind_of_man_a_secret_makes|1663. His mind of man, a secret makes (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1747_the_parasol_is_the_umbrellas_daughter|1747. The parasol is the umbrella's daughter, (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0175_i_have_never_seen_volcanoes|175. I have never seen Volcanoes — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0329_so_glad_we_are_a_strangerd_deem|329. So glad we are — a Stranger'd deem (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0353_a_happy_lip_breaks_sudden|353. A happy lip — breaks sudden — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0401_what_soft_cherubic_creatures|401. What Soft — Cherubic Creatures — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0421_a_charm_invests_a_face|421. A Charm invests a face (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0443_i_tie_my_hat_i_crease_my_shawl|443. I tie my Hat — I crease my Shawl — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0451_the_outer_from_the_inner|451. The Outer — from the Inner (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0500_within_my_garden_rides_a_bird|500. Within my Garden, rides a Bird (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0514_her_smile_was_shaped_like_other_smiles|514. Her smile was shaped like other smiles — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0518_her_sweet_weight_on_my_heart_a_night|518. Her sweet Weight on my Heart a Night (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0526_to_hear_an_oriole_sing|526. To hear an Oriole sing (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0531_we_dream_it_is_good_we_are_dreaming|531. We dream — it is good we are dreaming — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0543_i_fear_a_man_of_frugal_speech|543. I fear a Man of frugal Speech — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0664_of_all_the_souls_that_stand_create|664. Of all the Souls that stand create — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0693_shells_from_the_coast_mistaking|693. Shells from the Coast mistaking — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0747_it_dropped_so_low_in_my_regard|747. It dropped so low — in my Regard — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0753_my_soul_accused_me_and_i_quailed|753. My Soul — accused me — And I quailed — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0782_there_is_an_arid_pleasure|782. There is an arid Pleasure — (Dickinson)]]
 - [[works/burnt-norton-1935-(eliot)|Burnt Norton 1935 (Eliot)]]
 - [[works/on-a-portrait-(eliot)|On a Portrait (Eliot)]]
 - [[works/portrait-of-a-lady-(eliot)|Portrait of a Lady (Eliot)]]
@@ -157,31 +157,31 @@ tags:
 - [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
 - [[works/much-ado-about-nothing-(shakespeare)|MUCH ADO ABOUT NOTHING (Shakespeare)]]
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
-- Sonnet 113 (Shakespeare)
-- Sonnet 114 (Shakespeare)
-- Sonnet 121 (Shakespeare)
-- Sonnet 125 (Shakespeare)
-- Sonnet 127 (Shakespeare)
-- Sonnet 130 (Shakespeare)
-- Sonnet 137 (Shakespeare)
-- Sonnet 138 (Shakespeare)
-- Sonnet 148 (Shakespeare)
-- Sonnet 150 (Shakespeare)
-- Sonnet 24 (Shakespeare)
-- Sonnet 33 (Shakespeare)
-- Sonnet 35 (Shakespeare)
-- Sonnet 37 (Shakespeare)
-- Sonnet 46 (Shakespeare)
-- Sonnet 53 (Shakespeare)
-- Sonnet 54 (Shakespeare)
-- Sonnet 67 (Shakespeare)
-- Sonnet 68 (Shakespeare)
-- Sonnet 69 (Shakespeare)
-- Sonnet 70 (Shakespeare)
-- Sonnet 93 (Shakespeare)
-- Sonnet 94 (Shakespeare)
-- Sonnet 95 (Shakespeare)
-- Sonnet 96 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_113|Sonnet 113 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_114|Sonnet 114 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_121|Sonnet 121 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_125|Sonnet 125 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_127|Sonnet 127 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_130|Sonnet 130 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_137|Sonnet 137 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_138|Sonnet 138 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_148|Sonnet 148 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_150|Sonnet 150 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_024|Sonnet 24 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_033|Sonnet 33 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_035|Sonnet 35 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_037|Sonnet 37 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_046|Sonnet 46 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_053|Sonnet 53 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_054|Sonnet 54 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_067|Sonnet 67 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_068|Sonnet 68 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_069|Sonnet 69 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_070|Sonnet 70 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_093|Sonnet 93 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_094|Sonnet 94 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_095|Sonnet 95 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_096|Sonnet 96 (Shakespeare)]]
 - [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
 - [[works/the-history-of-king-lear---the-quarto-text-(shakespeare)|THE HISTORY OF KING LEAR - THE QUARTO TEXT (Shakespeare)]]
 - [[works/the-merchant-of-venice-(shakespeare)|THE MERCHANT OF VENICE (Shakespeare)]]

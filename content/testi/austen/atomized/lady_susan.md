@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="lady_susan" data-title="Lady Susan" data-chapter="" data-kind="intro"></span>
 
 
-[[Lady Susan|LADY SUSAN]]
+LADY SUSAN
 
 
 
@@ -246,7 +246,7 @@ would be when I first came to Langford, and Mainwaring is so uncommonly
 
 pleasing that I was not without apprehensions for myself. I remember
 
-saying to myself, as I drove to the [[house]], “I like this man, pray
+saying to myself, as I drove to the house, “I like this man, pray
 
 Heaven no harm come of it!” But I was determined to be discreet, to
 
@@ -302,7 +302,7 @@ kindest, most amiable action of his life was his throwing her off for
 
 ever on her [[motifs/marriage|marriage]]. Keep up his resentment, therefore, I charge you.
 
-We are now in a sad state; no [[house]] was ever more altered; the whole
+We are now in a sad state; no house was ever more altered; the whole
 
 party are at war, and Mainwaring scarcely dares speak to me. It is [[motifs/time|time]]
 
@@ -524,7 +524,7 @@ to Mr. Mainwaring’s sister deprived an amiable girl of her [[archetypes/lover|
 
 
 
-I learnt all this from Mr. [[smith|Smith]], now in this neighbourhood (I have
+I learnt all this from Mr. Smith, now in this neighbourhood (I have
 
 dined with him, at Hurst and Wilford), who is just come from Langford
 
@@ -540,13 +540,13 @@ your kind invitation, that I may form some idea of those bewitching
 
 powers which can do so much—engaging at the same [[motifs/time|time]], and in the same
 
-[[house]], the affections of two men, who were neither of them at liberty
+house, the affections of two men, who were neither of them at liberty
 
 to bestow them—and all this without the charm of youth! I am glad to
 
 find Miss Vernon does not accompany her mother to Churchhill, as she
 
-has not even manners to recommend her; and, according to Mr. [[smith|Smith]]’s
+has not even manners to recommend her; and, according to Mr. Smith’s
 
 account, is equally dull and proud. Where [[concepts/pride|pride]] and stupidity unite
 
@@ -662,13 +662,13 @@ dislike, a motive will never be wanting; and as to money matters it has
 
 not withheld him from being very useful to me. I really have a regard
 
-for him, he is so easily imposed upon! The [[house]] is a good one, the
+for him, he is so easily imposed upon! The house is a good one, the
 
 furniture fashionable, and everything announces plenty and elegance.
 
 Charles is very rich I am sure; when a man has once got his name in a
 
-banking-[[house]] he rolls in money; but they do not know what to do with
+banking-house he rolls in money; but they do not know what to do with
 
 it, keep very little company, and never go to [[settings/london|London]] but on business.
 
@@ -826,7 +826,7 @@ though late the path of propriety, occasioned her removal from a family
 
 where she must in reality have been particularly happy. Your friend Mr.
 
-[[smith|Smith]]’s story, however, cannot be quite correct, as she corresponds
+Smith’s story, however, cannot be quite correct, as she corresponds
 
 regularly with Mrs. Mainwaring. At any rate it must be exaggerated. It
 
@@ -922,7 +922,7 @@ at any [[motifs/time|time]], and could make him renew his application by a line.
 
 shall trouble you meanwhile to prevent his forming any other attachment
 
-when he comes to town. Ask him to your [[house]] occasionally, and talk to
+when he comes to town. Ask him to your house occasionally, and talk to
 
 him of Frederica, that he may not forget her. Upon the whole, I commend
 
@@ -1046,7 +1046,7 @@ I am, indeed, provoked at the artifice of this unprincipled woman; what
 
 stronger proof of her dangerous abilities can be given than this
 
-perversion of Reginald’s judgment, which when he entered the [[house]] was
+perversion of Reginald’s judgment, which when he entered the house was
 
 so decidedly against her! In his last letter he actually gave me some
 
@@ -1268,7 +1268,7 @@ commonplace flirtation. Mrs. Vernon’s consciousness of deserving every
 
 sort of [[concepts/revenge|revenge]] that it can be in my power to inflict for her
 
-ill-offices could [[Alone|alone]] enable her to perceive that I am actuated by
+ill-offices could alone enable her to perceive that I am actuated by
 
 any design in behaviour so gentle and unpretending. Let her think and
 
@@ -1294,7 +1294,7 @@ polished, less insinuating than Mainwaring, and is comparatively
 
 deficient in the power of saying those delightful things which put one
 
-in good [[Humour|humour]] with oneself and all the world. He is quite agreeable
+in good humour with oneself and all the world. He is quite agreeable
 
 enough, however, to afford me amusement, and to make many of those
 
@@ -1366,13 +1366,13 @@ pretence; he is not at all disposed to leave us, and I have given him
 
 as many hints of my father’s precarious state of health as common
 
-decency will allow me to do in my own [[house]]. Her power over him must
+decency will allow me to do in my own house. Her power over him must
 
 now be boundless, as she has entirely effaced all his former
 
 ill-opinion, and persuaded him not merely to forget but to justify her
 
-conduct. Mr. [[smith|Smith]]’s account of her proceedings at Langford, where he
+conduct. Mr. Smith’s account of her proceedings at Langford, where he
 
 accused her of having made Mr. Mainwaring and a young man engaged to
 
@@ -1384,7 +1384,7 @@ invention. He has told me so with a warmth of manner which spoke his
 
 regret at having believed the contrary himself. How sincerely do I
 
-grieve that she ever entered this [[house]]! I always looked forward to her
+grieve that she ever entered this house! I always looked forward to her
 
 coming with uneasiness; but very far was it from originating in anxiety
 
@@ -1538,7 +1538,7 @@ this letter, but I felt it my duty to tell you that your partiality for
 
 [[works/lady-susan-(austen)|Lady Susan]] is no secret to your friends, and to warn you against her. I
 
-should be glad to hear your reasons for disbelieving Mr. [[smith|Smith]]’s
+should be glad to hear your reasons for disbelieving Mr. Smith’s
 
 intelligence; you had no [[concepts/doubt|doubt]] of its authenticity a month ago. If you
 
@@ -1604,7 +1604,7 @@ artful a woman as [[works/lady-susan-(austen)|Lady Susan]], to a young man of hi
 
 expectations. I meant, moreover, to have reminded him of our being
 
-quite [[Alone|alone]] now, and very much in need of him to keep up our spirits
+quite alone now, and very much in need of him to keep up our spirits
 
 these long [[motifs/winter|winter]] evenings. Whether it would have done any good can
 
@@ -1756,7 +1756,7 @@ committing.
 
 I blame myself severely for having so easily believed the slanderous
 
-tales invented by Charles [[smith|Smith]] to the prejudice of [[works/lady-susan-(austen)|Lady Susan]], as I am
+tales invented by Charles Smith to the prejudice of [[works/lady-susan-(austen)|Lady Susan]], as I am
 
 now convinced how greatly they have traduced her. As to Mrs.
 
@@ -2120,7 +2120,7 @@ Churchhill.
 
 
 
-My dear Mother,—Mr. Vernon returned on [[thursday|Thursday]] [[motifs/night|night]], bringing his
+My dear Mother,—Mr. Vernon returned on Thursday [[motifs/night|night]], bringing his
 
 niece with him. [[works/lady-susan-(austen)|Lady Susan]] had received a line from him by that day’s
 
@@ -2348,7 +2348,7 @@ her with me as much as possible, and have taken great pains to overcome
 
 her timidity. We are very good friends, and though she never opens her
 
-lips before her mother, she talks enough when [[Alone|alone]] with me to make it
+lips before her mother, she talks enough when alone with me to make it
 
 clear that, if properly treated by [[works/lady-susan-(austen)|Lady Susan]], she would always appear
 
@@ -2400,7 +2400,7 @@ You will be eager, I know, to hear something further of Frederica, and
 
 perhaps may think me negligent for not writing before. She arrived with
 
-her uncle last [[thursday|Thursday]] fortnight, when, of course, I lost no [[motifs/time|time]] in
+her uncle last Thursday fortnight, when, of course, I lost no [[motifs/time|time]] in
 
 demanding the cause of her behaviour; and soon found myself to have
 
@@ -2410,7 +2410,7 @@ of it frightened her so thoroughly, that, with a mixture of true
 
 girlish perverseness and folly, she resolved on getting out of the
 
-[[house]] and proceeding directly by the stage to her friends, the Clarkes;
+house and proceeding directly by the stage to her friends, the Clarkes;
 
 and had really got as far as the length of two streets in her [[motifs/journey|journey]]
 
@@ -2434,7 +2434,7 @@ connections, that I can only suppose the lady to be governed by the
 
 is returned on my hands; and, having nothing else to employ her, is
 
-busy in pursuing the plan of [[Romance|romance]] begun at Langford. She is actually
+busy in pursuing the plan of romance begun at Langford. She is actually
 
 falling in [[motifs/love|love]] with [[characters/reginald-de-courcy|Reginald De Courcy]]! To disobey her mother by
 
@@ -2726,7 +2726,7 @@ girl whose heart can distinguish [[characters/reginald-de-courcy|Reginald De Cou
 
 he may slight her, a better fate than to be Sir James Martin’s wife. As
 
-soon as I can get her [[Alone|alone]], I will discover the real [[concepts/truth|truth]]; but she
+soon as I can get her alone, I will discover the real [[concepts/truth|truth]]; but she
 
 seems to wish to avoid me. I [[concepts/hope|hope]] this does not proceed from anything
 
@@ -2860,7 +2860,7 @@ his intentions! Not content with coming, he actually invited himself to
 
 remain here a few days. I could have poisoned him! I made the best of
 
-it, however, and told my story with great [[success]] to Mrs. Vernon, who,
+it, however, and told my story with great success to Mrs. Vernon, who,
 
 whatever might be her real sentiments, said nothing in opposition to
 
@@ -2898,7 +2898,7 @@ very soon made the whole party understand that his heart was devoted to
 
 my daughter. I had no great difficulty in convincing De Courcy, when we
 
-were [[Alone|alone]], that I was perfectly justified, all things considered, in
+were alone, that I was perfectly justified, all things considered, in
 
 desiring the match; and the whole business seemed most comfortably
 
@@ -3088,7 +3088,7 @@ going to send James forward with my hunters immediately; if you have
 
 any letter, therefore, he can take it. I shall not be at [[motifs/home|home]] myself
 
-till Wednesday or [[thursday|Thursday]], as I shall go through [[settings/london|London]], where I have
+till Wednesday or Thursday, as I shall go through [[settings/london|London]], where I have
 
 business; but before I leave you,” he continued, speaking in a lower
 
@@ -3318,7 +3318,7 @@ increasing as he spoke, “that I have been acting with my usual foolish
 
 impetuosity. I have entirely misunderstood [[works/lady-susan-(austen)|Lady Susan]], and was on the
 
-point of leaving the [[house]] under a false impression of her conduct.
+point of leaving the house under a false impression of her conduct.
 
 There has been some very great mistake; we have been all mistaken, I
 
@@ -3394,7 +3394,7 @@ have wished in my daughter, or had I even known her to possess as much
 
 as she does, I should not have been anxious for the match.” “It is odd
 
-that you should [[Alone|alone]] be ignorant of your daughter’s sense!” “Frederica
+that you should alone be ignorant of your daughter’s sense!” “Frederica
 
 never does justice to herself; her manners are shy and childish, and
 
@@ -3664,7 +3664,7 @@ here even an hour. I am perfectly aware that after what has passed
 
 between us it would ill suit the feelings of either to remain longer in
 
-the same [[house]]: so very great, so total a change from the intimacy of
+the same house: so very great, so total a change from the intimacy of
 
 [[concepts/friendship|friendship]] must render any future intercourse the severest punishment;
 
@@ -3878,7 +3878,7 @@ and to have true enjoyment. I would ask you to Edward Street, but that
 
 once he forced from me a kind of promise never to invite you to my
 
-[[house]]; nothing but my being in the utmost distress for money should
+house; nothing but my being in the utmost distress for money should
 
 have extorted it from me. I can get you, however, a nice drawing-room
 
@@ -3886,7 +3886,7 @@ apartment in Upper Seymour Street, and we may be always together there
 
 or here; for I consider my promise to Mr. Johnson as comprehending only
 
-(at least in his absence) your not sleeping in the [[house]]. Poor
+(at least in his absence) your not sleeping in the house. Poor
 
 Mainwaring gives me such histories of his wife’s [[concepts/jealousy|jealousy]]. Silly woman
 
@@ -4272,7 +4272,7 @@ favourable turn. To assist us in such a resolution I feel that absence
 
 will be necessary. We must not meet. Cruel as this sentence may appear,
 
-the necessity of pronouncing it, which can [[Alone|alone]] reconcile it to
+the necessity of pronouncing it, which can alone reconcile it to
 
 myself, will be evident to you when you have considered our situation
 
@@ -4358,7 +4358,7 @@ to you, with whom he longs to be acquainted. Allow him to spend the
 
 evening with you, that I may be in no danger of his returning here. I
 
-have told him that I am not quite [[motifs/well|well]], and must be [[Alone|alone]]; and should
+have told him that I am not quite [[motifs/well|well]], and must be alone; and should
 
 he call again there might be confusion, for it is impossible to be sure
 
@@ -4414,7 +4414,7 @@ My dear Creature,—I am in agonies, and know not what to do. Mr. De
 
 Courcy arrived just when he should not. Mrs. Mainwaring had that
 
-instant entered the [[house]], and forced herself into her guardian’s
+instant entered the house, and forced herself into her guardian’s
 
 presence, though I did not know a syllable of it till afterwards, for I
 
@@ -4426,7 +4426,7 @@ the drawing-room for me. She arrived yesterday in pursuit of her
 
 husband, but perhaps you know this already from himself. She came to
 
-this [[house]] to entreat my husband’s interference, and before I could be
+this house to entreat my husband’s interference, and before I could be
 
 aware of it, everything that you could wish to be concealed was known
 
@@ -4436,15 +4436,15 @@ he had visited you every day since your being in town, and had just
 
 watched him to your door herself! What could I do! Facts are such
 
-horrid things! All is by this [[motifs/time|time]] known to De Courcy, who is now [[Alone|alone]]
+horrid things! All is by this [[motifs/time|time]] known to De Courcy, who is now alone
 
 with Mr. Johnson. Do not accuse me; indeed, it was impossible to
 
 prevent it. Mr. Johnson has for some [[motifs/time|time]] suspected De Courcy of
 
-intending to marry you, and would speak with him [[Alone|alone]] as soon as he
+intending to marry you, and would speak with him alone as soon as he
 
-knew him to be in the [[house]]. That detestable Mrs. Mainwaring, who, for
+knew him to be in the house. That detestable Mrs. Mainwaring, who, for
 
 your comfort, has fretted herself thinner and uglier than ever, is
 
@@ -4558,7 +4558,7 @@ necessity of an immediate and eternal separation from you. You cannot
 
 [[concepts/doubt|doubt]] to what I allude. Langford! Langford! that word will be
 
-sufficient. I received my information in Mr. Johnson’s [[house]], from Mrs.
+sufficient. I received my information in Mr. Johnson’s house, from Mrs.
 
 Mainwaring herself. You know how I have loved you; you can intimately
 
@@ -4916,7 +4916,7 @@ never _shall_. To-morrow, I shall fetch her from Churchhill, and let
 
 [[characters/maria|Maria]] Mainwaring tremble for the consequence. Frederica shall be Sir
 
-James’s wife before she quits my [[house]], and _she_ may whimper, and the
+James’s wife before she quits my house, and _she_ may whimper, and the
 
 Vernons may [[motifs/storm|storm]], I regard them not. I am tired of submitting my will
 
@@ -4970,7 +4970,7 @@ Reginald is returned, not to ask our consent to his marrying Lady
 
 Susan, but to tell us they are parted for ever. He has been only an
 
-hour in the [[house]], and I have not been able to learn particulars, for
+hour in the house, and I have not been able to learn particulars, for
 
 he is so very low that I have not the heart to ask questions, but I
 
@@ -5050,7 +5050,7 @@ because on Wednesday, the very day of his coming to Parklands, we had a
 
 most unexpected and unwelcome visit from [[works/lady-susan-(austen)|Lady Susan]], looking all
 
-cheerfulness and good-[[Humour|humour]], and seeming more as if she were to marry
+cheerfulness and good-humour, and seeming more as if she were to marry
 
 him when she got to [[settings/london|London]] than as if parted from him for ever. She
 
@@ -5070,7 +5070,7 @@ but she believed he had already returned [[motifs/home|home]], which I was very 
 
 from crediting. Your kind invitation is accepted by us with pleasure,
 
-and on [[thursday|Thursday]] next we and our little ones will be with you. Pray
+and on Thursday next we and our little ones will be with you. Pray
 
 heaven, Reginald may not be in town again by that [[motifs/time|time]]! I wish we could
 
@@ -5096,7 +5096,7 @@ heart was almost broke at taking leave of us. I charged her to write to
 
 me very often, and to remember that if she were in any distress we
 
-should be always her friends. I took care to see her [[Alone|alone]], that I
+should be always her friends. I took care to see her alone, that I
 
 might say all this, and I [[concepts/hope|hope]] made her a little more comfortable; but
 
@@ -5149,7 +5149,7 @@ than ever in her opinion, she was proportionably more anxious to get
 
 Frederica removed from such a mother, and placed under her own care;
 
-and, though with little [[concepts/hope|hope]] of [[success]], was resolved to leave nothing
+and, though with little [[concepts/hope|hope]] of success, was resolved to leave nothing
 
 unattempted that might offer a chance of obtaining her sister-in-law’s
 

@@ -39,7 +39,7 @@ tags:
 
 **Historical References:** [[historical-references/bible|Bible]]
 
-**Characters:** Quoodle
+**Characters:** [[characters/quoodle|Quoodle]]
 
 **Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/fall-from-innocence|Fall from Innocence]]
 **Motifs:** [[motifs/animals|Animals]], [[concepts/nature|Nature]], [[motifs/flowers|Flowers]], [[motifs/smell-and-scent|Smell and Scent]]

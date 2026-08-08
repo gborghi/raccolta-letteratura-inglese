@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/maturation-and-growth|Maturation and Growth]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 

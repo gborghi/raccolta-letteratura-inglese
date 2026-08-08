@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Ghost
+**Archetypes:** [[archetypes/ghost|Ghost]]
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/grave|Grave]], [[motifs/memory|Memory]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]], [[forms/narrative-poem|Narrative Poem]]

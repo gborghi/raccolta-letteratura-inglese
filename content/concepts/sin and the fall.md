@@ -45,16 +45,16 @@ tags:
 - [[works/the-two-founts-(coleridge)|THE TWO FOUNTS (Coleridge)]]
 - [[works/the-wanderings-of-cain-(coleridge)-(2)|THE WANDERINGS OF CAIN (Coleridge) (2)]]
 - [[works/the-wanderings-of-cain-(coleridge)|THE WANDERINGS OF CAIN (Coleridge)]]
-- 1119. Paradise is that old mansion (Dickinson)
-- 1195. What we see we know somewhat (Dickinson)
-- 1459. Belshazzar had a Letter — (Dickinson)
-- 1461. Heavenly Father — take to thee (Dickinson)
-- 1479. The Devil — had he fidelity (Dickinson)
-- 1500. It came his turn to beg — (Dickinson)
-- 1545. The Bible is an antique Volume — (Dickinson)
-- 1740. Sweet is the swamp with its secrets, (Dickinson)
-- 428. Taking up the fair Ideal, (Dickinson)
-- 503. Better — than Music! For I — who heard it — (Dickinson)
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1119_paradise_is_that_old_mansion|1119. Paradise is that old mansion (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1195_what_we_see_we_know_somewhat|1195. What we see we know somewhat (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1459_belshazzar_had_a_letter|1459. Belshazzar had a Letter — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1461_heavenly_father_take_to_thee|1461. Heavenly Father — take to thee (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1479_the_devil_had_he_fidelity|1479. The Devil — had he fidelity (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1500_it_came_his_turn_to_beg|1500. It came his turn to beg — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1545_the_bible_is_an_antique_volume|1545. The Bible is an antique Volume — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1740_sweet_is_the_swamp_with_its_secrets|1740. Sweet is the swamp with its secrets, (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0428_taking_up_the_fair_ideal|428. Taking up the fair Ideal, (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0503_better_than_music_for_i_who_heard_it|503. Better — than Music! For I — who heard it — (Dickinson)]]
 - [[works/the-family-reunion-(eliot)|THE FAMILY REUNION (Eliot)]]
 - [[works/v-o-lord,-deliver-me-from-the-man-of-excellent-intention-and-impure-heart-(eliot)|V O Lord, deliver me from the man of excellent intention and impure heart (Eliot)]]
 - [[works/vi-it-is-hard-for-those-who-have-never-known-persecution-(eliot)|VI It is hard for those who have never known persecution (Eliot)]]
@@ -64,12 +64,12 @@ tags:
 - [[works/the-black-cat-(poe)|The Black Cat (Poe)]]
 - [[works/the-conqueror-worm-(poe)|The Conqueror Worm (Poe)]]
 - [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
-- Sonnet 129 (Shakespeare)
-- Sonnet 141 (Shakespeare)
-- Sonnet 142 (Shakespeare)
-- Sonnet 151 (Shakespeare)
-- Sonnet 93 (Shakespeare)
-- Sonnet 95 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_129|Sonnet 129 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_141|Sonnet 141 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_142|Sonnet 142 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_151|Sonnet 151 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_093|Sonnet 93 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_095|Sonnet 95 (Shakespeare)]]
 - [[works/the-singer-in-the-prison-(whitman)|The Singer in the Prison (Whitman)]]
 - [[works/you-felons-on-trial-in-courts-(whitman)|You Felons on Trial in Courts (Whitman)]]
 - [[works/a-woman-of-no-importance-(wilde)|A Woman of No Importance (Wilde)]]

@@ -54,27 +54,27 @@ tags:
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
 - [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 115. What Inn is this (Dickinson)
-- 1170. Nature affects to be sedate (Dickinson)
-- 1298. The Mushroom is the Elf of Plants — (Dickinson)
-- 1400. What mystery pervades a well! (Dickinson)
-- 1497. Facts by our side are never sudden (Dickinson)
-- 194. On this long storm the Rainbow rose — (Dickinson)
-- 198. An awful Tempest mashed the air — (Dickinson)
-- 231. God permits industrious Angels — (Dickinson)
-- 298. Alone, I cannot be — (Dickinson)
-- 306. The Soul's Superior instants (Dickinson)
-- 336. The face I carry with me — last — (Dickinson)
-- 399. A House upon the Height — (Dickinson)
-- 414. 'Twas like a Maelstrom, with a notch, (Dickinson)
-- 416. A Murmur in the Trees — to note — (Dickinson)
-- 512. The Soul has Bandaged moments — (Dickinson)
-- 670. One need not be a Chamber — to be Haunted — (Dickinson)
-- 679. Conscious am I in my Chamber, (Dickinson)
-- 75. She died at play, (Dickinson)
-- 760. Most she touched me by her muteness — (Dickinson)
-- 776. The Color of a Queen, is this — (Dickinson)
-- 94. Angels, in the early morning (Dickinson)
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0115_what_inn_is_this|115. What Inn is this (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1170_nature_affects_to_be_sedate|1170. Nature affects to be sedate (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1298_the_mushroom_is_the_elf_of_plants|1298. The Mushroom is the Elf of Plants — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1400_what_mystery_pervades_a_well|1400. What mystery pervades a well! (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1497_facts_by_our_side_are_never_sudden|1497. Facts by our side are never sudden (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0194_on_this_long_storm_the_rainbow_rose|194. On this long storm the Rainbow rose — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0198_an_awful_tempest_mashed_the_air|198. An awful Tempest mashed the air — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0231_god_permits_industrious_angels|231. God permits industrious Angels — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0298_alone_i_cannot_be|298. Alone, I cannot be — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0306_the_souls_superior_instants|306. The Soul's Superior instants (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0336_the_face_i_carry_with_me_last|336. The face I carry with me — last — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0399_a_house_upon_the_height|399. A House upon the Height — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0414_twas_like_a_maelstrom_with_a_notch|414. 'Twas like a Maelstrom, with a notch, (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0416_a_murmur_in_the_trees_to_note|416. A Murmur in the Trees — to note — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0512_the_soul_has_bandaged_moments|512. The Soul has Bandaged moments — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0670_one_need_not_be_a_chamber_to_be_haunted|670. One need not be a Chamber — to be Haunted — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0679_conscious_am_i_in_my_chamber|679. Conscious am I in my Chamber, (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0075_she_died_at_play|75. She died at play, (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0760_most_she_touched_me_by_her_muteness|760. Most she touched me by her muteness — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0776_the_color_of_a_queen_is_this|776. The Color of a Queen, is this — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0094_angels_in_the_early_morning|94. Angels, in the early morning (Dickinson)]]
 - [[works/a-fable-for-feasters-(eliot)|A Fable for Feasters (Eliot)]]
 - [[works/i.-the-burial-of-the-dead-(eliot)|I. The Burial of the Dead (Eliot)]]
 - [[works/mr.-mistoffelees-(eliot)|Mr. Mistoffelees (Eliot)]]
@@ -110,7 +110,7 @@ tags:
 - [[works/cymbeline-(shakespeare)|CYMBELINE (Shakespeare)]]
 - [[works/julius-caesar-(shakespeare)|JULIUS CAESAR (Shakespeare)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
-- Sonnet 86 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_086|Sonnet 86 (Shakespeare)]]
 - [[works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)|THE FIRST PART OF THE CONTENTION - (2 HENRY VI) (Shakespeare)]]
 - [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
 - [[works/as-if-a-phantom-caress’d-me-(whitman)|As If a Phantom Caress’d Me (Whitman)]]

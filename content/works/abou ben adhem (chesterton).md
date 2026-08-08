@@ -42,10 +42,10 @@ tags:
 
 ## Connections
 
-**Characters:** Abou Ben Adhem
+**Characters:** [[characters/abou-ben-adhem|Abou Ben Adhem]]
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Corrupt Official, Tyrant
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/pride|Pride]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/fear|Fear]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/reform|Reform]]
 **Forms & Genres:** [[forms/parody|Parody]], [[forms/satire|Satire]], [[forms/heroic-couplet|Heroic Couplet]], [[forms/epigram|Epigram]]

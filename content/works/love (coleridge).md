@@ -27,7 +27,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/music-and-song|Music and Song]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/moon|Moon]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/madness|Madness]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]]

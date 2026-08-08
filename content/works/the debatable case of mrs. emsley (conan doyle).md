@@ -44,4 +44,4 @@ tags:
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]], [[motifs/blood|Blood]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/london|London]]
-**Archetypes:** Scapegoat
+**Archetypes:** [[archetypes/scapegoat|Scapegoat]]

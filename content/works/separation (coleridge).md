@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]]

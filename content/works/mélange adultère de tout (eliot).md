@@ -23,7 +23,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
 **Themes & Concepts:** [[concepts/identity|Identity]], [[concepts/artist-and-society|Artist and Society]]
 **Forms & Genres:** [[forms/satire|Satire]]

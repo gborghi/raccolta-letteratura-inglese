@@ -56,5 +56,5 @@ tags:
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/revenge|Revenge]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/secrets|Secrets]], [[motifs/journey|Journey]]
 **Settings:** [[settings/london|London]], [[settings/american-frontier|American Frontier]], [[settings/american-west|American West]]
-**Characters:** Sherlock Holmes, Doctor Watson
-**Archetypes:** Detective, Avenger
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/avenger|Avenger]]

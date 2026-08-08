@@ -40,7 +40,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Trickster
+**Archetypes:** [[archetypes/trickster|Trickster]]
 **Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/satire-of-society|Satire of Society]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/critique-of-progress|Critique of Progress]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
 **Historical References:** [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]

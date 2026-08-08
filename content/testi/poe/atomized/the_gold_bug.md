@@ -942,7 +942,7 @@ Tratteniti dalle [[motifs/tears|lacrime]]. Tuttavia, ho ritenuto fosse meglio pr
 
 Fantasia… almeno per il momento, o finché non riuscirò ad adottarne altre.
 
-Misure energiche con la possibilità di [[success|riuscire]]. Nel frattempo, io.
+Misure energiche con la possibilità di riuscire. Nel frattempo, io.
 
 Ci hanno provato, ma invano, a farlo parlare sull’argomento in questione.
 
@@ -1910,7 +1910,7 @@ Di grande valore: un enorme boccale d’oro, decorato con…
 
 Foglie di vite riccamente decorate e figure bacchiche; con due.
 
-Impugnature di [[Sword|spada]] finemente incise, e molte altre componenti più piccole.
+Impugnature di spada finemente incise, e molte altre componenti più piccole.
 
 Articoli di cui non ricordo… Il peso di questi oggetti preziosi
 
@@ -2055,7 +2055,7 @@ La comprensione di quella [[concepts/truth|.verità]] che l’avventura della sc
 
 Con il pergameno al sicuro, ho accantonato ogni ulteriore riflessione su quel argomento…
 
-Dovrebbe essere [[Alone|solo]].
+Dovrebbe essere solo.
 
 
 
@@ -2523,7 +2523,7 @@ Specie semplici… tali, tuttavia, che appaiono solo a chi ha una visione grezza
 
 Mi spinse ad interessarmi a simili enigmi, e forse è davvero una buona cosa.
 
-Si dubitava che l’ingegnosità umana potesse creare un [[An Enigma|enigma]] del genere.
+Si dubitava che l’ingegnosità umana potesse creare un enigma del genere.
 
 Una bontà che l’ingegno umano, se applicato correttamente, potrebbe realizzare
 
@@ -3007,7 +3007,7 @@ All'improvviso, si pensò che quel “Bishop’s Hostel” potesse avere qualcos
 
 Riferimento a un'antica famiglia di nome Bessop, che, in quel [[motifs/time|periodo]].
 
-Fuori di sé, aveva preso possesso di un antico maniero-[[house|casa]], circa.
+Fuori di sé, aveva preso possesso di un antico maniero-casa, circa.
 
 Quattro miglia a nord dell’isola… Così feci.
 
@@ -3175,7 +3175,7 @@ Per Giove, che, senza alcun [[concepts/doubt|dubbio]], aveva osservato, nelle ul
 
 Estrazione del mio comportamento, e mi sono preso particolare cura di non lasciare traccia
 
-Da [[Alone|solo]]. Ma il giorno dopo, alzandomi molto presto, io.
+Da solo. Ma il giorno dopo, alzandomi molto presto, io.
 
 Riuscì a sfuggirgli e si diresse verso le colline in cerca…
 
@@ -3231,9 +3231,9 @@ Lasci che cada la cimice, invece di una pallottola…
 
 Perché, a dire il vero, sono stato un po’ infastidito dal tuo comportamento evidente…
 
-Sospetti che riguardano la mia [[Sanity|sanità]]; per questo ho deciso di punirti.
+Sospetti che riguardano la mia sanità; per questo ho deciso di punirti.
 
-In silenzio, a mio modo, attraverso un po' di sobria [[Mystification|misteriosità]].
+In silenzio, a mio modo, attraverso un po' di sobria misteriosità.
 
 Per questa ragione ho mosso il coleottero, e per questa ragione l’ho lasciato andare…
 
@@ -4302,7 +4302,7 @@ day, with which to chastise me for giving him the slip, and
 
 spending the day, _solus_, among the hills on the main land. I
 
-verily believe that my ill looks [[Alone|alone]] saved me a flogging.
+verily believe that my ill looks alone saved me a flogging.
 
 
 
@@ -4902,7 +4902,7 @@ refrain from [[motifs/tears|tears]]. I thought it best, however, to humor his
 
 fancy, at least for the present, or until I could adopt some more
 
-energetic measures with a chance of [[success]]. In the mean [[motifs/time|time]] I
+energetic measures with a chance of success. In the mean [[motifs/time|time]] I
 
 endeavored, but all in vain, to sound him in regard to the object
 
@@ -5135,7 +5135,7 @@ Tratteniti dalle [[motifs/tears|lacrime]]. Tuttavia, ho ritenuto fosse meglio pr
 
 Fantasia… almeno per il momento, o finché non riuscirò ad adottarne altre.
 
-Misure energiche con la possibilità di [[success|riuscire]]. Nel frattempo, io.
+Misure energiche con la possibilità di riuscire. Nel frattempo, io.
 
 Ci hanno provato, ma invano, a farlo parlare sull’argomento in questione.
 
@@ -7033,7 +7033,7 @@ of great value; a prodigious golden punch bowl, ornamented with
 
 richly chased vine-[[motifs/leaves|leaves]] and Bacchanalian figures; with two
 
-[[Sword|sword]]-handles exquisitely embossed, and many other smaller
+sword-handles exquisitely embossed, and many other smaller
 
 articles which I cannot recollect. The weight of these valuables
 
@@ -7215,7 +7215,7 @@ Di grande valore: un enorme boccale d’oro, decorato con…
 
 Foglie di vite riccamente decorate e figure bacchiche; con due.
 
-Impugnature di [[Sword|spada]] finemente incise, e molte altre componenti più piccole.
+Impugnature di spada finemente incise, e molte altre componenti più piccole.
 
 Articoli di cui non ricordo… Il peso di questi oggetti preziosi
 
@@ -7365,7 +7365,7 @@ so magnificent a demonstration. I arose at once, and putting the
 
 parchment securely away, dismissed all farther reflection until I
 
-should be [[Alone|alone]].
+should be alone.
 
 
 
@@ -7556,7 +7556,7 @@ La comprensione di quella [[concepts/truth|.verità]] che l’avventura della sc
 
 Con il pergameno al sicuro, ho accantonato ogni ulteriore riflessione su quel argomento…
 
-Dovrebbe essere [[Alone|solo]].
+Dovrebbe essere solo.
 
 
 
@@ -8235,7 +8235,7 @@ times greater. Circumstances, and a certain bias of mind, have
 
 led me to take interest in such riddles, and it may [[motifs/well|well]] be
 
-doubted whether human ingenuity can construct [[An Enigma|an enigma]] of the
+doubted whether human ingenuity can construct an enigma of the
 
 kind which human ingenuity may not, by proper application,
 
@@ -8456,7 +8456,7 @@ Specie semplici… tali, tuttavia, che appaiono solo a chi ha una visione grezza
 
 Mi spinse ad interessarmi a simili enigmi, e forse è davvero una buona cosa.
 
-Si dubitava che l’ingegnosità umana potesse creare un [[An Enigma|enigma]] del genere.
+Si dubitava che l’ingegnosità umana potesse creare un enigma del genere.
 
 Una bontà che l’ingegno umano, se applicato correttamente, potrebbe realizzare
 
@@ -9236,7 +9236,7 @@ quite suddenly, that this ‘Bishop’s Hostel’ might have some
 
 reference to an old family, of the name of Bessop, which, [[motifs/time|time]]
 
-out of mind, had held possession of an ancient manor-[[house]], about
+out of mind, had held possession of an ancient manor-house, about
 
 four miles to the northward of the island. I accordingly went
 
@@ -9434,7 +9434,7 @@ All'improvviso, si pensò che quel “Bishop’s Hostel” potesse avere qualcos
 
 Riferimento a un'antica famiglia di nome Bessop, che, in quel [[motifs/time|periodo]].
 
-Fuori di sé, aveva preso possesso di un antico maniero-[[house|casa]], circa.
+Fuori di sé, aveva preso possesso di un antico maniero-casa, circa.
 
 Quattro miglia a nord dell’isola… Così feci.
 
@@ -9607,7 +9607,7 @@ by Jupiter, who had, no [[concepts/doubt|doubt]], observed, for some weeks past,
 
 abstraction of my demeanor, and took especial care not to leave
 
-me [[Alone|alone]]. But, on the next day, getting up very early, I
+me alone. But, on the next day, getting up very early, I
 
 contrived to give him the slip, and went into the hills in search
 
@@ -9663,9 +9663,9 @@ the skull?”
 
 “Why, to be frank, I felt somewhat annoyed by your evident
 
-suspicions touching my [[Sanity|sanity]], and so resolved to punish you
+suspicions touching my sanity, and so resolved to punish you
 
-quietly, in my own way, by a little bit of sober [[Mystification|mystification]].
+quietly, in my own way, by a little bit of sober mystification.
 
 For this reason I swung the beetle, and for this reason I let it
 
@@ -9710,7 +9710,7 @@ Per Giove, che, senza alcun [[concepts/doubt|dubbio]], aveva osservato, nelle ul
 
 Estrazione del mio comportamento, e mi sono preso particolare cura di non lasciare traccia
 
-Da [[Alone|solo]]. Ma il giorno dopo, alzandomi molto presto, io.
+Da solo. Ma il giorno dopo, alzandomi molto presto, io.
 
 Riuscì a sfuggirgli e si diresse verso le colline in cerca…
 
@@ -9766,9 +9766,9 @@ Lasci che cada la cimice, invece di una pallottola…
 
 Perché, a dire il vero, sono stato un po’ infastidito dal tuo comportamento evidente…
 
-Sospetti che riguardano la mia [[Sanity|sanità]]; per questo ho deciso di punirti.
+Sospetti che riguardano la mia sanità; per questo ho deciso di punirti.
 
-In silenzio, a mio modo, attraverso un po' di sobria [[Mystification|misteriosità]].
+In silenzio, a mio modo, attraverso un po' di sobria misteriosità.
 
 Per questa ragione ho mosso il coleottero, e per questa ragione l’ho lasciato andare…
 

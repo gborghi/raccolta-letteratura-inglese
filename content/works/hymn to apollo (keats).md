@@ -28,7 +28,7 @@ tags:
 **Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/ambition|Ambition]]
 **Forms & Genres:** [[forms/hymn|Hymn]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
-**Characters:** Apollo
+**Characters:** [[characters/apollo|Apollo]]
 
 ## Testo integrale / Full text
 

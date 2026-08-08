@@ -22,7 +22,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]
-**Archetypes:** Rebel
+**Archetypes:** [[archetypes/rebel|Rebel]]
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]]
 **Themes & Concepts:** [[concepts/comradeship|Comradeship]], [[concepts/doubt|Doubt]]
 

@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Wise Old Man Sage
+**Archetypes:** [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 **Motifs:** [[motifs/sea|Sea]], [[motifs/death|Death]], [[motifs/window|Window]], [[motifs/memory|Memory]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]

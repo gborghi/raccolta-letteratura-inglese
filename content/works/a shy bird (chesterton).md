@@ -56,9 +56,9 @@ tags:
 
 **Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/first-world-war|First World War]], [[historical-references/charles-dickens|Charles Dickens]]
 
-**Archetypes:** Common Man (2)
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Characters:** Samuel Pickwick, Dick Swiveller, Tony Weller
+**Characters:** [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/dick-swiveller|Dick Swiveller]], [[characters/tony-weller|Tony Weller]]
 
 **Topoi:** [[topoi/golden-age|Golden Age]]
 **Motifs:** [[motifs/music-and-song|Music and Song]], [[motifs/nightingale|Nightingale]], [[motifs/birds|Birds]]

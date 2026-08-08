@@ -50,13 +50,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Hero, Martyr Saint
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/martyr-saint|Martyr Saint]]
 
 **Settings:** [[settings/battlefield|Battlefield]]
 
 **Topoi:** [[topoi/life-as-a-battle|Life as a Battle]]
 
-**Characters:** Cecil Chesterton, Hilaire Belloc
+**Characters:** [[characters/cecil-chesterton|Cecil Chesterton]], [[characters/hilaire-belloc|Hilaire Belloc]]
 
 **Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/distributism|Distributism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/democracy|Democracy]], [[concepts/courage|Courage]], [[concepts/truth|Truth]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/reform|Reform]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]

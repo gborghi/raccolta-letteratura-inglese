@@ -29,7 +29,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** Ghost
+**Archetypes:** [[archetypes/ghost|Ghost]]
 **Motifs:** [[motifs/music-and-song|Music and Song]], [[motifs/ghosts|Ghosts]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/joy|Joy]]
 **Historical References:** [[historical-references/grail-legend|Grail Legend]], [[historical-references/crusades|Crusades]]

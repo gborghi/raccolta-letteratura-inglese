@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/democracy|Democracy]], [[concepts/critique-of-progress|Critique of Progress]]
 **Forms & Genres:** [[forms/fragment|Fragment]]
 

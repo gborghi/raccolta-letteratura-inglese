@@ -79,9 +79,9 @@ tags:
 
 ## Connections
 
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]
 
-**Characters:** Samuel Pickwick, Sam Weller, Wilkins Micawber, Nicholas Nickleby, Oliver Twist, David Copperfield, Fagin, Seth Pecksniff, Daniel Quilp, Wackford Squeers, Sairey Gamp, Ebenezer Scrooge, Mr Bumble, Dick Swiveller, Paul Dombey, Mr Sapsea, Susan Nipper, Vincent Crummles, Harold Skimpole, Amy Dorrit, Edward Murdstone, Dora Spenlow, Agnes Wickfield, Miss Havisham, Pip, Mr. Toots, Mr. Guppy, Uncle Pumblechook
+**Characters:** [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/sam-weller|Sam Weller]], [[characters/wilkins-micawber|Wilkins Micawber]], [[characters/nicholas-nickleby|Nicholas Nickleby]], [[characters/oliver-twist|Oliver Twist]], [[characters/david-copperfield|David Copperfield]], [[characters/fagin|Fagin]], [[characters/seth-pecksniff|Seth Pecksniff]], [[characters/daniel-quilp|Daniel Quilp]], [[characters/wackford-squeers|Wackford Squeers]], [[characters/sairey-gamp|Sairey Gamp]], [[characters/ebenezer-scrooge|Ebenezer Scrooge]], [[characters/mr-bumble|Mr Bumble]], [[characters/dick-swiveller|Dick Swiveller]], [[characters/paul-dombey|Paul Dombey]], [[characters/mr-sapsea|Mr Sapsea]], [[characters/susan-nipper|Susan Nipper]], [[characters/vincent-crummles|Vincent Crummles]], [[characters/harold-skimpole|Harold Skimpole]], [[characters/amy-dorrit|Amy Dorrit]], [[characters/edward-murdstone|Edward Murdstone]], [[characters/dora-spenlow|Dora Spenlow]], [[characters/agnes-wickfield|Agnes Wickfield]], [[characters/miss-havisham|Miss Havisham]], [[characters/pip|Pip]], [[characters/mr.-toots|Mr. Toots]], [[characters/mr.-guppy|Mr. Guppy]], [[characters/uncle-pumblechook|Uncle Pumblechook]]
 
 **Motifs:** [[motifs/city|City]], [[motifs/money-and-gold|Money and Gold]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/prison|Prison]]
 **Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/social-injustice|Social Injustice]], [[concepts/artist-and-society|Artist and Society]], [[concepts/joy|Joy]], [[concepts/reform|Reform]], [[concepts/heroism|Heroism]], [[concepts/poverty|Poverty]], [[concepts/democracy|Democracy]], [[concepts/grotesque|Grotesque]], [[concepts/imprisonment|Imprisonment]], [[concepts/optimism|Optimism]], [[concepts/history|History]]

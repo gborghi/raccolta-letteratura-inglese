@@ -89,8 +89,8 @@ Raccolta tematica di 72 componimenti di Walt Whitman.
 - [[works/that-shadow-my-likeness-(whitman)|That Shadow My Likeness]]
 - [[works/the-runner-(whitman)|The Runner]]
 - [[works/there-was-a-child-went-forth-(whitman)|There Was a Child Went Forth]]
-- These Carols
-- Thou Reader
+- [[testi/whitman/atomized/identity-free-verse-eternal-return#291_these_carols|These Carols]]
+- [[testi/whitman/atomized/identity-free-verse-eternal-return#024_thou_reader|Thou Reader]]
 - [[works/thoughts-(whitman)|Thoughts]]
 - [[works/to-a-certain-cantatrice-(whitman)|To a Certain Cantatrice]]
 - [[works/to-a-historian-(whitman)|To a Historian]]

@@ -38,12 +38,12 @@ tags:
 
 **Topoi:** [[topoi/life-as-a-battle|Life as a Battle]]
 
-**Archetypes:** Christ Figure, Child
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/child|Child]]
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/cross|Cross]], [[motifs/battlefield-(2)|Battlefield (2)]]
 **Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/paradox|Paradox]], [[concepts/martyrdom|Martyrdom]], [[concepts/self-sacrifice|Self-Sacrifice]]
 **Forms & Genres:** [[forms/hymn|Hymn]], [[forms/lyric|Lyric]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

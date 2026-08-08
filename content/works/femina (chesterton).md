@@ -42,11 +42,11 @@ tags:
 
 **Historical References:** [[historical-references/bible|Bible]]
 
-**Archetypes:** Common Man (2)
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
 **Topoi:** [[topoi/sublime-in-nature|Sublime in Nature]]
 
-**Characters:** God
+**Characters:** [[characters/god|God]]
 
 **Motifs:** [[motifs/light-and-dark|Light and Dark]], [[motifs/sun|Sun]], [[motifs/moon|Moon]], [[motifs/birds|Birds]], [[motifs/storm|Storm]], [[motifs/grass-leaves-of-grass|Grass Leaves of Grass]], [[motifs/blood|Blood]]
 **Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/apocalypse|Apocalypse]], [[concepts/self-and-cosmos|Self and Cosmos]], [[concepts/sublime|Sublime]]

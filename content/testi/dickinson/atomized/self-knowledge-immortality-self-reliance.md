@@ -188,7 +188,7 @@ And with the Saints sat down.
 No more her patient figure  
 At twilight soft to meet —  
 No more her timid bonnet  
-Upon [[The Village Street|the village street]] —  
+Upon the village street —  
 
 But Crowns instead, and Courtiers —  
 And in the midst so fair,  
@@ -268,7 +268,7 @@ Nothing more —
 
 
 The [[motifs/soul|Soul]]'s Superior instants  
-Occur to Her — [[Alone|alone]] —  
+Occur to Her — alone —  
 When friend — and Earth's occasion  
 Have infinite withdrawn —  
 
@@ -608,7 +608,7 @@ And "Was it conscious — when it stepped
 In [[concepts/immortality|Immortality]]?"  
 
 I am alive — because  
-I do not own a [[house|House]] —  
+I do not own a House —  
 Entitled to myself — precise —  
 And fitting no one else —  
 
@@ -748,7 +748,7 @@ Creation looking on.
 The flesh surrendered, cancelled,  
 The bodiless begun ;  
 Two worlds, like audiences, disperse  
-And leave the [[motifs/soul|soul]] [[Alone|alone]].
+And leave the [[motifs/soul|soul]] alone.
 
 
 
@@ -929,7 +929,7 @@ Me — of Me?
 
 
 I dwell in Possibility —  
-A fairer [[house|House]] than Prose —  
+A fairer House than Prose —  
 More numerous of Windows —  
 Superior — for Doors —  
 
@@ -967,7 +967,7 @@ The Emperor of Men —
 
 Essential Oils — are wrung —  
 The Attar from the [[motifs/rose|Rose]]  
-Be not expressed by Suns — [[Alone|alone]] —  
+Be not expressed by Suns — alone —  
 It is the gift of Screws —  
 
 The General [[motifs/rose|Rose]] — [[motifs/decay|decay]] —  
@@ -1128,7 +1128,7 @@ The Bough where she was born —
 This Consciousness that is aware  
 Of Neighbors and the [[motifs/sun|Sun]]  
 Will be the one aware of [[motifs/death|Death]]  
-And that itself [[Alone|alone]]  
+And that itself alone  
 
 Is traversing the interval  
 Experience between  
@@ -1311,11 +1311,11 @@ But just an Asterisk.
 <span class="atom-split" data-atom="1142_the_props_assist_the_house" data-title="1142. The Props assist the House" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/identity,concept/childhood_and_growth,concept/immortality,form/allegory,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
-The Props assist the [[house|House]]  
-Until the [[house|House]] is built  
+The Props assist the House  
+Until the House is built  
 And then the Props withdraw  
 And adequate, erect,  
-The [[house|House]] support itself  
+The House support itself  
 And cease to recollect  
 The Auger and the Carpenter —  
 Just such a retrospect  
@@ -1718,7 +1718,7 @@ Below, the [[concepts/body|Body]] speaks,
 But as the Spirit furnishes —  
 Apart, it never talks —  
 The Music in the Violin  
-Does not emerge [[Alone|alone]]  
+Does not emerge alone  
 But Arm in Arm with Touch, yet Touch  
 [[works/alone-(poe)|Alone]] — is not a Tune —  
 The Spirit lurks within the Flesh  
@@ -1755,7 +1755,7 @@ Could make a Dent thereon —
 
 The World that thou hast opened  
 Shuts for thee,  
-But not [[Alone|alone]],  
+But not alone,  
 We all have followed thee —  
 Escape more slowly  
 To thy Tracts of Sheen —  
@@ -1792,7 +1792,7 @@ The spirit looks upon the [[motifs/dust|Dust]]
 That fastened it so long  
 With indignation,  
 As a Bird  
-Defrauded of its [[Song|song]].
+Defrauded of its song.
 
 
 

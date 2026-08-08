@@ -31,8 +31,8 @@ Guesses at Heaven; pity these have not
 Trac’d upon vellum or wild Indian leaf  
 The shadows of melodious utterance.  
 But bare of laurel they live, dream, and die;  
-For Poesy [[Alone|alone]] can tell her [[motifs/dreams|dreams]],  
-With the fine spell of words [[Alone|alone]] can save  
+For Poesy alone can tell her [[motifs/dreams|dreams]],  
+With the fine spell of words alone can save  
 [[concepts/imagination|Imagination]] from the sable charm  
 And dumb enchantment. Who alive can say,  
 ‘Thou art no Poet may’st not tell thy [[motifs/dreams|dreams]]?’  
@@ -185,7 +185,7 @@ Encourag’d by the sooth voice of the shade,
 ‘Who feel the giant agony of the world;  
 ‘And more, like slaves to poor humanity,  
 ‘Labour for mortal good? I sure should see  
-‘Other men here; but I am here [[Alone|alone]].’  
+‘Other men here; but I am here alone.’  
 ‘Those whom thou spak’st of are no vision’ries,’  
 Rejoin’d that voice; ‘they are no dreamers weak;  
 ‘They seek no [[concepts/wonder|wonder]] but the human face,  
@@ -199,7 +199,7 @@ Rejoin’d that voice; ‘they are no dreamers weak;
 ‘What haven? every creature hath its [[motifs/home|home]];  
 ‘Every sole man hath days of joy and [[motifs/pain|pain]],  
 ‘Whether his labours be [[concepts/sublime|sublime]] or low  
-‘The [[motifs/pain|pain]] [[Alone|alone]]; the joy [[Alone|alone]]; distinct:  
+‘The [[motifs/pain|pain]] alone; the joy alone; distinct:  
 ‘Only the dreamer venoms all his days,  
 ‘Bearing more woe than all his sins deserve.  
 ‘Therefore, that happiness be somewhat shar’d,  
@@ -310,7 +310,7 @@ To her cold lips, and fill with such a light
 Her planetary eyes, and touch her voice  
 With such a sorrow ‘Shade of [[motifs/memory|Memory]]!’  
 Cried I, with act adorant at her feet,  
-‘By all the gloom hung round thy fallen [[house]],  
+‘By all the gloom hung round thy fallen house,  
 ‘By this last temple, by the [[topoi/golden-age|golden age]],  
 ‘By great [[characters/apollo|Apollo]], thy dear Foster [[archetypes/child|Child]],  
 ‘And by thyself, forlorn divinity,  
@@ -390,7 +390,7 @@ To that large utterance of the early Gods!
 ‘Has from thy sceptre pass’d, and all the air  
 ‘Is emptied of thine hoary majesty:  
 ‘Thy thunder, captious at the new command,  
-‘Rumbles reluctant o’er our fallen [[house]];  
+‘Rumbles reluctant o’er our fallen house;  
 ‘And thy sharp [[motifs/lightning|lightning]], in unpracticed hands,  
 ‘Scorches and burns our once serene domain.  
 ‘With such remorseless [[characters/speed|speed]] still come new woes,  

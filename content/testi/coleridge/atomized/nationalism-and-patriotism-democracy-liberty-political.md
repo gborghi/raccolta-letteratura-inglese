@@ -38,7 +38,7 @@ December 1, 1794.
 
 O what a loud and fearful shriek was there,  
 As though a thousand souls one [[motifs/death|death]]-groan pour’d!  
-Ah me! they saw beneath a Hireling’s [[Sword|sword]]  
+Ah me! they saw beneath a Hireling’s sword  
 Their KOSKIUSKO fall! Through the swart air  
 (As pauses the tir’d Cossac’s barbarous yell   5  
 Of Triumph) on the chill and midnight gale  
@@ -58,7 +58,7 @@ December 16, 1794.
 <span class="atom-split" data-atom="093_to_lord_stanhope" data-title="TO LORD STANHOPE" data-chapter="" data-kind="intro"></span>
 
 
-ON READING HIS LATE PROTEST IN THE [[house|HOUSE]] OF LORDS  
+ON READING HIS LATE PROTEST IN THE HOUSE OF LORDS  
 ‘MORNING CHRONICLE,’ JAN. 31, 1795  
 STANHOPE! I hail, with ardent [[forms/hymn|Hymn]], thy name!  
 Thou shalt be bless’d and lov’d, when in the [[motifs/dust|dust]]  
@@ -107,11 +107,11 @@ Champion of [[concepts/freedom|Freedom]] and her God! rejoice!
 
 Leaving the gates of Darkness, O [[motifs/death|Death]]! hasten thou to a Race yoked to  
 Misery! Thou wilt not be received with lacerations of Cheeks, nor with  
-funereal ululation, but with circling Dances and the joy of [[songs|Songs]]. Thou  
+funereal ululation, but with circling Dances and the joy of Songs. Thou  
 art terrible indeed, yet thou dwellest with LIBERTY, stern GENIUS! Borne  
 on thy dark pinions over the swelling of Ocean they return to their  
 native country. There by the side of fountains beneath Citron groves,  
-the [[lovers|Lovers]] tell to their Beloved, what horrors, being Men, they had  
+the Lovers tell to their Beloved, what horrors, being Men, they had  
 endured from Men.  
 ¿ before ¶ ought to have been made long; ´¿ÑÂ QÀM¶ is  
 an Amphimacer not (as the metre here requires) a Dactyl. S.  
@@ -197,7 +197,7 @@ Dar’st thou inspir’d by the holy flame of [[motifs/love|Love]]
 Encounter such fell shapes, nor [[concepts/fear|fear]] to meet  
 Their wrath, their wiles? O Maiden dar’st thou die?’  
 ‘Father of Heaven: I will not [[concepts/fear|fear]].’ she said,   265  
-‘My arm is weak, but mighty is thy [[Sword|sword]].’  
+‘My arm is weak, but mighty is thy sword.’  
 She spake and as she spake the trump was heard  
 That echoed ominous o’er the streets of Rome,  
 When the first Caesar totter’d o’er the [[motifs/grave|grave]]  
@@ -291,14 +291,14 @@ Th’ Horizon kindles with so rich a red,
 That tho’ the Sun still hides his glorious head  
 Th’ impatient Matin-bird, assur’d of Day,  
 [[motifs/leaves|Leaves]] his low nest to meet its earliest ray;   10  
-Loud the sweet [[Song|song]] of Gratulation sings,  
+Loud the sweet song of Gratulation sings,  
 And high in air claps his rejoicing wings!  
 Patriot and Sage! whose breeze-like Spirit first  
 The lazy mists of Pedantry dispers’d  
 (Mists in which Superstition’s pigmy band   15  
 Seem’d Giant Forms, the Genii of the Land!),  
 Thy struggles soon shall wak’ning Britain bless,  
-And [[concepts/truth|Truth]] and [[concepts/freedom|Freedom]] hail thy wish’d [[success]].  
+And [[concepts/truth|Truth]] and [[concepts/freedom|Freedom]] hail thy wish’d success.  
 Yes Tooke! tho’ foul Corruption’s wolfish throng  
 Outmalice Calumny’s imposthum’d Tongue,   20  
 Thy Country’s noblest and determin’d Choice,  
@@ -381,13 +381,13 @@ foul superstition of Popery. Reason, indeed, began to suggest many
 apprehensions; yet still the Poet struggled to retain the [[concepts/hope|hope]] that
 France would make conquests by no other means than by presenting to the
 observation of Europe a people more happy and better instructed than
-under other forms of [[government|Government]]. Fourth Stanza. Switzerland, and the
+under other forms of Government. Fourth Stanza. Switzerland, and the
 Poet’s recantation. Fifth Stanza. An address to Liberty, in which the
 Poet expresses his conviction that those feelings and that grand ideal
 of [[concepts/freedom|Freedom]] which the mind attains by its contemplation of its individual
 [[concepts/nature|nature]], and of the [[concepts/sublime|sublime]] surrounding objects (see Stanza the First) do
 not belong to men, as a society, nor can possibly be either gratified or
-realised, under any form of human [[government]]; but belong to the
+realised, under any form of human government; but belong to the
 individual man, so far as he is pure, and inflamed with the [[motifs/love|love]] and
 adoration of God in [[concepts/nature|Nature]].’
 Title] The Recantation: an Ode. By S. T. Coleridge. 1798.

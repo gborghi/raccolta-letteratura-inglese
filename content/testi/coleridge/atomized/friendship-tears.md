@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="017_on_a_lady_weeping" data-title="ON A LADY WEEPING" data-chapter="" data-kind="intro"></span>
 
 
-[[Imitation|IMITATION]] FROM THE LATIN OF NICOLAUS ARCHIUS  
+IMITATION FROM THE LATIN OF NICOLAUS ARCHIUS  
 Lovely gems of radiance meek  
 Trembling down my Laura’s cheek,  
 As the streamlets silent glide  
@@ -159,7 +159,7 @@ And with him came my sister dear;
 After long absence now first met,  
 Long months by [[motifs/pain|pain]] and grief beset —  
 We three dear friends! in [[concepts/truth|truth]], we groan   45  
-Impatiently to be [[Alone|alone]].  
+Impatiently to be alone.  
 We three, you mark! and not one more!  
 The strong wish makes my spirit sore.  
 We have so much to talk about,  
@@ -239,7 +239,7 @@ T. Poole, —
 Repeating  
 Such verse as Bowles, heart [[concepts/honour|honour]]’d Poet sang,  
 That wakes the Tear, yet steals away the Pang,  
-Then, or with Berkeley, or with Hobbes [[Romance|romance]] it,  
+Then, or with Berkeley, or with Hobbes romance it,  
 Dissecting [[concepts/truth|Truth]] with metaphysic lancet.  
 Or, drawn from up these dark unfathom’d wells,  
 In wiser folly chink the Cap and [[motifs/bells|Bells]].  
@@ -262,7 +262,7 @@ HESIOD. [Works and Days, l. 40.]
 What a [[motifs/spring|spring]]-tide of [[motifs/love|Love]] to dear friends in a shoal!  
 Half of it to one were worth [[topoi/double|double]] the whole!  
 Undated. First published in P. W., 1834.  
-I stand [[Alone|alone]], nor tho’ my heart should break,  
+I stand alone, nor tho’ my heart should break,  
 Have I, to whom I may complain or speak.  
 Here I stand, a hopeless man and sad,  
 Who hoped to have seen my [[motifs/love|Love]], my Life.  

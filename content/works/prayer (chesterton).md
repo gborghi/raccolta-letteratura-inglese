@@ -52,7 +52,7 @@ tags:
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/humility|Humility]], [[concepts/divine-love|Divine Love]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/providence|Providence]], [[concepts/suffering|Suffering]], [[concepts/resignation|Resignation]], [[concepts/madness|Madness]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
-**Characters:** Christ, God
+**Characters:** [[characters/christ|Christ]], [[characters/god|God]]
 
 ## Testo integrale / Full text
 

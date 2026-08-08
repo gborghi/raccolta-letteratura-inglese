@@ -15,7 +15,7 @@ tags:
 
 
 [[motifs/sleep|Sleep]] is supposed to be,  
-By souls of [[Sanity|sanity]],  
+By souls of sanity,  
 The shutting of the eye.  
 
 [[motifs/sleep|Sleep]] is the station grand  
@@ -72,7 +72,7 @@ That such a little figure
 Too sound asleep did lie  
 
 For Chanticleer to wake it —  
-Or stirring [[house]] below —  
+Or stirring house below —  
 Or giddy bird in orchard —  
 Or early task to do?  
 
@@ -198,7 +198,7 @@ Had scarcely deigned to lie —
 When, stirring, for Belief's delight,  
 My Bride had slipped away —  
 
-If 'twas [[A Dream|a Dream]] — made solid — just  
+If 'twas a Dream — made solid — just  
 The Heaven to confirm —  
 Or if Myself were dreamed of Her —  
 The power to presume —  
@@ -396,7 +396,7 @@ My Process is not long
 The [[motifs/wind|Wind]] could wait without the Gate  
 Or stroll the Town among.  
 
-To ascertain the [[house|House]]  
+To ascertain the House  
 And is the [[motifs/soul|soul]] at [[motifs/home|Home]]  
 And hold the Wick of mine to it  
 To light, and then return —

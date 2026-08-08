@@ -70,7 +70,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Common Man (2)
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
 **Topoi:** [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]], [[topoi/golden-age|Golden Age]], [[topoi/night-journey-vision|Night Journey Vision]]
 **Motifs:** [[motifs/gold-and-grey|Gold and Grey]], [[motifs/city|City]], [[motifs/wheel|Wheel]], [[motifs/money-and-gold|Money and Gold]], [[motifs/snow|Snow]], [[motifs/dreams|Dreams]]
@@ -78,7 +78,7 @@ tags:
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/fable|Fable]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/king-alfred|King Alfred]], [[historical-references/battle-of-ethandun|Battle of Ethandun]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/french-revolution|French Revolution]], [[historical-references/danish-invasions|Danish Invasions]], [[historical-references/medieval-england|Medieval England]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/futurism|Futurism]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/industrial-city|Industrial City]], [[settings/london|London]]
-**Characters:** King Alfred (2), Ebenezer Scrooge, Robespierre, Duc de Chambertin-Pommard
+**Characters:** [[characters/king-alfred-(2)|King Alfred (2)]], [[characters/ebenezer-scrooge|Ebenezer Scrooge]], [[characters/robespierre|Robespierre]], [[characters/duc-de-chambertin-pommard|Duc de Chambertin-Pommard]]
 
 ## Testo integrale / Full text
 

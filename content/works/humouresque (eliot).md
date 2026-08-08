@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/moon|Moon]]
 **Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/spiritual-emptiness|Spiritual Emptiness]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/elegy|Elegy]]

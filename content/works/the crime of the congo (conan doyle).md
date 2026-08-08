@@ -58,5 +58,5 @@ tags:
 **Motifs:** [[motifs/blood|Blood]], [[motifs/money-and-gold|Money and Gold]]
 **Historical References:** [[historical-references/roger-casement|Roger Casement]], [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/africa|Africa]]
-**Characters:** Sir Arthur Conan Doyle
-**Archetypes:** Villain, Tyrant
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/tyrant|Tyrant]]

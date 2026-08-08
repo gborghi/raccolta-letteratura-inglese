@@ -33,27 +33,27 @@ tags:
 - [[works/a-metrical-accident-(coleridge)|A METRICAL ACCIDENT (Coleridge)]]
 - [[works/reflection-on-the-above-(coleridge)|REFLECTION ON THE ABOVE (Coleridge)]]
 - [[works/a-tale-of-two-cities-(dickens)|A Tale of Two Cities (Dickens)]]
-- 1072. Title divine — is mine! (Dickinson)
-- 1109. I fit for them — (Dickinson)
-- 1554. Go tell it — What a Message — (Dickinson)
-- 1736. Proud of my broken heart, since thou didst break it, (Dickinson)
-- 1737. Rearrange a Wife's affection! (Dickinson)
-- 295. Unto like Story — Trouble has enticed me — (Dickinson)
-- 313. I should have been too glad, I see — (Dickinson)
-- 325. Of Tribulation, these are They, (Dickinson)
-- 394. 'Twas Love — not me — (Dickinson)
-- 449. I died for Beauty — but was scarce (Dickinson)
-- 459. A Tooth upon Our Peace (Dickinson)
-- 474. They put Us far apart — (Dickinson)
-- 497. He strained my faith — (Dickinson)
-- 527. To put this World down, like a Bundle — (Dickinson)
-- 544. The Martyr Poets — did not tell — (Dickinson)
-- 553. One Crucifixion is recorded — only — (Dickinson)
-- 554. The Black Berry — wears a Thorn in his side — (Dickinson)
-- 561. I measure every Grief I meet (Dickinson)
-- 567. He gave away his Life — (Dickinson)
-- 573. The Test of Love — is Death — (Dickinson)
-- 792. Through the strait pass of suffering — (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1072_title_divine_is_mine|1072. Title divine — is mine! (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#1109_i_fit_for_them|1109. I fit for them — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1554_go_tell_it_what_a_message|1554. Go tell it — What a Message — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#1736_proud_of_my_broken_heart_since_thou_didst_break_it|1736. Proud of my broken heart, since thou didst break it, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1737_rearrange_a_wifes_affection|1737. Rearrange a Wife's affection! (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0295_unto_like_story_trouble_has_enticed_me|295. Unto like Story — Trouble has enticed me — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0313_i_should_have_been_too_glad_i_see|313. I should have been too glad, I see — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0325_of_tribulation_these_are_they|325. Of Tribulation, these are They, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0394_twas_love_not_me|394. 'Twas Love — not me — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0449_i_died_for_beauty_but_was_scarce|449. I died for Beauty — but was scarce (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0459_a_tooth_upon_our_peace|459. A Tooth upon Our Peace (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0474_they_put_us_far_apart|474. They put Us far apart — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0497_he_strained_my_faith|497. He strained my faith — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0527_to_put_this_world_down_like_a_bundle|527. To put this World down, like a Bundle — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0544_the_martyr_poets_did_not_tell|544. The Martyr Poets — did not tell — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0553_one_crucifixion_is_recorded_only|553. One Crucifixion is recorded — only — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0554_the_black_berry_wears_a_thorn_in_his_side|554. The Black Berry — wears a Thorn in his side — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0561_i_measure_every_grief_i_meet|561. I measure every Grief I meet (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0567_he_gave_away_his_life|567. He gave away his Life — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0573_the_test_of_love_is_death|573. The Test of Love — is Death — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0792_through_the_strait_pass_of_suffering|792. Through the strait pass of suffering — (Dickinson)]]
 - [[works/a-song-for-simeon-(eliot)|A Song for Simeon (Eliot)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/plays-(eliot)|PLAYS (Eliot)]]

@@ -28,7 +28,7 @@ tags:
 **Themes & Concepts:** [[concepts/grotesque|Grotesque]]
 **Forms & Genres:** [[forms/parody|Parody]], [[forms/ode|Ode]], [[forms/mock-epic|Mock Epic]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
-**Characters:** Prometheus, Satan
+**Characters:** [[characters/prometheus|Prometheus]], [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

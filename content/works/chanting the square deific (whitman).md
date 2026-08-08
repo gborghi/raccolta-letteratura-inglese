@@ -28,11 +28,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Christ Figure, Satanic Figure
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/satanic-figure|Satanic Figure]]
 **Themes & Concepts:** [[concepts/good-vs-evil|Good vs Evil]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/divine-love|Divine Love]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/hymn|Hymn]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/greek-mythology|Greek Mythology]]
-**Characters:** Christ, Satan
+**Characters:** [[characters/christ|Christ]], [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

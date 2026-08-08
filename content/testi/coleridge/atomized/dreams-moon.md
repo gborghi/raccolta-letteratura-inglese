@@ -68,7 +68,7 @@ But in my [[motifs/sleep|sleep]] to you I fly:
 I’m always with you in my [[motifs/sleep|sleep]]!  
 The world is all one’s own.  
 But then one wakes, and where am I?  
-All, all [[Alone|alone]].    10  
+All, all alone.    10  
 [[motifs/sleep|Sleep]] stays not, though a monarch bids:  
 So I [[motifs/love|love]] to wake ere break of day:  
 For though my [[motifs/sleep|sleep]] be gone,  
@@ -263,7 +263,7 @@ Say nothing of me — I myself will seek her —
 Nay, leave me, friend! I cannot bear the torment
 And keen inquiry of that scanning eye. —
 [Earl Henry retires into the wood.
-Sand. ([[Alone|alone]]). O Henry! always striv’st thou to be great
+Sand. (alone). O Henry! always striv’st thou to be great
 By thine own act — yet art thou never great   75
 But by the inspiration of great passion.
 The whirl-blast comes, the [[motifs/desert|desert]]-sands rise up
@@ -296,7 +296,7 @@ That weary, wandering, disavowing look!   10
 And still, methought, I knew, it was the same!  
 FRIEND  
 This riddling tale, to what does it belong?  
-Is’t [[concepts/history|history]]? vision? or an idle [[Song|song]]?  
+Is’t [[concepts/history|history]]? vision? or an idle song?  
 Or rather say at once, within what space   15  
 Of [[motifs/time|time]] this wild disastrous change took place?  
 AUTHOR  
@@ -396,7 +396,7 @@ Far liker to a Flower now than when alive,
 Cold to the Touch and blooming to the eye.  
 Sept. 1803. Now first published from an MS.  
 [THE [[motifs/night|NIGHT]]-MARE [[motifs/death|DEATH]] IN LIFE]  
-I know ‘tis but [[A Dream|a dream]], yet feel more anguish  
+I know ‘tis but a dream, yet feel more anguish  
 Than if ‘twere [[concepts/truth|truth]]. It has been often so:  
 Must I die under it? Is no one near?  
 Will no one hear these stifled groans and wake me?  

@@ -15,10 +15,10 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/fancies-versis-fads-(chesterton)|Fancies Versis Fads (Chesterton)]]
-- 215. What is — Paradise — (Dickinson)
-- 285. The Robin's my Criterion for Tune — (Dickinson)
-- 357. God is a distant — stately Lover — (Dickinson)
-- 814. One Day is there of the Series (Dickinson)
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0215_what_is_paradise|215. What is — Paradise — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0285_the_robins_my_criterion_for_tune|285. The Robin's my Criterion for Tune — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0357_god_is_a_distant_stately_lover|357. God is a distant — stately Lover — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0814_one_day_is_there_of_the_series|814. One Day is there of the Series (Dickinson)]]
 - [[works/aunt-helen-(eliot)|Aunt Helen (Eliot)]]
 - [[works/cousin-nancy-(eliot)|Cousin Nancy (Eliot)]]
 - [[works/landscapes-(eliot)|Landscapes (Eliot)]]

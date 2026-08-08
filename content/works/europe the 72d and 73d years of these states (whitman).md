@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/serpent-snake|Serpent Snake]], [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/democracy|Democracy]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

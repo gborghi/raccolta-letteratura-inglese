@@ -36,7 +36,7 @@ tags:
 **Themes & Concepts:** [[concepts/creativity|Creativity]], [[concepts/artist-and-society|Artist and Society]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/beauty|Beauty]]
 **Motifs:** [[motifs/the-book|The Book]], [[motifs/letters-and-writing|Letters and Writing]]
 **Historical References:** [[historical-references/robert-blatchford|Robert Blatchford]]
-**Archetypes:** The Writer
+**Archetypes:** [[archetypes/the-writer|The Writer]]
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
 
 **Also relevant to:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]

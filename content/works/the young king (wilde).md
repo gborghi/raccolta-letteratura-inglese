@@ -56,13 +56,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/dance-of-death|Dance of Death]], [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** King, Christ Figure, Orphan, Prophet
+**Archetypes:** [[archetypes/king|King]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/orphan|Orphan]], [[archetypes/prophet|Prophet]]
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/crown|Crown]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/money-and-gold|Money and Gold]], [[motifs/blood|Blood]], [[motifs/sea|Sea]], [[motifs/white-and-red|White and Red]], [[motifs/death|Death]], [[motifs/cross|Cross]]
 **Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/class-conflict|Class Conflict]], [[concepts/beauty|Beauty]], [[concepts/conversion|Conversion]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/humility|Humility]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 **Settings:** [[settings/castle|Castle]]
-**Characters:** Christ, Young King
+**Characters:** [[characters/christ|Christ]], [[characters/young-king|Young King]]
 
 ## Testo integrale / Full text
 

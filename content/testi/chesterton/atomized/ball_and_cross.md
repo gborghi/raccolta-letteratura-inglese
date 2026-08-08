@@ -53,15 +53,15 @@ The flying [[motifs/ship|ship]] of Professor [[characters/lucifer|Lucifer]] sang
 silver arrow; the bleak white steel of it, gleaming in the bleak blue
 emptiness of the evening.  That it was far above the earth was no
 expression for it; to the two men in it, it seemed to be far above
-the [[motifs/stars|stars]].  [[The Professor|The professor]] had himself invented the flying [[motifs/machine|machine]],
+the [[motifs/stars|stars]].  The professor had himself invented the flying [[motifs/machine|machine]],
 and had also invented nearly everything in it.  Every sort of tool
 or apparatus had, in consequence, to the full, that fantastic
 and distorted look which belongs to the miracles of science.
 For the world of science and evolution is far more nameless and
-elusive and like [[A Dream|a dream]] than the world of poetry and religion;
+elusive and like a dream than the world of poetry and religion;
 since in the latter images and ideas remain themselves eternally,
 while it is the whole idea of evolution that identities melt into
-each other as they do in a [[nightmare]].
+each other as they do in a nightmare.
 
 All the tools of Professor [[characters/lucifer|Lucifer]] were the ancient human tools
 gone mad, grown into unrecognizable shapes, forgetful of their origin,
@@ -71,13 +71,13 @@ That object which seemed to be created by the entanglement of two
 corkscrews was really the key.  The thing which might have been
 mistaken for a tricycle turned upside-down was the inexpressibly
 important instrument to which the corkscrew was the key.
-All these things, as I say, [[The Professor|the professor]] had invented; he had invented
+All these things, as I say, the professor had invented; he had invented
 everything in the flying [[motifs/ship|ship]], with the exception, perhaps, of himself.
 This he had been born too late actually to inaugurate, but he believed
 at least, that he had considerably improved it.
 
 There was, however, another man on board, so to speak,
-at the [[motifs/time|time]].  Him, also, by a curious coincidence, [[The Professor|the professor]]
+at the [[motifs/time|time]].  Him, also, by a curious coincidence, the professor
 had not invented, and him he had not even very greatly improved,
 though he had fished him up with a lasso out of his own back [[motifs/garden|garden]],
 in Western Bulgaria, with the pure object of improving him.
@@ -101,12 +101,12 @@ And now that his luck had lifted him above all the [[settings/mountains|mountain
 in the society of a wild physicist, he made himself happy still.
 
 "I have no intention, my good [[characters/michael|Michael]]," said Professor [[characters/lucifer|Lucifer]],
-"of endeavouring to [[convert]] you by argument.  The imbecility of your
+"of endeavouring to convert you by argument.  The imbecility of your
 traditions can be quite finally exhibited to anybody with mere
 ordinary knowledge of the world, the same kind of knowledge which
 teaches us not to sit in draughts or not to encourage friendliness
 in impecunious people.  It is folly to talk of this or that
-demonstrating the rationalist [[philosophy]].  Everything demonstrates it.
+demonstrating the rationalist philosophy.  Everything demonstrates it.
 Rubbing shoulders with men of all kinds----"
 
 "You will forgive me," said the monk, meekly from under loads
@@ -115,14 +115,14 @@ that I might rub my shoulder against men of all kinds that you put
 me inside this thing?"
 
 "An entertaining retort, in the narrow and deductive manner
-of the Middle Ages," replied [[The Professor|the Professor]], calmly, "but even upon
+of the Middle Ages," replied the Professor, calmly, "but even upon
 your own basis I will illustrate my point.  We are up in the sky.
 In your religion and all the religions, as far as I know (and I
 know everything), the sky is made the symbol of everything that is
 sacred and merciful.  [[motifs/well|Well]], now you are in the sky, you know better.
 Phrase it how you like, twist it how you like, you know that you
 know better.  You know what are a man's real feelings about the heavens,
-when he finds himself [[Alone|alone]] in the heavens, surrounded by the heavens.
+when he finds himself alone in the heavens, surrounded by the heavens.
 You know the [[concepts/truth|truth]], and the [[concepts/truth|truth]] is this.  The heavens are evil,
 the sky is evil, the [[motifs/stars|stars]] are evil.  This mere space, this mere
 quantity, terrifies a man more than tigers or the terrible plague.
@@ -155,7 +155,7 @@ a foreign language."
 
 Una discussione un po' in aria
 
-La [[motifs/ship|nave]] volante del professor [[characters/lucifer|Lucifero]] cantava attraverso i cieli come una freccia d'argento; il suo acciaio bianco e desolato, che brillava nel vuoto azzurro cupo della sera. Non si poteva dire che fosse lontana dalla terra; per gli due uomini al suo interno, sembrava essere lontana dalle [[motifs/stars|stelle]]. [[The Professor|Il professore]] aveva inventato lui stesso la [[motifs/machine|macchina]] volante e aveva anche inventato quasi tutto ciò che conteneva. Di conseguenza ogni sorta di strumento o apparecchiatura aveva pienamente quell'aspetto fantastico e distorto che appartiene ai miracoli della scienza. Perché il mondo della scienza e dell'evoluzione è molto più anonimo ed elusivo, simile a [[A Dream|un sogno]], rispetto al mondo della poesia e della religione; dato che in quest'ultimo le immagini e le idee rimangono eternamente se stesse, mentre l'idea stessa dell'evoluzione è che le identità si fondono tra loro come avviene in un [[nightmare|incubo]].
+La [[motifs/ship|nave]] volante del professor [[characters/lucifer|Lucifero]] cantava attraverso i cieli come una freccia d'argento; il suo acciaio bianco e desolato, che brillava nel vuoto azzurro cupo della sera. Non si poteva dire che fosse lontana dalla terra; per gli due uomini al suo interno, sembrava essere lontana dalle [[motifs/stars|stelle]]. Il professore aveva inventato lui stesso la [[motifs/machine|macchina]] volante e aveva anche inventato quasi tutto ciò che conteneva. Di conseguenza ogni sorta di strumento o apparecchiatura aveva pienamente quell'aspetto fantastico e distorto che appartiene ai miracoli della scienza. Perché il mondo della scienza e dell'evoluzione è molto più anonimo ed elusivo, simile a un sogno, rispetto al mondo della poesia e della religione; dato che in quest'ultimo le immagini e le idee rimangono eternamente se stesse, mentre l'idea stessa dell'evoluzione è che le identità si fondono tra loro come avviene in un incubo.
 
 Tutti gli strumenti del professor [[characters/lucifer|Lucifero]] erano gli antichi strumenti umani impazziti,
 cresciuti in forme irriconoscibili, dimentichi della loro origine,
@@ -165,13 +165,13 @@ Quell'oggetto che sembrava essere creato dall'intreccio di due
 tappi a vite era in realtà la chiave. La cosa che avrebbe potuto essere
 scambiata per un triciclo capovolto era lo strumento inesprimibilmente
 importante al quale il tappo a vite faceva da chiave.
-Tutte queste cose, come dicevo, [[The Professor|il professore]] le aveva inventate; aveva inventato
+Tutte queste cose, come dicevo, il professore le aveva inventate; aveva inventato
 tutto nella nave volante con l'eccezione, forse, di se stesso.
 Questo era nato troppo tardi per inaugurare realmente, ma credeva
 almeno che lo avesse notevolmente migliorato.
 
 C'era però un altro uomo a bordo, per così dire,
-all'[[motifs/time|epoca]]. Anche lui, per una curiosa coincidenza, non era stato inventato [[The Professor|dal professore]], e nemmeno lo aveva molto migliorato,
+all'[[motifs/time|epoca]]. Anche lui, per una curiosa coincidenza, non era stato inventato dal professore, e nemmeno lo aveva molto migliorato,
 sebbene l'avesse pescato con un laccio dal suo retro[[motifs/garden|orto]],
 nella Bulgaria occidentale, col solo scopo di perfezionarlo.
 Era un uomo estremamente santo, quasi interamente ricoperto da capelli bianchi.
@@ -194,19 +194,19 @@ E ora che la sua fortuna lo aveva sollevato al disopra di tutte le [[settings/mo
 in compagnia di uno scienziato pazzo, si rendeva felice ancora.
 
 «Non ho alcuna intenzione, mio buon [[characters/michael|Michelangelo]]», disse il professor [[characters/lucifer|Lucifero]],
-«di tentare di [[convert|convertirti]] con argomentazioni. L'imbecillità delle tue tradizioni può essere esposta in modo definitivo a chiunque abbia una semplice conoscenza ordinaria del mondo, lo stesso tipo di conoscenza che ci insegna a non sederci nelle correnti d'aria o a non incoraggiare la cordialità nelle persone senza soldi. È follia parlare di questo o quello come dimostrazione della [[philosophy|filosofia]] razionalista. Tutto lo dimostra.
+«di tentare di convertirti con argomentazioni. L'imbecillità delle tue tradizioni può essere esposta in modo definitivo a chiunque abbia una semplice conoscenza ordinaria del mondo, lo stesso tipo di conoscenza che ci insegna a non sederci nelle correnti d'aria o a non incoraggiare la cordialità nelle persone senza soldi. È follia parlare di questo o quello come dimostrazione della filosofia razionalista. Tutto lo dimostra.
 Strofinarsi le spalle con uomini di ogni tipo----»
 
 «Mi perdonerete», disse il monaco con umiltà da sotto i suoi folti
 baffi bianchi, «ma [[concepts/fear|temo]] di non aver capito; è stato forse perché potessi sfregare la mia spalla contro uomini di ogni tipo che mi avete messo dentro questa cosa?»
 
-«Una risposta divertente, nel modo ristretto e deduttivo del Medioevo», replicò [[The Professor|il professore]], con calma, «ma anche sulla base delle tue stesse premesse illustrerò il mio punto.  Siamo in cielo.
+«Una risposta divertente, nel modo ristretto e deduttivo del Medioevo», replicò il professore, con calma, «ma anche sulla base delle tue stesse premesse illustrerò il mio punto.  Siamo in cielo.
 Nella tua religione e in tutte le religioni, per quanto ne so (e io
 so tutto), il cielo è fatto simbolo di tutto ciò che è
 sacro e misericordioso.  [[motifs/well|Beh]], ora sei in cielo, lo sai meglio.
 Formulalo come vuoi, distorcelo come vuoi, tu sai che ne sai più di prima.
 Tu sai quali sono i veri sentimenti di un uomo verso il cielo,
-quando si trova [[Alone|solo]] nel cielo, circondato dal cielo.
+quando si trova solo nel cielo, circondato dal cielo.
 Conosci la [[concepts/truth|verità]], e la [[concepts/truth|verità]] è questa.  Il cielo è malvagio,
 il cielo è malvagio, le [[motifs/stars|stelle]] sono malvagie.  Questo semplice spazio, questa mera
 quantità, terrorizza un uomo più di tigri o della terribile peste.
@@ -233,7 +233,7 @@ all'orrore delle [[motifs/stars|stelle]].»
 <span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_02" data-title="ball and cross — A Discussion Somewhat in the Air (part 2)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt" data-tags="archetype/innocent,motif/cross,motif/desert,motif/fire,motif/ship,motif/time,motif/well,concept/body,concept/truth,setting/cathedral,setting/desert,setting/london,setting/ship,character/lucifer,character/michael"></span>
 
 
-"Come, come," said [[The Professor|the Professor]], encouragingly, "I'll help you out.
+"Come, come," said the Professor, encouragingly, "I'll help you out.
 How did my view strike you?"
 
 "[[motifs/well|Well]], the [[concepts/truth|truth]] is, I know I don't express it properly, but somehow
@@ -264,7 +264,7 @@ here the intellect----"
 "There seems," said [[characters/michael|Michael]], timidly, "to be something sticking up
 in the middle of it."
 
-"So there is," said [[The Professor|the Professor]], leaning over the side of the [[motifs/ship|ship]],
+"So there is," said the Professor, leaning over the side of the [[motifs/ship|ship]],
 his spectacles shining with intellectual excitement.  "What can it be?
 It might of course be merely a----"
 
@@ -272,7 +272,7 @@ Then a shriek indescribable broke out of him of a sudden, and he flung
 up his arms like a lost spirit.  The monk took the helm in a tired way;
 he did not seem much astonished for he came from an ignorant part
 of the world in which it is not uncommon for lost spirits to shriek
-when they see the curious shape which [[The Professor|the Professor]] had just seen
+when they see the curious shape which the Professor had just seen
 on the top of the mysterious ball, but he took the helm only just
 in [[motifs/time|time]], and by driving it hard to the left he prevented the flying
 [[motifs/ship|ship]] from smashing into St. Paul's [[settings/cathedral|Cathedral]].
@@ -324,11 +324,11 @@ And he pointed up to the [[motifs/cross|cross]], his face dark with a grin.
 part of the rationalist case and the Christian humbug from any
 symbol you liked to give me, from any instance I came across.
 Here is an instance with a vengeance.  What could possibly express
-your [[philosophy]] and my [[philosophy]] better than the shape of that [[motifs/cross|cross]]
+your philosophy and my philosophy better than the shape of that [[motifs/cross|cross]]
 and the shape of this ball?  This globe is reasonable; that [[motifs/cross|cross]]
 is unreasonable.  It is a four-legged animal, with one leg longer
 than the others.  The globe is inevitable.  The [[motifs/cross|cross]] is arbitrary.
-Above all the globe is at [[unity]] with itself; the [[motifs/cross|cross]] is primarily
+Above all the globe is at unity with itself; the [[motifs/cross|cross]] is primarily
 and above all things at enmity with itself.  The [[motifs/cross|cross]] is
 the conflict of two hostile lines, of irreconcilable direction.
 That silent thing up there is essentially a collision, a crash,
@@ -341,7 +341,7 @@ The very shape of it is a contradiction in terms."
 
 <span class="qlang-split" data-lang="it"></span>
 
-"Su, su," disse [[The Professor|il Professore]], con tono incoraggiante, "vi darò una mano.
+"Su, su," disse il Professore, con tono incoraggiante, "vi darò una mano.
 Come vi ha colpito la mia visione delle cose?"
 
 "[[motifs/well|Ecco]], la [[concepts/truth|verità]] è che so di non esprimerla come si deve, ma in
@@ -360,7 +360,7 @@ Negli ultimi dieci minuti erano precipitati in giù, tra grandi
 fenditure e caverne di nuvola. Ora, attraverso una sorta di foschia purpurea,
 si poteva scorgere relativamente vicino a loro quella che sembrava essere la parte
 superiore di un enorme, scuro globo o sfera, come un'isola in un mare di nuvole.
-Gli occhi [[The Professor|del Professore]] fiammeggiavano come quelli di un pazzo.
+Gli occhi del Professore fiammeggiavano come quelli di un pazzo.
 
 "È un mondo nuovo," gridò, con una gioia spaventosa.
 "È un nuovo pianeta e porterà il mio nome. Sarà questa stella, e non
@@ -372,7 +372,7 @@ qui l'intelletto..."
 "Pare," disse [[characters/michael|Michael]], timidamente, "che ci sia qualcosa che sporge
 in mezzo ad esso."
 
-"Difatti c'è," disse [[The Professor|il Professore]], sporgendosi oltre la fiancata della [[motifs/ship|nave]],
+"Difatti c'è," disse il Professore, sporgendosi oltre la fiancata della [[motifs/ship|nave]],
 con gli occhiali che brillavano d'eccitazione intellettuale. "Che cosa può essere?
 Potrebbe naturalmente essere soltanto un..."
 
@@ -380,7 +380,7 @@ Poi d'improvviso gli eruppe di dosso un urlo indescrivibile, e levò in alto
 le braccia come uno spirito perduto. Il monaco prese il timone in modo stanco;
 non parve troppo stupito, poiché veniva da una parte ignorante
 del mondo in cui non è raro che gli spiriti perduti urlino
-quando vedono la curiosa forma che [[The Professor|il Professore]] aveva appena veduto
+quando vedono la curiosa forma che il Professore aveva appena veduto
 in cima alla misteriosa sfera, ma prese il timone appena
 in [[motifs/time|tempo]], e spingendolo con forza verso sinistra impedì alla [[motifs/ship|nave]] volante
 di fracassarsi contro la [[settings/cathedral|cattedrale]] di San Paolo.
@@ -432,11 +432,11 @@ E indicò in su verso la [[motifs/cross|croce]], il viso scuro per un ghigno.
 della tesi razionalista e della fandonia cristiana a partire da qualunque
 simbolo tu volessi darmi, da qualunque esempio mi capitasse davanti.
 Ecco un esempio in tutta la sua evidenza. Cosa potrebbe mai esprimere
-la tua [[philosophy|filosofia]] e la mia [[philosophy|filosofia]] meglio della forma di quella [[motifs/cross|croce]]
+la tua filosofia e la mia filosofia meglio della forma di quella [[motifs/cross|croce]]
 e della forma di questa sfera? Questo globo è ragionevole; quella [[motifs/cross|croce]]
 è irragionevole. È un animale a quattro zampe, con una zampa più lunga
 delle altre. Il globo è inevitabile. La [[motifs/cross|croce]] è arbitraria.
-Soprattutto il globo è in [[unity|unità]] con se stesso; la [[motifs/cross|croce]] è anzitutto
+Soprattutto il globo è in unità con se stesso; la [[motifs/cross|croce]] è anzitutto
 e sopra ogni cosa in inimicizia con se stessa. La [[motifs/cross|croce]] è
 il conflitto di due linee ostili, di direzione inconciliabile.
 Quella cosa silenziosa lassù è essenzialmente una collisione, uno schianto,
@@ -482,7 +482,7 @@ should be at the top of the tree, not at the [[characters/bottom|bottom]] of it.
 think that in a rationalistic scheme of symbolism the ball should
 be on top of the [[motifs/cross|cross]]?"
 
-"It sums up my whole [[forms/allegory|allegory]]," said [[The Professor|the professor]].
+"It sums up my whole [[forms/allegory|allegory]]," said the professor.
 
 "[[motifs/well|Well]], that is really very interesting," resumed [[characters/michael|Michael]] slowly,
 "because I think in that case you would see a most singular effect,
@@ -512,7 +512,7 @@ the view that the symbol of [[historical-references/christianity|Christianity]] 
 savagery and all unreason.  His [[concepts/history|history]] is rather amusing.
 It is also a perfect [[forms/allegory|allegory]] of what happens to rationalists
 like yourself.  He began, of course, by refusing to allow a crucifix
-in his [[house]], or round his wife's neck, or even in a picture.
+in his house, or round his wife's neck, or even in a picture.
 He said, as you say, that it was an arbitrary and fantastic shape,
 that it was a monstrosity, loved because it was paradoxical.
 Then he began to grow fiercer and more eccentric; he would batter
@@ -530,13 +530,13 @@ was an army of innumerable crosses linked together over [[motifs/hill|hill]] and
 And he whirled up his heavy stick and went at it as if at an army.
 Mile after mile along his homeward path he broke it down and tore it up.
 For he hated the [[motifs/cross|cross]] and every paling is a wall of crosses.
-When he returned to his [[house]] he was a literal madman.
+When he returned to his house he was a literal madman.
 He sat upon a chair and then started up from it for the
 [[motifs/cross|cross]]-bars of the carpentry repeated the intolerable image.
 He flung himself upon a bed only to remember that this, too,
 like all workmanlike things, was constructed on the accursed plan.
 He broke his furniture because it was made of crosses.
-He burnt his [[house]] because it was made of crosses.  He was found
+He burnt his house because it was made of crosses.  He was found
 in the [[motifs/river|river]]."
 
 [[characters/lucifer|Lucifer]] was looking at him with a bitten lip.
@@ -561,7 +561,7 @@ And with a herculean energy he forced the monk backwards out
 of the reeling car on to the upper part of the stone ball.
 [[characters/michael|Michael]], with as abrupt an agility, caught one of the beams of the [[motifs/cross|cross]]
 and saved himself from falling.  At the same instant [[characters/lucifer|Lucifer]] drove
-down a lever and the [[motifs/ship|ship]] shot up with him in it [[Alone|alone]].
+down a lever and the [[motifs/ship|ship]] shot up with him in it alone.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -576,7 +576,7 @@ Ogni forma di vita è una lotta impressa nella carne.  La forma della [[motifs/c
 Voi dite che la [[motifs/cross|croce]] è un quadrupede con un arto più lungo degli altri.
 Io dico che l'uomo è un quadrupede che si serve soltanto di due delle sue zampe."
 
-[[The Professor|Il Professore]] aggrottò la fronte pensieroso per un istante, e disse:
+Il Professore aggrottò la fronte pensieroso per un istante, e disse:
 "Naturalmente tutto è relativo, e non negherei che
 l'elemento di lotta e di [[concepts/self|autocontraddizione]], rappresentato da
 quella [[motifs/cross|croce]], abbia un posto necessario a un certo stadio evolutivo.
@@ -597,7 +597,7 @@ dovrebbe stare in cima all'albero, non alla sua [[characters/bottom|base]]."
 pensate che in uno schema razionalistico di simbolismo la palla dovrebbe
 stare in cima alla [[motifs/cross|croce]]?"
 
-"Riassume tutta la mia [[forms/allegory|allegoria]]," disse [[The Professor|il professore]].
+"Riassume tutta la mia [[forms/allegory|allegoria]]," disse il professore.
 
 "[[motifs/well|Ebbene]], è davvero molto interessante," riprese [[characters/michael|Michael]] lentamente,
 "perché credo che in tal caso vedreste un effetto assai singolare,
@@ -627,7 +627,7 @@ il punto di vista secondo cui il simbolo del [[historical-references/christianit
 barbarie e di ogni irragionevolezza.  La sua [[concepts/history|storia]] è piuttosto divertente.
 È anche una perfetta [[forms/allegory|allegoria]] di ciò che accade ai razionalisti
 come voi.  Cominciò, naturalmente, col rifiutare di ammettere un crocifisso
-in [[house|casa]] sua, o al collo di sua moglie, o perfino in un quadro.
+in casa sua, o al collo di sua moglie, o perfino in un quadro.
 Diceva, come dite voi, che era una forma arbitraria e fantastica,
 che era una mostruosità, amata perché paradossale.
 Poi cominciò a farsi più feroce e più eccentrico; si mise a demolire
@@ -645,13 +645,13 @@ era un esercito di innumerevoli croci congiunte l'una all'altra su per [[motifs/
 E fece roteare il suo pesante bastone e vi si scagliò contro come contro un esercito.
 Miglio dopo miglio, lungo il cammino verso casa, lo abbatté e lo divelse.
 Poiché odiava la [[motifs/cross|croce]] e ogni steccato è un muro di croci.
-Quando fece ritorno alla sua [[house|casa]] era un pazzo in senso letterale.
+Quando fece ritorno alla sua casa era un pazzo in senso letterale.
 Si sedette su una sedia e poi ne balzò via, poiché le sbarre
 incrociate della falegnameria ripetevano l'immagine intollerabile.
 Si gettò su un letto solo per ricordare che anche questo,
 come tutte le cose fatte a regola d'arte, era costruito sul piano maledetto.
 Ruppe i suoi mobili perché erano fatti di croci.
-Bruciò la sua [[house|casa]] perché era fatta di croci.  Fu ritrovato
+Bruciò la sua casa perché era fatta di croci.  Fu ritrovato
 nel [[motifs/river|fiume]]."
 
 [[characters/lucifer|Lucifer]] lo guardava mordendosi il labbro.
@@ -676,7 +676,7 @@ E con un'energia erculea spinse il monaco all'indietro fuori
 dalla vettura oscillante, sulla parte superiore della palla di pietra.
 [[characters/michael|Michael]], con altrettanto brusca agilità, afferrò una delle travi della [[motifs/cross|croce]]
 e si salvò dalla caduta.  Nello stesso istante [[characters/lucifer|Lucifer]] abbassò
-di scatto una leva e la [[motifs/ship|nave]] schizzò in alto con lui dentro, [[Alone|solo]].
+di scatto una leva e la [[motifs/ship|nave]] schizzò in alto con lui dentro, solo.
 
 
 
@@ -689,7 +689,7 @@ di scatto una leva e la [[motifs/ship|nave]] schizzò in alto con lui dentro, [[
 "it is at any rate a great deal better than the ball.
 May I ask if you are going to leave me here?"
 
-"Yes, yes.  I mount!  I mount!" cried [[The Professor|the professor]] in
+"Yes, yes.  I mount!  I mount!" cried the professor in
 ungovernable excitement.  "_Altiora peto_.  My path is upward."
 
 "How often have you told me, Professor, that there is really no
@@ -749,7 +749,7 @@ Frequently they produce a certain useless and joyless activity
 of the mere intellect, thought not only divorced from [[concepts/hope|hope]]
 but even from [[motifs/desire|desire]].  And if it is impossible to dogmatize
 about such states, it is still more impossible to describe them.
-To this spasm of [[Sanity|sanity]] and clarity in [[characters/michael|Michael]]'s mind succeeded a spasm
+To this spasm of sanity and clarity in [[characters/michael|Michael]]'s mind succeeded a spasm
 of the elemental terror; the terror of the animal in us which regards
 the whole universe as its enemy; which, when it is victorious,
 has no pity, and so, when it is defeated has no imaginable [[concepts/hope|hope]].
@@ -803,7 +803,7 @@ He thought how nice it would be if he had to live up in that gallery
 with that one man for ever.  He thought how he would luxuriate
 in the nameless shades of this man's [[motifs/soul|soul]] and then hear with an
 endless excitement about the nameless shades of the souls of all
-his aunts and uncles.  A moment before he had been dying [[Alone|alone]].
+his aunts and uncles.  A moment before he had been dying alone.
 Now he was living in the same world with a man; an inexhaustible ecstasy.
 In the gallery below the ball Father [[characters/michael|Michael]] had found that man
 who is the noblest and most divine and most lovable of all men,
@@ -818,7 +818,7 @@ better than all the saints, greater than all the heroes--man Friday.
 «è in ogni caso assai migliore della palla.
 Posso chiederti se hai intenzione di lasciarmi qui?»
 
-«Sì, sì. Io salgo! Io salgo!» gridò [[The Professor|il professore]] in
+«Sì, sì. Io salgo! Io salgo!» gridò il professore in
 un'eccitazione incontenibile. «_Altiora peto_. La mia via è verso l'alto.»
 
 «Quante volte mi avete detto, Professore, che nello spazio non c'è in realtà né
@@ -878,7 +878,7 @@ Sovente essi producono una certa inutile e gioiosa attività
 del puro intelletto, un pensiero divorziato non solo dalla [[concepts/hope|speranza]]
 ma perfino dal [[motifs/desire|desiderio]]. E se è impossibile dogmatizzare
 su tali stati, è ancor più impossibile descriverli.
-A questo spasimo di [[Sanity|lucidità]] e chiarezza nella mente di [[characters/michael|Michael]] succedette uno spasimo
+A questo spasimo di lucidità e chiarezza nella mente di [[characters/michael|Michael]] succedette uno spasimo
 del terrore elementare; il terrore dell'animale che è in noi, che considera
 l'intero universo come suo nemico; il quale, quando è vittorioso,
 non ha pietà, e così, quando è sconfitto, non ha [[concepts/hope|speranza]] immaginabile.
@@ -932,7 +932,7 @@ Pensò a quanto sarebbe stato bello se avesse dovuto vivere lassù in quella gal
 con quell'unico uomo per sempre. Pensò a come si sarebbe crogiolato
 nelle sfumature senza nome dell'[[motifs/soul|anima]] di quest'uomo e poi udito con un
 interminabile eccitazione delle sfumature senza nome delle anime di tutte
-le sue zie e i suoi zii. Un attimo prima era stato morente e [[Alone|solo]].
+le sue zie e i suoi zii. Un attimo prima era stato morente e solo.
 Ora viveva nel medesimo mondo con un uomo; un'estasi inesauribile.
 Nella galleria sotto la palla Padre [[characters/michael|Michael]] aveva trovato quell'uomo
 che è il più nobile e più divino e più amabile di tutti gli uomini,
@@ -1223,7 +1223,7 @@ evenings and shake his fist at St. Paul's in the passion of his
 holy war upon the holy place.  He might have spared his emotion.
 The [[motifs/cross|cross]] at the top of St. Paul's and _The Atheist_ shop at the foot
 of it were alike remote from the world.  The shop and the [[motifs/cross|Cross]]
-were equally uplifted and [[Alone|alone]] in the empty heavens.
+were equally uplifted and alone in the empty heavens.
 
 To the little man who edited _The Atheist_, a fiery little Scotchman,
 with fiery, red hair and beard, going by the name of Turnbull,
@@ -1240,7 +1240,7 @@ in a shop in Ludgate became a less and less important occurrence.
 All the forward men of his age discouraged Turnbull.
 The socialists said he was cursing priests when he should be
 cursing capitalists.  The artists said that the [[motifs/soul|soul]] was most spiritual,
-not when freed from religion, but when freed from [[morality]].
+not when freed from religion, but when freed from morality.
 Year after year went by, and at least a man came by who treated
 Mr. Turnbull's secularist shop with a real respect and seriousness.
 He was a young man in a grey plaid, and he smashed the [[motifs/window|window]].
@@ -1287,7 +1287,7 @@ things, he understood the [[motifs/supernatural|supernatural]] before he underst
 He had looked at dim angels standing knee-deep in the grass
 before he had looked at the grass.  He knew that Our Lady's robes
 were blue before he knew the wild roses round her feet were red.
-The deeper his [[motifs/memory|memory]] plunged into the dark [[house]] of [[motifs/childhood|childhood]]
+The deeper his [[motifs/memory|memory]] plunged into the dark house of [[motifs/childhood|childhood]]
 the nearer and nearer he came to the things that cannot be named.
 All through his life he thought of the daylight world as a sort
 of divine debris, the broken remainder of his first vision.
@@ -1300,7 +1300,7 @@ the [[motifs/stars|stars]] by accident.
 
 II. LA RELIGIONE DEL GIUDICE DI PACE
 
-L'ufficio editoriale de "L'Ateo" era ormai da anni diventato sempre meno interessante come elemento distintivo di Ludgate [[motifs/hill|Hill]]. Il giornale non si adattava all'atmosfera del posto. Mostrava un interesse per la [[historical-references/bible|Bibbia]] sconosciuto nella zona, e una conoscenza di quel volume a cui nessun altro su Ludgate [[motifs/hill|Hill]] poteva rivendicare in modo vistoso. Era inutile che l'editore de "L'Ateo" riempisse la sua vetrina con richieste feroci e definitive su cosa avesse fatto Noè nell'Arca col collo della giraffa. Era inutile che chiedesse violentemente, come se fosse per l'ultima [[motifs/time|volta]], come si potesse conciliare l'affermazione "Dio è Spirito" con quella "La terra è il Suo sgabello". Era inutile che gridasse con un'accusatoria energia che il Vescovo di [[settings/london|Londra]] riceveva 12.000 sterline all'anno per fingere di credere che la balena avesse inghiottito Giona. Era inutile che appendesse in luoghi vistosi i calcoli scientifici più emozionanti sulla larghezza della gola di una balena. Non significava nulla tutto ciò per chi passava? La sua improvvisa, splendida e veramente sincera indignazione non scuoteva mai nessuno dei tanti che si riversavano su Ludgate [[motifs/hill|Hill]]? Mai. Il piccolo uomo che editava "L'Ateo" usciva dal suo negozio nelle sere stellate e agitava il pugno contro San Paolo nella passione della sua santa guerra contro il luogo sacro. Avrebbe potuto risparmiarsi l'emozione. La [[motifs/cross|croce]] in cima a San Paolo e il negozio de "L'Ateo" ai suoi piedi erano ugualmente distanti dal mondo. Il negozio e la [[motifs/cross|Croce]] erano allo stesso modo innalzati e [[Alone|solitari]] nei cieli vuoti.
+L'ufficio editoriale de "L'Ateo" era ormai da anni diventato sempre meno interessante come elemento distintivo di Ludgate [[motifs/hill|Hill]]. Il giornale non si adattava all'atmosfera del posto. Mostrava un interesse per la [[historical-references/bible|Bibbia]] sconosciuto nella zona, e una conoscenza di quel volume a cui nessun altro su Ludgate [[motifs/hill|Hill]] poteva rivendicare in modo vistoso. Era inutile che l'editore de "L'Ateo" riempisse la sua vetrina con richieste feroci e definitive su cosa avesse fatto Noè nell'Arca col collo della giraffa. Era inutile che chiedesse violentemente, come se fosse per l'ultima [[motifs/time|volta]], come si potesse conciliare l'affermazione "Dio è Spirito" con quella "La terra è il Suo sgabello". Era inutile che gridasse con un'accusatoria energia che il Vescovo di [[settings/london|Londra]] riceveva 12.000 sterline all'anno per fingere di credere che la balena avesse inghiottito Giona. Era inutile che appendesse in luoghi vistosi i calcoli scientifici più emozionanti sulla larghezza della gola di una balena. Non significava nulla tutto ciò per chi passava? La sua improvvisa, splendida e veramente sincera indignazione non scuoteva mai nessuno dei tanti che si riversavano su Ludgate [[motifs/hill|Hill]]? Mai. Il piccolo uomo che editava "L'Ateo" usciva dal suo negozio nelle sere stellate e agitava il pugno contro San Paolo nella passione della sua santa guerra contro il luogo sacro. Avrebbe potuto risparmiarsi l'emozione. La [[motifs/cross|croce]] in cima a San Paolo e il negozio de "L'Ateo" ai suoi piedi erano ugualmente distanti dal mondo. Il negozio e la [[motifs/cross|Croce]] erano allo stesso modo innalzati e solitari nei cieli vuoti.
 
 Al piccolo uomo che editava _The Atheist_, un focoso scozzese di piccola statura,
 con capelli e barba rossi infuocati, chiamato Turnbull,
@@ -1317,7 +1317,7 @@ in un negozio a Ludgate divenne un evento sempre meno importante.
 Tutti gli uomini progressisti della sua epoca scoraggiavano Turnbull.
 I socialisti dicevano che stava maledicendo i preti quando avrebbe dovuto
 maledire i capitalisti.  Gli artisti dicevano che l'[[motifs/soul|anima]] era più spirituale,
-non quando liberata dalla religione, ma quando liberata dall'[[morality|moralità]].
+non quando liberata dalla religione, ma quando liberata dall'moralità.
 Anno dopo anno passò, e almeno un uomo si presentò che trattava
 il negozio laico del signor Turnbull con un vero rispetto e serietà.
 Era un giovane in un plaid grigio, e fracassò l'[[motifs/window|vetro]].
@@ -1363,7 +1363,7 @@ capiva il [[motifs/supernatural|soprannaturale]] prima di capire il naturale.
 Aveva guardato angeli indistinti che stavano immersi fino al ginocchio nell'erba
 prima di aver guardato l'erba.  Sapeva che le vesti della Madonna
 erano blu prima di sapere che i fiori selvatici intorno ai suoi piedi erano rossi.
-Più in profondità la sua [[motifs/memory|memoria]] si tuffava nella buia [[house|casa]] dell'[[motifs/childhood|infanzia]]
+Più in profondità la sua [[motifs/memory|memoria]] si tuffava nella buia casa dell'[[motifs/childhood|infanzia]]
 più vicino e più vicino si avvicinava alle cose che non possono essere nominate.
 Per tutta la vita pensò al mondo diurno come a una sorta
 di detriti divini, il resto spezzato della sua prima visione.
@@ -1380,7 +1380,7 @@ His private tradition was equally wild and unworldly.
 His great-grandfather had been cut down at Culloden,
 certain in his last instant that God would restore the [[archetypes/king|King]].
 His grandfather, then a boy of ten, had taken the terrible
-claymore from the hand of the dead and hung it up in his [[house]],
+claymore from the hand of the dead and hung it up in his house,
 burnishing it and sharpening it for sixty years, to be ready
 for the next rebellion.  His father, the youngest son and the last
 left alive, had refused to attend on [[characters/queen|Queen]] Victoria in Scotland.
@@ -1457,7 +1457,7 @@ stand up, will you?  Have you any weapons here?"
 "Are you mad?" asked Turnbull, glaring.
 
 "Are you?" cried Evan.  "Can you be anything else when you plaster your
-own [[house]] with that God-defying filth?  Stand up and fight, I say."
+own house with that God-defying filth?  Stand up and fight, I say."
 
 A great light like [[motifs/dawn|dawn]] came into Mr. Turnbull's face.
 Behind his red hair and beard he turned deadly pale with pleasure.
@@ -1488,7 +1488,7 @@ La sua tradizione familiare era ugualmente selvaggia e ultraterrena.
 Il suo bisnonno era stato falciato a Culloden,
 certo nel suo ultimo istante che Dio avrebbe restaurato il [[archetypes/king|Re]].
 Suo nonno, allora un ragazzo di dieci anni, aveva preso il terribile
-spadone dalla mano del morto e lo aveva appeso nella sua [[house|casa]],
+spadone dalla mano del morto e lo aveva appeso nella sua casa,
 lucidandolo e affilandolo per sessant'anni, per essere pronto
 alla prossima ribellione. Suo padre, l'ultimogenito e l'ultimo
 rimasto in vita, aveva rifiutato di rendere omaggio alla [[characters/queen|Regina]] Vittoria in Scozia.
@@ -1565,7 +1565,7 @@ alzatevi, volete? Avete armi qui?»
 «Siete pazzo?» chiese Turnbull, fulminandolo con lo sguardo.
 
 «E voi?» gridò Evan. «Potete essere altro quando tappezzate la
-vostra stessa [[house|casa]] con quella sozzura che sfida Dio? Alzatevi e battetevi, dico.»
+vostra stessa casa con quella sozzura che sfida Dio? Alzatevi e battetevi, dico.»
 
 Una grande luce come l'[[motifs/dawn|alba]] apparve sul volto del signor Turnbull.
 Dietro i capelli e la barba rossi impallidì mortalmente di piacere.
@@ -1718,7 +1718,7 @@ years hence in some distant country, wherever and whenever I meet
 that man, I will fight him.  Do not be afraid.  I will not rush
 at him like a bully, or bear him down with any brute superiority.
 I will fight him like a gentleman; I will fight him as our
-fathers fought.  He shall choose how, [[Sword|sword]] or [[characters/pistol|pistol]], [[motifs/horse|horse]] or foot.
+fathers fought.  He shall choose how, sword or [[characters/pistol|pistol]], [[motifs/horse|horse]] or foot.
 But if he refuses, I will write his cowardice on every wall in the world.
 If he had said of my mother what he said of the Mother of God,
 there is not a club of clean men in Europe that would deny my
@@ -1869,7 +1869,7 @@ vent'anni in qualche paese lontano, ovunque e ogni volta che incontrerò
 quell'uomo, lo affronterò in duello.  Non abbiate paura.  Non mi avventerò
 su di lui come un bullo, né lo sopraffarò con alcuna bruta superiorità.
 Lo affronterò da gentiluomo; lo affronterò come combatterono i nostri padri.
-Sceglierà lui come: [[Sword|spada]] o [[characters/pistol|pistola]], [[motifs/horse|cavallo]] o a piedi.
+Sceglierà lui come: spada o [[characters/pistol|pistola]], [[motifs/horse|cavallo]] o a piedi.
 Ma se rifiuta, scriverò la sua codardia su ogni muro del mondo.
 Se avesse detto di mia madre ciò che ha detto della Madre di Dio,
 non c'è circolo di uomini onesti in Europa che negherebbe il mio diritto
@@ -2102,13 +2102,13 @@ ornate railing along the front of the [[motifs/window|window]]; behind was a dar
 glimmer of old oak and old armour; and higher up hung the most
 extraordinary looking South Sea tools or utensils, whether designed
 for killing enemies or merely for cooking them, no mere white
-man could possibly conjecture.  But the [[Romance|romance]] of the eye,
+man could possibly conjecture.  But the romance of the eye,
 which really on this rich evening, clung about the shop, had its main
 source in the accident of two doors standing open, the front door
 that opened on the street and a back door that opened on an odd
 green square of [[motifs/garden|garden]], that the sun turned to a square of gold.
 There is nothing more beautiful than thus to look as it were through
-the archway of a [[house]]; as if the open sky were an interior chamber,
+the archway of a house; as if the open sky were an interior chamber,
 and the sun a secret lamp of the place.
 
 I have suggested that the sunset light made everything lovely.
@@ -2190,10 +2190,10 @@ pointing backward to the pornographic bookseller.
 but I am sorry I troubled you about such a thing as [[concepts/honour|honour]].
 Look here, my man.  I do believe in humanity.  I do believe in liberty.
 My father died for it under the swords of the Yeomanry.  I am going
-to die for it, if need be, under that [[Sword|sword]] on your counter.  But if
+to die for it, if need be, under that sword on your counter.  But if
 there is one sight that makes me [[concepts/doubt|doubt]] it it is your foul fat face.
 It is hard to believe you were not meant to be ruled like a dog
-or killed like a cockroach.  Don't try your slave's [[philosophy]] on me.
+or killed like a cockroach.  Don't try your slave's philosophy on me.
 We are going to fight, and we are going to fight in your [[motifs/garden|garden]],
 with your swords.  Be still!  Raise your voice above a whisper,
 and I run you through the [[concepts/body|body]]."
@@ -2223,13 +2223,13 @@ un'ornata ringhiera lungo la fronte della [[motifs/window|finestra]]; dietro si
 scorgeva un più cupo baluginio di vecchia quercia e di vecchie armature;
 e più in alto pendevano i più straordinari arnesi o utensili dei Mari del
 Sud, se concepiti per uccidere i nemici o soltanto per cuocerli, nessun
-semplice uomo bianco avrebbe potuto congetturarlo.  Ma l'[[Romance|incanto]]
+semplice uomo bianco avrebbe potuto congetturarlo.  Ma l'incanto
 dell'occhio, che davvero in questa ricca sera si stringeva intorno alla
 bottega, aveva la sua fonte principale nel caso di due porte spalancate:
 la porta anteriore che dava sulla strada e una porta posteriore che dava
 su un curioso quadrato verde di [[motifs/garden|giardino]], che il sole tramutava
 in un quadrato d'oro.  Non c'è nulla di più bello che guardare così, per
-così dire, attraverso l'arco di una [[house|casa]]; come se il cielo aperto
+così dire, attraverso l'arco di una casa; come se il cielo aperto
 fosse una camera interna, e il sole la lampada segreta del luogo.
 
 Ho suggerito che la luce del tramonto rendeva bello ogni cosa.  Dire che
@@ -2312,11 +2312,11 @@ fiducia la religione dell'umanità nelle sue mani; ma mi dispiace di averla
 disturbata per una cosa come l'[[concepts/honour|onore]].  Mi ascolti, amico mio.
 Io credo davvero nell'umanità.  Credo davvero nella libertà.  Mio padre
 morì per essa sotto le spade della Yeomanry.  Io morirò per essa, se
-necessario, sotto quella [[Sword|spada]] sul suo bancone.  Ma se c'è una
+necessario, sotto quella spada sul suo bancone.  Ma se c'è una
 vista che me ne fa [[concepts/doubt|dubitare]], è la sua turpe faccia grassa.  È
 difficile credere che lei non fosse destinato a essere governato come un
 cane o ucciso come uno scarafaggio.  Non provi con me la sua
-[[philosophy|filosofia]] da schiavo.  Noi ci batteremo, e ci batteremo nel
+filosofia da schiavo.  Noi ci batteremo, e ci batteremo nel
 suo [[motifs/garden|giardino]], con le sue spade.  Stia fermo!  Alzi la voce oltre
 un sussurro, e le trapasso il [[concepts/body|corpo]]."
 
@@ -2325,7 +2325,7 @@ un sussurro, e le trapasso il [[concepts/body|corpo]]."
 <span class="atom-split" data-atom="story_03_some_old_curiosities--part_02" data-title="ball and cross — Some Old Curiosities (part 2)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/garden,motif/machine,motif/pain,motif/prayer,motif/summer,motif/time,motif/well,concept/fear,concept/hope,character/evan_macian"></span>
 
 
-Turnbull put the bright point of the [[Sword|sword]] against the gay
+Turnbull put the bright point of the sword against the gay
 waistcoat of the dealer, who stood choking with rage and [[concepts/fear|fear]],
 and an astonishment so crushing as to be greater than either.
 
@@ -2347,9 +2347,9 @@ in his mouth and rolled him on his back on the floor.
 at the squirming thing on the floor.
 
 "And now," said Turnbull, twirling his fiery moustache and fingering
-his [[Sword|sword]], "let us go into the [[motifs/garden|garden]].  What an exquisite [[motifs/summer|summer]] evening!"
+his sword, "let us go into the [[motifs/garden|garden]].  What an exquisite [[motifs/summer|summer]] evening!"
 
-MacIan said nothing, but lifting his [[Sword|sword]] from the counter went
+MacIan said nothing, but lifting his sword from the counter went
 out into the sun.
 
 The brilliant light ran along the blades, filling the channels
@@ -2369,7 +2369,7 @@ standards of the Saracens."
 "Jerusalem!" said Turnbull, laughing.  "[[motifs/well|Well]], we've taken the only
 inhabitant into captivity."
 
-And he picked up his [[Sword|sword]] and made it whistle like a boy's wand.
+And he picked up his sword and made it whistle like a boy's wand.
 
 "I beg your pardon," said MacIan, dryly.  "Let us begin."
 
@@ -2392,7 +2392,7 @@ The next moment Turnbull lunged; MacIan seemed to catch the point
 and throw it away from him, and was thrusting back like a thunderbolt,
 when a sound paralysed him; another sound beside their ringing weapons.
 Turnbull, perhaps from an equal astonishment, perhaps from chivalry,
-stopped also and forebore to send his [[Sword|sword]] through his exposed enemy.
+stopped also and forebore to send his sword through his exposed enemy.
 
 "What's that?" asked Evan, hoarsely.
 
@@ -2403,18 +2403,18 @@ a littered floor, came from the dark shop behind them.
 said Turnbull.  "Be quick!  We must finish before he gets his gag out."
 
 "Yes, yes, quick!  On guard!" cried the Highlander.
-The blades crossed again with the same sound like [[Song|song]], and the men
+The blades crossed again with the same sound like song, and the men
 went to work again with the same white and watchful faces.
 Evan, in his impatience, went back a little to his wildness.
 He made windmills, as the French duellists say, and though he was
 probably a shade the better fencer of the two, he found the other's
 point pass his face twice so close as almost to graze his cheek.
 The second [[motifs/time|time]] he realized the actual possibility of defeat
-and pulled himself together under a shock of the [[Sanity|sanity]] of anger.
+and pulled himself together under a shock of the sanity of anger.
 He narrowed, and, so to speak, tightened his operations:
 he fenced (as the swordsman's boast goes), in a wedding ring;
 he turned Turnbull's thrusts with a maddening and almost mechanical click,
-like that of a [[motifs/machine|machine]].  Whenever Turnbull's [[Sword|sword]] sought to go over
+like that of a [[motifs/machine|machine]].  Whenever Turnbull's sword sought to go over
 that other mere white streak it seemed to be caught in a complex network
 of steel.  He turned one thrust, turned another, turned another.
 Then suddenly he went forward at the lunge with his whole living weight.
@@ -2431,7 +2431,7 @@ The voice of the screaming shopkeeper was loud enough to drown not
 only the noise of the swords but all other noises around it, but even
 through its rending din there seemed to be some other stir or scurry.
 And Evan, in the very act of thrusting at Turnbull, saw something
-in his eyes that made him drop his [[Sword|sword]].  The atheist, with his grey
+in his eyes that made him drop his sword.  The atheist, with his grey
 eyes at their widest and wildest, was staring straight over his shoulder
 at the little archway of shop that opened on the street beyond.
 And he saw the archway blocked and blackened with strange figures.
@@ -2442,7 +2442,7 @@ second to lose either.  Do as I do."
 
 <span class="qlang-split" data-lang="it"></span>
 
-Turnbull appoggiò la lucente punta della [[Sword|spada]] contro il vistoso
+Turnbull appoggiò la lucente punta della spada contro il vistoso
 panciotto del mercante, che stava soffocando di rabbia e di [[concepts/fear|paura]],
 e di uno stupore così schiacciante da essere più grande di entrambe.
 
@@ -2464,10 +2464,10 @@ un bavaglio di corda e lo rovesciava supino sul pavimento.
 un'occhiata dubbiosa alla cosa che si contorceva sul pavimento.
 
 "E ora," disse Turnbull, arricciandosi i baffi fiammeggianti e tastando la
-sua [[Sword|spada]], "andiamo nel [[motifs/garden|giardino]].  Che squisita sera
+sua spada, "andiamo nel [[motifs/garden|giardino]].  Che squisita sera
 d'[[motifs/summer|estate]]!"
 
-MacIan non disse nulla, ma, sollevando la sua [[Sword|spada]] dal bancone,
+MacIan non disse nulla, ma, sollevando la sua spada dal bancone,
 uscì al sole.
 
 La luce sfolgorante correva lungo le lame, riempiendone le scanalature di
@@ -2486,7 +2486,7 @@ stendardi dei Saraceni."
 "Gerusalemme!" disse Turnbull, ridendo.  "[[motifs/well|Ebbene]], ne abbiamo preso
 prigioniero l'unico abitante."
 
-E raccolse la sua [[Sword|spada]] e la fece fischiare come la bacchetta di
+E raccolse la sua spada e la fece fischiare come la bacchetta di
 un ragazzo.
 
 "Ti chiedo scusa," disse MacIan, seccamente.  "Cominciamo."
@@ -2510,7 +2510,7 @@ dopo Turnbull affondò; MacIan parve afferrarne la punta e scagliarla lontano
 da sé, e stava spingendo indietro come una folgore, quando un suono lo
 paralizzò; un altro suono accanto alle loro armi tintinnanti.  Turnbull,
 forse per un pari stupore, forse per cavalleria, si fermò anch'egli e si
-trattenne dal passare la [[Sword|spada]] attraverso il nemico scoperto.
+trattenne dal passare la spada attraverso il nemico scoperto.
 
 "Che cos'è?" chiese Evan, con voce roca.
 
@@ -2521,18 +2521,18 @@ pavimento ingombro, veniva dalla buia bottega alle loro spalle.
 disse Turnbull.  "Presto!  Dobbiamo finire prima che si tolga il bavaglio."
 
 "Sì, sì, presto!  In guardia!" gridò il montanaro.  Le lame si incrociarono
-di nuovo con lo stesso suono di [[Song|canto]], e gli uomini si rimisero
+di nuovo con lo stesso suono di canto, e gli uomini si rimisero
 all'opera con le stesse facce bianche e vigili.  Evan, nella sua impazienza,
 ricadde un poco nella sua foga.  Faceva mulinelli, come dicono i duellanti
 francesi, e benché fosse probabilmente d'un soffio il migliore schermidore
 dei due, si trovò la punta dell'altro passargli davanti al viso due volte
 così vicino da quasi sfiorargli la guancia.  La seconda [[motifs/time|volta]]
 comprese la reale possibilità della sconfitta e si ricompose sotto lo shock
-della [[Sanity|lucidità]] dell'ira.  Restrinse, e, per così dire, serrò le
+della lucidità dell'ira.  Restrinse, e, per così dire, serrò le
 sue operazioni: tirava di scherma (come recita il vanto dello spadaccino)
 dentro un anello nuziale; deviava le stoccate di Turnbull con un click
 esasperante e quasi meccanico, come quello di una [[motifs/machine|macchina]].
-Ogni volta che la [[Sword|spada]] di Turnbull cercava di scavalcare
+Ogni volta che la spada di Turnbull cercava di scavalcare
 quell'altra semplice striscia bianca, sembrava restare impigliata in una
 complessa rete d'acciaio.  Deviò una stoccata, ne deviò un'altra, ne deviò
 un'altra ancora.  Poi d'improvviso si spinse in avanti nell'affondo con
@@ -2549,7 +2549,7 @@ La voce del bottegaio che urlava era abbastanza forte da coprire non solo
 il rumore delle spade ma tutti gli altri rumori intorno, ma persino
 attraverso il suo lacerante fracasso sembrava esserci qualche altro
 movimento o trambusto.  Ed Evan, nell'atto stesso di affondare su Turnbull,
-vide qualcosa nei suoi occhi che gli fece lasciar cadere la [[Sword|spada]].
+vide qualcosa nei suoi occhi che gli fece lasciar cadere la spada.
 L'ateo, con gli occhi grigi sbarrati al massimo e stralunati, fissava dritto
 oltre la sua spalla il piccolo arco della bottega che si apriva sulla strada
 al di là.  E vide l'arco ostruito e annerito da strane figure.
@@ -2564,11 +2564,11 @@ secondo da perdere.  Fa' come faccio io."
 
 With a bound he was beside the little cluster of his clothes and boots
 that lay on the lawn; he snatched them up, without waiting to put
-any of them on; and tucking his [[Sword|sword]] under his other arm, went wildly
+any of them on; and tucking his sword under his other arm, went wildly
 at the wall at the [[characters/bottom|bottom]] of the [[motifs/garden|garden]] and swung himself over it.
 Three seconds after he had alighted in his socks on the other side,
 MacIan alighted beside him, also in his socks and also carrying
-clothes and [[Sword|sword]] in a desperate bundle.
+clothes and sword in a desperate bundle.
 
 They were in a by-street, very lean and lonely itself, but so
 close to a crowded thoroughfare that they could see the vague
@@ -2579,7 +2579,7 @@ Even as he did so he could hear the loud voices of the neighbours
 and the police coming down the [[motifs/garden|garden]].
 
 The hansom swung sharply and came tearing down the little lane at
-his call.  When the [[cabman]] saw his fares, however, two wild-haired
+his call.  When the cabman saw his fares, however, two wild-haired
 men in their shirts and socks with naked swords under their arms,
 he not unnaturally brought his readiness to a rigid stop
 and stared suspiciously.
@@ -2587,11 +2587,11 @@ and stared suspiciously.
 "You talk to him a minute," whispered Turnbull, and stepped back
 into the [[archetypes/shadow|shadow]] of the wall.
 
-"We want you," said MacIan to the [[cabman]], with a superb Scotch drawl
+"We want you," said MacIan to the cabman, with a superb Scotch drawl
 of indifference and assurance, "to drive us to St. Pancras Station--
 verra quick."
 
-"Very sorry, sir," said the [[cabman]], "but I'd like to know it was
+"Very sorry, sir," said the cabman, "but I'd like to know it was
 all right.  Might I arst where you come from, sir?"
 
 A second after he spoke MacIan heard a heavy voice on the other side
@@ -2603,11 +2603,11 @@ lowland Scotch intonation, "if ye're really verra anxious to ken whar a'
 come fra', I'll tell ye as a verra great secret.  A' come from Scotland.
 And a'm gaein' to St. Pancras Station.  Open the doors, cabby."
 
-The [[cabman]] stared, but laughed.  The heavy voice behind the wall said:
+The cabman stared, but laughed.  The heavy voice behind the wall said:
 "Now then, a better back this [[motifs/time|time]], Mr. Price."  And from the [[archetypes/shadow|shadow]]
 of the wall Turnbull crept out.  He had struggled wildly into
 his coat (leaving his waistcoat on the pavement), and he was
-with a fierce pale face climbing up the cab behind the [[cabman]].
+with a fierce pale face climbing up the cab behind the cabman.
 MacIan had no glimmering notion of what he was up to, but an instinct
 of discipline, inherited from a hundred men of war, made him stick
 to his own part and trust the other man's.
@@ -2617,7 +2617,7 @@ solemnity of a drunkard, "open the doors.  Did ye no hear me say
 St. Pancras Station?"
 
 The top of a policeman's helmet appeared above the [[motifs/garden|garden]] wall.
-The [[cabman]] did not see it, but he was still suspicious and began:
+The cabman did not see it, but he was still suspicious and began:
 
 "Very sorry, sir, but..." and with that the catlike Turnbull
 tore him out of his seat and hurled him into the street below,
@@ -2665,7 +2665,7 @@ I have been looking at all the shops as we went past,
 I have been looking at all the churches as we went past.
 At first, I felt a little dazed with the vastness of it all.
 I could not understand what it all meant.  But now I know exactly what it
-all means.  It means us.  This whole civilization is only [[A Dream|a dream]].
+all means.  It means us.  This whole civilization is only a dream.
 You and I are the realities."
 
 "Religious symbolism," said Mr. Turnbull, through the trap,
@@ -2674,7 +2674,7 @@ of the school to which I belong.  But in symbolism as you use
 it in this instance, I must, I think, concede a certain [[concepts/truth|truth]].
 We _must_ fight this thing out somewhere; because, as you truly say,
 we have found each other's reality.  We _must_ kill each other--
-or [[convert]] each other.  I used to think all Christians were hypocrites,
+or convert each other.  I used to think all Christians were hypocrites,
 and I felt quite mildly towards them really.  But I know you are sincere--
 and my [[motifs/soul|soul]] is mad against you.  In the same way you used, I suppose,
 to think that all atheists thought atheism would leave them free
@@ -2689,11 +2689,11 @@ Yes, you open for me a vista of thought."
 
 Con un balzo fu accanto al piccolo mucchio dei suoi abiti e stivali che
 giacevano sul prato; li afferrò, senza aspettare di indossarne alcuno;
-e, cacciandosi la [[Sword|spada]] sotto l'altro braccio, si lanciò
+e, cacciandosi la spada sotto l'altro braccio, si lanciò
 all'impazzata contro il muro in [[characters/bottom|fondo]] al [[motifs/garden|giardino]] e
 si issò dall'altra parte.  Tre secondi dopo che era atterrato in calze
 dall'altro lato, MacIan atterrò accanto a lui, anch'egli in calze e
-anch'egli portando abiti e [[Sword|spada]] in un disperato fagotto.
+anch'egli portando abiti e spada in un disperato fagotto.
 
 Si trovavano in una via traversa, di per sé molto stretta e solitaria, ma
 così vicina a un affollato corso da poter vedere le vaghe masse dei veicoli
@@ -2704,7 +2704,7 @@ udire le forti voci dei vicini e della polizia che scendevano per il
 [[motifs/garden|giardino]].
 
 Il calessino sterzò di scatto e venne giù a tutta velocità per la stradina
-al suo richiamo.  Quando il [[cabman|vetturino]] vide i suoi clienti, però,
+al suo richiamo.  Quando il vetturino vide i suoi clienti, però,
 due uomini dai capelli arruffati in camicia e calze con spade sguainate
 sotto le braccia, non innaturalmente arrestò di colpo la sua prontezza e li
 fissò con sospetto.
@@ -2712,11 +2712,11 @@ fissò con sospetto.
 "Parlaci tu un momento," bisbigliò Turnbull, e si ritirò nell'[[archetypes/shadow|ombra]]
 del muro.
 
-"Vogliamo che lei," disse MacIan al [[cabman|vetturino]], con un superbo
+"Vogliamo che lei," disse MacIan al vetturino, con un superbo
 strascico scozzese d'indifferenza e sicurezza, "ci porti alla stazione di
 St. Pancras... assai in fretta."
 
-"Spiacente, signore," disse il [[cabman|vetturino]], "ma vorrei essere
+"Spiacente, signore," disse il vetturino, "ma vorrei essere
 sicuro che sia tutto in regola.  Potrei chiederle da dove venite, signore?"
 
 Un secondo dopo che ebbe parlato MacIan udì una voce pesante dall'altra
@@ -2728,12 +2728,12 @@ intonazione scozzese delle pianure, "se davvero è tanto ansioso di sapere
 da dove vengo, glielo dirò come grandissimo segreto.  Vengo dalla Scozia.
 E vado alla stazione di St. Pancras.  Apra gli sportelli, vetturino."
 
-Il [[cabman|vetturino]] lo fissò, ma rise.  La voce pesante dietro il muro
+Il vetturino lo fissò, ma rise.  La voce pesante dietro il muro
 disse: "Su, una scaletta migliore questa [[motifs/time|volta]], Mr. Price."  E
 dall'[[archetypes/shadow|ombra]] del muro Turnbull sgusciò fuori.  Si era infilato
 all'impazzata la giacca (lasciando il panciotto sul marciapiede), e con una
 faccia pallida e feroce stava arrampicandosi sul calesse dietro il
-[[cabman|vetturino]].  MacIan non aveva la minima idea di che cosa stesse
+vetturino.  MacIan non aveva la minima idea di che cosa stesse
 combinando, ma un istinto di disciplina, ereditato da cento uomini di
 guerra, gli fece attenersi alla propria parte e fidarsi di quella dell'altro.
 
@@ -2742,7 +2742,7 @@ solennità di un ubriaco, "apra gli sportelli.  Non mi ha sentito dire
 stazione di St. Pancras?"
 
 La cima dell'elmo di un poliziotto apparve al di sopra del muro del
-[[motifs/garden|giardino]].  Il [[cabman|vetturino]] non la vide, ma era ancora
+[[motifs/garden|giardino]].  Il vetturino non la vide, ma era ancora
 sospettoso e cominciò:
 
 "Spiacente, signore, ma..." e con ciò il felino Turnbull lo strappò dal suo
@@ -2789,7 +2789,7 @@ passavamo, ho guardato tutte le botteghe mentre passavamo, ho guardato tutte
 le chiese mentre passavamo.  Dapprima mi sono sentito un poco stordito dalla
 vastità di tutto ciò.  Non riuscivo a capire che cosa significasse tutto.
 Ma ora so esattamente che cosa significa tutto.  Significa noi.  Questa
-intera civiltà è soltanto [[A Dream|un sogno]].  Lei ed io siamo le realtà."
+intera civiltà è soltanto un sogno.  Lei ed io siamo le realtà."
 
 "Il simbolismo religioso," disse Mr. Turnbull, attraverso la botola, "non fa
 presa, come lei probabilmente sa, di norma sui pensatori della scuola cui io
@@ -2797,7 +2797,7 @@ appartengo.  Ma nel simbolismo così come lei lo usa in questo caso, devo,
 credo, concedere una certa [[concepts/truth|verità]].  Noi _dobbiamo_ risolvere questa
 faccenda in qualche luogo; perché, come lei dice giustamente, abbiamo
 scoperto la reciproca realtà.  Noi _dobbiamo_ ucciderci a vicenda... o
-[[convert|convertirci]] a vicenda.  Solevo pensare che tutti i cristiani
+convertirci a vicenda.  Solevo pensare che tutti i cristiani
 fossero ipocriti, e provavo davvero verso di loro sentimenti piuttosto blandi.
 Ma so che lei è sincero... e la mia [[motifs/soul|anima]] è furente contro di lei.
 Allo stesso modo lei soleva, suppongo, pensare che tutti gli atei ritenessero
@@ -2823,7 +2823,7 @@ Mr. Turnbull had evidently a great deal of unused practical
 talent which was unrolling itself in this ridiculous adventure.
 They had got away with such stunning promptitude that the police
 chase had in all probability not even properly begun.  But in case
-it had, the amateur [[cabman]] chose his dizzy course through [[settings/london|London]]
+it had, the amateur cabman chose his dizzy course through [[settings/london|London]]
 with a strange dexterity.  He did not do what would have first
 occurred to any ordinary [[archetypes/outsider|outsider]] desiring to destroy his tracks.
 He did not cut into by-ways or twist his way through mean streets.
@@ -2834,7 +2834,7 @@ He kept chiefly to the great roads, so full of hansoms that a
 wilder pair than they might easily have passed in the press.
 In one of the quieter streets Evan put on his boots.
 
-Towards the top of Albany Street the singular [[cabman]] again
+Towards the top of Albany Street the singular cabman again
 opened the trap.
 
 "Mr. MacIan," he said, "I understand that we have now definitely
@@ -2909,7 +2909,7 @@ they can only represent what is unusual.  However democratic they
 may be, they are only concerned with the minority.
 
 The incident of the religious fanatic who broke a [[motifs/window|window]] on Ludgate [[motifs/hill|Hill]]
-was [[Alone|alone]] enough to set them up in good copy for the [[motifs/night|night]].
+was alone enough to set them up in good copy for the [[motifs/night|night]].
 But when the same man was brought before a magistrate and defied
 his enemy to mortal combat in the open [[settings/court|court]], then the columns
 would hardly hold the excruciating information, and the headlines
@@ -2931,7 +2931,7 @@ matter prepared them for further outbursts of moral indignation.
 And when a gasping reporter rushed in in the last hours of the evening
 with the announcement that the two heroes of the Police [[settings/court|Court]]
 had literally been found fighting in a [[settings/london|London]] back [[motifs/garden|garden]],
-with a shopkeeper bound and gagged in the front of the [[house]],
+with a shopkeeper bound and gagged in the front of the house,
 the editors and sub-editors were stricken still as men are
 by great beatitudes.
 
@@ -2948,7 +2948,7 @@ Mr. Turnbull aveva evidentemente una gran quantità di talento pratico
 inutilizzato che si andava dispiegando in questa ridicola avventura.  Se
 l'erano svignata con una prontezza così sbalorditiva che l'inseguimento
 della polizia, con ogni probabilità, non era nemmeno cominciato per bene.
-Ma nel caso lo fosse, il [[cabman|vetturino]] dilettante scelse la sua
+Ma nel caso lo fosse, il vetturino dilettante scelse la sua
 vertiginosa rotta attraverso [[settings/london|Londra]] con una strana destrezza.
 Non fece ciò che sarebbe venuto in mente per primo a un qualunque
 [[archetypes/outsider|estraneo]] desideroso di cancellare le proprie tracce.  Non si
@@ -2960,7 +2960,7 @@ tenne principalmente sui grandi corsi, così pieni di calessini che una
 coppia più scapestrata della loro sarebbe potuta facilmente passare nella
 ressa.  In una delle strade più tranquille Evan si mise gli stivali.
 
-Verso la cima di Albany Street il singolare [[cabman|vetturino]] aprì di
+Verso la cima di Albany Street il singolare vetturino aprì di
 nuovo la botola.
 
 "Mr. MacIan," disse, "intendo che ormai abbiamo definitivamente stabilito
@@ -3032,7 +3032,7 @@ rappresentare soltanto ciò che è insolito.  Per quanto democratici possano
 essere, si occupano soltanto della minoranza.
 
 L'episodio del fanatico religioso che ruppe una [[motifs/window|finestra]] a Ludgate
-[[motifs/hill|Hill]] bastava [[Alone|da solo]] a fornire loro buona materia da stampa per
+[[motifs/hill|Hill]] bastava da solo a fornire loro buona materia da stampa per
 la [[motifs/night|notte]].  Ma quando lo stesso uomo fu condotto dinanzi a un
 magistrato e sfidò il proprio nemico a mortale combattimento nell'aperta
 [[settings/court|corte]], allora le colonne a stento contenevano la lancinante
@@ -3053,7 +3053,7 @@ preparava a ulteriori scoppi di indignazione morale.  E quando un cronista
 trafelato irruppe nelle ultime ore della sera con l'annuncio che i due eroi
 della [[settings/court|corte]] di polizia erano stati letteralmente trovati a battersi
 in un [[motifs/garden|giardino]] sul retro a [[settings/london|Londra]], con un bottegaio
-legato e imbavagliato sul davanti della [[house|casa]], i direttori e i
+legato e imbavagliato sul davanti della casa, i direttori e i
 vicedirettori restarono impietriti come sono gli uomini davanti alle grandi
 beatitudini.
 
@@ -3085,8 +3085,8 @@ the story of the broken glass and the duel in the [[motifs/garden|garden]].
 It became monstrous and omnipresent, as do in our [[motifs/time|time]] the unimportant
 doings of the sect of the Agapemonites, or as did at an earlier
 [[motifs/time|time]] the dreary dishonesties of the Rhodesian financiers.
-Questions were asked about it, and even answered, in the [[house|House]]
-of Commons.  The [[government|Government]] was solemnly denounced in the papers
+Questions were asked about it, and even answered, in the House
+of Commons.  The Government was solemnly denounced in the papers
 for not having done something, nobody knew what, to prevent
 the [[motifs/window|window]] being broken.  An enormous subscription was started
 to reimburse Mr. Gordon, the man who had been gagged in the shop.
@@ -3094,7 +3094,7 @@ Mr. MacIan, one of the combatants, became for some mysterious reason,
 singly and hugely popular as a comic figure in the comic papers
 and on the stage of the music hall.  He was always represented
 (in defiance of fact), with red whiskers, and a very red nose,
-and in full Highland costume.  And a [[Song|song]], consisting of an
+and in full Highland costume.  And a song, consisting of an
 unimaginable number of verses, in which his name was rhymed with
 flat iron, the British [[motifs/lion|Lion]], sly 'un, dandelion, Spion (With Kop
 in the next line), was sung to crowded houses every [[motifs/night|night]].
@@ -3111,7 +3111,7 @@ sat on a high common to the north of [[settings/london|London]], in the coming o
 the white [[motifs/dawn|dawn]].
 
 The darkness in the east had been broken with a bar of grey;
-the bar of grey was split with a [[Sword|sword]] of silver and morning lifted
+the bar of grey was split with a sword of silver and morning lifted
 itself laboriously over [[settings/london|London]].  From the spot where Turnbull and
 MacIan were sitting on one of the barren steeps behind Hampstead,
 they could see the whole of [[settings/london|London]] shaping itself vaguely and largely
@@ -3151,8 +3151,8 @@ If thou can'st take our sins away."
 
 Turnbull shivered slightly as if behind the earthly morning
 he felt the evening of the world, the sunset of so many hopes.
-Those words were from "[[songs|Songs]] before Sunrise".  But Turnbull's [[songs]] at
-their best were [[songs]] after sunrise, and sunrise had been no such great
+Those words were from "Songs before Sunrise".  But Turnbull's songs at
+their best were songs after sunrise, and sunrise had been no such great
 thing after all.  Turnbull shivered again in the sharp morning air.
 MacIan was also gazing with his face towards the [[motifs/city|city]], but there was
 that about his blind and mystical stare that told one, so to speak,
@@ -3190,8 +3190,8 @@ impadronita della storia del vetro rotto e del duello nel
 al nostro [[motifs/time|tempo]] le irrilevanti gesta della setta degli
 Agapemoniti, o come lo furono in un [[motifs/time|tempo]] precedente
 le squallide disonestà dei finanzieri rhodesiani.
-Se ne fecero domande, e persino se ne diedero risposte, alla [[house|Camera]]
-dei Comuni. Il [[government|Governo]] fu solennemente denunciato sui giornali
+Se ne fecero domande, e persino se ne diedero risposte, alla Camera
+dei Comuni. Il Governo fu solennemente denunciato sui giornali
 per non aver fatto qualcosa, nessuno sapeva cosa, onde impedire
 che la [[motifs/window|finestra]] venisse rotta. Fu avviata un'enorme
 sottoscrizione per risarcire il signor Gordon, l'uomo che era stato
@@ -3200,7 +3200,7 @@ divenne per qualche misteriosa ragione, singolarmente e immensamente
 popolare come figura comica sui giornali umoristici e sul palco
 del music hall. Veniva sempre raffigurato (a dispetto dei fatti)
 con basette rosse, e un naso rosso rosso, e in pieno costume delle
-Highland. E una [[Song|canzone]], composta d'un numero inimmaginabile
+Highland. E una canzone, composta d'un numero inimmaginabile
 di strofe, in cui il suo nome faceva rima con ferro da stiro, il
 [[motifs/lion|Leone]] britannico, dritto furbacchione, dente di leone, Spion
 (con Kop nel verso seguente), veniva cantata a teatri gremiti ogni
@@ -3218,7 +3218,7 @@ un'alta brughiera a nord di [[settings/london|Londra]], nel sopraggiungere
 della bianca [[motifs/dawn|alba]].
 
 Le tenebre a oriente si erano spezzate con una barra di grigio;
-la barra di grigio si scisse con una [[Sword|spada]] d'argento e il
+la barra di grigio si scisse con una spada d'argento e il
 mattino si sollevò faticosamente sopra [[settings/london|Londra]]. Dal punto
 in cui Turnbull e MacIan sedevano su uno di quei brulli pendii dietro
 Hampstead, potevano vedere l'intera [[settings/london|Londra]] prender forma
@@ -3260,8 +3260,8 @@ se tu possa togliere via i nostri peccati."
 
 Turnbull rabbrividì lievemente come se dietro il mattino terreno
 sentisse la sera del mondo, il tramonto di tante speranze.
-Quelle parole erano tratte da "[[songs|Canti]] prima dell'aurora".
-Ma i [[songs|canti]] di Turnbull, al loro meglio, erano [[songs|canti]]
+Quelle parole erano tratte da "Canti prima dell'aurora".
+Ma i canti di Turnbull, al loro meglio, erano canti
 dopo l'aurora, e l'aurora non era poi stata gran cosa dopotutto.
 Turnbull rabbrividì di nuovo nell'aria pungente del mattino.
 Anche MacIan guardava fisso col volto rivolto verso la [[motifs/city|città]],
@@ -3289,7 +3289,7 @@ shapeless and confused things, not made in any familiar form.
 But to see the plain, square, human things as large as that,
 houses so large and streets so large, and the town itself so large,
 was like having screwed some devil's magnifying glass into one's eye.
-It was like seeing a porridge bowl as big as a [[house]], or a mouse-trap
+It was like seeing a porridge bowl as big as a house, or a mouse-trap
 made to catch elephants."
 
 "Like the land of the Brobdingnagians," said Turnbull, smiling.
@@ -3305,7 +3305,7 @@ for their flight, were strewn indiscriminately round them.
 The two swords with which they had lately sought each other's
 lives were flung down on the grass at random, like two idle
 walking-sticks. Some provisions they had bought last [[motifs/night|night]],
-at a low public [[house]], in case of undefined contingencies,
+at a low public house, in case of undefined contingencies,
 were tossed about like the materials of an ordinary picnic,
 here a basket of chocolate, and there a bottle of wine.  And to add
 to the disorder finally, there were strewn on top of everything,
@@ -3354,7 +3354,7 @@ But they don't seem to understand the point."
 
 "The point of what?" asked Turnbull.
 
-"The point of the [[Sword|sword]]," said MacIan, violently, and planted
+"The point of the sword," said MacIan, violently, and planted
 the steel point in the soil like a man planting a tree.
 
 "That is a point," said Turnbull, grimly, "that we will discuss later.
@@ -3383,7 +3383,7 @@ to every [[concepts/reform|reform]] in the British Empire.  We shall prevent the
 sent out of the Transvaal and the blocks being stopped in the Strand.
 We shall be the conversational substitute when anyone recommends
 [[motifs/home|Home]] Rule, or complains of sky signs.  Therefore, do not imagine,
-in your [[innocence]], that we have only to melt away among those
+in your innocence, that we have only to melt away among those
 English hills as a Highland cateran might into your god-forsaken
 Highland [[settings/mountains|mountains]].  We must be eternally on our guard; we must live
 the hunted life of two distinguished criminals.  We must expect
@@ -3415,7 +3415,7 @@ informi e confuse, non plasmate in alcuna forma familiare.
 Ma vedere le cose semplici, squadrate, umane, così grandi,
 case così grandi e strade così grandi, e la città stessa così grande,
 era come essersi avvitato nell'occhio la lente d'ingrandimento di un demonio.
-Era come vedere una scodella di porridge grande come una [[house|casa]], o una trappola
+Era come vedere una scodella di porridge grande come una casa, o una trappola
 per topi fatta per catturare elefanti."
 
 "Come il paese dei Brobdingnag," disse Turnbull, sorridendo.
@@ -3480,7 +3480,7 @@ Ma non sembrano cogliere il punto."
 
 "Il punto di cosa?" chiese Turnbull.
 
-"Il punto della [[Sword|spada]]," disse MacIan, con violenza, e piantò
+"Il punto della spada," disse MacIan, con violenza, e piantò
 la punta d'acciaio nel terreno come chi pianta un albero.
 
 "Quello è un punto," disse Turnbull, torvo, "che discuteremo più tardi.
@@ -3509,7 +3509,7 @@ a ogni [[concepts/reform|riforma]] dell'Impero britannico.  Impediremo che i cin
 mandati via dal Transvaal e che si sblocchi il traffico nello Strand.
 Saremo l'argomento di conversazione di ricambio ogni volta che qualcuno raccomanderà
 l'[[motifs/home|autonomia]] irlandese, o si lamenterà delle insegne luminose.  Perciò non immagini,
-nella sua [[innocence|innocenza]], che ci basti dileguarci tra queste
+nella sua innocenza, che ci basti dileguarci tra queste
 colline inglesi come un predone delle Highlands potrebbe dileguarsi nelle sue derelitte
 [[settings/mountains|montagne]] scozzesi.  Dobbiamo stare eternamente in guardia; dobbiamo vivere
 la vita braccata di due illustri criminali.  Dobbiamo aspettarci
@@ -3559,7 +3559,7 @@ And the brandy?"
 and so down into the valley."  And he set off ahead at a swinging walk.
 
 Then he stopped suddenly; for he realized that the other was
-not following.  [[characters/evan-macian|Evan MacIan]] was leaning on his [[Sword|sword]] with a lowering face,
+not following.  [[characters/evan-macian|Evan MacIan]] was leaning on his sword with a lowering face,
 like a man suddenly smitten still with [[concepts/doubt|doubt]].
 
 "What on earth is the matter?" asked Turnbull, staring in some anger.
@@ -3594,10 +3594,10 @@ impossible to describe.  "Here, here, upon this blessed grass."
 soon be gone.  Quick!"
 
 And he flung the scabbard from him furiously, and stood with
-the sunlight sparkling along his [[Sword|sword]].
+the sunlight sparkling along his sword.
 
 "You confounded [[archetypes/fool|fool]]," repeated Turnbull.  "Put that thing up again,
-you ass; people will come out of that [[house]] at the first clash
+you ass; people will come out of that house at the first clash
 of the steel."
 
 "One of us will be dead before they come," said the other, hoarsely,
@@ -3641,7 +3641,7 @@ attitude kept its contemptuous ease.
 permitted in my heavy Lowland way to understand this new development.
 My dear Mr. MacIan, what do you really mean?"
 
-MacIan still kept the shining [[Sword|sword]]-point towards the other's breast.
+MacIan still kept the shining sword-point towards the other's breast.
 
 "You know what I mean.  You mean the same yourself.  We must fight
 now or else----"
@@ -3652,7 +3652,7 @@ blinding gravity.
 "Or else we may not want to fight at all," answered Evan, and the end
 of his speech was like a despairing cry.
 
-Turnbull took out his own [[Sword|sword]] suddenly as if to engage;
+Turnbull took out his own sword suddenly as if to engage;
 then planting it point downwards for a moment, he said, "Before we begin,
 may I ask you a question?"
 
@@ -3663,7 +3663,7 @@ did not fight now, we might not want to fight at all.  How would
 you feel about the matter if we came not to want to fight at all?"
 
 "I should feel," answered the other, "just as I should feel
-if you had drawn your [[Sword|sword]], and I had run away from it.
+if you had drawn your sword, and I had run away from it.
 I should feel that because I had been weak, justice had not been done."
 
 "Justice," answered Turnbull, with a thoughtful smile, "but we
@@ -3711,7 +3711,7 @@ E il brandy?"
 e giù nella valle."  E si avviò davanti con passo dondolante.
 
 Poi si fermò di colpo; perché si accorse che l'altro
-non lo seguiva.  [[characters/evan-macian|Evan MacIan]] era appoggiato alla sua [[Sword|spada]] con volto abbassato,
+non lo seguiva.  [[characters/evan-macian|Evan MacIan]] era appoggiato alla sua spada con volto abbassato,
 come un uomo colpito d'improvviso e immobilizzato dal [[concepts/doubt|dubbio]].
 
 "Cosa diavolo c'è?" chiese Turnbull, fissandolo con una certa ira.
@@ -3746,10 +3746,10 @@ impossibile da descrivere.  "Qui, qui, su quest'erba benedetta."
 sarà passata.  Presto!"
 
 E scagliò via il fodero con furia, e restò in piedi con
-la luce del sole che scintillava lungo la sua [[Sword|spada]].
+la luce del sole che scintillava lungo la sua spada.
 
 "Maledetto [[archetypes/fool|sciocco]]," ripeté Turnbull.  "Metti via quella cosa,
-somaro; la gente uscirà da quella [[house|casa]] al primo cozzo
+somaro; la gente uscirà da quella casa al primo cozzo
 dell'acciaio."
 
 "Uno di noi sarà morto prima che escano," disse l'altro, con voce roca,
@@ -3793,7 +3793,7 @@ atteggiamento conservò la sua sprezzante disinvoltura.
 concesso, nel mio pesante modo delle Lowlands, di comprendere questo nuovo sviluppo.
 Mio caro signor MacIan, cosa intende davvero?"
 
-MacIan teneva ancora la punta lucente della [[Sword|spada]] rivolta verso il petto dell'altro.
+MacIan teneva ancora la punta lucente della spada rivolta verso il petto dell'altro.
 
 "Sai cosa intendo.  Tu stesso intendi la stessa cosa.  Dobbiamo batterci
 ora o altrimenti----"
@@ -3804,7 +3804,7 @@ quasi accecante.
 "O altrimenti potremmo non voler più batterci affatto," rispose Evan, e la fine
 del suo discorso fu come un grido disperato.
 
-Turnbull sguainò d'improvviso la propria [[Sword|spada]] come per ingaggiare;
+Turnbull sguainò d'improvviso la propria spada come per ingaggiare;
 poi, piantandola per un istante con la punta all'ingiù, disse: "Prima di cominciare,
 posso farti una domanda?"
 
@@ -3815,7 +3815,7 @@ ci battessimo ora, potremmo non voler più batterci affatto.  Come ti sentiresti
 a riguardo se arrivassimo a non voler più batterci affatto?"
 
 "Mi sentirei," rispose l'altro, "esattamente come mi sentirei
-se tu avessi sguainato la tua [[Sword|spada]], e io fossi fuggito.
+se tu avessi sguainato la tua spada, e io fossi fuggito.
 Sentirei che, poiché sono stato debole, non è stata resa giustizia."
 
 "Giustizia," rispose Turnbull, con un sorriso pensoso, "ma noi
@@ -3907,7 +3907,7 @@ rang together when they had rushed on each other in the little
 
 There was a pause, and then MacIan made a movement as if to thrust,
 and almost at the same moment Turnbull suddenly and calmly
-dropped his [[Sword|sword]].  Evan stared round in an unusual bewilderment,
+dropped his sword.  Evan stared round in an unusual bewilderment,
 and then realized that a large man in pale clothes and a Panama
 hat was strolling serenely towards them.
 
@@ -3983,7 +3983,7 @@ avevano risuonato insieme quando si erano scagliati l'uno contro l'altro nel pic
 
 Vi fu una pausa, e poi MacIan fece un movimento come per affondare,
 e quasi nello stesso istante Turnbull, d'improvviso e con calma,
-lasciò cadere la [[Sword|spada]]. Evan si guardò attorno con insolito sconcerto,
+lasciò cadere la spada. Evan si guardò attorno con insolito sconcerto,
 e poi si accorse che un uomo massiccio, vestito di chiaro e con un panama
 in capo, avanzava serenamente verso di loro.
 
@@ -4003,7 +4003,7 @@ It was not a movement of anger at being interrupted.
 Say or think what they would, it was a movement of relief.
 A force within them, and yet quite beyond them, seemed slowly
 and pitilessly washing away the adamant of their oath.
-As mistaken [[lovers]] might watch the inevitable sunset of first [[motifs/love|love]],
+As mistaken lovers might watch the inevitable sunset of first [[motifs/love|love]],
 these men watched the sunset of their first hatred.
 
 Their hearts were growing weaker and weaker against each other.
@@ -4016,7 +4016,7 @@ they had been glad to be interrupted.  Some new and strange thing was
 rising higher and higher in their hearts like a high sea at [[motifs/night|night]].
 It was something that seemed all the more merciless, because it
 might turn out an enormous [[concepts/mercy|mercy]].  Was there, perhaps, some such
-fatalism in [[concepts/friendship|friendship]] as all [[lovers]] talk about in [[motifs/love|love]]?
+fatalism in [[concepts/friendship|friendship]] as all lovers talk about in [[motifs/love|love]]?
 Did God make men [[motifs/love|love]] each other against their will?
 
 "I'm sure you'll excuse my speaking to you," said the stranger,
@@ -4066,8 +4066,8 @@ in a colourless voice:
 "As I was forty-seven last birthday, I probably came into the world
 too soon for the experience."
 
-"Very good, very good," said the friendly person.  "Dry Scotch [[Humour|humour]].
-Dry Scotch [[Humour|humour]].  [[motifs/well|Well]] now.  I understand that you two people want
+"Very good, very good," said the friendly person.  "Dry Scotch humour.
+Dry Scotch humour.  [[motifs/well|Well]] now.  I understand that you two people want
 to fight a duel.  I suppose you aren't much up in the modern world.
 We've quite outgrown duelling, you know.  In fact, [[characters/tolstoy|Tolstoy]] tells
 us that we shall soon outgrow war, which he says is simply a duel
@@ -4200,8 +4200,8 @@ con voce incolore:
 "Dato che all'ultimo compleanno ho compiuto quarantasette anni, probabilmente sono venuto al mondo
 troppo presto per l'esperienza."
 
-"Molto bene, molto bene," disse la persona cordiale.  "Secco [[Humour|umorismo]] scozzese.
-Secco [[Humour|umorismo]] scozzese.  [[motifs/well|Bene]], dunque.  Ho capito che voi due volete
+"Molto bene, molto bene," disse la persona cordiale.  "Secco umorismo scozzese.
+Secco umorismo scozzese.  [[motifs/well|Bene]], dunque.  Ho capito che voi due volete
 battervi in duello.  Suppongo che non siate molto al corrente del mondo moderno.
 Il duello lo abbiamo del tutto superato, sapete.  Anzi, [[characters/tolstoy|Tolstoj]] ci dice
 che presto supereremo la guerra, che secondo lui è semplicemente un duello
@@ -4283,10 +4283,10 @@ So you see how I am placed.  I am reduced to use [[motifs/love|Love]] in order
 to stop you.  I am obliged to use [[motifs/love|Love]]."
 
 He gave to the word an indescribable sound of something hard and heavy,
-as if he were saying "boots". Turnbull suddenly gripped his [[Sword|sword]]
+as if he were saying "boots". Turnbull suddenly gripped his sword
 and said, shortly, "I see how you are placed quite [[motifs/well|well]], sir.
 You will not call the police.  Mr. MacIan, shall we engage?"
-MacIan plucked his [[Sword|sword]] out of the grass.
+MacIan plucked his sword out of the grass.
 
 "I must and will stop this shocking crime," cried the Tolstoian,
 crimson in the face.  "It is against all modern ideas.
@@ -4305,7 +4305,7 @@ a horrible mystery.  Keep clear of it, keep silent upon it,
 as you would upon an abomination.  It is a thing that has made
 men slay and torture each other; and you will never know why.
 It is a thing that has made men do evil that good might come;
-and you will never understand the evil, let [[Alone|alone]] the good.
+and you will never understand the evil, let alone the good.
 [[historical-references/christianity|Christianity]] is a thing that could only make you vomit, till you are
 other than you are.  I would not justify it to you even if I could.
 Hate it, in God's name, as Turnbull does, who is a man.
@@ -4335,10 +4335,10 @@ piece of the pommel with string.  With the string in his teeth,
 he said, "Oh, make up your damned mind and clear out!"
 
 "It's a serious thing," said the philosopher, shaking his head.
-"I must be [[Alone|alone]] and consider which is the higher point of view.
+"I must be alone and consider which is the higher point of view.
 I rather feel that in a case so extreme as this..." and he went
 slowly away.  As he disappeared among the trees, they heard him
-murmuring in a sing-[[Song|song]] voice, "New occasions teach new duties,"
+murmuring in a sing-song voice, "New occasions teach new duties,"
 out of a poem by James Russell Lowell.
 
 "Ah," said MacIan, drawing a deep breath.  "Don't you believe
@@ -4350,7 +4350,7 @@ in [[motifs/prayer|prayer]] now?  I prayed for an angel."
 "I felt the devil weakening my heart and my oath against you,
 and I prayed that God would send an angel to my aid."
 
-"[[motifs/well|Well]]?" inquired the other, finishing his [[mending]] and wrapping
+"[[motifs/well|Well]]?" inquired the other, finishing his mending and wrapping
 the rest of the string round his hand to get a firmer grip.
 
 "[[motifs/well|Well]]?"
@@ -4369,7 +4369,7 @@ If that man had not tried to stop us...I might...I might have stopped."
 "But then he came," broke out MacIan, "and my [[motifs/soul|soul]] said to me:
 'Give up fighting, and you will become like That.  Give up vows
 and dogmas, and fixed things, and you may grow like That.
-You may learn, also, that fog of false [[philosophy]].  You may grow
+You may learn, also, that fog of false philosophy.  You may grow
 fond of that mire of crawling, cowardly morals, and you may come
 to think a blow bad, because it hurts, and not because it humiliates.
 You may come to think murder wrong, because it is violent,
@@ -4380,7 +4380,7 @@ and I know exactly what it means.  On guard!"
 
 The swords caught on each other with a dreadful clang and jar,
 full of the old energy and hate; and at once plunged and replunged.
-Once more each man's heart had become the magnet of a mad [[Sword|sword]].
+Once more each man's heart had become the magnet of a mad sword.
 Suddenly, furious as they were, they were frozen for a moment motionless.
 
 "What noise is that?" asked the Highlander, hoarsely.
@@ -4416,10 +4416,10 @@ Sicché vedete in che posizione mi trovo.  Sono ridotto a usare l'[[motifs/love|
 fermarvi.  Sono costretto a usare l'[[motifs/love|amore]]."
 
 Diede alla parola un indescrivibile suono di qualcosa di duro e pesante,
-come se dicesse "stivali". Turnbull afferrò d'improvviso la propria [[Sword|spada]]
+come se dicesse "stivali". Turnbull afferrò d'improvviso la propria spada
 e disse, seccamente, "Vedo perfettamente [[motifs/well|bene]] in che posizione vi trovate, signore.
 Non chiamerete la polizia.  Signor MacIan, ingaggiamo?"
-MacIan strappò la propria [[Sword|spada]] dall'erba.
+MacIan strappò la propria spada dall'erba.
 
 "Devo e voglio fermare questo crimine sconvolgente," gridò il tolstoiano,
 paonazzo in volto.  "È contro tutte le idee moderne.
@@ -4438,7 +4438,7 @@ un mistero orribile.  Statene alla larga, tacetene,
 come tacereste di un'abominazione.  È una cosa che ha spinto
 gli uomini a uccidersi e torturarsi a vicenda; e voi non saprete mai perché.
 È una cosa che ha spinto gli uomini a fare il male affinché ne venisse il bene;
-e voi non comprenderete mai il male, [[Alone|tanto meno]] il bene.
+e voi non comprenderete mai il male, tanto meno il bene.
 Il [[historical-references/christianity|Cristianesimo]] è una cosa che potrebbe solo farvi vomitare, finché non sarete
 altro da ciò che siete.  Non lo giustificherei a voi neppure se potessi.
 Odiatelo, in nome di Dio, come lo odia Turnbull, che è un uomo.
@@ -4468,10 +4468,10 @@ il pezzo allentato del pomolo.  Con lo spago tra i denti,
 disse: "Oh, deciditi una buona volta, dannazione, e togliti di mezzo!"
 
 "È una cosa seria," disse il filosofo, scuotendo il capo.
-"Devo restare [[Alone|solo]] e considerare qual è il punto di vista più elevato.
+"Devo restare solo e considerare qual è il punto di vista più elevato.
 Ho piuttosto la sensazione che, in un caso così estremo come questo..." e se ne andò
 lentamente.  Mentre spariva tra gli alberi, lo udirono
-mormorare con voce [[Song|cantilenante]], "Nuove occasioni insegnano nuovi doveri,"
+mormorare con voce cantilenante, "Nuove occasioni insegnano nuovi doveri,"
 tratto da una poesia di James Russell Lowell.
 
 "Ah," disse MacIan, traendo un profondo respiro.  "Non credi
@@ -4483,7 +4483,7 @@ ora nella [[motifs/prayer|preghiera]]?  Ho pregato per un angelo."
 "sentivo il diavolo indebolirmi il cuore e il mio giuramento contro di te,
 e pregai che Dio mandasse un angelo in mio aiuto."
 
-"[[motifs/well|Ebbene]]?" chiese l'altro, terminando la sua [[mending|riparazione]] e avvolgendosi
+"[[motifs/well|Ebbene]]?" chiese l'altro, terminando la sua riparazione e avvolgendosi
 il resto dello spago intorno alla mano per stringere meglio la presa.
 
 "[[motifs/well|Ebbene]]?"
@@ -4502,7 +4502,7 @@ Se quell'uomo non avesse cercato di fermarci...avrei potuto...avrei potuto ferma
 "Ma poi lui è venuto," proruppe MacIan, "e la mia [[motifs/soul|anima]] mi ha detto:
 'Rinuncia a batterti, e diventerai come Quello.  Rinuncia ai voti
 e ai dogmi, e alle cose fisse, e potrai diventare come Quello.
-Potrai apprendere, anche, quella nebbia di falsa [[philosophy|filosofia]].  Potrai affezionarti
+Potrai apprendere, anche, quella nebbia di falsa filosofia.  Potrai affezionarti
 a quel pantano di morali striscianti e codarde, e potrai arrivare
 a ritenere un colpo cattivo perché fa male, e non perché umilia.
 Potrai arrivare a ritenere l'omicidio sbagliato perché è violento,
@@ -4513,7 +4513,7 @@ e so esattamente cosa significa.  In guardia!"
 
 Le spade si agganciarono l'una all'altra con un clangore e uno stridore tremendi,
 pieni della vecchia energia e del vecchio odio; e subito affondarono e riaffondarono.
-Ancora una volta il cuore di ciascuno era divenuto la calamita di una folle [[Sword|spada]].
+Ancora una volta il cuore di ciascuno era divenuto la calamita di una folle spada.
 D'improvviso, per quanto furiosi, restarono gelati per un momento immobili.
 
 "Che rumore è quello?" chiese il montanaro, con voce roca.
@@ -4633,7 +4633,7 @@ for the moment something out of the earth and the passionate ends
 of the sky.  The only evidence was in his voice, which was still
 practical but a shade more quiet.
 
-"Do you see that [[motifs/summer|summer]]-[[house]]-looking thing over there?"
+"Do you see that [[motifs/summer|summer]]-house-looking thing over there?"
 he asked shortly.  "That will do for us very [[motifs/well|well]]."
 
 Keeping himself free from the tangle of the hedge he strolled across
@@ -4641,7 +4641,7 @@ a triangle of obscure kitchen [[motifs/garden|garden]], and approached a dismal 
 or lodge a yard or two beyond it.  It was a weather-stained hut
 of grey wood, which with all its desolation retained a tag or two
 of trivial ornament, which suggested that the thing had once been
-a sort of [[motifs/summer|summer]]-[[house]], and the place probably a sort of [[motifs/garden|garden]].
+a sort of [[motifs/summer|summer]]-house, and the place probably a sort of [[motifs/garden|garden]].
 
 "That is quite invisible from the [[motifs/road|road]]," said Turnbull, as he entered it,
 "and it will cover us up for the [[motifs/night|night]]."
@@ -4762,7 +4762,7 @@ per un momento qualcosa che veniva dalla terra e dai confini appassionati
 del cielo.  L'unica prova fu nella sua voce, che era ancora
 pratica ma d'una sfumatura più quieta.
 
-"Vedi quella cosa laggiù che pare un [[house|padiglione]] [[motifs/summer|estivo]]?"
+"Vedi quella cosa laggiù che pare un padiglione [[motifs/summer|estivo]]?"
 chiese seccamente.  "Farà molto al caso nostro."
 
 Tenendosi libero dall'intrico della siepe attraversò a passo tranquillo
@@ -4770,7 +4770,7 @@ un triangolo di oscuro orto, e si avvicinò a una squallida capanna
 o casotto un metro o due oltre di esso.  Era una baracca segnata dalle intemperie,
 di legno grigio, che con tutta la sua desolazione conservava un brandello o due
 di banale ornamento, il che suggeriva che la cosa fosse stata un tempo
-una sorta di [[house|padiglione]] [[motifs/summer|estivo]], e il luogo probabilmente una sorta di [[motifs/garden|giardino]].
+una sorta di padiglione [[motifs/summer|estivo]], e il luogo probabilmente una sorta di [[motifs/garden|giardino]].
 
 "Quello è del tutto invisibile dalla [[motifs/road|strada]]," disse Turnbull, entrandovi,
 "e ci coprirà per la [[motifs/night|notte]]."
@@ -4826,7 +4826,7 @@ with a kind of stagger, put his hand out and caught one of the swords.
 "You're overdone, MacIan," said Turnbull, putting him on one side.
 "It's only someone playing the goat.  Let me open the door."
 
-But he also picked up a [[Sword|sword]] as he stepped to open it.
+But he also picked up a sword as he stepped to open it.
 
 He paused one moment with his hand on the handle and then flung
 the door open.  Almost as he did so the ferrule of an ordinary
@@ -4856,7 +4856,7 @@ same blandness.  "Who are we?"
 
 "Come out," screamed the little man with the stick.
 
-"Certainly," said Turnbull, and went outside with the [[Sword|sword]],
+"Certainly," said Turnbull, and went outside with the sword,
 MacIan following.
 
 Seen more fully, with the evening light on his face,
@@ -4883,7 +4883,7 @@ Turnbull was coolly curling his red moustache, and the stranger stared
 from one to the other, temporarily stunned by their [[archetypes/innocent|innocent]] assurance.
 
 "But, may I ask," he said at last, "what the devil you are doing
-in my [[motifs/summer|summer]]-[[house]]?"
+in my [[motifs/summer|summer]]-house?"
 
 "Certainly," said MacIan.  "We were just going to fight."
 
@@ -4912,7 +4912,7 @@ the excellent and ethical things that you will want to say to us.
 I know all about the essential requirements of civil order:
 I have written leading articles about them all my life.  I know all about
 the sacredness of human life; I have bored all my friends with it.
-Try and understand our position.  This man and I are [[Alone|alone]] in the
+Try and understand our position.  This man and I are alone in the
 modern world in that we think that God is essentially important.
 I think He does not exist; that is where the importance comes
 in for me.  But this man thinks that He does exist, and thinking
@@ -4923,7 +4923,7 @@ If you like, we are attempting a mutual [[concepts/martyrdom|martyrdom]].  The p
 have posted up every town against us.  Scotland Yard has fortified
 every police station with our enemies; we are driven therefore
 to the edge of a lonely lane, and indirectly to taking liberties
-with your [[motifs/summer|summer]]-[[house]] in order to arrange our..."
+with your [[motifs/summer|summer]]-house in order to arrange our..."
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4964,7 +4964,7 @@ con una sorta di barcollamento, tese la mano e afferrò una delle spade.
 "Sei stravolto, MacIan," disse Turnbull, mettendolo da parte.
 "È solo qualcuno che fa lo stupido.  Lascia che apra io la porta."
 
-Ma raccolse anche lui una [[Sword|spada]] mentre si accostava ad aprirla.
+Ma raccolse anche lui una spada mentre si accostava ad aprirla.
 
 Si soffermò un momento con la mano sulla maniglia e poi spalancò
 la porta.  Quasi nell'atto di farlo, il puntale di un comune
@@ -4994,7 +4994,7 @@ stessa blandezza.  "Chi siamo noi?"
 
 "Uscite fuori," strillò l'ometto con il bastone.
 
-"Certamente," disse Turnbull, e uscì con la [[Sword|spada]],
+"Certamente," disse Turnbull, e uscì con la spada,
 seguito da MacIan.
 
 Visto più compiutamente, con la luce della sera sul volto,
@@ -5021,7 +5021,7 @@ Turnbull si arricciava freddamente i baffi rossi, e lo sconosciuto passava lo sg
 dall'uno all'altro, temporaneamente sbalordito dalla loro [[archetypes/innocent|innocente]] sicurezza.
 
 "Ma, posso chiedere," disse infine, "che diavolo state facendo
-nel mio [[house|padiglione]] [[motifs/summer|estivo]]?"
+nel mio padiglione [[motifs/summer|estivo]]?"
 
 "Certamente," disse MacIan.  "Stavamo giusto per batterci."
 
@@ -5050,7 +5050,7 @@ le eccellenti ed etiche cose che vorrete dirci.
 So tutto degli essenziali requisiti dell'ordine civile:
 ho scritto articoli di fondo su tutti loro per tutta la vita.  So tutto
 della sacralità della vita umana; ho annoiato tutti i miei amici con essa.
-Cercate di comprendere la nostra posizione.  Quest'uomo e io siamo [[Alone|soli]] nel
+Cercate di comprendere la nostra posizione.  Quest'uomo e io siamo soli nel
 mondo moderno nel ritenere che Dio sia essenzialmente importante.
 Io penso che Egli non esista; è lì che sta l'importanza
 per me.  Ma quest'uomo pensa che Egli esista, e pensando
@@ -5061,7 +5061,7 @@ Se volete, stiamo tentando un reciproco [[concepts/martyrdom|martirio]].  I gior
 hanno aizzato contro di noi ogni città.  Scotland Yard ha fortificato
 ogni stazione di polizia con i nostri nemici; siamo dunque spinti
 sull'orlo di una stradina solitaria, e indirettamente a prenderci delle libertà
-con il vostro [[house|padiglione]] [[motifs/summer|estivo]] per predisporre il nostro..."
+con il vostro padiglione [[motifs/summer|estivo]] per predisporre il nostro..."
 
 
 
@@ -5140,8 +5140,8 @@ Cruel Assyrian bas-reliefs ran along the sides of the passage;
 cruel Turkish swords and daggers glinted above and below them;
 the two were separated by ages and fallen civilizations.
 Yet they seemed to sympathize since they were both harmonious
-and both merciless.  The [[house]] seemed to consist of chamber
-within chamber and created that impression as of [[A Dream|a dream]]
+and both merciless.  The house seemed to consist of chamber
+within chamber and created that impression as of a dream
 which belongs also to the Arabian Nights themselves.
 The innermost room of all was like the inside of a [[motifs/jewel|jewel]].
 The little man who owned it all threw himself on a heap of scarlet
@@ -5158,16 +5158,16 @@ The negro bowed and withdrew.
 [[characters/evan-macian|Evan MacIan]] came out the next morning into the little [[motifs/garden|garden]]
 to a fresh silver day, his long face looking more austere
 than ever in that cold light, his eyelids a little heavy.
-He carried one of the swords.  Turnbull was in the little [[house]]
+He carried one of the swords.  Turnbull was in the little house
 behind him, demolishing the end of an early breakfast and humming
 a tune to himself, which could be heard through the open [[motifs/window|window]].
 A moment or two later he leapt to his feet and came out into
-the sunlight, still munching toast, his own [[Sword|sword]] stuck under his
+the sunlight, still munching toast, his own sword stuck under his
 arm like a walking-stick.
 
 Their eccentric host had vanished from sight, with a polite gesture,
 some twenty minutes before.  They imagined him to be occupied
-on some concerns in the interior of the [[house]], and they waited for
+on some concerns in the interior of the house, and they waited for
 his emergence, stamping the [[motifs/garden|garden]] in [[motifs/silence|silence]]--the [[motifs/garden|garden]] of tall,
 fresh country [[motifs/flowers|flowers]], in the midst of which the monstrous South Sea
 idol lifted itself as abruptly as the prow of a [[motifs/ship|ship]] riding on a sea
@@ -5241,7 +5241,7 @@ Gli ornamenti che brillavano e scintillavano da ogni parte erano sottilmente mes
 di molti periodi e terre, ma tutti orientali. Bas-rilievi crudeli assiri correvano lungo i lati del corridoio;
 spade e pugnali turchi crudeli brillavano sopra e sotto di loro; i due erano separati da ere
 e civiltà cadute.
-Eppure sembrava che si comprendessero, poiché entrambi erano armoniosi ed entrambi implacabili. La [[house|casa]] sembrava composta di camera in camera e creava quell'impressione come di [[A Dream|un sogno]]
+Eppure sembrava che si comprendessero, poiché entrambi erano armoniosi ed entrambi implacabili. La casa sembrava composta di camera in camera e creava quell'impressione come di un sogno
 che appartiene anche alle Mille e una notte stesse.
 La stanza più interna era come l'interno di un [[motifs/jewel|gioiello]]. Il piccolo uomo che ne possedeva tutto si gettò su un mucchio di cuscini scarlatti
 e dorati e batté le mani. Un negro in una veste bianca e turbante apparve improvvisamente e silenziosamente alle loro spalle.
@@ -5253,16 +5253,16 @@ Il negro si inchinò e uscì.
 [[characters/evan-macian|Evan MacIan]] uscì la mattina dopo nel piccolo [[motifs/garden|giardino]]
 in una fresca giornata d'argento, il suo lungo viso appariva più austero
 che mai in quella luce fredda, le palpebre un po' pesanti.
-Portava una delle spade. Turnbull era nella piccola [[house|casa]]
+Portava una delle spade. Turnbull era nella piccola casa
 dietro di lui, stava finendo la colazione e canticchiava
 una melodia per sé stesso, che si poteva sentire attraverso la [[motifs/window|finestra]] aperta.
 Un attimo dopo saltò in piedi ed uscì alla luce del sole,
-masticando ancora il pane tostato, con la sua [[Sword|spada]] infilata sotto il
+masticando ancora il pane tostato, con la sua spada infilata sotto il
 braccio come un bastone da passeggio.
 
 Il loro eccentrico ospite era scomparso dalla vista, con un gesto cortese,
 una ventina di minuti prima. Lo immaginavano occupato in
-qualche faccenda all'interno della [[house|casa]], e aspettavano il suo ritorno,
+qualche faccenda all'interno della casa, e aspettavano il suo ritorno,
 camminando nel [[motifs/garden|giardino]] in [[motifs/silence|silenzio]] - il [[motifs/garden|giardino]] di alti
 freschi [[motifs/flowers|fiori]] di campagna, al centro del quale l'idolo mostruoso del Sud Pacifico si ergeva bruscamente come la prua di una [[motifs/ship|nave]] che naviga su un mare di rosso e bianco e oro.
 
@@ -5324,17 +5324,17 @@ and the [[motifs/silence|silence]] seemed to cool the eccentric and call him bac
 to more rational speech.
 
 "Perhaps I express myself a little too lyrically," he said with
-an amicable abruptness.  "My [[philosophy]] has its higher ecstasies,
+an amicable abruptness.  "My philosophy has its higher ecstasies,
 but perhaps you are hardly worked up to them yet.  Let us confine
 ourselves to the unquestioned.  You have found your way, gentlemen,
-by a beautiful accident, to the [[house]] of the only man in England
+by a beautiful accident, to the house of the only man in England
 (probably) who will favour and encourage your most reasonable project.
 From Cornwall to Cape Wrath this country is one horrible, solid block
-of [[Humanitarianism|humanitarianism]].  You will find men who will defend this or that war
+of humanitarianism.  You will find men who will defend this or that war
 in a distant continent.  They will defend it on the contemptible
 ground of commerce or the more contemptible ground of social good.
 But do not fancy that you will find one other person who will comprehend
-a strong man taking the [[Sword|sword]] in his hand and wiping out his enemy.
+a strong man taking the sword in his hand and wiping out his enemy.
 My name is Wimpey, Morrice Wimpey.  I had a Fellowship at Magdalen.
 But I assure you I had to drop it, owing to my having said something
 in a public lecture infringing the popular prejudice against
@@ -5353,17 +5353,17 @@ alter it.  Heroes, I give you the hospitality fit for heroes.
 And I salute the survivor.  Fall on!"
 
 The two men took their swords.  Then MacIan said steadily:
-"Mr. Turnbull, lend me your [[Sword|sword]] a moment."
+"Mr. Turnbull, lend me your sword a moment."
 
 Turnbull, with a questioning glance, handed him the weapon.
-MacIan took the second [[Sword|sword]] in his left hand and, with a violent gesture,
+MacIan took the second sword in his left hand and, with a violent gesture,
 hurled it at the feet of little Mr. Wimpey.
 
 "Fight!" he said in a loud, harsh voice.  "Fight me now!"
 
 Wimpey took a step backward, and bewildered words bubbled on his lips.
 
-"Pick up that [[Sword|sword]] and fight me," repeated MacIan, with brows
+"Pick up that sword and fight me," repeated MacIan, with brows
 as black as thunder.
 
 The little man turned to Turnbull with a gesture, demanding
@@ -5373,7 +5373,7 @@ judgement or protection.
 
 "You stinking little coward," roared Turnbull, suddenly releasing
 his wrath.  "Fight, if you're so fond of fighting!  Fight, if you're
-so fond of all that filthy [[philosophy]]!  If winning is everything,
+so fond of all that filthy philosophy!  If winning is everything,
 go in and win!  If the weak must go to the wall, go to the wall!
 Fight, you rat!  Fight, or if you won't fight--run!"
 
@@ -5382,11 +5382,11 @@ And he ran at Wimpey, with blazing eyes.
 Wimpey staggered back a few paces like a man struggling
 with his own limbs.  Then he felt the furious Scotchman coming
 at him like an express train, doubling his size every second,
-with eyes as big as windows and a [[Sword|sword]] as bright as the sun.
+with eyes as big as windows and a sword as bright as the sun.
 Something broke inside him, and he found himself running away,
 tumbling over his own feet in terror, and crying out as he ran.
 
-"Chase him!" shouted Turnbull as MacIan snatched up the [[Sword|sword]]
+"Chase him!" shouted Turnbull as MacIan snatched up the sword
 and joined in the scamper.  "Chase him over a county!
 Chase him into the sea!  Shoo!  Shoo!  Shoo!"
 
@@ -5455,14 +5455,14 @@ E si morse il dito indice in una specie di febbre.
 Tuttavia i due duellanti rimasero con le spade in mano immobili come statue, e il [[motifs/silence|silenzio]] sembrò raffreddare l'eccentrico e richiamarlo a un discorso più razionale.
 
 "Mi esprimo forse un po' troppo liricamente", disse con amichevole bruschezza,
-"ma la mia [[philosophy|filosofia]] ha i suoi alti e bassi, anche se forse non siete ancora pronti per quelli.
+"ma la mia filosofia ha i suoi alti e bassi, anche se forse non siete ancora pronti per quelli.
 Limitiamoci a ciò che è indiscutibile. Signori, avete trovato il modo, grazie
-a un bel caso fortuito, di arrivare alla [[house|casa]] dell'unico uomo in Inghilterra (probabilmente)
+a un bel caso fortuito, di arrivare alla casa dell'unico uomo in Inghilterra (probabilmente)
 che favorirà e incoraggerà il vostro più ragionevole progetto. Da Cornovaglia al Capo Wrath,
-questo paese è un orribile, compatto blocco di [[Humanitarianism|umanitarismo]]. Troverete uomini che difenderanno
+questo paese è un orribile, compatto blocco di umanitarismo. Troverete uomini che difenderanno
 questa o quella guerra in un continente lontano. La difenderanno su basi meschine come il commercio
 o peggio ancora, il bene sociale. Ma non pensate di trovare un'altra persona che comprenda
-un uomo forte che prende la [[Sword|spada]] e annienta il suo nemico. Mi chiamo Wimpey, Morrice Wimpey.
+un uomo forte che prende la spada e annienta il suo nemico. Mi chiamo Wimpey, Morrice Wimpey.
 Ero un borsista a Magdalen. Ma vi assicuro che ho dovuto rinunciarvi per aver detto qualcosa
 in una conferenza pubblica che andava contro il pregiudizio popolare contro quei grandi signori,
 gli assassini del [[historical-references/renaissance|Rinascimento]] italiano. Mi hanno lasciato dire queste cose a cena e così via, e sembravano gradirle.
@@ -5477,29 +5477,29 @@ e uno di voi sarà sconfitto; uno di voi sarà il vincitore. Quando sarà fatto,
 Eroi, vi offro l'ospitalità degna degli eroi.
 E saluto il sopravvissuto. Avanti!"
 
-I due uomini presero le loro spade. Poi MacIan disse con fermezza: "Signor Turnbull, prestami per un momento la sua [[Sword|spada]]."
+I due uomini presero le loro spade. Poi MacIan disse con fermezza: "Signor Turnbull, prestami per un momento la sua spada."
 
 Turnbull, con uno sguardo interrogativo, gli porse l'arma.
-MacIan prese la seconda [[Sword|spada]] nella mano sinistra e, con un gesto violento,
+MacIan prese la seconda spada nella mano sinistra e, con un gesto violento,
 la scagliò ai piedi del piccolo signor Wimpey.
 
 «Combatti!» disse con voce forte e aspra. «Combatti contro di me adesso!»
 
 Wimpey fece un passo indietro e parole confuse gli salirono alle labbra.
 
-«Raccogli quella [[Sword|spada]] e combatti con me», ripeté MacIan, con le sopracciglia nere come il tuono.
+«Raccogli quella spada e combatti con me», ripeté MacIan, con le sopracciglia nere come il tuono.
 
 L'omino si rivolse a Turnbull con un gesto che chiedeva giudizio o protezione.
 
 «Davvero, signore», cominciò «questo gentiluomo confonde...»
 
-"Vile piccolo codardo", ruggì Turnbull, sfogando improvvisamente la sua ira. "Combatti, se ti piace tanto combattere! Combatti, se ti piace tutta quella sporca [[philosophy|filosofia]]! Se vincere è tutto, vai e vinci! Se i deboli devono soccombere, soccombi! Combatti, topo! Combatti, o se non vuoi combattere... scappa!"
+"Vile piccolo codardo", ruggì Turnbull, sfogando improvvisamente la sua ira. "Combatti, se ti piace tanto combattere! Combatti, se ti piace tutta quella sporca filosofia! Se vincere è tutto, vai e vinci! Se i deboli devono soccombere, soccombi! Combatti, topo! Combatti, o se non vuoi combattere... scappa!"
 
 E si scagliò contro Wimpey con gli occhi in fiamme.
 
-Wimpey indietreggiò di qualche passo come un uomo che lotta contro i propri arti. Poi sentì il furioso scozzese avvicinarsi a lui come un treno espresso, raddoppiando le sue dimensioni ogni secondo, con occhi grandi come finestre e una [[Sword|spada]] luminosa quanto il sole. Qualcosa si spezzò dentro di lui, e si ritrovò a scappare via, inciampando nei propri piedi per la paura, e gridando mentre correva.
+Wimpey indietreggiò di qualche passo come un uomo che lotta contro i propri arti. Poi sentì il furioso scozzese avvicinarsi a lui come un treno espresso, raddoppiando le sue dimensioni ogni secondo, con occhi grandi come finestre e una spada luminosa quanto il sole. Qualcosa si spezzò dentro di lui, e si ritrovò a scappare via, inciampando nei propri piedi per la paura, e gridando mentre correva.
 
-"Inseguilo!" gridò Turnbull mentre MacIan afferrava la [[Sword|spada]] e si univa alla corsa. "Inseguilo attraverso una contea! Inseguilo fino al mare! Scappa! Scappa! Scappa!"
+"Inseguilo!" gridò Turnbull mentre MacIan afferrava la spada e si univa alla corsa. "Inseguilo attraverso una contea! Inseguilo fino al mare! Scappa! Scappa! Scappa!"
 
 Il piccolo uomo si tuffò come un coniglio tra i folti [[motifs/flowers|fiori]], seguito dai due duellanti. Turnbull gli rimase incollato al tallone con selvaggia esaltazione, continuando a scacciarlo come fa un gatto. Ma MacIan, mentre correva oltre l'idolo del Pacifico meridionale, si fermò per un istante per [[motifs/spring|saltare]] sul suo piedistallo. Per cinque secondi si sforzò di spostare la massa inerte. Poi questa si mosse; e lui la fece cadere con un gran fracasso tra i [[motifs/flowers|fiori]], che la inghiottirono del tutto. Poi si mise a correre veloce dietro al fuggitivo.
 
@@ -5595,18 +5595,18 @@ with two thoroughfares which might have been called two high
 streets if it had been possible to call them streets.
 One of these ways was higher on the slope than the other, the whole
 parallelogram lying aslant, so to speak, on the side of the [[motifs/hill|hill]].
-The upper of these two roads was decorated with a big public [[house]],
-a butcher's shop, a small public [[house]], a sweetstuff shop, a very small
-public [[house]], and an illegible signpost.  The lower of the two roads
+The upper of these two roads was decorated with a big public house,
+a butcher's shop, a small public house, a sweetstuff shop, a very small
+public house, and an illegible signpost.  The lower of the two roads
 boasted a [[motifs/horse|horse]]-pond, a post office, a gentleman's [[motifs/garden|garden]] with very
-high hedges, a microscopically small public [[house]], and two cottages.
+high hedges, a microscopically small public house, and two cottages.
 Where all the people lived who supported all the public houses was
 in this, as in many other English villages, a silent and smiling mystery.
 The church lay a little above and beyond the village, with a square
 grey tower dominating it decisively.
 
 But even the church was scarcely so central and solemn an
-institution as the large public [[house]], the Valencourt Arms.
+institution as the large public house, the Valencourt Arms.
 It was named after some splendid family that had long gone bankrupt,
 and whose seat was occupied by a man who had invented a
 hygienic bootjack; but the unfathomable sentimentalism of the English
@@ -5724,18 +5724,18 @@ con due arterie che si sarebbero potute chiamare due vie
 principali se fosse stato possibile chiamarle vie.
 Una di queste strade era più in alto sul pendio dell'altra, l'intero
 parallelogramma giacendo, per così dire, di traverso sul fianco della [[motifs/hill|collina]].
-La più alta di queste due strade era ornata da una grande [[house|osteria]],
-una macelleria, una piccola [[house|osteria]], una bottega di dolciumi, una piccolissima
-[[house|osteria]], e un cartello illeggibile.  La più bassa delle due strade
+La più alta di queste due strade era ornata da una grande osteria,
+una macelleria, una piccola osteria, una bottega di dolciumi, una piccolissima
+osteria, e un cartello illeggibile.  La più bassa delle due strade
 vantava uno stagno per [[motifs/horse|cavalli]], un ufficio postale, il [[motifs/garden|giardino]] di un gentiluomo con siepi
-altissime, una [[house|osteria]] microscopicamente piccola, e due casupole.
+altissime, una osteria microscopicamente piccola, e due casupole.
 Dove vivessero tutte le persone che sostenevano tutte quelle osterie era,
 in questo come in molti altri villaggi inglesi, un silenzioso e sorridente mistero.
 La chiesa sorgeva un po' più in alto e oltre il villaggio, con una squadrata
 torre grigia che la dominava con decisione.
 
 Ma perfino la chiesa era a stento un'istituzione tanto centrale e solenne
-quanto la grande [[house|osteria]], la Valencourt Arms.
+quanto la grande osteria, la Valencourt Arms.
 Era intitolata a una qualche splendida famiglia da tempo caduta in bancarotta,
 e la cui dimora era occupata da un uomo che aveva inventato un
 cavastivali igienico; ma l'insondabile sentimentalismo del popolo
@@ -5841,7 +5841,7 @@ and the [[motifs/supernatural|supernatural]]:  if you flew up into that blue sky
 I should think that you were moved by God--or the devil.
 But if you want to know what I really think...I must explain."
 
-He stopped again, abstractedly boring the point of his [[Sword|sword]] into
+He stopped again, abstractedly boring the point of his sword into
 the earth, and went on:
 
 "I was born and bred and taught in a complete universe.
@@ -5885,7 +5885,7 @@ for instance."
 Turnbull made a humorous grimace; then he said:  "We seem to be talking
 in a kind of shorthand; but I won't pretend not to understand you.
 What you mean is this:  that you learnt about all your saints
-and angels at the same [[motifs/time|time]] as you learnt about common [[morality]],
+and angels at the same [[motifs/time|time]] as you learnt about common morality,
 from the same people, in the same way.  And you mean to say that if one
 may be disputed, so may the other.  [[motifs/well|Well]], let that pass for the moment.
 But let me ask you a question in turn.  Did not this system
@@ -5968,7 +5968,7 @@ e il [[motifs/supernatural|soprannaturale]]: se voi in questo istante volaste su
 penserei che foste mosso da Dio--o dal diavolo.
 Ma se volete sapere ciò che davvero penso... devo spiegarmi."
 
-Si fermò di nuovo, ficcando distrattamente la punta della sua [[Sword|spada]] nel
+Si fermò di nuovo, ficcando distrattamente la punta della sua spada nel
 terreno, e proseguì:
 
 "Sono nato, cresciuto ed educato in un universo completo.
@@ -6012,7 +6012,7 @@ per esempio."
 Turnbull fece una smorfia divertita; poi disse: "Pare che parliamo
 in una sorta di stenografia; ma non fingerò di non capirvi.
 Ciò che intendete è questo: che avete appreso di tutti i vostri santi
-e angeli nello stesso [[motifs/time|tempo]] in cui avete appreso della comune [[morality|moralità]],
+e angeli nello stesso [[motifs/time|tempo]] in cui avete appreso della comune moralità,
 dalle stesse persone, nello stesso modo. E volete dire che se una
 può essere messa in dubbio, così può l'altra. [[motifs/well|Ebbene]], lasciamo correre per il momento.
 Ma lasciate che a mia volta vi ponga una domanda. Questo vostro sistema,
@@ -6055,7 +6055,7 @@ And he pointed to the half-tipsy yokel who was ploughing down the [[motifs/road|
 
 "I mean him," repeated MacIan with emphasis.  "He goes
 out in the early [[motifs/dawn|dawn]]; he digs or he ploughs a field.
-Then he comes back and drinks ale, and then he sings a [[Song|song]].
+Then he comes back and drinks ale, and then he sings a song.
 All your philosophies and political systems are young compared to him.
 All your hoary cathedrals, yes, even the Eternal Church on earth is
 new compared to him.  The most mouldering gods in the British Museum
@@ -6082,14 +6082,14 @@ And in gigantic strides the long, lean Highlander whirled away into
 the grey twilight, Turnbull following with a good-humoured oath.
 
 The track of the rustic was easy to follow, even in the faltering dark;
-for he was enlivening his wavering walk with [[Song|song]].
+for he was enlivening his wavering walk with song.
 It was an interminable poem, beginning with some unspecified
 [[archetypes/king|King]] William, who (it appeared) lived in [[settings/london|London]] town and who after
 the second rise vanished rather abruptly from the train of thought.
 The rest was almost entirely about beer and was thick with local
 topography of a quite unrecognizable kind.  The singer's step
 was neither very rapid, nor, indeed, exceptionally secure;
-so the [[Song|song]] grew louder and louder and the two soon overtook him.
+so the song grew louder and louder and the two soon overtook him.
 
 He was a man elderly or rather of any age, with lean grey hair and a lean
 red face, but with that remarkable rustic physiognomy in which it
@@ -6130,7 +6130,7 @@ want in England?"
 "They want you," said MacIan.
 
 "Quite so," said Turnbull, "and me; but they won't get us.
-MacIan, your attempt on the primitive [[innocence]] does not seem
+MacIan, your attempt on the primitive innocence does not seem
 very successful.  Let me try.  What you want, my friend, is your rights.
 You don't want any priests or churches.  A vote, a right to speak
 is what you----"
@@ -6149,7 +6149,7 @@ striking his stick on the ground.  "Not a [[motifs/city|city]] or owt else.
 He's a man."
 
 "You're perfectly right," said the sudden voice of MacIan,
-falling like a [[Sword|sword]].  "And you have kept close to something
+falling like a sword.  "And you have kept close to something
 the whole world of today tries to forget."
 
 "Good [[motifs/night|night]]."
@@ -6201,7 +6201,7 @@ E indicò il bifolco mezzo brillo che avanzava a fatica lungo la [[motifs/road|s
 
 "Intendo lui," ripeté MacIan con enfasi. "Esce
 alla prima [[motifs/dawn|alba]]; zappa o ara un campo.
-Poi torna e beve birra, e poi canta una [[Song|canzone]].
+Poi torna e beve birra, e poi canta una canzone.
 Tutte le vostre filosofie e i vostri sistemi politici sono giovani a paragone di lui.
 Tutte le vostre canute cattedrali, sì, perfino la Chiesa Eterna sulla terra è
 nuova a paragone di lui. Gli dèi più tarlati del British Museum
@@ -6228,14 +6228,14 @@ E a passi giganteschi il lungo, magro Highlander si lanciò via nel
 grigio crepuscolo, seguito da Turnbull con un'imprecazione bonaria.
 
 La traccia del campagnolo era facile da seguire, anche nel buio incerto;
-poiché egli ravvivava il suo passo malfermo con la [[Song|canzone]].
+poiché egli ravvivava il suo passo malfermo con la canzone.
 Era un poema interminabile, che cominciava con un imprecisato
 [[archetypes/king|re]] Guglielmo, il quale (a quanto pareva) viveva nella città di [[settings/london|Londra]] e che dopo
 la seconda strofa scomparve piuttosto bruscamente dal filo del pensiero.
 Il resto trattava quasi interamente di birra ed era fitto di
 toponomastica locale di specie del tutto irriconoscibile. Il passo del cantore
 non era né molto rapido, né, in verità, eccezionalmente sicuro;
-così la [[Song|canzone]] si fece sempre più forte e i due presto lo raggiunsero.
+così la canzone si fece sempre più forte e i due presto lo raggiunsero.
 
 Era un uomo anziano, o piuttosto di età indefinibile, con radi capelli grigi e un magro
 volto rosso, ma con quella singolare fisionomia rustica in cui
@@ -6276,7 +6276,7 @@ vogliono in Inghilterra?"
 "Vogliono voi," disse MacIan.
 
 "Appunto," disse Turnbull, "e me; ma non ci avranno.
-MacIan, il vostro tentativo sull'[[innocence|innocenza]] primitiva non pare
+MacIan, il vostro tentativo sull'innocenza primitiva non pare
 troppo riuscito. Lasciate provare a me. Ciò che volete, amico mio, sono i vostri diritti.
 Non volete preti né chiese. Un voto, il diritto di parola
 è ciò che voi----"
@@ -6295,7 +6295,7 @@ battendo il bastone per terra. "Non una [[motifs/city|città]] né altro.
 È un uomo."
 
 "Avete perfettamente ragione," disse l'improvvisa voce di MacIan,
-calando come una [[Sword|spada]]. "E vi siete tenuto stretto a qualcosa
+calando come una spada. "E vi siete tenuto stretto a qualcosa
 che il mondo intero d'oggi cerca di dimenticare."
 
 "Buona [[motifs/night|notte]]."
@@ -6818,7 +6818,7 @@ Moonrise with a great and growing [[motifs/moon|moon]] opened over all those fla
 making them seem flatter and larger than they were, turning them
 to a lake of blue light.  The two companions trudged across
 the moonlit plain for half an hour in full [[motifs/silence|silence]].  Then MacIan
-stopped suddenly and planted his [[Sword|sword]]-point in the ground like one
+stopped suddenly and planted his sword-point in the ground like one
 who plants his tent-pole for the [[motifs/night|night]].  Leaving it standing there,
 he clutched his black-haired skull with his great claws of hands,
 as was his custom when forcing the pace of his brain.
@@ -6830,7 +6830,7 @@ are we to be on this damned seesaw?"
 The other did not answer, but his [[motifs/silence|silence]] seemed somehow solid
 as assent; and MacIan went on conversationally.  Neither noticed
 that both had instinctively stood still before the sign of the fixed
-and standing [[Sword|sword]].
+and standing sword.
 
 "It is hard to guess what God means in this business.
 But he means something--or the other thing, or both.
@@ -6846,38 +6846,38 @@ meadow which fell away towards the horizon into a glimmering high [[motifs/road|
 "Nothing will jump out of bushes here anyhow," he said.
 
 "That is what I meant," said MacIan, and stared steadily at the heavy
-hilt of his standing [[Sword|sword]], which in the slight [[motifs/wind|wind]] swayed on its
+hilt of his standing sword, which in the slight [[motifs/wind|wind]] swayed on its
 tempered steel like some huge thistle on its stalk.
 
-"That is what I meant; we are quite [[Alone|alone]] here.  I have not heard
+"That is what I meant; we are quite alone here.  I have not heard
 a [[motifs/horse|horse]]-hoof or a footstep or the hoot of a train for miles.
 So I think we might stop here and ask for a miracle."
 
 "Oh! might we?" said the atheistic editor with a sort of gusto of disgust.
 
 "I beg your pardon," said MacIan, meekly.  "I forgot your prejudices."
-He eyed the [[motifs/wind|wind]]-swung [[Sword|sword]]-hilt in sad meditation and resumed:
+He eyed the [[motifs/wind|wind]]-swung sword-hilt in sad meditation and resumed:
 "What I mean is, we might find out in this quiet place whether there
 really is any fate or any commandment against our enterprise.
 I will engage on my side, like Elijah, to accept a test from heaven.
 Turnbull, let us draw swords here in this moonlight and this
 monstrous [[concepts/solitude|solitude]].  And if here in this moonlight and [[concepts/solitude|solitude]]
 there happens anything to interrupt us--if it be [[motifs/lightning|lightning]] striking
-our [[Sword|sword]]-blades or a rabbit running under our legs--I will take
+our sword-blades or a rabbit running under our legs--I will take
 it as a sign from God and we will shake hands for ever."
 
-Turnbull's mouth twitched in angry [[Humour|humour]] under his red moustache.
+Turnbull's mouth twitched in angry humour under his red moustache.
 He said:  "I will wait for signs from God until I have any signs
 of His existence; but God--or Fate--forbid that a man of scientific
 culture should refuse any kind of experiment."
 
 "Very [[motifs/well|well]], then," said MacIan, shortly.  "We are more quiet here
-than anywhere else; let us engage."  And he plucked his [[Sword|sword]]-point
+than anywhere else; let us engage."  And he plucked his sword-point
 out of the turf.
 
 Turnbull regarded him for a second and a half with a baffling visage
 almost black against the moonrise; then his hand made a sharp
-movement to his hip and his [[Sword|sword]] shone in the [[motifs/moon|moon]].
+movement to his hip and his sword shone in the [[motifs/moon|moon]].
 
 As old chess-players open every game with established gambits, they opened
 with a thrust and parry, orthodox and even frankly ineffectual.
@@ -6890,12 +6890,12 @@ a cry such as is not made by any of the beasts that perish.
 
 Turnbull must have been more superstitious than he knew, for he stopped
 in the act of going forward.  MacIan was brazenly superstitious,
-and he dropped his [[Sword|sword]].  After all, he had challenged the universe
+and he dropped his sword.  After all, he had challenged the universe
 to send an interruption; and this was an interruption, whatever else
 it was.  An instant afterwards the sharp, weak cry was repeated.
 This [[motifs/time|time]] it was certain that it was human and that it was female.
 
-MacIan stood [[rolling]] those great blue Gaelic eyes that contrasted
+MacIan stood rolling those great blue Gaelic eyes that contrasted
 with his dark hair.  "It is the voice of God," he said again and again.
 
 "God hasn't got much of a voice," said Turnbull, who snatched at every
@@ -6944,7 +6944,7 @@ Il sorgere della [[motifs/moon|luna]], con una grande e crescente [[motifs/moon|
 facendole sembrare più piatte e più vaste di quanto fossero, mutandole
 in un lago di luce azzurra. I due compagni arrancarono attraverso
 la pianura illuminata dalla luna per mezz'ora in pieno [[motifs/silence|silenzio]]. Poi MacIan
-si fermò all'improvviso e piantò la punta della sua [[Sword|spada]] nel terreno come chi
+si fermò all'improvviso e piantò la punta della sua spada nel terreno come chi
 pianta il palo della tenda per la [[motifs/night|notte]]. Lasciandola ritta là,
 si strinse il cranio dai capelli neri con i suoi grandi artigli di mani,
 come era sua abitudine quando forzava l'andatura del cervello.
@@ -6956,7 +6956,7 @@ dovremo restare su questa maledetta altalena?"
 L'altro non rispose, ma il suo [[motifs/silence|silenzio]] pareva in qualche modo solido
 come un assenso; e MacIan proseguì in tono discorsivo. Nessuno dei due notò
 che entrambi si erano istintivamente fermati davanti al segno della fissa
-e ritta [[Sword|spada]].
+e ritta spada.
 
 "È difficile indovinare che cosa intenda Dio in questa faccenda.
 Ma qualcosa intende--o l'altra cosa, o entrambe.
@@ -6972,38 +6972,38 @@ che digradava verso l'orizzonte in una scintillante [[motifs/road|strada]] maest
 "Qui, in ogni caso, non salterà nulla fuori dai cespugli," disse.
 
 "È ciò che intendevo," disse MacIan, e fissò con costanza la pesante
-elsa della sua [[Sword|spada]] ritta, che nel lieve [[motifs/wind|vento]] oscillava sul suo
+elsa della sua spada ritta, che nel lieve [[motifs/wind|vento]] oscillava sul suo
 acciaio temprato come un enorme cardo sul gambo.
 
-"È ciò che intendevo; qui siamo del tutto [[Alone|soli]]. Non ho sentito
+"È ciò che intendevo; qui siamo del tutto soli. Non ho sentito
 uno zoccolo di [[motifs/horse|cavallo]] né un passo né il fischio di un treno per miglia.
 Perciò penso che potremmo fermarci qui e chiedere un miracolo."
 
 "Oh! potremmo davvero?" disse il direttore ateo con una sorta di gusto per il disgusto.
 
 "Vi chiedo scusa," disse MacIan, con umiltà. "Avevo dimenticato i vostri pregiudizi."
-Adocchiò l'elsa della [[Sword|spada]] mossa dal [[motifs/wind|vento]] in triste meditazione e riprese:
+Adocchiò l'elsa della spada mossa dal [[motifs/wind|vento]] in triste meditazione e riprese:
 "Ciò che intendo è che potremmo scoprire, in questo luogo quieto, se davvero
 ci sia un qualche destino o un qualche comandamento contro la nostra impresa.
 Mi impegnerò, da parte mia, come Elia, ad accettare una prova dal cielo.
 Turnbull, sguainiamo le spade qui in questo chiaro di luna e in questa
 mostruosa [[concepts/solitude|solitudine]]. E se qui in questo chiaro di luna e in questa [[concepts/solitude|solitudine]]
 accade qualcosa a interromperci--sia un [[motifs/lightning|fulmine]] che colpisce
-le lame delle nostre [[Sword|spade]] o un coniglio che corre tra le nostre gambe--lo prenderò
+le lame delle nostre spade o un coniglio che corre tra le nostre gambe--lo prenderò
 come un segno di Dio e ci stringeremo la mano per sempre."
 
-La bocca di Turnbull ebbe un guizzo in un [[Humour|umore]] irato sotto i baffi rossi.
+La bocca di Turnbull ebbe un guizzo in un umore irato sotto i baffi rossi.
 Disse: "Aspetterò i segni di Dio finché non avrò un qualche segno
 della Sua esistenza; ma Dio--o il Fato--non voglia che un uomo di cultura
 scientifica rifiuti una qualsiasi sorta di esperimento."
 
 "Molto [[motifs/well|bene]], allora," disse MacIan, secco. "Qui siamo più quieti
-che in qualunque altro luogo; battiamoci." E strappò la punta della sua [[Sword|spada]]
+che in qualunque altro luogo; battiamoci." E strappò la punta della sua spada
 dalla zolla.
 
 Turnbull lo osservò per un secondo e mezzo con un volto sconcertante,
 quasi nero contro il sorgere della luna; poi la sua mano fece uno scatto
-netto verso l'anca e la sua [[Sword|spada]] brillò nella [[motifs/moon|luna]].
+netto verso l'anca e la sua spada brillò nella [[motifs/moon|luna]].
 
 Come i vecchi scacchisti aprono ogni partita con gambetti consacrati, aprirono
 con un affondo e una parata, ortodossi e persino francamente inefficaci.
@@ -7016,12 +7016,12 @@ un grido come non ne emette alcuna delle bestie che periscono.
 
 Turnbull doveva essere più superstizioso di quanto sapesse, perché si fermò
 nell'atto di avanzare. MacIan era spudoratamente superstizioso,
-e lasciò cadere la sua [[Sword|spada]]. Dopotutto, aveva sfidato l'universo
+e lasciò cadere la sua spada. Dopotutto, aveva sfidato l'universo
 a mandare un'interruzione; e questa era un'interruzione, qualunque altra cosa
 fosse. Un istante dopo il grido acuto e debole si ripeté.
 Questa [[motifs/time|volta]] fu certo che era umano e che era femminile.
 
-MacIan stava [[rolling|roteando]] quei grandi occhi azzurri gaelici che contrastavano
+MacIan stava roteando quei grandi occhi azzurri gaelici che contrastavano
 con i suoi capelli scuri. "È la voce di Dio," diceva ripetutamente.
 
 "Dio non ha una gran voce," disse Turnbull, che afferrava ogni
@@ -7129,10 +7129,10 @@ in a masquerade of mud and rushed at his old enemy from behind.
 The whole had not taken a second; and an instant after MacIan was
 in the midst of them.
 
-Turnbull had tossed away his sheathed [[Sword|sword]], greatly preferring
+Turnbull had tossed away his sheathed sword, greatly preferring
 his hands, except in the avowed etiquette of the duel; for he had
 learnt to use his hands in the old street-battles of Bradlaugh.
-But to MacIan the [[Sword|sword]] even sheathed was a more natural weapon,
+But to MacIan the sword even sheathed was a more natural weapon,
 and he laid about him on all sides with it as with a stick.
 The man who had the walking-stick found his blows parried
 with promptitude; and a second after, to his great astonishment,
@@ -7238,10 +7238,10 @@ in una mascherata di fango e si precipitò contro il suo vecchio nemico alle spa
 Il tutto non aveva richiesto un secondo; e un istante dopo MacIan era
 in mezzo a loro.
 
-Turnbull aveva gettato via la sua [[Sword|spada]] inguainata, preferendo di gran lunga
+Turnbull aveva gettato via la sua spada inguainata, preferendo di gran lunga
 le mani, salvo nella dichiarata etichetta del duello; poiché aveva
 imparato a usare le mani nelle vecchie battaglie di strada di Bradlaugh.
-Ma per MacIan la [[Sword|spada]], anche inguainata, era un'arma più naturale,
+Ma per MacIan la spada, anche inguainata, era un'arma più naturale,
 ed egli menava colpi da ogni lato con essa come con un bastone.
 L'uomo che aveva il bastone da passeggio si vide parare i colpi
 con prontezza; e un attimo dopo, con suo grande stupore,
@@ -7313,7 +7313,7 @@ and suddenly called out with [[concepts/self|self]]-accusing horror:
 "Oh, that poor, poor man!"
 
 They both swung round abruptly and saw that Turnbull, with his
-recovered [[Sword|sword]] under his arm-pit, was already lifting the fallen
+recovered sword under his arm-pit, was already lifting the fallen
 chauffeur into the car.  He was only stunned and was slowly awakening,
 feebly waving his left arm.
 
@@ -7328,11 +7328,11 @@ hour or so."
 with stony practicability.
 
 "Oh, in that case," began MacIan, uneasily; and that paralysing shyness
-which is a part of [[Romance|romance]] induced him to make a backward movement
+which is a part of romance induced him to make a backward movement
 as if leaving her to herself.  But Turnbull was more rational than he,
 being more indifferent.
 
-"I don't think you ought to drive [[motifs/home|home]] [[Alone|alone]], ma'am," he said, gruffly.
+"I don't think you ought to drive [[motifs/home|home]] alone, ma'am," he said, gruffly.
 "There seem to be a lot of rowdy parties along this [[motifs/road|road]], and the man
 will be no use for an hour.  If you will tell us where you are going,
 we will see you safely there and say good [[motifs/night|night]]."
@@ -7342,7 +7342,7 @@ who is not commonly disturbed.  She said almost sharply and yet
 with evident sincerity:  "Of course I am awfully grateful to you
 for all you've done--and there's plenty of room if you'll come in."
 
-Turnbull, with the complete [[innocence]] of an absolutely sound motive,
+Turnbull, with the complete innocence of an absolutely sound motive,
 immediately jumped into the car; but the girl cast an eye at MacIan,
 who stood in the [[motifs/road|road]] for an instant as if rooted like a tree.
 Then he also tumbled his long legs into the tonneau, having that
@@ -7379,7 +7379,7 @@ indescribable made him also relapse into [[motifs/silence|silence]].
 All this [[motifs/time|time]] MacIan had been in a sort of monstrous delirium,
 like some fabulous [[archetypes/hero|hero]] snatched up into the [[motifs/moon|moon]].
 The difference between this experience and common experiences
-was analogous to that between waking life and [[A Dream|a dream]].
+was analogous to that between waking life and a dream.
 Yet he did not feel in the least as if he were dreaming;
 rather the other way; as waking was more actual than dreaming,
 so this seemed by another degree more actual than waking itself.
@@ -7434,7 +7434,7 @@ e a esclamare d'un tratto con orrore [[concepts/self|auto]]-accusatore:
 "Oh, quel povero, povero uomo!"
 
 Entrambi si voltarono di scatto e videro che Turnbull, con la sua
-[[Sword|spada]] ritrovata sotto l'ascella, stava già sollevando l'autista caduto
+spada ritrovata sotto l'ascella, stava già sollevando l'autista caduto
 dentro la macchina. Era soltanto stordito e si stava lentamente ridestando,
 agitando debolmente il braccio sinistro.
 
@@ -7449,11 +7449,11 @@ oretta."
 con impassibile senso pratico.
 
 "Oh, in tal caso," cominciò MacIan, a disagio; e quella paralizzante timidezza
-che è parte del [[Romance|Romanticismo]] lo indusse a fare un movimento all'indietro
+che è parte del Romanticismo lo indusse a fare un movimento all'indietro
 come se la lasciasse a se stessa. Ma Turnbull era più razionale di lui,
 essendo più indifferente.
 
-"Non credo che dovreste guidare fino a [[motifs/home|casa]] [[Alone|da sola]], signora," disse, burbero.
+"Non credo che dovreste guidare fino a [[motifs/home|casa]] da sola, signora," disse, burbero.
 "Sembra esserci un mucchio di comitive turbolente lungo questa [[motifs/road|strada]], e l'uomo
 non servirà a nulla per un'ora. Se ci direte dove siete diretta,
 vi accompagneremo fin là sani e salvi e vi diremo buona [[motifs/night|notte]]."
@@ -7463,7 +7463,7 @@ che di solito non si turba. Disse quasi seccamente eppure
 con evidente sincerità: "Naturalmente vi sono tremendamente grata
 per tutto quello che avete fatto--e c'è posto in abbondanza, se volete salire."
 
-Turnbull, con la completa [[innocence|innocenza]] di un movente assolutamente sano,
+Turnbull, con la completa innocenza di un movente assolutamente sano,
 saltò immediatamente nella macchina; ma la ragazza gettò un'occhiata a MacIan,
 che rimase sulla [[motifs/road|strada]] per un istante come radicato a un albero.
 Poi anche lui infilò le sue lunghe gambe nel tonneau, avendo quel
@@ -7500,7 +7500,7 @@ di indescrivibile lo fece anch'egli ricadere nel [[motifs/silence|silenzio]].
 Per tutto questo [[motifs/time|tempo]] MacIan era stato in una sorta di mostruoso delirio,
 come un favoloso [[archetypes/hero|eroe]] rapito su nella [[motifs/moon|luna]].
 La differenza tra questa esperienza e le esperienze comuni
-era analoga a quella tra la vita da svegli e [[A Dream|un sogno]].
+era analoga a quella tra la vita da svegli e un sogno.
 Eppure non si sentiva minimamente come se stesse sognando;
 anzi, al contrario; come lo stato di veglia era più reale del sogno,
 così questo pareva di un altro grado più reale della veglia stessa.
@@ -7619,7 +7619,7 @@ The face only answered:  "[[motifs/well|Well]], you ought to be more broadminded
 If anyone else in the world had said the words, MacIan would
 have snorted with his equine neigh of scorn.  But in this case
 he seemed knocked down by a superior simplicity, as if his
-eccentric attitude were rebuked by the [[innocence]] of a [[archetypes/child|child]].
+eccentric attitude were rebuked by the innocence of a [[archetypes/child|child]].
 He could not dissociate anything that this woman said or did or wore
 from an idea of spiritual rarity and virtue.  Like most others under
 the same elemental passion, his [[motifs/soul|soul]] was at present soaked in ethics.
@@ -7746,7 +7746,7 @@ Il volto rispose soltanto:  "[[motifs/well|Beh]], dovrebbe essere più di larghe
 Se chiunque altro al mondo avesse pronunciato quelle parole, MacIan avrebbe
 sbuffato col suo equino nitrito di scherno.  Ma in questo caso
 parve atterrato da una superiore semplicità, come se la sua
-attitudine eccentrica fosse rimproverata dall'[[innocence|innocenza]] di un [[archetypes/child|bambino]].
+attitudine eccentrica fosse rimproverata dall'innocenza di un [[archetypes/child|bambino]].
 Non riusciva a dissociare nulla di ciò che questa donna diceva o faceva o indossava
 da un'idea di rarità e virtù spirituale.  Come la maggior parte di coloro che sono in preda
 alla medesima elementare passione, la sua [[motifs/soul|anima]] era al momento intrisa di etica.
@@ -7796,7 +7796,7 @@ stoppage, for a file of fat, blue policemen made a wall across the way.
 A sergeant came to the side and touched his peaked cap to the lady.
 
 "Beg your pardon, miss," he said with some embarrassment,
-for he knew her for a daughter of a dominant [[house]], "but we
+for he knew her for a daughter of a dominant house, "but we
 have reason to believe that the gentlemen in your car are----"
 and he hesitated for a polite phrase.
 
@@ -7859,7 +7859,7 @@ Avenues of poplars on both sides of the [[motifs/road|road]] chased each other l
 the figures in a zoetrope.  Now and then with a shock and rattle
 they went through sleeping moonlit villages, which must have stirred
 an instant in their [[motifs/sleep|sleep]] as at the passing of a fugitive earthquake.
-Sometimes in an outlying [[house]] a light in one erratic,
+Sometimes in an outlying house a light in one erratic,
 unexpected [[motifs/window|window]] would give them a nameless hint of the hundred
 human [[motifs/secrets|secrets]] which they left behind them with their [[motifs/dust|dust]].
 Sometimes even a slouching rustic would be afoot on the [[motifs/road|road]]
@@ -7910,7 +7910,7 @@ attraverso la via.  Un sergente si avvicinò al fianco e si toccò il berretto c
 visiera in segno di saluto alla signora.
 
 "Chiedo scusa, signorina," disse con un certo imbarazzo,
-poiché la conosceva come figlia di una [[house|casata]] dominante, "ma
+poiché la conosceva come figlia di una casata dominante, "ma
 abbiamo motivo di credere che i signori nella sua automobile siano..."
 ed esitò in cerca di una frase cortese.
 
@@ -7973,7 +7973,7 @@ Filari di pioppi su entrambi i lati della [[motifs/road|strada]] si rincorrevano
 le figure di uno zootropio.  Di tanto in tanto con uno scossone e un fragore
 attraversavano villaggi addormentati e illuminati dalla luna, che devono aver trasalito
 un istante nel loro [[motifs/sleep|sonno]] come al passaggio di un terremoto fuggitivo.
-Talvolta in una [[house|casa]] isolata una luce a una qualche capricciosa,
+Talvolta in una casa isolata una luce a una qualche capricciosa,
 inattesa [[motifs/window|finestra]] dava loro un cenno senza nome dei cento
 [[motifs/secrets|segreti]] umani che si lasciavano dietro con la loro [[motifs/dust|polvere]].
 Talvolta perfino un villico dall'andatura strascicata era in piedi sulla [[motifs/road|strada]]
@@ -8287,7 +8287,7 @@ after calling his companion twice or thrice, went up and clapped him
 impatiently on one of his big shoulders.  Evan winced and leapt away
 from him with a repulsion which was not the hate of an unclean thing
 nor the dread of a dangerous one, but was a spasm of awe and separation
-from something from which he was now sundered as by the [[Sword|sword]] of God.
+from something from which he was now sundered as by the sword of God.
 He did not hate the atheist; it is possible that he loved him.
 But Turnbull was now something more dreadful than an enemy:
 he was a thing sealed and devoted--a thing now hopelessly doomed
@@ -8357,7 +8357,7 @@ against which its strict horizon hung was almost absolutely white,
 except that close to the sky line, like scarlet braids on the hem
 of a garment, lay strings of flaky cloud of so gleaming and gorgeous
 a red that they seemed cut out of some strange [[motifs/blood|blood]]-red celestial metal,
-of which the mere gold of this earth is but a drab yellow [[Imitation|imitation]].
+of which the mere gold of this earth is but a drab yellow imitation.
 
 "The hand of Heaven is still pointing," muttered the man of superstition
 to himself.  "And now it is a [[motifs/blood|blood]]-red hand."
@@ -8412,7 +8412,7 @@ dopo aver chiamato il suo compagno due o tre volte, si avvicinò e gli batté
 impaziente la mano su una delle grosse spalle.  Evan trasalì e balzò via
 da lui con una repulsione che non era l'odio per una cosa immonda
 né il timore per una cosa pericolosa, ma era uno spasimo di soggezione e separazione
-da qualcosa da cui ora era diviso come dalla [[Sword|spada]] di Dio.
+da qualcosa da cui ora era diviso come dalla spada di Dio.
 Non odiava l'ateo; è possibile che lo amasse.
 Ma Turnbull era ora qualcosa di più terribile di un nemico:
 era una cosa sigillata e consacrata... una cosa ormai irrimediabilmente
@@ -8482,7 +8482,7 @@ contro il quale pendeva il suo severo orizzonte era quasi assolutamente bianco,
 salvo che vicino alla linea del cielo, come trecce scarlatte sull'orlo
 di una veste, stavano file di nubi sfilacciate di un rosso tanto lucente e sfarzoso
 che parevano ritagliate da un qualche strano metallo celeste color del [[motifs/blood|sangue]],
-di cui il puro oro di questa terra non è che una scialba [[Imitation|imitazione]] gialla.
+di cui il puro oro di questa terra non è che una scialba imitazione gialla.
 
 "La mano del Cielo sta ancora indicando," mormorò tra sé l'uomo della superstizione.
 "E ora è una mano color del [[motifs/blood|sangue]]."
@@ -8525,7 +8525,7 @@ Turnbull eyed the coast curiously for a moment, like one awakening
 memories of [[motifs/childhood|childhood]]; then he said abruptly, like a man remembering
 somebody's name:  "But, of course, we shall be better off still round
 the corner of Cragness Point; nobody ever comes there at all."
-And picking up his [[Sword|sword]] again, he began striding towards
+And picking up his sword again, he began striding towards
 a big bluff of the rocks which stood out upon their left.
 MacIan followed him round the corner and found himself in what
 was certainly an even finer fencing [[settings/court|court]], of flat, firm sand,
@@ -8540,7 +8540,7 @@ from Scotland to stop with my aunt.  It is highly probable that I
 may die here.  Do you mind if I light a pipe?"
 
 "Of course, do whatever you like," said MacIan, with a choking voice,
-and he went and walked [[Alone|alone]] by himself along the wet, glistening sands.
+and he went and walked alone by himself along the wet, glistening sands.
 
 Ten minutes afterwards he came back again, white with his own
 whirlwind of emotions; Turnbull was quite cheerful and was knocking
@@ -8593,7 +8593,7 @@ But now it points to two graves."
 There was a space filled with the sound of the sea, and then
 MacIan spoke again in a voice pathetically reasonable:
 "You see, we both saved her--and she told us both to fight--
-and it would not be just that either should fail and fall [[Alone|alone]],
+and it would not be just that either should fail and fall alone,
 while the other----"
 
 "You mean," said Turnbull, in a voice surprisingly soft and gentle,
@@ -8604,7 +8604,7 @@ the conqueror must die?"
 in an extraordinary childish ecstasy.  "Oh, I'm sure that you really
 believe in God!"
 
-Turnbull answered not a word, but only took up his fallen [[Sword|sword]].
+Turnbull answered not a word, but only took up his fallen sword.
 
 For the third [[motifs/time|time]] [[characters/evan-macian|Evan MacIan]] looked at those three sides of English
 cliff hung with their noisy load of life.  He had been at a loss
@@ -8648,7 +8648,7 @@ Turnbull scrutò la costa con curiosità per un momento, come uno che risveglia
 memorie d'[[motifs/childhood|infanzia]]; poi disse bruscamente, come un uomo che ricorda
 il nome di qualcuno:  "Ma, naturalmente, staremo ancor meglio dietro
 l'angolo di Cragness Point; là non ci viene mai proprio nessuno."
-E raccogliendo di nuovo la sua [[Sword|spada]], cominciò a incamminarsi verso
+E raccogliendo di nuovo la sua spada, cominciò a incamminarsi verso
 un grande sperone di rocce che spuntava sulla loro sinistra.
 MacIan lo seguì oltre l'angolo e si ritrovò in quello che
 era di certo un [[settings/court|campo]] di scherma ancor più bello, di sabbia piatta e soda,
@@ -8663,7 +8663,7 @@ dalla Scozia a stare con mia zia.  È altamente probabile che io
 possa morire qui.  Ti spiace se accendo la pipa?"
 
 "Ma certo, fa' quello che vuoi," disse MacIan, con voce strozzata,
-e andò a camminare tutto [[Alone|solo]] lungo la sabbia umida e luccicante.
+e andò a camminare tutto solo lungo la sabbia umida e luccicante.
 
 Dieci minuti dopo tornò di nuovo, bianco per il suo stesso
 turbine di emozioni; Turnbull era del tutto allegro e stava battendo
@@ -8716,7 +8716,7 @@ Ma ora indica due tombe."
 Ci fu uno spazio colmato dal suono del mare, e poi
 MacIan parlò di nuovo con una voce pateticamente ragionevole:
 "Vedi, l'abbiamo salvata entrambi... e lei ha detto a entrambi di batterci...
-e non sarebbe giusto che l'uno mancasse e cadesse [[Alone|solo]],
+e non sarebbe giusto che l'uno mancasse e cadesse solo,
 mentre l'altro..."
 
 "Vuoi dire," disse Turnbull, con una voce sorprendentemente dolce e gentile,
@@ -8727,7 +8727,7 @@ il vincitore deve morire?"
 in una straordinaria estasi infantile.  "Oh, sono sicuro che tu credi davvero
 in Dio!"
 
-Turnbull non rispose una parola, ma raccolse soltanto la sua [[Sword|spada]] caduta.
+Turnbull non rispose una parola, ma raccolse soltanto la sua spada caduta.
 
 Per la terza [[motifs/time|volta]] [[characters/evan-macian|Evan MacIan]] guardò quei tre lati di scogliera inglese
 appesantiti dal loro chiassoso carico di vita.  Era rimasto perplesso
@@ -8768,7 +8768,7 @@ ti denuncerò come vigliacco davanti a tutta quella compagnia radunata."
 
 Evan looked very doubtful and offered a somewhat wavering weapon;
 but he was quickly brought back to his senses by his opponent's
-[[Sword|sword]]-point, which shot past him, shaving his shoulder by a hair.
+sword-point, which shot past him, shaving his shoulder by a hair.
 By this [[motifs/time|time]] the waves were [[motifs/well|well]] up Turnbull's thigh, and what was worse,
 they were beginning to roll and break heavily around them.
 
@@ -8781,9 +8781,9 @@ But just as Turnbull launched his heaviest stroke, the sea,
 in which he stood up to his hips, launched a yet heavier one.
 A wave breaking beyond the others smote him heavily like a hammer
 of [[motifs/water|water]].  One leg gave way, he was swung round and sucked into
-the retreating sea, still gripping his [[Sword|sword]].
+the retreating sea, still gripping his sword.
 
-MacIan put his [[Sword|sword]] between his teeth and plunged after his
+MacIan put his sword between his teeth and plunged after his
 disappearing enemy.  He had the sense of having the whole
 universe on top of him as crest after crest struck him down.
 It seemed to him quite a cosmic collapse, as if all the seven
@@ -8792,7 +8792,7 @@ of the atheist's left leg and he did not let it go.
 
 After some ten minutes of foam and frenzy, in which all the senses
 at once seemed blasted by the sea, Evan found himself laboriously
-swimming on a low, green swell, with the [[Sword|sword]] still in his
+swimming on a low, green swell, with the sword still in his
 teeth and the editor of _The Atheist_ still under his arm.
 What he was going to do he had not even the most glimmering idea;
 so he merely kept his grip and swam somehow with one hand.
@@ -8808,9 +8808,9 @@ two people in it, Mr. [[characters/evan-macian|Evan MacIan]], panting and sweati
 and Mr. [[characters/james-turnbull|James Turnbull]], uncommonly close to being drowned.
 After ten minutes' aimless tossing in the empty fishing-boat
 he recovered, however, stirred, stretched himself, and looked round
-on the [[rolling]] waters.  Then, while taking no notice of the streams
+on the rolling waters.  Then, while taking no notice of the streams
 of salt [[motifs/water|water]] that were pouring from his hair, beard, coat, boots,
-and trousers, he carefully wiped the wet off his [[Sword|sword]]-blade
+and trousers, he carefully wiped the wet off his sword-blade
 to preserve it from the possibilities of rust.
 
 MacIan found two oars in the [[characters/bottom|bottom]] of the deserted boat and began
@@ -8834,7 +8834,7 @@ quite barbarous and elemental sort of adventure, had rowed toilsomely
 with the heavy oars whenever he saw anything that looked like land;
 but for the most part had trusted with grim transcendentalism to [[motifs/wind|wind]]
 and tide.  Among the implements of their first outfit the brandy
-[[Alone|alone]] had remained to him, and he gave it to his freezing companion
+alone had remained to him, and he gave it to his freezing companion
 in quantities which greatly alarmed that temperate Londoner;
 but MacIan came from the cold seas and mists where a man can drink
 a tumbler of raw whisky in a boat without it making him wink.
@@ -8844,8 +8844,8 @@ Turnbull craned his dripping red head out of the boat to see
 the goal of his exertions.  It was a sufficiently uninviting one;
 nothing so far as could be seen but a steep and shelving bank of shingle,
 made of loose little pebbles such as children like, but slanting up
-higher than a [[house]].  On the top of the mound, against the sky line,
-stood up the brown [[skeleton]] of some broken fence or breakwater.
+higher than a house.  On the top of the mound, against the sky line,
+stood up the brown skeleton of some broken fence or breakwater.
 With the grey and watery [[motifs/dawn|dawn]] crawling up behind it, the fence really
 seemed to say to our philosophic adventurers that they had come
 at last to the other end of nowhere.
@@ -8878,7 +8878,7 @@ And [[characters/christ|Christ]] receive thy [[motifs/soul|soul]].
 
 Evan pareva molto dubbioso e offrì un'arma alquanto malferma;
 ma fu prontamente richiamato alla ragione dalla punta della
-[[Sword|spada]] dell'avversario, che gli sfrecciò accanto, sfiorandogli la spalla per un pelo.
+spada dell'avversario, che gli sfrecciò accanto, sfiorandogli la spalla per un pelo.
 A questo [[motifs/time|punto]] le onde erano [[motifs/well|ben]] su per la coscia di Turnbull, e, quel che è peggio,
 cominciavano a rotolare e a frangersi pesantemente attorno a loro.
 
@@ -8891,9 +8891,9 @@ Ma proprio mentre Turnbull vibrava il suo colpo più pesante, il mare,
 nel quale stava immerso fino ai fianchi, ne vibrò uno ancor più pesante.
 Un'onda che si frangeva oltre le altre lo colpì con violenza come un martello
 d'[[motifs/water|acqua]].  Una gamba cedette, egli fu fatto ruotare e risucchiato
-nel mare che si ritraeva, ancora stringendo la sua [[Sword|spada]].
+nel mare che si ritraeva, ancora stringendo la sua spada.
 
-MacIan si mise la [[Sword|spada]] tra i denti e si tuffò dietro il suo
+MacIan si mise la spada tra i denti e si tuffò dietro il suo
 nemico che spariva.  Ebbe la sensazione di avere l'intero
 universo addosso mentre cresta dopo cresta lo abbatteva.
 Gli parve proprio un crollo cosmico, come se tutti e sette
@@ -8902,7 +8902,7 @@ la gamba sinistra dell'ateo e non la lasciò andare.
 
 Dopo circa dieci minuti di schiuma e frenesia, in cui tutti i sensi
 a un tempo parvero devastati dal mare, Evan si ritrovò a nuotare
-faticosamente su una bassa, verde onda lunga, con la [[Sword|spada]] ancora tra i
+faticosamente su una bassa, verde onda lunga, con la spada ancora tra i
 denti e il direttore di _The Atheist_ ancora sotto il braccio.
 Che cosa avesse intenzione di fare non ne aveva la più pallida idea;
 così mantenne semplicemente la presa e nuotò in qualche modo con una mano sola.
@@ -8918,9 +8918,9 @@ due persone a bordo, il signor [[characters/evan-macian|Evan MacIan]], ansante e
 e il signor [[characters/james-turnbull|James Turnbull]], straordinariamente vicino all'annegare.
 Dopo dieci minuti di sballottamento senza meta nella barca da pesca vuota
 egli si riprese, tuttavia, si mosse, si stiracchiò, e si guardò intorno
-sulle acque [[rolling|ondeggianti]].  Poi, senza far caso ai rivoli
+sulle acque ondeggianti.  Poi, senza far caso ai rivoli
 di [[motifs/water|acqua]] salata che gli colavano da capelli, barba, giacca, stivali
-e calzoni, asciugò con cura il bagnato dalla lama della sua [[Sword|spada]]
+e calzoni, asciugò con cura il bagnato dalla lama della sua spada
 per preservarla dalla possibilità della ruggine.
 
 MacIan trovò due remi sul [[characters/bottom|fondo]] della barca abbandonata e cominciò
@@ -8944,7 +8944,7 @@ avventura del tutto barbara ed elementare, aveva vogato faticosamente
 con i pesanti remi ogni volta che scorgeva qualcosa che pareva terra;
 ma per lo più si era affidato con cupo trascendentalismo al [[motifs/wind|vento]]
 e alla marea.  Tra gli attrezzi del loro primo equipaggiamento il brandy
-[[Alone|soltanto]] gli era rimasto, e lo diede al suo compagno intirizzito
+soltanto gli era rimasto, e lo diede al suo compagno intirizzito
 in quantità che allarmarono assai quel temperante londinese;
 ma MacIan veniva dai mari freddi e dalle brume dove un uomo può bere
 un bicchiere di whisky puro in barca senza che gli faccia battere ciglio.
@@ -8954,8 +8954,8 @@ Turnbull sporse la sua rossa testa gocciolante fuori dalla barca per vedere
 la meta dei suoi sforzi.  Era una meta abbastanza poco invitante;
 nulla, per quanto si potesse vedere, se non una ripida e digradante riva di ghiaia,
 fatta di piccoli ciottoli sciolti come piacciono ai bambini, ma inclinata verso l'alto
-più di una [[house|casa]].  In cima al cumulo, contro la linea del cielo,
-si drizzava il bruno [[skeleton|scheletro]] di una qualche rotta staccionata o frangiflutti.
+più di una casa.  In cima al cumulo, contro la linea del cielo,
+si drizzava il bruno scheletro di una qualche rotta staccionata o frangiflutti.
 Con la grigia e acquosa [[motifs/dawn|alba]] che strisciava su dietro di esso, la staccionata pareva davvero
 dire ai nostri filosofici avventurieri che erano giunti
 finalmente all'altro capo del nulla.
@@ -9063,7 +9063,7 @@ scepticism from Abelard to Anatole France."
 "France," said MacIan, "which is one cataract of clear [[concepts/faith|faith]] from
 St. Louis to Our Lady of Lourdes."
 
-"France at least," cried Turnbull, throwing up his [[Sword|sword]] in schoolboy
+"France at least," cried Turnbull, throwing up his sword in schoolboy
 triumph, "in which these things are thought about and fought about.
 France, where reason and religion clash in one continual tournament.
 France, above all, where men understand the [[concepts/pride|pride]] and passion which have
@@ -9073,13 +9073,13 @@ because we wish to put our lives on the game.  [[concepts/courage|Courage]], my 
 we have come to the country of [[concepts/honour|honour]]."
 
 MacIan did not even notice the incongruous phrase "my friend",
-but nodding again and again, drew his [[Sword|sword]] and flung the scabbard
+but nodding again and again, drew his sword and flung the scabbard
 far behind him in the [[motifs/road|road]].
 
 "Yes," he cried, in a voice of thunder, "we will fight here and _He_
 shall look on at it."
 
-Turnbull glanced at the crucifix with a sort of scowling good-[[Humour|humour]]
+Turnbull glanced at the crucifix with a sort of scowling good-humour
 and then said:  "He may look and see His [[motifs/cross|cross]] defeated."
 
 "The [[motifs/cross|cross]] cannot be defeated," said MacIan, "for it is Defeat."
@@ -9099,7 +9099,7 @@ It had been only instantaneously on the retina of his eye;
 but unless his eye and mind were going mad together, the figure
 was that of an ordinary [[settings/london|London]] policeman.
 
-He tried to concentrate his senses on the [[Sword|sword]]-play;
+He tried to concentrate his senses on the sword-play;
 but one half of his brain was wrestling with the puzzle;
 the apocalyptic and almost seraphic apparition of a stout constable
 out of Clapham on top of a dreary and deserted [[motifs/hill|hill]] in France.
@@ -9189,7 +9189,7 @@ scetticismo da Abelardo ad Anatole France."
 "La Francia," disse MacIan, "che è una sola cateratta di limpida [[concepts/faith|fede]]
 da San Luigi alla Nostra Signora di Lourdes."
 
-"La Francia almeno," gridò Turnbull, scagliando in alto la sua [[Sword|spada]] in un trionfo
+"La Francia almeno," gridò Turnbull, scagliando in alto la sua spada in un trionfo
 da scolaretto, "dove queste cose si pensano e si combattono.
 La Francia, dove ragione e religione si scontrano in un continuo torneo.
 La Francia, soprattutto, dove gli uomini comprendono l'[[concepts/pride|orgoglio]] e la passione che hanno
@@ -9199,13 +9199,13 @@ perché vogliamo mettere in gioco le nostre vite.  [[concepts/courage|Coraggio]]
 siamo giunti nella terra dell'[[concepts/honour|onore]]."
 
 MacIan non notò nemmeno l'incongrua espressione "amico mio",
-ma annuendo più e più volte, sguainò la sua [[Sword|spada]] e scagliò il fodero
+ma annuendo più e più volte, sguainò la sua spada e scagliò il fodero
 lontano dietro di sé nella [[motifs/road|strada]].
 
 "Sì," gridò, con una voce di tuono, "combatteremo qui ed _Egli_
 starà a guardarci."
 
-Turnbull lanciò un'occhiata al crocifisso con una sorta di accigliato buon [[Humour|umore]]
+Turnbull lanciò un'occhiata al crocifisso con una sorta di accigliato buon umore
 e poi disse:  "Egli può guardare e vedere la sua [[motifs/cross|croce]] sconfitta."
 
 "La [[motifs/cross|croce]] non può essere sconfitta," disse MacIan, "perché essa è la Sconfitta."
@@ -9225,7 +9225,7 @@ Era stata solo istantaneamente sulla retina del suo occhio;
 ma a meno che il suo occhio e la sua mente non stessero impazzendo insieme, la figura
 era quella di un comune poliziotto di [[settings/london|Londra]].
 
-Cercò di concentrare i sensi sul gioco della [[Sword|spada]];
+Cercò di concentrare i sensi sul gioco della spada;
 ma una metà del suo cervello era alle prese con l'enigma;
 l'apocalittica e quasi serafica apparizione di un tozzo agente
 di Clapham in cima a una tetra e deserta [[motifs/hill|collina]] in Francia.
@@ -9269,7 +9269,7 @@ their own way."
 police don't take this up--[[motifs/well|well]], because you see, sir, this ain't France.
 This is His Majesty's dominions, same as 'Ampstead 'eath."
 
-"Not France?" repeated Turnbull, with a sort of dull [[Incredulity|incredulity]].
+"Not France?" repeated Turnbull, with a sort of dull incredulity.
 
 "No, sir," said the sergeant; "though most of the people talk French.
 This is the island called St. Loup, sir, an island in the Channel.
@@ -9351,7 +9351,7 @@ modo loro."
 francese non se ne occupa — [[motifs/well|ebbene]], perché, vedete, signore, questa non è la Francia.
 Questi sono i domini di Sua Maestà, come 'Ampstead 'eath."
 
-"Non la Francia?" ripeté Turnbull, con una sorta di ottusa [[Incredulity|incredulità]].
+"Non la Francia?" ripeté Turnbull, con una sorta di ottusa incredulità.
 
 "No, signore," disse il sergente; "benché la maggior parte della gente parli francese.
 Questa è l'isola chiamata St. Loup, signore, un'isola nella Manica.
@@ -9434,7 +9434,7 @@ you had told him so he would have taken it as an ordinary compliment.
 If you had asked him about women, he would have said that one must
 preserve their domesticity and decorum; he would have used the
 stalest words, but he would have in reserve the strongest arguments.
-If you had asked him about [[government]], he would have said that all
+If you had asked him about government, he would have said that all
 citizens were free and equal, but he would have meant what he said.
 If you had asked him about [[concepts/education|education]], he would have said that the
 young must be trained up in habits of industry and of respect for
@@ -9464,14 +9464,14 @@ whom he had loved heartily and rather heavily in complete [[motifs/silence|silen
 and upon whose [[motifs/grave|grave]] he was constantly in the habit of placing
 hideous little wreaths, made out of a sort of black-and-white beads.
 To his only daughter he was equally devoted, though he restricted
-her a good deal under a sort of theoretic alarm about her [[innocence]];
+her a good deal under a sort of theoretic alarm about her innocence;
 an alarm which was peculiarly unnecessary, first, because she
 was an exceptionally reticent and religious girl, and secondly,
 because there was hardly anybody else in the place.
 
 Madeleine Durand was physically a sleepy young woman,
 and might easily have been supposed to be morally a lazy one.
-It is, however, certain that the work of her [[house]] was done somehow,
+It is, however, certain that the work of her house was done somehow,
 and it is even more rapidly ascertainable that nobody else did it.
 The logician is, therefore, driven back upon the assumption that she
 did it; and that lends a sort of mysterious interest to her personality
@@ -9541,7 +9541,7 @@ gliel'aveste detto, l'avrebbe preso come un comune complimento.
 Se gli aveste chiesto delle donne, avrebbe detto che bisogna
 preservarne la domesticità e il decoro; avrebbe usato le
 parole più trite, ma avrebbe avuto in serbo gli argomenti più forti.
-Se gli aveste chiesto del [[government|governo]], avrebbe detto che tutti
+Se gli aveste chiesto del governo, avrebbe detto che tutti
 i cittadini erano liberi e uguali, ma avrebbe pensato ciò che diceva.
 Se gli aveste chiesto dell'[[concepts/education|educazione]], avrebbe detto che i
 giovani devono essere addestrati ad abitudini di operosità e di rispetto
@@ -9571,14 +9571,14 @@ che aveva amato di cuore e piuttosto pesantemente in completo [[motifs/silence|s
 e sulla cui [[motifs/grave|tomba]] aveva la costante abitudine di deporre
 orribili piccole corone, fatte con una sorta di perline bianche e nere.
 Alla sua unica figlia era ugualmente devoto, benché la limitasse
-parecchio per una sorta di allarme teorico riguardo alla sua [[innocence|innocenza]];
+parecchio per una sorta di allarme teorico riguardo alla sua innocenza;
 un allarme che era particolarmente inutile, primo, perché ella
 era una ragazza eccezionalmente riservata e religiosa, e secondo,
 perché non c'era quasi nessun altro in quel luogo.
 
 Madeleine Durand era fisicamente una giovane donna sonnolenta,
 e la si sarebbe potuta facilmente supporre moralmente pigra.
-È certo, tuttavia, che il lavoro della sua [[house|casa]] veniva in qualche modo sbrigato,
+È certo, tuttavia, che il lavoro della sua casa veniva in qualche modo sbrigato,
 ed è ancora più rapido appurare che nessun altro lo faceva.
 Il logico è dunque costretto a ripiegare sull'assunto che fosse lei
 a farlo; e ciò conferisce una sorta di misterioso interesse alla sua personalità
@@ -9626,7 +9626,7 @@ che tutta quanta andava a finire nelle sue preghiere.
 
 The conventions of the Isle of St. Loup were necessarily a compromise
 or confusion between those of France and England; and it was vaguely
-possible for a respectable young lady to have half-attached [[lovers]],
+possible for a respectable young lady to have half-attached lovers,
 in a way that would be impossible to the _bourgeoisie_ of France.
 One man in particular had made himself an unmistakable figure
 in the track of this girl as she went to church.  He was a short,
@@ -9686,7 +9686,7 @@ four old women, one fisherman, and, of course, the irrepressible
 M. Camille Bert.  The others seemed to melt away afterwards into
 the peacock colours of the dim green grass and the dark blue sky.
 Even Durand was invisible instead of being merely reverentially remote;
-and Madeleine set forth through the patch of black forest [[Alone|alone]].
+and Madeleine set forth through the patch of black forest alone.
 She was not in the least afraid of [[concepts/loneliness|loneliness]], because she was not
 afraid of devils.  I think they were afraid of her.
 
@@ -9697,7 +9697,7 @@ Count Gregory, with his yellow hair like flame and his face like
 the white ashes of the flame, was advancing bareheaded towards her,
 flinging out his arms and his long fingers with a frantic gesture.
 
-"We are [[Alone|alone]] here," he cried, "and you would be at my [[concepts/mercy|mercy]],
+"We are alone here," he cried, "and you would be at my [[concepts/mercy|mercy]],
 only that I am at yours."
 
 Then his frantic hands fell by his sides and he looked up under his
@@ -9729,7 +9729,7 @@ with the black elderly beard and the young ardent eyes.
 
 Le convenzioni dell'Isola di St. Loup erano necessariamente un compromesso
 o una confusione fra quelle di Francia e d'Inghilterra; ed era vagamente
-possibile per una rispettabile signorina avere degli [[lovers|innamorati]] a metà,
+possibile per una rispettabile signorina avere degli innamorati a metà,
 in un modo che sarebbe stato impossibile alla _bourgeoisie_ di Francia.
 Un uomo in particolare si era reso figura inconfondibile
 sul cammino di questa ragazza mentre andava in chiesa.  Era un uomo basso,
@@ -9789,7 +9789,7 @@ quattro vecchie, un pescatore e, naturalmente, l'irrefrenabile
 M. Camille Bert.  Gli altri parvero dissolversi in seguito nei
 colori di pavone dell'erba verde e opaca e del cielo blu scuro.
 Persino Durand era invisibile invece di essere solo riverentemente remoto;
-e Madeleine si incamminò attraverso quel tratto di nera foresta [[Alone|sola]].
+e Madeleine si incamminò attraverso quel tratto di nera foresta sola.
 Non aveva affatto paura della [[concepts/loneliness|solitudine]], perché non aveva
 paura dei demoni.  Credo fossero loro ad aver paura di lei.
 
@@ -9800,7 +9800,7 @@ Conte Gregory, coi suoi capelli gialli come fiamma e il volto come
 le bianche ceneri della fiamma, avanzava a capo scoperto verso di lei,
 protendendo le braccia e le lunghe dita con un gesto frenetico.
 
-«Siamo [[Alone|soli]] qui», gridò, «e voi sareste alla mia [[concepts/mercy|mercé]],
+«Siamo soli qui», gridò, «e voi sareste alla mia [[concepts/mercy|mercé]],
 se non fosse che io sono alla vostra.»
 
 Poi le sue mani frenetiche ricaddero lungo i fianchi ed egli guardò in alto sotto le
@@ -9834,7 +9834,7 @@ con la nera barba invecchiata e i giovani occhi ardenti.
 
 Up to the moment when Camille had hit the Count, Madeleine had
 entertained no [[concepts/doubt|doubt]] that the Count was merely a madman.
-Now she was startled with a new [[Sanity|sanity]]; for the tall man in the yellow
+Now she was startled with a new sanity; for the tall man in the yellow
 whiskers and yellow moustache first returned the blow of Bert,
 as if it were a sort of duty, and then stepped back with a slight
 bow and an easy smile.
@@ -9849,7 +9849,7 @@ gentleman to fight."
 "We are detaining the lady," said Count Gregory, with politeness;
 and, making a gesture suggesting that he would have taken off
 his hat if he had had one, he strode away up the avenue of trees
-and eventually disappeared.  He was so complete an [[aristocrat]]
+and eventually disappeared.  He was so complete an aristocrat
 that he could offer his back to them all the way up that avenue;
 and his back never once looked uncomfortable.
 
@@ -9954,7 +9954,7 @@ do as you say--I mean not to do it at all?"
 
 Fino al momento in cui Camille aveva colpito il Conte, Madeleine non aveva
 nutrito alcun [[concepts/doubt|dubbio]] che il Conte fosse semplicemente un pazzo.
-Ora fu sconcertata da una nuova [[Sanity|lucidità]]; poiché l'uomo alto dalle basette
+Ora fu sconcertata da una nuova lucidità; poiché l'uomo alto dalle basette
 gialle e dai baffi gialli dapprima restituì il colpo di Bert,
 come se fosse una sorta di dovere, e poi indietreggiò con un lieve
 inchino e un facile sorriso.
@@ -9969,7 +9969,7 @@ gentiluomo possa battersi.»
 «Stiamo trattenendo la signora», disse il Conte Gregory, con garbo;
 e, facendo un gesto che suggeriva che si sarebbe tolto
 il cappello se ne avesse avuto uno, si allontanò a grandi passi su per il viale d'alberi
-e alla fine scomparve.  Era così completamente un [[aristocrat|aristocratico]]
+e alla fine scomparve.  Era così completamente un aristocratico
 da poter offrire loro la schiena per tutta la lunghezza di quel viale;
 e la sua schiena non parve mai per un solo istante a disagio.
 
@@ -10382,7 +10382,7 @@ gentleman's elbow and fled far in front.
 after MacIan and catching him by the sleeve of his coat.
 "If you want to hurry you should take a yacht, and if"--he said,
 with a burst of rationality, like one leaping to a further point
-in [[logic]]--"if you want a yacht--you can have mine."
+in logic--"if you want a yacht--you can have mine."
 
 Evan pulled up abruptly and looked back at him.  "We are really
 in the devil of a hurry," he said, "and if you really have a yacht,
@@ -10502,7 +10502,7 @@ ubriaco ed era fuggito assai più avanti.
 dietro a MacIan e afferrandolo per la manica della giacca.
 «Se volete far presto dovreste prendere uno yacht, e se»--disse,
 con uno scoppio di razionalità, come chi balza a un punto ulteriore
-nella [[logic|logica]]--«se volete uno yacht--potete avere il mio.»
+nella logica--«se volete uno yacht--potete avere il mio.»
 
 Evan si fermò di colpo e si voltò a guardarlo.  «Abbiamo davvero
 una fretta del diavolo», disse, «e se davvero avete uno yacht,
@@ -10631,7 +10631,7 @@ said Turnbull; "and that would be to die feasting like heroes."
 "You see, we are on an almost unknown rock, lost in the Atlantic.
 The police will never catch us; but then neither may the public
 ever hear of us; and that was one of the things we wanted."
-Then, after a pause, he said, drawing in the sand with his [[Sword|sword]]-point:
+Then, after a pause, he said, drawing in the sand with his sword-point:
 "She may never hear of it at all."
 
 "[[motifs/well|Well]]?" inquired the other, puffing at his cigar.
@@ -10693,7 +10693,7 @@ and even the sedentary.  It was on a golden afternoon, the sun sinking
 over the sea, rayed like the very head of [[characters/apollo|Apollo]], when Turnbull
 tossed off the last half-pint from the emptied Wilkinsonian bottle,
 hurled the bottle into the sea with objectless energy, and went
-up to where his [[Sword|sword]] stood waiting for him on the [[motifs/hill|hill]].
+up to where his sword stood waiting for him on the [[motifs/hill|hill]].
 MacIan was already standing heavily by his with bent head and eyes
 reading the ground.  He had not even troubled to throw a glance round
 the island or the horizon.  But Turnbull being of a more active
@@ -10754,7 +10754,7 @@ disse Turnbull; «e sarebbe morire banchettando come eroi.»
 «Vedete, siamo su una roccia quasi sconosciuta, sperduta nell'Atlantico.
 La polizia non ci prenderà mai; ma allora forse nemmeno il pubblico
 sentirà mai parlare di noi; e questa era una delle cose che volevamo.»
-Poi, dopo una pausa, disse, tracciando nella sabbia con la punta della sua [[Sword|spada]]:
+Poi, dopo una pausa, disse, tracciando nella sabbia con la punta della sua spada:
 «Può darsi che lei non ne senta mai parlare affatto.»
 
 «[[motifs/well|Ebbene]]?» chiese l'altro, tirando una boccata dal suo sigaro.
@@ -10816,7 +10816,7 @@ e persino dai sedentari.  Fu in un dorato pomeriggio, col sole che calava
 sul mare, raggiante come la testa stessa di [[characters/apollo|Apollo]], che Turnbull
 tracannò l'ultima mezza pinta dalla svuotata bottiglia wilkinsoniana,
 scagliò la bottiglia in mare con energia senza scopo, e salì
-là dove la sua [[Sword|spada]] lo attendeva sulla [[motifs/hill|collina]].
+là dove la sua spada lo attendeva sulla [[motifs/hill|collina]].
 MacIan era già in piedi pesantemente accanto alla sua, col capo chino e gli occhi
 che leggevano il terreno.  Non si era nemmeno preso il disturbo di gettare uno sguardo attorno
 all'isola o all'orizzonte.  Ma Turnbull, essendo di indole più attiva
@@ -10843,7 +10843,7 @@ was at least no [[concepts/doubt|doubt]] that they lay on the edge of some large
 for colourless hills appeared faintly behind them and no sea could
 be seen beyond.
 
-"Sakes alive!" cried Turnbull, with [[rolling]] eyes; "this ain't an island
+"Sakes alive!" cried Turnbull, with rolling eyes; "this ain't an island
 in the Atlantic.  We've butted the bally continent of [[settings/america|America]]."
 
 MacIan turned his head, and his face, already pale, grew a shade paler.
@@ -10887,7 +10887,7 @@ that in his subconsciousness he expected an alligator.
 The first sign of life that he did see, however, was something
 more extraordinary than the largest alligator.  It was nothing less
 than the notorious Mr. [[characters/evan-macian|Evan MacIan]] coming bounding back across
-the sand-heaps breathless, without his cap and keeping the [[Sword|sword]]
+the sand-heaps breathless, without his cap and keeping the sword
 in his hand only by a habit now quite hardened.
 
 "Take care, Turnbull," he cried out from a good distance as he ran,
@@ -10919,7 +10919,7 @@ Do you mind waiting here while I go and see for myself?"
 Turnbull ran off ahead with a rapidity now far greater than
 his rival's, and soon vanished over the disputed sand-[[motifs/hill|hill]]. Then
 five minutes passed, and then seven minutes; and MacIan bit
-his lip and swung his [[Sword|sword]], and the other did not reappear.
+his lip and swung his sword, and the other did not reappear.
 Finally, with a Gaelic oath, Evan started forward to the rescue,
 and almost at the same moment the small figure of the missing man
 appeared on the ridge against the sky.
@@ -10953,7 +10953,7 @@ And he was overtaken once more.
 
 Su tre lati di questo isolotto sabbioso e ghiaioso il mare si stendeva blu e infinito senza un pezzetto di terra o una vela; lo stesso che Turnbull aveva visto per la prima volta, tranne che la bassa marea mostrava qualche metro in più di sabbia inclinata sotto le radici delle rocce. Ma sul quarto lato l'isola presentava una caratteristica più straordinaria. In effetti, presentava la caratteristica straordinaria di non essere affatto un'isola. Un lungo collo curvo di sabbia, liscio e bagnato come il collo del serpente marino, si protendeva verso il mare e univa la loro roccia a una linea di basse colline di sabbia ondulate e lucenti che il mare in ritirata aveva appena scoperto al sole. Se fossero state sabbia compatta o [[concepts/doubt|sabbie mobili]] era difficile da indovinare; ma non c'era dubbio che si trovassero sul bordo di una terra più grande; infatti colline senza colore apparivano debolmente dietro di loro e non si vedeva il mare oltre.
 
-«Perbacco!» esclamò Turnbull, con occhi [[rolling|spalancati]]; «questa non è un'isola nell'Atlantico.
+«Perbacco!» esclamò Turnbull, con occhi spalancati; «questa non è un'isola nell'Atlantico.
 Abbiamo urtato il dannato continente dell'[[settings/america|America]].»
 
 MacIan girò la testa e il suo volto, già pallido, divenne ancora più pallido.
@@ -10987,7 +10987,7 @@ Che tipo di vita si aspettasse se fosse apparsa, non lo
 sapeva molto chiaramente.  Ha poi confessato che pensa
 che nella sua sottocoscienza si aspettasse un alligatore.
 
-Il primo segno di vita che vide fu però qualcosa di più straordinario del più grande alligatore. Non era niente meno che il famigerato signor [[characters/evan-macian|Evan MacIan]] che tornava saltellando tra le dune di sabbia senza fiato, senza berretto e tenendo la [[Sword|spada]] in mano solo per una abitudine ormai radicata.
+Il primo segno di vita che vide fu però qualcosa di più straordinario del più grande alligatore. Non era niente meno che il famigerato signor [[characters/evan-macian|Evan MacIan]] che tornava saltellando tra le dune di sabbia senza fiato, senza berretto e tenendo la spada in mano solo per una abitudine ormai radicata.
 
 «Fai attenzione, Turnbull», gridò da una certa distanza mentre correva,
 «ho visto un indigeno».
@@ -11009,7 +11009,7 @@ Poi, lanciando un'occhiata al suo compagno con una piccola espressione corruccia
 «Urlate se vi trovate nei guai», disse il celtico con calma,
 «e vedrete che avrò ragione».
 
-Turnbull corse avanti con una rapidità ora molto maggiore di quella del suo rivale e presto scomparve oltre la contesa [[motifs/hill|collina]] di sabbia. Poi passarono cinque minuti, poi sette; MacIan si morse il labbro e fece roteare la sua [[Sword|spada]], ma l'altro non riapparve. Infine, con un giuramento gaelico, Evan partì in avanti per andarlo a salvare e quasi nello stesso momento apparve sulla cresta contro il cielo la piccola figura dell'uomo scomparso.
+Turnbull corse avanti con una rapidità ora molto maggiore di quella del suo rivale e presto scomparve oltre la contesa [[motifs/hill|collina]] di sabbia. Poi passarono cinque minuti, poi sette; MacIan si morse il labbro e fece roteare la sua spada, ma l'altro non riapparve. Infine, con un giuramento gaelico, Evan partì in avanti per andarlo a salvare e quasi nello stesso momento apparve sulla cresta contro il cielo la piccola figura dell'uomo scomparso.
 
 Anche a quella distanza, tuttavia, c'era qualcosa di strano nel suo comportamento; così strano che MacIan continuò ad avvicinarsi in quella direzione. Sembrava ferito; o, ancora più, sembrava malato. Vacillava mentre scendeva lungo il pendio e pareva assumere posture particolari. Ma fu solo quando si trovò a tre piedi dal viso di MacIan che quest'osservatore dell'umanità comprese pienamente che il signor [[characters/james-turnbull|James Turnbull]] stava scoppiando dalle risate.
 
@@ -11264,11 +11264,11 @@ began cautiously to shift along the wall in the direction by which they
 had come, doubling on their tracks to throw off the last pursuit.
 MacIan could not rid himself of the fancy of bestriding a steed;
 the long, grey coping of the wall shot out in front of him,
-like the long, grey neck of some [[nightmare]] Rosinante.
+like the long, grey neck of some nightmare Rosinante.
 He had the quaint thought that he and Turnbull were two knights
 on one steed on the old shield of the Templars.
 
-The [[nightmare]] of the stone [[motifs/horse|horse]] was increased by the white fog,
+The nightmare of the stone [[motifs/horse|horse]] was increased by the white fog,
 which seemed thicker inside the wall than outside.  They could make
 nothing of the enclosure upon which they were partial trespassers,
 except that the green and crooked branches of a big apple-tree
@@ -11295,13 +11295,13 @@ And yet the mere whiteness of the syringa seemed the most violent
 colour of all.  As the golden sunlight gradually conquered the mists,
 it had really something of the sensational sweetness of the slow opening
 of the gates of Eden.  MacIan, whose mind was always haunted with such
-seraphic or [[titanic]] parallels, made some such remark to his companion.
+seraphic or titanic parallels, made some such remark to his companion.
 But Turnbull only cursed and said that it was the back [[motifs/garden|garden]]
 of some damnable rich man.
 
 When the last haze had faded from the ordered paths, the open lawns,
 and the flaming flower-beds, the two realized, not without an
-abrupt re-examination of their position, that they were not [[Alone|alone]]
+abrupt re-examination of their position, that they were not alone
 in the [[motifs/garden|garden]].
 
 Down the centre of the central [[motifs/garden|garden]] path, preceded by a blue
@@ -11368,11 +11368,11 @@ cominciarono a spostarsi cautamente lungo il muro nella direzione da cui erano
 venuti, tornando sui propri passi per sviare l'ultimo inseguimento.
 MacIan non riusciva a liberarsi della fantasia di stare in groppa a un destriero;
 il lungo, grigio spigolo del muro si protendeva davanti a lui,
-come il lungo, grigio collo di qualche Ronzinante da [[nightmare|incubo]].
+come il lungo, grigio collo di qualche Ronzinante da incubo.
 Ebbe il bizzarro pensiero che lui e Turnbull fossero due cavalieri
 su un solo destriero sull'antico scudo dei Templari.
 
-L'[[nightmare|incubo]] del [[motifs/horse|cavallo]] di pietra era accresciuto dalla bianca nebbia,
+L'incubo del [[motifs/horse|cavallo]] di pietra era accresciuto dalla bianca nebbia,
 che pareva più fitta dentro il muro che fuori.  Non riuscivano a capir
 nulla del recinto sul quale erano in parte intrusi,
 tranne che i verdi e storti rami di un grande melo
@@ -11399,13 +11399,13 @@ Eppure il mero candore della siringa pareva il colore più violento
 di tutti.  Man mano che la dorata luce del sole gradualmente conquistava le brume,
 essa aveva davvero qualcosa della sensazionale dolcezza del lento aprirsi
 delle porte dell'Eden.  MacIan, la cui mente era sempre ossessionata da tali
-parallelismi serafici o [[titanic|titanici]], fece qualche osservazione del genere al compagno.
+parallelismi serafici o titanici, fece qualche osservazione del genere al compagno.
 Ma Turnbull si limitò a imprecare e disse che era il [[motifs/garden|giardino]] sul retro
 di qualche dannato riccone.
 
 Quando l'ultima foschia si fu dissolta dai vialetti ordinati, dai prati aperti
 e dalle fiammeggianti aiuole, i due si resero conto, non senza un
-brusco riesame della propria posizione, di non essere [[Alone|soli]]
+brusco riesame della propria posizione, di non essere soli
 nel [[motifs/garden|giardino]].
 
 Giù per il centro del vialetto centrale del [[motifs/garden|giardino]], preceduto da un'azzurra
@@ -11547,7 +11547,7 @@ about the lawn.
 "How funny it is to think that you have tumbled over a [[motifs/garden|garden]] wall
 and fallen exactly on the right person!  You might have gone floundering
 about in all sorts of churches and chapels and colleges and schools
-of [[philosophy]] looking for some evidence of the existence of God.
+of philosophy looking for some evidence of the existence of God.
 Why, there is no evidence, except seeing him.  And now you've seen him.
 You've seen him [[motifs/dance|dance]]!"
 
@@ -11691,7 +11691,7 @@ vestite sul prato.
 "Che buffo pensare che abbiate ruzzolato oltre il muro d'un [[motifs/garden|giardino]]
 e siate caduti proprio sulla persona giusta!  Avreste potuto arrancare
 in ogni sorta di chiese e cappelle e collegi e scuole
-di [[philosophy|filosofia]] in cerca di qualche prova dell'esistenza di Dio.
+di filosofia in cerca di qualche prova dell'esistenza di Dio.
 Ebbene, non c'è prova alcuna, se non il vederlo.  E ora l'avete visto.
 L'avete visto [[motifs/dance|danzare]]!"
 
@@ -11778,7 +11778,7 @@ the breadth and blossoming [[concepts/beauty|beauty]] of that paradise, the colo
 the natural and restful nooks and also the great wall of stone--
 more awful than the wall of China--from which no flesh could flee.
 
-Turnbull was moodily balancing his [[Sword|sword]] in his hand as the other spoke;
+Turnbull was moodily balancing his sword in his hand as the other spoke;
 then he started, for a mouth whispered quite close to his ear.
 With a softness incredible in any cat, the huge, heavy man in the black
 hat and frock-coat had crept across the lawn from his own side
@@ -11902,7 +11902,7 @@ l'ampiezza e la fiorente [[concepts/beauty|bellezza]] di quel paradiso, gli albe
 i cantucci naturali e riposanti e anche il gran muro di pietra--
 più tremendo del muro della Cina--da cui nessuna carne poteva fuggire.
 
-Turnbull soppesava cupamente la [[Sword|spada]] in mano mentre l'altro parlava;
+Turnbull soppesava cupamente la spada in mano mentre l'altro parlava;
 poi trasalì, perché una bocca sussurrò vicinissima al suo orecchio.
 Con una morbidezza incredibile in qualsiasi gatto, l'enorme, pesante uomo dal
 cilindro nero e dalla finanziera aveva strisciato attraverso il prato dal proprio lato
@@ -12016,7 +12016,7 @@ years I have walked these islands and have not found another."
 "You are always hard to follow," remarked Turnbull, genially,
 "and sometimes so much so as to be hardly worth following."
 
-"I [[Alone|alone]] am loyal," insisted MacIan; "for I [[Alone|alone]] am in rebellion.
+"I alone am loyal," insisted MacIan; "for I alone am in rebellion.
 I am ready at any instant to restore the Stuarts.  I am ready at any
 instant to defy the Hanoverian brood--and I defy it now even when face
 to face with the actual ruler of the enormous British Empire!"
@@ -12151,7 +12151,7 @@ ho percorso queste isole e non ne ho trovato un altro."
 "Sei sempre difficile da seguire", osservò Turnbull, bonariamente,
 "e a volte tanto da non valere quasi la pena di seguirti."
 
-"Io [[Alone|solo]] sono leale", insisté MacIan; "perché io [[Alone|solo]] sono in ribellione.
+"Io solo sono leale", insisté MacIan; "perché io solo sono in ribellione.
 Sono pronto a ogni istante a restaurare gli Stuart.  Sono pronto a ogni
 istante a sfidare la stirpe hannoveriana--e la sfido ora perfino faccia
 a faccia con l'effettivo sovrano dell'enorme Impero Britannico!"
@@ -12315,7 +12315,7 @@ progressing beyond the best.  He put his arm in mine and whispered
 in my ear, as if it were the [[concepts/apocalypse|apocalypse]]:  'Never trust a God that you
 can't improve on.'"
 
-"What can he have meant?" said the atheist, with all his [[logic]] awake.
+"What can he have meant?" said the atheist, with all his logic awake.
 "Obviously one should not trust any God that one can improve on."
 
 "It is the way he talks," said MacIan, almost indifferently;
@@ -12334,7 +12334,7 @@ why anyone should suppose that a triangle is a three-sided figure.
 He says that on some higher plane----"
 
 Turnbull leapt to his feet as by an electric shock.  "I never could
-have believed," he cried, "that you had [[Humour|humour]] enough to tell a lie.
+have believed," he cried, "that you had humour enough to tell a lie.
 You've gone a bit too far, old man, with your little joke.
 Even in a lunatic asylum there can't be anybody who, having thought
 about the matter, thinks that a triangle has not got three sides.
@@ -12346,12 +12346,12 @@ fellow wandering about by the nasturtium bed."
 
 MacIan vanished, and in a few moments returned, trailing with
 him his own discovery among lunatics, who was a slender
-man with a fixed smile and an unfixed and [[rolling]] head.
+man with a fixed smile and an unfixed and rolling head.
 He had a goatlike beard just long enough to be shaken in a strong [[motifs/wind|wind]].
 Turnbull sprang to his feet and was like one who is speechless
 through choking a sudden shout of laughter.
 
-"Why, you great [[donkey]]," he shouted, in an ear-shattering whisper,
+"Why, you great donkey," he shouted, in an ear-shattering whisper,
 "that's not one of the patients at all.  That's one of the doctors."
 
 Evan looked back at the leering head with the long-pointed beard
@@ -12457,7 +12457,7 @@ sempre oltre il meglio.  Mi mise il braccio sotto il mio e sussurrò
 al mio orecchio, come se fosse l'[[concepts/apocalypse|apocalisse]]:  'Non fidarti mai di un Dio che
 non riesci a migliorare.'"
 
-"Che cosa può aver voluto dire?" chiese l'ateo, con tutta la sua [[logic|logica]] sveglia.
+"Che cosa può aver voluto dire?" chiese l'ateo, con tutta la sua logica sveglia.
 "È ovvio che non ci si dovrebbe fidare di alcun Dio che si possa migliorare."
 
 "È il suo modo di parlare", disse MacIan, quasi con indifferenza;
@@ -12476,7 +12476,7 @@ perché mai si debba supporre che un triangolo sia una figura a tre lati.
 Dice che su un piano superiore----"
 
 Turnbull balzò in piedi come per una scossa elettrica.  "Non avrei mai
-potuto credere", gridò, "che tu avessi abbastanza [[Humour|umorismo]] da dire una bugia.
+potuto credere", gridò, "che tu avessi abbastanza umorismo da dire una bugia.
 Ti sei spinto un po' troppo oltre, vecchio mio, con questo tuo scherzetto.
 Neppure in un manicomio ci può essere qualcuno che, dopo aver riflettuto
 sulla questione, pensi che un triangolo non abbia tre lati.
@@ -12488,12 +12488,12 @@ a girovagare intorno all'aiuola dei nasturzi."
 
 MacIan scomparve, e dopo pochi istanti tornò, trascinandosi
 dietro la sua scoperta tra i lunatici, che era un uomo
-snello dal sorriso fisso e dalla testa non fissa e [[rolling|ondeggiante]].
+snello dal sorriso fisso e dalla testa non fissa e ondeggiante.
 Aveva una barbetta caprina lunga giusto quanto bastava per essere scossa da un forte [[motifs/wind|vento]].
 Turnbull scattò in piedi e fu come chi resta senza parola
 per aver soffocato un improvviso scoppio di risa.
 
-"Ma, grande [[donkey|asino]]", tuonò, in un sussurro assordante,
+"Ma, grande asino", tuonò, in un sussurro assordante,
 "quello non è affatto uno dei pazienti.  Quello è uno dei medici."
 
 Evan ricambiò lo sguardo alla testa sogghignante dalla lunga barba a punta
@@ -12944,10 +12944,10 @@ to be a statue.  Indeed, he thought it was until it spoke.
 
 "Evan," said the voice, and it spoke with the simple authority
 of some forgotten father revisiting his children, "you have remained
-here long enough, and your [[Sword|sword]] is wanted elsewhere."
+here long enough, and your sword is wanted elsewhere."
 
 "Wanted for what?" asked the young man, accepting the monstrous event
-with a queer and clumsy naturalness; "what is my [[Sword|sword]] wanted for?"
+with a queer and clumsy naturalness; "what is my sword wanted for?"
 
 "For all that you hold dear," said the man standing in the moonlight;
 "for the thrones of authority and for all ancient loyalty to law."
@@ -13062,10 +13062,10 @@ una statua.  Anzi, la credette tale finché non parlò.
 
 "Evan", disse la voce, e parlò con la semplice autorità
 di qualche padre dimenticato che torni a visitare i figli, "sei rimasto
-qui abbastanza a lungo, e la tua [[Sword|spada]] è richiesta altrove."
+qui abbastanza a lungo, e la tua spada è richiesta altrove."
 
 "Richiesta per cosa?" chiese il giovane, accettando il mostruoso evento
-con una strana e goffa naturalezza; "per cosa è richiesta la mia [[Sword|spada]]?"
+con una strana e goffa naturalezza; "per cosa è richiesta la mia spada?"
 
 "Per tutto ciò che ti è caro", disse l'uomo ritto nel chiaro di luna;
 "per i troni dell'autorità e per ogni antica lealtà alla legge."
@@ -13134,9 +13134,9 @@ yet older than Stuart.  It is Capet and Plantagenet and Pendragon.
 It is all that good old [[motifs/time|time]] of which proverbs tell, that golden
 reign of [[characters/saturn|Saturn]] against which gods and men were rebels.
 It is all that was ever lost by insolence and overwhelmed in rebellion.
-It is your own forefather, MacIan with the broken [[Sword|sword]], bleeding without
+It is your own forefather, MacIan with the broken sword, bleeding without
 [[concepts/hope|hope]] at Culloden.  It is Charles refusing to answer the questions
-of the [[archetypes/rebel|rebel]] [[settings/court|court]].  It is Mary of the [[Magic|magic]] face confronting
+of the [[archetypes/rebel|rebel]] [[settings/court|court]].  It is Mary of the magic face confronting
 the gloomy and grasping peers and the boorish moralities of Knox.
 It is [[characters/richard|Richard]], the last Plantagenet, giving his [[motifs/crown|crown]] to Bolingbroke
 as to a common brigand.  It is [[characters/arthur|Arthur]], overwhelmed in Lyonesse by heathen
@@ -13180,7 +13180,7 @@ that stood round the hat of Louis XI.  Round the second gallery,
 at the base of the dome, ran a second rank of such images,
 and Evan thought there was another round the steps below.
 When they came closer he saw that they were figures in complete
-armour of steel or silver, each with a naked [[Sword|sword]], point upward;
+armour of steel or silver, each with a naked sword, point upward;
 and then he saw one of the swords move.  These were not statues but
 an armed order of chivalry thrown in three circles round the [[motifs/cross|cross]].
 MacIan drew in his breath, as children do at anything they think
@@ -13202,7 +13202,7 @@ Only in one place--at the corner of Bouverie Street--did there
 appear to be a moment's confusion, and that was due to hurry rather
 than resistance.  But one old grumbling man did not get out of the way
 quick enough, and the man on horseback struck him, not severely,
-across the shoulders with the flat of his [[Sword|sword]].
+across the shoulders with the flat of his sword.
 
 "The soldier had no business to do that," said MacIan, sharply.
 "The old man was moving as quickly as he could."
@@ -13256,7 +13256,7 @@ of necessity, be impatient with the squalid and----"
 
 "Why, you great [[archetypes/fool|fool]]!" cried MacIan, rising to the top of his
 tremendous stature, "did you think I would have doubted only for
-that rap with a [[Sword|sword]]?  I know that noble orders have bad knights,
+that rap with a sword?  I know that noble orders have bad knights,
 that good knights have bad tempers, that the Church has rough priests
 and coarse cardinals; I have known it ever since I was born.
 You [[archetypes/fool|fool]]! you had only to say, 'Yes, it is rather a shame,'
@@ -13305,9 +13305,9 @@ tuttavia più antico di Stuart.  È Capeto e Plantageneto e Pendragon.
 È tutto quel buon vecchio [[motifs/time|tempo]] di cui narrano i proverbi, quel dorato
 regno di [[characters/saturn|Saturno]] contro cui dèi e uomini furono ribelli.
 È tutto ciò che fu mai perduto per insolenza e travolto nella ribellione.
-È il tuo stesso antenato, MacIan dalla [[Sword|spada]] spezzata, che sanguina senza
+È il tuo stesso antenato, MacIan dalla spada spezzata, che sanguina senza
 [[concepts/hope|speranza]] a Culloden.  È Carlo che rifiuta di rispondere alle domande
-della [[archetypes/rebel|ribelle]] [[settings/court|corte]].  È Maria dal volto [[Magic|magico]] che affronta
+della [[archetypes/rebel|ribelle]] [[settings/court|corte]].  È Maria dal volto magico che affronta
 i cupi e avidi pari e le rozze moralità di Knox.
 È [[characters/richard|Riccardo]], l'ultimo Plantageneto, che dà la sua [[motifs/crown|corona]] a Bolingbroke
 come a un comune brigante.  È [[characters/arthur|Artù]], travolto in Lyonesse da eserciti
@@ -13351,7 +13351,7 @@ che stavano attorno al cappello di Luigi XI.  Attorno alla seconda galleria,
 alla base della cupola, correva una seconda fila di tali immagini,
 ed Evan pensò che ve ne fosse un'altra attorno ai gradini sottostanti.
 Quando furono più vicini vide che erano figure in completa
-armatura d'acciaio o d'argento, ciascuna con una [[Sword|spada]] nuda, la punta all'insù;
+armatura d'acciaio o d'argento, ciascuna con una spada nuda, la punta all'insù;
 e poi vide una delle spade muoversi.  Non erano statue ma
 un ordine cavalleresco in armi disposto in tre cerchi attorno alla [[motifs/cross|croce]].
 MacIan trattenne il respiro, come fanno i bambini davanti a qualcosa che ritengono
@@ -13373,7 +13373,7 @@ Soltanto in un luogo--all'angolo di Bouverie Street--pareva
 esserci un momento di confusione, e ciò era dovuto alla fretta più che
 alla resistenza.  Ma un vecchio brontolone non si tolse di mezzo
 abbastanza in fretta, e l'uomo a cavallo lo colpì, non con violenza,
-sulle spalle col piatto della sua [[Sword|spada]].
+sulle spalle col piatto della sua spada.
 
 "Il soldato non aveva diritto di farlo", disse MacIan, aspramente.
 "Il vecchio si stava spostando più in fretta che poteva."
@@ -13427,7 +13427,7 @@ per necessità, essere insofferenti verso lo squallido e----"
 
 "Ma come, grande [[archetypes/fool|sciocco]]!" gridò MacIan, ergendosi in tutta la sua
 tremenda statura, "credevate che avrei dubitato soltanto per
-quel colpetto con una [[Sword|spada]]?  So che nobili ordini hanno cattivi cavalieri,
+quel colpetto con una spada?  So che nobili ordini hanno cattivi cavalieri,
 che buoni cavalieri hanno cattivo carattere, che la Chiesa ha preti rozzi
 e cardinali grossolani; lo so da quando sono nato.
 [[archetypes/fool|Sciocco]]! bastava che diceste, 'Sì, è piuttosto una vergogna',
@@ -14054,7 +14054,7 @@ the social war.  They were a definite hindrance to it."
 "It _does_ seem absurdly simple," said the man, with a beaming smile,
 "when one thinks of all the worry and talk about helping a hopeless
 slave population, when the future obviously was only crying to be
-rid of them.  There are happy babes [[unborn]] ready to burst the doors
+rid of them.  There are happy babes unborn ready to burst the doors
 when these drivellers are swept away."
 
 "Will you permit me to say," said Turnbull, after reflection,
@@ -14190,7 +14190,7 @@ sociale.  Erano un vero e proprio ostacolo ad essa.»
 «Sembra assurdamente semplice» disse l'uomo, con un sorriso radioso, «quando si
 pensa a tutto l'affanno e le chiacchiere sull'aiutare una disperata popolazione
 di schiavi, mentre il futuro ovviamente non faceva che implorare di esserne
-sbarazzato.  Ci sono felici bimbi [[unborn|non ancora nati]] pronti a sfondare le
+sbarazzato.  Ci sono felici bimbi non ancora nati pronti a sfondare le
 porte quando questi rimbambiti saranno spazzati via.»
 
 «Mi permettete di dire» disse Turnbull, dopo aver riflettuto, «che tutto questo
@@ -14270,10 +14270,10 @@ eyes seemed to be made of ironies behind ironies, as two mirrors
 infinitely reflect each other.  At last he said, very gravely:
 "Do you think I am the devil?"
 
-"Yes," said Turnbull, violently.  "For I think the devil is [[A Dream|a dream]],
+"Yes," said Turnbull, violently.  "For I think the devil is a dream,
 and so are you.  I don't believe in you or your flying [[motifs/ship|ship]]
-or your last fight of the world.  It is all a [[nightmare]].
-I say as a fact of dogma and [[concepts/faith|faith]] that it is all a [[nightmare]].
+or your last fight of the world.  It is all a nightmare.
+I say as a fact of dogma and [[concepts/faith|faith]] that it is all a nightmare.
 And I will be a martyr for my [[concepts/faith|faith]] as much as St. Catherine,
 for I will jump out of this [[motifs/ship|ship]] and risk waking up safe in bed."
 
@@ -14350,10 +14350,10 @@ occhi pareva fatta di ironie dietro ironie, come due specchi
 che si riflettono infinitamente l'un l'altro. Alla fine disse, molto gravemente:
 «Credete che io sia il diavolo?»
 
-«Sì,» disse Turnbull, con violenza. «Perché io credo che il diavolo sia [[A Dream|un sogno]],
+«Sì,» disse Turnbull, con violenza. «Perché io credo che il diavolo sia un sogno,
 e così siete voi. Non credo in voi né nella vostra [[motifs/ship|nave]] volante
-né nella vostra ultima battaglia del mondo. È tutto un [[nightmare|incubo]].
-Dico come fatto di dogma e di [[concepts/faith|fede]] che è tutto un [[nightmare|incubo]].
+né nella vostra ultima battaglia del mondo. È tutto un incubo.
+Dico come fatto di dogma e di [[concepts/faith|fede]] che è tutto un incubo.
 E sarò martire della mia [[concepts/faith|fede]] non meno di santa Caterina,
 perché salterò giù da questa [[motifs/ship|nave]] e correrò il rischio di svegliarmi sano e salvo nel mio letto.»
 
@@ -14462,7 +14462,7 @@ medical black frock-coat, whose head, quite silvered with age,
 was bent over neat piles of notes.  This gentleman looked up for an
 instant as they entered, and the lamplight fell on his glittering
 spectacles and long, clean-shaven face--a face which would have been
-simply like an [[aristocrat]]'s but that a certain [[motifs/lion|lion]] poise of the head
+simply like an aristocrat's but that a certain [[motifs/lion|lion]] poise of the head
 and long cleft in the chin made it look more like a very handsome
 actor's. It was only for a flash that his face was thus lifted.
 Then he bent his silver head over his notes once more, and said,
@@ -14586,7 +14586,7 @@ e [[motifs/well|ben]] educata in un comune abito nero medico a redingote, la cui
 tutta inargentata dall'età, era china su ordinate pile di appunti.  Questo signore
 alzò lo sguardo per un istante mentre entravano, e la luce della lampada cadde sui
 suoi occhiali scintillanti e sul suo lungo volto ben rasato... un volto che sarebbe
-stato semplicemente simile a quello di un [[aristocrat|aristocratico]] se non fosse
+stato semplicemente simile a quello di un aristocratico se non fosse
 che un certo portamento leonino della testa e la lunga fenditura nel mento lo
 facevano somigliare piuttosto a quello di un attore assai bello.  Fu solo per un
 lampo che il suo viso si sollevò così.  Poi chinò di nuovo la testa d'argento sui
@@ -14696,7 +14696,7 @@ it like a sort of Robinson Crusoe.
 
 Almost unconsciously it was his instinct to examine outlets,
 and he found himself paying particular attention to the row
-of holes which let in the air into his last [[house]] of life.
+of holes which let in the air into his last house of life.
 He soon discovered that these air-holes were all the ends and mouths
 of long leaden tubes which doubtless carried air from some remote
 watering-place near Margate.  One evening while he was engaged
@@ -14743,7 +14743,7 @@ decent men, but only by those few dirty novelists hallooed on
 by the infernal huntsman to hunt down and humiliate human [[concepts/nature|nature]].
 This also passed, but left behind it a feverish distaste for many
 of the mere objects around him.  Long after he had returned
-to [[Sanity|sanity]] and such hopeless cheerfulness as a man might have on
+to sanity and such hopeless cheerfulness as a man might have on
 a [[motifs/desert|desert]] island, he disliked the regular squares of the pattern
 of wall and floor and the triangle that terminated his corridor.
 Above all, he had a hatred, deep as the hell he did not believe in,
@@ -14816,7 +14816,7 @@ Robinson Crusoe.
 
 Quasi inconsciamente era suo istinto esaminare le vie d'uscita, e si ritrovò a
 prestare particolare attenzione alla fila di fori che lasciavano entrare l'aria
-nella sua ultima [[house|dimora]] di vita.  Scoprì presto che questi fori d'aria
+nella sua ultima dimora di vita.  Scoprì presto che questi fori d'aria
 erano tutti le estremità e le bocche di lunghi tubi di piombo che senza dubbio
 portavano aria da qualche remota stazione balneare presso Margate.  Una sera, mentre
 era impegnato nella quinta indagine, notò qualcosa come un crepuscolo in una di
@@ -14857,7 +14857,7 @@ che non può essere descritto da uomini perbene, ma solo da quei pochi sudici
 romanzieri aizzati dal cacciatore infernale a dar la caccia e a umiliare la
 [[concepts/nature|natura]] umana.  Anche questo passò, ma lasciò dietro di sé un febbrile
 disgusto per molti dei semplici oggetti che lo circondavano.  A lungo dopo essere
-tornato alla [[Sanity|ragione]] e a quella disperata giovialità che un uomo potrebbe
+tornato alla ragione e a quella disperata giovialità che un uomo potrebbe
 avere su un'isola [[motifs/desert|deserta]], gli erano invisi i regolari quadrati del
 disegno della parete e del pavimento e il triangolo che terminava il suo corridoio.
 Soprattutto, provava un odio, profondo come l'inferno in cui non credeva, per
@@ -14926,7 +14926,7 @@ space just long enough to be painful.  Then he said with his old gaiety:
 I have met for ten million years."
 
 "I know what you mean," answered the other.  "It has been awful.
-For a mortal month I have been [[Alone|alone]] with God."
+For a mortal month I have been alone with God."
 
 Turnbull started, and it was on the tip of his tongue to answer:
 "[[works/alone-(poe)|Alone]] with God!  Then you do not know what [[concepts/loneliness|loneliness]] is."
@@ -15044,13 +15044,13 @@ giusto abbastanza lungo da essere doloroso.  Poi disse con la sua antica allegri
 dopo dieci milioni di anni.»
 
 «So cosa vuoi dire» rispose l'altro.  «È stato spaventoso.  Per un mese mortale sono
-stato [[Alone|solo]] con Dio.»
+stato solo con Dio.»
 
 Turnbull trasalì, e gli fu sulla punta della lingua rispondere:
-«[[Alone|Solo]] con Dio!  Allora non sai che cosa sia la [[concepts/loneliness|solitudine]].»
+«Solo con Dio!  Allora non sai che cosa sia la [[concepts/loneliness|solitudine]].»
 
 Ma alla fine rispose, nel suo antico stile di sfida:
-«[[Alone|Solo]] con Dio, eri?  E suppongo che tu abbia trovato la compagnia di Sua
+«Solo con Dio, eri?  E suppongo che tu abbia trovato la compagnia di Sua
 Maestà piuttosto monotona?»
 
 «Oh, no» disse MacIan, e la sua voce rabbrividì; «è stata fin troppo emozionante.»
@@ -15412,7 +15412,7 @@ knocked in the wall of heaven.  Only once or twice in life is it
 permitted to a man thus to see the very universe from outside,
 and feel existence itself as an adorable adventure not yet begun.
 As they found this shining escape out of that hellish labyrinth
-they both had simultaneously the sensation of being babes [[unborn]],
+they both had simultaneously the sensation of being babes unborn,
 of being asked by God if they would like to live upon the earth.
 They were looking in at one of the seven gates of Eden.
 
@@ -15543,7 +15543,7 @@ aperto a colpi nella parete del cielo. Solo una o due volte nella vita è
 concesso a un uomo di vedere così l'universo stesso dall'esterno,
 e di sentire l'esistenza medesima come un'adorabile avventura non ancora cominciata.
 Trovando questa splendente via di fuga da quel labirinto infernale
-ebbero entrambi simultaneamente la sensazione di essere pargoli [[unborn|non nati]],
+ebbero entrambi simultaneamente la sensazione di essere pargoli non nati,
 di essere interrogati da Dio se desiderassero vivere sulla terra.
 Stavano guardando dentro una delle sette porte dell'Eden.
 
@@ -15648,7 +15648,7 @@ in fact, you weren't meant to."
 
 "There's a new law now, and the asylum powers are greatly extended.
 Even if you did escape now, any policeman would take you up in
-the next town if you couldn't show a certificate of [[Sanity|sanity]] from us."
+the next town if you couldn't show a certificate of sanity from us."
 
 "[[motifs/well|Well]]," continued Dr. Hutton, "the Master described before both
 Houses of Parliament the real scientific objection to all existing
@@ -15665,7 +15665,7 @@ pewter S which is now necessary to any one who walks about beyond
 asylum bounds or outside asylum hours."
 
 "You mean to say," said Turnbull, "that this was what the Master
-of the asylum urged before the [[house|House]] of Commons?"
+of the asylum urged before the House of Commons?"
 
 Dr. Hutton nodded with gravity.
 
@@ -15679,10 +15679,10 @@ that this was a question for men of science."
 Turnbull gave one stamp upon the gravel, then pulled himself together,
 and resumed:  "But why should your infernal head medicine-man lock us
 up in separate cells while he was turning England into a madhouse?
-I'm not the Prime Minister; we're not the [[house|House]] of Lords."
+I'm not the Prime Minister; we're not the House of Lords."
 
 "He wasn't afraid of the Prime Minister," replied Dr. Hutton;
-"he isn't afraid of the [[house|House]] of Lords.  But----"
+"he isn't afraid of the House of Lords.  But----"
 
 "[[motifs/well|Well]]?" inquired Turnbull, stamping again.
 
@@ -15770,7 +15770,7 @@ in effetti, non era previsto che sapeste."
 
 "C'è una nuova legge adesso, e i poteri dei manicomi sono grandemente estesi.
 Anche se ora evadeste, qualunque poliziotto vi arresterebbe nella
-prima città in cui giungeste, se non poteste esibire un certificato di [[Sanity|sanità mentale]] rilasciato da noi."
+prima città in cui giungeste, se non poteste esibire un certificato di sanità mentale rilasciato da noi."
 
 "[[motifs/well|Beh]]," continuò il Dr. Hutton, "il Padrone ha esposto dinanzi a entrambe
 le Camere del Parlamento la vera obiezione scientifica a tutta la legislazione
@@ -15787,7 +15787,7 @@ S di peltro che è ora necessaria a chiunque cammini oltre i confini
 del manicomio o fuori dalle ore consentite dal manicomio."
 
 "Volete dirmi," disse Turnbull, "che questo è ciò che il Padrone
-del manicomio ha sostenuto dinanzi alla [[house|Camera]] dei Comuni?"
+del manicomio ha sostenuto dinanzi alla Camera dei Comuni?"
 
 Il Dr. Hutton annuì con gravità.
 
@@ -15801,10 +15801,10 @@ che questa era una questione da uomini di scienza."
 Turnbull batté una volta il piede sulla ghiaia, poi si ricompose,
 e riprese: "Ma perché il vostro infernale medicastro capo doveva rinchiuderci
 in celle separate mentre trasformava l'Inghilterra in un manicomio?
-Io non sono il Primo Ministro; noi non siamo la [[house|Camera]] dei Lord."
+Io non sono il Primo Ministro; noi non siamo la Camera dei Lord."
 
 "Non aveva paura del Primo Ministro," replicò il Dr. Hutton;
-"non ha paura della [[house|Camera]] dei Lord. Ma----"
+"non ha paura della Camera dei Lord. Ma----"
 
 "[[motifs/well|Beh]]?" incalzò Turnbull, pestando di nuovo il piede.
 
@@ -16616,7 +16616,7 @@ Into the middle of his stationary and senseless enjoyment were thrust
 abruptly the projecting elbow and the projecting red beard of Turnbull.
 MacIan stepped back a little, and the [[motifs/soul|soul]] in his eyes came very
 slowly to its windows.  When [[characters/james-turnbull|James Turnbull]] had the glittering
-[[Sword|sword]]-point planted upon his breast he was in far less danger.
+sword-point planted upon his breast he was in far less danger.
 For three pulsating seconds after the interruption MacIan was
 in a mood to have murdered his father.
 
@@ -16637,7 +16637,7 @@ the whole thing is incredible.  She's not the only person here.
 I've met the fellow Wilkinson, whose yacht we lost.  I've met
 the very magistrate you were hauled up to when you broke my [[motifs/window|window]].
 What can it mean--meeting all these old people again?
-One never meets such old friends again except in [[A Dream|a dream]]."
+One never meets such old friends again except in a dream."
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -16742,7 +16742,7 @@ Nel bel mezzo del suo statico e insensato godimento furono cacciati
 d'un tratto il gomito sporgente e la sporgente barba rossa di Turnbull.
 MacIan indietreggiò un poco, e l'[[motifs/soul|anima]] nei suoi occhi tornò molto
 lentamente alle sue finestre. Quando [[characters/james-turnbull|James Turnbull]] ebbe la scintillante
-punta della [[Sword|spada]] piantata sul petto era in ben minor pericolo.
+punta della spada piantata sul petto era in ben minor pericolo.
 Per tre pulsanti secondi dopo l'interruzione MacIan fu
 in uno stato d'animo tale da poter uccidere suo padre.
 
@@ -16763,7 +16763,7 @@ che la cosa è tutta incredibile. Non è la sola persona qui.
 Ho incontrato quel tale Wilkinson, il cui yacht perdemmo. Ho incontrato
 proprio il magistrato dinanzi al quale fosti trascinato quando rompesti la mia [[motifs/window|finestra]].
 Che cosa può significare--incontrare di nuovo tutte queste vecchie conoscenze?
-Non si incontrano mai di nuovo simili vecchi amici se non in [[A Dream|un sogno]]."
+Non si incontrano mai di nuovo simili vecchi amici se non in un sogno."
 
 
 
@@ -16783,17 +16783,17 @@ pious old blasphemer.  No, you are not dreaming--you are waking up."
 "What do you mean?"
 
 "There are two states where one meets so many old friends,"
-said MacIan; "one is [[A Dream|a dream]], the other is the end of the world."
+said MacIan; "one is a dream, the other is the end of the world."
 
 "And you say----"
 
-"I say this is not [[A Dream|a dream]]," said Evan in a ringing voice.
+"I say this is not a dream," said Evan in a ringing voice.
 
 "You really mean to suggest----" began Turnbull.
 
 "Be silent! or I shall say it all wrong," said MacIan, breathing hard.
-"It's hard to explain, anyhow.  An [[concepts/apocalypse|apocalypse]] is the opposite of [[A Dream|a dream]].
-[[A Dream|A dream]] is falser than the outer life.  But the end of the world
+"It's hard to explain, anyhow.  An [[concepts/apocalypse|apocalypse]] is the opposite of a dream.
+A dream is falser than the outer life.  But the end of the world
 is more actual than the world it ends.  I don't say this is really
 the end of the world, but it's something like that--it's the end
 of something.  All the people are crowding into one corner.
@@ -16879,7 +16879,7 @@ Does it stand, or does it stagger?"
 Turnbull remained silent, and MacIan said to him, looking once more
 at the earth:  "It staggers, Turnbull.  It cannot stand by itself;
 you know it cannot.  It has been the sorrow of your life.
-Turnbull, this [[motifs/garden|garden]] is not [[A Dream|a dream]], but an apocalyptic fulfilment.
+Turnbull, this [[motifs/garden|garden]] is not a dream, but an apocalyptic fulfilment.
 This [[motifs/garden|garden]] is the world gone mad."
 
 Turnbull did not move his head, and he had been listening all
@@ -16913,17 +16913,17 @@ pio vecchio bestemmiatore. No, non stai sognando--ti stai destando."
 "Che cosa vuoi dire?"
 
 "Ci sono due stati in cui si incontrano tanti vecchi amici,"
-disse MacIan; "uno è [[A Dream|un sogno]], l'altro è la fine del mondo."
+disse MacIan; "uno è un sogno, l'altro è la fine del mondo."
 
 "E tu dici----"
 
-"Dico che questo non è [[A Dream|un sogno]]," disse Evan con voce squillante.
+"Dico che questo non è un sogno," disse Evan con voce squillante.
 
 "Vuoi davvero suggerire----" cominciò Turnbull.
 
 "Taci! o dirò tutto storto," disse MacIan, respirando affannosamente.
-"È difficile da spiegare, in ogni caso. Un'[[concepts/apocalypse|apocalisse]] è l'opposto di [[A Dream|un sogno]].
-[[A Dream|Un sogno]] è più falso della vita esteriore. Ma la fine del mondo
+"È difficile da spiegare, in ogni caso. Un'[[concepts/apocalypse|apocalisse]] è l'opposto di un sogno.
+Un sogno è più falso della vita esteriore. Ma la fine del mondo
 è più reale del mondo che essa termina. Non dico che questa sia davvero
 la fine del mondo, ma è qualcosa del genere--è la fine
 di qualcosa. Tutta la gente si sta accalcando in un angolo.
@@ -17009,7 +17009,7 @@ Sta ritto, o vacilla?"
 Turnbull rimase in silenzio, e MacIan gli disse, guardando ancora una volta
 la terra: "Vacilla, Turnbull. Non può reggersi da solo;
 tu lo sai che non può. È stato il dolore della tua vita.
-Turnbull, questo [[motifs/garden|giardino]] non è [[A Dream|un sogno]], ma un compimento apocalittico.
+Turnbull, questo [[motifs/garden|giardino]] non è un sogno, ma un compimento apocalittico.
 Questo [[motifs/garden|giardino]] è il mondo impazzito."
 
 Turnbull non mosse il capo, ed era stato in ascolto per tutto
@@ -17036,10 +17036,10 @@ Turnbull, per la prima [[motifs/time|volta]], sussultò.
 
 "What is the matter with you?" asked MacIan.
 
-"I had [[A Dream|a dream]]," said Turnbull, thickly and obscurely, "in which I
+"I had a dream," said Turnbull, thickly and obscurely, "in which I
 saw the [[motifs/cross|cross]] struck crooked and the ball secure----"
 
-"I had [[A Dream|a dream]]," said MacIan, "in which I saw the [[motifs/cross|cross]] erect
+"I had a dream," said MacIan, "in which I saw the [[motifs/cross|cross]] erect
 and the ball invisible.  They were both [[motifs/dreams|dreams]] from hell.
 There must be some round earth to plant the [[motifs/cross|cross]] upon.
 But here is the awful difference--that the round world will not consent
@@ -17101,10 +17101,10 @@ to some great collision.
 
 "Che cos'hai?" chiese MacIan.
 
-"Ho fatto [[A Dream|un sogno]]", disse Turnbull, con voce impastata e oscura, "in cui
+"Ho fatto un sogno", disse Turnbull, con voce impastata e oscura, "in cui
 vedevo la [[motifs/cross|croce]] piantata storta e la sfera al sicuro..."
 
-"Ho fatto [[A Dream|un sogno]]", disse MacIan, "in cui vedevo la [[motifs/cross|croce]] eretta
+"Ho fatto un sogno", disse MacIan, "in cui vedevo la [[motifs/cross|croce]] eretta
 e la sfera invisibile.  Erano entrambi [[motifs/dreams|sogni]] usciti dall'inferno.
 Ci vuole pure una terra rotonda su cui piantare la [[motifs/cross|croce]].
 Ma qui sta la differenza tremenda: che il mondo rotondo non consente
@@ -17184,7 +17184,7 @@ But when they entered the lamp-lit hall, and the high iron door
 was clashed to and locked behind them, yet a new amazement
 leapt into their eyes, and the stalwart Turnbull almost fell.
 For he saw a sight which was indeed, as MacIan had said--
-either the Day of Judgement or [[A Dream|a dream]].
+either the Day of Judgement or a dream.
 
 Within a few feet of him at one corner of the square of standing
 people stood the girl he had known in Jersey, Madeleine Durand.
@@ -17204,7 +17204,7 @@ energetically to himself.  There was not only Mr. Vane the magistrate,
 but the clerk of Mr. Vane, the magistrate.  There was not only
 Miss Drake of the motor-car, but also Miss Drake's chauffeur.
 Nothing wild or unfamiliar could have produced upon Turnbull
-such a [[nightmare]] impression as that ring of familiar faces.
+such a nightmare impression as that ring of familiar faces.
 Yet he had one intellectual shock which was greater than all the others.
 He stepped impulsively forward towards Madeleine, and then wavered
 with a kind of wild [[concepts/humility|humility]].  As he did so he caught sight of another
@@ -17300,7 +17300,7 @@ Ma quando entrarono nell'atrio illuminato a lampada, e l'alta porta di ferro
 fu sbattuta e chiusa a chiave dietro di loro, un nuovo stupore
 balzò ancora nei loro occhi, e il robusto Turnbull per poco non cadde.
 Poiché vide uno spettacolo che era davvero, come aveva detto MacIan--
-o il Giorno del Giudizio o [[A Dream|un sogno]].
+o il Giorno del Giudizio o un sogno.
 
 A pochi piedi da lui, a un angolo del quadrato di persone in piedi,
 stava la ragazza che aveva conosciuto a Jersey, Madeleine Durand.
@@ -17320,7 +17320,7 @@ animatamente da solo. C'era non solo il signor Vane il magistrato,
 ma anche il cancelliere del signor Vane, il magistrato. C'era non solo
 la signorina Drake dell'automobile, ma anche l'autista della signorina Drake.
 Nulla di selvaggio o di ignoto avrebbe potuto produrre su Turnbull
-un'impressione da [[nightmare|incubo]] pari a quell'anello di volti familiari.
+un'impressione da incubo pari a quell'anello di volti familiari.
 Eppure ebbe uno shock intellettuale che fu maggiore di tutti gli altri.
 Si fece avanti d'impulso verso Madeleine, e poi vacillò
 con una sorta di selvaggia [[concepts/humility|umiltà]]. Nel far ciò scorse un altro
@@ -17413,7 +17413,7 @@ but Turnbull did not look up.
 
 "This, we found, was the only way with all superstitions,"
 continued the speaker; "it was necessary to deny them historically, and we
-have done it with great [[success]] in the case of miracles and such things.
+have done it with great success in the case of miracles and such things.
 Now within our own [[motifs/time|time]] there arose an unfortunate fuss which threatened
 (as Mr. Turnbull would say) to galvanize the corpse of [[historical-references/christianity|Christianity]]
 into a fictitious life--the alleged case of a Highland eccentric
@@ -17464,7 +17464,7 @@ That is why they are here."
 
 The Master looked round the room, just showing his perfect teeth
 with the perfection of artistic cruelty, exalted for a moment
-in the enormous simplicity of his [[success]], and then walked across
+in the enormous simplicity of his success, and then walked across
 the hall and vanished through an inner door.  His two lieutenants,
 Quayle and Hutton, were left standing at the head of the great army
 of servants and keepers.
@@ -17496,7 +17496,7 @@ happen?" he asked.
 "Oh, how should I know!" wailed the other.
 
 "Then I will tell you," said Turnbull; "it happened because some people
-fancied that a French [[grocer]] was as respectable as he looked."
+fancied that a French grocer was as respectable as he looked."
 
 Even as he spoke, as if by confirmation, old Mr. Durand re-entered
 the smoky room quite placidly, wiping the petroleum from his hands
@@ -17516,7 +17516,7 @@ will wait to be burned alive if only we may see them go."
 afraid of [[motifs/death|death]]."
 
 "So this is [[concepts/suicide|suicide]]," sneered the doctor; "a somewhat doubtful
-sign of [[Sanity|sanity]]."
+sign of sanity."
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -17536,7 +17536,7 @@ ma Turnbull non alzò lo sguardo.
 
 "Questo, scoprimmo, era l'unico modo per trattare tutte le
 superstizioni," continuò l'oratore; "era necessario negarle
-storicamente, e lo abbiamo fatto con grande [[success|successo]] nel
+storicamente, e lo abbiamo fatto con grande successo nel
 caso dei miracoli e di cose simili. Ora, entro il nostro stesso
 [[motifs/time|tempo]], sorse uno sciagurato clamore che minacciava (come direbbe
 il signor Turnbull) di galvanizzare il cadavere del [[historical-references/christianity|cristianesimo]]
@@ -17587,7 +17587,7 @@ tutte squilibrate. Ecco perché sono qui."
 
 Il Maestro si guardò intorno per la sala, mostrando appena i suoi
 denti perfetti con la perfezione di una crudeltà artistica, esaltato
-per un istante nell'enorme semplicità del suo [[success|successo]], e poi
+per un istante nell'enorme semplicità del suo successo, e poi
 attraversò l'atrio e svanì attraverso una porta interna. I suoi due
 luogotenenti, Quayle e Hutton, rimasero in piedi alla testa della
 grande armata di servitori e custodi.
@@ -17620,7 +17620,7 @@ Una luce era comparsa negli occhi di Turnbull. "Come accadde la
 "Oh, e che ne so io!" gemette l'altro.
 
 "Allora te lo dirò io," disse Turnbull; "accadde perché certa gente
-s'immaginò che un [[grocer|droghiere]] francese fosse rispettabile quanto
+s'immaginò che un droghiere francese fosse rispettabile quanto
 sembrava."
 
 Proprio mentre parlava, come per conferma, il vecchio signor Durand
@@ -17641,7 +17641,7 @@ pur di vederli andar via."
 un'insopportabile paura della [[motifs/death|morte]]."
 
 "Dunque questo è [[concepts/suicide|suicidio]]," sogghignò il dottore; "un segno
-alquanto dubbio di [[Sanity|sanità mentale]]."
+alquanto dubbio di sanità mentale."
 
 
 
@@ -17923,7 +17923,7 @@ opened down the middle, and, reeling back in two great golden billows,
 hung on each side as huge and harmless as two sloping hills lie
 on each side of a valley.  Down the centre of this trough, or chasm,
 a little path ran, cleared of all but ashes, and down this little
-path was walking a little old man singing as if he were [[Alone|alone]]
+path was walking a little old man singing as if he were alone
 in a wood in [[motifs/spring|spring]].
 
 When [[characters/james-turnbull|James Turnbull]] saw this he suddenly put out a hand and seemed
@@ -17978,7 +17978,7 @@ away no souls with him, after all."
 
 He looked vaguely about at the [[motifs/fire|fire]] that was already fading,
 and there among the ashes lay two shining things that had survived
-the [[motifs/fire|fire]], his [[Sword|sword]] and Turnbull's, fallen haphazard in the pattern
+the [[motifs/fire|fire]], his sword and Turnbull's, fallen haphazard in the pattern
 of a [[motifs/cross|cross]].
 
 
@@ -17997,7 +17997,7 @@ si aprì lungo il mezzo, e, ripiegandosi indietro in due grandi flutti d'oro,
 pendette da ogni lato, tanto immensa e innocua quanto due colli in pendio giacciono
 ai due lati di una valle.  Giù per il centro di questo solco, o abisso,
 correva un sentiero piccolo, sgombro di tutto tranne le ceneri, e giù per questo piccolo
-sentiero camminava un piccolo vecchio che cantava come se fosse [[Alone|solo]]
+sentiero camminava un piccolo vecchio che cantava come se fosse solo
 in un bosco in [[motifs/spring|spring]].
 
 Quando [[characters/james-turnbull|James Turnbull]] vide ciò, d'improvviso protese una mano e parve
@@ -18052,5 +18052,5 @@ via alcuna anima con sé, dopotutto."
 
 Guardò vagamente il [[motifs/fire|fuoco]] che già svaniva,
 e là tra le ceneri giacevano due cose lucenti che erano sopravvissute
-al [[motifs/fire|fuoco]], la sua [[Sword|spada]] e quella di Turnbull, cadute a caso nella figura
+al [[motifs/fire|fuoco]], la sua spada e quella di Turnbull, cadute a caso nella figura
 di una [[motifs/cross|croce]].

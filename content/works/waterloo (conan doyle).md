@@ -34,5 +34,5 @@ tags:
 **Motifs:** [[motifs/memory|Memory]], [[motifs/music-and-song|Music and Song]], [[motifs/home|Home]]
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]
 **Settings:** [[settings/london|London]]
-**Archetypes:** Hero, Wise Old Man Sage
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 **Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/tempus-fugit|Tempus Fugit]]

@@ -65,5 +65,5 @@ tags:
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/love|Love]], [[motifs/marriage|Marriage]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Characters:** Frank Crosse, Maude Selby
-**Archetypes:** Lover
+**Characters:** [[characters/frank-crosse|Frank Crosse]], [[characters/maude-selby|Maude Selby]]
+**Archetypes:** [[archetypes/lover|Lover]]

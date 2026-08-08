@@ -80,7 +80,7 @@ being a significant provincial adjective, descriptive of the
 atmospheric tumult to which its station is exposed in stormy weather.
 Pure, bracing ventilation they must have up there at all times, indeed:
 one may guess the power of the north [[motifs/wind|wind]], blowing over the edge, by
-the excessive slant of a few stunted firs at the end of the [[house]]; and
+the excessive slant of a few stunted firs at the end of the house; and
 by a range of gaunt thorns all stretching their limbs one way, as if
 craving alms of the sun. Happily, the architect had foresight to build
 it strong: the narrow windows are deeply set in the wall, and the
@@ -97,7 +97,7 @@ and I had no [[motifs/desire|desire]] to aggravate his impatience previous to in
 the penetralium.
 
 One step brought us into the family sitting-room, without any
-introductory lobby or passage: they call it here “the [[house]]”
+introductory lobby or passage: they call it here “the house”
 pre-eminently. It includes kitchen and parlour, generally; but I
 believe at [[works/wuthering-heights-(bronte)|Wuthering Heights]] the kitchen is forced to retreat
 altogether into another quarter: at least I distinguished a chatter of
@@ -116,7 +116,7 @@ disposed along its ledge. The floor was of smooth, white stone; the
 chairs, high-backed, primitive structures, painted green: one or two
 heavy black ones lurking in the shade. In an arch under the dresser
 reposed a huge, liver-coloured bitch pointer, surrounded by a swarm of
-squealing puppies; and other [[dogs]] haunted other recesses.
+squealing puppies; and other dogs haunted other recesses.
 
 The apartment and furniture would have been nothing extraordinary as
 belonging to a homely, northern farmer, with a stubborn countenance,
@@ -154,7 +154,7 @@ led to [[concepts/doubt|doubt]] her own senses, and, overwhelmed with confusion 
 supposed mistake, persuaded her mamma to decamp.
 
 By this curious turn of disposition I have gained the reputation of
-deliberate heartlessness; how undeserved, I [[Alone|alone]] can appreciate.
+deliberate heartlessness; how undeserved, I alone can appreciate.
 
 I took a seat at the end of the hearthstone opposite that towards which
 my landlord advanced, and filled up an interval of [[motifs/silence|silence]] by
@@ -163,14 +163,14 @@ was sneaking wolfishly to the back of my legs, her lip curled up, and
 her white teeth watering for a snatch. My caress provoked a long,
 guttural gnarl.
 
-“You’d better let the dog [[Alone|alone]],” growled Mr. [[characters/heathcliff|Heathcliff]] in unison,
+“You’d better let the dog alone,” growled Mr. [[characters/heathcliff|Heathcliff]] in unison,
 checking fiercer demonstrations with a punch of his foot. “She’s not
 accustomed to be spoiled—not kept for a pet.” Then, striding to a side
 door, he shouted again, “Joseph!”
 
 Joseph mumbled indistinctly in the depths of the cellar, but gave no
 intimation of ascending; so his master dived down to him, leaving me
-_vis-à-vis_ the ruffianly bitch and a pair of grim shaggy sheep-[[dogs]],
+_vis-à-vis_ the ruffianly bitch and a pair of grim shaggy sheep-dogs,
 who shared with her a jealous guardianship over all my movements. Not
 anxious to come in contact with their fangs, I sat still; but,
 imagining they would scarcely understand tacit insults, I unfortunately
@@ -203,7 +203,7 @@ sir. You might as [[motifs/well|well]] leave a stranger with a brood of tigers!�
 
 “They won’t meddle with persons who touch nothing,” he remarked,
 putting the bottle before me, and restoring the displaced table. “The
-[[dogs]] do right to be vigilant. Take a glass of wine?”
+dogs do right to be vigilant. Take a glass of wine?”
 
 “No, thank you.”
 
@@ -213,14 +213,14 @@ putting the bottle before me, and restoring the displaced table. “The
 countenance relaxed into a grin.
 
 “Come, come,” he said, “you are flurried, Mr. Lockwood. Here, take a
-little wine. Guests are so exceedingly rare in this [[house]] that I and my
-[[dogs]], I am willing to own, hardly know how to receive them. Your
+little wine. Guests are so exceedingly rare in this house that I and my
+dogs, I am willing to own, hardly know how to receive them. Your
 health, sir?”
 
 I bowed and returned the pledge; beginning to perceive that it would be
 foolish to sit sulking for the misbehaviour of a pack of curs; besides,
 I felt loth to yield the fellow further amusement at my expense; since
-his [[Humour|humour]] took that turn. He—probably swayed by prudential
+his humour took that turn. He—probably swayed by prudential
 consideration of the folly of offending a good tenant—relaxed a little
 in the laconic style of chipping off his pronouns and auxiliary verbs,
 and introduced what he supposed would be a subject of interest to me,—a
@@ -244,7 +244,7 @@ Yesterday afternoon set in misty and cold. I had half a mind to spend
 it by my study [[motifs/fire|fire]], instead of wading through heath and mud to
 [[works/wuthering-heights-(bronte)|Wuthering Heights]]. On coming up from dinner, however, (N.B.—I dine
 between twelve and one o’[[motifs/clock|clock]]; the housekeeper, a matronly lady, taken
-as a fixture along with the [[house]], could not, or would not, comprehend
+as a fixture along with the house, could not, or would not, comprehend
 my request that I might be served at five)—on mounting the stairs with
 this lazy intention, and stepping into the room, I saw a servant-girl
 on her knees surrounded by brushes and coal-scuttles, and raising an
@@ -257,7 +257,7 @@ On that bleak [[motifs/hill|hill]] top the earth was hard with a black [[motifs/
 air made me shiver through every limb. Being unable to remove the
 chain, I jumped over, and, running up the flagged causeway bordered
 with straggling gooseberry-bushes, knocked vainly for admittance, till
-my knuckles tingled and the [[dogs]] howled.
+my knuckles tingled and the dogs howled.
 
 “Wretched inmates!” I ejaculated, mentally, “you deserve perpetual
 isolation from your species for your churlish inhospitality. At least,
@@ -281,7 +281,7 @@ flaysome dins till neeght.”
 The [[motifs/snow|snow]] began to drive thickly. I seized the handle to [[forms/essay|essay]] another
 trial; when a young man without coat, and shouldering a pitchfork,
 appeared in the yard behind. He hailed me to follow him, and, after
-marching through a wash-[[house]], and a paved area containing a coal-shed,
+marching through a wash-house, and a paved area containing a coal-shed,
 pump, and pigeon-cot, we at length arrived in the huge, warm, cheerful
 apartment where I was formerly received. It glowed delightfully in the
 radiance of an immense [[motifs/fire|fire]], compounded of coal, peat, and wood; and
@@ -363,7 +363,7 @@ the superiority observable in Mr. and Mrs. [[characters/heathcliff|Heathcliff]];
 curls were rough and uncultivated, his whiskers encroached bearishly
 over his cheeks, and his hands were embrowned like those of a common
 labourer: still his bearing was free, almost haughty, and he showed
-none of a domestic’s assiduity in attending on the lady of the [[house]].
+none of a domestic’s assiduity in attending on the lady of the house.
 In the absence of clear proofs of his condition, I deemed it best to
 abstain from noticing his curious conduct; and, five minutes
 afterwards, the entrance of [[characters/heathcliff|Heathcliff]] relieved me, in some measure,
@@ -498,7 +498,7 @@ said [[characters/heathcliff|Heathcliff]].
 “How must I do?” I continued, with rising irritation.
 
 There was no reply to my question; and on looking round I saw only
-Joseph bringing in a pail of porridge for the [[dogs]], and Mrs. [[characters/heathcliff|Heathcliff]]
+Joseph bringing in a pail of porridge for the dogs, and Mrs. [[characters/heathcliff|Heathcliff]]
 leaning over the [[motifs/fire|fire]], diverting herself with burning a bundle of
 matches which had fallen from the chimney-piece as she restored the
 tea-canister to its place. The former, when he had deposited his
@@ -524,7 +524,7 @@ being carried away bodily, whenever you mention the devil’s name? I
 warn you to refrain from provoking me, or I’ll ask your abduction as a
 special favour! Stop! look here, Joseph,” she continued, taking a long,
 dark book from a shelf; “I’ll show you how far I’ve progressed in the
-Black Art: I shall soon be competent to make a clear [[house]] of it. The
+Black Art: I shall soon be competent to make a clear house of it. The
 red cow didn’t die by chance; and your rheumatism can hardly be
 reckoned among providential visitations!”
 
@@ -539,7 +539,7 @@ you’ll see! Go, I’m looking at you!”
 The little [[characters/witch|witch]] put a mock malignity into her beautiful eyes, and
 Joseph, trembling with sincere horror, hurried out, praying, and
 ejaculating “wicked” as he went. I thought her conduct must be prompted
-by a species of dreary fun; and, now that we were [[Alone|alone]], I endeavoured
+by a species of dreary fun; and, now that we were alone, I endeavoured
 to interest her in my distress.
 
 “Mrs. [[characters/heathcliff|Heathcliff]],” I said earnestly, “you must excuse me for troubling
@@ -642,7 +642,7 @@ her master, she turned her vocal artillery against the younger
 scoundrel.
 
 “[[motifs/well|Well]], Mr. Earnshaw,” she cried, “I [[concepts/wonder|wonder]] what you’ll have agait next?
-Are we going to murder folk on our very door-stones? I see this [[house]]
+Are we going to murder folk on our very door-stones? I see this house
 will never do for me—look at t’ poor lad, he’s fair choking! Wisht,
 wisht; you mun’n’t go on so. Come in, and I’ll cure that: there now,
 hold ye still.”
@@ -773,7 +773,7 @@ us by the collar, and the other by the arm, hurled both into the
 back-kitchen; where, Joseph asseverated, ‘owd Nick’ would fetch us as
 sure as we were living: and, so comforted, we each sought a separate
 nook to await his advent. I reached this book, and a pot of ink from a
-shelf, and pushed the [[house]]-door ajar to give me light, and I have got
+shelf, and pushed the house-door ajar to give me light, and I have got
 the [[motifs/time|time]] on with writing for twenty minutes; but my companion is
 impatient, and proposes that we should appropriate the dairywoman’s
 cloak, and have a scamper on the moors, under its shelter. A pleasant
@@ -798,7 +798,7 @@ wrote. “My head aches, till I cannot keep it on the pillow; and still I
 can’t give over. Poor [[characters/heathcliff|Heathcliff]]! Hindley calls him a vagabond, and
 won’t let him sit with us, nor eat with us any more; and, he says, he
 and I must not play together, and threatens to turn him out of the
-[[house]] if we break his orders. He has been blaming our father (how dared
+house if we break his orders. He has been blaming our father (how dared
 he?) for treating H. too liberally; and swears he will reduce him to
 his right place—”
 
@@ -821,7 +821,7 @@ I thought it was morning; and I had set out on my way [[motifs/home|home]], with
 for a guide. The [[motifs/snow|snow]] lay yards deep in our [[motifs/road|road]]; and, as we floundered
 on, my companion wearied me with constant reproaches that I had not
 brought a [[archetypes/pilgrim|pilgrim]]’s staff: telling me that I could never get into the
-[[house]] without one, and boastfully flourishing a heavy-headed cudgel,
+house without one, and boastfully flourishing a heavy-headed cudgel,
 which I understood to be so denominated. For a moment I considered it
 absurd that I should need such a weapon to gain admittance into my own
 residence. Then a new idea flashed across me. I was not going there: we
@@ -835,7 +835,7 @@ thrice; it lies in a hollow, between two hills: an elevated hollow,
 near a swamp, whose peaty moisture is said to answer all the purposes
 of embalming on the few corpses deposited there. The roof has been kept
 whole hitherto; but as the clergyman’s stipend is only twenty pounds
-per annum, and a [[house]] with two rooms, threatening speedily to
+per annum, and a house with two rooms, threatening speedily to
 determine into one, no clergyman will undertake the duties of pastor:
 especially as it is currently reported that his flock would rather let
 him starve than increase the living by one penny from their own
@@ -906,7 +906,7 @@ which, my fingers closed on the fingers of a little, ice-cold hand!
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="Wuthering Heights — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/dreams,motif/ghosts,motif/home,motif/memory,motif/night,motif/prayer,motif/sleep,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/imagination,concept/melancholy,concept/truth,character/heathcliff"></span>
 
 
-The intense horror of [[nightmare]] came over me: I tried to draw back my
+The intense horror of nightmare came over me: I tried to draw back my
 arm, but the hand clung to it, and a most [[concepts/melancholy|melancholy]] voice sobbed,
 
 “Let me in—let me in!”
@@ -970,7 +970,7 @@ his agitation was so extreme, that he could hardly pick it up.
 
 “It is only your guest, sir,” I called out, desirous to spare him the
 humiliation of exposing his cowardice further. “I had the misfortune to
-scream in my [[motifs/sleep|sleep]], owing to a frightful [[nightmare]]. I’m sorry I
+scream in my [[motifs/sleep|sleep]], owing to a frightful nightmare. I’m sorry I
 disturbed you.”
 
 “Oh, God confound you, Mr. Lockwood! I wish you were at the—” commenced
@@ -978,7 +978,7 @@ my host, setting the candle on a chair, because he found it impossible
 to hold it steady. “And who showed you up into this room?” he
 continued, crushing his nails into his palms, and grinding his teeth to
 subdue the maxillary convulsions. “Who was it? I’ve a good mind to turn
-them out of the [[house]] this moment!”
+them out of the house this moment!”
 
 “It was your servant Zillah,” I replied, flinging myself on to the
 floor, and rapidly resuming my garments. “I should not care if you did,
@@ -1049,7 +1049,7 @@ town. A sensible man ought to find sufficient company in himself.”
 
 “Delightful company!” muttered [[characters/heathcliff|Heathcliff]]. “Take the candle, and go
 where you please. I shall join you directly. Keep out of the yard,
-though, the [[dogs]] are unchained; and the [[house]]—Juno mounts sentinel
+though, the dogs are unchained; and the house—Juno mounts sentinel
 there, and—nay, you can only ramble about the steps and passages. But,
 away with you! I’ll come in two minutes!”
 
@@ -1067,7 +1067,7 @@ station, and blowing out the light.
 There was such anguish in the gush of grief that accompanied this
 raving, that my compassion made me overlook its folly, and I drew off,
 half angry to have listened at all, and vexed at having related my
-ridiculous [[nightmare]], since it produced that agony; though _why_ was
+ridiculous nightmare, since it produced that agony; though _why_ was
 beyond my comprehension. I descended cautiously to the lower regions,
 and landed in the back-kitchen, where a gleam of [[motifs/fire|fire]], raked compactly
 together, enabled me to rekindle my candle. Nothing was stirring except
@@ -1101,7 +1101,7 @@ inner door with the end of his spade, intimating by an inarticulate
 sound that there was the place where I must go, if I changed my
 locality.
 
-It opened into the [[house]], where the females were already astir; Zillah
+It opened into the house, where the females were already astir; Zillah
 urging flakes of flame up the chimney with a colossal bellows; and Mrs.
 [[characters/heathcliff|Heathcliff]], kneeling on the hearth, reading a book by the aid of the
 blaze. She held her hand interposed between the furnace-heat and her
@@ -1168,9 +1168,9 @@ limited to a hasty bow, and then I pushed forward, trusting to my own
 resources; for the porter’s lodge is untenanted as yet. The distance
 from the gate to the Grange is two miles; I believe I managed to make
 it four, what with losing myself among the trees, and sinking up to the
-neck in [[motifs/snow|snow]]: [[A Predicament|a predicament]] which only those who have experienced it
+neck in [[motifs/snow|snow]]: a predicament which only those who have experienced it
 can appreciate. At any rate, whatever were my wanderings, the [[motifs/clock|clock]]
-chimed twelve as I entered the [[house]]; and that gave exactly an hour for
+chimed twelve as I entered the house; and that gave exactly an hour for
 every mile of the usual way from [[works/wuthering-heights-(bronte)|Wuthering Heights]].
 
 My human fixture and her satellites rushed to welcome me; exclaiming,
@@ -1230,11 +1230,11 @@ so much inferior. “Is he not rich enough to keep the estate in good
 order?” I inquired.
 
 “Rich, sir!” she returned. “He has nobody knows what money, and every
-year it increases. Yes, yes, he’s rich enough to live in a finer [[house]]
+year it increases. Yes, yes, he’s rich enough to live in a finer house
 than this: but he’s very near—close-handed; and, if he had meant to
 flit to Thrushcross Grange, as soon as he heard of a good tenant he
 could not have borne to miss the chance of getting a few hundreds more.
-It is strange people should be so greedy, when they are [[Alone|alone]] in the
+It is strange people should be so greedy, when they are alone in the
 world!”
 
 “He had a son, it seems?”
@@ -1267,7 +1267,7 @@ continued, “my predecessor’s name was Linton?”
 “Yes; and her husband was her cousin also: one on the mother’s, the
 other on the father’s side: [[characters/heathcliff|Heathcliff]] married Mr. Linton’s sister.”
 
-“I see the [[house]] at [[works/wuthering-heights-(bronte)|Wuthering Heights]] has ‘Earnshaw’ carved over the
+“I see the house at [[works/wuthering-heights-(bronte)|Wuthering Heights]] has ‘Earnshaw’ carved over the
 front door. Are they an old family?”
 
 “Very old, sir; and Hareton is the last of them, as our Miss Cathy is
@@ -1362,7 +1362,7 @@ its face looked older than Catherine’s; yet when it was set on its
 feet, it only stared round, and repeated over and over again some
 gibberish that nobody could understand. I was frightened, and Mrs.
 Earnshaw was ready to fling it out of doors: she did fly up, asking how
-he could fashion to bring that gipsy brat into the [[house]], when they had
+he could fashion to bring that gipsy brat into the house, when they had
 their own bairns to feed and fend for? What he meant to do with it, and
 whether he were mad? The master tried to explain the matter; but he was
 really half dead with fatigue, and all that I could make out, amongst
@@ -1382,7 +1382,7 @@ for the presents he had promised them. The former was a boy of
 fourteen, but when he drew out what had been a fiddle, crushed to
 morsels in the great-coat, he blubbered aloud; and Cathy, when she
 learned the master had lost her whip in attending on the stranger,
-showed her [[Humour|humour]] by grinning and spitting at the stupid little thing;
+showed her humour by grinning and spitting at the stupid little thing;
 earning for her pains a sound blow from her father, to teach her
 cleaner manners. They entirely refused to have it in bed with them, or
 even in their room; and I had no more sense, so I put it on the landing
@@ -1390,7 +1390,7 @@ of the stairs, hoping it might be gone on the morrow. By chance, or
 else attracted by hearing his voice, it crept to Mr. Earnshaw’s door,
 and there he found it on quitting his chamber. Inquiries were made as
 to how it got there; I was obliged to confess, and in recompense for my
-cowardice and inhumanity was sent out of the [[house]].
+cowardice and inhumanity was sent out of the house.
 
 This was [[characters/heathcliff|Heathcliff]]’s first introduction to the family. On coming back
 a few days afterwards (for I did not consider my banishment perpetual),
@@ -1412,7 +1412,7 @@ persecuting the poor fatherless [[archetypes/child|child]], as he called him. He
 precious little, and generally the [[concepts/truth|truth]]), and petting him up far above
 Cathy, who was too mischievous and wayward for a favourite.
 
-So, from the very beginning, he bred bad feeling in the [[house]]; and at
+So, from the very beginning, he bred bad feeling in the house; and at
 Mrs. Earnshaw’s [[motifs/death|death]], which happened in less than two years after, the
 young master had learned to regard his father as an oppressor rather
 than a friend, and [[characters/heathcliff|Heathcliff]] as a [[archetypes/usurper|usurper]] of his parent’s affections
@@ -1436,7 +1436,7 @@ wondered often what my master saw to admire so much in the sullen boy;
 who never, to my recollection, repaid his indulgence by any sign of
 gratitude. He was not insolent to his benefactor, he was simply
 insensible; though knowing perfectly the hold he had on his heart, and
-conscious he had only to speak and all the [[house]] would be obliged to
+conscious he had only to speak and all the house would be obliged to
 bend to his wishes. As an instance, I remember Mr. Earnshaw once bought
 a couple of colts at the parish fair, and gave the lads each one.
 [[characters/heathcliff|Heathcliff]] took the handsomest, but it soon fell lame, and when he
@@ -1469,7 +1469,7 @@ were fulfilled, ran away as fast as he could. I was surprised to
 witness how coolly the [[archetypes/child|child]] gathered himself up, and went on with his
 intention; exchanging saddles and all, and then sitting down on a
 bundle of hay to overcome the qualm which the violent blow occasioned,
-before he entered the [[house]]. I persuaded him easily to let me lay the
+before he entered the house. I persuaded him easily to let me lay the
 blame of his bruises on the [[motifs/horse|horse]]: he minded little what tale was told
 since he had what he wanted. He complained so seldom, indeed, of such
 stirs as these, that I really thought him not vindictive: I was
@@ -1563,11 +1563,11 @@ sorry for her faults, and beg to be forgiven.
 
 But the hour came, at last, that ended Mr. Earnshaw’s troubles on
 earth. He died quietly in his chair one October evening, seated by the
-[[motifs/fire|fire]]-side. A high [[motifs/wind|wind]] blustered round the [[house]], and roared in the
+[[motifs/fire|fire]]-side. A high [[motifs/wind|wind]] blustered round the house, and roared in the
 chimney: it sounded wild and stormy, yet it was not cold, and we were
 all together—I, a little removed from the hearth, busy at my knitting,
 and Joseph reading his [[historical-references/bible|Bible]] near the table (for the servants generally
-sat in the [[house]] then, after their work was done). Miss Cathy had been
+sat in the house then, after their work was done). Miss Cathy had been
 sick, and that made her still; she leant against her father’s knee, and
 [[characters/heathcliff|Heathcliff]] was lying on the floor with his head in her lap. I remember
 the master, before he fell into a doze, stroking her bonny hair—it
@@ -1584,7 +1584,7 @@ the master for prayers and bed. He stepped forward, and called him by
 name, and touched his shoulder; but he would not move: so he took the
 candle and looked at him. I thought there was something wrong as he set
 down the light; and seizing the children each by an arm, whispered them
-to “frame upstairs, and make little din—they might pray [[Alone|alone]] that
+to “frame upstairs, and make little din—they might pray alone that
 evening—he had summut to do.”
 
 “I shall bid father good-[[motifs/night|night]] first,” said Catherine, putting her arms
@@ -1621,7 +1621,7 @@ What she was, and where she was born, he never informed us: probably,
 she had neither money nor name to recommend her, or he would scarcely
 have kept the [[concepts/union|union]] from his father.
 
-She was not one that would have disturbed the [[house]] much on her own
+She was not one that would have disturbed the house much on her own
 account. Every object she saw, the moment she crossed the threshold,
 appeared to delight her; and every circumstance that took place about
 her: except the preparing for the burial, and the presence of the
@@ -1646,7 +1646,7 @@ Young Earnshaw was altered considerably in the three years of his
 absence. He had grown sparer, and lost his colour, and spoke and
 dressed quite differently; and, on the very day of his return, he told
 Joseph and me we must thenceforth quarter ourselves in the
-back-kitchen, and leave the [[house]] for him. Indeed, he would have
+back-kitchen, and leave the house for him. Indeed, he would have
 carpeted and papered a small spare room for a parlour; but his wife
 expressed such pleasure at the white floor and huge glowing fireplace,
 at the pewter dishes and delf-case, and dog-kennel, and the wide space
@@ -1684,7 +1684,7 @@ for [[concepts/fear|fear]] of losing the small power I still retained over the u
 creatures. One [[characters/sunday|Sunday]] evening, it chanced that they were banished from
 the sitting-room, for making a noise, or a light offence of the kind;
 and when I went to call them to supper, I could discover them nowhere.
-We searched the [[house]], above and below, and the yard and stables; they
+We searched the house, above and below, and the yard and stables; they
 were invisible: and, at last, Hindley in a passion told us to bolt the
 doors, and swore nobody should let them in that [[motifs/night|night]]. The household
 went to bed; and I, too anxious to lie down, opened my lattice and put
@@ -1693,7 +1693,7 @@ spite of the prohibition, should they return. In a while, I
 distinguished steps coming up the [[motifs/road|road]], and the light of a lantern
 glimmered through the gate. I threw a shawl over my head and ran to
 prevent them from waking Mr. Earnshaw by knocking. There was
-[[characters/heathcliff|Heathcliff]], by himself: it gave me a start to see him [[Alone|alone]].
+[[characters/heathcliff|Heathcliff]], by himself: it gave me a start to see him alone.
 
 “Where is Miss Catherine?” I cried hurriedly. “No accident, I [[concepts/hope|hope]]?”
 “At Thrushcross Grange,” he answered; “and I would have been there too,
@@ -1703,7 +1703,7 @@ business. What in the world led you wandering to Thrushcross Grange?”
 “Let me get off my wet clothes, and I’ll tell you all about it, Nelly,”
 he replied. I bid him beware of rousing the master, and while he
 undressed and I waited to put out the candle, he continued—“Cathy and I
-escaped from the wash-[[house]] to have a ramble at liberty, and getting a
+escaped from the wash-house to have a ramble at liberty, and getting a
 glimpse of the Grange lights, we thought we would just go and see
 whether the Lintons passed their [[characters/sunday|Sunday]] evenings standing shivering in
 corners, while their father and mother sat eating and drinking, and
@@ -1738,10 +1738,10 @@ hair, and each begin to cry because both, after struggling to get it,
 refused to take it. We laughed outright at the petted things; we did
 despise them! When would you catch me wishing to have what Catherine
 wanted? or find us by ourselves, seeking entertainment in yelling, and
-sobbing, and [[rolling]] on the ground, divided by the whole room? I’d not
+sobbing, and rolling on the ground, divided by the whole room? I’d not
 exchange, for a thousand lives, my condition here, for [[characters/edgar-linton|Edgar Linton]]’s
 at Thrushcross Grange—not if I might have the privilege of flinging
-Joseph off the highest gable, and painting the [[house]]-front with
+Joseph off the highest gable, and painting the house-front with
 Hindley’s [[motifs/blood|blood]]!”
 
 
@@ -1813,7 +1813,7 @@ he is that strange acquisition my late neighbour made, in his [[motifs/journey|j
 to Liverpool—a little Lascar, or an American or Spanish castaway.’
 
 “‘A wicked boy, at all events,’ remarked the old lady, ‘and quite unfit
-for a decent [[house]]! Did you notice his language, Linton? I’m shocked
+for a decent house! Did you notice his language, Linton? I’m shocked
 that my children should have heard it.’
 
 “I recommenced cursing—don’t be angry, Nelly—and so Robert was ordered
@@ -1866,7 +1866,7 @@ Cathy stayed at Thrushcross Grange five weeks: till Christmas. By that
 mistress visited her often in the interval, and commenced her plan of
 [[concepts/reform|reform]] by trying to raise her [[concepts/self|self]]-respect with fine clothes and
 flattery, which she took readily; so that, instead of a wild, hatless
-little savage jumping into the [[house]], and rushing to squeeze us all
+little savage jumping into the house, and rushing to squeeze us all
 breathless, there lighted from a handsome black pony a very dignified
 person, with brown ringlets falling from the cover of a feathered
 beaver, and a long cloth habit, which she was obliged to hold up with
@@ -1880,7 +1880,7 @@ dear, you will disarrange your curls—let me untie your hat.”
 
 I removed the habit, and there shone forth beneath a grand plaid silk
 frock, white trousers, and burnished shoes; and, while her eyes
-sparkled joyfully when the [[dogs]] came bounding up to welcome her, she
+sparkled joyfully when the dogs came bounding up to welcome her, she
 dared hardly touch them lest they should fawn upon her splendid
 garments. She kissed me gently: I was all flour making the Christmas
 cake, and it would not have done to give me a hug; and then she looked
@@ -1896,7 +1896,7 @@ have a natural pleasure in soap and [[motifs/water|water]]. Therefore, not to me
 his clothes, which had seen three months’ service in mire and [[motifs/dust|dust]], and
 his thick uncombed hair, the surface of his face and hands was dismally
 beclouded. He might [[motifs/well|well]] skulk behind the settle, on beholding such a
-bright, graceful [[archetypes/damsel|damsel]] enter the [[house]], instead of a rough-headed
+bright, graceful [[archetypes/damsel|damsel]] enter the house, instead of a rough-headed
 counterpart of himself, as he expected. “Is [[characters/heathcliff|Heathcliff]] not here?” she
 demanded, pulling off her gloves, and displaying fingers wonderfully
 whitened with doing nothing and staying indoors.
@@ -1944,10 +1944,10 @@ who could not comprehend how her remarks should have produced such an
 exhibition of bad temper.
 
 After playing lady’s-maid to the new-comer, and putting my cakes in the
-oven, and making the [[house]] and kitchen cheerful with great fires,
+oven, and making the house and kitchen cheerful with great fires,
 befitting Christmas-eve, I prepared to sit down and amuse myself by
-singing carols, all [[Alone|alone]]; regardless of Joseph’s affirmations that he
-considered the merry tunes I chose as next door to [[songs]]. He had
+singing carols, all alone; regardless of Joseph’s affirmations that he
+considered the merry tunes I chose as next door to songs. He had
 retired to private [[motifs/prayer|prayer]] in his chamber, and Mr. and Mrs. Earnshaw
 were engaging Missy’s attention by sundry gay trifles bought for her to
 present to the little Lintons, as an acknowledgment of their kindness.
@@ -1992,13 +1992,13 @@ you, nearly enough; and you’ll need half-an-hour’s donning.”
 I waited five minutes, but getting no answer left him. Catherine supped
 with her brother and sister-in-law: Joseph and I joined at an
 unsociable meal, seasoned with reproofs on one side and sauciness on
-the other. His cake and [[cheese]] remained on the table all [[motifs/night|night]] for the
+the other. His cake and cheese remained on the table all [[motifs/night|night]] for the
 fairies. He managed to continue work till nine o’[[motifs/clock|clock]], and then
 marched dumb and dour to his chamber. Cathy sat up late, having a world
 of things to order for the reception of her new friends: she came into
 the kitchen once to speak to her old one; but he was gone, and she only
 stayed to ask what was the matter with him, and then went back. In the
-morning he [[motifs/rose|rose]] early; and, as it was a holiday, carried his ill-[[Humour|humour]]
+morning he [[motifs/rose|rose]] early; and, as it was a holiday, carried his ill-humour
 on to the moors; not re-appearing till the family were departed for
 church. Fasting and reflection seemed to have brought him to a better
 spirit. He hung about me for a while, and having screwed up his
@@ -2077,17 +2077,17 @@ to the [[motifs/window|window]] and I to the door, just in [[motifs/time|time]] 
 descend from the family carriage, smothered in cloaks and furs, and the
 Earnshaws dismount from their horses: they often rode to church in
 [[motifs/winter|winter]]. Catherine took a hand of each of the children, and brought them
-into the [[house]] and set them before the [[motifs/fire|fire]], which quickly put colour
+into the house and set them before the [[motifs/fire|fire]], which quickly put colour
 into their white faces.
 
-I urged my companion to hasten now and show his amiable [[Humour|humour]], and he
+I urged my companion to hasten now and show his amiable humour, and he
 willingly obeyed; but ill luck would have it that, as he opened the
 door leading from the kitchen on one side, Hindley opened it on the
 other. They met, and the master, irritated at seeing him clean and
 cheerful, or, perhaps, eager to keep his promise to Mrs. Linton, shoved
 him back with a sudden thrust, and angrily bade Joseph “keep the fellow
 out of the room—send him into the garret till dinner is over. He’ll be
-cramming his fingers in the tarts and stealing the fruit, if left [[Alone|alone]]
+cramming his fingers in the tarts and stealing the fruit, if left alone
 with them a minute.”
 
 
@@ -2164,17 +2164,17 @@ arrival of the Gimmerton band, mustering fifteen strong: a trumpet, a
 trombone, clarionets, bassoons, French horns, and a bass viol, besides
 singers. They go the rounds of all the respectable houses, and receive
 contributions every Christmas, and we esteemed it a first-rate treat to
-hear them. After the usual carols had been sung, we set them to [[songs]]
+hear them. After the usual carols had been sung, we set them to songs
 and glees. Mrs. Earnshaw loved the music, and so they gave us plenty.
 
 Catherine loved it too: but she said it sounded sweetest at the top of
-the steps, and she went up in the dark: I followed. They shut the [[house]]
+the steps, and she went up in the dark: I followed. They shut the house
 door below, never noting our absence, it was so full of people. She
 made no stay at the stairs’-head, but mounted farther, to the garret
 where [[characters/heathcliff|Heathcliff]] was confined, and called him. He stubbornly declined
 answering for a while: she persevered, and finally persuaded him to
 hold communion with her through the boards. I let the poor things
-converse unmolested, till I supposed the [[songs]] were going to cease, and
+converse unmolested, till I supposed the songs were going to cease, and
 the singers to get some refreshment: then I clambered up the ladder to
 warn her. Instead of finding her outside, I heard her voice within. The
 little monkey had crept by the skylight of one garret, along the roof,
@@ -2204,7 +2204,7 @@ people; we should learn to forgive.”
 
 
 “No, God won’t have the satisfaction that I shall,” he returned. “I
-only wish I knew the best way! Let me [[Alone|alone]], and I’ll plan it out:
+only wish I knew the best way! Let me alone, and I’ll plan it out:
 while I’m thinking of that I don’t feel [[motifs/pain|pain]].”
 
 But, Mr. Lockwood, I forget these tales cannot divert you. I’m annoyed
@@ -2240,7 +2240,7 @@ obstinate cold, at least.”
 years; during that space Mrs. Earnshaw—”
 
 “No, no, I’ll allow nothing of the sort! Are you acquainted with the
-mood of mind in which, if you were seated [[Alone|alone]], and the cat licking
+mood of mind in which, if you were seated alone, and the cat licking
 its kitten on the rug before you, you would watch the operation so
 intently that puss’s neglect of one ear would put you seriously out of
 temper?”
@@ -2318,7 +2318,7 @@ talks as if she thought of living to see it grow a man. She’s out of
 her head for joy, it’s such a [[concepts/beauty|beauty]]! If I were her I’m certain I
 should not die: I should get better at the bare sight of it, in spite
 of Kenneth. I was fairly mad at him. Dame Archer brought the cherub
-down to master, in the [[house]], and his face just began to light up, when
+down to master, in the house, and his face just began to light up, when
 the old croaker steps forward, and says he—‘Earnshaw, it’s a blessing
 your wife has been spared to leave you this son. When she came, I felt
 convinced we shouldn’t keep her long; and now, I must tell you, the
@@ -2388,7 +2388,7 @@ make a fiend of a saint. And, truly, it appeared as if the lad _were_
 possessed of something diabolical at that period. He delighted to
 witness Hindley degrading himself past redemption; and became daily
 more notable for savage sullenness and ferocity. I could not half tell
-what an infernal [[house]] we had. The curate dropped calling, and nobody
+what an infernal house we had. The curate dropped calling, and nobody
 decent came near us, at last; unless [[characters/edgar-linton|Edgar Linton]]’s visits to Miss
 Cathy might be an exception. At fifteen she was the [[characters/queen|queen]] of the
 country-side; she had no peer; and she did turn out a haughty,
@@ -2417,7 +2417,7 @@ could forget her first friend for such an individual. I marvelled much
 how he, with a mind to correspond with his person, could fancy my idea
 of [[characters/catherine-earnshaw|Catherine Earnshaw]].
 
-“A very agreeable portrait,” I observed to the [[house]]-keeper. “Is it
+“A very agreeable portrait,” I observed to the house-keeper. “Is it
 like?”
 
 “Yes,” she answered; “but he looked better when he was animated; that
@@ -2483,7 +2483,7 @@ respite from labour; but he had ceased to express his fondness for her
 in words, and recoiled with angry suspicion from her girlish caresses,
 as if conscious there could be no gratification in lavishing such marks
 of affection on him. On the before-named occasion he came into the
-[[house]] to announce his intention of doing nothing, while I was assisting
+house to announce his intention of doing nothing, while I was assisting
 Miss Cathy to arrange her dress: she had not reckoned on his taking it
 into his head to be idle; and imagining she would have the whole place
 to herself, she managed, by some means, to inform Mr. [[characters/edgar|Edgar]] of her
@@ -2529,7 +2529,7 @@ sometimes, of complaining that they—but I’ll not—”
 “That they what?” cried Catherine, gazing at him with a troubled
 countenance. “Oh, Nelly!” she added petulantly, jerking her head away
 from my hands, “you’ve combed my hair quite out of curl! That’s enough;
-let me [[Alone|alone]]. What are you on the point of complaining about,
+let me alone. What are you on the point of complaining about,
 [[characters/heathcliff|Heathcliff]]?”
 
 “Nothing—only look at the almanack on that wall;” he pointed to a
@@ -2574,7 +2574,7 @@ dresser.
 make a third party in any private visits Linton chose to pay.)
 
 She stepped behind me and whispered crossly, “Take yourself and your
-dusters off; when company are in the [[house]], servants don’t commence
+dusters off; when company are in the house, servants don’t commence
 scouring and cleaning in the room where they are!”
 
 “It’s a good opportunity, now that master is away,” I answered aloud:
@@ -2667,13 +2667,13 @@ The soft thing looked askance through the [[motifs/window|window]]: he possessed
 power to depart as much as a cat possesses the power to leave a mouse
 half killed, or a bird half eaten. Ah, I thought, there will be no
 saving him: he’s doomed, and flies to his fate! And so it was: he
-turned abruptly, hastened into the [[house]] again, shut the door behind
+turned abruptly, hastened into the house again, shut the door behind
 him; and when I went in a while after to inform them that Earnshaw had
 come [[motifs/home|home]] rabid drunk, ready to pull the whole place about our ears
 (his ordinary frame of mind in that condition), I saw the quarrel had
 merely effected a closer intimacy—had broken the outworks of youthful
 timidity, and enabled them to forsake the disguise of [[concepts/friendship|friendship]], and
-confess themselves [[lovers]].
+confess themselves lovers.
 
 Intelligence of Mr. Hindley’s arrival drove Linton speedily to his
 [[motifs/horse|horse]], and Catherine to her chamber. I went to hide little Hareton, and
@@ -2713,7 +2713,7 @@ till I do!”
 been cutting red herrings. I’d rather be shot, if you please.”
 
 “You’d rather be damned!” he said; “and so you shall. No law in England
-can hinder a man from keeping his [[house]] decent, and mine’s abominable!
+can hinder a man from keeping his house decent, and mine’s abominable!
 Open your mouth.”
 
 He held the knife in his hand, and pushed its point between my teeth:
@@ -2780,7 +2780,7 @@ you’re come to!”
 “I shall come to a prettier, yet, Nelly,” laughed the misguided man,
 recovering his hardness. “At present, convey yourself and him away. And
 hark you, [[characters/heathcliff|Heathcliff]]! clear you too quite from my reach and hearing. I
-wouldn’t murder you to-[[motifs/night|night]]; unless, perhaps, I set the [[house]] on [[motifs/fire|fire]]:
+wouldn’t murder you to-[[motifs/night|night]]; unless, perhaps, I set the house on [[motifs/fire|fire]]:
 but that’s as my fancy goes.”
 
 While saying this he took a pint bottle of brandy from the dresser, and
@@ -2821,14 +2821,14 @@ afterwards that he only got as far as the other side the settle, when
 he flung himself on a bench by the wall, removed from the [[motifs/fire|fire]], and
 remained silent.
 
-I was rocking Hareton on my knee, and humming a [[Song|song]] that began,—
+I was rocking Hareton on my knee, and humming a song that began,—
 
 It was far in the [[motifs/night|night]], and the bairnies grat,
 The mither beneath the mools heard that,
 
 
 when Miss Cathy, who had listened to the hubbub from her room, put her
-head in, and whispered,—“Are you [[Alone|alone]], Nelly?”
+head in, and whispered,—“Are you alone, Nelly?”
 
 “Yes, Miss,” I replied.
 
@@ -2836,7 +2836,7 @@ She entered and approached the hearth. I, supposing she was going to
 say something, looked up. The expression of her face seemed disturbed
 and anxious. Her lips were half asunder, as if she meant to speak, and
 she drew a breath; but it escaped in a sigh instead of a sentence. I
-resumed my [[Song|song]]; not having forgotten her recent behaviour.
+resumed my song; not having forgotten her recent behaviour.
 
 “Where’s [[characters/heathcliff|Heathcliff]]?” she said, interrupting me.
 
@@ -3123,7 +3123,7 @@ fellow-servant and I began to quarrel who should carry some to Mr.
 Hindley; and we didn’t settle it till all was nearly cold. Then we came
 to the agreement that we would let him ask, if he wanted any; for we
 feared particularly to go into his presence when he had been some [[motifs/time|time]]
-[[Alone|alone]].
+alone.
 
 “And how isn’t that nowt comed in fro’ th’ field, be this [[motifs/time|time]]? What is
 he about? girt idle seeght!” demanded the old man, looking round for
@@ -3155,7 +3155,7 @@ Joseph objected at first; she was too much in earnest, however, to
 suffer contradiction; and at last he placed his hat on his head, and
 walked grumbling forth. Meantime, Catherine paced up and down the
 floor, exclaiming—“I [[concepts/wonder|wonder]] where he is—I [[concepts/wonder|wonder]] where he _can_ be!
-What did I say, Nelly? I’ve forgotten. Was he vexed at my bad [[Humour|humour]]
+What did I say, Nelly? I’ve forgotten. Was he vexed at my bad humour
 this afternoon? Dear! tell me what I’ve said to grieve him? I do wish
 he’d come. I do wish he would!”
 
@@ -3247,7 +3247,7 @@ distinguished his slow step on the ladder, and then I dropped asleep.
 
 Coming down somewhat later than usual, I saw, by the sunbeams piercing
 the chinks of the shutters, Miss Catherine still seated near the
-fireplace. The [[house]]-door was ajar, too; light entered from its
+fireplace. The house-door was ajar, too; light entered from its
 unclosed windows; Hindley had come out, and stood on the kitchen
 hearth, haggard and drowsy.
 
@@ -3287,7 +3287,7 @@ bonny behaviour, lurking amang t’ fields, after twelve o’ t’ [[motifs/nigh
 that fahl, flaysome divil of a gipsy, [[characters/heathcliff|Heathcliff]]! They think _I’m_
 blind; but I’m noan: nowt ut t’ soart!—I seed young Linton boath coming
 and going, and I seed _yah_” (directing his discourse to me), “yah
-gooid fur nowt, slattenly [[characters/witch|witch]]! nip up and bolt into th’ [[house]], t’
+gooid fur nowt, slattenly [[characters/witch|witch]]! nip up and bolt into th’ house, t’
 minute yah heard t’ maister’s [[motifs/horse|horse]]-fit clatter up t’ [[motifs/road|road]].”
 
 “[[motifs/silence|Silence]], eavesdropper!” cried Catherine; “none of your insolence
@@ -3302,7 +3302,7 @@ be afraid of harming him: though I hate him as much as ever, he did me
 a good turn a short [[motifs/time|time]] since that will make my [[concepts/conscience|conscience]] tender of
 breaking his neck. To prevent it, I shall send him about his business
 this very morning; and after he’s gone, I’d advise you all to look
-sharp: I shall only have the more [[Humour|humour]] for you.”
+sharp: I shall only have the more humour for you.”
 
 “I never saw [[characters/heathcliff|Heathcliff]] last [[motifs/night|night]],” answered Catherine, beginning to
 sob bitterly: “and if you do turn him out of doors, I’ll go with him.
@@ -3358,7 +3358,7 @@ demand, and generally avoided aggravating her fiery temper. He was
 rather _too_ indulgent in humouring her caprices; not from affection,
 but from [[concepts/pride|pride]]: he wished earnestly to see her bring [[concepts/honour|honour]] to the
 family by an alliance with the Lintons, and as long as she let him
-[[Alone|alone]] she might trample on us like slaves, for aught he cared! [[characters/edgar|Edgar]]
+alone she might trample on us like slaves, for aught he cared! [[characters/edgar|Edgar]]
 Linton, as multitudes have been before and will be after him, was
 infatuated: and believed himself the happiest man alive on the day he
 led her to Gimmerton Chapel, three years subsequent to his father’s
@@ -3370,7 +3370,7 @@ had just begun to teach him his letters. We made a sad parting; but
 Catherine’s [[motifs/tears|tears]] were more powerful than ours. When I refused to go,
 and when she found her entreaties did not move me, she went lamenting
 to her husband and brother. The former offered me munificent wages; the
-latter ordered me to pack up: he wanted no women in the [[house]], he said,
+latter ordered me to pack up: he wanted no women in the house, he said,
 now that there was no mistress; and as to Hareton, the curate should
 take him in hand, by-and-by. And so I had but one choice left: to do as
 I was ordered. I told the master he got rid of all decent people only
@@ -3457,7 +3457,7 @@ honeysuckles, but the honeysuckles embracing the thorn. There were no
 mutual concessions: one stood erect, and the others yielded: and who
 _can_ be ill-natured and bad-tempered when they encounter neither
 opposition nor indifference? I observed that Mr. [[characters/edgar|Edgar]] had a
-deep-rooted [[concepts/fear|fear]] of ruffling her [[Humour|humour]]. He concealed it from her; but
+deep-rooted [[concepts/fear|fear]] of ruffling her humour. He concealed it from her; but
 if ever he heard me answer sharply, or saw any other servant grow
 cloudy at some imperious order of hers, he would show his trouble by a
 frown of displeasure that never darkened on his own account. He many a
@@ -3481,7 +3481,7 @@ evening in September, I was coming from the [[motifs/garden|garden]] with a heav
 of apples which I had been gathering. It had got dusk, and the [[motifs/moon|moon]]
 looked over the high wall of the [[settings/court|court]], causing undefined shadows to
 lurk in the corners of the numerous projecting portions of the
-building. I set my burden on the [[house]]-steps by the kitchen-door, and
+building. I set my burden on the house-steps by the kitchen-door, and
 lingered to rest, and drew in a few more breaths of the soft, sweet
 air; my eyes were on the [[motifs/moon|moon]], and my back to the entrance, when I
 heard a voice behind me say,—“Nelly, is that you?”
@@ -3540,7 +3540,7 @@ valley of Gimmerton, with a long line of mist winding nearly to its top
 (for very soon after you pass the chapel, as you may have noticed, the
 sough that runs from the marshes joins a beck which follows the bend of
 the glen). [[works/wuthering-heights-(bronte)|Wuthering Heights]] [[motifs/rose|rose]] above this silvery vapour; but our
-old [[house]] was invisible; it rather dips down on the other side. Both
+old house was invisible; it rather dips down on the other side. Both
 the room and its occupants, and the scene they gazed on, looked
 wondrously peaceful. I shrank reluctantly from performing my errand;
 and was actually going away leaving it unsaid, after having put my
@@ -3652,7 +3652,7 @@ feeling that reached its climax when his lady [[motifs/rose|rose]], and stepping
 the rug, seized [[characters/heathcliff|Heathcliff]]’s hands again, and laughed like one beside
 herself.
 
-“I shall think it [[A Dream|a dream]] to-morrow!” she cried. “I shall not be able
+“I shall think it a dream to-morrow!” she cried. “I shall not be able
 to believe that I have seen, and touched, and spoken to you once more.
 And yet, cruel [[characters/heathcliff|Heathcliff]]! you don’t deserve this welcome. To be absent
 and silent for three years, and never to think of me!”
@@ -3705,7 +3705,7 @@ a headache or a pang of envy, began to cry: so I got up and left him.”
 
 “What use is it praising [[characters/heathcliff|Heathcliff]] to him?” I answered. “As lads they
 had an aversion to each other, and [[characters/heathcliff|Heathcliff]] would hate just as much
-to hear him praised: it’s human [[concepts/nature|nature]]. Let Mr. Linton [[Alone|alone]] about him,
+to hear him praised: it’s human [[concepts/nature|nature]]. Let Mr. Linton alone about him,
 unless you would like an open quarrel between them.”
 
 “But does it not show great weakness?” pursued she. “I’m not envious: I
@@ -3716,10 +3716,10 @@ sometimes, you back [[characters/isabella|Isabella]] at once; and I yield like a
 mother: I call her a darling, and flatter her into a good temper. It
 pleases her brother to see us cordial, and that pleases me. But they
 are very much alike: they are spoiled children, and fancy the world was
-made for their accommodation; and though I [[Humour|humour]] both, I think a smart
+made for their accommodation; and though I humour both, I think a smart
 chastisement might improve them all the same.”
 
-“You’re mistaken, Mrs. Linton,” said I. “They [[Humour|humour]] you: I know what
+“You’re mistaken, Mrs. Linton,” said I. “They humour you: I know what
 there would be to do if they did not. You can [[motifs/well|well]] afford to indulge
 their passing whims as long as their business is to anticipate all your
 desires. You may, however, fall out, at last, over something of equal
@@ -3758,7 +3758,7 @@ reflect on the causes he might have for mistrusting one whom he has
 basely injured. But [[characters/heathcliff|Heathcliff]] affirms his principal reason for
 resuming a connection with his ancient persecutor is a wish to install
 himself in quarters at walking distance from the Grange, and an
-attachment to the [[house]] where we lived together; and likewise a [[concepts/hope|hope]]
+attachment to the house where we lived together; and likewise a [[concepts/hope|hope]]
 that I shall have more opportunities of seeing him there than I could
 have if he settled in Gimmerton. He means to offer liberal payment for
 permission to lodge at the Heights; and doubtless my brother’s
@@ -3781,7 +3781,7 @@ evening has reconciled me to God and humanity! I had risen in angry
 rebellion against [[concepts/providence|Providence]]. Oh, I’ve endured very, very bitter
 misery, Nelly! If that creature knew how bitter, he’d be ashamed to
 cloud its removal with idle petulance. It was kindness for him which
-induced me to bear it [[Alone|alone]]: had I expressed the agony I frequently
+induced me to bear it alone: had I expressed the agony I frequently
 felt, he would have been taught to long for its alleviation as ardently
 as I. However, it’s over, and I’ll take no [[concepts/revenge|revenge]] on his folly; I can
 afford to suffer anything hereafter! Should the meanest thing alive
@@ -3789,13 +3789,13 @@ slap me on the cheek, I’d not only turn the other, but I’d ask pardon
 for provoking it; and, as a proof, I’ll go make my peace with [[characters/edgar|Edgar]]
 instantly. Good-[[motifs/night|night]]! I’m an angel!”
 
-In this [[concepts/self|self]]-complacent conviction she departed; and the [[success]] of her
+In this [[concepts/self|self]]-complacent conviction she departed; and the success of her
 fulfilled resolution was obvious on the morrow: Mr. Linton had not only
 abjured his peevishness (though his spirits seemed still subdued by
 Catherine’s exuberance of vivacity), but he ventured no objection to
 her taking [[characters/isabella|Isabella]] with her to [[works/wuthering-heights-(bronte)|Wuthering Heights]] in the afternoon; and
 she rewarded him with such a [[motifs/summer|summer]] of sweetness and affection in
-return as made the [[house]] a paradise for several days; both master and
+return as made the house a paradise for several days; both master and
 servants profiting from the perpetual sunshine.
 
 [[characters/heathcliff|Heathcliff]]—Mr. [[characters/heathcliff|Heathcliff]] I should say in future—used the liberty of
@@ -3832,7 +3832,7 @@ limited patience. We excused her, to a certain extent, on the plea of
 ill-health: she was dwindling and fading before our eyes. But one day,
 when she had been peculiarly wayward, rejecting her breakfast,
 complaining that the servants did not do what she told them; that the
-mistress would allow her to be nothing in the [[house]], and [[characters/edgar|Edgar]]
+mistress would allow her to be nothing in the house, and [[characters/edgar|Edgar]]
 neglected her; that she had caught a cold with the doors being left
 open, and we let the parlour [[motifs/fire|fire]] go out on purpose to vex her, with a
 hundred yet more frivolous accusations, Mrs. Linton peremptorily
@@ -3898,8 +3898,8 @@ else, which makes that dream enter your head. Pray, don’t imagine that
 he conceals depths of benevolence and affection beneath a stern
 exterior! He’s not a rough diamond—a pearl-containing oyster of a
 rustic: he’s a fierce, pitiless, wolfish man. I never say to him, ‘Let
-this or that enemy [[Alone|alone]], because it would be ungenerous or cruel to
-harm them;’ I say, ‘Let them [[Alone|alone]], because _I_ should hate them to be
+this or that enemy alone, because it would be ungenerous or cruel to
+harm them;’ I say, ‘Let them alone, because _I_ should hate them to be
 wronged:’ and he’d crush you like a sparrow’s egg, [[characters/isabella|Isabella]], if he
 found you a troublesome charge. I know he couldn’t [[motifs/love|love]] a Linton; and
 yet he’d be quite capable of marrying your fortune and expectations:
@@ -3932,7 +3932,7 @@ omen: no mate for you. Mrs. Linton spoke strongly, and yet I can’t
 contradict her. She is better acquainted with his heart than I, or any
 one besides; and she never would represent him as worse than he is.
 Honest people don’t hide their deeds. How has he been living? how has
-he got rich? why is he staying at [[works/wuthering-heights-(bronte)|Wuthering Heights]], the [[house]] of a man
+he got rich? why is he staying at [[works/wuthering-heights-(bronte)|Wuthering Heights]], the house of a man
 whom he abhors? They say Mr. Earnshaw is worse and worse since he came.
 They sit up all [[motifs/night|night]] together continually, and Hindley has been
 borrowing money on his land, and does nothing but play and drink: I
@@ -4046,14 +4046,14 @@ speaking the [[concepts/truth|truth]], were you?”
 
 “I assure you I was,” she returned. “She has been dying for your sake
 several weeks, and raving about you this morning, and pouring forth a
-[[deluge]] of abuse, because I represented your failings in a plain light,
+deluge of abuse, because I represented your failings in a plain light,
 for the purpose of mitigating her adoration. But don’t notice it
 further: I wished to punish her sauciness, that’s all. I like her too
 [[motifs/well|well]], my dear [[characters/heathcliff|Heathcliff]], to let you absolutely seize and devour her
 up.”
 
 “And I like her too ill to attempt it,” said he, “except in a very
-ghoulish fashion. You’d hear of odd things if I lived [[Alone|alone]] with that
+ghoulish fashion. You’d hear of odd things if I lived alone with that
 mawkish, waxen face: the most ordinary would be painting on its white
 the colours of the rainbow, and turning the blue eyes black, every day
 or two: they detestably resemble Linton’s.”
@@ -4086,7 +4086,7 @@ latitude, that I had little [[concepts/faith|faith]] in her principles, and stil
 sympathy for her feelings. I wanted something to happen which might
 have the effect of freeing both [[works/wuthering-heights-(bronte)|Wuthering Heights]] and the Grange of Mr.
 [[characters/heathcliff|Heathcliff]], quietly; leaving us as we had been prior to his advent. His
-visits were a continual [[nightmare]] to me; and, I suspected, to my master
+visits were a continual nightmare to me; and, I suspected, to my master
 also. His abode at the Heights was an oppression past explaining. I
 felt that God had forsaken the stray sheep there to its own wicked
 wanderings, and an evil beast prowled between it and the fold, waiting
@@ -4106,7 +4106,7 @@ a sudden terror, and put on my bonnet to go see how all was at the
 farm. I’ve persuaded my [[concepts/conscience|conscience]] that it was a duty to warn him how
 people talked regarding his ways; and then I’ve recollected his
 confirmed bad habits, and, hopeless of benefiting him, have flinched
-from re-entering the dismal [[house]], doubting if I could bear to be taken
+from re-entering the dismal house, doubting if I could bear to be taken
 at my word.
 
 One [[motifs/time|time]] I passed the old gate, going out of my way, on a [[motifs/journey|journey]] to
@@ -4131,7 +4131,7 @@ into mine! It vanished in a twinkling; but immediately I felt an
 irresistible yearning to be at the Heights. Superstition urged me to
 comply with this impulse: supposing he should be dead! I thought—or
 should die soon!—supposing it were a sign of [[motifs/death|death]]! The nearer I got to
-the [[house]] the more agitated I grew; and on catching sight of it I
+the house the more agitated I grew; and on catching sight of it I
 trembled in every limb. The apparition had outstripped me: it stood
 looking through the gate. That was my first idea on observing an
 elf-locked, brown-eyed boy setting his ruddy countenance against the
@@ -4199,7 +4199,7 @@ throat, if he stepped over the threshold—[[characters/heathcliff|Heathcliff]] 
 
 I put the orange in his hand, and bade him tell his father that a woman
 called [[characters/nelly-dean|Nelly Dean]] was waiting to speak with him, by the [[motifs/garden|garden]] gate. He
-went up the walk, and entered the [[house]]; but, instead of Hindley,
+went up the walk, and entered the house; but, instead of Hindley,
 [[characters/heathcliff|Heathcliff]] appeared on the door-stones; and I turned directly and ran
 down the [[motifs/road|road]] as hard as ever I could race, making no halt till I
 gained the guide-post, and feeling as scared as if I had raised a
@@ -4215,12 +4215,12 @@ for three days; but she had likewise dropped her fretful complaining,
 and we found it a great comfort. [[characters/heathcliff|Heathcliff]] had not the habit of
 bestowing a single unnecessary civility on Miss Linton, I knew. Now, as
 soon as he beheld her, his first precaution was to take a sweeping
-survey of the [[house]]-front. I was standing by the kitchen-[[motifs/window|window]], but I
+survey of the house-front. I was standing by the kitchen-[[motifs/window|window]], but I
 drew out of sight. He then stepped across the pavement to her, and said
 something: she seemed embarrassed, and desirous of getting away; to
 prevent it, he laid his hand on her arm. She averted her face: he
 apparently put some question which she had no mind to answer. There was
-another rapid glance at the [[house]], and supposing himself unseen, the
+another rapid glance at the house, and supposing himself unseen, the
 scoundrel had the impudence to embrace her.
 
 
@@ -4248,7 +4248,7 @@ be so presumptuous as to put in my insolent tongue.
 
 “To hear you, people might think you were the mistress!” she cried.
 “You want setting down in your right place! [[characters/heathcliff|Heathcliff]], what are you
-about, raising this stir? I said you must let [[characters/isabella|Isabella]] [[Alone|alone]]!—I beg you
+about, raising this stir? I said you must let [[characters/isabella|Isabella]] alone!—I beg you
 will, unless you are tired of being received here, and wish Linton to
 draw the bolts against you!”
 
@@ -4364,7 +4364,7 @@ were only partly responsible for that; and Catherine wishing to keep up
 your acquaintance, I acquiesced—foolishly. Your presence is a moral
 [[motifs/poison|poison]] that would contaminate the most virtuous: for that cause, and to
 prevent worse consequences, I shall deny you hereafter admission into
-this [[house]], and give notice now that I require your instant departure.
+this house, and give notice now that I require your instant departure.
 Three minutes’ delay will render it involuntary and ignominious.”
 
 [[characters/heathcliff|Heathcliff]] measured the height and breadth of the speaker with an eye
@@ -4508,7 +4508,7 @@ that you can be as stoical as anyone, when you please. Will you give up
 to be _my_ friend and _his_ at the same [[motifs/time|time]]; and I absolutely
 _require_ to know which you choose.”
 
-“I require to be let [[Alone|alone]]!” exclaimed Catherine, furiously. “I demand
+“I require to be let alone!” exclaimed Catherine, furiously. “I demand
 it! Don’t you see I can scarcely stand? [[characters/edgar|Edgar]], you—you leave me!”
 
 She rang the bell till it broke with a twang; I entered leisurely. It
@@ -4565,7 +4565,7 @@ that he never opened—wearying, I guessed, with a continual vague
 expectation that Catherine, repenting her conduct, would come of her
 own accord to ask pardon, and seek a [[concepts/reconciliation|reconciliation]]—and _she_ fasted
 pertinaciously, under the idea, probably, that at every meal [[characters/edgar|Edgar]] was
-ready to choke for her absence, and [[concepts/pride|pride]] [[Alone|alone]] held him from running
+ready to choke for her absence, and [[concepts/pride|pride]] alone held him from running
 to cast himself at her feet; I went about my household duties,
 convinced that the Grange had but one sensible [[motifs/soul|soul]] in its walls, and
 that lodged in my [[concepts/body|body]]. I wasted no condolences on Miss, nor any
@@ -4633,7 +4633,7 @@ _here_. How dreary to meet [[motifs/death|death]], surrounded by their cold face
 [[characters/isabella|Isabella]], terrified and repelled, afraid to enter the room, it would be
 so dreadful to watch Catherine go. And [[characters/edgar|Edgar]] standing solemnly by to
 see it over; then offering prayers of thanks to God for restoring peace
-to his [[house]], and going back to his _books_! What in the name of all
+to his house, and going back to his _books_! What in the name of all
 that feels has he to do with _books_, when I am dying?”
 
 She could not bear the notion which I had put into her head of Mr.
@@ -4703,7 +4703,7 @@ her own; so I [[motifs/rose|rose]] and covered it with a shawl.
 
 “It’s behind there still!” she pursued, anxiously. “And it stirred. Who
 is it? I [[concepts/hope|hope]] it will not come out when you are gone! Oh! Nelly, the
-room is haunted! I’m afraid of being [[Alone|alone]]!”
+room is haunted! I’m afraid of being alone!”
 
 I took her hand in mine, and bid her be composed; for a succession of
 shudders convulsed her frame, and she _would_ keep straining her gaze
@@ -4736,7 +4736,7 @@ with me. I dread sleeping: my [[motifs/dreams|dreams]] appal me.”
 “A sound [[motifs/sleep|sleep]] would do you good, ma’am,” I answered: “and I [[concepts/hope|hope]] this
 [[concepts/suffering|suffering]] will prevent your trying starving again.”
 
-“Oh, if I were but in my own bed in the old [[house]]!” she went on
+“Oh, if I were but in my own bed in the old house!” she went on
 bitterly, wringing her hands. “And that [[motifs/wind|wind]] sounding in the firs by
 the lattice. Do let me feel it—it comes straight down the moor—do let
 me have one breath!”
@@ -4749,7 +4749,7 @@ her spirit: our fiery Catherine was no better than a wailing [[archetypes/child|
 “How long is it since I shut myself in here?” she asked, suddenly
 reviving.
 
-“It was Monday evening,” I replied, “and this is [[thursday|Thursday]] [[motifs/night|night]], or
+“It was Monday evening,” I replied, “and this is Thursday [[motifs/night|night]], or
 rather Friday morning, at present.”
 
 “What! of the same week?” she exclaimed. “Only that brief [[motifs/time|time]]?”
@@ -4776,7 +4776,7 @@ worried myself to discover what it could be, and, most strangely, the
 whole last seven years of my life grew a blank! I did not recall that
 they had been at all. I was a [[archetypes/child|child]]; my father was just buried, and my
 misery arose from the separation that Hindley had ordered between me
-and [[characters/heathcliff|Heathcliff]]. I was laid [[Alone|alone]], for the first [[motifs/time|time]]; and, rousing from
+and [[characters/heathcliff|Heathcliff]]. I was laid alone, for the first [[motifs/time|time]]; and, rousing from
 a dismal doze after a [[motifs/night|night]] of weeping, I lifted my hand to push the
 panels aside: it struck the table-top! I swept it along the carpet, and
 then [[motifs/memory|memory]] burst in: my late anguish was swallowed in a paroxysm of
@@ -4814,7 +4814,7 @@ entreated, and finally attempted to force her to retire. But I soon
 found her delirious strength much surpassed mine (she _was_ delirious,
 I became convinced by her subsequent actions and ravings). There was no
 [[motifs/moon|moon]], and everything beneath lay in misty darkness: not a light gleamed
-from any [[house]], far or near; all had been extinguished long ago: and
+from any house, far or near; all had been extinguished long ago: and
 those at [[works/wuthering-heights-(bronte)|Wuthering Heights]] were never visible—still she asserted she
 caught their shining.
 
@@ -4836,7 +4836,7 @@ You are slow! Be content, you always followed me!”
 
 Perceiving it vain to argue against her insanity, I was planning how I
 could reach something to wrap about her, without quitting my hold of
-herself (for I could not trust her [[Alone|alone]] by the gaping lattice), when,
+herself (for I could not trust her alone by the gaping lattice), when,
 to my consternation, I heard the rattle of the door-handle, and Mr.
 Linton entered. He had only then come from the library; and, in passing
 through the lobby, had noticed our talking and been attracted by
@@ -4901,7 +4901,7 @@ heartless! Months of sickness could not cause such a change!”
 I began to defend myself, thinking it too bad to be blamed for
 another’s wicked waywardness. “I knew Mrs. Linton’s [[concepts/nature|nature]] to be
 headstrong and domineering,” cried I: “but I didn’t know that you
-wished to foster her fierce temper! I didn’t know that, to [[Humour|humour]] her,
+wished to foster her fierce temper! I didn’t know that, to humour her,
 I should wink at Mr. [[characters/heathcliff|Heathcliff]]. I performed the duty of a faithful
 servant in telling you, and I have got a faithful servant’s wages!
 [[motifs/well|Well]], it will teach me to be careful next [[motifs/time|time]]. Next [[motifs/time|time]] you may
@@ -4950,7 +4950,7 @@ but there were such a number of things to occupy my reflections that I
 hardly gave the circumstance a thought: though it was a strange sound,
 in that place, at two o’[[motifs/clock|clock]] in the morning.
 
-Mr. Kenneth was fortunately just issuing from his [[house]] to see a
+Mr. Kenneth was fortunately just issuing from his house to see a
 patient in the village as I came up the street; and my account of
 Catherine Linton’s malady induced him to accompany me back immediately.
 He was a plain rough man; and he made no scruple to speak his doubts of
@@ -4997,7 +4997,7 @@ subject.
 “No, she’s a sly one,” he remarked, shaking his head. “She keeps her
 own counsel! But she’s a real little [[archetypes/fool|fool]]. I have it from good
 authority that last [[motifs/night|night]] (and a pretty [[motifs/night|night]] it was!) she and
-[[characters/heathcliff|Heathcliff]] were walking in the plantation at the back of your [[house]]
+[[characters/heathcliff|Heathcliff]] were walking in the plantation at the back of your house
 above two hours; and he pressed her not to go in again, but just mount
 his [[motifs/horse|horse]] and away with him! My informant said she could only put him
 off by pledging her word of [[concepts/honour|honour]] to be prepared on their first
@@ -5007,7 +5007,7 @@ Linton to look sharp!”
 This news filled me with fresh fears; I outstripped Kenneth, and ran
 most of the way back. The little dog was yelping in the [[motifs/garden|garden]] yet. I
 spared a minute to open the gate for it, but instead of going to the
-[[house]] door, it coursed up and down snuffing the grass, and would have
+house door, it coursed up and down snuffing the grass, and would have
 escaped to the [[motifs/road|road]], had I not seized it and conveyed it in with me. On
 ascending to [[characters/isabella|Isabella]]’s room, my suspicions were confirmed: it was
 empty. Had I been a few hours sooner Mrs. Linton’s illness might have
@@ -5031,7 +5031,7 @@ intellect.
 
 I did not close my eyes that [[motifs/night|night]], nor did Mr. Linton: indeed, we
 never went to bed; and the servants were all up long before the usual
-hour, moving through the [[house]] with stealthy tread, and exchanging
+hour, moving through the house with stealthy tread, and exchanging
 whispers as they encountered each other in their vocations. Every one
 was active but Miss [[characters/isabella|Isabella]]; and they began to remark how sound she
 slept: her brother, too, asked if she had risen, and seemed impatient
@@ -5096,7 +5096,7 @@ disowned me.”
 
 And that was all he said on the subject: he did not make a single inquiry
 further, or mention her in any way, except directing me to send what
-property she had in the [[house]] to her fresh [[motifs/home|home]], wherever it was, when
+property she had in the house to her fresh [[motifs/home|home]], wherever it was, when
 I knew it.
 
 
@@ -5197,7 +5197,7 @@ need not expect me, and they may draw what conclusions they please;
 taking care, however, to lay nothing at the door of my weak will or
 deficient affection.
 
-The remainder of the letter is for yourself [[Alone|alone]]. I want to ask you
+The remainder of the letter is for yourself alone. I want to ask you
 two questions: the first is,—How did you contrive to preserve the
 common sympathies of human [[concepts/nature|nature]] when you resided here? I cannot
 recognise any sentiment which those around share with me.
@@ -5266,7 +5266,7 @@ me in, after staring and muttering to himself, screwed up his nose and
 replied—“Mim! mim! mim! Did iver Christian [[concepts/body|body]] hear aught like it?
 Mincing un’ munching! How can I tell whet ye say?”
 
-“I say, I wish you to come with me into the [[house]]!” I cried, thinking
+“I say, I wish you to come with me into the house!” I cried, thinking
 him deaf, yet highly disgusted at his rudeness.
 
 “None o’ me! I getten summut else to do,” he answered, and continued
@@ -5321,14 +5321,14 @@ them! I questioned with myself—where must I turn for comfort? and—mind
 you don’t tell [[characters/edgar|Edgar]], or Catherine—above every sorrow beside, this [[motifs/rose|rose]]
 pre-eminent: [[concepts/despair|despair]] at finding nobody who could or would be my ally
 against [[characters/heathcliff|Heathcliff]]! I had sought shelter at [[works/wuthering-heights-(bronte)|Wuthering Heights]], almost
-gladly, because I was secured by that arrangement from living [[Alone|alone]]
+gladly, because I was secured by that arrangement from living alone
 with him; but he knew the people we were coming amongst, and he did not
 [[concepts/fear|fear]] their intermeddling.
 
 I sat and thought a doleful [[motifs/time|time]]: the [[motifs/clock|clock]] struck eight, and nine, and
 still my companion paced to and fro, his head bent on his breast, and
 perfectly silent, unless a groan or a bitter ejaculation forced itself
-out at intervals. I listened to detect a woman’s voice in the [[house]],
+out at intervals. I listened to detect a woman’s voice in the house,
 and filled the interim with wild regrets and dismal anticipations,
 which, at last, spoke audibly in irrepressible sighing and weeping. I
 was not aware how openly I grieved, till Earnshaw halted opposite, in
@@ -5382,7 +5382,7 @@ shock you.”
 
 “What has [[characters/heathcliff|Heathcliff]] done to you?” I asked. “In what has he wronged
 you, to warrant this appalling hatred? Wouldn’t it be wiser to bid him
-quit the [[house]]?”
+quit the house?”
 
 “No!” thundered Earnshaw; “should he offer to leave me, he’s a dead
 man: persuade him to attempt it, and you are a murderess! Am I to lose
@@ -5478,14 +5478,14 @@ being more naked about the walls, and having a large, low, curtainless
 bed, with an indigo-coloured quilt, at one end.
 
 “What do I want with yours?” I retorted. “I suppose Mr. [[characters/heathcliff|Heathcliff]] does
-not lodge at the top of the [[house]], does he?”
+not lodge at the top of the house, does he?”
 
 “Oh! it’s Maister _Hathecliff’s_ ye’re wanting?” cried he, as if making
 a new discovery. “Couldn’t ye ha’ said soa, at onst? un’ then, I mud
 ha’ telled ye, baht all this wark, that that’s just one ye cannut
 see—he allas keeps it locked, un’ nob’dy iver mells on’t but hisseln.”
 
-“You’ve a nice [[house]], Joseph,” I could not refrain from observing, “and
+“You’ve a nice house, Joseph,” I could not refrain from observing, “and
 pleasant inmates; and I think the concentrated essence of all the
 [[concepts/madness|madness]] in the world took up its abode in my brain the day I linked my
 fate with theirs! However, that is not to the present purpose—there are
@@ -5601,7 +5601,7 @@ to console [[characters/isabella|Isabella]]. I daresay she had been on the watch
 morning: I saw her looking through the lattice as I came up the [[motifs/garden|garden]]
 causeway, and I nodded to her; but she drew back, as if afraid of being
 observed. I entered without knocking. There never was such a dreary,
-dismal scene as the formerly cheerful [[house]] presented! I must confess,
+dismal scene as the formerly cheerful house presented! I must confess,
 that if I had been in the young lady’s place, I would, at least, have
 swept the hearth, and wiped the tables with a duster. But she already
 partook of the pervading spirit of neglect which encompassed her. Her
@@ -5656,7 +5656,7 @@ calm: “quite possible that your master should have nothing but common
 humanity and a sense of duty to fall back upon. But do you imagine that
 I shall leave Catherine to his _duty_ and _humanity_? and can you
 compare my feelings respecting Catherine to his? Before you leave this
-[[house]], I must exact a promise from you that you’ll get me an interview
+house, I must exact a promise from you that you’ll get me an interview
 with her: consent, or refuse, I _will_ see her! What do you say?”
 
 “I say, Mr. [[characters/heathcliff|Heathcliff]],” I replied, “you must not: you never shall,
@@ -5733,7 +5733,7 @@ I may guess; but, perhaps, I shouldn’t say.”
 “I should guess it was her own,” said [[characters/heathcliff|Heathcliff]]. “She degenerates into
 a mere slut! She is tired of trying to please me uncommonly early.
 You’d hardly credit it, but the very morrow of our wedding she was
-weeping to go [[motifs/home|home]]. However, she’ll suit this [[house]] so much the better
+weeping to go [[motifs/home|home]]. However, she’ll suit this house so much the better
 for not being over nice, and I’ll take care she does not disgrace me by
 rambling abroad.”
 
@@ -5747,7 +5747,7 @@ have abandoned the elegancies, and comforts, and friends of her former
 [[motifs/home|home]], to fix contentedly, in such a wilderness as this, with you.”
 
 “She abandoned them under a delusion,” he answered; “picturing in me a
-[[archetypes/hero|hero]] of [[Romance|romance]], and expecting unlimited indulgences from my chivalrous
+[[archetypes/hero|hero]] of romance, and expecting unlimited indulgences from my chivalrous
 devotion. I can hardly regard her in the light of a rational creature,
 so obstinately has she persisted in forming a fabulous notion of my
 character and acting on the false impressions she cherished. But, at
@@ -5761,7 +5761,7 @@ announced, as a piece of appalling intelligence, that I had actually
 succeeded in making her hate me! A positive labour of Hercules, I
 assure you! If it be achieved, I have cause to return thanks. Can I
 trust your assertion, [[characters/isabella|Isabella]]? Are you sure you hate me? If I let you
-[[Alone|alone]] for half a day, won’t you come sighing and wheedling to me again?
+alone for half a day, won’t you come sighing and wheedling to me again?
 I daresay she would rather I had seemed all tenderness before you: it
 wounds her [[concepts/vanity|vanity]] to have the [[concepts/truth|truth]] exposed. But I don’t care who knows
 that the passion was wholly on one side: and I never told her a lie
@@ -5798,7 +5798,7 @@ ma’am, are you, as to remain with him of your own accord?”
 
 
 “Take care, Ellen!” answered [[characters/isabella|Isabella]], her eyes sparkling irefully;
-there was no misdoubting by their expression the full [[success]] of her
+there was no misdoubting by their expression the full success of her
 partner’s endeavours to make himself detested. “Don’t put [[concepts/faith|faith]] in a
 single word he speaks. He’s a lying fiend! a [[archetypes/monster|monster]], and not a human
 being! I’ve been told I might leave him before; and I’ve made the
@@ -5842,16 +5842,16 @@ stay. If his servants oppose me, I shall threaten them off with these
 pistols. But wouldn’t it be better to prevent my coming in contact with
 them, or their master? And you could do it so easily. I’d warn you when
 I came, and then you might let me in unobserved, as soon as she was
-[[Alone|alone]], and watch till I departed, your [[concepts/conscience|conscience]] quite calm: you would
+alone, and watch till I departed, your [[concepts/conscience|conscience]] quite calm: you would
 be hindering mischief.”
 
 I protested against playing that treacherous part in my employer’s
-[[house]]: and, besides, I urged the cruelty and selfishness of his
+house: and, besides, I urged the cruelty and selfishness of his
 destroying Mrs. Linton’s tranquillity for his satisfaction. “The
 commonest occurrence startles her painfully,” I said. “She’s all
 nerves, and she couldn’t bear the surprise, I’m positive. Don’t
 persist, sir! or else I shall be obliged to inform my master of your
-designs; and he’ll take measures to secure his [[house]] and its inmates
+designs; and he’ll take measures to secure his house and its inmates
 from any such unwarrantable intrusions!”
 
 “In that case I’ll take measures to secure you, woman!” exclaimed
@@ -5860,7 +5860,7 @@ morning. It is a foolish story to assert that Catherine could not bear
 to see me; and as to surprising her, I don’t [[motifs/desire|desire]] it: you must
 prepare her—ask her if I may come. You say she never mentions my name,
 and that I am never mentioned to her. To whom should she mention me if
-I am a forbidden topic in the [[house]]? She thinks you are all spies for
+I am a forbidden topic in the house? She thinks you are all spies for
 her husband. Oh, I’ve no [[concepts/doubt|doubt]] she’s in hell among you! I guess by her
 [[motifs/silence|silence]], as much as anything, what she feels. You say she is often
 restless, and anxious-looking: is that a proof of tranquillity? You
@@ -5934,7 +5934,7 @@ up my mind not to give it till my master went somewhere, as I could not
 guess how its receipt would affect Catherine. The consequence was, that
 it did not reach her before the lapse of three days. The fourth was
 [[characters/sunday|Sunday]], and I brought it into her room after the family were gone to
-church. There was a man servant left to keep the [[house]] with me, and we
+church. There was a man servant left to keep the house with me, and we
 generally made a practice of locking the doors during the hours of
 service; but on that occasion the weather was so warm and pleasant that
 I set them wide open, and, to fulfil my engagement, as I knew who would
@@ -5969,7 +5969,7 @@ endured his efforts placidly, only showing their uselessness by now and
 then suppressing a wearied sigh, and checking him at last with the
 saddest of smiles and kisses. At other times, she would turn petulantly
 away, and hide her face in her hands, or even push him off angrily; and
-then he took care to let her [[Alone|alone]], for he was certain of doing no
+then he took care to let her alone, for he was certain of doing no
 good.
 
 Gimmerton chapel [[motifs/bells|bells]] were still ringing; and the full, mellow flow of
@@ -6008,7 +6008,7 @@ raise its ears as if about to bark, and then smoothing them back,
 announce, by a wag of the tail, that some one approached whom it did
 not consider a stranger. Mrs. Linton bent forward, and listened
 breathlessly. The minute after a step traversed the hall; the open
-[[house]] was too tempting for [[characters/heathcliff|Heathcliff]] to resist walking in: most likely
+house was too tempting for [[characters/heathcliff|Heathcliff]] to resist walking in: most likely
 he supposed that I was inclined to shirk my promise, and so resolved to
 trust to his own audacity. With straining eagerness Catherine gazed
 towards the entrance of her chamber. He did not hit the right room
@@ -6037,7 +6037,7 @@ gaze would bring [[motifs/tears|tears]] into his eyes; but they burned with angu
 they did not melt.
 
 “What now?” said Catherine, leaning back, and returning his look with a
-suddenly clouded brow: her [[Humour|humour]] was a mere vane for constantly
+suddenly clouded brow: her humour was a mere vane for constantly
 varying caprices. “You and [[characters/edgar|Edgar]] have broken my heart, [[characters/heathcliff|Heathcliff]]! And
 you both come to bewail the deed to me, as if you were the people to be
 pitied! I shall not pity you, not I. You have killed me—and thriven on
@@ -6152,7 +6152,7 @@ it, you have broken mine. So much the worse for me that I am strong. Do
 I want to live? What kind of living will it be when you—oh, God! would
 _you_ like to live with your [[motifs/soul|soul]] in the [[motifs/grave|grave]]?”
 
-“Let me [[Alone|alone]]. Let me [[Alone|alone]],” sobbed Catherine. “If I’ve done wrong,
+“Let me alone. Let me alone,” sobbed Catherine. “If I’ve done wrong,
 I’m dying for it. It is enough! You left me too: but I won’t upbraid
 you! I forgive you. Forgive me!”
 
@@ -6250,7 +6250,7 @@ Linton be in or not.”
 
 He sent a rapid glance through the half-open door of the chamber, and,
 ascertaining that what I stated was apparently true, delivered the
-[[house]] of his luckless presence.
+house of his luckless presence.
 
 
 
@@ -6588,7 +6588,7 @@ mad at six o’[[motifs/clock|clock]] and getting up drunk at twelve. Consequent
 and instead, he sat down by the [[motifs/fire|fire]] and swallowed gin or brandy by
 tumblerfuls.
 
-“[[characters/heathcliff|Heathcliff]]—I shudder to name him! has been a stranger in the [[house]]
+“[[characters/heathcliff|Heathcliff]]—I shudder to name him! has been a stranger in the house
 from last [[characters/sunday|Sunday]] till to-day. Whether the angels have fed him, or his
 kin beneath, I cannot tell; but he has not eaten a meal with us for
 nearly a week. He has just come [[motifs/home|home]] at [[motifs/dawn|dawn]], and gone upstairs to his
@@ -6604,7 +6604,7 @@ Catherine, it was impossible to avoid regarding this season of
 deliverance from degrading oppression as a holiday.
 
 “I recovered spirits sufficient to hear Joseph’s eternal lectures
-without weeping, and to move up and down the [[house]] less with the foot
+without weeping, and to move up and down the house less with the foot
 of a frightened thief than formerly. You wouldn’t think that I should
 cry at anything Joseph could say; but he and Hareton are detestable
 companions. I’d rather sit with Hindley, and hear his awful talk, than
@@ -6612,7 +6612,7 @@ with ‘t’ little maister’ and his staunch supporter, that odious old
 man! When [[characters/heathcliff|Heathcliff]] is in, I’m often obliged to seek the kitchen and
 their society, or starve among the damp uninhabited chambers; when he
 is not, as was the case this week, I establish a table and chair at one
-corner of the [[house]] [[motifs/fire|fire]], and never mind how Mr. Earnshaw may occupy
+corner of the house [[motifs/fire|fire]], and never mind how Mr. Earnshaw may occupy
 himself; and he does not interfere with my arrangements. He is quieter
 now than he used to be, if no one provokes him: more sullen and
 depressed, and less furious. Joseph affirms he’s sure he’s an altered
@@ -6628,7 +6628,7 @@ before me, that [[concepts/melancholy|melancholy]] scene so instantly usurped it
 Hindley sat opposite, his head leant on his hand; perhaps meditating on
 the same subject. He had ceased drinking at a point below
 irrationality, and had neither stirred nor spoken during two or three
-hours. There was no sound through the [[house]] but the moaning [[motifs/wind|wind]], which
+hours. There was no sound through the house but the moaning [[motifs/wind|wind]], which
 shook the windows every now and then, the faint crackling of the coals,
 and the click of my snuffers as I removed at intervals the long wick of
 the candle. Hareton and Joseph were probably fast asleep in bed. It was
@@ -6821,7 +6821,7 @@ escaped so easily.
 Earnshaw was sitting by the [[motifs/fire|fire]], deadly sick; his evil genius, almost
 as gaunt and ghastly, leant against the chimney. Neither appeared
 inclined to dine, and, having waited till all was cold on the table, I
-commenced [[Alone|alone]]. Nothing hindered me from eating heartily, and I
+commenced alone. Nothing hindered me from eating heartily, and I
 experienced a certain sense of satisfaction and superiority, as, at
 intervals, I cast a look towards my silent companions, and felt the
 comfort of a quiet [[concepts/conscience|conscience]] within me. After I had done, I ventured
@@ -6935,7 +6935,7 @@ on the hearth. In my flight through the kitchen I bid Joseph [[characters/speed|
 his master; I knocked over Hareton, who was hanging a litter of puppies
 from a chair-back in the doorway; and, blessed as a [[motifs/soul|soul]] escaped from
 purgatory, I bounded, leaped, and flew down the steep [[motifs/road|road]]; then,
-quitting its windings, shot direct across the moor, [[rolling]] over banks,
+quitting its windings, shot direct across the moor, rolling over banks,
 and wading through marshes: precipitating myself, in fact, towards the
 beacon-light of the Grange. And far rather would I be condemned to a
 perpetual dwelling in the infernal regions than, even for one [[motifs/night|night]],
@@ -7076,7 +7076,7 @@ his brother-in-law. He was unfit for attending to such matters then,
 but he bid me speak to his lawyer; and at length permitted me to go.
 His lawyer had been Earnshaw’s also: I called at the village, and asked
 him to accompany me. He shook his head, and advised that [[characters/heathcliff|Heathcliff]]
-should be let [[Alone|alone]]; affirming, if the [[concepts/truth|truth]] were known, Hareton would
+should be let alone; affirming, if the [[concepts/truth|truth]] were known, Hareton would
 be found little else than a beggar.
 
 “His father died in debt,” he said; “the whole property is mortgaged,
@@ -7093,7 +7093,7 @@ arrangements for the funeral, if I chose.
 “Correctly,” he remarked, “that [[archetypes/fool|fool]]’s [[concepts/body|body]] should be buried at the
 [[motifs/cross|cross]]-roads, without ceremony of any kind. I happened to leave him ten
 minutes yesterday afternoon, and in that interval he fastened the two
-doors of the [[house]] against me, and he has spent the [[motifs/night|night]] in drinking
+doors of the house against me, and he has spent the [[motifs/night|night]] in drinking
 himself to [[motifs/death|death]] deliberately! We broke in this morning, for we heard
 him snorting like a [[motifs/horse|horse]]; and there he was, laid over the settle:
 flaying and scalping would not have wakened him. I sent for Kenneth,
@@ -7114,7 +7114,7 @@ hard, careless deportment, indicative of neither joy nor sorrow: if
 anything, it expressed a flinty gratification at a piece of difficult
 work successfully executed. I observed once, indeed, something like
 exultation in his aspect: it was just when the people were bearing the
-coffin from the [[house]]. He had the hypocrisy to represent a mourner: and
+coffin from the house. He had the hypocrisy to represent a mourner: and
 previous to following with Hareton, he lifted the unfortunate [[archetypes/child|child]] on
 to the table and muttered, with peculiar gusto, “Now, my bonny lad, you
 are _mine_! And we’ll see if one tree won’t grow as crooked as another,
@@ -7145,7 +7145,7 @@ Mr. Linton—that Earnshaw had mortgaged every yard of land he owned for
 cash to supply his mania for gaming; and he, [[characters/heathcliff|Heathcliff]], was the
 mortgagee. In that manner Hareton, who should now be the first
 gentleman in the neighbourhood, was reduced to a state of complete
-dependence on his father’s inveterate enemy; and lives in his own [[house]]
+dependence on his father’s inveterate enemy; and lives in his own house
 as a servant, deprived of the advantage of wages: quite unable to right
 himself, because of his friendlessness, and his ignorance that he has
 been wronged.
@@ -7166,7 +7166,7 @@ experience in common with all children, rich and poor. For the rest,
 after the first six months, she grew like a larch, and could walk and
 talk too, in her own way, before the heath blossomed a second [[motifs/time|time]] over
 Mrs. Linton’s [[motifs/dust|dust]]. She was the most winning thing that ever brought
-sunshine into a desolate [[house]]: a real [[concepts/beauty|beauty]] in face, with the
+sunshine into a desolate house: a real [[concepts/beauty|beauty]] in face, with the
 Earnshaws’ handsome dark eyes, but the Lintons’ fair skin and small
 features, and yellow curling hair. Her spirit was high, though not
 rough, and qualified by a heart sensitive and lively to excess in its
@@ -7274,7 +7274,7 @@ The [[motifs/summer|summer]] shone in full prime; and she took such a taste for 
 solitary rambling that she often contrived to remain out from breakfast
 till tea; and then the evenings were spent in recounting her fanciful
 tales. I did not [[concepts/fear|fear]] her breaking bounds; because the gates were
-generally locked, and I thought she would scarcely venture forth [[Alone|alone]],
+generally locked, and I thought she would scarcely venture forth alone,
 if they had stood wide open. Unluckily, my confidence proved misplaced.
 Catherine came to me, one morning, at eight o’[[motifs/clock|clock]], and said she was
 that day an Arabian merchant, going to [[motifs/cross|cross]] the [[motifs/desert|Desert]] with his
@@ -7375,12 +7375,12 @@ He’s bitten—and so is Charlie. I was going to tell you all about it;
 but you are in a bad temper, and don’t deserve to hear.”
 
 I picked up her hat, and approached to reinstate it; but perceiving
-that the people of the [[house]] took her part, she commenced capering
+that the people of the house took her part, she commenced capering
 round the room; and on my giving chase, ran like a mouse over and under
 and behind the furniture, rendering it ridiculous for me to pursue.
 Hareton and the woman laughed, and she joined them, and waxed more
 impertinent still; till I cried, in great irritation,—“[[motifs/well|Well]], Miss
-Cathy, if you were aware whose [[house]] this is you’d be glad enough to
+Cathy, if you were aware whose house this is you’d be glad enough to
 get out.”
 
 
@@ -7402,7 +7402,7 @@ He coloured deeper, with a different feeling, muttered an oath, and
 turned away.
 
 “Who is his master?” continued the tiresome girl, appealing to me. “He
-talked about ‘our [[house]],’ and ‘our folk.’ I thought he had been the
+talked about ‘our house,’ and ‘our folk.’ I thought he had been the
 owner’s son. And he never said Miss: he should have done, shouldn’t he,
 if he’s a servant?”
 
@@ -7504,14 +7504,14 @@ confined his feelings regarding him to muttered innuendoes and private
 comminations. I don’t pretend to be intimately acquainted with the mode
 of living customary in those days at [[works/wuthering-heights-(bronte)|Wuthering Heights]]: I only speak
 from hearsay; for I saw little. The villagers affirmed Mr. [[characters/heathcliff|Heathcliff]]
-was _near_, and a cruel hard landlord to his tenants; but the [[house]],
+was _near_, and a cruel hard landlord to his tenants; but the house,
 inside, had regained its ancient aspect of comfort under female
 management, and the scenes of riot common in Hindley’s [[motifs/time|time]] were not
 now enacted within its walls. The master was too gloomy to seek
 companionship with any people, good or bad; and he is yet.
 
 This, however, is not making progress with my story. Miss Cathy
-rejected the peace-offering of the terrier, and demanded her own [[dogs]],
+rejected the peace-offering of the terrier, and demanded her own dogs,
 Charlie and Phoenix. They came limping and hanging their heads; and we
 set out for [[motifs/home|home]], sadly out of sorts, every one of us. I could not
 wring from my little lady how she had spent the day; except that, as I
@@ -7604,7 +7604,7 @@ quiet this evening, at least, will you?”
 “Yes, yes, papa,” answered Catherine: “but I do want to see him; and he
 hasn’t once looked out.”
 
-The carriage stopped; and [[The Sleeper|the sleeper]] being roused, was lifted to the
+The carriage stopped; and the sleeper being roused, was lifted to the
 ground by his uncle.
 
 “This is your cousin Cathy, Linton,” he said, putting their little
@@ -7803,7 +7803,7 @@ mist mounted and formed a fleecy cloud on the skirts of the blue.
 “It is not so buried in trees,” I replied, “and it is not quite so
 large, but you can see the country beautifully all round; and the air
 is healthier for you—fresher and drier. You will, perhaps, think the
-building old and dark at first; though it is a respectable [[house]]: the
+building old and dark at first; though it is a respectable house: the
 next best in the neighbourhood. And you will have such nice rambles on
 the moors. [[characters/hareton-earnshaw|Hareton Earnshaw]]—that is, Miss Cathy’s other cousin, and so
 yours in a manner—will show you all the sweetest spots; and you can
@@ -7970,7 +7970,7 @@ I suggested boiled milk or tea; and the housekeeper received
 instructions to prepare some. Come, I reflected, his father’s
 selfishness may contribute to his comfort. He perceives his delicate
 constitution, and the necessity of treating him tolerably. I’ll console
-Mr. [[characters/edgar|Edgar]] by acquainting him with the turn [[characters/heathcliff|Heathcliff]]’s [[Humour|humour]] has
+Mr. [[characters/edgar|Edgar]] by acquainting him with the turn [[characters/heathcliff|Heathcliff]]’s humour has
 taken. Having no excuse for lingering longer, I slipped out, while
 Linton was engaged in timidly rebuffing the advances of a friendly
 sheep-dog. But he was too much on the alert to be cheated: as I closed
@@ -8028,7 +8028,7 @@ crying. I believe the master would relish Earnshaw’s thrashing him to a
 mummy, if he were not his son; and I’m certain he would be fit to turn
 him out of doors, if he knew half the nursing he gives hisseln. But
 then he won’t go into danger of [[concepts/temptation|temptation]]: he never enters the
-parlour, and should Linton show those ways in the [[house]] where he is, he
+parlour, and should Linton show those ways in the house where he is, he
 sends him upstairs directly.”
 
 I divined, from this account, that utter lack of sympathy had rendered
@@ -8047,7 +8047,7 @@ not know, was her successor; she lives there still.
 [[motifs/time|Time]] wore on at the Grange in its former pleasant way till Miss Cathy
 reached sixteen. On the anniversary of her birth we never manifested
 any signs of rejoicing, because it was also the anniversary of my late
-mistress’s [[motifs/death|death]]. Her father invariably spent that day [[Alone|alone]] in the
+mistress’s [[motifs/death|death]]. Her father invariably spent that day alone in the
 library; and walked, at dusk, as far as Gimmerton kirkyard, where he
 would frequently prolong his stay beyond midnight. Therefore Catherine
 was thrown on her own resources for amusement. This twentieth of March
@@ -8130,7 +8130,7 @@ that we are out, presently. We really must go back.”
 “But I have one, and you have seen him before too; and, though your
 [[characters/nurse|nurse]] is in a hurry, I think both you and she would be the better for a
 little rest. Will you just turn this nab of heath, and walk into my
-[[house]]? You’ll get [[motifs/home|home]] earlier for the ease; and you shall receive a
+house? You’ll get [[motifs/home|home]] earlier for the ease; and you shall receive a
 kind welcome.”
 
 I whispered Catherine that she mustn’t, on any account, accede to the
@@ -8160,7 +8160,7 @@ days; it’s not often he’s fit to be seen. And we’ll soon persuade her
 to keep the visit secret: where is the harm of it?”
 
 “The harm of it is, that her father would hate me if he found I
-suffered her to enter your [[house]]; and I am convinced you have a bad
+suffered her to enter your house; and I am convinced you have a bad
 design in encouraging her to do so,” I replied.
 
 “My design is as honest as possible. I’ll inform you of its whole
@@ -8176,7 +8176,7 @@ Catherine would be the heir.”
 it so: his property would go to me; but, to prevent disputes, I [[motifs/desire|desire]]
 their [[concepts/union|union]], and am resolved to bring it about.”
 
-“And I’m resolved she shall never approach your [[house]] with me again,” I
+“And I’m resolved she shall never approach your house with me again,” I
 returned, as we reached the gate, where Miss Cathy waited our coming.
 
 [[characters/heathcliff|Heathcliff]] bade me be quiet; and, preceding us up the path, hastened to
@@ -8215,7 +8215,7 @@ unpleasing. After exchanging numerous marks of fondness with him, his
 cousin went to Mr. [[characters/heathcliff|Heathcliff]], who lingered by the door, dividing his
 attention between the objects inside and those that lay without:
 pretending, that is, to observe the latter, and really noting the
-former [[Alone|alone]].
+former alone.
 
 “And you are my uncle, then!” she cried, reaching up to salute him. “I
 thought I liked you, though you were [[motifs/cross|cross]] at first. Why don’t you
@@ -8470,7 +8470,7 @@ explain this some [[motifs/time|time]] as you grew older, and I’m sorry I dela
 
 “But Mr. [[characters/heathcliff|Heathcliff]] was quite cordial, papa,” observed Catherine, not
 at all convinced; “and _he_ didn’t object to our seeing each other: he
-said I might come to his [[house]] when I pleased; only I must not tell
+said I might come to his house when I pleased; only I must not tell
 you, because you had quarrelled with him, and would not forgive him for
 marrying aunt [[characters/isabella|Isabella]]. And you won’t. _You_ are the one to be blamed:
 he is willing to let _us_ be friends, at least; Linton and I; and you
@@ -8499,7 +8499,7 @@ plans without a visitation of remorse. She appeared so deeply impressed
 and shocked at this new view of human [[concepts/nature|nature]]—excluded from all her
 studies and all her ideas till now—that Mr. [[characters/edgar|Edgar]] deemed it unnecessary
 to pursue the subject. He merely added: “You will know hereafter,
-darling, why I wish you to avoid his [[house]] and family; now return to
+darling, why I wish you to avoid his house and family; now return to
 your old employments and amusements, and think no more about them.”
 
 Catherine kissed her father, and sat down quietly to her lessons for a
@@ -8573,7 +8573,7 @@ and trinkets which recently formed its contents were transmuted into
 bits of folded paper. My curiosity and suspicions were roused; I
 determined to take a peep at her mysterious treasures; so, at [[motifs/night|night]], as
 soon as she and my master were safe upstairs, I searched, and readily
-found among my [[house]] keys one that would fit the lock. Having opened, I
+found among my house keys one that would fit the lock. Having opened, I
 emptied the whole contents into my apron, and took them with me to
 examine at leisure in my own chamber. Though I could not but suspect, I
 was still surprised to discover that they were a mass of
@@ -8606,7 +8606,7 @@ succeeded in abstracting the epistle; and, threatening serious
 consequences if he did not look sharp [[motifs/home|home]], I remained under the wall
 and perused Miss Cathy’s affectionate composition. It was more simple
 and more eloquent than her cousin’s: very pretty and very silly. I
-shook my head, and went meditating into the [[house]]. The day being wet,
+shook my head, and went meditating into the house. The day being wet,
 she could not divert herself with rambling about the park; so, at the
 conclusion of her morning studies, she resorted to the solace of the
 drawer. Her father sat reading at the table; and I, on purpose, had
@@ -8627,7 +8627,7 @@ hoard.
 I obeyed her summons, and accompanied her out.
 
 “Oh, Ellen! you have got them,” she commenced immediately, dropping on
-her knees, when we were enclosed [[Alone|alone]]. “Oh, give them to me, and I’ll
+her knees, when we were enclosed alone. “Oh, give them to me, and I’ll
 never, never do so again! Don’t tell papa. You have not told papa,
 Ellen? say you have not? I’ve been exceedingly naughty, but I won’t do
 it any more!”
@@ -8715,7 +8715,7 @@ and the evening happening to be chill and damp, my master caught a bad
 cold, that settled obstinately on his lungs, and confined him indoors
 throughout the whole of the [[motifs/winter|winter]], nearly without intermission.
 
-Poor Cathy, frightened from her little [[Romance|romance]], had been considerably
+Poor Cathy, frightened from her little romance, had been considerably
 sadder and duller since its abandonment; and her father insisted on her
 reading less, and taking more exercise. She had his companionship no
 longer; I esteemed it a duty to supply its lack, as much as possible,
@@ -8747,7 +8747,7 @@ and I, pleased with her agility and her light, childish heart, still
 considered it proper to scold every [[motifs/time|time]] I caught her at such an
 elevation, but so that she knew there was no necessity for descending.
 From dinner to tea she would lie in her breeze-rocked cradle, doing
-nothing except singing old [[songs]]—my nursery lore—to herself, or
+nothing except singing old songs—my nursery lore—to herself, or
 watching the [[motifs/birds|birds]], joint tenants, feed and entice their young ones to
 fly: or nestling with closed lids, half thinking, half dreaming,
 happier than words can express.
@@ -8962,12 +8962,12 @@ CHAPTER XXIII
 The rainy [[motifs/night|night]] had ushered in a misty morning—half [[motifs/frost|frost]], half
 drizzle—and temporary brooks crossed our path—gurgling from the
 uplands. My feet were thoroughly wetted; I was [[motifs/cross|cross]] and low; exactly
-the [[Humour|humour]] suited for making the most of these disagreeable things. We
-entered the farm-[[house]] by the kitchen way, to ascertain whether Mr.
+the humour suited for making the most of these disagreeable things. We
+entered the farm-house by the kitchen way, to ascertain whether Mr.
 [[characters/heathcliff|Heathcliff]] were really absent: because I put slight [[concepts/faith|faith]] in his own
 affirmation.
 
-Joseph seemed sitting in a sort of elysium [[Alone|alone]], beside a roaring
+Joseph seemed sitting in a sort of elysium alone, beside a roaring
 [[motifs/fire|fire]]; a quart of ale on the table near him, bristling with large pieces
 of toasted oat-cake; and his black, short pipe in his mouth. Catherine
 ran to the hearth to warm herself. I asked if the master was in? My
@@ -9162,7 +9162,7 @@ fever.”
 
 “[[motifs/well|Well]], then, I must go?” she repeated.
 
-“Let me [[Alone|alone]], at least,” said he; “I can’t bear your talking.”
+“Let me alone, at least,” said he; “I can’t bear your talking.”
 
 She lingered, and resisted my persuasions to departure a tiresome
 while; but as he neither looked up nor spoke, she finally made a
@@ -9217,7 +9217,7 @@ you want me: you would wish to see me sometimes, really?”
 
 “I told you I did,” he replied impatiently. “Sit on the settle and let
 me lean on your knee. That’s as mamma used to do, whole afternoons
-together. Sit quite still and don’t talk: but you may sing a [[Song|song]], if
+together. Sit quite still and don’t talk: but you may sing a song, if
 you can sing; or you may say a nice long interesting ballad—one of
 those you promised to teach me; or a story. I’d rather have a ballad,
 though: begin.”
@@ -9242,7 +9242,7 @@ different response evidently, for his forehead cleared as she stooped
 and whispered in his ear.
 
 “You won’t go to-morrow, recollect, Miss!” I commenced, when we were
-out of the [[house]]. “You are not dreaming of it, are you?”
+out of the house. “You are not dreaming of it, are you?”
 
 She smiled.
 
@@ -9323,7 +9323,7 @@ CHAPTER XXIV
 
 
 At the close of three weeks I was able to quit my chamber and move
-about the [[house]]. And on the first occasion of my sitting up in the
+about the house. And on the first occasion of my sitting up in the
 evening I asked Catherine to read to me, because my eyes were weak. We
 were in the library, the master having gone to bed: she consented,
 rather unwillingly, I fancied; and imagining my sort of books did not
@@ -9350,7 +9350,7 @@ judging by her peevish, heavy look, and the constant rubbing she
 inflicted on her eyes. The following [[motifs/night|night]] she seemed more impatient
 still; and on the third from recovering my company she complained of a
 headache, and left me. I thought her conduct odd; and having remained
-[[Alone|alone]] a long while, I resolved on going and inquiring whether she were
+alone a long while, I resolved on going and inquiring whether she were
 better, and asking her to come and lie on the sofa, instead of upstairs
 in the dark. No Catherine could I discover upstairs, and none below.
 The servants affirmed they had not seen her. I listened at Mr. [[characters/edgar|Edgar]]’s
@@ -9423,7 +9423,7 @@ satisfied him better.
 “On my second visit Linton seemed in lively spirits; and Zillah (that
 is their housekeeper) made us a clean room and a good [[motifs/fire|fire]], and told us
 that, as Joseph was out at a [[motifs/prayer|prayer]]-meeting and [[characters/hareton-earnshaw|Hareton Earnshaw]] was
-off with his [[dogs]]—robbing our woods of pheasants, as I heard
+off with his dogs—robbing our woods of pheasants, as I heard
 afterwards—we might do what we liked. She brought me some warm wine and
 gingerbread, and appeared exceedingly good-natured; and Linton sat in
 the arm-chair, and I in the little rocking chair on the hearth-stone,
@@ -9468,8 +9468,8 @@ the C., because that stood for Catherine, and the H. might be for
 [[characters/heathcliff|Heathcliff]], his name; but the bran came out of H., and Linton didn’t
 like it. I beat him constantly; and he got [[motifs/cross|cross]] again, and coughed,
 and returned to his chair. That [[motifs/night|night]], though, he easily recovered his
-good [[Humour|humour]]: he was charmed with two or three pretty [[songs]]—_your_
-[[songs]], Ellen; and when I was obliged to go, he begged and entreated me
+good humour: he was charmed with two or three pretty songs—_your_
+songs, Ellen; and when I was obliged to go, he begged and entreated me
 to come the following evening; and I promised. Minny and I went flying
 [[motifs/home|home]] as light as air; and I dreamt of [[works/wuthering-heights-(bronte)|Wuthering Heights]] and my sweet,
 darling cousin, till morning.
@@ -9482,7 +9482,7 @@ delights me more, my pretty Linton will. I trotted up their [[motifs/garden|gard
 was turning round to the back, when that fellow Earnshaw met me, took
 my bridle, and bid me go in by the front entrance. He patted Minny’s
 neck, and said she was a bonny beast, and appeared as if he wanted me
-to speak to him. I only told him to leave my [[motifs/horse|horse]] [[Alone|alone]], or else it
+to speak to him. I only told him to leave my [[motifs/horse|horse]] alone, or else it
 would kick him. He answered in his vulgar accent, ‘It wouldn’t do mitch
 hurt if it did;’ and surveyed its legs with a smile. I was half
 inclined to make it try; however, he moved off to open the door, and,
@@ -9600,7 +9600,7 @@ and declared I should do ‘no sich stuff,’ and asked me whether I were
 ‘bahn to be as mad as him.’ I stood crying till the housekeeper
 reappeared. She affirmed he would be better in a bit, but he couldn’t
 do with that shrieking and din; and she took me, and nearly carried me
-into the [[house]].
+into the house.
 
 “Ellen, I was ready to tear my hair off my head! I sobbed and wept so
 that my eyes were almost blind; and the ruffian you have such sympathy
@@ -9626,9 +9626,9 @@ excited, and dreaded to hear that Linton was dead, sometimes; and
 sometimes shuddered at the thought of encountering Hareton. On the
 third day I took [[concepts/courage|courage]]: at least, I couldn’t bear longer suspense,
 and stole off once more. I went at five o’[[motifs/clock|clock]], and walked; fancying I
-might manage to creep into the [[house]], and up to Linton’s room,
-unobserved. However, the [[dogs]] gave notice of my approach. Zillah
-received me, and saying ‘the lad was [[mending]] nicely,’ showed me into a
+might manage to creep into the house, and up to Linton’s room,
+unobserved. However, the dogs gave notice of my approach. Zillah
+received me, and saying ‘the lad was mending nicely,’ showed me into a
 small, tidy, carpeted apartment, where, to my inexpressible joy, I
 beheld Linton laid on a little sofa, reading one of my books. But he
 would neither speak to me nor look at me, through a whole hour, Ellen:
@@ -9647,7 +9647,7 @@ and considered myself doing a duty as she bore me over the hills. I was
 forced to pass the front windows to get to the [[settings/court|court]]: it was no use
 trying to conceal my presence.
 
-“‘Young master is in the [[house]],’ said Zillah, as she saw me making for
+“‘Young master is in the house,’ said Zillah, as she saw me making for
 the parlour. I went in; Earnshaw was there also, but he quitted the
 room directly. Linton sat in the great arm-chair half asleep; walking
 up to the [[motifs/fire|fire]], I began in a serious tone, partly meaning it to be
@@ -9848,7 +9848,7 @@ together about once a week, under my guardianship, and on the moors
 nearest the Grange: for June found him still declining. Though he had
 set aside yearly a portion of his income for my young lady’s fortune,
 he had a natural [[motifs/desire|desire]] that she might retain—or at least return in a
-short [[motifs/time|time]] to—the [[house]] of her ancestors; and he considered her only
+short [[motifs/time|time]] to—the house of her ancestors; and he considered her only
 prospect of doing that was by a [[concepts/union|union]] with his heir; he had no idea
 that the latter was failing almost as fast as himself; nor had any one,
 I believe: no doctor visited the Heights, and no one saw Master
@@ -9940,7 +9940,7 @@ least.
 
 “But I think,” said Cathy, “you’d be more comfortable at [[motifs/home|home]] than
 sitting here; and I cannot amuse you to-day, I see, by my tales, and
-[[songs]], and chatter: you have grown wiser than I, in these six months;
+songs, and chatter: you have grown wiser than I, in these six months;
 you have little taste for my diversions now: or else, if I could amuse
 you, I’d willingly stay.”
 
@@ -9953,7 +9953,7 @@ uncle I’m in tolerable health, will you?”
 are,” observed my young lady, wondering at his pertinacious assertion
 of what was evidently an untruth.
 
-“And be here again next [[thursday|Thursday]],” continued he, shunning her puzzled
+“And be here again next Thursday,” continued he, shunning her puzzled
 gaze. “And give him my thanks for permitting you to come—my best
 thanks, Catherine. And—and, if you _did_ meet my father, and he asked
 you about me, don’t lead him to suppose that I’ve been extremely silent
@@ -10031,7 +10031,7 @@ clung to Catherine’s arm, striving to detain her; but at that
 announcement she hastily disengaged herself, and whistled to Minny, who
 obeyed her like a dog.
 
-“I’ll be here next [[thursday|Thursday]],” she cried, springing to the saddle.
+“I’ll be here next Thursday,” she cried, springing to the saddle.
 “Good-bye. Quick, Ellen!”
 
 And so we left him, scarcely conscious of our departure, so absorbed
@@ -10062,7 +10062,7 @@ previously wrought was now emulated by the inroads of hours. Catherine
 we would fain have deluded yet; but her own quick spirit refused to
 delude her: it divined in secret, and brooded on the dreadful
 probability, gradually ripening into certainty. She had not the heart
-to mention her ride, when [[thursday|Thursday]] came round; I mentioned it for her,
+to mention her ride, when Thursday came round; I mentioned it for her,
 and obtained permission to order her out of doors: for the library,
 where her father stopped a short [[motifs/time|time]] daily—the brief period he could
 bear to sit up—and his chamber, had become her whole world. She grudged
@@ -10070,7 +10070,7 @@ each moment that did not find her bending over his pillow, or seated by
 his side. Her countenance grew wan with watching and sorrow, and my
 master gladly dismissed her to what he flattered himself would be a
 happy change of scene and society; drawing comfort from the [[concepts/hope|hope]] that
-she would not now be left entirely [[Alone|alone]] after his [[motifs/death|death]].
+she would not now be left entirely alone after his [[motifs/death|death]].
 
 He had a fixed idea, I guessed by several observations he let fall,
 that, as his nephew resembled him in person, he would resemble him in
@@ -10174,7 +10174,7 @@ he said—
 <span class="atom-split" data-atom="chapter_27--part_02" data-title="Wuthering Heights — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/home,motif/journey,motif/time,motif/well,concept/charity,concept/fear,character/edgar_linton,character/heathcliff"></span>
 
 
-“It is something to see you so near to my [[house]], Nelly. How are you at
+“It is something to see you so near to my house, Nelly. How are you at
 the Grange? Let us hear. The rumour goes,” he added, in a lower tone,
 “that [[characters/edgar-linton|Edgar Linton]] is on his [[motifs/death|death]]-bed: perhaps they exaggerate his
 illness?”
@@ -10212,7 +10212,7 @@ against a ridge of turf.
 “Now,” said he, with curbed ferocity, “I’m getting angry—and if you
 don’t command that paltry spirit of yours—_damn_ you! get up directly!”
 
-“I will, father,” he panted. “Only, let me [[Alone|alone]], or I shall faint.
+“I will, father,” he panted. “Only, let me alone, or I shall faint.
 I’ve done as you wished, I’m sure. Catherine will tell you that I—that
 I—have been cheerful. Ah! keep by me, Catherine; give me your hand.”
 
@@ -10224,7 +10224,7 @@ walk [[motifs/home|home]] with him, will you? He shudders if I touch him.”
 “Linton dear!” whispered Catherine, “I can’t go to [[works/wuthering-heights-(bronte)|Wuthering Heights]]:
 papa has forbidden me. He’ll not harm you: why are you so afraid?”
 
-“I can never re-enter that [[house]],” he answered. “I’m _not_ to re-enter
+“I can never re-enter that house,” he answered. “I’m _not_ to re-enter
 it without you!”
 
 “Stop!” cried his father. “We’ll respect Catherine’s filial scruples.
@@ -10247,7 +10247,7 @@ means of discerning; but there he was, powerless under its gripe, and
 any addition seemed capable of shocking him into idiocy. We reached the
 threshold; Catherine walked in, and I stood waiting till she had
 conducted the invalid to a chair, expecting her out immediately; when
-Mr. [[characters/heathcliff|Heathcliff]], pushing me forward, exclaimed—“My [[house]] is not stricken
+Mr. [[characters/heathcliff|Heathcliff]], pushing me forward, exclaimed—“My house is not stricken
 with the plague, Nelly; and I have a mind to be hospitable to-day: sit
 down, and allow me to shut the door.”
 
@@ -10255,7 +10255,7 @@ He shut and locked it also. I started.
 
 “You shall have tea before you go [[motifs/home|home]],” he added. “I am by myself.
 Hareton is gone with some cattle to the Lees, and Zillah and Joseph are
-off on a [[motifs/journey|journey]] of pleasure; and, though I’m used to being [[Alone|alone]], I’d
+off on a [[motifs/journey|journey]] of pleasure; and, though I’m used to being alone, I’d
 rather have some interesting company, if I can get it. Miss Linton,
 take your seat by _him_. I give you what I have: the present is hardly
 worth accepting; but I have nothing else to offer. It is Linton, I
@@ -10362,7 +10362,7 @@ shall return [[motifs/home|home]] next day, and take me with you.”
 Why, the man is mad! or he thinks us fools, every one. And do you
 imagine that beautiful young lady, that healthy, hearty girl, will tie
 herself to a little perishing monkey like you? Are you cherishing the
-notion that _anybody_, let [[Alone|alone]] Miss Catherine Linton, would have you
+notion that _anybody_, let alone Miss Catherine Linton, would have you
 for a husband? You want whipping for bringing us in here at all, with
 your dastardly puling tricks: and—don’t look so silly, now! I’ve a very
 good mind to shake you severely, for your contemptible treachery, and
@@ -10383,7 +10383,7 @@ after all. You _must_ obey my father—you _must_!”
 
 “I must obey my own,” she replied, “and relieve him from this cruel
 suspense. The whole [[motifs/night|night]]! What would he think? He’ll be distressed
-already. I’ll either break or burn a way out of the [[house]]. Be quiet!
+already. I’ll either break or burn a way out of the house. Be quiet!
 You’re in no danger; but if you hinder me—Linton, I [[motifs/love|love]] papa better
 than you!”
 
@@ -10444,7 +10444,7 @@ lost. What shall we do?”
 
 “Not he! He’ll think you are tired of waiting on him, and run off for a
 little amusement,” answered [[characters/heathcliff|Heathcliff]]. “You cannot deny that you
-entered my [[house]] of your own accord, in contempt of his injunctions to
+entered my house of your own accord, in contempt of his injunctions to
 the contrary. And it is quite natural that you should [[motifs/desire|desire]] amusement
 at your age; and that you would weary of nursing a sick man, and that
 man _only_ your father. Catherine, his happiest days were over when
@@ -10496,7 +10496,7 @@ dumb in the middle of the first sentence, by a threat that I should be
 shown into a room by myself the very next syllable I uttered. It was
 growing dark—we heard a sound of voices at the [[motifs/garden|garden]]-gate. Our host
 hurried out instantly: _he_ had his wits about him; _we_ had not. There
-was a talk of two or three minutes, and he returned [[Alone|alone]].
+was a talk of two or three minutes, and he returned alone.
 
 “I thought it had been your cousin Hareton,” I observed to Catherine.
 “I wish he would arrive! Who knows but he might take our part?”
@@ -10597,7 +10597,7 @@ sickly yet. He’s not dead; Doctor Kenneth thinks he may last another
 day. I met him on the [[motifs/road|road]] and asked.”
 
 Instead of sitting down, I snatched my outdoor things, and hastened
-below, for the way was free. On entering the [[house]], I looked about for
+below, for the way was free. On entering the house, I looked about for
 some one to give information of Catherine. The place was filled with
 sunshine, and the door stood wide open; but nobody seemed at hand. As I
 hesitated whether to go off at once, or return and seek my mistress, a
@@ -10605,7 +10605,7 @@ slight cough drew my attention to the hearth. Linton lay on the settle,
 sole tenant, sucking a stick of sugar-candy, and pursuing my movements
 with apathetic eyes. “Where is Miss Catherine?” I demanded sternly,
 supposing I could frighten him into giving intelligence, by catching
-him thus, [[Alone|alone]]. He sucked on like an [[archetypes/innocent|innocent]].
+him thus, alone. He sucked on like an [[archetypes/innocent|innocent]].
 
 “Is she gone?” I said.
 
@@ -10626,7 +10626,7 @@ drop asleep.
 
 “Master [[characters/heathcliff|Heathcliff]],” I resumed, “have you forgotten all Catherine’s
 kindness to you last [[motifs/winter|winter]], when you affirmed you loved her, and when
-she brought you books and sung you [[songs]], and came many a [[motifs/time|time]] through
+she brought you books and sung you songs, and came many a [[motifs/time|time]] through
 [[motifs/wind|wind]] and [[motifs/snow|snow]] to see you? She wept to miss one evening, because you
 would be disappointed; and you felt then that she was a hundred times
 too good to you: and now you believe the lies your father tells, though
@@ -10638,8 +10638,8 @@ lips.
 
 “Did she come to [[works/wuthering-heights-(bronte)|Wuthering Heights]] because she hated you?” I continued.
 “Think for yourself! As to your money, she does not even know that you
-will have any. And you say she’s sick; and yet you leave her [[Alone|alone]], up
-there in a strange [[house]]! _You_ who have felt what it is to be so
+will have any. And you say she’s sick; and yet you leave her alone, up
+there in a strange house! _You_ who have felt what it is to be so
 neglected! You could pity your own sufferings; and she pitied them,
 too; but you won’t pity hers! I shed [[motifs/tears|tears]], Master [[characters/heathcliff|Heathcliff]], you
 see—an elderly woman, and a servant merely—and you, after pretending
@@ -10659,7 +10659,7 @@ creature had no power to sympathise with his cousin’s mental tortures.
 
 “He’s in the [[settings/court|court]],” he replied, “talking to Doctor Kenneth; who says
 uncle is dying, truly, at last. I’m glad, for I shall be master of the
-Grange after him. Catherine always spoke of it as _her_ [[house]]. It isn’t
+Grange after him. Catherine always spoke of it as _her_ house. It isn’t
 hers! It’s mine: papa says everything she has is mine. All her nice
 books are mine; she offered to give me them, and her pretty [[motifs/birds|birds]], and
 her pony Minny, if I would get the key of our room, and let her out;
@@ -10744,7 +10744,7 @@ Having received his orders, I despatched a man to fetch the attorney,
 and four more, provided with serviceable weapons, to demand my young
 lady of her jailor. Both parties were delayed very late. The single
 servant returned first. He said Mr. Green, the lawyer, was out when he
-arrived at his [[house]], and he had to wait two hours for his re-entrance;
+arrived at his house, and he had to wait two hours for his re-entrance;
 and then Mr. Green told him he had a little business in the village
 that must be done; but he would be at Thrushcross Grange before
 morning. The four men came back unaccompanied also. They brought word
@@ -10818,7 +10818,7 @@ after I left, was terrified into fetching the key before his father
 re-ascended. He had the cunning to unlock and re-lock the door, without
 shutting it; and when he should have gone to bed, he begged to [[motifs/sleep|sleep]]
 with Hareton, and his petition was granted for once. Catherine stole
-out before break of day. She dared not try the doors lest the [[dogs]]
+out before break of day. She dared not try the doors lest the dogs
 should raise an alarm; she visited the empty chambers and examined
 their windows; and, luckily, lighting on her mother’s, she got easily
 out of its lattice, and on to the ground, by means of the fir-tree
@@ -10970,11 +10970,11 @@ can, and do, exist among us! The day she was buried, there came a fall
 of [[motifs/snow|snow]]. In the evening I went to the churchyard. It blew bleak as
 [[motifs/winter|winter]]—all round was solitary. I didn’t [[concepts/fear|fear]] that her [[archetypes/fool|fool]] of a husband
 would wander up the glen so late; and no one else had business to bring
-them there. Being [[Alone|alone]], and conscious two yards of loose earth was the
+them there. Being alone, and conscious two yards of loose earth was the
 sole barrier between us, I said to myself—‘I’ll have her in my arms
 again! If she be cold, I’ll think it is this north [[motifs/wind|wind]] that chills
 _me_; and if she be motionless, it is [[motifs/sleep|sleep]].’ I got a spade from the
-tool-[[house]], and began to delve with all my might—it scraped the coffin;
+tool-house, and began to delve with all my might—it scraped the coffin;
 I fell to work with my hands; the wood commenced cracking about the
 screws; I was on the point of attaining my object, when it seemed that
 I heard a sigh from some one above, close at the edge of the [[motifs/grave|grave]], and
@@ -11002,7 +11002,7 @@ herself, as she often was in life, a devil to me! And, since then,
 sometimes more and sometimes less, I’ve been the sport of that
 intolerable torture! Infernal! keeping my nerves at such a stretch
 that, if they had not resembled catgut, they would long ago have
-relaxed to the feebleness of Linton’s. When I sat in the [[house]] with
+relaxed to the feebleness of Linton’s. When I sat in the house with
 Hareton, it seemed that on going out I should meet her; when I walked
 on the moors I should meet her coming in. When I went from [[motifs/home|home]] I
 hastened to return; she _must_ be somewhere at the Heights, I was
@@ -11040,7 +11040,7 @@ her lips felt like ice. “Come and see me, Ellen; don’t forget.”
 
 “Take care you do no such thing, Mrs. Dean!” said her new father. “When
 I wish to speak to you I’ll come here. I want none of your prying at my
-[[house]]!”
+house!”
 
 He signed her to precede him; and casting back a look that cut my
 heart, she obeyed. I watched them, from the [[motifs/window|window]], walk down the
@@ -11077,7 +11077,7 @@ this is what she told me.
 Heights, was to run upstairs, without even wishing good-evening to me
 and Joseph; she shut herself into Linton’s room, and remained till
 morning. Then, while the master and Earnshaw were at breakfast, she
-entered the [[house]], and asked all in a quiver if the doctor might be
+entered the house, and asked all in a quiver if the doctor might be
 sent for? her cousin was very ill.
 
 “‘We know that!’ answered [[characters/heathcliff|Heathcliff]]; ‘but his life is not worth a
@@ -11112,7 +11112,7 @@ out of my wits, by saying, ‘Tell Mr. [[characters/heathcliff|Heathcliff]] that
 dying—I’m sure he is, this [[motifs/time|time]]. Get up, instantly, and tell him.’
 
 “Having uttered this speech, she vanished again. I lay a quarter of an
-hour listening and trembling. Nothing stirred—the [[house]] was quiet.
+hour listening and trembling. Nothing stirred—the house was quiet.
 
 “She’s mistaken, I said to myself. He’s got over it. I needn’t disturb
 them; and I began to doze. But my [[motifs/sleep|sleep]] was marred a second [[motifs/time|time]] by a
@@ -11135,7 +11135,7 @@ her.
 
 “‘He’s safe, and I’m free,’ she answered: ‘I should feel [[motifs/well|well]]—but,’ she
 continued, with a bitterness she couldn’t conceal, ‘you have left me so
-long to struggle against [[motifs/death|death]] [[Alone|alone]], that I feel and see only [[motifs/death|death]]! I
+long to struggle against [[motifs/death|death]] alone, that I feel and see only [[motifs/death|death]]! I
 feel like [[motifs/death|death]]!’
 
 “And she looked like it, too! I gave her a little wine. Hareton and
@@ -11169,7 +11169,7 @@ possession.
 
 “Nobody,” said Zillah, “ever approached her door, except that once, but
 I; and nobody asked anything about her. The first occasion of her
-coming down into the [[house]] was on a [[characters/sunday|Sunday]] afternoon. She had cried
+coming down into the house was on a [[characters/sunday|Sunday]] afternoon. She had cried
 out, when I carried up her dinner, that she couldn’t bear any longer
 being in the cold; and I told her the master was going to Thrushcross
 Grange, and Earnshaw and I needn’t hinder her from descending; so, as
@@ -11191,7 +11191,7 @@ or Baptists’ place, I can’t say which it is, at Gimmerton, a chapel.)
 and Hareton, with all his bashfulness, isn’t a model of nice behaviour.
 I let him know that his cousin would very likely sit with us, and she
 had been always used to see the Sabbath respected; so he had as good
-leave his guns and bits of indoor work [[Alone|alone]], while she stayed. He
+leave his guns and bits of indoor work alone, while she stayed. He
 coloured up at the news, and cast his eyes over his hands and clothes.
 The train-oil and gunpowder were shoved out of sight in a minute. I saw
 he meant to give her his company; and I guessed, by his way, he wanted
@@ -11207,7 +11207,7 @@ now? She’s as poor as you or I: poorer, I’ll be bound: you’re saving,
 and I’m doing my little all that [[motifs/road|road]].”
 
 Hareton allowed Zillah to give him her aid; and she flattered him into
-a good [[Humour|humour]]; so, when Catherine came, half forgetting her former
+a good humour; so, when Catherine came, half forgetting her former
 insults, he tried to make himself agreeable, by the housekeeper’s
 account.
 
@@ -11293,7 +11293,7 @@ hurt she gets, the more venomous she grows.”
 At first, on hearing this account from Zillah, I determined to leave my
 situation, take a cottage, and get Catherine to come and live with me:
 but Mr. [[characters/heathcliff|Heathcliff]] would as soon permit that as he would set up Hareton
-in an independent [[house]]; and I can see no remedy, at present, unless
+in an independent house; and I can see no remedy, at present, unless
 she could marry again; and that scheme it does not come within my
 province to arrange.
 
@@ -11502,7 +11502,7 @@ He bent his eyes to the ground, and walked moodily in. There was a
 restless, anxious expression in his countenance, I had never remarked
 there before; and he looked sparer in person. His daughter-in-law, on
 perceiving him through the [[motifs/window|window]], immediately escaped to the kitchen,
-so that I remained [[Alone|alone]].
+so that I remained alone.
 
 “I’m glad to see you out of doors again, Mr. Lockwood,” he said, in
 reply to my greeting; “from selfish motives partly: I don’t think I
@@ -11547,7 +11547,7 @@ glimpse of Catherine and annoy old Joseph; but Hareton received orders
 to lead up my [[motifs/horse|horse]], and my host himself escorted me to the door, so I
 could not fulfil my wish.
 
-“How dreary life gets over in that [[house]]!” I reflected, while riding
+“How dreary life gets over in that house!” I reflected, while riding
 down the [[motifs/road|road]]. “What a realisation of something more romantic than a
 fairy tale it would have been for Mrs. [[characters/linton-heathcliff|Linton Heathcliff]], had she and I
 struck up an attachment, as her good [[characters/nurse|nurse]] desired, and migrated
@@ -11565,7 +11565,7 @@ CHAPTER XXXII
 1802.—This September I was invited to devastate the moors of a friend
 in the north, and on my [[motifs/journey|journey]] to his abode, I unexpectedly came
 within fifteen miles of Gimmerton. The ostler at a roadside
-public-[[house]] was holding a pail of [[motifs/water|water]] to refresh my horses, when a
+public-house was holding a pail of [[motifs/water|water]] to refresh my horses, when a
 cart of very green oats, newly reaped, passed by, and he
 remarked,—“Yon’s frough Gimmerton, nah! They’re allas three wick’ after
 other folk wi’ ther harvest.”
@@ -11583,7 +11583,7 @@ the neighbourhood again. Having rested awhile, I directed my servant to
 inquire the way to the village; and, with great fatigue to our beasts,
 we managed the distance in some three hours.
 
-I left him there, and proceeded down the valley [[Alone|alone]]. The grey church
+I left him there, and proceeded down the valley alone. The grey church
 looked greyer, and the lonely churchyard lonelier. I distinguished a
 moor-sheep cropping the short turf on the graves. It was sweet, warm
 weather—too warm for travelling; but the heat did not hinder me from
@@ -11649,7 +11649,7 @@ wallflowers wafted on the air from amongst the homely fruit-trees.
 
 Both doors and lattices were open; and yet, as is usually the case in a
 coal-district, a fine red [[motifs/fire|fire]] illumined the chimney: the comfort which
-the eye derives from it renders the extra heat endurable. But the [[house]]
+the eye derives from it renders the extra heat endurable. But the house
 of [[works/wuthering-heights-(bronte)|Wuthering Heights]] is so large that the inmates have plenty of space
 for withdrawing out of its influence; and accordingly what inmates
 there were had stationed themselves not far from one of the windows. I
@@ -11693,7 +11693,7 @@ heart, if not by his mouth, to the lowest pit in the infernal regions
 if I showed my unfortunate person in his neighbourhood then; and
 feeling very mean and malignant, I skulked round to seek refuge in the
 kitchen. There was unobstructed admittance on that side also; and at
-the door sat my old friend [[characters/nelly-dean|Nelly Dean]], sewing and singing a [[Song|song]]; which
+the door sat my old friend [[characters/nelly-dean|Nelly Dean]], sewing and singing a song; which
 was often interrupted from within by harsh words of scorn and
 intolerance, uttered in far from musical accents.
 
@@ -11729,7 +11729,7 @@ walked from Gimmerton this evening?”
 there, I want to finish my business with your master; because I don’t
 think of having another opportunity in a hurry.”
 
-“What business, sir?” said Nelly, conducting me into the [[house]]. “He’s
+“What business, sir?” said Nelly, conducting me into the house. “He’s
 gone out at present, and won’t return soon.”
 
 “About the rent,” I answered.
@@ -11782,16 +11782,16 @@ myself we should get on in tolerable comfort. The delusion did not last
 long. Catherine, contented at first, in a brief space grew irritable
 and restless. For one thing, she was forbidden to move out of the
 [[motifs/garden|garden]], and it fretted her sadly to be confined to its narrow bounds as
-[[motifs/spring|spring]] drew on; for another, in following the [[house]], I was forced to
+[[motifs/spring|spring]] drew on; for another, in following the house, I was forced to
 quit her frequently, and she complained of [[concepts/loneliness|loneliness]]: she preferred
 quarrelling with Joseph in the kitchen to sitting at peace in her
 [[concepts/solitude|solitude]]. I did not mind their skirmishes: but Hareton was often
 obliged to seek the kitchen also, when the master wanted to have the
-[[house]] to himself; and though in the beginning she either left it at his
+house to himself; and though in the beginning she either left it at his
 approach, or quietly joined in my occupations, and shunned remarking or
 addressing him—and though he was always as sullen and silent as
 possible—after a while, she changed her behaviour, and became incapable
-of letting him [[Alone|alone]]: talking at him; commenting on his stupidity and
+of letting him alone: talking at him; commenting on his stupidity and
 idleness; expressing her [[concepts/wonder|wonder]] how he could endure the life he
 lived—how he could sit a whole evening staring into the [[motifs/fire|fire]], and
 dozing.
@@ -11869,7 +11869,7 @@ On Easter Monday, Joseph went to Gimmerton fair with some cattle; and,
 in the afternoon, I was busy getting up linen in the kitchen. Earnshaw
 sat, morose as usual, at the chimney corner, and my little mistress was
 beguiling an idle hour with drawing pictures on the [[motifs/window|window]]-panes,
-varying her amusement by smothered bursts of [[songs]], and whispered
+varying her amusement by smothered bursts of songs, and whispered
 ejaculations, and quick glances of annoyance and impatience in the
 direction of her cousin, who steadfastly smoked, and looked into the
 grate. At a notice that I could do with her no longer intercepting my
@@ -12042,7 +12042,7 @@ CHAPTER XXXIII
 
 
 On the morrow of that Monday, Earnshaw being still unable to follow his
-ordinary employments, and therefore remaining about the [[house]], I
+ordinary employments, and therefore remaining about the house, I
 speedily found it would be impracticable to retain my charge beside me,
 as heretofore. She got downstairs before me, and out into the [[motifs/garden|garden]],
 where she had seen her cousin performing some easy work; and when I
@@ -12223,7 +12223,7 @@ perceived her vacant seat, he sent me to call her. He spoke to none of
 us, ate very little, and went out directly afterwards, intimating that
 he should not return before evening.
 
-The two new friends established themselves in the [[house]] during his
+The two new friends established themselves in the house during his
 absence; where I heard Hareton sternly check his cousin, on her
 offering a revelation of her father-in-law’s conduct to his father. He
 said he wouldn’t suffer a word to be uttered in his disparagement: if
@@ -12331,7 +12331,7 @@ have lost her! [[motifs/well|Well]], Hareton’s aspect was the [[archetypes/gho
 my happiness, and my anguish—
 
 “But it is frenzy to repeat these thoughts to you: only it will let you
-know why, with a reluctance to be always [[Alone|alone]], his society is no
+know why, with a reluctance to be always alone, his society is no
 benefit; rather an aggravation of the constant torment I suffer: and it
 partly contributes to render me regardless how he and his cousin go on
 together. I can give them no attention any more.”
@@ -12367,7 +12367,7 @@ are yearning to attain it. They have yearned towards it so long, and so
 unwaveringly, that I’m convinced it _will_ be reached—and
 _soon_—because it has devoured my existence: I am swallowed up in the
 anticipation of its fulfilment. My confessions have not relieved me;
-but they may account for some otherwise unaccountable phases of [[Humour|humour]]
+but they may account for some otherwise unaccountable phases of humour
 which I show. O God! It is a long fight; I wish it were over!”
 
 He began to pace the room, muttering terrible things to himself, till I
@@ -12402,7 +12402,7 @@ I found he was still away. We were in April then: the weather was sweet
 and warm, the grass as green as showers and sun could make it, and the
 two [[characters/dwarf|dwarf]] apple-trees near the southern wall in full bloom. After
 breakfast, Catherine insisted on my bringing a chair and sitting with
-my work under the fir-trees at the end of the [[house]]; and she beguiled
+my work under the fir-trees at the end of the house; and she beguiled
 Hareton, who had perfectly recovered from his accident, to dig and
 arrange her little [[motifs/garden|garden]], which was shifted to that corner by the
 influence of Joseph’s complaints. I was comfortably revelling in the
@@ -12437,7 +12437,7 @@ like to ask directly.
 
 “No, I’m not hungry,” he answered, averting his head, and speaking
 rather contemptuously, as if he guessed I was trying to divine the
-occasion of his good [[Humour|humour]].
+occasion of his good humour.
 
 I felt perplexed: I didn’t know whether it were not a proper
 opportunity to offer a bit of admonition.
@@ -12448,7 +12448,7 @@ daresay you’ll catch a bad cold, or a fever: you have something the
 matter with you now!”
 
 “Nothing but what I can bear,” he replied; “and with the greatest
-pleasure, provided you’ll leave me [[Alone|alone]]: get in, and don’t annoy me.”
+pleasure, provided you’ll leave me alone: get in, and don’t annoy me.”
 
 I obeyed: and, in passing, I noticed he breathed as fast as a cat.
 
@@ -12512,7 +12512,7 @@ from prying.”
 Having swept the hearth and wiped the table, I departed; more perplexed
 than ever.
 
-He did not quit the [[house]] again that afternoon, and no one intruded on
+He did not quit the house again that afternoon, and no one intruded on
 his [[concepts/solitude|solitude]]; till, at eight o’[[motifs/clock|clock]], I deemed it proper, though
 unsummoned, to carry a candle and his supper to him. He was leaning
 against the ledge of an open lattice, but not looking out: his face was
@@ -12611,7 +12611,7 @@ sweep of his hand he cleared a vacant space in front among the
 breakfast things, and leant forward to gaze more at his ease.
 
 Now, I perceived he was not looking at the wall; for when I regarded
-him [[Alone|alone]], it seemed exactly that he gazed at something within two
+him alone, it seemed exactly that he gazed at something within two
 yards’ distance. And whatever it was, it communicated, apparently, both
 pleasure and [[motifs/pain|pain]] in exquisite extremes: at least the anguished, yet
 raptured, expression of his countenance suggested that idea. The
@@ -12627,7 +12627,7 @@ I sat, a model of patience, trying to attract his absorbed attention
 from its engrossing speculation; till he grew irritable, and got up,
 asking why I would not allow him to have his own [[motifs/time|time]] in taking his
 meals? and saying that on the next occasion I needn’t wait: I might set
-the things down and go. Having uttered these words he left the [[house]],
+the things down and go. Having uttered these words he left the house,
 slowly sauntered down the [[motifs/garden|garden]] path, and disappeared through the
 gate.
 
@@ -12729,10 +12729,10 @@ that the dead are not annihilated!”
 As soon as he heard the other members of the family stirring he retired
 to his den, and I breathed freer. But in the afternoon, while Joseph
 and Hareton were at their work, he came into the kitchen again, and,
-with a wild look, bid me come and sit in the [[house]]: he wanted somebody
+with a wild look, bid me come and sit in the house: he wanted somebody
 with him. I declined; telling him plainly that his strange talk and
 manner frightened me, and I had neither the nerve nor the will to be
-his companion [[Alone|alone]].
+his companion alone.
 
 “I believe you think me a fiend,” he said, with his dismal laugh:
 “something too horrible to live under a decent roof.” Then turning to
@@ -12748,10 +12748,10 @@ him groaning and murmuring to himself. Hareton was anxious to enter;
 but I bid him fetch Mr. Kenneth, and he should go in and see him. When
 he came, and I requested admittance and tried to open the door, I found
 it locked; and [[characters/heathcliff|Heathcliff]] bid us be damned. He was better, and would be
-left [[Alone|alone]]; so the doctor went away.
+left alone; so the doctor went away.
 
 The following evening was very wet: indeed, it poured down till
-day-[[motifs/dawn|dawn]]; and, as I took my morning walk round the [[house]], I observed
+day-[[motifs/dawn|dawn]]; and, as I took my morning walk round the house, I observed
 the master’s [[motifs/window|window]] swinging open, and the rain driving straight in. He
 cannot be in bed, I thought: those showers would drench him through. He
 must either be up or out. But I’ll make no more ado, I’ll go boldly and
@@ -12812,7 +12812,7 @@ himself: at present it is as smooth and verdant as its companion
 mounds—and I [[concepts/hope|hope]] its tenant sleeps as soundly. But the country folks,
 if you ask them, would swear on the [[historical-references/bible|Bible]] that he _walks_: there are
 those who speak to having met him near the church, and on the moor, and
-even within this [[house]]. Idle tales, you’ll say, and so say I. Yet that
+even within this house. Idle tales, you’ll say, and so say I. Yet that
 old man by the kitchen [[motifs/fire|fire]] affirms he has seen two on ’em looking out
 of his chamber [[motifs/window|window]] on every rainy [[motifs/night|night]] since his [[motifs/death|death]]:—and an odd
 thing happened to me about a month ago. I was going to the Grange one
@@ -12828,10 +12828,10 @@ skittish, and would not be guided.
 
 I saw nothing; but neither the sheep nor he would go on, so I bid him
 take the [[motifs/road|road]] lower down. He probably raised the phantoms from
-thinking, as he traversed the moors [[Alone|alone]], on the nonsense he had heard
+thinking, as he traversed the moors alone, on the nonsense he had heard
 his parents and companions repeat. Yet, still, I don’t like being out
 in the dark now; and I don’t like being left by myself in this grim
-[[house]]: I cannot help it; I shall be glad when they leave it, and shift
+house: I cannot help it; I shall be glad when they leave it, and shift
 to the Grange.
 
 “They are going to the Grange, then?” I said.
@@ -12841,7 +12841,7 @@ be on New Year’s Day.”
 
 “And who will live here then?”
 
-“Why, Joseph will take care of the [[house]], and, perhaps, a lad to keep
+“Why, Joseph will take care of the house, and, perhaps, a lad to keep
 him company. They will live in the kitchen, and the rest will be shut
 up.”
 
@@ -12860,7 +12860,7 @@ As they stepped on to the door-stones, and halted to take a last look
 at the [[motifs/moon|moon]]—or, more correctly, at each other by her light—I felt
 irresistibly impelled to escape them again; and, pressing a remembrance
 into the hand of Mrs. Dean, and disregarding her expostulations at my
-rudeness, I vanished through the kitchen as they opened the [[house]]-door;
+rudeness, I vanished through the kitchen as they opened the house-door;
 and so should have confirmed Joseph in his opinion of his
 fellow-servant’s gay indiscretions, had he not fortunately recognised
 me for a respectable character by the sweet ring of a sovereign at his

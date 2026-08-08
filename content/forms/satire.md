@@ -152,11 +152,11 @@ tags:
 - [[works/martin-chuzzlewit-(dickens)|Martin Chuzzlewit (Dickens)]]
 - [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 1207. He preached upon Breadth till it argued him narrow — (Dickinson)
-- 1226. The Popular Heart is a Cannon first — (Dickinson)
-- 1545. The Bible is an antique Volume — (Dickinson)
-- 234. You're right — the way is narrow — (Dickinson)
-- 401. What Soft — Cherubic Creatures — (Dickinson)
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1207_he_preached_upon_breadth_till_it_argued_him_narrow|1207. He preached upon Breadth till it argued him narrow — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1226_the_popular_heart_is_a_cannon_first|1226. The Popular Heart is a Cannon first — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1545_the_bible_is_an_antique_volume|1545. The Bible is an antique Volume — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0234_youre_right_the_way_is_narrow|234. You're right — the way is narrow — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0401_what_soft_cherubic_creatures|401. What Soft — Cherubic Creatures — (Dickinson)]]
 - [[works/a-fable-for-feasters-(eliot)|A Fable for Feasters (Eliot)]]
 - [[works/five-finger-exercises-(eliot)|Five-Finger Exercises (Eliot)]]
 - [[works/le-directeur-(eliot)|Le Directeur (Eliot)]]

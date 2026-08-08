@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]]
-**Archetypes:** (Reputed) Fallen Woman
+**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]]
 **Motifs:** [[motifs/flowers|Flowers]], [[motifs/decay|Decay]], [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/transience|Transience]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]

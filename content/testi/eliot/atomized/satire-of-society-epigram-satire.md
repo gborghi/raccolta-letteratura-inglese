@@ -96,7 +96,7 @@ Like the old man of the sea’s
 Hidden under coral islands
 Where worried bodies of drowned men drift down in the green [[motifs/silence|silence]],
 Dropping from fingers of surf.
-I looked for the head of Mr. Apollinax [[rolling]] under a chair
+I looked for the head of Mr. Apollinax rolling under a chair
 Or grinning over a screen
 With seaweed in its hair.
 I heard the beat of centaur’s hoofs over the hard turf
@@ -124,7 +124,7 @@ come quella del vecchio del mare
 nascosto sotto isole di corallo
 dove i corpi angosciati degli annegati vanno alla deriva giù nel verde [[motifs/silence|silenzio]],
 cadendo dalle dita della risacca.
-Cercai la testa di Mr. Apollinax che [[rolling|rotolava]] sotto una sedia
+Cercai la testa di Mr. Apollinax che rotolava sotto una sedia
 o ghignava sopra un paravento
 con le alghe fra i capelli.
 Udii il battito degli zoccoli del centauro sul duro tappeto erboso
@@ -797,7 +797,7 @@ Beyond the bone. [[concepts/pride|Pride]] snapped,
 [[archetypes/shadow|Shadow]] of [[concepts/pride|pride]] is long, in the long pass  
 No concurrence of bone.  
 V. Cape Ann  
-O quick quick quick, quick hear the [[Song|song]]-sparrow,  
+O quick quick quick, quick hear the song-sparrow,  
 Swamp-sparrow, fox-sparrow, vesper-sparrow  
 At [[motifs/dawn|dawn]] and dusk. Follow the [[motifs/dance|dance]]  
 Of the goldfinch at [[motifs/noon|noon]]. Leave to chance  
@@ -869,7 +869,7 @@ oltre l’osso. Spezzato l’[[concepts/pride|orgoglio]],
 l’[[archetypes/shadow|ombra]] dell’[[concepts/pride|orgoglio]] è lunga, nel lungo valico  
 nessuna concordia d’ossa.  
 V. Cape Ann  
-O presto presto presto, presto ascolta il passero [[Song|cantore]],  
+O presto presto presto, presto ascolta il passero cantore,  
 il passero di palude, il passero volpino, il passero vespertino  
 all’[[motifs/dawn|alba]] e all’imbrunire. Segui la [[motifs/dance|danza]]  
 del cardellino a [[motifs/noon|mezzogiorno]]. Lascia al caso  
@@ -954,7 +954,7 @@ You ought to know Mr. Mistoffelees! 1
 You’ve read of several kinds of Cat 1
 
 About the Author
-Thomas Stearns Eliot was born in St Louis, Missouri, in 1888. He came to England in 1914 and published his first book of [[Poems|poems]] in 1917. He received the Nobel Prize in Literature in 1948. Eliot died in 1965.
+Thomas Stearns Eliot was born in St Louis, Missouri, in 1888. He came to England in 1914 and published his first book of poems in 1917. He received the Nobel Prize in Literature in 1948. Eliot died in 1965.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -963,4 +963,4 @@ Dovreste conoscere Mr. Mistoffelees! 1
 Avete letto di parecchie specie di Gatto 1
 
 L’autore
-Thomas Stearns Eliot nacque a St Louis, Missouri, nel 1888. Venne in Inghilterra nel 1914 e pubblicò il suo primo libro di [[Poems|poesie]] nel 1917. Ricevette il Premio Nobel per la Letteratura nel 1948. Eliot morì nel 1965.
+Thomas Stearns Eliot nacque a St Louis, Missouri, nel 1888. Venne in Inghilterra nel 1914 e pubblicò il suo primo libro di poesie nel 1917. Ricevette il Premio Nobel per la Letteratura nel 1948. Eliot morì nel 1965.

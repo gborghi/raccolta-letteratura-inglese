@@ -95,5 +95,5 @@ tags:
 **Motifs:** [[motifs/journey|Journey]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/inn-tavern|Inn Tavern]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]]
 **Settings:** [[settings/france|France]], [[settings/spain|Spain]], [[settings/rural-england|Rural England]], [[settings/castle|Castle]], [[settings/europe|Europe]]
-**Archetypes:** Hero, Quest Hero, Mentor
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/quest-hero|Quest Hero]], [[archetypes/mentor|Mentor]]
 **Topoi:** [[topoi/quest|Quest]], [[topoi/open-road-homecoming|Open Road Homecoming]]

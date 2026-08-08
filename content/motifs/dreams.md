@@ -50,20 +50,20 @@ tags:
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
-- 103. I have a King, who does not speak — (Dickinson)
-- 1291. Until the Desert knows (Dickinson)
-- 1573. To the bright east she flies, (Dickinson)
-- 302. Like Some Old fashioned Miracle (Dickinson)
-- 319. The nearest Dream recedes — unrealized — (Dickinson)
-- 362. It struck me — every Day — (Dickinson)
-- 371. A precious — mouldering pleasure — 'tis — (Dickinson)
-- 414. 'Twas like a Maelstrom, with a notch, (Dickinson)
-- 450. Dreams — are well — but Waking's better, (Dickinson)
-- 518. Her sweet Weight on my Heart a Night (Dickinson)
-- 531. We dream — it is good we are dreaming — (Dickinson)
-- 617. Don't put up my Thread and Needle — (Dickinson)
-- 646. I think to Live — may be a Bliss (Dickinson)
-- 652. A Prison gets to be a friend — (Dickinson)
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0103_i_have_a_king_who_does_not_speak|103. I have a King, who does not speak — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1291_until_the_desert_knows|1291. Until the Desert knows (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1573_to_the_bright_east_she_flies|1573. To the bright east she flies, (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0302_like_some_old_fashioned_miracle|302. Like Some Old fashioned Miracle (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0319_the_nearest_dream_recedes_unrealized|319. The nearest Dream recedes — unrealized — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0362_it_struck_me_every_day|362. It struck me — every Day — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0371_a_precious_mouldering_pleasure_tis|371. A precious — mouldering pleasure — 'tis — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0414_twas_like_a_maelstrom_with_a_notch|414. 'Twas like a Maelstrom, with a notch, (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0450_dreams_are_well_but_wakings_better|450. Dreams — are well — but Waking's better, (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0518_her_sweet_weight_on_my_heart_a_night|518. Her sweet Weight on my Heart a Night (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0531_we_dream_it_is_good_we_are_dreaming|531. We dream — it is good we are dreaming — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0617_dont_put_up_my_thread_and_needle|617. Don't put up my Thread and Needle — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0646_i_think_to_live_may_be_a_bliss|646. I think to Live — may be a Bliss (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0652_a_prison_gets_to_be_a_friend|652. A Prison gets to be a friend — (Dickinson)]]
 - [[works/animula-(eliot)|Animula (Eliot)]]
 - [[works/eyes-that-last-i-saw-in-tears-(eliot)|Eyes that last I saw in tears (Eliot)]]
 - [[works/minor-poems-(eliot)|MINOR POEMS (Eliot)]]
@@ -98,9 +98,9 @@ tags:
 - [[works/to-one-in-paradise-(poe)|To One in Paradise (Poe)]]
 - [[works/a-midsummer-night’s-dream-(shakespeare)|A MIDSUMMER NIGHT’S DREAM (Shakespeare)]]
 - [[works/richard-iii-(shakespeare)|RICHARD III (Shakespeare)]]
-- Sonnet 129 (Shakespeare)
-- Sonnet 43 (Shakespeare)
-- Sonnet 87 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_129|Sonnet 129 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_043|Sonnet 43 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_087|Sonnet 87 (Shakespeare)]]
 - [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
 - [[works/eidolons-(whitman)|Eidolons (Whitman)]]
 - [[works/i-dream’d-in-a-dream-(whitman)|I Dream’d in a Dream (Whitman)]]

@@ -37,7 +37,7 @@ tags:
 
 **Topoi:** [[topoi/ubi-sunt|Ubi Sunt]]
 
-**Characters:** Mrs Humphrey Ward, Bayard
+**Characters:** [[characters/mrs-humphrey-ward|Mrs Humphrey Ward]], [[characters/bayard|Bayard]]
 
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/food-and-feasting|Food and Feasting]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/comradeship|Comradeship]]

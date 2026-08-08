@@ -69,13 +69,13 @@ tags:
 
 **Forms & Genres:** [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
 
-**Archetypes:** Death Personified (2), Lover, Fool
+**Archetypes:** [[archetypes/death-personified-(2)|Death Personified (2)]], [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
 
 **Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/london|London]]
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/journey-of-life|Journey of Life]], [[topoi/memento-mori|Memento Mori]]
 
-**Characters:** Death Personified, Frances Blogg, Edmund Clerihew Bentley, Lucian Oldershaw, Mrs. Blogg
+**Characters:** [[characters/death-personified|Death Personified]], [[characters/frances-blogg|Frances Blogg]], [[characters/edmund-clerihew-bentley|Edmund Clerihew Bentley]], [[characters/lucian-oldershaw|Lucian Oldershaw]], [[characters/mrs.-blogg|Mrs. Blogg]]
 
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/marriage|Marriage]], [[motifs/home|Home]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/book-reading|Book Reading]], [[motifs/fire|Fire]], [[motifs/sea|Sea]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/mortality|Mortality]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/death-and-love|Death and Love]], [[concepts/metamorphosis-transformation|Metamorphosis Transformation]], [[concepts/imagination|Imagination]], [[concepts/friendship|Friendship]]

@@ -62,14 +62,14 @@ tags:
 - [[works/scandal-fr-brown-(chesterton)|scandal Fr Brown (Chesterton)]]
 - [[works/upon-this-rock-(chesterton)|upon-this-rock (Chesterton)]]
 - [[works/whats-wrong-(chesterton)|whats wrong (Chesterton)]]
-- 1258. Who were the Father and the Son (Dickinson)
-- 1591. The Bobolink is gone — (Dickinson)
-- 1598. Who is it seeks my Pillow Nights — (Dickinson)
-- 234. You're right — the way is narrow — (Dickinson)
-- 343. My Reward for Being, was This. (Dickinson)
-- 357. God is a distant — stately Lover — (Dickinson)
-- 413. I never felt at Home — Below —- (Dickinson)
-- 528. Mine — by the Right of the White Election! (Dickinson)
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1258_who_were_the_father_and_the_son|1258. Who were the Father and the Son (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1591_the_bobolink_is_gone|1591. The Bobolink is gone — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1598_who_is_it_seeks_my_pillow_nights|1598. Who is it seeks my Pillow Nights — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0234_youre_right_the_way_is_narrow|234. You're right — the way is narrow — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0343_my_reward_for_being_was_this|343. My Reward for Being, was This. (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0357_god_is_a_distant_stately_lover|357. God is a distant — stately Lover — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0413_i_never_felt_at_home_below_-|413. I never felt at Home — Below —- (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0528_mine_by_the_right_of_the_white_election|528. Mine — by the Right of the White Election! (Dickinson)]]
 - [[works/micah-clarke-(conan-doyle)|Micah Clarke (Conan Doyle)]]
 
 </div>

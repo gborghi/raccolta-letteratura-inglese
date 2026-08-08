@@ -64,13 +64,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
-**Archetypes:** King, Corrupt Official, Martyr Saint
+**Archetypes:** [[archetypes/king|King]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/crown|Crown]], [[motifs/wheel|Wheel]]
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/ambition|Ambition]], [[concepts/pride|Pride]], [[concepts/conscience|Conscience]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/providence|Providence]], [[concepts/martyrdom|Martyrdom]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/reformation|Reformation]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 **Settings:** [[settings/court|Court]]
-**Characters:** Henry VIII, Cardinal Wolsey, Queen Katherine, Anne Bullen, Duke of Buckingham, Cranmer
+**Characters:** [[characters/henry-viii|Henry VIII]], [[characters/cardinal-wolsey|Cardinal Wolsey]], [[characters/queen-katherine|Queen Katherine]], [[characters/anne-bullen|Anne Bullen]], [[characters/duke-of-buckingham|Duke of Buckingham]], [[characters/cranmer|Cranmer]]
 
 ## Testo integrale / Full text
 

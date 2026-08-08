@@ -121,7 +121,7 @@ Nonostante gli sforzi del Dottore e le sue buone intenzioni…
 
 Le iniziative dell’associazione per attirare l’attenzione…
 
-Senza molto grande [[success|successo]], fino a quando non ci ho messo io stesso mano. La [[concepts/truth|verità]] è che.
+Senza molto grande successo, fino a quando non ci ho messo io stesso mano. La [[concepts/truth|verità]] è che.
 
 I membri si lasciarono andare a un tono di discussione troppo superficiale. I documenti…
 
@@ -279,7 +279,7 @@ E cresciuto in un feretro… Poi abbiamo avuto le “Confessioni di…”
 
 “Mangiatore di oppio”, eccellente, davvero eccellente! Una gloriosa [[concepts/imagination|immaginazione]], profonda e potente.
 
-La [[philosophy|filosofia]] consiste in speculazioni acute; c’è molta [[motifs/fire|fiamma]] e furia, ma anche molto.
+La filosofia consiste in speculazioni acute; c’è molta [[motifs/fire|fiamma]] e furia, ma anche molto.
 
 “La speziatura di ciò che è decisamente incomprensibile… È stato davvero un bel tocco.”
 
@@ -458,7 +458,7 @@ Leggere un po’ il “Dial” ti aiuterà molto.
 
 Evita, in questo caso, parole troppo lunghe e complicate; usa quelle il più semplici possibili.
 
-E scrivile al contrario. Leggi attentamente i [[Poems|poemi]] di Channing e citali.
+E scrivile al contrario. Leggi attentamente i poemi di Channing e citali.
 
 Titolo:  
 Ciò che dice su un “omino grassoccio con un’illusoria apparenza…”
@@ -797,7 +797,7 @@ Ricordali sempre con gratitudine.
 
 “Mia cara signorina Zenobia,” disse lui, mentre le [[motifs/tears|lacrime]] gli riempivano gli occhi.
 
-Gli occhi, “C’è qualcos’altro che posso fare per promuovere il [[success|successo]] di, ”
+Gli occhi, “C’è qualcos’altro che posso fare per promuovere il successo di, ”
 
 Qual è questa tua lodevole iniziativa? Lasciami riflettere… È davvero possibile.
 
@@ -960,7 +960,7 @@ Notwithstanding the good offices of the Doctor, and the strenuous
 
 exertions of the association to get itself into notice, it met
 
-with no very great [[success]] until I joined it. The [[concepts/truth|truth]] is, the
+with no very great success until I joined it. The [[concepts/truth|truth]] is, the
 
 members indulged in too flippant a tone of discussion. The papers
 
@@ -1151,7 +1151,7 @@ Nonostante gli sforzi del Dottore e le sue buone intenzioni…
 
 Le iniziative dell’associazione per attirare l’attenzione…
 
-Senza molto grande [[success|successo]], fino a quando non ci ho messo io stesso mano. La [[concepts/truth|verità]] è che.
+Senza molto grande successo, fino a quando non ci ho messo io stesso mano. La [[concepts/truth|verità]] è che.
 
 I membri si lasciarono andare a un tono di discussione troppo superficiale. I documenti…
 
@@ -1310,7 +1310,7 @@ and brought up in a coffin. Then we had the ‘Confessions of an
 
 Opium-eater’—fine, very fine!—glorious [[concepts/imagination|imagination]]—deep
 
-[[philosophy]] acute speculation—plenty of [[motifs/fire|fire]] and fury, and a good
+philosophy acute speculation—plenty of [[motifs/fire|fire]] and fury, and a good
 
 spicing of the decidedly unintelligible. That was a nice bit of
 
@@ -1511,7 +1511,7 @@ E cresciuto in un feretro… Poi abbiamo avuto le “Confessioni di…”
 
 “Mangiatore di oppio”, eccellente, davvero eccellente! Una gloriosa [[concepts/imagination|immaginazione]], profonda e potente.
 
-La [[philosophy|filosofia]] consiste in speculazioni acute; c’è molta [[motifs/fire|fiamma]] e furia, ma anche molto.
+La filosofia consiste in speculazioni acute; c’è molta [[motifs/fire|fiamma]] e furia, ma anche molto.
 
 “La speziatura di ciò che è decisamente incomprensibile… È stato davvero un bel tocco.”
 
@@ -1694,7 +1694,7 @@ A little reading of the ‘Dial’ will carry you a great way.
 
 Eschew, in this case, big words; get them as small as possible,
 
-and write them upside down. Look over Channing’s [[Poems|poems]] and quote
+and write them upside down. Look over Channing’s poems and quote
 
 what he says about a ‘fat little man with a delusive show of
 
@@ -1898,7 +1898,7 @@ Leggere un po’ il “Dial” ti aiuterà molto.
 
 Evita, in questo caso, parole troppo lunghe e complicate; usa quelle il più semplici possibili.
 
-E scrivile al contrario. Leggi attentamente i [[Poems|poemi]] di Channing e citali.
+E scrivile al contrario. Leggi attentamente i poemi di Channing e citali.
 
 Titolo:  
 Ciò che dice su un “omino grassoccio con un’illusoria apparenza…”
@@ -2236,7 +2236,7 @@ always remember them with gratitude.
 
 “My dear Miss Zenobia,” he said, while the [[motifs/tears|tears]] stood in his
 
-eyes, “is there anything else I can do to promote the [[success]] of
+eyes, “is there anything else I can do to promote the success of
 
 your laudable undertaking? Let me reflect! It is just possible
 
@@ -2246,7 +2246,7 @@ yourself drowned, or—choked with a chicken-bone, or—or
 
 hung,—or—bitten by a—but stay! Now I think me of it, there are a
 
-couple of very excellent bull-[[dogs]] in the yard—fine fellows, I
+couple of very excellent bull-dogs in the yard—fine fellows, I
 
 assure you—savage, and all that—indeed just the thing for your
 
@@ -2481,7 +2481,7 @@ Ricordali sempre con gratitudine.
 
 “Mia cara signorina Zenobia,” disse lui, mentre le [[motifs/tears|lacrime]] gli riempivano gli occhi.
 
-Gli occhi, “C’è qualcos’altro che posso fare per promuovere il [[success|successo]] di, ”
+Gli occhi, “C’è qualcos’altro che posso fare per promuovere il successo di, ”
 
 Qual è questa tua lodevole iniziativa? Lasciami riflettere… È davvero possibile.
 

@@ -24,11 +24,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Innocent
+**Archetypes:** [[archetypes/innocent|Innocent]]
 **Motifs:** [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/epigram|Epigram]], [[forms/elegy|Elegy]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

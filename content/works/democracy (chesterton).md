@@ -44,7 +44,7 @@ tags:
 
 **Motifs:** [[motifs/machine|Machine]]
 
-**Characters:** Thomas Jefferson, Jean-Jacques Rousseau
+**Characters:** [[characters/thomas-jefferson|Thomas Jefferson]], [[characters/jean-jacques-rousseau|Jean-Jacques Rousseau]]
 
 **Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/original-sin|Original Sin]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/distributism|Distributism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/democracy|Democracy]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/indirection-and-impersonal-systems|Indirection and Impersonal Systems]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

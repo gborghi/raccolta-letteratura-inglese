@@ -24,4 +24,4 @@ tags:
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
 **Themes & Concepts:** [[concepts/hypocrisy|Hypocrisy]], [[concepts/satire-of-society|Satire of Society]]
 **Settings:** [[settings/oxford|Oxford]]
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]

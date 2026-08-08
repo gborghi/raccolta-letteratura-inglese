@@ -49,11 +49,11 @@ tags:
 
 **Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 
-**Archetypes:** Common Man (2)
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
 **Motifs:** [[motifs/ship|Ship]]
 
-**Characters:** Mr. Robinson
+**Characters:** [[characters/mr.-robinson|Mr. Robinson]]
 
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/humility|Humility]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/reform|Reform]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/faith|Faith]], [[concepts/common-man|Common Man]], [[concepts/charity|Charity]], [[concepts/value-and-scarcity|Value and Scarcity]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]

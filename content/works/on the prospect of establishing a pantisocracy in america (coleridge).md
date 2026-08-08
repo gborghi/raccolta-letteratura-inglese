@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/golden-age|Golden Age]]
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Themes & Concepts:** [[concepts/hope|Hope]], [[concepts/reform|Reform]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 **Settings:** [[settings/new-england-america|New England America]]

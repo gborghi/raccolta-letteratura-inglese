@@ -27,7 +27,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/childhood|Childhood]], [[motifs/window|Window]], [[motifs/dreams|Dreams]]
 **Themes & Concepts:** [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/mortality|Mortality]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

@@ -55,7 +55,7 @@ tags:
 
 **Historical References:** [[historical-references/bible|Bible]]
 
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 **Motifs:** [[motifs/clock|Clock]], [[motifs/road|Road]], [[motifs/city|City]], [[motifs/supernatural|Supernatural]], [[motifs/stars|Stars]], [[motifs/chains|Chains]], [[motifs/horse|Horse]]

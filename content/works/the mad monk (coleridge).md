@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/blood|Blood]], [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/guilt|Guilt]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]

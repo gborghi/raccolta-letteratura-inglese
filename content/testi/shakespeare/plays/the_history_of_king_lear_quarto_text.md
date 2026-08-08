@@ -45,7 +45,7 @@ tags:
 | GONORIL | Sir, I do [[motifs/love\|love]] you more than words can wield the<br>matter;<br>Dearer than eyesight, space, or liberty;<br>Beyond what can be valued, rich or rare;<br>No less than life; with grace, health, [[concepts/beauty\|beauty]], [[concepts/honour\|honour]];<br>As much as [[archetypes/child\|child]] e’er loved, or father, friend;<br>A [[motifs/love\|love]] that makes breath poor and speech unable.<br>Beyond all manner of so much I [[motifs/love\|love]] you. |
 | [[characters/cordelia\|CORDELIA]] | (aside)<br>What shall [[characters/cordelia\|Cordelia]] do? [[motifs/love\|Love]] and be silent. |
 | LEAR | (to Gonoril)<br>Of all these bounds even from this line to this,<br>With shady forests and wide skirted meads,<br>We make thee lady. To thine and Albany’s issue<br>Be this perpetual.—What says our second daughter?<br>Our dearest [[characters/regan\|Regan]], wife to Cornwall, speak. |
-| [[characters/regan\|REGAN]] | Sir, I am made<br>Of the [[concepts/self\|self]]-same mettle that my sister is,<br>And prize me at her worth. In my true heart<br>I find she names my very deed of [[motifs/love\|love]]—<br>Only she came short, that I profess<br>Myself an enemy to all other joys<br>Which the most precious square of sense possesses,<br>And find I am [[Alone\|alone]] felicitate<br>In your dear highness’ [[motifs/love\|love]]. |
+| [[characters/regan\|REGAN]] | Sir, I am made<br>Of the [[concepts/self\|self]]-same mettle that my sister is,<br>And prize me at her worth. In my true heart<br>I find she names my very deed of [[motifs/love\|love]]—<br>Only she came short, that I profess<br>Myself an enemy to all other joys<br>Which the most precious square of sense possesses,<br>And find I am alone felicitate<br>In your dear highness’ [[motifs/love\|love]]. |
 | [[characters/cordelia\|CORDELIA]] | (aside) Then poor [[characters/cordelia\|Cordelia]]—<br>And yet not so, since I am sure my [[motifs/love\|love]]’s<br>More richer than my tongue. |
 | LEAR | (to [[characters/regan\|Regan]])<br>To thee and thine hereditary ever<br>Remain this ample third of our fair kingdom, No less in space, validity, and pleasure<br>Than that confirmed on Gonoril. (To [[characters/cordelia\|Cordelia]]) But<br>now our joy,<br>Although the last, not least in our dear [[motifs/love\|love]]:<br>What can you say to win a third more opulent<br>Than your sisters? |
 | [[characters/cordelia\|CORDELIA]] | Nothing, my lord. |
@@ -112,7 +112,7 @@ tags:
 | [[characters/regan\|REGAN]] | That’s most certain, and with you. Next month with us. |
 | GONORIL | You see how full of changes his age is. The observation we have made of it hath not been little. He always loved our sister most, and with what poor judgement he hath now cast her off appears too gross. |
 | [[characters/regan\|REGAN]] | ’Tis the infirmity of his age; yet he hath ever but slenderly known himself. |
-| GONORIL | The best and soundest of his [[motifs/time\|time]] hath been but rash; then must we look to receive from his age not [[Alone\|alone]] the imperfection of long-engrafted condition, but therewithal unruly waywardness that infirm and choleric years bring with them. |
+| GONORIL | The best and soundest of his [[motifs/time\|time]] hath been but rash; then must we look to receive from his age not alone the imperfection of long-engrafted condition, but therewithal unruly waywardness that infirm and choleric years bring with them. |
 | [[characters/regan\|REGAN]] | Such unconstant starts are we like to have from him as this of [[characters/kent\|Kent]]’s banishment. |
 | GONORIL | There is further compliment of leave-taking between France and him. Pray, let’s hit together. If our father carry authority with such dispositions as he bears, this last surrender of his will but offend us. |
 | [[characters/regan\|REGAN]] | We shall further think on’t. |
@@ -272,7 +272,7 @@ tags:
 | [[archetypes/fool\|FOOL]] | Why, after I have cut the egg in the middle and eat up the meat, the two crowns of the egg. When thou clovest thy [[motifs/crown\|crown]] i‘th’ middle and gavest away both parts, thou borest thy ass o’th’ back o’er the dirt. Thou hadst little wit in thy bald [[motifs/crown\|crown]] when thou gavest thy golden one away. If I speak like myself in this, let him be whipped that first finds it so. |
 | *(didascalia)* | Sings |
 | [[archetypes/fool\|FOOL]] | Fools had ne’er less wit in a year,<br>For wise men are grown foppish.<br>They know not how their wits do wear,<br>Their manners are so apish. |
-| LEAR | When were you wont to be so full of [[songs]], sirrah? |
+| LEAR | When were you wont to be so full of songs, sirrah? |
 | [[archetypes/fool\|FOOL]] | I have used it, nuncle, ever since thou madest thy daughters thy mother; for when thou gavest them the rod and puttest down thine own breeches, |
 | *(didascalia)* | Sings |
 | [[archetypes/fool\|FOOL]] | Then they for sudden joy did weep, And I for sorrow sung,<br>That such a [[archetypes/king\|king]] should play bo-peep<br>And go the fools among.<br>Prithee, nuncle, keep a schoolmaster that can teach thy [[archetypes/fool\|fool]] to lie. I would fain learn to lie. |
@@ -344,7 +344,7 @@ tags:
 | LEAR | I did her wrong. |
 | [[archetypes/fool\|FOOL]] | Canst tell how an oyster makes his shell? |
 | LEAR | No. |
-| [[archetypes/fool\|FOOL]] | Nor I neither; but I can tell why a snail has a [[house]]. |
+| [[archetypes/fool\|FOOL]] | Nor I neither; but I can tell why a snail has a house. |
 | LEAR | Why? |
 | [[archetypes/fool\|FOOL]] | Why, to put his head in, not to give it away to his daughter and leave his horns without a case. |
 | LEAR | I will forget my [[concepts/nature\|nature]]. So kind a father!<br>Be my horses ready? |
@@ -379,12 +379,12 @@ tags:
 | *(didascalia)* | [[characters/edgar\|Edgar]] climbs down |
 | [[characters/edmund\|EDMUND]] | My father watches. O, fly this place.<br>Intelligence is given where you are hid.<br>You have now the good advantage of the [[motifs/night\|night]].<br>Have you not spoken ‘gainst the Duke of Cornwall<br>aught?<br>He’s coming hither now, in the [[motifs/night\|night]], i’th’ haste,<br>And [[characters/regan\|Regan]] with him. Have you nothing said<br>Upon his party against the Duke of Albany?<br>Advise you— |
 | [[characters/edgar\|EDGAR]] | I am sure on’t, not a word. |
-| [[characters/edmund\|EDMUND]] | I hear my father coming. Pardon me.<br>In cunning I must draw my [[Sword\|sword]] upon you.<br>Seem to defend yourself. Now, quit you [[motifs/well\|well]].<br>(Calling) Yield, come before my father. Light here,<br>here!<br>(To [[characters/edgar\|Edgar]]) Fly, brother, fly! (Calling) Torches, torches!<br>(To [[characters/edgar\|Edgar]]) So, farewell. |
+| [[characters/edmund\|EDMUND]] | I hear my father coming. Pardon me.<br>In cunning I must draw my sword upon you.<br>Seem to defend yourself. Now, quit you [[motifs/well\|well]].<br>(Calling) Yield, come before my father. Light here,<br>here!<br>(To [[characters/edgar\|Edgar]]) Fly, brother, fly! (Calling) Torches, torches!<br>(To [[characters/edgar\|Edgar]]) So, farewell. |
 | *(didascalia)* | Exit [[characters/edgar\|Edgar]] |
 | [[characters/edmund\|EDMUND]] | Some [[motifs/blood\|blood]] drawn on me would beget opinion<br>Of my more fierce endeavour.<br>He wounds his arm<br>I have seen<br>Drunkards do more than this in sport. (Calling) Father,<br>father!<br>Stop, stop! Ho, help! |
 | *(didascalia)* | Enter the [[characters/duke-of-gloucester\|Duke of Gloucester]] and others |
 | [[characters/gloucester\|GLOUCESTER]] | Now, [[characters/edmund\|Edmund]], where is the [[archetypes/villain\|villain]]? |
-| [[characters/edmund\|EDMUND]] | Here stood he in the dark, his sharp [[Sword\|sword]] out,<br>Warbling of wicked charms, conjuring the [[motifs/moon\|moon]]<br>To stand ’s auspicious mistress. |
+| [[characters/edmund\|EDMUND]] | Here stood he in the dark, his sharp sword out,<br>Warbling of wicked charms, conjuring the [[motifs/moon\|moon]]<br>To stand ’s auspicious mistress. |
 | [[characters/gloucester\|GLOUCESTER]] | But where is he? |
 | [[characters/edmund\|EDMUND]] | Look, sir, I bleed. |
 | [[characters/gloucester\|GLOUCESTER]] | Where is the [[archetypes/villain\|villain]], [[characters/edmund\|Edmund]]? |
@@ -392,7 +392,7 @@ tags:
 | [[characters/gloucester\|GLOUCESTER]] | Pursue him, go after. |
 | *(didascalia)* | Exeunt others |
 | [[characters/gloucester\|GLOUCESTER]] | By no means what? |
-| [[characters/edmund\|EDMUND]] | Persuade me to the murder of your lordship,<br>But that I told him the revengive gods<br>’Gainst parricides did all their thunders bend,<br>Spoke with how manifold and strong a bond<br>The [[archetypes/child\|child]] was bound to the father. Sir, in fine,<br>Seeing how loathly opposite I stood<br>To his unnatural purpose, with fell motion,<br>With his prepared [[Sword\|sword]] he charges [[motifs/home\|home]]<br>My unprovided [[concepts/body\|body]], lanced mine arm;<br>But when he saw my best alarumed spirits<br>Bold in the quarrel’s rights, roused to the encounter,<br>Or whether ghasted by the noise I made |
+| [[characters/edmund\|EDMUND]] | Persuade me to the murder of your lordship,<br>But that I told him the revengive gods<br>’Gainst parricides did all their thunders bend,<br>Spoke with how manifold and strong a bond<br>The [[archetypes/child\|child]] was bound to the father. Sir, in fine,<br>Seeing how loathly opposite I stood<br>To his unnatural purpose, with fell motion,<br>With his prepared sword he charges [[motifs/home\|home]]<br>My unprovided [[concepts/body\|body]], lanced mine arm;<br>But when he saw my best alarumed spirits<br>Bold in the quarrel’s rights, roused to the encounter,<br>Or whether ghasted by the noise I made |
 | *(didascalia)* | Or   I know not, |
 | [[characters/edmund\|EDMUND]] | But suddenly he fled. |
 | [[characters/gloucester\|GLOUCESTER]] | Let him fly far,<br>Not in this land shall he remain uncaught,<br>And found, dispatch. The noble Duke my master,<br>My worthy arch and patron, comes tonight.<br><br>By his authority I will proclaim it<br>That he which finds him shall deserve our thanks,<br>Bringing the murderous caitiff to the stake;<br>He that conceals him, [[motifs/death\|death]]. |
@@ -410,7 +410,7 @@ tags:
 | [[characters/regan\|REGAN]] | Was he not companion with the riotous knights<br>That tend upon my father? |
 | [[characters/gloucester\|GLOUCESTER]] | I know not, madam. ’Tis too bad, too bad. |
 | [[characters/edmund\|EDMUND]] | Yes, madam, he was. |
-| [[characters/regan\|REGAN]] | No marvel, then, though he were ill affected.<br>’Tis they have put him on the old man’s [[motifs/death\|death]],<br>To have the spoil and waste of his revenues.<br>I have this present evening from my sister<br>Been [[motifs/well\|well]] informed of them, and with such cautions<br>That if they come to sojourn at my [[house]]<br>I’ll not be there. |
+| [[characters/regan\|REGAN]] | No marvel, then, though he were ill affected.<br>’Tis they have put him on the old man’s [[motifs/death\|death]],<br>To have the spoil and waste of his revenues.<br>I have this present evening from my sister<br>Been [[motifs/well\|well]] informed of them, and with such cautions<br>That if they come to sojourn at my house<br>I’ll not be there. |
 | CORNWALL | Nor I, assure thee, [[characters/regan\|Regan]].<br>[[characters/edmund\|Edmund]], I heard that you have shown your father<br>A childlike office. |
 | [[characters/edmund\|EDMUND]] | ’Twas my duty, sir. |
 | [[characters/gloucester\|GLOUCESTER]] | (to Cornwall)<br>He did betray his practice, and received<br>This hurt you see striving to apprehend him. |
@@ -425,7 +425,7 @@ tags:
 | *(didascalia)* | Exeunt |
 | [[characters/gloucester\|GLOUCESTER]] | Sc. 7 |
 | *(didascalia)* | Enter the Earl of [[characters/kent\|Kent]], disguised, at one door, and Oswald the steward, at another door |
-| OSWALD | Good even to thee, friend. Art of the [[house]]? |
+| OSWALD | Good even to thee, friend. Art of the house? |
 | [[characters/kent\|KENT]] | Ay. |
 | OSWALD | Where may we set our horses? |
 | [[characters/kent\|KENT]] | I’th’ mire. |
@@ -439,7 +439,7 @@ tags:
 | [[characters/kent\|KENT]] | A knave, a rascal, an eater of broken meats, a base, proud, shallow, beggarly, three-suited, hundred-pound, filthy worsted-stocking knave; a lily-livered, action-taking knave; a whoreson, glass-gazing, superfinical rogue; one-trunk-inheriting slave; one that wouldst be a bawd in way of good service, and art nothing but the composition of a knave, beggar, coward, pander, and the son and heir of a mongrel bitch, whom I will beat into clamorous whining if thou deny the least syllable of the addition. |
 | OSWALD | What a monstrous fellow art thou, thus to rail on one that’s neither known of thee nor knows thee! |
 | [[characters/kent\|KENT]] | What a brazen-faced varlet art thou, to deny thou knowest me! Is it two days ago since I beat thee and tripped up thy heels before the [[archetypes/king\|King]]? Draw, you rogue; for though it be [[motifs/night\|night]], the [[motifs/moon\|moon]] shines. |
-| *(didascalia)* | He draws his [[Sword\|sword]] |
+| *(didascalia)* | He draws his sword |
 | [[characters/kent\|KENT]] | I’ll make a sop of the moonshine o’ you. Draw, you whoreson, cullionly barber-monger, draw! |
 | OSWALD | Away. I have nothing to do with thee. |
 | [[characters/kent\|KENT]] | Draw, you rascal. You bring letters against the [[archetypes/king\|King]], and take [[concepts/vanity\|Vanity]] the puppet’s part against the royalty of her father. Draw, you rogue, or I’ll so carbonado your shanks—draw, you rascal, come your ways! |
@@ -463,7 +463,7 @@ tags:
 | CORNWALL | Peace, sir. You beastly knave, have you no reverence? |
 | [[characters/kent\|KENT]] | Yes, sir, but anger has a privilege. |
 | CORNWALL | Why art thou angry? |
-| [[characters/kent\|KENT]] | That such a slave as this should wear a [[Sword\|sword]],<br>That wears no honesty. Such smiling rogues<br>As these, like rats, oft bite those cords in twain<br>Which are too entrenched to unloose, smooth every<br>passion<br>That in the natures of their lords [[archetypes/rebel\|rebel]],<br>Bring oil to [[motifs/fire\|fire]], [[motifs/snow\|snow]] to their colder moods,<br>Renege, affirm, and turn their halcyon beaks<br>With every gale and vary of their masters,<br>Knowing naught, like [[dogs]], but following.<br>(To Oswald) A plague upon your epileptic visage!<br>Smile you my speeches as I were a [[archetypes/fool\|fool]]?<br>Goose, an I had you upon Sarum Plain<br>I’d send you cackling [[motifs/home\|home]] to Camelot. |
+| [[characters/kent\|KENT]] | That such a slave as this should wear a sword,<br>That wears no honesty. Such smiling rogues<br>As these, like rats, oft bite those cords in twain<br>Which are too entrenched to unloose, smooth every<br>passion<br>That in the natures of their lords [[archetypes/rebel\|rebel]],<br>Bring oil to [[motifs/fire\|fire]], [[motifs/snow\|snow]] to their colder moods,<br>Renege, affirm, and turn their halcyon beaks<br>With every gale and vary of their masters,<br>Knowing naught, like dogs, but following.<br>(To Oswald) A plague upon your epileptic visage!<br>Smile you my speeches as I were a [[archetypes/fool\|fool]]?<br>Goose, an I had you upon Sarum Plain<br>I’d send you cackling [[motifs/home\|home]] to Camelot. |
 | CORNWALL | What, art thou mad, old fellow? |
 | *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] to [[characters/kent\|Kent]] How fell you out? Say that. |
 | [[characters/kent\|KENT]] | No contraries hold more antipathy<br>Than I and such a knave. |
@@ -507,7 +507,7 @@ tags:
 | KNIGHT | As I learned,<br>The [[motifs/night\|night]] before there was no purpose<br>Of his remove. |
 | [[characters/kent\|KENT]] | (waking) Hail to thee, noble master. |
 | LEAR | How! Mak’st thou this shame thy pastime? |
-| [[archetypes/fool\|FOOL]] | Ha, ha, look, he wears cruel garters! Horses are tied by the heads, [[dogs]] and bears by th’ neck, monkeys by th’ loins, and men by th’ legs. When a man’s over-lusty at legs, then he wears wooden nether-stocks. |
+| [[archetypes/fool\|FOOL]] | Ha, ha, look, he wears cruel garters! Horses are tied by the heads, dogs and bears by th’ neck, monkeys by th’ loins, and men by th’ legs. When a man’s over-lusty at legs, then he wears wooden nether-stocks. |
 | LEAR | (to [[characters/kent\|Kent]])<br>What’s he that hath so much thy place mistook<br>To set thee here? |
 | [[characters/kent\|KENT]] | It is both he and she:<br>Your son and daughter. |
 | LEAR | No. |
@@ -517,7 +517,7 @@ tags:
 | LEAR | No, no, they would not. |
 | [[characters/kent\|KENT]] | Yes, they have. |
 | LEAR | By Jupiter, I swear no. They durst not do‘t,<br>They would not, could not do’t. ’Tis worse than murder,<br>To do upon respect such violent outrage.<br>Resolve me with all modest haste which way<br>Thou mayst deserve or they propose this usage,<br>Coming from us. |
-| [[characters/kent\|KENT]] | My lord, when at their [[motifs/home\|home]]<br>I did commend your highness’ letters to them,<br>Ere I was risen from the place that showed<br>My duty kneeling, came there a reeking post<br>Stewed in his haste, half breathless, panting forth<br>From Gonoril, his mistress, salutations,<br>Delivered letters spite of intermission,<br>Which presently they read, on whose contents<br>They summoned up their meiny, straight took [[motifs/horse\|horse]],<br>Commanded me to follow and attend<br>The leisure of their answer, gave me cold looks;<br>And meeting here the other messenger,<br>Whose welcome I perceived had poisoned mine—<br>Being the very fellow that of late<br>Displayed so saucily against your highness—<br>Having more man than wit about me, drew.<br>He raised the [[house]] with loud and coward cries.<br>Your son and daughter found this trespass worth<br>This shame which here it suffers. |
+| [[characters/kent\|KENT]] | My lord, when at their [[motifs/home\|home]]<br>I did commend your highness’ letters to them,<br>Ere I was risen from the place that showed<br>My duty kneeling, came there a reeking post<br>Stewed in his haste, half breathless, panting forth<br>From Gonoril, his mistress, salutations,<br>Delivered letters spite of intermission,<br>Which presently they read, on whose contents<br>They summoned up their meiny, straight took [[motifs/horse\|horse]],<br>Commanded me to follow and attend<br>The leisure of their answer, gave me cold looks;<br>And meeting here the other messenger,<br>Whose welcome I perceived had poisoned mine—<br>Being the very fellow that of late<br>Displayed so saucily against your highness—<br>Having more man than wit about me, drew.<br>He raised the house with loud and coward cries.<br>Your son and daughter found this trespass worth<br>This shame which here it suffers. |
 | LEAR | O, how this mother swells up toward my heart!<br>Histerica passio, down, thou climbing sorrow;<br>Thy element’s betow.—Where is this daughter? |
 | [[characters/kent\|KENT]] | With the Earl, sir, within. |
 | LEAR | Follow me not; stay there. |
@@ -546,11 +546,11 @@ tags:
 | CORNWALL | Hail to your grace. |
 | *(didascalia)* | [[characters/kent\|Kent]] here set at liberty |
 | [[characters/regan\|REGAN]] | I am glad to see your highness. |
-| LEAR | [[characters/regan\|Regan]], I think you are. I know what reason<br>I have to think so. If thou shouldst not be glad<br>I would [[divorce]] me from thy mother’s shrine,<br>Sepulchring an adultress. (To [[characters/kent\|Kent]]) Yea, are you free?<br>Some other [[motifs/time\|time]] for that.—Belovèd [[characters/regan\|Regan]],<br>Thy sister is naught. O, [[characters/regan\|Regan]], she hath tied<br>Sharp-toothed unkindness like a vulture here.<br>I can scarce speak to thee. Thou’lt not believe<br>Of how deplored a quality—O, [[characters/regan\|Regan]]! |
+| LEAR | [[characters/regan\|Regan]], I think you are. I know what reason<br>I have to think so. If thou shouldst not be glad<br>I would divorce me from thy mother’s shrine,<br>Sepulchring an adultress. (To [[characters/kent\|Kent]]) Yea, are you free?<br>Some other [[motifs/time\|time]] for that.—Belovèd [[characters/regan\|Regan]],<br>Thy sister is naught. O, [[characters/regan\|Regan]], she hath tied<br>Sharp-toothed unkindness like a vulture here.<br>I can scarce speak to thee. Thou’lt not believe<br>Of how deplored a quality—O, [[characters/regan\|Regan]]! |
 | [[characters/regan\|REGAN]] | I pray you, sir, take patience. I have [[concepts/hope\|hope]]<br>You less know how to value her [[motifs/desert\|desert]]<br>Than she to slack her duty. |
 | LEAR | My curses on her. |
 | [[characters/regan\|REGAN]] | O sir, you are old.<br>[[concepts/nature\|Nature]] in you stands on the very verge<br>Of her confine. You should be ruled and led<br>By some discretion that discerns your state<br>Better than you yourself. Therefore I pray<br>That to our sister you do make return;<br>Say you have wronged her, sir. |
-| LEAR | Ask her [[concepts/forgiveness\|forgiveness]]?<br>Do you mark how this becomes the [[house]]? |
+| LEAR | Ask her [[concepts/forgiveness\|forgiveness]]?<br>Do you mark how this becomes the house? |
 | *(didascalia)* | Kneeling ‘Dear daughter, I confess that I am old. |
 | LEAR | Age is unnecessary. On my knees I beg<br>That you’ll vouchsafe me raiment, bed, and food.’ |
 | [[characters/regan\|REGAN]] | Good sir, no more. These are unsightly tricks.<br>Return you to my sister. |
@@ -583,7 +583,7 @@ tags:
 | LEAR | Now I prithee, daughter, do not make me mad.<br>I will not trouble thee, my [[archetypes/child\|child]]. Farewell.<br>We’ll no more meet, no more see one another.<br>But yet thou art my flesh, my [[motifs/blood\|blood]], my daughter—<br>Or rather a disease that lies within my flesh,<br>Which I must needs call mine. Thou art a boil,<br>A plague-sore, an embossed carbuncle<br>In my corrupted [[motifs/blood\|blood]]. But I’ll not chide thee.<br>Let shame come when it will, I do not call it.<br>I do not bid the thunder-bearer shoot,<br>Nor tell tales of thee to high-judging Jove.<br>Mend when thou canst; be better at thy leisure.<br>I can be patient, I can stay with [[characters/regan\|Regan]],<br>I and my hundred knights. |
 | [[characters/regan\|REGAN]] | Not altogether so, sir.<br>I look not for you yet, nor am provided<br>For your fit welcome. Give ear, sir, to my sister;<br>For those that mingle reason with your passion<br>Must be content to think you are old, and so—<br>But she knows what she does. |
 | LEAR | Is this [[motifs/well\|well]] spoken now? |
-| [[characters/regan\|REGAN]] | I dare avouch it, sir. What, fifty followers?<br>Is it not [[motifs/well\|well]]? What should you need of more,<br>Yea, or so many, sith that both charge and danger<br>Speaks ‘gainst so great a number? How in a [[house]]<br>Should many people under two commands<br>Hold amity? ’Tis hard, almost impossible. |
+| [[characters/regan\|REGAN]] | I dare avouch it, sir. What, fifty followers?<br>Is it not [[motifs/well\|well]]? What should you need of more,<br>Yea, or so many, sith that both charge and danger<br>Speaks ‘gainst so great a number? How in a house<br>Should many people under two commands<br>Hold amity? ’Tis hard, almost impossible. |
 | GONORIL | Why might not you, my lord, receive attendance<br>From those that she calls servants, or from mine? |
 | [[characters/regan\|REGAN]] | Why not, my lord? If then they chanced to slack you,<br>We could control them. If you will come to me—<br>For now I spy a danger—I entreat you<br>To bring but five-and-twenty; to no more<br>Will I give place or notice. |
 | LEAR | I gave you all. |
@@ -591,14 +591,14 @@ tags:
 | LEAR | Made you my guardians, my depositaries,<br>But kept a reservation to be followed<br>With such a number. What, must I come to you<br>With five-and-twenty, [[characters/regan\|Regan]]? Said you so? |
 | [[characters/regan\|REGAN]] | And speak’t again, my lord. No more with me. |
 | LEAR | Those wicked creatures yet do seem [[motifs/well\|well]] favoured<br>When others are more wicked. Not being the worst<br>Stands in some rank of praise. (To Gonoril) I’ll go with<br>thee.<br>Thy fifty yet doth [[topoi/double\|double]] five-and-twenty,<br>And thou art twice her [[motifs/love\|love]]. |
-| GONORIL | Hear me, my lord.<br>What need you five-and-twenty, ten, or five,<br>To follow in a [[house]] where twice so many<br>Have a command to tend you? |
+| GONORIL | Hear me, my lord.<br>What need you five-and-twenty, ten, or five,<br>To follow in a house where twice so many<br>Have a command to tend you? |
 | [[characters/regan\|REGAN]] | What needs one? |
 | LEAR | O, reason not the need! Our basest beggars<br>Are in the poorest thing superfluous.<br>Allow not [[concepts/nature\|nature]] more than [[concepts/nature\|nature]] needs,<br>Man’s life is cheap as beast’s. Thou art a lady.<br>If only to go warm were gorgeous,<br>Why, [[concepts/nature\|nature]] needs not what thou, gorgeous, wearest,<br>Which scarcely keeps thee warm. But for true need—<br>You heavens, give me that patience, patience I need.<br>You see me here, you gods, a poor old fellow,<br>As full of grief as age, wretched in both.<br>If it be you that stirs these daughters’ hearts<br>Against their father, [[archetypes/fool\|fool]] me not so much<br>To bear it tamely. Touch me with noble anger.<br>O, let not women’s weapons, [[motifs/water\|water]]-drops,<br>Stain my man’s cheeks! No, you unnatural hags,<br>I will have such revenges on you both<br>That all the world shall—I will do such things—<br>What they are, yet I know not; but they shall be<br>The terrors of the earth. You think I’ll weep.<br>No, I’ll not weep. |
 | *(didascalia)* | [[motifs/storm\|Storm]] within |
 | LEAR | I have full cause of weeping, but this heart<br>Shall break into a hundred thousand flaws<br>Or ere I’ll weep.—O [[archetypes/fool\|fool]], I shall go mad! |
 | *(didascalia)* | Exeunt Lear, [[characters/gloucester\|Gloucester]], [[characters/kent\|Kent]], Knight, and [[archetypes/fool\|Fool]] |
 | CORNWALL | Let us withdraw. ’Twill be a [[motifs/storm\|storm]]. |
-| [[characters/regan\|REGAN]] | This [[house]] is little. The old man and his people<br>Cannot be [[motifs/well\|well]] bestowed. |
+| [[characters/regan\|REGAN]] | This house is little. The old man and his people<br>Cannot be [[motifs/well\|well]] bestowed. |
 | GONORIL | ’Tis his own blame;<br>Hath put himself from rest, and must needs taste his folly. |
 | [[characters/regan\|REGAN]] | For his particular I’ll receive him gladly,<br>But not one follower. |
 | CORNWALL | So am I purposed. Where is my lord of [[characters/gloucester\|Gloucester]]? |
@@ -627,11 +627,11 @@ tags:
 | [[characters/kent\|KENT]] | Sc. 9 |
 | *(didascalia)* | [[motifs/storm\|Storm]]. Enter [[characters/king-lear\|King Lear]] and his [[archetypes/fool\|Fool]] |
 | LEAR | Blow, [[motifs/wind\|wind]], and crack your cheeks! Rage, blow,<br>You cataracts and hurricanoes, spout<br>Till you have drenched the steeples, drowned the<br>cocks!<br>You sulphurous and thought-executing fires,<br>Vaunt-couriers to oak-cleaving thunderbolts,<br>Singe my white head; and thou all-shaking thunder,<br>Smite flat the thick rotundity of the world,<br>Crack [[concepts/nature\|nature]]’s mould, all germens spill at once<br>That make ingrateful man. |
-| [[archetypes/fool\|FOOL]] | O nuncle, [[settings/court\|court]] holy [[motifs/water\|water]] in a dry [[house]] is better than this rain-[[motifs/water\|water]] out o’ door. Good nuncle, in, and ask thy daughters blessing. Here’s a [[motifs/night\|night]] pities neither wise man nor [[archetypes/fool\|fool]]. |
+| [[archetypes/fool\|FOOL]] | O nuncle, [[settings/court\|court]] holy [[motifs/water\|water]] in a dry house is better than this rain-[[motifs/water\|water]] out o’ door. Good nuncle, in, and ask thy daughters blessing. Here’s a [[motifs/night\|night]] pities neither wise man nor [[archetypes/fool\|fool]]. |
 | LEAR | Rumble thy bellyful; spit, [[motifs/fire\|fire]]; spout, rain.<br>Nor rain, [[motifs/wind\|wind]], thunder, [[motifs/fire\|fire]] are my daughters.<br>I tax not you, you elements, with unkindness.<br>I never gave you kingdom, called you children.<br>You owe me no subscription. Why then, let fall<br>Your horrible pleasure. Here I stand your slave,<br>A poor, infirm, weak and despised old man,<br>But yet I call you servile ministers,<br>That have with two pernicious daughters joined<br>Your high engendered battle ‘gainst a head<br>So old and white as this. O, ’tis foul! |
-| [[archetypes/fool\|FOOL]] | He that has a [[house]] to put his head in has a good headpiece. |
+| [[archetypes/fool\|FOOL]] | He that has a house to put his head in has a good headpiece. |
 | *(didascalia)* | Sings |
-| [[archetypes/fool\|FOOL]] | The codpiece that will [[house]] Before the head has any,<br>The head and he shall louse,<br>So beggars marry many.<br><br>The man that makes his toe<br>What he his heart should make<br>Shall have a corn cry woe,<br>And turn his [[motifs/sleep\|sleep]] to wake—<br>for there was never yet fair woman but she made mouths in a glass. |
+| [[archetypes/fool\|FOOL]] | The codpiece that will house Before the head has any,<br>The head and he shall louse,<br>So beggars marry many.<br><br>The man that makes his toe<br>What he his heart should make<br>Shall have a corn cry woe,<br>And turn his [[motifs/sleep\|sleep]] to wake—<br>for there was never yet fair woman but she made mouths in a glass. |
 | LEAR | No, I will be the pattern of all patience. |
 | *(didascalia)* | He sits. Enter the Earl of [[characters/kent\|Kent]] disguised |
 | LEAR | I will say nothing. |
@@ -639,19 +639,19 @@ tags:
 | [[archetypes/fool\|FOOL]] | Marry, here’s grace and a codpiece—that’s a wise man and a [[archetypes/fool\|fool]]. |
 | [[characters/kent\|KENT]] | (to Lear)<br>Alas, sir, sit you here? Things that [[motifs/love\|love]] [[motifs/night\|night]]<br>[[motifs/love\|Love]] not such nights as these. The wrathful skies<br>Gallow the very wanderers of the dark<br>And makes them keep their caves. Since I was man<br>Such sheets of [[motifs/fire\|fire]], such bursts of horrid thunder,<br>Such groans of roaring [[motifs/wind\|wind]] and rain I ne’er<br>Remember to have heard. Man’s [[concepts/nature\|nature]] cannot carry<br>The affliction nor the force. |
 | LEAR | Let the great gods,<br>That keep this dreadful pother o’er our heads,<br>Find out their enemies now. Tremble, thou wretch<br>That hast within thee undivulgèd crimes<br>Unwhipped of justice; hide thee, thou bloody hand,<br>Thou perjured and thou simular man of virtue<br>That art incestuous; caitiff, in pieces shake,<br>That under covert and convenient seeming<br>Hast practised on man’s life;<br>Close pent-up guilts, rive your concealed centres<br>And cry these dreadful summoners grace.<br>I am a man more sinned against than sinning. |
-| [[characters/kent\|KENT]] | Alack, bare-headed?<br>Gracious my lord, hard by here is a hovel.<br>Some [[concepts/friendship\|friendship]] will it lend you ‘gainst the tempest.<br>Repose you there whilst I to this hard [[house]]-<br>More hard than is the stone whereof ’tis raised,<br>Which even but now, demanding after you,<br>Denied me to come in—return and force<br>Their scanted courtesy. |
+| [[characters/kent\|KENT]] | Alack, bare-headed?<br>Gracious my lord, hard by here is a hovel.<br>Some [[concepts/friendship\|friendship]] will it lend you ‘gainst the tempest.<br>Repose you there whilst I to this hard house-<br>More hard than is the stone whereof ’tis raised,<br>Which even but now, demanding after you,<br>Denied me to come in—return and force<br>Their scanted courtesy. |
 | LEAR | My wit begins to turn.<br>(To [[archetypes/fool\|Fool]]) Come on, my boy. How dost, my boy? Art<br>cold?<br>I am cold myself.—Where is this straw, my fellow?<br>The art of our necessities is strange,<br>That can make vile things precious. Come, your<br>hovel.—<br>Poor [[archetypes/fool\|fool]] and knave, I have one part of my heart<br>That sorrows yet for thee. |
 | *(didascalia)* | [[archetypes/fool\|FOOL]] sings |
 | LEAR | He that has a little tiny wit,<br>With heigh-ho, the [[motifs/wind\|wind]] and the rain,<br>Must make content with his fortunes fit,<br>For the rain it raineth every day. |
 | LEAR | True, my good boy. (To [[characters/kent\|Kent]]) Come, bring us to this hovel. Exeunt<br><br>Sc. 10 |
 | *(didascalia)* | Enter the [[characters/duke-of-gloucester\|Duke of Gloucester]] and [[characters/edmund\|Edmund]] the bastard, with lights |
-| [[characters/gloucester\|GLOUCESTER]] | Alack, alack, [[characters/edmund\|Edmund]], I like not this<br>Unnatural dealing. When I desired their leave<br>That I might pity him, they took from me<br>The use of mine own [[house]], charged me on [[motifs/pain\|pain]]<br>Of their displeasure neither to speak of him,<br>Entreat for him, nor any way sustain him. |
+| [[characters/gloucester\|GLOUCESTER]] | Alack, alack, [[characters/edmund\|Edmund]], I like not this<br>Unnatural dealing. When I desired their leave<br>That I might pity him, they took from me<br>The use of mine own house, charged me on [[motifs/pain\|pain]]<br>Of their displeasure neither to speak of him,<br>Entreat for him, nor any way sustain him. |
 | [[characters/edmund\|EDMUND]] | Most savage and unnatural! |
 | [[characters/gloucester\|GLOUCESTER]] | Go to, say you nothing. There’s a division betwixt the Dukes, and a worse matter than that. I have received a letter this [[motifs/night\|night]]—‘tis dangerous to be spoken—I have locked the letter in my closet. These injuries the [[archetypes/king\|King]] now bears will be revenged [[motifs/home\|home]]. There’s part of a power already landed. We must incline to the [[archetypes/king\|King]]. I will seek him and privily relieve him. Go you and maintain talk with the Duke, that my [[concepts/charity\|charity]] be not of him perceived. If he ask for me, I am ill and gone to bed. Though I die for’t—as no less is threatened me—the [[archetypes/king\|King]] my old master must be relieved. There is some strange thing toward. [[characters/edmund\|Edmund]], pray you be careful. Exit |
 | [[characters/edmund\|EDMUND]] | This courtesy, forbid thee, shall the Duke<br>Instantly know, and of that letter too.<br>This seems a fair deserving, and must draw me<br>That which my father loses: no less than all.<br>The younger rises when the old do fall. Exit<br><br>Sc. 11 |
 | *(didascalia)* | [[motifs/storm\|Storm]]. Enter [[characters/king-lear\|King Lear]], the Earl of [[characters/kent\|Kent]] disguised, and Lear’s [[archetypes/fool\|Fool]] |
 | [[characters/kent\|KENT]] | Here is the place, my lord. Good my lord, enter.<br>The tyranny of the open [[motifs/night\|night]]’s too rough<br>For [[concepts/nature\|nature]] to endure. |
-| LEAR | Let me [[Alone\|alone]]. |
+| LEAR | Let me alone. |
 | [[characters/kent\|KENT]] | Good my lord, enter here. |
 | LEAR | Wilt break my heart? |
 | [[characters/kent\|KENT]] | I had rather break mine own. Good my lord, enter. |
@@ -696,7 +696,7 @@ tags:
 | [[characters/edgar\|EDGAR]] | Poor Tom’s a-cold. |
 | [[characters/gloucester\|GLOUCESTER]] | (to Lear)<br>Go in with me. My duty cannot suffer<br>To obey in all your daughters’ hard commands.<br>Though their injunction be to bar my doors<br>And let this tyrannous [[motifs/night\|night]] take hold upon you,<br>Yet have I ventured to come seek you out<br>And bring you where both food and [[motifs/fire\|fire]] is ready. |
 | LEAR | First let me talk with this philosopher.<br>(To [[characters/edgar\|Edgar]]) What is the cause of thunder? |
-| [[characters/kent\|KENT]] | My good lord,<br>Take his offer; go into the [[house]]. |
+| [[characters/kent\|KENT]] | My good lord,<br>Take his offer; go into the house. |
 | LEAR | I’ll talk a word with this most learnèd Theban.<br>(To [[characters/edgar\|Edgar]]) What is your study? |
 | [[characters/edgar\|EDGAR]] | How to prevent the fiend, and to kill vermin. |
 | LEAR | Let me ask you one word in private.<br>They converse apart |
@@ -718,7 +718,7 @@ tags:
 | *(didascalia)* | Exeunt |
 | [[characters/edgar\|EDGAR]] | Sc. 12 |
 | *(didascalia)* | Enter the Duke of Cornwall and [[characters/edmund\|Edmund]] the bastard |
-| CORNWALL | I will have my [[concepts/revenge\|revenge]] ere I depart the [[house]]. [[characters/edmund\|EDMUND]] How, my lord, I may be censured, that [[concepts/nature\|nature]] thus gives way to loyalty, something fears me to think of. |
+| CORNWALL | I will have my [[concepts/revenge\|revenge]] ere I depart the house. [[characters/edmund\|EDMUND]] How, my lord, I may be censured, that [[concepts/nature\|nature]] thus gives way to loyalty, something fears me to think of. |
 | CORNWALL | I now perceive it was not altogether your brother’s evil disposition made him seek his [[motifs/death\|death]], but a provoking merit set a-work by a reprovable badness in himself. |
 | [[characters/edmund\|EDMUND]] | How malicious is my fortune, that I must repent to be just! This is the letter he spoke of, which approves him an intelligent party to the advantages of France. O heavens, that his treason were not, or not I the detector! |
 | CORNWALL | Go with me to the Duchess. |
@@ -756,12 +756,12 @@ tags:
 | [[archetypes/fool\|FOOL]] | Come hither, mistress. Is your name Gonoril? |
 | LEAR | She cannot deny it. |
 | [[archetypes/fool\|FOOL]] | Cry you [[concepts/mercy\|mercy]], I took you for a join-stool. |
-| LEAR | And here’s another, whose warped looks proclaim<br>What store her heart is made on. Stop her there.<br>Arms, arms, [[Sword\|sword]], [[motifs/fire\|fire]], corruption in the place!<br>False justicer, why hast thou let her scape? |
+| LEAR | And here’s another, whose warped looks proclaim<br>What store her heart is made on. Stop her there.<br>Arms, arms, sword, [[motifs/fire\|fire]], corruption in the place!<br>False justicer, why hast thou let her scape? |
 | [[characters/edgar\|EDGAR]] | Bless thy five wits. |
 | [[characters/kent\|KENT]] | (to Lear)<br>O pity! Sir, where is the patience now<br>That you so oft have boasted to retain? |
 | [[characters/edgar\|EDGAR]] | (aside)<br>My [[motifs/tears\|tears]] begin to take his part so much<br>They’ll mar my counterfeiting. |
-| LEAR | The little [[dogs]] and all,<br>Tray, Blanch, and Sweetheart—see, they bark at me. |
-| [[characters/edgar\|EDGAR]] | Tom will throw his head at them.—Avaunt, you curs!<br>Be thy mouth or black or white,<br>Tooth that poisons if it bite,<br>Mastiff, greyhound, mongrel grim,<br>Hound or spaniel, brach or him,<br>Bobtail tyke or trundle-tail,<br>Tom will make them weep and wail;<br>For with throwing thus my head,<br>[[dogs\|Dogs]] leap the hatch, and all are fled.<br>Loudla, doodla! Come, march to wakes and fairs<br>And market towns. Poor Tom, thy horn is dry. |
+| LEAR | The little dogs and all,<br>Tray, Blanch, and Sweetheart—see, they bark at me. |
+| [[characters/edgar\|EDGAR]] | Tom will throw his head at them.—Avaunt, you curs!<br>Be thy mouth or black or white,<br>Tooth that poisons if it bite,<br>Mastiff, greyhound, mongrel grim,<br>Hound or spaniel, brach or him,<br>Bobtail tyke or trundle-tail,<br>Tom will make them weep and wail;<br>For with throwing thus my head,<br>Dogs leap the hatch, and all are fled.<br>Loudla, doodla! Come, march to wakes and fairs<br>And market towns. Poor Tom, thy horn is dry. |
 | LEAR | Then let them anatomize [[characters/regan\|Regan]]; see what breeds about her heart. Is there any cause in [[concepts/nature\|nature]] that makes this hardness? (To [[characters/edgar\|Edgar]]) You, sir, I entertain you for one of my hundred, only I do not like the fashion of your garments. You’ll say they are Persian attire; but let them be changed. |
 | [[characters/kent\|KENT]] | Now, good my lord, lie here a while. |
 | LEAR | Make no noise, make no noise. Draw the curtains.<br>So, so, so. We’ll go to supper i’th’ morning. So, so, so.<br>He sleeps. Enter the [[characters/duke-of-gloucester\|Duke of Gloucester]] |
@@ -771,7 +771,7 @@ tags:
 | [[characters/kent\|KENT]] | (to Lear) Oppressed [[concepts/nature\|nature]] sleeps.<br>This rest might yet have balmed thy broken sinews<br>Which, if convenience will not allow,<br>Stand in hard cure. (To [[archetypes/fool\|Fool]]) Come, help to bear thy<br>master.<br>Thou must not stay behind. |
 | [[characters/gloucester\|GLOUCESTER]] | Come, come away. |
 | *(didascalia)* | Exeunt all but [[characters/edgar\|Edgar]] |
-| [[characters/edgar\|EDGAR]] | When we our betters see bearing our woes,<br>We scarcely think our miseries our foes.<br>Who [[Alone\|alone]] suffers, suffers most i‘th’ mind,<br>Leaving free things and happy shows behind.<br>But then the mind much sufferance doth o’erskip<br>When grief hath mates, and bearing fellowship.<br>How light and portable my [[motifs/pain\|pain]] seems now,<br>When that which makes me bend, makes the [[archetypes/king\|King]]<br>bow.<br>He childed as I fathered. Tom, away.<br>Mark the high noises, and thyself bewray<br>When false opinion, whose wrong thoughts defile thee,<br>In thy just proof repeals and reconciles thee.<br>What will hap more tonight, safe scape the [[archetypes/king\|King]]!<br>Lurk, lurk. |
+| [[characters/edgar\|EDGAR]] | When we our betters see bearing our woes,<br>We scarcely think our miseries our foes.<br>Who alone suffers, suffers most i‘th’ mind,<br>Leaving free things and happy shows behind.<br>But then the mind much sufferance doth o’erskip<br>When grief hath mates, and bearing fellowship.<br>How light and portable my [[motifs/pain\|pain]] seems now,<br>When that which makes me bend, makes the [[archetypes/king\|King]]<br>bow.<br>He childed as I fathered. Tom, away.<br>Mark the high noises, and thyself bewray<br>When false opinion, whose wrong thoughts defile thee,<br>In thy just proof repeals and reconciles thee.<br>What will hap more tonight, safe scape the [[archetypes/king\|King]]!<br>Lurk, lurk. |
 | *(didascalia)* | Exit |
 | [[characters/edgar\|EDGAR]] | Sc. 14 |
 | *(didascalia)* | Enter the Duke of Cornwall and [[characters/regan\|Regan]], and Gonoril and [[characters/edmund\|Edmund]] the bastard, and Servants |
@@ -828,7 +828,7 @@ tags:
 | CORNWALL | My villein! |
 | SERVANT | Why then, come on, and take the chance of anger.<br>They draw and fight |
 | *(didascalia)* | [[characters/regan\|REGAN]] to another Servant |
-| SERVANT | Give me thy [[Sword\|sword]]. A peasant stand up thus!<br>She takes a [[Sword\|sword]] and runs at him behind |
+| SERVANT | Give me thy sword. A peasant stand up thus!<br>She takes a sword and runs at him behind |
 | SERVANT | (to [[characters/gloucester\|Gloucester]])<br>O, I am slain, my lord! Yet have you one eye left<br>To see some mischief on him. |
 | *(didascalia)* | [[characters/regan\|Regan]] stabs him again |
 | SERVANT | O! He dies |
@@ -918,7 +918,7 @@ tags:
 | ALBANY | O my good lord, the Duke of Cornwall’s dead,<br>Slain by his servant going to put out<br>The other eye of [[characters/gloucester\|Gloucester]]. |
 | ALBANY | [[characters/gloucester\|Gloucester]]’s eyes? |
 | *(didascalia)* | FSECOND GENTLEMAN |
-| ALBANY | A servant that he bred, thralled with remorse,<br>Opposed against the act, bending his [[Sword\|sword]]<br>To his great master, who thereat enraged<br>Flew on him, and amongst them felled him dead,<br>But not without that harmful stroke which since<br>Hath plucked him after. |
+| ALBANY | A servant that he bred, thralled with remorse,<br>Opposed against the act, bending his sword<br>To his great master, who thereat enraged<br>Flew on him, and amongst them felled him dead,<br>But not without that harmful stroke which since<br>Hath plucked him after. |
 | ALBANY | This shows you are above,<br>You justicers, that these our nether crimes<br>So speedily can venge. But O, poor [[characters/gloucester\|Gloucester]]!<br>Lost he his other eye? |
 | *(didascalia)* | SECOND GENTLEMAN Both, both, my lord. 80 |
 | ALBANY | (To Gonoril) This letter, madam, craves a speedy<br>answer.<br>’Tis from your sister. |
@@ -931,7 +931,7 @@ tags:
 | ALBANY | No, my good lord; I met him back again. |
 | ALBANY | Knows he the wickedness? 90 |
 | *(didascalia)* | ECONDGENTLEMAN |
-| ALBANY | Ay, my good lord; ’twas he informed against him,<br>And quit the [[house]] on purpose that their punishment<br>Might have the freer course. |
+| ALBANY | Ay, my good lord; ’twas he informed against him,<br>And quit the house on purpose that their punishment<br>Might have the freer course. |
 | ALBANY | [[characters/gloucester\|Gloucester]], I live<br>To thank thee for the [[motifs/love\|love]] thou showed’st the [[archetypes/king\|King]],<br>And to [[concepts/revenge\|revenge]] thy eyes.—Come hither, friend<br>Tell me what more thou knowest. Exeunt<br><br>Sc. 17 |
 | *(didascalia)* | Enter the Earl of [[characters/kent\|Kent]] disguised, and First Gentleman |
 | [[characters/kent\|KENT]] | Why the [[characters/king-of-france\|King of France]] is so suddenly gone back know you no reason? |
@@ -948,7 +948,7 @@ tags:
 | [[characters/kent\|KENT]] | Not to a rage. Patience and sorrow strove<br>Who should express her goodliest. You have seen<br>Sunshine and rain at once; her smiles and [[motifs/tears\|tears]]<br>Were like, a better way. Those happy smilets<br>That played on her ripe lip seemed not to know<br>What guests were in her eyes, which parted thence<br>As pearls from diamonds dropped. In brief,<br>Sorrow would be a rarity most beloved<br>If all could so become it. |
 | [[characters/kent\|KENT]] | Made she no verbal question? |
 | *(didascalia)* | IRST ENTLEMAN |
-| [[characters/kent\|KENT]] | [[concepts/faith\|Faith]], once or twice she heaved the name of ‘father’<br>Pantingly forth as if it pressed her heart,<br>Cried ‘Sisters, sisters, shame of ladies, sisters,<br>[[characters/kent\|Kent]], father, sisters, what, i‘th’ [[motifs/storm\|storm]], i’th’ [[motifs/night\|night]],<br>Let piety not be believed!’ There she shook<br>The holy [[motifs/water\|water]] from her heavenly eyes<br>And clamour mastered, then away she started<br>To deal with grief [[Alone\|alone]]. |
+| [[characters/kent\|KENT]] | [[concepts/faith\|Faith]], once or twice she heaved the name of ‘father’<br>Pantingly forth as if it pressed her heart,<br>Cried ‘Sisters, sisters, shame of ladies, sisters,<br>[[characters/kent\|Kent]], father, sisters, what, i‘th’ [[motifs/storm\|storm]], i’th’ [[motifs/night\|night]],<br>Let piety not be believed!’ There she shook<br>The holy [[motifs/water\|water]] from her heavenly eyes<br>And clamour mastered, then away she started<br>To deal with grief alone. |
 | [[characters/kent\|KENT]] | It is the [[motifs/stars\|stars]],<br>The [[motifs/stars\|stars]] above us govern our conditions,<br>Else one [[concepts/self\|self]] mate and make could not beget<br>Such different issues. You spoke not with her since? |
 | *(didascalia)* | IRST ENTLEMAN No. |
 | [[characters/kent\|KENT]] | Was this before the [[archetypes/king\|King]] returned? |
@@ -1025,7 +1025,7 @@ tags:
 | [[characters/edgar\|EDGAR]] | But who comes here?<br>The safer sense will ne’er accommodate<br>His master thus. |
 | LEAR | No, they cannot touch me for coining. I am the [[archetypes/king\|King]] himself. |
 | [[characters/edgar\|EDGAR]] | O thou side-piercing sight! |
-| LEAR | [[concepts/nature\|Nature]] is above art in that respect. There’s your press-money. That fellow handles his bow like a crow-keeper. Draw me a clothier’s yard. Look, look, a mouse! Peace, peace, this toasted [[cheese]] will do it. There’s my gauntlet. I’ll prove it on a giant. Bring up the brown bills. O, [[motifs/well\|well]] flown, bird, in the air. Hal Give the word. |
+| LEAR | [[concepts/nature\|Nature]] is above art in that respect. There’s your press-money. That fellow handles his bow like a crow-keeper. Draw me a clothier’s yard. Look, look, a mouse! Peace, peace, this toasted cheese will do it. There’s my gauntlet. I’ll prove it on a giant. Bring up the brown bills. O, [[motifs/well\|well]] flown, bird, in the air. Hal Give the word. |
 | [[characters/edgar\|EDGAR]] | Sweet marjoram. |
 | LEAR | Pass. |
 | [[characters/gloucester\|GLOUCESTER]] | I know that voice. |
@@ -1085,7 +1085,7 @@ tags:
 | *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] rising Hearty thanks. |
 | [[characters/edgar\|EDGAR]] | The bounty and the benison of heaven<br>To send thee boot to boot. |
 | *(didascalia)* | Enter Oswald the steward |
-| OSWALD | A proclaimed prize! Most happy!<br>That eyeless head of thine was first framed flesh<br>To raise my fortunes. Thou most unhappy traitor,<br>Briefly thyself remember. The [[Sword\|sword]] is out<br>That must destroy thee. |
+| OSWALD | A proclaimed prize! Most happy!<br>That eyeless head of thine was first framed flesh<br>To raise my fortunes. Thou most unhappy traitor,<br>Briefly thyself remember. The sword is out<br>That must destroy thee. |
 | [[characters/gloucester\|GLOUCESTER]] | Now let thy friendly hand<br>Put strength enough to’t. |
 | OSWALD | (to [[characters/edgar\|Edgar]]) Wherefore, bold peasant,<br>Durst thou support a published traitor? Hence,<br>Lest the infection of his fortune take<br>Like hold on thee. Let go his arm. |
 | [[characters/edgar\|EDGAR]] | ‘Chill not let go, sir, without ’cagion. |
@@ -1122,7 +1122,7 @@ tags:
 | [[characters/cordelia\|CORDELIA]] | Sir, know me. |
 | LEAR | You’re a spirit, I know. Where did you die? |
 | [[characters/cordelia\|CORDELIA]] | (to the Doctor) Still, still far wide! |
-| DOCTOR | He’s scarce awake. Let him [[Alone\|alone]] a while. |
+| DOCTOR | He’s scarce awake. Let him alone a while. |
 | LEAR | Where have I been? Where am I? Fair daylight?<br>I am mightily abused. I should e’en die with pity<br>To see another thus. I know not what to say.<br>I will not swear these are my hands. Let’s see:<br>I feel this pin prick. Would I were assured<br>Of my condition. |
 | [[characters/cordelia\|CORDELIA]] | (kneeling) O look upon me, sir,<br>And hold your hands in benediction o’er me.<br>No, sir, you must not kneel. |
 | LEAR | Pray do not mock.<br>I am a very foolish, fond old man,<br>Fourscore and upward, and to deal plainly,<br>I [[concepts/fear\|fear]] I am not in my perfect mind.<br>Methinks I should know you, and know this man;<br>Yet I am doubtful, for I am mainly ignorant<br>What place this is; and all the skill I have<br>Remembers not these garments; nor I know not<br>Where I did lodge last [[motifs/night\|night]]. Do not laugh at me,<br>For as I am a man, I think this lady<br>To be my [[archetypes/child\|child]], [[characters/cordelia\|Cordelia]]. |
@@ -1176,7 +1176,7 @@ tags:
 | *(didascalia)* | Enter [[characters/edmund\|Edmund]] |
 | [[characters/edmund\|EDMUND]] | The enemy’s in view; draw up your powers. 55<br>He [offers] Albany a paper<br>Here is the guess of their great strength and forces<br>By diligent discovery; but your haste<br>Is now urged on you. |
 | ALBANY | We will greet the [[motifs/time\|time]]. Exit |
-| [[characters/edmund\|EDMUND]] | To both these sisters have I sworn my [[motifs/love\|love]],<br>Each jealous of the other as the stung<br>Are of the adder. Which of them shall I take?—<br>Both?—one?—or neither? Neither can be enjoyed<br>If both remain alive. To take the widow<br>Exasperates, makes mad, her sister Gonoril,<br>And hardly shall I carry out my side,<br>Her husband being alive. Now then, we’ll use<br>His countenance for the battle, which being done,<br>Let her that would be rid of him devise<br>His speedy taking off. As for his [[concepts/mercy\|mercy]]<br>Which he intends to Lear and to [[characters/cordelia\|Cordelia]],<br>The battle done, and they within our power,<br>Shall never see his pardon; for my state<br>Stands on me to defend, not to [[debate]]. Exit<br><br>Sc. 23 |
+| [[characters/edmund\|EDMUND]] | To both these sisters have I sworn my [[motifs/love\|love]],<br>Each jealous of the other as the stung<br>Are of the adder. Which of them shall I take?—<br>Both?—one?—or neither? Neither can be enjoyed<br>If both remain alive. To take the widow<br>Exasperates, makes mad, her sister Gonoril,<br>And hardly shall I carry out my side,<br>Her husband being alive. Now then, we’ll use<br>His countenance for the battle, which being done,<br>Let her that would be rid of him devise<br>His speedy taking off. As for his [[concepts/mercy\|mercy]]<br>Which he intends to Lear and to [[characters/cordelia\|Cordelia]],<br>The battle done, and they within our power,<br>Shall never see his pardon; for my state<br>Stands on me to defend, not to debate. Exit<br><br>Sc. 23 |
 | *(didascalia)* | Alarum. The powers of France pass over the stage led by [[characters/queen\|Queen]] [[characters/cordelia\|Cordelia]] with her father in her hand. Then enter [[characters/edgar\|Edgar]] disguised as a peasant, guiding the blind [[characters/duke-of-gloucester\|Duke of Gloucester]] |
 | [[characters/edgar\|EDGAR]] | Here, father, take the [[archetypes/shadow\|shadow]] of this bush<br>For your good host; pray that the right may thrive.<br>If ever I return to you again<br>I’ll bring you comfort. Exit |
 | [[characters/gloucester\|GLOUCESTER]] | Grace go with you, sir. |
@@ -1187,11 +1187,11 @@ tags:
 | *(didascalia)* | Enter [[characters/edmund\|Edmund]] with [[characters/king-lear\|King Lear]] and [[characters/queen\|Queen]] [[characters/cordelia\|Cordelia]] prisoners, a Captain, and soldiers |
 | [[characters/edmund\|EDMUND]] | Some officers take them away. Good guard<br>Until their greater pleasures best be known<br>That are to censure them. |
 | [[characters/cordelia\|CORDELIA]] | (to Lear) We are not the first<br>Who with best meaning have incurred the worst.<br>For thee, oppressed [[archetypes/king\|King]], am I cast down,<br>Myself could else outfrown false fortune’s frown.<br>Shall we not see these daughters and these sisters? |
-| LEAR | No, no. Come, let’s away to [[motifs/prison\|prison]].<br>We two [[Alone\|alone]] will sing like [[motifs/birds\|birds]] i’th’ cage.<br>When thou dost ask me blessing, I’ll kneel down<br>And ask of thee [[concepts/forgiveness\|forgiveness]]; so we’ll live,<br>And pray, and sing, and tell old tales, and laugh<br>At gilded butterflies, and hear poor rogues<br>Talk of [[settings/court\|court]] news, and we’ll talk with them too—<br>Who loses and who wins, who’s in, who’s out,<br>And take upon ’s the mystery of things<br>As if we were God’s spies; and we’ll wear out<br>In a walled [[motifs/prison\|prison]] packs and sects of great ones<br>That ebb and flow by th’ [[motifs/moon\|moon]]. |
+| LEAR | No, no. Come, let’s away to [[motifs/prison\|prison]].<br>We two alone will sing like [[motifs/birds\|birds]] i’th’ cage.<br>When thou dost ask me blessing, I’ll kneel down<br>And ask of thee [[concepts/forgiveness\|forgiveness]]; so we’ll live,<br>And pray, and sing, and tell old tales, and laugh<br>At gilded butterflies, and hear poor rogues<br>Talk of [[settings/court\|court]] news, and we’ll talk with them too—<br>Who loses and who wins, who’s in, who’s out,<br>And take upon ’s the mystery of things<br>As if we were God’s spies; and we’ll wear out<br>In a walled [[motifs/prison\|prison]] packs and sects of great ones<br>That ebb and flow by th’ [[motifs/moon\|moon]]. |
 | [[characters/edmund\|EDMUND]] | (to soldiers) Take them away. |
 | LEAR | (to [[characters/cordelia\|Cordelia]])<br>Upon such sacrifices, my [[characters/cordelia\|Cordelia]],<br>The gods themselves throw incense. Have I caught<br>thee?<br>He that parts us shall bring a brand from heaven<br>And [[motifs/fire\|fire]] us hence like foxes. Wipe thine eyes.<br>The goodyear shall devour ‘em, flesh and fell,<br>Ere they shall make us weep. We’ll see ’em starve<br>first. Come. |
 | *(didascalia)* | Exeunt all but [[characters/edmund\|Edmund]] and the Captain |
-| [[characters/edmund\|EDMUND]] | Come hither, captain. Hark.<br>Take thou this note. Go follow them to [[motifs/prison\|prison]].<br>One step I have advanced thee; if thou dost<br>As this instructs thee, thou dost make thy way<br>To noble fortunes. Know thou this: that men<br>Are as the [[motifs/time\|time]] is. To be tender-minded<br>Does not become a [[Sword\|sword]]. Thy great employment<br>Will not bear question. Either say thou’lt do’t,<br>Or thrive by other means. |
+| [[characters/edmund\|EDMUND]] | Come hither, captain. Hark.<br>Take thou this note. Go follow them to [[motifs/prison\|prison]].<br>One step I have advanced thee; if thou dost<br>As this instructs thee, thou dost make thy way<br>To noble fortunes. Know thou this: that men<br>Are as the [[motifs/time\|time]] is. To be tender-minded<br>Does not become a sword. Thy great employment<br>Will not bear question. Either say thou’lt do’t,<br>Or thrive by other means. |
 | CAPTAIN | I’ll do’t, my lord. |
 | [[characters/edmund\|EDMUND]] | About it, and write ‘happy’ when thou hast done.<br>Mark, I say, instantly, and carry it so<br>As I have set it down. |
 | CAPTAIN | I cannot draw a cart,<br>Nor eat dried oats. If it be man’s work, I’ll do’t. Exit Enter the Duke of Albany, the two ladies Gonoril and [[characters/regan\|Regan]], [another Captain,] and others |
@@ -1206,7 +1206,7 @@ tags:
 | GONORIL | Holla, holla—<br>That eye that told you so looked but asquint. |
 | [[characters/regan\|REGAN]] | Lady, I am not [[motifs/well\|well]], else I should answer From a full-flowing stomach. (To [[characters/edmund\|Edmund]]) General, Take thou my soldiers, prisoners, patrimony. Witness the world that I create thee here My lord and master. |
 | GONORIL | Mean you to enjoy him, then? |
-| ALBANY | The let-[[Alone\|alone]] lies not in your good will. |
+| ALBANY | The let-alone lies not in your good will. |
 | [[characters/edmund\|EDMUND]] | Nor in thine, lord. |
 | ALBANY | Half-blooded fellow, yes. |
 | [[characters/edmund\|EDMUND]] | Let the drum strike and prove my title good. |
@@ -1231,8 +1231,8 @@ tags:
 | ALBANY | Which is that adversary? |
 | [[characters/edgar\|EDGAR]] | What’s he that speaks for [[characters/edmund\|Edmund]], Earl of [[characters/gloucester\|Gloucester]]? |
 | [[characters/edmund\|EDMUND]] | Himself. What sayst thou to him? |
-| [[characters/edgar\|EDGAR]] | Draw thy [[Sword\|sword]],<br>That if my speech offend a noble heart<br>Thy arm may do thee justice. Here is mine.<br>He draws his [[Sword\|sword]]<br>Behold, it is the privilege of my tongue,<br>My oath, and my profession. I protest,<br>Maugre thy strength, youth, place, and eminence,<br>Despite thy victor-[[Sword\|sword]] and [[motifs/fire\|fire]]-new fortune,<br>Thy valour and thy heart, thou art a traitor,<br>False to thy gods, thy brother, and thy father,<br>Conspirant ‘gainst this high illustrious prince,<br>And from th’extremest upward of thy head<br>To the descent and [[motifs/dust\|dust]] beneath thy feet<br>A most toad-spotted traitor. Say thou no,<br>This [[Sword\|sword]], this arm, and my best spirits are bent<br>To prove upon thy heart, whereto I speak,<br>Thou liest. |
-| [[characters/edmund\|EDMUND]] | In wisdom I should ask thy name,<br>But since thy outside looks so fair and warlike,<br>And that thy tongue some say of breeding breathes,<br>My right of knighthood I disdain and spurn.<br>Here do I toss those treasons to thy head,<br>With the hell-hated lie o’erturn thy heart,<br>Which, for they yet glance by and scarcely bruise,<br>This [[Sword\|sword]] of mine shall give them instant way<br>Where they shall rest for ever. Trumpets, speak!<br>[Flourish.] They fight. [[characters/edmund\|Edmund]] is vanquished<br>[ALL]<br>Save him, save him! |
+| [[characters/edgar\|EDGAR]] | Draw thy sword,<br>That if my speech offend a noble heart<br>Thy arm may do thee justice. Here is mine.<br>He draws his sword<br>Behold, it is the privilege of my tongue,<br>My oath, and my profession. I protest,<br>Maugre thy strength, youth, place, and eminence,<br>Despite thy victor-sword and [[motifs/fire\|fire]]-new fortune,<br>Thy valour and thy heart, thou art a traitor,<br>False to thy gods, thy brother, and thy father,<br>Conspirant ‘gainst this high illustrious prince,<br>And from th’extremest upward of thy head<br>To the descent and [[motifs/dust\|dust]] beneath thy feet<br>A most toad-spotted traitor. Say thou no,<br>This sword, this arm, and my best spirits are bent<br>To prove upon thy heart, whereto I speak,<br>Thou liest. |
+| [[characters/edmund\|EDMUND]] | In wisdom I should ask thy name,<br>But since thy outside looks so fair and warlike,<br>And that thy tongue some say of breeding breathes,<br>My right of knighthood I disdain and spurn.<br>Here do I toss those treasons to thy head,<br>With the hell-hated lie o’erturn thy heart,<br>Which, for they yet glance by and scarcely bruise,<br>This sword of mine shall give them instant way<br>Where they shall rest for ever. Trumpets, speak!<br>[Flourish.] They fight. [[characters/edmund\|Edmund]] is vanquished<br>[ALL]<br>Save him, save him! |
 | GONORIL | This is mere practice, [[characters/gloucester\|Gloucester]].<br>By the law of arms thou art not bound to answer<br>An unknown opposite. Thou art not vanquished,<br>But cozened and beguiled. |
 | ALBANY | Stop your mouth, dame,<br>Or with this paper shall I stopple it.<br>Thou worse than anything, read thine own evil.<br>Nay, no tearing, lady. I perceive you know’t. |
 | GONORIL | Say if I do, the laws are mine, not thine.<br>Who shall arraign me for’t? |
@@ -1247,7 +1247,7 @@ tags:
 | ALBANY | (to [[characters/edgar\|Edgar]])<br>Methought thy very gait did prophesy<br>A royal nobleness. I must embrace thee.<br>Let sorrow split my heart if I did ever hate<br>Thee or thy father. |
 | [[characters/edgar\|EDGAR]] | Worthy prince, I know’t. |
 | ALBANY | Where have you hid yourself?<br>How have you known the miseries of your father? |
-| [[characters/edgar\|EDGAR]] | By nursing them, my lord. List a brief tale,<br>And when ‘tis told, O that my heart would burst!<br>The bloody proclamation to escape<br>That followed me so near—O, our lives’ sweetness,<br>That with the [[motifs/pain\|pain]] of [[motifs/death\|death]] would hourly die<br>Rather than die at once!—taught me to shift<br>Into a madman’s rags, to assume a semblance<br>That very [[dogs]] disdained; and in this habit<br>Met I my father with his bleeding rings,<br>The precious stones new-lost; became his guide,<br>Led him, begged for him, saved him from [[concepts/despair\|despair]];<br>Never—O father!—revealed myself unto him<br>Until some half hour past, when I was armed.<br>Not sure, though hoping, of this good [[success]],<br>I asked his blessing, and from first to last<br>Told him my pilgrimage; but his flawed heart—<br>Alack, too weak the conflict to support—<br>’Twixt two extremes of passion, joy and grief,<br>Burst smilingly. |
+| [[characters/edgar\|EDGAR]] | By nursing them, my lord. List a brief tale,<br>And when ‘tis told, O that my heart would burst!<br>The bloody proclamation to escape<br>That followed me so near—O, our lives’ sweetness,<br>That with the [[motifs/pain\|pain]] of [[motifs/death\|death]] would hourly die<br>Rather than die at once!—taught me to shift<br>Into a madman’s rags, to assume a semblance<br>That very dogs disdained; and in this habit<br>Met I my father with his bleeding rings,<br>The precious stones new-lost; became his guide,<br>Led him, begged for him, saved him from [[concepts/despair\|despair]];<br>Never—O father!—revealed myself unto him<br>Until some half hour past, when I was armed.<br>Not sure, though hoping, of this good success,<br>I asked his blessing, and from first to last<br>Told him my pilgrimage; but his flawed heart—<br>Alack, too weak the conflict to support—<br>’Twixt two extremes of passion, joy and grief,<br>Burst smilingly. |
 | [[characters/edmund\|EDMUND]] | This speech of yours hath moved me,<br>And shall perchance do good. But speak you on—<br>You look as you had something more to say. |
 | ALBANY | If there be more, more woeful, hold it in,<br>For I am almost ready to dissolve,<br>Hearing of this. |
 | [[characters/edgar\|EDGAR]] | This would have seemed a period<br>To such as [[motifs/love\|love]] not sorrow; but another<br>To amplify, too much would make much more,<br>And top extremity.<br>Whilst I was big in clamour came there in a man<br>Who, having seen me in my worst estate,<br>Shunned my abhorred society; but then, finding<br>Who ’twas that so endured, with his strong arms<br>He fastened on my neck and bellowed out<br>As he’d burst heaven; threw him on my father,<br>Told the most piteous tale of Lear and him<br>That ever ear received, which in recounting<br>His grief grew puissant and the strings of life<br>Began to crack. Twice then the trumpets sounded,<br>And there I left him tranced. |
@@ -1271,7 +1271,7 @@ tags:
 | [[characters/edmund\|EDMUND]] | I pant for life. Some good I mean to do,<br>Despite of my own [[concepts/nature\|nature]]. Quickly send,<br>Be brief in’t, to th’ [[settings/castle\|castle]]; for my writ<br>Is on the life of Lear and on [[characters/cordelia\|Cordelia]].<br>Nay, send in [[motifs/time\|time]]. |
 | ALBANY | Run, run, O run! |
 | [[characters/edgar\|EDGAR]] | To who, my lord? Who hath the office? Send<br>Thy token of reprieve. |
-| [[characters/edmund\|EDMUND]] | [[motifs/well\|Well]] thought on! Take my [[Sword\|sword]]. The captain,<br>Give it the captain. |
+| [[characters/edmund\|EDMUND]] | [[motifs/well\|Well]] thought on! Take my sword. The captain,<br>Give it the captain. |
 | ALBANY | Haste thee for thy life. |
 | *(didascalia)* | Exit [Second Captain] |
 | [[characters/edmund\|EDMUND]] | He hath commission from thy wife and me<br>To hang [[characters/cordelia\|Cordelia]] in the [[motifs/prison\|prison]], and<br>To lay the blame upon her own [[concepts/despair\|despair]],<br>That she fordid herself. |
@@ -1353,7 +1353,7 @@ tags:
 | GONORIL | Signore, io vi [[motifs/love\|amo]] più di quanto le parole possano reggere la<br>materia;<br>più caro della vista, dello spazio, della libertà;<br>oltre ciò che si può stimare, ricco o raro;<br>non meno della vita; con grazia, salute, [[concepts/beauty\|bellezza]], [[concepts/honour\|onore]];<br>quanto mai [[archetypes/child\|figlio]] amò, o padre, o amico;<br>un [[motifs/love\|amore]] che fa povero il fiato e muta la parola.<br>Oltre ogni misura di tanto io vi [[motifs/love\|amo]]. |
 | [[characters/cordelia\|CORDELIA]] | (a parte)<br>Che farà [[characters/cordelia\|Cordelia]]? [[motifs/love\|Amare]] e tacere. |
 | LEAR | (a Gonoril)<br>Di tutti questi confini, da questa linea a questa,<br>con ombrose foreste e ampi prati distesi,<br>ti facciamo signora. Alla tua discendenza e a quella d’Albany<br>sia ciò perpetuo.—Che dice la nostra seconda figlia?<br>La nostra carissima [[characters/regan\|Regan]], moglie a Cornovaglia, parli. |
-| [[characters/regan\|REGAN]] | Signore, io son fatta<br>della [[concepts/self\|stessa]] tempra di cui è mia sorella,<br>e mi stimo al suo prezzo. Nel mio cuore verace<br>trovo ch’ella nomina il mio stesso atto d’[[motifs/love\|amore]]—<br>solo che restò corta, ché io mi professo<br>nemica d’ogni altra gioia<br>che il più prezioso quadrante dei sensi possieda,<br>e trovo ch’io son [[Alone\|solo]] allora felice<br>nell’[[motifs/love\|amore]] di vostra cara altezza. |
+| [[characters/regan\|REGAN]] | Signore, io son fatta<br>della [[concepts/self\|stessa]] tempra di cui è mia sorella,<br>e mi stimo al suo prezzo. Nel mio cuore verace<br>trovo ch’ella nomina il mio stesso atto d’[[motifs/love\|amore]]—<br>solo che restò corta, ché io mi professo<br>nemica d’ogni altra gioia<br>che il più prezioso quadrante dei sensi possieda,<br>e trovo ch’io son solo allora felice<br>nell’[[motifs/love\|amore]] di vostra cara altezza. |
 | [[characters/cordelia\|CORDELIA]] | (a parte) E allora povera [[characters/cordelia\|Cordelia]]—<br>eppure no, ché son certa che il mio [[motifs/love\|amore]] è<br>più ricco della mia lingua. |
 | LEAR | (a [[characters/regan\|Regan]])<br>A te e ai tuoi in eredità per sempre<br>rimanga quest’ampio terzo del nostro bel regno, non minore per spazio, valore e diletto<br>di quello confermato a Gonoril. (A [[characters/cordelia\|Cordelia]]) Ma<br>ora, gioia nostra,<br>benché ultima, non ultima nel nostro caro [[motifs/love\|amore]]:<br>che sai dire per guadagnarti un terzo più opulento<br>di quello delle tue sorelle? |
 | [[characters/cordelia\|CORDELIA]] | Nulla, mio signore. |
@@ -1420,7 +1420,7 @@ tags:
 | [[characters/regan\|REGAN]] | È certissimo, e con te. Il mese prossimo con noi. |
 | GONORIL | Vedi quanto sia piena di mutamenti la sua vecchiaia. L’osservazione che ne abbiamo fatta non è stata piccola. Ha sempre amato più di tutte nostra sorella, e con che povero giudizio ora l’abbia respinta appare troppo grossolano. |
 | [[characters/regan\|REGAN]] | È l’infermità della sua età; eppure non ha mai conosciuto se stesso che scarsamente. |
-| GONORIL | Il meglio e il più sano del suo [[motifs/time\|tempo]] non fu che avventato; dobbiamo dunque aspettarci di ricevere dalla sua vecchiaia non [[Alone\|soltanto]] l’imperfezione d’un carattere lungamente innestato, ma per giunta quell’indocile bizzarria che gli anni infermi e collerici portano con sé. |
+| GONORIL | Il meglio e il più sano del suo [[motifs/time\|tempo]] non fu che avventato; dobbiamo dunque aspettarci di ricevere dalla sua vecchiaia non soltanto l’imperfezione d’un carattere lungamente innestato, ma per giunta quell’indocile bizzarria che gli anni infermi e collerici portano con sé. |
 | [[characters/regan\|REGAN]] | Tali scatti incostanti dobbiamo attenderci da lui, come questo del bando di [[characters/kent\|Kent]]. |
 | GONORIL | Vi sono altri convenevoli di congedo fra Francia e lui. Ti prego, andiamo d’accordo. Se nostro padre porta autorità con le disposizioni che ha, quest’ultima sua rinuncia non farà che offenderci. |
 | [[characters/regan\|REGAN]] | Ci penseremo ancora. |
@@ -1580,7 +1580,7 @@ tags:
 | [[archetypes/fool\|MATTO]] | Ma, dopo che avrò tagliato l’uovo nel mezzo e mangiato il contenuto, le due corone dell’uovo. Quando spaccasti la tua [[motifs/crown\|corona]] nel mezzo e desti via entrambe le parti, ti portasti l’asino in groppa attraverso il fango. Avevi poco senno nella tua [[motifs/crown\|corona]] calva quando desti via quella d’oro. Se in questo parlo da me stesso, sia frustato il primo che lo trovi tale. |
 | *(didascalia)* | Canta |
 | [[archetypes/fool\|MATTO]] | Mai i matti ebbero in un anno men senno,<br>ché i savi si son fatti scempi.<br>Non sanno come il loro senno si consumi,<br>tanto scimmiesche hanno le maniere. |
-| LEAR | Da quando in qua sei così pieno di [[songs\|canzoni]], messere? |
+| LEAR | Da quando in qua sei così pieno di canzoni, messere? |
 | [[archetypes/fool\|MATTO]] | Ci ho preso l’abitudine, zietto, da quando facesti delle tue figlie la tua madre; ché quando desti loro la verga e ti calasti le tue proprie braghe, |
 | *(didascalia)* | Canta |
 | [[archetypes/fool\|MATTO]] | Allora esse per gioia improvvisa piansero, e io per dolore cantai,<br>che un tal [[archetypes/king\|re]] giocasse a rimpiattino<br>e andasse fra i matti.<br>Di grazia, zietto, tieni un maestro che insegni al tuo [[archetypes/fool\|matto]] a mentire. Vorrei volentieri imparare a mentire. |
@@ -1652,7 +1652,7 @@ tags:
 | LEAR | Le ho fatto torto. |
 | [[archetypes/fool\|MATTO]] | Sai dire come fa l’ostrica il suo guscio? |
 | LEAR | No. |
-| [[archetypes/fool\|MATTO]] | Nemmeno io; ma so dire perché la lumaca ha una [[house\|casa]]. |
+| [[archetypes/fool\|MATTO]] | Nemmeno io; ma so dire perché la lumaca ha una casa. |
 | LEAR | Perché? |
 | [[archetypes/fool\|MATTO]] | Ma, per metterci dentro la testa, non per darla via a sua figlia e lasciar le corna senza custodia. |
 | LEAR | Dimenticherò la mia [[concepts/nature\|natura]]. Un padre così buono!<br>Sono pronti i miei cavalli? |
@@ -1687,12 +1687,12 @@ tags:
 | *(didascalia)* | [[characters/edgar\|Edgar]] scende |
 | [[characters/edmund\|EDMUND]] | Mio padre vigila. Oh, fuggi questo luogo.<br>Hanno riferito dove sei nascosto.<br>Hai ora il buon vantaggio della [[motifs/night\|notte]].<br>Non hai detto nulla contro il duca di Cornovaglia,<br>proprio nulla?<br>Egli viene qua ora, nella [[motifs/night\|notte]], in gran fretta,<br>e [[characters/regan\|Regan]] con lui. Non hai detto nulla<br>a favore della sua parte contro il duca d’Albany?<br>Rifletti— |
 | [[characters/edgar\|EDGAR]] | Ne son certo, non una parola. |
-| [[characters/edmund\|EDMUND]] | Sento venire mio padre. Perdonami.<br>Per astuzia debbo trarre la [[Sword\|spada]] contro di te.<br>Fingi di difenderti. Ora, difenditi [[motifs/well\|bene]].<br>(Chiamando) Arrenditi, vieni davanti a mio padre. Lume qua,<br>qua!<br>(A [[characters/edgar\|Edgar]]) Fuggi, fratello, fuggi! (Chiamando) Torce, torce!<br>(A [[characters/edgar\|Edgar]]) Così, addio. |
+| [[characters/edmund\|EDMUND]] | Sento venire mio padre. Perdonami.<br>Per astuzia debbo trarre la spada contro di te.<br>Fingi di difenderti. Ora, difenditi [[motifs/well\|bene]].<br>(Chiamando) Arrenditi, vieni davanti a mio padre. Lume qua,<br>qua!<br>(A [[characters/edgar\|Edgar]]) Fuggi, fratello, fuggi! (Chiamando) Torce, torce!<br>(A [[characters/edgar\|Edgar]]) Così, addio. |
 | *(didascalia)* | Esce [[characters/edgar\|Edgar]] |
 | [[characters/edmund\|EDMUND]] | Un po’ di [[motifs/blood\|sangue]] tratto da me genererebbe l’idea<br>d’un mio più fiero sforzo.<br>Si ferisce il braccio<br>Ho visto<br>ubriachi far più di questo per gioco. (Chiamando) Padre,<br>padre!<br>Fermatelo, fermatelo! Olà, aiuto! |
 | *(didascalia)* | Entrano il [[characters/duke-of-gloucester\|duca di Gloucester]] e altri |
 | [[characters/gloucester\|GLOUCESTER]] | Ora, [[characters/edmund\|Edmund]], dov’è lo [[archetypes/villain\|scellerato]]? |
-| [[characters/edmund\|EDMUND]] | Qui stava, nel buio, con la sua acuta [[Sword\|spada]] sguainata,<br>gorgheggiando malvagi incantesimi, scongiurando la [[motifs/moon\|luna]]<br>d’essergli propizia signora. |
+| [[characters/edmund\|EDMUND]] | Qui stava, nel buio, con la sua acuta spada sguainata,<br>gorgheggiando malvagi incantesimi, scongiurando la [[motifs/moon\|luna]]<br>d’essergli propizia signora. |
 | [[characters/gloucester\|GLOUCESTER]] | Ma dov’è? |
 | [[characters/edmund\|EDMUND]] | Guardate, signore, sanguino. |
 | [[characters/gloucester\|GLOUCESTER]] | Dov’è lo [[archetypes/villain\|scellerato]], [[characters/edmund\|Edmund]]? |
@@ -1700,7 +1700,7 @@ tags:
 | [[characters/gloucester\|GLOUCESTER]] | Inseguitelo, andategli dietro. |
 | *(didascalia)* | Escono gli altri |
 | [[characters/gloucester\|GLOUCESTER]] | In nessun modo che cosa? |
-| [[characters/edmund\|EDMUND]] | Persuadermi all’assassinio di vostra signoria,<br>se non che gli dissi che gli dèi vendicatori<br>contro i parricidi piegano tutti i loro tuoni,<br>gli dissi con quanti e quanto forti vincoli<br>il [[archetypes/child\|figlio]] sia legato al padre. Signore, insomma,<br>vedendo con quanto ribrezzo io mi opponevo<br>al suo snaturato proposito, con moto feroce,<br>con la [[Sword\|spada]] già sguainata carica a [[motifs/home\|fondo]]<br>il mio [[concepts/body\|corpo]] indifeso, e mi squarciò il braccio;<br>ma quando vide i miei spiriti al meglio allarmati,<br>arditi nel diritto della contesa, destati allo scontro,<br>o forse atterrito dal rumore ch’io facevo |
+| [[characters/edmund\|EDMUND]] | Persuadermi all’assassinio di vostra signoria,<br>se non che gli dissi che gli dèi vendicatori<br>contro i parricidi piegano tutti i loro tuoni,<br>gli dissi con quanti e quanto forti vincoli<br>il [[archetypes/child\|figlio]] sia legato al padre. Signore, insomma,<br>vedendo con quanto ribrezzo io mi opponevo<br>al suo snaturato proposito, con moto feroce,<br>con la spada già sguainata carica a [[motifs/home\|fondo]]<br>il mio [[concepts/body\|corpo]] indifeso, e mi squarciò il braccio;<br>ma quando vide i miei spiriti al meglio allarmati,<br>arditi nel diritto della contesa, destati allo scontro,<br>o forse atterrito dal rumore ch’io facevo |
 | *(didascalia)* | Oppure   non so, |
 | [[characters/edmund\|EDMUND]] | ma d’improvviso fuggì. |
 | [[characters/gloucester\|GLOUCESTER]] | Fugga pur lontano,<br>in questa terra non resterà non preso,<br>e trovato, sia spacciato. Il nobile Duca mio signore,<br>mio degno capo e patrono, viene stanotte.<br><br>Per sua autorità lo proclamerò:<br>che chi lo trova meriterà i nostri ringraziamenti,<br>portando al palo il micidiale sciagurato;<br>chi lo nasconde, [[motifs/death\|morte]]. |
@@ -1718,7 +1718,7 @@ tags:
 | [[characters/regan\|REGAN]] | Non era compagno dei turbolenti cavalieri<br>che stanno al servizio di mio padre? |
 | [[characters/gloucester\|GLOUCESTER]] | Non so, madama. È troppo brutta, troppo brutta. |
 | [[characters/edmund\|EDMUND]] | Sì, madama, lo era. |
-| [[characters/regan\|REGAN]] | Non c’è da stupirsi, allora, s’era mal disposto.<br>Son loro che l’hanno spinto alla [[motifs/death\|morte]] del vecchio,<br>per avere il saccheggio e lo sperpero delle sue rendite.<br>Questa sera stessa, da mia sorella,<br>sono stata [[motifs/well\|bene]] informata di loro, e con tali avvertimenti<br>che se vengono a soggiornare nella mia [[house\|casa]]<br>io non ci sarò. |
+| [[characters/regan\|REGAN]] | Non c’è da stupirsi, allora, s’era mal disposto.<br>Son loro che l’hanno spinto alla [[motifs/death\|morte]] del vecchio,<br>per avere il saccheggio e lo sperpero delle sue rendite.<br>Questa sera stessa, da mia sorella,<br>sono stata [[motifs/well\|bene]] informata di loro, e con tali avvertimenti<br>che se vengono a soggiornare nella mia casa<br>io non ci sarò. |
 | CORNOVAGLIA | Né io, te l’assicuro, [[characters/regan\|Regan]].<br>[[characters/edmund\|Edmund]], ho udito che avete reso a vostro padre<br>un ufficio da figlio. |
 | [[characters/edmund\|EDMUND]] | Era mio dovere, signore. |
 | [[characters/gloucester\|GLOUCESTER]] | (a Cornovaglia)<br>Egli svelò la sua trama, e ricevette<br>questa ferita che vedete cercando d’arrestarlo. |
@@ -1733,7 +1733,7 @@ tags:
 | *(didascalia)* | Escono |
 | [[characters/gloucester\|GLOUCESTER]] | Sc. 7 |
 | *(didascalia)* | Entrano il conte di [[characters/kent\|Kent]], travestito, da una porta, e Oswald il maggiordomo da un’altra porta |
-| OSWALD | Buona sera a te, amico. Sei della [[house\|casa]]? |
+| OSWALD | Buona sera a te, amico. Sei della casa? |
 | [[characters/kent\|KENT]] | Sì. |
 | OSWALD | Dove possiamo mettere i nostri cavalli? |
 | [[characters/kent\|KENT]] | Nel pantano. |
@@ -1747,7 +1747,7 @@ tags:
 | [[characters/kent\|KENT]] | Per un furfante, un mascalzone, un mangiatore d’avanzi; un vile, borioso, sciocco, pezzente furfante da tre vestiti, da cento sterline, dalle sudicie calze di lana; un furfante dal fegato di giglio, litigante per vie legali; un figlio di puttana, guardaspecchi, arcischifiltoso mariolo; uno schiavo che eredita un solo baule; uno che si farebbe ruffiano a titolo di buon servizio, e non è altro che il composto d’un furfante, d’un pezzente, d’un vigliacco, d’un mezzano, e figlio ed erede d’una cagna bastarda; e ti batterò fino a farti guaire con clamore se neghi la minima sillaba di questi titoli. |
 | OSWALD | Che mostruoso individuo sei tu, per inveire così contro uno che né conosci né ti conosce! |
 | [[characters/kent\|KENT]] | Che sfacciato manigoldo sei tu, a negare di conoscermi! Son forse due giorni che t’ho battuto e t’ho fatto lo sgambetto davanti al [[archetypes/king\|Re]]? Sguaina, mariolo; ché, benché sia [[motifs/night\|notte]], la [[motifs/moon\|luna]] splende. |
-| *(didascalia)* | Sguaina la [[Sword\|spada]] |
+| *(didascalia)* | Sguaina la spada |
 | [[characters/kent\|KENT]] | Farò di te una zuppa nel chiaro di luna. Sguaina, figlio di puttana, coglione da barbiere, sguaina! |
 | OSWALD | Va’ via. Non ho nulla a che fare con te. |
 | [[characters/kent\|KENT]] | Sguaina, mascalzone. Tu porti lettere contro il [[archetypes/king\|Re]], e prendi le parti di [[concepts/vanity\|Vanità]] la marionetta contro la regalità di suo padre. Sguaina, mariolo, o ti squarcerò così le gambe—sguaina, mascalzone, vieni avanti! |
@@ -1771,7 +1771,7 @@ tags:
 | CORNOVAGLIA | Pace, signore. Furfante bestiale, non hai riverenza? |
 | [[characters/kent\|KENT]] | Sì, signore, ma l’ira ha un suo privilegio. |
 | CORNOVAGLIA | Perché sei in collera? |
-| [[characters/kent\|KENT]] | Che un tal servo come questo porti [[Sword\|spada]],<br>lui che non porta onestà. Simili furfanti sorridenti,<br>come costoro, spesso rodono in due quei legami<br>troppo stretti per esser sciolti; lisciano ogni<br>passione<br>che nell’animo dei loro signori si [[archetypes/rebel\|ribella]],<br>portano olio al [[motifs/fire\|fuoco]], [[motifs/snow\|neve]] ai loro umori più freddi,<br>negano, affermano, e volgono i loro becchi d’alcione<br>a ogni raffica e mutamento dei padroni,<br>nulla sapendo, come [[dogs\|cani]], se non seguire.<br>(A Oswald) La peste sul tuo viso epilettico!<br>Sorridi ai miei discorsi come s’io fossi un [[archetypes/fool\|matto]]?<br>Oca, se t’avessi sulla piana di Sarum<br>ti manderei schiamazzando a [[motifs/home\|casa]] a Camelot. |
+| [[characters/kent\|KENT]] | Che un tal servo come questo porti spada,<br>lui che non porta onestà. Simili furfanti sorridenti,<br>come costoro, spesso rodono in due quei legami<br>troppo stretti per esser sciolti; lisciano ogni<br>passione<br>che nell’animo dei loro signori si [[archetypes/rebel\|ribella]],<br>portano olio al [[motifs/fire\|fuoco]], [[motifs/snow\|neve]] ai loro umori più freddi,<br>negano, affermano, e volgono i loro becchi d’alcione<br>a ogni raffica e mutamento dei padroni,<br>nulla sapendo, come cani, se non seguire.<br>(A Oswald) La peste sul tuo viso epilettico!<br>Sorridi ai miei discorsi come s’io fossi un [[archetypes/fool\|matto]]?<br>Oca, se t’avessi sulla piana di Sarum<br>ti manderei schiamazzando a [[motifs/home\|casa]] a Camelot. |
 | CORNOVAGLIA | Come, sei pazzo, vecchio? |
 | *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] a [[characters/kent\|Kent]] Come veniste a lite? Dite questo. |
 | [[characters/kent\|KENT]] | Non v’è coppia di contrari che serbi più antipatia<br>di me e d’un tal furfante. |
@@ -1815,7 +1815,7 @@ tags:
 | CAVALIERE | Per quanto ho saputo,<br>la [[motifs/night\|notte]] prima non v’era proposito<br>della sua partenza. |
 | [[characters/kent\|KENT]] | (svegliandosi) Salute a te, nobile padrone. |
 | LEAR | Come! Fai di questa vergogna il tuo passatempo? |
-| [[archetypes/fool\|MATTO]] | Ah, ah, guarda, porta giarrettiere crudeli! I cavalli si legano per la testa, i [[dogs\|cani]] e gli orsi per il collo, le scimmie per i lombi, e gli uomini per le gambe. Quando un uomo è troppo gagliardo di gambe, allora porta calze di legno. |
+| [[archetypes/fool\|MATTO]] | Ah, ah, guarda, porta giarrettiere crudeli! I cavalli si legano per la testa, i cani e gli orsi per il collo, le scimmie per i lombi, e gli uomini per le gambe. Quando un uomo è troppo gagliardo di gambe, allora porta calze di legno. |
 | LEAR | (a [[characters/kent\|Kent]])<br>Chi è colui che ha tanto sbagliato il tuo posto<br>da metterti qui? |
 | [[characters/kent\|KENT]] | Sono l’uno e l’altra:<br>vostro figlio e vostra figlia. |
 | LEAR | No. |
@@ -1825,7 +1825,7 @@ tags:
 | LEAR | No, no, non l’avrebbero fatto. |
 | [[characters/kent\|KENT]] | Sì, l’hanno fatto. |
 | LEAR | Per Giove, giuro di no. Non oserebbero farlo,<br>non vorrebbero, non potrebbero farlo. È peggio che assassinio<br>fare al rispetto dovuto un oltraggio così violento.<br>Spiegami con tutta modesta fretta in che modo<br>tu possa meritare, o essi proporre, questo trattamento,<br>venendo tu da noi. |
-| [[characters/kent\|KENT]] | Mio signore, quando alla loro [[motifs/home\|casa]]<br>consegnai loro le lettere di vostra altezza,<br>prima ch’io mi fossi alzato dal luogo che mostrava<br>in ginocchio il mio dovere, giunse un corriere fumante,<br>cotto nella sua fretta, mezzo senza fiato, ansimando<br>saluti da Gonoril, sua padrona;<br>consegnò lettere a dispetto dell’interruzione,<br>che essi subito lessero, e sul cui contenuto<br>chiamarono a raccolta la servitù, montarono senz’altro a [[motifs/horse\|cavallo]],<br>mi comandarono di seguirli e d’attendere<br>il comodo della loro risposta, mi diedero sguardi freddi;<br>e incontrando qui l’altro messaggero,<br>la cui accoglienza vidi bene ch’aveva avvelenato la mia—<br>essendo egli proprio quel tale che poco fa<br>s’era così sfacciatamente esibito contro vostra altezza—<br>avendo in me più uomo che senno, sguainai.<br>Egli levò a rumore la [[house\|casa]] con grida forti e vigliacche.<br>Vostro figlio e vostra figlia giudicarono questa trasgressione degna<br>di questa vergogna che qui patisce. |
+| [[characters/kent\|KENT]] | Mio signore, quando alla loro [[motifs/home\|casa]]<br>consegnai loro le lettere di vostra altezza,<br>prima ch’io mi fossi alzato dal luogo che mostrava<br>in ginocchio il mio dovere, giunse un corriere fumante,<br>cotto nella sua fretta, mezzo senza fiato, ansimando<br>saluti da Gonoril, sua padrona;<br>consegnò lettere a dispetto dell’interruzione,<br>che essi subito lessero, e sul cui contenuto<br>chiamarono a raccolta la servitù, montarono senz’altro a [[motifs/horse\|cavallo]],<br>mi comandarono di seguirli e d’attendere<br>il comodo della loro risposta, mi diedero sguardi freddi;<br>e incontrando qui l’altro messaggero,<br>la cui accoglienza vidi bene ch’aveva avvelenato la mia—<br>essendo egli proprio quel tale che poco fa<br>s’era così sfacciatamente esibito contro vostra altezza—<br>avendo in me più uomo che senno, sguainai.<br>Egli levò a rumore la casa con grida forti e vigliacche.<br>Vostro figlio e vostra figlia giudicarono questa trasgressione degna<br>di questa vergogna che qui patisce. |
 | LEAR | Oh, come questa madre mi si gonfia verso il cuore!<br>Histerica passio, giù, dolore che sali;<br>il tuo elemento è di sotto.—Dov’è questa figlia? |
 | [[characters/kent\|KENT]] | Col conte, signore, là dentro. |
 | LEAR | Non seguitemi; restate lì. |
@@ -1854,11 +1854,11 @@ tags:
 | CORNOVAGLIA | Salute a vostra grazia. |
 | *(didascalia)* | [[characters/kent\|Kent]] viene qui liberato |
 | [[characters/regan\|REGAN]] | Son lieta di vedere vostra altezza. |
-| LEAR | [[characters/regan\|Regan]], credo che lo siate. So che ragione<br>ho di crederlo. Se non ne foste lieta<br>[[divorce\|divorzierei]] dal sepolcro di tua madre,<br>come da tomba d’un’adultera. (A [[characters/kent\|Kent]]) Ebbene, siete libero?<br>Di ciò un’altra [[motifs/time\|volta]].—Amata [[characters/regan\|Regan]],<br>tua sorella non vale nulla. Oh, [[characters/regan\|Regan]], ella ha legato<br>qui, come un avvoltoio, una scortesia dai denti aguzzi.<br>A stento posso parlarti. Non crederai<br>di che deplorata natura—oh, [[characters/regan\|Regan]]! |
+| LEAR | [[characters/regan\|Regan]], credo che lo siate. So che ragione<br>ho di crederlo. Se non ne foste lieta<br>divorzierei dal sepolcro di tua madre,<br>come da tomba d’un’adultera. (A [[characters/kent\|Kent]]) Ebbene, siete libero?<br>Di ciò un’altra [[motifs/time\|volta]].—Amata [[characters/regan\|Regan]],<br>tua sorella non vale nulla. Oh, [[characters/regan\|Regan]], ella ha legato<br>qui, come un avvoltoio, una scortesia dai denti aguzzi.<br>A stento posso parlarti. Non crederai<br>di che deplorata natura—oh, [[characters/regan\|Regan]]! |
 | [[characters/regan\|REGAN]] | Vi prego, signore, abbiate pazienza. Ho [[concepts/hope\|speranza]]<br>che voi sappiate stimare il suo [[motifs/desert\|merito]] meno<br>di quanto ella sappia trascurare il suo dovere. |
 | LEAR | Le mie maledizioni su di lei. |
 | [[characters/regan\|REGAN]] | Oh signore, voi siete vecchio.<br>La [[concepts/nature\|natura]] in voi sta proprio sull’orlo<br>del suo confine. Dovreste esser retto e guidato<br>da qualche discernimento che veda il vostro stato<br>meglio di voi stesso. Perciò vi prego<br>di far ritorno da nostra sorella;<br>dite che le avete fatto torto, signore. |
-| LEAR | Chiederle [[concepts/forgiveness\|perdono]]?<br>Notate come questo si confà alla [[house\|casa]]? |
+| LEAR | Chiederle [[concepts/forgiveness\|perdono]]?<br>Notate come questo si confà alla casa? |
 | *(didascalia)* | Inginocchiandosi «Cara figlia, confesso che sono vecchio. |
 | LEAR | La vecchiaia è inutile. In ginocchio ti prego<br>che tu voglia concedermi vesti, letto e cibo.» |
 | [[characters/regan\|REGAN]] | Buon signore, basta. Sono giochi sconvenienti.<br>Tornate da mia sorella. |
@@ -1891,7 +1891,7 @@ tags:
 | LEAR | Ora ti prego, figlia, non farmi impazzire.<br>Non ti darò fastidio, [[archetypes/child\|figlia]] mia. Addio.<br>Non ci incontreremo più, non ci vedremo più.<br>Eppure tu sei la mia carne, il mio [[motifs/blood\|sangue]], mia figlia—<br>o piuttosto una malattia che sta dentro la mia carne,<br>che devo per forza chiamare mia. Tu sei un foruncolo,<br>una piaga di peste, un carbonchio gonfio<br>nel mio [[motifs/blood\|sangue]] corrotto. Ma non ti rimprovererò.<br>Venga la vergogna quando vuole, io non la chiamo.<br>Non ordino al portatore del tuono di scagliarlo,<br>né racconto storie di te a Giove che alto giudica.<br>Correggiti quando puoi; migliora con tuo comodo.<br>Io so essere paziente, io posso stare con [[characters/regan\|Regan]],<br>io e i miei cento cavalieri. |
 | [[characters/regan\|REGAN]] | Non proprio così, signore.<br>Non vi aspetto ancora, né sono provvista<br>per accogliervi come si conviene. Date ascolto, signore, a mia sorella;<br>ché quelli che mescolano ragione alla vostra passione<br>devono contentarsi di pensare che siete vecchio, e dunque—<br>ma ella sa quel che fa. |
 | LEAR | È [[motifs/well\|ben]] detto questo, ora? |
-| [[characters/regan\|REGAN]] | Oso sostenerlo, signore. Come, cinquanta seguaci?<br>Non sta [[motifs/well\|bene]] così? Che bisogno avreste di più,<br>anzi, perfino di tanti, quando spesa e pericolo<br>parlano contro un numero così grande? Come, in una [[house\|casa]],<br>potrebbero molte persone sotto due comandi<br>mantenere concordia? È difficile, quasi impossibile. |
+| [[characters/regan\|REGAN]] | Oso sostenerlo, signore. Come, cinquanta seguaci?<br>Non sta [[motifs/well\|bene]] così? Che bisogno avreste di più,<br>anzi, perfino di tanti, quando spesa e pericolo<br>parlano contro un numero così grande? Come, in una casa,<br>potrebbero molte persone sotto due comandi<br>mantenere concordia? È difficile, quasi impossibile. |
 | GONORIL | Perché non potreste, mio signore, ricevere servizio<br>da quelli ch’ella chiama servi, o dai miei? |
 | [[characters/regan\|REGAN]] | E perché no, mio signore? Se allora capitasse loro di trascurarvi,<br>potremmo correggerli. Se verrete da me—<br>ché ora scorgo un pericolo—vi supplico<br>di portarne solo venticinque; a più di tanti<br>non darò né posto né riconoscimento. |
 | LEAR | Vi ho dato tutto. |
@@ -1899,14 +1899,14 @@ tags:
 | LEAR | Vi feci mie tutrici, mie depositarie,<br>ma serbai la riserva d’esser seguito<br>da un tal numero. Come, devo venire da voi<br>con venticinque, [[characters/regan\|Regan]]? L’avete detto? |
 | [[characters/regan\|REGAN]] | E lo ripeto, mio signore. Non di più con me. |
 | LEAR | Quelle creature malvagie appaiono pur [[motifs/well\|ben]] fatte<br>quando altre sono più malvagie. Non essere il peggiore<br>dà un certo grado di lode. (A Gonoril) Verrò con<br>te.<br>I tuoi cinquanta sono pur il [[topoi/double\|doppio]] di venticinque,<br>e tu vali due volte il suo [[motifs/love\|amore]]. |
-| GONORIL | Ascoltatemi, mio signore.<br>Che bisogno avete di venticinque, di dieci o di cinque,<br>per seguirvi in una [[house\|casa]] dove il doppio di tanti<br>hanno l’ordine di servirvi? |
+| GONORIL | Ascoltatemi, mio signore.<br>Che bisogno avete di venticinque, di dieci o di cinque,<br>per seguirvi in una casa dove il doppio di tanti<br>hanno l’ordine di servirvi? |
 | [[characters/regan\|REGAN]] | Che bisogno d’uno solo? |
 | LEAR | Oh, non ragionate del bisogno! I nostri più vili mendicanti<br>hanno del superfluo nella loro cosa più povera.<br>Non concedete alla [[concepts/nature\|natura]] più di quanto la [[concepts/nature\|natura]] chiede,<br>e la vita dell’uomo vale quanto quella d’una bestia. Tu sei una dama.<br>Se solo andar caldi fosse magnificenza,<br>ebbene, la [[concepts/nature\|natura]] non ha bisogno di ciò che tu, magnifica, indossi,<br>che a stento ti tiene calda. Ma quanto al vero bisogno—<br>voi, cieli, datemi quella pazienza, la pazienza di cui ho bisogno.<br>Voi mi vedete qui, o dèi, povero vecchio,<br>carico di dolore quanto d’anni, misero in entrambi.<br>Se siete voi ad aizzare il cuore di queste figlie<br>contro il padre, non mi rendete tanto [[archetypes/fool\|matto]]<br>da sopportarlo mansueto. Toccatemi di nobile ira.<br>Oh, non lasciate che le armi delle donne, gocce d’[[motifs/water\|acqua]],<br>macchino le mie guance d’uomo! No, streghe snaturate,<br>avrò tali vendette su voi due<br>che tutto il mondo—farò tali cose—<br>quali siano, ancora non so; ma saranno<br>i terrori della terra. Credete ch’io pianga.<br>No, non piangerò. |
 | *(didascalia)* | [[motifs/storm\|Tempesta]] all’interno |
 | LEAR | Ho ben motivo di piangere, ma questo cuore<br>si spezzerà in centomila schegge<br>prima ch’io pianga.—Oh [[archetypes/fool\|matto]], impazzirò! |
 | *(didascalia)* | Escono Lear, [[characters/gloucester\|Gloucester]], [[characters/kent\|Kent]], il Cavaliere e il [[archetypes/fool\|Matto]] |
 | CORNOVAGLIA | Ritiriamoci. Verrà una [[motifs/storm\|tempesta]]. |
-| [[characters/regan\|REGAN]] | Questa [[house\|casa]] è piccola. Il vecchio e la sua gente<br>non possono esservi [[motifs/well\|bene]] alloggiati. |
+| [[characters/regan\|REGAN]] | Questa casa è piccola. Il vecchio e la sua gente<br>non possono esservi [[motifs/well\|bene]] alloggiati. |
 | GONORIL | È colpa sua;<br>s’è privato del riposo, e deve per forza gustare la sua follia. |
 | [[characters/regan\|REGAN]] | Quanto a lui in persona, lo riceverò volentieri,<br>ma non un solo seguace. |
 | CORNOVAGLIA | Così ho deciso anch’io. Dov’è il mio signore di [[characters/gloucester\|Gloucester]]? |
@@ -1935,11 +1935,11 @@ tags:
 | [[characters/kent\|KENT]] | Sc. 9 |
 | *(didascalia)* | [[motifs/storm\|Tempesta]]. Entrano [[characters/king-lear\|Re Lear]] e il suo [[archetypes/fool\|Matto]] |
 | LEAR | Soffia, [[motifs/wind\|vento]], e spaccati le gote! Infuria, soffia,<br>voi cateratte e uragani, zampillate<br>finché non avrete inzuppato i campanili, annegato le<br>banderuole!<br>Voi fuochi sulfurei, veloci come il pensiero,<br>araldi delle folgori che spaccano le querce,<br>bruciacchiate il mio capo bianco; e tu, tuono che tutto scuoti,<br>schiaccia piatta la spessa rotondità del mondo,<br>spezza lo stampo della [[concepts/nature\|natura]], versa d’un colpo tutti i germi<br>che fanno l’uomo ingrato. |
-| [[archetypes/fool\|MATTO]] | Oh zietto, l’[[motifs/water\|acqua]] benedetta di [[settings/court\|corte]] in una [[house\|casa]] asciutta è meglio di quest’[[motifs/water\|acqua]] piovana all’aperto. Buon zietto, rientra, e chiedi la benedizione alle tue figlie. Ecco una [[motifs/night\|notte]] che non ha pietà né del savio né del [[archetypes/fool\|matto]]. |
+| [[archetypes/fool\|MATTO]] | Oh zietto, l’[[motifs/water\|acqua]] benedetta di [[settings/court\|corte]] in una casa asciutta è meglio di quest’[[motifs/water\|acqua]] piovana all’aperto. Buon zietto, rientra, e chiedi la benedizione alle tue figlie. Ecco una [[motifs/night\|notte]] che non ha pietà né del savio né del [[archetypes/fool\|matto]]. |
 | LEAR | Rimbomba a sazietà; sputa, [[motifs/fire\|fuoco]]; zampilla, pioggia.<br>Né pioggia, né [[motifs/wind\|vento]], né tuono, né [[motifs/fire\|fuoco]] sono mie figlie.<br>Non v’accuso, o elementi, di scortesia.<br>Non vi diedi mai regno, non vi chiamai figli.<br>Non mi dovete obbedienza. E allora, lasciate cadere<br>il vostro orribile piacere. Qui io sto, vostro schiavo,<br>povero vecchio infermo, debole e disprezzato.<br>Eppure vi chiamo ministri servili,<br>che con due perniciose figlie avete unito<br>la vostra battaglia generata in alto contro un capo<br>vecchio e bianco come questo. Oh, è cosa turpe! |
-| [[archetypes/fool\|MATTO]] | Chi ha una [[house\|casa]] in cui mettere la testa ha un buon copricapo. |
+| [[archetypes/fool\|MATTO]] | Chi ha una casa in cui mettere la testa ha un buon copricapo. |
 | *(didascalia)* | Canta |
-| [[archetypes/fool\|MATTO]] | La brachetta che vuol [[house\|alloggiare]] prima che la testa abbia tetto,<br>essa e la testa si faran pidocchiose,<br>così i pezzenti si sposano a frotte.<br><br>L’uomo che fa del suo dito del piede<br>ciò che dovrebbe fare del suo cuore<br>avrà un callo che grida guai,<br>e muterà il suo [[motifs/sleep\|sonno]] in veglia—<br>ché non ci fu mai bella donna che non facesse smorfie allo specchio. |
+| [[archetypes/fool\|MATTO]] | La brachetta che vuol alloggiare prima che la testa abbia tetto,<br>essa e la testa si faran pidocchiose,<br>così i pezzenti si sposano a frotte.<br><br>L’uomo che fa del suo dito del piede<br>ciò che dovrebbe fare del suo cuore<br>avrà un callo che grida guai,<br>e muterà il suo [[motifs/sleep\|sonno]] in veglia—<br>ché non ci fu mai bella donna che non facesse smorfie allo specchio. |
 | LEAR | No, io sarò il modello d’ogni pazienza. |
 | *(didascalia)* | Si siede. Entra il conte di [[characters/kent\|Kent]] travestito |
 | LEAR | Non dirò nulla. |
@@ -1947,19 +1947,19 @@ tags:
 | [[archetypes/fool\|MATTO]] | Perbacco, ecco una grazia e una brachetta—cioè un savio e un [[archetypes/fool\|matto]]. |
 | [[characters/kent\|KENT]] | (a Lear)<br>Ahimè, signore, sedete qui? Le cose che [[motifs/love\|amano]] la [[motifs/night\|notte]]<br>non [[motifs/love\|amano]] notti come questa. I cieli irati<br>atterriscono perfino i vagabondi del buio<br>e li fanno restare nelle loro tane. Da quando son uomo<br>tali lenzuoli di [[motifs/fire\|fuoco]], tali scoppi d’orrendo tuono,<br>tali gemiti di [[motifs/wind\|vento]] ruggente e di pioggia non<br>ricordo d’avere udito. La [[concepts/nature\|natura]] dell’uomo non può reggere<br>né l’afflizione né la violenza. |
 | LEAR | Che i grandi dèi,<br>che tengono questo tremendo fracasso sopra le nostre teste,<br>scoprano ora i loro nemici. Trema, tu miserabile<br>che dentro di te hai delitti non rivelati<br>e non frustati dalla giustizia; nasconditi, tu mano sanguinaria,<br>tu spergiuro, e tu che simuli virtù<br>e sei incestuoso; sciagurato, va’ in pezzi dal tremore,<br>tu che sotto coperta e comoda apparenza<br>hai macchinato contro la vita d’un uomo;<br>colpe rinchiuse e serrate, squarciate i vostri centri nascosti<br>e implorate grazia a questi terribili messi.<br>Io sono un uomo più peccato contro che peccatore. |
-| [[characters/kent\|KENT]] | Ahimè, a capo scoperto?<br>Grazioso mio signore, qui vicino c’è un tugurio.<br>Qualche [[concepts/friendship\|amicizia]] vi presterà contro la tempesta.<br>Riposatevi là, mentre io a questa dura [[house\|casa]]—<br>più dura della pietra di cui è fatta,<br>e che proprio or ora, quando chiedevo di voi,<br>mi negò l’ingresso—tornerò e forzerò<br>la loro lesinata cortesia. |
+| [[characters/kent\|KENT]] | Ahimè, a capo scoperto?<br>Grazioso mio signore, qui vicino c’è un tugurio.<br>Qualche [[concepts/friendship\|amicizia]] vi presterà contro la tempesta.<br>Riposatevi là, mentre io a questa dura casa—<br>più dura della pietra di cui è fatta,<br>e che proprio or ora, quando chiedevo di voi,<br>mi negò l’ingresso—tornerò e forzerò<br>la loro lesinata cortesia. |
 | LEAR | La mia mente comincia a girare.<br>(Al [[archetypes/fool\|Matto]]) Vieni, ragazzo mio. Come stai, ragazzo mio? Hai<br>freddo?<br>Ho freddo anch’io.—Dov’è questa paglia, amico?<br>Strana è l’arte delle nostre necessità,<br>che sa render preziose le cose vili. Su, il tuo<br>tugurio.—<br>Povero [[archetypes/fool\|matto]] e furfante, ho una parte del mio cuore<br>che ancora si duole per te. |
 | *(didascalia)* | Il [[archetypes/fool\|MATTO]] canta |
 | LEAR | Chi ha un pochino piccino di senno,<br>con oh-issa, il [[motifs/wind\|vento]] e la pioggia,<br>deve contentarsi come porta la sorte,<br>ché la pioggia piove ogni giorno. |
 | LEAR | Vero, mio buon ragazzo. (A [[characters/kent\|Kent]]) Vieni, portaci a questo tugurio. Escono |
 | *(didascalia)* | Entrano il [[characters/duke-of-gloucester\|duca di Gloucester]] ed [[characters/edmund\|Edmund]] il bastardo, con lumi |
-| [[characters/gloucester\|GLOUCESTER]] | Ahimè, ahimè, [[characters/edmund\|Edmund]], non mi piace questo<br>procedere snaturato. Quando chiesi il loro permesso<br>di poter aver pietà di lui, mi tolsero<br>l’uso della mia stessa [[house\|casa]], m’ingiunsero sotto [[motifs/pain\|pena]]<br>del loro disfavore di non parlare di lui,<br>di non intercedere per lui, né in alcun modo di sostenerlo. |
+| [[characters/gloucester\|GLOUCESTER]] | Ahimè, ahimè, [[characters/edmund\|Edmund]], non mi piace questo<br>procedere snaturato. Quando chiesi il loro permesso<br>di poter aver pietà di lui, mi tolsero<br>l’uso della mia stessa casa, m’ingiunsero sotto [[motifs/pain\|pena]]<br>del loro disfavore di non parlare di lui,<br>di non intercedere per lui, né in alcun modo di sostenerlo. |
 | [[characters/edmund\|EDMUND]] | Cosa selvaggia e snaturata! |
 | [[characters/gloucester\|GLOUCESTER]] | Suvvia, non dite nulla. C’è divisione fra i Duchi, e cosa peggiore ancora. Ho ricevuto una lettera questa [[motifs/night\|notte]]—è pericoloso parlarne—ho chiuso la lettera nel mio stanzino. Queste offese che il [[archetypes/king\|Re]] ora sopporta saranno vendicate fino in [[motifs/home\|fondo]]. Parte d’un esercito è già sbarcata. Dobbiamo inclinare dalla parte del [[archetypes/king\|Re]]. Andrò a cercarlo e di nascosto lo soccorrerò. Andate voi e tenete a discorso il Duca, sì che la mia [[concepts/charity\|carità]] non sia da lui avvertita. Se chiede di me, sono malato e andato a letto. Anche se dovessi morirne—e nulla di meno mi si minaccia—il [[archetypes/king\|Re]] mio vecchio padrone dev’essere soccorso. Qualcosa di strano si prepara. [[characters/edmund\|Edmund]], vi prego, siate cauto. Esce |
 | [[characters/edmund\|EDMUND]] | Questa cortesia, a te vietata, il Duca<br>la saprà all’istante, e anche di quella lettera.<br>Questo pare un bel merito, e deve fruttarmi<br>ciò che mio padre perde: nientemeno che tutto.<br>Il giovane sale quando il vecchio cade. Esce |
 | *(didascalia)* | [[motifs/storm\|Tempesta]]. Entrano [[characters/king-lear\|Re Lear]], il conte di [[characters/kent\|Kent]] travestito, e il [[archetypes/fool\|Matto]] di Lear |
 | [[characters/kent\|KENT]] | Ecco il luogo, mio signore. Mio buon signore, entrate.<br>La tirannia della [[motifs/night\|notte]] all’aperto è troppo aspra<br>perché la [[concepts/nature\|natura]] la sopporti. |
-| LEAR | Lasciami [[Alone\|solo]]. |
+| LEAR | Lasciami solo. |
 | [[characters/kent\|KENT]] | Mio buon signore, entrate qui. |
 | LEAR | Mi vuoi spezzare il cuore? |
 | [[characters/kent\|KENT]] | Preferirei spezzare il mio. Mio buon signore, entrate. |
@@ -2004,7 +2004,7 @@ tags:
 | [[characters/edgar\|EDGAR]] | Il Povero Tom ha freddo. |
 | [[characters/gloucester\|GLOUCESTER]] | (a Lear)<br>Venite dentro con me. Il mio dovere non può sopportare<br>d’obbedire in tutto ai duri comandi delle vostre figlie.<br>Benché la loro ingiunzione sia di sbarrare le mie porte<br>e di lasciare che questa tirannica [[motifs/night\|notte]] v’afferri,<br>pure ho osato venire a cercarvi<br>e a condurvi dove cibo e [[motifs/fire\|fuoco]] son pronti. |
 | LEAR | Prima lasciate ch’io parli con questo filosofo.<br>(A [[characters/edgar\|Edgar]]) Qual è la causa del tuono? |
-| [[characters/kent\|KENT]] | Mio buon signore,<br>accettate la sua offerta; entrate nella [[house\|casa]]. |
+| [[characters/kent\|KENT]] | Mio buon signore,<br>accettate la sua offerta; entrate nella casa. |
 | LEAR | Voglio scambiare una parola con questo dottissimo tebano.<br>(A [[characters/edgar\|Edgar]]) Qual è il vostro studio? |
 | [[characters/edgar\|EDGAR]] | Come prevenire il demonio, e come uccidere i parassiti. |
 | LEAR | Lasciate ch’io vi chieda una parola in privato.<br>Conversano in disparte |
@@ -2026,7 +2026,7 @@ tags:
 | *(didascalia)* | Escono |
 | [[characters/edgar\|EDGAR]] | Sc. 12 |
 | *(didascalia)* | Entrano il duca di Cornovaglia ed [[characters/edmund\|Edmund]] il bastardo |
-| CORNOVAGLIA | Avrò la mia [[concepts/revenge\|vendetta]] prima di lasciare questa [[house\|casa]]. [[characters/edmund\|EDMUND]] Come io possa esser biasimato, mio signore, per aver così ceduto la [[concepts/nature\|natura]] alla lealtà, un poco mi spaventa al solo pensarlo. |
+| CORNOVAGLIA | Avrò la mia [[concepts/revenge\|vendetta]] prima di lasciare questa casa. [[characters/edmund\|EDMUND]] Come io possa esser biasimato, mio signore, per aver così ceduto la [[concepts/nature\|natura]] alla lealtà, un poco mi spaventa al solo pensarlo. |
 | CORNOVAGLIA | Ora m’accorgo che non fu del tutto la malvagia indole di vostro fratello a fargli cercare la [[motifs/death\|morte]] del padre, ma un merito provocante messo all’opera da una biasimevole cattiveria in lui stesso. |
 | [[characters/edmund\|EDMUND]] | Com’è maligna la mia fortuna, che devo pentirmi d’esser giusto! Questa è la lettera di cui parlò, che lo prova parte informata dei vantaggi della Francia. O cieli, che il suo tradimento non fosse, o non fossi io a scoprirlo! |
 | CORNOVAGLIA | Venite con me dalla Duchessa. |
@@ -2064,12 +2064,12 @@ tags:
 | [[archetypes/fool\|MATTO]] | Venite qua, signora. Vi chiamate Gonoril? |
 | LEAR | Non può negarlo. |
 | [[archetypes/fool\|MATTO]] | Chiedo [[concepts/mercy\|venia]], v’avevo preso per uno sgabello. |
-| LEAR | Ed ecco l’altra, il cui sguardo storto proclama<br>di che stoffa è fatto il suo cuore. Fermatela là.<br>Alle armi, alle armi, [[Sword\|spada]], [[motifs/fire\|fuoco]], corruzione nel tribunale!<br>Falso giudice, perché l’hai lasciata scappare? |
+| LEAR | Ed ecco l’altra, il cui sguardo storto proclama<br>di che stoffa è fatto il suo cuore. Fermatela là.<br>Alle armi, alle armi, spada, [[motifs/fire\|fuoco]], corruzione nel tribunale!<br>Falso giudice, perché l’hai lasciata scappare? |
 | [[characters/edgar\|EDGAR]] | Benedetti i tuoi cinque sensi. |
 | [[characters/kent\|KENT]] | (a Lear)<br>Oh, pietà! Signore, dov’è ora quella pazienza<br>che tanto spesso vi vantaste di serbare? |
 | [[characters/edgar\|EDGAR]] | (a parte)<br>Le mie [[motifs/tears\|lacrime]] cominciano a prendere così tanto le sue parti<br>che guasteranno la mia finzione. |
-| LEAR | I piccoli [[dogs\|cani]] e tutti quanti,<br>Tray, Blanch e Sweetheart—guarda, mi abbaiano contro. |
-| [[characters/edgar\|EDGAR]] | Tom scaglierà loro la testa.—Via, botoli!<br>Sia la tua bocca nera o bianca,<br>dente che avvelena se morde,<br>mastino, levriero, bastardo torvo,<br>segugio o spaniel, cagna o cane,<br>botolo dalla coda mozza o dalla coda a spirale,<br>Tom li farà piangere e ululare;<br>ché al lanciar così la mia testa<br>i [[dogs\|cani]] saltano il cancello, e tutti son fuggiti.<br>Loudla, doodla! Su, marciamo alle sagre e alle fiere<br>e ai borghi di mercato. Povero Tom, il tuo corno è asciutto. |
+| LEAR | I piccoli cani e tutti quanti,<br>Tray, Blanch e Sweetheart—guarda, mi abbaiano contro. |
+| [[characters/edgar\|EDGAR]] | Tom scaglierà loro la testa.—Via, botoli!<br>Sia la tua bocca nera o bianca,<br>dente che avvelena se morde,<br>mastino, levriero, bastardo torvo,<br>segugio o spaniel, cagna o cane,<br>botolo dalla coda mozza o dalla coda a spirale,<br>Tom li farà piangere e ululare;<br>ché al lanciar così la mia testa<br>i cani saltano il cancello, e tutti son fuggiti.<br>Loudla, doodla! Su, marciamo alle sagre e alle fiere<br>e ai borghi di mercato. Povero Tom, il tuo corno è asciutto. |
 | LEAR | Poi lascino che facciano l’anatomia di [[characters/regan\|Regan]]; si veda che cosa cova attorno al suo cuore. C’è qualche causa nella [[concepts/nature\|natura]] che produce questa durezza? (A [[characters/edgar\|Edgar]]) Voi, signore, vi assumo per uno dei miei cento; solo che non mi piace la foggia delle vostre vesti. Direte che sono abiti persiani; ma si cambino. |
 | [[characters/kent\|KENT]] | Ora, mio buon signore, coricatevi qui un poco. |
 | LEAR | Non fate rumore, non fate rumore. Tirate le cortine.<br>Così, così, così. Andremo a cena domattina. Così, così, così.<br>Si addormenta. Entra il [[characters/duke-of-gloucester\|duca di Gloucester]] |
@@ -2079,7 +2079,7 @@ tags:
 | [[characters/kent\|KENT]] | (a Lear) La [[concepts/nature\|natura]] oppressa dorme.<br>Questo riposo avrebbe potuto ancora lenire i tuoi nervi spezzati<br>i quali, se le circostanze non lo permettono,<br>saranno di difficile cura. (Al [[archetypes/fool\|Matto]]) Vieni, aiuta a portare il tuo<br>padrone.<br>Tu non devi restare indietro. |
 | [[characters/gloucester\|GLOUCESTER]] | Su, andiamo via. |
 | *(didascalia)* | Escono tutti tranne [[characters/edgar\|Edgar]] |
-| [[characters/edgar\|EDGAR]] | Quando vediamo i nostri superiori portare i nostri guai,<br>a stento pensiamo nemiche le nostre miserie.<br>Chi soffre [[Alone\|solo]], soffre più nella mente,<br>lasciandosi dietro cose libere e lieti spettacoli.<br>Ma allora la mente sorvola gran parte del patire<br>quando il dolore ha compagni, e la sofferenza sodalizio.<br>Quanto lieve e portabile mi pare ora il mio [[motifs/pain\|dolore]],<br>quando ciò che fa piegare me fa piegare il<br>[[archetypes/king\|Re]].<br>Egli coi figli come io col padre. Tom, via.<br>Sta’ attento ai grandi rumori, e rivelati<br>quando la falsa opinione, i cui torti pensieri ti macchiano,<br>alla tua giusta prova ti richiami e ti riconcili.<br>Qualunque altra cosa accada stanotte, scampi salvo il [[archetypes/king\|Re]]!<br>Nasconditi, nasconditi. |
+| [[characters/edgar\|EDGAR]] | Quando vediamo i nostri superiori portare i nostri guai,<br>a stento pensiamo nemiche le nostre miserie.<br>Chi soffre solo, soffre più nella mente,<br>lasciandosi dietro cose libere e lieti spettacoli.<br>Ma allora la mente sorvola gran parte del patire<br>quando il dolore ha compagni, e la sofferenza sodalizio.<br>Quanto lieve e portabile mi pare ora il mio [[motifs/pain\|dolore]],<br>quando ciò che fa piegare me fa piegare il<br>[[archetypes/king\|Re]].<br>Egli coi figli come io col padre. Tom, via.<br>Sta’ attento ai grandi rumori, e rivelati<br>quando la falsa opinione, i cui torti pensieri ti macchiano,<br>alla tua giusta prova ti richiami e ti riconcili.<br>Qualunque altra cosa accada stanotte, scampi salvo il [[archetypes/king\|Re]]!<br>Nasconditi, nasconditi. |
 | *(didascalia)* | Esce |
 | [[characters/edgar\|EDGAR]] | Sc. 14 |
 | *(didascalia)* | Entrano il duca di Cornovaglia e [[characters/regan\|Regan]], e Gonoril ed [[characters/edmund\|Edmund]] il bastardo, e Servi |
@@ -2136,7 +2136,7 @@ tags:
 | CORNOVAGLIA | Servo della gleba! |
 | SERVO | E allora, avanti, e affrontate il rischio dell’ira.<br>Sguainano e combattono |
 | *(didascalia)* | [[characters/regan\|REGAN]] a un altro Servo |
-| SERVO | Dammi la tua [[Sword\|spada]]. Un villano rizzarsi così!<br>Ella prende una [[Sword\|spada]] e lo trafigge alle spalle |
+| SERVO | Dammi la tua spada. Un villano rizzarsi così!<br>Ella prende una spada e lo trafigge alle spalle |
 | SERVO | (a [[characters/gloucester\|Gloucester]])<br>Oh, sono ucciso, mio signore! Pure vi resta un occhio<br>per vedere qualche danno su di lui. |
 | *(didascalia)* | [[characters/regan\|Regan]] lo pugnala di nuovo |
 | SERVO | Oh! Muore |
@@ -2226,7 +2226,7 @@ tags:
 | ALBANY | Oh mio buon signore, il duca di Cornovaglia è morto,<br>ucciso dal suo servo mentre stava per cavare<br>l’altro occhio a [[characters/gloucester\|Gloucester]]. |
 | ALBANY | Gli occhi di [[characters/gloucester\|Gloucester]]? |
 | *(didascalia)* | FSECOND GENTLEMAN |
-| ALBANY | Un servo da lui allevato, preso da rimorso,<br>si oppose all’atto, volgendo la [[Sword\|spada]]<br>contro il suo gran padrone; il quale, adiratosi,<br>gli si avventò addosso, e fra loro lo abbatterono morto,<br>ma non senza quel colpo funesto che da allora<br>l’ha trascinato dietro. |
+| ALBANY | Un servo da lui allevato, preso da rimorso,<br>si oppose all’atto, volgendo la spada<br>contro il suo gran padrone; il quale, adiratosi,<br>gli si avventò addosso, e fra loro lo abbatterono morto,<br>ma non senza quel colpo funesto che da allora<br>l’ha trascinato dietro. |
 | ALBANY | Questo mostra che voi siete lassù,<br>o giudici, che questi nostri delitti di quaggiù<br>sapete vendicare così presto. Ma oh, povero [[characters/gloucester\|Gloucester]]!<br>Perse egli anche l’altro occhio? |
 | *(didascalia)* | SECOND GENTLEMAN Entrambi, entrambi, mio signore. 80 |
 | ALBANY | (A Gonoril) Questa lettera, madama, chiede una pronta<br>risposta.<br>È di vostra sorella. |
@@ -2239,7 +2239,7 @@ tags:
 | ALBANY | No, mio buon signore; l’ho incontrato mentre tornava indietro. |
 | ALBANY | Conosce egli la scelleratezza? 90 |
 | *(didascalia)* | ECONDGENTLEMAN |
-| ALBANY | Sì, mio buon signore; fu lui a denunciarlo,<br>e lasciò la [[house\|casa]] apposta perché la loro punizione<br>avesse corso più libero. |
+| ALBANY | Sì, mio buon signore; fu lui a denunciarlo,<br>e lasciò la casa apposta perché la loro punizione<br>avesse corso più libero. |
 | ALBANY | [[characters/gloucester\|Gloucester]], io vivo<br>per ringraziarti dell’[[motifs/love\|amore]] che mostrasti al [[archetypes/king\|Re]],<br>e per [[concepts/revenge\|vendicare]] i tuoi occhi.—Vieni qua, amico,<br>dimmi che altro sai. Escono |
 | *(didascalia)* | Entrano il conte di [[characters/kent\|Kent]] travestito e il Primo Gentiluomo |
 | [[characters/kent\|KENT]] | Sapete la ragione per cui il [[characters/king-of-france\|re di Francia]] è tornato indietro così all’improvviso? |
@@ -2256,7 +2256,7 @@ tags:
 | [[characters/kent\|KENT]] | Non fino alla furia. Pazienza e dolore gareggiavano<br>a chi la esprimesse più bella. Voi avete visto<br>sole e pioggia insieme; i suoi sorrisi e le sue [[motifs/tears\|lacrime]]<br>erano simili, ma in modo migliore. Quei felici sorrisetti<br>che giocavano sul suo labbro maturo parevano non sapere<br>quali ospiti fossero nei suoi occhi, e di là partivano<br>come perle cadute da diamanti. Insomma,<br>il dolore sarebbe una rarità quanto mai amata<br>se a tutti stesse così bene. |
 | [[characters/kent\|KENT]] | Non fece ella domanda a parole? |
 | *(didascalia)* | IRST ENTLEMAN |
-| [[characters/kent\|KENT]] | In [[concepts/faith\|fede]] mia, una o due volte sollevò il nome di «padre»<br>ansimando, come se le pesasse sul cuore;<br>gridò: «Sorelle, sorelle, vergogna delle dame, sorelle,<br>[[characters/kent\|Kent]], padre, sorelle, come, nella [[motifs/storm\|tempesta]], nella [[motifs/night\|notte]]!<br>Non si creda più alla pietà!» Allora scosse<br>l’[[motifs/water\|acqua]] santa dai suoi occhi celesti<br>e, domato il clamore, se ne andò via di corsa<br>a trattare [[Alone\|sola]] col dolore. |
+| [[characters/kent\|KENT]] | In [[concepts/faith\|fede]] mia, una o due volte sollevò il nome di «padre»<br>ansimando, come se le pesasse sul cuore;<br>gridò: «Sorelle, sorelle, vergogna delle dame, sorelle,<br>[[characters/kent\|Kent]], padre, sorelle, come, nella [[motifs/storm\|tempesta]], nella [[motifs/night\|notte]]!<br>Non si creda più alla pietà!» Allora scosse<br>l’[[motifs/water\|acqua]] santa dai suoi occhi celesti<br>e, domato il clamore, se ne andò via di corsa<br>a trattare sola col dolore. |
 | [[characters/kent\|KENT]] | Sono le [[motifs/stars\|stelle]],<br>le [[motifs/stars\|stelle]] sopra di noi governano le nostre condizioni;<br>altrimenti uno [[concepts/self\|stesso]] letto e uno stesso seme non potrebbero generare<br>prole così diversa. Non le avete parlato da allora? |
 | *(didascalia)* | IRST ENTLEMAN No. |
 | [[characters/kent\|KENT]] | Fu questo prima che il [[archetypes/king\|Re]] tornasse? |
@@ -2333,7 +2333,7 @@ tags:
 | [[characters/edgar\|EDGAR]] | Ma chi viene qui?<br>Il senno sano non concerà mai<br>così il suo padrone. |
 | LEAR | No, non possono toccarmi per aver battuto moneta. Io sono il [[archetypes/king\|Re]] in persona. |
 | [[characters/edgar\|EDGAR]] | Oh, vista che trafigge il fianco! |
-| LEAR | La [[concepts/nature\|natura]] è superiore all’arte in questo. Ecco il vostro ingaggio. Quel tipo maneggia l’arco come uno spaventapasseri. Tiratemi una freccia da una iarda. Guarda, guarda, un topo! Zitti, zitti, questo [[cheese\|formaggio]] arrostito basterà. Ecco il mio guanto di sfida. Lo sosterrò contro un gigante. Portate su le alabarde brune. Oh, [[motifs/well\|ben]] volato, uccello, nell’aria. Ohilà! Dammi la parola d’ordine. |
+| LEAR | La [[concepts/nature\|natura]] è superiore all’arte in questo. Ecco il vostro ingaggio. Quel tipo maneggia l’arco come uno spaventapasseri. Tiratemi una freccia da una iarda. Guarda, guarda, un topo! Zitti, zitti, questo formaggio arrostito basterà. Ecco il mio guanto di sfida. Lo sosterrò contro un gigante. Portate su le alabarde brune. Oh, [[motifs/well\|ben]] volato, uccello, nell’aria. Ohilà! Dammi la parola d’ordine. |
 | [[characters/edgar\|EDGAR]] | Dolce maggiorana. |
 | LEAR | Passa. |
 | [[characters/gloucester\|GLOUCESTER]] | Conosco quella voce. |
@@ -2393,7 +2393,7 @@ tags:
 | *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] alzandosi Grazie di cuore. |
 | [[characters/edgar\|EDGAR]] | La munificenza e la benedizione del cielo<br>ti mandino dono sopra dono. |
 | *(didascalia)* | Entra Oswald il maggiordomo |
-| OSWALD | Una preda messa a taglia! Felicissimo caso!<br>Quella tua testa senz’occhi fu plasmata carne<br>proprio per far crescere le mie fortune. Tu, infelicissimo traditore,<br>raccogliti in fretta. La [[Sword\|spada]] è fuori<br>che deve distruggerti. |
+| OSWALD | Una preda messa a taglia! Felicissimo caso!<br>Quella tua testa senz’occhi fu plasmata carne<br>proprio per far crescere le mie fortune. Tu, infelicissimo traditore,<br>raccogliti in fretta. La spada è fuori<br>che deve distruggerti. |
 | [[characters/gloucester\|GLOUCESTER]] | Ora la tua mano amica<br>vi metta forza a sufficienza. |
 | OSWALD | (a [[characters/edgar\|Edgar]]) Perché, villano temerario,<br>osi tu sostenere un traditore proclamato? Via,<br>ché l’infezione della sua sorte non prenda<br>ugual presa su di te. Lascia il suo braccio. |
 | [[characters/edgar\|EDGAR]] | Non lo mollo mica, signore, senza motivazione. |
@@ -2430,7 +2430,7 @@ tags:
 | [[characters/cordelia\|CORDELIA]] | Signore, riconoscetemi. |
 | LEAR | Voi siete uno spirito, lo so. Dove moriste? |
 | [[characters/cordelia\|CORDELIA]] | (al Medico) Ancora, ancora fuori strada! |
-| MEDICO | È appena sveglio. Lasciatelo [[Alone\|solo]] un poco. |
+| MEDICO | È appena sveglio. Lasciatelo solo un poco. |
 | LEAR | Dove sono stato? Dove sono? Chiara luce del giorno?<br>Sono grandemente ingannato. Morirei di pietà<br>a veder un altro così. Non so che dire.<br>Non giurerò che queste siano le mie mani. Vediamo:<br>sento la puntura di questo spillo. Vorrei esser certo<br>della mia condizione. |
 | [[characters/cordelia\|CORDELIA]] | (inginocchiandosi) Oh guardatemi, signore,<br>e tenete le mani in benedizione sopra di me.<br>No, signore, voi non dovete inginocchiarvi. |
 | LEAR | Di grazia, non schernitemi.<br>Sono un vecchio molto sciocco e rimbambito,<br>di ottant’anni e più; e a dirla schietta,<br>[[concepts/fear\|temo]] di non essere nel mio perfetto senno.<br>Mi pare che dovrei conoscere voi, e conoscere quest’uomo;<br>eppure son dubbioso, ché ignoro del tutto<br>che luogo sia questo; e tutta l’abilità che ho<br>non ricorda queste vesti; né so<br>dove ho alloggiato la scorsa [[motifs/night\|notte]]. Non ridete di me,<br>ché, com’è vero che sono un uomo, io credo che questa dama<br>sia la mia [[archetypes/child\|figlia]], [[characters/cordelia\|Cordelia]]. |
@@ -2484,7 +2484,7 @@ tags:
 | *(didascalia)* | Entra [[characters/edmund\|Edmund]] |
 | [[characters/edmund\|EDMUND]] | Il nemico è in vista; schierate le vostre forze. 55<br>[Porge] ad Albany un foglio<br>Ecco la stima della loro grande forza e delle loro schiere<br>per diligente ricognizione; ma la vostra fretta<br>ora vi è sollecitata. |
 | ALBANY | Andremo incontro al [[motifs/time\|momento]]. Esce |
-| [[characters/edmund\|EDMUND]] | A entrambe queste sorelle ho giurato il mio [[motifs/love\|amore]],<br>gelose l’una dell’altra come i punti<br>lo sono della vipera. Quale delle due prenderò?—<br>Entrambe?—una?—o nessuna? Nessuna si può godere<br>se restano vive entrambe. Prendere la vedova<br>esaspera e fa impazzire sua sorella Gonoril,<br>e a stento potrò condurre a fine la mia parte<br>finché suo marito è vivo. Ora dunque useremo<br>la sua presenza per la battaglia; e fatto questo,<br>colei che vuol liberarsi di lui escogiti<br>di toglierlo presto di mezzo. Quanto alla sua [[concepts/mercy\|clemenza]]<br>che intende usare verso Lear e verso [[characters/cordelia\|Cordelia]],<br>finita la battaglia, e caduti essi in nostro potere,<br>mai vedranno il suo perdono; ché il mio stato<br>tocca a me difenderlo, non [[debate\|discuterlo]]. Esce |
+| [[characters/edmund\|EDMUND]] | A entrambe queste sorelle ho giurato il mio [[motifs/love\|amore]],<br>gelose l’una dell’altra come i punti<br>lo sono della vipera. Quale delle due prenderò?—<br>Entrambe?—una?—o nessuna? Nessuna si può godere<br>se restano vive entrambe. Prendere la vedova<br>esaspera e fa impazzire sua sorella Gonoril,<br>e a stento potrò condurre a fine la mia parte<br>finché suo marito è vivo. Ora dunque useremo<br>la sua presenza per la battaglia; e fatto questo,<br>colei che vuol liberarsi di lui escogiti<br>di toglierlo presto di mezzo. Quanto alla sua [[concepts/mercy\|clemenza]]<br>che intende usare verso Lear e verso [[characters/cordelia\|Cordelia]],<br>finita la battaglia, e caduti essi in nostro potere,<br>mai vedranno il suo perdono; ché il mio stato<br>tocca a me difenderlo, non discuterlo. Esce |
 | *(didascalia)* | Allarme. Le forze di Francia attraversano la scena guidate dalla [[characters/queen\|regina]] [[characters/cordelia\|Cordelia]] che tiene per mano suo padre. Poi entra [[characters/edgar\|Edgar]] travestito da contadino, guidando il cieco [[characters/duke-of-gloucester\|duca di Gloucester]] |
 | [[characters/edgar\|EDGAR]] | Qui, padre, prendete l’[[archetypes/shadow\|ombra]] di questo cespuglio<br>per vostro buon ospite; pregate che il diritto trionfi.<br>Se mai tornerò da voi<br>vi porterò conforto. Esce |
 | [[characters/gloucester\|GLOUCESTER]] | La grazia vada con voi, signore. |
@@ -2495,11 +2495,11 @@ tags:
 | *(didascalia)* | Entra [[characters/edmund\|Edmund]] con [[characters/king-lear\|Re Lear]] e la [[characters/queen\|regina]] [[characters/cordelia\|Cordelia]] prigionieri, un Capitano e soldati |
 | [[characters/edmund\|EDMUND]] | Alcuni ufficiali li conducano via. Buona guardia<br>finché non si conosca il volere di quei maggiori<br>che devono giudicarli. |
 | [[characters/cordelia\|CORDELIA]] | (a Lear) Non siamo i primi<br>che con le migliori intenzioni hanno incontrato il peggio.<br>Per te, oppresso [[archetypes/king\|Re]], sono abbattuta;<br>altrimenti saprei io stessa sfidare il cipiglio della falsa fortuna.<br>Non vedremo queste figlie e queste sorelle? |
-| LEAR | No, no. Vieni, andiamo in [[motifs/prison\|prigione]].<br>Noi due [[Alone\|soli]] canteremo come [[motifs/birds\|uccelli]] in gabbia.<br>Quando tu mi chiederai la benedizione, io m’inginocchierò<br>e ti chiederò [[concepts/forgiveness\|perdono]]; così vivremo,<br>e pregheremo, e canteremo, e racconteremo vecchie storie, e rideremo<br>delle farfalle dorate, e udremo poveri furfanti<br>parlare delle nuove di [[settings/court\|corte]]; e parleremo anche noi con loro—<br>chi perde e chi vince, chi è dentro, chi è fuori—<br>e ci assumeremo il mistero delle cose<br>come fossimo spie di Dio; e consumeremo,<br>in una [[motifs/prison\|prigione]] murata, fazioni e sette di grandi<br>che fluiscono e rifluiscono con la [[motifs/moon\|luna]]. |
+| LEAR | No, no. Vieni, andiamo in [[motifs/prison\|prigione]].<br>Noi due soli canteremo come [[motifs/birds\|uccelli]] in gabbia.<br>Quando tu mi chiederai la benedizione, io m’inginocchierò<br>e ti chiederò [[concepts/forgiveness\|perdono]]; così vivremo,<br>e pregheremo, e canteremo, e racconteremo vecchie storie, e rideremo<br>delle farfalle dorate, e udremo poveri furfanti<br>parlare delle nuove di [[settings/court\|corte]]; e parleremo anche noi con loro—<br>chi perde e chi vince, chi è dentro, chi è fuori—<br>e ci assumeremo il mistero delle cose<br>come fossimo spie di Dio; e consumeremo,<br>in una [[motifs/prison\|prigione]] murata, fazioni e sette di grandi<br>che fluiscono e rifluiscono con la [[motifs/moon\|luna]]. |
 | [[characters/edmund\|EDMUND]] | (ai soldati) Portateli via. |
 | LEAR | (a [[characters/cordelia\|Cordelia]])<br>Su tali sacrifici, [[characters/cordelia\|Cordelia]] mia,<br>gli dèi stessi gettano incenso. T’ho dunque<br>ritrovata?<br>Chi ci separa dovrà portare un tizzone dal cielo<br>e stanarci col [[motifs/fire\|fuoco]] come volpi. Asciugati gli occhi.<br>La malora li divorerà, carne e pelle,<br>prima che ci facciano piangere. Li vedremo morire di fame<br>prima. Vieni. |
 | *(didascalia)* | Escono tutti tranne [[characters/edmund\|Edmund]] e il Capitano |
-| [[characters/edmund\|EDMUND]] | Vieni qua, capitano. Ascolta.<br>Prendi questo biglietto. Va’, seguili in [[motifs/prison\|prigione]].<br>D’un grado t’ho già promosso; se farai<br>come questo t’istruisce, ti aprirai la via<br>a nobili fortune. Sappi questo: che gli uomini<br>sono come è il [[motifs/time\|tempo]]. Aver l’animo tenero<br>non si conviene a una [[Sword\|spada]]. Il tuo grande incarico<br>non ammette discussione. O dici che lo farai,<br>o prospera per altre vie. |
+| [[characters/edmund\|EDMUND]] | Vieni qua, capitano. Ascolta.<br>Prendi questo biglietto. Va’, seguili in [[motifs/prison\|prigione]].<br>D’un grado t’ho già promosso; se farai<br>come questo t’istruisce, ti aprirai la via<br>a nobili fortune. Sappi questo: che gli uomini<br>sono come è il [[motifs/time\|tempo]]. Aver l’animo tenero<br>non si conviene a una spada. Il tuo grande incarico<br>non ammette discussione. O dici che lo farai,<br>o prospera per altre vie. |
 | CAPITANO | Lo farò, mio signore. |
 | [[characters/edmund\|EDMUND]] | All’opera; e scrivi «felice» quando avrai finito.<br>Bada, dico, all’istante, e conducilo così<br>come l’ho messo per iscritto. |
 | CAPITANO | Non so tirare un carro,<br>né mangiare avena secca. Se è lavoro da uomo, lo farò. Esce Entrano il duca d’Albany, le due dame Gonoril e [[characters/regan\|Regan]], [un altro Capitano] e altri |
@@ -2514,7 +2514,7 @@ tags:
 | GONORIL | Olà, olà—<br>quell’occhio che ve l’ha detto guardava di traverso. |
 | [[characters/regan\|REGAN]] | Signora, non sto [[motifs/well\|bene]], altrimenti risponderei con lo stomaco traboccante. (A [[characters/edmund\|Edmund]]) Generale, prendi i miei soldati, i prigionieri, il patrimonio. Il mondo sia testimone ch’io ti creo qui mio signore e padrone. |
 | GONORIL | Intendete goderlo, dunque? |
-| ALBANY | L’[[Alone\|astenersi]] non dipende dal vostro buon volere. |
+| ALBANY | L’astenersi non dipende dal vostro buon volere. |
 | [[characters/edmund\|EDMUND]] | Né dal tuo, signore. |
 | ALBANY | Uomo di mezzo sangue, sì. |
 | [[characters/edmund\|EDMUND]] | Suoni il tamburo e provi buono il mio titolo. |
@@ -2539,8 +2539,8 @@ tags:
 | ALBANY | Qual è quell’avversario? |
 | [[characters/edgar\|EDGAR]] | Chi è colui che parla per [[characters/edmund\|Edmund]], conte di [[characters/gloucester\|Gloucester]]? |
 | [[characters/edmund\|EDMUND]] | Egli stesso. Che gli dici? |
-| [[characters/edgar\|EDGAR]] | Sguaina la tua [[Sword\|spada]],<br>sì che, se il mio discorso offende un cuore nobile,<br>il tuo braccio possa renderti giustizia. Ecco la mia.<br>Sguaina la [[Sword\|spada]]<br>Guarda: essa è il privilegio della mia lingua,<br>il mio giuramento e la mia professione. Io affermo,<br>a dispetto della tua forza, giovinezza, rango ed eminenza,<br>a dispetto della tua [[Sword\|spada]] vittoriosa e della tua fortuna nuova di [[motifs/fire\|fiamma]],<br>del tuo valore e del tuo cuore, che tu sei un traditore,<br>falso ai tuoi dèi, a tuo fratello e a tuo padre,<br>cospiratore contro questo alto illustre principe;<br>e dalla sommità estrema del tuo capo<br>fino alla discesa e alla [[motifs/dust\|polvere]] sotto i tuoi piedi<br>un traditore maculato come un rospo. Di’ tu di no,<br>e questa [[Sword\|spada]], questo braccio e i miei migliori spiriti son tesi<br>a provare sul tuo cuore, a cui parlo,<br>che tu menti. |
-| [[characters/edmund\|EDMUND]] | Per prudenza dovrei chiedere il tuo nome;<br>ma poiché il tuo aspetto pare così bello e guerriero,<br>e la tua lingua spira un non so che di nobile nascita,<br>il mio diritto di cavaliere lo sdegno e lo respingo.<br>Qui rigetto quei tradimenti sulla tua testa,<br>e con la menzogna odiata dall’inferno ti rovescio il cuore;<br>e poiché essi ancora sfiorano appena e a stento ammaccano,<br>questa mia [[Sword\|spada]] darà loro immediata via<br>là dove riposeranno per sempre. Trombe, parlate!<br>[Squilli.] Combattono. [[characters/edmund\|Edmund]] è vinto<br>[TUTTI]<br>Salvatelo, salvatelo! |
+| [[characters/edgar\|EDGAR]] | Sguaina la tua spada,<br>sì che, se il mio discorso offende un cuore nobile,<br>il tuo braccio possa renderti giustizia. Ecco la mia.<br>Sguaina la spada<br>Guarda: essa è il privilegio della mia lingua,<br>il mio giuramento e la mia professione. Io affermo,<br>a dispetto della tua forza, giovinezza, rango ed eminenza,<br>a dispetto della tua spada vittoriosa e della tua fortuna nuova di [[motifs/fire\|fiamma]],<br>del tuo valore e del tuo cuore, che tu sei un traditore,<br>falso ai tuoi dèi, a tuo fratello e a tuo padre,<br>cospiratore contro questo alto illustre principe;<br>e dalla sommità estrema del tuo capo<br>fino alla discesa e alla [[motifs/dust\|polvere]] sotto i tuoi piedi<br>un traditore maculato come un rospo. Di’ tu di no,<br>e questa spada, questo braccio e i miei migliori spiriti son tesi<br>a provare sul tuo cuore, a cui parlo,<br>che tu menti. |
+| [[characters/edmund\|EDMUND]] | Per prudenza dovrei chiedere il tuo nome;<br>ma poiché il tuo aspetto pare così bello e guerriero,<br>e la tua lingua spira un non so che di nobile nascita,<br>il mio diritto di cavaliere lo sdegno e lo respingo.<br>Qui rigetto quei tradimenti sulla tua testa,<br>e con la menzogna odiata dall’inferno ti rovescio il cuore;<br>e poiché essi ancora sfiorano appena e a stento ammaccano,<br>questa mia spada darà loro immediata via<br>là dove riposeranno per sempre. Trombe, parlate!<br>[Squilli.] Combattono. [[characters/edmund\|Edmund]] è vinto<br>[TUTTI]<br>Salvatelo, salvatelo! |
 | GONORIL | Questo è puro inganno, [[characters/gloucester\|Gloucester]].<br>Per la legge d’armi tu non eri tenuto a rispondere<br>a un avversario ignoto. Tu non sei vinto,<br>ma raggirato e ingannato. |
 | ALBANY | Chiudete la bocca, signora,<br>o con questa carta ve la tapperò.<br>Tu, peggiore d’ogni cosa, leggi il tuo stesso male.<br>Ehi, niente strappi, signora. Vedo bene che lo conoscete. |
 | GONORIL | Ammesso che lo conosca, le leggi sono mie, non tue.<br>Chi mi processerà per questo? |
@@ -2555,7 +2555,7 @@ tags:
 | ALBANY | (a [[characters/edgar\|Edgar]])<br>Mi parve che la tua stessa andatura profetasse<br>una regale nobiltà. Devo abbracciarti.<br>Il dolore mi spacchi il cuore se mai odiai<br>te o tuo padre. |
 | [[characters/edgar\|EDGAR]] | Degno principe, lo so. |
 | ALBANY | Dove vi siete nascosto?<br>Come avete saputo delle miserie di vostro padre? |
-| [[characters/edgar\|EDGAR]] | Vegliandole, mio signore. Udite un breve racconto,<br>e quando sarà detto, oh, che il mio cuore scoppi!<br>Per sfuggire alla sanguinosa proclamazione<br>che mi seguiva così da presso—oh, dolcezza delle nostre vite,<br>che col [[motifs/pain\|dolore]] della [[motifs/death\|morte]] vorremmo morire d’ora in ora<br>piuttosto che morire in una volta!—imparai a mutarmi<br>negli stracci d’un pazzo, ad assumere un aspetto<br>che perfino i [[dogs\|cani]] disdegnavano; e in tale abito<br>incontrai mio padre con gli anelli sanguinanti,<br>le pietre preziose appena perdute; divenni sua guida,<br>lo condussi, mendicai per lui, lo salvai dalla [[concepts/despair\|disperazione]];<br>mai—oh padre!—mi rivelai a lui<br>fino a mezz’ora fa, quando ero armato.<br>Non certo, benché speranzoso, di questo buon [[success\|esito]],<br>gli chiesi la benedizione, e dal principio alla fine<br>gli raccontai il mio pellegrinaggio; ma il suo cuore incrinato—<br>ahimè, troppo debole per sostenere il conflitto—<br>fra due estremi di passione, gioia e dolore,<br>scoppiò sorridendo. |
+| [[characters/edgar\|EDGAR]] | Vegliandole, mio signore. Udite un breve racconto,<br>e quando sarà detto, oh, che il mio cuore scoppi!<br>Per sfuggire alla sanguinosa proclamazione<br>che mi seguiva così da presso—oh, dolcezza delle nostre vite,<br>che col [[motifs/pain\|dolore]] della [[motifs/death\|morte]] vorremmo morire d’ora in ora<br>piuttosto che morire in una volta!—imparai a mutarmi<br>negli stracci d’un pazzo, ad assumere un aspetto<br>che perfino i cani disdegnavano; e in tale abito<br>incontrai mio padre con gli anelli sanguinanti,<br>le pietre preziose appena perdute; divenni sua guida,<br>lo condussi, mendicai per lui, lo salvai dalla [[concepts/despair\|disperazione]];<br>mai—oh padre!—mi rivelai a lui<br>fino a mezz’ora fa, quando ero armato.<br>Non certo, benché speranzoso, di questo buon esito,<br>gli chiesi la benedizione, e dal principio alla fine<br>gli raccontai il mio pellegrinaggio; ma il suo cuore incrinato—<br>ahimè, troppo debole per sostenere il conflitto—<br>fra due estremi di passione, gioia e dolore,<br>scoppiò sorridendo. |
 | [[characters/edmund\|EDMUND]] | Questo vostro discorso m’ha commosso,<br>e forse farà del bene. Ma continuate—<br>avete l’aria d’aver qualcos’altro da dire. |
 | ALBANY | Se v’è altro, e più doloroso, tenetelo dentro,<br>ché io son quasi pronto a dissolvermi<br>all’udire questo. |
 | [[characters/edgar\|EDGAR]] | Questo sarebbe parso un termine<br>per chi non [[motifs/love\|ama]] il dolore; ma un altro<br>ad amplificarlo, il troppo farebbe assai di più,<br>e supererebbe l’estremo.<br>Mentre io ero grande nel lamento venne un uomo<br>che, avendomi visto nel mio stato peggiore,<br>aveva fuggito la mia aborrita compagnia; ma allora, scoprendo<br>chi fosse colui che tanto pativa, con le sue forti braccia<br>mi si strinse al collo e urlò<br>come volesse far scoppiare il cielo; si gettò su mio padre,<br>narrò la più pietosa storia di Lear e di lui<br>che orecchio mai ricevette; e nel raccontarla<br>il suo dolore si fece violento e le corde della vita<br>cominciarono a spezzarsi. Due volte allora suonarono le trombe,<br>e là lo lasciai in deliquio. |
@@ -2579,7 +2579,7 @@ tags:
 | [[characters/edmund\|EDMUND]] | Ansimo per la vita. Un po’ di bene intendo fare,<br>a dispetto della mia stessa [[concepts/nature\|natura]]. Mandate presto,<br>fate in fretta, al [[settings/castle\|castello]]; ché il mio ordine<br>è sulla vita di Lear e su [[characters/cordelia\|Cordelia]].<br>Suvvia, mandate in [[motifs/time\|tempo]]. |
 | ALBANY | Corri, corri, oh corri! |
 | [[characters/edgar\|EDGAR]] | Da chi, mio signore? Chi ha l’incarico? Manda<br>il tuo segno di grazia. |
-| [[characters/edmund\|EDMUND]] | [[motifs/well\|Ben]] pensato! Prendi la mia [[Sword\|spada]]. Il capitano,<br>dalla al capitano. |
+| [[characters/edmund\|EDMUND]] | [[motifs/well\|Ben]] pensato! Prendi la mia spada. Il capitano,<br>dalla al capitano. |
 | ALBANY | Affrettati, ne va della tua vita. |
 | *(didascalia)* | Esce [il Secondo Capitano] |
 | [[characters/edmund\|EDMUND]] | Egli ha mandato da tua moglie e da me<br>d’impiccare [[characters/cordelia\|Cordelia]] nella [[motifs/prison\|prigione]], e<br>di darne la colpa alla sua stessa [[concepts/despair\|disperazione]],<br>come s’ella si fosse uccisa. |
@@ -2656,7 +2656,7 @@ tags:
 | GONORIL | Sir, I do [[motifs/love\|love]] you more than words can wield the<br>matter;<br>Dearer than eyesight, space, or liberty;<br>Beyond what can be valued, rich or rare;<br>No less than life; with grace, health, [[concepts/beauty\|beauty]], [[concepts/honour\|honour]];<br>As much as [[archetypes/child\|child]] e’er loved, or father, friend;<br>A [[motifs/love\|love]] that makes breath poor and speech unable.<br>Beyond all manner of so much I [[motifs/love\|love]] you. |
 | [[characters/cordelia\|CORDELIA]] | (aside)<br>What shall [[characters/cordelia\|Cordelia]] do? [[motifs/love\|Love]] and be silent. |
 | LEAR | (to Gonoril)<br>Of all these bounds even from this line to this,<br>With shady forests and wide skirted meads,<br>We make thee lady. To thine and Albany’s issue<br>Be this perpetual.—What says our second daughter?<br>Our dearest [[characters/regan\|Regan]], wife to Cornwall, speak. |
-| [[characters/regan\|REGAN]] | Sir, I am made<br>Of the [[concepts/self\|self]]-same mettle that my sister is,<br>And prize me at her worth. In my true heart<br>I find she names my very deed of [[motifs/love\|love]]—<br>Only she came short, that I profess<br>Myself an enemy to all other joys<br>Which the most precious square of sense possesses,<br>And find I am [[Alone\|alone]] felicitate<br>In your dear highness’ [[motifs/love\|love]]. |
+| [[characters/regan\|REGAN]] | Sir, I am made<br>Of the [[concepts/self\|self]]-same mettle that my sister is,<br>And prize me at her worth. In my true heart<br>I find she names my very deed of [[motifs/love\|love]]—<br>Only she came short, that I profess<br>Myself an enemy to all other joys<br>Which the most precious square of sense possesses,<br>And find I am alone felicitate<br>In your dear highness’ [[motifs/love\|love]]. |
 | [[characters/cordelia\|CORDELIA]] | (aside) Then poor [[characters/cordelia\|Cordelia]]—<br>And yet not so, since I am sure my [[motifs/love\|love]]’s<br>More richer than my tongue. |
 | LEAR | (to [[characters/regan\|Regan]])<br>To thee and thine hereditary ever<br>Remain this ample third of our fair kingdom, No less in space, validity, and pleasure<br>Than that confirmed on Gonoril. (To [[characters/cordelia\|Cordelia]]) But<br>now our joy,<br>Although the last, not least in our dear [[motifs/love\|love]]:<br>What can you say to win a third more opulent<br>Than your sisters? |
 | [[characters/cordelia\|CORDELIA]] | Nothing, my lord. |
@@ -2723,7 +2723,7 @@ tags:
 | [[characters/regan\|REGAN]] | That’s most certain, and with you. Next month with us. |
 | GONORIL | You see how full of changes his age is. The observation we have made of it hath not been little. He always loved our sister most, and with what poor judgement he hath now cast her off appears too gross. |
 | [[characters/regan\|REGAN]] | ’Tis the infirmity of his age; yet he hath ever but slenderly known himself. |
-| GONORIL | The best and soundest of his [[motifs/time\|time]] hath been but rash; then must we look to receive from his age not [[Alone\|alone]] the imperfection of long-engrafted condition, but therewithal unruly waywardness that infirm and choleric years bring with them. |
+| GONORIL | The best and soundest of his [[motifs/time\|time]] hath been but rash; then must we look to receive from his age not alone the imperfection of long-engrafted condition, but therewithal unruly waywardness that infirm and choleric years bring with them. |
 | [[characters/regan\|REGAN]] | Such unconstant starts are we like to have from him as this of [[characters/kent\|Kent]]’s banishment. |
 | GONORIL | There is further compliment of leave-taking between France and him. Pray, let’s hit together. If our father carry authority with such dispositions as he bears, this last surrender of his will but offend us. |
 | [[characters/regan\|REGAN]] | We shall further think on’t. |
@@ -2759,7 +2759,7 @@ tags:
 | GONORIL | Signore, io vi [[motifs/love\|amo]] più di quanto le parole possano reggere la<br>materia;<br>più caro della vista, dello spazio, della libertà;<br>oltre ciò che si può stimare, ricco o raro;<br>non meno della vita; con grazia, salute, [[concepts/beauty\|bellezza]], [[concepts/honour\|onore]];<br>quanto mai [[archetypes/child\|figlio]] amò, o padre, o amico;<br>un [[motifs/love\|amore]] che fa povero il fiato e muta la parola.<br>Oltre ogni misura di tanto io vi [[motifs/love\|amo]]. |
 | [[characters/cordelia\|CORDELIA]] | (a parte)<br>Che farà [[characters/cordelia\|Cordelia]]? [[motifs/love\|Amare]] e tacere. |
 | LEAR | (a Gonoril)<br>Di tutti questi confini, da questa linea a questa,<br>con ombrose foreste e ampi prati distesi,<br>ti facciamo signora. Alla tua discendenza e a quella d’Albany<br>sia ciò perpetuo.—Che dice la nostra seconda figlia?<br>La nostra carissima [[characters/regan\|Regan]], moglie a Cornovaglia, parli. |
-| [[characters/regan\|REGAN]] | Signore, io son fatta<br>della [[concepts/self\|stessa]] tempra di cui è mia sorella,<br>e mi stimo al suo prezzo. Nel mio cuore verace<br>trovo ch’ella nomina il mio stesso atto d’[[motifs/love\|amore]]—<br>solo che restò corta, ché io mi professo<br>nemica d’ogni altra gioia<br>che il più prezioso quadrante dei sensi possieda,<br>e trovo ch’io son [[Alone\|solo]] allora felice<br>nell’[[motifs/love\|amore]] di vostra cara altezza. |
+| [[characters/regan\|REGAN]] | Signore, io son fatta<br>della [[concepts/self\|stessa]] tempra di cui è mia sorella,<br>e mi stimo al suo prezzo. Nel mio cuore verace<br>trovo ch’ella nomina il mio stesso atto d’[[motifs/love\|amore]]—<br>solo che restò corta, ché io mi professo<br>nemica d’ogni altra gioia<br>che il più prezioso quadrante dei sensi possieda,<br>e trovo ch’io son solo allora felice<br>nell’[[motifs/love\|amore]] di vostra cara altezza. |
 | [[characters/cordelia\|CORDELIA]] | (a parte) E allora povera [[characters/cordelia\|Cordelia]]—<br>eppure no, ché son certa che il mio [[motifs/love\|amore]] è<br>più ricco della mia lingua. |
 | LEAR | (a [[characters/regan\|Regan]])<br>A te e ai tuoi in eredità per sempre<br>rimanga quest’ampio terzo del nostro bel regno, non minore per spazio, valore e diletto<br>di quello confermato a Gonoril. (A [[characters/cordelia\|Cordelia]]) Ma<br>ora, gioia nostra,<br>benché ultima, non ultima nel nostro caro [[motifs/love\|amore]]:<br>che sai dire per guadagnarti un terzo più opulento<br>di quello delle tue sorelle? |
 | [[characters/cordelia\|CORDELIA]] | Nulla, mio signore. |
@@ -2826,7 +2826,7 @@ tags:
 | [[characters/regan\|REGAN]] | È certissimo, e con te. Il mese prossimo con noi. |
 | GONORIL | Vedi quanto sia piena di mutamenti la sua vecchiaia. L’osservazione che ne abbiamo fatta non è stata piccola. Ha sempre amato più di tutte nostra sorella, e con che povero giudizio ora l’abbia respinta appare troppo grossolano. |
 | [[characters/regan\|REGAN]] | È l’infermità della sua età; eppure non ha mai conosciuto se stesso che scarsamente. |
-| GONORIL | Il meglio e il più sano del suo [[motifs/time\|tempo]] non fu che avventato; dobbiamo dunque aspettarci di ricevere dalla sua vecchiaia non [[Alone\|soltanto]] l’imperfezione d’un carattere lungamente innestato, ma per giunta quell’indocile bizzarria che gli anni infermi e collerici portano con sé. |
+| GONORIL | Il meglio e il più sano del suo [[motifs/time\|tempo]] non fu che avventato; dobbiamo dunque aspettarci di ricevere dalla sua vecchiaia non soltanto l’imperfezione d’un carattere lungamente innestato, ma per giunta quell’indocile bizzarria che gli anni infermi e collerici portano con sé. |
 | [[characters/regan\|REGAN]] | Tali scatti incostanti dobbiamo attenderci da lui, come questo del bando di [[characters/kent\|Kent]]. |
 | GONORIL | Vi sono altri convenevoli di congedo fra Francia e lui. Ti prego, andiamo d’accordo. Se nostro padre porta autorità con le disposizioni che ha, quest’ultima sua rinuncia non farà che offenderci. |
 | [[characters/regan\|REGAN]] | Ci penseremo ancora. |
@@ -3084,7 +3084,7 @@ tags:
 | [[archetypes/fool\|FOOL]] | Why, after I have cut the egg in the middle and eat up the meat, the two crowns of the egg. When thou clovest thy [[motifs/crown\|crown]] i‘th’ middle and gavest away both parts, thou borest thy ass o’th’ back o’er the dirt. Thou hadst little wit in thy bald [[motifs/crown\|crown]] when thou gavest thy golden one away. If I speak like myself in this, let him be whipped that first finds it so. |
 | *(didascalia)* | Sings |
 | [[archetypes/fool\|FOOL]] | Fools had ne’er less wit in a year,<br>For wise men are grown foppish.<br>They know not how their wits do wear,<br>Their manners are so apish. |
-| LEAR | When were you wont to be so full of [[songs]], sirrah? |
+| LEAR | When were you wont to be so full of songs, sirrah? |
 | [[archetypes/fool\|FOOL]] | I have used it, nuncle, ever since thou madest thy daughters thy mother; for when thou gavest them the rod and puttest down thine own breeches, |
 | *(didascalia)* | Sings |
 | [[archetypes/fool\|FOOL]] | Then they for sudden joy did weep, And I for sorrow sung,<br>That such a [[archetypes/king\|king]] should play bo-peep<br>And go the fools among.<br>Prithee, nuncle, keep a schoolmaster that can teach thy [[archetypes/fool\|fool]] to lie. I would fain learn to lie. |
@@ -3237,7 +3237,7 @@ tags:
 | [[archetypes/fool\|MATTO]] | Ma, dopo che avrò tagliato l’uovo nel mezzo e mangiato il contenuto, le due corone dell’uovo. Quando spaccasti la tua [[motifs/crown\|corona]] nel mezzo e desti via entrambe le parti, ti portasti l’asino in groppa attraverso il fango. Avevi poco senno nella tua [[motifs/crown\|corona]] calva quando desti via quella d’oro. Se in questo parlo da me stesso, sia frustato il primo che lo trovi tale. |
 | *(didascalia)* | Canta |
 | [[archetypes/fool\|MATTO]] | Mai i matti ebbero in un anno men senno,<br>ché i savi si son fatti scempi.<br>Non sanno come il loro senno si consumi,<br>tanto scimmiesche hanno le maniere. |
-| LEAR | Da quando in qua sei così pieno di [[songs\|canzoni]], messere? |
+| LEAR | Da quando in qua sei così pieno di canzoni, messere? |
 | [[archetypes/fool\|MATTO]] | Ci ho preso l’abitudine, zietto, da quando facesti delle tue figlie la tua madre; ché quando desti loro la verga e ti calasti le tue proprie braghe, |
 | *(didascalia)* | Canta |
 | [[archetypes/fool\|MATTO]] | Allora esse per gioia improvvisa piansero, e io per dolore cantai,<br>che un tal [[archetypes/king\|re]] giocasse a rimpiattino<br>e andasse fra i matti.<br>Di grazia, zietto, tieni un maestro che insegni al tuo [[archetypes/fool\|matto]] a mentire. Vorrei volentieri imparare a mentire. |
@@ -3317,7 +3317,7 @@ tags:
 | LEAR | I did her wrong. |
 | [[archetypes/fool\|FOOL]] | Canst tell how an oyster makes his shell? |
 | LEAR | No. |
-| [[archetypes/fool\|FOOL]] | Nor I neither; but I can tell why a snail has a [[house]]. |
+| [[archetypes/fool\|FOOL]] | Nor I neither; but I can tell why a snail has a house. |
 | LEAR | Why? |
 | [[archetypes/fool\|FOOL]] | Why, to put his head in, not to give it away to his daughter and leave his horns without a case. |
 | LEAR | I will forget my [[concepts/nature\|nature]]. So kind a father!<br>Be my horses ready? |
@@ -3355,7 +3355,7 @@ tags:
 | LEAR | Le ho fatto torto. |
 | [[archetypes/fool\|MATTO]] | Sai dire come fa l’ostrica il suo guscio? |
 | LEAR | No. |
-| [[archetypes/fool\|MATTO]] | Nemmeno io; ma so dire perché la lumaca ha una [[house\|casa]]. |
+| [[archetypes/fool\|MATTO]] | Nemmeno io; ma so dire perché la lumaca ha una casa. |
 | LEAR | Perché? |
 | [[archetypes/fool\|MATTO]] | Ma, per metterci dentro la testa, non per darla via a sua figlia e lasciar le corna senza custodia. |
 | LEAR | Dimenticherò la mia [[concepts/nature\|natura]]. Un padre così buono!<br>Sono pronti i miei cavalli? |
@@ -3397,12 +3397,12 @@ tags:
 | *(didascalia)* | [[characters/edgar\|Edgar]] climbs down |
 | [[characters/edmund\|EDMUND]] | My father watches. O, fly this place.<br>Intelligence is given where you are hid.<br>You have now the good advantage of the [[motifs/night\|night]].<br>Have you not spoken ‘gainst the Duke of Cornwall<br>aught?<br>He’s coming hither now, in the [[motifs/night\|night]], i’th’ haste,<br>And [[characters/regan\|Regan]] with him. Have you nothing said<br>Upon his party against the Duke of Albany?<br>Advise you— |
 | [[characters/edgar\|EDGAR]] | I am sure on’t, not a word. |
-| [[characters/edmund\|EDMUND]] | I hear my father coming. Pardon me.<br>In cunning I must draw my [[Sword\|sword]] upon you.<br>Seem to defend yourself. Now, quit you [[motifs/well\|well]].<br>(Calling) Yield, come before my father. Light here,<br>here!<br>(To [[characters/edgar\|Edgar]]) Fly, brother, fly! (Calling) Torches, torches!<br>(To [[characters/edgar\|Edgar]]) So, farewell. |
+| [[characters/edmund\|EDMUND]] | I hear my father coming. Pardon me.<br>In cunning I must draw my sword upon you.<br>Seem to defend yourself. Now, quit you [[motifs/well\|well]].<br>(Calling) Yield, come before my father. Light here,<br>here!<br>(To [[characters/edgar\|Edgar]]) Fly, brother, fly! (Calling) Torches, torches!<br>(To [[characters/edgar\|Edgar]]) So, farewell. |
 | *(didascalia)* | Exit [[characters/edgar\|Edgar]] |
 | [[characters/edmund\|EDMUND]] | Some [[motifs/blood\|blood]] drawn on me would beget opinion<br>Of my more fierce endeavour.<br>He wounds his arm<br>I have seen<br>Drunkards do more than this in sport. (Calling) Father,<br>father!<br>Stop, stop! Ho, help! |
 | *(didascalia)* | Enter the [[characters/duke-of-gloucester\|Duke of Gloucester]] and others |
 | [[characters/gloucester\|GLOUCESTER]] | Now, [[characters/edmund\|Edmund]], where is the [[archetypes/villain\|villain]]? |
-| [[characters/edmund\|EDMUND]] | Here stood he in the dark, his sharp [[Sword\|sword]] out,<br>Warbling of wicked charms, conjuring the [[motifs/moon\|moon]]<br>To stand ’s auspicious mistress. |
+| [[characters/edmund\|EDMUND]] | Here stood he in the dark, his sharp sword out,<br>Warbling of wicked charms, conjuring the [[motifs/moon\|moon]]<br>To stand ’s auspicious mistress. |
 | [[characters/gloucester\|GLOUCESTER]] | But where is he? |
 | [[characters/edmund\|EDMUND]] | Look, sir, I bleed. |
 | [[characters/gloucester\|GLOUCESTER]] | Where is the [[archetypes/villain\|villain]], [[characters/edmund\|Edmund]]? |
@@ -3410,7 +3410,7 @@ tags:
 | [[characters/gloucester\|GLOUCESTER]] | Pursue him, go after. |
 | *(didascalia)* | Exeunt others |
 | [[characters/gloucester\|GLOUCESTER]] | By no means what? |
-| [[characters/edmund\|EDMUND]] | Persuade me to the murder of your lordship,<br>But that I told him the revengive gods<br>’Gainst parricides did all their thunders bend,<br>Spoke with how manifold and strong a bond<br>The [[archetypes/child\|child]] was bound to the father. Sir, in fine,<br>Seeing how loathly opposite I stood<br>To his unnatural purpose, with fell motion,<br>With his prepared [[Sword\|sword]] he charges [[motifs/home\|home]]<br>My unprovided [[concepts/body\|body]], lanced mine arm;<br>But when he saw my best alarumed spirits<br>Bold in the quarrel’s rights, roused to the encounter,<br>Or whether ghasted by the noise I made |
+| [[characters/edmund\|EDMUND]] | Persuade me to the murder of your lordship,<br>But that I told him the revengive gods<br>’Gainst parricides did all their thunders bend,<br>Spoke with how manifold and strong a bond<br>The [[archetypes/child\|child]] was bound to the father. Sir, in fine,<br>Seeing how loathly opposite I stood<br>To his unnatural purpose, with fell motion,<br>With his prepared sword he charges [[motifs/home\|home]]<br>My unprovided [[concepts/body\|body]], lanced mine arm;<br>But when he saw my best alarumed spirits<br>Bold in the quarrel’s rights, roused to the encounter,<br>Or whether ghasted by the noise I made |
 | *(didascalia)* | Or   I know not, |
 | [[characters/edmund\|EDMUND]] | But suddenly he fled. |
 | [[characters/gloucester\|GLOUCESTER]] | Let him fly far,<br>Not in this land shall he remain uncaught,<br>And found, dispatch. The noble Duke my master,<br>My worthy arch and patron, comes tonight.<br><br>By his authority I will proclaim it<br>That he which finds him shall deserve our thanks,<br>Bringing the murderous caitiff to the stake;<br>He that conceals him, [[motifs/death\|death]]. |
@@ -3428,7 +3428,7 @@ tags:
 | [[characters/regan\|REGAN]] | Was he not companion with the riotous knights<br>That tend upon my father? |
 | [[characters/gloucester\|GLOUCESTER]] | I know not, madam. ’Tis too bad, too bad. |
 | [[characters/edmund\|EDMUND]] | Yes, madam, he was. |
-| [[characters/regan\|REGAN]] | No marvel, then, though he were ill affected.<br>’Tis they have put him on the old man’s [[motifs/death\|death]],<br>To have the spoil and waste of his revenues.<br>I have this present evening from my sister<br>Been [[motifs/well\|well]] informed of them, and with such cautions<br>That if they come to sojourn at my [[house]]<br>I’ll not be there. |
+| [[characters/regan\|REGAN]] | No marvel, then, though he were ill affected.<br>’Tis they have put him on the old man’s [[motifs/death\|death]],<br>To have the spoil and waste of his revenues.<br>I have this present evening from my sister<br>Been [[motifs/well\|well]] informed of them, and with such cautions<br>That if they come to sojourn at my house<br>I’ll not be there. |
 | CORNWALL | Nor I, assure thee, [[characters/regan\|Regan]].<br>[[characters/edmund\|Edmund]], I heard that you have shown your father<br>A childlike office. |
 | [[characters/edmund\|EDMUND]] | ’Twas my duty, sir. |
 | [[characters/gloucester\|GLOUCESTER]] | (to Cornwall)<br>He did betray his practice, and received<br>This hurt you see striving to apprehend him. |
@@ -3463,12 +3463,12 @@ tags:
 | *(didascalia)* | [[characters/edgar\|Edgar]] scende |
 | [[characters/edmund\|EDMUND]] | Mio padre vigila. Oh, fuggi questo luogo.<br>Hanno riferito dove sei nascosto.<br>Hai ora il buon vantaggio della [[motifs/night\|notte]].<br>Non hai detto nulla contro il duca di Cornovaglia,<br>proprio nulla?<br>Egli viene qua ora, nella [[motifs/night\|notte]], in gran fretta,<br>e [[characters/regan\|Regan]] con lui. Non hai detto nulla<br>a favore della sua parte contro il duca d’Albany?<br>Rifletti— |
 | [[characters/edgar\|EDGAR]] | Ne son certo, non una parola. |
-| [[characters/edmund\|EDMUND]] | Sento venire mio padre. Perdonami.<br>Per astuzia debbo trarre la [[Sword\|spada]] contro di te.<br>Fingi di difenderti. Ora, difenditi [[motifs/well\|bene]].<br>(Chiamando) Arrenditi, vieni davanti a mio padre. Lume qua,<br>qua!<br>(A [[characters/edgar\|Edgar]]) Fuggi, fratello, fuggi! (Chiamando) Torce, torce!<br>(A [[characters/edgar\|Edgar]]) Così, addio. |
+| [[characters/edmund\|EDMUND]] | Sento venire mio padre. Perdonami.<br>Per astuzia debbo trarre la spada contro di te.<br>Fingi di difenderti. Ora, difenditi [[motifs/well\|bene]].<br>(Chiamando) Arrenditi, vieni davanti a mio padre. Lume qua,<br>qua!<br>(A [[characters/edgar\|Edgar]]) Fuggi, fratello, fuggi! (Chiamando) Torce, torce!<br>(A [[characters/edgar\|Edgar]]) Così, addio. |
 | *(didascalia)* | Esce [[characters/edgar\|Edgar]] |
 | [[characters/edmund\|EDMUND]] | Un po’ di [[motifs/blood\|sangue]] tratto da me genererebbe l’idea<br>d’un mio più fiero sforzo.<br>Si ferisce il braccio<br>Ho visto<br>ubriachi far più di questo per gioco. (Chiamando) Padre,<br>padre!<br>Fermatelo, fermatelo! Olà, aiuto! |
 | *(didascalia)* | Entrano il [[characters/duke-of-gloucester\|duca di Gloucester]] e altri |
 | [[characters/gloucester\|GLOUCESTER]] | Ora, [[characters/edmund\|Edmund]], dov’è lo [[archetypes/villain\|scellerato]]? |
-| [[characters/edmund\|EDMUND]] | Qui stava, nel buio, con la sua acuta [[Sword\|spada]] sguainata,<br>gorgheggiando malvagi incantesimi, scongiurando la [[motifs/moon\|luna]]<br>d’essergli propizia signora. |
+| [[characters/edmund\|EDMUND]] | Qui stava, nel buio, con la sua acuta spada sguainata,<br>gorgheggiando malvagi incantesimi, scongiurando la [[motifs/moon\|luna]]<br>d’essergli propizia signora. |
 | [[characters/gloucester\|GLOUCESTER]] | Ma dov’è? |
 | [[characters/edmund\|EDMUND]] | Guardate, signore, sanguino. |
 | [[characters/gloucester\|GLOUCESTER]] | Dov’è lo [[archetypes/villain\|scellerato]], [[characters/edmund\|Edmund]]? |
@@ -3476,7 +3476,7 @@ tags:
 | [[characters/gloucester\|GLOUCESTER]] | Inseguitelo, andategli dietro. |
 | *(didascalia)* | Escono gli altri |
 | [[characters/gloucester\|GLOUCESTER]] | In nessun modo che cosa? |
-| [[characters/edmund\|EDMUND]] | Persuadermi all’assassinio di vostra signoria,<br>se non che gli dissi che gli dèi vendicatori<br>contro i parricidi piegano tutti i loro tuoni,<br>gli dissi con quanti e quanto forti vincoli<br>il [[archetypes/child\|figlio]] sia legato al padre. Signore, insomma,<br>vedendo con quanto ribrezzo io mi opponevo<br>al suo snaturato proposito, con moto feroce,<br>con la [[Sword\|spada]] già sguainata carica a [[motifs/home\|fondo]]<br>il mio [[concepts/body\|corpo]] indifeso, e mi squarciò il braccio;<br>ma quando vide i miei spiriti al meglio allarmati,<br>arditi nel diritto della contesa, destati allo scontro,<br>o forse atterrito dal rumore ch’io facevo |
+| [[characters/edmund\|EDMUND]] | Persuadermi all’assassinio di vostra signoria,<br>se non che gli dissi che gli dèi vendicatori<br>contro i parricidi piegano tutti i loro tuoni,<br>gli dissi con quanti e quanto forti vincoli<br>il [[archetypes/child\|figlio]] sia legato al padre. Signore, insomma,<br>vedendo con quanto ribrezzo io mi opponevo<br>al suo snaturato proposito, con moto feroce,<br>con la spada già sguainata carica a [[motifs/home\|fondo]]<br>il mio [[concepts/body\|corpo]] indifeso, e mi squarciò il braccio;<br>ma quando vide i miei spiriti al meglio allarmati,<br>arditi nel diritto della contesa, destati allo scontro,<br>o forse atterrito dal rumore ch’io facevo |
 | *(didascalia)* | Oppure   non so, |
 | [[characters/edmund\|EDMUND]] | ma d’improvviso fuggì. |
 | [[characters/gloucester\|GLOUCESTER]] | Fugga pur lontano,<br>in questa terra non resterà non preso,<br>e trovato, sia spacciato. Il nobile Duca mio signore,<br>mio degno capo e patrono, viene stanotte.<br><br>Per sua autorità lo proclamerò:<br>che chi lo trova meriterà i nostri ringraziamenti,<br>portando al palo il micidiale sciagurato;<br>chi lo nasconde, [[motifs/death\|morte]]. |
@@ -3494,7 +3494,7 @@ tags:
 | [[characters/regan\|REGAN]] | Non era compagno dei turbolenti cavalieri<br>che stanno al servizio di mio padre? |
 | [[characters/gloucester\|GLOUCESTER]] | Non so, madama. È troppo brutta, troppo brutta. |
 | [[characters/edmund\|EDMUND]] | Sì, madama, lo era. |
-| [[characters/regan\|REGAN]] | Non c’è da stupirsi, allora, s’era mal disposto.<br>Son loro che l’hanno spinto alla [[motifs/death\|morte]] del vecchio,<br>per avere il saccheggio e lo sperpero delle sue rendite.<br>Questa sera stessa, da mia sorella,<br>sono stata [[motifs/well\|bene]] informata di loro, e con tali avvertimenti<br>che se vengono a soggiornare nella mia [[house\|casa]]<br>io non ci sarò. |
+| [[characters/regan\|REGAN]] | Non c’è da stupirsi, allora, s’era mal disposto.<br>Son loro che l’hanno spinto alla [[motifs/death\|morte]] del vecchio,<br>per avere il saccheggio e lo sperpero delle sue rendite.<br>Questa sera stessa, da mia sorella,<br>sono stata [[motifs/well\|bene]] informata di loro, e con tali avvertimenti<br>che se vengono a soggiornare nella mia casa<br>io non ci sarò. |
 | CORNOVAGLIA | Né io, te l’assicuro, [[characters/regan\|Regan]].<br>[[characters/edmund\|Edmund]], ho udito che avete reso a vostro padre<br>un ufficio da figlio. |
 | [[characters/edmund\|EDMUND]] | Era mio dovere, signore. |
 | [[characters/gloucester\|GLOUCESTER]] | (a Cornovaglia)<br>Egli svelò la sua trama, e ricevette<br>questa ferita che vedete cercando d’arrestarlo. |
@@ -3516,7 +3516,7 @@ tags:
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the Earl of [[characters/kent\|Kent]], disguised, at one door, and Oswald the steward, at another door |
-| OSWALD | Good even to thee, friend. Art of the [[house]]? |
+| OSWALD | Good even to thee, friend. Art of the house? |
 | [[characters/kent\|KENT]] | Ay. |
 | OSWALD | Where may we set our horses? |
 | [[characters/kent\|KENT]] | I’th’ mire. |
@@ -3530,7 +3530,7 @@ tags:
 | [[characters/kent\|KENT]] | A knave, a rascal, an eater of broken meats, a base, proud, shallow, beggarly, three-suited, hundred-pound, filthy worsted-stocking knave; a lily-livered, action-taking knave; a whoreson, glass-gazing, superfinical rogue; one-trunk-inheriting slave; one that wouldst be a bawd in way of good service, and art nothing but the composition of a knave, beggar, coward, pander, and the son and heir of a mongrel bitch, whom I will beat into clamorous whining if thou deny the least syllable of the addition. |
 | OSWALD | What a monstrous fellow art thou, thus to rail on one that’s neither known of thee nor knows thee! |
 | [[characters/kent\|KENT]] | What a brazen-faced varlet art thou, to deny thou knowest me! Is it two days ago since I beat thee and tripped up thy heels before the [[archetypes/king\|King]]? Draw, you rogue; for though it be [[motifs/night\|night]], the [[motifs/moon\|moon]] shines. |
-| *(didascalia)* | He draws his [[Sword\|sword]] |
+| *(didascalia)* | He draws his sword |
 | [[characters/kent\|KENT]] | I’ll make a sop of the moonshine o’ you. Draw, you whoreson, cullionly barber-monger, draw! |
 | OSWALD | Away. I have nothing to do with thee. |
 | [[characters/kent\|KENT]] | Draw, you rascal. You bring letters against the [[archetypes/king\|King]], and take [[concepts/vanity\|Vanity]] the puppet’s part against the royalty of her father. Draw, you rogue, or I’ll so carbonado your shanks—draw, you rascal, come your ways! |
@@ -3554,7 +3554,7 @@ tags:
 | CORNWALL | Peace, sir. You beastly knave, have you no reverence? |
 | [[characters/kent\|KENT]] | Yes, sir, but anger has a privilege. |
 | CORNWALL | Why art thou angry? |
-| [[characters/kent\|KENT]] | That such a slave as this should wear a [[Sword\|sword]],<br>That wears no honesty. Such smiling rogues<br>As these, like rats, oft bite those cords in twain<br>Which are too entrenched to unloose, smooth every<br>passion<br>That in the natures of their lords [[archetypes/rebel\|rebel]],<br>Bring oil to [[motifs/fire\|fire]], [[motifs/snow\|snow]] to their colder moods,<br>Renege, affirm, and turn their halcyon beaks<br>With every gale and vary of their masters,<br>Knowing naught, like [[dogs]], but following.<br>(To Oswald) A plague upon your epileptic visage!<br>Smile you my speeches as I were a [[archetypes/fool\|fool]]?<br>Goose, an I had you upon Sarum Plain<br>I’d send you cackling [[motifs/home\|home]] to Camelot. |
+| [[characters/kent\|KENT]] | That such a slave as this should wear a sword,<br>That wears no honesty. Such smiling rogues<br>As these, like rats, oft bite those cords in twain<br>Which are too entrenched to unloose, smooth every<br>passion<br>That in the natures of their lords [[archetypes/rebel\|rebel]],<br>Bring oil to [[motifs/fire\|fire]], [[motifs/snow\|snow]] to their colder moods,<br>Renege, affirm, and turn their halcyon beaks<br>With every gale and vary of their masters,<br>Knowing naught, like dogs, but following.<br>(To Oswald) A plague upon your epileptic visage!<br>Smile you my speeches as I were a [[archetypes/fool\|fool]]?<br>Goose, an I had you upon Sarum Plain<br>I’d send you cackling [[motifs/home\|home]] to Camelot. |
 | CORNWALL | What, art thou mad, old fellow? |
 | *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] to [[characters/kent\|Kent]] How fell you out? Say that. |
 | [[characters/kent\|KENT]] | No contraries hold more antipathy<br>Than I and such a knave. |
@@ -3598,7 +3598,7 @@ tags:
 | KNIGHT | As I learned,<br>The [[motifs/night\|night]] before there was no purpose<br>Of his remove. |
 | [[characters/kent\|KENT]] | (waking) Hail to thee, noble master. |
 | LEAR | How! Mak’st thou this shame thy pastime? |
-| [[archetypes/fool\|FOOL]] | Ha, ha, look, he wears cruel garters! Horses are tied by the heads, [[dogs]] and bears by th’ neck, monkeys by th’ loins, and men by th’ legs. When a man’s over-lusty at legs, then he wears wooden nether-stocks. |
+| [[archetypes/fool\|FOOL]] | Ha, ha, look, he wears cruel garters! Horses are tied by the heads, dogs and bears by th’ neck, monkeys by th’ loins, and men by th’ legs. When a man’s over-lusty at legs, then he wears wooden nether-stocks. |
 | LEAR | (to [[characters/kent\|Kent]])<br>What’s he that hath so much thy place mistook<br>To set thee here? |
 | [[characters/kent\|KENT]] | It is both he and she:<br>Your son and daughter. |
 | LEAR | No. |
@@ -3608,7 +3608,7 @@ tags:
 | LEAR | No, no, they would not. |
 | [[characters/kent\|KENT]] | Yes, they have. |
 | LEAR | By Jupiter, I swear no. They durst not do‘t,<br>They would not, could not do’t. ’Tis worse than murder,<br>To do upon respect such violent outrage.<br>Resolve me with all modest haste which way<br>Thou mayst deserve or they propose this usage,<br>Coming from us. |
-| [[characters/kent\|KENT]] | My lord, when at their [[motifs/home\|home]]<br>I did commend your highness’ letters to them,<br>Ere I was risen from the place that showed<br>My duty kneeling, came there a reeking post<br>Stewed in his haste, half breathless, panting forth<br>From Gonoril, his mistress, salutations,<br>Delivered letters spite of intermission,<br>Which presently they read, on whose contents<br>They summoned up their meiny, straight took [[motifs/horse\|horse]],<br>Commanded me to follow and attend<br>The leisure of their answer, gave me cold looks;<br>And meeting here the other messenger,<br>Whose welcome I perceived had poisoned mine—<br>Being the very fellow that of late<br>Displayed so saucily against your highness—<br>Having more man than wit about me, drew.<br>He raised the [[house]] with loud and coward cries.<br>Your son and daughter found this trespass worth<br>This shame which here it suffers. |
+| [[characters/kent\|KENT]] | My lord, when at their [[motifs/home\|home]]<br>I did commend your highness’ letters to them,<br>Ere I was risen from the place that showed<br>My duty kneeling, came there a reeking post<br>Stewed in his haste, half breathless, panting forth<br>From Gonoril, his mistress, salutations,<br>Delivered letters spite of intermission,<br>Which presently they read, on whose contents<br>They summoned up their meiny, straight took [[motifs/horse\|horse]],<br>Commanded me to follow and attend<br>The leisure of their answer, gave me cold looks;<br>And meeting here the other messenger,<br>Whose welcome I perceived had poisoned mine—<br>Being the very fellow that of late<br>Displayed so saucily against your highness—<br>Having more man than wit about me, drew.<br>He raised the house with loud and coward cries.<br>Your son and daughter found this trespass worth<br>This shame which here it suffers. |
 | LEAR | O, how this mother swells up toward my heart!<br>Histerica passio, down, thou climbing sorrow;<br>Thy element’s betow.—Where is this daughter? |
 | [[characters/kent\|KENT]] | With the Earl, sir, within. |
 | LEAR | Follow me not; stay there. |
@@ -3637,11 +3637,11 @@ tags:
 | CORNWALL | Hail to your grace. |
 | *(didascalia)* | [[characters/kent\|Kent]] here set at liberty |
 | [[characters/regan\|REGAN]] | I am glad to see your highness. |
-| LEAR | [[characters/regan\|Regan]], I think you are. I know what reason<br>I have to think so. If thou shouldst not be glad<br>I would [[divorce]] me from thy mother’s shrine,<br>Sepulchring an adultress. (To [[characters/kent\|Kent]]) Yea, are you free?<br>Some other [[motifs/time\|time]] for that.—Belovèd [[characters/regan\|Regan]],<br>Thy sister is naught. O, [[characters/regan\|Regan]], she hath tied<br>Sharp-toothed unkindness like a vulture here.<br>I can scarce speak to thee. Thou’lt not believe<br>Of how deplored a quality—O, [[characters/regan\|Regan]]! |
+| LEAR | [[characters/regan\|Regan]], I think you are. I know what reason<br>I have to think so. If thou shouldst not be glad<br>I would divorce me from thy mother’s shrine,<br>Sepulchring an adultress. (To [[characters/kent\|Kent]]) Yea, are you free?<br>Some other [[motifs/time\|time]] for that.—Belovèd [[characters/regan\|Regan]],<br>Thy sister is naught. O, [[characters/regan\|Regan]], she hath tied<br>Sharp-toothed unkindness like a vulture here.<br>I can scarce speak to thee. Thou’lt not believe<br>Of how deplored a quality—O, [[characters/regan\|Regan]]! |
 | [[characters/regan\|REGAN]] | I pray you, sir, take patience. I have [[concepts/hope\|hope]]<br>You less know how to value her [[motifs/desert\|desert]]<br>Than she to slack her duty. |
 | LEAR | My curses on her. |
 | [[characters/regan\|REGAN]] | O sir, you are old.<br>[[concepts/nature\|Nature]] in you stands on the very verge<br>Of her confine. You should be ruled and led<br>By some discretion that discerns your state<br>Better than you yourself. Therefore I pray<br>That to our sister you do make return;<br>Say you have wronged her, sir. |
-| LEAR | Ask her [[concepts/forgiveness\|forgiveness]]?<br>Do you mark how this becomes the [[house]]? |
+| LEAR | Ask her [[concepts/forgiveness\|forgiveness]]?<br>Do you mark how this becomes the house? |
 | *(didascalia)* | Kneeling ‘Dear daughter, I confess that I am old. |
 | LEAR | Age is unnecessary. On my knees I beg<br>That you’ll vouchsafe me raiment, bed, and food.’ |
 | [[characters/regan\|REGAN]] | Good sir, no more. These are unsightly tricks.<br>Return you to my sister. |
@@ -3674,7 +3674,7 @@ tags:
 | LEAR | Now I prithee, daughter, do not make me mad.<br>I will not trouble thee, my [[archetypes/child\|child]]. Farewell.<br>We’ll no more meet, no more see one another.<br>But yet thou art my flesh, my [[motifs/blood\|blood]], my daughter—<br>Or rather a disease that lies within my flesh,<br>Which I must needs call mine. Thou art a boil,<br>A plague-sore, an embossed carbuncle<br>In my corrupted [[motifs/blood\|blood]]. But I’ll not chide thee.<br>Let shame come when it will, I do not call it.<br>I do not bid the thunder-bearer shoot,<br>Nor tell tales of thee to high-judging Jove.<br>Mend when thou canst; be better at thy leisure.<br>I can be patient, I can stay with [[characters/regan\|Regan]],<br>I and my hundred knights. |
 | [[characters/regan\|REGAN]] | Not altogether so, sir.<br>I look not for you yet, nor am provided<br>For your fit welcome. Give ear, sir, to my sister;<br>For those that mingle reason with your passion<br>Must be content to think you are old, and so—<br>But she knows what she does. |
 | LEAR | Is this [[motifs/well\|well]] spoken now? |
-| [[characters/regan\|REGAN]] | I dare avouch it, sir. What, fifty followers?<br>Is it not [[motifs/well\|well]]? What should you need of more,<br>Yea, or so many, sith that both charge and danger<br>Speaks ‘gainst so great a number? How in a [[house]]<br>Should many people under two commands<br>Hold amity? ’Tis hard, almost impossible. |
+| [[characters/regan\|REGAN]] | I dare avouch it, sir. What, fifty followers?<br>Is it not [[motifs/well\|well]]? What should you need of more,<br>Yea, or so many, sith that both charge and danger<br>Speaks ‘gainst so great a number? How in a house<br>Should many people under two commands<br>Hold amity? ’Tis hard, almost impossible. |
 | GONORIL | Why might not you, my lord, receive attendance<br>From those that she calls servants, or from mine? |
 | [[characters/regan\|REGAN]] | Why not, my lord? If then they chanced to slack you,<br>We could control them. If you will come to me—<br>For now I spy a danger—I entreat you<br>To bring but five-and-twenty; to no more<br>Will I give place or notice. |
 | LEAR | I gave you all. |
@@ -3682,14 +3682,14 @@ tags:
 | LEAR | Made you my guardians, my depositaries,<br>But kept a reservation to be followed<br>With such a number. What, must I come to you<br>With five-and-twenty, [[characters/regan\|Regan]]? Said you so? |
 | [[characters/regan\|REGAN]] | And speak’t again, my lord. No more with me. |
 | LEAR | Those wicked creatures yet do seem [[motifs/well\|well]] favoured<br>When others are more wicked. Not being the worst<br>Stands in some rank of praise. (To Gonoril) I’ll go with<br>thee.<br>Thy fifty yet doth [[topoi/double\|double]] five-and-twenty,<br>And thou art twice her [[motifs/love\|love]]. |
-| GONORIL | Hear me, my lord.<br>What need you five-and-twenty, ten, or five,<br>To follow in a [[house]] where twice so many<br>Have a command to tend you? |
+| GONORIL | Hear me, my lord.<br>What need you five-and-twenty, ten, or five,<br>To follow in a house where twice so many<br>Have a command to tend you? |
 | [[characters/regan\|REGAN]] | What needs one? |
 | LEAR | O, reason not the need! Our basest beggars<br>Are in the poorest thing superfluous.<br>Allow not [[concepts/nature\|nature]] more than [[concepts/nature\|nature]] needs,<br>Man’s life is cheap as beast’s. Thou art a lady.<br>If only to go warm were gorgeous,<br>Why, [[concepts/nature\|nature]] needs not what thou, gorgeous, wearest,<br>Which scarcely keeps thee warm. But for true need—<br>You heavens, give me that patience, patience I need.<br>You see me here, you gods, a poor old fellow,<br>As full of grief as age, wretched in both.<br>If it be you that stirs these daughters’ hearts<br>Against their father, [[archetypes/fool\|fool]] me not so much<br>To bear it tamely. Touch me with noble anger.<br>O, let not women’s weapons, [[motifs/water\|water]]-drops,<br>Stain my man’s cheeks! No, you unnatural hags,<br>I will have such revenges on you both<br>That all the world shall—I will do such things—<br>What they are, yet I know not; but they shall be<br>The terrors of the earth. You think I’ll weep.<br>No, I’ll not weep. |
 | *(didascalia)* | [[motifs/storm\|Storm]] within |
 | LEAR | I have full cause of weeping, but this heart<br>Shall break into a hundred thousand flaws<br>Or ere I’ll weep.—O [[archetypes/fool\|fool]], I shall go mad! |
 | *(didascalia)* | Exeunt Lear, [[characters/gloucester\|Gloucester]], [[characters/kent\|Kent]], Knight, and [[archetypes/fool\|Fool]] |
 | CORNWALL | Let us withdraw. ’Twill be a [[motifs/storm\|storm]]. |
-| [[characters/regan\|REGAN]] | This [[house]] is little. The old man and his people<br>Cannot be [[motifs/well\|well]] bestowed. |
+| [[characters/regan\|REGAN]] | This house is little. The old man and his people<br>Cannot be [[motifs/well\|well]] bestowed. |
 | GONORIL | ’Tis his own blame;<br>Hath put himself from rest, and must needs taste his folly. |
 | [[characters/regan\|REGAN]] | For his particular I’ll receive him gladly,<br>But not one follower. |
 | CORNWALL | So am I purposed. Where is my lord of [[characters/gloucester\|Gloucester]]? |
@@ -3709,7 +3709,7 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il conte di [[characters/kent\|Kent]], travestito, da una porta, e Oswald il maggiordomo da un’altra porta |
-| OSWALD | Buona sera a te, amico. Sei della [[house\|casa]]? |
+| OSWALD | Buona sera a te, amico. Sei della casa? |
 | [[characters/kent\|KENT]] | Sì. |
 | OSWALD | Dove possiamo mettere i nostri cavalli? |
 | [[characters/kent\|KENT]] | Nel pantano. |
@@ -3723,7 +3723,7 @@ tags:
 | [[characters/kent\|KENT]] | Per un furfante, un mascalzone, un mangiatore d’avanzi; un vile, borioso, sciocco, pezzente furfante da tre vestiti, da cento sterline, dalle sudicie calze di lana; un furfante dal fegato di giglio, litigante per vie legali; un figlio di puttana, guardaspecchi, arcischifiltoso mariolo; uno schiavo che eredita un solo baule; uno che si farebbe ruffiano a titolo di buon servizio, e non è altro che il composto d’un furfante, d’un pezzente, d’un vigliacco, d’un mezzano, e figlio ed erede d’una cagna bastarda; e ti batterò fino a farti guaire con clamore se neghi la minima sillaba di questi titoli. |
 | OSWALD | Che mostruoso individuo sei tu, per inveire così contro uno che né conosci né ti conosce! |
 | [[characters/kent\|KENT]] | Che sfacciato manigoldo sei tu, a negare di conoscermi! Son forse due giorni che t’ho battuto e t’ho fatto lo sgambetto davanti al [[archetypes/king\|Re]]? Sguaina, mariolo; ché, benché sia [[motifs/night\|notte]], la [[motifs/moon\|luna]] splende. |
-| *(didascalia)* | Sguaina la [[Sword\|spada]] |
+| *(didascalia)* | Sguaina la spada |
 | [[characters/kent\|KENT]] | Farò di te una zuppa nel chiaro di luna. Sguaina, figlio di puttana, coglione da barbiere, sguaina! |
 | OSWALD | Va’ via. Non ho nulla a che fare con te. |
 | [[characters/kent\|KENT]] | Sguaina, mascalzone. Tu porti lettere contro il [[archetypes/king\|Re]], e prendi le parti di [[concepts/vanity\|Vanità]] la marionetta contro la regalità di suo padre. Sguaina, mariolo, o ti squarcerò così le gambe—sguaina, mascalzone, vieni avanti! |
@@ -3747,7 +3747,7 @@ tags:
 | CORNOVAGLIA | Pace, signore. Furfante bestiale, non hai riverenza? |
 | [[characters/kent\|KENT]] | Sì, signore, ma l’ira ha un suo privilegio. |
 | CORNOVAGLIA | Perché sei in collera? |
-| [[characters/kent\|KENT]] | Che un tal servo come questo porti [[Sword\|spada]],<br>lui che non porta onestà. Simili furfanti sorridenti,<br>come costoro, spesso rodono in due quei legami<br>troppo stretti per esser sciolti; lisciano ogni<br>passione<br>che nell’animo dei loro signori si [[archetypes/rebel\|ribella]],<br>portano olio al [[motifs/fire\|fuoco]], [[motifs/snow\|neve]] ai loro umori più freddi,<br>negano, affermano, e volgono i loro becchi d’alcione<br>a ogni raffica e mutamento dei padroni,<br>nulla sapendo, come [[dogs\|cani]], se non seguire.<br>(A Oswald) La peste sul tuo viso epilettico!<br>Sorridi ai miei discorsi come s’io fossi un [[archetypes/fool\|matto]]?<br>Oca, se t’avessi sulla piana di Sarum<br>ti manderei schiamazzando a [[motifs/home\|casa]] a Camelot. |
+| [[characters/kent\|KENT]] | Che un tal servo come questo porti spada,<br>lui che non porta onestà. Simili furfanti sorridenti,<br>come costoro, spesso rodono in due quei legami<br>troppo stretti per esser sciolti; lisciano ogni<br>passione<br>che nell’animo dei loro signori si [[archetypes/rebel\|ribella]],<br>portano olio al [[motifs/fire\|fuoco]], [[motifs/snow\|neve]] ai loro umori più freddi,<br>negano, affermano, e volgono i loro becchi d’alcione<br>a ogni raffica e mutamento dei padroni,<br>nulla sapendo, come cani, se non seguire.<br>(A Oswald) La peste sul tuo viso epilettico!<br>Sorridi ai miei discorsi come s’io fossi un [[archetypes/fool\|matto]]?<br>Oca, se t’avessi sulla piana di Sarum<br>ti manderei schiamazzando a [[motifs/home\|casa]] a Camelot. |
 | CORNOVAGLIA | Come, sei pazzo, vecchio? |
 | *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] a [[characters/kent\|Kent]] Come veniste a lite? Dite questo. |
 | [[characters/kent\|KENT]] | Non v’è coppia di contrari che serbi più antipatia<br>di me e d’un tal furfante. |
@@ -3791,7 +3791,7 @@ tags:
 | CAVALIERE | Per quanto ho saputo,<br>la [[motifs/night\|notte]] prima non v’era proposito<br>della sua partenza. |
 | [[characters/kent\|KENT]] | (svegliandosi) Salute a te, nobile padrone. |
 | LEAR | Come! Fai di questa vergogna il tuo passatempo? |
-| [[archetypes/fool\|MATTO]] | Ah, ah, guarda, porta giarrettiere crudeli! I cavalli si legano per la testa, i [[dogs\|cani]] e gli orsi per il collo, le scimmie per i lombi, e gli uomini per le gambe. Quando un uomo è troppo gagliardo di gambe, allora porta calze di legno. |
+| [[archetypes/fool\|MATTO]] | Ah, ah, guarda, porta giarrettiere crudeli! I cavalli si legano per la testa, i cani e gli orsi per il collo, le scimmie per i lombi, e gli uomini per le gambe. Quando un uomo è troppo gagliardo di gambe, allora porta calze di legno. |
 | LEAR | (a [[characters/kent\|Kent]])<br>Chi è colui che ha tanto sbagliato il tuo posto<br>da metterti qui? |
 | [[characters/kent\|KENT]] | Sono l’uno e l’altra:<br>vostro figlio e vostra figlia. |
 | LEAR | No. |
@@ -3801,7 +3801,7 @@ tags:
 | LEAR | No, no, non l’avrebbero fatto. |
 | [[characters/kent\|KENT]] | Sì, l’hanno fatto. |
 | LEAR | Per Giove, giuro di no. Non oserebbero farlo,<br>non vorrebbero, non potrebbero farlo. È peggio che assassinio<br>fare al rispetto dovuto un oltraggio così violento.<br>Spiegami con tutta modesta fretta in che modo<br>tu possa meritare, o essi proporre, questo trattamento,<br>venendo tu da noi. |
-| [[characters/kent\|KENT]] | Mio signore, quando alla loro [[motifs/home\|casa]]<br>consegnai loro le lettere di vostra altezza,<br>prima ch’io mi fossi alzato dal luogo che mostrava<br>in ginocchio il mio dovere, giunse un corriere fumante,<br>cotto nella sua fretta, mezzo senza fiato, ansimando<br>saluti da Gonoril, sua padrona;<br>consegnò lettere a dispetto dell’interruzione,<br>che essi subito lessero, e sul cui contenuto<br>chiamarono a raccolta la servitù, montarono senz’altro a [[motifs/horse\|cavallo]],<br>mi comandarono di seguirli e d’attendere<br>il comodo della loro risposta, mi diedero sguardi freddi;<br>e incontrando qui l’altro messaggero,<br>la cui accoglienza vidi bene ch’aveva avvelenato la mia—<br>essendo egli proprio quel tale che poco fa<br>s’era così sfacciatamente esibito contro vostra altezza—<br>avendo in me più uomo che senno, sguainai.<br>Egli levò a rumore la [[house\|casa]] con grida forti e vigliacche.<br>Vostro figlio e vostra figlia giudicarono questa trasgressione degna<br>di questa vergogna che qui patisce. |
+| [[characters/kent\|KENT]] | Mio signore, quando alla loro [[motifs/home\|casa]]<br>consegnai loro le lettere di vostra altezza,<br>prima ch’io mi fossi alzato dal luogo che mostrava<br>in ginocchio il mio dovere, giunse un corriere fumante,<br>cotto nella sua fretta, mezzo senza fiato, ansimando<br>saluti da Gonoril, sua padrona;<br>consegnò lettere a dispetto dell’interruzione,<br>che essi subito lessero, e sul cui contenuto<br>chiamarono a raccolta la servitù, montarono senz’altro a [[motifs/horse\|cavallo]],<br>mi comandarono di seguirli e d’attendere<br>il comodo della loro risposta, mi diedero sguardi freddi;<br>e incontrando qui l’altro messaggero,<br>la cui accoglienza vidi bene ch’aveva avvelenato la mia—<br>essendo egli proprio quel tale che poco fa<br>s’era così sfacciatamente esibito contro vostra altezza—<br>avendo in me più uomo che senno, sguainai.<br>Egli levò a rumore la casa con grida forti e vigliacche.<br>Vostro figlio e vostra figlia giudicarono questa trasgressione degna<br>di questa vergogna che qui patisce. |
 | LEAR | Oh, come questa madre mi si gonfia verso il cuore!<br>Histerica passio, giù, dolore che sali;<br>il tuo elemento è di sotto.—Dov’è questa figlia? |
 | [[characters/kent\|KENT]] | Col conte, signore, là dentro. |
 | LEAR | Non seguitemi; restate lì. |
@@ -3830,11 +3830,11 @@ tags:
 | CORNOVAGLIA | Salute a vostra grazia. |
 | *(didascalia)* | [[characters/kent\|Kent]] viene qui liberato |
 | [[characters/regan\|REGAN]] | Son lieta di vedere vostra altezza. |
-| LEAR | [[characters/regan\|Regan]], credo che lo siate. So che ragione<br>ho di crederlo. Se non ne foste lieta<br>[[divorce\|divorzierei]] dal sepolcro di tua madre,<br>come da tomba d’un’adultera. (A [[characters/kent\|Kent]]) Ebbene, siete libero?<br>Di ciò un’altra [[motifs/time\|volta]].—Amata [[characters/regan\|Regan]],<br>tua sorella non vale nulla. Oh, [[characters/regan\|Regan]], ella ha legato<br>qui, come un avvoltoio, una scortesia dai denti aguzzi.<br>A stento posso parlarti. Non crederai<br>di che deplorata natura—oh, [[characters/regan\|Regan]]! |
+| LEAR | [[characters/regan\|Regan]], credo che lo siate. So che ragione<br>ho di crederlo. Se non ne foste lieta<br>divorzierei dal sepolcro di tua madre,<br>come da tomba d’un’adultera. (A [[characters/kent\|Kent]]) Ebbene, siete libero?<br>Di ciò un’altra [[motifs/time\|volta]].—Amata [[characters/regan\|Regan]],<br>tua sorella non vale nulla. Oh, [[characters/regan\|Regan]], ella ha legato<br>qui, come un avvoltoio, una scortesia dai denti aguzzi.<br>A stento posso parlarti. Non crederai<br>di che deplorata natura—oh, [[characters/regan\|Regan]]! |
 | [[characters/regan\|REGAN]] | Vi prego, signore, abbiate pazienza. Ho [[concepts/hope\|speranza]]<br>che voi sappiate stimare il suo [[motifs/desert\|merito]] meno<br>di quanto ella sappia trascurare il suo dovere. |
 | LEAR | Le mie maledizioni su di lei. |
 | [[characters/regan\|REGAN]] | Oh signore, voi siete vecchio.<br>La [[concepts/nature\|natura]] in voi sta proprio sull’orlo<br>del suo confine. Dovreste esser retto e guidato<br>da qualche discernimento che veda il vostro stato<br>meglio di voi stesso. Perciò vi prego<br>di far ritorno da nostra sorella;<br>dite che le avete fatto torto, signore. |
-| LEAR | Chiederle [[concepts/forgiveness\|perdono]]?<br>Notate come questo si confà alla [[house\|casa]]? |
+| LEAR | Chiederle [[concepts/forgiveness\|perdono]]?<br>Notate come questo si confà alla casa? |
 | *(didascalia)* | Inginocchiandosi «Cara figlia, confesso che sono vecchio. |
 | LEAR | La vecchiaia è inutile. In ginocchio ti prego<br>che tu voglia concedermi vesti, letto e cibo.» |
 | [[characters/regan\|REGAN]] | Buon signore, basta. Sono giochi sconvenienti.<br>Tornate da mia sorella. |
@@ -3867,7 +3867,7 @@ tags:
 | LEAR | Ora ti prego, figlia, non farmi impazzire.<br>Non ti darò fastidio, [[archetypes/child\|figlia]] mia. Addio.<br>Non ci incontreremo più, non ci vedremo più.<br>Eppure tu sei la mia carne, il mio [[motifs/blood\|sangue]], mia figlia—<br>o piuttosto una malattia che sta dentro la mia carne,<br>che devo per forza chiamare mia. Tu sei un foruncolo,<br>una piaga di peste, un carbonchio gonfio<br>nel mio [[motifs/blood\|sangue]] corrotto. Ma non ti rimprovererò.<br>Venga la vergogna quando vuole, io non la chiamo.<br>Non ordino al portatore del tuono di scagliarlo,<br>né racconto storie di te a Giove che alto giudica.<br>Correggiti quando puoi; migliora con tuo comodo.<br>Io so essere paziente, io posso stare con [[characters/regan\|Regan]],<br>io e i miei cento cavalieri. |
 | [[characters/regan\|REGAN]] | Non proprio così, signore.<br>Non vi aspetto ancora, né sono provvista<br>per accogliervi come si conviene. Date ascolto, signore, a mia sorella;<br>ché quelli che mescolano ragione alla vostra passione<br>devono contentarsi di pensare che siete vecchio, e dunque—<br>ma ella sa quel che fa. |
 | LEAR | È [[motifs/well\|ben]] detto questo, ora? |
-| [[characters/regan\|REGAN]] | Oso sostenerlo, signore. Come, cinquanta seguaci?<br>Non sta [[motifs/well\|bene]] così? Che bisogno avreste di più,<br>anzi, perfino di tanti, quando spesa e pericolo<br>parlano contro un numero così grande? Come, in una [[house\|casa]],<br>potrebbero molte persone sotto due comandi<br>mantenere concordia? È difficile, quasi impossibile. |
+| [[characters/regan\|REGAN]] | Oso sostenerlo, signore. Come, cinquanta seguaci?<br>Non sta [[motifs/well\|bene]] così? Che bisogno avreste di più,<br>anzi, perfino di tanti, quando spesa e pericolo<br>parlano contro un numero così grande? Come, in una casa,<br>potrebbero molte persone sotto due comandi<br>mantenere concordia? È difficile, quasi impossibile. |
 | GONORIL | Perché non potreste, mio signore, ricevere servizio<br>da quelli ch’ella chiama servi, o dai miei? |
 | [[characters/regan\|REGAN]] | E perché no, mio signore? Se allora capitasse loro di trascurarvi,<br>potremmo correggerli. Se verrete da me—<br>ché ora scorgo un pericolo—vi supplico<br>di portarne solo venticinque; a più di tanti<br>non darò né posto né riconoscimento. |
 | LEAR | Vi ho dato tutto. |
@@ -3875,14 +3875,14 @@ tags:
 | LEAR | Vi feci mie tutrici, mie depositarie,<br>ma serbai la riserva d’esser seguito<br>da un tal numero. Come, devo venire da voi<br>con venticinque, [[characters/regan\|Regan]]? L’avete detto? |
 | [[characters/regan\|REGAN]] | E lo ripeto, mio signore. Non di più con me. |
 | LEAR | Quelle creature malvagie appaiono pur [[motifs/well\|ben]] fatte<br>quando altre sono più malvagie. Non essere il peggiore<br>dà un certo grado di lode. (A Gonoril) Verrò con<br>te.<br>I tuoi cinquanta sono pur il [[topoi/double\|doppio]] di venticinque,<br>e tu vali due volte il suo [[motifs/love\|amore]]. |
-| GONORIL | Ascoltatemi, mio signore.<br>Che bisogno avete di venticinque, di dieci o di cinque,<br>per seguirvi in una [[house\|casa]] dove il doppio di tanti<br>hanno l’ordine di servirvi? |
+| GONORIL | Ascoltatemi, mio signore.<br>Che bisogno avete di venticinque, di dieci o di cinque,<br>per seguirvi in una casa dove il doppio di tanti<br>hanno l’ordine di servirvi? |
 | [[characters/regan\|REGAN]] | Che bisogno d’uno solo? |
 | LEAR | Oh, non ragionate del bisogno! I nostri più vili mendicanti<br>hanno del superfluo nella loro cosa più povera.<br>Non concedete alla [[concepts/nature\|natura]] più di quanto la [[concepts/nature\|natura]] chiede,<br>e la vita dell’uomo vale quanto quella d’una bestia. Tu sei una dama.<br>Se solo andar caldi fosse magnificenza,<br>ebbene, la [[concepts/nature\|natura]] non ha bisogno di ciò che tu, magnifica, indossi,<br>che a stento ti tiene calda. Ma quanto al vero bisogno—<br>voi, cieli, datemi quella pazienza, la pazienza di cui ho bisogno.<br>Voi mi vedete qui, o dèi, povero vecchio,<br>carico di dolore quanto d’anni, misero in entrambi.<br>Se siete voi ad aizzare il cuore di queste figlie<br>contro il padre, non mi rendete tanto [[archetypes/fool\|matto]]<br>da sopportarlo mansueto. Toccatemi di nobile ira.<br>Oh, non lasciate che le armi delle donne, gocce d’[[motifs/water\|acqua]],<br>macchino le mie guance d’uomo! No, streghe snaturate,<br>avrò tali vendette su voi due<br>che tutto il mondo—farò tali cose—<br>quali siano, ancora non so; ma saranno<br>i terrori della terra. Credete ch’io pianga.<br>No, non piangerò. |
 | *(didascalia)* | [[motifs/storm\|Tempesta]] all’interno |
 | LEAR | Ho ben motivo di piangere, ma questo cuore<br>si spezzerà in centomila schegge<br>prima ch’io pianga.—Oh [[archetypes/fool\|matto]], impazzirò! |
 | *(didascalia)* | Escono Lear, [[characters/gloucester\|Gloucester]], [[characters/kent\|Kent]], il Cavaliere e il [[archetypes/fool\|Matto]] |
 | CORNOVAGLIA | Ritiriamoci. Verrà una [[motifs/storm\|tempesta]]. |
-| [[characters/regan\|REGAN]] | Questa [[house\|casa]] è piccola. Il vecchio e la sua gente<br>non possono esservi [[motifs/well\|bene]] alloggiati. |
+| [[characters/regan\|REGAN]] | Questa casa è piccola. Il vecchio e la sua gente<br>non possono esservi [[motifs/well\|bene]] alloggiati. |
 | GONORIL | È colpa sua;<br>s’è privato del riposo, e deve per forza gustare la sua follia. |
 | [[characters/regan\|REGAN]] | Quanto a lui in persona, lo riceverò volentieri,<br>ma non un solo seguace. |
 | CORNOVAGLIA | Così ho deciso anch’io. Dov’è il mio signore di [[characters/gloucester\|Gloucester]]? |
@@ -3945,11 +3945,11 @@ tags:
 |---|---|
 | *(didascalia)* | [[motifs/storm\|Storm]]. Enter [[characters/king-lear\|King Lear]] and his [[archetypes/fool\|Fool]] |
 | LEAR | Blow, [[motifs/wind\|wind]], and crack your cheeks! Rage, blow,<br>You cataracts and hurricanoes, spout<br>Till you have drenched the steeples, drowned the<br>cocks!<br>You sulphurous and thought-executing fires,<br>Vaunt-couriers to oak-cleaving thunderbolts,<br>Singe my white head; and thou all-shaking thunder,<br>Smite flat the thick rotundity of the world,<br>Crack [[concepts/nature\|nature]]’s mould, all germens spill at once<br>That make ingrateful man. |
-| [[archetypes/fool\|FOOL]] | O nuncle, [[settings/court\|court]] holy [[motifs/water\|water]] in a dry [[house]] is better than this rain-[[motifs/water\|water]] out o’ door. Good nuncle, in, and ask thy daughters blessing. Here’s a [[motifs/night\|night]] pities neither wise man nor [[archetypes/fool\|fool]]. |
+| [[archetypes/fool\|FOOL]] | O nuncle, [[settings/court\|court]] holy [[motifs/water\|water]] in a dry house is better than this rain-[[motifs/water\|water]] out o’ door. Good nuncle, in, and ask thy daughters blessing. Here’s a [[motifs/night\|night]] pities neither wise man nor [[archetypes/fool\|fool]]. |
 | LEAR | Rumble thy bellyful; spit, [[motifs/fire\|fire]]; spout, rain.<br>Nor rain, [[motifs/wind\|wind]], thunder, [[motifs/fire\|fire]] are my daughters.<br>I tax not you, you elements, with unkindness.<br>I never gave you kingdom, called you children.<br>You owe me no subscription. Why then, let fall<br>Your horrible pleasure. Here I stand your slave,<br>A poor, infirm, weak and despised old man,<br>But yet I call you servile ministers,<br>That have with two pernicious daughters joined<br>Your high engendered battle ‘gainst a head<br>So old and white as this. O, ’tis foul! |
-| [[archetypes/fool\|FOOL]] | He that has a [[house]] to put his head in has a good headpiece. |
+| [[archetypes/fool\|FOOL]] | He that has a house to put his head in has a good headpiece. |
 | *(didascalia)* | Sings |
-| [[archetypes/fool\|FOOL]] | The codpiece that will [[house]] Before the head has any,<br>The head and he shall louse,<br>So beggars marry many.<br><br>The man that makes his toe<br>What he his heart should make<br>Shall have a corn cry woe,<br>And turn his [[motifs/sleep\|sleep]] to wake—<br>for there was never yet fair woman but she made mouths in a glass. |
+| [[archetypes/fool\|FOOL]] | The codpiece that will house Before the head has any,<br>The head and he shall louse,<br>So beggars marry many.<br><br>The man that makes his toe<br>What he his heart should make<br>Shall have a corn cry woe,<br>And turn his [[motifs/sleep\|sleep]] to wake—<br>for there was never yet fair woman but she made mouths in a glass. |
 | LEAR | No, I will be the pattern of all patience. |
 | *(didascalia)* | He sits. Enter the Earl of [[characters/kent\|Kent]] disguised |
 | LEAR | I will say nothing. |
@@ -3957,7 +3957,7 @@ tags:
 | [[archetypes/fool\|FOOL]] | Marry, here’s grace and a codpiece—that’s a wise man and a [[archetypes/fool\|fool]]. |
 | [[characters/kent\|KENT]] | (to Lear)<br>Alas, sir, sit you here? Things that [[motifs/love\|love]] [[motifs/night\|night]]<br>[[motifs/love\|Love]] not such nights as these. The wrathful skies<br>Gallow the very wanderers of the dark<br>And makes them keep their caves. Since I was man<br>Such sheets of [[motifs/fire\|fire]], such bursts of horrid thunder,<br>Such groans of roaring [[motifs/wind\|wind]] and rain I ne’er<br>Remember to have heard. Man’s [[concepts/nature\|nature]] cannot carry<br>The affliction nor the force. |
 | LEAR | Let the great gods,<br>That keep this dreadful pother o’er our heads,<br>Find out their enemies now. Tremble, thou wretch<br>That hast within thee undivulgèd crimes<br>Unwhipped of justice; hide thee, thou bloody hand,<br>Thou perjured and thou simular man of virtue<br>That art incestuous; caitiff, in pieces shake,<br>That under covert and convenient seeming<br>Hast practised on man’s life;<br>Close pent-up guilts, rive your concealed centres<br>And cry these dreadful summoners grace.<br>I am a man more sinned against than sinning. |
-| [[characters/kent\|KENT]] | Alack, bare-headed?<br>Gracious my lord, hard by here is a hovel.<br>Some [[concepts/friendship\|friendship]] will it lend you ‘gainst the tempest.<br>Repose you there whilst I to this hard [[house]]-<br>More hard than is the stone whereof ’tis raised,<br>Which even but now, demanding after you,<br>Denied me to come in—return and force<br>Their scanted courtesy. |
+| [[characters/kent\|KENT]] | Alack, bare-headed?<br>Gracious my lord, hard by here is a hovel.<br>Some [[concepts/friendship\|friendship]] will it lend you ‘gainst the tempest.<br>Repose you there whilst I to this hard house-<br>More hard than is the stone whereof ’tis raised,<br>Which even but now, demanding after you,<br>Denied me to come in—return and force<br>Their scanted courtesy. |
 | LEAR | My wit begins to turn.<br>(To [[archetypes/fool\|Fool]]) Come on, my boy. How dost, my boy? Art<br>cold?<br>I am cold myself.—Where is this straw, my fellow?<br>The art of our necessities is strange,<br>That can make vile things precious. Come, your<br>hovel.—<br>Poor [[archetypes/fool\|fool]] and knave, I have one part of my heart<br>That sorrows yet for thee. |
 | *(didascalia)* | [[archetypes/fool\|FOOL]] sings |
 | LEAR | He that has a little tiny wit,<br>With heigh-ho, the [[motifs/wind\|wind]] and the rain,<br>Must make content with his fortunes fit,<br>For the rain it raineth every day. |
@@ -3970,11 +3970,11 @@ tags:
 |---|---|
 | *(didascalia)* | [[motifs/storm\|Tempesta]]. Entrano [[characters/king-lear\|Re Lear]] e il suo [[archetypes/fool\|Matto]] |
 | LEAR | Soffia, [[motifs/wind\|vento]], e spaccati le gote! Infuria, soffia,<br>voi cateratte e uragani, zampillate<br>finché non avrete inzuppato i campanili, annegato le<br>banderuole!<br>Voi fuochi sulfurei, veloci come il pensiero,<br>araldi delle folgori che spaccano le querce,<br>bruciacchiate il mio capo bianco; e tu, tuono che tutto scuoti,<br>schiaccia piatta la spessa rotondità del mondo,<br>spezza lo stampo della [[concepts/nature\|natura]], versa d’un colpo tutti i germi<br>che fanno l’uomo ingrato. |
-| [[archetypes/fool\|MATTO]] | Oh zietto, l’[[motifs/water\|acqua]] benedetta di [[settings/court\|corte]] in una [[house\|casa]] asciutta è meglio di quest’[[motifs/water\|acqua]] piovana all’aperto. Buon zietto, rientra, e chiedi la benedizione alle tue figlie. Ecco una [[motifs/night\|notte]] che non ha pietà né del savio né del [[archetypes/fool\|matto]]. |
+| [[archetypes/fool\|MATTO]] | Oh zietto, l’[[motifs/water\|acqua]] benedetta di [[settings/court\|corte]] in una casa asciutta è meglio di quest’[[motifs/water\|acqua]] piovana all’aperto. Buon zietto, rientra, e chiedi la benedizione alle tue figlie. Ecco una [[motifs/night\|notte]] che non ha pietà né del savio né del [[archetypes/fool\|matto]]. |
 | LEAR | Rimbomba a sazietà; sputa, [[motifs/fire\|fuoco]]; zampilla, pioggia.<br>Né pioggia, né [[motifs/wind\|vento]], né tuono, né [[motifs/fire\|fuoco]] sono mie figlie.<br>Non v’accuso, o elementi, di scortesia.<br>Non vi diedi mai regno, non vi chiamai figli.<br>Non mi dovete obbedienza. E allora, lasciate cadere<br>il vostro orribile piacere. Qui io sto, vostro schiavo,<br>povero vecchio infermo, debole e disprezzato.<br>Eppure vi chiamo ministri servili,<br>che con due perniciose figlie avete unito<br>la vostra battaglia generata in alto contro un capo<br>vecchio e bianco come questo. Oh, è cosa turpe! |
-| [[archetypes/fool\|MATTO]] | Chi ha una [[house\|casa]] in cui mettere la testa ha un buon copricapo. |
+| [[archetypes/fool\|MATTO]] | Chi ha una casa in cui mettere la testa ha un buon copricapo. |
 | *(didascalia)* | Canta |
-| [[archetypes/fool\|MATTO]] | La brachetta che vuol [[house\|alloggiare]] prima che la testa abbia tetto,<br>essa e la testa si faran pidocchiose,<br>così i pezzenti si sposano a frotte.<br><br>L’uomo che fa del suo dito del piede<br>ciò che dovrebbe fare del suo cuore<br>avrà un callo che grida guai,<br>e muterà il suo [[motifs/sleep\|sonno]] in veglia—<br>ché non ci fu mai bella donna che non facesse smorfie allo specchio. |
+| [[archetypes/fool\|MATTO]] | La brachetta che vuol alloggiare prima che la testa abbia tetto,<br>essa e la testa si faran pidocchiose,<br>così i pezzenti si sposano a frotte.<br><br>L’uomo che fa del suo dito del piede<br>ciò che dovrebbe fare del suo cuore<br>avrà un callo che grida guai,<br>e muterà il suo [[motifs/sleep\|sonno]] in veglia—<br>ché non ci fu mai bella donna che non facesse smorfie allo specchio. |
 | LEAR | No, io sarò il modello d’ogni pazienza. |
 | *(didascalia)* | Si siede. Entra il conte di [[characters/kent\|Kent]] travestito |
 | LEAR | Non dirò nulla. |
@@ -3982,7 +3982,7 @@ tags:
 | [[archetypes/fool\|MATTO]] | Perbacco, ecco una grazia e una brachetta—cioè un savio e un [[archetypes/fool\|matto]]. |
 | [[characters/kent\|KENT]] | (a Lear)<br>Ahimè, signore, sedete qui? Le cose che [[motifs/love\|amano]] la [[motifs/night\|notte]]<br>non [[motifs/love\|amano]] notti come questa. I cieli irati<br>atterriscono perfino i vagabondi del buio<br>e li fanno restare nelle loro tane. Da quando son uomo<br>tali lenzuoli di [[motifs/fire\|fuoco]], tali scoppi d’orrendo tuono,<br>tali gemiti di [[motifs/wind\|vento]] ruggente e di pioggia non<br>ricordo d’avere udito. La [[concepts/nature\|natura]] dell’uomo non può reggere<br>né l’afflizione né la violenza. |
 | LEAR | Che i grandi dèi,<br>che tengono questo tremendo fracasso sopra le nostre teste,<br>scoprano ora i loro nemici. Trema, tu miserabile<br>che dentro di te hai delitti non rivelati<br>e non frustati dalla giustizia; nasconditi, tu mano sanguinaria,<br>tu spergiuro, e tu che simuli virtù<br>e sei incestuoso; sciagurato, va’ in pezzi dal tremore,<br>tu che sotto coperta e comoda apparenza<br>hai macchinato contro la vita d’un uomo;<br>colpe rinchiuse e serrate, squarciate i vostri centri nascosti<br>e implorate grazia a questi terribili messi.<br>Io sono un uomo più peccato contro che peccatore. |
-| [[characters/kent\|KENT]] | Ahimè, a capo scoperto?<br>Grazioso mio signore, qui vicino c’è un tugurio.<br>Qualche [[concepts/friendship\|amicizia]] vi presterà contro la tempesta.<br>Riposatevi là, mentre io a questa dura [[house\|casa]]—<br>più dura della pietra di cui è fatta,<br>e che proprio or ora, quando chiedevo di voi,<br>mi negò l’ingresso—tornerò e forzerò<br>la loro lesinata cortesia. |
+| [[characters/kent\|KENT]] | Ahimè, a capo scoperto?<br>Grazioso mio signore, qui vicino c’è un tugurio.<br>Qualche [[concepts/friendship\|amicizia]] vi presterà contro la tempesta.<br>Riposatevi là, mentre io a questa dura casa—<br>più dura della pietra di cui è fatta,<br>e che proprio or ora, quando chiedevo di voi,<br>mi negò l’ingresso—tornerò e forzerò<br>la loro lesinata cortesia. |
 | LEAR | La mia mente comincia a girare.<br>(Al [[archetypes/fool\|Matto]]) Vieni, ragazzo mio. Come stai, ragazzo mio? Hai<br>freddo?<br>Ho freddo anch’io.—Dov’è questa paglia, amico?<br>Strana è l’arte delle nostre necessità,<br>che sa render preziose le cose vili. Su, il tuo<br>tugurio.—<br>Povero [[archetypes/fool\|matto]] e furfante, ho una parte del mio cuore<br>che ancora si duole per te. |
 | *(didascalia)* | Il [[archetypes/fool\|MATTO]] canta |
 | LEAR | Chi ha un pochino piccino di senno,<br>con oh-issa, il [[motifs/wind\|vento]] e la pioggia,<br>deve contentarsi come porta la sorte,<br>ché la pioggia piove ogni giorno. |
@@ -3996,7 +3996,7 @@ tags:
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the [[characters/duke-of-gloucester\|Duke of Gloucester]] and [[characters/edmund\|Edmund]] the bastard, with lights |
-| [[characters/gloucester\|GLOUCESTER]] | Alack, alack, [[characters/edmund\|Edmund]], I like not this<br>Unnatural dealing. When I desired their leave<br>That I might pity him, they took from me<br>The use of mine own [[house]], charged me on [[motifs/pain\|pain]]<br>Of their displeasure neither to speak of him,<br>Entreat for him, nor any way sustain him. |
+| [[characters/gloucester\|GLOUCESTER]] | Alack, alack, [[characters/edmund\|Edmund]], I like not this<br>Unnatural dealing. When I desired their leave<br>That I might pity him, they took from me<br>The use of mine own house, charged me on [[motifs/pain\|pain]]<br>Of their displeasure neither to speak of him,<br>Entreat for him, nor any way sustain him. |
 | [[characters/edmund\|EDMUND]] | Most savage and unnatural! |
 | [[characters/gloucester\|GLOUCESTER]] | Go to, say you nothing. There’s a division betwixt the Dukes, and a worse matter than that. I have received a letter this [[motifs/night\|night]]—‘tis dangerous to be spoken—I have locked the letter in my closet. These injuries the [[archetypes/king\|King]] now bears will be revenged [[motifs/home\|home]]. There’s part of a power already landed. We must incline to the [[archetypes/king\|King]]. I will seek him and privily relieve him. Go you and maintain talk with the Duke, that my [[concepts/charity\|charity]] be not of him perceived. If he ask for me, I am ill and gone to bed. Though I die for’t—as no less is threatened me—the [[archetypes/king\|King]] my old master must be relieved. There is some strange thing toward. [[characters/edmund\|Edmund]], pray you be careful. Exit |
 | [[characters/edmund\|EDMUND]] | This courtesy, forbid thee, shall the Duke<br>Instantly know, and of that letter too.<br>This seems a fair deserving, and must draw me<br>That which my father loses: no less than all.<br>The younger rises when the old do fall. Exit |
@@ -4007,7 +4007,7 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il [[characters/duke-of-gloucester\|duca di Gloucester]] ed [[characters/edmund\|Edmund]] il bastardo, con lumi |
-| [[characters/gloucester\|GLOUCESTER]] | Ahimè, ahimè, [[characters/edmund\|Edmund]], non mi piace questo<br>procedere snaturato. Quando chiesi il loro permesso<br>di poter aver pietà di lui, mi tolsero<br>l’uso della mia stessa [[house\|casa]], m’ingiunsero sotto [[motifs/pain\|pena]]<br>del loro disfavore di non parlare di lui,<br>di non intercedere per lui, né in alcun modo di sostenerlo. |
+| [[characters/gloucester\|GLOUCESTER]] | Ahimè, ahimè, [[characters/edmund\|Edmund]], non mi piace questo<br>procedere snaturato. Quando chiesi il loro permesso<br>di poter aver pietà di lui, mi tolsero<br>l’uso della mia stessa casa, m’ingiunsero sotto [[motifs/pain\|pena]]<br>del loro disfavore di non parlare di lui,<br>di non intercedere per lui, né in alcun modo di sostenerlo. |
 | [[characters/edmund\|EDMUND]] | Cosa selvaggia e snaturata! |
 | [[characters/gloucester\|GLOUCESTER]] | Suvvia, non dite nulla. C’è divisione fra i Duchi, e cosa peggiore ancora. Ho ricevuto una lettera questa [[motifs/night\|notte]]—è pericoloso parlarne—ho chiuso la lettera nel mio stanzino. Queste offese che il [[archetypes/king\|Re]] ora sopporta saranno vendicate fino in [[motifs/home\|fondo]]. Parte d’un esercito è già sbarcata. Dobbiamo inclinare dalla parte del [[archetypes/king\|Re]]. Andrò a cercarlo e di nascosto lo soccorrerò. Andate voi e tenete a discorso il Duca, sì che la mia [[concepts/charity\|carità]] non sia da lui avvertita. Se chiede di me, sono malato e andato a letto. Anche se dovessi morirne—e nulla di meno mi si minaccia—il [[archetypes/king\|Re]] mio vecchio padrone dev’essere soccorso. Qualcosa di strano si prepara. [[characters/edmund\|Edmund]], vi prego, siate cauto. Esce |
 | [[characters/edmund\|EDMUND]] | Questa cortesia, a te vietata, il Duca<br>la saprà all’istante, e anche di quella lettera.<br>Questo pare un bel merito, e deve fruttarmi<br>ciò che mio padre perde: nientemeno che tutto.<br>Il giovane sale quando il vecchio cade. Esce |
@@ -4021,7 +4021,7 @@ tags:
 |---|---|
 | *(didascalia)* | [[motifs/storm\|Storm]]. Enter [[characters/king-lear\|King Lear]], the Earl of [[characters/kent\|Kent]] disguised, and Lear’s [[archetypes/fool\|Fool]] |
 | [[characters/kent\|KENT]] | Here is the place, my lord. Good my lord, enter.<br>The tyranny of the open [[motifs/night\|night]]’s too rough<br>For [[concepts/nature\|nature]] to endure. |
-| LEAR | Let me [[Alone\|alone]]. |
+| LEAR | Let me alone. |
 | [[characters/kent\|KENT]] | Good my lord, enter here. |
 | LEAR | Wilt break my heart? |
 | [[characters/kent\|KENT]] | I had rather break mine own. Good my lord, enter. |
@@ -4066,7 +4066,7 @@ tags:
 | [[characters/edgar\|EDGAR]] | Poor Tom’s a-cold. |
 | [[characters/gloucester\|GLOUCESTER]] | (to Lear)<br>Go in with me. My duty cannot suffer<br>To obey in all your daughters’ hard commands.<br>Though their injunction be to bar my doors<br>And let this tyrannous [[motifs/night\|night]] take hold upon you,<br>Yet have I ventured to come seek you out<br>And bring you where both food and [[motifs/fire\|fire]] is ready. |
 | LEAR | First let me talk with this philosopher.<br>(To [[characters/edgar\|Edgar]]) What is the cause of thunder? |
-| [[characters/kent\|KENT]] | My good lord,<br>Take his offer; go into the [[house]]. |
+| [[characters/kent\|KENT]] | My good lord,<br>Take his offer; go into the house. |
 | LEAR | I’ll talk a word with this most learnèd Theban.<br>(To [[characters/edgar\|Edgar]]) What is your study? |
 | [[characters/edgar\|EDGAR]] | How to prevent the fiend, and to kill vermin. |
 | LEAR | Let me ask you one word in private.<br>They converse apart |
@@ -4094,7 +4094,7 @@ tags:
 |---|---|
 | *(didascalia)* | [[motifs/storm\|Tempesta]]. Entrano [[characters/king-lear\|Re Lear]], il conte di [[characters/kent\|Kent]] travestito, e il [[archetypes/fool\|Matto]] di Lear |
 | [[characters/kent\|KENT]] | Ecco il luogo, mio signore. Mio buon signore, entrate.<br>La tirannia della [[motifs/night\|notte]] all’aperto è troppo aspra<br>perché la [[concepts/nature\|natura]] la sopporti. |
-| LEAR | Lasciami [[Alone\|solo]]. |
+| LEAR | Lasciami solo. |
 | [[characters/kent\|KENT]] | Mio buon signore, entrate qui. |
 | LEAR | Mi vuoi spezzare il cuore? |
 | [[characters/kent\|KENT]] | Preferirei spezzare il mio. Mio buon signore, entrate. |
@@ -4139,7 +4139,7 @@ tags:
 | [[characters/edgar\|EDGAR]] | Il Povero Tom ha freddo. |
 | [[characters/gloucester\|GLOUCESTER]] | (a Lear)<br>Venite dentro con me. Il mio dovere non può sopportare<br>d’obbedire in tutto ai duri comandi delle vostre figlie.<br>Benché la loro ingiunzione sia di sbarrare le mie porte<br>e di lasciare che questa tirannica [[motifs/night\|notte]] v’afferri,<br>pure ho osato venire a cercarvi<br>e a condurvi dove cibo e [[motifs/fire\|fuoco]] son pronti. |
 | LEAR | Prima lasciate ch’io parli con questo filosofo.<br>(A [[characters/edgar\|Edgar]]) Qual è la causa del tuono? |
-| [[characters/kent\|KENT]] | Mio buon signore,<br>accettate la sua offerta; entrate nella [[house\|casa]]. |
+| [[characters/kent\|KENT]] | Mio buon signore,<br>accettate la sua offerta; entrate nella casa. |
 | LEAR | Voglio scambiare una parola con questo dottissimo tebano.<br>(A [[characters/edgar\|Edgar]]) Qual è il vostro studio? |
 | [[characters/edgar\|EDGAR]] | Come prevenire il demonio, e come uccidere i parassiti. |
 | LEAR | Lasciate ch’io vi chieda una parola in privato.<br>Conversano in disparte |
@@ -4168,7 +4168,7 @@ tags:
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the Duke of Cornwall and [[characters/edmund\|Edmund]] the bastard |
-| CORNWALL | I will have my [[concepts/revenge\|revenge]] ere I depart the [[house]]. [[characters/edmund\|EDMUND]] How, my lord, I may be censured, that [[concepts/nature\|nature]] thus gives way to loyalty, something fears me to think of. |
+| CORNWALL | I will have my [[concepts/revenge\|revenge]] ere I depart the house. [[characters/edmund\|EDMUND]] How, my lord, I may be censured, that [[concepts/nature\|nature]] thus gives way to loyalty, something fears me to think of. |
 | CORNWALL | I now perceive it was not altogether your brother’s evil disposition made him seek his [[motifs/death\|death]], but a provoking merit set a-work by a reprovable badness in himself. |
 | [[characters/edmund\|EDMUND]] | How malicious is my fortune, that I must repent to be just! This is the letter he spoke of, which approves him an intelligent party to the advantages of France. O heavens, that his treason were not, or not I the detector! |
 | CORNWALL | Go with me to the Duchess. |
@@ -4183,7 +4183,7 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il duca di Cornovaglia ed [[characters/edmund\|Edmund]] il bastardo |
-| CORNOVAGLIA | Avrò la mia [[concepts/revenge\|vendetta]] prima di lasciare questa [[house\|casa]]. [[characters/edmund\|EDMUND]] Come io possa esser biasimato, mio signore, per aver così ceduto la [[concepts/nature\|natura]] alla lealtà, un poco mi spaventa al solo pensarlo. |
+| CORNOVAGLIA | Avrò la mia [[concepts/revenge\|vendetta]] prima di lasciare questa casa. [[characters/edmund\|EDMUND]] Come io possa esser biasimato, mio signore, per aver così ceduto la [[concepts/nature\|natura]] alla lealtà, un poco mi spaventa al solo pensarlo. |
 | CORNOVAGLIA | Ora m’accorgo che non fu del tutto la malvagia indole di vostro fratello a fargli cercare la [[motifs/death\|morte]] del padre, ma un merito provocante messo all’opera da una biasimevole cattiveria in lui stesso. |
 | [[characters/edmund\|EDMUND]] | Com’è maligna la mia fortuna, che devo pentirmi d’esser giusto! Questa è la lettera di cui parlò, che lo prova parte informata dei vantaggi della Francia. O cieli, che il suo tradimento non fosse, o non fossi io a scoprirlo! |
 | CORNOVAGLIA | Venite con me dalla Duchessa. |
@@ -4229,12 +4229,12 @@ tags:
 | [[archetypes/fool\|FOOL]] | Come hither, mistress. Is your name Gonoril? |
 | LEAR | She cannot deny it. |
 | [[archetypes/fool\|FOOL]] | Cry you [[concepts/mercy\|mercy]], I took you for a join-stool. |
-| LEAR | And here’s another, whose warped looks proclaim<br>What store her heart is made on. Stop her there.<br>Arms, arms, [[Sword\|sword]], [[motifs/fire\|fire]], corruption in the place!<br>False justicer, why hast thou let her scape? |
+| LEAR | And here’s another, whose warped looks proclaim<br>What store her heart is made on. Stop her there.<br>Arms, arms, sword, [[motifs/fire\|fire]], corruption in the place!<br>False justicer, why hast thou let her scape? |
 | [[characters/edgar\|EDGAR]] | Bless thy five wits. |
 | [[characters/kent\|KENT]] | (to Lear)<br>O pity! Sir, where is the patience now<br>That you so oft have boasted to retain? |
 | [[characters/edgar\|EDGAR]] | (aside)<br>My [[motifs/tears\|tears]] begin to take his part so much<br>They’ll mar my counterfeiting. |
-| LEAR | The little [[dogs]] and all,<br>Tray, Blanch, and Sweetheart—see, they bark at me. |
-| [[characters/edgar\|EDGAR]] | Tom will throw his head at them.—Avaunt, you curs!<br>Be thy mouth or black or white,<br>Tooth that poisons if it bite,<br>Mastiff, greyhound, mongrel grim,<br>Hound or spaniel, brach or him,<br>Bobtail tyke or trundle-tail,<br>Tom will make them weep and wail;<br>For with throwing thus my head,<br>[[dogs\|Dogs]] leap the hatch, and all are fled.<br>Loudla, doodla! Come, march to wakes and fairs<br>And market towns. Poor Tom, thy horn is dry. |
+| LEAR | The little dogs and all,<br>Tray, Blanch, and Sweetheart—see, they bark at me. |
+| [[characters/edgar\|EDGAR]] | Tom will throw his head at them.—Avaunt, you curs!<br>Be thy mouth or black or white,<br>Tooth that poisons if it bite,<br>Mastiff, greyhound, mongrel grim,<br>Hound or spaniel, brach or him,<br>Bobtail tyke or trundle-tail,<br>Tom will make them weep and wail;<br>For with throwing thus my head,<br>Dogs leap the hatch, and all are fled.<br>Loudla, doodla! Come, march to wakes and fairs<br>And market towns. Poor Tom, thy horn is dry. |
 | LEAR | Then let them anatomize [[characters/regan\|Regan]]; see what breeds about her heart. Is there any cause in [[concepts/nature\|nature]] that makes this hardness? (To [[characters/edgar\|Edgar]]) You, sir, I entertain you for one of my hundred, only I do not like the fashion of your garments. You’ll say they are Persian attire; but let them be changed. |
 | [[characters/kent\|KENT]] | Now, good my lord, lie here a while. |
 | LEAR | Make no noise, make no noise. Draw the curtains.<br>So, so, so. We’ll go to supper i’th’ morning. So, so, so.<br>He sleeps. Enter the [[characters/duke-of-gloucester\|Duke of Gloucester]] |
@@ -4244,7 +4244,7 @@ tags:
 | [[characters/kent\|KENT]] | (to Lear) Oppressed [[concepts/nature\|nature]] sleeps.<br>This rest might yet have balmed thy broken sinews<br>Which, if convenience will not allow,<br>Stand in hard cure. (To [[archetypes/fool\|Fool]]) Come, help to bear thy<br>master.<br>Thou must not stay behind. |
 | [[characters/gloucester\|GLOUCESTER]] | Come, come away. |
 | *(didascalia)* | Exeunt all but [[characters/edgar\|Edgar]] |
-| [[characters/edgar\|EDGAR]] | When we our betters see bearing our woes,<br>We scarcely think our miseries our foes.<br>Who [[Alone\|alone]] suffers, suffers most i‘th’ mind,<br>Leaving free things and happy shows behind.<br>But then the mind much sufferance doth o’erskip<br>When grief hath mates, and bearing fellowship.<br>How light and portable my [[motifs/pain\|pain]] seems now,<br>When that which makes me bend, makes the [[archetypes/king\|King]]<br>bow.<br>He childed as I fathered. Tom, away.<br>Mark the high noises, and thyself bewray<br>When false opinion, whose wrong thoughts defile thee,<br>In thy just proof repeals and reconciles thee.<br>What will hap more tonight, safe scape the [[archetypes/king\|King]]!<br>Lurk, lurk. |
+| [[characters/edgar\|EDGAR]] | When we our betters see bearing our woes,<br>We scarcely think our miseries our foes.<br>Who alone suffers, suffers most i‘th’ mind,<br>Leaving free things and happy shows behind.<br>But then the mind much sufferance doth o’erskip<br>When grief hath mates, and bearing fellowship.<br>How light and portable my [[motifs/pain\|pain]] seems now,<br>When that which makes me bend, makes the [[archetypes/king\|King]]<br>bow.<br>He childed as I fathered. Tom, away.<br>Mark the high noises, and thyself bewray<br>When false opinion, whose wrong thoughts defile thee,<br>In thy just proof repeals and reconciles thee.<br>What will hap more tonight, safe scape the [[archetypes/king\|King]]!<br>Lurk, lurk. |
 | *(didascalia)* | Exit |
 
 
@@ -4282,12 +4282,12 @@ tags:
 | [[archetypes/fool\|MATTO]] | Venite qua, signora. Vi chiamate Gonoril? |
 | LEAR | Non può negarlo. |
 | [[archetypes/fool\|MATTO]] | Chiedo [[concepts/mercy\|venia]], v’avevo preso per uno sgabello. |
-| LEAR | Ed ecco l’altra, il cui sguardo storto proclama<br>di che stoffa è fatto il suo cuore. Fermatela là.<br>Alle armi, alle armi, [[Sword\|spada]], [[motifs/fire\|fuoco]], corruzione nel tribunale!<br>Falso giudice, perché l’hai lasciata scappare? |
+| LEAR | Ed ecco l’altra, il cui sguardo storto proclama<br>di che stoffa è fatto il suo cuore. Fermatela là.<br>Alle armi, alle armi, spada, [[motifs/fire\|fuoco]], corruzione nel tribunale!<br>Falso giudice, perché l’hai lasciata scappare? |
 | [[characters/edgar\|EDGAR]] | Benedetti i tuoi cinque sensi. |
 | [[characters/kent\|KENT]] | (a Lear)<br>Oh, pietà! Signore, dov’è ora quella pazienza<br>che tanto spesso vi vantaste di serbare? |
 | [[characters/edgar\|EDGAR]] | (a parte)<br>Le mie [[motifs/tears\|lacrime]] cominciano a prendere così tanto le sue parti<br>che guasteranno la mia finzione. |
-| LEAR | I piccoli [[dogs\|cani]] e tutti quanti,<br>Tray, Blanch e Sweetheart—guarda, mi abbaiano contro. |
-| [[characters/edgar\|EDGAR]] | Tom scaglierà loro la testa.—Via, botoli!<br>Sia la tua bocca nera o bianca,<br>dente che avvelena se morde,<br>mastino, levriero, bastardo torvo,<br>segugio o spaniel, cagna o cane,<br>botolo dalla coda mozza o dalla coda a spirale,<br>Tom li farà piangere e ululare;<br>ché al lanciar così la mia testa<br>i [[dogs\|cani]] saltano il cancello, e tutti son fuggiti.<br>Loudla, doodla! Su, marciamo alle sagre e alle fiere<br>e ai borghi di mercato. Povero Tom, il tuo corno è asciutto. |
+| LEAR | I piccoli cani e tutti quanti,<br>Tray, Blanch e Sweetheart—guarda, mi abbaiano contro. |
+| [[characters/edgar\|EDGAR]] | Tom scaglierà loro la testa.—Via, botoli!<br>Sia la tua bocca nera o bianca,<br>dente che avvelena se morde,<br>mastino, levriero, bastardo torvo,<br>segugio o spaniel, cagna o cane,<br>botolo dalla coda mozza o dalla coda a spirale,<br>Tom li farà piangere e ululare;<br>ché al lanciar così la mia testa<br>i cani saltano il cancello, e tutti son fuggiti.<br>Loudla, doodla! Su, marciamo alle sagre e alle fiere<br>e ai borghi di mercato. Povero Tom, il tuo corno è asciutto. |
 | LEAR | Poi lascino che facciano l’anatomia di [[characters/regan\|Regan]]; si veda che cosa cova attorno al suo cuore. C’è qualche causa nella [[concepts/nature\|natura]] che produce questa durezza? (A [[characters/edgar\|Edgar]]) Voi, signore, vi assumo per uno dei miei cento; solo che non mi piace la foggia delle vostre vesti. Direte che sono abiti persiani; ma si cambino. |
 | [[characters/kent\|KENT]] | Ora, mio buon signore, coricatevi qui un poco. |
 | LEAR | Non fate rumore, non fate rumore. Tirate le cortine.<br>Così, così, così. Andremo a cena domattina. Così, così, così.<br>Si addormenta. Entra il [[characters/duke-of-gloucester\|duca di Gloucester]] |
@@ -4297,7 +4297,7 @@ tags:
 | [[characters/kent\|KENT]] | (a Lear) La [[concepts/nature\|natura]] oppressa dorme.<br>Questo riposo avrebbe potuto ancora lenire i tuoi nervi spezzati<br>i quali, se le circostanze non lo permettono,<br>saranno di difficile cura. (Al [[archetypes/fool\|Matto]]) Vieni, aiuta a portare il tuo<br>padrone.<br>Tu non devi restare indietro. |
 | [[characters/gloucester\|GLOUCESTER]] | Su, andiamo via. |
 | *(didascalia)* | Escono tutti tranne [[characters/edgar\|Edgar]] |
-| [[characters/edgar\|EDGAR]] | Quando vediamo i nostri superiori portare i nostri guai,<br>a stento pensiamo nemiche le nostre miserie.<br>Chi soffre [[Alone\|solo]], soffre più nella mente,<br>lasciandosi dietro cose libere e lieti spettacoli.<br>Ma allora la mente sorvola gran parte del patire<br>quando il dolore ha compagni, e la sofferenza sodalizio.<br>Quanto lieve e portabile mi pare ora il mio [[motifs/pain\|dolore]],<br>quando ciò che fa piegare me fa piegare il<br>[[archetypes/king\|Re]].<br>Egli coi figli come io col padre. Tom, via.<br>Sta’ attento ai grandi rumori, e rivelati<br>quando la falsa opinione, i cui torti pensieri ti macchiano,<br>alla tua giusta prova ti richiami e ti riconcili.<br>Qualunque altra cosa accada stanotte, scampi salvo il [[archetypes/king\|Re]]!<br>Nasconditi, nasconditi. |
+| [[characters/edgar\|EDGAR]] | Quando vediamo i nostri superiori portare i nostri guai,<br>a stento pensiamo nemiche le nostre miserie.<br>Chi soffre solo, soffre più nella mente,<br>lasciandosi dietro cose libere e lieti spettacoli.<br>Ma allora la mente sorvola gran parte del patire<br>quando il dolore ha compagni, e la sofferenza sodalizio.<br>Quanto lieve e portabile mi pare ora il mio [[motifs/pain\|dolore]],<br>quando ciò che fa piegare me fa piegare il<br>[[archetypes/king\|Re]].<br>Egli coi figli come io col padre. Tom, via.<br>Sta’ attento ai grandi rumori, e rivelati<br>quando la falsa opinione, i cui torti pensieri ti macchiano,<br>alla tua giusta prova ti richiami e ti riconcili.<br>Qualunque altra cosa accada stanotte, scampi salvo il [[archetypes/king\|Re]]!<br>Nasconditi, nasconditi. |
 | *(didascalia)* | Esce |
 
 
@@ -4361,7 +4361,7 @@ tags:
 | CORNWALL | My villein! |
 | SERVANT | Why then, come on, and take the chance of anger.<br>They draw and fight |
 | *(didascalia)* | [[characters/regan\|REGAN]] to another Servant |
-| SERVANT | Give me thy [[Sword\|sword]]. A peasant stand up thus!<br>She takes a [[Sword\|sword]] and runs at him behind |
+| SERVANT | Give me thy sword. A peasant stand up thus!<br>She takes a sword and runs at him behind |
 | SERVANT | (to [[characters/gloucester\|Gloucester]])<br>O, I am slain, my lord! Yet have you one eye left<br>To see some mischief on him. |
 | *(didascalia)* | [[characters/regan\|Regan]] stabs him again |
 | SERVANT | O! He dies |
@@ -4442,7 +4442,7 @@ tags:
 | CORNOVAGLIA | Servo della gleba! |
 | SERVO | E allora, avanti, e affrontate il rischio dell’ira.<br>Sguainano e combattono |
 | *(didascalia)* | [[characters/regan\|REGAN]] a un altro Servo |
-| SERVO | Dammi la tua [[Sword\|spada]]. Un villano rizzarsi così!<br>Ella prende una [[Sword\|spada]] e lo trafigge alle spalle |
+| SERVO | Dammi la tua spada. Un villano rizzarsi così!<br>Ella prende una spada e lo trafigge alle spalle |
 | SERVO | (a [[characters/gloucester\|Gloucester]])<br>Oh, sono ucciso, mio signore! Pure vi resta un occhio<br>per vedere qualche danno su di lui. |
 | *(didascalia)* | [[characters/regan\|Regan]] lo pugnala di nuovo |
 | SERVO | Oh! Muore |
@@ -4589,7 +4589,7 @@ tags:
 | ALBANY | O my good lord, the Duke of Cornwall’s dead,<br>Slain by his servant going to put out<br>The other eye of [[characters/gloucester\|Gloucester]]. |
 | ALBANY | [[characters/gloucester\|Gloucester]]’s eyes? |
 | *(didascalia)* | FSECOND GENTLEMAN |
-| ALBANY | A servant that he bred, thralled with remorse,<br>Opposed against the act, bending his [[Sword\|sword]]<br>To his great master, who thereat enraged<br>Flew on him, and amongst them felled him dead,<br>But not without that harmful stroke which since<br>Hath plucked him after. |
+| ALBANY | A servant that he bred, thralled with remorse,<br>Opposed against the act, bending his sword<br>To his great master, who thereat enraged<br>Flew on him, and amongst them felled him dead,<br>But not without that harmful stroke which since<br>Hath plucked him after. |
 | ALBANY | This shows you are above,<br>You justicers, that these our nether crimes<br>So speedily can venge. But O, poor [[characters/gloucester\|Gloucester]]!<br>Lost he his other eye? |
 | *(didascalia)* | SECOND GENTLEMAN Both, both, my lord. 80 |
 | ALBANY | (To Gonoril) This letter, madam, craves a speedy<br>answer.<br>’Tis from your sister. |
@@ -4602,7 +4602,7 @@ tags:
 | ALBANY | No, my good lord; I met him back again. |
 | ALBANY | Knows he the wickedness? 90 |
 | *(didascalia)* | ECONDGENTLEMAN |
-| ALBANY | Ay, my good lord; ’twas he informed against him,<br>And quit the [[house]] on purpose that their punishment<br>Might have the freer course. |
+| ALBANY | Ay, my good lord; ’twas he informed against him,<br>And quit the house on purpose that their punishment<br>Might have the freer course. |
 | ALBANY | [[characters/gloucester\|Gloucester]], I live<br>To thank thee for the [[motifs/love\|love]] thou showed’st the [[archetypes/king\|King]],<br>And to [[concepts/revenge\|revenge]] thy eyes.—Come hither, friend<br>Tell me what more thou knowest. Exeunt |
 
 
@@ -4640,7 +4640,7 @@ tags:
 | ALBANY | Oh mio buon signore, il duca di Cornovaglia è morto,<br>ucciso dal suo servo mentre stava per cavare<br>l’altro occhio a [[characters/gloucester\|Gloucester]]. |
 | ALBANY | Gli occhi di [[characters/gloucester\|Gloucester]]? |
 | *(didascalia)* | FSECOND GENTLEMAN |
-| ALBANY | Un servo da lui allevato, preso da rimorso,<br>si oppose all’atto, volgendo la [[Sword\|spada]]<br>contro il suo gran padrone; il quale, adiratosi,<br>gli si avventò addosso, e fra loro lo abbatterono morto,<br>ma non senza quel colpo funesto che da allora<br>l’ha trascinato dietro. |
+| ALBANY | Un servo da lui allevato, preso da rimorso,<br>si oppose all’atto, volgendo la spada<br>contro il suo gran padrone; il quale, adiratosi,<br>gli si avventò addosso, e fra loro lo abbatterono morto,<br>ma non senza quel colpo funesto che da allora<br>l’ha trascinato dietro. |
 | ALBANY | Questo mostra che voi siete lassù,<br>o giudici, che questi nostri delitti di quaggiù<br>sapete vendicare così presto. Ma oh, povero [[characters/gloucester\|Gloucester]]!<br>Perse egli anche l’altro occhio? |
 | *(didascalia)* | SECOND GENTLEMAN Entrambi, entrambi, mio signore. 80 |
 | ALBANY | (A Gonoril) Questa lettera, madama, chiede una pronta<br>risposta.<br>È di vostra sorella. |
@@ -4653,7 +4653,7 @@ tags:
 | ALBANY | No, mio buon signore; l’ho incontrato mentre tornava indietro. |
 | ALBANY | Conosce egli la scelleratezza? 90 |
 | *(didascalia)* | ECONDGENTLEMAN |
-| ALBANY | Sì, mio buon signore; fu lui a denunciarlo,<br>e lasciò la [[house\|casa]] apposta perché la loro punizione<br>avesse corso più libero. |
+| ALBANY | Sì, mio buon signore; fu lui a denunciarlo,<br>e lasciò la casa apposta perché la loro punizione<br>avesse corso più libero. |
 | ALBANY | [[characters/gloucester\|Gloucester]], io vivo<br>per ringraziarti dell’[[motifs/love\|amore]] che mostrasti al [[archetypes/king\|Re]],<br>e per [[concepts/revenge\|vendicare]] i tuoi occhi.—Vieni qua, amico,<br>dimmi che altro sai. Escono |
 
 
@@ -4678,7 +4678,7 @@ tags:
 | [[characters/kent\|KENT]] | Not to a rage. Patience and sorrow strove<br>Who should express her goodliest. You have seen<br>Sunshine and rain at once; her smiles and [[motifs/tears\|tears]]<br>Were like, a better way. Those happy smilets<br>That played on her ripe lip seemed not to know<br>What guests were in her eyes, which parted thence<br>As pearls from diamonds dropped. In brief,<br>Sorrow would be a rarity most beloved<br>If all could so become it. |
 | [[characters/kent\|KENT]] | Made she no verbal question? |
 | *(didascalia)* | IRST ENTLEMAN |
-| [[characters/kent\|KENT]] | [[concepts/faith\|Faith]], once or twice she heaved the name of ‘father’<br>Pantingly forth as if it pressed her heart,<br>Cried ‘Sisters, sisters, shame of ladies, sisters,<br>[[characters/kent\|Kent]], father, sisters, what, i‘th’ [[motifs/storm\|storm]], i’th’ [[motifs/night\|night]],<br>Let piety not be believed!’ There she shook<br>The holy [[motifs/water\|water]] from her heavenly eyes<br>And clamour mastered, then away she started<br>To deal with grief [[Alone\|alone]]. |
+| [[characters/kent\|KENT]] | [[concepts/faith\|Faith]], once or twice she heaved the name of ‘father’<br>Pantingly forth as if it pressed her heart,<br>Cried ‘Sisters, sisters, shame of ladies, sisters,<br>[[characters/kent\|Kent]], father, sisters, what, i‘th’ [[motifs/storm\|storm]], i’th’ [[motifs/night\|night]],<br>Let piety not be believed!’ There she shook<br>The holy [[motifs/water\|water]] from her heavenly eyes<br>And clamour mastered, then away she started<br>To deal with grief alone. |
 | [[characters/kent\|KENT]] | It is the [[motifs/stars\|stars]],<br>The [[motifs/stars\|stars]] above us govern our conditions,<br>Else one [[concepts/self\|self]] mate and make could not beget<br>Such different issues. You spoke not with her since? |
 | *(didascalia)* | IRST ENTLEMAN No. |
 | [[characters/kent\|KENT]] | Was this before the [[archetypes/king\|King]] returned? |
@@ -4711,7 +4711,7 @@ tags:
 | [[characters/kent\|KENT]] | Non fino alla furia. Pazienza e dolore gareggiavano<br>a chi la esprimesse più bella. Voi avete visto<br>sole e pioggia insieme; i suoi sorrisi e le sue [[motifs/tears\|lacrime]]<br>erano simili, ma in modo migliore. Quei felici sorrisetti<br>che giocavano sul suo labbro maturo parevano non sapere<br>quali ospiti fossero nei suoi occhi, e di là partivano<br>come perle cadute da diamanti. Insomma,<br>il dolore sarebbe una rarità quanto mai amata<br>se a tutti stesse così bene. |
 | [[characters/kent\|KENT]] | Non fece ella domanda a parole? |
 | *(didascalia)* | IRST ENTLEMAN |
-| [[characters/kent\|KENT]] | In [[concepts/faith\|fede]] mia, una o due volte sollevò il nome di «padre»<br>ansimando, come se le pesasse sul cuore;<br>gridò: «Sorelle, sorelle, vergogna delle dame, sorelle,<br>[[characters/kent\|Kent]], padre, sorelle, come, nella [[motifs/storm\|tempesta]], nella [[motifs/night\|notte]]!<br>Non si creda più alla pietà!» Allora scosse<br>l’[[motifs/water\|acqua]] santa dai suoi occhi celesti<br>e, domato il clamore, se ne andò via di corsa<br>a trattare [[Alone\|sola]] col dolore. |
+| [[characters/kent\|KENT]] | In [[concepts/faith\|fede]] mia, una o due volte sollevò il nome di «padre»<br>ansimando, come se le pesasse sul cuore;<br>gridò: «Sorelle, sorelle, vergogna delle dame, sorelle,<br>[[characters/kent\|Kent]], padre, sorelle, come, nella [[motifs/storm\|tempesta]], nella [[motifs/night\|notte]]!<br>Non si creda più alla pietà!» Allora scosse<br>l’[[motifs/water\|acqua]] santa dai suoi occhi celesti<br>e, domato il clamore, se ne andò via di corsa<br>a trattare sola col dolore. |
 | [[characters/kent\|KENT]] | Sono le [[motifs/stars\|stelle]],<br>le [[motifs/stars\|stelle]] sopra di noi governano le nostre condizioni;<br>altrimenti uno [[concepts/self\|stesso]] letto e uno stesso seme non potrebbero generare<br>prole così diversa. Non le avete parlato da allora? |
 | *(didascalia)* | IRST ENTLEMAN No. |
 | [[characters/kent\|KENT]] | Fu questo prima che il [[archetypes/king\|Re]] tornasse? |
@@ -4853,7 +4853,7 @@ tags:
 | [[characters/edgar\|EDGAR]] | But who comes here?<br>The safer sense will ne’er accommodate<br>His master thus. |
 | LEAR | No, they cannot touch me for coining. I am the [[archetypes/king\|King]] himself. |
 | [[characters/edgar\|EDGAR]] | O thou side-piercing sight! |
-| LEAR | [[concepts/nature\|Nature]] is above art in that respect. There’s your press-money. That fellow handles his bow like a crow-keeper. Draw me a clothier’s yard. Look, look, a mouse! Peace, peace, this toasted [[cheese]] will do it. There’s my gauntlet. I’ll prove it on a giant. Bring up the brown bills. O, [[motifs/well\|well]] flown, bird, in the air. Hal Give the word. |
+| LEAR | [[concepts/nature\|Nature]] is above art in that respect. There’s your press-money. That fellow handles his bow like a crow-keeper. Draw me a clothier’s yard. Look, look, a mouse! Peace, peace, this toasted cheese will do it. There’s my gauntlet. I’ll prove it on a giant. Bring up the brown bills. O, [[motifs/well\|well]] flown, bird, in the air. Hal Give the word. |
 | [[characters/edgar\|EDGAR]] | Sweet marjoram. |
 | LEAR | Pass. |
 | [[characters/gloucester\|GLOUCESTER]] | I know that voice. |
@@ -4913,7 +4913,7 @@ tags:
 | *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] rising Hearty thanks. |
 | [[characters/edgar\|EDGAR]] | The bounty and the benison of heaven<br>To send thee boot to boot. |
 | *(didascalia)* | Enter Oswald the steward |
-| OSWALD | A proclaimed prize! Most happy!<br>That eyeless head of thine was first framed flesh<br>To raise my fortunes. Thou most unhappy traitor,<br>Briefly thyself remember. The [[Sword\|sword]] is out<br>That must destroy thee. |
+| OSWALD | A proclaimed prize! Most happy!<br>That eyeless head of thine was first framed flesh<br>To raise my fortunes. Thou most unhappy traitor,<br>Briefly thyself remember. The sword is out<br>That must destroy thee. |
 | [[characters/gloucester\|GLOUCESTER]] | Now let thy friendly hand<br>Put strength enough to’t. |
 | OSWALD | (to [[characters/edgar\|Edgar]]) Wherefore, bold peasant,<br>Durst thou support a published traitor? Hence,<br>Lest the infection of his fortune take<br>Like hold on thee. Let go his arm. |
 | [[characters/edgar\|EDGAR]] | ‘Chill not let go, sir, without ’cagion. |
@@ -4971,7 +4971,7 @@ tags:
 | [[characters/edgar\|EDGAR]] | Ma chi viene qui?<br>Il senno sano non concerà mai<br>così il suo padrone. |
 | LEAR | No, non possono toccarmi per aver battuto moneta. Io sono il [[archetypes/king\|Re]] in persona. |
 | [[characters/edgar\|EDGAR]] | Oh, vista che trafigge il fianco! |
-| LEAR | La [[concepts/nature\|natura]] è superiore all’arte in questo. Ecco il vostro ingaggio. Quel tipo maneggia l’arco come uno spaventapasseri. Tiratemi una freccia da una iarda. Guarda, guarda, un topo! Zitti, zitti, questo [[cheese\|formaggio]] arrostito basterà. Ecco il mio guanto di sfida. Lo sosterrò contro un gigante. Portate su le alabarde brune. Oh, [[motifs/well\|ben]] volato, uccello, nell’aria. Ohilà! Dammi la parola d’ordine. |
+| LEAR | La [[concepts/nature\|natura]] è superiore all’arte in questo. Ecco il vostro ingaggio. Quel tipo maneggia l’arco come uno spaventapasseri. Tiratemi una freccia da una iarda. Guarda, guarda, un topo! Zitti, zitti, questo formaggio arrostito basterà. Ecco il mio guanto di sfida. Lo sosterrò contro un gigante. Portate su le alabarde brune. Oh, [[motifs/well\|ben]] volato, uccello, nell’aria. Ohilà! Dammi la parola d’ordine. |
 | [[characters/edgar\|EDGAR]] | Dolce maggiorana. |
 | LEAR | Passa. |
 | [[characters/gloucester\|GLOUCESTER]] | Conosco quella voce. |
@@ -5031,7 +5031,7 @@ tags:
 | *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] alzandosi Grazie di cuore. |
 | [[characters/edgar\|EDGAR]] | La munificenza e la benedizione del cielo<br>ti mandino dono sopra dono. |
 | *(didascalia)* | Entra Oswald il maggiordomo |
-| OSWALD | Una preda messa a taglia! Felicissimo caso!<br>Quella tua testa senz’occhi fu plasmata carne<br>proprio per far crescere le mie fortune. Tu, infelicissimo traditore,<br>raccogliti in fretta. La [[Sword\|spada]] è fuori<br>che deve distruggerti. |
+| OSWALD | Una preda messa a taglia! Felicissimo caso!<br>Quella tua testa senz’occhi fu plasmata carne<br>proprio per far crescere le mie fortune. Tu, infelicissimo traditore,<br>raccogliti in fretta. La spada è fuori<br>che deve distruggerti. |
 | [[characters/gloucester\|GLOUCESTER]] | Ora la tua mano amica<br>vi metta forza a sufficienza. |
 | OSWALD | (a [[characters/edgar\|Edgar]]) Perché, villano temerario,<br>osi tu sostenere un traditore proclamato? Via,<br>ché l’infezione della sua sorte non prenda<br>ugual presa su di te. Lascia il suo braccio. |
 | [[characters/edgar\|EDGAR]] | Non lo mollo mica, signore, senza motivazione. |
@@ -5075,7 +5075,7 @@ tags:
 | [[characters/cordelia\|CORDELIA]] | Sir, know me. |
 | LEAR | You’re a spirit, I know. Where did you die? |
 | [[characters/cordelia\|CORDELIA]] | (to the Doctor) Still, still far wide! |
-| DOCTOR | He’s scarce awake. Let him [[Alone\|alone]] a while. |
+| DOCTOR | He’s scarce awake. Let him alone a while. |
 | LEAR | Where have I been? Where am I? Fair daylight?<br>I am mightily abused. I should e’en die with pity<br>To see another thus. I know not what to say.<br>I will not swear these are my hands. Let’s see:<br>I feel this pin prick. Would I were assured<br>Of my condition. |
 | [[characters/cordelia\|CORDELIA]] | (kneeling) O look upon me, sir,<br>And hold your hands in benediction o’er me.<br>No, sir, you must not kneel. |
 | LEAR | Pray do not mock.<br>I am a very foolish, fond old man,<br>Fourscore and upward, and to deal plainly,<br>I [[concepts/fear\|fear]] I am not in my perfect mind.<br>Methinks I should know you, and know this man;<br>Yet I am doubtful, for I am mainly ignorant<br>What place this is; and all the skill I have<br>Remembers not these garments; nor I know not<br>Where I did lodge last [[motifs/night\|night]]. Do not laugh at me,<br>For as I am a man, I think this lady<br>To be my [[archetypes/child\|child]], [[characters/cordelia\|Cordelia]]. |
@@ -5118,7 +5118,7 @@ tags:
 | [[characters/cordelia\|CORDELIA]] | Signore, riconoscetemi. |
 | LEAR | Voi siete uno spirito, lo so. Dove moriste? |
 | [[characters/cordelia\|CORDELIA]] | (al Medico) Ancora, ancora fuori strada! |
-| MEDICO | È appena sveglio. Lasciatelo [[Alone\|solo]] un poco. |
+| MEDICO | È appena sveglio. Lasciatelo solo un poco. |
 | LEAR | Dove sono stato? Dove sono? Chiara luce del giorno?<br>Sono grandemente ingannato. Morirei di pietà<br>a veder un altro così. Non so che dire.<br>Non giurerò che queste siano le mie mani. Vediamo:<br>sento la puntura di questo spillo. Vorrei esser certo<br>della mia condizione. |
 | [[characters/cordelia\|CORDELIA]] | (inginocchiandosi) Oh guardatemi, signore,<br>e tenete le mani in benedizione sopra di me.<br>No, signore, voi non dovete inginocchiarvi. |
 | LEAR | Di grazia, non schernitemi.<br>Sono un vecchio molto sciocco e rimbambito,<br>di ottant’anni e più; e a dirla schietta,<br>[[concepts/fear\|temo]] di non essere nel mio perfetto senno.<br>Mi pare che dovrei conoscere voi, e conoscere quest’uomo;<br>eppure son dubbioso, ché ignoro del tutto<br>che luogo sia questo; e tutta l’abilità che ho<br>non ricorda queste vesti; né so<br>dove ho alloggiato la scorsa [[motifs/night\|notte]]. Non ridete di me,<br>ché, com’è vero che sono un uomo, io credo che questa dama<br>sia la mia [[archetypes/child\|figlia]], [[characters/cordelia\|Cordelia]]. |
@@ -5180,7 +5180,7 @@ tags:
 | *(didascalia)* | Enter [[characters/edmund\|Edmund]] |
 | [[characters/edmund\|EDMUND]] | The enemy’s in view; draw up your powers. 55<br>He [offers] Albany a paper<br>Here is the guess of their great strength and forces<br>By diligent discovery; but your haste<br>Is now urged on you. |
 | ALBANY | We will greet the [[motifs/time\|time]]. Exit |
-| [[characters/edmund\|EDMUND]] | To both these sisters have I sworn my [[motifs/love\|love]],<br>Each jealous of the other as the stung<br>Are of the adder. Which of them shall I take?—<br>Both?—one?—or neither? Neither can be enjoyed<br>If both remain alive. To take the widow<br>Exasperates, makes mad, her sister Gonoril,<br>And hardly shall I carry out my side,<br>Her husband being alive. Now then, we’ll use<br>His countenance for the battle, which being done,<br>Let her that would be rid of him devise<br>His speedy taking off. As for his [[concepts/mercy\|mercy]]<br>Which he intends to Lear and to [[characters/cordelia\|Cordelia]],<br>The battle done, and they within our power,<br>Shall never see his pardon; for my state<br>Stands on me to defend, not to [[debate]]. Exit |
+| [[characters/edmund\|EDMUND]] | To both these sisters have I sworn my [[motifs/love\|love]],<br>Each jealous of the other as the stung<br>Are of the adder. Which of them shall I take?—<br>Both?—one?—or neither? Neither can be enjoyed<br>If both remain alive. To take the widow<br>Exasperates, makes mad, her sister Gonoril,<br>And hardly shall I carry out my side,<br>Her husband being alive. Now then, we’ll use<br>His countenance for the battle, which being done,<br>Let her that would be rid of him devise<br>His speedy taking off. As for his [[concepts/mercy\|mercy]]<br>Which he intends to Lear and to [[characters/cordelia\|Cordelia]],<br>The battle done, and they within our power,<br>Shall never see his pardon; for my state<br>Stands on me to defend, not to debate. Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5224,7 +5224,7 @@ tags:
 | *(didascalia)* | Entra [[characters/edmund\|Edmund]] |
 | [[characters/edmund\|EDMUND]] | Il nemico è in vista; schierate le vostre forze. 55<br>[Porge] ad Albany un foglio<br>Ecco la stima della loro grande forza e delle loro schiere<br>per diligente ricognizione; ma la vostra fretta<br>ora vi è sollecitata. |
 | ALBANY | Andremo incontro al [[motifs/time\|momento]]. Esce |
-| [[characters/edmund\|EDMUND]] | A entrambe queste sorelle ho giurato il mio [[motifs/love\|amore]],<br>gelose l’una dell’altra come i punti<br>lo sono della vipera. Quale delle due prenderò?—<br>Entrambe?—una?—o nessuna? Nessuna si può godere<br>se restano vive entrambe. Prendere la vedova<br>esaspera e fa impazzire sua sorella Gonoril,<br>e a stento potrò condurre a fine la mia parte<br>finché suo marito è vivo. Ora dunque useremo<br>la sua presenza per la battaglia; e fatto questo,<br>colei che vuol liberarsi di lui escogiti<br>di toglierlo presto di mezzo. Quanto alla sua [[concepts/mercy\|clemenza]]<br>che intende usare verso Lear e verso [[characters/cordelia\|Cordelia]],<br>finita la battaglia, e caduti essi in nostro potere,<br>mai vedranno il suo perdono; ché il mio stato<br>tocca a me difenderlo, non [[debate\|discuterlo]]. Esce |
+| [[characters/edmund\|EDMUND]] | A entrambe queste sorelle ho giurato il mio [[motifs/love\|amore]],<br>gelose l’una dell’altra come i punti<br>lo sono della vipera. Quale delle due prenderò?—<br>Entrambe?—una?—o nessuna? Nessuna si può godere<br>se restano vive entrambe. Prendere la vedova<br>esaspera e fa impazzire sua sorella Gonoril,<br>e a stento potrò condurre a fine la mia parte<br>finché suo marito è vivo. Ora dunque useremo<br>la sua presenza per la battaglia; e fatto questo,<br>colei che vuol liberarsi di lui escogiti<br>di toglierlo presto di mezzo. Quanto alla sua [[concepts/mercy\|clemenza]]<br>che intende usare verso Lear e verso [[characters/cordelia\|Cordelia]],<br>finita la battaglia, e caduti essi in nostro potere,<br>mai vedranno il suo perdono; ché il mio stato<br>tocca a me difenderlo, non discuterlo. Esce |
 
 
 
@@ -5264,11 +5264,11 @@ tags:
 | *(didascalia)* | Enter [[characters/edmund\|Edmund]] with [[characters/king-lear\|King Lear]] and [[characters/queen\|Queen]] [[characters/cordelia\|Cordelia]] prisoners, a Captain, and soldiers |
 | [[characters/edmund\|EDMUND]] | Some officers take them away. Good guard<br>Until their greater pleasures best be known<br>That are to censure them. |
 | [[characters/cordelia\|CORDELIA]] | (to Lear) We are not the first<br>Who with best meaning have incurred the worst.<br>For thee, oppressed [[archetypes/king\|King]], am I cast down,<br>Myself could else outfrown false fortune’s frown.<br>Shall we not see these daughters and these sisters? |
-| LEAR | No, no. Come, let’s away to [[motifs/prison\|prison]].<br>We two [[Alone\|alone]] will sing like [[motifs/birds\|birds]] i’th’ cage.<br>When thou dost ask me blessing, I’ll kneel down<br>And ask of thee [[concepts/forgiveness\|forgiveness]]; so we’ll live,<br>And pray, and sing, and tell old tales, and laugh<br>At gilded butterflies, and hear poor rogues<br>Talk of [[settings/court\|court]] news, and we’ll talk with them too—<br>Who loses and who wins, who’s in, who’s out,<br>And take upon ’s the mystery of things<br>As if we were God’s spies; and we’ll wear out<br>In a walled [[motifs/prison\|prison]] packs and sects of great ones<br>That ebb and flow by th’ [[motifs/moon\|moon]]. |
+| LEAR | No, no. Come, let’s away to [[motifs/prison\|prison]].<br>We two alone will sing like [[motifs/birds\|birds]] i’th’ cage.<br>When thou dost ask me blessing, I’ll kneel down<br>And ask of thee [[concepts/forgiveness\|forgiveness]]; so we’ll live,<br>And pray, and sing, and tell old tales, and laugh<br>At gilded butterflies, and hear poor rogues<br>Talk of [[settings/court\|court]] news, and we’ll talk with them too—<br>Who loses and who wins, who’s in, who’s out,<br>And take upon ’s the mystery of things<br>As if we were God’s spies; and we’ll wear out<br>In a walled [[motifs/prison\|prison]] packs and sects of great ones<br>That ebb and flow by th’ [[motifs/moon\|moon]]. |
 | [[characters/edmund\|EDMUND]] | (to soldiers) Take them away. |
 | LEAR | (to [[characters/cordelia\|Cordelia]])<br>Upon such sacrifices, my [[characters/cordelia\|Cordelia]],<br>The gods themselves throw incense. Have I caught<br>thee?<br>He that parts us shall bring a brand from heaven<br>And [[motifs/fire\|fire]] us hence like foxes. Wipe thine eyes.<br>The goodyear shall devour ‘em, flesh and fell,<br>Ere they shall make us weep. We’ll see ’em starve<br>first. Come. |
 | *(didascalia)* | Exeunt all but [[characters/edmund\|Edmund]] and the Captain |
-| [[characters/edmund\|EDMUND]] | Come hither, captain. Hark.<br>Take thou this note. Go follow them to [[motifs/prison\|prison]].<br>One step I have advanced thee; if thou dost<br>As this instructs thee, thou dost make thy way<br>To noble fortunes. Know thou this: that men<br>Are as the [[motifs/time\|time]] is. To be tender-minded<br>Does not become a [[Sword\|sword]]. Thy great employment<br>Will not bear question. Either say thou’lt do’t,<br>Or thrive by other means. |
+| [[characters/edmund\|EDMUND]] | Come hither, captain. Hark.<br>Take thou this note. Go follow them to [[motifs/prison\|prison]].<br>One step I have advanced thee; if thou dost<br>As this instructs thee, thou dost make thy way<br>To noble fortunes. Know thou this: that men<br>Are as the [[motifs/time\|time]] is. To be tender-minded<br>Does not become a sword. Thy great employment<br>Will not bear question. Either say thou’lt do’t,<br>Or thrive by other means. |
 | CAPTAIN | I’ll do’t, my lord. |
 | [[characters/edmund\|EDMUND]] | About it, and write ‘happy’ when thou hast done.<br>Mark, I say, instantly, and carry it so<br>As I have set it down. |
 | CAPTAIN | I cannot draw a cart,<br>Nor eat dried oats. If it be man’s work, I’ll do’t. Exit Enter the Duke of Albany, the two ladies Gonoril and [[characters/regan\|Regan]], [another Captain,] and others |
@@ -5283,7 +5283,7 @@ tags:
 | GONORIL | Holla, holla—<br>That eye that told you so looked but asquint. |
 | [[characters/regan\|REGAN]] | Lady, I am not [[motifs/well\|well]], else I should answer From a full-flowing stomach. (To [[characters/edmund\|Edmund]]) General, Take thou my soldiers, prisoners, patrimony. Witness the world that I create thee here My lord and master. |
 | GONORIL | Mean you to enjoy him, then? |
-| ALBANY | The let-[[Alone\|alone]] lies not in your good will. |
+| ALBANY | The let-alone lies not in your good will. |
 | [[characters/edmund\|EDMUND]] | Nor in thine, lord. |
 | ALBANY | Half-blooded fellow, yes. |
 | [[characters/edmund\|EDMUND]] | Let the drum strike and prove my title good. |
@@ -5308,8 +5308,8 @@ tags:
 | ALBANY | Which is that adversary? |
 | [[characters/edgar\|EDGAR]] | What’s he that speaks for [[characters/edmund\|Edmund]], Earl of [[characters/gloucester\|Gloucester]]? |
 | [[characters/edmund\|EDMUND]] | Himself. What sayst thou to him? |
-| [[characters/edgar\|EDGAR]] | Draw thy [[Sword\|sword]],<br>That if my speech offend a noble heart<br>Thy arm may do thee justice. Here is mine.<br>He draws his [[Sword\|sword]]<br>Behold, it is the privilege of my tongue,<br>My oath, and my profession. I protest,<br>Maugre thy strength, youth, place, and eminence,<br>Despite thy victor-[[Sword\|sword]] and [[motifs/fire\|fire]]-new fortune,<br>Thy valour and thy heart, thou art a traitor,<br>False to thy gods, thy brother, and thy father,<br>Conspirant ‘gainst this high illustrious prince,<br>And from th’extremest upward of thy head<br>To the descent and [[motifs/dust\|dust]] beneath thy feet<br>A most toad-spotted traitor. Say thou no,<br>This [[Sword\|sword]], this arm, and my best spirits are bent<br>To prove upon thy heart, whereto I speak,<br>Thou liest. |
-| [[characters/edmund\|EDMUND]] | In wisdom I should ask thy name,<br>But since thy outside looks so fair and warlike,<br>And that thy tongue some say of breeding breathes,<br>My right of knighthood I disdain and spurn.<br>Here do I toss those treasons to thy head,<br>With the hell-hated lie o’erturn thy heart,<br>Which, for they yet glance by and scarcely bruise,<br>This [[Sword\|sword]] of mine shall give them instant way<br>Where they shall rest for ever. Trumpets, speak!<br>[Flourish.] They fight. [[characters/edmund\|Edmund]] is vanquished<br>[ALL]<br>Save him, save him! |
+| [[characters/edgar\|EDGAR]] | Draw thy sword,<br>That if my speech offend a noble heart<br>Thy arm may do thee justice. Here is mine.<br>He draws his sword<br>Behold, it is the privilege of my tongue,<br>My oath, and my profession. I protest,<br>Maugre thy strength, youth, place, and eminence,<br>Despite thy victor-sword and [[motifs/fire\|fire]]-new fortune,<br>Thy valour and thy heart, thou art a traitor,<br>False to thy gods, thy brother, and thy father,<br>Conspirant ‘gainst this high illustrious prince,<br>And from th’extremest upward of thy head<br>To the descent and [[motifs/dust\|dust]] beneath thy feet<br>A most toad-spotted traitor. Say thou no,<br>This sword, this arm, and my best spirits are bent<br>To prove upon thy heart, whereto I speak,<br>Thou liest. |
+| [[characters/edmund\|EDMUND]] | In wisdom I should ask thy name,<br>But since thy outside looks so fair and warlike,<br>And that thy tongue some say of breeding breathes,<br>My right of knighthood I disdain and spurn.<br>Here do I toss those treasons to thy head,<br>With the hell-hated lie o’erturn thy heart,<br>Which, for they yet glance by and scarcely bruise,<br>This sword of mine shall give them instant way<br>Where they shall rest for ever. Trumpets, speak!<br>[Flourish.] They fight. [[characters/edmund\|Edmund]] is vanquished<br>[ALL]<br>Save him, save him! |
 | GONORIL | This is mere practice, [[characters/gloucester\|Gloucester]].<br>By the law of arms thou art not bound to answer<br>An unknown opposite. Thou art not vanquished,<br>But cozened and beguiled. |
 | ALBANY | Stop your mouth, dame,<br>Or with this paper shall I stopple it.<br>Thou worse than anything, read thine own evil.<br>Nay, no tearing, lady. I perceive you know’t. |
 | GONORIL | Say if I do, the laws are mine, not thine.<br>Who shall arraign me for’t? |
@@ -5324,7 +5324,7 @@ tags:
 | ALBANY | (to [[characters/edgar\|Edgar]])<br>Methought thy very gait did prophesy<br>A royal nobleness. I must embrace thee.<br>Let sorrow split my heart if I did ever hate<br>Thee or thy father. |
 | [[characters/edgar\|EDGAR]] | Worthy prince, I know’t. |
 | ALBANY | Where have you hid yourself?<br>How have you known the miseries of your father? |
-| [[characters/edgar\|EDGAR]] | By nursing them, my lord. List a brief tale,<br>And when ‘tis told, O that my heart would burst!<br>The bloody proclamation to escape<br>That followed me so near—O, our lives’ sweetness,<br>That with the [[motifs/pain\|pain]] of [[motifs/death\|death]] would hourly die<br>Rather than die at once!—taught me to shift<br>Into a madman’s rags, to assume a semblance<br>That very [[dogs]] disdained; and in this habit<br>Met I my father with his bleeding rings,<br>The precious stones new-lost; became his guide,<br>Led him, begged for him, saved him from [[concepts/despair\|despair]];<br>Never—O father!—revealed myself unto him<br>Until some half hour past, when I was armed.<br>Not sure, though hoping, of this good [[success]],<br>I asked his blessing, and from first to last<br>Told him my pilgrimage; but his flawed heart—<br>Alack, too weak the conflict to support—<br>’Twixt two extremes of passion, joy and grief,<br>Burst smilingly. |
+| [[characters/edgar\|EDGAR]] | By nursing them, my lord. List a brief tale,<br>And when ‘tis told, O that my heart would burst!<br>The bloody proclamation to escape<br>That followed me so near—O, our lives’ sweetness,<br>That with the [[motifs/pain\|pain]] of [[motifs/death\|death]] would hourly die<br>Rather than die at once!—taught me to shift<br>Into a madman’s rags, to assume a semblance<br>That very dogs disdained; and in this habit<br>Met I my father with his bleeding rings,<br>The precious stones new-lost; became his guide,<br>Led him, begged for him, saved him from [[concepts/despair\|despair]];<br>Never—O father!—revealed myself unto him<br>Until some half hour past, when I was armed.<br>Not sure, though hoping, of this good success,<br>I asked his blessing, and from first to last<br>Told him my pilgrimage; but his flawed heart—<br>Alack, too weak the conflict to support—<br>’Twixt two extremes of passion, joy and grief,<br>Burst smilingly. |
 | [[characters/edmund\|EDMUND]] | This speech of yours hath moved me,<br>And shall perchance do good. But speak you on—<br>You look as you had something more to say. |
 | ALBANY | If there be more, more woeful, hold it in,<br>For I am almost ready to dissolve,<br>Hearing of this. |
 | [[characters/edgar\|EDGAR]] | This would have seemed a period<br>To such as [[motifs/love\|love]] not sorrow; but another<br>To amplify, too much would make much more,<br>And top extremity.<br>Whilst I was big in clamour came there in a man<br>Who, having seen me in my worst estate,<br>Shunned my abhorred society; but then, finding<br>Who ’twas that so endured, with his strong arms<br>He fastened on my neck and bellowed out<br>As he’d burst heaven; threw him on my father,<br>Told the most piteous tale of Lear and him<br>That ever ear received, which in recounting<br>His grief grew puissant and the strings of life<br>Began to crack. Twice then the trumpets sounded,<br>And there I left him tranced. |
@@ -5348,7 +5348,7 @@ tags:
 | [[characters/edmund\|EDMUND]] | I pant for life. Some good I mean to do,<br>Despite of my own [[concepts/nature\|nature]]. Quickly send,<br>Be brief in’t, to th’ [[settings/castle\|castle]]; for my writ<br>Is on the life of Lear and on [[characters/cordelia\|Cordelia]].<br>Nay, send in [[motifs/time\|time]]. |
 | ALBANY | Run, run, O run! |
 | [[characters/edgar\|EDGAR]] | To who, my lord? Who hath the office? Send<br>Thy token of reprieve. |
-| [[characters/edmund\|EDMUND]] | [[motifs/well\|Well]] thought on! Take my [[Sword\|sword]]. The captain,<br>Give it the captain. |
+| [[characters/edmund\|EDMUND]] | [[motifs/well\|Well]] thought on! Take my sword. The captain,<br>Give it the captain. |
 | ALBANY | Haste thee for thy life. |
 | *(didascalia)* | Exit [Second Captain] |
 | [[characters/edmund\|EDMUND]] | He hath commission from thy wife and me<br>To hang [[characters/cordelia\|Cordelia]] in the [[motifs/prison\|prison]], and<br>To lay the blame upon her own [[concepts/despair\|despair]],<br>That she fordid herself. |
@@ -5404,11 +5404,11 @@ tags:
 | *(didascalia)* | Entra [[characters/edmund\|Edmund]] con [[characters/king-lear\|Re Lear]] e la [[characters/queen\|regina]] [[characters/cordelia\|Cordelia]] prigionieri, un Capitano e soldati |
 | [[characters/edmund\|EDMUND]] | Alcuni ufficiali li conducano via. Buona guardia<br>finché non si conosca il volere di quei maggiori<br>che devono giudicarli. |
 | [[characters/cordelia\|CORDELIA]] | (a Lear) Non siamo i primi<br>che con le migliori intenzioni hanno incontrato il peggio.<br>Per te, oppresso [[archetypes/king\|Re]], sono abbattuta;<br>altrimenti saprei io stessa sfidare il cipiglio della falsa fortuna.<br>Non vedremo queste figlie e queste sorelle? |
-| LEAR | No, no. Vieni, andiamo in [[motifs/prison\|prigione]].<br>Noi due [[Alone\|soli]] canteremo come [[motifs/birds\|uccelli]] in gabbia.<br>Quando tu mi chiederai la benedizione, io m’inginocchierò<br>e ti chiederò [[concepts/forgiveness\|perdono]]; così vivremo,<br>e pregheremo, e canteremo, e racconteremo vecchie storie, e rideremo<br>delle farfalle dorate, e udremo poveri furfanti<br>parlare delle nuove di [[settings/court\|corte]]; e parleremo anche noi con loro—<br>chi perde e chi vince, chi è dentro, chi è fuori—<br>e ci assumeremo il mistero delle cose<br>come fossimo spie di Dio; e consumeremo,<br>in una [[motifs/prison\|prigione]] murata, fazioni e sette di grandi<br>che fluiscono e rifluiscono con la [[motifs/moon\|luna]]. |
+| LEAR | No, no. Vieni, andiamo in [[motifs/prison\|prigione]].<br>Noi due soli canteremo come [[motifs/birds\|uccelli]] in gabbia.<br>Quando tu mi chiederai la benedizione, io m’inginocchierò<br>e ti chiederò [[concepts/forgiveness\|perdono]]; così vivremo,<br>e pregheremo, e canteremo, e racconteremo vecchie storie, e rideremo<br>delle farfalle dorate, e udremo poveri furfanti<br>parlare delle nuove di [[settings/court\|corte]]; e parleremo anche noi con loro—<br>chi perde e chi vince, chi è dentro, chi è fuori—<br>e ci assumeremo il mistero delle cose<br>come fossimo spie di Dio; e consumeremo,<br>in una [[motifs/prison\|prigione]] murata, fazioni e sette di grandi<br>che fluiscono e rifluiscono con la [[motifs/moon\|luna]]. |
 | [[characters/edmund\|EDMUND]] | (ai soldati) Portateli via. |
 | LEAR | (a [[characters/cordelia\|Cordelia]])<br>Su tali sacrifici, [[characters/cordelia\|Cordelia]] mia,<br>gli dèi stessi gettano incenso. T’ho dunque<br>ritrovata?<br>Chi ci separa dovrà portare un tizzone dal cielo<br>e stanarci col [[motifs/fire\|fuoco]] come volpi. Asciugati gli occhi.<br>La malora li divorerà, carne e pelle,<br>prima che ci facciano piangere. Li vedremo morire di fame<br>prima. Vieni. |
 | *(didascalia)* | Escono tutti tranne [[characters/edmund\|Edmund]] e il Capitano |
-| [[characters/edmund\|EDMUND]] | Vieni qua, capitano. Ascolta.<br>Prendi questo biglietto. Va’, seguili in [[motifs/prison\|prigione]].<br>D’un grado t’ho già promosso; se farai<br>come questo t’istruisce, ti aprirai la via<br>a nobili fortune. Sappi questo: che gli uomini<br>sono come è il [[motifs/time\|tempo]]. Aver l’animo tenero<br>non si conviene a una [[Sword\|spada]]. Il tuo grande incarico<br>non ammette discussione. O dici che lo farai,<br>o prospera per altre vie. |
+| [[characters/edmund\|EDMUND]] | Vieni qua, capitano. Ascolta.<br>Prendi questo biglietto. Va’, seguili in [[motifs/prison\|prigione]].<br>D’un grado t’ho già promosso; se farai<br>come questo t’istruisce, ti aprirai la via<br>a nobili fortune. Sappi questo: che gli uomini<br>sono come è il [[motifs/time\|tempo]]. Aver l’animo tenero<br>non si conviene a una spada. Il tuo grande incarico<br>non ammette discussione. O dici che lo farai,<br>o prospera per altre vie. |
 | CAPITANO | Lo farò, mio signore. |
 | [[characters/edmund\|EDMUND]] | All’opera; e scrivi «felice» quando avrai finito.<br>Bada, dico, all’istante, e conducilo così<br>come l’ho messo per iscritto. |
 | CAPITANO | Non so tirare un carro,<br>né mangiare avena secca. Se è lavoro da uomo, lo farò. Esce Entrano il duca d’Albany, le due dame Gonoril e [[characters/regan\|Regan]], [un altro Capitano] e altri |
@@ -5423,7 +5423,7 @@ tags:
 | GONORIL | Olà, olà—<br>quell’occhio che ve l’ha detto guardava di traverso. |
 | [[characters/regan\|REGAN]] | Signora, non sto [[motifs/well\|bene]], altrimenti risponderei con lo stomaco traboccante. (A [[characters/edmund\|Edmund]]) Generale, prendi i miei soldati, i prigionieri, il patrimonio. Il mondo sia testimone ch’io ti creo qui mio signore e padrone. |
 | GONORIL | Intendete goderlo, dunque? |
-| ALBANY | L’[[Alone\|astenersi]] non dipende dal vostro buon volere. |
+| ALBANY | L’astenersi non dipende dal vostro buon volere. |
 | [[characters/edmund\|EDMUND]] | Né dal tuo, signore. |
 | ALBANY | Uomo di mezzo sangue, sì. |
 | [[characters/edmund\|EDMUND]] | Suoni il tamburo e provi buono il mio titolo. |
@@ -5448,8 +5448,8 @@ tags:
 | ALBANY | Qual è quell’avversario? |
 | [[characters/edgar\|EDGAR]] | Chi è colui che parla per [[characters/edmund\|Edmund]], conte di [[characters/gloucester\|Gloucester]]? |
 | [[characters/edmund\|EDMUND]] | Egli stesso. Che gli dici? |
-| [[characters/edgar\|EDGAR]] | Sguaina la tua [[Sword\|spada]],<br>sì che, se il mio discorso offende un cuore nobile,<br>il tuo braccio possa renderti giustizia. Ecco la mia.<br>Sguaina la [[Sword\|spada]]<br>Guarda: essa è il privilegio della mia lingua,<br>il mio giuramento e la mia professione. Io affermo,<br>a dispetto della tua forza, giovinezza, rango ed eminenza,<br>a dispetto della tua [[Sword\|spada]] vittoriosa e della tua fortuna nuova di [[motifs/fire\|fiamma]],<br>del tuo valore e del tuo cuore, che tu sei un traditore,<br>falso ai tuoi dèi, a tuo fratello e a tuo padre,<br>cospiratore contro questo alto illustre principe;<br>e dalla sommità estrema del tuo capo<br>fino alla discesa e alla [[motifs/dust\|polvere]] sotto i tuoi piedi<br>un traditore maculato come un rospo. Di’ tu di no,<br>e questa [[Sword\|spada]], questo braccio e i miei migliori spiriti son tesi<br>a provare sul tuo cuore, a cui parlo,<br>che tu menti. |
-| [[characters/edmund\|EDMUND]] | Per prudenza dovrei chiedere il tuo nome;<br>ma poiché il tuo aspetto pare così bello e guerriero,<br>e la tua lingua spira un non so che di nobile nascita,<br>il mio diritto di cavaliere lo sdegno e lo respingo.<br>Qui rigetto quei tradimenti sulla tua testa,<br>e con la menzogna odiata dall’inferno ti rovescio il cuore;<br>e poiché essi ancora sfiorano appena e a stento ammaccano,<br>questa mia [[Sword\|spada]] darà loro immediata via<br>là dove riposeranno per sempre. Trombe, parlate!<br>[Squilli.] Combattono. [[characters/edmund\|Edmund]] è vinto<br>[TUTTI]<br>Salvatelo, salvatelo! |
+| [[characters/edgar\|EDGAR]] | Sguaina la tua spada,<br>sì che, se il mio discorso offende un cuore nobile,<br>il tuo braccio possa renderti giustizia. Ecco la mia.<br>Sguaina la spada<br>Guarda: essa è il privilegio della mia lingua,<br>il mio giuramento e la mia professione. Io affermo,<br>a dispetto della tua forza, giovinezza, rango ed eminenza,<br>a dispetto della tua spada vittoriosa e della tua fortuna nuova di [[motifs/fire\|fiamma]],<br>del tuo valore e del tuo cuore, che tu sei un traditore,<br>falso ai tuoi dèi, a tuo fratello e a tuo padre,<br>cospiratore contro questo alto illustre principe;<br>e dalla sommità estrema del tuo capo<br>fino alla discesa e alla [[motifs/dust\|polvere]] sotto i tuoi piedi<br>un traditore maculato come un rospo. Di’ tu di no,<br>e questa spada, questo braccio e i miei migliori spiriti son tesi<br>a provare sul tuo cuore, a cui parlo,<br>che tu menti. |
+| [[characters/edmund\|EDMUND]] | Per prudenza dovrei chiedere il tuo nome;<br>ma poiché il tuo aspetto pare così bello e guerriero,<br>e la tua lingua spira un non so che di nobile nascita,<br>il mio diritto di cavaliere lo sdegno e lo respingo.<br>Qui rigetto quei tradimenti sulla tua testa,<br>e con la menzogna odiata dall’inferno ti rovescio il cuore;<br>e poiché essi ancora sfiorano appena e a stento ammaccano,<br>questa mia spada darà loro immediata via<br>là dove riposeranno per sempre. Trombe, parlate!<br>[Squilli.] Combattono. [[characters/edmund\|Edmund]] è vinto<br>[TUTTI]<br>Salvatelo, salvatelo! |
 | GONORIL | Questo è puro inganno, [[characters/gloucester\|Gloucester]].<br>Per la legge d’armi tu non eri tenuto a rispondere<br>a un avversario ignoto. Tu non sei vinto,<br>ma raggirato e ingannato. |
 | ALBANY | Chiudete la bocca, signora,<br>o con questa carta ve la tapperò.<br>Tu, peggiore d’ogni cosa, leggi il tuo stesso male.<br>Ehi, niente strappi, signora. Vedo bene che lo conoscete. |
 | GONORIL | Ammesso che lo conosca, le leggi sono mie, non tue.<br>Chi mi processerà per questo? |
@@ -5464,7 +5464,7 @@ tags:
 | ALBANY | (a [[characters/edgar\|Edgar]])<br>Mi parve che la tua stessa andatura profetasse<br>una regale nobiltà. Devo abbracciarti.<br>Il dolore mi spacchi il cuore se mai odiai<br>te o tuo padre. |
 | [[characters/edgar\|EDGAR]] | Degno principe, lo so. |
 | ALBANY | Dove vi siete nascosto?<br>Come avete saputo delle miserie di vostro padre? |
-| [[characters/edgar\|EDGAR]] | Vegliandole, mio signore. Udite un breve racconto,<br>e quando sarà detto, oh, che il mio cuore scoppi!<br>Per sfuggire alla sanguinosa proclamazione<br>che mi seguiva così da presso—oh, dolcezza delle nostre vite,<br>che col [[motifs/pain\|dolore]] della [[motifs/death\|morte]] vorremmo morire d’ora in ora<br>piuttosto che morire in una volta!—imparai a mutarmi<br>negli stracci d’un pazzo, ad assumere un aspetto<br>che perfino i [[dogs\|cani]] disdegnavano; e in tale abito<br>incontrai mio padre con gli anelli sanguinanti,<br>le pietre preziose appena perdute; divenni sua guida,<br>lo condussi, mendicai per lui, lo salvai dalla [[concepts/despair\|disperazione]];<br>mai—oh padre!—mi rivelai a lui<br>fino a mezz’ora fa, quando ero armato.<br>Non certo, benché speranzoso, di questo buon [[success\|esito]],<br>gli chiesi la benedizione, e dal principio alla fine<br>gli raccontai il mio pellegrinaggio; ma il suo cuore incrinato—<br>ahimè, troppo debole per sostenere il conflitto—<br>fra due estremi di passione, gioia e dolore,<br>scoppiò sorridendo. |
+| [[characters/edgar\|EDGAR]] | Vegliandole, mio signore. Udite un breve racconto,<br>e quando sarà detto, oh, che il mio cuore scoppi!<br>Per sfuggire alla sanguinosa proclamazione<br>che mi seguiva così da presso—oh, dolcezza delle nostre vite,<br>che col [[motifs/pain\|dolore]] della [[motifs/death\|morte]] vorremmo morire d’ora in ora<br>piuttosto che morire in una volta!—imparai a mutarmi<br>negli stracci d’un pazzo, ad assumere un aspetto<br>che perfino i cani disdegnavano; e in tale abito<br>incontrai mio padre con gli anelli sanguinanti,<br>le pietre preziose appena perdute; divenni sua guida,<br>lo condussi, mendicai per lui, lo salvai dalla [[concepts/despair\|disperazione]];<br>mai—oh padre!—mi rivelai a lui<br>fino a mezz’ora fa, quando ero armato.<br>Non certo, benché speranzoso, di questo buon esito,<br>gli chiesi la benedizione, e dal principio alla fine<br>gli raccontai il mio pellegrinaggio; ma il suo cuore incrinato—<br>ahimè, troppo debole per sostenere il conflitto—<br>fra due estremi di passione, gioia e dolore,<br>scoppiò sorridendo. |
 | [[characters/edmund\|EDMUND]] | Questo vostro discorso m’ha commosso,<br>e forse farà del bene. Ma continuate—<br>avete l’aria d’aver qualcos’altro da dire. |
 | ALBANY | Se v’è altro, e più doloroso, tenetelo dentro,<br>ché io son quasi pronto a dissolvermi<br>all’udire questo. |
 | [[characters/edgar\|EDGAR]] | Questo sarebbe parso un termine<br>per chi non [[motifs/love\|ama]] il dolore; ma un altro<br>ad amplificarlo, il troppo farebbe assai di più,<br>e supererebbe l’estremo.<br>Mentre io ero grande nel lamento venne un uomo<br>che, avendomi visto nel mio stato peggiore,<br>aveva fuggito la mia aborrita compagnia; ma allora, scoprendo<br>chi fosse colui che tanto pativa, con le sue forti braccia<br>mi si strinse al collo e urlò<br>come volesse far scoppiare il cielo; si gettò su mio padre,<br>narrò la più pietosa storia di Lear e di lui<br>che orecchio mai ricevette; e nel raccontarla<br>il suo dolore si fece violento e le corde della vita<br>cominciarono a spezzarsi. Due volte allora suonarono le trombe,<br>e là lo lasciai in deliquio. |
@@ -5488,7 +5488,7 @@ tags:
 | [[characters/edmund\|EDMUND]] | Ansimo per la vita. Un po’ di bene intendo fare,<br>a dispetto della mia stessa [[concepts/nature\|natura]]. Mandate presto,<br>fate in fretta, al [[settings/castle\|castello]]; ché il mio ordine<br>è sulla vita di Lear e su [[characters/cordelia\|Cordelia]].<br>Suvvia, mandate in [[motifs/time\|tempo]]. |
 | ALBANY | Corri, corri, oh corri! |
 | [[characters/edgar\|EDGAR]] | Da chi, mio signore? Chi ha l’incarico? Manda<br>il tuo segno di grazia. |
-| [[characters/edmund\|EDMUND]] | [[motifs/well\|Ben]] pensato! Prendi la mia [[Sword\|spada]]. Il capitano,<br>dalla al capitano. |
+| [[characters/edmund\|EDMUND]] | [[motifs/well\|Ben]] pensato! Prendi la mia spada. Il capitano,<br>dalla al capitano. |
 | ALBANY | Affrettati, ne va della tua vita. |
 | *(didascalia)* | Esce [il Secondo Capitano] |
 | [[characters/edmund\|EDMUND]] | Egli ha mandato da tua moglie e da me<br>d’impiccare [[characters/cordelia\|Cordelia]] nella [[motifs/prison\|prigione]], e<br>di darne la colpa alla sua stessa [[concepts/despair\|disperazione]],<br>come s’ella si fosse uccisa. |

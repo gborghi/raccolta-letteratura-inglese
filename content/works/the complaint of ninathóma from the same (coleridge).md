@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Ghost
+**Archetypes:** [[archetypes/ghost|Ghost]]
 **Motifs:** [[motifs/sea|Sea]], [[motifs/ghosts|Ghosts]], [[motifs/dreams|Dreams]], [[motifs/storm|Storm]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

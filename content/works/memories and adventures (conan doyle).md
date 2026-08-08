@@ -84,6 +84,6 @@ tags:
 **Motifs:** [[motifs/journey|Journey]], [[motifs/memory|Memory]]
 **Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/boer-war-(second-south-african-war)|Boer War (Second South African War)]], [[historical-references/victorian-england|Victorian England]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/edinburgh|Edinburgh]], [[settings/london|London]], [[settings/africa|Africa]], [[settings/south-africa|South Africa]]
-**Characters:** Sir Arthur Conan Doyle, Sherlock Holmes, Professor Challenger
-**Archetypes:** The Writer, Pilgrim
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]], [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/professor-challenger|Professor Challenger]]
+**Archetypes:** [[archetypes/the-writer|The Writer]], [[archetypes/pilgrim|Pilgrim]]
 **Topoi:** [[topoi/journey-of-life|Journey of Life]]

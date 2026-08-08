@@ -20,7 +20,7 @@ tags:
 <span class="atom-split" data-atom="part--part_01" data-title="The Mystery of Marie Roget (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/death,motif/dreams,motif/supernatural,motif/time,concept/beauty,form/tragedy,histref/reformation,setting/new_york"></span>
 
 
-A SEQUEL TO “[[The Murders in the Rue Morgue|THE MURDERS IN THE RUE MORGUE]].”
+A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
@@ -210,7 +210,7 @@ somewhat more of hesitation by Madame.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Seguito di “[[The Murders in the Rue Morgue|Gli omicidi in Rue Morgue]]”.
+Seguito di “Gli omicidi in Rue Morgue”.
 
 
 
@@ -280,7 +280,7 @@ Lettori interessati all’omicidio di Mary Cecilia Rogers avvenuto di recente a 
 
 
 
-Quando, in un articolo intitolato “[[The Murders in the Rue Morgue|Gli omicidi di rue Morgue]]”, io.
+Quando, in un articolo intitolato “Gli omicidi di rue Morgue”, io.
 
 Cercò, circa un anno fa, di descrivere alcune cose davvero straordinarie
 
@@ -439,7 +439,7 @@ Blanc professed total ignorance, as before. Marie, with Madame,
 
 replied to all questions, that the last week had been spent at
 
-the [[house]] of a relation in the country. Thus the affair died
+the house of a relation in the country. Thus the affair died
 
 away, and was generally forgotten; for the girl, ostensibly to
 
@@ -944,7 +944,7 @@ tightly around the neck as to be hidden from sight; it was
 
 completely buried in the flesh, and was fastened by a knot which
 
-lay just under the left ear. This [[Alone|alone]] would have sufficed to
+lay just under the left ear. This alone would have sufficed to
 
 produce [[motifs/death|death]]. The medical testimony spoke confidently of the
 
@@ -1132,7 +1132,7 @@ Chiuso strettamente intorno al collo, in modo da essere nascosto alla vista; era
 
 Completamente sepolto nella carne, e fissato con un nodo…
 
-Si trova proprio sotto l'orecchio sinistro. Questo [[Alone|solo]] elemento sarebbe stato sufficiente.
+Si trova proprio sotto l'orecchio sinistro. Questo solo elemento sarebbe stato sufficiente.
 
 Produce la [[motifs/death|morte]]. Le testimonianze mediche ne parlavano con certezza.
 
@@ -1238,7 +1238,7 @@ with much ability.
 
 
 
-“Mademoiselle Rogêt left her mother’s [[house]] on [[characters/sunday|Sunday]] morning,
+“Mademoiselle Rogêt left her mother’s house on [[characters/sunday|Sunday]] morning,
 
 June the twenty-second, 18—, with the ostensible purpose of going
 
@@ -1262,7 +1262,7 @@ was discovered afloat on the shore of the Barrière de Roule. This
 
 was, even if we presume that Marie Rogêt was thrown into the
 
-[[motifs/river|river]] within three hours after she left her mother’s [[house]], only
+[[motifs/river|river]] within three hours after she left her mother’s house, only
 
 three days from the [[motifs/time|time]] she left her [[motifs/home|home]]—three days to an hour.
 
@@ -1290,7 +1290,7 @@ the top of the [[motifs/water|water]]. Even where a cannon is fired over a corps
 
 and it rises before at least five or six days’ immersion, it
 
-sinks again, if let [[Alone|alone]]. Now, we ask, what was there in this
+sinks again, if let alone. Now, we ask, what was there in this
 
 case to cause a departure from the ordinary course of [[concepts/nature|nature]]?...
 
@@ -1464,7 +1464,7 @@ La superficie dell’[[motifs/water|acqua]]. Anche quando un cannone viene spara
 
 E emerge dopo almeno cinque o sei giorni di immersione…
 
-Si immerge di nuovo, se lasciato [[Alone|da solo]]. Ora ci chiediamo: cosa c'era in questo.
+Si immerge di nuovo, se lasciato da solo. Ora ci chiediamo: cosa c'era in questo.
 
 Quali sono i casi che possono causare un deviazione dal normale corso della [[concepts/nature|natura]]?.
 
@@ -1542,7 +1542,7 @@ the matter in the Rue Pavée St. Andrée, that reached even the
 
 occupants of the same building. M. St. Eustache, the [[archetypes/lover|lover]] and
 
-intended husband of Marie, who boarded in her mother’s [[house]],
+intended husband of Marie, who boarded in her mother’s house,
 
 deposes that he did not hear of the discovery of the [[concepts/body|body]] of his
 
@@ -1608,7 +1608,7 @@ suspicion upon Beauvais himself. The editor says:
 
 “Now, then, a change comes over the matter. We are told that on
 
-one occasion, while a Madame B—— was at Madame Rogêt’s [[house]], M.
+one occasion, while a Madame B—— was at Madame Rogêt’s house, M.
 
 Beauvais, who was going out, told her that a gendarme was
 
@@ -2101,7 +2101,7 @@ the true, and that the proper question in cases such as this, is
 
 not so much ‘what has occurred?’ as ‘what has occurred that has
 
-never occurred before?’ In the investigations at the [[house]] of
+never occurred before?’ In the investigations at the house of
 
 Madame L’Espanaye, (*14) the agents of G—— were discouraged and
 
@@ -2109,7 +2109,7 @@ confounded by that very unusualness which, to a properly
 
 regulated intellect, would have afforded the surest omen of
 
-[[success]]; while this same intellect might have been plunged in
+success; while this same intellect might have been plunged in
 
 [[concepts/despair|despair]] at the ordinary character of all that met the eye in the
 
@@ -2318,7 +2318,7 @@ Confuso da quella stessa stranezza che, per un osservatore attento…
 
 Intelligenza regolata… avrebbe potuto essere il segno più certo di…
 
-[[success|Successo]]; mentre lo stesso intelletto avrebbe potuto trovarsi immerso in.
+Successo; mentre lo stesso intelletto avrebbe potuto trovarsi immerso in.
 
 [[concepts/despair|disperazione]] di fronte al carattere ordinario di tutto ciò che si presentava agli occhi.
 
@@ -2450,7 +2450,7 @@ naturally, why? Why is it folly to suppose that the murder was
 
 committed _within five minutes_ after the girl’s quitting her
 
-mother’s [[house]]? Why is it folly to suppose that the murder was
+mother’s house? Why is it folly to suppose that the murder was
 
 committed at any given period of the day? There have been
 
@@ -2739,7 +2739,7 @@ bring them to the top of the [[motifs/water|water]]. Even when a cannon is fired
 
 over a corpse, and it rises before at least five or six days’
 
-immersion, it sinks again if let [[Alone|alone]].’
+immersion, it sinks again if let alone.’
 
 
 
@@ -2829,7 +2829,7 @@ position for one who cannot swim, is the upright position of the
 
 walker on land, with the head thrown fully back, and immersed;
 
-the mouth and nostrils [[Alone|alone]] remaining above the surface. Thus
+the mouth and nostrils alone remaining above the surface. Thus
 
 circumstanced, we shall find that we float without difficulty and
 
@@ -2903,7 +2903,7 @@ Portali in cima all’[[motifs/water|acqua]]. Anche quando viene sparato un cann
 
 Sopra un cadavere… e si rialza almeno dopo cinque o sei giorni.
 
-Se lasciato [[Alone|da solo]], affonda di nuovo.
+Se lasciato da solo, affonda di nuovo.
 
 
 
@@ -3114,7 +3114,7 @@ cavities to distend under the influence of the gas.
 
 
 
-“Having thus before us the whole [[philosophy]] of this subject, we
+“Having thus before us the whole philosophy of this subject, we
 
 can easily test by it the assertions of L’Etoile. ‘All experience
 
@@ -3128,7 +3128,7 @@ bring them to the top of the [[motifs/water|water]]. Even when a cannon is fired
 
 over a corpse, and it rises before at least five or six days’
 
-immersion, it sinks again if let [[Alone|alone]].’
+immersion, it sinks again if let alone.’
 
 
 
@@ -3146,7 +3146,7 @@ and necessarily must be, indeterminate. If, moreover, a [[concepts/body|body]] h
 
 risen to the surface through firing of cannon, it will not ‘sink
 
-again if let [[Alone|alone]],’ until decomposition has so far progressed as
+again if let alone,’ until decomposition has so far progressed as
 
 to permit the escape of the generated gas. But I wish to call
 
@@ -3294,7 +3294,7 @@ Le cavità si dilatano sotto l’effetto del gas.
 
 
 
-Avendo così davanti a noi l’intera [[philosophy|filosofia]] di questo argomento, noi.
+Avendo così davanti a noi l’intera filosofia di questo argomento, noi.
 
 “Si possono facilmente verificare, attraverso di esso, le affermazioni contenute in L’Etoile. Tutta l’esperienza…”
 
@@ -3308,7 +3308,7 @@ Portali in cima all’[[motifs/water|acqua]]. Anche quando viene sparato un cann
 
 Sopra un cadavere… e si rialza almeno dopo cinque o sei giorni.
 
-Se lasciato [[Alone|da solo]], affonda di nuovo.
+Se lasciato da solo, affonda di nuovo.
 
 
 
@@ -3326,7 +3326,7 @@ E deve necessariamente essere indeterminato. Inoltre, se un [[concepts/body|corp
 
 Emergendo in superficie a causa del fuoco dei cannoni, non “affonderà”.
 
-Di nuovo, se lasciato [[Alone|da solo]], fino a quando la decomposizione non avrà progredito a sufficienza.
+Di nuovo, se lasciato da solo, fino a quando la decomposizione non avrà progredito a sufficienza.
 
 Per permettere la fuoriuscita del gas generato… Ma vorrei chiamarlo…
 
@@ -3467,7 +3467,7 @@ finding of the corpse. Yet we find him urging the point that no
 
 person saw the girl from the moment of her leaving her mother’s
 
-[[house]]. ‘We have no evidence,’ he says, ‘that Marie Rogêt was in
+house. ‘We have no evidence,’ he says, ‘that Marie Rogêt was in
 
 the land of the living after nine o’[[motifs/clock|clock]] on [[characters/sunday|Sunday]], June the
 
@@ -3651,7 +3651,7 @@ Il ritrovamento del cadavere… Eppure egli insiste sul fatto che nulla possa ca
 
 Una persona la vide non appena lei lasciò sua madre
 
-[[house|casa]]. “Non abbiamo prove”, dice, “che Marie Rogêt si trovasse lì”.
+casa. “Non abbiamo prove”, dice, “che Marie Rogêt si trovasse lì”.
 
 Il paese dei vivi, dopo le nove di [[motifs/clock|ore]] di [[characters/sunday|Domenica]], 6 giugno.
 
@@ -3795,7 +3795,7 @@ adjustment but rarely. It must have been by an accident, in its
 
 strictest sense, that these garters of Marie needed the
 
-tightening described. They [[Alone|alone]] would have amply established her
+tightening described. They alone would have amply established her
 
 [[concepts/identity|identity]]. But it is not that the corpse was found to have the
 
@@ -3845,7 +3845,7 @@ willing to dismiss them in a breath. You have already fathomed
 
 the true character of this good gentleman. He is a busy-[[concepts/body|body]],
 
-with much of [[Romance|romance]] and little of wit. Any one so constituted
+with much of romance and little of wit. Any one so constituted
 
 will readily so conduct himself, upon occasion of real
 
@@ -4041,7 +4041,7 @@ Un enorme errore individuale. (*16)
 
 Il vero carattere di questo gentiluomo. È una persona molto impegnata.
 
-Con molta [[Romance|romantica]] atmosfera, ma poca arguzia. Chiunque sia fatto in questo modo.
+Con molta romantica atmosfera, ma poca arguzia. Chiunque sia fatto in questo modo.
 
 Si comporterà senza esitazione in tali circostanze
 
@@ -4522,7 +4522,7 @@ will ascertain beyond a [[concepts/doubt|doubt]] the validity of the affidavits 
 
 regard to his whereabouts on the [[characters/sunday|Sunday]]. Affidavits of this
 
-character are readily made matter of [[Mystification|mystification]]. Should there
+character are readily made matter of mystification. Should there
 
 be nothing wrong here, however, we will dismiss St. Eustache from
 
@@ -4552,7 +4552,7 @@ mal-practice of the courts to confine evidence and discussion to
 
 the bounds of apparent relevancy. Yet experience has shown, and a
 
-true [[philosophy]] will always show, that a vast, perhaps the larger
+true philosophy will always show, that a vast, perhaps the larger
 
 portion of [[concepts/truth|truth]], arises from the seemingly irrelevant. It is
 
@@ -4616,7 +4616,7 @@ In pursuance of Dupin’s suggestion, I made scrupulous examination
 
 of the affair of the affidavits. The result was a firm conviction
 
-of their validity, and of the consequent [[innocence]] of St.
+of their validity, and of the consequent innocence of St.
 
 Eustache. In the mean [[motifs/time|time]] my friend occupied himself, with what
 
@@ -4712,7 +4712,7 @@ Si stabilirà, senza alcun [[concepts/doubt|dubbio]], la validità dei documenti
 
 Per quanto riguarda il suo luogo di trovarsi quel [[characters/sunday|domenica]]. Dichiarazioni al riguardo.
 
-I caratteri umani vengono facilmente trasformati in oggetto di [[Mystification|mistero]]. Se ci fosse.
+I caratteri umani vengono facilmente trasformati in oggetto di mistero. Se ci fosse.
 
 Titolo:  
 “Non c’è nulla che non vada qui, tuttavia scarteremo Saint Eustache…”
@@ -4743,7 +4743,7 @@ Limitazione delle prove e della discussione da parte dei tribunali
 
 I confini della rilevanza apparente. Eppure l’esperienza dimostra…
 
-Una vera [[philosophy|filosofia]] dimostrerà sempre che ciò che è vasto, forse addirittura ciò che è più grande.
+Una vera filosofia dimostrerà sempre che ciò che è vasto, forse addirittura ciò che è più grande.
 
 Una parte della [[concepts/truth|verità]] deriva da ciò che sembra irrilevante. È così che funziona.
 
@@ -4808,7 +4808,7 @@ In seguito alla suggerizione di Dupin, effettuai un esame meticoloso
 
 Di una questione riguardante le dichiarazioni giurate… Il risultato fu una condanna irrevocabile.
 
-Della loro validità, e della conseguente [[innocence|innocenza]] di San.
+Della loro validità, e della conseguente innocenza di San.
 
 Eustache. Nel frattempo, mio amico si occupava di, cosa?
 
@@ -4945,7 +4945,7 @@ barge office. The next morning it was taken from thence, without
 
 the knowledge of any of the officers. The rudder is now at the
 
-barge office.”—Le Diligence—[[thursday|Thursday]], June 26.
+barge office.”—Le Diligence—Thursday, June 26.
 
 
 
@@ -4975,7 +4975,7 @@ disappearance of Marie there is no _supposable_ connection. Let
 
 us admit the first elopement to have resulted in a quarrel
 
-between the [[lovers]], and the return [[motifs/home|home]] of the betrayed. We are
+between the lovers, and the return [[motifs/home|home]] of the betrayed. We are
 
 now prepared to view a second elopement (if we know that an
 
@@ -5149,7 +5149,7 @@ Ufficio della barca… La mattina seguente fu portato via da lì, senza…
 
 La conoscenza di uno qualsiasi degli ufficiali… Il timone è ora sotto il loro controllo.
 
-“Ufficio delle barche.” — Le Diligence — [[thursday|Giovedì]], 26 giugno.
+“Ufficio delle barche.” — Le Diligence — Giovedì, 26 giugno.
 
 
 
@@ -5179,7 +5179,7 @@ Scomparsa di Marie: non esiste alcuna connessione supponibile.
 
 Ammettiamo che il primo caso di fuga coniugale abbia portato a una lite
 
-Tra gli [[lovers|innamorati]], e il ritorno a [[motifs/home|casa]] di colui che è stato tradito. Noi siamo.
+Tra gli innamorati, e il ritorno a [[motifs/home|casa]] di colui che è stato tradito. Noi siamo.
 
 Ora pronti ad assistere a un secondo matrimonio segreto… se solo riuscissimo a saperne di più.
 
@@ -6447,7 +6447,7 @@ it was not the accident of a gang. We can imagine it only the
 
 accident of an individual. Let us see. An individual has
 
-committed the murder. He is [[Alone|alone]] with the [[archetypes/ghost|ghost]] of the departed.
+committed the murder. He is alone with the [[archetypes/ghost|ghost]] of the departed.
 
 He is appalled by what lies motionless before him. The fury of
 
@@ -6455,7 +6455,7 @@ his passion is over, and there is abundant room in his heart for
 
 the natural awe of the deed. His is none of that confidence which
 
-the presence of numbers inevitably inspires. He is [[Alone|alone]] with the
+the presence of numbers inevitably inspires. He is alone with the
 
 dead. He trembles and is bewildered. Yet there is a necessity for
 
@@ -6501,7 +6501,7 @@ come.
 
 confidence; if, indeed confidence is ever wanting in the breast
 
-of the arrant blackguard; and of arrant blackguards [[Alone|alone]] are the
+of the arrant blackguard; and of arrant blackguards alone are the
 
 supposed gangs ever constituted. Their number, I say, would have
 
@@ -6657,7 +6657,7 @@ Non fu un incidente causato da una banda… Possiamo solo immaginare che sia sta
 
 Un incidente personale… Vediamo un po’. Una persona ha…
 
-Ha commesso l'omicidio. Ora è [[Alone|solamente]] con lo [[archetypes/ghost|fantasma]] della persona scomparsa.
+Ha commesso l'omicidio. Ora è solamente con lo [[archetypes/ghost|fantasma]] della persona scomparsa.
 
 È inorridito da ciò che giace immobile davanti a lui… La furia…
 
@@ -6665,7 +6665,7 @@ La sua passione è finita, e nel suo cuore c’è spazio in abbondanza per…
 
 Il timore reverenziale che deriva dall’atto stesso… La sua non è affatto quella fiducia che…
 
-La presenza dei numeri inevitabilmente ispira. Lui è [[Alone|solamente]] con.
+La presenza dei numeri inevitabilmente ispira. Lui è solamente con.
 
 Morto… Tremola e è confuso. Eppure c’è una necessità…
 
@@ -7601,7 +7601,7 @@ Now where is that rudderless boat? Let it be one of our first
 
 purposes to discover. With the first glimpse we obtain of it, the
 
-[[motifs/dawn|dawn]] of our [[success]] shall begin. This boat shall guide us, with a
+[[motifs/dawn|dawn]] of our success shall begin. This boat shall guide us, with a
 
 rapidity which will surprise even ourselves, to him who employed
 
@@ -7643,7 +7643,7 @@ creating the former, can, at will, control or modify it, is also
 
 unquestionable. I say “at will;” for the question is of will, and
 
-not, as the insanity of [[logic]] has assumed, of power. It is not
+not, as the insanity of logic has assumed, of power. It is not
 
 that the Deity cannot modify his laws, but that we insult him in
 
@@ -7792,7 +7792,7 @@ Ora, dove è finita quella barca senza timone? Speriamo sia una delle prime…
 
 Scopo: scoprirne i segreti. Nel momento stesso in cui lo vediamo per la prima volta, abbiamo già l’opportunità di farlo…
 
-L’[[motifs/dawn|'alba]] del nostro [[success|successo]] sta per iniziare. Questa barca ci guiderà, con.
+L’[[motifs/dawn|'alba]] del nostro successo sta per iniziare. Questa barca ci guiderà, con.
 
 Titolo:  
 Una velocità che sorprenderà persino noi… per colui che l’ha utilizzata.
@@ -7835,7 +7835,7 @@ Creare il precedente permette, a piacimento, di controllarlo o modificarlo. Anch
 
 Incontestabile. Dico “a piacimento”; perché la questione riguarda proprio la volontà.
 
-No, non si tratta di potere, come ha immaginato l’assurdità della [[logic|logica]]. Non è affatto così.
+No, non si tratta di potere, come ha immaginato l’assurdità della logica. Non è affatto così.
 
 Titolo:  
 Che la Divinità non possa modificare le sue leggi, ma che noi la offendiamo nel farlo…

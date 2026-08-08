@@ -41,4 +41,4 @@ tags:
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]], [[motifs/letters-and-writing|Letters and Writing]]
 **Historical References:** [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/london|London]], [[settings/england|England]]
-**Archetypes:** Corrupt Official
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]

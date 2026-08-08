@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[philosophy|Filosofia]] per l'aula scolastica
+Filosofia per l'aula scolastica
 
 di G.K. Chesterton
 
@@ -34,11 +34,11 @@ non si può mai provare la propria prima affermazione, altrimenti non sarebbe la
 Tutto questo è l'abbicì del pensare.  E ha questo particolare
 e positivo pregio, che può essere insegnato a scuola,
 come l'altro abbicì.  Non avviare un'argomentazione senza
-enunciare i propri postulati potrebbe essere insegnato nella [[philosophy|filosofia]] come lo
+enunciare i propri postulati potrebbe essere insegnato nella filosofia come lo
 si insegna in Euclide, in una comune aula scolastica con una lavagna.
 E penso che potrebbe essere insegnato in qualche misura semplice e razionale persino
 ai giovani, prima che escano per le strade e siano consegnati
-interamente alla [[logic|logica]] e alla [[philosophy|filosofia]] del Daily Mail.
+interamente alla logica e alla filosofia del Daily Mail.
 
 Gran parte del nostro caos intorno alla religione e al [[concepts/doubt|dubbio]] sorge da questo—che i nostri
 moderni scettici cominciano sempre col dirci ciò in cui non credono.
@@ -62,7 +62,7 @@ Enunciamole a grandi linee.
 le persone in esso siano reali, e non una sua propria illusione o sogno.
 Nessuno si mette a incendiare [[settings/london|Londra]] nella convinzione che il suo servitore
 lo sveglierà presto per la colazione.  Ma che io, in un dato momento,
-non sia in [[A Dream|un sogno]], è improvato e improvabile.  Che alcunché esista
+non sia in un sogno, è improvato e improvabile.  Che alcunché esista
 all'infuori di me stesso è improvato e improvabile.
 
 2. Tutti gli uomini sani di mente credono che questo mondo non solo esista, ma conti.
@@ -97,7 +97,7 @@ le tre o quattro sanità e certezze del libero pensiero umano.
 <span class="atom-split" data-atom="part--part_01" data-title="philosophy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/sleep,motif/time,concept/doubt,concept/hope,concept/self,setting/cathedral,setting/london"></span>
 
 
-[[philosophy|Philosophy]] for the Schoolroom
+Philosophy for the Schoolroom
 
 by G.K. Chesterton
 
@@ -114,11 +114,11 @@ you can never prove your first statement or it would not be your first.
 All this is the alphabet of thinking.  And it has this special
 and positive point about it, that it can be taught in a school,
 like the other alphabet.  Not to start an argument without
-stating your postulates could be taught in [[philosophy]] as it
+stating your postulates could be taught in philosophy as it
 is taught in Euclid, in a common schoolroom with a blackboard.
 And I think it might be taught in some simple and rational degree even
 to the young, before they go out into the streets and are delivered
-over entirely to the [[logic]] and [[philosophy]] of the Daily Mail.
+over entirely to the logic and philosophy of the Daily Mail.
 
 Much of our chaos about religion and [[concepts/doubt|doubt]] arises from this--that our
 modern sceptics always begin by telling us what they do not believe.
@@ -142,7 +142,7 @@ Let us state them roughly.
 the people in it are real, and not his own delusion or dream.
 No man starts burning [[settings/london|London]] in the belief that his servant will
 soon wake him for breakfast.  But that I, at any given moment,
-am not in [[A Dream|a dream]], is unproved and unprovable.  That anything exists
+am not in a dream, is unproved and unprovable.  That anything exists
 except myself is unproved and unprovable.
 
 2. All sane men believe that this world not only exists, but matters.
@@ -175,7 +175,7 @@ the three or four sanities and certainties of human free thought.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[philosophy|Filosofia]] per l'aula scolastica
+Filosofia per l'aula scolastica
 
 di G.K. Chesterton
 
@@ -192,11 +192,11 @@ non si può mai provare la propria prima affermazione, altrimenti non sarebbe la
 Tutto questo è l'abbicì del pensare.  E ha questo particolare
 e positivo pregio, che può essere insegnato a scuola,
 come l'altro abbicì.  Non avviare un'argomentazione senza
-enunciare i propri postulati potrebbe essere insegnato nella [[philosophy|filosofia]] come lo
+enunciare i propri postulati potrebbe essere insegnato nella filosofia come lo
 si insegna in Euclide, in una comune aula scolastica con una lavagna.
 E penso che potrebbe essere insegnato in qualche misura semplice e razionale persino
 ai giovani, prima che escano per le strade e siano consegnati
-interamente alla [[logic|logica]] e alla [[philosophy|filosofia]] del Daily Mail.
+interamente alla logica e alla filosofia del Daily Mail.
 
 Gran parte del nostro caos intorno alla religione e al [[concepts/doubt|dubbio]] sorge da questo—che i nostri
 moderni scettici cominciano sempre col dirci ciò in cui non credono.
@@ -220,7 +220,7 @@ Enunciamole a grandi linee.
 le persone in esso siano reali, e non una sua propria illusione o sogno.
 Nessuno si mette a incendiare [[settings/london|Londra]] nella convinzione che il suo servitore
 lo sveglierà presto per la colazione.  Ma che io, in un dato momento,
-non sia in [[A Dream|un sogno]], è improvato e improvabile.  Che alcunché esista
+non sia in un sogno, è improvato e improvabile.  Che alcunché esista
 all'infuori di me stesso è improvato e improvabile.
 
 2. Tutti gli uomini sani di mente credono che questo mondo non solo esista, ma conti.

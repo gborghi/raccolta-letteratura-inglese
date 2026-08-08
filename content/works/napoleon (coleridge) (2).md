@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/war-as-glory|War as Glory]]
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]]
 **Themes & Concepts:** [[concepts/ambition|Ambition]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/revenge|Revenge]]
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]

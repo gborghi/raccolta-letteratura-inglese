@@ -54,7 +54,7 @@ Raccolta tematica di 26 componimenti di Walt Whitman.
 - [[works/old-war-dreams-(whitman)|Old War-Dreams]]
 - [[works/spirit-whose-work-is-done-washington-city,-1865-(whitman)|Spirit Whose Work Is Done (Washington City, 1865)]]
 - [[works/the-artilleryman’s-vision-(whitman)|The Artilleryman’s Vision]]
-- The Bravest Soldiers
+- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#299_the_bravest_soldiers|The Bravest Soldiers]]
 - [[works/the-dying-veteran-(whitman)|The Dying Veteran]]
 - [[works/the-wallabout-martyrs-(whitman)|The Wallabout Martyrs]]
 - [[works/the-wound-dresser-(whitman)|The Wound-Dresser]]

@@ -61,11 +61,11 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Archetypes:** Fool, Trickster
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]]
 **Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/artist-and-society|Artist and Society]], [[concepts/paradox|Paradox]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/grotesque|Grotesque]], [[concepts/truth|Truth]], [[concepts/pride|Pride]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/comedy|Comedy]], [[forms/satire|Satire]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/epic|Epic]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/renaissance|Renaissance]], [[historical-references/medieval-england|Medieval England]], [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/elizabethan-england|Elizabethan England]], [[historical-references/bible|Bible]], [[historical-references/voltaire|Voltaire]], [[historical-references/chaucer|Chaucer]], [[historical-references/rabelais|Rabelais]], [[historical-references/cervantes|Cervantes]]
-**Characters:** Falstaff, Don Quixote, Odysseus Ulysses, Councillor Pleydell
+**Characters:** [[characters/falstaff|Falstaff]], [[characters/don-quixote|Don Quixote]], [[characters/odysseus-ulysses|Odysseus Ulysses]], [[characters/councillor-pleydell|Councillor Pleydell]]
 
 ## Testo integrale / Full text
 

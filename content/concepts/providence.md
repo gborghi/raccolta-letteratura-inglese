@@ -55,52 +55,52 @@ tags:
 - [[works/to-the-rev.-george-coleridge-of-ottery-st.-mary,-devon-(coleridge)|TO THE REV. GEORGE COLERIDGE OF OTTERY ST. MARY, DEVON (Coleridge)]]
 - [[works/w.-l.-bowles-(coleridge)|W. L. BOWLES (Coleridge)]]
 - [[works/zapolya-a-christmas-tale-in-two-parts-(coleridge)|ZAPOLYA A CHRISTMAS TALE IN TWO PARTS (Coleridge)]]
-- 1021. Far from Love the Heavenly Father (Dickinson)
-- 1088. Ended, ere it begun — (Dickinson)
-- 113. Our share of night to bear — (Dickinson)
-- 1166. Of Paul and Silas it is said (Dickinson)
-- 1216. A Deed knocks first at Thought (Dickinson)
-- 131. Besides the Autumn poets sing (Dickinson)
-- 141. Some, too fragile for winter winds (Dickinson)
-- 1433. How brittle are the Piers (Dickinson)
-- 1462. We knew not that we were to live — (Dickinson)
-- 1510. How happy is the little Stone (Dickinson)
-- 1575. The Bat is dun, with wrinkled Wings — (Dickinson)
-- 1584. Expanse cannot be lost — (Dickinson)
-- 1624. Apparently with no surprise (Dickinson)
-- 164. Mama never forgets her birds, (Dickinson)
-- 1769. The longest day that God appoints (Dickinson)
-- 178. I cautious, scanned my little life — (Dickinson)
-- 193. I shall know why — when Time is over — (Dickinson)
-- 350. They leave us with the Infinite. (Dickinson)
-- 376. Of Course — I prayed — (Dickinson)
-- 409. They dropped like Flakes — (Dickinson)
-- 414. 'Twas like a Maelstrom, with a notch, (Dickinson)
-- 415. Sunset at Night — is natural — (Dickinson)
-- 477. No Man can compass a Despair — (Dickinson)
-- 49. I never lost as much but twice, (Dickinson)
-- 513. Like Flowers, that heard the news of Dews, (Dickinson)
-- 534. We see — Comparatively — (Dickinson)
-- 536. The Heart asks Pleasure — first — (Dickinson)
-- 545. 'Tis One by One — the Father counts — (Dickinson)
-- 548. Death is potential to that Man (Dickinson)
-- 576. I prayed, at first, a little Girl, (Dickinson)
-- 591. To interrupt His Yellow Plan (Dickinson)
-- 597. It always felt to me — a wrong (Dickinson)
-- 615. Our journey had advanced — (Dickinson)
-- 623. It was too late for Man — (Dickinson)
-- 672. The Future — never spoke — (Dickinson)
-- 690. Victory comes late — (Dickinson)
-- 724. It's easy to invent a Life — (Dickinson)
-- 742. Four Trees — upon a solitary Acre — (Dickinson)
-- 766. My Faith is larger than the Hills — (Dickinson)
-- 790. Nature — the Gentlest Mother is, (Dickinson)
-- 791. God gave a Loaf to every Bird — (Dickinson)
-- 820. All Circumstances are the Frame (Dickinson)
-- 824. The Wind begun to knead the Grass — (Dickinson)
-- 848. Just as He spoke it from his Hands (Dickinson)
-- 871. The Sun and Moon must make their haste — (Dickinson)
-- 885. Our little Kinsmen — after Rain (Dickinson)
+- [[testi/dickinson/atomized/faith-providence-divine-love#1021_far_from_love_the_heavenly_father|1021. Far from Love the Heavenly Father (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1088_ended_ere_it_begun|1088. Ended, ere it begun — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0113_our_share_of_night_to_bear|113. Our share of night to bear — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1166_of_paul_and_silas_it_is_said|1166. Of Paul and Silas it is said (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1216_a_deed_knocks_first_at_thought|1216. A Deed knocks first at Thought (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0131_besides_the_autumn_poets_sing|131. Besides the Autumn poets sing (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0141_some_too_fragile_for_winter_winds|141. Some, too fragile for winter winds (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1433_how_brittle_are_the_piers|1433. How brittle are the Piers (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1462_we_knew_not_that_we_were_to_live|1462. We knew not that we were to live — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#1510_how_happy_is_the_little_stone|1510. How happy is the little Stone (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1575_the_bat_is_dun_with_wrinkled_wings|1575. The Bat is dun, with wrinkled Wings — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1584_expanse_cannot_be_lost|1584. Expanse cannot be lost — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1624_apparently_with_no_surprise|1624. Apparently with no surprise (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0164_mama_never_forgets_her_birds|164. Mama never forgets her birds, (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1769_the_longest_day_that_god_appoints|1769. The longest day that God appoints (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0178_i_cautious_scanned_my_little_life|178. I cautious, scanned my little life — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0193_i_shall_know_why_when_time_is_over|193. I shall know why — when Time is over — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0350_they_leave_us_with_the_infinite|350. They leave us with the Infinite. (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0376_of_course_i_prayed|376. Of Course — I prayed — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0409_they_dropped_like_flakes|409. They dropped like Flakes — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0414_twas_like_a_maelstrom_with_a_notch|414. 'Twas like a Maelstrom, with a notch, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0415_sunset_at_night_is_natural|415. Sunset at Night — is natural — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0477_no_man_can_compass_a_despair|477. No Man can compass a Despair — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0049_i_never_lost_as_much_but_twice|49. I never lost as much but twice, (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0513_like_flowers_that_heard_the_news_of_dews|513. Like Flowers, that heard the news of Dews, (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0534_we_see_comparatively|534. We see — Comparatively — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0536_the_heart_asks_pleasure_first|536. The Heart asks Pleasure — first — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0545_tis_one_by_one_the_father_counts|545. 'Tis One by One — the Father counts — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0548_death_is_potential_to_that_man|548. Death is potential to that Man (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0576_i_prayed_at_first_a_little_girl|576. I prayed, at first, a little Girl, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0591_to_interrupt_his_yellow_plan|591. To interrupt His Yellow Plan (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0597_it_always_felt_to_me_a_wrong|597. It always felt to me — a wrong (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0615_our_journey_had_advanced|615. Our journey had advanced — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0623_it_was_too_late_for_man|623. It was too late for Man — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0672_the_future_never_spoke|672. The Future — never spoke — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0690_victory_comes_late|690. Victory comes late — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0724_its_easy_to_invent_a_life|724. It's easy to invent a Life — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0742_four_trees_upon_a_solitary_acre|742. Four Trees — upon a solitary Acre — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0766_my_faith_is_larger_than_the_hills|766. My Faith is larger than the Hills — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0790_nature_the_gentlest_mother_is|790. Nature — the Gentlest Mother is, (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0791_god_gave_a_loaf_to_every_bird|791. God gave a Loaf to every Bird — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0820_all_circumstances_are_the_frame|820. All Circumstances are the Frame (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0824_the_wind_begun_to_knead_the_grass|824. The Wind begun to knead the Grass — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0848_just_as_he_spoke_it_from_his_hands|848. Just as He spoke it from his Hands (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0871_the_sun_and_moon_must_make_their_haste|871. The Sun and Moon must make their haste — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0885_our_little_kinsmen_after_rain|885. Our little Kinsmen — after Rain (Dickinson)]]
 - [[works/little-gidding-(eliot)|Little Gidding (Eliot)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/the-dry-salvages-1941-(eliot)|The Dry Salvages 1941 (Eliot)]]

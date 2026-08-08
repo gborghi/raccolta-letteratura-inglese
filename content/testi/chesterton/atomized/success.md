@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-La fallacia del [[success|successo]]
+La fallacia del successo
 
 G.K. Chesterton
 
@@ -26,22 +26,22 @@ Estratto da TUTTE LE COSE DA TENERE PRESENTI di G.K. Chesterton, da un'edizione 
 Questo testo è stato trascritto da Rob Szarka.
 --------------------------------------------------------------------------
 
-Nel nostro [[motifs/time|tempo]] è apparsa una particolare classe di libri e articoli che io sinceramente e solennemente penso possano essere chiamati i più sciocchi mai conosciuti tra gli uomini. Sono molto più selvaggi dei romanzi cavallereschi più selvaggi e molto più noiosi del trattato religioso più noioso. Inoltre, i romanzi cavallereschi erano almeno sui cavalieri; i trattati religiosi sono sulla religione. Ma queste cose non sono su nulla; sono sul cosiddetto [[success|Successo]]. Su ogni bancarella di libri, in ogni rivista, si possono trovare opere che insegnano alle persone come avere successo. Sono libri che mostrano agli uomini come avere successo in tutto; sono scritti da uomini che non riescono nemmeno a scrivere libri.
-Per cominciare, naturalmente, non esiste una cosa chiamata [[success|Successo]]. O, se preferite dirlo così, non c'è nulla che non abbia successo. Che una cosa abbia successo significa semplicemente che esiste; un milionario ha successo nell'essere un milionario e un [[donkey|asino]] nell'essere un [[donkey|asino]]. Ogni uomo vivo ha avuto successo nel vivere; ogni uomo morto può aver avuto successo nel commettere [[concepts/suicide|suicidio]]. Ma, passando sopra alla cattiva [[logic|logica]] e alla cattiva [[philosophy|filosofia]] della frase, possiamo prenderla, come fanno questi scrittori, nel senso ordinario di [[success|successo]] nell'ottenere denaro o posizione mondana.
-Questi scrittori si propongono di dire all'uomo comune come può avere successo nel suo commercio o speculazione: come, se è un costruttore, può avere successo come costruttore; come, se è un agente di cambio, può avere successo come tale. Si propongono di mostrargli come, se è un [[grocer|droghiere]], possa diventare uno sportivo con una barca a vela; come, se è un giornalista di decima categoria, possa diventare un pari del regno; e come, se è un ebreo tedesco, possa diventare anglosassone. Questa è una proposta definita e commerciale, e penso davvero che le persone che comprano questi libri (se qualcuno li compra) abbiano il diritto morale, se non legale, di chiedere indietro i loro soldi. Nessuno oserebbe pubblicare un libro sull'elettricità che letteralmente non dica nulla sull'elettricità; nessuno oserebbe pubblicare un articolo sulla botanica che mostri che lo scrittore non sa quale estremità di una pianta cresce nella terra. Eppure il nostro mondo moderno è pieno di libri sul [[success|Successo]] e sulle persone di successo che letteralmente non contengono alcun tipo di idea, e appena un po' di senso verbale.
+Nel nostro [[motifs/time|tempo]] è apparsa una particolare classe di libri e articoli che io sinceramente e solennemente penso possano essere chiamati i più sciocchi mai conosciuti tra gli uomini. Sono molto più selvaggi dei romanzi cavallereschi più selvaggi e molto più noiosi del trattato religioso più noioso. Inoltre, i romanzi cavallereschi erano almeno sui cavalieri; i trattati religiosi sono sulla religione. Ma queste cose non sono su nulla; sono sul cosiddetto Successo. Su ogni bancarella di libri, in ogni rivista, si possono trovare opere che insegnano alle persone come avere successo. Sono libri che mostrano agli uomini come avere successo in tutto; sono scritti da uomini che non riescono nemmeno a scrivere libri.
+Per cominciare, naturalmente, non esiste una cosa chiamata Successo. O, se preferite dirlo così, non c'è nulla che non abbia successo. Che una cosa abbia successo significa semplicemente che esiste; un milionario ha successo nell'essere un milionario e un asino nell'essere un asino. Ogni uomo vivo ha avuto successo nel vivere; ogni uomo morto può aver avuto successo nel commettere [[concepts/suicide|suicidio]]. Ma, passando sopra alla cattiva logica e alla cattiva filosofia della frase, possiamo prenderla, come fanno questi scrittori, nel senso ordinario di successo nell'ottenere denaro o posizione mondana.
+Questi scrittori si propongono di dire all'uomo comune come può avere successo nel suo commercio o speculazione: come, se è un costruttore, può avere successo come costruttore; come, se è un agente di cambio, può avere successo come tale. Si propongono di mostrargli come, se è un droghiere, possa diventare uno sportivo con una barca a vela; come, se è un giornalista di decima categoria, possa diventare un pari del regno; e come, se è un ebreo tedesco, possa diventare anglosassone. Questa è una proposta definita e commerciale, e penso davvero che le persone che comprano questi libri (se qualcuno li compra) abbiano il diritto morale, se non legale, di chiedere indietro i loro soldi. Nessuno oserebbe pubblicare un libro sull'elettricità che letteralmente non dica nulla sull'elettricità; nessuno oserebbe pubblicare un articolo sulla botanica che mostri che lo scrittore non sa quale estremità di una pianta cresce nella terra. Eppure il nostro mondo moderno è pieno di libri sul Successo e sulle persone di successo che letteralmente non contengono alcun tipo di idea, e appena un po' di senso verbale.
 
 È perfettamente ovvio che in qualsiasi onesta occupazione (come la muratura o lo scrivere libri) ci sono solo due modi (in un senso particolare) di avere successo. Uno è fare un lavoro molto buono, l'altro è imbrogliare. Entrambi sono troppo semplici per richiedere spiegazioni letterarie.
 Se partecipi al salto in alto, o salti più in alto di chiunque altro, oppure riesci a far credere che lo hai fatto.
 Se vuoi avere successo nel whist, o devi essere un buon giocatore di whist,
 oppure gioca con le carte segnate. Puoi voler un libro sul salto;
 puoi voler un libro sul whist; puoi voler un libro su
-come imbrogliare al whist. Ma non puoi volere un libro sull'[[success|successo]].
-Soprattutto, non puoi volere un libro sull'[[success|successo]] come quelli che
+come imbrogliare al whist. Ma non puoi volere un libro sull'successo.
+Soprattutto, non puoi volere un libro sull'successo come quelli che
 ora trovi sparsi a centinaia sul mercato dei libri.
 Puoi voler saltare o giocare a carte; ma non vuoi leggere
 affermazioni vaghe nel senso che il salto è salto,
 o che le partite si vincono con i vincitori. Se questi scrittori, per esempio,
-dicessero qualcosa sull'[[success|successo]] nel salto sarebbe qualcosa
+dicessero qualcosa sull'successo nel salto sarebbe qualcosa
 del genere: "Il saltatore deve avere un obiettivo chiaro davanti a sé.
 Deve [[motifs/desire|desiderare]] definitivamente di saltare più in alto degli altri uomini che sono
 nello stesso concorso. Non deve lasciare che deboli sentimenti di [[concepts/mercy|pietà]]
@@ -52,7 +52,7 @@ come Darwin ha gloriosamente dimostrato, I PIÙ DEBOLI VENGONO SCONFITTI."
 Questo è il tipo di cosa che direbbe il libro, e sarebbe molto utile, senza [[concepts/doubt|dubbio]],
 se letto a voce bassa e tesa a un giovane
 proprio sul punto di fare il salto in alto. O supponiamo che nel corso
-dei suoi vagabondaggi intellettuali il filosofo del [[success|successo]] si imbattesse
+dei suoi vagabondaggi intellettuali il filosofo del successo si imbattesse
 nel nostro altro caso, quello del gioco delle carte, i suoi consigli tonici sarebbero:
 "Nel giocare a carte è molto necessario evitare l'errore
 (commesso comunemente da umanitari sentimentali e fautori del libero scambio)
@@ -109,12 +109,12 @@ un'estasi da sacerdote, nel fingere di rivelare alla moltitudine quel terribile 
 
 Parlando dell'istinto che rende le persone ricche, lo stesso autore osserva...
 
-Nei tempi antichi la sua esistenza era pienamente compresa. I Greci l'hanno immortalata nella storia di Mida, del "Tocco d'Oro". Ecco un uomo che trasformava in oro tutto ciò a cui poneva mano. La sua vita era un progresso tra le ricchezze. Da ogni cosa che gli capitava tra le mani creava il prezioso metallo. 'Una leggenda sciocca', dicevano i sapientoni dell'era vittoriana. 'Una [[concepts/truth|verità]]', diciamo noi di oggi. Tutti conosciamo uomini del genere. Incontriamo sempre o leggiamo di persone che trasformano in oro tutto ciò a cui toccano. Il [[success|successo]] [[dogs|seguono]] i loro passi. La strada della vita li conduce senza errore verso l'alto. Non possono fallire.
+Nei tempi antichi la sua esistenza era pienamente compresa. I Greci l'hanno immortalata nella storia di Mida, del "Tocco d'Oro". Ecco un uomo che trasformava in oro tutto ciò a cui poneva mano. La sua vita era un progresso tra le ricchezze. Da ogni cosa che gli capitava tra le mani creava il prezioso metallo. 'Una leggenda sciocca', dicevano i sapientoni dell'era vittoriana. 'Una [[concepts/truth|verità]]', diciamo noi di oggi. Tutti conosciamo uomini del genere. Incontriamo sempre o leggiamo di persone che trasformano in oro tutto ciò a cui toccano. Il successo seguono i loro passi. La strada della vita li conduce senza errore verso l'alto. Non possono fallire.
 
 Sfortunatamente, tuttavia, anche Mida poteva fallire; e infatti è accaduto.  Il suo cammino non conduceva inesorabilmente verso l'alto.  Moriva di fame perché ogni volta che toccava un biscotto o un panino al prosciutto si trasformavano in oro.
 Questo era il punto cruciale della storia, anche se lo scrittore deve sottolinearlo delicatamente, scrivendo così vicino a un ritratto del Lord Rothschild.
 Le vecchie favole dell'umanità sono davvero profondamente sagge; ma non dobbiamo permettere che vengano censurate nell'interesse di Mr. Vanderbilt.
-Non dobbiamo rappresentare il [[archetypes/king|Re]] Mida come un esempio di [[success|successo]]; era un fallimento di una specie insolitamente dolorosa.  Inoltre, aveva le orecchie
+Non dobbiamo rappresentare il [[archetypes/king|Re]] Mida come un esempio di successo; era un fallimento di una specie insolitamente dolorosa.  Inoltre, aveva le orecchie
 di un asino.  E in più (come la maggior parte delle altre persone prominenti e facoltose)
 si sforzava di nascondere il fatto.  Fu il suo barbiere (se non ricordo male) a dover essere trattato con riservatezza
 riguardo a questa peculiarità; e invece di comportarsi
@@ -133,7 +133,7 @@ che nascondono, e a volte ho pensato di aver sentito sul
 [[motifs/wind|vento]] la risata e il sussurro delle canne.
 
 Almeno, [[concepts/hope|speriamo]] che tutti vivremo abbastanza da vedere questi assurdi
-libri sul [[success|Successo]] coperti da un giusto scherno e dall'oblio.
+libri sul Successo coperti da un giusto scherno e dall'oblio.
 Non insegnano alla gente a riuscire, ma le insegnano
 a essere snob; diffondono una sorta di malvagia poesia della mondanità.
 I Puritani denunciano di continuo i libri che infiammano la lussuria; che cosa
@@ -163,7 +163,7 @@ Email: martin@gkc.org.uk
 <span class="atom-split" data-atom="part--part_01" data-title="success (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desire,motif/leaves,motif/time,concept/doubt,concept/mercy,concept/suicide,histref/christianity,setting/new_york"></span>
 
 
-The Fallacy of [[success|Success]]
+The Fallacy of Success
 
 G. K. Chesterton
 
@@ -180,22 +180,22 @@ known among men.  They are much more wild than the wildest romances
 of chivalry and much more dull than the dullest religious tract.
 Moreover, the romances of chivalry were at least about chivalry;
 the religious tracts are about religion.  But these things are
-about nothing; they are about what is called [[success|Success]].  On every bookstall,
+about nothing; they are about what is called Success.  On every bookstall,
 in every magazine, you may find works telling people how to succeed.
 They are books showing men how to succeed in everything;
 they are written by men who cannot even succeed in writing books.
-To begin with, of course, there is no such thing as [[success|Success]].
+To begin with, of course, there is no such thing as Success.
 Or, if you like to put it so, there is nothing that is not successful.
 That a thing is successful merely means that it is; a millionaire
-is successful in being a millionaire and a [[donkey]] in being a [[donkey]].
+is successful in being a millionaire and a donkey in being a donkey.
 Any live man has succeeded in living; any dead man may have succeeded
-in committing [[concepts/suicide|suicide]].  But, passing over the bad [[logic]] and bad
-[[philosophy]] in the phrase, we may take it, as these writers do,
-in the ordinary sense of [[success]] in obtaining money or worldly position.
+in committing [[concepts/suicide|suicide]].  But, passing over the bad logic and bad
+philosophy in the phrase, we may take it, as these writers do,
+in the ordinary sense of success in obtaining money or worldly position.
 These writers profess to tell the ordinary man how he may succeed
 in his trade or speculation--how, if he is a builder, he may succeed as
 a builder; how, if he is a stockbroker, he may succeed as a stockbroker.
-They profess to show him how, if he is a [[grocer]], he may become
+They profess to show him how, if he is a grocer, he may become
 a sporting yachtsman; how, if he is a tenth-rate journalist,
 he may become a peer; and how, if he is a German Jew, he may become
 an Anglo-Saxon. This is a definite and business-like proposal,
@@ -205,7 +205,7 @@ for their money back.  Nobody would dare to publish a book about
 electricity which literally told one nothing about electricity;
 no one would dare publish an article on botany which showed that
 the writer did not know which end of a plant grew in the earth.
-Yet our modern world is full of books about [[success|Success]] and successful
+Yet our modern world is full of books about Success and successful
 people which literally contain no kind of idea, and scarcely and kind
 of verbal sense.
 
@@ -218,13 +218,13 @@ one else, or manage somehow to pretend that you have done so.
 If you want to succeed at whist, either be a good whist-player,
 or play with marked cards.  You may want a book about jumping;
 you may want a book about whist; you may want a book about
-cheating at whist.  But you cannot want a book about [[success|Success]].
-Especially you cannot want a book about [[success|Success]] such as those which
+cheating at whist.  But you cannot want a book about Success.
+Especially you cannot want a book about Success such as those which
 you can now find scattered by the hundred about the book-market.
 You may want to jump or to play cards; but you do not want to read
 wandering statements to the effect that jumping is jumping,
 or that games are won by winners.  If these writers, for instance,
-said anything about [[success]] in jumping it would be something
+said anything about success in jumping it would be something
 like this:  "The jumper must have a clear aim before him.
 He must [[motifs/desire|desire]] definitely to jump higher than the other men who are
 in for the same competition.  He must let no feeble feelings of [[concepts/mercy|mercy]]
@@ -235,7 +235,7 @@ as Darwin has gloriously demonstrated, THE WEAKEST GO TO THE WALL."
 That is the kind of thing the book would say, and very useful it
 would be, no [[concepts/doubt|doubt]], if read out in a low and tense voice to a young
 man just about to take the high jump.  Or suppose that in the course
-of his intellectual rambles the philosopher of [[success|Success]] dropped upon
+of his intellectual rambles the philosopher of Success dropped upon
 our other case, that of playing cards, his bracing advice would
 run--"In playing cards it is very necessary to avoid the mistake
 (commonly made by maudlin humanitarians and Free Traders)
@@ -264,7 +264,7 @@ it [[motifs/leaves|leaves]] so little [[concepts/doubt|doubt]] about what should
 
 <span class="qlang-split" data-lang="it"></span>
 
-La fallacia del [[success|successo]]
+La fallacia del successo
 
 G.K. Chesterton
 
@@ -273,22 +273,22 @@ Estratto da TUTTE LE COSE DA TENERE PRESENTI di G.K. Chesterton, da un'edizione 
 Questo testo è stato trascritto da Rob Szarka.
 --------------------------------------------------------------------------
 
-Nel nostro [[motifs/time|tempo]] è apparsa una particolare classe di libri e articoli che io sinceramente e solennemente penso possano essere chiamati i più sciocchi mai conosciuti tra gli uomini. Sono molto più selvaggi dei romanzi cavallereschi più selvaggi e molto più noiosi del trattato religioso più noioso. Inoltre, i romanzi cavallereschi erano almeno sui cavalieri; i trattati religiosi sono sulla religione. Ma queste cose non sono su nulla; sono sul cosiddetto [[success|Successo]]. Su ogni bancarella di libri, in ogni rivista, si possono trovare opere che insegnano alle persone come avere successo. Sono libri che mostrano agli uomini come avere successo in tutto; sono scritti da uomini che non riescono nemmeno a scrivere libri.
-Per cominciare, naturalmente, non esiste una cosa chiamata [[success|Successo]]. O, se preferite dirlo così, non c'è nulla che non abbia successo. Che una cosa abbia successo significa semplicemente che esiste; un milionario ha successo nell'essere un milionario e un [[donkey|asino]] nell'essere un [[donkey|asino]]. Ogni uomo vivo ha avuto successo nel vivere; ogni uomo morto può aver avuto successo nel commettere [[concepts/suicide|suicidio]]. Ma, passando sopra alla cattiva [[logic|logica]] e alla cattiva [[philosophy|filosofia]] della frase, possiamo prenderla, come fanno questi scrittori, nel senso ordinario di [[success|successo]] nell'ottenere denaro o posizione mondana.
-Questi scrittori si propongono di dire all'uomo comune come può avere successo nel suo commercio o speculazione: come, se è un costruttore, può avere successo come costruttore; come, se è un agente di cambio, può avere successo come tale. Si propongono di mostrargli come, se è un [[grocer|droghiere]], possa diventare uno sportivo con una barca a vela; come, se è un giornalista di decima categoria, possa diventare un pari del regno; e come, se è un ebreo tedesco, possa diventare anglosassone. Questa è una proposta definita e commerciale, e penso davvero che le persone che comprano questi libri (se qualcuno li compra) abbiano il diritto morale, se non legale, di chiedere indietro i loro soldi. Nessuno oserebbe pubblicare un libro sull'elettricità che letteralmente non dica nulla sull'elettricità; nessuno oserebbe pubblicare un articolo sulla botanica che mostri che lo scrittore non sa quale estremità di una pianta cresce nella terra. Eppure il nostro mondo moderno è pieno di libri sul [[success|Successo]] e sulle persone di successo che letteralmente non contengono alcun tipo di idea, e appena un po' di senso verbale.
+Nel nostro [[motifs/time|tempo]] è apparsa una particolare classe di libri e articoli che io sinceramente e solennemente penso possano essere chiamati i più sciocchi mai conosciuti tra gli uomini. Sono molto più selvaggi dei romanzi cavallereschi più selvaggi e molto più noiosi del trattato religioso più noioso. Inoltre, i romanzi cavallereschi erano almeno sui cavalieri; i trattati religiosi sono sulla religione. Ma queste cose non sono su nulla; sono sul cosiddetto Successo. Su ogni bancarella di libri, in ogni rivista, si possono trovare opere che insegnano alle persone come avere successo. Sono libri che mostrano agli uomini come avere successo in tutto; sono scritti da uomini che non riescono nemmeno a scrivere libri.
+Per cominciare, naturalmente, non esiste una cosa chiamata Successo. O, se preferite dirlo così, non c'è nulla che non abbia successo. Che una cosa abbia successo significa semplicemente che esiste; un milionario ha successo nell'essere un milionario e un asino nell'essere un asino. Ogni uomo vivo ha avuto successo nel vivere; ogni uomo morto può aver avuto successo nel commettere [[concepts/suicide|suicidio]]. Ma, passando sopra alla cattiva logica e alla cattiva filosofia della frase, possiamo prenderla, come fanno questi scrittori, nel senso ordinario di successo nell'ottenere denaro o posizione mondana.
+Questi scrittori si propongono di dire all'uomo comune come può avere successo nel suo commercio o speculazione: come, se è un costruttore, può avere successo come costruttore; come, se è un agente di cambio, può avere successo come tale. Si propongono di mostrargli come, se è un droghiere, possa diventare uno sportivo con una barca a vela; come, se è un giornalista di decima categoria, possa diventare un pari del regno; e come, se è un ebreo tedesco, possa diventare anglosassone. Questa è una proposta definita e commerciale, e penso davvero che le persone che comprano questi libri (se qualcuno li compra) abbiano il diritto morale, se non legale, di chiedere indietro i loro soldi. Nessuno oserebbe pubblicare un libro sull'elettricità che letteralmente non dica nulla sull'elettricità; nessuno oserebbe pubblicare un articolo sulla botanica che mostri che lo scrittore non sa quale estremità di una pianta cresce nella terra. Eppure il nostro mondo moderno è pieno di libri sul Successo e sulle persone di successo che letteralmente non contengono alcun tipo di idea, e appena un po' di senso verbale.
 
 È perfettamente ovvio che in qualsiasi onesta occupazione (come la muratura o lo scrivere libri) ci sono solo due modi (in un senso particolare) di avere successo. Uno è fare un lavoro molto buono, l'altro è imbrogliare. Entrambi sono troppo semplici per richiedere spiegazioni letterarie.
 Se partecipi al salto in alto, o salti più in alto di chiunque altro, oppure riesci a far credere che lo hai fatto.
 Se vuoi avere successo nel whist, o devi essere un buon giocatore di whist,
 oppure gioca con le carte segnate. Puoi voler un libro sul salto;
 puoi voler un libro sul whist; puoi voler un libro su
-come imbrogliare al whist. Ma non puoi volere un libro sull'[[success|successo]].
-Soprattutto, non puoi volere un libro sull'[[success|successo]] come quelli che
+come imbrogliare al whist. Ma non puoi volere un libro sull'successo.
+Soprattutto, non puoi volere un libro sull'successo come quelli che
 ora trovi sparsi a centinaia sul mercato dei libri.
 Puoi voler saltare o giocare a carte; ma non vuoi leggere
 affermazioni vaghe nel senso che il salto è salto,
 o che le partite si vincono con i vincitori. Se questi scrittori, per esempio,
-dicessero qualcosa sull'[[success|successo]] nel salto sarebbe qualcosa
+dicessero qualcosa sull'successo nel salto sarebbe qualcosa
 del genere: "Il saltatore deve avere un obiettivo chiaro davanti a sé.
 Deve [[motifs/desire|desiderare]] definitivamente di saltare più in alto degli altri uomini che sono
 nello stesso concorso. Non deve lasciare che deboli sentimenti di [[concepts/mercy|pietà]]
@@ -299,7 +299,7 @@ come Darwin ha gloriosamente dimostrato, I PIÙ DEBOLI VENGONO SCONFITTI."
 Questo è il tipo di cosa che direbbe il libro, e sarebbe molto utile, senza [[concepts/doubt|dubbio]],
 se letto a voce bassa e tesa a un giovane
 proprio sul punto di fare il salto in alto. O supponiamo che nel corso
-dei suoi vagabondaggi intellettuali il filosofo del [[success|successo]] si imbattesse
+dei suoi vagabondaggi intellettuali il filosofo del successo si imbattesse
 nel nostro altro caso, quello del gioco delle carte, i suoi consigli tonici sarebbero:
 "Nel giocare a carte è molto necessario evitare l'errore
 (commesso comunemente da umanitari sentimentali e fautori del libero scambio)
@@ -384,7 +384,7 @@ was a progress amidst riches. Out of everything that came in his way
 he created the precious metal. 'A foolish legend,' said the wiseacres
 if the Victorian age. 'A [[concepts/truth|truth]],' say we of to-day. We all know of such
 men. We are ever meeting or reading about such persons who turn
-everything they touch into gold. [[success|Success]] [[dogs]] their very footsteps.
+everything they touch into gold. Success dogs their very footsteps.
 Their life's pathway leads unerringly upwards. They cannot fail.
 
 Unfortunately, however, Midas could fail; he did.  His path
@@ -394,7 +394,7 @@ That was the whole point of the story, though the writer has to suppress
 it delicately, writing so near to a portrait of Lord Rothschild.
 The old fables of mankind are, indeed, unfathomably wise; but we
 must not have them expurgated in the interests of Mr. Vanderbilt.
-We must not have [[archetypes/king|King]] Midas represented as an example of [[success]];
+We must not have [[archetypes/king|King]] Midas represented as an example of success;
 he was a failure of an unusually painful kind.  Also, he had the ears
 of an ass.  Also (like most other prominent and wealthy persons)
 he endeavoured to conceal the fact.  It was his barber (if I
@@ -450,12 +450,12 @@ un'estasi da sacerdote, nel fingere di rivelare alla moltitudine quel terribile 
 
 Parlando dell'istinto che rende le persone ricche, lo stesso autore osserva...
 
-Nei tempi antichi la sua esistenza era pienamente compresa. I Greci l'hanno immortalata nella storia di Mida, del "Tocco d'Oro". Ecco un uomo che trasformava in oro tutto ciò a cui poneva mano. La sua vita era un progresso tra le ricchezze. Da ogni cosa che gli capitava tra le mani creava il prezioso metallo. 'Una leggenda sciocca', dicevano i sapientoni dell'era vittoriana. 'Una [[concepts/truth|verità]]', diciamo noi di oggi. Tutti conosciamo uomini del genere. Incontriamo sempre o leggiamo di persone che trasformano in oro tutto ciò a cui toccano. Il [[success|successo]] [[dogs|seguono]] i loro passi. La strada della vita li conduce senza errore verso l'alto. Non possono fallire.
+Nei tempi antichi la sua esistenza era pienamente compresa. I Greci l'hanno immortalata nella storia di Mida, del "Tocco d'Oro". Ecco un uomo che trasformava in oro tutto ciò a cui poneva mano. La sua vita era un progresso tra le ricchezze. Da ogni cosa che gli capitava tra le mani creava il prezioso metallo. 'Una leggenda sciocca', dicevano i sapientoni dell'era vittoriana. 'Una [[concepts/truth|verità]]', diciamo noi di oggi. Tutti conosciamo uomini del genere. Incontriamo sempre o leggiamo di persone che trasformano in oro tutto ciò a cui toccano. Il successo seguono i loro passi. La strada della vita li conduce senza errore verso l'alto. Non possono fallire.
 
 Sfortunatamente, tuttavia, anche Mida poteva fallire; e infatti è accaduto.  Il suo cammino non conduceva inesorabilmente verso l'alto.  Moriva di fame perché ogni volta che toccava un biscotto o un panino al prosciutto si trasformavano in oro.
 Questo era il punto cruciale della storia, anche se lo scrittore deve sottolinearlo delicatamente, scrivendo così vicino a un ritratto del Lord Rothschild.
 Le vecchie favole dell'umanità sono davvero profondamente sagge; ma non dobbiamo permettere che vengano censurate nell'interesse di Mr. Vanderbilt.
-Non dobbiamo rappresentare il [[archetypes/king|Re]] Mida come un esempio di [[success|successo]]; era un fallimento di una specie insolitamente dolorosa.  Inoltre, aveva le orecchie
+Non dobbiamo rappresentare il [[archetypes/king|Re]] Mida come un esempio di successo; era un fallimento di una specie insolitamente dolorosa.  Inoltre, aveva le orecchie
 di un asino.  E in più (come la maggior parte delle altre persone prominenti e facoltose)
 si sforzava di nascondere il fatto.  Fu il suo barbiere (se non ricordo male) a dover essere trattato con riservatezza
 riguardo a questa peculiarità; e invece di comportarsi
@@ -479,7 +479,7 @@ che nascondono, e a volte ho pensato di aver sentito sul
 
 
 At least, let us [[concepts/hope|hope]] that we shall all live to see these absurd
-books about [[success|Success]] covered with a proper derision and neglect.
+books about Success covered with a proper derision and neglect.
 They do not teach people to be successful, but they do teach people
 to be snobbish; they do spread a sort of evil poetry of worldliness.
 The Puritans are always denouncing books that inflame lust; what shall
@@ -508,7 +508,7 @@ Email: martin@gkc.org.uk
 <span class="qlang-split" data-lang="it"></span>
 
 Almeno, [[concepts/hope|speriamo]] che tutti vivremo abbastanza da vedere questi assurdi
-libri sul [[success|Successo]] coperti da un giusto scherno e dall'oblio.
+libri sul Successo coperti da un giusto scherno e dall'oblio.
 Non insegnano alla gente a riuscire, ma le insegnano
 a essere snob; diffondono una sorta di malvagia poesia della mondanità.
 I Puritani denunciano di continuo i libri che infiammano la lussuria; che cosa

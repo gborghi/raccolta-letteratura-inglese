@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-La Vecchia [[Song|Canzone]]  
+La Vecchia Canzone  
 
 Un cielo livido su [[settings/london|Londra]]  
 E come i corsieri di ferro che s'impennano  
@@ -147,7 +147,7 @@ Had shown under the shattered sky a people that were free.
 
 <span class="qlang-split" data-lang="it"></span>
 
-La Vecchia [[Song|Canzone]]  
+La Vecchia Canzone  
 
 Un cielo livido su [[settings/london|Londra]]  
 E come i corsieri di ferro che s'impennano  

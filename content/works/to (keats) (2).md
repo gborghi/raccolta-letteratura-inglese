@@ -22,7 +22,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/lust-sexual-desire|Lust Sexual Desire]]
 **Forms & Genres:** [[forms/petrarchan-sonnet|Petrarchan Sonnet]]
 

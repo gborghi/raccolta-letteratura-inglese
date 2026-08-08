@@ -31,7 +31,7 @@ tags:
 - [[works/little-dorrit-(dickens)|Little Dorrit (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
-- 1147. After a hundred years (Dickinson)
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1147_after_a_hundred_years|1147. After a hundred years (Dickinson)]]
 - [[works/a-fable-for-feasters-(eliot)|A Fable for Feasters (Eliot)]]
 - [[works/burbank-with-a-baedeker-bleistein-with-a-cigar-(eliot)|Burbank with a Baedeker Bleistein with a Cigar (Eliot)]]
 - [[works/ii-thus-your-fathers-were-made-(eliot)|II Thus your fathers were made (Eliot)]]
@@ -45,9 +45,9 @@ tags:
 - [[works/some-words-with-a-mummy-(poe)|Some Words with a Mummy (Poe)]]
 - [[works/the-city-in-the-sea-(poe)|The City in the Sea (Poe)]]
 - [[works/the-coliseum-(poe)|The Coliseum (Poe)]]
-- Sonnet 125 (Shakespeare)
-- Sonnet 55 (Shakespeare)
-- Sonnet 64 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_125|Sonnet 125 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_055|Sonnet 55 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_064|Sonnet 64 (Shakespeare)]]
 - [[works/spain,-1873-74-(whitman)|Spain, 1873-74 (Whitman)]]
 - [[works/washington’s-monument-february,-1885-(whitman)|Washington’s Monument February, 1885 (Whitman)]]
 - [[works/the-canterville-ghost-(wilde)|The Canterville Ghost (Wilde)]]

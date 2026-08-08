@@ -37,7 +37,7 @@ I felt the Columns close —
 The Earth reversed her Hemispheres —  
 I touched the Universe —  
 
-And back it slid — and I [[Alone|alone]] —  
+And back it slid — and I alone —  
 A Speck upon a Ball —  
 Went out upon Circumference —  
 Beyond the Dip of Bell —
@@ -74,7 +74,7 @@ To perish — of Delight —
 <span class="atom-split" data-atom="0486_i_was_the_slightest_in_the_house" data-title="486. I was the slightest in the House —" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/death,concept/humility,concept/alienation,concept/identity,cluster/alienation,cluster/outsider,cluster/exile"></span>
 
 
-I was the slightest in the [[house|House]] —  
+I was the slightest in the House —  
 I took the smallest Room —  
 At [[motifs/night|night]], my little Lamp, and Book —  
 And one Geranium —  
@@ -191,7 +191,7 @@ For something passiver — Content
 Too steep for looking up —  
 
 The [[concepts/liberty|Liberty]] we knew  
-Avoided — like [[A Dream|a Dream]] —  
+Avoided — like a Dream —  
 Too wide for any [[motifs/night|Night]] but Heaven —  
 If That — indeed — redeem —
 

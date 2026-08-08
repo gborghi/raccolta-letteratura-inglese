@@ -71,7 +71,7 @@ One Claw upon the Air,
 Nor tossed my shape in Eider Balls,  
 Nor rolled on wheels of [[motifs/snow|snow]]  
 Till I was out of sight, in sound,  
-The [[house|House]] encore me so —  
+The House encore me so —  
 
 Nor any know I know the Art  
 I mention — easy — Here —  
@@ -232,7 +232,7 @@ And just the meanest Tunes
 That [[concepts/nature|Nature]] murmured to herself  
 To keep herself in Cheer —  
 I took for Giants — practising  
-[[titanic|Titanic]] Opera —  
+Titanic Opera —  
 
 The Days — to Mighty Metres stept —  
 The Homeliest — adorned  
@@ -462,7 +462,7 @@ The Cherubim reveal —
 
 
 Tell all the [[concepts/truth|Truth]] but tell it slant —  
-[[success|Success]] in Circuit lies  
+Success in Circuit lies  
 Too bright for our infirm Delight  
 The [[concepts/truth|Truth]]'s superb surprise  
 
@@ -493,7 +493,7 @@ At distance than at hand.
 <span class="atom-split" data-atom="1481_the_way_hope_builds_his_house" data-title="1481. The way Hope builds his House" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/faith,concept/paradox,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-The way [[concepts/hope|Hope]] builds his [[house|House]]  
+The way [[concepts/hope|Hope]] builds his House  
 It is not with a sill —  
 Nor Rafter — has that Edifice  
 But only Pinnacle —  

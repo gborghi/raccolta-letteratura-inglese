@@ -54,6 +54,6 @@ tags:
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/wine-and-drink|Wine and Drink]]
 **Historical References:** [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** G. K. Chesterton
-**Archetypes:** Corrupt Official
+**Characters:** [[characters/g.-k.-chesterton|G. K. Chesterton]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]

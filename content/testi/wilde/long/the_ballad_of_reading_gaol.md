@@ -68,7 +68,7 @@ By each let this be heard,
 Some do it with a bitter look,  
 Some with a flattering word,  
 The coward does it with a kiss,  
-The brave man with a [[Sword|sword]]!  
+The brave man with a sword!  
 Some kill their [[motifs/love|love]] when they are young,  
 And some when they are old;  
 Some strangle with the hands of Lust,  
@@ -310,7 +310,7 @@ And through each brain on hands of [[motifs/pain|pain]]
 Another’s terror crept.  
 Alas! it is a fearful thing  
 To feel another’s [[concepts/guilt|guilt]]!  
-For, right within, the [[Sword|sword]] of Sin  
+For, right within, the sword of Sin  
 Pierced to its poisoned hilt,  
 And as molten lead were the [[motifs/tears|tears]] we shed  
 For the [[motifs/blood|blood]] we had not spilt.  
@@ -355,7 +355,7 @@ But fettered limbs go lame!
 And once, or twice, to throw the dice  
 Is a gentlemanly game,  
 But he does not win who plays with Sin  
-In the secret [[house|House]] of Shame.’  
+In the secret House of Shame.’  
 No things of air these antics were,  
 That frolicked with such glee:  
 To men whose lives were held in gyves,  
@@ -429,7 +429,7 @@ Of impotent [[concepts/despair|despair]],
 Like the sound that frightened marshes hear  
 From some leper in his lair.  
 And as one sees most fearful things  
-In the crystal of [[A Dream|a dream]],  
+In the crystal of a dream,  
 We saw the greasy hempen rope  
 Hooked to the blackened beam,  
 And heard the [[motifs/prayer|prayer]] the hangman’s snare  
@@ -661,7 +661,7 @@ Is pitiless and hard:
 And by all forgot, we rot and rot,  
 With [[motifs/soul|soul]] and [[concepts/body|body]] marred.  
 And thus we rust Life’s iron chain  
-Degraded and [[Alone|alone]]:  
+Degraded and alone:  
 And some men curse, and some men weep,  
 And some men make no moan:  
 But God’s eternal Laws are kind  
@@ -670,7 +670,7 @@ And every human heart that breaks,
 In [[motifs/prison|prison]]-cell or yard,  
 Is as that broken box that gave  
 Its treasure to the Lord,  
-And filled the unclean leper’s [[house]]  
+And filled the unclean leper’s house  
 With the scent of costliest nard.  
 Ah! happy they whose hearts can break  
 And peace of pardon win!  
@@ -721,4 +721,4 @@ By all let this be heard,
 Some do it with a bitter look,  
 Some with a flattering word,  
 The coward does it with a kiss,  
-The brave man with a [[Sword|sword]]!  
+The brave man with a sword!  

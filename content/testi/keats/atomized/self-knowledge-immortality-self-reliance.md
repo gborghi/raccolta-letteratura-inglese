@@ -30,7 +30,7 @@ Are sweeter; therefore, ye soft pipes, play on;
 Not to the sensual ear, but, more endear’d,  
 Pipe to the spirit ditties of no tone:  
 Fair youth, beneath the trees, thou canst not leave  
-Thy [[Song|song]], nor ever can those trees be bare;  
+Thy song, nor ever can those trees be bare;  
 Bold [[archetypes/lover|Lover]], never, never canst thou kiss,  
 Though winning near the goal--yet, do not grieve;  
 She cannot fade, though thou hast not thy bliss,  
@@ -39,7 +39,7 @@ For ever wilt thou [[motifs/love|love]], and she be fair!  20
 Ah, happy, happy boughs! that cannot shed  
 Your [[motifs/leaves|leaves]], nor ever bid the [[motifs/spring|Spring]] adieu;  
 And, happy melodist, unwearied,  
-For ever piping [[songs]] for ever new;  
+For ever piping songs for ever new;  
 More happy [[motifs/love|love]]! more happy, happy [[motifs/love|love]]!  
 For ever warm and still to be enjoy’d,  
 For ever panting, and for ever young;  
@@ -62,7 +62,7 @@ O Attic shape! Fair attitude! with brede
 Of marble men and maidens overwrought,  
 With forest branches and the trodden weed;  
 Thou, silent form, dost tease us out of thought  
-As doth [[concepts/eternity|eternity]]: Cold [[Pastoral]]!  
+As doth [[concepts/eternity|eternity]]: Cold Pastoral!  
 When old age shall this generation waste,  
 Thou shalt remain, in midst of other woe  
 Than ours, a friend to man, to whom thou say’st,  
@@ -175,7 +175,7 @@ Then o’er the strings his fingers gently move,  40
 And melt the [[motifs/soul|soul]] to pity and to [[motifs/love|love]].  
 
 But when Thou joinest with the Nine,  
-And all the powers of [[Song|song]] combine,  
+And all the powers of song combine,  
 We listen here on earth:  
 The dying tones that fill the air,  
 And charm the ear of evening fair,  
@@ -265,7 +265,7 @@ Hymning and harmony
 Of thee, and of thy works, and of thy life;  
 But vain is now the burning and the strife,  
 Pangs are in vain, until I grow high-rife  
-With old [[philosophy|Philosophy]],  
+With old Philosophy,  
 And mad with glimpses of futurity!  
 
 For many years my offering must be hush’d;  
@@ -418,7 +418,7 @@ He ran away to Scotland
     Was as hard,  
     That a yard  
     Was as long,  
-    That a [[Song|song]]  
+    That a song  
     Was as merry,  
     That a cherry  
     Was as red,  
@@ -487,7 +487,7 @@ Was fill’d with patient folk and slow,
 With whispers hush, and shuffling feet,  
 While play’d the organ loud and sweet.  
 
-[[The Bells|The bells]] had ceas’d, the prayers begun.  
+The bells had ceas’d, the prayers begun.  
 And Bertha had not yet half done  
 A curious volume, patch’d and torn,  
 That all day long, from earliest mom,  

@@ -64,12 +64,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** Detective, Orphan, (Reputed) Fallen Woman, Corrupt Official
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/orphan|Orphan]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/corrupt-official|Corrupt Official]]
 **Motifs:** [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/city|City]], [[motifs/disease-and-contagion|Disease and Contagion]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/ghosts|Ghosts]], [[motifs/fire|Fire]], [[motifs/secrets|Secrets]]
 **Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/satire-of-society|Satire of Society]], [[concepts/reform|Reform]], [[concepts/class-conflict|Class Conflict]], [[concepts/poverty|Poverty]], [[concepts/deception|Deception]], [[concepts/guilt|Guilt]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/identity|Identity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/detective-fiction|Detective Fiction]], [[forms/satire|Satire]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Characters:** Esther Summerson, John Jarndyce, Lady Dedlock, Sir Leicester Dedlock, Mr Tulkinghorn, Inspector Bucket, Ada Clare, Richard Carstone, Jo the Crossing-Sweeper, Harold Skimpole, Mrs Jellyby
+**Characters:** [[characters/esther-summerson|Esther Summerson]], [[characters/john-jarndyce|John Jarndyce]], [[characters/lady-dedlock|Lady Dedlock]], [[characters/sir-leicester-dedlock|Sir Leicester Dedlock]], [[characters/mr-tulkinghorn|Mr Tulkinghorn]], [[characters/inspector-bucket|Inspector Bucket]], [[characters/ada-clare|Ada Clare]], [[characters/richard-carstone|Richard Carstone]], [[characters/jo-the-crossing-sweeper|Jo the Crossing-Sweeper]], [[characters/harold-skimpole|Harold Skimpole]], [[characters/mrs-jellyby|Mrs Jellyby]]
 
 ## Testo integrale / Full text
 

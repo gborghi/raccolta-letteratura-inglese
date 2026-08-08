@@ -77,5 +77,5 @@ tags:
 **Motifs:** [[motifs/horse|Horse]], [[motifs/journey|Journey]], [[motifs/great-house|Great House]], [[motifs/swords-and-weapons|Swords and Weapons]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/hundred-years'-war|Hundred Years' War]], [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]]
-**Archetypes:** Quest Hero, Hero, Mentor
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/hero|Hero]], [[archetypes/mentor|Mentor]]
 **Topoi:** [[topoi/quest|Quest]], [[topoi/journey-of-life|Journey of Life]]

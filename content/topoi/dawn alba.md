@@ -15,8 +15,8 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/la-fayette-(coleridge)|LA FAYETTE (Coleridge)]]
-- 1000. The Fingers of the Light (Dickinson)
-- 1739. Some say goodnight — at night — (Dickinson)
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1000_the_fingers_of_the_light|1000. The Fingers of the Light (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1739_some_say_goodnight_at_night|1739. Some say goodnight — at night — (Dickinson)]]
 - [[works/romeo-and-juliet-(shakespeare)|ROMEO AND JULIET (Shakespeare)]]
 
 </div>

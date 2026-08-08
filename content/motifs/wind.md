@@ -32,43 +32,43 @@ tags:
 - [[works/the-kiss-(coleridge)|THE KISS (Coleridge)]]
 - [[works/to-captain-findlay-(coleridge)|TO CAPTAIN FINDLAY (Coleridge)]]
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
-- 1075. The Sky is low — the Clouds are mean. (Dickinson)
-- 1103. The spry Arms of the Wind (Dickinson)
-- 1118. Exhilaration is the Breeze (Dickinson)
-- 1122. 'Tis my first night beneath the Sun (Dickinson)
-- 1134. The Wind took up the Northern Things (Dickinson)
-- 1137. The duties of the Wind are few, (Dickinson)
-- 1140. The Day grew small, surrounded tight (Dickinson)
-- 1172. The Clouds their Backs together laid (Dickinson)
-- 1175. We like a Hairbreadth 'scape (Dickinson)
-- 1229. Because He loves Her (Dickinson)
-- 1235. Like Rain it sounded till it curved (Dickinson)
-- 1252. Like Brooms of Steel (Dickinson)
-- 1259. A Wind that rose (Dickinson)
-- 1271. September's Baccalaureate (Dickinson)
-- 1302. I think that the Root of the Wind is Water — (Dickinson)
-- 1415. A wild Blue sky abreast of Winds (Dickinson)
-- 1418. How lonesome the Wind must feel Nights — (Dickinson)
-- 1593. There came a Wind like a Bugle — (Dickinson)
-- 1634. Talk not to me of Summer Trees (Dickinson)
-- 178. I cautious, scanned my little life — (Dickinson)
-- 304. The Day came slow — till Five o'clock — (Dickinson)
-- 315. He fumbles at your Soul (Dickinson)
-- 316. The Wind didn't come from the Orchard — today — (Dickinson)
-- 321. Of all the Sounds despatched abroad, (Dickinson)
-- 337. I know a place where Summer strives (Dickinson)
-- 409. They dropped like Flakes — (Dickinson)
-- 436. The Wind — tapped like a tired Man — (Dickinson)
-- 480. Why do I love You, Sir (Dickinson)
-- 516. Beauty — be not caused — It Is — (Dickinson)
-- 525. I think the Hemlock likes to stand (Dickinson)
-- 530. You cannot put a Fire out — (Dickinson)
-- 653. Of Being is a Bird (Dickinson)
-- 719. A South Wind — has a pathos (Dickinson)
-- 742. Four Trees — upon a solitary Acre — (Dickinson)
-- 774. It is a lonesome Glee — (Dickinson)
-- 824. The Wind begun to knead the Grass — (Dickinson)
-- 991. She sped as Petals of a Rose (Dickinson)
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1075_the_sky_is_low_the_clouds_are_mean|1075. The Sky is low — the Clouds are mean. (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1103_the_spry_arms_of_the_wind|1103. The spry Arms of the Wind (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1118_exhilaration_is_the_breeze|1118. Exhilaration is the Breeze (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1122_tis_my_first_night_beneath_the_sun|1122. 'Tis my first night beneath the Sun (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1134_the_wind_took_up_the_northern_things|1134. The Wind took up the Northern Things (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1137_the_duties_of_the_wind_are_few|1137. The duties of the Wind are few, (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1140_the_day_grew_small_surrounded_tight|1140. The Day grew small, surrounded tight (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1172_the_clouds_their_backs_together_laid|1172. The Clouds their Backs together laid (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1175_we_like_a_hairbreadth_scape|1175. We like a Hairbreadth 'scape (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1229_because_he_loves_her|1229. Because He loves Her (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1235_like_rain_it_sounded_till_it_curved|1235. Like Rain it sounded till it curved (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1252_like_brooms_of_steel|1252. Like Brooms of Steel (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1259_a_wind_that_rose|1259. A Wind that rose (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1271_septembers_baccalaureate|1271. September's Baccalaureate (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1302_i_think_that_the_root_of_the_wind_is_water|1302. I think that the Root of the Wind is Water — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1415_a_wild_blue_sky_abreast_of_winds|1415. A wild Blue sky abreast of Winds (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1418_how_lonesome_the_wind_must_feel_nights|1418. How lonesome the Wind must feel Nights — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1593_there_came_a_wind_like_a_bugle|1593. There came a Wind like a Bugle — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1634_talk_not_to_me_of_summer_trees|1634. Talk not to me of Summer Trees (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0178_i_cautious_scanned_my_little_life|178. I cautious, scanned my little life — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0304_the_day_came_slow_till_five_oclock|304. The Day came slow — till Five o'clock — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0315_he_fumbles_at_your_soul|315. He fumbles at your Soul (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0316_the_wind_didnt_come_from_the_orchard_today|316. The Wind didn't come from the Orchard — today — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0321_of_all_the_sounds_despatched_abroad|321. Of all the Sounds despatched abroad, (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0337_i_know_a_place_where_summer_strives|337. I know a place where Summer strives (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0409_they_dropped_like_flakes|409. They dropped like Flakes — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0436_the_wind_tapped_like_a_tired_man|436. The Wind — tapped like a tired Man — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0480_why_do_i_love_you_sir|480. Why do I love You, Sir (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0516_beauty_be_not_caused_it_is|516. Beauty — be not caused — It Is — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0525_i_think_the_hemlock_likes_to_stand|525. I think the Hemlock likes to stand (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0530_you_cannot_put_a_fire_out|530. You cannot put a Fire out — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0653_of_being_is_a_bird|653. Of Being is a Bird (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0719_a_south_wind_has_a_pathos|719. A South Wind — has a pathos (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0742_four_trees_upon_a_solitary_acre|742. Four Trees — upon a solitary Acre — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0774_it_is_a_lonesome_glee|774. It is a lonesome Glee — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0824_the_wind_begun_to_knead_the_grass|824. The Wind begun to knead the Grass — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0991_she_sped_as_petals_of_a_rose|991. She sped as Petals of a Rose (Dickinson)]]
 - [[works/a-song-for-simeon-(eliot)|A Song for Simeon (Eliot)]]
 - [[works/gerontion-(eliot)|Gerontion (Eliot)]]
 - [[works/the-wind-sprang-up-at-four-o’clock-(eliot)|The wind sprang up at four o’clock (Eliot)]]
@@ -77,8 +77,8 @@ tags:
 - [[works/song-of-four-faeries---fire,-air,-earth,-and-water---(keats)|Song of Four Faeries - Fire, Air, Earth, and Water - (Keats)]]
 - [[works/the-balloon-hoax-(poe)|The Balloon-Hoax (Poe)]]
 - [[works/the-lake----to---(poe)|The Lake -- To-- (Poe)]]
-- Sonnet 117 (Shakespeare)
-- Sonnet 90 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_117|Sonnet 117 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_090|Sonnet 90 (Shakespeare)]]
 - [[works/after-the-sea-ship-(whitman)|After the Sea-Ship (Whitman)]]
 - [[works/i-heard-you-solemn-sweet-pipes-of-the-organ-(whitman)|I Heard You Solemn-Sweet Pipes of the Organ (Whitman)]]
 - [[works/patroling-barnegat-(whitman)|Patroling Barnegat (Whitman)]]

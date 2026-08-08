@@ -42,13 +42,13 @@ tags:
 - [[works/the-madman-and-the-lethargist-(coleridge)-(2)|THE MADMAN AND THE LETHARGIST (Coleridge) (2)]]
 - [[works/the-silver-thimble-(coleridge)|THE SILVER THIMBLE (Coleridge)]]
 - [[works/to-richard-brinsley-sheridan,-esq.-(coleridge)|TO RICHARD BRINSLEY SHERIDAN, ESQ. (Coleridge)]]
-- 1. Awake ye muses nine, sing me a strain divine (Dickinson)
-- 1013. Too scanty 'twas to die for you, (Dickinson)
-- 148. All overgrown by cunning moss, (Dickinson)
-- 175. I have never seen Volcanoes — (Dickinson)
-- 3. Sic transit gloria mundi (Dickinson)
-- 371. A precious — mouldering pleasure — 'tis — (Dickinson)
-- 97. The rainbow never tells me (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0001_awake_ye_muses_nine_sing_me_a_strain_divine|1. Awake ye muses nine, sing me a strain divine (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1013_too_scanty_twas_to_die_for_you|1013. Too scanty 'twas to die for you, (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0148_all_overgrown_by_cunning_moss|148. All overgrown by cunning moss, (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0175_i_have_never_seen_volcanoes|175. I have never seen Volcanoes — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0003_sic_transit_gloria_mundi|3. Sic transit gloria mundi (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0371_a_precious_mouldering_pleasure_tis|371. A precious — mouldering pleasure — 'tis — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0097_the_rainbow_never_tells_me|97. The rainbow never tells me (Dickinson)]]
 - [[works/marina-(eliot)|Marina (Eliot)]]
 - [[works/fragment-of-an-ode-to-maia,-(keats)|Fragment of an Ode to Maia, (Keats)]]
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
@@ -66,8 +66,8 @@ tags:
 - [[works/the-assignation-(poe)|The Assignation (Poe)]]
 - [[works/to-helen-(poe)|To Helen (Poe)]]
 - [[works/to-zante-(poe)|To Zante (Poe)]]
-- Sonnet 153 (Shakespeare)
-- Sonnet 154 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_153|Sonnet 153 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_154|Sonnet 154 (Shakespeare)]]
 - [[works/timon-of-athens-(shakespeare)|TIMON OF ATHENS (Shakespeare)]]
 - [[works/troilus-and-cressida-(shakespeare)|TROILUS AND CRESSIDA (Shakespeare)]]
 - [[works/venus-and-adonis-(shakespeare)|VENUS AND ADONIS (Shakespeare)]]

@@ -42,4 +42,4 @@ tags:
 **Themes & Concepts:** [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/madness|Madness]], [[concepts/deception|Deception]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/blood|Blood]], [[motifs/gallows|Gallows]]
 **Settings:** [[settings/london|London]]
-**Archetypes:** Villain
+**Archetypes:** [[archetypes/villain|Villain]]

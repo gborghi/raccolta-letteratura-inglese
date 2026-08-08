@@ -25,11 +25,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/ship|Ship]], [[motifs/blood|Blood]], [[motifs/bells|Bells]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]]
 **Forms & Genres:** [[forms/elegy|Elegy]], [[forms/ballad-ballade|Ballad Ballade]]
-**Characters:** Abraham Lincoln
+**Characters:** [[characters/abraham-lincoln|Abraham Lincoln]]
 
 ## Testo integrale / Full text
 

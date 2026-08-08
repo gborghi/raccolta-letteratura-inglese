@@ -25,7 +25,7 @@ tags:
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/faith-and-doubt|Faith and Doubt]]
 **Forms & Genres:** [[forms/satire|Satire]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

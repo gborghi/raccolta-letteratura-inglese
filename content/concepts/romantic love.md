@@ -139,138 +139,138 @@ tags:
 - [[works/little-dorrit-(dickens)|Little Dorrit (Dickens)]]
 - [[works/our-mutual-friend-(dickens)|Our Mutual Friend (Dickens)]]
 - [[works/the-battle-of-life-(dickens)|The Battle of Life (Dickens)]]
-- 1. Awake ye muses nine, sing me a strain divine (Dickinson)
-- 1013. Too scanty 'twas to die for you, (Dickinson)
-- 1053. It was a quiet way — (Dickinson)
-- 106. The Daisy follows soft the Sun — (Dickinson)
-- 1072. Title divine — is mine! (Dickinson)
-- 109. By a flower — By a letter — (Dickinson)
-- 1132. The smouldering embers blush — (Dickinson)
-- 1150. How many schemes may die (Dickinson)
-- 1160. He is alive, this morning — (Dickinson)
-- 1171. On the World you colored (Dickinson)
-- 1187. Oh Shadow on the Grass, (Dickinson)
-- 1189. The Voice that stands for Floods to me (Dickinson)
-- 1219. Now I knew I lost her — (Dickinson)
-- 1229. Because He loves Her (Dickinson)
-- 1231. Somewhere upon the general Earth (Dickinson)
-- 1237. My Heart ran so to thee (Dickinson)
-- 1260. Because that you are going (Dickinson)
-- 1290. The most pathetic thing I do (Dickinson)
-- 1297. Go slow, my soul, to feed thyself (Dickinson)
-- 1314. When a Lover is a Beggar (Dickinson)
-- 1398. I have no Life but this — (Dickinson)
-- 14. One Sister have I in our house, (Dickinson)
-- 1410. I shall not murmur if at last (Dickinson)
-- 1426. The pretty Rain from those sweet Eaves (Dickinson)
-- 1438. Behold this little Bane — (Dickinson)
-- 1440. The healed Heart shows its shallow scar (Dickinson)
-- 1444. A little Snow was here and there (Dickinson)
-- 1449. I thought the Train would never come — (Dickinson)
-- 1476. His voice decrepit was with Joy — (Dickinson)
-- 1496. All that I do (Dickinson)
-- 1529. 'Tis Seasons since the Dimpled War (Dickinson)
-- 1542. Come show thy Durham Breast (Dickinson)
-- 156. You love me — you are sure — (Dickinson)
-- 1560. To be forgot by thee (Dickinson)
-- 1568. To see her is a Picture — (Dickinson)
-- 1597. 'Tis not the swaying frame we miss, (Dickinson)
-- 1604. We send the Wave to find the Wave — (Dickinson)
-- 1632. So give me back to Death — (Dickinson)
-- 1643. Extol thee — could I Then I will (Dickinson)
-- 1664. I did not reach Thee (Dickinson)
-- 1731. Love can do all but raise the Dead (Dickinson)
-- 1739. Some say goodnight — at night — (Dickinson)
-- 1743. The grave my little cottage is, (Dickinson)
-- 1754. To lose thee — sweeter than to gain (Dickinson)
-- 1756. 'Twas here my summer paused (Dickinson)
-- 1760. Elysium is as far as to (Dickinson)
-- 1771. How fleet — how indiscreet an one — (Dickinson)
-- 186. What shall I do — it whimpers so — (Dickinson)
-- 190. He was weak, and I was strong — then — (Dickinson)
-- 203. He forgot — and I — remembered — (Dickinson)
-- 206. The Flower must not blame the Bee — (Dickinson)
-- 207. Tho' I get home how late — how late — (Dickinson)
-- 208. The Rose did caper on her cheek — (Dickinson)
-- 213. Did the Harebell loose her girdle (Dickinson)
-- 222. When Katie walks, this simple pair accompany her side, (Dickinson)
-- 223. I Came to buy a smile — today — (Dickinson)
-- 224. I've nothing else — to bring, You know — (Dickinson)
-- 227. Teach Him — When He makes the names — (Dickinson)
-- 236. If He dissolve — then — there is nothing — more — (Dickinson)
-- 26. It's all I have to bring today — (Dickinson)
-- 284. The Drop, that wrestles in the Sea — (Dickinson)
-- 29. If those I loved were lost (Dickinson)
-- 296. One Year ago — jots what (Dickinson)
-- 299. Your Riches — taught me — Poverty (Dickinson)
-- 300. Morning — means Milking — to the Farmer — (Dickinson)
-- 303. The Soul selects her own Society — (Dickinson)
-- 31. Summer for thee, grant I may be (Dickinson)
-- 322. There came a Day at Summer's full, (Dickinson)
-- 336. The face I carry with me — last — (Dickinson)
-- 368. How sick — to wait — in any place — but thine — (Dickinson)
-- 387. The sweetest Heresy received (Dickinson)
-- 39. It did not surprise me — (Dickinson)
-- 400. A Tongue — to tell Him I am true! (Dickinson)
-- 429. The Moon is distant from the Sea — (Dickinson)
-- 438. Forget! The lady with the Amulet (Dickinson)
-- 44. If she had been the Mistletoe (Dickinson)
-- 440. 'Tis customary as we part (Dickinson)
-- 446. I showed her Heights she never saw — (Dickinson)
-- 452. The Malay — took the Pearl — (Dickinson)
-- 464. The power to be true to You, (Dickinson)
-- 480. Why do I love You, Sir (Dickinson)
-- 494. Going to Him! Happy letter! (Dickinson)
-- 504. You know that Portrait in the Moon — (Dickinson)
-- 506. He touched me, so I live to know (Dickinson)
-- 511. If you were coming in the Fall, (Dickinson)
-- 518. Her sweet Weight on my Heart a Night (Dickinson)
-- 537. Me prove it now — Whoever doubt (Dickinson)
-- 549. That I did always love (Dickinson)
-- 568. We learned the Whole of Love — (Dickinson)
-- 570. I could die — to know — (Dickinson)
-- 573. The Test of Love — is Death — (Dickinson)
-- 577. If I may have it, when it's dead, (Dickinson)
-- 580. I gave myself to Him — (Dickinson)
-- 587. Empty my Heart, of Thee — (Dickinson)
-- 611. I see thee better — in the Dark — (Dickinson)
-- 625. 'Twas a long Parting — but the time (Dickinson)
-- 631. Ourselves were wed one summer — dear — (Dickinson)
-- 635. I think the longest Hour of all (Dickinson)
-- 636. The Way I read a Letter's — this — (Dickinson)
-- 638. To my small Hearth His fire came — (Dickinson)
-- 640. I cannot live with You — (Dickinson)
-- 643. I could suffice for Him, I knew — (Dickinson)
-- 644. You left me — Sire — two Legacies — (Dickinson)
-- 646. I think to Live — may be a Bliss (Dickinson)
-- 648. Promise This — When You be Dying — (Dickinson)
-- 655. Without this — there is nought — (Dickinson)
-- 659. That first Day, when you praised Me, Sweet, (Dickinson)
-- 663. Again — his voice is at the door — (Dickinson)
-- 664. Of all the Souls that stand create — (Dickinson)
-- 673. The Love a Life can show Below (Dickinson)
-- 693. Shells from the Coast mistaking — (Dickinson)
-- 697. I could bring You Jewels — had I a mind to — (Dickinson)
-- 710. The Sunrise runs for Both — (Dickinson)
-- 725. Where Thou art — that — is Home — (Dickinson)
-- 727. Precious to Me — She still shall be — (Dickinson)
-- 738. You said that I was Great — one Day — (Dickinson)
-- 748. Autumn — overlooked my Knitting — (Dickinson)
-- 752. So the Eyes accost — and sunder (Dickinson)
-- 788. Joy to have merited the Pain — (Dickinson)
-- 815. The Luxury to apprehend (Dickinson)
-- 831. Dying! To be afraid of thee (Dickinson)
-- 839. Always Mine! (Dickinson)
-- 84. Her breast is fit for pearls, (Dickinson)
-- 858. This Chasm, Sweet, upon my life (Dickinson)
-- 869. Because the Bee may blameless hum (Dickinson)
-- 881. I've none to tell me to but Thee (Dickinson)
-- 907. Till Death — is narrow Loving — (Dickinson)
-- 909. I make His Crescent fill or lack — (Dickinson)
-- 960. As plan for Noon and plan for Night (Dickinson)
-- 961. Wert Thou but ill — that I might show thee (Dickinson)
-- 966. All forgot for recollecting (Dickinson)
-- 973. 'Twas awkward, but it fitted me — (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0001_awake_ye_muses_nine_sing_me_a_strain_divine|1. Awake ye muses nine, sing me a strain divine (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1013_too_scanty_twas_to_die_for_you|1013. Too scanty 'twas to die for you, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1053_it_was_a_quiet_way|1053. It was a quiet way — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0106_the_daisy_follows_soft_the_sun|106. The Daisy follows soft the Sun — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1072_title_divine_is_mine|1072. Title divine — is mine! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0109_by_a_flower_by_a_letter|109. By a flower — By a letter — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1132_the_smouldering_embers_blush|1132. The smouldering embers blush — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1150_how_many_schemes_may_die|1150. How many schemes may die (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1160_he_is_alive_this_morning|1160. He is alive, this morning — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1171_on_the_world_you_colored|1171. On the World you colored (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1187_oh_shadow_on_the_grass|1187. Oh Shadow on the Grass, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1189_the_voice_that_stands_for_floods_to_me|1189. The Voice that stands for Floods to me (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1219_now_i_knew_i_lost_her|1219. Now I knew I lost her — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1229_because_he_loves_her|1229. Because He loves Her (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1231_somewhere_upon_the_general_earth|1231. Somewhere upon the general Earth (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1237_my_heart_ran_so_to_thee|1237. My Heart ran so to thee (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1260_because_that_you_are_going|1260. Because that you are going (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1290_the_most_pathetic_thing_i_do|1290. The most pathetic thing I do (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1297_go_slow_my_soul_to_feed_thyself|1297. Go slow, my soul, to feed thyself (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1314_when_a_lover_is_a_beggar|1314. When a Lover is a Beggar (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1398_i_have_no_life_but_this|1398. I have no Life but this — (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0014_one_sister_have_i_in_our_house|14. One Sister have I in our house, (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1410_i_shall_not_murmur_if_at_last|1410. I shall not murmur if at last (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#1426_the_pretty_rain_from_those_sweet_eaves|1426. The pretty Rain from those sweet Eaves (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1438_behold_this_little_bane|1438. Behold this little Bane — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1440_the_healed_heart_shows_its_shallow_scar|1440. The healed Heart shows its shallow scar (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1444_a_little_snow_was_here_and_there|1444. A little Snow was here and there (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1449_i_thought_the_train_would_never_come|1449. I thought the Train would never come — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1476_his_voice_decrepit_was_with_joy|1476. His voice decrepit was with Joy — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1496_all_that_i_do|1496. All that I do (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1529_tis_seasons_since_the_dimpled_war|1529. 'Tis Seasons since the Dimpled War (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1542_come_show_thy_durham_breast|1542. Come show thy Durham Breast (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0156_you_love_me_you_are_sure|156. You love me — you are sure — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1560_to_be_forgot_by_thee|1560. To be forgot by thee (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#1568_to_see_her_is_a_picture|1568. To see her is a Picture — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1597_tis_not_the_swaying_frame_we_miss|1597. 'Tis not the swaying frame we miss, (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1604_we_send_the_wave_to_find_the_wave|1604. We send the Wave to find the Wave — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1632_so_give_me_back_to_death|1632. So give me back to Death — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1643_extol_thee_could_i_then_i_will|1643. Extol thee — could I Then I will (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1664_i_did_not_reach_thee|1664. I did not reach Thee (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1731_love_can_do_all_but_raise_the_dead|1731. Love can do all but raise the Dead (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1739_some_say_goodnight_at_night|1739. Some say goodnight — at night — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1743_the_grave_my_little_cottage_is|1743. The grave my little cottage is, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1754_to_lose_thee_sweeter_than_to_gain|1754. To lose thee — sweeter than to gain (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1756_twas_here_my_summer_paused|1756. 'Twas here my summer paused (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1760_elysium_is_as_far_as_to|1760. Elysium is as far as to (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1771_how_fleet_how_indiscreet_an_one|1771. How fleet — how indiscreet an one — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0186_what_shall_i_do_it_whimpers_so|186. What shall I do — it whimpers so — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0190_he_was_weak_and_i_was_strong_then|190. He was weak, and I was strong — then — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0203_he_forgot_and_i_remembered|203. He forgot — and I — remembered — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0206_the_flower_must_not_blame_the_bee|206. The Flower must not blame the Bee — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0207_tho_i_get_home_how_late_how_late|207. Tho' I get home how late — how late — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0208_the_rose_did_caper_on_her_cheek|208. The Rose did caper on her cheek — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0213_did_the_harebell_loose_her_girdle|213. Did the Harebell loose her girdle (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0222_when_katie_walks_this_simple_pair_accompany_her_side|222. When Katie walks, this simple pair accompany her side, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0223_i_came_to_buy_a_smile_today|223. I Came to buy a smile — today — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0224_ive_nothing_else_to_bring_you_know|224. I've nothing else — to bring, You know — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0227_teach_him_when_he_makes_the_names|227. Teach Him — When He makes the names — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0236_if_he_dissolve_then_there_is_nothing_more|236. If He dissolve — then — there is nothing — more — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0026_its_all_i_have_to_bring_today|26. It's all I have to bring today — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0284_the_drop_that_wrestles_in_the_sea|284. The Drop, that wrestles in the Sea — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0029_if_those_i_loved_were_lost|29. If those I loved were lost (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0296_one_year_ago_jots_what|296. One Year ago — jots what (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0299_your_riches_taught_me_poverty|299. Your Riches — taught me — Poverty (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0300_morning_means_milking_to_the_farmer|300. Morning — means Milking — to the Farmer — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0303_the_soul_selects_her_own_society|303. The Soul selects her own Society — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0031_summer_for_thee_grant_i_may_be|31. Summer for thee, grant I may be (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0322_there_came_a_day_at_summers_full|322. There came a Day at Summer's full, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0336_the_face_i_carry_with_me_last|336. The face I carry with me — last — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0368_how_sick_to_wait_in_any_place_but_thine|368. How sick — to wait — in any place — but thine — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0387_the_sweetest_heresy_received|387. The sweetest Heresy received (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0039_it_did_not_surprise_me|39. It did not surprise me — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0400_a_tongue_to_tell_him_i_am_true|400. A Tongue — to tell Him I am true! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0429_the_moon_is_distant_from_the_sea|429. The Moon is distant from the Sea — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0438_forget_the_lady_with_the_amulet|438. Forget! The lady with the Amulet (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0044_if_she_had_been_the_mistletoe|44. If she had been the Mistletoe (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0440_tis_customary_as_we_part|440. 'Tis customary as we part (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0446_i_showed_her_heights_she_never_saw|446. I showed her Heights she never saw — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0452_the_malay_took_the_pearl|452. The Malay — took the Pearl — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0464_the_power_to_be_true_to_you|464. The power to be true to You, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0480_why_do_i_love_you_sir|480. Why do I love You, Sir (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0494_going_to_him_happy_letter|494. Going to Him! Happy letter! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0504_you_know_that_portrait_in_the_moon|504. You know that Portrait in the Moon — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0506_he_touched_me_so_i_live_to_know|506. He touched me, so I live to know (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0511_if_you_were_coming_in_the_fall|511. If you were coming in the Fall, (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0518_her_sweet_weight_on_my_heart_a_night|518. Her sweet Weight on my Heart a Night (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0537_me_prove_it_now_whoever_doubt|537. Me prove it now — Whoever doubt (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0549_that_i_did_always_love|549. That I did always love (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0568_we_learned_the_whole_of_love|568. We learned the Whole of Love — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0570_i_could_die_to_know|570. I could die — to know — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0573_the_test_of_love_is_death|573. The Test of Love — is Death — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0577_if_i_may_have_it_when_its_dead|577. If I may have it, when it's dead, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0580_i_gave_myself_to_him|580. I gave myself to Him — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0587_empty_my_heart_of_thee|587. Empty my Heart, of Thee — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0611_i_see_thee_better_in_the_dark|611. I see thee better — in the Dark — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0625_twas_a_long_parting_but_the_time|625. 'Twas a long Parting — but the time (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0631_ourselves_were_wed_one_summer_dear|631. Ourselves were wed one summer — dear — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0635_i_think_the_longest_hour_of_all|635. I think the longest Hour of all (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0636_the_way_i_read_a_letters_this|636. The Way I read a Letter's — this — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0638_to_my_small_hearth_his_fire_came|638. To my small Hearth His fire came — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0640_i_cannot_live_with_you|640. I cannot live with You — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0643_i_could_suffice_for_him_i_knew|643. I could suffice for Him, I knew — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0644_you_left_me_sire_two_legacies|644. You left me — Sire — two Legacies — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0646_i_think_to_live_may_be_a_bliss|646. I think to Live — may be a Bliss (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0648_promise_this_when_you_be_dying|648. Promise This — When You be Dying — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0655_without_this_there_is_nought|655. Without this — there is nought — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0659_that_first_day_when_you_praised_me_sweet|659. That first Day, when you praised Me, Sweet, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0663_again_his_voice_is_at_the_door|663. Again — his voice is at the door — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0664_of_all_the_souls_that_stand_create|664. Of all the Souls that stand create — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0673_the_love_a_life_can_show_below|673. The Love a Life can show Below (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0693_shells_from_the_coast_mistaking|693. Shells from the Coast mistaking — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0697_i_could_bring_you_jewels_had_i_a_mind_to|697. I could bring You Jewels — had I a mind to — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0710_the_sunrise_runs_for_both|710. The Sunrise runs for Both — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0725_where_thou_art_that_is_home|725. Where Thou art — that — is Home — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0727_precious_to_me_she_still_shall_be|727. Precious to Me — She still shall be — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0738_you_said_that_i_was_great_one_day|738. You said that I was Great — one Day — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0748_autumn_overlooked_my_knitting|748. Autumn — overlooked my Knitting — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0752_so_the_eyes_accost_and_sunder|752. So the Eyes accost — and sunder (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0788_joy_to_have_merited_the_pain|788. Joy to have merited the Pain — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0815_the_luxury_to_apprehend|815. The Luxury to apprehend (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0831_dying_to_be_afraid_of_thee|831. Dying! To be afraid of thee (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0839_always_mine|839. Always Mine! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0084_her_breast_is_fit_for_pearls|84. Her breast is fit for pearls, (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0858_this_chasm_sweet_upon_my_life|858. This Chasm, Sweet, upon my life (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0869_because_the_bee_may_blameless_hum|869. Because the Bee may blameless hum (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0881_ive_none_to_tell_me_to_but_thee|881. I've none to tell me to but Thee (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0907_till_death_is_narrow_loving|907. Till Death — is narrow Loving — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0909_i_make_his_crescent_fill_or_lack|909. I make His Crescent fill or lack — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0960_as_plan_for_noon_and_plan_for_night|960. As plan for Noon and plan for Night (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0961_wert_thou_but_ill_that_i_might_show_thee|961. Wert Thou but ill — that I might show thee (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0966_all_forgot_for_recollecting|966. All forgot for recollecting (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0973_twas_awkward_but_it_fitted_me|973. 'Twas awkward, but it fitted me — (Dickinson)]]
 - [[works/a-lyric-‘if-time-and-space,-as-sages-say’-(eliot)|A Lyric ‘If Time and Space, as Sages say’ (Eliot)]]
 - [[works/a-dedication-to-my-wife-(eliot)|A Dedication to my Wife (Eliot)]]
 - [[works/conversation-galante-(eliot)|Conversation Galante (Eliot)]]
@@ -347,68 +347,68 @@ tags:
 - [[works/much-ado-about-nothing-(shakespeare)|MUCH ADO ABOUT NOTHING (Shakespeare)]]
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
 - [[works/romeo-and-juliet-(shakespeare)|ROMEO AND JULIET (Shakespeare)]]
-- Sonnet 10 (Shakespeare)
-- Sonnet 102 (Shakespeare)
-- Sonnet 109 (Shakespeare)
-- Sonnet 110 (Shakespeare)
-- Sonnet 112 (Shakespeare)
-- Sonnet 113 (Shakespeare)
-- Sonnet 115 (Shakespeare)
-- Sonnet 116 (Shakespeare)
-- Sonnet 118 (Shakespeare)
-- Sonnet 119 (Shakespeare)
-- Sonnet 124 (Shakespeare)
-- Sonnet 128 (Shakespeare)
-- Sonnet 13 (Shakespeare)
-- Sonnet 130 (Shakespeare)
-- Sonnet 131 (Shakespeare)
-- Sonnet 138 (Shakespeare)
-- Sonnet 143 (Shakespeare)
-- Sonnet 145 (Shakespeare)
-- Sonnet 153 (Shakespeare)
-- Sonnet 154 (Shakespeare)
-- Sonnet 20 (Shakespeare)
-- Sonnet 21 (Shakespeare)
-- Sonnet 22 (Shakespeare)
-- Sonnet 23 (Shakespeare)
-- Sonnet 24 (Shakespeare)
-- Sonnet 25 (Shakespeare)
-- Sonnet 26 (Shakespeare)
-- Sonnet 27 (Shakespeare)
-- Sonnet 28 (Shakespeare)
-- Sonnet 29 (Shakespeare)
-- Sonnet 31 (Shakespeare)
-- Sonnet 32 (Shakespeare)
-- Sonnet 33 (Shakespeare)
-- Sonnet 34 (Shakespeare)
-- Sonnet 35 (Shakespeare)
-- Sonnet 36 (Shakespeare)
-- Sonnet 37 (Shakespeare)
-- Sonnet 38 (Shakespeare)
-- Sonnet 39 (Shakespeare)
-- Sonnet 40 (Shakespeare)
-- Sonnet 42 (Shakespeare)
-- Sonnet 43 (Shakespeare)
-- Sonnet 44 (Shakespeare)
-- Sonnet 45 (Shakespeare)
-- Sonnet 46 (Shakespeare)
-- Sonnet 47 (Shakespeare)
-- Sonnet 48 (Shakespeare)
-- Sonnet 51 (Shakespeare)
-- Sonnet 52 (Shakespeare)
-- Sonnet 53 (Shakespeare)
-- Sonnet 56 (Shakespeare)
-- Sonnet 61 (Shakespeare)
-- Sonnet 71 (Shakespeare)
-- Sonnet 72 (Shakespeare)
-- Sonnet 75 (Shakespeare)
-- Sonnet 76 (Shakespeare)
-- Sonnet 87 (Shakespeare)
-- Sonnet 88 (Shakespeare)
-- Sonnet 89 (Shakespeare)
-- Sonnet 90 (Shakespeare)
-- Sonnet 91 (Shakespeare)
-- Sonnet 92 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_010|Sonnet 10 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_102|Sonnet 102 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_109|Sonnet 109 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_110|Sonnet 110 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_112|Sonnet 112 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_113|Sonnet 113 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_115|Sonnet 115 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_116|Sonnet 116 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_118|Sonnet 118 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_119|Sonnet 119 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_124|Sonnet 124 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_128|Sonnet 128 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_013|Sonnet 13 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_130|Sonnet 130 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_131|Sonnet 131 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_138|Sonnet 138 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_143|Sonnet 143 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_145|Sonnet 145 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_153|Sonnet 153 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_154|Sonnet 154 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_020|Sonnet 20 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_021|Sonnet 21 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_022|Sonnet 22 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_023|Sonnet 23 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_024|Sonnet 24 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_025|Sonnet 25 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_026|Sonnet 26 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_027|Sonnet 27 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_028|Sonnet 28 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_029|Sonnet 29 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_031|Sonnet 31 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_032|Sonnet 32 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_033|Sonnet 33 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_034|Sonnet 34 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_035|Sonnet 35 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_036|Sonnet 36 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_037|Sonnet 37 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_038|Sonnet 38 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_039|Sonnet 39 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_040|Sonnet 40 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_042|Sonnet 42 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_043|Sonnet 43 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_044|Sonnet 44 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_045|Sonnet 45 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_046|Sonnet 46 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_047|Sonnet 47 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_048|Sonnet 48 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_051|Sonnet 51 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_052|Sonnet 52 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_053|Sonnet 53 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_056|Sonnet 56 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_061|Sonnet 61 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_071|Sonnet 71 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_072|Sonnet 72 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_075|Sonnet 75 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_076|Sonnet 76 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_087|Sonnet 87 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_088|Sonnet 88 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_089|Sonnet 89 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_090|Sonnet 90 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_091|Sonnet 91 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_092|Sonnet 92 (Shakespeare)]]
 - [[works/the-merchant-of-venice-(shakespeare)|THE MERCHANT OF VENICE (Shakespeare)]]
 - [[works/the-taming-of-the-shrew-(shakespeare)|THE TAMING OF THE SHREW (Shakespeare)]]
 - [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]

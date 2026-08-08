@@ -25,7 +25,7 @@ tags:
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/epigram|Epigram]], [[forms/satire|Satire]]
 **Settings:** [[settings/underworld-cave|Underworld Cave]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

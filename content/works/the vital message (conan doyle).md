@@ -45,7 +45,7 @@ tags:
 **Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/heaven-and-the-afterlife|Heaven and the Afterlife]], [[concepts/reason-and-rationalism|Reason and Rationalism]], [[concepts/death-and-love|Death and Love]], [[concepts/history|History]]
 **Motifs:** [[motifs/soul|Soul]], [[motifs/death|Death]], [[motifs/light-and-dark|Light and Dark]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/darwinism-(evolution)|Darwinism (Evolution)]]
-**Characters:** Christ
-**Archetypes:** Prophet
+**Characters:** [[characters/christ|Christ]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
 
 **Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

@@ -40,12 +40,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** Innocent, Great Mother
+**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/stars|Stars]], [[motifs/crown|Crown]], [[motifs/fire|Fire]], [[motifs/light-and-dark|Light and Dark]], [[motifs/flowers|Flowers]]
 **Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/joy|Joy]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/natural-order|Natural Order]]
 **Forms & Genres:** [[forms/hymn|Hymn]], [[forms/lyric|Lyric]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** Virgin Mary, Christ
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

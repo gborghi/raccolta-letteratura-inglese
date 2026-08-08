@@ -69,6 +69,6 @@ tags:
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/machine|Machine]], [[motifs/letters-and-writing|Letters and Writing]]
 **Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/reformation|Reformation]], [[historical-references/renaissance|Renaissance]], [[historical-references/industrial-revolution|Industrial Revolution]]
 **Settings:** [[settings/london|London]]
-**Archetypes:** Corrupt Official
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
 
 **Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

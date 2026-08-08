@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Christ Figure
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]]
 **Motifs:** [[motifs/cross|Cross]]
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/deception|Deception]], [[concepts/liberty-political-freedom|Liberty Political Freedom]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]

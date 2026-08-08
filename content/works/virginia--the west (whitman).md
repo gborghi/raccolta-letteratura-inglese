@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]]
 **Themes & Concepts:** [[concepts/union|Union]], [[concepts/war-and-its-cost|War and its Cost]]
 **Forms & Genres:** [[forms/allegory|Allegory]]

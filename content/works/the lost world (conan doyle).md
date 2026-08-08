@@ -61,6 +61,6 @@ tags:
 **Motifs:** [[motifs/journey|Journey]], [[concepts/nature|Nature]], [[motifs/animals|Animals]]
 **Historical References:** [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]]
 **Settings:** [[settings/mountains|Mountains]]
-**Characters:** Professor Challenger
-**Archetypes:** Quest Hero, Hero, Mentor
+**Characters:** [[characters/professor-challenger|Professor Challenger]]
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/hero|Hero]], [[archetypes/mentor|Mentor]]
 **Topoi:** [[topoi/quest|Quest]], [[topoi/journey-of-life|Journey of Life]]

@@ -48,36 +48,36 @@ tags:
 - [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 1010. Up Life's Hill with my little Bundle (Dickinson)
-- 1020. Trudging to Eden, looking backward, (Dickinson)
-- 1053. It was a quiet way — (Dickinson)
-- 107. 'Twas such a little — little boat (Dickinson)
-- 1103. The spry Arms of the Wind (Dickinson)
-- 1263. There is no Frigate like a Book (Dickinson)
-- 1450. The Road was lit with Moon and star — (Dickinson)
-- 1515. The Things that never can come back, are several — (Dickinson)
-- 1589. Cosmopolities without a plea (Dickinson)
-- 1656. Down Time's quaint stream (Dickinson)
-- 1664. I did not reach Thee (Dickinson)
-- 180. As if some little Arctic flower (Dickinson)
-- 190. He was weak, and I was strong — then — (Dickinson)
-- 207. Tho' I get home how late — how late — (Dickinson)
-- 344. 'Twas the old — road — through pain — (Dickinson)
-- 346. Not probable — The barest Chance — (Dickinson)
-- 363. I went to thank Her — (Dickinson)
-- 43. Could live — did live — (Dickinson)
-- 477. No Man can compass a Despair — (Dickinson)
-- 550. I cross till I am weary (Dickinson)
-- 647. A little Road — not made of Man — (Dickinson)
-- 661. Could I but ride indefinite (Dickinson)
-- 665. Dropped into the Ether Acre — (Dickinson)
-- 698. Life — is what we make of it — (Dickinson)
-- 7. The feet of people walking home (Dickinson)
-- 711. Strong Draughts of Their Refreshing Minds (Dickinson)
-- 712. Because I could not stop for Death — (Dickinson)
-- 761. From Blank to Blank — (Dickinson)
-- 875. I stepped from Plank to Plank (Dickinson)
-- 93. Went up a year this evening! (Dickinson)
+- [[testi/dickinson/atomized/faith-providence-divine-love#1010_up_lifes_hill_with_my_little_bundle|1010. Up Life's Hill with my little Bundle (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#1020_trudging_to_eden_looking_backward|1020. Trudging to Eden, looking backward, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1053_it_was_a_quiet_way|1053. It was a quiet way — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0107_twas_such_a_little_little_boat|107. 'Twas such a little — little boat (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1103_the_spry_arms_of_the_wind|1103. The spry Arms of the Wind (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1263_there_is_no_frigate_like_a_book|1263. There is no Frigate like a Book (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1450_the_road_was_lit_with_moon_and_star|1450. The Road was lit with Moon and star — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1515_the_things_that_never_can_come_back_are_several|1515. The Things that never can come back, are several — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1589_cosmopolities_without_a_plea|1589. Cosmopolities without a plea (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1656_down_times_quaint_stream|1656. Down Time's quaint stream (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1664_i_did_not_reach_thee|1664. I did not reach Thee (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0180_as_if_some_little_arctic_flower|180. As if some little Arctic flower (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0190_he_was_weak_and_i_was_strong_then|190. He was weak, and I was strong — then — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0207_tho_i_get_home_how_late_how_late|207. Tho' I get home how late — how late — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0344_twas_the_old_road_through_pain|344. 'Twas the old — road — through pain — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0346_not_probable_the_barest_chance|346. Not probable — The barest Chance — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0363_i_went_to_thank_her|363. I went to thank Her — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0043_could_live_did_live|43. Could live — did live — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0477_no_man_can_compass_a_despair|477. No Man can compass a Despair — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0550_i_cross_till_i_am_weary|550. I cross till I am weary (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0647_a_little_road_not_made_of_man|647. A little Road — not made of Man — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0661_could_i_but_ride_indefinite|661. Could I but ride indefinite (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0665_dropped_into_the_ether_acre|665. Dropped into the Ether Acre — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0698_life_is_what_we_make_of_it|698. Life — is what we make of it — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0007_the_feet_of_people_walking_home|7. The feet of people walking home (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0711_strong_draughts_of_their_refreshing_minds|711. Strong Draughts of Their Refreshing Minds (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0712_because_i_could_not_stop_for_death|712. Because I could not stop for Death — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0761_from_blank_to_blank|761. From Blank to Blank — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0875_i_stepped_from_plank_to_plank|875. I stepped from Plank to Plank (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0093_went_up_a_year_this_evening|93. Went up a year this evening! (Dickinson)]]
 - [[works/at-graduation-1905-(eliot)|At Graduation 1905 (Eliot)]]
 - [[works/ariel-poems-(eliot)|ARIEL POEMS (Eliot)]]
 - [[works/j,-k,-l-(eliot)|J, K, L (Eliot)]]
@@ -94,14 +94,14 @@ tags:
 - [[works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)|The Narrative of Arthur Gordon Pym of Nantucket (Poe)]]
 - [[works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)|The Unparalleled Adventures of one Hans Pfaall (Poe)]]
 - [[works/pericles-(shakespeare)|PERICLES (Shakespeare)]]
-- Sonnet 109 (Shakespeare)
-- Sonnet 117 (Shakespeare)
-- Sonnet 27 (Shakespeare)
-- Sonnet 44 (Shakespeare)
-- Sonnet 50 (Shakespeare)
-- Sonnet 51 (Shakespeare)
-- Sonnet 7 (Shakespeare)
-- Sonnet 97 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_109|Sonnet 109 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_117|Sonnet 117 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_027|Sonnet 27 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_044|Sonnet 44 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_050|Sonnet 50 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_051|Sonnet 51 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_007|Sonnet 7 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_097|Sonnet 97 (Shakespeare)]]
 - [[works/the-two-gentlemen-of-verona-(shakespeare)|THE TWO GENTLEMEN OF VERONA (Shakespeare)]]
 - [[works/aboard-at-a-ship’s-helm-(whitman)|Aboard at a Ship’s Helm (Whitman)]]
 - [[works/after-the-supper-and-talk-(whitman)|After the Supper and Talk (Whitman)]]

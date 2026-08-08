@@ -37,15 +37,15 @@ tags:
 
 Raccolta tematica di 18 componimenti di Walt Whitman.
 
-- A Child’s Amaze
+- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#128_a_child_s_amaze|A Child’s Amaze]]
 - [[works/a-riddle-song-(whitman)|A Riddle Song]]
-- An Ended Day
+- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#358_an_ended_day|An Ended Day]]
 - [[works/assurances-(whitman)|Assurances]]
 - [[works/beginning-my-studies-(whitman)|Beginning My Studies]]
 - [[works/earth,-my-likeness-(whitman)|Earth, My Likeness]]
 - [[works/gods-(whitman)|Gods]]
 - [[works/miracles-(whitman)|Miracles]]
-- Mother and Babe
+- [[testi/whitman/atomized/wonder-and-gratitude-sublime-storm#131_mother_and_babe|Mother and Babe]]
 - [[works/old-chants-(whitman)|Old Chants]]
 - [[works/patroling-barnegat-(whitman)|Patroling Barnegat]]
 - [[works/rise-o-days-from-your-fathomless-deeps-(whitman)|Rise O Days from Your Fathomless Deeps]]

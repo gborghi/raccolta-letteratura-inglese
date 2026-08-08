@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/childhood|Childhood]], [[motifs/storm|Storm]], [[motifs/sun|Sun]]
 **Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/melancholy|Melancholy]], [[concepts/identity|Identity]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/imagination|Imagination]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

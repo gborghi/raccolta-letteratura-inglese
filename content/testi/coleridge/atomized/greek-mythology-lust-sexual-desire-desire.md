@@ -34,7 +34,7 @@ Cupid, if storying Legends tell aright,
 Once fram’d a rich Elixir of Delight.  
 A Chalice o’er [[motifs/love|love]]-kindled flames he fix’d,  
 And in it Nectar and Ambrosia mix’d:  
-With these the [[Magic|magic]] dews which Evening brings,   5  
+With these the magic dews which Evening brings,   5  
 Brush’d from the Idalian star by faery wings:  
 Each tender pledge of sacred [[concepts/faith|Faith]] he join’d,  
 Each gentler Pleasure of th’ unspotted mind —  
@@ -130,12 +130,12 @@ I have my Brunton too.’
 <span class="atom-split" data-atom="106_the_silver_thimble" data-title="THE SILVER THIMBLE" data-chapter="" data-kind="intro"></span>
 
 
-THE PRODUCTION OF A YOUNG LADY, ADDRESSED TO THE AUTHOR OF THE [[Poems|POEMS]] ALLUDED TO IN THE PRECEDING EPISTLE  
+THE PRODUCTION OF A YOUNG LADY, ADDRESSED TO THE AUTHOR OF THE POEMS ALLUDED TO IN THE PRECEDING EPISTLE  
 She had lost her Silver Thimble, and her complaint being  
 accidentally overheard by him, her Friend, he immediately sent  
 her four others to take her choice of.  
 As oft mine eye with careless glance  
-Has gallop’d thro’ some old [[Romance|romance]],  
+Has gallop’d thro’ some old romance,  
 Of speaking [[motifs/birds|Birds]] and Steeds with wings,  
 Giants and Dwarfs, and Fiends and Kings;  
 Beyond the rest with more attentive care   5  

@@ -61,13 +61,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/marriage|Marriage]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/romantic-love|Romantic Love]], [[concepts/class-conflict|Class Conflict]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/satire-of-society|Satire of Society]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/pride|Pride]], [[concepts/deception|Deception]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** Emma Woodhouse, Mr Knightley, Harriet Smith, Frank Churchill, Jane Fairfax, Mr Elton, Robert Martin, Miss Bates
+**Characters:** [[characters/emma-woodhouse|Emma Woodhouse]], [[characters/mr-knightley|Mr Knightley]], [[characters/harriet-smith|Harriet Smith]], [[characters/frank-churchill|Frank Churchill]], [[characters/jane-fairfax|Jane Fairfax]], [[characters/mr-elton|Mr Elton]], [[characters/robert-martin|Robert Martin]], [[characters/miss-bates|Miss Bates]]
 
 ## Testo integrale / Full text
 

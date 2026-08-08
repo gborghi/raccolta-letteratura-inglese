@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/animals|Animals]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/joy|Joy]]
 **Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]]

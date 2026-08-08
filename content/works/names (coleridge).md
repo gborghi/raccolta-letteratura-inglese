@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/love|Love]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/epigram|Epigram]], [[forms/translation|Translation]]

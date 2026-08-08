@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/disillusionment|Disillusionment]], [[concepts/imagination|Imagination]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 

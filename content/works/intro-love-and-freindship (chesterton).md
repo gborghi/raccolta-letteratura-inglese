@@ -58,11 +58,11 @@ tags:
 
 **Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]
 
-**Archetypes:** Artist
+**Archetypes:** [[archetypes/artist|Artist]]
 
 **Motifs:** [[motifs/fire|Fire]], [[motifs/home|Home]]
 
-**Characters:** Elizabeth Bennet, Fanny Price, Laura, Sophia, Mr Bennet
+**Characters:** [[characters/elizabeth-bennet|Elizabeth Bennet]], [[characters/fanny-price|Fanny Price]], [[characters/laura|Laura]], [[characters/sophia|Sophia]], [[characters/mr-bennet|Mr Bennet]]
 
 **Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/imagination|Imagination]], [[concepts/joy|Joy]], [[concepts/satire-of-society|Satire of Society]], [[concepts/individualism|Individualism]], [[concepts/greatness|Greatness]], [[concepts/literary-criticism-(2)|Literary Criticism (2)]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/parody|Parody]], [[forms/epistolary-diary-novel|Epistolary Diary Novel]], [[forms/nonfiction|Nonfiction]]

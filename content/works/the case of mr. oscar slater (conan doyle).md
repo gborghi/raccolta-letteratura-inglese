@@ -46,5 +46,5 @@ tags:
 **Motifs:** [[motifs/secrets|Secrets]], [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/industrial-city|Industrial City]], [[settings/london|London]]
-**Characters:** Sir Arthur Conan Doyle
-**Archetypes:** Scapegoat
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]]
+**Archetypes:** [[archetypes/scapegoat|Scapegoat]]

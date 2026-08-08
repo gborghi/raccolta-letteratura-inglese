@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/fire|Fire]]
 **Themes & Concepts:** [[concepts/friendship|Friendship]], [[concepts/joy|Joy]], [[concepts/truth|Truth]]
 

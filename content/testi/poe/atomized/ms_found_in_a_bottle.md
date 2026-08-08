@@ -52,7 +52,7 @@ La mia [[concepts/imagination|immaginazione]] è stata considerata un crimine; e
 
 “La mia opinione mi ha sempre reso noto per le mie idee… Infatti…”
 
-Temo che un forte interesse per la [[philosophy|filosofia]] fisica abbia influenzato il mio modo di.
+Temo che un forte interesse per la filosofia fisica abbia influenzato il mio modo di.
 
 Titolo:  
 Un errore molto comune in questa epoca… intendo dire l’abitudine di…
@@ -299,7 +299,7 @@ Affondando nel mare torbido, i suoi fuochi centrali si spensero all’improvviso
 
 Spento, come se fosse stato spento in fretta da qualche forza inspiegabile…
 
-Era un bordo sottile, simile a una striscia, [[Alone|solitario]], mentre si precipitava verso il basso.
+Era un bordo sottile, simile a una striscia, solitario, mentre si precipitava verso il basso.
 
 Un oceano insondabile.
 
@@ -875,7 +875,7 @@ Tremendo, oh Dio!, e cadendo giù.
 
 
 
-NOTA: “[[Ms. Found in a Bottle|Il manoscritto trovato in una bottiglia]]” fu pubblicato originariamente in.
+NOTA: “Il manoscritto trovato in una bottiglia” fu pubblicato originariamente in.
 
 1831… e fu solo molti anni dopo che capii davvero
 
@@ -928,7 +928,7 @@ reproached with the aridity of my genius; a deficiency of
 
 of my opinions has at all times rendered me notorious. Indeed, a
 
-strong relish for physical [[philosophy]] has, I [[concepts/fear|fear]], tinctured my
+strong relish for physical philosophy has, I [[concepts/fear|fear]], tinctured my
 
 mind with a very common error of this age—I mean the habit of
 
@@ -1122,7 +1122,7 @@ La mia [[concepts/imagination|immaginazione]] è stata considerata un crimine; e
 
 “La mia opinione mi ha sempre reso noto per le mie idee… Infatti…”
 
-Temo che un forte interesse per la [[philosophy|filosofia]] fisica abbia influenzato il mio modo di.
+Temo che un forte interesse per la filosofia fisica abbia influenzato il mio modo di.
 
 Titolo:  
 Un errore molto comune in questa epoca… intendo dire l’abitudine di…
@@ -1371,7 +1371,7 @@ sinking within the turgid sea, its central fires suddenly went
 
 out, as if hurriedly extinguished by some unaccountable power. It
 
-was a dim, sliver-like rim, [[Alone|alone]], as it rushed down the
+was a dim, sliver-like rim, alone, as it rushed down the
 
 unfathomable ocean.
 
@@ -1547,7 +1547,7 @@ Affondando nel mare torbido, i suoi fuochi centrali si spensero all’improvviso
 
 Spento, come se fosse stato spento in fretta da qualche forza inspiegabile…
 
-Era un bordo sottile, simile a una striscia, [[Alone|solitario]], mentre si precipitava verso il basso.
+Era un bordo sottile, simile a una striscia, solitario, mentre si precipitava verso il basso.
 
 Un oceano insondabile.
 
@@ -1665,7 +1665,7 @@ sail in the very teeth of that [[motifs/supernatural|supernatural]] sea, and of 
 
 ungovernable hurricane. When we first discovered her, her bows
 
-were [[Alone|alone]] to be seen, as she [[motifs/rose|rose]] slowly from the dim and
+were alone to be seen, as she [[motifs/rose|rose]] slowly from the dim and
 
 horrible gulf beyond her. For a moment of intense terror she
 
@@ -2125,7 +2125,7 @@ continued her terrific course due south, with every rag of canvas
 
 packed upon her, from her trucks to her lower studding-sail
 
-booms, and [[rolling]] every moment her top-gallant yard-arms into
+booms, and rolling every moment her top-gallant yard-arms into
 
 the most appalling hell of [[motifs/water|water]] which it can enter into the mind
 
@@ -2527,7 +2527,7 @@ quivering—oh God! and—going down.
 
 
 
-NOTE.—The “[[Ms. Found in a Bottle|MS. Found in a Bottle]],” was originally published in
+NOTE.—The “MS. Found in a Bottle,” was originally published in
 
 1831, and it was not until many years afterwards that I became
 
@@ -2645,7 +2645,7 @@ Tremendo, oh Dio!, e cadendo giù.
 
 
 
-NOTA: “[[Ms. Found in a Bottle|Il manoscritto trovato in una bottiglia]]” fu pubblicato originariamente in.
+NOTA: “Il manoscritto trovato in una bottiglia” fu pubblicato originariamente in.
 
 1831… e fu solo molti anni dopo che capii davvero
 

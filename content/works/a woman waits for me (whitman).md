@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/marriage|Marriage]]
 **Themes & Concepts:** [[concepts/sexuality|Sexuality]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/body|Body]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

@@ -22,54 +22,54 @@ tags:
 - [[works/milesisches-mährchen-(coleridge)|MILESISCHES MÄHRCHEN (Coleridge)]]
 - [[works/the-rose-(coleridge)|THE ROSE (Coleridge)]]
 - [[works/to-asra-(coleridge)|TO ASRA (Coleridge)]]
-- 1053. It was a quiet way — (Dickinson)
-- 106. The Daisy follows soft the Sun — (Dickinson)
-- 1072. Title divine — is mine! (Dickinson)
-- 1160. He is alive, this morning — (Dickinson)
-- 1229. Because He loves Her (Dickinson)
-- 1237. My Heart ran so to thee (Dickinson)
-- 1260. Because that you are going (Dickinson)
-- 1297. Go slow, my soul, to feed thyself (Dickinson)
-- 1314. When a Lover is a Beggar (Dickinson)
-- 1386. Summer — we all have seen — (Dickinson)
-- 1398. I have no Life but this — (Dickinson)
-- 1445. Death is the supple Suitor (Dickinson)
-- 1496. All that I do (Dickinson)
-- 1555. I groped for him before I knew (Dickinson)
-- 1643. Extol thee — could I Then I will (Dickinson)
-- 1736. Proud of my broken heart, since thou didst break it, (Dickinson)
-- 1737. Rearrange a Wife's affection! (Dickinson)
-- 1771. How fleet — how indiscreet an one — (Dickinson)
-- 322. There came a Day at Summer's full, (Dickinson)
-- 336. The face I carry with me — last — (Dickinson)
-- 357. God is a distant — stately Lover — (Dickinson)
-- 387. The sweetest Heresy received (Dickinson)
-- 394. 'Twas Love — not me — (Dickinson)
-- 453. Love — thou art high — (Dickinson)
-- 463. I live with Him — I see His face — (Dickinson)
-- 464. The power to be true to You, (Dickinson)
-- 487. You love the Lord — you cannot see — (Dickinson)
-- 493. The World — stands — solemner — to me — (Dickinson)
-- 506. He touched me, so I live to know (Dickinson)
-- 535. She's happy, with a new Content — (Dickinson)
-- 549. That I did always love (Dickinson)
-- 573. The Test of Love — is Death — (Dickinson)
-- 625. 'Twas a long Parting — but the time (Dickinson)
-- 636. The Way I read a Letter's — this — (Dickinson)
-- 640. I cannot live with You — (Dickinson)
-- 648. Promise This — When You be Dying — (Dickinson)
-- 663. Again — his voice is at the door — (Dickinson)
-- 673. The Love a Life can show Below (Dickinson)
-- 694. The Heaven vests for Each (Dickinson)
-- 725. Where Thou art — that — is Home — (Dickinson)
-- 751. My Worthiness is all my Doubt — (Dickinson)
-- 788. Joy to have merited the Pain — (Dickinson)
-- 817. Given in Marriage unto Thee (Dickinson)
-- 869. Because the Bee may blameless hum (Dickinson)
-- 907. Till Death — is narrow Loving — (Dickinson)
-- 961. Wert Thou but ill — that I might show thee (Dickinson)
-- 966. All forgot for recollecting (Dickinson)
-- 968. Fitter to see Him, I may be (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1053_it_was_a_quiet_way|1053. It was a quiet way — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0106_the_daisy_follows_soft_the_sun|106. The Daisy follows soft the Sun — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1072_title_divine_is_mine|1072. Title divine — is mine! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1160_he_is_alive_this_morning|1160. He is alive, this morning — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1229_because_he_loves_her|1229. Because He loves Her (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1237_my_heart_ran_so_to_thee|1237. My Heart ran so to thee (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1260_because_that_you_are_going|1260. Because that you are going (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1297_go_slow_my_soul_to_feed_thyself|1297. Go slow, my soul, to feed thyself (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1314_when_a_lover_is_a_beggar|1314. When a Lover is a Beggar (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1386_summer_we_all_have_seen|1386. Summer — we all have seen — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1398_i_have_no_life_but_this|1398. I have no Life but this — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1445_death_is_the_supple_suitor|1445. Death is the supple Suitor (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1496_all_that_i_do|1496. All that I do (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1555_i_groped_for_him_before_i_knew|1555. I groped for him before I knew (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1643_extol_thee_could_i_then_i_will|1643. Extol thee — could I Then I will (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#1736_proud_of_my_broken_heart_since_thou_didst_break_it|1736. Proud of my broken heart, since thou didst break it, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1737_rearrange_a_wifes_affection|1737. Rearrange a Wife's affection! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1771_how_fleet_how_indiscreet_an_one|1771. How fleet — how indiscreet an one — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0322_there_came_a_day_at_summers_full|322. There came a Day at Summer's full, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0336_the_face_i_carry_with_me_last|336. The face I carry with me — last — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0357_god_is_a_distant_stately_lover|357. God is a distant — stately Lover — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0387_the_sweetest_heresy_received|387. The sweetest Heresy received (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0394_twas_love_not_me|394. 'Twas Love — not me — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0453_love_thou_art_high|453. Love — thou art high — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0463_i_live_with_him_i_see_his_face|463. I live with Him — I see His face — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0464_the_power_to_be_true_to_you|464. The power to be true to You, (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0487_you_love_the_lord_you_cannot_see|487. You love the Lord — you cannot see — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0493_the_world_stands_solemner_to_me|493. The World — stands — solemner — to me — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0506_he_touched_me_so_i_live_to_know|506. He touched me, so I live to know (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0535_shes_happy_with_a_new_content|535. She's happy, with a new Content — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0549_that_i_did_always_love|549. That I did always love (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0573_the_test_of_love_is_death|573. The Test of Love — is Death — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0625_twas_a_long_parting_but_the_time|625. 'Twas a long Parting — but the time (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0636_the_way_i_read_a_letters_this|636. The Way I read a Letter's — this — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0640_i_cannot_live_with_you|640. I cannot live with You — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0648_promise_this_when_you_be_dying|648. Promise This — When You be Dying — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0663_again_his_voice_is_at_the_door|663. Again — his voice is at the door — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0673_the_love_a_life_can_show_below|673. The Love a Life can show Below (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0694_the_heaven_vests_for_each|694. The Heaven vests for Each (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0725_where_thou_art_that_is_home|725. Where Thou art — that — is Home — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0751_my_worthiness_is_all_my_doubt|751. My Worthiness is all my Doubt — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0788_joy_to_have_merited_the_pain|788. Joy to have merited the Pain — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0817_given_in_marriage_unto_thee|817. Given in Marriage unto Thee (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0869_because_the_bee_may_blameless_hum|869. Because the Bee may blameless hum (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0907_till_death_is_narrow_loving|907. Till Death — is narrow Loving — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0961_wert_thou_but_ill_that_i_might_show_thee|961. Wert Thou but ill — that I might show thee (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0966_all_forgot_for_recollecting|966. All forgot for recollecting (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0968_fitter_to_see_him_i_may_be|968. Fitter to see Him, I may be (Dickinson)]]
 - [[works/lamia-(keats)|Lamia (Keats)]]
 - [[works/ode-to-fanny-(keats)|Ode to Fanny (Keats)]]
 - [[works/song-the-stranger-lighted-from-his-steed-(keats)|Song The stranger lighted from his steed (Keats)]]
@@ -88,18 +88,18 @@ tags:
 - [[works/to-marie-louise-(shew)-(poe)|To Marie Louise (shew) (Poe)]]
 - [[works/love’s-labour’s-lost-(shakespeare)|LOVE’S LABOUR’S LOST (Shakespeare)]]
 - [[works/romeo-and-juliet-(shakespeare)|ROMEO AND JULIET (Shakespeare)]]
-- Sonnet 105 (Shakespeare)
-- Sonnet 108 (Shakespeare)
-- Sonnet 110 (Shakespeare)
-- Sonnet 116 (Shakespeare)
-- Sonnet 132 (Shakespeare)
-- Sonnet 149 (Shakespeare)
-- Sonnet 26 (Shakespeare)
-- Sonnet 27 (Shakespeare)
-- Sonnet 29 (Shakespeare)
-- Sonnet 31 (Shakespeare)
-- Sonnet 57 (Shakespeare)
-- Sonnet 58 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_105|Sonnet 105 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_108|Sonnet 108 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_110|Sonnet 110 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_116|Sonnet 116 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_132|Sonnet 132 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_149|Sonnet 149 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_026|Sonnet 26 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_027|Sonnet 27 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_029|Sonnet 29 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_031|Sonnet 31 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_057|Sonnet 57 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_058|Sonnet 58 (Shakespeare)]]
 - [[works/the-merchant-of-venice-(shakespeare)|THE MERCHANT OF VENICE (Shakespeare)]]
 - [[works/twelfth-night-(shakespeare)|TWELFTH NIGHT (Shakespeare)]]
 - [[works/scented-herbage-of-my-breast-(whitman)|Scented Herbage of My Breast (Whitman)]]

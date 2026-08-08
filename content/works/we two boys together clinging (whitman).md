@@ -22,7 +22,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]
-**Archetypes:** Rebel
+**Archetypes:** [[archetypes/rebel|Rebel]]
 **Themes & Concepts:** [[concepts/comradeship|Comradeship]], [[concepts/romantic-love|Romantic Love]], [[concepts/body|Body]]
 
 ## Testo integrale / Full text

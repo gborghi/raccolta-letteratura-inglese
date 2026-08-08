@@ -28,7 +28,7 @@ tags:
 **Motifs:** [[motifs/death|Death]], [[motifs/bells|Bells]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/lyric|Lyric]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

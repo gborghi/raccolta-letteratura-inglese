@@ -27,7 +27,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** Prophet, Hero
+**Archetypes:** [[archetypes/prophet|Prophet]], [[archetypes/hero|Hero]]
 **Motifs:** [[motifs/river|River]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/hexameter-verse|Hexameter Verse]], [[forms/fragment|Fragment]]

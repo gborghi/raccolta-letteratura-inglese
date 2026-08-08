@@ -46,7 +46,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Wise Old Man Sage, Child
+**Archetypes:** [[archetypes/wise-old-man-sage|Wise Old Man Sage]], [[archetypes/child|Child]]
 
 **Topoi:** [[topoi/quest|Quest]]
 
@@ -54,7 +54,7 @@ tags:
 **Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/faith|Faith]], [[concepts/truth|Truth]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/pride|Pride]], [[concepts/paradox|Paradox]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/hymn|Hymn]]
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/greek-mythology|Greek Mythology]]
-**Characters:** Christ, Magi
+**Characters:** [[characters/christ|Christ]], [[characters/magi|Magi]]
 
 ## Testo integrale / Full text
 

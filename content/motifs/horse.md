@@ -26,23 +26,23 @@ tags:
 - [[works/nightmare-(chesterton)|nightmare (Chesterton)]]
 - [[works/alice-du-clos-or-the-forked-tongue-(coleridge)|ALICE DU CLOS OR THE FORKED TONGUE (Coleridge)]]
 - [[works/a-child's-history-of-england-(dickens)|A Child's History of England (Dickens)]]
-- 1150. How many schemes may die (Dickinson)
-- 1252. Like Brooms of Steel (Dickinson)
-- 1254. Elijah's Wagon knew no thill (Dickinson)
-- 1263. There is no Frigate like a Book (Dickinson)
-- 1285. I know Suspense — it steps so terse (Dickinson)
-- 1297. Go slow, my soul, to feed thyself (Dickinson)
-- 1535. The Life that tied too tight escapes (Dickinson)
-- 166. I met a King this afternoon! (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1150_how_many_schemes_may_die|1150. How many schemes may die (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1252_like_brooms_of_steel|1252. Like Brooms of Steel (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1254_elijahs_wagon_knew_no_thill|1254. Elijah's Wagon knew no thill (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1263_there_is_no_frigate_like_a_book|1263. There is no Frigate like a Book (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1285_i_know_suspense_it_steps_so_terse|1285. I know Suspense — it steps so terse (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1297_go_slow_my_soul_to_feed_thyself|1297. Go slow, my soul, to feed thyself (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1535_the_life_that_tied_too_tight_escapes|1535. The Life that tied too tight escapes (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0166_i_met_a_king_this_afternoon|166. I met a King this afternoon! (Dickinson)]]
 - [[works/coriolan-(eliot)|Coriolan (Eliot)]]
 - [[works/ix-son-of-man,-behold-with-thine-eyes,-and-hear-with-thine-ears-(eliot)|IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot)]]
 - [[works/journey-of-the-magi-(eliot)|Journey of the Magi (Eliot)]]
 - [[works/a-galloway-song-(keats)|A Galloway Song (Keats)]]
 - [[works/king-stephen-(keats)|King Stephen (Keats)]]
 - [[works/metzengerstein-(poe)|Metzengerstein (Poe)]]
-- Sonnet 50 (Shakespeare)
-- Sonnet 51 (Shakespeare)
-- Sonnet 91 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_050|Sonnet 50 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_051|Sonnet 51 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_091|Sonnet 91 (Shakespeare)]]
 - [[works/the-two-noble-kinsmen-(shakespeare)|THE TWO NOBLE KINSMEN (Shakespeare)]]
 - [[works/venus-and-adonis-(shakespeare)|VENUS AND ADONIS (Shakespeare)]]
 - [[works/an-army-corps-on-the-march-(whitman)|An Army Corps on the March (Whitman)]]

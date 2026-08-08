@@ -64,13 +64,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/all-the-world's-a-stage|All the World's a Stage]], [[topoi/world-upside-down|World Upside Down]], [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Fool, Antihero, Trickster, Lover
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/antihero|Antihero]], [[archetypes/trickster|Trickster]], [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/hands-hand-in-hand|Hands Hand in Hand]], [[motifs/city|City]], [[motifs/blood|Blood]], [[motifs/clock|Clock]], [[motifs/death|Death]], [[motifs/marriage|Marriage]], [[motifs/night|Night]], [[motifs/river|River]]
 **Themes & Concepts:** [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/satire-of-society|Satire of Society]], [[concepts/conscience|Conscience]], [[concepts/honour|Honour]], [[concepts/guilt|Guilt]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]], [[forms/comedy|Comedy]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]], [[settings/venice|Venice]], [[settings/europe|Europe]]
-**Characters:** Lord Arthur Savile, Mr Podgers, Sybil Merton, Lady Clementina Beauchamp, Lady Windermere
+**Characters:** [[characters/lord-arthur-savile|Lord Arthur Savile]], [[characters/mr-podgers|Mr Podgers]], [[characters/sybil-merton|Sybil Merton]], [[characters/lady-clementina-beauchamp|Lady Clementina Beauchamp]], [[characters/lady-windermere|Lady Windermere]]
 
 ## Testo integrale / Full text
 

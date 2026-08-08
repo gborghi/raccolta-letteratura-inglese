@@ -31,13 +31,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** Antihero
+**Archetypes:** [[archetypes/antihero|Antihero]]
 **Motifs:** [[motifs/time|Time]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/disillusionment|Disillusionment]], [[concepts/self-knowledge|Self-Knowledge]]
 **Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]], [[forms/free-verse|Free Verse]]
 **Historical References:** [[historical-references/dante|Dante]]
 **Settings:** [[settings/modern-metropolis|Modern Metropolis]]
-**Characters:** Hamlet, J. Alfred Prufrock
+**Characters:** [[characters/hamlet|Hamlet]], [[characters/j.-alfred-prufrock|J. Alfred Prufrock]]
 
 ## Testo integrale / Full text
 

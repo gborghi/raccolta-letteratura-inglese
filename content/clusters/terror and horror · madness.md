@@ -16,17 +16,17 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1062. He scanned it — staggered — (Dickinson)
-- 1225. Its Hour with itself (Dickinson)
-- 1284. Had we our senses (Dickinson)
-- 1727. If ever the lid gets off my head (Dickinson)
-- 410. The first Day's Night had come — (Dickinson)
-- 435. Much Madness is divinest Sense — (Dickinson)
-- 512. The Soul has Bandaged moments — (Dickinson)
-- 556. The Brain, within its Groove (Dickinson)
-- 565. One Anguish — in a Crowd — (Dickinson)
-- 590. Did you ever stand in a Cavern's Mouth — (Dickinson)
-- 609. I Years had been from Home (Dickinson)
+- [[testi/dickinson/atomized/terror-and-horror-madness#1062_he_scanned_it_staggered|1062. He scanned it — staggered — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1225_its_hour_with_itself|1225. Its Hour with itself (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1284_had_we_our_senses|1284. Had we our senses (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1727_if_ever_the_lid_gets_off_my_head|1727. If ever the lid gets off my head (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0410_the_first_days_night_had_come|410. The first Day's Night had come — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0435_much_madness_is_divinest_sense|435. Much Madness is divinest Sense — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0512_the_soul_has_bandaged_moments|512. The Soul has Bandaged moments — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0556_the_brain_within_its_groove|556. The Brain, within its Groove (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0565_one_anguish_in_a_crowd|565. One Anguish — in a Crowd — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0590_did_you_ever_stand_in_a_caverns_mouth|590. Did you ever stand in a Cavern's Mouth — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0609_i_years_had_been_from_home|609. I Years had been from Home (Dickinson)]]
 - [[works/a-dungeon-(coleridge)|A DUNGEON (Coleridge)]]
 - [[works/berenice-(poe)|Berenice (Poe)]]
 - [[works/hysteria-(eliot)|Hysteria (Eliot)]]

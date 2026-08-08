@@ -73,13 +73,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]]
-**Archetypes:** Villain, Outsider, Tragic Hero, Innocent, Shadow
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/outsider|Outsider]], [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/innocent|Innocent]], [[archetypes/shadow|Shadow]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/death|Death]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/light-and-dark|Light and Dark]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/jealousy|Jealousy]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/alienation|Alienation]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/revenge|Revenge]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/pride|Pride]], [[concepts/guilt|Guilt]], [[concepts/mortality|Mortality]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/orient-arabia|Orient Arabia]]
 **Settings:** [[settings/venice|Venice]], [[settings/court|Court]], [[settings/europe|Europe]]
-**Characters:** Othello, Iago, Desdemona, Cassio, Emilia, Roderigo, Brabantio, Bianca
+**Characters:** [[characters/othello|Othello]], [[characters/iago|Iago]], [[characters/desdemona|Desdemona]], [[characters/cassio|Cassio]], [[characters/emilia|Emilia]], [[characters/roderigo|Roderigo]], [[characters/brabantio|Brabantio]], [[characters/bianca|Bianca]]
 
 ## Testo integrale / Full text
 

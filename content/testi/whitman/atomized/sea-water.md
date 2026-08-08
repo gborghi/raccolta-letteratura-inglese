@@ -17,7 +17,7 @@ tags:
 _Cluster: CHILDREN OF ADAM_  
 
 
-Out of the [[rolling]] ocean the crowd came a drop gently to me,  
+Out of the rolling ocean the crowd came a drop gently to me,  
 Whispering I [[motifs/love|love]] you, before long I die,  
 I have travel’d a long way merely to look on you to touch you,  
 For I could not die till I once look’d on you,  
@@ -50,7 +50,7 @@ Out of the cradle endlessly rocking,
 Out of the mocking-bird’s throat, the musical shuttle,  
 Out of the Ninth-month midnight,  
 Over the sterile sands and the fields beyond, where the [[archetypes/child|child]]  
-leaving his bed wander’d [[Alone|alone]], bareheaded, barefoot,  
+leaving his bed wander’d alone, bareheaded, barefoot,  
 Down from the shower’d halo,  
 Up from the mystic play of shadows twining and twisting as if they  
 were alive,  
@@ -201,7 +201,7 @@ O troubled reflection in the sea!
 O throat! O throbbing heart!  
 And I singing uselessly, uselessly all the [[motifs/night|night]].  
 
-O past! O happy life! O [[songs]] of joy!  
+O past! O happy life! O songs of joy!  
 In the air, in the woods, over fields,  
 Loved! loved! loved! loved! loved!  
 But my mate no more, no more with me!  
@@ -229,7 +229,7 @@ Demon or bird! (said the boy’s [[motifs/soul|soul]],)
 Is it indeed toward your mate you sing? or is it really to me?  
 For I, that was a [[archetypes/child|child]], my tongue’s use sleeping, now I have heard you,  
 Now in a moment I know what I am for, I awake,  
-And already a thousand singers, a thousand [[songs]], clearer, louder  
+And already a thousand singers, a thousand songs, clearer, louder  
 and more sorrowful than yours,  
 A thousand warbling echoes have started to life within me, never to die.  
 
@@ -263,12 +263,12 @@ Creeping thence steadily up to my ears and laving me softly all over,
 [[motifs/death|Death]], [[motifs/death|death]], [[motifs/death|death]], [[motifs/death|death]], [[motifs/death|death]].  
 
 Which I do not forget.  
-But fuse the [[Song|song]] of my dusky demon and brother,  
+But fuse the song of my dusky demon and brother,  
 That he sang to me in the moonlight on Paumanok’s gray beach,  
-With the thousand responsive [[songs]] at random,  
-My own [[songs]] awaked from that hour,  
+With the thousand responsive songs at random,  
+My own songs awaked from that hour,  
 And with them the key, the word up from the waves,  
-The word of the sweetest [[Song|song]] and all [[songs]],  
+The word of the sweetest song and all songs,  
 That strong and delicious word which, creeping to my feet,  
 (Or like some old [[archetypes/crone|crone]] rocking the cradle, swathed in sweet  
 garments, bending aside,)  
@@ -351,7 +351,7 @@ As consequent from store of [[motifs/summer|summer]] rains,
 Or wayward rivulets in [[motifs/autumn|autumn]] flowing,
 Or many a herb-lined brook’s reticulations,
 Or subterranean sea-rills making for the sea,
-[[songs|Songs]] of continued years I sing.
+Songs of continued years I sing.
 
 Life’s ever-modern rapids first, (soon, soon to blend,
 With the old streams of [[motifs/death|death]].)
@@ -384,7 +384,7 @@ the prairies,
 Whisper’d reverberations, chords for the ear of the West joyously sounding,
 Your tidings old, yet ever new and untranslatable,
 Infinitesimals out of my life, and many a life,
-(For not my life and years [[Alone|alone]] I give--all, all I give,)
+(For not my life and years alone I give--all, all I give,)
 These waifs from the deep, cast high and dry,
 Wash’d on [[settings/america|America]]’s shores?
 
@@ -530,8 +530,8 @@ On for your [[motifs/time|time]], ye furious debouche!
 
 [V]  And Yet Not You [[works/alone-(poe)|Alone]]  
 
-And yet not you [[Alone|alone]], twilight and burying ebb,  
-Nor you, ye lost designs [[Alone|alone]]--nor failures, aspirations;  
+And yet not you alone, twilight and burying ebb,  
+Nor you, ye lost designs alone--nor failures, aspirations;  
 I know, divine deceitful ones, your glamour’s seeming;  
 Duly by you, from you, the tide and light again--duly the hinges turning,  
 Duly the needed discord-parts offsetting, blending,  
@@ -557,7 +557,7 @@ Flaunting from many a spar the [[motifs/flag|flag]] I [[motifs/love|love]].
 
 By that long scan of waves, myself call’d back, resumed upon myself,  
 In every crest some undulating light or shade--some retrospect,  
-Joys, travels, studies, silent panoramas--scenes [[ephemeral]],  
+Joys, travels, studies, silent panoramas--scenes ephemeral,  
 The long past war, the battles, hospital sights, the wounded and the dead,  
 Myself through every by-gone phase--my idle youth--old age at hand,  
 My three-score years of life summ’d up, and more, and past,  
@@ -573,7 +573,7 @@ Like one of yours, ye multitudinous ocean.
 Then last of all, caught from these shores, this [[motifs/hill|hill]],  
 Of you O tides, the mystic human meaning:  
 Only by law of you, your swell and ebb, enclosing me the same,  
-The brain that shapes, the voice that chants this [[Song|song]].  
+The brain that shapes, the voice that chants this song.  
 
 
 
@@ -592,7 +592,7 @@ Far back, related on my mother’s side,
 Old Salt Kossabone, I’ll tell you how he died:  
 (Had been a sailor all his life--was nearly 90--lived with his  
 married grandchild, Jenny;  
-[[house|House]] on a [[motifs/hill|hill]], with view of bay at hand, and distant cape, and  
+House on a [[motifs/hill|hill]], with view of bay at hand, and distant cape, and  
 stretch to open sea;)  
 The last of afternoons, the evening hours, for many a year his  
 regular custom,  

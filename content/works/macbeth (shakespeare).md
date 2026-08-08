@@ -102,12 +102,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/world-upside-down|World Upside Down]], [[topoi/great-chain-of-being|Great Chain of Being]], [[topoi/sleeper-awakes|Sleeper Awakes]]
-**Archetypes:** Tyrant, Usurper, Tragic Hero, Witch Enchantress, Prophet, Ghost, Femme Fatale
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/usurper|Usurper]], [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/witch-enchantress|Witch Enchantress]], [[archetypes/prophet|Prophet]], [[archetypes/ghost|Ghost]], [[archetypes/femme-fatale|Femme Fatale]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/death|Death]], [[motifs/supernatural|Supernatural]], [[motifs/ghosts|Ghosts]], [[motifs/sleep|Sleep]], [[motifs/night|Night]], [[motifs/light-and-dark|Light and Dark]], [[motifs/madness-(2)|Madness (2)]], [[motifs/crown|Crown]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/ambition|Ambition]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/natural-order|Natural Order]], [[concepts/madness|Madness]], [[concepts/mortality|Mortality]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/temptation|Temptation]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/castle|Castle]], [[settings/court|Court]]
-**Characters:** Macbeth, Lady Macbeth, Banquo, Macduff, Duncan, Malcolm, Three Witches, Lady Macduff
+**Characters:** [[characters/macbeth|Macbeth]], [[characters/lady-macbeth|Lady Macbeth]], [[characters/banquo|Banquo]], [[characters/macduff|Macduff]], [[characters/duncan|Duncan]], [[characters/malcolm|Malcolm]], [[characters/three-witches|Three Witches]], [[characters/lady-macduff|Lady Macduff]]
 
 ## Testo integrale / Full text
 

@@ -63,23 +63,23 @@ tags:
 - [[works/to-two-sisters-mary-morgan-and-charlotte-brent-(coleridge)|TO TWO SISTERS MARY MORGAN AND CHARLOTTE BRENT (Coleridge)]]
 - [[works/to-william-wordsworth-composed-on-the-night-after-his-recitation-of-a-poem-on-the-growth-of-an-individual-mind|TO WILLIAM WORDSWORTH COMPOSED ON THE NIGHT AFTER HIS RECITATION OF A POEM ON THE GROWTH OF AN INDIVIDUAL MIND]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 1156. Lest any doubt that we are glad that they were born Today (Dickinson)
-- 118. My friend attacks my friend! (Dickinson)
-- 14. One Sister have I in our house, (Dickinson)
-- 1568. To see her is a Picture — (Dickinson)
-- 196. We don't cry — Tim and I, (Dickinson)
-- 2. There is another sky (Dickinson)
-- 205. I should not dare to leave my friend, (Dickinson)
-- 218. Is it true, dear Sue (Dickinson)
-- 222. When Katie walks, this simple pair accompany her side, (Dickinson)
-- 23. I had a guinea golden — (Dickinson)
-- 372. I know lives, I could miss (Dickinson)
-- 5. I have a Bird in spring (Dickinson)
-- 521. Endow the Living — with the Tears — (Dickinson)
-- 548. Death is potential to that Man (Dickinson)
-- 586. We talked as Girls do — (Dickinson)
-- 711. Strong Draughts of Their Refreshing Minds (Dickinson)
-- 715. The World — feels Dusty (Dickinson)
+- [[testi/dickinson/atomized/friendship-tears#1156_lest_any_doubt_that_we_are_glad_that_they_were_born_today|1156. Lest any doubt that we are glad that they were born Today (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0118_my_friend_attacks_my_friend|118. My friend attacks my friend! (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0014_one_sister_have_i_in_our_house|14. One Sister have I in our house, (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#1568_to_see_her_is_a_picture|1568. To see her is a Picture — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0196_we_dont_cry_tim_and_i|196. We don't cry — Tim and I, (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0002_there_is_another_sky|2. There is another sky (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0205_i_should_not_dare_to_leave_my_friend|205. I should not dare to leave my friend, (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0218_is_it_true_dear_sue|218. Is it true, dear Sue (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0222_when_katie_walks_this_simple_pair_accompany_her_side|222. When Katie walks, this simple pair accompany her side, (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0023_i_had_a_guinea_golden|23. I had a guinea golden — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0372_i_know_lives_i_could_miss|372. I know lives, I could miss (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0005_i_have_a_bird_in_spring|5. I have a Bird in spring (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0521_endow_the_living_with_the_tears|521. Endow the Living — with the Tears — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0548_death_is_potential_to_that_man|548. Death is potential to that Man (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0586_we_talked_as_girls_do|586. We talked as Girls do — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0711_strong_draughts_of_their_refreshing_minds|711. Strong Draughts of Their Refreshing Minds (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0715_the_world_feels_dusty|715. The World — feels Dusty (Dickinson)]]
 - [[works/acrostic-(keats)|Acrostic (Keats)]]
 - [[works/addressed-to-haydon-(keats)|ADDRESSED TO HAYDON (Keats)]]
 - [[works/epistle-to-john-hamilton-reynolds-(keats)|Epistle to John Hamilton Reynolds (Keats)]]
@@ -98,15 +98,15 @@ tags:
 - [[works/to-some-ladies-(keats)|TO SOME LADIES (Keats)]]
 - [[works/written-on-the-day-that-mr.-leigh-hunt-left-prison-(keats)|WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON (Keats)]]
 - [[works/cardenio---a-brief-account-(shakespeare)|CARDENIO - A BRIEF ACCOUNT (Shakespeare)]]
-- Sonnet 112 (Shakespeare)
-- Sonnet 133 (Shakespeare)
-- Sonnet 134 (Shakespeare)
-- Sonnet 30 (Shakespeare)
-- Sonnet 37 (Shakespeare)
-- Sonnet 42 (Shakespeare)
-- Sonnet 82 (Shakespeare)
-- Sonnet 85 (Shakespeare)
-- Sonnet 88 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_112|Sonnet 112 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_133|Sonnet 133 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_134|Sonnet 134 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_030|Sonnet 30 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_037|Sonnet 37 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_042|Sonnet 42 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_082|Sonnet 82 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_085|Sonnet 85 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_088|Sonnet 88 (Shakespeare)]]
 - [[works/the-merchant-of-venice-(shakespeare)|THE MERCHANT OF VENICE (Shakespeare)]]
 - [[works/the-two-gentlemen-of-verona-(shakespeare)|THE TWO GENTLEMEN OF VERONA (Shakespeare)]]
 - [[works/the-two-noble-kinsmen-(shakespeare)|THE TWO NOBLE KINSMEN (Shakespeare)]]

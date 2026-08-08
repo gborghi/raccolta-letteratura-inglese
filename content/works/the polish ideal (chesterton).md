@@ -55,12 +55,12 @@ tags:
 **Settings:** [[settings/poland|Poland]], [[settings/europe|Europe]]
 
 **Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/war-as-glory|War as Glory]]
-**Archetypes:** Hero, Cavalier
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/cavalier|Cavalier]]
 **Motifs:** [[motifs/horse|Horse]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/honour|Honour]], [[concepts/faith|Faith]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/providence|Providence]], [[concepts/paradox|Paradox]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/travel-writing|Travel Writing]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/puritanism|Puritanism]], [[historical-references/polish-soviet-war|Polish-Soviet War]]
-**Characters:** Don Quixote, Sergius, Bluntzschli
+**Characters:** [[characters/don-quixote|Don Quixote]], [[characters/sergius|Sergius]], [[characters/bluntzschli|Bluntzschli]]
 
 ## Testo integrale / Full text
 

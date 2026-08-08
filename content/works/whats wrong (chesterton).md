@@ -64,11 +64,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Common Man (2)
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
 **Motifs:** [[motifs/home|Home]], [[motifs/insects|Insects]], [[motifs/machine|Machine]]
 
-**Characters:** Jones, Hudge, Gudge, Mrs. Grundy, [[historical-references/george-bernard-shaw|George Bernard Shaw]]
+**Characters:** [[characters/jones|Jones]], [[characters/hudge|Hudge]], [[characters/gudge|Gudge]], [[characters/mrs.-grundy|Mrs. Grundy]], [[historical-references/george-bernard-shaw|George Bernard Shaw]]
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 **Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/social-injustice|Social Injustice]], [[concepts/common-man|Common Man]], [[concepts/reform|Reform]], [[concepts/education|Education]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/satire-of-society|Satire of Society]], [[concepts/class-conflict|Class Conflict]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/feminism|Feminism]], [[concepts/family|Family]], [[concepts/socialism|Socialism]], [[concepts/economics|Economics]], [[concepts/history|History]]

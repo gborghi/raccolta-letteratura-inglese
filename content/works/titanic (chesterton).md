@@ -55,11 +55,11 @@ tags:
 
 **Historical References:** [[historical-references/suffragette-movement|Suffragette Movement]]
 
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Characters:** Sylvia Pankhurst, W. T. Stead
+**Characters:** [[characters/sylvia-pankhurst|Sylvia Pankhurst]], [[characters/w.-t.-stead|W. T. Stead]]
 
 **Motifs:** [[motifs/ship|Ship]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/satire-of-society|Satire of Society]], [[concepts/class-conflict|Class Conflict]], [[concepts/mortality|Mortality]], [[concepts/heroism|Heroism]], [[concepts/equality-in-death|Equality in Death]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/democracy|Democracy]], [[concepts/comradeship|Comradeship]], [[concepts/conscience|Conscience]], [[concepts/courage|Courage]], [[concepts/economics|Economics]]

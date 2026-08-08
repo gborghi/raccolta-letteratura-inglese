@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/eternal-return|Eternal Return]]
-**Archetypes:** Pilgrim
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 **Motifs:** [[motifs/journey|Journey]], [[motifs/seasons|Seasons]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 **Settings:** [[settings/america|America]]

@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/death|Death]], [[motifs/autumn|Autumn]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/war-and-its-cost|War and its Cost]]
 **Forms & Genres:** [[forms/elegy|Elegy]]

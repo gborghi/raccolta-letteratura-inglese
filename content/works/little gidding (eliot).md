@@ -41,7 +41,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/eternal-return|Eternal Return]]
-**Archetypes:** Ghost, Double Doppelganger
+**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/double-doppelganger|Double Doppelganger]]
 **Motifs:** [[motifs/fire|Fire]], [[motifs/rose|Rose]], [[motifs/dust|Dust]], [[motifs/winter|Winter]]
 **Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/memory-and-time|Memory and Time]], [[concepts/providence|Providence]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

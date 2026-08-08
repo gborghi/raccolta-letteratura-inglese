@@ -56,9 +56,9 @@ tags:
 
 **Motifs:** [[motifs/marriage|Marriage]]
 
-**Characters:** Mr Wickham, Elizabeth Bennet, Mr Darcy, Jane Bennet, Lydia Bennet, Emma Woodhouse
+**Characters:** [[characters/mr-wickham|Mr Wickham]], [[characters/elizabeth-bennet|Elizabeth Bennet]], [[characters/mr-darcy|Mr Darcy]], [[characters/jane-bennet|Jane Bennet]], [[characters/lydia-bennet|Lydia Bennet]], [[characters/emma-woodhouse|Emma Woodhouse]]
 
-**Archetypes:** Corrupt Official, Trickster, Tyrant
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/trickster|Trickster]], [[archetypes/tyrant|Tyrant]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/truth|Truth]], [[concepts/democracy|Democracy]], [[concepts/power-of-language|Power of Language]], [[concepts/feminism-and-the-new-woman|Feminism and the New Woman]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 

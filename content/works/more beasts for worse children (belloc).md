@@ -44,5 +44,5 @@ tags:
 **Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/parody|Parody]]
 **Themes & Concepts:** [[concepts/nonsense|Nonsense]], [[concepts/childhood-and-growth|Childhood And Growth]], [[concepts/satire-of-society|Satire of Society]]
 **Motifs:** [[motifs/animals|Animals]], [[motifs/insects|Insects]]
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]

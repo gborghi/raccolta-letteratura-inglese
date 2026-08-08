@@ -47,7 +47,7 @@ tags:
 
 **Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/battle-of-bannockburn|Battle of Bannockburn]]
 
-**Archetypes:** Common Man (2)
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/memento-mori|Memento Mori]]
 **Motifs:** [[motifs/road|Road]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/flowers|Flowers]], [[motifs/rose|Rose]], [[motifs/grave|Grave]]

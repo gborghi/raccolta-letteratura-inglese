@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Prophetess Seer
+**Archetypes:** [[archetypes/prophetess-seer|Prophetess Seer]]
 **Motifs:** [[motifs/seasons|Seasons]], [[motifs/spring|Spring]], [[motifs/dust|Dust]], [[motifs/supernatural|Supernatural]], [[motifs/city|City]]
 **Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/memory-and-time|Memory and Time]]
 **Historical References:** [[historical-references/dante|Dante]]

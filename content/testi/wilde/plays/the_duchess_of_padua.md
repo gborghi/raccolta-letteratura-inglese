@@ -41,7 +41,7 @@ Taddeo Bardi,    
 Bernardo Cavalcanti, Lord Justice of Padua
 Hugo, the Headsman
 Lucy, a Tire woman
-Servants, Citizens, Soldiers, [[characters/monks|Monks]], Falconers with their hawks and [[dogs]], etc.
+Servants, Citizens, Soldiers, [[characters/monks|Monks]], Falconers with their hawks and dogs, etc.
 Place: Padua
 [[motifs/time|Time]]: The latter half of the Sixteenth Century
 Style of Architecture:  Italian, Gothic and Romanesque.
@@ -90,7 +90,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | What!  Does my father live? |
 | MORANZONE | Ay! lives in thee.<br>Thou art the same in mould and lineament,<br>Carriage and form, and outward semblances;<br>I trust thou art in noble mind the same. |
 | GUIDO | Oh, tell me of my father; I have lived<br>But for this moment. |
-| MORANZONE | We must be [[Alone\|alone]]. |
+| MORANZONE | We must be alone. |
 | GUIDO | This is my dearest friend, who out of [[motifs/love\|love]]<br>Has followed me to Padua; as two brothers,<br>There is no secret which we do not share. |
 | MORANZONE | There is one secret which ye shall not share;<br>Bid him go hence. |
 | GUIDO | [to ASCANIO]  Come back within the hour.<br>He does not know that nothing in this world<br>Can dim the perfect [[motifs/mirror\|mirror]] of our [[motifs/love\|love]].<br>Within the hour come. |
@@ -149,14 +149,14 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [Goes up close to GUIDO.] |
 | MORANZONE | Your father was betrayed, there is your cue;<br>For you shall sell the seller in his turn.<br>I will make you of his household, you shall sit<br>At the same board with him, eat of his bread - |
 | GUIDO | O bitter bread! |
-| MORANZONE | Thy palate is too nice,<br>[[concepts/revenge\|Revenge]] will make it sweet.  Thou shalt o’ nights<br>Pledge him in wine, drink from his cup, and be<br>His intimate, so he will fawn on thee,<br>[[motifs/love\|Love]] thee, and trust thee in all secret things.<br>If he bid thee be merry thou must laugh,<br>And if it be his [[Humour\|humour]] to be sad<br>Thou shalt don sables.  Then when the [[motifs/time\|time]] is ripe - |
-| *(didascalia)* | [GUIDO clutches his [[Sword\|sword]].] |
+| MORANZONE | Thy palate is too nice,<br>[[concepts/revenge\|Revenge]] will make it sweet.  Thou shalt o’ nights<br>Pledge him in wine, drink from his cup, and be<br>His intimate, so he will fawn on thee,<br>[[motifs/love\|Love]] thee, and trust thee in all secret things.<br>If he bid thee be merry thou must laugh,<br>And if it be his humour to be sad<br>Thou shalt don sables.  Then when the [[motifs/time\|time]] is ripe - |
+| *(didascalia)* | [GUIDO clutches his sword.] |
 | MORANZONE | Nay, nay, I trust thee not; your hot young [[motifs/blood\|blood]],<br>Undisciplined [[concepts/nature\|nature]], and too violent rage<br>Will never tarry for this great [[concepts/revenge\|revenge]],<br>But wreck itself on passion. |
 | GUIDO | Thou knowest me not.<br>Tell me the man, and I in everything<br>Will do thy bidding. |
 | MORANZONE | [[motifs/well\|Well]], when the [[motifs/time\|time]] is ripe,<br>The victim trusting and the occasion sure,<br>I will by sudden secret messenger<br>Send thee a sign. |
 | GUIDO | How shall I kill him, tell me? |
-| MORANZONE | That [[motifs/night\|night]] thou shalt creep into his private chamber;<br>But if he [[motifs/sleep\|sleep]] see that thou wake him first,<br>And hold thy hand upon his throat, ay! that way,<br>Then having told him of what [[motifs/blood\|blood]] thou art,<br>Sprung from what father, and for what [[concepts/revenge\|revenge]],<br>Bid him to pray for [[concepts/mercy\|mercy]]; when he prays,<br>Bid him to set a price upon his life,<br>And when he strips himself of all his gold<br>Tell him thou needest not gold, and hast not [[concepts/mercy\|mercy]],<br>And do thy business straight away.  Swear to me<br>Thou wilt not kill him till I bid thee do it,<br>Or else I go to mine own [[house]], and leave<br>Thee ignorant, and thy father unavenged. |
-| GUIDO | Now by my father’s [[Sword\|sword]] - |
+| MORANZONE | That [[motifs/night\|night]] thou shalt creep into his private chamber;<br>But if he [[motifs/sleep\|sleep]] see that thou wake him first,<br>And hold thy hand upon his throat, ay! that way,<br>Then having told him of what [[motifs/blood\|blood]] thou art,<br>Sprung from what father, and for what [[concepts/revenge\|revenge]],<br>Bid him to pray for [[concepts/mercy\|mercy]]; when he prays,<br>Bid him to set a price upon his life,<br>And when he strips himself of all his gold<br>Tell him thou needest not gold, and hast not [[concepts/mercy\|mercy]],<br>And do thy business straight away.  Swear to me<br>Thou wilt not kill him till I bid thee do it,<br>Or else I go to mine own house, and leave<br>Thee ignorant, and thy father unavenged. |
+| GUIDO | Now by my father’s sword - |
 | MORANZONE | The common hangman<br>Brake that in sunder in the public square. |
 | GUIDO | Then by my father’s [[motifs/grave\|grave]] - |
 | MORANZONE | What [[motifs/grave\|grave]]? what [[motifs/grave\|grave]]?<br>Your noble father lieth in no [[motifs/grave\|grave]],<br>I saw his [[motifs/dust\|dust]] strewn on the air, his ashes<br>Whirled through the windy streets like common straws<br>To plague a beggar’s eyesight, and his head,<br>That gentle head, set on the [[motifs/prison\|prison]] spike,<br>For the vile rabble in their insolence<br>To shoot their tongues at. |
@@ -206,7 +206,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | *(didascalia)* | [Kneels to the DUKE.] |
 | MORANZONE | My noble Lord. |
-| DUKE | Welcome, [[characters/count-moranzone\|Count Moranzone]]; ’tis some [[motifs/time\|time]]<br>Since we have seen you here in Padua.<br>We hunted near your [[settings/castle\|castle]] yesterday -<br>Call you it [[settings/castle\|castle]]? that bleak [[house]] of yours<br>Wherein you sit a-mumbling o’er your beads,<br>Telling your vices like a good old man. |
+| DUKE | Welcome, [[characters/count-moranzone\|Count Moranzone]]; ’tis some [[motifs/time\|time]]<br>Since we have seen you here in Padua.<br>We hunted near your [[settings/castle\|castle]] yesterday -<br>Call you it [[settings/castle\|castle]]? that bleak house of yours<br>Wherein you sit a-mumbling o’er your beads,<br>Telling your vices like a good old man. |
 | *(didascalia)* | [Catches sight of GUIDO and starts back.] |
 | DUKE | Who is that? |
 | MORANZONE | My sister’s son, your Grace,<br>Who being now of age to carry arms,<br>Would for a season tarry at your [[settings/court\|Court]] |
@@ -334,7 +334,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 
 | Speaker | Line |
 |---|---|
-| GUIDO | O thou eternal heaven!<br>If there is aught of [[concepts/nature\|nature]] in my [[motifs/soul\|soul]],<br>Of gentle pity, or fond kindliness,<br>Wither it up, blast it, bring it to nothing,<br>Or if thou wilt not, then will I myself<br>Cut pity with a sharp knife from my heart<br>And strangle [[concepts/mercy\|mercy]] in her [[motifs/sleep\|sleep]] at [[motifs/night\|night]]<br>Lest she speak to me.  Vengeance there I have it.<br>Be thou my comrade and my bedfellow,<br>Sit by my side, ride to the chase with me,<br>When I am weary sing me pretty [[songs]],<br>When I am light o’ heart, make jest with me,<br>And when I dream, whisper into my ear<br>The dreadful secret of a father’s murder -<br>Did I say murder?  [Draws his dagger.]<br>Listen, thou terrible God!<br>Thou God that punishest all broken oaths,<br>And bid some angel write this oath in [[motifs/fire\|fire]],<br>That from this hour, till my dear father’s murder<br>In [[motifs/blood\|blood]] I have revenged, I do forswear<br>The noble ties of honourable [[concepts/friendship\|friendship]],<br>The noble joys of dear companionship,<br>Affection’s bonds, and loyal gratitude,<br>Ay, more, from this same hour I do forswear<br>All [[motifs/love\|love]] of women, and the barren thing<br>Which men call [[concepts/beauty\|beauty]] - |
+| GUIDO | O thou eternal heaven!<br>If there is aught of [[concepts/nature\|nature]] in my [[motifs/soul\|soul]],<br>Of gentle pity, or fond kindliness,<br>Wither it up, blast it, bring it to nothing,<br>Or if thou wilt not, then will I myself<br>Cut pity with a sharp knife from my heart<br>And strangle [[concepts/mercy\|mercy]] in her [[motifs/sleep\|sleep]] at [[motifs/night\|night]]<br>Lest she speak to me.  Vengeance there I have it.<br>Be thou my comrade and my bedfellow,<br>Sit by my side, ride to the chase with me,<br>When I am weary sing me pretty songs,<br>When I am light o’ heart, make jest with me,<br>And when I dream, whisper into my ear<br>The dreadful secret of a father’s murder -<br>Did I say murder?  [Draws his dagger.]<br>Listen, thou terrible God!<br>Thou God that punishest all broken oaths,<br>And bid some angel write this oath in [[motifs/fire\|fire]],<br>That from this hour, till my dear father’s murder<br>In [[motifs/blood\|blood]] I have revenged, I do forswear<br>The noble ties of honourable [[concepts/friendship\|friendship]],<br>The noble joys of dear companionship,<br>Affection’s bonds, and loyal gratitude,<br>Ay, more, from this same hour I do forswear<br>All [[motifs/love\|love]] of women, and the barren thing<br>Which men call [[concepts/beauty\|beauty]] - |
 
 
 
@@ -407,7 +407,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUKE | If you are poor,<br>Are you not blessed in that?  Why, [[concepts/poverty\|poverty]]<br>Is one of the Christian virtues, |
 | *(didascalia)* | [Turns to the CARDINAL.] |
 | DUKE | Is it not?<br>I know, Lord Cardinal, you have great revenues,<br>Rich abbey-lands, and tithes, and large estates<br>For preaching voluntary [[concepts/poverty\|poverty]]. |
-| DUCHESS | Nay but, my lord the Duke, be generous;<br>While we sit here within a noble [[house]]<br>[With shaded porticoes against the sun,<br>And walls and roofs to keep the [[motifs/winter\|winter]] out],<br>There are many citizens of Padua<br>Who in vile tenements live so full of holes,<br>That the chill rain, the [[motifs/snow\|snow]], and the rude blast,<br>Are tenants also with them; others [[motifs/sleep\|sleep]]<br>Under the arches of the public bridges<br>All through the [[motifs/autumn\|autumn]] nights, till the wet mist<br>Stiffens their limbs, and fevers come, and so - |
+| DUCHESS | Nay but, my lord the Duke, be generous;<br>While we sit here within a noble house<br>[With shaded porticoes against the sun,<br>And walls and roofs to keep the [[motifs/winter\|winter]] out],<br>There are many citizens of Padua<br>Who in vile tenements live so full of holes,<br>That the chill rain, the [[motifs/snow\|snow]], and the rude blast,<br>Are tenants also with them; others [[motifs/sleep\|sleep]]<br>Under the arches of the public bridges<br>All through the [[motifs/autumn\|autumn]] nights, till the wet mist<br>Stiffens their limbs, and fevers come, and so - |
 | DUKE | And so they go to Abraham’s bosom, Madam.<br>They should thank me for sending them to Heaven,<br>If they are wretched here. |
 | *(didascalia)* | [To the CARDINAL.] |
 | DUKE | Is it not said<br>Somewhere in Holy Writ, that every man<br>Should be contented with that state of life<br>God calls him to?  Why should I change their state,<br>Or meddle with an all-wise [[concepts/providence\|providence]],<br>Which has apportioned that some men should starve,<br>And others surfeit?  I did not make the world. |
@@ -490,12 +490,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [yawning] |
 | DUKE | I cannot now recall<br>Why I did not surrender Orvieto<br>According to the word of my contract.<br>Maybe it was because I did not choose. |
 | *(didascalia)* | [Goes over to the DUCHESS.] |
-| DUKE | Why look you, Madam, you are here [[Alone\|alone]];<br>’Tis many a dusty league to your grey France,<br>And even there your father barely keeps<br>A hundred ragged squires for his [[settings/court\|Court]].<br>What [[concepts/hope\|hope]] have you, I say?  Which of these lords<br>And noble gentlemen of Padua<br>Stands by your side. |
+| DUKE | Why look you, Madam, you are here alone;<br>’Tis many a dusty league to your grey France,<br>And even there your father barely keeps<br>A hundred ragged squires for his [[settings/court\|Court]].<br>What [[concepts/hope\|hope]] have you, I say?  Which of these lords<br>And noble gentlemen of Padua<br>Stands by your side. |
 | DUCHESS | There is not one. |
 | *(didascalia)* | [GUIDO starts, but restrains himself.] |
-| DUKE | Nor shall be,<br>While I am Duke in Padua: listen, Madam,<br>Being mine own, you shall do as I will,<br>And if it be my will you keep the [[house]],<br>Why then, this palace shall your [[motifs/prison\|prison]] be;<br>And if it be my will you walk abroad,<br>Why, you shall take the air from morn to [[motifs/night\|night]]. |
+| DUKE | Nor shall be,<br>While I am Duke in Padua: listen, Madam,<br>Being mine own, you shall do as I will,<br>And if it be my will you keep the house,<br>Why then, this palace shall your [[motifs/prison\|prison]] be;<br>And if it be my will you walk abroad,<br>Why, you shall take the air from morn to [[motifs/night\|night]]. |
 | DUCHESS | Sir, by what right -? |
-| DUKE | Madam, my second Duchess<br>Asked the same question once: her monument<br>Lies in the chapel of Bartholomew,<br>Wrought in red marble; very beautiful.<br>Guido, your arm.  Come, gentlemen, let us go<br>And spur our falcons for the mid-day chase.<br>Bethink you, Madam, you are here [[Alone\|alone]]. |
+| DUKE | Madam, my second Duchess<br>Asked the same question once: her monument<br>Lies in the chapel of Bartholomew,<br>Wrought in red marble; very beautiful.<br>Guido, your arm.  Come, gentlemen, let us go<br>And spur our falcons for the mid-day chase.<br>Bethink you, Madam, you are here alone. |
 
 
 
@@ -516,7 +516,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 
 | Speaker | Line |
 |---|---|
-| DUCHESS | The Duke said rightly that I was [[Alone\|alone]];<br>Deserted, and dishonoured, and defamed,<br>Stood ever woman so [[Alone\|alone]] indeed?<br>Men when they woo us call us pretty children,<br>Tell us we have not wit to make our lives,<br>And so they mar them for us.  Did I say woo?<br>We are their chattels, and their common slaves,<br>Less dear than the poor hound that licks their hand,<br>Less fondled than the hawk upon their wrist.<br>Woo, did I say? bought rather, sold and bartered,<br>Our very bodies being merchandise.<br>I know it is the general lot of women,<br>Each miserably mated to some man<br>Wrecks her own life upon his selfishness:<br>That it is general makes it not less bitter.<br>I think I never heard a woman laugh,<br>Laugh for pure merriment, except one woman,<br>That was at [[motifs/night\|night]] [[motifs/time\|time]], in the public streets.<br>Poor [[motifs/soul\|soul]], she walked with painted lips, and wore<br>The mask of pleasure: I would not laugh like her;<br>No, [[motifs/death\|death]] were better. |
+| DUCHESS | The Duke said rightly that I was alone;<br>Deserted, and dishonoured, and defamed,<br>Stood ever woman so alone indeed?<br>Men when they woo us call us pretty children,<br>Tell us we have not wit to make our lives,<br>And so they mar them for us.  Did I say woo?<br>We are their chattels, and their common slaves,<br>Less dear than the poor hound that licks their hand,<br>Less fondled than the hawk upon their wrist.<br>Woo, did I say? bought rather, sold and bartered,<br>Our very bodies being merchandise.<br>I know it is the general lot of women,<br>Each miserably mated to some man<br>Wrecks her own life upon his selfishness:<br>That it is general makes it not less bitter.<br>I think I never heard a woman laugh,<br>Laugh for pure merriment, except one woman,<br>That was at [[motifs/night\|night]] [[motifs/time\|time]], in the public streets.<br>Poor [[motifs/soul\|soul]], she walked with painted lips, and wore<br>The mask of pleasure: I would not laugh like her;<br>No, [[motifs/death\|death]] were better. |
 
 
 
@@ -563,7 +563,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Will you not say you [[motifs/love\|love]] me? |
 | DUCHESS | Is that my lesson?<br>Must I say all at once?  ‘Twere a good lesson<br>If I did [[motifs/love\|love]] you, sir; but, if I do not,<br>What shall I say then? |
 | GUIDO | If you do not [[motifs/love\|love]] me,<br>Say, none the less, you do, for on your tongue<br>Falsehood for very shame would turn to [[concepts/truth\|truth]]. |
-| DUCHESS | What if I do not speak at all?  They say<br>[[lovers\|Lovers]] are happiest when they are in [[concepts/doubt\|doubt]] |
+| DUCHESS | What if I do not speak at all?  They say<br>Lovers are happiest when they are in [[concepts/doubt\|doubt]] |
 | GUIDO | Nay, [[concepts/doubt\|doubt]] would kill me, and if I must die,<br>Why, let me die for joy and not for [[concepts/doubt\|doubt]].<br>Oh, tell me may I stay, or must I go? |
 | DUCHESS | I would not have you either stay or go;<br>For if you stay you steal my [[motifs/love\|love]] from me,<br>And if you go you take my [[motifs/love\|love]] away.<br>Guido, though all the morning [[motifs/stars\|stars]] could sing<br>They could not tell the measure of my [[motifs/love\|love]].<br>I [[motifs/love\|love]] you, Guido. |
 | *(didascalia)* | [stretching out his hands] |
@@ -620,7 +620,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Nay, ’twas nothing:<br>The passing [[archetypes/shadow\|shadow]] of the man on guard. |
 | *(didascalia)* | [The DUCHESS still stands looking at the [[motifs/window\|window]].] |
 | GUIDO | ’Twas nothing, sweet. |
-| DUCHESS | Ay! what can harm us now,<br>Who are in [[motifs/love\|Love]]’s hand?  I do not think I’d care<br>Though the vile world should with its lackey Slander<br>Trample and tread upon my life; why should I?<br>They say the common field-[[motifs/flowers\|flowers]] of the field<br>Have sweeter scent when they are trodden on<br>Than when they bloom [[Alone\|alone]], and that some herbs<br>Which have no perfume, on being bruiséd die<br>With all Arabia round them; so it is<br>With the young lives this dull world seeks to crush,<br>It does but bring the sweetness out of them,<br>And makes them lovelier often.  And besides,<br>While we have [[motifs/love\|love]] we have the best of life:<br>Is it not so? |
+| DUCHESS | Ay! what can harm us now,<br>Who are in [[motifs/love\|Love]]’s hand?  I do not think I’d care<br>Though the vile world should with its lackey Slander<br>Trample and tread upon my life; why should I?<br>They say the common field-[[motifs/flowers\|flowers]] of the field<br>Have sweeter scent when they are trodden on<br>Than when they bloom alone, and that some herbs<br>Which have no perfume, on being bruiséd die<br>With all Arabia round them; so it is<br>With the young lives this dull world seeks to crush,<br>It does but bring the sweetness out of them,<br>And makes them lovelier often.  And besides,<br>While we have [[motifs/love\|love]] we have the best of life:<br>Is it not so? |
 | GUIDO | Dear, shall we play or sing?<br>I think that I could sing now. |
 | DUCHESS | Do not speak,<br>For there are times when all existences<br>Seem narrowed to one single ecstasy,<br>And Passion sets a seal upon the lips. |
 | GUIDO | Oh, with mine own lips let me break that seal!<br>You [[motifs/love\|love]] me, [[characters/beatrice\|Beatrice]]? |
@@ -630,7 +630,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Ah, dear [[motifs/love\|love]],<br>I am so wounded by that bolt myself<br>That with untended wounds I lie a-dying,<br>Unless you cure me, dear Physician. |
 | DUCHESS | I would not have you cured; for I am sick<br>With the same malady. |
 | GUIDO | Oh, how I [[motifs/love\|love]] you!<br>See, I must steal the cuckoo’s voice, and tell<br>The one tale over. |
-| DUCHESS | Tell no other tale!<br>For, if that is the little cuckoo’s [[Song\|song]],<br>The [[motifs/nightingale\|nightingale]] is hoarse, and the loud lark<br>Has lost its music. |
+| DUCHESS | Tell no other tale!<br>For, if that is the little cuckoo’s song,<br>The [[motifs/nightingale\|nightingale]] is hoarse, and the loud lark<br>Has lost its music. |
 | GUIDO | Kiss me, [[characters/beatrice\|Beatrice]]! |
 | *(didascalia)* | [She takes his face in her hands and bends down and kisses him; a loud knocking then comes at the door, and GUIDO leaps up; enter a Servant.] |
 | SERVANT | A package for you, sir. |
@@ -706,7 +706,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 
 | Speaker | Line |
 |---|---|
-| DUKE | Madam, you keep us waiting;<br>You keep my [[dogs]] waiting. |
+| DUKE | Madam, you keep us waiting;<br>You keep my dogs waiting. |
 | DUCHESS | I will not ride to-day. |
 | DUKE | How now, what’s this? |
 | DUCHESS | My Lord, I cannot go. |
@@ -728,7 +728,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 
 | Speaker | Line |
 |---|---|
-| DUCHESS | The [[motifs/stars\|stars]] have fought against me, that is all,<br>And thus to-[[motifs/night\|night]] when my Lord lieth asleep,<br>Will I fall upon my dagger, and so cease.<br>My heart is such a stone nothing can reach it<br>Except the dagger’s edge: let it go there,<br>To find what name it carries: ay! to-[[motifs/night\|night]]<br>[[motifs/death\|Death]] will [[divorce]] the Duke; and yet to-[[motifs/night\|night]]<br>He may die also, he is very old.<br>Why should he not die?  Yesterday his hand<br>Shook with a palsy: men have died from palsy,<br>And why not he?  Are there not fevers also,<br>Agues and chills, and other maladies<br>Most incident to old age?<br>No, no, he will not die, he is too sinful;<br>Honest men die before their proper [[motifs/time\|time]].<br>Good men will die: men by whose side the Duke<br>In all the sick pollution of his life<br>Seems like a leper: women and children die,<br>But the Duke will not die, he is too sinful.<br>Oh, can it be<br>There is some [[concepts/immortality\|immortality]] in sin,<br>Which virtue has not?  And does the wicked man<br>Draw life from what to other men were [[motifs/death\|death]],<br>Like poisonous plants that on corruption live?<br>No, no, I think God would not suffer that:<br>Yet the Duke will not die: he is too sinful.<br>But I will die [[Alone\|alone]], and on this [[motifs/night\|night]]<br>Grim [[motifs/death\|Death]] shall be my bridegroom, and the tomb<br>My secret [[house]] of pleasure: [[motifs/well\|well]], what of that?<br>The world’s a graveyard, and we each, like coffins,<br>Within us bear a [[skeleton]]. |
+| DUCHESS | The [[motifs/stars\|stars]] have fought against me, that is all,<br>And thus to-[[motifs/night\|night]] when my Lord lieth asleep,<br>Will I fall upon my dagger, and so cease.<br>My heart is such a stone nothing can reach it<br>Except the dagger’s edge: let it go there,<br>To find what name it carries: ay! to-[[motifs/night\|night]]<br>[[motifs/death\|Death]] will divorce the Duke; and yet to-[[motifs/night\|night]]<br>He may die also, he is very old.<br>Why should he not die?  Yesterday his hand<br>Shook with a palsy: men have died from palsy,<br>And why not he?  Are there not fevers also,<br>Agues and chills, and other maladies<br>Most incident to old age?<br>No, no, he will not die, he is too sinful;<br>Honest men die before their proper [[motifs/time\|time]].<br>Good men will die: men by whose side the Duke<br>In all the sick pollution of his life<br>Seems like a leper: women and children die,<br>But the Duke will not die, he is too sinful.<br>Oh, can it be<br>There is some [[concepts/immortality\|immortality]] in sin,<br>Which virtue has not?  And does the wicked man<br>Draw life from what to other men were [[motifs/death\|death]],<br>Like poisonous plants that on corruption live?<br>No, no, I think God would not suffer that:<br>Yet the Duke will not die: he is too sinful.<br>But I will die alone, and on this [[motifs/night\|night]]<br>Grim [[motifs/death\|Death]] shall be my bridegroom, and the tomb<br>My secret house of pleasure: [[motifs/well\|well]], what of that?<br>The world’s a graveyard, and we each, like coffins,<br>Within us bear a skeleton. |
 
 
 
@@ -835,7 +835,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | [[motifs/silence\|Silence]], liar!<br>The very [[motifs/moon\|moon]] in heaven is not more chaste.<br>Nor the white [[motifs/stars\|stars]] so pure. |
 | MORANZONE | And yet, you [[motifs/love\|love]] her;<br>Weak [[archetypes/fool\|fool]], to let [[motifs/love\|love]] in upon your life,<br>Save as a plaything. |
 | GUIDO | You do [[motifs/well\|well]] to talk:<br>Within your veins, old man, the pulse of youth<br>Throbs with no ardour.  Your eyes full of rheum<br>Have against [[concepts/beauty\|Beauty]] closed their filmy doors,<br>And your clogged ears, losing their natural sense,<br>Have shut you from the music of the world.<br>You talk of [[motifs/love\|love]]!  You know not what it is. |
-| MORANZONE | Oh, in my [[motifs/time\|time]], boy, have I walked i’ the [[motifs/moon\|moon]],<br>Swore I would live on kisses and on blisses,<br>Swore I would die for [[motifs/love\|love]], and did not die,<br>Wrote [[motifs/love\|love]] bad verses; ay, and sung them badly,<br>Like all true [[lovers]]: Oh, I have done the tricks!<br>I know the partings and the chamberings;<br>We are all [[motifs/animals\|animals]] at best, and [[motifs/love\|love]]<br>Is merely passion with a holy name. |
+| MORANZONE | Oh, in my [[motifs/time\|time]], boy, have I walked i’ the [[motifs/moon\|moon]],<br>Swore I would live on kisses and on blisses,<br>Swore I would die for [[motifs/love\|love]], and did not die,<br>Wrote [[motifs/love\|love]] bad verses; ay, and sung them badly,<br>Like all true lovers: Oh, I have done the tricks!<br>I know the partings and the chamberings;<br>We are all [[motifs/animals\|animals]] at best, and [[motifs/love\|love]]<br>Is merely passion with a holy name. |
 
 
 
@@ -845,7 +845,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 
 | Speaker | Line |
 |---|---|
-| GUIDO | Now then I know you have not loved at all.<br>[[motifs/love\|Love]] is the sacrament of life; it sets<br>Virtue where virtue was not; cleanses men<br>Of all the vile pollutions of this world;<br>It is the [[motifs/fire\|fire]] which purges gold from dross,<br>It is the fan which winnows wheat from chaff,<br>It is the [[motifs/spring\|spring]] which in some wintry soil<br>Makes [[innocence]] to blossom like a [[motifs/rose\|rose]].<br>The days are over when God walked with men,<br>But [[motifs/love\|Love]], which is his image, holds his place.<br>When a man loves a woman, then he knows<br>God’s secret, and the secret of the world.<br>There is no [[house]] so lowly or so mean,<br>Which, if their hearts be pure who live in it,<br>[[motifs/love\|Love]] will not enter; but if bloody murder<br>Knock at the Palace gate and is let in,<br>[[motifs/love\|Love]] like a wounded thing creeps out and dies.<br>This is the punishment God sets on sin.<br>The wicked cannot [[motifs/love\|love]]. |
+| GUIDO | Now then I know you have not loved at all.<br>[[motifs/love\|Love]] is the sacrament of life; it sets<br>Virtue where virtue was not; cleanses men<br>Of all the vile pollutions of this world;<br>It is the [[motifs/fire\|fire]] which purges gold from dross,<br>It is the fan which winnows wheat from chaff,<br>It is the [[motifs/spring\|spring]] which in some wintry soil<br>Makes innocence to blossom like a [[motifs/rose\|rose]].<br>The days are over when God walked with men,<br>But [[motifs/love\|Love]], which is his image, holds his place.<br>When a man loves a woman, then he knows<br>God’s secret, and the secret of the world.<br>There is no house so lowly or so mean,<br>Which, if their hearts be pure who live in it,<br>[[motifs/love\|Love]] will not enter; but if bloody murder<br>Knock at the Palace gate and is let in,<br>[[motifs/love\|Love]] like a wounded thing creeps out and dies.<br>This is the punishment God sets on sin.<br>The wicked cannot [[motifs/love\|love]]. |
 
 
 
@@ -951,7 +951,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | O God,<br>How I have loved this man! |
 | GUIDO | You never loved me.<br>Had it been so, [[motifs/love\|Love]] would have stayed your hand.<br>How could we sit together at [[motifs/love\|Love]]’s table?<br>You have poured [[motifs/poison\|poison]] in the sacred wine,<br>And Murder dips his fingers in the sop. |
 | *(didascalia)* | [throws herself on her knees] |
-| DUCHESS | Then slay me now!  I have spilt [[motifs/blood\|blood]] to-[[motifs/night\|night]],<br>You shall spill more, so we go hand in hand<br>To heaven or to hell.  Draw your [[Sword\|sword]], Guido.<br>Quick, let your [[motifs/soul\|soul]] go chambering in my heart,<br>It will but find its master’s image there.<br>Nay, if you will not slay me with your [[Sword\|sword]],<br>Bid me to fall upon this reeking knife,<br>And I will do it. |
+| DUCHESS | Then slay me now!  I have spilt [[motifs/blood\|blood]] to-[[motifs/night\|night]],<br>You shall spill more, so we go hand in hand<br>To heaven or to hell.  Draw your sword, Guido.<br>Quick, let your [[motifs/soul\|soul]] go chambering in my heart,<br>It will but find its master’s image there.<br>Nay, if you will not slay me with your sword,<br>Bid me to fall upon this reeking knife,<br>And I will do it. |
 
 
 
@@ -977,7 +977,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | I dare not look at you:<br>You come to me with too pronounced a favour;<br>Get to your tirewomen. |
 | DUCHESS | Ay, there it is!<br>There speaks the man! yet had you come to me<br>With any heavy sin upon your [[motifs/soul\|soul]],<br>Some murder done for hire, not for [[motifs/love\|love]],<br>Why, I had sat and watched at your bedside<br>All through the [[motifs/night\|night]]-[[motifs/time\|time]], lest Remorse might come<br>And pour his poisons in your ear, and so<br>Keep you from sleeping!  Sure it is the guilty,<br>Who, being very wretched, need [[motifs/love\|love]] most. |
 | GUIDO | There is no [[motifs/love\|love]] where there is any [[concepts/guilt\|guilt]]. |
-| DUCHESS | No [[motifs/love\|love]] where there is any [[concepts/guilt\|guilt]]!  O God,<br>How differently do we [[motifs/love\|love]] from men!<br>There is many a woman here in Padua,<br>Some workman’s wife, or ruder artisan’s,<br>Whose husband spends the wages of the week<br>In a coarse revel, or a tavern brawl,<br>And reeling [[motifs/home\|home]] late on the Saturday [[motifs/night\|night]],<br>Finds his wife sitting by a fireless hearth,<br>Trying to hush the [[archetypes/child\|child]] who cries for hunger,<br>And then sets to and beats his wife because<br>The [[archetypes/child\|child]] is hungry, and the [[motifs/fire\|fire]] black.<br>Yet the wife loves him! and will rise next day<br>With some red bruise across a careworn face,<br>And sweep the [[house]], and do the common service,<br>And try and smile, and only be too glad<br>If he does not beat her a second [[motifs/time\|time]]<br>Before her [[archetypes/child\|child]]! - that is how women [[motifs/love\|love]]. |
+| DUCHESS | No [[motifs/love\|love]] where there is any [[concepts/guilt\|guilt]]!  O God,<br>How differently do we [[motifs/love\|love]] from men!<br>There is many a woman here in Padua,<br>Some workman’s wife, or ruder artisan’s,<br>Whose husband spends the wages of the week<br>In a coarse revel, or a tavern brawl,<br>And reeling [[motifs/home\|home]] late on the Saturday [[motifs/night\|night]],<br>Finds his wife sitting by a fireless hearth,<br>Trying to hush the [[archetypes/child\|child]] who cries for hunger,<br>And then sets to and beats his wife because<br>The [[archetypes/child\|child]] is hungry, and the [[motifs/fire\|fire]] black.<br>Yet the wife loves him! and will rise next day<br>With some red bruise across a careworn face,<br>And sweep the house, and do the common service,<br>And try and smile, and only be too glad<br>If he does not beat her a second [[motifs/time\|time]]<br>Before her [[archetypes/child\|child]]! - that is how women [[motifs/love\|love]]. |
 
 
 
@@ -989,7 +989,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | *(didascalia)* | [A pause: GUIDO says nothing.] |
 | DUCHESS | I think you will not drive me from your side.<br>Where have I got to go if you reject me? -<br>You for whose sake this hand has murdered life,<br>You for whose sake my [[motifs/soul\|soul]] has wrecked itself<br>Beyond all [[concepts/hope\|hope]] of pardon. |
-| GUIDO | Get thee gone:<br>The dead man is a [[archetypes/ghost\|ghost]], and our [[motifs/love\|love]] too,<br>Flits like a [[archetypes/ghost\|ghost]] about its desolate tomb,<br>And wanders through this charnel [[house]], and weeps<br>That when you slew your lord you slew it also.<br>Do you not see? |
+| GUIDO | Get thee gone:<br>The dead man is a [[archetypes/ghost\|ghost]], and our [[motifs/love\|love]] too,<br>Flits like a [[archetypes/ghost\|ghost]] about its desolate tomb,<br>And wanders through this charnel house, and weeps<br>That when you slew your lord you slew it also.<br>Do you not see? |
 | DUCHESS | I see when men [[motifs/love\|love]] women<br>They give them but a little of their lives,<br>But women when they [[motifs/love\|love]] give everything;<br>I see that, Guido, now. |
 | GUIDO | Away, away,<br>And come not back till you have waked your dead. |
 
@@ -1026,7 +1026,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 
 | Speaker | Line |
 |---|---|
-| DUCHESS | Murder did you say?<br>Murder is hungry, and still cries for more,<br>And [[motifs/death\|Death]], his brother, is not satisfied,<br>But walks the [[house]], and will not go away,<br>Unless he has a comrade!  Tarry, [[motifs/death\|Death]],<br>For I will give thee a most faithful lackey<br>To travel with thee!  Murder, call no more,<br>For thou shalt eat thy fill.<br>There is a [[motifs/storm\|storm]]<br>Will break upon this [[house]] before the morning,<br>So horrible, that the white [[motifs/moon\|moon]] already<br>Turns grey and sick with terror, the low [[motifs/wind\|wind]]<br>Goes moaning round the [[house]], and the high [[motifs/stars\|stars]]<br>Run madly through the vaulted firmament,<br>As though the [[motifs/night\|night]] wept [[motifs/tears\|tears]] of liquid [[motifs/fire\|fire]]<br>For what the day shall look upon.  Oh, weep,<br>Thou lamentable heaven!  Weep thy fill!<br>Though sorrow like a cataract drench the fields,<br>And make the earth one bitter lake of [[motifs/tears\|tears]],<br>It would not be enough.  [A peal of thunder.]<br>Do you not hear,<br>There is artillery in the Heaven to-[[motifs/night\|night]].<br>Vengeance is wakened up, and has unloosed<br>His [[dogs]] upon the world, and in this matter<br>Which lies between us two, let him who draws<br>The thunder on his head beware the ruin<br>Which the forked flame brings after. |
+| DUCHESS | Murder did you say?<br>Murder is hungry, and still cries for more,<br>And [[motifs/death\|Death]], his brother, is not satisfied,<br>But walks the house, and will not go away,<br>Unless he has a comrade!  Tarry, [[motifs/death\|Death]],<br>For I will give thee a most faithful lackey<br>To travel with thee!  Murder, call no more,<br>For thou shalt eat thy fill.<br>There is a [[motifs/storm\|storm]]<br>Will break upon this house before the morning,<br>So horrible, that the white [[motifs/moon\|moon]] already<br>Turns grey and sick with terror, the low [[motifs/wind\|wind]]<br>Goes moaning round the house, and the high [[motifs/stars\|stars]]<br>Run madly through the vaulted firmament,<br>As though the [[motifs/night\|night]] wept [[motifs/tears\|tears]] of liquid [[motifs/fire\|fire]]<br>For what the day shall look upon.  Oh, weep,<br>Thou lamentable heaven!  Weep thy fill!<br>Though sorrow like a cataract drench the fields,<br>And make the earth one bitter lake of [[motifs/tears\|tears]],<br>It would not be enough.  [A peal of thunder.]<br>Do you not hear,<br>There is artillery in the Heaven to-[[motifs/night\|night]].<br>Vengeance is wakened up, and has unloosed<br>His dogs upon the world, and in this matter<br>Which lies between us two, let him who draws<br>The thunder on his head beware the ruin<br>Which the forked flame brings after. |
 
 
 
@@ -1089,7 +1089,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | Speaker | Line |
 |---|---|
 | FIRST CITIZEN | But how does the Duchess? |
-| MISTRESS LUCY | [[motifs/well\|Well]] [[motifs/well\|well]], I knew some harm would happen to the [[house]]: six weeks ago the cakes were all burned on one side, and last Saint Martin even as ever was, there flew into the candle a big moth that had wings, and a’most scared me. |
+| MISTRESS LUCY | [[motifs/well\|Well]] [[motifs/well\|well]], I knew some harm would happen to the house: six weeks ago the cakes were all burned on one side, and last Saint Martin even as ever was, there flew into the candle a big moth that had wings, and a’most scared me. |
 | FIRST CITIZEN | But come to the Duchess, good gossip: what of her? |
 | MISTRESS LUCY | Marry, it is [[motifs/time\|time]] you should ask after her, poor lady; she is distraught almost.  Why, she has not slept, but paced the chamber all [[motifs/night\|night]] long.  I prayed her to have a posset, or some aqua-vitae, and to get to bed and [[motifs/sleep\|sleep]] a little for her health’s sake, but she answered me she was afraid she might dream.  That was a strange answer, was it not? |
 | SECOND CITIZEN | These great folk have not much sense, so [[concepts/providence\|Providence]] makes it up to them in fine clothes. |
@@ -1193,7 +1193,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [LORD MORANZONE goes over to GUIDO, who stands R. and clutches him by the hand.] |
 | *(didascalia)* | [in a low voice] |
 | MORANZONE | She did it!  Nay, I saw it in her eyes.<br>Boy, dost thou think I’ll let thy father’s son<br>Be by this woman butchered to his [[motifs/death\|death]]?<br>Her husband sold your father, and the wife<br>Would sell the son in turn. |
-| GUIDO | Lord Moranzone,<br>I [[Alone\|alone]] did this thing: be satisfied,<br>My father is avenged. |
+| GUIDO | Lord Moranzone,<br>I alone did this thing: be satisfied,<br>My father is avenged. |
 | LORD JUSTICE | Doth he confess? |
 | GUIDO | My lord, I do confess<br>That foul unnatural murder has been done. |
 | FIRST CITIZEN | Why, look at that: he has a pitiful heart, and does not like murder; they will let him go for that. |
@@ -1203,7 +1203,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Lastly, my lord, I do entreat the [[settings/court\|Court]]<br>To give me leave to utter openly<br>The dreadful secret of this mystery,<br>And to point out the very guilty one<br>Who with this dagger last [[motifs/night\|night]] slew the Duke. |
 | LORD JUSTICE | Thou hast leave to speak. |
 | *(didascalia)* | [rising] |
-| DUCHESS | I say he shall not speak:<br>What need have we of further evidence?<br>Was he not taken in the [[house]] at [[motifs/night\|night]]<br>In [[concepts/guilt\|Guilt]]’s own bloody livery? |
+| DUCHESS | I say he shall not speak:<br>What need have we of further evidence?<br>Was he not taken in the house at [[motifs/night\|night]]<br>In [[concepts/guilt\|Guilt]]’s own bloody livery? |
 | *(didascalia)* | [showing her the statute] |
 | LORD JUSTICE | Your Grace<br>Can read the law. |
 | *(didascalia)* | [waiving book aside] |
@@ -1226,7 +1226,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | COUNT BARDI | I do not think your Grace can stay the law. |
 | DUCHESS | Ay, it is [[motifs/well\|well]] to preach and prate of law:<br>Methinks, my haughty lords of Padua,<br>If ye are hurt in pocket or estate,<br>So much as makes your monstrous revenues<br>Less by the value of one ferry toll,<br>Ye do not wait the tedious law’s delay<br>With such sweet patience as ye counsel me. |
 | COUNT BARDI | Madam, I think you wrong our nobles here. |
-| DUCHESS | I think I wrong them not.  Which of you all<br>Finding a thief within his [[house]] at [[motifs/night\|night]],<br>With some poor chattel thrust into his rags,<br>Will stop and parley with him? do ye not<br>Give him unto the officer and his hook<br>To be dragged gaolwards straightway?<br>And so now,<br>Had ye been men, finding this fellow here,<br>With my Lord’s life still hot upon his hands,<br>Ye would have haled him out into the [[settings/court\|court]],<br>And struck his head off with an axe. |
+| DUCHESS | I think I wrong them not.  Which of you all<br>Finding a thief within his house at [[motifs/night\|night]],<br>With some poor chattel thrust into his rags,<br>Will stop and parley with him? do ye not<br>Give him unto the officer and his hook<br>To be dragged gaolwards straightway?<br>And so now,<br>Had ye been men, finding this fellow here,<br>With my Lord’s life still hot upon his hands,<br>Ye would have haled him out into the [[settings/court\|court]],<br>And struck his head off with an axe. |
 | GUIDO | O God! |
 | DUCHESS | Speak, my Lord Justice. |
 | LORD JUSTICE | Your Grace, it cannot be:<br>The laws of Padua are most certain here:<br>And by those laws the common murderer even<br>May with his own lips plead, and make defence. |
@@ -1242,7 +1242,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | MAFFIO | Now by Saint Paul<br>I do not think that they will let him speak. |
 | JEPPO VITELLOZZO | There is much in this, listen. |
-| DUCHESS | Wherefore now,<br>Throw ashes on the head of Padua,<br>With sable banners hang each silent street,<br>Let every man be clad in solemn black;<br>But ere we turn to these sad rites of mourning<br>Let us bethink us of the desperate hand<br>Which wrought and brought this ruin on our state,<br>And straightway pack him to that narrow [[house]],<br>Where no voice is, but with a little [[motifs/dust\|dust]]<br>[[motifs/death\|Death]] fills right up the lying mouths of men. |
+| DUCHESS | Wherefore now,<br>Throw ashes on the head of Padua,<br>With sable banners hang each silent street,<br>Let every man be clad in solemn black;<br>But ere we turn to these sad rites of mourning<br>Let us bethink us of the desperate hand<br>Which wrought and brought this ruin on our state,<br>And straightway pack him to that narrow house,<br>Where no voice is, but with a little [[motifs/dust\|dust]]<br>[[motifs/death\|Death]] fills right up the lying mouths of men. |
 | GUIDO | Unhand me, knaves!  I tell thee, my Lord Justice,<br>Thou mightst as [[motifs/well\|well]] bid the untrammelled ocean,<br>The [[motifs/winter\|winter]] whirlwind, or the Alpine [[motifs/storm\|storm]],<br>Not roar their will, as bid me hold my peace!<br>Ay! though ye put your knives into my throat,<br>Each grim and gaping wound shall find a tongue,<br>And cry against you. |
 | LORD JUSTICE | Sir, this violence<br>Avails you nothing; for save the tribunal<br>Give thee a lawful right to open speech,<br>Naught that thou sayest can be credited. |
 | *(didascalia)* | [The DUCHESS smiles and GUIDO falls back with a gesture of [[concepts/despair\|despair]].] |
@@ -1286,7 +1286,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | JEPPO | Is it not strange<br>That she should so have loved the wicked Duke? |
 | MAFFIO | It is most strange when women [[motifs/love\|love]] their lords,<br>And when they [[motifs/love\|love]] them not it is most strange. |
 | JEPPO | What a philosopher thou art, Petrucci! |
-| MAFFIO | Ay!  I can bear the ills of other men,<br>Which is [[philosophy]]. |
+| MAFFIO | Ay!  I can bear the ills of other men,<br>Which is philosophy. |
 | DUCHESS | They tarry long,<br>These greybeards and their council; bid them come;<br>Bid them come quickly, else I think my heart<br>Will beat itself to bursting: not indeed,<br>That I here care to live; God knows my life<br>Is not so full of joy, yet, for all that,<br>I would not die companionless, or go<br>Lonely to Hell.<br>Look, my Lord Cardinal,<br>Canst thou not see across my forehead here,<br>In scarlet letters writ, the word [[concepts/revenge\|Revenge]]?<br>Fetch me some [[motifs/water\|water]], I will wash it off:<br>’Twas branded there last [[motifs/night\|night]], but in the day-[[motifs/time\|time]]<br>I need not wear it, need I, my Lord Cardinal?<br>Oh, how it sears and burns into my brain:<br>Give me a knife; not that one, but another,<br>And I will cut it out. |
 
 
@@ -1304,7 +1304,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [Enter the LORD JUSTICE.] |
 | LORD JUSTICE | Most gracious Lady, and our sovereign Liege,<br>We have long pondered on the point at issue,<br>And much considered of your Grace’s wisdom,<br>And never wisdom spake from fairer lips - |
 | DUCHESS | Proceed, sir, without compliment. |
-| LORD JUSTICE | We find,<br>As your own Grace did rightly signify,<br>That any citizen, who by force or craft<br>Conspires against the person of the Liege,<br>Is ipso facto outlaw, void of rights<br>Such as pertain to other citizens,<br>Is traitor, and a public enemy,<br>Who may by any casual [[Sword\|sword]] be slain<br>Without the slayer’s danger; nay, if brought<br>Into the presence of the tribunal,<br>Must with dumb lips and [[motifs/silence\|silence]] reverent<br>Listen unto his [[motifs/well\|well]]-deserved doom,<br>Nor has the privilege of open speech. |
+| LORD JUSTICE | We find,<br>As your own Grace did rightly signify,<br>That any citizen, who by force or craft<br>Conspires against the person of the Liege,<br>Is ipso facto outlaw, void of rights<br>Such as pertain to other citizens,<br>Is traitor, and a public enemy,<br>Who may by any casual sword be slain<br>Without the slayer’s danger; nay, if brought<br>Into the presence of the tribunal,<br>Must with dumb lips and [[motifs/silence\|silence]] reverent<br>Listen unto his [[motifs/well\|well]]-deserved doom,<br>Nor has the privilege of open speech. |
 | DUCHESS | I thank thee, my Lord Justice, heartily;<br>I like your law: and now I pray dispatch<br>This public outlaw to his righteous doom;<br>What is there more? |
 | LORD JUSTICE | Ay, there is more, your Grace.<br>This man being alien born, not Paduan,<br>Nor by allegiance bound unto the Duke,<br>Save such as common [[concepts/nature\|nature]] doth lay down,<br>Hath, though accused of treasons manifold,<br>Whose slightest penalty is certain [[motifs/death\|death]],<br>Yet still the right of public utterance<br>Before the people and the open [[settings/court\|court]];<br>Nay, shall be much entreated by the [[settings/court\|Court]],<br>To make some formal pleading for his life,<br>Lest his own [[motifs/city\|city]], righteously incensed,<br>Should with an unjust trial tax our state,<br>And wars [[motifs/spring\|spring]] up against the commonwealth:<br>So merciful are the laws of Padua<br>Unto the stranger living in her gates. |
 | DUCHESS | Being of my Lord’s household, is he stranger here? |
@@ -1328,7 +1328,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | DUCHESS | Thou accursed law,<br>I would that I could tear thee from the state<br>As easy as I tear thee from this book. |
 | *(didascalia)* | [[[motifs/tears\|Tears]] out the page.] |
-| DUCHESS | Come here, Count Bardi: are you honourable?<br>Get a [[motifs/horse\|horse]] ready for me at my [[house]],<br>For I must ride to [[settings/venice\|Venice]] instantly. |
+| DUCHESS | Come here, Count Bardi: are you honourable?<br>Get a [[motifs/horse\|horse]] ready for me at my house,<br>For I must ride to [[settings/venice\|Venice]] instantly. |
 | BARDI | To [[settings/venice\|Venice]], Madam? |
 | DUCHESS | Not a word of this,<br>Go, go at once.  [Exit COUNT BARDI.]<br>A moment, my Lord Justice.<br>If, as thou sayest it, this is the law -<br>Nay, nay, I [[concepts/doubt\|doubt]] not that thou sayest right,<br>Though right be wrong in such a case as this -<br>May I not by the virtue of mine office<br>Adjourn this [[settings/court\|court]] until another day? |
 | LORD JUSTICE | Madam, you cannot stay a trial for [[motifs/blood\|blood]]. |
@@ -1345,9 +1345,9 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [The Usher closes the doors of the [[settings/court\|court]], which are L., and when the DUCHESS and her retinue approach, kneels down.] |
 | USHER | In all [[concepts/humility\|humility]] I beseech your Grace<br>Turn not my duty to discourtesy,<br>Nor make my unwelcome office an offence. |
 | DUCHESS | Is there no gentleman amongst you all<br>To prick this prating fellow from our way? |
-| *(didascalia)* | [drawing his [[Sword\|sword]]] |
+| *(didascalia)* | [drawing his sword] |
 | MAFFIO | Ay! that will I. |
-| LORD JUSTICE | Count Maffio, have a care,<br>And you, sir.  [To JEPPO.]<br>The first man who draws his [[Sword\|sword]]<br>Upon the meanest officer of this [[settings/court\|Court]],<br>Dies before nightfall. |
+| LORD JUSTICE | Count Maffio, have a care,<br>And you, sir.  [To JEPPO.]<br>The first man who draws his sword<br>Upon the meanest officer of this [[settings/court\|Court]],<br>Dies before nightfall. |
 | DUCHESS | Sirs, put up your swords:<br>It is most meet that I should hear this man. |
 | *(didascalia)* | [Goes back to throne.] |
 | MORANZONE | Now hast thou got thy enemy in thy hand. |
@@ -1461,7 +1461,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | Are you the officer on guard? |
 | *(didascalia)* | [coming forward] |
 | FIRST SOLDIER | I am, madam. |
-| DUCHESS | I must see the prisoner [[Alone\|alone]]. |
+| DUCHESS | I must see the prisoner alone. |
 | FIRST SOLDIER | I am afraid that is impossible.  [The DUCHESS hands him a ring, he looks at and returns it to her with a bow and makes a sign to the Soldiers.]  Stand without there.  [Exeunt the Soldiers.] |
 | DUCHESS | Officer, your men are somewhat rough. |
 | FIRST SOLDIER | They mean no harm. |
@@ -1492,7 +1492,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [Takes the torch from the wall, and goes over to the bed.] |
 | DUCHESS | How peacefully here he sleeps,<br>Like a young schoolboy tired out with play:<br>I would that I could [[motifs/sleep\|sleep]] so peacefully,<br>But I have [[motifs/dreams\|dreams]].  [Bending over him.]<br>Poor boy: what if I kissed him?<br>No, no, my lips would burn him like a [[motifs/fire\|fire]].<br>He has had enough of [[motifs/love\|Love]].  Still that white neck<br>Will ‘scape the headsman: I have seen to that:<br>He will get hence from Padua to-[[motifs/night\|night]],<br>And that is [[motifs/well\|well]].  You are very wise, Lord Justices,<br>And yet you are not half so wise as I am,<br>And that is [[motifs/well\|well]].<br>O God! how I have loved you,<br>And what a bloody flower did [[motifs/love\|Love]] bear! |
 | *(didascalia)* | [Comes back to the table.] |
-| DUCHESS | What if I drank these juices, and so ceased?<br>Were it not better than to wait till [[motifs/death\|Death]]<br>Come to my bed with all his serving men,<br>Remorse, disease, old age, and misery?<br>I [[concepts/wonder\|wonder]] does one suffer much: I think<br>That I am very young to die like this,<br>But so it must be.  Why, why should I die?<br>He will escape to-[[motifs/night\|night]], and so his [[motifs/blood\|blood]]<br>Will not be on my head.  No, I must die;<br>I have been guilty, therefore I must die;<br>He loves me not, and therefore I must die:<br>I would die happier if he would kiss me,<br>But he will not do that.  I did not know him.<br>I thought he meant to sell me to the Judge;<br>That is not strange; we women never know<br>Our [[lovers]] till they leave us. |
+| DUCHESS | What if I drank these juices, and so ceased?<br>Were it not better than to wait till [[motifs/death\|Death]]<br>Come to my bed with all his serving men,<br>Remorse, disease, old age, and misery?<br>I [[concepts/wonder\|wonder]] does one suffer much: I think<br>That I am very young to die like this,<br>But so it must be.  Why, why should I die?<br>He will escape to-[[motifs/night\|night]], and so his [[motifs/blood\|blood]]<br>Will not be on my head.  No, I must die;<br>I have been guilty, therefore I must die;<br>He loves me not, and therefore I must die:<br>I would die happier if he would kiss me,<br>But he will not do that.  I did not know him.<br>I thought he meant to sell me to the Judge;<br>That is not strange; we women never know<br>Our lovers till they leave us. |
 | *(didascalia)* | [Bell begins to toll] |
 | DUCHESS | Thou vile bell,<br>That like a bloodhound from thy brazen throat<br>Call’st for this man’s life, cease! thou shalt not get it.<br>He stirs - I must be quick:  [Takes up cup.]<br>O [[motifs/love\|Love]], [[motifs/love\|Love]], [[motifs/love\|Love]],<br>I did not think that I would pledge thee thus! |
 | *(didascalia)* | [Drinks [[motifs/poison\|poison]], and sets the cup down on the table behind her: the noise wakens GUIDO, who starts up, and does not see what she has done.  There is [[motifs/silence\|silence]] for a minute, each looking at the other.] |
@@ -1523,7 +1523,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | To-[[motifs/night\|night]] it shall be. |
 | DUCHESS | Oh, thank God for that! |
 | GUIDO | So I can live; life never seemed so sweet<br>As at this moment. |
-| DUCHESS | Do not tarry, Guido,<br>There is my cloak: the [[motifs/horse\|horse]] is at the bridge,<br>The second bridge below the ferry [[house]]:<br>Why do you tarry?  Can your ears not hear<br>This dreadful bell, whose every ringing stroke<br>Robs one brief minute from your boyish life.<br>Go quickly. |
+| DUCHESS | Do not tarry, Guido,<br>There is my cloak: the [[motifs/horse\|horse]] is at the bridge,<br>The second bridge below the ferry house:<br>Why do you tarry?  Can your ears not hear<br>This dreadful bell, whose every ringing stroke<br>Robs one brief minute from your boyish life.<br>Go quickly. |
 | GUIDO | Ay! he will come soon enough. |
 | DUCHESS | Who? |
 | *(didascalia)* | [calmly] |
@@ -1561,8 +1561,8 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Sweet, it was not yourself,<br>It was some devil tempted you. |
 | *(didascalia)* | [rising suddenly] |
 | DUCHESS | No, no,<br>We are each our own devil, and we make<br>This world our hell. |
-| GUIDO | Then let high Paradise<br>Fall into Tartarus! for I shall make<br>This world my heaven for a little space.<br>The sin was mine, if any sin there was.<br>’Twas I who nurtured murder in my heart,<br>Sweetened my meats, seasoned my wine with it,<br>And in my fancy slew the accursed Duke<br>A hundred times a day.  Why, had this man<br>Died half so often as I wished him to,<br>[[motifs/death\|Death]] had been stalking ever through the [[house]],<br>And murder had not slept.<br>But you, fond heart,<br>Whose little eyes grew tender over a whipt hound,<br>You whom the little children laughed to see<br>Because you brought the sunlight where you passed,<br>You the white angel of God’s purity,<br>This which men call your sin, what was it? |
-| DUCHESS | Ay!<br>What was it?  There are times it seems [[A Dream\|a dream]],<br>An evil dream sent by an evil god,<br>And then I see the dead face in the coffin<br>And know it is no dream, but that my hand<br>Is red with [[motifs/blood\|blood]], and that my desperate [[motifs/soul\|soul]]<br>Striving to find some haven for its [[motifs/love\|love]]<br>From the wild tempest of this raging world,<br>Has wrecked its bark upon the rocks of sin.<br>What was it, said you? - murder merely?  Nothing<br>But murder, horrible murder. |
+| GUIDO | Then let high Paradise<br>Fall into Tartarus! for I shall make<br>This world my heaven for a little space.<br>The sin was mine, if any sin there was.<br>’Twas I who nurtured murder in my heart,<br>Sweetened my meats, seasoned my wine with it,<br>And in my fancy slew the accursed Duke<br>A hundred times a day.  Why, had this man<br>Died half so often as I wished him to,<br>[[motifs/death\|Death]] had been stalking ever through the house,<br>And murder had not slept.<br>But you, fond heart,<br>Whose little eyes grew tender over a whipt hound,<br>You whom the little children laughed to see<br>Because you brought the sunlight where you passed,<br>You the white angel of God’s purity,<br>This which men call your sin, what was it? |
+| DUCHESS | Ay!<br>What was it?  There are times it seems a dream,<br>An evil dream sent by an evil god,<br>And then I see the dead face in the coffin<br>And know it is no dream, but that my hand<br>Is red with [[motifs/blood\|blood]], and that my desperate [[motifs/soul\|soul]]<br>Striving to find some haven for its [[motifs/love\|love]]<br>From the wild tempest of this raging world,<br>Has wrecked its bark upon the rocks of sin.<br>What was it, said you? - murder merely?  Nothing<br>But murder, horrible murder. |
 
 
 

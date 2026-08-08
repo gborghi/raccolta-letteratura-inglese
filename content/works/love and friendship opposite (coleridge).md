@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/friendship|Friendship]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]]
 **Forms & Genres:** [[forms/lyric|Lyric]]
 

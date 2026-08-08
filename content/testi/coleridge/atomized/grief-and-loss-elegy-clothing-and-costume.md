@@ -43,7 +43,7 @@ And starts not in his eye th’ indignant Tear?
 Elate of Heart and confident of Fame,  
 From vales where Avon sports, the Minstrel came,   25  
 Gay as the Poet hastes along  
-He meditates the future [[Song|song]],  
+He meditates the future song,  
 How Ælla battled with his country’s foes,  
 And whilst Fancy in the air  
 Paints him many a vision fair   30  
@@ -80,7 +80,7 @@ Thy fixéd eyes she bade thee roll   60
 On scenes that [[motifs/well|well]] might melt thy [[motifs/soul|soul]] —  
 Thy native cot she held to view,  
 Thy native cot, where Peace ere long  
-Had listen’d to thy evening [[Song|song]];  
+Had listen’d to thy evening song;  
 Thy sister’s shrieks she bade thee hear,   65  
 And mark thy mother’s thrilling tear,  
 She made thee feel her deep-drawn sigh,  
@@ -261,7 +261,7 @@ Betrayed, then cast thee forth to Want and Scorn!
 The world is pitiless: the chaste one’s [[concepts/pride|pride]]   5  
 Mimic of Virtue scowls on thy distress:  
 Thy Loves and they that envied thee deride:  
-And Vice [[Alone|alone]] will shelter Wretchedness!  
+And Vice alone will shelter Wretchedness!  
 O! I could weep to think that there should be  
 Cold-bosom’d lewd ones, who endure to place   10  
 Foul offerings on the shrine of Misery,  
@@ -453,7 +453,7 @@ Thee, who didst watch my boyhood and my youth;
 Didst trace my wanderings with a father’s eye;   45  
 And boding evil yet still hoping good,  
 Rebuk’d each fault, and over all my woes  
-Sorrow’d in [[motifs/silence|silence]]! He who counts [[Alone|alone]]  
+Sorrow’d in [[motifs/silence|silence]]! He who counts alone  
 The beatings of the solitary heart,  
 That Being knows, how I have lov’d thee ever,   50  
 Lov’d as a brother, as a son rever’d thee!  
@@ -469,7 +469,7 @@ Stirr’d by the faint gale of departing May,   60
 Send their loose blossoms slanting o’er our heads!  
 Nor dost not thou sometimes recall those hours,  
 When with the joy of [[concepts/hope|hope]] thou gavest thine ear  
-To my wild firstling-lays. Since then my [[Song|song]]  
+To my wild firstling-lays. Since then my song  
 Hath sounded deeper notes, such as beseem   65  
 Or that sad wisdom folly [[motifs/leaves|leaves]] behind,  
 Or such as, tuned to these tumultuous times,  
@@ -546,7 +546,7 @@ You have all in each other; but I am lonely, and want you!
 WRITTEN IN [[settings/germany|GERMANY]]  
 ‘Tis sweet to him who all the week  
 Through [[motifs/city|city]]-crowds must push his way,  
-To stroll [[Alone|alone]] through fields and woods,  
+To stroll alone through fields and woods,  
 And hallow thus the Sabbath-day.  
 And sweet it is, in [[motifs/summer|summer]] bower,   5  
 Sincere, affectionate and gay,  
@@ -670,8 +670,8 @@ He mourns on one funereal pyre.
 Mourn for Britannia’s hopes [[motifs/decay|decay]]’d,  
 Her daughters wail their dear defence;  
 Their fair example, prostrate laid,    35  
-Chaste [[motifs/love|Love]] and fervid [[innocence|Innocence]].  
-While Grief in [[Song|song]] shall seek repose,  
+Chaste [[motifs/love|Love]] and fervid Innocence.  
+While Grief in song shall seek repose,  
 We will take up a Mourning yearly:  
 To wail the blow that crush’d the [[motifs/rose|Rose]],  
 So dearly priz’d and lov’d so dearly.   40  
@@ -705,7 +705,7 @@ To him who hath a happy [[motifs/home|home]]
 And [[motifs/love|love]] returned from [[motifs/love|love]]!’  
 O! Christmas Day, O gloomy day,   5  
 The barb in [[motifs/memory|Memory]]’s dart,  
-To him who walks [[Alone|alone]] through Life,  
+To him who walks alone through Life,  
 The desolate in heart.  
 1826.  
 
@@ -721,7 +721,7 @@ Who sits beside a ruin’d [[motifs/well|well]],
 Where the shy sand-asps bask and swell;  
 And now he hangs his agéd head aslant,   5  
 And listens for a human sound — in vain!  
-And now the aid, which Heaven [[Alone|alone]] can grant,  
+And now the aid, which Heaven alone can grant,  
 Upturns his eyeless face from Heaven to gain; —  
 Even thus, in vacant mood, one sultry hour,  
 Resting my eye upon a drooping plant,   10  
@@ -863,7 +863,7 @@ Beset with osiers, let thy pious hand   10
 Sprinkle fresh [[motifs/water|water]] from the brook, and strew  
 Sweet-smelling [[motifs/flowers|flowers]] — for there doth [[characters/edmund|Edmund]] rest,  
 The learned shepherd; for each rural art  
-Famed, and for [[songs]] harmonious, and the woes  
+Famed, and for songs harmonious, and the woes  
 Of ill-requited [[motifs/love|love]]. The faithless [[concepts/pride|pride]]   15  
 Of fair Matilda sank him to the [[motifs/grave|grave]]  
 In manhood’s prime. But soon did righteous Heaven  

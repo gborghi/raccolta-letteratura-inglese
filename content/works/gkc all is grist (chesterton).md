@@ -68,7 +68,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Wise Old Man Sage
+**Archetypes:** [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 
 **Settings:** [[settings/venice|Venice]], [[settings/italy|Italy]], [[settings/canada|Canada]], [[settings/europe|Europe]]
 
@@ -76,7 +76,7 @@ tags:
 
 **Topoi:** [[topoi/eternal-return|Eternal Return]], [[topoi/golden-age|Golden Age]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Characters:** Beatrice, Hamlet
+**Characters:** [[characters/beatrice|Beatrice]], [[characters/hamlet|Hamlet]]
 
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/artist-and-society|Artist and Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/democracy|Democracy]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/education|Education]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/literary-criticism|Literary Criticism]], [[forms/aphorism|Aphorism]], [[forms/travel-writing|Travel Writing]], [[forms/nonfiction|Nonfiction]]

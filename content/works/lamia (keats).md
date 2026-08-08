@@ -38,13 +38,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]]
-**Archetypes:** Femme Fatale, Temptress
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/temptress|Temptress]]
 **Motifs:** [[motifs/serpent-snake|Serpent Snake]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]], [[concepts/critique-of-progress|Critique of Progress]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/heroic-couplet|Heroic Couplet]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 **Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
-**Characters:** Lamia, Lycius, Apollonius
+**Characters:** [[characters/lamia|Lamia]], [[characters/lycius|Lycius]], [[characters/apollonius|Apollonius]]
 
 ## Testo integrale / Full text
 

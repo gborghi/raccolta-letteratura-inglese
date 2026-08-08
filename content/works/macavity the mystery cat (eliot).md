@@ -23,11 +23,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Villain, Detective
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/detective|Detective]]
 **Motifs:** [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]
-**Characters:** Macavity
+**Characters:** [[characters/macavity|Macavity]]
 
 ## Testo integrale / Full text
 

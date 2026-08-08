@@ -20,14 +20,14 @@ tags:
 - [[works/nether-stowey-(coleridge)|NETHER STOWEY (Coleridge)]]
 - [[works/to-matilda-betham-from-a-stranger-(coleridge)|TO MATILDA BETHAM FROM A STRANGER (Coleridge)]]
 - [[works/to-the-nightingale-(coleridge)|TO THE NIGHTINGALE (Coleridge)]]
-- 861. Split the Lark — and you'll find the Music — (Dickinson)
-- 880. The Bird must sing to earn the Crumb (Dickinson)
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0861_split_the_lark_and_youll_find_the_music|861. Split the Lark — and you'll find the Music — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0880_the_bird_must_sing_to_earn_the_crumb|880. The Bird must sing to earn the Crumb (Dickinson)]]
 - [[works/ii.-a-game-of-chess-(eliot)|II. A Game of Chess (Eliot)]]
 - [[works/sweeney-among-the-nightingales-(eliot)|Sweeney Among the Nightingales (Eliot)]]
 - [[works/ode-to-a-nightingale-(keats)|ODE TO A NIGHTINGALE (Keats)]]
 - [[works/on-receiving-a-curious-shell,-and-a-copy-of-verses,-from-the-same-ladies-(keats)|ON RECEIVING A CURIOUS SHELL, AND A COPY OF VERSES, FROM THE SAME LADIES (Keats)]]
 - [[works/to-some-ladies-(keats)|TO SOME LADIES (Keats)]]
-- Sonnet 102 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_102|Sonnet 102 (Shakespeare)]]
 - [[works/the-canterville-ghost-(wilde)|The Canterville Ghost (Wilde)]]
 - [[works/the-nightingale-and-the-rose-(wilde)|The Nightingale and the Rose (Wilde)]]
 - [[works/vera,-or-the-nihilists-(wilde)|Vera, or The Nihilists (Wilde)]]

@@ -26,7 +26,7 @@ tags:
 **Motifs:** [[motifs/birds|Birds]], [[motifs/death|Death]], [[motifs/sea|Sea]], [[motifs/storm|Storm]]
 **Themes & Concepts:** [[concepts/revenge|Revenge]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

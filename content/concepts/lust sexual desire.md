@@ -27,14 +27,14 @@ tags:
 - [[works/spots-in-the-sun-(coleridge)|SPOTS IN THE SUN (Coleridge)]]
 - [[works/the-kiss-(coleridge)|THE KISS (Coleridge)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
-- 1033. Said Death to Passion (Dickinson)
-- 1282. Art thou the thing I wanted (Dickinson)
-- 1291. Until the Desert knows (Dickinson)
-- 1301. I cannot want it more — (Dickinson)
-- 1315. Which is the best — the Moon or the Crescent (Dickinson)
-- 213. Did the Harebell loose her girdle (Dickinson)
-- 334. All the letters I can write (Dickinson)
-- 872. As the Starved Maelstrom laps the Navies (Dickinson)
+- [[testi/dickinson/atomized/death-silence-bells#1033_said_death_to_passion|1033. Said Death to Passion (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1282_art_thou_the_thing_i_wanted|1282. Art thou the thing I wanted (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1291_until_the_desert_knows|1291. Until the Desert knows (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1301_i_cannot_want_it_more|1301. I cannot want it more — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1315_which_is_the_best_the_moon_or_the_crescent|1315. Which is the best — the Moon or the Crescent (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0213_did_the_harebell_loose_her_girdle|213. Did the Harebell loose her girdle (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0334_all_the_letters_i_can_write|334. All the letters I can write (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0872_as_the_starved_maelstrom_laps_the_navies|872. As the Starved Maelstrom laps the Navies (Dickinson)]]
 - [[works/dans-le-restaurant-(eliot)|Dans le Restaurant (Eliot)]]
 - [[works/hysteria-(eliot)|Hysteria (Eliot)]]
 - [[works/ii.-a-game-of-chess-(eliot)|II. A Game of Chess (Eliot)]]
@@ -54,16 +54,16 @@ tags:
 - [[works/antony-and-cleopatra-(shakespeare)|ANTONY AND CLEOPATRA (Shakespeare)]]
 - [[works/cardenio---a-brief-account-(shakespeare)|CARDENIO - A BRIEF ACCOUNT (Shakespeare)]]
 - [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
-- Sonnet 129 (Shakespeare)
-- Sonnet 135 (Shakespeare)
-- Sonnet 136 (Shakespeare)
-- Sonnet 141 (Shakespeare)
-- Sonnet 142 (Shakespeare)
-- Sonnet 147 (Shakespeare)
-- Sonnet 151 (Shakespeare)
-- Sonnet 20 (Shakespeare)
-- Sonnet 41 (Shakespeare)
-- Sonnet 95 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_129|Sonnet 129 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_135|Sonnet 135 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_136|Sonnet 136 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_141|Sonnet 141 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_142|Sonnet 142 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_147|Sonnet 147 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_151|Sonnet 151 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_020|Sonnet 20 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_041|Sonnet 41 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_095|Sonnet 95 (Shakespeare)]]
 - [[works/the-merry-wives-of-windsor-(shakespeare)|THE MERRY WIVES OF WINDSOR (Shakespeare)]]
 - [[works/the-rape-of-lucrece-(shakespeare)|THE RAPE OF LUCRECE (Shakespeare)]]
 - [[works/troilus-and-cressida-(shakespeare)|TROILUS AND CRESSIDA (Shakespeare)]]

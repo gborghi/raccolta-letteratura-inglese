@@ -26,7 +26,7 @@ tags:
 **Motifs:** [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/immortality|Immortality]], [[concepts/divine-love|Divine Love]]
 **Historical References:** [[historical-references/christianity|Christianity]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

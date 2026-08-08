@@ -61,13 +61,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** King, Usurper
+**Archetypes:** [[archetypes/king|King]], [[archetypes/usurper|Usurper]]
 **Motifs:** [[motifs/crown|Crown]], [[motifs/swords-and-weapons|Swords and Weapons]]
 **Themes & Concepts:** [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/ambition|Ambition]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]], [[forms/verse-drama|Verse Drama]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/court|Court]], [[settings/medieval-england-(2)|Medieval England (2)]]
-**Characters:** King John, Philip the Bastard, Constance, Arthur, King Philip of France, Cardinal Pandulph, Hubert
+**Characters:** [[characters/king-john|King John]], [[characters/philip-the-bastard|Philip the Bastard]], [[characters/constance|Constance]], [[characters/arthur|Arthur]], [[characters/king-philip-of-france|King Philip of France]], [[characters/cardinal-pandulph|Cardinal Pandulph]], [[characters/hubert|Hubert]]
 
 ## Testo integrale / Full text
 

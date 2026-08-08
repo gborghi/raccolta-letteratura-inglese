@@ -89,18 +89,18 @@ tags:
 - [[works/nicholas-nickleby-(dickens)|Nicholas Nickleby (Dickens)]]
 - [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
-- 1226. The Popular Heart is a Cannon first — (Dickinson)
-- 1256. Not any higher stands the Grave (Dickinson)
-- 1483. The Robin is a Gabriel (Dickinson)
-- 159. A little bread — a crust — a crumb — (Dickinson)
-- 166. I met a King this afternoon! (Dickinson)
-- 171. Wait till the Majesty of Death (Dickinson)
-- 34. Garland for Queens, may be — (Dickinson)
-- 380. There is a flower that Bees prefer — (Dickinson)
-- 385. Smiling back from Coronation (Dickinson)
-- 741. Drama's Vitallest Expression is the Common Day (Dickinson)
-- 763. He told a homely tale (Dickinson)
-- 767. To offer brave assistance (Dickinson)
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1226_the_popular_heart_is_a_cannon_first|1226. The Popular Heart is a Cannon first — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1256_not_any_higher_stands_the_grave|1256. Not any higher stands the Grave (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1483_the_robin_is_a_gabriel|1483. The Robin is a Gabriel (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0159_a_little_bread_a_crust_a_crumb|159. A little bread — a crust — a crumb — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0166_i_met_a_king_this_afternoon|166. I met a King this afternoon! (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0171_wait_till_the_majesty_of_death|171. Wait till the Majesty of Death (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0034_garland_for_queens_may_be|34. Garland for Queens, may be — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0380_there_is_a_flower_that_bees_prefer|380. There is a flower that Bees prefer — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0385_smiling_back_from_coronation|385. Smiling back from Coronation (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0741_dramas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0763_he_told_a_homely_tale|763. He told a homely tale (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0767_to_offer_brave_assistance|767. To offer brave assistance (Dickinson)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/the-cocktail-party-(eliot)|THE COCKTAIL PARTY (Eliot)]]
 - [[works/the-poet---a-fragment-(keats)|The Poet - A Fragment (Keats)]]

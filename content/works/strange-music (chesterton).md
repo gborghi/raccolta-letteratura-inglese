@@ -38,7 +38,7 @@ tags:
 
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/unattainable-beloved|Unattainable Beloved]]
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/music-and-song|Music and Song]], [[motifs/silence|Silence]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/mortality|Mortality]], [[concepts/hope|Hope]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/inexpressibility-of-beauty|Inexpressibility of Beauty]], [[concepts/patience-and-waiting|Patience and Waiting]], [[concepts/death-and-love|Death and Love]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

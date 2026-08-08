@@ -26,7 +26,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/locus-amoenus|Locus Amoenus]], [[topoi/pastoral-retreat|Pastoral Retreat]]
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[concepts/nature|Nature]], [[motifs/flowers|Flowers]], [[motifs/garden|Garden]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

@@ -59,7 +59,7 @@ tags:
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
 - [[works/hard-times-(dickens)|Hard Times (Dickens)]]
 - [[works/oliver-twist-(dickens)|Oliver Twist (Dickens)]]
-- 1082. Revolution is the Pod (Dickinson)
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1082_revolution_is_the_pod|1082. Revolution is the Pod (Dickinson)]]
 - [[works/sonnet-on-peace-(keats)|Sonnet on Peace (Keats)]]
 - [[works/outlines-for-a-tomb-g.-p.,-buried-1870-(whitman)|Outlines for a Tomb G. P., Buried 1870 (Whitman)]]
 - [[works/reversals-(whitman)|Reversals (Whitman)]]

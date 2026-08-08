@@ -42,18 +42,18 @@ tags:
 - [[works/songs-of-the-pixies-(coleridge)|SONGS OF THE PIXIES (Coleridge)]]
 - [[works/sonnet-to-the-autumnal-moon-(coleridge)|SONNET TO THE AUTUMNAL MOON (Coleridge)]]
 - [[works/to-the-nightingale-(coleridge)|TO THE NIGHTINGALE (Coleridge)]]
-- 1315. Which is the best — the Moon or the Crescent (Dickinson)
-- 1386. Summer — we all have seen — (Dickinson)
-- 1450. The Road was lit with Moon and star — (Dickinson)
-- 1528. The Moon upon her fluent Route (Dickinson)
-- 289. I know some lonely Houses off the Road (Dickinson)
-- 429. The Moon is distant from the Sea — (Dickinson)
-- 504. You know that Portrait in the Moon — (Dickinson)
-- 629. I watched the Moon around the House (Dickinson)
-- 643. I could suffice for Him, I knew — (Dickinson)
-- 663. Again — his voice is at the door — (Dickinson)
-- 737. The Moon was but a Chin of Gold (Dickinson)
-- 909. I make His Crescent fill or lack — (Dickinson)
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1315_which_is_the_best_the_moon_or_the_crescent|1315. Which is the best — the Moon or the Crescent (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1386_summer_we_all_have_seen|1386. Summer — we all have seen — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1450_the_road_was_lit_with_moon_and_star|1450. The Road was lit with Moon and star — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1528_the_moon_upon_her_fluent_route|1528. The Moon upon her fluent Route (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0289_i_know_some_lonely_houses_off_the_road|289. I know some lonely Houses off the Road (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0429_the_moon_is_distant_from_the_sea|429. The Moon is distant from the Sea — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0504_you_know_that_portrait_in_the_moon|504. You know that Portrait in the Moon — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0629_i_watched_the_moon_around_the_house|629. I watched the Moon around the House (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0643_i_could_suffice_for_him_i_knew|643. I could suffice for Him, I knew — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0663_again_his_voice_is_at_the_door|663. Again — his voice is at the door — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0737_the_moon_was_but_a_chin_of_gold|737. The Moon was but a Chin of Gold (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0909_i_make_his_crescent_fill_or_lack|909. I make His Crescent fill or lack — (Dickinson)]]
 - [[works/conversation-galante-(eliot)|Conversation Galante (Eliot)]]
 - [[works/humouresque-(eliot)|Humouresque (Eliot)]]
 - [[works/nocturne-(eliot)|Nocturne (Eliot)]]
@@ -88,9 +88,9 @@ tags:
 - [[works/the-village-street-(poe)|The Village Street (Poe)]]
 - [[works/to-helen-(poe)-(2)|To Helen (Poe) (2)]]
 - [[works/a-midsummer-night’s-dream-(shakespeare)|A MIDSUMMER NIGHT’S DREAM (Shakespeare)]]
-- Sonnet 107 (Shakespeare)
-- Sonnet 21 (Shakespeare)
-- Sonnet 35 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_107|Sonnet 107 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_021|Sonnet 21 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_035|Sonnet 35 (Shakespeare)]]
 - [[works/dirge-for-two-veterans-(whitman)|Dirge for Two Veterans (Whitman)]]
 - [[works/look-down-fair-moon-(whitman)|Look Down Fair Moon (Whitman)]]
 - [[works/out-of-the-cradle-endlessly-rocking-(whitman)|Out of the Cradle Endlessly Rocking (Whitman)]]

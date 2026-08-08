@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/comic-verse-song|Comic Verse Song]]

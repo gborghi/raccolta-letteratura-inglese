@@ -36,7 +36,7 @@ Bold italic text has been marked with =equals signs=.
 
 ]
 
-WINE, [[motifs/water|WATER]], AND [[Song|SONG]]
+WINE, [[motifs/water|WATER]], AND SONG
 
 BY THE SAME AUTHOR
 
@@ -56,7 +56,7 @@ A MISCELLANY OF MEN
 
 WINE, [[motifs/water|WATER]]
 
-AND [[Song|SONG]]
+AND SONG
 
 BY
 
@@ -78,9 +78,9 @@ Third Edition        August 23rd 1915
 
 NOTE
 
-The [[songs|Songs]] in this book are taken from "THE FLYING INN," with the
+The Songs in this book are taken from "THE FLYING INN," with the
 
-exception of "The Good Rich Man" and "The [[works/song-(poe)|Song]] of the Strange [[ascetic|Ascetic]],"
+exception of "The Good Rich Man" and "The [[works/song-(poe)|Song]] of the Strange Ascetic,"
 
 which are here included by kind permission of the editor of =The New
 
@@ -96,19 +96,19 @@ Wine and [[motifs/water|Water]]                       11
 
 The [[works/song-(poe)|Song]] against Grocers             15
 
-The [[rolling|Rolling]] English [[motifs/road|Road]]             20
+The Rolling English [[motifs/road|Road]]             20
 
 The [[works/song-(poe)|Song]] of [[characters/quoodle|Quoodle]]                  24
 
 Pioneers, O Pioneers                 27
 
-The Logical [[vegetarian|Vegetarian]]               31
+The Logical Vegetarian               31
 
 "The Saracen's Head"                 34
 
 The Good Rich Man                    37
 
-The [[works/song-(poe)|Song]] against [[songs|Songs]]               42
+The [[works/song-(poe)|Song]] against Songs               42
 
 Me Heart                             45
 
@@ -116,13 +116,13 @@ The [[works/song-(poe)|Song]] of the Oak                  49
 
 The [[motifs/road|Road]] to Roundabout               53
 
-The [[works/song-(poe)|Song]] of the Strange [[ascetic|Ascetic]]      57
+The [[works/song-(poe)|Song]] of the Strange Ascetic      57
 
 The [[works/song-(poe)|Song]] of Right and Wrong          60
 
 Who Goes [[motifs/home|Home]]?                       63
 
-WINE, [[motifs/water|WATER]], AND [[Song|SONG]]
+WINE, [[motifs/water|WATER]], AND SONG
 
 The Englishman
 
@@ -214,7 +214,7 @@ But I don't care where the [[motifs/water|water]] goes if it doesn't get into th
 
 The [[works/song-(poe)|Song]] Against Grocers
 
-God made the wicked [[grocer|Grocer]]
+God made the wicked Grocer
 
 For a mystery and a sign,
 
@@ -230,7 +230,7 @@ And God that made good laughter
 
 Has seen that they are good.
 
-The evil-hearted [[grocer|Grocer]]
+The evil-hearted Grocer
 
 Would call his mother "Ma'am,"
 
@@ -270,13 +270,13 @@ To crack a bottle with a friend
 
 Or treat unmoneyed men,
 
-But who hath seen the [[grocer|Grocer]]
+But who hath seen the Grocer
 
 Treat housemaids to his teas
 
 Or crack a bottle of fish-sauce
 
-Or stand a man a [[cheese]]?
+Or stand a man a cheese?
 
 He sells us sands of Araby
 
@@ -294,7 +294,7 @@ And when they die by thousands
 
 Why, he laughs like anything.
 
-The wicked [[grocer|Grocer]] groces
+The wicked Grocer groces
 
 In spirits and in wine,
 
@@ -310,7 +310,7 @@ For to be snatched by Duchesses
 
 And drunk in dressing-rooms.
 
-The hell-instructed [[grocer|Grocer]]
+The hell-instructed Grocer
 
 Has a temple made of tin,
 
@@ -322,17 +322,17 @@ But now the sands are running out
 
 From sugar of a sort,
 
-The [[grocer|Grocer]] trembles; for his [[motifs/time|time]],
+The Grocer trembles; for his [[motifs/time|time]],
 
 Just like his weight, is short.
 
-The [[rolling|Rolling]] English [[motifs/road|Road]]
+The Rolling English [[motifs/road|Road]]
 
 Before the Roman came to Rye or out to Severn strode,
 
-The [[rolling]] English drunkard made the [[rolling]] English [[motifs/road|road]].
+The rolling English drunkard made the rolling English [[motifs/road|road]].
 
-A reeling [[motifs/road|road]], a [[rolling]] [[motifs/road|road]], that rambles round the shire,
+A reeling [[motifs/road|road]], a rolling [[motifs/road|road]], that rambles round the shire,
 
 And after him the parson ran, the sexton and the squire;
 
@@ -412,7 +412,7 @@ The old bones buried under,
 
 Are things in which they blunder
 
-And err, if left [[Alone|alone]].
+And err, if left alone.
 
 The [[motifs/wind|wind]] from [[motifs/winter|winter]] forests,
 
@@ -496,13 +496,13 @@ But stoning the prophets is ancient news,
 
 Like Nebuchadnezzar the [[archetypes/king|King]] of the Jews.
 
-The Logical [[vegetarian|Vegetarian]]
+The Logical Vegetarian
 
-"Why shouldn't I have a purely [[vegetarian]] drink? Why shouldn't I take
+"Why shouldn't I have a purely vegetarian drink? Why shouldn't I take
 
 vegetables in their highest form, so to speak? The modest vegetarians
 
-ought obviously to stick to wine or beer, plain [[vegetarian]] drinks,
+ought obviously to stick to wine or beer, plain vegetarian drinks,
 
 instead of filling their goblets with the [[motifs/blood|blood]] of bulls and elephants,
 
@@ -518,7 +518,7 @@ You will find me drinking gin
 
 In the lowest kind of inn,
 
-Because I am a rigid [[vegetarian|Vegetarian]].
+Because I am a rigid Vegetarian.
 
 So I cleared the inn of wine,
 
@@ -530,7 +530,7 @@ But he said I couldn't speak,
 
 And he bowled me to the Beak
 
-Because I was a Happy [[vegetarian|Vegetarian]].
+Because I was a Happy Vegetarian.
 
 Oh, I knew a Doctor Gluck,
 
@@ -542,7 +542,7 @@ So I gave him all the pork
 
 That I had, upon a fork;
 
-Because I am myself a [[vegetarian|Vegetarian]].
+Because I am myself a Vegetarian.
 
 I am silent in the Club,
 
@@ -554,11 +554,11 @@ For I stuff away for life
 
 Shoving peas in with a knife,
 
-Because I am at heart a [[vegetarian|Vegetarian]].
+Because I am at heart a Vegetarian.
 
 No more the milk of cows
 
-Shall pollute my private [[house]]
+Shall pollute my private house
 
 Than the milk of the wild mares of the Barbarian;
 
@@ -566,7 +566,7 @@ I will stick to port and sherry,
 
 For they are so very, very,
 
-So very, very, very [[vegetarian|Vegetarian]].
+So very, very, very Vegetarian.
 
 "The Saracen's Head"
 
@@ -670,19 +670,19 @@ Merrily taking twopenny ale and pork with a pocket-knife;
 
 But this was luxury not for one that went for the Simple Life.
 
-The [[works/song-(poe)|Song]] Against [[songs|Songs]]
+The [[works/song-(poe)|Song]] Against Songs
 
-The [[Song|song]] of the sorrow of Melisande is a weary [[Song|song]] and a dreary [[Song|song]],
+The song of the sorrow of Melisande is a weary song and a dreary song,
 
 The glory of [[characters/mariana|Mariana]]'s grange had got into great [[motifs/decay|decay]],
 
-The [[Song|song]] of [[The Raven|the Raven]] Never More has never been called a cheery [[Song|song]],
+The song of the Raven Never More has never been called a cheery song,
 
 And the brightest things in Baudelaire are anything else but gay.
 
-But who will write us a riding [[Song|song]],
+But who will write us a riding song,
 
-Or a hunting [[Song|song]] or a drinking [[Song|song]],
+Or a hunting song or a drinking song,
 
 Fit for them that arose and rode
 
@@ -690,31 +690,31 @@ When day and the wine were red?
 
 But bring me a quart of claret out,
 
-And I will write you a clinking [[Song|song]],
+And I will write you a clinking song,
 
-A [[Song|song]] of war and a [[Song|song]] of wine
+A song of war and a song of wine
 
-And a [[Song|song]] to wake the dead.
+And a song to wake the dead.
 
-The [[Song|song]] of the fury of Fragolette is a florid [[Song|song]] and a torrid [[Song|song]],
+The song of the fury of Fragolette is a florid song and a torrid song,
 
-The [[Song|song]] of the sorrow of Tara is sung to a harp unstrung,
+The song of the sorrow of Tara is sung to a harp unstrung,
 
-The [[Song|song]] of the cheerful Shropshire Lad I consider a perfectly horrid [[Song|song]],
+The song of the cheerful Shropshire Lad I consider a perfectly horrid song,
 
-And the [[Song|song]] of the happy Futurist is a [[Song|song]] that can't be sung.
+And the song of the happy Futurist is a song that can't be sung.
 
-But who will write us a riding [[Song|song]]
+But who will write us a riding song
 
-Or a fighting [[Song|song]] or a drinking [[Song|song]],
+Or a fighting song or a drinking song,
 
 Fit for the fathers of you and me,
 
 That knew how to think and thrive?
 
-But the [[Song|song]] of [[concepts/beauty|Beauty]] and Art and [[motifs/love|Love]]
+But the song of [[concepts/beauty|Beauty]] and Art and [[motifs/love|Love]]
 
-Is simply an utterly stinking [[Song|song]],
+Is simply an utterly stinking song,
 
 To [[topoi/double|double]] you up and drag you down
 
@@ -724,7 +724,7 @@ Me Heart
 
 I come from Castlepatrick, and me heart is on me sleeve,
 
-And any [[Sword|sword]] or [[characters/pistol|pistol]] boy can hit it with me leave,
+And any sword or [[characters/pistol|pistol]] boy can hit it with me leave,
 
 It shines there for an epaulette, as golden as a flame,
 
@@ -942,7 +942,7 @@ In the happy town of Roundabout,
 
 That makes the world go round.
 
-The [[works/song-(poe)|Song]] of the Strange [[ascetic|Ascetic]]
+The [[works/song-(poe)|Song]] of the Strange Ascetic
 
 If I had been a Heathen,
 
@@ -966,7 +966,7 @@ I'd have crowned Neoera's curls,
 
 And filled my life with [[motifs/love|love]] affairs,
 
-My [[house]] with dancing girls;
+My house with dancing girls;
 
 But Higgins is a Heathen,
 
@@ -1191,7 +1191,7 @@ Il testo in grassetto e corsivo è stato contrassegnato con i segni di uguale (=
 
 ]
 
-Vino, [[motifs/water|acqua]] e [[Song|canto]].
+Vino, [[motifs/water|acqua]] e canto.
 
 Lo stesso autore
 
@@ -1211,7 +1211,7 @@ Un insieme di uomini
 
 VINO, [[motifs/water|ACQUA]]
 
-E [[Song|CANZONA]]
+E CANZONA
 
 BY
 
@@ -1233,9 +1233,9 @@ Terza edizione – 23 agosto 1915
 
 Nota
 
-Le [[songs|CANZONI]] presenti in questo libro sono tratte da “THE FLYING INN”.
+Le CANZONI presenti in questo libro sono tratte da “THE FLYING INN”.
 
-Ad eccezione di “Il buon ricco” e “La [[Song|canzone]] dello strano [[ascetic|asceta]]””.
+Ad eccezione di “Il buon ricco” e “La canzone dello strano asceta””.
 
 Titolo:  
 Qui inclusi per gentile concessione dell’editore di “The New”
@@ -1250,35 +1250,35 @@ L'inglese                          9
 
 Vino e [[motifs/water|Acqua]]                          11
 
-La [[Song|Canzone]] contro i negozi di alimentari             15
+La Canzone contro i negozi di alimentari             15
 
-La [[rolling|strada]] inglese [[motifs/road|ripolverosa]]             20
+La strada inglese [[motifs/road|ripolverosa]]             20
 
-La [[Song|Canzone]] di [[characters/quoodle|Quoodle]]                          24
+La Canzone di [[characters/quoodle|Quoodle]]                          24
 
 Pionieri, o pionieri                  27
 
-Il logico [[vegetarian|vegetariano]]                31
+Il logico vegetariano                31
 
 "#La testa del saraceno"                34
 
 Il buon ricco                    37
 
-La [[Song|Canzone]] contro le altre canzoni                42
+La Canzone contro le altre canzoni                42
 
 Il mio cuore                           45
 
-La [[Song|Canzone]] del Quercio                49
+La Canzone del Quercio                49
 
 La [[motifs/road|Strada]] che conduce al rondò        53
 
-La [[Song|Canzone]] dello strano [[ascetic|Asceta]]      57
+La Canzone dello strano Asceta      57
 
-La [[Song|Canzone]] del Giusto e dell’Ingiusto          60
+La Canzone del Giusto e dell’Ingiusto          60
 
 Chi va a [[motifs/home|casa]]?                          63
 
-Vino, [[motifs/water|acqua]] e [[Song|canto]].
+Vino, [[motifs/water|acqua]] e canto.
 
 L'inglese
 
@@ -1368,9 +1368,9 @@ E l’[[motifs/water|acqua]] si trova sulla scacchiera del Vescovo e nel santuar
 
 Ma non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.
 
-La [[Song|Canzone]] contro i negozi di alimentari
+La Canzone contro i negozi di alimentari
 
-Dio creò il malvagio [[grocer|Rivenditore di alimenti]].
+Dio creò il malvagio Rivenditore di alimenti.
 
 Per un mistero e un segno
 
@@ -1386,7 +1386,7 @@ E Dio che ha creato la buona risata
 
 Ha visto che sono buoni.
 
-Il malvagio [[grocer|Rivenditore di alimenti]]
+Il malvagio Rivenditore di alimenti
 
 Chiamerebbe sua madre “Signora”.
 
@@ -1426,13 +1426,13 @@ Rompere una bottiglia con un amico
 
 O trattare gli uomini senza denaro…
 
-Ma chi ha mai visto il [[grocer|Rivenditore di alimentari]]?
+Ma chi ha mai visto il Rivenditore di alimentari?
 
 "Trattare le cameriere con il suo tè"
 
 Mai aprire una bottiglia di salsa di pesce
 
-O offrire a un uomo un [[cheese|formaggio]]?
+O offrire a un uomo un formaggio?
 
 Ci vende le sabbie d'Arabia
 
@@ -1450,7 +1450,7 @@ E quando muoiono a migliaia
 
 Ebbene, ride a più non posso.
 
-Il malvagio [[grocer|Droghiere]] drogheggia
+Il malvagio Droghiere drogheggia
 
 In liquori e in vino,
 
@@ -1466,7 +1466,7 @@ Per essere afferrato dalle Duchesse
 
 E bevuto negli spogliatoi.
 
-Il [[grocer|Droghiere]] istruito dall'inferno
+Il Droghiere istruito dall'inferno
 
 Ha un tempio fatto di latta,
 
@@ -1478,17 +1478,17 @@ Ma ora la sabbia sta scorrendo via
 
 Da uno zucchero di dubbia specie,
 
-Il [[grocer|Droghiere]] trema; poiché il suo [[motifs/time|tempo]],
+Il Droghiere trema; poiché il suo [[motifs/time|tempo]],
 
 Proprio come il suo peso, è scarso.
 
-La [[motifs/road|Strada]] Inglese [[rolling|Serpeggiante]]
+La [[motifs/road|Strada]] Inglese Serpeggiante
 
 Prima che il Romano giungesse a Rye o s'inoltrasse verso il Severn,
 
-L'[[rolling|ondeggiante]] ubriacone inglese fece l'[[rolling|ondeggiante]] [[motifs/road|strada]] inglese.
+L'ondeggiante ubriacone inglese fece l'ondeggiante [[motifs/road|strada]] inglese.
 
-Una [[motifs/road|strada]] barcollante, una [[motifs/road|strada]] [[rolling|ondeggiante]], che vagabonda per la contea,
+Una [[motifs/road|strada]] barcollante, una [[motifs/road|strada]] ondeggiante, che vagabonda per la contea,
 
 E dietro a lui corsero il parroco, il sagrestano e lo squire;
 
@@ -1532,7 +1532,7 @@ Poiché vi sono ancora buone novelle da udire e belle cose da vedere,
 
 Prima di andare in Paradiso passando per Kensal Green.
 
-Il [[Song|Canto]] di [[characters/quoodle|Quoodle]]
+Il Canto di [[characters/quoodle|Quoodle]]
 
 Non hanno nasi, loro,
 
@@ -1568,7 +1568,7 @@ Le vecchie ossa sepolte sotto,
 
 Sono cose in cui essi arrancano
 
-E sbagliano, se lasciati [[Alone|soli]].
+E sbagliano, se lasciati soli.
 
 Il [[motifs/wind|vento]] dalle foreste d'[[motifs/winter|inverno]],
 
@@ -1652,13 +1652,13 @@ Ma lapidare i profeti è cosa antica,
 
 Come Nabucodonosor il [[archetypes/king|Re]] dei Giudei.
 
-Il [[vegetarian|Vegetariano]] Logico
+Il Vegetariano Logico
 
-«Perché non dovrei avere una bevanda puramente [[vegetarian|vegetariana]]? Perché non dovrei prendere
+«Perché non dovrei avere una bevanda puramente vegetariana? Perché non dovrei prendere
 
 i vegetali nella loro forma più alta, per così dire? I modesti vegetariani
 
-dovrebbero ovviamente attenersi al vino o alla birra, semplici bevande [[vegetarian|vegetariane]],
+dovrebbero ovviamente attenersi al vino o alla birra, semplici bevande vegetariane,
 
 invece di colmare i loro calici col [[motifs/blood|sangue]] di tori ed elefanti,
 
@@ -1674,7 +1674,7 @@ Mi troverai a bere gin
 
 Nella più infima specie di locanda,
 
-Perché sono un rigido [[vegetarian|Vegetariano]].
+Perché sono un rigido Vegetariano.
 
 Così vuotai la locanda del vino,
 
@@ -1686,7 +1686,7 @@ Ma egli disse che non sapevo parlare,
 
 E mi spedì di filato dal Giudice
 
-Perché ero un Felice [[vegetarian|Vegetariano]].
+Perché ero un Felice Vegetariano.
 
 Oh, conoscevo un Dottor Gluck,
 
@@ -1698,7 +1698,7 @@ Così gli diedi tutto il maiale
 
 Che avevo, su una forchetta;
 
-Perché io stesso sono un [[vegetarian|Vegetariano]].
+Perché io stesso sono un Vegetariano.
 
 Sono silenzioso al Circolo,
 
@@ -1710,11 +1710,11 @@ Poiché mi rimpinzo per la vita
 
 Cacciandomi i piselli con un coltello,
 
-Perché in cuore sono un [[vegetarian|Vegetariano]].
+Perché in cuore sono un Vegetariano.
 
 Non più il latte di mucca
 
-Contaminerà la mia privata [[house|dimora]]
+Contaminerà la mia privata dimora
 
 Più del latte delle cavalle selvagge del Barbaro;
 
@@ -1722,7 +1722,7 @@ Mi atterrò al porto e allo sherry,
 
 Poiché sono così tanto, tanto,
 
-Così tanto, tanto, tanto [[vegetarian|Vegetariani]].
+Così tanto, tanto, tanto Vegetariani.
 
 «La Testa del Saraceno»
 
@@ -1826,19 +1826,19 @@ Prendendo allegramente birra da due soldi e maiale con un temperino;
 
 Ma questo era un lusso non per chi mirava alla Vita Semplice.
 
-Il [[Song|Canto]] contro i [[songs|Canti]]
+Il Canto contro i Canti
 
-Il [[Song|canto]] del dolore di Melisande è un [[Song|canto]] fiacco e un [[Song|canto]] tetro,
+Il canto del dolore di Melisande è un canto fiacco e un canto tetro,
 
 La gloria della fattoria di [[characters/mariana|Mariana]] era caduta in gran [[motifs/decay|rovina]],
 
-Il [[Song|canto]] del [[The Raven|Corvo]] Mai Più non è mai stato detto un [[Song|canto]] gaio,
+Il canto del Corvo Mai Più non è mai stato detto un canto gaio,
 
 E le cose più luminose in Baudelaire sono tutt'altro che liete.
 
-Ma chi ci scriverà un [[Song|canto]] da cavalcata,
+Ma chi ci scriverà un canto da cavalcata,
 
-O un [[Song|canto]] di caccia o un [[Song|canto]] da bevuta,
+O un canto di caccia o un canto da bevuta,
 
 Degno di coloro che si levarono e cavalcarono
 
@@ -1846,31 +1846,31 @@ Quando il giorno e il vino erano rossi?
 
 Ma portatemi fuori un quarto di chiaretto,
 
-E vi scriverò un [[Song|canto]] tintinnante,
+E vi scriverò un canto tintinnante,
 
-Un [[Song|canto]] di guerra e un [[Song|canto]] di vino
+Un canto di guerra e un canto di vino
 
-E un [[Song|canto]] per svegliare i morti.
+E un canto per svegliare i morti.
 
-Il [[Song|canto]] della furia di Fragolette è un [[Song|canto]] florido e un [[Song|canto]] torrido,
+Il canto della furia di Fragolette è un canto florido e un canto torrido,
 
-Il [[Song|canto]] del dolore di Tara è cantato su un'arpa scordata,
+Il canto del dolore di Tara è cantato su un'arpa scordata,
 
-Il [[Song|canto]] dell'allegro Giovane dello Shropshire lo considero un [[Song|canto]] perfettamente orrendo,
+Il canto dell'allegro Giovane dello Shropshire lo considero un canto perfettamente orrendo,
 
-E il [[Song|canto]] del felice Futurista è un [[Song|canto]] che non si può cantare.
+E il canto del felice Futurista è un canto che non si può cantare.
 
-Ma chi ci scriverà un [[Song|canto]] da cavalcata
+Ma chi ci scriverà un canto da cavalcata
 
-O un [[Song|canto]] di battaglia o un [[Song|canto]] da bevuta,
+O un canto di battaglia o un canto da bevuta,
 
 Degno dei padri tuoi e miei,
 
 Che sapevano pensare e prosperare?
 
-Ma il [[Song|canto]] della [[concepts/beauty|Bellezza]] e dell'Arte e dell'[[motifs/love|Amore]]
+Ma il canto della [[concepts/beauty|Bellezza]] e dell'Arte e dell'[[motifs/love|Amore]]
 
-È semplicemente un [[Song|canto]] del tutto puzzolente,
+È semplicemente un canto del tutto puzzolente,
 
 Da [[topoi/double|piegarti]] in due e trascinarti giù
 
@@ -1880,7 +1880,7 @@ Il Mio Cuore
 
 Vengo da Castlepatrick, e il mio cuore è sulla mia manica,
 
-E qualsiasi ragazzo con [[Sword|spada]] o [[characters/pistol|pistola]] può colpirlo col mio permesso,
+E qualsiasi ragazzo con spada o [[characters/pistol|pistola]] può colpirlo col mio permesso,
 
 Vi brilla come una spallina, dorato come una fiamma,
 
@@ -1914,7 +1914,7 @@ Ma vengo da Castlepatrick, e il mio cuore è sulla mia manica;
 
 Ma una dama me lo rubò la Vigilia di San Barnaba.
 
-Il [[Song|Canto]] della Quercia
+Il Canto della Quercia
 
 I Druidi agitavano i loro coltelli d'oro
 
@@ -2098,7 +2098,7 @@ Nella felice città di Roundabout,
 
 Che fa girare il mondo.
 
-Il [[Song|Canto]] dello Strano [[ascetic|Asceta]]
+Il Canto dello Strano Asceta
 
 Se fossi stato un Pagano,
 
@@ -2122,7 +2122,7 @@ Avrei incoronato i riccioli di Neera,
 
 E colmato la mia vita di relazioni d'[[motifs/love|amore]],
 
-La mia [[house|casa]] di fanciulle danzanti;
+La mia casa di fanciulle danzanti;
 
 Ma Higgins è un Pagano,
 
@@ -2180,7 +2180,7 @@ Di coloro che non hanno la [[concepts/faith|fede]],
 
 E non vogliono il divertimento.
 
-Il [[Song|Canto]] del Giusto e dell'Ingiusto
+Il Canto del Giusto e dell'Ingiusto
 
 Banchetta col vino o digiuna con l'[[motifs/water|acqua]],
 
@@ -2351,7 +2351,7 @@ Bold italic text has been marked with =equals signs=.
 
 ]
 
-WINE, [[motifs/water|WATER]], AND [[Song|SONG]]
+WINE, [[motifs/water|WATER]], AND SONG
 
 BY THE SAME AUTHOR
 
@@ -2371,7 +2371,7 @@ A MISCELLANY OF MEN
 
 WINE, [[motifs/water|WATER]]
 
-AND [[Song|SONG]]
+AND SONG
 
 BY
 
@@ -2393,9 +2393,9 @@ Third Edition        August 23rd 1915
 
 NOTE
 
-The [[songs|Songs]] in this book are taken from "THE FLYING INN," with the
+The Songs in this book are taken from "THE FLYING INN," with the
 
-exception of "The Good Rich Man" and "The [[works/song-(poe)|Song]] of the Strange [[ascetic|Ascetic]],"
+exception of "The Good Rich Man" and "The [[works/song-(poe)|Song]] of the Strange Ascetic,"
 
 which are here included by kind permission of the editor of =The New
 
@@ -2411,19 +2411,19 @@ Wine and [[motifs/water|Water]]                       11
 
 The [[works/song-(poe)|Song]] against Grocers             15
 
-The [[rolling|Rolling]] English [[motifs/road|Road]]             20
+The Rolling English [[motifs/road|Road]]             20
 
 The [[works/song-(poe)|Song]] of [[characters/quoodle|Quoodle]]                  24
 
 Pioneers, O Pioneers                 27
 
-The Logical [[vegetarian|Vegetarian]]               31
+The Logical Vegetarian               31
 
 "The Saracen's Head"                 34
 
 The Good Rich Man                    37
 
-The [[works/song-(poe)|Song]] against [[songs|Songs]]               42
+The [[works/song-(poe)|Song]] against Songs               42
 
 Me Heart                             45
 
@@ -2431,13 +2431,13 @@ The [[works/song-(poe)|Song]] of the Oak                  49
 
 The [[motifs/road|Road]] to Roundabout               53
 
-The [[works/song-(poe)|Song]] of the Strange [[ascetic|Ascetic]]      57
+The [[works/song-(poe)|Song]] of the Strange Ascetic      57
 
 The [[works/song-(poe)|Song]] of Right and Wrong          60
 
 Who Goes [[motifs/home|Home]]?                       63
 
-WINE, [[motifs/water|WATER]], AND [[Song|SONG]]
+WINE, [[motifs/water|WATER]], AND SONG
 
 The Englishman
 
@@ -2529,7 +2529,7 @@ But I don't care where the [[motifs/water|water]] goes if it doesn't get into th
 
 The [[works/song-(poe)|Song]] Against Grocers
 
-God made the wicked [[grocer|Grocer]]
+God made the wicked Grocer
 
 For a mystery and a sign,
 
@@ -2545,7 +2545,7 @@ And God that made good laughter
 
 Has seen that they are good.
 
-The evil-hearted [[grocer|Grocer]]
+The evil-hearted Grocer
 
 Would call his mother "Ma'am,"
 
@@ -2585,7 +2585,7 @@ To crack a bottle with a friend
 
 Or treat unmoneyed men,
 
-But who hath seen the [[grocer|Grocer]]
+But who hath seen the Grocer
 
 Treat housemaids to his teas
 
@@ -2616,7 +2616,7 @@ Il testo in grassetto e corsivo è stato contrassegnato con i segni di uguale (=
 
 ]
 
-Vino, [[motifs/water|acqua]] e [[Song|canto]].
+Vino, [[motifs/water|acqua]] e canto.
 
 Lo stesso autore
 
@@ -2636,7 +2636,7 @@ Un insieme di uomini
 
 VINO, [[motifs/water|ACQUA]]
 
-E [[Song|CANZONA]]
+E CANZONA
 
 BY
 
@@ -2658,9 +2658,9 @@ Terza edizione – 23 agosto 1915
 
 Nota
 
-Le [[songs|CANZONI]] presenti in questo libro sono tratte da “THE FLYING INN”.
+Le CANZONI presenti in questo libro sono tratte da “THE FLYING INN”.
 
-Ad eccezione di “Il buon ricco” e “La [[Song|canzone]] dello strano [[ascetic|asceta]]””.
+Ad eccezione di “Il buon ricco” e “La canzone dello strano asceta””.
 
 Titolo:  
 Qui inclusi per gentile concessione dell’editore di “The New”
@@ -2675,35 +2675,35 @@ L'inglese                          9
 
 Vino e [[motifs/water|Acqua]]                          11
 
-La [[Song|Canzone]] contro i negozi di alimentari             15
+La Canzone contro i negozi di alimentari             15
 
-La [[rolling|strada]] inglese [[motifs/road|ripolverosa]]             20
+La strada inglese [[motifs/road|ripolverosa]]             20
 
-La [[Song|Canzone]] di [[characters/quoodle|Quoodle]]                          24
+La Canzone di [[characters/quoodle|Quoodle]]                          24
 
 Pionieri, o pionieri                  27
 
-Il logico [[vegetarian|vegetariano]]                31
+Il logico vegetariano                31
 
 "#La testa del saraceno"                34
 
 Il buon ricco                    37
 
-La [[Song|Canzone]] contro le altre canzoni                42
+La Canzone contro le altre canzoni                42
 
 Il mio cuore                           45
 
-La [[Song|Canzone]] del Quercio                49
+La Canzone del Quercio                49
 
 La [[motifs/road|Strada]] che conduce al rondò        53
 
-La [[Song|Canzone]] dello strano [[ascetic|Asceta]]      57
+La Canzone dello strano Asceta      57
 
-La [[Song|Canzone]] del Giusto e dell’Ingiusto          60
+La Canzone del Giusto e dell’Ingiusto          60
 
 Chi va a [[motifs/home|casa]]?                          63
 
-Vino, [[motifs/water|acqua]] e [[Song|canto]].
+Vino, [[motifs/water|acqua]] e canto.
 
 L'inglese
 
@@ -2793,9 +2793,9 @@ E l’[[motifs/water|acqua]] si trova sulla scacchiera del Vescovo e nel santuar
 
 Ma non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.
 
-La [[Song|Canzone]] contro i negozi di alimentari
+La Canzone contro i negozi di alimentari
 
-Dio creò il malvagio [[grocer|Rivenditore di alimenti]].
+Dio creò il malvagio Rivenditore di alimenti.
 
 Per un mistero e un segno
 
@@ -2811,7 +2811,7 @@ E Dio che ha creato la buona risata
 
 Ha visto che sono buoni.
 
-Il malvagio [[grocer|Rivenditore di alimenti]]
+Il malvagio Rivenditore di alimenti
 
 Chiamerebbe sua madre “Signora”.
 
@@ -2851,7 +2851,7 @@ Rompere una bottiglia con un amico
 
 O trattare gli uomini senza denaro…
 
-Ma chi ha mai visto il [[grocer|Rivenditore di alimentari]]?
+Ma chi ha mai visto il Rivenditore di alimentari?
 
 "Trattare le cameriere con il suo tè"
 
@@ -2862,7 +2862,7 @@ Mai aprire una bottiglia di salsa di pesce
 <span class="atom-split" data-atom="part--part_02" data-title="WineWaterSong (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/crown,motif/death,motif/desire,motif/dust,motif/flowers,motif/night,motif/road,motif/rose,motif/soul,motif/time,motif/water,motif/wind,motif/winter,concept/conscience,concept/pride,character/quoodle,character/sunday"></span>
 
 
-Or stand a man a [[cheese]]?
+Or stand a man a cheese?
 
 He sells us sands of Araby
 
@@ -2880,7 +2880,7 @@ And when they die by thousands
 
 Why, he laughs like anything.
 
-The wicked [[grocer|Grocer]] groces
+The wicked Grocer groces
 
 In spirits and in wine,
 
@@ -2896,7 +2896,7 @@ For to be snatched by Duchesses
 
 And drunk in dressing-rooms.
 
-The hell-instructed [[grocer|Grocer]]
+The hell-instructed Grocer
 
 Has a temple made of tin,
 
@@ -2908,17 +2908,17 @@ But now the sands are running out
 
 From sugar of a sort,
 
-The [[grocer|Grocer]] trembles; for his [[motifs/time|time]],
+The Grocer trembles; for his [[motifs/time|time]],
 
 Just like his weight, is short.
 
-The [[rolling|Rolling]] English [[motifs/road|Road]]
+The Rolling English [[motifs/road|Road]]
 
 Before the Roman came to Rye or out to Severn strode,
 
-The [[rolling]] English drunkard made the [[rolling]] English [[motifs/road|road]].
+The rolling English drunkard made the rolling English [[motifs/road|road]].
 
-A reeling [[motifs/road|road]], a [[rolling]] [[motifs/road|road]], that rambles round the shire,
+A reeling [[motifs/road|road]], a rolling [[motifs/road|road]], that rambles round the shire,
 
 And after him the parson ran, the sexton and the squire;
 
@@ -2998,7 +2998,7 @@ The old bones buried under,
 
 Are things in which they blunder
 
-And err, if left [[Alone|alone]].
+And err, if left alone.
 
 The [[motifs/wind|wind]] from [[motifs/winter|winter]] forests,
 
@@ -3082,13 +3082,13 @@ But stoning the prophets is ancient news,
 
 Like Nebuchadnezzar the [[archetypes/king|King]] of the Jews.
 
-The Logical [[vegetarian|Vegetarian]]
+The Logical Vegetarian
 
-"Why shouldn't I have a purely [[vegetarian]] drink? Why shouldn't I take
+"Why shouldn't I have a purely vegetarian drink? Why shouldn't I take
 
 vegetables in their highest form, so to speak? The modest vegetarians
 
-ought obviously to stick to wine or beer, plain [[vegetarian]] drinks,
+ought obviously to stick to wine or beer, plain vegetarian drinks,
 
 instead of filling their goblets with the [[motifs/blood|blood]] of bulls and elephants,
 
@@ -3104,7 +3104,7 @@ You will find me drinking gin
 
 In the lowest kind of inn,
 
-Because I am a rigid [[vegetarian|Vegetarian]].
+Because I am a rigid Vegetarian.
 
 So I cleared the inn of wine,
 
@@ -3116,7 +3116,7 @@ But he said I couldn't speak,
 
 And he bowled me to the Beak
 
-Because I was a Happy [[vegetarian|Vegetarian]].
+Because I was a Happy Vegetarian.
 
 Oh, I knew a Doctor Gluck,
 
@@ -3128,7 +3128,7 @@ So I gave him all the pork
 
 That I had, upon a fork;
 
-Because I am myself a [[vegetarian|Vegetarian]].
+Because I am myself a Vegetarian.
 
 I am silent in the Club,
 
@@ -3139,7 +3139,7 @@ I am silent on a bally peak in Darien;
 
 <span class="qlang-split" data-lang="it"></span>
 
-O offrire a un uomo un [[cheese|formaggio]]?
+O offrire a un uomo un formaggio?
 
 Ci vende le sabbie d'Arabia
 
@@ -3157,7 +3157,7 @@ E quando muoiono a migliaia
 
 Ebbene, ride a più non posso.
 
-Il malvagio [[grocer|Droghiere]] drogheggia
+Il malvagio Droghiere drogheggia
 
 In liquori e in vino,
 
@@ -3173,7 +3173,7 @@ Per essere afferrato dalle Duchesse
 
 E bevuto negli spogliatoi.
 
-Il [[grocer|Droghiere]] istruito dall'inferno
+Il Droghiere istruito dall'inferno
 
 Ha un tempio fatto di latta,
 
@@ -3185,17 +3185,17 @@ Ma ora la sabbia sta scorrendo via
 
 Da uno zucchero di dubbia specie,
 
-Il [[grocer|Droghiere]] trema; poiché il suo [[motifs/time|tempo]],
+Il Droghiere trema; poiché il suo [[motifs/time|tempo]],
 
 Proprio come il suo peso, è scarso.
 
-La [[motifs/road|Strada]] Inglese [[rolling|Serpeggiante]]
+La [[motifs/road|Strada]] Inglese Serpeggiante
 
 Prima che il Romano giungesse a Rye o s'inoltrasse verso il Severn,
 
-L'[[rolling|ondeggiante]] ubriacone inglese fece l'[[rolling|ondeggiante]] [[motifs/road|strada]] inglese.
+L'ondeggiante ubriacone inglese fece l'ondeggiante [[motifs/road|strada]] inglese.
 
-Una [[motifs/road|strada]] barcollante, una [[motifs/road|strada]] [[rolling|ondeggiante]], che vagabonda per la contea,
+Una [[motifs/road|strada]] barcollante, una [[motifs/road|strada]] ondeggiante, che vagabonda per la contea,
 
 E dietro a lui corsero il parroco, il sagrestano e lo squire;
 
@@ -3239,7 +3239,7 @@ Poiché vi sono ancora buone novelle da udire e belle cose da vedere,
 
 Prima di andare in Paradiso passando per Kensal Green.
 
-Il [[Song|Canto]] di [[characters/quoodle|Quoodle]]
+Il Canto di [[characters/quoodle|Quoodle]]
 
 Non hanno nasi, loro,
 
@@ -3275,7 +3275,7 @@ Le vecchie ossa sepolte sotto,
 
 Sono cose in cui essi arrancano
 
-E sbagliano, se lasciati [[Alone|soli]].
+E sbagliano, se lasciati soli.
 
 Il [[motifs/wind|vento]] dalle foreste d'[[motifs/winter|inverno]],
 
@@ -3359,13 +3359,13 @@ Ma lapidare i profeti è cosa antica,
 
 Come Nabucodonosor il [[archetypes/king|Re]] dei Giudei.
 
-Il [[vegetarian|Vegetariano]] Logico
+Il Vegetariano Logico
 
-«Perché non dovrei avere una bevanda puramente [[vegetarian|vegetariana]]? Perché non dovrei prendere
+«Perché non dovrei avere una bevanda puramente vegetariana? Perché non dovrei prendere
 
 i vegetali nella loro forma più alta, per così dire? I modesti vegetariani
 
-dovrebbero ovviamente attenersi al vino o alla birra, semplici bevande [[vegetarian|vegetariane]],
+dovrebbero ovviamente attenersi al vino o alla birra, semplici bevande vegetariane,
 
 invece di colmare i loro calici col [[motifs/blood|sangue]] di tori ed elefanti,
 
@@ -3381,7 +3381,7 @@ Mi troverai a bere gin
 
 Nella più infima specie di locanda,
 
-Perché sono un rigido [[vegetarian|Vegetariano]].
+Perché sono un rigido Vegetariano.
 
 Così vuotai la locanda del vino,
 
@@ -3393,7 +3393,7 @@ Ma egli disse che non sapevo parlare,
 
 E mi spedì di filato dal Giudice
 
-Perché ero un Felice [[vegetarian|Vegetariano]].
+Perché ero un Felice Vegetariano.
 
 Oh, conoscevo un Dottor Gluck,
 
@@ -3405,7 +3405,7 @@ Così gli diedi tutto il maiale
 
 Che avevo, su una forchetta;
 
-Perché io stesso sono un [[vegetarian|Vegetariano]].
+Perché io stesso sono un Vegetariano.
 
 Sono silenzioso al Circolo,
 
@@ -3422,11 +3422,11 @@ For I stuff away for life
 
 Shoving peas in with a knife,
 
-Because I am at heart a [[vegetarian|Vegetarian]].
+Because I am at heart a Vegetarian.
 
 No more the milk of cows
 
-Shall pollute my private [[house]]
+Shall pollute my private house
 
 Than the milk of the wild mares of the Barbarian;
 
@@ -3434,7 +3434,7 @@ I will stick to port and sherry,
 
 For they are so very, very,
 
-So very, very, very [[vegetarian|Vegetarian]].
+So very, very, very Vegetarian.
 
 "The Saracen's Head"
 
@@ -3538,19 +3538,19 @@ Merrily taking twopenny ale and pork with a pocket-knife;
 
 But this was luxury not for one that went for the Simple Life.
 
-The [[works/song-(poe)|Song]] Against [[songs|Songs]]
+The [[works/song-(poe)|Song]] Against Songs
 
-The [[Song|song]] of the sorrow of Melisande is a weary [[Song|song]] and a dreary [[Song|song]],
+The song of the sorrow of Melisande is a weary song and a dreary song,
 
 The glory of [[characters/mariana|Mariana]]'s grange had got into great [[motifs/decay|decay]],
 
-The [[Song|song]] of [[The Raven|the Raven]] Never More has never been called a cheery [[Song|song]],
+The song of the Raven Never More has never been called a cheery song,
 
 And the brightest things in Baudelaire are anything else but gay.
 
-But who will write us a riding [[Song|song]],
+But who will write us a riding song,
 
-Or a hunting [[Song|song]] or a drinking [[Song|song]],
+Or a hunting song or a drinking song,
 
 Fit for them that arose and rode
 
@@ -3558,31 +3558,31 @@ When day and the wine were red?
 
 But bring me a quart of claret out,
 
-And I will write you a clinking [[Song|song]],
+And I will write you a clinking song,
 
-A [[Song|song]] of war and a [[Song|song]] of wine
+A song of war and a song of wine
 
-And a [[Song|song]] to wake the dead.
+And a song to wake the dead.
 
-The [[Song|song]] of the fury of Fragolette is a florid [[Song|song]] and a torrid [[Song|song]],
+The song of the fury of Fragolette is a florid song and a torrid song,
 
-The [[Song|song]] of the sorrow of Tara is sung to a harp unstrung,
+The song of the sorrow of Tara is sung to a harp unstrung,
 
-The [[Song|song]] of the cheerful Shropshire Lad I consider a perfectly horrid [[Song|song]],
+The song of the cheerful Shropshire Lad I consider a perfectly horrid song,
 
-And the [[Song|song]] of the happy Futurist is a [[Song|song]] that can't be sung.
+And the song of the happy Futurist is a song that can't be sung.
 
-But who will write us a riding [[Song|song]]
+But who will write us a riding song
 
-Or a fighting [[Song|song]] or a drinking [[Song|song]],
+Or a fighting song or a drinking song,
 
 Fit for the fathers of you and me,
 
 That knew how to think and thrive?
 
-But the [[Song|song]] of [[concepts/beauty|Beauty]] and Art and [[motifs/love|Love]]
+But the song of [[concepts/beauty|Beauty]] and Art and [[motifs/love|Love]]
 
-Is simply an utterly stinking [[Song|song]],
+Is simply an utterly stinking song,
 
 To [[topoi/double|double]] you up and drag you down
 
@@ -3592,7 +3592,7 @@ Me Heart
 
 I come from Castlepatrick, and me heart is on me sleeve,
 
-And any [[Sword|sword]] or [[characters/pistol|pistol]] boy can hit it with me leave,
+And any sword or [[characters/pistol|pistol]] boy can hit it with me leave,
 
 It shines there for an epaulette, as golden as a flame,
 
@@ -3655,11 +3655,11 @@ Poiché mi rimpinzo per la vita
 
 Cacciandomi i piselli con un coltello,
 
-Perché in cuore sono un [[vegetarian|Vegetariano]].
+Perché in cuore sono un Vegetariano.
 
 Non più il latte di mucca
 
-Contaminerà la mia privata [[house|dimora]]
+Contaminerà la mia privata dimora
 
 Più del latte delle cavalle selvagge del Barbaro;
 
@@ -3667,7 +3667,7 @@ Mi atterrò al porto e allo sherry,
 
 Poiché sono così tanto, tanto,
 
-Così tanto, tanto, tanto [[vegetarian|Vegetariani]].
+Così tanto, tanto, tanto Vegetariani.
 
 «La Testa del Saraceno»
 
@@ -3771,19 +3771,19 @@ Prendendo allegramente birra da due soldi e maiale con un temperino;
 
 Ma questo era un lusso non per chi mirava alla Vita Semplice.
 
-Il [[Song|Canto]] contro i [[songs|Canti]]
+Il Canto contro i Canti
 
-Il [[Song|canto]] del dolore di Melisande è un [[Song|canto]] fiacco e un [[Song|canto]] tetro,
+Il canto del dolore di Melisande è un canto fiacco e un canto tetro,
 
 La gloria della fattoria di [[characters/mariana|Mariana]] era caduta in gran [[motifs/decay|rovina]],
 
-Il [[Song|canto]] del [[The Raven|Corvo]] Mai Più non è mai stato detto un [[Song|canto]] gaio,
+Il canto del Corvo Mai Più non è mai stato detto un canto gaio,
 
 E le cose più luminose in Baudelaire sono tutt'altro che liete.
 
-Ma chi ci scriverà un [[Song|canto]] da cavalcata,
+Ma chi ci scriverà un canto da cavalcata,
 
-O un [[Song|canto]] di caccia o un [[Song|canto]] da bevuta,
+O un canto di caccia o un canto da bevuta,
 
 Degno di coloro che si levarono e cavalcarono
 
@@ -3791,31 +3791,31 @@ Quando il giorno e il vino erano rossi?
 
 Ma portatemi fuori un quarto di chiaretto,
 
-E vi scriverò un [[Song|canto]] tintinnante,
+E vi scriverò un canto tintinnante,
 
-Un [[Song|canto]] di guerra e un [[Song|canto]] di vino
+Un canto di guerra e un canto di vino
 
-E un [[Song|canto]] per svegliare i morti.
+E un canto per svegliare i morti.
 
-Il [[Song|canto]] della furia di Fragolette è un [[Song|canto]] florido e un [[Song|canto]] torrido,
+Il canto della furia di Fragolette è un canto florido e un canto torrido,
 
-Il [[Song|canto]] del dolore di Tara è cantato su un'arpa scordata,
+Il canto del dolore di Tara è cantato su un'arpa scordata,
 
-Il [[Song|canto]] dell'allegro Giovane dello Shropshire lo considero un [[Song|canto]] perfettamente orrendo,
+Il canto dell'allegro Giovane dello Shropshire lo considero un canto perfettamente orrendo,
 
-E il [[Song|canto]] del felice Futurista è un [[Song|canto]] che non si può cantare.
+E il canto del felice Futurista è un canto che non si può cantare.
 
-Ma chi ci scriverà un [[Song|canto]] da cavalcata
+Ma chi ci scriverà un canto da cavalcata
 
-O un [[Song|canto]] di battaglia o un [[Song|canto]] da bevuta,
+O un canto di battaglia o un canto da bevuta,
 
 Degno dei padri tuoi e miei,
 
 Che sapevano pensare e prosperare?
 
-Ma il [[Song|canto]] della [[concepts/beauty|Bellezza]] e dell'Arte e dell'[[motifs/love|Amore]]
+Ma il canto della [[concepts/beauty|Bellezza]] e dell'Arte e dell'[[motifs/love|Amore]]
 
-È semplicemente un [[Song|canto]] del tutto puzzolente,
+È semplicemente un canto del tutto puzzolente,
 
 Da [[topoi/double|piegarti]] in due e trascinarti giù
 
@@ -3825,7 +3825,7 @@ Il Mio Cuore
 
 Vengo da Castlepatrick, e il mio cuore è sulla mia manica,
 
-E qualsiasi ragazzo con [[Sword|spada]] o [[characters/pistol|pistola]] può colpirlo col mio permesso,
+E qualsiasi ragazzo con spada o [[characters/pistol|pistola]] può colpirlo col mio permesso,
 
 Vi brilla come una spallina, dorato come una fiamma,
 
@@ -3859,7 +3859,7 @@ Ma vengo da Castlepatrick, e il mio cuore è sulla mia manica;
 
 Ma una dama me lo rubò la Vigilia di San Barnaba.
 
-Il [[Song|Canto]] della Quercia
+Il Canto della Quercia
 
 I Druidi agitavano i loro coltelli d'oro
 
@@ -4048,7 +4048,7 @@ In the happy town of Roundabout,
 
 That makes the world go round.
 
-The [[works/song-(poe)|Song]] of the Strange [[ascetic|Ascetic]]
+The [[works/song-(poe)|Song]] of the Strange Ascetic
 
 If I had been a Heathen,
 
@@ -4072,7 +4072,7 @@ I'd have crowned Neoera's curls,
 
 And filled my life with [[motifs/love|love]] affairs,
 
-My [[house]] with dancing girls;
+My house with dancing girls;
 
 But Higgins is a Heathen,
 
@@ -4381,7 +4381,7 @@ Nella felice città di Roundabout,
 
 Che fa girare il mondo.
 
-Il [[Song|Canto]] dello Strano [[ascetic|Asceta]]
+Il Canto dello Strano Asceta
 
 Se fossi stato un Pagano,
 
@@ -4405,7 +4405,7 @@ Avrei incoronato i riccioli di Neera,
 
 E colmato la mia vita di relazioni d'[[motifs/love|amore]],
 
-La mia [[house|casa]] di fanciulle danzanti;
+La mia casa di fanciulle danzanti;
 
 Ma Higgins è un Pagano,
 
@@ -4463,7 +4463,7 @@ Di coloro che non hanno la [[concepts/faith|fede]],
 
 E non vogliono il divertimento.
 
-Il [[Song|Canto]] del Giusto e dell'Ingiusto
+Il Canto del Giusto e dell'Ingiusto
 
 Banchetta col vino o digiuna con l'[[motifs/water|acqua]],
 

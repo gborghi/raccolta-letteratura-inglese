@@ -58,7 +58,7 @@ tags:
 
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/friendship|Friendship]], [[concepts/joy|Joy]], [[concepts/common-man|Common Man]], [[concepts/charity|Charity]], [[concepts/comradeship|Comradeship]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/nostalgia|Nostalgia]], [[concepts/tolerance|Tolerance]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
-**Characters:** Falstaff, Samuel Pickwick, Nathaniel Winkle, Tony Weller, Robin Hood, Fagin, Mr. Stiggins, Friar Tuck, Wife of Bath
+**Characters:** [[characters/falstaff|Falstaff]], [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/nathaniel-winkle|Nathaniel Winkle]], [[characters/tony-weller|Tony Weller]], [[characters/robin-hood|Robin Hood]], [[characters/fagin|Fagin]], [[characters/mr.-stiggins|Mr. Stiggins]], [[characters/friar-tuck|Friar Tuck]], [[characters/wife-of-bath|Wife of Bath]]
 
 ## Testo integrale / Full text
 

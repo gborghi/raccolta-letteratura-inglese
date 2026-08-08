@@ -101,7 +101,7 @@ Her [[concepts/pride|pride]] aspires —
 
 The Lark is not ashamed  
 To build upon the ground  
-Her modest [[house]] —  
+Her modest house —  
 
 Yet who of all the throng  
 Dancing around the [[motifs/sun|sun]]  
@@ -219,7 +219,7 @@ Or whether it be none
 Is of within.  
 
 The "Tune is in the [[motifs/tree|Tree]] —"  
-The [[skeptic|Skeptic]] — showeth me —  
+The Skeptic — showeth me —  
 "No Sir! In Thee!"
 
 
@@ -299,7 +299,7 @@ So here's an Amber Sill —
 
 That slanted in my Path —  
 When going to the Barn —  
-And if it serve You for a [[house|House]] —  
+And if it serve You for a House —  
 Itself is not in vain —  
 
 About the price — 'tis small —  

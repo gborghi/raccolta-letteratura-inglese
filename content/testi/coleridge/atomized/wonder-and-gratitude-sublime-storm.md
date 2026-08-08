@@ -159,7 +159,7 @@ Then weep aloud in a wild ecstasy!
 As when far off the warbled strains are heard  
 That soar on Morning’s wing the vales among;  
 Within his cage the imprison’d Matin Bird  
-Swells the full [[characters/chorus|chorus]] with a generous [[Song|song]]:  
+Swells the full [[characters/chorus|chorus]] with a generous song:  
 He bathes no pinion in the dewy light,   5  
 No Father’s joy, no [[archetypes/lover|Lover]]’s bliss he shares,  
 Yet still the rising radiance cheers his sight —  
@@ -209,7 +209,7 @@ By the blue distance. Heavily my way
 Downward I dragged through fir groves evermore,   5  
 Where bright green moss heaves in sepulchral forms  
 Speckled with sunshine; and, but seldom heard,  
-The sweet bird’s [[Song|song]] became a hollow sound;  
+The sweet bird’s song became a hollow sound;  
 And the breeze, murmuring indivisibly,  
 Preserved its solemn murmur most distinct   10  
 From many a note of many a waterfall,  
@@ -279,7 +279,7 @@ Then when the tear, slow travelling on its way,
 Fills up the wrinkles of a silent laugh —  
 In that sweet mood of sad and humorous thought  
 A form within me [[motifs/rose|rose]], within me wrought   10  
-With such strong [[Magic|magic]], that I cried aloud,  
+With such strong magic, that I cried aloud,  
 ‘Thou ancient Skiddaw by thy helm of cloud,  
 And by thy many-colour’d chasms deep,  
 And by their shadows that for ever [[motifs/sleep|sleep]],  
@@ -287,12 +287,12 @@ By yon small flaky mists that [[motifs/love|love]] to creep   15
 Along the edges of those spots of light,  
 Those sunny islands on thy smooth green height,  
 And by yon shepherds with their sheep,  
-And [[dogs]] and boys, a gladsome crowd,  
+And dogs and boys, a gladsome crowd,  
 That rush e’en now with clamour loud   20  
 Sudden from forth thy topmost cloud,  
 And by this laugh, and by this tear,  
 I would, old Skiddaw, she were here!  
-A lady of sweet [[Song|song]] is she,  
+A lady of sweet song is she,  
 Her soft blue eye was made for thee!   25  
 O ancient Skiddaw, by this tear,  
 I would, I would that she were here!’  
@@ -317,7 +317,7 @@ Spake he, the proud response renewing
 ‘Nay, but thou dost not know her might,  
 The pinions of her [[motifs/soul|soul]] how strong!  
 But many a stranger in my height  
-Hath sung to me her [[Magic|magic]] [[Song|song]],  
+Hath sung to me her magic song,  
 Sending forth his ecstasy   50  
 In her divinest melody,  
 And hence I know her [[motifs/soul|soul]] is free,  
@@ -332,7 +332,7 @@ Can travel with so swift a flight.   60
 I too, methinks, might merit  
 The presence of her spirit!  
 To me too might belong  
-The [[concepts/honour|honour]] of her [[Song|song]] and witching melody,  
+The [[concepts/honour|honour]] of her song and witching melody,  
 Which most resembles me,   65  
 Soft, various, and [[concepts/sublime|sublime]],  
 Exempt from wrongs of [[motifs/time|Time]]!’  
@@ -404,17 +404,17 @@ And deep the cavern of the fountain mutters.
 Ah! not by Cam or Isis, famous streams,  
 In archéd groves, the youthful poet’s choice;  
 Nor while half-listening, ‘mid delicious [[motifs/dreams|dreams]],  
-To harp and [[Song|song]] from lady’s hand and voice;  
+To harp and song from lady’s hand and voice;  
 Not yet while gazing in sublimer mood   5  
 On cliff, or cataract, in Alpine dell;  
 Nor in dim [[motifs/cave|cave]] with bladdery sea-weed strewed.  
 Framing wild fancies to the ocean’s swell;  
-Our sea-bard sang this [[Song|song]]! which still he sings,  
+Our sea-bard sang this song! which still he sings,  
 And sings for thee, sweet friend! Hark, Pity, hark!  
 Now mounts, now totters on the tempest’s wings,   11  
 Now groans, and shivers, the replunging bark!  
 ‘Cling to the shrouds!’ In vain! The breakers roar —  
-[[motifs/death|Death]] shrieks! With two [[Alone|alone]] of all his clan  
+[[motifs/death|Death]] shrieks! With two alone of all his clan  
 Forlorn the poet paced the Grecian shore,   15  
 No classic roamer, but a shipwrecked man!  
 Say then, what muse inspired these genial strains,  
@@ -450,7 +450,7 @@ Or not so vital as to claim thy life:
 And myriads had reached Heaven, who never knew   15  
 Where lay the difference ‘twixt the false and true!  
 Ye, who secure ‘mid trophies not your own,  
-Judge him who won them when he stood [[Alone|alone]],  
+Judge him who won them when he stood alone,  
 And proudly talk of recreant Berengare —  
 O first the age, and then the man compare!   20  
 That age how dark! congenial minds how rare!  
@@ -511,7 +511,7 @@ Of a constant mind,
 For he knew which way the [[motifs/wind|wind]] lay!  
 May 4, 1804.  
 Now first published from a Notebook. The rhymes are inserted between the  
-following entries:—’[[thursday|Thursday]] [[motifs/night|night]] — [[motifs/wind|Wind]] chopped about and about, once  
+following entries:—’Thursday [[motifs/night|night]] — [[motifs/wind|Wind]] chopped about and about, once  
 fairly to the west, for a minute or two — but now, 1/2 past 9, the  
 Captain comes down and promises a fair [[motifs/wind|wind]] for to-morrow. We shall  
 see.’ ‘[[motifs/well|Well]], and we have got a [[motifs/wind|wind]] the right way at last!’  

@@ -116,13 +116,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/world-upside-down|World Upside Down]], [[topoi/double|Double]]
-**Archetypes:** (Reputed) Fallen Woman, Innocent, Great Mother, Trickster
+**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/innocent|Innocent]], [[archetypes/great-mother|Great Mother]], [[archetypes/trickster|Trickster]]
 **Motifs:** [[motifs/marriage|Marriage]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/money-and-gold|Money and Gold]], [[motifs/flowers|Flowers]], [[motifs/rose|Rose]], [[motifs/white-and-red|White and Red]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/city|City]], [[motifs/fog-and-smoke|Fog and Smoke]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/temptation|Temptation]], [[concepts/identity|Identity]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/satire|Satire]], [[forms/epigram|Epigram]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]], [[settings/court|Court]]
-**Characters:** Lady Windermere, Lord Windermere, Lord Darlington, Mrs Erlynne, Duchess of Berwick
+**Characters:** [[characters/lady-windermere|Lady Windermere]], [[characters/lord-windermere|Lord Windermere]], [[characters/lord-darlington|Lord Darlington]], [[characters/mrs-erlynne|Mrs Erlynne]], [[characters/duchess-of-berwick|Duchess of Berwick]]
 
 ## Testo integrale / Full text
 

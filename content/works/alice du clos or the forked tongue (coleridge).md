@@ -28,7 +28,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Innocent, Villain
+**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/villain|Villain]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/dawn|Dawn]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/horse|Horse]]
 **Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/jealousy|Jealousy]], [[concepts/innocence-and-experience|Innocence and Experience]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]]

@@ -42,7 +42,7 @@ A crowd of twisted things;
 A twisted branch upon the beach  
 Eaten smooth, and polished  
 As if the world gave up  
-The secret of its [[skeleton]],  
+The secret of its skeleton,  
 Stiff and white.  
 A broken [[motifs/spring|spring]] in a factory yard,  
 Rust that clings to the form that the strength has left  
@@ -73,7 +73,7 @@ The [[motifs/moon|moon]] has lost her [[motifs/memory|memory]].
 A washed-out smallpox cracks her face,  
 Her hand twists a paper [[motifs/rose|rose]],  
 That smells of [[motifs/dust|dust]] and eau de Cologne,  
-She is [[Alone|alone]]  
+She is alone  
 With all the old nocturnal smells  
 That [[motifs/cross|cross]] and [[motifs/cross|cross]] across her brain.’  
 The reminiscence comes  
@@ -125,7 +125,7 @@ una folla di cose contorte;
 un ramo contorto sulla spiaggia  
 roso liscio, e levigato  
 come se il mondo cedesse  
-il segreto del suo [[skeleton|scheletro]],  
+il segreto del suo scheletro,  
 rigido e bianco.  
 Una [[motifs/spring|molla]] rotta nel cortile d’una fabbrica,  
 ruggine che aderisce alla forma che la forza ha lasciato  
@@ -156,7 +156,7 @@ La [[motifs/moon|luna]] ha perduto la sua [[motifs/memory|memoria]].
 Un vaiolo sbiadito le screpola il viso,  
 la sua mano torce una [[motifs/rose|rosa]] di carta,  
 che odora di [[motifs/dust|polvere]] e d’acqua di Colonia,  
-è [[Alone|sola]]  
+è sola  
 con tutti i vecchi odori notturni  
 che [[motifs/cross|attraversano]] e [[motifs/cross|riattraversano]] il suo cervello.’  
 Viene la reminiscenza  
@@ -184,13 +184,13 @@ L’ultimo giro del coltello.
 
 Aunt [[characters/helen|Helen]]  
 Miss [[characters/helen|Helen]] Slingsby was my maiden aunt,  
-And lived in a small [[house]] near a fashionable square  
+And lived in a small house near a fashionable square  
 Cared for by servants to the number of four.  
 Now when she died there was [[motifs/silence|silence]] in heaven  
 And [[motifs/silence|silence]] at her end of the street.  
 The shutters were drawn and the undertaker wiped his feet —  
 He was aware that this sort of thing had occurred before.  
-The [[dogs]] were handsomely provided for,  
+The dogs were handsomely provided for,  
 But shortly afterwards the parrot died too.  
 The Dresden [[motifs/clock|clock]] continued ticking on the mantelpiece,  
 And the footman sat upon the dining-table  
@@ -202,13 +202,13 @@ Who had always been so careful while her mistress lived.
 
 La zia [[characters/helen|Helen]]  
 La signorina [[characters/helen|Helen]] Slingsby era la mia zia zitella,  
-e viveva in una piccola [[house|casa]] presso una piazza alla moda  
+e viveva in una piccola casa presso una piazza alla moda  
 accudita da servitori in numero di quattro.  
 Ora, quando morì ci fu [[motifs/silence|silenzio]] in cielo  
 e [[motifs/silence|silenzio]] al suo capo della strada.  
 Le persiane furono chiuse e l’impresario di pompe funebri si pulì i piedi —  
 sapeva che questo genere di cose era già accaduto prima.  
-Fu provveduto lautamente ai [[dogs|cani]],  
+Fu provveduto lautamente ai cani,  
 ma poco dopo morì anche il pappagallo.  
 L’[[motifs/clock|orologio]] di Dresda continuò a ticchettare sulla mensola del camino,  
 e il valletto sedeva sul tavolo da pranzo  
@@ -440,7 +440,7 @@ Who found no substitute for sense,
 To seize and clutch and penetrate;  
 Expert beyond experience,  
 He knew the anguish of the marrow  
-The ague of the [[skeleton]];  
+The ague of the skeleton;  
 No contact possible to flesh  
 Allayed the fever of the bone.  
                       .    .    .    .    .  
@@ -478,7 +478,7 @@ che non trovò surrogato al senso,
 per afferrare e stringere e penetrare;  
 esperto oltre l’esperienza,  
 conobbe l’angoscia del midollo  
-il tremito febbrile dello [[skeleton|scheletro]];  
+il tremito febbrile dello scheletro;  
 nessun contatto possibile alla carne  
 placò la febbre dell’osso.  
                       .    .    .    .    .  
@@ -528,8 +528,8 @@ Little dog was safe and warm
 Under a cretonne eiderdown,  
 Yet the field was cracked and brown  
 And the tree was cramped and dry.  
-Pollicle [[dogs]] and cats all must  
-Jellicle cats and [[dogs]] all must  
+Pollicle dogs and cats all must  
+Jellicle cats and dogs all must  
 Like undertakers, come to [[motifs/dust|dust]].  
 Here a little dog I pause  
 Heaving up my prior paws,  
@@ -616,8 +616,8 @@ Il cagnolino era al sicuro e al caldo
 sotto un piumino di cretonne,  
 eppure il campo era screpolato e bruno  
 e l’albero era rattrappito e secco.  
-[[dogs|Cani]] Pollicoli e gatti tutti devono  
-gatti Jellicle e [[dogs|cani]] tutti devono  
+Cani Pollicoli e gatti tutti devono  
+gatti Jellicle e cani tutti devono  
 come i becchini, tornare in [[motifs/dust|polvere]].  
 Qui io, cagnolino, mi fermo  
 sollevando le mie zampe anteriori,  
@@ -747,7 +747,7 @@ And though the [[motifs/flowers|flowers]] of life be few
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Song|Canto]]: ‘Se lo spazio e il [[motifs/time|tempo]], come dicono i saggi’  
+Canto: ‘Se lo spazio e il [[motifs/time|tempo]], come dicono i saggi’  
 Se lo spazio e il [[motifs/time|tempo]], come dicono i saggi,  
    sono cose che non possono essere,  
 la mosca che vive un solo giorno  
@@ -783,7 +783,7 @@ Were faded, and the [[motifs/leaves|leaves]] were brown.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Song|Canto]]: ‘Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]]’  
+Canto: ‘Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]]’  
 Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]]  
    nessuna [[motifs/leaves|foglia]] era caduta dagli alberi;  
    le dita gentili della brezza  

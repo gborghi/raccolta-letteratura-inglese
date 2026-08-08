@@ -32,13 +32,13 @@ tags:
 - [[works/the-madman-and-the-lethargist-(coleridge)|THE MADMAN AND THE LETHARGIST (Coleridge)]]
 - [[works/the-madman-and-the-lethargist-(coleridge)-(2)|THE MADMAN AND THE LETHARGIST (Coleridge) (2)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
-- 1284. Had we our senses (Dickinson)
-- 1727. If ever the lid gets off my head (Dickinson)
-- 175. I have never seen Volcanoes — (Dickinson)
-- 410. The first Day's Night had come — (Dickinson)
-- 435. Much Madness is divinest Sense — (Dickinson)
-- 556. The Brain, within its Groove (Dickinson)
-- 708. I sometimes drop it, for a Quick — (Dickinson)
+- [[testi/dickinson/atomized/terror-and-horror-madness#1284_had_we_our_senses|1284. Had we our senses (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1727_if_ever_the_lid_gets_off_my_head|1727. If ever the lid gets off my head (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0175_i_have_never_seen_volcanoes|175. I have never seen Volcanoes — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0410_the_first_days_night_had_come|410. The first Day's Night had come — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0435_much_madness_is_divinest_sense|435. Much Madness is divinest Sense — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0556_the_brain_within_its_groove|556. The Brain, within its Groove (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0708_i_sometimes_drop_it_for_a_quick|708. I sometimes drop it, for a Quick — (Dickinson)]]
 - [[works/hysteria-(eliot)|Hysteria (Eliot)]]
 - [[works/lines-for-an-old-man-(eliot)|Lines for an Old Man (Eliot)]]
 - [[works/sweeney-erect-(eliot)|Sweeney Erect (Eliot)]]
@@ -52,10 +52,10 @@ tags:
 - [[works/2-henry-iv-(shakespeare)|2 HENRY IV (Shakespeare)]]
 - [[works/cardenio---a-brief-account-(shakespeare)|CARDENIO - A BRIEF ACCOUNT (Shakespeare)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
-- Sonnet 119 (Shakespeare)
-- Sonnet 129 (Shakespeare)
-- Sonnet 140 (Shakespeare)
-- Sonnet 147 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_119|Sonnet 119 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_129|Sonnet 129 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_140|Sonnet 140 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_147|Sonnet 147 (Shakespeare)]]
 - [[works/the-history-of-king-lear---the-quarto-text-(shakespeare)|THE HISTORY OF KING LEAR - THE QUARTO TEXT (Shakespeare)]]
 - [[works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)|THE TRAGEDY OF KING LEAR - THE FOLIO TEXT (Shakespeare)]]
 - [[works/the-two-noble-kinsmen-(shakespeare)|THE TWO NOBLE KINSMEN (Shakespeare)]]

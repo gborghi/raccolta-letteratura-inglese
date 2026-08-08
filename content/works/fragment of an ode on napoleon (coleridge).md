@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/katabasis-descent|Katabasis Descent]]
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/ode|Ode]], [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]

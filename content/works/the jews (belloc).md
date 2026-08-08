@@ -42,5 +42,5 @@ tags:
 **Motifs:** [[motifs/wheel|Wheel]], [[motifs/chains|Chains]]
 **Historical References:** [[historical-references/bolshevism-and-the-russian-revolution|Bolshevism and the Russian Revolution]], [[historical-references/medieval-england|Medieval England]]
 **Settings:** [[settings/london|London]]
-**Archetypes:** Outsider, Scapegoat
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/scapegoat|Scapegoat]]
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]

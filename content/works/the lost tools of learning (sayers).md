@@ -63,10 +63,10 @@ tags:
 ## Connections
 
 **Forms & Genres:** [[forms/nonfiction|Nonfiction]]
-**Archetypes:** Child, Mentor
+**Archetypes:** [[archetypes/child|Child]], [[archetypes/mentor|Mentor]]
 **Motifs:** [[motifs/the-book|The Book]], [[motifs/machine|Machine]]
 **Themes & Concepts:** [[concepts/education|Education]], [[concepts/classical-education|Classical Education]], [[concepts/the-trivium|The Trivium]], [[concepts/childhood-and-growth|Childhood And Growth]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/truth|Truth]], [[concepts/imagination|Imagination]], [[concepts/liberty|Liberty]], [[concepts/reform|Reform]], [[concepts/creativity|Creativity]], [[concepts/faith|Faith]], [[concepts/history|History]]
 **Forms:** [[forms/essay|Essay]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/christianity|Christianity]], [[historical-references/renaissance|Renaissance]], [[historical-references/reformation|Reformation]]
 **Settings:** [[settings/oxford|Oxford]]
-**Characters:** The Student, The Teacher, Child, [[historical-references/milton|Milton]]
+**Characters:** [[archetypes/the-student|The Student]], [[archetypes/the-teacher|The Teacher]], [[archetypes/child|Child]], [[historical-references/milton|Milton]]

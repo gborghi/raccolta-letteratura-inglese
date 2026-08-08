@@ -93,11 +93,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint, Tyrant
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tyrant|Tyrant]]
 
 **Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/money-and-gold|Money and Gold]]
 
-**Characters:** Joan la Pucelle, Tom Jones
+**Characters:** [[characters/joan-la-pucelle|Joan la Pucelle]], [[characters/tom-jones|Tom Jones]]
 
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/common-man|Common Man]], [[concepts/truth|Truth]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/artist-and-society|Artist and Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/democracy|Democracy]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/martyrdom|Martyrdom]], [[concepts/vanity|Vanity]], [[concepts/education|Education]], [[concepts/class-conflict|Class Conflict]], [[concepts/deception|Deception]], [[concepts/grotesque|Grotesque]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]

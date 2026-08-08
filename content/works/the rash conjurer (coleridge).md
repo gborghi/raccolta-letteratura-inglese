@@ -27,13 +27,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/fire|Fire]], [[motifs/lamb|Lamb]]
 **Themes & Concepts:** [[concepts/grotesque|Grotesque]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
 **Historical References:** [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/underworld-cave|Underworld Cave]]
-**Characters:** Satan
+**Characters:** [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

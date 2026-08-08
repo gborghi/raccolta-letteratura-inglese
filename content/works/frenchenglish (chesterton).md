@@ -55,7 +55,7 @@ tags:
 
 **Motifs:** [[motifs/flowers|Flowers]], [[motifs/great-house|Great House]], [[motifs/money-and-gold|Money and Gold]]
 
-**Characters:** Sam Weller, John Bull
+**Characters:** [[characters/sam-weller|Sam Weller]], [[characters/john-bull|John Bull]]
 
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/class-conflict|Class Conflict]], [[concepts/artist-and-society|Artist and Society]], [[concepts/democracy|Democracy]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

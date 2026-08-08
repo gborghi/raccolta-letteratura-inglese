@@ -16,7 +16,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1482. 'Tis whiter than an Indian Pipe — (Dickinson)
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1482_tis_whiter_than_an_indian_pipe|1482. 'Tis whiter than an Indian Pipe — (Dickinson)]]
 - [[works/marina-(eliot)|Marina (Eliot)]]
 - [[works/the-dry-salvages-1941-(eliot)|The Dry Salvages 1941 (Eliot)]]
 - [[works/the-love-song-of-j.-alfred-prufrock-(eliot)|The Love Song of J. Alfred Prufrock (Eliot)]]

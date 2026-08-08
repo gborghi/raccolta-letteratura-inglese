@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/fire|Fire]], [[motifs/blood|Blood]]
 **Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]]
 **Forms & Genres:** [[forms/fragment|Fragment]]

@@ -83,6 +83,6 @@ tags:
 **Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/fog-and-smoke|Fog and Smoke]]
 **Historical References:** [[historical-references/french-revolution|French Revolution]]
 **Settings:** [[settings/france|France]], [[settings/spain|Spain]], [[settings/rural-england|Rural England]], [[settings/europe|Europe]]
-**Characters:** Robespierre
-**Archetypes:** Prophet
+**Characters:** [[characters/robespierre|Robespierre]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]]

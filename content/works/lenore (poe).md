@@ -31,7 +31,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Ghost
+**Archetypes:** [[archetypes/ghost|Ghost]]
 **Motifs:** [[motifs/death|Death]], [[motifs/bells|Bells]], [[motifs/grave|Grave]], [[motifs/river|River]], [[motifs/music-and-song|Music and Song]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/immortality|Immortality]], [[concepts/faith|Faith]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/elegy|Elegy]], [[forms/lyric|Lyric]]

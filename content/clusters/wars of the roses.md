@@ -8,7 +8,7 @@ tags:
 *Cluster* — **4 works**.
 
 ## Defining concepts
-[[forms/history-play|History Play]] (4), [[concepts/ambition|Ambition]] (4), [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]] (4), [[motifs/crown|Crown]] (4), [[historical-references/wars-of-the-roses|Wars of the Roses]] (4), [[historical-references/medieval-england|Medieval England]] (4), [[forms/blank-verse|Blank Verse]] (3), [[concepts/power-and-corruption|Power and Corruption]] (3), Usurper (3), [[motifs/blood|Blood]] (3), [[topoi/fortune's-wheel|Fortune's Wheel]] (3), Queen Margaret (3), [[concepts/war-and-its-cost|War and its Cost]] (3), [[concepts/order-vs-chaos|Order vs Chaos]] (3), Henry VI (3)
+[[forms/history-play|History Play]] (4), [[concepts/ambition|Ambition]] (4), [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]] (4), [[motifs/crown|Crown]] (4), [[historical-references/wars-of-the-roses|Wars of the Roses]] (4), [[historical-references/medieval-england|Medieval England]] (4), [[forms/blank-verse|Blank Verse]] (3), [[concepts/power-and-corruption|Power and Corruption]] (3), [[archetypes/usurper|Usurper]] (3), [[motifs/blood|Blood]] (3), [[topoi/fortune's-wheel|Fortune's Wheel]] (3), [[characters/queen-margaret|Queen Margaret]] (3), [[concepts/war-and-its-cost|War and its Cost]] (3), [[concepts/order-vs-chaos|Order vs Chaos]] (3), [[characters/henry-vi|Henry VI]] (3)
 
 ## Works
 

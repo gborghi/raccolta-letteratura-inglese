@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Mormonism|Mormonismo]]
+Mormonismo
 di G K Chesterton
 da Uses of Diversity 1921
 
@@ -120,7 +120,7 @@ Poiché la loro pratica (come nel caso dei Mormoni) è spesso così inconsueta
 e frenetica da risultare del tutto inintelligibile senza la loro teoria.
 
 Non ho lo spazio, e nemmeno se ne avessi la conoscenza, per descrivere
-le teorie fondamentali del [[Mormonism|Mormonismo]] sull'universo.  Ma esse
+le teorie fondamentali del Mormonismo sull'universo.  Ma esse
 sono straordinariamente interessanti; e una loro adeguata comprensione
 ci permetterebbe certo di veder chiaro attraverso i più sconcertanti
 o minacciosi costumi di questa comunità; e quindi di giudicare fino a che punto
@@ -212,7 +212,7 @@ do mind about my religion, and I advise you to mind your eye."
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Mormonism|Mormonismo]]
+Mormonismo
 di G K Chesterton
 da Uses of Diversity 1921
 
@@ -392,7 +392,7 @@ Poiché la loro pratica (come nel caso dei Mormoni) è spesso così inconsueta
 e frenetica da risultare del tutto inintelligibile senza la loro teoria.
 
 Non ho lo spazio, e nemmeno se ne avessi la conoscenza, per descrivere
-le teorie fondamentali del [[Mormonism|Mormonismo]] sull'universo.  Ma esse
+le teorie fondamentali del Mormonismo sull'universo.  Ma esse
 sono straordinariamente interessanti; e una loro adeguata comprensione
 ci permetterebbe certo di veder chiaro attraverso i più sconcertanti
 o minacciosi costumi di questa comunità; e quindi di giudicare fino a che punto

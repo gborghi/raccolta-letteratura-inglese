@@ -85,7 +85,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** Tragic Hero, Avenger, Villain
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/avenger|Avenger]], [[archetypes/villain|Villain]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/stars|Stars]]
 **Themes & Concepts:** [[concepts/ambition|Ambition]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/revenge|Revenge]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/deception|Deception]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]]
@@ -279,7 +279,7 @@ SCENE I
 | THEKLA | Exactly at this [[motifs/time\|time]]? |
 | COUNTESS | He now knows all.<br>'Twere now the moment to declare himself. |
 | THEKLA | If I'm to understand you, speak less darkly. |
-| COUNTESS | 'Twas for that purpose that I bade her leave us.<br>Thekla, you are no more a child. Your heart<br>Is now no more in nonage: for you [[motifs/love\|love]],<br>And boldness dwells with [[motifs/love\|love]] — that you have proved.<br>Your [[concepts/nature\|nature]] moulds itself upon your father's<br>More than your mother's spirit. Therefore may you<br>Hear, what were too much for her fortitude. |
+| COUNTESS | 'Twas for that purpose that I bade her leave us.<br>Thekla, you are no more a [[archetypes/child\|child]]. Your heart<br>Is now no more in nonage: for you [[motifs/love\|love]],<br>And boldness dwells with [[motifs/love\|love]] — that you have proved.<br>Your [[concepts/nature\|nature]] moulds itself upon your father's<br>More than your mother's spirit. Therefore may you<br>Hear, what were too much for her fortitude. |
 | THEKLA | Enough! no further preface, I entreat you.<br>At once, out with it! Be it what it may,<br>It is not possible that it should torture me<br>More than this introduction. What have you<br>To say to me? Tell me the whole and briefly! |
 | COUNTESS | You'll not be frightened — |
 | THEKLA | Name it, I entreat you. |
@@ -302,7 +302,7 @@ SCENE I
 | COUNTESS | Ah,<br>My miserable mother! what a [[motifs/death\|death]]-stroke<br>Awaits thee! — No! She never will survive it. |
 | THEKLA | She will accommodate her [[motifs/soul\|soul]] to that<br>Which is and must be. I do know your mother.<br>The far-off future weights upon her heart<br>With torture of anxiety; but is it<br>Unalterably, actually present,<br>She soon resigns herself, and bears it calmly. |
 | COUNTESS | O my fore-boding bosom! Even now,<br>E'en now 'tis here, that icy hand of horror!<br>And my young [[concepts/hope\|hope]] lies shuddering in its grasp;<br>I knew it [[motifs/well\|well]] — no sooner had I entered,<br>A heavy ominous presentiment<br>Revealed to me, that spirits of [[motifs/death\|death]] were hovering<br>Over my happy fortune. But why think I<br>First of myself? My mother! O my mother! |
-| THEKLA | Calm yourself! Break not out in vain lamenting!<br>Preserve you for your father the firm friend,<br>And for yourself the lover, all will yet<br>Prove good and fortunate. |
+| THEKLA | Calm yourself! Break not out in vain lamenting!<br>Preserve you for your father the firm friend,<br>And for yourself the [[archetypes/lover\|lover]], all will yet<br>Prove good and fortunate. |
 | COUNTESS | Prove good? What good?<br>Must we not part? Part ne'er to meet again? |
 | THEKLA | He parts not from you! He can not part from you. |
 | COUNTESS | Alas for his sore anguish! It will rend<br>His heart asunder. |
@@ -324,11 +324,11 @@ SCENE I
 | DUCHESS | Alas! then all is lost! I see it coming,<br>The worst that can come! Yes, they will depose him;<br>The accurséd business of the Regenspurg diet<br>Will all be acted o'er again! |
 | COUNTESS | No! never!<br>Make your heart easy, sister, as to that. |
 | *(didascalia)* | [THEKLA throws herself upon her mother, and enfolds her<br>in her arms, weeping. |
-| DUCHESS | Yes, my poor child!<br>Thou too hast lost a most affectionate godmother<br>In the Empress. O that stern unbending man!<br>In this unhappy [[motifs/marriage\|marriage]] what have I<br>Not suffered, not endured. For ev'n as if<br>I had been linked on to some [[motifs/wheel\|wheel]] of [[motifs/fire\|fire]]<br>That restless, ceaseless, whirls impetuous onward,<br>I have passed a life of frights and horrors with him,<br>And ever to the brink of some abyss<br>With dizzy headlong violence he whirls me.<br>Nay, do not weep, my child! Let not my sufferings<br>Presignify unhappiness to thee,<br>Nor blacken with their shade the fate that waits thee.<br>There lives no second Friedland: thou, my child,<br>Hast not to [[concepts/fear\|fear]] thy mother's destiny. |
-| THEKLA | O let us supplicate him, dearest mother!<br>Quick! quick! here's no abiding-place for us.<br>Here every coming hour broods into life<br>Some new affrightful monster. |
-| DUCHESS | Thou wilt share<br>An easier, calmer lot, my child! We too,<br>I and thy father, witnessed happy days.<br>Still think I with delight of those first years,<br>When he was making progress with glad effort,<br>When his [[concepts/ambition\|ambition]] was a genial [[motifs/fire\|fire]],<br>Not that consuming flame which now it is.<br>The Emperor loved him, trusted him: and all<br>He undertook could not but be successful.<br>But since that ill-starred day at Regenspurg,<br>Which plunged him headlong from his dignity,<br>A gloomy uncompanionable spirit,<br>Unsteady and suspicious, has possessed him.<br>His quiet mind forsook him, and no longer<br>Did he yield up himself in joy and [[concepts/faith\|faith]]<br>To his old luck, and individual power;<br>But thenceforth turned his heart and best affections<br>All to those cloudy sciences, which never<br>Have yet made happy him who followed them. |
+| DUCHESS | Yes, my poor [[archetypes/child\|child]]!<br>Thou too hast lost a most affectionate godmother<br>In the Empress. O that stern unbending man!<br>In this unhappy [[motifs/marriage\|marriage]] what have I<br>Not suffered, not endured. For ev'n as if<br>I had been linked on to some [[motifs/wheel\|wheel]] of [[motifs/fire\|fire]]<br>That restless, ceaseless, whirls impetuous onward,<br>I have passed a life of frights and horrors with him,<br>And ever to the brink of some abyss<br>With dizzy headlong violence he whirls me.<br>Nay, do not weep, my [[archetypes/child\|child]]! Let not my sufferings<br>Presignify unhappiness to thee,<br>Nor blacken with their shade the fate that waits thee.<br>There lives no second Friedland: thou, my [[archetypes/child\|child]],<br>Hast not to [[concepts/fear\|fear]] thy mother's destiny. |
+| THEKLA | O let us supplicate him, dearest mother!<br>Quick! quick! here's no abiding-place for us.<br>Here every coming hour broods into life<br>Some new affrightful [[archetypes/monster\|monster]]. |
+| DUCHESS | Thou wilt share<br>An easier, calmer lot, my [[archetypes/child\|child]]! We too,<br>I and thy father, witnessed happy days.<br>Still think I with delight of those first years,<br>When he was making progress with glad effort,<br>When his [[concepts/ambition\|ambition]] was a genial [[motifs/fire\|fire]],<br>Not that consuming flame which now it is.<br>The Emperor loved him, trusted him: and all<br>He undertook could not but be successful.<br>But since that ill-starred day at Regenspurg,<br>Which plunged him headlong from his dignity,<br>A gloomy uncompanionable spirit,<br>Unsteady and suspicious, has possessed him.<br>His quiet mind forsook him, and no longer<br>Did he yield up himself in joy and [[concepts/faith\|faith]]<br>To his old luck, and individual power;<br>But thenceforth turned his heart and best affections<br>All to those cloudy sciences, which never<br>Have yet made happy him who followed them. |
 | COUNTESS | You see it, sister! as your eyes permit you.<br>But surely this is not the conversation<br>To pass the [[motifs/time\|time]] in which we are waiting for him.<br>You know he will be soon here. Would you have him<br>Find her in this condition? |
-| DUCHESS | Come, my child!<br>Come, wipe away thy [[motifs/tears\|tears]], and shew thy father<br>A cheerful countenance. See, the tie-knot here<br>Is off — this hair must not hang so dishevelled.<br>Come, dearest! dry thy [[motifs/tears\|tears]] up. They deform<br>Thy gentle eye — [[motifs/well\|well]] now — what was I saying?<br>Yes, in good [[concepts/truth\|truth]], this Piccolomini<br>Is a most noble and deserving gentleman. |
+| DUCHESS | Come, my [[archetypes/child\|child]]!<br>Come, wipe away thy [[motifs/tears\|tears]], and shew thy father<br>A cheerful countenance. See, the tie-knot here<br>Is off — this hair must not hang so dishevelled.<br>Come, dearest! dry thy [[motifs/tears\|tears]] up. They deform<br>Thy gentle eye — [[motifs/well\|well]] now — what was I saying?<br>Yes, in good [[concepts/truth\|truth]], this Piccolomini<br>Is a most noble and deserving gentleman. |
 | COUNTESS | That is he, sister! |
 | THEKLA *(to the Countess)* | Aunt, you will excuse me? |
 | *(didascalia)* | [Is going. |
@@ -339,7 +339,7 @@ SCENE I
 | COUNTESS | But he will miss you, will ask after you. |
 | DUCHESS | What now? Why is she going? |
 | COUNTESS | She's not [[motifs/well\|well]]. |
-| DUCHESS | What ails then my beloved child? |
+| DUCHESS | What ails then my beloved [[archetypes/child\|child]]? |
 | *(didascalia)* | [Both follow the PRINCESS, and endeavour to detain her.<br>During this WALLENSTEIN appears, engaged in<br>conversation with ILLO. |
 | *(didascalia)* | [Between 14, 15] [THEKLA, in extreme agitation, throws herself, &c.<br>1800, 1828, 1829. |
 | *(didascalia)* | spirits). 1800, 1828, 1829. |
@@ -373,14 +373,14 @@ SCENE I
 | COUNTESS | Here is the lute. |
 | THEKLA | My God! how can I — |
 | *(didascalia)* | [The orchestra plays. During the ritornello THEKLA<br>expresses in her gestures and countenance the<br>struggle of her feelings: and at the moment<br>that she should begin to sing, contracts<br>herself together, as one shuddering, throws<br>the instrument down, and retires abruptly. |
-| DUCHESS | My child! O she is ill — |
+| DUCHESS | My [[archetypes/child\|child]]! O she is ill — |
 | WALLENSTEIN | What ails the maiden?<br>Say, is she often so? |
 | COUNTESS | Since then herself<br>Has now betrayed it, I too must no longer<br>Conceal it. |
 | WALLENSTEIN | What? |
 | COUNTESS | She loves him! |
 | WALLENSTEIN | Loves him! Whom? |
 | COUNTESS | Max does she [[motifs/love\|love]]! Max Piccolomini.<br>Hast thou ne'er noticed it? Nor yet my sister? |
-| DUCHESS | Was it this that lay so heavy on her heart?<br>God's blessing on thee, my sweet child! Thou needest<br>Never take shame upon thee for thy choice. |
+| DUCHESS | Was it this that lay so heavy on her heart?<br>God's blessing on thee, my sweet [[archetypes/child\|child]]! Thou needest<br>Never take shame upon thee for thy choice. |
 | COUNTESS | This [[motifs/journey\|journey]], if 'twere not thy aim, ascribe it<br>To thine own [[concepts/self\|self]]. Thou shouldest have chosen another<br>To have attended her. |
 | WALLENSTEIN | And does he know it? |
 | COUNTESS | Yes, and he hopes to win her. |
@@ -394,7 +394,7 @@ SCENE I
 | DUCHESS | Then<br>His rank, his ancestors — |
 | WALLENSTEIN | Ancestors! What?<br>He is a subject, and my son-in-law<br>I will seek out upon the thrones of Europe. |
 | DUCHESS | O dearest Albrecht! Climb we not too high.<br>Lest we should fall too low. |
-| WALLENSTEIN | What? have I paid<br>A price so heavy to ascend this eminence,<br>And jut out high above the common herd,<br>Only to close the mighty part I play<br>In Life's great drama, with a common kinsman?<br>Have I for this — [pause.] She is the only thing<br>That will remain behind of me on earth;<br>And I will see a [[motifs/crown\|crown]] around her head,<br>Or die in the attempt to place it there.<br>I hazard all — all! and for this alone,<br>To lift her into [[concepts/greatness\|greatness]] —<br>Yea, in this moment, in the which we are speaking — [pause.<br>And I must now, like a soft-hearted father,<br>Couple together in good peasant fashion<br>The pair, that chance to suit each other's liking —<br>And I must do it now, even now, when I<br>Am stretching out the wreath that is to twine<br>My full accomplished work — no! she is the [[motifs/jewel\|jewel]],<br>Which I have treasured long, my last, my noblest,<br>And 'tis my purpose not to let her from me<br>For less than a king's sceptre. |
+| WALLENSTEIN | What? have I paid<br>A price so heavy to ascend this eminence,<br>And jut out high above the common herd,<br>Only to close the mighty part I play<br>In Life's great drama, with a common kinsman?<br>Have I for this — [pause.] She is the only thing<br>That will remain behind of me on earth;<br>And I will see a [[motifs/crown\|crown]] around her head,<br>Or die in the attempt to place it there.<br>I hazard all — all! and for this alone,<br>To lift her into [[concepts/greatness\|greatness]] —<br>Yea, in this moment, in the which we are speaking — [pause.<br>And I must now, like a soft-hearted father,<br>Couple together in good peasant fashion<br>The pair, that chance to suit each other's liking —<br>And I must do it now, even now, when I<br>Am stretching out the wreath that is to twine<br>My full accomplished work — no! she is the [[motifs/jewel\|jewel]],<br>Which I have treasured long, my last, my noblest,<br>And 'tis my purpose not to let her from me<br>For less than a [[archetypes/king\|king]]'s sceptre. |
 | DUCHESS | O my husband!<br>You're ever building, building to the clouds,<br>Still building higher, and still higher building,<br>And ne'er reflect, that the poor narrow basis<br>Cannot sustain the giddy tottering column. |
 | WALLENSTEIN *(to the Countess)* | Have you announced the place of residence<br>Which I have destined for her? |
 | COUNTESS | No! not yet.<br>'Twere better you yourself disclosed it to her. |
@@ -420,7 +420,7 @@ SCENE I
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | To them enter COUNT TERTSKY. |
-| COUNTESS | — Tertsky!<br>What ails him? What an image of affright!<br>He looks as he had seen a ghost. |
+| COUNTESS | — Tertsky!<br>What ails him? What an image of affright!<br>He looks as he had seen a [[archetypes/ghost\|ghost]]. |
 | *(didascalia)* | Tertsky leading Wallenstein aside. |
 | TERTSKY | Is it thy command that all<br>the Croats — |
 | WALLENSTEIN | Mine! |
@@ -445,7 +445,7 @@ SCENE I
 | COUNTESS | *(who has been watching them anxiously from the distance and now advances to them)* Tertsky! Heaven! What is it? What<br>has happened? |
 | WALLENSTEIN | *(scarcely suppressing his emotions)* Nothing! let us<br>be gone! |
 | TERTSKY | *(following him)* Theresa, it is nothing. |
-| COUNTESS | *(holding him back)* Nothing? Do I not see, that all the<br>lifeblood<br>Has left your cheeks — look you not like a ghost?<br>That even my brother but affects a calmness? |
+| COUNTESS | *(holding him back)* Nothing? Do I not see, that all the<br>lifeblood<br>Has left your cheeks — look you not like a [[archetypes/ghost\|ghost]]?<br>That even my brother but affects a calmness? |
 | *(didascalia)* | Page (enters). An Aid-de-Camp enquires for the Count Tertsky. |
 | *(didascalia)* | [TERTSKY follows the Page. |
 | WALLENSTEIN | Go, hear his business. *(To ILLO.)* This could not have happened<br>So unsuspected without mutiny.<br>Who was on guard at the gates? |
@@ -516,7 +516,7 @@ SCENE I
 | COUNTESS | O my foreboding! |
 | *(didascalia)* | [Rushes out of the room. |
 | TERTSKY | Hadst thou but believed me!<br>Now seest thou how the [[motifs/stars\|stars]] have lied to thee. |
-| WALLENSTEIN | The [[motifs/stars\|stars]] lie not; but we have here a work<br>Wrought counter to the [[motifs/stars\|stars]] and destiny.<br>The science is still honest: this false heart<br>Forces a lie on the [[concepts/truth\|truth]]-telling heaven.<br>On a divine law divination rests;<br>Where [[concepts/nature\|nature]] deviates from that law, and stumbles<br>Out of her limits, there all science errs.<br>True, I did not suspect! Were it superstition<br>Never by such suspicion t' have affronted<br>The human form, O may that [[motifs/time\|time]] ne'er come<br>In which I shame me of the infirmity.<br>The wildest savage drinks not with the victim<br>Into whose breast he means to plunge the sword.<br>This, this, Octavio, was no hero's deed:<br>'Twas not thy prudence that did conquer mine;<br>A bad heart triumphed o'er an honest one.<br>No shield received the assassin stroke; thou plungest<br>Thy weapon on an unprotected breast —<br>Against such weapons I am but a child. |
+| WALLENSTEIN | The [[motifs/stars\|stars]] lie not; but we have here a work<br>Wrought counter to the [[motifs/stars\|stars]] and destiny.<br>The science is still honest: this false heart<br>Forces a lie on the [[concepts/truth\|truth]]-telling heaven.<br>On a divine law divination rests;<br>Where [[concepts/nature\|nature]] deviates from that law, and stumbles<br>Out of her limits, there all science errs.<br>True, I did not suspect! Were it superstition<br>Never by such suspicion t' have affronted<br>The human form, O may that [[motifs/time\|time]] ne'er come<br>In which I shame me of the infirmity.<br>The wildest savage drinks not with the victim<br>Into whose breast he means to plunge the sword.<br>This, this, Octavio, was no [[archetypes/hero\|hero]]'s deed:<br>'Twas not thy prudence that did conquer mine;<br>A bad heart triumphed o'er an honest one.<br>No shield received the assassin stroke; thou plungest<br>Thy weapon on an unprotected breast —<br>Against such weapons I am but a [[archetypes/child\|child]]. |
 
 ### Act I, Scene 10
 
@@ -685,7 +685,7 @@ SCENE I
 | COUNTESS | That lurking hypocrite. Octavio! Count Max is off too? |
 | TERTSKY | Where can he be? He's Gone over to the Emperor with his father. |
 | *(didascalia)* | THEKLA rushes out into the arms of her mother, hiding her face in her bosom. |
-| DUCHESS | Unhappy child! and more unhappy mother! |
+| DUCHESS | Unhappy [[archetypes/child\|child]]! and more unhappy mother! |
 | WALLENSTEIN | Quick! Let a carriage stand in readiness In the [[settings/court\|court]] behind the palace. Scherfenberg Be their attendant; he is faithful to us; To Egra he'll conduct them, and we follow. |
 | *(didascalia)* | To ILLO, who returns. |
 | WALLENSTEIN | Thou hast not brought them back? |
@@ -713,13 +713,13 @@ SCENE I
 | MAX | O God! I cannot leave this spot — I cannot!<br>Cannot let go this hand. O tell me, Thekla!<br>That thou dost suffer with me, art convinced<br>That I cannot act otherwise. |
 | *(didascalia)* | [THEKLA, avoiding his look, points with her hand to her father. MAX turns round to the DUKE, whom he had not till then perceived. |
 | MAX | Thou here? It was not thou, whom here I sought.<br>I trusted never more to have beheld thee.<br>My business is with her alone. Here will I<br>Receive a full acquittal from this heart —<br>For any other I am no more concerned. |
-| WALLENSTEIN | Think'st thou, that fool-like, I shall let thee go,<br>And act the mock-magnanimous with thee?<br>Thy father is become a villain to me;<br>I hold thee for his son, and nothing more:<br>Nor to no purpose shalt thou have been given<br>Into my power. Think not, that I will [[concepts/honour\|honour]]<br>That ancient [[motifs/love\|love]], which so remorselessly<br>He mangled. They are now past by, those hours<br>Of [[concepts/friendship\|friendship]] and [[concepts/forgiveness\|forgiveness]]. Hate and vengeance<br>Succeed—'tis now their turn — I too can throw<br>All feelings of the man aside — can prove<br>Myself as much a monster as thy father! |
+| WALLENSTEIN | Think'st thou, that [[archetypes/fool\|fool]]-like, I shall let thee go,<br>And act the mock-magnanimous with thee?<br>Thy father is become a [[archetypes/villain\|villain]] to me;<br>I hold thee for his son, and nothing more:<br>Nor to no purpose shalt thou have been given<br>Into my power. Think not, that I will [[concepts/honour\|honour]]<br>That ancient [[motifs/love\|love]], which so remorselessly<br>He mangled. They are now past by, those hours<br>Of [[concepts/friendship\|friendship]] and [[concepts/forgiveness\|forgiveness]]. Hate and vengeance<br>Succeed—'tis now their turn — I too can throw<br>All feelings of the man aside — can prove<br>Myself as much a [[archetypes/monster\|monster]] as thy father! |
 | MAX | Thou wilt proceed with me, as thou hast power.<br>Thou know'st, I neither brave nor [[concepts/fear\|fear]] thy rage.<br>What has detained me here, that too thou know'st. |
 | *(didascalia)* | [Taking THEKLA by the hand. |
 | MAX | See, Duke! All — all would I have owed to thee,<br>Would have received from thy paternal hand<br>The lot of blessed spirits. This hast thou<br>Laid waste for ever — that concerns not thee.<br>Indifferent thou tramplest in the [[motifs/dust\|dust]]<br>Their happiness, who most are thine. The god<br>Whom thou dost serve, is no benignant deity.<br>Like as the blind irreconcileable<br>Fierce element, incapable of compact,<br>Thy heart's wild impulse only dost thou follow. |
-| WALLENSTEIN | Thou art describing thy own father's heart.<br>The adder! O, the charms of hell o'erpowered me.<br>He dwelt within me, to my inmost [[motifs/soul\|soul]]<br>Still to and fro he passed, suspected never!<br>On the wide ocean, in the starry heaven<br>Did mine eyes seek the enemy, whom I<br>In my heart's heart had folded! Had I been<br>To Ferdinand what Octavio was to me,<br>War had I ne'er denounced against him. No,<br>I never could have done it. The Emperor was<br>My austere master only, not my friend.<br>There was already war 'twixt him and me<br>When he delivered the Commander's Staff<br>Into my hands; for there's a natural<br>Unceasing war 'twixt cunning and suspicion;<br>Peace exists only betwixt confidence<br>And [[concepts/faith\|faith]]. Who poisons confidence, he murders<br>The future generations. |
-| MAX | I will not<br>Defend my father. Woe is me, I cannot!<br>Hard deeds and luckless have ta'en place, one crime<br>Drags after it the other in close link.<br>But we are innocent: how have we fallen<br>Into this circle of mishap and [[concepts/guilt\|guilt]]?<br>To whom have we been faithless? Wherefore must<br>The evil deeds and [[concepts/guilt\|guilt]] reciprocal<br>Of our two fathers twine like serpents round us?<br>Why must our fathers'<br>Unconquerable hate rend us asunder,<br>Who [[motifs/love\|love]] each other? |
-| WALLENSTEIN | Max, remain with me.<br>Go you not from me, Max! Hark! I will tell thee —<br>How when at Prague, our [[motifs/winter\|winter]] quarters, thou<br>Wert brought into my tent a tender boy,<br>Not yet accustomed to the German winters;<br>Thy hand was frozen to the heavy colours;<br>Thou would'st not let them go. —<br>At that [[motifs/time\|time]] did I take thee in my arms,<br>And with my mantle did I cover thee;<br>I was thy nurse, no woman could have been<br>A kinder to thee; I was not ashamed<br>To do for thee all little offices,<br>However strange to me; I tended thee<br>Till life returned; and when thine eyes first opened,<br>I had thee in my arms. Since then, when have I<br>Altered my feelings towards thee? Many thousands<br>Have I made rich, presented them with lands;<br>Rewarded them with dignities and honours;<br>Thee have I loved: my heart, my [[concepts/self\|self]], I gave<br>To thee! They all were aliens: thou wert<br>Our child and inmate. Max! Thou canst not leave me;<br>It cannot be; I may not, will not think<br>That Max can leave me. |
+| WALLENSTEIN | Thou art describing thy own father's heart.<br>The adder! O, the charms of hell o'erpowered me.<br>He dwelt within me, to my inmost [[motifs/soul\|soul]]<br>Still to and fro he passed, suspected never!<br>On the wide ocean, in the starry heaven<br>Did mine eyes seek the enemy, whom I<br>In my heart's heart had folded! Had I been<br>To [[characters/ferdinand\|Ferdinand]] what Octavio was to me,<br>War had I ne'er denounced against him. No,<br>I never could have done it. The Emperor was<br>My austere master only, not my friend.<br>There was already war 'twixt him and me<br>When he delivered the Commander's Staff<br>Into my hands; for there's a natural<br>Unceasing war 'twixt cunning and suspicion;<br>Peace exists only betwixt confidence<br>And [[concepts/faith\|faith]]. Who poisons confidence, he murders<br>The future generations. |
+| MAX | I will not<br>Defend my father. Woe is me, I cannot!<br>Hard deeds and luckless have ta'en place, one crime<br>Drags after it the other in close link.<br>But we are [[archetypes/innocent\|innocent]]: how have we fallen<br>Into this circle of mishap and [[concepts/guilt\|guilt]]?<br>To whom have we been faithless? Wherefore must<br>The evil deeds and [[concepts/guilt\|guilt]] reciprocal<br>Of our two fathers twine like serpents round us?<br>Why must our fathers'<br>Unconquerable hate rend us asunder,<br>Who [[motifs/love\|love]] each other? |
+| WALLENSTEIN | Max, remain with me.<br>Go you not from me, Max! Hark! I will tell thee —<br>How when at Prague, our [[motifs/winter\|winter]] quarters, thou<br>Wert brought into my tent a tender boy,<br>Not yet accustomed to the German winters;<br>Thy hand was frozen to the heavy colours;<br>Thou would'st not let them go. —<br>At that [[motifs/time\|time]] did I take thee in my arms,<br>And with my mantle did I cover thee;<br>I was thy [[characters/nurse\|nurse]], no woman could have been<br>A kinder to thee; I was not ashamed<br>To do for thee all little offices,<br>However strange to me; I tended thee<br>Till life returned; and when thine eyes first opened,<br>I had thee in my arms. Since then, when have I<br>Altered my feelings towards thee? Many thousands<br>Have I made rich, presented them with lands;<br>Rewarded them with dignities and honours;<br>Thee have I loved: my heart, my [[concepts/self\|self]], I gave<br>To thee! They all were aliens: thou wert<br>Our [[archetypes/child\|child]] and inmate. Max! Thou canst not leave me;<br>It cannot be; I may not, will not think<br>That Max can leave me. |
 | MAX | O my God! |
 | WALLENSTEIN | I have<br>Held and sustained thee from thy tottering [[motifs/childhood\|childhood]].<br>What holy bond is there of natural [[motifs/love\|love]]?<br>What human tie, that does not knit thee to me?<br>I [[motifs/love\|love]] thee, Max! What did thy father for thee,<br>Which I too have not done, to the height of duty?<br>Go hence, forsake me, serve thy Emperor;<br>He will reward thee with a pretty chain<br>Of gold; with his ram's fleece will he reward thee;<br>For that the friend, the father of thy youth,<br>For that the holiest feeling of humanity,<br>Was nothing worth to thee. |
 | MAX | O God! how can I<br>Do otherwise? Am I not forced to do it?<br>My oath — my duty — [[concepts/honour\|honour]] — |
@@ -891,7 +891,7 @@ SCENE I
 | BUTLER | I have heard so —— |
 | GORDON | 'Tis full thirty years since then.<br>A youth who scarce had seen his twentieth year<br>Was Wallenstein, when he and I were friends:<br>Yet even then he had a daring [[motifs/soul\|soul]]:<br>His frame of mind was serious and severe<br>Beyond his years: his [[motifs/dreams\|dreams]] were of great objects.<br>He walked amidst us of a silent spirit,<br>Communing with himself: yet I have known him<br>Transported on a sudden into utterance<br>Of strange conceptions; kindling into splendour<br>His [[motifs/soul\|soul]] revealed itself, and he spake so<br>That we looked round perplexed upon each other,<br>Not knowing whether it were craziness,<br>Or whether it were a god that spoke in him. |
 | BUTLER | But was it where he fell two story high<br>From a [[motifs/window\|window]]-ledge, on which he had fallen asleep;<br>And [[motifs/rose\|rose]] up free from injury? From this day<br>(It is reported) he betrayed clear marks<br>Of a distempered fancy. |
-| GORDON | He became<br>Doubtless more [[concepts/self\|self]]-enwrapt and [[concepts/melancholy\|melancholy]];<br>He made himself a Catholic. Marvellously<br>His marvellous preservation had transformed him.<br>Thenceforth he held himself for an exempted<br>And privileged being, and, as if he were<br>Incapable of dizziness or fall,<br>He ran along the unsteady rope of life.<br>But now our destinies drove us asunder:<br>He paced with rapid step the way of [[concepts/greatness\|greatness]],<br>Was Count, and Prince, Duke-regent, and Dictator.<br>And now is all, all this too little for him;<br>He stretches forth his hands for a king's [[motifs/crown\|crown]],<br>And plunges in unfathomable ruin. |
+| GORDON | He became<br>Doubtless more [[concepts/self\|self]]-enwrapt and [[concepts/melancholy\|melancholy]];<br>He made himself a Catholic. Marvellously<br>His marvellous preservation had transformed him.<br>Thenceforth he held himself for an exempted<br>And privileged being, and, as if he were<br>Incapable of dizziness or fall,<br>He ran along the unsteady rope of life.<br>But now our destinies drove us asunder:<br>He paced with rapid step the way of [[concepts/greatness\|greatness]],<br>Was Count, and Prince, Duke-regent, and Dictator.<br>And now is all, all this too little for him;<br>He stretches forth his hands for a [[archetypes/king\|king]]'s [[motifs/crown\|crown]],<br>And plunges in unfathomable ruin. |
 | BUTLER | No more, he comes. |
 | *(didascalia)* | [With a sly glance on BUTLER. 1800, 1828, 1829.] |
 | *(didascalia)* | Gordon (pauses reflecting — then as in deep dejection). 1800, 1828, 1829. |
@@ -1035,9 +1035,9 @@ SCENE I
 | ILLO | Yes, let us be of good cheer for to-day,<br>For there's hot work before us, friends! This sword<br>Shall have no rest, till it be bathed to the hilt<br>In Austrian [[motifs/blood\|blood]]. |
 | GORDON | Shame, shame! what talk is this,<br>My Lord Field Marshal? Wherefore foam you so<br>Against your Emperor? |
 | BUTLER | [[concepts/hope\|Hope]] not too much<br>From this first victory. Bethink you, sirs!<br>How rapidly the [[motifs/wheel\|wheel]] of Fortune turns;<br>The Emperor still is formidably strong. |
-| ILLO | The Emperor has soldiers, no commander,<br>For this King Ferdinand of Hungary<br>Is but a tyro. Galas? He's no luck,<br>And was of old the ruiner of armies.<br>And then this viper, this Octavio,<br>Is excellent at stabbing in the back,<br>But ne'er meets Friedland in the open field. |
+| ILLO | The Emperor has soldiers, no commander,<br>For this [[archetypes/king\|King]] [[characters/ferdinand\|Ferdinand]] of Hungary<br>Is but a tyro. Galas? He's no luck,<br>And was of old the ruiner of armies.<br>And then this viper, this Octavio,<br>Is excellent at stabbing in the back,<br>But ne'er meets Friedland in the open field. |
 | TERTSKY | Trust me, my friends, it cannot but succeed;<br>Fortune, we know, can ne'er forsake the Duke!<br>And only under Wallenstein can Austria<br>Be conqueror. |
-| ILLO | The Duke will soon assemble<br>A mighty army, all come crowding, streaming<br>To banners dedicate by destiny<br>To fame and prosperous fortune. I behold<br>Old times come back again, he will become<br>Once more the mighty Lord which he has been.<br>How will the fools, who've now deserted him,<br>Look then? I can't but laugh to think of them,<br>For lands will he present to all his friends,<br>And like a King and Emperor reward<br>True services; but we've the nearest claims. |
+| ILLO | The Duke will soon assemble<br>A mighty army, all come crowding, streaming<br>To banners dedicate by destiny<br>To fame and prosperous fortune. I behold<br>Old times come back again, he will become<br>Once more the mighty Lord which he has been.<br>How will the fools, who've now deserted him,<br>Look then? I can't but laugh to think of them,<br>For lands will he present to all his friends,<br>And like a [[archetypes/king\|King]] and Emperor reward<br>True services; but we've the nearest claims. |
 | *(didascalia)* | To GORDON. |
 | ILLO | You will not be forgotten, Governor!<br>He'll take you from this nest and bid you shine<br>In higher station: your fidelity<br>[[motifs/well\|Well]] merits it. |
 | GORDON | I am content already,<br>And wish to climb no higher; where great height is<br>The fall must needs be great. 'Great height, great depth.' |
@@ -1053,7 +1053,7 @@ SCENE I
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | GORDON and BUTLER. |
-| GORDON | (looking after them). Unhappy men! How free from all foreboding!<br>They rush into the outspread net of murder,<br>In the blind drunkenness of victory;<br>I have no pity for their fate. This Illo,<br>This overflowing and fool-hardy villain<br>That would fain bathe himself in his Emperor's [[motifs/blood\|blood]]. |
+| GORDON | (looking after them). Unhappy men! How free from all foreboding!<br>They rush into the outspread net of murder,<br>In the blind drunkenness of victory;<br>I have no pity for their fate. This Illo,<br>This overflowing and [[archetypes/fool\|fool]]-hardy [[archetypes/villain\|villain]]<br>That would fain bathe himself in his Emperor's [[motifs/blood\|blood]]. |
 | BUTLER | Do as he ordered you. Send round patroles.<br>Take measures for the citadel's security;<br>When they are within I close the [[settings/castle\|castle]] gate<br>That nothing may transpire. |
 | GORDON | Oh! haste not so!<br>Nay, stop; first tell me —— |
 | BUTLER | You have heard already,<br>To-morrow to the Swedes belongs. This [[motifs/night\|night]]<br>[[works/alone-(poe)\|Alone]] is ours. They make good expedition.<br>But we will make still greater. Fare you [[motifs/well\|well]]. |
@@ -1111,7 +1111,7 @@ SCENE I
 | DEVEREUX | So then! |
 | MACDONALD | An altered case! |
 | BUTLER | Thou wretched man!<br>So easily leav'st thou thy oath and colours? |
-| DEVEREUX | The devil! — I but followed your example,<br>If you could prove a villain, why not we? |
+| DEVEREUX | The devil! — I but followed your example,<br>If you could prove a [[archetypes/villain\|villain]], why not we? |
 | MACDONALD | We've nought to do with thinking — that's your business.<br>You are our General, and give out the orders;<br>We follow you, though the track lead to hell. |
 | BUTLER | Good then! we know each other. |
 | MACDONALD | I should [[concepts/hope\|hope]] so. |
@@ -1199,7 +1199,7 @@ SCENE I
 | MACDONALD | And I too. 'Tis too great a personage.<br>People will hold us for a brace of villains. |
 | BUTLER | In plenty, [[concepts/honour\|honour]], splendour — You may safely<br>Laugh at the people's babble. |
 | DEVEREUX | If the business<br>Squares with one's [[concepts/honour\|honour]] — if that be quite certain — |
-| BUTLER | Set your hearts quite at ease. Ye save for Ferdinand<br>His [[motifs/crown\|Crown]] and Empire. The reward can be<br>No small one. |
+| BUTLER | Set your hearts quite at ease. Ye save for [[characters/ferdinand\|Ferdinand]]<br>His [[motifs/crown\|Crown]] and Empire. The reward can be<br>No small one. |
 | DEVEREUX | And 'tis his purpose to dethrone the Emperor? |
 | BUTLER | Yes! — Yes! — to rob him of his [[motifs/crown\|crown]] and life. |
 | DEVEREUX | And he must fall by the executioner's hands,<br>Should we deliver him up to the Emperor<br>Alive? |
@@ -1214,7 +1214,7 @@ SCENE I
 | *(didascalia)* | SCENE — A Gothic Apartment at the DUCHESS FRIEDLAND'S. THEKLA on a seat, pale, her eyes closed. The DUCHESS and LADY NEUBRUNN busied about her. WALLENSTEIN and the COUNTESS in conversation. |
 | WALLENSTEIN | How knew she it so soon? |
 | COUNTESS | She seems to have<br>Foreboded some misfortune. The report<br>Of an engagement, in the which had fallen<br>A colonel of the Imperial army, frighten'd her.<br>I saw it instantly. She flew to meet<br>The Swedish Courier, and with sudden questioning,<br>Soon wrested from him the disastrous secret.<br>Too late we missed her, hastened after her,<br>We found her lying in his arms, all pale<br>And in a swoon. |
-| WALLENSTEIN | A heavy, heavy blow!<br>And she so unprepared! Poor child! How is it? |
+| WALLENSTEIN | A heavy, heavy blow!<br>And she so unprepared! Poor [[archetypes/child\|child]]! How is it? |
 | *(didascalia)* | [Turning to the DUCHESS. |
 | WALLENSTEIN | Is she coming to herself? |
 | DUCHESS | Her eyes are opening. |
@@ -1256,7 +1256,7 @@ SCENE I
 | LADY NEUBRUNN | (returning). The Swedish officer. |
 | WALLENSTEIN | Leave her alone with him. |
 | *(didascalia)* | [Exit. |
-| DUCHESS | (to Thekla who starts and shivers). There — pale as<br>[[motifs/death\|death]]! — Child, 'tis impossible<br>That thou should'st speak with him. Follow thy mother. |
+| DUCHESS | (to Thekla who starts and shivers). There — pale as<br>[[motifs/death\|death]]! — [[archetypes/child\|Child]], 'tis impossible<br>That thou should'st speak with him. Follow thy mother. |
 | THEKLA | The Lady Neubrunn then may stay with me. |
 | *(didascalia)* | [Exeunt DUCHESS and COUNTESS. |
 | *(didascalia)* | SCENE — A Gothic and gloomy, &c. 1800, 1828, 1829. |
@@ -1272,7 +1272,7 @@ SCENE I
 | THEKLA | The fault is mine. Myself did wrest it from you.<br>The horror which came o'er me interrupted<br>Your tale at its commencement. May it please you,<br>Continue it to the end. |
 | CAPTAIN | Princess, 'twill<br>Renew your anguish. |
 | THEKLA | I am firm. ——<br>I will be firm. [[motifs/well\|Well]] — how began the engagement? |
-| CAPTAIN | We lay, expecting no attack, at Neustadt,<br>Entrenched but insecurely in our camp,<br>When towards evening [[motifs/rose\|rose]] a cloud of [[motifs/dust\|dust]]<br>From the wood thitherward; our vanguard fled<br>Into the camp, and sounded the alarm.<br>Scarce had we mounted, ere the Pappenheimers,<br>Their horses at full speed, broke through the lines,<br>And leapt the trenches; but their heedless [[concepts/courage\|courage]]<br>Had borne them onward far before the others —<br>The infantry were still at distance, only<br>The Pappenheimers followed daringly<br>Their daring leader —— |
+| CAPTAIN | We lay, expecting no attack, at Neustadt,<br>Entrenched but insecurely in our camp,<br>When towards evening [[motifs/rose\|rose]] a cloud of [[motifs/dust\|dust]]<br>From the wood thitherward; our vanguard fled<br>Into the camp, and sounded the alarm.<br>Scarce had we mounted, ere the Pappenheimers,<br>Their horses at full [[characters/speed\|speed]], broke through the lines,<br>And leapt the trenches; but their heedless [[concepts/courage\|courage]]<br>Had borne them onward far before the others —<br>The infantry were still at distance, only<br>The Pappenheimers followed daringly<br>Their daring leader —— |
 | *(didascalia)* | [THEKLA betrays agitation in her gestures. The officer pauses till she makes a sign to him to proceed. |
 | CAPTAIN | Both in van and flanks<br>With our whole cavalry we now received them;<br>Back to the trenches drove them, where the foot<br>Stretched out a solid ridge of pikes to meet them.<br>They neither could advance, nor yet retreat;<br>And as they stood on every side wedged in,<br>The Rhinegrave to their leader called aloud,<br>Inviting a surrender; but their leader,<br>Young Piccolomini —— |
 | *(didascalia)* | [THEKLA, as giddy, grasps a chair. |
@@ -1307,7 +1307,7 @@ SCENE I
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | THEKLA, LADY NEUBRUNN. |
-| THEKLA | Now, gentle Neubrunn, shew me the affection<br>Which thou hast ever promised — prove thyself<br>My own true friend and faithful fellow-pilgrim.<br>This [[motifs/night\|night]] we must away! |
+| THEKLA | Now, gentle Neubrunn, shew me the affection<br>Which thou hast ever promised — prove thyself<br>My own true friend and faithful fellow-[[archetypes/pilgrim\|pilgrim]].<br>This [[motifs/night\|night]] we must away! |
 | NEUBRUNN | Away! and whither? |
 | THEKLA | Whither! There is but one place in the world.<br>Thither where he lies buried! To his coffin! |
 | NEUBRUNN | What would you do there? |
@@ -1327,7 +1327,7 @@ SCENE I
 | NEUBRUNN | Heaven!<br>And then the many posts of the enemy! — |
 | THEKLA | They are human beings. Misery travels free<br>Through the whole earth. |
 | NEUBRUNN | The [[motifs/journey\|journey]]'s weary length — |
-| THEKLA | The pilgrim, travelling to a distant shrine<br>Of [[concepts/hope\|hope]] and healing, doth not count the leagues. |
+| THEKLA | The [[archetypes/pilgrim\|pilgrim]], travelling to a distant shrine<br>Of [[concepts/hope\|hope]] and healing, doth not count the leagues. |
 | NEUBRUNN | How can we pass the gates? |
 | THEKLA | Gold opens them.<br>Go, do but go. |
 | NEUBRUNN | Should we be recognized — |
@@ -1398,7 +1398,7 @@ SCENE I
 | COUNTESS | To-day I dreamt that I was seeking thee<br>In thy own chamber. As I entered, lo!<br>It was no more a chamber; the Chartreuse<br>At Gitschin 'twas, which thou thyself hast founded,<br>And where it is thy will that thou should'st be<br>Interred. |
 | WALLENSTEIN | Thy [[motifs/soul\|soul]] is busy with these thoughts. |
 | COUNTESS | What dost thou not believe that oft in [[motifs/dreams\|dreams]]<br>A voice of warning speaks prophetic to us? |
-| WALLENSTEIN | There is no [[concepts/doubt\|doubt]] that there exist such voices.<br>Yet I would not call them<br>Voices of warning that announce to us<br>Only the inevitable. As the sun,<br>Ere it is risen, sometimes paints its image<br>In the atmosphere, so often do the spirits<br>Of great events stride on before the events,<br>And in to-day already walks to-morrow.<br>That which we read of the fourth Henry's [[motifs/death\|death]]<br>Did ever vex and haunt me like a tale<br>Of my own future destiny. The King<br>Felt in his breast the phantom of the knife,<br>Long ere Ravaillac arm'd himself therewith.<br>His quiet mind forsook him: the phantasma<br>Started him in his Louvre, chased him forth<br>Into the open air: like funeral knells<br>Sounded that coronation festival;<br>And still with boding sense he heard the tread<br>Of those feet that ev'n then were seeking him<br>Throughout the streets of [[settings/paris\|Paris]]. |
+| WALLENSTEIN | There is no [[concepts/doubt\|doubt]] that there exist such voices.<br>Yet I would not call them<br>Voices of warning that announce to us<br>Only the inevitable. As the sun,<br>Ere it is risen, sometimes paints its image<br>In the atmosphere, so often do the spirits<br>Of great events stride on before the events,<br>And in to-day already walks to-morrow.<br>That which we read of the fourth Henry's [[motifs/death\|death]]<br>Did ever vex and haunt me like a tale<br>Of my own future destiny. The [[archetypes/king\|King]]<br>Felt in his breast the [[characters/phantom\|phantom]] of the knife,<br>Long ere Ravaillac arm'd himself therewith.<br>His quiet mind forsook him: the phantasma<br>Started him in his Louvre, chased him forth<br>Into the open air: like funeral knells<br>Sounded that coronation festival;<br>And still with boding sense he heard the tread<br>Of those feet that ev'n then were seeking him<br>Throughout the streets of [[settings/paris\|Paris]]. |
 | COUNTESS | And to thee<br>The voice within thy [[motifs/soul\|soul]] bodes nothing? |
 | WALLENSTEIN | Nothing.<br>Be wholly tranquil. |
 | COUNTESS | And another [[motifs/time\|time]]<br>I hastened after thee, and thou ran'st from me<br>Through a long suite, through many a spacious hall,<br>There seemed no end of it: doors creaked and clapped;<br>I followed panting, but could not o'ertake thee;<br>When on a sudden did I feel myself<br>Grasped from behind — the hand was cold that grasped me —<br>'Twas thou, and thou did'st kiss me, and there seemed<br>A crimson covering to envelop us. |
@@ -1450,7 +1450,7 @@ SCENE I
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | To these enter SENI. |
-| WALLENSTEIN | Is not that Seni? and beside himself,<br>If one may trust his looks! What brings thee hither<br>At this late hour, Baptista? |
+| WALLENSTEIN | Is not that Seni? and beside himself,<br>If one may trust his looks! What brings thee hither<br>At this late hour, [[characters/baptista\|Baptista]]? |
 | SENI | Terror, Duke!<br>On thy account. |
 | WALLENSTEIN | What now? |
 | SENI | Flee ere the day-break!<br>Trust not thy person to the Swedes! |
@@ -1458,11 +1458,11 @@ SCENE I
 | SENI | Trust not thy person to these Swedes. |
 | WALLENSTEIN | What is it then? |
 | SENI | O wait not the arrival of these<br>Swedes!<br>An evil near at hand is threatening thee<br>From false friends. All the signs stand full of horror!<br>Near, near at hand the net-work of perdition —<br>Yea, even now 'tis being cast around thee! |
-| WALLENSTEIN | Baptista, thou art dreaming! — [[concepts/fear\|Fear]] befools thee. |
+| WALLENSTEIN | [[characters/baptista\|Baptista]], thou art dreaming! — [[concepts/fear\|Fear]] befools thee. |
 | SENI | Believe not that an empty [[concepts/fear\|fear]] deludes me.<br>Come, read it in the planetary aspects;<br>Read it thyself, that ruin threatens thee<br>From false friends! |
 | WALLENSTEIN | From the falseness of my friends<br>Has risen the whole of my unprosperous fortunes.<br>The warning should have come before! At present<br>I need no revelation from the [[motifs/stars\|stars]]<br>To know that. |
 | SENI | Come and see! trust thine own eyes!<br>A fearful sign stands in the house of life;<br>An enemy, a fiend lurks close behind<br>The radiance of thy planet — O be warned!<br>Deliver not thyself up to these heathens<br>To wage a war against our holy church. |
-| WALLENSTEIN | The oracle rails that way! Yes,<br>yes! Now<br>I recollect. This junction with the Swedes<br>Did never please thee — lay thyself to [[motifs/sleep\|sleep]],<br>Baptista! Signs like these I do not [[concepts/fear\|fear]]. |
+| WALLENSTEIN | The oracle rails that way! Yes,<br>yes! Now<br>I recollect. This junction with the Swedes<br>Did never please thee — lay thyself to [[motifs/sleep\|sleep]],<br>[[characters/baptista\|Baptista]]! Signs like these I do not [[concepts/fear\|fear]]. |
 | *(didascalia)* | Gordon (who during the whole of this dialogue has shewn marks of extreme agitation, and now turns to Wallenstein). |
 | GORDON | My Duke and<br>General! May I dare presume? |
 | WALLENSTEIN | Speak freely. |
@@ -1525,7 +1525,7 @@ SCENE I
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | To these enter MACDONALD and DEVEREUX, with the Halberdiers. |
-| GORDON | No, monster!<br>First over my dead [[concepts/body\|body]] thou shalt tread.<br>I will not live to see the accursed deed! |
+| GORDON | No, [[archetypes/monster\|monster]]!<br>First over my dead [[concepts/body\|body]] thou shalt tread.<br>I will not live to see the accursed deed! |
 | BUTLER | Weak-hearted dotard! |
 | *(didascalia)* | [Trumpets are heard in the distance. |
 | DEVEREUX AND MACDONALD | Hark! The Swedish trumpets!<br>The Swedes before the ramparts! Let us hasten! |
@@ -1539,7 +1539,7 @@ SCENE I
 | GROOM OF THE CHAMBER | Help!<br>Murder! |
 | BUTLER | Down with him! |
 | *(didascalia)* | Groom of the Chamber run through the [[concepts/body\|body]] by Devereux, falls at the entrance of the gallery. |
-| GROOM OF THE CHAMBER | Jesus Maria! |
+| GROOM OF THE CHAMBER | Jesus [[characters/maria\|Maria]]! |
 | BUTLER | Burst the doors open! |
 | *(didascalia)* | They rush over the [[concepts/body\|body]] into the gallery — two doors are heard to crash one after the other — Voices deadened by the distance — Clash of arms — then all at once a profound [[motifs/silence\|silence]]. |
 
@@ -1611,7 +1611,7 @@ SCENE I
 | OCTAVIO | Merciless man!<br>Thus to abuse the orders of thy Lord —<br>And stain thy Emperor's holy name with murder,<br>With bloody, most accursed assassination! |
 | BUTLER | I've but fulfilled the Emperor's own sentence. |
 | OCTAVIO | O curse of Kings,<br>Infusing a dread life into their words,<br>And linking to the sudden transient thought<br>The unchangeable irrevocable deed.<br>Was there necessity for such an eager<br>Despatch? Could'st thou not grant the merciful<br>A [[motifs/time\|time]] for [[concepts/mercy\|mercy]]? [[motifs/time\|Time]] is man's good Angel.<br>To leave no interval between the sentence,<br>And the fulfilment of it, doth beseem<br>God only, the immutable! |
-| BUTLER | For what<br>Rail you against me? What is my offence?<br>The Empire from a fearful enemy<br>Have I delivered, and expect reward.<br>The single difference betwixt you and me<br>Is this: you placed the arrow in the bow;<br>I pulled the string. You sowed [[motifs/blood\|blood]], and yet stand<br>Astonished that [[motifs/blood\|blood]] is come up. I always<br>Knew what I did, and therefore no result<br>Hath power to frighten or surprise my spirit.<br>Have you aught else to order? — for this instant<br>I make my best speed to Vienna; place<br>My bleeding sword before my Emperor's throne,<br>And [[concepts/hope\|hope]] to gain the applause which undelaying<br>And punctual obedience may demand<br>From a just judge. |
+| BUTLER | For what<br>Rail you against me? What is my offence?<br>The Empire from a fearful enemy<br>Have I delivered, and expect reward.<br>The single difference betwixt you and me<br>Is this: you placed the arrow in the bow;<br>I pulled the string. You sowed [[motifs/blood\|blood]], and yet stand<br>Astonished that [[motifs/blood\|blood]] is come up. I always<br>Knew what I did, and therefore no result<br>Hath power to frighten or surprise my spirit.<br>Have you aught else to order? — for this instant<br>I make my best [[characters/speed\|speed]] to Vienna; place<br>My bleeding sword before my Emperor's throne,<br>And [[concepts/hope\|hope]] to gain the applause which undelaying<br>And punctual obedience may demand<br>From a just judge. |
 | *(didascalia)* | [Exit BUTLER. |
 | *(didascalia)* | [Before 15] Butler (calmly). 1800, 1828, 1829. |
 

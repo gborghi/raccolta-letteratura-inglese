@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** (Reputed) Fallen Woman, Outsider
+**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/outsider|Outsider]]
 **Motifs:** [[concepts/nature|Nature]]
 **Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/body|Body]], [[concepts/grace-and-redemption|Grace and Redemption]]
 

@@ -18,9 +18,9 @@ Selections from G.K.Chesterton
 
 THE DEBATER
 
-[[Humour|HUMOUR]] AND GRAVITY
+HUMOUR AND GRAVITY
 
-AN ATHEISTIC [[nightmare|NIGHTMARE]]
+AN ATHEISTIC NIGHTMARE
 
 THE ANATOMY OF THE JOKE
 
@@ -34,7 +34,7 @@ A UNIVERSAL RELEVANCE
 
 CREEDS AND COBWEBS
 
-A PLEA FOR POPULAR [[philosophy|PHILOSOPHY]]
+A PLEA FOR POPULAR PHILOSOPHY
 
 RUBBISH
 
@@ -124,7 +124,7 @@ THE LIVING PAST
 
 THE UNCHANGING VISION
 
-THE WHITE [[house|HOUSE]]
+THE WHITE HOUSE
 
 THE ICONOCLAST
 
@@ -274,7 +274,7 @@ They ‘mocked' the [[archetypes/hero|hero]] or the [[archetypes/prophet|prophet
 because the [[archetypes/hero|hero]] and the [[archetypes/prophet|prophet]] were really funny.
 
 This being so, we are driven to ask ourselves whether this
-sense of [[Humour|humour]], which is so persistently exalted in our day,
+sense of humour, which is so persistently exalted in our day,
 really deserves the full measure of its encomiums; whether it
 is really, as is so constantly implied, a test of character,
 a guide in conduct, an Ithuriel's spear against evil, a standard
@@ -283,13 +283,13 @@ It has impugned many sanctities; it also has become a sanctity
 and it is [[motifs/time|time]] it was impugned ...
 
 Of course it is perfectly evident, were we concerned with what is
-perfectly evident, that a sense of [[Humour|humour]] has enormous advantages.
+perfectly evident, that a sense of humour has enormous advantages.
 It gives us delicacy and a secret independence of mind.
 It makes a man elvishly quick and accurate.  But there is one
-thing to be said against a sense of [[Humour|humour]], a thing that has
+thing to be said against a sense of humour, a thing that has
 to be said most seriously and most decisively; it does not assist,
 it rather hinders, the joy of life.  The two elements of joy
-and [[Humour|humour]], of exaltation and amusement, are commonly combined
+and humour, of exaltation and amusement, are commonly combined
 in one eudemonistic theory, in one worship of pleasure.
 But they are in [[concepts/truth|truth]] vitally antagonistic.  If the hedonist asks,
 ‘Where is the glory that was Greece?  Where are the gods
@@ -332,9 +332,9 @@ Esiste un'idea molto diffusa nella vita umana, e che ritengo assolutamente falsa
 
 Non è nemmeno vero che il fatto che qualcosa sia ridicolo ne metta in discussione il valore morale. Molti scrittori moderni sembrano essere convinti che, quando un uomo o una causa diventano oggetto di derisione, ciò significhi che abbiano fallito o che siano intrinsecamente difettosi. Se fosse così, quasi nessuna delle cause che hanno avuto un ruolo importante nel mondo umano sarebbe mai riuscita a raggiungere la maturità. La scienza e il cristianesimo, la democrazia e l’imperialismo, concetti e ideali di carattere molto diverso tra loro, hanno tutti una cosa in comune: all’apparenza sembravano assurdi. E in realtà, l’elemento del ridicolo non è solo sempre presente, ma a volte anche inevitabile e intrinseco. Ci sono aspetti delle azioni e delle parole eroiche che rendono molto probabile questa reazione di derisione e divertimento. Gli umoristi hanno mai riflettuto su ciò che significasse quel “deriso” di cui molti martiri e profeti sono stati vittime? I tiranni e la gente comune non deridevano i martiri perché provassero un’antipatia naturale verso il coraggio o la purezza; li deridevano per una ragione molto semplice: perché gli eroi e i profeti erano davvero ridicoli.
 
-Essendo così, ci troviamo costretti a chiederci se questo senso dell’[[Humour|umorismo]], che oggi viene così spesso esaltato, meriti davvero tutti questi elogi; se sia davvero, come si insinua costantemente, un test del carattere, una guida nel comportamento, uno strumento per combattere il male, uno standard e un metodo concreto. Se sia, in altre parole, una “nuvola di giorno” o un “pilastro di [[motifs/fire|fuoco]] di notte”. Ha messo in discussione molte cose considerate sacre; ma allo stesso tempo è diventato a sua volta qualcosa di sacro. Ed è arrivato il momento che venga nuovamente messo in discussione.
+Essendo così, ci troviamo costretti a chiederci se questo senso dell’umorismo, che oggi viene così spesso esaltato, meriti davvero tutti questi elogi; se sia davvero, come si insinua costantemente, un test del carattere, una guida nel comportamento, uno strumento per combattere il male, uno standard e un metodo concreto. Se sia, in altre parole, una “nuvola di giorno” o un “pilastro di [[motifs/fire|fuoco]] di notte”. Ha messo in discussione molte cose considerate sacre; ma allo stesso tempo è diventato a sua volta qualcosa di sacro. Ed è arrivato il momento che venga nuovamente messo in discussione.
 
-Certo che è perfettamente evidente, se ci occupassimo di ciò che è davvero evidente, che un senso dell’[[Humour|umorismo]] presenta enormi vantaggi: ci dona delicatezza e una sorta di indipendenza mentale; rende l’uomo rapido ed accurato nelle sue azioni. Tuttavia c’è qualcosa da dire contro il senso dell’[[Humour|umorismo]], qualcosa che va detto con estrema serietà e decisione: esso non aiuta, anzi ostacola, la gioia di vivere. I due elementi fondamentali della gioia e dell’[[Humour|umorismo]], dell’elevazione spirituale e del divertimento, vengono spesso combinati nella stessa teoria edonistica, nello stesso culto del piacere. Ma in realtà sono profondamente antagonisti tra loro. Se l’edonista chiedesse: “Dove è finita la gloria di Grecia? Dove sono gli dèi e i sacerdoti del piacere?”, dovrebbe essere facile rispondergli: essi sono scomparsi al primo accenno dell’umorismo moderno. Non sono stati i monaci né i santi a ucciderli, sono stati gli scherzatori.
+Certo che è perfettamente evidente, se ci occupassimo di ciò che è davvero evidente, che un senso dell’umorismo presenta enormi vantaggi: ci dona delicatezza e una sorta di indipendenza mentale; rende l’uomo rapido ed accurato nelle sue azioni. Tuttavia c’è qualcosa da dire contro il senso dell’umorismo, qualcosa che va detto con estrema serietà e decisione: esso non aiuta, anzi ostacola, la gioia di vivere. I due elementi fondamentali della gioia e dell’umorismo, dell’elevazione spirituale e del divertimento, vengono spesso combinati nella stessa teoria edonistica, nello stesso culto del piacere. Ma in realtà sono profondamente antagonisti tra loro. Se l’edonista chiedesse: “Dove è finita la gloria di Grecia? Dove sono gli dèi e i sacerdoti del piacere?”, dovrebbe essere facile rispondergli: essi sono scomparsi al primo accenno dell’umorismo moderno. Non sono stati i monaci né i santi a ucciderli, sono stati gli scherzatori.
 
 Questo legame essenziale tra gravità e piacere è uno di quei principi che, una volta compresi, spiegano un numero sempre crescente di fatti concreti. Prendiamo, ad esempio, Gladstone: indipendentemente dal fatto che fosse il migliore, il più intelligente, il più grande o il più nobile statista tra tutte le persone del suo tempo, non vi può essere alcun dubbio su un aspetto fondamentale riguardo a lui: fu sicuramente l’uomo più felice che sia mai vissuto. E ciò era in gran parte dovuto al fatto che non era tormentato da un senso dell’umorismo eccessivamente forte. Avere talenti straordinari, vivere in mezzo a eventi avvincenti, pianificare soluzioni audaci per i problemi del mondo, difenderle con dichiarazioni appassionate, credere con forza nelle proprie capacità e nella propria causa, godere di abitudini sane e di una salute eccellente, vivere fino a un’età avanzata circondato da fama e dignità personale. Questa sembra quasi una vita leggendaria, ma era proprio la sua realtà. Tuttavia, il riso avrebbe potuto rovinarla. È sufficiente fare un solo commento riguardo al grande rivale di Gladstone: nessuno che abbia apprezzato l’arguzia e la saggezza ironica di Disraeli e ne abbia davvero compreso l’essenza sarebbe sorpreso nell’apprendere che lui era un uomo infelice. Meglio pregare, piuttosto, per quella gravità straordinaria che caratterizza le creature umane più felici: gli amanti estasiati e i bambini che giocano.
 
@@ -1162,7 +1162,7 @@ where pomposity grows like tall grass and polysyllables crawl
 about like caterpillars.  ...
 
 But I must break off; because I have to carry all my modern problem
-novels and books of [[philosophy]] and high-class quarterly magazines
+novels and books of philosophy and high-class quarterly magazines
 across to the bonfire beyond the end of my [[motifs/garden|garden]].
 
 Daily News, June 24th, 1911
@@ -1226,7 +1226,7 @@ dove la pomposità cresce come erba alta e i paroloni strisciano
 in giro come bruchi. ...
 
 Ma devo interrompermi; perché mi tocca portare tutti i miei moderni romanzi
-a tesi e libri di [[philosophy|filosofia]] e riviste trimestrali di alto rango
+a tesi e libri di filosofia e riviste trimestrali di alto rango
 fin laggiù al falò oltre il limite del mio [[motifs/garden|giardino]].
 
 Daily News, 24 giugno 1911
@@ -1247,7 +1247,7 @@ is that it is not a subject at all.  There is no such thing as [[concepts/educat
 The thing is merely a loose phrase for the passing on to others
 of whatever [[concepts/truth|truth]] or virtue we happen to have ourselves.
 It is typical of our [[motifs/time|time]] that the more doubtful we are about the value
-of [[philosophy]], the more certain we are about the value of [[concepts/education|education]].
+of philosophy, the more certain we are about the value of [[concepts/education|education]].
 That is to say, the more doubtful we are about whether we have any [[concepts/truth|truth]],
 the more certain we are (apparently) that we can teach it to children.
 The smaller our [[concepts/faith|faith]] in doctrine, the larger is our [[concepts/faith|faith]] in doctors.
@@ -1392,7 +1392,7 @@ a suo riguardo.  La cosa fondamentale del tema dell'[[concepts/education|educazi
 La cosa è soltanto una formula vaga per la trasmissione ad altri
 di qualunque [[concepts/truth|verità]] o virtù ci capiti di possedere noi stessi.
 È tipico del nostro [[motifs/time|tempo]] che più siamo dubbiosi sul valore
-della [[philosophy|filosofia]], più siamo certi del valore dell'[[concepts/education|educazione]].
+della filosofia, più siamo certi del valore dell'[[concepts/education|educazione]].
 Vale a dire, più siamo dubbiosi sul fatto di possedere una qualche [[concepts/truth|verità]],
 più siamo certi (a quanto pare) di poterla insegnare ai bambini.
 Più piccola la nostra [[concepts/faith|fede]] nella dottrina, più grande la nostra [[concepts/faith|fede]] nei dottori.
@@ -1544,7 +1544,7 @@ and then freely forgetting that they are assuming it.
 In short, they always have an unconscious dogma; and an unconscious
 dogma is the definition of a prejudice.  ...
 
-The [[debate]] on the ethics of Spiritualism is a strong example of this.
+The debate on the ethics of Spiritualism is a strong example of this.
 The Spiritualists act upon a dogma, which they cannot
 state dogmatically; and therefore only assume dogmatically.
 Most Anti Spiritualists also, I may add, assume a dogma without
@@ -1616,7 +1616,7 @@ e poi nel dimenticare liberamente di assumerlo.
 In breve, hanno sempre un dogma inconsapevole; e un dogma
 inconsapevole è la definizione di pregiudizio.  ...
 
-Il [[debate|dibattito]] sull'etica dello Spiritismo ne è un forte esempio.
+Il dibattito sull'etica dello Spiritismo ne è un forte esempio.
 Gli spiritisti agiscono in base a un dogma, che non sanno
 enunciare dogmaticamente; e che perciò assumono soltanto dogmaticamente.
 Anche gran parte degli antispiritisti, posso aggiungere, assume un dogma senza
@@ -1837,9 +1837,9 @@ to settle, but it is easy enough to state, and these Commissions
 have never even heard it stated.  It is that a quarrel exists
 in the Church of England very unique in human institutions.
 The Church of England is quarrelling about what the Church
-of England is.  The [[house|House]] of Commons is quarrelling about
-what the [[house|House]] of Commons shall do.  The [[house|House]] of Lords
-is quarrelling about what the [[house|House]] of Lords shall do.
+of England is.  The House of Commons is quarrelling about
+what the House of Commons shall do.  The House of Lords
+is quarrelling about what the House of Lords shall do.
 Even a private [[motifs/ship|ship]] quarrels about what it shall do; it does
 not quarrel about whether it is a private [[motifs/ship|ship]] or a missionary
 boat or a man of war.  Even a band of robbers quarrels
@@ -1901,9 +1901,9 @@ da risolvere, ma è abbastanza facile da enunciare, e queste Commissioni
 non l'hanno mai nemmeno sentito enunciare.  È che una disputa esiste
 nella Chiesa d'Inghilterra assai singolare tra le istituzioni umane.
 La Chiesa d'Inghilterra sta disputando su che cosa la Chiesa
-d'Inghilterra sia.  La [[house|Camera]] dei Comuni sta disputando su
-che cosa la [[house|Camera]] dei Comuni debba fare.  La [[house|Camera]] dei Lord
-sta disputando su che cosa la [[house|Camera]] dei Lord debba fare.
+d'Inghilterra sia.  La Camera dei Comuni sta disputando su
+che cosa la Camera dei Comuni debba fare.  La Camera dei Lord
+sta disputando su che cosa la Camera dei Lord debba fare.
 Perfino una [[motifs/ship|nave]] privata disputa su che cosa debba fare; non
 disputa se sia una [[motifs/ship|nave]] privata o un battello
 missionario o una nave da guerra.  Perfino una banda di ladri disputa
@@ -1928,14 +1928,14 @@ Illustrated [[settings/london|London]] News, 14 luglio 1906
 
 STRAIGHT THINKING
 
-[[logic|Logic]] and [[concepts/truth|truth]], as a matter of fact, have very little to do
-with each other.  [[logic|Logic]] is concerned merely with the fidelity
+Logic and [[concepts/truth|truth]], as a matter of fact, have very little to do
+with each other.  Logic is concerned merely with the fidelity
 and accuracy with which a certain process is performed, a process
 which can be performed with any materials, with any assumption.
 You can be as logical about griffins and basilisks as about sheep
-and pigs.  On the assumption that a man has two ears, it is good [[logic]]
+and pigs.  On the assumption that a man has two ears, it is good logic
 that three men have six ears, but on the assumption that a man has
-four ears, it is equally good [[logic]] that three men have twelve.
+four ears, it is equally good logic that three men have twelve.
 And the power of seeing how many ears the average man,
 as a fact, possesses, the power of counting a gentleman's ears
 accurately and without mathematical confusion, is not a logical
@@ -1943,24 +1943,24 @@ thing but a primary and direct experience, like a physical sense,
 like a religious vision.  The power of counting ears may be limited
 by a blow on the head; it may be disturbed and even augmented
 by two bottles of champagne; but it cannot be affected by argument.
-[[logic|Logic]] has again and again been expended, and expended most
+Logic has again and again been expended, and expended most
 brilliantly and effectively, on things that do not exist at all.
-There is far more [[logic]], more sustained consistency of the mind,
+There is far more logic, more sustained consistency of the mind,
 in the science of heraldry than in the science of biology.
-... There is more [[logic]] in Alice in Wonderland than in the Statute Book
-or the Blue Books.  The relations of [[logic]] to [[concepts/truth|truth]] depend, then,
-not upon its perfection as [[logic]], but upon certain pre-logical
+... There is more logic in Alice in Wonderland than in the Statute Book
+or the Blue Books.  The relations of logic to [[concepts/truth|truth]] depend, then,
+not upon its perfection as logic, but upon certain pre-logical
 faculties and certain pre-logical discoveries, upon the possession
 of those faculties, upon the power of making those discoveries.
 If a man starts with certain assumptions, he may be a good
 logician and a good citizen, a wise man, a successful figure.
 If he starts with certain other assumptions, he may be an equally
 good logician and a bankrupt, a criminal, a raving lunatic.
-[[logic|Logic]], then, is not necessarily an instrument for finding [[concepts/truth|truth]];
-on the contrary, [[concepts/truth|truth]] is necessarily an instrument for using [[logic]]--
+Logic, then, is not necessarily an instrument for finding [[concepts/truth|truth]];
+on the contrary, [[concepts/truth|truth]] is necessarily an instrument for using logic--
 for using it, that is, for the discovery of further [[concepts/truth|truth]] and
 for the profit of humanity.  Briefly, you can only find [[concepts/truth|truth]]
-with [[logic]] if you have already found [[concepts/truth|truth]] without it.
+with logic if you have already found [[concepts/truth|truth]] without it.
 
 Daily News, February 2nd, 1905
 
@@ -1969,14 +1969,14 @@ Daily News, February 2nd, 1905
 
 PENSARE DRITTO
 
-La [[logic|Logica]] e la [[concepts/truth|verità]], in realtà, hanno pochissimo a che fare
-l'una con l'altra.  La [[logic|Logica]] riguarda soltanto la fedeltà
+La Logica e la [[concepts/truth|verità]], in realtà, hanno pochissimo a che fare
+l'una con l'altra.  La Logica riguarda soltanto la fedeltà
 e l'accuratezza con cui viene eseguito un certo procedimento, un procedimento
 che può essere eseguito con qualunque materiale, con qualunque assunto.
 Si può essere logici sui grifoni e sui basilischi come sulle pecore
-e sui maiali.  Sull'assunto che un uomo abbia due orecchie, è buona [[logic|logica]]
+e sui maiali.  Sull'assunto che un uomo abbia due orecchie, è buona logica
 che tre uomini abbiano sei orecchie, ma sull'assunto che un uomo abbia
-quattro orecchie, è altrettanto buona [[logic|logica]] che tre uomini ne abbiano dodici.
+quattro orecchie, è altrettanto buona logica che tre uomini ne abbiano dodici.
 E la facoltà di vedere quante orecchie l'uomo medio,
 di fatto, possieda, la facoltà di contare le orecchie di un gentiluomo
 accuratamente e senza confusione matematica, non è una cosa logica
@@ -1984,24 +1984,24 @@ ma un'esperienza primaria e diretta, come un senso fisico,
 come una visione religiosa.  La facoltà di contare le orecchie può essere limitata
 da un colpo in testa; può essere turbata e persino accresciuta
 da due bottiglie di champagne; ma non può essere alterata da un ragionamento.
-La [[logic|Logica]] è stata più e più volte profusa, e profusa nel modo più
+La Logica è stata più e più volte profusa, e profusa nel modo più
 brillante ed efficace, su cose che non esistono affatto.
-C'è molta più [[logic|logica]], più costante coerenza della mente,
+C'è molta più logica, più costante coerenza della mente,
 nella scienza dell'araldica che nella scienza della biologia.
-... C'è più [[logic|logica]] in Alice nel Paese delle Meraviglie che nel Codice
-o nei Libri Blu.  Le relazioni della [[logic|logica]] con la [[concepts/truth|verità]] dipendono, allora,
-non dalla sua perfezione in quanto [[logic|logica]], ma da certe
+... C'è più logica in Alice nel Paese delle Meraviglie che nel Codice
+o nei Libri Blu.  Le relazioni della logica con la [[concepts/truth|verità]] dipendono, allora,
+non dalla sua perfezione in quanto logica, ma da certe
 facoltà pre-logiche e da certe scoperte pre-logiche, dal possesso
 di quelle facoltà, dalla facoltà di compiere quelle scoperte.
 Se un uomo parte da certi assunti, può essere un buon
 logico e un buon cittadino, un uomo saggio, una figura di successo.
 Se parte da certi altri assunti, può essere un logico
 altrettanto buono e un fallito, un criminale, un folle delirante.
-La [[logic|Logica]], allora, non è necessariamente uno strumento per trovare la [[concepts/truth|verità]];
-al contrario, la [[concepts/truth|verità]] è necessariamente uno strumento per usare la [[logic|logica]] —
+La Logica, allora, non è necessariamente uno strumento per trovare la [[concepts/truth|verità]];
+al contrario, la [[concepts/truth|verità]] è necessariamente uno strumento per usare la logica —
 per usarla, cioè, per la scoperta di ulteriore [[concepts/truth|verità]] e
 per il profitto dell'umanità.  In breve, puoi trovare la [[concepts/truth|verità]]
-con la [[logic|logica]] soltanto se hai già trovato la [[concepts/truth|verità]] senza di essa.
+con la logica soltanto se hai già trovato la [[concepts/truth|verità]] senza di essa.
 
 Daily News, 2 febbraio 1905
 
@@ -2023,8 +2023,8 @@ into the head of a Scotsman.  I [[concepts/wonder|wonder]] no Scotsman has retor
 what would often be more correct, that it requires a surgical
 operation to get a serious idea into the head of an Englishman.
 When it happened, the operation was often performed by a Scotch surgeon.
-The English squire was an unconscious [[aristocrat]]; the Scotch laird
-was a conscious [[aristocrat]]; and Lord Balfour, with all his social
+The English squire was an unconscious aristocrat; the Scotch laird
+was a conscious aristocrat; and Lord Balfour, with all his social
 grace and graciousness, was conscious and even [[concepts/self|self]]-conscious.
 But this was only another way of saying that he had a mind which
 mirrored everything, including himself and that, whatever else he did,
@@ -2111,8 +2111,8 @@ nella testa di uno scozzese.  Mi [[concepts/wonder|chiedo]] come mai nessuno sco
 cosa che sarebbe spesso più corretta, che ci vuole un'operazione
 chirurgica per far entrare un'idea seria nella testa di un inglese.
 Quando accadeva, l'operazione era spesso eseguita da un chirurgo scozzese.
-Lo squire inglese era un [[aristocrat|aristocratico]] inconsapevole; il laird scozzese
-era un [[aristocrat|aristocratico]] consapevole; e Lord Balfour, con tutta la sua grazia
+Lo squire inglese era un aristocratico inconsapevole; il laird scozzese
+era un aristocratico consapevole; e Lord Balfour, con tutta la sua grazia
 e cortesia sociale, era consapevole e persino [[concepts/self|auto]]-consapevole.
 Ma questo era solo un altro modo di dire che aveva una mente che
 rispecchiava ogni cosa, se stesso incluso, e che, qualunque altra cosa facesse,
@@ -2399,7 +2399,7 @@ When [[historical-references/dante|Dante]] meets [[characters/beatrice|Beatrice]
 not his proximity; and all the greatest saints have felt
 their lowness, not their highness, in the moment of ecstasy.
 And what is true of these [[motifs/grave|grave]] and heroic matters (I do not say,
-of course, that saints and [[lovers]] have never used the language
+of course, that saints and lovers have never used the language
 of [[concepts/union|union]] too, true enough in its own place and proper
 limitation of meaning)--what is true of these is equally true
 of all the lighter and less essential forms of appreciation
@@ -2408,13 +2408,13 @@ division and variety are what is right with the world.
 There is nothing specially right about mere contact
 and coalescence.  ...
 
-In short, this vast, vague idea of [[unity]] is the one ‘reactionary'
+In short, this vast, vague idea of unity is the one ‘reactionary'
 thing in the world.  It is perhaps the only connection in which that
 foolish word ‘reactionary' can be used with significance and [[concepts/truth|truth]].
 For this blending of men and women, nations and nations, is truly a return
 to the chaos and unconsciousness that were before the world was made.
-There is, of course, another kind of [[unity]] of which I do not speak here:
-[[unity]] in the possession of [[concepts/truth|truth]] and the perception of the need
+There is, of course, another kind of unity of which I do not speak here:
+unity in the possession of [[concepts/truth|truth]] and the perception of the need
 for these varieties.  But the varieties themselves; the reflection
 of man and woman in each other, as in two distinct mirrors;
 the [[concepts/wonder|wonder]] of man at [[concepts/nature|nature]] as a strange thing at once above
@@ -2459,7 +2459,7 @@ Quando [[historical-references/dante|Dante]] incontra [[characters/beatrice|Beat
 non la propria vicinanza; e tutti i più grandi santi hanno sentito
 la propria bassezza, non la propria altezza, nel momento dell'estasi.
 E ciò che è vero di queste [[motifs/grave|gravi]] ed eroiche questioni (non dico,
-naturalmente, che santi e [[lovers|amanti]] non abbiano mai usato il linguaggio
+naturalmente, che santi e amanti non abbiano mai usato il linguaggio
 dell'[[concepts/union|unione]] anch'esso, vero abbastanza nel suo giusto luogo e propria
 limitazione di significato)--ciò che è vero di queste è ugualmente vero
 di tutte le forme più leggere e meno essenziali di apprezzamento
@@ -2468,13 +2468,13 @@ la divisione e la varietà sono ciò che è giusto nel mondo.
 Non c'è nulla di particolarmente giusto nel mero contatto
 e nella coalescenza.  ...
 
-In breve, questa vasta, vaga idea di [[unity|unità]] è la sola cosa «reazionaria»
+In breve, questa vasta, vaga idea di unità è la sola cosa «reazionaria»
 al mondo.  È forse l'unico contesto in cui quella
 sciocca parola «reazionario» possa essere usata con senso e [[concepts/truth|verità]].
 Perché questa fusione di uomini e donne, di nazioni e nazioni, è veramente un ritorno
 al caos e all'incoscienza che erano prima che il mondo fosse fatto.
-Vi è, naturalmente, un altro genere di [[unity|unità]] di cui non parlo qui:
-l'[[unity|unità]] nel possesso della [[concepts/truth|verità]] e nella percezione della necessità
+Vi è, naturalmente, un altro genere di unità di cui non parlo qui:
+l'unità nel possesso della [[concepts/truth|verità]] e nella percezione della necessità
 di queste varietà.  Ma le varietà stesse; il riflesso
 dell'uomo e della donna l'uno nell'altra, come in due specchi distinti;
 la [[concepts/wonder|meraviglia]] dell'uomo di fronte alla [[concepts/nature|natura]] come cosa strana insieme sopra
@@ -2625,7 +2625,7 @@ very charm to the fact that they can be thrown away like brown paper.
 But Watts had the old dream of building in eternal brass;
 he loved designing public frescoes, public statues, public mosaics.
 There is a mosaic of his in the Whitechapel [[motifs/road|Road]], a fresco
-in the [[house|House]] of Lords, a picture in St Paul's [[settings/cathedral|Cathedral]].
+in the House of Lords, a picture in St Paul's [[settings/cathedral|Cathedral]].
 One cannot move St Paul's [[settings/cathedral|Cathedral]] as one moves the Peacock Room.
 One cannot throw away the Whitechapel [[motifs/road|Road]] as one throws away
 brown paper.  I am not saying that this monumental solidity
@@ -2738,7 +2738,7 @@ fascino stesso al fatto di poter essere gettati via come carta da pacchi.
 Ma Watts aveva l'antico sogno di edificare nel bronzo eterno;
 amava progettare affreschi pubblici, statue pubbliche, mosaici pubblici.
 Vi è un suo mosaico nella [[motifs/road|Whitechapel Road]], un affresco
-nella [[house|Camera]] dei Lord, un quadro nella [[settings/cathedral|Cattedrale]] di San Paolo.
+nella Camera dei Lord, un quadro nella [[settings/cathedral|Cattedrale]] di San Paolo.
 Non si può spostare la [[settings/cathedral|Cattedrale]] di San Paolo come si sposta la Peacock Room.
 Non si può gettar via la [[motifs/road|Whitechapel Road]] come si getta via
 la carta da pacchi.  Non sto dicendo che questa solidità monumentale
@@ -2801,7 +2801,7 @@ described how art could take its disciple through the fires
 of [[historical-references/dante|Dante]]'s perdition and the lilies of [[historical-references/dante|Dante]]'s beatitude.
 But he forgot one point.  He forgot that [[historical-references/dante|Dante]] wrote that
 prodigious thing, not, of course, believing that its story was
-literally true, but believing that its [[philosophy]] was absolutely
+literally true, but believing that its philosophy was absolutely
 true and that all counter-philosophies were the lies of devils.
 Out of the furnace of that certainty came those tremendous things.
 And, to this day, all our clever irreligious poetry is only
@@ -2832,7 +2832,7 @@ descrisse come l'arte potesse condurre il proprio discepolo attraverso i fuochi
 della perdizione di [[historical-references/dante|Dante]] e i gigli della beatitudine di [[historical-references/dante|Dante]].
 Ma dimenticò un punto.  Dimenticò che [[historical-references/dante|Dante]] scrisse quella
 cosa prodigiosa non, s'intende, credendo che la sua storia fosse
-letteralmente vera, ma credendo che la sua [[philosophy|filosofia]] fosse assolutamente
+letteralmente vera, ma credendo che la sua filosofia fosse assolutamente
 vera e che tutte le contro-filosofie fossero menzogne di diavoli.
 Dalla fornace di quella certezza vennero quelle tremende cose.
 E, fino ad oggi, tutta la nostra abile poesia irreligiosa non è che
@@ -2919,7 +2919,7 @@ merely because it is inartistic.  It is also evil because it
 is immoral, because it is full of diabolical snobbishness
 and cowardice and vulgarity and meanness of spirit.
 They showed that art was immoral, but only where it happened
-that [[morality]] was immoral.
+that morality was immoral.
 
 In [[concepts/truth|truth]], the real relation between art and morals is very perfectly
 exemplified in the case of Whistler and Henley themselves.
@@ -3103,7 +3103,7 @@ soltanto perché inartistico. È malvagio anche perché
 è immorale, perché è pieno di diabolico snobismo
 e di viltà e di volgarità e di grettezza di spirito.
 Essi mostrarono che l'arte era immorale, ma solo là dove capitava
-che la [[morality|moralità]] fosse immorale.
+che la moralità fosse immorale.
 
 In [[concepts/truth|verità]], il vero rapporto tra arte e morale è perfettamente
 esemplificato nel caso stesso di Whistler e Henley.
@@ -3421,19 +3421,19 @@ practical psychology.  You wreck the tribunal of [[concepts/truth|truth]] when y
 bribe or bully it into pronouncing the [[archetypes/innocent|innocent]] guilty, just as you
 do when you similarly induce it to pronounce the guilty [[archetypes/innocent|innocent]].
 As it is with an [[archetypes/innocent|innocent]] man, so it is with an [[archetypes/innocent|innocent]] practice.
-You have to destroy all [[innocence]] to make anyone detest an
+You have to destroy all innocence to make anyone detest an
 [[archetypes/innocent|innocent]] practice.  By the [[motifs/time|time]] that you have persuaded a nice
 and normal [[archetypes/child|child]] that it is wicked to fetch his poor old father
 a glass of ale, you have so bewildered the mind that it may end
 by saying it is not wicked to put prussic acid in the ale.
 The logical, mathematical, intellectually inevitable effect
-of doing this is a general loosening of all [[morality]].
+of doing this is a general loosening of all morality.
 It is also the actual effect; and there is the actual state
 of modern [[settings/america|America]] to prove it.  Begin with a heresy in morals,
 whether it be a negative or a permission, and it will end in the worst
 and wildest licence that could follow on the loosest permission.
 And if anyone doubts this psychological fact, which is also a
-theological [[concepts/truth|truth]], then let him explain the howling [[nightmare]]
+theological [[concepts/truth|truth]], then let him explain the howling nightmare
 and hell of nonsense and anarchy that has actually followed
 in the track of the Prohibition Law.
 
@@ -3503,19 +3503,19 @@ assai pratica. Mandi in rovina il tribunale della [[concepts/truth|verità]] qua
 corrompi o lo intimidisci fino a fargli pronunciare colpevole l'[[archetypes/innocent|innocente]], proprio come
 fai quando similmente lo induci a pronunciare innocente il [[archetypes/innocent|colpevole]].
 Come è con un uomo [[archetypes/innocent|innocente]], così è con una pratica [[archetypes/innocent|innocente]].
-Devi distruggere ogni [[innocence|innocenza]] per far detestare a chicchessia una
+Devi distruggere ogni innocenza per far detestare a chicchessia una
 pratica [[archetypes/innocent|innocente]]. [[motifs/time|Quando]] avrai persuaso un bravo
 e normale [[archetypes/child|bambino]] che è cosa malvagia portare al suo povero vecchio padre
 un bicchiere di birra chiara, avrai talmente sconvolto la mente che essa potrà finire
 col dire che non è cosa malvagia mettere acido prussico nella birra.
 L'effetto logico, matematico, intellettualmente inevitabile
-del fare ciò è un generale allentamento di ogni [[morality|moralità]].
+del fare ciò è un generale allentamento di ogni moralità.
 È anche l'effetto reale; e c'è lo stato reale
 della moderna [[settings/america|America]] a provarlo. Comincia con un'eresia in morale,
 sia essa una negazione o un permesso, ed essa finirà nella peggiore
 e più sfrenata licenza che possa seguire al più lasco dei permessi.
 E se qualcuno dubita di questo fatto psicologico, che è anche una
-[[concepts/truth|verità]] teologica, allora gli spieghi l'urlante [[nightmare|incubo]]
+[[concepts/truth|verità]] teologica, allora gli spieghi l'urlante incubo
 e l'inferno di assurdità e anarchia che ha effettivamente fatto seguito
 sulle tracce della legge sul Proibizionismo.
 
@@ -3691,8 +3691,8 @@ Daily News, 18 febbraio 1905
 
 SKY SIGNS
 
-The next great heresy is going to be simply an attack on [[morality]];
-and especially on sexual [[morality]].  And it is coming, not from a few
+The next great heresy is going to be simply an attack on morality;
+and especially on sexual morality.  And it is coming, not from a few
 Socialists surviving from the Fabian Society, but from the living exultant
 energy of the rich resolved to enjoy themselves at last, with neither
 Popery nor [[historical-references/puritanism|Puritanism]] nor Socialism to hold them back.  ... The roots
@@ -3710,8 +3710,8 @@ G. K.'s Weekly, June 19th, 1926
 
 INSEGNE NEL CIELO
 
-La prossima grande eresia sarà semplicemente un attacco alla [[morality|morale]];
-e specialmente alla [[morality|morale]] sessuale.  E non verrà da pochi
+La prossima grande eresia sarà semplicemente un attacco alla morale;
+e specialmente alla morale sessuale.  E non verrà da pochi
 Socialisti superstiti della Società Fabiana, ma dalla viva ed esultante
 energia dei ricchi decisi a godersi finalmente la vita, senza più
 Papismo né [[historical-references/puritanism|Puritanesimo]] né Socialismo a trattenerli.  ... Le radici
@@ -3747,8 +3747,8 @@ Our own country is really in this state of swollen [[motifs/decay|decay]],
 and the test of it is this:  that every function of the State
 has grown more formless and more vast.  Every power,
 public and private, has been stretched long past all sane definition
-and we live under a [[government]] of entangled exaggerations.
-It is a [[government]] that has all the practical effects of anarchy.
+and we live under a government of entangled exaggerations.
+It is a government that has all the practical effects of anarchy.
 Indeed, it is something worse than chaos; a warring polytheism.
 It is a conflict of incalculable autocracies, under any of which
 at the moment we may fall.
@@ -3776,8 +3776,8 @@ Il nostro paese è davvero in questo stato di gonfia [[motifs/decay|decadenza]],
 e la prova è questa:  che ogni funzione dello Stato
 si è fatta più informe e più smisurata.  Ogni potere,
 pubblico e privato, è stato dilatato ben oltre ogni sana definizione
-e viviamo sotto un [[government|governo]] di esagerazioni aggrovigliate.
-È un [[government|governo]] che ha tutti gli effetti pratici dell'anarchia.
+e viviamo sotto un governo di esagerazioni aggrovigliate.
+È un governo che ha tutti gli effetti pratici dell'anarchia.
 Anzi, è qualcosa di peggiore del caos; un politeismo in guerra.
 È un conflitto di incalcolabili autocrazie, sotto una qualsiasi delle quali
 da un momento all'altro possiamo cadere.
@@ -3818,7 +3818,7 @@ work and strangers must be accepted and endured:  [[motifs/birds|birds]] will go
 bedwards and children won't, to the end of the last evening.
 And the worst danger is that in our modern revolt against
 intolerable accidents we may have unsettled those things
-that [[Alone|alone]] make daily life tolerable.  ... There is danger
+that alone make daily life tolerable.  ... There is danger
 that the social reformer may silently and occultly develop
 some of the [[concepts/madness|madness]] of the millionaire whom he denounces.
 He may find that he has learnt how to build playgrounds,
@@ -3826,8 +3826,8 @@ but forgotten how to play.  He may agitate for peace and quiet,
 but only propagate his own mental agitation.  In his long fight
 to get a slave a half-holiday he may an deny those ancient
 and natural things, the zest of being, the divinity of man,
-the sacredness of simple things, the health and [[Humour|humour]] of the earth,
-which [[Alone|alone]] make a half-holiday even half a holiday or a slave
+the sacredness of simple things, the health and humour of the earth,
+which alone make a half-holiday even half a holiday or a slave
 even half a man.
 
 There is danger in that modern phrase ‘divine discontent'.
@@ -3890,7 +3890,7 @@ il lavoro e gli estranei si devono accettare e sopportare:  gli [[motifs/birds|u
 a dormire e i bambini no, fino alla fine dell'ultima sera.
 E il pericolo peggiore è che, nella nostra moderna rivolta contro
 gli intollerabili accidenti, abbiamo forse scompaginato quelle cose
-che [[Alone|sole]] rendono tollerabile la vita quotidiana.  ... C'è il pericolo
+che sole rendono tollerabile la vita quotidiana.  ... C'è il pericolo
 che il riformatore sociale sviluppi silenziosamente e occultamente
 un poco della [[concepts/madness|follia]] del milionario che denuncia.
 Può scoprire di aver imparato a costruire terreni di gioco,
@@ -3898,8 +3898,8 @@ ma di aver dimenticato come si gioca.  Può agitarsi per la pace e la quiete,
 ma non fare che propagare la propria agitazione mentale.  Nella sua lunga lotta
 per ottenere a uno schiavo una mezza vacanza può finire col negare quelle antiche
 e naturali cose, il gusto dell'essere, la divinità dell'uomo,
-la sacralità delle cose semplici, la salute e l'[[Humour|umorismo]] della terra,
-che [[Alone|sole]] rendono una mezza vacanza almeno mezza vacanza o uno schiavo
+la sacralità delle cose semplici, la salute e l'umorismo della terra,
+che sole rendono una mezza vacanza almeno mezza vacanza o uno schiavo
 almeno mezzo uomo.
 
 C'è un pericolo in quella moderna espressione, ‘divino scontento'.
@@ -3951,7 +3951,7 @@ even if he kills everybody else and ultimately himself as well.
 To both of these different things the more earnest Victorians
 gave the name of ‘divine discontent'.  But the mistake
 of the earnest Victorians was that they tried to make a new
-[[morality]] without having studied any really good [[philosophy]].
+morality without having studied any really good philosophy.
 The thing became rhetoric and sentiment, a thing of words;
 and they got even the words mixed, as in this case.
 
@@ -3969,7 +3969,7 @@ and the Flood and the [[concepts/fear|fear]] of the devil and all the rest.
 He judges them, of course, in the light of his familiar
 evolutionary fancy, that the Creator progresses as [[motifs/well|well]] as
 the Creation; indeed, it looks as if the Creation really creates
-the Creator.  I have noted that the moderns lack [[philosophy]].
+the Creator.  I have noted that the moderns lack philosophy.
 But I do dislike seeing a very clever man so clumsily
 missing the point; and in the matter of the [[historical-references/bible|Bible]], the Fall
 and the Devil and so on, he does entirely miss the point.
@@ -4017,7 +4017,7 @@ anche se uccide tutti gli altri e alla fine anche se stesso.
 A entrambe queste cose diverse i Vittoriani più fervidi
 davano il nome di ‘divino scontento'.  Ma l'errore
 dei fervidi Vittoriani fu che tentarono di fabbricare una nuova
-[[morality|morale]] senza aver studiato alcuna [[philosophy|filosofia]] davvero buona.
+morale senza aver studiato alcuna filosofia davvero buona.
 La cosa divenne retorica e sentimento, una cosa di parole;
 e mescolarono perfino le parole, come in questo caso.
 
@@ -4035,7 +4035,7 @@ e sul Diluvio e sulla [[concepts/fear|paura]] del diavolo e tutto il resto.
 Li giudica, naturalmente, alla luce della sua familiare
 fantasia evoluzionistica, che il Creatore progredisce così [[motifs/well|come]]
 la Creazione; anzi, sembra quasi che la Creazione crei davvero
-il Creatore.  Ho notato che i moderni difettano di [[philosophy|filosofia]].
+il Creatore.  Ho notato che i moderni difettano di filosofia.
 Ma detesto vedere un uomo tanto abile mancare così goffamente
 il punto; e in materia di [[historical-references/bible|Bibbia]], di Caduta,
 di Diavolo e via dicendo, egli manca interamente il punto.
@@ -4174,7 +4174,7 @@ It spreads equally vaguely up to the retirement of Gladstone
 and the abandonment of [[motifs/home|Home]] Rule, the last Liberal crusade that was
 unmistakably Liberal and unmistakably dangerous.  All that period
 was filled with emptiness.  Oscar Wilde was justly its greatest man;
-because he [[Alone|alone]] could really do levity on a large scale.
+because he alone could really do levity on a large scale.
 Its products include many men whom I count as my best friends--
 myself among others.  But I can hardly think of one of them who
 would not have been both better and happier if he had been born
@@ -4202,17 +4202,17 @@ his pedestal on to the floor.
 
 Whether for this cause or some other, the years of which I speak were
 years of yawning; they were like the hours of an afternoon ‘At [[motifs/home|Home]]'
-in a rich [[house]] on a rainy day when nobody comes to call.
-Their [[Poems|poems]] and pictures showed a real genius in tracing the leaden
+in a rich house on a rainy day when nobody comes to call.
+Their poems and pictures showed a real genius in tracing the leaden
 tints and echoing the tuneless tones of an afternoon like that.
 One hardly heard anything but pessimism--except Art, which is worse.
 Now whenever I wish to feel tender towards Imperialists
 or Socialists, I always remember that at least their [[concepts/union|Union]] Jacks and
 their red ties interrupted the twilight of that infernal afternoon.
-... Rudyard Kipling did show that [[Romance|romance]] could be found in coarse
+... Rudyard Kipling did show that romance could be found in coarse
 and laborious affairs.  And the Socialists have at least done
 one excellent thing; they have brought back creeds into politics.
-... For a creed is the [[Sword|sword]] of the spirit; the only tool with
+... For a creed is the sword of the spirit; the only tool with
 which the mind can fight.
 
 That empty [[motifs/time|time]] is now so utterly forgotten that many
@@ -4273,7 +4273,7 @@ Si estende, altrettanto vagamente, fino al ritiro di Gladstone
 e all'abbandono dell'[[motifs/home|Autonomia]] irlandese, l'ultima crociata Liberale che fu
 inequivocabilmente Liberale e inequivocabilmente pericolosa.  Tutto quel periodo
 era colmo di vuoto.  Oscar Wilde ne fu giustamente il più grande uomo;
-perché egli [[Alone|solo]] sapeva davvero fare della leggerezza su vasta scala.
+perché egli solo sapeva davvero fare della leggerezza su vasta scala.
 I suoi prodotti includono molti uomini che annovero fra i miei migliori amici--
 me stesso fra gli altri.  Ma a stento riesco a pensare a uno di loro che
 non sarebbe stato insieme migliore e più felice se fosse nato
@@ -4301,17 +4301,17 @@ dal suo piedistallo sul pavimento.
 
 Sia per questa causa o per qualche altra, gli anni di cui parlo furono
 anni di sbadigli; erano come le ore di un pomeriggio ‘In [[motifs/home|casa]]'
-in una ricca [[house|dimora]] in un giorno di pioggia, quando nessuno viene a far visita.
-Le loro [[Poems|poesie]] e i loro quadri mostravano un vero genio nel rendere le tinte
+in una ricca dimora in un giorno di pioggia, quando nessuno viene a far visita.
+Le loro poesie e i loro quadri mostravano un vero genio nel rendere le tinte
 plumbee e nell'echeggiare i toni stonati di un pomeriggio così.
 Non si udiva quasi nient'altro che pessimismo--tranne l'Arte, che è peggio.
 Ora, ogni volta che desidero provare tenerezza verso gli Imperialisti
 o i Socialisti, ricordo sempre che almeno le loro [[concepts/union|Union]] Jack e
 le loro cravatte rosse interruppero il crepuscolo di quell'infernale pomeriggio.
-... Rudyard Kipling mostrò davvero che il [[Romance|romanzesco]] poteva trovarsi in faccende
+... Rudyard Kipling mostrò davvero che il romanzesco poteva trovarsi in faccende
 rozze e faticose.  E i Socialisti hanno fatto almeno
 una cosa eccellente; hanno riportato i credi nella politica.
-... Poiché un credo è la [[Sword|spada]] dello spirito; l'unico strumento col
+... Poiché un credo è la spada dello spirito; l'unico strumento col
 quale la mente possa combattere.
 
 Quel [[motifs/time|tempo]] vuoto è ormai così del tutto dimenticato che molti
@@ -4353,7 +4353,7 @@ WHAT WAS RATIONALISM?
 
 What Rationalism really was and (in some corners) still is,
 is substantially this:  It was a premature synthesis.
-It was not the opening of the [[house]] of reason, but the
+It was not the opening of the house of reason, but the
 impatient closing of it.  It did not open the human head
 like a new hotel.  It shut the human head like a packed bag.
 I call it the Victorian Compromise because it put in the bag
@@ -4382,7 +4382,7 @@ CHE COSA FU IL RAZIONALISMO?
 
 Che cosa fu davvero il Razionalismo e (in certi angoli) ancora è,
 in sostanza è questo: fu una sintesi prematura.
-Non fu l'apertura della [[house|casa]] della ragione, ma la sua
+Non fu l'apertura della casa della ragione, ma la sua
 impaziente chiusura. Non aprì la testa umana
 come un albergo nuovo. Chiuse la testa umana come una valigia stipata.
 Lo chiamo il Compromesso Vittoriano perché ficcò nella valigia
@@ -4440,8 +4440,8 @@ In this and other things there is a great deal of exaggeration
 about his exaggeration.  There was a type to be exaggerated,
 and nowadays it is not exaggerated because it is not there.
 It was the sort of Cockney who was not only exuberant but solemnly
-and rhetorically exuberant; relishing romantic poetry and [[rolling]] words.
-My father told me of an aged clerk in an ancient eating-[[house]]
+and rhetorically exuberant; relishing romantic poetry and rolling words.
+My father told me of an aged clerk in an ancient eating-house
 who regularly every day said to the waiter in a deep booming voice,
 ‘Tell Mrs Bayfield that the steak was excellent, the potatoes
 done to a turn, in short, a dinner fit for an epicure'.  That is
@@ -4568,8 +4568,8 @@ In questo come in altre cose c'è una gran quantità di esagerazione
 riguardo alla sua esagerazione. C'era un tipo umano da esagerare,
 e oggigiorno non è esagerato perché non c'è più.
 Era quella specie di Cockney che non solo era esuberante, ma solennemente
-e retoricamente esuberante; che si compiaceva della poesia romantica e delle parole [[rolling|rotonde]].
-Mio padre mi raccontò di un anziano impiegato in una vetusta [[house|trattoria]]
+e retoricamente esuberante; che si compiaceva della poesia romantica e delle parole rotonde.
+Mio padre mi raccontò di un anziano impiegato in una vetusta trattoria
 che ogni giorno regolarmente diceva al cameriere con voce cupa e tonante:
 «Dite alla signora Bayfield che la bistecca era eccellente, le patate
 cotte a puntino, in breve, un pranzo degno di un epicureo». Questa è
@@ -6306,9 +6306,9 @@ all men know that they belong to a positive human society,
 with rules of justice and [[concepts/mercy|mercy]], and that they cannot
 even conceive themselves belonging to anything else.
 We belong to a club which is so old that nobody knows anything
-about its origin.  We only know that in this club [[Alone|alone]] we can
-get our meals; in this club [[Alone|alone]] we can meet our friends;
-in this club [[Alone|alone]] we can [[motifs/sleep|sleep]] or argue or organize or pray.
+about its origin.  We only know that in this club alone we can
+get our meals; in this club alone we can meet our friends;
+in this club alone we can [[motifs/sleep|sleep]] or argue or organize or pray.
 This club holds endless debates about everything--
 [[motifs/stars|stars]], boots, biology, sacraments, Alps, origins.
 Among the many minor things our human club discusses
@@ -6325,7 +6325,7 @@ No one ever dreamt of their being allowed to destroy it.
 Yet they would certainly destroy the Human Club if once they meant
 that we were to be rude to the members or stingy to the waiters.
 This is the strongest instance I know of the big thing against
-the small; that Humanity is the huge [[house]] that I live in,
+the small; that Humanity is the huge house that I live in,
 while Evolution is the small but interesting animal which has
 quite recently asked to be domesticated in it.
 
@@ -6383,9 +6383,9 @@ tutti gli uomini sanno di appartenere a una società umana positiva,
 con regole di giustizia e di [[concepts/mercy|misericordia]], e che non possono
 neppure concepirsi appartenenti a qualcos'altro.
 Apparteniamo a un circolo così antico che nessuno sa nulla
-della sua origine.  Sappiamo soltanto che in questo circolo [[Alone|soltanto]] possiamo
-consumare i nostri pasti; in questo circolo [[Alone|soltanto]] possiamo incontrare i nostri amici;
-in questo circolo [[Alone|soltanto]] possiamo [[motifs/sleep|dormire]] o discutere o organizzare o pregare.
+della sua origine.  Sappiamo soltanto che in questo circolo soltanto possiamo
+consumare i nostri pasti; in questo circolo soltanto possiamo incontrare i nostri amici;
+in questo circolo soltanto possiamo [[motifs/sleep|dormire]] o discutere o organizzare o pregare.
 Questo circolo tiene dibattiti senza fine su ogni cosa:
 [[motifs/stars|stelle]], stivali, biologia, sacramenti, Alpi, origini.
 Tra le tante piccole cose di cui il nostro circolo umano discute
@@ -6402,7 +6402,7 @@ A nessuno è mai passato per la mente che si potesse lasciarle distruggerlo.
 Eppure esse distruggerebbero di certo il Circolo Umano se una volta intendessero
 che dovessimo essere scortesi con i membri o tirchi con i camerieri.
 Questo è il più forte esempio che io conosca della cosa grande contro
-la piccola; che l'Umanità è l'enorme [[house|casa]] in cui vivo,
+la piccola; che l'Umanità è l'enorme casa in cui vivo,
 mentre l'Evoluzione è il piccolo ma interessante animale che
 da pochissimo ha chiesto di esservi addomesticato.
 
@@ -6825,7 +6825,7 @@ might come by it.  Briefly, it believes that a God who could
 do anything so extraordinary as making pumpkins go on being
 pumpkins is, like the [[archetypes/prophet|prophet]] Habakkuk, capable de tout.
 If you do not think it extraordinary that a pumpkin is always
-a pumpkin, think again.  You have not yet even begun [[philosophy]].
+a pumpkin, think again.  You have not yet even begun philosophy.
 You have not even seen a pumpkin.
 
 Daily News, September 2nd, 1905
@@ -6921,7 +6921,7 @@ potrebbero venirne.  In breve, esso crede che un Dio capace di
 fare qualcosa di così straordinario come far continuare le zucche a essere
 zucche sia, come il [[archetypes/prophet|profeta]] Abacuc, capace de tout.
 Se non ritenete straordinario che una zucca sia sempre
-una zucca, ripensateci.  Non avete ancora nemmeno cominciato la [[philosophy|filosofia]].
+una zucca, ripensateci.  Non avete ancora nemmeno cominciato la filosofia.
 Non avete nemmeno visto una zucca.
 
 Daily News, 2 settembre 1905
@@ -7292,7 +7292,7 @@ CHANGE AND [[motifs/decay|DECAY]]
 All this talk about optimism and pessimism is itself
 a dismal fall from the old talk about right and wrong.
 Our fathers said that a nation had sinned and suffered, like a man.
-We say it has decayed, like a [[cheese]].
+We say it has decayed, like a cheese.
 
 Illustrated [[settings/london|London]] News, July 10th, 1920
 
@@ -7344,7 +7344,7 @@ MUTAMENTO E [[motifs/decay|DECADENZA]]
 Tutto questo parlare di ottimismo e pessimismo è di per sé
 una caduta desolante rispetto all'antico parlare di giusto e sbagliato.
 I nostri padri dicevano che una nazione aveva peccato e sofferto, come un uomo.
-Noi diciamo che si è decomposta, come un [[cheese|formaggio]].
+Noi diciamo che si è decomposta, come un formaggio.
 
 Illustrated [[settings/london|London]] News, 10 luglio 1920
 
@@ -7367,7 +7367,7 @@ of Robinson Crusoe and especially in its fascination of the
 [[archetypes/innocent|innocent]] [[concepts/imagination|imagination]] of the most creative period of [[motifs/childhood|childhood]].
 Why is it that a [[archetypes/child|child]] is delighted with the idea of Robinson Crusoe,
 complete with his gun and umbrella, his goat and parrot, his axe
-and antiquated [[Sword|sword]]?  It is precisely because he is complete
+and antiquated sword?  It is precisely because he is complete
 and also compact; that he has a limited number of things but
 these things immediately at hand and directly under his control.
 It is equally or perhaps even more because these things have been
@@ -7406,8 +7406,8 @@ because they were few and clear, and picked out in conspicuous
 colours against the desolation of the destructive sea.
 
 I have since seen something which claims to be the contrary
-[[philosophy]], but for me is the same heresy.  The world has
-improved on the one parrot by becoming a screaming parrot-[[house]].
+philosophy, but for me is the same heresy.  The world has
+improved on the one parrot by becoming a screaming parrot-house.
 It has improved on the faithful goat by filling the island
 with herds and herds of goats that have not a goatherd.
 I have seen it proclaimed that Crusoe's umbrella will be universally
@@ -7454,11 +7454,11 @@ G. K.'s Weekly, October 11th, 1930
 
 I NEMICI DELLA GIOIA
 
-È un errore immaginare, come molti fanno, che coloro i quali concordano con me vogliano fare di ogni uomo un Robinson Crusoe, che si cuce da sé tutti i vestiti e vive soltanto per se stesso. In realtà il contadino, per quanto possieda molta della operosa universalità di Robinson Crusoe, non può mai accontentarsi della [[concepts/solitude|solitudine]] di Robinson Crusoe. Un contadino vive in una comunità contadina, non su un'isola [[motifs/desert|deserta]]. Egli è per [[concepts/nature|natura]] pronto alla cooperazione quanto è risoluto contro il comunismo. Eppure c'è qualcosa di simbolico nella figura di Robinson Crusoe, e specialmente nel fascino che essa esercita sull'[[concepts/imagination|immaginazione]] [[archetypes/innocent|innocente]] del periodo più creativo dell'[[motifs/childhood|infanzia]]. Perché mai un [[archetypes/child|bambino]] si delizia all'idea di Robinson Crusoe, completo di fucile e ombrello, della capra e del pappagallo, dell'ascia e della sua [[Sword|spada]] antiquata? È precisamente perché egli è completo e insieme compatto; perché possiede un numero limitato di cose, ma queste cose gli stanno immediatamente sotto mano e direttamente sotto il suo controllo. Lo è altrettanto, o forse anche di più, perché tali cose sono state a stento strappate al pericolo senza fondo del naufragio e all'oscura infinità del mare. Questa è la giusta visione delle cose buone della vita: dovremmo possederle direttamente, ma dovremmo possederle con parsimonia e, soprattutto, dovremmo possederle con gratitudine. Esse e noi siamo stati salvati da Dio dal mare del nulla e dalla [[motifs/night|notte]] che precedette il mondo.
+È un errore immaginare, come molti fanno, che coloro i quali concordano con me vogliano fare di ogni uomo un Robinson Crusoe, che si cuce da sé tutti i vestiti e vive soltanto per se stesso. In realtà il contadino, per quanto possieda molta della operosa universalità di Robinson Crusoe, non può mai accontentarsi della [[concepts/solitude|solitudine]] di Robinson Crusoe. Un contadino vive in una comunità contadina, non su un'isola [[motifs/desert|deserta]]. Egli è per [[concepts/nature|natura]] pronto alla cooperazione quanto è risoluto contro il comunismo. Eppure c'è qualcosa di simbolico nella figura di Robinson Crusoe, e specialmente nel fascino che essa esercita sull'[[concepts/imagination|immaginazione]] [[archetypes/innocent|innocente]] del periodo più creativo dell'[[motifs/childhood|infanzia]]. Perché mai un [[archetypes/child|bambino]] si delizia all'idea di Robinson Crusoe, completo di fucile e ombrello, della capra e del pappagallo, dell'ascia e della sua spada antiquata? È precisamente perché egli è completo e insieme compatto; perché possiede un numero limitato di cose, ma queste cose gli stanno immediatamente sotto mano e direttamente sotto il suo controllo. Lo è altrettanto, o forse anche di più, perché tali cose sono state a stento strappate al pericolo senza fondo del naufragio e all'oscura infinità del mare. Questa è la giusta visione delle cose buone della vita: dovremmo possederle direttamente, ma dovremmo possederle con parsimonia e, soprattutto, dovremmo possederle con gratitudine. Esse e noi siamo stati salvati da Dio dal mare del nulla e dalla [[motifs/night|notte]] che precedette il mondo.
 
 Ora, nel corso della mia vita, ho visto questa concezione compatta, simboleggiata da Robinson Crusoe nei libri per l'infanzia, assalita da due nemici opposti, ma con eguale inimicizia. Il vecchio nemico si faceva chiamare pessimismo; il nuovo nemico si fa chiamare Progresso e Ottimismo; ma entrambi invadono l'isola [[motifs/desert|deserta]] con la frenesia distruttrice dei cannibali. La vecchia maniera prendeva la forma di mostrare quanto fosse davvero [[motifs/desert|deserta]] l'isola [[motifs/desert|deserta]], quanto fosse davvero tediosa la vita di Crusoe, e quanto fosse davvero insignificante, considerato in sé, ciascuno dei piaceri che gli rimanevano. Che cos'era un pappagallo se non il proverbio di qualcosa che si ripete sempre uguale a se stesso? A che serve una capra, se non a fare la capra? Che cos'è un ombrello, diceva un triste filosofo, se non qualcosa che può aprirsi solo quando è chiuso, e chiudersi solo quando è aperto? Egli sottintendeva sempre che la vita era desolante su un'isola [[motifs/desert|deserta]] soltanto perché sarebbe stata desolante in qualunque altro luogo. Per lui l'Inghilterra era un'isola [[motifs/desert|deserta]]; per lui l'arrivo di Venerdì avrebbe davvero segnato un giorno di malaugurio. Era il tipo di pessimista che maledice tanto la [[concepts/solitude|solitudine]] quanto l'intruso che turba la [[concepts/solitude|solitudine]]. Questa sorta di negazione totale mi spinse, in gioventù, a una rivolta romantica e a un selvaggio entusiasmo per la poesia degli ombrelli. Scandalizzai alcuni critici con la mia simpatia per il fare la capra; altri ancora di più con la mia simpatia per il giocare col fucile. Ma mentre apprezzavo queste cose, le apprezzavo soprattutto perché erano poche e nette, e si stagliavano in colori cospicui contro la desolazione del mare distruttore.
 
-Da allora ho visto qualcosa che pretende di essere la [[philosophy|filosofia]] contraria, ma che per me è la medesima eresia. Il mondo ha migliorato l'unico pappagallo trasformandosi in una stridula [[house|casa]] di pappagalli. Ha migliorato la fedele capra riempiendo l'isola di mandrie e mandrie di capre che non hanno un capraio. Ho visto proclamare che l'ombrello di Crusoe sarà universalmente popolare se lo si dilata nel tendone di un padiglione universale, tappezzato di réclame di pillole o di immagini di bagni promiscui. Ho visto scusare persino il fucile, purché sia un fucile abbastanza grosso fabbricato da una ditta abbastanza grossa; e ho visto ritenere [[archetypes/innocent|innocente]] l'ascia, purché sia quella che noi chiamiamo «un'ascia da arrotare» per i propri fini. Eppure tutto questo paradiso di perfetta felicità non riesce a sollevarmi il cuore né a ridestare il più tenue accenno di quel primo, romantico interesse per Robinson Crusoe. E la ragione è che questa sorta di generalizzazione totale, non meno della vecchia negazione totale, implica un disprezzo per i pochi fatti originari della storia, che soli la rendevano interessante. L'ottimista, non meno del pessimista, si chiede a che serva un solo vecchio ombrello sdrucito o una sola vecchia capra irsuta. Vale a dire, commette la bestemmia che offende le stelle, svalutando le cose che l'uomo ha effettivamente salvato dal naufragio. Il peccato dell'ottimista è di non riconoscere il naufragio; come il peccato del pessimista è di non riconoscere il salvataggio.
+Da allora ho visto qualcosa che pretende di essere la filosofia contraria, ma che per me è la medesima eresia. Il mondo ha migliorato l'unico pappagallo trasformandosi in una stridula casa di pappagalli. Ha migliorato la fedele capra riempiendo l'isola di mandrie e mandrie di capre che non hanno un capraio. Ho visto proclamare che l'ombrello di Crusoe sarà universalmente popolare se lo si dilata nel tendone di un padiglione universale, tappezzato di réclame di pillole o di immagini di bagni promiscui. Ho visto scusare persino il fucile, purché sia un fucile abbastanza grosso fabbricato da una ditta abbastanza grossa; e ho visto ritenere [[archetypes/innocent|innocente]] l'ascia, purché sia quella che noi chiamiamo «un'ascia da arrotare» per i propri fini. Eppure tutto questo paradiso di perfetta felicità non riesce a sollevarmi il cuore né a ridestare il più tenue accenno di quel primo, romantico interesse per Robinson Crusoe. E la ragione è che questa sorta di generalizzazione totale, non meno della vecchia negazione totale, implica un disprezzo per i pochi fatti originari della storia, che soli la rendevano interessante. L'ottimista, non meno del pessimista, si chiede a che serva un solo vecchio ombrello sdrucito o una sola vecchia capra irsuta. Vale a dire, commette la bestemmia che offende le stelle, svalutando le cose che l'uomo ha effettivamente salvato dal naufragio. Il peccato dell'ottimista è di non riconoscere il naufragio; come il peccato del pessimista è di non riconoscere il salvataggio.
 
 Ora, sono fondamentalmente convinto che l'unica cosa che meriti il nome di brivido (per usare il gergo giovanile d'oggi) sia il pensiero che sopraggiunge nel passaggio dal naufragio al salvataggio. Appartiene a una classe di pensieri che sono meglio rappresentati dal ringraziamento, ma che sono all'incirca rappresentati da una realizzazione immaginativa di ciò che è e di ciò che avrebbe potuto essere. Esiste su un margine, come il margine tra la terra e il mare; ed è ignoto al suicida che si sente naufrago in mezzo all'oceano, come al colono soddisfatto di sé che si è spinto tanto addentro nell'entroterra da dimenticare il luminoso timore, il fulgido mistero del mare. Ogni felicità autentica che io abbia mai avuto, o che abbia mai visto avere da altri, aveva in sé qualcosa di quella prima estraneità e timidezza; e si perde tanto per l'orgoglio del possesso quanto per l'orgoglio del rifiuto. Perciò coloro che dicono di correre in cerca del brivido, in realtà stanno correndo lontano dal brivido. Se lo lasciano sempre più indietro, quanto più accumulano più lussi di quanti ne possano godere, o combinano più piaceri di quanti ne possano distinguere.
 
@@ -7539,7 +7539,7 @@ The glory and magic of God's universe--the shows of night and day
 and ‘in the midst, God's beautiful right hand'.
 
 [[motifs/well|Well]], very soon I found that those who imitated Whitman's irregular
-lines missed out the [[Magic|magic]] of the universe and were definitely
+lines missed out the magic of the universe and were definitely
 antagonistic to God's beautiful right hand.  That was disturbing.
 God was all right, the universe was all right, Whitman was all right.
 But something had gone wrong.
@@ -7599,7 +7599,7 @@ My very own!
 
 And then I built a studio on it.  My very own studio.
 I could enact my own (or my wife's) plays in that studio
-and whoever said me nay could go to blazes.  And then the [[house]]
+and whoever said me nay could go to blazes.  And then the house
 grew on to the studio.
 
 And now I am proud to say that I can grow in my [[motifs/garden|garden]] enough
@@ -7626,7 +7626,7 @@ was not social.
 Protestantism failed me and I have turned my back on that because it
 did not protest.
 
-These things endure:  life and liberty and the boundless [[Magic|magic]]
+These things endure:  life and liberty and the boundless magic
 of [[motifs/night|night]] and day--and what comes after.
 
 Daily [[forms/sketch|Sketch]], May 14th, 1931
@@ -7662,7 +7662,7 @@ Il che mi porta a quello che fu un evento importante della mia vita, benché, co
 
 Mi capitò tra le mani Leaves of Grass di Watt Whitman; allora la chiamai una rivelazione. Metteva nero su bianco le cose che avevo sempre saputo. La gloria e la magia dell'universo di Dio: gli spettacoli della notte e del giorno, e «nel mezzo, la bella mano destra di Dio».
 
-[[motifs/well|Ebbene]], ben presto scoprii che coloro i quali imitavano i versi irregolari di Whitman tralasciavano la [[Magic|magia]] dell'universo ed erano decisamente ostili alla bella mano destra di Dio. Ciò era inquietante. Dio andava bene, l'universo andava bene, Whitman andava bene. Ma qualcosa era andato storto.
+[[motifs/well|Ebbene]], ben presto scoprii che coloro i quali imitavano i versi irregolari di Whitman tralasciavano la magia dell'universo ed erano decisamente ostili alla bella mano destra di Dio. Ciò era inquietante. Dio andava bene, l'universo andava bene, Whitman andava bene. Ma qualcosa era andato storto.
 
 Poi, di nuovo, da giovanissimo, fui socialista.
 
@@ -7696,7 +7696,7 @@ Ben presto compresi che la libertà era cosa più complicata di quanto avessi im
 
 Una delle cose che hanno fatto la differenza per me è il possedere un mio luogo in campagna. Ero nato e cresciuto Cockney. Ero del tutto cittadino. E poi mi trasferii in campagna e comprai un campo. Il mio campo! Tutto mio!
 
-E poi vi costruii uno studio. Il mio studio, tutto mio. In quello studio potevo mettere in scena i miei drammi (o quelli di mia moglie), e chiunque mi dicesse di no poteva andare al diavolo. E poi la [[house|casa]] crebbe attorno allo studio.
+E poi vi costruii uno studio. Il mio studio, tutto mio. In quello studio potevo mettere in scena i miei drammi (o quelli di mia moglie), e chiunque mi dicesse di no poteva andare al diavolo. E poi la casa crebbe attorno allo studio.
 
 E ora sono orgoglioso di poter dire che riesco a coltivare nel mio [[motifs/garden|giardino]] abbastanza da tenere in vita la mia famiglia, se il nostro traballante sistema del credito andasse in pezzi e le nostre grandi città fossero colpite dalla carestia.
 
@@ -7712,7 +7712,7 @@ Non sono cambiato. Dio mi fece; ed eccomi qui. Il socialismo mi deluse e gli ho 
 
 Il protestantesimo mi deluse e gli ho voltato le spalle, perché non protestava.
 
-Queste cose durano: la vita e la libertà e la sconfinata [[Magic|magia]] della [[motifs/night|notte]] e del giorno—e ciò che viene dopo.
+Queste cose durano: la vita e la libertà e la sconfinata magia della [[motifs/night|notte]] e del giorno—e ciò che viene dopo.
 
 Daily [[forms/sketch|Sketch]], 14 maggio 1931
 
@@ -7881,12 +7881,12 @@ not be true, but assuredly they are not too wonderful to be true.
 But the atmosphere of the fairy tale is astonishingly true to life.
 It deals with the silent witchery that lies in common things,
 corn and stones and apple trees and [[motifs/fire|fire]].  It presents these,
-no [[concepts/doubt|doubt]], as [[Magic|magic]] stones and [[Magic|magic]] apple trees, and if anyone
+no [[concepts/doubt|doubt]], as magic stones and magic apple trees, and if anyone
 will stare at them steadily in a field at twilight, he will find
-himself quite unable to assert that they are not [[Magic|magic]].
+himself quite unable to assert that they are not magic.
 
 Let me take one quite practical example of the [[concepts/truth|truth]] of fairy tales.
-In these stories [[success]] is made to depend upon a number of small
+In these stories success is made to depend upon a number of small
 material objects and observances; life is a chain of talismans.
 If a man touches three trees in passing, he is safe; if he touches four,
 he is ruined.  If the [[archetypes/hero|hero]] meets a miller without a beard, he is to answer
@@ -7898,8 +7898,8 @@ some moral or scientific law which is the basis of most realistic novels.
 None of us know when we have done something irrevocable.  Our fate has
 been often decided by the twist of a [[motifs/road|road]] or the shape of a tree.
 Nay, it has often been decided by an omnibus or an advertisement,
-and there can there fore be little reason for denying that it is a [[Magic|magic]]
-omnibus or a [[Magic|magic]] advertisement.
+and there can there fore be little reason for denying that it is a magic
+omnibus or a magic advertisement.
 
 The great [[concepts/truth|truth]] and value of the fairy-tale view of life cannot
 be better conveyed than by saying that it chiefly arises
@@ -7948,7 +7948,7 @@ we make it beautiful.  The fairy tale warns us to be on our
 guard against the disguises of things and to regard every ugly
 and repellent exterior with a hopeful and divine suspicion.
 
-But all these massive fragments of primitive [[morality]] are secondary
+But all these massive fragments of primitive morality are secondary
 to the great moral spirit which is the very heart of the fairy tales.
 That spirit is the principle appearing and reappearing in a thousand
 folklore stories, that nothing can do a man harm unless he fears it.
@@ -7957,7 +7957,7 @@ so much need to recall the ethics of the ancient warfare of Jack
 against the Giant, of the small against the gigantic.  Those who in
 our day express a peculiar sympathy with the weak in their struggle
 against the strong are often accused of indulging a hyper-sensitive
-[[Humanitarianism|humanitarianism]] unknown to the robuster [[topoi/ages-of-the-world|ages of the world]].
+humanitarianism unknown to the robuster [[topoi/ages-of-the-world|ages of the world]].
 The thing is a delusion.  The sympathy for the weak against the strong
 speaks out of the oldest twilight; it is the very backbone of
 the most savage stories with which we have to deal in anthropology.
@@ -7979,12 +7979,12 @@ non essere veri, ma di certo non sono troppo meravigliosi per essere veri.
 L'atmosfera della fiaba, invece, è sorprendentemente fedele alla vita.
 Ha a che fare con la silenziosa magia che si annida nelle cose comuni,
 il grano e le pietre e i meli e il [[motifs/fire|fuoco]].  Ce le presenta,
-senza [[concepts/doubt|dubbio]], come pietre [[Magic|magiche]] e meli [[Magic|magici]], e se qualcuno
+senza [[concepts/doubt|dubbio]], come pietre magiche e meli magici, e se qualcuno
 le fisserà a lungo in un campo al crepuscolo, si troverà
-del tutto incapace di affermare che non siano [[Magic|magiche]].
+del tutto incapace di affermare che non siano magiche.
 
 Prenderò un esempio del tutto pratico della [[concepts/truth|verità]] delle fiabe.
-In queste storie il [[success|successo]] è fatto dipendere da una quantità di piccoli
+In queste storie il successo è fatto dipendere da una quantità di piccoli
 oggetti e osservanze materiali; la vita è una catena di talismani.
 Se un uomo tocca tre alberi passando, è salvo; se ne tocca quattro,
 è rovinato.  Se l'[[archetypes/hero|eroe]] incontra un mugnaio senza barba, non deve rispondere
@@ -7996,8 +7996,8 @@ qualche legge morale o scientifica che sta a fondamento della maggior parte dei 
 Nessuno di noi sa quando abbia compiuto qualcosa di irrevocabile.  Il nostro destino è
 stato spesso deciso dalla svolta di una [[motifs/road|strada]] o dalla forma di un albero.
 Anzi, è stato spesso deciso da un omnibus o da un'inserzione,
-e non vi può essere dunque gran motivo per negare che si tratti di un omnibus [[Magic|magico]]
-o di un'inserzione [[Magic|magica]].
+e non vi può essere dunque gran motivo per negare che si tratti di un omnibus magico
+o di un'inserzione magica.
 
 La grande [[concepts/truth|verità]] e il valore della visione fiabesca della vita non possono
 essere meglio espressi che dicendo che essa scaturisce soprattutto
@@ -8046,7 +8046,7 @@ la rendiamo bella.  La fiaba ci ammonisce a stare in
 guardia contro i travestimenti delle cose e a considerare ogni esteriorità
 brutta e repellente con un sospetto pieno di speranza e divino.
 
-Ma tutti questi massicci frammenti di [[morality|moralità]] primitiva sono secondari
+Ma tutti questi massicci frammenti di moralità primitiva sono secondari
 rispetto al grande spirito morale che è il cuore stesso delle fiabe.
 Quello spirito è il principio che appare e riappare in mille
 storie del folklore, secondo cui nulla può nuocere a un uomo se egli non lo teme.
@@ -8054,7 +8054,7 @@ In nessun [[motifs/time|tempo]] della [[concepts/history|storia]] della civiltà
 tanto bisogno di richiamare l'etica dell'antica guerra di Jack
 contro il Gigante, del piccolo contro il gigantesco.  Coloro che ai
 nostri giorni esprimono una peculiare simpatia per il debole nella sua lotta
-contro il forte sono spesso accusati di indulgere a un [[Humanitarianism|umanitarismo]]
+contro il forte sono spesso accusati di indulgere a un umanitarismo
 ipersensibile, ignoto alle più robuste [[topoi/ages-of-the-world|età del mondo]].
 La cosa è un'illusione.  La simpatia per il debole contro il forte
 parla dal più antico crepuscolo; è la spina dorsale stessa
@@ -8158,7 +8158,7 @@ It must include everything and something over.  That is,
 it must include everything and include something as [[motifs/well|well]].
 It must answer that deep and mysterious human demand for something
 as distinct from the demand for everything, even if the [[concepts/nature|nature]]
-of that demand be too deep to be easily defined in [[logic]].
+of that demand be too deep to be easily defined in logic.
 It will never cease to be described in poetry.
 We might almost say that all poetry is a description of it.
 Even when you have only natural religion, you will still
@@ -8168,7 +8168,7 @@ may proclaim, ‘The sea is God, the land is God and the sky
 is God; but yet there are not three Gods, but one God'.
 But even if the old priest be silenced, the old poet will
 always answer, ‘God is in a [[motifs/cave|cave]]; God is in a stable; God is
-disguised and hidden.  I [[Alone|alone]] know where he is; he is herding
+disguised and hidden.  I alone know where he is; he is herding
 the cattle of Admetus, he is pouring out the wine of Cana.'
 The new republic may make the philosophical declaration, ‘We hold
 these truths to be self-evident, that all trees are evolved
@@ -8222,7 +8222,7 @@ Essa deve includere ogni cosa e qualcosa di più.  Vale a dire,
 deve includere ogni cosa e includere [[motifs/well|anche]] qualcosa.
 Deve rispondere a quella profonda e misteriosa domanda umana di qualcosa
 come distinta dalla domanda di ogni cosa, anche se la [[concepts/nature|natura]]
-di quella domanda sia troppo profonda per essere agevolmente definita nella [[logic|logica]].
+di quella domanda sia troppo profonda per essere agevolmente definita nella logica.
 Non cesserà mai di essere descritta in poesia.
 Potremmo quasi dire che tutta la poesia è una descrizione di essa.
 Anche quando si possiede soltanto la religione naturale, si avrà ancora
@@ -8232,7 +8232,7 @@ potrà proclamare: «Il mare è Dio, la terra è Dio e il cielo
 è Dio; eppure non vi sono tre Dèi, ma un solo Dio».
 Ma anche se il vecchio sacerdote venisse messo a tacere, il vecchio poeta
 risponderà sempre: «Dio è in una [[motifs/cave|caverna]]; Dio è in una stalla; Dio è
-travestito e nascosto.  Io [[Alone|solo]] so dov'egli è; egli pascola
+travestito e nascosto.  Io solo so dov'egli è; egli pascola
 gli armenti di Admeto, egli versa il vino di Cana».
 La nuova repubblica potrà fare la dichiarazione filosofica: «Noi riteniamo
 queste verità di per sé evidenti, che tutti gli alberi si sono evoluti
@@ -9054,10 +9054,10 @@ I think, in short, that he would give us a sensation that he was
 turning all our standards upside down, and yet also a sensation
 that he had undeniably put them the right way up.  So, if I
 had been a Greek sage or an Arab poet before [[characters/christ|Christ]], I should
-have figured to myself, in [[A Dream|a dream]], what would actually happen
+have figured to myself, in a dream, what would actually happen
 if this earth bore secretly the father of gods and men.
-In the abstract, it may be that it is still only [[A Dream|a dream]].
-Between those who think it is [[A Dream|a dream]] and those who do not,
+In the abstract, it may be that it is still only a dream.
+Between those who think it is a dream and those who do not,
 is to be waged the great war of our future in which all these
 frivolities will be forgotten.
 
@@ -9082,7 +9082,7 @@ Chesterton era stato invitato a rispondere a un articolo dell'Hibbert Journal, c
 
 «Ora, la cosa che più mi colpisce di [chi critica] è che ha torto sui fatti. Ha torto soprattutto sul fatto primario, ossia quale sorta di persona appaia essere il Gesù dei Vangeli. Tutta la [sua] tesi si riduce in ultima analisi a questo: che quando guardiamo, per così dire, attraverso le quattro finestre degli Evangelisti questa misteriosa figura, vi scorgiamo un riconoscibile ebreo del primo secolo, con i tracciabili limiti di un uomo simile. Ora, questo è esattamente ciò che non vediamo. Se dobbiamo dire la cosa in modo profano e senza simpatia, ciò che vediamo è questo: un essere straordinario che sarebbe certamente sembrato folle in un secolo come in un altro, che avanza una vaga e vasta pretesa di divinità, che si contraddice di continuo, che impone comandi impossibili, che laddove ci sembra in torto sarebbe certamente sembrato altrettanto in torto a chiunque altro, e che laddove ci sembra nel giusto è spesso in sintonia con cose non antiche ma moderne, come, per esempio, l'adorazione dei bambini. Per alcune delle sue affermazioni gli uomini potrebbero a buon diritto chiamarlo maniaco; per altre, gli uomini di lunghi secoli posteriori potrebbero giustamente chiamarlo profeta. Ma ciò che nessuno può in alcun modo chiamarlo è un galileo del tempo di Tiberio. Non così apparve alla sua stessa famiglia, che tentò di rinchiuderlo come un pazzo. Non così apparve alla sua stessa nazione, che lo linciò, ancora rabbrividendo alle sue bestemmie che scuotevano la terra. L'impressione prodotta sugli scettici, antichi e moderni, non è quella di limiti, ma piuttosto di una pericolosa assenza di limiti; una certa informità e un mistero di cui non si può dire fino a che punto arriverà. ... La cosa da dire di Gesù, se non vi piace, è che fu un megalomane come Nerone o un mistagogo come Cagliostro. Ma sia stato piccolo o no, è chiaro che i Vangeli sono troppo piccoli per lui. Sia grande o no, egli è troppo grande per la scena. ...
 
-Se do per scontato (come fa la maggior parte della gente moderna) che Gesù di Nazareth fu uno degli ordinari maestri degli uomini, allora lo trovo splendido e suggestivo davvero, ma pieno di enigmi e di pretese oltraggiose, tutt'altro che un consigliere così pratico e quotidiano come molti pagani e molti gesuiti. Ma se mi pongo ipoteticamente nell'altro atteggiamento, il caso diventa curiosamente avvincente e persino emozionante. Se dico: «Supponiamo che il Divino abbia davvero camminato e parlato sulla terra: che cosa saremmo portati a pensarne?» — allora le fondamenta stesse della mia mente sono scosse. Per quanto io possa formulare una congettura, penso che vedremmo in un tale essere esattamente le perplessità che vediamo nella figura centrale dei Vangeli: penso che ci sembrerebbe estremo e violento, perché vedrebbe qualche ulteriore sviluppo nella virtù che per noi sarebbe non sperimentato. Penso che ci sembrerebbe contraddirsi, perché, guardando dall'alto la vita come una mappa, vedrebbe una connessione fra cose che per noi sono sconnesse. Penso, tuttavia, che egli suonerebbe sempre vero al nostro stesso senso del giusto, ma suonerebbe (per così dire) troppo forte e troppo chiaro. Sarebbe troppo buono, ma mai troppo cattivo per noi: «Siate perfetti». Penso che vi sarebbe, nella [[concepts/nature|natura]] delle cose, qualche tragica collisione fra lui e l'umanità che aveva creato, culminante in qualcosa che sarebbe a un tempo un delitto e un'espiazione. Penso che sarebbe biasimato come un duro [[archetypes/prophet|profeta]] per aver abbattuto i superbi, e biasimato anche come un debole sentimentale per aver amato le cose che si stringono negli angoli, i bambini o i mendicanti. Penso, in breve, che ci darebbe la sensazione di capovolgere tutti i nostri criteri, e insieme la sensazione di averli innegabilmente rimessi nel verso giusto. Così, se fossi stato un saggio greco o un poeta arabo prima di [[characters/christ|Cristo]], mi sarei figurato, in [[A Dream|un sogno]], che cosa accadrebbe davvero se questa terra portasse segretamente il padre degli dèi e degli uomini. In astratto, può darsi che sia ancora soltanto [[A Dream|un sogno]]. Fra coloro che pensano sia [[A Dream|un sogno]] e coloro che non lo pensano si combatterà la grande guerra del nostro futuro, nella quale tutte queste frivolezze saranno dimenticate.
+Se do per scontato (come fa la maggior parte della gente moderna) che Gesù di Nazareth fu uno degli ordinari maestri degli uomini, allora lo trovo splendido e suggestivo davvero, ma pieno di enigmi e di pretese oltraggiose, tutt'altro che un consigliere così pratico e quotidiano come molti pagani e molti gesuiti. Ma se mi pongo ipoteticamente nell'altro atteggiamento, il caso diventa curiosamente avvincente e persino emozionante. Se dico: «Supponiamo che il Divino abbia davvero camminato e parlato sulla terra: che cosa saremmo portati a pensarne?» — allora le fondamenta stesse della mia mente sono scosse. Per quanto io possa formulare una congettura, penso che vedremmo in un tale essere esattamente le perplessità che vediamo nella figura centrale dei Vangeli: penso che ci sembrerebbe estremo e violento, perché vedrebbe qualche ulteriore sviluppo nella virtù che per noi sarebbe non sperimentato. Penso che ci sembrerebbe contraddirsi, perché, guardando dall'alto la vita come una mappa, vedrebbe una connessione fra cose che per noi sono sconnesse. Penso, tuttavia, che egli suonerebbe sempre vero al nostro stesso senso del giusto, ma suonerebbe (per così dire) troppo forte e troppo chiaro. Sarebbe troppo buono, ma mai troppo cattivo per noi: «Siate perfetti». Penso che vi sarebbe, nella [[concepts/nature|natura]] delle cose, qualche tragica collisione fra lui e l'umanità che aveva creato, culminante in qualcosa che sarebbe a un tempo un delitto e un'espiazione. Penso che sarebbe biasimato come un duro [[archetypes/prophet|profeta]] per aver abbattuto i superbi, e biasimato anche come un debole sentimentale per aver amato le cose che si stringono negli angoli, i bambini o i mendicanti. Penso, in breve, che ci darebbe la sensazione di capovolgere tutti i nostri criteri, e insieme la sensazione di averli innegabilmente rimessi nel verso giusto. Così, se fossi stato un saggio greco o un poeta arabo prima di [[characters/christ|Cristo]], mi sarei figurato, in un sogno, che cosa accadrebbe davvero se questa terra portasse segretamente il padre degli dèi e degli uomini. In astratto, può darsi che sia ancora soltanto un sogno. Fra coloro che pensano sia un sogno e coloro che non lo pensano si combatterà la grande guerra del nostro futuro, nella quale tutte queste frivolezze saranno dimenticate.
 
 Hibbert Journal, luglio 1909
 

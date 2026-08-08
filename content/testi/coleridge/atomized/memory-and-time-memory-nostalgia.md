@@ -17,7 +17,7 @@ tags:
 Where graced with many a classic spoil  
 CAM rolls his reverend stream along,  
 I haste to urge the learnéd toil  
-That sternly chides my [[motifs/love|love]]-lorn [[Song|song]]:  
+That sternly chides my [[motifs/love|love]]-lorn song:  
 Ah me! too mindful of the days   5  
 Illumed by Passion’s [[settings/orient|orient]] rays,  
 When Peace, and Cheerfulness and Health  
@@ -25,7 +25,7 @@ Enriched me with the best of wealth.
 Ah fair Delights! that o’er my [[motifs/soul|soul]]  
 On [[motifs/memory|Memory]]’s wing, like shadows fly!    10  
 Ah [[motifs/flowers|Flowers]]! which Joy from Eden stole  
-While [[innocence|Innocence]] stood smiling by! —  
+While Innocence stood smiling by! —  
 But cease, fond Heart! this bootless moan:  
 Those Hours on rapid Pinions flown  
 Shall yet return, by Absence [[motifs/crown|crown]]’d,   15  
@@ -120,7 +120,7 @@ A thousand Loves around her forehead fly;
 A thousand Loves sit melting in her eye;   50  
 [[motifs/love|Love]] lights her smile — in Joy’s red nectar dips  
 His myrtle flower, and plants it on her lips.  
-She speaks! and hark that passion-warbled [[Song|song]] —  
+She speaks! and hark that passion-warbled song —  
 Still, Fancy! still that voice, those notes prolong.  
 As sweet as when that voice with rapturous falls   55  
 Shall wake the soften’d echoes of Heaven’s Halls!Or mine the power of [[characters/proteus|Proteus]], changeful God!  
@@ -132,14 +132,14 @@ When Twilight stole across the fading vale,
 To fan my [[motifs/love|Love]] I’d be the Evening Gale;  
 Mourn in the soft folds of her swelling vest,   65  
 And flutter my faint pinions on her breast!  
-On Seraph wing I’d float [[A Dream|a Dream]] by [[motifs/night|night]],  
+On Seraph wing I’d float a Dream by [[motifs/night|night]],  
 To soothe my [[motifs/love|Love]] with shadows of delight: —  
 Or soar aloft to be the Spangled Skies,  
 And gaze upon her with a thousand eyes!   70  
 As when the Savage, who his drowsy frame  
 Had bask’d beneath the Sun’s unclouded flame,  
 Awakes amid the troubles of the air,  
-The skiey [[deluge]], and white [[motifs/lightning|lightning]]’s glare —  
+The skiey deluge, and white [[motifs/lightning|lightning]]’s glare —  
 Aghast he scours before the tempest’s sweep,   75  
 And sad recalls the sunny hour of [[motifs/sleep|sleep]]: —  
 So tossed by storms along Life’s wild’ring way,  
@@ -164,7 +164,7 @@ No more shall deck your pensive Pleasures sweet   95
 With wreaths of sober hue my evening seat.  
 Yet dear to Fancy’s eye your varied scene  
 Of wood, [[motifs/hill|hill]], dale, and sparkling brook between!  
-Yet sweet to Fancy’s ear the warbled [[Song|song]],  
+Yet sweet to Fancy’s ear the warbled song,  
 That soars on Morning’s wing your vales among.   100  
 Scenes of my [[concepts/hope|Hope]]! the aching eye ye leave  
 Like yon bright hues that paint the clouds of eve!  
@@ -273,7 +273,7 @@ As whom I long had loved before —
 So deeply had I been beguiled.   20  
 V  
 You stood before me like a thought,  
-[[A Dream|A dream]] remembered in [[A Dream|a dream]].  
+A dream remembered in a dream.  
 But when those meek eyes first did seem  
 To tell me, [[motifs/love|Love]] within you wrought —  
 O Greta, dear domestic stream!   25  
@@ -282,7 +282,7 @@ Has not, since then, [[motifs/love|Love]]’s prompture deep,
 Has not [[motifs/love|Love]]’s whisper evermore  
 Been ceaseless, as thy gentle roar?  
 Sole voice, when other voices [[motifs/sleep|sleep]],  
-Dear under-[[Song|song]] in clamor’s hour.    30  
+Dear under-song in clamor’s hour.    30  
 1807.  
 
 
@@ -298,7 +298,7 @@ With [[concepts/nature|Nature]], [[concepts/hope|Hope]], and Poesy,
 When I was young!   5  
 When I was young? — Ah, woful When!  
 Ah! for the change ‘twixt Now and Then!  
-This breathing [[house]] not built with hands,  
+This breathing house not built with hands,  
 This [[concepts/body|body]] that does me grievous wrong,  
 O’er aery cliffs and glittering sands,   10  
 How lightly then it flashed along: —  
@@ -328,7 +328,7 @@ This drooping gait, this altered size:
 But [[motifs/spring|Spring]]-tide blossoms on thy lips.   35  
 And [[motifs/tears|tears]] take sunshine from thine eyes!  
 Life is but thought: so think I will  
-That Youth and I are [[house]]-mates still.  
+That Youth and I are house-mates still.  
 Dew-drops are the gems of morning,  
 But the [[motifs/tears|tears]] of mournful eve!   40  
 Where no [[concepts/hope|hope]] is, life’s a warning  

@@ -19,14 +19,14 @@ tags:
 - [[works/whatisawinamerica-(chesterton)|WhatISawInAmerica (Chesterton)]]
 - [[works/gkc-come-to-think-(chesterton)|GKC Come to Think (Chesterton)]]
 - [[works/lines-written-in-commonplace-book-of-miss-barbour,-daughter-of-the-minister-of-the-u.s.a.-to-england-(coleridg|LINES WRITTEN IN COMMONPLACE BOOK OF MISS BARBOUR, DAUGHTER OF THE MINISTER OF THE U.S.A. TO ENGLAND (Coleridg]]
-- 1174. There's the Battle of Burgoyne — (Dickinson)
-- 1227. My Triumph lasted till the Drums (Dickinson)
-- 147. Bless God, he went as soldiers, (Dickinson)
-- 358. If any sink, assure that this, now standing — (Dickinson)
-- 409. They dropped like Flakes — (Dickinson)
-- 444. It feels a shame to be Alive — (Dickinson)
-- 639. My Portion is Defeat — today — (Dickinson)
-- 759. He fought like those Who've nought to lose — (Dickinson)
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1174_theres_the_battle_of_burgoyne|1174. There's the Battle of Burgoyne — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1227_my_triumph_lasted_till_the_drums|1227. My Triumph lasted till the Drums (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0147_bless_god_he_went_as_soldiers|147. Bless God, he went as soldiers, (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0358_if_any_sink_assure_that_this_now_standing|358. If any sink, assure that this, now standing — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0409_they_dropped_like_flakes|409. They dropped like Flakes — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0444_it_feels_a_shame_to_be_alive|444. It feels a shame to be Alive — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0639_my_portion_is_defeat_today|639. My Portion is Defeat — today — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0759_he_fought_like_those_whove_nought_to_lose|759. He fought like those Who've nought to lose — (Dickinson)]]
 - [[works/a-twilight-song-(whitman)|A Twilight Song (Whitman)]]
 - [[works/ashes-of-soldiers-(whitman)|Ashes of Soldiers (Whitman)]]
 - [[works/beat!-beat!-drums!-(whitman)|Beat! Beat! Drums! (Whitman)]]

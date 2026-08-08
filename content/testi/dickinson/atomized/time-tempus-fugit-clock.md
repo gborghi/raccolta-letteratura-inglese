@@ -104,7 +104,7 @@ Remove the Dates — to These —
 Let Months dissolve in further Months —  
 And Years — exhale in Years —  
 
-Without [[debate|Debate]] — or Pause —  
+Without Debate — or Pause —  
 Or Celebrated Days —  
 No different Our Years would be  
 From Anno Domini's —

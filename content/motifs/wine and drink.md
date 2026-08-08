@@ -54,24 +54,24 @@ tags:
 - [[works/a-tale-of-two-cities-(dickens)|A Tale of Two Cities (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 1101. Between the form of Life and Life (Dickinson)
-- 119. Talk with prudence to a Beggar (Dickinson)
-- 1226. The Popular Heart is a Cannon first — (Dickinson)
-- 1239. Risk is the Hair that holds the Tun (Dickinson)
-- 132. I bring an unaccustomed wine (Dickinson)
-- 134. Perhaps you'd like to buy a flower, (Dickinson)
-- 1430. Who never wanted — maddest Joy (Dickinson)
-- 1628. A Drunkard cannot meet a Cork (Dickinson)
-- 1645. The Ditch is dear to the Drunken man (Dickinson)
-- 169. In Ebon Box, when years have flown (Dickinson)
-- 1736. Proud of my broken heart, since thou didst break it, (Dickinson)
-- 1753. Through those old Grounds of memory, (Dickinson)
-- 214. I taste a liquor never brewed (Dickinson)
-- 230. We — Bee and I — live by the quaffing — (Dickinson)
-- 296. One Year ago — jots what (Dickinson)
-- 383. Exhilaration — is within — (Dickinson)
-- 711. Strong Draughts of Their Refreshing Minds (Dickinson)
-- 838. Impossibility, like Wine (Dickinson)
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1101_between_the_form_of_life_and_life|1101. Between the form of Life and Life (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0119_talk_with_prudence_to_a_beggar|119. Talk with prudence to a Beggar (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1226_the_popular_heart_is_a_cannon_first|1226. The Popular Heart is a Cannon first — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1239_risk_is_the_hair_that_holds_the_tun|1239. Risk is the Hair that holds the Tun (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0132_i_bring_an_unaccustomed_wine|132. I bring an unaccustomed wine (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0134_perhaps_youd_like_to_buy_a_flower|134. Perhaps you'd like to buy a flower, (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1430_who_never_wanted_maddest_joy|1430. Who never wanted — maddest Joy (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1628_a_drunkard_cannot_meet_a_cork|1628. A Drunkard cannot meet a Cork (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#1645_the_ditch_is_dear_to_the_drunken_man|1645. The Ditch is dear to the Drunken man (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0169_in_ebon_box_when_years_have_flown|169. In Ebon Box, when years have flown (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#1736_proud_of_my_broken_heart_since_thou_didst_break_it|1736. Proud of my broken heart, since thou didst break it, (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1753_through_those_old_grounds_of_memory|1753. Through those old Grounds of memory, (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0214_i_taste_a_liquor_never_brewed|214. I taste a liquor never brewed (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0230_we_bee_and_i_live_by_the_quaffing|230. We — Bee and I — live by the quaffing — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0296_one_year_ago_jots_what|296. One Year ago — jots what (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0383_exhilaration_is_within|383. Exhilaration — is within — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0711_strong_draughts_of_their_refreshing_minds|711. Strong Draughts of Their Refreshing Minds (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0838_impossibility_like_wine|838. Impossibility, like Wine (Dickinson)]]
 - [[works/a-fable-for-feasters-(eliot)|A Fable for Feasters (Eliot)]]
 - [[works/sweeney-agonistes-(eliot)|Sweeney Agonistes (Eliot)]]
 - [[works/the-cocktail-party-(eliot)|THE COCKTAIL PARTY (Eliot)]]
@@ -95,10 +95,10 @@ tags:
 - [[works/the-masque-of-the-red-death-(poe)|The Masque of the Red Death (Poe)]]
 - [[works/thou-art-the-man-(poe)|Thou Art the Man (Poe)]]
 - [[works/1-henry-iv-(shakespeare)|1 HENRY IV (Shakespeare)]]
-- Sonnet 111 (Shakespeare)
-- Sonnet 114 (Shakespeare)
-- Sonnet 118 (Shakespeare)
-- Sonnet 119 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_111|Sonnet 111 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_114|Sonnet 114 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_118|Sonnet 118 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_119|Sonnet 119 (Shakespeare)]]
 - [[works/the-taming-of-the-shrew-(shakespeare)|THE TAMING OF THE SHREW (Shakespeare)]]
 - [[works/election-day,-november,-1884-(whitman)|Election Day, November, 1884 (Whitman)]]
 - [[works/a-florentine-tragedy-(wilde)|A Florentine Tragedy (Wilde)]]

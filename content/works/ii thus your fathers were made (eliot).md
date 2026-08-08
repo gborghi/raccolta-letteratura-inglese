@@ -28,7 +28,7 @@ tags:
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/social-injustice|Social Injustice]], [[concepts/divine-love|Divine Love]], [[concepts/critique-of-progress|Critique of Progress]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

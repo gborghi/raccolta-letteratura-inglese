@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/memory|Memory]], [[motifs/winter|Winter]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/memory-and-time|Memory and Time]], [[concepts/alienation|Alienation]], [[concepts/friendship|Friendship]]
 

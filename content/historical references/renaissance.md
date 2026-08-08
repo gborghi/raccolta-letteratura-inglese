@@ -29,7 +29,7 @@ tags:
 - [[works/history-(chesterton)|history (Chesterton)]]
 - [[works/intro-pilgrims-progress-(chesterton)|intro-pilgrims-progress (Chesterton)]]
 - [[works/the-garden-of-boccaccio-(coleridge)|THE GARDEN OF BOCCACCIO (Coleridge)]]
-- 291. How the old Mountains drip with Sunset (Dickinson)
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0291_how_the_old_mountains_drip_with_sunset|291. How the old Mountains drip with Sunset (Dickinson)]]
 - [[works/whispers-of-immortality-(eliot)|Whispers of Immortality (Eliot)]]
 - [[works/imitation-of-spenser-(keats)|IMITATION OF SPENSER (Keats)]]
 - [[works/isabella-(keats)|ISABELLA (Keats)]]

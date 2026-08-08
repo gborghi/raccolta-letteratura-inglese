@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/immortality|Immortality]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 **Historical References:** [[historical-references/king-alfred|King Alfred]]

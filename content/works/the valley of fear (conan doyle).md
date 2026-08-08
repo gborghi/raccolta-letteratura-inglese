@@ -60,7 +60,7 @@ tags:
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/deception|Deception]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/city|City]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/money-and-gold|Money and Gold]]
 **Settings:** [[settings/london|London]], [[settings/industrial-city|Industrial City]]
-**Characters:** Sherlock Holmes, Doctor Watson, Professor Moriarty
-**Archetypes:** Detective, Villain
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/professor-moriarty|Professor Moriarty]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
 
 **Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

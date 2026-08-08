@@ -58,5 +58,5 @@ tags:
 **Motifs:** [[motifs/disease-and-contagion|Disease and Contagion]], [[motifs/blood|Blood]], [[motifs/death|Death]]
 **Historical References:** [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]], [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Archetypes:** Detective, Villain
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
 **Topoi:** [[topoi/memento-mori|Memento Mori]]

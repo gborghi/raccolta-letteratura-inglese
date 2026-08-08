@@ -51,13 +51,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/memento-mori|Memento Mori]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/ubi-sunt|Ubi Sunt]]
-**Archetypes:** Femme Fatale, Temptress, Monster
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/temptress|Temptress]], [[archetypes/monster|Monster]]
 **Motifs:** [[motifs/desire|Desire]], [[motifs/night|Night]], [[motifs/moon|Moon]], [[motifs/cross|Cross]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/supernatural|Supernatural]], [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/temptation|Temptation]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/transience|Transience]], [[concepts/grotesque|Grotesque]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/dramatic-monologue|Dramatic Monologue]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/bible|Bible]]
 **Settings:** [[settings/egypt|Egypt]], [[settings/orient|Orient]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

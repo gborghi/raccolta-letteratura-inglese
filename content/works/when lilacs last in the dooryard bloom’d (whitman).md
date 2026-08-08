@@ -31,12 +31,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/flowers|Flowers]], [[motifs/stars|Stars]], [[motifs/birds|Birds]], [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/spring|Spring]], [[motifs/rose|Rose]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/war-and-its-cost|War and its Cost]]
 **Forms & Genres:** [[forms/elegy|Elegy]]
 **Historical References:** [[historical-references/american-civil-war|American Civil War]]
-**Characters:** Abraham Lincoln, Death Personified
+**Characters:** [[characters/abraham-lincoln|Abraham Lincoln]], [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

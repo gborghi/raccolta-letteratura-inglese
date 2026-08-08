@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Motifs:** [[motifs/fire|Fire]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/artist-and-society|Artist and Society]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

@@ -93,8 +93,8 @@ tags:
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/road|Road]], [[motifs/birds|Birds]], [[motifs/night|Night]]
 **Historical References:** [[historical-references/boer-war|Boer War]], [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/france|France]], [[settings/europe|Europe]]
-**Characters:** King Dives
-**Archetypes:** Pilgrim, Rebel
+**Characters:** [[characters/king-dives|King Dives]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/rebel|Rebel]]
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/carpe-diem|Carpe Diem]]
 
 **Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

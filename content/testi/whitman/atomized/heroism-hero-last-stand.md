@@ -71,7 +71,7 @@ Here we lay encamp’d, it was this [[motifs/time|time]] in [[motifs/summer|summ
 As I talk I remember all, I remember the Declaration,  
 It was read here, the whole army paraded, it was read to us here,  
 By his staff surrounded the General stood in the middle, he held up  
-his unsheath’d [[Sword|sword]],  
+his unsheath’d sword,  
 It glitter’d in the sun in full sight of the army.  
 
 ’Twas a bold act then--the English war-ships had just arrived,  
@@ -267,7 +267,7 @@ They close peremptorily upon us to surround us, my comrade,
 Yet we walk unheld, free, the whole earth over, journeying up and
 down till we make our ineffaceable mark upon [[motifs/time|time]] and the diverse eras,
 Till we saturate [[motifs/time|time]] and eras, that the men and women of races,
-ages to come, may prove brethren and [[lovers]] as we are.
+ages to come, may prove brethren and lovers as we are.
 
 
 
@@ -290,7 +290,7 @@ And ’mid its teeming madden’d half-drown’d crowds,
 Nor helm nor helmsman.  
 
 Dim smitten star,  
-Orb not of France [[Alone|alone]], pale symbol of my [[motifs/soul|soul]], its dearest hopes,  
+Orb not of France alone, pale symbol of my [[motifs/soul|soul]], its dearest hopes,  
 The struggle and the daring, rage divine for liberty,  
 Of aspirations toward the far ideal, enthusiast’s [[motifs/dreams|dreams]] of brotherhood,  
 Of terror to the [[archetypes/tyrant|tyrant]] and the priest.  
@@ -306,7 +306,7 @@ And left thee sacred.
 In that amid thy many faults thou ever aimedst highly,  
 In that thou wouldst not really sell thyself however great the price,  
 In that thou surely wakedst weeping from thy drugg’d [[motifs/sleep|sleep]],  
-In that [[Alone|alone]] among thy sisters thou, giantess, didst rend the ones  
+In that alone among thy sisters thou, giantess, didst rend the ones  
 that shamed thee,  
 In that thou couldst not, wouldst not, wear the usual [[motifs/chains|chains]],  
 This [[motifs/cross|cross]], thy livid face, thy pierced hands and feet,  
@@ -371,7 +371,7 @@ Breaks forth a [[motifs/lightning|lightning]] flash.
 
 Thou of the tawny flowing hair in battle,
 I erewhile saw, with erect head, pressing ever in front, bearing a
-bright [[Sword|sword]] in thy hand,
+bright sword in thy hand,
 Now ending [[motifs/well|well]] in [[motifs/death|death]] the splendid fever of thy deeds,
 (I bring no [[forms/dirge|dirge]] for it or thee, I bring a glad triumphal [[forms/sonnet|sonnet]],)
 Desperate and glorious, aye in defeat most desperate, most glorious,
@@ -395,7 +395,7 @@ _Cluster: SANDS AT SEVENTY_
 The appointed winners in a long-stretch’d game;  
 The course of [[motifs/time|Time]] and nations--[[settings/egypt|Egypt]], India, Greece and Rome;  
 The past entire, with all its heroes, histories, arts, experiments,  
-Its store of [[songs]], inventions, voyages, teachers, books,  
+Its store of songs, inventions, voyages, teachers, books,  
 Garner’d for now and thee--To think of it!  
 The heirdom all converged in thee!  
 
@@ -455,7 +455,7 @@ Ah, not this marble, dead and cold:
 Far from its base and shaft expanding--the round zones circling,  
 comprehending,  
 Thou, Washington, art all the world’s, the continents’ entire--not  
-yours [[Alone|alone]], [[settings/america|America]],  
+yours alone, [[settings/america|America]],  
 Europe’s as [[motifs/well|well]], in every part, [[settings/castle|castle]] of lord or laborer’s cot,  
 Or frozen North, or sultry South--the African’s--the Arab’s in his tent,  
 Old Asia’s there with venerable smile, seated amid her ruins;  
@@ -464,7 +464,7 @@ legitimate, continued ever,
 The indomitable heart and arm--proofs of the never-broken line,  
 [[concepts/courage|Courage]], alertness, patience, [[concepts/faith|faith]], the same--e’en in defeat  
 defeated not, the same:)  
-Wherever sails a [[motifs/ship|ship]], or [[house]] is built on land, or day or [[motifs/night|night]],  
+Wherever sails a [[motifs/ship|ship]], or house is built on land, or day or [[motifs/night|night]],  
 Through teeming cities’ streets, indoors or out, factories or farms,  
 Now, or to come, or past--where patriot wills existed or exist,  
 Wherever [[concepts/freedom|Freedom]], pois’d by Toleration, sway’d by Law,  

@@ -56,13 +56,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/education|Education]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/identity|Identity]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
 **Historical References:** [[historical-references/christianity|Christianity]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** Agnes Grey, Edward Weston, Rosalie Murray, Mrs Bloomfield, Tom Bloomfield
+**Characters:** [[characters/agnes-grey|Agnes Grey]], [[characters/edward-weston|Edward Weston]], [[characters/rosalie-murray|Rosalie Murray]], [[characters/mrs-bloomfield|Mrs Bloomfield]], [[characters/tom-bloomfield|Tom Bloomfield]]
 
 ## Testo integrale / Full text
 

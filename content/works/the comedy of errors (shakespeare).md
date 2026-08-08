@@ -54,11 +54,11 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/double|Double]]
-**Archetypes:** Double Doppelganger, Fool
+**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/mirror|Mirror]], [[motifs/sea|Sea]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/identity|Identity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/madness|Madness]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/blank-verse|Blank Verse]]
-**Characters:** Antipholus of Syracuse, Antipholus of Ephesus, Dromio of Syracuse, Dromio of Ephesus, Adriana, Luciana, Egeon, Emilia
+**Characters:** [[characters/antipholus-of-syracuse|Antipholus of Syracuse]], [[characters/antipholus-of-ephesus|Antipholus of Ephesus]], [[characters/dromio-of-syracuse|Dromio of Syracuse]], [[characters/dromio-of-ephesus|Dromio of Ephesus]], [[characters/adriana|Adriana]], [[characters/luciana|Luciana]], [[characters/egeon|Egeon]], [[characters/emilia|Emilia]]
 
 ## Testo integrale / Full text
 

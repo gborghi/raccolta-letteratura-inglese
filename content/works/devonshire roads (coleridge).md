@@ -27,7 +27,7 @@ tags:
 **Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]]
 **Forms & Genres:** [[forms/parody|Parody]], [[forms/ode|Ode]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** Satan
+**Characters:** [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

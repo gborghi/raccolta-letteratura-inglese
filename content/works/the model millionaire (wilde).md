@@ -43,7 +43,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Innocent, Trickster, Lover
+**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/trickster|Trickster]], [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/love|Love]], [[motifs/marriage|Marriage]]
 **Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/poverty|Poverty]], [[concepts/satire-of-society|Satire of Society]], [[concepts/romantic-love|Romantic Love]], [[concepts/artist-and-society|Artist and Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]]

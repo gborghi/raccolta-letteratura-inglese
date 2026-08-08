@@ -70,13 +70,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/combat-strife|Combat Strife]]
-**Archetypes:** Lover, Fool
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/journey|Journey]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/music-and-song|Music and Song]], [[motifs/love|Love]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/friendship|Friendship]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/deception|Deception]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/identity|Identity]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/elizabethan-england|Elizabethan England]]
 **Settings:** [[settings/italy|Italy]], [[settings/verona|Verona]], [[settings/europe|Europe]]
-**Characters:** Valentine, Proteus, Julia, Silvia, Launce, Speed, Duke of Milan, Thurio
+**Characters:** [[characters/valentine|Valentine]], [[characters/proteus|Proteus]], [[characters/julia|Julia]], [[characters/silvia|Silvia]], [[characters/launce|Launce]], [[characters/speed|Speed]], [[characters/duke-of-milan|Duke of Milan]], [[characters/thurio|Thurio]]
 
 ## Testo integrale / Full text
 

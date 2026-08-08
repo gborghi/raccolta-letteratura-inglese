@@ -82,7 +82,7 @@ A little this side of the [[motifs/snow|snow]]
 And that side of the Haze —  
 
 A few incisive Mornings —  
-A few [[ascetic|Ascetic]] Eves —  
+A few Ascetic Eves —  
 Gone — Mr. Bryant's "Golden Rod" —  
 And Mr. Thomson's "sheaves."  
 
@@ -156,7 +156,7 @@ Until the Velvet product
 Drop spicy to the ground —  
 A homelier maturing —  
 A process in the Bur —  
-That teeth of Frosts [[Alone|alone]] disclose  
+That teeth of Frosts alone disclose  
 In far October Air.
 
 
@@ -204,14 +204,14 @@ And moving into Pod —
 Myself — for scarcely settled —  
 The Phoebes have begun —  
 And then — it's [[motifs/time|time]] to strike my Tent —  
-And open [[house|House]] — again —  
+And open House — again —  
 
 It's mostly, interruptions —  
 My [[motifs/summer|Summer]] — is despoiled —  
 Because there was a [[motifs/winter|Winter]] — once —  
 And al the Cattle — starved —  
 
-And so there was a [[deluge|Deluge]] —  
+And so there was a Deluge —  
 And swept the World away —  
 But Ararat's a Legend — now —  
 And no one credits Noah —
@@ -590,7 +590,7 @@ Upon a nail of Plush —
 
 
 The pungent atom in the Air  
-Admits of no [[debate]] —  
+Admits of no debate —  
 All that is named of [[motifs/summer|Summer]] Days  
 Relinquished our Estate —  
 
@@ -608,7 +608,7 @@ Or Dams — of Ecstasy —
 Like Brooms of Steel  
 The [[motifs/snow|Snow]] and [[motifs/wind|Wind]]  
 Had swept the [[motifs/winter|Winter]] Street —  
-The [[house|House]] was hooked  
+The House was hooked  
 The [[motifs/sun|Sun]] sent out  
 Faint Deputies of Heat —  
 Where rode the Bird  

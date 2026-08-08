@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/stars|Stars]]
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/fragment|Fragment]], [[forms/ode|Ode]]

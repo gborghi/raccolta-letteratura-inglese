@@ -63,6 +63,6 @@ tags:
 **Motifs:** [[motifs/battlefield-(2)|Battlefield (2)]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/flags-and-banners|Flags and Banners]]
 **Historical References:** [[historical-references/hundred-years'-war|Hundred Years' War]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/french-revolution|French Revolution]], [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/battlefield|Battlefield]], [[settings/france|France]], [[settings/military-camp|Military Camp]], [[settings/europe|Europe]]
-**Characters:** [[historical-references/napoleon|Napoleon]], Duke of Wellington, Edward the Black Prince, Louis XIV
-**Archetypes:** Hero, Tragic Hero
+**Characters:** [[historical-references/napoleon|Napoleon]], [[characters/duke-of-wellington|Duke of Wellington]], [[characters/edward-the-black-prince|Edward the Black Prince]], [[characters/louis-xiv|Louis XIV]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/tragic-hero|Tragic Hero]]
 **Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/war-as-glory|War as Glory]]

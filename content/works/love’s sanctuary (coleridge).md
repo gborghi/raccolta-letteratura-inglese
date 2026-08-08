@@ -22,7 +22,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]]
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/divine-love|Divine Love]]
 **Forms & Genres:** [[forms/lyric|Lyric]]
 

@@ -42,7 +42,7 @@ tags:
 
 **Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]]
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 
 **Settings:** [[settings/industrial-city|Industrial City]]
 

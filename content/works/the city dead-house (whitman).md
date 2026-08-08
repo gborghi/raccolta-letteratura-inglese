@@ -27,7 +27,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** (Reputed) Fallen Woman, Outsider
+**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/death|Death]], [[motifs/city|City]], [[motifs/decay|Decay]]
 **Themes & Concepts:** [[concepts/body|Body]], [[concepts/social-injustice|Social Injustice]], [[concepts/self-knowledge|Self-Knowledge]]
 

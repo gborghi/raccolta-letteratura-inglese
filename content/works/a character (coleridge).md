@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/birds|Birds]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/alienation|Alienation]], [[concepts/poverty|Poverty]]
 **Forms & Genres:** [[forms/allegory|Allegory]], [[forms/satire|Satire]]

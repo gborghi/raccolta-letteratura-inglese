@@ -17,11 +17,11 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[rolling|Tortuosa]] [[motifs/road|Strada]] Inglese  
+La Tortuosa [[motifs/road|Strada]] Inglese  
 
 Prima che il Romano giungesse a Rye o s'inoltrasse fino al Severn,  
-l'ubriacone inglese [[rolling|barcollante]] fece la [[rolling|tortuosa]] [[motifs/road|strada]] inglese.  
-Una [[motifs/road|strada]] sbandante, una [[rolling|tortuosa]] [[motifs/road|strada]], che vaga per la contea,  
+l'ubriacone inglese barcollante fece la tortuosa [[motifs/road|strada]] inglese.  
+Una [[motifs/road|strada]] sbandante, una tortuosa [[motifs/road|strada]], che vaga per la contea,  
 e dietro a lui corsero il parroco, il sagrestano e il signorotto;  
 una [[motifs/road|strada]] allegra, una [[motifs/road|strada]] intricata, e tale quale calcammo  
 la [[motifs/night|notte]] che andammo a Birmingham passando per Beachy Head.  
@@ -52,11 +52,11 @@ prima d'andare in Paradiso passando per Kensal Green.
 <span class="atom-split" data-atom="part--part_01" data-title="rolling (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/flowers,motif/night,motif/road,motif/rose"></span>
 
 
-The [[rolling|Rolling]] English [[motifs/road|Road]]  
+The Rolling English [[motifs/road|Road]]  
 
 Before the Roman came to Rye or out to Severn strode,  
-The [[rolling]] English drunkard made the [[rolling]] English [[motifs/road|road]].  
-A reeling [[motifs/road|road]], a [[rolling]] [[motifs/road|road]], that rambles round the shire,  
+The rolling English drunkard made the rolling English [[motifs/road|road]].  
+A reeling [[motifs/road|road]], a rolling [[motifs/road|road]], that rambles round the shire,  
 And after him the parson ran, the sexton and the squire;  
 A merry [[motifs/road|road]], a mazy [[motifs/road|road]], and such as we did tread  
 The [[motifs/night|night]] we went to Birmingham by way of Beachy Head.  
@@ -85,11 +85,11 @@ Before we go to Paradise by way of Kensal Green.
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[rolling|Tortuosa]] [[motifs/road|Strada]] Inglese  
+La Tortuosa [[motifs/road|Strada]] Inglese  
 
 Prima che il Romano giungesse a Rye o s'inoltrasse fino al Severn,  
-l'ubriacone inglese [[rolling|barcollante]] fece la [[rolling|tortuosa]] [[motifs/road|strada]] inglese.  
-Una [[motifs/road|strada]] sbandante, una [[rolling|tortuosa]] [[motifs/road|strada]], che vaga per la contea,  
+l'ubriacone inglese barcollante fece la tortuosa [[motifs/road|strada]] inglese.  
+Una [[motifs/road|strada]] sbandante, una tortuosa [[motifs/road|strada]], che vaga per la contea,  
 e dietro a lui corsero il parroco, il sagrestano e il signorotto;  
 una [[motifs/road|strada]] allegra, una [[motifs/road|strada]] intricata, e tale quale calcammo  
 la [[motifs/night|notte]] che andammo a Birmingham passando per Beachy Head.  

@@ -78,9 +78,9 @@ tags:
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 1407. A Field of Stubble, lying sere (Dickinson)
-- 300. Morning — means Milking — to the Farmer — (Dickinson)
-- 316. The Wind didn't come from the Orchard — today — (Dickinson)
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1407_a_field_of_stubble_lying_sere|1407. A Field of Stubble, lying sere (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0300_morning_means_milking_to_the_farmer|300. Morning — means Milking — to the Farmer — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0316_the_wind_didnt_come_from_the_orchard_today|316. The Wind didn't come from the Orchard — today — (Dickinson)]]
 - [[works/east-coker-1940-(eliot)|East Coker 1940 (Eliot)]]
 - [[works/little-gidding-(eliot)|Little Gidding (Eliot)]]
 - [[works/old-deuteronomy-(eliot)|Old Deuteronomy (Eliot)]]

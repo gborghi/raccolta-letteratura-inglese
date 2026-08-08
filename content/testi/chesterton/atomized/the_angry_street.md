@@ -152,8 +152,8 @@ ponte di ferro nello spazio vuoto.  Un impulso mi afferrò, e sollevai
 la botola di ferro di una carbonaia.  Guardando in giù attraverso di essa
 vidi lo spazio vuoto e le [[motifs/stars|stelle]].  Quando alzai di nuovo lo sguardo un uomo
 stava ritto nel suo [[motifs/garden|giardino]] antistante, essendo apparentemente uscito
-dalla sua [[house|casa]]; era chino sulla ringhiera e mi fissava.
-Eravamo tutti [[Alone|soli]] su quell'[[nightmare|incubo]] di [[motifs/road|strada]]; il suo volto era nell'[[archetypes/shadow|ombra]];
+dalla sua casa; era chino sulla ringhiera e mi fissava.
+Eravamo tutti soli su quell'incubo di [[motifs/road|strada]]; il suo volto era nell'[[archetypes/shadow|ombra]];
 il suo abito era scuro e ordinario; ma quando lo vidi stare
 così perfettamente immobile capii in qualche modo che non era di questo mondo.
 E le [[motifs/stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto
@@ -195,7 +195,7 @@ il capo verso il cielo.  Non ti sei mai seduto su un [[motifs/horse|cavallo]] ch
 
 «Guardai la lunga strada grigia, e per un momento mi parve
 esattamente come il lungo collo grigio di un [[motifs/horse|cavallo]] lanciato verso il cielo.
-Ma in un momento la mia [[Sanity|ragione]] tornò, e dissi: "Ma questo
+Ma in un momento la mia ragione tornò, e dissi: "Ma questo
 è tutto un nonsenso.  Le strade vanno nel luogo dove devono andare.
 Una strada deve sempre andare alla sua meta."
 
@@ -476,8 +476,8 @@ iron bridge in empty space.  An impulse seized me, and I pulled
 up the iron trap of a coal-hole. Looking down through it I
 saw empty space and the [[motifs/stars|stars]].  When I looked up again a man
 was standing in his front [[motifs/garden|garden]], having apparently come out
-of his [[house]]; he was leaning over the railings and gazing at me.
-We were all [[Alone|alone]] on that [[nightmare]] [[motifs/road|road]]; his face was in [[archetypes/shadow|shadow]];
+of his house; he was leaning over the railings and gazing at me.
+We were all alone on that nightmare [[motifs/road|road]]; his face was in [[archetypes/shadow|shadow]];
 his dress was dark and ordinary; but when I saw him standing
 so perfectly still I knew somehow that be was not of this world.
 And the [[motifs/stars|stars]] behind his head were larger and fiercer than ought
@@ -519,7 +519,7 @@ its head to heaven.  Have you never sat on a bucking [[motifs/horse|horse]]?'
 
 "I looked at the long grey street, and for a moment it seemed to me
 to be exactly like the long grey neck of a [[motifs/horse|horse]] flung up to heaven.
-But in a moment my [[Sanity|sanity]] returned, and I said, 'But this
+But in a moment my sanity returned, and I said, 'But this
 is all nonsense.  Streets go to the place they have to go to.
 A street must always go to its end.'
 
@@ -566,8 +566,8 @@ ponte di ferro nello spazio vuoto.  Un impulso mi afferrò, e sollevai
 la botola di ferro di una carbonaia.  Guardando in giù attraverso di essa
 vidi lo spazio vuoto e le [[motifs/stars|stelle]].  Quando alzai di nuovo lo sguardo un uomo
 stava ritto nel suo [[motifs/garden|giardino]] antistante, essendo apparentemente uscito
-dalla sua [[house|casa]]; era chino sulla ringhiera e mi fissava.
-Eravamo tutti [[Alone|soli]] su quell'[[nightmare|incubo]] di [[motifs/road|strada]]; il suo volto era nell'[[archetypes/shadow|ombra]];
+dalla sua casa; era chino sulla ringhiera e mi fissava.
+Eravamo tutti soli su quell'incubo di [[motifs/road|strada]]; il suo volto era nell'[[archetypes/shadow|ombra]];
 il suo abito era scuro e ordinario; ma quando lo vidi stare
 così perfettamente immobile capii in qualche modo che non era di questo mondo.
 E le [[motifs/stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto
@@ -609,7 +609,7 @@ il capo verso il cielo.  Non ti sei mai seduto su un [[motifs/horse|cavallo]] ch
 
 «Guardai la lunga strada grigia, e per un momento mi parve
 esattamente come il lungo collo grigio di un [[motifs/horse|cavallo]] lanciato verso il cielo.
-Ma in un momento la mia [[Sanity|ragione]] tornò, e dissi: "Ma questo
+Ma in un momento la mia ragione tornò, e dissi: "Ma questo
 è tutto un nonsenso.  Le strade vanno nel luogo dove devono andare.
 Una strada deve sempre andare alla sua meta."
 

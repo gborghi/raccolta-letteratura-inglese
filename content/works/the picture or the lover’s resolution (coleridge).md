@@ -29,7 +29,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/pastoral-retreat|Pastoral Retreat]]
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/mirror|Mirror]], [[motifs/water|Water]], [[concepts/nature|Nature]], [[motifs/serpent-snake|Serpent Snake]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/imagination|Imagination]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/blank-verse|Blank Verse]]

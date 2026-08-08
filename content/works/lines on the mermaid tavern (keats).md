@@ -27,7 +27,7 @@ tags:
 **Motifs:** [[motifs/inn-tavern|Inn Tavern]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/food-and-feasting|Food and Feasting]]
 **Themes & Concepts:** [[concepts/nostalgia|Nostalgia]]
 **Historical References:** [[historical-references/renaissance|Renaissance]]
-**Characters:** Robin Hood
+**Characters:** [[characters/robin-hood|Robin Hood]]
 
 ## Testo integrale / Full text
 

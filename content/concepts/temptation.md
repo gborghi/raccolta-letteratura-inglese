@@ -32,9 +32,9 @@ tags:
 - [[works/progress-of-vice-(coleridge)|PROGRESS OF VICE (Coleridge)]]
 - [[works/oliver-twist-(dickens)|Oliver Twist (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
-- 1239. Risk is the Hair that holds the Tun (Dickinson)
-- 1753. Through those old Grounds of memory, (Dickinson)
-- 801. I play at Riches — to appease (Dickinson)
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1239_risk_is_the_hair_that_holds_the_tun|1239. Risk is the Hair that holds the Tun (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1753_through_those_old_grounds_of_memory|1753. Through those old Grounds of memory, (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0801_i_play_at_riches_to_appease|801. I play at Riches — to appease (Dickinson)]]
 - [[works/circe’s-palace-(eliot)|Circe’s Palace (Eliot)]]
 - [[works/iii-at-the-first-turning-of-the-second-stair-(eliot)|III At the first turning of the second stair (Eliot)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
@@ -49,12 +49,12 @@ tags:
 - [[works/edward-iii-(shakespeare)|EDWARD III (Shakespeare)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
-- Sonnet 118 (Shakespeare)
-- Sonnet 144 (Shakespeare)
-- Sonnet 154 (Shakespeare)
-- Sonnet 41 (Shakespeare)
-- Sonnet 94 (Shakespeare)
-- Sonnet 96 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_118|Sonnet 118 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_144|Sonnet 144 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_154|Sonnet 154 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_041|Sonnet 41 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_094|Sonnet 94 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_096|Sonnet 96 (Shakespeare)]]
 - [[works/a-woman-of-no-importance-(wilde)|A Woman of No Importance (Wilde)]]
 - [[works/la-sainte-courtisane-(wilde)|La Sainte Courtisane (Wilde)]]
 - [[works/lady-windermere's-fan-(wilde)|Lady Windermere's Fan (Wilde)]]

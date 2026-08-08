@@ -35,5 +35,5 @@ tags:
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 **Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/unseen-the-hidden|Unseen The Hidden]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/deception|Deception]], [[concepts/faith-and-doubt|Faith and Doubt]]
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[concepts/uncanny|Uncanny]], [[motifs/death|Death]]
-**Characters:** Sir Arthur Conan Doyle
-**Archetypes:** Prophet
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]]
+**Archetypes:** [[archetypes/prophet|Prophet]]

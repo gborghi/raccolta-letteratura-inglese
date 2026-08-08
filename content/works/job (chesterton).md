@@ -53,13 +53,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Innocent
+**Archetypes:** [[archetypes/innocent|Innocent]]
 
 **Motifs:** [[motifs/animals|Animals]]
 
 **Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** Job, Jehovah, Jacob, Socrates
+**Characters:** [[characters/job|Job]], [[characters/jehovah|Jehovah]], [[characters/jacob|Jacob]], [[characters/socrates|Socrates]]
 
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/doubt|Doubt]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/providence|Providence]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/humility|Humility]], [[concepts/suffering|Suffering]], [[concepts/individualism|Individualism]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]]
 **Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/literary-criticism|Literary Criticism]], [[forms/epic|Epic]], [[forms/nonfiction|Nonfiction]]

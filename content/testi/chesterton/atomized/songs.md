@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[songs|Canti]] dell'[[concepts/education|Educazione]]  
+Canti dell'[[concepts/education|Educazione]]  
 
 III. Per l'Asilo Nido  
 
@@ -44,7 +44,7 @@ con la cura di un bimbo di sette settimane.
 Perché la madre è felice a ungere una [[motifs/wheel|ruota]]  
 per qualcun altro, che accaparra l'Acciaio;  
 e benché il nostro unico incontro non sia stato lungo,  
-colse l'occasione per cantarmi questo [[Song|canto]]:  
+colse l'occasione per cantarmi questo canto:  
 "Oh, taci, mio bimbo, presto verrà il [[motifs/time|tempo]]  
 in cui il tuo [[motifs/sleep|sonno]] sarà rotto da fischi e ronzii;  
 ci sono leve da girare e girare tutto il giorno,  
@@ -58,7 +58,7 @@ ché il Progresso viene presto, e la [[concepts/freedom|Libertà]] troppo presto
 <span class="atom-split" data-atom="part--part_01" data-title="songs (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/sleep,motif/time,motif/wheel,concept/education,concept/faith,concept/freedom"></span>
 
 
-[[songs|Songs]] of [[concepts/education|Education]]  
+Songs of [[concepts/education|Education]]  
 
 III. For the Creche  
 
@@ -85,7 +85,7 @@ With the care of a baby of seven weeks old.
 For mother is happy in greasing a [[motifs/wheel|wheel]]  
 For somebody else, who is cornering Steel;  
 And though our one meeting was not very long,  
-She took the occasion to sing me this [[Song|song]]:  
+She took the occasion to sing me this song:  
 "O, hush thee, my baby, the [[motifs/time|time]] will soon come  
 When thy [[motifs/sleep|sleep]] will be broken with hooting and hum;  
 There are handles want turning and turning all day,  
@@ -97,7 +97,7 @@ For Progress comes early, and [[concepts/freedom|Freedom]] too soon."
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[songs|Canti]] dell'[[concepts/education|Educazione]]  
+Canti dell'[[concepts/education|Educazione]]  
 
 III. Per l'Asilo Nido  
 
@@ -124,7 +124,7 @@ con la cura di un bimbo di sette settimane.
 Perché la madre è felice a ungere una [[motifs/wheel|ruota]]  
 per qualcun altro, che accaparra l'Acciaio;  
 e benché il nostro unico incontro non sia stato lungo,  
-colse l'occasione per cantarmi questo [[Song|canto]]:  
+colse l'occasione per cantarmi questo canto:  
 "Oh, taci, mio bimbo, presto verrà il [[motifs/time|tempo]]  
 in cui il tuo [[motifs/sleep|sonno]] sarà rotto da fischi e ronzii;  
 ci sono leve da girare e girare tutto il giorno,  

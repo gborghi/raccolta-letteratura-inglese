@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Motifs:** [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/fire|Fire]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/good-vs-evil|Good vs Evil]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

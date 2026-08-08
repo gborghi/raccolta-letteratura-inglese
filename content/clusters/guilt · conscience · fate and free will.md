@@ -16,12 +16,12 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1216. A Deed knocks first at Thought (Dickinson)
-- 1412. Shame is the shawl of Pink (Dickinson)
-- 1598. Who is it seeks my Pillow Nights — (Dickinson)
-- 41. I robbed the Woods — (Dickinson)
-- 672. The Future — never spoke — (Dickinson)
-- 894. Of Consciousness, her awful Mate (Dickinson)
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1216_a_deed_knocks_first_at_thought|1216. A Deed knocks first at Thought (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1412_shame_is_the_shawl_of_pink|1412. Shame is the shawl of Pink (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1598_who_is_it_seeks_my_pillow_nights|1598. Who is it seeks my Pillow Nights — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0041_i_robbed_the_woods|41. I robbed the Woods — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0672_the_future_never_spoke|672. The Future — never spoke — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0894_of_consciousness_her_awful_mate|894. Of Consciousness, her awful Mate (Dickinson)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/nature’s-answer-(coleridge)|NATURE’S ANSWER (Coleridge)]]

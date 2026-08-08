@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/grotesque|Grotesque]], [[concepts/poverty|Poverty]], [[concepts/reform|Reform]]
 **Forms & Genres:** [[forms/satire|Satire]]

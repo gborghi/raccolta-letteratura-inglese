@@ -31,7 +31,7 @@ The Speaker, 29 March 1902 1
 On Manners
 Daily News, 18 July 1902 5
 
-For Persons of the Name of [[smith|Smith]]
+For Persons of the Name of Smith
 Daily News, 28 November 1902 9
 
 The True [[concepts/vanity|Vanity]] of Vanities
@@ -46,7 +46,7 @@ Daily News, 14 March 1908 18
 Something
 Daily News, 9 July 1910 22
 
-[[asparagus|Asparagus]]
+Asparagus
 New Witness, 18 June 1914.
 
 The English Spirit and the Flea
@@ -270,7 +270,7 @@ useful at the first glance; the French cottager turns
 those rags and bones into exquisite and civilised dishes.
 Economy is only another name for universalism; the true poet regards
 every earthly object as having some value and secret utility--
-with the possible exception of a [[motifs/dust|dust]]-cart. The old [[Romance|romance]]
+with the possible exception of a [[motifs/dust|dust]]-cart. The old romance
 of life was held to consist in expense--in the jewels and perfumes
 of the ‘Arabian Nights', in the cushion and cigars of Ouida.
 The newer and truer romance will be the romance of cheapness.
@@ -411,7 +411,7 @@ prima vista; il contadino francese trasforma quegli stracci e quelle ossa
 in piatti squisiti e civili. Economia è solo un altro nome per
 universalismo; il vero poeta considera ogni oggetto terreno come dotato
 di qualche valore e di una segreta utilità — con la possibile eccezione
-del carro della [[motifs/dust|polvere]]. L'antico [[Romance|romanticismo]] della
+del carro della [[motifs/dust|polvere]]. L'antico romanticismo della
 vita si riteneva consistesse nella spesa — nei gioielli e nei profumi
 delle «Mille e una notte», nel cuscino e nei sigari di Ouida. Il nuovo
 e più vero romanticismo sarà il romanticismo del buon mercato. Si volgerà
@@ -487,7 +487,7 @@ But the actual [[concepts/nature|nature]] of the bad manners which constitute
 the chief characteristic of good society is worthy, it may be,
 of somewhat more profound examination and definition.
 For the manners which we see in the centres of social life
-such as the [[house|House]] of Commons are really bad, not in the sense
+such as the House of Commons are really bad, not in the sense
 that they are insufficient or ignorant, but in the sense that
 they violate what is the whole object and meaning of manners.
 
@@ -567,7 +567,7 @@ attempt to indicate that we care for nothing in earth or Heaven.
 Uneducated people, that is to say, have no manners, educated people
 have bad manners.
 
-Nobody can visit the [[house|House]] of Commons without coming away
+Nobody can visit the House of Commons without coming away
 with the general impression that the art cultivated by the young
 country gentleman is the art of doing his worst elegantly;
 and to do one's worst, however elegantly, remains what it is,
@@ -575,7 +575,7 @@ the one and solitary supreme insult.  If a man throws his worst or his
 tenth best to anything, it matters nothing if the thing he throws
 be the Iliad or a casket of sapphires, it still remains an insult.
 And this insult to the ancient English Parliament is expressed in
-every line of the figures of the [[motifs/well|well]]-dressed Members of the [[house|House]].
+every line of the figures of the [[motifs/well|well]]-dressed Members of the House.
 A man with a million genuine and intellectual charms, is supposed
 to be a man with good manners.  This simply means that he exhibits
 an unusual degree of physical grace in the act of putting his
@@ -617,7 +617,7 @@ e soddisfacente in due sezioni ben definite. Ma la [[concepts/nature|natura]]
 effettiva delle cattive maniere che costituiscono la caratteristica
 principale della buona società è degna, forse, di un esame e di una
 definizione alquanto più profondi. Poiché le maniere che vediamo nei
-centri della vita sociale, come la [[house|Camera]] dei Comuni, sono
+centri della vita sociale, come la Camera dei Comuni, sono
 realmente cattive, non nel senso che siano insufficienti o ignoranti,
 ma nel senso che violano ciò che è l'intero scopo e significato delle
 maniere.
@@ -696,7 +696,7 @@ riuscito d'indicare che non ci importa nulla in terra o in Cielo. Le
 persone incolte, vale a dire, non hanno maniere, le persone colte hanno
 cattive maniere.
 
-Nessuno può visitare la [[house|Camera]] dei Comuni senza portarne via
+Nessuno può visitare la Camera dei Comuni senza portarne via
 l'impressione generale che l'arte coltivata dal giovane gentiluomo di
 campagna sia l'arte di fare il proprio peggio con eleganza; e fare il
 proprio peggio, per quanto elegantemente, resta ciò che è, l'unico e
@@ -704,7 +704,7 @@ solitario supremo insulto. Se un uomo getta il proprio peggio o il proprio
 decimo meglio a una cosa qualsiasi, non conta nulla che la cosa che getta
 sia l'Iliade o uno scrigno di zaffiri, rimane pur sempre un insulto. E
 questo insulto all'antico Parlamento inglese è espresso in ogni linea
-delle figure dei Membri [[motifs/well|ben]] vestiti della [[house|Camera]]. Un
+delle figure dei Membri [[motifs/well|ben]] vestiti della Camera. Un
 uomo con un milione di fascini genuini e intellettuali si suppone sia un
 uomo dalle buone maniere. Ciò significa semplicemente che egli esibisce un
 grado insolito di grazia fisica nell'atto di posare gli stivali a un piede
@@ -718,7 +718,7 @@ dell'indifferenza.
 <span class="atom-split" data-atom="story_03_for_persons_of_the_name_of_smith_smith" data-title="Wild Ducks — For Persons of the Name of Smith" data-chapter="For Persons of the Name of smith Smith" data-kind="story" data-tags="archetype/hero,motif/blood,motif/fire,motif/nature,motif/time,concept/democracy,concept/history,concept/nature,concept/pride,form/fable,form/history,character/christ,character/henry_viii,character/jones"></span>
 
 
-For Persons of the Name of [[smith|Smith]]
+For Persons of the Name of Smith
 
 Some [[motifs/time|time]] ago Mr C. F. G. Masterman led a vigorous attack upon
 my timid and humble optimism, and declared in effect that when I
@@ -775,32 +775,32 @@ the brute calm of [[concepts/nature|Nature]], the passionate cunning of man,
 the origin of a thousand sciences and arts, the ploughing of fields,
 the hewing of wood, the arraying of armies, and the whole
 beginning of arms, these things are written with brevity indeed,
-but with perfect clearness, on the visiting card of Mr [[smith|Smith]].
-The Smiths are a [[house]] of arrogant antiquity, of prehistoric simplicity.
+but with perfect clearness, on the visiting card of Mr Smith.
+The Smiths are a house of arrogant antiquity, of prehistoric simplicity.
 It would not be at all remarkable if a certain contemptuous
 carriage of the head, a certain curl of the lip, marked people
-whose name was [[smith|Smith]].  Yet novelists, when they wish to describe
+whose name was Smith.  Yet novelists, when they wish to describe
 a [[archetypes/hero|hero]] as strong and romantic, persistently call him Vernon Aylmer,
 which means nothing, or Bertrand Vallance, which means nothing;
 while all the [[motifs/time|time]] it is in their power to give him the sacred
-name of [[smith|Smith]], this name made of iron and [[motifs/fire|fire]].  From the very
+name of Smith, this name made of iron and [[motifs/fire|fire]].  From the very
 beginnings of [[concepts/history|history]] and [[forms/fable|fable]] this clan has gone forth to battle;
 their trophies are in every hand, their name is everywhere;
 they are older than the nations, and their sign is the Hammer of Thor.
 
-Anyone whose name is [[smith|Smith]] may be connected with a [[smith|Smith]]
-who was a lawyer in the reign of [[characters/henry-viii|Henry VIII]], or a [[smith|Smith]]
+Anyone whose name is Smith may be connected with a Smith
+who was a lawyer in the reign of [[characters/henry-viii|Henry VIII]], or a Smith
 who was a Colonel in the British army at Blenheim,
-or a [[smith|Smith]] who was a Cavalier, or a [[smith|Smith]] who was a Puritan,
-or a [[smith|Smith]] who was a Bishop, or a [[smith|Smith]] who was hanged.
+or a Smith who was a Cavalier, or a Smith who was a Puritan,
+or a Smith who was a Bishop, or a Smith who was hanged.
 All this kind of historic information exists in a very perfect form.
 But it must be remembered that the origin of a great family
 should be not merely historic, but also prehistoric.
 Every single practical and triumphant thing in this world
 has begun, not with an accuracy, but with a legend.  These dim,
 gigantic fables are the origins of all practical things.
-And behind the dimmest and most gigantic [[smith|Smith]], we may see
-the more tremendous outlines of the formless and fabulous [[smith|Smith]]
+And behind the dimmest and most gigantic Smith, we may see
+the more tremendous outlines of the formless and fabulous Smith
 who was the son of Vulcan and the first conqueror of iron.
 The shame which many people seem to feel about owning to such
 a patronymic or tracing its origin, is an extraordinary thing,
@@ -827,7 +827,7 @@ For the single case of the name ‘Smith' is sufficient to indicate
 what profundities of origin and significance lie in all our names.
 The case of Smith is no mere accident; the case would be the same
 with any one of the common names which we account prosaic
-or absurd.  ‘[[characters/jones|Jones]]' is more mean and preposterous even than [[smith|Smith]],
+or absurd.  ‘[[characters/jones|Jones]]' is more mean and preposterous even than Smith,
 and even those who bear the name of [[characters/jones|Jones]] do not probably remember
 that it is but a corruption of the name that [[characters/christ|Christ]] loved.
 There is not one of us that is not noble in origin, whatever we
@@ -836,7 +836,7 @@ may be in essence.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Per le persone di nome [[smith|Smith]]
+Per le persone di nome Smith
 
 Qualche [[motifs/time|tempo]] fa il signor C. F. G. Masterman condusse un vigoroso
 attacco contro il mio timido e umile ottimismo, e dichiarò in sostanza
@@ -890,32 +890,32 @@ calma della [[concepts/nature|Natura]], l'appassionata astuzia dell'uomo, l'orig
 di mille scienze e arti, l'aratura dei campi, il taglio del legno, lo
 schieramento degli eserciti, e l'intero principio delle armi: queste cose
 sono scritte con brevità, sì, ma con perfetta chiarezza, sul biglietto da
-visita del signor [[smith|Smith]]. Gli Smith sono una [[house|casata]] di
+visita del signor Smith. Gli Smith sono una casata di
 arrogante antichità, di preistorica semplicità. Non sarebbe affatto
 sorprendente se un certo sprezzante portamento del capo, una certa piega
-del labbro, contrassegnassero le persone il cui nome fosse [[smith|Smith]].
+del labbro, contrassegnassero le persone il cui nome fosse Smith.
 Eppure i romanzieri, quando vogliono descrivere un [[archetypes/hero|eroe]] come forte
 e romantico, ostinatamente lo chiamano Vernon Aylmer, che non significa
 nulla, o Bertrand Vallance, che non significa nulla; mentre in ogni momento
-è in loro potere dargli il sacro nome di [[smith|Smith]], questo nome fatto
+è in loro potere dargli il sacro nome di Smith, questo nome fatto
 di ferro e [[motifs/fire|fuoco]]. Fin dai primissimi inizi della [[concepts/history|storia]]
 e della [[forms/fable|favola]] questo clan è andato in battaglia; i loro trofei
 sono in ogni mano, il loro nome è ovunque; sono più antichi delle nazioni,
 e il loro segno è il Martello di Thor.
 
-Chiunque porti il nome di [[smith|Smith]] può essere imparentato con uno
-[[smith|Smith]] che fu avvocato al tempo di [[characters/henry-viii|Enrico VIII]], o
-con uno [[smith|Smith]] che fu colonnello nell'esercito britannico a
-Blenheim, o con uno [[smith|Smith]] che fu Cavaliere realista, o con uno
-[[smith|Smith]] che fu Puritano, o con uno [[smith|Smith]] che fu Vescovo,
-o con uno [[smith|Smith]] che fu impiccato. Tutte queste informazioni
+Chiunque porti il nome di Smith può essere imparentato con uno
+Smith che fu avvocato al tempo di [[characters/henry-viii|Enrico VIII]], o
+con uno Smith che fu colonnello nell'esercito britannico a
+Blenheim, o con uno Smith che fu Cavaliere realista, o con uno
+Smith che fu Puritano, o con uno Smith che fu Vescovo,
+o con uno Smith che fu impiccato. Tutte queste informazioni
 storiche esistono in forma assai perfetta. Ma bisogna ricordare che
 l'origine di una grande famiglia dovrebbe essere non meramente storica, ma
 anche preistorica. Ogni singola cosa pratica e trionfante di questo mondo
 è cominciata non con un'esattezza, ma con una leggenda. Queste favole vaghe
 e gigantesche sono le origini di tutte le cose pratiche. E dietro il più
-vago e gigantesco [[smith|Smith]], possiamo scorgere i più tremendi
-contorni dell'informe e favoloso [[smith|Smith]] che fu figlio di Vulcano
+vago e gigantesco Smith, possiamo scorgere i più tremendi
+contorni dell'informe e favoloso Smith che fu figlio di Vulcano
 e primo conquistatore del ferro. La vergogna che molti sembrano provare
 nell'ammettere un tale patronimico o nel rintracciarne l'origine è una cosa
 straordinaria, ma è parte di un male molto profondo e generale che va
@@ -939,7 +939,7 @@ nome «Smith» basta a indicare quali profondità di origine e di significato
 giacciono in tutti i nostri nomi. Il caso di Smith non è un mero accidente;
 il caso sarebbe lo stesso con uno qualsiasi dei nomi comuni che reputiamo
 prosaici o assurdi. «[[characters/jones|Jones]]» è ancor più meschino e assurdo persino di
-[[smith|Smith]], e perfino coloro che portano il nome di [[characters/jones|Jones]]
+Smith, e perfino coloro che portano il nome di [[characters/jones|Jones]]
 probabilmente non ricordano che esso non è che una corruzione del nome che
 [[characters/christ|Cristo]] amò. Non ve n'è uno tra noi che non sia nobile per
 origine, qualunque cosa possiamo essere in essenza.
@@ -1130,7 +1130,7 @@ ci rende tutti uguali.
 Written in the Sand
 
 In the mid-way of this our mortal life, I find myself
-(as in one of the changes of [[A Dream|a dream]]) at a watering-place on
+(as in one of the changes of a dream) at a watering-place on
 the East Coast.  I find among other things that it is raining
 and that my fellow creatures, or at least my fellow visitors,
 are in a state of irrational indignation over that circumstance.
@@ -1203,7 +1203,7 @@ in large letters all over the newspapers, ‘What is Wrong?'
 
 The thing that is wrong is a certain fallacy with which we
 English have comforted ourselves for same decades, which may be
-called the fallacy of [[unity]], or in another and slighter form,
+called the fallacy of unity, or in another and slighter form,
 the fallacy of sociability.  What I mean is this, that we
 have fallen into a habit of regarding the fact that some school
 or nation is full of quarrelling as a sign that it is weak.
@@ -1216,7 +1216,7 @@ It is simply that they have something to do.  The reason that
 the French groups split and fight is not that they are Latins;
 it is not even that they are French.  It is simply that they
 have something to do.  And the reason that English politicians
-work together in [[unity]] is certainly not that they are English.
+work together in unity is certainly not that they are English.
 It is that they have nothing to do; when, for instance, they had
 James II to dethrone, or when they had Walpole to howl against,
 or when they had Napoleon to fight, they behaved exactly as
@@ -1235,7 +1235,7 @@ begin to disagree about it.
 Scritto sulla sabbia
 
 Nel mezzo del cammino di questa nostra vita mortale, mi ritrovo (come in
-uno dei mutamenti di [[A Dream|un sogno]]) in una stazione balneare della
+uno dei mutamenti di un sogno) in una stazione balneare della
 Costa Orientale. Trovo, tra le altre cose, che sta piovendo e che le mie
 creature simili, o almeno i miei compagni villeggianti, versano in uno
 stato d'irrazionale indignazione per tale circostanza. «Com'è paradossale
@@ -1302,7 +1302,7 @@ costituiscono la risposta a quella domanda che è posta a grandi lettere su
 tutti i giornali: «Cosa non va?»
 
 La cosa che non va è un certo errore con cui noi Inglesi ci siamo consolati
-per alcuni decenni, e che può chiamarsi l'errore dell'[[unity|unità]], o,
+per alcuni decenni, e che può chiamarsi l'errore dell'unità, o,
 in altra e più lieve forma, l'errore della socievolezza. Ciò che intendo è
 questo: che siamo caduti nell'abitudine di considerare il fatto che una
 qualche scuola o nazione sia piena di litigi come un segno che essa è
@@ -1314,7 +1314,7 @@ Celti. Non è nemmeno che siano Irlandesi. È semplicemente che hanno
 qualcosa da fare. La ragione per cui i gruppi francesi si scindono e si
 combattono non è che siano Latini; non è nemmeno che siano Francesi. È
 semplicemente che hanno qualcosa da fare. E la ragione per cui i politici
-inglesi lavorano insieme in [[unity|unità]] non è certo che siano Inglesi.
+inglesi lavorano insieme in unità non è certo che siano Inglesi.
 È che non hanno nulla da fare; quando, per esempio, ebbero da detronizzare
 Giacomo II, o quando ebbero Walpole contro cui strepitare, o quando ebbero
 Napoleone da combattere, si comportarono esattamente come fanno i Francesi
@@ -1344,7 +1344,7 @@ I did not.
 I gave some of my reasons.  I did not give my first and firmest
 and most unhesitating reason, which was this:  that I knew quite
 [[motifs/well|well]] that if I had treated the lady herself for four consecutive
-minutes as a comrade she would have ordered me out of the [[house]].
+minutes as a comrade she would have ordered me out of the house.
 But I gave some other reasons.  I remarked that [[concepts/comradeship|comradeship]] was
 a quite special thing; that it was quite different from [[concepts/friendship|friendship]].
 I said (and this, oddly enough, I believe to be profoundly true)
@@ -1361,7 +1361,7 @@ I mean the fact that there is in Greek a dual as [[motifs/well|well]] as a plura
 Two is quite different from any other number, just as one is quite
 different from any other number:  that [[concepts/truth|truth]] is the basis of [[motifs/marriage|marriage]].
 When I knew there was a Greek dual I could easily realise
-that the Greeks gave [[philosophy]] to the world.
+that the Greeks gave philosophy to the world.
 
 My concern here is that [[concepts/comradeship|comradeship]] is essentially plural.
 Now, women are not plural.  The very word ‘women' has about it,
@@ -1489,7 +1489,7 @@ la parola [[concepts/comradeship|cameratismo]], no.
 Addussi alcune delle mie ragioni. Non addussi la mia prima e più salda e
 più risoluta ragione, che era questa: che sapevo assai [[motifs/well|bene]] che,
 se avessi trattato la dama stessa per quattro minuti consecutivi da
-camerata, mi avrebbe fatto cacciare fuori di [[house|casa]]. Ma addussi
+camerata, mi avrebbe fatto cacciare fuori di casa. Ma addussi
 alcune altre ragioni. Osservai che il [[concepts/comradeship|cameratismo]] era una
 cosa del tutto speciale; che era del tutto diverso dall'[[concepts/friendship|amicizia]].
 Dissi (e questo, per quanto strano, credo sia profondamente vero) che un
@@ -1506,7 +1506,7 @@ oltre che un plurale. Il due è del tutto diverso da ogni altro numero,
 proprio come l'uno è del tutto diverso da ogni altro numero: questa
 [[concepts/truth|verità]] è il fondamento del [[motifs/marriage|matrimonio]]. Quando seppi
 che esisteva un duale greco potei facilmente rendermi conto che i Greci
-diedero la [[philosophy|filosofia]] al mondo.
+diedero la filosofia al mondo.
 
 Ciò che qui mi preme è che il [[concepts/comradeship|cameratismo]] è essenzialmente
 plurale. Ora, le donne non sono plurali. La parola stessa «donne» ha in sé,
@@ -1812,10 +1812,10 @@ non hanno trovato?
 <span class="atom-split" data-atom="story_08_asparagus_asparagus" data-title="Wild Ducks — Asparagus" data-chapter="asparagus Asparagus" data-kind="story" data-tags="motif/food_and_feasting,concept/paradox,concept/critique_of_progress,concept/wit,concept/satire_of_society,concept/tradition,form/essay,histref/french_revolution,character/tennyson,character/scheherezade"></span>
 
 
-[[asparagus|Asparagus]]
+Asparagus
 
 At about twenty-one minutes past two today I suddenly saw that
-[[asparagus]] is the secret of aristocracy.  I was trying to put
+asparagus is the secret of aristocracy.  I was trying to put
 long limp stalks into my mouth, when the idea came into my head;
 and the stalk failed to do so.  I do not refer to any merely metaphorical
 and superficial comparisons which could easily be made between them.
@@ -1824,11 +1824,11 @@ merely that a little button at the top might be bright green.
 We might draw the moral that average aristocrats are made out much
 stronger than they are; and illustrate it from average asparagi.
 They say that any stick is good enough to beat a dog with; but did
-anyone ever try to beat a dog with a stick of [[asparagus]]?  We might draw
+anyone ever try to beat a dog with a stick of asparagus?  We might draw
 the moral that aristocratic traditions are made out much more popular
 than they really were.  'Norman' gets mispronounced as English.
 In this way three French leopards were somehow turned into British lions.
-And in this way also the solemn word [[asparagus|Asparagus]], which means nothing
+And in this way also the solemn word Asparagus, which means nothing
 so far as I know, was turned by the populace into ‘sparrowgrass',
 which means two of the most picturesque things in the world.
 Asparagus, which I presume to have been the name of a Roman pro-consul,
@@ -1903,14 +1903,14 @@ It must tell a new tale every day or perish, like the lady
 of the Arabian Nights.  Tennyson, who was too much touched
 with this aristocratic--or snobbish--Futurism, wrote, ‘Lest one
 good custom should corrupt the world', which really means lest
-everybody should learn the right way of eating [[asparagus]].
+everybody should learn the right way of eating asparagus.
 And so, out of luxury and waste and weariness, the fever they
 call Progress came into the world.
 
-Do you tell me they don't eat [[asparagus]] with their fingers now?
+Do you tell me they don't eat asparagus with their fingers now?
 Do I not know that in some of the best houses they have little
 tongs for each person, which are charming?  Have I not heard
-that [[asparagus]] is now lowered into the open mouth on a string,
+that asparagus is now lowered into the open mouth on a string,
 or shot into the mouth with a small gun, or eaten with the toes, or not
 eaten at all?  No; I do not know, that is what I wish to point out.
 They have changed the password.
@@ -1918,10 +1918,10 @@ They have changed the password.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[asparagus|Asparago]]
+Asparago
 
 Verso le due e ventuno minuti di oggi ho visto d'un tratto che
-l'[[asparagus|asparago]] è il segreto dell'aristocrazia.  Stavo cercando di infilarmi
+l'asparago è il segreto dell'aristocrazia.  Stavo cercando di infilarmi
 in bocca lunghi e molli gambi, quando l'idea mi venne in testa;
 e il gambo non ci riuscì.  Non mi riferisco ad alcun confronto meramente metaforico
 e superficiale che si potrebbe facilmente fare tra loro.
@@ -1930,11 +1930,11 @@ e che soltanto un piccolo bottone in cima poteva essere di un verde brillante.
 Potremmo trarne la morale che gli aristocratici medi sono rappresentati molto
 più robusti di quanto siano; e illustrarla con gli asparagi medi.
 Dicono che qualsiasi bastone sia buono abbastanza per bastonare un cane; ma qualcuno
-ha mai provato a bastonare un cane con un gambo di [[asparagus|asparago]]?  Potremmo trarne
+ha mai provato a bastonare un cane con un gambo di asparago?  Potremmo trarne
 la morale che le tradizioni aristocratiche sono rappresentate molto più popolari
 di quanto in realtà fossero.  «Norman» viene pronunciato erroneamente come inglese.
 In questo modo tre leopardi francesi furono in qualche modo trasformati in leoni britannici.
-E in questo modo anche la solenne parola [[asparagus|Asparago]], che per quanto ne so
+E in questo modo anche la solenne parola Asparago, che per quanto ne so
 non significa nulla, fu trasformata dal popolino in «sparrowgrass»,
 che significa due delle cose più pittoresche del mondo.
 Asparago, che presumo sia stato il nome di un proconsole romano,
@@ -2009,14 +2009,14 @@ Deve raccontare una storia nuova ogni giorno o perire, come la dama
 delle Mille e una notte.  Tennyson, che era troppo toccato
 da questo futurismo aristocratico—o snob—scrisse: «Affinché una sola
 buona consuetudine non corrompa il mondo», che in realtà significa affinché
-tutti non imparino il modo giusto di mangiare l'[[asparagus|asparago]].
+tutti non imparino il modo giusto di mangiare l'asparago.
 E così, dal lusso e dallo spreco e dalla stanchezza, la febbre che
 chiamano Progresso venne al mondo.
 
-Mi dite che ora non mangiano l'[[asparagus|asparago]] con le dita?
+Mi dite che ora non mangiano l'asparago con le dita?
 Non so forse che in alcune delle case migliori hanno delle piccole
 pinze per ciascuno, che sono deliziose?  Non ho forse sentito
-che l'[[asparagus|asparago]] ora viene calato nella bocca aperta con uno spago,
+che l'asparago ora viene calato nella bocca aperta con uno spago,
 o sparato in bocca con un piccolo fucile, o mangiato con le dita dei piedi, o non
 mangiato affatto?  No; non lo so, ed è questo che desidero far notare.
 Hanno cambiato la parola d'ordine.
@@ -2289,19 +2289,19 @@ e ad averlo giudicato meno di un morso di pulce.
 The Hobby and the Head Waiter
 
 In the matter of property we may find an obvious but useful
-[[forms/parable|parable]] in the difference between living in a [[house]] and living
+[[forms/parable|parable]] in the difference between living in a house and living
 in an hotel.  There are some practical conveniences in the hotel;
 but there is first of all a sort of megalomaniac glamour of
 great spaces and gilded ceilings that is not practical at all.
-At best there is the [[Romance|romance]] of personal adventure and accident;
+At best there is the romance of personal adventure and accident;
 but there is no corporate and communal life.
 
-It is when we pass to the practical difference between a [[house]]
+It is when we pass to the practical difference between a house
 and an hotel that we come to the creative [[concepts/nature|nature]] of property.
 I have taken this figure of speech for convenience and clarity,
 because I do not think everybody understands what we mean by this
 creative quality.  Now a man in an hotel is entirely receptive.
-He may receive as many things as an average man in an average [[house]].
+He may receive as many things as an average man in an average house.
 He may receive more things than most modern men in most modern houses.
 But these things must all be of a certain recognised and
 conventional character.  He cannot add anything to the hotel.
@@ -2314,8 +2314,8 @@ the creative needs, as people can provide for the protective need.
 It is in the [[concepts/nature|nature]] of any creation that it is in some sense original;
 and it is in the [[concepts/nature|nature]] of anything original that it cannot be foreseen.
 There is no prophecy of poetry; there is not even any prophecy
-of prophecy.  A Futurist cannot predict a [[Song|song]] even if he can produce
-a [[Song|song]]; which is not always the case.  He cannot foresee a poem
+of prophecy.  A Futurist cannot predict a song even if he can produce
+a song; which is not always the case.  He cannot foresee a poem
 or foresee a picture; he cannot even foresee a practical joke.
 If he did, indeed, it might possibly not occur.
 
@@ -2337,7 +2337,7 @@ might [[motifs/desire|desire]] to the facts about what he does [[motifs/desire|d
 The simplest course is for each man to take himself as an example;
 as a typical and not necessarily an egotistic example.
 I am not a person especially prone by [[concepts/nature|nature]] to be a nuisance
-in an hotel; I am not a [[vegetarian]]; I am not an epicure;
+in an hotel; I am not a vegetarian; I am not an epicure;
 I can eat and drink and smoke the ordinary things provided in
 ordinary places.  But if it came to living my life in an hotel,
 especially that part of my life that is creative in the sense
@@ -2346,7 +2346,7 @@ on the bedroom [[motifs/clock|clock]] a little insufficient.  For instance, if I
 have a hobby or a potential hobby, it is probably a toy theatre.
 Hobbies imply holidays; and while it is very arguable that journalists
 do no real work; it is also true that they have no real holidays.
-But if I had no need to earn my bread and [[cheese]], and no country
+But if I had no need to earn my bread and cheese, and no country
 and no [[concepts/conscience|conscience]] and none of all those nonsensical things,
 I should settle down with a serious aim in life, which would
 be working a toy theatre.  It is to me almost as much a box
@@ -2355,7 +2355,7 @@ and I feel as if I knew that mimic world before I knew the real one.
 The gilded figures of a prince and princess glow in my [[motifs/memory|memory]]
 against black oblivion, almost before the [[motifs/memory|memory]] of my father
 who had made them for me; which things may be an [[forms/allegory|allegory]].  Now this
-example is an understatement.  I am in no sense [[Alone|alone]] in this taste;
+example is an understatement.  I am in no sense alone in this taste;
 Stevenson and my father and many others evidently shared it.
 But it is an excellent example of something which, without being
 exactly eccentric, is just sufficiently out of the ordinary way
@@ -2464,19 +2464,19 @@ a greenhouse of birds.
 L'hobby e il capocameriere
 
 In materia di proprietà possiamo trovare un'ovvia ma utile
-[[forms/parable|parabola]] nella differenza tra il vivere in una [[house|casa]] e il vivere
+[[forms/parable|parabola]] nella differenza tra il vivere in una casa e il vivere
 in un albergo.  Vi sono alcune comodità pratiche nell'albergo;
 ma vi è anzitutto una sorta di megalomane fascino di
 grandi spazi e soffitti dorati che non è affatto pratico.
-Al meglio c'è il [[Romance|romanzesco]] dell'avventura e del caso personale;
+Al meglio c'è il romanzesco dell'avventura e del caso personale;
 ma non c'è alcuna vita corporativa e comunitaria.
 
-È quando passiamo alla differenza pratica tra una [[house|casa]]
+È quando passiamo alla differenza pratica tra una casa
 e un albergo che giungiamo alla [[concepts/nature|natura]] creativa della proprietà.
 Ho preso questa figura retorica per comodità e chiarezza,
 perché non credo che tutti comprendano cosa intendiamo con questa
 qualità creativa.  Ora, un uomo in un albergo è interamente ricettivo.
-Può ricevere altrettante cose di un uomo medio in una [[house|casa]] media.
+Può ricevere altrettante cose di un uomo medio in una casa media.
 Può ricevere più cose della maggior parte degli uomini moderni nella maggior parte delle case moderne.
 Ma queste cose devono essere tutte di un certo carattere riconosciuto e
 convenzionale.  Egli non può aggiungere nulla all'albergo.
@@ -2489,8 +2489,8 @@ bisogni creativi, come si può provvedere al bisogno di protezione.
 È nella [[concepts/nature|natura]] di ogni creazione l'essere in qualche senso originale;
 ed è nella [[concepts/nature|natura]] di ogni cosa originale il non poter essere prevista.
 Non c'è profezia della poesia; non c'è neppure alcuna profezia
-della profezia.  Un Futurista non può prevedere un [[Song|canto]], anche se sa produrre
-un [[Song|canto]]; il che non è sempre il caso.  Non può prevedere un poema
+della profezia.  Un Futurista non può prevedere un canto, anche se sa produrre
+un canto; il che non è sempre il caso.  Non può prevedere un poema
 né prevedere un quadro; non può neppure prevedere uno scherzo.
 Se lo facesse, in verità, potrebbe darsi che non avvenga.
 
@@ -2512,7 +2512,7 @@ potrebbe [[motifs/desire|desiderare]] ai fatti su ciò che egli [[motifs/desire|
 Il modo più semplice è che ogni uomo prenda sé stesso come esempio;
 come esempio tipico e non necessariamente egoistico.
 Non sono una persona particolarmente incline per [[concepts/nature|natura]] a essere una seccatura
-in un albergo; non sono [[vegetarian|vegetariano]]; non sono un epicureo;
+in un albergo; non sono vegetariano; non sono un epicureo;
 so mangiare e bere e fumare le cose ordinarie fornite in
 luoghi ordinari.  Ma se si trattasse di vivere la mia vita in un albergo,
 specialmente quella parte della mia vita che è creativa nel senso
@@ -2521,7 +2521,7 @@ sull'[[motifs/clock|orologio]] della camera un po' insufficiente.  Per esempio, 
 un hobby o un hobby potenziale, è probabilmente un teatrino.
 Gli hobby implicano vacanze; e per quanto sia assai discutibile che i giornalisti
 facciano un vero lavoro, è anche vero che non hanno vere vacanze.
-Ma se non avessi bisogno di guadagnarmi il pane e il [[cheese|formaggio]], né un paese
+Ma se non avessi bisogno di guadagnarmi il pane e il formaggio, né un paese
 né una [[concepts/conscience|coscienza]] né tutte quelle cose insensate,
 mi metterei tranquillo con uno scopo serio nella vita, che sarebbe
 il far funzionare un teatrino.  Esso è per me quasi tanto una scatola
@@ -2530,7 +2530,7 @@ e mi sembra di aver conosciuto quel mondo mimico prima di conoscere quello reale
 Le figure dorate di un principe e di una principessa risplendono nella mia [[motifs/memory|memoria]]
 contro il nero oblio, quasi prima del [[motifs/memory|ricordo]] di mio padre
 che le aveva fatte per me; il che potrebbe essere un'[[forms/allegory|allegoria]].  Ora questo
-esempio è un'attenuazione.  Non sono in alcun senso [[Alone|solo]] in questo gusto;
+esempio è un'attenuazione.  Non sono in alcun senso solo in questo gusto;
 Stevenson e mio padre e molti altri evidentemente lo condividevano.
 Ma è un eccellente esempio di qualcosa che, senza essere
 esattamente eccentrico, è appena sufficientemente fuori dall'ordinario
@@ -3848,8 +3848,8 @@ Here and There
 Walking Tours
 
 The close of the holiday season sets most of us reflecting
-on the [[philosophy]] of travel, and many of us upon the simplest
-form of it, the [[philosophy]] of walking tours.  Among serious
+on the philosophy of travel, and many of us upon the simplest
+form of it, the philosophy of walking tours.  Among serious
 and imaginative pedestrians there are only two schools or parties,
 and one school maintains that the pedestrian should go forth
 without map or compass, and wander until a wood beckons
@@ -3873,7 +3873,7 @@ he is only a cow on a particularly long tether.
 The sending on of bags is predestination:  it is a sort of
 holiday Calvinism, when the very [[motifs/soul|soul]] of walking is free will.
 If a travelling companion is sought he should always be sought
-among those [[lovers]] of the errant and the spontaneous.
+among those lovers of the errant and the spontaneous.
 He should be sought among those true worshippers of liberty who
 feel a certain degradation whenever they take a return ticket.
 Those who are interested in antiquities should be avoided,
@@ -3953,7 +3953,7 @@ of our possible personal experience the earth contains things
 as marvellous as any fairy tale.  But we have not the wisdom
 as the men of the fairy tales had, the wisdom to call these places
 fairyland or the [[settings/castle|castle]] east of the sun and west of the [[motifs/moon|moon]].
-We call them Jonestown, and [[smith|Smith]]'s [[motifs/river|River]], and Snooksville, U.S.A.
+We call them Jonestown, and Smith's [[motifs/river|River]], and Snooksville, U.S.A.
 
 The perfect pedestrian should always set forth like the third son
 in the fairy tale.  It is a mystic and beautiful dispensation
@@ -3983,8 +3983,8 @@ Qui e là
 Gite a piedi
 
 La fine della stagione delle vacanze spinge la maggior parte di noi a riflettere
-sulla [[philosophy|filosofia]] del viaggiare, e molti di noi sulla forma più semplice
-di essa, la [[philosophy|filosofia]] delle gite a piedi.  Fra i pedoni seri
+sulla filosofia del viaggiare, e molti di noi sulla forma più semplice
+di essa, la filosofia delle gite a piedi.  Fra i pedoni seri
 e dotati di immaginazione vi sono soltanto due scuole o partiti,
 e una scuola sostiene che il pedone debba mettersi in cammino
 senza mappa né bussola, e vagare finché un bosco non lo inviti
@@ -4008,7 +4008,7 @@ Allora egli non è più una cosa selvatica come il falco o la lepre,
 L'inviare avanti le valigie è predestinazione:  è una sorta di
 calvinismo da vacanza, mentre l'anima stessa del camminare è libero arbitrio.
 Se si cerca un compagno di viaggio, lo si dovrebbe sempre cercare
-fra quegli [[lovers|amanti]] dell'errante e dello spontaneo.
+fra quegli amanti dell'errante e dello spontaneo.
 Lo si dovrebbe cercare fra quei veri adoratori della libertà che
 provano una certa degradazione ogni volta che prendono un biglietto di andata e ritorno.
 Coloro che si interessano di antichità andrebbero evitati,
@@ -4088,7 +4088,7 @@ della nostra possibile esperienza personale la terra contiene cose
 meravigliose quanto qualsiasi fiaba.  Ma non abbiamo la saggezza
 che avevano gli uomini delle fiabe, la saggezza di chiamare questi luoghi
 paese delle fate o il [[settings/castle|castello]] a est del sole e a ovest della [[motifs/moon|luna]].
-Li chiamiamo Jonestown, e [[smith|Smith]]'s [[motifs/river|River]], e Snooksville, U.S.A.
+Li chiamiamo Jonestown, e Smith's [[motifs/river|River]], e Snooksville, U.S.A.
 
 Il pedone perfetto dovrebbe sempre mettersi in cammino come il terzo figlio
 nella fiaba.  È una mistica e bella disposizione
@@ -4467,10 +4467,10 @@ It has the [[concepts/beauty|beauty]] of a sepulchre, because so many of the sha
 and colours that are seen are but the coloured crests
 or monuments upon the more precious bodies underground.
 It has the [[concepts/beauty|beauty]] of a store-cupboard, the [[concepts/beauty|beauty]] of a fairy tale.
-Cabbages [[Alone|alone]] have all the colours of the sea.  I am forced,
+Cabbages alone have all the colours of the sea.  I am forced,
 I find, to conclude these reflections for the moment.
 But I trust that before I resume my reflections on kitchen
-gardens someone will have brought out a book of amatory [[Poems|poems]]
+gardens someone will have brought out a book of amatory poems
 in which all the similes shall have been drawn from this nobler
 and more fruitful Eden.  I do not see why he should not say that
 in a lady's cheek the turnip and the carrot fought for supremacy.
@@ -4580,10 +4580,10 @@ Ha la [[concepts/beauty|bellezza]] di un sepolcro, perché così tante delle for
 e dei colori che si vedono non sono che i cimieri colorati
 o i monumenti sopra i più preziosi corpi sotterranei.
 Ha la [[concepts/beauty|bellezza]] di una dispensa, la [[concepts/beauty|bellezza]] di una fiaba.
-I cavoli [[Alone|soli]] hanno tutti i colori del mare.  Sono costretto,
+I cavoli soli hanno tutti i colori del mare.  Sono costretto,
 mi accorgo, a concludere per il momento queste riflessioni.
 Ma confido che prima di riprendere le mie riflessioni sugli orti
-qualcuno avrà pubblicato un libro di [[Poems|poesie]] amorose
+qualcuno avrà pubblicato un libro di poesie amorose
 in cui tutte le similitudini saranno tratte da questo più nobile
 e più fruttuoso Eden.  Non vedo perché non dovrebbe dire che
 sulla guancia di una dama la rapa e la carota si contendessero il primato.
@@ -4666,7 +4666,7 @@ The thing he wanted to say was--Could anybody there say he'd ever
 cut down any man's wages?  This seemed to me a very essential,
 a very serious, and a very manly challenge, immeasurably more
 important not only than anything said at our meeting, but than
-anything that is ever said in the [[house|House]] of Commons.
+anything that is ever said in the House of Commons.
 
 It was followed by a kind of restless [[motifs/silence|silence]], such as occurs in such
 mobs at such moments, and in the next instant there was drama.
@@ -4790,7 +4790,7 @@ La cosa che voleva dire era: poteva qualcuno lì presente dire che egli avesse m
 tagliato il salario a un uomo?  Questa mi parve una sfida assai essenziale,
 assai seria, e assai virile, incommensurabilmente più
 importante non solo di qualsiasi cosa detta al nostro comizio, ma di
-qualsiasi cosa venga mai detta alla [[house|Camera]] dei Comuni.
+qualsiasi cosa venga mai detta alla Camera dei Comuni.
 
 Fu seguita da una sorta di irrequieto [[motifs/silence|silenzio]], come accade in simili
 folle in simili momenti, e nell'istante successivo ci fu dramma.
@@ -4850,7 +4850,7 @@ The Largest [[motifs/window|Window]] in the World
 
 It is a terrible thing to have trod on battlefields before
 they were fought.  It gives a man a cold and ghostly shiver,
-as of being the babe [[unborn]].  But I was a boy, and almost
+as of being the babe unborn.  But I was a boy, and almost
 a babe, when I was first in Belgium; and I can only write
 down the reality that impressed me then.  Beyond some streets
 burning with brassware, which seemed perpetually on sale,
@@ -4880,13 +4880,13 @@ strike something slightly depressing.  But any strip of Belgium
 will be a string of jewels.  Note, thirdly, that the thinness
 of the outlook is largely due to the thickness of the walls.
 There is no trace of what vulgar people call ‘a vista':
-the [[house]] does not open up indefinitely to the world outside.
+the house does not open up indefinitely to the world outside.
 The man of Memlinc sees the world from his [[motifs/window|window]].
 But it is still the final fact that the [[motifs/window|window]] was his [[motifs/window|window]]
 and the world is not his world.  I should have thought it, then,
 quite inconceivable that any one would assail that turret.
 But I should have thought it equally inconceivable that any one
-should fail to defend it.  A man living in such a [[house]] might
+should fail to defend it.  A man living in such a house might
 almost shut the front door to protect the [[concepts/beauty|beauty]] of the [[motifs/window|window]].
 
 I have never been in Belgium since; I have never met any who would
@@ -4914,7 +4914,7 @@ La Più Grande [[motifs/window|Finestra]] del Mondo
 
 È una cosa terribile aver calcato campi di battaglia prima
 che fossero combattuti.  Dà a un uomo un brivido freddo e spettrale,
-come di essere il bimbo [[unborn|non ancora nato]].  Ma ero un ragazzo, e quasi
+come di essere il bimbo non ancora nato.  Ma ero un ragazzo, e quasi
 un bimbo, quando fui la prima volta in Belgio; e non posso che mettere
 per iscritto la realtà che allora mi colpì.  Oltre certe strade
 sfavillanti di oggetti d'ottone, che parevano perennemente in vendita,
@@ -4944,13 +4944,13 @@ incappi in qualcosa di lievemente deprimente.  Ma qualunque striscia di Belgio
 sarà una collana di gioielli.  Si noti, in terzo luogo, che la sottigliezza
 della veduta è in gran parte dovuta allo spessore delle mura.
 Non v'è traccia di ciò che la gente volgare chiama ‘una prospettiva':
-la [[house|casa]] non si apre indefinitamente al mondo esterno.
+la casa non si apre indefinitamente al mondo esterno.
 L'uomo di Memling vede il mondo dalla sua [[motifs/window|finestra]].
 Ma resta pur sempre il fatto ultimo che la [[motifs/window|finestra]] era la sua [[motifs/window|finestra]]
 e il mondo non è il suo mondo.  Avrei allora ritenuto
 del tutto inconcepibile che qualcuno assalisse quella torretta.
 Ma avrei ritenuto altrettanto inconcepibile che qualcuno
-mancasse di difenderla.  Un uomo che vivesse in una tale [[house|casa]] potrebbe
+mancasse di difenderla.  Un uomo che vivesse in una tale casa potrebbe
 quasi chiudere la porta d'ingresso per proteggere la [[concepts/beauty|bellezza]] della [[motifs/window|finestra]].
 
 Non sono mai più stato in Belgio da allora; non ho mai incontrato alcuno che
@@ -5353,7 +5353,7 @@ who likes Jerusalem artichokes should take staff and scrip
 and make a pilgrimage to Jerusalem.  I do not say that Turkish
 delight should delight none but Turks or travellers in Turkey.
 I do not even insist (though it would be a fine heroic idea,
-worthy of a [[Romance|romance]] of Scott or Stevenson) that no person should
+worthy of a romance of Scott or Stevenson) that no person should
 be permitted to taste Edinburgh Rock until he has earned it by
 scaling the steep and splendid facade of the Rock of Edinburgh.
 Some of these are merely names; and some of them do still carry
@@ -5364,7 +5364,7 @@ very glory was in being provincial.
 
 It was worth a man's while to go from one town to another,
 and even from one county to another, to find things that he could
-not find at [[motifs/home|home]].  Thus there was a very real [[Romance|romance]] of travel,
+not find at [[motifs/home|home]].  Thus there was a very real romance of travel,
 for romantic as [[motifs/well|well]] as for religious pilgrims.  The traveller
 plodded along the Bath [[motifs/road|Road]] sustained from afar by the vista
 of the Bath Bun.  He saw the cake peculiar to Richmond shining
@@ -5493,7 +5493,7 @@ ami i topinambur debba prendere bordone e bisaccia
 e fare un pellegrinaggio a Gerusalemme.  Non dico che il gaudio
 turco debba deliziare nessuno tranne i turchi o i viaggiatori in Turchia.
 Non insisto nemmeno (benché sarebbe una bella idea eroica,
-degna di un [[Romance|romanzo]] di Scott o di Stevenson) che a nessuno debba
+degna di un romanzo di Scott o di Stevenson) che a nessuno debba
 essere permesso di assaggiare l'Edinburgh Rock finché non se lo sia guadagnato
 scalando la ripida e splendida facciata della Rocca di Edimburgo.
 Alcuni di questi sono meri nomi; e alcuni di essi portano ancora
@@ -5504,7 +5504,7 @@ gloria stessa consisteva nell'essere provinciali.
 
 Valeva la pena per un uomo andare da una città a un'altra,
 e perfino da una contea a un'altra, per trovare cose che non poteva
-trovare a [[motifs/home|casa]].  C'era così un [[Romance|Romanticismo]] assai reale del viaggio,
+trovare a [[motifs/home|casa]].  C'era così un Romanticismo assai reale del viaggio,
 per pellegrini romantici oltre che religiosi.  Il viaggiatore
 arrancava lungo la [[motifs/road|strada]] di Bath, sostenuto da lontano dalla vista
 della Focaccina di Bath.  Vedeva il dolce peculiare di Richmond splendere
@@ -5605,7 +5605,7 @@ Few ordinary Englishmen, whether Imperialist or Internationalist,
 have ever really grasped even what was meant by the [[concepts/greatness|greatness]]
 of France.  But the Internationalist has grasped it much
 less than the Imperialist.  There is much more sense of it
-in the [[Poems|poems]] of Mr Kipling than in the pamphlets of Mr Wells.
+in the poems of Mr Kipling than in the pamphlets of Mr Wells.
 But what is really needed is a widening of English culture,
 so as to understand what was really valued in French culture.
 Passing over all that earlier French [[concepts/history|history]], in which the [[archetypes/king|King]]
@@ -5614,7 +5614,7 @@ note even in passing that the [[historical-references/crusades|Crusades]] were a
 and we only fail to realise the fact because at that [[motifs/time|time]]
 our own monarchy and nobility were as French as the French.
 St Louis did not succeed in his Crusade; not even with the abortive
-[[success]] of Coeur de [[motifs/lion|Lion]].  But St Louis does explain the [[historical-references/crusades|Crusades]],
+success of Coeur de [[motifs/lion|Lion]].  But St Louis does explain the [[historical-references/crusades|Crusades]],
 while Coeur de [[motifs/lion|Lion]] rather confuses them.  The main modern
 matter of which I speak, however, begins with the [[historical-references/renaissance|Renaissance]]
 and all that gigantic tradition that springs from Rabelais.
@@ -5640,9 +5640,9 @@ has a truly imaginative and therefore understanding
 description of one of those great pageants in which royalty
 was such a reality that it could carry any load of artifice;
 and in which it seemed something quite spiritual and spontaneous,
-like a [[Song|song]], that the [[archetypes/king|King]] should not only go clad in gold,
+like a song, that the [[archetypes/king|King]] should not only go clad in gold,
 but clothed with the sun.  Mr Maurice Baring has repeatedly
-insisted with great force and [[Humour|humour]], that the notion that Racine
+insisted with great force and humour, that the notion that Racine
 is merely stilted and dull is worth as much as the impression
 of a Breton fisherman that [[historical-references/milton|Milton]] is only stilted and dull:
 it arises from the rather simple cause of incapacity to read
@@ -5743,7 +5743,7 @@ Pochi inglesi comuni, siano essi imperialisti o internazionalisti,
 hanno mai davvero afferrato anche solo che cosa si intendesse per [[concepts/greatness|grandezza]]
 della Francia.  Ma l'internazionalista l'ha afferrata assai
 meno dell'imperialista.  Ve n'è molto più sentore
-nelle [[Poems|poesie]] del signor Kipling che negli opuscoli del signor Wells.
+nelle poesie del signor Kipling che negli opuscoli del signor Wells.
 Ma ciò di cui c'è davvero bisogno è un ampliamento della cultura inglese,
 tale da comprendere ciò che veniva davvero apprezzato nella cultura francese.
 Sorvolando su tutta quella più antica [[concepts/history|storia]] francese, in cui il [[archetypes/king|re]]
@@ -5752,7 +5752,7 @@ notare anche solo di sfuggita che le [[historical-references/crusades|crociate]]
 e non riusciamo a coglierne il fatto soltanto perché a quel [[motifs/time|tempo]]
 la nostra stessa monarchia e nobiltà erano francesi quanto i francesi.
 San Luigi non riuscì nella sua crociata; nemmeno con l'abortivo
-[[success|successo]] di Cuor di [[motifs/lion|Leone]].  Ma San Luigi spiega davvero le [[historical-references/crusades|crociate]],
+successo di Cuor di [[motifs/lion|Leone]].  Ma San Luigi spiega davvero le [[historical-references/crusades|crociate]],
 mentre Cuor di [[motifs/lion|Leone]] piuttosto le confonde.  La principale questione
 moderna di cui parlo, tuttavia, comincia con il [[historical-references/renaissance|Rinascimento]]
 e con tutta quella gigantesca tradizione che scaturisce da Rabelais.
@@ -5778,9 +5778,9 @@ offre una descrizione davvero immaginifica e perciò
 comprensiva di uno di quei grandi cortei in cui la regalità
 era una realtà tale da poter reggere qualsiasi carico di artificio;
 e in cui pareva qualcosa di tutto spirituale e spontaneo,
-come una [[Song|canzone]], che il [[archetypes/king|re]] non solo andasse rivestito d'oro,
+come una canzone, che il [[archetypes/king|re]] non solo andasse rivestito d'oro,
 ma ammantato di sole.  Il signor Maurice Baring ha ripetutamente
-insistito con grande forza e [[Humour|umorismo]] sul fatto che l'idea che Racine
+insistito con grande forza e umorismo sul fatto che l'idea che Racine
 sia soltanto ampolloso e noioso vale quanto l'impressione
 di un pescatore bretone secondo cui [[historical-references/milton|Milton]] è solo ampolloso e noioso:
 essa nasce dalla causa piuttosto semplice dell'incapacità di leggere
@@ -6047,7 +6047,7 @@ Subject to this philological parenthesis, it is true that some at least
 maintain that the name is derived from an old word for a beech tree.
 Certainly there could be no more appropriate name and no more
 symbolic and inspiring thing.  For the beech tree has a special
-representative quality in all this [[rolling]] wooded landscape,
+representative quality in all this rolling wooded landscape,
 which makes up the central and southern parts of Buckinghamshire;
 and through the county a real relation to the country.
 A Sussex man, himself boiling over with enthusiasm for Sussex,
@@ -6161,7 +6161,7 @@ Fatta salva questa parentesi filologica, è vero che almeno alcuni
 sostengono che il nome derivi da un'antica parola per faggio.
 Certamente non potrebbe esservi nome più appropriato né cosa più
 simbolica e ispiratrice.  Poiché il faggio ha una speciale
-qualità rappresentativa in tutto questo [[rolling|ondulato]] paesaggio boscoso,
+qualità rappresentativa in tutto questo ondulato paesaggio boscoso,
 che compone le parti centrali e meridionali del Buckinghamshire;
 e attraverso la contea una vera relazione con la campagna.
 Un uomo del Sussex, egli stesso traboccante d'entusiasmo per il Sussex,
@@ -6601,7 +6601,7 @@ tale is for the circle of gossips and rustics; the picture
 is for the inhabited room; the miniature is for the locket.
 Even the carved church is mostly conceived for a common need,
 and even a common comfort.  But the stone statue is something
-that one can leave [[Alone|alone]] under the [[motifs/stars|stars]].
+that one can leave alone under the [[motifs/stars|stars]].
 
 It would be a strange thing if, after all, those four or five
 stone figures expressed all that has been wrong with England
@@ -6740,7 +6740,7 @@ delle vecchie comari è per il circolo dei pettegoli e dei rustici; il quadro
 è per la stanza abitata; la miniatura è per il medaglione.
 Persino la chiesa scolpita è per lo più concepita per un bisogno comune,
 e persino per un comune conforto.  Ma la statua di pietra è qualcosa
-che si può lasciare [[Alone|sola]] sotto le [[motifs/stars|stelle]].
+che si può lasciare sola sotto le [[motifs/stars|stelle]].
 
 Sarebbe cosa strana se, dopo tutto, quelle quattro o cinque
 figure di pietra esprimessero tutto ciò che è andato storto in Inghilterra
@@ -7127,7 +7127,7 @@ The Rabbi who was addressed smiled, perhaps, that rich
 smile which some find repulsive even when it is benevolent,
 and said that he did not admit this.  The old man said steadily,
 ‘Then if you do not [[motifs/love|love]] Our Lady you were very silly to come
-into her [[house]].'  He plucked the crutch from under his arm,
+into her house.'  He plucked the crutch from under his arm,
 and whirling it suddenly aloft, caught the Jew a stunning crack
 behind the ear, bringing him to the ground.  Instantly, of course,
 there was a scuffle, and the Jews were driven from the place.
@@ -7251,7 +7251,7 @@ Il rabbino a cui ci si rivolse sorrise, forse, di quel ricco
 sorriso che alcuni trovano ripugnante persino quando è benevolo,
 e disse che non lo ammetteva.  Il vecchio disse fermamente:
 «Allora, se non [[motifs/love|amate]] Nostra Signora, foste assai sciocco a venire
-nella sua [[house|casa]].»  Strappò la gruccia da sotto il braccio,
+nella sua casa.»  Strappò la gruccia da sotto il braccio,
 e roteandola all'improvviso in alto, assestò all'ebreo un colpo tramortente
 dietro l'orecchio, gettandolo a terra.  All'istante, s'intende,
 vi fu una zuffa, e gli ebrei furono cacciati dal luogo.
@@ -7286,7 +7286,7 @@ and St George, Robin Goodfellow and [[characters/robin-hood|Robin Hood]], belong
 tradition that has not even been touched by [[historical-references/puritanism|Puritanism]]; yet which is
 quite different from the tradition of Spain, of Scotland, or of France.
 Chaucer's Franklin, whose beard was white as a daisy, and in whose
-[[house]] ‘it snewed meate and drinke', was as certainly an Englishman
+house ‘it snewed meate and drinke', was as certainly an Englishman
 as he most certainly was not a Puritan.
 
 Puritanism was something put into the Englishman after
@@ -7340,10 +7340,10 @@ at the opposite extreme from the spirit of a small room either
 described by Maeterlinck or painted by Memlinc.
 
 But the case of England at least admits of no mistake.
-Not only did England produce a most [[anti-puritan|anti-Puritan]] literature
+Not only did England produce a most anti-Puritan literature
 before the Puritans existed, but it went on, under the Puritans
 and in spite of the Puritans, producing a literature that was
-quite [[anti-puritan|anti-Puritan]]. There is as little that is Puritan about
+quite anti-Puritan. There is as little that is Puritan about
 Fielding and Dickens as there is about Chaucer and Shakespeare.
 Dickens quite obviously existed to champion everything that
 the Puritans existed to destroy; when Mr Scrooge is converted
@@ -7406,7 +7406,7 @@ e san Giorgio, Robin Goodfellow e [[characters/robin-hood|Robin Hood]], apparten
 nazionale che non è stata nemmeno sfiorata dal [[historical-references/puritanism|Puritanesimo]]; eppure è
 del tutto diversa dalla tradizione di Spagna, di Scozia o di Francia.
 Il Franklin di Chaucer, la cui barba era bianca come una margherita, e nella cui
-[[house|casa]] ‘nevicava carne e bevande', era altrettanto certamente un inglese
+casa ‘nevicava carne e bevande', era altrettanto certamente un inglese
 quanto altrettanto certamente non era un Puritano.
 
 Il Puritanesimo fu qualcosa immesso nell'inglese dopo
@@ -7460,10 +7460,10 @@ stava all'estremo opposto rispetto allo spirito di una piccola stanza sia
 descritta da Maeterlinck sia dipinta da Memlinc.
 
 Ma il caso dell'Inghilterra almeno non ammette equivoco.
-Non solo l'Inghilterra produsse una letteratura quanto mai [[anti-puritan|anti-puritana]]
+Non solo l'Inghilterra produsse una letteratura quanto mai anti-puritana
 prima che i Puritani esistessero, ma continuò, sotto i Puritani
 e a dispetto dei Puritani, a produrre una letteratura del tutto
-[[anti-puritan|anti-puritana]]. C'è tanto poco di puritano in
+anti-puritana. C'è tanto poco di puritano in
 Fielding e in Dickens quanto in Chaucer e in Shakespeare.
 Dickens è esistito, del tutto ovviamente, per difendere tutto ciò che
 i Puritani sono esistiti per distruggere; quando il signor Scrooge si converte
@@ -7578,7 +7578,7 @@ but persuasive person.  Unlike these other diplomatists, he did appeal
 to the reason and [[concepts/conscience|conscience]] of other nations and other Kings.
 He did not merely try to conceal; he did not merely try to convict.
 He did not even merely try to conquer.  He did really try
-to [[convert]]--that is, to convince.  And as for his misfortunes,
+to convert--that is, to convince.  And as for his misfortunes,
 he may have deserved to be called the Corsican Ogre,
 but he never really deserved to be called the Man of Destiny.
 It was a slander of which his misfortunes should have purged
@@ -7670,7 +7670,7 @@ ma persuasiva.  A differenza di questi altri diplomatici, egli si appellava davv
 alla ragione e alla [[concepts/conscience|coscienza]] delle altre nazioni e degli altri Re.
 Non cercava soltanto di nascondere; non cercava soltanto di incolpare.
 Non cercava nemmeno soltanto di conquistare.  Cercava davvero
-di [[convert|convertire]]--cioè, di convincere.  E quanto alle sue sventure,
+di convertire--cioè, di convincere.  E quanto alle sue sventure,
 potrà aver meritato di essere chiamato l'Orco Corso,
 ma non meritò mai davvero di essere chiamato l'Uomo del Destino.
 Fu una calunnia dalla quale le sue sventure avrebbero dovuto purgarlo
@@ -7736,9 +7736,9 @@ with a decently distributed power over the means of production,
 where a common man could afford to build his own cottage.
 A club or institute may be established with enthusiasm
 and applause; it may be regarded as a mere saving of wealth
-and life by ‘keeping people out of the public [[house]]'.
+and life by ‘keeping people out of the public house'.
 But it may be regarded as a meaningless waste by people who will,
-perhaps, have restored the public [[house]] to the proper public dignity,
+perhaps, have restored the public house to the proper public dignity,
 and made the old Christian inn a place for Christian men.
 These things are at best modern medicines for modern maladies.
 They will appear to another age like some special provisions
@@ -7869,9 +7869,9 @@ con un potere decentemente distribuito sui mezzi di produzione,
 dove un uomo comune potesse permettersi di costruirsi la propria casetta.
 Un circolo o un istituto può essere fondato con entusiasmo
 e con applausi; può essere considerato un mero risparmio di ricchezza
-e di vita, nel ‘tenere la gente fuori dall'[[house|osteria]]'.
+e di vita, nel ‘tenere la gente fuori dall'osteria'.
 Ma può essere considerato uno spreco insensato da gente che avrà,
-forse, restituito all'[[house|osteria]] la giusta pubblica dignità,
+forse, restituito all'osteria la giusta pubblica dignità,
 e fatto della vecchia locanda cristiana un luogo per uomini cristiani.
 Queste cose sono, nella migliore delle ipotesi, medicine moderne per mali moderni.
 Appariranno a un'altra età come certe provvidenze speciali
@@ -8020,7 +8020,7 @@ a Peace [[motifs/ship|Ship]].
 
 These reflections occurred to me when I was recently standing in the [[motifs/city|city]]
 of Philadelphia, on which looks down the great statue of William Penn,
-whose unmarked [[motifs/grave|grave]] lies a mile or two from my own [[house]] at [[motifs/home|home]].
+whose unmarked [[motifs/grave|grave]] lies a mile or two from my own house at [[motifs/home|home]].
 And it struck me as very strange that all the millions of men with modern
 humanitarian sympathies have said so little of the immense superiority
 of that intellectual and spiritual leader to the clamorously advertised
@@ -8031,19 +8031,19 @@ Among the most curious of all curiosities of literature
 or of legend, I have actually heard a sort of romantic rumour
 (which I have never been able either to trace or test)
 that portions of the timber of the Mayflower were found in some
-strange way attached to the old Quaker meeting-[[house]] which stands
+strange way attached to the old Quaker meeting-house which stands
 beside Penn's [[motifs/grave|grave]].  I cannot imagine what the story could
 possibly mean, or how the incident can possibly be supposed
 to have come about; unless, indeed, some enthusiastic American
 globetrotter merely threw fragments of Mayflower furniture
-(said to be rather suspiciously common in the States) at any [[house]]
+(said to be rather suspiciously common in the States) at any house
 that had any connection with any founder of any American State.
 Anyhow, he might just as [[motifs/well|well]] have said that Sir Walter Raleigh
 sailed in the Mayflower as connect William Penn and his
 people with the [[concepts/fanaticism|fanaticism]] that filled that famous vessel.
-He might as [[motifs/well|well]] have hung the first Calvinistic meeting-[[house]]
+He might as [[motifs/well|well]] have hung the first Calvinistic meeting-house
 with rosaries and relics and scapularies belonging to the
-Catholic Calverts as pretend to have patched up the [[house]]
+Catholic Calverts as pretend to have patched up the house
 of the first Friends with the relics of their mortal enemies
 and persecutors, the Old Puritans.
 
@@ -8080,7 +8080,7 @@ joy drew up an elaborate plan for a eulogium on that Quaker [[archetypes/hero|he
 I set myself specially to express boundless admiration for all
 those parts of his life and opinion which his modern Puritan
 admirers do not admire.  I proposed to praise extravagantly
-his loyal and devoted sympathy with the [[house|House]] of Stuart.
+his loyal and devoted sympathy with the House of Stuart.
 I intended to point out eagerly how worthy he was of the gracious
 and glorious [[concepts/friendship|friendship]] of a man like Charles the Second.
 I meant to rub in every detail of his diplomatic and political
@@ -8162,7 +8162,7 @@ una [[motifs/ship|Nave]] della Pace.
 
 Queste riflessioni mi vennero mentre me ne stavo di recente nella [[motifs/city|città]]
 di Filadelfia, sulla quale guarda dall'alto la grande statua di William Penn,
-la cui [[motifs/grave|tomba]] senza iscrizione giace un miglio o due dalla mia stessa [[house|casa]], a [[motifs/home|casa mia]].
+la cui [[motifs/grave|tomba]] senza iscrizione giace un miglio o due dalla mia stessa casa, a [[motifs/home|casa mia]].
 E mi colpì come cosa assai strana che tutti i milioni di uomini dalle moderne
 simpatie umanitarie abbiano detto così poco dell'immensa superiorità
 di quel condottiero intellettuale e spirituale sui clamorosamente reclamizzati
@@ -8173,19 +8173,19 @@ Fra le più curiose di tutte le curiosità della letteratura
 o della leggenda, ho effettivamente udito una sorta di romantica diceria
 (che non sono mai riuscito né a rintracciare né a verificare)
 secondo cui porzioni del legname della Mayflower sarebbero state trovate in qualche
-strano modo attaccate alla vecchia [[house|casa]] di riunione quacchera che sorge
+strano modo attaccate alla vecchia casa di riunione quacchera che sorge
 accanto alla [[motifs/grave|tomba]] di Penn.  Non riesco a immaginare cosa la storia possa
 significare, o come l'episodio possa essersi mai
 verificato; a meno che, in verità, qualche entusiasta globetrotter
 americano non abbia semplicemente scagliato frammenti di mobilio della Mayflower
-(che si dice siano piuttosto sospettosamente comuni negli Stati) contro ogni [[house|casa]]
+(che si dice siano piuttosto sospettosamente comuni negli Stati) contro ogni casa
 che avesse qualche connessione con qualche fondatore di qualche Stato americano.
 Comunque, avrebbe potuto altrettanto [[motifs/well|bene]] dire che sir Walter Raleigh
 veleggiò sulla Mayflower quanto collegare William Penn e la sua
 gente col [[concepts/fanaticism|fanatismo]] che riempiva quel famoso vascello.
-Avrebbe potuto altrettanto [[motifs/well|bene]] adornare la prima [[house|casa]] di riunione calvinista
+Avrebbe potuto altrettanto [[motifs/well|bene]] adornare la prima casa di riunione calvinista
 con rosari e reliquie e scapolari appartenenti ai
-Calvert cattolici, quanto pretendere di aver rappezzato la [[house|casa]]
+Calvert cattolici, quanto pretendere di aver rappezzato la casa
 dei primi Amici con le reliquie dei loro nemici mortali
 e persecutori, i Vecchi Puritani.
 
@@ -8222,7 +8222,7 @@ gioia stesi un elaborato piano per un elogio di quell'[[archetypes/hero|eroe]] q
 Mi proposi specialmente di esprimere sconfinata ammirazione per tutte
 quelle parti della sua vita e della sua opinione che i suoi moderni ammiratori
 puritani non ammirano.  Mi proposi di lodare in modo stravagante
-la sua leale e devota simpatia con la [[house|Casa]] degli Stuart.
+la sua leale e devota simpatia con la Casa degli Stuart.
 Intendevo far notare con ardore quanto egli fosse degno della graziosa
 e gloriosa [[concepts/friendship|amicizia]] di un uomo come Carlo Secondo.
 Intendevo insistere su ogni dettaglio del suo appoggio diplomatico e
@@ -8259,7 +8259,7 @@ Mr Collingwood has discharged his task in The Life of John Ruskin except,
 of course, Mr Ruskin himself, who would certainly have scored through
 all the eulogies in passionate red ink and declared that his dear friend
 had selected for admiration the very parts of his work which were vile,
-brainless and revolting.  That, however, was merely Ruskin's [[Humour|humour]],
+brainless and revolting.  That, however, was merely Ruskin's humour,
 and one of the deepest disappointments with Mr Collingwood is that he,
 like every one else, fails to appreciate Ruskin as a humorist.
 Yet he was a great humorist:  half the explosions which are
@@ -8301,7 +8301,7 @@ that he only depicts life, that as far as he is concerned
 there is nothing to be done, and still armies of ‘Ibsenites'
 rally to the [[motifs/flag|flag]] and enthusiastically do nothing.  I have found
 traces of a school which avowedly follows Mr Henry James:
-an idea full of [[Humour|humour]].  I like to think of a crowd with pikes
+an idea full of humour.  I like to think of a crowd with pikes
 and torches shouting passages from The Awkward Age.  It is right
 and proper for a multitude to declare its readiness to follow
 a [[archetypes/prophet|prophet]] to the end of the world, but if he himself explains,
@@ -8356,7 +8356,7 @@ il signor Collingwood ha assolto il suo compito nella Vita di John Ruskin, trann
 naturalmente, lo stesso signor Ruskin, che avrebbe di certo cassato
 tutti gli elogi con appassionato inchiostro rosso e dichiarato che il suo caro amico
 aveva scelto per l'ammirazione proprio quelle parti della sua opera che erano vili,
-insensate e ripugnanti.  Questo, tuttavia, era semplicemente l'[[Humour|umorismo]] di Ruskin,
+insensate e ripugnanti.  Questo, tuttavia, era semplicemente l'umorismo di Ruskin,
 e una delle più profonde delusioni col signor Collingwood è che egli,
 come tutti gli altri, manchi di apprezzare Ruskin come umorista.
 Eppure fu un grande umorista:  metà delle esplosioni che vengono
@@ -8398,7 +8398,7 @@ che egli si limita a raffigurare la vita, che per quanto lo riguarda
 non c'è nulla da fare, e ancora eserciti di ‘ibseniani'
 si radunano intorno alla [[motifs/flag|bandiera]] e con entusiasmo non fanno nulla.  Ho trovato
 tracce di una scuola che dichiaratamente segue il signor Henry James:
-un'idea piena di [[Humour|umorismo]].  Mi piace pensare a una folla con picche
+un'idea piena di umorismo.  Mi piace pensare a una folla con picche
 e torce che grida passi da The Awkward Age.  È giusto
 e proprio che una moltitudine dichiari la propria prontezza a seguire
 un [[archetypes/prophet|profeta]] fino ai confini del mondo, ma se egli stesso spiega,
@@ -8517,7 +8517,7 @@ I once had the pleasure of knowing a man who actually
 talked in private life after the manner of these papers.
 His conversation consisted of fragmentary statements about height
 and weight and depth, and [[motifs/time|time]] and population, and his conversation
-was a [[nightmare]] of dullness.  During the shortest pause he would
+was a nightmare of dullness.  During the shortest pause he would
 ask whether his interlocutors were aware how many tons of rust
 were scraped every year off the Menai Bridge, and how many rival
 shops Mr Whiteley had bought up since he opened his business.
@@ -8586,7 +8586,7 @@ indulgence of art and mood, can no longer understand the idle
 and splendid disinterestedness of the reader of Pearson's Weekly.
 He still keeps something of that feeling which should be
 the birthright of men, the feeling that this planet is
-like a new [[house]] into which we have just moved our baggage.
+like a new house into which we have just moved our baggage.
 Any detail of it has a value, and with a truly sportsmanlike
 instinct the average man takes most pleasure in the details
 which are most complicated, irrelevant, and at once difficult
@@ -8709,7 +8709,7 @@ Ebbi una volta il piacere di conoscere un uomo che effettivamente
 parlava nella vita privata alla maniera di questi giornali.
 La sua conversazione consisteva di frammentari asserti su altezza
 e peso e profondità, e [[motifs/time|tempo]] e popolazione, e la sua conversazione
-era un [[nightmare|incubo]] di monotonia.  Durante la più breve pausa avrebbe
+era un incubo di monotonia.  Durante la più breve pausa avrebbe
 chiesto se i suoi interlocutori fossero al corrente di quante tonnellate di ruggine
 venissero raschiate ogni anno dal Ponte di Menai, e di quanti negozi rivali
 il signor Whiteley avesse rilevato da quando aprì la sua attività.
@@ -8778,7 +8778,7 @@ indulgenza dell'arte e dell'umore, non riescono più a comprendere l'ozioso
 e splendido disinteresse del lettore del Pearson's Weekly.
 Egli conserva ancora qualcosa di quel sentimento che dovrebbe essere
 il diritto di nascita degli uomini, il sentimento che questo pianeta è
-come una nuova [[house|casa]] nella quale abbiamo appena traslocato i nostri bagagli.
+come una nuova casa nella quale abbiamo appena traslocato i nostri bagagli.
 Ogni dettaglio di esso ha un valore, e con un istinto veramente
 sportivo l'uomo medio prova il maggior piacere nei dettagli
 che sono più complicati, irrilevanti, e insieme difficili
@@ -9363,12 +9363,12 @@ The moment a man puts [[concepts/beauty|beauty]] higher than [[motifs/love|love]
 a logical possibility.
 
 The other matter, it may be, is less obvious, but not,
-I think, less true.  When I call Shelley a typical [[aristocrat]];
+I think, less true.  When I call Shelley a typical aristocrat;
 I have fully in remembrance all his revolutionary ardour and his
-almost anarchic ideality; I do not call Shelley an [[aristocrat]]
-in spite of these things; I call him an [[aristocrat]] because
-of them.  The true [[aristocrat]] is by [[concepts/nature|nature]] an anarchist.
-The [[aristocrat]] was and is the person desiring to do as he liked.
+almost anarchic ideality; I do not call Shelley an aristocrat
+in spite of these things; I call him an aristocrat because
+of them.  The true aristocrat is by [[concepts/nature|nature]] an anarchist.
+The aristocrat was and is the person desiring to do as he liked.
 His [[settings/castle|castle]] was a defiance of the decent orders of the [[archetypes/king|king]].
 His motorcar was a defiance of the decent orders of the [[concepts/democracy|democracy]].
 The gentlemen of real [[concepts/history|history]] were never anything but rowdy.
@@ -9386,7 +9386,7 @@ Shelley hated kings as all aristocrats hated kings; the feud
 between them has flamed since the beginning of the world.
 Shelley hated priests, and hated them most of all; for priests
 represent a startling and [[motifs/supernatural|supernatural]] denial of the gradations
-of mankind; an aristocracy can submit to a [[archetypes/king|king]] or [[Humour|humour]]
+of mankind; an aristocracy can submit to a [[archetypes/king|king]] or humour
 a [[concepts/democracy|democracy]], but another aristocracy is too much for them.
 Of course, Shelley, a man of quite crystalline sincerity, did not
 know that his anarchism had this feudal foundation; he imagined,
@@ -9426,7 +9426,7 @@ The poor are not anarchists, and never can be anarchists.
 They live too close to life for such artistic trifling.
 When I speak of anarchism, of course I do not use the term
 in the exact sense which indicates a political programme.
-I do not mean that Shelley disapproved of all [[government]] though
+I do not mean that Shelley disapproved of all government though
 he sometimes used phrases which might be taken in this sense.
 But his trend and tone was to offer liberty and an escape
 from rule as a panacea for the misfortunes of the people;
@@ -9476,12 +9476,12 @@ Nel momento in cui un uomo pone la [[concepts/beauty|bellezza]] più in alto del
 una possibilità logica.
 
 L'altra questione, può darsi, è meno ovvia, ma non,
-credo, meno vera. Quando definisco Shelley un tipico [[aristocrat|aristocratico]],
+credo, meno vera. Quando definisco Shelley un tipico aristocratico,
 ho ben presente tutto il suo ardore rivoluzionario e la sua
-idealità quasi anarchica; non definisco Shelley un [[aristocrat|aristocratico]]
-a dispetto di queste cose; lo definisco un [[aristocrat|aristocratico]] proprio
-a causa di esse. Il vero [[aristocrat|aristocratico]] è per [[concepts/nature|natura]] un anarchico.
-L'[[aristocrat|aristocratico]] era ed è colui che desidera fare a modo suo.
+idealità quasi anarchica; non definisco Shelley un aristocratico
+a dispetto di queste cose; lo definisco un aristocratico proprio
+a causa di esse. Il vero aristocratico è per [[concepts/nature|natura]] un anarchico.
+L'aristocratico era ed è colui che desidera fare a modo suo.
 Il suo [[settings/castle|castello]] era una sfida ai decorosi ordini del [[archetypes/king|re]].
 La sua automobile era una sfida ai decorosi ordini della [[concepts/democracy|democrazia]].
 I gentiluomini della [[concepts/history|storia]] reale non furono mai altro che turbolenti.
@@ -9499,7 +9499,7 @@ Shelley odiava i re come tutti gli aristocratici odiavano i re; la faida
 tra loro divampa fin dal principio del mondo.
 Shelley odiava i preti, e li odiava più di ogni altra cosa; giacché i preti
 rappresentano una sconcertante e [[motifs/supernatural|soprannaturale]] negazione delle gradazioni
-del genere umano; un'aristocrazia può sottomettersi a un [[archetypes/king|re]] o [[Humour|assecondare]]
+del genere umano; un'aristocrazia può sottomettersi a un [[archetypes/king|re]] o assecondare
 una [[concepts/democracy|democrazia]], ma un'altra aristocrazia è troppo per essa.
 Naturalmente Shelley, uomo di sincerità del tutto cristallina, non
 sapeva che il suo anarchismo avesse questo fondamento feudale; immaginava,
@@ -9539,7 +9539,7 @@ I poveri non sono anarchici, e non possono mai esserlo.
 Vivono troppo a ridosso della vita per simili frivolezze artistiche.
 Quando parlo di anarchismo, naturalmente non uso il termine
 nel senso esatto che indica un programma politico.
-Non intendo che Shelley disapprovasse ogni [[government|governo]], benché
+Non intendo che Shelley disapprovasse ogni governo, benché
 talvolta usasse frasi che potrebbero essere intese in tal senso.
 Ma la sua tendenza e il suo tono erano di offrire la libertà e una fuga
 dalla regola come panacea per le sventure del popolo;
@@ -9899,7 +9899,7 @@ evidently in much the same spirit in which people conduct
 a family magazine; for the medallions included in the manuscript
 were the work of her sister Cassandra.  The whole thing is full
 of the sort of high spirits that are always higher in private than
-in public; as people laugh louder in the [[house]] than in the street.
+in public; as people laugh louder in the house than in the street.
 Many of her admirers would not expect, perhaps many of her admirers
 would not admire, the sort of fun to be found in the letter to
 the young lady ‘whose feelings were too strong for her judgment',
@@ -9907,7 +9907,7 @@ and who remarks incidentally ‘I murdered my father at a very early
 period in my life, I have since murdered my mother, and I am now
 going to murder my sister'.  Personally, I think it admirable;
 not the conduct, but the confession.  But there is much more
-than hilarity in the [[Humour|humour]], even at this stage of its growth.
+than hilarity in the humour, even at this stage of its growth.
 There is almost everywhere a certain neatness in the nonsense.
 There is not a little of the true Austen irony.  'The noble Youth
 informed us that his name was Lindsay--for particular reasons,
@@ -9961,11 +9961,11 @@ e credono a loro contro Jane Austen. Credono non alla
 gente del periodo ma ai romanzi più assurdi del periodo,
 ai quali persino la gente del periodo che li leggeva non credeva.
 Hanno inghiottito tutte le solennità dei Misteri di Udolpho,
-e non hanno mai nemmeno colto lo scherzo dell'[[Northanger Abbey|Abbazia di Northanger]].
+e non hanno mai nemmeno colto lo scherzo dell'Abbazia di Northanger.
 
 Poiché se questi juvenilia di Jane Austen anticipano in particolare qualcuna
 delle sue opere posteriori, essi anticipano di certo il lato satirico
-dell'[[Northanger Abbey|Abbazia di Northanger]]. Del loro considerevole significato su quel versante
+dell'Abbazia di Northanger. Del loro considerevole significato su quel versante
 qualcosa si dirà tra poco; ma sarà [[motifs/well|bene]] premettervi
 una parola sulle opere stesse in quanto elementi di [[concepts/history|storia]] letteraria.
 Tutti sanno che la romanziera lasciò un [[forms/fragment|frammento]] incompiuto,
@@ -10016,7 +10016,7 @@ evidentemente pressoché nello stesso spirito con cui si conduce
 una rivista di famiglia; giacché i medaglioni inclusi nel manoscritto
 erano opera della sorella Cassandra. Il tutto è pieno
 di quel genere di allegria che è sempre più alta in privato che
-in pubblico; come la gente ride più forte in [[house|casa]] che per la strada.
+in pubblico; come la gente ride più forte in casa che per la strada.
 Molti dei suoi ammiratori non si aspetterebbero, e forse molti dei suoi ammiratori
 non ammirerebbero, il genere di spasso che si trova nella lettera alla
 giovane signora «i cui sentimenti erano troppo forti per il suo giudizio»,
@@ -10024,7 +10024,7 @@ e che osserva incidentalmente: «Assassinai mio padre in un periodo assai
 precoce della mia vita, da allora ho assassinato mia madre, e ora sto
 per assassinare mia sorella». Personalmente, la trovo ammirevole;
 non la condotta, ma la confessione. Ma vi è molto più
-che ilarità nell'[[Humour|umorismo]], persino a questo stadio della sua crescita.
+che ilarità nell'umorismo, persino a questo stadio della sua crescita.
 Vi è quasi ovunque una certa nitidezza nel nonsenso.
 Non vi è poca della vera ironia austeniana. «Il nobile Giovane
 ci informò che il suo nome era Lindsay — per ragioni particolari,
@@ -10108,7 +10108,7 @@ is the first of the reasons that justify a study of her juvenile works;
 it is an interest in the psychology of the artistic vocation.
 I will not say of the artistic temperament; for nobody ever had less
 of the tiresome thing commonly so described than Jane Austen.
-But while this [[Alone|alone]] would be a reason for finding out how her work began,
+But while this alone would be a reason for finding out how her work began,
 it becomes yet more relevant when we have found out how it did begin.
 This is something more than the discovery of a document;
 it is the discovery of an inspiration.  And that inspiration was
@@ -10206,7 +10206,7 @@ dotato di un istinto superiore per l'intelligente critica della vita,
 è un interesse per la psicologia della vocazione artistica.
 Non dirò per il temperamento artistico; giacché nessuno ebbe mai meno
 della fastidiosa cosa comunemente così descritta di quanta ne ebbe Jane Austen.
-Ma se questo da [[Alone|solo]] sarebbe già una ragione per scoprire come cominciò la sua opera,
+Ma se questo da solo sarebbe già una ragione per scoprire come cominciò la sua opera,
 esso diviene ancor più rilevante quando abbiamo scoperto come cominciò davvero.
 Questo è qualcosa di più della scoperta di un documento;
 è la scoperta di un'ispirazione. E quell'ispirazione era
@@ -10801,7 +10801,7 @@ amused to note two or three cases in which two or three poets
 had repeated the same sentence, as [[motifs/well|well]] as the same sentiment.
 I mean that they had avowedly used a verbal repetition,
 which the vulgar might really call plagiarism.  One series began,
-as I imagined, with that spirited [[Song|song]] of Byron, ‘We'll go no more
+as I imagined, with that spirited song of Byron, ‘We'll go no more
 a-roving'. Its chief beauty is that Byronic beauty of swiftness,
 which is often neglected.  It consists of three verses
 of four lines each; but it could all be said in a breath.
@@ -10821,7 +10821,7 @@ He wrote a lyric which simply changes, 'We'll go no more a-roving',
 to ‘We'll go no more a-roaming'. It might at least be called an echo;
 but I am now defending echoes.  And now I discover, from the recent
 and most fascinating memoirs of a common sailor, that both
-the [[Poems|poems]] may have been echoes; and both the poets plagiarists.
+the poems may have been echoes; and both the poets plagiarists.
 For he quotes a sea-shanty, as sung by common sailors, which I
 myself like better than either of the literary productions.
 I can imagine a seaman singing with the proper doleful boom:
@@ -10854,7 +10854,7 @@ casi in cui due o tre poeti avevano ripetuto la stessa frase, così come
 [[motifs/well|come]] lo stesso sentimento. Voglio dire che avevano
 dichiaratamente usato una ripetizione verbale, che il volgo potrebbe
 davvero chiamare plagio. Una serie cominciava, come immaginavo, con
-quel briosa [[Song|canto]] di Byron, ‘We'll go no more a-roving'. La
+quel briosa canto di Byron, ‘We'll go no more a-roving'. La
 sua bellezza precipua è quella byroniana bellezza della rapidità, che
 spesso viene trascurata. Consta di tre strofe di quattro versi
 ciascuna; ma potrebbe dirsi tutto in un fiato. L'unica grande qualità
@@ -10873,7 +10873,7 @@ amici lo amavano, sebbene scagliasse loro la stampella. Scrisse una
 lirica che semplicemente muta ‘We'll go no more a-roving' in ‘We'll go
 no more a-roaming'. Potrebbe almeno chiamarsi un'eco; ma io ora sto
 difendendo le echi. E ora scopro, dalle recenti e affascinantissime
-memorie di un comune marinaio, che entrambe le [[Poems|poesie]]
+memorie di un comune marinaio, che entrambe le poesie
 potrebbero essere state echi; ed entrambi i poeti plagiari. Poiché egli
 cita una canzone di mare, cantata dai comuni marinai, che a me stesso
 piace più di entrambe le produzioni letterarie. Posso immaginare un
@@ -11334,7 +11334,7 @@ When [[historical-references/dante|Dante]] meets [[characters/beatrice|Beatrice]
 not his proximity; and all the greatest saints have felt
 their lowness, not their highness, in the moment of ecstasy.
 And what is true of these [[motifs/grave|grave]] and heroic matters (I do not say,
-of course, that saints and [[lovers]] have never used the language
+of course, that saints and lovers have never used the language
 of [[concepts/union|union]] too, true enough in its own place and proper
 limitation of meaning)--what is true of these is equally true
 of all the lighter and less essential forms of appreciation
@@ -11342,13 +11342,13 @@ of surprise.  Division and variety are essential to praise;
 division and variety are what is right with the world.
 There is nothing specially right about mere contact and coalescence.
 
-In short, this vast, vague idea of [[unity]] is the one ‘reactionary'
+In short, this vast, vague idea of unity is the one ‘reactionary'
 thing in the world.  It is perhaps the only connection in which that
 foolish word ‘reactionary' can be used with significance and [[concepts/truth|truth]].
 For this blending of men and women, nations and nations, is truly a return
 to the chaos and unconsciousness that were before the world was made.
-There is, of course, another kind of [[unity]] of which I do not speak here;
-[[unity]] in the possession of [[concepts/truth|truth]] and the perception of the need
+There is, of course, another kind of unity of which I do not speak here;
+unity in the possession of [[concepts/truth|truth]] and the perception of the need
 for these varieties.  But the varieties themselves; the reflection
 of man and woman in each other, as in two distinct mirrors;
 the [[concepts/wonder|wonder]] of man at [[concepts/nature|nature]] as a strange thing at once above
@@ -11368,7 +11368,7 @@ are both different; with them fields are personal and flags are sacred;
 they are the virtue of existence, for they are not mankind but men.
 
 The rooted [[concepts/hope|hope]] of the modern world is that all these dim democracies
-do still believe in that [[Romance|romance]] of life, that variation of man,
+do still believe in that romance of life, that variation of man,
 woman and [[archetypes/child|child]] upon which all poetry has hitherto been built.
 The danger of the modern world is that these dim democracies are
 so very dim, and that they are especially dim where they are right.
@@ -11420,7 +11420,7 @@ work and strangers must be accepted and endured; [[motifs/birds|birds]] will go
 bedwards and children won't, to the end of the last evening.
 And the worst peril is that in our just modern revolt against
 intolerable accidents we may have unsettled those things
-that [[Alone|alone]] make daily life tolerable.  It will be an ironic
+that alone make daily life tolerable.  It will be an ironic
 [[forms/tragedy|tragedy]] if, when we have toiled to find rest, we find we are
 incurably restless.  It will be sad if, when we have worked
 for our holiday, we find we have unlearnt everything but work.
@@ -11433,8 +11433,8 @@ forgotten how to play.  He may agitate for peace and quiet,
 but only propagate his own mental agitation.  In his long fight
 to get a slave a half-holiday he may angrily deny those ancient
 and natural things, the zest of being, the divinity of man,
-the sacredness of simple things, the health and [[Humour|humour]] of the earth,
-which [[Alone|alone]] make a half-holiday even half a holiday or a slave
+the sacredness of simple things, the health and humour of the earth,
+which alone make a half-holiday even half a holiday or a slave
 even half a man.
 
 There is danger in that modern phrase ‘divine discontent'.
@@ -11455,7 +11455,7 @@ his primary, naked relation to the world, in his relation to sex,
 to [[motifs/pain|pain]], to [[concepts/comradeship|comradeship]], to the [[motifs/grave|grave]] or to the weather,
 man ought to make discontent his ideal; it is black lunacy.
 Half his poor little hopes of happiness hang on his thinking
-a small [[house]] pretty, a plain wife charming, a lame foot
+a small house pretty, a plain wife charming, a lame foot
 not unbearable, and bad cards not so bad.  The voice of the special
 rebels and prophets, recommending discontent, should, as I
 have said, sound now and then suddenly, like a trumpet.
@@ -11486,7 +11486,7 @@ la migliore poesia non lo fa.  Quando [[historical-references/dante|Dante]] inco
 la propria distanza da lei, non la propria vicinanza; e tutti i più grandi
 santi hanno sentito la propria bassezza, non la propria altezza, nel momento
 dell'estasi.  E ciò che è vero di queste [[motifs/grave|gravi]] ed eroiche cose (non dico,
-s'intende, che i santi e gli [[lovers|amanti]] non abbiano mai usato il linguaggio
+s'intende, che i santi e gli amanti non abbiano mai usato il linguaggio
 dell'[[concepts/union|unione]] anch'essi, abbastanza vero al suo giusto posto e nella
 propria limitazione di significato)—ciò che è vero di queste è ugualmente vero
 di tutte le forme più lievi e meno essenziali di apprezzamento
@@ -11494,13 +11494,13 @@ e di sorpresa.  La divisione e la varietà sono essenziali alla lode;
 la divisione e la varietà sono ciò che vi è di giusto nel mondo.
 Non vi è nulla di specialmente giusto nel mero contatto e nella coalescenza.
 
-In breve, questa vasta, vaga idea dell'[[unity|unità]] è l'unica cosa ‘reazionaria'
+In breve, questa vasta, vaga idea dell'unità è l'unica cosa ‘reazionaria'
 al mondo.  È forse l'unica connessione in cui quella
 sciocca parola ‘reazionario' possa essere usata con significato e [[concepts/truth|verità]].
 Poiché questo fondersi di uomini e donne, di nazioni e nazioni, è davvero un ritorno
 al caos e all'incoscienza che erano prima che il mondo fosse fatto.
-Vi è, s'intende, un altro tipo di [[unity|unità]] di cui qui non parlo;
-l'[[unity|unità]] nel possesso della [[concepts/truth|verità]] e nella percezione della necessità
+Vi è, s'intende, un altro tipo di unità di cui qui non parlo;
+l'unità nel possesso della [[concepts/truth|verità]] e nella percezione della necessità
 di queste varietà.  Ma le varietà stesse; il riflesso
 dell'uomo e della donna l'uno nell'altra, come in due specchi distinti;
 la [[concepts/wonder|meraviglia]] dell'uomo dinanzi alla [[concepts/nature|natura]] come cosa strana insieme al di sopra
@@ -11520,7 +11520,7 @@ sono entrambe differenti; presso di loro i campi sono personali e le bandiere sa
 essi sono la virtù dell'esistenza, poiché non sono l'umanità ma gli uomini.
 
 La radicata [[concepts/hope|speranza]] del mondo moderno è che tutte queste fioche democrazie
-credano ancora in quel [[Romance|romanticismo]] della vita, in quella variazione di uomo,
+credano ancora in quel romanticismo della vita, in quella variazione di uomo,
 donna e [[archetypes/child|bambino]] su cui finora ogni poesia è stata costruita.
 Il pericolo del mondo moderno è che queste fioche democrazie siano
 tanto fioche, e che siano fioche specialmente là dove hanno ragione.
@@ -11572,7 +11572,7 @@ il lavoro e gli estranei vanno accettati e sopportati; gli [[motifs/birds|uccell
 a dormire e i bambini no, fino alla fine dell'ultima sera.
 E il peggior pericolo è che nella nostra pur giusta rivolta moderna contro
 gli intollerabili accidenti possiamo aver scompaginato quelle cose
-che [[Alone|sole]] rendono tollerabile la vita quotidiana.  Sarà un'ironica
+che sole rendono tollerabile la vita quotidiana.  Sarà un'ironica
 [[forms/tragedy|tragedia]] se, dopo aver faticato per trovare riposo, scopriremo di essere
 inguaribilmente irrequieti.  Sarà triste se, dopo aver lavorato
 per la nostra vacanza, scopriremo di aver disimparato tutto tranne il lavoro.
@@ -11585,8 +11585,8 @@ di aver dimenticato come giocare.  Può agitarsi per la pace e la quiete,
 ma non fare che propagare la propria agitazione mentale.  Nella sua lunga lotta
 per ottenere a uno schiavo una mezza vacanza, può negare adiratamente quelle antiche
 e naturali cose, il gusto dell'essere, la divinità dell'uomo,
-la sacralità delle cose semplici, la salute e l'[[Humour|umorismo]] della terra,
-che [[Alone|sole]] rendono una mezza vacanza anche solo mezza vacanza o uno schiavo
+la sacralità delle cose semplici, la salute e l'umorismo della terra,
+che sole rendono una mezza vacanza anche solo mezza vacanza o uno schiavo
 anche solo mezzo uomo.
 
 Vi è pericolo in quella frase moderna, ‘divino scontento'.
@@ -11607,7 +11607,7 @@ suo primario, nudo rapporto col mondo, nel suo rapporto col sesso,
 col [[motifs/pain|dolore]], col [[concepts/comradeship|cameratismo]], con la [[motifs/grave|tomba]] o col tempo atmosferico,
 l'uomo debba fare dello scontento il suo ideale; è nera follia.
 Metà delle sue povere piccole speranze di felicità dipende dal suo trovare
-graziosa una piccola [[house|casa]], affascinante una moglie dimessa, non insopportabile
+graziosa una piccola casa, affascinante una moglie dimessa, non insopportabile
 un piede zoppo, e non così cattive le cattive carte.  La voce dei particolari
 ribelli e profeti, che raccomandano lo scontento, dovrebbe, come ho
 detto, risuonare di tanto in tanto d'improvviso, come una tromba.

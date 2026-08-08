@@ -25,7 +25,7 @@ tags:
 **Themes & Concepts:** [[concepts/poverty|Poverty]], [[concepts/social-injustice|Social Injustice]], [[concepts/grace-and-redemption|Grace and Redemption]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

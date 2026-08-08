@@ -44,14 +44,14 @@ tags:
 - [[works/a-child's-history-of-england-(dickens)|A Child's History of England (Dickens)]]
 - [[works/martin-chuzzlewit-(dickens)|Martin Chuzzlewit (Dickens)]]
 - [[works/our-mutual-friend-(dickens)|Our Mutual Friend (Dickens)]]
-- 1170. Nature affects to be sedate (Dickinson)
-- 1177. A prompt — executive Bird is the Jay — (Dickinson)
-- 165. A wounded Deer — leaps highest — (Dickinson)
-- 338. I know that He exists. (Dickinson)
-- 353. A happy lip — breaks sudden — (Dickinson)
-- 421. A Charm invests a face (Dickinson)
-- 443. I tie my Hat — I crease my Shawl — (Dickinson)
-- 514. Her smile was shaped like other smiles — (Dickinson)
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1170_nature_affects_to_be_sedate|1170. Nature affects to be sedate (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1177_a_prompt_executive_bird_is_the_jay|1177. A prompt — executive Bird is the Jay — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0165_a_wounded_deer_leaps_highest|165. A wounded Deer — leaps highest — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0338_i_know_that_he_exists|338. I know that He exists. (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0353_a_happy_lip_breaks_sudden|353. A happy lip — breaks sudden — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0421_a_charm_invests_a_face|421. A Charm invests a face (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0443_i_tie_my_hat_i_crease_my_shawl|443. I tie my Hat — I crease my Shawl — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0514_her_smile_was_shaped_like_other_smiles|514. Her smile was shaped like other smiles — (Dickinson)]]
 - [[works/gus-the-theatre-cat-(eliot)|Gus the Theatre Cat (Eliot)]]
 - [[works/humouresque-(eliot)|Humouresque (Eliot)]]
 - [[works/mélange-adultère-de-tout-(eliot)|Mélange Adultère de Tout (Eliot)]]
@@ -72,8 +72,8 @@ tags:
 - [[works/love’s-labour’s-lost-(shakespeare)|LOVE’S LABOUR’S LOST (Shakespeare)]]
 - [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
 - [[works/much-ado-about-nothing-(shakespeare)|MUCH ADO ABOUT NOTHING (Shakespeare)]]
-- Sonnet 110 (Shakespeare)
-- Sonnet 67 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_110|Sonnet 110 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_067|Sonnet 67 (Shakespeare)]]
 - [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
 - [[works/the-merchant-of-venice-(shakespeare)|THE MERCHANT OF VENICE (Shakespeare)]]
 - [[works/the-merry-wives-of-windsor-(shakespeare)|THE MERRY WIVES OF WINDSOR (Shakespeare)]]

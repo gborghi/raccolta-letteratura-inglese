@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Trickster
+**Archetypes:** [[archetypes/trickster|Trickster]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]

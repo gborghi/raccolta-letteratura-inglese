@@ -62,9 +62,9 @@ tags:
 - [[works/to-t.-poole-an-invitation-(coleridge)|TO T. POOLE AN INVITATION (Coleridge)]]
 - [[works/water-ballad-(coleridge)|WATER BALLAD (Coleridge)]]
 - [[works/westphalian-song-(coleridge)|WESTPHALIAN SONG (Coleridge)]]
-- 1059. Sang from the Heart, Sire, (Dickinson)
-- 192. Poor little Heart! (Dickinson)
-- 425. Good Morning — Midnight — (Dickinson)
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1059_sang_from_the_heart_sire|1059. Sang from the Heart, Sire, (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0192_poor_little_heart|192. Poor little Heart! (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0425_good_morning_midnight|425. Good Morning — Midnight — (Dickinson)]]
 - [[works/bustopher-jones-the-cat-about-town-(eliot)|Bustopher Jones the Cat About Town (Eliot)]]
 - [[works/mr.-mistoffelees-(eliot)|Mr. Mistoffelees (Eliot)]]
 - [[works/old-possum’s-book-of-practical-cats-(eliot)|OLD POSSUM’S BOOK OF PRACTICAL CATS (Eliot)]]

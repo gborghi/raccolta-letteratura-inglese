@@ -16,22 +16,22 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 107. 'Twas such a little — little boat (Dickinson)
-- 1198. A soft Sea washed around the House (Dickinson)
-- 1210. The Sea said Come to the Brook — (Dickinson)
-- 1281. A stagnant pleasure like a Pool (Dickinson)
-- 1604. We send the Wave to find the Wave — (Dickinson)
-- 1749. The waters chased him as he fled, (Dickinson)
-- 201. Two swimmers wrestled on the spar — (Dickinson)
-- 466. 'Tis little I — could care for Pearls — (Dickinson)
-- 490. To One denied the drink (Dickinson)
-- 52. Whether my bark went down at sea — (Dickinson)
-- 520. I started Early — Took my Dog — (Dickinson)
-- 693. Shells from the Coast mistaking — (Dickinson)
-- 695. As if the Sea should part (Dickinson)
-- 739. I many times thought Peace had come (Dickinson)
-- 76. Exultation is the going (Dickinson)
-- 867. Escaping backward to perceive (Dickinson)
+- [[testi/dickinson/atomized/sea-water#0107_twas_such_a_little_little_boat|107. 'Twas such a little — little boat (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1198_a_soft_sea_washed_around_the_house|1198. A soft Sea washed around the House (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1210_the_sea_said_come_to_the_brook|1210. The Sea said Come to the Brook — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1281_a_stagnant_pleasure_like_a_pool|1281. A stagnant pleasure like a Pool (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1604_we_send_the_wave_to_find_the_wave|1604. We send the Wave to find the Wave — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1749_the_waters_chased_him_as_he_fled|1749. The waters chased him as he fled, (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0201_two_swimmers_wrestled_on_the_spar|201. Two swimmers wrestled on the spar — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0466_tis_little_i_could_care_for_pearls|466. 'Tis little I — could care for Pearls — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0490_to_one_denied_the_drink|490. To One denied the drink (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0052_whether_my_bark_went_down_at_sea|52. Whether my bark went down at sea — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0520_i_started_early_took_my_dog|520. I started Early — Took my Dog — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0693_shells_from_the_coast_mistaking|693. Shells from the Coast mistaking — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0695_as_if_the_sea_should_part|695. As if the Sea should part (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0739_i_many_times_thought_peace_had_come|739. I many times thought Peace had come (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0076_exultation_is_the_going|76. Exultation is the going (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0867_escaping_backward_to_perceive|867. Escaping backward to perceive (Dickinson)]]
 - [[works/a-paumanok-picture-(whitman)|A Paumanok Picture (Whitman)]]
 - [[works/after-the-sea-ship-(whitman)|After the Sea-Ship (Whitman)]]
 - [[works/as-consequent,-etc.-(whitman)|As Consequent, Etc. (Whitman)]]

@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="mansfield_park" data-title="Mansfield Park" data-chapter="" data-kind="intro"></span>
 
 
-[[Mansfield Park|MANSFIELD PARK]]
+MANSFIELD PARK
 
 (1814)
 
@@ -88,7 +88,7 @@ About thirty years ago Miss [[characters/maria|Maria]] Ward, of Huntingdon, with
 thousand pounds, had the good luck to captivate [[characters/sir-thomas-bertram|Sir Thomas Bertram]], of
 [[works/mansfield-park-(austen)|Mansfield Park]], in the county of Northampton, and to be thereby raised
 to the rank of a baronet’s lady, with all the comforts and consequences
-of an handsome [[house]] and large income. All Huntingdon exclaimed on the
+of an handsome house and large income. All Huntingdon exclaimed on the
 [[concepts/greatness|greatness]] of the match, and her uncle, the lawyer, himself, allowed her
 to be at least three thousand pounds short of any equitable claim to
 it. She had two sisters to be benefited by her elevation; and such of
@@ -299,7 +299,7 @@ mention of such a thing she was sure would distract him.
 
 “Then she had better come to us,” said Lady [[characters/bertram|Bertram]], with the utmost
 composure. After a short pause Sir Thomas added with dignity, “Yes, let
-her [[motifs/home|home]] be in this [[house]]. We will endeavour to do our duty by her, and
+her [[motifs/home|home]] be in this house. We will endeavour to do our duty by her, and
 she will, at least, have the advantage of companions of her own age,
 and of a regular instructress.”
 
@@ -340,7 +340,7 @@ saying to my husband this morning. It will be an [[concepts/education|education]
 nothing, she would learn to be good and clever from _them_.”
 
 “I [[concepts/hope|hope]] she will not tease my poor pug,” said Lady [[characters/bertram|Bertram]]; “I have but
-just got [[characters/julia|Julia]] to leave it [[Alone|alone]].”
+just got [[characters/julia|Julia]] to leave it alone.”
 
 “There will be some difficulty in our way, Mrs. Norris,” observed Sir
 Thomas, “as to the distinction proper to be made between the girls as
@@ -398,7 +398,7 @@ good-humoured smile, became immediately the less awful character of the
 two.
 
 The young people were all at [[motifs/home|home]], and sustained their share in the
-introduction very [[motifs/well|well]], with much good [[Humour|humour]], and no embarrassment, at
+introduction very [[motifs/well|well]], with much good humour, and no embarrassment, at
 least on the part of the sons, who, at seventeen and sixteen, and tall
 of their age, had all the grandeur of men in the eyes of their little
 cousin. The two girls were more at a loss from being younger and in
@@ -471,7 +471,7 @@ and sisters among whom she had always been important as playfellow,
 instructress, and [[characters/nurse|nurse]], the despondence that sunk her little heart was
 severe.
 
-The grandeur of the [[house]] astonished, but could not console her. The
+The grandeur of the house astonished, but could not console her. The
 rooms were too large for her to move in with ease: whatever she touched
 she expected to injure, and she crept about in constant terror of
 something or other; often retreating towards her own chamber to cry;
@@ -681,7 +681,7 @@ lowly of her own claims to feel injured by it.
 
 From about the [[motifs/time|time]] of her entering the family, Lady [[characters/bertram|Bertram]], in
 consequence of a little ill-health, and a great deal of [[concepts/indolence|indolence]], gave
-up the [[house]] in town, which she had been used to occupy every [[motifs/spring|spring]],
+up the house in town, which she had been used to occupy every [[motifs/spring|spring]],
 and remained wholly in the country, leaving Sir Thomas to attend his
 duty in Parliament, with whatever increase or diminution of comfort
 might arise from her absence. In the country, therefore, the Miss
@@ -751,7 +751,7 @@ CHAPTER III
 The first event of any importance in the family was the [[motifs/death|death]] of Mr.
 Norris, which happened when Fanny was about fifteen, and necessarily
 introduced alterations and novelties. Mrs. Norris, on quitting the
-Parsonage, removed first to the Park, and afterwards to a small [[house]]
+Parsonage, removed first to the Park, and afterwards to a small house
 of Sir Thomas’s in the village, and consoled herself for the loss of
 her husband by considering that she could do very [[motifs/well|well]] without him; and
 for her reduction of income by the evident necessity of stricter
@@ -825,7 +825,7 @@ her.
 “I shall be very sorry to go away,” said she, with a faltering voice.
 
 “Yes, I dare say you will; _that’s_ natural enough. I suppose you have
-had as little to vex you since you came into this [[house]] as any creature
+had as little to vex you since you came into this house as any creature
 in the world.”
 
 “I [[concepts/hope|hope]] I am not ungrateful, aunt,” said Fanny modestly.
@@ -835,7 +835,7 @@ in the world.”
 “And am I never to live here again?”
 
 “Never, my dear; but you are sure of a comfortable [[motifs/home|home]]. It can make
-very little difference to you, whether you are in one [[house]] or the
+very little difference to you, whether you are in one house or the
 other.”
 
 Fanny left the room with a very sorrowful heart; she could not feel the
@@ -851,7 +851,7 @@ am going to live entirely with my aunt Norris.”
 “Indeed!”
 
 “Yes; my aunt [[characters/bertram|Bertram]] has just told me so. It is quite settled. I am to
-leave [[works/mansfield-park-(austen)|Mansfield Park]], and go to the White [[house|House]], I suppose, as soon as
+leave [[works/mansfield-park-(austen)|Mansfield Park]], and go to the White House, I suppose, as soon as
 she is removed there.”
 
 “[[motifs/well|Well]], Fanny, and if the plan were not unpleasant to you, I should call
@@ -865,7 +865,7 @@ companion exactly where she ought, and I am glad her [[motifs/love|love]] of mon
 not interfere. You will be what you ought to be to her. I [[concepts/hope|hope]] it does
 not distress you very much, Fanny?”
 
-“Indeed it does: I cannot like it. I [[motifs/love|love]] this [[house]] and everything in
+“Indeed it does: I cannot like it. I [[motifs/love|love]] this house and everything in
 it: I shall [[motifs/love|love]] nothing there. You know how uncomfortable I feel with
 her.”
 
@@ -901,7 +901,7 @@ am to go away, I shall remember your goodness to the last moment of my
 life.”
 
 “Why, indeed, Fanny, I should [[concepts/hope|hope]] to be remembered at such a distance
-as the White [[house|House]]. You speak as if you were going two hundred miles
+as the White House. You speak as if you were going two hundred miles
 off instead of only across the park; but you will belong to us almost
 as much as ever. The two families will be meeting every day in the
 year. The only difference will be that, living with your aunt, you will
@@ -924,7 +924,7 @@ consequence to anybody. _Here_, I know, I am of none, and yet I [[motifs/love|lo
 the place so [[motifs/well|well]].”
 
 “The place, Fanny, is what you will not quit, though you quit the
-[[house]]. You will have as free a command of the park and gardens as ever.
+house. You will have as free a command of the park and gardens as ever.
 Even _your_ constant little heart need not take fright at such a
 nominal change. You will have the same walks to frequent, the same
 library to choose from, the same people to look at, the same [[motifs/horse|horse]] to
@@ -948,7 +948,7 @@ not the smallest intention of taking her. It had never occurred to her,
 on the present occasion, but as a thing to be carefully avoided. To
 prevent its being expected, she had fixed on the smallest habitation
 which could rank as genteel among the buildings of Mansfield parish,
-the White [[house|House]] being only just large enough to receive herself and her
+the White House being only just large enough to receive herself and her
 servants, and allow a spare room for a friend, of which she made a very
 particular point. The spare rooms at the Parsonage had never been
 wanted, but the absolute necessity of a spare room for a friend was now
@@ -1004,7 +1004,7 @@ my sorrows and difficulties as I can.”
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="Mansfield Park — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/love,motif/nature,motif/time,motif/well,motif/winter,concept/beauty,concept/fear,concept/hope,concept/nature,concept/solitude,concept/wonder,character/bertram,character/edmund"></span>
 
 
-“Then you will not mind living by yourself quite [[Alone|alone]]?”
+“Then you will not mind living by yourself quite alone?”
 
 “Dear Lady [[characters/bertram|Bertram]]! what am I fit for but [[concepts/solitude|solitude]]? Now and then I
 shall [[concepts/hope|hope]] to have a friend in my little cottage (I shall always have
@@ -1021,7 +1021,7 @@ _have_ _been_ a liberal housekeeper enough, but I shall not be ashamed
 to practise economy now. My situation is as much altered as my income.
 A great many things were due from poor Mr. Norris, as clergyman of the
 parish, that cannot be expected from me. It is unknown how much was
-consumed in our kitchen by odd comers and goers. At the White [[house|House]],
+consumed in our kitchen by odd comers and goers. At the White House,
 matters must be better looked after. I _must_ live within my income, or
 I shall be miserable; and I own it would give me great satisfaction to
 be able to do rather more, to lay by a little at the end of the year.”
@@ -1064,7 +1064,7 @@ Fanny soon learnt how unnecessary had been her fears of a removal; and
 her spontaneous, untaught felicity on the discovery, conveyed some
 consolation to [[characters/edmund|Edmund]] for his disappointment in what he had expected to
 be so essentially serviceable to her. Mrs. Norris took possession of
-the White [[house|House]], the Grants arrived at the Parsonage, and these events
+the White House, the Grants arrived at the Parsonage, and these events
 over, everything at Mansfield went on for some [[motifs/time|time]] as usual.
 
 The Grants showing a disposition to be friendly and sociable, gave
@@ -1075,7 +1075,7 @@ instead of contriving to gratify him at little expense, gave her cook
 as high wages as they did at [[works/mansfield-park-(austen)|Mansfield Park]], and was scarcely ever seen
 in her offices. Mrs. Norris could not speak with any temper of such
 grievances, nor of the quantity of butter and eggs that were regularly
-consumed in the [[house]]. “Nobody loved plenty and hospitality more than
+consumed in the house. “Nobody loved plenty and hospitality more than
 herself; nobody more hated pitiful doings; the Parsonage, she believed,
 had never been wanting in comforts of any sort, had never borne a bad
 character in _her_ _time_, but this was a way of going on that she
@@ -1161,7 +1161,7 @@ directing her letters.
 The earliest intelligence of the travellers’ safe arrival at Antigua,
 after a favourable voyage, was received; though not before Mrs. Norris
 had been indulging in very dreadful fears, and trying to make [[characters/edmund|Edmund]]
-participate them whenever she could get him [[Alone|alone]]; and as she depended
+participate them whenever she could get him alone; and as she depended
 on being the first person made acquainted with any fatal catastrophe,
 she had already arranged the manner of breaking it to all the others,
 when Sir Thomas’s assurances of their both being alive and [[motifs/well|well]] made it
@@ -1187,7 +1187,7 @@ strengthen them in believing they had no faults.
 
 Lady [[characters/bertram|Bertram]] did not go into public with her daughters. She was too
 indolent even to accept a mother’s gratification in witnessing their
-[[success]] and enjoyment at the expense of any personal trouble, and the
+success and enjoyment at the expense of any personal trouble, and the
 charge was made over to her sister, who desired nothing better than a
 post of such honourable representation, and very thoroughly relished
 the means it afforded her of mixing in society without having horses to
@@ -1312,7 +1312,7 @@ was nothing disagreeable in his figure or address, the young lady was
 [[motifs/well|well]] pleased with her conquest. Being now in her twenty-first year,
 [[characters/maria-bertram|Maria Bertram]] was beginning to think matrimony a duty; and as a
 [[motifs/marriage|marriage]] with Mr. Rushworth would give her the enjoyment of a larger
-income than her father’s, as [[motifs/well|well]] as ensure her the [[house]] in town,
+income than her father’s, as [[motifs/well|well]] as ensure her the house in town,
 which was now a prime object, it became, by the same rule of moral
 obligation, her evident duty to marry Mr. Rushworth if she could. Mrs.
 Norris was most zealous in promoting the match, by every suggestion and
@@ -1380,14 +1380,14 @@ daughter twenty thousand pounds. As children, their sister had been
 always very fond of them; but, as her own [[motifs/marriage|marriage]] had been soon
 followed by the [[motifs/death|death]] of their common parent, which left them to the
 care of a brother of their father, of whom Mrs. Grant knew nothing, she
-had scarcely seen them since. In their uncle’s [[house]] they had found a
+had scarcely seen them since. In their uncle’s house they had found a
 kind [[motifs/home|home]]. Admiral and Mrs. Crawford, though agreeing in nothing else,
 were united in affection for these children, or, at least, were no
 farther adverse in their feelings than that each had their favourite,
 to whom they showed the greatest fondness of the two. The Admiral
 delighted in the boy, Mrs. Crawford doted on the girl; and it was the
 lady’s [[motifs/death|death]] which now obliged her _protegee_, after some months’
-further trial at her uncle’s [[house]], to find another [[motifs/home|home]]. Admiral
+further trial at her uncle’s house, to find another [[motifs/home|home]]. Admiral
 Crawford was a man of vicious conduct, who chose, instead of retaining
 his niece, to bring his mistress under his own roof; and to this Mrs.
 Grant was indebted for her sister’s proposal of coming to her, a
@@ -1405,7 +1405,7 @@ woman who had been mostly used to [[settings/london|London]].
 Miss Crawford was not entirely free from similar apprehensions, though
 they arose principally from doubts of her sister’s style of living and
 tone of society; and it was not till after she had tried in vain to
-persuade her brother to settle with her at his own country [[house]], that
+persuade her brother to settle with her at his own country house, that
 she could resolve to hazard herself among her other relations. To
 anything like a permanence of abode, or limitation of society, Henry
 Crawford had, unluckily, a great dislike: he could not accommodate his
@@ -1416,7 +1416,7 @@ the place.
 
 The meeting was very satisfactory on each side. Miss Crawford found a
 sister without preciseness or rusticity, a sister’s husband who looked
-the gentleman, and a [[house]] commodious and [[motifs/well|well]] fitted up; and Mrs.
+the gentleman, and a house commodious and [[motifs/well|well]] fitted up; and Mrs.
 Grant received in those whom she hoped to [[motifs/love|love]] better than ever a young
 man and woman of very prepossessing appearance. [[characters/mary-crawford|Mary Crawford]] was
 remarkably pretty; Henry, though not handsome, had air and countenance;
@@ -1429,7 +1429,7 @@ for a suitable match for her: she had fixed on Tom [[characters/bertram|Bertram]
 son of a baronet was not too good for a girl of twenty thousand pounds,
 with all the elegance and accomplishments which Mrs. Grant foresaw in
 her; and being a warm-hearted, unreserved woman, Mary had not been
-three hours in the [[house]] before she told her what she had planned.
+three hours in the house before she told her what she had planned.
 
 Miss Crawford was glad to find a family of such consequence so very
 near them, and not at all displeased either at her sister’s early care,
@@ -1651,7 +1651,7 @@ acquaintance, and a great deal to say; and the reversion of Mansfield
 Park, and a baronetcy, did no harm to all this. Miss Crawford soon felt
 that he and his situation might do. She looked about her with due
 consideration, and found almost everything in his favour: a park, a
-real park, five miles round, a spacious modern-built [[house]], so [[motifs/well|well]]
+real park, five miles round, a spacious modern-built house, so [[motifs/well|well]]
 placed and [[motifs/well|well]] screened as to deserve to be in any collection of
 engravings of gentlemen’s seats in the kingdom, and wanting only to be
 completely new furnished—pleasant sisters, a quiet mother, and an
@@ -1827,9 +1827,9 @@ superiority than any solicitude to oblige him, the mention of Sotherton
 which prevented her from being very ungracious.
 
 “I wish you could see Compton,” said he; “it is the most complete
-thing! I never saw a place so altered in my life. I told [[smith|Smith]] I did
+thing! I never saw a place so altered in my life. I told Smith I did
 not know where I was. The approach _now_, is one of the finest things
-in the country: you see the [[house]] in the most surprising manner. I
+in the country: you see the house in the most surprising manner. I
 declare, when I got back to Sotherton yesterday, it looked like a
 [[motifs/prison|prison]]—quite a dismal old [[motifs/prison|prison]].”
 
@@ -1850,7 +1850,7 @@ know what. I [[concepts/hope|hope]] I shall have some good friend to help me.”
 “Your best friend upon such an occasion,” said Miss [[characters/bertram|Bertram]] calmly,
 “would be Mr. Repton, I imagine.”
 
-“That is what I was thinking of. As he has done so [[motifs/well|well]] by [[smith|Smith]], I
+“That is what I was thinking of. As he has done so [[motifs/well|well]] by Smith, I
 think I had better have him at once. His terms are five guineas a day.”
 
 “[[motifs/well|Well]], and if they were _ten_,” cried Mrs. Norris, “I am sure _you_
@@ -1910,7 +1910,7 @@ begun in dilapidations, and their habits were totally dissimilar.
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="Mansfield Park — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/hill,motif/time,motif/water,motif/well,concept/beauty,concept/despair,concept/doubt,concept/education,concept/hope,concept/truth,setting/london,character/bertram,character/edmund"></span>
 
 
-After a short interruption Mr. Rushworth began again. “[[smith|Smith]]’s place is
+After a short interruption Mr. Rushworth began again. “Smith’s place is
 the admiration of all the country; and it was a mere nothing before
 Repton took it in hand. I think I shall have Repton.”
 
@@ -1926,12 +1926,12 @@ in general, and of insinuating that there was one only whom he was
 anxious to please, he grew puzzled, and [[characters/edmund|Edmund]] was glad to put an end
 to his speech by a proposal of wine. Mr. Rushworth, however, though not
 usually a great talker, had still more to say on the subject next his
-heart. “[[smith|Smith]] has not much above a hundred acres altogether in his
+heart. “Smith has not much above a hundred acres altogether in his
 grounds, which is little enough, and makes it more surprising that the
 place can have been so improved. Now, at Sotherton we have a good seven
 hundred, without reckoning the [[motifs/water|water]] meadows; so that I think, if so
 much could be done at Compton, we need not [[concepts/despair|despair]]. There have been two
-or three fine old trees cut down, that grew too near the [[house]], and it
+or three fine old trees cut down, that grew too near the house, and it
 opens the prospect amazingly, which makes me think that Repton, or
 anybody of that sort, would certainly have the avenue at Sotherton
 down: the avenue that leads from the west front to the top of the [[motifs/hill|hill]],
@@ -1963,7 +1963,7 @@ has been altered.”
 “I collect,” said Miss Crawford, “that Sotherton is an old place, and a
 place of some grandeur. In any particular style of building?”
 
-“The [[house]] was built in Elizabeth’s [[motifs/time|time]], and is a large, regular,
+“The house was built in Elizabeth’s [[motifs/time|time]], and is a large, regular,
 brick building; heavy, but respectable looking, and has many good
 rooms. It is ill placed. It stands in one of the lowest spots of the
 park; in that respect, unfavourable for improvement. But the woods are
@@ -2265,7 +2265,7 @@ when you were absent?”
 
 “The right of a lively mind, Fanny, seizing whatever may contribute to
 its own amusement or that of others; perfectly allowable, when
-untinctured by ill-[[Humour|humour]] or roughness; and there is not a [[archetypes/shadow|shadow]] of
+untinctured by ill-humour or roughness; and there is not a [[archetypes/shadow|shadow]] of
 either in the countenance or manner of Miss Crawford: nothing sharp, or
 loud, or coarse. She is perfectly feminine, except in the instances we
 have been speaking of. There she cannot be justified. I am glad you saw
@@ -2276,7 +2276,7 @@ of her thinking like him; though at this period, and on this subject,
 there began now to be some danger of dissimilarity, for he was in a
 line of admiration of Miss Crawford, which might lead him where Fanny
 could not follow. Miss Crawford’s attractions did not lessen. The harp
-arrived, and rather added to her [[concepts/beauty|beauty]], wit, and good-[[Humour|humour]]; for she
+arrived, and rather added to her [[concepts/beauty|beauty]], wit, and good-humour; for she
 played with the greatest obligingness, with an expression and taste
 which were peculiarly becoming, and there was something clever to be
 said at the close of every air. [[characters/edmund|Edmund]] was at the Parsonage every day,
@@ -2478,12 +2478,12 @@ there were shady lanes wherever they wanted to go. A young party is
 always provided with a shady lane. Four fine mornings successively were
 spent in this manner, in shewing the Crawfords the country, and doing
 the honours of its finest spots. Everything answered; it was all gaiety
-and good-[[Humour|humour]], the heat only supplying inconvenience enough to be
+and good-humour, the heat only supplying inconvenience enough to be
 talked of with pleasure—till the fourth day, when the happiness of one
 of the party was exceedingly clouded. Miss [[characters/bertram|Bertram]] was the one. [[characters/edmund|Edmund]]
 and [[characters/julia|Julia]] were invited to dine at the Parsonage, and _she_ was
 excluded. It was meant and done by Mrs. Grant, with perfect
-good-[[Humour|humour]], on Mr. Rushworth’s account, who was partly expected at the
+good-humour, on Mr. Rushworth’s account, who was partly expected at the
 Park that day; but it was felt as a very grievous injury, and her good
 manners were severely taxed to conceal her vexation and anger till she
 reached [[motifs/home|home]]. As Mr. Rushworth did _not_ come, the injury was
@@ -2496,7 +2496,7 @@ fresh with the evening air, glowing and cheerful, the very reverse of
 what they found in the three ladies sitting there, for [[characters/maria|Maria]] would
 scarcely raise her eyes from her book, and Lady [[characters/bertram|Bertram]] was
 half-asleep; and even Mrs. Norris, discomposed by her niece’s
-ill-[[Humour|humour]], and having asked one or two questions about the dinner,
+ill-humour, and having asked one or two questions about the dinner,
 which were not immediately attended to, seemed almost determined to say
 no more. For a few minutes the brother and sister were too eager in
 their praise of the [[motifs/night|night]] and their remarks on the [[motifs/stars|stars]], to think
@@ -2521,9 +2521,9 @@ sofa.”
 
 Before half this was said, Fanny was returned to her seat at the table,
 and had taken up her work again; and [[characters/julia|Julia]], who was in high
-good-[[Humour|humour]], from the pleasures of the day, did her the justice of
+good-humour, from the pleasures of the day, did her the justice of
 exclaiming, “I must say, ma’am, that Fanny is as little upon the sofa
-as anybody in the [[house]].”
+as anybody in the house.”
 
 “Fanny,” said [[characters/edmund|Edmund]], after looking at her attentively, “I am sure you
 have the headache.”
@@ -2568,10 +2568,10 @@ forget to have mine filled.”
 
 
 “She has got it,” said Lady [[characters/bertram|Bertram]]; “she has had it ever since she
-came back from your [[house]] the second [[motifs/time|time]].”
+came back from your house the second [[motifs/time|time]].”
 
 “What!” cried [[characters/edmund|Edmund]]; “has she been walking as [[motifs/well|well]] as cutting roses;
-walking across the hot park to your [[house]], and doing it twice, ma’am?
+walking across the hot park to your house, and doing it twice, ma’am?
 No [[concepts/wonder|wonder]] her head aches.”
 
 Mrs. Norris was talking to [[characters/julia|Julia]], and did not hear.
@@ -2598,7 +2598,7 @@ and had promised John Groom to write to Mrs. Jefferies about his son,
 and the poor fellow was waiting for me half an hour. I think nobody can
 justly accuse me of sparing myself upon any occasion, but really I
 cannot do everything at once. And as for Fanny’s just stepping down to
-my [[house]] for me—it is not much above a quarter of a mile—I cannot think
+my house for me—it is not much above a quarter of a mile—I cannot think
 I was unreasonable to ask it. How often do I pace it three times a day,
 early and late, ay, and in all weathers too, and say nothing about it?”
 
@@ -2673,7 +2673,7 @@ walk down to the Parsonage directly, and call on Mr. Crawford, and
 inquire whether Wednesday would suit him or not.
 
 Before his return Mrs. Grant and Miss Crawford came in. Having been out
-some [[motifs/time|time]], and taken a different route to the [[house]], they had not met
+some [[motifs/time|time]], and taken a different route to the house, they had not met
 him. Comfortable hopes, however, were given that he would find Mr.
 Crawford at [[motifs/home|home]]. The Sotherton scheme was mentioned of course. It was
 hardly possible, indeed, that anything else should be talked of, for
@@ -2914,14 +2914,14 @@ are over. The rest of the way is such as it ought to be. Mr. Rushworth
 has made it since he succeeded to the estate. Here begins the village.
 Those cottages are really a disgrace. The church spire is reckoned
 remarkably handsome. I am glad the church is not so close to the great
-[[house]] as often happens in old places. The annoyance of [[The Bells|the bells]] must
-be terrible. There is the parsonage: a tidy-looking [[house]], and I
+house as often happens in old places. The annoyance of the bells must
+be terrible. There is the parsonage: a tidy-looking house, and I
 understand the clergyman and his wife are very decent people. Those are
 almshouses, built by some of the family. To the right is the steward’s
-[[house]]; he is a very respectable man. Now we are coming to the
+house; he is a very respectable man. Now we are coming to the
 lodge-gates; but we have nearly a mile through the park still. It is
 not ugly, you see, at this end; there is some fine timber, but the
-situation of the [[house]] is dreadful. We go down [[motifs/hill|hill]] to it for half a
+situation of the house is dreadful. We go down [[motifs/hill|hill]] to it for half a
 mile, and it is a pity, for it would not be an ill-looking place if it
 had a better approach.”
 
@@ -2930,13 +2930,13 @@ Miss Crawford was not slow to admire; she pretty [[motifs/well|well]] guessed Mi
 enjoyment to the utmost. Mrs. Norris was all delight and volubility;
 and even Fanny had something to say in admiration, and might be heard
 with complacency. Her eye was eagerly taking in everything within her
-reach; and after being at some pains to get a view of the [[house]], and
+reach; and after being at some pains to get a view of the house, and
 observing that “it was a sort of building which she could not look at
-but with respect,” she added, “Now, where is the avenue? The [[house]]
+but with respect,” she added, “Now, where is the avenue? The house
 fronts the east, I perceive. The avenue, therefore, must be at the back
 of it. Mr. Rushworth talked of the west front.”
 
-“Yes, it is exactly behind the [[house]]; begins at a little distance, and
+“Yes, it is exactly behind the house; begins at a little distance, and
 ascends for half a mile to the extremity of the grounds. You may see
 something of it here—something of the more distant trees. It is oak
 entirely.”
@@ -2974,7 +2974,7 @@ present pleasure.”
 
 Mrs. Rushworth proposed that the chaise should be taken also; but this
 was scarcely received as an amendment: the young ladies neither smiled
-nor spoke. Her next proposition, of shewing the [[house]] to such of them
+nor spoke. Her next proposition, of shewing the house to such of them
 as had not been there before, was more acceptable, for Miss [[characters/bertram|Bertram]] was
 pleased to have its size displayed, and all were glad to be doing
 something.
@@ -2987,7 +2987,7 @@ handsome in its way. Of pictures there were abundance, and some few
 good, but the larger part were family portraits, no longer anything to
 anybody but Mrs. Rushworth, who had been at great pains to learn all
 that the housekeeper could teach, and was now almost equally [[motifs/well|well]]
-qualified to shew the [[house]]. On the present occasion she addressed
+qualified to shew the house. On the present occasion she addressed
 herself chiefly to Miss Crawford and Fanny, but there was no comparison
 in the willingness of their attention; for Miss Crawford, who had seen
 scores of great houses, and cared for none of them, had only the
@@ -2998,7 +2998,7 @@ former times, its rise and grandeur, regal visits and loyal efforts,
 delighted to connect anything with [[concepts/history|history]] already known, or warm her
 [[concepts/imagination|imagination]] with scenes of the past.
 
-The situation of the [[house]] excluded the possibility of much prospect
+The situation of the house excluded the possibility of much prospect
 from any of the rooms; and while Fanny and some of the others were
 attending Mrs. Rushworth, [[characters/henry-crawford|Henry Crawford]] was looking [[motifs/grave|grave]] and shaking
 his head at the windows. Every room on the west front looked across a
@@ -3049,7 +3049,7 @@ Mrs. Rushworth was gone to repeat her lesson to Mr. Crawford; and
 “It is a pity,” cried Fanny, “that the custom should have been
 discontinued. It was a valuable part of former times. There is
 something in a chapel and chaplain so much in character with a great
-[[house]], with one’s ideas of what such a household should be! A whole
+house, with one’s ideas of what such a household should be! A whole
 family assembling regularly for the purpose of [[motifs/prayer|prayer]] is fine!”
 
 “Very fine indeed,” said Miss Crawford, laughing. “It must do the heads
@@ -3077,7 +3077,7 @@ gape in that gallery could have foreseen that the [[motifs/time|time]] would eve
 when men and women might lie another ten minutes in bed, when they woke
 with a headache, without danger of reprobation, because chapel was
 missed, they would have jumped with joy and envy. Cannot you imagine
-with what unwilling feelings the former belles of the [[house]] of
+with what unwilling feelings the former belles of the house of
 Rushworth did many a [[motifs/time|time]] repair to this chapel? The young Mrs.
 Eleanors and Mrs. Bridgets—starched up into seeming piety, but with
 heads full of something very different—especially if the poor chaplain
@@ -3160,13 +3160,13 @@ reigned in it, with few interruptions, throughout the year. Miss
 [[characters/bertram|Bertram]], displeased with her sister, led the way, and all seemed to
 feel that they had been there long enough.
 
-The lower part of the [[house]] had been now entirely shewn, and Mrs.
+The lower part of the house had been now entirely shewn, and Mrs.
 Rushworth, never weary in the cause, would have proceeded towards the
 principal staircase, and taken them through all the rooms above, if her
 son had not interposed with a [[concepts/doubt|doubt]] of there being [[motifs/time|time]] enough. “For
 if,” said he, with the sort of [[concepts/self|self]]-evident proposition which many a
 clearer head does not always avoid, “we are _too_ long going over the
-[[house]], we shall not have [[motifs/time|time]] for what is to be done out of doors. It
+house, we shall not have [[motifs/time|time]] for what is to be done out of doors. It
 is past two, and we are to dine at five.”
 
 Mrs. Rushworth submitted; and the question of surveying the grounds,
@@ -3199,7 +3199,7 @@ No objection was made, but for some [[motifs/time|time]] there seemed no inclina
 move in any plan, or to any distance. All were attracted at first by
 the plants or the pheasants, and all dispersed about in happy
 independence. Mr. Crawford was the first to move forward to examine the
-capabilities of that end of the [[house]]. The lawn, bounded on each side
+capabilities of that end of the house. The lawn, bounded on each side
 by a high wall, contained beyond the first planted area a
 bowling-green, and beyond the bowling-green a long terrace walk, backed
 by iron palisades, and commanding a view over them into the tops of the
@@ -3292,7 +3292,7 @@ the rest of the week? One scarcely sees a clergyman out of his pulpit.”
 “The metropolis, I imagine, is a pretty fair sample of the rest.”
 
 “Not, I should [[concepts/hope|hope]], of the proportion of virtue to vice throughout the
-kingdom. We do not look in great cities for our best [[morality]]. It is
+kingdom. We do not look in great cities for our best morality. It is
 not there that respectable people of any denomination can do most good;
 and it certainly is not there that the influence of the clergy can be
 most felt. A fine preacher is followed and admired; but it is not in
@@ -3461,7 +3461,7 @@ approaching; but she had just satisfied herself that it was not those
 she wanted, when Miss [[characters/bertram|Bertram]], Mr. Rushworth, and Mr. Crawford issued
 from the same path which she had trod herself, and were before her.
 
-“Miss Price all [[Alone|alone]]” and “My dear Fanny, how comes this?” were the
+“Miss Price all alone” and “My dear Fanny, how comes this?” were the
 first salutations. She told her story. “Poor dear Fanny,” cried her
 cousin, “how ill you have been used by them! You had better have staid
 with us.”
@@ -3473,7 +3473,7 @@ but [[characters/henry-crawford|Henry Crawford]] was full of ideas and projects,
 speaking, whatever he proposed was immediately approved, first by her,
 and then by Mr. Rushworth, whose principal business seemed to be to
 hear the others, and who scarcely risked an original thought of his own
-beyond a wish that they had seen his friend [[smith|Smith]]’s place.
+beyond a wish that they had seen his friend Smith’s place.
 
 After some minutes spent in this way, Miss [[characters/bertram|Bertram]], observing the iron
 gate, expressed a wish of passing through it into the park, that their
@@ -3481,7 +3481,7 @@ views and their plans might be more comprehensive. It was the very
 thing of all others to be wished, it was the best, it was the only way
 of proceeding with any advantage, in [[characters/henry-crawford|Henry Crawford]]’s opinion; and he
 directly saw a knoll not half a mile off, which would give them exactly
-the requisite command of the [[house]]. Go therefore they must to that
+the requisite command of the house. Go therefore they must to that
 knoll, and through that gate; but the gate was locked. Mr. Rushworth
 wished he had brought the key; he had been very near thinking whether
 he should not bring the key; he was determined he would never come
@@ -3491,7 +3491,7 @@ doing did by no means lessen, it ended in Mr. Rushworth’s declaring
 outright that he would go and fetch the key. He set off accordingly.
 
 “It is undoubtedly the best thing we can do now, as we are so far from
-the [[house]] already,” said Mr. Crawford, when he was gone.
+the house already,” said Mr. Crawford, when he was gone.
 
 “Yes, there is nothing else to be done. But now, sincerely, do not you
 find the place altogether worse than you expected?”
@@ -3561,7 +3561,7 @@ gown; you will be in danger of slipping into the ha-ha. You had better
 not go.”
 
 Her cousin was safe on the other side while these words were spoken,
-and, smiling with all the good-[[Humour|humour]] of [[success]], she said, “Thank you,
+and, smiling with all the good-humour of success, she said, “Thank you,
 my dear Fanny, but I and my gown are alive and [[motifs/well|well]], and so good-bye.”
 
 Fanny was again left to her [[concepts/solitude|solitude]], and with no increase of pleasant
@@ -3668,7 +3668,7 @@ been some excuse, but I went the very moment she said she wanted it.”
 
 “Nothing could be more obliging than your manner, I am sure, and I dare
 say you walked as fast as you could; but still it is some distance, you
-know, from this spot to the [[house]], quite into the [[house]]; and when
+know, from this spot to the house, quite into the house; and when
 people are waiting, they are bad judges of [[motifs/time|time]], and every half minute
 seems like five.”
 
@@ -3676,7 +3676,7 @@ He got up and walked to the gate again, and “wished he had had the key
 about him at the [[motifs/time|time]].” Fanny thought she discerned in his standing
 there an indication of relenting, which encouraged her to another
 attempt, and she said, therefore, “It is a pity you should not join
-them. They expected to have a better view of the [[house]] from that part
+them. They expected to have a better view of the house from that part
 of the park, and will be thinking how it may be improved; and nothing
 of that sort, you know, can be settled without you.”
 
@@ -3706,7 +3706,7 @@ when he had talked of only a few minutes, nor to banish the sort of
 curiosity she felt to know what they had been conversing about all that
 [[motifs/time|time]]; and the result of the whole was to her disappointment and
 depression, as they prepared by general agreement to return to the
-[[house]].
+house.
 
 
 
@@ -3717,12 +3717,12 @@ depression, as they prepared by general agreement to return to the
 On reaching the [[characters/bottom|bottom]] of the steps to the terrace, Mrs. Rushworth and
 Mrs. Norris presented themselves at the top, just ready for the
 wilderness, at the end of an hour and a half from their leaving the
-[[house]]. Mrs. Norris had been too [[motifs/well|well]] employed to move faster. Whatever
+house. Mrs. Norris had been too [[motifs/well|well]] employed to move faster. Whatever
 [[motifs/cross|cross]]-accidents had occurred to intercept the pleasures of her nieces,
 she had found a morning of complete enjoyment; for the housekeeper,
 after a great many courtesies on the subject of pheasants, had taken
 her to the dairy, told her all about their cows, and given her the
-receipt for a famous cream [[cheese]]; and since [[characters/julia|Julia]]’s leaving them they
+receipt for a famous cream cheese; and since [[characters/julia|Julia]]’s leaving them they
 had been met by the gardener, with whom she had made a most
 satisfactory acquaintance, for she had set him right as to his
 grandson’s illness, convinced him that it was an ague, and promised him
@@ -3730,7 +3730,7 @@ a charm for it; and he, in return, had shewn her all his choicest
 nursery of plants, and actually presented her with a very curious
 specimen of heath.
 
-On this _rencontre_ they all returned to the [[house]] together, there to
+On this _rencontre_ they all returned to the house together, there to
 lounge away the [[motifs/time|time]] as they could with sofas, and chit-chat, and
 Quarterly Reviews, till the return of the others, and the arrival of
 dinner. It was late before the Miss Bertrams and the two gentlemen came
@@ -3745,13 +3745,13 @@ that hers was not the only dissatisfied bosom amongst them: there was
 gloom on the face of each. Mr. Crawford and Miss [[characters/bertram|Bertram]] were much more
 gay, and she thought that he was taking particular pains, during
 dinner, to do away any little resentment of the other two, and restore
-general good-[[Humour|humour]].
+general good-humour.
 
 Dinner was soon followed by tea and coffee, a ten miles’ drive [[motifs/home|home]]
 allowed no waste of hours; and from the [[motifs/time|time]] of their sitting down to
 table, it was a quick succession of busy nothings till the carriage
 came to the door, and Mrs. Norris, having fidgeted about, and obtained
-a few pheasants’ eggs and a cream [[cheese]] from the housekeeper, and made
+a few pheasants’ eggs and a cream cheese from the housekeeper, and made
 abundance of civil speeches to Mrs. Rushworth, was ready to lead the
 way. At the same moment Mr. Crawford, approaching [[characters/julia|Julia]], said, “I [[concepts/hope|hope]]
 I am not to lose my companion, unless she is afraid of the evening air
@@ -3778,14 +3778,14 @@ elbow unmercifully.”
 “My dear, it is only a beautiful little heath, which that nice old
 gardener would make me take; but if it is in your way, I will have it
 in my lap directly. There, Fanny, you shall carry that parcel for me;
-take great care of it: do not let it fall; it is a cream [[cheese]], just
+take great care of it: do not let it fall; it is a cream cheese, just
 like the excellent one we had at dinner. Nothing would satisfy that
 good old Mrs. Whitaker, but my taking one of the cheeses. I stood out
 as long as I could, till the [[motifs/tears|tears]] almost came into her eyes, and I
 knew it was just the sort that my sister would be delighted with. That
 Mrs. Whitaker is a treasure! She was quite shocked when I asked her
 whether wine was allowed at the second table, and she has turned away
-two housemaids for wearing white gowns. Take care of the [[cheese]], Fanny.
+two housemaids for wearing white gowns. Take care of the cheese, Fanny.
 Now I can manage the other parcel and the basket very [[motifs/well|well]].”
 
 “What else have you been spunging?” said [[characters/maria|Maria]], half-pleased that
@@ -3794,10 +3794,10 @@ Sotherton should be so complimented.
 “Spunging, my dear! It is nothing but four of those beautiful
 pheasants’ eggs, which Mrs. Whitaker would quite force upon me: she
 would not take a denial. She said it must be such an amusement to me,
-as she understood I lived quite [[Alone|alone]], to have a few living creatures
+as she understood I lived quite alone, to have a few living creatures
 of that sort; and so to be sure it will. I shall get the dairymaid to
 set them under the first spare hen, and if they come to good I can have
-them moved to my own [[house]] and borrow a coop; and it will be a great
+them moved to my own house and borrow a coop; and it will be a great
 delight to me in my lonely hours to attend to them. And if I have good
 luck, your mother shall have some.”
 
@@ -3986,7 +3986,7 @@ scholar and clever, and often preaches good sermons, and is very
 respectable, _I_ see him to be an indolent, selfish _bon_ _vivant_, who
 must have his palate consulted in everything; who will not stir a
 finger for the convenience of any one; and who, moreover, if the cook
-makes a blunder, is out of [[Humour|humour]] with his excellent wife. To own the
+makes a blunder, is out of humour with his excellent wife. To own the
 [[concepts/truth|truth]], Henry and I were partly driven out this very evening by a
 disappointment about a green goose, which he could not get the better
 of. My poor sister was forced to stay and bear it.”
@@ -4018,7 +4018,7 @@ he would if he had been anything but a clergyman.”
 “We cannot prove to the contrary, to be sure; but I wish you a better
 fate, Miss Price, than to be the wife of a man whose amiableness
 depends upon his own sermons; for though he may preach himself into a
-good-[[Humour|humour]] every [[characters/sunday|Sunday]], it will be bad enough to have him quarrelling
+good-humour every [[characters/sunday|Sunday]], it will be bad enough to have him quarrelling
 about green geese from Monday morning till Saturday [[motifs/night|night]].”
 
 “I think the man who could often quarrel with Fanny,” said [[characters/edmund|Edmund]]
@@ -4032,7 +4032,7 @@ leaving [[characters/edmund|Edmund]] looking after her in an ecstasy of admirati
 many virtues, from her obliging manners down to her light and graceful
 tread.
 
-“There goes good-[[Humour|humour]], I am sure,” said he presently. “There goes a
+“There goes good-humour, I am sure,” said he presently. “There goes a
 temper which would never give [[motifs/pain|pain]]! How [[motifs/well|well]] she walks! and how readily
 she falls in with the inclination of others! joining them the moment
 she is asked. What a pity,” he added, after an instant’s reflection,
@@ -4075,7 +4075,7 @@ too, moving forward by gentle degrees towards the instrument, and when
 it ceased, he was close by the singers, among the most urgent in
 requesting to hear the glee again.
 
-Fanny sighed [[Alone|alone]] at the [[motifs/window|window]] till scolded away by Mrs. Norris’s
+Fanny sighed alone at the [[motifs/window|window]] till scolded away by Mrs. Norris’s
 threats of catching cold.
 
 
@@ -4127,7 +4127,7 @@ further.
 
 [[characters/maria|Maria]], with only Mr. Rushworth to attend to her, and doomed to the
 repeated details of his day’s sport, good or bad, his boast of his
-[[dogs]], his [[concepts/jealousy|jealousy]] of his neighbours, his doubts of their
+dogs, his [[concepts/jealousy|jealousy]] of his neighbours, his doubts of their
 qualifications, and his zeal after poachers, subjects which will not
 find their way to female feelings without some talent on one side or
 some attachment on the other, had missed Mr. Crawford grievously; and
@@ -4266,7 +4266,7 @@ of it,” said he, in a much brisker tone, and throwing down the
 newspaper again, “for I am tired to [[motifs/death|death]]. I only [[concepts/wonder|wonder]] how the good
 people can keep it up so long. They had need be _all_ in [[motifs/love|love]], to find
 any amusement in such folly; and so they are, I fancy. If you look at
-them you may see they are so many couple of [[lovers]]—all but Yates and
+them you may see they are so many couple of lovers—all but Yates and
 Mrs. Grant—and, between ourselves, she, poor woman, must want a [[archetypes/lover|lover]]
 as much as any one of them. A desperate dull life hers must be with the
 doctor,” making a sly face as he spoke towards the chair of the latter,
@@ -4327,7 +4327,7 @@ spent ten days together in the same society, and the [[concepts/friendship|frien
 Yates’s being invited to take Mansfield in his way, whenever he could,
 and by his promising to come; and he did come rather earlier than had
 been expected, in consequence of the sudden breaking-up of a large
-party assembled for gaiety at the [[house]] of another friend, which he had
+party assembled for gaiety at the house of another friend, which he had
 left Weymouth to join. He came on the wings of disappointment, and with
 his head full of acting, for it had been a theatrical party; and the
 play in which he had borne a part was within two days of
@@ -4347,7 +4347,7 @@ acting so strong among young people, that he could hardly out-talk the
 interest of his hearers. From the first casting of the parts to the
 epilogue it was all bewitching, and there were few who did not wish to
 have been a party concerned, or would have hesitated to try their
-skill. The play had been [[lovers|Lovers]]’ Vows, and Mr. Yates was to have been
+skill. The play had been Lovers’ Vows, and Mr. Yates was to have been
 Count Cassel. “A trifling part,” said he, “and not at all to my taste,
 and such a one as I certainly would not accept again; but I was
 determined to make no difficulties. Lord Ravenshaw and the duke had
@@ -4377,7 +4377,7 @@ no great harm, and it was suggested, I know; but Lord Ravenshaw, who I
 suppose is one of the most correct men in England, would not hear of
 it.”
 
-“An afterpiece instead of a [[forms/comedy|comedy]],” said Mr. [[characters/bertram|Bertram]]. “[[lovers|Lovers]]’ Vows
+“An afterpiece instead of a [[forms/comedy|comedy]],” said Mr. [[characters/bertram|Bertram]]. “Lovers’ Vows
 were at an end, and Lord and Lady Ravenshaw left to act My Grandmother
 by themselves. [[motifs/well|Well]], the jointure may comfort _him_; and perhaps,
 between friends, he began to tremble for his credit and his lungs in
@@ -4387,7 +4387,7 @@ to be our manager.”
 
 This, though the thought of the moment, did not end with the moment;
 for the inclination to act was awakened, and in no one more strongly
-than in him who was now master of the [[house]]; and who, having so much
+than in him who was now master of the house; and who, having so much
 leisure as to make almost any novelty a certain good, had likewise such
 a degree of lively talents and comic taste, as were exactly adapted to
 the novelty of acting. The thought returned again and again. “Oh for
@@ -4403,7 +4403,7 @@ in the English language. Let us be doing something. Be it only half a
 play, an act, a scene; what should prevent us? Not these countenances,
 I am sure,” looking towards the Miss Bertrams; “and for a theatre, what
 signifies a theatre? We shall be only amusing ourselves. Any room in
-this [[house]] might suffice.”
+this house might suffice.”
 
 “We must have a curtain,” said Tom [[characters/bertram|Bertram]]; “a few yards of green baize
 for a curtain, and perhaps that may be enough.”
@@ -4429,7 +4429,7 @@ by halves. If we are to act, let it be in a theatre completely fitted
 up with pit, boxes, and gallery, and let us have a play entire from
 beginning to end; so as it be a German play, no matter what, with a
 good tricking, shifting afterpiece, and a figure-[[motifs/dance|dance]], and a hornpipe,
-and a [[Song|song]] between the acts. If we do not outdo Ecclesford, we do
+and a song between the acts. If we do not outdo Ecclesford, we do
 nothing.”
 
 “Now, [[characters/edmund|Edmund]], do not be disagreeable,” said [[characters/julia|Julia]]. “Nobody loves a play
@@ -4549,11 +4549,11 @@ of the family.”
 “If you are resolved on acting,” replied the persevering [[characters/edmund|Edmund]], “I
 must [[concepts/hope|hope]] it will be in a very small and quiet way; and I think a
 theatre ought not to be attempted. It would be taking liberties with my
-father’s [[house]] in his absence which could not be justified.”
+father’s house in his absence which could not be justified.”
 
 “For everything of that [[concepts/nature|nature]] I will be answerable,” said Tom, in a
-decided tone. “His [[house]] shall not be hurt. I have quite as great an
-interest in being careful of his [[house]] as you can have; and as to such
+decided tone. “His house shall not be hurt. I have quite as great an
+interest in being careful of his house as you can have; and as to such
 alterations as I was suggesting just now, such as moving a bookcase, or
 unlocking a door, or even as using the billiard-room for the space of a
 week without playing at billiards in it, you might just as [[motifs/well|well]] suppose
@@ -4572,7 +4572,7 @@ and a little carpenter’s work, and that’s all; and as the carpenter’s
 work may be all done at [[motifs/home|home]] by Christopher Jackson himself, it will be
 too absurd to talk of expense; and as long as Jackson is employed,
 everything will be right with Sir Thomas. Don’t imagine that nobody in
-this [[house]] can see or judge but yourself. Don’t act yourself, if you do
+this house can see or judge but yourself. Don’t act yourself, if you do
 not like it, but don’t expect to govern everybody else.”
 
 “No, as to acting myself,” said [[characters/edmund|Edmund]], “_that_ I absolutely protest
@@ -4634,7 +4634,7 @@ nephew and niece, who were all-powerful with her; and as the whole
 arrangement was to bring very little expense to anybody, and none at
 all to herself, as she foresaw in it all the comforts of hurry, bustle,
 and importance, and derived the immediate advantage of fancying herself
-obliged to leave her own [[house]], where she had been living a month at
+obliged to leave her own house, where she had been living a month at
 her own cost, and take up her abode in theirs, that every hour might be
 spent in their service, she was, in fact, exceedingly delighted with
 the project.
@@ -4668,7 +4668,7 @@ there did seem as little chance of a decision as anything pursued by
 youth and zeal could hold out.
 
 On the tragic side were the Miss Bertrams, [[characters/henry-crawford|Henry Crawford]], and Mr.
-Yates; on the comic, Tom [[characters/bertram|Bertram]], not _quite_ [[Alone|alone]], because it was
+Yates; on the comic, Tom [[characters/bertram|Bertram]], not _quite_ alone, because it was
 evident that [[characters/mary-crawford|Mary Crawford]]’s wishes, though politely kept back,
 inclined the same way: but his determinateness and his power seemed to
 make allies unnecessary; and, independent of this great irreconcilable
@@ -4713,8 +4713,8 @@ Personæ.
 
 The pause which followed this fruitless effort was ended by the same
 speaker, who, taking up one of the many volumes of plays that lay on
-the table, and turning it over, suddenly exclaimed—“[[lovers|Lovers]]’ Vows! And
-why should not [[lovers|Lovers]]’ Vows do for _us_ as [[motifs/well|well]] as for the Ravenshaws?
+the table, and turning it over, suddenly exclaimed—“Lovers’ Vows! And
+why should not Lovers’ Vows do for _us_ as [[motifs/well|well]] as for the Ravenshaws?
 How came it never to be thought of before? It strikes me as if it would
 do exactly. What say you all? Here are two capital tragic parts for
 Yates and Crawford, and here is the rhyming Butler for me, if nobody
@@ -4879,7 +4879,7 @@ auditor of the whole, and who could not think of her as under the
 agitations of _jealousy_ without great pity.
 
 A short [[motifs/silence|silence]] succeeded her leaving them; but her brother soon
-returned to business and [[lovers|Lovers]]’ Vows, and was eagerly looking over the
+returned to business and Lovers’ Vows, and was eagerly looking over the
 play, with Mr. Yates’s help, to ascertain what scenery would be
 necessary—while [[characters/maria|Maria]] and [[characters/henry-crawford|Henry Crawford]] conversed together in an
 under-voice, and the declaration with which she began of, “I am sure I
@@ -4891,7 +4891,7 @@ When this had lasted some [[motifs/time|time]], the division of the party was co
 by Tom [[characters/bertram|Bertram]] and Mr. Yates walking off together to consult farther in
 the room now beginning to be called _the_ _Theatre_, and Miss [[characters/bertram|Bertram]]’s
 resolving to go down to the Parsonage herself with the offer of Amelia
-to Miss Crawford; and Fanny remained [[Alone|alone]].
+to Miss Crawford; and Fanny remained alone.
 
 The first use she made of her [[concepts/solitude|solitude]] was to take up the volume which
 had been left on the table, and begin to acquaint herself with the play
@@ -4941,7 +4941,7 @@ before dinner, the buzz of discussion was high between Tom, [[characters/maria|M
 Mr. Yates; and Mr. Rushworth stepped forward with great alacrity to
 tell him the agreeable news.
 
-“We have got a play,” said he. “It is to be [[lovers|Lovers]]’ Vows; and I am to
+“We have got a play,” said he. “It is to be Lovers’ Vows; and I am to
 be Count Cassel, and am to come in first with a blue dress and a pink
 satin cloak, and afterwards am to have another fine fancy suit, by way
 of a shooting-dress. I do not know how I shall like it.”
@@ -4949,13 +4949,13 @@ of a shooting-dress. I do not know how I shall like it.”
 Fanny’s eyes followed [[characters/edmund|Edmund]], and her heart beat for him as she heard
 this speech, and saw his look, and felt what his sensations must be.
 
-“[[lovers|Lovers]]’ Vows!” in a tone of the greatest amazement, was his only reply
+“Lovers’ Vows!” in a tone of the greatest amazement, was his only reply
 to Mr. Rushworth, and he turned towards his brother and sisters as if
 hardly doubting a contradiction.
 
 “Yes,” cried Mr. Yates. “After all our debatings and difficulties, we
 find there is nothing that will suit us altogether so [[motifs/well|well]], nothing so
-unexceptionable, as [[lovers|Lovers]]’ Vows. The [[concepts/wonder|wonder]] is that it should not have
+unexceptionable, as Lovers’ Vows. The [[concepts/wonder|wonder]] is that it should not have
 been thought of before. My stupidity was abominable, for here we have
 all the advantage of what I saw at Ecclesford; and it is so useful to
 have anything of a model! We have cast almost every part.”
@@ -5003,7 +5003,7 @@ is. In all points of decorum _your_ conduct must be law to the rest of
 the party.”
 
 This picture of her consequence had some effect, for no one loved
-better to lead than [[characters/maria|Maria]]; and with far more good-[[Humour|humour]] she answered,
+better to lead than [[characters/maria|Maria]]; and with far more good-humour she answered,
 “I am much obliged to you, [[characters/edmund|Edmund]]; you mean very [[motifs/well|well]], I am sure: but I
 still think you see things too strongly; and I really cannot undertake
 to harangue all the rest upon a subject of this kind. _There_ would be
@@ -5073,7 +5073,7 @@ who ought to be ashamed of himself), ‘_I’ll_ take the boards to your
 father, Dick, so get you [[motifs/home|home]] again as fast as you can.’ The boy looked
 very silly, and turned away without offering a word, for I believe I
 might speak pretty sharp; and I dare say it will cure him of coming
-marauding about the [[house]] for one while. I hate such greediness—so good
+marauding about the house for one while. I hate such greediness—so good
 as your father is to the family, employing the man all the year round!”
 
 Nobody was at the trouble of an answer; the others soon returned; and
@@ -5353,7 +5353,7 @@ prelude to something so infinitely worse, to be told that she must do
 what was so impossible as to act; and then to have the charge of
 obstinacy and ingratitude follow it, enforced with such a hint at the
 dependence of her situation, had been too distressing at the [[motifs/time|time]] to
-make the remembrance when she was [[Alone|alone]] much less so, especially with
+make the remembrance when she was alone much less so, especially with
 the superadded dread of what the morrow might produce in continuation
 of the subject. Miss Crawford had protected her only for the [[motifs/time|time]]; and
 if she were applied to again among themselves with all the
@@ -5386,7 +5386,7 @@ superiority could demand, were entirely approving it; and Mrs. Norris,
 having stipulated for there never being a [[motifs/fire|fire]] in it on Fanny’s
 account, was tolerably resigned to her having the use of what nobody
 else wanted, though the terms in which she sometimes spoke of the
-indulgence seemed to imply that it was the best room in the [[house]].
+indulgence seemed to imply that it was the best room in the house.
 
 The aspect was so favourable that even without a [[motifs/fire|fire]] it was habitable
 in many an early [[motifs/spring|spring]] and late [[motifs/autumn|autumn]] morning to such a willing mind
@@ -5412,7 +5412,7 @@ told her not to cry, or had given her some proof of affection which
 made her [[motifs/tears|tears]] delightful; and the whole was now so blended together,
 so harmonised by distance, that every former affliction had its charm.
 The room was most dear to her, and she would not have changed its
-furniture for the handsomest in the [[house]], though what had been
+furniture for the handsomest in the house, though what had been
 originally plain had suffered all the ill-usage of children; and its
 greatest elegancies and ornaments were a faded footstool of [[characters/julia|Julia]]’s
 work, too ill done for the drawing-room, three transparencies, made in
@@ -5435,7 +5435,7 @@ so warmly asked, so strongly wished for—what might be so essential to a
 scheme on which some of those to whom she owed the greatest
 complaisance had set their hearts? Was it not ill-[[concepts/nature|nature]], selfishness,
 and a [[concepts/fear|fear]] of exposing herself? And would [[characters/edmund|Edmund]]’s judgment, would his
-[[Persuasion|persuasion]] of Sir Thomas’s disapprobation of the whole, be enough to
+persuasion of Sir Thomas’s disapprobation of the whole, be enough to
 justify her in a determined denial in spite of all the rest? It would
 be so horrible to her to act that she was inclined to suspect the [[concepts/truth|truth]]
 and purity of her own scruples; and as she looked around her, the
@@ -5520,7 +5520,7 @@ it. But if I can be the means of restraining the publicity of the
 business, of limiting the exhibition, of concentrating our folly, I
 shall be [[motifs/well|well]] repaid. As I am now, I have no influence, I can do
 nothing: I have offended them, and they will not hear me; but when I
-have put them in good-[[Humour|humour]] by this concession, I am not without hopes
+have put them in good-humour by this concession, I am not without hopes
 of persuading them to confine the representation within a much smaller
 circle than they are now in the high [[motifs/road|road]] for. This will be a material
 gain. My object is to confine it to Mrs. Rushworth and the Grants. Will
@@ -5562,7 +5562,7 @@ spoken to you, and come to a decision. Sleeping or waking, my head has
 been full of this matter all [[motifs/night|night]]. It is an evil, but I am certainly
 making it less than it might be. If Tom is up, I shall go to him
 directly and get it over, and when we meet at breakfast we shall be all
-in high good-[[Humour|humour]] at the prospect of acting the [[archetypes/fool|fool]] together with
+in high good-humour at the prospect of acting the [[archetypes/fool|fool]] together with
 such unanimity. _You_, in the meanwhile, will be taking a trip into
 China, I suppose. How does Lord Macartney go on?”—opening a volume on
 the table and then taking up some others. “And here are Crabbe’s Tales,
@@ -5616,7 +5616,7 @@ had particularly wished. A stranger among them would have been the
 destruction of all their comfort”; and when [[characters/edmund|Edmund]], pursuing that idea,
 gave a hint of his [[concepts/hope|hope]] as to the limitation of the audience, they were
 ready, in the complaisance of the moment, to promise anything. It was
-all good-[[Humour|humour]] and encouragement. Mrs. Norris offered to contrive his
+all good-humour and encouragement. Mrs. Norris offered to contrive his
 dress, Mr. Yates assured him that Anhalt’s last scene with the Baron
 admitted a good deal of action and emphasis, and Mr. Rushworth
 undertook to count his speeches.
@@ -5637,7 +5637,7 @@ affair as could have but one effect on him. “He was certainly right in
 respecting such feelings; he was glad he had determined on it.” And the
 morning wore away in satisfactions very sweet, if not very sound. One
 advantage resulted from it to Fanny: at the earnest request of Miss
-Crawford, Mrs. Grant had, with her usual good-[[Humour|humour]], agreed to
+Crawford, Mrs. Grant had, with her usual good-humour, agreed to
 undertake the part for which Fanny had been wanted; and this was all
 that occurred to gladden _her_ heart during the day; and even this,
 when imparted by [[characters/edmund|Edmund]], brought a pang with it, for it was Miss
@@ -5655,7 +5655,7 @@ hardly answer calmly. Everybody around her was gay and busy, prosperous
 and important; each had their object of interest, their part, their
 dress, their favourite scene, their friends and confederates: all were
 finding employment in consultations and comparisons, or diversion in
-the playful conceits they suggested. She [[Alone|alone]] was sad and
+the playful conceits they suggested. She alone was sad and
 insignificant: she had no share in anything; she might go or stay; she
 might be in the midst of their noise, or retreat from it to the
 [[concepts/solitude|solitude]] of the East room, without being seen or missed. She could
@@ -5681,7 +5681,7 @@ submitted to it without any alarm for [[characters/maria|Maria]]’s situation, 
 endeavour at rational tranquillity for herself. She either sat in
 gloomy [[motifs/silence|silence]], wrapt in such gravity as nothing could subdue, no
 curiosity touch, no wit amuse; or allowing the attentions of Mr. Yates,
-was talking with forced gaiety to him [[Alone|alone]], and ridiculing the acting
+was talking with forced gaiety to him alone, and ridiculing the acting
 of the others.
 
 For a day or two after the affront was given, [[characters/henry-crawford|Henry Crawford]] had
@@ -5722,7 +5722,7 @@ put him in the way of doing anything yet.”
 
 “Sir Thomas is to achieve many mighty things when he comes [[motifs/home|home]],” said
 Mary, after a pause. “Do you remember Hawkins Browne’s ‘Address to
-Tobacco,’ in [[Imitation|imitation]] of Pope?—
+Tobacco,’ in imitation of Pope?—
 
 Blest leaf! whose aromatic gales dispense
 To Templars modesty, to Parsons sense.
@@ -5740,7 +5740,7 @@ Thomas’s return.”
 “You will find his consequence very just and reasonable when you see
 him in his family, I assure you. I do not think we do so [[motifs/well|well]] without
 him. He has a fine dignified manner, which suits the head of such a
-[[house]], and keeps everybody in their place. Lady [[characters/bertram|Bertram]] seems more of a
+house, and keeps everybody in their place. Lady [[characters/bertram|Bertram]] seems more of a
 cipher now than when he is at [[motifs/home|home]]; and nobody else can keep Mrs.
 Norris in order. But, Mary, do not fancy that [[characters/maria-bertram|Maria Bertram]] cares for
 Henry. I am sure _Julia_ does not, or she would not have flirted as she
@@ -5912,7 +5912,7 @@ leisure, _I_ mean to look in at their rehearsals too. What is the play
 about, Fanny? you have never told me.”
 
 “Oh! sister, pray do not ask her now; for Fanny is not one of those who
-can talk and work at the same [[motifs/time|time]]. It is about [[lovers|Lovers]]’ Vows.”
+can talk and work at the same [[motifs/time|time]]. It is about Lovers’ Vows.”
 
 “I believe,” said Fanny to her aunt [[characters/bertram|Bertram]], “there will be three acts
 rehearsed to-morrow evening, and that will give you an opportunity of
@@ -5988,7 +5988,7 @@ theatre, I dare say; much more fitted for little girls to sit and kick
 their feet against when they are learning a lesson. What would your
 governess and your uncle say to see them used for such a purpose? Could
 Sir Thomas look in upon us just now, he would bless himself, for we are
-rehearsing all over the [[house]]. Yates is storming away in the
+rehearsing all over the house. Yates is storming away in the
 dining-room. I heard him as I came upstairs, and the theatre is engaged
 of course by those indefatigable rehearsers, [[characters/agatha|Agatha]] and Frederick. If
 _they_ are not perfect, I _shall_ be surprised. By the bye, I looked in
@@ -6019,7 +6019,7 @@ business that had brought Miss Crawford, consciousness and pleasure
 were likely to be more than momentary in _them_. He too had his book,
 and was seeking Fanny, to ask her to rehearse with him, and help him to
 prepare for the evening, without knowing Miss Crawford to be in the
-[[house]]; and great was the joy and animation of being thus thrown
+house; and great was the joy and animation of being thus thrown
 together, of comparing schemes, and sympathising in praise of Fanny’s
 kind offices.
 
@@ -6043,7 +6043,7 @@ wanted help. It was imputed to very reasonable weariness, and she was
 thanked and pitied; but she deserved their pity more than she hoped
 they would ever surmise. At last the scene was over, and Fanny forced
 herself to add her praise to the compliments each was giving the other;
-and when again [[Alone|alone]] and able to recall the whole, she was inclined to
+and when again alone and able to recall the whole, she was inclined to
 believe their performance would, indeed, have such [[concepts/nature|nature]] and feeling
 in it as must ensure their credit, and make it a very [[concepts/suffering|suffering]]
 exhibition to herself. Whatever might be its effect, however, she must
@@ -6103,7 +6103,7 @@ satisfied; and she was left to the tremors of a most palpitating heart,
 while the others prepared to begin.
 
 They _did_ begin; and being too much engaged in their own noise to be
-struck by an unusual noise in the other part of the [[house]], had
+struck by an unusual noise in the other part of the house, had
 proceeded some way when the door of the room was thrown open, and
 [[characters/julia|Julia]], appearing at it, with a face all aghast, exclaimed, “My father
 is come! He is in the hall at this moment.”
@@ -6118,7 +6118,7 @@ CHAPTER XIX
 
 
 How is the consternation of the party to be described? To the greater
-number it was a moment of absolute horror. Sir Thomas in the [[house]]! All
+number it was a moment of absolute horror. Sir Thomas in the house! All
 felt the instantaneous conviction. Not a [[concepts/hope|hope]] of imposition or mistake
 was harboured anywhere. [[characters/julia|Julia]]’s looks were an evidence of the fact that
 made it indisputable; and after the first starts and exclamations, not
@@ -6165,7 +6165,7 @@ on Sir Thomas’s affection was much too humble to give her any idea of
 classing herself with his children, she was glad to remain behind and
 gain a little breathing-[[motifs/time|time]]. Her agitation and alarm exceeded all that
 was endured by the rest, by the right of a disposition which not even
-[[innocence]] could keep from [[concepts/suffering|suffering]]. She was nearly fainting: all her
+innocence could keep from [[concepts/suffering|suffering]]. She was nearly fainting: all her
 former habitual dread of her uncle was returning, and with it
 compassion for him and for almost every one of the party on the
 development before him, with solicitude on [[characters/edmund|Edmund]]’s account
@@ -6236,7 +6236,7 @@ unsuspected vexation was probably ready to burst on him.
 Sir Thomas was indeed the life of the party, who at his suggestion now
 seated themselves round the [[motifs/fire|fire]]. He had the best right to be the
 talker; and the delight of his sensations in being again in his own
-[[house]], in the centre of his family, after such a separation, made him
+house, in the centre of his family, after such a separation, made him
 communicative and chatty in a very unusual degree; and he was ready to
 give every information as to his voyage, and answer every question of
 his two sons almost before it was put. His business in Antigua had
@@ -6274,14 +6274,14 @@ would have been for her to bear a lengthened absence.
 
 Mrs. Norris was by no means to be compared in happiness to her sister.
 Not that _she_ was incommoded by many fears of Sir Thomas’s
-disapprobation when the present state of his [[house]] should be known, for
+disapprobation when the present state of his house should be known, for
 her judgment had been so blinded that, except by the instinctive
 caution with which she had whisked away Mr. Rushworth’s pink satin
 cloak as her brother-in-law entered, she could hardly be said to shew
 any sign of alarm; but she was vexed by the _manner_ of his return. It
 had left her nothing to do. Instead of being sent for out of the room,
 and seeing him first, and having to spread the happy news through the
-[[house]], Sir Thomas, with a very reasonable dependence, perhaps, on the
+house, Sir Thomas, with a very reasonable dependence, perhaps, on the
 nerves of his wife and children, had sought no confidant but the
 butler, and had been following him almost instantaneously into the
 drawing-room. Mrs. Norris felt herself defrauded of an office on which
@@ -6325,7 +6325,7 @@ You will hear enough of it to-morrow, sir. We have just been trying, by
 way of doing something, and amusing my mother, just within the last
 week, to get up a few scenes, a mere trifle. We have had such incessant
 rains almost since October began, that we have been nearly confined to
-the [[house]] for days together. I have hardly taken out a gun since the
+the house for days together. I have hardly taken out a gun since the
 3rd. Tolerable sport the first three days, but there has been no
 attempting anything since. The first day I went over Mansfield Wood,
 and [[characters/edmund|Edmund]] took the copses beyond Easton, and we brought [[motifs/home|home]] six brace
@@ -6345,7 +6345,7 @@ soon.”
 For the present the danger was over, and Fanny’s sick feelings
 subsided; but when tea was soon afterwards brought in, and Sir Thomas,
 getting up, said that he found that he could not be any longer in the
-[[house]] without just looking into his own dear room, every agitation was
+house without just looking into his own dear room, every agitation was
 returning. He was gone before anything had been said to prepare him for
 the change he must find there; and a pause of alarm followed his
 disappearance. [[characters/edmund|Edmund]] was the first to speak—
@@ -6358,7 +6358,7 @@ else. “Where did you leave Miss Crawford, Fanny?”
 
 Fanny told of their departure, and delivered their message.
 
-“Then poor Yates is all [[Alone|alone]],” cried Tom. “I will go and fetch him. He
+“Then poor Yates is all alone,” cried Tom. “I will go and fetch him. He
 will be no bad assistant when it all comes out.”
 
 To the theatre he went, and reached it just in [[motifs/time|time]] to witness the
@@ -6384,7 +6384,7 @@ impassioned Baron Wildenheim into the [[motifs/well|well]]-bred and easy Mr. Yat
 making his bow and apology to [[characters/sir-thomas-bertram|Sir Thomas Bertram]], was such an
 exhibition, such a piece of true acting, as he would not have lost upon
 any account. It would be the last—in all probability—the last scene on
-that stage; but he was sure there could not be a finer. The [[house]] would
+that stage; but he was sure there could not be a finer. The house would
 close with the greatest eclat.
 
 There was little [[motifs/time|time]], however, for the indulgence of any images of
@@ -6398,7 +6398,7 @@ to him to render his introduction as the “particular friend,” another
 of the hundred particular friends of his son, exceedingly unwelcome;
 and it needed all the felicity of being again at [[motifs/home|home]], and all the
 forbearance it could supply, to save Sir Thomas from anger on finding
-himself thus bewildered in his own [[house]], making part of a ridiculous
+himself thus bewildered in his own house, making part of a ridiculous
 exhibition in the midst of theatrical nonsense, and forced in so
 untoward a moment to admit the acquaintance of a young man whom he felt
 sure of disapproving, and whose easy indifference and volubility in the
@@ -6536,7 +6536,7 @@ towards preserving that good opinion a little longer.
 CHAPTER XX
 
 
-[[characters/edmund|Edmund]]’s first object the next morning was to see his father [[Alone|alone]], and
+[[characters/edmund|Edmund]]’s first object the next morning was to see his father alone, and
 give him a fair statement of the whole acting scheme, defending his own
 share in it as far only as he could then, in a soberer moment, feel his
 motives to deserve, and acknowledging, with perfect ingenuousness, that
@@ -6555,14 +6555,14 @@ and at such a [[motifs/time|time]], as strongly as his son had ever supposed he 
 he felt it too much, indeed, for many words; and having shaken hands
 with [[characters/edmund|Edmund]], meant to try to lose the disagreeable impression, and
 forget how much he had been forgotten himself as soon as he could,
-after the [[house]] had been cleared of every object enforcing the
+after the house had been cleared of every object enforcing the
 remembrance, and restored to its proper state. He did not enter into
 any remonstrance with his other children: he was more willing to
 believe they felt their error than to run the risk of investigation.
 The reproof of an immediate conclusion of everything, the sweep of
 every preparation, would be sufficient.
 
-There was one person, however, in the [[house]], whom he could not leave to
+There was one person, however, in the house, whom he could not leave to
 learn his sentiments merely through his conduct. He could not help
 giving Mrs. Norris a hint of his having hoped that her advice might
 have been interposed to prevent what her judgment must certainly have
@@ -6660,7 +6660,7 @@ concerns of his Mansfield life: to see his steward and his bailiff; to
 examine and compute, and, in the intervals of business, to walk into
 his stables and his gardens, and nearest plantations; but active and
 methodical, he had not only done all this before he resumed his seat as
-master of the [[house]] at dinner, he had also set the carpenter to work in
+master of the house at dinner, he had also set the carpenter to work in
 pulling down what had been so lately put up in the billiard-room, and
 given the scene-painter his dismissal long enough to justify the
 pleasing belief of his being then at least as far off as Northampton.
@@ -6668,8 +6668,8 @@ The scene-painter was gone, having spoilt only the floor of one room,
 ruined all the coachman’s sponges, and made five of the under-servants
 idle and dissatisfied; and Sir Thomas was in hopes that another day or
 two would suffice to wipe away every outward memento of what had been,
-even to the destruction of every unbound copy of [[lovers|Lovers]]’ Vows in the
-[[house]], for he was burning all that met his eye.
+even to the destruction of every unbound copy of Lovers’ Vows in the
+house, for he was burning all that met his eye.
 
 Mr. Yates was beginning now to understand Sir Thomas’s intentions,
 though as far as ever from understanding their source. He and his
@@ -6712,7 +6712,7 @@ began, without bringing them together in some way or other. It was a
 sad, anxious day; and the morrow, though differing in the sort of evil,
 did by no means bring less. A few moments of feverish enjoyment were
 followed by hours of acute [[concepts/suffering|suffering]]. [[characters/henry-crawford|Henry Crawford]] was again in the
-[[house]]: he walked up with Dr. Grant, who was anxious to pay his respects
+house: he walked up with Dr. Grant, who was anxious to pay his respects
 to Sir Thomas, and at rather an early hour they were ushered into the
 breakfast-room, where were most of the family. Sir Thomas soon
 appeared, and [[characters/maria|Maria]] saw with delight and agitation the introduction of
@@ -6724,7 +6724,7 @@ happy interruption (with a courteous glance at Sir Thomas), because, in
 that case, he should make a point of returning to Mansfield at any [[motifs/time|time]]
 required by the party: he was going away immediately, being to meet his
 uncle at Bath without delay; but if there were any prospect of a
-renewal of [[lovers|Lovers]]’ Vows, he should hold himself positively engaged, he
+renewal of Lovers’ Vows, he should hold himself positively engaged, he
 should break through every other claim, he should absolutely condition
 with his uncle for attending them whenever he might be wanted. The play
 should not be lost by _his_ absence.
@@ -6772,7 +6772,7 @@ civilities soon called his notice from her, and the farewell visit, as
 it then became openly acknowledged, was a very short one. He was
 gone—he had touched her hand for the last [[motifs/time|time]], he had made his parting
 bow, and she might seek directly all that [[concepts/solitude|solitude]] could do for her.
-[[characters/henry-crawford|Henry Crawford]] was gone, gone from the [[house]], and within two hours
+[[characters/henry-crawford|Henry Crawford]] was gone, gone from the house, and within two hours
 afterwards from the parish; and so ended all the hopes his selfish
 [[concepts/vanity|vanity]] had raised in [[characters/maria|Maria]] and [[characters/julia|Julia]] [[characters/bertram|Bertram]].
 
@@ -6792,7 +6792,7 @@ but with so many to care for, how was it possible for even _her_
 activity to keep pace with her wishes?
 
 Another day or two, and Mr. Yates was gone likewise. In _his_ departure
-Sir Thomas felt the chief interest: wanting to be [[Alone|alone]] with his
+Sir Thomas felt the chief interest: wanting to be alone with his
 family, the presence of a stranger superior to Mr. Yates must have been
 irksome; but of him, trifling and confident, idle and expensive, it was
 every way vexatious. In himself he was wearisome, but as the friend of
@@ -6802,14 +6802,14 @@ wishes for Mr. Yates’s having a pleasant [[motifs/journey|journey]], as he wal
 to the hall-door, were given with genuine satisfaction. Mr. Yates had
 staid to see the destruction of every theatrical preparation at
 Mansfield, the removal of everything appertaining to the play: he left
-the [[house]] in all the soberness of its general character; and Sir Thomas
+the house in all the soberness of its general character; and Sir Thomas
 hoped, in seeing him out of it, to be rid of the worst object connected
 with the scheme, and the last that must be inevitably reminding him of
 its existence.
 
 Mrs. Norris contrived to remove one article from his sight that might
 have distressed him. The curtain, over which she had presided with such
-talent and such [[success]], went off with her to her cottage, where she
+talent and such success, went off with her to her cottage, where she
 happened to be particularly in want of green baize.
 
 
@@ -6822,7 +6822,7 @@ CHAPTER XXI
 
 
 Sir Thomas’s return made a striking change in the ways of the family,
-independent of [[lovers|Lovers]]’ Vows. Under his [[government]], Mansfield was an
+independent of Lovers’ Vows. Under his government, Mansfield was an
 altered place. Some members of their society sent away, and the spirits
 of many others saddened—it was all sameness and gloom compared with the
 past—a sombre family party rarely enlivened. There was little
@@ -7101,7 +7101,7 @@ smallest insight into the disposition of the niece who had been brought
 up under her eye.
 
 The plan of the young couple was to proceed, after a few days, to
-Brighton, and take a [[house]] there for some weeks. Every public place was
+Brighton, and take a house there for some weeks. Every public place was
 new to [[characters/maria|Maria]], and Brighton is almost as gay in [[motifs/winter|winter]] as in [[motifs/summer|summer]].
 When the novelty of amusement there was over, it would be [[motifs/time|time]] for the
 wider range of [[settings/london|London]].
@@ -7120,7 +7120,7 @@ which required some [[motifs/time|time]] to fill up. The family circle became gr
 contracted; and though the Miss Bertrams had latterly added little to
 its gaiety, they could not but be missed. Even their mother missed
 them; and how much more their tenderhearted cousin, who wandered about
-the [[house]], and thought of them, and felt for them, with a degree of
+the house, and thought of them, and felt for them, with a degree of
 affectionate regret which they had never done much to deserve!
 
 
@@ -7141,7 +7141,7 @@ been before; and “Where is Fanny?” became no uncommon question, even
 without her being wanted for any one’s convenience.
 
 Not only at [[motifs/home|home]] did her value increase, but at the Parsonage too. In
-that [[house]], which she had hardly entered twice a year since Mr.
+that house, which she had hardly entered twice a year since Mr.
 Norris’s [[motifs/death|death]], she became a welcome, an invited guest, and in the
 gloom and dirt of a November day, most acceptable to [[characters/mary-crawford|Mary Crawford]]. Her
 visits there, beginning by chance, were continued by solicitation. Mrs.
@@ -7157,7 +7157,7 @@ under the branches and lingering [[motifs/leaves|leaves]] of an oak just beyond 
 premises, was forced, though not without some modest reluctance on her
 part, to come in. A civil servant she had withstood; but when Dr. Grant
 himself went out with an umbrella, there was nothing to be done but to
-be very much ashamed, and to get into the [[house]] as fast as possible;
+be very much ashamed, and to get into the house as fast as possible;
 and to poor Miss Crawford, who had just been contemplating the dismal
 rain in a very desponding state of mind, sighing over the ruin of all
 her plan of exercise for that morning, and of every chance of seeing a
@@ -7197,7 +7197,7 @@ the instrument’s arrival, there had been no reason that she should; but
 Miss Crawford, calling to mind an early expressed wish on the subject,
 was concerned at her own neglect; and “Shall I play to you now?” and
 “What will you have?” were questions immediately following with the
-readiest good-[[Humour|humour]].
+readiest good-humour.
 
 She played accordingly; happy to have a new listener, and a listener
 who seemed so much obliged, so full of [[concepts/wonder|wonder]] at the performance, and
@@ -7325,7 +7325,7 @@ animation, soon went on—
 “I am conscious of being far better reconciled to a country residence
 than I had ever expected to be. I can even suppose it pleasant to spend
 _half_ the year in the country, under certain circumstances, very
-pleasant. An elegant, moderate-sized [[house]] in the centre of family
+pleasant. An elegant, moderate-sized house in the centre of family
 connexions; continual engagements among them; commanding the first
 society in the neighbourhood; looked up to, perhaps, as leading it even
 more than those of larger fortune, and turning from the cheerful round
@@ -7340,7 +7340,7 @@ Rushworth, for I look forward to our owing her a great many gay,
 brilliant, happy hours. I expect we shall be all very much at Sotherton
 another year. Such a match as Miss [[characters/bertram|Bertram]] has made is a public
 blessing; for the first pleasures of Mr. Rushworth’s wife must be to
-fill her [[house]], and give the best balls in the country.”
+fill her house, and give the best balls in the country.”
 
 Fanny was silent, and Miss Crawford relapsed into thoughtfulness, till
 suddenly looking up at the end of a few minutes, she exclaimed, “Ah!
@@ -7384,7 +7384,7 @@ talked to about it, and entreated and supplicated never to do so
 again?”
 
 “Perhaps I might have scolded,” said [[characters/edmund|Edmund]], “if either of you had been
-sitting down [[Alone|alone]]; but while you do wrong together, I can overlook a
+sitting down alone; but while you do wrong together, I can overlook a
 great deal.”
 
 “They cannot have been sitting long,” cried Mrs. Grant, “for when I
@@ -7507,8 +7507,8 @@ recollect that his mother had been inquiring for her, and that he had
 walked down to the Parsonage on purpose to bring her back.
 
 Fanny’s hurry increased; and without in the least expecting [[characters/edmund|Edmund]]’s
-attendance, she would have hastened away [[Alone|alone]]; but the general pace
-was quickened, and they all accompanied her into the [[house]], through
+attendance, she would have hastened away alone; but the general pace
+was quickened, and they all accompanied her into the house, through
 which it was necessary to pass. Dr. Grant was in the vestibule, and as
 they stopt to speak to him she found, from [[characters/edmund|Edmund]]’s manner, that he
 _did_ mean to go with her. He too was taking leave. She could not but
@@ -7535,7 +7535,7 @@ turkey, and I assure you a very fine one; for, my dear,” turning to her
 husband, “cook insists upon the turkey’s being dressed to-morrow.”
 
 “Very [[motifs/well|well]], very [[motifs/well|well]],” cried Dr. Grant, “all the better; I am glad to
-hear you have anything so good in the [[house]]. But Miss Price and Mr.
+hear you have anything so good in the house. But Miss Price and Mr.
 [[characters/edmund-bertram|Edmund Bertram]], I dare say, would take their chance. We none of us want
 to hear the bill of fare. A friendly meeting, and not a fine dinner, is
 all we have in view. A turkey, or a goose, or a leg of mutton, or
@@ -7669,7 +7669,7 @@ assistance from those who ought to have entered into her feelings and
 directed her taste; for Lady [[characters/bertram|Bertram]] never thought of being useful to
 anybody, and Mrs. Norris, when she came on the morrow, in consequence
 of an early call and invitation from Sir Thomas, was in a very ill
-[[Humour|humour]], and seemed intent only on lessening her niece’s pleasure, both
+humour, and seemed intent only on lessening her niece’s pleasure, both
 present and future, as much as possible.
 
 “Upon my word, Fanny, you are in high luck to meet with such attention
@@ -7757,12 +7757,12 @@ the room, having staid behind him only long enough to hear these words
 spoken in angry agitation—
 
 “Quite unnecessary! a great deal too kind! But [[characters/edmund|Edmund]] goes; true, it is
-upon [[characters/edmund|Edmund]]’s account. I observed he was hoarse on [[thursday|Thursday]] [[motifs/night|night]].”
+upon [[characters/edmund|Edmund]]’s account. I observed he was hoarse on Thursday [[motifs/night|night]].”
 
 But this could not impose on Fanny. She felt that the carriage was for
-herself, and herself [[Alone|alone]]: and her uncle’s consideration of her,
+herself, and herself alone: and her uncle’s consideration of her,
 coming immediately after such representations from her aunt, cost her
-some [[motifs/tears|tears]] of gratitude when she was [[Alone|alone]].
+some [[motifs/tears|tears]] of gratitude when she was alone.
 
 The coachman drove round to a minute; another minute brought down the
 gentleman; and as the lady had, with a most scrupulous [[concepts/fear|fear]] of being
@@ -7785,7 +7785,7 @@ very pretty. I like these glossy spots. Has not Miss Crawford a gown
 something the same?”
 
 In approaching the Parsonage they passed close by the stable-yard and
-coach-[[house]].
+coach-house.
 
 “Heyday!” said [[characters/edmund|Edmund]], “here’s company, here’s a carriage! who have
 they got to meet us?” And letting down the side-glass to distinguish,
@@ -7872,7 +7872,7 @@ himself to estimate your kindness, but I may venture to say that it had
 
 Fanny coloured, and said nothing.
 
-“It is as [[A Dream|a dream]], a pleasant dream!” he exclaimed, breaking forth
+“It is as a dream, a pleasant dream!” he exclaimed, breaking forth
 again, after a few minutes’ musing. “I shall always look back on our
 theatricals with exquisite pleasure. There was such an interest, such
 an animation, such a spirit diffused. Everybody felt it. We were all
@@ -7889,7 +7889,7 @@ unfeelingly! Oh! what a corrupted mind!”
 the possibility of being heard by [[characters/edmund|Edmund]], and not at all aware of her
 feelings, “we certainly were very unlucky. Another week, only one other
 week, would have been enough for us. I think if we had had the disposal
-of events—if [[works/mansfield-park-(austen)|Mansfield Park]] had had the [[government]] of the winds just
+of events—if [[works/mansfield-park-(austen)|Mansfield Park]] had had the government of the winds just
 for a week or two, about the equinox, there would have been a
 difference. Not that we would have endangered his safety by any
 tremendous weather—but only by a steady contrary [[motifs/wind|wind]], or a calm. I
@@ -7970,7 +7970,7 @@ took her harp, she had nothing to do but to listen; and her
 tranquillity remained undisturbed the rest of the evening, except when
 Mr. Crawford now and then addressed to her a question or observation,
 which she could not avoid answering. Miss Crawford was too much vexed
-by what had passed to be in a [[Humour|humour]] for anything but music. With that
+by what had passed to be in a humour for anything but music. With that
 she soothed herself and amused her friend.
 
 The assurance of [[characters/edmund|Edmund]]’s being so soon to take orders, coming upon her
@@ -8151,7 +8151,7 @@ a brother.
 
 It came happily while she was thus waiting; and there being neither
 ceremony nor fearfulness to delay the moment of meeting, she was with
-him as he entered the [[house]], and the first minutes of exquisite feeling
+him as he entered the house, and the first minutes of exquisite feeling
 had no interruption and no witnesses, unless the servants chiefly
 intent upon opening the proper doors could be called such. This was
 exactly what Sir Thomas and [[characters/edmund|Edmund]] had been separately conniving at, as
@@ -8201,7 +8201,7 @@ which even the conjugal tie is beneath the fraternal. Children of the
 same family, the same [[motifs/blood|blood]], with the same first associations and
 habits, have some means of enjoyment in their power, which no
 subsequent connexions can supply; and it must be by a long and
-unnatural estrangement, by a [[divorce]] which no subsequent connexion can
+unnatural estrangement, by a divorce which no subsequent connexion can
 justify, if such precious remains of the earliest attachments are ever
 entirely outlived. Too often, alas! it is so. Fraternal [[motifs/love|love]], sometimes
 almost everything, is at others worse than nothing. But with William
@@ -8323,7 +8323,7 @@ His readiness, however, in agreeing to dine at the Parsonage, when the
 general invitation was at last hazarded, after many debates and many
 doubts as to whether it were worth while, “because Sir Thomas seemed so
 ill inclined, and Lady [[characters/bertram|Bertram]] was so indolent!” proceeded from
-good-breeding and goodwill [[Alone|alone]], and had nothing to do with Mr.
+good-breeding and goodwill alone, and had nothing to do with Mr.
 Crawford, but as being one in an agreeable group: for it was in the
 course of that very visit that he first began to think that any one in
 the habit of such idle observations _would_ _have_ _thought_ that Mr.
@@ -8386,7 +8386,7 @@ impudence that could do [[concepts/honour|honour]] to the game; and the round ta
 altogether a very comfortable contrast to the steady sobriety and
 orderly [[motifs/silence|silence]] of the other.
 
-Twice had Sir Thomas inquired into the enjoyment and [[success]] of his
+Twice had Sir Thomas inquired into the enjoyment and success of his
 lady, but in vain; no pause was long enough for the [[motifs/time|time]] his measured
 manner needed; and very little of her state could be known till Mrs.
 Grant was able, at the end of the first rubber, to go to her and pay
@@ -8412,7 +8412,7 @@ suddenly, upon turning the corner of a steepish downy field, in the
 midst of a retired little village between gently rising hills; a small
 stream before me to be forded, a church standing on a sort of knoll to
 my right—which church was strikingly large and handsome for the place,
-and not a gentleman or half a gentleman’s [[house]] to be seen excepting
+and not a gentleman or half a gentleman’s house to be seen excepting
 one—to be presumed the Parsonage—within a stone’s throw of the said
 knoll and church. I found myself, in short, in Thornton Lacey.”
 
@@ -8432,7 +8432,7 @@ was.”
 
 “You inquired, then?”
 
-“No, I never inquire. But I _told_ a man [[mending]] a hedge that it was
+“No, I never inquire. But I _told_ a man mending a hedge that it was
 Thornton Lacey, and he agreed to it.”
 
 “You have a good [[motifs/memory|memory]]. I had forgotten having ever told you half so
@@ -8448,19 +8448,19 @@ increased.
 summers at least before the place is liveable.”
 
 “No, no, not so bad as that. The farmyard must be moved, I grant you;
-but I am not aware of anything else. The [[house]] is by no means bad, and
+but I am not aware of anything else. The house is by no means bad, and
 when the yard is removed, there may be a very tolerable approach to
 it.”
 
 “The farmyard must be cleared away entirely, and planted up to shut out
-the blacksmith’s shop. The [[house]] must be turned to front the east
+the blacksmith’s shop. The house must be turned to front the east
 instead of the north—the entrance and principal rooms, I mean, must be
 on that side, where the view is really very pretty; I am sure it may be
 done. And _there_ must be your approach, through what is at present the
 [[motifs/garden|garden]]. You must make a new [[motifs/garden|garden]] at what is now the back of the
-[[house]]; which will be giving it the best aspect in the world, sloping to
+house; which will be giving it the best aspect in the world, sloping to
 the south-east. The ground seems precisely formed for it. I rode fifty
-yards up the lane, between the church and the [[house]], in order to look
+yards up the lane, between the church and the house, in order to look
 about me; and saw how it might all be. Nothing can be easier. The
 meadows beyond what _will_ _be_ the [[motifs/garden|garden]], as [[motifs/well|well]] as what now _is_,
 sweeping round from the lane I stood in to the north-east, that is, to
@@ -8473,7 +8473,7 @@ quite determine what. I had two or three ideas.”
 “And I have two or three ideas also,” said [[characters/edmund|Edmund]], “and one of them is,
 that very little of your plan for Thornton Lacey will ever be put in
 practice. I must be satisfied with rather less ornament and [[concepts/beauty|beauty]]. I
-think the [[house]] and premises may be made comfortable, and given the air
+think the house and premises may be made comfortable, and given the air
 of a gentleman’s residence, without any very heavy expense, and that
 must suffice me; and, I [[concepts/hope|hope]], may suffice all who care about me.”
 
@@ -8496,12 +8496,12 @@ find yourself not satisfied with much less than it is capable of.
 just before you.) The place deserves it, [[characters/bertram|Bertram]]. You talk of giving it
 the air of a gentleman’s residence. _That_ will be done by the removal
 of the farmyard; for, independent of that terrible nuisance, I never
-saw a [[house]] of the kind which had in itself so much the air of a
+saw a house of the kind which had in itself so much the air of a
 gentleman’s residence, so much the look of a something above a mere
-parsonage-[[house]]—above the expenditure of a few hundreds a year. It is
+parsonage-house—above the expenditure of a few hundreds a year. It is
 not a scrambling collection of low single rooms, with as many roofs as
 windows; it is not cramped into the vulgar compactness of a square
-farmhouse: it is a solid, roomy, mansion-like looking [[house]], such as
+farmhouse: it is a solid, roomy, mansion-like looking house, such as
 one might suppose a respectable old country family had lived in from
 generation to generation, through two centuries at least, and were now
 spending from two to three thousand a year in.” Miss Crawford listened,
@@ -8516,9 +8516,9 @@ out a better) you may give it a higher character. You may raise it into
 a _place_. From being the mere gentleman’s residence, it becomes, by
 judicious improvement, the residence of a man of [[concepts/education|education]], taste,
 modern manners, good connexions. All this may be stamped on it; and
-that [[house]] receive such an air as to make its owner be set down as the
+that house receive such an air as to make its owner be set down as the
 great landholder of the parish by every creature travelling the [[motifs/road|road]];
-especially as there is no real squire’s [[house]] to dispute the point—a
+especially as there is no real squire’s house to dispute the point—a
 circumstance, between ourselves, to enhance the value of such a
 situation in point of privilege and independence beyond all
 calculation. _You_ think with me, I [[concepts/hope|hope]]” (turning with a softened
@@ -8563,7 +8563,7 @@ things very differently now. Do not think of me as I appeared then.”
 Sotherton was a word to catch Mrs. Norris, and being just then in the
 happy leisure which followed securing the odd trick by Sir Thomas’s
 capital play and her own against Dr. and Mrs. Grant’s great hands, she
-called out, in high good-[[Humour|humour]], “Sotherton! Yes, that is a place,
+called out, in high good-humour, “Sotherton! Yes, that is a place,
 indeed, and we had a charming day there. William, you are quite out of
 luck; but the next [[motifs/time|time]] you come, I [[concepts/hope|hope]] dear Mr. and Mrs. Rushworth
 will be at [[motifs/home|home]], and I am sure I can answer for your being kindly
@@ -8602,7 +8602,7 @@ character.
 [[characters/henry-crawford|Henry Crawford]] was in the first glow of another scheme about Thornton
 Lacey; and not being able to catch [[characters/edmund|Edmund]]’s ear, was detailing it to
 his fair neighbour with a look of considerable earnestness. His scheme
-was to rent the [[house]] himself the following [[motifs/winter|winter]], that he might have
+was to rent the house himself the following [[motifs/winter|winter]], that he might have
 a [[motifs/home|home]] of his own in that neighbourhood; and it was not merely for the
 use of it in the hunting-season (as he was then telling her), though
 _that_ consideration had certainly some weight, feeling as he did that,
@@ -8630,14 +8630,14 @@ not influencing your son against such a tenant?”
 
 Sir Thomas, politely bowing, replied, “It is the only way, sir, in
 which I could _not_ wish you established as a permanent neighbour; but
-I [[concepts/hope|hope]], and believe, that [[characters/edmund|Edmund]] will occupy his own [[house]] at Thornton
+I [[concepts/hope|hope]], and believe, that [[characters/edmund|Edmund]] will occupy his own house at Thornton
 Lacey. [[characters/edmund|Edmund]], am I saying too much?”
 
 [[characters/edmund|Edmund]], on this appeal, had first to hear what was going on; but, on
 understanding the question, was at no loss for an answer.
 
 “Certainly, sir, I have no idea but of residence. But, Crawford, though
-I refuse you as a tenant, come to me as a friend. Consider the [[house]] as
+I refuse you as a tenant, come to me as a friend. Consider the house as
 half your own every [[motifs/winter|winter]], and we will add to the stables on your own
 improved plan, and with all the improvements of your improved plan that
 may occur to you this [[motifs/spring|spring]].”
@@ -8657,7 +8657,7 @@ claims which can be known only by a clergyman constantly resident, and
 which no proxy can be capable of satisfying to the same extent. [[characters/edmund|Edmund]]
 might, in the common phrase, do the duty of Thornton, that is, he might
 read prayers and preach, without giving up [[works/mansfield-park-(austen)|Mansfield Park]]: he might
-ride over every [[characters/sunday|Sunday]], to a [[house]] nominally inhabited, and go through
+ride over every [[characters/sunday|Sunday]], to a house nominally inhabited, and go through
 divine service; he might be the clergyman of Thornton Lacey every
 seventh day, for three or four hours, if that would content him. But it
 will not. He knows that human [[concepts/nature|nature]] needs more lessons than a weekly
@@ -8668,7 +8668,7 @@ he does very little either for their good or his own.”
 Mr. Crawford bowed his acquiescence.
 
 “I repeat again,” added Sir Thomas, “that Thornton Lacey is the only
-[[house]] in the neighbourhood in which I should _not_ be happy to wait on
+house in the neighbourhood in which I should _not_ be happy to wait on
 Mr. Crawford as occupier.”
 
 Mr. Crawford bowed his thanks.
@@ -8848,7 +8848,7 @@ herself not consulted! There was comfort, however, soon at hand. _She_
 must be the doer of everything: Lady [[characters/bertram|Bertram]] would of course be spared
 all thought and exertion, and it would all fall upon _her_. She should
 have to do the honours of the evening; and this reflection quickly
-restored so much of her good-[[Humour|humour]] as enabled her to join in with the
+restored so much of her good-humour as enabled her to join in with the
 others, before their happiness and thanks were all expressed.
 
 [[characters/edmund|Edmund]], William, and Fanny did, in their different ways, look and speak
@@ -8907,7 +8907,7 @@ deeply occupied in the consideration of two important events now at
 hand, which were to fix his fate in life—ordination and
 matrimony—events of such a serious character as to make the ball, which
 would be very quickly followed by one of them, appear of less moment in
-his eyes than in those of any other person in the [[house]]. On the 23rd he
+his eyes than in those of any other person in the house. On the 23rd he
 was going to a friend near Peterborough, in the same situation as
 himself, and they were to receive ordination in the course of the
 Christmas week. Half his destiny would then be determined, but the
@@ -8974,7 +8974,7 @@ he felt in his power, and the only preparation for the ball which he
 could enter into, in spite of all that was passing around him on the
 subject, from morning till [[motifs/night|night]].
 
-[[thursday|Thursday]] was the day of the ball; and on Wednesday morning Fanny, still
+Thursday was the day of the ball; and on Wednesday morning Fanny, still
 unable to satisfy herself as to what she ought to wear, determined to
 seek the counsel of the more enlightened, and apply to Mrs. Grant and
 her sister, whose acknowledged taste would certainly bear her
@@ -9266,7 +9266,7 @@ by a sound intellect and an honest heart.
 She had all the [[concepts/heroism|heroism]] of principle, and was determined to do her
 duty; but having also many of the feelings of youth and [[concepts/nature|nature]], let her
 not be much wondered at, if, after making all these good resolutions on
-the side of [[concepts/self|self]]-[[government]], she seized the scrap of paper on which
+the side of [[concepts/self|self]]-government, she seized the scrap of paper on which
 [[characters/edmund|Edmund]] had begun writing to her, as a treasure beyond all her hopes,
 and reading with the tenderest emotion these words, “My very dear
 Fanny, you must do me the favour to accept” locked it up with the
@@ -9289,7 +9289,7 @@ mixture of reason and weakness, she was able in due [[motifs/time|time]] to go d
 resume her usual employments near her aunt [[characters/bertram|Bertram]], and pay her the
 usual observances without any apparent want of spirits.
 
-[[thursday|Thursday]], predestined to [[concepts/hope|hope]] and enjoyment, came; and opened with more
+Thursday, predestined to [[concepts/hope|hope]] and enjoyment, came; and opened with more
 kindness to Fanny than such [[concepts/self|self]]-willed, unmanageable days often
 volunteer, for soon after breakfast a very friendly note was brought
 from Mr. Crawford to William, stating that as he found himself obliged
@@ -9339,7 +9339,7 @@ a long morning, spent principally with her two aunts, she was often
 under the influence of much less sanguine views. William, determined to
 make this last day a day of thorough enjoyment, was out snipe-shooting;
 [[characters/edmund|Edmund]], she had too much reason to suppose, was at the Parsonage; and
-left [[Alone|alone]] to bear the worrying of Mrs. Norris, who was [[motifs/cross|cross]] because
+left alone to bear the worrying of Mrs. Norris, who was [[motifs/cross|cross]] because
 the housekeeper would have her own way with the supper, and whom _she_
 could not avoid though the housekeeper might, Fanny was worn down at
 last to think everything an evil belonging to the ball, and when sent
@@ -9525,7 +9525,7 @@ married. What would she have been if we had not taken her by the hand?”
 
 Sir Thomas said no more; but when they sat down to table the eyes of
 the two young men assured him that the subject might be gently touched
-again, when the ladies withdrew, with more [[success]]. Fanny saw that she
+again, when the ladies withdrew, with more success. Fanny saw that she
 was approved; and the consciousness of looking [[motifs/well|well]] made her look still
 better. From a variety of causes she was happy, and she was soon made
 still happier; for in following her aunts out of the room, [[characters/edmund|Edmund]], who
@@ -9647,7 +9647,7 @@ have them away when it was given—and for _her_ to be opening the
 ball—and with Mr. Crawford too! She hoped they would not envy her that
 distinction _now_; but when she looked back to the state of things in
 the [[motifs/autumn|autumn]], to what they had all been to each other when once dancing
-in that [[house]] before, the present arrangement was almost more than she
+in that house before, the present arrangement was almost more than she
 could understand herself.
 
 The ball began. It was rather [[concepts/honour|honour]] than happiness to Fanny, for the
@@ -9794,11 +9794,11 @@ denial; and it ended in a gracious “[[motifs/well|Well]], [[motifs/well|well]]
 “Yes, half-past nine,” said Crawford to William as the latter was
 leaving them, “and I shall be punctual, for there will be no kind
 sister to get up for _me_.” And in a lower tone to Fanny, “I shall have
-only a desolate [[house]] to hurry from. Your brother will find my ideas of
+only a desolate house to hurry from. Your brother will find my ideas of
 [[motifs/time|time]] and his own very different to-morrow.”
 
 After a short consideration, Sir Thomas asked Crawford to join the
-early breakfast party in that [[house]] instead of eating [[Alone|alone]]: he should
+early breakfast party in that house instead of eating alone: he should
 himself be of it; and the readiness with which his invitation was
 accepted convinced him that the suspicions whence, he must confess to
 himself, this very ball had in great measure sprung, were [[motifs/well|well]] founded.
@@ -9854,7 +9854,7 @@ William was gone, and she now felt as if she had wasted half his visit
 in idle cares and selfish solicitudes unconnected with him.
 
 Fanny’s disposition was such that she could never even think of her
-aunt Norris in the meagreness and cheerlessness of her own small [[house]],
+aunt Norris in the meagreness and cheerlessness of her own small house,
 without reproaching herself for some little want of attention to her
 when they had been last together; much less could her feelings acquit
 her of having done and said and thought everything by William that was
@@ -9878,7 +9878,7 @@ rest was only a languid “Yes, yes; very [[motifs/well|well]]; did you? did he?
 not see _that_; I should not know one from the other.” This was very
 bad. It was only better than Mrs. Norris’s sharp answers would have
 been; but she being gone [[motifs/home|home]] with all the supernumerary jellies to
-[[characters/nurse|nurse]] a sick maid, there was peace and good-[[Humour|humour]] in their little
+[[characters/nurse|nurse]] a sick maid, there was peace and good-humour in their little
 party, though it could not boast much beside.
 
 The evening was heavy like the day. “I cannot think what is the matter
@@ -9893,14 +9893,14 @@ in the room for the next two hours beyond the reckonings of the
 game—“And _that_ makes thirty-one; four in hand and eight in crib. You
 are to deal, ma’am; shall I deal for you?” Fanny thought and thought
 again of the difference which twenty-four hours had made in that room,
-and all that part of the [[house]]. Last [[motifs/night|night]] it had been [[concepts/hope|hope]] and smiles,
+and all that part of the house. Last [[motifs/night|night]] it had been [[concepts/hope|hope]] and smiles,
 bustle and motion, noise and brilliancy, in the drawing-room, and out
 of the drawing-room, and everywhere. Now it was languor, and all but
 [[concepts/solitude|solitude]].
 
 A good [[motifs/night|night]]’s rest improved her spirits. She could think of William
 the next day more cheerfully; and as the morning afforded her an
-opportunity of talking over [[thursday|Thursday]] [[motifs/night|night]] with Mrs. Grant and Miss
+opportunity of talking over Thursday [[motifs/night|night]] with Mrs. Grant and Miss
 Crawford, in a very handsome style, with all the heightenings of
 [[concepts/imagination|imagination]], and all the laughs of playfulness which are so essential
 to the shade of a departed ball, she could afterwards bring her mind
@@ -10036,7 +10036,7 @@ way all young men do.”
 
 “He did not, the only [[motifs/time|time]] he went to see Mr. Owen before.”
 
-“He finds the [[house]] more agreeable _now_. He is a very—a very pleasing
+“He finds the house more agreeable _now_. He is a very—a very pleasing
 young man himself, and I cannot help being rather concerned at not
 seeing him again before I go to [[settings/london|London]], as will now undoubtedly be the
 case. I am looking for Henry every day, and as soon as he comes there
@@ -10303,7 +10303,7 @@ we shall be all together.”
 When she had spoken it, she recollected herself, and wished it unsaid;
 but there was no need of confusion; for her brother saw her only as the
 supposed inmate of Mansfield parsonage, and replied but to invite her
-in the kindest manner to his own [[house]], and to claim the best right in
+in the kindest manner to his own house, and to claim the best right in
 her.
 
 “You must give us more than half your [[motifs/time|time]],” said he. “I cannot admit
@@ -10318,7 +10318,7 @@ many months longer.
 
 “Yes.”
 
-“That’s right; and in [[settings/london|London]], of course, a [[house]] of your own: no longer
+“That’s right; and in [[settings/london|London]], of course, a house of your own: no longer
 with the Admiral. My dearest Henry, the advantage to you of getting
 away from the Admiral before your manners are hurt by the contagion of
 his, before you have contracted any of his foolish opinions, or learned
@@ -10414,9 +10414,9 @@ Henry, overjoyed to have her go, bowed and watched her off, and without
 losing another moment, turned instantly to Fanny, and, taking out some
 letters, said, with a most animated look, “I must acknowledge myself
 infinitely obliged to any creature who gives me such an opportunity of
-seeing you [[Alone|alone]]: I have been wishing it more than you can have any
+seeing you alone: I have been wishing it more than you can have any
 idea. Knowing as I do what your feelings as a sister are, I could
-hardly have borne that any one in the [[house]] should share with you in
+hardly have borne that any one in the house should share with you in
 the first knowledge of the news I now bring. He is made. Your brother
 is a lieutenant. I have the infinite satisfaction of congratulating you
 on your brother’s promotion. Here are the letters which announce it,
@@ -10538,7 +10538,7 @@ you are _not_ thinking of me. I know it is all nothing.”
 She had burst away from him, and at that moment Sir Thomas was heard
 speaking to a servant in his way towards the room they were in. It was
 no [[motifs/time|time]] for farther assurances or entreaty, though to part with her at
-a moment when her modesty [[Alone|alone]] seemed, to his sanguine and preassured
+a moment when her modesty alone seemed, to his sanguine and preassured
 mind, to stand in the way of the happiness he sought, was a cruel
 necessity. She rushed out at an opposite door from the one her uncle
 was approaching, and was walking up and down the East room in the
@@ -10563,7 +10563,7 @@ she could esteem him for his [[concepts/friendship|friendship]] to William!
 
 She would not stir farther from the East room than the head of the
 great staircase, till she had satisfied herself of Mr. Crawford’s
-having left the [[house]]; but when convinced of his being gone, she was
+having left the house; but when convinced of his being gone, she was
 eager to go down and be with her uncle, and have all the happiness of
 his joy as [[motifs/well|well]] as her own, and all the benefit of his information or
 his conjectures as to what would now be William’s destination. Sir
@@ -10791,11 +10791,11 @@ long.
 
 Having so satisfactorily settled the conviction her note would convey,
 she could not but be astonished to see Mr. Crawford, as she
-accidentally did, coming up to the [[house]] again, and at an hour as early
+accidentally did, coming up to the house again, and at an hour as early
 as the day before. His coming might have nothing to do with her, but
 she must avoid seeing him if possible; and being then on her way
 upstairs, she resolved there to remain, during the whole of his visit,
-unless actually sent for; and as Mrs. Norris was still in the [[house]],
+unless actually sent for; and as Mrs. Norris was still in the house,
 there seemed little danger of her being wanted.
 
 She sat some [[motifs/time|time]] in a good deal of agitation, listening, trembling,
@@ -10806,7 +10806,7 @@ would go without her being obliged to know anything of the matter.
 
 Nearly half an hour had passed, and she was growing very comfortable,
 when suddenly the sound of a step in regular approach was heard; a
-heavy step, an unusual step in that part of the [[house]]: it was her
+heavy step, an unusual step in that part of the house: it was her
 uncle’s; she knew it as [[motifs/well|well]] as his voice; she had trembled at it as
 often, and began to tremble again, at the idea of his coming up to
 speak to her, whatever might be the subject. It was indeed Sir Thomas
@@ -10897,7 +10897,7 @@ most assured and satisfactory, I may execute the remainder by
 prevailing on you to accompany me downstairs, where, though I cannot
 but presume on having been no unacceptable companion myself, I must
 submit to your finding one still better worth listening to. Mr.
-Crawford, as you have perhaps foreseen, is yet in the [[house]]. He is in
+Crawford, as you have perhaps foreseen, is yet in the house. He is in
 my room, and hoping to see you there.”
 
 
@@ -10983,7 +10983,7 @@ scarcely any one, it is hardly possible that your affections—”
 
 He paused and eyed her fixedly. He saw her lips formed into a _no_,
 though the sound was inarticulate, but her face was like scarlet. That,
-however, in so modest a girl, might be very compatible with [[innocence]];
+however, in so modest a girl, might be very compatible with innocence;
 and chusing at least to appear satisfied, he quickly added, “No, no, I
 know _that_ is quite out of the question; quite impossible. [[motifs/well|Well]], there
 is nothing more to be said.”
@@ -11167,7 +11167,7 @@ greatest delicacy, ceased to urge to see you for the present.”
 
 Here Fanny, who had looked up, looked down again. “Of course,”
 continued her uncle, “it cannot be supposed but that he should request
-to speak with you [[Alone|alone]], be it only for five minutes; a request too
+to speak with you alone, be it only for five minutes; a request too
 natural, a claim too just to be denied. But there is no [[motifs/time|time]] fixed;
 perhaps to-morrow, or whenever your spirits are composed enough. For
 the present you have only to tranquillise yourself. Check these [[motifs/tears|tears]];
@@ -11220,18 +11220,18 @@ she had to bless the kindness which saved her from the same spirit of
 reproach, exerted on a more momentous subject.
 
 “If I had known you were going out, I should have got you just to go as
-far as my [[house]] with some orders for Nanny,” said she, “which I have
+far as my house with some orders for Nanny,” said she, “which I have
 since, to my very great inconvenience, been obliged to go and carry
 myself. I could very ill spare the [[motifs/time|time]], and you might have saved me
 the trouble, if you would only have been so good as to let us know you
 were going out. It would have made no difference to you, I suppose,
-whether you had walked in the shrubbery or gone to my [[house]].”
+whether you had walked in the shrubbery or gone to my house.”
 
 “I recommended the shrubbery to Fanny as the driest place,” said Sir
 Thomas.
 
 “Oh!” said Mrs. Norris, with a moment’s check, “that was very kind of
-you, Sir Thomas; but you do not know how dry the path is to my [[house]].
+you, Sir Thomas; but you do not know how dry the path is to my house.
 Fanny would have had quite as good a walk there, I assure you, with the
 advantage of being of some use, and obliging her aunt: it is all her
 fault. If she would but have let us know she was going out but there is
@@ -11298,7 +11298,7 @@ meant, “I do not think you would answer the purpose at all.”
 
 Mrs. Norris, much discontented, was obliged to compose herself to work
 again; and Fanny, walking off in agitating consciousness, found
-herself, as she anticipated, in another minute [[Alone|alone]] with Mr. Crawford.
+herself, as she anticipated, in another minute alone with Mr. Crawford.
 
 
 
@@ -11422,7 +11422,7 @@ could have engaged them.
 So thought Fanny, in good [[concepts/truth|truth]] and sober sadness, as she sat musing
 over that too great indulgence and luxury of a [[motifs/fire|fire]] upstairs: wondering
 at the past and present; wondering at what was yet to come, and in a
-nervous agitation which made nothing clear to her but the [[Persuasion|persuasion]] of
+nervous agitation which made nothing clear to her but the persuasion of
 her being never under any circumstances able to [[motifs/love|love]] Mr. Crawford, and
 the felicity of having a [[motifs/fire|fire]] to sit over and think of it.
 
@@ -11433,7 +11433,7 @@ disappointment: he had hoped better things; he had thought that an
 hour’s entreaty from a young man like Crawford could not have worked so
 little change on a gentle-tempered girl like Fanny; but there was
 speedy comfort in the determined views and sanguine perseverance of the
-[[archetypes/lover|lover]]; and when seeing such confidence of [[success]] in the principal, Sir
+[[archetypes/lover|lover]]; and when seeing such confidence of success in the principal, Sir
 Thomas was soon able to depend on it himself.
 
 Nothing was omitted, on his side, of civility, compliment, or kindness,
@@ -11515,7 +11515,7 @@ opposite feelings of Mr. Crawford as to any secrecy of proceeding. He
 had no idea of concealment. It was all known at the Parsonage, where he
 loved to talk over the future with both his sisters, and it would be
 rather gratifying to him to have enlightened witnesses of the progress
-of his [[success]]. When Sir Thomas understood this, he felt the necessity
+of his success. When Sir Thomas understood this, he felt the necessity
 of making his own wife and sister-in-law acquainted with the business
 without delay; though, on Fanny’s account, he almost dreaded the effect
 of the communication to Mrs. Norris as much as Fanny herself. He
@@ -11552,9 +11552,9 @@ her that Fanny _was_ very pretty, which she had been doubting about
 before, and that she would be advantageously married, it made her feel
 a sort of credit in calling her niece.
 
-“[[motifs/well|Well]], Fanny,” said she, as soon as they were [[Alone|alone]] together
+“[[motifs/well|Well]], Fanny,” said she, as soon as they were alone together
 afterwards, and she really had known something like impatience to be
-[[Alone|alone]] with her, and her countenance, as she spoke, had extraordinary
+alone with her, and her countenance, as she spoke, had extraordinary
 animation; “[[motifs/well|Well]], Fanny, I have had a very agreeable surprise this
 morning. I must just speak of it _once_, I told Sir Thomas I must
 _once_, and then I shall have done. I give you joy, my dear niece.” And
@@ -11626,7 +11626,7 @@ and with such a secret provision of comfort within his own breast to
 help the joy, he found in it a source of most gratifying sensation and
 unvarying cheerfulness all dinner-[[motifs/time|time]].
 
-After dinner, when he and his father were [[Alone|alone]], he had Fanny’s
+After dinner, when he and his father were alone, he had Fanny’s
 [[concepts/history|history]]; and then all the great events of the last fortnight, and the
 present situation of matters at Mansfield were known to him.
 
@@ -11778,9 +11778,9 @@ niece, alive and enlightened as she was, must feel, was elevating.
 
 “You have a great turn for acting, I am sure, Mr. Crawford,” said her
 ladyship soon afterwards; “and I will tell you what, I think you will
-have a theatre, some [[motifs/time|time]] or other, at your [[house]] in Norfolk. I mean
+have a theatre, some [[motifs/time|time]] or other, at your house in Norfolk. I mean
 when you are settled there. I do indeed. I think you will fit up a
-theatre at your [[house]] in Norfolk.”
+theatre at your house in Norfolk.”
 
 “Do you, ma’am?” cried he, with quickness. “No, no, that will never be.
 Your ladyship is quite mistaken. No theatre at Everingham! Oh no!” And
@@ -11822,7 +11822,7 @@ and criticise.”
 
 [[characters/edmund|Edmund]] had already gone through the service once since his ordination;
 and upon this being understood, he had a variety of questions from
-Crawford as to his feelings and [[success]]; questions, which being made,
+Crawford as to his feelings and success; questions, which being made,
 though with the vivacity of friendly interest and quick taste, without
 any touch of that spirit of banter or air of levity which [[characters/edmund|Edmund]] knew
 to be most offensive to Fanny, he had true pleasure in satisfying; and
@@ -12037,9 +12037,9 @@ things; a state which he must break through, and which he could easily
 learn to think she was wanting him to break through.
 
 “I will speak to her, sir: I will take the first opportunity of
-speaking to her [[Alone|alone]],” was the result of such thoughts as these; and
+speaking to her alone,” was the result of such thoughts as these; and
 upon Sir Thomas’s information of her being at that very [[motifs/time|time]] walking
-[[Alone|alone]] in the shrubbery, he instantly joined her.
+alone in the shrubbery, he instantly joined her.
 
 “I am come to walk with you, Fanny,” said he. “Shall I?” Drawing her
 arm within his. “It is a long while since we have had a comfortable
@@ -12272,7 +12272,7 @@ much a part of herself. Mrs. Grant laughed at her for her rapidity.”
 
 “Was Mrs. Grant in the room, then?”
 
-“Yes, when I reached the [[house]] I found the two sisters together by
+“Yes, when I reached the house I found the two sisters together by
 themselves; and when once we had begun, we had not done with you,
 Fanny, till Crawford and Dr. Grant came in.”
 
@@ -12390,7 +12390,7 @@ too nice.”
 Still, however, Fanny was oppressed and wearied; he saw it in her
 looks, it could not be talked away; and attempting it no more, he led
 her directly, with the kind authority of a privileged guardian, into
-the [[house]].
+the house.
 
 
 
@@ -12442,7 +12442,7 @@ looking and speaking with much less particularity of expression than
 she had anticipated, Fanny began to [[concepts/hope|hope]] there would be nothing worse
 to be endured than a half-hour of moderate agitation. But here she
 hoped too much; Miss Crawford was not the slave of opportunity. She was
-determined to see Fanny [[Alone|alone]], and therefore said to her tolerably
+determined to see Fanny alone, and therefore said to her tolerably
 soon, in a low voice, “I must speak to you for a few minutes
 somewhere”; words that Fanny felt all over her, in all her pulses and
 all her nerves. Denial was impossible. Her habits of ready submission,
@@ -12557,9 +12557,9 @@ thus attacked her companion.
 who is always thinking of you. Oh! that I could transport you for a
 short [[motifs/time|time]] into our circle in town, that you might understand how your
 power over Henry is thought of there! Oh! the envyings and
-heartburnings of dozens and dozens; the [[concepts/wonder|wonder]], the [[Incredulity|incredulity]] that
+heartburnings of dozens and dozens; the [[concepts/wonder|wonder]], the incredulity that
 will be felt at hearing what you have done! For as to secrecy, Henry is
-quite the [[archetypes/hero|hero]] of an old [[Romance|romance]], and glories in his [[motifs/chains|chains]]. You should
+quite the [[archetypes/hero|hero]] of an old romance, and glories in his [[motifs/chains|chains]]. You should
 come to [[settings/london|London]] to know how to estimate your conquest. If you were to
 see how he is courted, and how I am courted for his sake! Now, I am
 [[motifs/well|well]] aware that I shall not be half so welcome to Mrs. Fraser in
@@ -12581,7 +12581,7 @@ wants a young woman, a beautiful young woman of five-and-twenty, to be
 as steady as himself. And my friend does not manage him [[motifs/well|well]]; she does
 not seem to know how to make the best of it. There is a spirit of
 irritation which, to say nothing worse, is certainly very ill-bred. In
-their [[house]] I shall call to mind the conjugal manners of Mansfield
+their house I shall call to mind the conjugal manners of Mansfield
 Parsonage with respect. Even Dr. Grant does shew a thorough confidence
 in my sister, and a certain consideration for her judgment, which makes
 one feel there _is_ attachment; but of that I shall see nothing with
@@ -12756,7 +12756,7 @@ in the loss of those attentions which at the [[motifs/time|time]] she had felt, 
 fancied, an evil. She had tasted of consequence in its most flattering
 form; and he did [[concepts/hope|hope]] that the loss of it, the sinking again into
 nothing, would awaken very wholesome regrets in her mind. He watched
-her with this idea; but he could hardly tell with what [[success]]. He
+her with this idea; but he could hardly tell with what success. He
 hardly knew whether there were any difference in her spirits or not.
 She was always so gentle and retiring that her emotions were beyond his
 discrimination. He did not understand her: he felt that he did not; and
@@ -12866,7 +12866,7 @@ comfort, of which she had the offer.
 It was a medicinal project upon his niece’s understanding, which he
 must consider as at present diseased. A residence of eight or nine
 years in the abode of wealth and plenty had a little disordered her
-powers of comparing and judging. Her father’s [[house]] would, in all
+powers of comparing and judging. Her father’s house would, in all
 probability, teach her the value of a good income; and he trusted that
 she would be the wiser and happier woman, all her life, for the
 experiment he had devised.
@@ -12948,7 +12948,7 @@ to have been her own fault or her own fancy. She had probably alienated
 unreasonable in wanting a larger share than any one among so many could
 deserve. Now, when she knew better how to be useful, and how to
 forbear, and when her mother could be no longer occupied by the
-incessant demands of a [[house]] full of little children, there would be
+incessant demands of a house full of little children, there would be
 leisure and inclination for every comfort, and they should soon be what
 mother and daughter ought to be to each other.
 
@@ -12970,7 +12970,7 @@ He did not scruple to add that her being at [[motifs/home|home]] for a while wou
 great advantage to everybody.
 
 “I do not know how it is,” said he; “but we seem to want some of your
-nice ways and orderliness at my father’s. The [[house]] is always in
+nice ways and orderliness at my father’s. The house is always in
 confusion. You will set things going in a better way, I am sure. You
 will tell my mother how it all ought to be, and you will be so useful
 to Susan, and you will teach Betsey, and make the boys [[motifs/love|love]] and mind
@@ -13045,7 +13045,7 @@ exhausted by her.
 
 Poor Fanny! though going as she did willingly and eagerly, the last
 evening at [[works/mansfield-park-(austen)|Mansfield Park]] must still be wretchedness. Her heart was
-completely sad at parting. She had [[motifs/tears|tears]] for every room in the [[house]],
+completely sad at parting. She had [[motifs/tears|tears]] for every room in the house,
 much more for every beloved inhabitant. She clung to her aunt, because
 she would miss her; she kissed the hand of her uncle with struggling
 sobs, because she had displeased him; and as for [[characters/edmund|Edmund]], she could
@@ -13131,7 +13131,7 @@ around her, and [[concepts/wonder|wonder]] at the new buildings. They passed the
 drawbridge, and entered the town; and the light was only beginning to
 fail as, guided by William’s powerful voice, they were rattled into a
 narrow street, leading from the High Street, and drawn up before the
-door of a small [[house]] now inhabited by Mr. Price.
+door of a small house now inhabited by Mr. Price.
 
 Fanny was all agitation and flutter; all [[concepts/hope|hope]] and apprehension. The
 moment they stopped, a trollopy-looking maidservant, seemingly in
@@ -13139,7 +13139,7 @@ waiting for them at the door, stepped forward, and more intent on
 telling the news than giving them any help, immediately began with,
 “The Thrush is gone out of harbour, please sir, and one of the officers
 has been here to—” She was interrupted by a fine tall boy of eleven
-years old, who, rushing out of the [[house]], pushed the maid aside, and
+years old, who, rushing out of the house, pushed the maid aside, and
 while William was opening the chaise-door himself, called out, “You are
 just in [[motifs/time|time]]. We have been looking for you this half-hour. The Thrush
 went out of harbour this morning. I saw her. It was a beautiful sight.
@@ -13156,7 +13156,7 @@ which he had a strong right of interest, being to commence his career
 of seamanship in her at this very [[motifs/time|time]].
 
 Another moment and Fanny was in the narrow entrance-passage of the
-[[house]], and in her mother’s arms, who met her there with looks of true
+house, and in her mother’s arms, who met her there with looks of true
 kindness, and with features which Fanny loved the more, because they
 brought her aunt [[characters/bertram|Bertram]]’s before her, and there were her two sisters:
 Susan, a [[motifs/well|well]]-grown fine girl of fourteen, and Betsey, the youngest of
@@ -13211,7 +13211,7 @@ some meat, or only a dish of tea, after your [[motifs/journey|journey]], or else
 have got something ready. And now I am afraid Campbell will be here
 before there is [[motifs/time|time]] to dress a steak, and we have no butcher at hand.
 It is very inconvenient to have no butcher in the street. We were
-better off in our last [[house]]. Perhaps you would like some tea as soon
+better off in our last house. Perhaps you would like some tea as soon
 as it can be got.”
 
 They both declared they should prefer it to anything. “Then, Betsey, my
@@ -13324,12 +13324,12 @@ Mrs. Price, Rebecca, and Betsey all went up to defend themselves, all
 talking together, but Rebecca loudest, and the job was to be done as
 [[motifs/well|well]] as it could in a great hurry; William trying in vain to send
 Betsey down again, or keep her from being troublesome where she was;
-the whole of which, as almost every door in the [[house]] was open, could
+the whole of which, as almost every door in the house was open, could
 be plainly distinguished in the parlour, except when drowned at
 intervals by the superior noise of Sam, Tom, and Charles chasing each
 other up and down stairs, and tumbling about and hallooing.
 
-Fanny was almost stunned. The smallness of the [[house]] and thinness of
+Fanny was almost stunned. The smallness of the house and thinness of
 the walls brought everything so close to her, that, added to the
 fatigue of her [[motifs/journey|journey]], and all her recent agitation, she hardly knew
 how to bear it. _Within_ the room all was tranquil enough, for Susan
@@ -13352,7 +13352,7 @@ dear, dear friends! But here, one subject swallowed up all the rest.
 Perhaps it must be so. The destination of the Thrush must be now
 preeminently interesting. A day or two might shew the difference. _She_
 only was to blame. Yet she thought it would not have been so at
-Mansfield. No, in her uncle’s [[house]] there would have been a
+Mansfield. No, in her uncle’s house there would have been a
 consideration of times and [[motifs/seasons|seasons]], a regulation of subject, a
 propriety, an attention towards everybody which there was not here.
 
@@ -13360,7 +13360,7 @@ The only interruption which thoughts like these received for nearly
 half an hour was from a sudden burst of her father’s, not at all
 calculated to compose them. At a more than ordinary pitch of thumping
 and hallooing in the passage, he exclaimed, “Devil take those young
-[[dogs]]! How they are singing out! Ay, Sam’s voice louder than all the
+dogs! How they are singing out! Ay, Sam’s voice louder than all the
 rest! That boy is fit for a boatswain. Holla, you there! Sam, stop your
 confounded pipe, or I shall be after you.”
 
@@ -13520,7 +13520,7 @@ Fanny, fatigued and fatigued again, was thankful to accept the first
 invitation of going to bed; and before Betsey had finished her cry at
 being allowed to sit up only one hour extraordinary in [[concepts/honour|honour]] of
 sister, she was off, leaving all below in confusion and noise again;
-the boys begging for toasted [[cheese]], her father calling out for his rum
+the boys begging for toasted cheese, her father calling out for his rum
 and [[motifs/water|water]], and Rebecca never where she ought to be.
 
 There was nothing to raise her spirits in the confined and scantily
@@ -13528,7 +13528,7 @@ furnished chamber that she was to share with Susan. The smallness of
 the rooms above and below, indeed, and the narrowness of the passage
 and staircase, struck her beyond her [[concepts/imagination|imagination]]. She soon learned to
 think with respect of her own little attic at [[works/mansfield-park-(austen)|Mansfield Park]], in _that_
-[[house]] reckoned too small for anybody’s comfort.
+house reckoned too small for anybody’s comfort.
 
 
 
@@ -13542,7 +13542,7 @@ CHAPTER XXXIX
 Could Sir Thomas have seen all his niece’s feelings, when she wrote her
 first letter to her aunt, he would not have despaired; for though a
 good [[motifs/night|night]]’s rest, a pleasant morning, the [[concepts/hope|hope]] of soon seeing William
-again, and the comparatively quiet state of the [[house]], from Tom and
+again, and the comparatively quiet state of the house, from Tom and
 Charles being gone to school, Sam on some project of his own, and her
 father on his usual lounges, enabled her to express herself cheerfully
 on the subject of [[motifs/home|home]], there were still, to her own perfect
@@ -13593,7 +13593,7 @@ first of her girls whom she had ever much regarded. To her she was most
 injudiciously indulgent. William was her [[concepts/pride|pride]]; Betsey her darling; and
 John, [[characters/richard|Richard]], Sam, Tom, and Charles occupied all the rest of her
 maternal solicitude, alternately her worries and her comforts. These
-shared her heart: her [[motifs/time|time]] was given chiefly to her [[house]] and her
+shared her heart: her [[motifs/time|time]] was given chiefly to her house and her
 servants. Her days were spent in a kind of slow bustle; all was busy
 without getting on, always behindhand and lamenting it, without
 altering her ways; wishing to be an economist, without contrivance or
@@ -13615,7 +13615,7 @@ income.
 Much of all this Fanny could not but be sensible of. She might scruple
 to make use of the words, but she must and did feel that her mother was
 a partial, ill-judging parent, a dawdle, a slattern, who neither taught
-nor restrained her children, whose [[house]] was the scene of mismanagement
+nor restrained her children, whose house was the scene of mismanagement
 and discomfort from beginning to end, and who had no talent, no
 conversation, no affection towards herself; no curiosity to know her
 better, no [[motifs/desire|desire]] of her [[concepts/friendship|friendship]], and no inclination for her company
@@ -13642,7 +13642,7 @@ and reason, which might suggest the expediency of making friends, and
 of endeavouring to be less disagreeable. Their sister soon despaired of
 making the smallest impression on _them_; they were quite untameable by
 any means of address which she had spirits or [[motifs/time|time]] to attempt. Every
-afternoon brought a return of their riotous games all over the [[house]];
+afternoon brought a return of their riotous games all over the house;
 and she very early learned to sigh at the approach of Saturday’s
 constant half-holiday.
 
@@ -13735,7 +13735,7 @@ houses in Wimpole Street. I was in it two years ago, when it was Lady
 Lascelle’s, and prefer it to almost any I know in [[settings/london|London]], and certainly
 she will then feel, to use a vulgar phrase, that she has got her
 pennyworth for her penny. Henry could not have afforded her such a
-[[house]]. I [[concepts/hope|hope]] she will recollect it, and be satisfied, as [[motifs/well|well]] as she
+house. I [[concepts/hope|hope]] she will recollect it, and be satisfied, as [[motifs/well|well]] as she
 may, with moving the [[characters/queen|queen]] of a palace, though the [[archetypes/king|king]] may appear best
 in the background; and as I have no [[motifs/desire|desire]] to tease her, I shall never
 _force_ your name upon her again. She will grow sober by degrees. From
@@ -13845,7 +13845,7 @@ as she was to be mistress of property which she had been struggling for
 at least two years, she yet feared that her sister’s judgment had been
 against her, and that a reproof was designed her for having so
 struggled as to make the purchase necessary for the tranquillity of the
-[[house]].
+house.
 
 Her temper was open. She acknowledged her fears, blamed herself for
 having contended so warmly; and from that hour Fanny, understanding the
@@ -13869,7 +13869,7 @@ direct her thoughts or fix her principles.
 
 The intimacy thus begun between them was a material advantage to each.
 By sitting together upstairs, they avoided a great deal of the
-disturbance of the [[house]]; Fanny had peace, and Susan learned to think
+disturbance of the house; Fanny had peace, and Susan learned to think
 it no misfortune to be quietly employed. They sat without a [[motifs/fire|fire]]; but
 that was a privation familiar even to Fanny, and she suffered the less
 because reminded by it of the East room. It was the only point of
@@ -13880,7 +13880,7 @@ degrees the girls came to spend the chief of the morning upstairs, at
 first only in working and talking, but after a few days, the
 remembrance of the said books grew so potent and stimulative that Fanny
 found it impossible not to try for books again. There were none in her
-father’s [[house]]; but wealth is luxurious and daring, and some of hers
+father’s house; but wealth is luxurious and daring, and some of hers
 found its way to a circulating library. She became a subscriber; amazed
 at being anything _in propria persona_, amazed at her own doings in
 every way, to be a renter, a chuser of books! And to be having any
@@ -13913,7 +13913,7 @@ heard nothing of him. There were three different conclusions to be
 drawn from his [[motifs/silence|silence]], between which her mind was in fluctuation; each
 of them at times being held the most probable. Either his going had
 been again delayed, or he had yet procured no opportunity of seeing
-Miss Crawford [[Alone|alone]], or he was too happy for letter-writing!
+Miss Crawford alone, or he was too happy for letter-writing!
 
 One morning, about this [[motifs/time|time]], Fanny having now been nearly four weeks
 from Mansfield, a point which she never failed to think over and
@@ -14336,11 +14336,11 @@ Fanny thanked him again, but was affected and distressed to a degree
 that made it impossible for her to say much, or even to be certain of
 what she ought to say. This was towards the close of their walk. He
 attended them to the last, and left them only at the door of their own
-[[house]], when he knew them to be going to dinner, and therefore pretended
+house, when he knew them to be going to dinner, and therefore pretended
 to be waited for elsewhere.
 
 “I wish you were not so tired,” said he, still detaining Fanny after
-all the others were in the [[house]]—“I wish I left you in stronger health.
+all the others were in the house—“I wish I left you in stronger health.
 Is there anything I can do for you in town? I have half an idea of
 going into Norfolk again soon. I am not satisfied about Maddison. I am
 sure he still means to impose on me if possible, and get a cousin of
@@ -14390,7 +14390,7 @@ _she_ turned in to her more simple one immediately.
 
 Their general fare bore a very different character; and could he have
 suspected how many privations, besides that of exercise, she endured in
-her father’s [[house]], he would have wondered that her looks were not much
+her father’s house, he would have wondered that her looks were not much
 more affected than he found them. She was so little equal to Rebecca’s
 puddings and Rebecca’s hashes, brought to table, as they all were, with
 such accompaniments of half-cleaned plates, and not half-cleaned knives
@@ -14468,7 +14468,7 @@ of your cousin’s first party, but I was lazy, and now it is too long
 ago; suffice it, that everything was just as it ought to be, in a style
 that any of her connexions must have been gratified to witness, and
 that her own dress and manners did her the greatest credit. My friend,
-Mrs. Fraser, is mad for such a [[house]], and it would not make _me_
+Mrs. Fraser, is mad for such a house, and it would not make _me_
 miserable. I go to Lady Stornaway after Easter; she seems in high
 spirits, and very happy. I fancy Lord S. is very good-humoured and
 pleasant in his own family, and I do not think him so very ill-looking
@@ -14522,7 +14522,7 @@ try to be more ambitious than her heart would allow. She would
 hesitate, she would tease, she would condition, she would require a
 great deal, but she would finally accept.
 
-This was Fanny’s most frequent expectation. A [[house]] in town—that, she
+This was Fanny’s most frequent expectation. A house in town—that, she
 thought, must be impossible. Yet there was no saying what Miss Crawford
 might not ask. The prospect for her cousin grew worse and worse. The
 woman who could speak of him, and speak only of his appearance! What an
@@ -14576,7 +14576,7 @@ a description of the people, the manners, the amusements, the ways of
 [[motifs/well|well]]-appointed, was eager to hear, and Fanny could not but indulge
 herself in dwelling on so beloved a theme. She hoped it was not wrong;
 though, after a [[motifs/time|time]], Susan’s very great admiration of everything said
-or done in her uncle’s [[house]], and earnest [[concepts/longing|longing]] to go into
+or done in her uncle’s house, and earnest [[concepts/longing|longing]] to go into
 Northamptonshire, seemed almost to blame her for exciting feelings
 which could not be gratified.
 
@@ -14695,7 +14695,7 @@ distance unable to help my own cause. A letter exposes to all the evil
 of consultation, and where the mind is anything short of perfect
 decision, an adviser may, in an unlucky moment, lead it to do what it
 may afterwards regret. I must think this matter over a little. This
-long letter, full of my own concerns [[Alone|alone]], will be enough to tire even
+long letter, full of my own concerns alone, will be enough to tire even
 the [[concepts/friendship|friendship]] of a Fanny. The last [[motifs/time|time]] I saw Crawford was at Mrs.
 Fraser’s party. I am more and more satisfied with all that I see and
 hear of him. There is not a [[archetypes/shadow|shadow]] of wavering. He thoroughly knows his
@@ -14803,7 +14803,7 @@ hours before.
 Tom had gone from [[settings/london|London]] with a party of young men to Newmarket, where
 a neglected fall and a good deal of drinking had brought on a fever;
 and when the party broke up, being unable to move, had been left by
-himself at the [[house]] of one of these young men to the comforts of
+himself at the house of one of these young men to the comforts of
 sickness and [[concepts/solitude|solitude]], and the attendance only of servants. Instead of
 being soon [[motifs/well|well]] enough to follow his friends, as he had then hoped, his
 disorder increased considerably, and it was not long before he thought
@@ -14914,7 +14914,7 @@ know the [[concepts/truth|truth]]. They were apprehensive for his lungs.
 
 A very few lines from [[characters/edmund|Edmund]] shewed her the patient and the sickroom in
 a juster and stronger light than all Lady [[characters/bertram|Bertram]]’s sheets of paper
-could do. There was hardly any one in the [[house]] who might not have
+could do. There was hardly any one in the house who might not have
 described, from personal observation, better than herself; not one who
 was not more useful at times to her son. She could do nothing but glide
 in quietly and look at him; but when able to talk or be talked to, or
@@ -14976,7 +14976,7 @@ your being from [[motifs/home|home]] at this distressing [[motifs/time|time]], s
 spirits. I trust and [[concepts/hope|hope]], and sincerely wish you may never be absent
 from [[motifs/home|home]] so long again,” were most delightful sentences to her. Still,
 however, it was her private regale. Delicacy to her parents made her
-careful not to betray such a preference of her uncle’s [[house]]. It was
+careful not to betray such a preference of her uncle’s house. It was
 always: “When I go back into Northamptonshire, or when I return to
 Mansfield, I shall do so and so.” For a great while it was so, but at
 last the [[concepts/longing|longing]] grew stronger, it overthrew caution, and she found
@@ -15011,7 +15011,7 @@ her!
 
 
 Could she have been at [[motifs/home|home]], she might have been of service to every
-creature in the [[house]]. She felt that she must have been of use to all.
+creature in the house. She felt that she must have been of use to all.
 To all she must have saved some trouble of head or hand; and were it
 only in supporting the spirits of her aunt [[characters/bertram|Bertram]], keeping her from
 the evil of [[concepts/solitude|solitude]], or the still greater evil of a restless,
@@ -15095,7 +15095,7 @@ suppose Mrs. R.’s Easter holidays will not last much longer; no [[concepts/dou
 they are thorough holidays to her. The Aylmers are pleasant people; and
 her husband away, she can have nothing but enjoyment. I give her credit
 for promoting his going dutifully down to Bath, to fetch his mother;
-but how will she and the dowager agree in one [[house]]? Henry is not at
+but how will she and the dowager agree in one house? Henry is not at
 hand, so I have nothing to say from him. Do not you think [[characters/edmund|Edmund]] would
 have been in town again long ago, but for this illness?—Yours ever,
 Mary.”
@@ -15352,7 +15352,7 @@ horribly. Sir Thomas’s parental solicitude and high sense of [[concepts/honour
 decorum, [[characters/edmund|Edmund]]’s upright principles, unsuspicious temper, and genuine
 strength of feeling, made her think it scarcely possible for them to
 support life and reason under such disgrace; and it appeared to her
-that, as far as this world [[Alone|alone]] was concerned, the greatest blessing
+that, as far as this world alone was concerned, the greatest blessing
 to every one of kindred with Mrs. Rushworth would be instant
 annihilation.
 
@@ -15438,11 +15438,11 @@ travelling towards them could hardly have less than visited their
 agitated spirits—one all happiness, the other all varying and
 indescribable perturbation.
 
-By eight in the morning [[characters/edmund|Edmund]] was in the [[house]]. The girls heard his
+By eight in the morning [[characters/edmund|Edmund]] was in the house. The girls heard his
 entrance from above, and Fanny went down. The idea of immediately
 seeing him, with the knowledge of what he must be [[concepts/suffering|suffering]], brought
 back all her own first feelings. He so near her, and in misery. She was
-ready to sink as she entered the parlour. He was [[Alone|alone]], and met her
+ready to sink as she entered the parlour. He was alone, and met her
 instantly; and she found herself pressed to his heart with only these
 words, just articulate, “My Fanny, my only sister; my only comfort
 now!” She could say nothing; nor for some minutes could he say more.
@@ -15464,13 +15464,13 @@ He looked very ill; evidently [[concepts/suffering|suffering]] under violent emo
 he was determined to suppress. She knew it must be so, but it was
 terrible to her.
 
-The carriage came; and he entered the [[house]] again at the same moment,
+The carriage came; and he entered the house again at the same moment,
 just in [[motifs/time|time]] to spend a few minutes with the family, and be a
 witness—but that he saw nothing—of the tranquil manner in which the
 daughters were parted with, and just in [[motifs/time|time]] to prevent their sitting
 down to the breakfast-table, which, by dint of much unusual activity,
 was quite and completely ready as the carriage drove from the door.
-Fanny’s last meal in her father’s [[house]] was in character with her
+Fanny’s last meal in her father’s house was in character with her
 first: she was dismissed from it as hospitably as she had been
 welcomed.
 
@@ -15480,7 +15480,7 @@ easily conceived. Sitting forwards, however, and screened by her
 bonnet, those smiles were unseen.
 
 The [[motifs/journey|journey]] was likely to be a silent one. [[characters/edmund|Edmund]]’s deep sighs often
-reached Fanny. Had he been [[Alone|alone]] with her, his heart must have opened
+reached Fanny. Had he been alone with her, his heart must have opened
 in spite of every resolution; but Susan’s presence drove him quite into
 himself, and his attempts to talk on indifferent subjects could never
 be long supported.
@@ -15493,7 +15493,7 @@ little more. Just before their setting out from [[settings/oxford|Oxford]], whil
 stationed at a [[motifs/window|window]], in eager observation of the departure of a large
 family from the inn, the other two were standing by the [[motifs/fire|fire]]; and
 [[characters/edmund|Edmund]], particularly struck by the alteration in Fanny’s looks, and
-from his ignorance of the daily evils of her father’s [[house]],
+from his ignorance of the daily evils of her father’s house,
 attributing an undue share of the change, attributing _all_ to the
 recent event, took her hand, and said in a low, but very expressive
 tone, “No [[concepts/wonder|wonder]]—you must feel it—you must suffer. How a man who had
@@ -15519,13 +15519,13 @@ lawns and plantations of the freshest green; and the trees, though not
 fully clothed, were in that delightful state when farther [[concepts/beauty|beauty]] is
 known to be at hand, and when, while much is actually given to the
 sight, more yet remains for the [[concepts/imagination|imagination]]. Her enjoyment, however,
-was for herself [[Alone|alone]]. [[characters/edmund|Edmund]] could not share it. She looked at him,
+was for herself alone. [[characters/edmund|Edmund]] could not share it. She looked at him,
 but he was leaning back, sunk in a deeper gloom than ever, and with
 eyes closed, as if the view of cheerfulness oppressed him, and the
 lovely scenes of [[motifs/home|home]] must be shut out.
 
 It made her [[concepts/melancholy|melancholy]] again; and the knowledge of what must be
-enduring there, invested even the [[house]], modern, airy, and [[motifs/well|well]]
+enduring there, invested even the house, modern, airy, and [[motifs/well|well]]
 situated as it was, with a [[concepts/melancholy|melancholy]] aspect.
 
 By one of the [[concepts/suffering|suffering]] party within they were expected with such
@@ -15552,7 +15552,7 @@ it almost overpowered her.
 
 She was an altered creature, quieted, stupefied, indifferent to
 everything that passed. The being left with her sister and nephew, and
-all the [[house]] under her care, had been an advantage entirely thrown
+all the house under her care, had been an advantage entirely thrown
 away; she had been unable to direct or dictate, or even fancy herself
 useful. When really touched by affliction, her active powers had been
 all benumbed; and neither Lady [[characters/bertram|Bertram]] nor Tom had received from her
@@ -15574,13 +15574,13 @@ Susan was received with quiet kindness. Lady [[characters/bertram|Bertram]] coul
 much [[motifs/time|time]], or many words, but she felt her, as Fanny’s sister, to have
 a claim at Mansfield, and was ready to kiss and like her; and Susan was
 more than satisfied, for she came perfectly aware that nothing but
-ill-[[Humour|humour]] was to be expected from aunt Norris; and was so provided
+ill-humour was to be expected from aunt Norris; and was so provided
 with happiness, so strong in that best of blessings, an escape from
 many certain evils, that she could have stood against a great deal more
 indifference than she met with from the others.
 
 She was now left a good deal to herself, to get acquainted with the
-[[house]] and grounds as she could, and spent her days very happily in so
+house and grounds as she could, and spent her days very happily in so
 doing, while those who might otherwise have attended to her were shut
 up, or wholly occupied each with the person quite dependent on them, at
 this [[motifs/time|time]], for everything like comfort; [[characters/edmund|Edmund]] trying to bury his own
@@ -15615,7 +15615,7 @@ she wished of the circumstances attending the story.
 Mrs. Rushworth had gone, for the Easter holidays, to Twickenham, with a
 family whom she had just grown intimate with: a family of lively,
 agreeable manners, and probably of morals and discretion to suit, for
-to _their_ [[house]] Mr. Crawford had constant access at all times. His
+to _their_ house Mr. Crawford had constant access at all times. His
 having been in the same neighbourhood Fanny already knew. Mr. Rushworth
 had been gone at this [[motifs/time|time]] to Bath, to pass a few days with his mother,
 and bring her back to town, and [[characters/maria|Maria]] was with these friends without
@@ -15635,7 +15635,7 @@ Sir Thomas was preparing to act upon this letter, without communicating
 its contents to any creature at Mansfield, when it was followed by
 another, sent express from the same friend, to break to him the almost
 desperate situation in which affairs then stood with the young people.
-Mrs. Rushworth had left her husband’s [[house]]: Mr. Rushworth had been in
+Mrs. Rushworth had left her husband’s house: Mr. Rushworth had been in
 great anger and distress to _him_ (Mr. Harding) for his advice; Mr.
 Harding feared there had been _at_ _least_ very flagrant indiscretion.
 The maidservant of Mrs. Rushworth, senior, threatened alarmingly. He
@@ -15667,7 +15667,7 @@ obstinate, or of less weight with her son, who was always guided by the
 last speaker, by the person who could get hold of and shut him up, the
 case would still have been hopeless, for Mrs. Rushworth did not appear
 again, and there was every reason to conclude her to be concealed
-somewhere with Mr. Crawford, who had quitted his uncle’s [[house]], as for
+somewhere with Mr. Crawford, who had quitted his uncle’s house, as for
 a [[motifs/journey|journey]], on the very day of her absenting herself.
 
 Sir Thomas, however, remained yet a little longer in town, in the [[concepts/hope|hope]]
@@ -15701,14 +15701,14 @@ have fully acquitted her conduct in refusing him; but this, though most
 material to herself, would be poor consolation to Sir Thomas. Her
 uncle’s displeasure was terrible to her; but what could her
 justification or her gratitude and attachment do for him? His stay must
-be on [[characters/edmund|Edmund]] [[Alone|alone]].
+be on [[characters/edmund|Edmund]] alone.
 
 She was mistaken, however, in supposing that [[characters/edmund|Edmund]] gave his father no
 present [[motifs/pain|pain]]. It was of a much less poignant [[concepts/nature|nature]] than what the
 others excited; but Sir Thomas was considering his happiness as very
 deeply involved in the offence of his sister and friend; cut off by it,
 as he must be, from the woman whom he had been pursuing with undoubted
-attachment and strong probability of [[success]]; and who, in everything
+attachment and strong probability of success; and who, in everything
 but this despicable brother, would have been so eligible a connexion.
 He was aware of what [[characters/edmund|Edmund]] must be [[concepts/suffering|suffering]] on his own behalf, in
 addition to all the rest, when they were in town: he had seen or
@@ -15728,7 +15728,7 @@ her own conviction was insufficient. She thought he did, but she wanted
 to be assured of it. If he would now speak to her with the unreserve
 which had sometimes been too much for her before, it would be most
 consoling; but _that_ she found was not to be. She seldom saw him:
-never [[Alone|alone]]. He probably avoided being [[Alone|alone]] with her. What was to be
+never alone. He probably avoided being alone with her. What was to be
 inferred? That his judgment submitted to all his own peculiar and
 bitter share of this family affliction, but that it was too keenly felt
 to be a subject of the slightest communication. This must be his state.
@@ -15737,7 +15737,7 @@ Long, long would it be ere Miss Crawford’s name passed his lips again,
 or she could [[concepts/hope|hope]] for a renewal of such confidential intercourse as had
 been.
 
-It _was_ long. They reached Mansfield on [[thursday|Thursday]], and it was not till
+It _was_ long. They reached Mansfield on Thursday, and it was not till
 [[characters/sunday|Sunday]] evening that [[characters/edmund|Edmund]] began to talk to her on the subject. Sitting
 with her on [[characters/sunday|Sunday]] evening—a wet [[characters/sunday|Sunday]] evening—the very [[motifs/time|time]] of all
 others when, if a friend is at hand, the heart must be opened, and
@@ -15888,7 +15888,7 @@ subject had been entered on at all. It was long before he could speak
 again. At last, “Now, Fanny,” said he, “I shall soon have done. I have
 told you the substance of all that she said. As soon as I could speak,
 I replied that I had not supposed it possible, coming in such a state
-of mind into that [[house]] as I had done, that anything could occur to
+of mind into that house as I had done, that anything could occur to
 make me suffer more, but that she had been inflicting deeper wounds in
 almost every sentence. That though I had, in the course of our
 acquaintance, been often sensible of some difference in our opinions,
@@ -15945,7 +15945,7 @@ And such was Fanny’s dependence on his words, that for five minutes she
 thought they _had_ done. Then, however, it all came on again, or
 something very like it, and nothing less than Lady [[characters/bertram|Bertram]]’s rousing
 thoroughly up could really close such a conversation. Till that
-happened, they continued to talk of Miss Crawford [[Alone|alone]], and how she
+happened, they continued to talk of Miss Crawford alone, and how she
 had attached him, and how delightful [[concepts/nature|nature]] had made her, and how
 excellent she would have been, had she fallen into good hands earlier.
 Fanny, now at liberty to speak openly, felt more than justified in
@@ -16060,7 +16060,7 @@ of [[concepts/education|education]]. Something must have been wanting _within_, 
 have worn away much of its ill effect. He feared that principle, active
 principle, had been wanting; that they had never been properly taught
 to govern their inclinations and tempers by that sense of duty which
-can [[Alone|alone]] suffice. They had been instructed theoretically in their
+can alone suffice. They had been instructed theoretically in their
 religion, but never required to bring it into daily practice. To be
 distinguished for elegance and accomplishments, the authorised object
 of their youth, could have had no useful influence that way, no moral
@@ -16095,7 +16095,7 @@ happiness in Fanny, and carried away no better consolation in leaving
 him than that she _had_ divided them. What can exceed the misery of
 such a mind in such a situation?
 
-Mr. Rushworth had no difficulty in procuring a [[divorce]]; and so ended a
+Mr. Rushworth had no difficulty in procuring a divorce; and so ended a
 [[motifs/marriage|marriage]] contracted under such circumstances as to make any better end
 the effect of good luck not to be reckoned on. She had despised him,
 and loved another; and he had been very much aware that it was so. The
@@ -16105,7 +16105,7 @@ deeper punishment the deeper [[concepts/guilt|guilt]] of his wife. _He_ was rele
 the engagement to be mortified and unhappy, till some other pretty girl
 could attract him into matrimony again, and he might set forward on a
 second, and, it is to be hoped, more prosperous trial of the state: if
-duped, to be duped at least with good [[Humour|humour]] and good luck; while she
+duped, to be duped at least with good humour and good luck; while she
 must withdraw with infinitely stronger feelings to a retirement and
 reproach which could allow no second [[motifs/spring|spring]] of [[concepts/hope|hope]] or character.
 
@@ -16169,7 +16169,7 @@ She had submitted the best to the disappointment in [[characters/henry-crawford|
 After the first bitterness of the conviction of being slighted was
 over, she had been tolerably soon in a fair way of not thinking of him
 again; and when the acquaintance was renewed in town, and Mr.
-Rushworth’s [[house]] became Crawford’s object, she had had the merit of
+Rushworth’s house became Crawford’s object, she had had the merit of
 withdrawing herself from it, and of chusing that [[motifs/time|time]] to pay a visit to
 her other friends, in order to secure herself from being again too much
 attracted. This had been her motive in going to her cousin’s. Mr.
@@ -16197,7 +16197,7 @@ happiness. Could he have been satisfied with the conquest of one
 amiable woman’s affections, could he have found sufficient exultation
 in overcoming the reluctance, in working himself into the esteem and
 tenderness of [[characters/fanny-price|Fanny Price]], there would have been every probability of
-[[success]] and felicity for him. His affection had already done something.
+success and felicity for him. His affection had already done something.
 Her influence over him had already given him some influence over her.
 Would he have deserved more, there can be no [[concepts/doubt|doubt]] that more would have
 been obtained, especially when that [[motifs/marriage|marriage]] had taken place, which
@@ -16312,7 +16312,7 @@ not a week earlier, [[characters/edmund|Edmund]] did cease to care about Miss Cr
 became as anxious to marry Fanny as Fanny herself could [[motifs/desire|desire]].
 
 With such a regard for her, indeed, as his had long been, a regard
-founded on the most endearing claims of [[innocence]] and helplessness, and
+founded on the most endearing claims of innocence and helplessness, and
 completed by every recommendation of growing worth, what could be more
 natural than the change? Loving, guiding, protecting her, as he had
 been doing ever since her being ten years old, her mind in so great a
@@ -16339,7 +16339,7 @@ steadily earnest in the pursuit of the blessing, and it was not
 possible that encouragement from her should be long wanting. Timid,
 anxious, doubting as she was, it was still impossible that such
 tenderness as hers should not, at times, hold out the strongest [[concepts/hope|hope]] of
-[[success]], though it remained for a later period to tell him the whole
+success, though it remained for a later period to tell him the whole
 delightful and astonishing [[concepts/truth|truth]]. His happiness in knowing himself to
 have been so long the beloved of such a heart, must have been great
 enough to warrant any strength of language in which he could clothe it
@@ -16392,7 +16392,7 @@ and after Fanny’s removal succeeded so naturally to her influence over
 the hourly comfort of her aunt, as gradually to become, perhaps, the
 most beloved of the two. In _her_ usefulness, in Fanny’s excellence, in
 William’s continued good conduct and rising fame, and in the general
-[[motifs/well|well]]-doing and [[success]] of the other members of the family, all
+[[motifs/well|well]]-doing and success of the other members of the family, all
 assisting to advance each other, and doing credit to his countenance
 and aid, Sir Thomas saw repeated, and for ever repeated, reason to
 rejoice in what he had done for them all, and acknowledge the

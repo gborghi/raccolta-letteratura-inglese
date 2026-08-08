@@ -95,10 +95,10 @@ tags:
 
 **Settings:** [[settings/london|London]], [[settings/pastoral-countryside|Pastoral Countryside]]
 
-**Characters:** [[historical-references/edward-lear|Edward Lear]], [[historical-references/lewis-carroll|Lewis Carroll]], [[historical-references/friedrich-nietzsche|Friedrich Nietzsche]], Sherlock Holmes
+**Characters:** [[historical-references/edward-lear|Edward Lear]], [[historical-references/lewis-carroll|Lewis Carroll]], [[historical-references/friedrich-nietzsche|Friedrich Nietzsche]], [[characters/sherlock-holmes|Sherlock Holmes]]
 
 **Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/world-upside-down|World Upside Down]], [[topoi/memento-mori|Memento Mori]], [[topoi/pastoral-retreat|Pastoral Retreat]], [[topoi/golden-age|Golden Age]], [[topoi/sublime-in-nature|Sublime in Nature]]
-**Archetypes:** Detective, Child, Prophet
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/child|Child]], [[archetypes/prophet|Prophet]]
 **Motifs:** [[motifs/childhood|Childhood]], [[motifs/book-reading|Book Reading]], [[motifs/death|Death]], [[motifs/stars|Stars]], [[motifs/city|City]]
 **Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/common-man|Common Man]], [[concepts/imagination|Imagination]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/humility|Humility]], [[concepts/democracy|Democracy]], [[concepts/beauty|Beauty]], [[concepts/grotesque|Grotesque]], [[concepts/joy|Joy]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/self-and-cosmos|Self and Cosmos]], [[concepts/class-conflict|Class Conflict]], [[concepts/faith|Faith]], [[concepts/value-and-scarcity|Value and Scarcity]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]

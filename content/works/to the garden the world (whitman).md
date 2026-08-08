@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/eternal-return|Eternal Return]]
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Themes & Concepts:** [[concepts/body|Body]], [[concepts/sexuality|Sexuality]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 **Historical References:** [[historical-references/bible|Bible]]

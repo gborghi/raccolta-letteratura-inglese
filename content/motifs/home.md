@@ -34,9 +34,9 @@ tags:
 - [[works/sexlessness-(chesterton)|sexlessness (Chesterton)]]
 - [[works/to-frances-(chesterton)|to-frances (Chesterton)]]
 - [[works/whats-wrong-(chesterton)|whats wrong (Chesterton)]]
-- 821. Away from Home are some and I — (Dickinson)
-- 828. The Robin is the One (Dickinson)
-- 850. I sing to use the Waiting (Dickinson)
+- [[testi/dickinson/atomized/alienation-outsider-exile#0821_away_from_home_are_some_and_i|821. Away from Home are some and I — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0828_the_robin_is_the_one|828. The Robin is the One (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0850_i_sing_to_use_the_waiting|850. I sing to use the Waiting (Dickinson)]]
 - [[works/waterloo-(conan-doyle)|Waterloo (Conan Doyle)]]
 - [[works/on-everything-(belloc)|On Everything (Belloc)]]
 - [[works/on-something-(belloc)|On Something (Belloc)]]

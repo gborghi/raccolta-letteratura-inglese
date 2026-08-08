@@ -73,7 +73,7 @@ Lo accogliemmo con calore; in quell’uomo c’era quasi tanto di gradevole quan
 
 “Ma questa supremazia,” intervenni, “dipenderebbe dalla conoscenza che il ladro ha riguardo a ciò che la vittima sa sul ladro stesso. Chi oserebbe, ”
 
-“Il ladro,” disse G., “è il Ministro D——, che osa tutto: sia ciò che non è degno di un uomo, sia ciò che invece lo è. Il metodo utilizzato per commettere il furto fu altrettanto ingegnoso quanto audace. Il documento in questione – a dire il vero, una lettera – era stato ricevuto dalla persona derubata mentre si trovava da [[Alone|sola]] nel boudoir reale. Mentre la leggeva, fu improvvisamente interrotta dall’arrivo di un’altra alta autorità, proprio da quella a cui desiderava particolarmente nasconderla. Dopo aver tentato inutilmente di infilarla in un cassetto, fu costretta a lasciarla aperta su un tavolo. L’indirizzo, però, era visibile in superficie, quindi il contenuto della lettera passò inosservato. In quel momento entrò il Ministro D——; i suoi occhi acuti notarono immediatamente il foglio, riconobbero la calligrafia dell’indirizzo e compresero il suo segreto. Dopo aver sbrigato rapidamente alcune faccende, tirò fuori una lettera simile a quella in questione, la aprì, fece finta di leggerla e poi la posizionò accanto all’altra. Continuò quindi a conversare per circa quindici minuti su argomenti di pubblica attualità. Alla fine, prima di congedarsi, prese anche dalla tavola quella lettera a cui non aveva alcun diritto. La legittima proprietaria la vide, ma ovviamente non osò attirare l’attenzione su quel fatto, in presenza della terza persona che le stava accanto. Il ministro se ne andò, lasciando sulla tavola la propria lettera – del tutto insignificante.
+“Il ladro,” disse G., “è il Ministro D——, che osa tutto: sia ciò che non è degno di un uomo, sia ciò che invece lo è. Il metodo utilizzato per commettere il furto fu altrettanto ingegnoso quanto audace. Il documento in questione – a dire il vero, una lettera – era stato ricevuto dalla persona derubata mentre si trovava da sola nel boudoir reale. Mentre la leggeva, fu improvvisamente interrotta dall’arrivo di un’altra alta autorità, proprio da quella a cui desiderava particolarmente nasconderla. Dopo aver tentato inutilmente di infilarla in un cassetto, fu costretta a lasciarla aperta su un tavolo. L’indirizzo, però, era visibile in superficie, quindi il contenuto della lettera passò inosservato. In quel momento entrò il Ministro D——; i suoi occhi acuti notarono immediatamente il foglio, riconobbero la calligrafia dell’indirizzo e compresero il suo segreto. Dopo aver sbrigato rapidamente alcune faccende, tirò fuori una lettera simile a quella in questione, la aprì, fece finta di leggerla e poi la posizionò accanto all’altra. Continuò quindi a conversare per circa quindici minuti su argomenti di pubblica attualità. Alla fine, prima di congedarsi, prese anche dalla tavola quella lettera a cui non aveva alcun diritto. La legittima proprietaria la vide, ma ovviamente non osò attirare l’attenzione su quel fatto, in presenza della terza persona che le stava accanto. Il ministro se ne andò, lasciando sulla tavola la propria lettera – del tutto insignificante.
 
 “Allora, ecco,” mi disse Dupin, “avete esattamente ciò che desiderate per rendere questa situazione definitiva: la conoscenza del ladro riguardo a quella della vittima, e di conseguenza anche riguardo al ladro stesso.”
 
@@ -128,7 +128,7 @@ presumo, non sia del tutto uno [[archetypes/fool|idiota]], e, in caso contrario,
 
 “Presumo che abbiate controllato gli specchi, nascosti tra le assi e le piastre, e che abbiate esaminato i letti e la biancheria da letto, così come le tende e i tappeti.”
 
-“Certo; e quando avevamo completato in questo modo ogni singola parte del mobilio, allora esaminammo la [[house|casa]] stessa. Dividemmo tutta la sua superficie in compartimenti, che numerammo affinché nessuno venisse trascurato; poi analizzammo con il microscopio ogni singolo centimetro quadrato dell’intero edificio, comprese le due case adiacenti.”
+“Certo; e quando avevamo completato in questo modo ogni singola parte del mobilio, allora esaminammo la casa stessa. Dividemmo tutta la sua superficie in compartimenti, che numerammo affinché nessuno venisse trascurato; poi analizzammo con il microscopio ogni singolo centimetro quadrato dell’intero edificio, comprese le due case adiacenti.”
 
 “Le due case adiacenti!” esclamai; “devete aver avuto molti problemi.”
 
@@ -168,7 +168,7 @@ Hai controllato le cantine?
 
 Circa un mese dopo, ci fece nuovamente visita e ci trovò quasi come prima: prese una pipa e una sedia e iniziò a chiacchierare del più e del meno. Alla fine dissi.
 
-“Beh, ma G—, e quella [[The Purloined Letter|lettera rubata]]? Immagino che finalmente tu abbia deciso che non esiste nulla di così grave da poter offendere il Ministro, ”
+“Beh, ma G—, e quella lettera rubata? Immagino che finalmente tu abbia deciso che non esiste nulla di così grave da poter offendere il Ministro, ”
 
 “Maledetto lui. Sì, ho effettuato nuovamente l’esame, come suggerito da Dupin, ma è stato tutto inutile: lo sapevo già che sarebbe andato a vuoto.”
 
@@ -194,7 +194,7 @@ Circa un mese dopo, ci fece nuovamente visita e ci trovò quasi come prima: pres
 
 “In quel caso,” rispose Dupin, aprendo un cassetto e tirando fuori un libretto degli assegni, “potete tranquillamente compilare un assegno per l’importo menzionato. Una volta firmato, vi consegnerò la lettera.”
 
-Ero sbalordito. Il Prefetto sembrava completamente sconvolto; per alcuni minuti rimase senza parole e immobile, fissando incredibilmente il mio amico con la bocca aperta e gli occhi che sembravano uscire dalle orbite; poi, apparentemente ripresosi in parte, prese una penna, e dopo diverse pause e sguardi vuoti, finalmente compilò e firmò un assegno da cinquantamila franchi, porgendolo a Dupin. Quest’ultimo lo esaminò attentamente e lo mise nel proprio portafoglio; quindi, aprendo uno scrittoio, ne tirò fuori una lettera e la diede al Prefetto. Quest’ultimo la afferrò con estrema gioia, l’aprì con mano tremante, diede un’occhiata rapida al suo contenuto, e poi, barcollando verso la porta, fuggì precipitosamente dalla stanza e dall’[[house|casa]], senza pronunciare una parola da quando Dupin gli aveva chiesto di compilare l’assegno.
+Ero sbalordito. Il Prefetto sembrava completamente sconvolto; per alcuni minuti rimase senza parole e immobile, fissando incredibilmente il mio amico con la bocca aperta e gli occhi che sembravano uscire dalle orbite; poi, apparentemente ripresosi in parte, prese una penna, e dopo diverse pause e sguardi vuoti, finalmente compilò e firmò un assegno da cinquantamila franchi, porgendolo a Dupin. Quest’ultimo lo esaminò attentamente e lo mise nel proprio portafoglio; quindi, aprendo uno scrittoio, ne tirò fuori una lettera e la diede al Prefetto. Quest’ultimo la afferrò con estrema gioia, l’aprì con mano tremante, diede un’occhiata rapida al suo contenuto, e poi, barcollando verso la porta, fuggì precipitosamente dalla stanza e dall’casa, senza pronunciare una parola da quando Dupin gli aveva chiesto di compilare l’assegno.
 
 Dopo che se n'è andato, il mio amico ha iniziato a dare alcune spiegazioni.
 
@@ -210,7 +210,7 @@ Ho semplicemente riso, ma sembrava davvero serio in tutto ciò che diceva.
 
 “È semplicemente,” dissi, “un’identificazione dell’intelligenza del ragionatore con quella del suo avversario.”
 
-“È così,” disse Dupin; “e quando chiesi al ragazzo con quale mezzo fosse riuscito a effettuare quell’identificazione così precisa che aveva portato al suo [[success|successo]], ricevetti la seguente risposta: ‘Quando voglio scoprire quanto qualcuno sia saggio, stupido, buono o cattivo, o quali pensieri abbia in quel momento, imito il più fedelmente possibile l’espressione del suo volto, e poi aspetto di vedere quali pensieri o sentimenti emergano nella mia mente o nel mio cuore, come se essi dovessero corrispondere all’espressione che ho assunto.’ Questa risposta dello scolaro costituisce la vera base di tutta quella presunta profondità attribuita a Rochefoucault, La Bougive, Machiavelli e Campanella.”
+“È così,” disse Dupin; “e quando chiesi al ragazzo con quale mezzo fosse riuscito a effettuare quell’identificazione così precisa che aveva portato al suo successo, ricevetti la seguente risposta: ‘Quando voglio scoprire quanto qualcuno sia saggio, stupido, buono o cattivo, o quali pensieri abbia in quel momento, imito il più fedelmente possibile l’espressione del suo volto, e poi aspetto di vedere quali pensieri o sentimenti emergano nella mia mente o nel mio cuore, come se essi dovessero corrispondere all’espressione che ho assunto.’ Questa risposta dello scolaro costituisce la vera base di tutta quella presunta profondità attribuita a Rochefoucault, La Bougive, Machiavelli e Campanella.”
 
 “E l’identificazione,” dissi, “dell’intelletto del ragionatore con quello del suo avversario dipende, se ho capito bene, dall’accuratezza con cui viene misurato l’intelletto dell’avversario stesso.”
 
@@ -393,7 +393,7 @@ would dare—”
 those unbecoming as [[motifs/well|well]] as those becoming a man. The method of
 the theft was not less ingenious than bold. The document in
 question—a letter, to be frank—had been received by the personage
-robbed while [[Alone|alone]] in the royal boudoir. During its perusal she
+robbed while alone in the royal boudoir. During its perusal she
 was suddenly interrupted by the entrance of the other exalted
 personage from whom especially it was her wish to conceal it.
 After a hurried and vain endeavor to thrust it in a drawer, she
@@ -473,7 +473,7 @@ Lo accogliemmo con calore; in quell’uomo c’era quasi tanto di gradevole quan
 
 “Ma questa supremazia,” intervenni, “dipenderebbe dalla conoscenza che il ladro ha riguardo a ciò che la vittima sa sul ladro stesso. Chi oserebbe, ”
 
-“Il ladro,” disse G., “è il Ministro D——, che osa tutto: sia ciò che non è degno di un uomo, sia ciò che invece lo è. Il metodo utilizzato per commettere il furto fu altrettanto ingegnoso quanto audace. Il documento in questione – a dire il vero, una lettera – era stato ricevuto dalla persona derubata mentre si trovava da [[Alone|sola]] nel boudoir reale. Mentre la leggeva, fu improvvisamente interrotta dall’arrivo di un’altra alta autorità, proprio da quella a cui desiderava particolarmente nasconderla. Dopo aver tentato inutilmente di infilarla in un cassetto, fu costretta a lasciarla aperta su un tavolo. L’indirizzo, però, era visibile in superficie, quindi il contenuto della lettera passò inosservato. In quel momento entrò il Ministro D——; i suoi occhi acuti notarono immediatamente il foglio, riconobbero la calligrafia dell’indirizzo e compresero il suo segreto. Dopo aver sbrigato rapidamente alcune faccende, tirò fuori una lettera simile a quella in questione, la aprì, fece finta di leggerla e poi la posizionò accanto all’altra. Continuò quindi a conversare per circa quindici minuti su argomenti di pubblica attualità. Alla fine, prima di congedarsi, prese anche dalla tavola quella lettera a cui non aveva alcun diritto. La legittima proprietaria la vide, ma ovviamente non osò attirare l’attenzione su quel fatto, in presenza della terza persona che le stava accanto. Il ministro se ne andò, lasciando sulla tavola la propria lettera – del tutto insignificante.
+“Il ladro,” disse G., “è il Ministro D——, che osa tutto: sia ciò che non è degno di un uomo, sia ciò che invece lo è. Il metodo utilizzato per commettere il furto fu altrettanto ingegnoso quanto audace. Il documento in questione – a dire il vero, una lettera – era stato ricevuto dalla persona derubata mentre si trovava da sola nel boudoir reale. Mentre la leggeva, fu improvvisamente interrotta dall’arrivo di un’altra alta autorità, proprio da quella a cui desiderava particolarmente nasconderla. Dopo aver tentato inutilmente di infilarla in un cassetto, fu costretta a lasciarla aperta su un tavolo. L’indirizzo, però, era visibile in superficie, quindi il contenuto della lettera passò inosservato. In quel momento entrò il Ministro D——; i suoi occhi acuti notarono immediatamente il foglio, riconobbero la calligrafia dell’indirizzo e compresero il suo segreto. Dopo aver sbrigato rapidamente alcune faccende, tirò fuori una lettera simile a quella in questione, la aprì, fece finta di leggerla e poi la posizionò accanto all’altra. Continuò quindi a conversare per circa quindici minuti su argomenti di pubblica attualità. Alla fine, prima di congedarsi, prese anche dalla tavola quella lettera a cui non aveva alcun diritto. La legittima proprietaria la vide, ma ovviamente non osò attirare l’attenzione su quel fatto, in presenza della terza persona che le stava accanto. Il ministro se ne andò, lasciando sulla tavola la propria lettera – del tutto insignificante.
 
 
 
@@ -671,7 +671,7 @@ plates, and you probed the beds and the bed-clothes, as [[motifs/well|well]] as
 the curtains and carpets.”
 
 “That of course; and when we had absolutely completed every
-particle of the furniture in this way, then we examined the [[house]]
+particle of the furniture in this way, then we examined the house
 itself. We divided its entire surface into compartments, which we
 numbered, so that none might be missed; then we scrutinized each
 individual square inch throughout the premises, including the two
@@ -741,7 +741,7 @@ In about a month afterwards he paid us another visit, and found
 us occupied very nearly as before. He took a pipe and a chair and
 entered into some ordinary conversation. At length I said,—
 
-“[[motifs/well|Well]], but G——, what of [[The Purloined Letter|the purloined letter]]? I presume you have
+“[[motifs/well|Well]], but G——, what of the purloined letter? I presume you have
 at last made up your mind that there is no such thing as
 overreaching the Minister?”
 
@@ -798,7 +798,7 @@ mentioned. When you have signed it, I will hand you the letter.”
 
 “Presumo che abbiate controllato gli specchi, nascosti tra le assi e le piastre, e che abbiate esaminato i letti e la biancheria da letto, così come le tende e i tappeti.”
 
-“Certo; e quando avevamo completato in questo modo ogni singola parte del mobilio, allora esaminammo la [[house|casa]] stessa. Dividemmo tutta la sua superficie in compartimenti, che numerammo affinché nessuno venisse trascurato; poi analizzammo con il microscopio ogni singolo centimetro quadrato dell’intero edificio, comprese le due case adiacenti.”
+“Certo; e quando avevamo completato in questo modo ogni singola parte del mobilio, allora esaminammo la casa stessa. Dividemmo tutta la sua superficie in compartimenti, che numerammo affinché nessuno venisse trascurato; poi analizzammo con il microscopio ogni singolo centimetro quadrato dell’intero edificio, comprese le due case adiacenti.”
 
 “Le due case adiacenti!” esclamai; “devete aver avuto molti problemi.”
 
@@ -838,7 +838,7 @@ Hai controllato le cantine?
 
 Circa un mese dopo, ci fece nuovamente visita e ci trovò quasi come prima: prese una pipa e una sedia e iniziò a chiacchierare del più e del meno. Alla fine dissi.
 
-“Beh, ma G—, e quella [[The Purloined Letter|lettera rubata]]? Immagino che finalmente tu abbia deciso che non esiste nulla di così grave da poter offendere il Ministro, ”
+“Beh, ma G—, e quella lettera rubata? Immagino che finalmente tu abbia deciso che non esiste nulla di così grave da poter offendere il Ministro, ”
 
 “Maledetto lui. Sì, ho effettuato nuovamente l’esame, come suggerito da Dupin, ma è stato tutto inutile: lo sapevo già che sarebbe andato a vuoto.”
 
@@ -882,7 +882,7 @@ took thence a letter and gave it to the Prefect. This functionary
 grasped it in a perfect agony of joy, opened it with a trembling
 hand, cast a rapid glance at its contents, and then, scrambling
 and struggling to the door, rushed at length unceremoniously from
-the room and from the [[house]], without having uttered a syllable
+the room and from the house, without having uttered a syllable
 since Dupin had requested him to fill up the check.
 
 When he had gone, my friend entered into some explanations.
@@ -910,7 +910,7 @@ resources are, with the Prefect, a sort of Procrustean bed, to
 which he forcibly adapts his designs. But he perpetually errs by
 being too deep or too shallow for the matter in hand; and many a
 schoolboy is a better reasoner than he. I knew one about eight
-years of age, whose [[success]] at guessing in the game of ‘even and
+years of age, whose success at guessing in the game of ‘even and
 odd’ attracted universal admiration. This game is simple, and is
 played with marbles. One player holds in his hand a number of
 these toys, and demands of another whether that number is even or
@@ -940,7 +940,7 @@ intellect with that of his opponent.”
 
 “It is,” said Dupin; “and, upon inquiring of the boy by what
 means he effected the thorough identification in which his
-[[success]] consisted, I received answer as follows: ‘When I wish to
+success consisted, I received answer as follows: ‘When I wish to
 find out how wise, or how stupid, or how good, or how wicked is
 any one, or what are his thoughts at the moment, I fashion the
 expression of my face, as accurately as possible, in accordance
@@ -1010,7 +1010,7 @@ fools.”
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ero sbalordito. Il Prefetto sembrava completamente sconvolto; per alcuni minuti rimase senza parole e immobile, fissando incredibilmente il mio amico con la bocca aperta e gli occhi che sembravano uscire dalle orbite; poi, apparentemente ripresosi in parte, prese una penna, e dopo diverse pause e sguardi vuoti, finalmente compilò e firmò un assegno da cinquantamila franchi, porgendolo a Dupin. Quest’ultimo lo esaminò attentamente e lo mise nel proprio portafoglio; quindi, aprendo uno scrittoio, ne tirò fuori una lettera e la diede al Prefetto. Quest’ultimo la afferrò con estrema gioia, l’aprì con mano tremante, diede un’occhiata rapida al suo contenuto, e poi, barcollando verso la porta, fuggì precipitosamente dalla stanza e dall’[[house|casa]], senza pronunciare una parola da quando Dupin gli aveva chiesto di compilare l’assegno.
+Ero sbalordito. Il Prefetto sembrava completamente sconvolto; per alcuni minuti rimase senza parole e immobile, fissando incredibilmente il mio amico con la bocca aperta e gli occhi che sembravano uscire dalle orbite; poi, apparentemente ripresosi in parte, prese una penna, e dopo diverse pause e sguardi vuoti, finalmente compilò e firmò un assegno da cinquantamila franchi, porgendolo a Dupin. Quest’ultimo lo esaminò attentamente e lo mise nel proprio portafoglio; quindi, aprendo uno scrittoio, ne tirò fuori una lettera e la diede al Prefetto. Quest’ultimo la afferrò con estrema gioia, l’aprì con mano tremante, diede un’occhiata rapida al suo contenuto, e poi, barcollando verso la porta, fuggì precipitosamente dalla stanza e dall’casa, senza pronunciare una parola da quando Dupin gli aveva chiesto di compilare l’assegno.
 
 Dopo che se n'è andato, il mio amico ha iniziato a dare alcune spiegazioni.
 
@@ -1026,7 +1026,7 @@ Ho semplicemente riso, ma sembrava davvero serio in tutto ciò che diceva.
 
 “È semplicemente,” dissi, “un’identificazione dell’intelligenza del ragionatore con quella del suo avversario.”
 
-“È così,” disse Dupin; “e quando chiesi al ragazzo con quale mezzo fosse riuscito a effettuare quell’identificazione così precisa che aveva portato al suo [[success|successo]], ricevetti la seguente risposta: ‘Quando voglio scoprire quanto qualcuno sia saggio, stupido, buono o cattivo, o quali pensieri abbia in quel momento, imito il più fedelmente possibile l’espressione del suo volto, e poi aspetto di vedere quali pensieri o sentimenti emergano nella mia mente o nel mio cuore, come se essi dovessero corrispondere all’espressione che ho assunto.’ Questa risposta dello scolaro costituisce la vera base di tutta quella presunta profondità attribuita a Rochefoucault, La Bougive, Machiavelli e Campanella.”
+“È così,” disse Dupin; “e quando chiesi al ragazzo con quale mezzo fosse riuscito a effettuare quell’identificazione così precisa che aveva portato al suo successo, ricevetti la seguente risposta: ‘Quando voglio scoprire quanto qualcuno sia saggio, stupido, buono o cattivo, o quali pensieri abbia in quel momento, imito il più fedelmente possibile l’espressione del suo volto, e poi aspetto di vedere quali pensieri o sentimenti emergano nella mia mente o nel mio cuore, come se essi dovessero corrispondere all’espressione che ho assunto.’ Questa risposta dello scolaro costituisce la vera base di tutta quella presunta profondità attribuita a Rochefoucault, La Bougive, Machiavelli e Campanella.”
 
 “E l’identificazione,” dissi, “dell’intelletto del ragionatore con quello del suo avversario dipende, se ho capito bene, dall’accuratezza con cui viene misurato l’intelletto dell’avversario stesso.”
 
@@ -1074,7 +1074,7 @@ algebraists of [[settings/paris|Paris]]; but proceed.”
 which is cultivated in any especial form other than the
 abstractly logical. I dispute, in particular, the reason educed
 by mathematical study. The mathematics are the science of form
-and quantity; mathematical reasoning is merely [[logic]] applied to
+and quantity; mathematical reasoning is merely logic applied to
 observation upon form and quantity. The great error lies in
 supposing that even the truths of what is called pure algebra,
 are abstract or general truths. And this error is so egregious
@@ -1120,7 +1120,7 @@ events have proved that he did not fail to anticipate—the
 waylayings to which he was subjected. He must have foreseen, I
 reflected, the secret investigations of his premises. His
 frequent absences from [[motifs/home|home]] at [[motifs/night|night]], which were hailed by the
-Prefect as certain aids to his [[success]], I regarded only as ruses,
+Prefect as certain aids to his success, I regarded only as ruses,
 to afford opportunity for thorough search to the police, and thus
 the sooner to impress them with the conviction to which G——, in
 fact, did finally arrive—the conviction that the letter was not
@@ -1252,7 +1252,7 @@ had read us so minute a description. Here the seal was large and
 black, with the D—— cipher; there it was small and red, with the
 ducal arms of the S—— family. Here, the address, to the Minister,
 diminutive and feminine; there the superscription, to a certain
-royal personage, was markedly bold and decided; the size [[Alone|alone]]
+royal personage, was markedly bold and decided; the size alone
 formed a point of correspondence. But, then, the radicalness of
 these differences, which was excessive; the dirt; the soiled and
 torn condition of the paper, so inconsistent with the true

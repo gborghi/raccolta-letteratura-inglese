@@ -58,7 +58,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Artist, Monster, Wise Old Man Sage
+**Archetypes:** [[archetypes/artist|Artist]], [[archetypes/monster|Monster]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 
 **Settings:** [[settings/cathedral|Cathedral]]
 

@@ -54,11 +54,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 
 **Topoi:** [[topoi/contemptus-mundi|Contemptus Mundi]]
 
-**Characters:** [[historical-references/thomas-aquinas|Thomas Aquinas]], Count Landulf
+**Characters:** [[historical-references/thomas-aquinas|Thomas Aquinas]], [[characters/count-landulf|Count Landulf]]
 
 **Motifs:** [[motifs/fire|Fire]], [[motifs/cross|Cross]], [[motifs/imprisonment-(2)|Imprisonment (2)]], [[motifs/journey|Journey]]
 **Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/temptation|Temptation]], [[concepts/pride|Pride]], [[concepts/renunciation|Renunciation]], [[concepts/poverty|Poverty]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/ambition|Ambition]]

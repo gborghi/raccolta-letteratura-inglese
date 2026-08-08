@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Femme Fatale
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]]
 **Motifs:** [[motifs/sea|Sea]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/deception|Deception]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]

@@ -19,7 +19,7 @@ tags:
 
 # quercia
 
-La [[Song|Canzone]] della Quercia  
+La Canzone della Quercia  
 
 I Druidi agitavano i loro coltelli d'oro  
 e danzavano attorno alla Quercia  
@@ -129,7 +129,7 @@ G. K. Chesterton
 
 # quercia
 
-La [[Song|Canzone]] della Quercia  
+La Canzone della Quercia  
 
 I Druidi agitavano i loro coltelli d'oro  
 e danzavano attorno alla Quercia  

@@ -22,7 +22,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 **Historical References:** [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]

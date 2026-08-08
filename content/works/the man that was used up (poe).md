@@ -48,7 +48,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/grotesque|Grotesque]], [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/identity|Identity]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]

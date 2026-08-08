@@ -25,7 +25,7 @@ Negli ultimi tre anni la mia attenzione è stata ripetutamente attratta dal tema
 
 Guardandomi intorno alla ricerca di una persona con la quale poter verificare questi fenomeni, mi venne in mente il mio amico, il signor Ernest Valdemar, il ben noto compilatore della “Bibliotheca Forensica” e autore (sotto lo pseudonimo di Issachar Marx) delle versioni polacche di “Wallenstein” e “Gargantua”. Il signor Valdemar, che dal 1839 risiedeva principalmente ad Harlem, New York, si distingueva per l’estrema magrezza del suo corpo – le sue gambe inferiori assomigliavano molto a quelle di John Randolph – e anche per la bianchezza delle sue basette, in netto contrasto con i suoi capelli neri; questi ultimi venivano spesso scambiati per una parrucca. Il suo temperamento era particolarmente nervoso, il che lo rendeva un soggetto ideale per esperimenti di ipnosi. In due o tre occasioni riuscii a farlo addormentare senza grandi difficoltà, ma ottenni risultati deludenti in altri casi, come previsto dalla sua particolare costituzione. La sua volontà non fu mai completamente sotto il mio controllo; quanto alla chiaroveggenza, non riuscii ad ottenere nulla di affidabile con lui. attribuivo sempre i miei insuccessi allo stato di salute precario in cui si trovava. Alcuni mesi prima di conoscerlo, i suoi medici avevano diagnosticato una tubercolosi avanzata. Era sua abitudine parlare con calma della propria imminente morte, come di qualcosa che non poteva essere evitato né rimpianto.
 
-Quando per la prima volta mi vennero in mente quelle idee, fu naturalissimo che pensassi a Monsieur Valdemar. Conoscevo troppo bene la sua ferma [[philosophy|filosofia]] per ritenere che potesse avere alcun rimorso; inoltre, non aveva parenti in [[settings/america|America]] che potessero interferire. Gli parlai francamente dell’argomento e, con mia sorpresa, sembrò molto interessato. Dico “con mia sorpresa”, perché sebbene avesse sempre collaborato volentieri alle mie ricerche, non mi aveva mai dimostrato alcun interesse per ciò che facevo. La sua malattia presentava caratteristiche tali da permettere di calcolare con precisione il momento del suo decesso; quindi concordammo che mi avrebbe chiamato circa ventiquattro ore prima della data prevista dai suoi medici.
+Quando per la prima volta mi vennero in mente quelle idee, fu naturalissimo che pensassi a Monsieur Valdemar. Conoscevo troppo bene la sua ferma filosofia per ritenere che potesse avere alcun rimorso; inoltre, non aveva parenti in [[settings/america|America]] che potessero interferire. Gli parlai francamente dell’argomento e, con mia sorpresa, sembrò molto interessato. Dico “con mia sorpresa”, perché sebbene avesse sempre collaborato volentieri alle mie ricerche, non mi aveva mai dimostrato alcun interesse per ciò che facevo. La sua malattia presentava caratteristiche tali da permettere di calcolare con precisione il momento del suo decesso; quindi concordammo che mi avrebbe chiamato circa ventiquattro ore prima della data prevista dai suoi medici.
 
 Sono ormai trascorsi più di sette mesi da quando ho ricevuto, direttamente da M. Valdemar, la nota seguente:
 
@@ -97,7 +97,7 @@ Ho parlato sia di “suono” che di “voce”. Intendo dire che quel suono era
 
 Nessuno presente ebbe il minimo impulso di negare o cercare di reprimere quell’orrore indicibile che quelle poche parole, pronunciate in quel modo, erano così ben calcolate per trasmettere. Il signor L—l (lo studente) svenne; le infermiere lasciarono immediatamente la stanza e non furono in grado di tornarvi. Le mie stesse impressioni non oserei cercare di renderle comprensibili al lettore. Per quasi un’ora, ci occupammo silenziosamente, senza pronunciare una parola, nel tentativo di far riprendere i sensi al signor L—l. Quando tornò in sé, riprendemmo l’esame della condizione del signor Valdemar.
 
-Rimaneva esattamente come l’avevo descritto l’ultima volta, con l’unica eccezione che lo [[motifs/mirror|specchio]] non mostrava più alcun segno di respirazione. Un tentativo di prelevare del [[motifs/blood|sangue]] dal braccio fallì. Devo anche menzionare che quel braccio non era più soggetto al mio controllo: cercavo invano di fargli seguire la direzione della mia mano. L’unico vero indizio dell’influenza ipnotica risiedeva ora nel movimento vibratorio della lingua, ogni volta che ponevo una domanda a M. Valdemar. Sembrava sforzarsi di rispondere, ma non aveva più sufficiente volontà. Alle domande poste da altre persone, invece, sembrava del tutto insensibile, anche se cercavo di mettere ogni membro del gruppo in stato di ipnosi con lui. Credo di aver ora descritto tutto ciò che è necessario per comprendere lo stato di M. Valdemar in quel momento. Furono chiamate altre infermiere; alle dieci in punto lasciai la [[house|casa]] insieme ai due medici e a Mr. L—l.
+Rimaneva esattamente come l’avevo descritto l’ultima volta, con l’unica eccezione che lo [[motifs/mirror|specchio]] non mostrava più alcun segno di respirazione. Un tentativo di prelevare del [[motifs/blood|sangue]] dal braccio fallì. Devo anche menzionare che quel braccio non era più soggetto al mio controllo: cercavo invano di fargli seguire la direzione della mia mano. L’unico vero indizio dell’influenza ipnotica risiedeva ora nel movimento vibratorio della lingua, ogni volta che ponevo una domanda a M. Valdemar. Sembrava sforzarsi di rispondere, ma non aveva più sufficiente volontà. Alle domande poste da altre persone, invece, sembrava del tutto insensibile, anche se cercavo di mettere ogni membro del gruppo in stato di ipnosi con lui. Credo di aver ora descritto tutto ciò che è necessario per comprendere lo stato di M. Valdemar in quel momento. Furono chiamate altre infermiere; alle dieci in punto lasciai la casa insieme ai due medici e a Mr. L—l.
 
 Nel pomeriggio abbiamo tutti chiamato di nuovo per controllare le condizioni del paziente. La sua situazione rimaneva esattamente la stessa. Abbiamo discusso se fosse opportuno e fattibile risvegliarlo, ma siamo rapidamente concordi sul fatto che farlo non avrebbe portato a nessun risultato positivo. Era evidente che, per il momento, la [[motifs/death|morte]] (o ciò che di solito viene definito così) era stata fermata dal processo ipnotico. A tutti noi sembrava chiaro che risvegliare il signor Valdemar avrebbe significato semplicemente accelerare la sua morte, o almeno renderla immediata.
 
@@ -115,7 +115,7 @@ I cerchi frenetici sulle guance ricomparvero all’istante; la lingua tremava, o
 
 “Per l’amore di Dio! — Presto! — Presto! — Mettimi a [[motifs/sleep|dormire]], o, per favore, svegliami! Dico sul serio: sono morto!”
 
-Ero completamente sconvolto e, per un istante, non sapevo cosa fare. All’inizio cercai di far riprendere conoscenza al paziente; ma, non riuscendoci a causa della totale assenza di volontà da parte sua, tornai indietro e provai con ancora più impegno a svegliarlo. In quel tentativo, credetti presto di avere successo, o almeno pensai che il mio [[success|successo]] fosse certo; sono sicuro che tutti nella stanza fossero pronti ad assistere al risveglio del paziente.
+Ero completamente sconvolto e, per un istante, non sapevo cosa fare. All’inizio cercai di far riprendere conoscenza al paziente; ma, non riuscendoci a causa della totale assenza di volontà da parte sua, tornai indietro e provai con ancora più impegno a svegliarlo. In quel tentativo, credetti presto di avere successo, o almeno pensai che il mio successo fosse certo; sono sicuro che tutti nella stanza fossero pronti ad assistere al risveglio del paziente.
 
 Per quanto riguarda ciò che realmente accadde, tuttavia, è assolutamente impossibile che qualsiasi essere umano potesse esserne preparato.
 
@@ -182,7 +182,7 @@ regretted.
 
 When the ideas to which I have alluded first occurred to me, it
 was of course very natural that I should think of M. Valdemar. I
-knew the steady [[philosophy]] of the man too [[motifs/well|well]] to apprehend any
+knew the steady philosophy of the man too [[motifs/well|well]] to apprehend any
 scruples from him; and he had no relatives in [[settings/america|America]] who would
 be likely to interfere. I spoke to him frankly upon the subject;
 and, to my surprise, his interest seemed vividly excited. I say
@@ -250,7 +250,7 @@ Negli ultimi tre anni la mia attenzione è stata ripetutamente attratta dal tema
 
 Guardandomi intorno alla ricerca di una persona con la quale poter verificare questi fenomeni, mi venne in mente il mio amico, il signor Ernest Valdemar, il ben noto compilatore della “Bibliotheca Forensica” e autore (sotto lo pseudonimo di Issachar Marx) delle versioni polacche di “Wallenstein” e “Gargantua”. Il signor Valdemar, che dal 1839 risiedeva principalmente ad Harlem, New York, si distingueva per l’estrema magrezza del suo corpo – le sue gambe inferiori assomigliavano molto a quelle di John Randolph – e anche per la bianchezza delle sue basette, in netto contrasto con i suoi capelli neri; questi ultimi venivano spesso scambiati per una parrucca. Il suo temperamento era particolarmente nervoso, il che lo rendeva un soggetto ideale per esperimenti di ipnosi. In due o tre occasioni riuscii a farlo addormentare senza grandi difficoltà, ma ottenni risultati deludenti in altri casi, come previsto dalla sua particolare costituzione. La sua volontà non fu mai completamente sotto il mio controllo; quanto alla chiaroveggenza, non riuscii ad ottenere nulla di affidabile con lui. attribuivo sempre i miei insuccessi allo stato di salute precario in cui si trovava. Alcuni mesi prima di conoscerlo, i suoi medici avevano diagnosticato una tubercolosi avanzata. Era sua abitudine parlare con calma della propria imminente morte, come di qualcosa che non poteva essere evitato né rimpianto.
 
-Quando per la prima volta mi vennero in mente quelle idee, fu naturalissimo che pensassi a Monsieur Valdemar. Conoscevo troppo bene la sua ferma [[philosophy|filosofia]] per ritenere che potesse avere alcun rimorso; inoltre, non aveva parenti in [[settings/america|America]] che potessero interferire. Gli parlai francamente dell’argomento e, con mia sorpresa, sembrò molto interessato. Dico “con mia sorpresa”, perché sebbene avesse sempre collaborato volentieri alle mie ricerche, non mi aveva mai dimostrato alcun interesse per ciò che facevo. La sua malattia presentava caratteristiche tali da permettere di calcolare con precisione il momento del suo decesso; quindi concordammo che mi avrebbe chiamato circa ventiquattro ore prima della data prevista dai suoi medici.
+Quando per la prima volta mi vennero in mente quelle idee, fu naturalissimo che pensassi a Monsieur Valdemar. Conoscevo troppo bene la sua ferma filosofia per ritenere che potesse avere alcun rimorso; inoltre, non aveva parenti in [[settings/america|America]] che potessero interferire. Gli parlai francamente dell’argomento e, con mia sorpresa, sembrò molto interessato. Dico “con mia sorpresa”, perché sebbene avesse sempre collaborato volentieri alle mie ricerche, non mi aveva mai dimostrato alcun interesse per ciò che facevo. La sua malattia presentava caratteristiche tali da permettere di calcolare con precisione il momento del suo decesso; quindi concordammo che mi avrebbe chiamato circa ventiquattro ore prima della data prevista dai suoi medici.
 
 Sono ormai trascorsi più di sette mesi da quando ho ricevuto, direttamente da M. Valdemar, la nota seguente:
 
@@ -518,7 +518,7 @@ utterly insensible—although I endeavored to place each member of
 the company in mesmeric rapport with him. I believe that I have
 now related all that is necessary to an understanding of the
 [[motifs/sleep|sleep]]-waker’s state at this epoch. Other nurses were procured;
-and at ten o’[[motifs/clock|clock]] I left the [[house]] in company with the two
+and at ten o’[[motifs/clock|clock]] I left the house in company with the two
 physicians and Mr. L—l.
 
 
@@ -556,7 +556,7 @@ Ho parlato sia di “suono” che di “voce”. Intendo dire che quel suono era
 
 Nessuno presente ebbe il minimo impulso di negare o cercare di reprimere quell’orrore indicibile che quelle poche parole, pronunciate in quel modo, erano così ben calcolate per trasmettere. Il signor L—l (lo studente) svenne; le infermiere lasciarono immediatamente la stanza e non furono in grado di tornarvi. Le mie stesse impressioni non oserei cercare di renderle comprensibili al lettore. Per quasi un’ora, ci occupammo silenziosamente, senza pronunciare una parola, nel tentativo di far riprendere i sensi al signor L—l. Quando tornò in sé, riprendemmo l’esame della condizione del signor Valdemar.
 
-Rimaneva esattamente come l’avevo descritto l’ultima volta, con l’unica eccezione che lo [[motifs/mirror|specchio]] non mostrava più alcun segno di respirazione. Un tentativo di prelevare del [[motifs/blood|sangue]] dal braccio fallì. Devo anche menzionare che quel braccio non era più soggetto al mio controllo: cercavo invano di fargli seguire la direzione della mia mano. L’unico vero indizio dell’influenza ipnotica risiedeva ora nel movimento vibratorio della lingua, ogni volta che ponevo una domanda a M. Valdemar. Sembrava sforzarsi di rispondere, ma non aveva più sufficiente volontà. Alle domande poste da altre persone, invece, sembrava del tutto insensibile, anche se cercavo di mettere ogni membro del gruppo in stato di ipnosi con lui. Credo di aver ora descritto tutto ciò che è necessario per comprendere lo stato di M. Valdemar in quel momento. Furono chiamate altre infermiere; alle dieci in punto lasciai la [[house|casa]] insieme ai due medici e a Mr. L—l.
+Rimaneva esattamente come l’avevo descritto l’ultima volta, con l’unica eccezione che lo [[motifs/mirror|specchio]] non mostrava più alcun segno di respirazione. Un tentativo di prelevare del [[motifs/blood|sangue]] dal braccio fallì. Devo anche menzionare che quel braccio non era più soggetto al mio controllo: cercavo invano di fargli seguire la direzione della mia mano. L’unico vero indizio dell’influenza ipnotica risiedeva ora nel movimento vibratorio della lingua, ogni volta che ponevo una domanda a M. Valdemar. Sembrava sforzarsi di rispondere, ma non aveva più sufficiente volontà. Alle domande poste da altre persone, invece, sembrava del tutto insensibile, anche se cercavo di mettere ogni membro del gruppo in stato di ipnosi con lui. Credo di aver ora descritto tutto ciò che è necessario per comprendere lo stato di M. Valdemar in quel momento. Furono chiamate altre infermiere; alle dieci in punto lasciai la casa insieme ai due medici e a Mr. L—l.
 
 
 
@@ -575,8 +575,8 @@ dissolution.
 
 From this period until the close of last week—an interval of
 nearly seven months—we continued to make daily calls at M.
-Valdemar’s [[house]], accompanied, now and then, by medical and other
-friends. All this [[motifs/time|time]] [[The Sleeper|the sleeper]]-waker remained _exactly_ as I
+Valdemar’s house, accompanied, now and then, by medical and other
+friends. All this [[motifs/time|time]] the sleeper-waker remained _exactly_ as I
 have last described him. The nurses’ attentions were continual.
 
 It was on Friday last that we finally resolved to make the
@@ -615,7 +615,7 @@ what to do. At first I made an endeavor to recompose the patient;
 but, failing in this through total abeyance of the will, I
 retraced my steps and as earnestly struggled to awaken him. In
 this attempt I soon saw that I should be successful—or at least I
-soon fancied that my [[success]] would be complete—and I am sure that
+soon fancied that my success would be complete—and I am sure that
 all in the room were prepared to see the patient awaken.
 
 For what really occurred, however, it is quite impossible that
@@ -648,7 +648,7 @@ I cerchi frenetici sulle guance ricomparvero all’istante; la lingua tremava, o
 
 “Per l’amore di Dio! — Presto! — Presto! — Mettimi a [[motifs/sleep|dormire]], o, per favore, svegliami! Dico sul serio: sono morto!”
 
-Ero completamente sconvolto e, per un istante, non sapevo cosa fare. All’inizio cercai di far riprendere conoscenza al paziente; ma, non riuscendoci a causa della totale assenza di volontà da parte sua, tornai indietro e provai con ancora più impegno a svegliarlo. In quel tentativo, credetti presto di avere successo, o almeno pensai che il mio [[success|successo]] fosse certo; sono sicuro che tutti nella stanza fossero pronti ad assistere al risveglio del paziente.
+Ero completamente sconvolto e, per un istante, non sapevo cosa fare. All’inizio cercai di far riprendere conoscenza al paziente; ma, non riuscendoci a causa della totale assenza di volontà da parte sua, tornai indietro e provai con ancora più impegno a svegliarlo. In quel tentativo, credetti presto di avere successo, o almeno pensai che il mio successo fosse certo; sono sicuro che tutti nella stanza fossero pronti ad assistere al risveglio del paziente.
 
 Per quanto riguarda ciò che realmente accadde, tuttavia, è assolutamente impossibile che qualsiasi essere umano potesse esserne preparato.
 

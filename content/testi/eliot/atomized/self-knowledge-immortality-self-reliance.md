@@ -122,11 +122,11 @@ So that the reverence and the gaiety
 May not be forgotten in later experience,  
 In the bored habituation, the fatigue, the tedium,  
 The awareness of [[motifs/death|death]], the consciousness of failure,  
-Or in the piety of the [[convert]]  
+Or in the piety of the convert  
 Which may be tainted with a [[concepts/self|self]]-conceit  
 Displeasing to God and disrespectful to the children  
 (And here I remember also with gratitude  
-St. Lucy, her [[carol]], and her [[motifs/crown|crown]] of [[motifs/fire|fire]]):  
+St. Lucy, her carol, and her [[motifs/crown|crown]] of [[motifs/fire|fire]]):  
 So that before the end, the eightieth Christmas  
 (By ‘eightieth’ meaning whichever is the last)  
 The accumulated memories of annual emotion  
@@ -161,11 +161,11 @@ sì che la reverenza e l’allegria
 non siano dimenticate nell’esperienza successiva,  
 nell’abitudine annoiata, nella stanchezza, nel tedio,  
 nella coscienza della [[motifs/death|morte]], nella consapevolezza del fallimento,  
-o nella pietà del [[convert|convertito]]  
+o nella pietà del convertito  
 che può esser guasta da una presunzione di [[concepts/self|sé]]  
 sgradita a Dio e irrispettosa verso i bambini  
 (e qui ricordo anche con gratitudine  
-santa Lucia, il suo [[carol|canto]], e la sua [[motifs/crown|corona]] di [[motifs/fire|fuoco]]):  
+santa Lucia, il suo canto, e la sua [[motifs/crown|corona]] di [[motifs/fire|fuoco]]):  
 sì che prima della fine, l’ottantesimo Natale  
 (intendendo per ‘ottantesimo’ quale che sia l’ultimo)  
 le memorie accumulate dell’emozione annuale  
@@ -182,7 +182,7 @@ e la prima venuta la seconda venuta.
 
 I The Eagle soars in the summit of Heaven  
 The Eagle soars in the summit of Heaven,  
-The Hunter with his [[dogs]] pursues his circuit.  
+The Hunter with his dogs pursues his circuit.  
 O perpetual revolution of configured [[motifs/stars|stars]],  
 O perpetual recurrence of determined [[motifs/seasons|seasons]],  
 O world of [[motifs/spring|spring]] and [[motifs/autumn|autumn]], birth and dying!  
@@ -236,7 +236,7 @@ THE ROCK:
    The lot of man is ceaseless labour,  
    Or ceaseless idleness, which is still harder,  
    Or irregular labour, which is not pleasant.  
-   I have trodden the winepress [[Alone|alone]], and I know  
+   I have trodden the winepress alone, and I know  
    That it is hard to be really useful, resigning  
    The things that men count for happiness, seeking  
    The good deeds that lead to obscurity, accepting  
@@ -323,7 +323,7 @@ Each man to his work.
 
 I L’Aquila si libra al sommo del Cielo  
 L’Aquila si libra al sommo del Cielo,  
-il Cacciatore coi suoi [[dogs|cani]] compie il suo giro.  
+il Cacciatore coi suoi cani compie il suo giro.  
 O perpetua rivoluzione di [[motifs/stars|stelle]] configurate,  
 o perpetuo ritorno di [[motifs/seasons|stagioni]] determinate,  
 o mondo di [[motifs/spring|primavera]] e d’[[motifs/autumn|autunno]], di nascita e di morte!  
@@ -377,7 +377,7 @@ LA ROCCIA:
    La sorte dell’uomo è fatica incessante,  
    o incessante ozio, che è ancora più duro,  
    o fatica irregolare, che non è piacevole.  
-   Ho pigiato l’uva [[Alone|solo]], e so  
+   Ho pigiato l’uva solo, e so  
    che è arduo essere davvero utili, rinunciando  
    alle cose che gli uomini contano per felicità, cercando  
    le opere buone che conducono all’oscurità, accettando  
@@ -536,7 +536,7 @@ può essere affermata in versi.
 I  
 Standing upon the shore of all we know  
 We linger for a moment doubtfully,  
-Then with a [[Song|song]] upon our lips, sail we  
+Then with a song upon our lips, sail we  
 Across the harbor bar — no chart to show  
 No light to warn of rocks which lie below,  
 But let us yet put forth courageously.  
@@ -604,7 +604,7 @@ That which has made it great, not left behind,
 The same school in the future shall we find  
 As this from which as pupils now we go.  
 XI  
-We go; like flitting faces in [[A Dream|a dream]];  
+We go; like flitting faces in a dream;  
 Out of thy care and tutelage we pass  
 Into the unknown world — class after class,  
 O [[characters/queen|queen]] of schools — a momentary gleam,  
@@ -639,7 +639,7 @@ Exeunt omnes‚ with a last ‘farewell’.
 I  
 Ritti sulla riva di tutto ciò che sappiamo  
 indugiamo un istante dubitosi,  
-poi con un [[Song|canto]] sulle labbra salpiamo  
+poi con un canto sulle labbra salpiamo  
 oltre la barra del porto — nessuna carta a mostrare  
 nessun faro ad avvertire degli scogli che stanno sotto,  
 ma pure mettiamoci in mare coraggiosamente.  
@@ -707,7 +707,7 @@ Ciò che l’ha fatta grande, non lasciato indietro,
 la stessa scuola nel futuro troveremo  
 che è questa da cui ora, scolari, partiamo.  
 XI  
-Andiamo; come volti fuggevoli in [[A Dream|un sogno]];  
+Andiamo; come volti fuggevoli in un sogno;  
 dalla tua cura e tutela passiamo  
 nel mondo ignoto — classe dopo classe,  
 o [[characters/queen|regina]] delle scuole — un lampo momentaneo,  
@@ -740,7 +740,7 @@ Exeunt omnes, con un ultimo ‘addio’.
 <span class="atom-split" data-atom="116_a_b_c" data-title="A, B, C" data-chapter="" data-kind="intro"></span>
 
 
-INDEX OF FIRST LINES OF [[Poems|POEMS]]  
+INDEX OF FIRST LINES OF POEMS  
 ‘A cold coming we had of it  1  
 A man’s destination is his own village 1  
 Among a crowd of tenuous [[motifs/dreams|dreams]], unknown 1  
@@ -759,7 +759,7 @@ Come under the [[archetypes/shadow|shadow]] of this gray rock 1
 
 <span class="qlang-split" data-lang="it"></span>
 
-INDICE DEI PRIMI VERSI DELLE [[Poems|POESIE]]  
+INDICE DEI PRIMI VERSI DELLE POESIE  
 ‘Una fredda venuta fu la nostra  1  
 La destinazione d’un uomo è il suo villaggio 1  
 Fra una folla di tenui [[motifs/dreams|sogni]], sconosciuta 1  

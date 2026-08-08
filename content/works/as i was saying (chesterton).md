@@ -104,7 +104,7 @@ tags:
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Characters:** Lady Macbeth
+**Characters:** [[characters/lady-macbeth|Lady Macbeth]]
 
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/education|Education]], [[concepts/nostalgia|Nostalgia]], [[concepts/transience|Transience]], [[concepts/democracy|Democracy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/class-conflict|Class Conflict]], [[concepts/distributism|Distributism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/mortality|Mortality]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/labor-and-work|Labor and Work]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]

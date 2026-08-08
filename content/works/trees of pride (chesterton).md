@@ -70,9 +70,9 @@ tags:
 
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** Woodcutter, Young Fisherman, Squire Vane, Barbara Vane, Cyprian Paynter, John Treherne, Andrew Ashe, Dr. Burton Brown, Miles
+**Characters:** [[characters/woodcutter|Woodcutter]], [[characters/young-fisherman|Young Fisherman]], [[characters/squire-vane|Squire Vane]], [[characters/barbara-vane|Barbara Vane]], [[characters/cyprian-paynter|Cyprian Paynter]], [[characters/john-treherne|John Treherne]], [[characters/andrew-ashe|Andrew Ashe]], [[characters/dr.-burton-brown|Dr. Burton Brown]], [[characters/miles|Miles]]
 
-**Archetypes:** Detective, Villain, Trickster, Outsider
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]], [[archetypes/trickster|Trickster]], [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/sea|Sea]], [[motifs/enchanted-wood|Enchanted Wood]], [[motifs/well|Well]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/disease-and-contagion|Disease and Contagion]], [[motifs/birds|Birds]], [[motifs/poison|Poison]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/doubt|Doubt]], [[concepts/pride|Pride]], [[concepts/common-man|Common Man]], [[concepts/deception|Deception]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/guilt|Guilt]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]

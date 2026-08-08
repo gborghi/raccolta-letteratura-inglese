@@ -42,5 +42,5 @@ tags:
 **Motifs:** [[motifs/fire|Fire]], [[motifs/blood|Blood]]
 **Historical References:** [[historical-references/boer-war-(second-south-african-war)|Boer War (Second South African War)]], [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/south-africa|South Africa]], [[settings/battlefield|Battlefield]], [[settings/military-camp|Military Camp]]
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Topoi:** [[topoi/war-as-glory|War as Glory]], [[topoi/last-stand|Last Stand]]

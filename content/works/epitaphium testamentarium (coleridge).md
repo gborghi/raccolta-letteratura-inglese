@@ -26,7 +26,7 @@ tags:
 **Topoi:** [[topoi/memento-mori|Memento Mori]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/epigram|Epigram]]
-**Characters:** Christ, Death Personified
+**Characters:** [[characters/christ|Christ]], [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

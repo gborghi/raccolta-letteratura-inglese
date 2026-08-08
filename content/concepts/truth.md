@@ -59,43 +59,43 @@ tags:
 - [[works/to-the-rev.-george-coleridge-(coleridge)|TO THE REV. GEORGE COLERIDGE (Coleridge)]]
 - [[works/translation-of-a-fragment-of-heraclitus-(coleridge)|TRANSLATION OF A FRAGMENT OF HERACLITUS (Coleridge)]]
 - [[works/american-notes-(dickens)|American Notes (Dickens)]]
-- 1129. Tell all the Truth but tell it slant — (Dickinson)
-- 1195. What we see we know somewhat (Dickinson)
-- 1269. I worked for chaff and earning Wheat (Dickinson)
-- 1395. After all Birds have been investigated and laid aside — (Dickinson)
-- 1413. Sweet Skepticism of the Heart — (Dickinson)
-- 1424. The Gentian has a parched Corolla — (Dickinson)
-- 1446. His Mind like Fabrics of the East (Dickinson)
-- 1453. A Counterfeit — a Plated Person — (Dickinson)
-- 281. 'Tis so appalling — it exhilarates — (Dickinson)
-- 400. A Tongue — to tell Him I am true! (Dickinson)
-- 449. I died for Beauty — but was scarce (Dickinson)
-- 516. Beauty — be not caused — It Is — (Dickinson)
-- 568. We learned the Whole of Love — (Dickinson)
-- 753. My Soul — accused me — And I quailed — (Dickinson)
-- 771. None can experience sting (Dickinson)
-- 780. The Truth — is stirless — (Dickinson)
-- 789. On a Columnar Self — (Dickinson)
-- 97. The rainbow never tells me (Dickinson)
-- 998. Best Things dwell out of Sight (Dickinson)
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1129_tell_all_the_truth_but_tell_it_slant|1129. Tell all the Truth but tell it slant — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1195_what_we_see_we_know_somewhat|1195. What we see we know somewhat (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1269_i_worked_for_chaff_and_earning_wheat|1269. I worked for chaff and earning Wheat (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1395_after_all_birds_have_been_investigated_and_laid_aside|1395. After all Birds have been investigated and laid aside — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1413_sweet_skepticism_of_the_heart|1413. Sweet Skepticism of the Heart — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1424_the_gentian_has_a_parched_corolla|1424. The Gentian has a parched Corolla — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#1446_his_mind_like_fabrics_of_the_east|1446. His Mind like Fabrics of the East (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#1453_a_counterfeit_a_plated_person|1453. A Counterfeit — a Plated Person — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0281_tis_so_appalling_it_exhilarates|281. 'Tis so appalling — it exhilarates — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0400_a_tongue_to_tell_him_i_am_true|400. A Tongue — to tell Him I am true! (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0449_i_died_for_beauty_but_was_scarce|449. I died for Beauty — but was scarce (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0516_beauty_be_not_caused_it_is|516. Beauty — be not caused — It Is — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0568_we_learned_the_whole_of_love|568. We learned the Whole of Love — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0753_my_soul_accused_me_and_i_quailed|753. My Soul — accused me — And I quailed — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0771_none_can_experience_sting|771. None can experience sting (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0780_the_truth_is_stirless|780. The Truth — is stirless — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0789_on_a_columnar_self|789. On a Columnar Self — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0097_the_rainbow_never_tells_me|97. The rainbow never tells me (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0998_best_things_dwell_out_of_sight|998. Best Things dwell out of Sight (Dickinson)]]
 - [[works/ode-on-a-grecian-urn-(keats)|ODE ON A GRECIAN URN (Keats)]]
 - [[works/a-dream-(poe)|A Dream (Poe)]]
 - [[works/a-valentine-(poe)|A Valentine (Poe)]]
 - [[works/al-aaraaf-(poe)|Al Aaraaf (Poe)]]
 - [[works/maelzel's-chess-player-(poe)|Maelzel's Chess-Player (Poe)]]
 - [[works/the-gold-bug-(poe)|The Gold-Bug (Poe)]]
-- Sonnet 110 (Shakespeare)
-- Sonnet 123 (Shakespeare)
-- Sonnet 125 (Shakespeare)
-- Sonnet 138 (Shakespeare)
-- Sonnet 14 (Shakespeare)
-- Sonnet 148 (Shakespeare)
-- Sonnet 152 (Shakespeare)
-- Sonnet 21 (Shakespeare)
-- Sonnet 37 (Shakespeare)
-- Sonnet 53 (Shakespeare)
-- Sonnet 72 (Shakespeare)
-- Sonnet 82 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_110|Sonnet 110 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_123|Sonnet 123 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_125|Sonnet 125 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_138|Sonnet 138 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_014|Sonnet 14 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_148|Sonnet 148 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_152|Sonnet 152 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_021|Sonnet 21 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_037|Sonnet 37 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_053|Sonnet 53 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_072|Sonnet 72 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_082|Sonnet 82 (Shakespeare)]]
 - [[works/all-is-truth-(whitman)|All Is Truth (Whitman)]]
 - [[works/tests-(whitman)|Tests (Whitman)]]
 - [[works/the-critic-as-artist-(wilde)|The Critic as Artist (Wilde)]]

@@ -175,7 +175,7 @@ Le domande che contenevano erano estremamente semplici.
 
 Il pollo di Vaucanson era ancora più straordinario. Era… di quel tipo.
 
-Dimensioni perfette, un'[[Imitation|imitazione]] così fedele dell’animale vivente.
+Dimensioni perfette, un'imitazione così fedele dell’animale vivente.
 
 “Che tutti gli spettatori fossero stati ingannati… Fu eseguito, si dice.”
 
@@ -854,7 +854,7 @@ Questo [[forms/essay|Saggio]] si ritiene sia l’originale del _manifesto_.
 
 A cui Sir David Brewster fa riferimento nelle sue lettere sulla Natura
 
-[[Magic|Magia]], e di cui non esita affatto a dichiarare che sia una pratica completa e.
+Magia, e di cui non esita affatto a dichiarare che sia una pratica completa e.
 
 Spiegazione soddisfacente. I risultati dell’analisi…
 
@@ -923,7 +923,7 @@ Effettivamente così funziona… Potrebbero esistere infinite altre metodologie.
 
 Con questo metodo è possibile ottenere gli stessi risultati. La probabilità di…
 
-Si presume che dimostrare quale sia la risposta corretta equivalga, in qualche modo, all’idea di un’[[unity|unità]] che si estende all’infinito.
+Si presume che dimostrare quale sia la risposta corretta equivalga, in qualche modo, all’idea di un’unità che si estende all’infinito.
 
 Ma, in realtà, questo particolare aspetto… il cambiamento nel…
 
@@ -1790,7 +1790,7 @@ Spesso visibile poco prima e poco dopo…
 
 MOSTRA. Inoltre, alcuni anni fa Maelzel visitò Richmond.
 
-Con i suoi automi, e crediamo che li abbia esposti nella [[house|casa]].
+Con i suoi automi, e crediamo che li abbia esposti nella casa.
 
 Ora occupato dal signor Bossieux come Accademia di Danza. _Schlumberg_ER
 
@@ -2060,7 +2060,7 @@ the questions which they contained, were extremely simple.”
 
 The duck of Vaucanson was still more remarkable. It was _of _the
 
-size of life, and so perfect an [[Imitation|imitation]] of the living animal
+size of life, and so perfect an imitation of the living animal
 
 that all the spectators were deceived. It executed, says
 
@@ -2245,7 +2245,7 @@ Le domande che contenevano erano estremamente semplici.
 
 Il pollo di Vaucanson era ancora più straordinario. Era… di quel tipo.
 
-Dimensioni perfette, un'[[Imitation|imitazione]] così fedele dell’animale vivente.
+Dimensioni perfette, un'imitazione così fedele dell’animale vivente.
 
 “Che tutti gli spettatori fossero stati ingannati… Fu eseguito, si dice.”
 
@@ -3151,7 +3151,7 @@ his head with an air of triumph, looks round complacently upon
 
 the spectators, and drawing his left arm farther back than usual,
 
-suffers his fingers [[Alone|alone]] to rest upon the cushion. In general,
+suffers his fingers alone to rest upon the cushion. In general,
 
 the Turk is victorious—once or twice he has been beaten. The game
 
@@ -3545,7 +3545,7 @@ actually so effected. There may be an infinity of other methods
 
 by which the same results may be obtained. The probability of the
 
-one assumed proving the correct one is then as [[unity]] to infinity.
+one assumed proving the correct one is then as unity to infinity.
 
 But, in reality, this particular point, the shifting of the
 
@@ -3658,7 +3658,7 @@ Questo [[forms/essay|Saggio]] si ritiene sia l’originale del _manifesto_.
 
 A cui Sir David Brewster fa riferimento nelle sue lettere sulla Natura
 
-[[Magic|Magia]], e di cui non esita affatto a dichiarare che sia una pratica completa e.
+Magia, e di cui non esita affatto a dichiarare che sia una pratica completa e.
 
 Spiegazione soddisfacente. I risultati dell’analisi…
 
@@ -3727,7 +3727,7 @@ Effettivamente così funziona… Potrebbero esistere infinite altre metodologie.
 
 Con questo metodo è possibile ottenere gli stessi risultati. La probabilità di…
 
-Si presume che dimostrare quale sia la risposta corretta equivalga, in qualche modo, all’idea di un’[[unity|unità]] che si estende all’infinito.
+Si presume che dimostrare quale sia la risposta corretta equivalga, in qualche modo, all’idea di un’unità che si estende all’infinito.
 
 Ma, in realtà, questo particolare aspetto… il cambiamento nel…
 
@@ -4927,7 +4927,7 @@ feet six inches high. These dimensions are fully sufficient for
 
 the accommodation of a man very much above the common size—and
 
-the main compartment [[Alone|alone]] is capable of holding any ordinary man
+the main compartment alone is capable of holding any ordinary man
 
 in the position we have mentioned as assumed by the person
 
@@ -5351,7 +5351,7 @@ although frequently visible just before and just after the
 
 exhibition. Moreover, some years ago Maelzel visited Richmond
 
-with his automata, and exhibited them, we believe, in the [[house]]
+with his automata, and exhibited them, we believe, in the house
 
 now occupied by M. Bossieux as a Dancing Academy. _Schlumberg_er
 
@@ -5580,7 +5580,7 @@ Spesso visibile poco prima e poco dopo…
 
 MOSTRA. Inoltre, alcuni anni fa Maelzel visitò Richmond.
 
-Con i suoi automi, e crediamo che li abbia esposti nella [[house|casa]].
+Con i suoi automi, e crediamo che li abbia esposti nella casa.
 
 Ora occupato dal signor Bossieux come Accademia di Danza. _Schlumberg_ER
 

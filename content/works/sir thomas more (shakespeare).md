@@ -71,13 +71,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/contemptus-mundi|Contemptus Mundi]], [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Martyr Saint, King, Rebel
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/king|King]], [[archetypes/rebel|Rebel]]
 **Motifs:** [[motifs/cross|Cross]], [[motifs/city|City]], [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/conscience|Conscience]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/class-conflict|Class Conflict]], [[concepts/exile|Exile]], [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/mortality|Mortality]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/history-play|History Play]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/reformation|Reformation]], [[historical-references/medieval-england|Medieval England]]
 **Settings:** [[settings/london|London]], [[settings/court|Court]]
-**Characters:** Sir Thomas More, Earl of Surrey, Lord Mayor, Lincoln
+**Characters:** [[characters/sir-thomas-more|Sir Thomas More]], [[characters/earl-of-surrey|Earl of Surrey]], [[characters/lord-mayor|Lord Mayor]], [[characters/lincoln|Lincoln]]
 
 ## Testo integrale / Full text
 

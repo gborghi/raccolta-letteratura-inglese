@@ -33,7 +33,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/death|Death]], [[motifs/clock|Clock]]
 **Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/madness|Madness]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/good-vs-evil|Good vs Evil]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/short-story|Short Story]], [[forms/nonfiction|Nonfiction]]

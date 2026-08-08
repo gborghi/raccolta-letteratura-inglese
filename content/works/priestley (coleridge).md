@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Themes & Concepts:** [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/reform|Reform]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/exile|Exile]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 

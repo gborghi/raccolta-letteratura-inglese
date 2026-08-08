@@ -47,4 +47,4 @@ tags:
 **Motifs:** [[motifs/battlefield-(2)|Battlefield (2)]], [[motifs/ship|Ship]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/crown|Crown]], [[motifs/flag|Flag]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/crusades|Crusades]], [[historical-references/william-the-conqueror|William the Conqueror]], [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/france|France]], [[settings/europe|Europe]]
-**Characters:** [[historical-references/william-the-conqueror|William the Conqueror]], Harold
+**Characters:** [[historical-references/william-the-conqueror|William the Conqueror]], [[characters/harold|Harold]]

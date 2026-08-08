@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Trickster
+**Archetypes:** [[archetypes/trickster|Trickster]]
 **Motifs:** [[motifs/animals|Animals]], [[motifs/city|City]]
 **Themes & Concepts:** [[concepts/joy|Joy]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]

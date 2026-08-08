@@ -79,13 +79,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/war-as-glory|War as Glory]]
-**Archetypes:** Tragic Hero, Hero, Great Mother
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/hero|Hero]], [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/blood|Blood]]
 **Themes & Concepts:** [[concepts/pride|Pride]], [[concepts/honour|Honour]], [[concepts/heroism|Heroism]], [[concepts/class-conflict|Class Conflict]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/revenge|Revenge]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/exile|Exile]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/roman-history|Roman History]]
 **Settings:** [[settings/ancient-rome|Ancient Rome]], [[settings/battlefield|Battlefield]]
-**Characters:** Coriolanus, Volumnia, Menenius, Aufidius, Virgilia, Sicinius, Brutus the Tribune, Cominius
+**Characters:** [[characters/coriolanus|Coriolanus]], [[characters/volumnia|Volumnia]], [[characters/menenius|Menenius]], [[characters/aufidius|Aufidius]], [[characters/virgilia|Virgilia]], [[characters/sicinius|Sicinius]], [[characters/brutus-the-tribune|Brutus the Tribune]], [[characters/cominius|Cominius]]
 
 ## Testo integrale / Full text
 

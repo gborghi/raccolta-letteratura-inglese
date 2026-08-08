@@ -22,7 +22,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 **Settings:** [[settings/battlefield|Battlefield]]

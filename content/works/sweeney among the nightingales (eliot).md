@@ -24,11 +24,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Antihero
+**Archetypes:** [[archetypes/antihero|Antihero]]
 **Motifs:** [[motifs/nightingale|Nightingale]], [[motifs/death|Death]], [[motifs/stars|Stars]], [[motifs/moon|Moon]]
 **Themes & Concepts:** [[concepts/grotesque|Grotesque]]
 **Historical References:** [[historical-references/greek-tragedy|Greek Tragedy]]
-**Characters:** Sweeney
+**Characters:** [[characters/sweeney|Sweeney]]
 
 ## Testo integrale / Full text
 

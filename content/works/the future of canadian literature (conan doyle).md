@@ -41,7 +41,7 @@ tags:
 **Historical References:** [[historical-references/george-bernard-shaw|George Bernard Shaw]], [[historical-references/george-meredith|George Meredith]], [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]]
 **Settings:** [[settings/canada|Canada]]
 **Characters:** [[historical-references/george-bernard-shaw|George Bernard Shaw]], [[historical-references/george-meredith|George Meredith]], [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]], [[historical-references/h.g.-wells|H.G. Wells]]
-**Archetypes:** The Writer
+**Archetypes:** [[archetypes/the-writer|The Writer]]
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
 
 **Also relevant to:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]

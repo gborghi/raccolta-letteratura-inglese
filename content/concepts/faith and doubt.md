@@ -61,79 +61,79 @@ tags:
 - [[works/the-eolian-harp-(coleridge)|THE EOLIAN HARP (Coleridge)]]
 - [[works/translation-of-the-first-strophe-of-pindar’s-second-olympic-(coleridge)|TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC (Coleridge)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
-- 101. Will there really be a Morning (Dickinson)
-- 1012. Which is best Heaven — (Dickinson)
-- 103. I have a King, who does not speak — (Dickinson)
-- 1052. I never saw a Moor — (Dickinson)
-- 1076. Just Once! Oh least Request! (Dickinson)
-- 1100. The last Night that She lived (Dickinson)
-- 116. I had some things that I called mine — (Dickinson)
-- 1197. I should not dare to be so sad (Dickinson)
-- 1201. So I pull my Stockings off (Dickinson)
-- 121. As Watchers hang upon the East, (Dickinson)
-- 1221. Some we see no more, Tenements of Wonder (Dickinson)
-- 1228. So much of Heaven has gone from Earth (Dickinson)
-- 1258. Who were the Father and the Son (Dickinson)
-- 1260. Because that you are going (Dickinson)
-- 1262. I cannot see my soul but know 'tis there (Dickinson)
-- 127. Houses — so the Wise Men tell me — (Dickinson)
-- 1274. The Bone that has no Marrow, (Dickinson)
-- 1293. The things we thought that we should do (Dickinson)
-- 1399. Perhaps they do not go so far (Dickinson)
-- 1408. The Fact that Earth is Heaven — (Dickinson)
-- 1413. Sweet Skepticism of the Heart — (Dickinson)
-- 1417. How Human Nature dotes (Dickinson)
-- 1433. How brittle are the Piers (Dickinson)
-- 1442. To mend each tattered Faith (Dickinson)
-- 145. This heart that broke so long — (Dickinson)
-- 1480. The fascinating chill that music leaves (Dickinson)
-- 1528. The Moon upon her fluent Route (Dickinson)
-- 1545. The Bible is an antique Volume — (Dickinson)
-- 1551. Those — dying then, (Dickinson)
-- 1576. The Spirit lasts — but in what mode — (Dickinson)
-- 158. Dying! Dying in the night! (Dickinson)
-- 1598. Who is it seeks my Pillow Nights — (Dickinson)
-- 1601. Of God we ask one favor, (Dickinson)
-- 1624. Apparently with no surprise (Dickinson)
-- 1652. Advance is Life's condition (Dickinson)
-- 1732. My life closed twice before its close — (Dickinson)
-- 1751. There comes an hour when begging stops, (Dickinson)
-- 178. I cautious, scanned my little life — (Dickinson)
-- 215. What is — Paradise — (Dickinson)
-- 234. You're right — the way is narrow — (Dickinson)
-- 237. I think just how my shape will rise — (Dickinson)
-- 301. I reason, Earth is short — (Dickinson)
-- 338. I know that He exists. (Dickinson)
-- 376. Of Course — I prayed — (Dickinson)
-- 377. To lose one's faith — surpass (Dickinson)
-- 413. I never felt at Home — Below —- (Dickinson)
-- 432. Do People moulder equally, (Dickinson)
-- 437. Prayer is the little implement (Dickinson)
-- 460. I know where Wells grow — Droughtless Wells — (Dickinson)
-- 472. Except the Heaven had come so near — (Dickinson)
-- 476. I meant to have but modest needs — (Dickinson)
-- 489. We pray — to Heaven — (Dickinson)
-- 49. I never lost as much but twice, (Dickinson)
-- 497. He strained my faith — (Dickinson)
-- 501. This World is not Conclusion. (Dickinson)
-- 555. Trust in the Unexpected — (Dickinson)
-- 564. My period had come for Prayer — (Dickinson)
-- 576. I prayed, at first, a little Girl, (Dickinson)
-- 597. It always felt to me — a wrong (Dickinson)
-- 600. It troubled me as once I was — (Dickinson)
-- 62. Sown in dishonor ! (Dickinson)
-- 621. I asked no other thing — (Dickinson)
-- 622. To know just how He suffered — would be dear — (Dickinson)
-- 630. The Lightning playeth — all the while — (Dickinson)
-- 637. The Child's faith is new — (Dickinson)
-- 690. Victory comes late — (Dickinson)
-- 696. Their Height in Heaven comforts not — (Dickinson)
-- 70. Arcturus is his other name — (Dickinson)
-- 751. My Worthiness is all my Doubt — (Dickinson)
-- 79. Going to Heaven! (Dickinson)
-- 835. Nature and God — I neither knew (Dickinson)
-- 861. Split the Lark — and you'll find the Music — (Dickinson)
-- 965. Denial — is the only fact (Dickinson)
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0101_will_there_really_be_a_morning|101. Will there really be a Morning (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1012_which_is_best_heaven|1012. Which is best Heaven — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0103_i_have_a_king_who_does_not_speak|103. I have a King, who does not speak — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1052_i_never_saw_a_moor|1052. I never saw a Moor — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1076_just_once_oh_least_request|1076. Just Once! Oh least Request! (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1100_the_last_night_that_she_lived|1100. The last Night that She lived (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0116_i_had_some_things_that_i_called_mine|116. I had some things that I called mine — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1197_i_should_not_dare_to_be_so_sad|1197. I should not dare to be so sad (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#1201_so_i_pull_my_stockings_off|1201. So I pull my Stockings off (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0121_as_watchers_hang_upon_the_east|121. As Watchers hang upon the East, (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1221_some_we_see_no_more_tenements_of_wonder|1221. Some we see no more, Tenements of Wonder (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1228_so_much_of_heaven_has_gone_from_earth|1228. So much of Heaven has gone from Earth (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1258_who_were_the_father_and_the_son|1258. Who were the Father and the Son (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1260_because_that_you_are_going|1260. Because that you are going (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1262_i_cannot_see_my_soul_but_know_tis_there|1262. I cannot see my soul but know 'tis there (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0127_houses_so_the_wise_men_tell_me|127. Houses — so the Wise Men tell me — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1274_the_bone_that_has_no_marrow|1274. The Bone that has no Marrow, (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1293_the_things_we_thought_that_we_should_do|1293. The things we thought that we should do (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1399_perhaps_they_do_not_go_so_far|1399. Perhaps they do not go so far (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1408_the_fact_that_earth_is_heaven|1408. The Fact that Earth is Heaven — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1413_sweet_skepticism_of_the_heart|1413. Sweet Skepticism of the Heart — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1417_how_human_nature_dotes|1417. How Human Nature dotes (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1433_how_brittle_are_the_piers|1433. How brittle are the Piers (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1442_to_mend_each_tattered_faith|1442. To mend each tattered Faith (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0145_this_heart_that_broke_so_long|145. This heart that broke so long — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1480_the_fascinating_chill_that_music_leaves|1480. The fascinating chill that music leaves (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1528_the_moon_upon_her_fluent_route|1528. The Moon upon her fluent Route (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1545_the_bible_is_an_antique_volume|1545. The Bible is an antique Volume — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1551_those_dying_then|1551. Those — dying then, (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1576_the_spirit_lasts_but_in_what_mode|1576. The Spirit lasts — but in what mode — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0158_dying_dying_in_the_night|158. Dying! Dying in the night! (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1598_who_is_it_seeks_my_pillow_nights|1598. Who is it seeks my Pillow Nights — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1601_of_god_we_ask_one_favor|1601. Of God we ask one favor, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1624_apparently_with_no_surprise|1624. Apparently with no surprise (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1652_advance_is_lifes_condition|1652. Advance is Life's condition (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1732_my_life_closed_twice_before_its_close|1732. My life closed twice before its close — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1751_there_comes_an_hour_when_begging_stops|1751. There comes an hour when begging stops, (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0178_i_cautious_scanned_my_little_life|178. I cautious, scanned my little life — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0215_what_is_paradise|215. What is — Paradise — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0234_youre_right_the_way_is_narrow|234. You're right — the way is narrow — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0237_i_think_just_how_my_shape_will_rise|237. I think just how my shape will rise — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0301_i_reason_earth_is_short|301. I reason, Earth is short — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0338_i_know_that_he_exists|338. I know that He exists. (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0376_of_course_i_prayed|376. Of Course — I prayed — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0377_to_lose_ones_faith_surpass|377. To lose one's faith — surpass (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0413_i_never_felt_at_home_below_-|413. I never felt at Home — Below —- (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0432_do_people_moulder_equally|432. Do People moulder equally, (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0437_prayer_is_the_little_implement|437. Prayer is the little implement (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0460_i_know_where_wells_grow_droughtless_wells|460. I know where Wells grow — Droughtless Wells — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0472_except_the_heaven_had_come_so_near|472. Except the Heaven had come so near — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0476_i_meant_to_have_but_modest_needs|476. I meant to have but modest needs — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0489_we_pray_to_heaven|489. We pray — to Heaven — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0049_i_never_lost_as_much_but_twice|49. I never lost as much but twice, (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0497_he_strained_my_faith|497. He strained my faith — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0501_this_world_is_not_conclusion|501. This World is not Conclusion. (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0555_trust_in_the_unexpected|555. Trust in the Unexpected — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0564_my_period_had_come_for_prayer|564. My period had come for Prayer — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0576_i_prayed_at_first_a_little_girl|576. I prayed, at first, a little Girl, (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0597_it_always_felt_to_me_a_wrong|597. It always felt to me — a wrong (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0600_it_troubled_me_as_once_i_was|600. It troubled me as once I was — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0062_sown_in_dishonor|62. Sown in dishonor ! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0621_i_asked_no_other_thing|621. I asked no other thing — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0622_to_know_just_how_he_suffered_would_be_dear|622. To know just how He suffered — would be dear — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0630_the_lightning_playeth_all_the_while|630. The Lightning playeth — all the while — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0637_the_childs_faith_is_new|637. The Child's faith is new — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0690_victory_comes_late|690. Victory comes late — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0696_their_height_in_heaven_comforts_not|696. Their Height in Heaven comforts not — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0070_arcturus_is_his_other_name|70. Arcturus is his other name — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0751_my_worthiness_is_all_my_doubt|751. My Worthiness is all my Doubt — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0079_going_to_heaven|79. Going to Heaven! (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0835_nature_and_god_i_neither_knew|835. Nature and God — I neither knew (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0861_split_the_lark_and_youll_find_the_music|861. Split the Lark — and you'll find the Music — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0965_denial_is_the_only_fact|965. Denial — is the only fact (Dickinson)]]
 - [[works/choruses-from-‘the-rock’-1934-(eliot)|CHORUSES FROM ‘THE ROCK’ 1934 (Eliot)]]
 - [[works/cousin-nancy-(eliot)|Cousin Nancy (Eliot)]]
 - [[works/gerontion-(eliot)|Gerontion (Eliot)]]

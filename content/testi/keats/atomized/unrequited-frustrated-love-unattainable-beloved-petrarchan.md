@@ -44,7 +44,7 @@ And often, when I sit me down to rhyme,
   But no confusion, no disturbance rude  
 Do they occasion; ’tis a pleasing chime.  
 So the unnumber’d sounds that evening store;  
-  The [[songs]] of [[motifs/birds|birds]] — the whisp’ring of the [[motifs/leaves|leaves]] —  
+  The songs of [[motifs/birds|birds]] — the whisp’ring of the [[motifs/leaves|leaves]] —  
 The voice of waters — the great bell that heaves  
   With solemn sound, — and thousand others more,  
 That distance of recognizance bereaves,  
@@ -90,7 +90,7 @@ The while let music wander round my ears.
     Let me write down a line of glorious tone,  
 And full of many wonders of the spheres:  
   For what a height my spirit is contending!  
-    ’Tis not content so soon to be [[Alone|alone]].  
+    ’Tis not content so soon to be alone.  
 
 
 
@@ -192,14 +192,14 @@ Before my pen has glean’d my teeming brain,
 Before high-piled books, in charactery,’  
 Hold like rich gamers the full ripen’d grain;  
 When I behold, upon the [[motifs/night|night]]’s starr’d face,  
-Huge cloudy symbols of a high [[Romance|romance]],  
+Huge cloudy symbols of a high romance,  
 And think that I may never live to trace  
-Their shadows, with the [[Magic|magic]] hand of chance;  
+Their shadows, with the magic hand of chance;  
 And when I feel, fair creature of an hour,  
 That I shall never look upon thee more,  10  
 Never have relish in the faery power  
 Of unreflecting [[motifs/love|love]]; - then on the shore  
-Of the wide world I stand [[Alone|alone]], and think  
+Of the wide world I stand alone, and think  
 Till [[motifs/love|love]] and fame to nothingness do sink.  
 
 
@@ -319,7 +319,7 @@ And kiss on a grass green pillow.
 
 The town, the churchyard, and the setting sun,  
 The clouds, the trees, the rounded hills all seem,  
-Though beautiful, cold - strange - as in [[A Dream|a dream]],  
+Though beautiful, cold - strange - as in a dream,  
 I dreamed long ago, now new begun.  
 The short-liv’d, paly [[motifs/summer|summer]] is but won  
 From [[motifs/winter|winter]]’s ague, for one hour’s gleam;  
@@ -340,7 +340,7 @@ Thy face; I sin against thy native skies.
 
 This mortal [[concepts/body|body]] of a thousand days  
 Now fills, O Burns, a space in thine own room,  
-Where thou didst dream [[Alone|alone]] on budded bays,  
+Where thou didst dream alone on budded bays,  
 Happy and thoughtless of thy day of doom!  
 My pulse is warm with thine own barley-bree,  
 My head is light with pledging a great [[motifs/soul|soul]],  
@@ -436,7 +436,7 @@ To one who loves you as I [[motifs/love|love]], sweet Fanny!
 Whose heart goes fluttering for you everywhere,  
 Nor, when away you roam,  
 Dare keep its wretched [[motifs/home|home]],  
-[[motifs/love|Love]], [[motifs/love|love]] [[Alone|alone]], his pains severe and many:  
+[[motifs/love|Love]], [[motifs/love|love]] alone, his pains severe and many:  
 Then, loveliest! keep me free,  
 From torturing [[concepts/jealousy|jealousy]].  
 
@@ -458,7 +458,7 @@ If not - may my eyes close,
 
 I  
 Hush, hush! tread softly! hush, hush my dear!  
-All the [[house]] is asleep, but we know very [[motifs/well|well]]  
+All the house is asleep, but we know very [[motifs/well|well]]  
 That the jealous, the jealous old bald-pate may hear,  
 Tho’ you’ve padded his nightcap - O sweet Isabel!  
 Tho’ your feet are more light than a Fairy’s feet,  
@@ -502,7 +502,7 @@ Not to pure Ida’ with its [[motifs/snow|snow]]-cold skies,
 Nor unto Tempe where Jove griev’d a day;  
 But to that second circle of sad hell,  
 Where ‘mid the gust, the whirlwind, and the flaw 10  
-Of rain and hailstones, [[lovers]] need not tell  
+Of rain and hailstones, lovers need not tell  
 Their sorrows. Pale were the sweet lips I saw,  
 Pale were the lips I kiss’d, and fair the form  
 I floated with, about that [[concepts/melancholy|melancholy]] [[motifs/storm|storm]].  
@@ -612,7 +612,7 @@ O [[motifs/love|love]] me truly!
 V  
 O breathe a word or two of [[motifs/fire|fire]]!  
 Smile, as if those words should burn me,  
-Squeeze as [[lovers]] should - O kiss  
+Squeeze as lovers should - O kiss  
 And in thy heart inurn me!  
 O [[motifs/love|love]] me truly!  
 

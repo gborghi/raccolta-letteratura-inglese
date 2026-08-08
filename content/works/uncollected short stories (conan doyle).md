@@ -42,4 +42,4 @@ tags:
 **Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/wit|Wit]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/secrets|Secrets]], [[motifs/money-and-gold|Money and Gold]], [[motifs/supernatural|Supernatural]]
 **Settings:** [[settings/london|London]]
-**Archetypes:** Trickster, Fool
+**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/fool|Fool]]

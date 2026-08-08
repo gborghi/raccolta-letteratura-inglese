@@ -64,9 +64,9 @@ tags:
 ## Connections
 
 **Forms & Genres:** [[forms/nonfiction|Nonfiction]]
-**Archetypes:** Artist, Christ Figure
+**Archetypes:** [[archetypes/artist|Artist]], [[archetypes/christ-figure|Christ Figure]]
 **Motifs:** [[motifs/light-and-dark|Light and Dark]], [[motifs/the-book|The Book]], [[motifs/fire|Fire]], [[motifs/cross|Cross]]
-**Themes & Concepts:** The Trinity, [[concepts/creativity|Creativity]], [[concepts/imagination|Imagination]], [[concepts/faith|Faith]], [[concepts/artist-and-society|Artist and Society]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/incarnation|Incarnation]], [[concepts/paradox|Paradox]], [[concepts/original-sin|Original Sin]], [[concepts/truth|Truth]], [[concepts/providence|Providence]], [[concepts/creativity-and-artistic-labor|Creativity and Artistic Labor]], [[concepts/love-divine|Love Divine]], [[concepts/history|History]]
+**Themes & Concepts:** [[characters/the-trinity|The Trinity]], [[concepts/creativity|Creativity]], [[concepts/imagination|Imagination]], [[concepts/faith|Faith]], [[concepts/artist-and-society|Artist and Society]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/incarnation|Incarnation]], [[concepts/paradox|Paradox]], [[concepts/original-sin|Original Sin]], [[concepts/truth|Truth]], [[concepts/providence|Providence]], [[concepts/creativity-and-artistic-labor|Creativity and Artistic Labor]], [[concepts/love-divine|Love Divine]], [[concepts/history|History]]
 **Forms:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/literary-criticism|Literary Criticism]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/dante|Dante]], [[historical-references/classical-antiquity|Classical Antiquity]]
-**Characters:** The Trinity, God The Father, God The Son, God The Holy Ghost, The Writer, Artist, Augustine, Aquinas, [[historical-references/dante|Dante]]
+**Characters:** [[characters/the-trinity|The Trinity]], [[characters/god-the-father|God The Father]], [[characters/god-the-son|God The Son]], [[characters/god-the-holy-ghost|God The Holy Ghost]], [[archetypes/the-writer|The Writer]], [[archetypes/artist|Artist]], [[characters/augustine|Augustine]], [[characters/aquinas|Aquinas]], [[historical-references/dante|Dante]]

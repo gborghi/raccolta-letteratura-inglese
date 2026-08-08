@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/childhood|Childhood]], [[concepts/nature|Nature]], [[motifs/flowers|Flowers]]
 **Themes & Concepts:** [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/identity|Identity]], [[concepts/self-knowledge|Self-Knowledge]]
 

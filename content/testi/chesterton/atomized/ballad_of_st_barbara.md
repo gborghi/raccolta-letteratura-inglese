@@ -38,8 +38,8 @@ che conducono infine a una porta bassa; e oltre quella non v'è porta.»
 
 E il Bretone parlò al Normanno, come un piccolo [[archetypes/child|fanciullo]] parlò,  
 e i suoi occhi azzurri come il mare erano vuoti come la sua [[motifs/home|casa]] presso il mare:  
-«Vi sono più finestre in una sola [[house|casa]] di quanti siano gli occhi per vedere,  
-vi sono più porte nella [[house|casa]] d'un uomo, ma Dio ne ha nascosto la chiave:  
+«Vi sono più finestre in una sola casa di quanti siano gli occhi per vedere,  
+vi sono più porte nella casa d'un uomo, ma Dio ne ha nascosto la chiave:  
 la Rovina è costruttrice di finestre; la sua leggenda ne fa fede,  
 Barbara, la santa degli artiglieri, e sostegno nella [[motifs/death|morte]] improvvisa.»  
 
@@ -133,7 +133,7 @@ un'imposta e un abisso e un tuono di porte disserrate,
 la forte ala d'un serafino scrollò via l'urto del suo spalancarsi,  
 che scisse la luce del sole in frantumi da una luce oltre il sole.  
 
-«Allora egli sguainò la [[Sword|spada]] e la sospinse  
+«Allora egli sguainò la spada e la sospinse  
 là dove sedevano i giudici, e disse,  
 “Cesare siede al di sopra degli dèi,  
 Barbara fanciulla.  
@@ -178,7 +178,7 @@ il [[archetypes/child|fanciullo]] ride della verga,
 grazie all'uccello dalle tre ali,  
 e al terzo volto di Dio.”  
 
-La [[Sword|spada]] sulla sua spalla  
+La spada sulla sua spalla  
 si mosse e brillò e cadde,  
 e Barbara giacque piccolissima  
 e accartocciata come una conchiglia.»  
@@ -198,12 +198,12 @@ che falciava la carne come erba,
 sorrise anch'egli, e andò alla propria torre  
 come una torre di bronzo che cammina,  
 
-e i [[songs|canti]] cessarono e gli schiavi furono muti;  
+e i canti cessarono e gli schiavi furono muti;  
 e lontano verso la spuma  
 gli uomini videro un'[[archetypes/shadow|ombra]] sulle sabbie;  
 e suo padre che tornava a [[motifs/home|casa]]...  
 
-[[motifs/blood|Sangue]] del suo [[motifs/blood|sangue]] sulla [[Sword|spada]]  
+[[motifs/blood|Sangue]] del suo [[motifs/blood|sangue]] sulla spada  
 stava rosso ma non mai asciutto.  
 Lo terse lentamente, finché la lama  
 fu azzurra come l'azzurro cielo.  
@@ -244,7 +244,7 @@ quando la caccia è aperta e corre su ruscello e palude e laghetto
 e le loro batterie, nere di battaglia, tengono le teste di ponte della Marna,  
 e attraverso la carneficina della Guardia, presso [[settings/paris|Parigi]] nella pianura,  
 i Normanni gridarono ai Bretoni e i Bretoni esultarono di nuovo...  
-Ma colui che narrò il racconto tornò a [[motifs/home|casa]], alla sua [[house|dimora]] presso il mare  
+Ma colui che narrò il racconto tornò a [[motifs/home|casa]], alla sua dimora presso il mare  
 e arse dinanzi a Santa Barbara la luce delle tre finestre,  
 tre candele per una cosa ignota, che mai più tornerà,  
 che si aprì come l'occhio di Dio su [[settings/paris|Parigi]] nella pianura.  
@@ -277,8 +277,8 @@ That lead to a low door at last; and beyond that is no door."
 
 And the Breton to the Norman spoke, like a small [[archetypes/child|child]] spoke he,  
 And his sea-blue eyes were empty as his [[motifs/home|home]] beside the sea:  
-"There are more windows in one [[house]] than there are eyes to see,  
-There are more doors in a man's [[house]], but God has hid the key:  
+"There are more windows in one house than there are eyes to see,  
+There are more doors in a man's house, but God has hid the key:  
 Ruin is a builder of windows; her legend witnesseth  
 Barbara, the saint of gunners, and a stay in sudden [[motifs/death|death]]."  
 
@@ -372,7 +372,7 @@ A casement and a chasm and a thunder of doors undone,
 A seraph's strong wing shaken out the shock of its unshuttering,  
 That split the shattered sunlight from a light beyond the sun.  
 
-"Then he drew [[Sword|sword]] and drave her  
+"Then he drew sword and drave her  
 Where the judges sat and said,  
 "Caesar sits above the gods,  
 Barbara the maid.  
@@ -417,7 +417,7 @@ The [[archetypes/child|child]] laughs at the rod,
 Because of the bird of the three wings,  
 And the third face of God."  
 
-The [[Sword|sword]] upon his shoulder  
+The sword upon his shoulder  
 Shifted and shone and fell,  
 And Barbara lay very small  
 And crumpled like a shell."  
@@ -437,12 +437,12 @@ That cut down flesh for grass,
 Smiled too, and went to his own tower  
 Like a walking tower of brass,  
 
-And the [[songs]] ceased and the slaves were dumb;  
+And the songs ceased and the slaves were dumb;  
 And far towards the foam  
 Men saw a [[archetypes/shadow|shadow]] on the sands;  
 And her father coming [[motifs/home|home]]...  
 
-[[motifs/blood|Blood]] of his [[motifs/blood|blood]] upon the [[Sword|sword]]  
+[[motifs/blood|Blood]] of his [[motifs/blood|blood]] upon the sword  
 Stood red but never dry.  
 He wiped it slowly, till the blade  
 Was blue as the blue sky.  
@@ -483,7 +483,7 @@ When the hunt is up and racing over stream and swamp and tarn
 And their batteries, black with battle, hold the bridgeheads of the Marne,  
 And across the carnage of the Guard, by [[settings/paris|Paris]] in the plain,  
 The Normans to the Bretons cried and the Bretons cheered again...  
-But he that told the tale went [[motifs/home|home]] to his [[house]] beside the sea  
+But he that told the tale went [[motifs/home|home]] to his house beside the sea  
 And burned before St Barbara, the light of the windows three,  
 Three candles for an unknown thing, never to come again,  
 That opened like the eye of God on [[settings/paris|Paris]] in the plain.  
@@ -514,8 +514,8 @@ che conducono infine a una porta bassa; e oltre quella non v'è porta.»
 
 E il Bretone parlò al Normanno, come un piccolo [[archetypes/child|fanciullo]] parlò,  
 e i suoi occhi azzurri come il mare erano vuoti come la sua [[motifs/home|casa]] presso il mare:  
-«Vi sono più finestre in una sola [[house|casa]] di quanti siano gli occhi per vedere,  
-vi sono più porte nella [[house|casa]] d'un uomo, ma Dio ne ha nascosto la chiave:  
+«Vi sono più finestre in una sola casa di quanti siano gli occhi per vedere,  
+vi sono più porte nella casa d'un uomo, ma Dio ne ha nascosto la chiave:  
 la Rovina è costruttrice di finestre; la sua leggenda ne fa fede,  
 Barbara, la santa degli artiglieri, e sostegno nella [[motifs/death|morte]] improvvisa.»  
 
@@ -609,7 +609,7 @@ un'imposta e un abisso e un tuono di porte disserrate,
 la forte ala d'un serafino scrollò via l'urto del suo spalancarsi,  
 che scisse la luce del sole in frantumi da una luce oltre il sole.  
 
-«Allora egli sguainò la [[Sword|spada]] e la sospinse  
+«Allora egli sguainò la spada e la sospinse  
 là dove sedevano i giudici, e disse,  
 “Cesare siede al di sopra degli dèi,  
 Barbara fanciulla.  
@@ -654,7 +654,7 @@ il [[archetypes/child|fanciullo]] ride della verga,
 grazie all'uccello dalle tre ali,  
 e al terzo volto di Dio.”  
 
-La [[Sword|spada]] sulla sua spalla  
+La spada sulla sua spalla  
 si mosse e brillò e cadde,  
 e Barbara giacque piccolissima  
 e accartocciata come una conchiglia.»  
@@ -674,12 +674,12 @@ che falciava la carne come erba,
 sorrise anch'egli, e andò alla propria torre  
 come una torre di bronzo che cammina,  
 
-e i [[songs|canti]] cessarono e gli schiavi furono muti;  
+e i canti cessarono e gli schiavi furono muti;  
 e lontano verso la spuma  
 gli uomini videro un'[[archetypes/shadow|ombra]] sulle sabbie;  
 e suo padre che tornava a [[motifs/home|casa]]...  
 
-[[motifs/blood|Sangue]] del suo [[motifs/blood|sangue]] sulla [[Sword|spada]]  
+[[motifs/blood|Sangue]] del suo [[motifs/blood|sangue]] sulla spada  
 stava rosso ma non mai asciutto.  
 Lo terse lentamente, finché la lama  
 fu azzurra come l'azzurro cielo.  
@@ -720,7 +720,7 @@ quando la caccia è aperta e corre su ruscello e palude e laghetto
 e le loro batterie, nere di battaglia, tengono le teste di ponte della Marna,  
 e attraverso la carneficina della Guardia, presso [[settings/paris|Parigi]] nella pianura,  
 i Normanni gridarono ai Bretoni e i Bretoni esultarono di nuovo...  
-Ma colui che narrò il racconto tornò a [[motifs/home|casa]], alla sua [[house|dimora]] presso il mare  
+Ma colui che narrò il racconto tornò a [[motifs/home|casa]], alla sua dimora presso il mare  
 e arse dinanzi a Santa Barbara la luce delle tre finestre,  
 tre candele per una cosa ignota, che mai più tornerà,  
 che si aprì come l'occhio di Dio su [[settings/paris|Parigi]] nella pianura.  

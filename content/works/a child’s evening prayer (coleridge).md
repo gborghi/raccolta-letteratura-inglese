@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/prayer|Prayer]], [[motifs/childhood|Childhood]], [[motifs/sleep|Sleep]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/maturation-and-growth|Maturation and Growth]]
 **Forms & Genres:** [[forms/hymn|Hymn]]

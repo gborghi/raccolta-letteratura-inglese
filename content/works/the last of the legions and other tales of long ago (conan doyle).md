@@ -45,5 +45,5 @@ tags:
 **Motifs:** [[motifs/ship|Ship]], [[motifs/sea|Sea]], [[motifs/fire|Fire]], [[motifs/blood|Blood]], [[motifs/time|Time]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/roman-history|Roman History]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/ancient-rome|Ancient Rome]]
-**Archetypes:** Hero, Tyrant, Outsider, Martyr Saint
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/tyrant|Tyrant]], [[archetypes/outsider|Outsider]], [[archetypes/martyr-saint|Martyr Saint]]
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]]

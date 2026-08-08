@@ -35,7 +35,7 @@ tags:
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/providence|Providence]], [[concepts/one-life-(pantheism)|One Life (Pantheism)]], [[concepts/apocalypse-and-millennium|Apocalypse and Millennium]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/social-injustice|Social Injustice]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/sin-and-the-fall|Sin and the Fall]]
 **Forms & Genres:** [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/bible|Bible]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

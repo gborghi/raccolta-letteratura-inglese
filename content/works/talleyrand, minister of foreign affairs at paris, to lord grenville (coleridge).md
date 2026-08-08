@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Corrupt Official
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/deception|Deception]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/verse-epistle|Verse Epistle]], [[forms/heroic-couplet|Heroic Couplet]]
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/french-revolution|French Revolution]]

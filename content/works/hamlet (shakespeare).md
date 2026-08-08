@@ -75,12 +75,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Avenger, Ghost, Usurper
+**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/ghost|Ghost]], [[archetypes/usurper|Usurper]]
 **Motifs:** [[motifs/death|Death]], [[motifs/ghosts|Ghosts]], [[motifs/grave|Grave]], [[motifs/poison|Poison]], [[motifs/feigned-madness|Feigned Madness]]
 **Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/mortality|Mortality]], [[concepts/madness|Madness]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/conscience|Conscience]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Settings:** [[settings/denmark|Denmark]], [[settings/court|Court]]
-**Characters:** Hamlet, Claudius, Gertrude, Ophelia, Polonius, Laertes, Horatio, Ghost (2), Rosencrantz, Guildenstern
+**Characters:** [[characters/hamlet|Hamlet]], [[characters/claudius|Claudius]], [[characters/gertrude|Gertrude]], [[characters/ophelia|Ophelia]], [[characters/polonius|Polonius]], [[characters/laertes|Laertes]], [[characters/horatio|Horatio]], [[characters/ghost-(2)|Ghost (2)]], [[characters/rosencrantz|Rosencrantz]], [[characters/guildenstern|Guildenstern]]
 
 ## Testo integrale / Full text
 

@@ -48,7 +48,7 @@ tags:
   - character/mr_sapsea
 ---
 
-*by Dickens*  ·  **Cluster:** Damsel
+*by Dickens*  ·  **Cluster:** [[archetypes/damsel|Damsel]]
 
 > [!abstract] 
 > Dickens's unfinished detective/mystery novel set in the cathedral town of Cloisterham: John Jasper, an opium-addicted choirmaster, is secretly obsessed with Rosa Bud and implicated in the disappearance of his nephew Edwin Drood, framing a double-life study of guilt, the divided self, and respectable hypocrisy amid imagery of decay, crypts, opium dens, and the gritty city.
@@ -63,13 +63,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/double|Double]], [[topoi/memento-mori|Memento Mori]], [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** Double Doppelganger, Villain, Detective, Damsel
+**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/villain|Villain]], [[archetypes/detective|Detective]], [[archetypes/damsel|Damsel]]
 **Motifs:** [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/decay|Decay]], [[motifs/music-and-song|Music and Song]], [[motifs/bells|Bells]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/dreams|Dreams]], [[motifs/city|City]]
 **Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/identity|Identity]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/jealousy|Jealousy]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/deception|Deception]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/detective-fiction|Detective Fiction]], [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Characters:** Edwin Drood, John Jasper, Rosa Bud, Neville Landless, Helena Landless, Mr Crisparkle, Durdles, Mr Grewgious, Mr Sapsea
+**Characters:** [[characters/edwin-drood|Edwin Drood]], [[characters/john-jasper|John Jasper]], [[characters/rosa-bud|Rosa Bud]], [[characters/neville-landless|Neville Landless]], [[characters/helena-landless|Helena Landless]], [[characters/mr-crisparkle|Mr Crisparkle]], [[characters/durdles|Durdles]], [[characters/mr-grewgious|Mr Grewgious]], [[characters/mr-sapsea|Mr Sapsea]]
 
 ## Testo integrale / Full text
 

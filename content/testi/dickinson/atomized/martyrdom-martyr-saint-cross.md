@@ -150,7 +150,7 @@ Remembered, as the Mile
 
 Our panting Ankle barely passed —  
 When [[motifs/night|Night]] devoured the [[motifs/road|Road]] —  
-But we — stood whispering in the [[house|House]] —  
+But we — stood whispering in the House —  
 And all we said — was "Saved"!
 
 
@@ -422,7 +422,7 @@ Wades — so — thro' polar Air!
 
 
 "Unto Me?" I do not know you —  
-Where may be your [[house|House]]?  
+Where may be your House?  
 
 "I am Jesus — Late of Judea —  
 Now — of Paradise" —  
@@ -436,7 +436,7 @@ Trust Omnipotence" —
 I am spotted — "I am Pardon" —  
 I am small — "The Least  
 Is esteemed in Heaven the Chiefest —  
-Occupy my [[house|House]]" —
+Occupy my House" —
 
 
 

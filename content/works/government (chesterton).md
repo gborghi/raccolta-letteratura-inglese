@@ -39,7 +39,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Common Man (2)
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/identity|Identity]], [[concepts/distributism|Distributism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/individualism|Individualism]], [[concepts/reform|Reform]], [[concepts/economics|Economics]]

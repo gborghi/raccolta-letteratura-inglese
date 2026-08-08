@@ -32,12 +32,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Wise Old Man Sage
+**Archetypes:** [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 **Motifs:** [[motifs/death|Death]], [[motifs/dust|Dust]], [[motifs/wind|Wind]], [[motifs/winter|Winter]], [[motifs/swords-and-weapons|Swords and Weapons]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/mortality|Mortality]], [[concepts/martyrdom|Martyrdom]]
 **Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** Christ, Virgin Mary
+**Characters:** [[characters/christ|Christ]], [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

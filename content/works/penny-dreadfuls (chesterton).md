@@ -56,7 +56,7 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** Robin Hood, Dick Deadshot
+**Characters:** [[characters/robin-hood|Robin Hood]], [[characters/dick-deadshot|Dick Deadshot]]
 
 **Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/heroism|Heroism]], [[concepts/imagination|Imagination]], [[concepts/satire-of-society|Satire of Society]], [[concepts/artist-and-society|Artist and Society]], [[concepts/class-conflict|Class Conflict]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/truth|Truth]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]

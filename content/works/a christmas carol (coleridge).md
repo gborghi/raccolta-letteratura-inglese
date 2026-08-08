@@ -26,11 +26,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/divine-love|Divine Love]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/hymn|Hymn]], [[forms/comic-verse-song|Comic Verse Song]]
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
-**Characters:** Virgin Mary, Christ
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

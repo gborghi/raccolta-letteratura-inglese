@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-"Per il Bimbo [[unborn|Non Nato]]"  
+"Per il Bimbo Non Nato"  
 
 di G.K. Chesterton  
 
@@ -56,7 +56,7 @@ se solo fossi nato.
 <span class="atom-split" data-atom="part--part_01" data-title="unborn (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/storm"></span>
 
 
-"By the Babe [[unborn|Unborn]]"  
+"By the Babe Unborn"  
 
 by G.K. Chesterton  
 
@@ -93,7 +93,7 @@ If only I were born.
 
 <span class="qlang-split" data-lang="it"></span>
 
-"Per il Bimbo [[unborn|Non Nato]]"  
+"Per il Bimbo Non Nato"  
 
 di G.K. Chesterton  
 

@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/sleep|Sleep]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/imagination|Imagination]]
 **Forms & Genres:** [[forms/spenserian-stanza|Spenserian Stanza]]

@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Motifs:** [[motifs/ruins-the-abbey|Ruins the Abbey]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/heroism|Heroism]], [[concepts/faith|Faith]], [[concepts/immortality|Immortality]]
 **Forms & Genres:** [[forms/ode|Ode]]

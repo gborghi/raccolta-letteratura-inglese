@@ -48,14 +48,14 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/contemptus-mundi|Contemptus Mundi]]
 **Motifs:** [[motifs/ruins-the-abbey|Ruins the Abbey]], [[concepts/nature|Nature]], [[motifs/time|Time]], [[motifs/light-and-dark|Light and Dark]], [[motifs/sun|Sun]], [[motifs/crown|Crown]]
 **Themes & Concepts:** [[concepts/transience|Transience]], [[concepts/pride|Pride]], [[concepts/faith|Faith]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/eternity|Eternity]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/hymn|Hymn]]
 **Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/bible|Bible]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/carthage|Carthage]]
-**Characters:** Virgin Mary
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

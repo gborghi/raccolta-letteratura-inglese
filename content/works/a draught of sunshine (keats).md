@@ -28,7 +28,7 @@ tags:
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/sun|Sun]], [[motifs/birds|Birds]]
 **Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/madness|Madness]]
 **Forms & Genres:** [[forms/lyric|Lyric]]
-**Characters:** Apollo
+**Characters:** [[characters/apollo|Apollo]]
 
 ## Testo integrale / Full text
 

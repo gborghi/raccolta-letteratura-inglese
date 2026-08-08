@@ -20,7 +20,7 @@ tags:
 - [[works/the-glass-walking-stick-(chesterton)|The Glass Walking Stick (Chesterton)]]
 - [[works/vi-it-is-hard-for-those-who-have-never-known-persecution-(eliot)|VI It is hard for those who have never known persecution (Eliot)]]
 - [[works/the-poet---a-fragment-(keats)|The Poet - A Fragment (Keats)]]
-- Sonnet 19 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_019|Sonnet 19 (Shakespeare)]]
 - [[works/the-bad-child's-book-of-beasts-(belloc)|The Bad Child's Book of Beasts (Belloc)]]
 
 </div>

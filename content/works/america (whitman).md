@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/time|Time]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/democracy|Democracy]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]]
 **Forms & Genres:** [[forms/ode|Ode]], [[forms/free-verse|Free Verse]]

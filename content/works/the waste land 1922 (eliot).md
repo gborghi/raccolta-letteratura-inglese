@@ -29,7 +29,7 @@ tags:
 **Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/spiritual-emptiness|Spiritual Emptiness]]
 **Forms & Genres:** [[forms/epic|Epic]], [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/grail-legend|Grail Legend]]
-**Characters:** Tiresias, Madame Sosostris
+**Characters:** [[characters/tiresias|Tiresias]], [[characters/madame-sosostris|Madame Sosostris]]
 
 ## Testo integrale / Full text
 

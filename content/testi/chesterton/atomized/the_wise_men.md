@@ -41,7 +41,7 @@ e serviamo gli dèi fabbricati, chiamando ancora
 le furie le Eumenidi.  
 
 Gli dèi della violenza presero il velo  
-della visione e della [[philosophy|filosofia]],  
+della visione e della filosofia,  
 il Serpente che portò a tutti gli uomini sciagura  
 morde la propria maledetta coda,  
 e si chiama [[concepts/eternity|Eternità]].  
@@ -63,8 +63,8 @@ ci basta vedere un chiavistello aperto...)
 il [[archetypes/child|Bambino]] che giocava con la [[motifs/moon|luna]] e il sole  
 sta giocando con un po' di fieno.  
 
-La [[house|casa]] da cui i cieli son nutriti,  
-la vecchia strana [[house|casa]] che è la nostra,  
+La casa da cui i cieli son nutriti,  
+la vecchia strana casa che è la nostra,  
 dove giochi di parole non si dicono mai,  
 e la [[concepts/mercy|Misericordia]] è semplice come il pane,  
 e l'[[concepts/honour|Onore]] è duro come la pietra.  
@@ -110,7 +110,7 @@ And serve the made gods, naming still
 The furies the Eumenides.  
 
 The gods of violence took the veil  
-Of vision and [[philosophy]],  
+Of vision and philosophy,  
 The Serpent that brought all men bale,  
 He bites his own accursed tail,  
 And calls himself [[concepts/eternity|Eternity]].  
@@ -132,8 +132,8 @@ We need but see a latch undone...)
 The [[archetypes/child|Child]] that played with [[motifs/moon|moon]] and sun  
 Is playing with a little hay.  
 
-The [[house]] from which the heavens are fed,  
-The old strange [[house]] that is our own,  
+The house from which the heavens are fed,  
+The old strange house that is our own,  
 Where trick of words are never said,  
 And [[concepts/mercy|Mercy]] is as plain as bread,  
 And [[concepts/honour|Honour]] is as hard as stone.  
@@ -177,7 +177,7 @@ e serviamo gli dèi fabbricati, chiamando ancora
 le furie le Eumenidi.  
 
 Gli dèi della violenza presero il velo  
-della visione e della [[philosophy|filosofia]],  
+della visione e della filosofia,  
 il Serpente che portò a tutti gli uomini sciagura  
 morde la propria maledetta coda,  
 e si chiama [[concepts/eternity|Eternità]].  
@@ -199,8 +199,8 @@ ci basta vedere un chiavistello aperto...)
 il [[archetypes/child|Bambino]] che giocava con la [[motifs/moon|luna]] e il sole  
 sta giocando con un po' di fieno.  
 
-La [[house|casa]] da cui i cieli son nutriti,  
-la vecchia strana [[house|casa]] che è la nostra,  
+La casa da cui i cieli son nutriti,  
+la vecchia strana casa che è la nostra,  
 dove giochi di parole non si dicono mai,  
 e la [[concepts/mercy|Misericordia]] è semplice come il pane,  
 e l'[[concepts/honour|Onore]] è duro come la pietra.  

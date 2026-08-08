@@ -52,7 +52,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]]
-**Archetypes:** Fool, Trickster
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]]
 **Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/artist-and-society|Artist and Society]], [[concepts/pride|Pride]], [[concepts/ambition|Ambition]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/parody|Parody]], [[forms/nonfiction|Nonfiction]]

@@ -26,11 +26,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/translation|Translation]], [[forms/hymn|Hymn]]
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
-**Characters:** Virgin Mary, Christ
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

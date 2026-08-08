@@ -47,7 +47,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 
 **Settings:** [[settings/american-south|American South]], [[settings/america|America]], [[settings/battlefield|Battlefield]], [[settings/american-frontier|American Frontier]]
 
@@ -58,7 +58,7 @@ tags:
 **Themes & Concepts:** [[concepts/honour|Honour]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/nostalgia|Nostalgia]], [[concepts/slavery|Slavery]], [[concepts/reconciliation|Reconciliation]], [[concepts/democracy|Democracy]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/american-civil-war|American Civil War]], [[historical-references/puritanism|Puritanism]], [[historical-references/first-world-war|First World War]]
-**Characters:** Abraham Lincoln, John Wilkes Booth
+**Characters:** [[characters/abraham-lincoln|Abraham Lincoln]], [[characters/john-wilkes-booth|John Wilkes Booth]]
 
 ## Testo integrale / Full text
 

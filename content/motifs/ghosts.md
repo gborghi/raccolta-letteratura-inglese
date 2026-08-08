@@ -34,13 +34,13 @@ tags:
 - [[works/a-christmas-carol-(dickens)|A Christmas Carol (Dickens)]]
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
-- 1400. What mystery pervades a well! (Dickinson)
-- 281. 'Tis so appalling — it exhilarates — (Dickinson)
-- 298. Alone, I cannot be — (Dickinson)
-- 311. It sifts from Leaden Sieves — (Dickinson)
-- 670. One need not be a Chamber — to be Haunted — (Dickinson)
-- 75. She died at play, (Dickinson)
-- 892. Who occupies this House (Dickinson)
+- [[testi/dickinson/atomized/terror-and-horror-madness#1400_what_mystery_pervades_a_well|1400. What mystery pervades a well! (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0281_tis_so_appalling_it_exhilarates|281. 'Tis so appalling — it exhilarates — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0298_alone_i_cannot_be|298. Alone, I cannot be — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0311_it_sifts_from_leaden_sieves|311. It sifts from Leaden Sieves — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0670_one_need_not_be_a_chamber_to_be_haunted|670. One need not be a Chamber — to be Haunted — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0075_she_died_at_play|75. She died at play, (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0892_who_occupies_this_house|892. Who occupies this House (Dickinson)]]
 - [[works/a-fable-for-feasters-(eliot)|A Fable for Feasters (Eliot)]]
 - [[works/the-elder-statesman-(eliot)|THE ELDER STATESMAN (Eliot)]]
 - [[works/the-family-reunion-(eliot)|THE FAMILY REUNION (Eliot)]]
@@ -57,7 +57,7 @@ tags:
 - [[works/julius-caesar-(shakespeare)|JULIUS CAESAR (Shakespeare)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/richard-iii-(shakespeare)|RICHARD III (Shakespeare)]]
-- Sonnet 86 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_086|Sonnet 86 (Shakespeare)]]
 - [[works/a-boston-ballad-1854-(whitman)|A Boston Ballad 1854 (Whitman)]]
 - [[works/as-i-ponder’d-in-silence-(whitman)|As I Ponder’d in Silence (Whitman)]]
 - [[works/as-if-a-phantom-caress’d-me-(whitman)|As If a Phantom Caress’d Me (Whitman)]]

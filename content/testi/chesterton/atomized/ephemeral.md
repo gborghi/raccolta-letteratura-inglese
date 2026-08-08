@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
--=[ IN DIFESA DELL'[[ephemeral|EFFIMERO]] ]=-
+-=[ IN DIFESA DELL'EFFIMERO ]=-
 
 [Tratto da ALL THINGS CONSIDERED di G. K. Chesterton; un etext
 in corso d'opera, da un'edizione della John Lane Company, [[settings/new-york|New York]], 1909.
@@ -73,8 +73,8 @@ sfumatura delle opinioni qui espresse; ma sento che avrebbero potuto
 essere espresse in modo tanto più breve e preciso. Per esempio, queste
 pagine contengono una sorta di ricorrente protesta contro il vanto di
 certi scrittori di essere semplicemente recenti. Si vantano che la loro
-[[philosophy|filosofia]] dell'universo sia l'ultima [[philosophy|filosofia]]
-o la nuova [[philosophy|filosofia]], o la [[philosophy|filosofia]] avanzata e
+filosofia dell'universo sia l'ultima filosofia
+o la nuova filosofia, o la filosofia avanzata e
 progressista. Ho detto molto contro il mero modernismo. Quando uso la
 parola "modernismo", non alludo in modo particolare all'attuale disputa
 nella [[historical-references/catholic-church|Chiesa cattolica romana]], per quanto io sia certo
@@ -110,19 +110,19 @@ strumenti di tortura o nei roghi di Smithfield; l'essenza della
 persecuzione religiosa è questa: che l'uomo il quale per caso detiene il
 potere materiale nello Stato, sia per ricchezza sia per posizione
 ufficiale, governi i propri concittadini non secondo la loro religione o
-[[philosophy|filosofia]], ma secondo la propria. Se, per esempio, esiste
-una cosa come una morale [[vegetarian|vegetariana]], allora dico, con le
+filosofia, ma secondo la propria. Se, per esempio, esiste
+una cosa come una morale vegetariana, allora dico, con le
 enfatiche parole dell'arrogante marchese francese prima della
 [[historical-references/french-revolution|Rivoluzione francese]], "Che mangino l'erba". Forse
 quell'oligarca francese era un umanitario; la maggior parte degli
 oligarchi lo è. Forse quando disse ai contadini di mangiare l'erba stava
 raccomandando loro l'igienica semplicità di un ristorante
-[[vegetarian|vegetariano]]. Ma questa è una speculazione irrilevante,
+vegetariano. Ma questa è una speculazione irrilevante,
 benché affascinantissima. Il punto qui è che se una nazione è davvero
-[[vegetarian|vegetariana]] il suo [[government|governo]] le imponga tutto
-l'orribile peso del vegetarianismo. Che il suo [[government|governo]] offra
-agli ospiti nazionali un banchetto [[vegetarian|vegetariano]] di Stato. Che
-il suo [[government|governo]], nel senso più letterale e tremendo delle
+vegetariana il suo governo le imponga tutto
+l'orribile peso del vegetarianismo. Che il suo governo offra
+agli ospiti nazionali un banchetto vegetariano di Stato. Che
+il suo governo, nel senso più letterale e tremendo delle
 parole, dia loro fagioli. Quella specie di tirannia va benissimo; perché
 è il popolo che tiranneggia tutte le persone. Ma i "riformatori della
 temperanza" sono come un piccolo gruppo di vegetariani che agissero in
@@ -132,15 +132,15 @@ erbivendoli. Nominerebbero sempre Commissioni parlamentari per indagare
 sulla vita privata dei macellai. Ogni volta che trovassero un uomo del
 tutto alla loro [[concepts/mercy|mercé]], come un miserabile o un galeotto o un
 folle, lo costringerebbero ad aggiungere il tocco finale al suo disumano
-isolamento facendolo diventare [[vegetarian|vegetariano]]. Tutti i pasti
-per i bambini delle scuole saranno pasti [[vegetarian|vegetariani]]. Tutte
-le osterie di Stato saranno osterie [[vegetarian|vegetariane]]. Vi è un
+isolamento facendolo diventare vegetariano. Tutti i pasti
+per i bambini delle scuole saranno pasti vegetariani. Tutte
+le osterie di Stato saranno osterie vegetariane. Vi è un
 argomento assai più forte a favore del vegetarianismo rispetto
 all'astinenzialismo. Bere un bicchiere di birra non può, per nessuna
-[[philosophy|filosofia]], essere ubriachezza; ma uccidere un animale può,
-per questa [[philosophy|filosofia]], essere omicidio. L'obiezione a
+filosofia, essere ubriachezza; ma uccidere un animale può,
+per questa filosofia, essere omicidio. L'obiezione a
 entrambi i procedimenti non è che i due credi, astinenziale e
-[[vegetarian|vegetariano]], siano inammissibili; è semplicemente che non
+vegetariano, siano inammissibili; è semplicemente che non
 sono ammessi. La cosa è persecuzione religiosa perché non è fondata sulla
 religione esistente della [[concepts/democracy|democrazia]]. Costoro chiedono ai
 poveri di accettare nella pratica ciò che sanno benissimo che i poveri
@@ -196,7 +196,7 @@ Ci importerà grandemente da quale parte combattemmo.
 <span class="atom-split" data-atom="part--part_01" data-title="ephemeral (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/soul,motif/time,motif/well,form/epigram,histref/catholic_church,setting/germany,setting/new_york,setting/paris"></span>
 
 
--=[ THE CASE FOR THE [[ephemeral|EPHEMERAL]] ]=-
+-=[ THE CASE FOR THE EPHEMERAL ]=-
 
 [Excerpted from ALL THINGS CONSIDERED by G. K. Chesterton; an etext
 in progress, from an edition by John Lane Company, [[settings/new-york|New York]], 1909.
@@ -251,8 +251,8 @@ I do not repent of one shade of opinion here expressed; but I feel
 that they might have been expressed so much more briefly and precisely.
 For instance, these pages contain a sort of recurring protest
 against the boast of certain writers that they are merely recent.
-They brag that their [[philosophy]] of the universe is the last [[philosophy]]
-or the new [[philosophy]], or the advanced and progressive [[philosophy]].
+They brag that their philosophy of the universe is the last philosophy
+or the new philosophy, or the advanced and progressive philosophy.
 I have said much against a mere modernism.  When I use the word
 "modernism," I am not alluding specially to the current quarrel
 in the Roman [[historical-references/catholic-church|Catholic Church]], though I am certainly astonished at any
@@ -278,7 +278,7 @@ a snob; he cannot bear to be a month behind the fashion.
 
 <span class="qlang-split" data-lang="it"></span>
 
--=[ IN DIFESA DELL'[[ephemeral|EFFIMERO]] ]=-
+-=[ IN DIFESA DELL'EFFIMERO ]=-
 
 [Tratto da ALL THINGS CONSIDERED di G. K. Chesterton; un etext
 in corso d'opera, da un'edizione della John Lane Company, [[settings/new-york|New York]], 1909.
@@ -334,8 +334,8 @@ sfumatura delle opinioni qui espresse; ma sento che avrebbero potuto
 essere espresse in modo tanto più breve e preciso. Per esempio, queste
 pagine contengono una sorta di ricorrente protesta contro il vanto di
 certi scrittori di essere semplicemente recenti. Si vantano che la loro
-[[philosophy|filosofia]] dell'universo sia l'ultima [[philosophy|filosofia]]
-o la nuova [[philosophy|filosofia]], o la [[philosophy|filosofia]] avanzata e
+filosofia dell'universo sia l'ultima filosofia
+o la nuova filosofia, o la filosofia avanzata e
 progressista. Ho detto molto contro il mero modernismo. Quando uso la
 parola "modernismo", non alludo in modo particolare all'attuale disputa
 nella [[historical-references/catholic-church|Chiesa cattolica romana]], per quanto io sia certo
@@ -376,18 +376,18 @@ Religious persecution does not consist in thumbscrews or fires
 of Smithfield; the essence of religious persecution is this:
 that the man who happens to have material power in the State,
 either by wealth or by official position, should govern his
-fellow-citizens not according to their religion or [[philosophy]],
+fellow-citizens not according to their religion or philosophy,
 but according to his own.  If, for instance, there is such a thing as a
-[[vegetarian]] [[morality]], then I say in the emphatic words of the arrogant
+vegetarian morality, then I say in the emphatic words of the arrogant
 French marquis before the [[historical-references/french-revolution|French Revolution]], "Let them eat grass."
 Perhaps that French oligarch was a humanitarian; most oligarchs are.
 Perhaps when he told the peasants to eat grass he was recommending
-to them the hygienic simplicity of a [[vegetarian]] restaurant.
+to them the hygienic simplicity of a vegetarian restaurant.
 But that is an irrelevant, though most fascinating, speculation.
-The point here is that if a nation is really [[vegetarian]] let its
-[[government]] force upon it the whole horrible weight of vegetarianism.
-Let its [[government]] give the national guests a State [[vegetarian]] banquet.
-Let its [[government]], in the most literal and awful sense of the words,
+The point here is that if a nation is really vegetarian let its
+government force upon it the whole horrible weight of vegetarianism.
+Let its government give the national guests a State vegetarian banquet.
+Let its government, in the most literal and awful sense of the words,
 give them beans.  That sort of tyranny is all very [[motifs/well|well]];
 for it is the people tyrannising over all the persons.
 But "temperance reformers" are like a small group of vegetarians
@@ -397,14 +397,14 @@ They would always be giving peerages to greengrocers.  They would always
 be appointing Parliamentary Commissions to enquire into the private
 life of butchers.  Whenever they found a man quite at their [[concepts/mercy|mercy]],
 as a pauper or a convict or a lunatic, they would force him to add
-the final touch to his inhuman isolation by becoming a [[vegetarian]].
-All the meals for school children will be [[vegetarian]] meals.
-All the State public houses will be [[vegetarian]] public houses.  There is
+the final touch to his inhuman isolation by becoming a vegetarian.
+All the meals for school children will be vegetarian meals.
+All the State public houses will be vegetarian public houses.  There is
 a very strong case for vegetarianism as compared with teetotalism.
-Drinking one glass of beer cannot by any [[philosophy]] be drunkenness;
-but killing one animal can, by this [[philosophy]], be murder.
+Drinking one glass of beer cannot by any philosophy be drunkenness;
+but killing one animal can, by this philosophy, be murder.
 The objection to both processes is not that the two creeds,
-teetotal and [[vegetarian]], are not admissible; it is simply
+teetotal and vegetarian, are not admissible; it is simply
 that they are not admitted.  The thing is religious persecution
 because it is not based on the existing religion of the [[concepts/democracy|democracy]].
 These people ask the poor to accept in practice what they know
@@ -413,7 +413,7 @@ That is the very definition of religious persecution.
 I was against the Tory attempt to force upon ordinary
 Englishmen a Catholic theology in which they do not believe.
 I am even more against the attempt to force upon them a Mohamedan
-[[morality]] which they actively deny.
+morality which they actively deny.
 
 Again, in the case of anonymous journalism I seem to have said
 a great deal without getting out the point very clearly.
@@ -473,19 +473,19 @@ strumenti di tortura o nei roghi di Smithfield; l'essenza della
 persecuzione religiosa è questa: che l'uomo il quale per caso detiene il
 potere materiale nello Stato, sia per ricchezza sia per posizione
 ufficiale, governi i propri concittadini non secondo la loro religione o
-[[philosophy|filosofia]], ma secondo la propria. Se, per esempio, esiste
-una cosa come una morale [[vegetarian|vegetariana]], allora dico, con le
+filosofia, ma secondo la propria. Se, per esempio, esiste
+una cosa come una morale vegetariana, allora dico, con le
 enfatiche parole dell'arrogante marchese francese prima della
 [[historical-references/french-revolution|Rivoluzione francese]], "Che mangino l'erba". Forse
 quell'oligarca francese era un umanitario; la maggior parte degli
 oligarchi lo è. Forse quando disse ai contadini di mangiare l'erba stava
 raccomandando loro l'igienica semplicità di un ristorante
-[[vegetarian|vegetariano]]. Ma questa è una speculazione irrilevante,
+vegetariano. Ma questa è una speculazione irrilevante,
 benché affascinantissima. Il punto qui è che se una nazione è davvero
-[[vegetarian|vegetariana]] il suo [[government|governo]] le imponga tutto
-l'orribile peso del vegetarianismo. Che il suo [[government|governo]] offra
-agli ospiti nazionali un banchetto [[vegetarian|vegetariano]] di Stato. Che
-il suo [[government|governo]], nel senso più letterale e tremendo delle
+vegetariana il suo governo le imponga tutto
+l'orribile peso del vegetarianismo. Che il suo governo offra
+agli ospiti nazionali un banchetto vegetariano di Stato. Che
+il suo governo, nel senso più letterale e tremendo delle
 parole, dia loro fagioli. Quella specie di tirannia va benissimo; perché
 è il popolo che tiranneggia tutte le persone. Ma i "riformatori della
 temperanza" sono come un piccolo gruppo di vegetariani che agissero in
@@ -495,15 +495,15 @@ erbivendoli. Nominerebbero sempre Commissioni parlamentari per indagare
 sulla vita privata dei macellai. Ogni volta che trovassero un uomo del
 tutto alla loro [[concepts/mercy|mercé]], come un miserabile o un galeotto o un
 folle, lo costringerebbero ad aggiungere il tocco finale al suo disumano
-isolamento facendolo diventare [[vegetarian|vegetariano]]. Tutti i pasti
-per i bambini delle scuole saranno pasti [[vegetarian|vegetariani]]. Tutte
-le osterie di Stato saranno osterie [[vegetarian|vegetariane]]. Vi è un
+isolamento facendolo diventare vegetariano. Tutti i pasti
+per i bambini delle scuole saranno pasti vegetariani. Tutte
+le osterie di Stato saranno osterie vegetariane. Vi è un
 argomento assai più forte a favore del vegetarianismo rispetto
 all'astinenzialismo. Bere un bicchiere di birra non può, per nessuna
-[[philosophy|filosofia]], essere ubriachezza; ma uccidere un animale può,
-per questa [[philosophy|filosofia]], essere omicidio. L'obiezione a
+filosofia, essere ubriachezza; ma uccidere un animale può,
+per questa filosofia, essere omicidio. L'obiezione a
 entrambi i procedimenti non è che i due credi, astinenziale e
-[[vegetarian|vegetariano]], siano inammissibili; è semplicemente che non
+vegetariano, siano inammissibili; è semplicemente che non
 sono ammessi. La cosa è persecuzione religiosa perché non è fondata sulla
 religione esistente della [[concepts/democracy|democrazia]]. Costoro chiedono ai
 poveri di accettare nella pratica ciò che sanno benissimo che i poveri

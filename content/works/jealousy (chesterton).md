@@ -43,7 +43,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 
 **Settings:** [[settings/ancient-rome|Ancient Rome]]
 
@@ -51,7 +51,7 @@ tags:
 
 **Topoi:** [[topoi/war-as-glory|War as Glory]]
 
-**Characters:** Joan la Pucelle, Sir Arthur Conan Doyle, Dennis Bradley
+**Characters:** [[characters/joan-la-pucelle|Joan la Pucelle]], [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]], [[characters/dennis-bradley|Dennis Bradley]]
 
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/satire-of-society|Satire of Society]], [[concepts/jealousy|Jealousy]], [[concepts/doubt|Doubt]], [[concepts/conversion|Conversion]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/ballad-ballade|Ballad Ballade]], [[forms/comic-verse-song|Comic Verse Song]], [[forms/mock-epic|Mock Epic]]

@@ -60,7 +60,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Pilgrim
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 
 **Motifs:** [[motifs/prison|Prison]], [[motifs/window|Window]], [[motifs/ship|Ship]]
 

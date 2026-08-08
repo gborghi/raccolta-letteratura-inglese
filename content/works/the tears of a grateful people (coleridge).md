@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** King
+**Archetypes:** [[archetypes/king|King]]
 **Motifs:** [[motifs/sun|Sun]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/providence|Providence]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/elegy|Elegy]]

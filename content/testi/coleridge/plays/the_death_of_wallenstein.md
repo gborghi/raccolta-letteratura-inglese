@@ -24,7 +24,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | SCENE — A Chamber in the [[house\|House]] of the DUCHESS OF FRIEDLAND. |
+| *(didascalia)* | SCENE — A Chamber in the House of the DUCHESS OF FRIEDLAND. |
 | *(didascalia)* | COUNTESS TERTSKY, THEKLA, LADY NEUBRUNN (the two latter sit at the same table at work). |
 | COUNTESS | So you have nothing, niece, to ask me? Nothing?<br>I have been waiting for a word from you.<br>And could you then endure in all this [[motifs/time\|time]]<br>Not once to speak his name? |
 | *(didascalia)* | [The COUNTESS rises and advances to her. |
@@ -64,8 +64,8 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | THEKLA | We ask<br>Proofs of his [[motifs/love\|love]], and not proofs of his [[concepts/honour\|honour]].<br>Duty and [[concepts/honour\|honour]]!<br>Those are ambiguous words with many meanings.<br>You should interpret them for him: his [[motifs/love\|love]]<br>Should be the sole definer of his [[concepts/honour\|honour]]. |
 | COUNTESS | How? |
 | THEKLA | The Emperor or you must he renounce. |
-| COUNTESS | He will accompany my father gladly<br>In his retirement. From himself you heard,<br>How much he wished to lay aside the [[Sword\|sword]]. |
-| THEKLA | He must not lay the [[Sword\|sword]] aside, we mean;<br>He must unsheath it in your father's cause. |
+| COUNTESS | He will accompany my father gladly<br>In his retirement. From himself you heard,<br>How much he wished to lay aside the sword. |
+| THEKLA | He must not lay the sword aside, we mean;<br>He must unsheath it in your father's cause. |
 | COUNTESS | He'll spend with gladness and alacrity<br>His life, his heart's [[motifs/blood\|blood]] in my father's cause,<br>If shame or injury be intended him. |
 | THEKLA | You will not understand me. [[motifs/well\|Well]], hear then!<br>Your father has fallen off from the Emperor,<br>And is about to join the enemy<br>With the whole soldiery — |
 | COUNTESS | Alas, my mother! |
@@ -173,7 +173,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | DUCHESS | Then<br>His rank, his ancestors — |
 | WALLENSTEIN | Ancestors! What?<br>He is a subject, and my son-in-law<br>I will seek out upon the thrones of Europe. |
 | DUCHESS | O dearest Albrecht! Climb we not too high.<br>Lest we should fall too low. |
-| WALLENSTEIN | What? have I paid<br>A price so heavy to ascend this eminence,<br>And jut out high above the common herd,<br>Only to close the mighty part I play<br>In Life's great drama, with a common kinsman?<br>Have I for this — [pause.] She is the only thing<br>That will remain behind of me on earth;<br>And I will see a [[motifs/crown\|crown]] around her head,<br>Or die in the attempt to place it there.<br>I hazard all — all! and for this [[Alone\|alone]],<br>To lift her into [[concepts/greatness\|greatness]] —<br>Yea, in this moment, in the which we are speaking — [pause.<br>And I must now, like a soft-hearted father,<br>Couple together in good peasant fashion<br>The pair, that chance to suit each other's liking —<br>And I must do it now, even now, when I<br>Am stretching out the wreath that is to twine<br>My full accomplished work — no! she is the [[motifs/jewel\|jewel]],<br>Which I have treasured long, my last, my noblest,<br>And 'tis my purpose not to let her from me<br>For less than a [[archetypes/king\|king]]'s sceptre. |
+| WALLENSTEIN | What? have I paid<br>A price so heavy to ascend this eminence,<br>And jut out high above the common herd,<br>Only to close the mighty part I play<br>In Life's great drama, with a common kinsman?<br>Have I for this — [pause.] She is the only thing<br>That will remain behind of me on earth;<br>And I will see a [[motifs/crown\|crown]] around her head,<br>Or die in the attempt to place it there.<br>I hazard all — all! and for this alone,<br>To lift her into [[concepts/greatness\|greatness]] —<br>Yea, in this moment, in the which we are speaking — [pause.<br>And I must now, like a soft-hearted father,<br>Couple together in good peasant fashion<br>The pair, that chance to suit each other's liking —<br>And I must do it now, even now, when I<br>Am stretching out the wreath that is to twine<br>My full accomplished work — no! she is the [[motifs/jewel\|jewel]],<br>Which I have treasured long, my last, my noblest,<br>And 'tis my purpose not to let her from me<br>For less than a [[archetypes/king\|king]]'s sceptre. |
 | DUCHESS | O my husband!<br>You're ever building, building to the clouds,<br>Still building higher, and still higher building,<br>And ne'er reflect, that the poor narrow basis<br>Cannot sustain the giddy tottering column. |
 | WALLENSTEIN *(to the Countess)* | Have you announced the place of residence<br>Which I have destined for her? |
 | COUNTESS | No! not yet.<br>'Twere better you yourself disclosed it to her. |
@@ -315,7 +315,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | COUNTESS | O my foreboding! |
 | *(didascalia)* | [Rushes out of the room. |
 | TERTSKY | Hadst thou but believed me!<br>Now seest thou how the [[motifs/stars\|stars]] have lied to thee. |
-| WALLENSTEIN | The [[motifs/stars\|stars]] lie not; but we have here a work<br>Wrought counter to the [[motifs/stars\|stars]] and destiny.<br>The science is still honest: this false heart<br>Forces a lie on the [[concepts/truth\|truth]]-telling heaven.<br>On a divine law divination rests;<br>Where [[concepts/nature\|nature]] deviates from that law, and stumbles<br>Out of her limits, there all science errs.<br>True, I did not suspect! Were it superstition<br>Never by such suspicion t' have affronted<br>The human form, O may that [[motifs/time\|time]] ne'er come<br>In which I shame me of the infirmity.<br>The wildest savage drinks not with the victim<br>Into whose breast he means to plunge the [[Sword\|sword]].<br>This, this, Octavio, was no [[archetypes/hero\|hero]]'s deed:<br>'Twas not thy prudence that did conquer mine;<br>A bad heart triumphed o'er an honest one.<br>No shield received the assassin stroke; thou plungest<br>Thy weapon on an unprotected breast —<br>Against such weapons I am but a [[archetypes/child\|child]]. |
+| WALLENSTEIN | The [[motifs/stars\|stars]] lie not; but we have here a work<br>Wrought counter to the [[motifs/stars\|stars]] and destiny.<br>The science is still honest: this false heart<br>Forces a lie on the [[concepts/truth\|truth]]-telling heaven.<br>On a divine law divination rests;<br>Where [[concepts/nature\|nature]] deviates from that law, and stumbles<br>Out of her limits, there all science errs.<br>True, I did not suspect! Were it superstition<br>Never by such suspicion t' have affronted<br>The human form, O may that [[motifs/time\|time]] ne'er come<br>In which I shame me of the infirmity.<br>The wildest savage drinks not with the victim<br>Into whose breast he means to plunge the sword.<br>This, this, Octavio, was no [[archetypes/hero\|hero]]'s deed:<br>'Twas not thy prudence that did conquer mine;<br>A bad heart triumphed o'er an honest one.<br>No shield received the assassin stroke; thou plungest<br>Thy weapon on an unprotected breast —<br>Against such weapons I am but a [[archetypes/child\|child]]. |
 
 
 
@@ -358,7 +358,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | WALLENSTEIN | Hide nothing from me — I can hear the worst.<br>Prague then is lost. It is. Confess it freely. |
 | BUTLER | Yes! Prague is lost. And all the several regiments<br>At Budweiss, Tabor, Brannau, Konigingratz,<br>At Brun and Znaym, have forsaken you,<br>And ta'en the oaths of fealty anew<br>To the Emperor. Yourself, with Kinsky, Tertsky,<br>And Illo have been sentenced. |
 | *(didascalia)* | TERTSKY and ILLO express alarm and fury. WALLENSTEIN remains firm and collected. |
-| WALLENSTEIN | 'Tis decided!<br>'Tis [[motifs/well\|well]]! I have received a sudden cure<br>From all the pangs of [[concepts/doubt\|doubt]]: with steady stream<br>Once more my life-[[motifs/blood\|blood]] flows! My [[motifs/soul\|soul]]'s secure!<br>In the [[motifs/night\|night]] only Friedland's [[motifs/stars\|stars]] can beam.<br>Lingering irresolute, with fitful fears<br>I drew the [[Sword\|sword]]—'twas with an inward strife,<br>While yet the choice was mine. The murderous knife<br>Is lifted for my heart! [[concepts/doubt\|Doubt]] disappears!<br>I fight now for my head and for my life. |
+| WALLENSTEIN | 'Tis decided!<br>'Tis [[motifs/well\|well]]! I have received a sudden cure<br>From all the pangs of [[concepts/doubt\|doubt]]: with steady stream<br>Once more my life-[[motifs/blood\|blood]] flows! My [[motifs/soul\|soul]]'s secure!<br>In the [[motifs/night\|night]] only Friedland's [[motifs/stars\|stars]] can beam.<br>Lingering irresolute, with fitful fears<br>I drew the sword—'twas with an inward strife,<br>While yet the choice was mine. The murderous knife<br>Is lifted for my heart! [[concepts/doubt\|Doubt]] disappears!<br>I fight now for my head and for my life. |
 | *(didascalia)* | Exit WALLENSTEIN; the others follow him. |
 
 
@@ -370,7 +370,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Countess Tertsky (enters from a side room). |
-| COUNTESS TERTSKY | I can endure no<br>longer. No! [Looks around her.<br>Where are they?<br>No one is here. They leave me all [[Alone\|alone]],<br>[[works/alone-(poe)\|Alone]] in this sore anguish of suspense.<br>And I must wear the outward shew of calmness<br>Before my sister, and shut in within me<br>The pangs and agonies of my crowded bosom.<br>It is not to be borne. — If all should fail;<br>If — if he must go over to the Swedes,<br>An empty-handed fugitive, and not<br>As an ally, a covenanted equal,<br>A proud commander with his army following;<br>If we must wander on from land to land,<br>Like the Count Palatine, of fallen [[concepts/greatness\|greatness]]<br>An ignominious monument — But no!<br>That day I will not see! And could himself<br>Endure to sink so low, I would not bear<br>To see him so low sunken. |
+| COUNTESS TERTSKY | I can endure no<br>longer. No! [Looks around her.<br>Where are they?<br>No one is here. They leave me all alone,<br>[[works/alone-(poe)\|Alone]] in this sore anguish of suspense.<br>And I must wear the outward shew of calmness<br>Before my sister, and shut in within me<br>The pangs and agonies of my crowded bosom.<br>It is not to be borne. — If all should fail;<br>If — if he must go over to the Swedes,<br>An empty-handed fugitive, and not<br>As an ally, a covenanted equal,<br>A proud commander with his army following;<br>If we must wander on from land to land,<br>Like the Count Palatine, of fallen [[concepts/greatness\|greatness]]<br>An ignominious monument — But no!<br>That day I will not see! And could himself<br>Endure to sink so low, I would not bear<br>To see him so low sunken. |
 
 
 
@@ -401,7 +401,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | SCENE — A spacious Room in the DUKE OF FRIEDLAND'S Palace. |
-| WALLENSTEIN (in armour) | Thou hast gained thy point, Octavio! Once more am I<br>Almost as friendless as at Regenspurg.<br>There I had nothing left me, but myself —<br>But what one man can do, you have now experience.<br>The twigs have you hewed off, and here I stand<br>A leafless trunk. But in the sap within<br>Lives the creating power, and a new world<br>May sprout forth from it. Once already have I<br>Proved myself worth an army to you — I [[Alone\|alone]]!<br>Before the Swedish strength your troops had melted;<br>Beside the Lech sank Tilly, your last [[concepts/hope\|hope]];<br>Into Bavaria, like a [[motifs/winter\|winter]] torrent,<br>Did that Gustavus pour, and at Vienna<br>In his own palace did the Emperor tremble.<br>Soldiers were scarce, for still the multitude<br>Follow the luck: all eyes were turned on me,<br>Their helper in distress; the Emperor's [[concepts/pride\|pride]]<br>Bowed itself down before the man he had injured.<br>'Twas I must rise, and with creative word<br>Assemble forces in the desolate camps.<br>I did it. Like a god of war, my name<br>Went through the world. The drum was beat — and, lo!<br>The plough, the work-shop is forsaken, all<br>Swarm to the old familiar long-loved banners;<br>And as the wood-choir rich in melody<br>Assemble quick around the bird of [[concepts/wonder\|wonder]],<br>When first his throat swells with his [[Magic\|magic]] [[Song\|song]],<br>So did the warlike youth of [[settings/germany\|Germany]]<br>Crowd in around the image of my eagle.<br>I feel myself the being that I was.<br>It is the [[motifs/soul\|soul]] that builds itself a [[concepts/body\|body]],<br>And Friedland's camp will not remain unfilled.<br>Lead then your thousands out to meet me — true!<br>They are accustomed under me to conquer,<br>But not against me. If the head and limbs<br>Separate from each other, 'twill be soon<br>Made manifest, in which the [[motifs/soul\|soul]] abode. |
+| WALLENSTEIN (in armour) | Thou hast gained thy point, Octavio! Once more am I<br>Almost as friendless as at Regenspurg.<br>There I had nothing left me, but myself —<br>But what one man can do, you have now experience.<br>The twigs have you hewed off, and here I stand<br>A leafless trunk. But in the sap within<br>Lives the creating power, and a new world<br>May sprout forth from it. Once already have I<br>Proved myself worth an army to you — I alone!<br>Before the Swedish strength your troops had melted;<br>Beside the Lech sank Tilly, your last [[concepts/hope\|hope]];<br>Into Bavaria, like a [[motifs/winter\|winter]] torrent,<br>Did that Gustavus pour, and at Vienna<br>In his own palace did the Emperor tremble.<br>Soldiers were scarce, for still the multitude<br>Follow the luck: all eyes were turned on me,<br>Their helper in distress; the Emperor's [[concepts/pride\|pride]]<br>Bowed itself down before the man he had injured.<br>'Twas I must rise, and with creative word<br>Assemble forces in the desolate camps.<br>I did it. Like a god of war, my name<br>Went through the world. The drum was beat — and, lo!<br>The plough, the work-shop is forsaken, all<br>Swarm to the old familiar long-loved banners;<br>And as the wood-choir rich in melody<br>Assemble quick around the bird of [[concepts/wonder\|wonder]],<br>When first his throat swells with his magic song,<br>So did the warlike youth of [[settings/germany\|Germany]]<br>Crowd in around the image of my eagle.<br>I feel myself the being that I was.<br>It is the [[motifs/soul\|soul]] that builds itself a [[concepts/body\|body]],<br>And Friedland's camp will not remain unfilled.<br>Lead then your thousands out to meet me — true!<br>They are accustomed under me to conquer,<br>But not against me. If the head and limbs<br>Separate from each other, 'twill be soon<br>Made manifest, in which the [[motifs/soul\|soul]] abode. |
 | *(didascalia)* | (ILLO and TERTSKY enter.) |
 | WALLENSTEIN | [[concepts/courage\|Courage]], friends! [[concepts/courage\|Courage]]! We are still unvanquished;<br>I feel my footing firm; five regiments, Tertsky,<br>Are still our own, and Butler's gallant troops;<br>And a host of sixteen thousand Swedes to-morrow.<br>I was not stronger, when nine years ago<br>I marched forth, with glad heart and high of [[concepts/hope\|hope]],<br>To conquer [[settings/germany\|Germany]] for the Emperor. |
 
@@ -520,7 +520,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | WALLENSTEIN | Quick! Let a carriage stand in readiness In the [[settings/court\|court]] behind the palace. Scherfenberg Be their attendant; he is faithful to us; To Egra he'll conduct them, and we follow. |
 | *(didascalia)* | To ILLO, who returns. |
 | WALLENSTEIN | Thou hast not brought them back? |
-| ILLO | Hear'st thou the uproar? The whole corps of the Pappenheimers is Drawn out: the younger Piccolomini, Their colonel, they require; for they affirm, That he is in the palace here, a prisoner; And if thou dost not instantly deliver him, They will find means to free him with the [[Sword\|sword]]. |
+| ILLO | Hear'st thou the uproar? The whole corps of the Pappenheimers is Drawn out: the younger Piccolomini, Their colonel, they require; for they affirm, That he is in the palace here, a prisoner; And if thou dost not instantly deliver him, They will find means to free him with the sword. |
 | TERTSKY | What shall we make of this? |
 | WALLENSTEIN | Said I not so? O my prophetic heart! he is still here. He has not betrayed me — he could not betray me. I never doubted of it. |
 | COUNTESS | If he be Still here, then all goes [[motifs/well\|well]]; for I know what |
@@ -539,7 +539,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | To these enter MAX PICCOLOMINI. |
-| MAX | Yes! here he is! I can endure no longer<br>To creep on tiptoe round this [[house]], and lurk<br>In ambush for a favourable moment.<br>This loitering, this suspense exceeds my powers. |
+| MAX | Yes! here he is! I can endure no longer<br>To creep on tiptoe round this house, and lurk<br>In ambush for a favourable moment.<br>This loitering, this suspense exceeds my powers. |
 | *(didascalia)* | [Advancing to THEKLA. |
 | MAX | Turn not thine eyes away. O look upon me!<br>Confess it freely before all. [[concepts/fear\|Fear]] no one,<br>Let who will hear that we both [[motifs/love\|love]] each other.<br>Wherefore continue to conceal it? Secrecy<br>Is for the happy — misery, hopeless misery,<br>Needeth no veil! Beneath a thousand suns<br>It dares act openly. |
 | *(didascalia)* | [He observes the COUNTESS looking on THEKLA with expressions of triumph. |
@@ -547,7 +547,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | *(didascalia)* | [Grasps her hand. |
 | MAX | O God! I cannot leave this spot — I cannot!<br>Cannot let go this hand. O tell me, Thekla!<br>That thou dost suffer with me, art convinced<br>That I cannot act otherwise. |
 | *(didascalia)* | [THEKLA, avoiding his look, points with her hand to her father. MAX turns round to the DUKE, whom he had not till then perceived. |
-| MAX | Thou here? It was not thou, whom here I sought.<br>I trusted never more to have beheld thee.<br>My business is with her [[Alone\|alone]]. Here will I<br>Receive a full acquittal from this heart —<br>For any other I am no more concerned. |
+| MAX | Thou here? It was not thou, whom here I sought.<br>I trusted never more to have beheld thee.<br>My business is with her alone. Here will I<br>Receive a full acquittal from this heart —<br>For any other I am no more concerned. |
 | WALLENSTEIN | Think'st thou, that [[archetypes/fool\|fool]]-like, I shall let thee go,<br>And act the mock-magnanimous with thee?<br>Thy father is become a [[archetypes/villain\|villain]] to me;<br>I hold thee for his son, and nothing more:<br>Nor to no purpose shalt thou have been given<br>Into my power. Think not, that I will [[concepts/honour\|honour]]<br>That ancient [[motifs/love\|love]], which so remorselessly<br>He mangled. They are now past by, those hours<br>Of [[concepts/friendship\|friendship]] and [[concepts/forgiveness\|forgiveness]]. Hate and vengeance<br>Succeed—'tis now their turn — I too can throw<br>All feelings of the man aside — can prove<br>Myself as much a [[archetypes/monster\|monster]] as thy father! |
 | MAX | Thou wilt proceed with me, as thou hast power.<br>Thou know'st, I neither brave nor [[concepts/fear\|fear]] thy rage.<br>What has detained me here, that too thou know'st. |
 | *(didascalia)* | [Taking THEKLA by the hand. |
@@ -579,15 +579,15 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 |---|---|
 | *(didascalia)* | To these enter NEUMANN. |
 | WALLENSTEIN | What now? |
-| NEUMANN | The Pappenheimers are dismounted,<br>And are advancing now on foot, determined<br>With [[Sword\|sword]] in hand to [[motifs/storm\|storm]] the [[house]], and free<br>The Count, their colonel. |
+| NEUMANN | The Pappenheimers are dismounted,<br>And are advancing now on foot, determined<br>With sword in hand to [[motifs/storm\|storm]] the house, and free<br>The Count, their colonel. |
 | WALLENSTEIN | (to Tertsky). Have the cannon planted.<br>I will receive them with chain-shot. |
 | *(didascalia)* | [Exit TERTSKY. |
-| WALLENSTEIN | Prescribe to me with [[Sword\|sword]] in hand! Go, Neumann!<br>'Tis my command that they retreat this moment,<br>And in their ranks in [[motifs/silence\|silence]] wait my pleasure. |
+| WALLENSTEIN | Prescribe to me with sword in hand! Go, Neumann!<br>'Tis my command that they retreat this moment,<br>And in their ranks in [[motifs/silence\|silence]] wait my pleasure. |
 | *(didascalia)* | [NEUMANN exit. ILLO steps to the [[motifs/window\|window]]. |
 | COUNTESS | Let him go, I entreat thee, let him go. |
 | ILLO | (at the [[motifs/window\|window]]). Hell and perdition! |
 | WALLENSTEIN | What is it? |
-| ILLO | They scale the council-[[house]], the roof's uncovered.<br>They level at this [[house]] the cannon —— |
+| ILLO | They scale the council-house, the roof's uncovered.<br>They level at this house the cannon —— |
 | MAX | Madmen! |
 | ILLO | They are making preparations now to [[motifs/fire\|fire]] on us. |
 | DUCHESS AND COUNTESS | Merciful Heaven! |
@@ -644,7 +644,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | COUNTESS | What! you know not?<br>Does not your own heart tell you? O! then I<br>Will tell it you. Your father is a traitor,<br>A frightful traitor to us — he has plotted<br>Against our General's life, has plunged us all<br>In misery — and you're his son! 'Tis yours<br>To make the amends — Make you the son's fidelity<br>Outweigh the father's treason, that the name<br>Of Piccolomini be not a proverb<br>Of infamy, a common form of cursing<br>To the posterity of Wallenstein. |
 | MAX | Where is that voice of [[concepts/truth\|truth]] which I dare follow?<br>It speaks no longer in my heart. We all<br>But utter what our passionate wishes dictate:<br>O that an angel would descend from Heaven,<br>And scoop for me the right, the uncorrupted,<br>With a pure hand from the pure Fount of Light. |
 | *(didascalia)* | [His eyes glance on THEKLA. |
-| MAX | What other angel seek I? To this heart,<br>To this unerring heart, will I submit it,<br>Will ask thy [[motifs/love\|love]], which has the power to bless<br>The happy man [[Alone\|alone]], averted ever<br>From the disquieted and guilty — canst thou<br>Still [[motifs/love\|love]] me, if I stay? Say that thou canst,<br>And I am the Duke's —— |
+| MAX | What other angel seek I? To this heart,<br>To this unerring heart, will I submit it,<br>Will ask thy [[motifs/love\|love]], which has the power to bless<br>The happy man alone, averted ever<br>From the disquieted and guilty — canst thou<br>Still [[motifs/love\|love]] me, if I stay? Say that thou canst,<br>And I am the Duke's —— |
 | COUNTESS | Think, niece —— |
 | MAX | Think nothing, Thekla!<br>Speak what thou feelest. |
 | COUNTESS | Think upon your father. |
@@ -725,7 +725,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | The Burgomaster's [[house\|House]] at Egra. |
+| *(didascalia)* | The Burgomaster's House at Egra. |
 | BUTLER | Here then he is, by his destiny conducted.<br>Here, Friedland! and no farther! From Bohemia<br>Thy meteor [[motifs/rose\|rose]], traversed the sky awhile,<br>And here upon the borders of Bohemia<br>Must sink.<br>Thou hast forsworn the ancient colours,<br>Blind man! yet trustest to thy ancient fortunes.<br>Profaner of the altar and the hearth,<br>Against thy Emperor and fellow-citizens<br>Thou mean'st to wage the war. Friedland, beware —<br>The evil spirit of [[concepts/revenge\|revenge]] impels thee —<br>Beware thou, that [[concepts/revenge\|revenge]] destroy thee not! |
 | *(didascalia)* | [Before 1] Butler (just arrived). 1800, 1828, 1829. |
 
@@ -742,9 +742,9 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | BUTLER | You have received the letter which I sent you<br>By a post-courier? |
 | GORDON | Yes! and in obedience to it<br>Opened the strong hold to him without scruple.<br>For an imperial letter orders me<br>To follow your commands implicitly.<br>But yet forgive me; when even now I saw<br>The Duke himself, my scruples recommenced.<br>For truly, not like an attainted man,<br>Into this town did Friedland make his entrance;<br>His wonted majesty beamed from his brow,<br>And calm, as in the days when all was right,<br>Did he receive from me the accounts of office;<br>'Tis said, that fallen [[concepts/pride\|pride]] learns condescension:<br>But sparing and with dignity the Duke<br>Weighed every syllable of approbation,<br>As masters praise a servant who has done<br>His duty, and no more. |
 | BUTLER | 'Tis all precisely<br>As I related in my letter. Friedland<br>Has sold the army to the enemy,<br>And pledged himself to give up Prague and Egra.<br>On this report the regiments all forsook him,<br>The five excepted that belong to Tertsky,<br>And which have followed him, as thou hast seen.<br>The sentence of attainder is passed on him,<br>And every loyal subject is required<br>To give him in to justice, dead or living. |
-| GORDON | A traitor to the Emperor — Such a noble!<br>Of such high talents! What is human [[concepts/greatness\|greatness]]!<br>I often said, this can't end happily.<br>His might, his [[concepts/greatness\|greatness]], and this obscure power<br>Are but a covered pit-fall. The human being<br>May not be trusted to [[concepts/self\|self]]-[[government]].<br>The clear and written law, the deep trod foot-marks<br>Of ancient custom, are all necessary<br>To keep him in the [[motifs/road\|road]] of [[concepts/faith\|faith]] and duty.<br>The authority entrusted to this man<br>Was unexampled and unnatural<br>It placed him on a level with his Emperor,<br>Till the proud [[motifs/soul\|soul]] unlearned submission. Wo is me;<br>I mourn for him! for where he fell, I deem<br>Might none stand firm. Alas! dear General,<br>We in our lucky mediocrity<br>Have ne'er experienced, cannot calculate,<br>What dangerous wishes such a height may breed<br>In the heart of such a man. |
+| GORDON | A traitor to the Emperor — Such a noble!<br>Of such high talents! What is human [[concepts/greatness\|greatness]]!<br>I often said, this can't end happily.<br>His might, his [[concepts/greatness\|greatness]], and this obscure power<br>Are but a covered pit-fall. The human being<br>May not be trusted to [[concepts/self\|self]]-government.<br>The clear and written law, the deep trod foot-marks<br>Of ancient custom, are all necessary<br>To keep him in the [[motifs/road\|road]] of [[concepts/faith\|faith]] and duty.<br>The authority entrusted to this man<br>Was unexampled and unnatural<br>It placed him on a level with his Emperor,<br>Till the proud [[motifs/soul\|soul]] unlearned submission. Wo is me;<br>I mourn for him! for where he fell, I deem<br>Might none stand firm. Alas! dear General,<br>We in our lucky mediocrity<br>Have ne'er experienced, cannot calculate,<br>What dangerous wishes such a height may breed<br>In the heart of such a man. |
 | BUTLER | Spare your laments<br>Till he need sympathy; for at this present<br>He is still mighty, and still formidable.<br>The Swedes advance to Egra by forced marches,<br>And quickly will the junction be accomplished.<br>This must not be! The Duke must never leave<br>This strong hold on free footing; for I have<br>Pledged life and [[concepts/honour\|honour]] here to hold him prisoner,<br>And your assistance 'tis on which I calculate. |
-| GORDON | O that I had not lived to see this day!<br>From his hand I received this dignity,<br>He did himself entrust this strong hold to me,<br>Which I am now required to make his dungeon.<br>We subalterns have no will of our own:<br>The free, the mighty man [[Alone\|alone]] may listen<br>To the fair impulse of his human [[concepts/nature\|nature]].<br>Ah! we are but the poor tools of the law,<br>Obedience the sole virtue we dare aim at! |
+| GORDON | O that I had not lived to see this day!<br>From his hand I received this dignity,<br>He did himself entrust this strong hold to me,<br>Which I am now required to make his dungeon.<br>We subalterns have no will of our own:<br>The free, the mighty man alone may listen<br>To the fair impulse of his human [[concepts/nature\|nature]].<br>Ah! we are but the poor tools of the law,<br>Obedience the sole virtue we dare aim at! |
 | BUTLER | Nay, let it not afflict you, that your power<br>Is circumscribed. Much liberty, much error!<br>The narrow path of duty is securest. |
 | GORDON | And all then have deserted him, you say?<br>He has built up the luck of many thousands;<br>For kingly was his spirit: his full hand<br>Was ever open! Many a one from [[motifs/dust\|dust]]<br>Hath he selected, from the very [[motifs/dust\|dust]]<br>Hath raised him into dignity and [[concepts/honour\|honour]].<br>And yet no friend, not one friend hath he purchased,<br>Whose heart beats true to him in the evil hour. |
 | BUTLER | Here's one, I see. |
@@ -782,7 +782,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | BURGOMASTER | With [[concepts/wonder\|wonder]] and affright! |
 | WALLENSTEIN | Whereof did two<br>Strangely transform themselves to bloody daggers.<br>And only one, the middle [[motifs/moon\|moon]], remained<br>Steady and clear. |
 | BURGOMASTER | We applied it to the Turks. |
-| WALLENSTEIN | The Turks! That all? — I tell you, that two empires<br>Will set in [[motifs/blood\|blood]], in the East and in the West,<br>And Luth'ranism [[Alone\|alone]] remain. |
+| WALLENSTEIN | The Turks! That all? — I tell you, that two empires<br>Will set in [[motifs/blood\|blood]], in the East and in the West,<br>And Luth'ranism alone remain. |
 | *(didascalia)* | [Observing GORDON and BUTLER. |
 | WALLENSTEIN | I'[[concepts/faith\|faith]],<br>'Twas a smart cannonading that we heard<br>This evening, as we journeyed hitherward;<br>'Twas on our left hand. Did you hear it here? |
 | GORDON | Distinctly. The [[motifs/wind\|wind]] brought it from the South. |
@@ -911,11 +911,11 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 |---|---|
 | *(didascalia)* | To these enter ILLO and TERTSKY. |
 | TERTSKY | Our luck is on the turn. To-morrow come<br>The Swedes — twelve thousand gallant warriors, Illo!<br>Then straightways for Vienna. Cheerily, friend!<br>What! meet such news with such a moody face? |
-| ILLO | It lies with us at present to prescribe<br>Laws, and take vengeance on those worthless traitors,<br>Those skulking cowards that deserted us;<br>One has already done his bitter penance<br>The Piccolomini, be his the fate<br>Of all who wish us evil! This flies sure<br>To the old man's heart; he has his whole life long<br>Fretted and toiled to raise his ancient [[house]]<br>From a Count's title to the name of Prince;<br>And now must seek a [[motifs/grave\|grave]] for his only son. |
+| ILLO | It lies with us at present to prescribe<br>Laws, and take vengeance on those worthless traitors,<br>Those skulking cowards that deserted us;<br>One has already done his bitter penance<br>The Piccolomini, be his the fate<br>Of all who wish us evil! This flies sure<br>To the old man's heart; he has his whole life long<br>Fretted and toiled to raise his ancient house<br>From a Count's title to the name of Prince;<br>And now must seek a [[motifs/grave\|grave]] for his only son. |
 | BUTLER | 'Twas pity though! A youth of such heroic<br>And gentle temperament! The Duke himself,<br>'Twas easily seen, how near it went to his heart. |
 | ILLO | Hark'e, old friend! That is the very point<br>That never pleased me in our General —<br>He ever gave the preference to the Italians.<br>Yea, at this very moment, by my [[motifs/soul\|soul]]!<br>He'd gladly see us all dead ten times over,<br>Could he thereby recall his friend to life. |
 | TERTSKY | Hush, hush! Let the dead rest! This evening's business<br>Is, who can fairly drink the other down —<br>Your regiment, Illo! gives the entertainment.<br>Come! we will keep a merry carnival —<br>The [[motifs/night\|night]] for once be day, and mid full glasses<br>Will we expect the Swedish Avantgarde. |
-| ILLO | Yes, let us be of good cheer for to-day,<br>For there's hot work before us, friends! This [[Sword\|sword]]<br>Shall have no rest, till it be bathed to the hilt<br>In Austrian [[motifs/blood\|blood]]. |
+| ILLO | Yes, let us be of good cheer for to-day,<br>For there's hot work before us, friends! This sword<br>Shall have no rest, till it be bathed to the hilt<br>In Austrian [[motifs/blood\|blood]]. |
 | GORDON | Shame, shame! what talk is this,<br>My Lord Field Marshal? Wherefore foam you so<br>Against your Emperor? |
 | BUTLER | [[concepts/hope\|Hope]] not too much<br>From this first victory. Bethink you, sirs!<br>How rapidly the [[motifs/wheel\|wheel]] of Fortune turns;<br>The Emperor still is formidably strong. |
 | ILLO | The Emperor has soldiers, no commander,<br>For this [[archetypes/king\|King]] [[characters/ferdinand\|Ferdinand]] of Hungary<br>Is but a tyro. Galas? He's no luck,<br>And was of old the ruiner of armies.<br>And then this viper, this Octavio,<br>Is excellent at stabbing in the back,<br>But ne'er meets Friedland in the open field. |
@@ -946,7 +946,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | BUTLER | You have heard already,<br>To-morrow to the Swedes belongs. This [[motifs/night\|night]]<br>[[works/alone-(poe)\|Alone]] is ours. They make good expedition.<br>But we will make still greater. Fare you [[motifs/well\|well]]. |
 | GORDON | Ah! your looks tell me nothing good. Nay, Butler,<br>I pray you, promise me! |
 | BUTLER | The sun has set;<br>A fateful evening doth descend upon us,<br>And brings on their long [[motifs/night\|night]]! Their evil [[motifs/stars\|stars]]<br>Deliver them unarmed into our hands.<br>And from their drunken dream of golden fortunes<br>The dagger at their heart shall rouse them. [[motifs/well\|Well]],<br>The Duke was ever a great calculator;<br>His fellow-men were figures on his chess-board,<br>To move and station, as his game required.<br>Other men's [[concepts/honour\|honour]], dignity, good name,<br>Did he shift like pawns, and made no [[concepts/conscience\|conscience]] of it:<br>Still calculating, calculating still;<br>And yet at last his calculation proves<br>Erroneous; the whole game is lost; and lo!<br>His own life will be found among the forfeits. |
-| GORDON | O think not of his errors now; remember<br>His [[concepts/greatness\|greatness]], his munificence, think on all<br>The lovely features of his character,<br>On all the noble exploits of his life,<br>And let them, like an angel's arm, unseen<br>Arrest the lifted [[Sword\|sword]]. |
+| GORDON | O think not of his errors now; remember<br>His [[concepts/greatness\|greatness]], his munificence, think on all<br>The lovely features of his character,<br>On all the noble exploits of his life,<br>And let them, like an angel's arm, unseen<br>Arrest the lifted sword. |
 | BUTLER | It is too late.<br>I suffer not myself to feel compassion,<br>Dark thoughts and bloody are my duty now: |
 | *(didascalia)* | [Grasping GORDON'S hand. |
 | BUTLER | Gordon! 'Tis not my hatred (I pretend not<br>To [[motifs/love\|love]] the Duke, and have no cause to [[motifs/love\|love]] him)<br>Yet 'tis not now my hatred that impels me<br>To be his murderer. 'Tis his evil fate.<br>Hostile concurrences of many events<br>Control and subjugate me to the office.<br>In vain the human being meditates<br>Free action. He is but the wire-worked puppet<br>Of the blind power, which out of his own choice<br>Creates for him a dread necessity.<br>What too would it avail him, if there were<br>A something pleading for him in my heart —<br>Still I must kill him. |
@@ -969,8 +969,8 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | Butler ([[Alone\|alone]]). |
-| BUTLER | I treasured my good name all my life long;<br>The Duke has cheated me of life's best [[motifs/jewel\|jewel]],<br>So that I blush before this poor weak Gordon!<br>He prizes above all his fealty;<br>His conscious [[motifs/soul\|soul]] accuses him of nothing;<br>In opposition to his own soft heart<br>He subjugates himself to an iron duty.<br>Me in a weaker moment passion warped;<br>I stand beside him, and must feel myself<br>The worst man of the two. What though the world<br>Is ignorant of my purposed treason, yet<br>One man does know it, and can prove it too —<br>High-minded Piccolomini!<br>There lives the man who can dishonour me!<br>This ignominy [[motifs/blood\|blood]] [[Alone\|alone]] can cleanse!<br>Duke Friedland, thou or I — Into my own hands<br>Fortune delivers me — The dearest thing a man has is himself. |
+| *(didascalia)* | Butler (alone). |
+| BUTLER | I treasured my good name all my life long;<br>The Duke has cheated me of life's best [[motifs/jewel\|jewel]],<br>So that I blush before this poor weak Gordon!<br>He prizes above all his fealty;<br>His conscious [[motifs/soul\|soul]] accuses him of nothing;<br>In opposition to his own soft heart<br>He subjugates himself to an iron duty.<br>Me in a weaker moment passion warped;<br>I stand beside him, and must feel myself<br>The worst man of the two. What though the world<br>Is ignorant of my purposed treason, yet<br>One man does know it, and can prove it too —<br>High-minded Piccolomini!<br>There lives the man who can dishonour me!<br>This ignominy [[motifs/blood\|blood]] alone can cleanse!<br>Duke Friedland, thou or I — Into my own hands<br>Fortune delivers me — The dearest thing a man has is himself. |
 | *(didascalia)* | (The curtain drops.) |
 
 
@@ -1000,7 +1000,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | DEVEREUX | What's to be the watchword? |
 | BUTLER | Long live the Emperor! |
 | BOTH | How? |
-| BUTLER | Live the [[house\|House]] of Austria! |
+| BUTLER | Live the House of Austria! |
 | DEVEREUX | Have we not sworn fidelity to Friedland? |
 | MACDONALD | Have we not marched to this place to protect him? |
 | BUTLER | Protect a traitor, and his country's enemy! |
@@ -1073,7 +1073,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | BUTLER | 'Tis given in trust to Major Geraldin;<br>This is a carnival [[motifs/night\|night]], and there's a feast<br>Given at the [[settings/castle\|castle]] — there we shall surprise them,<br>And hew them down. The Pestalutz and Lesley<br>Have that commission — soon as that is finished — |
 | DEVEREUX | Hear, General! It will be all one to you.<br>Hark'e! let me exchange with Geraldin. |
 | BUTLER | 'Twill be the lesser danger with the Duke. |
-| DEVEREUX | Danger! The devil! What do you think me, General?<br>'Tis the Duke's eye, and not his [[Sword\|sword]], I [[concepts/fear\|fear]]. |
+| DEVEREUX | Danger! The devil! What do you think me, General?<br>'Tis the Duke's eye, and not his sword, I [[concepts/fear\|fear]]. |
 | BUTLER | What can his eye do to thee? |
 | DEVEREUX | [[motifs/death\|Death]] and hell!<br>Thou know'st that I'm no milk-sop, General!<br>But 'tis not eight days since the Duke did send me<br>Twenty gold pieces for this good warm coat<br>Which I have on! and then for him to see me<br>Standing before him with the pike, his murderer,<br>That eye of his looking upon this coat —<br>Why — why — the devil fetch me! I'm no milk-sop! |
 | BUTLER | The Duke presented thee this good warm coat,<br>And thou, a needy wight, hast pangs of [[concepts/conscience\|conscience]]<br>To run him through the [[concepts/body\|body]] in return.<br>A coat that is far better and far warmer<br>Did the Emperor give to him, the Prince's mantle.<br>How doth he thank the Emperor? With revolt,<br>And treason. |
@@ -1082,18 +1082,18 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | DEVEREUX | You are right.<br>That did not strike me. I'll pull off the coat —<br>So there's an end of it. |
 | MACDONALD | Yes, but there's another<br>Point to be thought of. |
 | BUTLER | And what's that, Macdonald? |
-| MACDONALD | What avails [[Sword\|sword]] or dagger against him?<br>He is not to be wounded — he is — |
+| MACDONALD | What avails sword or dagger against him?<br>He is not to be wounded — he is — |
 | BUTLER | What? |
 | MACDONALD | Safe against shot, and stab and flash! Hard frozen,<br>Secured, and warranted by the black art!<br>His [[concepts/body\|body]] is impenetrable, I tell you. |
 | DEVEREUX | In Inglestadt there was just such another —<br>His whole skin was the same as steel; at last<br>We were obliged to beat him down with gunstocks. |
 | MACDONALD | Hear what I'll do. |
 | DEVEREUX | [[motifs/well\|Well]]? |
-| MACDONALD | In the cloister here<br>There's a Dominican, my countryman.<br>I'll make him dip my [[Sword\|sword]] and pike for me<br>In holy [[motifs/water\|water]], and say over them<br>One of his strongest blessings. That's probatum!<br>Nothing can stand 'gainst that. |
-| BUTLER | So do, Macdonald!<br>But now go and select from out the regiment<br>Twenty or thirty able-bodied fellows,<br>And let them take the oaths to the Emperor.<br>Then when it strikes eleven, when the first rounds<br>Are passed, conduct them silently as may be<br>To the [[house]] — I will myself be not far off. |
+| MACDONALD | In the cloister here<br>There's a Dominican, my countryman.<br>I'll make him dip my sword and pike for me<br>In holy [[motifs/water\|water]], and say over them<br>One of his strongest blessings. That's probatum!<br>Nothing can stand 'gainst that. |
+| BUTLER | So do, Macdonald!<br>But now go and select from out the regiment<br>Twenty or thirty able-bodied fellows,<br>And let them take the oaths to the Emperor.<br>Then when it strikes eleven, when the first rounds<br>Are passed, conduct them silently as may be<br>To the house — I will myself be not far off. |
 | DEVEREUX | But how do we get through Hartschier and Gordon,<br>That stand on guard there in the inner chamber? |
 | BUTLER | I have made myself acquainted with the place.<br>I lead you through a back-door that's defended<br>By one man only. Me my rank and office<br>Give access to the Duke at every hour.<br>I'll go before you — with one poniard-stroke<br>Cut Hartschier's [[motifs/wind\|wind]]-pipe, and make way for you. |
 | DEVEREUX | And when we are there, by what means shall we gain<br>The Duke's bed-chamber, without his alarming<br>The servants of the [[settings/court\|Court]]; for he has here<br>A numerous company of followers? |
-| BUTLER | The attendants fill the right wing; he hates bustle,<br>And lodges in the left wing quite [[Alone\|alone]]. |
+| BUTLER | The attendants fill the right wing; he hates bustle,<br>And lodges in the left wing quite alone. |
 | DEVEREUX | Were it [[motifs/well\|well]] over — hey, Macdonald? I<br>Feel queerly on the occasion, devil knows! |
 | MACDONALD | And I too. 'Tis too great a personage.<br>People will hold us for a brace of villains. |
 | BUTLER | In plenty, [[concepts/honour\|honour]], splendour — You may safely<br>Laugh at the people's babble. |
@@ -1147,8 +1147,8 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | WALLENSTEIN | I see she is in the right, and am inclined<br>To grant her this request of hers. Go, call him. |
 | *(didascalia)* | [LADY NEUBRUNN goes to call him. |
 | DUCHESS | But I, thy mother, will be present — |
-| THEKLA | 'Twere<br>More pleasing to me, if [[Alone\|alone]] I saw him:<br>Trust me, I shall behave myself the more<br>Collectedly. |
-| WALLENSTEIN | Permit her her own will.<br>Leave her [[Alone\|alone]] with him: for there are sorrows,<br>Where of necessity the [[motifs/soul\|soul]] must be<br>Its own support. A strong heart will rely<br>On its own strength [[Alone\|alone]]. In her own bosom,<br>Not in her mother's arms, must she collect<br>The strength to rise superior to this blow.<br>It is mine own brave girl. I'll have her treated<br>Not as the woman, but the heroine. |
+| THEKLA | 'Twere<br>More pleasing to me, if alone I saw him:<br>Trust me, I shall behave myself the more<br>Collectedly. |
+| WALLENSTEIN | Permit her her own will.<br>Leave her alone with him: for there are sorrows,<br>Where of necessity the [[motifs/soul\|soul]] must be<br>Its own support. A strong heart will rely<br>On its own strength alone. In her own bosom,<br>Not in her mother's arms, must she collect<br>The strength to rise superior to this blow.<br>It is mine own brave girl. I'll have her treated<br>Not as the woman, but the heroine. |
 | *(didascalia)* | [Going. |
 | COUNTESS | (detaining him). Where art thou going? I heard Tertsky say<br>That 'tis thy purpose to depart from hence<br>To-morrow early, but to leave us here. |
 | WALLENSTEIN | Yes, ye stay here, placed under the protection<br>Of gallant men. |
@@ -1157,7 +1157,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | COUNTESS | Then take us with you.<br>O leave us not behind you in a place<br>That forces us to such sad omens. Heavy<br>And sick within me is my heart ——<br>These walls breathe on me, like a church-yard vault.<br>I cannot tell you, brother, how this place<br>Doth go against my [[concepts/nature\|nature]]. Take us with you.<br>Come, sister, join you your entreaty! — Niece,<br>Yours too. We all entreat you, take us with you! |
 | WALLENSTEIN | The place's evil omens will I change,<br>Making it that which shields and shelters for me<br>My best beloved. |
 | LADY NEUBRUNN | (returning). The Swedish officer. |
-| WALLENSTEIN | Leave her [[Alone\|alone]] with him. |
+| WALLENSTEIN | Leave her alone with him. |
 | *(didascalia)* | [Exit. |
 | DUCHESS | (to Thekla who starts and shivers). There — pale as<br>[[motifs/death\|death]]! — [[archetypes/child\|Child]], 'tis impossible<br>That thou should'st speak with him. Follow thy mother. |
 | THEKLA | The Lady Neubrunn then may stay with me. |
@@ -1190,7 +1190,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | THEKLA | 'Tis over.<br>Proceed to the conclusion. |
 | CAPTAIN | Wild [[concepts/despair\|despair]]<br>Inspired the troops with frenzy when they saw<br>Their leader perish; every thought of rescue<br>Was spurn'd; they fought like wounded tigers; their<br>Frantic resistance rous'd our soldiery;<br>A murderous fight took place, nor was the contest<br>Finish'd before their last man fell. |
 | THEKLA | And where ——<br>Where is — You have not told me all. |
-| CAPTAIN | This morning<br>We buried him. Twelve youths of noblest birth<br>Did bear him to interment; the whole army<br>Followed the bier. A laurel decked his coffin;<br>The [[Sword\|sword]] of the deceased was placed upon it,<br>In mark of [[concepts/honour\|honour]], by the Rhinegrave's [[concepts/self\|self]].<br>Nor [[motifs/tears\|tears]] were wanting; for there are among us<br>Many, who had themselves experienced<br>The [[concepts/greatness\|greatness]] of his mind, and gentle manners;<br>All were affected at his fate. The Rhinegrave<br>Would willingly have saved him; but himself<br>Made vain the attempt—'tis said he wished to die. |
+| CAPTAIN | This morning<br>We buried him. Twelve youths of noblest birth<br>Did bear him to interment; the whole army<br>Followed the bier. A laurel decked his coffin;<br>The sword of the deceased was placed upon it,<br>In mark of [[concepts/honour\|honour]], by the Rhinegrave's [[concepts/self\|self]].<br>Nor [[motifs/tears\|tears]] were wanting; for there are among us<br>Many, who had themselves experienced<br>The [[concepts/greatness\|greatness]] of his mind, and gentle manners;<br>All were affected at his fate. The Rhinegrave<br>Would willingly have saved him; but himself<br>Made vain the attempt—'tis said he wished to die. |
 | NEUBRUNN | Look up, my dearest lady —— |
 | THEKLA | Where is his [[motifs/grave\|grave]]? |
 | CAPTAIN | At Neustadt, lady; in a cloister church<br>Are his remains deposited, until<br>We can receive directions from his father. |
@@ -1229,7 +1229,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | THEKLA | That [[motifs/time\|time]] is past ——<br>And now I [[concepts/fear\|fear]] no human being's rage. |
 | NEUBRUNN | The sentence of the world! The tongue of calumny! |
 | THEKLA | Whom am I seeking? Him who is no more.<br>Am I then hastening to the arms —— O God!<br>I haste but to the [[motifs/grave\|grave]] of the beloved. |
-| NEUBRUNN | And we [[Alone\|alone]], two helpless feeble women? |
+| NEUBRUNN | And we alone, two helpless feeble women? |
 | THEKLA | We will take weapons: my arms shall protect thee. |
 | NEUBRUNN | In the dark [[motifs/night\|night]]-[[motifs/time\|time]]? |
 | THEKLA | Darkness will conceal us. |
@@ -1305,7 +1305,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | COUNTESS | Thou speakest<br>Of Piccolomini. What was his [[motifs/death\|death]]?<br>The courier had just left thee as I came. |
 | *(didascalia)* | [WALLENSTEIN by a motion of his hand makes signs to her to be silent. |
 | COUNTESS | Turn not thine eyes upon the backward view,<br>Let us look forward into sunny days,<br>Welcome with joyous heart the victory,<br>Forget what it has cost thee. Not to-day,<br>For the first [[motifs/time\|time]], thy friend was to thee dead;<br>To thee he died, when first he parted from thee. |
-| WALLENSTEIN | I shall grieve down this blow, of that I'm conscious.<br>What does not man grieve down? From the highest,<br>As from the vilest thing of every day<br>He learns to wean himself: for the strong hours<br>Conquer him. Yet I feel what I have lost<br>In him. The bloom is vanished from my life.<br>For O! he stood beside me, like my youth,<br>Transformed for me the real to [[A Dream\|a dream]],<br>Clothing the palpable and familiar<br>With golden exhalations of the [[motifs/dawn\|dawn]].<br>Whatever fortunes wait my future toils,<br>The beautiful is vanished — and returns not. |
+| WALLENSTEIN | I shall grieve down this blow, of that I'm conscious.<br>What does not man grieve down? From the highest,<br>As from the vilest thing of every day<br>He learns to wean himself: for the strong hours<br>Conquer him. Yet I feel what I have lost<br>In him. The bloom is vanished from my life.<br>For O! he stood beside me, like my youth,<br>Transformed for me the real to a dream,<br>Clothing the palpable and familiar<br>With golden exhalations of the [[motifs/dawn\|dawn]].<br>Whatever fortunes wait my future toils,<br>The beautiful is vanished — and returns not. |
 | COUNTESS | O be not treacherous to thy own power.<br>Thy heart is rich enough to vivify<br>Itself. Thou lov'st and prizest virtues in him,<br>The which thyself did'st plant, thyself unfold. |
 | WALLENSTEIN | Who interrupts us now at this late hour?<br>It is the Governor. He brings the keys<br>Of the Citadel. 'Tis midnight. Leave me, sister! |
 | COUNTESS | O 'tis so hard to me this [[motifs/night\|night]] to leave thee —<br>A boding [[concepts/fear\|fear]] possesses me! |
@@ -1313,7 +1313,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | COUNTESS | Should'st thou depart this [[motifs/night\|night]], and we at waking<br>Never more find thee! |
 | WALLENSTEIN | Fancies! |
 | COUNTESS | O my [[motifs/soul\|soul]]<br>Has long been weighed down by these dark forebodings.<br>And if I combat and repel them waking,<br>They still rush down upon my heart in [[motifs/dreams\|dreams]],<br>I saw thee yesternight with thy first wife<br>Sit at a banquet gorgeously attired. |
-| WALLENSTEIN | This was [[A Dream\|a dream]] of favourable omen,<br>That [[motifs/marriage\|marriage]] being the founder of my fortunes. |
+| WALLENSTEIN | This was a dream of favourable omen,<br>That [[motifs/marriage\|marriage]] being the founder of my fortunes. |
 | COUNTESS | To-day I dreamt that I was seeking thee<br>In thy own chamber. As I entered, lo!<br>It was no more a chamber; the Chartreuse<br>At Gitschin 'twas, which thou thyself hast founded,<br>And where it is thy will that thou should'st be<br>Interred. |
 | WALLENSTEIN | Thy [[motifs/soul\|soul]] is busy with these thoughts. |
 | COUNTESS | What dost thou not believe that oft in [[motifs/dreams\|dreams]]<br>A voice of warning speaks prophetic to us? |
@@ -1388,7 +1388,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | WALLENSTEIN | [[characters/baptista\|Baptista]], thou art dreaming! — [[concepts/fear\|Fear]] befools thee. |
 | SENI | Believe not that an empty [[concepts/fear\|fear]] deludes me.<br>Come, read it in the planetary aspects;<br>Read it thyself, that ruin threatens thee<br>From false friends! |
 | WALLENSTEIN | From the falseness of my friends<br>Has risen the whole of my unprosperous fortunes.<br>The warning should have come before! At present<br>I need no revelation from the [[motifs/stars\|stars]]<br>To know that. |
-| SENI | Come and see! trust thine own eyes!<br>A fearful sign stands in the [[house]] of life;<br>An enemy, a fiend lurks close behind<br>The radiance of thy planet — O be warned!<br>Deliver not thyself up to these heathens<br>To wage a war against our holy church. |
+| SENI | Come and see! trust thine own eyes!<br>A fearful sign stands in the house of life;<br>An enemy, a fiend lurks close behind<br>The radiance of thy planet — O be warned!<br>Deliver not thyself up to these heathens<br>To wage a war against our holy church. |
 | WALLENSTEIN | The oracle rails that way! Yes,<br>yes! Now<br>I recollect. This junction with the Swedes<br>Did never please thee — lay thyself to [[motifs/sleep\|sleep]],<br>[[characters/baptista\|Baptista]]! Signs like these I do not [[concepts/fear\|fear]]. |
 | *(didascalia)* | Gordon (who during the whole of this dialogue has shewn marks of extreme agitation, and now turns to Wallenstein). |
 | GORDON | My Duke and<br>General! May I dare presume? |
@@ -1421,7 +1421,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | BUTLER | Here stand in [[motifs/silence\|silence]]<br>till I give the signal. |
 | GORDON | 'Tis he, he has already brought the murderers. |
 | BUTLER | The lights are out. All lies in profound [[motifs/sleep\|sleep]]. |
-| GORDON | What shall I do, shall I attempt to save him?<br>Shall I call up the [[house]]? Alarm the guards? |
+| GORDON | What shall I do, shall I attempt to save him?<br>Shall I call up the house? Alarm the guards? |
 | BUTLER | A light gleams hither<br>from the corridor.<br>It leads directly to the Duke's bedchamber. |
 | GORDON | But then I break my oath to the Emperor;<br>If he escape and strengthen the enemy,<br>Do I not hereby call down on my head<br>All the dread consequences? |
 | BUTLER | Hark! Who speaks there? |
@@ -1486,7 +1486,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 | Speaker | Line |
 |---|---|
-| COUNTESS TERTSKY | Her bed-chamber is empty; she<br>herself<br>Is no where to be found! The Neubrunn too,<br>Who watched by her, is missing. If she should<br>Be flown — But whither flown? We must call up<br>Every [[motifs/soul\|soul]] in the [[house]]. How will the Duke<br>Bear up against these worst bad tidings? O<br>If that my husband now were but returned<br>[[motifs/home\|Home]] from the banquet: Hark! I [[concepts/wonder\|wonder]] whether<br>The Duke is still awake! I thought I heard<br>Voices and tread of feet here! I will go<br>And listen at the door. Hark! What is that?<br>'Tis hastening up the steps! |
+| COUNTESS TERTSKY | Her bed-chamber is empty; she<br>herself<br>Is no where to be found! The Neubrunn too,<br>Who watched by her, is missing. If she should<br>Be flown — But whither flown? We must call up<br>Every [[motifs/soul\|soul]] in the house. How will the Duke<br>Bear up against these worst bad tidings? O<br>If that my husband now were but returned<br>[[motifs/home\|Home]] from the banquet: Hark! I [[concepts/wonder\|wonder]] whether<br>The Duke is still awake! I thought I heard<br>Voices and tread of feet here! I will go<br>And listen at the door. Hark! What is that?<br>'Tis hastening up the steps! |
 
 
 
@@ -1533,8 +1533,8 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | SENI | And do you ask?<br>Within the Duke lies murder'd — and your husband<br>Assassinated at the [[settings/castle\|Castle]]. |
 | *(didascalia)* | [The COUNTESS stands motionless. |
 | FEMALE SERVANT *(rushing across the stage)* | Help! Help! the Duchess! |
-| BURGOMASTER *(enters)* | What mean these confused<br>Loud cries, that wake the sleepers of this [[house]]? |
-| GORDON | Your [[house]] is cursed to all [[concepts/eternity\|eternity]].<br>In your [[house]] doth the Duke lie murdered! |
+| BURGOMASTER *(enters)* | What mean these confused<br>Loud cries, that wake the sleepers of this house? |
+| GORDON | Your house is cursed to all [[concepts/eternity\|eternity]].<br>In your house doth the Duke lie murdered! |
 | BURGOMASTER *(rushing out)* | Heaven forbid! |
 | FIRST SERVANT | Fly! fly! they murder us all! |
 | SECOND SERVANT *(carrying silver plate)* | That way! The lower<br>Passages are blocked up. |
@@ -1553,7 +1553,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | *(didascalia)* | To these enters OCTAVIO PICCOLOMINI with all his train. At the same [[motifs/time\|time]] DEVEREUX and MACDONALD enter from out the Corridor with the Halberdiers. WALLENSTEIN'S dead [[concepts/body\|body]] is carried over the back part of the stage, wrapped in a piece of crimson tapestry. |
 | OCTAVIO | It must not be! It is not possible!<br>Butler! Gordon!<br>I'll not believe it. Say no! |
 | *(didascalia)* | [GORDON without answering points with his hand to the [[concepts/body\|body]] of WALLENSTEIN as it is carried over the back of the stage. OCTAVIO looks that way, and stands overpowered with horror. |
-| DEVEREUX | Here is the golden fleece — the Duke's [[Sword\|sword]] — |
+| DEVEREUX | Here is the golden fleece — the Duke's sword — |
 | MACDONALD | Is it your order — |
 | BUTLER | Here stands he who now<br>Hath the sole power to issue orders. |
 | *(didascalia)* | [DEVEREUX and MACDONALD retire with marks of obeisance. One drops away after the other, till only BUTLER, OCTAVIO, and GORDON remain on the stage. |
@@ -1562,7 +1562,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 | OCTAVIO | Merciless man!<br>Thus to abuse the orders of thy Lord —<br>And stain thy Emperor's holy name with murder,<br>With bloody, most accursed assassination! |
 | BUTLER | I've but fulfilled the Emperor's own sentence. |
 | OCTAVIO | O curse of Kings,<br>Infusing a dread life into their words,<br>And linking to the sudden transient thought<br>The unchangeable irrevocable deed.<br>Was there necessity for such an eager<br>Despatch? Could'st thou not grant the merciful<br>A [[motifs/time\|time]] for [[concepts/mercy\|mercy]]? [[motifs/time\|Time]] is man's good Angel.<br>To leave no interval between the sentence,<br>And the fulfilment of it, doth beseem<br>God only, the immutable! |
-| BUTLER | For what<br>Rail you against me? What is my offence?<br>The Empire from a fearful enemy<br>Have I delivered, and expect reward.<br>The single difference betwixt you and me<br>Is this: you placed the arrow in the bow;<br>I pulled the string. You sowed [[motifs/blood\|blood]], and yet stand<br>Astonished that [[motifs/blood\|blood]] is come up. I always<br>Knew what I did, and therefore no result<br>Hath power to frighten or surprise my spirit.<br>Have you aught else to order? — for this instant<br>I make my best [[characters/speed\|speed]] to Vienna; place<br>My bleeding [[Sword\|sword]] before my Emperor's throne,<br>And [[concepts/hope\|hope]] to gain the applause which undelaying<br>And punctual obedience may demand<br>From a just judge. |
+| BUTLER | For what<br>Rail you against me? What is my offence?<br>The Empire from a fearful enemy<br>Have I delivered, and expect reward.<br>The single difference betwixt you and me<br>Is this: you placed the arrow in the bow;<br>I pulled the string. You sowed [[motifs/blood\|blood]], and yet stand<br>Astonished that [[motifs/blood\|blood]] is come up. I always<br>Knew what I did, and therefore no result<br>Hath power to frighten or surprise my spirit.<br>Have you aught else to order? — for this instant<br>I make my best [[characters/speed\|speed]] to Vienna; place<br>My bleeding sword before my Emperor's throne,<br>And [[concepts/hope\|hope]] to gain the applause which undelaying<br>And punctual obedience may demand<br>From a just judge. |
 | *(didascalia)* | [Exit BUTLER. |
 | *(didascalia)* | [Before 15] Butler (calmly). 1800, 1828, 1829. |
 
@@ -1576,17 +1576,17 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 |---|---|
 | *(didascalia)* | To these enter the COUNTESS TERTSKY, pale and disordered. Her utterance<br>is slow and feeble, and unimpassioned. |
 | OCTAVIO | O Countess Tertsky! These are the results<br>Of luckless unblest deeds. |
-| COUNTESS | They are the fruits<br>Of your contrivances. The Duke is dead,<br>My husband too is dead, the Duchess struggles<br>In the pangs of [[motifs/death\|death]], my niece has disappeared.<br>This [[house]] of splendour, and of princely glory,<br>Doth now stand desolated: the affrighted servants<br>Rush forth through all its doors. I am the last<br>Therein; I shut it up, and here deliver<br>The keys. |
-| OCTAVIO | O Countess! my [[house]] too is desolate. |
+| COUNTESS | They are the fruits<br>Of your contrivances. The Duke is dead,<br>My husband too is dead, the Duchess struggles<br>In the pangs of [[motifs/death\|death]], my niece has disappeared.<br>This house of splendour, and of princely glory,<br>Doth now stand desolated: the affrighted servants<br>Rush forth through all its doors. I am the last<br>Therein; I shut it up, and here deliver<br>The keys. |
+| OCTAVIO | O Countess! my house too is desolate. |
 | COUNTESS | Who next is to be murdered? Who is next<br>To be maltreated? Lo! The Duke is dead.<br>The Emperor's vengeance may be pacified!<br>Spare the old servants; let not their fidelity<br>Be imputed to the faithful as a crime —<br>The evil destiny surprised my brother<br>Too suddenly; he could not think on them. |
 | OCTAVIO | Speak not of vengeance! Speak not of maltreatment!<br>The Emperor is appeased; the heavy fault<br>Hath heavily been expiated — nothing<br>Descended from the father to the daughter,<br>Except his glory and his services.<br>The Empress honours your adversity,<br>Takes part in your afflictions, opens to you<br>Her motherly arms! Therefore no farther fears!<br>Yield yourself up in [[concepts/hope\|hope]] and confidence<br>To the Imperial Grace! |
 | COUNTESS | To the grace and [[concepts/mercy\|mercy]] of a greater Master<br>Do I yield up myself. Where shall the [[concepts/body\|body]]<br>Of the Duke have its place of final rest?<br>In the Chartreuse, which he himself did found,<br>At Gitschin rests the Countess Wallenstein;<br>And by her side, to whom he was indebted<br>For his first fortunes, gratefully he wished<br>He might sometime repose in [[motifs/death\|death]]! O let him<br>Be buried there. And likewise, for my husband's<br>Remains, I ask the like grace. The Emperor<br>Is now proprietor of all our castles.<br>This sure may [[motifs/well\|well]] be granted us — one sepulchre<br>Beside the sepulchres of our forefathers! |
 | OCTAVIO | Countess, you tremble, you turn pale! |
-| COUNTESS | You think<br>More worthily of me, than to believe<br>I would survive the downfall of my [[house]].<br>We did not hold ourselves too mean to grasp<br>After a monarch's [[motifs/crown\|crown]] — the [[motifs/crown\|crown]] did fate<br>Deny, but not the feeling and the spirit<br>That to the [[motifs/crown\|crown]] belong! We deem a<br>Courageous [[motifs/death\|death]] more worthy of our free station<br>Than a dishonoured life. — I have taken [[motifs/poison\|poison]]. |
+| COUNTESS | You think<br>More worthily of me, than to believe<br>I would survive the downfall of my house.<br>We did not hold ourselves too mean to grasp<br>After a monarch's [[motifs/crown\|crown]] — the [[motifs/crown\|crown]] did fate<br>Deny, but not the feeling and the spirit<br>That to the [[motifs/crown\|crown]] belong! We deem a<br>Courageous [[motifs/death\|death]] more worthy of our free station<br>Than a dishonoured life. — I have taken [[motifs/poison\|poison]]. |
 | OCTAVIO | Help! Help! Support her! |
 | COUNTESS | Nay, it is too late.<br>In a few moments is my fate accomplished. |
 | *(didascalia)* | [Exit COUNTESS.] |
-| GORDON | O [[house]] of [[motifs/death\|death]] and horrors! |
+| GORDON | O house of [[motifs/death\|death]] and horrors! |
 | *(didascalia)* | [An officer enters, and brings a letter with the great seal.] |
 | GORDON | What is this?<br>It is the Imperial Seal. |
 | *(didascalia)* | [He reads the Address, and delivers the letter to OCTAVIO<br>with a look of reproach, and with an emphasis on the word.] |

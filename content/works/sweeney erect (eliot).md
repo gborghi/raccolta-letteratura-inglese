@@ -23,11 +23,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Antihero
+**Archetypes:** [[archetypes/antihero|Antihero]]
 **Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/grotesque|Grotesque]], [[concepts/lust-sexual-desire|Lust Sexual Desire]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
-**Characters:** Sweeney
+**Characters:** [[characters/sweeney|Sweeney]]
 
 ## Testo integrale / Full text
 

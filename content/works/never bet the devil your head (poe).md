@@ -43,11 +43,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Satanic Figure, Fool
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/death|Death]], [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/temptation|Temptation]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grotesque|Grotesque]], [[concepts/artist-and-society|Artist and Society]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/fable|Fable]], [[forms/short-story|Short Story]]
-**Characters:** Satan
+**Characters:** [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

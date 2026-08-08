@@ -58,15 +58,15 @@ The Merry Wives of Windsor
 | EVANS | Sì, per la Matonna. Se ha un quarto del vostro stemma, non restano che tre falde per voi, secondo le mie semplici congetture. Ma è tutt’uno. Se Sir John [[characters/falstaff\|Falstaff]] ha commesso tisprezzamenti contro di voi, io sono della Chiesa, e sarò lieto di prestare la mia penevolenza per fare espiazioni e compromessi tra voi. |
 | SHALLOW | Il Consiglio ne sarà informato; è una sommossa. |
 | EVANS | Non è confeniente che il Consiglio senta una sommossa. Non c’è [[concepts/fear\|timore]] di Tio in una sommossa. Il Consiglio, fedete, [[motifs/desire\|tesitererà]] udire il [[concepts/fear\|timore]] di Tio, e non udire una sommossa. Prendete i vostri ’fvisamenti su questo. |
-| SHALLOW | Ah! Sulla mia vita, se fossi giovane ancora, la [[Sword\|spada]] la finirebbe. |
-| EVANS | È meglio che gli amici siano la [[Sword\|spata]] e la finiscano. E c’è anche un altro tisegno nel mio cerfello, che forse porta con sé pone tiscrezioni. C’è [[characters/anne-page\|Anne Page]] che è figlia di mastro George Page, che è graziosa ferginità. |
+| SHALLOW | Ah! Sulla mia vita, se fossi giovane ancora, la spada la finirebbe. |
+| EVANS | È meglio che gli amici siano la spata e la finiscano. E c’è anche un altro tisegno nel mio cerfello, che forse porta con sé pone tiscrezioni. C’è [[characters/anne-page\|Anne Page]] che è figlia di mastro George Page, che è graziosa ferginità. |
 | SLENDER | Madonna [[characters/anne-page\|Anne Page]]? Ha i capelli castani, e parla sottile come una donna? |
 | EVANS | È quella fera persona in tutto il monto, giusto come potrete [[motifs/desire\|tesiterare]]. E settecento sterline di tanaro, e oro e argento, glieli tà suo nonno sul suo letto di [[motifs/death\|morte]]—Tio lo conduca a una gioiosa risurrezioni—quando ella sarà in grado di raggiungere i diciassette anni. Sarepe una pona mozione se lasciassimo i nostri pisticci e pasticci, e [[motifs/desire\|tesiterassimo]] un [[motifs/marriage\|matrimonio]] tra mastro Abraham e madonna [[characters/anne-page\|Anne Page]]. |
 | SLENDER | Il nonno le ha lasciato settecento sterline? |
 | *(didascalia)* | EVANS Sì, e suo padre le farà un gruzzolo ancora pon migliore. SHALLOWConosco la giovane gentildonna. Ha buone doti. |
 | EVANS | Settecento sterline e possipilità sono pone toti. |
 | SHALLOW | [[motifs/well\|Bene]], andiamo a vedere l’onesto [[characters/master-page\|mastro Page]]. C’è [[characters/falstaff\|Falstaff]] là? |
-| EVANS | Ti dirò una pugia? Tisprezzo un pugiardo come tisprezzo uno che è falso, o come tisprezzo uno che non è fero. Il cavaliere Sir John è là, e vi supplico di lasciarvi guidare da chi vi fuole [[motifs/well\|pene]]. Patterò alla porta per [[characters/master-page\|mastro Page]].<br>Bussa alla porta<br>Ehilà! Tio penetica la vostra [[house\|casa]] qui I |
+| EVANS | Ti dirò una pugia? Tisprezzo un pugiardo come tisprezzo uno che è falso, o come tisprezzo uno che non è fero. Il cavaliere Sir John è là, e vi supplico di lasciarvi guidare da chi vi fuole [[motifs/well\|pene]]. Patterò alla porta per [[characters/master-page\|mastro Page]].<br>Bussa alla porta<br>Ehilà! Tio penetica la vostra casa qui I |
 | *(didascalia)* | PAGE dall’interno Chi è là? |
 | EVANS | Qui c’è la penetizione di Tio e il vostro amico, e [[characters/justice-shallow\|il giudice Shallow]], e qui il giovane mastro Slender, che forse fi racconterà un’altra storia se le cose fanno di vostro gratimento. |
 | *(didascalia)* | Entra [[characters/master-page\|mastro Page]] |
@@ -98,11 +98,11 @@ The Merry Wives of Windsor
 | EVANS | Pauca verba, Sir John, pone erpe. |
 | SIR JOHN | Buone erbe? Buoni cavoli!—Slender, vi ho rotto la testa. Che faccenda avete contro di me? |
 | SLENDER | Perbacco, signore, ho una faccenda in testa contro di voi, e contro i vostri furfanti acchiappaconigli, Bardolph, Nim e [[characters/pistol\|Pistol]]. |
-| BARDOLPH | Voi, [[cheese\|formaggio]] di Banbury! |
+| BARDOLPH | Voi, formaggio di Banbury! |
 | SLENDER | Sì, non importa. |
 | [[characters/pistol\|PISTOL]] | Che c’è, Mefistofele? |
 | SLENDER | Sì, non importa. |
-| NIM | Taglia, dico pauca, pauca. Taglia, questo è il mio [[Humour\|umore]]. |
+| NIM | Taglia, dico pauca, pauca. Taglia, questo è il mio umore. |
 | SLENDER | (a Shallow) Dov’è Simple, il mio uomo? Sapete dirmelo, cugino? |
 | EVANS | Pace, vi prego. Ora intentiamoci. Ci sono tre arpitri in questa faccenda, per quanto io capisco: cioè [[characters/master-page\|mastro Page]], fidelicet [[characters/master-page\|mastro Page]]; e ci sono io, fidelicet io stesso; e la terza parte è, ultima e finalmente, il mio oste della Giarrettiera. |
 | PAGE | Noi tre a udirla, e a finirla fra loro. |
@@ -116,7 +116,7 @@ The Merry Wives of Windsor
 | EVANS | No, è falso, se è un porseggiatore. |
 | [[characters/pistol\|PISTOL]] | Ah, tu straniero di montagna Sir John e mio<br>padrone,<br>io sfido a duello questo spadino d’ottone.—<br>Parola di smentita sulle tue labras qui,<br>Parola di smentita: schiuma e feccia, tu menti. |
 | SLENDER | (indicando Nim) Per questi guanti, allora, fu lui. |
-| NIM | State avvisato, signore, e passate buoni umori. Vi dirò ’perbacco, trappola con voi’ se mi mettete addosso l’[[Humour\|umore]] del birro. Questa è proprio la nota della cosa. |
+| NIM | State avvisato, signore, e passate buoni umori. Vi dirò ’perbacco, trappola con voi’ se mi mettete addosso l’umore del birro. Questa è proprio la nota della cosa. |
 | SLENDER | Per questo cappello, allora, l’ebbe quello dalla faccia rossa. Ché, sebbene io non ricordi che cosa feci quando mi faceste ubriacare, pure non sono del tutto un asino. |
 | SIR JOHN | (a Bardolph) Che dite voi, Scarlatto e Giovanni? |
 | BARDOLPH | Ebbene, signore, per parte mia dico che il gentiluomo aveva bevuto fino a uscire dalle sue cinque sentenze. |
@@ -133,7 +133,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | La bacia |
 | PAGE | Moglie, da’ il benvenuto a questi signori.—Venite, abbiamo un caldo pasticcio di selvaggina per pranzo. Venite, signori, [[concepts/hope\|spero]] che affogheremo nel bere ogni scortesia. |
 | *(didascalia)* | Escono tutti tranne Slender |
-| SLENDER | Darei più di quaranta scellini per avere qui il mio libro di [[songs\|canzoni]] e sonetti. |
+| SLENDER | Darei più di quaranta scellini per avere qui il mio libro di canzoni e sonetti. |
 | *(didascalia)* | Entra Simple |
 | SLENDER | Ebbene, Simple, dove sei stato? Devo servirmi<br>da me, io? Non hai con te il libro degli<br>indovinelli, vero? |
 | SIMPLE | Il libro degli indovinelli? Ma come, non lo prestaste ad Alice Shortcake il giorno d’Ognissanti scorso, quindici giorni prima di San Michele? |
@@ -171,8 +171,8 @@ The Merry Wives of Windsor
 | ANNE | Non posso entrare senza vostra signoria. Non si siederanno finché non venite. |
 | SLENDER | In [[concepts/faith\|fede]] mia, non mangerò nulla. Vi ringrazio come se l’avessi fatto. |
 | ANNE | Vi prego, signore, entrate. |
-| *(didascalia)* | [[dogs\|I cani]] abbaiano dentro |
-| SLENDER | Preferisco passeggiare qui, vi ringrazio. Mi ammaccai lo stinco l’altro giorno, giocando di [[Sword\|spada]] e pugnale con un maestro di scherma—tre assalti per un piatto di prugne cotte—e, in fede mia, da allora non posso sopportare l’odore della carne calda. Perché i vostri [[dogs\|cani]] abbaiano così? Ci sono orsi in città? |
+| *(didascalia)* | I cani abbaiano dentro |
+| SLENDER | Preferisco passeggiare qui, vi ringrazio. Mi ammaccai lo stinco l’altro giorno, giocando di spada e pugnale con un maestro di scherma—tre assalti per un piatto di prugne cotte—e, in fede mia, da allora non posso sopportare l’odore della carne calda. Perché i vostri cani abbaiano così? Ci sono orsi in città? |
 | ANNE | Credo di sì, signore. Ne ho sentito parlare. |
 | SLENDER | [[motifs/love\|Amo]] assai quello sport, e [[motifs/well\|bene]]—ma sono pronto a litigarci sopra quanto ogni uomo d’Inghilterra. Avete paura, se vedete l’orso sciolto, non è vero? |
 | ANNE | Sì, davvero, signore. |
@@ -195,9 +195,9 @@ The Merry Wives of Windsor
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano Sir Hugh Evans e Simple, da pranzo |
-| EVANS | Va’ per la tua strada, e chiedi qual è la via della [[house\|casa]] del [[characters/doctor-caius\|dottor Caius]]. E là abita una certa [[characters/mistress-quickly\|madonna Quickly]], che gli fa in un certo motto da tonna, o da [[characters/nurse\|palia asciutta]], o da cuoca, o da lavanteria, la sua lafandaia e la sua strizzatrice. |
+| EVANS | Va’ per la tua strada, e chiedi qual è la via della casa del [[characters/doctor-caius\|dottor Caius]]. E là abita una certa [[characters/mistress-quickly\|madonna Quickly]], che gli fa in un certo motto da tonna, o da [[characters/nurse\|palia asciutta]], o da cuoca, o da lavanteria, la sua lafandaia e la sua strizzatrice. |
 | SIMPLE | [[motifs/well\|Bene]], signore. |
-| *(didascalia)* | EVANS No, c’è ancora di petter. Dalle questa lettera, perché è una tonna che ha tutta la conoscenza di madonna [[characters/anne-page\|Anne Page]]. E la lettera serve a [[motifs/desire\|tesiterare]] e richiedere che ella patrocini i desideri del tuo padrone presso madonna [[characters/anne-page\|Anne Page]]. Ti prego, fa’ presto ad andare. Esce Simple Andrò a finire il mio pranzo; hanno da venire ancora mele ranette e [[cheese\|formaggio]]. Esce |
+| *(didascalia)* | EVANS No, c’è ancora di petter. Dalle questa lettera, perché è una tonna che ha tutta la conoscenza di madonna [[characters/anne-page\|Anne Page]]. E la lettera serve a [[motifs/desire\|tesiterare]] e richiedere che ella patrocini i desideri del tuo padrone presso madonna [[characters/anne-page\|Anne Page]]. Ti prego, fa’ presto ad andare. Esce Simple Andrò a finire il mio pranzo; hanno da venire ancora mele ranette e formaggio. Esce |
 
 ### Atto 1, Scena 3
 
@@ -217,8 +217,8 @@ The Merry Wives of Windsor
 | BARDOLPH | È una vita che ho desiderato. Prospererò. |
 | *(didascalia)* | Esce |
 | [[characters/pistol\|PISTOL]] | O vile creatura ungherese, vuoi tu brandire lo zipolo? |
-| NIM | Fu concepito nel bere; la sua mente non è eroica. Non è arguto l’[[Humour\|umore]]? |
-| SIR JOHN | Sono lieto d’essermi così sbarazzato di questo acciarino. I suoi furti erano troppo scoperti. Il suo rubacchiare era come un cantore inesperto: non teneva il [[motifs/time\|tempo]].<br>Lui Il buon [[Humour\|umore]] sta nel rubare in una pausa d’un minuto. |
+| NIM | Fu concepito nel bere; la sua mente non è eroica. Non è arguto l’umore? |
+| SIR JOHN | Sono lieto d’essermi così sbarazzato di questo acciarino. I suoi furti erano troppo scoperti. Il suo rubacchiare era come un cantore inesperto: non teneva il [[motifs/time\|tempo]].<br>Lui Il buon umore sta nel rubare in una pausa d’un minuto. |
 | [[characters/pistol\|PISTOL]] | ‘Trafugare’ lo chiamano i saggi. ‘Rubare’? Puah, un fico per la<br>parola! |
 | SIR JOHN | [[motifs/well\|Bene]], signori, sono quasi giù di tacchi. |
 | [[characters/pistol\|PISTOL]] | E allora vengano i geloni. |
@@ -230,26 +230,26 @@ The Merry Wives of Windsor
 | [[characters/pistol\|PISTOL]] | Due iarde e più. |
 | SIR JOHN | Niente frizzi adesso, [[characters/pistol\|Pistol]]. Davvero, alla cintola misuro due iarde di giro. Ma ora non ho in animo giri di cintola; ho in animo il guadagno. In breve, intendo fare all’[[motifs/love\|amore]] con la moglie di Ford. Fiuto in lei accoglienza. Discorre, trincia, lancia l’occhiata dell’invito. So interpretare l’atto del suo stile familiare; e la voce più dura del suo contegno, tradotta rettamente in inglese, dice: ‘Sono di Sir John [[characters/falstaff\|Falstaff]]’. |
 | [[characters/pistol\|PISTOL]] | L’ha studiata [[motifs/well\|bene]], e ne ha tradotto la volontà: fuori dall’onestà, dentro l’inglese. |
-| NIM | L’àncora va a fondo. Passerà quell’[[Humour\|umore]]? |
+| NIM | L’àncora va a fondo. Passerà quell’umore? |
 | SIR JOHN | Ora, corre voce che ella abbia tutto il governo della borsa del marito; egli ha una legione d’angeli. |
 | [[characters/pistol\|PISTOL]] | Prendine altrettanti diavoli, e ‘Addosso, ragazzo!’ dico io. |
-| NIM | L’[[Humour\|umore]] sale; è buono. [[Humour\|Umorami]] gli angeli! |
+| NIM | L’umore sale; è buono. Umorami gli angeli! |
 | SIR JOHN | (mostrando delle lettere) Le ho scritto qui una lettera—e qui un’altra alla moglie di Page, che proprio ora mi ha fatto anch’essa buoni occhi, esaminando le mie parti con occhiate giudiziosissime; talvolta il raggio del suo sguardo mi dorava il piede, talvolta il mio corpulento ventre. |
 | [[characters/pistol\|PISTOL]] | Allora il sole splendette sul letamaio. |
-| NIM | Ti ringrazio per quell’[[Humour\|umore]]. |
+| NIM | Ti ringrazio per quell’umore. |
 | SIR JOHN | Oh, ella percorse così i miei esteriori, con intenzione tanto avida, che l’appetito del suo occhio pareva incendiarmi come una lente ustoria! Ecco un’altra lettera per lei. Anche lei porta la borsa. È una regione della Guiana, tutta oro e larghezza. Sarò baro con entrambe, ed esse mi saranno tesorerie. Saranno le mie Indie Orientali e Occidentali, e trafficherò con l’una e con l’altra. (Dando una lettera a [[characters/pistol\|Pistol]]) Va’, porta tu questa lettera a [[characters/mistress-page\|madonna Page]], (dando una lettera a Nim) e tu questa a [[characters/mistress-ford\|madonna Ford]]. Prospereremo, ragazzi, prospereremo. |
 | [[characters/pistol\|PISTOL]] | (restituendo la lettera)<br>Dovrò io farmi Sir [[characters/pandarus\|Pandaro]] di Troia,<br>e portare acciaio al fianco? Allora [[characters/lucifer\|Lucifero]] si prenda tutto. |
-| NIM | (restituendo la lettera) Non seguirò un vile [[Humour\|umore]]. Tenete, riprendetevi la lettera d’[[Humour\|umore]]. Serberò il contegno della reputazione. |
-| SIR JOHN | (a Robin)<br>Ferma, messere. Porta queste lettere ben strette.<br>Naviga come mia pinaccia verso quelle rive dorate.<br>Dà le lettere a Robin<br>Furfanti, via, alla larga! Svanite come chicchi di grandine! Andate!<br>Arrancate, trottate, via a piedi, cercate riparo, sgomberate!<br>[[characters/falstaff\|Falstaff]] imparerà l’[[Humour\|umore]] del secolo:<br>parsimonia francese, furfanti—io solo e il paggio in gonnella. |
+| NIM | (restituendo la lettera) Non seguirò un vile umore. Tenete, riprendetevi la lettera d’umore. Serberò il contegno della reputazione. |
+| SIR JOHN | (a Robin)<br>Ferma, messere. Porta queste lettere ben strette.<br>Naviga come mia pinaccia verso quelle rive dorate.<br>Dà le lettere a Robin<br>Furfanti, via, alla larga! Svanite come chicchi di grandine! Andate!<br>Arrancate, trottate, via a piedi, cercate riparo, sgomberate!<br>[[characters/falstaff\|Falstaff]] imparerà l’umore del secolo:<br>parsimonia francese, furfanti—io solo e il paggio in gonnella. |
 | *(didascalia)* | Escono Sir John e Robin |
 | [[characters/pistol\|PISTOL]] | Gli avvoltoi ti stringano le budella!—ché zucca e dadi truccati<br>reggono,<br>e alto e basso ingannano il ricco e il povero.<br>Avrò io un testone in borsa quando a te mancherà,<br>vile turco frigio! |
 | NIM | Ho operazioni che sono umori di [[concepts/revenge\|vendetta]]. |
 | [[characters/pistol\|PISTOL]] | Ti vorrai [[concepts/revenge\|vendicare]]? |
 | NIM | Per il firmamento e le sue [[motifs/stars\|stelle]]! |
 | [[characters/pistol\|PISTOL]] | Con l’ingegno o con l’acciaio? |
-| NIM | Con entrambi gli umori, io.<br>Esporrò a Ford l’[[Humour\|umore]] di questo [[motifs/love\|amore]]. |
+| NIM | Con entrambi gli umori, io.<br>Esporrò a Ford l’umore di questo [[motifs/love\|amore]]. |
 | [[characters/pistol\|PISTOL]] | E io a Page dischiuderò altresì<br>come [[characters/falstaff\|Falstaff]], vile bricconcello,<br>la sua colomba proverà, il suo oro terrà,<br>e il suo molle giaciglio insozzerà. |
-| NIM | Il mio [[Humour\|umore]] non si raffredderà. Aizzerò Ford a servirsi del [[motifs/poison\|veleno]]; lo possederò di gelosia gialla; ché questa mia rivolta è pericolosa. Questo è il mio vero [[Humour\|umore]]. |
+| NIM | Il mio umore non si raffredderà. Aizzerò Ford a servirsi del [[motifs/poison\|veleno]]; lo possederò di gelosia gialla; ché questa mia rivolta è pericolosa. Questo è il mio vero umore. |
 | [[characters/pistol\|PISTOL]] | Tu sei il Marte dei malcontenti.<br>Ti secondo. Avanti, marsc’. Escono |
 
 ### Atto 1, Scena 4
@@ -259,11 +259,11 @@ The Merry Wives of Windsor
 | *(didascalia)* | Entrano [[characters/mistress-quickly\|madonna Quickly]] e Simple |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Ehi, John Rugby! |
 | *(didascalia)* | Entra John Rugby |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Ti prego, va’ alla finestra e guarda se vedi<br>venire il mio padrone, mastro [[characters/doctor-caius\|dottor Caius]]. Se viene,<br>in [[concepts/faith\|fede]] mia, e trova qualcuno in [[house\|casa]], qui ci sarà un<br>bel maltrattare la pazienza di Dio e l’inglese del [[archetypes/king\|Re]]. |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Ti prego, va’ alla finestra e guarda se vedi<br>venire il mio padrone, mastro [[characters/doctor-caius\|dottor Caius]]. Se viene,<br>in [[concepts/faith\|fede]] mia, e trova qualcuno in casa, qui ci sarà un<br>bel maltrattare la pazienza di Dio e l’inglese del [[archetypes/king\|Re]]. |
 | RUGBY | Vado a far la guardia. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Va’; e ne avremo un posset presto, di [[motifs/night\|notte]], in [[concepts/faith\|fede]] mia, in fondo a un [[motifs/fire\|fuoco]] di carbon fossile. |
 | *(didascalia)* | Esce Rugby |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Un tipo onesto, volenteroso e gentile quanto mai servitore entrò in [[house\|casa]]; e, vi assicuro, non è né spione né attaccabrighe. Il suo peggior difetto è che è dato alla [[motifs/prayer\|preghiera]]; è un po’ bisbetico su quel punto—ma nessuno è senza il suo difetto. Ma lasciamo andare. Peter Simple dite che vi chiamate? |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Un tipo onesto, volenteroso e gentile quanto mai servitore entrò in casa; e, vi assicuro, non è né spione né attaccabrighe. Il suo peggior difetto è che è dato alla [[motifs/prayer\|preghiera]]; è un po’ bisbetico su quel punto—ma nessuno è senza il suo difetto. Ma lasciamo andare. Peter Simple dite che vi chiamate? |
 | SIMPLE | Sì, in mancanza di meglio. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | E mastro Slender è il vostro padrone? |
 | SIMPLE | Sì, in verità. |
@@ -308,7 +308,7 @@ The Merry Wives of Windsor
 | SIMPLE | Per [[motifs/desire\|pregare]] questa onesta gentildonna, la vostra serva, di dire una buona parola a madonna [[characters/anne-page\|Anne Page]] per il mio padrone in via di [[motifs/marriage\|matrimonio]]. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Questo è tutto, davvero, sì; ma non metterò mai il dito nel [[motifs/fire\|fuoco]] se non ce n’è bisogno. |
 | CAIUS | Sir Hugh ve manda-a?—Rugby, portami della carta.<br>Rugby porta la carta<br>(A Simple) Aspettate un poco-a.<br>Caius scrive |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (a parte a Simple) Sono contenta che sia così quieto. Se fosse stato mosso davvero, l’avreste udito così forte e così [[concepts/melancholy\|malinconico]]. Ma nondimeno, uomo, farò al vostro padrone tutto il bene che posso. E il vero sì e no è che il dottore francese, il mio padrone—posso ben chiamarlo il mio padrone, vedete, ché gli tengo la [[house\|casa]], e lavo, strizzo, faccio la birra, inforno, sfrego, preparo cibo e bevanda, rifaccio i letti, e faccio tutto io— |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (a parte a Simple) Sono contenta che sia così quieto. Se fosse stato mosso davvero, l’avreste udito così forte e così [[concepts/melancholy\|malinconico]]. Ma nondimeno, uomo, farò al vostro padrone tutto il bene che posso. E il vero sì e no è che il dottore francese, il mio padrone—posso ben chiamarlo il mio padrone, vedete, ché gli tengo la casa, e lavo, strizzo, faccio la birra, inforno, sfrego, preparo cibo e bevanda, rifaccio i letti, e faccio tutto io— |
 | SIMPLE | (a parte a [[characters/mistress-quickly\|madonna Quickly]]) È un gran carico da stare sotto la mano d’un solo [[concepts/body\|corpo]]. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (a parte a Simple) Ve ne siete accorto? Troverete che è un gran carico—e alzarsi presto, e coricarsi tardi. Ma nondimeno, per dirvelo all’orecchio—non vorrei che se ne parlasse—il mio padrone stesso è preso d’[[motifs/love\|amore]] per madonna [[characters/anne-page\|Anne Page]]. Ma nondimeno, io conosco la mente di Anne: e questo non è né qui né là. |
 | CAIUS | (dando la lettera a Simple) Voi, scimmiotto, tate-a questa lettera a Sir Hugh. Per Ttio, è una sfita. Gli taglierò la cola nel Parco, e insegnerò a un lurido prete scimmiotto a immischiarsi e a intrigare. Potete andare. Non è bene che restiate qui. Per Ttio, gli taglierò tutt’e due le pietre. Per Ttio, non avrà una pietra da tirare al suo cane. Esce Simple |
@@ -319,7 +319,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Escono Caius e Rugby |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | —una testa d’asino tutta vostra. No, io conosco la mente di Anne su<br>questo. Nessuna donna in Windsor sa della mente di Anne<br>più di me, né può fare con lei più di quanto posso io,<br>ringraziando il cielo. |
 | [[characters/fenton\|FENTON]] | (dall’interno) Chi c’è là dentro, ehilà! |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Chi è là, di grazia?—Avvicinatevi alla [[house\|casa]], vi prego. |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Chi è là, di grazia?—Avvicinatevi alla casa, vi prego. |
 | *(didascalia)* | Entra mastro [[characters/fenton\|Fenton]] |
 | [[characters/fenton\|FENTON]] | Ebbene, buona donna, come stai? |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Meglio, poiché piace alla vostra signoria di chiederlo. |
@@ -343,7 +343,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Entra [[characters/mistress-page\|madonna Page]], con una lettera |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Come, sono scampata alle lettere d’[[motifs/love\|amore]] nel [[motifs/time\|tempo]] di festa della mia [[concepts/beauty\|bellezza]], e ora ne sono fatta soggetto? Vediamo un po’.<br>Legge<br>‘Non chiedetemi ragione del perché vi [[motifs/love\|amo]], ché sebbene [[motifs/love\|Amore]] si serva della Ragione come suo precisatore, non l’ammette per suo consigliere. Voi non siete giovane; e nemmeno io. Suvvia, dunque, ecco una simpatia. Voi siete allegra; e allegro son io. Ah, ah, dunque, ecco altra simpatia. Voi [[motifs/love\|amate]] il vino di Spagna, e io pure. Potreste [[motifs/desire\|desiderare]] simpatia migliore? Ti basti, [[characters/mistress-page\|madonna Page]], almeno se l’[[motifs/love\|amore]] d’un soldato può bastare, ch’io ti [[motifs/love\|amo]]. Non dirò “abbi pietà di me”—non è frase da soldato—ma dico “[[motifs/love\|amami]]”.<br>Da me, tuo vero cavaliere,<br>di giorno o di [[motifs/night\|notte]]<br>o con qualsiasi luce, 15<br>con tutta la sua possa<br>per te a combattere,<br>John [[characters/falstaff\|Falstaff]].’<br>Che Erode di Giudea è costui! Oh, malvagio, malvagio mondo! Uno che è [[motifs/well\|quasi]] logoro a brandelli dagli anni, e vuol darsi arie di giovane galante! Che contegno sconsiderato ha mai colto, costui, ubriacone fiammingo, in nome del diavolo, dalla mia conversazione, da osare d’assalirmi a questo modo? Ma se non è stato tre volte in mia compagnia. Che dovrei dirgli? fui allora parca della mia allegria, il cielo mi perdoni. Ebbene, presenterò una petizione in Parlamento per la soppressione degli uomini. O Dio, sapessi come vendicarmi di lui! Ché vendicata sarò, com’è vero che le sue budella son fatte di sanguinacci. |
 | *(didascalia)* | Entra [[characters/mistress-ford\|madonna Ford]] |
-| [[characters/mistress-ford\|MISTRESS FORD]] | [[characters/mistress-page\|Madonna Page]]! In [[concepts/faith\|fede]] mia, stavo venendo alla vostra [[house\|casa]]. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | [[characters/mistress-page\|Madonna Page]]! In [[concepts/faith\|fede]] mia, stavo venendo alla vostra casa. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | E in [[concepts/faith\|fede]] mia, io venivo da voi. Avete un pessimo aspetto. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | No, non lo crederò mai: ho di che mostrare il contrario. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | [[concepts/faith\|In fede]], ma l’avete, a parer mio. |
@@ -373,9 +373,9 @@ The Merry Wives of Windsor
 | FORD | Quale nome, signore? |
 | [[characters/pistol\|PISTOL]] | Il corno, dico. Addio.<br>Bada; tieni l’occhio aperto; ché i ladri van di piede la [[motifs/night\|notte]].<br>Bada prima che venga l’[[motifs/summer\|estate]], o che gli [[motifs/birds\|uccelli]]-cuculo si mettano<br>a cantare.—<br>Via, Sir caporale Nim!—Credigli, Page; parla con<br>senno. Esce |
 | FORD | (a parte) Sarò paziente. Verrò a capo di questo. |
-| NIM | (a Page) E questo è vero. Non mi piace l’[[Humour\|umore]] della menzogna. Mi ha fatto torto in certi umori. Avrei dovuto portarle io la lettera umorata; ma ho una [[Sword\|spada]], e morderà quando la necessità lo imponga. Ama vostra moglie. Ecco il lungo e il corto. Il mio nome è caporale Nim. Parlo e affermo che è vero.<br>Il mio nome è Nim, e [[characters/falstaff\|Falstaff]] ama vostra moglie. Addio.<br>Non [[motifs/love\|amo]] l’[[Humour\|umore]] di pane e [[cheese\|formaggio]]. Addio. |
+| NIM | (a Page) E questo è vero. Non mi piace l’umore della menzogna. Mi ha fatto torto in certi umori. Avrei dovuto portarle io la lettera umorata; ma ho una spada, e morderà quando la necessità lo imponga. Ama vostra moglie. Ecco il lungo e il corto. Il mio nome è caporale Nim. Parlo e affermo che è vero.<br>Il mio nome è Nim, e [[characters/falstaff\|Falstaff]] ama vostra moglie. Addio.<br>Non [[motifs/love\|amo]] l’umore di pane e formaggio. Addio. |
 | *(didascalia)* | Esce |
-| PAGE | (a parte) L’[[Humour\|umore]] della cosa, dice lui? Ecco un tipo che spaventa l’inglese fuor di senno. |
+| PAGE | (a parte) L’umore della cosa, dice lui? Ecco un tipo che spaventa l’inglese fuor di senno. |
 | FORD | (a parte) Andrò a cercare [[characters/falstaff\|Falstaff]]. |
 | PAGE | (a parte) Non ho mai udito furfante più strascicato e affettato. |
 | FORD | (a parte) Se lo scopro davvero—[[motifs/well\|bene]]. |
@@ -420,10 +420,10 @@ The Merry Wives of Windsor
 | HOST | La mia mano, bravo. Avrai ingresso e regresso—ho detto [[motifs/well\|bene]]?—e il tuo nome sarà Brooke. È un cavaliere allegro. (A Shallow e Page) Volete venire, mijn’heers? |
 | SHALLOW | Vengo con voi, oste mio. |
 | PAGE | Ho sentito dire che il francese ha buona abilità con lo stocco. |
-| *(didascalia)* | SHALLOW Bah, signore, avrei potuto dirvene di più. In questi tempi state sulla distanza—le vostre passate, le stoccate, e non so che altro. È il cuore, [[characters/master-page\|mastro Page]]; mostrando le sue passate di stocco è qui, è qui. Ho visto il [[motifs/time\|tempo]] in cui con la mia lunga [[Sword\|spada]] vi avrei fatto saltare quattro omaccioni come topi. |
+| *(didascalia)* | SHALLOW Bah, signore, avrei potuto dirvene di più. In questi tempi state sulla distanza—le vostre passate, le stoccate, e non so che altro. È il cuore, [[characters/master-page\|mastro Page]]; mostrando le sue passate di stocco è qui, è qui. Ho visto il [[motifs/time\|tempo]] in cui con la mia lunga spada vi avrei fatto saltare quattro omaccioni come topi. |
 | HOST | Qua, ragazzi; qua, qua! Ci muoviamo? |
 | PAGE | Vengo con voi. Preferisco sentirli bisticciare che battersi. Escono l’Oste, Shallow e Page |
-| FORD | Sebbene Page sia uno [[archetypes/fool\|sciocco]] tanto sicuro e si fondi così saldamente sulla fragilità di sua moglie, pure io non posso deporre la mia opinione così facilmente. Ella era in compagnia di lui in [[house\|casa]] Page, e che cosa vi facessero non so. [[motifs/well\|Bene]], indagherò oltre; e ho un travestimento per sondare [[characters/falstaff\|Falstaff]]. Se la trovo onesta, non perdo la mia fatica. Se è altrimenti, è fatica [[motifs/well\|bene]] spesa. Esce |
+| FORD | Sebbene Page sia uno [[archetypes/fool\|sciocco]] tanto sicuro e si fondi così saldamente sulla fragilità di sua moglie, pure io non posso deporre la mia opinione così facilmente. Ella era in compagnia di lui in casa Page, e che cosa vi facessero non so. [[motifs/well\|Bene]], indagherò oltre; e ho un travestimento per sondare [[characters/falstaff\|Falstaff]]. Se la trovo onesta, non perdo la mia fatica. Se è altrimenti, è fatica [[motifs/well\|bene]] spesa. Esce |
 
 ### Atto 2, Scena 2
 
@@ -433,11 +433,11 @@ The Merry Wives of Windsor
 | SIR JOHN | Non ti presterò un soldo. |
 | [[characters/pistol\|PISTOL]] | Ribatterò la somma in equipaggiamento. |
 | SIR JOHN | Non un soldo. |
-| *(didascalia)* | [[characters/pistol\|PISTOL]] sguainando la [[Sword\|spada]] E allora il mondo è la mia ostrica, che io con la [[Sword\|spada]] aprirò. |
+| *(didascalia)* | [[characters/pistol\|PISTOL]] sguainando la spada E allora il mondo è la mia ostrica, che io con la spada aprirò. |
 | SIR JOHN | Non un soldo. Sono stato contento, signore, che voi metteste in pegno il mio credito. Ho tartassato i miei buoni amici per tre rinvii a favore vostro e del vostro compagno di tiro Nim, altrimenti avreste guardato attraverso l’inferriata come un paio di babbuini gemelli. Sono dannato all’inferno per aver giurato a gentiluomini miei amici che eravate buoni soldati e valenti compagni. E quando madonna Bridget perse il manico del ventaglio, presi sul mio [[concepts/honour\|onore]] che tu non l’avessi. |
 | [[characters/pistol\|PISTOL]] | Non ne avesti la tua parte? Non avesti quindici pence? |
 | SIR JOHN | Ragione, furfante, ragione. Credi che metterò in pericolo la mia [[motifs/soul\|anima]] gratis? In una parola, non starmi più attaccato addosso. Non sono forca per te. Va’, con un coltello corto e la calca, al tuo maniero di Pickt-hatch, va’. Non vuoi portare una lettera per me, furfante? Ti appelli al tuo [[concepts/honour\|onore]]? Ma via, tu bassezza sconfinata, è già tanto s’io riesco a tenere precisi i termini del mio [[concepts/honour\|onore]]. Sì, sì, io stesso talvolta, lasciandomi il [[concepts/fear\|timore]] di Dio sulla mano sinistra, e nascondendo il mio [[concepts/honour\|onore]] nella mia necessità, son costretto a barare, a schermirmi e a rubacchiare; e tu, tu furfante, vorresti trincerare i tuoi stracci, i tuoi sguardi da gattopardo, le tue frasi da bettola e i tuoi spacconi giuramenti sotto il riparo del tuo [[concepts/honour\|onore]]! Non vuoi farlo, tu? |
-| *(didascalia)* | [[characters/pistol\|PISTOL]] rinfoderando la [[Sword\|spada]] |
+| *(didascalia)* | [[characters/pistol\|PISTOL]] rinfoderando la spada |
 | SIR JOHN | Mi lascio piegare. Che vuoi di più da un uomo? |
 | *(didascalia)* | Entra Robin |
 | ROBIN | Signore, c’è qui una donna che vorrebbe parlarvi. |
@@ -461,7 +461,7 @@ The Merry Wives of Windsor
 | SIR JOHN | [[characters/mistress-ford\|Madonna Ford]]; suvvia, [[characters/mistress-ford\|madonna Ford]]. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Perbacco, ecco il lungo e il corto della faccenda. L’avete messa in tale frastuono di canarie che è una meraviglia. Il miglior cortigiano di tutti, quando la [[settings/court\|corte]] stava a Windsor, non avrebbe mai potuto metterla in simile canaria. Eppure ci sono stati cavalieri, e lord, e gentiluomini, con le loro carrozze; ve l’assicuro, carrozza dopo carrozza, lettera dopo lettera, dono dopo dono, tutti profumati così dolcemente, tutto muschio; e frusciando, ve l’assicuro, in seta e oro, e con termini così eleganti, e con tal vino e zucchero dei migliori e dei più fini, che avrebbero conquistato il cuore di qualunque donna; e, ve l’assicuro, non riuscirono mai a strapparle un batter d’occhio. A me stessa questa mattina sono stati dati venti angeli—ma io sfido tutti gli angeli, in siffatte maniere, come si dice, se non per via d’onestà. E, ve l’assicuro, non riuscirono mai a farle nemmeno bagnare le labbra in una coppa col più superbo di tutti loro. Eppure ci sono stati conti, anzi, quel che più conta, pensionari della guardia. Ma, ve l’assicuro, per lei è tutt’uno. |
 | SIR JOHN | Ma che dice di me? Sii breve, mio buon Mercurio in gonnella. |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Perbacco, ha ricevuto la vostra lettera, per la quale vi ringrazia mille volte, e vi dà notifica che suo marito sarà assenza dalla sua [[house\|casa]] tra le dieci e le undici. |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Perbacco, ha ricevuto la vostra lettera, per la quale vi ringrazia mille volte, e vi dà notifica che suo marito sarà assenza dalla sua casa tra le dieci e le undici. |
 | SIR JOHN | Le dieci e le undici. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Sì, in verità, e allora potrete venire a vedere il quadro, dice lei, di cui sapete. [[characters/master-ford\|Mastro Ford]], suo marito, sarà fuori [[motifs/home\|casa]]. Ahimè, la dolce donna mena vita grama con lui. È un uomo di gran [[concepts/jealousy\|gelosia]]. Mena con lui una vita assai bisbetica, povero cuore. |
 | SIR JOHN | Le dieci e le undici. Donna, raccomandami a lei. Non le mancherò. |
@@ -507,7 +507,7 @@ The Merry Wives of Windsor
 | SIR JOHN | L’avete importunata a tale scopo? |
 | FORD | Mai. |
 | SIR JOHN | Di che qualità era il vostro [[motifs/love\|amore]], allora? |
-| FORD | Come una bella [[house\|casa]] costruita sul terreno d’un altro, sicché ho perduto il mio edificio per aver sbagliato il luogo dove l’ho eretto. |
+| FORD | Come una bella casa costruita sul terreno d’un altro, sicché ho perduto il mio edificio per aver sbagliato il luogo dove l’ho eretto. |
 | SIR JOHN | A quale scopo mi avete dispiegato tutto questo? |
 | FORD | Quando ve l’avrò detto, vi avrò detto tutto. Alcuni dicono che, sebbene ella appaia onesta con me, pure in altri luoghi allarga tanto la sua allegria che se ne fa maligna interpretazione. Ora, Sir John, ecco il cuore del mio proposito. Voi siete un gentiluomo d’eccellente educazione, di mirabile eloquio, di grandi entrature, autorevole nel vostro grado e nella vostra persona, generalmente stimato per le vostre molte doti guerresche, di [[settings/court\|corte]] e di dottrina. |
 | SIR JOHN | Oh signore! |
@@ -527,7 +527,7 @@ The Merry Wives of Windsor
 | SIR JOHN | Al diavolo, povero furfante becco, non lo conosco. Eppure gli faccio torto a chiamarlo povero. Dicono che quel geloso becco contento abbia mucchi di denaro, per il quale sua moglie mi pare [[motifs/well\|ben]] avvenente. La userò come chiave del forziere di quel becco ribaldo, e là sta la mia festa del raccolto in [[motifs/home\|casa]]. |
 | FORD | Vorrei che conosceste Ford, signore, per poterlo evitare se lo vedeste. |
 | SIR JOHN | Al diavolo, quel ribaldo meccanico da burro rancido! Lo farò uscir di senno a forza di guardarlo. Lo terrò in soggezione col mio randello; penderà come una meteora sopra le corna del becco. Mastro Brooke, saprai che io dominerò sul villano, e tu giacerai con sua moglie. Vieni da me presto, di [[motifs/night\|notte]]. Ford è un furfante, e io aggraverò il suo titolo: tu, mastro Brooke, lo conoscerai per furfante e per becco. Vieni da me presto, di [[motifs/night\|notte]]. Esce |
-| FORD | Che dannato mascalzone epicureo è costui! Il mio cuore è pronto a spaccarsi d’impazienza. Chi dice che questa è [[concepts/jealousy\|gelosia]] senza fondamento? Mia moglie ha mandato da lui, l’ora è fissata, l’accordo è concluso. Chi l’avrebbe mai pensato? Ecco l’inferno d’avere una donna falsa! Il mio letto sarà profanato, i miei forzieri saccheggiati, la mia reputazione rosicchiata; e non solo riceverò questo scellerato torto, ma dovrò starmene sotto l’adozione di termini abominevoli, e proprio da parte di colui che mi fa questo torto. Termini! Nomi! ‘Amaimon’ suona [[motifs/well\|bene]], ‘[[characters/lucifer\|Lucifero]]’ [[motifs/well\|bene]], ‘Barbason’ [[motifs/well\|bene]]; eppure sono appellativi di diavoli, nomi di demoni. Ma ‘becco’, ‘cornuto contento’! ‘Becco’—il diavolo stesso non ha un tal nome. Page è un asino, un asino sicuro di sé. Si fida di sua moglie, non vuol essere geloso. Affiderei piuttosto il mio burro a un fiammingo, il mio [[cheese\|formaggio]] al parroco Hugh il gallese, la mia bottiglia d’acquavite a un irlandese, o il mio castrone d’ambio a un ladro, che mia moglie a se stessa. Allora lei trama, allora rumina, allora escogita; e ciò che pensano in cuor loro di poter compiere, si spezzeranno il cuore ma lo compiranno. Sia lodato Dio per la mia [[concepts/jealousy\|gelosia]]! Le undici all’[[motifs/clock\|orologio]], quest’è l’ora. Preverrò questo, smaschererò mia moglie, mi vendicherò di [[characters/falstaff\|Falstaff]] e riderò di Page. Ci metto mano. Meglio tre ore troppo presto che un minuto troppo tardi. Per la mia vita: becco, becco, becco! Esce |
+| FORD | Che dannato mascalzone epicureo è costui! Il mio cuore è pronto a spaccarsi d’impazienza. Chi dice che questa è [[concepts/jealousy\|gelosia]] senza fondamento? Mia moglie ha mandato da lui, l’ora è fissata, l’accordo è concluso. Chi l’avrebbe mai pensato? Ecco l’inferno d’avere una donna falsa! Il mio letto sarà profanato, i miei forzieri saccheggiati, la mia reputazione rosicchiata; e non solo riceverò questo scellerato torto, ma dovrò starmene sotto l’adozione di termini abominevoli, e proprio da parte di colui che mi fa questo torto. Termini! Nomi! ‘Amaimon’ suona [[motifs/well\|bene]], ‘[[characters/lucifer\|Lucifero]]’ [[motifs/well\|bene]], ‘Barbason’ [[motifs/well\|bene]]; eppure sono appellativi di diavoli, nomi di demoni. Ma ‘becco’, ‘cornuto contento’! ‘Becco’—il diavolo stesso non ha un tal nome. Page è un asino, un asino sicuro di sé. Si fida di sua moglie, non vuol essere geloso. Affiderei piuttosto il mio burro a un fiammingo, il mio formaggio al parroco Hugh il gallese, la mia bottiglia d’acquavite a un irlandese, o il mio castrone d’ambio a un ladro, che mia moglie a se stessa. Allora lei trama, allora rumina, allora escogita; e ciò che pensano in cuor loro di poter compiere, si spezzeranno il cuore ma lo compiranno. Sia lodato Dio per la mia [[concepts/jealousy\|gelosia]]! Le undici all’[[motifs/clock\|orologio]], quest’è l’ora. Preverrò questo, smaschererò mia moglie, mi vendicherò di [[characters/falstaff\|Falstaff]] e riderò di Page. Ci metto mano. Meglio tre ore troppo presto che un minuto troppo tardi. Per la mia vita: becco, becco, becco! Esce |
 
 ### Atto 2, Scena 3
 
@@ -557,7 +557,7 @@ The Merry Wives of Windsor
 | CAIUS | Vi prego, fate testimonianza che io ho aspettato sei o sette, tue, tre ore per lui, e lui non viene. |
 | SHALLOW | È l’uomo più saggio, mastro dottore. Egli è curatore d’anime, e voi curatore di corpi. Se vi batteste, andreste contro il pelo delle vostre professioni. Non è vero, [[characters/master-page\|mastro Page]]? |
 | PAGE | Mastro Shallow, voi stesso siete stato un gran combattente, benché ora siate uomo di pace. |
-| SHALLOW | Corpo di bacco, [[characters/master-page\|mastro Page]], sebbene io sia ora vecchio e uomo della pace, se vedo una [[Sword\|spada]] sguainata mi prude il dito di farne parte. Benché siamo giudici e dottori e uomini di chiesa, [[characters/master-page\|mastro Page]], abbiamo in noi un po’ del sale della nostra giovinezza. Siamo figli di donna, [[characters/master-page\|mastro Page]]. |
+| SHALLOW | Corpo di bacco, [[characters/master-page\|mastro Page]], sebbene io sia ora vecchio e uomo della pace, se vedo una spada sguainata mi prude il dito di farne parte. Benché siamo giudici e dottori e uomini di chiesa, [[characters/master-page\|mastro Page]], abbiamo in noi un po’ del sale della nostra giovinezza. Siamo figli di donna, [[characters/master-page\|mastro Page]]. |
 | PAGE | È vero, mastro Shallow. |
 | SHALLOW | Si troverà che è così, [[characters/master-page\|mastro Page]].—Mastro [[characters/doctor-caius\|dottor Caius]], sono venuto a condurvi a [[motifs/home\|casa]]. Sono giurato della pace. Vi siete mostrato medico saggio, e Sir Hugh s’è mostrato uomo di chiesa saggio e paziente. Dovete venire con me, mastro dottore. |
 | HOST | Perdonate, giudice mio ospite. (A Caius) Una parola, monsieur Mockwater. |
@@ -572,7 +572,7 @@ The Merry Wives of Windsor
 | CAIUS | Vi rincrazio per questo. |
 | HOST | E inoltre, bravo—(A parte agli altri) Ma prima, giudice mio ospite e [[characters/master-page\|mastro Page]], e altresì cavaliero Slender, andate voi per la città fino a Frogmore. |
 | PAGE | Sir Hugh è là, non è vero? |
-| HOST | È là. Vedete in che [[Humour\|umore]] è, e io porterò il dottore in giro per i campi. Andrà [[motifs/well\|bene]]? |
+| HOST | È là. Vedete in che umore è, e io porterò il dottore in giro per i campi. Andrà [[motifs/well\|bene]]? |
 | SHALLOW | Lo faremo. |
 | *(didascalia)* | PAGE, SHALLOW e SLENDER Addio, buon mastro dottore. |
 | *(didascalia)* | Escono Page, Shallow e Slender |
@@ -607,7 +607,7 @@ The Merry Wives of Windsor
 | SLENDER | (a parte) Ah, dolce [[characters/anne-page\|Anne Page]]! |
 | PAGE | Dio vi salvi, buon Sir Hugh. |
 | EVANS | Tio vi penetica per amor della sua [[concepts/mercy\|misericordia]], tutti quanti. |
-| SHALLOW | Come, la [[Sword\|spada]] e la Parola? Studiate l’una e l’altra, mastro parroco? |
+| SHALLOW | Come, la spada e la Parola? Studiate l’una e l’altra, mastro parroco? |
 | PAGE | E sempre giovanile: in farsetto e calzoni in questa giornata cruda e reumatica I |
 | EVANS | Ci sono ragioni e cause per questo. |
 | PAGE | Siamo venuti da voi per fare un buon ufficio, mastro parroco. |
@@ -697,7 +697,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Entrano John e Robert, con un cesto da bucato |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Qui, posatelo. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Date le istruzioni ai vostri uomini. Dobbiamo far presto. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Perbacco, come vi ho detto prima, John e Robert, state pronti qui accanto nella [[house\|casa]] della birra; e quando all’improvviso vi chiamo, venite avanti, e senza pausa né esitazione prendete questo cesto sulle spalle. Fatto questo, arrancate in tutta fretta, e portatelo tra le imbianchine a Datchet Mead, e là vuotatelo nel fosso fangoso accanto alla riva del Tamigi. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Perbacco, come vi ho detto prima, John e Robert, state pronti qui accanto nella casa della birra; e quando all’improvviso vi chiamo, venite avanti, e senza pausa né esitazione prendete questo cesto sulle spalle. Fatto questo, arrancate in tutta fretta, e portatelo tra le imbianchine a Datchet Mead, e là vuotatelo nel fosso fangoso accanto alla riva del Tamigi. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | (a John e Robert) Lo farete? |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Gliel’ho detto e ridetto; non mancano d’istruzioni.—Andate, e venite quando siete chiamati. |
 | *(didascalia)* | Escono John e Robert |
@@ -708,7 +708,7 @@ The Merry Wives of Windsor
 | [[characters/mistress-page\|MISTRESS PAGE]] | Piccolo fantoccio di quaresima, sei stato fedele a noi? |
 | ROBIN | Sì, lo giurerei. Il mio padrone non sa che voi siete qui, e mi ha minacciato di mettermi in libertà eterna se ve lo dico; ché giura che mi caccerà via. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Sei un buon ragazzo. Questa tua segretezza ti farà da sarto, e ti farà un farsetto e calzoni nuovi.—Vado a nascondermi. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Fate così. (A Robin) Va’ a dire al tuo padrone che sono [[Alone\|sola]]. Esce Robin [[characters/mistress-page\|Madonna Page]], ricordatevi la vostra battuta. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Fate così. (A Robin) Va’ a dire al tuo padrone che sono sola. Esce Robin [[characters/mistress-page\|Madonna Page]], ricordatevi la vostra battuta. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Statene certa. Se non la recito bene, fischiatemi. |
 | *(didascalia)* | [[characters/mistress-ford\|MISTRESS FORD]] Suvvia, allora. Esce [[characters/mistress-page\|madonna Page]] |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Ci serviremo di questa malsana umidità, di questa grossa zucca<br>acquosa. Gli insegneremo a distinguere le tortore dalle ghiandaie. |
@@ -738,11 +738,11 @@ The Merry Wives of Windsor
 | [[characters/mistress-ford\|MISTRESS FORD]] | Quale motivo di sospetto? |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Quale motivo di sospetto? Vergogna a voi!<br>Come mi sono ingannata sul conto vostro |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Ma insomma, ahimè, che c’è? |
-| [[characters/mistress-page\|MISTRESS PAGE]] | Vostro marito sta venendo qua, donna, con tutti gli ufficiali di Windsor, a cercare un gentiluomo che, dice lui, è qui adesso in [[house\|casa]], col vostro consenso, per prendere malvagio vantaggio della sua assenza. Siete perduta. |
+| [[characters/mistress-page\|MISTRESS PAGE]] | Vostro marito sta venendo qua, donna, con tutti gli ufficiali di Windsor, a cercare un gentiluomo che, dice lui, è qui adesso in casa, col vostro consenso, per prendere malvagio vantaggio della sua assenza. Siete perduta. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Non è così, [[concepts/hope\|spero]]. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Voglia il cielo che non sia vero che avete qui un tal uomo! Ma è certissimo che vostro marito sta venendo, con mezza Windsor alle calcagna, a cercarne uno. Io vengo innanzi per avvertirvi. Se vi sapete pulita, ebbene, me ne rallegro; ma se avete qui un amico, portatelo via, portatelo via. Non vi sbigottite. Chiamate a raccolta tutti i vostri sensi. Difendete la vostra reputazione, o dite addio per sempre alla vostra buona vita. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Che devo fare? C’è un gentiluomo, mio caro amico; e non [[concepts/fear\|temo]] tanto la mia vergogna quanto il pericolo suo. Darei mille sterline perché fosse fuori di [[house\|casa]]. |
-| [[characters/mistress-page\|MISTRESS PAGE]] | Vergogna, non state lì con ‘darei’ e ‘darei’. Vostro marito è qui a un passo. Pensate a qualche modo di portarlo via: in [[house\|casa]] non potete nasconderlo. Oh, come mi avete ingannata! Guardate, ecco un cesto. Se è di statura ragionevole, può strisciarci dentro; e gettategli sopra biancheria sporca come se andasse al bucato. Oppure—è [[motifs/time\|tempo]] d’imbiancare—mandatelo con i vostri due uomini a Datchet Mead. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Che devo fare? C’è un gentiluomo, mio caro amico; e non [[concepts/fear\|temo]] tanto la mia vergogna quanto il pericolo suo. Darei mille sterline perché fosse fuori di casa. |
+| [[characters/mistress-page\|MISTRESS PAGE]] | Vergogna, non state lì con ‘darei’ e ‘darei’. Vostro marito è qui a un passo. Pensate a qualche modo di portarlo via: in casa non potete nasconderlo. Oh, come mi avete ingannata! Guardate, ecco un cesto. Se è di statura ragionevole, può strisciarci dentro; e gettategli sopra biancheria sporca come se andasse al bucato. Oppure—è [[motifs/time\|tempo]] d’imbiancare—mandatelo con i vostri due uomini a Datchet Mead. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | È troppo grosso per entrarci. Che devo fare? |
 | SIR JOHN | (facendosi avanti) Fatemelo vedere, fatemelo vedere, oh fatemelo vedere! Ci entro, ci entro. Seguite il consiglio della vostra amica; ci entro. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Come, Sir John [[characters/falstaff\|Falstaff]]! (A parte a lui) Son queste le vostre lettere, cavaliere? |
@@ -782,14 +782,14 @@ The Merry Wives of Windsor
 | FORD | Amen. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Fate a voi stesso un gran torto, [[characters/master-ford\|mastro Ford]]. |
 | FORD | Sì, sì, devo sopportarlo. |
-| EVANS | Se c’è qualcuno in [[house\|casa]], e nelle camere, e nei forzieri, e negli armadi, il cielo perdoni i miei peccati nel giorno del giudizio! |
+| EVANS | Se c’è qualcuno in casa, e nelle camere, e nei forzieri, e negli armadi, il cielo perdoni i miei peccati nel giorno del giudizio! |
 | CAIUS | Per Ttio, e nemmeno io. Non c’è nessuni. |
 | PAGE | Ohibò, ohibò, [[characters/master-ford\|mastro Ford]], non vi vergognate? Quale spirito, quale diavolo vi suggerisce questa [[concepts/imagination\|immaginazione]]? Non vorrei il vostro malumore di questa specie per tutta la ricchezza del [[settings/castle\|castello]] di Windsor. |
 | FORD | È colpa mia, [[characters/master-page\|mastro Page]]. Ne soffro io. |
 | EVANS | Voi soffrite per una cattifa [[concepts/conscience\|coscienza]]. Vostra moglie è tonna onesta quanto ne tesidererei tra cinquemila, e cinquecento per giunta. |
 | CAIUS | Per Ttio, vedo che è una donna onesta. |
 | FORD | [[motifs/well\|Bene]], vi avevo promesso un pranzo. Venite, venite, passeggiamo nel parco. Vi prego di perdonarmi. In seguito vi farò sapere perché ho fatto questo.—Vieni, moglie; venite, [[characters/mistress-page\|madonna Page]]. Vi prego di perdonarmi. Vi prego di cuore, perdonatemi. |
-| PAGE | (a Caius ed Evans) Entriamo, signori. (A parte a loro) Ma credetemi, ce ne faremo beffe. (A Ford, Caius ed Evans) Vi invito domani mattina a [[house\|casa]] mia a colazione. Dopo, andremo insieme a caccia d’uccelli. Ho un bel falco per la macchia. Sarà così? |
+| PAGE | (a Caius ed Evans) Entriamo, signori. (A parte a loro) Ma credetemi, ce ne faremo beffe. (A Ford, Caius ed Evans) Vi invito domani mattina a casa mia a colazione. Dopo, andremo insieme a caccia d’uccelli. Ho un bel falco per la macchia. Sarà così? |
 | FORD | Qualunque cosa. |
 | EVANS | Se ce n’è uno, io farò due nella compagnia. |
 | CAIUS | Se ce n’è uno o due, io farò-a il terdo. |
@@ -838,7 +838,7 @@ The Merry Wives of Windsor
 | SLENDER | In verità, per parte mia, poco o nulla vorrei da voi. Vostro padre e mio zio hanno fatto delle proposte. Se è la mia fortuna, sia. Se no, felice chi l’avrà in sorte. Essi sanno dirvi come vanno le cose meglio di me. |
 | *(didascalia)* | Entrano [[characters/master-page\|mastro Page]] e [[characters/mistress-page\|madonna Page]] |
 | SLENDER | Potete chiederlo a vostro padre: eccolo che viene. |
-| PAGE | Ebbene, mastro Stender.—[[motifs/love\|Amalo]], figlia Anne.—<br>Ma come, che c’è? Che ci fa qui mastro [[characters/fenton\|Fenton]]?<br>Mi fate torto, signore, a frequentare così la mia [[house\|casa]].<br>Vi ho detto, signore, che di mia figlia s’è già disposto. |
+| PAGE | Ebbene, mastro Stender.—[[motifs/love\|Amalo]], figlia Anne.—<br>Ma come, che c’è? Che ci fa qui mastro [[characters/fenton\|Fenton]]?<br>Mi fate torto, signore, a frequentare così la mia casa.<br>Vi ho detto, signore, che di mia figlia s’è già disposto. |
 | [[characters/fenton\|FENTON]] | No, [[characters/master-page\|mastro Page]], non v’impazientite. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Buon mastro [[characters/fenton\|Fenton]], non venite dalla mia [[archetypes/child\|figliola]]. |
 | PAGE | Non è partito per voi. |
@@ -898,11 +898,11 @@ The Merry Wives of Windsor
 | FORD | Dio vi benedica, signore. |
 | SIR JOHN | Ebbene, mastro Brooke, venite a sapere che cosa sia passato tra me e la moglie di Ford. |
 | FORD | Proprio questo, Sir John, è il mio affare. |
-| SIR JOHN | Mastro Brooke, non vi mentirò. Fui alla sua [[house\|casa]] all’ora che ella mi aveva fissato. |
+| SIR JOHN | Mastro Brooke, non vi mentirò. Fui alla sua casa all’ora che ella mi aveva fissato. |
 | FORD | E come vi andò, signore? |
 | SIR JOHN | Assai malamente, mastro Brooke. |
 | FORD | Come mai, signore? Mutò ella il suo proposito? |
-| SIR JOHN | No, mastro Brooke, ma quel cornuto sgusciante di suo marito, mastro Brooke, che vive in un continuo allarme di [[concepts/jealousy\|gelosia]], mi arriva proprio nell’istante del nostro incontro—dopo che ci eravamo abbracciati, baciati, protestati e, per così dire, avevamo recitato il prologo della nostra [[forms/comedy\|commedia]]—e alle sue calcagna una marmaglia di suoi compagni, colà provocati e istigati dal suo malumore e, in verità, a frugargli la [[house\|casa]] per l’[[motifs/love\|amore]] di sua moglie. |
+| SIR JOHN | No, mastro Brooke, ma quel cornuto sgusciante di suo marito, mastro Brooke, che vive in un continuo allarme di [[concepts/jealousy\|gelosia]], mi arriva proprio nell’istante del nostro incontro—dopo che ci eravamo abbracciati, baciati, protestati e, per così dire, avevamo recitato il prologo della nostra [[forms/comedy\|commedia]]—e alle sue calcagna una marmaglia di suoi compagni, colà provocati e istigati dal suo malumore e, in verità, a frugargli la casa per l’[[motifs/love\|amore]] di sua moglie. |
 | FORD | Come, mentre voi eravate là? |
 | SIR JOHN | Mentre io ero là. |
 | FORD | E vi cercò, e non riuscì a trovarvi? |
@@ -916,7 +916,7 @@ The Merry Wives of Windsor
 | FORD | Sono già passate le otto, signore. |
 | SIR JOHN | Davvero? Allora mi avvierò al mio appuntamento. Venite da me a vostro comodo, e saprete come mi [[characters/speed\|andrà]]; e la conclusione sarà coronata dal vostro godere di lei. Addio. L’avrete, mastro Brooke; mastro Brooke, farete becco Ford. |
 | *(didascalia)* | Esce |
-| FORD | Hum! Ah! È questa una visione? È questo [[A Dream\|un sogno]]? [[motifs/sleep\|Dormo]] io? [[characters/master-ford\|Mastro Ford]], svegliati! Svegliati, [[characters/master-ford\|mastro Ford]]! C’è un buco nella tua veste migliore, [[characters/master-ford\|mastro Ford]]. Ecco che vuol dire essere ammogliati! Ecco che vuol dire avere biancheria e cesti da bucato! [[motifs/well\|Bene]], proclamerò io stesso ciò che sono. Ora prenderò il libertino. È in [[house\|casa]] mia. Non può sfuggirmi; è impossibile che lo faccia. Non può infilarsi in una borsa da mezzo penny, né in una pepiera. Ma per timore che il diavolo che lo guida gli presti aiuto, frugherò anche i luoghi impossibili. Sebbene ciò che sono io non possa evitarlo, pure l’essere ciò che non vorrei non mi renderà mansueto. Se ho corna da far impazzire, valga per me il proverbio: sarò pazzo di corna. Esce |
+| FORD | Hum! Ah! È questa una visione? È questo un sogno? [[motifs/sleep\|Dormo]] io? [[characters/master-ford\|Mastro Ford]], svegliati! Svegliati, [[characters/master-ford\|mastro Ford]]! C’è un buco nella tua veste migliore, [[characters/master-ford\|mastro Ford]]. Ecco che vuol dire essere ammogliati! Ecco che vuol dire avere biancheria e cesti da bucato! [[motifs/well\|Bene]], proclamerò io stesso ciò che sono. Ora prenderò il libertino. È in casa mia. Non può sfuggirmi; è impossibile che lo faccia. Non può infilarsi in una borsa da mezzo penny, né in una pepiera. Ma per timore che il diavolo che lo guida gli presti aiuto, frugherò anche i luoghi impossibili. Sebbene ciò che sono io non possa evitarlo, pure l’essere ciò che non vorrei non mi renderà mansueto. Se ho corna da far impazzire, valga per me il proverbio: sarò pazzo di corna. Esce |
 
 ### Atto 4, Scena 1
 
@@ -1002,7 +1002,7 @@ The Merry Wives of Windsor
 | [[characters/mistress-ford\|MISTRESS FORD]] | Là scaricano sempre i loro schioppi da caccia. |
 | *(didascalia)* | [[characters/mistress-page\|MISTRESS PAGE]] Infilatevi nella bocca del forno. |
 | SIR JOHN | Dov’è? |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Cercherà anche là, sulla mia parola. Non c’è armadio, forziere, cassa, baule, [[motifs/well\|pozzo]], cantina, di cui non abbia un compendio a memoria di tali luoghi, e ci va secondo la sua nota. Non c’è modo di nascondervi in [[house\|casa]]. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Cercherà anche là, sulla mia parola. Non c’è armadio, forziere, cassa, baule, [[motifs/well\|pozzo]], cantina, di cui non abbia un compendio a memoria di tali luoghi, e ci va secondo la sua nota. Non c’è modo di nascondervi in casa. |
 | SIR JOHN | Uscirò, allora. |
 | *(didascalia)* | [[characters/mistress-page\|MISTRESS PAGE]] Se uscite nelle vostre sembianze, siete morto, Sir John—a meno che non usciate travestito. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Come potremmo travestirlo? |
@@ -1012,7 +1012,7 @@ The Merry Wives of Windsor
 | [[characters/mistress-page\|MISTRESS PAGE]] | Sulla mia parola, gli servirà; è grossa quanto lui; e c’è il suo cappello di lana grezza, e anche la sua sciarpa.—Correte su, Sir John. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Andate, andate, dolce Sir John. [[characters/mistress-page\|Madonna Page]] e<br>io cercheremo un po’ di lino per la vostra testa. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Presto, presto! Veniamo subito a vestirvi. Intanto infilatevi la veste. Esce Sir John |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Vorrei che mio marito lo incontrasse in questa foggia. Non può soffrire la vecchia di Brentford. Giura che è una [[characters/witch\|strega]], le ha vietato la mia [[house\|casa]], e ha minacciato di bastonarla. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Vorrei che mio marito lo incontrasse in questa foggia. Non può soffrire la vecchia di Brentford. Giura che è una [[characters/witch\|strega]], le ha vietato la mia casa, e ha minacciato di bastonarla. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Il cielo lo guidi al randello di vostro marito, e il diavolo guidi poi quel randello! |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Ma sta venendo mio marito? |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Sì, in tutta serietà, e parla anche del cesto, comunque abbia avuto la notizia. |
@@ -1039,12 +1039,12 @@ The Merry Wives of Windsor
 | [[characters/mistress-ford\|MISTRESS FORD]] | Dio mi sia testimone che lo fate, se mi sospettate di qualche disonestà. |
 | FORD | [[motifs/well\|Ben]] detto, faccia di bronzo; tieni duro.<br>Apre il cesto e comincia a tirar fuori i panni<br>Vieni fuori, messere! |
 | PAGE | Questo passa ogni segno. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | (a Ford) Non vi vergognate? Lasciate stare i panni, [[Alone\|soli]] come sono. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | (a Ford) Non vi vergognate? Lasciate stare i panni, soli come sono. |
 | FORD | Ti troverò tra poco. |
 | EVANS | Non è ragionevole: volete tirar fuori i panni di vostra moglie? Suvvia, andiamo. |
 | *(didascalia)* | FORD a John e Robert Vuotate il cesto, dico. |
 | *(didascalia)* | PAGE Ma perché, uomo, perché? |
-| *(didascalia)* | FORD [[characters/master-page\|Mastro Page]], com’è vero che sono un uomo, ieri qualcuno fu portato fuori dalla mia [[house\|casa]] dentro questo cesto. Perché non potrebbe esserci di nuovo? In [[house\|casa]] mia sono certo che c’è. La mia informazione è vera, la mia [[concepts/jealousy\|gelosia]] è ragionevole. A John e Robert Tiratemi fuori tutta la biancheria. |
+| *(didascalia)* | FORD [[characters/master-page\|Mastro Page]], com’è vero che sono un uomo, ieri qualcuno fu portato fuori dalla mia casa dentro questo cesto. Perché non potrebbe esserci di nuovo? In casa mia sono certo che c’è. La mia informazione è vera, la mia [[concepts/jealousy\|gelosia]] è ragionevole. A John e Robert Tiratemi fuori tutta la biancheria. |
 | EVANS | Tira fuori i panni |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Se ci trovate un uomo, che muoia della [[motifs/death\|morte]] d’una pulce. |
 | PAGE | Qui non c’è nessun uomo. |
@@ -1052,11 +1052,11 @@ The Merry Wives of Windsor
 | EVANS | [[characters/master-ford\|Mastro Ford]], dovete pregare, e non seguire le immaginazioni del vostro proprio cuore. Questo è gelosie. |
 | FORD | [[motifs/well\|Bene]], non è qui colui che cerco. |
 | PAGE | No, né in alcun altro luogo se non nel vostro cervello. |
-| *(didascalia)* | FORD Aiutatemi a frugare la mia [[house\|casa]] questa sola [[motifs/time\|volta]]. Se non trovo ciò che cerco, non date colore alla mia stravaganza; sia io per sempre il vostro trastullo da tavola; dicano di me: ‘Geloso come Ford, che frugò una noce vuota in cerca dell’amante di sua moglie’. Soddisfatemi ancora una volta; ancora una volta frugate con me. Escono John e Robert col cesto |
+| *(didascalia)* | FORD Aiutatemi a frugare la mia casa questa sola [[motifs/time\|volta]]. Se non trovo ciò che cerco, non date colore alla mia stravaganza; sia io per sempre il vostro trastullo da tavola; dicano di me: ‘Geloso come Ford, che frugò una noce vuota in cerca dell’amante di sua moglie’. Soddisfatemi ancora una volta; ancora una volta frugate con me. Escono John e Robert col cesto |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Ehilà, [[characters/mistress-page\|madonna Page]]! Scendete voi e la vecchia. Mio marito verrà nella camera. |
 | FORD | Vecchia? Che vecchia è questa? |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Ma è la zia della mia serva, quella di Brentford. |
-| FORD | Una [[characters/witch\|strega]], una baldracca, una vecchia baldracca imbrogliona! ! Non le ho forse vietato la mia [[house\|casa]]? Viene per commissioni, eh? Siamo uomini semplici; non sappiamo che cosa si compia sotto la professione della buona ventura. Lavora con incanti, con formule, con la figura, e con simili imbratti, oltre il nostro elemento. Noi non sappiamo nulla.—Scendi, [[characters/witch\|strega]], vecchiaccia, tu ! Scendi, dico! |
+| FORD | Una [[characters/witch\|strega]], una baldracca, una vecchia baldracca imbrogliona! ! Non le ho forse vietato la mia casa? Viene per commissioni, eh? Siamo uomini semplici; non sappiamo che cosa si compia sotto la professione della buona ventura. Lavora con incanti, con formule, con la figura, e con simili imbratti, oltre il nostro elemento. Noi non sappiamo nulla.—Scendi, [[characters/witch\|strega]], vecchiaccia, tu ! Scendi, dico! |
 | *(didascalia)* | Entrano [[characters/mistress-page\|madonna Page]] e Sir John [[characters/falstaff\|Falstaff]], |
 | *(didascalia)* | travestito da vecchia. |
 | *(didascalia)* | Ford muove verso di loro |
@@ -1068,7 +1068,7 @@ The Merry Wives of Windsor
 | FORD | Impiccatela, [[characters/witch\|strega]]! |
 | EVANS | Per Gesù, credo che la tonna sia tavvero una [[characters/witch\|strega]]. Non mi piace quando una tonna ha una gran parpa. Ho spiato una gran parpa sotto la sua sciarpa. |
 | FORD | Volete seguirmi, signori? Vi supplico, seguitemi. Vedete solo l’esito della mia [[concepts/jealousy\|gelosia]]. Se abbaio così senza traccia, non fidatevi mai più di me quando darò voce di nuovo. |
-| PAGE | Assecondiamo il suo [[Humour\|umore]] ancora un poco. Venite, signori. Escono gli uomini |
+| PAGE | Assecondiamo il suo umore ancora un poco. Venite, signori. Escono gli uomini |
 | [[characters/mistress-page\|MISTRESS PAGE]] | In fede mia, l’ha bastonato in modo pietoso. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | No, per la messa, questo no—l’ha bastonato in modo spietato, mi pareva. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Farò benedire quel randello e appendere sopra l’altare. Ha reso un servizio meritorio. |
@@ -1087,7 +1087,7 @@ The Merry Wives of Windsor
 | BARDOLPH | Signore, i tedeschi [[motifs/desire\|desiderano]] avere tre dei vostri cavalli. Il Duca in persona sarà domani a [[settings/court\|corte]], ed essi vanno a incontrarlo. |
 | HOST | Che duca sarà mai costui che viene così di nascosto? Non ne sento parlare a [[settings/court\|corte]]. Fammi parlare con quei signori. Parlano inglese? |
 | BARDOLPH | Sì, signore. Ve li chiamo. |
-| HOST | Avranno i miei cavalli, ma glieli farò pagare; li condirò per bene. Hanno avuto la mia [[house\|casa]] a loro comando per una settimana; ho mandato via gli altri ospiti. Devono sborsare: li condirò per bene. Venite. Escono |
+| HOST | Avranno i miei cavalli, ma glieli farò pagare; li condirò per bene. Hanno avuto la mia casa a loro comando per una settimana; ho mandato via gli altri ospiti. Devono sborsare: li condirò per bene. Venite. Escono |
 
 ### Atto 4, Scena 4
 
@@ -1109,7 +1109,7 @@ The Merry Wives of Windsor
 | PAGE | Ebbene, non mancano tuttora molti che [[concepts/fear\|temono]]<br>di passare nel fondo della [[motifs/night\|notte]] accanto alla Quercia di Herne.<br>Ma che importa questo? |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Perbacco, ecco il nostro artificio:<br>che [[characters/falstaff\|Falstaff]] a quella quercia s’incontri con noi,<br>travestito da Herne, con enormi corna sul capo. |
 | PAGE | [[motifs/well\|Bene]], non si dubiti che verrà,<br>e in questa foggia. Quando l’avrete portato<br>là<br>che si farà di lui? Qual è il vostro piano? |
-| [[characters/mistress-page\|MISTRESS PAGE]] | Anche a questo abbiamo pensato, ed ecco come.<br>Nan Page mia figlia, e il mio figlioletto,<br>e tre o quattro altri della loro statura, vestiremo<br>da folletti, da gnomi e da fate, in verde e in bianco,<br>con corone di ceri di cera sul capo,<br>e sonagli nelle mani. All’improvviso,<br>appena [[characters/falstaff\|Falstaff]], lei e io ci saremo incontrati,<br>escano tutti insieme da una fossa da segheria,<br>con qualche [[Song\|canto]] confuso. Alla loro vista<br>noi due fuggiremo in grande sbigottimento.<br>Poi tutti lo circondino d’intorno,<br>e, a modo di fate, pizzichino l’immondo cavaliere,<br>e gli chiedano perché, in quell’ora di tripudio fatato,<br>osi calcare i loro sentieri tanto sacri<br>in forma profana.<br>[mistress! FORD E finché non dica la [[concepts/truth\|verità]],<br>lo pizzichino ben bene le supposte fate,<br>e lo brucino coi loro ceri. |
+| [[characters/mistress-page\|MISTRESS PAGE]] | Anche a questo abbiamo pensato, ed ecco come.<br>Nan Page mia figlia, e il mio figlioletto,<br>e tre o quattro altri della loro statura, vestiremo<br>da folletti, da gnomi e da fate, in verde e in bianco,<br>con corone di ceri di cera sul capo,<br>e sonagli nelle mani. All’improvviso,<br>appena [[characters/falstaff\|Falstaff]], lei e io ci saremo incontrati,<br>escano tutti insieme da una fossa da segheria,<br>con qualche canto confuso. Alla loro vista<br>noi due fuggiremo in grande sbigottimento.<br>Poi tutti lo circondino d’intorno,<br>e, a modo di fate, pizzichino l’immondo cavaliere,<br>e gli chiedano perché, in quell’ora di tripudio fatato,<br>osi calcare i loro sentieri tanto sacri<br>in forma profana.<br>[mistress! FORD E finché non dica la [[concepts/truth\|verità]],<br>lo pizzichino ben bene le supposte fate,<br>e lo brucino coi loro ceri. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Saputa la [[concepts/truth\|verità]],<br>ci presenteremo tutti, scorneremo lo spirito,<br>e fra le beffe lo ricondurremo a [[motifs/home\|casa]] a Windsor. |
 | FORD | I fanciulli dovranno<br>essere [[motifs/well\|bene]] addestrati a questo, o non lo faranno mai. |
 | EVANS | Insegnerò io ai fanciulli i loro contegni, e sarò anch’io come uno scimmiotto, per bruciare il cavaliere col mio cero. |
@@ -1131,7 +1131,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Entrano l’Oste della Giarrettiera e Simple |
 | HOST | Che vuoi, zoticone? Come, pellaccia? Parla, respira, discuti. Breve, corto, rapido, secco. |
 | SIMPLE | Perbacco, signore, vengo a parlare con Sir John [[characters/falstaff\|Falstaff]], da parte di mastro Slender. |
-| HOST | Ecco la sua camera, la sua [[house\|casa]], il suo [[settings/castle\|castello]], il suo letto grande e il suo lettuccio a rotelle. È dipinto tutt’intorno con la storia del Prodigo, fresca e nuova. Va’ a bussare e chiama. Ti parlerà come un Antropofagino. Bussa, dico. |
+| HOST | Ecco la sua camera, la sua casa, il suo [[settings/castle\|castello]], il suo letto grande e il suo lettuccio a rotelle. È dipinto tutt’intorno con la storia del Prodigo, fresca e nuova. Va’ a bussare e chiama. Ti parlerà come un Antropofagino. Bussa, dico. |
 | SIMPLE | C’è una vecchia, una donna grassa, salita nella sua camera. Mi prenderò l’ardire d’aspettare, signore, finché scenda. Vengo a parlare con lei, per l’appunto. |
 | HOST | Ah, una donna grassa? Il cavaliere potrebbe essere derubato. Chiamo io.—Bravo cavaliere, bravo Sir John! Parla coi tuoi polmoni militari! Sei là? È il tuo oste, il tuo Efesino, che ti chiama. |
 | SIR JOHN | (dall’interno) Ebbene, oste mio? |
@@ -1272,7 +1272,7 @@ The Merry Wives of Windsor
 | EVANS | Dov’è Bead? Va’ tu, e, dove trovi una fanciulla<br>che prima di [[motifs/sleep\|dormire]] abbia detto tre volte le sue preghiere,<br>eccita gli organi della sua fantasia,<br>[[motifs/sleep\|dorma]] ella profonda come spensierata infanzia.<br>Ma quelle che [[motifs/sleep\|dormono]] e non pensano ai loro peccati,<br>pizzicale su braccia, gambe, schiene, spalle, fianchi e<br>stinchi. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Intorno, intorno!<br>Frugate il [[settings/castle\|Castello]] di Windsor, elfi, dentro e fuori.<br>Spargete buona sorte, gnomi, su ogni sacra stanza,<br>ch’esso possa reggere fino al giudizio perpetuo<br>in stato sano quanto al suo stato s’addice,<br>degno del suo signore, e il signore degno di lui.<br>Le varie sedie dell’Ordine badate di lustrare<br>con succo di balsamo e ogni fiore prezioso.<br>Ogni bell’insegna, stemma e distinto cimiero<br>sia in eterno benedetto da leale blasone;<br>e ogni notte, fate dei prati, badate di cantare,<br>come il cerchio della Giarrettiera, in tondo. 65<br>L’impronta ch’esso porta, verde ella sia,<br>più fertile e fresca a vedersi di tutto il campo;<br>e ‘Honi soit qui mal y pense’ scrivete<br>in ciuffi di smeraldo, [[motifs/flowers\|fiori]] purpurei, azzurri e bianchi,<br>come zaffiro, perla e ricco ricamo,<br>affibbiati sotto il ginocchio piegato del bel cavalierato—<br>le fate usano [[motifs/flowers\|fiori]] per la loro scrittura.<br>Via, disperdetevi!—Ma finché non sia l’una all’[[motifs/clock\|orologio]]<br>la nostra [[motifs/dance\|danza]] consueta, intorno alla quercia<br>di Herne il cacciatore, non dimentichiamo. |
 | EVANS | Vi prego, allacciate mano a mano; disponetevi in ordine;<br>e venti lucciole saranno le nostre lanterne<br>per guidare la nostra misura intorno all’albero.—<br>Ma fermi; fiuto un uomo di terra di mezzo. |
-| SIR JOHN | (a parte)<br>Dio mi difenda da quella fata gallese,<br>ché non mi trasformi in un pezzo di [[cheese\|formaggio]]! |
+| SIR JOHN | (a parte)<br>Dio mi difenda da quella fata gallese,<br>ché non mi trasformi in un pezzo di formaggio! |
 | *(didascalia)* | HOBGOBLIN (a Sir John) |
 | SIR JOHN | Verme vile, fosti maleficiato fin dalla nascita. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (alle fate)<br>Col [[motifs/fire\|fuoco]] della prova, toccatemi la punta del suo dito.<br>Se è casto, la fiamma discenderà all’indietro,<br>e non gli darà [[motifs/pain\|pena]]; ma se trasalisce,<br>è carne d’un cuore corrotto. |
@@ -1281,7 +1281,7 @@ The Merry Wives of Windsor
 | EVANS | Venite, prenderà [[motifs/fire\|fuoco]] questo legno ?<br>Bruciano Sir John coi ceri |
 | SIR JOHN | Oh, oh, oh! |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Corrotto, corrotto, e infetto nel [[motifs/desire\|desiderio]].<br>Intorno a lui, fate; cantate una rima di scherno;<br>e, mentre saltellate, pizzicatelo sempre a [[motifs/time\|tempo]].<br>[[motifs/dance\|Danzano]] intorno a Sir John, pizzicandolo e cantando: |
-| FAIRIES | Ohibò la fantasia peccaminosa!<br>Ohibò la lussuria e il lusso!<br>La lussuria non è che un [[motifs/fire\|fuoco]] sanguigno,<br>acceso con impuro [[motifs/desire\|desiderio]],<br>nutrito in cuore, le cui fiamme aspirano,<br>quando i pensieri le soffiano, più alto e più alto.<br>Pizzicatelo, fate, a vicenda.<br>Pizzicatelo per la sua scelleratezza.<br>Pizzicatelo, e bruciatelo, e fatelo girare,<br>finché candele e luce di stelle e chiaro di luna siano spenti.<br>Durante il [[Song\|canto]], entra il [[characters/doctor-caius\|dottor Caius]] da una parte, ed esce portando via furtivamente una fata in verde; entra mastro Slender da un’altra parte, ed esce portando via furtivamente una fata in bianco; entra mastro [[characters/fenton\|Fenton]], ed esce portando via furtivamente [[characters/anne-page\|Anne Page]]. Dopo il [[Song\|canto]], rumore di caccia dall’interno. Escono [[characters/mistress-quickly\|madonna Quickly]], Evans, Hobgoblin e le fate, correndo. Sir John si alza e fa per fuggire. Entrano [[characters/master-page\|mastro Page]], [[characters/master-ford\|mastro Ford]], [[characters/mistress-page\|madonna Page]] e [[characters/mistress-ford\|madonna Ford]] |
+| FAIRIES | Ohibò la fantasia peccaminosa!<br>Ohibò la lussuria e il lusso!<br>La lussuria non è che un [[motifs/fire\|fuoco]] sanguigno,<br>acceso con impuro [[motifs/desire\|desiderio]],<br>nutrito in cuore, le cui fiamme aspirano,<br>quando i pensieri le soffiano, più alto e più alto.<br>Pizzicatelo, fate, a vicenda.<br>Pizzicatelo per la sua scelleratezza.<br>Pizzicatelo, e bruciatelo, e fatelo girare,<br>finché candele e luce di stelle e chiaro di luna siano spenti.<br>Durante il canto, entra il [[characters/doctor-caius\|dottor Caius]] da una parte, ed esce portando via furtivamente una fata in verde; entra mastro Slender da un’altra parte, ed esce portando via furtivamente una fata in bianco; entra mastro [[characters/fenton\|Fenton]], ed esce portando via furtivamente [[characters/anne-page\|Anne Page]]. Dopo il canto, rumore di caccia dall’interno. Escono [[characters/mistress-quickly\|madonna Quickly]], Evans, Hobgoblin e le fate, correndo. Sir John si alza e fa per fuggire. Entrano [[characters/master-page\|mastro Page]], [[characters/master-ford\|mastro Ford]], [[characters/mistress-page\|madonna Page]] e [[characters/mistress-ford\|madonna Ford]] |
 | PAGE | No, non fuggite. Credo che questa volta vi abbiamo colto.<br>Nessun altro che Herne il cacciatore fa al caso vostro? |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Vi prego, venite, non tirate più su la burla.<br>Ora, buon Sir John, come vi piacciono le mogli di Windsor?<br>(Indicando le corna di [[characters/falstaff\|Falstaff]])<br><br>Le vedete, marito? Non stanno questi bei gioghi<br>meglio alla foresta che alla città ? |
 | FORD | (a Sir John) Ebbene, signore, chi è becco adesso? Mastro Brooke, [[characters/falstaff\|Falstaff]] è un furfante, un furfante becco. Ecco le sue corna, mastro Brooke. E, mastro Brooke, egli non ha goduto nulla di Ford se non il suo cesto da bucato, il suo randello e venti sterline di denaro che dovranno essere restituite a mastro Brooke; i suoi cavalli sono sotto sequestro per questo, mastro Brooke. |
@@ -1293,7 +1293,7 @@ The Merry Wives of Windsor
 | FORD | [[motifs/well\|Ben]] detto, fata Hugh. |
 | EVANS | E lasciate anche voi le vostre gelosie, vi prego. |
 | FORD | Non diffiderò mai più di mia moglie finché tu non sarai in grado di corteggiarla in buon inglese. |
-| SIR JOHN | Ho forse messo il mio cervello al sole a seccare, che gli manchi materia per prevenire un raggiro tanto grossolano come questo? Sono cavalcato anche da un capro gallese? Avrò un berretto da matto di rozza lana ? È [[motifs/time\|tempo]] ch’io sia soffocato con un pezzo di [[cheese\|formaggio]] abbrustolito. |
+| SIR JOHN | Ho forse messo il mio cervello al sole a seccare, che gli manchi materia per prevenire un raggiro tanto grossolano come questo? Sono cavalcato anche da un capro gallese? Avrò un berretto da matto di rozza lana ? È [[motifs/time\|tempo]] ch’io sia soffocato con un pezzo di formaggio abbrustolito. |
 | EVANS | Il formaccio non è puono per tare il purro; il vostro ventre è tutto purro. z to |
 | SIR JOHN | ‘Formaccio’ e ‘purro’? Sono vissuto per star sotto il motteggio di uno che fa frittelle dell’inglese? Questo basta a essere la [[motifs/decay\|rovina]] della lussuria e delle passeggiate notturne per il regno. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Ma via, Sir John, credete voi che, anche se avessimo cacciato la virtù dai nostri cuori a spintoni, e ci fossimo date senza scrupolo all’inferno, il diavolo avrebbe mai potuto fare di voi la nostra delizia? |
@@ -1306,7 +1306,7 @@ The Merry Wives of Windsor
 | EVANS | E dato alle fornicazioni, e alle taverne, e al vino di Spagna, e al vino, e agli idromeli; e alle bevute, e alle bestemmie, e agli sguardi torvi, ai pisticci e ai pasticci? |
 | SIR JOHN | [[motifs/well\|Bene]], sono il vostro tema; avete vantaggio su di me. Sono abbattuto. Non sono in grado di rispondere alla flanella gallese. L’ignoranza stessa mi sovrasta a piombo. Trattatemi come vi piace. |
 | FORD | Perbacco, signore, vi porteremo a Windsor, da un certo mastro Brooke, che avete truffato di denaro, e per il quale dovevate fare il ruffiano. Oltre e al di sopra di quanto avete sofferto, credo che restituire quel denaro sarà un’afflizione pungente. |
-| PAGE | Pure siate allegro, cavaliere. Stanotte berrai un posset a [[house\|casa]] mia, dove ti [[motifs/desire\|inviterò]] a ridere di mia moglie che ora ride di te. Dille che mastro Slender ha sposato sua figlia. |
+| PAGE | Pure siate allegro, cavaliere. Stanotte berrai un posset a casa mia, dove ti [[motifs/desire\|inviterò]] a ridere di mia moglie che ora ride di te. Dille che mastro Slender ha sposato sua figlia. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | (a parte) I dottori ne [[concepts/doubt\|dubitano]]! Se [[characters/anne-page\|Anne Page]] è mia figlia, ella è, a quest’ora, moglie del [[characters/doctor-caius\|dottor Caius]]. |
 | *(didascalia)* | Entra mastro Slender |
 | SLENDER | Ohilà, oh, oh, padre Page! |
@@ -1334,7 +1334,7 @@ The Merry Wives of Windsor
 | FORD | (a Page e a [[characters/mistress-page\|madonna Page]])<br>Non stupitevi. Qui non c’è rimedio.<br>In [[motifs/love\|amore]] i cieli stessi guidano lo stato;<br>il denaro compra terre, e le mogli son vendute dal fato. |
 | SIR JOHN | Sono lieto che, sebbene abbiate preso posta apposta per colpire me, la vostra freccia sia andata di sghembo. |
 | PAGE | [[motifs/well\|Bene]], che rimedio c’è? [[characters/fenton\|Fenton]], il cielo ti dia gioia I<br>Ciò che non si può schivare bisogna abbracciarlo. |
-| SIR JOHN | Quando corrono i [[dogs\|cani]] della [[motifs/night\|notte]], si dà la caccia a ogni sorta di cervi. |
+| SIR JOHN | Quando corrono i cani della [[motifs/night\|notte]], si dà la caccia a ogni sorta di cervi. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | [[motifs/well\|Bene]], non rimuginerò oltre. Mastro [[characters/fenton\|Fenton]],<br>il cielo vi dia molti, molti giorni allegri!<br>Buon marito, andiamocene tutti a [[motifs/home\|casa]],<br>e ridiamo di questo spasso accanto a un [[motifs/fire\|fuoco]] di campagna,<br>Sir John e tutti quanti. |
 
 
@@ -1361,15 +1361,15 @@ The Merry Wives of Windsor
 | EVANS | Yes, py’r Lady. If he has a quarter of your coat, there is but three skirts for yourself, in my simple conjectures. But that is all one. If Sir John [[characters/falstaff\|Falstaff]] have committed disparagements unto you, I am of the Church, and will be glad to do my benevolence to make atonements and compromises between you. |
 | SHALLOW | The Council shall hear it; it is a riot. |
 | EVANS | It is not meet the Council hear a riot. There is no [[concepts/fear\|fear]] of Got in a riot. The Council, look you, shall [[motifs/desire\|desire]] to hear the [[concepts/fear\|fear]] of Got, and not to hear a riot. Take your ’visaments in that. |
-| SHALLOW | Ha! O’ my life, if I were young again, the [[Sword\|sword]] should end it. |
-| EVANS | It is petter that friends is the [[Sword\|sword]] and end it. And there is also another device in my prain, which peradventure prings goot discretions with it. There is [[characters/anne-page\|Anne Page]] which is daughter to Master George Page, which is pretty virginity. |
+| SHALLOW | Ha! O’ my life, if I were young again, the sword should end it. |
+| EVANS | It is petter that friends is the sword and end it. And there is also another device in my prain, which peradventure prings goot discretions with it. There is [[characters/anne-page\|Anne Page]] which is daughter to Master George Page, which is pretty virginity. |
 | SLENDER | Mistress [[characters/anne-page\|Anne Page]]? She has brown hair, and speaks small like a woman? |
 | EVANS | It is that fery person for all the ‘orld, as just as you will [[motifs/desire\|desire]]. And seven hundred pounds of moneys, and gold and silver, is her grandsire upon his [[motifs/death\|death]]’s-bed—Got deliver to a joyful resurrections—give, when she is able to overtake seventeen years old. It were a goot motion if we leave our pribbles and prabbles, and [[motifs/desire\|desire]] a [[motifs/marriage\|marriage]] between Master Abraham and Mistress [[characters/anne-page\|Anne Page]]. |
 | SLENDER | Did her grandsire leave her seven hundred pound? |
 | *(didascalia)* | EVANS Ay, and her father is make her a petter penny. SHALLOWI know the young gentlewoman. She has good gifts. |
 | EVANS | Seven hundred pounds and possibilities is goot gifts. |
 | SHALLOW | [[motifs/well\|Well]], let us see honest [[characters/master-page\|Master Page]]. Is [[characters/falstaff\|Falstaff]] there? |
-| EVANS | Shall I tell you a lie? I do despise a liar as I do despise one that is false, or as I despise one that is not true. The knight Sir John is there, and I beseech you be ruled by your [[motifs/well\|well]]-willers. I will peat the door for [[characters/master-page\|Master Page]].<br>He knocks on the door<br>What ho! Got pless your [[house]] here I |
+| EVANS | Shall I tell you a lie? I do despise a liar as I do despise one that is false, or as I despise one that is not true. The knight Sir John is there, and I beseech you be ruled by your [[motifs/well\|well]]-willers. I will peat the door for [[characters/master-page\|Master Page]].<br>He knocks on the door<br>What ho! Got pless your house here I |
 | *(didascalia)* | PAGE within Who’s there? |
 | EVANS | Here is Got’s plessing and your friend, and [[characters/justice-shallow\|Justice Shallow]], and here young Master Slender, that peradventures shall tell you another tale if matters grow to your likings. |
 | *(didascalia)* | Enter [[characters/master-page\|Master Page]] |
@@ -1401,11 +1401,11 @@ The Merry Wives of Windsor
 | EVANS | Pauca verba, Sir John, good worts. |
 | SIR JOHN | Good worts? Good cabbage!—Slender, I broke your head. What matter have you against me? |
 | SLENDER | Marry, sir, I have matter in my head against you, and against your cony-catching rascals, Bardolph, Nim, and [[characters/pistol\|Pistol]]. |
-| BARDOLPH | You Banbury [[cheese]]! |
+| BARDOLPH | You Banbury cheese! |
 | SLENDER | Ay, it is no matter. |
 | [[characters/pistol\|PISTOL]] | How now, Mephistopheles? |
 | SLENDER | Ay, it is no matter. |
-| NIM | Slice, I say pauca, pauca. Slice, that’s my [[Humour\|humour]]. |
+| NIM | Slice, I say pauca, pauca. Slice, that’s my humour. |
 | SLENDER | (to Shallow) Where’s Simple, my man? Can you tell, cousin? |
 | EVANS | Peace, I pray you. Now let us understand. There is three umpires in this matter, as I understand: that is, [[characters/master-page\|Master Page]], fidelicet [[characters/master-page\|Master Page]]; and there is myself, fidelicet myself; and the three party is, lastly and finally, mine Host of the Garter. |
 | PAGE | We three to hear it, and end it between them. |
@@ -1419,7 +1419,7 @@ The Merry Wives of Windsor
 | EVANS | No, it is false, if it is a pickpurse. |
 | [[characters/pistol\|PISTOL]] | Ha, thou mountain-foreigner Sir John and master<br>mine,<br>I combat challenge of this latten bilbo.—<br>Word of denial in thy labras here,<br>Word of denial: froth and scum, thou liest. |
 | SLENDER | (pointing to Nim) By these gloves, then, ’twas he. |
-| NIM | Be advised, sir, and pass good humours. I will say ’marry, trap with you’ if you run the nuthook’s [[Humour\|humour]] on me. That is the very note of it. |
+| NIM | Be advised, sir, and pass good humours. I will say ’marry, trap with you’ if you run the nuthook’s humour on me. That is the very note of it. |
 | SLENDER | By this hat, then, he in the red face had it. For though I cannot remember what I did when you made me drunk, yet I am not altogether an ass. |
 | SIR JOHN | (to Bardolph) What say you, Scarlet and John? |
 | BARDOLPH | Why, sir, for my part I say the gentleman had drunk himself out of his five sentences. |
@@ -1436,7 +1436,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | He kisses her |
 | PAGE | Wife, bid these gentlemen welcome.—Come, we have a hot venison pasty to dinner. Come, gentlemen, I [[concepts/hope\|hope]] we shall drink down all unkindness. |
 | *(didascalia)* | Exeunt all but Slender |
-| SLENDER | I had rather than forty shillings I had my book of [[songs]] and sonnets here. |
+| SLENDER | I had rather than forty shillings I had my book of songs and sonnets here. |
 | *(didascalia)* | Enter Simple |
 | SLENDER | How now, Simple, where have you been? I must wait<br>on myself, must I? You have not the book of riddles<br>about you, have you? |
 | SIMPLE | Book of riddles? Why, did you not lend it to Alice Shortcake upon Allhallowmas last, a fortnight afore Michaelmas? |
@@ -1474,8 +1474,8 @@ The Merry Wives of Windsor
 | ANNE | I may not go in without your worship. They will not sit till you come. |
 | SLENDER | I’[[concepts/faith\|faith]], I’ll eat nothing. I thank you as much as though I did. |
 | ANNE | I pray you, sir, walk in. |
-| *(didascalia)* | [[dogs\|Dogs]] bark within |
-| SLENDER | I had rather walk here, I thank you. I bruised my shin th‘other day, with playing at [[Sword\|sword]] and dagger with a master of fence—three veneys for a dish of stewed prunes—and, by my troth, I cannot abide the smell of hot meat since. Why do your [[dogs]] bark so? Be there bears i’th’ town? |
+| *(didascalia)* | Dogs bark within |
+| SLENDER | I had rather walk here, I thank you. I bruised my shin th‘other day, with playing at sword and dagger with a master of fence—three veneys for a dish of stewed prunes—and, by my troth, I cannot abide the smell of hot meat since. Why do your dogs bark so? Be there bears i’th’ town? |
 | ANNE | I think there are, sir. I heard them talked of. |
 | SLENDER | I [[motifs/love\|love]] the sport [[motifs/well\|well]]—but I shall as soon quarrel at it as any man in England. You are afraid if you see the bear loose, are you not? |
 | ANNE | Ay, indeed, sir. |
@@ -1515,15 +1515,15 @@ The Merry Wives of Windsor
 | EVANS | Sì, per la Matonna. Se ha un quarto del vostro stemma, non restano che tre falde per voi, secondo le mie semplici congetture. Ma è tutt’uno. Se Sir John [[characters/falstaff\|Falstaff]] ha commesso tisprezzamenti contro di voi, io sono della Chiesa, e sarò lieto di prestare la mia penevolenza per fare espiazioni e compromessi tra voi. |
 | SHALLOW | Il Consiglio ne sarà informato; è una sommossa. |
 | EVANS | Non è confeniente che il Consiglio senta una sommossa. Non c’è [[concepts/fear\|timore]] di Tio in una sommossa. Il Consiglio, fedete, [[motifs/desire\|tesitererà]] udire il [[concepts/fear\|timore]] di Tio, e non udire una sommossa. Prendete i vostri ’fvisamenti su questo. |
-| SHALLOW | Ah! Sulla mia vita, se fossi giovane ancora, la [[Sword\|spada]] la finirebbe. |
-| EVANS | È meglio che gli amici siano la [[Sword\|spata]] e la finiscano. E c’è anche un altro tisegno nel mio cerfello, che forse porta con sé pone tiscrezioni. C’è [[characters/anne-page\|Anne Page]] che è figlia di mastro George Page, che è graziosa ferginità. |
+| SHALLOW | Ah! Sulla mia vita, se fossi giovane ancora, la spada la finirebbe. |
+| EVANS | È meglio che gli amici siano la spata e la finiscano. E c’è anche un altro tisegno nel mio cerfello, che forse porta con sé pone tiscrezioni. C’è [[characters/anne-page\|Anne Page]] che è figlia di mastro George Page, che è graziosa ferginità. |
 | SLENDER | Madonna [[characters/anne-page\|Anne Page]]? Ha i capelli castani, e parla sottile come una donna? |
 | EVANS | È quella fera persona in tutto il monto, giusto come potrete [[motifs/desire\|tesiterare]]. E settecento sterline di tanaro, e oro e argento, glieli tà suo nonno sul suo letto di [[motifs/death\|morte]]—Tio lo conduca a una gioiosa risurrezioni—quando ella sarà in grado di raggiungere i diciassette anni. Sarepe una pona mozione se lasciassimo i nostri pisticci e pasticci, e [[motifs/desire\|tesiterassimo]] un [[motifs/marriage\|matrimonio]] tra mastro Abraham e madonna [[characters/anne-page\|Anne Page]]. |
 | SLENDER | Il nonno le ha lasciato settecento sterline? |
 | *(didascalia)* | EVANS Sì, e suo padre le farà un gruzzolo ancora pon migliore. SHALLOWConosco la giovane gentildonna. Ha buone doti. |
 | EVANS | Settecento sterline e possipilità sono pone toti. |
 | SHALLOW | [[motifs/well\|Bene]], andiamo a vedere l’onesto [[characters/master-page\|mastro Page]]. C’è [[characters/falstaff\|Falstaff]] là? |
-| EVANS | Ti dirò una pugia? Tisprezzo un pugiardo come tisprezzo uno che è falso, o come tisprezzo uno che non è fero. Il cavaliere Sir John è là, e vi supplico di lasciarvi guidare da chi vi fuole [[motifs/well\|pene]]. Patterò alla porta per [[characters/master-page\|mastro Page]].<br>Bussa alla porta<br>Ehilà! Tio penetica la vostra [[house\|casa]] qui I |
+| EVANS | Ti dirò una pugia? Tisprezzo un pugiardo come tisprezzo uno che è falso, o come tisprezzo uno che non è fero. Il cavaliere Sir John è là, e vi supplico di lasciarvi guidare da chi vi fuole [[motifs/well\|pene]]. Patterò alla porta per [[characters/master-page\|mastro Page]].<br>Bussa alla porta<br>Ehilà! Tio penetica la vostra casa qui I |
 | *(didascalia)* | PAGE dall’interno Chi è là? |
 | EVANS | Qui c’è la penetizione di Tio e il vostro amico, e [[characters/justice-shallow\|il giudice Shallow]], e qui il giovane mastro Slender, che forse fi racconterà un’altra storia se le cose fanno di vostro gratimento. |
 | *(didascalia)* | Entra [[characters/master-page\|mastro Page]] |
@@ -1555,11 +1555,11 @@ The Merry Wives of Windsor
 | EVANS | Pauca verba, Sir John, pone erpe. |
 | SIR JOHN | Buone erbe? Buoni cavoli!—Slender, vi ho rotto la testa. Che faccenda avete contro di me? |
 | SLENDER | Perbacco, signore, ho una faccenda in testa contro di voi, e contro i vostri furfanti acchiappaconigli, Bardolph, Nim e [[characters/pistol\|Pistol]]. |
-| BARDOLPH | Voi, [[cheese\|formaggio]] di Banbury! |
+| BARDOLPH | Voi, formaggio di Banbury! |
 | SLENDER | Sì, non importa. |
 | [[characters/pistol\|PISTOL]] | Che c’è, Mefistofele? |
 | SLENDER | Sì, non importa. |
-| NIM | Taglia, dico pauca, pauca. Taglia, questo è il mio [[Humour\|umore]]. |
+| NIM | Taglia, dico pauca, pauca. Taglia, questo è il mio umore. |
 | SLENDER | (a Shallow) Dov’è Simple, il mio uomo? Sapete dirmelo, cugino? |
 | EVANS | Pace, vi prego. Ora intentiamoci. Ci sono tre arpitri in questa faccenda, per quanto io capisco: cioè [[characters/master-page\|mastro Page]], fidelicet [[characters/master-page\|mastro Page]]; e ci sono io, fidelicet io stesso; e la terza parte è, ultima e finalmente, il mio oste della Giarrettiera. |
 | PAGE | Noi tre a udirla, e a finirla fra loro. |
@@ -1573,7 +1573,7 @@ The Merry Wives of Windsor
 | EVANS | No, è falso, se è un porseggiatore. |
 | [[characters/pistol\|PISTOL]] | Ah, tu straniero di montagna Sir John e mio<br>padrone,<br>io sfido a duello questo spadino d’ottone.—<br>Parola di smentita sulle tue labras qui,<br>Parola di smentita: schiuma e feccia, tu menti. |
 | SLENDER | (indicando Nim) Per questi guanti, allora, fu lui. |
-| NIM | State avvisato, signore, e passate buoni umori. Vi dirò ’perbacco, trappola con voi’ se mi mettete addosso l’[[Humour\|umore]] del birro. Questa è proprio la nota della cosa. |
+| NIM | State avvisato, signore, e passate buoni umori. Vi dirò ’perbacco, trappola con voi’ se mi mettete addosso l’umore del birro. Questa è proprio la nota della cosa. |
 | SLENDER | Per questo cappello, allora, l’ebbe quello dalla faccia rossa. Ché, sebbene io non ricordi che cosa feci quando mi faceste ubriacare, pure non sono del tutto un asino. |
 | SIR JOHN | (a Bardolph) Che dite voi, Scarlatto e Giovanni? |
 | BARDOLPH | Ebbene, signore, per parte mia dico che il gentiluomo aveva bevuto fino a uscire dalle sue cinque sentenze. |
@@ -1590,7 +1590,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | La bacia |
 | PAGE | Moglie, da’ il benvenuto a questi signori.—Venite, abbiamo un caldo pasticcio di selvaggina per pranzo. Venite, signori, [[concepts/hope\|spero]] che affogheremo nel bere ogni scortesia. |
 | *(didascalia)* | Escono tutti tranne Slender |
-| SLENDER | Darei più di quaranta scellini per avere qui il mio libro di [[songs\|canzoni]] e sonetti. |
+| SLENDER | Darei più di quaranta scellini per avere qui il mio libro di canzoni e sonetti. |
 | *(didascalia)* | Entra Simple |
 | SLENDER | Ebbene, Simple, dove sei stato? Devo servirmi<br>da me, io? Non hai con te il libro degli<br>indovinelli, vero? |
 | SIMPLE | Il libro degli indovinelli? Ma come, non lo prestaste ad Alice Shortcake il giorno d’Ognissanti scorso, quindici giorni prima di San Michele? |
@@ -1628,8 +1628,8 @@ The Merry Wives of Windsor
 | ANNE | Non posso entrare senza vostra signoria. Non si siederanno finché non venite. |
 | SLENDER | In [[concepts/faith\|fede]] mia, non mangerò nulla. Vi ringrazio come se l’avessi fatto. |
 | ANNE | Vi prego, signore, entrate. |
-| *(didascalia)* | [[dogs\|I cani]] abbaiano dentro |
-| SLENDER | Preferisco passeggiare qui, vi ringrazio. Mi ammaccai lo stinco l’altro giorno, giocando di [[Sword\|spada]] e pugnale con un maestro di scherma—tre assalti per un piatto di prugne cotte—e, in fede mia, da allora non posso sopportare l’odore della carne calda. Perché i vostri [[dogs\|cani]] abbaiano così? Ci sono orsi in città? |
+| *(didascalia)* | I cani abbaiano dentro |
+| SLENDER | Preferisco passeggiare qui, vi ringrazio. Mi ammaccai lo stinco l’altro giorno, giocando di spada e pugnale con un maestro di scherma—tre assalti per un piatto di prugne cotte—e, in fede mia, da allora non posso sopportare l’odore della carne calda. Perché i vostri cani abbaiano così? Ci sono orsi in città? |
 | ANNE | Credo di sì, signore. Ne ho sentito parlare. |
 | SLENDER | [[motifs/love\|Amo]] assai quello sport, e [[motifs/well\|bene]]—ma sono pronto a litigarci sopra quanto ogni uomo d’Inghilterra. Avete paura, se vedete l’orso sciolto, non è vero? |
 | ANNE | Sì, davvero, signore. |
@@ -1655,9 +1655,9 @@ The Merry Wives of Windsor
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter Sir Hugh Evans and Simple, from dinner |
-| EVANS | Go your ways, and ask of [[characters/doctor-caius\|Doctor Caius]]’ [[house]] which is the way. And there dwells one [[characters/mistress-quickly\|Mistress Quickly]], which is in the manner of his ’oman, or his dry-[[characters/nurse\|nurse]], or his cook, or his laundry, his washer, and his wringer. |
+| EVANS | Go your ways, and ask of [[characters/doctor-caius\|Doctor Caius]]’ house which is the way. And there dwells one [[characters/mistress-quickly\|Mistress Quickly]], which is in the manner of his ’oman, or his dry-[[characters/nurse\|nurse]], or his cook, or his laundry, his washer, and his wringer. |
 | SIMPLE | [[motifs/well\|Well]], sir. |
-| *(didascalia)* | EVANS Nay, it is petter yet. Give her this letter, for it is a ’oman that altogethers acquaintance with Mistress [[characters/anne-page\|Anne Page]]. And the letter is to [[motifs/desire\|desire]] and require her to solicit your master’s desires to Mistress [[characters/anne-page\|Anne Page]]. I pray you be gone. Exit Simple I will make an end of my dinner; there’s pippins and [[cheese]] to come. Exit |
+| *(didascalia)* | EVANS Nay, it is petter yet. Give her this letter, for it is a ’oman that altogethers acquaintance with Mistress [[characters/anne-page\|Anne Page]]. And the letter is to [[motifs/desire\|desire]] and require her to solicit your master’s desires to Mistress [[characters/anne-page\|Anne Page]]. I pray you be gone. Exit Simple I will make an end of my dinner; there’s pippins and cheese to come. Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1665,9 +1665,9 @@ The Merry Wives of Windsor
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano Sir Hugh Evans e Simple, da pranzo |
-| EVANS | Va’ per la tua strada, e chiedi qual è la via della [[house\|casa]] del [[characters/doctor-caius\|dottor Caius]]. E là abita una certa [[characters/mistress-quickly\|madonna Quickly]], che gli fa in un certo motto da tonna, o da [[characters/nurse\|palia asciutta]], o da cuoca, o da lavanteria, la sua lafandaia e la sua strizzatrice. |
+| EVANS | Va’ per la tua strada, e chiedi qual è la via della casa del [[characters/doctor-caius\|dottor Caius]]. E là abita una certa [[characters/mistress-quickly\|madonna Quickly]], che gli fa in un certo motto da tonna, o da [[characters/nurse\|palia asciutta]], o da cuoca, o da lavanteria, la sua lafandaia e la sua strizzatrice. |
 | SIMPLE | [[motifs/well\|Bene]], signore. |
-| *(didascalia)* | EVANS No, c’è ancora di petter. Dalle questa lettera, perché è una tonna che ha tutta la conoscenza di madonna [[characters/anne-page\|Anne Page]]. E la lettera serve a [[motifs/desire\|tesiterare]] e richiedere che ella patrocini i desideri del tuo padrone presso madonna [[characters/anne-page\|Anne Page]]. Ti prego, fa’ presto ad andare. Esce Simple Andrò a finire il mio pranzo; hanno da venire ancora mele ranette e [[cheese\|formaggio]]. Esce |
+| *(didascalia)* | EVANS No, c’è ancora di petter. Dalle questa lettera, perché è una tonna che ha tutta la conoscenza di madonna [[characters/anne-page\|Anne Page]]. E la lettera serve a [[motifs/desire\|tesiterare]] e richiedere che ella patrocini i desideri del tuo padrone presso madonna [[characters/anne-page\|Anne Page]]. Ti prego, fa’ presto ad andare. Esce Simple Andrò a finire il mio pranzo; hanno da venire ancora mele ranette e formaggio. Esce |
 
 
 
@@ -1690,8 +1690,8 @@ The Merry Wives of Windsor
 | BARDOLPH | It is a life that I have desired. I will thrive. |
 | *(didascalia)* | Exit |
 | [[characters/pistol\|PISTOL]] | O base Hungarian wight, wilt thou the spigot wield? |
-| NIM | He was gotten in drink; his mind is not heroic. Is not the [[Humour\|humour]] conceited? |
-| SIR JOHN | I am glad I am so acquit of this tinderbox. His thefts were too open. His filching was like an unskilful singer: he kept not [[motifs/time\|time]].<br>Him The good [[Humour\|humour]] is to steal at a minute’s rest. |
+| NIM | He was gotten in drink; his mind is not heroic. Is not the humour conceited? |
+| SIR JOHN | I am glad I am so acquit of this tinderbox. His thefts were too open. His filching was like an unskilful singer: he kept not [[motifs/time\|time]].<br>Him The good humour is to steal at a minute’s rest. |
 | [[characters/pistol\|PISTOL]] | ‘Convey’ the wise it call. ‘Steal’? Foh, a fico for the<br>phrase! |
 | SIR JOHN | [[motifs/well\|Well]], sirs, I am almost out at heels. |
 | [[characters/pistol\|PISTOL]] | Why then, let kibes ensue. |
@@ -1703,26 +1703,26 @@ The Merry Wives of Windsor
 | [[characters/pistol\|PISTOL]] | Two yards and more. |
 | SIR JOHN | No quips now, [[characters/pistol\|Pistol]]. Indeed, I am in the waist two yards about. But I am now about no waste; I am about thrift. Briefly, I do mean to make [[motifs/love\|love]] to Ford’s wife. I spy entertainment in her. She discourses, she carves, she gives the leer of invitation. I can construe the action of her familiar style; and the hardest voice of her behaviour, to be Englished rightly, is ‘I am Sir John [[characters/falstaff\|Falstaff]]’s’. |
 | [[characters/pistol\|PISTOL]] | He hath studied her [[motifs/well\|well]], and translated her will: out of honesty, into English. |
-| NIM | The anchor is deep. Will that [[Humour\|humour]] pass? |
+| NIM | The anchor is deep. Will that humour pass? |
 | SIR JOHN | Now, the report goes, she has all the rule of her husband’s purse; he hath a legion of angels. |
 | [[characters/pistol\|PISTOL]] | As many devils entertain, and ‘To her, boy!’ say I. |
-| NIM | The [[Humour\|humour]] rises; it is good. [[works/humour-(chesterton)\|Humour]] me the angels! |
+| NIM | The humour rises; it is good. [[works/humour-(chesterton)\|Humour]] me the angels! |
 | SIR JOHN | (showing letters) I have writ me here a letter to her—and here another to Page’s wife, who even now gave me good eyes too, examined my parts with most judicious oeillades; sometimes the beam of her view gilded my foot, sometimes my portly belly. |
 | [[characters/pistol\|PISTOL]] | Then did the sun on dunghill shine. |
-| NIM | I thank thee for that [[Humour\|humour]]. |
+| NIM | I thank thee for that humour. |
 | SIR JOHN | O, she did so course o’er my exteriors, with such a greedy intention, that the appetite of her eye did seem to scorch me up like a burning-glass! Here’s another letter to her. She bears the purse too. She is a region in Guiana, all gold and bounty. I will be cheaters to them both, and they shall be exchequers to me. They shall be my East and West Indies, and I will trade to them both. (Giving a letter to [[characters/pistol\|Pistol]]) Go bear thou this letter to [[characters/mistress-page\|Mistress Page]], (giving a letter to Nim) and thou this to [[characters/mistress-ford\|Mistress Ford]]. We will thrive, lads, we will thrive. |
 | [[characters/pistol\|PISTOL]] | (returning the letter)<br>Shall I Sir [[characters/pandarus\|Pandarus]] of Troy become,<br>And by my side wear steel? Then [[characters/lucifer\|Lucifer]] take all. |
-| NIM | (returning the letter) I will run no base [[Humour\|humour]]. Here, take the [[Humour\|humour]]-letter. I will keep the haviour of reputation. |
-| SIR JOHN | (to Robin)<br>Hold, sirrah. Bear you these letters tightly.<br>Sail like my pinnace to these golden shores.<br>He gives Robin the letters<br>Rogues, hence, avaunt! Vanish like hailstones! Go!<br>Trudge, plod, away o’th’ hoof, seek shelter, pack!<br>[[characters/falstaff\|Falstaff]] will learn the [[Humour\|humour]] of the age:<br>French thrift, you rogues—myself and skirted page. |
+| NIM | (returning the letter) I will run no base humour. Here, take the humour-letter. I will keep the haviour of reputation. |
+| SIR JOHN | (to Robin)<br>Hold, sirrah. Bear you these letters tightly.<br>Sail like my pinnace to these golden shores.<br>He gives Robin the letters<br>Rogues, hence, avaunt! Vanish like hailstones! Go!<br>Trudge, plod, away o’th’ hoof, seek shelter, pack!<br>[[characters/falstaff\|Falstaff]] will learn the humour of the age:<br>French thrift, you rogues—myself and skirted page. |
 | *(didascalia)* | Exeunt Sir John and Robin |
 | [[characters/pistol\|PISTOL]] | Let vultures gripe thy guts!—for gourd and fullam<br>holds,<br>And high and low beguiles the rich and poor.<br>Tester I’ll have in pouch when thou shalt lack,<br>Base Phrygian Turk! |
 | NIM | I have operations which be humours of [[concepts/revenge\|revenge]]. |
 | [[characters/pistol\|PISTOL]] | Wilt thou [[concepts/revenge\|revenge]]? |
 | NIM | By welkin and her [[motifs/stars\|stars]]! |
 | [[characters/pistol\|PISTOL]] | With wit or steel? |
-| NIM | With both the humours, I.<br>I will discuss the [[Humour\|humour]] of this [[motifs/love\|love]] to Ford. |
+| NIM | With both the humours, I.<br>I will discuss the humour of this [[motifs/love\|love]] to Ford. |
 | [[characters/pistol\|PISTOL]] | And I to Page shall eke unfold<br>How [[characters/falstaff\|Falstaff]], varlet vile,<br>His dove will prove, his gold will hold,<br>And his soft couch defile. |
-| NIM | My [[Humour\|humour]] shall not cool. I will incense Ford to deal with [[motifs/poison\|poison]]; I will possess him with yellowness; for this revolt of mine is dangerous. That is my true [[Humour\|humour]]. |
+| NIM | My humour shall not cool. I will incense Ford to deal with [[motifs/poison\|poison]]; I will possess him with yellowness; for this revolt of mine is dangerous. That is my true humour. |
 | [[characters/pistol\|PISTOL]] | Thou art the Mars of malcontents.<br>I second thee. Troop on. Exeunt |
 
 
@@ -1744,8 +1744,8 @@ The Merry Wives of Windsor
 | BARDOLPH | È una vita che ho desiderato. Prospererò. |
 | *(didascalia)* | Esce |
 | [[characters/pistol\|PISTOL]] | O vile creatura ungherese, vuoi tu brandire lo zipolo? |
-| NIM | Fu concepito nel bere; la sua mente non è eroica. Non è arguto l’[[Humour\|umore]]? |
-| SIR JOHN | Sono lieto d’essermi così sbarazzato di questo acciarino. I suoi furti erano troppo scoperti. Il suo rubacchiare era come un cantore inesperto: non teneva il [[motifs/time\|tempo]].<br>Lui Il buon [[Humour\|umore]] sta nel rubare in una pausa d’un minuto. |
+| NIM | Fu concepito nel bere; la sua mente non è eroica. Non è arguto l’umore? |
+| SIR JOHN | Sono lieto d’essermi così sbarazzato di questo acciarino. I suoi furti erano troppo scoperti. Il suo rubacchiare era come un cantore inesperto: non teneva il [[motifs/time\|tempo]].<br>Lui Il buon umore sta nel rubare in una pausa d’un minuto. |
 | [[characters/pistol\|PISTOL]] | ‘Trafugare’ lo chiamano i saggi. ‘Rubare’? Puah, un fico per la<br>parola! |
 | SIR JOHN | [[motifs/well\|Bene]], signori, sono quasi giù di tacchi. |
 | [[characters/pistol\|PISTOL]] | E allora vengano i geloni. |
@@ -1757,26 +1757,26 @@ The Merry Wives of Windsor
 | [[characters/pistol\|PISTOL]] | Due iarde e più. |
 | SIR JOHN | Niente frizzi adesso, [[characters/pistol\|Pistol]]. Davvero, alla cintola misuro due iarde di giro. Ma ora non ho in animo giri di cintola; ho in animo il guadagno. In breve, intendo fare all’[[motifs/love\|amore]] con la moglie di Ford. Fiuto in lei accoglienza. Discorre, trincia, lancia l’occhiata dell’invito. So interpretare l’atto del suo stile familiare; e la voce più dura del suo contegno, tradotta rettamente in inglese, dice: ‘Sono di Sir John [[characters/falstaff\|Falstaff]]’. |
 | [[characters/pistol\|PISTOL]] | L’ha studiata [[motifs/well\|bene]], e ne ha tradotto la volontà: fuori dall’onestà, dentro l’inglese. |
-| NIM | L’àncora va a fondo. Passerà quell’[[Humour\|umore]]? |
+| NIM | L’àncora va a fondo. Passerà quell’umore? |
 | SIR JOHN | Ora, corre voce che ella abbia tutto il governo della borsa del marito; egli ha una legione d’angeli. |
 | [[characters/pistol\|PISTOL]] | Prendine altrettanti diavoli, e ‘Addosso, ragazzo!’ dico io. |
-| NIM | L’[[Humour\|umore]] sale; è buono. [[Humour\|Umorami]] gli angeli! |
+| NIM | L’umore sale; è buono. Umorami gli angeli! |
 | SIR JOHN | (mostrando delle lettere) Le ho scritto qui una lettera—e qui un’altra alla moglie di Page, che proprio ora mi ha fatto anch’essa buoni occhi, esaminando le mie parti con occhiate giudiziosissime; talvolta il raggio del suo sguardo mi dorava il piede, talvolta il mio corpulento ventre. |
 | [[characters/pistol\|PISTOL]] | Allora il sole splendette sul letamaio. |
-| NIM | Ti ringrazio per quell’[[Humour\|umore]]. |
+| NIM | Ti ringrazio per quell’umore. |
 | SIR JOHN | Oh, ella percorse così i miei esteriori, con intenzione tanto avida, che l’appetito del suo occhio pareva incendiarmi come una lente ustoria! Ecco un’altra lettera per lei. Anche lei porta la borsa. È una regione della Guiana, tutta oro e larghezza. Sarò baro con entrambe, ed esse mi saranno tesorerie. Saranno le mie Indie Orientali e Occidentali, e trafficherò con l’una e con l’altra. (Dando una lettera a [[characters/pistol\|Pistol]]) Va’, porta tu questa lettera a [[characters/mistress-page\|madonna Page]], (dando una lettera a Nim) e tu questa a [[characters/mistress-ford\|madonna Ford]]. Prospereremo, ragazzi, prospereremo. |
 | [[characters/pistol\|PISTOL]] | (restituendo la lettera)<br>Dovrò io farmi Sir [[characters/pandarus\|Pandaro]] di Troia,<br>e portare acciaio al fianco? Allora [[characters/lucifer\|Lucifero]] si prenda tutto. |
-| NIM | (restituendo la lettera) Non seguirò un vile [[Humour\|umore]]. Tenete, riprendetevi la lettera d’[[Humour\|umore]]. Serberò il contegno della reputazione. |
-| SIR JOHN | (a Robin)<br>Ferma, messere. Porta queste lettere ben strette.<br>Naviga come mia pinaccia verso quelle rive dorate.<br>Dà le lettere a Robin<br>Furfanti, via, alla larga! Svanite come chicchi di grandine! Andate!<br>Arrancate, trottate, via a piedi, cercate riparo, sgomberate!<br>[[characters/falstaff\|Falstaff]] imparerà l’[[Humour\|umore]] del secolo:<br>parsimonia francese, furfanti—io solo e il paggio in gonnella. |
+| NIM | (restituendo la lettera) Non seguirò un vile umore. Tenete, riprendetevi la lettera d’umore. Serberò il contegno della reputazione. |
+| SIR JOHN | (a Robin)<br>Ferma, messere. Porta queste lettere ben strette.<br>Naviga come mia pinaccia verso quelle rive dorate.<br>Dà le lettere a Robin<br>Furfanti, via, alla larga! Svanite come chicchi di grandine! Andate!<br>Arrancate, trottate, via a piedi, cercate riparo, sgomberate!<br>[[characters/falstaff\|Falstaff]] imparerà l’umore del secolo:<br>parsimonia francese, furfanti—io solo e il paggio in gonnella. |
 | *(didascalia)* | Escono Sir John e Robin |
 | [[characters/pistol\|PISTOL]] | Gli avvoltoi ti stringano le budella!—ché zucca e dadi truccati<br>reggono,<br>e alto e basso ingannano il ricco e il povero.<br>Avrò io un testone in borsa quando a te mancherà,<br>vile turco frigio! |
 | NIM | Ho operazioni che sono umori di [[concepts/revenge\|vendetta]]. |
 | [[characters/pistol\|PISTOL]] | Ti vorrai [[concepts/revenge\|vendicare]]? |
 | NIM | Per il firmamento e le sue [[motifs/stars\|stelle]]! |
 | [[characters/pistol\|PISTOL]] | Con l’ingegno o con l’acciaio? |
-| NIM | Con entrambi gli umori, io.<br>Esporrò a Ford l’[[Humour\|umore]] di questo [[motifs/love\|amore]]. |
+| NIM | Con entrambi gli umori, io.<br>Esporrò a Ford l’umore di questo [[motifs/love\|amore]]. |
 | [[characters/pistol\|PISTOL]] | E io a Page dischiuderò altresì<br>come [[characters/falstaff\|Falstaff]], vile bricconcello,<br>la sua colomba proverà, il suo oro terrà,<br>e il suo molle giaciglio insozzerà. |
-| NIM | Il mio [[Humour\|umore]] non si raffredderà. Aizzerò Ford a servirsi del [[motifs/poison\|veleno]]; lo possederò di gelosia gialla; ché questa mia rivolta è pericolosa. Questo è il mio vero [[Humour\|umore]]. |
+| NIM | Il mio umore non si raffredderà. Aizzerò Ford a servirsi del [[motifs/poison\|veleno]]; lo possederò di gelosia gialla; ché questa mia rivolta è pericolosa. Questo è il mio vero umore. |
 | [[characters/pistol\|PISTOL]] | Tu sei il Marte dei malcontenti.<br>Ti secondo. Avanti, marsc’. Escono |
 
 
@@ -1789,11 +1789,11 @@ The Merry Wives of Windsor
 | *(didascalia)* | Enter [[characters/mistress-quickly\|Mistress Quickly]] and Simple |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | What, John Rugby! |
 | *(didascalia)* | Enter John Rugby |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | I pray thee, go to the casement and see if you can see<br>my master, Master [[characters/doctor-caius\|Doctor Caius]], coming. If he do,<br>i’[[concepts/faith\|faith]], and find anybody in the [[house]], here will be an<br>old abusing of God’s patience and the [[archetypes/king\|King]]’s English. |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | I pray thee, go to the casement and see if you can see<br>my master, Master [[characters/doctor-caius\|Doctor Caius]], coming. If he do,<br>i’[[concepts/faith\|faith]], and find anybody in the house, here will be an<br>old abusing of God’s patience and the [[archetypes/king\|King]]’s English. |
 | RUGBY | I’ll go watch. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Go; and we’ll have a posset for’t soon at [[motifs/night\|night]], in [[concepts/faith\|faith]], at the latter end of a seacoal [[motifs/fire\|fire]]. |
 | *(didascalia)* | Exit Rugby |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | An honest, willing, kind fellow as ever servant shall come in [[house]] withal; and, I warrant you, no telltale, nor no breedbate. His worst fault is that he is given to [[motifs/prayer\|prayer]]; he is something peevish that way—but nobody but has his fault. But let that pass. Peter Simple you say your name is? |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | An honest, willing, kind fellow as ever servant shall come in house withal; and, I warrant you, no telltale, nor no breedbate. His worst fault is that he is given to [[motifs/prayer\|prayer]]; he is something peevish that way—but nobody but has his fault. But let that pass. Peter Simple you say your name is? |
 | SIMPLE | Ay, for fault of a better. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | And Master Slender’s your master ? |
 | SIMPLE | Ay, forsooth. |
@@ -1838,7 +1838,7 @@ The Merry Wives of Windsor
 | SIMPLE | To [[motifs/desire\|desire]] this honest gentlewoman, your maid, to speak a good word to Mistress [[characters/anne-page\|Anne Page]] for my master in the way of [[motifs/marriage\|marriage]]. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | This is all, indeed, la; but I’ll ne’er put my finger in the [[motifs/fire\|fire]] an need not. |
 | CAIUS | Sir Hugh send-a you?—Rugby, baile me some paper.<br>Rugby brings paper<br>(To Simple) Tarry you a little-a while.<br>Caius writes |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (aside to Simple) I am glad he is so quiet. If he had been throughly moved, you should have heard him so loud and so [[concepts/melancholy\|melancholy]]. But notwithstanding, man, I’ll do your master what good I can. And the very yea and the no is, the French doctor, my master—I may call him my master, look you, for I keep his [[house]], and I wash, wring, brew, bake, scour, dress meat and drink, make the beds, and do all myself— |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (aside to Simple) I am glad he is so quiet. If he had been throughly moved, you should have heard him so loud and so [[concepts/melancholy\|melancholy]]. But notwithstanding, man, I’ll do your master what good I can. And the very yea and the no is, the French doctor, my master—I may call him my master, look you, for I keep his house, and I wash, wring, brew, bake, scour, dress meat and drink, make the beds, and do all myself— |
 | SIMPLE | (aside to [[characters/mistress-quickly\|Mistress Quickly]]) ’Tis a great charge to come under one [[concepts/body\|body]]’s hand. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (aside to Simple) Are you advised o’ that? You shall find it a great charge—and to be up early, and down late. But notwithstanding, to tell you in your ear—I would have no words of it—my master himself is in [[motifs/love\|love]] with Mistress [[characters/anne-page\|Anne Page]]. But notwithstanding that, I know Anne’s mind: that’s neither here nor there. |
 | CAIUS | (giving the letter to Simple) You, jack’nape, give-a this letter to Sir Hugh. By Gar, it is a shallenge. I will cut his troat in de Park, and I will teach a scurvy jackanape priest to meddle or make. You may be gone. It is not good you tarry here. By Gar, I will cut all his two stones. By Gar, he shall not have a stone to throw at his dog. Exit Simple |
@@ -1849,7 +1849,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Exeunt Caius and Rugby |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | —ass-head of your own. No, I know Anne’s mind for<br>that. Never a woman in Windsor knows more of Anne’s<br>mind than I do, nor can do more than I do with her,<br>I thank heaven. |
 | [[characters/fenton\|FENTON]] | (within) Who’s within there, ho! |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Who’s there, I trow?—Come near the [[house]], I pray you. |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Who’s there, I trow?—Come near the house, I pray you. |
 | *(didascalia)* | Enter Master [[characters/fenton\|Fenton]] |
 | [[characters/fenton\|FENTON]] | How now, good woman, how dost thou? |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | The better that it pleases your good worship to ask. |
@@ -1874,11 +1874,11 @@ The Merry Wives of Windsor
 | *(didascalia)* | Entrano [[characters/mistress-quickly\|madonna Quickly]] e Simple |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Ehi, John Rugby! |
 | *(didascalia)* | Entra John Rugby |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Ti prego, va’ alla finestra e guarda se vedi<br>venire il mio padrone, mastro [[characters/doctor-caius\|dottor Caius]]. Se viene,<br>in [[concepts/faith\|fede]] mia, e trova qualcuno in [[house\|casa]], qui ci sarà un<br>bel maltrattare la pazienza di Dio e l’inglese del [[archetypes/king\|Re]]. |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Ti prego, va’ alla finestra e guarda se vedi<br>venire il mio padrone, mastro [[characters/doctor-caius\|dottor Caius]]. Se viene,<br>in [[concepts/faith\|fede]] mia, e trova qualcuno in casa, qui ci sarà un<br>bel maltrattare la pazienza di Dio e l’inglese del [[archetypes/king\|Re]]. |
 | RUGBY | Vado a far la guardia. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Va’; e ne avremo un posset presto, di [[motifs/night\|notte]], in [[concepts/faith\|fede]] mia, in fondo a un [[motifs/fire\|fuoco]] di carbon fossile. |
 | *(didascalia)* | Esce Rugby |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Un tipo onesto, volenteroso e gentile quanto mai servitore entrò in [[house\|casa]]; e, vi assicuro, non è né spione né attaccabrighe. Il suo peggior difetto è che è dato alla [[motifs/prayer\|preghiera]]; è un po’ bisbetico su quel punto—ma nessuno è senza il suo difetto. Ma lasciamo andare. Peter Simple dite che vi chiamate? |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Un tipo onesto, volenteroso e gentile quanto mai servitore entrò in casa; e, vi assicuro, non è né spione né attaccabrighe. Il suo peggior difetto è che è dato alla [[motifs/prayer\|preghiera]]; è un po’ bisbetico su quel punto—ma nessuno è senza il suo difetto. Ma lasciamo andare. Peter Simple dite che vi chiamate? |
 | SIMPLE | Sì, in mancanza di meglio. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | E mastro Slender è il vostro padrone? |
 | SIMPLE | Sì, in verità. |
@@ -1923,7 +1923,7 @@ The Merry Wives of Windsor
 | SIMPLE | Per [[motifs/desire\|pregare]] questa onesta gentildonna, la vostra serva, di dire una buona parola a madonna [[characters/anne-page\|Anne Page]] per il mio padrone in via di [[motifs/marriage\|matrimonio]]. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Questo è tutto, davvero, sì; ma non metterò mai il dito nel [[motifs/fire\|fuoco]] se non ce n’è bisogno. |
 | CAIUS | Sir Hugh ve manda-a?—Rugby, portami della carta.<br>Rugby porta la carta<br>(A Simple) Aspettate un poco-a.<br>Caius scrive |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (a parte a Simple) Sono contenta che sia così quieto. Se fosse stato mosso davvero, l’avreste udito così forte e così [[concepts/melancholy\|malinconico]]. Ma nondimeno, uomo, farò al vostro padrone tutto il bene che posso. E il vero sì e no è che il dottore francese, il mio padrone—posso ben chiamarlo il mio padrone, vedete, ché gli tengo la [[house\|casa]], e lavo, strizzo, faccio la birra, inforno, sfrego, preparo cibo e bevanda, rifaccio i letti, e faccio tutto io— |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (a parte a Simple) Sono contenta che sia così quieto. Se fosse stato mosso davvero, l’avreste udito così forte e così [[concepts/melancholy\|malinconico]]. Ma nondimeno, uomo, farò al vostro padrone tutto il bene che posso. E il vero sì e no è che il dottore francese, il mio padrone—posso ben chiamarlo il mio padrone, vedete, ché gli tengo la casa, e lavo, strizzo, faccio la birra, inforno, sfrego, preparo cibo e bevanda, rifaccio i letti, e faccio tutto io— |
 | SIMPLE | (a parte a [[characters/mistress-quickly\|madonna Quickly]]) È un gran carico da stare sotto la mano d’un solo [[concepts/body\|corpo]]. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (a parte a Simple) Ve ne siete accorto? Troverete che è un gran carico—e alzarsi presto, e coricarsi tardi. Ma nondimeno, per dirvelo all’orecchio—non vorrei che se ne parlasse—il mio padrone stesso è preso d’[[motifs/love\|amore]] per madonna [[characters/anne-page\|Anne Page]]. Ma nondimeno, io conosco la mente di Anne: e questo non è né qui né là. |
 | CAIUS | (dando la lettera a Simple) Voi, scimmiotto, tate-a questa lettera a Sir Hugh. Per Ttio, è una sfita. Gli taglierò la cola nel Parco, e insegnerò a un lurido prete scimmiotto a immischiarsi e a intrigare. Potete andare. Non è bene che restiate qui. Per Ttio, gli taglierò tutt’e due le pietre. Per Ttio, non avrà una pietra da tirare al suo cane. Esce Simple |
@@ -1934,7 +1934,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Escono Caius e Rugby |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | —una testa d’asino tutta vostra. No, io conosco la mente di Anne su<br>questo. Nessuna donna in Windsor sa della mente di Anne<br>più di me, né può fare con lei più di quanto posso io,<br>ringraziando il cielo. |
 | [[characters/fenton\|FENTON]] | (dall’interno) Chi c’è là dentro, ehilà! |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Chi è là, di grazia?—Avvicinatevi alla [[house\|casa]], vi prego. |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Chi è là, di grazia?—Avvicinatevi alla casa, vi prego. |
 | *(didascalia)* | Entra mastro [[characters/fenton\|Fenton]] |
 | [[characters/fenton\|FENTON]] | Ebbene, buona donna, come stai? |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Meglio, poiché piace alla vostra signoria di chiederlo. |
@@ -1961,7 +1961,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Enter [[characters/mistress-page\|Mistress Page]], with a letter |
 | [[characters/mistress-page\|MISTRESS PAGE]] | What, have I scaped [[motifs/love\|love]]-letters in the holiday [[motifs/time\|time]] of my [[concepts/beauty\|beauty]], and am I now a subject for them? Let me see.<br>She reads<br>‘Ask me no reason why I [[motifs/love\|love]] you, for though [[motifs/love\|Love]] use Reason for his precision, he admits him not for his counsellor. You are not young; no more am I. Go to, then, there’s sympathy. You are merry; so am I. Ha, ha, then, there’s more sympathy. You [[motifs/love\|love]] sack, and so do I. Would you [[motifs/desire\|desire]] better sympathy? Let it suffice thee, [[characters/mistress-page\|Mistress Page]], at the least if the [[motifs/love\|love]] of soldier can suffice, that I [[motifs/love\|love]] thee. I will not say “pity me”—’tis not a soldier-like phrase—but I say “[[motifs/love\|love]] me”.<br>By me, thine own true knight,<br>By day or [[motifs/night\|night]]<br>Or any kind of light, 15<br>With all his might<br>For thee to fight,<br>John [[characters/falstaff\|Falstaff]].’<br>What a Herod of Jewry is this! O, wicked, wicked world! One that is [[motifs/well\|well]]-nigh worn to pieces with age, to show himself a young gallant! What an unweighed behaviour hath this Flemish drunkard picked, i’th’ devil’s name, out of my conversation, that he dares in this manner assay me? Why, he hath not been thrice in my company. What should I say to him? was then frugal of my mirth, heaven forgive me. Why, I’ll exhibit a bill in the Parliament for the putting down of men. O God, that I knew how to be revenged on him! For revenged I will be, as sure as his guts are made of puddings. |
 | *(didascalia)* | Enter [[characters/mistress-ford\|Mistress Ford]] |
-| [[characters/mistress-ford\|MISTRESS FORD]] | [[characters/mistress-page\|Mistress Page]]! By my [[concepts/faith\|faith]], I was going to your [[house]]. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | [[characters/mistress-page\|Mistress Page]]! By my [[concepts/faith\|faith]], I was going to your house. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | And by my [[concepts/faith\|faith]], I was coming to you. You look very ill. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Nay, I’ll ne’er believe that: I have to show to the contrary. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | [[concepts/faith\|Faith]], but you do, in my mind. |
@@ -1991,9 +1991,9 @@ The Merry Wives of Windsor
 | FORD | What name, sir? |
 | [[characters/pistol\|PISTOL]] | The horn, I say. Farewell.<br>Take heed; have open eye; for thieves do foot by [[motifs/night\|night]].<br>Take heed ere [[motifs/summer\|summer]] comes, or cuckoo-[[motifs/birds\|birds]] do<br>sing.—<br>Away, Sir Corporal Nim!—Believe it, Page; he speaks<br>sense. Exit |
 | FORD | (aside) I will be patient. I will find out this. |
-| NIM | (to Page) And this is true. I like not the [[Humour\|humour]] of lying. He hath wronged me in some humours. I should have borne the humoured letter to her; but I have a [[Sword\|sword]], and it shall bite upon my necessity. He loves your wife. There’s the short and the long. My name is Corporal Nim. I speak and I avouch ’tis true.<br>My name is Nim, and [[characters/falstaff\|Falstaff]] loves your wife. Adieu.<br>I [[motifs/love\|love]] not the [[Humour\|humour]] of bread and [[cheese]]. Adieu. |
+| NIM | (to Page) And this is true. I like not the humour of lying. He hath wronged me in some humours. I should have borne the humoured letter to her; but I have a sword, and it shall bite upon my necessity. He loves your wife. There’s the short and the long. My name is Corporal Nim. I speak and I avouch ’tis true.<br>My name is Nim, and [[characters/falstaff\|Falstaff]] loves your wife. Adieu.<br>I [[motifs/love\|love]] not the humour of bread and cheese. Adieu. |
 | *(didascalia)* | Exit |
-| PAGE | (aside) The [[Humour\|humour]] of it, quoth a? Here’s a fellow frights English out of his wits. |
+| PAGE | (aside) The humour of it, quoth a? Here’s a fellow frights English out of his wits. |
 | FORD | (aside) I will seek out [[characters/falstaff\|Falstaff]]. |
 | PAGE | (aside) I never heard such a drawling, affecting rogue. |
 | FORD | (aside) If I do find it—[[motifs/well\|well]]. |
@@ -2038,10 +2038,10 @@ The Merry Wives of Windsor
 | HOST | My hand, bully. Thou shalt have egress and regress—said I [[motifs/well\|well]]?—and thy name shall be Brooke. It is a merry knight. (To Shallow and Page) Will you go, mijn’heers? |
 | SHALLOW | Have with you, mine Host. |
 | PAGE | I have heard the Frenchman hath good skill in his rapier. |
-| *(didascalia)* | SHALLOW Tut, sir, I could have told you more. In these times you stand on distance—your passes, stoccados, and I know not what. ‘Tis the heart, [[characters/master-page\|Master Page]]; showing his rapier-passes ’tis here, ’tis here. I have seen the [[motifs/time\|time]] with my long [[Sword\|sword]] I would have made you four tall fellows skip like rats. |
+| *(didascalia)* | SHALLOW Tut, sir, I could have told you more. In these times you stand on distance—your passes, stoccados, and I know not what. ‘Tis the heart, [[characters/master-page\|Master Page]]; showing his rapier-passes ’tis here, ’tis here. I have seen the [[motifs/time\|time]] with my long sword I would have made you four tall fellows skip like rats. |
 | HOST | Here, boys; here, here! Shall we wag? |
 | PAGE | Have with you. I had rather hear them scold than fight. Exeunt Host, Shallow, and Page |
-| FORD | Though Page be a secure [[archetypes/fool\|fool]] and stands so firmly on his wife’s frailty, yet I cannot put off my opinion so easily. She was in his company at Page’s [[house]], and what they made there I know not. [[motifs/well\|Well]], I will look further into’t; and I have a disguise to sound [[characters/falstaff\|Falstaff]]. If I find her honest, I lose not my labour. If she be otherwise, ’tis labour [[motifs/well\|well]] bestowed. Exit |
+| FORD | Though Page be a secure [[archetypes/fool\|fool]] and stands so firmly on his wife’s frailty, yet I cannot put off my opinion so easily. She was in his company at Page’s house, and what they made there I know not. [[motifs/well\|Well]], I will look further into’t; and I have a disguise to sound [[characters/falstaff\|Falstaff]]. If I find her honest, I lose not my labour. If she be otherwise, ’tis labour [[motifs/well\|well]] bestowed. Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2051,7 +2051,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Entra [[characters/mistress-page\|madonna Page]], con una lettera |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Come, sono scampata alle lettere d’[[motifs/love\|amore]] nel [[motifs/time\|tempo]] di festa della mia [[concepts/beauty\|bellezza]], e ora ne sono fatta soggetto? Vediamo un po’.<br>Legge<br>‘Non chiedetemi ragione del perché vi [[motifs/love\|amo]], ché sebbene [[motifs/love\|Amore]] si serva della Ragione come suo precisatore, non l’ammette per suo consigliere. Voi non siete giovane; e nemmeno io. Suvvia, dunque, ecco una simpatia. Voi siete allegra; e allegro son io. Ah, ah, dunque, ecco altra simpatia. Voi [[motifs/love\|amate]] il vino di Spagna, e io pure. Potreste [[motifs/desire\|desiderare]] simpatia migliore? Ti basti, [[characters/mistress-page\|madonna Page]], almeno se l’[[motifs/love\|amore]] d’un soldato può bastare, ch’io ti [[motifs/love\|amo]]. Non dirò “abbi pietà di me”—non è frase da soldato—ma dico “[[motifs/love\|amami]]”.<br>Da me, tuo vero cavaliere,<br>di giorno o di [[motifs/night\|notte]]<br>o con qualsiasi luce, 15<br>con tutta la sua possa<br>per te a combattere,<br>John [[characters/falstaff\|Falstaff]].’<br>Che Erode di Giudea è costui! Oh, malvagio, malvagio mondo! Uno che è [[motifs/well\|quasi]] logoro a brandelli dagli anni, e vuol darsi arie di giovane galante! Che contegno sconsiderato ha mai colto, costui, ubriacone fiammingo, in nome del diavolo, dalla mia conversazione, da osare d’assalirmi a questo modo? Ma se non è stato tre volte in mia compagnia. Che dovrei dirgli? fui allora parca della mia allegria, il cielo mi perdoni. Ebbene, presenterò una petizione in Parlamento per la soppressione degli uomini. O Dio, sapessi come vendicarmi di lui! Ché vendicata sarò, com’è vero che le sue budella son fatte di sanguinacci. |
 | *(didascalia)* | Entra [[characters/mistress-ford\|madonna Ford]] |
-| [[characters/mistress-ford\|MISTRESS FORD]] | [[characters/mistress-page\|Madonna Page]]! In [[concepts/faith\|fede]] mia, stavo venendo alla vostra [[house\|casa]]. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | [[characters/mistress-page\|Madonna Page]]! In [[concepts/faith\|fede]] mia, stavo venendo alla vostra casa. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | E in [[concepts/faith\|fede]] mia, io venivo da voi. Avete un pessimo aspetto. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | No, non lo crederò mai: ho di che mostrare il contrario. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | [[concepts/faith\|In fede]], ma l’avete, a parer mio. |
@@ -2081,9 +2081,9 @@ The Merry Wives of Windsor
 | FORD | Quale nome, signore? |
 | [[characters/pistol\|PISTOL]] | Il corno, dico. Addio.<br>Bada; tieni l’occhio aperto; ché i ladri van di piede la [[motifs/night\|notte]].<br>Bada prima che venga l’[[motifs/summer\|estate]], o che gli [[motifs/birds\|uccelli]]-cuculo si mettano<br>a cantare.—<br>Via, Sir caporale Nim!—Credigli, Page; parla con<br>senno. Esce |
 | FORD | (a parte) Sarò paziente. Verrò a capo di questo. |
-| NIM | (a Page) E questo è vero. Non mi piace l’[[Humour\|umore]] della menzogna. Mi ha fatto torto in certi umori. Avrei dovuto portarle io la lettera umorata; ma ho una [[Sword\|spada]], e morderà quando la necessità lo imponga. Ama vostra moglie. Ecco il lungo e il corto. Il mio nome è caporale Nim. Parlo e affermo che è vero.<br>Il mio nome è Nim, e [[characters/falstaff\|Falstaff]] ama vostra moglie. Addio.<br>Non [[motifs/love\|amo]] l’[[Humour\|umore]] di pane e [[cheese\|formaggio]]. Addio. |
+| NIM | (a Page) E questo è vero. Non mi piace l’umore della menzogna. Mi ha fatto torto in certi umori. Avrei dovuto portarle io la lettera umorata; ma ho una spada, e morderà quando la necessità lo imponga. Ama vostra moglie. Ecco il lungo e il corto. Il mio nome è caporale Nim. Parlo e affermo che è vero.<br>Il mio nome è Nim, e [[characters/falstaff\|Falstaff]] ama vostra moglie. Addio.<br>Non [[motifs/love\|amo]] l’umore di pane e formaggio. Addio. |
 | *(didascalia)* | Esce |
-| PAGE | (a parte) L’[[Humour\|umore]] della cosa, dice lui? Ecco un tipo che spaventa l’inglese fuor di senno. |
+| PAGE | (a parte) L’umore della cosa, dice lui? Ecco un tipo che spaventa l’inglese fuor di senno. |
 | FORD | (a parte) Andrò a cercare [[characters/falstaff\|Falstaff]]. |
 | PAGE | (a parte) Non ho mai udito furfante più strascicato e affettato. |
 | FORD | (a parte) Se lo scopro davvero—[[motifs/well\|bene]]. |
@@ -2128,10 +2128,10 @@ The Merry Wives of Windsor
 | HOST | La mia mano, bravo. Avrai ingresso e regresso—ho detto [[motifs/well\|bene]]?—e il tuo nome sarà Brooke. È un cavaliere allegro. (A Shallow e Page) Volete venire, mijn’heers? |
 | SHALLOW | Vengo con voi, oste mio. |
 | PAGE | Ho sentito dire che il francese ha buona abilità con lo stocco. |
-| *(didascalia)* | SHALLOW Bah, signore, avrei potuto dirvene di più. In questi tempi state sulla distanza—le vostre passate, le stoccate, e non so che altro. È il cuore, [[characters/master-page\|mastro Page]]; mostrando le sue passate di stocco è qui, è qui. Ho visto il [[motifs/time\|tempo]] in cui con la mia lunga [[Sword\|spada]] vi avrei fatto saltare quattro omaccioni come topi. |
+| *(didascalia)* | SHALLOW Bah, signore, avrei potuto dirvene di più. In questi tempi state sulla distanza—le vostre passate, le stoccate, e non so che altro. È il cuore, [[characters/master-page\|mastro Page]]; mostrando le sue passate di stocco è qui, è qui. Ho visto il [[motifs/time\|tempo]] in cui con la mia lunga spada vi avrei fatto saltare quattro omaccioni come topi. |
 | HOST | Qua, ragazzi; qua, qua! Ci muoviamo? |
 | PAGE | Vengo con voi. Preferisco sentirli bisticciare che battersi. Escono l’Oste, Shallow e Page |
-| FORD | Sebbene Page sia uno [[archetypes/fool\|sciocco]] tanto sicuro e si fondi così saldamente sulla fragilità di sua moglie, pure io non posso deporre la mia opinione così facilmente. Ella era in compagnia di lui in [[house\|casa]] Page, e che cosa vi facessero non so. [[motifs/well\|Bene]], indagherò oltre; e ho un travestimento per sondare [[characters/falstaff\|Falstaff]]. Se la trovo onesta, non perdo la mia fatica. Se è altrimenti, è fatica [[motifs/well\|bene]] spesa. Esce |
+| FORD | Sebbene Page sia uno [[archetypes/fool\|sciocco]] tanto sicuro e si fondi così saldamente sulla fragilità di sua moglie, pure io non posso deporre la mia opinione così facilmente. Ella era in compagnia di lui in casa Page, e che cosa vi facessero non so. [[motifs/well\|Bene]], indagherò oltre; e ho un travestimento per sondare [[characters/falstaff\|Falstaff]]. Se la trovo onesta, non perdo la mia fatica. Se è altrimenti, è fatica [[motifs/well\|bene]] spesa. Esce |
 
 
 
@@ -2144,11 +2144,11 @@ The Merry Wives of Windsor
 | SIR JOHN | I will not lend thee a penny. |
 | [[characters/pistol\|PISTOL]] | I will retort the sum in equipage. |
 | SIR JOHN | Not a penny. |
-| *(didascalia)* | [[characters/pistol\|PISTOL]] drawing his [[Sword\|sword]] Why then, the world’s mine oyster, which I with [[Sword\|sword]] will open. |
+| *(didascalia)* | [[characters/pistol\|PISTOL]] drawing his sword Why then, the world’s mine oyster, which I with sword will open. |
 | SIR JOHN | Not a penny. I have been content, sir, you should lay my countenance to pawn. I have grated upon my good friends for three reprieves for you and your coach-fellow Nim, or else you had looked through the grate like a gemini of baboons. I am damned in hell for swearing to gentlemen my friends you were good soldiers and tall fellows. And when Mistress Bridget lost the handle of her fan, I took’t upon mine [[concepts/honour\|honour]] thou hadst it not. |
 | [[characters/pistol\|PISTOL]] | Didst not thou share? Hadst thou not fifteen pence? |
 | SIR JOHN | Reason, you rogue, reason. Thinkest thou I’ll endanger my [[motifs/soul\|soul]] gratis? At a word, hang no more about me. I am no gibbet for you. Go, a short knife and a throng, to your manor of Pickt-hatch, go. You’ll not bear a letter for me, you rogue? You stand upon your [[concepts/honour\|honour]]? Why, thou unconfinable baseness, it is as much as I can do to keep the terms of my [[concepts/honour\|honour]] precise. Ay, ay, I myself sometimes, leaving the [[concepts/fear\|fear]] of God on the left hand, and hiding mine [[concepts/honour\|honour]] in my necessity, am fain to shuffle, to hedge, and to lurch; and yet you, you rogue, will ensconce your rags, your cat-a-mountain looks, your red-lattice phrases, and your bold beating oaths, under the shelter of your [[concepts/honour\|honour]]! You will not do it, you? |
-| *(didascalia)* | [[characters/pistol\|PISTOL]] sheathing his [[Sword\|sword]] |
+| *(didascalia)* | [[characters/pistol\|PISTOL]] sheathing his sword |
 | SIR JOHN | I do relent. What wouldst thou more of man? |
 | *(didascalia)* | Enter Robin |
 | ROBIN | Sir, here’s a woman would speak with you. |
@@ -2172,7 +2172,7 @@ The Merry Wives of Windsor
 | SIR JOHN | [[characters/mistress-ford\|Mistress Ford]]; come, [[characters/mistress-ford\|Mistress Ford]]. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Marry, this is the short and the long of it. You have brought her into such a canaries as ’tis wonderful. The best courtier of them all, when the [[settings/court\|court]] lay at Windsor, could never have brought her to such a canary. Yet there has been knights, and lords, and gentlemen, with their coaches; I warrant you, coach after coach, letter after letter, gift after gift, smelling so sweetly, all musk; and so rustling, I warrant you, in silk and gold, and in such aligant terms, and in such wine and sugar of the best and the fairest, that would have won any woman’s heart; and, I warrant you, they could never get an eye-wink of her. I had myself twenty angels given me this morning—but I defy all angels, in any such sort, as they say, but in the way of honesty. And, I warrant you, they could never get her so much as sip on a cup with the proudest of them all. And yet there has been earls, nay, which is more, pensioners. But, I warrant you, all is one with her. |
 | SIR JOHN | But what says she to me? Be brief, my good she-Mercury. |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Marry, she hath received your letter, for the which she thanks you a thousand times, and she gives you to notify that her husband will be absence from his [[house]] between ten and eleven. |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Marry, she hath received your letter, for the which she thanks you a thousand times, and she gives you to notify that her husband will be absence from his house between ten and eleven. |
 | SIR JOHN | Ten and eleven. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Ay, forsooth, and then you may come and see the picture, she says, that you wot of. [[characters/master-ford\|Master Ford]], her husband, will be from [[motifs/home\|home]]. Alas, the sweet woman leads an ill life with him. He’s a very [[concepts/jealousy\|jealousy]] man. She leads a very frampold life with him, good heart. |
 | SIR JOHN | Ten and eleven. Woman, commend me to her. I will not fail her. |
@@ -2218,7 +2218,7 @@ The Merry Wives of Windsor
 | SIR JOHN | Have you importuned her to such a purpose? |
 | FORD | Never. |
 | SIR JOHN | Of what quality was your [[motifs/love\|love]] then? |
-| FORD | Like a fair [[house]] built on another man’s ground, so that I have lost my edifice by mistaking the place where I erected it. |
+| FORD | Like a fair house built on another man’s ground, so that I have lost my edifice by mistaking the place where I erected it. |
 | SIR JOHN | To what purpose have you unfolded this to me? |
 | FORD | When I have told you that, I have told you all. Some say that though she appear honest to me, yet in other places she enlargeth her mirth so far that there is shrewd construction made of her. Now, Sir John, here is the heart of my purpose. You are a gentleman of excellent breeding, admirable discourse, of great admittance, authentic in your place and person, generally allowed for your many warlike, [[settings/court\|court]]-like, and learned preparations. |
 | SIR JOHN | O sir! |
@@ -2238,7 +2238,7 @@ The Merry Wives of Windsor
 | SIR JOHN | Hang him, poor cuckoldly knave, I know him not. Yet I wrong him to call him poor. They say the jealous wittolly knave hath masses of money, for the which his wife seems to me [[motifs/well\|well]] favoured. I will use her as the key of the cuckoldly rogue’s coffer, and there’s my harvest-[[motifs/home\|home]]. |
 | FORD | I would you knew Ford, sir, that you might avoid him if you saw him. |
 | SIR JOHN | Hang him, mechanical salt-butter rogue! I will stare him out of his wits. I will awe him with my cudgel; it shall hang like a meteor o’er the cuckold’s horns. Master Brooke, thou shalt know I will predominate over the peasant, and thou shalt lie with his wife. Come to me soon at [[motifs/night\|night]]. Ford’s a knave, and I will aggravate his style: thou, Master Brooke, shalt know him for knave and cuckold. Come to me soon at [[motifs/night\|night]]. Exit |
-| FORD | What a damned epicurean rascal is this! My heart is ready to crack with impatience. Who says this is improvident [[concepts/jealousy\|jealousy]]? My wife hath sent to him, the hour is fixed, the match is made. Would any man have thought this? See the hell of having a false woman! My bed shall be abused, my coffers ransacked, my reputation gnawn at, and I shall not only receive this villainous wrong, but stand under the adoption of abominable terms, and by him that does me this wrong. Terms! Names! ‘Amaimon’ sounds [[motifs/well\|well]], ‘[[characters/lucifer\|Lucifer]]’ [[motifs/well\|well]], ‘Barbason’ [[motifs/well\|well]]; yet they are devils’ additions, the names of fiends. But ‘cuckold’, ‘wittot’! ’Cuckold‘—the devil himself hath not such a name. Page is an ass, a secure ass. He will trust his wife, he will not be jealous. I will rather trust a Fleming with my butter, Parson Hugh the Welshman with my [[cheese]], an Irishman with my aqua-vitae bottle, or a thief to walk my ambling gelding, than my wife with herself. Then she plots, then she ruminates, then she devises; and what they think in their hearts they may effect, they will break their hearts but they will effect. God be praised for my [[concepts/jealousy\|jealousy]]! Eleven o’[[motifs/clock\|clock]] the hour. I will prevent this, detect my wife, be revenged on [[characters/falstaff\|Falstaff]], and laugh at Page. I will about it. Better three hours too soon than a minute too late. God’s my life: cuckold, cuckold, cuckold! Exit |
+| FORD | What a damned epicurean rascal is this! My heart is ready to crack with impatience. Who says this is improvident [[concepts/jealousy\|jealousy]]? My wife hath sent to him, the hour is fixed, the match is made. Would any man have thought this? See the hell of having a false woman! My bed shall be abused, my coffers ransacked, my reputation gnawn at, and I shall not only receive this villainous wrong, but stand under the adoption of abominable terms, and by him that does me this wrong. Terms! Names! ‘Amaimon’ sounds [[motifs/well\|well]], ‘[[characters/lucifer\|Lucifer]]’ [[motifs/well\|well]], ‘Barbason’ [[motifs/well\|well]]; yet they are devils’ additions, the names of fiends. But ‘cuckold’, ‘wittot’! ’Cuckold‘—the devil himself hath not such a name. Page is an ass, a secure ass. He will trust his wife, he will not be jealous. I will rather trust a Fleming with my butter, Parson Hugh the Welshman with my cheese, an Irishman with my aqua-vitae bottle, or a thief to walk my ambling gelding, than my wife with herself. Then she plots, then she ruminates, then she devises; and what they think in their hearts they may effect, they will break their hearts but they will effect. God be praised for my [[concepts/jealousy\|jealousy]]! Eleven o’[[motifs/clock\|clock]] the hour. I will prevent this, detect my wife, be revenged on [[characters/falstaff\|Falstaff]], and laugh at Page. I will about it. Better three hours too soon than a minute too late. God’s my life: cuckold, cuckold, cuckold! Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2249,11 +2249,11 @@ The Merry Wives of Windsor
 | SIR JOHN | Non ti presterò un soldo. |
 | [[characters/pistol\|PISTOL]] | Ribatterò la somma in equipaggiamento. |
 | SIR JOHN | Non un soldo. |
-| *(didascalia)* | [[characters/pistol\|PISTOL]] sguainando la [[Sword\|spada]] E allora il mondo è la mia ostrica, che io con la [[Sword\|spada]] aprirò. |
+| *(didascalia)* | [[characters/pistol\|PISTOL]] sguainando la spada E allora il mondo è la mia ostrica, che io con la spada aprirò. |
 | SIR JOHN | Non un soldo. Sono stato contento, signore, che voi metteste in pegno il mio credito. Ho tartassato i miei buoni amici per tre rinvii a favore vostro e del vostro compagno di tiro Nim, altrimenti avreste guardato attraverso l’inferriata come un paio di babbuini gemelli. Sono dannato all’inferno per aver giurato a gentiluomini miei amici che eravate buoni soldati e valenti compagni. E quando madonna Bridget perse il manico del ventaglio, presi sul mio [[concepts/honour\|onore]] che tu non l’avessi. |
 | [[characters/pistol\|PISTOL]] | Non ne avesti la tua parte? Non avesti quindici pence? |
 | SIR JOHN | Ragione, furfante, ragione. Credi che metterò in pericolo la mia [[motifs/soul\|anima]] gratis? In una parola, non starmi più attaccato addosso. Non sono forca per te. Va’, con un coltello corto e la calca, al tuo maniero di Pickt-hatch, va’. Non vuoi portare una lettera per me, furfante? Ti appelli al tuo [[concepts/honour\|onore]]? Ma via, tu bassezza sconfinata, è già tanto s’io riesco a tenere precisi i termini del mio [[concepts/honour\|onore]]. Sì, sì, io stesso talvolta, lasciandomi il [[concepts/fear\|timore]] di Dio sulla mano sinistra, e nascondendo il mio [[concepts/honour\|onore]] nella mia necessità, son costretto a barare, a schermirmi e a rubacchiare; e tu, tu furfante, vorresti trincerare i tuoi stracci, i tuoi sguardi da gattopardo, le tue frasi da bettola e i tuoi spacconi giuramenti sotto il riparo del tuo [[concepts/honour\|onore]]! Non vuoi farlo, tu? |
-| *(didascalia)* | [[characters/pistol\|PISTOL]] rinfoderando la [[Sword\|spada]] |
+| *(didascalia)* | [[characters/pistol\|PISTOL]] rinfoderando la spada |
 | SIR JOHN | Mi lascio piegare. Che vuoi di più da un uomo? |
 | *(didascalia)* | Entra Robin |
 | ROBIN | Signore, c’è qui una donna che vorrebbe parlarvi. |
@@ -2277,7 +2277,7 @@ The Merry Wives of Windsor
 | SIR JOHN | [[characters/mistress-ford\|Madonna Ford]]; suvvia, [[characters/mistress-ford\|madonna Ford]]. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Perbacco, ecco il lungo e il corto della faccenda. L’avete messa in tale frastuono di canarie che è una meraviglia. Il miglior cortigiano di tutti, quando la [[settings/court\|corte]] stava a Windsor, non avrebbe mai potuto metterla in simile canaria. Eppure ci sono stati cavalieri, e lord, e gentiluomini, con le loro carrozze; ve l’assicuro, carrozza dopo carrozza, lettera dopo lettera, dono dopo dono, tutti profumati così dolcemente, tutto muschio; e frusciando, ve l’assicuro, in seta e oro, e con termini così eleganti, e con tal vino e zucchero dei migliori e dei più fini, che avrebbero conquistato il cuore di qualunque donna; e, ve l’assicuro, non riuscirono mai a strapparle un batter d’occhio. A me stessa questa mattina sono stati dati venti angeli—ma io sfido tutti gli angeli, in siffatte maniere, come si dice, se non per via d’onestà. E, ve l’assicuro, non riuscirono mai a farle nemmeno bagnare le labbra in una coppa col più superbo di tutti loro. Eppure ci sono stati conti, anzi, quel che più conta, pensionari della guardia. Ma, ve l’assicuro, per lei è tutt’uno. |
 | SIR JOHN | Ma che dice di me? Sii breve, mio buon Mercurio in gonnella. |
-| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Perbacco, ha ricevuto la vostra lettera, per la quale vi ringrazia mille volte, e vi dà notifica che suo marito sarà assenza dalla sua [[house\|casa]] tra le dieci e le undici. |
+| [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Perbacco, ha ricevuto la vostra lettera, per la quale vi ringrazia mille volte, e vi dà notifica che suo marito sarà assenza dalla sua casa tra le dieci e le undici. |
 | SIR JOHN | Le dieci e le undici. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Sì, in verità, e allora potrete venire a vedere il quadro, dice lei, di cui sapete. [[characters/master-ford\|Mastro Ford]], suo marito, sarà fuori [[motifs/home\|casa]]. Ahimè, la dolce donna mena vita grama con lui. È un uomo di gran [[concepts/jealousy\|gelosia]]. Mena con lui una vita assai bisbetica, povero cuore. |
 | SIR JOHN | Le dieci e le undici. Donna, raccomandami a lei. Non le mancherò. |
@@ -2323,7 +2323,7 @@ The Merry Wives of Windsor
 | SIR JOHN | L’avete importunata a tale scopo? |
 | FORD | Mai. |
 | SIR JOHN | Di che qualità era il vostro [[motifs/love\|amore]], allora? |
-| FORD | Come una bella [[house\|casa]] costruita sul terreno d’un altro, sicché ho perduto il mio edificio per aver sbagliato il luogo dove l’ho eretto. |
+| FORD | Come una bella casa costruita sul terreno d’un altro, sicché ho perduto il mio edificio per aver sbagliato il luogo dove l’ho eretto. |
 | SIR JOHN | A quale scopo mi avete dispiegato tutto questo? |
 | FORD | Quando ve l’avrò detto, vi avrò detto tutto. Alcuni dicono che, sebbene ella appaia onesta con me, pure in altri luoghi allarga tanto la sua allegria che se ne fa maligna interpretazione. Ora, Sir John, ecco il cuore del mio proposito. Voi siete un gentiluomo d’eccellente educazione, di mirabile eloquio, di grandi entrature, autorevole nel vostro grado e nella vostra persona, generalmente stimato per le vostre molte doti guerresche, di [[settings/court\|corte]] e di dottrina. |
 | SIR JOHN | Oh signore! |
@@ -2343,7 +2343,7 @@ The Merry Wives of Windsor
 | SIR JOHN | Al diavolo, povero furfante becco, non lo conosco. Eppure gli faccio torto a chiamarlo povero. Dicono che quel geloso becco contento abbia mucchi di denaro, per il quale sua moglie mi pare [[motifs/well\|ben]] avvenente. La userò come chiave del forziere di quel becco ribaldo, e là sta la mia festa del raccolto in [[motifs/home\|casa]]. |
 | FORD | Vorrei che conosceste Ford, signore, per poterlo evitare se lo vedeste. |
 | SIR JOHN | Al diavolo, quel ribaldo meccanico da burro rancido! Lo farò uscir di senno a forza di guardarlo. Lo terrò in soggezione col mio randello; penderà come una meteora sopra le corna del becco. Mastro Brooke, saprai che io dominerò sul villano, e tu giacerai con sua moglie. Vieni da me presto, di [[motifs/night\|notte]]. Ford è un furfante, e io aggraverò il suo titolo: tu, mastro Brooke, lo conoscerai per furfante e per becco. Vieni da me presto, di [[motifs/night\|notte]]. Esce |
-| FORD | Che dannato mascalzone epicureo è costui! Il mio cuore è pronto a spaccarsi d’impazienza. Chi dice che questa è [[concepts/jealousy\|gelosia]] senza fondamento? Mia moglie ha mandato da lui, l’ora è fissata, l’accordo è concluso. Chi l’avrebbe mai pensato? Ecco l’inferno d’avere una donna falsa! Il mio letto sarà profanato, i miei forzieri saccheggiati, la mia reputazione rosicchiata; e non solo riceverò questo scellerato torto, ma dovrò starmene sotto l’adozione di termini abominevoli, e proprio da parte di colui che mi fa questo torto. Termini! Nomi! ‘Amaimon’ suona [[motifs/well\|bene]], ‘[[characters/lucifer\|Lucifero]]’ [[motifs/well\|bene]], ‘Barbason’ [[motifs/well\|bene]]; eppure sono appellativi di diavoli, nomi di demoni. Ma ‘becco’, ‘cornuto contento’! ‘Becco’—il diavolo stesso non ha un tal nome. Page è un asino, un asino sicuro di sé. Si fida di sua moglie, non vuol essere geloso. Affiderei piuttosto il mio burro a un fiammingo, il mio [[cheese\|formaggio]] al parroco Hugh il gallese, la mia bottiglia d’acquavite a un irlandese, o il mio castrone d’ambio a un ladro, che mia moglie a se stessa. Allora lei trama, allora rumina, allora escogita; e ciò che pensano in cuor loro di poter compiere, si spezzeranno il cuore ma lo compiranno. Sia lodato Dio per la mia [[concepts/jealousy\|gelosia]]! Le undici all’[[motifs/clock\|orologio]], quest’è l’ora. Preverrò questo, smaschererò mia moglie, mi vendicherò di [[characters/falstaff\|Falstaff]] e riderò di Page. Ci metto mano. Meglio tre ore troppo presto che un minuto troppo tardi. Per la mia vita: becco, becco, becco! Esce |
+| FORD | Che dannato mascalzone epicureo è costui! Il mio cuore è pronto a spaccarsi d’impazienza. Chi dice che questa è [[concepts/jealousy\|gelosia]] senza fondamento? Mia moglie ha mandato da lui, l’ora è fissata, l’accordo è concluso. Chi l’avrebbe mai pensato? Ecco l’inferno d’avere una donna falsa! Il mio letto sarà profanato, i miei forzieri saccheggiati, la mia reputazione rosicchiata; e non solo riceverò questo scellerato torto, ma dovrò starmene sotto l’adozione di termini abominevoli, e proprio da parte di colui che mi fa questo torto. Termini! Nomi! ‘Amaimon’ suona [[motifs/well\|bene]], ‘[[characters/lucifer\|Lucifero]]’ [[motifs/well\|bene]], ‘Barbason’ [[motifs/well\|bene]]; eppure sono appellativi di diavoli, nomi di demoni. Ma ‘becco’, ‘cornuto contento’! ‘Becco’—il diavolo stesso non ha un tal nome. Page è un asino, un asino sicuro di sé. Si fida di sua moglie, non vuol essere geloso. Affiderei piuttosto il mio burro a un fiammingo, il mio formaggio al parroco Hugh il gallese, la mia bottiglia d’acquavite a un irlandese, o il mio castrone d’ambio a un ladro, che mia moglie a se stessa. Allora lei trama, allora rumina, allora escogita; e ciò che pensano in cuor loro di poter compiere, si spezzeranno il cuore ma lo compiranno. Sia lodato Dio per la mia [[concepts/jealousy\|gelosia]]! Le undici all’[[motifs/clock\|orologio]], quest’è l’ora. Preverrò questo, smaschererò mia moglie, mi vendicherò di [[characters/falstaff\|Falstaff]] e riderò di Page. Ci metto mano. Meglio tre ore troppo presto che un minuto troppo tardi. Per la mia vita: becco, becco, becco! Esce |
 
 
 
@@ -2376,7 +2376,7 @@ The Merry Wives of Windsor
 | CAIUS | I pray you bear witness that me have stay six or seven, two, tree hours for him, and he is no come. |
 | SHALLOW | He is the wiser man, Master Doctor. He is a curer of souls, and you a curer of bodies. If you should fight you go against the hair of your professions. Is it not true, [[characters/master-page\|Master Page]]? |
 | PAGE | Master Shallow, you have yourself been a great fighter, though now a man of peace. |
-| SHALLOW | Bodykins, [[characters/master-page\|Master Page]], though I now be old and of the peace, if I see a [[Sword\|sword]] out my finger itches to make one. Though we are justices and doctors and churchmen, [[characters/master-page\|Master Page]], we have some salt of our youth in us. We are the sons of women, [[characters/master-page\|Master Page]]. |
+| SHALLOW | Bodykins, [[characters/master-page\|Master Page]], though I now be old and of the peace, if I see a sword out my finger itches to make one. Though we are justices and doctors and churchmen, [[characters/master-page\|Master Page]], we have some salt of our youth in us. We are the sons of women, [[characters/master-page\|Master Page]]. |
 | PAGE | ’Tis true, Master Shallow. |
 | SHALLOW | It will be found so, [[characters/master-page\|Master Page]].—Master [[characters/doctor-caius\|Doctor Caius]], I am come to fetch you [[motifs/home\|home]]. I am sworn of the peace. You have showed yourself a wise physician, and Sir Hugh hath shown himself a wise and patient churchman. You must go with me, Master Doctor. |
 | HOST | Pardon, guest Justice. (To Caius) A word, Monsieur Mockwater. |
@@ -2391,7 +2391,7 @@ The Merry Wives of Windsor
 | CAIUS | Me tank you for dat. |
 | HOST | And moreover, bully—(Aside to the others) But first, master guest and [[characters/master-page\|Master Page]], and eke Cavaliero Slender, go you through the town to Frogmore. |
 | PAGE | Sir Hugh is there, is he? |
-| HOST | He is there. See what [[Humour\|humour]] he is in, and I will bring the Doctor about by the fields. Will it do [[motifs/well\|well]]? |
+| HOST | He is there. See what humour he is in, and I will bring the Doctor about by the fields. Will it do [[motifs/well\|well]]? |
 | SHALLOW | We will do it. |
 | *(didascalia)* | PAGE, SHALLOW, and SLENDER Adieu, good Master Doctor. |
 | *(didascalia)* | Exeunt Page, Shallow, and Slender |
@@ -2432,7 +2432,7 @@ The Merry Wives of Windsor
 | CAIUS | Vi prego, fate testimonianza che io ho aspettato sei o sette, tue, tre ore per lui, e lui non viene. |
 | SHALLOW | È l’uomo più saggio, mastro dottore. Egli è curatore d’anime, e voi curatore di corpi. Se vi batteste, andreste contro il pelo delle vostre professioni. Non è vero, [[characters/master-page\|mastro Page]]? |
 | PAGE | Mastro Shallow, voi stesso siete stato un gran combattente, benché ora siate uomo di pace. |
-| SHALLOW | Corpo di bacco, [[characters/master-page\|mastro Page]], sebbene io sia ora vecchio e uomo della pace, se vedo una [[Sword\|spada]] sguainata mi prude il dito di farne parte. Benché siamo giudici e dottori e uomini di chiesa, [[characters/master-page\|mastro Page]], abbiamo in noi un po’ del sale della nostra giovinezza. Siamo figli di donna, [[characters/master-page\|mastro Page]]. |
+| SHALLOW | Corpo di bacco, [[characters/master-page\|mastro Page]], sebbene io sia ora vecchio e uomo della pace, se vedo una spada sguainata mi prude il dito di farne parte. Benché siamo giudici e dottori e uomini di chiesa, [[characters/master-page\|mastro Page]], abbiamo in noi un po’ del sale della nostra giovinezza. Siamo figli di donna, [[characters/master-page\|mastro Page]]. |
 | PAGE | È vero, mastro Shallow. |
 | SHALLOW | Si troverà che è così, [[characters/master-page\|mastro Page]].—Mastro [[characters/doctor-caius\|dottor Caius]], sono venuto a condurvi a [[motifs/home\|casa]]. Sono giurato della pace. Vi siete mostrato medico saggio, e Sir Hugh s’è mostrato uomo di chiesa saggio e paziente. Dovete venire con me, mastro dottore. |
 | HOST | Perdonate, giudice mio ospite. (A Caius) Una parola, monsieur Mockwater. |
@@ -2447,7 +2447,7 @@ The Merry Wives of Windsor
 | CAIUS | Vi rincrazio per questo. |
 | HOST | E inoltre, bravo—(A parte agli altri) Ma prima, giudice mio ospite e [[characters/master-page\|mastro Page]], e altresì cavaliero Slender, andate voi per la città fino a Frogmore. |
 | PAGE | Sir Hugh è là, non è vero? |
-| HOST | È là. Vedete in che [[Humour\|umore]] è, e io porterò il dottore in giro per i campi. Andrà [[motifs/well\|bene]]? |
+| HOST | È là. Vedete in che umore è, e io porterò il dottore in giro per i campi. Andrà [[motifs/well\|bene]]? |
 | SHALLOW | Lo faremo. |
 | *(didascalia)* | PAGE, SHALLOW e SLENDER Addio, buon mastro dottore. |
 | *(didascalia)* | Escono Page, Shallow e Slender |
@@ -2485,7 +2485,7 @@ The Merry Wives of Windsor
 | SLENDER | (aside) Ah, sweet [[characters/anne-page\|Anne Page]]! |
 | PAGE | God save you, good Sir Hugh. |
 | EVANS | God pless you from his [[concepts/mercy\|mercy]] sake, all of you. |
-| SHALLOW | What, the [[Sword\|sword]] and the Word? Do you study them both, Master Parson? |
+| SHALLOW | What, the sword and the Word? Do you study them both, Master Parson? |
 | PAGE | And youthful still: in your doublet and hose this raw, rheumatic day I |
 | EVANS | There is reasons and causes for it. |
 | PAGE | We are come to you to do a good office, Master Parson. |
@@ -2546,7 +2546,7 @@ The Merry Wives of Windsor
 | SLENDER | (a parte) Ah, dolce [[characters/anne-page\|Anne Page]]! |
 | PAGE | Dio vi salvi, buon Sir Hugh. |
 | EVANS | Tio vi penetica per amor della sua [[concepts/mercy\|misericordia]], tutti quanti. |
-| SHALLOW | Come, la [[Sword\|spada]] e la Parola? Studiate l’una e l’altra, mastro parroco? |
+| SHALLOW | Come, la spada e la Parola? Studiate l’una e l’altra, mastro parroco? |
 | PAGE | E sempre giovanile: in farsetto e calzoni in questa giornata cruda e reumatica I |
 | EVANS | Ci sono ragioni e cause per questo. |
 | PAGE | Siamo venuti da voi per fare un buon ufficio, mastro parroco. |
@@ -2684,7 +2684,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Enter John and Robert, with a buck-basket |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Here, set it down. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Give your men the charge. We must be brief. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Marry, as I told you before, John and Robert, be ready here hard by in the brew-[[house]]; and when I suddenly call you, come forth, and without any pause or staggering take this basket on your shoulders. That done, trudge with it in all haste, and carry it among the whitsters in Datchet Mead, and there empty it in the muddy ditch close by the Thames’ side. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Marry, as I told you before, John and Robert, be ready here hard by in the brew-house; and when I suddenly call you, come forth, and without any pause or staggering take this basket on your shoulders. That done, trudge with it in all haste, and carry it among the whitsters in Datchet Mead, and there empty it in the muddy ditch close by the Thames’ side. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | (to John and Robert) You will do it? |
 | [[characters/mistress-ford\|MISTRESS FORD]] | I ha’ told them over and over; they lack no direction.—Be gone, and come when you are called. |
 | *(didascalia)* | Exeunt John and Robert |
@@ -2695,7 +2695,7 @@ The Merry Wives of Windsor
 | [[characters/mistress-page\|MISTRESS PAGE]] | You little Jack-a-Lent, have you been true to us? |
 | ROBIN | Ay, I’ll be sworn. My master knows not of your being here, and hath threatened to put me into everlasting liberty if I tell you of it; for he swears he’ll turn me away. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Thou’rt a good boy. This secrecy of thine shall be a tailor to thee, and shall make thee a new doublet and hose.—I’ll go hide me. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Do so. (To Robin) Go tell thy master I am [[Alone\|alone]]. Exit Robin [[characters/mistress-page\|Mistress Page]], remember you your cue. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Do so. (To Robin) Go tell thy master I am alone. Exit Robin [[characters/mistress-page\|Mistress Page]], remember you your cue. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | I warrant thee. If I do not act it, hiss me. |
 | *(didascalia)* | [[characters/mistress-ford\|MISTRESS FORD]] Go to, then. Exit [[characters/mistress-page\|Mistress Page]] |
 | [[characters/mistress-page\|MISTRESS PAGE]] | We’ll use this unwholesome humidity, this gross watery<br>pumpkin. We’ll teach him to know turtles from jays. |
@@ -2725,11 +2725,11 @@ The Merry Wives of Windsor
 | [[characters/mistress-ford\|MISTRESS FORD]] | What cause of suspicion? |
 | [[characters/mistress-page\|MISTRESS PAGE]] | What cause of suspicion? Out upon you!<br>How am I mistook in you |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Why, alas, what’s the matter? |
-| [[characters/mistress-page\|MISTRESS PAGE]] | Your husband’s coming hither, woman, with all the officers in Windsor, to search for a gentleman that he says is here now in the [[house]], by your consent, to take an ill advantage of his absence. You are undone. |
+| [[characters/mistress-page\|MISTRESS PAGE]] | Your husband’s coming hither, woman, with all the officers in Windsor, to search for a gentleman that he says is here now in the house, by your consent, to take an ill advantage of his absence. You are undone. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | ’Tis not so, I [[concepts/hope\|hope]]. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Pray heaven it be not so that you have such a man here! But ’tis most certain your husband’s coming, with half Windsor at his heels, to search for such a one. I come before to tell you. If you know yourself clear, why, I am glad of it; but if you have a friend here, convey, convey him out. Be not amazed. Call all your senses to you. Defend your reputation, or bid farewell to your good life for ever. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | What shall I do? There is a gentleman, my dear friend; and I [[concepts/fear\|fear]] not mine own shame so much as his peril. I had rather than a thousand pound he were out of the [[house]]. |
-| [[characters/mistress-page\|MISTRESS PAGE]] | For shame, never stand ‘you had rather’ and ‘you had rather’. Your husband’s here at hand. Bethink you of some conveyance: in the [[house]] you cannot hide him. O, how have you deceived me! Look, here is a basket. If he be of any reasonable stature, he may creep in here; and throw foul linen upon him as if it were going to bucking. Or—it is whiting [[motifs/time\|time]]—send him by your two men to Datchet Mead. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | What shall I do? There is a gentleman, my dear friend; and I [[concepts/fear\|fear]] not mine own shame so much as his peril. I had rather than a thousand pound he were out of the house. |
+| [[characters/mistress-page\|MISTRESS PAGE]] | For shame, never stand ‘you had rather’ and ‘you had rather’. Your husband’s here at hand. Bethink you of some conveyance: in the house you cannot hide him. O, how have you deceived me! Look, here is a basket. If he be of any reasonable stature, he may creep in here; and throw foul linen upon him as if it were going to bucking. Or—it is whiting [[motifs/time\|time]]—send him by your two men to Datchet Mead. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | He’s too big to go in there. What shall I do? |
 | SIR JOHN | (coming forward) Let me see’t, let me see’t, O let me see’t! I’ll in, I’ll in. Follow your friend’s counsel; I’ll in. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | What, Sir John [[characters/falstaff\|Falstaff]]! (Aside to him) Are these your letters, knight? |
@@ -2769,14 +2769,14 @@ The Merry Wives of Windsor
 | FORD | Amen. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | You do yourself mighty wrong, [[characters/master-ford\|Master Ford]]. |
 | FORD | Ay, ay, I must bear it. |
-| EVANS | If there be anypody in the [[house]], and in the chambers, and in the coffers, and in the presses, heaven forgive my sins at the day of judgement! |
+| EVANS | If there be anypody in the house, and in the chambers, and in the coffers, and in the presses, heaven forgive my sins at the day of judgement! |
 | CAIUS | Be Gar, nor I too. There is nobodies. |
 | PAGE | Fie, fie, [[characters/master-ford\|Master Ford]], are you not ashamed? What spirit, what devil suggests this [[concepts/imagination\|imagination]]? I would not ha’ your distemper in this kind for the wealth of Windsor [[settings/castle\|Castle]]. |
 | FORD | ’Tis my fault, [[characters/master-page\|Master Page]]. I suffer for it. |
 | EVANS | You suffer for a pad [[concepts/conscience\|conscience]]. Your wife is as honest a ’omans as I will desires among five thousand, and five hundred too. |
 | CAIUS | By Gar, I see ’tis an honest woman. |
 | FORD | [[motifs/well\|Well]], I promised you a dinner. Come, come, walk in the park. I pray you pardon me. I will hereafter make known to you why I have done this.—Come, wife; come, [[characters/mistress-page\|Mistress Page]]. I pray you pardon me. Pray heartily pardon me. |
-| PAGE | (to Caius and Evans) Let’s go in, gentlemen. (Aside to them) But trust me, we’ll mock him. (To Ford, Caius, and Evans) I do invite you tomorrow morning to my [[house]] to breakfast. After, we’ll a-birding together. I have a fine hawk for the bush. Shall it be so? |
+| PAGE | (to Caius and Evans) Let’s go in, gentlemen. (Aside to them) But trust me, we’ll mock him. (To Ford, Caius, and Evans) I do invite you tomorrow morning to my house to breakfast. After, we’ll a-birding together. I have a fine hawk for the bush. Shall it be so? |
 | FORD | Anything. |
 | EVANS | If there is one, I shall make two in the company. |
 | CAIUS | If there be one or two, I shall make-a the turd. |
@@ -2800,7 +2800,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Entrano John e Robert, con un cesto da bucato |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Qui, posatelo. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Date le istruzioni ai vostri uomini. Dobbiamo far presto. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Perbacco, come vi ho detto prima, John e Robert, state pronti qui accanto nella [[house\|casa]] della birra; e quando all’improvviso vi chiamo, venite avanti, e senza pausa né esitazione prendete questo cesto sulle spalle. Fatto questo, arrancate in tutta fretta, e portatelo tra le imbianchine a Datchet Mead, e là vuotatelo nel fosso fangoso accanto alla riva del Tamigi. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Perbacco, come vi ho detto prima, John e Robert, state pronti qui accanto nella casa della birra; e quando all’improvviso vi chiamo, venite avanti, e senza pausa né esitazione prendete questo cesto sulle spalle. Fatto questo, arrancate in tutta fretta, e portatelo tra le imbianchine a Datchet Mead, e là vuotatelo nel fosso fangoso accanto alla riva del Tamigi. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | (a John e Robert) Lo farete? |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Gliel’ho detto e ridetto; non mancano d’istruzioni.—Andate, e venite quando siete chiamati. |
 | *(didascalia)* | Escono John e Robert |
@@ -2811,7 +2811,7 @@ The Merry Wives of Windsor
 | [[characters/mistress-page\|MISTRESS PAGE]] | Piccolo fantoccio di quaresima, sei stato fedele a noi? |
 | ROBIN | Sì, lo giurerei. Il mio padrone non sa che voi siete qui, e mi ha minacciato di mettermi in libertà eterna se ve lo dico; ché giura che mi caccerà via. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Sei un buon ragazzo. Questa tua segretezza ti farà da sarto, e ti farà un farsetto e calzoni nuovi.—Vado a nascondermi. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Fate così. (A Robin) Va’ a dire al tuo padrone che sono [[Alone\|sola]]. Esce Robin [[characters/mistress-page\|Madonna Page]], ricordatevi la vostra battuta. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Fate così. (A Robin) Va’ a dire al tuo padrone che sono sola. Esce Robin [[characters/mistress-page\|Madonna Page]], ricordatevi la vostra battuta. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Statene certa. Se non la recito bene, fischiatemi. |
 | *(didascalia)* | [[characters/mistress-ford\|MISTRESS FORD]] Suvvia, allora. Esce [[characters/mistress-page\|madonna Page]] |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Ci serviremo di questa malsana umidità, di questa grossa zucca<br>acquosa. Gli insegneremo a distinguere le tortore dalle ghiandaie. |
@@ -2841,11 +2841,11 @@ The Merry Wives of Windsor
 | [[characters/mistress-ford\|MISTRESS FORD]] | Quale motivo di sospetto? |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Quale motivo di sospetto? Vergogna a voi!<br>Come mi sono ingannata sul conto vostro |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Ma insomma, ahimè, che c’è? |
-| [[characters/mistress-page\|MISTRESS PAGE]] | Vostro marito sta venendo qua, donna, con tutti gli ufficiali di Windsor, a cercare un gentiluomo che, dice lui, è qui adesso in [[house\|casa]], col vostro consenso, per prendere malvagio vantaggio della sua assenza. Siete perduta. |
+| [[characters/mistress-page\|MISTRESS PAGE]] | Vostro marito sta venendo qua, donna, con tutti gli ufficiali di Windsor, a cercare un gentiluomo che, dice lui, è qui adesso in casa, col vostro consenso, per prendere malvagio vantaggio della sua assenza. Siete perduta. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Non è così, [[concepts/hope\|spero]]. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Voglia il cielo che non sia vero che avete qui un tal uomo! Ma è certissimo che vostro marito sta venendo, con mezza Windsor alle calcagna, a cercarne uno. Io vengo innanzi per avvertirvi. Se vi sapete pulita, ebbene, me ne rallegro; ma se avete qui un amico, portatelo via, portatelo via. Non vi sbigottite. Chiamate a raccolta tutti i vostri sensi. Difendete la vostra reputazione, o dite addio per sempre alla vostra buona vita. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Che devo fare? C’è un gentiluomo, mio caro amico; e non [[concepts/fear\|temo]] tanto la mia vergogna quanto il pericolo suo. Darei mille sterline perché fosse fuori di [[house\|casa]]. |
-| [[characters/mistress-page\|MISTRESS PAGE]] | Vergogna, non state lì con ‘darei’ e ‘darei’. Vostro marito è qui a un passo. Pensate a qualche modo di portarlo via: in [[house\|casa]] non potete nasconderlo. Oh, come mi avete ingannata! Guardate, ecco un cesto. Se è di statura ragionevole, può strisciarci dentro; e gettategli sopra biancheria sporca come se andasse al bucato. Oppure—è [[motifs/time\|tempo]] d’imbiancare—mandatelo con i vostri due uomini a Datchet Mead. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Che devo fare? C’è un gentiluomo, mio caro amico; e non [[concepts/fear\|temo]] tanto la mia vergogna quanto il pericolo suo. Darei mille sterline perché fosse fuori di casa. |
+| [[characters/mistress-page\|MISTRESS PAGE]] | Vergogna, non state lì con ‘darei’ e ‘darei’. Vostro marito è qui a un passo. Pensate a qualche modo di portarlo via: in casa non potete nasconderlo. Oh, come mi avete ingannata! Guardate, ecco un cesto. Se è di statura ragionevole, può strisciarci dentro; e gettategli sopra biancheria sporca come se andasse al bucato. Oppure—è [[motifs/time\|tempo]] d’imbiancare—mandatelo con i vostri due uomini a Datchet Mead. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | È troppo grosso per entrarci. Che devo fare? |
 | SIR JOHN | (facendosi avanti) Fatemelo vedere, fatemelo vedere, oh fatemelo vedere! Ci entro, ci entro. Seguite il consiglio della vostra amica; ci entro. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Come, Sir John [[characters/falstaff\|Falstaff]]! (A parte a lui) Son queste le vostre lettere, cavaliere? |
@@ -2885,14 +2885,14 @@ The Merry Wives of Windsor
 | FORD | Amen. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Fate a voi stesso un gran torto, [[characters/master-ford\|mastro Ford]]. |
 | FORD | Sì, sì, devo sopportarlo. |
-| EVANS | Se c’è qualcuno in [[house\|casa]], e nelle camere, e nei forzieri, e negli armadi, il cielo perdoni i miei peccati nel giorno del giudizio! |
+| EVANS | Se c’è qualcuno in casa, e nelle camere, e nei forzieri, e negli armadi, il cielo perdoni i miei peccati nel giorno del giudizio! |
 | CAIUS | Per Ttio, e nemmeno io. Non c’è nessuni. |
 | PAGE | Ohibò, ohibò, [[characters/master-ford\|mastro Ford]], non vi vergognate? Quale spirito, quale diavolo vi suggerisce questa [[concepts/imagination\|immaginazione]]? Non vorrei il vostro malumore di questa specie per tutta la ricchezza del [[settings/castle\|castello]] di Windsor. |
 | FORD | È colpa mia, [[characters/master-page\|mastro Page]]. Ne soffro io. |
 | EVANS | Voi soffrite per una cattifa [[concepts/conscience\|coscienza]]. Vostra moglie è tonna onesta quanto ne tesidererei tra cinquemila, e cinquecento per giunta. |
 | CAIUS | Per Ttio, vedo che è una donna onesta. |
 | FORD | [[motifs/well\|Bene]], vi avevo promesso un pranzo. Venite, venite, passeggiamo nel parco. Vi prego di perdonarmi. In seguito vi farò sapere perché ho fatto questo.—Vieni, moglie; venite, [[characters/mistress-page\|madonna Page]]. Vi prego di perdonarmi. Vi prego di cuore, perdonatemi. |
-| PAGE | (a Caius ed Evans) Entriamo, signori. (A parte a loro) Ma credetemi, ce ne faremo beffe. (A Ford, Caius ed Evans) Vi invito domani mattina a [[house\|casa]] mia a colazione. Dopo, andremo insieme a caccia d’uccelli. Ho un bel falco per la macchia. Sarà così? |
+| PAGE | (a Caius ed Evans) Entriamo, signori. (A parte a loro) Ma credetemi, ce ne faremo beffe. (A Ford, Caius ed Evans) Vi invito domani mattina a casa mia a colazione. Dopo, andremo insieme a caccia d’uccelli. Ho un bel falco per la macchia. Sarà così? |
 | FORD | Qualunque cosa. |
 | EVANS | Se ce n’è uno, io farò due nella compagnia. |
 | CAIUS | Se ce n’è uno o due, io farò-a il terdo. |
@@ -2944,7 +2944,7 @@ The Merry Wives of Windsor
 | SLENDER | Truly, for mine own part, I would little or nothing with you. Your father and my uncle hath made motions. If it be my luck, so. If not, happy man be his dole. They can tell you how things go better than I can. |
 | *(didascalia)* | Enter [[characters/master-page\|Master Page]] and [[characters/mistress-page\|Mistress Page]] |
 | SLENDER | You may ask your father: here he comes. |
-| PAGE | Now, Master Stender.—[[motifs/love\|Love]] him, daughter Anne.—<br>Why, how now? What does Master [[characters/fenton\|Fenton]] here?<br>You wrong me, sir, thus still to haunt my [[house]].<br>I told you, sir, my daughter is disposed of. |
+| PAGE | Now, Master Stender.—[[motifs/love\|Love]] him, daughter Anne.—<br>Why, how now? What does Master [[characters/fenton\|Fenton]] here?<br>You wrong me, sir, thus still to haunt my house.<br>I told you, sir, my daughter is disposed of. |
 | [[characters/fenton\|FENTON]] | Nay, [[characters/master-page\|Master Page]], be not impatient. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Good Master [[characters/fenton\|Fenton]], come not to my [[archetypes/child\|child]]. |
 | PAGE | She is no match for you. |
@@ -3005,7 +3005,7 @@ The Merry Wives of Windsor
 | SLENDER | In verità, per parte mia, poco o nulla vorrei da voi. Vostro padre e mio zio hanno fatto delle proposte. Se è la mia fortuna, sia. Se no, felice chi l’avrà in sorte. Essi sanno dirvi come vanno le cose meglio di me. |
 | *(didascalia)* | Entrano [[characters/master-page\|mastro Page]] e [[characters/mistress-page\|madonna Page]] |
 | SLENDER | Potete chiederlo a vostro padre: eccolo che viene. |
-| PAGE | Ebbene, mastro Stender.—[[motifs/love\|Amalo]], figlia Anne.—<br>Ma come, che c’è? Che ci fa qui mastro [[characters/fenton\|Fenton]]?<br>Mi fate torto, signore, a frequentare così la mia [[house\|casa]].<br>Vi ho detto, signore, che di mia figlia s’è già disposto. |
+| PAGE | Ebbene, mastro Stender.—[[motifs/love\|Amalo]], figlia Anne.—<br>Ma come, che c’è? Che ci fa qui mastro [[characters/fenton\|Fenton]]?<br>Mi fate torto, signore, a frequentare così la mia casa.<br>Vi ho detto, signore, che di mia figlia s’è già disposto. |
 | [[characters/fenton\|FENTON]] | No, [[characters/master-page\|mastro Page]], non v’impazientite. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Buon mastro [[characters/fenton\|Fenton]], non venite dalla mia [[archetypes/child\|figliola]]. |
 | PAGE | Non è partito per voi. |
@@ -3068,11 +3068,11 @@ The Merry Wives of Windsor
 | FORD | God bless you, sir. |
 | SIR JOHN | Now, Master Brooke, you come to know what hath passed between me and Ford’s wife. |
 | FORD | That indeed, Sir John, is my business. |
-| SIR JOHN | Master Brooke, I will not lie to you. I was at her [[house]] the hour she appointed me. |
+| SIR JOHN | Master Brooke, I will not lie to you. I was at her house the hour she appointed me. |
 | FORD | And sped you, sir? |
 | SIR JOHN | Very ill-favouredly, Master Brooke. |
 | FORD | How so, sir? Did she change her determination? |
-| SIR JOHN | No, Master Brooke, but the peaking cornuto her husband, Master Brooke, dwelling in a continual ’larum of [[concepts/jealousy\|jealousy]], comes me in the instant of our encounter—after we had embraced, kissed, protested, and, as it were, spoke the prologue of our [[forms/comedy\|comedy]]—and at his heels a rabble of his companions, thither provoked and instigated by his distemper, and, forsooth, to search his [[house]] for his wife’s [[motifs/love\|love]]. |
+| SIR JOHN | No, Master Brooke, but the peaking cornuto her husband, Master Brooke, dwelling in a continual ’larum of [[concepts/jealousy\|jealousy]], comes me in the instant of our encounter—after we had embraced, kissed, protested, and, as it were, spoke the prologue of our [[forms/comedy\|comedy]]—and at his heels a rabble of his companions, thither provoked and instigated by his distemper, and, forsooth, to search his house for his wife’s [[motifs/love\|love]]. |
 | FORD | What, while you were there? |
 | SIR JOHN | While I was there. |
 | FORD | And did he search for you, and could not find you? |
@@ -3086,7 +3086,7 @@ The Merry Wives of Windsor
 | FORD | ’Tis past eight already, sir. |
 | SIR JOHN | Is it? I will then address me to my appointment. Come to me at your convenient leisure, and you shall know how I [[characters/speed\|speed]]; and the conclusion shall be crowned with your enjoying her. Adieu. You shall have her, Master Brooke; Master Brooke, you shall cuckold Ford. |
 | *(didascalia)* | Exit |
-| FORD | Hum! Ha! Is this a vision? Is this [[A Dream\|a dream]]? Do I [[motifs/sleep\|sleep]]? [[characters/master-ford\|Master Ford]], awake! Awake, [[characters/master-ford\|Master Ford]]! There’s a hole made in your best coat, [[characters/master-ford\|Master Ford]]. This ‘tis to be married! This ’tis to have linen and buck-baskets! [[motifs/well\|Well]], I will proclaim myself what I am. I will now take the lecher. He is at my [[house]]. He cannot scape me; ’tis impossible he should. He cannot creep into a halfpenny purse, nor into a pepperbox. But lest the devil that guides him should aid him, I will search impossible places. Though what I am I cannot avoid, yet to be what I would not shall not make me tame. If I have horns to make one mad, let the proverb go with me: I’ll be horn-mad. Exit |
+| FORD | Hum! Ha! Is this a vision? Is this a dream? Do I [[motifs/sleep\|sleep]]? [[characters/master-ford\|Master Ford]], awake! Awake, [[characters/master-ford\|Master Ford]]! There’s a hole made in your best coat, [[characters/master-ford\|Master Ford]]. This ‘tis to be married! This ’tis to have linen and buck-baskets! [[motifs/well\|Well]], I will proclaim myself what I am. I will now take the lecher. He is at my house. He cannot scape me; ’tis impossible he should. He cannot creep into a halfpenny purse, nor into a pepperbox. But lest the devil that guides him should aid him, I will search impossible places. Though what I am I cannot avoid, yet to be what I would not shall not make me tame. If I have horns to make one mad, let the proverb go with me: I’ll be horn-mad. Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3127,11 +3127,11 @@ The Merry Wives of Windsor
 | FORD | Dio vi benedica, signore. |
 | SIR JOHN | Ebbene, mastro Brooke, venite a sapere che cosa sia passato tra me e la moglie di Ford. |
 | FORD | Proprio questo, Sir John, è il mio affare. |
-| SIR JOHN | Mastro Brooke, non vi mentirò. Fui alla sua [[house\|casa]] all’ora che ella mi aveva fissato. |
+| SIR JOHN | Mastro Brooke, non vi mentirò. Fui alla sua casa all’ora che ella mi aveva fissato. |
 | FORD | E come vi andò, signore? |
 | SIR JOHN | Assai malamente, mastro Brooke. |
 | FORD | Come mai, signore? Mutò ella il suo proposito? |
-| SIR JOHN | No, mastro Brooke, ma quel cornuto sgusciante di suo marito, mastro Brooke, che vive in un continuo allarme di [[concepts/jealousy\|gelosia]], mi arriva proprio nell’istante del nostro incontro—dopo che ci eravamo abbracciati, baciati, protestati e, per così dire, avevamo recitato il prologo della nostra [[forms/comedy\|commedia]]—e alle sue calcagna una marmaglia di suoi compagni, colà provocati e istigati dal suo malumore e, in verità, a frugargli la [[house\|casa]] per l’[[motifs/love\|amore]] di sua moglie. |
+| SIR JOHN | No, mastro Brooke, ma quel cornuto sgusciante di suo marito, mastro Brooke, che vive in un continuo allarme di [[concepts/jealousy\|gelosia]], mi arriva proprio nell’istante del nostro incontro—dopo che ci eravamo abbracciati, baciati, protestati e, per così dire, avevamo recitato il prologo della nostra [[forms/comedy\|commedia]]—e alle sue calcagna una marmaglia di suoi compagni, colà provocati e istigati dal suo malumore e, in verità, a frugargli la casa per l’[[motifs/love\|amore]] di sua moglie. |
 | FORD | Come, mentre voi eravate là? |
 | SIR JOHN | Mentre io ero là. |
 | FORD | E vi cercò, e non riuscì a trovarvi? |
@@ -3145,7 +3145,7 @@ The Merry Wives of Windsor
 | FORD | Sono già passate le otto, signore. |
 | SIR JOHN | Davvero? Allora mi avvierò al mio appuntamento. Venite da me a vostro comodo, e saprete come mi [[characters/speed\|andrà]]; e la conclusione sarà coronata dal vostro godere di lei. Addio. L’avrete, mastro Brooke; mastro Brooke, farete becco Ford. |
 | *(didascalia)* | Esce |
-| FORD | Hum! Ah! È questa una visione? È questo [[A Dream\|un sogno]]? [[motifs/sleep\|Dormo]] io? [[characters/master-ford\|Mastro Ford]], svegliati! Svegliati, [[characters/master-ford\|mastro Ford]]! C’è un buco nella tua veste migliore, [[characters/master-ford\|mastro Ford]]. Ecco che vuol dire essere ammogliati! Ecco che vuol dire avere biancheria e cesti da bucato! [[motifs/well\|Bene]], proclamerò io stesso ciò che sono. Ora prenderò il libertino. È in [[house\|casa]] mia. Non può sfuggirmi; è impossibile che lo faccia. Non può infilarsi in una borsa da mezzo penny, né in una pepiera. Ma per timore che il diavolo che lo guida gli presti aiuto, frugherò anche i luoghi impossibili. Sebbene ciò che sono io non possa evitarlo, pure l’essere ciò che non vorrei non mi renderà mansueto. Se ho corna da far impazzire, valga per me il proverbio: sarò pazzo di corna. Esce |
+| FORD | Hum! Ah! È questa una visione? È questo un sogno? [[motifs/sleep\|Dormo]] io? [[characters/master-ford\|Mastro Ford]], svegliati! Svegliati, [[characters/master-ford\|mastro Ford]]! C’è un buco nella tua veste migliore, [[characters/master-ford\|mastro Ford]]. Ecco che vuol dire essere ammogliati! Ecco che vuol dire avere biancheria e cesti da bucato! [[motifs/well\|Bene]], proclamerò io stesso ciò che sono. Ora prenderò il libertino. È in casa mia. Non può sfuggirmi; è impossibile che lo faccia. Non può infilarsi in una borsa da mezzo penny, né in una pepiera. Ma per timore che il diavolo che lo guida gli presti aiuto, frugherò anche i luoghi impossibili. Sebbene ciò che sono io non possa evitarlo, pure l’essere ciò che non vorrei non mi renderà mansueto. Se ho corna da far impazzire, valga per me il proverbio: sarò pazzo di corna. Esce |
 
 
 
@@ -3292,7 +3292,7 @@ The Merry Wives of Windsor
 | [[characters/mistress-ford\|MISTRESS FORD]] | There they always use to discharge their birding-pieces. |
 | *(didascalia)* | [[characters/mistress-page\|MISTRESS PAGE]] Creep into the kiln-hole. |
 | SIR JOHN | Where is it? |
-| [[characters/mistress-ford\|MISTRESS FORD]] | He will seek there, on my word. Neither press, coffer, chest, trunk, [[motifs/well\|well]], vault, but he hath an abstract for the remembrance of such places, and goes to them by his note. There is no hiding you in the [[house]]. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | He will seek there, on my word. Neither press, coffer, chest, trunk, [[motifs/well\|well]], vault, but he hath an abstract for the remembrance of such places, and goes to them by his note. There is no hiding you in the house. |
 | SIR JOHN | I’ll go out, then. |
 | *(didascalia)* | [[characters/mistress-page\|MISTRESS PAGE]] If you go out in your own semblance, you die, Sir John—unless you go out disguised. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | How might we disguise him? |
@@ -3302,7 +3302,7 @@ The Merry Wives of Windsor
 | [[characters/mistress-page\|MISTRESS PAGE]] | On my word, it will serve him; she’s as big as he is; and there’s her thrummed hat, and her muffler too.—Run up, Sir John. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Go, go, sweet Sir John. [[characters/mistress-page\|Mistress Page]] and<br>I will look some linen for your head. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Quick, quick! We’ll come dress you straight. Put on the gown the while. Exit Sir John |
-| [[characters/mistress-ford\|MISTRESS FORD]] | I would my husband would meet him in this shape. He cannot abide the old woman of Brentford. He swears she’s a [[characters/witch\|witch]], forbade her my [[house]], and hath threatened to beat her. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | I would my husband would meet him in this shape. He cannot abide the old woman of Brentford. He swears she’s a [[characters/witch\|witch]], forbade her my house, and hath threatened to beat her. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Heaven guide him to thy husband’s cudgel, and the devil guide his cudgel afterwards! |
 | [[characters/mistress-ford\|MISTRESS FORD]] | But is my husband coming? |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Ay, in good sadness is he, and talks of the basket too, howsoever he hath had intelligence. |
@@ -3329,12 +3329,12 @@ The Merry Wives of Windsor
 | [[characters/mistress-ford\|MISTRESS FORD]] | God be my witness you do, if you suspect me in any dishonesty. |
 | FORD | [[motifs/well\|Well]] said, brazen-face; hold it out.<br>He opens the basket and starts to take out clothes<br>Come forth, sirrah! |
 | PAGE | This passes. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | (to Ford) Are you not ashamed? Let the clothes [[Alone\|alone]]. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | (to Ford) Are you not ashamed? Let the clothes alone. |
 | FORD | I shall find you anon. |
 | EVANS | ’Tis unreasonable: will you take up your wife’s clothes? Come, away. |
 | *(didascalia)* | FORD to John and Robert Empty the basket, I say. |
 | *(didascalia)* | PAGE Why, man, why? |
-| *(didascalia)* | FORD [[characters/master-page\|Master Page]], as I am a man, there was one conveyed out of my [[house]] yesterday in this basket. Why may not he be there again? In my [[house]] I am sure he is. My intelligence is true, my [[concepts/jealousy\|jealousy]] is reasonable. To John and Robert Pluck me out all the linen. |
+| *(didascalia)* | FORD [[characters/master-page\|Master Page]], as I am a man, there was one conveyed out of my house yesterday in this basket. Why may not he be there again? In my house I am sure he is. My intelligence is true, my [[concepts/jealousy\|jealousy]] is reasonable. To John and Robert Pluck me out all the linen. |
 | EVANS | He takes out clothes |
 | [[characters/mistress-ford\|MISTRESS FORD]] | If you find a man there, he shall die a flea’s [[motifs/death\|death]]. |
 | PAGE | Here’s no man. |
@@ -3342,11 +3342,11 @@ The Merry Wives of Windsor
 | EVANS | [[characters/master-ford\|Master Ford]], you must pray, and not follow the imaginations of your own heart. This is jealousies. |
 | FORD | [[motifs/well\|Well]], he’s not here I seek for. |
 | PAGE | No, nor nowhere else but in your brain. |
-| *(didascalia)* | FORD Help to search my [[house]] this one [[motifs/time\|time]]. If I find not what I seek, show no colour for my extremity; let me for ever be your table-sport; let them say of me, ‘As jealous as Ford, that searched a hollow walnut for his wife’s leman’. Satisfy me once more; once more search with me. Exeunt John and Robert with the basket |
+| *(didascalia)* | FORD Help to search my house this one [[motifs/time\|time]]. If I find not what I seek, show no colour for my extremity; let me for ever be your table-sport; let them say of me, ‘As jealous as Ford, that searched a hollow walnut for his wife’s leman’. Satisfy me once more; once more search with me. Exeunt John and Robert with the basket |
 | [[characters/mistress-ford\|MISTRESS FORD]] | What ho, [[characters/mistress-page\|Mistress Page]]! Come you and the old woman down. My husband will come into the chamber. |
 | FORD | Old woman? What old woman’s that? |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Why, it is my maid’s Aunt of Brentford. |
-| FORD | A [[characters/witch\|witch]], a quean, an old, cozening quean! ! Have I not forbid her my [[house]]? She comes of errands, does she? We are simple men; we do not know what’s brought to pass under the profession of fortune-telling. She works by charms, by spells, by th’ figure, and such daubery as this is, beyond our element. We know nothing.—Come down, you [[characters/witch\|witch]], you hag, you ! Come down, I say! |
+| FORD | A [[characters/witch\|witch]], a quean, an old, cozening quean! ! Have I not forbid her my house? She comes of errands, does she? We are simple men; we do not know what’s brought to pass under the profession of fortune-telling. She works by charms, by spells, by th’ figure, and such daubery as this is, beyond our element. We know nothing.—Come down, you [[characters/witch\|witch]], you hag, you ! Come down, I say! |
 | *(didascalia)* | Enter [[characters/mistress-page\|Mistress Page]], and Sir John [[characters/falstaff\|Falstaff]], |
 | *(didascalia)* | disguised as an old woman. |
 | *(didascalia)* | Ford makes towards them |
@@ -3358,7 +3358,7 @@ The Merry Wives of Windsor
 | FORD | Hang her, [[characters/witch\|witch]]! |
 | EVANS | By Jeshu, I think the ‘oman is a [[characters/witch\|witch]] indeed. I like not when a ’oman has a great peard. I spy a great peard under his muffler. |
 | FORD | Will you follow, gentlemen? I beseech you, follow. See but the issue of my [[concepts/jealousy\|jealousy]]. If I cry out thus upon no trail, never trust me when I open again. |
-| PAGE | Let’s obey his [[Humour\|humour]] a little further. Come, gentlemen. Exeunt the men |
+| PAGE | Let’s obey his humour a little further. Come, gentlemen. Exeunt the men |
 | [[characters/mistress-page\|MISTRESS PAGE]] | By my troth, he beat him most pitifully. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Nay, by th’ mass, that he did not—he beat him most unpitifully, methought. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | I’ll have the cudgel hallowed and hung o’er the altar. It hath done meritorious service. |
@@ -3400,7 +3400,7 @@ The Merry Wives of Windsor
 | [[characters/mistress-ford\|MISTRESS FORD]] | Là scaricano sempre i loro schioppi da caccia. |
 | *(didascalia)* | [[characters/mistress-page\|MISTRESS PAGE]] Infilatevi nella bocca del forno. |
 | SIR JOHN | Dov’è? |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Cercherà anche là, sulla mia parola. Non c’è armadio, forziere, cassa, baule, [[motifs/well\|pozzo]], cantina, di cui non abbia un compendio a memoria di tali luoghi, e ci va secondo la sua nota. Non c’è modo di nascondervi in [[house\|casa]]. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Cercherà anche là, sulla mia parola. Non c’è armadio, forziere, cassa, baule, [[motifs/well\|pozzo]], cantina, di cui non abbia un compendio a memoria di tali luoghi, e ci va secondo la sua nota. Non c’è modo di nascondervi in casa. |
 | SIR JOHN | Uscirò, allora. |
 | *(didascalia)* | [[characters/mistress-page\|MISTRESS PAGE]] Se uscite nelle vostre sembianze, siete morto, Sir John—a meno che non usciate travestito. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Come potremmo travestirlo? |
@@ -3410,7 +3410,7 @@ The Merry Wives of Windsor
 | [[characters/mistress-page\|MISTRESS PAGE]] | Sulla mia parola, gli servirà; è grossa quanto lui; e c’è il suo cappello di lana grezza, e anche la sua sciarpa.—Correte su, Sir John. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Andate, andate, dolce Sir John. [[characters/mistress-page\|Madonna Page]] e<br>io cercheremo un po’ di lino per la vostra testa. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Presto, presto! Veniamo subito a vestirvi. Intanto infilatevi la veste. Esce Sir John |
-| [[characters/mistress-ford\|MISTRESS FORD]] | Vorrei che mio marito lo incontrasse in questa foggia. Non può soffrire la vecchia di Brentford. Giura che è una [[characters/witch\|strega]], le ha vietato la mia [[house\|casa]], e ha minacciato di bastonarla. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | Vorrei che mio marito lo incontrasse in questa foggia. Non può soffrire la vecchia di Brentford. Giura che è una [[characters/witch\|strega]], le ha vietato la mia casa, e ha minacciato di bastonarla. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Il cielo lo guidi al randello di vostro marito, e il diavolo guidi poi quel randello! |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Ma sta venendo mio marito? |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Sì, in tutta serietà, e parla anche del cesto, comunque abbia avuto la notizia. |
@@ -3437,12 +3437,12 @@ The Merry Wives of Windsor
 | [[characters/mistress-ford\|MISTRESS FORD]] | Dio mi sia testimone che lo fate, se mi sospettate di qualche disonestà. |
 | FORD | [[motifs/well\|Ben]] detto, faccia di bronzo; tieni duro.<br>Apre il cesto e comincia a tirar fuori i panni<br>Vieni fuori, messere! |
 | PAGE | Questo passa ogni segno. |
-| [[characters/mistress-ford\|MISTRESS FORD]] | (a Ford) Non vi vergognate? Lasciate stare i panni, [[Alone\|soli]] come sono. |
+| [[characters/mistress-ford\|MISTRESS FORD]] | (a Ford) Non vi vergognate? Lasciate stare i panni, soli come sono. |
 | FORD | Ti troverò tra poco. |
 | EVANS | Non è ragionevole: volete tirar fuori i panni di vostra moglie? Suvvia, andiamo. |
 | *(didascalia)* | FORD a John e Robert Vuotate il cesto, dico. |
 | *(didascalia)* | PAGE Ma perché, uomo, perché? |
-| *(didascalia)* | FORD [[characters/master-page\|Mastro Page]], com’è vero che sono un uomo, ieri qualcuno fu portato fuori dalla mia [[house\|casa]] dentro questo cesto. Perché non potrebbe esserci di nuovo? In [[house\|casa]] mia sono certo che c’è. La mia informazione è vera, la mia [[concepts/jealousy\|gelosia]] è ragionevole. A John e Robert Tiratemi fuori tutta la biancheria. |
+| *(didascalia)* | FORD [[characters/master-page\|Mastro Page]], com’è vero che sono un uomo, ieri qualcuno fu portato fuori dalla mia casa dentro questo cesto. Perché non potrebbe esserci di nuovo? In casa mia sono certo che c’è. La mia informazione è vera, la mia [[concepts/jealousy\|gelosia]] è ragionevole. A John e Robert Tiratemi fuori tutta la biancheria. |
 | EVANS | Tira fuori i panni |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Se ci trovate un uomo, che muoia della [[motifs/death\|morte]] d’una pulce. |
 | PAGE | Qui non c’è nessun uomo. |
@@ -3450,11 +3450,11 @@ The Merry Wives of Windsor
 | EVANS | [[characters/master-ford\|Mastro Ford]], dovete pregare, e non seguire le immaginazioni del vostro proprio cuore. Questo è gelosie. |
 | FORD | [[motifs/well\|Bene]], non è qui colui che cerco. |
 | PAGE | No, né in alcun altro luogo se non nel vostro cervello. |
-| *(didascalia)* | FORD Aiutatemi a frugare la mia [[house\|casa]] questa sola [[motifs/time\|volta]]. Se non trovo ciò che cerco, non date colore alla mia stravaganza; sia io per sempre il vostro trastullo da tavola; dicano di me: ‘Geloso come Ford, che frugò una noce vuota in cerca dell’amante di sua moglie’. Soddisfatemi ancora una volta; ancora una volta frugate con me. Escono John e Robert col cesto |
+| *(didascalia)* | FORD Aiutatemi a frugare la mia casa questa sola [[motifs/time\|volta]]. Se non trovo ciò che cerco, non date colore alla mia stravaganza; sia io per sempre il vostro trastullo da tavola; dicano di me: ‘Geloso come Ford, che frugò una noce vuota in cerca dell’amante di sua moglie’. Soddisfatemi ancora una volta; ancora una volta frugate con me. Escono John e Robert col cesto |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Ehilà, [[characters/mistress-page\|madonna Page]]! Scendete voi e la vecchia. Mio marito verrà nella camera. |
 | FORD | Vecchia? Che vecchia è questa? |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Ma è la zia della mia serva, quella di Brentford. |
-| FORD | Una [[characters/witch\|strega]], una baldracca, una vecchia baldracca imbrogliona! ! Non le ho forse vietato la mia [[house\|casa]]? Viene per commissioni, eh? Siamo uomini semplici; non sappiamo che cosa si compia sotto la professione della buona ventura. Lavora con incanti, con formule, con la figura, e con simili imbratti, oltre il nostro elemento. Noi non sappiamo nulla.—Scendi, [[characters/witch\|strega]], vecchiaccia, tu ! Scendi, dico! |
+| FORD | Una [[characters/witch\|strega]], una baldracca, una vecchia baldracca imbrogliona! ! Non le ho forse vietato la mia casa? Viene per commissioni, eh? Siamo uomini semplici; non sappiamo che cosa si compia sotto la professione della buona ventura. Lavora con incanti, con formule, con la figura, e con simili imbratti, oltre il nostro elemento. Noi non sappiamo nulla.—Scendi, [[characters/witch\|strega]], vecchiaccia, tu ! Scendi, dico! |
 | *(didascalia)* | Entrano [[characters/mistress-page\|madonna Page]] e Sir John [[characters/falstaff\|Falstaff]], |
 | *(didascalia)* | travestito da vecchia. |
 | *(didascalia)* | Ford muove verso di loro |
@@ -3466,7 +3466,7 @@ The Merry Wives of Windsor
 | FORD | Impiccatela, [[characters/witch\|strega]]! |
 | EVANS | Per Gesù, credo che la tonna sia tavvero una [[characters/witch\|strega]]. Non mi piace quando una tonna ha una gran parpa. Ho spiato una gran parpa sotto la sua sciarpa. |
 | FORD | Volete seguirmi, signori? Vi supplico, seguitemi. Vedete solo l’esito della mia [[concepts/jealousy\|gelosia]]. Se abbaio così senza traccia, non fidatevi mai più di me quando darò voce di nuovo. |
-| PAGE | Assecondiamo il suo [[Humour\|umore]] ancora un poco. Venite, signori. Escono gli uomini |
+| PAGE | Assecondiamo il suo umore ancora un poco. Venite, signori. Escono gli uomini |
 | [[characters/mistress-page\|MISTRESS PAGE]] | In fede mia, l’ha bastonato in modo pietoso. |
 | [[characters/mistress-ford\|MISTRESS FORD]] | No, per la messa, questo no—l’ha bastonato in modo spietato, mi pareva. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Farò benedire quel randello e appendere sopra l’altare. Ha reso un servizio meritorio. |
@@ -3488,7 +3488,7 @@ The Merry Wives of Windsor
 | BARDOLPH | Sir, the Germans [[motifs/desire\|desire]] to have three of your horses. The Duke himself will be tomorrow at [[settings/court\|court]], and they are going to meet him. |
 | HOST | What duke should that be comes so secretly? I hear not of him in the [[settings/court\|court]]. Let me speak with the gentlemen. They speak English? |
 | BARDOLPH | Ay, sir. I’ll call them to you. |
-| HOST | They shall have my horses, but I’ll make them pay; I’ll sauce them. They have had my [[house]] a week at command; I have turned away my other guests. They must come off: I’ll sauce them. Come. Exeunt |
+| HOST | They shall have my horses, but I’ll make them pay; I’ll sauce them. They have had my house a week at command; I have turned away my other guests. They must come off: I’ll sauce them. Come. Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3499,7 +3499,7 @@ The Merry Wives of Windsor
 | BARDOLPH | Signore, i tedeschi [[motifs/desire\|desiderano]] avere tre dei vostri cavalli. Il Duca in persona sarà domani a [[settings/court\|corte]], ed essi vanno a incontrarlo. |
 | HOST | Che duca sarà mai costui che viene così di nascosto? Non ne sento parlare a [[settings/court\|corte]]. Fammi parlare con quei signori. Parlano inglese? |
 | BARDOLPH | Sì, signore. Ve li chiamo. |
-| HOST | Avranno i miei cavalli, ma glieli farò pagare; li condirò per bene. Hanno avuto la mia [[house\|casa]] a loro comando per una settimana; ho mandato via gli altri ospiti. Devono sborsare: li condirò per bene. Venite. Escono |
+| HOST | Avranno i miei cavalli, ma glieli farò pagare; li condirò per bene. Hanno avuto la mia casa a loro comando per una settimana; ho mandato via gli altri ospiti. Devono sborsare: li condirò per bene. Venite. Escono |
 
 
 
@@ -3524,7 +3524,7 @@ The Merry Wives of Windsor
 | PAGE | Why, yet there want not many that do [[concepts/fear\|fear]]<br>In deep of [[motifs/night\|night]] to walk by this Herne’s Oak.<br>But what of this? |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Marry, this is our device:<br>That [[characters/falstaff\|Falstaff]] at that oak shall meet with us,<br>Disguised like Herne, with huge horns on his head. |
 | PAGE | [[motifs/well\|Well]], let it not be doubted but he’ll come,<br>And in this shape. When you have brought him<br>thither<br>What shall be done with him? What is your plot? |
-| [[characters/mistress-page\|MISTRESS PAGE]] | That likewise have we thought upon, and thus.<br>Nan Page my daughter, and my little son,<br>And three or four more of their growth, we’ll dress<br>Like urchins, oafs, and fairies, green and white,<br>With rounds of waxen tapers on their heads,<br>And rattles in their hands. Upon a sudden,<br>As [[characters/falstaff\|Falstaff]], she, and I are newly met,<br>Let them from forth a saw-pit rush at once,<br>With some diffused [[Song\|song]]. Upon their sight<br>We two in great amazèdness will fly.<br>Then let them all encircle him about,<br>And, fairy-like, to pinch the unclean knight,<br>And ask him why, that hour of fairy revel,<br>In their so sacred paths he dares to tread<br>In shape profane.<br>[mistress! FORD And till he tell the [[concepts/truth\|truth]],<br>Let the supposed fairies pinch him sound,<br>And burn him with their tapers. |
+| [[characters/mistress-page\|MISTRESS PAGE]] | That likewise have we thought upon, and thus.<br>Nan Page my daughter, and my little son,<br>And three or four more of their growth, we’ll dress<br>Like urchins, oafs, and fairies, green and white,<br>With rounds of waxen tapers on their heads,<br>And rattles in their hands. Upon a sudden,<br>As [[characters/falstaff\|Falstaff]], she, and I are newly met,<br>Let them from forth a saw-pit rush at once,<br>With some diffused song. Upon their sight<br>We two in great amazèdness will fly.<br>Then let them all encircle him about,<br>And, fairy-like, to pinch the unclean knight,<br>And ask him why, that hour of fairy revel,<br>In their so sacred paths he dares to tread<br>In shape profane.<br>[mistress! FORD And till he tell the [[concepts/truth\|truth]],<br>Let the supposed fairies pinch him sound,<br>And burn him with their tapers. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | The [[concepts/truth\|truth]] being known,<br>We’ll all present ourselves, dis-horn the spirit,<br>And mock him [[motifs/home\|home]] to Windsor. |
 | FORD | The children must<br>Be practised [[motifs/well\|well]] to this, or they’ll ne’er do’t. |
 | EVANS | I will teach the children their behaviours, and I will be like a jackanapes also, to burn the knight with my taber. |
@@ -3560,7 +3560,7 @@ The Merry Wives of Windsor
 | PAGE | Ebbene, non mancano tuttora molti che [[concepts/fear\|temono]]<br>di passare nel fondo della [[motifs/night\|notte]] accanto alla Quercia di Herne.<br>Ma che importa questo? |
 | [[characters/mistress-ford\|MISTRESS FORD]] | Perbacco, ecco il nostro artificio:<br>che [[characters/falstaff\|Falstaff]] a quella quercia s’incontri con noi,<br>travestito da Herne, con enormi corna sul capo. |
 | PAGE | [[motifs/well\|Bene]], non si dubiti che verrà,<br>e in questa foggia. Quando l’avrete portato<br>là<br>che si farà di lui? Qual è il vostro piano? |
-| [[characters/mistress-page\|MISTRESS PAGE]] | Anche a questo abbiamo pensato, ed ecco come.<br>Nan Page mia figlia, e il mio figlioletto,<br>e tre o quattro altri della loro statura, vestiremo<br>da folletti, da gnomi e da fate, in verde e in bianco,<br>con corone di ceri di cera sul capo,<br>e sonagli nelle mani. All’improvviso,<br>appena [[characters/falstaff\|Falstaff]], lei e io ci saremo incontrati,<br>escano tutti insieme da una fossa da segheria,<br>con qualche [[Song\|canto]] confuso. Alla loro vista<br>noi due fuggiremo in grande sbigottimento.<br>Poi tutti lo circondino d’intorno,<br>e, a modo di fate, pizzichino l’immondo cavaliere,<br>e gli chiedano perché, in quell’ora di tripudio fatato,<br>osi calcare i loro sentieri tanto sacri<br>in forma profana.<br>[mistress! FORD E finché non dica la [[concepts/truth\|verità]],<br>lo pizzichino ben bene le supposte fate,<br>e lo brucino coi loro ceri. |
+| [[characters/mistress-page\|MISTRESS PAGE]] | Anche a questo abbiamo pensato, ed ecco come.<br>Nan Page mia figlia, e il mio figlioletto,<br>e tre o quattro altri della loro statura, vestiremo<br>da folletti, da gnomi e da fate, in verde e in bianco,<br>con corone di ceri di cera sul capo,<br>e sonagli nelle mani. All’improvviso,<br>appena [[characters/falstaff\|Falstaff]], lei e io ci saremo incontrati,<br>escano tutti insieme da una fossa da segheria,<br>con qualche canto confuso. Alla loro vista<br>noi due fuggiremo in grande sbigottimento.<br>Poi tutti lo circondino d’intorno,<br>e, a modo di fate, pizzichino l’immondo cavaliere,<br>e gli chiedano perché, in quell’ora di tripudio fatato,<br>osi calcare i loro sentieri tanto sacri<br>in forma profana.<br>[mistress! FORD E finché non dica la [[concepts/truth\|verità]],<br>lo pizzichino ben bene le supposte fate,<br>e lo brucino coi loro ceri. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Saputa la [[concepts/truth\|verità]],<br>ci presenteremo tutti, scorneremo lo spirito,<br>e fra le beffe lo ricondurremo a [[motifs/home\|casa]] a Windsor. |
 | FORD | I fanciulli dovranno<br>essere [[motifs/well\|bene]] addestrati a questo, o non lo faranno mai. |
 | EVANS | Insegnerò io ai fanciulli i loro contegni, e sarò anch’io come uno scimmiotto, per bruciare il cavaliere col mio cero. |
@@ -3585,7 +3585,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Enter the Host of the Garter and Simple |
 | HOST | What wouldst thou have, boor? What, thick-skin? Speak, breathe, discuss. Brief, short, quick, snap. |
 | SIMPLE | Marry, sir, I come to speak with Sir John [[characters/falstaff\|Falstaff]], from Master Slender. |
-| HOST | There’s his chamber, his [[house]], his [[settings/castle\|castle]], his standing-bed and truckle-bed. ’Tis painted about with the story of the Prodigal, fresh and new. Go knock and call. He’ll speak like an Anthropophaginian unto thee. Knock, I say. |
+| HOST | There’s his chamber, his house, his [[settings/castle\|castle]], his standing-bed and truckle-bed. ’Tis painted about with the story of the Prodigal, fresh and new. Go knock and call. He’ll speak like an Anthropophaginian unto thee. Knock, I say. |
 | SIMPLE | There’s an old woman, a fat woman, gone up into his chamber. I’ll be so bold as stay, sir, till she come down. I come to speak with her, indeed. |
 | HOST | Ha, a fat woman? The knight may be robbed. I’ll call.—Bully knight, bully Sir John! Speak from thy lungs military! Art thou there? It is thine Host, thine Ephesian, calls. |
 | SIR JOHN | (within) How now, mine Host? |
@@ -3658,7 +3658,7 @@ The Merry Wives of Windsor
 | *(didascalia)* | Entrano l’Oste della Giarrettiera e Simple |
 | HOST | Che vuoi, zoticone? Come, pellaccia? Parla, respira, discuti. Breve, corto, rapido, secco. |
 | SIMPLE | Perbacco, signore, vengo a parlare con Sir John [[characters/falstaff\|Falstaff]], da parte di mastro Slender. |
-| HOST | Ecco la sua camera, la sua [[house\|casa]], il suo [[settings/castle\|castello]], il suo letto grande e il suo lettuccio a rotelle. È dipinto tutt’intorno con la storia del Prodigo, fresca e nuova. Va’ a bussare e chiama. Ti parlerà come un Antropofagino. Bussa, dico. |
+| HOST | Ecco la sua camera, la sua casa, il suo [[settings/castle\|castello]], il suo letto grande e il suo lettuccio a rotelle. È dipinto tutt’intorno con la storia del Prodigo, fresca e nuova. Va’ a bussare e chiama. Ti parlerà come un Antropofagino. Bussa, dico. |
 | SIMPLE | C’è una vecchia, una donna grassa, salita nella sua camera. Mi prenderò l’ardire d’aspettare, signore, finché scenda. Vengo a parlare con lei, per l’appunto. |
 | HOST | Ah, una donna grassa? Il cavaliere potrebbe essere derubato. Chiamo io.—Bravo cavaliere, bravo Sir John! Parla coi tuoi polmoni militari! Sei là? È il tuo oste, il tuo Efesino, che ti chiama. |
 | SIR JOHN | (dall’interno) Ebbene, oste mio? |
@@ -3891,7 +3891,7 @@ The Merry Wives of Windsor
 | EVANS | Where’s Bead? Go you, and, where you find a maid<br>That ere she [[motifs/sleep\|sleep]] has thrice her prayers said,<br>Raise up the organs of her fantasy,<br>[[motifs/sleep\|Sleep]] she as sound as careless infancy.<br>But those as [[motifs/sleep\|sleep]] and think not on their sins,<br>Pinch them, arms, legs, backs, shoulders, sides, and<br>shins. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | About, about!<br>Search Windsor [[settings/castle\|Castle]], elves, within and out.<br>Strew good luck, oafs, on every sacred room,<br>That it may stand till the perpetual doom<br>In state as wholesome as in state ‘tis fit,<br>Worthy the owner, and the owner it.<br>The several chairs of order look you scour<br>With juice of balm and every precious flower.<br>Each fair instalment, coat, and sev’ral crest<br>With loyal blazon evermore be blessed;<br>And nightly, meadow-fairies, look you sing,<br>Like to the Garter’s compass, in a ring. 65<br>Th‘expressure that it bears, green let it be,<br>More fertile-fresh than all the field to see;<br>And ‘Honi soit qui mal y pense’ write<br>In em‘rald tufts, [[motifs/flowers\|flowers]] purple, blue, and white,<br>Like sapphire, pearl, and rich embroidery,<br>Buckled below fair knighthood’s bending knee—<br>Fairies use [[motifs/flowers\|flowers]] for their charactery.<br>Away, disperse!—But till ’tis one o’[[motifs/clock\|clock]]<br>Our [[motifs/dance\|dance]] of custom, round about the oak<br>Of Herne the hunter, let us not forget. |
 | EVANS | Pray you, lock hand in hand; yourselves in order set;<br>And twenty glow-worms shall our lanterns be<br>To guide our measure round about the tree.—<br>But stay; I smell a man of middle earth. |
-| SIR JOHN | (aside)<br>God defend me from that Welsh fairy,<br>Lest he transform me to a piece of [[cheese]]! |
+| SIR JOHN | (aside)<br>God defend me from that Welsh fairy,<br>Lest he transform me to a piece of cheese! |
 | *(didascalia)* | HOBGOBLIN (to Sir John) |
 | SIR JOHN | Vile worm, thou wast o’erlooked even in thy birth. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (to fairies)<br>With trial-[[motifs/fire\|fire]], touch me his finger-end.<br>If he be chaste, the flame will back descend,<br>And turn him to no [[motifs/pain\|pain]]; but if he start,<br>It is the flesh of a corrupted heart. |
@@ -3900,7 +3900,7 @@ The Merry Wives of Windsor
 | EVANS | Come, will this wood take [[motifs/fire\|fire]] ?<br>They burn Sir John with tapers |
 | SIR JOHN | O, O, O! |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Corrupt, corrupt, and tainted in [[motifs/desire\|desire]].<br>About him, fairies; sing a scornful rhyme;<br>And, as you trip, still pinch him to your [[motifs/time\|time]].<br>They [[motifs/dance\|dance]] around Sir John, pinching him and singing: |
-| FAIRIES | Fie on sinful fantasy!<br>Fie on lust and luxury!<br>Lust is but a bloody [[motifs/fire\|fire]],<br>Kindled with unchaste [[motifs/desire\|desire]],<br>Fed in heart, whose flames aspire,<br>As thoughts do blow them, higher and higher.<br>Pinch him, fairies, mutually.<br>Pinch him for his villainy.<br>Pinch him, and burn him, and turn him about,<br>Till candles and starlight and moonshine be out.<br>During the [[Song\|song]], enter [[characters/doctor-caius\|Doctor Caius]] one way, and exit stealing away a fairy in green; enter Master Slender another way, and exit stealing away a fairy in white; enter Master [[characters/fenton\|Fenton]], and exit stealing away [[characters/anne-page\|Anne Page]]. After the [[Song\|song]], a noise of hunting within. Exeunt [[characters/mistress-quickly\|Mistress Quickly]], Evans, Hobgoblin, and fairies, running. Sir John rises, and starts to run away. Enter [[characters/master-page\|Master Page]], [[characters/master-ford\|Master Ford]], [[characters/mistress-page\|Mistress Page]], and [[characters/mistress-ford\|Mistress Ford]] |
+| FAIRIES | Fie on sinful fantasy!<br>Fie on lust and luxury!<br>Lust is but a bloody [[motifs/fire\|fire]],<br>Kindled with unchaste [[motifs/desire\|desire]],<br>Fed in heart, whose flames aspire,<br>As thoughts do blow them, higher and higher.<br>Pinch him, fairies, mutually.<br>Pinch him for his villainy.<br>Pinch him, and burn him, and turn him about,<br>Till candles and starlight and moonshine be out.<br>During the song, enter [[characters/doctor-caius\|Doctor Caius]] one way, and exit stealing away a fairy in green; enter Master Slender another way, and exit stealing away a fairy in white; enter Master [[characters/fenton\|Fenton]], and exit stealing away [[characters/anne-page\|Anne Page]]. After the song, a noise of hunting within. Exeunt [[characters/mistress-quickly\|Mistress Quickly]], Evans, Hobgoblin, and fairies, running. Sir John rises, and starts to run away. Enter [[characters/master-page\|Master Page]], [[characters/master-ford\|Master Ford]], [[characters/mistress-page\|Mistress Page]], and [[characters/mistress-ford\|Mistress Ford]] |
 | PAGE | Nay, do not fly. I think we have watched you now.<br>Will none but Herne the hunter serve your turn? |
 | [[characters/mistress-page\|MISTRESS PAGE]] | I pray you, come, hold up the jest no higher.<br>Now, good Sir John, how like you Windsor wives?<br>(Pointing to [[characters/falstaff\|Falstaff]]’s horns)<br><br>See you these, husband? Do not these fair yokes<br>Become the forest better than the town ? |
 | FORD | (to Sir John) Now, sir, who’s a cuckold now? Master Brooke, [[characters/falstaff\|Falstaff]]’s a knave, a cuckoldly knave. Here are his horns, Master Brooke. And, Master Brooke, he hath enjoyed nothing of Ford’s but his buck-basket, his cudgel, and twenty pounds of money which must be paid to Master Brooke; his horses are arrested for it, Master Brooke. |
@@ -3912,7 +3912,7 @@ The Merry Wives of Windsor
 | FORD | [[motifs/well\|Well]] said, Fairy Hugh. |
 | EVANS | And leave you your jealousies too, I pray you. |
 | FORD | I will never mistrust my wife again till thou art able to woo her in good English. |
-| SIR JOHN | Have I laid my brain in the sun and dried it, that it wants matter to prevent so gross o‘er-reaching as this? Am I ridden with a Welsh goat too? Shall I have a coxcomb of frieze ? ’Tis [[motifs/time\|time]] I were choked with a piece of toasted [[cheese]]. |
+| SIR JOHN | Have I laid my brain in the sun and dried it, that it wants matter to prevent so gross o‘er-reaching as this? Am I ridden with a Welsh goat too? Shall I have a coxcomb of frieze ? ’Tis [[motifs/time\|time]] I were choked with a piece of toasted cheese. |
 | EVANS | Seese is not good to give putter; your belly is all putter. z to |
 | SIR JOHN | ‘Seese’ and ‘putter’? Have I lived to stand at the taunt of one that makes fritters of English? This is enough to be the [[motifs/decay\|decay]] of lust and late walking through the realm. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Why, Sir John, do you think, though we would have thrust virtue out of our hearts by the head and shoulders, and have given ourselves without scruple to hell, that ever the devil could have made you our delight? |
@@ -3925,7 +3925,7 @@ The Merry Wives of Windsor
 | EVANS | And given to fornications, and to taverns, and sack, and wine, and metheglins; and to drinkings, and swearings, and starings, pribbles and prabbles? |
 | SIR JOHN | [[motifs/well\|Well]], I am your theme; you have the start of me. I am dejected. I am not able to answer the Welsh flannel. Ignorance itself is a plummet o’er me. Use me as you will. |
 | FORD | Marry, sir, we’ll bring you to Windsor, to one Master Brooke, that you have cozened of money, to whom you should have been a pander. Over and above that you have suffered, I think to repay that money will be a biting affliction. |
-| PAGE | Yet be cheerful, knight. Thou shalt eat a posset tonight at my [[house]], where I will [[motifs/desire\|desire]] thee to laugh at my wife that now laughs at thee. Tell her Master Slender hath married her daughter. |
+| PAGE | Yet be cheerful, knight. Thou shalt eat a posset tonight at my house, where I will [[motifs/desire\|desire]] thee to laugh at my wife that now laughs at thee. Tell her Master Slender hath married her daughter. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | (aside) Doctors [[concepts/doubt\|doubt]] that! If [[characters/anne-page\|Anne Page]] be my daughter, she is, by this, [[characters/doctor-caius\|Doctor Caius]]’s wife. |
 | *(didascalia)* | Enter Master Slender |
 | SLENDER | Whoa, ho, ho, father Page! |
@@ -3953,7 +3953,7 @@ The Merry Wives of Windsor
 | FORD | (to Page and [[characters/mistress-page\|Mistress Page]])<br>Stand not amazed. Here is no remedy.<br>In [[motifs/love\|love]] the heavens themselves do guide the state;<br>Money buys lands, and wives are sold by fate. |
 | SIR JOHN | I am glad, though you have ta’en a special stand to strike at me, that your arrow hath glanced. |
 | PAGE | [[motifs/well\|Well]], what remedy? [[characters/fenton\|Fenton]], heaven give thee joy I<br>What cannot be eschewed must be embraced. |
-| SIR JOHN | When [[motifs/night\|night]]-[[dogs]] run, all sorts of deer are chased. |
+| SIR JOHN | When [[motifs/night\|night]]-dogs run, all sorts of deer are chased. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | [[motifs/well\|Well]], I will muse no further. Master [[characters/fenton\|Fenton]],<br>Heaven give you many, many merry days!<br>Good husband, let us every one go [[motifs/home\|home]],<br>And laugh this sport o’er by a country [[motifs/fire\|fire]],<br>Sir John and all. |
 | FORD | Let it be so, Sir John.<br>To Master Brooke you yet shall hold your word,<br>For he tonight shall lie with [[characters/mistress-ford\|Mistress Ford]]. Exeunt<br><br>2 [[characters/henry-iv\|HENRY IV]]<br>2<br>[[characters/henry-iv\|Henry IV]], printed in 1600 as The Second Part of Henry the Fourth, was not reprinted until it was included in somewhat revised form in the 1623 Folio, with the same title. Shakespeare may have started to write it in 1597, directly after I [[characters/henry-iv\|Henry IV]], but have laid it aside while he composed The Merry Wives of Windsor. As in I [[characters/henry-iv\|Henry IV]], he drew on The Famous Victories of Henry the Fifth, Holinshed’s Chronicles, and Samuel Daniel’s Four Books of the Civil Wars, along with other, minor sources; but the play contains a greater proportion of non-historical material apparently invented by Shakespeare. In this play Shakespeare seems from the start to have accepted the change of Sir John’s surname to [[characters/falstaff\|Falstaff]] which had been enforced upon him in I [[characters/henry-iv\|Henry IV]].<br>Like I [[characters/henry-iv\|Henry IV]], Part Two draws on the techniques of [[forms/comedy\|comedy]], but its overall tone is more sombre. At its start, the Prince seems to have regressed from his reformed state at the end of Part One; his father still has many causes for anxiety, has not made his expiatory pilgrimage to the Holy Land, and is again the victim of rebellion, led this [[motifs/time\|time]] by the [[characters/earl-of-northumberland\|Earl of Northumberland]], the Archbishop of York, and the Lords [[characters/hastings\|Hastings]] and [[characters/mowbray\|Mowbray]]. Again Henry’s public responsibilities are exacerbated by anxieties about Prince Harry’s behaviour; the climax of their relationship comes after Harry, discovering his sick father asleep and thinking him dead, tries on his [[motifs/crown\|crown]]; after bitterly upbraiding him, Henry accepts his son’s assertions of good [[concepts/faith\|faith]], and, recalling the devious means by which he himself came to the throne, warns Harry that he may need to protect himself against civil strife by pursuing ‘foreign quarrels’-the campaigning against France depicted in [[characters/henry-v\|Henry V]]. The [[archetypes/king\|King]] dies in the Jerusalem Chamber of Westminster Abbey, the closest he will get to the Holy Land.<br>In this play the Prince spends less [[motifs/time\|time]] than in Part One with Sir John, who is shown much in the company of [[characters/mistress-quickly\|Mistress Quickly]] and [[characters/doll-tearsheet\|Doll Tearsheet]] at the Boar’s Head tavern in Eastcheap and later in Gloucestershire on his way to and from the place of battle. Shakespeare never excelled the bitter-sweet [[forms/comedy\|comedy]] of the passages involving [[characters/falstaff\|Falstaff]] and his old comrade [[characters/justice-shallow\|Justice Shallow]]. The play ends in a counterpointing of major and minor keys as the newly crowned [[characters/henry-v\|Henry V]] rejects Sir John and all that he has stood for. |
 | THE PERSONS OF THE | PLAY |
@@ -3988,7 +3988,7 @@ The Merry Wives of Windsor
 | EVANS | Dov’è Bead? Va’ tu, e, dove trovi una fanciulla<br>che prima di [[motifs/sleep\|dormire]] abbia detto tre volte le sue preghiere,<br>eccita gli organi della sua fantasia,<br>[[motifs/sleep\|dorma]] ella profonda come spensierata infanzia.<br>Ma quelle che [[motifs/sleep\|dormono]] e non pensano ai loro peccati,<br>pizzicale su braccia, gambe, schiene, spalle, fianchi e<br>stinchi. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Intorno, intorno!<br>Frugate il [[settings/castle\|Castello]] di Windsor, elfi, dentro e fuori.<br>Spargete buona sorte, gnomi, su ogni sacra stanza,<br>ch’esso possa reggere fino al giudizio perpetuo<br>in stato sano quanto al suo stato s’addice,<br>degno del suo signore, e il signore degno di lui.<br>Le varie sedie dell’Ordine badate di lustrare<br>con succo di balsamo e ogni fiore prezioso.<br>Ogni bell’insegna, stemma e distinto cimiero<br>sia in eterno benedetto da leale blasone;<br>e ogni notte, fate dei prati, badate di cantare,<br>come il cerchio della Giarrettiera, in tondo. 65<br>L’impronta ch’esso porta, verde ella sia,<br>più fertile e fresca a vedersi di tutto il campo;<br>e ‘Honi soit qui mal y pense’ scrivete<br>in ciuffi di smeraldo, [[motifs/flowers\|fiori]] purpurei, azzurri e bianchi,<br>come zaffiro, perla e ricco ricamo,<br>affibbiati sotto il ginocchio piegato del bel cavalierato—<br>le fate usano [[motifs/flowers\|fiori]] per la loro scrittura.<br>Via, disperdetevi!—Ma finché non sia l’una all’[[motifs/clock\|orologio]]<br>la nostra [[motifs/dance\|danza]] consueta, intorno alla quercia<br>di Herne il cacciatore, non dimentichiamo. |
 | EVANS | Vi prego, allacciate mano a mano; disponetevi in ordine;<br>e venti lucciole saranno le nostre lanterne<br>per guidare la nostra misura intorno all’albero.—<br>Ma fermi; fiuto un uomo di terra di mezzo. |
-| SIR JOHN | (a parte)<br>Dio mi difenda da quella fata gallese,<br>ché non mi trasformi in un pezzo di [[cheese\|formaggio]]! |
+| SIR JOHN | (a parte)<br>Dio mi difenda da quella fata gallese,<br>ché non mi trasformi in un pezzo di formaggio! |
 | *(didascalia)* | HOBGOBLIN (a Sir John) |
 | SIR JOHN | Verme vile, fosti maleficiato fin dalla nascita. |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | (alle fate)<br>Col [[motifs/fire\|fuoco]] della prova, toccatemi la punta del suo dito.<br>Se è casto, la fiamma discenderà all’indietro,<br>e non gli darà [[motifs/pain\|pena]]; ma se trasalisce,<br>è carne d’un cuore corrotto. |
@@ -3997,7 +3997,7 @@ The Merry Wives of Windsor
 | EVANS | Venite, prenderà [[motifs/fire\|fuoco]] questo legno ?<br>Bruciano Sir John coi ceri |
 | SIR JOHN | Oh, oh, oh! |
 | [[characters/mistress-quickly\|MISTRESS QUICKLY]] | Corrotto, corrotto, e infetto nel [[motifs/desire\|desiderio]].<br>Intorno a lui, fate; cantate una rima di scherno;<br>e, mentre saltellate, pizzicatelo sempre a [[motifs/time\|tempo]].<br>[[motifs/dance\|Danzano]] intorno a Sir John, pizzicandolo e cantando: |
-| FAIRIES | Ohibò la fantasia peccaminosa!<br>Ohibò la lussuria e il lusso!<br>La lussuria non è che un [[motifs/fire\|fuoco]] sanguigno,<br>acceso con impuro [[motifs/desire\|desiderio]],<br>nutrito in cuore, le cui fiamme aspirano,<br>quando i pensieri le soffiano, più alto e più alto.<br>Pizzicatelo, fate, a vicenda.<br>Pizzicatelo per la sua scelleratezza.<br>Pizzicatelo, e bruciatelo, e fatelo girare,<br>finché candele e luce di stelle e chiaro di luna siano spenti.<br>Durante il [[Song\|canto]], entra il [[characters/doctor-caius\|dottor Caius]] da una parte, ed esce portando via furtivamente una fata in verde; entra mastro Slender da un’altra parte, ed esce portando via furtivamente una fata in bianco; entra mastro [[characters/fenton\|Fenton]], ed esce portando via furtivamente [[characters/anne-page\|Anne Page]]. Dopo il [[Song\|canto]], rumore di caccia dall’interno. Escono [[characters/mistress-quickly\|madonna Quickly]], Evans, Hobgoblin e le fate, correndo. Sir John si alza e fa per fuggire. Entrano [[characters/master-page\|mastro Page]], [[characters/master-ford\|mastro Ford]], [[characters/mistress-page\|madonna Page]] e [[characters/mistress-ford\|madonna Ford]] |
+| FAIRIES | Ohibò la fantasia peccaminosa!<br>Ohibò la lussuria e il lusso!<br>La lussuria non è che un [[motifs/fire\|fuoco]] sanguigno,<br>acceso con impuro [[motifs/desire\|desiderio]],<br>nutrito in cuore, le cui fiamme aspirano,<br>quando i pensieri le soffiano, più alto e più alto.<br>Pizzicatelo, fate, a vicenda.<br>Pizzicatelo per la sua scelleratezza.<br>Pizzicatelo, e bruciatelo, e fatelo girare,<br>finché candele e luce di stelle e chiaro di luna siano spenti.<br>Durante il canto, entra il [[characters/doctor-caius\|dottor Caius]] da una parte, ed esce portando via furtivamente una fata in verde; entra mastro Slender da un’altra parte, ed esce portando via furtivamente una fata in bianco; entra mastro [[characters/fenton\|Fenton]], ed esce portando via furtivamente [[characters/anne-page\|Anne Page]]. Dopo il canto, rumore di caccia dall’interno. Escono [[characters/mistress-quickly\|madonna Quickly]], Evans, Hobgoblin e le fate, correndo. Sir John si alza e fa per fuggire. Entrano [[characters/master-page\|mastro Page]], [[characters/master-ford\|mastro Ford]], [[characters/mistress-page\|madonna Page]] e [[characters/mistress-ford\|madonna Ford]] |
 | PAGE | No, non fuggite. Credo che questa volta vi abbiamo colto.<br>Nessun altro che Herne il cacciatore fa al caso vostro? |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Vi prego, venite, non tirate più su la burla.<br>Ora, buon Sir John, come vi piacciono le mogli di Windsor?<br>(Indicando le corna di [[characters/falstaff\|Falstaff]])<br><br>Le vedete, marito? Non stanno questi bei gioghi<br>meglio alla foresta che alla città ? |
 | FORD | (a Sir John) Ebbene, signore, chi è becco adesso? Mastro Brooke, [[characters/falstaff\|Falstaff]] è un furfante, un furfante becco. Ecco le sue corna, mastro Brooke. E, mastro Brooke, egli non ha goduto nulla di Ford se non il suo cesto da bucato, il suo randello e venti sterline di denaro che dovranno essere restituite a mastro Brooke; i suoi cavalli sono sotto sequestro per questo, mastro Brooke. |
@@ -4009,7 +4009,7 @@ The Merry Wives of Windsor
 | FORD | [[motifs/well\|Ben]] detto, fata Hugh. |
 | EVANS | E lasciate anche voi le vostre gelosie, vi prego. |
 | FORD | Non diffiderò mai più di mia moglie finché tu non sarai in grado di corteggiarla in buon inglese. |
-| SIR JOHN | Ho forse messo il mio cervello al sole a seccare, che gli manchi materia per prevenire un raggiro tanto grossolano come questo? Sono cavalcato anche da un capro gallese? Avrò un berretto da matto di rozza lana ? È [[motifs/time\|tempo]] ch’io sia soffocato con un pezzo di [[cheese\|formaggio]] abbrustolito. |
+| SIR JOHN | Ho forse messo il mio cervello al sole a seccare, che gli manchi materia per prevenire un raggiro tanto grossolano come questo? Sono cavalcato anche da un capro gallese? Avrò un berretto da matto di rozza lana ? È [[motifs/time\|tempo]] ch’io sia soffocato con un pezzo di formaggio abbrustolito. |
 | EVANS | Il formaccio non è puono per tare il purro; il vostro ventre è tutto purro. z to |
 | SIR JOHN | ‘Formaccio’ e ‘purro’? Sono vissuto per star sotto il motteggio di uno che fa frittelle dell’inglese? Questo basta a essere la [[motifs/decay\|rovina]] della lussuria e delle passeggiate notturne per il regno. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | Ma via, Sir John, credete voi che, anche se avessimo cacciato la virtù dai nostri cuori a spintoni, e ci fossimo date senza scrupolo all’inferno, il diavolo avrebbe mai potuto fare di voi la nostra delizia? |
@@ -4022,7 +4022,7 @@ The Merry Wives of Windsor
 | EVANS | E dato alle fornicazioni, e alle taverne, e al vino di Spagna, e al vino, e agli idromeli; e alle bevute, e alle bestemmie, e agli sguardi torvi, ai pisticci e ai pasticci? |
 | SIR JOHN | [[motifs/well\|Bene]], sono il vostro tema; avete vantaggio su di me. Sono abbattuto. Non sono in grado di rispondere alla flanella gallese. L’ignoranza stessa mi sovrasta a piombo. Trattatemi come vi piace. |
 | FORD | Perbacco, signore, vi porteremo a Windsor, da un certo mastro Brooke, che avete truffato di denaro, e per il quale dovevate fare il ruffiano. Oltre e al di sopra di quanto avete sofferto, credo che restituire quel denaro sarà un’afflizione pungente. |
-| PAGE | Pure siate allegro, cavaliere. Stanotte berrai un posset a [[house\|casa]] mia, dove ti [[motifs/desire\|inviterò]] a ridere di mia moglie che ora ride di te. Dille che mastro Slender ha sposato sua figlia. |
+| PAGE | Pure siate allegro, cavaliere. Stanotte berrai un posset a casa mia, dove ti [[motifs/desire\|inviterò]] a ridere di mia moglie che ora ride di te. Dille che mastro Slender ha sposato sua figlia. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | (a parte) I dottori ne [[concepts/doubt\|dubitano]]! Se [[characters/anne-page\|Anne Page]] è mia figlia, ella è, a quest’ora, moglie del [[characters/doctor-caius\|dottor Caius]]. |
 | *(didascalia)* | Entra mastro Slender |
 | SLENDER | Ohilà, oh, oh, padre Page! |
@@ -4050,5 +4050,5 @@ The Merry Wives of Windsor
 | FORD | (a Page e a [[characters/mistress-page\|madonna Page]])<br>Non stupitevi. Qui non c’è rimedio.<br>In [[motifs/love\|amore]] i cieli stessi guidano lo stato;<br>il denaro compra terre, e le mogli son vendute dal fato. |
 | SIR JOHN | Sono lieto che, sebbene abbiate preso posta apposta per colpire me, la vostra freccia sia andata di sghembo. |
 | PAGE | [[motifs/well\|Bene]], che rimedio c’è? [[characters/fenton\|Fenton]], il cielo ti dia gioia I<br>Ciò che non si può schivare bisogna abbracciarlo. |
-| SIR JOHN | Quando corrono i [[dogs\|cani]] della [[motifs/night\|notte]], si dà la caccia a ogni sorta di cervi. |
+| SIR JOHN | Quando corrono i cani della [[motifs/night\|notte]], si dà la caccia a ogni sorta di cervi. |
 | [[characters/mistress-page\|MISTRESS PAGE]] | [[motifs/well\|Bene]], non rimuginerò oltre. Mastro [[characters/fenton\|Fenton]],<br>il cielo vi dia molti, molti giorni allegri!<br>Buon marito, andiamocene tutti a [[motifs/home\|casa]],<br>e ridiamo di questo spasso accanto a un [[motifs/fire\|fuoco]] di campagna,<br>Sir John e tutti quanti. |

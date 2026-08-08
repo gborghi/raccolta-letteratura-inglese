@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/last-stand|Last Stand]]
-**Archetypes:** Villain
+**Archetypes:** [[archetypes/villain|Villain]]
 **Motifs:** [[motifs/animals|Animals]], [[motifs/sea|Sea]], [[motifs/swords-and-weapons|Swords and Weapons]]
 **Forms & Genres:** [[forms/mock-epic|Mock Epic]], [[forms/narrative-poem|Narrative Poem]]
 

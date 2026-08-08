@@ -52,5 +52,5 @@ tags:
 **Historical References:** [[historical-references/renaissance|Renaissance]], [[historical-references/rabelais|Rabelais]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/voltaire|Voltaire]]
 **Settings:** [[settings/france|France]], [[settings/paris|Paris]], [[settings/europe|Europe]]
 **Characters:** [[historical-references/voltaire|Voltaire]]
-**Archetypes:** The Writer
+**Archetypes:** [[archetypes/the-writer|The Writer]]
 **Topoi:** [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/immortality-through-verse|Immortality Through Verse]]

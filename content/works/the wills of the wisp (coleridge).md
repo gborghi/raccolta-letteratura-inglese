@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Femme Fatale
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]]
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/light-and-dark|Light and Dark]]
 **Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

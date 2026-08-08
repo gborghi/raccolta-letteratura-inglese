@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/locus-amoenus|Locus Amoenus]], [[topoi/pastoral-retreat|Pastoral Retreat]]
-**Archetypes:** Pilgrim
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 **Motifs:** [[motifs/water|Water]], [[concepts/nature|Nature]]
 **Themes & Concepts:** [[concepts/innocence-and-experience|Innocence and Experience]]
 **Settings:** [[settings/pastoral-countryside|Pastoral Countryside]]

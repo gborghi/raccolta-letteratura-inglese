@@ -17,11 +17,11 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[Song|Canzone]] contro i Droghieri  
+La Canzone contro i Droghieri  
 
 (Da "The Flying Inn", 1914)  
 
-Dio creò il malvagio [[grocer|Droghiere]]  
+Dio creò il malvagio Droghiere  
 come mistero e come segno,  
 perché gli uomini fuggissero le botteghe orrende  
 e andassero a cenare nelle osterie;  
@@ -30,7 +30,7 @@ e il vino sta nella botte,
 e Dio che creò il buon riso  
 ha visto che son cosa buona.  
 
-Il [[grocer|Droghiere]] dal cuore malvagio  
+Il Droghiere dal cuore malvagio  
 chiamerebbe sua madre "Signora",  
 e le farebbe inchini e riverenze,  
 per dannarne la vecchia [[motifs/soul|anima]],  
@@ -52,10 +52,10 @@ Le menti giuste degli osti
 li spingono di quando in quando  
 a stappare una bottiglia con un amico  
 o a offrire agli uomini senza denaro,  
-ma chi ha mai visto il [[grocer|Droghiere]]  
+ma chi ha mai visto il Droghiere  
 offrire alle serve i suoi tè  
 o stappare una bottiglia di salsa di pesce  
-o pagare a un uomo un [[cheese|formaggio]]?  
+o pagare a un uomo un formaggio?  
 
 Ci vende le sabbie d'Arabia  
 per zucchero a contanti;  
@@ -66,7 +66,7 @@ i poveri sudditi del [[archetypes/king|Re]],
 e quando muoiono a migliaia,  
 ebbene, ride a più non posso.  
 
-Il malvagio [[grocer|Droghiere]] drogherizza  
+Il malvagio Droghiere drogherizza  
 in liquori e in vino,  
 non francamente e in compagnia  
 come gli uomini cenano nelle osterie;  
@@ -75,13 +75,13 @@ e portato via dai valletti,
 per essere ghermito dalle Duchesse  
 e bevuto nei salottini da toeletta.  
 
-L'[[grocer|Droghiere]] istruito dall'inferno  
+L'Droghiere istruito dall'inferno  
 ha un tempio fatto di latta,  
 e la rovina dei buoni osti  
 vi è predicata a gran voce;  
 ma ora le sabbie stan colando via  
 da uno zucchero d'un certo tipo,  
-il [[grocer|Droghiere]] trema; ché il suo [[motifs/time|tempo]],  
+il Droghiere trema; ché il suo [[motifs/time|tempo]],  
 proprio come il suo peso, è corto.
 
 
@@ -93,7 +93,7 @@ The [[works/song-(poe)|Song]] Against Grocers
 
 (From "The Flying Inn", 1914)  
 
-God made the wicked [[grocer|Grocer]]  
+God made the wicked Grocer  
 For a mystery and a sign,  
 That men might shun the awful shops  
 And go to inns to dine;  
@@ -102,7 +102,7 @@ And the wine is in the wood,
 And God that made good laughter  
 Has seen that they are good.  
 
-The evil-hearted [[grocer|Grocer]]  
+The evil-hearted Grocer  
 Would call his mother "Ma'am,"  
 And bow at her and bob at her,  
 Her aged [[motifs/soul|soul]] to damn,  
@@ -124,10 +124,10 @@ The righteous minds of innkeepers
 Induce them now and then  
 To crack a bottle with a friend  
 Or treat unmoneyed men,  
-But who hath seen the [[grocer|Grocer]]  
+But who hath seen the Grocer  
 Treat housemaids to his teas  
 Or crack a bottle of fish sauce  
-Or stand a man a [[cheese]]?  
+Or stand a man a cheese?  
 
 He sells us sands of Araby  
 As sugar for cash down;  
@@ -138,7 +138,7 @@ Poor subjects of the [[archetypes/king|King]],
 And when they die by thousands  
 Why, he laughs like anything.  
 
-The wicked [[grocer|Grocer]] groces  
+The wicked Grocer groces  
 In spirits and in wine,  
 Not frankly and in fellowship  
 As men in inns do dine;  
@@ -147,23 +147,23 @@ And carried off by grooms,
 For to be snatched by Duchesses  
 And drunk in dressing-rooms.  
 
-The hell-instructed [[grocer|Grocer]]  
+The hell-instructed Grocer  
 Has a temple made of tin,  
 And the ruin of good innkeepers  
 Is loudly urged therein;  
 But now the sands are running out  
 From sugar of a sort,  
-The [[grocer|Grocer]] trembles; for his [[motifs/time|time]],  
+The Grocer trembles; for his [[motifs/time|time]],  
 Just like his weight, is short.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[Song|Canzone]] contro i Droghieri  
+La Canzone contro i Droghieri  
 
 (Da "The Flying Inn", 1914)  
 
-Dio creò il malvagio [[grocer|Droghiere]]  
+Dio creò il malvagio Droghiere  
 come mistero e come segno,  
 perché gli uomini fuggissero le botteghe orrende  
 e andassero a cenare nelle osterie;  
@@ -172,7 +172,7 @@ e il vino sta nella botte,
 e Dio che creò il buon riso  
 ha visto che son cosa buona.  
 
-Il [[grocer|Droghiere]] dal cuore malvagio  
+Il Droghiere dal cuore malvagio  
 chiamerebbe sua madre "Signora",  
 e le farebbe inchini e riverenze,  
 per dannarne la vecchia [[motifs/soul|anima]],  
@@ -194,10 +194,10 @@ Le menti giuste degli osti
 li spingono di quando in quando  
 a stappare una bottiglia con un amico  
 o a offrire agli uomini senza denaro,  
-ma chi ha mai visto il [[grocer|Droghiere]]  
+ma chi ha mai visto il Droghiere  
 offrire alle serve i suoi tè  
 o stappare una bottiglia di salsa di pesce  
-o pagare a un uomo un [[cheese|formaggio]]?  
+o pagare a un uomo un formaggio?  
 
 Ci vende le sabbie d'Arabia  
 per zucchero a contanti;  
@@ -208,7 +208,7 @@ i poveri sudditi del [[archetypes/king|Re]],
 e quando muoiono a migliaia,  
 ebbene, ride a più non posso.  
 
-Il malvagio [[grocer|Droghiere]] drogherizza  
+Il malvagio Droghiere drogherizza  
 in liquori e in vino,  
 non francamente e in compagnia  
 come gli uomini cenano nelle osterie;  
@@ -217,11 +217,11 @@ e portato via dai valletti,
 per essere ghermito dalle Duchesse  
 e bevuto nei salottini da toeletta.  
 
-L'[[grocer|Droghiere]] istruito dall'inferno  
+L'Droghiere istruito dall'inferno  
 ha un tempio fatto di latta,  
 e la rovina dei buoni osti  
 vi è predicata a gran voce;  
 ma ora le sabbie stan colando via  
 da uno zucchero d'un certo tipo,  
-il [[grocer|Droghiere]] trema; ché il suo [[motifs/time|tempo]],  
+il Droghiere trema; ché il suo [[motifs/time|tempo]],  
 proprio come il suo peso, è corto.

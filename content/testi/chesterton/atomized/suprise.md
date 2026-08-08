@@ -17,9 +17,9 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[Sword|Spada]] della Sorpresa  
+La Spada della Sorpresa  
 
-Dividimi dalle mie ossa, o [[Sword|spada]] di Dio,  
+Dividimi dalle mie ossa, o spada di Dio,  
 finché non stiano nude e strane come gli alberi;  
 che io, il cui cuore sale con i boschi svettanti,  
 possa stupirmi altrettanto di esse.  
@@ -30,7 +30,7 @@ come piene sepolte e ramificate che cercano il mare
 ma non vedono mai il sole.  
 
 Dammi occhi miracolosi per vedere i miei occhi,  
-quegli specchi [[rolling|roteanti]] resi vivi in me,  
+quegli specchi roteanti resi vivi in me,  
 cristalli terribili, più incredibili  
 di tutte le cose che vedono  
 
@@ -46,7 +46,7 @@ uno straniero per strada.
 
 The [[works/sword-(chesterton)|Sword]] of Surprise  
 
-Sunder me from my bones, O [[Sword|sword]] of God  
+Sunder me from my bones, O sword of God  
 Till they stand stark and strange as do the trees;  
 That I whose heart goes up with the soaring woods  
 May marvel as much at these.  
@@ -57,7 +57,7 @@ Like branching buried floods that find the sea
 But never see the sun.  
 
 Give me miraculous eyes to see my eyes  
-Those [[rolling]] mirrors made alive in me  
+Those rolling mirrors made alive in me  
 Terrible crystals more incredible  
 Than all the things they see  
 
@@ -69,9 +69,9 @@ A stranger in the street.
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[Sword|Spada]] della Sorpresa  
+La Spada della Sorpresa  
 
-Dividimi dalle mie ossa, o [[Sword|spada]] di Dio,  
+Dividimi dalle mie ossa, o spada di Dio,  
 finché non stiano nude e strane come gli alberi;  
 che io, il cui cuore sale con i boschi svettanti,  
 possa stupirmi altrettanto di esse.  
@@ -82,7 +82,7 @@ come piene sepolte e ramificate che cercano il mare
 ma non vedono mai il sole.  
 
 Dammi occhi miracolosi per vedere i miei occhi,  
-quegli specchi [[rolling|roteanti]] resi vivi in me,  
+quegli specchi roteanti resi vivi in me,  
 cristalli terribili, più incredibili  
 di tutte le cose che vedono  
 

@@ -39,5 +39,5 @@ tags:
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/horse|Horse]], [[motifs/music-and-song|Music and Song]]
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/battlefield|Battlefield]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]]
-**Archetypes:** Hero, Avenger
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/avenger|Avenger]]
 **Topoi:** [[topoi/war-as-glory|War as Glory]], [[topoi/last-stand|Last Stand]]

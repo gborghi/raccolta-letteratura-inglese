@@ -18,8 +18,8 @@ tags:
 - [[works/for-a-war-memorial-(chesterton)|For a War Memorial (Chesterton)]]
 - [[works/great-minimum-(chesterton)|great-minimum (Chesterton)]]
 - [[works/oldsong-(chesterton)|oldsong (Chesterton)]]
-- 630. The Lightning playeth — all the while — (Dickinson)
-- 974. The Soul's distinct connection (Dickinson)
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0630_the_lightning_playeth_all_the_while|630. The Lightning playeth — all the while — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0974_the_souls_distinct_connection|974. The Soul's distinct connection (Dickinson)]]
 
 </div>
 

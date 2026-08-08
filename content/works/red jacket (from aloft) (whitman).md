@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/ubi-sunt|Ubi Sunt]]
-**Archetypes:** Ghost, Outsider
+**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[concepts/nature|Nature]]
 **Themes & Concepts:** [[concepts/nostalgia|Nostalgia]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

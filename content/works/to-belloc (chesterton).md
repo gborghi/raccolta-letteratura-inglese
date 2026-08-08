@@ -44,13 +44,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Poet as Prophet (2)
+**Archetypes:** [[archetypes/poet-as-prophet-(2)|Poet as Prophet (2)]]
 
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
 
 **Topoi:** [[topoi/war-as-glory|War as Glory]], [[topoi/night-journey-vision|Night Journey Vision]]
 
-**Characters:** Death Personified, Hilaire Belloc
+**Characters:** [[characters/death-personified|Death Personified]], [[characters/hilaire-belloc|Hilaire Belloc]]
 
 **Motifs:** [[motifs/stars|Stars]], [[motifs/road|Road]], [[motifs/moon|Moon]], [[motifs/dance|Dance]], [[motifs/drums-and-bugles|Drums and Bugles]], [[motifs/childhood|Childhood]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/faith|Faith]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]]

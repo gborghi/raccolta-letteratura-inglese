@@ -47,7 +47,7 @@ To shew the man so blest once breath’d the vital air.
 Maid of my [[motifs/love|Love]], sweet Genevieve!  
 In [[concepts/beauty|Beauty]]’s light you glide along:  
 Your eye is like the Star of Eve,  
-And sweet your voice, as Seraph’s [[Song|song]]  
+And sweet your voice, as Seraph’s song  
 Yet not your heavenly [[concepts/beauty|beauty]] gives   5  
 This heart with Passion soft to glow:  
 Within your [[motifs/soul|soul]] a voice there lives!  
@@ -124,7 +124,7 @@ The dreary vale of Lumin.’
 With eager gaze and wetted cheek  
 My wonted haunts along,  
 Thus, faithful Maiden! thou shalt seek   15  
-The Youth of simplest [[Song|song]].  
+The Youth of simplest song.  
 But I along the breeze shall roll  
 The voice of feeble power;  
 And dwell, the [[motifs/moon|Moon]]-beam of thy [[motifs/soul|soul]],  
@@ -157,7 +157,7 @@ Ah! soon the [[motifs/soul|soul]]-entrancing sight
 Subdued the impatient boy!  
 He gazed! he thrill’d with deep delight!  
 Then clapp’d his wings for joy.   20  
-‘And O!’ he cried—’Of [[Magic|magic]] kind  
+‘And O!’ he cried—’Of magic kind  
 What charms this Throne endear!  
 Some other [[motifs/love|Love]] let [[characters/venus|Venus]] find —  
 I’ll fix my empire here.’  
@@ -210,7 +210,7 @@ Or, listening, why forget the healing tale,
 When [[concepts/jealousy|Jealousy]] with feverous fancies pale  
 Jarr’d thy fine fibres with a maniac’s hand?  
 Faint was that [[concepts/hope|Hope]], and rayless! — Yet ‘twas fair  
-And sooth’d with many [[A Dream|a dream]] the hour of rest:   10  
+And sooth’d with many a dream the hour of rest:   10  
 Thou should’st have lov’d it most, when most opprest,  
 And nurs’d it with an agony of care,  
 Even as a mother her sweet infant heir  
@@ -273,7 +273,7 @@ Swell the full tones! And now thine eye-beams [[motifs/dance|dance]]   10
 Meanings of Scorn and Wit’s quaint revelry!  
 Writhes inly from the bosom-probing glance  
 The Apostate by the brainless rout ador’d,  
-As erst that elder Fiend beneath great [[characters/michael|Michael]]’s [[Sword|sword]].  
+As erst that elder Fiend beneath great [[characters/michael|Michael]]’s sword.  
 January 29, 1795.  
 
 
@@ -290,9 +290,9 @@ Breathe that passion-warbled strain:
 Till [[motifs/memory|Memory]] each form shall bring   5  
 The loveliest of her shadowy throng;  
 And [[concepts/hope|Hope]], that soars on sky-lark wing,  
-[[carol|Carol]] wild her gladdest [[Song|song]]!  
+Carol wild her gladdest song!  
 II  
-O skill’d with [[Magic|magic]] spell to roll  
+O skill’d with magic spell to roll  
 The thrilling tones, that concentrate the [[motifs/soul|soul]]!   10  
 Breathe thro’ thy flute those tender notes again,  
 While near thee sits the chaste-eyed Maiden mild;  
@@ -324,7 +324,7 @@ To rest thine head beneath an Olive-Tree,
 I would that from the pinions of thy Dove  
 One quill withouten [[motifs/pain|pain]] ypluck’d might be!  
 For O! I wish my Sara’s frowns to flee,   5  
-And fain to her some soothing [[Song|song]] would write,  
+And fain to her some soothing song would write,  
 Lest she resent my rude discourtesy,  
 Who vow’d to meet her ere the morning light,  
 But broke my plighted word — ah! false and recreant wight!  
@@ -350,7 +350,7 @@ When as I ‘gan to lift my drowsy head —
 Was fluttering now, as quickly to depart;  
 When twang’d an arrow from [[motifs/love|Love]]’s mystic string,   30  
 With pathless wound it pierc’d him to the heart.  
-Was there some [[Magic|magic]] in the Elfin’s dart?  
+Was there some magic in the Elfin’s dart?  
 Or did he strike my couch with wizard lance?  
 For straight so fair a Form did upwards start  
 (No fairer deck’d the bowers of old [[works/romance-(poe)|Romance]])   35  
@@ -503,7 +503,7 @@ I then might view her bosom white
 Heaving lovely to my sight,  
 As these two swans together heave  
 On the gently-swelling wave.   75  
-Oh! that she saw me in [[A Dream|a dream]],  
+Oh! that she saw me in a dream,  
 And dreamt that I had died for care;  
 All pale and wasted I would seem,  
 Yet fair withal, as spirits are!  
@@ -623,8 +623,8 @@ P. R.
 
 
 [The following is an almost literal [[forms/translation|translation]] of a very old and very  
-favourite [[Song|song]] among the Westphalian Boors. The turn at the end is the  
-same with one of Mr. Dibdin’s excellent [[songs]], and the air to which it  
+favourite song among the Westphalian Boors. The turn at the end is the  
+same with one of Mr. Dibdin’s excellent songs, and the air to which it  
 is sung by the Boors is remarkably sweet and lively.]  
 When thou to my true-[[motifs/love|love]] com’st  
 Greet her from me kindly;  
@@ -661,10 +661,10 @@ Amid the lingering light.
 Few sorrows hath she of her own,  
 My [[concepts/hope|hope]]! my joy! my Genevieve!  
 She loves me best, whene’er I sing  
-The [[songs]] that make her grieve.    20  
+The songs that make her grieve.    20  
 I played a soft and doleful air,  
 I sang an old and moving story —  
-An old rude [[Song|song]], that suited [[motifs/well|well]]  
+An old rude song, that suited [[motifs/well|well]]  
 That ruin wild and hoary.  
 She listened with a flitting blush,    25  
 With downcast eyes and modest grace;  
@@ -720,7 +720,7 @@ And gentle wishes long subdued,   75
 Subdued and cherished long!  
 She wept with pity and delight,  
 She blushed with [[motifs/love|love]], and virgin-shame;  
-And like the murmur of [[A Dream|a dream]],  
+And like the murmur of a dream,  
 I heard her breathe my name.   80  
 Her bosom heaved — she stepped aside,  
 As conscious of my look she stepped —  
@@ -897,7 +897,7 @@ Shiver in sunshine, but his feeble heart
 Shall flow away like a dissolving thing.  
 Sweet breeze! thou only, if I guess aright,  
 Liftest the feathers of the robin’s breast,  
-That swells its little breast, so full of [[Song|song]],   70  
+That swells its little breast, so full of song,   70  
 Singing above me, on the mountain-ash.  
 And thou too, [[motifs/desert|desert]] stream! no pool of thine,  
 Though clear as lake in latest [[motifs/summer|summer]]-eve,  
@@ -947,7 +947,7 @@ Making thee doleful as a cavern-[[motifs/well|well]]:   115
 Save when the shy [[archetypes/king|king]]-fishers build their nest  
 On thy steep banks, no loves hast thou, wild stream!  
 This be my chosen haunt — emancipate  
-From Passion’s [[motifs/dreams|dreams]], a freeman, and [[Alone|alone]],  
+From Passion’s [[motifs/dreams|dreams]], a freeman, and alone,  
 I rise and trace its devious course. O lead,   120  
 Lead me to deeper shades and lonelier glooms.  
 Lo! stealing through the canopy of firs,  
@@ -978,7 +978,7 @@ Dashed upwards by the furious waterfall.
 How solemnly the pendent ivy-mass  
 Swings in its winnow: All the air is calm.  
 The smoke from cottage-chimneys, tinged with light,  
-Rises in columns; from this [[house]] [[Alone|alone]],   150  
+Rises in columns; from this house alone,   150  
 Close by the [[motifs/water|water]]-fall, the column slants,  
 And feels its ceaseless breeze. But what is this?  
 That cottage, with its slanting chimney-smoke,  
@@ -1000,13 +1000,13 @@ Slanting at eve, rest bright, and linger long
 Upon thy purple [[motifs/bells|bells]]! O Isabel!  
 Daughter of genius! stateliest of our maids!   170  
 More beautiful than whom Alcaeus wooed,  
-The Lesbian woman of immortal [[Song|song]]!  
+The Lesbian woman of immortal song!  
 O [[archetypes/child|child]] of genius! stately, beautiful,  
 And full of [[motifs/love|love]] to all, save only me,  
 And not ungentle e’en to me! My heart,   175  
 Why beats it thus? Through yonder coppice-wood  
 Needs must the pathway turn, that leads straightway  
-On to her father’s [[house]]. She is [[Alone|alone]]!  
+On to her father’s house. She is alone!  
 The [[motifs/night|night]] draws on — such ways are hard to hit —  
 And fit it is I should restore this [[forms/sketch|sketch]],   180  
 Dropt unawares, no [[concepts/doubt|doubt]]. Why should I yearn  
@@ -1044,7 +1044,7 @@ And into tenderness soon dying,
 Resign the [[motifs/soul|soul]] to [[motifs/love|love]] again; —  
 A more precipitated vein  
 Of notes, that eddy in the flow   20  
-Of smoothest [[Song|song]], they come, they go,  
+Of smoothest song, they come, they go,  
 And leave their sweeter understrain,  
 Its own sweet [[concepts/self|self]] — a [[motifs/love|love]] of Thee  
 That seems, yet cannot greater be!  
@@ -1117,7 +1117,7 @@ To you I gave my whole weak wishing heart.
 And when I met the maid that realised  
 Your fair creations, and had won her kindness,   10  
 Say, but for her if aught on earth I prized!  
-Your [[motifs/dreams|dreams]] [[Alone|alone]] I dreamt, and caught your blindness.  
+Your [[motifs/dreams|dreams]] alone I dreamt, and caught your blindness.  
 O grief! — but farewell, [[motifs/love|Love]]! I will go play me  
 With thoughts that please me less, and less betray me.  
 1806.  
@@ -1149,7 +1149,7 @@ Which waned and died, yet ever near him stood,
 Though changed in [[concepts/nature|nature]], wander where he would —  
 For [[motifs/love|Love]]’s [[concepts/despair|Despair]] is but [[concepts/hope|Hope]]’s pining [[archetypes/ghost|Ghost]]!   20  
 For this one [[concepts/hope|hope]] he makes his hourly moan,  
-He wishes and can wish for this [[Alone|alone]]!  
+He wishes and can wish for this alone!  
 Pierced, as with light from Heaven, before its gleams  
 (So the [[motifs/love|love]]-stricken visionary deems)  
 Disease would vanish, like a [[motifs/summer|summer]] shower,   25  
@@ -1445,8 +1445,8 @@ That regal front! those cheeks aglow!
 Thou needed’st but the crescent sheen,  
 A quiver’d Dian to have been,   185  
 Thou lovely [[archetypes/child|child]] of old Du Clos!  
-Dark as [[A Dream|a dream]] Lord Julian stood,  
-Swift as [[A Dream|a dream]], from forth the wood,  
+Dark as a dream Lord Julian stood,  
+Swift as a dream, from forth the wood,  
 Sprang on the plighted Maid!  
 With fatal aim, and frantic force,    190  
 The shaft was hurl’d! — a lifeless corse,  
@@ -1502,7 +1502,7 @@ I know; but ne’er expect to find
 She has a strange cast in her ee,   5  
 A swart sour-visaged maid —  
 But yet [[motifs/love|Love]]’s own twin-sister she  
-His [[house]]-mate and his shade.  
+His house-mate and his shade.  
 Ask for her and she’ll be denied: —  
 What then? they only mean   10  
 Their mistress has lain down to [[motifs/sleep|sleep]],  

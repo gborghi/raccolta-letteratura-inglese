@@ -71,12 +71,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/dawn-alba|Dawn Alba]]
-**Archetypes:** Lover, Mentor
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/mentor|Mentor]]
 **Motifs:** [[motifs/light-and-dark|Light and Dark]], [[motifs/death|Death]], [[motifs/stars|Stars]], [[motifs/night|Night]], [[motifs/poison|Poison]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/mortality|Mortality]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]], [[forms/lyric|Lyric]]
 **Settings:** [[settings/verona|Verona]]
-**Characters:** Romeo, Juliet, Mercutio, Tybalt, Friar Laurence, Nurse, Capulet, Benvolio, Paris (2), Prince Escalus
+**Characters:** [[characters/romeo|Romeo]], [[characters/juliet|Juliet]], [[characters/mercutio|Mercutio]], [[characters/tybalt|Tybalt]], [[characters/friar-laurence|Friar Laurence]], [[characters/nurse|Nurse]], [[characters/capulet|Capulet]], [[characters/benvolio|Benvolio]], [[characters/paris-(2)|Paris (2)]], [[characters/prince-escalus|Prince Escalus]]
 
 ## Testo integrale / Full text
 

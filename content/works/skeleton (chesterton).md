@@ -36,7 +36,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** King
+**Archetypes:** [[archetypes/king|King]]
 
 **Settings:** [[settings/grave-(2)|Grave (2)]]
 
@@ -44,7 +44,7 @@ tags:
 **Motifs:** [[motifs/flowers|Flowers]], [[motifs/birds|Birds]], [[motifs/insects|Insects]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/joy|Joy]], [[concepts/paradox|Paradox]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/providence|Providence]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/epigram|Epigram]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

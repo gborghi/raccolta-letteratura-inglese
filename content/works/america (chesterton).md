@@ -53,7 +53,7 @@ tags:
 
 **Motifs:** [[motifs/journey|Journey]]
 
-**Characters:** Thomas Jefferson
+**Characters:** [[characters/thomas-jefferson|Thomas Jefferson]]
 
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/truth|Truth]], [[concepts/democracy|Democracy]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/travel-writing|Travel Writing]], [[forms/nonfiction|Nonfiction]]

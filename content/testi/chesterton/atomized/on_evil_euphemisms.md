@@ -44,7 +44,7 @@ nel rito [[motifs/marriage|matrimoniale]] anglicano, sembrano essere del tutto u
 vista per certune persone, che ne parlano come se non vi fosse nulla se non una versione
 piuttosto sfrenata della terza, che si può relativamente dire romantica.
 E questo, per favore, si suppone sia un'emancipazione dal
-sentimentalismo vittoriano e dal [[Romance|Romanticismo]].
+sentimentalismo vittoriano e dal Romanticismo.
 
 Ma menziono questa faccenda soltanto come una fra molte, e come una che
 illustra una contraddizione ancora più curiosa in questa pretesa moderna.
@@ -71,8 +71,8 @@ Tutti hanno sempre esercitato il controllo delle nascite; anche quando
 erano tanto paradossali da permettere che il processo si concludesse in una nascita.
 Tutti hanno sempre conosciuto il controllo delle nascite, anche se prese la forma selvaggia
 e impensabile dell'[[concepts/self|autocontrollo]]. La questione in gioco riguarda
-differenti forme di prevenzione delle nascite; e non ho intenzione di [[debate|dibatterne]]
-qui.  Ma se la [[debate|dibattessi]], la chiamerei col suo nome.
+differenti forme di prevenzione delle nascite; e non ho intenzione di dibatterne
+qui.  Ma se la dibattessi, la chiamerei col suo nome.
 Lo stesso vale per un più antico pezzo di sentimentalismo cui indulgono i franchi
 e liberi:  l'espressione 'Libero [[motifs/love|Amore]].'  Anche quello è un Eufemismo;
 vale a dire, è un rifiuto della gente di dire ciò che intende.
@@ -192,7 +192,7 @@ in the Anglican [[motifs/marriage|marriage]] service, seem to have gone complete
 sight for some people, who talk as if there were nothing but a rather
 wild version of the third, which may relatively be called romantic.
 And this, if you please, is supposed to be an emancipation from
-Victorian sentiment and [[Romance|romance]].
+Victorian sentiment and romance.
 
 But I only mention this matter as one of many, and one which
 illustrates a still more curious contradiction in this modern claim.
@@ -219,8 +219,8 @@ Everybody has always exercised birth-control; even when they
 were so paradoxical as to permit the process to end in a birth.
 Everybody has always known about birth-control, even if it took the wild
 and unthinkable form of [[concepts/self|self]]-control. The question at issue concerns
-different forms of birth-prevention; and I am not going to [[debate]]
-it here.  But if I did [[debate]] it, I would call it by its name.
+different forms of birth-prevention; and I am not going to debate
+it here.  But if I did debate it, I would call it by its name.
 The same is true of an older piece of sentiment indulged in by the frank
 and free:  the expression 'Free [[motifs/love|Love]].'  That also is a Euphemism;
 that is, it is a refusal of people to say what they mean.
@@ -290,7 +290,7 @@ nel rito [[motifs/marriage|matrimoniale]] anglicano, sembrano essere del tutto u
 vista per certune persone, che ne parlano come se non vi fosse nulla se non una versione
 piuttosto sfrenata della terza, che si può relativamente dire romantica.
 E questo, per favore, si suppone sia un'emancipazione dal
-sentimentalismo vittoriano e dal [[Romance|Romanticismo]].
+sentimentalismo vittoriano e dal Romanticismo.
 
 Ma menziono questa faccenda soltanto come una fra molte, e come una che
 illustra una contraddizione ancora più curiosa in questa pretesa moderna.
@@ -317,8 +317,8 @@ Tutti hanno sempre esercitato il controllo delle nascite; anche quando
 erano tanto paradossali da permettere che il processo si concludesse in una nascita.
 Tutti hanno sempre conosciuto il controllo delle nascite, anche se prese la forma selvaggia
 e impensabile dell'[[concepts/self|autocontrollo]]. La questione in gioco riguarda
-differenti forme di prevenzione delle nascite; e non ho intenzione di [[debate|dibatterne]]
-qui.  Ma se la [[debate|dibattessi]], la chiamerei col suo nome.
+differenti forme di prevenzione delle nascite; e non ho intenzione di dibatterne
+qui.  Ma se la dibattessi, la chiamerei col suo nome.
 Lo stesso vale per un più antico pezzo di sentimentalismo cui indulgono i franchi
 e liberi:  l'espressione 'Libero [[motifs/love|Amore]].'  Anche quello è un Eufemismo;
 vale a dire, è un rifiuto della gente di dire ciò che intende.

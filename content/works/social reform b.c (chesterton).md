@@ -61,11 +61,11 @@ tags:
 
 **Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]
 
-**Archetypes:** Common Man (2), Corrupt Official
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/corrupt-official|Corrupt Official]]
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** Malthus, Godwin, Dean of St. Paul's
+**Characters:** [[characters/malthus|Malthus]], [[characters/godwin|Godwin]], [[characters/dean-of-st.-paul's|Dean of St. Paul's]]
 
 **Motifs:** [[motifs/marriage|Marriage]], [[motifs/home|Home]]
 **Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/poverty|Poverty]], [[concepts/reform|Reform]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/distributism|Distributism]], [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/slavery|Slavery]], [[concepts/labor-and-work|Labor and Work]], [[concepts/freedom|Freedom]], [[concepts/procreation|Procreation]], [[concepts/paradox|Paradox]], [[concepts/democracy|Democracy]], [[concepts/charity|Charity]], [[concepts/economics|Economics]]

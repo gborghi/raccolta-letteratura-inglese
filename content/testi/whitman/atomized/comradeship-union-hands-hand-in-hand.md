@@ -84,7 +84,7 @@ No longer abash’d, (for in this secluded spot I can respond as I
 would not dare elsewhere,)  
 Strong upon me the life that does not exhibit itself, yet contains  
 all the rest,  
-Resolv’d to sing no [[songs]] to-day but those of manly attachment,  
+Resolv’d to sing no songs to-day but those of manly attachment,  
 Projecting them along that substantial life,  
 Bequeathing hence types of athletic [[motifs/love|love]],  
 Afternoon this delicious Ninth-month in my forty-first year,  
@@ -114,7 +114,7 @@ Who is he that would become my follower?
 Who would sign himself a candidate for my affections?  
 
 The way is suspicious, the result uncertain, perhaps destructive,  
-You would have to give up all else, I [[Alone|alone]] would expect to be your  
+You would have to give up all else, I alone would expect to be your  
 sole and exclusive standard,  
 Your novitiate would even then be long and exhausting,  
 The whole past theory of your life and all conformity to the lives  
@@ -125,8 +125,8 @@ Put me down and depart on your way.
 
 Or else by stealth in some wood for trial,  
 Or back of a rock in the open air,  
-(For in any roof’d room of a [[house]] I emerge not, nor in company,  
-And in libraries I lie as one dumb, a gawk, or [[unborn]], or dead,)  
+(For in any roof’d room of a house I emerge not, nor in company,  
+And in libraries I lie as one dumb, a gawk, or unborn, or dead,)  
 But just possibly with you on a high [[motifs/hill|hill]], first watching lest any  
 person for miles around approach unawares,  
 Or possibly with you sailing at sea, or on the beach of the sea or  
@@ -153,7 +153,7 @@ Nor is it by reading it you will acquire it,
 Nor do those know me best who admire me and vauntingly praise me,  
 Nor will the candidates for my [[motifs/love|love]] (unless at most a very few)  
 prove victorious,  
-Nor will my [[Poems|poems]] do good only, they will do just as much evil,  
+Nor will my poems do good only, they will do just as much evil,  
 perhaps more,  
 For all is useless without that which you may guess at many times  
 and not hit, that which I hinted at;  
@@ -172,8 +172,8 @@ Therefore release me and depart on your way.
 _Cluster: CALAMUS_  
 
 
-These I singing in [[motifs/spring|spring]] collect for [[lovers]],  
-(For who but I should understand [[lovers]] and all their sorrow and joy?  
+These I singing in [[motifs/spring|spring]] collect for lovers,  
+(For who but I should understand lovers and all their sorrow and joy?  
 And who but I should be the poet of comrades?)  
 Collecting I traverse the [[motifs/garden|garden]] the world, but soon I pass the gates,  
 Now along the pond-side, now wading in a little, fearing not the wet,  
@@ -238,7 +238,7 @@ as from my present point of view, and might prove (as of course they
 would) nought of what they appear, or nought anyhow, from entirely
 changed points of view;
 To me these and the like of these are curiously answer’d by my
-[[lovers]], my dear friends,
+lovers, my dear friends,
 When he whom I [[motifs/love|love]] travels with me or sits a long while holding me
 by the hand,
 When the subtle air, the impalpable, the sense that words and reason
@@ -300,9 +300,9 @@ Come, I will take you down underneath this impassive exterior, I
 will tell you what to say of me,
 Publish my name and hang up my picture as that of the tenderest [[archetypes/lover|lover]],
 The friend the [[archetypes/lover|lover]]’s portrait, of whom his friend his [[archetypes/lover|lover]] was fondest,
-Who was not proud of his [[songs]], but of the measureless ocean of [[motifs/love|love]]
+Who was not proud of his songs, but of the measureless ocean of [[motifs/love|love]]
 within him, and freely pour’d it forth,
-Who often walk’d lonesome walks thinking of his dear friends, his [[lovers]],
+Who often walk’d lonesome walks thinking of his dear friends, his lovers,
 Who pensive away from one he lov’d often lay sleepless and
 dissatisfied at [[motifs/night|night]],
 Who knew too [[motifs/well|well]] the sick, sick dread lest the one he lov’d might
@@ -334,7 +334,7 @@ But the day when I [[motifs/rose|rose]] at [[motifs/dawn|dawn]] from the bed of 
 refresh’d, singing, inhaling the ripe breath of [[motifs/autumn|autumn]],
 When I saw the full [[motifs/moon|moon]] in the west grow pale and disappear in the
 morning light,
-When I wander’d [[Alone|alone]] over the beach, and undressing bathed,
+When I wander’d alone over the beach, and undressing bathed,
 laughing with the cool waters, and saw the sun rise,
 And when I thought how my dear friend my [[archetypes/lover|lover]] was on his way
 coming, O then I was happy,
@@ -403,7 +403,7 @@ or feast;
 Not those, but as I pass O [[settings/manhattan|Manhattan]], your frequent and swift flash
 of eyes offering me [[motifs/love|love]],
 Offering response to my own--these repay me,
-[[lovers|Lovers]], continual [[lovers]], only repay me.
+Lovers, continual lovers, only repay me.
 
 
 
@@ -442,10 +442,10 @@ _Cluster: CALAMUS_
 
 
 I saw in Louisiana a live-oak growing,
-All [[Alone|alone]] stood it and the moss hung down from the branches,
+All alone stood it and the moss hung down from the branches,
 Without any companion it grew there uttering joyous of dark green,
 And its look, rude, unbending, lusty, made me think of myself,
-But I [[concepts/wonder|wonder]]’d how it could utter joyous [[motifs/leaves|leaves]] standing [[Alone|alone]] there
+But I [[concepts/wonder|wonder]]’d how it could utter joyous [[motifs/leaves|leaves]] standing alone there
 without its friend near, for I knew I could not,
 And I broke off a twig with a certain number of [[motifs/leaves|leaves]] upon it and
 twined around it a little moss,
@@ -471,14 +471,14 @@ I know very [[motifs/well|well]] I could not.
 _Cluster: CALAMUS_
 
 
-This moment yearning and thoughtful sitting [[Alone|alone]],
+This moment yearning and thoughtful sitting alone,
 It seems to me there are other men in other lands yearning and thoughtful,
 It seems to me I can look over and behold them in [[settings/germany|Germany]], [[settings/italy|Italy]],
 France, Spain,
 Or far, far away, in China, or in [[settings/russia|Russia]] or talking other dialects,
 And it seems to me if I could know those men I should become
 attached to them as I do to men in my own lands,
-O I know we should be brethren and [[lovers]],
+O I know we should be brethren and lovers,
 I know I should be happy with them.
 
 
@@ -521,7 +521,7 @@ _Cluster: CALAMUS_
 When I peruse the conquer’d fame of heroes and the victories of
 mighty generals, I do not envy the generals,
 Nor the President in his Presidency, nor the rich in his [[motifs/great-house|great house]],
-But when I hear of the brotherhood of [[lovers]], how it was with them,
+But when I hear of the brotherhood of lovers, how it was with them,
 How together through life, through dangers, odium, unchanging, long
 and long,
 Through youth and through middle and old age, how unfaltering, how
@@ -567,7 +567,7 @@ _Cluster: CALAMUS_
 
 
 A promise to California,
-Or inland to the great [[Pastoral|pastoral]] Plains, and on to Puget sound and Oregon;
+Or inland to the great pastoral Plains, and on to Puget sound and Oregon;
 Sojourning east a while longer, soon I travel toward you, to remain,
 to teach robust American [[motifs/love|love]],
 For I know very [[motifs/well|well]] that I and robust [[motifs/love|love]] belong among you,
@@ -589,7 +589,7 @@ _Cluster: CALAMUS_
 
 Here the frailest [[motifs/leaves|leaves]] of me and yet my strongest lasting,
 Here I shade and hide my thoughts, I myself do not expose them,
-And yet they expose me more than all my other [[Poems|poems]].
+And yet they expose me more than all my other poems.
 
 
 
@@ -609,9 +609,9 @@ Nor discovery have I made,
 Nor will I be able to leave behind me any wealthy bequest to found  
 hospital or library,  
 Nor reminiscence of any deed of [[concepts/courage|courage]] for [[settings/america|America]],  
-Nor literary [[success]] nor intellect; nor book for the book-shelf,  
+Nor literary success nor intellect; nor book for the book-shelf,  
 But a few carols vibrating through the air I leave,  
-For comrades and [[lovers]].  
+For comrades and lovers.  
 
 
 
@@ -671,7 +671,7 @@ walk hand in hand.
 _Cluster: CALAMUS_
 
 
-I dream’d in [[A Dream|a dream]] I saw a [[motifs/city|city]] invincible to the attacks of the
+I dream’d in a dream I saw a [[motifs/city|city]] invincible to the attacks of the
 whole of the rest of the earth,
 I dream’d that was the new [[motifs/city|city]] of Friends,
 Nothing was greater there than the quality of robust [[motifs/love|love]], it led the rest,
@@ -741,7 +741,7 @@ unreturn’d [[motifs/love|love]],
 But now I think there is no unreturn’d [[motifs/love|love]], the pay is certain one
 way or another,
 (I loved a certain person ardently and my [[motifs/love|love]] was not return’d,
-Yet out of that I have written these [[songs]].)
+Yet out of that I have written these songs.)
 
 
 
@@ -758,7 +758,7 @@ _Cluster: CALAMUS_
 
 Many things to absorb I teach to help you become eleve of mine;
 Yet if [[motifs/blood|blood]] like mine circle not in your veins,
-If you be not silently selected by [[lovers]] and do not silently select [[lovers]],
+If you be not silently selected by lovers and do not silently select lovers,
 Of what use is it that you seek to become eleve of mine?
 
 
@@ -815,10 +815,10 @@ _Cluster: CALAMUS_
 Full of life now, compact, visible,
 I, forty years old the eighty-third year of the States,
 To one a century hence or any number of centuries hence,
-To you yet [[unborn]] these, seeking you.
+To you yet unborn these, seeking you.
 
 When you read these I that was visible am become invisible,
-Now it is you, compact, visible, realizing my [[Poems|poems]], seeking me,
+Now it is you, compact, visible, realizing my poems, seeking me,
 Fancying how happy you were if I could be with you and become your comrade;
 Be it as if I were with you. (Be not too certain but I am now with you.)
 
@@ -860,7 +860,7 @@ They shall yet make Columbia victorious.
 Sons of the Mother of All, you shall yet be victorious,
 You shall yet laugh to scorn the attacks of all the remainder of the earth.
 
-No danger shall balk Columbia’s [[lovers]],
+No danger shall balk Columbia’s lovers,
 If need be a thousand shall sternly immolate themselves for one.
 
 One from Massachusetts shall be a Missourian’s comrade,
@@ -873,11 +873,11 @@ Not the perfumes of [[motifs/flowers|flowers]], but sweeter, and wafted beyond [
 
 It shall be customary in the houses and streets to see manly affection,
 The most dauntless and rude shall touch face to face lightly,
-The dependence of Liberty shall be [[lovers]],
+The dependence of Liberty shall be lovers,
 The continuance of Equality shall be comrades.
 
 These shall tie you and band you stronger than hoops of iron,
-I, ecstatic, O partners! O lands! with the [[motifs/love|love]] of [[lovers]] tie you.
+I, ecstatic, O partners! O lands! with the [[motifs/love|love]] of lovers tie you.
 
 (Were you looking to be held together by lawyers?
 Or by an agreement on a paper? or by arms?

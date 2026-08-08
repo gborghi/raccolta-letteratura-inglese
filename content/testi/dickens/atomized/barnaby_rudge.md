@@ -42,7 +42,7 @@ The late Mr Waterton having, some [[motifs/time|time]] ago, expressed his opinio
 ravens are gradually becoming extinct in England, I offered the few
 following words about my experience of these [[motifs/birds|birds]].
 
-[[The Raven|The raven]] in this story is a compound of two great originals, of whom I
+The raven in this story is a compound of two great originals, of whom I
 was, at different times, the proud possessor. The first was in the bloom
 of his youth, when he was discovered in a modest retirement in [[settings/london|London]],
 by a friend of mine, and given to me. He had from the first, as Sir Hugh
@@ -60,10 +60,10 @@ in [[motifs/death|death]].
 
 While I was yet inconsolable for his loss, another friend of mine
 in Yorkshire discovered an older and more gifted raven at a village
-public-[[house]], which he prevailed upon the landlord to part with for a
+public-house, which he prevailed upon the landlord to part with for a
 consideration, and sent up to me. The first act of this Sage, was, to
 administer to the effects of his predecessor, by disinterring all the
-[[cheese]] and halfpence he had buried in the [[motifs/garden|garden]]--a work of immense
+cheese and halfpence he had buried in the [[motifs/garden|garden]]--a work of immense
 labour and research, to which he devoted all the energies of his mind.
 When he had achieved this task, he applied himself to the acquisition
 of stable language, in which he soon became such an adept, that he would
@@ -77,7 +77,7 @@ But I could hardly have respected him more, whatever the stimulating
 influences of this sight might have been. He had not the least respect,
 I am sorry to say, for me in return, or for anybody but the cook; to
 whom he was attached--but only, I [[concepts/fear|fear]], as a Policeman might have been.
-Once, I met him unexpectedly, about half-a-mile from my [[house]], walking
+Once, I met him unexpectedly, about half-a-mile from my house, walking
 down the middle of a public street, attended by a pretty large crowd,
 and spontaneously exhibiting the whole of his accomplishments. His
 gravity under those trying circumstances, I can never forget, nor the
@@ -127,7 +127,7 @@ this with terrible ease.
 
 Even the case of Mary [[characters/jones|Jones]], dwelt upon with so much pleasure by the
 same character, is no effort of invention. The facts were stated,
-exactly as they are stated here, in the [[house|House]] of Commons. Whether they
+exactly as they are stated here, in the House of Commons. Whether they
 afforded as much entertainment to the merry gentlemen assembled there,
 as some other most affecting circumstances of a similar [[concepts/nature|nature]] mentioned
 by Sir Samuel Romilly, is not recorded.
@@ -172,16 +172,16 @@ Chapter 1
 In the year 1775, there stood upon the borders of Epping Forest, at a
 distance of about twelve miles from [[settings/london|London]]--measuring from the Standard
 in Cornhill, or rather from the spot on or near to which the Standard
-used to be in days of yore--a [[house]] of public entertainment called the
+used to be in days of yore--a house of public entertainment called the
 Maypole; which fact was demonstrated to all such travellers as
 could neither read nor write (and at that [[motifs/time|time]] a vast number both of
 travellers and stay-at-homes were in this condition) by the emblem
-reared on the roadside over against the [[house]], which, if not of those
+reared on the roadside over against the house, which, if not of those
 goodly proportions that Maypoles were wont to present in olden times,
 was a fair young ash, thirty feet in height, and straight as any arrow
 that ever English yeoman drew.
 
-The Maypole--by which term from henceforth is meant the [[house]], and not
+The Maypole--by which term from henceforth is meant the house, and not
 its sign--the Maypole was an old building, with more gable ends than a
 lazy man would care to count on a sunny day; huge zig-zag chimneys, out
 of which it seemed as though even smoke could not choose but come in
@@ -203,14 +203,14 @@ doubters never failed to be put down by a large majority, and all true
 believers exulted as in a victory.
 
 Whether these, and many other stories of the like [[concepts/nature|nature]], were true or
-untrue, the Maypole was really an old [[house]], a very old [[house]], perhaps
+untrue, the Maypole was really an old house, a very old house, perhaps
 as old as it claimed to be, and perhaps older, which will sometimes
 happen with houses of an uncertain, as with ladies of a certain, age.
 Its windows were old diamond-pane lattices, its floors were sunken
 and uneven, its ceilings blackened by the hand of [[motifs/time|time]], and heavy with
 massive beams. Over the doorway was an ancient porch, quaintly and
 grotesquely carved; and here on [[motifs/summer|summer]] evenings the more favoured
-customers smoked and drank--ay, and sang many a good [[Song|song]] too,
+customers smoked and drank--ay, and sang many a good song too,
 sometimes--reposing on two grim-looking high-backed settles, which,
 like the twin dragons of some fairy tale, guarded the entrance to the
 mansion.
@@ -225,7 +225,7 @@ consistent with the [[motifs/grave|grave]] and sober character of the building, 
 monotonous cooing, which never ceased to be raised by some among them
 all day long, suited it exactly, and seemed to lull it to rest. With its
 overhanging stories, drowsy little panes of glass, and front bulging
-out and projecting over the pathway, the old [[house]] looked as if it were
+out and projecting over the pathway, the old house looked as if it were
 nodding in its [[motifs/sleep|sleep]]. Indeed, it needed no very great stretch of fancy
 to detect in it other resemblances to humanity. The bricks of which it
 was built had originally been a deep dark red, but had grown yellow and
@@ -235,7 +235,7 @@ its age, wrapt its green [[motifs/leaves|leaves]] closely round the [[motifs/tim
 
 It was a hale and hearty age though, still: and in the [[motifs/summer|summer]] or
 [[motifs/autumn|autumn]] evenings, when the glow of the setting sun fell upon the oak and
-chestnut trees of the adjacent forest, the old [[house]], partaking of its
+chestnut trees of the adjacent forest, the old house, partaking of its
 lustre, seemed their fit companion, and to have many good years of life
 in him yet.
 
@@ -247,7 +247,7 @@ of its frequenters as chanced to be there at the moment an undeniable
 reason for prolonging their stay, and caused the landlord to prophesy
 that the [[motifs/night|night]] would certainly clear at eleven o’[[motifs/clock|clock]] precisely,--which
 by a remarkable coincidence was the hour at which he always closed his
-[[house]].
+house.
 
 The name of him upon whom the spirit of prophecy thus descended was
 John Willet, a burly, large-headed man with a fat face, which betokened
@@ -288,7 +288,7 @@ answer, in a tone which seemed to imply that the [[motifs/moon|moon]] was peculi
 business and nobody else’s:
 
 ‘Never you mind about the [[motifs/moon|moon]]. Don’t you trouble yourself about her.
-You let the [[motifs/moon|moon]] [[Alone|alone]], and I’ll let you [[Alone|alone]].’
+You let the [[motifs/moon|moon]] alone, and I’ll let you alone.’
 
 ‘No offence I [[concepts/hope|hope]]?’ said the little man.
 
@@ -297,7 +297,7 @@ penetrated to his brain, and then replying, ‘No offence as YET,’ applied
 a light to his pipe and smoked in placid [[motifs/silence|silence]]; now and then casting
 a sidelong look at a man wrapped in a loose riding-coat with huge cuffs
 ornamented with tarnished silver lace and large metal buttons, who
-sat apart from the regular frequenters of the [[house]], and wearing a hat
+sat apart from the regular frequenters of the house, and wearing a hat
 flapped over his face, which was still further shaded by the hand on
 which his forehead rested, looked unsociable enough.
 
@@ -394,20 +394,20 @@ Parkes. ‘It’s a better business than you think for, Tom, and highwaymen
 don’t need or use to be shabby, take my word for it.’
 
 Meanwhile the subject of their speculations had done due [[concepts/honour|honour]] to the
-[[house]] by calling for some drink, which was promptly supplied by the
+house by calling for some drink, which was promptly supplied by the
 landlord’s son Joe, a broad-shouldered strapping young fellow of twenty,
 whom it pleased his father still to consider a little boy, and to treat
 accordingly. Stretching out his hands to warm them by the blazing [[motifs/fire|fire]],
 the man turned his head towards the company, and after running his eye
 sharply over them, said in a voice [[motifs/well|well]] suited to his appearance:
 
-‘What [[house]] is that which stands a mile or so from here?’
+‘What house is that which stands a mile or so from here?’
 
-‘Public-[[house]]?’ said the landlord, with his usual deliberation.
+‘Public-house?’ said the landlord, with his usual deliberation.
 
-‘Public-[[house]], father!’ exclaimed Joe, ‘where’s the public-[[house]]
+‘Public-house, father!’ exclaimed Joe, ‘where’s the public-house
 within a mile or so of the Maypole? He means the [[motifs/great-house|great house]]--the
-Warren--naturally and of course. The old red brick [[house]], sir, that
+Warren--naturally and of course. The old red brick house, sir, that
 stands in its own grounds--?’
 
 ‘Aye,’ said the stranger.
@@ -421,7 +421,7 @@ has been I don’t care to know, and what it is I can see for myself.’
 
 The heir-apparent to the Maypole pressed his finger on his lips, and
 glancing at the young gentleman already noticed, who had changed his
-attitude when the [[house]] was first mentioned, replied in a lower tone:
+attitude when the house was first mentioned, replied in a lower tone:
 
 ‘The owner’s name is Haredale, Mr [[characters/geoffrey-haredale|Geoffrey Haredale]], and’--again
 he glanced in the same direction as before--‘and a worthy gentleman
@@ -462,7 +462,7 @@ him again, ‘You’ll come in for it presently, I know you will!’
 
 ‘I mean no harm’--returned the traveller boldly, ‘and have said none
 that I know of. I ask a few questions--as any stranger may, and not
-unnaturally--about the inmates of a remarkable [[house]] in a neighbourhood
+unnaturally--about the inmates of a remarkable house in a neighbourhood
 which is new to me, and you are as aghast and disturbed as if I were
 talking treason against [[archetypes/king|King]] George. Perhaps you can tell me why, sir,
 for (as I say) I am a stranger, and this is Greek to me?’
@@ -473,7 +473,7 @@ preparatory to sallying abroad. Briefly replying that he could give him
 no information, the young man beckoned to Joe, and handing him a piece
 of money in payment of his reckoning, hurried out attended by young
 Willet himself, who taking up a candle followed to light him to the
-[[house]]-door.
+house-door.
 
 While Joe was absent on this errand, the elder Willet and his three
 companions continued to smoke with profound gravity, and in a deep
@@ -604,7 +604,7 @@ at their ages) that they should be boys, they are and must be boys, and
 cannot by possibility be anything else.’
 
 This elucidation of a knotty point being received with such marks of
-approval as to put John Willet into a good [[Humour|humour]], he contented himself
+approval as to put John Willet into a good humour, he contented himself
 with repeating to his son his command of [[motifs/silence|silence]], and addressing the
 stranger, said:
 
@@ -641,7 +641,7 @@ mean nothing. What DO you mean, I ask again?’
 ‘That,’ returned the landlord, a little brought down from his dignity
 by the stranger’s surliness, ‘is a Maypole story, and has been any [[motifs/time|time]]
 these four-and-twenty years. That story is Solomon Daisy’s story. It
-belongs to the [[house]]; and nobody but Solomon Daisy has ever told it
+belongs to the house; and nobody but Solomon Daisy has ever told it
 under this roof, or ever shall--that’s more.’
 
 
@@ -727,7 +727,7 @@ understood it, and pursued his theme accordingly.
 ‘It WAS a dreary thing, especially as the [[motifs/grave|grave]]-digger was laid up in
 his bed, from long working in a damp soil and sitting down to take his
 dinner on cold tombstones, and I was consequently under obligation to go
-[[Alone|alone]], for it was too late to [[concepts/hope|hope]] to get any other companion. However,
+alone, for it was too late to [[concepts/hope|hope]] to get any other companion. However,
 I wasn’t unprepared for it; as the old gentleman had often made it a
 request that the bell should be tolled as soon as possible after the
 breath was out of his [[concepts/body|body]], and he had been expected to go for some
@@ -748,7 +748,7 @@ since; that may be my fancy, but the houses were all close shut and the
 folks in doors, and perhaps there is only one other man who knows how
 dark it really was. I got into the church, chained the door back so that
 it should keep ajar--for, to tell the [[concepts/truth|truth]], I didn’t like to be shut
-in there [[Alone|alone]]--and putting my lantern on the stone seat in the little
+in there alone--and putting my lantern on the stone seat in the little
 corner where the bell-rope is, sat down beside it to trim the candle.
 
 ‘I sat down to trim the candle, and when I had done so I could not
@@ -836,12 +836,12 @@ that all?’ after the climax, was not what he was accustomed to.
 think.’
 
 ‘I think so too. My [[motifs/horse|horse]], young man! He is but a hack hired from a
-roadside posting [[house]], but he must carry me to [[settings/london|London]] to-[[motifs/night|night]].’
+roadside posting house, but he must carry me to [[settings/london|London]] to-[[motifs/night|night]].’
 
 ‘To-[[motifs/night|night]]!’ said Joe.
 
 ‘To-[[motifs/night|night]],’ returned the other. ‘What do you stare at? This tavern
-would seem to be a [[house]] of call for all the gaping idlers of the
+would seem to be a house of call for all the gaping idlers of the
 neighbourhood!’
 
 At this remark, which evidently had reference to the scrutiny he had
@@ -995,7 +995,7 @@ a kind of chaise with a depository for a large bag of tools, and watched
 his proceedings with a careful eye.
 
 The looker-on was a round, red-faced, sturdy yeoman, with a [[topoi/double|double]] chin,
-and a voice husky with good living, good sleeping, good [[Humour|humour]], and good
+and a voice husky with good living, good sleeping, good humour, and good
 health. He was past the prime of life, but Father [[motifs/time|Time]] is not always a
 hard parent, and, though he tarries for none of his children, often lays
 his hand lightly upon those who have used him [[motifs/well|well]]; making them old men
@@ -1012,7 +1012,7 @@ his [[motifs/crown|crown]], and tied in a convenient crease of his [[topoi/doubl
 his three-cornered hat and bob-wig from blowing off his head--there
 was no disguising his plump and comfortable figure; neither did certain
 dirty finger-marks upon his face give it any other than an odd and
-comical expression, through which its natural good [[Humour|humour]] shone with
+comical expression, through which its natural good humour shone with
 undiminished lustre.
 
 ‘He is not hurt,’ said the traveller at length, raising his head and the
@@ -1099,9 +1099,9 @@ Thus they regarded each other for some [[motifs/time|time]], in [[motifs/silence
 ‘I don’t,’ said Gabriel; ‘to be plain with you, friend, you don’t carry
 in your countenance a letter of recommendation.’
 
-‘It’s not my wish,’ said the traveller. ‘My [[Humour|humour]] is to be avoided.’
+‘It’s not my wish,’ said the traveller. ‘My humour is to be avoided.’
 
-‘[[motifs/well|Well]],’ said the locksmith bluntly, ‘I think you’ll have your [[Humour|humour]].’
+‘[[motifs/well|Well]],’ said the locksmith bluntly, ‘I think you’ll have your humour.’
 
 ‘I will, at any cost,’ rejoined the traveller. ‘In proof of it, lay this
 to heart--that you were never in such peril of your life as you have
@@ -1144,7 +1144,7 @@ Warren after a long day’s work at locks and [[motifs/bells|bells]], on purpose
 should not come by the Maypole and break my promise to Martha by looking
 in--there’s resolution! It would be dangerous to go on to [[settings/london|London]] without
 a light; and it’s four miles, and a good half mile besides, to the
-Halfway-[[house|House]]; and between this and that is the very place where one
+Halfway-House; and between this and that is the very place where one
 needs a light most. Two miles to the Maypole! I told Martha I wouldn’t;
 I said I wouldn’t, and I didn’t--there’s resolution!’
 
@@ -1258,7 +1258,7 @@ less disturbed, were equally at a loss; and at length, with a variety
 of muttered, half-expressed condolences, and pieces of advice, [[motifs/rose|rose]] to
 depart; being at the same [[motifs/time|time]] slightly muddled with liquor.
 
-The honest locksmith [[Alone|alone]] addressed a few words of coherent and
+The honest locksmith alone addressed a few words of coherent and
 sensible advice to both parties, urging John Willet to remember that
 Joe was nearly arrived at man’s estate, and should not be ruled with
 too tight a hand, and exhorting Joe himself to bear with his father’s
@@ -1329,7 +1329,7 @@ interest in you, and wouldn’t have you cast yourself away. Good [[motifs/night
 
 Returning his cheery farewell with cordial goodwill, Joe Willet lingered
 until the sound of wheels ceased to vibrate in his ears, and then,
-shaking his head mournfully, re-entered the [[house]].
+shaking his head mournfully, re-entered the house.
 
 [[characters/gabriel-varden|Gabriel Varden]] went his way towards [[settings/london|London]], thinking of a great
 many things, and most of all of flaming terms in which to relate his
@@ -1350,7 +1350,7 @@ transitory. This was [[characters/gabriel-varden|Gabriel Varden]]’s state, as,
 acquainted, he got over the ground unconsciously, and drew nearer and
 nearer [[motifs/home|home]]. He had roused himself once, when the [[motifs/horse|horse]] stopped until
 the turnpike gate was opened, and had cried a lusty ‘good [[motifs/night|night]]!’ to the
-toll-keeper; but then he awoke out of [[A Dream|a dream]] about picking a lock in
+toll-keeper; but then he awoke out of a dream about picking a lock in
 the stomach of the Great Mogul, and even when he did wake, mixed up the
 turnpike man with his mother-in-law who had been dead twenty years. It
 is not surprising, therefore, that he soon relapsed, and jogged heavily
@@ -1367,7 +1367,7 @@ round a square or market, or round some great building; after a [[motifs/time|ti
 these grew more distinct, and the lamps themselves were visible; slight
 yellow specks, that seemed to be rapidly snuffed out, one by one, as
 intervening obstacles hid them from the sight. Then, sounds arose--the
-striking of church clocks, the distant bark of [[dogs]], the hum of traffic
+striking of church clocks, the distant bark of dogs, the hum of traffic
 in the streets; then outlines might be traced--tall steeples looming
 in the air, and piles of unequal roofs oppressed by chimneys; then,
 the noise swelled into a louder sound, and forms grew more distinct and
@@ -1415,7 +1415,7 @@ sick!’
 ‘How came it there?’ demanded Varden.
 
 ‘Steel, steel, steel!’ he replied fiercely, imitating with his hand the
-thrust of a [[Sword|sword]].
+thrust of a sword.
 
 ‘Is he robbed?’ said the locksmith.
 
@@ -1459,7 +1459,7 @@ worn and soiled, and poorest where it was at the best. A pair of tawdry
 ruffles dangled at his wrists, while his throat was nearly bare. He had
 ornamented his hat with a cluster of peacock’s feathers, but they were
 limp and broken, and now trailed negligently down his back. Girt to his
-side was the steel hilt of an old [[Sword|sword]] without blade or scabbard; and
+side was the steel hilt of an old sword without blade or scabbard; and
 some particoloured ends of ribands and poor glass toys completed the
 ornamental portion of his attire. The fluttered and confused disposition
 of all the motley scraps that formed his dress, bespoke, in a scarcely
@@ -1483,7 +1483,7 @@ they? If they are angels’ eyes, why do they look down here and see good
 men hurt, and only wink and sparkle all the [[motifs/night|night]]?’
 
 ‘Now Heaven help this silly fellow,’ murmured the perplexed locksmith;
-‘can he know this gentleman? His mother’s [[house]] is not far off; I had
+‘can he know this gentleman? His mother’s house is not far off; I had
 better see if she can tell me who he is. Barnaby, my man, help me to put
 him in the chaise, and we’ll ride [[motifs/home|home]] together.’
 
@@ -1522,7 +1522,7 @@ Chapter 4
 
 
 In the venerable suburb--it was a suburb once--of Clerkenwell, towards
-that part of its confines which is nearest to the Charter [[house|House]], and in
+that part of its confines which is nearest to the Charter House, and in
 one of those cool, shady streets, of which a few, widely scattered
 and dispersed, yet remain in such old parts of the metropolis,--each
 tenement quietly vegetating like an ancient citizen who long ago retired
@@ -1546,16 +1546,16 @@ winding course, and where there was merry haymaking in the [[motifs/summer|summe
 [[concepts/nature|Nature]] was not so far removed, or hard to get at, as in these days; and
 although there were busy trades in Clerkenwell, and working jewellers
 by scores, it was a purer place, with farm-houses nearer to it than many
-modern Londoners would readily believe, and [[lovers]]’ walks at no great
-distance, which turned into squalid courts, long before the [[lovers]] of
+modern Londoners would readily believe, and lovers’ walks at no great
+distance, which turned into squalid courts, long before the lovers of
 this age were born, or, as the phrase goes, thought of.
 
 In one of these streets, the cleanest of them all, and on the shady
 side of the way--for good housewives know that sunlight damages their
 cherished furniture, and so choose the shade rather than its intrusive
-glare--there stood the [[house]] with which we have to deal. It was a modest
+glare--there stood the house with which we have to deal. It was a modest
 building, not very straight, not large, not tall; not bold-faced, with
-great staring windows, but a shy, blinking [[house]], with a conical roof
+great staring windows, but a shy, blinking house, with a conical roof
 going up into a peak over its garret [[motifs/window|window]] of four small panes of
 glass, like a cocked hat on the head of an elderly gentleman with one
 eye. It was not built of brick or lofty stone, but of wood and plaster;
@@ -1586,23 +1586,23 @@ the doors of closets, opened out of this room--each without the smallest
 preparation, or so much as a quarter of an inch of passage--upon two
 dark winding flights of stairs, the one upward, the other downward,
 which were the sole means of communication between that chamber and the
-other portions of the [[house]].
+other portions of the house.
 
 With all these oddities, there was not a neater, more scrupulously tidy,
-or more punctiliously ordered [[house]], in Clerkenwell, in [[settings/london|London]], in all
+or more punctiliously ordered house, in Clerkenwell, in [[settings/london|London]], in all
 England. There were not cleaner windows, or whiter floors, or brighter
 Stoves, or more highly shining articles of furniture in old mahogany;
 there was not more rubbing, scrubbing, burnishing and polishing, in the
 whole street put together. Nor was this excellence attained without some
 cost and trouble and great expenditure of voice, as the neighbours
-were frequently reminded when the good lady of the [[house]] overlooked and
+were frequently reminded when the good lady of the house overlooked and
 assisted in its being put to rights on cleaning days--which were usually
 from Monday morning till Saturday [[motifs/night|night]], both days inclusive.
 
 Leaning against the door-post of this, his dwelling, the locksmith
 stood early on the morning after he had met with the wounded man, gazing
 disconsolately at a great wooden emblem of a key, painted in vivid
-yellow to resemble gold, which dangled from the [[house]]-front, and swung
+yellow to resemble gold, which dangled from the house-front, and swung
 to and fro with a mournful creaking noise, as if complaining that it had
 nothing to unlock. Sometimes, he looked over his shoulder into the shop,
 which was so dark and dingy with numerous tokens of his trade, and so
@@ -1625,7 +1625,7 @@ upper windows. One of them chanced to be thrown open at the moment,
 and a roguish face met his; a face lighted up by the loveliest pair of
 sparkling eyes that ever locksmith looked upon; the face of a pretty,
 laughing, girl; dimpled and fresh, and healthful--the very impersonation
-of good-[[Humour|humour]] and blooming [[concepts/beauty|beauty]].
+of good-humour and blooming [[concepts/beauty|beauty]].
 
 ‘Hush!’ she whispered, bending forward and pointing archly to the [[motifs/window|window]]
 underneath. ‘Mother is still asleep.’
@@ -1801,7 +1801,7 @@ is sure to be, she will go distracted.’
 
 ‘Why, lookye there again, how a man suffers for being good-natured,’
 said the locksmith. ‘Miss [[works/emma-(austen)|Emma]] was with her uncle at the masquerade at
-Carlisle [[house|House]], where she had gone, as the people at the Warren told me,
+Carlisle House, where she had gone, as the people at the Warren told me,
 sorely against her will. What does your blockhead father when he and Mrs
 Rudge have laid their heads together, but goes there when he ought to be
 abed, makes interest with his friend the doorkeeper, slips him on a mask
@@ -1817,7 +1817,7 @@ and prettily worried and badgered he was, I warrant you, with people
 squeaking, “Don’t you know me?” and “I’ve found you out,” and all that
 kind of nonsense in his ears. He might have wandered on till now, but
 in a little room there was a young lady who had taken off her mask, on
-account of the place being very warm, and was sitting there [[Alone|alone]].’
+account of the place being very warm, and was sitting there alone.’
 
 ‘And that was she?’ said his daughter hastily.
 
@@ -1932,7 +1932,7 @@ course of a quarter of an hour or so he again assumed the paper cap and
 tried to work. No. It could not be done.
 
 ‘I’ll do nothing to-day,’ said Mr Tappertit, dashing it down again, ‘but
-grind. I’ll grind up all the tools. Grinding will suit my present [[Humour|humour]]
+grind. I’ll grind up all the tools. Grinding will suit my present humour
 [[motifs/well|well]]. Joe!’
 
 Whirr-r-r-r. The grindstone was soon in motion; the sparks were flying
@@ -1956,8 +1956,8 @@ Chapter 5
 
 
 As soon as the business of the day was over, the locksmith sallied
-forth, [[Alone|alone]], to visit the wounded gentleman and ascertain the progress
-of his recovery. The [[house]] where he had left him was in a by-street
+forth, alone, to visit the wounded gentleman and ascertain the progress
+of his recovery. The house where he had left him was in a by-street
 in Southwark, not far from [[settings/london|London]] Bridge; and thither he hied with all
 [[characters/speed|speed]], bent upon returning with as little delay as might be, and getting
 to bed betimes.
@@ -1999,7 +1999,7 @@ ever dimly seen, but ever there, and never absent for a moment. It was
 the faintest, palest [[archetypes/shadow|shadow]] of some look, to which an instant of intense
 and most unutterable horror only could have given birth; but indistinct
 and feeble as it was, it did suggest what that look must have been, and
-fixed it in the mind as if it had had existence in [[A Dream|a dream]].
+fixed it in the mind as if it had had existence in a dream.
 
 More faintly imaged, and wanting force and purpose, as it were, because
 of his darkened intellect, there was this same stamp upon the son.
@@ -2085,7 +2085,7 @@ all so quiet, might have been persuaded that only one person was there.
 
 ‘No, no,’ she returned hastily. ‘Such visitors have never come to this
 poor dwelling. Do you stay here. You’re within call, at the worst. I
-would rather go myself--[[Alone|alone]].’
+would rather go myself--alone.’
 
 ‘Why?’ said the locksmith, unwillingly relinquishing the candle he had
 caught up from the table.
@@ -2142,7 +2142,7 @@ besides his own. Come back!’
 He is not to be followed, checked, or stopped. Come back!’
 
 The old man looked at her in [[concepts/wonder|wonder]], as she writhed and clung about him;
-and, borne down by her passion, suffered her to drag him into the [[house]].
+and, borne down by her passion, suffered her to drag him into the house.
 It was not until she had chained and [[topoi/double|double]]-locked the door, fastened
 every bolt and bar with the heat and fury of a maniac, and drawn him
 back into the room, that she turned upon him, once again, that stony
@@ -2195,11 +2195,11 @@ falling on the ground.
 ‘who has ever had a warm regard for you, and maybe has tried to prove it
 when he could. Who is this ill-favoured man, and what has he to do with
 you? Who is this [[archetypes/ghost|ghost]], that is only seen in the black nights and bad
-weather? How does he know, and why does he haunt this [[house]], whispering
+weather? How does he know, and why does he haunt this house, whispering
 through chinks and crevices, as if there was that between him and you,
 which neither durst so much as speak aloud of? Who is he?’
 
-‘You do [[motifs/well|well]] to say he haunts this [[house]],’ returned the widow, faintly.
+‘You do [[motifs/well|well]] to say he haunts this house,’ returned the widow, faintly.
 ‘His [[archetypes/shadow|shadow]] has been upon it and me, in light and darkness, at noonday
 and midnight. And now, at last, he has come in the [[concepts/body|body]]!’
 
@@ -2218,7 +2218,7 @@ of life seems dead within me.--No!--Do not touch me, either.’
 Gabriel, who had stepped forward to render her assistance, fell back as
 she made this hasty exclamation, and regarded her in silent [[concepts/wonder|wonder]].
 
-‘Let me go my way [[Alone|alone]],’ she said in a low voice, ‘and let the hands of
+‘Let me go my way alone,’ she said in a low voice, ‘and let the hands of
 no honest man touch mine to-[[motifs/night|night]].’ When she had tottered to the door,
 she turned, and added with a stronger effort, ‘This is a secret, which,
 of necessity, I trust to you. You are a true man. As you have ever been
@@ -2228,7 +2228,7 @@ look between us, recall this circumstance. I trust to you. Mind, I trust
 to you. How much I trust, you never can conceive.’
 
 Casting her eyes upon him for an instant, she withdrew, and left him
-there [[Alone|alone]].
+there alone.
 
 Gabriel, not knowing what to think, stood staring at the door with a
 countenance full of surprise and dismay. The more he pondered on
@@ -2260,7 +2260,7 @@ it, until it glistened again.
 
 ‘And yet,’ said the locksmith, softening under this soothing process,
 and stopping to smile, ‘it MAY be nothing. Any drunken brawler trying to
-make his way into the [[house]], would have alarmed a quiet [[motifs/soul|soul]] like her.
+make his way into the house, would have alarmed a quiet [[motifs/soul|soul]] like her.
 But then’--and here was the vexation--‘how came it to be that man; how
 comes he to have this influence over her; how came she to favour his
 getting away from me; and, more than all, how came she not to say it
@@ -2379,7 +2379,7 @@ of [[motifs/blood|blood]]. Be seated, Mr Varden.’
 ‘If I may make so bold, Mr Edward, as to lean upon your chair,’ returned
 the locksmith, accommodating his action to his speech, and bending over
 him, ‘I’ll stand here for the convenience of speaking low. Barnaby is
-not in his quietest [[Humour|humour]] to-[[motifs/night|night]], and at such times talking never
+not in his quietest humour to-[[motifs/night|night]], and at such times talking never
 does him good.’
 
 They both glanced at the subject of this remark, who had taken a seat on
@@ -2388,9 +2388,9 @@ his fingers with a skein of string.
 
 ‘Pray, tell me, sir,’ said Varden, dropping his voice still lower,
 ‘exactly what happened last [[motifs/night|night]]. I have my reason for inquiring. You
-left the Maypole, [[Alone|alone]]?’
+left the Maypole, alone?’
 
-‘And walked homeward [[Alone|alone]], until I had nearly reached the place where
+‘And walked homeward alone, until I had nearly reached the place where
 you found me, when I heard the gallop of a [[motifs/horse|horse]].’
 
 ‘Behind you?’ said the locksmith.
@@ -2463,7 +2463,7 @@ of the very last importance that he should not lose a word.
 kind of [[concepts/fear|fear]] of him. ‘Was there ever such a knowing imp as that! Oh he’s
 a dreadful fellow!’
 
-[[The Raven|The raven]], with his head very much on one side, and his bright eye
+The raven, with his head very much on one side, and his bright eye
 shining like a diamond, preserved a thoughtful [[motifs/silence|silence]] for a few
 seconds, and then replied in a voice so hoarse and distant, that it
 seemed to come through his thick feathers rather than out of his mouth.
@@ -2486,7 +2486,7 @@ rolled upon the ground in an ecstasy of delight.
 ‘Strange companions, sir,’ said the locksmith, shaking his head, and
 looking from one to the other. ‘The bird has all the wit.’
 
-‘Strange indeed!’ said Edward, holding out his forefinger to [[The Raven|the raven]],
+‘Strange indeed!’ said Edward, holding out his forefinger to the raven,
 who, in acknowledgment of the attention, made a dive at it immediately
 with his iron bill. ‘Is he old?’
 
@@ -2499,7 +2499,7 @@ can make him come! He calls me, and makes me go where he will. He goes
 on before, and I follow. He’s the master, and I’m the man. Is that the
 [[concepts/truth|truth]], Grip?’
 
-[[The Raven|The raven]] gave a short, comfortable, confidential kind of croak;--a most
+The raven gave a short, comfortable, confidential kind of croak;--a most
 expressive croak, which seemed to say, ‘You needn’t let these fellows
 into our [[motifs/secrets|secrets]]. We understand each other. It’s all right.’
 
@@ -2523,7 +2523,7 @@ great distinctness.
 
 The locksmith shook his head--perhaps in some [[concepts/doubt|doubt]] of the creature’s
 being really nothing but a bird--perhaps in pity for Barnaby, who by
-this [[motifs/time|time]] had him in his arms, and was [[rolling]] about, with him, on the
+this [[motifs/time|time]] had him in his arms, and was rolling about, with him, on the
 ground. As he raised his eyes from the poor fellow he encountered those
 of his mother, who had entered the room, and was looking on in [[motifs/silence|silence]].
 
@@ -2546,14 +2546,14 @@ The locksmith looked towards her, and bit his lip. She leant against the
 chair, and bent her eyes upon the ground. Barnaby too--he was listening.
 
 --‘Some mad or drunken fellow, sir,’ Varden at length made answer,
-looking steadily at the widow as he spoke. ‘He mistook the [[house]], and
+looking steadily at the widow as he spoke. ‘He mistook the house, and
 tried to force an entrance.’
 
 She breathed more freely, but stood quite motionless. As the locksmith
 said ‘Good [[motifs/night|night]],’ and Barnaby caught up the candle to light him down
 the stairs, she took it from him, and charged him--with more haste and
 earnestness than so slight an occasion appeared to warrant--not to stir.
-[[The Raven|The raven]] followed them to satisfy himself that all was right below,
+The raven followed them to satisfy himself that all was right below,
 and when they reached the street-door, stood on the [[characters/bottom|bottom]] stair drawing
 corks out of number.
 
@@ -2572,8 +2572,8 @@ For a moment she hid her face in her hands and wept; but resisting the
 strong impulse which evidently moved her to reply, opened the door--no
 wider than was sufficient for the passage of his [[concepts/body|body]]--and motioned him
 away. As the locksmith stood upon the step, it was chained and locked
-behind him, and [[The Raven|the raven]], in furtherance of these precautions, barked
-like a lusty [[house]]-dog.
+behind him, and the raven, in furtherance of these precautions, barked
+like a lusty house-dog.
 
 ‘In league with that ill-looking figure that might have fallen from a
 gibbet--he listening and hiding here--Barnaby first upon the spot last
@@ -2643,7 +2643,7 @@ virgins following her example, she would, to spite mankind, hang, drown,
 stab, or [[motifs/poison|poison]] herself, with a joy past all expression.
 
 It was the voice of Miggs that greeted the locksmith, when he knocked at
-his own [[house]], with a shrill cry of ‘Who’s there?’
+his own house, with a shrill cry of ‘Who’s there?’
 
 ‘Me, girl, me,’ returned Gabriel.
 
@@ -2769,7 +2769,7 @@ Miggs. ‘I never see such company!’
 ‘Because,’ said Mrs Varden, ‘because I never interfere or interrupt;
 because I never question where anybody comes or goes; because my whole
 mind and [[motifs/soul|soul]] is bent on saving where I can save, and labouring in this
-[[house]];--therefore, they try me as they do.’
+house;--therefore, they try me as they do.’
 
 ‘Martha,’ urged the locksmith, endeavouring to look as wakeful as
 possible, ‘what is it you complain of? I really came [[motifs/home|home]] with every
@@ -2843,7 +2843,7 @@ sound deep [[motifs/sleep|sleep]], as by Barnaby himself in his [[characters/pha
 Chapter 8
 
 
-Clear of the locksmith’s [[house]], Sim Tappertit laid aside his cautious
+Clear of the locksmith’s house, Sim Tappertit laid aside his cautious
 manner, and assuming in its stead that of a ruffling, swaggering, roving
 blade, who would rather kill a man than otherwise, and eat him too if
 needful, made the best of his way along the darkened streets.
@@ -2860,7 +2860,7 @@ means inviting. From the main street he had entered, itself little
 better than an alley, a low-browed doorway led into a blind [[settings/court|court]], or
 yard, profoundly dark, unpaved, and reeking with stagnant odours. Into
 this ill-favoured pit, the locksmith’s vagrant ‘prentice groped his way;
-and stopping at a [[house]] from whose defaced and rotten front the rude
+and stopping at a house from whose defaced and rotten front the rude
 effigy of a bottle swung to and fro like some gibbeted malefactor,
 struck thrice upon an iron grating with his foot. After listening in
 vain for some response to his signal, Mr Tappertit became impatient, and
@@ -3050,7 +3050,7 @@ the ‘prentice bowed once more, and so withdrew as he had come.
 There soon appeared at the same door, two other ‘prentices, having
 between them a third, whose eyes were bandaged, and who was attired in a
 bag-wig, and a broad-skirted coat, trimmed with tarnished lace; and who
-was girded with a [[Sword|sword]], in compliance with the laws of the Institution
+was girded with a sword, in compliance with the laws of the Institution
 regulating the introduction of candidates, which required them to
 assume this courtly dress, and kept it constantly in lavender, for
 their convenience. One of the conductors of this novice held a rusty
@@ -3080,7 +3080,7 @@ against the name of Curzon.’
 
 ‘So please you,’ said the novice, ‘that’s not the worst--he calls his
 ‘prentice idle dog, and stops his beer unless he works to his liking. He
-gives Dutch [[cheese]], too, eating Cheshire, sir, himself; and Sundays out,
+gives Dutch cheese, too, eating Cheshire, sir, himself; and Sundays out,
 are only once a month.’
 
 ‘This,’ said Mr Tappert gravely, ‘is a flagrant case. Put two black
@@ -3088,7 +3088,7 @@ crosses to the name of Curzon.’
 
 ‘If the society,’ said the novice, who was an ill-looking, one-sided,
 shambling lad, with sunken eyes set close together in his head--‘if the
-society would burn his [[house]] down--for he’s not insured--or beat him
+society would burn his house down--for he’s not insured--or beat him
 as he comes [[motifs/home|home]] from his club at [[motifs/night|night]], or help me to carry off his
 daughter, and marry her at the Fleet, whether she gave consent or no--’
 
@@ -3126,16 +3126,16 @@ and how they united therefore to resist all change, except such change
 as would restore those good old English customs, by which they would
 stand or fall. After illustrating the wisdom of going backward, by
 reference to that sagacious fish, the crab, and the not unfrequent
-practice of the mule and [[donkey]], he described their general objects;
+practice of the mule and donkey, he described their general objects;
 which were briefly vengeance on their [[archetypes/tyrant|Tyrant]] Masters (of whose grievous
 and insupportable oppression no ‘prentice could entertain a moment’s
 [[concepts/doubt|doubt]]) and the restoration, as aforesaid, of their ancient rights and
 holidays; for neither of which objects were they now quite ripe, being
 barely twenty strong, but which they pledged themselves to pursue with
-[[motifs/fire|fire]] and [[Sword|sword]] when needful. Then he described the oath which every
+[[motifs/fire|fire]] and sword when needful. Then he described the oath which every
 member of that small remnant of a noble [[concepts/body|body]] took, and which was of a
 dreadful and impressive kind; binding him, at the bidding of his chief,
-to resist and obstruct the [[characters/lord-mayor|Lord Mayor]], [[Sword|sword]]-bearer, and chaplain; to
+to resist and obstruct the [[characters/lord-mayor|Lord Mayor]], sword-bearer, and chaplain; to
 despise the authority of the sheriffs; and to hold the [[settings/court|court]] of aldermen
 as nought; but not on any account, in case the fulness of [[motifs/time|time]] should
 bring a general rising of ‘prentices, to damage or in any way disfigure
@@ -3242,7 +3242,7 @@ of them, should happen to encounter him.
 
 Having relieved his mind by this energetic proceeding, he condescended
 to approach the festive board, and warming by degrees, at length deigned
-to preside, and even to enchant the company with a [[Song|song]]. After this,
+to preside, and even to enchant the company with a song. After this,
 he [[motifs/rose|rose]] to such a pitch as to consent to regale the society with a
 hornpipe, which he actually performed to the music of a fiddle (played
 by an ingenious member) with such surpassing agility and brilliancy of
@@ -3463,7 +3463,7 @@ that I may get in that way.’
 ‘I dursn’t do it, Simmun,’ cried Miggs--for that was her pronunciation
 of his Christian name. ‘I dursn’t do it, indeed. You know as [[motifs/well|well]] as
 anybody, how particular I am. And to come down in the dead of [[motifs/night|night]],
-when the [[house]] is wrapped in slumbers and weiled in obscurity.’ And
+when the house is wrapped in slumbers and weiled in obscurity.’ And
 there she stopped and shivered, for her modesty caught cold at the very
 thought.
 
@@ -3514,7 +3514,7 @@ upstairs, and planting her, in the same umbrella and walking-stick
 fashion, just inside her own door, left her to her repose.
 
 ‘He may be as cool as he likes,’ said Miss Miggs, recovering as soon
-as she was left [[Alone|alone]]; ‘but I’m in his confidence and he can’t help
+as she was left alone; ‘but I’m in his confidence and he can’t help
 himself, nor couldn’t if he was twenty Simmunses!’
 
 
@@ -3544,7 +3544,7 @@ of mulled ale, and make themselves as much at [[motifs/home|home]] as if they ha
 ordered a hogshead of wine; none of your audacious young swaggerers, who
 would even penetrate into the bar--that solemn sanctuary--and, smiting
 old John upon the back, inquire if there was never a pretty girl in the
-[[house]], and where he hid his little chambermaids, with a hundred other
+house, and where he hid his little chambermaids, with a hundred other
 impertinences of that [[concepts/nature|nature]]; none of your free-and-easy companions, who
 would scrape their boots upon the firedogs in the common room, and
 be not at all particular on the subject of spittoons; none of your
@@ -3573,7 +3573,7 @@ at a [[motifs/time|time]], or that he even made up his mind upon that, without a
 deal of very serious consideration. Indeed, if he had been distracted in
 the first instance by questionings and orders, it would have taken him
 at the least a fortnight to have noted what is here set down; but it
-happened that the gentleman, being struck with the old [[house]], or with
+happened that the gentleman, being struck with the old house, or with
 the plump pigeons which were skimming and curtseying about it, or with
 the tall maypole, on the top of which a weathercock, which had been out
 of order for fifteen years, performed a perpetual walk to the music of
@@ -3620,7 +3620,7 @@ The guest made no remark upon this [[forms/novel|novel]] cure for drowsiness, an
 for making people lively, but, with his hands clasped behind him, stood
 in the porch, very much amused to see old John, with the bridle in his
 hand, wavering between a strong impulse to abandon the animal to his
-fate, and a half disposition to lead him into the [[house]], and shut him up
+fate, and a half disposition to lead him into the house, and shut him up
 in the parlour, while he waited on his master.
 
 ‘Pillory the fellow, here he is at last!’ cried John, in the very height
@@ -3649,7 +3649,7 @@ and character of his man, the oracular John Willet led the gentleman up
 his wide dismantled staircase into the Maypole’s best apartment.
 
 It was spacious enough in all [[concepts/conscience|conscience]], occupying the whole depth of
-the [[house]], and having at either end a great bay [[motifs/window|window]], as large as many
+the house, and having at either end a great bay [[motifs/window|window]], as large as many
 modern rooms; in which some few panes of stained glass, emblazoned
 with fragments of armorial bearings, though cracked, and patched, and
 shattered, yet remained; attesting, by their presence, that the former
@@ -3693,7 +3693,7 @@ He wanted pen, ink, and paper. There was an old standish on the
 mantelshelf containing a dusty apology for all three. Having set this
 before him, the landlord was retiring, when he motioned him to stay.
 
-‘There’s a [[house]] not far from here,’ said the guest when he had written
+‘There’s a house not far from here,’ said the guest when he had written
 a few lines, ‘which you call the Warren, I believe?’
 
 As this was said in the tone of one who knew the fact, and asked the
@@ -3742,7 +3742,7 @@ darkest nights. Nothing hurts HIM.’
 yesterday. But I was not attending to the good woman much.’
 
 ‘You’re right, sir,’ John made answer, ‘he does. His father, sir, was
-murdered in that [[house]].’
+murdered in that house.’
 
 
 
@@ -3767,7 +3767,7 @@ be enough to wear one’s life out.--You were going to say, friend--’ he
 added, turning to John again.
 
 ‘Only that Mrs Rudge lives on a little pension from the family, and that
-Barnaby’s as free of the [[house]] as any cat or dog about it,’ answered
+Barnaby’s as free of the house as any cat or dog about it,’ answered
 John. ‘Shall he do your errand, sir?’
 
 ‘Oh yes,’ replied the guest. ‘Oh certainly. Let him do it by all means.
@@ -3870,7 +3870,7 @@ for it; that’s the fact.’
 To record that Mr Chester smiled at John’s remark would be little to the
 purpose, for he preserved the same conciliatory and pleasant look at all
 times. He drew his chair nearer to the [[motifs/fire|fire]] though, as a kind of hint
-that he would prefer to be [[Alone|alone]], and John, having no reasonable excuse
+that he would prefer to be alone, and John, having no reasonable excuse
 for remaining, left him to himself.
 
 
@@ -3923,7 +3923,7 @@ gentleman--slept in it last, sir, half a year ago.’
 ‘Upon my life, a recommendation!’ said the guest, shrugging his
 shoulders and wheeling his chair nearer to the [[motifs/fire|fire]]. ‘See that it be
 [[motifs/well|well]] aired, Mr Willet, and let a blazing [[motifs/fire|fire]] be lighted there at once.
-This [[house]] is something damp and chilly.’
+This house is something damp and chilly.’
 
 John raked the faggots up again, more from habit than presence of mind,
 or any reference to this remark, and was about to withdraw, when a
@@ -3949,7 +3949,7 @@ Hugh three; the dog, the goat, the cats--[[motifs/well|well]], we shall spend it
 soon, I warn you. Stay.--Look. Do you wise men see nothing there, now?’
 
 He bent eagerly down on one knee, and gazed intently at the smoke, which
-was [[rolling]] up the chimney in a thick black cloud. John Willet, who
+was rolling up the chimney in a thick black cloud. John Willet, who
 appeared to consider himself particularly and chiefly referred to under
 the term wise men, looked that way likewise, and with great solidity of
 feature.
@@ -3974,7 +3974,7 @@ this! What is there here? Tell him!’
 ‘Here’s money!’ said Barnaby, chinking it in his hand, ‘money for a
 treat, Grip!’
 
-‘Hurrah! Hurrah! Hurrah!’ replied [[The Raven|the raven]], ‘keep up your spirits.
+‘Hurrah! Hurrah! Hurrah!’ replied the raven, ‘keep up your spirits.
 Never say die. Bow, wow, wow!’
 
 Mr Willet, who appeared to entertain strong doubts whether a customer in
@@ -3997,7 +3997,7 @@ There was great news that [[motifs/night|night]] for the regular Maypole custome
 each of whom, as he straggled in to occupy his allotted seat in the
 chimney-corner, John, with a most impressive slowness of delivery, and
 in an apoplectic whisper, communicated the fact that Mr Chester was
-[[Alone|alone]] in the large room upstairs, and was waiting the arrival of
+alone in the large room upstairs, and was waiting the arrival of
 Mr [[characters/geoffrey-haredale|Geoffrey Haredale]], to whom he had sent a letter (doubtless of a
 threatening [[concepts/nature|nature]]) by the hands of Barnaby, then and there present.
 
@@ -4044,7 +4044,7 @@ a poaching rascal to-[[motifs/night|night]] than ever he had seen him yet.
 ‘He’s waiting here, I suppose,’ said Solomon, ‘to take Mr Haredale’s
 [[motifs/horse|horse]].’
 
-‘That’s it, sir,’ replied John Willet. ‘He’s not often in the [[house]], you
+‘That’s it, sir,’ replied John Willet. ‘He’s not often in the house, you
 know. He’s more at his ease among horses than men. I look upon him as a
 animal himself.’
 
@@ -4086,7 +4086,7 @@ gentlemen?’
 hung when he was a little boy, along with six others, for passing bad
 notes--and it’s a blessed thing to think how many people are hung in
 batches every six weeks for that, and such like offences, as showing how
-wide awake our [[government]] is--that chap that was then turned loose, and
+wide awake our government is--that chap that was then turned loose, and
 had to mind cows, and frighten [[motifs/birds|birds]] away, and what not, for a few pence
 to live on, and so got on by degrees to mind horses, and to [[motifs/sleep|sleep]] in
 course of [[motifs/time|time]] in lofts and litter, instead of under haystacks and
@@ -4119,11 +4119,11 @@ Parkes, who had a large nose, rubbed it, and looked as if he considered
 this a personal allusion--‘they’ll fight in that room. You know by
 the newspapers what a common thing it is for gentlemen to fight in
 coffee-houses without seconds. One of ‘em will be wounded or perhaps
-killed in this [[house]].’
+killed in this house.’
 
 ‘That was a challenge that Barnaby took then, eh?’ said John.
 
-‘--Inclosing a slip of paper with the measure of his [[Sword|sword]] upon it, I’ll
+‘--Inclosing a slip of paper with the measure of his sword upon it, I’ll
 bet a guinea,’ answered the little man. ‘We know what sort of gentleman
 Mr Haredale is. You have told us what Barnaby said about his looks, when
 he came back. Depend upon it, I’m right. Now, mind.’
@@ -4154,7 +4154,7 @@ down. We know him better, eh?’
 
 ‘As to its ever being got out again,’ said Solomon, ‘I tell you it never
 will, or can be. Why, do you know that it has been tried, at a certain
-[[house]] we are acquainted with?’
+house we are acquainted with?’
 
 ‘The Warren!’ cried John. ‘No, sure!’
 
@@ -4172,7 +4172,7 @@ tramp of a [[motifs/horse|horse]] was heard without.
 
 ‘The very man!’ cried John, starting up. ‘Hugh! Hugh!’
 
-[[The Sleeper|The sleeper]] staggered to his feet, and hurried after him. John quickly
+The sleeper staggered to his feet, and hurried after him. John quickly
 returned, ushering in with great attention and deference (for Mr
 Haredale was his landlord) the long-expected visitor, who strode into
 the room clanking his heavy boots upon the floor; and looking keenly
@@ -4246,7 +4246,7 @@ to give you a meeting. I say, I am here.’
 
 ‘Our meeting, Haredale,’ said Mr Chester, tapping his snuff-box, and
 following with a smile the impatient gesture he had made--perhaps
-unconsciously--towards his [[Sword|sword]], ‘is one of conference and peace, I
+unconsciously--towards his sword, ‘is one of conference and peace, I
 [[concepts/hope|hope]]?’
 
 ‘I have come here,’ returned the other, ‘at your [[motifs/desire|desire]], holding myself
@@ -4310,7 +4310,7 @@ niece, and I a son--a fine lad, Haredale, but foolish. They fall in
 [[motifs/love|love]] with each other, and form what this same world calls an attachment;
 meaning a something fanciful and false like the rest, which, if it took
 its own free [[motifs/time|time]], would break like any other bubble. But it may not
-have its own free [[motifs/time|time]]--will not, if they are left [[Alone|alone]]--and the
+have its own free [[motifs/time|time]]--will not, if they are left alone--and the
 question is, shall we two, because society calls us enemies, stand
 aloof, and let them rush into each other’s arms, when, by approaching
 each other sensibly, as we do now, we can prevent it, and part them?’
@@ -4404,7 +4404,7 @@ those natural obligations which must subsist between father and son. I
 shall put it to him on every ground of moral and religious feeling. I
 shall represent to him that we cannot possibly afford it--that I have
 always looked forward to his marrying [[motifs/well|well]], for a genteel provision for
-myself in the [[motifs/autumn|autumn]] of life--that there are a great many clamorous [[dogs]]
+myself in the [[motifs/autumn|autumn]] of life--that there are a great many clamorous dogs
 to pay, whose claims are perfectly just and right, and who must be paid
 out of his wife’s fortune. In short, that the very highest and most
 honourable feelings of our [[concepts/nature|nature]], with every consideration of filial
@@ -4501,7 +4501,7 @@ boots as he pulled them off, and, by opening his eyes much wider than
 usual, to appear to express some surprise and disappointment at not
 finding them full of [[motifs/blood|blood]]. He took occasion, too, to examine the
 gentleman as closely as he could, expecting to discover sundry loopholes
-in his person, pierced by his adversary’s [[Sword|sword]]. Finding none,
+in his person, pierced by his adversary’s sword. Finding none,
 however, and observing in course of [[motifs/time|time]] that his guest was as cool and
 unruffled, both in his dress and temper, as he had been all day, old
 John at last heaved a deep sigh, and began to think no duel had been
@@ -4566,7 +4566,7 @@ to absent himself for as many hours without question or reproach--he
 would have contrived, by hook or crook, to dive to the very [[characters/bottom|bottom]] of Mr
 Chester’s mystery, and to come at his purpose with as much certainty as
 though he had been his confidential adviser. In that fortunate case, the
-[[lovers]] would have had quick warning of the ills that threatened them,
+lovers would have had quick warning of the ills that threatened them,
 and the aid of various timely and wise suggestions to boot; for all
 Joe’s readiness of thought and action, and all his sympathies and good
 wishes, were enlisted in favour of the young people, and were staunch in
@@ -4646,7 +4646,7 @@ that, I [[concepts/hope|hope]]?’
 
 ‘I don’t suppose anything of the kind,’ returned Joe. ‘Let them keep
 their red noses for bottles and tankards. These are going to Mr Varden’s
-[[house]].’
+house.’
 
 ‘And do you suppose HE minds such things as crocuses?’ demanded John.
 
@@ -4695,13 +4695,13 @@ and rode away; and a very stalwart, manly horseman he looked, deserving
 a better charger than it was his fortune to bestride. John stood staring
 after him, or rather after the grey mare (for he had no eyes for her
 rider), until man and beast had been out of sight some twenty minutes,
-when he began to think they were gone, and slowly re-entering the [[house]],
+when he began to think they were gone, and slowly re-entering the house,
 fell into a gentle doze.
 
 The unfortunate grey mare, who was the agony of Joe’s life, floundered
 along at her own will and pleasure until the Maypole was no longer
 visible, and then, contracting her legs into what in a puppet would have
-been looked upon as a clumsy and awkward [[Imitation|imitation]] of a canter, mended
+been looked upon as a clumsy and awkward imitation of a canter, mended
 her pace all at once, and did it of her own accord. The acquaintance
 with her rider’s usual mode of proceeding, which suggested this
 improvement in hers, impelled her likewise to turn up a bye-way,
@@ -4720,7 +4720,7 @@ her tether, and passing through a wicket gate, entered the grounds on
 foot.
 
 The pathway, after a very few minutes’ walking, brought him close to the
-[[house]], towards which, and especially towards one particular [[motifs/window|window]], he
+house, towards which, and especially towards one particular [[motifs/window|window]], he
 directed many covert glances. It was a dreary, silent building, with
 echoing courtyards, desolated turret-chambers, and whole suites of rooms
 shut up and mouldering to ruin.
@@ -4738,7 +4738,7 @@ something forlorn and failing, whence cheerfulness was banished. It
 would have been difficult to imagine a bright [[motifs/fire|fire]] blazing in the dull
 and darkened rooms, or to picture any gaiety of heart or revelry that
 the frowning walls shut in. It seemed a place where such things had
-been, but could be no more--the very [[archetypes/ghost|ghost]] of a [[house]], haunting the old
+been, but could be no more--the very [[archetypes/ghost|ghost]] of a house, haunting the old
 spot in its old outward form, and that was all.
 
 Much of this decayed and sombre look was attributable, no [[concepts/doubt|doubt]], to the
@@ -4776,7 +4776,7 @@ at least a score of dusty casks, and who stood transfixed, or morally
 gimleted as it were, to his own wall--when he had done all this, and
 disposed besides of a frugal dinner at the Black [[motifs/lion|Lion]] in Whitechapel;
 spurning the Monument and John’s advice, he turned his steps towards the
-locksmith’s [[house]], attracted by the eyes of blooming [[characters/dolly-varden|Dolly Varden]].
+locksmith’s house, attracted by the eyes of blooming [[characters/dolly-varden|Dolly Varden]].
 
 
 
@@ -4786,7 +4786,7 @@ locksmith’s [[house]], attracted by the eyes of blooming [[characters/dolly-va
 
 Joe was by no means a sheepish fellow, but, for all that, when he got
 to the corner of the street in which the locksmith lived, he could by no
-means make up his mind to walk straight to the [[house]]. First, he resolved
+means make up his mind to walk straight to the house. First, he resolved
 to stroll up another street for five minutes, then up another street for
 five minutes more, and so on until he had lost full half an hour, when
 he made a bold plunge and found himself with a red face and a beating
@@ -4811,7 +4811,7 @@ Dolly. Give ‘em to her mother, Joe. A great deal better give ‘em to her
 mother. Would you mind giving ‘em to Mrs Varden, Joe?’
 
 ‘Oh no, sir,’ Joe replied, and endeavouring, but not with the greatest
-possible [[success]], to hide his disappointment. ‘I shall be very glad, I’m
+possible success, to hide his disappointment. ‘I shall be very glad, I’m
 sure.’
 
 ‘That’s right,’ said the locksmith, patting him on the back. ‘It don’t
@@ -4920,7 +4920,7 @@ This pronoun was understood in the plural sense, and included both
 gentlemen, upon both of whom it was rather hard and undeserved, for
 Gabriel had applied himself to the meal with a very promising appetite,
 until it was spoilt by Mrs Varden herself, and Joe had as great a liking
-for the female society of the locksmith’s [[house]]--or for a part of it at
+for the female society of the locksmith’s house--or for a part of it at
 all events--as man could [[motifs/well|well]] entertain.
 
 But he had no opportunity to say anything in his own defence, for at
@@ -4956,7 +4956,7 @@ chairmen seemed favoured rivals as they bore her down the street.
 There never was such an alteration in a small room in a small [[motifs/time|time]] as in
 that parlour when they went back to finish tea. So dark, so deserted,
 so perfectly disenchanted. It seemed such sheer nonsense to be sitting
-tamely there, when she was at a [[motifs/dance|dance]] with more [[lovers]] than man could
+tamely there, when she was at a [[motifs/dance|dance]] with more lovers than man could
 calculate fluttering about her--with the whole party doting on and
 adoring her, and wanting to marry her. Miggs was hovering about too; and
 the fact of her existence, the mere circumstance of her ever having been
@@ -5042,7 +5042,7 @@ of her. She’s as far out of my reach as--as Heaven is.’
 good-humouredly. ‘Eh?’
 
 ‘Ah!’ sighed Joe. ‘It’s all very fine talking, sir. Proverbs are easily
-made in cold [[motifs/blood|blood]]. But it can’t be helped. Are you bound for our [[house]],
+made in cold [[motifs/blood|blood]]. But it can’t be helped. Are you bound for our house,
 sir?’
 
 ‘Yes. As I am not quite strong yet, I shall stay there to-[[motifs/night|night]], and
@@ -5097,7 +5097,7 @@ striking. We may push on.’
 They cantered forward at as brisk a pace as Joe’s charger could attain,
 and presently stopped in the little copse where he had left her in the
 morning. Edward dismounted, gave his bridle to his companion, and walked
-with a light step towards the [[house]].
+with a light step towards the house.
 
 A female servant was waiting at a side gate in the [[motifs/garden|garden]]-wall, and
 admitted him without delay. He hurried along the terrace-walk, and
@@ -5116,7 +5116,7 @@ riding-whip, motioned him towards the door. The young man drew himself
 up, and returned his gaze.
 
 ‘This is [[motifs/well|well]] done of you, sir, to corrupt my servants, and enter my
-[[house]] unbidden and in secret, like a thief!’ said Mr Haredale. ‘Leave
+house unbidden and in secret, like a thief!’ said Mr Haredale. ‘Leave
 it, sir, and return no more.’
 
 ‘Miss Haredale’s presence,’ returned the young man, ‘and your
@@ -5128,7 +5128,7 @@ is yours--not mine.’
 sir,’ retorted the other, ‘to tamper with the affections of a weak,
 trusting girl, while you shrink, in your unworthiness, from her guardian
 and protector, and dare not meet the light of day. More than this I will
-not say to you, save that I forbid you this [[house]], and require you to be
+not say to you, save that I forbid you this house, and require you to be
 gone.’
 
 ‘It is neither generous, nor honourable, nor the act of a true man to
@@ -5148,7 +5148,7 @@ kindness and sympathy for her distress.
 
 ‘Mr Haredale,’ said Edward, ‘your arm encircles her on whom I have set
 my every [[concepts/hope|hope]] and thought, and to purchase one minute’s happiness for
-whom I would gladly lay down my life; this [[house]] is the casket that
+whom I would gladly lay down my life; this house is the casket that
 holds the precious [[motifs/jewel|jewel]] of my existence. Your niece has plighted her
 [[concepts/faith|faith]] to me, and I have plighted mine to her. What have I done that
 you should hold me in this light esteem, and give me these discourteous
@@ -5277,7 +5277,7 @@ Gardens--that this, our idler, lounged; now taking up again the paper
 he had laid down a hundred times; now trifling with the fragments of
 his meal; now pulling forth his golden toothpick, and glancing leisurely
 about the room, or out at [[motifs/window|window]] into the trim [[motifs/garden|garden]] walks, where a few
-early loiterers were already pacing to and fro. Here a pair of [[lovers]]
+early loiterers were already pacing to and fro. Here a pair of lovers
 met to quarrel and make up; there a dark-eyed nursery-maid had better
 eyes for Templars than her charge; on this hand an ancient spinster,
 with her lapdog in a string, regarded both enormities with scornful
@@ -5285,7 +5285,7 @@ sidelong looks; on that a weazen old gentleman, ogling the nursery-maid,
 looked with like scorn upon the spinster, and wondered she didn’t know
 she was no longer young. Apart from all these, on the [[motifs/river|river]]’s margin two
 or three couple of business-talkers walked slowly up and down in earnest
-conversation; and one young man sat thoughtfully on a bench, [[Alone|alone]].
+conversation; and one young man sat thoughtfully on a bench, alone.
 
 ‘Ned is amazingly patient!’ said Mr Chester, glancing at this last-named
 person as he set down his teacup and plied the golden toothpick,
@@ -5329,7 +5329,7 @@ whom you saw, and what your purpose was.’
 
 ‘You don’t say so!’ cried his father. ‘I am delighted to hear it. It
 saves us the worry, and terrible wear and tear of a long explanation,
-and is a great relief for both. At the very [[house]]! Why didn’t you come
+and is a great relief for both. At the very house! Why didn’t you come
 up? I should have been charmed to see you.’
 
 ‘I knew that what I had to say would be better said after a [[motifs/night|night]]’s
@@ -5339,7 +5339,7 @@ reflection, when both of us were cool,’ returned the son.
 That detestable Maypole! By some infernal contrivance of the builder,
 it holds the [[motifs/wind|wind]], and keeps it fresh. You remember the sharp east [[motifs/wind|wind]]
 that blew so hard five weeks ago? I give you my [[concepts/honour|honour]] it was rampant
-in that old [[house]] last [[motifs/night|night]], though out of doors there was a dead calm.
+in that old house last [[motifs/night|night]], though out of doors there was a dead calm.
 But you were saying’--
 
 
@@ -5357,7 +5357,7 @@ anchorite. Oblige me with the milk.’
 ‘I saw Miss Haredale last [[motifs/night|night]],’ Edward resumed, when he had complied
 with this request; ‘her uncle, in her presence, immediately after your
 interview, and, as of course I know, in consequence of it, forbade
-me the [[house]], and, with circumstances of indignity which are of your
+me the house, and, with circumstances of indignity which are of your
 creation I am sure, commanded me to leave it on the instant.’
 
 ‘For his manner of doing so, I give you my [[concepts/honour|honour]], Ned, I am not
@@ -5376,7 +5376,7 @@ this unkind indifference.’
 ‘Whether I am indifferent or no,’ returned the other, ‘I leave you, my
 dear boy, to judge. A ride of twenty-five or thirty miles, through miry
 roads--a Maypole dinner--a tete-a-tete with Haredale, which, [[concepts/vanity|vanity]]
-apart, was quite [[A Valentine|a Valentine]] and Orson business--a Maypole bed--a
+apart, was quite a Valentine and Orson business--a Maypole bed--a
 Maypole landlord, and a Maypole retinue of idiots and centaurs;--whether
 the voluntary [[concepts/endurance|endurance]] of these things looks like indifference, dear
 Ned, or like the excessive anxiety, and devotion, and all that sort of
@@ -5401,7 +5401,7 @@ asunder if you can?’
 his box towards him, ‘that is my purpose most undoubtedly.’
 
 ‘The [[motifs/time|time]] that has elapsed,’ rejoined his son, ‘since I began to know
-her worth, has flown in such [[A Dream|a dream]] that until now I have hardly once
+her worth, has flown in such a dream that until now I have hardly once
 paused to reflect upon my true position. What is it? From my [[motifs/childhood|childhood]]
 I have been accustomed to luxury and idleness, and have been bred as
 though my fortune were large, and my expectations almost without a
@@ -5537,7 +5537,7 @@ marry [[motifs/well|well]] and make the most of yourself.’
 men are fortune-hunters, are they not? The law, the church, the [[settings/court|court]],
 the camp--see how they are all crowded with fortune-hunters, jostling
 each other in the pursuit. The stock-exchange, the pulpit, the
-counting-[[house]], the royal drawing-room, the senate,--what but
+counting-house, the royal drawing-room, the senate,--what but
 fortune-hunters are they filled with? A fortune-hunter! Yes. You
 ARE one; and you would be nothing else, my dear Ned, if you were
 the greatest courtier, lawyer, legislator, prelate, or merchant, in
@@ -5573,7 +5573,7 @@ these little refinements about me. I have always been used to them, and
 I cannot exist without them. They must surround me, you observe, and
 therefore they are here. With regard to our circumstances, Ned, you
 may set your mind at rest upon that score. They are desperate. Your own
-appearance is by no means despicable, and our joint pocket-money [[Alone|alone]]
+appearance is by no means despicable, and our joint pocket-money alone
 devours our income. That’s the [[concepts/truth|truth]].’
 
 
@@ -5601,7 +5601,7 @@ had died first!’
 [[concepts/self|self]]-evident it is, that nothing can be done in that quarter. But apart
 from this, and the necessity of your speedily bestowing yourself on
 another (as you know you could to-morrow, if you chose), I wish you’d
-look upon it pleasantly. In a religious point of view [[Alone|alone]], how
+look upon it pleasantly. In a religious point of view alone, how
 could you ever think of uniting yourself to a Catholic, unless she was
 amazingly rich? You ought to be so very Protestant, coming of such a
 Protestant family as you do. Let us be moral, Ned, or we are nothing.
@@ -5614,7 +5614,7 @@ by jurors, and “sat upon” by coroners, and of his very doubtful position
 in the family ever afterwards. It seems to me such an indelicate sort
 of thing that I really think the girl ought to have been put to [[motifs/death|death]] by
 the state to prevent its happening. But I tease you perhaps. You would
-rather be [[Alone|alone]]? My dear Ned, most willingly. God bless you. I shall
+rather be alone? My dear Ned, most willingly. God bless you. I shall
 be going out presently, but we shall meet to-[[motifs/night|night]], or if not to-[[motifs/night|night]],
 certainly to-morrow. Take care of yourself in the mean [[motifs/time|time]], for both
 our sakes. You are a person of great consequence to me, Ned--of vast
@@ -5649,7 +5649,7 @@ least frequented, very dark. The oil and cotton lamps, though regularly
 trimmed twice or thrice in the long [[motifs/winter|winter]] nights, burnt feebly at the
 best; and at a late hour, when they were unassisted by the lamps and
 candles in the shops, cast but a narrow track of doubtful light upon the
-footway, leaving the projecting doors and [[house]]-fronts in the deepest
+footway, leaving the projecting doors and house-fronts in the deepest
 gloom. Many of the courts and lanes were left in total darkness; those
 of the meaner sort, where one glimmering light twinkled for a score of
 houses, being favoured in no slight degree. Even in these places, the
@@ -5667,7 +5667,7 @@ constant operation, street robberies, often accompanied by cruel wounds,
 and not unfrequently by loss of life, should have been of nightly
 occurrence in the very heart of [[settings/london|London]], or that quiet folks should have
 had great dread of traversing its streets after the shops were closed.
-It was not unusual for those who wended [[motifs/home|home]] [[Alone|alone]] at midnight, to
+It was not unusual for those who wended [[motifs/home|home]] alone at midnight, to
 keep the middle of the [[motifs/road|road]], the better to guard against surprise from
 lurking footpads; few would venture to repair at a late hour to Kentish
 Town or Hampstead, or even to Kensington or Chelsea, unarmed and
@@ -5717,7 +5717,7 @@ were passing at the west end of the town, heavy stagecoaches and scarce
 heavier waggons were lumbering slowly towards the [[motifs/city|city]], the coachmen,
 guard, and passengers, armed to the teeth, and the coach--a day or so
 perhaps behind its [[motifs/time|time]], but that was nothing--despoiled by highwaymen;
-who made no scruple to attack, [[Alone|alone]] and single-handed, a whole caravan
+who made no scruple to attack, alone and single-handed, a whole caravan
 of goods and men, and sometimes shot a passenger or two, and were
 sometimes shot themselves, as the case might be. On the morrow, rumours
 of this new act of daring on the [[motifs/road|road]] yielded matter for a few hours’
@@ -5750,7 +5750,7 @@ grade resorted; and there he sat till morning.
 He was not only a spectre at their licentious feasts; a something in the
 midst of their revelry and riot that chilled and haunted them; but out
 of doors he was the same. Directly it was dark, he was abroad--never in
-company with any one, but always [[Alone|alone]]; never lingering or loitering,
+company with any one, but always alone; never lingering or loitering,
 but always walking swiftly; and looking (so they said who had seen him)
 over his shoulder from [[motifs/time|time]] to [[motifs/time|time]], and as he did so quickening his
 pace. In the fields, the lanes, the roads, in all quarters of the
@@ -5798,7 +5798,7 @@ were fewer in number, perhaps he would give better wages.’
 
 ‘It goes rather hard with you, indeed,’ said the fellow, as the stranger
 disclosed his haggard unwashed face, and torn clothes. ‘What of that? Be
-merry, master. A stave of a roaring [[Song|song]] now’--
+merry, master. A stave of a roaring song now’--
 
 ‘Sing you, if you [[motifs/desire|desire]] to hear one,’ replied the other, shaking him
 roughly off; ‘and don’t touch me if you’re a prudent man; I carry
@@ -5819,7 +5819,7 @@ not without much of the effect they had wrought at the Maypole Inn.
 ‘I am what you all are, and live as you all do,’ said the man sternly,
 after a short [[motifs/silence|silence]]. ‘I am in hiding here like the rest, and if we
 were surprised would perhaps do my part with the best of ye. If it’s my
-[[Humour|humour]] to be left to myself, let me have it. Otherwise,’--and here
+humour to be left to myself, let me have it. Otherwise,’--and here
 he swore a tremendous oath--‘there’ll be mischief done in this place,
 though there ARE odds of a score against me.’
 
@@ -5833,7 +5833,7 @@ man lay down upon a bench to [[motifs/sleep|sleep]], and when they thought of hi
 they found he was gone.
 
 Next [[motifs/night|night]], as soon as it was dark, he was abroad again and traversing
-the streets; he was before the locksmith’s [[house]] more than once, but
+the streets; he was before the locksmith’s house more than once, but
 the family were out, and it was close shut. This [[motifs/night|night]] he crossed [[settings/london|London]]
 Bridge and passed into Southwark. As he glided down a bye street, a
 woman with a little basket on her arm, turned into it at the other end.
@@ -5858,11 +5858,11 @@ At length the widow--for she it was--reached her own door, and, panting
 for breath, paused to take the key from her basket. In a flush and glow,
 with the haste she had made, and the pleasure of being safe at [[motifs/home|home]],
 she stooped to draw it out, when, raising her head, she saw him standing
-silently beside her: the apparition of [[A Dream|a dream]].
+silently beside her: the apparition of a dream.
 
 His hand was on her mouth, but that was needless, for her tongue clove
 to its roof, and her power of utterance was gone. ‘I have been looking
-for you many nights. Is the [[house]] empty? Answer me. Is any one inside?’
+for you many nights. Is the house empty? Answer me. Is any one inside?’
 
 She could only answer by a rattle in her throat.
 
@@ -5903,7 +5903,7 @@ She had covered her face with her hands, fearing, as it seemed, to look
 towards him. So they remained for some short [[motifs/time|time]] in [[motifs/silence|silence]]. Glancing
 round again, he asked at length:
 
-‘Is this your [[house]]?’
+‘Is this your house?’
 
 ‘It is. Why, in the name of Heaven, do you darken it?’
 
@@ -5921,7 +5921,7 @@ have warmth and food, and I will have them here.’
 hue-and-cry, that it would have gone hard with, but for his nimbleness.
 I made a thrust at him.’
 
-‘You thrust your [[Sword|sword]] at HIM!’ cried the widow, looking upwards. ‘You
+‘You thrust your sword at HIM!’ cried the widow, looking upwards. ‘You
 hear this man! you hear and saw!’
 
 He looked at her, as, with her head thrown back, and her hands tight
@@ -5978,7 +5978,7 @@ brightly up, accosted her once more.
 
 ‘I am an outcast, to whom a roof above his head is often an uncommon
 luxury, and the food a beggar would reject is delicate fare. You live
-here at your ease. Do you live [[Alone|alone]]?’
+here at your ease. Do you live alone?’
 
 ‘I do not,’ she made answer with an effort.
 
@@ -6065,7 +6065,7 @@ Grip, who cares for nothing, and when the [[motifs/wind|wind]] rolls him over in
 every little bowing twig--thinking, he told me, that it mocked him--and
 has worried it like a bulldog. Ha ha ha!’
 
-[[The Raven|The raven]], in his little basket at his master’s back, hearing this
+The raven, in his little basket at his master’s back, hearing this
 frequent mention of his name in a tone of exultation, expressed his
 sympathy by crowing like a cock, and afterwards running over his various
 phrases of speech with such rapidity, and in so many varieties of
@@ -6077,7 +6077,7 @@ to slumber, he practises new learning softly; but he keeps his eye on
 me the while, and if he sees me laugh, though never so little, stops
 directly. He won’t surprise me till he’s perfect.’
 
-[[The Raven|The raven]] crowed again in a rapturous manner which plainly said, ‘Those
+The raven crowed again in a rapturous manner which plainly said, ‘Those
 are certainly some of my characteristics, and I glory in them.’ In the
 meantime, Barnaby closed the [[motifs/window|window]] and secured it, and coming to the
 fireplace, prepared to sit down with his face to the closet. But
@@ -6186,7 +6186,7 @@ dells, in the deep, red sunset, and the wild faces. I am hungry too,
 and Grip has eaten nothing since broad [[motifs/noon|noon]]. Let us to supper. Grip! To
 supper, lad!’
 
-[[The Raven|The raven]] flapped his wings, and, croaking his satisfaction, hopped to
+The raven flapped his wings, and, croaking his satisfaction, hopped to
 the feet of his master, and there held his bill open, ready for snapping
 up such lumps of meat as he should throw him. Of these he received about
 a score in rapid succession, without the smallest discomposure.
@@ -6231,7 +6231,7 @@ when it was midnight, striking one o’[[motifs/clock|clock]], we came down to y
 see if you were [[motifs/well|well]]. You were on your knees. I forget what it was you
 said. Grip, what was it we heard her say that [[motifs/night|night]]?’
 
-‘I’m a devil!’ rejoined [[The Raven|the raven]] promptly.
+‘I’m a devil!’ rejoined the raven promptly.
 
 ‘No, no,’ said Barnaby. ‘But you said something in a [[motifs/prayer|prayer]]; and when
 you [[motifs/rose|rose]] and walked about, you looked (as you have done ever since,
@@ -6261,7 +6261,7 @@ the ket--’ and there stop short, forgetting the remainder, and go off in
 a doze again.
 
 After a long interval, Barnaby’s breathing grew more deep and regular,
-and his eyes were closed. But even then the unquiet spirit of [[The Raven|the raven]]
+and his eyes were closed. But even then the unquiet spirit of the raven
 interposed. ‘Polly put the ket--’ cried Grip, and his master was broad
 awake again.
 
@@ -6291,7 +6291,7 @@ a--Polly put the ket-tle on, we’ll all have tea.’
 They stood rooted to the ground, as though it had been a voice from the
 [[motifs/grave|grave]].
 
-But even this failed to awaken [[The Sleeper|the sleeper]]. He turned over towards the
+But even this failed to awaken the sleeper. He turned over towards the
 [[motifs/fire|fire]], his arm fell to the ground, and his head drooped heavily upon it.
 The widow and her unwelcome visitor gazed at him and at each other for a
 moment, and then she motioned him towards the door.
@@ -6333,7 +6333,7 @@ to digest it. Do not forget my warning.’
 
 He pointed, as he left her, to the slumbering form, and stealthily
 withdrawing, made his way into the street. She fell on her knees beside
-[[The Sleeper|the sleeper]], and remained like one stricken into stone, until the [[motifs/tears|tears]]
+the sleeper, and remained like one stricken into stone, until the [[motifs/tears|tears]]
 which [[concepts/fear|fear]] had frozen so long, came tenderly to her relief.
 
 ‘Oh Thou,’ she cried, ‘who hast taught me such deep [[motifs/love|love]] for this one
@@ -6353,7 +6353,7 @@ Chapter 18
 
 
 Gliding along the silent streets, and holding his course where they were
-darkest and most gloomy, the man who had left the widow’s [[house]] crossed
+darkest and most gloomy, the man who had left the widow’s house crossed
 [[settings/london|London]] Bridge, and arriving in the [[motifs/city|City]], plunged into the backways,
 lanes, and courts, between Cornhill and Smithfield; with no more
 fixedness of purpose than to lose himself among their windings, and
@@ -6367,7 +6367,7 @@ from these partakers of his lonely walk, and, shrinking in some arch or
 doorway while they passed, issued forth again when they were gone and so
 pursued his solitary way.
 
-To be shelterless and [[Alone|alone]] in the open country, hearing the [[motifs/wind|wind]] moan
+To be shelterless and alone in the open country, hearing the [[motifs/wind|wind]] moan
 and watching for day through the whole long weary [[motifs/night|night]]; to listen to
 the falling rain, and crouch for warmth beneath the lee of some old
 barn or rick, or in the hollow of a tree; are dismal things--but not
@@ -6375,15 +6375,15 @@ so dismal as the wandering up and down where shelter is, and beds and
 sleepers are by thousands; a houseless rejected creature. To pace
 the echoing stones from hour to hour, counting the dull chimes of the
 clocks; to watch the lights twinkling in chamber windows, to think what
-happy forgetfulness each [[house]] shuts in; that here are children coiled
+happy forgetfulness each house shuts in; that here are children coiled
 together in their beds, here youth, here age, here [[concepts/poverty|poverty]], here wealth,
 all equal in their [[motifs/sleep|sleep]], and all at rest; to have nothing in common
 with the slumbering world around, not even [[motifs/sleep|sleep]], Heaven’s gift to
 all its creatures, and be akin to nothing but [[concepts/despair|despair]]; to feel, by the
-wretched contrast with everything on every hand, more utterly [[Alone|alone]] and
+wretched contrast with everything on every hand, more utterly alone and
 cast away than in a trackless [[motifs/desert|desert]]; this is a kind of [[concepts/suffering|suffering]], on
 which the rivers of great cities close full many a [[motifs/time|time]], and which the
-[[concepts/solitude|solitude]] in crowds [[Alone|alone]] awakens.
+[[concepts/solitude|solitude]] in crowds alone awakens.
 
 The miserable man paced up and down the streets--so long, so wearisome,
 so like each other--and often cast a wistful look towards the east,
@@ -6391,14 +6391,14 @@ hoping to see the first faint streaks of day. But obdurate [[motifs/night|night]
 yet possession of the sky, and his disturbed and restless walk found no
 relief.
 
-One [[house]] in a back street was bright with the cheerful glare of lights;
+One house in a back street was bright with the cheerful glare of lights;
 there was the sound of music in it too, and the tread of dancers,
 and there were cheerful voices, and many a burst of laughter. To this
 place--to be near something that was awake and glad--he returned again
 and again; and more than one of those who left it when the merriment
 was at its height, felt it a check upon their mirthful mood to see him
 flitting to and fro like an uneasy [[archetypes/ghost|ghost]]. At last the guests departed,
-one and all; and then the [[house]] was close shut up, and became as dull
+one and all; and then the house was close shut up, and became as dull
 and silent as the rest.
 
 His wanderings brought him at one [[motifs/time|time]] to the [[motifs/city|city]] jail. Instead of
@@ -6534,7 +6534,7 @@ glancing keenly round. ‘You will not mind that?’
 He bade him lead the way, and, by the light of the torch which his
 conductor held up for the purpose, inspected all three cellars narrowly.
 Assured that the blind man had spoken [[concepts/truth|truth]], and that he lived there
-[[Alone|alone]], the visitor returned with him to the first, in which a [[motifs/fire|fire]] was
+alone, the visitor returned with him to the first, in which a [[motifs/fire|fire]] was
 burning, and flung himself with a deep groan upon the ground before it.
 
 His host pursued his usual occupation without seeming to heed him any
@@ -6640,7 +6640,7 @@ mind that, sir, if you please. It’s his way at [[motifs/home|home]]. Out of do
 can be cheerful and talkative enough.’
 
 Now, the fact was, that the unfortunate locksmith, blessing his [[motifs/stars|stars]] to
-find his helpmate in such good [[Humour|humour]], had been sitting with a beaming
+find his helpmate in such good humour, had been sitting with a beaming
 face, hearing this discourse with a joy past all expression. Wherefore
 this sudden attack quite took him by surprise.
 
@@ -6662,7 +6662,7 @@ it. But I am used to it,’ said the lady with a kind of solemn titter,
 
 ‘Let me give you MY word, my dear,’ interposed his wife with a Christian
 smile, ‘that such discussions as these between married people, are much
-better left [[Alone|alone]]. Therefore, if you please, Varden, we’ll drop the
+better left alone. Therefore, if you please, Varden, we’ll drop the
 subject. I have no wish to pursue it. I could. I might say a great deal.
 But I would rather not. Pray don’t say any more.’
 
@@ -6700,7 +6700,7 @@ This little incident, illustrative though it was of Mrs Varden’s
 extraordinary sweetness and amiability, had so strong a tendency to
 check the conversation and to disconcert all parties but that excellent
 lady, that only a few monosyllables were uttered until Edward withdrew;
-which he presently did, thanking the lady of the [[house]] a great many
+which he presently did, thanking the lady of the house a great many
 times for her condescension, and whispering in Dolly’s ear that he would
 call on the morrow, in case there should happen to be an answer to the
 note--which, indeed, she knew without his telling, as Barnaby and his
@@ -6741,7 +6741,7 @@ a kind of frenzy, ‘nobody does know, I verily believe, but Miggs!’
 
 ‘Miggs,’ said Mrs Varden faintly, and with symptoms of approaching
 incoherence, ‘is attached to me, and that is sufficient to draw down
-hatred upon her in this [[house]]. She is a comfort to me, whatever she may
+hatred upon her in this house. She is a comfort to me, whatever she may
 be to others.’
 
 ‘She’s no comfort to me,’ cried Gabriel, made bold by [[concepts/despair|despair]]. ‘She’s
@@ -6761,7 +6761,7 @@ such occasions; and being supported upstairs, was deposited in a highly
 spasmodic state on her own bed, where Miss Miggs shortly afterwards
 flung herself upon the [[concepts/body|body]].
 
-The [[philosophy]] of all this was, that Mrs Varden wanted to go to
+The philosophy of all this was, that Mrs Varden wanted to go to
 Chigwell; that she did not want to make any concession or explanation;
 that she would only go on being implored and entreated so to do; and
 that she would accept no other terms. Accordingly, after a vast amount
@@ -6853,11 +6853,11 @@ or vied with her lips, or shed a new bloom on her face, she wore such
 a cruel little muff, and such a heart-rending pair of shoes, and was so
 surrounded and hemmed in, as it were, by aggravations of all kinds, that
 when Mr Tappettit, holding the [[motifs/horse|horse]]’s head, saw her come out of the
-[[house]] [[Alone|alone]], such impulses came over him to decoy her into the chaise
+house alone, such impulses came over him to decoy her into the chaise
 and drive off like mad, that he would unquestionably have done it, but
 for certain uneasy doubts besetting him as to the shortest way to
 Gretna Green; whether it was up the street or down, or up the right-hand
-turning or the left; and whether, supposing all the [[turnpikes]] to be
+turning or the left; and whether, supposing all the turnpikes to be
 carried by [[motifs/storm|storm]], the blacksmith in the end would marry them on credit;
 which by reason of his clerical office appeared, even to his excited
 [[concepts/imagination|imagination]], so unlikely, that he hesitated. And while he stood
@@ -6870,7 +6870,7 @@ lightly, and Dolly was inside; and now it was gone and its place
 was empty, and he and that dreary Miggs were standing in the street
 together.
 
-The hearty locksmith was in as good a [[Humour|humour]] as if nothing had occurred
+The hearty locksmith was in as good a humour as if nothing had occurred
 for the last twelve months to put him out of his way, Dolly was all
 smiles and graces, and Mrs Varden was agreeable beyond all precedent. As
 they jogged through the streets talking of this thing and of that, who
@@ -6933,7 +6933,7 @@ with the best grace in the world. Then old John, who, entertaining a
 dull and foggy sort of idea that Mrs Varden wasn’t fond of him, had been
 in some [[concepts/doubt|doubt]] whether she might not have come for purposes of assault
 and battery, took [[concepts/courage|courage]], hoped she was [[motifs/well|well]], and offered to conduct
-her into the [[house]]. This tender being amicably received, they marched
+her into the house. This tender being amicably received, they marched
 in together; Joe and Dolly followed, arm-in-arm, (happiness again!) and
 Varden brought up the rear.
 
@@ -6951,13 +6951,13 @@ presses, such drawers full of pipes, such places for putting things
 away in hollow [[motifs/window|window]]-seats, all crammed to the throat with eatables,
 drinkables, or savoury condiments; lastly, and to [[motifs/crown|crown]] all, as typical
 of the immense resources of the establishment, and its defiances to all
-visitors to cut and come again, such a stupendous [[cheese]]!
+visitors to cut and come again, such a stupendous cheese!
 
 It is a poor heart that never rejoices--it must have been the poorest,
 weakest, and most watery heart that ever beat, which would not have
 warmed towards the Maypole bar. Mrs Varden’s did directly. She could no
 more have reproached John Willet among those household gods, the kegs
-and bottles, lemons, pipes, and [[cheese]], than she could have stabbed him
+and bottles, lemons, pipes, and cheese, than she could have stabbed him
 with his own bright carving-knife. The order for dinner too--it might
 have soothed a savage. ‘A bit of fish,’ said John to the cook, ‘and some
 [[motifs/lamb|lamb]] chops (breaded, with plenty of ketchup), and a good salad, and a
@@ -6995,7 +6995,7 @@ Chapter 20
 
 
 The proud consciousness of her trust, and the great importance she
-derived from it, might have advertised it to all the [[house]] if she had
+derived from it, might have advertised it to all the house if she had
 had to run the gauntlet of its inhabitants; but as Dolly had played in
 every dull room and passage many and many a [[motifs/time|time]], when a [[archetypes/child|child]], and had
 ever since been the humble friend of Miss Haredale, whose foster-sister
@@ -7010,7 +7010,7 @@ would make a [[motifs/prison|prison]] cheerful (saving alas! that confinement wi
 them), and lend some charms of their own to the gloomiest scene. [[motifs/birds|Birds]],
 [[motifs/flowers|flowers]], books, drawing, music, and a hundred such graceful tokens of
 feminine loves and cares, filled it with more of life and human sympathy
-than the whole [[house]] besides seemed made to hold. There was heart in
+than the whole house besides seemed made to hold. There was heart in
 the room; and who that has a heart, ever fails to recognise the silent
 presence of another!
 
@@ -7080,13 +7080,13 @@ pressing; and when they had settled this point, they went to walk in the
 
 They strolled up and down the terrace walks, talking incessantly--at
 least, Dolly never left off once--and making that quarter of the sad and
-mournful [[house]] quite gay. Not that they talked loudly or laughed much,
+mournful house quite gay. Not that they talked loudly or laughed much,
 but they were both so very handsome, and it was such a breezy day, and
 their light dresses and dark curls appeared so free and joyous in
 their abandonment, and [[works/emma-(austen)|Emma]] was so fair, and Dolly so rosy, and [[works/emma-(austen)|Emma]]
 so delicately shaped, and Dolly so plump, and--in short, there are no
 [[motifs/flowers|flowers]] for any [[motifs/garden|garden]] like such [[motifs/flowers|flowers]], let horticulturists say what
-they may, and both [[house]] and [[motifs/garden|garden]] seemed to know it, and to brighten
+they may, and both house and [[motifs/garden|garden]] seemed to know it, and to brighten
 up sensibly.
 
 After this, came the dinner and the letter writing, and some more
@@ -7193,7 +7193,7 @@ anxious to go. Don’t let me detain you.’
 
 Dolly didn’t let him, nor did she wait for him to try, for the words
 had no sooner passed his lips than she was out of the room, out of the
-[[house]], and in the fields again.
+house, and in the fields again.
 
 The first thing to be done, of course, when she came to herself and
 considered what a flurry she had been in, was to cry afresh; and the
@@ -7207,7 +7207,7 @@ just visible, and resumed her walk.
 
 The twilight had come on, and it was quickly growing dusk, but the path
 was so familiar to her from frequent traversing that she hardly thought
-of this, and certainly felt no uneasiness at being left [[Alone|alone]]. Moreover,
+of this, and certainly felt no uneasiness at being left alone. Moreover,
 there was the bracelet to admire; and when she had given it a good
 rub, and held it out at arm’s length, it sparkled and glittered so
 beautifully on her wrist, that to look at it in every point of view and
@@ -7336,7 +7336,7 @@ are going to tell, stop when the words are on your lips, and think of
 the mischief you’ll bring, if you do, upon some [[archetypes/innocent|innocent]] heads that you
 wouldn’t wish to hurt a hair of. Bring trouble on me, and I’ll bring
 trouble and something more on them in return. I care no more for them
-than for so many [[dogs]]; not so much--why should I? I’d sooner kill a man
+than for so many dogs; not so much--why should I? I’d sooner kill a man
 than a dog any day. I’ve never been sorry for a man’s [[motifs/death|death]] in all my
 life, and I have for a dog’s.’
 
@@ -7570,14 +7570,14 @@ had given at the Maypole, which Joe undertook to deliver as soon as the
 family were stirring next day. That done, they sat down to tea in the
 bar, where there was an uncommon display of buttered toast, and--in
 order that they might not grow faint for want of sustenance, and
-might have a decent halting-place or halfway [[house]] between dinner and
+might have a decent halting-place or halfway house between dinner and
 supper--a few savoury trifles in the shape of great rashers of broiled
 ham, which being [[motifs/well|well]] cured, done to a turn, and smoking hot, sent forth
 a tempting and delicious fragrance.
 
 Mrs Varden was seldom very Protestant at meals, unless it happened that
 they were underdone, or overdone, or indeed that anything occurred to
-put her out of [[Humour|humour]]. Her spirits [[motifs/rose|rose]] considerably on beholding these
+put her out of humour. Her spirits [[motifs/rose|rose]] considerably on beholding these
 goodly preparations, and from the nothingness of good works, she passed
 to the somethingness of ham and toast with great cheerfulness. Nay,
 under the influence of these wholesome stimulants, she sharply reproved
@@ -7674,7 +7674,7 @@ not safe just now, he says, and you’d better have a companion.’
 
 ‘Ride on then,’ said Joe. ‘I’m not going to turn yet.’
 
-Hugh complied, and they went on again. It was his whim or [[Humour|humour]] to
+Hugh complied, and they went on again. It was his whim or humour to
 ride immediately before the chaise, and from this position he constantly
 turned his head, and looked back. Dolly felt that he looked at her, but
 she averted her eyes and feared to raise them once, so great was the
@@ -7773,7 +7773,7 @@ have to do violence to her feelings so far as to be married; and that
 a state requiring great fortitude and forbearance. She represented to
 her in lively colours, that if she (Mrs V.) had not, in steering her
 course through this vale of [[motifs/tears|tears]], been supported by a strong principle
-of duty which [[Alone|alone]] upheld and prevented her from drooping, she must
+of duty which alone upheld and prevented her from drooping, she must
 have been in her [[motifs/grave|grave]] many years ago; in which case she desired to know
 what would have become of that errant spirit (meaning the locksmith), of
 whose eye she was the very apple, and in whose path she was, as it were,
@@ -7847,7 +7847,7 @@ seated; ‘beware!’
 ‘My [[motifs/stars|stars]], Simmun!’ cried Miggs, in affected astonishment. ‘You frighten
 me to [[motifs/death|death]]! What’s the matter?’
 
-‘There are strings,’ said Mr Tappertit, flourishing his bread-and-[[cheese]]
+‘There are strings,’ said Mr Tappertit, flourishing his bread-and-cheese
 knife in the air, ‘in the human heart that had better not be wibrated.
 That’s what’s the matter.’
 
@@ -7857,7 +7857,7 @@ That’s what’s the matter.’
 do you mean, Jezebel? What were you going to say? Answer me!’
 
 Notwithstanding this uncivil exhortation, Miggs gladly did as she was
-required; and told him how that their young mistress, being [[Alone|alone]] in
+required; and told him how that their young mistress, being alone in
 the meadows after dark, had been attacked by three or four tall men, who
 would have certainly borne her away and perhaps murdered her, but for
 the timely arrival of Joseph Willet, who with his own single hand put
@@ -7914,13 +7914,13 @@ but bed before him.
 ‘Upon my [[concepts/honour|honour]],’ he said, at length raising his eyes to the ceiling
 with the air of a man who was reflecting seriously on what he had
 read; ‘upon my [[concepts/honour|honour]], the most masterly composition, the most delicate
-thoughts, the finest code of [[morality]], and the most gentlemanly
+thoughts, the finest code of morality, and the most gentlemanly
 sentiments in the universe! Ah Ned, Ned, if you would but form your mind
 by such precepts, we should have but one common feeling on every subject
 that could possibly arise between us!’
 
 This apostrophe was addressed, like the rest of his remarks, to empty
-air: for Edward was not present, and the father was quite [[Alone|alone]].
+air: for Edward was not present, and the father was quite alone.
 
 ‘My Lord Chesterfield,’ he said, pressing his hand tenderly upon the
 book as he laid it down, ‘if I could but have profited by your genius
@@ -7958,7 +7958,7 @@ the Day of Judgment.
 
 Mr Chester, having extolled his favourite author, as above recited,
 took up the book again in the excess of his admiration and was composing
-himself for a further perusal of its [[concepts/sublime|sublime]] [[morality]], when he was
+himself for a further perusal of its [[concepts/sublime|sublime]] morality, when he was
 disturbed by a noise at the outer door; occasioned as it seemed by the
 endeavours of his servant to obstruct the entrance of some unwelcome
 visitor.
@@ -8026,7 +8026,7 @@ spot as uncertain what to do next, eyeing him sulkily from [[motifs/time|time]] 
 ‘Are you going to speak to me, master?’ he said, after a long [[motifs/silence|silence]].
 
 ‘My worthy creature,’ returned Mr Chester, ‘you are a little ruffled and
-out of [[Humour|humour]]. I’ll wait till you’re quite yourself again. I am in no
+out of humour. I’ll wait till you’re quite yourself again. I am in no
 hurry.’
 
 This behaviour had its intended effect. It humbled and abashed the man,
@@ -8300,7 +8300,7 @@ or beast, always are so very hideous.’
 ‘Such a dog as that, and one of the same breed, was the only living
 thing except me that howled that day,’ said Hugh. ‘Out of the two
 thousand odd--there was a larger crowd for its being a woman--the dog
-and I [[Alone|alone]] had any pity. If he’d have been a man, he’d have been
+and I alone had any pity. If he’d have been a man, he’d have been
 glad to be quit of her, for she had been forced to keep him lean and
 half-starved; but being a dog, and not having a man’s sense, he was
 sorry.’
@@ -8321,7 +8321,7 @@ Good [[motifs/night|night]]! bless you!’
 Hugh truckled before the hidden meaning of these words as much as such
 a being could, and crept out of the door so submissively and
 subserviently--with an air, in short, so different from that with which
-he had entered--that his patron on being left [[Alone|alone]], smiled more than
+he had entered--that his patron on being left alone, smiled more than
 ever.
 
 ‘And yet,’ he said, as he took a pinch of snuff, ‘I do not like their
@@ -8472,7 +8472,7 @@ this was something like the respect to which he was entitled, and drew
 a comparison from this courteous demeanour of a stranger, by no means
 favourable to the worthy locksmith.
 
-‘From what passes in our [[house]],’ said Mr Tappertit, ‘I am aware, sir,
+‘From what passes in our house,’ said Mr Tappertit, ‘I am aware, sir,
 that your son keeps company with a young lady against your inclinations.
 Sir, your son has not used me [[motifs/well|well]].’
 
@@ -8528,10 +8528,10 @@ point’s got, there’s nothing ever will prevent her. Mind that.’
 get rid of and have kidnapped and carried off at the very least--nothing
 less will do--will marry your son to that young woman, as certainly and
 as surely as if he was the Archbishop of Canterbury himself. He will,
-sir, for the hatred and malice that he bears to you; let [[Alone|alone]] the
+sir, for the hatred and malice that he bears to you; let alone the
 pleasure of doing a bad action, which to him is its own reward. If you
 knew how this chap, this Joseph Willet--that’s his name--comes backwards
-and forwards to our [[house]], libelling, and denouncing, and threatening
+and forwards to our house, libelling, and denouncing, and threatening
 you, and how I shudder when I hear him, you’d hate him worse than I
 do,--worse than I do, sir,’ said Mr Tappertit wildly, putting his hair
 up straighter, and making a crunching noise with his teeth; ‘if sich a
@@ -8587,7 +8587,7 @@ The widow, to whom each painful mile seemed longer than the last, toiled
 wearily along; while Barnaby, yielding to every inconstant impulse,
 fluttered here and there, now leaving her far behind, now lingering far
 behind himself, now darting into some by-lane or path and leaving her
-to pursue her way [[Alone|alone]], until he stealthily emerged again and came upon
+to pursue her way alone, until he stealthily emerged again and came upon
 her with a wild shout of merriment, as his wayward and capricious [[concepts/nature|nature]]
 prompted. Now he would call to her from the topmost branch of some high
 tree by the roadside; now using his tall staff as a leaping-pole, come
@@ -8612,7 +8612,7 @@ Ye men of gloom and austerity, who paint the face of Infinite
 Benevolence with an eternal frown; read in the Everlasting Book, wide
 open to your view, the lesson it would teach. Its pictures are not in
 black and sombre hues, but bright and glowing tints; its music--save
-when ye drown it--is not in sighs and groans, but [[songs]] and cheerful
+when ye drown it--is not in sighs and groans, but songs and cheerful
 sounds. Listen to the million voices in the [[motifs/summer|summer]] air, and find one
 dismal as your own. Remember, if ye can, the sense of [[concepts/hope|hope]] and pleasure
 which every glad return of day awakens in the breast of all your kind
@@ -8644,7 +8644,7 @@ infinitely worse, so ghastly and unchildlike in its cunning--came back
 as vividly as if but yesterday had intervened. The room in which they
 used to be; the spot in which his cradle stood; he, old and elfin-like
 in face, but ever dear to her, gazing at her with a wild and vacant
-eye, and crooning some uncouth [[Song|song]] as she sat by and rocked him; every
+eye, and crooning some uncouth song as she sat by and rocked him; every
 circumstance of his infancy came thronging back, and the most trivial,
 perhaps, the most distinctly.
 
@@ -8658,7 +8658,7 @@ grew a man, and then his [[motifs/childhood|childhood]] was complete and lasting
 another, all these old thoughts sprung up within her, strong after their
 long slumber and bitterer than ever.
 
-She took his arm and they hurried through [[The Village Street|the village street]]. It was
+She took his arm and they hurried through the village street. It was
 the same as it was wont to be in old times, yet different too, and wore
 another air. The change was in herself, not it; but she never thought of
 that, and wondered at its alteration, and where it lay, and what it was.
@@ -8666,8 +8666,8 @@ that, and wondered at its alteration, and where it lay, and what it was.
 The people all knew Barnaby, and the children of the place came flocking
 round him--as she remembered to have done with their fathers and mothers
 round some silly beggarman, when a [[archetypes/child|child]] herself. None of them knew her;
-they passed each [[motifs/well|well]]-remembered [[house]], and yard, and homestead; and
-striking into the fields, were soon [[Alone|alone]] again.
+they passed each [[motifs/well|well]]-remembered house, and yard, and homestead; and
+striking into the fields, were soon alone again.
 
 The Warren was the end of their [[motifs/journey|journey]]. Mr Haredale was walking in the
 [[motifs/garden|garden]], and seeing them as they passed the iron gate, unlocked it, and
@@ -8694,13 +8694,13 @@ determined to relapse? This is unworthy of you. I have often told you,
 you should return here. You would be happier here than elsewhere, I
 know. As to Barnaby, it’s quite his [[motifs/home|home]].’
 
-‘And Grip’s,’ said Barnaby, holding the basket open. [[The Raven|The raven]] hopped
+‘And Grip’s,’ said Barnaby, holding the basket open. The raven hopped
 gravely out, and perching on his shoulder and addressing himself to Mr
 Haredale, cried--as a hint, perhaps, that some temperate refreshment
 would be acceptable--‘Polly put the ket-tle on, we’ll all have tea!’
 
 ‘Hear me, Mary,’ said Mr Haredale kindly, as he motioned her to walk
-with him towards the [[house]]. ‘Your life has been an example of patience
+with him towards the house. ‘Your life has been an example of patience
 and fortitude, except in this one particular which has often given me
 great [[motifs/pain|pain]]. It is enough to know that you were cruelly involved in the
 calamity which deprived me of an only brother, and [[works/emma-(austen)|Emma]] of her father,
@@ -8719,7 +8719,7 @@ the [[concepts/truth|truth]]!’
 
 ‘It is natural you should do so; it is very probable you may, without
 being conscious of it,’ said Mr Haredale, speaking more to himself than
-her. ‘We are a fallen [[house]]. Money, dispensed with the most lavish
+her. ‘We are a fallen house. Money, dispensed with the most lavish
 hand, would be a poor recompense for sufferings like yours; and thinly
 scattered by hands so pinched and tied as ours, it becomes a miserable
 mockery. I feel it so, God knows,’ he added, hastily. ‘Why should I
@@ -8752,7 +8752,7 @@ come to you?’
 last [[motifs/night|night]], and taking it, felt that I must not lose a day--a day! an
 hour--in having speech with you.’
 
-They had by this [[motifs/time|time]] reached the [[house]]. Mr Haredale paused for a
+They had by this [[motifs/time|time]] reached the house. Mr Haredale paused for a
 moment, and looked at her as if surprised by the energy of her manner.
 Observing, however, that she took no heed of him, but glanced up,
 shuddering, at the old walls with which such horrors were connected in
@@ -8783,7 +8783,7 @@ chamber where the act was done--dull, dark, and sombre; heavy with
 worm-eaten books; deadened and shut in by faded hangings, muffling every
 sound; shadowed mournfully by trees whose rustling boughs gave ever and
 anon a spectral knocking at the glass; wore, beyond all others in
-the [[house]], a ghostly, gloomy air. Nor were the group assembled there,
+the house, a ghostly, gloomy air. Nor were the group assembled there,
 unfitting tenants of the spot. The widow, with her marked and startling
 face and downcast eyes; Mr Haredale stern and despondent ever; his niece
 beside him, like, yet most unlike, the picture of her father, which
@@ -8813,7 +8813,7 @@ you know is yours of right, and freely yours.’
 
 ‘What if I came, sir,’ she rejoined, ‘I who have but one other friend on
 earth, to reject your aid from this moment, and to say that henceforth
-I launch myself upon the world, [[Alone|alone]] and unassisted, to sink or swim as
+I launch myself upon the world, alone and unassisted, to sink or swim as
 Heaven may decree!’
 
 ‘You would have, if you came to me for such a purpose,’ said Mr Haredale
@@ -8835,7 +8835,7 @@ firmer voice and heightened [[concepts/courage|courage]].
 will speak for me, I know--that I have lived, since that [[motifs/time|time]] we all
 have bitter reason to remember, in unchanging devotion, and gratitude to
 this family. Heaven is my witness that go where I may, I shall preserve
-those feelings unimpaired. And it is my witness, too, that they [[Alone|alone]]
+those feelings unimpaired. And it is my witness, too, that they alone
 impel me to the course I must take, and from which nothing now shall
 turn me, as I [[concepts/hope|hope]] for [[concepts/mercy|mercy]].’
 
@@ -8849,14 +8849,14 @@ explained. In another, the [[concepts/truth|Truth]] will be discovered in its ow
 doubtful of my own senses. Do you mean that you are resolved voluntarily
 to deprive yourself of those means of support you have received from us
 so long--that you are determined to resign the annuity we settled on you
-twenty years ago--to leave [[house]], and [[motifs/home|home]], and goods, and begin life
+twenty years ago--to leave house, and [[motifs/home|home]], and goods, and begin life
 anew--and this, for some secret reason or monstrous fancy which is
 incapable of explanation, which only now exists, and has been dormant
 all this [[motifs/time|time]]? In the name of God, under what delusion are you
 labouring?’
 
 ‘As I am deeply thankful,’ she made answer, ‘for the kindness of those,
-alive and dead, who have owned this [[house]]; and as I would not have its
+alive and dead, who have owned this house; and as I would not have its
 roof fall down and crush me, or its very walls drip [[motifs/blood|blood]], my name being
 spoken in their hearing; I never will again subsist upon their bounty,
 or let it help me to subsistence. You do not know,’ she added, suddenly,
@@ -8868,7 +8868,7 @@ I renounce it.’
 ‘They did. They rest with me no longer. It may be--it IS--devoted to
 purposes that mock the dead in their graves. It never can prosper with
 me. It will bring some other heavy judgement on the head of my dear son,
-whose [[innocence]] will suffer for his mother’s [[concepts/guilt|guilt]].’
+whose innocence will suffer for his mother’s [[concepts/guilt|guilt]].’
 
 ‘What words are these!’ cried Mr Haredale, regarding her with [[concepts/wonder|wonder]].
 ‘Among what associates have you fallen? Into what [[concepts/guilt|guilt]] have you ever
@@ -8877,7 +8877,7 @@ been betrayed?’
 ‘I am guilty, and yet [[archetypes/innocent|innocent]]; wrong, yet right; good in intention,
 though constrained to shield and aid the bad. Ask me no more questions,
 sir; but believe that I am rather to be pitied than condemned. I must
-leave my [[house]] to-morrow, for while I stay there, it is haunted. My
+leave my house to-morrow, for while I stay there, it is haunted. My
 future dwelling, if I am to live in peace, must be a secret. If my poor
 boy should ever stray this way, do not tempt him to disclose it or have
 him watched when he returns; for if we are hunted, we must fly again.
@@ -8897,19 +8897,19 @@ of whom, as a young person and one of her own sex, she might stand in
 less dread than of himself. From this proposal, however, she recoiled
 with the same indescribable repugnance she had manifested when they met.
 The utmost that could be wrung from her was, a promise that she would
-receive Mr Haredale at her own [[house]] next evening, and in the mean [[motifs/time|time]]
+receive Mr Haredale at her own house next evening, and in the mean [[motifs/time|time]]
 reconsider her determination and their dissuasions--though any change on
 her part, as she told them, was quite hopeless. This condition made at
 last, they reluctantly suffered her to depart, since she would neither
-eat nor drink within the [[house]]; and she, and Barnaby, and Grip,
+eat nor drink within the house; and she, and Barnaby, and Grip,
 accordingly went out as they had come, by the private stair and
 [[motifs/garden|garden]]-gate; seeing and being seen of no one by the way.
 
-It was remarkable in [[The Raven|the raven]] that during the whole interview he
+It was remarkable in the raven that during the whole interview he
 had kept his eye on his book with exactly the air of a very sly human
 rascal, who, under the mask of pretending to read hard, was listening to
 everything. He still appeared to have the conversation very strongly in
-his mind, for although, when they were [[Alone|alone]] again, he issued orders for
+his mind, for although, when they were alone again, he issued orders for
 the instant preparation of innumerable kettles for purposes of tea, he
 was thoughtful, and rather seemed to do so from an abstract sense of
 duty, than with any regard to making himself agreeable, or being what is
@@ -8932,7 +8932,7 @@ and carry thither such humble viands as they required, he cheerfully
 assented, and in the churchyard they sat down to take their frugal
 dinner.
 
-Here again, [[The Raven|the raven]] was in a highly reflective state; walking up and
+Here again, the raven was in a highly reflective state; walking up and
 down when he had dined, with an air of elderly complacency which was
 strongly suggestive of his having his hands under his coat-tails; and
 appearing to read the tombstones with a very critical taste. Sometimes,
@@ -8954,7 +8954,7 @@ sound; and Grip, who appeared to understand it equally [[motifs/well|well]], wal
 into his basket straightway, entreating society in general (as though
 he intended a kind of [[forms/satire|satire]] upon them in connection with churchyards)
 never to say die on any terms. They were soon on the coach-top and
-[[rolling]] along the [[motifs/road|road]].
+rolling along the [[motifs/road|road]].
 
 It went round by the Maypole, and stopped at the door. Joe was from
 [[motifs/home|home]], and Hugh came sluggishly out to hand up the parcel that it called
@@ -9003,7 +9003,7 @@ you expected me to be, certainly.’
 ‘I have seen, sir,’ returned the locksmith with evident reluctance,
 ‘I have seen in connection with her, something that has filled me with
 distrust and uneasiness. She has made bad friends, how, or when, I don’t
-know; but that her [[house]] is a refuge for one robber and cut-throat at
+know; but that her house is a refuge for one robber and cut-throat at
 least, I am certain. There, sir! Now it’s out.’
 
 ‘Varden!’
@@ -9012,7 +9012,7 @@ least, I am certain. There, sir! Now it’s out.’
 willingly half-blind, if I could but have the pleasure of mistrusting
 ‘em. I have kept the secret till now, and it will go no further than
 yourself, I know; but I tell you that with my own eyes--broad awake--I
-saw, in the passage of her [[house]] one evening after dark, the highwayman
+saw, in the passage of her house one evening after dark, the highwayman
 who robbed and wounded Mr [[characters/edward-chester|Edward Chester]], and on the same [[motifs/night|night]]
 threatened me.’
 
@@ -9026,7 +9026,7 @@ the [[motifs/night|night]] in question.
 This dialogue was held in a low tone in the locksmith’s little parlour,
 into which honest Gabriel had shown his visitor on his arrival. Mr
 Haredale had called upon him to entreat his company to the widow’s, that
-he might have the assistance of his [[Persuasion|persuasion]] and influence; and out of
+he might have the assistance of his persuasion and influence; and out of
 this circumstance the conversation had arisen.
 
 ‘I forbore,’ said Gabriel, ‘from repeating one word of this to anybody,
@@ -9110,7 +9110,7 @@ parley. The locksmith complied right willingly; and both getting into a
 hackney coach which was waiting at the door, drove off straightway.
 
 They alighted at the street corner, and dismissing their conveyance,
-walked to the [[house]]. To their first knock at the door there was no
+walked to the house. To their first knock at the door there was no
 response. A second met with the like result. But in answer to the third,
 which was of a more vigorous kind, the parlour [[motifs/window|window]]-sash was gently
 raised, and a musical voice cried:
@@ -9407,7 +9407,7 @@ what he desired!
 
 ‘The only thing I object to in this little trait of Ned’s, is,’ said Mr
 Chester, ‘--and the mention of his name reminds me, by the way, that I
-am about to beg the favour of a minute’s talk with you [[Alone|alone]]--the only
+am about to beg the favour of a minute’s talk with you alone--the only
 thing I object to in it, is, that it DOES partake of insincerity. Now,
 however I may attempt to disguise the fact from myself in my affection
 for Ned, still I always revert to this--that if we are not sincere, we
@@ -9426,7 +9426,7 @@ Now, to be sure, Mrs Varden thought, here is a perfect character. Here
 is a meek, righteous, thoroughgoing Christian, who, having mastered all
 these qualities, so difficult of attainment; who, having dropped a pinch
 of salt on the tails of all the cardinal virtues, and caught them every
-one; makes light of their possession, and pants for more [[morality]]. For
+one; makes light of their possession, and pants for more morality. For
 the good woman never doubted (as many good men and women never do), that
 this slighting kind of profession, this setting so little store by great
 matters, this seeming to say, ‘I am not proud, I am what you hear, but I
@@ -9503,7 +9503,7 @@ apart even from these, points of religious difference, which interpose
 themselves, and render their [[concepts/union|union]] impossible; utterly im-possible.
 I should have mentioned these circumstances to your husband; but he
 has--you will excuse my saying this so freely--he has NOT your quickness
-of apprehension or depth of moral sense. What an extremely airy [[house]]
+of apprehension or depth of moral sense. What an extremely airy house
 this is, and how beautifully kept! For one like myself--a widower so
 long--these tokens of female care and superintendence have inexpressible
 charms.’
@@ -9639,10 +9639,10 @@ way. Mrs Varden was but a woman, and had her share of [[concepts/vanity|vanity]]
 and [[motifs/love|love]] of power. She entered into a secret treaty of alliance,
 offensive and defensive, with her insinuating visitor; and really did
 believe, as many others would have done who saw and heard him, that in
-so doing she furthered the ends of [[concepts/truth|truth]], justice, and [[morality]], in a
+so doing she furthered the ends of [[concepts/truth|truth]], justice, and morality, in a
 very uncommon degree.
 
-Overjoyed by the [[success]] of his negotiation, and mightily amused within
+Overjoyed by the success of his negotiation, and mightily amused within
 himself, Mr Chester conducted her downstairs in the same state as
 before; and having repeated the previous ceremony of salutation, which
 also as before comprehended Dolly, took his leave; first completing the
@@ -9686,7 +9686,7 @@ What a very uncertain temper Mrs Varden’s was!
 Chapter 28
 
 
-Repairing to a noted coffee-[[house]] in Covent [[motifs/garden|Garden]] when he left the
+Repairing to a noted coffee-house in Covent [[motifs/garden|Garden]] when he left the
 locksmith’s, Mr Chester sat long over a late dinner, entertaining
 himself exceedingly with the whimsical recollection of his recent
 proceedings, and congratulating himself very much on his great
@@ -9734,7 +9734,7 @@ inspection was, it did not suffice, for he passed the light, still
 carefully shaded as before, across and across his face, and yet observed
 him with a searching eye.
 
-While he was thus engaged, [[The Sleeper|the sleeper]], without any starting or turning
+While he was thus engaged, the sleeper, without any starting or turning
 round, awoke. There was a kind of fascination in meeting his steady gaze
 so suddenly, which took from the other the presence of mind to withdraw
 his eyes, and forced him, as it were, to meet his look. So they remained
@@ -9790,7 +9790,7 @@ himself before his patron.
 
 ‘Now,’ said Mr Chester, ‘what do you want with me?’
 
-‘There was news to-day,’ returned Hugh. ‘Your son was at our [[house]]--came
+‘There was news to-day,’ returned Hugh. ‘Your son was at our house--came
 down on horseback. He tried to see the young woman, but couldn’t get
 sight of her. He left some letter or some message which our Joe had
 charge of, but he and the old one quarrelled about it when your son had
@@ -9806,7 +9806,7 @@ one.--[[motifs/well|Well]]?’
 ‘--and stole the bracelet from upon the [[archetypes/king|king]]’s highway,’ said Mr
 Chester, composedly. ‘Yes; what of her?’
 
-‘She wrote a note at our [[house]] to the young woman, saying she lost the
+‘She wrote a note at our house to the young woman, saying she lost the
 letter I brought to you, and you burnt. Our Joe was to carry it, but
 the old one kept him at [[motifs/home|home]] all next day, on purpose that he shouldn’t.
 Next morning he gave it to me to take; and here it is.’
@@ -9836,11 +9836,11 @@ mornings?’
 
 ‘[[works/alone-(poe)|Alone]]?’
 
-‘Yes, [[Alone|alone]].’
+‘Yes, alone.’
 
 ‘Where?’
 
-‘In the grounds before the [[house]].--Them that the footpath crosses.’
+‘In the grounds before the house.--Them that the footpath crosses.’
 
 ‘If the weather should be fine, I may throw myself in her way to-morrow,
 perhaps,’ said Mr Chester, as coolly as if she were one of his ordinary
@@ -9876,7 +9876,7 @@ sleeping soundly in the stable. Ha ha ha! The stable door is shut, but
 the steed’s gone, master.’
 
 ‘You are a most convivial fellow,’ returned his friend, ‘and I [[motifs/love|love]] your
-[[Humour|humour]] of all things. Good [[motifs/night|night]]! Take the greatest possible care of
+humour of all things. Good [[motifs/night|night]]! Take the greatest possible care of
 yourself, for my sake!’
 
 It was remarkable that during the whole interview, each had endeavoured
@@ -9898,7 +9898,7 @@ up and thought that Hugh was at the outer door, calling in a strange
 voice, very different from his own, to be admitted. The delusion was so
 strong upon him, and was so full of that vague terror of the [[motifs/night|night]]
 in which such visions have their being, that he [[motifs/rose|rose]], and taking his
-sheathed [[Sword|sword]] in his hand, opened the door, and looked out upon the
+sheathed sword in his hand, opened the door, and looked out upon the
 staircase, and towards the spot where Hugh had lain asleep; and even
 spoke to him by name. But all was dark and quiet, and creeping back
 to bed again, he fell, after an hour’s uneasy watching, into a second
@@ -9940,7 +9940,7 @@ Everything was fresh and gay, as though the world were but that morning
 made, when Mr Chester rode at a tranquil pace along the Forest [[motifs/road|road]].
 Though early in the season, it was warm and genial weather; the trees
 were budding into leaf, the hedges and the grass were green, the air was
-musical with [[songs]] of [[motifs/birds|birds]], and high above them all the lark poured
+musical with songs of [[motifs/birds|birds]], and high above them all the lark poured
 out her richest melody. In shady spots, the morning dew sparkled on
 each young leaf and blade of grass; and where the sun was shining, some
 diamond drops yet glistened brightly, as in unwillingness to leave so
@@ -10008,7 +10008,7 @@ to Mr Willet, said,
 ‘You keep strange servants, John.’
 
 ‘Strange enough to look at, sir, certainly,’ answered the host; ‘but out
-of doors; for horses, [[dogs]], and the likes of that; there an’t a better
+of doors; for horses, dogs, and the likes of that; there an’t a better
 man in England than is that Maypole Hugh yonder. He an’t fit for
 indoors,’ added Mr Willet, with the confidential air of a man who felt
 his own superior [[concepts/nature|nature]]. ‘I do that; but if that chap had only a little
@@ -10033,7 +10033,7 @@ Hugh made no answer, but throwing the bridle to his master, and
 snatching his wig from his head, in a manner so unceremonious and hasty
 that the action discomposed Mr Willet not a little, though performed at
 his own special [[motifs/desire|desire]], climbed nimbly to the very summit of the maypole
-before the [[house]], and hanging the wig upon the weathercock, sent it
+before the house, and hanging the wig upon the weathercock, sent it
 twirling round like a roasting jack. Having achieved this performance,
 he cast it on the ground, and sliding down the pole with inconceivable
 rapidity, alighted on his feet almost as soon as it had touched the
@@ -10050,7 +10050,7 @@ Chester’s first visit, and quickly disappearing by the stable gate.
 ‘That with him is nothing,’ repeated Mr Willet, brushing his wig with
 his wrist, and inwardly resolving to distribute a small charge for [[motifs/dust|dust]]
 and damage to that article of dress, through the various items of his
-guest’s bill; ‘he’ll get out of a’most any winder in the [[house]]. There
+guest’s bill; ‘he’ll get out of a’most any winder in the house. There
 never was such a chap for flinging himself about and never hurting his
 bones. It’s my opinion, sir, that it’s pretty nearly allowing to his
 not having any [[concepts/imagination|imagination]]; and that if [[concepts/imagination|imagination]] could be (which it
@@ -10389,11 +10389,11 @@ as though he half expected him to follow and waited for his coming up.
 ‘It MAY come to that one day, but not yet,’ said Mr Chester, waving his
 hand, as though they were the best of friends, and turning away. ‘Not
 yet, Haredale. Life is pleasant enough to me; dull and full of heaviness
-to you. No. To [[motifs/cross|cross]] swords with such a man--to indulge his [[Humour|humour]]
+to you. No. To [[motifs/cross|cross]] swords with such a man--to indulge his humour
 unless upon extremity--would be weak indeed.’
 
-For all that, he drew his [[Sword|sword]] as he walked along, and in an
-absent [[Humour|humour]] ran his eye from hilt to point full twenty times. But
+For all that, he drew his sword as he walked along, and in an
+absent humour ran his eye from hilt to point full twenty times. But
 thoughtfulness begets wrinkles; remembering this, he soon put it up,
 smoothed his contracted brow, hummed a gay tune with greater gaiety of
 manner, and was his unruffled [[concepts/self|self]] again.
@@ -10485,12 +10485,12 @@ gentlemen and their sons, are you, eh? Hold your tongue, sir.’
 
 Joe made no effort to reply. It was the crowning circumstance of his
 degradation. He extricated himself from his father’s grasp, darted an
-angry look at the departing guest, and returned into the [[house]].
+angry look at the departing guest, and returned into the house.
 
 ‘But for her,’ thought Joe, as he threw his arms upon a table in the
 common room, and laid his head upon them, ‘but for Dolly, who I couldn’t
 bear should think me the rascal they would make me out to be if I ran
-away, this [[house]] and I should part to-[[motifs/night|night]].’
+away, this house and I should part to-[[motifs/night|night]].’
 
 It being evening by this [[motifs/time|time]], Solomon Daisy, Tom Cobb, and Long Parkes,
 were all in the common room too, and had from the [[motifs/window|window]] been witnesses
@@ -10499,7 +10499,7 @@ received the compliments of the company with great composure, and
 lighting his pipe, sat down among them.
 
 ‘We’ll see, gentlemen,’ said John, after a long pause, ‘who’s the master
-of this [[house]], and who isn’t. We’ll see whether boys are to govern men,
+of this house, and who isn’t. We’ll see whether boys are to govern men,
 or men are to govern boys.’
 
 ‘And quite right too,’ assented Solomon Daisy with some approving nods;
@@ -10509,14 +10509,14 @@ sir.’
 John slowly brought his eyes to bear upon him, looked at him for a long
 [[motifs/time|time]], and finally made answer, to the unspeakable consternation of his
 hearers, ‘When I want encouragement from you, sir, I’ll ask you for
-it. You let me [[Alone|alone]], sir. I can get on without you, I [[concepts/hope|hope]]. Don’t you
+it. You let me alone, sir. I can get on without you, I [[concepts/hope|hope]]. Don’t you
 tackle me, sir, if you please.’
 
 ‘Don’t take it ill, Johnny; I didn’t mean any harm,’ pleaded the little
 man.
 
 ‘Very good, sir,’ said John, more than usually obstinate after his late
-[[success]]. ‘Never mind, sir. I can stand pretty firm of myself, sir, I
+success. ‘Never mind, sir. I can stand pretty firm of myself, sir, I
 believe, without being shored up by you.’ And having given utterance to
 this retort, Mr Willet fixed his eyes upon the boiler, and fell into a
 kind of tobacco-trance.
@@ -10546,7 +10546,7 @@ talked to, eh, Joe?’
 
 To which Joe returned no answer, but with a very ominous shake of the
 head, resumed his old position, which he would have peacefully preserved
-until the [[house]] shut up at [[motifs/night|night]], but that Mr Cobb, stimulated by the
+until the house shut up at [[motifs/night|night]], but that Mr Cobb, stimulated by the
 [[concepts/wonder|wonder]] of the company at the young man’s presumption, retorted with
 sundry taunts, which proved too much for flesh and [[motifs/blood|blood]] to bear.
 Crowding into one moment the vexation and the wrath of years, Joe
@@ -10587,7 +10587,7 @@ was as dull and full of gloom as any hermit’s cell.
 
 It came on darker and darker. The old-fashioned furniture of the
 chamber, which was a kind of hospital for all the invalided movables in
-the [[house]], grew indistinct and shadowy in its many shapes; chairs and
+the house, grew indistinct and shadowy in its many shapes; chairs and
 tables, which by day were as honest cripples as need be, assumed a
 doubtful and mysterious character; and one old leprous screen of faded
 India leather and gold binding, which had kept out many a cold breath of
@@ -10602,7 +10602,7 @@ that Joe could not help following its example; and so went off into
 a slumber likewise, and dreamed of Dolly, till the [[motifs/clock|clock]] of Chigwell
 church struck two.
 
-Still nobody came. The distant noises in the [[house]] had ceased, and
+Still nobody came. The distant noises in the house had ceased, and
 out of doors all was quiet; save for the occasional barking of some
 deep-mouthed dog, and the shaking of the branches by the [[motifs/night|night]] [[motifs/wind|wind]].
 He gazed mournfully out of [[motifs/window|window]] at each [[motifs/well|well]]-known object as it lay
@@ -10662,7 +10662,7 @@ the efforts of unassisted [[concepts/nature|nature]], the [[motifs/lion|Lion]] s
 amount, to beer; of which he swigged such copious draughts, that most of
 his faculties were utterly drowned and washed away, except the one
 great faculty of [[motifs/sleep|sleep]], which he retained in surprising perfection.
-The creaking [[motifs/lion|Lion]] over the [[house]]-door was, therefore, to say the
+The creaking [[motifs/lion|Lion]] over the house-door was, therefore, to say the
 [[concepts/truth|truth]], rather a drowsy, tame, and feeble [[motifs/lion|lion]]; and as these social
 representatives of a savage class are usually of a conventional
 character (being depicted, for the most part, in impossible attitudes
@@ -10839,12 +10839,12 @@ for it should go hard, he had resolved, but he would have a parting word
 with charming [[characters/dolly-varden|Dolly Varden]].
 
 He went out by Islington and so on to Highgate, and sat on many stones
-and gates, but there were no voices in [[The Bells|the bells]] to bid him turn. Since
+and gates, but there were no voices in the bells to bid him turn. Since
 the [[motifs/time|time]] of noble Whittington, fair flower of merchants, [[motifs/bells|bells]] have come
 to have less sympathy with humankind. They only ring for money and on
 state occasions. Wanderers have increased in number; ships leave the
 Thames for distant regions, carrying from stem to stern no other cargo;
-[[The Bells|the bells]] are silent; they ring out no entreaties or regrets; they are
+the bells are silent; they ring out no entreaties or regrets; they are
 used to it and have grown worldly.
 
 Joe bought a roll, and reduced his purse to the condition (with a
@@ -10857,13 +10857,13 @@ to or multiplied by its own amount, the result of the problem is more
 easily stated than any known in figures.
 
 Evening drew on at last. With the desolate and solitary feeling of one
-who had no [[motifs/home|home]] or shelter, and was [[Alone|alone]] utterly in the world for the
-first [[motifs/time|time]], he bent his steps towards the locksmith’s [[house]]. He had
-delayed till now, knowing that Mrs Varden sometimes went out [[Alone|alone]],
+who had no [[motifs/home|home]] or shelter, and was alone utterly in the world for the
+first [[motifs/time|time]], he bent his steps towards the locksmith’s house. He had
+delayed till now, knowing that Mrs Varden sometimes went out alone,
 or with Miggs for her sole attendant, to lectures in the evening; and
 devoutly hoping that this might be one of her nights of moral culture.
 
-He had walked up and down before the [[house]], on the opposite side of the
+He had walked up and down before the house, on the opposite side of the
 way, two or three times, when as he returned to it again, he caught a
 glimpse of a fluttering skirt at the door. It was Dolly’s--to whom else
 could it belong? no dress but hers had such a flow as that. He plucked
@@ -10981,7 +10981,7 @@ have wept for it afterwards with the very same distress.
 She had no sooner left the workshop than there cautiously peered out
 from behind the chimney of the forge, a face which had already emerged
 from the same concealment twice or thrice, unseen, and which, after
-satisfying itself that it was now [[Alone|alone]], was followed by a leg, a
+satisfying itself that it was now alone, was followed by a leg, a
 shoulder, and so on by degrees, until the form of Mr Tappertit stood
 confessed, with a brown-paper cap stuck negligently on one side of its
 head, and its arms very much a-kimbo.
@@ -10993,7 +10993,7 @@ He gravely descended from his elevation, took down his piece of
 looking-glass, planted it against the wall upon the usual bench, twisted
 his head round, and looked closely at his legs.
 
-‘If they’re [[A Dream|a dream]],’ said Sim, ‘let sculptures have such wisions, and
+‘If they’re a dream,’ said Sim, ‘let sculptures have such wisions, and
 chisel ‘em out when they wake. This is reality. [[motifs/sleep|Sleep]] has no such limbs
 as them. Tremble, Willet, and [[concepts/despair|despair]]. She’s mine! She’s mine!’
 
@@ -11006,10 +11006,10 @@ door, which served the [[topoi/double|double]] purpose of smothering his feeling
 drying his face.
 
 Joe, disconsolate and down-hearted, but full of [[concepts/courage|courage]] too, on leaving
-the locksmith’s [[house]] made the best of his way to the Crooked Billet,
+the locksmith’s house made the best of his way to the Crooked Billet,
 and there inquired for his friend the serjeant, who, expecting no man
 less, received him with open arms. In the course of five minutes after
-his arrival at that [[house]] of entertainment, he was enrolled among the
+his arrival at that house of entertainment, he was enrolled among the
 gallant defenders of his native land; and within half an hour, was
 regaled with a steaming supper of boiled tripe and onions, prepared,
 as his friend assured him more than once, at the express command of his
@@ -11063,7 +11063,7 @@ each other since the previous [[motifs/night|night]].
 
 Edward was reserved and silent. Mr Chester was more than usually gay;
 but not caring, as it seemed, to open a conversation with one whose
-[[Humour|humour]] was so different, he vented the lightness of his spirit in smiles
+humour was so different, he vented the lightness of his spirit in smiles
 and sparkling looks, and made no effort to awaken his attention. So they
 remained for some [[motifs/time|time]]: the father lying on a sofa with his accustomed
 air of graceful negligence; the son seated opposite to him with downcast
@@ -11147,7 +11147,7 @@ proposed, as I learn from Haredale; and what I predicted--with no great
 exercise of sagacity--she would do. She supposed you to be rich, or
 at least quite rich enough; and found you poor. [[motifs/marriage|Marriage]] is a civil
 contract; people marry to better their worldly condition and improve
-appearances; it is an affair of [[house]] and furniture, of liveries,
+appearances; it is an affair of house and furniture, of liveries,
 servants, equipage, and so forth. The lady being poor and you poor
 also, there is an end of the matter. You cannot enter upon these
 considerations, and have no manner of business with the ceremony. I
@@ -11220,7 +11220,7 @@ you have no moral sense remaining; and go to the Devil, at my express
 [[motifs/desire|desire]]. Good day.’
 
 Edward left the room without another word or look, and turned his back
-upon the [[house]] for ever.
+upon the house for ever.
 
 The father’s face was slightly flushed and heated, but his manner was
 quite unchanged, as he rang the bell again, and addressed the servant on
@@ -11276,7 +11276,7 @@ hoped that some they knew were safe, and shook their heads in [[concepts/doubt|d
 In private dwellings, children clustered near the blaze; listening with
 timid pleasure to tales of [[motifs/ghosts|ghosts]] and goblins, and tall figures clad
 in white standing by bed-sides, and people who had gone to [[motifs/sleep|sleep]] in old
-churches and being overlooked had found themselves [[Alone|alone]] there at the
+churches and being overlooked had found themselves alone there at the
 dead hour of the [[motifs/night|night]]: until they shuddered at the thought of the dark
 rooms upstairs, yet loved to hear the [[motifs/wind|wind]] moan too, and hoped it would
 continue bravely. From [[motifs/time|time]] to [[motifs/time|time]] these happy indoor people stopped to
@@ -11294,7 +11294,7 @@ and candle, meat, drink, and company, and gleaming like a jovial
 eye upon the bleak waste out of doors! Within, what carpet like its
 crunching sand, what music merry as its crackling logs, what perfume
 like its kitchen’s dainty breath, what weather genial as its hearty
-warmth! Blessings on the old [[house]], how sturdily it stood! How did the
+warmth! Blessings on the old house, how sturdily it stood! How did the
 vexed [[motifs/wind|wind]] chafe and roar about its stalwart roof; how did it pant
 and strive with its wide chimneys, which still poured forth from their
 hospitable throats, great clouds of smoke, and puffed defiance in its
@@ -11328,7 +11328,7 @@ half, none of the company had pronounced one word.
 Whether people, by dint of sitting together in the same place and the
 same relative positions, and doing exactly the same things for a great
 many years, acquire a sixth sense, or some unknown power of influencing
-each other which serves them in its stead, is a question for [[philosophy]]
+each other which serves them in its stead, is a question for philosophy
 to settle. But certain it is that old John Willet, Mr Parkes, and Mr
 Cobb, were one and all firmly of opinion that they were very jolly
 companions--rather choice spirits than otherwise; that they looked at
@@ -11493,7 +11493,7 @@ his throat), that the two bystanders, recovering in some degree,
 plucked him off his victim by main force, and placed the little clerk
 of Chigwell in a chair. Directing a fearful gaze all round the room, he
 implored them in a faint voice to give him some drink; and above all to
-lock the [[house]]-door and close and bar the shutters of the room, without
+lock the house-door and close and bar the shutters of the room, without
 a moment’s loss of [[motifs/time|time]]. The latter request did not tend to reassure
 his hearers, or to fill them with the most comfortable sensations; they
 complied with it, however, with the greatest expedition; and having
@@ -11501,7 +11501,7 @@ handed him a bumper of brandy-and-[[motifs/water|water]], nearly boiling hot, wa
 hear what he might have to tell them.
 
 ‘Oh, Johnny,’ said Solomon, shaking him by the hand. ‘Oh, Parkes. Oh,
-Tommy Cobb. Why did I leave this [[house]] to-[[motifs/night|night]]! On the nineteenth of
+Tommy Cobb. Why did I leave this house to-[[motifs/night|night]]! On the nineteenth of
 March--of all nights in the year, on the nineteenth of March!’
 
 They all drew closer to the [[motifs/fire|fire]]. Parkes, who was nearest to the door,
@@ -11510,7 +11510,7 @@ inquired what the devil he meant by that--and then said, ‘God forgive
 me,’ and glanced over his own shoulder, and came a little nearer.
 
 ‘When I left here to-[[motifs/night|night]],’ said Solomon Daisy, ‘I little thought what
-day of the month it was. I have never gone [[Alone|alone]] into the church after
+day of the month it was. I have never gone alone into the church after
 dark on this day, for seven-and-twenty years. I have heard it said
 that as we keep our birthdays when we are alive, so the [[motifs/ghosts|ghosts]] of
 dead people, who are not easy in their graves, keep the day they died
@@ -11567,19 +11567,19 @@ people, he had better put his pocket-handkerchief over his head.
 Mr Parkes with great submission pledged himself to do so, if again
 required, and John Willet turning to Solomon desired him to proceed.
 After waiting until a violent gust of [[motifs/wind|wind]] and rain, which seemed to
-shake even that sturdy [[house]] to its foundation, had passed away, the
+shake even that sturdy house to its foundation, had passed away, the
 little man complied:
 
 ‘Never tell me that it was my fancy, or that it was any other sound
 which I mistook for that I tell you of. I heard the [[motifs/wind|wind]] whistle through
 the arches of the church. I heard the steeple strain and creak. I heard
-the rain as it came driving against the walls. I felt [[The Bells|the bells]] shake. I
+the rain as it came driving against the walls. I felt the bells shake. I
 saw the ropes sway to and fro. And I heard that voice.’
 
 ‘What did it say?’ asked Tom Cobb.
 
 ‘I don’t know what; I don’t know that it spoke. It gave a kind of cry,
-as any one of us might do, if something dreadful followed us in [[A Dream|a dream]],
+as any one of us might do, if something dreadful followed us in a dream,
 and came upon us unawares; and then it died off: seeming to pass quite
 round the church.’
 
@@ -11695,7 +11695,7 @@ going to bed.
 
 ‘He’s my landlord,’ thought John, as he took a candle in his hand, and
 setting it down in a corner out of the [[motifs/wind|wind]]’s way, opened a casement in
-the rear of the [[house]], looking towards the stables. ‘We haven’t met of
+the rear of the house, looking towards the stables. ‘We haven’t met of
 late years so often as we used to do--changes are taking place in the
 family--it’s desirable that I should stand as [[motifs/well|well]] with them, in point
 of dignity, as possible--the whispering about of this here tale will
@@ -11742,7 +11742,7 @@ of dismissal, followed him into the blustering darkness out of doors.
 
 The way was wet and dismal, and the [[motifs/night|night]] so black, that if Mr Willet
 had been his own pilot, he would have walked into a deep horsepond
-within a few hundred yards of his own [[house]], and would certainly have
+within a few hundred yards of his own house, and would certainly have
 terminated his career in that ignoble sphere of action. But Hugh, who
 had a sight as keen as any hawk’s, and, apart from that endowment, could
 have found his way blindfold to any place within a dozen miles, dragged
@@ -11755,7 +11755,7 @@ looking about him, now for bogs and ditches, and now for such stray
 [[motifs/ghosts|ghosts]] as might be wandering abroad, with looks of as much dismay and
 uneasiness as his immovable face was capable of expressing.
 
-At length they stood upon the broad gravel-walk before the Warren-[[house]].
+At length they stood upon the broad gravel-walk before the Warren-house.
 The building was profoundly dark, and none were moving near it save
 themselves. From one solitary turret-chamber, however, there shone a
 ray of light; and towards this speck of comfort in the cold, cheerless,
@@ -11895,11 +11895,11 @@ As John made no reply, Mr Haredale brought out a glass of liquor, and
 gave it to Hugh, who, as he took it in his hand, threw part of it upon
 the floor.
 
-‘What do you mean by splashing your drink about a gentleman’s [[house]],
+‘What do you mean by splashing your drink about a gentleman’s house,
 sir?’ said John.
 
 ‘I’m drinking a toast,’ Hugh rejoined, holding the glass above his head,
-and fixing his eyes on Mr Haredale’s face; ‘a toast to this [[house]] and
+and fixing his eyes on Mr Haredale’s face; ‘a toast to this house and
 its master.’ With that he muttered something to himself, and drank the
 rest, and setting down the glass, preceded them without another word.
 
@@ -11998,7 +11998,7 @@ the rear, suddenly interposed:
 recommend--a bed that you are sure is [[motifs/well|well]] aired--a bed that has been
 slept in by some perfectly respectable and unexceptionable person?’
 
-‘We don’t take in no tagrag and bobtail at our [[house]], sir,’ answered
+‘We don’t take in no tagrag and bobtail at our house, sir,’ answered
 John. ‘And as to the bed itself--’
 
 ‘Say, as to three beds,’ interposed the gentleman who had spoken before;
@@ -12055,13 +12055,13 @@ so far as to observe that there was ample accommodation at the Maypole
 for all the party: good beds; neat wines; excellent entertainment
 for man and beast; private rooms for large and small parties; dinners
 dressed upon the shortest notice; choice stabling, and a lock-up
-coach-[[house]]; and, in short, to run over such recommendatory scraps of
+coach-house; and, in short, to run over such recommendatory scraps of
 language as were painted up on various portions of the building, and
 which in the course of some forty years he had learnt to repeat with
 tolerable correctness. He was considering whether it was at all possible
 to insert any [[forms/novel|novel]] sentences to the same purpose, when the gentleman
 who had spoken first, turning to him of the long [[motifs/wind|wind]], exclaimed, ‘What
-say you, Gashford? Shall we tarry at this [[house]] he speaks of, or press
+say you, Gashford? Shall we tarry at this house he speaks of, or press
 forward? You shall decide.’
 
 
@@ -12168,7 +12168,7 @@ for the man: though why it did so, they would have had some trouble to
 explain.
 
 Gashford, the secretary, was taller, angularly made, high-shouldered,
-bony, and ungraceful. His dress, in [[Imitation|imitation]] of his superior, was
+bony, and ungraceful. His dress, in imitation of his superior, was
 demure and staid in the extreme; his manner, formal and constrained.
 This gentleman had an overhanging brow, great hands and feet and ears,
 and a pair of eyes that seemed to have made an unnatural retreat into
@@ -12259,7 +12259,7 @@ when you spoke of a hundred and twenty thousand men across the Scottish
 border who would take their own redress at any [[motifs/time|time]], if it were not
 conceded; when you cried “Perish the Pope and all his base adherents;
 the penal laws against them shall never be repealed while Englishmen
-have hearts and hands”--and waved your own and touched your [[Sword|sword]]; and
+have hearts and hands”--and waved your own and touched your sword; and
 when they cried “No Popery!” and you cried “No; not even if we wade in
 [[motifs/blood|blood]],” and they threw up their hats and cried “Hurrah! not even if we
 wade in [[motifs/blood|blood]]; No Popery! Lord George! Down with the Papists--Vengeance
@@ -12291,7 +12291,7 @@ Gashford, don’t you?’
 ‘Does my lord ask ME,’ whined Gashford, drawing his chair nearer with
 an injured air, and laying his broad flat hand upon the table; ‘ME,’
 he repeated, bending the dark hollows of his eyes upon him with an
-unwholesome smile, ‘who, stricken by the [[Magic|magic]] of his eloquence in
+unwholesome smile, ‘who, stricken by the magic of his eloquence in
 Scotland but a year ago, abjured the errors of the Romish church, and
 clung to him as one whose timely hand had plucked me from a pit?’
 
@@ -12365,7 +12365,7 @@ very hard into the mulled wine, to see how much remained.
 
 John Willet and John Grueby appeared together. The one bearing the great
 candlesticks, and the other the portmanteau, showed the deluded lord
-into his chamber; and left the secretary [[Alone|alone]], to yawn and shake
+into his chamber; and left the secretary alone, to yawn and shake
 himself, and finally to fall asleep before the [[motifs/fire|fire]].
 
 ‘Now, Mr Gashford sir,’ said John Grueby in his ear, after what appeared
@@ -12387,7 +12387,7 @@ pursued John Grueby, looking, as usual, a long way off, and taking no
 notice of this hint, ‘my lord’s half off his head. When we go out o’
 doors, such a set of ragamuffins comes a-shouting after us, “Gordon
 forever!” that I’m ashamed of myself and don’t know where to look. When
-we’re indoors, they come a-roaring and screaming about the [[house]] like so
+we’re indoors, they come a-roaring and screaming about the house like so
 many devils; and my lord instead of ordering them to be drove away, goes
 out into the balcony and demeans himself by making speeches to ‘em, and
 calls ‘em “Men of England,” and “Fellow-countrymen,” as if he was fond
@@ -12619,7 +12619,7 @@ Maypole couch, waved drearily and sadly as though it were a bier.
 Stopping on the staircase to listen that all was quiet, and to take off
 his shoes lest his footsteps should alarm any light sleeper who might
 be near at hand, he descended to the ground floor, and thrust one of his
-bills beneath the great door of the [[house]]. That done, he crept softly
+bills beneath the great door of the house. That done, he crept softly
 back to his own chamber, and from the [[motifs/window|window]] let another fall--carefully
 wrapt round a stone to save it from the [[motifs/wind|wind]]--into the yard below.
 
@@ -12668,12 +12668,12 @@ occasionally, and hearing some indifferent speeches made, and ultimately
 of petitioning Parliament not to pass an act for abolishing the
 penal laws against Roman Catholic priests, the penalty of perpetual
 [[concepts/imprisonment|imprisonment]] denounced against those who educated children in that
-[[Persuasion|persuasion]], and the disqualification of all members of the Romish church
+persuasion, and the disqualification of all members of the Romish church
 to inherit real property in the United Kingdom by right of purchase or
 descent,--matters so far removed from the business and bosoms of the
 mass, might perhaps have called together a hundred people. But when
 vague rumours got abroad, that in this Protestant association a secret
-power was mustering against the [[government]] for undefined and mighty
+power was mustering against the government for undefined and mighty
 purposes; when the air was filled with whispers of a confederacy
 among the Popish powers to degrade and enslave England, establish an
 [[historical-references/inquisition|inquisition]] in [[settings/london|London]], and turn the pens of Smithfield market into
@@ -12684,7 +12684,7 @@ lain quietly in their graves for centuries, were raised again to haunt
 the ignorant and credulous; when all this was done, as it were, in the
 dark, and secret invitations to join the Great Protestant Association in
 defence of religion, life, and liberty, were dropped in the public ways,
-thrust under the [[house]]-doors, tossed in at windows, and pressed into
+thrust under the house-doors, tossed in at windows, and pressed into
 the hands of those who trod the streets by [[motifs/night|night]]; when they glared
 from every wall, and shone on every post and pillar, so that stocks and
 stones appeared infected with the common [[concepts/fear|fear]], urging all men to join
@@ -12701,7 +12701,7 @@ brain. He was accustomed to talk largely about numbers of
 men--stimulated, as it was inferred, by certain successful disturbances,
 arising out of the same subject, which had occurred in Scotland in the
 previous year; was looked upon as a cracked-brained member of the lower
-[[house]], who attacked all parties and sided with none, and was very little
+house, who attacked all parties and sided with none, and was very little
 regarded. It was known that there was discontent abroad--there always
 is; he had been accustomed to address the people by placard, speech,
 and pamphlet, upon other questions; nothing had come, in England, of his
@@ -12774,7 +12774,7 @@ returning when the other had had [[motifs/time|time]] to recover, said:
 
 ‘The holy cause goes bravely on, my lord. I was not idle, even last
 [[motifs/night|night]]. I dropped two of the handbills before I went to bed, and both are
-gone this morning. Nobody in the [[house]] has mentioned the circumstance
+gone this morning. Nobody in the house has mentioned the circumstance
 of finding them, though I have been downstairs full half-an-hour. One or
 two recruits will be their first fruit, I predict; and who shall say how
 many more, with Heaven’s blessing on your inspired exertions!’
@@ -12809,7 +12809,7 @@ from Mr Willet’s plentiful providing.
 
 At length he came downstairs, wiping his greasy mouth, and having paid
 John Willet’s bill, climbed into his saddle. Lord George, who had been
-walking up and down before the [[house]] talking to himself with earnest
+walking up and down before the house talking to himself with earnest
 gestures, mounted his [[motifs/horse|horse]]; and returning old John Willet’s stately
 bow, as [[motifs/well|well]] as the parting salutation of a dozen idlers whom the rumour
 of a live lord being about to leave the Maypole had gathered round the
@@ -12880,7 +12880,7 @@ stretched their throats indeed; and he went on again with mighty
 acclamations from the mob, and lower bows than ever.
 
 So along the Strand, up [[motifs/swallow|Swallow]] Street, into the [[settings/oxford|Oxford]] [[motifs/road|Road]], and thence
-to his [[house]] in Welbeck Street, near Cavendish Square, whither he was
+to his house in Welbeck Street, near Cavendish Square, whither he was
 attended by a few dozen idlers; of whom he took leave on the steps with
 this brief parting, ‘Gentlemen, No Popery. Good day. God bless you.’
 This being rather a shorter address than they expected, was received
@@ -12912,14 +12912,14 @@ shut the door.
 
 The man who now confronted Gashford, was a squat, thickset personage,
 with a low, retreating forehead, a coarse shock head of hair, and eyes
-so small and near together, that his broken nose [[Alone|alone]] seemed to
+so small and near together, that his broken nose alone seemed to
 prevent their meeting and fusing into one of the usual size. A dingy
 handkerchief twisted like a cord about his neck, left its great veins
 exposed to view, and they were swollen and starting, as though with
 gulping down strong passions, malice, and ill-will. His dress was of
 threadbare velveteen--a faded, rusty, whitened black, like the ashes
 of a pipe or a coal [[motifs/fire|fire]] after a day’s extinction; discoloured with the
-soils of many a stale debauch, and reeking yet with pot-[[house]] odours. In
+soils of many a stale debauch, and reeking yet with pot-house odours. In
 lieu of buckles at his knees, he wore unequal loops of packthread; and
 in his grimy hands he held a knotted stick, the knob of which was carved
 into a rough likeness of his own vile face. Such was the visitor who
@@ -12930,7 +12930,7 @@ leering, for his notice.
 
 ‘I see my lord down yonder--’ cried the man, with a jerk of his thumb
 towards the quarter that he spoke of, ‘and he says to me, says my lord,
-“If you’ve nothing to do, Dennis, go up to my [[house]] and talk with Muster
+“If you’ve nothing to do, Dennis, go up to my house and talk with Muster
 Gashford.” Of course I’d nothing to do, you know. These an’t my working
 hours. Ha ha! I was a-taking the air when I see my lord, that’s what
 I was doing. I takes the air by [[motifs/night|night]], as the howls does, Muster
@@ -13066,10 +13066,10 @@ complain of me,’ returned the other, shaking his head.
 
 ‘I am sure I shall not,’ said the secretary in the same mild tone, and
 with the same emphasis. ‘We shall have, we think, about next month, or
-May, when this Papist relief bill comes before the [[house]], to convene our
+May, when this Papist relief bill comes before the house, to convene our
 whole [[concepts/body|body]] for the first [[motifs/time|time]]. My lord has thoughts of our walking
 in procession through the streets--just as an [[archetypes/innocent|innocent]] display of
-strength--and accompanying our petition down to the door of the [[house|House]] of
+strength--and accompanying our petition down to the door of the House of
 Commons.’
 
 ‘The sooner the better,’ said Dennis, with another oath.
@@ -13229,8 +13229,8 @@ Gashford, in his peculiar manner, of the peaceful and strictly lawful
 objects contemplated by the [[concepts/body|body]] to which he now belonged--during which
 recital Mr Dennis nudged him very much with his elbow, and made divers
 remarkable faces--the secretary gave them both to understand that he
-desired to be [[Alone|alone]]. Therefore they took their [[motifs/leaves|leaves]] without delay, and
-came out of the [[house]] together.
+desired to be alone. Therefore they took their [[motifs/leaves|leaves]] without delay, and
+came out of the house together.
 
 ‘Are you walking, brother?’ said Dennis.
 
@@ -13245,7 +13245,7 @@ where both houses of Parliament were then sitting. Mingling in the crowd
 of carriages, horses, servants, chairmen, link-boys, porters, and idlers
 of all kinds, they lounged about; while Hugh’s new friend pointed out to
 him significantly the weak parts of the building, how easy it was to get
-into the lobby, and so to the very door of the [[house|House]] of Commons; and how
+into the lobby, and so to the very door of the House of Commons; and how
 plainly, when they marched down there in grand array, their roars and
 shouts would be heard by the members inside; with a great deal more to
 the same purpose, all of which Hugh received with manifest delight.
@@ -13296,7 +13296,7 @@ repair together to The Boot, where there was good company and strong
 liquor. Hugh yielding a ready assent, they bent their steps that way
 with no loss of [[motifs/time|time]].
 
-This Boot was a lone [[house]] of public entertainment, situated in the
+This Boot was a lone house of public entertainment, situated in the
 fields at the back of the Foundling Hospital; a very solitary spot at
 that period, and quite deserted after dark. The tavern stood at some
 distance from any high [[motifs/road|road]], and was approachable only by a dark and
@@ -13477,7 +13477,7 @@ cleaner? Much the same. [[motifs/well|Well]], I’ll owe you another shake. We�
 it done, if you’ve no objection.’
 
 Hugh laughed again, and with such thorough abandonment to his mad
-[[Humour|humour]], that his limbs seemed dislocated, and his whole frame in danger
+humour, that his limbs seemed dislocated, and his whole frame in danger
 of tumbling to pieces; but Mr Tappertit, so far from receiving this
 extreme merriment with any irritation, was pleased to regard it with the
 utmost favour, and even to join in it, so far as one of his gravity and
@@ -13501,7 +13501,7 @@ satisfaction to the whole assembly.
 ‘Make anything you like of me!’ cried Hugh, flourishing the can he had
 emptied more than once. ‘Put me on any duty you please. I’m your man.
 I’ll do it. Here’s my captain--here’s my leader. Ha ha ha! Let him
-give me the word of command, and I’ll fight the whole Parliament [[house|House]]
+give me the word of command, and I’ll fight the whole Parliament House
 single-handed, or set a lighted torch to the [[archetypes/king|King]]’s Throne itself!’ With
 that, he smote Mr Tappertit on the back, with such violence that his
 little [[concepts/body|body]] seemed to shrink into a mere nothing; and roared again until
@@ -13556,12 +13556,12 @@ In the midst of all his merriment, and admiration of his captain, Hugh
 was made sensible by these and other tokens, of the presence of an air
 of mystery, akin to that which had so much impressed him out of doors.
 It was impossible to discard a sense that something serious was going
-on, and that under the noisy revel of the public-[[house]], there lurked
+on, and that under the noisy revel of the public-house, there lurked
 unseen and dangerous matter. Little affected by this, however, he was
 perfectly satisfied with his quarters and would have remained there till
 morning, but that his conductor [[motifs/rose|rose]] soon after midnight, to go [[motifs/home|home]]; Mr
 Tappertit following his example, left him no excuse to stay. So they all
-three left the [[house]] together: roaring a No-Popery [[Song|song]] until the fields
+three left the house together: roaring a No-Popery song until the fields
 resounded with the dismal noise.
 
 
@@ -13816,7 +13816,7 @@ lived, would come to pass in twenty years. It was quite as good as an
 Insolvent Act, and infinitely more genteel. So [[characters/sir-john-chester|Sir John Chester]] was a
 member of Parliament.
 
-But how Sir John? Nothing so simple, or so easy. One touch with a [[Sword|sword]]
+But how Sir John? Nothing so simple, or so easy. One touch with a sword
 of state, and the transformation was effected. John Chester, Esquire,
 M.P., attended [[settings/court|court]]--went up with an address--headed a deputation.
 Such elegance of manner, so many graces of deportment, such powers of
@@ -13932,7 +13932,7 @@ the doers.’
 ‘Oh! you have joined those fellows then?’ said Sir John, with an air of
 most profound indifference.
 
-‘Yes. I went up to the [[house]] you told me of; and got put down upon the
+‘Yes. I went up to the house you told me of; and got put down upon the
 muster. There was another man there, named Dennis--’
 
 ‘Dennis, eh!’ cried Sir John, laughing. ‘Ay, ay! a pleasant fellow, I
@@ -14058,7 +14058,7 @@ tink.
 It was a perfect embodiment of the still small voice, free from
 all cold, hoarseness, huskiness, or unhealthiness of any kind;
 foot-passengers slackened their pace, and were disposed to linger near
-it; neighbours who had got up splenetic that morning, felt good-[[Humour|humour]]
+it; neighbours who had got up splenetic that morning, felt good-humour
 stealing on them as they heard it, and by degrees became quite
 sprightly; mothers danced their babies to its ringing; still the same
 magical tink, tink, tink, came gaily from the workshop of the Golden
@@ -14301,7 +14301,7 @@ generally, which she looked upon as fit for any statue, prince, or
 angel, to which sentiment Mrs Varden fully subscribed.
 
 Mrs Varden having cut in, looked at a box upon the mantelshelf, painted
-in [[Imitation|imitation]] of a very red-brick dwelling-[[house]], with a yellow roof;
+in imitation of a very red-brick dwelling-house, with a yellow roof;
 having at top a real chimney, down which voluntary subscribers dropped
 their silver, gold, or pence, into the parlour; and on the door the
 counterfeit presentment of a brass plate, whereon was legibly inscribed
@@ -14327,7 +14327,7 @@ me in other ways; it’s [[motifs/well|well]] made up.’
 This was quite true, though not perhaps in the sense that Miggs
 intended. As she never failed to keep her [[concepts/self|self]]-denial full in Mrs
 Varden’s view, it drew forth so many gifts of caps and gowns and other
-articles of dress, that upon the whole the red-brick [[house]] was perhaps
+articles of dress, that upon the whole the red-brick house was perhaps
 the best investment for her small capital she could possibly have hit
 upon; returning her interest, at the rate of seven or eight per cent in
 money, and fifty at least in personal repute and credit.
@@ -14401,7 +14401,7 @@ just had, fresh in his mind, did not dare to say one word.
 
 The difference ended, therefore, in Miggs being presented with a gown
 by Mrs Varden and half-a-[[motifs/crown|crown]] by Dolly, as if she had eminently
-distinguished herself in the paths of [[morality]] and goodness. Mrs V.,
+distinguished herself in the paths of morality and goodness. Mrs V.,
 according to custom, expressed her [[concepts/hope|hope]] that Varden would take a lesson
 from what had passed and learn more generous conduct for the [[motifs/time|time]] to
 come; and the dinner being now cold and nobody’s appetite very much
@@ -14413,7 +14413,7 @@ that afternoon, the locksmith did no more work; but sat down comfortably
 with his pipe in his mouth, and his arm round his pretty daughter’s
 waist, looking lovingly on Mrs V., from [[motifs/time|time]] to [[motifs/time|time]], and exhibiting
 from the [[motifs/crown|crown]] of his head to the sole of his foot, one smiling surface
-of good [[Humour|humour]]. And to be sure, when it was [[motifs/time|time]] to dress him in his
+of good humour. And to be sure, when it was [[motifs/time|time]] to dress him in his
 regimentals, and Dolly, hanging about him in all kinds of graceful
 winning ways, helped to button and buckle and brush him up and get him
 into one of the tightest coats that ever was made by mortal tailor, he
@@ -14421,7 +14421,7 @@ was the proudest father in all England.
 
 ‘What a handy jade it is!’ said the locksmith to Mrs Varden, who stood
 by with folded hands--rather proud of her husband too--while Miggs held
-his cap and [[Sword|sword]] at arm’s length, as if mistrusting that the latter
+his cap and sword at arm’s length, as if mistrusting that the latter
 might run some one through the [[concepts/body|body]] of its own accord; ‘but never marry
 a soldier, Doll, my dear.’
 
@@ -14494,7 +14494,7 @@ name was never to be mentioned, and I have not spoken of him, have I?’
 
 Mrs Varden merely replied that she had no patience with him, and bounced
 off after the other two. The unfortunate locksmith wound his sash about
-him, girded on his [[Sword|sword]], put on his cap, and walked out.
+him, girded on his sword, put on his cap, and walked out.
 
 ‘I am not much of a dab at my exercise,’ he said under his breath, ‘but
 I shall get into fewer scrapes at that work than at this. Every man came
@@ -14520,7 +14520,7 @@ of drums, and the streaming of flags; and performed a vast number of
 complex evolutions, in all of which Serjeant Varden bore a conspicuous
 share. Having displayed their military prowess to the utmost in these
 warlike shows, they marched in glittering order to the Chelsea Bun
-[[house|House]], and regaled in the adjacent taverns until dark. Then at sound
+House, and regaled in the adjacent taverns until dark. Then at sound
 of drum they fell in again, and returned amidst the shouting of His
 Majesty’s lieges to the place from whence they came.
 
@@ -14541,7 +14541,7 @@ here.’
 ‘There is nobody at [[motifs/home|home]], I find,’ Mr Haredale answered; ‘besides, I
 desired to be as private as I could.’
 
-‘Humph!’ muttered the locksmith, looking round at his [[house]]. ‘Gone with
+‘Humph!’ muttered the locksmith, looking round at his house. ‘Gone with
 [[characters/simon-tappertit|Simon Tappertit]] to that precious Branch, no [[concepts/doubt|doubt]].’
 
 Mr Haredale invited him to come into the coach, and, if he were not
@@ -14601,13 +14601,13 @@ him, he hastily went on:
 ‘You will think, I know, I labour under some delusion. Perhaps I do. But
 it is not a morbid one; it is a wholesome action of the mind, reasoning
 on actual occurrences. You know the furniture remains in Mrs Rudge’s
-[[house]], and that it has been shut up, by my orders, since she went away,
+house, and that it has been shut up, by my orders, since she went away,
 save once a-week or so, when an old neighbour visits it to scare away
 the rats. I am on my way there now.’
 
 ‘For what purpose?’ asked the locksmith.
 
-‘To pass the [[motifs/night|night]] there,’ he replied; ‘and not to-[[motifs/night|night]] [[Alone|alone]], but many
+‘To pass the [[motifs/night|night]] there,’ he replied; ‘and not to-[[motifs/night|night]] alone, but many
 nights. This is a secret which I trust to you in case of any unexpected
 emergency. You will not come, unless in case of strong necessity, to me;
 from dusk to broad day I shall be there. [[works/emma-(austen)|Emma]], your daughter, and the
@@ -14618,7 +14618,7 @@ confide it to you, and I rely upon your questioning me no more at this
 
 With that, as if to change the theme, he led the astounded locksmith
 back to the [[motifs/night|night]] of the Maypole highwayman, to the robbery of Edward
-Chester, to the reappearance of the man at Mrs Rudge’s [[house]], and to all
+Chester, to the reappearance of the man at Mrs Rudge’s house, and to all
 the strange circumstances which afterwards occurred. He even asked him
 carelessly about the man’s height, his face, his figure, whether he was
 like any one he had ever seen--like Hugh, for instance, or any man he
@@ -14627,7 +14627,7 @@ locksmith, considering them as mere devices to engage his attention and
 prevent his expressing the astonishment he felt, answered pretty much at
 random.
 
-At length, they arrived at the corner of the street in which the [[house]]
+At length, they arrived at the corner of the street in which the house
 stood, where Mr Haredale, alighting, dismissed the coach. ‘If you [[motifs/desire|desire]]
 to see me safely lodged,’ he said, turning to the locksmith with a
 gloomy smile, ‘you can.’
@@ -14650,7 +14650,7 @@ and rational;--so much so, indeed, that he felt ashamed of his momentary
 suspicion, and drooped his own when Mr Haredale looked towards him, as
 if he feared they would betray his thoughts.
 
-‘Will you walk through the [[house]]?’ said Mr Haredale, with a glance
+‘Will you walk through the house?’ said Mr Haredale, with a glance
 towards the [[motifs/window|window]], the crazy shutters of which were closed and
 fastened. ‘Speak low.’
 
@@ -14681,13 +14681,13 @@ doors, ready to start out and suddenly accost them in [[motifs/well|well]]-remem
 tones.
 
 They went downstairs, and again into the room they had just now left.
-Mr Haredale unbuckled his [[Sword|sword]] and laid it on the table, with a pair of
+Mr Haredale unbuckled his sword and laid it on the table, with a pair of
 pocket pistols; then told the locksmith he would light him to the door.
 
 ‘But this is a dull place, sir,’ said Gabriel lingering; ‘may no one
 share your watch?’
 
-He shook his head, and so plainly evinced his wish to be [[Alone|alone]], that
+He shook his head, and so plainly evinced his wish to be alone, that
 Gabriel could say no more. In another moment the locksmith was standing
 in the street, whence he could see that the light once more travelled
 upstairs, and soon returning to the room below, shone brightly through
@@ -14701,7 +14701,7 @@ never cried in all her life and never could--even then, with Toby at
 his elbow and his pipe in his mouth, and Miggs (but that perhaps was not
 much) falling asleep in the background, he could not quite discard his
 [[concepts/wonder|wonder]] and uneasiness. So in his [[motifs/dreams|dreams]]--still there was Mr Haredale,
-haggard and careworn, listening in the solitary [[house]] to every sound
+haggard and careworn, listening in the solitary house to every sound
 that stirred, with the taper shining through the chinks until the day
 should turn it pale and end his lonely watching.
 
@@ -14716,7 +14716,7 @@ Chapter 43
 
 Next morning brought no satisfaction to the locksmith’s thoughts,
 nor next day, nor the next, nor many others. Often after nightfall he
-entered the street, and turned his eyes towards the [[motifs/well|well]]-known [[house]];
+entered the street, and turned his eyes towards the [[motifs/well|well]]-known house;
 and as surely as he did so, there was the solitary light, still gleaming
 through the crevices of the [[motifs/window|window]]-shutter, while all within was
 motionless, noiseless, cheerless, as a [[motifs/grave|grave]]. Unwilling to hazard Mr
@@ -14728,13 +14728,13 @@ was not seldom--the light was always there.
 If he could have known what passed within, the knowledge would have
 yielded him no clue to this mysterious vigil. At twilight, Mr Haredale
 shut himself up, and at daybreak he came forth. He never missed a [[motifs/night|night]],
-always came and went [[Alone|alone]], and never varied his proceedings in the
+always came and went alone, and never varied his proceedings in the
 least degree.
 
-The manner of his watch was this. At dusk, he entered the [[house]] in the
+The manner of his watch was this. At dusk, he entered the house in the
 same way as when the locksmith bore him company, kindled a light, went
 through the rooms, and narrowly examined them. That done, he returned to
-the chamber on the ground-floor, and laying his [[Sword|sword]] and pistols on the
+the chamber on the ground-floor, and laying his sword and pistols on the
 table, sat by it until morning.
 
 He usually had a book with him, and often tried to read, but never fixed
@@ -14750,14 +14750,14 @@ he scarcely ever broke his fast, by so much as a crumb of bread.
 
 If this voluntary sacrifice of [[motifs/sleep|sleep]] and comfort had its origin, as the
 locksmith on consideration was disposed to think, in any superstitious
-expectation of the fulfilment of [[A Dream|a dream]] or vision connected with the
+expectation of the fulfilment of a dream or vision connected with the
 event on which he had brooded for so many years, and if he waited for
 some ghostly visitor who walked abroad when men lay sleeping in their
 beds, he showed no trace of [[concepts/fear|fear]] or wavering. His stern features
 expressed inflexible resolution; his brows were puckered, and his lips
 compressed, with deep and settled purpose; and when he started at a
 noise and listened, it was not with the start of [[concepts/fear|fear]] but [[concepts/hope|hope]], and
-catching up his [[Sword|sword]] as though the hour had come at last, he would
+catching up his sword as though the hour had come at last, he would
 clutch it in his tight-clenched hand, and listen with sparkling eyes and
 eager looks, until it died away.
 
@@ -14805,7 +14805,7 @@ to have gathered in a second. The smooth-worn pavement, dusty with
 footsteps, still called upon the lofty walls to reiterate the shuffle
 and the tread of feet unceasingly, save when the closing of some heavy
 door resounded through the building like a clap of thunder, and drowned
-all other noises in its [[rolling]] sound.
+all other noises in its rolling sound.
 
 Mr Haredale, glancing only at such of these groups as he passed nearest
 to, and then in a manner betokening that his thoughts were elsewhere,
@@ -14968,7 +14968,7 @@ him, looked on with a proud and scornful aspect, while Lord George
 slowly advanced (for the press was great about him) towards the spot
 where they were standing.
 
-He had left the [[house|House]] of Commons but that moment, and had come straight
+He had left the House of Commons but that moment, and had come straight
 down into the Hall, bringing with him, as his custom was, intelligence
 of what had been said that [[motifs/night|night]] in reference to the Papists, and what
 petitions had been presented in their favour, and who had supported
@@ -15119,12 +15119,12 @@ you? It was your deed, if not your hand--I know you.’
 
 He threw himself on Gashford as he said the words, and hurled him to the
 ground. There was a sudden motion in the crowd, and some laid hands upon
-him, but his [[Sword|sword]] was out, and they fell off again.
+him, but his sword was out, and they fell off again.
 
 ‘My lord--Sir John,’--he cried, ‘draw, one of you--you are responsible
 for this outrage, and I look to you. Draw, if you are gentlemen.’ With
 that he struck Sir John upon the breast with the flat of his weapon,
-and with a burning face and flashing eyes stood upon his guard; [[Alone|alone]],
+and with a burning face and flashing eyes stood upon his guard; alone,
 before them all.
 
 For an instant, for the briefest space of [[motifs/time|time]] the mind can readily
@@ -15206,12 +15206,12 @@ heaps of ashes; stagnant pools, overgrown with rank grass and duckweed;
 broken turnstiles; and the upright posts of palings long since carried
 off for firewood, which menaced all heedless walkers with their jagged
 and rusty nails; were the leading features of the landscape: while here
-and there a [[donkey]], or a ragged [[motifs/horse|horse]], tethered to a stake, and cropping
+and there a donkey, or a ragged [[motifs/horse|horse]], tethered to a stake, and cropping
 off a wretched meal from the coarse stunted turf, were quite in keeping
 with the scene, and would have suggested (if the houses had not done so,
 sufficiently, of themselves) how very poor the people were who lived in
 the crazy huts adjacent, and how foolhardy it might prove for one who
-carried money, or wore decent clothes, to walk that way [[Alone|alone]], unless by
+carried money, or wore decent clothes, to walk that way alone, unless by
 daylight.
 
 [[concepts/poverty|Poverty]] has its whims and shows of taste, as wealth has. Some of these
@@ -15219,7 +15219,7 @@ cabins were turreted, some had false windows painted on their rotten
 walls; one had a mimic [[motifs/clock|clock]], upon a crazy tower of four feet high,
 which screened the chimney; each in its little patch of ground had a
 rude seat or arbour. The population dealt in bones, in rags, in broken
-glass, in old wheels, in [[motifs/birds|birds]], and [[dogs]]. These, in their several ways
+glass, in old wheels, in [[motifs/birds|birds]], and dogs. These, in their several ways
 of stowage, filled the gardens; and shedding a perfume, not of the most
 delicious [[concepts/nature|nature]], in the air, filled it besides with yelps, and screams,
 and howling.
@@ -15227,7 +15227,7 @@ and howling.
 Into this retreat, the secretary followed the two men whom he had held
 in sight; and here he saw them safely lodged, in one of the meanest
 houses, which was but a room, and that of small dimensions. He waited
-without, until the sound of their voices, joined in a discordant [[Song|song]],
+without, until the sound of their voices, joined in a discordant song,
 assured him they were making merry; and then approaching the door, by
 means of a tottering plank which crossed the ditch in front, knocked at
 it with his hand.
@@ -15295,7 +15295,7 @@ hot; that’s what I say.’
 
 ‘Ah!’ retorted Dennis, shaking his head, with a kind of pity for his
 friend’s ingenuous youth; ‘but suppose the iron an’t hot, brother! You
-must get people’s [[motifs/blood|blood]] up afore you strike, and have ‘em in the [[Humour|humour]].
+must get people’s [[motifs/blood|blood]] up afore you strike, and have ‘em in the humour.
 There wasn’t quite enough to provoke ‘em to-day, I tell you. If you’d
 had your way, you’d have spoilt the fun to come, and ruined us.’
 
@@ -15345,7 +15345,7 @@ to-day, as far as words can go) consigns to you two--bearing in mind my
 recommendation of you both, as good staunch men, beyond all [[concepts/doubt|doubt]] and
 suspicion--the pleasant task of punishing this Haredale. You may do as
 you please with him, or his, provided that you show no [[concepts/mercy|mercy]], and no
-quarter, and leave no two beams of his [[house]] standing where the builder
+quarter, and leave no two beams of his house standing where the builder
 placed them. You may sack it, burn it, do with it as you like, but
 it must come down; it must be razed to the ground; and he, and all
 belonging to him, left as shelterless as new-born infants whom their
@@ -15357,7 +15357,7 @@ hearty!’
 
 ‘I knew you would like it,’ said Gashford, shaking him by the hand; ‘I
 thought you would. Good [[motifs/night|night]]! Don’t rise, Dennis: I would rather find
-my way [[Alone|alone]]. I may have to make other visits here, and it’s pleasant
+my way alone. I may have to make other visits here, and it’s pleasant
 to come and go without disturbing you. I can find my way perfectly [[motifs/well|well]].
 Good [[motifs/night|night]]!’
 
@@ -15416,7 +15416,7 @@ cottage door, busy at work (for he had learnt the art his mother plied),
 and listening, God help him, to the tales she would repeat, as a lure
 to keep him in her sight. He had no recollection of these little
 narratives; the tale of yesterday was new to him upon the morrow; but
-he liked them at the moment; and when the [[Humour|humour]] held him, would remain
+he liked them at the moment; and when the humour held him, would remain
 patiently within doors, hearing her stories like a little [[archetypes/child|child]], and
 working cheerfully from sunrise until it was too dark to see.
 
@@ -15426,16 +15426,16 @@ abroad from [[motifs/dawn|dawn]] of day until the twilight deepened into [[motif
 in that place, even of the children, could be idle, and he had no
 companions of his own kind. Indeed there were not many who could have
 kept up with him in his rambles, had there been a legion. But there were
-a score of vagabond [[dogs]] belonging to the neighbours, who served his
+a score of vagabond dogs belonging to the neighbours, who served his
 purpose quite as [[motifs/well|well]]. With two or three of these, or sometimes with a
 full half-dozen barking at his heels, he would sally forth on some
 long expedition that consumed the day; and though, on their return at
-nightfall, the [[dogs]] would come [[motifs/home|home]] limping and sore-footed, and almost
+nightfall, the dogs would come [[motifs/home|home]] limping and sore-footed, and almost
 spent with their fatigue, Barnaby was up and off again at sunrise with
 some new attendants of the same class, with whom he would return in like
 manner. On all these travels, Grip, in his little basket at his master’s
 back, was a constant member of the party, and when they set off in fine
-weather and in high spirits, no dog barked louder than [[The Raven|the raven]].
+weather and in high spirits, no dog barked louder than the raven.
 
 Their pleasures on these excursions were simple enough. A crust of bread
 and scrap of meat, with [[motifs/water|water]] from the brook or [[motifs/spring|spring]], sufficed for
@@ -15443,7 +15443,7 @@ their repast. Barnaby’s enjoyments were, to walk, and run, and leap,
 till he was tired; then to lie down in the long grass, or by the growing
 corn, or in the shade of some tall tree, looking upward at the light
 clouds as they floated over the blue surface of the sky, and
-listening to the lark as she poured out her brilliant [[Song|song]]. There were
+listening to the lark as she poured out her brilliant song. There were
 wild-[[motifs/flowers|flowers]] to pluck--the bright red poppy, the gentle harebell, the
 cowslip, and the [[motifs/rose|rose]]. There were [[motifs/birds|birds]] to watch; fish; ants; worms;
 hares or rabbits, as they darted across the distant pathway in the wood
@@ -15502,7 +15502,7 @@ Barnaby and his mother, he maintained in public an amazing gravity,
 and never stooped to any other gratuitous performances than biting
 the ankles of vagabond boys (an exercise in which he much delighted),
 killing a fowl or two occasionally, and swallowing the dinners of
-various neighbouring [[dogs]], of whom the boldest held him in great awe and
+various neighbouring dogs, of whom the boldest held him in great awe and
 dread.
 
 [[motifs/time|Time]] had glided on in this way, and nothing had happened to disturb or
@@ -15528,7 +15528,7 @@ much with gold, be sure of that.’
 ‘What would you do?’ she asked.
 
 ‘What! A world of things. We’d dress finely--you and I, I mean; not
-Grip--keep horses, [[dogs]], wear bright colours and feathers, do no more
+Grip--keep horses, dogs, wear bright colours and feathers, do no more
 work, live delicately and at our ease. Oh, we’d find uses for it,
 mother, and uses that would do us good. I would I knew where gold was
 buried. How hard I’d work to dig it up!’
@@ -15591,7 +15591,7 @@ Do you see great crowds of faces, now? Do they grin and chatter?’
 nothing.’
 
 Barnaby looked curiously at his eyes, and touching them with his
-fingers, as an inquisitive [[archetypes/child|child]] might, led him towards the [[house]].
+fingers, as an inquisitive [[archetypes/child|child]] might, led him towards the house.
 
 ‘You have come a long distance,’ said the widow, meeting him at the
 door. ‘How have you found your way so far?’
@@ -15620,7 +15620,7 @@ cold, and sparkling, but not to his taste nevertheless, or his thirst
 was not very great, for he only wetted his lips and put it down again.
 
 He wore, hanging with a long strap round his neck, a kind of scrip or
-wallet, in which to carry food. The widow set some bread and [[cheese]]
+wallet, in which to carry food. The widow set some bread and cheese
 before him, but he thanked her, and said that through the kindness of
 the charitable he had broken his fast once since morning, and was not
 hungry. When he had made her this reply, he opened his wallet, and took
@@ -15985,7 +15985,7 @@ country. To do that, and receive an answer, I must have [[motifs/time|time]].’
 ‘Four days?’
 
 ‘A week. Return on this day week, at the same hour, but not to the
-[[house]]. Wait at the corner of the lane.’
+house. Wait at the corner of the lane.’
 
 ‘Of course,’ said the blind man, with a crafty look, ‘I shall find you
 there?’
@@ -16031,10 +16031,10 @@ go out to-[[motifs/night|night]]. There are [[motifs/ghosts|ghosts]] and [[motif
 ourselves in that wide place--there would be some trace of us in any
 other town--then travel on again, and find some new abode.’
 
-Little [[Persuasion|persuasion]] was required to reconcile Barnaby to anything that
+Little persuasion was required to reconcile Barnaby to anything that
 promised change. In another minute, he was wild with delight; in
 another, full of grief at the prospect of parting with his friends the
-[[dogs]]; in another, wild again; then he was fearful of what she had said
+dogs; in another, wild again; then he was fearful of what she had said
 to prevent his wandering abroad that [[motifs/night|night]], and full of terrors and
 strange questions. His light-heartedness in the end surmounted all his
 other feelings, and lying down in his clothes to the end that he might
@@ -16056,7 +16056,7 @@ The air was fresh and filled with a thousand perfumes. Barnaby looked
 upward, and laughed with all his heart.
 
 But it was a day he usually devoted to a long ramble, and one of the
-[[dogs]]--the ugliest of them all--came bounding up, and jumping round him
+dogs--the ugliest of them all--came bounding up, and jumping round him
 in the fulness of his joy. He had to bid him go back in a surly tone,
 and his heart smote him while he did so. The dog retreated; turned
 with a half-incredulous, half-imploring look; came a little back; and
@@ -16147,7 +16147,7 @@ linen drying on hedges, and stray poultry, eh? What hast got in that
 basket, lazy hound?’
 
 ‘Grip, Grip, Grip--Grip the clever, Grip the wicked, Grip the
-knowing--Grip, Grip, Grip,’ cried [[The Raven|the raven]], whom Barnaby had shut up
+knowing--Grip, Grip, Grip,’ cried the raven, whom Barnaby had shut up
 on the approach of this stern personage. ‘I’m a devil I’m a devil I’m a
 devil, Never say die Hurrah Bow wow wow, Polly put the kettle on we’ll
 all have tea.’
@@ -16163,13 +16163,13 @@ insolence of manner, and screwing his head so much on one side that he
 appeared desirous of screwing it off upon the spot.
 
 The cork-drawing seemed to make a greater impression on the gentleman’s
-mind, than [[The Raven|the raven]]’s power of speech, and was indeed particularly
+mind, than the raven’s power of speech, and was indeed particularly
 adapted to his habits and capacity. He desired to have that done again,
 but despite his being very peremptory, and notwithstanding that Barnaby
 coaxed to the utmost, Grip turned a deaf ear to the request, and
 preserved a dead [[motifs/silence|silence]].
 
-‘Bring him along,’ said the gentleman, pointing to the [[house]]. But Grip,
+‘Bring him along,’ said the gentleman, pointing to the house. But Grip,
 who had watched the action, anticipated his master, by hopping on before
 them;--constantly flapping his wings, and screaming ‘cook!’ meanwhile,
 as a hint perhaps that there was company coming, and a small collation
@@ -16218,7 +16218,7 @@ was a pity there were not more like him, and that because there were
 not, the country was going to rack and ruin every day. He was in the
 commission of the peace, and could write his name almost legibly; but
 his greatest qualifications were, that he was more severe with poachers,
-was a better shot, a harder rider, had better horses, kept better [[dogs]],
+was a better shot, a harder rider, had better horses, kept better dogs,
 could eat more solid food, drink more strong wine, go to bed every [[motifs/night|night]]
 more drunk and get up every morning more sober, than any man in the
 county. In knowledge of horseflesh he was almost equal to a farrier, in
@@ -16236,12 +16236,12 @@ degree than himself. In short, Barnaby being an idiot, and Grip a
 creature of mere brute instinct, it would be very hard to say what this
 gentleman was.
 
-He rode up to the door of a handsome [[house]] approached by a great flight
+He rode up to the door of a handsome house approached by a great flight
 of steps, where a man was waiting to take his [[motifs/horse|horse]], and led the way
 into a large hall, which, spacious as it was, was tainted with the
 fumes of last [[motifs/night|night]]’s stale debauch. Greatcoats, riding-whips, bridles,
 top-boots, spurs, and such gear, were strewn about on all sides, and
-formed, with some huge stags’ antlers, and a few portraits of [[dogs]] and
+formed, with some huge stags’ antlers, and a few portraits of dogs and
 horses, its principal embellishments.
 
 Throwing himself into a great chair (in which, by the bye, he often
@@ -16271,7 +16271,7 @@ he’s hired, at so much a day. There. Get on. Make him do something.’
 
 Grip having by this [[motifs/time|time]] recovered his urbanity, condescended, at
 Barnaby’s solicitation, to repeat his various phrases of speech, and to
-go through the whole of his performances with the utmost [[success]]. The
+go through the whole of his performances with the utmost success. The
 corks, and the never say die, afforded the gentleman so much delight
 that he demanded the repetition of this part of the entertainment, until
 Grip got into his basket, and positively refused to say another word,
@@ -16324,7 +16324,7 @@ or lay ye in jail for prowling up and down, on the look-out for petty
 larcenies, ye limb of a gipsy. Here, Simon, put these pilferers out,
 shove ‘em into the [[motifs/road|road]], out with ‘em! Ye don’t want to sell the bird,
 ye that come here to beg, don’t ye? If they an’t out in [[topoi/double|double]]-quick,
-set the [[dogs]] upon ‘em!’
+set the dogs upon ‘em!’
 
 
 
@@ -16415,7 +16415,7 @@ to start at five o’[[motifs/clock|clock]] in the morning. The driver was punct
 [[motifs/road|road]] good--save for the [[motifs/dust|dust]], the weather being very hot and dry--and at
 seven in the forenoon of Friday the second of June, one thousand seven
 hundred and eighty, they alighted at the foot of Westminster Bridge,
-bade their conductor farewell, and stood [[Alone|alone]], together, on the
+bade their conductor farewell, and stood alone, together, on the
 scorching pavement. For the freshness which [[motifs/night|night]] sheds upon such
 busy thoroughfares had already departed, and the sun was shining with
 uncommon lustre.
@@ -16479,17 +16479,17 @@ the petition against the Catholics, God bless him!’
 
 ‘What have they to do with it!’ the old man replied. ‘Why, how you talk!
 Don’t you know his lordship has declared he won’t present it to the
-[[house]] at all, unless it is attended to the door by forty thousand good
+house at all, unless it is attended to the door by forty thousand good
 and true men at least? There’s a crowd for you!’
 
 ‘A crowd indeed!’ said Barnaby. ‘Do you hear that, mother!’
 
 ‘And they’re mustering yonder, as I am told,’ resumed the old man, ‘nigh
-upon a hundred thousand strong. Ah! Let Lord George [[Alone|alone]]. He knows
+upon a hundred thousand strong. Ah! Let Lord George alone. He knows
 his power. There’ll be a good many faces inside them three windows over
-there,’ and he pointed to where the [[house|House]] of Commons overlooked the
+there,’ and he pointed to where the House of Commons overlooked the
 [[motifs/river|river]], ‘that’ll turn pale when good Lord George gets up this afternoon,
-and with reason too! Ay, ay. Let his lordship [[Alone|alone]]. Let him [[Alone|alone]].
+and with reason too! Ay, ay. Let his lordship alone. Let him alone.
 HE knows!’ And so, with much mumbling and chuckling and shaking of his
 forefinger, he [[motifs/rose|rose]], with the assistance of his stick, and tottered off.
 
@@ -16579,7 +16579,7 @@ thank Heaven for it!’
 cruelly mistake my meaning. We know nothing of these matters. We have no
 [[motifs/desire|desire]] or right to join in what you are about to do. This is my son, my
 poor afflicted son, dearer to me than my own life. In [[concepts/mercy|mercy]]’s name, my
-lord, go your way [[Alone|alone]], and do not tempt him into danger!’
+lord, go your way alone, and do not tempt him into danger!’
 
 ‘My good woman,’ said Gashford, ‘how can you!--Dear me!--What do you
 mean by tempting, and by danger? Do you think his lordship is a roaring
@@ -16784,7 +16784,7 @@ plan of a great battle to the meanest soldier in the field. It was not
 without its method, however; for, in a very short space of [[motifs/time|time]] after
 being put in motion, the crowd had resolved itself into three great
 parties, and were prepared, as had been arranged, to [[motifs/cross|cross]] the [[motifs/river|river]]
-by different bridges, and make for the [[house|House]] of Commons in separate
+by different bridges, and make for the House of Commons in separate
 detachments.
 
 At the head of that division which had Westminster Bridge for its
@@ -16808,7 +16808,7 @@ notwithstanding that the men marched three abreast and followed very
 close upon each other.
 
 At the head of this party, in the place where Hugh, in the [[concepts/madness|madness]]
-of his [[Humour|humour]], had stationed him, and walking between that dangerous
+of his humour, had stationed him, and walking between that dangerous
 companion and the hangman, went Barnaby; as many a man among the
 thousands who looked on that day afterwards remembered [[motifs/well|well]]. Forgetful
 of all other things in the ecstasy of the moment, his face flushed and
@@ -16869,7 +16869,7 @@ he spat upon the ground, and could say no more.
 ‘Barnaby’s right,’ cried Hugh with a grin, ‘and I say it. Lookee, bold
 lad. If she’s not here to see, it’s because I’ve provided for her, and
 sent half-a-dozen gentlemen, every one of ‘em with a blue [[motifs/flag|flag]] (but not
-half as fine as yours), to take her, in state, to a grand [[house]] all
+half as fine as yours), to take her, in state, to a grand house all
 hung round with gold and silver banners, and everything else you please,
 where she’ll wait till you come, and want for nothing.’
 
@@ -16904,7 +16904,7 @@ Barnaby, that I have climbed and leaped with, many and many a day--I
 knew I was not mistaken in Barnaby.--Don’t you see, man,’ he added in
 a whisper, as he slipped to the other side of Dennis, ‘that the lad’s a
 natural, and can be got to do anything, if you take him the right way?
-Letting [[Alone|alone]] the fun he is, he’s worth a dozen men, in earnest, as
+Letting alone the fun he is, he’s worth a dozen men, in earnest, as
 you’d find if you tried a fall with him. Leave him to me. You shall soon
 see whether he’s of use or not.’
 
@@ -16962,8 +16962,8 @@ unceasingly, and each new outrage served to swell its fury.
 
 Within doors, matters were even yet more threatening. Lord
 George--preceded by a man who carried the immense petition on a porter’s
-knot through the lobby to the door of the [[house|House]] of Commons, where it
-was received by two officers of the [[house]] who rolled it up to the table
+knot through the lobby to the door of the House of Commons, where it
+was received by two officers of the house who rolled it up to the table
 ready for presentation--had taken his seat at an early hour, before the
 Speaker went to prayers. His followers pouring in at the same [[motifs/time|time]], the
 lobby and all the avenues were immediately filled, as we have seen. Thus
@@ -16975,14 +16975,14 @@ it would be wise to take in such extremity, or animate each other to
 dignified and firm resistance. So sure as any member, just arrived, with
 dress disordered and dishevelled hair, came struggling through the crowd
 in the lobby, it yelled and screamed in triumph; and when the door
-of the [[house|House]], partially and cautiously opened by those within for his
+of the House, partially and cautiously opened by those within for his
 admission, gave them a momentary glimpse of the interior, they grew
 more wild and savage, like beasts at the sight of prey, and made a rush
 against the portal which strained its locks and bolts in their staples,
 and shook the very beams.
 
 The strangers’ gallery, which was immediately above the door of the
-[[house|House]], had been ordered to be closed on the first rumour of disturbance,
+House, had been ordered to be closed on the first rumour of disturbance,
 and was empty; save that now and then Lord George took his seat there,
 for the convenience of coming to the head of the stairs which led to
 it, and repeating to the people what had passed within. It was on
@@ -17021,7 +17021,7 @@ marvellous rapidity.
 ‘Gentlemen,’ said Lord George, who was very pale and agitated, ‘we must
 be firm. They talk of delays, but we must have no delays. They talk of
 taking your petition into consideration next Tuesday, but we must have
-it considered now. Present appearances look bad for our [[success]], but we
+it considered now. Present appearances look bad for our success, but we
 must succeed and will!’
 
 ‘We must succeed and will!’ echoed the crowd. And so among their shouts
@@ -17053,8 +17053,8 @@ quite coolly and collectedly:
 ‘You may tell these people, if you please, my lord, that I am General
 Conway of whom they have heard; and that I oppose this petition, and all
 their proceedings, and yours. I am a soldier, you may tell them, and I
-will protect the [[concepts/freedom|freedom]] of this place with my [[Sword|sword]]. You see, my lord,
-that the members of this [[house|House]] are all in arms to-day; you know that the
+will protect the [[concepts/freedom|freedom]] of this place with my sword. You see, my lord,
+that the members of this House are all in arms to-day; you know that the
 entrance to it is a narrow one; you cannot be ignorant that there are
 men within these walls who are determined to defend that pass to the
 last, and before whom many lives must fall if your adherents persevere.
@@ -17063,7 +17063,7 @@ Have a care what you do.’
 ‘And my Lord George,’ said the other gentleman, addressing him in like
 manner, ‘I [[motifs/desire|desire]] them to hear this, from me--Colonel Gordon--your
 near relation. If a man among this crowd, whose uproar strikes us deaf,
-crosses the threshold of the [[house|House]] of Commons, I swear to run my [[Sword|sword]]
+crosses the threshold of the House of Commons, I swear to run my sword
 that moment--not into his, but into your [[concepts/body|body]]!’
 
 With that, they stepped back again, keeping their faces towards the
@@ -17090,7 +17090,7 @@ bannisters into the lobby below. He had hardly touched the ground when
 Barnaby was at his side. The chaplain’s assistant, and some members who
 were imploring the people to retire, immediately withdrew; and then,
 with a great shout, both crowds threw themselves against the doors
-pell-mell, and besieged the [[house|House]] in earnest.
+pell-mell, and besieged the House in earnest.
 
 At that moment, when a second onset must have brought them into
 collision with those who stood on the defensive within, in which case
@@ -17117,7 +17117,7 @@ The word of command to halt being given, the soldiers formed across the
 street; the rioters, breathless and exhausted with their late exertions,
 formed likewise, though in a very irregular and disorderly manner. The
 commanding officer rode hastily into the open space between the two
-bodies, accompanied by a magistrate and an officer of the [[house|House]] of
+bodies, accompanied by a magistrate and an officer of the House of
 Commons, for whose accommodation a couple of troopers had hastily
 dismounted. The Riot Act was read, but not a man stirred.
 
@@ -17261,7 +17261,7 @@ place altogether. The half-dozen prisoners whom the Guards had taken,
 were magnified by report into half-a-hundred at least; and their
 friends, being faint and sober, so slackened in their energy, and so
 drooped beneath these dispiriting influences, that by eight o’[[motifs/clock|clock]] in
-the evening, Dennis, Hugh, and Barnaby, were left [[Alone|alone]]. Even they were
+the evening, Dennis, Hugh, and Barnaby, were left alone. Even they were
 fast asleep upon the benches, when Gashford’s entrance roused them.
 
 ‘Oh! you ARE here then?’ said the Secretary. ‘Dear me!’
@@ -17389,7 +17389,7 @@ are they? Now boys!’
 boisterous, most vehement fellow! A man who--’
 
 There was no need to finish the sentence, for they had rushed out of the
-[[house]], and were far beyond hearing. He stopped in the middle of a laugh,
+house, and were far beyond hearing. He stopped in the middle of a laugh,
 listened, drew on his gloves, and, clasping his hands behind him, paced
 the deserted room for a long [[motifs/time|time]], then bent his steps towards the busy
 town, and walked into the streets.
@@ -17470,7 +17470,7 @@ business as they looked, they extended that [[motifs/night|night]] no farther. T
 soldiers were again called out, again they took half-a-dozen prisoners,
 and again the crowd dispersed after a short and bloodless scuffle. Hot
 and drunken though they were, they had not yet broken all bounds and
-set all law and [[government]] at defiance. Something of their habitual
+set all law and government at defiance. Something of their habitual
 deference to the authority erected by society for its own preservation
 yet remained among them, and had its majesty been vindicated in [[motifs/time|time]],
 the secretary would have had to digest a bitter disappointment.
@@ -17483,7 +17483,7 @@ tradesmen, of whom there were many resident in different parts of the
 [[motifs/city|City]] and its suburbs, had no [[concepts/fear|fear]] for their lives or property, and
 but little indignation for the wrong they had already sustained in
 the plunder and destruction of their temples of worship. An honest
-confidence in the [[government]] under whose protection they had lived for
+confidence in the government under whose protection they had lived for
 many years, and a [[motifs/well|well]]-founded reliance on the good feeling and right
 thinking of the great mass of the community, with whom, notwithstanding
 their religious differences, they were every day in habits of
@@ -17655,7 +17655,7 @@ Gravesend tide-boat, before any search is made for him. From there he
 can easily get on to Canterbury, where your cousin will give him
 work till this [[motifs/storm|storm]] has blown over. I am not sure that I do right in
 screening him from the punishment he deserves, but he has lived in this
-[[house]], man and boy, for a dozen years, and I should be sorry if for this
+house, man and boy, for a dozen years, and I should be sorry if for this
 one day’s work he made a miserable end. Lock the front-door, Miggs, and
 show no light towards the street when you go upstairs. Quick, Simon! Get
 to bed!’
@@ -17695,7 +17695,7 @@ writing. The locksmith took it from him, opened it, and read as follows:
 
 ‘All good friends to our cause, I [[concepts/hope|hope]] will be particular, and do no
 injury to the property of any true Protestant. I am [[motifs/well|well]] assured that
-the proprietor of this [[house]] is a staunch and worthy friend to the
+the proprietor of this house is a staunch and worthy friend to the
 cause.
 
 GEORGE GORDON.’
@@ -17805,7 +17805,7 @@ speak. ‘I have done my best for thee, poor lad, and would have saved
 thee, but the rope is round thy neck, I [[concepts/fear|fear]].’
 
 So saying, and shaking his head in a very sorrowful and disconsolate
-manner, he turned back, and soon re-entered his own [[house]], where Mrs
+manner, he turned back, and soon re-entered his own house, where Mrs
 Varden and the faithful Miggs had been anxiously expecting his return.
 
 Now Mrs Varden (and by consequence Miss Miggs likewise) was impressed
@@ -17816,7 +17816,7 @@ to the scene which had just passed; and that the locksmith’s [[motifs/time|tim
 triumph and reproach had now arrived indeed. And so strongly did Mrs
 Varden feel this, and so crestfallen was she in consequence, that while
 her husband was pursuing their lost journeyman, she secreted under her
-chair the little red-brick dwelling-[[house]] with the yellow roof, lest it
+chair the little red-brick dwelling-house with the yellow roof, lest it
 should furnish new occasion for reference to the painful theme; and now
 hid the same still more, with the skirts of her dress.
 
@@ -17840,7 +17840,7 @@ bad. A thoroughly wicked woman, is wicked indeed. When religion goes
 wrong, she is very wrong, for the same reason. Let us say no more about
 it, my dear.’
 
-So he dropped the red-brick dwelling-[[house]] on the floor, and setting his
+So he dropped the red-brick dwelling-house on the floor, and setting his
 heel upon it, crushed it into pieces. The halfpence, and sixpences,
 and other voluntary contributions, rolled about in all directions, but
 nobody offered to touch them, or to take them up.
@@ -17867,7 +17867,7 @@ it into fragments, and threw them under the grate.
 ‘Not use it?’ she said.
 
 ‘Use it!’ cried the locksmith. No! Let them come and pull the roof about
-our ears; let them burn us out of [[house]] and [[motifs/home|home]]; I’d neither have the
+our ears; let them burn us out of house and [[motifs/home|home]]; I’d neither have the
 protection of their leader, nor [[motifs/chalk|chalk]] their howl upon my door, though,
 for not doing it, they shot me on my own threshold. Use it! Let them
 come and do their worst. The first man who crosses my doorstep on such
@@ -17946,7 +17946,7 @@ upon his hand, appealed to Hugh on [[characters/sunday|Sunday]] morning, ‘that
 allows some rest? Perhaps he’d have us at work again already, eh?’
 
 ‘It’s not his way to let matters drop, you may be sure of that,’ growled
-Hugh in answer. ‘I’m in no [[Humour|humour]] to stir yet, though. I’m as stiff as
+Hugh in answer. ‘I’m in no humour to stir yet, though. I’m as stiff as
 a dead [[concepts/body|body]], and as full of ugly scratches as if I had been fighting all
 day yesterday with wild cats.’
 
@@ -17962,7 +17962,7 @@ one yonder as good as me. What did I tell you about him? Did I say he
 was worth a dozen, when you doubted him?’
 
 Mr Dennis rolled lazily over upon his breast, and resting his chin upon
-his hand in [[Imitation|imitation]] of the attitude in which Hugh lay, said, as he too
+his hand in imitation of the attitude in which Hugh lay, said, as he too
 looked towards the door:
 
 ‘Ay, ay, you knew him, brother, you knew him. But who’d suppose to look
@@ -18029,7 +18029,7 @@ good profit in it.’
 ‘Ay, against the Papists--against one of ‘em at least, that some of us,
 and I for one, owe a good heavy grudge to.’
 
-‘Not Muster Gashford’s friend that he spoke to us about in my [[house]],
+‘Not Muster Gashford’s friend that he spoke to us about in my house,
 eh?’ said Dennis, brimfull of pleasant expectation.
 
 ‘The same man,’ said Hugh.
@@ -18069,7 +18069,7 @@ the great captain conjointly and both together--for see, he’s waking up.
 Rouse yourself, [[motifs/lion|lion]]-heart. Ha ha! Put a good face upon it, and drink
 again. Another hair of the dog that bit you, captain! Call for
 drink! There’s enough of gold and silver cups and candlesticks buried
-underneath my bed,’ he added, [[rolling]] back the straw, and pointing to
+underneath my bed,’ he added, rolling back the straw, and pointing to
 where the ground was newly turned, ‘to pay for it, if it was a score of
 casks full. Drink, captain!’
 
@@ -18080,7 +18080,7 @@ assistance, however, he contrived to stagger to the pump; and having
 refreshed himself with an abundant draught of cold [[motifs/water|water]], and a copious
 shower of the same refreshing liquid on his head and face, he ordered
 some rum and milk to be served; and upon that [[archetypes/innocent|innocent]] beverage and some
-biscuits and [[cheese]] made a pretty hearty meal. That done, he disposed
+biscuits and cheese made a pretty hearty meal. That done, he disposed
 himself in an easy attitude on the ground beside his two companions (who
 were carousing after their own tastes), and proceeded to enlighten Mr
 Dennis in reference to to-morrow’s project.
@@ -18174,7 +18174,7 @@ the usual demonstrations were made in [[concepts/honour|honour]] of the annivers
 if the [[motifs/city|city]] were in perfect order, and there were no half-smouldering
 embers in its secret places, which, on the approach of [[motifs/night|night]], would
 kindle up again and scatter ruin and dismay abroad. The leaders of the
-riot, rendered still more daring by the [[success]] of last [[motifs/night|night]] and by
+riot, rendered still more daring by the success of last [[motifs/night|night]] and by
 the booty they had acquired, kept steadily together, and only thought of
 implicating the mass of their followers so deeply that no [[concepts/hope|hope]] of pardon
 or reward might tempt them to betray their more notorious confederates
@@ -18186,7 +18186,7 @@ the foremost rioters and given evidence against them, felt that escape
 by that means was hopeless, when their every act had been observed by
 scores of people who had taken no part in the disturbances; who had
 suffered in their persons, peace, or property, by the outrages of the
-mob; who would be most willing witnesses; and whom the [[government]] would,
+mob; who would be most willing witnesses; and whom the government would,
 no [[concepts/doubt|doubt]], prefer to any [[archetypes/king|King]]’s evidence that might be offered. Many of
 this class had deserted their usual occupations on the Saturday morning;
 some had been seen by their employers active in the tumult; others
@@ -18194,7 +18194,7 @@ knew they must be suspected, and that they would be discharged if they
 returned; others had been desperate from the beginning, and comforted
 themselves with the homely proverb, that, being hanged at all, they
 might as [[motifs/well|well]] be hanged for a sheep as a [[motifs/lamb|lamb]]. They all hoped and
-believed, in a greater or less degree, that the [[government]] they seemed
+believed, in a greater or less degree, that the government they seemed
 to have paralysed, would, in its terror, come to terms with them in the
 end, and suffer them to make their own conditions. The least sanguine
 among them reasoned with himself that, at the worst, they were too many
@@ -18430,8 +18430,8 @@ then putting himself between the two men, and laying a hand upon the arm
 of each, said, in a cramped whisper:
 
 ‘Do not, my good friends--I am sure you will not--forget our talk one
-[[motifs/night|night]]--in your [[house]], Dennis--about this person. No [[concepts/mercy|mercy]], no quarter,
-no two beams of his [[house]] to be left standing where the builder placed
+[[motifs/night|night]]--in your house, Dennis--about this person. No [[concepts/mercy|mercy]], no quarter,
+no two beams of his house to be left standing where the builder placed
 them! [[motifs/fire|Fire]], the saying goes, is a good servant, but a bad master. Make
 it _his_ master; he deserves no better. But I am sure you will be firm, I
 am sure you will be very resolute, I am sure you will remember that he
@@ -18458,7 +18458,7 @@ the last.
 Smiling at the simplicity of the poor idiot, Gashford betook himself to
 Welbeck Street by a different path from that which he knew the rioters
 would take, and sitting down behind a curtain in one of the upper
-windows of [[characters/lord-george-gordon|Lord George Gordon]]’s [[house]], waited impatiently for their
+windows of [[characters/lord-george-gordon|Lord George Gordon]]’s house, waited impatiently for their
 coming. They were so long, that although he knew it had been settled
 they should come that way, he had a misgiving they must have changed
 their plans and taken some other route. But at length the roar of voices
@@ -18467,7 +18467,7 @@ thronging past, in a great [[concepts/body|body]].
 
 However, they were not all, nor nearly all, in one [[concepts/body|body]], but were, as he
 soon found, divided into four parties, each of which stopped before the
-[[house]] to give three cheers, and then went on; the leaders crying out in
+house to give three cheers, and then went on; the leaders crying out in
 what direction they were going, and calling on the spectators to join
 them. The first detachment, carrying, by way of banners, some relics
 of the havoc they had made in Moorfields, proclaimed that they were on
@@ -18518,7 +18518,7 @@ untasted; and, in restless pacings up and down the room, and constant
 glances at the [[motifs/clock|clock]], and many futile efforts to sit down and read, or
 go to [[motifs/sleep|sleep]], or look out of the [[motifs/window|window]], consumed four weary hours. When
 the dial told him thus much [[motifs/time|time]] had crept away, he stole upstairs to
-the top of the [[house]], and coming out upon the roof sat down, with his
+the top of the house, and coming out upon the roof sat down, with his
 face towards the east.
 
 Heedless of the fresh air that blew upon his heated brow, of the
@@ -18612,10 +18612,10 @@ down.
 
 ‘Do you suppose if all this was true, that Mr Haredale would be
 constantly away from [[motifs/home|home]], as he is?’ said John, after another [[motifs/silence|silence]].
-‘Do you think he wouldn’t be afraid to leave his [[house]] with them two
+‘Do you think he wouldn’t be afraid to leave his house with them two
 young women in it, and only a couple of men, or so?’
 
-‘Ay, but then you know,’ returned Solomon Daisy, ‘his [[house]] is a goodish
+‘Ay, but then you know,’ returned Solomon Daisy, ‘his house is a goodish
 way out of [[settings/london|London]], and they do say that the rioters won’t go more than
 two miles, or three at the farthest, off the stones. Besides, you
 know, some of the Catholic gentlefolks have actually sent trinkets and
@@ -18633,7 +18633,7 @@ once. So shake hands, Johnny, and good [[motifs/night|night]].’
 pockets, ‘with no man as goes to [[settings/london|London]] on such nonsensical errands.’
 
 The three cronies were therefore reduced to the necessity of shaking his
-elbows; having performed that ceremony, and brought from the [[house]] their
+elbows; having performed that ceremony, and brought from the house their
 hats, and sticks, and greatcoats, they bade him good [[motifs/night|night]] and departed;
 promising to bring him on the morrow full and true accounts of the real
 state of the [[motifs/city|city]], and if it were quiet, to give him the full merit of
@@ -18644,7 +18644,7 @@ rich glow of a [[motifs/summer|summer]] evening; and knocking the ashes out of h
 laughed inwardly at their folly, until his sides were sore. When he had
 quite exhausted himself--which took some [[motifs/time|time]], for he laughed as slowly
 as he thought and spoke--he sat himself comfortably with his back to the
-[[house]], put his legs upon the bench, then his apron over his face, and
+house, put his legs upon the bench, then his apron over his face, and
 fell sound asleep.
 
 How long he slept, matters not; but it was for no brief space, for
@@ -18688,7 +18688,7 @@ them.
 Be this as it may, John Willet, in whom the very uttermost extent of
 dull-headed perplexity supplied the place of [[concepts/courage|courage]], stationed himself
 in the porch, and waited for their coming up. Once, it dimly occurred
-to him that there was a kind of door to the [[house]], which had a lock and
+to him that there was a kind of door to the house, which had a lock and
 bolts; and at the same [[motifs/time|time]] some shadowy ideas of shutters to the lower
 windows, flitted through his brain. But he stood stock still, looking
 down the [[motifs/road|road]] in the direction in which the noise was rapidly advancing,
@@ -18707,7 +18707,7 @@ Mr Willet looked at him, and saw it was Hugh; but he said nothing, and
 thought nothing.
 
 ‘These lads are thirsty and must drink!’ cried Hugh, thrusting him back
-towards the [[house]]. ‘Bustle, Jack, bustle. Show us the best--the very
+towards the house. ‘Bustle, Jack, bustle. Show us the best--the very
 best--the over-proof that you keep for your own drinking, Jack!’
 
 John faintly articulated the words, ‘Who’s to pay?’
@@ -18718,7 +18718,7 @@ nobody.’
 
 John stared round at the mass of faces--some grinning, some fierce, some
 lighted up by torches, some indistinct, some dusky and shadowy: some
-looking at him, some at his [[house]], some at each other--and while he was,
+looking at him, some at his house, some at each other--and while he was,
 as he thought, in the very act of doing so, found himself, without any
 consciousness of having moved, in the bar; sitting down in an arm-chair,
 and watching the destruction of his property, as if it were some queer
@@ -18733,7 +18733,7 @@ once into a bear-[[motifs/garden|garden]], a madhouse, an infernal temple: men d
 in and out, by door and [[motifs/window|window]], smashing the glass, turning the taps,
 drinking liquor out of China punchbowls, sitting astride of casks,
 smoking private and personal pipes, cutting down the sacred grove of
-lemons, hacking and hewing at the celebrated [[cheese]], breaking open
+lemons, hacking and hewing at the celebrated cheese, breaking open
 inviolable drawers, putting things in their pockets which didn’t belong
 to them, dividing his own money before his own eyes, wantonly wasting,
 breaking, pulling down and tearing up: nothing quiet, nothing private:
@@ -18743,7 +18743,7 @@ doors wide open; dropping out of windows when the stairs were handy;
 leaping over the bannisters into chasms of passages: new faces and
 figures presenting themselves every instant--some yelling, some singing,
 some fighting, some breaking glass and crockery, some laying the [[motifs/dust|dust]]
-with the liquor they couldn’t drink, some ringing [[The Bells|the bells]] till they
+with the liquor they couldn’t drink, some ringing the bells till they
 pulled them down, others beating them with pokers till they beat them
 into fragments: more men still--more, more, more--swarming on like
 [[motifs/insects|insects]]: noise, smoke, light, darkness, frolic, anger, laughter, groans,
@@ -18758,13 +18758,13 @@ return the compliment; and if old John had had sufficient presence of
 mind to understand this whispered direction, and to profit by it, he
 might no [[concepts/doubt|doubt]], under Hugh’s protection, have done so with impunity.
 
-At length the band began to reassemble outside the [[house]], and to call
+At length the band began to reassemble outside the house, and to call
 to those within, to join them, for they were losing [[motifs/time|time]]. These murmurs
 increasing, and attaining a high pitch, Hugh, and some of those who yet
 lingered in the bar, and who plainly were the leaders of the troop, took
 counsel together, apart, as to what was to be done with John, to keep
 him quiet until their Chigwell work was over. Some proposed to set the
-[[house]] on [[motifs/fire|fire]] and leave him in it; others, that he should be reduced
+house on [[motifs/fire|fire]] and leave him in it; others, that he should be reduced
 to a state of temporary insensibility, by knocking on the head; others,
 that he should be sworn to sit where he was until to-morrow at the same
 hour; others again, that he should be gagged and taken off with them,
@@ -18847,7 +18847,7 @@ second [[motifs/time|time]], and gave the word ‘Forward!’ which was echoed b
 voices from without.
 
 ‘To the Warren!’ shouted Dennis as he ran out, followed by the rest. ‘A
-witness’s [[house]], my lads!’
+witness’s house, my lads!’
 
 A loud yell followed, and the whole throng hurried off, mad for pillage
 and destruction. Hugh lingered behind for a few moments to stimulate
@@ -18868,7 +18868,7 @@ companions.
 Chapter 55
 
 
-John Willet, left [[Alone|alone]] in his dismantled bar, continued to sit staring
+John Willet, left alone in his dismantled bar, continued to sit staring
 about him; awake as to his eyes, certainly, but with all his powers of
 reason and reflection in a sound and dreamless [[motifs/sleep|sleep]]. He looked round
 upon the room which had been for years, and was within an hour ago, the
@@ -18900,7 +18900,7 @@ him. He was a long way beyond surprise. A [[archetypes/ghost|ghost]] couldn’t 
 him.
 
 By and by he heard a footstep--a hurried, and yet cautious
-footstep--coming on towards the [[house]]. It stopped, advanced again,
+footstep--coming on towards the house. It stopped, advanced again,
 then seemed to go quite round it. Having done that, it came beneath the
 [[motifs/window|window]], and a head looked in.
 
@@ -18910,7 +18910,7 @@ was owing to its gaunt condition--unnaturally large and bright; the
 hair, a grizzled black. It gave a searching glance all round the room,
 and a deep voice said:
 
-‘Are you [[Alone|alone]] in this [[house]]?’
+‘Are you alone in this house?’
 
 John made no sign, though the question was repeated twice, and he heard
 it distinctly. After a moment’s pause, the man got in at the [[motifs/window|window]].
@@ -18957,7 +18957,7 @@ scattered about, and on these he fell next; eating them with voracity,
 and pausing every now and then to listen for some fancied noise outside.
 When he had refreshed himself in this manner with violent haste, and
 raised another barrel to his lips, he pulled his hat upon his brow as
-though he were about to leave the [[house]], and turned to John.
+though he were about to leave the house, and turned to John.
 
 ‘Where are your servants?’
 
@@ -19035,17 +19035,17 @@ lay crouching there, the work went briskly on indeed. When they left the
 Maypole, the rioters formed into a solid [[concepts/body|body]], and advanced at a quick
 pace towards the Warren. Rumour of their approach having gone before,
 they found the [[motifs/garden|garden]]-doors fast closed, the windows made secure, and
-the [[house]] profoundly dark: not a light being visible in any portion of
-the building. After some fruitless ringing at [[The Bells|the bells]], and beating
+the house profoundly dark: not a light being visible in any portion of
+the building. After some fruitless ringing at the bells, and beating
 at the iron gates, they drew off a few paces to reconnoitre, and confer
 upon the course it would be best to take.
 
 Very little conference was needed, when all were bent upon one desperate
 purpose, infuriated with liquor, and flushed with successful riot.
-The word being given to surround the [[house]], some climbed the gates, or
+The word being given to surround the house, some climbed the gates, or
 dropped into the shallow trench and scaled the [[motifs/garden|garden]] wall, while others
 pulled down the solid iron fence, and while they made a breach to
-enter by, made deadly weapons of the bars. The [[house]] being completely
+enter by, made deadly weapons of the bars. The house being completely
 encircled, a small number of men were despatched to break open a
 tool-shed in the [[motifs/garden|garden]]; and during their absence on this errand, the
 remainder contented themselves with knocking violently at the doors, and
@@ -19086,7 +19086,7 @@ to have had his brains beaten out with an iron bar (one of his fellows
 reported that he had seen the old man fall), and to have been afterwards
 burnt in the flames.
 
-The besiegers being now in complete possession of the [[house]], spread
+The besiegers being now in complete possession of the house, spread
 themselves over it from garret to cellar, and plied their demon labours
 fiercely. While some small parties kindled bonfires underneath the
 windows, others broke up the furniture and cast the fragments down
@@ -19135,7 +19135,7 @@ of [[motifs/home|home]] had made a sacred place, and the destruction by rude han
 every little household favourite which old associations made a dear
 and precious thing: all this taking place--not among pitying looks and
 friendly murmurs of compassion, but brutal shouts and exultations,
-which seemed to make the very rats who stood by the old [[house]] too long,
+which seemed to make the very rats who stood by the old house too long,
 creatures with some claim upon the pity and regard of those its roof had
 sheltered:--combined to form a scene never to be forgotten by those who
 saw it and were not actors in the work, so long as life endured.
@@ -19183,7 +19183,7 @@ of their usual cry, the assembly dropped away. The last few red-eyed
 stragglers reeled after those who had gone before; the distant noise of
 men calling to each other, and whistling for others whom they missed,
 grew fainter and fainter; at length even these sounds died away, and
-[[motifs/silence|silence]] reigned [[Alone|alone]].
+[[motifs/silence|silence]] reigned alone.
 
 [[motifs/silence|Silence]] indeed! The glare of the flames had sunk into a fitful, flashing
 light; and the gentle [[motifs/stars|stars]], invisible till now, looked down upon the
@@ -19216,19 +19216,19 @@ Chigwell. One man told them that that afternoon the Guards, conveying to
 Newgate some rioters who had been re-examined, had been set upon by the
 mob and compelled to retreat; another, that the houses of two witnesses
 near Clare Market were about to be pulled down when he came away;
-another, that Sir George Saville’s [[house]] in Leicester Fields was to be
+another, that Sir George Saville’s house in Leicester Fields was to be
 burned that [[motifs/night|night]], and that it would go hard with Sir George if he fell
 into the people’s hands, as it was he who had brought in the Catholic
 bill. All accounts agreed that the mob were out, in stronger numbers
 and more numerous parties than had yet appeared; that the streets were
-unsafe; that no man’s [[house]] or life was worth an hour’s purchase; that
+unsafe; that no man’s house or life was worth an hour’s purchase; that
 the public consternation was increasing every moment; and that many
 families had already fled the [[motifs/city|city]]. One fellow who wore the popular
 colour, damned them for not having cockades in their hats, and bade them
 set a good watch to-morrow [[motifs/night|night]] upon their [[motifs/prison|prison]] doors, for the locks
 would have a straining; another asked if they were [[motifs/fire|fire]]-proof, that
 they walked abroad without the distinguishing mark of all good and true
-men;--and a third who rode on horseback, and was quite [[Alone|alone]], ordered
+men;--and a third who rode on horseback, and was quite alone, ordered
 them to throw each man a shilling, in his hat, towards the support of
 the rioters. Although they were afraid to refuse compliance with this
 demand, and were much alarmed by these reports, they agreed, having come
@@ -19239,7 +19239,7 @@ news; and ruminating on what they had heard, spoke little to each other.
 It was now [[motifs/night|night]], and as they came nearer to the [[motifs/city|city]] they had dismal
 confirmation of this intelligence in three great fires, all close
 together, which burnt fiercely and were gloomily reflected in the sky.
-Arriving in the immediate suburbs, they found that almost every [[house]]
+Arriving in the immediate suburbs, they found that almost every house
 had chalked upon its door in large characters ‘No Popery,’ that the
 shops were shut, and that alarm and anxiety were depicted in every face
 they passed.
@@ -19299,12 +19299,12 @@ Up here--behind me--quick! Clasp me tight round the [[concepts/body|body]], and 
 nothing.’
 
 In an instant they were riding away, at full gallop, in a dense cloud of
-[[motifs/dust|dust]], and speeding on, like hunters in [[A Dream|a dream]].
+[[motifs/dust|dust]], and speeding on, like hunters in a dream.
 
 It was [[motifs/well|well]] the good [[motifs/horse|horse]] knew the [[motifs/road|road]] he traversed, for never
 once--no, never once in all the [[motifs/journey|journey]]--did Mr Haredale cast his eyes
 upon the ground, or turn them, for an instant, from the light towards
-which they sped so madly. Once he said in a low voice, ‘It is my [[house]],’
+which they sped so madly. Once he said in a low voice, ‘It is my house,’
 but that was the only [[motifs/time|time]] he spoke. When they came to dark and doubtful
 places, he never forgot to put his hand upon the little man to hold him
 more securely in his seat, but he kept his head erect and his eyes fixed
@@ -19334,7 +19334,7 @@ about his ears;--nobody could have taken shelter here.
 
 He was a strong man, accustomed to restrain himself, and suppress his
 strong emotions; but this preparation for what was to follow--though he
-had seen that [[motifs/fire|fire]] burning, and knew that his [[house]] must be razed to the
+had seen that [[motifs/fire|fire]] burning, and knew that his house must be razed to the
 ground--was more than he could bear. He covered his face with his hands
 for a moment, and turned away his head.
 
@@ -19376,7 +19376,7 @@ John knitted his brow; looked downwards, as if he were mentally engaged
 in some arithmetical calculation; then upwards, as if the total would
 not come at his call; then at Solomon Daisy, from his eyebrow to his
 shoe-buckle; then very slowly round the bar. And then a great, round,
-leaden-looking, and not at all transparent tear, came [[rolling]] out of
+leaden-looking, and not at all transparent tear, came rolling out of
 each eye, and he said, as he shook his head:
 
 ‘If they’d only had the goodness to murder me, I’d have thanked ‘em
@@ -19429,7 +19429,7 @@ His landlord, who had listened to these words with breathless attention,
 started that moment to his feet; and, without a word, drew Solomon
 Daisy to the door, mounted his [[motifs/horse|horse]], took him up behind again, and flew
 rather than galloped towards the pile of ruins, which that day’s sun
-had shone upon, a stately [[house]]. Mr Willet stared after them, listened,
+had shone upon, a stately house. Mr Willet stared after them, listened,
 looked down upon himself to make quite sure that he was still unbound,
 and, without any manifestation of impatience, disappointment, or
 surprise, gently relapsed into the condition from which he had so
@@ -19437,16 +19437,16 @@ imperfectly recovered.
 
 Mr Haredale tied his [[motifs/horse|horse]] to the trunk of a tree, and grasping his
 companion’s arm, stole softly along the footpath, and into what had
-been the [[motifs/garden|garden]] of his [[house]]. He stopped for an instant to look upon its
+been the [[motifs/garden|garden]] of his house. He stopped for an instant to look upon its
 smoking walls, and at the [[motifs/stars|stars]] that shone through roof and floor upon
 the heap of crumbling ashes. Solomon glanced timidly in his face, but
 his lips were tightly pressed together, a resolute and stern expression
 sat upon his brow, and not a tear, a look, or gesture indicating grief,
 escaped him.
 
-He drew his [[Sword|sword]]; felt for a moment in his breast, as though he carried
+He drew his sword; felt for a moment in his breast, as though he carried
 other arms about him; then grasping Solomon by the wrist again, went
-with a cautious step all round the [[house]]. He looked into every doorway
+with a cautious step all round the house. He looked into every doorway
 and gap in the wall; retraced his steps at every rustling of the air
 among the [[motifs/leaves|leaves]]; and searched in every shadowed nook with outstretched
 hands. Thus they made the circuit of the building: but they returned
@@ -19485,7 +19485,7 @@ keenly.
 He covered the little man’s mouth with his hand, and looked again.
 Instantly, with kindling eyes, he bade him on his life keep still, and
 neither speak nor move. Then holding his breath, and stooping down,
-he stole into the turret, with his drawn [[Sword|sword]] in his hand, and
+he stole into the turret, with his drawn sword in his hand, and
 disappeared.
 
 Terrified to be left there by himself, under such desolate
@@ -19504,7 +19504,7 @@ hidden from the view again.
 It emerged once more, into the shadowy and uncertain light--higher now,
 but not much, for the way was steep and toilsome, and its progress very
 slow. What [[characters/phantom|phantom]] of the brain did he pursue; and why did he look down
-so constantly? He knew he was [[Alone|alone]]. Surely his mind was not affected by
+so constantly? He knew he was alone. Surely his mind was not affected by
 that [[motifs/night|night]]’s loss and agony. He was not about to throw himself headlong
 from the summit of the tottering wall. Solomon turned sick, and clasped
 his hands. His limbs trembled beneath him, and a cold sweat broke out
@@ -19548,7 +19548,7 @@ Chapter 57
 
 
 Barnaby, armed as we have seen, continued to pace up and down before
-the stable-door; glad to be [[Alone|alone]] again, and heartily rejoicing in the
+the stable-door; glad to be alone again, and heartily rejoicing in the
 unaccustomed [[motifs/silence|silence]] and tranquillity. After the whirl of noise and riot
 in which the last two days had been passed, the pleasures of [[concepts/solitude|solitude]]
 and peace were enhanced a thousandfold. He felt quite happy; and as he
@@ -19568,7 +19568,7 @@ the boldest, and trusted before them all! And when these frays were
 over, and the good lord had conquered his enemies, and they were all at
 peace again, and he and she were rich, what happiness they would have
 in talking of these troubled times when he was a great soldier: and when
-they sat [[Alone|alone]] together in the tranquil twilight, and she had no longer
+they sat alone together in the tranquil twilight, and she had no longer
 reason to be anxious for the morrow, what pleasure would he have in the
 reflection that this was his doing--his--poor foolish Barnaby’s; and
 in patting her on the cheek, and saying with a merry laugh, ‘Am I silly
@@ -19611,11 +19611,11 @@ bits. ‘[[motifs/well|Well]] said, old boy!’
 
 ‘Never say die, bow wow wow, keep up your spirits, Grip Grip Grip,
 Holloa! We’ll all have tea, I’m a Protestant kettle, No Popery!’ cried
-[[The Raven|the raven]].
+the raven.
 
 ‘Gordon for ever, Grip!’ cried Barnaby.
 
-[[The Raven|The raven]], placing his head upon the ground, looked at his master
+The raven, placing his head upon the ground, looked at his master
 sideways, as though he would have said, ‘Say that again!’ Perfectly
 understanding his [[motifs/desire|desire]], Barnaby repeated the phrase a great many
 times. The bird listened with profound attention; sometimes repeating
@@ -19650,7 +19650,7 @@ secure till they come back. I’ll do it, sir, for your sake. You’re a
 good gentleman; a kind gentleman--ay, you are. There are many against
 you, but we’ll be a match for them, never [[concepts/fear|fear]]!’
 
-‘What’s that?’ said Lord George--pointing to [[The Raven|the raven]] who was peeping
+‘What’s that?’ said Lord George--pointing to the raven who was peeping
 out of the stable-door--but still looking thoughtfully, and in some
 perplexity, it seemed, at Barnaby.
 
@@ -19672,7 +19672,7 @@ he is, for sometimes it puzzles me--and I am used to him--to think
 he’s only a bird. He’s my brother, Grip is--always with me--always
 talking--always merry--eh, Grip?’
 
-[[The Raven|The raven]] answered by an affectionate croak, and hopping on his master’s
+The raven answered by an affectionate croak, and hopping on his master’s
 arm, which he held downward for that purpose, submitted with an air of
 perfect indifference to be fondled, and turned his restless, curious
 eye, now upon Lord George, and now upon his man.
@@ -19754,7 +19754,7 @@ turn out and take you; and that if they do, you will certainly be hung
 by the neck till you’re dead--dead--dead. And I think you had better go
 from here, as fast as you can. That’s what I think.’
 
-‘He’s a coward, Grip, a coward!’ cried Barnaby, putting [[The Raven|the raven]] on the
+‘He’s a coward, Grip, a coward!’ cried Barnaby, putting the raven on the
 ground, and shouldering his staff. ‘Let them come! Gordon for ever! Let
 them come!’
 
@@ -19794,7 +19794,7 @@ mood. He was happier than ever.
 He was leaning on his staff looking towards the declining sun, and
 reflecting with a smile that he stood sentinel at that moment over
 buried gold, when two or three figures appeared in the distance, making
-towards the [[house]] at a rapid pace, and motioning with their hands as
+towards the house at a rapid pace, and motioning with their hands as
 though they urged its inmates to retreat from some approaching danger.
 As they drew nearer, they became more earnest in their gestures; and
 they were no sooner within hearing, than the foremost among them cried
@@ -19810,7 +19810,7 @@ At these words, Barnaby furled his [[motifs/flag|flag]], and tied it round the p
 heart beat high while he did so, but he had no more [[concepts/fear|fear]] or thought of
 retreating than the pole itself. The friendly stragglers hurried past
 him, after giving him notice of his danger, and quickly passed into the
-[[house]], where the utmost confusion immediately prevailed. As those within
+house, where the utmost confusion immediately prevailed. As those within
 hastily closed the windows and the doors, they urged him by looks and
 signs to fly without loss of [[motifs/time|time]], and called to him many times to do
 so; but he only shook his head indignantly in answer, and stood the
@@ -19850,7 +19850,7 @@ the musket-stocks upon the ground, and the sharp and rapid rattling of
 the ramrods in their barrels, were a kind of relief to Barnaby, deadly
 though he knew the purport of such sounds to be. When this was done,
 other commands were given, and the soldiers instantaneously formed in
-single file all round the [[house]] and stables; completely encircling them
+single file all round the house and stables; completely encircling them
 in every part, at a distance, perhaps, of some half-dozen yards; at
 least that seemed in Barnaby’s eyes to be about the space left between
 himself and those who confronted him. The horsemen remained drawn up by
@@ -19896,7 +19896,7 @@ questioned or reproached him, or seemed to have much curiosity about
 him. The two men he had stunned, were carried off by their companions in
 the same business-like way in which everything else was done. Finally,
 he was left under a guard of four soldiers with fixed bayonets, while
-the officer directed in person the search of the [[house]] and the other
+the officer directed in person the search of the house and the other
 buildings connected with it.
 
 This was soon completed. The soldiers formed again in the yard; he was
@@ -19980,7 +19980,7 @@ ground-floor rooms, furbishing and brushing up their different articles
 of dress, who stopped to look at him, and whose voices as they
 spoke together echoed loudly through the empty galleries and
 passages;--everything, down to the stand of muskets before the
-guard-[[house]], and the drum with a pipe-clayed belt attached, in one
+guard-house, and the drum with a pipe-clayed belt attached, in one
 corner, impressed itself upon his observation, as though he had noticed
 them in the same place a hundred times, or had been a whole day among
 them, in place of one brief hurried minute.
@@ -20112,7 +20112,7 @@ example.’
 
 ‘I don’t know what you mean.’
 
-‘Go to the guard-[[house]], and see. You’ll find a bird there, that’s got
+‘Go to the guard-house, and see. You’ll find a bird there, that’s got
 their cry as pat as any of ‘em, and bawls “No Popery,” like a man--or
 like a devil, as he says he is. I shouldn’t [[concepts/wonder|wonder]]. The devil’s loose
 in [[settings/london|London]] somewhere. Damme if I wouldn’t twist his neck round, on the
@@ -20198,7 +20198,7 @@ As they came nearer and nearer to the [[motifs/prison|prison]], the hootings of 
 grew more violent; stones were thrown; and every now and then, a rush
 was made against the soldiers, which they staggered under. One of them,
 close before him, smarting under a blow upon the temple, levelled his
-musket, but the officer struck it upwards with his [[Sword|sword]], and ordered
+musket, but the officer struck it upwards with his sword, and ordered
 him on peril of his life to desist. This was the last thing he saw
 with any distinctness, for directly afterwards he was tossed about,
 and beaten to and fro, as though in a tempestuous sea. But go where
@@ -20213,7 +20213,7 @@ struggling to rejoin their fellows. Next moment, everything was dark and
 gloomy, and he was standing in the [[motifs/prison|prison]] lobby; the centre of a group
 of men.
 
-A [[smith]] was speedily in attendance, who riveted upon him a set of heavy
+A smith was speedily in attendance, who riveted upon him a set of heavy
 irons. Stumbling on as [[motifs/well|well]] as he could, beneath the unusual burden of
 these fetters, he was conducted to a strong stone cell, where, fastening
 the door with locks, and bolts, and [[motifs/chains|chains]], they left him, [[motifs/well|well]] secured;
@@ -20299,7 +20299,7 @@ here, if that’ll do.’
 Show a light here, and gather round! Let me sup in state, my lads! Ha ha
 ha!’
 
-Entering into his boisterous [[Humour|humour]], for they all had drunk deeply, and
+Entering into his boisterous humour, for they all had drunk deeply, and
 were as wild as he, they crowded about him, while two of their number
 who had torches, held them up, one on either side of him, that his
 banquet might not be despatched in the dark. Mr Dennis, having by this
@@ -20378,7 +20378,7 @@ himself with tapping at the front windows of the carriage, and trying to
 steal a glance inside; Mr Tappertit, mounting the steps and hanging on
 by the door, issued his directions to the driver with a commanding
 voice and attitude; the rest got up behind, or ran by the side of the
-carriage, as they could; some, in [[Imitation|imitation]] of Hugh, endeavoured to
+carriage, as they could; some, in imitation of Hugh, endeavoured to
 see the face he had praised so highly, and were reminded of their
 impertinence by hints from the cudgel of Mr Tappertit. Thus they pursued
 their [[motifs/journey|journey]] by circuitous and winding roads; preserving, except when
@@ -20553,7 +20553,7 @@ I had been that there highwayman or housebreaker, I should have made
 answer: “What are you a talking of, my lord? I showed the women as much
 consideration as the law does, and what more would you have me do?” If
 you was to count up in the newspapers the number of females as have
-been worked off in this here [[motifs/city|city]] [[Alone|alone]], in the last ten year,’ said Mr
+been worked off in this here [[motifs/city|city]] alone, in the last ten year,’ said Mr
 Dennis thoughtfully, ‘you’d be surprised at the total--quite amazed, you
 would. There’s a dignified and equal thing; a beautiful thing! But we’ve
 no security for its lasting. Now that they’ve begun to favour these here
@@ -20615,7 +20615,7 @@ at that moment.
 ‘She’s in an excited state to-[[motifs/night|night]],’ said Simon, as he smoothed his
 rumpled feathers, ‘and don’t know when she’s [[motifs/well|well]] off. Let her be by
 herself till to-morrow, and that’ll bring her down a little. Carry her
-into the next [[house]]!’
+into the next house!’
 
 Hugh had her in his arms directly. It might be that Mr Tappertit’s heart
 was really softened by her distress, or it might be that he felt it in
@@ -20643,14 +20643,14 @@ side, and that the least noise is certain to be attended with unpleasant
 consequences. You’ll hear--both of you--more of our intentions
 to-morrow. In the mean [[motifs/time|time]], don’t show yourselves at the [[motifs/window|window]], or
 appeal to any of the people you may see pass it; for if you do, it’ll
-be known directly that you come from a Catholic [[house]], and all the
+be known directly that you come from a Catholic house, and all the
 exertions our men can make, may not be able to save your lives.’
 
 With this last caution, which was true enough, he turned to the door,
 followed by Hugh and Dennis. They paused for a moment, going out, to
 look at them clasped in each other’s arms, and then left the cottage;
 fastening the door, and setting a good watch upon it, and indeed all
-round the [[house]].
+round the house.
 
 ‘I say,’ growled Dennis, as they walked away in company, ‘that’s a
 dainty pair. Muster Gashford’s one is as handsome as the other, eh?’
@@ -20736,7 +20736,7 @@ them to stop.
 
 ‘Stop! and why?’ said Hugh.
 
-Because (the scout replied) the [[house]] was filled with constables and
+Because (the scout replied) the house was filled with constables and
 soldiers; having been surprised that afternoon. The inmates had fled
 or been taken into custody, he could not say which. He had prevented a
 great many people from approaching nearer, and he believed they had
@@ -20751,7 +20751,7 @@ Whether this was true or false, he could not affirm.
 The three took counsel together, on hearing this, and debated what it
 might be best to do. Hugh, deeming it possible that Barnaby was in the
 hands of the soldiers, and at that moment under detention at The Boot,
-was for advancing stealthily, and firing the [[house]]; but his companions,
+was for advancing stealthily, and firing the house; but his companions,
 who objected to such rash measures unless they had a crowd at their
 backs, represented that if Barnaby were taken he had assuredly been
 removed to a stronger [[motifs/prison|prison]]; they would never have dreamed of keeping
@@ -20785,7 +20785,7 @@ substitute for beds, or perhaps because it afforded the means of a hasty
 barricade in case of need, many of the rioters had straggled, not only
 that [[motifs/night|night]], but for two or three nights before. It was now broad day,
 but the morning being cold, a group of them were gathered round a [[motifs/fire|fire]]
-in a public-[[house]], drinking hot purl, and smoking pipes, and planning
+in a public-house, drinking hot purl, and smoking pipes, and planning
 new schemes for to-morrow.
 
 Hugh and his two friends being known to most of these men, were received
@@ -20869,7 +20869,7 @@ would be [[concepts/madness|madness]]; and that if they waited until [[motifs/ni
 plan of attack, they might release, not only their own companions, but
 all the prisoners, and burn down the jail.
 
-‘Not that jail [[Alone|alone]],’ cried Hugh, ‘but every jail in [[settings/london|London]]. They shall
+‘Not that jail alone,’ cried Hugh, ‘but every jail in [[settings/london|London]]. They shall
 have no place to put their prisoners in. We’ll burn them all down; make
 bonfires of them every one! Here!’ he cried, catching at the hangman’s
 hand. ‘Let all who’re men here, join with us. Shake hands upon it.
@@ -20960,7 +20960,7 @@ who, terrified by the threats and warnings of their neighbours, were
 quitting the [[motifs/city|city]] on foot, and who told them they could hire no cart or
 [[motifs/horse|horse]] for the removal of their goods, and had been compelled to leave
 them behind, at the [[concepts/mercy|mercy]] of the crowd. Near Mile End they passed a
-[[house]], the master of which, a Catholic gentleman of small means, having
+house, the master of which, a Catholic gentleman of small means, having
 hired a waggon to remove his furniture by midnight, had had it all
 brought down into the street, to wait the vehicle’s arrival, and save
 [[motifs/time|time]] in the packing. But the man with whom he made the bargain, alarmed
@@ -20979,11 +20979,11 @@ been afraid to recognise Catholic acquaintance in the streets, lest
 they should be marked by spies, and burnt out, as it was called, in
 consequence. One mild old man--a priest, whose chapel was destroyed;
 a very feeble, patient, inoffensive creature--who was trudging away,
-[[Alone|alone]], designing to walk some distance from town, and then try his
+alone, designing to walk some distance from town, and then try his
 fortune with the coaches, told Mr Haredale that he feared he might not
 find a magistrate who would have the hardihood to commit a prisoner to
 jail, on his complaint. But notwithstanding these discouraging accounts
-they went on, and reached the Mansion [[house|House]] soon after sunrise.
+they went on, and reached the Mansion House soon after sunrise.
 
 
 
@@ -21001,18 +21001,18 @@ natural to one in his condition, Mr Haredale thrust himself forward and
 was about to speak, when the fat old gentleman interposed:
 
 ‘My good sir,’ said he, ‘pray let me get an answer. This is the sixth
-[[motifs/time|time]] I have been here. I was here five times yesterday. My [[house]] is
+[[motifs/time|time]] I have been here. I was here five times yesterday. My house is
 threatened with destruction. It is to be burned down to-[[motifs/night|night]], and was
 to have been last [[motifs/night|night]], but they had other business on their hands.
 Pray let me get an answer.’
 
-‘My good sir,’ returned Mr Haredale, shaking his head, ‘my [[house]] is
+‘My good sir,’ returned Mr Haredale, shaking his head, ‘my house is
 burned to the ground. But heaven forbid that yours should be. Get your
 answer. Be brief, in [[concepts/mercy|mercy]] to me.’
 
 ‘Now, you hear this, my lord?’--said the old gentleman, calling up
 the stairs, to where the skirt of a dressing-gown fluttered on the
-landing-place. ‘Here is a gentleman here, whose [[house]] was actually burnt
+landing-place. ‘Here is a gentleman here, whose house was actually burnt
 down last [[motifs/night|night]].’
 
 ‘Dear me, dear me,’ replied a testy voice, ‘I am very sorry for it, but
@@ -21035,7 +21035,7 @@ heads, with them in ‘em. What am I to do, my lord? AM I to have any
 protection!’
 
 ‘I told you yesterday, sir,’ said the [[characters/lord-mayor|Lord Mayor]], ‘that you might have
-an alderman in your [[house]], if you could get one to come.’
+an alderman in your house, if you could get one to come.’
 
 ‘What the devil’s the good of an alderman?’ returned the choleric old
 gentleman.
@@ -21095,7 +21095,7 @@ mustn’t--you really mustn’t.--And I suppose you are a Catholic too?’
 
 ‘God bless my [[motifs/soul|soul]], I believe people turn Catholics a’purpose to vex
 and worrit me,’ cried the [[characters/lord-mayor|Lord Mayor]]. ‘I wish you wouldn’t come here;
-they’ll be setting the Mansion [[house|House]] afire next, and we shall have you
+they’ll be setting the Mansion House afire next, and we shall have you
 to thank for it. You must lock your prisoner up, sir--give him to a
 watchman--and--call again at a proper [[motifs/time|time]]. Then we’ll see about it!’
 
@@ -21118,7 +21118,7 @@ redress and no help. What are you going to do, sir?’
 horseback.
 
 ‘I feel for you, I assure you--and [[motifs/well|well]] I may, for we are in a common
-cause,’ said the old gentleman. ‘I may not have a [[house]] to offer you
+cause,’ said the old gentleman. ‘I may not have a house to offer you
 to-[[motifs/night|night]]; let me tender it while I can. On second thoughts though,’ he
 added, putting up a pocket-book he had produced while speaking, ‘I’ll
 not give you a card, for if it was found upon you, it might get you
@@ -21126,7 +21126,7 @@ into trouble. Langdale--that’s my name--vintner and distiller--Holborn
 [[motifs/hill|Hill]]--you’re heartily welcome, if you’ll come.’
 
 Mr Haredale bowed, and rode off, close beside the chaise as before;
-determining to repair to the [[house]] of Sir John Fielding, who had the
+determining to repair to the house of Sir John Fielding, who had the
 reputation of being a bold and active magistrate, and fully resolved, in
 case the rioters should come upon them, to do execution on the murderer
 with his own hands, rather than suffer him to be released.
@@ -21135,7 +21135,7 @@ They arrived at the magistrate’s dwelling, however, without molestation
 (for the mob, as we have seen, were then intent on deeper schemes), and
 knocked at the door. As it had been pretty generally rumoured that Sir
 John was proscribed by the rioters, a [[concepts/body|body]] of thief-takers had been
-keeping watch in the [[house]] all [[motifs/night|night]]. To one of them Mr Haredale stated
+keeping watch in the house all [[motifs/night|night]]. To one of them Mr Haredale stated
 his business, which appearing to the man of sufficient moment to warrant
 his arousing the justice, procured him an immediate audience.
 
@@ -21221,7 +21221,7 @@ he asked again, coming still nearer to him.
 ‘Because I went there to avoid the man I stumbled on,’ he answered.
 ‘Because I was chased and driven there, by him and Fate. Because I was
 urged to go there, by something stronger than my own will. When I found
-him watching in the [[house]] she used to live in, [[motifs/night|night]] after [[motifs/night|night]], I knew
+him watching in the house she used to live in, [[motifs/night|night]] after [[motifs/night|night]], I knew
 I never could escape him--never! and when I heard the Bell--’
 
 He shivered; muttered that it was very cold; paced quickly up and down
@@ -21280,13 +21280,13 @@ in all that [[motifs/time|time]], never grown older, nor altered in the least de
 He has been before me in the dark [[motifs/night|night]], and the broad sunny day; in the
 twilight, the moonlight, the sunlight, the light of [[motifs/fire|fire]], and lamp,
 and candle; and in the deepest gloom. Always the same! In company, in
-[[concepts/solitude|solitude]], on land, on shipboard; sometimes leaving me [[Alone|alone]] for months,
+[[concepts/solitude|solitude]], on land, on shipboard; sometimes leaving me alone for months,
 and sometimes always with me. I have seen him, at sea, come gliding in
 the dead of [[motifs/night|night]] along the bright reflection of the [[motifs/moon|moon]] in the calm
 [[motifs/water|water]]; and I have seen him, on quays and market-places, with his hand
 uplifted, towering, the centre of a busy crowd, unconscious of the
 terrible form that had its silent stand among them. Fancy! Are you real?
-Am I? Are these iron fetters, riveted on me by the [[smith]]’s hammer, or
+Am I? Are these iron fetters, riveted on me by the smith’s hammer, or
 are they fancies I can shatter at a blow?’
 
 The blind man listened in [[motifs/silence|silence]].
@@ -21324,7 +21324,7 @@ force that cast me off as if I had been a [[archetypes/child|child]], staining t
 which she clasped my wrist? Is THAT fancy?
 
 ‘Did she go down upon her knees, and call on Heaven to witness that she
-and her [[unborn]] [[archetypes/child|child]] renounced me from that hour; and did she, in words
+and her unborn [[archetypes/child|child]] renounced me from that hour; and did she, in words
 so solemn that they turned me cold--me, fresh from the horrors my own
 hands had made--warn me to fly while there was [[motifs/time|time]]; for though she
 would be silent, being my wretched wife, she would not shelter me? Did I
@@ -21499,7 +21499,7 @@ unlocking and unbarring the door of the cell, set it wide open,
 informing its inmate that he was at liberty to walk in the adjacent
 yard, if he thought proper, for an hour.
 
-The prisoner answered with a sullen nod; and being left [[Alone|alone]] again, sat
+The prisoner answered with a sullen nod; and being left alone again, sat
 brooding over what he had heard, and pondering upon the hopes the recent
 conversation had awakened; gazing abstractedly, the while he did so,
 on the light without, and watching the shadows thrown by one wall on
@@ -21552,7 +21552,7 @@ his face, looked close into his eyes, and said,
 
 ‘I am your father.’
 
-God knows what [[Magic|magic]] the name had for his ears; but Barnaby released his
+God knows what magic the name had for his ears; but Barnaby released his
 hold, fell back, and looked at him aghast. Suddenly he sprung towards
 him, put his arms about his neck, and pressed his head against his
 cheek.
@@ -21564,7 +21564,7 @@ And where was she? Was she near there? She was not happy now, and he in
 jail? Ah, no.
 
 Not a word was said in answer; but Grip croaked loudly, and hopped
-about them, round and round, as if enclosing them in a [[Magic|magic]] circle, and
+about them, round and round, as if enclosing them in a magic circle, and
 invoking all the powers of mischief.
 
 
@@ -21592,7 +21592,7 @@ All yesterday, and on this day likewise, the commander-in-chief
 endeavoured to arouse the magistrates to a sense of their duty, and in
 particular the [[characters/lord-mayor|Lord Mayor]], who was the faintest-hearted and most timid
 of them all. With this object, large bodies of the soldiery were several
-times despatched to the Mansion [[house|House]] to await his orders: but as he
+times despatched to the Mansion House to await his orders: but as he
 could, by no threats or persuasions, be induced to give any, and as the
 men remained in the open street, fruitlessly for any good purpose, and
 thrivingly for a very bad one; these laudable attempts did harm rather
@@ -21615,17 +21615,17 @@ treating them with a great show of confidence and affection.
 
 By this [[motifs/time|time]], the crowd was everywhere; all concealment and disguise
 were laid aside, and they pervaded the whole town. If any man among them
-wanted money, he had but to knock at the door of a dwelling-[[house]], or
+wanted money, he had but to knock at the door of a dwelling-house, or
 walk into a shop, and demand it in the rioters name; and his demand
 was instantly complied with. The peaceable citizens being afraid to lay
-hands upon them, singly and [[Alone|alone]], it may be easily supposed that
+hands upon them, singly and alone, it may be easily supposed that
 when gathered together in bodies, they were perfectly secure from
 interruption. They assembled in the streets, traversed them at their
 will and pleasure, and publicly concerted their plans. Business was
 quite suspended; the greater part of the shops were closed; most of the
 houses displayed a blue [[motifs/flag|flag]] in token of their adherence to the popular
 side; and even the Jews in Houndsditch, Whitechapel, and those quarters,
-wrote upon their doors or [[motifs/window|window]]-shutters, ‘This [[house|House]] is a True
+wrote upon their doors or [[motifs/window|window]]-shutters, ‘This House is a True
 Protestant.’ The crowd was the law, and never was the law held in
 greater dread, or more implicitly obeyed.
 
@@ -21669,7 +21669,7 @@ angry sea, the crowd pressed after them.
 
 Instead of going straight down Holborn to the jail, as all expected,
 their leaders took the way to Clerkenwell, and pouring down a quiet
-street, halted before a locksmith’s [[house]]--the Golden Key.
+street, halted before a locksmith’s house--the Golden Key.
 
 
 
@@ -21682,7 +21682,7 @@ craft to-[[motifs/night|night]]. Beat it in, if no one answers.’
 
 The shop was shut. Both door and shutters were of a strong and sturdy
 kind, and they knocked without effect. But the impatient crowd raising
-a cry of ‘Set [[motifs/fire|fire]] to the [[house]]!’ and torches being passed to the front,
+a cry of ‘Set [[motifs/fire|fire]] to the house!’ and torches being passed to the front,
 an upper [[motifs/window|window]] was thrown open, and the stout old locksmith stood
 before them.
 
@@ -21712,15 +21712,15 @@ spare him better.’
 The young fellow who held the light, and who was stooping down before
 the door, [[motifs/rose|rose]] hastily at these words, and fell back. The locksmith ran
 his eye along the upturned faces, and kept the weapon levelled at the
-threshold of his [[house]]. It had no other rest than his shoulder, but was
-as steady as the [[house]] itself.
+threshold of his house. It had no other rest than his shoulder, but was
+as steady as the house itself.
 
 ‘Let the man who does it, take heed to his prayers,’ he said firmly; ‘I
 warn him.’
 
 Snatching a torch from one who stood near him, Hugh was stepping forward
 with an oath, when he was arrested by a shrill and piercing shriek, and,
-looking upward, saw a fluttering garment on the [[house]]-top.
+looking upward, saw a fluttering garment on the house-top.
 
 There was another shriek, and another, and then a shrill voice cried,
 ‘Is Simmun below!’ At the same moment a lean neck was stretched over
@@ -21893,7 +21893,7 @@ light the great captain, others! Is there no business afoot, my lads,
 that you can do nothing but stand and grumble?’
 
 They looked at one another, and quickly dispersing, swarmed over the
-[[house]], plundering and breaking, according to their custom, and carrying
+house, plundering and breaking, according to their custom, and carrying
 off such articles of value as happened to please their fancy. They had
 no great length of [[motifs/time|time]] for these proceedings, for the basket of tools
 was soon prepared and slung over a man’s shoulders. The preparations
@@ -21947,7 +21947,7 @@ you. You understand where?’
 The fellow nodded; and taking her in his arms, notwithstanding her
 broken protestations, and her struggles (which latter species of
 opposition, involving scratches, was much more difficult of resistance),
-carried her away. They who were in the [[house]] poured out into the street;
+carried her away. They who were in the house poured out into the street;
 the locksmith was taken to the head of the crowd, and required to walk
 between his two conductors; the whole [[concepts/body|body]] was put in rapid motion;
 and without any shouts or noise they bore down straight on Newgate, and
@@ -21964,20 +21964,20 @@ Chapter 64
 
 Breaking the [[motifs/silence|silence]] they had hitherto preserved, they raised a great
 cry as soon as they were ranged before the jail, and demanded to speak
-to the governor. This visit was not wholly unexpected, for his [[house]],
+to the governor. This visit was not wholly unexpected, for his house,
 which fronted the street, was strongly barricaded, the wicket-gate of
 the [[motifs/prison|prison]] was closed up, and at no loophole or grating was any person
 to be seen. Before they had repeated their summons many times, a man
-appeared upon the roof of the governor’s [[house]], and asked what it was
+appeared upon the roof of the governor’s house, and asked what it was
 they wanted.
 
 Some said one thing, some another, and some only groaned and hissed. It
-being now nearly dark, and the [[house]] high, many persons in the throng
+being now nearly dark, and the house high, many persons in the throng
 were not aware that any one had come to answer them, and continued their
 clamour until the intelligence was gradually diffused through the whole
 concourse. Ten minutes or more elapsed before any one voice could be
 heard with tolerable distinctness; during which interval the figure
-remained perched [[Alone|alone]], against the [[motifs/summer|summer]]-evening sky, looking down
+remained perched alone, against the [[motifs/summer|summer]]-evening sky, looking down
 into the troubled street.
 
 ‘Are you,’ said Hugh at length, ‘Mr Akerman, the head jailer here?’
@@ -22039,7 +22039,7 @@ compulsion--’
 ‘Upon compulsion, sir,’ interposed the locksmith, who felt that the tone
 in which this was said, conveyed the speaker’s impression that he had
 ample excuse for yielding to the furious multitude who beset and hemmed
-him in, on every side, and among whom he stood, an old man, quite [[Alone|alone]];
+him in, on every side, and among whom he stood, an old man, quite alone;
 ‘upon compulsion, sir, I’ll do nothing.’
 
 ‘Where is that man,’ said the keeper, anxiously, ‘who spoke to me just
@@ -22102,7 +22102,7 @@ those who gathered round him: ‘Give me my daughter!’
 
 He was down again, and up, and down once more, and buffeting with a
 score of them, who bandied him from hand to hand, when one tall fellow,
-fresh from a slaughter-[[house]], whose dress and great thigh-boots smoked
+fresh from a slaughter-house, whose dress and great thigh-boots smoked
 hot with grease and [[motifs/blood|blood]], raised a pole-axe, and swearing a horrible
 oath, aimed it at the old man’s uncovered head. At that instant, and in
 the very act, he fell himself, as if struck by [[motifs/lightning|lightning]], and over his
@@ -22139,7 +22139,7 @@ While some brought all their energies to bear upon this toilsome task;
 and some, rearing ladders against the [[motifs/prison|prison]], tried to clamber to the
 summit of the walls they were too short to scale; and some again engaged
 a [[concepts/body|body]] of police a hundred strong, and beat them back and trod them
-under foot by force of numbers; others besieged the [[house]] on which the
+under foot by force of numbers; others besieged the house on which the
 jailer had appeared, and driving in the door, brought out his furniture,
 and piled it up against the [[motifs/prison|prison]]-gate, to make a bonfire which should
 burn it down. As soon as this device was understood, all those who had
@@ -22226,7 +22226,7 @@ was so full of agony and [[concepts/despair|despair]], that it made the boldest 
 
 It was remarkable that these cries began in that quarter of the jail
 which fronted Newgate Street, where, it was [[motifs/well|well]] known, the men who were
-to suffer [[motifs/death|death]] on [[thursday|Thursday]] were confined. And not only were these four
+to suffer [[motifs/death|death]] on Thursday were confined. And not only were these four
 who had so short a [[motifs/time|time]] to live, the first to whom the dread of being
 burnt occurred, but they were, throughout, the most importunate of all:
 for they could be plainly heard, notwithstanding the great thickness of
@@ -22254,7 +22254,7 @@ the mob about the door, though many men, a dozen times their match, had
 tried in vain to do so, and were seen, in--yes, in--the [[motifs/fire|fire]], striving
 to prize it down, with crowbars.
 
-Nor were they [[Alone|alone]] affected by the outcry from within the [[motifs/prison|prison]]. The
+Nor were they alone affected by the outcry from within the [[motifs/prison|prison]]. The
 women who were looking on, shrieked loudly, beat their hands together,
 stopped their ears; and many fainted: the men who were not near the
 walls and active in the siege, rather than do nothing, tore up the
@@ -22323,7 +22323,7 @@ confirm and strengthen it. His [[topoi/double|double]] crime, the circumstances 
 which it had been committed, the length of [[motifs/time|time]] that had elapsed, and
 its discovery in spite of all, made him, as it were, the visible object
 of the Almighty’s wrath. In all the crime and vice and moral gloom of
-the great pest-[[house]] of the capital, he stood [[Alone|alone]], marked and singled
+the great pest-house of the capital, he stood alone, marked and singled
 out by his great [[concepts/guilt|guilt]], a [[characters/lucifer|Lucifer]] among the devils. The other prisoners
 were a host, hiding and sheltering each other--a crowd like that without
 the walls. He was one man against the whole united concourse; a single,
@@ -22393,7 +22393,7 @@ intricacies of the [[motifs/prison|prison]], and were so bewildered with the noi
 glare that they knew not where to turn or what to do, and still cried
 out for help, as loudly as before. Anon some famished wretch whose theft
 had been a loaf of bread, or scrap of butcher’s meat, came skulking
-past, barefooted--going slowly away because that jail, his [[house]], was
+past, barefooted--going slowly away because that jail, his house, was
 burning; not because he had any other, or had friends to meet, or old
 haunts to revisit, or any liberty to gain, but liberty to starve and
 die. And then a knot of highwaymen went trooping by, conducted by the
@@ -22459,7 +22459,7 @@ intelligence, and kept it snugly to himself. When he had issued his
 instructions relative to every other part of the building, and the mob
 were dispersed from end to end, and busy at their work, he took a bundle
 of keys from a kind of cupboard in the wall, and going by a kind of
-passage near the chapel (it joined the governors [[house]], and was then
+passage near the chapel (it joined the governors house, and was then
 on [[motifs/fire|fire]]), betook himself to the condemned cells, which were a series of
 small, strong, dismal rooms, opening on a low gallery, guarded, at the
 end at which he entered, by a strong iron wicket, and at its opposite
@@ -22477,7 +22477,7 @@ stretched out through the gratings in their cell-doors, clasped in
 frantic entreaty before his very eyes, it was particularly remarkable.
 Indeed, Mr Dennis appeared to think it an uncommon circumstance, and to
 banter himself upon it; for he thrust his hat on one side as some men do
-when they are in a waggish [[Humour|humour]], sucked the head of his stick with a
+when they are in a waggish humour, sucked the head of his stick with a
 higher relish, and smiled as though he would say, ‘Dennis, you’re a rum
 dog; you’re a queer fellow; you’re capital company, Dennis, and quite a
 character!’
@@ -22502,7 +22502,7 @@ half inclined to good.
 Mr Dennis, who had been bred and nurtured in the good old school, and
 had administered the good old laws on the good old plan, always once
 and sometimes twice every six weeks, for a long [[motifs/time|time]], bore these appeals
-with a deal of [[philosophy]]. Being at last, however, rather disturbed in
+with a deal of philosophy. Being at last, however, rather disturbed in
 his pleasant reflection by their repetition, he rapped at one of the
 doors with his stick, and cried:
 
@@ -22523,7 +22523,7 @@ hand nearest him.
 ‘To save us!’ they cried.
 
 ‘Oh, certainly,’ said Mr Dennis, winking at the wall in the absence
-of any friend with whom he could [[Humour|humour]] the joke. ‘And so you’re to be
+of any friend with whom he could humour the joke. ‘And so you’re to be
 worked off, are you, brothers?’
 
 ‘Unless we are released to-[[motifs/night|night]],’ one of them cried, ‘we are dead men!’
@@ -22581,7 +22581,7 @@ better frame of mind, every way!’
 While the hangman addressed them to this effect, in the tone and with
 the air of a pastor in familiar conversation with his flock, the noise
 had been in some degree subdued; for the rioters were busy in conveying
-the prisoners to the Sessions [[house|House]], which was beyond the main walls of
+the prisoners to the Sessions House, which was beyond the main walls of
 the [[motifs/prison|prison]], though connected with it, and the crowd were busy too, in
 passing them from thence along the street. But when he had got thus far
 in his discourse, the sound of voices in the yard showed plainly that
@@ -22611,7 +22611,7 @@ shall be suffocated in the smoke, going out.’
 ‘Want!’ echoed Hugh. ‘The four men.’
 
 ‘Four devils!’ cried the hangman. ‘Don’t you know they’re left for [[motifs/death|death]]
-on [[thursday|Thursday]]? Don’t you respect the law--the constitootion--nothing? Let
+on Thursday? Don’t you respect the law--the constitootion--nothing? Let
 the four men be.’
 
 ‘Is this a [[motifs/time|time]] for joking?’ cried Hugh. ‘Do you hear ‘em? Pull away
@@ -22622,7 +22622,7 @@ us in.’
 pretence of doing what Hugh desired, but only looked up in his face,
 ‘can’t you leave these here four men to me, if I’ve the whim! You
 do what you like, and have what you like of everything for your
-share,--give me my share. I want these four men left [[Alone|alone]], I tell you!’
+share,--give me my share. I want these four men left alone, I tell you!’
 
 ‘Pull the bars down, or stand out of the way,’ was Hugh’s reply.
 
@@ -22631,7 +22631,7 @@ brother,’ said the hangman, slowly. ‘What! You WILL come in, will you?’
 
 ‘Yes.’
 
-‘You won’t let these men [[Alone|alone]], and leave ‘em to me? You’ve no respect
+‘You won’t let these men alone, and leave ‘em to me? You’ve no respect
 for nothing--haven’t you?’ said the hangman, retreating to the door by
 which he had entered, and regarding his companion with a scowl. ‘You
 WILL come in, will you, brother!’
@@ -22695,7 +22695,7 @@ this part of the [[motifs/city|city]], remembered being in a great glare of ligh
 within doors and without, and as they looked, timid and frightened
 children, from the windows, seeing a FACE go by. Though the whole great
 crowd and all its other terrors had faded from their recollection, this
-one object remained; [[Alone|alone]], distinct, and [[motifs/well|well]] remembered. Even in the
+one object remained; alone, distinct, and [[motifs/well|well]] remembered. Even in the
 unpractised minds of infants, one of these doomed men darting past,
 and but an instant seen, was an image of force enough to dim the whole
 concourse; to find itself an all-absorbing place, and hold it ever
@@ -22730,13 +22730,13 @@ houses of the tradespeople with whom he dealt, and of the friends he
 knew; he pursued his search. A prey to the most harrowing anxieties and
 apprehensions, he went from magistrate to magistrate, and finally to the
 Secretary of State. The only comfort he received was from this minister,
-who assured him that the [[government|Government]], being now driven to the exercise
+who assured him that the Government, being now driven to the exercise
 of the extreme prerogatives of the [[motifs/crown|Crown]], were determined to exert them;
 that a proclamation would probably be out upon the morrow, giving to the
 military, discretionary and unlimited power in the suppression of the
 riots; that the sympathies of the [[archetypes/king|King]], the Administration, and both
 Houses of Parliament, and indeed of all good men of every religious
-[[Persuasion|persuasion]], were strongly with the injured Catholics; and that justice
+persuasion, were strongly with the injured Catholics; and that justice
 should be done them at any cost or hazard. He told him, moreover, that
 other persons whose houses had been burnt, had for a [[motifs/time|time]] lost sight of
 their children or their relatives, but had, in every case, within his
@@ -22750,7 +22750,7 @@ Grateful for this consolation, feeble as it was in its reference to the
 past, and little [[concepts/hope|hope]] as it afforded him in connection with the subject
 of distress which lay nearest to his heart; and really thankful for the
 interest the minister expressed, and seemed to feel, in his condition;
-Mr Haredale withdrew. He found himself, with the [[motifs/night|night]] coming on, [[Alone|alone]]
+Mr Haredale withdrew. He found himself, with the [[motifs/night|night]] coming on, alone
 in the streets; and destitute of any place in which to lay his head.
 
 He entered an hotel near Charing [[motifs/cross|Cross]], and ordered some refreshment and
@@ -22764,12 +22764,12 @@ be careful in receiving guests. He heartily prayed his [[concepts/forgiveness|fo
 what could he do?
 
 Nothing. No man felt that more sincerely than Mr Haredale. He told the
-man as much, and left the [[house]].
+man as much, and left the house.
 
 Feeling that he might have anticipated this occurrence, after what
 he had seen at Chigwell in the morning, where no man dared to touch a
 spade, though he offered a large reward to all who would come and dig
-among the ruins of his [[house]], he walked along the Strand; too proud
+among the ruins of his house, he walked along the Strand; too proud
 to expose himself to another refusal, and of too generous a spirit
 to involve in distress or ruin any honest tradesman who might be weak
 enough to give him shelter. He wandered into one of the streets by the
@@ -22829,7 +22829,7 @@ never intended this.’
 
 
 John Grueby added no entreaties, but he adopted a different kind of
-[[Persuasion|persuasion]], by putting his arm through one of Mr Haredale’s, while his
+persuasion, by putting his arm through one of Mr Haredale’s, while his
 master took the other, and leading him away with all [[characters/speed|speed]].
 
 Sensible, from a strange lightness in his head, and a difficulty in
@@ -22843,10 +22843,10 @@ of going mad.
 
 The distiller lived, as he had told him when they first met, on Holborn
 [[motifs/hill|Hill]], where he had great storehouses and drove a large trade. They
-approached his [[house]] by a back entrance, lest they should attract the
+approached his house by a back entrance, lest they should attract the
 notice of the crowd, and went into an upper room which faced towards the
 street; the windows, however, in common with those of every other room
-in the [[house]], were boarded up inside, in order that, out of doors, all
+in the house, were boarded up inside, in order that, out of doors, all
 might appear quite dark.
 
 They laid him on a sofa in this chamber, perfectly insensible; but John
@@ -22862,7 +22862,7 @@ The vintner, who was a very hearty old fellow and a worthy man, had
 no thoughts of going to bed himself, for he had received several
 threatening warnings from the rioters, and had indeed gone out that
 evening to try and gather from the conversation of the mob whether his
-[[house]] was to be the next attacked. He sat all [[motifs/night|night]] in an easy-chair in
+house was to be the next attacked. He sat all [[motifs/night|night]] in an easy-chair in
 the same room--dozing a little now and then--and received from [[motifs/time|time]]
 to [[motifs/time|time]] the reports of John Grueby and two or three other trustworthy
 persons in his employ, who went out into the streets as scouts; and
@@ -22885,21 +22885,21 @@ vintner’s skylights, that the rooms and staircases below were nearly as
 light as in broad day; while the distant shouting of the mob seemed to
 shake the very walls and ceilings.
 
-At length they were heard approaching the [[house]], and some minutes of
+At length they were heard approaching the house, and some minutes of
 terrible anxiety ensued. They came close up, and stopped before it;
 but after giving three loud yells, went on. And although they returned
 several times that [[motifs/night|night]], creating new alarms each [[motifs/time|time]], they did
 nothing there; having their hands full. Shortly after they had gone away
 for the first [[motifs/time|time]], one of the scouts came running in with the news that
-they had stopped before Lord Mansfield’s [[house]] in Bloomsbury Square.
+they had stopped before Lord Mansfield’s house in Bloomsbury Square.
 
 Soon afterwards there came another, and another, and then the first
 returned again, and so, by little and little, their tale was this:--That
-the mob gathering round Lord Mansfield’s [[house]], had called on those
+the mob gathering round Lord Mansfield’s house, had called on those
 within to open the door, and receiving no reply (for Lord and Lady
 Mansfield were at that moment escaping by the backway), forced an
 entrance according to their usual custom. That they then began to
-demolish the [[house]] with great fury, and setting [[motifs/fire|fire]] to it in several
+demolish the house with great fury, and setting [[motifs/fire|fire]] to it in several
 parts, involved in a common ruin the whole of the costly furniture, the
 plate and jewels, a beautiful gallery of pictures, the rarest collection
 of manuscripts ever possessed by any one private person in the world,
@@ -22933,32 +22933,32 @@ The scouts reported further, that this party meeting with some others
 who had been at similar work elsewhere, they all united into one, and
 drafting off a few men with the killed and wounded, marched away to Lord
 Mansfield’s country seat at Caen Wood, between Hampstead and Highgate;
-bent upon destroying that [[house]] likewise, and lighting up a great [[motifs/fire|fire]]
+bent upon destroying that house likewise, and lighting up a great [[motifs/fire|fire]]
 there, which from that height should be seen all over [[settings/london|London]]. But in
 this, they were disappointed, for a party of [[motifs/horse|horse]] having arrived before
 them, they retreated faster than they went, and came straight back to
 town.
 
 There being now a great many parties in the streets, each went to
-work according to its [[Humour|humour]], and a dozen houses were quickly blazing,
+work according to its humour, and a dozen houses were quickly blazing,
 including those of Sir John Fielding and two other justices, and four
 in Holborn--one of the greatest thoroughfares in [[settings/london|London]]--which were all
 burning at the same [[motifs/time|time]], and burned until they went out of themselves,
 for the people cut the engine hose, and would not suffer the firemen to
-play upon the flames. At one [[house]] near Moorfields, they found in one of
+play upon the flames. At one house near Moorfields, they found in one of
 the rooms some canary [[motifs/birds|birds]] in cages, and these they cast into the [[motifs/fire|fire]]
 alive. The poor little creatures screamed, it was said, like infants,
 when they were flung upon the blaze; and one man was so touched that he
 tried in vain to save them, which roused the indignation of the crowd,
 and nearly cost him his life.
 
-At this same [[house]], one of the fellows who went through the rooms,
+At this same house, one of the fellows who went through the rooms,
 breaking the furniture and helping to destroy the building, found a
 [[archetypes/child|child]]’s doll--a poor toy--which he exhibited at the [[motifs/window|window]] to the mob
 below, as the image of some unholy saint which the late occupants had
 worshipped. While he was doing this, another man with an equally tender
 [[concepts/conscience|conscience]] (they had both been foremost in throwing down the canary
-[[motifs/birds|birds]] for roasting alive), took his seat on the parapet of the [[house]],
+[[motifs/birds|birds]] for roasting alive), took his seat on the parapet of the house,
 and harangued the crowd from a pamphlet circulated by the Association,
 relative to the true principles of [[historical-references/christianity|Christianity]]! Meanwhile the Lord
 Mayor, with his hands in his pockets, looked on as an idle man might
@@ -23076,12 +23076,12 @@ intention of seizing on the Bank, the Mint, the Arsenal at Woolwich, and
 the Royal Palaces. The notices were seldom delivered by more than one
 man, who, if it were at a shop, went in, and laid it, with a bloody
 threat perhaps, upon the counter; or if it were at a private
-[[house]], knocked at the door, and thrust it in the servant’s hand.
+house, knocked at the door, and thrust it in the servant’s hand.
 Notwithstanding the presence of the military in every quarter of the
 town, and the great force in the Park, these messengers did their
 errands with impunity all through the day. So did two boys who went
-down Holborn [[Alone|alone]], armed with bars taken from the railings of Lord
-Mansfield’s [[house]], and demanded money for the rioters. So did a tall man
+down Holborn alone, armed with bars taken from the railings of Lord
+Mansfield’s house, and demanded money for the rioters. So did a tall man
 on horseback who made a collection for the same purpose in Fleet Street,
 and refused to take anything but gold.
 
@@ -23159,7 +23159,7 @@ as though it were the intention of the insurgents to wrap the [[motifs/city|city
 circle of flames, which, contracting by degrees, should burn the whole
 to ashes; the crowd swarmed and roared in every street; and none but
 rioters and soldiers being out of doors, it seemed to the latter as if
-all [[settings/london|London]] were arrayed against them, and they stood [[Alone|alone]] against the
+all [[settings/london|London]] were arrayed against them, and they stood alone against the
 town.
 
 In two hours, six-and-thirty fires were raging--six-and-thirty great
@@ -23201,7 +23201,7 @@ Full twenty times, the rioters, headed by one man who wielded an axe
 in his right hand, and bestrode a brewer’s [[motifs/horse|horse]] of great size and
 strength, caparisoned with fetters taken out of Newgate, which clanked
 and jingled as he went, made an attempt to force a passage at this
-point, and [[motifs/fire|fire]] the vintner’s [[house]]. Full twenty times they were
+point, and [[motifs/fire|fire]] the vintner’s house. Full twenty times they were
 repulsed with loss of life, and still came back again; and though
 the fellow at their head was marked and singled out by all, and was a
 conspicuous object as the only rioter on horseback, not a man could
@@ -23243,14 +23243,14 @@ take him alive, and diverted many an aim which otherwise might have been
 more near the mark.
 
 The vintner and Mr Haredale, unable to sit quietly listening to the
-noise without seeing what went on, had climbed to the roof of the [[house]],
+noise without seeing what went on, had climbed to the roof of the house,
 and hiding behind a stack of chimneys, were looking cautiously down into
 the street, almost hoping that after so many repulses the rioters would
 be foiled, when a great shout proclaimed that a parry were coming round
 the other way; and the dismal jingling of those accursed fetters warned
 them next moment that they too were led by Hugh. The soldiers had
 advanced into Fleet Market and were dispersing the people there; so that
-they came on with hardly any check, and were soon before the [[house]].
+they came on with hardly any check, and were soon before the house.
 
 ‘All’s over now,’ said the vintner. ‘Fifty thousand pounds will be
 scattered in a minute. We must save ourselves. We can do no more, and
@@ -23281,7 +23281,7 @@ dear good sir!’
 
 As he spoke, and drew Mr Haredale back, they had both a glimpse of the
 street. It was but a glimpse, but it showed them the crowd, gathering
-and clustering round the [[house]]: some of the armed men pressing to the
+and clustering round the house: some of the armed men pressing to the
 front to break down the doors and windows, some bringing brands from
 the nearest [[motifs/fire|fire]], some with lifted faces following their course upon the
 roof and pointing them out to their companions: all raging and roaring
@@ -23306,7 +23306,7 @@ saw but the pale faces of each other, and the red sky above them.
 Mr Haredale yielded to the entreaties of his companion--more because he
 was resolved to defend him, than for any thought he had of his own life,
 or any care he entertained for his own safety--and quickly re-entering
-the [[house]], they descended the stairs together. Loud blows were
+the house, they descended the stairs together. Loud blows were
 thundering on the shutters, crowbars were already thrust beneath the
 door, the glass fell from the sashes, a deep light shone through every
 crevice, and they heard the voices of the foremost in the crowd so close
@@ -23371,7 +23371,7 @@ his [[motifs/horse|horse]] before their eyes!’
 
 ‘What fellow, sir!’ cried Joe: ‘a fellow who has no goodwill to you, and
 who has the daring and devilry in him of twenty fellows. I know him of
-old. Once in the [[house]], HE would have found you, here or anywhere. The
+old. Once in the house, HE would have found you, here or anywhere. The
 rest owe you no particular grudge, and, unless they see you, will only
 think of drinking themselves dead. But we lose [[motifs/time|time]]. Are you ready?’
 
@@ -23425,7 +23425,7 @@ spectators of the [[motifs/fire|fire]], they had tools in their hands which had 
 hurriedly given them that they might free themselves from their fetters.
 
 Barnaby, heavily ironed as he was, if he had obeyed his first impulse,
-or if he had been [[Alone|alone]], would have made his way back to the side of
+or if he had been alone, would have made his way back to the side of
 Hugh, who to his clouded intellect now shone forth with the new lustre
 of being his preserver and truest friend. But his father’s terror
 of remaining in the streets, communicated itself to him when he
@@ -23451,11 +23451,11 @@ some cowherd, but now deserted. Here, they lay down for the rest of the
 [[motifs/night|night]].
 
 They wandered to and fro when it was day, and once Barnaby went off
-[[Alone|alone]] to a cluster of little cottages two or three miles away, to
+alone to a cluster of little cottages two or three miles away, to
 purchase some bread and milk. But finding no better shelter, they
 returned to the same place, and lay down again to wait for [[motifs/night|night]].
 
-Heaven [[Alone|alone]] can tell, with what vague hopes of duty, and affection;
+Heaven alone can tell, with what vague hopes of duty, and affection;
 with what strange promptings of [[concepts/nature|nature]], intelligible to him as to a man
 of radiant mind and most enlarged capacity; with what dim memories of
 children he had played with when a [[archetypes/child|child]] himself, who had prattled
@@ -23478,7 +23478,7 @@ if there were no other people in the world, and the dull cloud of smoke
 hanging on the immense [[motifs/city|city]] in the distance, hid no vices, no crimes, no
 life or [[motifs/death|death]], or cause of disquiet--nothing but clear air.
 
-But the hour had now come when he must go [[Alone|alone]] to find out the blind
+But the hour had now come when he must go alone to find out the blind
 man (a task that filled him with delight) and bring him to that place;
 taking especial care that he was not watched or followed on his way
 back. He listened to the directions he must observe, repeated them again
@@ -23498,7 +23498,7 @@ burning and destroying, these dreadful cries and stunning noises, were
 THEY the good lord’s noble cause!
 
 Though almost stupefied by the bewildering scene, still he found the
-blind man’s [[house]]. It was shut up and tenantless.
+blind man’s house. It was shut up and tenantless.
 
 He waited for a long while, but no one came. At last he withdrew; and as
 he knew by this [[motifs/time|time]] that the soldiers were firing, and many people must
@@ -23509,7 +23509,7 @@ danger, and return with him.
 If he had been stunned and shocked before, his horror was increased a
 thousandfold when he got into this vortex of the riot, and not being an
 actor in the terrible spectacle, had it all before his eyes. But there,
-in the midst, towering above them all, close before the [[house]] they were
+in the midst, towering above them all, close before the house they were
 attacking now, was Hugh on horseback, calling to the rest!
 
 
@@ -23523,7 +23523,7 @@ and roar, and crash, he forced his way among the crowd (where many
 recognised him, and with shouts pressed back to let him pass), and in
 [[motifs/time|time]] was nearly up with Hugh, who was savagely threatening some one, but
 whom or what he said, he could not, in the great confusion, understand.
-At that moment the crowd forced their way into the [[house]], and Hugh--it
+At that moment the crowd forced their way into the house, and Hugh--it
 was impossible to see by what means, in such a concourse--fell headlong
 down.
 
@@ -23567,7 +23567,7 @@ He looked back, once, before he left the street; and looked upon a sight
 not easily to be erased, even from his remembrance, so long as he had
 life.
 
-The vintner’s [[house]] with a half-a-dozen others near at hand, was one
+The vintner’s house with a half-a-dozen others near at hand, was one
 great, glowing blaze. All [[motifs/night|night]], no one had essayed to quench the
 flames, or stop their progress; but now a [[concepts/body|body]] of soldiers were actively
 engaged in pulling down two old wooden houses, which were every moment
@@ -23671,7 +23671,7 @@ a timid [[motifs/desire|desire]] to propitiate him, laid upon his sleeve,--‘I 
 answer, and you give me only jeers and questions. Who have you brought
 with you to this hiding-place, poor [[archetypes/fool|fool]]; and where is the blind man?’
 
-‘I don’t know where. His [[house]] was close shut. I waited, but no person
+‘I don’t know where. His house was close shut. I waited, but no person
 came; that was no fault of mine. This is Hugh--brave Hugh, who broke
 into that ugly jail, and set us free. Aha! You like him now, do you? You
 like him now!’
@@ -23715,13 +23715,13 @@ brought some [[motifs/water|water]] from a running stream hard by, and washed hi
 and laved his hands and face. Then he lay down himself, between the two,
 to pass the [[motifs/night|night]]; and looking at the [[motifs/stars|stars]], fell fast asleep.
 
-Awakened early in the morning, by the sunshine and the [[songs]] of [[motifs/birds|birds]],
+Awakened early in the morning, by the sunshine and the songs of [[motifs/birds|birds]],
 and hum of [[motifs/insects|insects]], he left them sleeping in the hut, and walked into
 the sweet and pleasant air. But he felt that on his jaded senses,
 oppressed and burdened with the dreadful scenes of last [[motifs/night|night]], and many
 nights before, all the beauties of opening day, which he had so often
 tasted, and in which he had had such deep delight, fell heavily. He
-thought of the blithe mornings when he and the [[dogs]] went bounding on
+thought of the blithe mornings when he and the dogs went bounding on
 together through the woods and fields; and the recollection filled his
 eyes with [[motifs/tears|tears]]. He had no consciousness, God help him, of having done
 wrong, nor had he any new perception of the merits of the cause in which
@@ -23928,7 +23928,7 @@ He had by this [[motifs/time|time]] approached, and now ventured to sit down by 
 
 ‘How am I?’ answered Hugh. ‘Where were you yesterday? Where did you go
 when you left me in the jail? Why did you leave me? And what did you
-mean by [[rolling]] your eyes and shaking your fist at me, eh?’
+mean by rolling your eyes and shaking your fist at me, eh?’
 
 ‘I shake my fist!--at you, brother!’ said Dennis, gently checking Hugh’s
 uplifted hand, which looked threatening.
@@ -23990,7 +23990,7 @@ somewhere for a minute--and probably in his confusion mistaking the
 point at which he had emerged, was now seen running across the open
 meadow.
 
-An officer cried directly that he had helped to plunder a [[house]] last
+An officer cried directly that he had helped to plunder a house last
 [[motifs/night|night]]. He was loudly called on, to surrender. He ran the harder, and in
 a few seconds would have been out of gunshot. The word was given, and
 the men fired.
@@ -24025,7 +24025,7 @@ The man turned his pockets out upon the grass, and counted, besides some
 foreign coins and two rings, five-and-forty guineas in gold. These were
 bundled up in a handkerchief and carried away; the [[concepts/body|body]] remained there
 for the present, but six men and the serjeant were left to take it to
-the nearest public-[[house]].
+the nearest public-house.
 
 ‘Now then, if you’re going,’ said the serjeant, clapping Dennis on the
 back, and pointing after the officer who was walking towards the shed.
@@ -24086,7 +24086,7 @@ Mr Dennis having despatched this piece of business without any personal
 hurt or inconvenience, and having now retired into the tranquil
 respectability of private life, resolved to solace himself with half an
 hour or so of female society. With this amiable purpose in his mind,
-he bent his steps towards the [[house]] where Dolly and Miss Haredale were
+he bent his steps towards the house where Dolly and Miss Haredale were
 still confined, and whither Miss Miggs had also been removed by order of
 Mr [[characters/simon-tappertit|Simon Tappertit]].
 
@@ -24128,7 +24128,7 @@ and was quite at his ease.
 
 Saving--for there is a reservation; and even Mr Dennis was not perfectly
 happy--saving for one circumstance; to wit, the forcible detention of
-Dolly and Miss Haredale, in a [[house]] almost adjoining his own. This was
+Dolly and Miss Haredale, in a house almost adjoining his own. This was
 a stumbling-block; for if they were discovered and released, they could,
 by the testimony they had it in their power to give, place him in a
 situation of great jeopardy; and to set them at liberty, first extorting
@@ -24257,7 +24257,7 @@ took for a rioter, and it’s all over with him.’
 
 Miss Miggs relapsed.
 
-‘Now I want,’ said Dennis, ‘to clear this [[house]], and to see you righted.
+‘Now I want,’ said Dennis, ‘to clear this house, and to see you righted.
 What if I was to get her off, out of the way, eh?’
 
 Miss Miggs, brightening again, rejoined, with many breaks and pauses
@@ -24280,7 +24280,7 @@ until he had no breath left, she was as deaf as any adder.
 
 ‘Lookee here, my sugar-stick,’ said Mr Dennis, ‘if your view’s the same
 as mine, and you’ll only be quiet and slip away at the right [[motifs/time|time]], I
-can have the [[house]] clear to-morrow, and be out of this trouble.--Stop
+can have the house clear to-morrow, and be out of this trouble.--Stop
 though! there’s the other.’
 
 ‘Which other, sir?’ asked Miggs--still with her fingers in her ears and
@@ -24293,7 +24293,7 @@ Gashford.
 Miss Miggs replied (still being profoundly deaf) that if Miss Haredale
 stood in the way at all, he might make himself quite easy on that score;
 as she had gathered, from what passed between Hugh and Mr Tappertit when
-they were last there, that she was to be removed [[Alone|alone]] (not by them, but
+they were last there, that she was to be removed alone (not by them, but
 by somebody else), to-morrow [[motifs/night|night]].
 
 Mr Dennis opened his eyes very wide at this piece of information,
@@ -24390,7 +24390,7 @@ shuffling of feet, as though a burden were brought in, and afterwards a
 moaning noise. But they had no means of ascertaining the [[concepts/truth|truth]]: for
 any question or entreaty on their parts only provoked a [[motifs/storm|storm]] of
 execrations, or something worse; and they were too happy to be left
-[[Alone|alone]], unassailed by threats or admiration, to risk even that comfort,
+alone, unassailed by threats or admiration, to risk even that comfort,
 by any voluntary communication with those who held them in durance.
 
 It was sufficiently evident, both to [[works/emma-(austen)|Emma]] and to the locksmith’s poor
@@ -24454,7 +24454,7 @@ fallen, she wept more bitterly than ever, and refused all comfort.
 Miss Miggs was at some trouble to reprove her for this state of mind,
 and to entreat her to take example by herself, who, she said, was now
 receiving back, with interest, tenfold the amount of her subscriptions
-to the red-brick dwelling-[[house]], in the articles of peace of mind and a
+to the red-brick dwelling-house, in the articles of peace of mind and a
 quiet [[concepts/conscience|conscience]]. And, while on serious topics, Miss Miggs considered it
 her duty to try her hand at the [[concepts/conversion|conversion]] of Miss Haredale; for whose
 improvement she launched into a polemical address of some length, in the
@@ -24489,7 +24489,7 @@ the [[motifs/silence|silence]] being unbroken by so much as the creaking of a bo
 At first, Miss Miggs wondered greatly in her own mind who this sick
 person might be; but arriving, on second thoughts, at the conclusion
 that he was a part of the schemes on foot, and an artful device soon to
-be employed with great [[success]], she opined, for Miss Haredale’s comfort,
+be employed with great success, she opined, for Miss Haredale’s comfort,
 that it must be some misguided Papist who had been wounded: and this
 happy supposition encouraged her to say, under her breath, ‘Ally
 Looyer!’ several times.
@@ -24551,12 +24551,12 @@ them before their astonished senses, it is impossible to tell. Nor is
 it necessary to speculate on these matters, for a startling interruption
 occurred at that moment, which took their whole attention by [[motifs/storm|storm]].
 
-This was a violent knocking at the door of the [[house]], and then its
+This was a violent knocking at the door of the house, and then its
 sudden bursting open; which was immediately succeeded by a scuffle in
 the room without, and the clash of weapons. Transported with the [[concepts/hope|hope]]
 that rescue had at length arrived, [[works/emma-(austen)|Emma]] and Dolly shrieked aloud for
 help; nor were their shrieks unanswered; for after a hurried interval, a
-man, bearing in one hand a drawn [[Sword|sword]], and in the other a taper, rushed
+man, bearing in one hand a drawn sword, and in the other a taper, rushed
 into the chamber where they were confined.
 
 It was some check upon their transport to find in this person an entire
@@ -24648,7 +24648,7 @@ possessed the means of saving your uncle. I have the means of saving
 you; and in redemption of my sacred promise, made to him, I am here;
 pledged not to leave you until I have placed you in his arms. The
 treachery or penitence of one of the men about you, led to the discovery
-of your place of confinement; and that I have forced my way here, [[Sword|sword]]
+of your place of confinement; and that I have forced my way here, sword
 in hand, you see.’
 
 ‘You bring,’ said [[works/emma-(austen)|Emma]], faltering, ‘some note or token from my uncle?’
@@ -24813,7 +24813,7 @@ Chapter 72
 The Black [[motifs/lion|Lion]] was so far off, and occupied such a length of [[motifs/time|time]] in the
 getting at, that notwithstanding the strong presumptive evidence she had
 about her of the late events being real and of actual occurrence, Dolly
-could not divest herself of the belief that she must be in [[A Dream|a dream]] which
+could not divest herself of the belief that she must be in a dream which
 was lasting all [[motifs/night|night]]. Nor was she quite certain that she saw and heard
 with her own proper senses, even when the coach, in the fulness of [[motifs/time|time]],
 stopped at the Black [[motifs/lion|Lion]], and the host of that tavern approached in a
@@ -24955,8 +24955,8 @@ the--Salwanners--in [[settings/america|America]]--where the war is’--with whic
 withdrew, and returned no more that [[motifs/night|night]].
 
 Indeed, on various pretences, they all withdrew one after another, save
-Dolly, who was left sitting there [[Alone|alone]]. It was a great relief to be
-[[Alone|alone]], and she was crying to her heart’s content, when she heard Joe’s
+Dolly, who was left sitting there alone. It was a great relief to be
+alone, and she was crying to her heart’s content, when she heard Joe’s
 voice at the end of the passage, bidding somebody good [[motifs/night|night]].
 
 Good [[motifs/night|night]]! Then he was going elsewhere--to some distance, perhaps. To
@@ -24985,7 +24985,7 @@ in my saying so, for you must know it. You are told so very often, I am
 sure.’
 
 As a general principle, Dolly DID know it, and WAS told so, very often.
-But the coachmaker had turned out, years ago, to be a special [[donkey]];
+But the coachmaker had turned out, years ago, to be a special donkey;
 and whether she had been afraid of making similar discoveries in others,
 or had grown by dint of long custom to be careless of compliments
 generally, certain it is that although she cried so much, she was better
@@ -25090,35 +25090,35 @@ by the sufferers, was one hundred and fifty-five thousand pounds; at the
 lowest and least partial estimate of disinterested persons, it exceeded
 one hundred and twenty-five thousand pounds. For this immense loss,
 compensation was soon afterwards made out of the public purse, in
-pursuance of a vote of the [[house|House]] of Commons; the sum being levied on the
+pursuance of a vote of the House of Commons; the sum being levied on the
 various wards in the [[motifs/city|city]], on the county, and the borough of Southwark.
 Both Lord Mansfield and Lord Saville, however, who had been great
 sufferers, refused to accept of any compensation whatever.
 
-The [[house|House]] of Commons, sitting on Tuesday with locked and guarded doors,
+The House of Commons, sitting on Tuesday with locked and guarded doors,
 had passed a resolution to the effect that, as soon as the tumults
 subsided, it would immediately proceed to consider the petitions
 presented from many of his Majesty’s Protestant subjects, and would take
 the same into its serious consideration. While this question was under
-[[debate]], Mr Herbert, one of the members present, indignantly [[motifs/rose|rose]] and
-called upon the [[house|House]] to observe that [[characters/lord-george-gordon|Lord George Gordon]] was then
+debate, Mr Herbert, one of the members present, indignantly [[motifs/rose|rose]] and
+called upon the House to observe that [[characters/lord-george-gordon|Lord George Gordon]] was then
 sitting under the gallery with the blue cockade, the signal of
 rebellion, in his hat. He was not only obliged, by those who sat near,
 to take it out; but offering to go into the street to pacify the mob
-with the somewhat indefinite assurance that the [[house|House]] was prepared to
+with the somewhat indefinite assurance that the House was prepared to
 give them ‘the satisfaction they sought,’ was actually held down in his
 seat by the combined force of several members. In short, the disorder
 and violence which reigned triumphant out of doors, penetrated into
 the senate, and there, as elsewhere, terror and alarm prevailed, and
 ordinary forms were for the [[motifs/time|time]] forgotten.
 
-On the [[thursday|Thursday]], both Houses had adjourned until the following Monday
+On the Thursday, both Houses had adjourned until the following Monday
 se’nnight, declaring it impossible to pursue their deliberations with
 the necessary gravity and [[concepts/freedom|freedom]], while they were surrounded by armed
 troops. And now that the rioters were dispersed, the citizens were beset
 with a new [[concepts/fear|fear]]; for, finding the public thoroughfares and all their
 usual places of resort filled with soldiers entrusted with the free use
-of [[motifs/fire|fire]] and [[Sword|sword]], they began to lend a greedy ear to the rumours which
+of [[motifs/fire|fire]] and sword, they began to lend a greedy ear to the rumours which
 were afloat of martial law being declared, and to dismal stories of
 prisoners having been seen hanging on lamp-posts in Cheapside and
 Fleet Street. These terrors being promptly dispelled by a Proclamation
@@ -25169,7 +25169,7 @@ nights,--shall I be kept here?’
 ‘You [[concepts/hope|hope]]! Ay, but your hoping will not undo these [[motifs/chains|chains]]. I [[concepts/hope|hope]], but
 they don’t mind that. Grip hopes, but who cares for Grip?’
 
-[[The Raven|The raven]] gave a short, dull, [[concepts/melancholy|melancholy]] croak. It said ‘Nobody,’ as
+The raven gave a short, dull, [[concepts/melancholy|melancholy]] croak. It said ‘Nobody,’ as
 plainly as a croak could speak.
 
 ‘Who cares for Grip, except you and me?’ said Barnaby, smoothing the
@@ -25180,7 +25180,7 @@ in through the bars, and shines in his bright eye as if a spark from
 those great fires had fallen into the room and was burning yet. But who
 cares for Grip?’
 
-[[The Raven|The raven]] croaked again--Nobody.
+The raven croaked again--Nobody.
 
 ‘And by the way,’ said Barnaby, withdrawing his hand from the bird, and
 laying it upon his mother’s arm, as he looked eagerly in her face; ‘if
@@ -25269,7 +25269,7 @@ Do not seem to know him, except as one who fled with you from the jail,
 and if they question you about him, do not answer them. God be with you
 through the [[motifs/night|night]], dear boy! God be with you!’
 
-She tore herself away, and in a few seconds Barnaby was [[Alone|alone]]. He stood
+She tore herself away, and in a few seconds Barnaby was alone. He stood
 for a long [[motifs/time|time]] rooted to the spot, with his face hidden in his hands;
 then flung himself, sobbing, on his miserable bed.
 
@@ -25350,7 +25350,7 @@ so that I may understand you.’
 The hand of Him who set His curse on murder, is heavy on us now. You
 cannot [[concepts/doubt|doubt]] it. Our son, our [[archetypes/innocent|innocent]] boy, on whom His anger fell
 before his birth, is in this place in peril of his life--brought here
-by your [[concepts/guilt|guilt]]; yes, by that [[Alone|alone]], as Heaven sees and knows, for he
+by your [[concepts/guilt|guilt]]; yes, by that alone, as Heaven sees and knows, for he
 has been led astray in the darkness of his intellect, and that is the
 terrible consequence of your crime.’
 
@@ -25461,7 +25461,7 @@ known to enter its gates with a single prisoner.
 Of all his forty thousand men, not one remained to bear him company.
 Friends, dependents, followers,--none were there. His fawning secretary
 had played the traitor; and he whose weakness had been goaded and urged
-on by so many for their own purposes, was desolate and [[Alone|alone]].
+on by so many for their own purposes, was desolate and alone.
 
 
 
@@ -25473,7 +25473,7 @@ Chapter 74
 
 
 Mr Dennis, having been made prisoner late in the evening, was removed to
-a neighbouring round-[[house]] for that [[motifs/night|night]], and carried before a justice
+a neighbouring round-house for that [[motifs/night|night]], and carried before a justice
 for examination on the next day, Saturday. The charges against him
 being numerous and weighty, and it being in particular proved, by the
 testimony of [[characters/gabriel-varden|Gabriel Varden]], that he had shown a special [[motifs/desire|desire]] to take
@@ -25486,7 +25486,7 @@ himself for the worst.
 To say that Mr Dennis’s modesty was not somewhat startled by these
 honours, or that he was altogether prepared for so flattering a
 reception, would be to claim for him a greater amount of stoical
-[[philosophy]] than even he possessed. Indeed this gentleman’s stoicism was
+philosophy than even he possessed. Indeed this gentleman’s stoicism was
 of that not uncommon kind, which enables a man to bear with exemplary
 fortitude the afflictions of his friends, but renders him, by way of
 counterpoise, rather selfish and sensitive in respect of any that happen
@@ -25527,7 +25527,7 @@ conveyed into the interior of the [[motifs/prison|prison]].
 under these [[forms/novel|novel]] circumstances the remains of passages with which he
 was [[motifs/well|well]] acquainted, ‘am I going to be along with anybody?’
 
-‘If you’d have left more walls standing, you’d have been [[Alone|alone]],’ was the
+‘If you’d have left more walls standing, you’d have been alone,’ was the
 reply. ‘As it is, we’re cramped for room, and you’ll have company.’
 
 ‘[[motifs/well|Well]],’ returned Dennis, ‘I don’t object to company, brother. I rather
@@ -25743,7 +25743,7 @@ desperate fellow struck at him with all his force, and missing him, lay
 down again with many muttered oaths and imprecations, and turned his
 face towards the wall. After two or three ineffectual twitches at his
 dress, which he was hardy enough to venture upon, notwithstanding his
-dangerous [[Humour|humour]], Mr Dennis, who burnt, for reasons of his own, to
+dangerous humour, Mr Dennis, who burnt, for reasons of his own, to
 pursue the conversation, had no alternative but to sit as patiently as
 he could: waiting his further pleasure.
 
@@ -25883,7 +25883,7 @@ nothing to ask of me,’ returned Sir John, graciously, ‘for I should have
 been happy to render you a service; still, you are welcome on any terms.
 Oblige me with some more chocolate, Peak, and don’t wait.’
 
-The man retired, and left them [[Alone|alone]].
+The man retired, and left them alone.
 
 ‘Sir John,’ said Gabriel, ‘I am a working-man, and have been so, all my
 life. If I don’t prepare you enough for what I have to tell; if I come
@@ -25979,7 +25979,7 @@ compliments, ‘early this morning, a message was brought to me from
 Newgate, at this man’s request, desiring that I would go and see him,
 for he had something particular to communicate. I needn’t tell you
 that he is no friend of mine, and that I had never seen him, until the
-rioters beset my [[house]].’
+rioters beset my house.’
 
 Sir John fanned himself gently with the newspaper, and nodded.
 
@@ -26290,7 +26290,7 @@ to sustain it, and lapsed abruptly into [[motifs/silence|silence]].
 With them who stood upon the brink of the great gulf which none can see
 beyond, [[motifs/time|Time]], so soon to lose itself in vast [[concepts/eternity|Eternity]], rolled on like a
 mighty [[motifs/river|river]], swollen and rapid as it nears the sea. It was morning but
-now; they had sat and talked together in [[A Dream|a dream]]; and here was evening.
+now; they had sat and talked together in a dream; and here was evening.
 The dreadful hour of separation, which even yesterday had seemed so
 distant, was at hand.
 
@@ -26440,7 +26440,7 @@ Chapter 77
 
 
 The [[motifs/time|time]] wore on. The noises in the streets became less frequent by
-degrees, until [[motifs/silence|silence]] was scarcely broken save by [[The Bells|the bells]] in church
+degrees, until [[motifs/silence|silence]] was scarcely broken save by the bells in church
 towers, marking the progress--softer and more stealthy while the [[motifs/city|city]]
 slumbered--of that Great Watcher with the hoary head, who never sleeps
 or rests. In the brief interval of darkness and repose which feverish
@@ -26508,12 +26508,12 @@ hastily from their beds. In some of the houses, people were busy taking
 out the [[motifs/window|window]]-sashes for the better accommodation of spectators; in
 others, the spectators were already seated, and beguiling the [[motifs/time|time]] with
 cards, or drink, or jokes among themselves. Some had purchased seats
-upon the [[house]]-tops, and were already crawling to their stations from
+upon the house-tops, and were already crawling to their stations from
 parapet and garret-[[motifs/window|window]]. Some were yet bargaining for good places, and
 stood in them in a state of indecision: gazing at the slowly-swelling
 crowd, and at the workmen as they rested listlessly against the
 scaffold--affecting to listen with indifference to the proprietor’s
-eulogy of the commanding view his [[house]] afforded, and the surpassing
+eulogy of the commanding view his house afforded, and the surpassing
 cheapness of his terms.
 
 A fairer morning never shone. From the roofs and upper stories of these
@@ -26545,7 +26545,7 @@ thrusting its obscene presence upon their waking senses.
 
 Five o’[[motifs/clock|clock]] had struck--six--seven--and eight. Along the two main
 streets at either end of the [[motifs/cross|cross]]-way, a living stream had now set in,
-[[rolling]] towards the marts of gain and business. Carts, coaches, waggons,
+rolling towards the marts of gain and business. Carts, coaches, waggons,
 trucks, and barrows, forced a passage through the outskirts of the
 throng, and clattered onward in the same direction. Some of these
 which were public conveyances and had come from a short distance in the
@@ -26609,7 +26609,7 @@ gleamed and glittered in the sun like a [[motifs/river|river]]. Along this shini
 two men came hurrying on, leading a [[motifs/horse|horse]], which was speedily harnessed
 to the cart at the [[motifs/prison|prison]]-door. Then, a profound [[motifs/silence|silence]] replaced the
 tumult that had so long been gathering, and a breathless pause ensued.
-Every [[motifs/window|window]] was now choked up with heads; the [[house]]-tops teemed with
+Every [[motifs/window|window]] was now choked up with heads; the house-tops teemed with
 people--clinging to chimneys, peering over gable-ends, and holding on
 where the sudden loosening of any brick or stone would dash them down
 into the street. The church tower, the church roof, the church yard,
@@ -26728,7 +26728,7 @@ nothing, even if we would.’
 
 ‘All I ask, sir,--all I want and beg, is [[motifs/time|time]], to make it sure,’ cried
 the trembling wretch, looking wildly round for sympathy. ‘The [[archetypes/king|King]] and
-[[government|Government]] can’t know it’s me; I’m sure they can’t know it’s me; or they
+Government can’t know it’s me; I’m sure they can’t know it’s me; or they
 never would bring me to this dreadful slaughterhouse. They know my name,
 but they don’t know it’s the same man. Stop my execution--for [[concepts/charity|charity]]’s
 sake stop my execution, gentlemen--till they can be told that I’ve
@@ -26835,7 +26835,7 @@ the direction where he stood) and answered, ‘There is nothing more.’
 
 ‘--Unless,’ said Hugh, glancing hurriedly back,--‘unless any person here
 has a fancy for a dog; and not then, unless he means to use him [[motifs/well|well]].
-There’s one, belongs to me, at the [[house]] I came from, and it wouldn’t
+There’s one, belongs to me, at the house I came from, and it wouldn’t
 be easy to find a better. He’ll whine at first, but he’ll soon get over
 that.--You [[concepts/wonder|wonder]] that I think about a dog just now,’ he added, with a
 kind of laugh. ‘If any man deserved it of me half as [[motifs/well|well]], I’d think of
@@ -26858,7 +26858,7 @@ with something of a childish [[concepts/pride|pride]] and pleasure,--in the vehi
 officers fell into their places at the sides, in front and in the rear;
 the sheriffs’ carriages rolled on; a guard of soldiers surrounded the
 whole; and they moved slowly forward through the throng and pressure
-toward Lord Mansfield’s ruined [[house]].
+toward Lord Mansfield’s ruined house.
 
 It was a sad sight--all the show, and strength, and glitter, assembled
 round one helpless creature--and sadder yet to note, as he rode along,
@@ -26875,7 +26875,7 @@ paralysed in [[motifs/time|time]] of danger.
 Two cripples--both mere boys--one with a leg of wood, one who dragged
 his twisted limbs along by the help of a crutch, were hanged in this
 same Bloomsbury Square. As the cart was about to glide from under them,
-it was observed that they stood with their faces from, not to, the [[house]]
+it was observed that they stood with their faces from, not to, the house
 they had assisted to despoil; and their misery was protracted that this
 omission might be remedied. Another boy was hanged in Bow Street; other
 young lads in various quarters of the town. Four wretched women, too,
@@ -27156,14 +27156,14 @@ The Golden Key itself, fair emblem of the locksmith’s trade, had been
 pulled down by the rioters, and roughly trampled under foot. But, now,
 it was hoisted up again in all the glory of a new coat of paint,
 and showed more bravely even than in days of yore. Indeed the whole
-[[house]]-front was spruce and trim, and so freshened up throughout, that if
+house-front was spruce and trim, and so freshened up throughout, that if
 there yet remained at large any of the rioters who had been concerned in
 the attack upon it, the sight of the old, goodly, prosperous dwelling,
 so revived, must have been to them as gall and wormwood.
 
 The shutters of the shop were closed, however, and the [[motifs/window|window]]-blinds
 above were all pulled down, and in place of its usual cheerful
-appearance, the [[house]] had a look of sadness and an air of mourning;
+appearance, the house had a look of sadness and an air of mourning;
 which the neighbours, who in old days had often seen poor Barnaby go in
 and out, were at no loss to understand. The door stood partly open;
 but the locksmith’s hammer was unheard; the cat sat moping on the ashy
@@ -27328,7 +27328,7 @@ you suspicion and distrust, should not be entered on by me.’
 broad path of [[concepts/honour|honour]], on the plausible pretence that he is justified by
 the goodness of his end. All good ends can be worked out by good means.
 Those that cannot, are bad; and may be counted so at once, and left
-[[Alone|alone]].’
+alone.’
 
 He looked from her to Edward, and said in a gentler tone:
 
@@ -27336,7 +27336,7 @@ He looked from her to Edward, and said in a gentler tone:
 steward, and to that remnant of a richer property which my brother left
 her, I [[motifs/desire|desire]] to add, in token of my [[motifs/love|love]], a poor pittance, scarcely
 worth the mention, for which I have no longer any need. I am glad you go
-abroad. Let our ill-fated [[house]] remain the ruin it is. When you return,
+abroad. Let our ill-fated house remain the ruin it is. When you return,
 after a few thriving years, you will command a better, and a more
 fortunate one. We are friends?’
 
@@ -27384,7 +27384,7 @@ outstretched hands of half a hundred men, while the whole tumultuous
 concourse stretched their throats, and cheered with all their might.
 Though he was really in a fair way to be torn to pieces in the general
 enthusiasm, the locksmith, nothing discomposed, echoed their shouts till
-he was as hoarse as they, and in a glow of joy and right good-[[Humour|humour]],
+he was as hoarse as they, and in a glow of joy and right good-humour,
 waved his hat until the daylight shone between its brim and [[motifs/crown|crown]].
 
 
@@ -27440,12 +27440,12 @@ Key, leaving to Gabriel the grateful task of bringing him [[motifs/home|home]] i
 triumph.
 
 ‘I needn’t say,’ observed the locksmith, when he had shaken hands with
-all the males in the [[house]], and hugged all the females, five-and-forty
+all the males in the house, and hugged all the females, five-and-forty
 times, at least, ‘that, except among ourselves, I didn’t want to make a
 triumph of it. But, directly we got into the street we were known, and
 this hubbub began. Of the two,’ he added, as he wiped his crimson face,
 ‘and after experience of both, I think I’d rather be taken out of my
-[[house]] by a crowd of enemies, than escorted [[motifs/home|home]] by a mob of friends!’
+house by a crowd of enemies, than escorted [[motifs/home|home]] by a mob of friends!’
 
 It was plain enough, however, that this was mere talk on Gabriel’s part,
 and that the whole proceeding afforded him the keenest delight; for
@@ -27459,14 +27459,14 @@ until it dangled by a shred, between his finger and thumb. This
 demonstration having been received with appropriate shouts, and [[motifs/silence|silence]]
 being in some degree restored, he thanked them for their sympathy; and
 taking the liberty to inform them that there was a sick person in the
-[[house]], proposed that they should give three cheers for [[archetypes/king|King]] George,
+house, proposed that they should give three cheers for [[archetypes/king|King]] George,
 three more for Old England, and three more for nothing particular, as
 a closing ceremony. The crowd assenting, substituted [[characters/gabriel-varden|Gabriel Varden]]
 for the nothing particular; and giving him one over, for good measure,
-dispersed in high good-[[Humour|humour]].
+dispersed in high good-humour.
 
 What congratulations were exchanged among the inmates at the Golden
-Key, when they were left [[Alone|alone]]; what an overflowing of joy and happiness
+Key, when they were left alone; what an overflowing of joy and happiness
 there was among them; how incapable it was of expression in Barnaby’s
 own person; and how he went wildly from one to another, until he became
 so far tranquillised, as to stretch himself on the ground beside his
@@ -27486,7 +27486,7 @@ its feeble ray upon the book of [[motifs/prayer|prayer]]. He placed it for a mom
 coffin, when he and his companions were about to lower it down. There
 was no [[forms/inscription|inscription]] on the lid.
 
-The mould fell solemnly upon the last [[house]] of this nameless man; and
+The mould fell solemnly upon the last house of this nameless man; and
 the rattling [[motifs/dust|dust]] left a dismal echo even in the accustomed ears of
 those who had borne it to its resting-place. The [[motifs/grave|grave]] was filled in to
 the top, and trodden down. They all left the spot together.
@@ -27533,7 +27533,7 @@ best-contented old buck, in Great Britain or out of it.
 
 There he sat, with his beaming eye on Mrs V., and his shining face
 suffused with gladness, and his capacious waistcoat smiling in every
-wrinkle, and his jovial [[Humour|humour]] peeping from under the table in the very
+wrinkle, and his jovial humour peeping from under the table in the very
 plumpness of his legs; a sight to turn the vinegar of [[concepts/misanthropy|misanthropy]] into
 purest milk of human kindness. There he sat, watching his wife as she
 decorated the room with [[motifs/flowers|flowers]] for the greater [[concepts/honour|honour]] of Dolly and
@@ -27605,7 +27605,7 @@ nothing could be suggested which would have made it better.
 
 While they were in the full glow of such discourse as this, there came a
 startling knock at the door, opening from the street into the workshop,
-which had been kept closed all day that the [[house]] might be more quiet.
+which had been kept closed all day that the house might be more quiet.
 Joe, as in duty bound, would hear of nobody but himself going to open
 it; and accordingly left the room for that purpose.
 
@@ -27731,7 +27731,7 @@ with her nephew’s aid, prepared to bear her wardrobe up the staircase.
 ‘My dear,’ said the locksmith to his wife. ‘Do you [[motifs/desire|desire]] this?’
 
 ‘I [[motifs/desire|desire]] it!’ she answered. ‘I am astonished--I am amazed--at her
-audacity. Let her leave the [[house]] this moment.’
+audacity. Let her leave the house this moment.’
 
 Miggs, hearing this, let her end of the box fall heavily to the floor,
 gave a very loud sniff, crossed her arms, screwed down the corners of
@@ -27832,7 +27832,7 @@ to rest and grieve, until she could ensnare some other youth to help her
 ‘It’s a thing to laugh at, Martha, not to care for,’ whispered the
 locksmith, as he followed his wife to the [[motifs/window|window]], and good-humouredly
 dried her eyes. ‘What does it matter? You had seen your fault before.
-Come! Bring up Toby again, my dear; Dolly shall sing us a [[Song|song]]; and
+Come! Bring up Toby again, my dear; Dolly shall sing us a song; and
 we’ll be all the merrier for this interruption!’
 
 
@@ -27845,9 +27845,9 @@ Chapter 81
 
 
 Another month had passed, and the end of August had nearly come, when Mr
-Haredale stood [[Alone|alone]] in the mail-coach office at Bristol. Although but a
+Haredale stood alone in the mail-coach office at Bristol. Although but a
 few weeks had intervened since his conversation with [[characters/edward-chester|Edward Chester]] and
-his niece, in the locksmith’s [[house]], and he had made no change, in the
+his niece, in the locksmith’s house, and he had made no change, in the
 mean [[motifs/time|time]], in his accustomed style of dress, his appearance was greatly
 altered. He looked much older, and more care-worn. Agitation and anxiety
 of mind scatter wrinkles and grey hairs with no unsparing hand; but
@@ -27856,7 +27856,7 @@ of dear, familiar ties. The affections may not be so easily wounded as
 the passions, but their hurts are deeper, and more lasting. He was now a
 solitary man, and the heart within him was dreary and lonesome.
 
-He was not the less [[Alone|alone]] for having spent so many years in seclusion
+He was not the less alone for having spent so many years in seclusion
 and retirement. This was no better preparation than a round of social
 cheerfulness: perhaps it even increased the keenness of his sensibility.
 He had been so dependent upon her for companionship and [[motifs/love|love]]; she had
@@ -27909,7 +27909,7 @@ into the busy street.
 He had not gone far, and was thoughtfully making his way among the noisy
 crowd, when he felt a hand upon his shoulder, and, turning, recognised
 one of the waiters from the inn, who begged his pardon, but he had left
-his [[Sword|sword]] behind him.
+his sword behind him.
 
 ‘Why have you brought it to me?’ he asked, stretching out his hand, and
 yet not taking it from the man, but looking at him in a disturbed and
@@ -27924,7 +27924,7 @@ places. ‘We thought you were a stranger, sir,’ he added, ‘and that you
 might believe our roads to be better than they are; but perhaps you know
 them [[motifs/well|well]], and carry [[motifs/fire|fire]]-arms--’
 
-He took the [[Sword|sword]], and putting it up at his side, thanked the man, and
+He took the sword, and putting it up at his side, thanked the man, and
 resumed his walk.
 
 It was long remembered that he did this in a manner so strange, and
@@ -27943,7 +27943,7 @@ attention (remembering the expression of his face when they parted),
 Mr Haredale quickened his steps; and arriving at a stand of coaches,
 bargained with the driver of the best to carry him so far on his [[motifs/road|road]] as
 the point where the footway struck across the fields, and to await his
-return at a [[house]] of entertainment which was within a stone’s-throw of
+return at a house of entertainment which was within a stone’s-throw of
 that place. Arriving there in due course, he alighted and pursued his
 way on foot.
 
@@ -27956,7 +27956,7 @@ way on foot.
 He passed so near the Maypole, that he could see its smoke rising from
 among the trees, while a flock of pigeons--some of its old inhabitants,
 doubtless--sailed gaily [[motifs/home|home]] to roost, between him and the unclouded
-sky. ‘The old [[house]] will brighten up now,’ he said, as he looked towards
+sky. ‘The old house will brighten up now,’ he said, as he looked towards
 it, ‘and there will be a merry fireside beneath its ivied roof. It is
 some comfort to know that everything will not be blighted hereabouts. I
 shall be glad to have one picture of life and cheerfulness to turn to,
@@ -27966,7 +27966,7 @@ He resumed his walk, and bent his steps towards the Warren. It was a
 clear, calm, silent evening, with hardly a breath of [[motifs/wind|wind]] to stir the
 [[motifs/leaves|leaves]], or any sound to break the stillness of the [[motifs/time|time]], but drowsy
 sheep-[[motifs/bells|bells]] tinkling in the distance, and, at intervals, the far-off
-lowing of cattle, or bark of village [[dogs]]. The sky was radiant with
+lowing of cattle, or bark of village dogs. The sky was radiant with
 the softened glory of sunset; and on the earth, and in the air, a deep
 repose prevailed. At such an hour, he arrived at the deserted mansion
 which had been his [[motifs/home|home]] so long, and looked for the last [[motifs/time|time]] upon its
@@ -27983,7 +27983,7 @@ the proudest temples of old [[motifs/time|Time]], with all their vaunting annals
 blush!
 
 He roused himself from a long train of meditation, and walked slowly
-round the [[house]]. It was by this [[motifs/time|time]] almost dark.
+round the house. It was by this [[motifs/time|time]] almost dark.
 
 He had nearly made the circuit of the building, when he uttered a
 half-suppressed exclamation, started, and stood still. Reclining, in an
@@ -28021,7 +28021,7 @@ odd chance it is, that we should meet here!’
 ‘Strange? The most remarkable and singular thing in the world. I never
 ride in the evening; I have not done so for years. The whim seized me,
 quite unaccountably, in the middle of last [[motifs/night|night]].--How very picturesque
-this is!’--He pointed, as he spoke, to the dismantled [[house]], and raised
+this is!’--He pointed, as he spoke, to the dismantled house, and raised
 his glass to his eye.
 
 ‘You praise your own work very freely.’
@@ -28091,7 +28091,7 @@ Heaven--by the abduction and dishonour of my niece. You did. I see
 denial in your looks,’ he cried, abruptly pointing in his face, and
 stepping back, ‘and denial is a lie!’
 
-He had his hand upon his [[Sword|sword]]; but the knight, with a contemptuous
+He had his hand upon his sword; but the knight, with a contemptuous
 smile, replied to him as coldly as before.
 
 ‘You will take notice, sir--if you can discriminate sufficiently--that I
@@ -28127,7 +28127,7 @@ with your wretched son (whom God forgive!) to do this deed. You talk of
 degradation and character. You told me once that you had purchased the
 absence of the poor idiot and his mother, when (as I have discovered
 since, and then suspected) you had gone to tempt them, and had found
-them flown. To you I traced the insinuation that I [[Alone|alone]] reaped any
+them flown. To you I traced the insinuation that I alone reaped any
 harvest from my brother’s [[motifs/death|death]]; and all the foul attacks and whispered
 calumnies that followed in its train. In every action of my life, from
 that first [[concepts/hope|hope]] which you converted into grief and desolation, you have
@@ -28137,7 +28137,7 @@ second [[motifs/time|time]], and for the last, I cast these charges in your teet
 spurn you from me as I would a faithless dog!’
 
 With that he raised his arm, and struck him on the breast so that he
-staggered. Sir John, the instant he recovered, drew his [[Sword|sword]], threw
+staggered. Sir John, the instant he recovered, drew his sword, threw
 away the scabbard and his hat, and running on his adversary made a
 desperate lunge at his heart, which, but that his guard was quick and
 true, would have stretched him dead upon the grass.
@@ -28165,7 +28165,7 @@ honesty and [[concepts/truth|truth]], into a bond with me to prevent a [[motifs/
 to dislike, and when I had redeemed my part to the spirit and the
 letter, skulked from his, and brought the match about in his own [[motifs/time|time]],
 to rid himself of a burden he had grown tired of, and cast a spurious
-lustre on his [[house]]?’
+lustre on his house?’
 
 ‘I have acted,’ cried Mr Haredale, ‘with [[concepts/honour|honour]] and in good [[concepts/faith|faith]]. I do
 so now. Do not force me to renew this duel to-[[motifs/night|night]]!’
@@ -28178,7 +28178,7 @@ made, sir.’
 
 ‘Once more,’ cried his opponent, wildly stamping on the ground,
 ‘although you tear me from my better angel, I implore you not to come
-within the reach of my [[Sword|sword]] to-[[motifs/night|night]]. Oh! why were you here at all! Why
+within the reach of my sword to-[[motifs/night|night]]. Oh! why were you here at all! Why
 have we met! To-morrow would have cast us far apart for ever!’
 
 
@@ -28201,7 +28201,7 @@ weapon.
 After a few seconds they grew hotter and more furious, and pressing on
 each other inflicted and received several slight wounds. It was directly
 after receiving one of these in his arm, that Mr Haredale, making a
-keener thrust as he felt the warm [[motifs/blood|blood]] spirting out, plunged his [[Sword|sword]]
+keener thrust as he felt the warm [[motifs/blood|blood]] spirting out, plunged his sword
 through his opponent’s [[concepts/body|body]] to the hilt.
 
 Their eyes met, and were on each other as he drew it out. He put his
@@ -28233,7 +28233,7 @@ Two days elapsed before the [[concepts/body|body]] of Sir John was found. As soo
 it was recognised and carried [[motifs/home|home]], the faithful valet, true to his
 master’s creed, eloped with all the cash and movables he could lay his
 hands on, and started as a finished gentleman upon his own account. In
-this career he met with great [[success]], and would certainly have married
+this career he met with great success, and would certainly have married
 an heiress in the end, but for an unlucky check which led to his
 premature decease. He sank under a contagious disorder, very prevalent
 at that [[motifs/time|time]], and vulgarly termed the jail fever.
@@ -28307,7 +28307,7 @@ the most censorious.
 Gashford deserted him, of course. He subsisted for a [[motifs/time|time]] upon his
 traffic in his master’s [[motifs/secrets|secrets]]; and, this trade failing when the stock
 was quite exhausted, procured an appointment in the honourable corps
-of spies and eavesdroppers employed by the [[government]]. As one of these
+of spies and eavesdroppers employed by the government. As one of these
 wretched underlings, he did his drudgery, sometimes abroad, sometimes at
 [[motifs/home|home]], and long endured the various miseries of such a station. Ten or a
 dozen years ago--not more--a meagre, wan old man, diseased and miserably
@@ -28495,7 +28495,7 @@ in any other sound than a [[motifs/grave|grave]], decorous croak. At the expirat
 that term, the morning being very bright and sunny, he was heard to
 address himself to the horses in the stable, upon the subject of the
 Kettle, so often mentioned in these pages; and before the witness who
-overheard him could run into the [[house]] with the intelligence, and add
+overheard him could run into the house with the intelligence, and add
 to it upon his solemn affirmation the statement that he had heard him
 laugh, the bird himself advanced with fantastic steps to the very door
 of the bar, and there cried, ‘I’m a devil, I’m a devil, I’m a devil!’

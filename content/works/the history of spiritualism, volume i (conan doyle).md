@@ -69,7 +69,7 @@ tags:
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[concepts/uncanny|Uncanny]], [[motifs/soul|Soul]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 **Settings:** [[settings/london|London]], [[settings/america|America]]
-**Characters:** Emanuel Swedenborg
-**Archetypes:** Prophet, Prophetess Seer
+**Characters:** [[characters/emanuel-swedenborg|Emanuel Swedenborg]]
+**Archetypes:** [[archetypes/prophet|Prophet]], [[archetypes/prophetess-seer|Prophetess Seer]]
 
 **Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

@@ -44,5 +44,5 @@ tags:
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/river|River]], [[motifs/swords-and-weapons|Swords and Weapons]]
 **Historical References:** [[historical-references/french-revolution|French Revolution]]
 **Settings:** [[settings/france|France]], [[settings/paris|Paris]], [[settings/europe|Europe]]
-**Archetypes:** Rebel
+**Archetypes:** [[archetypes/rebel|Rebel]]
 **Topoi:** [[topoi/combat-strife|Combat Strife]]

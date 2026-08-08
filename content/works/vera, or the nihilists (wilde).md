@@ -116,13 +116,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/love-as-religion|Love as Religion]], [[topoi/love-death-(liebestod)|Love-Death (Liebestod)]]
-**Archetypes:** Tyrant, Rebel, Martyr Saint, Avenger, Lover, Christ Figure
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/rebel|Rebel]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/avenger|Avenger]], [[archetypes/lover|Lover]], [[archetypes/christ-figure|Christ Figure]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/death|Death]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/poison|Poison]], [[motifs/crown|Crown]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/cross|Cross]], [[motifs/winter|Winter]], [[motifs/nightingale|Nightingale]], [[motifs/letters-and-writing|Letters and Writing]]
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/revenge|Revenge]], [[concepts/romantic-love|Romantic Love]], [[concepts/martyrdom|Martyrdom]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/deception|Deception]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/social-injustice|Social Injustice]], [[concepts/reform|Reform]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]], [[forms/melodrama|Melodrama]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 **Settings:** [[settings/russia|Russia]], [[settings/court|Court]], [[settings/europe|Europe]]
-**Characters:** Christ, Vera Sabouroff, Prince Paul Maraloffski, Czarevitch Alexis, Czar Ivan, Michael
+**Characters:** [[characters/christ|Christ]], [[characters/vera-sabouroff|Vera Sabouroff]], [[characters/prince-paul-maraloffski|Prince Paul Maraloffski]], [[characters/czarevitch-alexis|Czarevitch Alexis]], [[characters/czar-ivan|Czar Ivan]], [[characters/michael|Michael]]
 
 ## Testo integrale / Full text
 

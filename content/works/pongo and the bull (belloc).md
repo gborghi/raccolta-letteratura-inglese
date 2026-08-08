@@ -40,4 +40,4 @@ tags:
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/capitalism|Capitalism]], [[concepts/democracy|Democracy]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/antisemitism|Antisemitism]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/great-house|Great House]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Archetypes:** Corrupt Official, Self-Made Man
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/self-made-man|Self-Made Man]]

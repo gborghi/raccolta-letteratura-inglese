@@ -53,7 +53,7 @@ Raccolta tematica di 45 componimenti di Walt Whitman.
 - [[works/i-hear-america-singing-(whitman)|I Hear America Singing]]
 - [[works/i-was-looking-a-long-while-(whitman)|I Was Looking a Long While]]
 - [[works/long,-too-long-america-(whitman)|Long, Too Long America]]
-- Mannahatta (My city’s fit and noble name resumed)
+- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#294_mannahatta|Mannahatta (My city’s fit and noble name resumed)]]
 - [[works/mannahatta-(whitman)|Mannahatta]]
 - [[works/on-journeys-through-the-states-(whitman)|On Journeys Through the States]]
 - [[works/on,-on-the-same,-ye-jocund-twain!-(whitman)|On, on the Same, Ye Jocund Twain!]]
@@ -69,13 +69,13 @@ Raccolta tematica di 45 componimenti di Walt Whitman.
 - [[works/the-united-states-to-old-world-critics-(whitman)|The United States to Old World Critics]]
 - [[works/thick-sprinkled-bunting-(whitman)|Thick-Sprinkled Bunting]]
 - [[works/thou-mother-with-thy-equal-brood-(whitman)|Thou Mother with Thy Equal Brood]]
-- Thought (Of Equality)
-- Thought (Of justice)
-- Thought (Of obedience, faith, adhesiveness)
-- Thoughts (Of public opinion)
-- Thoughts (Of these years I sing)
+- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#137_thought|Thought (Of Equality)]]
+- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#134_thought|Thought (Of justice)]]
+- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#132_thought|Thought (Of obedience, faith, adhesiveness)]]
+- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#265_thoughts|Thoughts (Of public opinion)]]
+- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#280_thoughts|Thoughts (Of these years I sing)]]
 - [[works/to-a-foil’d-european-revolutionaire-(whitman)|To a Foil’d European Revolutionaire]]
-- To Foreign Lands
+- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#004_to_foreign_lands|To Foreign Lands]]
 - [[works/to-the-states-(whitman)|To the States]]
 - [[works/to-the-states-to-identify-the-16th,-17th,-or-18th-presidentiad-(whitman)|To The States (To Identify the 16th, 17th, or 18th Presidentiad)]]
 - [[works/transpositions-(whitman)|Transpositions]]

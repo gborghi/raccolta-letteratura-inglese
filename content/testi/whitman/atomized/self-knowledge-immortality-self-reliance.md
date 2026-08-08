@@ -44,7 +44,7 @@ Expecting the main things from you.
 _Cluster: CALAMUS_
 
 
-Roots and [[motifs/leaves|leaves]] themselves [[Alone|alone]] are these,
+Roots and [[motifs/leaves|leaves]] themselves alone are these,
 Scents brought to men and women from the wild woods and pond-side,
 Breast-sorrel and pinks of [[motifs/love|love]], fingers that [[motifs/wind|wind]] around tighter
 than vines,
@@ -81,7 +81,7 @@ From wounds made to free you whence you were [[motifs/prison|prison]]’d,
 From my face, from my forehead and lips,  
 From my breast, from within where I was conceal’d, press forth red  
 drops, confession drops,  
-Stain every page, stain every [[Song|song]] I sing, every word I say, bloody drops,  
+Stain every page, stain every song I sing, every word I say, bloody drops,  
 Let them know your scarlet heat, let them glisten,  
 Saturate them with yourself all ashamed and wet,  
 Glow upon all I have written or shall write, bleeding drops,  
@@ -181,7 +181,7 @@ Bold, cautious, true, and my loving comrade.
 
 Long, long I muse, then on my way go wandering,  
 Many a changeful season to follow, and many a scene of life,  
-Yet at times through changeful season and scene, abrupt, [[Alone|alone]], or  
+Yet at times through changeful season and scene, abrupt, alone, or  
 in the crowded street,  
 Comes before me the unknown soldier’s [[motifs/grave|grave]], comes the [[forms/inscription|inscription]]  
 rude in Virginia’s woods,  
@@ -227,27 +227,27 @@ Nor the bayonet stab O friend.
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
 
 
-By the [[motifs/city|city]] dead-[[house]] by the gate,
+By the [[motifs/city|city]] dead-house by the gate,
 As idly sauntering wending my way from the clangor,
 I curious pause, for lo, an outcast form, a poor dead prostitute brought,
 Her corpse they deposit unclaim’d, it lies on the damp brick pavement,
-The divine woman, her [[concepts/body|body]], I see the [[concepts/body|body]], I look on it [[Alone|alone]],
-That [[house]] once full of passion and [[concepts/beauty|beauty]], all else I notice not,
+The divine woman, her [[concepts/body|body]], I see the [[concepts/body|body]], I look on it alone,
+That house once full of passion and [[concepts/beauty|beauty]], all else I notice not,
 Nor stillness so cold, nor running [[motifs/water|water]] from faucet, nor odors
 morbific impress me,
-But the [[house]] [[Alone|alone]]--that wondrous [[house]]--that delicate fair [[house]]
+But the house alone--that wondrous house--that delicate fair house
 --that ruin!
-That immortal [[house]] more than all the rows of dwellings ever built!
+That immortal house more than all the rows of dwellings ever built!
 Or white-domed capitol with majestic figure surmounted, or all the
 old high-spired cathedrals,
-That little [[house]] [[Alone|alone]] more than them all--poor, desperate [[house]]!
+That little house alone more than them all--poor, desperate house!
 Fair, fearful wreck--tenement of a [[motifs/soul|soul]]--itself a [[motifs/soul|soul]],
-Unclaim’d, avoided [[house]]--take one breath from my tremulous lips,
+Unclaim’d, avoided house--take one breath from my tremulous lips,
 Take one tear dropt aside as I go for thought of you,
-Dead [[house]] of [[motifs/love|love]]--[[house]] of [[concepts/madness|madness]] and sin, crumbled, crush’d,
-[[house|House]] of life, erewhile talking and laughing--but ah, poor [[house]],
+Dead house of [[motifs/love|love]]--house of [[concepts/madness|madness]] and sin, crumbled, crush’d,
+House of life, erewhile talking and laughing--but ah, poor house,
 dead even then,
-Months, years, an echoing, garnish’d [[house]]--but dead, dead, dead.
+Months, years, an echoing, garnish’d house--but dead, dead, dead.
 
 
 
@@ -266,7 +266,7 @@ Nations ten thousand years before these States, and many times ten
 thousand years before these States,
 Garner’d clusters of ages that men and women like us grew up and
 travel’d their course and pass’d on,
-What vast-built cities, what orderly republics, what [[Pastoral|pastoral]] tribes
+What vast-built cities, what orderly republics, what pastoral tribes
 and nomads,
 What histories, rulers, heroes, perhaps transcending all others,
 What laws, customs, wealth, arts, traditions,
@@ -391,9 +391,9 @@ great interest in them, and we taking no interest in them.
 To think how eager we are in building our houses,
 To think others shall be just as eager, and we quite indifferent.
 
-(I see one building the [[house]] that serves him a few years, or
+(I see one building the house that serves him a few years, or
 seventy or eighty years at most,
-I see one building the [[house]] that serves him longer than that.)
+I see one building the house that serves him longer than that.)
 
 Slow-moving and black lines creep over the whole earth--they never
 cease--they are the burial lines,
@@ -438,7 +438,7 @@ To think that these are so much and so nigh to other drivers, and he
 there takes no interest in them.
 
 5
-The markets, the [[government]], the working-man’s wages, to think what
+The markets, the government, the working-man’s wages, to think what
 account they are through our nights and days,
 To think that other working-men will make just as great account of
 them, yet we make little or no account.
@@ -466,7 +466,7 @@ To take interest is [[motifs/well|well]], and not to take interest shall be [[mo
 
 The domestic joys, the dally housework or business, the building of
 houses, are not phantasms, they have weight, form, location,
-Farms, profits, crops, markets, wages, [[government]], are none of them
+Farms, profits, crops, markets, wages, government, are none of them
 phantasms,
 The difference between sin and goodness is no delusion,
 The earth is not an echo, man and his life and all the things of his
@@ -617,7 +617,7 @@ Old Brahm I, and I Saturnius am;
 Not [[motifs/time|Time]] affects me--I am [[motifs/time|Time]], old, modern as any,  
 Unpersuadable, relentless, executing righteous judgments,  
 As the Earth, the Father, the brown old Kronos, with laws,  
-Aged beyond computation, yet never new, ever with those mighty laws [[rolling]],  
+Aged beyond computation, yet never new, ever with those mighty laws rolling,  
 Relentless I forgive no man--whoever sins dies--I will have that man’s life;  
 Therefore let none expect [[concepts/mercy|mercy]]--have the [[motifs/seasons|seasons]], gravitation, the  
 appointed days, [[concepts/mercy|mercy]]? no more have I,  
@@ -628,7 +628,7 @@ I dispense from this side judgments inexorable without the least remorse.
 2  
 Consolator most mild, the promis’d one advancing,  
 With gentle hand extended, the mightier God am I,  
-Foretold by prophets and poets in their most rapt prophecies and [[Poems|poems]],  
+Foretold by prophets and poets in their most rapt prophecies and poems,  
 From this side, lo! the Lord [[characters/christ|Christ]] gazes--lo! Hermes I--lo! mine is  
 Hercules’ face,  
 All sorrow, labor, [[concepts/suffering|suffering]], I, tallying it, absorb in myself,  
@@ -674,7 +674,7 @@ Essence of forms, life of the real identities, permanent, positive,
 Life of the great round world, the sun and [[motifs/stars|stars]], and of man, I, the  
 general [[motifs/soul|soul]],  
 Here the square finishing, the solid, I the most solid,  
-Breathe my breath also through these [[songs]].  
+Breathe my breath also through these songs.  
 
 
 
@@ -749,7 +749,7 @@ _Cluster: WHISPERS OF HEAVENLY DEATH_
 
 
 At the last, tenderly,  
-From the walls of the powerful fortress’d [[house]],  
+From the walls of the powerful fortress’d house,  
 From the clasp of the knitted locks, from the keep of the [[motifs/well|well]]-closed doors,  
 Let me be wafted.  
 
@@ -788,7 +788,7 @@ despised face,
 The sacred faces of infants, the illuminated face of the mother of
 many children,
 The face of an amour, the face of veneration,
-The face as of [[A Dream|a dream]], the face of an immobile rock,
+The face as of a dream, the face of an immobile rock,
 The face withdrawn of its good and bad, a castrated face,
 A wild hawk, his wings clipp’d by the clipper,
 A stallion that yielded at last to the thongs and knife of the gelder.
@@ -866,7 +866,7 @@ They show their descent from the Master himself.
 
 Off the word I have spoken I except not one--red, white, black, are
 all deific,
-In each [[house]] is the ovum, it comes forth after a thousand years.
+In each house is the ovum, it comes forth after a thousand years.
 
 Spots or cracks at the windows do not disturb me,
 Tall and sufficient stand behind and make signs to me,
@@ -903,7 +903,7 @@ Her grandsons raised the flax, and her grand-daughters spun it with
 the distaff and the [[motifs/wheel|wheel]].
 
 The melodious character of the earth,
-The finish beyond which [[philosophy]] cannot go and does not wish to go,
+The finish beyond which philosophy cannot go and does not wish to go,
 The justified mother of men.
 
 
@@ -967,10 +967,10 @@ We know not why or what, yet weave, forever weave.
 <span class="atom-split" data-atom="283_my_legacy" data-title="My Legacy" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_
+_Cluster: SONGS OF PARTING_
 
 
-[[The Business Man|The business man]] the acquirer vast,
+The business man the acquirer vast,
 After assiduous years surveying results, preparing for departure,
 Devises houses and lands to his children, bequeaths stocks, goods,
 funds for a school or hospital,
@@ -982,7 +982,7 @@ With nothing to show to devise from its idle years,
 Nor houses nor lands, nor tokens of gems or gold for my friends,
 Yet certain remembrances of the war for you, and after you,
 And little souvenirs of camps and soldiers, with my [[motifs/love|love]],
-I bind together and bequeath in this bundle of [[songs]].
+I bind together and bequeath in this bundle of songs.
 
 
 
@@ -994,15 +994,15 @@ I bind together and bequeath in this bundle of [[songs]].
 <span class="atom-split" data-atom="287_as_they_draw_to_a_close" data-title="As They Draw to a Close" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_
+_Cluster: SONGS OF PARTING_
 
 
 As they draw to a close,
-Of what underlies the precedent [[songs]]--of my aims in them,
+Of what underlies the precedent songs--of my aims in them,
 Of the seed I have sought to plant in them,
 Of joy, sweet joy, through many a year, in them,
 (For them, for them have I lived, in them my work is done,)
-Of many an [[concepts/aspiration|aspiration]] fond, of many [[A Dream|a dream]] and plan;
+Of many an [[concepts/aspiration|aspiration]] fond, of many a dream and plan;
 Through Space and [[motifs/time|Time]] fused in a chant, and the flowing eternal [[concepts/identity|identity]],
 To [[concepts/nature|Nature]] encompassing these, encompassing God--to the joyous,
 electric all,
@@ -1024,7 +1024,7 @@ With you O [[motifs/soul|soul]].
 <span class="atom-split" data-atom="293_so_long" data-title="So Long!" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_
+_Cluster: SONGS OF PARTING_
 
 
 To conclude, I announce what comes after me.
@@ -1040,8 +1040,8 @@ Then to me and mine our due fruition.
 
 I have press’d through in my own right,
 I have sung the [[concepts/body|body]] and the [[motifs/soul|soul]], war and peace have I sung, and
-the [[songs]] of life and [[motifs/death|death]],
-And the [[songs]] of birth, and shown that there are many births.
+the songs of life and [[motifs/death|death]],
+And the songs of birth, and shown that there are many births.
 
 I have offer’d my style to every one, I have [[motifs/journey|journey]]’d with confident step;
 While my pleasure is yet at the full I whisper So long!
@@ -1100,12 +1100,12 @@ been incessantly preparing.
 What is there more, that I lag and pause and crouch extended with
 unshut mouth?
 Is there a single final farewell?
-My [[songs]] cease, I abandon them,
+My songs cease, I abandon them,
 From behind the screen where I hid I advance personally solely to you.
 
 Camerado, this is no book,
 Who touches this touches a man,
-(Is it [[motifs/night|night]]? are we here together [[Alone|alone]]?)
+(Is it [[motifs/night|night]]? are we here together alone?)
 It is I you hold and who holds you,
 I [[motifs/spring|spring]] from the pages into your arms--decease calls me forth.
 
@@ -1219,7 +1219,7 @@ or dispute the passage with you?
 _Cluster: SANDS AT SEVENTY_  
 
 
-Not meagre, latent boughs [[Alone|alone]], O [[songs]]! (scaly and bare, like  
+Not meagre, latent boughs alone, O songs! (scaly and bare, like  
 eagles’ talons,)  
 But haply for some sunny day (who knows?) some future [[motifs/spring|spring]], some  
 [[motifs/summer|summer]]--bursting forth,  
@@ -1241,7 +1241,7 @@ And [[motifs/love|love]] and [[concepts/faith|faith]], like scented roses bloomi
 _Cluster: SANDS AT SEVENTY_  
 
 
-Now precedent [[songs]], farewell--by every name farewell,  
+Now precedent songs, farewell--by every name farewell,  
 (Trains of a staggering line in many a strange procession, waggons,  
 From ups and downs--with intervals--from elder years, mid-age, or youth,)  
 “In Cabin’d Ships, or Thee Old Cause or Poets to Come  
@@ -1253,7 +1253,7 @@ From fibre heart of mine--from throat and tongue--(My life’s hot
 pulsing [[motifs/blood|blood]],  
 The personal urge and form for me--not merely paper, automatic type  
 and ink,)  
-Each [[Song|song]] of mine--each utterance in the past--having its long, long  
+Each song of mine--each utterance in the past--having its long, long  
 [[concepts/history|history]],  
 Of life or [[motifs/death|death]], or soldier’s wound, of country’s loss or safety,  
 (O heaven! what flash and started endless train of all! compared  
@@ -1277,7 +1277,7 @@ After a long, long course, hundreds of years, denials,
 Accumulations, rous’d [[motifs/love|love]] and joy and thought,  
 Hopes, wishes, aspirations, ponderings, victories, myriads of readers,  
 Coating, compassing, covering--after ages’ and ages’ encrustations,  
-Then only may these [[songs]] reach fruition.  
+Then only may these songs reach fruition.  
 
 
 
@@ -1311,7 +1311,7 @@ into one;
 Then if we die we die together, (yes, we’ll remain one,)  
 If we go anywhere we’ll go together to meet what happens,  
 May-be we’ll be better off and blither, and learn something,  
-May-be it is yourself now really ushering me to the true [[songs]], (who  
+May-be it is yourself now really ushering me to the true songs, (who  
 knows?)  
 May-be it is you the mortal knob really undoing, turning--so now finally,  
 Good-bye--and hail! my Fancy.  

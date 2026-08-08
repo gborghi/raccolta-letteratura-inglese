@@ -65,11 +65,11 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/love-as-religion|Love as Religion]]
-**Archetypes:** Fool, Trickster, Lover
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]], [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/music-and-song|Music and Song]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/sea|Sea]], [[motifs/clothing-and-costume|Clothing and Costume]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/identity|Identity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
-**Characters:** Viola, Orsino, Olivia, Malvolio, Sir Toby Belch, Sir Andrew Aguecheek, Feste, Maria, Sebastian
+**Characters:** [[characters/viola|Viola]], [[characters/orsino|Orsino]], [[characters/olivia|Olivia]], [[characters/malvolio|Malvolio]], [[characters/sir-toby-belch|Sir Toby Belch]], [[characters/sir-andrew-aguecheek|Sir Andrew Aguecheek]], [[characters/feste|Feste]], [[characters/maria|Maria]], [[characters/sebastian|Sebastian]]
 
 ## Testo integrale / Full text
 

@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
 **Forms & Genres:** [[forms/spenserian-stanza|Spenserian Stanza]], [[forms/mock-epic|Mock Epic]], [[forms/satire|Satire]]

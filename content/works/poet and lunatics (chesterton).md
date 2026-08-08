@@ -72,9 +72,9 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/double|Double]]
 
-**Characters:** Gabriel Gale, Dr. Garth, James Hurrel, Lady Diana Westermaine
+**Characters:** [[characters/gabriel-gale|Gabriel Gale]], [[characters/dr.-garth|Dr. Garth]], [[characters/james-hurrel|James Hurrel]], [[characters/lady-diana-westermaine|Lady Diana Westermaine]]
 
-**Archetypes:** Detective, Fool, Artist, Double Doppelganger
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/fool|Fool]], [[archetypes/artist|Artist]], [[archetypes/double-doppelganger|Double Doppelganger]]
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/birds|Birds]], [[motifs/feigned-madness|Feigned Madness]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/prison|Prison]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/storm|Storm]]
 **Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/imagination|Imagination]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/paradox|Paradox]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/identity|Identity]], [[concepts/self-and-cosmos|Self and Cosmos]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]], [[forms/parable|Parable]]

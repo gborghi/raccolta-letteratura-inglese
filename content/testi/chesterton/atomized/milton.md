@@ -27,7 +27,7 @@ su [[historical-references/milton|Milton]] [[motifs/leaves|lascia]] in eterno un
 
 una difficoltà avvertita da tutti i suoi lettori, se pur espressa da pochi.
 
-Quella difficoltà è un contrasto tra l'uomo e le sue [[Poems|poesie]].
+Quella difficoltà è un contrasto tra l'uomo e le sue poesie.
 
 Esiste al mondo un gruppo di persone che perpetuamente cerca di dimostrare
 
@@ -141,11 +141,11 @@ se leggeste certi versi su Eva nel [[topoi/paradise-lost|Paradise Lost]], li cre
 
 scritti a un tempo dal più appassionato e dal più cavalleresco
 
-degli [[lovers|amanti]].  Il [[topoi/paradise-lost|Paradise Lost]] non è tedioso; non è nemmeno frigido.
+degli amanti.  Il [[topoi/paradise-lost|Paradise Lost]] non è tedioso; non è nemmeno frigido.
 
 Chiunque ricordi di aver letto i primi libri da ragazzo
 
-capirà cosa intendo; è un [[Romance|romanzo]], e persino un [[Romance|romanzo]] fantastico.
+capirà cosa intendo; è un romanzo, e persino un romanzo fantastico.
 
 Vi è in esso qualcosa del _Thalabe the Destroyer_; qualcosa di selvaggio
 
@@ -267,7 +267,7 @@ prima lettura e tediosi persino quando li si poteva comprendere.
 
 Pensate alla scurrile guerra di pamphlet, in cui [[historical-references/milton|Milton]]
 
-stesso s'impegnò; pagine piene di elaborata [[logic|logica]] che nessuno
+stesso s'impegnò; pagine piene di elaborata logica che nessuno
 
 riesce a seguire, e di elaborati scandali che tutti hanno dimenticato.
 
@@ -287,7 +287,7 @@ splendido come [[characters/apollo|Apollo]].  Il suo stile, che dev'essere sempr
 
 apparve più puro e translucido di quanto realmente fosse, in contrasto
 
-con tutta quella folle [[Mystification|mistificazione]] e oscurità.
+con tutta quella folle mistificazione e oscurità.
 
 Un [[forms/riddle|enigma]] esso stesso, quel [[motifs/time|tempo]] è pieno di enigmi minori; e uno dei
 
@@ -295,13 +295,13 @@ più inesplicabili tra essi coinvolge l'intera posizione di [[historical-referen
 
 Fino a che punto vi fu davvero una connessione tra il calvinismo
 
-e l'idea di libertà, o l'idea di [[government|governo]] popolare?
+e l'idea di libertà, o l'idea di governo popolare?
 
 Molto si può dire da entrambe le parti; anzi non c'è
 
 questione più perplessa di dove, alla [[historical-references/reformation|Riforma]], o proprio
 
-dopo la [[historical-references/reformation|Riforma]], giacesse il vero seme del moderno [[concepts/self|auto]]-[[government|governo]]
+dopo la [[historical-references/reformation|Riforma]], giacesse il vero seme del moderno [[concepts/self|auto]]-governo
 
 e della [[concepts/freedom|libertà]], o, per dir più propriamente, della moderna fede in essi;
 
@@ -315,7 +315,7 @@ morale; tutto il suo punto era che fosse rigorosamente un movimento teologico;
 
 la sua principale obiezione ai nemici era che tentassero di esaltare
 
-(come dicevano i Puritani scozzesi) "le fredde ossa della [[morality|moralità]]"
+(come dicevano i Puritani scozzesi) "le fredde ossa della moralità"
 
 al di sopra della sostenente e confortevole dottrina della predestinazione.
 
@@ -339,7 +339,7 @@ e tremenda delle aristocrazie per la [[concepts/nature|natura]] della loro stess
 
 erano gli eletti.  Perché i Puritani avrebbero dovuto detestare che un bimbo nascesse
 
-nobile?  Era l'intera [[philosophy|filosofia]] dei Puritani
+nobile?  Era l'intera filosofia dei Puritani
 
 che un bimbo nasce nobile celeste; ed è alla nascita
 
@@ -415,7 +415,7 @@ dal Parlamento sulla punta della picca tutti i membri che
 
 osarono dissentire da lui, la sua [[motifs/soul|anima]] fosse in quel momento infiammata
 
-da un entusiasmo per la libera discussione o il [[government|governo]] rappresentativo.
+da un entusiasmo per la libera discussione o il governo rappresentativo.
 
 Non fu affatto democratico; ma fu altamente calvinista.
 
@@ -467,15 +467,15 @@ in teoria e spesso la favorisce in pratica, restano due grandi fatti
 
 da spiegare o da spiegare via.  Primo, che i Puritani
 
-favorirono davvero un metodo deliberativo o sinodale di [[government|governo]] ecclesiastico,
+favorirono davvero un metodo deliberativo o sinodale di governo ecclesiastico,
 
-un [[government|governo]] per [[debate|dibattito]]; e, secondo, che la maggior parte degli astratti
+un governo per dibattito; e, secondo, che la maggior parte degli astratti
 
 repubblicani del diciassettesimo secolo erano o Puritani o dalla
 
 parte puritana.  Non sto, naturalmente, discutendo il sinodo come modo
 
-di [[government|governo]] ecclesiastico, né la repubblica come modo di [[government|governo]] nazionale.
+di governo ecclesiastico, né la repubblica come modo di governo nazionale.
 
 Dico soltanto che il clamore per queste cose deve aver corrisposto
 
@@ -591,7 +591,7 @@ perché i suoi membri sono tutti su un livello; anzi questo è piuttosto un segn
 
 di aristocrazia; in questo senso la maggior parte delle aristocrazie sono state livellatrici.
 
-Persino la [[house|Camera]] dei Lord è chiamata la [[house|Camera]] degli Eguali: la [[house|Camera]]
+Persino la Camera dei Lord è chiamata la Camera degli Eguali: la Camera
 
 dei Pari.  Così sorse uno spirito che aveva la schiettezza e molta
 
@@ -631,7 +631,7 @@ fu il ritorno dell'umorismo inglese e del buon [[concepts/nature|carattere]].  C
 
 in [[historical-references/milton|Milton]], nell'unico grande elisabettiano che divenne Puritano.
 
-Le sue [[Poems|poesie]] più antiche sono le grida morenti dell'Allegra Inghilterra.  L'Inghilterra, come il suo
+Le sue poesie più antiche sono le grida morenti dell'Allegra Inghilterra.  L'Inghilterra, come il suo
 
 stesso Sansone, perse la forza quando perse la lunga chioma.
 
@@ -662,7 +662,7 @@ about [[historical-references/milton|Milton]] [[motifs/leaves|leaves]] eternally
 
 a difficulty felt by all, if expressed by few, of his readers.
 
-That difficulty is a contrast between the man and his [[Poems|poems]].
+That difficulty is a contrast between the man and his poems.
 
 There exists in the world a group of persons who perpetually try to prove
 
@@ -776,11 +776,11 @@ if you read some lines about Eve in [[topoi/paradise-lost|Paradise Lost]], you m
 
 them written at once by the most passionate and the most chivalrous
 
-of [[lovers]].  [[topoi/paradise-lost|Paradise Lost]] is not dull; it is not even frigid.
+of lovers.  [[topoi/paradise-lost|Paradise Lost]] is not dull; it is not even frigid.
 
 Anyone who can remember reading the first few books as a boy will
 
-know what I mean; it is a [[Romance|romance]], and even a fantastic [[Romance|romance]].
+know what I mean; it is a romance, and even a fantastic romance.
 
 There is something in it of _Thalabe the Destroyer_; something wild
 
@@ -859,7 +859,7 @@ su [[historical-references/milton|Milton]] [[motifs/leaves|lascia]] in eterno un
 
 una difficoltà avvertita da tutti i suoi lettori, se pur espressa da pochi.
 
-Quella difficoltà è un contrasto tra l'uomo e le sue [[Poems|poesie]].
+Quella difficoltà è un contrasto tra l'uomo e le sue poesie.
 
 Esiste al mondo un gruppo di persone che perpetuamente cerca di dimostrare
 
@@ -973,11 +973,11 @@ se leggeste certi versi su Eva nel [[topoi/paradise-lost|Paradise Lost]], li cre
 
 scritti a un tempo dal più appassionato e dal più cavalleresco
 
-degli [[lovers|amanti]].  Il [[topoi/paradise-lost|Paradise Lost]] non è tedioso; non è nemmeno frigido.
+degli amanti.  Il [[topoi/paradise-lost|Paradise Lost]] non è tedioso; non è nemmeno frigido.
 
 Chiunque ricordi di aver letto i primi libri da ragazzo
 
-capirà cosa intendo; è un [[Romance|romanzo]], e persino un [[Romance|romanzo]] fantastico.
+capirà cosa intendo; è un romanzo, e persino un romanzo fantastico.
 
 Vi è in esso qualcosa del _Thalabe the Destroyer_; qualcosa di selvaggio
 
@@ -1104,7 +1104,7 @@ the first reading and dull even when one could comprehend them.
 
 Think of the scurrilous war of pamphlets, in which [[historical-references/milton|Milton]]
 
-himself engaged; pages full of elaborate [[logic]] which no one
+himself engaged; pages full of elaborate logic which no one
 
 can follow, and elaborate scandals which everyone has forgotten.
 
@@ -1124,7 +1124,7 @@ splendid as [[characters/apollo|Apollo]].  His style, which must always have bee
 
 appeared more pure and translucent than it really was in contrast
 
-with all the mad [[Mystification|mystification]] and darkness.
+with all the mad mystification and darkness.
 
 A [[forms/riddle|riddle]] itself, that [[motifs/time|time]] is full of minor riddles; and one of
 
@@ -1132,13 +1132,13 @@ the most inexplicable of them involves the whole position of [[historical-refere
 
 How far was there really a connection between Calvinism
 
-and the idea of liberty, or the idea of popular [[government]]?
+and the idea of liberty, or the idea of popular government?
 
 There is much to be said on both sides; indeed there is no more
 
 perplexing question than whereabouts at the [[historical-references/reformation|Reformation]], or just
 
-after the [[historical-references/reformation|Reformation]], lay the real seed of modern [[concepts/self|self]]-[[government]]
+after the [[historical-references/reformation|Reformation]], lay the real seed of modern [[concepts/self|self]]-government
 
 and [[concepts/freedom|freedom]], or, to speak more strictly, of the modern belief in them;
 
@@ -1152,7 +1152,7 @@ movement; its whole point was that it was strictly a theological movement;
 
 its chief objection to its enemies was that they tried to exalt
 
-(as the Scotch Puritans said) "the cauld banes of [[morality]]"
+(as the Scotch Puritans said) "the cauld banes of morality"
 
 above the sustaining and comfortable doctrine of predestination.
 
@@ -1176,7 +1176,7 @@ and awful of aristocracies by the [[concepts/nature|nature]] of their own belief
 
 they were the elect.  Why should the Puritans dislike a baby being
 
-born a nobleman?  It was the whole [[philosophy]] of the Puritans
+born a nobleman?  It was the whole philosophy of the Puritans
 
 that a baby is born a celestial nobleman; and he is at birth
 
@@ -1287,7 +1287,7 @@ prima lettura e tediosi persino quando li si poteva comprendere.
 
 Pensate alla scurrile guerra di pamphlet, in cui [[historical-references/milton|Milton]]
 
-stesso s'impegnò; pagine piene di elaborata [[logic|logica]] che nessuno
+stesso s'impegnò; pagine piene di elaborata logica che nessuno
 
 riesce a seguire, e di elaborati scandali che tutti hanno dimenticato.
 
@@ -1307,7 +1307,7 @@ splendido come [[characters/apollo|Apollo]].  Il suo stile, che dev'essere sempr
 
 apparve più puro e translucido di quanto realmente fosse, in contrasto
 
-con tutta quella folle [[Mystification|mistificazione]] e oscurità.
+con tutta quella folle mistificazione e oscurità.
 
 Un [[forms/riddle|enigma]] esso stesso, quel [[motifs/time|tempo]] è pieno di enigmi minori; e uno dei
 
@@ -1315,13 +1315,13 @@ più inesplicabili tra essi coinvolge l'intera posizione di [[historical-referen
 
 Fino a che punto vi fu davvero una connessione tra il calvinismo
 
-e l'idea di libertà, o l'idea di [[government|governo]] popolare?
+e l'idea di libertà, o l'idea di governo popolare?
 
 Molto si può dire da entrambe le parti; anzi non c'è
 
 questione più perplessa di dove, alla [[historical-references/reformation|Riforma]], o proprio
 
-dopo la [[historical-references/reformation|Riforma]], giacesse il vero seme del moderno [[concepts/self|auto]]-[[government|governo]]
+dopo la [[historical-references/reformation|Riforma]], giacesse il vero seme del moderno [[concepts/self|auto]]-governo
 
 e della [[concepts/freedom|libertà]], o, per dir più propriamente, della moderna fede in essi;
 
@@ -1335,7 +1335,7 @@ morale; tutto il suo punto era che fosse rigorosamente un movimento teologico;
 
 la sua principale obiezione ai nemici era che tentassero di esaltare
 
-(come dicevano i Puritani scozzesi) "le fredde ossa della [[morality|moralità]]"
+(come dicevano i Puritani scozzesi) "le fredde ossa della moralità"
 
 al di sopra della sostenente e confortevole dottrina della predestinazione.
 
@@ -1359,7 +1359,7 @@ e tremenda delle aristocrazie per la [[concepts/nature|natura]] della loro stess
 
 erano gli eletti.  Perché i Puritani avrebbero dovuto detestare che un bimbo nascesse
 
-nobile?  Era l'intera [[philosophy|filosofia]] dei Puritani
+nobile?  Era l'intera filosofia dei Puritani
 
 che un bimbo nasce nobile celeste; ed è alla nascita
 
@@ -1440,7 +1440,7 @@ out of Parliament at the point of the pike all the members that
 
 ventured to disagree with him, his [[motifs/soul|soul]] was at that moment inflamed
 
-with an enthusiasm for free discussion or representative [[government]].
+with an enthusiasm for free discussion or representative government.
 
 It was by no means democratic; but it was highly Calvinistic.
 
@@ -1492,15 +1492,15 @@ in theory and often favors it in practice, two great facts remain
 
 to be explained or to be explained away.  First, that the Puritans
 
-did favor a deliberate or sy nodical method of church [[government]],
+did favor a deliberate or sy nodical method of church government,
 
-a [[government]] by [[debate]]; and, second, that most of the abstract
+a government by debate; and, second, that most of the abstract
 
 republicans of the seventeenth century were either Puritans or upon
 
 the Puritan side.  I am not, of course, discussing the synod as a mode
 
-of church [[government]], nor a republic as a mode of national [[government]].
+of church government, nor a republic as a mode of national government.
 
 I only say that the clamor for these things must have corresponded
 
@@ -1623,7 +1623,7 @@ dal Parlamento sulla punta della picca tutti i membri che
 
 osarono dissentire da lui, la sua [[motifs/soul|anima]] fosse in quel momento infiammata
 
-da un entusiasmo per la libera discussione o il [[government|governo]] rappresentativo.
+da un entusiasmo per la libera discussione o il governo rappresentativo.
 
 Non fu affatto democratico; ma fu altamente calvinista.
 
@@ -1675,15 +1675,15 @@ in teoria e spesso la favorisce in pratica, restano due grandi fatti
 
 da spiegare o da spiegare via.  Primo, che i Puritani
 
-favorirono davvero un metodo deliberativo o sinodale di [[government|governo]] ecclesiastico,
+favorirono davvero un metodo deliberativo o sinodale di governo ecclesiastico,
 
-un [[government|governo]] per [[debate|dibattito]]; e, secondo, che la maggior parte degli astratti
+un governo per dibattito; e, secondo, che la maggior parte degli astratti
 
 repubblicani del diciassettesimo secolo erano o Puritani o dalla
 
 parte puritana.  Non sto, naturalmente, discutendo il sinodo come modo
 
-di [[government|governo]] ecclesiastico, né la repubblica come modo di [[government|governo]] nazionale.
+di governo ecclesiastico, né la repubblica come modo di governo nazionale.
 
 Dico soltanto che il clamore per queste cose deve aver corrisposto
 
@@ -1804,7 +1804,7 @@ because its members are all on a level; indeed this is rather a mark
 
 of aristocracy; in this sense most aristocracies have been levelers.
 
-Even the [[house|House]] of Lords is called the [[house|House]] of Equals:  the [[house|House]]
+Even the House of Lords is called the House of Equals:  the House
 
 of Peers.  Thus arose a spirit which had the plainness and much
 
@@ -1844,7 +1844,7 @@ was the return of English humor and good [[concepts/nature|nature]].  So we see 
 
 in [[historical-references/milton|Milton]], in the one great Elizabethan who became a Puritan.
 
-His earlier [[Poems|poems]] are the dying cries of Merry England.  England, like his
+His earlier poems are the dying cries of Merry England.  England, like his
 
 own Samson, lost its strength when it lost its long hair.
 
@@ -1883,7 +1883,7 @@ perché i suoi membri sono tutti su un livello; anzi questo è piuttosto un segn
 
 di aristocrazia; in questo senso la maggior parte delle aristocrazie sono state livellatrici.
 
-Persino la [[house|Camera]] dei Lord è chiamata la [[house|Camera]] degli Eguali: la [[house|Camera]]
+Persino la Camera dei Lord è chiamata la Camera degli Eguali: la Camera
 
 dei Pari.  Così sorse uno spirito che aveva la schiettezza e molta
 
@@ -1923,7 +1923,7 @@ fu il ritorno dell'umorismo inglese e del buon [[concepts/nature|carattere]].  C
 
 in [[historical-references/milton|Milton]], nell'unico grande elisabettiano che divenne Puritano.
 
-Le sue [[Poems|poesie]] più antiche sono le grida morenti dell'Allegra Inghilterra.  L'Inghilterra, come il suo
+Le sue poesie più antiche sono le grida morenti dell'Allegra Inghilterra.  L'Inghilterra, come il suo
 
 stesso Sansone, perse la forza quando perse la lunga chioma.
 

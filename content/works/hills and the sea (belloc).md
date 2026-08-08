@@ -79,6 +79,6 @@ tags:
 **Themes & Concepts:** [[concepts/nature|Nature]], [[concepts/friendship|Friendship]], [[concepts/comradeship|Comradeship]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/faith|Faith]], [[concepts/wonder|Wonder]]
 **Motifs:** [[motifs/sea|Sea]], [[motifs/journey|Journey]], [[motifs/road|Road]], [[motifs/wind|Wind]], [[motifs/storm|Storm]], [[motifs/ship|Ship]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/mountains|Mountains]], [[settings/rural-england|Rural England]], [[settings/france|France]], [[settings/europe|Europe]]
-**Characters:** Hilaire Belloc
-**Archetypes:** Pilgrim
+**Characters:** [[characters/hilaire-belloc|Hilaire Belloc]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/sublime-in-nature|Sublime in Nature]]

@@ -121,7 +121,7 @@ Yon sun now posting to the main   5
 Will set, — but ‘tis to rise again; —  
 But we, when once our mortal light  
 Is set, must [[motifs/sleep|sleep]] in endless [[motifs/night|night]].  
-Then come, with whom [[Alone|alone]] I’ll live,  
+Then come, with whom alone I’ll live,  
 A thousand kisses take and give!   10  
 Another thousand! — to the store  
 Add hundreds — then a thousand more!  
@@ -322,10 +322,10 @@ By the side of a [[motifs/spring|spring]], on the breast of Helvellyn,
 Under the twigs of a young birch tree!  
 The oak that in [[motifs/summer|summer]] was sweet to hear,   5  
 And rustled its [[motifs/leaves|leaves]] in the fall of the year,  
-And whistled and roared in the [[motifs/winter|winter]] [[Alone|alone]],  
+And whistled and roared in the [[motifs/winter|winter]] alone,  
 Is gone, — and the birch in its stead is grown. —  
 The Knight’s bones are [[motifs/dust|dust]],  
-And his good [[Sword|sword]] rust; —  10  
+And his good sword rust; —  10  
 His [[motifs/soul|soul]] is with the saints, I trust.  
 ? 1817.  
 

@@ -29,12 +29,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/white-and-red|White and Red]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/pride|Pride]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/faith|Faith]], [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/terror-and-horror|Terror and Horror]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 **Historical References:** [[historical-references/christianity|Christianity]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Motifs:** [[motifs/time|Time]], [[motifs/book-reading|Book Reading]]
 **Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

@@ -28,7 +28,7 @@ By sailors young and old haply will I, a reminiscence of the land, be read,
 In full rapport at last.  
 
 Here are our thoughts, voyagers’ thoughts,  
-Here not the land, firm land, [[Alone|alone]] appears, may then by them be said,  
+Here not the land, firm land, alone appears, may then by them be said,  
 The sky o’erarches here, we feel the undulating deck beneath our feet,  
 We feel the long pulsation, ebb and flow of endless motion,  
 The tones of unseen mystery, the vague and vast suggestions of the  
@@ -38,7 +38,7 @@ The boundless vista and the horizon far and dim are all here,
 And this is ocean’s poem.  
 
 Then falter not O book, fulfil your destiny,  
-You not a reminiscence of the land [[Alone|alone]],  
+You not a reminiscence of the land alone,  
 You too as a lone bark cleaving the ether, purpos’d I know not  
 whither, yet ever full of [[concepts/faith|faith]],  
 Consort to every [[motifs/ship|ship]] that sails, sail you!  
@@ -47,7 +47,7 @@ here in every leaf;)
 [[characters/speed|Speed]] on my book! spread your white sails my little bark athwart the  
 imperious waves,  
 Chant on, sail on, bear o’er the boundless blue from me to every sea,  
-This [[Song|song]] for mariners and all their ships.  
+This song for mariners and all their ships.  
 
 
 
@@ -153,7 +153,7 @@ You express me better than I can express myself,
 You shall be more to me than my poem.  
 
 I think heroic deeds were all conceiv’d in the open air, and all  
-free [[Poems|poems]] also,  
+free poems also,  
 I think I could stop here myself and do miracles,  
 I think whatever I shall meet on the [[motifs/road|road]] I shall like, and whoever  
 beholds me shall like me,  
@@ -359,7 +359,7 @@ To take to your use out of the compact cities as you pass through,
 To carry buildings and streets with you afterward wherever you go,  
 To gather the minds of men out of their brains as you encounter  
 them, to gather the [[motifs/love|love]] out of their hearts,  
-To take your [[lovers]] on the [[motifs/road|road]] with you, for all that you leave  
+To take your lovers on the [[motifs/road|road]] with you, for all that you leave  
 them behind you,  
 To know the universe itself as a [[motifs/road|road]], as many roads, as roads for  
 traveling souls.  
@@ -380,7 +380,7 @@ They go! they go! I know that they go, but I know not where they go,
 But I know that they go toward the best--toward something great.  
 
 Whoever you are, come forth! or man or woman come forth!  
-You must not stay sleeping and dallying there in the [[house]], though  
+You must not stay sleeping and dallying there in the house, though  
 you built it, or though it has been built for you.  
 
 Out of the dark confinement! out from behind the screen!  
@@ -411,7 +411,7 @@ The goal that was named cannot be countermanded.
 Have the past struggles succeeded?  
 What has succeeded? yourself? your nation? [[concepts/nature|Nature]]?  
 Now understand me [[motifs/well|well]]--it is provided in the essence of things that  
-from any fruition of [[success]], no matter what, shall come forth  
+from any fruition of success, no matter what, shall come forth  
 something to make a greater struggle necessary.  
 
 My call is the call of battle, I nourish active rebellion,  
@@ -527,7 +527,7 @@ _Cluster: BY THE ROADSIDE_
 
 What you give me I cheerfully accept,  
 A little sustenance, a hut and [[motifs/garden|garden]], a little money, as I  
-rendezvous with my [[Poems|poems]],  
+rendezvous with my poems,  
 A traveler’s lodging and breakfast as [[motifs/journey|journey]] through the States,--  
 why should I be ashamed to own such gifts? why to advertise for them?  
 For I myself am not one who bestows nothing upon man and woman,  
@@ -550,7 +550,7 @@ _Cluster: BY THE ROADSIDE_
 Gliding o’er all, through all,
 Through [[concepts/nature|Nature]], [[motifs/time|Time]], and Space,
 As a [[motifs/ship|ship]] on the waters advancing,
-The voyage of the [[motifs/soul|soul]]--not life [[Alone|alone]],
+The voyage of the [[motifs/soul|soul]]--not life alone,
 [[motifs/death|Death]], many deaths I’ll sing.
 
 
@@ -576,14 +576,14 @@ All the lands of the earth make contributions here;)
 out with eddies and foam!
 [[motifs/city|City]] of wharves and stores--[[motifs/city|city]] of tall facades of marble and iron!
 Proud and passionate [[motifs/city|city]]--mettlesome, mad, extravagant [[motifs/city|city]]!
-[[motifs/spring|Spring]] up O [[motifs/city|city]]--not for peace [[Alone|alone]], but be indeed yourself, warlike!
+[[motifs/spring|Spring]] up O [[motifs/city|city]]--not for peace alone, but be indeed yourself, warlike!
 [[concepts/fear|Fear]] not--submit to no models but your own O [[motifs/city|city]]!
 Behold me--incarnate me as I have incarnated you!
 I have rejected nothing you offer’d me--whom you adopted I have adopted,
 Good or bad I never question you--I [[motifs/love|love]] all--I do not condemn any thing,
 I chant and celebrate all that is yours--yet peace no more,
 In peace I chanted peace, but now the drum of war is mine,
-War, red war is my [[Song|song]] through your streets, O [[motifs/city|city]]!
+War, red war is my song through your streets, O [[motifs/city|city]]!
 
 
 
@@ -681,8 +681,8 @@ So the present, utterly form’d, impell’d by the past.)
 Passage O [[motifs/soul|soul]] to India!  
 Eclaircise the myths Asiatic, the primitive fables.  
 
-Not you [[Alone|alone]] proud truths of the world,  
-Nor you [[Alone|alone]] ye facts of modern science,  
+Not you alone proud truths of the world,  
+Nor you alone ye facts of modern science,  
 But myths and fables of eld, Asia’s, Africa’s fables,  
 The far-darting beams of the spirit, the unloos’d [[motifs/dreams|dreams]],  
 The deep diving bibles and legends,  
@@ -796,7 +796,7 @@ After the great captains and engineers have accomplish’d their work,
 After the noble inventors, after the scientists, the chemist, the  
 geologist, ethnologist,  
 Finally shall come the poet worthy that name,  
-The true son of God shall come singing his [[songs]].  
+The true son of God shall come singing his songs.  
 
 Then not your deeds only O voyagers, O scientists and inventors,  
 shall be justified,  
@@ -874,7 +874,7 @@ And fills the earth with use and [[concepts/beauty|beauty]].)
 
 7  
 Passage indeed O [[motifs/soul|soul]] to primal thought,  
-Not lands and seas [[Alone|alone]], thy own clear freshness,  
+Not lands and seas alone, thy own clear freshness,  
 The young maturity of brood and bloom,  
 To realms of budding bibles.  
 
@@ -891,7 +891,7 @@ We too take [[motifs/ship|ship]] O [[motifs/soul|soul]],
 Joyous we too launch out on trackless seas,  
 Fearless for unknown shores on waves of ecstasy to sail,  
 Amid the wafting winds, (thou pressing me to thee, I thee to me, O [[motifs/soul|soul]],)  
-Caroling free, singing our [[Song|song]] of God,  
+Caroling free, singing our song of God,  
 Chanting our chant of pleasant exploration.  
 
 With laugh and many a kiss,  
@@ -1105,7 +1105,7 @@ Whom, in a little boat, putting off and rowing, I hailing you offer.
 <span class="atom-split" data-atom="288_joy_shipmate_joy" data-title="Joy, Shipmate, Joy!" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_  
+_Cluster: SONGS OF PARTING_  
 
 
 Joy, shipmate, Joy!  
@@ -1126,7 +1126,7 @@ Joy, shipmate, joy.
 <span class="atom-split" data-atom="289_the_untold_want" data-title="The Untold Want" data-chapter="" data-kind="intro" data-tags="cluster/journey,cluster/ship"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_
+_Cluster: SONGS OF PARTING_
 
 
 The untold want by life and land ne’er granted,
@@ -1142,7 +1142,7 @@ Now voyager sail thou forth to seek and find.
 <span class="atom-split" data-atom="292_now_finale_to_the_shore" data-title="Now Finale to the Shore" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_  
+_Cluster: SONGS OF PARTING_  
 
 
 Now finale to the shore,  

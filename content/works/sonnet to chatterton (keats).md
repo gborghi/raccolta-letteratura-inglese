@@ -27,7 +27,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/death|Death]], [[motifs/stars|Stars]], [[motifs/flowers|Flowers]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]]
 **Forms & Genres:** [[forms/elegy|Elegy]], [[forms/sonnet|Sonnet]]

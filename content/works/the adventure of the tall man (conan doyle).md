@@ -33,5 +33,5 @@ tags:
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/guilt|Guilt]]
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Characters:** Sherlock Holmes, Doctor Watson
-**Archetypes:** Detective, Villain
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]

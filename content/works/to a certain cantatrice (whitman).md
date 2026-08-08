@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Rebel
+**Archetypes:** [[archetypes/rebel|Rebel]]
 **Motifs:** [[motifs/music-and-song|Music and Song]]
 **Themes & Concepts:** [[concepts/democracy|Democracy]], [[concepts/artist-and-society|Artist and Society]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

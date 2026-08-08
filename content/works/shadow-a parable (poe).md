@@ -36,7 +36,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/dance-of-death|Dance of Death]]
-**Archetypes:** Ghost
+**Archetypes:** [[archetypes/ghost|Ghost]]
 **Motifs:** [[motifs/death|Death]], [[motifs/supernatural|Supernatural]], [[motifs/ghosts|Ghosts]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/mirror|Mirror]], [[motifs/stars|Stars]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/parable|Parable]], [[forms/allegory|Allegory]]

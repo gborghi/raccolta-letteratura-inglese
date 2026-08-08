@@ -19,8 +19,8 @@ tags:
 - [[works/man-orthodox-(chesterton)|Man Orthodox (Chesterton)]]
 - [[works/shaw-(chesterton)|Shaw (Chesterton)]]
 - [[works/everlasting-man-(chesterton)|everlasting man (Chesterton)]]
-- 804. No Notice gave She, but a Change — (Dickinson)
-- 829. Ample make this Bed — (Dickinson)
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0804_no_notice_gave_she_but_a_change|804. No Notice gave She, but a Change — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0829_ample_make_this_bed|829. Ample make this Bed — (Dickinson)]]
 
 </div>
 

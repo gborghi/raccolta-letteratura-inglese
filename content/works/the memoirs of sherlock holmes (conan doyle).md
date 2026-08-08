@@ -54,7 +54,7 @@ tags:
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/friendship|Friendship]], [[concepts/deception|Deception]]
 **Motifs:** [[motifs/city|City]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/journey|Journey]]
 **Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
-**Characters:** Sherlock Holmes, Doctor Watson, Professor Moriarty
-**Archetypes:** Detective, Villain
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/professor-moriarty|Professor Moriarty]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
 
 **Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

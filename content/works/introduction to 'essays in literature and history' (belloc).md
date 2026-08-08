@@ -52,4 +52,4 @@ tags:
 **Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/letters-and-writing|Letters and Writing]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/reformation|Reformation]], [[historical-references/oxford-movement|Oxford Movement]]
 **Settings:** [[settings/oxford|Oxford]]
-**Archetypes:** The Writer
+**Archetypes:** [[archetypes/the-writer|The Writer]]

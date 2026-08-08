@@ -77,7 +77,7 @@ E i bucaneve contorti sotto i piedi
 E le malvarose che mirano troppo in alto  
 Dal rosso al grigio e rovinano a terra  
 Rose tardive colme di [[motifs/snow|neve]] precoce?  
-Il tuono rotolato dalle [[rolling|rotanti]] [[motifs/stars|stelle]]  
+Il tuono rotolato dalle rotanti [[motifs/stars|stelle]]  
 Simula carri trionfali  
 Schierati in guerre costellate  
 Lo Scorpione lotta contro il Sole  
@@ -364,7 +364,7 @@ And snowdrops writhing under feet
 And hollyhocks that aim too high  
 Red into grey and tumble down  
 Late roses filled with early [[motifs/snow|snow]]?  
-Thunder rolled by the [[rolling]] [[motifs/stars|stars]]  
+Thunder rolled by the rolling [[motifs/stars|stars]]  
 Simulates triumphal cars  
 Deployed in constellated wars  
 Scorpion fights against the Sun  
@@ -419,7 +419,7 @@ E i bucaneve contorti sotto i piedi
 E le malvarose che mirano troppo in alto  
 Dal rosso al grigio e rovinano a terra  
 Rose tardive colme di [[motifs/snow|neve]] precoce?  
-Il tuono rotolato dalle [[rolling|rotanti]] [[motifs/stars|stelle]]  
+Il tuono rotolato dalle rotanti [[motifs/stars|stelle]]  
 Simula carri trionfali  
 Schierati in guerre costellate  
 Lo Scorpione lotta contro il Sole  

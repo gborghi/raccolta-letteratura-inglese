@@ -57,7 +57,7 @@ I. INTRODUCTION                   vii
 
 II. SKETCHES BY BOZ                  1
 
-III. [[Pickwick|PICKWICK]] PAPERS                 13
+III. PICKWICK PAPERS                 13
 
 IV. [[characters/nicholas-nickleby|NICHOLAS NICKLEBY]]               26
 
@@ -81,7 +81,7 @@ XIII. [[characters/david-copperfield|DAVID COPPERFIELD]]              129
 
 XIV. CHRISTMAS STORIES              140
 
-XV. BLEAK [[house|HOUSE]]                    148
+XV. BLEAK HOUSE                    148
 
 XVI. [[archetypes/child|CHILD]]'S [[concepts/history|HISTORY]] OF ENGLAND     160
 
@@ -258,7 +258,7 @@ I. INTRODUZIONE                   vii
 
 II. SCHIZZI DI BOZ                  1
 
-III. IL CIRCOLO [[Pickwick|PICKWICK]]                 13
+III. IL CIRCOLO PICKWICK                 13
 
 IV. [[characters/nicholas-nickleby|NICHOLAS NICKLEBY]]               26
 
@@ -282,7 +282,7 @@ XIII. [[characters/david-copperfield|DAVID COPPERFIELD]]              129
 
 XIV. RACCONTI DI NATALE              140
 
-XV. [[house|CASA]] DESOLATA                    148
+XV. CASA DESOLATA                    148
 
 XVI. [[concepts/history|STORIA]] D'INGHILTERRA PER [[archetypes/child|BAMBINI]]     160
 
@@ -919,7 +919,7 @@ modern crises of economics, and of _The [[archetypes/child|Child]]'s [[concepts/
 
 the light of the most matured authority of [[concepts/history|history]]. In short, these
 
-criticisms are an intrinsically [[ephemeral]] comment from one generation
+criticisms are an intrinsically ephemeral comment from one generation
 
 upon work that will delight many more. Dickens was a very great man, and
 
@@ -1088,7 +1088,7 @@ moderne crisi dell'economia, e de _La [[concepts/history|Storia]] d'Inghilterra 
 
 luce della più matura autorevolezza della [[concepts/history|storia]]. In breve, queste
 
-critiche sono un commento intrinsecamente [[ephemeral|effimero]] di una generazione
+critiche sono un commento intrinsecamente effimero di una generazione
 
 su un'opera che ne delizierà molte altre. Dickens fu un uomo grandissimo, e
 
@@ -1291,7 +1291,7 @@ sentiment as this that made Mr. George Gissing, that able writer, come
 
 near to contending that _Little Dorrit_ is Dickens's best book. It was
 
-the principle of his [[philosophy]] to maintain (I know not why) that a man
+the principle of his philosophy to maintain (I know not why) that a man
 
 was more likely to perceive the [[concepts/truth|truth]] when in low spirits than when in
 
@@ -1303,7 +1303,7 @@ The three articles on [[characters/sunday|Sunday]] of which I speak are almost t
 
 expression of an articulate sort in English literature of the ancient
 
-and existing [[morality]] of the English people. It is always asserted that
+and existing morality of the English people. It is always asserted that
 
 [[historical-references/puritanism|Puritanism]] came in with the seventeenth century and thoroughly soaked
 
@@ -1468,7 +1468,7 @@ pressappoco di questa specie a indurre il signor George Gissing, quell'abile scr
 
 a sostenere che _Little Dorrit_ sia il miglior libro di Dickens. Era
 
-il principio della sua [[philosophy|filosofia]] affermare (non so perché) che un uomo
+il principio della sua filosofia affermare (non so perché) che un uomo
 
 fosse più incline a percepire la [[concepts/truth|verità]] quando era di umore basso che quando era di
 
@@ -1480,7 +1480,7 @@ I tre articoli sulla [[characters/sunday|domenica]] di cui parlo sono quasi l'ul
 
 espressione, in forma articolata, che si abbia nella letteratura inglese dell'antica
 
-ed esistente [[morality|moralità]] del popolo inglese. Si asserisce sempre che
+ed esistente moralità del popolo inglese. Si asserisce sempre che
 
 il [[historical-references/puritanism|puritanesimo]] entrò con il diciassettesimo secolo e imbevve e assorbì
 
@@ -1511,7 +1511,7 @@ not the Puritanic tradition; Dryden, Johnson, Wilkes, Fox, Nelson, were
 
 hardly Puritans. And third, that the real rise of a new, cold, and
 
-illiberal [[morality]] in these matters seems to me to have occurred in the
+illiberal morality in these matters seems to me to have occurred in the
 
 [[motifs/time|time]] of [[characters/queen|Queen]] Victoria, and not of [[characters/queen-elizabeth|Queen Elizabeth]]. All things
 
@@ -1579,7 +1579,7 @@ ruled like slaves, only they are not fed like slaves. The children are
 
 forcibly provided with a school; only they are not provided with a
 
-[[house]]. Officials give the most detailed domestic directions about the
+house. Officials give the most detailed domestic directions about the
 
 fireguard; only they do not give the fireguard. Officials bring round
 
@@ -1625,7 +1625,7 @@ far from reproaching him with not understanding a gentleman, the critic
 
 will be astonished at the accuracy with which he has really observed the
 
-worth and the weakness of the [[aristocrat]]. He is quite right when he
+worth and the weakness of the aristocrat. He is quite right when he
 
 suggests that such a man has intelligence enough to despise the
 
@@ -1688,7 +1688,7 @@ Non la tradizione puritana: Dryden, Johnson, Wilkes, Fox, Nelson…
 
 A malapena Puritani… E in terzo luogo, che l’ascesa vera e propria di un nuovo tipo di società, fredda e…
 
-Una morale [[morality|illiberale]] in queste questioni, a mio parere, è emersa nel.
+Una morale illiberale in queste questioni, a mio parere, è emersa nel.
 
 Durante l’epoca di [[characters/queen|Regina]] Vittoria, e non di [[characters/queen-elizabeth|Regina]] Elisabetta. Tutto ciò.
 
@@ -1756,7 +1756,7 @@ Governati come schiavi… ma non nutriti come schiavi. I bambini…
 
 Forzatamente forniti di una scuola… ma non anche di altro.
 
-[[house|casa]]. Le autorità forniscono le istruzioni più dettagliate riguardo all’uso domestico di.
+casa. Le autorità forniscono le istruzioni più dettagliate riguardo all’uso domestico di.
 
 Titolo:  
 “Guardie antincendio… ma solo loro non ricevono la protezione delle guardie antincendio. Gli ufficiali vanno in giro…”
@@ -1805,7 +1805,7 @@ Non lo rimprovera affatto per non riconoscere i tratti tipici di un gentiluomo, 
 
 Sarà sorpreso dall’accuratezza con cui ha effettivamente osservato
 
-Il valore e la debolezza dell’[[aristocrat|aristocratico]]. Ha perfettamente ragione quando.
+Il valore e la debolezza dell’aristocratico. Ha perfettamente ragione quando.
 
 Titolo:  
 Suggerisce che un uomo del genere abbia abbastanza intelligenza da disprezzare…
@@ -1864,7 +1864,7 @@ Colossale… Le loro caratteristiche strane e i loro punti deboli spiccano in mo
 
 of gigantic domesticity, like the hairs and freckles of a
 
-Brobdingnagian. We feel the sombre Murdstone coming upon the [[house]] like
+Brobdingnagian. We feel the sombre Murdstone coming upon the house like
 
 a tall [[motifs/storm|storm]] striding through the sky. We watch every pucker of
 
@@ -1880,13 +1880,13 @@ and are not perhaps so completely satisfactory.
 
 CHRISTMAS BOOKS
 
-And there is doubtless a certain poetic [[unity]] and irony in gathering
+And there is doubtless a certain poetic unity and irony in gathering
 
 together three or four of the crudest and most cocksure of the modern
 
 theorists, with their shrill voices and metallic virtues, under the
 
-fulness and the sonorous [[Sanity|sanity]] of Christian [[motifs/bells|bells]]. But the figures
+fulness and the sonorous sanity of Christian [[motifs/bells|bells]]. But the figures
 
 satirised in _The Chimes_ [[motifs/cross|cross]] each other's path and spoil each other
 
@@ -1896,9 +1896,9 @@ impudent and hard-hearted utilitarianism which arranges the people only
 
 in rows of men or even in rows of figures. It is a flaming denunciation
 
-of that strange mathematical [[morality]] which was twisted often unfairly
+of that strange mathematical morality which was twisted often unfairly
 
-out of Bentham and Mill: a [[morality]] by which each citizen must regard
+out of Bentham and Mill: a morality by which each citizen must regard
 
 himself as a fraction, and a very vulgar fraction. Though the particular
 
@@ -1926,7 +1926,7 @@ looking in at the parlours. He had that solid, indescribable delight in
 
 the mere solidity and neatness of funny little humanity in its funny
 
-little houses, like doll's houses. To him every [[house]] was a box, a
+little houses, like doll's houses. To him every house was a box, a
 
 Christmas box, in which a dancing human doll was tied up in bricks and
 
@@ -1988,9 +1988,9 @@ them the stagey and piratical pretentiousness of urchins. The kings
 
 called Napoleon's [[characters/pistol|pistol]] a toy [[characters/pistol|pistol]] even while it was holding up their
 
-coach and mastering their money or their lives; they called his [[Sword|sword]] a
+coach and mastering their money or their lives; they called his sword a
 
-stage [[Sword|sword]] even while they ran away from it. Something of the same
+stage sword even while they ran away from it. Something of the same
 
 senile inconsistency can be found in an English and American habit
 
@@ -2012,7 +2012,7 @@ was a sort of answer to everything; and the young men were mocked as
 
 American republics to-day is symbolical and even menacing of many
 
-things; and it may be that the [[Romance|romance]] of riot will not be so much
+things; and it may be that the romance of riot will not be so much
 
 extinguished as extended; and nearer [[motifs/home|home]] we may have boys being boys
 
@@ -2039,7 +2039,7 @@ the Tree of Life than of the Tree of Knowledge--even of the knowledge of
 
 di gigantesca domesticità, come i peli e le lentiggini di un
 
-Brobdingnaghiano. Sentiamo il tetro Murdstone abbattersi sulla [[house|casa]] come
+Brobdingnaghiano. Sentiamo il tetro Murdstone abbattersi sulla casa come
 
 un'alta [[motifs/storm|tempesta]] che incede a grandi passi per il cielo. Osserviamo ogni grinza del
 
@@ -2055,13 +2055,13 @@ e non risultino forse così pienamente soddisfacenti.
 
 CHRISTMAS BOOKS
 
-E vi è senza dubbio una certa [[unity|unità]] poetica, e una certa ironia, nel radunare
+E vi è senza dubbio una certa unità poetica, e una certa ironia, nel radunare
 
 insieme tre o quattro dei più rozzi e più presuntuosi tra i moderni
 
 teorici, con le loro voci stridule e le loro virtù metalliche, sotto la
 
-pienezza e la sonora [[Sanity|sanità]] delle [[motifs/bells|campane]] cristiane. Ma le figure
+pienezza e la sonora sanità delle [[motifs/bells|campane]] cristiane. Ma le figure
 
 satireggiate in _The Chimes_ si [[motifs/cross|incrociano]] a vicenda il cammino e in qualche misura si guastano l'una con l'altra.
 
@@ -2071,9 +2071,9 @@ impudente e spietato utilitarismo che dispone la gente soltanto
 
 in file di uomini, o addirittura in file di cifre. È una fiammeggiante denuncia
 
-di quella strana [[morality|moralità]] matematica che fu spesso ingiustamente distorta
+di quella strana moralità matematica che fu spesso ingiustamente distorta
 
-traendola da Bentham e Mill: una [[morality|moralità]] per cui ogni cittadino deve considerare
+traendola da Bentham e Mill: una moralità per cui ogni cittadino deve considerare
 
 sé stesso una frazione, e per giunta una frazione assai volgare. Benché la particolare
 
@@ -2101,7 +2101,7 @@ a sbirciare dentro i salotti. Aveva quel solido, indescrivibile diletto per
 
 la mera solidità e ordinatezza della buffa piccola umanità nelle sue buffe
 
-piccole case, simili a case di bambola. Per lui ogni [[house|casa]] era una scatola, una
+piccole case, simili a case di bambola. Per lui ogni casa era una scatola, una
 
 scatola natalizia, in cui una danzante bambola umana era avvolta tra mattoni e
 
@@ -2163,9 +2163,9 @@ loro la teatrale e piratesca boria dei monelli. I re
 
 definivano la [[characters/pistol|pistola]] di Napoleone una [[characters/pistol|pistola]] giocattolo perfino mentre teneva sotto tiro la loro
 
-carrozza e s'impadroniva del loro denaro o delle loro vite; definivano la sua [[Sword|spada]] una
+carrozza e s'impadroniva del loro denaro o delle loro vite; definivano la sua spada una
 
-[[Sword|spada]] di scena perfino mentre ne fuggivano. Qualcosa della medesima
+spada di scena perfino mentre ne fuggivano. Qualcosa della medesima
 
 senile incoerenza si ritrova in un'abitudine inglese e americana
 
@@ -2187,7 +2187,7 @@ garzoni molto dopo che erano ormai padroni. La sorte ascendente delle repubblich
 
 sudamericane, oggi, è simbolica e persino minacciosa di molte
 
-cose; e può darsi che il [[Romance|romanticismo]] della sommossa non venga tanto
+cose; e può darsi che il romanticismo della sommossa non venga tanto
 
 spento quanto esteso; e più vicino a [[motifs/home|casa]] potremo avere ragazzi che tornano a fare i ragazzi
 
@@ -2914,7 +2914,7 @@ belongs still) to all the official institutions of England. But Dickens
 
 was doomed to see the very blackest aspect of nineteenth-century
 
-England, something far blacker than any mere bad [[government]]. He went not
+England, something far blacker than any mere bad government. He went not
 
 to a [[motifs/prison|prison]] but to a factory. In the musty traditionalism of the
 
@@ -3064,7 +3064,7 @@ fun. Doubtless, for instance, a million comic writers of that epoch had
 
 made game of the dark, romantic young man who pretended to abysses of
 
-[[philosophy]] and [[concepts/despair|despair]]. And it is not easy to say exactly why we feel
+philosophy and [[concepts/despair|despair]]. And it is not easy to say exactly why we feel
 
 that the few metaphysical remarks of Mr. [[characters/horatio|Horatio]] Sparkins are in some
 
@@ -3085,7 +3085,7 @@ appartiene ancora) a tutte le istituzioni ufficiali dell'Inghilterra. Ma Dickens
 
 era destinato a vedere l'aspetto più tenebroso dell'Inghilterra
 
-dell'Ottocento, qualcosa di ben più tenebroso di un semplice cattivo [[government|governo]]. Non finì
+dell'Ottocento, qualcosa di ben più tenebroso di un semplice cattivo governo. Non finì
 
 in una [[motifs/prison|prigione]], ma in una fabbrica. Nel tradizionalismo ammuffito della
 
@@ -3235,7 +3235,7 @@ divertimento. Senza dubbio, per esempio, un milione di scrittori comici di quell
 
 messo in burla il giovane cupo e romantico che pretendeva abissi di
 
-[[philosophy|filosofia]] e di [[concepts/despair|disperazione]]. E non è facile dire esattamente perché sentiamo
+filosofia e di [[concepts/despair|disperazione]]. E non è facile dire esattamente perché sentiamo
 
 che le poche osservazioni metafisiche del signor [[characters/horatio|Horatio]] Sparkins siano in qualche
 
@@ -3330,7 +3330,7 @@ the phrase goes) by the fact that he seems to be echoing a poor kind of
 
 claptrap in his choice of incidents and images. Partly, of course, he
 
-suffers from the very fact of his [[success]]; his play with these topics
+suffers from the very fact of his success; his play with these topics
 
 was so good that every one else has played with them increasingly since;
 
@@ -3358,11 +3358,11 @@ established topics. There is no clearer sign of the absence of
 
 originality among modern poets than their disposition to find new
 
-themes. Really original poets write [[Poems|poems]] about the [[motifs/spring|spring]]. They are
+themes. Really original poets write poems about the [[motifs/spring|spring]]. They are
 
 always fresh, just as the [[motifs/spring|spring]] is always fresh. Men wholly without
 
-originality write [[Poems|poems]] about torture, or new religions, of some
+originality write poems about torture, or new religions, of some
 
 perversion of obscenity, hoping that the mere sting of the subject may
 
@@ -3406,7 +3406,7 @@ that the first appeal must be made upon the threshold of Dickens
 
 criticism. Let them really read the thing and really see whether the
 
-[[Humour|humour]] is the gross and half-witted jeering which they imagine it to be.
+humour is the gross and half-witted jeering which they imagine it to be.
 
 It is exactly here that the whole genius of Dickens is concerned. His
 
@@ -3503,7 +3503,7 @@ suol dirsi) dal fatto che egli sembra far eco a una scadente specie di
 
 luogo comune nella scelta degli episodi e delle immagini. In parte, s'intende, egli
 
-patisce proprio a causa del suo [[success|successo]]; il suo gioco con questi temi
+patisce proprio a causa del suo successo; il suo gioco con questi temi
 
 fu così riuscito che da allora tutti gli altri vi hanno sempre più giocato;
 
@@ -3531,11 +3531,11 @@ consacrati. Non v'è segno più chiaro dell'assenza di
 
 originalità nei poeti moderni della loro inclinazione a cercare temi nuovi.
 
-I poeti davvero originali scrivono [[Poems|poesie]] sulla [[motifs/spring|primavera]]. Sono
+I poeti davvero originali scrivono poesie sulla [[motifs/spring|primavera]]. Sono
 
 sempre freschi, come sempre fresca è la [[motifs/spring|primavera]]. Gli uomini del tutto privi
 
-di originalità scrivono [[Poems|poesie]] sulla tortura, o su nuove religioni, o su qualche
+di originalità scrivono poesie sulla tortura, o su nuove religioni, o su qualche
 
 perversione dell'osceno, sperando che il solo pungiglione del soggetto possa
 
@@ -3579,7 +3579,7 @@ che si deve rivolgere il primo appello sulla soglia della critica
 
 dickensiana. Che leggano davvero la cosa e vedano davvero se
 
-lo [[Humour|humour]] sia lo scherno greve e ottuso che essi immaginano.
+lo humour sia lo scherno greve e ottuso che essi immaginano.
 
 È esattamente qui che è in gioco tutto il genio di Dickens. I suoi
 
@@ -3612,7 +3612,7 @@ are low farces. Rather we must see that they are not low farces; and see
 
 that nobody but Dickens could have prevented them from being so.
 
-[[Pickwick|PICKWICK]] PAPERS
+PICKWICK PAPERS
 
 There are those who deny with enthusiasm the existence of a God and are
 
@@ -3652,7 +3652,7 @@ singular arrangement in the mystical account of the Creation by which
 
 light is created first and all the luminous bodies afterwards. One could
 
-not imagine a process more open to the elephantine [[logic]] of the
+not imagine a process more open to the elephantine logic of the
 
 [[historical-references/bible|Bible]]-smasher than this: that the sun should be created after the
 
@@ -3682,7 +3682,7 @@ existed when there was no need of judges, and [[concepts/mercy|mercy]] existed b
 
 man was oppressed.
 
-However this may be in the matter of religion and [[philosophy]], it can be
+However this may be in the matter of religion and philosophy, it can be
 
 said with little exaggeration that this [[concepts/truth|truth]] is the very key of
 
@@ -3692,7 +3692,7 @@ exactly this: that a thing constructed can only be loved after it is
 
 constructed; but a thing created is loved before it exists, as the
 
-mother can [[motifs/love|love]] the [[unborn]] [[archetypes/child|child]]. In creative art the essence of a book
+mother can [[motifs/love|love]] the unborn [[archetypes/child|child]]. In creative art the essence of a book
 
 exists before the book or before even the details or main features of
 
@@ -3706,13 +3706,13 @@ thought of anything sad. He knows the atmosphere before he knows
 
 anything. There is a low priggish maxim sometimes uttered by men so
 
-frivolous as to take [[Humour|humour]] seriously--a maxim that a man should not
+frivolous as to take humour seriously--a maxim that a man should not
 
 laugh at his own jokes. But the great [[archetypes/artist|artist]] not only laughs at his own
 
 jokes; he laughs at his own jokes before he has made them. In the case
 
-of a man really humorous we can see [[Humour|humour]] in his eye before he has
+of a man really humorous we can see humour in his eye before he has
 
 thought of any amusing words at all. So the creative writer laughs at
 
@@ -3724,7 +3724,7 @@ to him, they come generally in a manner very fragmentary and inverted,
 
 mostly in irrational glimpses of crisis or consummation. The last page
 
-comes before the first; before his [[Romance|romance]] has begun, he knows that it
+comes before the first; before his romance has begun, he knows that it
 
 has ended [[motifs/well|well]]. He sees the wedding before the wooing; he sees the [[motifs/death|death]]
 
@@ -3781,7 +3781,7 @@ siano basse farse. Dobbiamo piuttosto vedere che non sono basse farse; e vedere
 
 che nessuno tranne Dickens avrebbe potuto impedire che lo fossero.
 
-[[Pickwick|PICKWICK]] PAPERS
+PICKWICK PAPERS
 
 Vi sono quelli che negano con entusiasmo l'esistenza di un Dio e sono
 
@@ -3821,7 +3821,7 @@ singolare disposizione nel mistico racconto della Creazione per cui
 
 la luce è creata per prima e tutti i corpi luminosi in seguito. Non si
 
-potrebbe immaginare un processo più esposto all'elefantesca [[logic|logica]] del
+potrebbe immaginare un processo più esposto all'elefantesca logica del
 
 demolitore della [[historical-references/bible|Bibbia]] di questo: che il sole sia creato dopo la
 
@@ -3851,7 +3851,7 @@ esisteva quando non v'era bisogno di giudici, e la [[concepts/mercy|Misericordia
 
 uomo fosse oppresso.
 
-Comunque stiano le cose in materia di religione e di [[philosophy|filosofia]], si può
+Comunque stiano le cose in materia di religione e di filosofia, si può
 
 dire con poca esagerazione che questa [[concepts/truth|verità]] è la vera chiave della
 
@@ -3861,7 +3861,7 @@ esattamente in questo: che una cosa costruita può essere amata solo dopo essere
 
 costruita; ma una cosa creata è amata prima di esistere, come la
 
-madre può [[motifs/love|amare]] il [[archetypes/child|figlio]] [[unborn|non ancora nato]]. Nell'arte creativa l'essenza di un libro
+madre può [[motifs/love|amare]] il [[archetypes/child|figlio]] non ancora nato. Nell'arte creativa l'essenza di un libro
 
 esiste prima del libro o perfino prima dei dettagli o dei tratti principali del
 
@@ -3875,13 +3875,13 @@ pensato ad alcunché di triste. Conosce l'atmosfera prima di conoscere
 
 qualsiasi cosa. V'è una gretta e saccente massima talora pronunciata da uomini tanto
 
-frivoli da prendere sul serio l'[[Humour|umorismo]]--la massima che un uomo non dovrebbe
+frivoli da prendere sul serio l'umorismo--la massima che un uomo non dovrebbe
 
 ridere delle proprie battute. Ma il grande [[archetypes/artist|artista]] non solo ride delle proprie
 
 battute; ride delle proprie battute prima d'averle fatte. Nel caso
 
-di un uomo davvero faceto possiamo scorgere l'[[Humour|umorismo]] nei suoi occhi prima ch'egli abbia
+di un uomo davvero faceto possiamo scorgere l'umorismo nei suoi occhi prima ch'egli abbia
 
 pensato ad alcuna parola spiritosa. Così lo scrittore creativo ride della
 
@@ -3893,7 +3893,7 @@ essi vengono in genere in modo assai frammentario e capovolto,
 
 per lo più in irrazionali barlumi di crisi o di compimento. L'ultima pagina
 
-viene prima della prima; prima che il suo [[Romance|romanzo]] sia cominciato, egli sa che è
+viene prima della prima; prima che il suo romanzo sia cominciato, egli sa che è
 
 finito [[motifs/well|bene]]. Vede le nozze prima del corteggiamento; vede la [[motifs/death|morte]]
 
@@ -4294,7 +4294,7 @@ position--that of a gentleman surprised in a secret [[motifs/love|love]] affair-
 
 behaves in a manner perfectly manly, serious, and honourable. Mr.
 
-Tupman [[Alone|alone]] has no serious emotional development, and for this reason
+Tupman alone has no serious emotional development, and for this reason
 
 it is, presumably, that we hear less and less of Mr. Tupman towards the
 
@@ -4304,7 +4304,7 @@ mood--a mood expressed indeed by extravagant incidents, but none the
 
 less serious for that; and into this Winkle and Snodgrass, in the
 
-character of romantic [[lovers]], could be made to fit. Mr. Tupman had to be
+character of romantic lovers, could be made to fit. Mr. Tupman had to be
 
 left out of the [[motifs/love|love]] affairs; therefore Mr. Tupman is left out of the
 
@@ -4354,9 +4354,9 @@ wonderful achievement of Dickens: but it is no great falsification of
 
 the incessant stream of sane nonsense as it really exists among the
 
-English poor. The English poor live in an atmosphere of [[Humour|humour]]; they
+English poor. The English poor live in an atmosphere of humour; they
 
-think in [[Humour|humour]]. Irony is the very air that they breathe. A joke comes
+think in humour. Irony is the very air that they breathe. A joke comes
 
 suddenly from [[motifs/time|time]] to [[motifs/time|time]] into the head of a politician or a gentleman,
 
@@ -4428,11 +4428,11 @@ profound human sentiment (the sentiment that has made saints and the
 
 sanctity of children) when he made the gentler and less-travelled
 
-type--the type which moderates and controls. Knowledge and [[innocence]] are
+type--the type which moderates and controls. Knowledge and innocence are
 
 both excellent things, and they are both very funny. But it is right
 
-that knowledge should be the servant and [[innocence]] the master.
+that knowledge should be the servant and innocence the master.
 
 The sincerity of this study of [[characters/sam-weller|Sam Weller]] has produced one particular
 
@@ -4446,7 +4446,7 @@ of the book was fun, felt that he ought to keep out of it any great
 
 experiments in sadness and keep within limits those that he put in. He
 
-used this restraint in order not to spoil the [[Humour|humour]]; but (if he had
+used this restraint in order not to spoil the humour; but (if he had
 
 known himself better) he might [[motifs/well|well]] have used it in order not to spoil
 
@@ -4463,7 +4463,7 @@ ridicola—quella d'un gentiluomo sorpreso in una segreta storia d'[[motifs/love
 
 si comporta in maniera perfettamente virile, seria e onorevole. Il signor
 
-Tupman [[Alone|solo]] non ha alcuno sviluppo emotivo serio, e per questa ragione
+Tupman solo non ha alcuno sviluppo emotivo serio, e per questa ragione
 
 sentiamo parlare, presumibilmente, sempre meno del signor Tupman verso la
 
@@ -4473,7 +4473,7 @@ fine del libro. Dickens, a questo [[motifs/time|punto]], è ormai entrato in uno
 
 meno serio; e in questo quadro Winkle e Snodgrass, nella
 
-veste d'[[lovers|innamorati]] romantici, potevano essere fatti rientrare. Il signor Tupman doveva
+veste d'innamorati romantici, potevano essere fatti rientrare. Il signor Tupman doveva
 
 esser lasciato fuori dalle storie d'[[motifs/love|amore]]; perciò il signor Tupman resta fuori dal
 
@@ -4523,9 +4523,9 @@ meravigliosa conquista di Dickens: ma non è una grande falsificazione
 
 dell'incessante fiotto di assennata insensatezza quale esiste realmente tra i
 
-poveri inglesi. I poveri inglesi vivono in un'atmosfera di [[Humour|umorismo]]; essi
+poveri inglesi. I poveri inglesi vivono in un'atmosfera di umorismo; essi
 
-pensano in [[Humour|umorismo]]. L'ironia è l'aria stessa che respirano. Uno scherzo affiora
+pensano in umorismo. L'ironia è l'aria stessa che respirano. Uno scherzo affiora
 
 d'improvviso, di [[motifs/time|tanto]] in [[motifs/time|tanto]], nella testa d'un politico o d'un gentiluomo,
 
@@ -4597,11 +4597,11 @@ profondo sentimento umano (il sentimento che ha fatto i santi e la
 
 santità dei fanciulli) quando fece del tipo più mite e meno smaliziato—
 
-il tipo che modera e controlla. La conoscenza e l'[[innocence|innocenza]] sono
+il tipo che modera e controlla. La conoscenza e l'innocenza sono
 
 entrambe cose eccellenti, ed entrambe assai buffe. Ma è giusto
 
-che la conoscenza sia la serva e l'[[innocence|innocenza]] la padrona.
+che la conoscenza sia la serva e l'innocenza la padrona.
 
 La sincerità di questo studio di [[characters/sam-weller|Sam Weller]] ha prodotto un particolare
 
@@ -4615,7 +4615,7 @@ del libro era faceto, sentì di dover tenerne fuori ogni grande
 
 esperimento di tristezza e mantenere entro certi limiti quelli che vi mise. Egli
 
-usò questa misura per non guastare l'[[Humour|umorismo]]; ma (se avesse
+usò questa misura per non guastare l'umorismo; ma (se avesse
 
 conosciuto meglio se stesso) avrebbe [[motifs/well|ben]] potuto usarla per non guastare
 
@@ -4718,9 +4718,9 @@ with a good joke are direct and even divine relations. We speak of
 
 have seen it, it is futile to argue with us; and we have seen the vision
 
-of _Pickwick_. _Pickwick_ may be the top of Dickens's [[Humour|humour]]; I think
+of _Pickwick_. _Pickwick_ may be the top of Dickens's humour; I think
 
-upon the whole it is. But the broad [[Humour|humour]] of _Pickwick_ he broadened
+upon the whole it is. But the broad humour of _Pickwick_ he broadened
 
 over many wonderful kingdoms; the narrow pathos of _Pickwick_ he never
 
@@ -4734,7 +4734,7 @@ religion, to which it is closely allied. [[works/romance-(poe)|Romance]] resembl
 
 especially in this, that it is not only a simplification but a
 
-shortening of existence. Both [[Romance|romance]] and religion see everything as it
+shortening of existence. Both romance and religion see everything as it
 
 were foreshortened; they see everything in an abrupt and fantastic
 
@@ -4784,13 +4784,13 @@ watch but an exciting watch. For God [[motifs/time|time]] goes at a gallop, as i
 
 to a man reading a good tale.
 
-All this is, in a humble manner, true for [[Romance|romance]]. [[works/romance-(poe)|Romance]] is a
+All this is, in a humble manner, true for romance. [[works/romance-(poe)|Romance]] is a
 
 shortening and sharpening of the human difficulty. Where you and I have
 
 to vote against a man, or write (rather feebly) against a man, or sign
 
-illegible petitions against a man, [[Romance|romance]] does for him what we should
+illegible petitions against a man, romance does for him what we should
 
 really like to see done. It knocks him down; it shortens the slow
 
@@ -4891,9 +4891,9 @@ con un buon scherzo sono rapporti diretti e persino divini. Diciamo di
 
 l'abbiamo veduta, è vano discutere con noi; e noi abbiamo veduto la visione
 
-del _Pickwick_. Il _Pickwick_ è forse il vertice dell'[[Humour|humour]] di Dickens; credo
+del _Pickwick_. Il _Pickwick_ è forse il vertice dell'humour di Dickens; credo
 
-che nel complesso lo sia. Ma l'ampio [[Humour|humour]] del _Pickwick_ egli lo allargò
+che nel complesso lo sia. Ma l'ampio humour del _Pickwick_ egli lo allargò
 
 su molti mirabili regni; lo stretto pathos del _Pickwick_ non lo
 
@@ -4901,13 +4901,13 @@ ritrovò mai più.
 
 [[characters/nicholas-nickleby|NICHOLAS NICKLEBY]]
 
-Il [[Romance|romanzesco]] è forse il più alto vertice dell'espressione umana, eccetto invero
+Il romanzesco è forse il più alto vertice dell'espressione umana, eccetto invero
 
-la religione, cui è strettamente affine. Il [[Romance|romanzesco]] somiglia alla religione
+la religione, cui è strettamente affine. Il romanzesco somiglia alla religione
 
 soprattutto in questo, che esso non è solo una semplificazione ma un
 
-accorciamento dell'esistenza. Sia il [[Romance|romanzesco]] sia la religione vedono ogni cosa come
+accorciamento dell'esistenza. Sia il romanzesco sia la religione vedono ogni cosa come
 
 scorciata; vedono ogni cosa in una prospettiva brusca e fantastica,
 
@@ -4957,13 +4957,13 @@ veglia, ma un'eccitante veglia. Per Dio il [[motifs/time|tempo]] va al galoppo, 
 
 a un uomo che legge un buon racconto.
 
-Tutto ciò è, in umile misura, vero per il [[Romance|romanzesco]]. Il [[Romance|romanzesco]] è un
+Tutto ciò è, in umile misura, vero per il romanzesco. Il romanzesco è un
 
 accorciamento e un affilamento della difficoltà umana. Là dove tu e io dobbiamo
 
 votare contro un uomo, o scrivere (piuttosto fiaccamente) contro un uomo, o firmare
 
-illeggibili petizioni contro un uomo, il [[Romance|romanzesco]] fa per lui ciò che noi
+illeggibili petizioni contro un uomo, il romanzesco fa per lui ciò che noi
 
 vorremmo davvero veder fatto. Lo atterra; accorcia il lento
 
@@ -4976,7 +4976,7 @@ processo della giustizia storica. Tutte le storie romanzesche constano di tre pe
 
 Other characters may be introduced; but those other characters are
 
-certainly mere scenery as far as the [[Romance|romance]] is concerned. They are
+certainly mere scenery as far as the romance is concerned. They are
 
 bushes that wave rather excitedly; they are posts that stand up with a
 
@@ -4984,13 +4984,13 @@ certain [[concepts/pride|pride]]; they are correctly painted rocks that frown ve
 
 correctly; but they are all landscape--they are all a background. In
 
-every pure [[Romance|romance]] there are three living and moving characters. For the
+every pure romance there are three living and moving characters. For the
 
 sake of argument they may be called St. George and the Dragon and the
 
-Princess. In every [[Romance|romance]] there must be the twin elements of loving and
+Princess. In every romance there must be the twin elements of loving and
 
-fighting. In every [[Romance|romance]] there must be the three characters: there
+fighting. In every romance there must be the three characters: there
 
 must be the Princess, who is a thing to be loved; there must be the
 
@@ -5016,7 +5016,7 @@ even Tolstoi, can be found to tell us that we should go in for loving
 
 instead of fighting. The two things imply each other; they implied each
 
-other in the old [[Romance|romance]] and in the old religion, which were the two
+other in the old romance and in the old religion, which were the two
 
 permanent things of humanity. You cannot [[motifs/love|love]] a thing without wanting to
 
@@ -5038,7 +5038,7 @@ human and unspoilt by any special sophistry, there exists this natural
 
 kinship between war and wooing, and that natural kinship is called
 
-[[Romance|romance]]. It comes upon a man especially in the great hour of youth; and
+romance. It comes upon a man especially in the great hour of youth; and
 
 every man who has ever been young at all has felt, if only for a moment,
 
@@ -5052,7 +5052,7 @@ every man that can be called a man this especial moment of the romantic
 
 culmination has come. In the first resort the man wished to live a
 
-[[Romance|romance]]. In the second resort, in the last and worst resort, he was
+romance. In the second resort, in the last and worst resort, he was
 
 content to write one.
 
@@ -5060,7 +5060,7 @@ Now there is a certain moment when this element enters independently
 
 into the life of Dickens. There is a particular [[motifs/time|time]] when we can see him
 
-suddenly realise that he wants to write a [[Romance|romance]] and nothing else. In
+suddenly realise that he wants to write a romance and nothing else. In
 
 reading his letters, in appreciating his character, this point emerges
 
@@ -5070,7 +5070,7 @@ still young and psychologically ignorant; above all, he was now, really
 
 for the first [[motifs/time|time]], sure that he was going to be at least some kind of
 
-[[success]]. There is, I repeat, a certain point at which one feels that
+success. There is, I repeat, a certain point at which one feels that
 
 Dickens will either begin to write romances or go off on something
 
@@ -5102,7 +5102,7 @@ that the _Pickwick Papers_ are, as their name implies, merely papers.
 
 Nor is the case at all different in spirit and essence when we come to
 
-_Oliver Twist_. There is indeed a sort of [[Romance|romance]] in _Oliver Twist_, but
+_Oliver Twist_. There is indeed a sort of romance in _Oliver Twist_, but
 
 it is such an uncommonly bad one that it can hardly be regarded as
 
@@ -5145,7 +5145,7 @@ into scraps and episodes, such as those which make up the _Sketches by
 
 Altri personaggi possono venire introdotti; ma quegli altri personaggi sono
 
-certamente mera scenografia per quanto concerne il [[Romance|romanzesco]]. Sono
+certamente mera scenografia per quanto concerne il romanzesco. Sono
 
 cespugli che ondeggiano con una certa concitazione; sono pali che si ergono con un
 
@@ -5153,13 +5153,13 @@ certo [[concepts/pride|orgoglio]]; sono rocce correttamente dipinte che si accig
 
 correttamente; ma sono tutti paesaggio: sono tutti uno sfondo. In
 
-ogni [[Romance|romanzesco]] puro vi sono tre personaggi vivi e in movimento. Per amor
+ogni romanzesco puro vi sono tre personaggi vivi e in movimento. Per amor
 
 d'argomento possiamo chiamarli San Giorgio, il Drago e la
 
-Principessa. In ogni [[Romance|romanzesco]] devono esservi i due elementi gemelli dell'amare e del
+Principessa. In ogni romanzesco devono esservi i due elementi gemelli dell'amare e del
 
-combattere. In ogni [[Romance|romanzesco]] devono esservi i tre personaggi: vi
+combattere. In ogni romanzesco devono esservi i tre personaggi: vi
 
 dev'essere la Principessa, che è cosa da amare; vi dev'essere il
 
@@ -5185,7 +5185,7 @@ persino Tolstoj, si trovi a dirci che dovremmo darci all'amare
 
 anziché al combattere. Le due cose si implicano a vicenda; si implicavano a
 
-vicenda nell'antico [[Romance|romanzesco]] e nell'antica religione, che erano le due
+vicenda nell'antico romanzesco e nell'antica religione, che erano le due
 
 cose permanenti dell'umanità. Non puoi [[motifs/love|amare]] una cosa senza voler
 
@@ -5207,7 +5207,7 @@ umana e non guastata da alcun particolare sofisma, esiste questa naturale
 
 parentela tra la guerra e il corteggiamento, e quella naturale parentela si chiama
 
-[[Romance|romanzesco]]. Essa coglie l'uomo specialmente nella grande ora della giovinezza; e
+romanzesco. Essa coglie l'uomo specialmente nella grande ora della giovinezza; e
 
 ogni uomo che sia mai stato giovane ha provato, non fosse che per un istante,
 
@@ -5221,7 +5221,7 @@ ogni uomo che possa dirsi uomo questo particolare momento del culmine
 
 romantico è giunto. In prima istanza l'uomo desiderò vivere un
 
-[[Romance|romanzesco]]. In seconda istanza, nell'ultima e peggiore istanza, si
+romanzesco. In seconda istanza, nell'ultima e peggiore istanza, si
 
 accontentò di scriverne uno.
 
@@ -5229,7 +5229,7 @@ Ora, vi è un certo momento in cui questo elemento entra indipendentemente
 
 nella vita di Dickens. Vi è un particolare [[motifs/time|momento]] in cui possiamo vederlo
 
-rendersi conto d'improvviso che vuole scrivere un [[Romance|romanzesco]] e nient'altro. Nel
+rendersi conto d'improvviso che vuole scrivere un romanzesco e nient'altro. Nel
 
 leggere le sue lettere, nell'apprezzarne il carattere, questo punto emerge
 
@@ -5239,7 +5239,7 @@ ancora giovane e psicologicamente ignaro; soprattutto, era ora, davvero
 
 per la prima [[motifs/time|volta]], certo che sarebbe stato almeno una qualche sorta di
 
-[[success|successo]]. Vi è, lo ripeto, un certo punto in cui si avverte che
+successo. Vi è, lo ripeto, un certo punto in cui si avverte che
 
 Dickens comincerà a scrivere storie romanzesche oppure devierà verso qualcosa di
 
@@ -5271,7 +5271,7 @@ che i _Pickwick Papers_ sono, come il loro nome implica, meramente carte.
 
 Né il caso è affatto diverso nello spirito e nell'essenza quando giungiamo a
 
-_Oliver Twist_. Vi è invero una sorta di [[Romance|romanzesco]] in _Oliver Twist_, ma
+_Oliver Twist_. Vi è invero una sorta di romanzesco in _Oliver Twist_, ma
 
 è di una così insolita cattiveria che a stento lo si può considerare tale da
 
@@ -5338,7 +5338,7 @@ been twenty stories instead of one story. We might have lost all
 
 Dickens's novels; we might have lost altogether Dickens the novelist. We
 
-might have lost that steady [[motifs/love|love]] of a seminal and growing [[Romance|romance]] which
+might have lost that steady [[motifs/love|love]] of a seminal and growing romance which
 
 grew on him steadily as the years advanced, and which gave us towards
 
@@ -5378,7 +5378,7 @@ final. _Nicholas Nickleby_ is Dickens's first romantic [[forms/novel|novel]] bec
 
 is his first [[forms/novel|novel]] with a proper and dignified romantic [[archetypes/hero|hero]]; which
 
-means, of course, a somewhat chivalrous young [[donkey]]. The [[archetypes/hero|hero]] of
+means, of course, a somewhat chivalrous young donkey. The [[archetypes/hero|hero]] of
 
 _Pickwick_ is an old man. The [[archetypes/hero|hero]] of _Oliver Twist_ is a [[archetypes/child|child]]. Even
 
@@ -5434,7 +5434,7 @@ would not employ the simple, sacred, and truly Christian solution of
 
 beating Mr. Squeers with a stick. I fancy he would petition the
 
-[[government|Government]] to appoint a Royal Commission to inquire into Mr. Squeers. I
+Government to appoint a Royal Commission to inquire into Mr. Squeers. I
 
 think he would every now and then write letters to newspapers reminding
 
@@ -5550,7 +5550,7 @@ In definitiva, _Nicholas Nickleby_ è il primo romanzo romantico di Dickens, per
 
 È il suo primo [[forms/novel|romanzo]] con un eroe romantico vero e degno; questo.
 
-Significa, naturalmente, un giovane [[donkey|asino]] piuttosto cavalleresco. Il [[archetypes/hero|eroe]] di.
+Significa, naturalmente, un giovane asino piuttosto cavalleresco. Il [[archetypes/hero|eroe]] di.
 
 _Pickwick_ è un uomo anziano. L’[[archetypes/hero|eroe]] di _Oliver Twist_ in realtà è un [[archetypes/child|>bambino]]. Anche se.
 
@@ -5606,7 +5606,7 @@ Non si sarebbe ricorsi alla soluzione semplice, sacra e veramente cristiana…
 
 Battendo il signor Squeers con un bastone… Immagino che presenterebbe un’istanza…
 
-Il [[government|Governo]] decise di nominare una Commissione Reale per indagare su quanto accaduto al signor Squeers. Io.
+Il Governo decise di nominare una Commissione Reale per indagare su quanto accaduto al signor Squeers. Io.
 
 Credo che di tanto in tanto scrivesse lettere ai giornali per ricordare loro…
 
@@ -5699,7 +5699,7 @@ some of their principles and clumsy in some of their solutions. No
 
 people, and wisdom shall die with us. But when they saw something which
 
-in their eyes, such as they were, really violated their [[morality]], such
+in their eyes, such as they were, really violated their morality, such
 
 as it was, then they did not cry "Investigate!" They did not cry
 
@@ -5729,7 +5729,7 @@ young woman with whom Nicholas is in [[motifs/love|love]]. We do not care a rap 
 
 [[characters/madeline-bray|Madeline Bray]]. Personally I should have preferred Cecilia Bobster. Here
 
-is one real point where the Victorian [[Romance|romance]] falls below the
+is one real point where the Victorian romance falls below the
 
 Elizabethan romantic drama. Shakespeare always made his heroines heroic
 
@@ -5773,9 +5773,9 @@ touch in regard to the unsuccessful [[archetypes/artist|artist]]. If an [[archet
 
 everything then depends upon a dilemma of his moral character. If he is
 
-a mean [[archetypes/artist|artist]] [[success]] will make him a society man. If he is a
+a mean [[archetypes/artist|artist]] success will make him a society man. If he is a
 
-magnanimous [[archetypes/artist|artist]], [[success]] will make him an ordinary man. But only as
+magnanimous [[archetypes/artist|artist]], success will make him an ordinary man. But only as
 
 long as he is unsuccessful will he be an unfathomable and serious
 
@@ -5783,7 +5783,7 @@ long as he is unsuccessful will he be an unfathomable and serious
 
 expressing thus the treasures that belong to those who do not succeed in
 
-this world. There are vast prospects and splendid [[songs]] in the point of
+this world. There are vast prospects and splendid songs in the point of
 
 view of the typically unsuccessful man; if all the used-up actors and
 
@@ -5803,7 +5803,7 @@ In considering Dickens, as we almost always must consider him, as a man
 
 of rich originality, we may possibly miss the forces from which he drew
 
-even his original energy. It is not [[motifs/well|well]] for man to be [[Alone|alone]]. We, in the
+even his original energy. It is not [[motifs/well|well]] for man to be alone. We, in the
 
 modern world, are ready enough to admit that when it is applied to some
 
@@ -5813,7 +5813,7 @@ that our modern artistic claim to absolute originality is really a claim
 
 to absolute unsociability; a claim to absolute [[concepts/loneliness|loneliness]]. The anarchist
 
-is at least as solitary as the [[ascetic]]. And the men of very vivid vigour
+is at least as solitary as the ascetic. And the men of very vivid vigour
 
 in literature, the men such as Dickens, have generally displayed a large
 
@@ -5870,7 +5870,7 @@ alcuni dei loro principi e maldestri in alcune delle loro soluzioni. Senza
 
 popolo eletto, e la sapienza morirà con noi. Ma quando vedevano qualcosa che
 
-ai loro occhi, quali che fossero, violava davvero la loro [[morality|morale]], quale
+ai loro occhi, quali che fossero, violava davvero la loro morale, quale
 
 che fosse, allora non gridavano «Indaghiamo!». Non gridavano
 
@@ -5900,7 +5900,7 @@ giovane donna di cui Nicholas è [[motifs/love|innamorato]]. Non ce ne importa u
 
 [[characters/madeline-bray|Madeline Bray]]. Personalmente avrei preferito Cecilia Bobster. Ecco
 
-un punto reale in cui il [[Romance|romanzesco]] vittoriano resta al di sotto del
+un punto reale in cui il romanzesco vittoriano resta al di sotto del
 
 dramma romantico elisabettiano. Shakespeare rese sempre le sue eroine eroiche
 
@@ -5944,9 +5944,9 @@ riguardo all'[[archetypes/artist|artista]] senza successo. Se un [[archetypes/ar
 
 tutto dipende allora da un dilemma del suo carattere morale. Se è
 
-un [[archetypes/artist|artista]] meschino, il [[success|successo]] ne farà un uomo di mondo. Se è un
+un [[archetypes/artist|artista]] meschino, il successo ne farà un uomo di mondo. Se è un
 
-[[archetypes/artist|artista]] magnanimo, il [[success|successo]] ne farà un uomo comune. Ma soltanto
+[[archetypes/artist|artista]] magnanimo, il successo ne farà un uomo comune. Ma soltanto
 
 finché resta senza successo egli sarà un insondabile e serio
 
@@ -5954,7 +5954,7 @@ finché resta senza successo egli sarà un insondabile e serio
 
 esprimere in questo modo i tesori che appartengono a coloro che non riescono
 
-in questo mondo. Ci sono vaste prospettive e splendidi [[songs|canti]] nel punto di
+in questo mondo. Ci sono vaste prospettive e splendidi canti nel punto di
 
 vista dell'uomo tipicamente fallito; se tutti gli attori consumati e
 
@@ -5974,7 +5974,7 @@ Considerando Dickens, come quasi sempre dobbiamo considerarlo, un uomo
 
 di ricca originalità, rischiamo di non vedere le forze da cui trasse
 
-perfino la sua energia originale. Non è [[motifs/well|bene]] che l'uomo sia [[Alone|solo]]. Noi, nel
+perfino la sua energia originale. Non è [[motifs/well|bene]] che l'uomo sia solo. Noi, nel
 
 mondo moderno, siamo abbastanza pronti ad ammetterlo quando lo si applica a qualche
 
@@ -5984,7 +5984,7 @@ che la nostra moderna pretesa artistica di assoluta originalità sia in realtà 
 
 di assoluta insocievolezza; una pretesa di assoluta [[concepts/loneliness|solitudine]]. L'anarchico
 
-è solitario almeno quanto l'[[ascetic|asceta]]. E gli uomini di vigore vivissimo
+è solitario almeno quanto l'asceta. E gli uomini di vigore vivissimo
 
 in letteratura, gli uomini come Dickens, hanno generalmente mostrato una grande
 
@@ -6031,7 +6031,7 @@ would have been greater without it. But even if he had been greater
 
 without it he would still have been incomplete without it. With the
 
-exception of some gorgeous passages, both of [[Humour|humour]] and horror, the
+exception of some gorgeous passages, both of humour and horror, the
 
 interest of the book lies not so much in its revelation of Dickens's
 
@@ -6063,7 +6063,7 @@ give a pathetic piece after his humorous one; and with all his many
 
 moral merits, there was much that was stagey about Dickens. But this
 
-explanation [[Alone|alone]] is altogether inadequate and unworthy. There was in
+explanation alone is altogether inadequate and unworthy. There was in
 
 Dickens this other kind of energy, horrible, [[concepts/uncanny|uncanny]], barbaric, capable
 
@@ -6087,7 +6087,7 @@ Miss Petowker was of reciting it. This strain existed in Dickens
 
 alongside of his happy laughter; both were allied to the same robust
 
-[[Romance|romance]]. Here as elsewhere Dickens is close to all the permanent human
+romance. Here as elsewhere Dickens is close to all the permanent human
 
 things. He is close to religion, which has never allowed the thousand
 
@@ -6153,7 +6153,7 @@ about the sickening thuds that beat out the life of [[characters/nancy|Nancy]], 
 
 mysterious [[archetypes/villain|villain]] whose face was blasted with disease.
 
-As a [[nightmare]], the work is really admirable. Characters which are not
+As a nightmare, the work is really admirable. Characters which are not
 
 very clearly conceived as regards their own psychology are yet, at
 
@@ -6202,7 +6202,7 @@ sarebbe stato più grande senza di esso. Ma anche se fosse stato più grande
 
 senza di esso, sarebbe comunque rimasto incompleto senza di esso. Con
 
-l'eccezione di alcuni passi splendidi, tanto di [[Humour|umorismo]] quanto di orrore, l'interesse
+l'eccezione di alcuni passi splendidi, tanto di umorismo quanto di orrore, l'interesse
 
 del libro sta non tanto nella rivelazione del genio letterario di Dickens
 
@@ -6234,7 +6234,7 @@ offrire un pezzo patetico dopo quello umoristico; e con tutti i suoi molti
 
 meriti morali, c'era molto di teatrale in Dickens. Ma questa
 
-spiegazione da [[Alone|sola]] è del tutto inadeguata e indegna. C'era in
+spiegazione da sola è del tutto inadeguata e indegna. C'era in
 
 Dickens quest'altra specie di energia, orribile, [[concepts/uncanny|perturbante]], barbarica, capace
 
@@ -6258,7 +6258,7 @@ la signorina Petowker lo era di recitarla. Questa vena esisteva in Dickens
 
 accanto alla sua risata felice; entrambe erano imparentate con lo stesso robusto
 
-[[Romance|romanzesco]]. Qui come altrove Dickens è vicino a tutte le cose umane
+romanzesco. Qui come altrove Dickens è vicino a tutte le cose umane
 
 permanenti. È vicino alla religione, che non ha mai permesso ai mille
 
@@ -6324,7 +6324,7 @@ dei tonfi nauseanti che spengono la vita di [[characters/nancy|Nancy]], o di que
 
 misterioso [[archetypes/villain|malvagio]] il cui volto era devastato dalla malattia.
 
-Come [[nightmare|incubo]], l'opera è davvero ammirevole. Personaggi che non sono
+Come incubo, l'opera è davvero ammirevole. Personaggi che non sono
 
 concepiti con molta chiarezza quanto alla loro psicologia sono tuttavia,
 
@@ -6351,7 +6351,7 @@ questo strano, [[concepts/sublime|sublime]], volgare [[forms/melodrama|melodramm
 
 painfully real, reaches its hideous height in that fine scene of the
 
-[[motifs/death|death]] of Sikes, the besieged [[house]], the boy screaming within, the crowd
+[[motifs/death|death]] of Sikes, the besieged house, the boy screaming within, the crowd
 
 screaming without, the murderer turned almost a maniac and dragging his
 
@@ -6469,15 +6469,15 @@ stern even when they are funny. They amuse, but they cannot be enjoyed,
 
 as can the passages about the follies of Mr. Snodgrass or the
 
-humiliations of Mr. Winkle. The difference between the old easy [[Humour|humour]]
+humiliations of Mr. Winkle. The difference between the old easy humour
 
-and this new harsh [[Humour|humour]] is a difference not of degree but of kind.
+and this new harsh humour is a difference not of degree but of kind.
 
 Dickens makes game of Mr. Bumble because he wants to kill Mr. Bumble; he
 
 made game of Mr. Winkle because he wanted him to live for ever. Dickens
 
-has taken the [[Sword|sword]] in hand; against what is he declaring war?
+has taken the sword in hand; against what is he declaring war?
 
 It is just here that the [[concepts/greatness|greatness]] of Dickens comes in; it is just here
 
@@ -6520,7 +6520,7 @@ confident that they were invigorating the new age, sought to destroy the
 
 dolorosamente reale, tocca la sua orrida vetta in quella bella scena della
 
-[[motifs/death|morte]] di Sikes: la [[house|casa]] assediata, il ragazzo che urla dentro, la folla
+[[motifs/death|morte]] di Sikes: la casa assediata, il ragazzo che urla dentro, la folla
 
 che urla fuori, l'assassino ridotto quasi a un maniaco che trascina la sua
 
@@ -6638,15 +6638,15 @@ severe perfino quando sono comiche. Divertono, ma non possono essere godute,
 
 come possono esserlo i passi sulle follie del signor Snodgrass o sulle
 
-umiliazioni del signor Winkle. La differenza tra il vecchio, facile [[Humour|umorismo]]
+umiliazioni del signor Winkle. La differenza tra il vecchio, facile umorismo
 
-e questo nuovo, aspro [[Humour|umorismo]] è una differenza non di grado ma di specie.
+e questo nuovo, aspro umorismo è una differenza non di grado ma di specie.
 
 Dickens si fa beffe del signor Bumble perché vuole ucciderlo; si
 
 fece beffe del signor Winkle perché voleva che vivesse per sempre. Dickens
 
-ha impugnato la [[Sword|spada]]; contro che cosa sta dichiarando guerra?
+ha impugnato la spada; contro che cosa sta dichiarando guerra?
 
 È proprio qui che entra la [[concepts/greatness|grandezza]] di Dickens; è proprio qui
 
@@ -6733,7 +6733,7 @@ fight between here and the fires of Hell. That which pedants of that
 
 [[motifs/time|time]] and this [[motifs/time|time]] would have called the sentimentalism of Dickens was
 
-really simply the detached [[Sanity|sanity]] of Dickens. He cared nothing for the
+really simply the detached sanity of Dickens. He cared nothing for the
 
 fugitive explanations of the Constitutional Conservatives; he cared
 
@@ -6757,7 +6757,7 @@ Ironmaster, said he was attacking an effete oligarchy. In that case he
 
 pleased Mr. Rouncewell, the Iron-master, and displeased Sir Leicester
 
-Dedlock, the [[aristocrat|Aristocrat]]. But when he found that Mr. Rouncewell's workmen
+Dedlock, the Aristocrat. But when he found that Mr. Rouncewell's workmen
 
 were much too frightened of Mr. Rouncewell, then he displeased Mr.
 
@@ -6789,17 +6789,17 @@ front of him as plain as the sun at [[motifs/noon|noon]]-day. Dickens attacks th
 
 workhouse with a sort of inspired simplicity as of a boy in a fairy tale
 
-who had wandered about, [[Sword|sword]] in hand, looking for ogres and who had
+who had wandered about, sword in hand, looking for ogres and who had
 
 found an indisputable ogre. All the other people of his [[motifs/time|time]] are
 
 attacking things because they are bad economics or because they are bad
 
-politics, or because they are bad science; he [[Alone|alone]] is attacking things
+politics, or because they are bad science; he alone is attacking things
 
 because they are bad. All the others are Radicals with a large R; he
 
-[[Alone|alone]] is radical with a small one. He encounters evil with that
+alone is radical with a small one. He encounters evil with that
 
 beautiful surprise which, as it is the beginning of all real pleasure,
 
@@ -6811,7 +6811,7 @@ This is the real power and pathos of that celebrated passage in the book
 
 which has passed into a proverb; but which has not lost its terrible
 
-[[Humour|humour]] even in being hackneyed. I mean, of course, the everlasting
+humour even in being hackneyed. I mean, of course, the everlasting
 
 quotation about [[characters/oliver-twist|Oliver Twist]] asking for more. The real poignancy that
 
@@ -6841,7 +6841,7 @@ ragged peasants of the [[historical-references/french-revolution|French Revoluti
 
 Parliaments of Europe. That is to say, he comes, indeed, with gloomy
 
-experiences, but he comes with a happy [[philosophy]]. He knows that there
+experiences, but he comes with a happy philosophy. He knows that there
 
 are wrongs of man to be reviled; but he believes also that there are
 
@@ -6902,7 +6902,7 @@ combattere di qua dai fuochi dell'Inferno. Ciò che i pedanti di quel
 
 [[motifs/time|tempo]] e di questo [[motifs/time|tempo]] avrebbero chiamato il sentimentalismo di Dickens era
 
-in realtà semplicemente la distaccata [[Sanity|lucidità]] di Dickens. Non gli importava nulla delle
+in realtà semplicemente la distaccata lucidità di Dickens. Non gli importava nulla delle
 
 fuggevoli spiegazioni dei Conservatori costituzionali; non gli importava
 
@@ -6926,7 +6926,7 @@ siderurgico, dicesse che egli attaccava un'oligarchia esausta. In quel caso egli
 
 piacque al signor Rouncewell, il siderurgico, e dispiacque a Sir Leicester
 
-Dedlock, l'[[aristocrat|aristocratico]]. Ma quando scoprì che gli operai del signor Rouncewell
+Dedlock, l'aristocratico. Ma quando scoprì che gli operai del signor Rouncewell
 
 avevano troppa paura del signor Rouncewell, allora dispiacque al signor
 
@@ -6958,17 +6958,17 @@ dinanzi a sé chiara come il sole del [[motifs/noon|mezzo]]giorno. Dickens attac
 
 ospizio con una sorta di ispirata semplicità, come un fanciullo in una fiaba
 
-che avesse vagato in giro, la [[Sword|spada]] in pugno, in cerca di orchi e che avesse
+che avesse vagato in giro, la spada in pugno, in cerca di orchi e che avesse
 
 trovato un orco indiscutibile. Tutte le altre persone del suo [[motifs/time|tempo]]
 
 attaccano le cose perché sono cattiva economia, o perché sono cattiva
 
-politica, o perché sono cattiva scienza; egli [[Alone|solo]] attacca le cose
+politica, o perché sono cattiva scienza; egli solo attacca le cose
 
 perché sono cattive. Tutti gli altri sono Radicali con la R maiuscola; egli
 
-[[Alone|solo]] è radicale con la minuscola. Egli incontra il male con quella
+solo è radicale con la minuscola. Egli incontra il male con quella
 
 bella sorpresa che, essendo il principio di ogni piacere vero,
 
@@ -6980,7 +6980,7 @@ Questa è la vera forza e il vero pathos di quel celebre passo del libro
 
 che è passato in proverbio, ma che non ha perduto il suo terribile
 
-[[Humour|umorismo]] neppure nell'essere logorato dall'uso. Intendo, naturalmente, l'eterna
+umorismo neppure nell'essere logorato dall'uso. Intendo, naturalmente, l'eterna
 
 citazione di [[characters/oliver-twist|Oliver Twist]] che chiede ancora un po'. La vera intensità che
 
@@ -7010,7 +7010,7 @@ cenciosi contadini della [[historical-references/french-revolution|French Revolu
 
 Parlamenti d'Europa. Vale a dire che egli si presenta, sì, con cupe
 
-esperienze, ma si presenta con una lieta [[philosophy|filosofia]]. Egli sa che vi sono
+esperienze, ma si presenta con una lieta filosofia. Egli sa che vi sono
 
 torti dell'uomo da esecrare; ma crede anche che vi siano
 
@@ -7031,7 +7031,7 @@ paesi europei prima della Rivoluzione. La [[concepts/truth|verità]] è che i Fr
 
 were tragic because they were better off. The others had known the
 
-sorrowful experiences; but they [[Alone|alone]] had known the splendid expectation
+sorrowful experiences; but they alone had known the splendid expectation
 
 and the original claims. It was just here that Dickens was so true a
 
@@ -7079,7 +7079,7 @@ torn with a happy hunger. Thackeray is always looking back to yesterday;
 
 Dickens is always looking forward to to-morrow. Both are profoundly
 
-humorous, for there is a [[Humour|humour]] of the morning and a [[Humour|humour]] of the
+humorous, for there is a humour of the morning and a humour of the
 
 evening; but the first guesses at what it will get, at all the
 
@@ -7392,7 +7392,7 @@ Those who have written about the [[motifs/death|death]] of [[characters/little-n
 
 noticed the crudities of the character itself; the little girl's
 
-unnatural and staring [[innocence]], her constrained and awkward piety. But
+unnatural and staring innocence, her constrained and awkward piety. But
 
 they have nearly all of them entirely failed to notice that there is in
 
@@ -7454,7 +7454,7 @@ character. It is connected with his [[concepts/vanity|vanity]], his voracity for
 
 of praise, his restive experimentalism and even perhaps his envy. He
 
-strained himself to achieve pathos. His [[Humour|humour]] was inspiration; but his
+strained himself to achieve pathos. His humour was inspiration; but his
 
 pathos was [[concepts/ambition|ambition]]. His laughter was lonely; he would have laughed on a
 
@@ -7522,7 +7522,7 @@ story who do not run after [[characters/little-nell|Little Nell]]. They have som
 
 than to go on that shadowy chase after that cheerless [[characters/phantom|phantom]]. They have
 
-to build up between them a true [[Romance|romance]]; perhaps the one true [[Romance|romance]] in
+to build up between them a true romance; perhaps the one true romance in
 
 the whole of Dickens. [[characters/dick-swiveller|Dick Swiveller]] really has all the half-heroic
 
@@ -7557,7 +7557,7 @@ Coloro che hanno scritto della [[motifs/death|morte]] di [[characters/little-nel
 
 notato le crudezze del personaggio stesso; della bambina
 
-l'innaturale e fissa [[innocence|innocenza]], la sua devozione costretta e impacciata. Ma
+l'innaturale e fissa innocenza, la sua devozione costretta e impacciata. Ma
 
 quasi tutti hanno del tutto mancato di notare che vi è, nella
 
@@ -7619,7 +7619,7 @@ carattere. È legata alla sua [[concepts/vanity|vanità]], alla sua voracità pe
 
 di lode, al suo irrequieto sperimentalismo e forse persino alla sua invidia. Egli
 
-si sforzava di raggiungere il patetico. Il suo [[Humour|umorismo]] era ispirazione; ma il suo
+si sforzava di raggiungere il patetico. Il suo umorismo era ispirazione; ma il suo
 
 patetismo era [[concepts/ambition|ambizione]]. Il suo riso era solitario; avrebbe riso su
 
@@ -7687,7 +7687,7 @@ storia a non correre dietro a [[characters/little-nell|Little Nell]]. Hanno qual
 
 che darsi a quel tenebroso inseguimento dietro quel malinconico [[characters/phantom|fantasma]]. Devono
 
-costruire fra loro un vero [[Romance|romanzo d'amore]]; forse l'unico vero [[Romance|romanzo d'amore]] in
+costruire fra loro un vero romanzo d'amore; forse l'unico vero romanzo d'amore in
 
 tutto Dickens. [[characters/dick-swiveller|Dick Swiveller]] possiede davvero tutte le caratteristiche semi-eroiche
 
@@ -7746,7 +7746,7 @@ little servant. The warmest upholder of Dickens would not go to the
 
 solemn or sentimental passages for anything fresh or suggestive in [[concepts/faith|faith]]
 
-or [[philosophy]]. No one would pretend that the [[motifs/death|death]] of little Dombey
+or philosophy. No one would pretend that the [[motifs/death|death]] of little Dombey
 
 (with its "What are the wild waves saying?") told us anything new or
 
@@ -7756,7 +7756,7 @@ would not know what the wild waves were saying, but would not care. No
 
 one would pretend that the repentance of old [[characters/paul-dombey|Paul Dombey]] throws any
 
-light on the psychology or [[philosophy]] of repentance. No [[concepts/doubt|doubt]] old
+light on the psychology or philosophy of repentance. No [[concepts/doubt|doubt]] old
 
 Dombey, white-haired and amiable, was a great improvement on old Dombey
 
@@ -7911,7 +7911,7 @@ piccola domestica. Il più caloroso ammiratore di Dickens non andrebbe a cercare
 
 passi solenni o sentimentali qualcosa di fresco o suggestivo in fatto di [[concepts/faith|fede]]
 
-o di [[philosophy|filosofia]]. Nessuno pretenderebbe che la [[motifs/death|morte]] del piccolo Dombey
+o di filosofia. Nessuno pretenderebbe che la [[motifs/death|morte]] del piccolo Dombey
 
 (col suo «Che cosa dicono le onde selvagge?») ci abbia detto qualcosa di nuovo o
 
@@ -7921,7 +7921,7 @@ non saprebbe che cosa dicono le onde selvagge, ma non se ne curerebbe. Nessuno
 
 pretenderebbe che il pentimento del vecchio [[characters/paul-dombey|Paul Dombey]] getti alcuna
 
-luce sulla psicologia o [[philosophy|filosofia]] del pentimento. Senza [[concepts/doubt|dubbio]] il vecchio
+luce sulla psicologia o filosofia del pentimento. Senza [[concepts/doubt|dubbio]] il vecchio
 
 Dombey, canuto e amabile, era un gran miglioramento rispetto al vecchio Dombey
 
@@ -8138,7 +8138,7 @@ the goodness. All this is the English popular evil which goes along with
 
 the English popular virtues of geniality, of homeliness, tolerance and
 
-strong [[Humour|humour]], [[concepts/hope|hope]] and an enormous appetite for a hand-to-mouth
+strong humour, [[concepts/hope|hope]] and an enormous appetite for a hand-to-mouth
 
 happiness. The scene in which Kit takes his family to the theatre is a
 
@@ -8160,7 +8160,7 @@ powers that be. It is a sound touch; it is a real [[concepts/truth|truth]] about
 
 Dickens did not know it. Mr. Chuckster did.
 
-Dickens's stories taken as a whole have more artistic [[unity]] than appears
+Dickens's stories taken as a whole have more artistic unity than appears
 
 at the first glance. It is the immediate impulse of a modern critic to
 
@@ -8168,9 +8168,9 @@ dismiss them as mere disorderly scrap-books with very brilliant scraps.
 
 But this is not quite so true as it looks. In one of Dickens's novels
 
-there is generally no particular [[unity]] of construction; but there is
+there is generally no particular unity of construction; but there is
 
-often a considerable [[unity]] of sentiment and atmosphere. Things are
+often a considerable unity of sentiment and atmosphere. Things are
 
 irrelevant, but not somehow inappropriate. The whole book is written
 
@@ -8178,7 +8178,7 @@ carelessly; but the whole book is generally written in one mood. To take
 
 a rude parallel from the other arts, we may say that there is not much
 
-[[unity]] of form, but there is much [[unity]] of colour. In most of the novels
+unity of form, but there is much unity of colour. In most of the novels
 
 this can be seen. _Nicholas Nickleby_, as I have remarked, is full of a
 
@@ -8307,7 +8307,7 @@ quella bontà. Tutto ciò è il male popolare inglese che va insieme
 
 alle virtù popolari inglesi della cordialità, della semplicità domestica, della tolleranza e
 
-del forte [[Humour|umorismo]], della [[concepts/hope|speranza]] e di un enorme appetito di una felicità
+del forte umorismo, della [[concepts/hope|speranza]] e di un enorme appetito di una felicità
 
 alla giornata. La scena in cui Kit porta la sua famiglia a teatro è un
 
@@ -8329,7 +8329,7 @@ poteri costituiti. È un tratto azzeccato; è una reale [[concepts/truth|verità
 
 Dickens non lo sapeva. Mr. Chuckster sì.
 
-Le storie di Dickens, prese nel loro insieme, hanno più [[unity|unità]] artistica di quanto appaia
+Le storie di Dickens, prese nel loro insieme, hanno più unità artistica di quanto appaia
 
 a prima vista. È l'impulso immediato di un critico moderno
 
@@ -8337,9 +8337,9 @@ liquidarle come semplici zibaldoni disordinati con ritagli brillantissimi.
 
 Ma questo non è vero quanto sembra. In un romanzo di Dickens
 
-generalmente non c'è alcuna particolare [[unity|unità]] di costruzione; ma c'è
+generalmente non c'è alcuna particolare unità di costruzione; ma c'è
 
-spesso una considerevole [[unity|unità]] di sentimento e di atmosfera. Le cose sono
+spesso una considerevole unità di sentimento e di atmosfera. Le cose sono
 
 irrilevanti, ma non per questo, in qualche modo, inadatte. Tutto il libro è scritto
 
@@ -8347,7 +8347,7 @@ con noncuranza; ma tutto il libro è generalmente scritto in un solo stato d'ani
 
 un rozzo paragone dalle altre arti, possiamo dire che non c'è molta
 
-[[unity|unità]] di forma, ma c'è molta [[unity|unità]] di colore. Nella maggior parte dei romanzi
+unità di forma, ma c'è molta unità di colore. Nella maggior parte dei romanzi
 
 lo si può vedere. _Nicholas Nickleby_, come ho osservato, è pieno di una
 
@@ -8440,7 +8440,7 @@ tide of his popularity; it came immediately after _The Old Curiosity
 
 Shop_, and only a short [[motifs/time|time]] after _Pickwick_. Dickens was one of those
 
-rare but often very sincere men in whom the high moment of [[success]]
+rare but often very sincere men in whom the high moment of success
 
 almost coincides with the high moment of youth. The calls upon him at
 
@@ -8486,7 +8486,7 @@ _Barnaby Rudge_ marks this epoch because it marks the fact that he is
 
 still confused about what kind of person he is going to be. He has
 
-already struck the note of the normal [[Romance|romance]] in _Nicholas Nickleby_; he
+already struck the note of the normal romance in _Nicholas Nickleby_; he
 
 has already created some of his highest comic characters in _Pickwick_
 
@@ -8534,7 +8534,7 @@ spiritual view involved. For instance, there is admirable [[forms/satire|satire]
 
 idea of [[characters/touchstone|Touchstone]] teaching worldly wisdom and worldly [[concepts/honour|honour]] to the
 
-woodland yokels. There is excellent [[philosophy]] in the idea of the [[archetypes/fool|fool]]
+woodland yokels. There is excellent philosophy in the idea of the [[archetypes/fool|fool]]
 
 being the representative of civilisation in the forest. But quite apart
 
@@ -8611,7 +8611,7 @@ montante della sua popolarità; venne immediatamente dopo _The Old Curiosity
 
 Shop_, e solo poco [[motifs/time|tempo]] dopo _Pickwick_. Dickens era uno di quegli
 
-uomini rari ma spesso sincerissimi nei quali il momento più alto del [[success|successo]]
+uomini rari ma spesso sincerissimi nei quali il momento più alto del successo
 
 quasi coincide con il momento più alto della giovinezza. Le richieste che gli piovevano addosso in
 
@@ -8657,7 +8657,7 @@ _Barnaby Rudge_ segna quest'epoca perché segna il fatto che egli è
 
 ancora confuso su che tipo di persona sarà. Egli ha
 
-già intonato la nota del normale [[Romance|romanzo d'amore]] in _Nicholas Nickleby_;
+già intonato la nota del normale romanzo d'amore in _Nicholas Nickleby_;
 
 ha già creato alcuni dei suoi più alti personaggi comici in _Pickwick_
 
@@ -8705,7 +8705,7 @@ visione spirituale coinvolta. Per esempio, vi è mirabile [[forms/satire|satira]
 
 idea di [[characters/touchstone|Touchstone]] che insegna la saggezza mondana e l'[[concepts/honour|onore]] mondano ai
 
-villici del bosco. Vi è eccellente [[philosophy|filosofia]] nell'idea del [[archetypes/fool|buffone]]
+villici del bosco. Vi è eccellente filosofia nell'idea del [[archetypes/fool|buffone]]
 
 che è il rappresentante della civiltà nella foresta. Ma del tutto a parte
 
@@ -8754,7 +8754,7 @@ picturesque. And the same which is said here of him by way of example is
 
 largely true of the highest class of literature. [[historical-references/dante|Dante]]'s _Divine Comedy_
 
-is supremely important as a [[philosophy]]; but it is important merely as a
+is supremely important as a philosophy; but it is important merely as a
 
 panorama. Spenser's _Faery Queen_ pleases us as an [[forms/allegory|allegory]]; but it
 
@@ -8802,7 +8802,7 @@ should write a dialogue between an early Christian and the Missing Link
 
 would have to be a philosopher. The more widely different the types
 
-talked of, the more serious and universal must be the [[philosophy]] which
+talked of, the more serious and universal must be the philosophy which
 
 talks of them. The mark of the light and thoughtless writer is the
 
@@ -8858,7 +8858,7 @@ in which the [[characters/dwarf|dwarf]] remains fantastic long after he has ceas
 
 any way funny. Still, the [[characters/dwarf|dwarf]] was meant to be funny. [[works/humour-(chesterton)|Humour]] of a
 
-horrible kind, but still [[Humour|humour]], is the purpose of Quilp's existence and
+horrible kind, but still humour, is the purpose of Quilp's existence and
 
 position in the book. Laughter is the object of all his oddities. But
 
@@ -8892,7 +8892,7 @@ works with tales of the pictorial past, such as the tale of the broken
 
 swords in _Master Humphrey's Clock_, or the indefensibly delightful
 
-[[nightmare]] of the lady in the stage-coach, which helps to soften the
+nightmare of the lady in the stage-coach, which helps to soften the
 
 amiable end of [[works/pickwick-(chesterton)|Pickwick]]. Neither, worst of all, did it prevent him from
 
@@ -8921,7 +8921,7 @@ pittoresca. E ciò che qui si dice di lui a titolo d'esempio vale in gran
 
 parte anche per la più alta classe di letteratura. La _Divina Commedia_ di [[historical-references/dante|Dante]]
 
-è di somma importanza come [[philosophy|filosofia]]; ma è importante anche solo come
+è di somma importanza come filosofia; ma è importante anche solo come
 
 panorama. La _Regina delle Fate_ di Spenser ci piace come [[forms/allegory|allegoria]]; ma
 
@@ -8969,7 +8969,7 @@ che scrivesse un dialogo tra un antico cristiano e l'Anello Mancante
 
 dovrebbe essere un filosofo. Quanto più largamente diversi sono i tipi
 
-di cui si discorre, tanto più seria e universale dev'essere la [[philosophy|filosofia]] che
+di cui si discorre, tanto più seria e universale dev'essere la filosofia che
 
 ne discorre. Il segno dello scrittore lieve e sventato è
 
@@ -9023,9 +9023,9 @@ notevolmente, per esempio, in quella bella scena della [[motifs/death|morte]] di
 
 in cui il [[characters/dwarf|nano]] rimane fantastico assai dopo aver cessato d'essere in
 
-alcun modo comico. Eppure il [[characters/dwarf|nano]] doveva essere comico. Un [[Humour|umorismo]] d'una
+alcun modo comico. Eppure il [[characters/dwarf|nano]] doveva essere comico. Un umorismo d'una
 
-specie orribile, ma pur sempre [[Humour|umorismo]], è lo scopo dell'esistenza e della
+specie orribile, ma pur sempre umorismo, è lo scopo dell'esistenza e della
 
 posizione di Quilp nel libro. Il riso è l'oggetto di tutte le sue stranezze. Ma
 
@@ -9059,7 +9059,7 @@ opere con racconti del passato pittorico, come il racconto delle spade
 
 spezzate in _Master Humphrey's Clock_, o l'indifendibilmente delizioso
 
-[[nightmare|incubo]] della dama nella diligenza, che contribuisce ad addolcire
+incubo della dama nella diligenza, che contribuisce ad addolcire
 
 l'amabile fine di [[works/pickwick-(chesterton)|Pickwick]]. Né, peggio di tutto, gl'impedì di
 
@@ -9070,7 +9070,7 @@ l'amabile fine di [[works/pickwick-(chesterton)|Pickwick]]. Né, peggio di tutto
 
 dogmatising anywhere and everywhere about the past, of which he knew
 
-nothing; it did not prevent him from telling [[The Bells|the bells]] to tell Trotty
+nothing; it did not prevent him from telling the bells to tell Trotty
 
 Veck that the Middle Ages were a failure, nor from solemnly declaring
 
@@ -9154,17 +9154,17 @@ Another point of resemblance between the two books might be found in the
 
 fact that they both contain the [[forms/sketch|sketch]] of the same kind of
 
-eighteenth-century [[aristocrat]], if indeed that kind of [[aristocrat]] really
+eighteenth-century aristocrat, if indeed that kind of aristocrat really
 
 existed in the eighteenth century. The diabolical dandy with the rapier
 
 and the sneer is at any rate a necessity of all normal plays and
 
-romances; hence Mr. Chester has a right to exist in this [[Romance|romance]], and
+romances; hence Mr. Chester has a right to exist in this romance, and
 
 Foulon a right to exist in a page of [[concepts/history|history]] almost as cloudy and
 
-disputable as a [[Romance|romance]]. What Dickens and other romancers do probably
+disputable as a romance. What Dickens and other romancers do probably
 
 omit from the picture of the eighteenth-century oligarch is probably his
 
@@ -9239,7 +9239,7 @@ silences, sleepless nights, or infernal isolation. The excitement in one
 
 dogmatizzando dovunque e comunque intorno al passato, del quale non sapeva
 
-nulla; ciò non gli impedì di far dire da [[The Bells|le campane]] a Trotty
+nulla; ciò non gli impedì di far dire da le campane a Trotty
 
 Veck che il Medioevo era stato un fallimento, né di dichiarare solennemente
 
@@ -9323,17 +9323,17 @@ Un altro punto di somiglianza fra i due libri potrebbe trovarsi nel
 
 fatto che entrambi contengono il [[forms/sketch|ritratto]] della stessa specie di
 
-[[aristocrat|aristocratico]] settecentesco, ammesso che quella specie di [[aristocrat|aristocratico]] sia davvero
+aristocratico settecentesco, ammesso che quella specie di aristocratico sia davvero
 
 esistita nel Settecento. Il dandy diabolico con lo stocco
 
 e il ghigno è comunque una necessità di tutti i drammi e i romanzi
 
-normali; quindi il signor Chester ha il diritto di esistere in questo [[Romance|romanzo]], e
+normali; quindi il signor Chester ha il diritto di esistere in questo romanzo, e
 
 Foulon il diritto di esistere in una pagina di [[concepts/history|storia]] quasi altrettanto nebulosa e
 
-discutibile di un [[Romance|romanzo]]. Ciò che Dickens e gli altri romanzieri probabilmente
+discutibile di un romanzo. Ciò che Dickens e gli altri romanzieri probabilmente
 
 omettono dal ritratto dell'oligarca settecentesco è probabilmente la sua
 
@@ -9426,7 +9426,7 @@ there is a character meant to be wholly [[concepts/grotesque|grotesque]], who, n
 
 expresses much of that element in Dickens which prevented him from being
 
-a true interpreter of the tired and sceptical [[aristocrat]].
+a true interpreter of the tired and sceptical aristocrat.
 
 Sim Tappertit is a [[archetypes/fool|fool]], but a perfectly honourable [[archetypes/fool|fool]]. It requires
 
@@ -9597,7 +9597,7 @@ compaia un personaggio inteso come del tutto [[concepts/grotesque|grottesco]], i
 
 esprime molto di quell'elemento presente in Dickens che gli impedì di essere
 
-un vero interprete dello stanco e scettico [[aristocrat|aristocratico]].
+un vero interprete dello stanco e scettico aristocratico.
 
 Sim Tappertit è uno [[archetypes/fool|sciocco]], ma uno [[archetypes/fool|sciocco]] perfettamente onorevole. Ci vuole
 
@@ -9802,7 +9802,7 @@ in [[settings/italy|Italy]]. He seems quite unconscious of the obvious [[concept
 
 backwardness of Catholics was simply the refusal of [[characters/bob-cratchit|Bob Cratchit]] to
 
-enter the [[house]] of Gradgrind. An example of the second attitude can be
+enter the house of Gradgrind. An example of the second attitude can be
 
 found in the purple patches of fun in _Mugby Junction_; in which the
 
@@ -9820,9 +9820,9 @@ friendly suggestions to the governors of Parisian prisons. Or if he
 
 does, it is in a different spirit; it is in the spirit of an ordinary
 
-tourist being shown over [[The Coliseum|the Coliseum]] or the Pyramids. But he visited
+tourist being shown over the Coliseum or the Pyramids. But he visited
 
-[[settings/america|America]] in the spirit of a [[government|Government]] inspector dealing with something
+[[settings/america|America]] in the spirit of a Government inspector dealing with something
 
 it was his duty to inspect. This is never felt either in his praise or
 
@@ -9834,7 +9834,7 @@ France he mistook for a kitten. [[settings/italy|Italy]] he mistook for a dead d
 
 But with [[settings/america|America]] he could feel--and [[concepts/fear|fear]]. There he could hate, because
 
-he could [[motifs/love|love]]. There he could feel not the past [[Alone|alone]] nor the present,
+he could [[motifs/love|love]]. There he could feel not the past alone nor the present,
 
 but the future also; and, like all brave men, when he saw the future he
 
@@ -9854,7 +9854,7 @@ the wrong one. The true patriot is always doubtful of victory; because
 
 he knows that he is dealing with a living thing; a thing with free will.
 
-To be certain of free will is to be uncertain of [[success]].
+To be certain of free will is to be uncertain of success.
 
 The subject matter of the real difference of opinion between Dickens and
 
@@ -9967,7 +9967,7 @@ in [[settings/italy|Italia]]. Sembra del tutto inconsapevole dell'ovvia [[concep
 
 l'arretratezza dei cattolici altro non era che il rifiuto di [[characters/bob-cratchit|Bob Cratchit]] di
 
-entrare nella [[house|casa]] di Gradgrind. Un esempio del secondo atteggiamento si può
+entrare nella casa di Gradgrind. Un esempio del secondo atteggiamento si può
 
 trovare nei brani sfolgoranti di comicità di _Mugby Junction_; in cui la
 
@@ -9985,9 +9985,9 @@ amichevoli suggerimenti ai governatori delle prigioni parigine. O se pure lo
 
 fa, è in uno spirito diverso; è nello spirito di un comune
 
-turista a cui si mostra [[The Coliseum|il Colosseo]] o le Piramidi. Ma visitò
+turista a cui si mostra il Colosseo o le Piramidi. Ma visitò
 
-l'[[settings/america|America]] nello spirito di un ispettore [[government|governativo]] alle prese con qualcosa
+l'[[settings/america|America]] nello spirito di un ispettore governativo alle prese con qualcosa
 
 che era suo dovere ispezionare. Nulla di ciò si avverte mai nella sua lode o nel suo
 
@@ -9999,7 +9999,7 @@ La Francia la scambiò per un gattino. L'[[settings/italy|Italia]] la scambiò p
 
 Ma con l'[[settings/america|America]] poteva provare sentimento — e [[concepts/fear|paura]]. Là poteva odiare, perché
 
-poteva [[motifs/love|amare]]. Là poteva sentire non il passato [[Alone|soltanto]] né il presente,
+poteva [[motifs/love|amare]]. Là poteva sentire non il passato soltanto né il presente,
 
 ma anche il futuro; e, come tutti gli uomini coraggiosi, quando vide il futuro ne
 
@@ -10019,7 +10019,7 @@ quello sbagliato. Il vero patriota è sempre incerto della vittoria; perché
 
 sa di avere a che fare con una cosa viva; una cosa dotata di libero arbitrio.
 
-Essere certi del libero arbitrio significa essere incerti del [[success|successo]].
+Essere certi del libero arbitrio significa essere incerti del successo.
 
 La materia della reale divergenza d'opinione tra Dickens e
 
@@ -10210,7 +10210,7 @@ difference of opinion than in this. There! I write the words with
 
 reluctance, disappointment, and sorrow; but I believe it from the [[characters/bottom|bottom]]
 
-of my [[motifs/soul|soul]]. The notion that I, a man [[Alone|alone]] by myself in [[settings/america|America]], should
+of my [[motifs/soul|soul]]. The notion that I, a man alone by myself in [[settings/america|America]], should
 
 venture to suggest to the Americans that there was one point on which
 
@@ -10375,7 +10375,7 @@ divergenza di opinioni, che in questo. Ecco! Scrivo queste parole con
 
 riluttanza, delusione e dolore; ma lo credo dal [[characters/bottom|fondo]]
 
-dell'[[motifs/soul|anima]] mia. L'idea che io, un uomo tutto [[Alone|solo]] e isolato in [[settings/america|America]], osassi
+dell'[[motifs/soul|anima]] mia. L'idea che io, un uomo tutto solo e isolato in [[settings/america|America]], osassi
 
 azzardarmi a suggerire agli americani che vi era un punto sul quale
 
@@ -10584,7 +10584,7 @@ about the [[motifs/death|death]] of Napoleon in St. [[characters/helena|Helena]]
 
 than that of Codlin and Short's Punch and Judy, and almost as good as
 
-that of Mrs. Jarley's Wax Works. Indeed the [[Humour|humour]] is similar; for Punch
+that of Mrs. Jarley's Wax Works. Indeed the humour is similar; for Punch
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10757,7 +10757,7 @@ sulla [[motifs/death|morte]] di Napoleone a Sant'[[characters/helena|Elena]]. La
 
 di quella del Punch and Judy di Codlin e Short, e quasi altrettanto buona
 
-di quella del Museo delle Cere della signora Jarley. Anzi, l'[[Humour|umorismo]] è simile; poiché Punch
+di quella del Museo delle Cere della signora Jarley. Anzi, l'umorismo è simile; poiché Punch
 
 
 
@@ -10828,7 +10828,7 @@ an impression that it is a kind of [[concepts/melancholy|melancholy]]. There are
 
 figures of the most gorgeous kind; there are scenes that are farcical
 
-even by the standard of the farcical license of Dickens; there is [[Humour|humour]]
+even by the standard of the farcical license of Dickens; there is humour
 
 both of the heaviest and of the lightest kind; there are two great comic
 
@@ -10836,7 +10836,7 @@ personalities who run like a rich vein through the whole story,
 
 Pecksniff and Mrs. Gamp; there is one blinding patch of brilliancy, the
 
-[[forms/satire|satire]] on American cant; there is Todgers's boarding-[[house]]; there is
+[[forms/satire|satire]] on American cant; there is Todgers's boarding-house; there is
 
 Bailey; there is Mr. Mould, the incomparable undertaker. But yet in
 
@@ -10892,7 +10892,7 @@ wandering in [[settings/america|America]], but could not cease wandering altoget
 
 had lost his original routine of work which was violent but regular, and
 
-had not yet settled down to the full enjoyment of his [[success]] and his
+had not yet settled down to the full enjoyment of his success and his
 
 later years. He poured into this book genius that might make the
 
@@ -10920,7 +10920,7 @@ novelist than Dickens. But Dickens certainly was the satirist. The
 
 essence of [[forms/satire|satire]] is that it perceives some absurdity inherent in the
 
-[[logic]] of some position, and that it draws that absurdity out and
+logic of some position, and that it draws that absurdity out and
 
 isolates it, so that all can see it. Thus for instance when Dickens
 
@@ -10928,7 +10928,7 @@ says, "Lord Coodle would go out; Sir Thomas Doodle wouldn't come in; and
 
 there being no people to speak of in England except Coodle and Doodle
 
-the country has been without a [[government|Government]]"; when Dickens says this he
+the country has been without a Government"; when Dickens says this he
 
 suddenly pounces on and plucks out the one inherent absurdity in the
 
@@ -10999,7 +10999,7 @@ l'impressione che sia una specie di [[concepts/melancholy|malinconia]]. Vi sono 
 
 figure del genere più sfarzoso; vi sono scene farsesche
 
-perfino secondo il metro della licenza farsesca di Dickens; vi è [[Humour|umorismo]]
+perfino secondo il metro della licenza farsesca di Dickens; vi è umorismo
 
 sia della specie più greve sia della più leggera; vi sono due grandi personalità
 
@@ -11007,7 +11007,7 @@ comiche che scorrono come una ricca vena attraverso tutta la storia,
 
 Pecksniff e Mrs. Gamp; vi è un accecante lampo di splendore, la
 
-[[forms/satire|satira]] contro l'ipocrisia americana; vi è la pensione [[house|Todgers]]; vi è
+[[forms/satire|satira]] contro l'ipocrisia americana; vi è la pensione Todgers; vi è
 
 Bailey; vi è Mr. Mould, l'incomparabile impresario di pompe funebri. Eppure,
 
@@ -11063,7 +11063,7 @@ di vagabondare in [[settings/america|America]], ma non poteva smettere di vagabo
 
 perduto la sua originaria routine di lavoro, che era violenta ma regolare, e
 
-non si era ancora acquietato nel pieno godimento del suo [[success|successo]] e dei suoi
+non si era ancora acquietato nel pieno godimento del suo successo e dei suoi
 
 anni più tardi. Riversò in questo libro un genio capace di far ridere le
 
@@ -11091,7 +11091,7 @@ più grande di Dickens. Ma Dickens era certamente il satirico. L'
 
 essenza della [[forms/satire|satira]] è che essa percepisce una qualche assurdità insita nella
 
-[[logic|logica]] di una data posizione, e ne trae fuori quell'assurdità e
+logica di una data posizione, e ne trae fuori quell'assurdità e
 
 la isola, sì che tutti possano vederla. Così, per esempio, quando Dickens
 
@@ -11099,7 +11099,7 @@ dice: «Lord Coodle uscirebbe; Sir Thomas Doodle non entrerebbe; e
 
 non essendovi in Inghilterra persone degne di nota all'infuori di Coodle e Doodle,
 
-il paese è rimasto senza [[government|Governo]]»; quando Dickens dice questo, egli
+il paese è rimasto senza Governo»; quando Dickens dice questo, egli
 
 improvvisamente piomba e strappa via l'unica assurdità insita nel
 
@@ -11122,7 +11122,7 @@ does remain the bold, bleak question which Dickens in substance asks,
 
 the great quality called [[forms/satire|satire]]; it is a kind of taunting
 
-reasonableness; and it is inseparable from a certain insane [[logic]] which
+reasonableness; and it is inseparable from a certain insane logic which
 
 is often called exaggeration. Dickens was more of a satirist than
 
@@ -11182,7 +11182,7 @@ a caricaturist. He has to select what thing he will caricature. True
 
 [[forms/satire|satire]] is always of this intellectual kind; true [[forms/satire|satire]] is always, so
 
-to speak, a variation or fantasia upon the air of pure [[logic]]. The
+to speak, a variation or fantasia upon the air of pure logic. The
 
 satirist is the man who carries men's enthusiasm further than they carry
 
@@ -11200,7 +11200,7 @@ example in this book. Even _Gulliver's Travels_ is hardly more
 
 reasonable than [[characters/martin-chuzzlewit|Martin Chuzzlewit]]'s travels in the incredible land of
 
-the Americans. Before considering the [[Humour|humour]] of this description in its
+the Americans. Before considering the humour of this description in its
 
 more exhaustive and liberal aspects, it may be first remarked that in
 
@@ -11268,7 +11268,7 @@ if the man who wrote expected retort and was prepared with rejoinder.
 
 The rest of the book, like the rest of Dickens's books, possesses
 
-[[Humour|humour]]. This part of the book, like hardly any of Dickens's books,
+humour. This part of the book, like hardly any of Dickens's books,
 
 possesses wit. The republican gentleman who receives Martin on landing
 
@@ -11289,7 +11289,7 @@ pur sempre l'ardita, desolata domanda che Dickens in sostanza pone:
 
 la grande qualità che si chiama [[forms/satire|satira]]; è una sorta di ragionevolezza
 
-beffarda; ed è inseparabile da una certa folle [[logic|logica]] che spesso
+beffarda; ed è inseparabile da una certa folle logica che spesso
 
 viene chiamata esagerazione. Dickens era più satirico di
 
@@ -11349,7 +11349,7 @@ caricaturista. Egli deve scegliere quale cosa caricaturare. La vera
 
 [[forms/satire|satira]] è sempre di questa specie intellettuale; la vera [[forms/satire|satira]] è sempre, per
 
-così dire, una variazione o una fantasia sull'aria della pura [[logic|logica]]. Il
+così dire, una variazione o una fantasia sull'aria della pura logica. Il
 
 satirico è l'uomo che spinge l'entusiasmo degli uomini più in là di quanto essi lo spingano
 
@@ -11367,7 +11367,7 @@ esempio in questo libro. Perfino _Gulliver's Travels_ è appena più
 
 ragionevole dei viaggi di [[characters/martin-chuzzlewit|Martin Chuzzlewit]] nell'incredibile terra degli
 
-Americani. Prima di considerare l'[[Humour|umorismo]] di questa descrizione nei suoi
+Americani. Prima di considerare l'umorismo di questa descrizione nei suoi
 
 aspetti più esaustivi e generosi, si può anzitutto notare che in
 
@@ -11435,7 +11435,7 @@ se colui che scriveva si aspettasse la replica e fosse pronto con la controrepli
 
 Il resto del libro, come il resto dei libri di Dickens, possiede
 
-[[Humour|umorismo]]. Questa parte del libro, come quasi nessun libro di Dickens,
+umorismo. Questa parte del libro, come quasi nessun libro di Dickens,
 
 possiede arguzia. Il gentiluomo repubblicano che accoglie Martin allo sbarco
 
@@ -11492,7 +11492,7 @@ libation of [[concepts/freedom|freedom]] must sometimes be quaffed in [[motifs/b
 
 bright homes are the land of the settin' sun," that "they taunt that
 
-[[motifs/lion|lion]]," that "[[Alone|alone]] they dare him," or "that softly sleeps the calm ideal
+[[motifs/lion|lion]]," that "alone they dare him," or "that softly sleeps the calm ideal
 
 in the whispering chambers of [[concepts/imagination|imagination]]." I have read too much
 
@@ -11510,11 +11510,11 @@ or at least (admirable thought) a [[archetypes/lover|lover]]. Mr. Chollop had so
 
 his existence when he was not threatening his fellow-creatures with his
 
-[[Sword|sword]]-stick and his revolver. Of all this human side of such American
+sword-stick and his revolver. Of all this human side of such American
 
 types Dickens does not really give any hint at all. He does not suggest
 
-that the bully Chollop had even such coarse good-[[Humour|humour]] as bullies
+that the bully Chollop had even such coarse good-humour as bullies
 
 almost always have. He does not suggest that the humbug Elijah Pogram
 
@@ -11657,7 +11657,7 @@ libagione della [[concepts/freedom|libertà]] va talvolta tracannata nel [[motif
 
 fulgide case sono la terra del sol calante», che «sfidano quel
 
-[[motifs/lion|leone]]», che «[[Alone|soli]] lo affrontano», o «che dolcemente dorme il calmo ideale
+[[motifs/lion|leone]]», che «soli lo affrontano», o «che dolcemente dorme il calmo ideale
 
 nelle stanze sussurranti dell'[[concepts/imagination|immaginazione]]». Ho letto troppo
 
@@ -11675,11 +11675,11 @@ o almeno (pensiero mirabile) un [[archetypes/lover|amante]]. Mr. Chollop ebbe qu
 
 della sua esistenza in cui non minacciava i suoi simili con il
 
-bastone-[[Sword|spada]] e la rivoltella. Di tutto questo lato umano di tali tipi
+bastone-spada e la rivoltella. Di tutto questo lato umano di tali tipi
 
 americani Dickens non dà in realtà il minimo accenno. Non suggerisce
 
-che il prepotente Chollop avesse anche solo quel rozzo buon [[Humour|umore]] che i prepotenti
+che il prepotente Chollop avesse anche solo quel rozzo buon umore che i prepotenti
 
 hanno quasi sempre. Non suggerisce che l'impostore Elijah Pogram
 
@@ -11788,7 +11788,7 @@ sentimentalism is quite unnecessarily humanitarian and even maudlin. On
 
 the proper interweaving of these two things depends the great part of
 
-Dickens's [[success]] in a [[forms/novel|novel]]. And by the consideration of them we can
+Dickens's success in a [[forms/novel|novel]]. And by the consideration of them we can
 
 probably best arrive at the solution of the particular emotional enigma
 
@@ -11802,7 +11802,7 @@ _Martin Chuzzlewit_ more than anywhere else in Dickens's works, more
 
 even than in _Oliver Twist_, there is a predominance of the harsh and
 
-hostile sort of [[Humour|humour]] over the hilarious and the humane. It is absurd
+hostile sort of humour over the hilarious and the humane. It is absurd
 
 to lay down any such little rules for the testing of literature. But
 
@@ -11873,7 +11873,7 @@ sentimentalismo è del tutto inutilmente umanitario e persino lacrimoso. Dal
 
 giusto intreccio di queste due cose dipende gran parte del
 
-[[success|successo]] di Dickens in un [[forms/novel|romanzo]]. E proprio dalla loro considerazione possiamo
+successo di Dickens in un [[forms/novel|romanzo]]. E proprio dalla loro considerazione possiamo
 
 forse giungere nel modo migliore alla soluzione di quel particolare enigma emotivo
 
@@ -11887,7 +11887,7 @@ _Martin Chuzzlewit_ più che altrove nelle opere di Dickens, più
 
 ancora che in _Oliver Twist_, prevale la specie aspra e
 
-ostile dell'[[Humour|umorismo]] su quella ilare e umana. È assurdo
+ostile dell'umorismo su quella ilare e umana. È assurdo
 
 stabilire simili piccole regole per saggiare la letteratura. Ma
 
@@ -11954,7 +11954,7 @@ amusing even for Dickens, and who are both especially heartless and
 
 abominable even for Dickens--I mean of course Mr. Pecksniff on the one
 
-hand and Mrs. Gamp on the other. The [[Humour|humour]] of both of them is
+hand and Mrs. Gamp on the other. The humour of both of them is
 
 gigantesque. Nobody will ever forget the first [[motifs/time|time]] he read the words
 
@@ -11980,7 +11980,7 @@ object as much as [[motifs/love|love]]; but not in that way. Dickens is always m
 
 Pecksniff say things which have a wild poetical [[concepts/truth|truth]] about them. Hatred
 
-allows no such outbursts of original [[innocence]]. But however that may be
+allows no such outbursts of original innocence. But however that may be
 
 the broad fact remains--Dickens may or may not have loved Pecksniff
 
@@ -12016,7 +12016,7 @@ leave [[works/pickwick-(chesterton)|Pickwick]] a little while by the [[motifs/fi
 
 things that all men care for--old friends and old inns and [[motifs/memory|memory]] and
 
-the goodness of God. But we dare not leave Pecksniff [[Alone|alone]] for a moment.
+the goodness of God. But we dare not leave Pecksniff alone for a moment.
 
 We dare not leave him thinking by the [[motifs/fire|fire]], for the thoughts of
 
@@ -12125,7 +12125,7 @@ divertenti perfino per Dickens, e che sono al tempo stesso particolarmente spiet
 
 abominevoli perfino per Dickens — intendo naturalmente il signor Pecksniff da un
 
-lato e la signora Gamp dall'altro. L'[[Humour|umorismo]] di entrambi è
+lato e la signora Gamp dall'altro. L'umorismo di entrambi è
 
 gigantesco. Nessuno dimenticherà mai la prima [[motifs/time|volta]] che lesse le parole
 
@@ -12151,7 +12151,7 @@ oggetto quanto l'[[motifs/love|amore]]; ma non a quel modo. Dickens fa sempre di
 
 Pecksniff cose che hanno in sé una selvaggia [[concepts/truth|verità]] poetica. L'odio
 
-non consente simili slanci di [[innocence|innocenza]] originaria. Ma comunque sia,
+non consente simili slanci di innocenza originaria. Ma comunque sia,
 
 resta il fatto generale — che Dickens può aver amato o no Pecksniff
 
@@ -12187,7 +12187,7 @@ lasciare [[works/pickwick-(chesterton)|Pickwick]] un poco accanto al [[motifs/fi
 
 cose che stanno a cuore a tutti gli uomini — vecchi amici e vecchie locande e la [[motifs/memory|memoria]] e
 
-la bontà di Dio. Ma non osiamo lasciare Pecksniff [[Alone|solo]] un solo istante.
+la bontà di Dio. Ma non osiamo lasciare Pecksniff solo un solo istante.
 
 Non osiamo lasciarlo a pensare accanto al [[motifs/fire|fuoco]], perché i pensieri di
 
@@ -12386,7 +12386,7 @@ think, be dismissed. Then there has been another method which has been
 
 adopted by many men of a very real poetical genius. It was the method of
 
-the old [[Pastoral|pastoral]] poets like Theocritus. It was in another way that
+the old pastoral poets like Theocritus. It was in another way that
 
 adopted by the elegance and piety of Spenser. It was certainly expressed
 
@@ -12558,7 +12558,7 @@ Pensare… e poi essere scartati. Esiste anche un altro metodo che…
 
 Adottato da molti uomini di vero genio poetico… Era questo il metodo utilizzato.
 
-I vecchi poeti [[Pastoral|pastorali]], come Teocrito. In un altro senso, era così che.
+I vecchi poeti pastorali, come Teocrito. In un altro senso, era così che.
 
 Titolo:  
 Adottato dall’eleganza e dalla pietà di Spenser… Sicuramente espresso con grande maestria.
@@ -12652,7 +12652,7 @@ possible, as a household does when a [[archetypes/child|child]] is actually bein
 
 The thing is a vigil and a vigil with a definite limit. People sit up at
 
-[[motifs/night|night]] until they hear [[The Bells|the bells]] ring. Or they try to [[motifs/sleep|sleep]] at [[motifs/night|night]] in
+[[motifs/night|night]] until they hear the bells ring. Or they try to [[motifs/sleep|sleep]] at [[motifs/night|night]] in
 
 order to see their presents the next morning. Everywhere there is a
 
@@ -12680,7 +12680,7 @@ Christmas.
 
 The second element to be found in all such festivity and all such
 
-[[Romance|romance]] is the element which is represented as [[motifs/well|well]] as it could be
+romance is the element which is represented as [[motifs/well|well]] as it could be
 
 represented by the mere fact that Christmas occurs in the [[motifs/winter|winter]]. It is
 
@@ -12760,7 +12760,7 @@ turnip [[motifs/ghosts|ghosts]]. But one would not be allowed (I [[concepts/hope
 
 family) to talk on Christmas Eve about astral bodies. The boar's head of
 
-old Yule-[[motifs/time|time]] was as [[concepts/grotesque|grotesque]] as the [[donkey]]'s head of [[characters/bottom|Bottom]] the
+old Yule-[[motifs/time|time]] was as [[concepts/grotesque|grotesque]] as the donkey's head of [[characters/bottom|Bottom]] the
 
 Weaver. But there is only one set of goblins quite wild enough to
 
@@ -12823,7 +12823,7 @@ possibile, ciò che sente una casa quando vi sta davvero nascendo un [[archetype
 
 La cosa è una veglia, e una veglia con un limite preciso. La gente resta alzata
 
-di [[motifs/night|notte]] finché non sente suonare [[The Bells|le campane]]. Oppure cerca di [[motifs/sleep|dormire]] la [[motifs/night|notte]] per
+di [[motifs/night|notte]] finché non sente suonare le campane. Oppure cerca di [[motifs/sleep|dormire]] la [[motifs/night|notte]] per
 
 poter vedere i propri regali il mattino dopo. Dappertutto c'è una
 
@@ -12851,7 +12851,7 @@ il Natale.
 
 Il secondo elemento che si trova in tutte queste festività e in tutto questo
 
-[[Romance|romanzesco]] è quell'elemento che è rappresentato tanto [[motifs/well|bene]] quanto sia possibile
+romanzesco è quell'elemento che è rappresentato tanto [[motifs/well|bene]] quanto sia possibile
 
 rappresentarlo dal semplice fatto che il Natale cade d'[[motifs/winter|inverno]]. È
 
@@ -12931,7 +12931,7 @@ folletti. La vigilia di Natale si può parlare di [[motifs/ghosts|fantasmi]] pur
 
 decente) parlare la vigilia di Natale di corpi astrali. La testa di cinghiale
 
-dell'antico [[motifs/time|tempo]] di Yule era [[concepts/grotesque|grottesca]] quanto la testa d'[[donkey|asino]] di [[characters/bottom|Bottom]] il
+dell'antico [[motifs/time|tempo]] di Yule era [[concepts/grotesque|grottesca]] quanto la testa d'asino di [[characters/bottom|Bottom]] il
 
 Tessitore. Ma c'è un solo gruppo di folletti abbastanza selvaggio da
 
@@ -13080,7 +13080,7 @@ are really quite formless, and both of them are really quite new. The
 
 difference between a good [[forms/epic|epic]] by Mr. John [[historical-references/milton|Milton]] and a bad [[forms/epic|epic]] by Mr.
 
-John [[smith|Smith]] was simply the difference between the same thing done [[motifs/well|well]]
+John Smith was simply the difference between the same thing done [[motifs/well|well]]
 
 and the same thing done badly. But it was not (for instance) like the
 
@@ -13100,7 +13100,7 @@ nonsense, as the cheap reactionaries say; it is a belief in variety and
 
 growth. But it is a purely poetic and even a merely romantic belief. The
 
-nineteenth century was an age of [[Romance|romance]] as certainly as the Middle Ages
+nineteenth century was an age of romance as certainly as the Middle Ages
 
 was an age of reason. Mediævals liked to have everything defined and
 
@@ -13249,7 +13249,7 @@ sono in realtà del tutto informi, ed entrambe sono in realtà del tutto nuove. 
 
 differenza tra una buona [[forms/epic|epopea]] del signor John [[historical-references/milton|Milton]] e una cattiva [[forms/epic|epopea]] del signor
 
-John [[smith|Smith]] era semplicemente la differenza tra la stessa cosa fatta [[motifs/well|bene]]
+John Smith era semplicemente la differenza tra la stessa cosa fatta [[motifs/well|bene]]
 
 e la stessa cosa fatta male. Ma non era (per esempio) come la
 
@@ -13269,7 +13269,7 @@ sciocchezza, come dicono i reazionari da quattro soldi; è una fiducia nella var
 
 crescita. Ma è una fiducia puramente poetica e persino meramente romantica. L'
 
-Ottocento fu un'età del [[Romance|romanzesco]] con la stessa certezza con cui il Medioevo
+Ottocento fu un'età del romanzesco con la stessa certezza con cui il Medioevo
 
 fu un'età della ragione. I medievali amavano che tutto fosse definito e
 
@@ -13332,9 +13332,9 @@ that the first impulse is a landscape, the atmosphere of some special
 
 countryside. In another [[forms/novel|novel]] he will find that the first impulse is the
 
-last chapter. Or it may be a thrust with [[Sword|sword]] or dagger, it may be a
+last chapter. Or it may be a thrust with sword or dagger, it may be a
 
-theology, it may be a [[Song|song]]. Somewhere embedded in every ordinary book
+theology, it may be a song. Somewhere embedded in every ordinary book
 
 are the five or six words for which really all the rest will be written.
 
@@ -13368,7 +13368,7 @@ right to make his heroes and outlaws and great kings speak at the great
 
 moments with a rhetoric so rhythmical that it partakes of the [[concepts/nature|nature]] of
 
-[[Song|song]], the same quite metrical rhetoric which is used in the metrical
+song, the same quite metrical rhetoric which is used in the metrical
 
 speeches of Marmion or Roderick Dhu. In the same way, although _Don
 
@@ -13501,9 +13501,9 @@ che il primo impulso è un paesaggio, l'atmosfera di una particolare
 
 campagna. In un altro [[forms/novel|romanzo]] scoprirà che il primo impulso è
 
-l'ultimo capitolo. Oppure può essere un affondo di [[Sword|spada]] o di pugnale, può essere una
+l'ultimo capitolo. Oppure può essere un affondo di spada o di pugnale, può essere una
 
-teologia, può essere una [[Song|canzone]]. Da qualche parte, dentro ogni libro comune,
+teologia, può essere una canzone. Da qualche parte, dentro ogni libro comune,
 
 stanno le cinque o sei parole per cui davvero sarà scritto tutto il resto.
 
@@ -13537,7 +13537,7 @@ diritto di far parlare i suoi eroi, i suoi fuorilegge e i suoi grandi re, nei gr
 
 momenti, con una retorica così ritmica da partecipare della [[concepts/nature|natura]] del
 
-[[Song|canto]], la stessa retorica del tutto metrica che è usata nei discorsi
+canto, la stessa retorica del tutto metrica che è usata nei discorsi
 
 metrici di Marmion o di Roderick Dhu. Allo stesso modo, benché il _Don
 
@@ -13698,7 +13698,7 @@ fall into. [[settings/america|America]] is only a place to which [[characters/ma
 
 go. These things are isolated sketches, and nothing else. Even Todgers's
 
-boarding-[[house]] is only a place where Mr. Pecksniff can be delightfully
+boarding-house is only a place where Mr. Pecksniff can be delightfully
 
 hypocritical. It is not a place which throws any new light on Mr.
 
@@ -13798,7 +13798,7 @@ Broadly speaking, what is said here of Mrs. Skewton applies to the great
 
 part of _Dombey and Son_, even to the comic part of it. It shows an
 
-advance in art and [[unity]]; it does not show an advance in genius and
+advance in art and unity; it does not show an advance in genius and
 
 creation. In some cases, in fact, I cannot help feeling that it shows a
 
@@ -13863,7 +13863,7 @@ cadere. L'[[settings/america|America]] è soltanto un luogo dove [[characters/ma
 
 andare. Queste cose sono schizzi isolati, e nient'altro. Perfino la
 
-[[house|pensione]] di Todgers è soltanto un luogo dove il signor Pecksniff può essere deliziosamente
+pensione di Todgers è soltanto un luogo dove il signor Pecksniff può essere deliziosamente
 
 ipocrita. Non è un luogo che getti nuova luce sull'ipocrisia del signor
 
@@ -13963,7 +13963,7 @@ In linea di massima, quanto si è detto qui della signora Skewton vale per gran
 
 parte di _Dombey e Figlio_, perfino per la sua parte comica. Mostra un
 
-progresso nell'arte e nell'[[unity|unità]]; non mostra un progresso nel genio e nella
+progresso nell'arte e nell'unità; non mostra un progresso nel genio e nella
 
 creazione. In alcuni casi, anzi, non posso fare a meno di sentire che mostra un
 
@@ -14058,7 +14058,7 @@ realities of English aristocracy. Of these Cousin Feenix is one of the
 
 best. Cousin Feenix is a much better [[forms/sketch|sketch]] of the essentially decent
 
-and chivalrous [[aristocrat]] than [[characters/sir-leicester-dedlock|Sir Leicester Dedlock]]. Both of the men
+and chivalrous aristocrat than [[characters/sir-leicester-dedlock|Sir Leicester Dedlock]]. Both of the men
 
 are, if you will, fools, as both are honourable gentlemen. But if one
 
@@ -14158,7 +14158,7 @@ to the very helpless [[motifs/soul|soul]] of aristocracy. Take again the stupend
 
 gravity with which he leads up to a joke. That is the very [[motifs/soul|soul]] of the
 
-[[house|House]] of Commons and the Cabinet, of the high-class English politics,
+House of Commons and the Cabinet, of the high-class English politics,
 
 where a joke is always enjoyed solemnly. Take his insistence upon the
 
@@ -14227,7 +14227,7 @@ realtà dell'aristocrazia inglese. Fra questi il cugino Feenix è uno dei
 
 migliori. Il cugino Feenix ritrae in uno [[forms/sketch|schizzo]] l'essenzialmente perbene
 
-e cavalleresco [[aristocrat|aristocratico]] molto meglio di [[characters/sir-leicester-dedlock|Sir Leicester Dedlock]]. Entrambi gli uomini
+e cavalleresco aristocratico molto meglio di [[characters/sir-leicester-dedlock|Sir Leicester Dedlock]]. Entrambi gli uomini
 
 sono, se volete, sciocchi, così come entrambi sono gentiluomini d'onore. Ma se si
 
@@ -14327,7 +14327,7 @@ fino all'[[motifs/soul|anima]] più indifesa dell'aristocrazia. Si prenda ancora
 
 gravità con cui prepara una battuta. Quella è proprio l'[[motifs/soul|anima]] della
 
-[[house|Camera]] dei Comuni e del Gabinetto, dell'alta politica inglese,
+Camera dei Comuni e del Gabinetto, dell'alta politica inglese,
 
 dove una battuta si assapora sempre solennemente. Si prenda la sua insistenza sul
 
@@ -14338,7 +14338,7 @@ dove una battuta si assapora sempre solennemente. Si prenda la sua insistenza su
 
 technique of Parliament, his regrets for the [[motifs/time|time]] when the rules of
 
-[[debate]] were perhaps better observed than they are now. Take that
+debate were perhaps better observed than they are now. Take that
 
 wonderful mixture in him (which is the real human virtue of our
 
@@ -14360,7 +14360,7 @@ express with such astonishing insight and [[concepts/truth|truth]] his main cont
 
 which is that to be good and idiotic is not a poor fate, but, on the
 
-contrary, an experience of primeval [[innocence]], which wonders at all
+contrary, an experience of primeval innocence, which wonders at all
 
 things. Dickens did not know, anymore than any great man ever knows,
 
@@ -14513,7 +14513,7 @@ we justly admired in its own place and on its own terms, but which we
 
 tecnica del Parlamento, i suoi rimpianti per il [[motifs/time|tempo]] in cui le regole del
 
-[[debate|dibattito]] erano forse osservate meglio di quanto lo siano ora. Si prenda quella
+dibattito erano forse osservate meglio di quanto lo siano ora. Si prenda quella
 
 meravigliosa mescolanza che è in lui (e che è la vera virtù umana della nostra
 
@@ -14535,7 +14535,7 @@ espresse con tanto sorprendente acume e [[concepts/truth|verità]] la sua tesi p
 
 e cioè che essere buoni e idioti non è una sorte misera, ma, al
 
-contrario, un'esperienza di [[innocence|innocenza]] primigenia, che si stupisce di tutte
+contrario, un'esperienza di innocenza primigenia, che si stupisce di tutte
 
 le cose. Dickens non sapeva, non più di quanto lo sappia mai un grande uomo,
 
@@ -14710,7 +14710,7 @@ emigration? He seems to think that he can cure the souls of a whole
 
 cartload, or rather boatload, of his characters by sending them all
 
-to the Colonies. Peggotty is a desolate and insulted parent whose [[house]]
+to the Colonies. Peggotty is a desolate and insulted parent whose house
 
 has been desecrated and his [[concepts/pride|pride]] laid low; therefore let him go to
 
@@ -14846,7 +14846,7 @@ of spiritualised and sublimated [[motifs/marriage|marriage]] of convenience. For
 
 readers of Dickens Dora is thoroughly avenged. The modern world (intent
 
-on anarchy in everything, even in [[government|Government]]) refuses to perceive the
+on anarchy in everything, even in Government) refuses to perceive the
 
 permanent element of tragic constancy which inheres in all passion, and
 
@@ -14881,7 +14881,7 @@ Emigrazione? Sembra pensare di poter guarire le anime di intere persone…
 Titolo:  
 Un carico intero… o meglio, un carico di personaggi… inviandoli tutti insieme.
 
-Verso le colonie. Peggotty è un genitore desolato e offeso, la cui [[house|>casa]].
+Verso le colonie. Peggotty è un genitore desolato e offeso, la cui >casa.
 
 È stato profanato e la sua [[concepts/pride|orgoglio]] è stata umiliata; pertanto, lasciatelo andare.
 
@@ -15023,7 +15023,7 @@ Di un [[motifs/marriage|matrimonio]] di convenienza, ma spiritualizzato e sublim
 
 “Lettori di Dickens: Dora è finalmente vendicata. Il mondo moderno…”
 
-Sull’anarchia in tutto, anche nel [[government|Governo]], si rifiuta di rendersi conto.
+Sull’anarchia in tutto, anche nel Governo, si rifiuta di rendersi conto.
 
 Elemento permanente di una costanza tragica che è insito in tutte le passioni…
 
@@ -15106,7 +15106,7 @@ heart, keep deep in your inner councils the absurd people. Let the
 
 clever people pretend to govern you, let the unimpeachable people
 
-pretend to advise you, but let the fools [[Alone|alone]] influence you; let the
+pretend to advise you, but let the fools alone influence you; let the
 
 laughable people whose faults you see and understand be the only people
 
@@ -15130,7 +15130,7 @@ I repeat, then, that this wrong ending of _David Copperfield_ is one of
 
 the very few examples in Dickens of a real symptom of fatigue. Having
 
-created splendid beings for whom [[Alone|alone]] life might be worth living, he
+created splendid beings for whom alone life might be worth living, he
 
 cannot endure the thought of his [[archetypes/hero|hero]] living with them. Having given his
 
@@ -15277,7 +15277,7 @@ cuore, tieni nel profondo dei tuoi consigli intimi le persone assurde. Lascia ch
 
 le persone intelligenti fingano di governarti, lascia che le persone irreprensibili
 
-fingano di consigliarti, ma lascia che siano [[Alone|soltanto]] gli sciocchi a influenzarti; lascia che
+fingano di consigliarti, ma lascia che siano soltanto gli sciocchi a influenzarti; lascia che
 
 le persone ridicole di cui vedi e comprendi i difetti siano le uniche persone
 
@@ -15301,7 +15301,7 @@ Ripeto, dunque, che questo errato finale di _David Copperfield_ è uno dei
 
 pochissimi esempi, in Dickens, di un vero sintomo di stanchezza. Avendo
 
-creato esseri splendidi per i quali [[Alone|soltanto]] la vita potrebbe valere la pena di essere vissuta, egli
+creato esseri splendidi per i quali soltanto la vita potrebbe valere la pena di essere vissuta, egli
 
 non riesce a sopportare il pensiero del suo [[archetypes/hero|eroe]] che vive con loro. Avendo dato al suo
 
@@ -15540,7 +15540,7 @@ wanted everybody to see things as he saw them. But in spite of all this
 
 he certainly ran two great popular periodicals--_Household Words_ and
 
-_All the Year Round_--with enormous popular [[success]]. And he certainly so
+_All the Year Round_--with enormous popular success. And he certainly so
 
 far succeeded in throwing himself into the communism of journalism, into
 
@@ -15861,7 +15861,7 @@ pegs as is desirable for the future comfort of all parties." If Dickens
 
 had developed this character at full length in a book he would have
 
-preserved for ever in literature a type of great [[Humour|humour]] and great value,
+preserved for ever in literature a type of great humour and great value,
 
 and a type which may only too soon be disappearing from English [[concepts/history|history]].
 
@@ -15885,7 +15885,7 @@ true height and ecstasy of his solemnity except about wine. What the
 
 real English waiter would do or say if Mr. [[works/shaw-(chesterton)|Shaw]] asked him for a
 
-[[vegetarian]] meal I cannot dare to predict. I rather think that for the
+vegetarian meal I cannot dare to predict. I rather think that for the
 
 first [[motifs/time|time]] in his life he would laugh--a horrible sight.
 
@@ -16032,7 +16032,7 @@ gradini quanti sono desiderabili per il futuro benessere di tutte le parti». Se
 
 avesse sviluppato questo personaggio per esteso in un libro avrebbe
 
-conservato per sempre nella letteratura un tipo di grande [[Humour|umorismo]] e grande valore,
+conservato per sempre nella letteratura un tipo di grande umorismo e grande valore,
 
 e un tipo che fin troppo presto potrebbe scomparire dalla [[concepts/history|storia]] inglese.
 
@@ -16056,7 +16056,7 @@ vera altezza ed estasi della sua solennità se non a proposito del vino. Che cos
 
 il vero cameriere inglese farebbe o direbbe se il signor [[works/shaw-(chesterton)|Shaw]] gli chiedesse un
 
-pasto [[vegetarian|vegetariano]] non oso predire. Piuttosto credo che per la
+pasto vegetariano non oso predire. Piuttosto credo che per la
 
 prima [[motifs/time|volta]] in vita sua riderebbe — uno spettacolo orribile.
 
@@ -16125,7 +16125,7 @@ function, that of insisting through laughter and flippancy upon the
 
 virtue of Christian [[concepts/charity|charity]]. There has been much broad farce against the
 
-lodging-[[house]] keeper: he [[Alone|alone]] could have written broad farce in her
+lodging-house keeper: he alone could have written broad farce in her
 
 favour. It is fashionable to represent the landlady as a [[archetypes/tyrant|tyrant]]; it is
 
@@ -16147,21 +16147,21 @@ Wozenham. But in Mrs. Lirriper he went further and did not fare worse.
 
 In Mrs. Lirriper he suggested quite truly how huge a mass of real good
 
-[[Humour|humour]], of grand unconscious patience, of unfailing courtesy and
+humour, of grand unconscious patience, of unfailing courtesy and
 
 constant and difficult benevolence is concealed behind many a
 
-lodging-[[house]] door and compact in the red-faced person of many a
+lodging-house door and compact in the red-faced person of many a
 
-preposterous landlady. Any one could easily excuse the ill-[[Humour|humour]] of the
+preposterous landlady. Any one could easily excuse the ill-humour of the
 
-poor. But great masses of the poor have not even any ill-[[Humour|humour]] to be
+poor. But great masses of the poor have not even any ill-humour to be
 
 excused. Their cheeriness is startling enough to be the foundation of a
 
 miracle play; and certainly is startling enough to be the foundation of
 
-a [[Romance|romance]]. Yet I do not know of any [[Romance|romance]] in which it is expressed
+a romance. Yet I do not know of any romance in which it is expressed
 
 except this one.
 
@@ -16193,7 +16193,7 @@ Bardell (another and lesser landlady) she was fully worthy to be Mrs.
 
 [[works/pickwick-(chesterton)|Pickwick]]. For in both cases the essential [[concepts/truth|truth]] is the same; that
 
-original [[innocence]] which [[Alone|alone]] deserves adventures and because it [[Alone|alone]]
+original innocence which alone deserves adventures and because it alone
 
 can appreciate them. We have had Mr. [[works/pickwick-(chesterton)|Pickwick]] in England and we can
 
@@ -16205,7 +16205,7 @@ modern novels we cannot really imagine anywhere except in the suburbs or
 
 in Limbo.
 
-BLEAK [[house|HOUSE]]
+BLEAK HOUSE
 
 _Bleak House_ is not certainly Dickens's best book; but perhaps it is
 
@@ -16298,7 +16298,7 @@ funzione morale, quella d'insistere, tra il riso e la leggerezza, sulla
 
 virtù della [[concepts/charity|carità]] cristiana. Molta grossa farsa è stata scritta contro la
 
-padrona di [[house|pensione]]: egli [[Alone|solo]] avrebbe potuto scrivere grossa farsa in suo
+padrona di pensione: egli solo avrebbe potuto scrivere grossa farsa in suo
 
 favore. È di moda rappresentare la locandiera come una [[archetypes/tyrant|tiranna]]; si
 
@@ -16320,21 +16320,21 @@ Wozenham. Ma nella signora Lirriper si spinse oltre, e non se ne trovò peggio.
 
 Nella signora Lirriper suggerì con piena verità quale enorme massa di autentico buon
 
-[[Humour|umore]], di grande pazienza inconsapevole, di infallibile cortesia e
+umore, di grande pazienza inconsapevole, di infallibile cortesia e
 
 di costante e ardua benevolenza si celi dietro più d'una
 
-porta di [[house|pensione]] e stia raccolta nella persona dal volto rubizzo di più d'una
+porta di pensione e stia raccolta nella persona dal volto rubizzo di più d'una
 
-sconclusionata locandiera. Chiunque potrebbe facilmente scusare il mal[[Humour|umore]] dei
+sconclusionata locandiera. Chiunque potrebbe facilmente scusare il malumore dei
 
-poveri. Ma grandi masse di poveri non hanno neppure un mal[[Humour|umore]] da
+poveri. Ma grandi masse di poveri non hanno neppure un malumore da
 
 scusare. La loro allegria è abbastanza sorprendente da essere il fondamento di una
 
 sacra rappresentazione; ed è certo abbastanza sorprendente da essere il fondamento di
 
-un [[Romance|romanzo]]. Eppure non conosco alcun [[Romance|romanzo]] in cui essa sia espressa
+un romanzo. Eppure non conosco alcun romanzo in cui essa sia espressa
 
 tranne questo.
 
@@ -16366,7 +16366,7 @@ Bardell (un'altra e minore locandiera), ella era pienamente degna di essere la s
 
 [[works/pickwick-(chesterton)|Pickwick]]. Poiché in entrambi i casi la [[concepts/truth|verità]] essenziale è la stessa; quella
 
-[[innocence|innocenza]] originaria che [[Alone|sola]] merita le avventure e che, [[Alone|sola]], poiché
+innocenza originaria che sola merita le avventure e che, sola, poiché
 
 sa apprezzarle. Abbiamo avuto il signor [[works/pickwick-(chesterton)|Pickwick]] in Inghilterra e possiamo
 
@@ -16378,7 +16378,7 @@ romanzi moderni non lo possiamo davvero immaginare in alcun luogo, tranne che ne
 
 nel Limbo.
 
-CASA [[house|DESOLATA]]
+CASA DESOLATA
 
 _Casa desolata_ non è certo il libro migliore di Dickens; ma forse è
 
@@ -16429,9 +16429,9 @@ force into order. Like Napoleon, he had a victorious army almost before
 
 he had an army. After his decisive victories Napoleon began to put his
 
-[[house]] in order; after his decisive victories Dickens also began to put
+house in order; after his decisive victories Dickens also began to put
 
-his [[house]] in order. The [[house]], when he had put it in order, was _Bleak
+his house in order. The house, when he had put it in order, was _Bleak
 
 House_.
 
@@ -16535,17 +16535,17 @@ does not go straggling irregularly all over England like one of Mr.
 
 from one place to another place on the [[motifs/road|road]] to everywhere else. Mr.
 
-Jarndyce goes from Bleak [[house|House]] to visit Mr. Boythorn; but he comes back
+Jarndyce goes from Bleak House to visit Mr. Boythorn; but he comes back
 
-to Bleak [[house|House]]. Miss Clare and Miss Summerson go from Bleak [[house|House]] to
+to Bleak House. Miss Clare and Miss Summerson go from Bleak House to
 
-visit Mr. and Mrs. Bayham Badger; but they come back to Bleak [[house|House]]. The
+visit Mr. and Mrs. Bayham Badger; but they come back to Bleak House. The
 
-whole story strays from Bleak [[house|House]] and plunges into the foul fogs of
+whole story strays from Bleak House and plunges into the foul fogs of
 
 Chancery and the [[motifs/autumn|autumn]] mists of Chesney Wold; but the whole story comes
 
-back to Bleak [[house|House]]. The domestic title is appropriate; it is a
+back to Bleak House. The domestic title is appropriate; it is a
 
 permanent address.
 
@@ -16598,9 +16598,9 @@ costringere all'ordine. Come Napoleone, ebbe un esercito vittorioso quasi prima
 
 di avere un esercito. Dopo le sue vittorie decisive Napoleone cominciò a mettere in ordine la propria
 
-[[house|casa]]; dopo le sue vittorie decisive anche Dickens cominciò a mettere in ordine
+casa; dopo le sue vittorie decisive anche Dickens cominciò a mettere in ordine
 
-la propria [[house|casa]]. La [[house|casa]], una volta messa in ordine, era _Casa
+la propria casa. La casa, una volta messa in ordine, era _Casa
 
 desolata_.
 
@@ -16704,17 +16704,17 @@ si sparpaglia irregolarmente per tutta l'Inghilterra come una delle carrozze del
 
 da un luogo a un altro luogo sulla [[motifs/road|strada]] verso ogni altro posto. Il signor
 
-Jarndyce va da [[house|Casa]] Desolata a far visita al signor Boythorn; ma torna
+Jarndyce va da Casa Desolata a far visita al signor Boythorn; ma torna
 
-a [[house|Casa]] Desolata. La signorina Clare e la signorina Summerson vanno da [[house|Casa]] Desolata a
+a Casa Desolata. La signorina Clare e la signorina Summerson vanno da Casa Desolata a
 
-far visita al signore e alla signora Bayham Badger; ma tornano a [[house|Casa]] Desolata. L'intera
+far visita al signore e alla signora Bayham Badger; ma tornano a Casa Desolata. L'intera
 
-storia si allontana da [[house|Casa]] Desolata e si tuffa nelle sudicie nebbie della
+storia si allontana da Casa Desolata e si tuffa nelle sudicie nebbie della
 
 Cancelleria e nelle brume [[motifs/autumn|autunnali]] di Chesney Wold; ma l'intera storia
 
-torna a [[house|Casa]] Desolata. Il titolo domestico è appropriato; è un
+torna a Casa Desolata. Il titolo domestico è appropriato; è un
 
 indirizzo permanente.
 
@@ -16799,13 +16799,13 @@ means the [[forms/tragedy|tragedy]] of Chancery. Little Jo dies pathetically lik
 
 Paul; but for the [[motifs/death|death]] of Little Paul we can only blame Dickens; for
 
-the [[motifs/death|death]] of Little Jo we blame Chancery. Thus the artistic [[unity]] of the
+the [[motifs/death|death]] of Little Jo we blame Chancery. Thus the artistic unity of the
 
 book, compared to all the author's earlier novels, is satisfying, almost
 
 suffocating. There is the _motif_, and again the _motif_. Almost
 
-everything is calculated to assert and re-assert the savage [[morality]] of
+everything is calculated to assert and re-assert the savage morality of
 
 Dickens's protest against a particular social evil. The whole theme is
 
@@ -16825,7 +16825,7 @@ of the fastidious critics have, in the quite strict and solid sense of
 
 the words, never read Dickens at all; hence their opposition is due to
 
-and inspired by a hearty [[innocence]] which will certainly make them
+and inspired by a hearty innocence which will certainly make them
 
 enthusiastic Dickensians if they ever, by some accident, happen to read
 
@@ -16964,13 +16964,13 @@ significa la [[forms/tragedy|tragedia]] della Cancelleria. Il piccolo Jo muore p
 
 Paul; ma della [[motifs/death|morte]] del piccolo Paul possiamo incolpare soltanto Dickens; della
 
-[[motifs/death|morte]] del piccolo Jo incolpiamo la Cancelleria. Così l'[[unity|unità]] artistica del
+[[motifs/death|morte]] del piccolo Jo incolpiamo la Cancelleria. Così l'unità artistica del
 
 libro, rispetto a tutti i romanzi precedenti dell'autore, è soddisfacente, quasi
 
 soffocante. C'è il _motif_, e di nuovo il _motif_. Quasi
 
-tutto è calcolato per affermare e riaffermare la selvaggia [[morality|moralità]] della
+tutto è calcolato per affermare e riaffermare la selvaggia moralità della
 
 protesta di Dickens contro un particolare male sociale. L'intero tema è
 
@@ -16990,7 +16990,7 @@ dei critici schizzinosi, nel senso del tutto stretto e concreto delle
 
 parole, non ha mai letto Dickens; perciò la loro opposizione è dovuta a
 
-e ispirata da una cordiale [[innocence|innocenza]] che li renderà certamente
+e ispirata da una cordiale innocenza che li renderà certamente
 
 entusiasti dickensiani se mai, per qualche caso, capitasse loro di leggerlo.
 
@@ -17135,7 +17135,7 @@ Dickens at his best in his old and more familiar satiric manner. But in
 
 the midst of the Jellyby pandemonium, which is in itself described with
 
-the same _abandon_ and irrelevance as the boarding-[[house]] of Mrs. Todgers
+the same _abandon_ and irrelevance as the boarding-house of Mrs. Todgers
 
 or the travelling theatre of Mr. Crummles, the elder Dickens introduced
 
@@ -17181,7 +17181,7 @@ somewhat quieter kind, though none of them are so subtly successful as
 
 Rick Carstone and Caddy. [[characters/harold-skimpole|Harold Skimpole]] begins as a [[forms/sketch|sketch]] drawn with a
 
-pencil almost as airy and fanciful as his own. The [[Humour|humour]] of the earlier
+pencil almost as airy and fanciful as his own. The humour of the earlier
 
 scenes is delightful--the scenes in which Skimpole looks on at other
 
@@ -17241,7 +17241,7 @@ Leicester Dedlock and Mr. [[characters/harold-skimpole|Harold Skimpole]] are ali
 
 royal unconsciousness the anomaly and evil of their position. But the
 
-idleness and insolence of the [[aristocrat]] is human and humble compared to
+idleness and insolence of the aristocrat is human and humble compared to
 
 the idleness and insolence of the [[archetypes/artist|artist]].
 
@@ -17304,7 +17304,7 @@ Dickens al suo meglio nella sua vecchia e più familiare maniera satirica. Ma in
 
 mezzo al pandemonio dei Jellyby, che è di per sé descritto con
 
-lo stesso _abbandono_ e la stessa irrilevanza della [[house|pensione]] della signora Todgers
+lo stesso _abbandono_ e la stessa irrilevanza della pensione della signora Todgers
 
 o del teatro ambulante del signor Crummles, il Dickens più maturo introdusse
 
@@ -17350,7 +17350,7 @@ specie alquanto più sommessa, benché nessuno di essi sia così sottilmente riu
 
 Rick Carstone e Caddy. [[characters/harold-skimpole|Harold Skimpole]] comincia come uno [[forms/sketch|schizzo]] tracciato con una
 
-matita quasi tanto aerea e capricciosa quanto la sua stessa persona. L'[[Humour|umorismo]] delle scene precedenti
+matita quasi tanto aerea e capricciosa quanto la sua stessa persona. L'umorismo delle scene precedenti
 
 è delizioso: le scene in cui Skimpole assiste ad altre
 
@@ -17410,7 +17410,7 @@ Leicester Dedlock e il signor [[characters/harold-skimpole|Harold Skimpole]] si 
 
 regale inconsapevolezza l'anomalia e il male della loro posizione. Ma la
 
-oziosità e l'insolenza dell'[[aristocrat|aristocratico]] sono umane e umili paragonate alla
+oziosità e l'insolenza dell'aristocratico sono umane e umili paragonate alla
 
 oziosità e all'insolenza dell'[[archetypes/artist|artista]].
 
@@ -17459,9 +17459,9 @@ of Scott. Without this one insignificant book we should not see his
 
 significance. For the [[concepts/truth|truth]] was that Scott loved [[concepts/history|history]] more than
 
-[[Romance|romance]], because he was so constituted as to find it more romantic than
+romance, because he was so constituted as to find it more romantic than
 
-[[Romance|romance]]. He preferred the deeds of Wallace and Douglas to those of
+romance. He preferred the deeds of Wallace and Douglas to those of
 
 Marmion and Ivanhoe. Therefore his garrulous gossip of old times, his
 
@@ -17469,7 +17469,7 @@ rambles in dead centuries, give us the real material and impulse of all
 
 his work; they represent the quarry in which he dug and the food on
 
-which he fed. Almost [[Alone|alone]] among novelists Scott actually preferred
+which he fed. Almost alone among novelists Scott actually preferred
 
 those parts of his historical novels which he had not invented himself.
 
@@ -17587,7 +17587,7 @@ unmeaning, often accidental, and nearly always unfair. Thus, for
 
 instance, a fierce and fighting penal code, which had been perfectly
 
-natural when the robbers were as strong as the [[government|Government]], had become in
+natural when the robbers were as strong as the Government, had become in
 
 more ordered times nothing but a base and bloody habit. Thus again
 
@@ -17630,9 +17630,9 @@ di Scott. Senza questo unico libro insignificante non ne vedremmo il
 
 significato. Ché la [[concepts/truth|verità]] era che Scott amava la [[concepts/history|storia]] più del
 
-[[Romance|romanzo]], perché era così fatto da trovarla più romanzesca del
+romanzo, perché era così fatto da trovarla più romanzesca del
 
-[[Romance|romanzo]] stesso. Preferiva le gesta di Wallace e di Douglas a quelle di
+romanzo stesso. Preferiva le gesta di Wallace e di Douglas a quelle di
 
 Marmion e di Ivanhoe. Perciò le sue ciarliere chiacchiere sui tempi antichi, le sue
 
@@ -17640,7 +17640,7 @@ divagazioni per secoli morti, ci danno il vero materiale e l'impulso di tutta
 
 la sua opera; rappresentano la cava in cui scavò e il cibo di
 
-cui si nutrì. Quasi [[Alone|solo]] fra i romanzieri Scott preferì davvero
+cui si nutrì. Quasi solo fra i romanzieri Scott preferì davvero
 
 quelle parti dei suoi romanzi storici che non aveva inventato lui stesso.
 
@@ -17758,7 +17758,7 @@ privo di senso, spesso accidentale e quasi sempre iniquo. Così, per
 
 esempio, un feroce e battagliero codice penale, che era stato perfettamente
 
-naturale quando i briganti erano forti quanto il [[government|Governo]], era divenuto in
+naturale quando i briganti erano forti quanto il Governo, era divenuto in
 
 tempi più ordinati nient'altro che una vile e sanguinaria abitudine. Così ancora
 
@@ -17883,7 +17883,7 @@ that they wrongly enforce the fixed principle that life should be saved;
 
 it is that they take a [[motifs/fire|fire]]-engine to a shipwreck and a lifeboat to a
 
-[[house]] on [[motifs/fire|fire]]. The business of a good man in Dickens's [[motifs/time|time]] was to bring
+house on [[motifs/fire|fire]]. The business of a good man in Dickens's [[motifs/time|time]] was to bring
 
 justice up to date. The business of a good man in Dunstan's [[motifs/time|time]] was to
 
@@ -18050,7 +18050,7 @@ che essi impongano a torto il principio fisso che la vita dev'essere salvata;
 
 è che portano una pompa da [[motifs/fire|incendio]] a un naufragio e una scialuppa di salvataggio a una
 
-[[house|casa]] in [[motifs/fire|fiamme]]. Il compito di un uomo buono ai [[motifs/time|tempi]] di Dickens era di portare
+casa in [[motifs/fire|fiamme]]. Il compito di un uomo buono ai [[motifs/time|tempi]] di Dickens era di portare
 
 la giustizia al passo coi tempi. Il compito di un uomo buono ai [[motifs/time|tempi]] di Dunstano era di
 
@@ -18141,13 +18141,13 @@ him fill the world with cathedrals if he can. But he must not be allowed
 
 to write a [[concepts/history|history]] of England; or a [[concepts/history|history]] of any country. All [[concepts/history|history]]
 
-was conducted on ordinary [[morality]]: with his extraordinary [[morality]] he
+was conducted on ordinary morality: with his extraordinary morality he
 
 is certain to read it all askew. Thus Carlyle tries to write of the
 
 Middle Ages with a bias against [[concepts/humility|humility]] and [[concepts/mercy|mercy]]; that is, with a bias
 
-against the whole theoretic [[morality]] of the Middle Ages. The result is
+against the whole theoretic morality of the Middle Ages. The result is
 
 that he turns into a mere turmoil of arrogant German savages what was
 
@@ -18189,7 +18189,7 @@ be popular with the young; almost as popular as Dickens's novels, and
 
 for the same reason: because it is full of moralising. Science and art
 
-without [[morality]] are not dangerous in the sense commonly supposed. They
+without morality are not dangerous in the sense commonly supposed. They
 
 are not dangerous like a [[motifs/fire|fire]], but dangerous like a fog. A [[motifs/fire|fire]] is
 
@@ -18239,7 +18239,7 @@ all opinions. The modern humanitarian can [[motifs/love|love]] all opinions, but
 
 cannot [[motifs/love|love]] all men; he seems, sometimes, in the ecstasy of his
 
-[[Humanitarianism|humanitarianism]], even to hate them all. He can [[motifs/love|love]] all opinions,
+humanitarianism, even to hate them all. He can [[motifs/love|love]] all opinions,
 
 including the opinion that men are unlovable.
 
@@ -18257,7 +18257,7 @@ strictly to decide how far he was to be excused. He was willing to like
 
 Mr. Twemlow in spite of his snobbishness, but Dickens and Dickens's
 
-doctrine were [[Alone|alone]] to be judges of how far he was snobbish. There was
+doctrine were alone to be judges of how far he was snobbish. There was
 
 never a more didactic writer: hence there was never one more amusing. He
 
@@ -18310,13 +18310,13 @@ riempia il mondo di cattedrali, se ne è capace. Ma non gli si deve permettere
 
 di scrivere una [[concepts/history|storia]] d'Inghilterra; né una [[concepts/history|storia]] di alcun paese. Tutta la [[concepts/history|storia]]
 
-fu condotta secondo la [[morality|morale]] ordinaria: con la sua straordinaria [[morality|morale]]
+fu condotta secondo la morale ordinaria: con la sua straordinaria morale
 
 egli finirà di certo per leggerla tutta di traverso. Così Carlyle tenta di scrivere del
 
 Medioevo con un pregiudizio contro l'[[concepts/humility|umiltà]] e la [[concepts/mercy|misericordia]]; vale a dire, con un pregiudizio
 
-contro l'intera [[morality|morale]] teorica del Medioevo. Il risultato è
+contro l'intera morale teorica del Medioevo. Il risultato è
 
 che egli trasforma in un mero tumulto di arroganti selvaggi germanici quella che
 
@@ -18358,7 +18358,7 @@ popolare presso i giovani; quasi popolare quanto i romanzi di Dickens, e
 
 per la medesima ragione: perché è colma di moralità. La scienza e l'arte
 
-senza [[morality|morale]] non sono pericolose nel senso comunemente supposto. Non
+senza morale non sono pericolose nel senso comunemente supposto. Non
 
 sono pericolose come un [[motifs/fire|incendio]], ma pericolose come una nebbia. Un [[motifs/fire|incendio]] è
 
@@ -18408,7 +18408,7 @@ tutte le opinioni. L'umanitario moderno sa [[motifs/love|amare]] tutte le opinio
 
 sa [[motifs/love|amare]] tutti gli uomini; talvolta sembra, nell'estasi del suo
 
-[[Humanitarianism|umanitarismo]], perfino odiarli tutti. Sa [[motifs/love|amare]] tutte le opinioni,
+umanitarismo, perfino odiarli tutti. Sa [[motifs/love|amare]] tutte le opinioni,
 
 compresa l'opinione che gli uomini siano indegni d'amore.
 
@@ -18426,7 +18426,7 @@ a dover decidere rigorosamente fino a che punto scusarlo. Era disposto a provar 
 
 il signor Twemlow a dispetto del suo snobismo, ma erano Dickens e la dottrina di Dickens
 
-i [[Alone|soli]] a poter giudicare fino a che punto egli fosse snob. Non vi
+i soli a poter giudicare fino a che punto egli fosse snob. Non vi
 
 fu mai scrittore più didattico: e appunto per questo non ve ne fu mai uno più divertente. Egli
 
@@ -18477,7 +18477,7 @@ still a sentimental [[forms/tragedy|tragedy]]. It is a great drama, but it is st
 
 these. For it is the expression of a righteous indignation which cannot
 
-condescend to [[Humour|humour]] and which cannot even condescend to pathos. Twenty
+condescend to humour and which cannot even condescend to pathos. Twenty
 
 times we have taken Dickens's hand and it has been sometimes hot with
 
@@ -18652,7 +18652,7 @@ pur sempre una [[forms/tragedy|tragedia]] sentimentale. È un grande dramma, ma 
 
 questi. Poiché è l'espressione di un'indignazione giusta che non sa
 
-piegarsi allo [[Humour|humour]] e che non sa piegarsi nemmeno al pathos. Venti
+piegarsi allo humour e che non sa piegarsi nemmeno al pathos. Venti
 
 volte abbiamo preso la mano di Dickens, e talora era calda di
 
@@ -18827,7 +18827,7 @@ head full of fantastic nonsense; he was a writer of rowdy farces, a
 
 demagogue of fiction, a man without [[concepts/education|education]] in any serious sense
 
-whatever, a man whose whole business was to turn ordinary [[cockneys]] into
+whatever, a man whose whole business was to turn ordinary cockneys into
 
 extraordinary caricatures. Yet when all these other children of the
 
@@ -18899,7 +18899,7 @@ Dickens is the one living link between the old kindness and the new,
 
 between the good will of the past and the good works of the future. He
 
-links May Day with Bank Holiday, and he does it almost [[Alone|alone]]. All the
+links May Day with Bank Holiday, and he does it almost alone. All the
 
 men around him, great and good as they were, were in comparison
 
@@ -18915,7 +18915,7 @@ it perhaps than in any of the others of the _abandon_ and the buffoonery
 
 of Dickens, this only emphasises the more clearly the fact that he stood
 
-almost [[Alone|alone]] for a more humane and hilarious view of [[concepts/democracy|democracy]]. None of
+almost alone for a more humane and hilarious view of [[concepts/democracy|democracy]]. None of
 
 his great and much more highly-educated contemporaries could help him in
 
@@ -18933,7 +18933,7 @@ is the darkness of the subject and not of the author. He is by his own
 
 account dealing with hard times, but not with a hard [[concepts/eternity|eternity]], not with
 
-a hard [[philosophy]] of the universe. Nevertheless, this is the one place
+a hard philosophy of the universe. Nevertheless, this is the one place
 
 in his work where he does not make us remember human happiness by
 
@@ -18967,7 +18967,7 @@ that Nupkins could not go on much longer making up the law of England to
 
 suit himself; that [[characters/sir-leicester-dedlock|Sir Leicester Dedlock]] could not go on much longer
 
-being kind to his tenants as if they were [[dogs]] and cats. And some of
+being kind to his tenants as if they were dogs and cats. And some of
 
 these evils the nineteenth century did really eliminate or improve. For
 
@@ -19000,7 +19000,7 @@ testa piena di fantastiche sciocchezze; era un autore di farse chiassose, un
 
 demagogo della narrativa, un uomo senza [[concepts/education|istruzione]] in nessun senso serio
 
-di sorta, un uomo il cui unico mestiere era trasformare comuni [[cockneys|cockney]] in
+di sorta, un uomo il cui unico mestiere era trasformare comuni cockney in
 
 caricature straordinarie. Eppure, quando tutti questi altri figli della
 
@@ -19072,7 +19072,7 @@ Dickens è l'unico anello vivente fra l'antica bontà e la nuova,
 
 fra la buona volontà del passato e le buone opere del futuro. Egli
 
-collega il Calendimaggio con il Bank Holiday, e lo fa quasi [[Alone|solo]]. Tutti gli
+collega il Calendimaggio con il Bank Holiday, e lo fa quasi solo. Tutti gli
 
 uomini attorno a lui, per quanto grandi e buoni, erano al confronto
 
@@ -19088,7 +19088,7 @@ essa forse meno che in ogni altra dell'_abbandono_ e della buffoneria
 
 di Dickens, ciò non fa che sottolineare più chiaramente il fatto che egli stava
 
-quasi [[Alone|solo]] a difendere una visione più umana e ilare della [[concepts/democracy|democrazia]]. Nessuno dei
+quasi solo a difendere una visione più umana e ilare della [[concepts/democracy|democrazia]]. Nessuno dei
 
 suoi grandi e assai più colti contemporanei poté aiutarlo in
 
@@ -19106,7 +19106,7 @@ amaro, ma era una protesta contro l'amarezza. Potrà essere cupo, ma
 
 ammissione egli tratta di tempi difficili, ma non di un'[[concepts/eternity|eternità]] dura, non di
 
-una dura [[philosophy|filosofia]] dell'universo. Ciò nondimeno, questo è l'unico luogo
+una dura filosofia dell'universo. Ciò nondimeno, questo è l'unico luogo
 
 della sua opera in cui non ci fa ricordare la felicità umana tanto con l'
 
@@ -19140,7 +19140,7 @@ che Nupkins non avrebbe potuto continuare ancora a lungo a foggiare la legge d'I
 
 proprio comodo; che [[characters/sir-leicester-dedlock|Sir Leicester Dedlock]] non avrebbe potuto continuare ancora a lungo
 
-a essere gentile con i suoi affittuari come se fossero [[dogs|cani]] e gatti. E alcuni di
+a essere gentile con i suoi affittuari come se fossero cani e gatti. E alcuni di
 
 questi mali l'Ottocento davvero li eliminò o li attenuò. Per
 
@@ -19215,7 +19215,7 @@ of Eatanswill. The [[archetypes/villain|villain]], Blandois, is a very stagey [[
 
 quite as stagey as [[characters/ralph-nickleby|Ralph Nickleby]] or the mysterious Monk. The secret of
 
-the dark [[house]] of Clennam is a very silly secret; quite as silly as the
+the dark house of Clennam is a very silly secret; quite as silly as the
 
 secret of [[characters/ralph-nickleby|Ralph Nickleby]] or the secret of Monk. Yet all these external
 
@@ -19384,7 +19384,7 @@ di Eatanswill. Il [[archetypes/villain|malvagio]], Blandois, è davvero un [[arc
 
 teatrale tanto quanto [[characters/ralph-nickleby|Ralph Nickleby]] o il misterioso Monk. Il segreto
 
-della cupa [[house|casa]] dei Clennam è un segreto assai sciocco; sciocco tanto quanto il
+della cupa casa dei Clennam è un segreto assai sciocco; sciocco tanto quanto il
 
 segreto di [[characters/ralph-nickleby|Ralph Nickleby]] o il segreto di Monk. Eppure tutte queste esteriori
 
@@ -19879,7 +19879,7 @@ Murdstones again it is to defy them with the health and hilarious anger
 
 that go with his happy delirium about Dora. But when Clennam re-enters
 
-his sepulchral [[house]] there is a weight upon his [[motifs/soul|soul]] which makes it
+his sepulchral house there is a weight upon his [[motifs/soul|soul]] which makes it
 
 impossible for him to answer, with any spirit, the morbidities of his
 
@@ -19903,7 +19903,7 @@ horrible thing has happened to Dickens; he has almost become an
 
 Evolutionist. Worse still, in studying the Calvinism of Mrs. Clennam's
 
-[[house]], he has almost become a Calvinist. He half believes (as do some of
+house, he has almost become a Calvinist. He half believes (as do some of
 
 the modern scientists) that there is really such a thing as "a [[archetypes/child|child]] of
 
@@ -20052,7 +20052,7 @@ Murdstone è per sfidarli con la salute e l'ilare collera
 
 che accompagnano il suo felice delirio per Dora. Ma quando Clennam rientra
 
-nella sua [[house|casa]] sepolcrale c'è un peso sulla sua [[motifs/soul|anima]] che gli rende
+nella sua casa sepolcrale c'è un peso sulla sua [[motifs/soul|anima]] che gli rende
 
 impossibile rispondere, con un minimo di slancio, alle morbosità di sua
 
@@ -20076,7 +20076,7 @@ cosa orribile è accaduta a Dickens; è quasi diventato un
 
 evoluzionista. Peggio ancora, studiando il calvinismo della signora Clennam e della sua
 
-[[house|casa]], è quasi diventato un calvinista. Crede a metà (come credono alcuni
+casa, è quasi diventato un calvinista. Crede a metà (come credono alcuni
 
 degli scienziati moderni) che esista davvero una cosa come "un [[archetypes/child|figlio]] dell'
 
@@ -20225,7 +20225,7 @@ There is nothing finer even in Shakespeare than that conception of the
 
 circle of rich men all pretending to rough it in the country, and the
 
-one really hungry man entering, [[Sword|sword]] in hand, and praising the [[motifs/city|city]].
+one really hungry man entering, sword in hand, and praising the [[motifs/city|city]].
 
 "If ever been where [[motifs/bells|bells]] have knolled to church"; if you have ever been
 
@@ -20315,7 +20315,7 @@ far; he was not the European coming [[motifs/home|home]]. He is still the splend
 
 Cockney [[characters/orlando|Orlando]] of whom I spoke above; he cannot but suppose that any
 
-strange men, being happy in some [[Pastoral|pastoral]] way, are mysterious foreign
+strange men, being happy in some pastoral way, are mysterious foreign
 
 scoundrels. Dickens's real speech to the lazy and laughing civilisation
 
@@ -20398,7 +20398,7 @@ Non c'è nulla di più bello, nemmeno in Shakespeare, di quella immagine del
 
 cerchio di uomini ricchi che tutti fingono di vivere alla spartana in campagna, e
 
-dell'unico uomo davvero affamato che entra, la [[Sword|spada]] in pugno, e loda la [[motifs/city|città]].
+dell'unico uomo davvero affamato che entra, la spada in pugno, e loda la [[motifs/city|città]].
 
 «Se mai foste dove le [[motifs/bells|campane]] rintoccarono a raccolta»; se mai foste stati
 
@@ -20488,7 +20488,7 @@ lontano; non era l'europeo che tornava a [[motifs/home|casa]]. È ancora lo sple
 
 [[characters/orlando|Orlando]] Cockney di cui ho parlato più sopra; non può fare a meno di supporre che qualunque
 
-uomo straniero, felice in qualche modo [[Pastoral|pastorale]], sia un misterioso
+uomo straniero, felice in qualche modo pastorale, sia un misterioso
 
 furfante forestiero. Il vero discorso di Dickens alla pigra e ridente civiltà
 
@@ -20555,7 +20555,7 @@ this would be false, for two reasons. First, a man never or hardly ever
 
 does grow sad as he grows old; on the contrary, the most [[concepts/melancholy|melancholy]]
 
-young [[lovers]] can be found forty years afterwards chuckling over their
+young lovers can be found forty years afterwards chuckling over their
 
 port wine. And second, Dickens never did grow old, even in a physical
 
@@ -20593,7 +20593,7 @@ of genius; that he can understand what he does not understand.
 
 Dickens was inspired to the study of the [[historical-references/french-revolution|French Revolution]] and to the
 
-writing of a [[Romance|romance]] about it by the example and influence of Carlyle.
+writing of a romance about it by the example and influence of Carlyle.
 
 Thomas Carlyle undoubtedly rediscovered for Englishmen the revolution
 
@@ -20665,7 +20665,7 @@ and quite one-sided satisfaction with which the French mob battered down
 
 the Bastille. Dickens utterly and innocently believed in certain things;
 
-he would, I think, have drawn the [[Sword|sword]] for them. Carlyle half believed
+he would, I think, have drawn the sword for them. Carlyle half believed
 
 in half a hundred things; he was at once more of a mystic and more of a
 
@@ -20724,7 +20724,7 @@ ciò sarebbe falso, per due ragioni. Anzitutto, un uomo non diventa mai, o quasi
 
 triste col crescere degli anni; al contrario, i più [[concepts/melancholy|malinconici]]
 
-giovani [[lovers|innamorati]] li si ritrova quarant'anni dopo a ridacchiare sul loro
+giovani innamorati li si ritrova quarant'anni dopo a ridacchiare sul loro
 
 vino di Porto. E in secondo luogo, Dickens non divenne mai vecchio, nemmeno in senso
 
@@ -20762,7 +20762,7 @@ di genio: che sa comprendere ciò che non comprende.
 
 Dickens fu ispirato allo studio della [[historical-references/french-revolution|Rivoluzione Francese]] e alla
 
-scrittura di un [[Romance|romanzo]] su di essa dall'esempio e dall'influenza di Carlyle.
+scrittura di un romanzo su di essa dall'esempio e dall'influenza di Carlyle.
 
 Thomas Carlyle riscoprì indubbiamente per gli inglesi la rivoluzione
 
@@ -20834,7 +20834,7 @@ e alquanto unilaterale soddisfazione con cui la folla francese abbatté
 
 la Bastiglia. Dickens credeva in certe cose in modo totale e ingenuo;
 
-avrebbe, credo, sguainato la [[Sword|spada]] per esse. Carlyle credeva a metà
+avrebbe, credo, sguainato la spada per esse. Carlyle credeva a metà
 
 in mezzo centinaio di cose; era al tempo stesso più mistico e più
 
@@ -20943,7 +20943,7 @@ _Great Expectations_, which was written in the afternoon of Dickens's
 
 life and fame, has a quality of serene irony and even sadness, which
 
-puts it quite [[Alone|alone]] among his other works. At no [[motifs/time|time]] could Dickens
+puts it quite alone among his other works. At no [[motifs/time|time]] could Dickens
 
 possibly be called cynical, he had too much vitality; but relatively to
 
@@ -20991,9 +20991,9 @@ became the [[archetypes/hero|hero]] of paganism; the [[archetypes/hero|hero]] of
 
 knight-errant of [[historical-references/christianity|Christianity]]; the knight-errant who wandered and was
 
-foiled before he triumphed became the [[archetypes/hero|hero]] of the later prose [[Romance|romance]],
+foiled before he triumphed became the [[archetypes/hero|hero]] of the later prose romance,
 
-the [[Romance|romance]] in which the [[archetypes/hero|hero]] had to fight a duel with the [[archetypes/villain|villain]] but
+the romance in which the [[archetypes/hero|hero]] had to fight a duel with the [[archetypes/villain|villain]] but
 
 always survived, in which the [[archetypes/hero|hero]] drove desperate horses through the
 
@@ -21112,7 +21112,7 @@ _Grandi speranze_, che fu scritto nel pomeriggio della vita e della fama di
 
 Dickens, possiede una qualità di serena ironia e perfino di tristezza, che lo
 
-pone del tutto [[Alone|solo]] tra le sue altre opere. In nessun [[motifs/time|momento]] Dickens
+pone del tutto solo tra le sue altre opere. In nessun [[motifs/time|momento]] Dickens
 
 avrebbe potuto essere definito cinico, aveva troppa vitalità; ma rispetto
 
@@ -21160,9 +21160,9 @@ divenne l'[[archetypes/hero|eroe]] del paganesimo; l'[[archetypes/hero|eroe]] de
 
 cavaliere errante del [[historical-references/christianity|Cristianesimo]]; il cavaliere errante che vagava ed era
 
-sconfitto prima di trionfare divenne l'[[archetypes/hero|eroe]] del più tardo [[Romance|romanzo]] in prosa,
+sconfitto prima di trionfare divenne l'[[archetypes/hero|eroe]] del più tardo romanzo in prosa,
 
-il [[Romance|romanzo]] in cui l'[[archetypes/hero|eroe]] doveva battersi a duello con il [[archetypes/villain|malvagio]] ma
+il romanzo in cui l'[[archetypes/hero|eroe]] doveva battersi a duello con il [[archetypes/villain|malvagio]] ma
 
 sopravviveva sempre, in cui l'[[archetypes/hero|eroe]] lanciava cavalli disperati attraverso la
 
@@ -21349,7 +21349,7 @@ gentleman. Dickens has described perfectly this quivering and
 
 defenceless dignity. Dickens has described perfectly how ill-armed it is
 
-against the coarse [[Humour|humour]] of real humanity--the real humanity which
+against the coarse humour of real humanity--the real humanity which
 
 Dickens loved, but which idealists and philanthropists do not [[motifs/love|love]], the
 
@@ -21369,11 +21369,11 @@ described the weakness of Pip. Exactly what George Eliot and Thackeray
 
 could not have described was the vigour of Trabb's boy. There would have
 
-been admirable [[Humour|humour]] and observation in their accounts of that
+been admirable humour and observation in their accounts of that
 
 intolerable urchin. Thackeray would have given us little light touches
 
-of Trabb's boy, absolutely true to the quality and colour of the [[Humour|humour]],
+of Trabb's boy, absolutely true to the quality and colour of the humour,
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -21518,7 +21518,7 @@ eterno. Dickens ha descritto perfettamente questa dignità tremante e
 
 indifesa. Dickens ha descritto perfettamente quanto essa sia mal armata
 
-contro l'[[Humour|umorismo]] grossolano dell'umanità reale--la vera umanità che
+contro l'umorismo grossolano dell'umanità reale--la vera umanità che
 
 Dickens amava, ma che gli idealisti e i filantropi non [[motifs/love|amano]], l'
 
@@ -21538,11 +21538,11 @@ descrivere la debolezza di Pip. Ciò che esattamente George Eliot e Thackeray
 
 non avrebbero potuto descrivere era il vigore del ragazzo di Trabb. Ci sarebbero
 
-stati [[Humour|umorismo]] e osservazione mirabili nei loro resoconti di quel
+stati umorismo e osservazione mirabili nei loro resoconti di quel
 
 monello intollerabile. Thackeray ci avrebbe dato piccoli tocchi lievi
 
-del ragazzo di Trabb, assolutamente fedeli alla qualità e al colore dell'[[Humour|umorismo]],
+del ragazzo di Trabb, assolutamente fedeli alla qualità e al colore dell'umorismo,
 
 
 
@@ -21553,7 +21553,7 @@ just as in his novels of the eighteenth century, the glimpses of Steele
 
 or Bolingbroke or Doctor Johnson are exactly and perfectly true to the
 
-colour and quality of their [[Humour|humour]]. George Eliot in her earlier books
+colour and quality of their humour. George Eliot in her earlier books
 
 would have given us shrewd authentic scraps of the real dialect of
 
@@ -21724,7 +21724,7 @@ Proprio come nei suoi romanzi del XVIII secolo, anche in questi brevi frammenti 
 
 O Bolingbroke o il Dottor Johnson sono esattamente e perfettamente veri…
 
-Il colore e la qualità del loro [[Humour|umorismo]]. George Eliot nei suoi primi libri
+Il colore e la qualità del loro umorismo. George Eliot nei suoi primi libri
 
 Avrebbe fornito a noi preziosi e autentici frammenti del vero dialetto locale
 
@@ -22260,7 +22260,7 @@ something which is pure farce and yet which is not superficial; an
 
 unfathomable farce--a farce that goes down to the roots of the universe.
 
-The highest compliment that can ever be paid to the [[Humour|humour]] of Dickens is
+The highest compliment that can ever be paid to the humour of Dickens is
 
 paid when some lady says, with the sudden sincerity of her sex, that it
 
@@ -22286,7 +22286,7 @@ one felt for Mr. Stiggins's nose is of the same kind as the ardent
 
 [[motifs/desire|desire]] which Mr. Lammle felt for Mr. Fledgeby's nose. "Give me your
 
-nose, Sir," said Mr. Lammle. That sentence [[Alone|alone]] would be enough to show
+nose, Sir," said Mr. Lammle. That sentence alone would be enough to show
 
 that the young Dickens had never died.
 
@@ -22427,13 +22427,13 @@ qualcosa che è pura farsa e tuttavia non è superficiale; una
 
 farsa insondabile: una farsa che scende fino alle radici dell'universo.
 
-Il complimento più alto che si possa mai rivolgere all'[[Humour|umorismo]] di Dickens viene
+Il complimento più alto che si possa mai rivolgere all'umorismo di Dickens viene
 
 rivolto quando una signora dice, con l'improvvisa sincerità del suo sesso, che è
 
 «troppo sciocco». L'espressione è in realtà una critica perfettamente giusta e
 
-acuta. L'[[Humour|umorismo]] consiste davvero nell'essere troppo sciocco, nel valicare il
+acuta. L'umorismo consiste davvero nell'essere troppo sciocco, nel valicare il
 
 confine, nello sfondare il pavimento del senso e nel precipitare in qualche
 
@@ -22453,7 +22453,7 @@ provavano per il naso del signor Stiggins è della stessa specie dell'ardente
 
 [[motifs/desire|desiderio]] che il signor Lammle provava per il naso del signor Fledgeby. «Datemi il vostro
 
-naso, signore», disse il signor Lammle. Quella frase da [[Alone|sola]] basterebbe a mostrare
+naso, signore», disse il signor Lammle. Quella frase da sola basterebbe a mostrare
 
 che il giovane Dickens non era mai morto.
 
@@ -22630,7 +22630,7 @@ dinner-party, there is something a little heavy and careless about the
 
 story. Mr. [[characters/silas-wegg|Silas Wegg]] is really funny; and he serves the purpose of a
 
-necessary [[archetypes/villain|villain]] in the plot. But his [[Humour|humour]] and his villainy seem to
+necessary [[archetypes/villain|villain]] in the plot. But his humour and his villainy seem to
 
 have no particular connection with each other; when he is not scheming
 
@@ -22644,7 +22644,7 @@ wooden leg. For while his villainy is supposed to be of a dull, mean,
 
 and bitter sort (quite unlike, for instance, the uproarious villainy of
 
-Quilp), his [[Humour|humour]] is of the sincere, flowing and [[forms/lyric|lyric]] character, like
+Quilp), his humour is of the sincere, flowing and [[forms/lyric|lyric]] character, like
 
 that of [[characters/dick-swiveller|Dick Swiveller]] or Mr. Micawber. He tells Mr. Boffin that he will
 
@@ -22799,7 +22799,7 @@ cena, vi è qualcosa di un po' pesante e di trascurato nella
 
 storia. Il signor [[characters/silas-wegg|Silas Wegg]] è davvero comico; e assolve alla funzione di un
 
-necessario [[archetypes/villain|furfante]] nella trama. Ma il suo [[Humour|umorismo]] e la sua scelleratezza sembrano
+necessario [[archetypes/villain|furfante]] nella trama. Ma il suo umorismo e la sua scelleratezza sembrano
 
 non avere alcuna particolare connessione l'uno con l'altra; quando non trama
 
@@ -22813,7 +22813,7 @@ gamba di legno. Poiché, mentre la sua scelleratezza dovrebbe essere di un gener
 
 e amaro (assai diverso, per esempio, dalla fragorosa scelleratezza di
 
-Quilp), il suo [[Humour|umorismo]] è di carattere sincero, fluente e [[forms/lyric|lirico]], come
+Quilp), il suo umorismo è di carattere sincero, fluente e [[forms/lyric|lirico]], come
 
 quello di [[characters/dick-swiveller|Dick Swiveller]] o del signor Micawber. Egli dice al signor Boffin che si
 
@@ -23050,7 +23050,7 @@ down dead as he is in the act of denouncing the assassin. It is
 
 permitted to Dickens, in short, to come to a literary end as strange as
 
-his literary beginning. He began by completing the old [[Romance|romance]] of
+his literary beginning. He began by completing the old romance of
 
 travel. He ended by inventing the new [[archetypes/detective|detective]] story.
 
@@ -23058,7 +23058,7 @@ It is as a [[archetypes/detective|detective]] story first and last that we have 
 
 Mystery of Edwin Drood_. This does not mean, of course, that the details
 
-are not often admirable in their swift and penetrating [[Humour|humour]]; to say
+are not often admirable in their swift and penetrating humour; to say
 
 that of the book would be to say that Dickens did not write it. Nothing
 
@@ -23221,7 +23221,7 @@ morto stecchito mentre è nell'atto di denunciare l'assassino. È
 
 concesso a Dickens, insomma, di giungere a una fine letteraria strana quanto
 
-il suo inizio letterario. Cominciò col completare il vecchio [[Romance|romanzo]] di
+il suo inizio letterario. Cominciò col completare il vecchio romanzo di
 
 viaggio. Finì con l'inventare il nuovo [[archetypes/detective|romanzo poliziesco]].
 
@@ -23229,7 +23229,7 @@ viaggio. Finì con l'inventare il nuovo [[archetypes/detective|romanzo poliziesc
 
 Mystery of Edwin Drood_. Questo non significa, s'intende, che i particolari
 
-non siano spesso ammirevoli nel loro rapido e penetrante [[Humour|umorismo]]; dire
+non siano spesso ammirevoli nel loro rapido e penetrante umorismo; dire
 
 ciò del libro equivarrebbe a dire che non fu Dickens a scriverlo. Nulla
 
@@ -23272,13 +23272,13 @@ understood that all emoluments are mine, and that Nil is the reward of
 
 this slave." Still, Dickens wrote the book as a [[archetypes/detective|detective]] story; he
 
-wrote it as _The Mystery of Edwin Drood_. And [[Alone|alone]], perhaps, among
+wrote it as _The Mystery of Edwin Drood_. And alone, perhaps, among
 
 [[archetypes/detective|detective]]-story writers, he never lived to destroy his mystery. Here
 
-[[Alone|alone]] then among the Dickens novels it is necessary to speak of the plot
+alone then among the Dickens novels it is necessary to speak of the plot
 
-and of the plot [[Alone|alone]]. And when we speak of the plot it becomes
+and of the plot alone. And when we speak of the plot it becomes
 
 immediately necessary to speak of the two or three standing explanations
 
@@ -23292,7 +23292,7 @@ describes, as will be seen, the disappearance of the young architect
 
 his [[concepts/reconciliation|reconciliation]] with a temporary enemy, [[characters/neville-landless|Neville Landless]], and was
 
-held at the [[house]] of his uncle [[characters/john-jasper|John Jasper]]. Dickens continued the tale
+held at the house of his uncle [[characters/john-jasper|John Jasper]]. Dickens continued the tale
 
 long enough to explain or explode the first and most obvious of his
 
@@ -23441,13 +23441,13 @@ inteso che tutti gli emolumenti sono miei, e che Nulla è la ricompensa
 
 di questo schiavo». Eppure Dickens scrisse il libro come un [[archetypes/detective|romanzo poliziesco]];
 
-lo scrisse come _The Mystery of Edwin Drood_. E [[Alone|solo]], forse, tra
+lo scrisse come _The Mystery of Edwin Drood_. E solo, forse, tra
 
 gli scrittori di [[archetypes/detective|romanzi polizieschi]], non visse abbastanza da distruggere il proprio
 
-mistero. Qui [[Alone|soltanto]], dunque, tra i romanzi di Dickens, è necessario parlare della trama
+mistero. Qui soltanto, dunque, tra i romanzi di Dickens, è necessario parlare della trama
 
-e della trama [[Alone|soltanto]]. E quando parliamo della trama diventa
+e della trama soltanto. E quando parliamo della trama diventa
 
 immediatamente necessario parlare delle due o tre spiegazioni consolidate
 
@@ -23461,7 +23461,7 @@ descrive, come si vedrà, la scomparsa del giovane architetto
 
 la sua [[concepts/reconciliation|riconciliazione]] con un nemico temporaneo, [[characters/neville-landless|Neville Landless]], e che si
 
-tenne nella [[house|casa]] dello zio [[characters/john-jasper|John Jasper]]. Dickens proseguì il racconto
+tenne nella casa dello zio [[characters/john-jasper|John Jasper]]. Dickens proseguì il racconto
 
 abbastanza a lungo da spiegare, o far esplodere, il primo e più ovvio dei suoi
 
@@ -24215,7 +24215,7 @@ livello e quale monotonia quelle creazioni comunemente risaltino. Questo libro �
 
 sfondo della sua mente. È la base e il minimo di lui che fu
 
-sempre presente. [[Alone|Soltanto]] esso, fra tutte le cose scritte, mostra come egli si sentisse quando
+sempre presente. Soltanto esso, fra tutte le cose scritte, mostra come egli si sentisse quando
 
 non scriveva. Dickens avrebbe potuto scriverlo nel [[motifs/sleep|sonno]]. Vale a
 
@@ -24394,7 +24394,7 @@ superiors in art and exactitude and closeness to connected reality.
 
 Thackeray wallowed in it; Anthony Trollope lived on it. Those modern
 
-artists who [[concepts/pride|pride]] themselves most on the separation and [[unity]] of a work
+artists who [[concepts/pride|pride]] themselves most on the separation and unity of a work
 
 of art have indulged in it often; thus, for instance, Stevenson gave a
 
@@ -24563,7 +24563,7 @@ reputano superiori a Dickens in arte, esattezza e aderenza alla realtà connessa
 
 Thackeray vi si rotolò dentro; Anthony Trollope ne visse. Quegli artisti
 
-moderni che più si fanno un [[concepts/pride|vanto]] della separazione e dell'[[unity|unità]] di un'opera
+moderni che più si fanno un [[concepts/pride|vanto]] della separazione e dell'unità di un'opera
 
 d'arte vi si sono spesso concessi; così, per esempio, Stevenson diede uno
 
@@ -24670,7 +24670,7 @@ coldness is an eternal constancy.
 
 This one case where Dickens broke through his rule was not such a
 
-[[success]] as to tempt him in any case to try the thing again.
+success as to tempt him in any case to try the thing again.
 
 There is weakness in the strict sense of the word in this particular
 
@@ -24724,7 +24724,7 @@ old gentleman. He does not see things through the rosy spectacles of the
 
 modern optimist or the green-smoked spectacles of the pessimist; he sees
 
-it through the crystal glasses of his own [[innocence]]. One must see the
+it through the crystal glasses of his own innocence. One must see the
 
 world clearly even in order to see its wildest poetry. One must see it
 
@@ -24792,7 +24792,7 @@ giants might have stood on either side of some new great [[motifs/city|city]] of
 
 invention, swarming with fanciful figures and noisy with new events.
 
-But as it is, the two giants stand [[Alone|alone]] in a wilderness, guarding
+But as it is, the two giants stand alone in a wilderness, guarding
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -24841,7 +24841,7 @@ freddezza è una costanza eterna.
 
 Quest'unico caso in cui Dickens infranse la propria regola non fu un tale
 
-[[success|successo]] da tentarlo, in ogni caso, a ritentare la cosa.
+successo da tentarlo, in ogni caso, a ritentare la cosa.
 
 Vi è debolezza, nel senso stretto della parola, in questa particolare
 
@@ -24895,7 +24895,7 @@ vecchio gentiluomo. Egli non vede le cose attraverso i rosei occhiali dell'
 
 ottimista moderno né attraverso gli occhiali affumicati di verde del pessimista; le vede
 
-attraverso le lenti cristalline della propria [[innocence|innocenza]]. Bisogna vedere il
+attraverso le lenti cristalline della propria innocenza. Bisogna vedere il
 
 mondo con chiarezza anche solo per vederne la poesia più selvaggia. Bisogna vederlo
 
@@ -24963,7 +24963,7 @@ giganti avrebbero potuto ergersi ai due lati di qualche nuova grande [[motifs/ci
 
 invenzione, brulicante di figure fantasiose e rumorosa di nuovi eventi.
 
-Ma così com'è, i due giganti si ergono [[Alone|soli]] in un deserto, a guardia
+Ma così com'è, i due giganti si ergono soli in un deserto, a guardia
 
 
 
@@ -24994,7 +24994,7 @@ who are honourably and intensely opposed to the atmosphere of religious
 
 symbolism or religious archæology. There are people who have a vague
 
-idea that the worship of saints is worse than the [[Imitation|imitation]] of sinners.
+idea that the worship of saints is worse than the imitation of sinners.
 
 There are some, like a lady I once knew, who think that hagiology is the
 
@@ -25165,7 +25165,7 @@ che con onestà e con veemenza si oppongono all'atmosfera del simbolismo
 
 religioso o dell'archeologia religiosa. Vi sono persone che nutrono la vaga
 
-idea che il culto dei santi sia peggiore dell'[[Imitation|imitazione]] dei peccatori.
+idea che il culto dei santi sia peggiore dell'imitazione dei peccatori.
 
 Ve ne sono alcune che, come una signora che conobbi un tempo, credono che l'agiologia sia lo
 
@@ -25356,7 +25356,7 @@ any other conclusion equally reasonable and unimportant. These things
 
 have no colour of the great man's character. But on the subject of the
 
-English [[characters/sunday|Sunday]] he does stand for his own [[philosophy]]. He stands for a
+English [[characters/sunday|Sunday]] he does stand for his own philosophy. He stands for a
 
 particular view, remote at present both from Liberals and Conservatives.
 
@@ -25366,7 +25366,7 @@ every sense the last.
 
 In his appeal for the pleasures of the people, Dickens has remained
 
-[[Alone|alone]]. The pleasures of the people have now no defender, Radical or
+alone. The pleasures of the people have now no defender, Radical or
 
 Tory. The Tories despise the people. The Radicals despise the pleasures.
 
@@ -25463,7 +25463,7 @@ qualsiasi altra conclusione altrettanto ragionevole e irrilevante. Queste cose
 
 non hanno nulla del colore del carattere del grande uomo. Ma sul tema della
 
-[[characters/sunday|domenica]] inglese egli sta davvero per la propria [[philosophy|filosofia]]. Sta per una
+[[characters/sunday|domenica]] inglese egli sta davvero per la propria filosofia. Sta per una
 
 particolare visione, oggi remota tanto dai Liberali quanto dai Conservatori.
 
@@ -25473,7 +25473,7 @@ ogni senso l'ultimo.
 
 Nel suo appello a favore dei piaceri del popolo, Dickens è rimasto
 
-[[Alone|solo]]. I piaceri del popolo non hanno ora alcun difensore, Radicale o
+solo. I piaceri del popolo non hanno ora alcun difensore, Radicale o
 
 Tory. I Tories disprezzano il popolo. I Radicali disprezzano i piaceri.
 

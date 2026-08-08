@@ -14,8 +14,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1099. My Cocoon tightens — Colors tease — (Dickinson)
-- 970. Color — Caste — Denomination — (Dickinson)
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1099_my_cocoon_tightens_colors_tease|1099. My Cocoon tightens — Colors tease — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0970_color_caste_denomination|970. Color — Caste — Denomination — (Dickinson)]]
 
 </div>
 

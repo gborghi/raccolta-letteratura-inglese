@@ -114,7 +114,7 @@ tags:
 
 **Historical References:** [[historical-references/american-civil-war|American Civil War]], [[historical-references/french-revolution|French Revolution]], [[historical-references/puritanism|Puritanism]], [[historical-references/irish-question|Irish Question]], [[historical-references/first-world-war|First World War]], [[historical-references/regency-georgian-england|Regency Georgian England]]
 
-**Archetypes:** King, Self-Made Man, Detective, Tyrant
+**Archetypes:** [[archetypes/king|King]], [[archetypes/self-made-man|Self-Made Man]], [[archetypes/detective|Detective]], [[archetypes/tyrant|Tyrant]]
 
 **Settings:** [[settings/america|America]], [[settings/american-south|American South]], [[settings/italy|Italy]], [[settings/europe|Europe]]
 
@@ -122,7 +122,7 @@ tags:
 
 **Topoi:** [[topoi/ubi-sunt|Ubi Sunt]]
 
-**Characters:** Hamlet, Macbeth, Abraham Lincoln, Elizabeth Bennet, Mr Wickham, Emma Woodhouse, Three Witches, [[historical-references/napoleon|Napoleon]], Ferdinand Foch, [[historical-references/charles-dickens|Charles Dickens]], King George V
+**Characters:** [[characters/hamlet|Hamlet]], [[characters/macbeth|Macbeth]], [[characters/abraham-lincoln|Abraham Lincoln]], [[characters/elizabeth-bennet|Elizabeth Bennet]], [[characters/mr-wickham|Mr Wickham]], [[characters/emma-woodhouse|Emma Woodhouse]], [[characters/three-witches|Three Witches]], [[historical-references/napoleon|Napoleon]], [[characters/ferdinand-foch|Ferdinand Foch]], [[historical-references/charles-dickens|Charles Dickens]], [[characters/king-george-v|King George V]]
 
 **Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/artist-and-society|Artist and Society]], [[concepts/original-sin|Original Sin]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/truth|Truth]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/democracy|Democracy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/distributism|Distributism]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/honour|Honour]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/vulgarity|Vulgarity]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/literary-criticism|Literary Criticism]], [[forms/detective-fiction|Detective Fiction]], [[forms/ode|Ode]], [[forms/epigram|Epigram]], [[forms/nonfiction|Nonfiction]]

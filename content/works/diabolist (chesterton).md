@@ -58,7 +58,7 @@ tags:
 
 **Topoi:** [[topoi/temptation-(2)|Temptation (2)]]
 
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Motifs:** [[motifs/fire|Fire]], [[motifs/light-and-dark|Light and Dark]], [[motifs/stars|Stars]]
 **Themes & Concepts:** [[concepts/good-vs-evil|Good vs Evil]], [[concepts/temptation|Temptation]], [[concepts/conscience|Conscience]], [[concepts/conversion|Conversion]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/paradox|Paradox]], [[concepts/despair|Despair]], [[concepts/unseen-the-hidden|Unseen The Hidden]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]

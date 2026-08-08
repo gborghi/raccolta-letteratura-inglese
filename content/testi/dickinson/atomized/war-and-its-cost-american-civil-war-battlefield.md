@@ -15,7 +15,7 @@ tags:
 
 
 There is a word  
-Which bears a [[Sword|sword]]  
+Which bears a sword  
 Can pierce an armed man -  
 It hurls it's barbed syllables  
 And is mute again -  
@@ -55,7 +55,7 @@ Upon thine arrow hang!
 <span class="atom-split" data-atom="0067_success_is_counted_sweetest" data-title="67. Success is counted sweetest" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/swords_weapons,concept/paradox,concept/war_and_its_cost,concept/desire,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
 
 
-[[success|SUCCESS]] is counted sweetest  
+SUCCESS is counted sweetest  
 By those who ne'er succeed.  
 To comprehend a nectar  
 Requires sorest need.  
@@ -422,7 +422,7 @@ For [[concepts/fear|fear]] to be a [[archetypes/king|King]] —
 
 
 My Triumph lasted till the Drums  
-Had left the Dead [[Alone|alone]]  
+Had left the Dead alone  
 And then I dropped my Victory  
 And chastened stole along  
 To where the finished Faces  
@@ -472,7 +472,7 @@ To Speculation's Son —
 
 The Heaven, in which we hoped to pause  
 When Discipline was done  
-Untenable to [[logic|Logic]]  
+Untenable to Logic  
 But possibly the one —
 
 

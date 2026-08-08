@@ -27,7 +27,7 @@ tags:
 **Motifs:** [[motifs/crown|Crown]], [[motifs/stars|Stars]], [[motifs/sun|Sun]]
 **Themes & Concepts:** [[concepts/ambition|Ambition]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
-**Characters:** Apollo
+**Characters:** [[characters/apollo|Apollo]]
 
 ## Testo integrale / Full text
 

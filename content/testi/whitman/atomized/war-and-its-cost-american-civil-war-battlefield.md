@@ -26,7 +26,7 @@ After a strange sad war, great war for thee,
 really fought, for thee,)  
 These chants for thee, the eternal march of thee.  
 
-(A war O soldiers not for itself [[Alone|alone]],  
+(A war O soldiers not for itself alone,  
 Far, far more stood silently waiting behind, now to advance in this book.)  
 
 Thou orb of many orbs!  
@@ -91,7 +91,7 @@ drowning all that would interrupt them,
 O I think the east [[motifs/wind|wind]] brings a triumphal and free march,  
 It reaches hither, it swells me to Joyful [[concepts/madness|madness]],  
 I will run transpose it in words, to justify  
-I will yet sing a [[Song|song]] for you ma femme.  
+I will yet sing a song for you ma femme.  
 
 
 
@@ -162,7 +162,7 @@ Not a disembodied spirit can the weapons of tyrants let loose,
 But it stalks invisibly over the earth, whispering, counseling, cautioning.  
 Liberty, let others [[concepts/despair|despair]] of you--I never [[concepts/despair|despair]] of you.  
 
-Is the [[house]] shut? is the master away?  
+Is the house shut? is the master away?  
 Nevertheless, be ready, be not weary of watching,  
 He will soon return, his messengers come anon.  
 
@@ -179,7 +179,7 @@ He will soon return, his messengers come anon.
 _Cluster: DRUM-TAPS_  
 
 
-First O [[songs]] for a prelude,  
+First O songs for a prelude,  
 Lightly strike on the stretch’d tympanum [[concepts/pride|pride]] and joy in my [[motifs/city|city]],  
 How she led the rest to arms, how she gave the cue,  
 How at once with lithe limbs unwaiting a moment she sprang,  
@@ -189,9 +189,9 @@ How you sprang--how you threw off the costumes of peace with
 indifferent hand,  
 How your soft opera-music changed, and the drum and fife were heard  
 in their stead,  
-How you led to the war, (that shall serve for our prelude, [[songs]] of  
+How you led to the war, (that shall serve for our prelude, songs of  
 soldiers,)  
-How [[settings/manhattan|Manhattan]] [[Drum-Taps|drum-taps]] led.  
+How [[settings/manhattan|Manhattan]] drum-taps led.  
 
 Forty years had I in my [[motifs/city|city]] seen soldiers parading,  
 Forty years as a pageant, till unawares the lady of this teeming and  
@@ -207,7 +207,7 @@ Till with ominous hum our hive at daybreak pour’d out its myriads.
 From the houses then and the workshops, and through all the doorways,  
 Leapt they tumultuous, and lo! [[settings/manhattan|Manhattan]] arming.  
 
-To the [[Drum-Taps|drum-taps]] prompt,  
+To the drum-taps prompt,  
 The young men falling in and arming,  
 The mechanics arming, (the trowel, the jack-plane, the blacksmith’s  
 hammer, tost aside with precipitation,)  
@@ -411,7 +411,7 @@ Till after midnight glimmer upon us the lights of a dim-lighted building,
 We come to an open space in the woods, and halt by the dim-lighted building,
 ’Tis a large old church at the crossing roads, now an impromptu hospital,
 Entering but for a minute I see a sight beyond all the pictures and
-[[Poems|poems]] ever made,
+poems ever made,
 Shadows of deepest, deepest black, just lit by moving candles and lamps,
 And by one great pitchy torch stationary with wild red flame and
 clouds of smoke,
@@ -565,7 +565,7 @@ walk undisturb’d,
 Give me for [[motifs/marriage|marriage]] a sweet-breath’d woman of whom I should never tire,
 Give me a perfect [[archetypes/child|child]], give me away aside from the noise of the
 world a rural domestic life,
-Give me to warble spontaneous [[songs]] recluse by myself, for my own ears only,
+Give me to warble spontaneous songs recluse by myself, for my own ears only,
 Give me [[concepts/solitude|solitude]], give me [[concepts/nature|Nature]], give me again O [[concepts/nature|Nature]] your primal
 sanities!
 
@@ -587,7 +587,7 @@ Keep the blossoming buckwheat fields where the Ninth-month [[motifs/bees|bees]] 
 Give me faces and streets--give me these phantoms incessant and
 endless along the trottoirs!
 Give me interminable eyes--give me women--give me comrades and
-[[lovers]] by the thousand!
+lovers by the thousand!
 Let me see new ones every day--let me hold new ones by the hand every day!
 Give me such shows--give me the streets of [[settings/manhattan|Manhattan]]!
 Give me Broadway, with the soldiers marching--give me the sound of
@@ -643,7 +643,7 @@ The chief-gunner ranges and sights his piece and selects a fuse of
 the right [[motifs/time|time]],
 After firing I see him lean aside and look eagerly off to note the effect;
 Elsewhere I hear the cry of a regiment charging, (the young colonel
-leads himself this [[motifs/time|time]] with brandish’d [[Sword|sword]],)
+leads himself this [[motifs/time|time]] with brandish’d sword,)
 I see the gaps cut by the enemy’s volleys, (quickly fill’d up, no delay,)
 I breathe the suffocating smoke, then the flat clouds hover low
 concealing all;
@@ -651,7 +651,7 @@ Now a strange lull for a few seconds, not a shot fired on either side,
 Then resumed the chaos louder than ever, with eager calls and
 orders of officers,
 While from some distant part of the field the [[motifs/wind|wind]] wafts to my ears
-a shout of applause, (some special [[success]],)
+a shout of applause, (some special success,)
 And ever the sound of the cannon far or near, (rousing even in
 [[motifs/dreams|dreams]] a devilish exultation and all the old mad joy in the
 depths of my [[motifs/soul|soul]],)
@@ -779,7 +779,7 @@ Touch my mouth ere you depart, press my lips close,
 Leave me your pulses of rage--bequeath them to me--fill me with
 currents convulsive,
 Let them scorch and blister out of my chants when you are gone,
-Let them identify you to the future in these [[songs]].
+Let them identify you to the future in these songs.
 
 
 
@@ -853,7 +853,7 @@ I dream, I dream, I dream.
 <span class="atom-split" data-atom="279_ashes_of_soldiers" data-title="Ashes of Soldiers" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_  
+_Cluster: SONGS OF PARTING_  
 
 
 Ashes of soldiers South or North,  
@@ -922,10 +922,10 @@ For the ashes of all dead soldiers South or North.
 <span class="atom-split" data-atom="285_camps_of_green" data-title="Camps of Green" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_
+_Cluster: SONGS OF PARTING_
 
 
-Nor [[Alone|alone]] those camps of white, old comrades of the wars,
+Nor alone those camps of white, old comrades of the wars,
 When as order’d forward, after a long march,
 Footsore and weary, soon as the light lessens we halt for the [[motifs/night|night]],
 Some of us so fatigued carrying the gun and knapsack, dropping
@@ -1013,7 +1013,7 @@ Old sailors, out of many a perilous voyage, [[motifs/storm|storm]] and wreck,
 Old soldiers from campaigns, with all their wounds, defeats and scars;  
 Enough that they’ve survived at all--long life’s unflinching ones!  
 Forth from their struggles, trials, fights, to have emerged at all--  
-in that [[Alone|alone]],  
+in that alone,  
 True conquerors o’er all the rest.  
 
 
@@ -1030,7 +1030,7 @@ _Cluster: SANDS AT SEVENTY_
 
 
 Amid these days of order, ease, prosperity,  
-Amid the current [[songs]] of [[concepts/beauty|beauty]], peace, decorum,  
+Amid the current songs of [[concepts/beauty|beauty]], peace, decorum,  
 I cast a reminiscence--(likely ’twill offend you,  
 I heard it in my boyhood;)--More than a generation since,  
 A queer old savage man, a fighter under Washington himself,  

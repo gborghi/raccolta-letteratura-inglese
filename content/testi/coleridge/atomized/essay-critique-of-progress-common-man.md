@@ -218,7 +218,7 @@ To imprison and hang
 Carlile and his gang,  
 Is the [[concepts/pride|pride]] of the [[motifs/city|City]],  
 And ‘tis Association  
-That, [[Alone|alone]], saves the Nation  
+That, alone, saves the Nation  
 From [[motifs/death|Death]] and Damnation.  
 First published in Letters and Conversations, &c., 1836, i. 90, 91.  
 These lines, which were inscribed in one of Coleridge’s notebooks, refer  

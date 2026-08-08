@@ -42,18 +42,18 @@ tags:
 - [[works/little-dorrit-(dickens)|Little Dorrit (Dickens)]]
 - [[works/martin-chuzzlewit-(dickens)|Martin Chuzzlewit (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
-- 1412. Shame is the shawl of Pink (Dickinson)
-- 1598. Who is it seeks my Pillow Nights — (Dickinson)
-- 1601. Of God we ask one favor, (Dickinson)
-- 20. Distrustful of the Gentian — (Dickinson)
-- 203. He forgot — and I — remembered — (Dickinson)
-- 394. 'Twas Love — not me — (Dickinson)
-- 41. I robbed the Woods — (Dickinson)
-- 444. It feels a shame to be Alive — (Dickinson)
-- 744. Remorse — is Memory — awake — (Dickinson)
-- 747. It dropped so low — in my Regard — (Dickinson)
-- 891. To my quick ear the Leaves — conferred — (Dickinson)
-- 894. Of Consciousness, her awful Mate (Dickinson)
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1412_shame_is_the_shawl_of_pink|1412. Shame is the shawl of Pink (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1598_who_is_it_seeks_my_pillow_nights|1598. Who is it seeks my Pillow Nights — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1601_of_god_we_ask_one_favor|1601. Of God we ask one favor, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0020_distrustful_of_the_gentian|20. Distrustful of the Gentian — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0203_he_forgot_and_i_remembered|203. He forgot — and I — remembered — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0394_twas_love_not_me|394. 'Twas Love — not me — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0041_i_robbed_the_woods|41. I robbed the Woods — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0444_it_feels_a_shame_to_be_alive|444. It feels a shame to be Alive — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0744_remorse_is_memory_awake|744. Remorse — is Memory — awake — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0747_it_dropped_so_low_in_my_regard|747. It dropped so low — in my Regard — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0891_to_my_quick_ear_the_leaves_conferred|891. To my quick ear the Leaves — conferred — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0894_of_consciousness_her_awful_mate|894. Of Consciousness, her awful Mate (Dickinson)]]
 - [[works/sweeney-agonistes-(eliot)|Sweeney Agonistes (Eliot)]]
 - [[works/the-elder-statesman-(eliot)|THE ELDER STATESMAN (Eliot)]]
 - [[works/the-family-reunion-(eliot)|THE FAMILY REUNION (Eliot)]]
@@ -72,15 +72,15 @@ tags:
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
 - [[works/richard-ii-(shakespeare)|RICHARD II (Shakespeare)]]
 - [[works/richard-iii-(shakespeare)|RICHARD III (Shakespeare)]]
-- Sonnet 110 (Shakespeare)
-- Sonnet 111 (Shakespeare)
-- Sonnet 117 (Shakespeare)
-- Sonnet 120 (Shakespeare)
-- Sonnet 129 (Shakespeare)
-- Sonnet 152 (Shakespeare)
-- Sonnet 34 (Shakespeare)
-- Sonnet 35 (Shakespeare)
-- Sonnet 36 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_110|Sonnet 110 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_111|Sonnet 111 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_117|Sonnet 117 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_120|Sonnet 120 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_129|Sonnet 129 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_152|Sonnet 152 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_034|Sonnet 34 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_035|Sonnet 35 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_036|Sonnet 36 (Shakespeare)]]
 - [[works/the-rape-of-lucrece-(shakespeare)|THE RAPE OF LUCRECE (Shakespeare)]]
 - [[works/you-felons-on-trial-in-courts-(whitman)|You Felons on Trial in Courts (Whitman)]]
 - [[works/a-woman-of-no-importance-(wilde)|A Woman of No Importance (Wilde)]]

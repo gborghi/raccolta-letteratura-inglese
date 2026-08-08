@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Pilgrim
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/spenserian-stanza|Spenserian Stanza]], [[forms/satire|Satire]]

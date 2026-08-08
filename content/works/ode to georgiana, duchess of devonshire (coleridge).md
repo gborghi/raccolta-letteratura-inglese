@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother, Hero
+**Archetypes:** [[archetypes/great-mother|Great Mother]], [[archetypes/hero|Hero]]
 **Themes & Concepts:** [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/class-conflict|Class Conflict]], [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/heroism|Heroism]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/ode|Ode]], [[forms/pindaric-ode|Pindaric Ode]]
 

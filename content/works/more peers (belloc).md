@@ -49,5 +49,5 @@ tags:
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/class-conflict|Class Conflict]], [[concepts/vanity|Vanity]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/nonsense|Nonsense]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/flag|Flag]], [[motifs/wine-and-drink|Wine and Drink]]
 **Settings:** [[settings/london|London]]
-**Archetypes:** Corrupt Official
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]

@@ -61,6 +61,6 @@ tags:
 **Motifs:** [[motifs/flag|Flag]], [[motifs/flags-and-banners|Flags and Banners]], [[motifs/sea|Sea]], [[motifs/blood|Blood]], [[motifs/ship|Ship]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/africa|Africa]], [[motifs/ship|Ship]], [[settings/ireland|Ireland]]
-**Characters:** Captain Sharkey
-**Archetypes:** Hero, Villain, Rebel
+**Characters:** [[characters/captain-sharkey|Captain Sharkey]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/villain|Villain]], [[archetypes/rebel|Rebel]]
 **Topoi:** [[topoi/combat-strife|Combat Strife]]

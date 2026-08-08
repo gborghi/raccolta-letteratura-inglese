@@ -27,7 +27,7 @@ tags:
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/apocalypse-and-millennium|Apocalypse and Millennium]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/french-revolution|French Revolution]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

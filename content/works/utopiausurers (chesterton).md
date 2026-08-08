@@ -68,7 +68,7 @@ tags:
 
 **Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/first-world-war|First World War]], [[historical-references/irish-question|Irish Question]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/marconi-scandal|Marconi Scandal]]
 
-**Archetypes:** Tyrant, Fool, Rebel, Corrupt Official
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/fool|Fool]], [[archetypes/rebel|Rebel]], [[archetypes/corrupt-official|Corrupt Official]]
 
 **Settings:** [[settings/germany|Germany]], [[settings/london|London]], [[settings/ireland|Ireland]], [[settings/europe|Europe]]
 

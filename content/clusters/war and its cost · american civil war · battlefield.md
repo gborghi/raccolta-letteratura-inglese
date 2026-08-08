@@ -16,16 +16,16 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1174. There's the Battle of Burgoyne — (Dickinson)
-- 1227. My Triumph lasted till the Drums (Dickinson)
-- 147. Bless God, he went as soldiers, (Dickinson)
-- 358. If any sink, assure that this, now standing — (Dickinson)
-- 444. It feels a shame to be Alive — (Dickinson)
-- 639. My Portion is Defeat — today — (Dickinson)
-- 67. Success is counted sweetest (Dickinson)
-- 73. Who never lost, are unprepared (Dickinson)
-- 759. He fought like those Who've nought to lose — (Dickinson)
-- 8. There is a word (Dickinson)
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1174_theres_the_battle_of_burgoyne|1174. There's the Battle of Burgoyne — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1227_my_triumph_lasted_till_the_drums|1227. My Triumph lasted till the Drums (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0147_bless_god_he_went_as_soldiers|147. Bless God, he went as soldiers, (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0358_if_any_sink_assure_that_this_now_standing|358. If any sink, assure that this, now standing — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0444_it_feels_a_shame_to_be_alive|444. It feels a shame to be Alive — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0639_my_portion_is_defeat_today|639. My Portion is Defeat — today — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0067_success_is_counted_sweetest|67. Success is counted sweetest (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0073_who_never_lost_are_unprepared|73. Who never lost, are unprepared (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0759_he_fought_like_those_whove_nought_to_lose|759. He fought like those Who've nought to lose — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0008_there_is_a_word|8. There is a word (Dickinson)]]
 - [[works/a-march-in-the-ranks-hard-prest,-and-the-road-unknown-(whitman)|A March in the Ranks Hard-Prest, and the Road Unknown (Whitman)]]
 - [[works/adieu-to-a-soldier-(whitman)|Adieu to a Soldier (Whitman)]]
 - [[works/an-army-corps-on-the-march-(whitman)|An Army Corps on the March (Whitman)]]

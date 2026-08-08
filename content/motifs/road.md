@@ -33,23 +33,23 @@ tags:
 - [[works/american-notes-(dickens)|American Notes (Dickens)]]
 - [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 10. My wheel is in the dark! (Dickinson)
-- 1450. The Road was lit with Moon and star — (Dickinson)
-- 1491. The Road to Paradise is plain, (Dickinson)
-- 1510. How happy is the little Stone (Dickinson)
-- 325. Of Tribulation, these are They, (Dickinson)
-- 344. 'Twas the old — road — through pain — (Dickinson)
-- 400. A Tongue — to tell Him I am true! (Dickinson)
-- 416. A Murmur in the Trees — to note — (Dickinson)
-- 419. We grow accustomed to the Dark — (Dickinson)
-- 477. No Man can compass a Despair — (Dickinson)
-- 647. A little Road — not made of Man — (Dickinson)
-- 735. Upon Concluded Lives (Dickinson)
-- 827. The Only News I know (Dickinson)
-- 9. Through lane it lay — through bramble — (Dickinson)
-- 910. Experience is the Angled Road (Dickinson)
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0010_my_wheel_is_in_the_dark|10. My wheel is in the dark! (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1450_the_road_was_lit_with_moon_and_star|1450. The Road was lit with Moon and star — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#1491_the_road_to_paradise_is_plain|1491. The Road to Paradise is plain, (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#1510_how_happy_is_the_little_stone|1510. How happy is the little Stone (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0325_of_tribulation_these_are_they|325. Of Tribulation, these are They, (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0344_twas_the_old_road_through_pain|344. 'Twas the old — road — through pain — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0400_a_tongue_to_tell_him_i_am_true|400. A Tongue — to tell Him I am true! (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0416_a_murmur_in_the_trees_to_note|416. A Murmur in the Trees — to note — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0419_we_grow_accustomed_to_the_dark|419. We grow accustomed to the Dark — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0477_no_man_can_compass_a_despair|477. No Man can compass a Despair — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0647_a_little_road_not_made_of_man|647. A little Road — not made of Man — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0735_upon_concluded_lives|735. Upon Concluded Lives (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0827_the_only_news_i_know|827. The Only News I know (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0009_through_lane_it_lay_through_bramble|9. Through lane it lay — through bramble — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0910_experience_is_the_angled_road|910. Experience is the Angled Road (Dickinson)]]
 - [[works/v.-what-the-thunder-said-(eliot)|V. What the Thunder said (Eliot)]]
-- Sonnet 50 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_050|Sonnet 50 (Shakespeare)]]
 - [[works/a-march-in-the-ranks-hard-prest,-and-the-road-unknown-(whitman)|A March in the Ranks Hard-Prest, and the Road Unknown (Whitman)]]
 - [[works/adieu-to-a-soldier-(whitman)|Adieu to a Soldier (Whitman)]]
 - [[works/broadway-(whitman)|Broadway (Whitman)]]

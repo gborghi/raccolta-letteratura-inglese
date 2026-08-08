@@ -23,7 +23,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/last-stand|Last Stand]]
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Motifs:** [[motifs/stars|Stars]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/honour|Honour]]
 

@@ -46,12 +46,12 @@ tags:
 **Settings:** [[settings/inn|Inn]]
 
 **Topoi:** [[topoi/golden-age|Golden Age]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
-**Archetypes:** Innocent
+**Archetypes:** [[archetypes/innocent|Innocent]]
 **Motifs:** [[motifs/winter|Winter]], [[motifs/fire|Fire]], [[motifs/stars|Stars]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/snow|Snow]], [[motifs/frost|Frost]], [[motifs/night|Night]], [[motifs/death|Death]], [[motifs/leaves|Leaves]]
 **Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]]
 **Forms & Genres:** [[forms/hymn|Hymn]], [[forms/lyric|Lyric]]
 **Historical References:** [[historical-references/christianity|Christianity]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

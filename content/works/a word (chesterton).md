@@ -49,12 +49,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/ages-of-the-world|Ages of the World]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** Christ Figure
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]]
 **Motifs:** [[motifs/stars|Stars]], [[motifs/fire|Fire]], [[motifs/cross|Cross]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/sea|Sea]], [[motifs/crown|Crown]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/wheel|Wheel]], [[motifs/machine|Machine]]
 **Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/faith|Faith]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/labor-and-work|Labor and Work]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/lyric|Lyric]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/roman-history|Roman History]], [[historical-references/crusades|Crusades]], [[historical-references/industrial-revolution|Industrial Revolution]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

@@ -48,78 +48,78 @@ tags:
 - [[works/oliver-twist-(dickens)|Oliver Twist (Dickens)]]
 - [[works/our-mutual-friend-(dickens)|Our Mutual Friend (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
-- 1009. I was a Phoebe — nothing more — (Dickinson)
-- 1090. I am afraid to own a Body — (Dickinson)
-- 1142. The Props assist the House (Dickinson)
-- 1167. Alone and in a Circumstance (Dickinson)
-- 1176. We never know how high we are (Dickinson)
-- 1189. The Voice that stands for Floods to me (Dickinson)
-- 1210. The Sea said Come to the Brook — (Dickinson)
-- 1223. Who goes to dine must take his Feast (Dickinson)
-- 1225. Its Hour with itself (Dickinson)
-- 1273. That sacred Closet when you sweep — (Dickinson)
-- 1285. I know Suspense — it steps so terse (Dickinson)
-- 1385. Secrets is a daily word (Dickinson)
-- 1453. A Counterfeit — a Plated Person — (Dickinson)
-- 1588. This Me — that walks and works — must die, (Dickinson)
-- 1663. His mind of man, a secret makes (Dickinson)
-- 1727. If ever the lid gets off my head (Dickinson)
-- 199. I'm wife — I've finished that — (Dickinson)
-- 233. The Lamp burns sure — within — (Dickinson)
-- 283. A Mien to move a Queen — (Dickinson)
-- 284. The Drop, that wrestles in the Sea — (Dickinson)
-- 285. The Robin's my Criterion for Tune — (Dickinson)
-- 288. I'm Nobody! Who are you (Dickinson)
-- 300. Morning — means Milking — to the Farmer — (Dickinson)
-- 303. The Soul selects her own Society — (Dickinson)
-- 351. I felt my life with both my hands (Dickinson)
-- 356. The Day that I was crowned (Dickinson)
-- 410. The first Day's Night had come — (Dickinson)
-- 443. I tie my Hat — I crease my Shawl — (Dickinson)
-- 451. The Outer — from the Inner (Dickinson)
-- 454. It was given to me by the Gods — (Dickinson)
-- 470. I am alive — I guess — (Dickinson)
-- 486. I was the slightest in the House — (Dickinson)
-- 488. Myself was formed — a Carpenter — (Dickinson)
-- 508. I'm ceded — I've stopped being Theirs — (Dickinson)
-- 525. I think the Hemlock likes to stand (Dickinson)
-- 540. I took my Power in my Hand — (Dickinson)
-- 543. I fear a Man of frugal Speech — (Dickinson)
-- 563. I could not prove the Years had feet — (Dickinson)
-- 578. The Body grows without — (Dickinson)
-- 587. Empty my Heart, of Thee — (Dickinson)
-- 594. The Battle fought between the Soul (Dickinson)
-- 601. A still — Volcano — Life — (Dickinson)
-- 613. They shut me up in Prose — (Dickinson)
-- 632. The Brain — is wider than the Sky — (Dickinson)
-- 636. The Way I read a Letter's — this — (Dickinson)
-- 641. Size circumscribes — it has no room (Dickinson)
-- 642. Me from Myself — to banish — (Dickinson)
-- 653. Of Being is a Bird (Dickinson)
-- 659. That first Day, when you praised Me, Sweet, (Dickinson)
-- 670. One need not be a Chamber — to be Haunted — (Dickinson)
-- 677. To be alive — is Power — (Dickinson)
-- 680. Each Life Converges to some Centre — (Dickinson)
-- 683. The Soul unto itself (Dickinson)
-- 701. A Thought went up my mind today — (Dickinson)
-- 704. No matter — now — Sweet — (Dickinson)
-- 713. Fame of Myself, to justify, (Dickinson)
-- 727. Precious to Me — She still shall be — (Dickinson)
-- 732. She rose to His Requirement — dropt (Dickinson)
-- 733. The Spirit is the Conscious Ear. (Dickinson)
-- 738. You said that I was Great — one Day — (Dickinson)
-- 746. Never for Society (Dickinson)
-- 747. It dropped so low — in my Regard — (Dickinson)
-- 748. Autumn — overlooked my Knitting — (Dickinson)
-- 750. Growth of Man — like Growth of Nature — (Dickinson)
-- 753. My Soul — accused me — And I quailed — (Dickinson)
-- 754. My Life had stood — a Loaded Gun — (Dickinson)
-- 789. On a Columnar Self — (Dickinson)
-- 822. This Consciousness that is aware (Dickinson)
-- 835. Nature and God — I neither knew (Dickinson)
-- 842. Good to hide, and hear 'em hunt! (Dickinson)
-- 902. The first Day that I was a Life (Dickinson)
-- 969. He who in Himself believes — (Dickinson)
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1009_i_was_a_phoebe_nothing_more|1009. I was a Phoebe — nothing more — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1090_i_am_afraid_to_own_a_body|1090. I am afraid to own a Body — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1142_the_props_assist_the_house|1142. The Props assist the House (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1167_alone_and_in_a_circumstance|1167. Alone and in a Circumstance (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1176_we_never_know_how_high_we_are|1176. We never know how high we are (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1189_the_voice_that_stands_for_floods_to_me|1189. The Voice that stands for Floods to me (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1210_the_sea_said_come_to_the_brook|1210. The Sea said Come to the Brook — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1223_who_goes_to_dine_must_take_his_feast|1223. Who goes to dine must take his Feast (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1225_its_hour_with_itself|1225. Its Hour with itself (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1273_that_sacred_closet_when_you_sweep|1273. That sacred Closet when you sweep — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1285_i_know_suspense_it_steps_so_terse|1285. I know Suspense — it steps so terse (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1385_secrets_is_a_daily_word|1385. Secrets is a daily word (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#1453_a_counterfeit_a_plated_person|1453. A Counterfeit — a Plated Person — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1588_this_me_that_walks_and_works_must_die|1588. This Me — that walks and works — must die, (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1663_his_mind_of_man_a_secret_makes|1663. His mind of man, a secret makes (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1727_if_ever_the_lid_gets_off_my_head|1727. If ever the lid gets off my head (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0199_im_wife_ive_finished_that|199. I'm wife — I've finished that — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0233_the_lamp_burns_sure_within|233. The Lamp burns sure — within — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0283_a_mien_to_move_a_queen|283. A Mien to move a Queen — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0284_the_drop_that_wrestles_in_the_sea|284. The Drop, that wrestles in the Sea — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0285_the_robins_my_criterion_for_tune|285. The Robin's my Criterion for Tune — (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0288_im_nobody_who_are_you|288. I'm Nobody! Who are you (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0300_morning_means_milking_to_the_farmer|300. Morning — means Milking — to the Farmer — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0303_the_soul_selects_her_own_society|303. The Soul selects her own Society — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0351_i_felt_my_life_with_both_my_hands|351. I felt my life with both my hands (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0356_the_day_that_i_was_crowned|356. The Day that I was crowned (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0410_the_first_days_night_had_come|410. The first Day's Night had come — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0443_i_tie_my_hat_i_crease_my_shawl|443. I tie my Hat — I crease my Shawl — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0451_the_outer_from_the_inner|451. The Outer — from the Inner (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0454_it_was_given_to_me_by_the_gods|454. It was given to me by the Gods — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0470_i_am_alive_i_guess|470. I am alive — I guess — (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0486_i_was_the_slightest_in_the_house|486. I was the slightest in the House — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0488_myself_was_formed_a_carpenter|488. Myself was formed — a Carpenter — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0508_im_ceded_ive_stopped_being_theirs|508. I'm ceded — I've stopped being Theirs — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0525_i_think_the_hemlock_likes_to_stand|525. I think the Hemlock likes to stand (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0540_i_took_my_power_in_my_hand|540. I took my Power in my Hand — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0543_i_fear_a_man_of_frugal_speech|543. I fear a Man of frugal Speech — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0563_i_could_not_prove_the_years_had_feet|563. I could not prove the Years had feet — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0578_the_body_grows_without|578. The Body grows without — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0587_empty_my_heart_of_thee|587. Empty my Heart, of Thee — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0594_the_battle_fought_between_the_soul|594. The Battle fought between the Soul (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0601_a_still_volcano_life|601. A still — Volcano — Life — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0613_they_shut_me_up_in_prose|613. They shut me up in Prose — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0632_the_brain_is_wider_than_the_sky|632. The Brain — is wider than the Sky — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0636_the_way_i_read_a_letters_this|636. The Way I read a Letter's — this — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0641_size_circumscribes_it_has_no_room|641. Size circumscribes — it has no room (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0642_me_from_myself_to_banish|642. Me from Myself — to banish — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0653_of_being_is_a_bird|653. Of Being is a Bird (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0659_that_first_day_when_you_praised_me_sweet|659. That first Day, when you praised Me, Sweet, (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0670_one_need_not_be_a_chamber_to_be_haunted|670. One need not be a Chamber — to be Haunted — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0677_to_be_alive_is_power|677. To be alive — is Power — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0680_each_life_converges_to_some_centre|680. Each Life Converges to some Centre — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0683_the_soul_unto_itself|683. The Soul unto itself (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0701_a_thought_went_up_my_mind_today|701. A Thought went up my mind today — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0704_no_matter_now_sweet|704. No matter — now — Sweet — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0713_fame_of_myself_to_justify|713. Fame of Myself, to justify, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0727_precious_to_me_she_still_shall_be|727. Precious to Me — She still shall be — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0732_she_rose_to_his_requirement_dropt|732. She rose to His Requirement — dropt (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0733_the_spirit_is_the_conscious_ear|733. The Spirit is the Conscious Ear. (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0738_you_said_that_i_was_great_one_day|738. You said that I was Great — one Day — (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0746_never_for_society|746. Never for Society (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0747_it_dropped_so_low_in_my_regard|747. It dropped so low — in my Regard — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0748_autumn_overlooked_my_knitting|748. Autumn — overlooked my Knitting — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0750_growth_of_man_like_growth_of_nature|750. Growth of Man — like Growth of Nature — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0753_my_soul_accused_me_and_i_quailed|753. My Soul — accused me — And I quailed — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0754_my_life_had_stood_a_loaded_gun|754. My Life had stood — a Loaded Gun — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0789_on_a_columnar_self|789. On a Columnar Self — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0822_this_consciousness_that_is_aware|822. This Consciousness that is aware (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0835_nature_and_god_i_neither_knew|835. Nature and God — I neither knew (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0842_good_to_hide_and_hear_em_hunt|842. Good to hide, and hear 'em hunt! (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0902_the_first_day_that_i_was_a_life|902. The first Day that I was a Life (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0969_he_who_in_himself_believes|969. He who in Himself believes — (Dickinson)]]
 - [[works/mélange-adultère-de-tout-(eliot)|Mélange Adultère de Tout (Eliot)]]
 - [[works/old-possum’s-book-of-practical-cats-(eliot)|OLD POSSUM’S BOOK OF PRACTICAL CATS (Eliot)]]
 - [[works/the-ad-dressing-of-cats-(eliot)|The Ad-dressing of Cats (Eliot)]]
@@ -134,13 +134,13 @@ tags:
 - [[works/the-murders-in-the-rue-morgue-(poe)|The Murders in the Rue Morgue (Poe)]]
 - [[works/william-wilson-(poe)|William Wilson (Poe)]]
 - [[works/richard-ii-(shakespeare)|RICHARD II (Shakespeare)]]
-- Sonnet 121 (Shakespeare)
-- Sonnet 20 (Shakespeare)
-- Sonnet 22 (Shakespeare)
-- Sonnet 36 (Shakespeare)
-- Sonnet 39 (Shakespeare)
-- Sonnet 62 (Shakespeare)
-- Sonnet 76 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_121|Sonnet 121 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_020|Sonnet 20 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_022|Sonnet 22 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_036|Sonnet 36 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_039|Sonnet 39 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_062|Sonnet 62 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_076|Sonnet 76 (Shakespeare)]]
 - [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
 - [[works/the-taming-of-the-shrew-(shakespeare)|THE TAMING OF THE SHREW (Shakespeare)]]
 - [[works/the-two-gentlemen-of-verona-(shakespeare)|THE TWO GENTLEMEN OF VERONA (Shakespeare)]]

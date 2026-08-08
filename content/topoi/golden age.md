@@ -38,9 +38,9 @@ tags:
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
 - [[works/robin-hood-(keats)|ROBIN HOOD (Keats)]]
 - [[works/the-haunted-palace-(poe)|The Haunted Palace (Poe)]]
-- Sonnet 59 (Shakespeare)
-- Sonnet 67 (Shakespeare)
-- Sonnet 68 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_059|Sonnet 59 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_067|Sonnet 67 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_068|Sonnet 68 (Shakespeare)]]
 - [[works/the-soul-of-man-under-socialism-(wilde)|The Soul of Man under Socialism (Wilde)]]
 - [[works/the-maracot-deep-(conan-doyle)|The Maracot Deep (Conan Doyle)]]
 

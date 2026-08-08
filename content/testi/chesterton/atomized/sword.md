@@ -17,28 +17,28 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-LA [[Sword|SPADA]] DI LEGNO [1928]
+LA SPADA DI LEGNO [1928]
 
 Laggiù, nel piccolo villaggio di Grayling-Abbot, nel Somerset, gli uomini non sapevano che il mondo in cui viviamo aveva avuto inizio. Non sapevano che tutto ciò che siamo giunti a chiamare «moderno» era entrato silenziosamente in Inghilterra, mutandone l'aria. [[motifs/well|Ebbene]], non lo sapevano molto chiaramente nemmeno a [[settings/london|Londra]]: benché un paio d'uomini scaltri come il mio Lord Clarendon, e forse il Principe Rupert, coi suoi elementi chimici e i suoi occhi tristi, potessero averne un barlume.
 
 Al contrario, secondo la teoria della cosa, il vecchio mondo era ritornato. Si poteva di nuovo celebrare il Natale; il terribile esercito era stato sciolto; il giovane bruno dal volto aspro e faceto, che era stato acclamato da Dover a Whitehall, recava in sé il [[motifs/blood|sangue]] dei re. Tutti dicevano (specialmente a Grayling-Abbot) che ora sarebbe stata di nuovo la Merry England, l'Inghilterra gioiosa. Ma il giovane bruno la sapeva più lunga. Il Monarca Gioioso sapeva di non essere destinato a fare l'Inghilterra gioiosa. Se trattava la propria vita come una [[forms/comedy|commedia]], era per una ragione filosofica; poiché la [[forms/comedy|commedia]] è l'unica poesia del compromesso. Ed egli era un compromesso; e lo sapeva. Perciò si volse, come il Principe Rupert, agli elementi chimici; e giocò coi piccoli balocchi che sarebbero divenuti le terribili macchine della scienza moderna. Così avrebbe potuto giocare con cuccioli di tigre, finché fossero rimasti piccoli quanto i suoi spaniel.
 
-Ma laggiù a Grayling-Abbot era assai più facile credere che la vecchia Inghilterra fosse stata restaurata, perché non era mai stata, in alcun senso serio, turbata. Le fiere contese religiose del Seicento avevano scosso quel rustico vicinato soltanto con occasionali panici di roghi di [[characters/witch|streghe]]. E questi, benché assai più rari nella società medievale, non le erano incongrui. Lo squire, Sir Guy Griffin, era famoso come combattente proprio alla maniera medievale. Benché avesse comandato una truppa sotto Newcastle nelle Guerre Civili con cospicuo [[success|successo]], la leggenda locale della sua prodezza fisica eclissava ogni cronaca nazionale della sua capacità militare. Per due o tre contee attorno a Grayling-Abbot, la sua fama di spadaccino aveva del tutto eclissato la sua fama di stratega. Così, nel Medioevo, accadde che la mano di Cuor di [[motifs/lion|Leone]] potesse conservare la testa: accadde che la mano di Bruce potesse conservare la testa. E in entrambi i casi la testa ha sofferto ingiustamente per la glorificazione della mano.
+Ma laggiù a Grayling-Abbot era assai più facile credere che la vecchia Inghilterra fosse stata restaurata, perché non era mai stata, in alcun senso serio, turbata. Le fiere contese religiose del Seicento avevano scosso quel rustico vicinato soltanto con occasionali panici di roghi di [[characters/witch|streghe]]. E questi, benché assai più rari nella società medievale, non le erano incongrui. Lo squire, Sir Guy Griffin, era famoso come combattente proprio alla maniera medievale. Benché avesse comandato una truppa sotto Newcastle nelle Guerre Civili con cospicuo successo, la leggenda locale della sua prodezza fisica eclissava ogni cronaca nazionale della sua capacità militare. Per due o tre contee attorno a Grayling-Abbot, la sua fama di spadaccino aveva del tutto eclissato la sua fama di stratega. Così, nel Medioevo, accadde che la mano di Cuor di [[motifs/lion|Leone]] potesse conservare la testa: accadde che la mano di Bruce potesse conservare la testa. E in entrambi i casi la testa ha sofferto ingiustamente per la glorificazione della mano.
 
-La stessa tradizione medievale, quasi ininterrotta, aderiva perfino al giovane maestro di scuola, Dennis Tryon, che stava appunto chiudendo la sua piccola scuola per l'ultima [[motifs/time|volta]]; essendo stato trasferito a un impiego privato nella [[house|casa]] stessa di Sir Guy, per istruire i sei corpulenti figli di Sir Guy, che avevano appreso l'abilità paterna con la [[Sword|spada]], e fino a quel momento avevano ricusato d'imparare altro. In modi innumerevoli e senza nome, Tryon esprimeva le antiche tradizioni. Non era un Puritano, eppure vestiva di nero perché avrebbe potuto essere un prete. Benché avesse imparato a tirar di scherma e a [[motifs/dance|danzare]] al College, come [[historical-references/milton|Milton]], era vestito con semplicità e disarmato; poiché rimaneva la vaga leggenda che uno studente fosse una sorta di chierico, e un chierico una sorta di ecclesiastico. Portava lunghi i capelli castani, come un Cavaliere. Ma poiché erano i suoi propri capelli, erano lunghi e lisci: mentre i Cavalieri cominciavano già a portare i capelli altrui, che erano lunghi e ricci. In quella severa cornice bruna, il suo volto aveva l'aspetto fanciullesco, franco e piuttosto tondo che si può vedere nelle vecchie miniature di Falkland o del Duca di Monmouth. I suoi autori prediletti erano George Herbert e Sir Thomas Browne; ed egli era molto giovane.
+La stessa tradizione medievale, quasi ininterrotta, aderiva perfino al giovane maestro di scuola, Dennis Tryon, che stava appunto chiudendo la sua piccola scuola per l'ultima [[motifs/time|volta]]; essendo stato trasferito a un impiego privato nella casa stessa di Sir Guy, per istruire i sei corpulenti figli di Sir Guy, che avevano appreso l'abilità paterna con la spada, e fino a quel momento avevano ricusato d'imparare altro. In modi innumerevoli e senza nome, Tryon esprimeva le antiche tradizioni. Non era un Puritano, eppure vestiva di nero perché avrebbe potuto essere un prete. Benché avesse imparato a tirar di scherma e a [[motifs/dance|danzare]] al College, come [[historical-references/milton|Milton]], era vestito con semplicità e disarmato; poiché rimaneva la vaga leggenda che uno studente fosse una sorta di chierico, e un chierico una sorta di ecclesiastico. Portava lunghi i capelli castani, come un Cavaliere. Ma poiché erano i suoi propri capelli, erano lunghi e lisci: mentre i Cavalieri cominciavano già a portare i capelli altrui, che erano lunghi e ricci. In quella severa cornice bruna, il suo volto aveva l'aspetto fanciullesco, franco e piuttosto tondo che si può vedere nelle vecchie miniature di Falkland o del Duca di Monmouth. I suoi autori prediletti erano George Herbert e Sir Thomas Browne; ed egli era molto giovane.
 
 Stava rivolgendo un'ultima parola a un ultimo allievo, che per caso s'attardava fuori della scuola: un minuto fanciullo di sette anni, che giocava con una di quelle spade di legno, fatte di due assicelle inchiodate a croce l'una sull'altra, con cui i ragazzi hanno giocato in tutti i secoli.
 
-«Jeremy Bunt», disse Tryon, con una giocosità piuttosto [[concepts/melancholy|malinconica]], «la tua [[Sword|spada]] è, a quanto mi pare, assai migliore della maggior parte di quelle che abbiamo osservato di recente. Osservo che la sua punta è alquanto ottusa; senza dubbio per quella galante ragione che indusse [[characters/orlando|Orlando]] a smussare la propria [[Sword|spada]] quando combatteva contro la dama il cui nome, nell'ingegnoso [[Romance|romanzo]], mi sfugge. Ti basti questo, piccolo mio. Ucciderà i Giganti, come la [[Sword|spada]] affilata di Mastro Jack, almeno altrettanto [[motifs/well|bene]] di quanto faranno mai le spade di un esercito permanente. Se sei disposto a salvare la Dama Angelica dall'orco, essa tramuterà il drago in pietra tanto in fretta quanto farebbe qualsiasi [[Sword|spada]] d'acciaio. E, oh, Jeremy, se la [[forms/fable|favola]] è falsa, la morale non è falsa. Se un fanciullo è buono e coraggioso, dovrebbe essere grande, e può esserlo. Se è cattivo e vile, dovrebbe essere battuto con un bastone» — qui Tryon gli batté assai dolcemente sulle spalle con una lunga canna nera da passeggio che era comunemente la sua sola ferula — «ma in ogni caso, a mio giudizio, la tua [[Sword|spada]] è buona quanto qualsiasi altra. Solo, caro Jeremy» — e si chinò rapidamente sul [[archetypes/child|fanciullo]], con improvvisa tenerezza — «ricorda sempre che la tua specie di [[Sword|spada]] è più forte se la si impugna dalla parte sbagliata».
+«Jeremy Bunt», disse Tryon, con una giocosità piuttosto [[concepts/melancholy|malinconica]], «la tua spada è, a quanto mi pare, assai migliore della maggior parte di quelle che abbiamo osservato di recente. Osservo che la sua punta è alquanto ottusa; senza dubbio per quella galante ragione che indusse [[characters/orlando|Orlando]] a smussare la propria spada quando combatteva contro la dama il cui nome, nell'ingegnoso romanzo, mi sfugge. Ti basti questo, piccolo mio. Ucciderà i Giganti, come la spada affilata di Mastro Jack, almeno altrettanto [[motifs/well|bene]] di quanto faranno mai le spade di un esercito permanente. Se sei disposto a salvare la Dama Angelica dall'orco, essa tramuterà il drago in pietra tanto in fretta quanto farebbe qualsiasi spada d'acciaio. E, oh, Jeremy, se la [[forms/fable|favola]] è falsa, la morale non è falsa. Se un fanciullo è buono e coraggioso, dovrebbe essere grande, e può esserlo. Se è cattivo e vile, dovrebbe essere battuto con un bastone» — qui Tryon gli batté assai dolcemente sulle spalle con una lunga canna nera da passeggio che era comunemente la sua sola ferula — «ma in ogni caso, a mio giudizio, la tua spada è buona quanto qualsiasi altra. Solo, caro Jeremy» — e si chinò rapidamente sul [[archetypes/child|fanciullo]], con improvvisa tenerezza — «ricorda sempre che la tua specie di spada è più forte se la si impugna dalla parte sbagliata».
 
-Rovesciò la piccola [[Sword|spada]] nella mano del [[archetypes/child|fanciullo]], facendone una [[motifs/cross|croce]] di legno, e poi risalì a gran passi la [[motifs/road|strada]] come il [[motifs/wind|vento]], lasciandosi dietro il ragazzo che lo fissava.
+Rovesciò la piccola spada nella mano del [[archetypes/child|fanciullo]], facendone una [[motifs/cross|croce]] di legno, e poi risalì a gran passi la [[motifs/road|strada]] come il [[motifs/wind|vento]], lasciandosi dietro il ragazzo che lo fissava.
 
 Quando si accorse che piedi umani lo seguivano, seppe che non potevano in alcun modo essere i piedi del ragazzo. Si volse a guardare; e Jeremy indugiava ancora in lontananza; ma quel precipitar di passi veniva da causa ben diversa.
 
 Una giovane dama passava in fretta rasente l'alta siepe che era quasi antica quanto i Plantageneti. Il suo abbigliamento era simile al suo, nel senso che aveva la quiete del Puritano con il taglio del Cavaliere. La sua veste era scura quanto Barebones avrebbe potuto desiderare; ma i riccioli sotto il cappuccio erano biondi e inanellati, per la stessa ragione per cui i capelli di lui erano castani e lisci: perché erano i suoi propri. Nulla di lei era notevole, tranne che era graziosa e pareva piuttosto in fretta; e che il suo delicato profilo era rivolto risoluto su per la [[motifs/road|strada]]. Il volto era un poco pallido.
 
 Tryon si voltò di nuovo a guardare i propri passi; e questa [[motifs/time|volta]] vide
-un'altra figura più temibile di Jeremy con la [[Sword|spada]] di legno.
+un'altra figura più temibile di Jeremy con la spada di legno.
 
 Una figura alta e spavalda, quasi nera contro il sole,
 scendeva per la [[motifs/road|strada]] con una rapidità che quasi rasentava la corsa.
@@ -51,7 +51,7 @@ Aveva visto Sir Guy ficcarsi nel cappello le più sbalorditive
 penne di gallo, ma ciò perché non aveva altre penne.
 Ma Tryon capì a colpo d'occhio che Sir Guy non si sarebbe mai fatto avanti
 in atteggiamenti tanto straordinari. L'uomo alto e fantastico giunse davvero
-a sguainare la [[Sword|spada]] mentre correva avanti; e la porgeva come una lancia da
+a sguainare la spada mentre correva avanti; e la porgeva come una lancia da
 spezzare, come dall'estremità di un lungo campo di torneo. Simili baldorie possono essere
 accadute cento volte intorno al 'Cock' di [[characters/buckingham|Buckingham]] e Dorset.
 Ma era un gesto del tutto ignoto alla nobiltà intorno a Grayling-Abbot,
@@ -62,7 +62,7 @@ si sentì rivolgere la parola, senza fiato, dalla fanciulla in fuga.
 
 'Non dovete battervi con lui,' disse, 'ha battuto tutti.
 Ha battuto persino Sir Guy, e tutti i suoi figli.' Girò gli occhi
-intorno a lui e gridò con orrore: 'E dov'è la vostra [[Sword|spada]]?'
+intorno a lui e gridò con orrore: 'E dov'è la vostra spada?'
 
 'Insieme ai miei speroni, madamigella,' rispose il maestro di scuola, nel migliore
 stile dell'Ariosto. 'Devo conquistare gli uni e l'altra.'
@@ -71,7 +71,7 @@ Lei lo guardò piuttosto smarrita e disse: 'Ma lui non è mai stato
 sconfitto nella scherma.'
 
 Tryon, con un sorriso, fece un saluto col suo bastone da passeggio nero. 'Un
-uomo senza [[Sword|spada]],' disse, 'non può mai essere sconfitto nella scherma.'
+uomo senza spada,' disse, 'non può mai essere sconfitto nella scherma.'
 
 La fanciulla rimase un istante a fissarlo come se, perfino in quella
 scena di trambusto e inseguimento, il [[motifs/time|tempo]] si fosse sospeso per un lampo.
@@ -82,13 +82,13 @@ Mastro Jeremy Bunt, che non aveva la minima intenzione di abbandonare
 la deliziosa scuola in cui non gli era più richiesto di fare alcun lavoro,
 corse davvero avanti. Forse la loro curiosità andrebbe scusata.
 Perché stavano certamente assistendo al duello più sbalorditivo
-che il mondo avesse mai visto. Era il duello della [[Sword|spada]] nuda
+che il mondo avesse mai visto. Era il duello della spada nuda
 e del bastone da passeggio: probabilmente l'unica battaglia meramente difensiva
 mai combattuta su questa terra.
 
 Il giorno era pieno di sole e di [[motifs/wind|vento]], i due ingredienti principali
 di una giornata gloriosa; ma fino a quel momento perfino il signor Tryon,
-benché d'indole [[Pastoral|pastorale]] e poetica, non aveva notato nulla di
+benché d'indole pastorale e poetica, non aveva notato nulla di
 particolarmente splendido nel cielo o nel paesaggio. Ora la [[concepts/beauty|bellezza]] di questo
 mondo lo assalì con la violenza di una visione [[motifs/supernatural|soprannaturale]];
 poiché era ben certo che era una visione che presto avrebbe dovuto perdere.
@@ -97,7 +97,7 @@ Ma non c'era da aspettarsi che alcun essere umano potesse uscire vincitore
 da un combattimento prolungato in cui non aveva alcun mezzo per contrattaccare;
 e specialmente perché il suo avversario, sia per ubriachezza sia per diavoleria,
 combatteva chiaramente all'ultimo [[motifs/death|sangue]]. Tryon non poteva essere certo che
-la creatura selvaggia sapesse nemmeno che la sua [[Sword|spada]] colpiva solo il legno.
+la creatura selvaggia sapesse nemmeno che la sua spada colpiva solo il legno.
 
 Dennis Tryon colse ogni gloria della buona terra inglese,
 e del clima inglese ancora più glorioso, con la coda
@@ -129,16 +129,16 @@ Quando pareva accecato dalla luce stessa su quella lama di [[motifs/lightning|fo
 che gli guizzava agli occhi, ma gli passava sopra la spalla, vedeva il vecchio
 prato di Merton, come se l'erba fosse spuntata dalla [[motifs/road|strada]] intorno a lui.
 Ma cominciò sempre più a rendersi conto di qualcos'altro.
-Si rese conto che, se avesse impugnato una vera [[Sword|spada]], avrebbe potuto uccidere
+Si rese conto che, se avesse impugnato una vera spada, avrebbe potuto uccidere
 il suo nemico sei volte con la _riposta._ Quando la stoccata al cuore
-veniva deviata, avrebbe potuto conficcargli la [[Sword|spada]] come un trinciante
-in un budino—se solo fosse stata una [[Sword|spada]]. Quando la parata proteggeva
+veniva deviata, avrebbe potuto conficcargli la spada come un trinciante
+in un budino—se solo fosse stata una spada. Quando la parata proteggeva
 i suoi occhi, nient'altro avrebbe potuto proteggere il suo avversario,
 tranne la qualità non penetrante di un bastone da passeggio. Il suo cervello era
 del genere assai limpido che può giocare due partite a scacchi in una volta.
 Mentre ancora faceva turbinare il suo bastone da passeggio nero in un complicato ma
 improvvisato ingranaggio di scherma, vide con tutta chiarezza un'alternativa logica.
-O l'uomo credeva di battersi con qualcuno armato di [[Sword|spada]]:
+O l'uomo credeva di battersi con qualcuno armato di spada:
 nel qual caso era uno schermidore pessimo. Oppure sapeva di
 battersi con qualcuno armato di bastone, nel qual caso era un pessimo uomo:
 o (come suona la più timida frase moderna) un pessimo sportivo.
@@ -146,15 +146,15 @@ o (come suona la più timida frase moderna) un pessimo sportivo.
 Agì d'improvviso in un modo adatto all'uno e all'altro caso. Introdusse
 nel suo gioco di spada un colpo di bastone singolo, anch'esso appreso al Collegio,
 scattando col bastone verso l'alto così da colpire e scuotere il gomito dell'uomo; e poi,
-prima che il braccio potesse ritrovare il suo nerbo, sbatté via la [[Sword|spada]] netta
+prima che il braccio potesse ritrovare il suo nerbo, sbatté via la spada netta
 dalla mano. Un'occhiata all'espressione nera e sbigottita dell'uomo bastò.
 Tryon era ormai del tutto certo che il vantaggio dell'uomo fosse stato solo
-nella sua [[Sword|spada]]. Era anche del tutto certo che l'uomo lo sapesse.
+nella sua spada. Era anche del tutto certo che l'uomo lo sapesse.
 Con tutto l'impeto del suo romanticismo liberato, che ruggiva
 come il [[motifs/wind|vento]], e rotolava come le nubi, e fiammeggiava come il sole
 che aveva creduto di non veder più, balzò avanti e inchiodò
 l'uomo per la gola, con uno scoppio di risa. Poi disse,
-con [[Humour|umorismo]] più contenuto, ciò che aveva detto al ragazzino
+con umorismo più contenuto, ciò che aveva detto al ragazzino
 su per la [[motifs/road|strada]].
 
 'Se è cattivo e vile,' disse Tryon, 'dev'essere battuto con un bastone.'
@@ -165,7 +165,7 @@ e se ne andò di nuovo su per la [[motifs/road|strada]] come il [[motifs/wind|ve
 Non badò oltre a ciò che il suo nemico assassino potesse tentare,
 ma era onestamente perplesso circa la condotta della folla.
 Perché, a quest'[[motifs/time|ora]], c'era una folla assai considerevole.
-Jeremy portatore di [[Sword|spada]] spiccava bene nella calca dietro di lui;
+Jeremy portatore di spada spiccava bene nella calca dietro di lui;
 la dama dai riccioli d'oro e dal profilo sensibile si stava lei stessa
 soffermando un momento ai margini della calca davanti.
 
@@ -190,7 +190,7 @@ in qualche senso, salvato Angelica dal drago. Io ero un po' più
 impacciato in fatto d'armi, e lei un po' meno impacciata
 in fatto d'abbigliamento, e lì, in verità, la differenza pare finire.
 Ma la cosa più strana di tutte è che, qualunque cosa io abbia fatto,
-l'ho fatta con una [[Sword|spada]] di legno, come quella del piccolo Jeremy.'
+l'ho fatta con una spada di legno, come quella del piccolo Jeremy.'
 
 Nelle sue riflessioni accademiche, sollevò il lungo bastone nero per guardarlo;
 e, mentre lo faceva, il grido di molte folle esplose intorno a lui
@@ -218,7 +218,7 @@ a sembrargli fantastico e incredibile quanto i suoi archi di trionfo.
 
 'Certamente è una faccenda strana,' disse a sé stesso nella sua semplicità.
 'Ero un discreto buon schermidore a Merton, ma non eccellente.
-Non così bravo come Wilton o [[smith|Smith]] o il vecchio [[archetypes/king|King]] di [[characters/christ|Christ]] Church.
+Non così bravo come Wilton o Smith o il vecchio [[archetypes/king|King]] di [[characters/christ|Christ]] Church.
 Non è credibile che uomini come questi non potessero batterlo
 con le loro grandi spade, quando io ho potuto batterlo con un bastone.
 Questa è qualche burla della grande nobiltà, come nell'ingegnoso racconto
@@ -264,7 +264,7 @@ a una confidenza che il vecchio non avrebbe riposto in altri.
 a governarci il [[characters/king-of-france|Re di Francia]] quanto il [[archetypes/king|Re]] d'Inghilterra.
 Ha riportato con sé donne francesi che recitano nelle commedie di scena
 come se fossero maschi; e trucchi degni di speziali o prestigiatori
-a una fiera, e trucchi come quello di costui, che mi strappò via la [[Sword|spada]],
+a una fiera, e trucchi come quello di costui, che mi strappò via la spada,
 e a tutti gli altri—finché non trovò il suo maestro, grazie a Dio.'
 E sorrise a Tryon, acido, ma con rispetto.
 
@@ -277,8 +277,8 @@ E sorrise a Tryon, acido, ma con rispetto.
 
 'Il suo volto è dipinto,' disse Griffin. 'È il genere di cose che
 fanno a [[settings/london|Londra]]. E porta una montagna di finti capelli usciti dalla bottega di un barbiere;
-e ci va in giro dentro, come la [[house|casa]] di un Jack-in-the-Green.
-Ma la sua era la migliore [[Sword|spada]], come quella del vecchio Noll era il migliore esercito.
+e ci va in giro dentro, come la casa di un Jack-in-the-Green.
+Ma la sua era la migliore spada, come quella del vecchio Noll era il migliore esercito.
 E che potevamo fare?'
 
 Il terzo fatto, che colpì Dennis Tryon più profondamente di tutti, fu uno
@@ -337,7 +337,7 @@ quasi nell'immagine di un luogo di pestilenza o di una [[motifs/city|città]] de
 L'intera popolazione dei due villaggi di Grayling (salvo i
 non combattenti come Bunt dalla spada di legno) era svanita dalle loro
 strade e case. Tornarono nell'ora buia prima dell'[[motifs/dawn|alba]];
-e portarono con sé l'uomo dalla [[Sword|spada]] [[Magic|magica]].
+e portarono con sé l'uomo dalla spada magica.
 
 Gli uomini nell'Inghilterra moderna, che non hanno mai visto una rivoluzione,
 che non hanno mai visto nemmeno una vera folla, non possono immaginare cosa fosse la cattura
@@ -354,19 +354,19 @@ l'un l'altro con un'intima tenerezza mai più dissolta.
 Ma non le venne mai in mente di provar pietà per lo stregone.
 
 Egli stava in piedi sulla riva del [[motifs/river|fiume]], con le mani legate dietro,
-ma la [[Sword|spada]] ancora al fianco; nessuno disposto a mettervi le mani.
+ma la spada ancora al fianco; nessuno disposto a mettervi le mani.
 La sua parrucca era stata strappata via; e la sua testa rapata sembrava
 rendere più stridenti e orribili i colori innaturali del suo volto.
 Era come una qualche maschera di demone dipinta. Ma era del tutto composto,
 e perfino sprezzante. Di tanto in tanto la gente gli scagliava cose,
 come a uno alla gogna; perfino il piccolo Jeremy Bunt gli lanciava la sua
-[[Sword|spada]] di legno, con tutto l'entusiasmo della Crociata dei Fanciulli.
+spada di legno, con tutto l'entusiasmo della Crociata dei Fanciulli.
 Ma la maggior parte delle cose lo mancava e cadeva nel [[motifs/river|fiume]] che scorreva dietro,
 nel quale (poco poteva esservi [[concepts/doubt|dubbio]]) egli stesso doveva essere
 gettato alla fine.
 
 Allora si levò per un istante, nella luce tempestosa, quel raro ma
-autentico spirito per amore del quale gli uomini hanno [[Alone|soltanto]] tollerato l'aristocrazia,
+autentico spirito per amore del quale gli uomini hanno soltanto tollerato l'aristocrazia,
 ovvero la divisione dell'uomo dall'uomo. Il volto sfregiato di Sir Guy appariva
 insolitamente imbronciato, o persino astioso; ma egli si volse alla sua
 scorta di figli. "Dobbiamo riportarlo sano e salvo alla Grange,"
@@ -381,8 +381,8 @@ luce del mattino.
 
 "Ragazzi," disse, "è nelle mani di Dio se costui sia stregone o no.
 Ma si dovrà dire del nostro [[motifs/blood|Sangue]] che abbiamo condotto folle e mazze
-a uccidere un uomo che aveva battuto ciascuno di noi lealmente con la [[Sword|spada]]?
-Si dirà che, quando i Griffin trovarono chi li eguagliasse, guairono contro la [[Magic|magia]]?
+a uccidere un uomo che aveva battuto ciascuno di noi lealmente con la spada?
+Si dirà che, quando i Griffin trovarono chi li eguagliasse, guairono contro la magia?
 Fate cerchio intorno a lui, e lo porteremo vivo attraverso
 un migliaio di [[characters/witch|caccia]]-streghe."
 
@@ -391,11 +391,11 @@ come una collana di aculei. A quei tempi le folle erano assai più ardite
 contro i loro padroni di quanto lo siano oggi. Ma anche quella folla
 riconosceva ai Griffin una reputazione militare superiore al loro semplice
 rango territoriale; e le parti risultavano perciò più pari.
-Non c'era [[Sword|spada]] in quella ressa migliore di una [[Sword|spada]] Griffin;
-tranne la [[Sword|spada]] che pendeva inutile al fianco di un uomo immobilizzato.
+Non c'era spada in quella ressa migliore di una spada Griffin;
+tranne la spada che pendeva inutile al fianco di un uomo immobilizzato.
 
 Prima dell'attimo seguente, che sarebbe stato [[motifs/blood|sangue]] e distruzione,
-l'uomo dalla [[Sword|spada]] inutile parlò. "Se qualche gentiluomo,"
+l'uomo dalla spada inutile parlò. "Se qualche gentiluomo,"
 disse con marmorea calma, "vorrà soltanto mettere una mano nella tasca
 del mio farsetto, credo che si risparmierà lo spargimento di sangue."
 
@@ -412,7 +412,7 @@ privata di Sua Maestà, che non leggerò per intero.
 Ma essa consiglia e permette a Sir Godfrey Skene di esercitarsi con la nuova
 [[works/sword-(chesterton)|Sword]] Magnetica che la Royal Society da qualche [[motifs/time|tempo]]
 tenta di fabbricare in virtù di un suggerimento di Lord Verulam,
-fondatore della nostra [[philosophy|Filosofia]] Naturale. L'intera lama è magnetizzata;
+fondatore della nostra Filosofia Naturale. L'intera lama è magnetizzata;
 e si pensa che possa persino strappare qualsiasi altra arma di ferro
 dalla mano."
 
@@ -421,13 +421,13 @@ Fece una pausa, con un certo imbarazzo, e poi disse:
 potrebbe essere usata contro di essa."
 
 Sir Guy si volse a lui d'un tratto e disse: "È questo ciò che voi
-chiamate [[philosophy|Filosofia]] Naturale?"
+chiamate Filosofia Naturale?"
 
 "Sì," rispose Tryon.
 
 "Vi ringrazio," disse Griffin. "Non c'è bisogno che la insegniate ai miei figli."
 
-Poi mosse a grandi passi verso il prigioniero, e gli strappò via la [[Sword|spada]],
+Poi mosse a grandi passi verso il prigioniero, e gli strappò via la spada,
 spezzando la cintura che la reggeva.
 
 "Se non fosse la mano stessa di Sua Maestà," disse, "ti scaglierei
@@ -442,7 +442,7 @@ per sempre dalla vista degli uomini; e Tryon non poté vedere altro che la picco
 <span class="atom-split" data-atom="part--part_01" data-title="Sword (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/cross,motif/dance,motif/lion,motif/road,motif/time,motif/well,motif/wind,concept/melancholy,form/comedy,form/fable,histref/milton,setting/london,character/milton,character/orlando,character/witch"></span>
 
 
-THE [[Sword|SWORD]] OF WOOD [1928]
+THE SWORD OF WOOD [1928]
 
 DOWN in the little village of Grayling-Abbot, in Somerset, men did
 not know that the world we live in had begun.  They did not know
@@ -475,7 +475,7 @@ panics of [[characters/witch|witch]]-burning. And these, though much rarer in th
 medieval society, were not inconsistent with it.  The squire,
 Sir Guy Griffin, was famous as a fighter quite in the medieval style.
 Though he had commanded a troop under Newcastle in the Civil Wars
-with conspicuous [[success]], the local legend of his bodily prowess
+with conspicuous success, the local legend of his bodily prowess
 eclipsed any national chronicle of his military capacity.
 Through two or three counties round Grayling-Abbot, his reputation
 for swordsmanship had quite eclipsed his reputation for generalship.
@@ -487,8 +487,8 @@ of the hand.
 The same almost unbroken medieval tradition even clung round
 the young schoolmaster, Dennis Tryon, who was just locking up his
 little school for the last [[motifs/time|time]]; having been transferred to a private
-post at Sir Guy's own [[house]], to teach Sir Guy's six hulking sons,
-who had learned their father's skill with the [[Sword|sword]], and hitherto
+post at Sir Guy's own house, to teach Sir Guy's six hulking sons,
+who had learned their father's skill with the sword, and hitherto
 declined to learn anything else.  In numberless and nameless ways,
 Tryon expressed the old traditions.  He was not a Puritan,
 yet he wore black clothes because he might have been a priest.
@@ -510,26 +510,26 @@ of those wooden swords, made of two lengths of lath nailed across
 each other, which boys have played with in all centuries.
 
 'Jeremy Bunt,' said Tryon, with a rather [[concepts/melancholy|melancholy]] playfulness,
-'your [[Sword|sword]] is, as it seems to me, much an improvement on most we
+'your sword is, as it seems to me, much an improvement on most we
 have lately looked on.  I observe its end is something blunt;
 doubtless for that gallant reason that led [[characters/orlando|Orlando]] to blunt
-his [[Sword|sword]] when fighting the lady, whose name, in the ingenious
-[[Romance|romance]], escapes me.  Let it suffice you, little one.
-It will kill the Giants, like Master Jack's [[Sword|sword]] of sharpness,
+his sword when fighting the lady, whose name, in the ingenious
+romance, escapes me.  Let it suffice you, little one.
+It will kill the Giants, like Master Jack's sword of sharpness,
 at least as [[motifs/well|well]] as the swords of a standing army ever will.
 If you be minded to save the Lady Angelica from the ogre, it will
-turn the dragon to stone as quick as any [[Sword|sword]] of steel would do.
+turn the dragon to stone as quick as any sword of steel would do.
 And, oh, Jeremy, if the [[forms/fable|fable]] be false, the moral is not false.
 If a little boy be good and brave, he should be great, and he may be.
 If he be bad and base, he should be beaten with a staff'--
 here Tryon tapped him very softly on the shoulders with a long
 black walking-cane that was commonly his only ferule--'but in
-either way, to my thinking, your [[Sword|sword]] is as good as any other.
+either way, to my thinking, your sword is as good as any other.
 Only, dear Jeremy'--and he bent over the [[archetypes/child|child]] swiftly, with a sudden
-tenderness--'always remember your kind of [[Sword|sword]] is stronger if one
+tenderness--'always remember your kind of sword is stronger if one
 holds it by the wrong end.'
 
-He reversed the little [[Sword|sword]] in the [[archetypes/child|child]]'s hand, making it
+He reversed the little sword in the [[archetypes/child|child]]'s hand, making it
 a wooden [[motifs/cross|cross]], and then went striding up the [[motifs/road|road]] like the [[motifs/wind|wind]],
 leaving the staring boy behind.
 
@@ -552,21 +552,21 @@ The face was a little pale.
 
 <span class="qlang-split" data-lang="it"></span>
 
-LA [[Sword|SPADA]] DI LEGNO [1928]
+LA SPADA DI LEGNO [1928]
 
 Laggiù, nel piccolo villaggio di Grayling-Abbot, nel Somerset, gli uomini non sapevano che il mondo in cui viviamo aveva avuto inizio. Non sapevano che tutto ciò che siamo giunti a chiamare «moderno» era entrato silenziosamente in Inghilterra, mutandone l'aria. [[motifs/well|Ebbene]], non lo sapevano molto chiaramente nemmeno a [[settings/london|Londra]]: benché un paio d'uomini scaltri come il mio Lord Clarendon, e forse il Principe Rupert, coi suoi elementi chimici e i suoi occhi tristi, potessero averne un barlume.
 
 Al contrario, secondo la teoria della cosa, il vecchio mondo era ritornato. Si poteva di nuovo celebrare il Natale; il terribile esercito era stato sciolto; il giovane bruno dal volto aspro e faceto, che era stato acclamato da Dover a Whitehall, recava in sé il [[motifs/blood|sangue]] dei re. Tutti dicevano (specialmente a Grayling-Abbot) che ora sarebbe stata di nuovo la Merry England, l'Inghilterra gioiosa. Ma il giovane bruno la sapeva più lunga. Il Monarca Gioioso sapeva di non essere destinato a fare l'Inghilterra gioiosa. Se trattava la propria vita come una [[forms/comedy|commedia]], era per una ragione filosofica; poiché la [[forms/comedy|commedia]] è l'unica poesia del compromesso. Ed egli era un compromesso; e lo sapeva. Perciò si volse, come il Principe Rupert, agli elementi chimici; e giocò coi piccoli balocchi che sarebbero divenuti le terribili macchine della scienza moderna. Così avrebbe potuto giocare con cuccioli di tigre, finché fossero rimasti piccoli quanto i suoi spaniel.
 
-Ma laggiù a Grayling-Abbot era assai più facile credere che la vecchia Inghilterra fosse stata restaurata, perché non era mai stata, in alcun senso serio, turbata. Le fiere contese religiose del Seicento avevano scosso quel rustico vicinato soltanto con occasionali panici di roghi di [[characters/witch|streghe]]. E questi, benché assai più rari nella società medievale, non le erano incongrui. Lo squire, Sir Guy Griffin, era famoso come combattente proprio alla maniera medievale. Benché avesse comandato una truppa sotto Newcastle nelle Guerre Civili con cospicuo [[success|successo]], la leggenda locale della sua prodezza fisica eclissava ogni cronaca nazionale della sua capacità militare. Per due o tre contee attorno a Grayling-Abbot, la sua fama di spadaccino aveva del tutto eclissato la sua fama di stratega. Così, nel Medioevo, accadde che la mano di Cuor di [[motifs/lion|Leone]] potesse conservare la testa: accadde che la mano di Bruce potesse conservare la testa. E in entrambi i casi la testa ha sofferto ingiustamente per la glorificazione della mano.
+Ma laggiù a Grayling-Abbot era assai più facile credere che la vecchia Inghilterra fosse stata restaurata, perché non era mai stata, in alcun senso serio, turbata. Le fiere contese religiose del Seicento avevano scosso quel rustico vicinato soltanto con occasionali panici di roghi di [[characters/witch|streghe]]. E questi, benché assai più rari nella società medievale, non le erano incongrui. Lo squire, Sir Guy Griffin, era famoso come combattente proprio alla maniera medievale. Benché avesse comandato una truppa sotto Newcastle nelle Guerre Civili con cospicuo successo, la leggenda locale della sua prodezza fisica eclissava ogni cronaca nazionale della sua capacità militare. Per due o tre contee attorno a Grayling-Abbot, la sua fama di spadaccino aveva del tutto eclissato la sua fama di stratega. Così, nel Medioevo, accadde che la mano di Cuor di [[motifs/lion|Leone]] potesse conservare la testa: accadde che la mano di Bruce potesse conservare la testa. E in entrambi i casi la testa ha sofferto ingiustamente per la glorificazione della mano.
 
-La stessa tradizione medievale, quasi ininterrotta, aderiva perfino al giovane maestro di scuola, Dennis Tryon, che stava appunto chiudendo la sua piccola scuola per l'ultima [[motifs/time|volta]]; essendo stato trasferito a un impiego privato nella [[house|casa]] stessa di Sir Guy, per istruire i sei corpulenti figli di Sir Guy, che avevano appreso l'abilità paterna con la [[Sword|spada]], e fino a quel momento avevano ricusato d'imparare altro. In modi innumerevoli e senza nome, Tryon esprimeva le antiche tradizioni. Non era un Puritano, eppure vestiva di nero perché avrebbe potuto essere un prete. Benché avesse imparato a tirar di scherma e a [[motifs/dance|danzare]] al College, come [[historical-references/milton|Milton]], era vestito con semplicità e disarmato; poiché rimaneva la vaga leggenda che uno studente fosse una sorta di chierico, e un chierico una sorta di ecclesiastico. Portava lunghi i capelli castani, come un Cavaliere. Ma poiché erano i suoi propri capelli, erano lunghi e lisci: mentre i Cavalieri cominciavano già a portare i capelli altrui, che erano lunghi e ricci. In quella severa cornice bruna, il suo volto aveva l'aspetto fanciullesco, franco e piuttosto tondo che si può vedere nelle vecchie miniature di Falkland o del Duca di Monmouth. I suoi autori prediletti erano George Herbert e Sir Thomas Browne; ed egli era molto giovane.
+La stessa tradizione medievale, quasi ininterrotta, aderiva perfino al giovane maestro di scuola, Dennis Tryon, che stava appunto chiudendo la sua piccola scuola per l'ultima [[motifs/time|volta]]; essendo stato trasferito a un impiego privato nella casa stessa di Sir Guy, per istruire i sei corpulenti figli di Sir Guy, che avevano appreso l'abilità paterna con la spada, e fino a quel momento avevano ricusato d'imparare altro. In modi innumerevoli e senza nome, Tryon esprimeva le antiche tradizioni. Non era un Puritano, eppure vestiva di nero perché avrebbe potuto essere un prete. Benché avesse imparato a tirar di scherma e a [[motifs/dance|danzare]] al College, come [[historical-references/milton|Milton]], era vestito con semplicità e disarmato; poiché rimaneva la vaga leggenda che uno studente fosse una sorta di chierico, e un chierico una sorta di ecclesiastico. Portava lunghi i capelli castani, come un Cavaliere. Ma poiché erano i suoi propri capelli, erano lunghi e lisci: mentre i Cavalieri cominciavano già a portare i capelli altrui, che erano lunghi e ricci. In quella severa cornice bruna, il suo volto aveva l'aspetto fanciullesco, franco e piuttosto tondo che si può vedere nelle vecchie miniature di Falkland o del Duca di Monmouth. I suoi autori prediletti erano George Herbert e Sir Thomas Browne; ed egli era molto giovane.
 
 Stava rivolgendo un'ultima parola a un ultimo allievo, che per caso s'attardava fuori della scuola: un minuto fanciullo di sette anni, che giocava con una di quelle spade di legno, fatte di due assicelle inchiodate a croce l'una sull'altra, con cui i ragazzi hanno giocato in tutti i secoli.
 
-«Jeremy Bunt», disse Tryon, con una giocosità piuttosto [[concepts/melancholy|malinconica]], «la tua [[Sword|spada]] è, a quanto mi pare, assai migliore della maggior parte di quelle che abbiamo osservato di recente. Osservo che la sua punta è alquanto ottusa; senza dubbio per quella galante ragione che indusse [[characters/orlando|Orlando]] a smussare la propria [[Sword|spada]] quando combatteva contro la dama il cui nome, nell'ingegnoso [[Romance|romanzo]], mi sfugge. Ti basti questo, piccolo mio. Ucciderà i Giganti, come la [[Sword|spada]] affilata di Mastro Jack, almeno altrettanto [[motifs/well|bene]] di quanto faranno mai le spade di un esercito permanente. Se sei disposto a salvare la Dama Angelica dall'orco, essa tramuterà il drago in pietra tanto in fretta quanto farebbe qualsiasi [[Sword|spada]] d'acciaio. E, oh, Jeremy, se la [[forms/fable|favola]] è falsa, la morale non è falsa. Se un fanciullo è buono e coraggioso, dovrebbe essere grande, e può esserlo. Se è cattivo e vile, dovrebbe essere battuto con un bastone» — qui Tryon gli batté assai dolcemente sulle spalle con una lunga canna nera da passeggio che era comunemente la sua sola ferula — «ma in ogni caso, a mio giudizio, la tua [[Sword|spada]] è buona quanto qualsiasi altra. Solo, caro Jeremy» — e si chinò rapidamente sul [[archetypes/child|fanciullo]], con improvvisa tenerezza — «ricorda sempre che la tua specie di [[Sword|spada]] è più forte se la si impugna dalla parte sbagliata».
+«Jeremy Bunt», disse Tryon, con una giocosità piuttosto [[concepts/melancholy|malinconica]], «la tua spada è, a quanto mi pare, assai migliore della maggior parte di quelle che abbiamo osservato di recente. Osservo che la sua punta è alquanto ottusa; senza dubbio per quella galante ragione che indusse [[characters/orlando|Orlando]] a smussare la propria spada quando combatteva contro la dama il cui nome, nell'ingegnoso romanzo, mi sfugge. Ti basti questo, piccolo mio. Ucciderà i Giganti, come la spada affilata di Mastro Jack, almeno altrettanto [[motifs/well|bene]] di quanto faranno mai le spade di un esercito permanente. Se sei disposto a salvare la Dama Angelica dall'orco, essa tramuterà il drago in pietra tanto in fretta quanto farebbe qualsiasi spada d'acciaio. E, oh, Jeremy, se la [[forms/fable|favola]] è falsa, la morale non è falsa. Se un fanciullo è buono e coraggioso, dovrebbe essere grande, e può esserlo. Se è cattivo e vile, dovrebbe essere battuto con un bastone» — qui Tryon gli batté assai dolcemente sulle spalle con una lunga canna nera da passeggio che era comunemente la sua sola ferula — «ma in ogni caso, a mio giudizio, la tua spada è buona quanto qualsiasi altra. Solo, caro Jeremy» — e si chinò rapidamente sul [[archetypes/child|fanciullo]], con improvvisa tenerezza — «ricorda sempre che la tua specie di spada è più forte se la si impugna dalla parte sbagliata».
 
-Rovesciò la piccola [[Sword|spada]] nella mano del [[archetypes/child|fanciullo]], facendone una [[motifs/cross|croce]] di legno, e poi risalì a gran passi la [[motifs/road|strada]] come il [[motifs/wind|vento]], lasciandosi dietro il ragazzo che lo fissava.
+Rovesciò la piccola spada nella mano del [[archetypes/child|fanciullo]], facendone una [[motifs/cross|croce]] di legno, e poi risalì a gran passi la [[motifs/road|strada]] come il [[motifs/wind|vento]], lasciandosi dietro il ragazzo che lo fissava.
 
 Quando si accorse che piedi umani lo seguivano, seppe che non potevano in alcun modo essere i piedi del ragazzo. Si volse a guardare; e Jeremy indugiava ancora in lontananza; ma quel precipitar di passi veniva da causa ben diversa.
 
@@ -578,7 +578,7 @@ Una giovane dama passava in fretta rasente l'alta siepe che era quasi antica qua
 
 
 Tryon turned again to look back on his tracks; and this [[motifs/time|time]] saw
-another figure more formidable than Jeremy with the wooden [[Sword|sword]].
+another figure more formidable than Jeremy with the wooden sword.
 
 A tall, swaggering figure, almost black against the sunlight,
 was coming down the [[motifs/road|road]] with a rapidity that almost amounted to a run.
@@ -591,7 +591,7 @@ He had seen Sir Guy stick in his hat the most startling
 cock's feathers, but that was because he had no other feathers.
 But Tryon knew at a glance that Sir Guy would never have come forward
 in such extraordinary attitudes.  The tall, fantastic man actually
-drew his [[Sword|sword]] as he rushed forward; and offered it like a lance to be
+drew his sword as he rushed forward; and offered it like a lance to be
 splintered as from the end of a long tilting-yard. Such frolics may have
 happened a hundred times round the 'Cock' of [[characters/buckingham|Buckingham]] and Dorset.
 But it was an action utterly unknown to the gentry round Grayling-Abbot,
@@ -602,7 +602,7 @@ he found himself breathlessly addressed by the escaping girl.
 
 'You must not fight him,' she said, 'he has beaten everybody.
 He has beaten even Sir Guy, and all his sons.'  She cast her eyes
-about him and cried out in horror:  'And where is your [[Sword|sword]]?'
+about him and cried out in horror:  'And where is your sword?'
 
 'With my spurs, mistress,' replied the schoolmaster, in the best
 style of Ariosto.  'I have to win them both.'
@@ -611,7 +611,7 @@ She looked at him rather wildly and said:  'But he has never been
 beaten in swordsmanship.'
 
 Tryon, with a smile, made a salute with his black walking-stick. 'A
-man with no [[Sword|sword]],' he said, 'can never be beaten in swordsmanship.'
+man with no sword,' he said, 'can never be beaten in swordsmanship.'
 
 The girl stood for one moment staring at him as if, even in that
 scene of scurry and chase, [[motifs/time|time]] were suspended for a flash.
@@ -622,13 +622,13 @@ Master Jeremy Bunt, who had not the faintest intention of deserting
 the delightful school in which he was no longer required to do any work,
 actually ran forward.  Perhaps their curiosity ought to be excused.
 For they were certainly looking at the most astounding duel
-the world had ever seen.  It was the duel of the naked [[Sword|sword]]
+the world had ever seen.  It was the duel of the naked sword
 and the walking-stick: probably the only merely defensive battle
 ever fought on this earth.
 
 The day was full of sun and [[motifs/wind|wind]], the two chief ingredients
 of a glorious day; but till that moment even Mr. Tryon,
-though of a [[Pastoral|pastoral]] and poetical turn, had not noticed anything
+though of a pastoral and poetical turn, had not noticed anything
 specially splendid in the sky or landscape.  Now the [[concepts/beauty|beauty]] of this
 world came upon him with the violence of a [[motifs/supernatural|supernatural]] vision;
 for he was very certain it was a vision that he soon must lose.
@@ -637,7 +637,7 @@ But it was not to be expected that any human being could emerge victorious
 from a prolonged fight in which he had no means of retaliation;
 and especially as his opponent, whether from drink or devilry,
 was clearly fighting to the [[motifs/death|death]].  Tryon could not be certain that
-the wild creature even knew that his [[Sword|sword]] only struck against wood.
+the wild creature even knew that his sword only struck against wood.
 
 Dennis Tryon took in every glory of the good English land,
 and the still more glorious English climate, with the corner of
@@ -670,16 +670,16 @@ When he seemed blinded, by the very light on that [[motifs/lightning|lightning]]
 leaping at his eyes, but passing over his shoulder, he saw the old
 lawn at Merton as if its grass had sprung out of the [[motifs/road|road]] around him.
 But he began more and more to realize something else.
-He realized that if he had held a real [[Sword|sword]], he could have killed
+He realized that if he had held a real sword, he could have killed
 his enemy six times over with the _riposte._ When the heart-thrust
-was turned, he could have put his [[Sword|sword]] like a carving-knife
-into a pudding-if it had been a [[Sword|sword]].  When the parry protected
+was turned, he could have put his sword like a carving-knife
+into a pudding-if it had been a sword.  When the parry protected
 his eyes, nothing else could have protected his opponent,
 except the unpenetrating quality of a walking-stick. His brain was
 of the very clear kind that can play two games of chess at once.
 While still whirling his black walking-stick in a complicated but
 impromptu clockwork of fence, he saw quite clearly a logical alternative.
-Either the man thought he was fighting someone with a [[Sword|sword]]:
+Either the man thought he was fighting someone with a sword:
 in which case he was a very bad fencer.  Or else he knew he was
 fighting someone with a stick, in which case he was a very bad man:
 or (as the more timid modern phrase goes) a very bad sportsman.
@@ -688,7 +688,7 @@ or (as the more timid modern phrase goes) a very bad sportsman.
 <span class="qlang-split" data-lang="it"></span>
 
 Tryon si voltò di nuovo a guardare i propri passi; e questa [[motifs/time|volta]] vide
-un'altra figura più temibile di Jeremy con la [[Sword|spada]] di legno.
+un'altra figura più temibile di Jeremy con la spada di legno.
 
 Una figura alta e spavalda, quasi nera contro il sole,
 scendeva per la [[motifs/road|strada]] con una rapidità che quasi rasentava la corsa.
@@ -701,7 +701,7 @@ Aveva visto Sir Guy ficcarsi nel cappello le più sbalorditive
 penne di gallo, ma ciò perché non aveva altre penne.
 Ma Tryon capì a colpo d'occhio che Sir Guy non si sarebbe mai fatto avanti
 in atteggiamenti tanto straordinari. L'uomo alto e fantastico giunse davvero
-a sguainare la [[Sword|spada]] mentre correva avanti; e la porgeva come una lancia da
+a sguainare la spada mentre correva avanti; e la porgeva come una lancia da
 spezzare, come dall'estremità di un lungo campo di torneo. Simili baldorie possono essere
 accadute cento volte intorno al 'Cock' di [[characters/buckingham|Buckingham]] e Dorset.
 Ma era un gesto del tutto ignoto alla nobiltà intorno a Grayling-Abbot,
@@ -712,7 +712,7 @@ si sentì rivolgere la parola, senza fiato, dalla fanciulla in fuga.
 
 'Non dovete battervi con lui,' disse, 'ha battuto tutti.
 Ha battuto persino Sir Guy, e tutti i suoi figli.' Girò gli occhi
-intorno a lui e gridò con orrore: 'E dov'è la vostra [[Sword|spada]]?'
+intorno a lui e gridò con orrore: 'E dov'è la vostra spada?'
 
 'Insieme ai miei speroni, madamigella,' rispose il maestro di scuola, nel migliore
 stile dell'Ariosto. 'Devo conquistare gli uni e l'altra.'
@@ -721,7 +721,7 @@ Lei lo guardò piuttosto smarrita e disse: 'Ma lui non è mai stato
 sconfitto nella scherma.'
 
 Tryon, con un sorriso, fece un saluto col suo bastone da passeggio nero. 'Un
-uomo senza [[Sword|spada]],' disse, 'non può mai essere sconfitto nella scherma.'
+uomo senza spada,' disse, 'non può mai essere sconfitto nella scherma.'
 
 La fanciulla rimase un istante a fissarlo come se, perfino in quella
 scena di trambusto e inseguimento, il [[motifs/time|tempo]] si fosse sospeso per un lampo.
@@ -732,13 +732,13 @@ Mastro Jeremy Bunt, che non aveva la minima intenzione di abbandonare
 la deliziosa scuola in cui non gli era più richiesto di fare alcun lavoro,
 corse davvero avanti. Forse la loro curiosità andrebbe scusata.
 Perché stavano certamente assistendo al duello più sbalorditivo
-che il mondo avesse mai visto. Era il duello della [[Sword|spada]] nuda
+che il mondo avesse mai visto. Era il duello della spada nuda
 e del bastone da passeggio: probabilmente l'unica battaglia meramente difensiva
 mai combattuta su questa terra.
 
 Il giorno era pieno di sole e di [[motifs/wind|vento]], i due ingredienti principali
 di una giornata gloriosa; ma fino a quel momento perfino il signor Tryon,
-benché d'indole [[Pastoral|pastorale]] e poetica, non aveva notato nulla di
+benché d'indole pastorale e poetica, non aveva notato nulla di
 particolarmente splendido nel cielo o nel paesaggio. Ora la [[concepts/beauty|bellezza]] di questo
 mondo lo assalì con la violenza di una visione [[motifs/supernatural|soprannaturale]];
 poiché era ben certo che era una visione che presto avrebbe dovuto perdere.
@@ -747,7 +747,7 @@ Ma non c'era da aspettarsi che alcun essere umano potesse uscire vincitore
 da un combattimento prolungato in cui non aveva alcun mezzo per contrattaccare;
 e specialmente perché il suo avversario, sia per ubriachezza sia per diavoleria,
 combatteva chiaramente all'ultimo [[motifs/death|sangue]]. Tryon non poteva essere certo che
-la creatura selvaggia sapesse nemmeno che la sua [[Sword|spada]] colpiva solo il legno.
+la creatura selvaggia sapesse nemmeno che la sua spada colpiva solo il legno.
 
 Dennis Tryon colse ogni gloria della buona terra inglese,
 e del clima inglese ancora più glorioso, con la coda
@@ -779,16 +779,16 @@ Quando pareva accecato dalla luce stessa su quella lama di [[motifs/lightning|fo
 che gli guizzava agli occhi, ma gli passava sopra la spalla, vedeva il vecchio
 prato di Merton, come se l'erba fosse spuntata dalla [[motifs/road|strada]] intorno a lui.
 Ma cominciò sempre più a rendersi conto di qualcos'altro.
-Si rese conto che, se avesse impugnato una vera [[Sword|spada]], avrebbe potuto uccidere
+Si rese conto che, se avesse impugnato una vera spada, avrebbe potuto uccidere
 il suo nemico sei volte con la _riposta._ Quando la stoccata al cuore
-veniva deviata, avrebbe potuto conficcargli la [[Sword|spada]] come un trinciante
-in un budino—se solo fosse stata una [[Sword|spada]]. Quando la parata proteggeva
+veniva deviata, avrebbe potuto conficcargli la spada come un trinciante
+in un budino—se solo fosse stata una spada. Quando la parata proteggeva
 i suoi occhi, nient'altro avrebbe potuto proteggere il suo avversario,
 tranne la qualità non penetrante di un bastone da passeggio. Il suo cervello era
 del genere assai limpido che può giocare due partite a scacchi in una volta.
 Mentre ancora faceva turbinare il suo bastone da passeggio nero in un complicato ma
 improvvisato ingranaggio di scherma, vide con tutta chiarezza un'alternativa logica.
-O l'uomo credeva di battersi con qualcuno armato di [[Sword|spada]]:
+O l'uomo credeva di battersi con qualcuno armato di spada:
 nel qual caso era uno schermidore pessimo. Oppure sapeva di
 battersi con qualcuno armato di bastone, nel qual caso era un pessimo uomo:
 o (come suona la più timida frase moderna) un pessimo sportivo.
@@ -801,15 +801,15 @@ o (come suona la più timida frase moderna) un pessimo sportivo.
 He acted suddenly in a way adapted to either case.  He introduced
 into his swordplay a stroke of single-stick, also learned at College,
 jerking his stick up so as to strike and jar the man's elbow; and then,
-before the arm could recover its nerve, smote the [[Sword|sword]] clean out of
+before the arm could recover its nerve, smote the sword clean out of
 the hand.  A look at the man's black, bewildered expression was enough.
 Tryon was now quite certain the man's advantage had only been
-in his [[Sword|sword]].  He was also quite certain the man knew it.
+in his sword.  He was also quite certain the man knew it.
 With all the rush of his released romanticism, which roared
 like the [[motifs/wind|wind]], and rolled like the clouds, and blazed like the sun
 which he had thought to see no more, he sprang forward and pinned
 the man by the throat, with a shout of laughter.  Then he said,
-with more restrained [[Humour|humour]], what he had said to the little boy
+with more restrained humour, what he had said to the little boy
 up the [[motifs/road|road]].
 
 'If he be bad and base,' said Tryon, 'he should be beaten with a staff.'
@@ -820,7 +820,7 @@ and walked off up the [[motifs/road|road]] again like the [[motifs/wind|wind]].
 He did not notice further what his murderous enemy might attempt,
 but he was honestly puzzled about the conduct of the crowd.
 For, by this [[motifs/time|time]], there was a very considerable crowd.
-The [[Sword|sword]]-bearing Jeremy was quite prominent in the throng behind him;
+The sword-bearing Jeremy was quite prominent in the throng behind him;
 the lady with the golden curls and the sensitive profile was herself
 pausing a moment on the outskirts of the throng in front.
 
@@ -845,7 +845,7 @@ in some sense, saved Angelica from the dragon.  I was rather more
 embarrassed in the matter of arms, and she rather less embarrassed
 in the matter of attire, and there, truly, the difference seems to end.
 But the strangest thing of all is that, whatever I have done,
-I have done it with a [[Sword|sword]] of wood, like little Jeremy's.'
+I have done it with a sword of wood, like little Jeremy's.'
 
 In his academic reflections, he lifted his long black stick to look
 at it; and, as he did so, the cry of many crowds broke about him
@@ -873,7 +873,7 @@ to seem as fantastic and incredible as his triumphal arches.
 
 'Assuredly it is a strange matter,' he said to himself in his simplicity.
 'I was a tolerable good fencer at Merton, but not excellent.
-Not so good as Wilton or [[smith|Smith]] or old [[archetypes/king|King]] of [[characters/christ|Christ]] Church.
+Not so good as Wilton or Smith or old [[archetypes/king|King]] of [[characters/christ|Christ]] Church.
 It is not to be believed that men like these could not beat him
 with their great swords, when I could beat him with a stick.
 This is some jest of the great gentry, as in the ingenious tale
@@ -911,15 +911,15 @@ are the same in all ages, and one of their sports is [[archetypes/hero|hero]]-wo
 Agì d'improvviso in un modo adatto all'uno e all'altro caso. Introdusse
 nel suo gioco di spada un colpo di bastone singolo, anch'esso appreso al Collegio,
 scattando col bastone verso l'alto così da colpire e scuotere il gomito dell'uomo; e poi,
-prima che il braccio potesse ritrovare il suo nerbo, sbatté via la [[Sword|spada]] netta
+prima che il braccio potesse ritrovare il suo nerbo, sbatté via la spada netta
 dalla mano. Un'occhiata all'espressione nera e sbigottita dell'uomo bastò.
 Tryon era ormai del tutto certo che il vantaggio dell'uomo fosse stato solo
-nella sua [[Sword|spada]]. Era anche del tutto certo che l'uomo lo sapesse.
+nella sua spada. Era anche del tutto certo che l'uomo lo sapesse.
 Con tutto l'impeto del suo romanticismo liberato, che ruggiva
 come il [[motifs/wind|vento]], e rotolava come le nubi, e fiammeggiava come il sole
 che aveva creduto di non veder più, balzò avanti e inchiodò
 l'uomo per la gola, con uno scoppio di risa. Poi disse,
-con [[Humour|umorismo]] più contenuto, ciò che aveva detto al ragazzino
+con umorismo più contenuto, ciò che aveva detto al ragazzino
 su per la [[motifs/road|strada]].
 
 'Se è cattivo e vile,' disse Tryon, 'dev'essere battuto con un bastone.'
@@ -930,7 +930,7 @@ e se ne andò di nuovo su per la [[motifs/road|strada]] come il [[motifs/wind|ve
 Non badò oltre a ciò che il suo nemico assassino potesse tentare,
 ma era onestamente perplesso circa la condotta della folla.
 Perché, a quest'[[motifs/time|ora]], c'era una folla assai considerevole.
-Jeremy portatore di [[Sword|spada]] spiccava bene nella calca dietro di lui;
+Jeremy portatore di spada spiccava bene nella calca dietro di lui;
 la dama dai riccioli d'oro e dal profilo sensibile si stava lei stessa
 soffermando un momento ai margini della calca davanti.
 
@@ -955,7 +955,7 @@ in qualche senso, salvato Angelica dal drago. Io ero un po' più
 impacciato in fatto d'armi, e lei un po' meno impacciata
 in fatto d'abbigliamento, e lì, in verità, la differenza pare finire.
 Ma la cosa più strana di tutte è che, qualunque cosa io abbia fatto,
-l'ho fatta con una [[Sword|spada]] di legno, come quella del piccolo Jeremy.'
+l'ho fatta con una spada di legno, come quella del piccolo Jeremy.'
 
 Nelle sue riflessioni accademiche, sollevò il lungo bastone nero per guardarlo;
 e, mentre lo faceva, il grido di molte folle esplose intorno a lui
@@ -983,7 +983,7 @@ a sembrargli fantastico e incredibile quanto i suoi archi di trionfo.
 
 'Certamente è una faccenda strana,' disse a sé stesso nella sua semplicità.
 'Ero un discreto buon schermidore a Merton, ma non eccellente.
-Non così bravo come Wilton o [[smith|Smith]] o il vecchio [[archetypes/king|King]] di [[characters/christ|Christ]] Church.
+Non così bravo come Wilton o Smith o il vecchio [[archetypes/king|King]] di [[characters/christ|Christ]] Church.
 Non è credibile che uomini come questi non potessero batterlo
 con le loro grandi spade, quando io ho potuto batterlo con un bastone.
 Questa è qualche burla della grande nobiltà, come nell'ingegnoso racconto
@@ -1034,7 +1034,7 @@ to a confidence the old man would not have reposed in other people.
 the [[characters/king-of-france|King of France]] come to rule us as the [[archetypes/king|King]] of England.
 He hath brought back with him French women that act in stage plays
 as if they were boys; and tricks fit for pothecaries or conjurers
-at a fair, and tricks like this fellow's that twitched away my [[Sword|sword]],
+at a fair, and tricks like this fellow's that twitched away my sword,
 and every one else's--till he met his master, thank God.'
 And he smiled at Tryon, sourly, but with respect.
 
@@ -1047,8 +1047,8 @@ one from the [[settings/court|Court]]?'
 
 'His face is painted,' said Griffin.  'That is the sort of thing they
 do in [[settings/london|London]].  And he wears a pile of false hair out of a barber's;
-and walks about in it, like the [[house]] of a Jack-in-the Green.
-But his was the best [[Sword|sword]], as old Noll's was the best army.
+and walks about in it, like the house of a Jack-in-the Green.
+But his was the best sword, as old Noll's was the best army.
 And what could we do?'
 
 The third fact, which affected Dennis Tryon most deeply of all, was a
@@ -1107,7 +1107,7 @@ almost in the image of a place of pestilence or a [[motifs/city|city]] of the de
 The whole population of the two villages of Grayling (save for such
 non-combatants as the wooden-sworded Bunt) had vanished from their
 streets and houses.  They returned in the dark hour before [[motifs/dawn|dawn]];
-and they brought with them the man with the [[Magic|magic]] [[Sword|sword]].
+and they brought with them the man with the magic sword.
 
 Men in modern England, who have never seen a revolution,
 who have never seen even a real mob, cannot imagine what the capture
@@ -1124,13 +1124,13 @@ each other with an intimate tenderness never afterwards dissolved.
 But it never occurred to her to be sorry for the warlock.
 
 He was standing on the [[motifs/river|river]] bank, with his hands tied behind him,
-but the [[Sword|sword]] still at his side; no one feeling disposed to meddle
+but the sword still at his side; no one feeling disposed to meddle
 with it.  His peruke had been torn off; and his cropped head seemed
 to make more glaring and horrible the unnatural colours of his face.
 It was like some painted demon mask.  But he was quite composed,
 and even contemptuous.  Every now and then people threw things at him,
 as at one in the pillory; even little Jeremy Bunt flinging his
-wooden [[Sword|sword]], with all the enthusiasm of the Children's Crusade.
+wooden sword, with all the enthusiasm of the Children's Crusade.
 But most things missed him and fell into the flowing [[motifs/river|river]] behind,
 into which (there could be little [[concepts/doubt|doubt]]) he himself was to be
 flung at last.
@@ -1152,7 +1152,7 @@ a una confidenza che il vecchio non avrebbe riposto in altri.
 a governarci il [[characters/king-of-france|Re di Francia]] quanto il [[archetypes/king|Re]] d'Inghilterra.
 Ha riportato con sé donne francesi che recitano nelle commedie di scena
 come se fossero maschi; e trucchi degni di speziali o prestigiatori
-a una fiera, e trucchi come quello di costui, che mi strappò via la [[Sword|spada]],
+a una fiera, e trucchi come quello di costui, che mi strappò via la spada,
 e a tutti gli altri—finché non trovò il suo maestro, grazie a Dio.'
 E sorrise a Tryon, acido, ma con rispetto.
 
@@ -1165,8 +1165,8 @@ E sorrise a Tryon, acido, ma con rispetto.
 
 'Il suo volto è dipinto,' disse Griffin. 'È il genere di cose che
 fanno a [[settings/london|Londra]]. E porta una montagna di finti capelli usciti dalla bottega di un barbiere;
-e ci va in giro dentro, come la [[house|casa]] di un Jack-in-the-Green.
-Ma la sua era la migliore [[Sword|spada]], come quella del vecchio Noll era il migliore esercito.
+e ci va in giro dentro, come la casa di un Jack-in-the-Green.
+Ma la sua era la migliore spada, come quella del vecchio Noll era il migliore esercito.
 E che potevamo fare?'
 
 Il terzo fatto, che colpì Dennis Tryon più profondamente di tutti, fu uno
@@ -1225,7 +1225,7 @@ quasi nell'immagine di un luogo di pestilenza o di una [[motifs/city|città]] de
 L'intera popolazione dei due villaggi di Grayling (salvo i
 non combattenti come Bunt dalla spada di legno) era svanita dalle loro
 strade e case. Tornarono nell'ora buia prima dell'[[motifs/dawn|alba]];
-e portarono con sé l'uomo dalla [[Sword|spada]] [[Magic|magica]].
+e portarono con sé l'uomo dalla spada magica.
 
 Gli uomini nell'Inghilterra moderna, che non hanno mai visto una rivoluzione,
 che non hanno mai visto nemmeno una vera folla, non possono immaginare cosa fosse la cattura
@@ -1242,13 +1242,13 @@ l'un l'altro con un'intima tenerezza mai più dissolta.
 Ma non le venne mai in mente di provar pietà per lo stregone.
 
 Egli stava in piedi sulla riva del [[motifs/river|fiume]], con le mani legate dietro,
-ma la [[Sword|spada]] ancora al fianco; nessuno disposto a mettervi le mani.
+ma la spada ancora al fianco; nessuno disposto a mettervi le mani.
 La sua parrucca era stata strappata via; e la sua testa rapata sembrava
 rendere più stridenti e orribili i colori innaturali del suo volto.
 Era come una qualche maschera di demone dipinta. Ma era del tutto composto,
 e perfino sprezzante. Di tanto in tanto la gente gli scagliava cose,
 come a uno alla gogna; perfino il piccolo Jeremy Bunt gli lanciava la sua
-[[Sword|spada]] di legno, con tutto l'entusiasmo della Crociata dei Fanciulli.
+spada di legno, con tutto l'entusiasmo della Crociata dei Fanciulli.
 Ma la maggior parte delle cose lo mancava e cadeva nel [[motifs/river|fiume]] che scorreva dietro,
 nel quale (poco poteva esservi [[concepts/doubt|dubbio]]) egli stesso doveva essere
 gettato alla fine.
@@ -1259,7 +1259,7 @@ gettato alla fine.
 
 
 Then stood up for an instant in the stormy light, that rare but
-real spirit, for whose sake [[Alone|alone]] men have endured aristocracy,
+real spirit, for whose sake alone men have endured aristocracy,
 or the division of man from man.  Sir Guy's scarred face looked
 rather unusually sulky, or even spiteful; but he turned to his
 bodyguard of sons.  'We must get him back safe to the Grange,'
@@ -1274,8 +1274,8 @@ light of the morning.
 
 'Boys,' he said, 'it is in the hand of God if he be warlock or no.
 But is it to be said of our [[motifs/blood|blood]] that we brought crowds and clubs
-to kill a man who had whipped each one of us fairly with the [[Sword|sword]]?
-Shall men say that when Griffins met their match they whined about [[Magic|magic]]?
+to kill a man who had whipped each one of us fairly with the sword?
+Shall men say that when Griffins met their match they whined about magic?
 Make a ring round him, and we will bring him alive through
 a thousand [[characters/witch|witch]]-smellers.'
 
@@ -1284,11 +1284,11 @@ like a spiked necklace.  In those days mobs were much bolder
 against their masters than they are to-day. But even that mob
 gave to the Griffins a military reputation beyond their mere
 territorial rank; and the parties were thus the more equal.
-There was no [[Sword|sword]] in that crowd better than a Griffin [[Sword|sword]];
-except the [[Sword|sword]] that hung useless at the hip of a pinioned man.
+There was no sword in that crowd better than a Griffin sword;
+except the sword that hung useless at the hip of a pinioned man.
 
 Before the next moment, which must have been [[motifs/blood|blood]] and destruction,
-the man with the useless [[Sword|sword]] spoke.  'If some gentleman,'
+the man with the useless sword spoke.  'If some gentleman,'
 he said with marmoreal calm, 'will but put a hand in the pocket
 of my doublet, I think bloodshed will be spared.'
 
@@ -1305,7 +1305,7 @@ letter from His Majesty, which I will not read in entirety.
 But it advises and permits Sir Godfrey Skene to practise with the new
 Magnetic [[works/sword-(chesterton)|Sword]] which the Royal Society has for some little [[motifs/time|time]]
 attempted to manufacture in pursuance of a suggestion of Lord Verulam,
-the founder of our Natural [[philosophy|Philosophy]].  The whole blade is magnetized;
+the founder of our Natural Philosophy.  The whole blade is magnetized;
 and it is thought it may even pull any other iron weapon out
 of the hand.'
 
@@ -1314,13 +1314,13 @@ He paused a moment, in some embarrassment, and then said:
 could be used against it.'
 
 Sir Guy turned to him suddenly and said:  'Is that what you
-call Natural [[philosophy|Philosophy]]?'
+call Natural Philosophy?'
 
 'Yes,' replied Tryon.
 
 'I thank you,' said Griffin.  'You need not teach it to my sons.'
 
-Then he strode towards the prisoner, and rent the [[Sword|sword]] away,
+Then he strode towards the prisoner, and rent the sword away,
 bursting the belt that held it.
 
 'If it were not His Majesty's own hand,' he said, 'I would throw
@@ -1334,7 +1334,7 @@ little [[motifs/cross|cross]] of wood heaving with the heaving stream.
 <span class="qlang-split" data-lang="it"></span>
 
 Allora si levò per un istante, nella luce tempestosa, quel raro ma
-autentico spirito per amore del quale gli uomini hanno [[Alone|soltanto]] tollerato l'aristocrazia,
+autentico spirito per amore del quale gli uomini hanno soltanto tollerato l'aristocrazia,
 ovvero la divisione dell'uomo dall'uomo. Il volto sfregiato di Sir Guy appariva
 insolitamente imbronciato, o persino astioso; ma egli si volse alla sua
 scorta di figli. "Dobbiamo riportarlo sano e salvo alla Grange,"
@@ -1349,8 +1349,8 @@ luce del mattino.
 
 "Ragazzi," disse, "è nelle mani di Dio se costui sia stregone o no.
 Ma si dovrà dire del nostro [[motifs/blood|Sangue]] che abbiamo condotto folle e mazze
-a uccidere un uomo che aveva battuto ciascuno di noi lealmente con la [[Sword|spada]]?
-Si dirà che, quando i Griffin trovarono chi li eguagliasse, guairono contro la [[Magic|magia]]?
+a uccidere un uomo che aveva battuto ciascuno di noi lealmente con la spada?
+Si dirà che, quando i Griffin trovarono chi li eguagliasse, guairono contro la magia?
 Fate cerchio intorno a lui, e lo porteremo vivo attraverso
 un migliaio di [[characters/witch|caccia]]-streghe."
 
@@ -1359,11 +1359,11 @@ come una collana di aculei. A quei tempi le folle erano assai più ardite
 contro i loro padroni di quanto lo siano oggi. Ma anche quella folla
 riconosceva ai Griffin una reputazione militare superiore al loro semplice
 rango territoriale; e le parti risultavano perciò più pari.
-Non c'era [[Sword|spada]] in quella ressa migliore di una [[Sword|spada]] Griffin;
-tranne la [[Sword|spada]] che pendeva inutile al fianco di un uomo immobilizzato.
+Non c'era spada in quella ressa migliore di una spada Griffin;
+tranne la spada che pendeva inutile al fianco di un uomo immobilizzato.
 
 Prima dell'attimo seguente, che sarebbe stato [[motifs/blood|sangue]] e distruzione,
-l'uomo dalla [[Sword|spada]] inutile parlò. "Se qualche gentiluomo,"
+l'uomo dalla spada inutile parlò. "Se qualche gentiluomo,"
 disse con marmorea calma, "vorrà soltanto mettere una mano nella tasca
 del mio farsetto, credo che si risparmierà lo spargimento di sangue."
 
@@ -1380,7 +1380,7 @@ privata di Sua Maestà, che non leggerò per intero.
 Ma essa consiglia e permette a Sir Godfrey Skene di esercitarsi con la nuova
 [[works/sword-(chesterton)|Sword]] Magnetica che la Royal Society da qualche [[motifs/time|tempo]]
 tenta di fabbricare in virtù di un suggerimento di Lord Verulam,
-fondatore della nostra [[philosophy|Filosofia]] Naturale. L'intera lama è magnetizzata;
+fondatore della nostra Filosofia Naturale. L'intera lama è magnetizzata;
 e si pensa che possa persino strappare qualsiasi altra arma di ferro
 dalla mano."
 
@@ -1389,13 +1389,13 @@ Fece una pausa, con un certo imbarazzo, e poi disse:
 potrebbe essere usata contro di essa."
 
 Sir Guy si volse a lui d'un tratto e disse: "È questo ciò che voi
-chiamate [[philosophy|Filosofia]] Naturale?"
+chiamate Filosofia Naturale?"
 
 "Sì," rispose Tryon.
 
 "Vi ringrazio," disse Griffin. "Non c'è bisogno che la insegniate ai miei figli."
 
-Poi mosse a grandi passi verso il prigioniero, e gli strappò via la [[Sword|spada]],
+Poi mosse a grandi passi verso il prigioniero, e gli strappò via la spada,
 spezzando la cintura che la reggeva.
 
 "Se non fosse la mano stessa di Sua Maestà," disse, "ti scaglierei

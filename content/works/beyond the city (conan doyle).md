@@ -50,5 +50,5 @@ tags:
 **Themes & Concepts:** [[concepts/the-woman-question|The Woman Question]], [[concepts/feminism-and-the-new-woman|Feminism and the New Woman]], [[concepts/satire-of-society|Satire of Society]], [[concepts/romantic-love|Romantic Love]]
 **Motifs:** [[motifs/garden|Garden]], [[motifs/marriage|Marriage]]
 **Settings:** [[settings/london|London]]
-**Characters:** Mrs. Westmacott
-**Archetypes:** Lover
+**Characters:** [[characters/mrs.-westmacott|Mrs. Westmacott]]
+**Archetypes:** [[archetypes/lover|Lover]]

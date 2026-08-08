@@ -40,12 +40,12 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Archetypes:** Christ Figure, Scapegoat, Outsider
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/scapegoat|Scapegoat]], [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/animals|Animals]], [[motifs/moon|Moon]], [[motifs/blood|Blood]]
 **Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/grotesque|Grotesque]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/suffering-and-pain|Suffering and Pain]]
 **Forms & Genres:** [[forms/lyric|Lyric]]
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

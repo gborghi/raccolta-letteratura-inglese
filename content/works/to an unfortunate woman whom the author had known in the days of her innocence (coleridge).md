@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]]
-**Archetypes:** (Reputed) Fallen Woman
+**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]]
 **Motifs:** [[motifs/flowers|Flowers]]
 **Themes & Concepts:** [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/deception|Deception]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

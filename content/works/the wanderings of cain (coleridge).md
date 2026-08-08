@@ -22,11 +22,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Themes & Concepts:** [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/guilt|Guilt]]
 **Forms & Genres:** [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** Cain
+**Characters:** [[characters/cain|Cain]]
 
 ## Testo integrale / Full text
 

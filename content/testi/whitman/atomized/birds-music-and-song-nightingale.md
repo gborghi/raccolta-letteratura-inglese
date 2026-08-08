@@ -125,16 +125,16 @@ _Cluster: DRUM-TAPS_
 
 From Paumanok starting I fly like a bird,  
 Around and around to soar to sing the idea of all,  
-To the north betaking myself to sing there arctic [[songs]],  
+To the north betaking myself to sing there arctic songs,  
 To Kanada till I absorb Kanada in myself, to Michigan then,  
-To Wisconsin, Iowa, Minnesota, to sing their [[songs]], (they are inimitable;)  
+To Wisconsin, Iowa, Minnesota, to sing their songs, (they are inimitable;)  
 Then to Ohio and Indiana to sing theirs, to Missouri and Kansas and  
 Arkansas to sing theirs,  
 To Tennessee and Kentucky, to the Carolinas and Georgia to sing theirs,  
 To Texas and so along up toward California, to roam accepted everywhere;  
 To sing first, (to the tap of the war-drum if need be,)  
 The idea of all, of the Western world one and inseparable,  
-And then the [[Song|song]] of each member of these States.  
+And then the song of each member of these States.  
 
 
 
@@ -220,7 +220,7 @@ slumbering forever ready in all words.
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
 
 
-In a far-away northern county in the placid [[Pastoral|pastoral]] region,
+In a far-away northern county in the placid pastoral region,
 Lives my farmer friend, the theme of my recitative, a famous tamer of oxen,
 There they bring him the three-year-olds and the four-year-olds to
 break them,
@@ -243,10 +243,10 @@ How straight they watch their tamer--they wish him near them--how
 they turn to look after him!
 What yearning expression! how uneasy they are when he moves away from them;
 Now I marvel what it can be he appears to them, (books, politics,
-[[Poems|poems]], depart--all else departs,)
+poems, depart--all else departs,)
 I confess I envy only his fascination--my silent, illiterate friend,
 Whom a hundred oxen [[motifs/love|love]] there in his life on farms,
-In the northern county far, in the placid [[Pastoral|pastoral]] region.
+In the northern county far, in the placid pastoral region.
 
 
 
@@ -271,11 +271,11 @@ The singing thrush whose tones of joy and [[concepts/faith|faith]] ecstatic,
 Fail not to certify and cheer my [[motifs/soul|soul]].
 
 There ponder’d, felt I,
-If worms, snakes, loathsome grubs, may to sweet spiritual [[songs]] be turn’d,
+If worms, snakes, loathsome grubs, may to sweet spiritual songs be turn’d,
 If vermin so transposed, so used and bless’d may be,
 Then may I trust in you, your fortunes, days, my country;
 Who knows but these may be the lessons fit for you?
-From these your future [[Song|song]] may rise with joyous trills,
+From these your future song may rise with joyous trills,
 Destin’d to fill the world.
 
 
@@ -298,7 +298,7 @@ In dulcet streams, in flutes’ and cornets’ notes,
 Electric, pensive, turbulent, artificial,
 (Yet strangely fitting even here, meanings unknown before,
 Subtler than ever, more harmony, as if born here, related here,
-Not to the [[motifs/city|city]]’s fresco’d rooms, not to the audience of the opera [[house]],
+Not to the [[motifs/city|city]]’s fresco’d rooms, not to the audience of the opera house,
 Sounds, echoes, wandering strains, as really here at [[motifs/home|home]],
 Sonnambula’s [[archetypes/innocent|innocent]] [[motifs/love|love]], trios with Norma’s anguish,
 And thy ecstatic [[characters/chorus|chorus]] Poliuto;)
@@ -344,9 +344,9 @@ Listen, lose not, it is toward thee they tend,
 Parting the midnight, entering my slumber-chamber,
 For thee they sing and [[motifs/dance|dance]] O [[motifs/soul|soul]].
 
-A festival [[Song|song]],
+A festival song,
 The duet of the bridegroom and the bride, a [[motifs/marriage|marriage]]-march,
-With lips of [[motifs/love|love]], and hearts of [[lovers]] fill’d to the brim with [[motifs/love|love]],
+With lips of [[motifs/love|love]], and hearts of lovers fill’d to the brim with [[motifs/love|love]],
 The red-flush’d cheeks and perfumes, the cortege swarming full of
 friendly faces young and old,
 To flutes’ clear notes and sounding harps’ cantabile.
@@ -408,10 +408,10 @@ The twittering bird, the hawk’s sharp scream,
 The wild-fowl’s notes at [[motifs/night|night]] as flying low migrating north or south,
 The psalm in the country church or mid the clustering trees, the
 open air camp-meeting,
-The fiddler in the tavern, the glee, the long-strung sailor-[[Song|song]],
+The fiddler in the tavern, the glee, the long-strung sailor-song,
 The lowing cattle, bleating sheep, the crowing cock at [[motifs/dawn|dawn]].
 
-All [[songs]] of current lands come sounding round me,
+All songs of current lands come sounding round me,
 The German airs of [[concepts/friendship|friendship]], wine and [[motifs/love|love]],
 Irish ballads, merry jigs and dances, English warbles,
 Chansons of France, Scotch tunes, and o’er the rest,
@@ -431,7 +431,7 @@ To crossing swords and gray hairs bared to heaven,
 The clear electric base and baritone of the world,
 The trombone duo, Libertad forever!
 From Spanish chestnut trees’ dense shade,
-By old and heavy convent walls a wailing [[Song|song]],
+By old and heavy convent walls a wailing song,
 [[works/song-(poe)|Song]] of lost [[motifs/love|love]], the torch of youth and life quench’d in [[concepts/despair|despair]],
 [[works/song-(poe)|Song]] of the dying swan, Fernando’s heart is breaking.
 
@@ -512,7 +512,7 @@ Utter, pour in, for I would take them all!
 Then I woke softly,
 And pausing, questioning awhile the music of my dream,
 And questioning all those reminiscences, the tempest in its fury,
-And all the [[songs]] of sopranos and tenors,
+And all the songs of sopranos and tenors,
 And those rapt oriental dances of religious fervor,
 And the sweet varied instruments, and the diapason of organs,
 And all the artless plaints of [[motifs/love|love]] and grief and [[motifs/death|death]],
@@ -602,7 +602,7 @@ E’en the profoundest chill, as now--a torpid pulse, a brain unnerv’d,
 Old age land-lock’d within its [[motifs/winter|winter]] bay--(cold, cold, O cold!)  
 These snowy hairs, my feeble arm, my frozen feet,  
 For them thy [[concepts/faith|faith]], thy rule I take, and [[motifs/grave|grave]] it to the last;  
-Not [[motifs/summer|summer]]’s zones [[Alone|alone]]--not chants of youth, or south’s warm tides [[Alone|alone]],  
+Not [[motifs/summer|summer]]’s zones alone--not chants of youth, or south’s warm tides alone,  
 But held by sluggish floes, pack’d in the northern ice, the cumulus  
 of years,  
 These with gay heart I also sing.  

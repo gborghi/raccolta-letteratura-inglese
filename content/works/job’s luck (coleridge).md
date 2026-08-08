@@ -23,11 +23,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Themes & Concepts:** [[concepts/providence|Providence]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/good-vs-evil|Good vs Evil]]
 **Forms & Genres:** [[forms/epigram|Epigram]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** Satan
+**Characters:** [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

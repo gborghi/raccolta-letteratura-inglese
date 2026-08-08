@@ -56,7 +56,7 @@ tags:
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/disease-and-contagion|Disease and Contagion]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/london|London]]
-**Characters:** Sherlock Holmes, Doctor Watson, Irene Adler
-**Archetypes:** Detective, Villain
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/irene-adler|Irene Adler]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
 
 **Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

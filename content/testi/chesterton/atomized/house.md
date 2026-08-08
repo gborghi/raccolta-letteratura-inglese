@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[house|Casa]] del Natale  
+La Casa del Natale  
 
 Di: G. K. Chesterton  
 
@@ -57,7 +57,7 @@ e la nostra pace è riposta in cose impossibili
 dove cozzarono e tuonarono ali impensabili  
 attorno a una stella incredibile.  
 
-A una [[house|casa]] aperta nella sera  
+A una casa aperta nella sera  
 verranno gli uomini a [[motifs/home|casa]],  
 a un luogo più antico dell'Eden  
 e a una città più alta di Roma.  
@@ -71,7 +71,7 @@ e tutti gli uomini sono a [[motifs/home|casa]].
 <span class="atom-split" data-atom="part--part_01" data-title="house (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/ship,concept/honour,concept/wonder,setting/ship"></span>
 
 
-The [[house|House]] of Christmas  
+The House of Christmas  
 
 By: G. K. Chesterton  
 
@@ -111,7 +111,7 @@ And our peace is put in impossible things
 Where clashed and thundered unthinkable wings  
 Round an incredible star.  
 
-To an open [[house]] in the evening  
+To an open house in the evening  
 [[motifs/home|Home]] shall men come,  
 To an older place than Eden  
 And a taller town than Rome.  
@@ -123,7 +123,7 @@ And all men are at [[motifs/home|home]].
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[house|Casa]] del Natale  
+La Casa del Natale  
 
 Di: G. K. Chesterton  
 
@@ -163,7 +163,7 @@ e la nostra pace è riposta in cose impossibili
 dove cozzarono e tuonarono ali impensabili  
 attorno a una stella incredibile.  
 
-A una [[house|casa]] aperta nella sera  
+A una casa aperta nella sera  
 verranno gli uomini a [[motifs/home|casa]],  
 a un luogo più antico dell'Eden  
 e a una città più alta di Roma.  

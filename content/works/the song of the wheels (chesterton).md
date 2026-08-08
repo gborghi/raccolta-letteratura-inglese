@@ -42,9 +42,9 @@ tags:
 
 **Historical References:** [[historical-references/bible|Bible]], [[historical-references/industrial-revolution|Industrial Revolution]]
 
-**Characters:** King Dives
+**Characters:** [[characters/king-dives|King Dives]]
 
-**Archetypes:** Rebel, Tyrant, Common Man (2), Satanic Figure
+**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/tyrant|Tyrant]], [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/satanic-figure|Satanic Figure]]
 **Motifs:** [[motifs/wheel|Wheel]], [[motifs/money-and-gold|Money and Gold]], [[motifs/garden|Garden]], [[motifs/machine|Machine]]
 **Themes & Concepts:** [[concepts/class-conflict|Class Conflict]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/labor-and-work|Labor and Work]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]

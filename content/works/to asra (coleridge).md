@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]]
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/water|Water]], [[motifs/spring|Spring]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/joy|Joy]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]

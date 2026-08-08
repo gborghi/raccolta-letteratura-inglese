@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]]
 **Themes & Concepts:** [[concepts/self-knowledge|Self-Knowledge]], [[concepts/comradeship|Comradeship]], [[concepts/democracy|Democracy]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

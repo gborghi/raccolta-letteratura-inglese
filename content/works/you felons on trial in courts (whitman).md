@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/body|Body]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/social-injustice|Social Injustice]], [[concepts/self|Self]]
 
 ## Testo integrale / Full text

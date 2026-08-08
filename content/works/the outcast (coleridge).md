@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** (Reputed) Fallen Woman, Outsider
+**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/outsider|Outsider]]
 **Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/mercy|Mercy]], [[concepts/alienation|Alienation]], [[concepts/poverty|Poverty]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 

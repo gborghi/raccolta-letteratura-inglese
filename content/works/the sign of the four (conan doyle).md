@@ -60,5 +60,5 @@ tags:
 **Themes & Concepts:** [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/greed-and-money|Greed and Money]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/revenge|Revenge]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/journey|Journey]], [[motifs/gems-jewels|Gems Jewels]], [[motifs/city|City]], [[motifs/river|River]]
 **Settings:** [[settings/london|London]], [[settings/orient|Orient]], [[settings/river-thames|River Thames]]
-**Characters:** Sherlock Holmes, Doctor Watson, Mary Morstan, Jonathan Small
-**Archetypes:** Detective, Villain, Avenger
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/mary-morstan|Mary Morstan]], [[characters/jonathan-small|Jonathan Small]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]], [[archetypes/avenger|Avenger]]

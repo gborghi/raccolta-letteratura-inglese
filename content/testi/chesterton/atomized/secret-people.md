@@ -35,7 +35,7 @@ non v'era che un popolo nudo sotto una nuda [[motifs/crown|corona]].
 E gli occhi dei Servi del [[archetypes/king|Re]] si volgevano terribili in ogni direzione,  
 e l'oro dei Servi del [[archetypes/king|Re]] [[motifs/rose|saliva]] più alto ogni giorno.  
 Bruciarono le case degli uomini rasati, che erano bizzarre e gentili,  
-finché non vi fu letto nella [[house|casa]] d'un monaco, né cibo che l'uomo trovasse.  
+finché non vi fu letto nella casa d'un monaco, né cibo che l'uomo trovasse.  
 Le locande di Dio dove nessuno pagava, che erano il muro dei deboli.  
 I Servi del [[archetypes/king|Re]] le divorarono tutte. E ancora non parlammo.  
 
@@ -65,7 +65,7 @@ Il nostro lembo di gloria finì; mai più udimmo cannoni.
 Ma lo scudiero pareva colpito in sella; era stolto, come in preda alla [[motifs/pain|pena]],  
 si appoggiava a un avvocato vacillante, si aggrappava a un ebreo strisciante,  
 era abbattuto; forse, dopo tutto, era stato abbattuto a Waterloo.  
-O forse le ombre degli uomini rasati, il cui bottino è nella sua [[house|casa]],  
+O forse le ombre degli uomini rasati, il cui bottino è nella sua casa,  
 tornano infine in forme lucenti a guastare la sua ultima gozzoviglia:  
 sappiamo soltanto che gli ultimi tristi scudieri cavalcarono lenti verso il mare,  
 e un nuovo popolo prende la terra: e ancora non siamo noi.  
@@ -75,7 +75,7 @@ signori senz'ira e senza [[concepts/honour|onore]], che non osano cingere la spa
 Combattono rimescolando carte; hanno occhi lucidi, morti, stranieri;  
 guardano la nostra fatica e il nostro riso come un uomo stanco guarda le mosche.  
 E il peso della loro pietà senz'amore è peggiore degli antichi torti,  
-le loro porte si chiudono la sera; ed essi non conoscono [[songs|canti]].  
+le loro porte si chiudono la sera; ed essi non conoscono canti.  
 
 Udiamo uomini parlare per noi di nuove leggi forti e dolci,  
 eppure non v'è uomo che parli come noi parliamo per strada.  
@@ -109,7 +109,7 @@ There was naught but a naked people under a naked [[motifs/crown|crown]].
 And the eyes of the [[archetypes/king|King]]'s Servants turned terribly every way,  
 And the gold of the [[archetypes/king|King]]'s Servants [[motifs/rose|rose]] higher every day.  
 They burnt the homes of the shaven men, that had been quaint and kind,  
-Till there was no bed in a monk's [[house]], nor food that man could find.  
+Till there was no bed in a monk's house, nor food that man could find.  
 The inns of God where no man paid, that were the wall of the weak.  
 The [[archetypes/king|King]]'s Servants ate them all. And still we did not speak.  
 
@@ -139,7 +139,7 @@ Our patch of glory ended; we never heard guns again.
 But the squire seemed struck in the saddle; he was foolish, as if in [[motifs/pain|pain]],  
 He leaned on a staggering lawyer, he clutched a cringing Jew,  
 He was stricken; it may be, after all, he was stricken at Waterloo.  
-Or perhaps the shades of the shaven men, whose spoil is in his [[house]],  
+Or perhaps the shades of the shaven men, whose spoil is in his house,  
 Come back in shining shapes at last to spoil his last carouse:  
 We only know the last sad squires rode slowly towards the sea,  
 And a new people takes the land: and still it is not we.  
@@ -149,7 +149,7 @@ Lords without anger or [[concepts/honour|honour]], who dare not carry their swor
 They fight by shuffling papers; they have bright dead alien eyes;  
 They look at our labour and laughter as a tired man looks at flies.  
 And the load of their loveless pity is worse than the ancient wrongs,  
-Their doors are shut in the evening; and they know no [[songs]].  
+Their doors are shut in the evening; and they know no songs.  
 
 We hear men speaking for us of new laws strong and sweet,  
 Yet is there no man speaketh as we speak in the street.  
@@ -181,7 +181,7 @@ non v'era che un popolo nudo sotto una nuda [[motifs/crown|corona]].
 E gli occhi dei Servi del [[archetypes/king|Re]] si volgevano terribili in ogni direzione,  
 e l'oro dei Servi del [[archetypes/king|Re]] [[motifs/rose|saliva]] più alto ogni giorno.  
 Bruciarono le case degli uomini rasati, che erano bizzarre e gentili,  
-finché non vi fu letto nella [[house|casa]] d'un monaco, né cibo che l'uomo trovasse.  
+finché non vi fu letto nella casa d'un monaco, né cibo che l'uomo trovasse.  
 Le locande di Dio dove nessuno pagava, che erano il muro dei deboli.  
 I Servi del [[archetypes/king|Re]] le divorarono tutte. E ancora non parlammo.  
 
@@ -211,7 +211,7 @@ Il nostro lembo di gloria finì; mai più udimmo cannoni.
 Ma lo scudiero pareva colpito in sella; era stolto, come in preda alla [[motifs/pain|pena]],  
 si appoggiava a un avvocato vacillante, si aggrappava a un ebreo strisciante,  
 era abbattuto; forse, dopo tutto, era stato abbattuto a Waterloo.  
-O forse le ombre degli uomini rasati, il cui bottino è nella sua [[house|casa]],  
+O forse le ombre degli uomini rasati, il cui bottino è nella sua casa,  
 tornano infine in forme lucenti a guastare la sua ultima gozzoviglia:  
 sappiamo soltanto che gli ultimi tristi scudieri cavalcarono lenti verso il mare,  
 e un nuovo popolo prende la terra: e ancora non siamo noi.  
@@ -221,7 +221,7 @@ signori senz'ira e senza [[concepts/honour|onore]], che non osano cingere la spa
 Combattono rimescolando carte; hanno occhi lucidi, morti, stranieri;  
 guardano la nostra fatica e il nostro riso come un uomo stanco guarda le mosche.  
 E il peso della loro pietà senz'amore è peggiore degli antichi torti,  
-le loro porte si chiudono la sera; ed essi non conoscono [[songs|canti]].  
+le loro porte si chiudono la sera; ed essi non conoscono canti.  
 
 Udiamo uomini parlare per noi di nuove leggi forti e dolci,  
 eppure non v'è uomo che parli come noi parliamo per strada.  

@@ -20,9 +20,9 @@ tags:
 - [[works/st-francis-(chesterton)|St Francis (Chesterton)]]
 - [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
 - [[works/upon-this-rock-(chesterton)|upon-this-rock (Chesterton)]]
-- 732. She rose to His Requirement — dropt (Dickinson)
-- 738. You said that I was Great — one Day — (Dickinson)
-- 745. Renunciation — is a piercing Virtue — (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0732_she_rose_to_his_requirement_dropt|732. She rose to His Requirement — dropt (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0738_you_said_that_i_was_great_one_day|738. You said that I was Great — one Day — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0745_renunciation_is_a_piercing_virtue|745. Renunciation — is a piercing Virtue — (Dickinson)]]
 
 </div>
 

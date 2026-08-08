@@ -40,9 +40,9 @@ tags:
 
 **Settings:** [[settings/america|America]]
 
-**Characters:** St. Catherine of Alexandria
+**Characters:** [[characters/st.-catherine-of-alexandria|St. Catherine of Alexandria]]
 
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/wheel|Wheel]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/martyrdom|Martyrdom]], [[concepts/deception|Deception]], [[concepts/power-of-language|Power of Language]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/epigram|Epigram]], [[forms/satire|Satire]]

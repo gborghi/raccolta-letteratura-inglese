@@ -80,7 +80,7 @@ proprio come i loro prototipi, i tristi e nobili Stoici dell'antica Roma,
 scambiarono la gioia cristiana per buffoneria e bestemmia.
 
 Questa differenza vale ovunque: nella fredda architettura pagana
-e nei [[gargoyles|gargoyle]] ghignanti della Cristianità, nell'assurda screziatura
+e nei gargoyle ghignanti della Cristianità, nell'assurda screziatura
 del Medioevo e nell'abito smorto di questo secolo razionalista.
 E se il signor Blatchford desidera sapere perché dovremmo stupirci qualora
 il Duca di Devonshire andasse in giro con una gamba rossa e l'altra gialla
@@ -117,11 +117,11 @@ e la indica da tempi immemorabili, come prova che essa
 non può esservi.
 
 La storia di un [[characters/christ|Cristo]] è assai comune nella leggenda e nella letteratura.
-Così è la storia di due [[lovers|amanti]] separati dal Fato.
+Così è la storia di due amanti separati dal Fato.
 Così è la storia di due amici che si uccidono l'un l'altro per una donna.
 Ma si vorrà sul serio sostenere che, poiché queste due
 storie sono comuni come leggende, perciò mai due amici furono
-separati dall'[[motifs/love|amore]] né due [[lovers|amanti]] dalle circostanze?
+separati dall'[[motifs/love|amore]] né due amanti dalle circostanze?
 È abbastanza chiaro, di certo, che queste due storie sono comuni
 perché la situazione è intensamente probabile e umana,
 perché la nostra [[concepts/nature|natura]] è congegnata in modo da renderle quasi inevitabili.
@@ -143,7 +143,7 @@ Ma parlando da cristiano, sarei molto stupito
 se non ce l'avessero».
 
 Prendiamo un secondo caso.  Il Secolarista dice che il [[historical-references/christianity|Cristianesimo]]
-è stato una cosa cupa e [[ascetic|ascetica]], e addita la processione
+è stato una cosa cupa e ascetica, e addita la processione
 di santi austeri o feroci che hanno rinunciato alla [[motifs/home|casa]] e alla felicità
 e hanno macerato salute e sesso.  Ma non gli viene mai in mente
 che la stranezza stessa e la completezza della resa di quegli uomini
@@ -237,7 +237,7 @@ ancora più prezioso?
 Ma perché insistere sul punto, quando Colui che conobbe la [[concepts/nature|natura]] umana come
 essa si può davvero apprendere, da pescatori e donne e gente semplice,
 scorse dal suo quieto villaggio la traccia di questa [[concepts/truth|verità]] attraverso la [[concepts/history|storia]],
-e, dicendo di esser venuto a portare non la pace ma una [[Sword|spada]], eresse
+e, dicendo di esser venuto a portare non la pace ma una spada, eresse
 in eterno il suo colossale realismo contro l'eterno sentimentalismo
 del Secolarista?
 
@@ -261,7 +261,7 @@ a rozzi poeti o sognatori in tempi assai semplici,
 che quella gente rozza consideri la rivelazione come locale,
 e la colleghi al particolare [[motifs/hill|colle]] o [[motifs/river|fiume]] dove essa avvenne,
 mi pare esattamente ciò che ogni essere umano ragionevole si aspetterebbe.
-Ha un'aria assai più credibile che se avessero discettato di [[philosophy|filosofia]] cosmica
+Ha un'aria assai più credibile che se avessero discettato di filosofia cosmica
 fin dal principio.  Se l'avessero fatto, avrei sospettato «arte sacerdotale»
 e falsificazioni e gnosticismo di terzo secolo.
 
@@ -308,14 +308,14 @@ Senza di essi, perfino gli eccellenti quattro fatti che egli e io abbiamo
 rispettivamente spiegato possono apparire superficialmente inintelligibili.
 
 Perché molti di voi non vorranno accettare le mie quattro spiegazioni?  Ovviamente, in pura
-[[logic|logica]], esse sono logiche quanto quelle del signor Blatchford.  È altrettanto ragionevole,
+logica, esse sono logiche quanto quelle del signor Blatchford.  È altrettanto ragionevole,
 in astratto, che una [[concepts/truth|verità]] venga distorta quanto che venga distorta una menzogna;
 è altrettanto ragionevole, in astratto, che gli uomini
 patiscano la fame e pecchino per un beneficio reale quanto per uno irreale.
 Non lo crederete perché siete armati fino ai denti,
 e abbottonati fino al mento con la grande Ortodossia Agnostica,
 forse la più placida e perfetta di tutte le ortodossie degli uomini.
-Riuscireste a credere più facilmente che Socrate fosse una spia del [[government|Governo]] che a
+Riuscireste a credere più facilmente che Socrate fosse una spia del Governo che a
 credere ch'egli udì una voce dal suo Dio.  Riuscireste più facilmente a
 pensare che [[characters/christ|Cristo]] abbia assassinato la propria madre, che non ch'Egli possedesse un'energia psichica
 di cui nulla sappiamo.  Mi accosto a voi con la reverenza
@@ -389,7 +389,7 @@ just as their prototypes, the sad and high-minded Stoics of old Rome,
 did mistake the Christian joyousness for buffoonery and blasphemy.
 
 This difference holds good everywhere, in the cold Pagan architectrure
-and the grinning [[gargoyles]] of Christendom, in the preposterous motley
+and the grinning gargoyles of Christendom, in the preposterous motley
 of the Middle Ages and the dingy dress of this Rationlistic century.
 And if Mr. Blatchford wishes to know why we should be surprised if
 the Duke of Devonshire walked about with one leg red and the other yellow
@@ -491,7 +491,7 @@ proprio come i loro prototipi, i tristi e nobili Stoici dell'antica Roma,
 scambiarono la gioia cristiana per buffoneria e bestemmia.
 
 Questa differenza vale ovunque: nella fredda architettura pagana
-e nei [[gargoyles|gargoyle]] ghignanti della Cristianità, nell'assurda screziatura
+e nei gargoyle ghignanti della Cristianità, nell'assurda screziatura
 del Medioevo e nell'abito smorto di questo secolo razionalista.
 E se il signor Blatchford desidera sapere perché dovremmo stupirci qualora
 il Duca di Devonshire andasse in giro con una gamba rossa e l'altra gialla
@@ -533,11 +533,11 @@ non può esservi.
 
 
 The story of a [[characters/christ|Christ]] is very common in legend and literature.
-So is the story of two [[lovers]] parted by Fate.
+So is the story of two lovers parted by Fate.
 So is the story of two friends killing each other for a woman.
 But will it seriously be maintained that, because these two
 stories are common as legends, therefore not two friends were
-ever separated by [[motifs/love|love]] or no two [[lovers]] by circumstances?
+ever separated by [[motifs/love|love]] or no two lovers by circumstances?
 It is tolerably plain, surely, that these two stories are common
 because the situation is an intensely probable and human one,
 because our [[concepts/nature|nature]] is so built as to make them almost inevitable.
@@ -559,7 +559,7 @@ But speaking as a Christian, I should be very much astonished
 if they hadn't."
 
 Take a second instance.  The Secularist says that [[historical-references/christianity|Christianity]]
-has been a gloomy and [[ascetic]] thing, and points to the procession
+has been a gloomy and ascetic thing, and points to the procession
 of austere or ferocious saints who have given up [[motifs/home|home]] and happiness
 and macerated health and sex.  But it never seems to occur to him
 that the very oddity and completeness of the men's surrender
@@ -630,11 +630,11 @@ of cruel rush.
 <span class="qlang-split" data-lang="it"></span>
 
 La storia di un [[characters/christ|Cristo]] è assai comune nella leggenda e nella letteratura.
-Così è la storia di due [[lovers|amanti]] separati dal Fato.
+Così è la storia di due amanti separati dal Fato.
 Così è la storia di due amici che si uccidono l'un l'altro per una donna.
 Ma si vorrà sul serio sostenere che, poiché queste due
 storie sono comuni come leggende, perciò mai due amici furono
-separati dall'[[motifs/love|amore]] né due [[lovers|amanti]] dalle circostanze?
+separati dall'[[motifs/love|amore]] né due amanti dalle circostanze?
 È abbastanza chiaro, di certo, che queste due storie sono comuni
 perché la situazione è intensamente probabile e umana,
 perché la nostra [[concepts/nature|natura]] è congegnata in modo da renderle quasi inevitabili.
@@ -656,7 +656,7 @@ Ma parlando da cristiano, sarei molto stupito
 se non ce l'avessero».
 
 Prendiamo un secondo caso.  Il Secolarista dice che il [[historical-references/christianity|Cristianesimo]]
-è stato una cosa cupa e [[ascetic|ascetica]], e addita la processione
+è stato una cosa cupa e ascetica, e addita la processione
 di santi austeri o feroci che hanno rinunciato alla [[motifs/home|casa]] e alla felicità
 e hanno macerato salute e sesso.  Ma non gli viene mai in mente
 che la stranezza stessa e la completezza della resa di quegli uomini
@@ -755,7 +755,7 @@ yet more precious?
 But why should we labour the point when One who knew human [[concepts/nature|nature]] as it
 can really be learnt, from fishermen and women and natural people,
 saw from his quiet village the track of this [[concepts/truth|truth]] across [[concepts/history|history]],
-and, in saying that He came to bring not peace but a [[Sword|sword]], set up
+and, in saying that He came to bring not peace but a sword, set up
 eternally His colossal realism against the eternal sentimentality
 of the Secularist?
 
@@ -779,7 +779,7 @@ themselves to rude poets or dreamers in very simple times,
 that the rude people should regard the revelation as local,
 and connect it with the particular [[motifs/hill|hill]] or [[motifs/river|river]] where it happened,
 seems to me exactly what any reasonable human being would expect.
-It has a far more credible look than if they had talked cosmic [[philosophy]]
+It has a far more credible look than if they had talked cosmic philosophy
 from the beginning.  If they had, I should have suspected "priestcraft"
 and forgeries and third-century Gnosticism
 
@@ -855,7 +855,7 @@ ancora più prezioso?
 Ma perché insistere sul punto, quando Colui che conobbe la [[concepts/nature|natura]] umana come
 essa si può davvero apprendere, da pescatori e donne e gente semplice,
 scorse dal suo quieto villaggio la traccia di questa [[concepts/truth|verità]] attraverso la [[concepts/history|storia]],
-e, dicendo di esser venuto a portare non la pace ma una [[Sword|spada]], eresse
+e, dicendo di esser venuto a portare non la pace ma una spada, eresse
 in eterno il suo colossale realismo contro l'eterno sentimentalismo
 del Secolarista?
 
@@ -879,7 +879,7 @@ a rozzi poeti o sognatori in tempi assai semplici,
 che quella gente rozza consideri la rivelazione come locale,
 e la colleghi al particolare [[motifs/hill|colle]] o [[motifs/river|fiume]] dove essa avvenne,
 mi pare esattamente ciò che ogni essere umano ragionevole si aspetterebbe.
-Ha un'aria assai più credibile che se avessero discettato di [[philosophy|filosofia]] cosmica
+Ha un'aria assai più credibile che se avessero discettato di filosofia cosmica
 fin dal principio.  Se l'avessero fatto, avrei sospettato «arte sacerdotale»
 e falsificazioni e gnosticismo di terzo secolo.
 
@@ -931,14 +931,14 @@ rispettivamente spiegato possono apparire superficialmente inintelligibili.
 
 
 Why will many of you not accept my four explanations?  Obviously, in mere
-[[logic]], they are as logical as Mr. Blatchford's. It is as reasonable,
+logic, they are as logical as Mr. Blatchford's. It is as reasonable,
 in the abstract, that a [[concepts/truth|truth]] should be distorted as that a lie
 should be distorted; it is as reasonable, in the abstract, that men
 should starve and sin for a real benefit as for an unreal one.
 You will not believe it because you are armed to the teeth,
 and buttoned up to the chin with the great Agnostic Orthodoxy,
 perhaps the most placid and perfect of all the orthodoxies of mean.
-You could sooner believe that Socrates was a [[government|Government]] spy than
+You could sooner believe that Socrates was a Government spy than
 believe that he heard a voice from his God.  You could more easily
 think that [[characters/christ|Christ]] murdered His mother, than that He had a psychic
 energy of which we know nothing.  I approach you with the reverence
@@ -948,14 +948,14 @@ and the [[concepts/courage|courage]] due to a bench of bishops.
 <span class="qlang-split" data-lang="it"></span>
 
 Perché molti di voi non vorranno accettare le mie quattro spiegazioni?  Ovviamente, in pura
-[[logic|logica]], esse sono logiche quanto quelle del signor Blatchford.  È altrettanto ragionevole,
+logica, esse sono logiche quanto quelle del signor Blatchford.  È altrettanto ragionevole,
 in astratto, che una [[concepts/truth|verità]] venga distorta quanto che venga distorta una menzogna;
 è altrettanto ragionevole, in astratto, che gli uomini
 patiscano la fame e pecchino per un beneficio reale quanto per uno irreale.
 Non lo crederete perché siete armati fino ai denti,
 e abbottonati fino al mento con la grande Ortodossia Agnostica,
 forse la più placida e perfetta di tutte le ortodossie degli uomini.
-Riuscireste a credere più facilmente che Socrate fosse una spia del [[government|Governo]] che a
+Riuscireste a credere più facilmente che Socrate fosse una spia del Governo che a
 credere ch'egli udì una voce dal suo Dio.  Riuscireste più facilmente a
 pensare che [[characters/christ|Cristo]] abbia assassinato la propria madre, che non ch'Egli possedesse un'energia psichica
 di cui nulla sappiamo.  Mi accosto a voi con la reverenza

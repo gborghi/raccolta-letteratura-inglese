@@ -67,7 +67,7 @@ He rests at ease beneath some pleasant weed.
 The poetry of earth is ceasing never:  
   On a lone [[motifs/winter|winter]] evening, when the [[motifs/frost|frost]]  
     Has wrought a [[motifs/silence|silence]], from the stove there shrills  
-The Cricket’s [[Song|song]], in warmth increasing ever,  
+The Cricket’s song, in warmth increasing ever,  
   And seems to one in drowsiness half lost,  
     The Grasshopper’s among some grassy hills.  
 

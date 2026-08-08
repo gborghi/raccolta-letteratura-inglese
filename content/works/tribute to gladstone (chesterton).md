@@ -42,11 +42,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Death Personified (2), Hero
+**Archetypes:** [[archetypes/death-personified-(2)|Death Personified (2)]], [[archetypes/hero|Hero]]
 
 **Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Characters:** Death Personified, Gladstone
+**Characters:** [[characters/death-personified|Death Personified]], [[characters/gladstone|Gladstone]]
 
 **Motifs:** [[motifs/dawn|Dawn]], [[motifs/seasons|Seasons]], [[motifs/cross|Cross]], [[motifs/flags-and-banners|Flags and Banners]], [[motifs/crown|Crown]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/heroism|Heroism]], [[concepts/honour|Honour]], [[concepts/melancholy|Melancholy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/decadence-and-aestheticism|Decadence and Aestheticism]]

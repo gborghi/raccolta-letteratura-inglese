@@ -15,9 +15,9 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/robert-browning-(chesterton)|Robert Browning (Chesterton)]]
-- 499. Those fair — fictitious People — (Dickinson)
-- 501. This World is not Conclusion. (Dickinson)
-- 524. Departed — to the Judgment — (Dickinson)
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0499_those_fair_fictitious_people|499. Those fair — fictitious People — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0501_this_world_is_not_conclusion|501. This World is not Conclusion. (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0524_departed_to_the_judgment|524. Departed — to the Judgment — (Dickinson)]]
 - [[works/the-edge-of-the-unknown-(conan-doyle)|The Edge of the Unknown (Conan Doyle)]]
 - [[works/the-history-of-spiritualism,-volume-i-(conan-doyle)|The History of Spiritualism, Volume I (Conan Doyle)]]
 - [[works/the-history-of-spiritualism,-volume-ii-(conan-doyle)|The History of Spiritualism, Volume II (Conan Doyle)]]

@@ -86,7 +86,7 @@ The Tyranny of Bad Journalism
 
 The Poetry of the Revolution
 
-A [[Song|SONG]] OF SWORDS
+A SONG OF SWORDS
 
 "A drove of cattle came into a village called Swords;
 
@@ -220,7 +220,7 @@ La Tirannia del Cattivo Giornalismo
 
 La Poesia della Rivoluzione
 
-UN [[Song|CANTO]] DI SPADE
+UN CANTO DI SPADE
 
 "Una mandria di bestiame entrò in un villaggio chiamato Swords;
 
@@ -503,7 +503,7 @@ brethren, and the noble duty of praise. For that picture by Millais is
 
 a very allegorical picture. It is almost a prophecy of what uses are
 
-awaiting the [[concepts/beauty|beauty]] of the [[archetypes/child|child]] [[unborn]]. The praise will be of a kind
+awaiting the [[concepts/beauty|beauty]] of the [[archetypes/child|child]] unborn. The praise will be of a kind
 
 that may correctly be called soap; and the enterprises of a kind that
 
@@ -698,7 +698,7 @@ Fratelli e il nobile dovere della lode. Per quel dipinto di Millais è
 
 Un quadro molto allegorico. È quasi una profezia di ciò che verrà.
 
-in attesa della [[concepts/beauty|bellezza]] del [[archetypes/child|bambino]] [[unborn|non ancora nato]]. La lode sarà di un tipo
+in attesa della [[concepts/beauty|bellezza]] del [[archetypes/child|bambino]] non ancora nato. La lode sarà di un tipo
 
 Quello che si può chiamare sapone e le imprese di quel tipo
 
@@ -1185,9 +1185,9 @@ generally be found that in all such popular narratives, the [[archetypes/king|ki
 
 is a wicked [[archetypes/king|king]], is generally also a wizard. Now there is a very vital
 
-human [[concepts/truth|truth]] enshrined in this. Bad [[government]], like good [[government]],
+human [[concepts/truth|truth]] enshrined in this. Bad government, like good government,
 
-is a spiritual thing. Even the [[archetypes/tyrant|tyrant]] never rules by force [[Alone|alone]]; but
+is a spiritual thing. Even the [[archetypes/tyrant|tyrant]] never rules by force alone; but
 
 mostly by fairy tales. And so it is with the modern [[archetypes/tyrant|tyrant]], the great
 
@@ -1297,7 +1297,7 @@ to know how big the business is: and what an enormous number of people
 
 were needed to make such a mistake.
 
-That is the [[Romance|romance]] that has been told about the big shops; in the
+That is the romance that has been told about the big shops; in the
 
 literature and art which they have bought, and which (as I said in
 
@@ -1307,7 +1307,7 @@ ordinary advertisements. The literature is commercial; and it is
 
 only fair to say that the commerce is often really literary. It is no
 
-[[Romance|romance]], but only rubbish.
+romance, but only rubbish.
 
 The big commercial concerns of to-day are quite exceptionally
 
@@ -1366,7 +1366,7 @@ In generale, si può osservare che in tutte queste narrazioni popolari, il [[arc
 
 È un malvagio [[archetypes/king|re]], ed in genere è anche un mago. Ora c’è qualcosa di estremamente importante.
 
-La verità umana è incapsulata in questo. Un cattivo [[government|#governo]], come un buon [[government|<governo]],
+La verità umana è incapsulata in questo. Un cattivo #governo, come un buon <governo,
 
 È qualcosa di spirituale. Anche il [[archetypes/tyrant|tiranno]] non governa mai solo con la forza; ma.
 
@@ -1478,7 +1478,7 @@ Per capire quanto sia grande questa attività… e quante persone ne siano coinv
 
 Erano necessarie delle circostanze particolari per commettere un simile errore.
 
-Quella è la [[Romance|storia romantica]] che si racconta riguardo ai grandi negozi, nella
+Quella è la storia romantica che si racconta riguardo ai grandi negozi, nella
 
 Letteratura e arte che hanno acquistato… e che, come ho detto prima,
 
@@ -1488,7 +1488,7 @@ Normali pubblicità… La letteratura è commerciale; e lo è anche questo gener
 
 Solo giusto dire che questo tipo di commercio è spesso davvero “letterario”. Non è affatto…
 
-Un [[Romance|romanzo]], ma solo robaccia.
+Un romanzo, ma solo robaccia.
 
 Le grandi questioni commerciali di oggi sono davvero eccezionali
 
@@ -1554,9 +1554,9 @@ grant what he would call "decent hours of labour." He may treat men like
 
 dirt; but if you want to make money, even out of dirt, you must let
 
-it lie fallow by some rotation of rest. He may treat men as [[dogs]], but
+it lie fallow by some rotation of rest. He may treat men as dogs, but
 
-unless he is a lunatic he will for certain periods let sleeping [[dogs]]
+unless he is a lunatic he will for certain periods let sleeping dogs
 
 lie.
 
@@ -1580,7 +1580,7 @@ alike useful for him and his business. All is, indeed, grist that
 
 comes to his mill, including the millers. His slaves still serve him in
 
-unconsciousness, as [[dogs]] still hunt in slumber. His grist is ground not
+unconsciousness, as dogs still hunt in slumber. His grist is ground not
 
 only by the sounding wheels of iron, but by the soundless [[motifs/wheel|wheel]] of [[motifs/blood|blood]]
 
@@ -1694,9 +1694,9 @@ statue to "restore"; that ineffaceable image of man that some call the
 
 image of God. And that is the holiday; it is the restaurant or restoring
 
-thing that, by a blast of [[Magic|magic]], turns a man into himself.
+thing that, by a blast of magic, turns a man into himself.
 
-This complete and reconstructed man is the [[nightmare]] of the modern
+This complete and reconstructed man is the nightmare of the modern
 
 capitalist. His whole scheme would crack across like a [[motifs/mirror|mirror]] of
 
@@ -1757,7 +1757,7 @@ Garantire quelle che lui definiva “ore di lavoro decenti”. Può trattare le 
 
 Sporcizia… ma se vuoi guadagnare soldi, anche a partire dalla sporcizia, devi essere disposto a farlo.
 
-Rimane inutilizzato a causa di un certo ciclo di riposo. Può trattare gli uomini come [[dogs|cani]], ma.
+Rimane inutilizzato a causa di un certo ciclo di riposo. Può trattare gli uomini come cani, ma.
 
 A meno che non sia pazzo, di certo in alcune occasioni lascerà che i cani dormienti.
 
@@ -1783,7 +1783,7 @@ L'intero atteggiamento mentale consiste nel considerare il tempo passivo e il te
 
 “Arriva al suo mulino… insieme ai mulinai stessi. I suoi schiavi continuano a servirlo.”
 
-Lo stato di incoscienza, proprio come i [[dogs|cani]] continuano a cacciare anche nel sonno. Il suo grano non viene macinato.
+Lo stato di incoscienza, proprio come i cani continuano a cacciare anche nel sonno. Il suo grano non viene macinato.
 
 Solo attraverso il rumore delle ruote di ferro, ma anche attraverso il silenzioso movimento della [[motifs/wheel|Ruota]] del [[motifs/blood|sangue]].
 
@@ -1899,9 +1899,9 @@ Ancora una volta si ammette l’esistenza di un edificio specifico…
 
 Immagine di Dio. Ed è proprio questa la festività: il ristorante, o il momento del recupero…
 
-Qualcosa che, con un attimo di [[Magic|magia]], trasforma un uomo in se stesso.
+Qualcosa che, con un attimo di magia, trasforma un uomo in se stesso.
 
-Quest’uomo completo e ricostruito rappresenta l’[[nightmare|incubo]] della società moderna.
+Quest’uomo completo e ricostruito rappresenta l’incubo della società moderna.
 
 capitalista. Tutto il suo piano sarebbe andato in frantumi, come uno specchio che riflette solo illusioni.
 
@@ -1998,7 +1998,7 @@ between gin and champagne. The Atheist veto upon all miracles cuts
 
 across all classes. But it is absolutely necessary for the capitalist to
 
-make a distinction between his wife (who is an [[aristocrat]] and consults
+make a distinction between his wife (who is an aristocrat and consults
 
 crystal gazers and star gazers in the West End), and vulgar miracles
 
@@ -2125,7 +2125,7 @@ tra il gin e lo champagne. Il veto ateo su tutti i miracoli attraversa
 
 tutte le classi. Ma è assolutamente necessario per il capitalista
 
-fare una distinzione tra sua moglie (che è un'[[aristocrat|aristocratica]] e consulta
+fare una distinzione tra sua moglie (che è un'aristocratica e consulta
 
 veggenti della sfera di cristallo e astrologi nel West End) e i volgari miracoli
 
@@ -2244,17 +2244,17 @@ money for the workman would mean a better workman, better even from the
 
 point of view of anyone for whom he worked. But more food, leisure, and
 
-money would also mean a more independent workman. A [[house]] with a decent
+money would also mean a more independent workman. A house with a decent
 
-[[motifs/fire|fire]] and a full pantry would be a better [[house]] to make a chair or mend
+[[motifs/fire|fire]] and a full pantry would be a better house to make a chair or mend
 
 a [[motifs/clock|clock]] in, even from the customer's point of view, than a hovel with a
 
-leaky roof and a cold hearth. But a [[house]] with a decent [[motifs/fire|fire]] and a full
+leaky roof and a cold hearth. But a house with a decent [[motifs/fire|fire]] and a full
 
-pantry would also be a better [[house]] in which to refuse to make a chair
+pantry would also be a better house in which to refuse to make a chair
 
-or mend a [[motifs/clock|clock]]--a much better [[house]] to do nothing in--and doing nothing
+or mend a [[motifs/clock|clock]]--a much better house to do nothing in--and doing nothing
 
 is sometimes one of the highest of the duties of man. All but the
 
@@ -2274,9 +2274,9 @@ The roof could not be mended, or, at least, it could not be mended much,
 
 without upsetting the capitalist balance, or, rather, disproportion in
 
-society; for a man with a roof is a man with a [[house]], and to that extent
+society; for a man with a roof is a man with a house, and to that extent
 
-his [[house]] is his [[settings/castle|castle]]. The cradle could not be made to rock easier,
+his house is his [[settings/castle|castle]]. The cradle could not be made to rock easier,
 
 or, at least, not much easier, without strengthening the hands of the
 
@@ -2284,7 +2284,7 @@ poor household, for the hand that rocks the cradle rules the world--to
 
 that extent. But it occurred to the capitalist that there was one sort
 
-of furniture in the [[house]] that could be altered. The husband and wife
+of furniture in the house that could be altered. The husband and wife
 
 could be altered. Birth costs nothing, except in [[motifs/pain|pain]] and valour and
 
@@ -2405,17 +2405,17 @@ denaro per l'operaio significherebbero un operaio migliore, migliore anche dal
 
 punto di vista di chiunque si servisse di lui. Ma più cibo, tempo libero e
 
-denaro significherebbero anche un operaio più indipendente. Una [[house|casa]] con un decente
+denaro significherebbero anche un operaio più indipendente. Una casa con un decente
 
-[[motifs/fire|fuoco]] e una dispensa piena sarebbe una [[house|casa]] migliore in cui fabbricare una sedia o riparare
+[[motifs/fire|fuoco]] e una dispensa piena sarebbe una casa migliore in cui fabbricare una sedia o riparare
 
 un [[motifs/clock|orologio]], anche dal punto di vista del cliente, di un tugurio dal
 
-tetto che perde e dal focolare freddo. Ma una [[house|casa]] con un decente [[motifs/fire|fuoco]] e una dispensa
+tetto che perde e dal focolare freddo. Ma una casa con un decente [[motifs/fire|fuoco]] e una dispensa
 
-piena sarebbe anche una [[house|casa]] migliore in cui rifiutarsi di fabbricare una sedia
+piena sarebbe anche una casa migliore in cui rifiutarsi di fabbricare una sedia
 
-o di riparare un [[motifs/clock|orologio]] — una [[house|casa]] assai migliore in cui non far nulla — e non far nulla
+o di riparare un [[motifs/clock|orologio]] — una casa assai migliore in cui non far nulla — e non far nulla
 
 è talvolta uno dei più alti doveri dell'uomo. Tutti tranne i
 
@@ -2435,9 +2435,9 @@ Il tetto non poteva essere riparato, o, almeno, non poteva essere riparato di mo
 
 senza sconvolgere l'equilibrio capitalistico, o, piuttosto, la sproporzione nella
 
-società; poiché un uomo con un tetto è un uomo con una [[house|casa]], e in tal misura
+società; poiché un uomo con un tetto è un uomo con una casa, e in tal misura
 
-la sua [[house|casa]] è il suo [[settings/castle|castello]]. La culla non poteva essere fatta cullare più facilmente,
+la sua casa è il suo [[settings/castle|castello]]. La culla non poteva essere fatta cullare più facilmente,
 
 o, almeno, non molto più facilmente, senza rafforzare le mani della
 
@@ -2445,7 +2445,7 @@ povera famiglia, poiché la mano che culla la culla governa il mondo — in
 
 tal misura. Ma al capitalista venne in mente che c'era una sorta
 
-di mobilio nella [[house|casa]] che poteva essere modificato. Il marito e la moglie
+di mobilio nella casa che poteva essere modificato. Il marito e la moglie
 
 potevano essere modificati. Nascere non costa nulla, se non in [[motifs/pain|dolore]] e valore e
 
@@ -2530,7 +2530,7 @@ not see the one way in which evolution really does apply to our modern
 
 difficulty. There is, of course, an element of evolutionism in the
 
-universe; and I know no religion or [[philosophy]] that ever entirely
+universe; and I know no religion or philosophy that ever entirely
 
 ignored it. Evolution, popularly speaking, is that which happens to
 
@@ -2552,7 +2552,7 @@ religion it was that God was asleep were perpetually impressed
 
 and affected by the fact that he had a long beard. And those whose
 
-[[philosophy]] it is that the universe is dead from the beginning (being
+philosophy it is that the universe is dead from the beginning (being
 
 the [[motifs/grave|grave]] of nobody in particular) think that is the way that grass can
 
@@ -2582,11 +2582,11 @@ dead dog; but it is essential for such a liberation of life that the dog
 
 should be unconscious or (to say the least of it) absent-minded. Broadly
 
-speaking, you may call the thing corruption, if you happen to like [[dogs]].
+speaking, you may call the thing corruption, if you happen to like dogs.
 
 You may call it evolution, if you happen to like maggots. In either
 
-case, it is what happens to things if you leave them [[Alone|alone]].
+case, it is what happens to things if you leave them alone.
 
 The Evolutionists' Error
 
@@ -2646,13 +2646,13 @@ become an almost universal experience. It will not necessarily be a
 
 cruel or shameful experience: on these points (I concede certainly for
 
-the present purpose of [[debate]]) it may be a vastly improved experience.
+the present purpose of debate) it may be a vastly improved experience.
 
 The conditions in the [[motifs/prison|prison]], very possibly, will be made more humane.
 
 But the [[motifs/prison|prison]] will be made more humane only in order to contain more of
 
-humanity. I think little of the judgment and sense of [[Humour|humour]] of any man
+humanity. I think little of the judgment and sense of humour of any man
 
 who can have watched recent police trials without realising that it is
 
@@ -2729,7 +2729,7 @@ vedano l'unico modo in cui l'evoluzione si applica davvero alla nostra moderna
 
 difficoltà. C'è, naturalmente, un elemento di evoluzionismo nell'
 
-universo; e non conosco religione o [[philosophy|filosofia]] che l'abbia mai del tutto
+universo; e non conosco religione o filosofia che l'abbia mai del tutto
 
 ignorato. L'evoluzione, in senso popolare, è ciò che accade alle
 
@@ -2751,7 +2751,7 @@ religione voleva che Dio dormisse erano perpetuamente colpiti
 
 e influenzati dal fatto che egli avesse una lunga barba. E coloro la cui
 
-[[philosophy|filosofia]] vuole che l'universo sia morto fin dal principio (essendo
+filosofia vuole che l'universo sia morto fin dal principio (essendo
 
 la [[motifs/grave|tomba]] di nessuno in particolare) pensano che sia così che l'erba può
 
@@ -2781,11 +2781,11 @@ cane morto; ma è essenziale per una simile liberazione di vita che il cane
 
 sia inconsapevole o (a dir poco) distratto. In senso
 
-lato, potete chiamare la cosa corruzione, se per caso amate i [[dogs|cani]].
+lato, potete chiamare la cosa corruzione, se per caso amate i cani.
 
 Potete chiamarla evoluzione, se per caso amate i vermi. In entrambi
 
-i casi, è ciò che accade alle cose se le lasciate [[Alone|sole]].
+i casi, è ciò che accade alle cose se le lasciate sole.
 
 L'errore degli evoluzionisti
 
@@ -2845,13 +2845,13 @@ diverrà un'esperienza quasi universale. Non sarà necessariamente un'esperienza
 
 crudele o vergognosa: su questi punti (lo concedo di certo per
 
-il presente scopo del [[debate|dibattito]]) può essere un'esperienza enormemente migliorata.
+il presente scopo del dibattito) può essere un'esperienza enormemente migliorata.
 
 Le condizioni nella [[motifs/prison|prigione]], molto probabilmente, saranno rese più umane.
 
 Ma la [[motifs/prison|prigione]] sarà resa più umana solo per contenere più
 
-umanità. Ho scarsa stima del giudizio e del senso dell'[[Humour|umorismo]] di chiunque
+umanità. Ho scarsa stima del giudizio e del senso dell'umorismo di chiunque
 
 abbia potuto osservare i recenti processi di polizia senza rendersi conto che
 
@@ -2922,9 +2922,9 @@ in [[motifs/prison|Prigione]], con una pazienza esattamente simile.
 
 VIII. THE LASH FOR LABOUR
 
-If I were to prophesy that two hundred years hence a [[grocer]] would have
+If I were to prophesy that two hundred years hence a grocer would have
 
-the right and habit of beating the [[grocer]]'s assistant with a stick, or
+the right and habit of beating the grocer's assistant with a stick, or
 
 that shop girls might be flogged, as they already can be fined, many
 
@@ -2938,7 +2938,7 @@ to nearly all the other prophecies that are being made around me to-day,
 
 I should say my prediction stood an exceptionally good chance. In short,
 
-I think the [[grocer]] with the stick is a figure we are far more likely to
+I think the grocer with the stick is a figure we are far more likely to
 
 see than the Superman or the Samurai, or the True Model Employer, or the
 
@@ -3060,7 +3060,7 @@ private property in some reasonable degree; but not only is this not
 
 true to-day, but it is not being made any truer, even by those who
 
-honestly believe that they are [[mending]] matters. The great employers will
+honestly believe that they are mending matters. The great employers will
 
 often do something towards improving what they call the "conditions"
 
@@ -3084,9 +3084,9 @@ enough under simpler conditions. An old-fashioned shopkeeper might have
 
 locked up his apprentice in his coal-cellar; but his coal-cellar would
 
-be a real, pitch dark coal-cellar, and the rest of his [[house]] would be a
+be a real, pitch dark coal-cellar, and the rest of his house would be a
 
-real human [[house]]. Everybody (especially the apprentice) would see a most
+real human house. Everybody (especially the apprentice) would see a most
 
 perceptible difference between the two. But, as I pointed out in the
 
@@ -3126,7 +3126,7 @@ punishment at last (as it did in every slave system I ever heard of,
 
 including some that were generally kindly, and even successful), will
 
-merely be struck with horror and [[Incredulity|incredulity]], and feel that such a
+merely be struck with horror and incredulity, and feel that such a
 
 barbarous revival is unthinkable in the modern atmosphere. How far it
 
@@ -3136,7 +3136,7 @@ ruder times I will discuss in a moment. But first, as another of the
 
 converging lines tending to corporal punishment, consider this: that for
 
-some reason or other the old full-blooded and masculine [[Humanitarianism|humanitarianism]]
+some reason or other the old full-blooded and masculine humanitarianism
 
 in this matter has weakened and fallen silent; it has weakened and
 
@@ -3164,7 +3164,7 @@ it to the newest and vaguest categories of crime. Thirty or forty years
 
 ago, nay, twenty years ago, when Mr. F. Hugh O'Donnell and others forced
 
-a Liberal [[government|Government]] to drop the cat-o'-nine-tails like a scorpion, we
+a Liberal Government to drop the cat-o'-nine-tails like a scorpion, we
 
 could have counted on a mass of honest hatred of such things. We cannot
 
@@ -3195,9 +3195,9 @@ extremely likely that they will be.
 
 VIII. LA FRUSTA PER IL LAVORO
 
-Se dovessi profetizzare che fra duecento anni un [[grocer|droghiere]] avrebbe
+Se dovessi profetizzare che fra duecento anni un droghiere avrebbe
 
-il diritto e l'abitudine di bastonare col bastone il garzone del [[grocer|droghiere]], o
+il diritto e l'abitudine di bastonare col bastone il garzone del droghiere, o
 
 che le commesse potrebbero essere frustate, come già possono essere multate, molti
 
@@ -3211,7 +3211,7 @@ a quasi tutte le altre profezie che oggi si vanno facendo attorno a me,
 
 direi che la mia previsione gode di una probabilità eccezionalmente buona. Insomma,
 
-penso che il [[grocer|droghiere]] col bastone sia una figura che assai più probabilmente
+penso che il droghiere col bastone sia una figura che assai più probabilmente
 
 vedremo che non il Superuomo o il Samurai, o il Vero Datore di Lavoro Modello, o il
 
@@ -3333,7 +3333,7 @@ proprietà privata in qualche misura ragionevole; ma non solo ciò non è
 
 vero oggi, ma non lo si sta rendendo per nulla più vero, nemmeno da coloro che
 
-credono onestamente di star [[mending|rimediando]] alle cose. I grandi datori di lavoro
+credono onestamente di star rimediando alle cose. I grandi datori di lavoro
 
 spesso faranno qualcosa per migliorare quelle che chiamano le «condizioni»
 
@@ -3357,9 +3357,9 @@ in condizioni più semplici. Un bottegaio all'antica poteva aver
 
 rinchiuso il suo apprendista nella carbonaia; ma la sua carbonaia sarebbe
 
-una vera carbonaia buia pece, e il resto della sua [[house|casa]] sarebbe
+una vera carbonaia buia pece, e il resto della sua casa sarebbe
 
-una vera [[house|casa]] umana. Chiunque (specialmente l'apprendista) vedrebbe una assai
+una vera casa umana. Chiunque (specialmente l'apprendista) vedrebbe una assai
 
 percettibile differenza tra le due. Ma, come ho segnalato nell'
 
@@ -3399,7 +3399,7 @@ corporale alla fine (come avvenne in ogni sistema schiavista di cui abbia mai se
 
 compresi alcuni generalmente benevoli, e persino riusciti), sarà
 
-semplicemente colpita da orrore e [[Incredulity|incredulità]], e sentirà che un simile
+semplicemente colpita da orrore e incredulità, e sentirà che un simile
 
 barbarico ritorno è impensabile nell'atmosfera moderna. Fino a che punto
 
@@ -3409,7 +3409,7 @@ tempi più rozzi lo discuterò fra un momento. Ma prima, come un'altra delle
 
 linee convergenti che tendono alla punizione corporale, si consideri questo: che per
 
-qualche ragione o altra il vecchio [[Humanitarianism|umanitarismo]] sanguigno e virile
+qualche ragione o altra il vecchio umanitarismo sanguigno e virile
 
 in questa materia si è indebolito ed è ammutolito; si è indebolito ed è
 
@@ -3437,7 +3437,7 @@ alle più nuove e vaghe categorie di reato. Trenta o quarant'anni
 
 fa, anzi, vent'anni fa, quando il signor F. Hugh O'Donnell e altri costrinsero
 
-un [[government|Governo]] Liberale a lasciar cadere il gatto a nove code come uno scorpione,
+un Governo Liberale a lasciar cadere il gatto a nove code come uno scorpione,
 
 potevamo contare su una massa di onesto odio per tali cose. Non possiamo
 
@@ -3558,13 +3558,13 @@ not improbable that the same men will handle and enjoy in much the same
 
 manner, though in theory they are doing it as instruments, and not as
 
-individuals. For instance, the Prime Minister has a private [[house]], which
+individuals. For instance, the Prime Minister has a private house, which
 
-is also (I grieve to inform that eminent Puritan) a public [[house]]. It
+is also (I grieve to inform that eminent Puritan) a public house. It
 
-is supposed to be a sort of [[government|Government]] office; though people do not
+is supposed to be a sort of Government office; though people do not
 
-generally give children's parties, or go to bed in a [[government|Government]] office.
+generally give children's parties, or go to bed in a Government office.
 
 I do not know where Mr. Herbert Samuel lives; but I have no [[concepts/doubt|doubt]] he
 
@@ -3733,13 +3733,13 @@ improbabile che gli stessi uomini gestiscano e godano press'a poco allo stesso
 
 modo, benché in teoria lo facciano in quanto strumenti, e non in quanto
 
-individui. Per esempio, il Primo Ministro ha una [[house|casa]] privata, che
+individui. Per esempio, il Primo Ministro ha una casa privata, che
 
-è anche (mi duole informare quell'eminente puritano) una [[house|casa]] pubblica. Si
+è anche (mi duole informare quell'eminente puritano) una casa pubblica. Si
 
-presume sia una sorta di ufficio [[government|governativo]]; benché la gente non
+presume sia una sorta di ufficio governativo; benché la gente non
 
-generalmente dia feste per bambini, né vada a dormire, in un ufficio [[government|governativo]].
+generalmente dia feste per bambini, né vada a dormire, in un ufficio governativo.
 
 Non so dove viva il signor Herbert Samuel; ma non ho alcun [[concepts/doubt|dubbio]] che
 
@@ -3974,7 +3974,7 @@ characteristics; but I think the most singular thing about him is his
 
 staggering lack of shame. Neither the hour of [[motifs/death|death]] nor the day of
 
-reckoning, neither the tent of [[concepts/exile|exile]] nor the [[house]] of mourning, neither
+reckoning, neither the tent of [[concepts/exile|exile]] nor the house of mourning, neither
 
 chivalry nor patriotism, neither womanhood nor widowhood, is safe at
 
@@ -4187,7 +4187,7 @@ caratteristiche; ma credo che la cosa più singolare in lui sia la sua
 
 sconcertante mancanza di vergogna. Né l'ora della [[motifs/death|morte]] né il giorno del
 
-giudizio, né la tenda dell'[[concepts/exile|esilio]] né la [[house|casa]] del lutto, né
+giudizio, né la tenda dell'[[concepts/exile|esilio]] né la casa del lutto, né
 
 la cavalleria né il patriottismo, né la femminilità né la vedovanza, è al sicuro in
 
@@ -4266,7 +4266,7 @@ To tell a poor woman that she must not have any until half the day is
 
 over is simply cracked, like telling a dog or a [[archetypes/child|child]] that he must
 
-not have [[motifs/water|water]]. (2) The public-[[house]] is not a secret rendezvous of bad
+not have [[motifs/water|water]]. (2) The public-house is not a secret rendezvous of bad
 
 characters. It is the open and obvious place for a certain purpose,
 
@@ -4292,7 +4292,7 @@ Something has come into our community, which is strong enough to save
 
 our community; but which has not yet got a name. Let no one fancy I
 
-confess any unreality when I confess the namelessness. The [[morality]]
+confess any unreality when I confess the namelessness. The morality
 
 called [[historical-references/puritanism|Puritanism]], the tendency called Liberalism, the reaction called
 
@@ -4338,7 +4338,7 @@ nothing whatever to do with our ease; or rather it very much weakens it.
 
 The plutocrats will be only too pleased if we profess to preach a new
 
-[[morality]]; for they know jolly [[motifs/well|well]] that they have broken the old one.
+morality; for they know jolly [[motifs/well|well]] that they have broken the old one.
 
 They will be only too pleased to be able to say that we, by our own
 
@@ -4354,7 +4354,7 @@ Christians. And avarice has gone mad in the governing class to-day, just
 
 as lust went mad in the circle of Nero. By all the working and orthodox
 
-standards of [[Sanity|sanity]], capitalism is insane. I should not say to Mr.
+standards of sanity, capitalism is insane. I should not say to Mr.
 
 Rockefeller "I am a [[archetypes/rebel|rebel]]." I should say "I am a respectable man: and
 
@@ -4398,11 +4398,11 @@ his case? Don't you see he would be bearing his injuries much too
 
 meekly? They might take him out of the parcel; but they would very
 
-possibly put him into a mad-[[house]] instead. Symbolically speaking, that
+possibly put him into a mad-house instead. Symbolically speaking, that
 
 is what they would like to do with us. Symbolically speaking, the dirty
 
-misers who rule us will put us in a mad-[[house]]--unless we can put them
+misers who rule us will put us in a mad-house--unless we can put them
 
 there.
 
@@ -4441,7 +4441,7 @@ Dire a una povera donna che non può averne finché metà della giornata non sia
 
 trascorsa è semplicemente folle, come dire a un cane o a un [[archetypes/child|bambino]] che non deve
 
-avere l'[[motifs/water|acqua]]. (2) L'[[house|osteria]] non è un ritrovo segreto di brutti
+avere l'[[motifs/water|acqua]]. (2) L'osteria non è un ritrovo segreto di brutti
 
 ceffi. È il luogo aperto e ovvio per un certo scopo,
 
@@ -4467,7 +4467,7 @@ Qualcosa è entrato nella nostra comunità, qualcosa di abbastanza forte da salv
 
 la nostra comunità; ma che non ha ancora un nome. Nessuno immagini che io
 
-confessi una qualche irrealtà quando confesso questa mancanza di nome. La [[morality|moralità]]
+confessi una qualche irrealtà quando confesso questa mancanza di nome. La moralità
 
 chiamata [[historical-references/puritanism|Puritanesimo]], la tendenza chiamata Liberalismo, la reazione chiamata
 
@@ -4513,7 +4513,7 @@ nulla a che vedere con la nostra causa; anzi, la indebolisce non poco.
 
 I plutocrati saranno fin troppo lieti se professiamo di predicare una nuova
 
-[[morality|moralità]]; poiché sanno maledettamente [[motifs/well|bene]] di aver infranto quella vecchia.
+moralità; poiché sanno maledettamente [[motifs/well|bene]] di aver infranto quella vecchia.
 
 Saranno fin troppo lieti di poter dire che noi, per nostra stessa
 
@@ -4529,7 +4529,7 @@ Cristiani. E l'avarizia è impazzita nella classe dirigente d'oggi, proprio
 
 come la lussuria impazzì nella cerchia di Nerone. Secondo tutti i validi e ortodossi
 
-criteri della [[Sanity|sanità mentale]], il capitalismo è folle. Non direi al signor
+criteri della sanità mentale, il capitalismo è folle. Non direi al signor
 
 Rockefeller «Io sono un [[archetypes/rebel|ribelle]]». Direi «Io sono un uomo rispettabile: e
 
@@ -4573,11 +4573,11 @@ il proprio caso? Non vedete che sopporterebbe i propri torti con troppa
 
 mansuetudine? Potrebbero tirarlo fuori dal pacco; ma con ogni
 
-probabilità lo caccerebbero piuttosto in una [[house|casa]] dei matti. Simbolicamente parlando, questo
+probabilità lo caccerebbero piuttosto in una casa dei matti. Simbolicamente parlando, questo
 
 è ciò che vorrebbero fare a noi. Simbolicamente parlando, gli sporchi
 
-avari che ci governano ci metteranno in una [[house|casa]] dei matti — a meno che non possiamo mettere
+avari che ci governano ci metteranno in una casa dei matti — a meno che non possiamo mettere
 
 loro là.
 
@@ -4624,7 +4624,7 @@ no need to elaborate arguments for breaking the law. The capitalists
 
 have broken the law. We have no need of further moralities. They have
 
-broken their own [[morality]]. It is as if you were to run down the street
+broken their own morality. It is as if you were to run down the street
 
 shouting, "Communism! Communism! Share! Share!" after a man who had run
 
@@ -4801,7 +4801,7 @@ abbiamo bisogno di elaborare argomenti per infrangere la legge. I capitalisti
 
 hanno infranto la legge. Non abbiamo bisogno di ulteriori moralità. Hanno
 
-infranto la loro stessa [[morality|morale]]. È come se tu corressi giù per la strada
+infranto la loro stessa morale. È come se tu corressi giù per la strada
 
 gridando: «Comunismo! Comunismo! Dividere! Dividere!» dietro a un uomo che è scappato
 
@@ -4966,7 +4966,7 @@ man who reads a newspaper and of the newspaper that he reads. That
 
 is the view current at public schools and colleges; it is part of the
 
-culture of all the classes that count for much in [[government]]; and there
+culture of all the classes that count for much in government; and there
 
 is not one word of [[concepts/truth|truth]] in it from beginning to end.
 
@@ -5141,7 +5141,7 @@ L'uomo che legge un giornale e il giornale che lui legge
 
 È l'opinione corrente nelle scuole e nei college; ne fa parte la...
 
-cultura di tutte le classi che contano molto nel [[government|governo]]; e là
+cultura di tutte le classi che contano molto nel governo; e là
 
 non c'è una sola parola di [[concepts/truth|verità]] da principio a fine.
 
@@ -5366,7 +5366,7 @@ Now what general notion does the ordinary English boy, thus taught to
 
 utter one ignorance in one of two accents, get and keep through life
 
-about the [[historical-references/french-revolution|French Revolution]]? It is the notion of the English [[house|House]] of
+about the [[historical-references/french-revolution|French Revolution]]? It is the notion of the English House of
 
 Commons with an enormous Radical majority on one side of the table and
 
@@ -5470,7 +5470,7 @@ people, I think, in that most practical crisis who stood in precisely
 
 the same attitude towards the situation. And that is why, between them,
 
-they saved Europe. It is when you really perceive the [[unity]] of mankind
+they saved Europe. It is when you really perceive the unity of mankind
 
 that you really perceive its variety. It is not a flippancy, it is a
 
@@ -5537,7 +5537,7 @@ Ora, quale nozione generale l'ordinario ragazzo inglese, così addestrato a
 
 proferire un'unica ignoranza in uno di due accenti, ricava e conserva per tutta la vita
 
-sulla [[historical-references/french-revolution|Rivoluzione francese]]? È la nozione della [[house|Camera]] inglese dei
+sulla [[historical-references/french-revolution|Rivoluzione francese]]? È la nozione della Camera inglese dei
 
 Comuni con un'enorme maggioranza Radicale da un lato del tavolo e
 
@@ -5641,7 +5641,7 @@ persone, credo, in quella crisi quanto mai concreta che stessero esattamente nel
 
 medesimo atteggiamento verso la situazione. Ed è per questo che, insieme,
 
-salvarono l'Europa. È quando si percepisce davvero l'[[unity|unità]] del genere umano
+salvarono l'Europa. È quando si percepisce davvero l'unità del genere umano
 
 che se ne percepisce davvero la varietà. Non è una leggerezza, è una
 
@@ -5714,7 +5714,7 @@ and his successes alternate with his failures; but his successes
 
 are subtle quite as often as they are simple. Thus, to take "Martin
 
-Chuzzlewit" [[Alone|alone]], I should call the joke about the Lord No-zoo a simple
+Chuzzlewit" alone, I should call the joke about the Lord No-zoo a simple
 
 joke: but I should call the joke about Mrs. Todgers's vision of a wooden
 
@@ -5792,7 +5792,7 @@ own fine--in spite of the fact that he can [[motifs/well|well]] afford to do so.
 
 article says, if I remember aright, that the decision will cause general
 
-surprise and some indignation. That any modern [[government|Government]] making a very
+surprise and some indignation. That any modern Government making a very
 
 rich capitalist obey the law will cause general surprise, may be true.
 
@@ -5822,9 +5822,9 @@ offender of this kind. That, of course, can only mean that the matter
 
 will be decided by that instrument which still pretends to represent
 
-the whole power of the commonwealth. In other words, the [[government|Government]] will
+the whole power of the commonwealth. In other words, the Government will
 
-judge the [[government|Government]].
+judge the Government.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5891,7 +5891,7 @@ e i suoi successi si alternano ai suoi fallimenti; ma i suoi successi
 
 sono sottili tanto spesso quanto sono semplici. Così, per prendere «Martin
 
-Chuzzlewit» [[Alone|da solo]], definirei la battuta su Lord No-zoo una battuta semplice:
+Chuzzlewit» da solo, definirei la battuta su Lord No-zoo una battuta semplice:
 
 ma definirei la battuta sulla visione della signora Todgers di una gamba di
 
@@ -5969,7 +5969,7 @@ multa — nonostante il fatto che possa [[motifs/well|ben]] permetterselo. L'
 
 articolo dice, se ricordo bene, che la decisione causerà generale
 
-sorpresa e una certa indignazione. Che un qualsiasi [[government|Governo]] moderno costringa un
+sorpresa e una certa indignazione. Che un qualsiasi Governo moderno costringa un
 
 capitalista molto ricco a obbedire alla legge causi generale sorpresa, può esser vero.
 
@@ -5999,16 +5999,16 @@ trasgressore di questo genere. Ciò, naturalmente, può solo significare che la 
 
 sarà decisa da quello strumento che ancora pretende di rappresentare
 
-l'intera potenza dello Stato. In altre parole, il [[government|Governo]]
+l'intera potenza dello Stato. In altre parole, il Governo
 
-giudicherà il [[government|Governo]].
+giudicherà il Governo.
 
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_08" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 8)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/crown,motif/home,motif/horse,motif/prayer,motif/swallow,motif/well,concept/martyrdom,concept/mercy,concept/truth,form/epigram"></span>
 
 
-Now this is a perfectly plain piece of brute [[logic]]. We need not go into
+Now this is a perfectly plain piece of brute logic. We need not go into
 
 the other delicious things in the article, as when it says that "in old
 
@@ -6042,11 +6042,11 @@ degradation of the two words in modern language. Now the word "common"
 
 in "Common Informer" means exactly what it means in "common sense" or
 
-"Book of Common [[motifs/prayer|Prayer]]," or (above all) in "[[house|House]] of Commons." It
+"Book of Common [[motifs/prayer|Prayer]]," or (above all) in "House of Commons." It
 
 does not mean anything low or vulgar; any more than they do. The only
 
-difference is that the [[house|House]] of Commons really is low and vulgar; and
+difference is that the House of Commons really is low and vulgar; and
 
 the Common Informer isn't. It is just the same with the word "Informer."
 
@@ -6060,7 +6060,7 @@ will be ruined if he does.
 
 Now the quite plain point before the party journalist is this: If
 
-he really means that a corrupt bargain between a [[government|Government]] and a
+he really means that a corrupt bargain between a Government and a
 
 contractor ought to be judged by public opinion, he must (nowadays) mean
 
@@ -6068,9 +6068,9 @@ Parliament; that is, the caucus that controls Parliament. And he must
 
 decide between one of two views. Either he means that there can be no
 
-such thing as a corrupt [[government|Government]]. Or he means that it is one of the
+such thing as a corrupt Government. Or he means that it is one of the
 
-characteristic qualities of a corrupt [[government|Government]] to denounce its own
+characteristic qualities of a corrupt Government to denounce its own
 
 corruption. I laugh; and I leave him his choice.
 
@@ -6185,7 +6185,7 @@ and might [[motifs/well|well]] have seemed [[motifs/blood|blood]]-thirsty in qui
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ora questo è un pezzo di pura [[logic|logica]] perfettamente semplice. Non occorre entrare
+Ora questo è un pezzo di pura logica perfettamente semplice. Non occorre entrare
 
 nelle altre deliziose cose dell'articolo, come quando dice che «negli antichi
 
@@ -6219,11 +6219,11 @@ degradazione delle due parole nella lingua moderna. Ora la parola «common»
 
 in «Common Informer» significa esattamente ciò che significa in «common sense», o
 
-in «Book of Common [[motifs/prayer|Prayer]]», o (soprattutto) in «[[house|House]] of Commons». Non
+in «Book of Common [[motifs/prayer|Prayer]]», o (soprattutto) in «House of Commons». Non
 
 significa nulla di basso o volgare; non più di quanto lo significhino quelle. L'unica
 
-differenza è che la [[house|House]] of Commons è davvero bassa e volgare; e
+differenza è che la House of Commons è davvero bassa e volgare; e
 
 il Common Informer no. Accade lo stesso con la parola «Informer».
 
@@ -6237,7 +6237,7 @@ sarà rovinato se lo fa.
 
 Ora il punto del tutto semplice davanti al giornalista di partito è questo: se
 
-egli intende davvero che un patto corrotto tra un [[government|Governo]] e un
+egli intende davvero che un patto corrotto tra un Governo e un
 
 appaltatore debba essere giudicato dall'opinione pubblica, deve (oggigiorno) intendere
 
@@ -6245,9 +6245,9 @@ il Parlamento; cioè, il caucus che controlla il Parlamento. E deve
 
 decidere tra una di due opinioni. O intende che non può esistere
 
-una cosa come un [[government|Governo]] corrotto. Oppure intende che è una delle
+una cosa come un Governo corrotto. Oppure intende che è una delle
 
-qualità caratteristiche di un [[government|Governo]] corrotto denunciare la propria
+qualità caratteristiche di un Governo corrotto denunciare la propria
 
 corruzione. Io rido; e gli lascio la sua scelta.
 
@@ -6478,7 +6478,7 @@ the idea that the responsible person is responsible.
 
 For instance, it is almost specially so with the one or two things in
 
-which the British [[government|Government]], or the British public, really are behaving
+which the British Government, or the British public, really are behaving
 
 badly. The first, and worst of them, is the non-extension of the
 
@@ -6530,7 +6530,7 @@ fastidiousness. Are the English artists who practise the particularly
 
 English art of [[motifs/water|water]]-colour to be forbidden to use Prussian blue? Are
 
-all old ladies to shoot their Pomeranian [[dogs]]? But though England would
+all old ladies to shoot their Pomeranian dogs? But though England would
 
 laugh at this, she will get the credit of it, and will continue: until
 
@@ -6869,7 +6869,7 @@ task to apportion the blame between the various claims which..."
 
 REVIVE THE [[settings/court|COURT]] JESTER
 
-I [[concepts/hope|hope]] the [[government|Government]] will not think just now about appointing a Poet
+I [[concepts/hope|hope]] the Government will not think just now about appointing a Poet
 
 Laureate. I hardly think they can be altogether in the right mood. The
 
@@ -7040,7 +7040,7 @@ compito ripartire la colpa tra le varie pretese che...»
 
 RESUSCITARE IL BUFFONE DI [[settings/court|CORTE]]
 
-[[concepts/hope|Spero]] che il [[government|Governo]] non pensi proprio ora a nominare un Poeta
+[[concepts/hope|Spero]] che il Governo non pensi proprio ora a nominare un Poeta
 
 Laureato. Non credo affatto che possano essere del tutto nello stato d'animo giusto. La
 
@@ -7175,7 +7175,7 @@ certain privileges: you could not resent the jokes of a [[archetypes/fool|fool]]
 
 as you cannot resent the sermons of a curate. Now, what the present
 
-[[government|Government]] of England wants is neither serious praise nor serious
+Government of England wants is neither serious praise nor serious
 
 denunciation; what it wants is [[forms/satire|satire]]. What it wants, in other words,
 
@@ -7213,7 +7213,7 @@ regard his attitude in Belfast as the defiance of a sincere and dogmatic
 
 [[archetypes/rebel|rebel]], or as the bluff of a party hack and mountebank. The point is not
 
-whether we regard his defence of the [[government|Government]] at the Old Bailey as a
+whether we regard his defence of the Government at the Old Bailey as a
 
 chivalrous and reluctant duty done as an advocate or a friend, or as
 
@@ -7241,7 +7241,7 @@ appear professionally in a law [[settings/court|court]]. Etiquette cannot be at 
 
 unimportant that Carson may shoot at the [[archetypes/king|King]]'s uniform, and yet so
 
-important that he must always be ready to put on his own. The [[government|Government]]
+important that he must always be ready to put on his own. The Government
 
 cannot be so disreputable that Carson need not lay down his gun, and yet
 
@@ -7360,7 +7360,7 @@ certi privilegi: non si potevano risentire le battute di un [[archetypes/fool|bu
 
 come non si possono risentire i sermoni di un curato. Ora, ciò che l'attuale
 
-[[government|Governo]] d'Inghilterra vuole non è né seria lode né seria
+Governo d'Inghilterra vuole non è né seria lode né seria
 
 denuncia; ciò che vuole è [[forms/satire|satira]]. Ciò che vuole, in altre parole,
 
@@ -7398,7 +7398,7 @@ consideriamo il suo atteggiamento a Belfast come la sfida di un sincero e dogmat
 
 [[archetypes/rebel|ribelle]], o come il bluff di un mestierante di partito e ciarlatano. Il punto non è
 
-se consideriamo la sua difesa del [[government|Governo]] all'Old Bailey come un
+se consideriamo la sua difesa del Governo all'Old Bailey come un
 
 cavalleresco e riluttante dovere compiuto come avvocato o amico, o come
 
@@ -7426,7 +7426,7 @@ comparire professionalmente in un [[settings/court|tribunale]]. L'etichetta non 
 
 irrilevante che Carson possa sparare all'uniforme del [[archetypes/king|Re]], eppure tanto
 
-importante che egli debba essere sempre pronto a indossare la propria. Il [[government|Governo]]
+importante che egli debba essere sempre pronto a indossare la propria. Il Governo
 
 non può essere così screditato che Carson non debba deporre il fucile, eppure
 
@@ -7579,7 +7579,7 @@ candidate, but issue a perfectly frank and cynical Election Address.
 
 Mr. Mosley's address begins, "Gentlemen,--Sir Alfred Cripps having been
 
-chosen for a high judicial position and a seat in the [[house|House]] of Lords, a
+chosen for a high judicial position and a seat in the House of Lords, a
 
 by-election now becomes necessary, and the electors of South Bucks are
 
@@ -7589,9 +7589,9 @@ there were another candidate whose election address opened in a plain,
 
 manly style, like this: "Gentlemen,--In the sincere [[concepts/hope|hope]] of being myself
 
-chosen for a high judicial position or a seat in the [[house|House]] of Lords,
+chosen for a high judicial position or a seat in the House of Lords,
 
-or considerably increasing my private fortune by some [[government|Government]]
+or considerably increasing my private fortune by some Government
 
 appointment, or, at least, inside information about the financial
 
@@ -7599,7 +7599,7 @@ prospects, I have decided that it is worth my while to disburse large
 
 sums of money to you on various pretexts, and, with even more reluctance
 
-to endure the bad speaking and bad ventilation of the Commons' [[house|House]]
+to endure the bad speaking and bad ventilation of the Commons' House
 
 of Parliament, so help me God. I have very pronounced convictions on
 
@@ -7758,7 +7758,7 @@ ma pubblicare un Proclama Elettorale perfettamente franco e cinico.
 
 Il proclama del signor Mosley comincia: «Signori, essendo Sir Alfred Cripps stato
 
-scelto per un'alta carica giudiziaria e un seggio nella [[house|House]] dei Lord, una
+scelto per un'alta carica giudiziaria e un seggio nella House dei Lord, una
 
 elezione suppletiva si rende ora necessaria, e gli elettori del South Bucks sono
 
@@ -7768,17 +7768,17 @@ che vi fosse un altro candidato il cui proclama elettorale si aprisse in uno sti
 
 virile, così: «Signori, nella sincera [[concepts/hope|speranza]] di essere io stesso
 
-scelto per un'alta carica giudiziaria o un seggio nella [[house|House]] dei Lord,
+scelto per un'alta carica giudiziaria o un seggio nella House dei Lord,
 
 o di accrescere considerevolmente la mia fortuna privata con qualche nomina
 
-[[government|Governativa]], o, almeno, di ottenere informazioni riservate sulle prospettive
+Governativa, o, almeno, di ottenere informazioni riservate sulle prospettive
 
 finanziarie, ho deciso che vale la pena per me sborsare grosse
 
 somme di denaro a voi con vari pretesti, e, con ancor maggiore riluttanza,
 
-sopportare la cattiva oratoria e la cattiva ventilazione della [[house|House]] dei Comuni
+sopportare la cattiva oratoria e la cattiva ventilazione della House dei Comuni
 
 del Parlamento, che Dio mi aiuti. Ho convinzioni assai pronunciate su
 
@@ -7923,7 +7923,7 @@ them pre-eminent among the evil princes of the earth. The first and
 
 most striking feature is a stupidity that rises into a sort of ghastly
 
-[[innocence]]. The protection of workmen! Some workmen, perhaps, might have
+innocence. The protection of workmen! Some workmen, perhaps, might have
 
 a fancy for being protected from shrapnel; some might be glad to put up
 
@@ -7935,7 +7935,7 @@ proletarians have taken the same view as Vandervelde their leader, and
 
 are now energetically engaged in protecting themselves along the line
 
-of the Yser; I am glad to say not altogether without [[success]]. It is
+of the Yser; I am glad to say not altogether without success. It is
 
 probable that nearly all of the Belgian workers would, on the
 
@@ -8098,7 +8098,7 @@ preminenti fra i principi malvagi della terra. Il primo e
 
 più impressionante tratto è una stupidità che si eleva a una sorta di spettrale
 
-[[innocence|innocenza]]. La protezione dei lavoratori! Alcuni lavoratori, forse, avrebbero
+innocenza. La protezione dei lavoratori! Alcuni lavoratori, forse, avrebbero
 
 voglia di essere protetti dagli shrapnel; alcuni sarebbero lieti di aprire
 
@@ -8110,7 +8110,7 @@ proletari hanno assunto la stessa posizione del loro capo Vandervelde, e
 
 sono ora energicamente impegnati a proteggere se stessi lungo la linea
 
-dell'Yser; e sono lieto di dire non del tutto senza [[success|successo]]. È
+dell'Yser; e sono lieto di dire non del tutto senza successo. È
 
 probabile che quasi tutti i lavoratori belgi, nel
 
@@ -8175,7 +8175,7 @@ sport and the remains of real aristocracy in England. But Prussia is
 
 Capitalism; that is, a gradually solidifying [[concepts/slavery|slavery]]; and that majestic
 
-[[unity]] with which she moves, dragging all the dumb Germanies after her,
+unity with which she moves, dragging all the dumb Germanies after her,
 
 is due to the fact that her Servile State is complete, while ours is
 
@@ -8309,7 +8309,7 @@ though they _are_ gentlemen. But when one looks up at any mass of the
 
 wealthier and more powerful classes, at the Grand Stand at Epsom, at
 
-the windows of Park-lane, at the people at a full-dress [[debate]] or a
+the windows of Park-lane, at the people at a full-dress debate or a
 
 fashionable wedding, we shall be safe in saying that they are, for the
 
@@ -8329,7 +8329,7 @@ a change. They can sign their own names; and that is about all they can
 
 do. They cannot face a fact, or follow an argument, or feel a tradition;
 
-but, least of all, can they, upon any [[Persuasion|persuasion]], read through a plain
+but, least of all, can they, upon any persuasion, read through a plain
 
 impartial book, English or foreign, that is not specially written to
 
@@ -8352,7 +8352,7 @@ lo sport e i resti di una vera aristocrazia in Inghilterra. Ma la Prussia è
 
 il Capitalismo; cioè, una [[concepts/slavery|schiavitù]] che gradualmente si solidifica; e quella maestosa
 
-[[unity|unità]] con cui essa si muove, trascinandosi dietro tutte le mute Germanie,
+unità con cui essa si muove, trascinandosi dietro tutte le mute Germanie,
 
 è dovuta al fatto che il suo Stato Servile è completo, mentre il nostro è
 
@@ -8486,7 +8486,7 @@ benché _siano_ gentiluomini. Ma quando si guarda a una qualsiasi massa delle
 
 classi più ricche e più potenti, alla Tribuna d'Onore di Epsom, alle
 
-finestre di Park-lane, alla gente a un [[debate|dibattito]] in grande tenuta o a un
+finestre di Park-lane, alla gente a un dibattito in grande tenuta o a un
 
 matrimonio alla moda, potremo dire con sicurezza che sono, per la
 
@@ -8506,7 +8506,7 @@ per cambiare. Sanno firmare il proprio nome; ed è pressappoco tutto ciò che sa
 
 fare. Non sanno affrontare un fatto, o seguire un argomento, o sentire una tradizione;
 
-ma, meno di tutto, sanno, con qualsiasi [[Persuasion|persuasione]], leggere fino in fondo un semplice
+ma, meno di tutto, sanno, con qualsiasi persuasione, leggere fino in fondo un semplice
 
 libro imparziale, inglese o straniero, che non sia scritto appositamente per
 
@@ -8551,7 +8551,7 @@ the precision and fineness of touch which only manual craftsmanship can
 
 give. The housewives who flatly refused to cook the hot dinner knew how
 
-much or how little, cold meat there was in the [[house]]. The sailor who
+much or how little, cold meat there was in the house. The sailor who
 
 defied discipline by mutinying at the Nore did not defy discipline in
 
@@ -8732,7 +8732,7 @@ quella precisione e finezza di tocco che solo l'artigianato manuale può
 
 dare. Le massaie che si rifiutavano recisamente di cucinare il pranzo caldo sapevano quanta
 
-o quanto poca carne fredda vi fosse in [[house|casa]]. Il marinaio che
+o quanto poca carne fredda vi fosse in casa. Il marinaio che
 
 sfidava la disciplina ammutinandosi al Nore non sfidava la disciplina nel
 
@@ -8941,7 +8941,7 @@ tolerate the contractor, or we do not tolerate him; but no one admires
 
 him especially, and certainly no one gives him any credit for any
 
-[[success]] in the war. Confessedly or unconfessedly we knock his profits,
+success in the war. Confessedly or unconfessedly we knock his profits,
 
 not only off what goes to the taxpayer, but what goes to the soldier. We
 
@@ -8995,7 +8995,7 @@ and the urban and proletarian civilisation. That is why the victory of
 
 [[settings/germany|Germany]] would be simply the victory of Krupp, and the victory of Krupp
 
-would be simply the victory of Capitalism. There, and there [[Alone|alone]],
+would be simply the victory of Capitalism. There, and there alone,
 
 Capitalism would be able to point to something done successfully for a
 
@@ -9047,7 +9047,7 @@ less intelligent Professor Harnack as a final proof that all prehistoric
 
 humanity talked German. But when all was said, the symbol would remain
 
-that a plain tower, as straight as a [[Sword|sword]], as simple as a lily, did
+that a plain tower, as straight as a sword, as simple as a lily, did
 
 nevertheless produce the deepest divisions that have been known among
 
@@ -9112,7 +9112,7 @@ tolleriamo il fornitore, o non lo tolleriamo; ma nessuno lo ammira
 
 particolarmente, e certamente nessuno gli attribuisce alcun merito per un qualsiasi
 
-[[success|successo]] nella guerra. Confessatamente o inconfessatamente, decurtiamo i suoi profitti
+successo nella guerra. Confessatamente o inconfessatamente, decurtiamo i suoi profitti
 
 non solo da ciò che va al contribuente, ma da ciò che va al soldato. Noi
 
@@ -9166,7 +9166,7 @@ e della civiltà urbana e proletaria. Ecco perché la vittoria della
 
 [[settings/germany|Germania]] sarebbe semplicemente la vittoria di Krupp, e la vittoria di Krupp
 
-sarebbe semplicemente la vittoria del Capitalismo. Là, e là [[Alone|soltanto]],
+sarebbe semplicemente la vittoria del Capitalismo. Là, e là soltanto,
 
 il Capitalismo sarebbe in grado di indicare qualcosa fatto con successo per un'
 
@@ -9218,7 +9218,7 @@ meno intelligente professor Harnack come una prova definitiva che tutta l'umanit
 
 preistorica parlasse tedesco. Ma, tutto sommato, il simbolo rimarrebbe
 
-che una schietta torre, diritta come una [[Sword|spada]], semplice come un giglio,
+che una schietta torre, diritta come una spada, semplice come un giglio,
 
 ciò nonostante produsse le più profonde divisioni che siano state conosciute tra gli
 
@@ -9661,7 +9661,7 @@ other things it calls Bernard [[works/shaw-(chesterton)|Shaw]] a back number. [[
 
 "The Origin of Species" is a back number, in so far as any honest and
 
-interesting book ever can be; but in pure [[philosophy]] nothing can be
+interesting book ever can be; but in pure philosophy nothing can be
 
 out of date, since the universe must be a mystery even to the believer.
 
@@ -9842,7 +9842,7 @@ le altre cose definisce Bernard [[works/shaw-(chesterton)|Shaw]] roba superata. 
 
 «L'Origine delle Specie» è roba superata, nella misura in cui qualsiasi onesto e
 
-interessante libro possa mai esserlo; ma nella pura [[philosophy|filosofia]] nulla può essere
+interessante libro possa mai esserlo; ma nella pura filosofia nulla può essere
 
 fuori moda, poiché l'universo dev'essere un mistero perfino per il credente.
 
@@ -10001,7 +10001,7 @@ even in such strenuous times. The writers on the "Clarion" have a
 
 perfect right to think [[historical-references/christianity|Christianity]] is the foe of [[concepts/freedom|freedom]], or even
 
-that the stupidity and tyranny of the present [[government|Government]] is due to the
+that the stupidity and tyranny of the present Government is due to the
 
 monkish mysticism of Lord Morley and Mr. John M. Robertson. They have a
 
@@ -10051,7 +10051,7 @@ one could write a volume on that sentence, a great thick volume called
 
 "The Decline of the English Middle Class." In taste, in style, in
 
-[[philosophy]], in feeling, in political project, the horrors of it are as
+philosophy, in feeling, in political project, the horrors of it are as
 
 unfathomable as hell.
 
@@ -10117,7 +10117,7 @@ rude Midland tinker, is as much worth reading as Chaucer or Spenser;
 
 and so he is. Why, then, have they not read him? I cannot believe
 
-that anyone who had seen, even in a [[nightmare]] of the nursery, Apollyon
+that anyone who had seen, even in a nightmare of the nursery, Apollyon
 
 straddling over the whole breadth of the way could really write like
 
@@ -10178,7 +10178,7 @@ anche in tempi tanto tormentati. Gli scrittori del «Clarion» hanno un
 
 perfetto diritto di pensare che il [[historical-references/christianity|Cristianesimo]] sia il nemico della [[concepts/freedom|libertà]], o perfino
 
-che la stupidità e la tirannia dell'attuale [[government|Governo]] siano dovute al
+che la stupidità e la tirannia dell'attuale Governo siano dovute al
 
 monastico misticismo di Lord Morley e del signor John M. Robertson. Hanno il
 
@@ -10228,7 +10228,7 @@ si potrebbe scrivere un volume su quella frase, un gran grosso volume intitolato
 
 «Il Declino della Classe Media Inglese». Nel gusto, nello stile, nella
 
-[[philosophy|filosofia]], nel sentimento, nel progetto politico, gli orrori di essa sono tanto
+filosofia, nel sentimento, nel progetto politico, gli orrori di essa sono tanto
 
 insondabili quanto l'inferno.
 
@@ -10294,7 +10294,7 @@ rozzo calderaio delle Midlands, vale la lettura quanto Chaucer o Spenser;
 
 e così è. Perché, allora, non l'hanno letto? Non posso credere
 
-che chiunque abbia visto, anche in un [[nightmare|incubo]] della fanciullezza, Apollyon
+che chiunque abbia visto, anche in un incubo della fanciullezza, Apollyon
 
 a cavalcioni sull'intera larghezza della via potesse davvero scrivere così
 
@@ -10323,9 +10323,9 @@ rises into a sort of towering blasphemy. An enormous number of live
 
 young men are being hurt by shells, hurt by bullets, hurt by fever
 
-and hunger and horror of [[concepts/hope|hope]] deferred; hurt by lance blades and [[Sword|sword]]
+and hunger and horror of [[concepts/hope|hope]] deferred; hurt by lance blades and sword
 
-blades and bayonet blades breaking into the bloody [[house]] of life. But
+blades and bayonet blades breaking into the bloody house of life. But
 
 Mr. Price (I think that's his name) is still anxious that they should
 
@@ -10341,7 +10341,7 @@ many cigarettes, and that he has any influence in urging on them the
 
 unhealthiness of the habit, I should not blame him if he gave sermons
 
-or lectures about it (with [[Magic|magic]]-lantern slides), so long as it was in
+or lectures about it (with magic-lantern slides), so long as it was in
 
 Bromley and about Bromley. Cigarettes may be bad for the health: bombs
 
@@ -10393,7 +10393,7 @@ mood. It must be stopped, and we must not even ask who has stopped it!
 
 THE TYRANNY OF BAD JOURNALISM
 
-The amazing decision of the [[government|Government]] to employ methods quite alien to
+The amazing decision of the Government to employ methods quite alien to
 
 England, and rather belonging to the police of the Continent, probably
 
@@ -10496,9 +10496,9 @@ sale in una sorta di torreggiante bestemmia. Un enorme numero di vivaci
 
 giovani uomini viene ferito da granate, ferito da pallottole, ferito dalla febbre
 
-e dalla fame e dall'orrore della [[concepts/hope|speranza]] differita; ferito da lame di lancia e lame di [[Sword|spada]]
+e dalla fame e dall'orrore della [[concepts/hope|speranza]] differita; ferito da lame di lancia e lame di spada
 
-e lame di baionetta che irrompono nella sanguinante [[house|casa]] della vita. Ma
+e lame di baionetta che irrompono nella sanguinante casa della vita. Ma
 
 il signor Price (credo si chiami così) è ancora ansioso che essi non
 
@@ -10514,7 +10514,7 @@ sigarette, e che egli abbia una qualche influenza nell'inculcare in essa
 
 l'insalubrità dell'abitudine, non lo biasimerei se tenesse sermoni
 
-o conferenze su ciò (con proiezioni a lanterna [[Magic|magica]]), purché fosse a
+o conferenze su ciò (con proiezioni a lanterna magica), purché fosse a
 
 Bromley e su Bromley. Le sigarette possono far male alla salute: bombe
 
@@ -10566,7 +10566,7 @@ Deve essere fatta cessare, e non dobbiamo nemmeno chiedere chi l'abbia fatta ces
 
 LA TIRANNIA DEL CATTIVO GIORNALISMO
 
-La stupefacente decisione del [[government|Governo]] di impiegare metodi del tutto alieni all'
+La stupefacente decisione del Governo di impiegare metodi del tutto alieni all'
 
 Inghilterra, e piuttosto propri della polizia del Continente, probabilmente
 
@@ -10689,7 +10689,7 @@ chooses. In the old days, when Parliaments were free in England, it
 
 was discovered that one courtier was allowed to sell all the silk, and
 
-another to sell all the sweet wine. A member of the [[house|House]] of Commons
+another to sell all the sweet wine. A member of the House of Commons
 
 humorously asked who was allowed to sell all the bread. I really tremble
 
@@ -10815,7 +10815,7 @@ Everyone but a consistent and contented capitalist, who must be
 
 something pretty near to a Satanist, must rejoice at the spirit and
 
-[[success]] of the Battle of the Buses. But one thing about it which happens
+success of the Battle of the Buses. But one thing about it which happens
 
 to please me particularly was that it was fought, in one aspect at
 
@@ -10866,7 +10866,7 @@ sceglie. Ai vecchi tempi, quando i Parlamenti in Inghilterra erano liberi,
 
 si scoprì che a un cortigiano era concesso vendere tutta la seta, e
 
-a un altro vendere tutto il vino dolce. Un membro della [[house|Camera]] dei Comuni
+a un altro vendere tutto il vino dolce. Un membro della Camera dei Comuni
 
 chiese con umorismo a chi fosse concesso vendere tutto il pane. Davvero tremo
 
@@ -10992,7 +10992,7 @@ Chiunque, tranne un capitalista coerente e soddisfatto, il quale dev'essere
 
 qualcosa di assai vicino a un satanista, deve rallegrarsi dello spirito e del
 
-[[success|successo]] della Battaglia degli Autobus. Ma una cosa di essa che
+successo della Battaglia degli Autobus. Ma una cosa di essa che
 
 mi piace in modo particolare è che fu combattuta, almeno sotto un
 
@@ -11091,7 +11091,7 @@ incorruptible careers in the most corruptible phase of Christendom. The
 
 [[motifs/death|death]] of Quelch naturally turns one's thoughts to those extreme Marxian
 
-theorists, who, whatever we may hold about their [[philosophy]], have
+theorists, who, whatever we may hold about their philosophy, have
 
 certainly held their [[concepts/honour|honour]] like iron. And yet, even in this instant
 
@@ -11266,7 +11266,7 @@ incorruttibili carriere nella fase più corruttibile della Cristianità. La
 
 [[motifs/death|morte]] di Quelch volge naturalmente il pensiero a quegli estremi marxiani
 
-teorici che, checché possiamo ritenere della loro [[philosophy|filosofia]], hanno
+teorici che, checché possiamo ritenere della loro filosofia, hanno
 
 certamente tenuto il loro [[concepts/honour|onore]] come ferro. Eppure, perfino in questo istante
 

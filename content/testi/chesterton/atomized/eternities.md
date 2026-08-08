@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[eternities|Eternità]]  
+Eternità  
 
 G.K.Chesterton  
 
@@ -41,7 +41,7 @@ prima d'aver ringraziato il mio Dio per tutta l'erba.
 <span class="atom-split" data-atom="part--part_01" data-title="eternities (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/leaves,motif/well"></span>
 
 
-[[eternities|Eternities]]  
+Eternities  
 
 G.K.Chesterton  
 
@@ -63,7 +63,7 @@ Ere I have thanked my God for all the grass.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[eternities|Eternità]]  
+Eternità  
 
 G.K.Chesterton  
 

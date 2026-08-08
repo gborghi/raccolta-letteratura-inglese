@@ -16,7 +16,7 @@ tags:
 
 - [[works/fancies-versis-fads-(chesterton)|Fancies Versis Fads (Chesterton)]]
 - [[works/titanic-(chesterton)|titanic (Chesterton)]]
-- 970. Color — Caste — Denomination — (Dickinson)
+- [[testi/dickinson/atomized/death-silence-bells#0970_color_caste_denomination|970. Color — Caste — Denomination — (Dickinson)]]
 
 </div>
 

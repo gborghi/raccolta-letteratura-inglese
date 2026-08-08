@@ -69,13 +69,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]]
-**Archetypes:** Outsider, Villain, Scapegoat
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/villain|Villain]], [[archetypes/scapegoat|Scapegoat]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/blood|Blood]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
 **Themes & Concepts:** [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/mercy|Mercy]], [[concepts/revenge|Revenge]], [[concepts/alienation|Alienation]], [[concepts/romantic-love|Romantic Love]], [[concepts/friendship|Friendship]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/tragicomedy|Tragicomedy]], [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
 **Historical References:** [[historical-references/bible|Bible]]
 **Settings:** [[settings/venice|Venice]], [[settings/europe|Europe]]
-**Characters:** Shylock, Portia, Antonio, Bassanio, Jessica, Lorenzo, Gratiano, Nerissa, Launcelot Gobbo
+**Characters:** [[characters/shylock|Shylock]], [[characters/portia|Portia]], [[characters/antonio|Antonio]], [[characters/bassanio|Bassanio]], [[characters/jessica|Jessica]], [[characters/lorenzo|Lorenzo]], [[characters/gratiano|Gratiano]], [[characters/nerissa|Nerissa]], [[characters/launcelot-gobbo|Launcelot Gobbo]]
 
 ## Testo integrale / Full text
 

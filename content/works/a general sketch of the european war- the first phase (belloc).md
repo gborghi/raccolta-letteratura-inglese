@@ -48,6 +48,6 @@ tags:
 **Motifs:** [[motifs/battlefield-(2)|Battlefield (2)]], [[motifs/flag|Flag]], [[motifs/swords-and-weapons|Swords and Weapons]]
 **Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/battle-of-the-marne|Battle of the Marne]], [[historical-references/frederick-the-great|Frederick the Great]], [[historical-references/french-revolution|French Revolution]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]
 **Settings:** [[settings/france|France]], [[settings/germany|Germany]], [[settings/battlefield|Battlefield]], [[settings/europe|Europe]]
-**Characters:** [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]], [[historical-references/frederick-the-great|Frederick the Great]], [[historical-references/napoleon|Napoleon]], Bismarck
-**Archetypes:** Tyrant
+**Characters:** [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]], [[historical-references/frederick-the-great|Frederick the Great]], [[historical-references/napoleon|Napoleon]], [[characters/bismarck|Bismarck]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Topoi:** [[topoi/life-as-a-battle|Life as a Battle]], [[topoi/war-as-glory|War as Glory]]

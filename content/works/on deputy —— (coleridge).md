@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Fool
+**Archetypes:** [[archetypes/fool|Fool]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/epigram|Epigram]], [[forms/satire|Satire]]
 

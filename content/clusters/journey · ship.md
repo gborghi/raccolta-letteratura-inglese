@@ -16,7 +16,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1263. There is no Frigate like a Book (Dickinson)
+- [[testi/dickinson/atomized/sea-water#1263_there_is_no_frigate_like_a_book|1263. There is no Frigate like a Book (Dickinson)]]
 - [[works/aboard-at-a-ship’s-helm-(whitman)|Aboard at a Ship’s Helm (Whitman)]]
 - [[works/after-the-supper-and-talk-(whitman)|After the Supper and Talk (Whitman)]]
 - [[works/an-old-man’s-thought-of-school-(whitman)|An Old Man’s Thought of School (Whitman)]]
@@ -24,7 +24,7 @@ tags:
 - [[works/not-the-pilot-(whitman)|Not the Pilot (Whitman)]]
 - [[works/sail-out-for-good,-eidolon-yacht!-(whitman)|Sail out for Good, Eidolon Yacht! (Whitman)]]
 - [[works/song-for-all-seas,-all-ships-(whitman)|Song for All Seas, All Ships (Whitman)]]
-- Sonnet 44 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_044|Sonnet 44 (Shakespeare)]]
 - [[works/the-balloon-hoax-(poe)|The Balloon-Hoax (Poe)]]
 - [[works/the-dismantled-ship-(whitman)|The Dismantled Ship (Whitman)]]
 - [[works/the-ship-starting-(whitman)|The Ship Starting (Whitman)]]

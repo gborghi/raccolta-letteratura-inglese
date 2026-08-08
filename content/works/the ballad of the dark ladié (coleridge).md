@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** (Reputed) Fallen Woman
+**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]]
 **Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/deception|Deception]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/fragment|Fragment]]
 **Settings:** [[settings/castle|Castle]]

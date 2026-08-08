@@ -118,7 +118,7 @@ Fanning away the dandelion’s down;
 Than the light music of her nimble toes  
 Patting against the sorrel as she goes.  
 How she would start, and blush, thus to be caught  
-Playing in all her [[innocence]] of thought.  
+Playing in all her innocence of thought.  
 O let me lead her gently o’er the brook,  
 Watch her half-smiling lips, and downward look;  
 O let me for one moment touch her wrist;  
@@ -202,7 +202,7 @@ Nor was it long ere he had told the tale
 Of young Narcissus, and sad Echo’s bale.  
 
 Where had he been, from whose warm head out-flew  
-That sweetest of all [[songs]], that ever new,  
+That sweetest of all songs, that ever new,  
 That aye refreshing, pure deliciousness,  
 Coming ever to bless  
 The wanderer by moonlight? to him bringing  
@@ -284,7 +284,7 @@ And splendidly mark’d with the story divine
   Of Armida the fair, and Rinaldo the bold?  
 
 Hast thou a steed with a mane richly flowing?  
-  Hast thou a [[Sword|sword]] that thine enemy’s smart is?  
+  Hast thou a sword that thine enemy’s smart is?  
 Hast thou a trumpet rich melodies blowing?  
   And wear’st thou the shield of the fam’d Britomartis?  
 
@@ -344,12 +344,12 @@ From the blue dome, though I to dimness gaze
 On the far depth where sheeted [[motifs/lightning|lightning]] plays;  
 Or, on the wavy grass outstretch’d supinely,  
 Pry ‘mong the [[motifs/stars|stars]], to strive to think divinely:  
-That I should never hear [[characters/apollo|Apollo]]’s [[Song|song]],  
+That I should never hear [[characters/apollo|Apollo]]’s song,  
 Though feathery clouds were floating all along  
 The purple west, and, two bright streaks between,  
 The golden lyre itself were dimly seen:  
 That the still murmur of the honey bee  
-Would never teach a rural [[Song|song]] to me:  
+Would never teach a rural song to me:  
 That the bright glance from [[concepts/beauty|beauty]]’s eyelids slanting  
 Would never make a lay of mine enchanting,  
 Or warm my breast with ardour to unfold  
@@ -428,7 +428,7 @@ And plac’d in midst of all that lovely lass
 Who chosen is their [[characters/queen|queen]], — with her fine head  
 Crowned with [[motifs/flowers|flowers]] purple, white, and red:  
 For there the lily, and the musk-[[motifs/rose|rose]], sighing,  
-Are emblems true of hapless [[lovers]] dying:  
+Are emblems true of hapless lovers dying:  
 Between her breasts, that never yet felt trouble,  
 A bunch of violets full blown, and [[topoi/double|double]],  
 Serenely [[motifs/sleep|sleep]]: — she from a casket takes  
@@ -441,7 +441,7 @@ The pearls, that on each glist’ning circlet [[motifs/sleep|sleep]],
 Gush ever and anon with silent creep,  
 Lured by the [[archetypes/innocent|innocent]] dimples. To sweet rest  
 Shall the dear babe, upon its mother’s breast,  
-Be lull’d with [[songs]] of mine. Fair world, adieu!  
+Be lull’d with songs of mine. Fair world, adieu!  
 Thy dales, and hills, are fading from my view:  
 Swiftly I mount, upon wide spreading pinions,  
 Far from the narrow bounds of thy dominions.  
@@ -530,7 +530,7 @@ In a green island, far from all men’s knowing?
 More healthful than the leafiness of dales?  
 More secret than a nest of nightingales?  
 More serene than [[characters/cordelia|Cordelia]]’s countenance?  
-More full of visions than a high [[Romance|romance]]?  
+More full of visions than a high romance?  
 What, but thee [[motifs/sleep|Sleep]]? Soft closer of our eyes!  
 Low murmurer of tender lullabies!  
 Light hoverer around our happy pillows!  
@@ -764,7 +764,7 @@ Bubbles a pipe; fine sounds are floating wild
 About the earth: happy are ye and glad.  
 
 These things are doubtless: yet in [[concepts/truth|truth]] we’ve had  
-Strange thunders from the potency of [[Song|song]];  
+Strange thunders from the potency of song;  
 Mingled indeed with what is sweet and strong,  
 From majesty: but in clear [[concepts/truth|truth]] the themes  
 Are ugly clubs, the Poets Polyphemes  
@@ -774,7 +774,7 @@ Of light is poesy; ’tis the supreme of power;
 The very archings of her eye-lids charm  
 A thousand willing agents to obey,  
 And still she governs with the mildest sway:  
-But strength [[Alone|alone]] though of the Muses born  
+But strength alone though of the Muses born  
 Is like a fallen angel: trees uptorn,  
 Darkness, and worms, and shrouds, and sepulchres  
 Delight it; for it feeds upon the burrs,  
@@ -892,7 +892,7 @@ I partly owe to him: and thus, the chimes
 Of friendly voices had just given place  
 To as sweet a [[motifs/silence|silence]], when I ‘gan retrace  
 The pleasant day, upon a couch at ease.  
-It was a poet’s [[house]] who keeps the keys  
+It was a poet’s house who keeps the keys  
 Of pleasure’s temple. Round about were hung  
 The glorious features of the bards who sung  
 In other ages — cold and sacred busts  
@@ -923,7 +923,7 @@ Feel all about their undulating [[motifs/home|home]].
 Sappho’s meek head was there half smiling down  
 At nothing; just as though the earnest frown  
 Of over thinking had that moment gone  
-From off her brow, and left her all [[Alone|alone]].  
+From off her brow, and left her all alone.  
 
 Great Alfred’s too, with anxious, pitying eyes,  
 As if he always listened to the sighs  
@@ -1037,7 +1037,7 @@ Clear, but for gold-fish vases in the way,
 Their glassy diamonding on Turkish floor;  
 30  
 The tapers keep aside, an hour and more,  
-To see what else the [[motifs/moon|moon]] [[Alone|alone]] can show;  
+To see what else the [[motifs/moon|moon]] alone can show;  
 While the [[motifs/night|night]]-breeze doth softly let us know  
 My terrace is [[motifs/well|well]] bower’d with oranges.  
 Upon the floor the dullest spirit sees  
@@ -1049,7 +1049,7 @@ A viol, bow-strings torn, crosswise upon
 40  
 A glorious folio of Anacreon;  
 A skull upon a mat of roses lying,  
-Ink’d purple with a [[Song|song]] concerning dying;  
+Ink’d purple with a song concerning dying;  
 An hourglass on the turn, amid the trails  
 Of passion-flower; - just in [[motifs/time|time]] there sails  
 A cloud across the [[motifs/moon|moon]], - the lights bring in!  
@@ -1129,7 +1129,7 @@ Through sights I scarce can bear:
 O let me, let me share  
 With the hot lyre and thee.  
 
-The staid [[philosophy|Philosophy]].  
+The staid Philosophy.  
 Temper my lonely hours,  
 And let me see thy bowers  
 More unalarm’d!  
@@ -1194,14 +1194,14 @@ The mariners join [[forms/hymn|hymn]] with those on land.
 You know the Enchanted [[settings/castle|Castle]], - it doth stand  
 Upon a rock, on the border of a lake,  
 Nested in trees, which all do seem to shake  
-From some old [[Magic|magic]]-like Urganda’s [[works/sword-(chesterton)|Sword]].”  
+From some old magic-like Urganda’s [[works/sword-(chesterton)|Sword]].”  
 O Phoebus! that I had thy sacred word  
 30  
 To show this [[settings/castle|castle]], in fair dreaming wise,  
 Unto my friend, while sick and ill he lies!  
 
 You know it [[motifs/well|well]] enough, where it doth seem  
-A mossy place, a Merlin’s Hall, [[A Dream|a dream]];  
+A mossy place, a Merlin’s Hall, a dream;  
 You know the clear lake, and the little isles,  
 The [[settings/mountains|mountains]] blue, and cold near neighbour rills.  
 All which elsewhere are but half animate;  
@@ -1223,7 +1223,7 @@ The windows as if latch’d by fays and elves,
 And from them comes a silver flash of light,  
 As from the westward of a [[motifs/summer|summer]]’s [[motifs/night|night]];  
 Or like a beauteous woman’s large blue eyes  
-Gone mad thro’ olden [[songs]] and poesies.  
+Gone mad thro’ olden songs and poesies.  
 
 See! what is coming from the distance dim!  
 A golden galley all in silken trim!  
@@ -1302,7 +1302,7 @@ Leaving great verse unto a little clan?
 O, give me their old vigour, and unheard  
 Save of the quiet primrose, and the span  
 Of heaven and few ears,  
-Rounded by thee, my [[Song|song]] should die away  
+Rounded by thee, my song should die away  
 Content as theirs,  
 Rich in the simple worship of a day.  
 
@@ -1342,7 +1342,7 @@ She look'd at me as she did [[motifs/love|love]],
 I set her on my pacing steed,  
      And nothing else saw all day long,  
 For sidelong would she bend, and sing  
-     A fairy's [[Song|song]].  
+     A fairy's song.  
 
 She found me roots of relish sweet,  
      And honey wild, and manna dew,  
@@ -1399,7 +1399,7 @@ Her hair was long, her foot was light,
 I set her on my pacing steed,  
      And nothing else saw all day long;  
 For sideways would she lean, and sing  
-     A faery’s [[Song|song]].  
+     A faery’s song.  
 
 I made a garland for her head,  
      And bracelets too, and fragrant zone;  

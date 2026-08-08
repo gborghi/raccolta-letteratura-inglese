@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/stars|Stars]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/comic-verse-song|Comic Verse Song]]

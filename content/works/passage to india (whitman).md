@@ -34,7 +34,7 @@ tags:
 **Forms & Genres:** [[forms/ode|Ode]]
 **Historical References:** [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/industrial-revolution|Industrial Revolution]]
 **Settings:** [[settings/orient|Orient]]
-**Characters:** Columbus
+**Characters:** [[characters/columbus|Columbus]]
 
 ## Testo integrale / Full text
 

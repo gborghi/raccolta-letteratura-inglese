@@ -44,7 +44,7 @@ tags:
 
 ## Connections
 
-**Characters:** Charles Darwin, Thomas Henry Huxley, H. G. Wells
+**Characters:** [[characters/charles-darwin|Charles Darwin]], [[characters/thomas-henry-huxley|Thomas Henry Huxley]], [[characters/h.-g.-wells|H. G. Wells]]
 
 **Motifs:** [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/doubt|Doubt]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/natural-order|Natural Order]], [[concepts/common-man|Common Man]], [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]], [[concepts/argument-from-authority|Argument from Authority]]

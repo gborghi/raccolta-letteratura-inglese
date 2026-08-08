@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Motifs:** [[motifs/fog-and-smoke|Fog and Smoke]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/satire-of-society|Satire of Society]], [[concepts/spiritual-emptiness|Spiritual Emptiness]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

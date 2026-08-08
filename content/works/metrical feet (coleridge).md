@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Themes & Concepts:** [[concepts/education|Education]], [[concepts/artist-and-society|Artist and Society]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/divine-love|Divine Love]]
 **Forms & Genres:** [[forms/epigram|Epigram]]
 

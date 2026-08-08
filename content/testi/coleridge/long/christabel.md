@@ -31,7 +31,7 @@ year 1800, the impression of its originality would have been
 much greater than I dare at present expect. But for this
 I have only my own [[concepts/indolence|indolence]] to blame. The dates are
 mentioned for the exclusive purpose of precluding charges of   10
-plagiarism or servile [[Imitation|imitation]] from myself. For there is
+plagiarism or servile imitation from myself. For there is
 amongst us a set of critics, who seem to hold, that every
 possible thought and image is traditional; who have no
 notion that there are such things as fountains in the world,
@@ -337,7 +337,7 @@ Which is lord of thy utterance, [[characters/christabel|Christabel]]!
 Thou knowest to-[[motifs/night|night]], and wilt know to-morrow,  
 This mark of my shame, this seal of my sorrow;   270  
 But vainly thou warrest,  
-For this is [[Alone|alone]] in  
+For this is alone in  
 Thy power to declare,  
 That in the dim forest  
 Thou heard’st a low moaning,    275  
@@ -368,7 +368,7 @@ Each about to have a tear.
 With open eyes (ah woe is me!)  
 Asleep, and dreaming fearfully,  
 Fearfully dreaming, yet, I wis,  
-Dreaming that [[Alone|alone]], which is — 295  
+Dreaming that alone, which is — 295  
 O sorrow and shame! Can this be she,  
 The lady, who knelt at the old oak tree?  
 And lo! the worker of these harms,  
@@ -572,7 +572,7 @@ Nay, by my [[motifs/soul|soul]]!’ said Leoline.
 Go thou, with music sweet and loud,   485  
 And take two steeds with trappings proud,  
 And take the youth whom thou lov’st best  
-To bear thy harp, and learn thy [[Song|song]],  
+To bear thy harp, and learn thy song,  
 And clothe you both in solemn vest,  
 And over the [[settings/mountains|mountains]] haste along,   490  
 Lest wandering folk, that are abroad,  
@@ -611,7 +611,7 @@ His gracious Hail on all bestowing! —
 Are sweeter than my harp can tell;  
 Yet might I gain a boon of thee,   525  
 This day my [[motifs/journey|journey]] should not be,  
-So strange [[A Dream|a dream]] hath come to me,  
+So strange a dream hath come to me,  
 That I had vowed with music loud  
 To clear yon wood from thing unblest,  
 Warned by a vision in my rest!   530  
@@ -620,7 +620,7 @@ That gentle bird, whom thou dost [[motifs/love|love]],
 And call’st by thy own daughter’s name —  
 Sir Leoline! I saw the same  
 Fluttering, and uttering fearful moan,   535  
-Among the green herbs in the forest [[Alone|alone]].  
+Among the green herbs in the forest alone.  
 Which when I saw and when I heard,  
 I [[concepts/wonder|wonder]]’d what might ail the bird;  
 For nothing near it could I see,  
@@ -645,7 +645,7 @@ But though my slumber was gone by,
 This dream it would not pass away —  
 It seems to live upon my eye!  
 And thence I vowed this [[concepts/self|self]]-same day   560  
-With music strong and saintly [[Song|song]]  
+With music strong and saintly song  
 To wander through the forest bare,  
 Lest aught unholy loiter there.’  
 Thus Bracy said: the Baron, the while,  
@@ -654,7 +654,7 @@ Then turned to Lady [[characters/geraldine|Geraldine]],
 His eyes made up of [[concepts/wonder|wonder]] and [[motifs/love|love]];  
 And said in courtly accents fine,  
 ‘Sweet maid, Lord Roland’s beauteous dove,  
-With arms more strong than harp or [[Song|song]],   570  
+With arms more strong than harp or song,   570  
 Thy sire and I will crush the snake!’  
 He kissed her forehead as he spake,  
 And [[characters/geraldine|Geraldine]] in maiden wise  

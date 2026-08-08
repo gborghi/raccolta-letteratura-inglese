@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/common-man|Common Man]], [[concepts/democracy|Democracy]], [[concepts/immortality|Immortality]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 

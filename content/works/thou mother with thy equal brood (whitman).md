@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Themes & Concepts:** [[concepts/democracy|Democracy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/ode|Ode]]
 **Settings:** [[motifs/ship|Ship]]

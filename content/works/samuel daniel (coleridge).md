@@ -26,7 +26,7 @@ tags:
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]]
 **Themes & Concepts:** [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/war-and-its-cost|War and its Cost]]
 **Historical References:** [[historical-references/king-alfred|King Alfred]]
-**Characters:** King Alfred (2)
+**Characters:** [[characters/king-alfred-(2)|King Alfred (2)]]
 
 ## Testo integrale / Full text
 

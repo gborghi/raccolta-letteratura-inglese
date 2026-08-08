@@ -72,10 +72,10 @@ tags:
 
 ## Connections
 
-**Characters:** Patrick Dalroy, Humphrey Pump, Lord Ivywood, Lady Joan Brett, Misysra Ammon, Dorian Wimpole, Quoodle
+**Characters:** [[characters/patrick-dalroy|Patrick Dalroy]], [[characters/humphrey-pump|Humphrey Pump]], [[characters/lord-ivywood|Lord Ivywood]], [[characters/lady-joan-brett|Lady Joan Brett]], [[characters/misysra-ammon|Misysra Ammon]], [[characters/dorian-wimpole|Dorian Wimpole]], [[characters/quoodle|Quoodle]]
 
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/world-upside-down|World Upside Down]], [[topoi/carpe-diem|Carpe Diem]]
-**Archetypes:** Rebel, Outsider, Trickster, Prophet
+**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/outsider|Outsider]], [[archetypes/trickster|Trickster]], [[archetypes/prophet|Prophet]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/sea|Sea]], [[motifs/music-and-song|Music and Song]], [[motifs/cross|Cross]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/machine|Machine]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/common-man|Common Man]], [[concepts/distributism|Distributism]], [[concepts/joy|Joy]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/heroism|Heroism]], [[concepts/romantic-love|Romantic Love]], [[concepts/deception|Deception]], [[concepts/fanaticism|Fanaticism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]], [[forms/comic-verse-song|Comic Verse Song]]

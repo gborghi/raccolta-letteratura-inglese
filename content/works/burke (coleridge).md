@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Themes & Concepts:** [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/deception|Deception]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 

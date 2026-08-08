@@ -86,7 +86,7 @@ straordinaria che fu il movimento puritano inglese. Perché gli inglesi,
 la cui [[concepts/nature|natura]] è quella d'essere particolarmente felici e
 particolarmente confusionari, dovessero essere l'unico popolo d'Europa a
 venire influenzato in modo tanto sorprendente dall'amarezza e dalla
-[[logic|logica]] di Calvino, deve restare un [[forms/riddle|enigma]]. Deve
+logica di Calvino, deve restare un [[forms/riddle|enigma]]. Deve
 restare un [[forms/riddle|enigma]] per due ragioni. Primo, che era una cosa
 religiosa e perciò imperscrutabile; e secondo, che era una cosa riuscita,
 e perciò ne siamo tutti gli eredi; la stiamo guardando attraverso i
@@ -176,7 +176,7 @@ sapere e dell'arte.
 
 Il "[[archetypes/pilgrim|Viaggio del pellegrino]]" mostra certamente tutti i segni di
 una simile rinascita di potenza e mistero primitivi. La sua somiglianza con
-la [[historical-references/bible|Bibbia]] non è una mera [[Imitation|imitazione]] di stile; è anche
+la [[historical-references/bible|Bibbia]] non è una mera imitazione di stile; è anche
 una coincidenza di stato d'animo. Bunyan, che fu un soldato nell'esercito
 di Cromwell, era stato egli stesso gettato in un mondo quasi feroce quanto
 quello di Gedeone, o dei Maccabei, ed era davvero sotto l'influsso del
@@ -388,7 +388,7 @@ Nobody will ever plumb the real depths and meaning of that extraordinary
 thing, the English Puritan movement.  Why the English, whose [[concepts/nature|nature]]
 it is to be particularly happy and particularly muddle-headed,
 should have been the one people in Europe to be influenced in so
-startling a manner by the bitterness and the [[logic]] of Calvin,
+startling a manner by the bitterness and the logic of Calvin,
 must remain a [[forms/riddle|riddle]].  It must remain a [[forms/riddle|riddle]] for two reasons.
 First, that it was a religious thing and therefore unfathomable;
 and second, that it was a successful thing, and therefore we are
@@ -484,7 +484,7 @@ straordinaria che fu il movimento puritano inglese. Perché gli inglesi,
 la cui [[concepts/nature|natura]] è quella d'essere particolarmente felici e
 particolarmente confusionari, dovessero essere l'unico popolo d'Europa a
 venire influenzato in modo tanto sorprendente dall'amarezza e dalla
-[[logic|logica]] di Calvino, deve restare un [[forms/riddle|enigma]]. Deve
+logica di Calvino, deve restare un [[forms/riddle|enigma]]. Deve
 restare un [[forms/riddle|enigma]] per due ragioni. Primo, che era una cosa
 religiosa e perciò imperscrutabile; e secondo, che era una cosa riuscita,
 e perciò ne siamo tutti gli eredi; la stiamo guardando attraverso i
@@ -579,7 +579,7 @@ sapere e dell'arte.
 
 The "[[archetypes/pilgrim|Pilgrim]]'s Progress" certainly exhibits all the marks of such a
 revival of primitive power and mystery.  Its resemblance to the [[historical-references/bible|Bible]]
-is not a mere [[Imitation|imitation]] of style; it is also a coincidence of mood.
+is not a mere imitation of style; it is also a coincidence of mood.
 Bunyan, who was a soldier in Cromwell's army, had himself been thrown
 into a world almost as ferocious as that of Gideon, or the Maccabees,
 and he was really under the influence of the same kind of emotion.
@@ -603,7 +603,7 @@ of [[historical-references/puritanism|Puritanism]] was a sense of the deadly dan
 The whole tendency of England and of the greater part of Europe during
 the sixteenth century was towards the settlement of everything;
 toward a pleasant piety, a satisfying learning, [[motifs/well|well]]-ordered politics,
-an authentic [[philosophy]], and so on.  It was characteristic of an age
+an authentic philosophy, and so on.  It was characteristic of an age
 in which, for the first [[motifs/time|time]], comfortable private houses began
 to be built.  Just as comfortable houses were built, so were
 comfortable constitutions built, and comfortable churches built.
@@ -650,7 +650,7 @@ all conceivable things the most dangerous thing is to be alive.
 
 Il "[[archetypes/pilgrim|Viaggio del pellegrino]]" mostra certamente tutti i segni di
 una simile rinascita di potenza e mistero primitivi. La sua somiglianza con
-la [[historical-references/bible|Bibbia]] non è una mera [[Imitation|imitazione]] di stile; è anche
+la [[historical-references/bible|Bibbia]] non è una mera imitazione di stile; è anche
 una coincidenza di stato d'animo. Bunyan, che fu un soldato nell'esercito
 di Cromwell, era stato egli stesso gettato in un mondo quasi feroce quanto
 quello di Gedeone, o dei Maccabei, ed era davvero sotto l'influsso del

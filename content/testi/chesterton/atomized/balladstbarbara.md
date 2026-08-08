@@ -35,7 +35,7 @@ GILBERT KEITH CHESTERTON
 
 CECIL PALMER  
 
-OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
+OAKLEY HOUSE BLOOMSBURY STREET W.C.1.  
 
 FIRST  
 
@@ -145,7 +145,7 @@ For a War Memorial                              32
 
 The English Graves                              35  
 
-[[nightmare|Nightmare]]                                       37  
+Nightmare                                       37  
 
 A Second [[motifs/childhood|Childhood]]                              40  
 
@@ -159,7 +159,7 @@ The Hunting of the Dragon                       48
 
 Fantasia                                        52  
 
-A Christmas [[carol|Carol]]                               54  
+A Christmas Carol                               54  
 
 To Captain Fryatt                               56  
 
@@ -173,9 +173,9 @@ III. The Stone-Masons                         62
 
 IV. The Bell-Ringers                         64  
 
-The [[convert|Convert]]                                     67  
+The Convert                                     67  
 
-[[songs|Songs]] of [[concepts/education|Education]]:  
+Songs of [[concepts/education|Education]]:  
 
 I. [[concepts/history|History]]                                  71  
 
@@ -219,9 +219,9 @@ And the Breton to the Norman spoke, like a small [[archetypes/child|child]] spok
 
 And his sea-blue eyes were empty as his [[motifs/home|home]] beside the sea:  
 
-"There are more windows in one [[house]] than there are eyes to see,  
+"There are more windows in one house than there are eyes to see,  
 
-There are more doors in a man's [[house]], but God has hid the key:  
+There are more doors in a man's house, but God has hid the key:  
 
 Ruin is a builder of windows; her legend witnesseth  
 
@@ -373,7 +373,7 @@ A seraph's strong wing shaken out the shock of its unshuttering,
 
 That split the shattered sunlight from a light behind the sun.  
 
-"Then he drew [[Sword|sword]] and drave her  
+"Then he drew sword and drave her  
 
 Where the judges sat and said  
 
@@ -445,7 +445,7 @@ Because of the bird of the three wings,
 
 And the third face of God.'  
 
-The [[Sword|sword]] upon his shoulder  
+The sword upon his shoulder  
 
 Shifted and shone and fell,  
 
@@ -477,7 +477,7 @@ Smiled too, and went to his own tower
 
 Like a walking tower of brass,  
 
-And the [[songs]] ceased and the slaves were dumb;  
+And the songs ceased and the slaves were dumb;  
 
 And far towards the foam  
 
@@ -485,7 +485,7 @@ Men saw a [[archetypes/shadow|shadow]] on the sands;
 
 And her father coming [[motifs/home|home]]....  
 
-[[motifs/blood|Blood]] of his [[motifs/blood|blood]] upon the [[Sword|sword]]  
+[[motifs/blood|Blood]] of his [[motifs/blood|blood]] upon the sword  
 
 Stood red but never dry.  
 
@@ -561,7 +561,7 @@ And across the carnage of the Guard, by [[settings/paris|Paris]] in the plain,
 
 The Normans to the Bretons cried and the Bretons cheered again....  
 
-But he that told the tale went [[motifs/home|home]] to his [[house]] beside the sea  
+But he that told the tale went [[motifs/home|home]] to his house beside the sea  
 
 And burned before St. Barbara, the light of the windows three,  
 
@@ -595,9 +595,9 @@ Alas, alas for England
 
 They have no graves as yet.  
 
-THE [[Sword|SWORD]] OF SURPRISE  
+THE SWORD OF SURPRISE  
 
-Sunder me from my bones, O [[Sword|sword]] of God,  
+Sunder me from my bones, O sword of God,  
 
 Till they stand stark and strange as do the trees;  
 
@@ -615,7 +615,7 @@ But never see the sun.
 
 Give me miraculous eyes to see my eyes,  
 
-Those [[rolling]] mirrors made alive in me,  
+Those rolling mirrors made alive in me,  
 
 Terrible crystal more incredible  
 
@@ -631,7 +631,7 @@ A stranger in the street.
 
 A WEDDING IN WAR-[[motifs/time|TIME]]  
 
-Our God who made two [[lovers]] in a [[motifs/garden|garden]],  
+Our God who made two lovers in a [[motifs/garden|garden]],  
 
 And smote them separate and set them free,  
 
@@ -657,7 +657,7 @@ Mix a mad twilight of the [[motifs/moon|moon]] and sun;
 
 Waken again to thunderclap and clamour  
 
-The [[concepts/wonder|wonder]] of our sundering and the [[Song|song]],  
+The [[concepts/wonder|wonder]] of our sundering and the song,  
 
 Or break our hearts with thine hell-shattering hammer  
 
@@ -745,7 +745,7 @@ Earthquake and [[motifs/dawn|Dawn]]; the bridegroom and the bride.
 
 [[motifs/death|Death]] and not [[motifs/dreams|dreams]] or [[concepts/doubt|doubt]] of things undying,  
 
-Of whose the holy hearth or whose the [[Sword|sword]];  
+Of whose the holy hearth or whose the sword;  
 
 Though sacred spirits dissever in strong crying  
 
@@ -831,7 +831,7 @@ Take comfort; rest--there needs not this ado.
 
 You shall not be a myth, I promise you.  
 
-THE OLD [[Song|SONG]]  
+THE OLD SONG  
 
 _(On the Embankment in stormy weather.)_  
 
@@ -1005,7 +1005,7 @@ And told the angel of the book and pen
 
 "Write me as one that loves his fellow-men:  
 
-For them [[Alone|alone]] I labour; to reclaim  
+For them alone I labour; to reclaim  
 
 The ragged roaming Bedouin and to tame  
 
@@ -1029,7 +1029,7 @@ Gently replied the angel of the pen:
 
 "Labour in peace and [[motifs/love|love]] your fellow-men:  
 
-And [[motifs/love|love]] not God, since men [[Alone|alone]] are dear,  
+And [[motifs/love|love]] not God, since men alone are dear,  
 
 Only [[concepts/fear|fear]] God; for you have cause to [[concepts/fear|fear]]."  
 
@@ -1073,7 +1073,7 @@ And your eyes went out to sea.
 
 Under your feet the towns were seven,  
 
-Alive and [[Alone|alone]] on high,  
+Alive and alone on high,  
 
 Your back to the broad white wall of heaven;  
 
@@ -1151,7 +1151,7 @@ Rending and ending of things gone rotten,
 
 Only the face of you unforgotten:  
 
-And your head upthrown in the skies [[Alone|alone]]  
+And your head upthrown in the skies alone  
 
 As you came over the down.  
 
@@ -1213,7 +1213,7 @@ To lift the glass and lay it down
 
 Or break the glass and go.  
 
-But when the world's New [[deluge|Deluge]] boils  
+But when the world's New Deluge boils  
 
 From the New Noah's vine,  
 
@@ -1295,7 +1295,7 @@ With the Men of the South and a [[motifs/flag|flag]] like flame,
 
 And called the land by its lovely name  
 
-In the unforgotten [[Song|song]].  
+In the unforgotten song.  
 
 If ever I [[motifs/cross|cross]] the sea and stray  
 
@@ -1347,7 +1347,7 @@ How small a shrivelled laurel-leaf lies crumpled here and curled:
 
 They died to save their country and they only saved the world.  
 
-[[nightmare|NIGHTMARE]]  
+NIGHTMARE  
 
 The silver and violet leopard of the [[motifs/night|night]]  
 
@@ -1433,7 +1433,7 @@ A SECOND [[motifs/childhood|CHILDHOOD]]
 
 When all my days are ending  
 
-And I have no [[Song|song]] to sing,  
+And I have no song to sing,  
 
 I think I shall not be too old  
 
@@ -1577,11 +1577,11 @@ That not as a [[archetypes/child|child]] looks back, and not as a [[archetypes/f
 
 All that men took too lightly and all that they [[motifs/love|love]] too late.  
 
-It is you that have made no rubric for saints, no raiment for [[lovers]],  
+It is you that have made no rubric for saints, no raiment for lovers,  
 
 Your caps that cry for a feather, your roofs that sigh for a spire:  
 
-Is it [[A Dream|a dream]] from the dead if your own [[motifs/decay|decay]] discovers  
+Is it a dream from the dead if your own [[motifs/decay|decay]] discovers  
 
 Alive in your rotting graveyard the worm of the world's [[motifs/desire|desire]]?  
 
@@ -1655,7 +1655,7 @@ Since God made anger glorious,
 
 Where eagles black and vultures grey  
 
-Flocked back about the heroic [[house]],  
+Flocked back about the heroic house,  
 
 Where war is holier than peace,  
 
@@ -1701,7 +1701,7 @@ That is the life of a man.
 
 For men grow weary of fairyland  
 
-When the Dragon is [[A Dream|a dream]],  
+When the Dragon is a dream,  
 
 And tire of the talking bird in the tree,  
 
@@ -1863,11 +1863,11 @@ And keep his head and keep his heart,
 
 And only lose his [[motifs/soul|soul]].  
 
-A CHRISTMAS [[carol|CAROL]]  
+A CHRISTMAS CAROL  
 
 _(The Chief Constable has issued a statement declaring that  
 
-[[carol]] singing in the streets by children is illegal, and morally  
+carol singing in the streets by children is illegal, and morally  
 
 and physically injurious. He appeals to the public to discourage  
 
@@ -1897,7 +1897,7 @@ The motor horn's melodious cry,
 
 The hooter's happy bray.  
 
-So, when the [[Song|song]] of children ceased  
+So, when the song of children ceased  
 
 And Herod was obeyed,  
 
@@ -2111,7 +2111,7 @@ And the devils carry the rains away;
 
 Making a thrift of the throats of hell,  
 
-Our [[gargoyles]] gather the roaring rain,  
+Our gargoyles gather the roaring rain,  
 
 Whose yawn is more than a frozen yell  
 
@@ -2195,7 +2195,7 @@ Look up at the living [[concepts/apocalypse|Apocalypse]].
 
 But all can hark at the dark of even  
 
-[[The Bells|The bells]] that bay like the hounds of heaven,  
+The bells that bay like the hounds of heaven,  
 
 Tolling and telling that over and under,  
 
@@ -2203,7 +2203,7 @@ In the ways of the air like a wandering thunder,
 
 The hunt is up over hills untrod:  
 
-For the [[motifs/wind|wind]] is the way of the [[dogs]] of God:  
+For the [[motifs/wind|wind]] is the way of the dogs of God:  
 
 From the [[archetypes/tyrant|tyrant]]'s tower to the outlaw's den  
 
@@ -2221,7 +2221,7 @@ And we poor men stand under the steeple
 
 Drawing the cords that can draw the people,  
 
-And in our leash like the leaping [[dogs]]  
+And in our leash like the leaping dogs  
 
 Are God's most deafening demagogues:  
 
@@ -2247,7 +2247,7 @@ Each man mount to his own degree:
 
 Only remember that just such a cord  
 
-Tosses in heaven the trumpet and [[Sword|sword]];  
+Tosses in heaven the trumpet and sword;  
 
 Souls on their terraces, saints on their towers,  
 
@@ -2265,7 +2265,7 @@ Virtues that thunder and thrones that endure
 
 Sway like a bell to the prayers of the poor.  
 
-THE [[convert|CONVERT]]  
+THE CONVERT  
 
 After one moment when I bowed my head  
 
@@ -2295,9 +2295,9 @@ And all these things are less than [[motifs/dust|dust]] to me
 
 Because my name is Lazarus and I live.  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]  
+SONGS OF [[concepts/education|EDUCATION]]  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 I. [[concepts/history|HISTORY]]  
 
@@ -2333,7 +2333,7 @@ From Chichester to Chester
 
 Men saw the Norman ride;  
 
-He threw his [[Sword|sword]] in the air and sang  
+He threw his sword in the air and sang  
 
 To a sort of a light guitar;  
 
@@ -2413,7 +2413,7 @@ The marvellous mugs, miraculous mugs,
 
 The mystical mugs we are.  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 II. GEOGRAPHY  
 
@@ -2489,7 +2489,7 @@ And saintly seraphical souls such as they:
 
 And that is the meaning of Empire Day.  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 III. FOR THE CRÊCHE  
 
@@ -2533,7 +2533,7 @@ For somebody else, who is cornering Steel;
 
 And though our one meeting was not very long,  
 
-She took the occasion to sing me this [[Song|song]]:  
+She took the occasion to sing me this song:  
 
 "O, hush thee, my baby, the [[motifs/time|time]] soon will come  
 
@@ -2547,7 +2547,7 @@ O, hush thee, my baby, take rest while I croon,
 
 For Progress comes early, and [[concepts/freedom|Freedom]] too soon."  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 IV. CITIZENSHIP  
 
@@ -2625,7 +2625,7 @@ And whether the Health Ministry
 
 Are in it for their health.  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 V. THE HIGHER MATHEMATICS  
 
@@ -2687,11 +2687,11 @@ Where you hide in the cellar and then look down
 
 On the poets that live in the attics;  
 
-For the whole of the [[house]] is upside down  
+For the whole of the house is upside down  
 
 In the Higher Mathematics.  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 VI. HYGIENE  
 
@@ -2792,7 +2792,7 @@ GILBERT KEITH CHESTERTON
 
 CECIL PALMER  
 
-OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
+OAKLEY HOUSE BLOOMSBURY STREET W.C.1.  
 
 PRIMA  
 
@@ -2878,7 +2878,7 @@ La Ballata di Santa Barbara                      1
 
 [[forms/elegy|Elegia]] in un cimitero di campagna             13  
 
-La [[Sword|Spada]] della Sorpresa                       14  
+La Spada della Sorpresa                       14  
 
 Nozze in [[motifs/time|tempo]] di guerra                       15  
 
@@ -2886,7 +2886,7 @@ Il Mistero                                      18
 
 «Il Mito di [[characters/arthur|Artù]]»                            19  
 
-La Vecchia [[Song|Canzone]]                             20  
+La Vecchia Canzone                             20  
 
 I Ninnoli                                       24  
 
@@ -2902,7 +2902,7 @@ Per un Monumento ai Caduti                      32
 
 Le Tombe Inglesi                                35  
 
-[[nightmare|Incubo]]                                   37  
+Incubo                                   37  
 
 Una Seconda [[motifs/childhood|Infanzia]]                     40  
 
@@ -2916,7 +2916,7 @@ La Caccia al Drago                              48
 
 Fantasia                                        52  
 
-Un [[carol|Canto]] di Natale                          54  
+Un Canto di Natale                          54  
 
 Al Capitano Fryatt                              56  
 
@@ -2930,9 +2930,9 @@ III. Gli Scalpellini                          62
 
 IV. I Campanari                              64  
 
-Il [[convert|Convertito]]                              67  
+Il Convertito                              67  
 
-[[songs|Canti]] dell'[[concepts/education|Educazione]]:  
+Canti dell'[[concepts/education|Educazione]]:  
 
 I. [[concepts/history|Storia]]                             71  
 
@@ -2976,9 +2976,9 @@ E il Bretone parlò al Normanno, come un piccolo [[archetypes/child|fanciullo]] 
 
 e i suoi occhi azzurri come il mare erano vuoti come la sua [[motifs/home|casa]] presso il mare:  
 
-«Vi sono più finestre in una [[house|casa]] che occhi per vedere,  
+«Vi sono più finestre in una casa che occhi per vedere,  
 
-vi sono più porte nella [[house|casa]] di un uomo, ma Dio ne ha nascosto la chiave:  
+vi sono più porte nella casa di un uomo, ma Dio ne ha nascosto la chiave:  
 
 La rovina è costruttrice di finestre; la sua leggenda ne fa fede,  
 
@@ -3130,7 +3130,7 @@ la forte ala di un serafino scosse via l'urto del suo spalancarsi,
 
 che divise la luce del sole frantumata da una luce dietro il sole.  
 
-«Allora egli sguainò la [[Sword|spada]] e la sospinse  
+«Allora egli sguainò la spada e la sospinse  
 
 dove sedevano i giudici, e disse  
 
@@ -3202,7 +3202,7 @@ per via dell'uccello dalle tre ali,
 
 e del terzo volto di Dio.'  
 
-La [[Sword|spada]] sulla sua spalla  
+La spada sulla sua spalla  
 
 si mosse e brillò e cadde,  
 
@@ -3234,7 +3234,7 @@ sorrise anch'egli, e andò alla propria torre
 
 come una torre di bronzo che cammina,  
 
-e i [[songs|canti]] cessarono e gli schiavi ammutolirono;  
+e i canti cessarono e gli schiavi ammutolirono;  
 
 e lontano verso la spuma  
 
@@ -3242,7 +3242,7 @@ gli uomini videro un'[[archetypes/shadow|ombra]] sulle sabbie;
 
 e suo padre che tornava a [[motifs/home|casa]]....  
 
-[[motifs/blood|Sangue]] del suo [[motifs/blood|sangue]] sulla [[Sword|spada]]  
+[[motifs/blood|Sangue]] del suo [[motifs/blood|sangue]] sulla spada  
 
 stava rosso ma mai asciutto.  
 
@@ -3318,7 +3318,7 @@ e attraverso la carneficina della Guardia, presso [[settings/paris|Parigi]] nell
 
 i Normanni gridarono ai Bretoni e i Bretoni esultarono di nuovo....  
 
-Ma colui che narrò il racconto tornò a [[motifs/home|casa]], alla sua [[house|dimora]] presso il mare  
+Ma colui che narrò il racconto tornò a [[motifs/home|casa]], alla sua dimora presso il mare  
 
 e arse dinanzi a Santa Barbara la luce delle tre finestre,  
 
@@ -3352,9 +3352,9 @@ ahimè, ahimè per l'Inghilterra,
 
 non hanno ancora tombe.  
 
-LA [[Sword|SPADA]] DELLA SORPRESA  
+LA SPADA DELLA SORPRESA  
 
-Dividimi dalle mie ossa, o [[Sword|spada]] di Dio,  
+Dividimi dalle mie ossa, o spada di Dio,  
 
 finché stiano nude e strane come gli alberi;  
 
@@ -3372,7 +3372,7 @@ ma non vedono mai il sole.
 
 Dammi occhi miracolosi per vedere i miei occhi,  
 
-quegli specchi [[rolling|roteanti]] resi vivi in me,  
+quegli specchi roteanti resi vivi in me,  
 
 terribile cristallo più incredibile  
 
@@ -3388,7 +3388,7 @@ un estraneo per la strada.
 
 NOZZE IN [[motifs/time|TEMPO]] DI GUERRA  
 
-Dio nostro, che facesti due [[lovers|amanti]] in un [[motifs/garden|giardino]],  
+Dio nostro, che facesti due amanti in un [[motifs/garden|giardino]],  
 
 e li percuotesti separandoli e li rendesti liberi,  
 
@@ -3414,7 +3414,7 @@ mescoli un folle crepuscolo di [[motifs/moon|luna]] e sole;
 
 Ridesta ancora, in scoppio di tuono e clamore,  
 
-la [[concepts/wonder|meraviglia]] del nostro dividerci e il [[Song|canto]],  
+la [[concepts/wonder|meraviglia]] del nostro dividerci e il canto,  
 
 o spezzaci i cuori col tuo martello che frantuma l'inferno  
 
@@ -3502,7 +3502,7 @@ terremoto e [[motifs/dawn|Aurora]]; lo sposo e la sposa.
 
 [[motifs/death|Morte]] e non [[motifs/dreams|sogni]] né [[concepts/doubt|dubbio]] di cose che non muoiono,  
 
-di chi sia il sacro focolare o di chi la [[Sword|spada]];  
+di chi sia il sacro focolare o di chi la spada;  
 
 benché sacri spiriti si dividano in forte grido  
 
@@ -3588,7 +3588,7 @@ Consolatevi; riposate—non occorre tanto affanno.
 
 Non sarete un mito, ve lo prometto.  
 
-LA VECCHIA [[Song|CANZONE]]  
+LA VECCHIA CANZONE  
 
 _(Sull'Embankment in tempo di tempesta.)_  
 
@@ -3762,7 +3762,7 @@ e disse all'angelo del libro e della penna
 
 «Iscrivimi come uno che ama i suoi simili:  
 
-per essi [[Alone|soli]] io m'affatico; per ricondurre  
+per essi soli io m'affatico; per ricondurre  
 
 il cencioso Beduino vagabondo, e per domarlo  
 
@@ -3786,7 +3786,7 @@ Dolcemente rispose l'angelo della penna:
 
 «Affaticati in pace e [[motifs/love|ama]] i tuoi simili:  
 
-e non [[motifs/love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+e non [[motifs/love|amare]] Dio, poiché soltanto gli uomini sono cari,  
 
 soltanto [[concepts/fear|temi]] Dio; ché hai ragione di [[concepts/fear|temere]].»  
 
@@ -3830,7 +3830,7 @@ e i tuoi occhi si spingevano al mare.
 
 Sotto i tuoi piedi le città erano sette,  
 
-vive e [[Alone|sole]] nell'alto,  
+vive e sole nell'alto,  
 
 la schiena all'ampio bianco muro del cielo;  
 
@@ -3908,7 +3908,7 @@ lacerarsi e finire di cose imputridite,
 
 Solo il tuo volto indimenticato:  
 
-e il tuo capo levato ai cieli [[Alone|solo]]  
+e il tuo capo levato ai cieli solo  
 
 quando venivi oltre la collina.  
 
@@ -3970,7 +3970,7 @@ alzare il calice e posarlo
 
 o spezzare il calice e andare.  
 
-Ma quando il Nuovo [[deluge|Diluvio]] del mondo ribollirà  
+Ma quando il Nuovo Diluvio del mondo ribollirà  
 
 dalla vigna del Nuovo Noè,  
 
@@ -4052,7 +4052,7 @@ con gli Uomini del Sud e una [[motifs/flag|bandiera]] come fiamma,
 
 e chiamò la terra col suo dolce nome  
 
-nel [[Song|canto]] indimenticato.  
+nel canto indimenticato.  
 
 Se mai [[motifs/cross|attraverserò]] il mare e vagherò  
 
@@ -4104,7 +4104,7 @@ quanto piccola una foglia d'alloro avvizzita giace qui, sgualcita e arricciata:
 
 morirono per salvare il loro paese e salvarono soltanto il mondo.  
 
-[[nightmare|INCUBO]]  
+INCUBO  
 
 Il leopardo d'argento e viola della [[motifs/night|notte]]  
 
@@ -4190,7 +4190,7 @@ UNA SECONDA [[motifs/childhood|INFANZIA]]
 
 Quando tutti i miei giorni finiranno  
 
-e non avrò più [[Song|canto]] da cantare,  
+e non avrò più canto da cantare,  
 
 penso che non sarò troppo vecchio  
 
@@ -4280,7 +4280,7 @@ ancora sono punto e trasalisco
 
 alla prima goccia di pioggia:  
 
-[[Romance|il romanzesco]] e l'[[concepts/pride|orgoglio]] e la passione passano  
+il romanzesco e l'[[concepts/pride|orgoglio]] e la passione passano  
 
 e questi sono ciò che resta.  
 
@@ -4334,11 +4334,11 @@ che non come un [[archetypes/child|bambino]] guarda indietro, e non come uno [[a
 
 tutto ciò che gli uomini presero troppo alla leggera e tutto ciò che [[motifs/love|amano]] troppo tardi.  
 
-Siete voi che non avete fatto rubrica per i santi, né veste per gli [[lovers|amanti]],  
+Siete voi che non avete fatto rubrica per i santi, né veste per gli amanti,  
 
 i vostri berretti che invocano una piuma, i vostri tetti che sospirano una guglia:  
 
-è forse [[A Dream|un sogno]] dei morti se il vostro stesso [[motifs/decay|disfacimento]] scopre  
+è forse un sogno dei morti se il vostro stesso [[motifs/decay|disfacimento]] scopre  
 
 vivo nel vostro cimitero in putrefazione il verme del [[motifs/desire|desiderio]] del mondo?  
 
@@ -4412,7 +4412,7 @@ da quando Dio rese gloriosa l'ira,
 
 là dove aquile nere e avvoltoi grigi  
 
-tornarono a stormo intorno all'eroica [[house|casa]],  
+tornarono a stormo intorno all'eroica casa,  
 
 dove la guerra è più santa della pace,  
 
@@ -4458,7 +4458,7 @@ questa è la vita d'un uomo.
 
 Poiché gli uomini si stancano della terra fatata  
 
-quando il Drago è [[A Dream|un sogno]],  
+quando il Drago è un sogno,  
 
 e si stancano dell'uccello parlante sull'albero,  
 
@@ -4620,11 +4620,11 @@ e serba la testa e serba il cuore,
 
 e perde soltanto l'[[motifs/soul|anima]].  
 
-UN [[carol|CANTO]] DI NATALE  
+UN CANTO DI NATALE  
 
 _(Il Capo della Polizia ha diramato un comunicato in cui dichiara che_  
 
-_il cantare [[carol|canti]] per le strade da parte dei bambini è illegale, e moralmente_  
+_il cantare canti per le strade da parte dei bambini è illegale, e moralmente_  
 
 _e fisicamente nocivo. Egli si appella al pubblico perché scoraggi_  
 
@@ -4654,7 +4654,7 @@ dal grido melodioso del clacson,
 
 dal lieto raglio della sirena.  
 
-Così, quando il [[Song|canto]] dei bambini cessò  
+Così, quando il canto dei bambini cessò  
 
 ed Erode fu obbedito,  
 
@@ -4868,7 +4868,7 @@ e i diavoli portano via le piogge;
 
 facendo tesoro delle gole dell'inferno,  
 
-i nostri [[gargoyles|doccioni]] raccolgono la pioggia ruggente,  
+i nostri doccioni raccolgono la pioggia ruggente,  
 
 il cui sbadiglio è più d'un urlo congelato  
 
@@ -4952,7 +4952,7 @@ guardino in alto la vivente [[concepts/apocalypse|Apocalisse]].
 
 Ma tutti possono ascoltare nel buio della sera  
 
-[[The Bells|le campane]] che latrano come i mastini del cielo,  
+le campane che latrano come i mastini del cielo,  
 
 rintoccando e annunciando che sopra e sotto,  
 
@@ -4960,7 +4960,7 @@ per le vie dell'aria come un tuono errante,
 
 la caccia è aperta su colli mai calcati:  
 
-poiché il [[motifs/wind|vento]] è la via dei [[dogs|cani]] di Dio:  
+poiché il [[motifs/wind|vento]] è la via dei cani di Dio:  
 
 dalla torre del [[archetypes/tyrant|tiranno]] alla tana del fuorilegge  
 
@@ -4978,7 +4978,7 @@ E noi, poveri uomini, stiamo sotto il campanile
 
 tirando le corde che sanno tirare il popolo,  
 
-e al nostro guinzaglio come i [[dogs|cani]] che balzano  
+e al nostro guinzaglio come i cani che balzano  
 
 siamo i più assordanti demagoghi di Dio:  
 
@@ -5004,7 +5004,7 @@ ogni uomo salga al proprio grado:
 
 solo ricordate che proprio una tal corda  
 
-scaglia in cielo la tromba e la [[Sword|spada]];  
+scaglia in cielo la tromba e la spada;  
 
 anime sulle loro terrazze, santi sulle loro torri,  
 
@@ -5022,7 +5022,7 @@ Virtù che tuonano e Troni che durano
 
 oscillano come una campana alle preghiere dei poveri.  
 
-IL [[convert|CONVERTITO]]  
+IL CONVERTITO  
 
 Dopo un solo istante in cui chinai il capo  
 
@@ -5052,9 +5052,9 @@ e tutte queste cose sono meno della [[motifs/dust|polvere]] per me
 
 perché il mio nome è Lazzaro e io vivo.  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 I. [[concepts/history|STORIA]]  
 
@@ -5090,7 +5090,7 @@ da Chichester a Chester
 
 gli uomini videro il Normanno cavalcare;  
 
-gettò la sua [[Sword|spada]] in aria e cantò  
+gettò la sua spada in aria e cantò  
 
 a una specie di leggera chitarra;  
 
@@ -5170,7 +5170,7 @@ I meravigliosi gonzi, i miracolosi gonzi,
 
 i mistici gonzi che siamo.  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 II. GEOGRAFIA  
 
@@ -5196,7 +5196,7 @@ Poi Cipro, e a est fino al Canale di Suez,
 
 che fu conquistato da Dizzy e da Rothschild suo compare  
 
-con la [[Sword|Spada]] del Signore alla vecchia maniera inglese;  
+con la Spada del Signore alla vecchia maniera inglese;  
 
 e questo è il senso del Giorno dell'Impero.  
 
@@ -5246,7 +5246,7 @@ e anime sante e serafiche come loro:
 
 e questo è il senso del Giorno dell'Impero.  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 III. PER L'ASILO NIDO  
 
@@ -5290,7 +5290,7 @@ per qualcun altro, che accaparra l'Acciaio;
 
 e benché il nostro unico incontro non fosse molto lungo,  
 
-colse l'occasione di cantarmi questo [[Song|canto]]:  
+colse l'occasione di cantarmi questo canto:  
 
 «Oh, taci, bimbo mio, presto verrà il [[motifs/time|tempo]]  
 
@@ -5304,7 +5304,7 @@ oh, taci, bimbo mio, riposa mentre canto sommessa,
 
 poiché il Progresso viene presto, e la [[concepts/freedom|Libertà]] troppo presto.»  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 IV. CITTADINANZA  
 
@@ -5382,7 +5382,7 @@ e se il Ministero della Salute
 
 ci stia per la propria salute.  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 V. LE MATEMATICHE SUPERIORI  
 
@@ -5444,11 +5444,11 @@ dove ti nascondi in cantina e poi guardi dall'alto
 
 i poeti che vivono nelle soffitte;  
 
-poiché tutta la [[house|casa]] è a rovescio  
+poiché tutta la casa è a rovescio  
 
 nelle Matematiche Superiori.  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 VI. IGIENE  
 
@@ -5553,7 +5553,7 @@ GILBERT KEITH CHESTERTON
 
 CECIL PALMER  
 
-OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
+OAKLEY HOUSE BLOOMSBURY STREET W.C.1.  
 
 FIRST  
 
@@ -5663,7 +5663,7 @@ For a War Memorial                              32
 
 The English Graves                              35  
 
-[[nightmare|Nightmare]]                                       37  
+Nightmare                                       37  
 
 A Second [[motifs/childhood|Childhood]]                              40  
 
@@ -5677,7 +5677,7 @@ The Hunting of the Dragon                       48
 
 Fantasia                                        52  
 
-A Christmas [[carol|Carol]]                               54  
+A Christmas Carol                               54  
 
 To Captain Fryatt                               56  
 
@@ -5691,9 +5691,9 @@ III. The Stone-Masons                         62
 
 IV. The Bell-Ringers                         64  
 
-The [[convert|Convert]]                                     67  
+The Convert                                     67  
 
-[[songs|Songs]] of [[concepts/education|Education]]:  
+Songs of [[concepts/education|Education]]:  
 
 I. [[concepts/history|History]]                                  71  
 
@@ -5737,9 +5737,9 @@ And the Breton to the Norman spoke, like a small [[archetypes/child|child]] spok
 
 And his sea-blue eyes were empty as his [[motifs/home|home]] beside the sea:  
 
-"There are more windows in one [[house]] than there are eyes to see,  
+"There are more windows in one house than there are eyes to see,  
 
-There are more doors in a man's [[house]], but God has hid the key:  
+There are more doors in a man's house, but God has hid the key:  
 
 Ruin is a builder of windows; her legend witnesseth  
 
@@ -5891,7 +5891,7 @@ A seraph's strong wing shaken out the shock of its unshuttering,
 
 That split the shattered sunlight from a light behind the sun.  
 
-"Then he drew [[Sword|sword]] and drave her  
+"Then he drew sword and drave her  
 
 Where the judges sat and said  
 
@@ -5963,7 +5963,7 @@ Because of the bird of the three wings,
 
 And the third face of God.'  
 
-The [[Sword|sword]] upon his shoulder  
+The sword upon his shoulder  
 
 Shifted and shone and fell,  
 
@@ -5995,7 +5995,7 @@ Smiled too, and went to his own tower
 
 Like a walking tower of brass,  
 
-And the [[songs]] ceased and the slaves were dumb;  
+And the songs ceased and the slaves were dumb;  
 
 And far towards the foam  
 
@@ -6003,7 +6003,7 @@ Men saw a [[archetypes/shadow|shadow]] on the sands;
 
 And her father coming [[motifs/home|home]]....  
 
-[[motifs/blood|Blood]] of his [[motifs/blood|blood]] upon the [[Sword|sword]]  
+[[motifs/blood|Blood]] of his [[motifs/blood|blood]] upon the sword  
 
 Stood red but never dry.  
 
@@ -6092,7 +6092,7 @@ GILBERT KEITH CHESTERTON
 
 CECIL PALMER  
 
-OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
+OAKLEY HOUSE BLOOMSBURY STREET W.C.1.  
 
 PRIMA  
 
@@ -6178,7 +6178,7 @@ La Ballata di Santa Barbara                      1
 
 [[forms/elegy|Elegia]] in un cimitero di campagna             13  
 
-La [[Sword|Spada]] della Sorpresa                       14  
+La Spada della Sorpresa                       14  
 
 Nozze in [[motifs/time|tempo]] di guerra                       15  
 
@@ -6186,7 +6186,7 @@ Il Mistero                                      18
 
 «Il Mito di [[characters/arthur|Artù]]»                            19  
 
-La Vecchia [[Song|Canzone]]                             20  
+La Vecchia Canzone                             20  
 
 I Ninnoli                                       24  
 
@@ -6202,7 +6202,7 @@ Per un Monumento ai Caduti                      32
 
 Le Tombe Inglesi                                35  
 
-[[nightmare|Incubo]]                                   37  
+Incubo                                   37  
 
 Una Seconda [[motifs/childhood|Infanzia]]                     40  
 
@@ -6216,7 +6216,7 @@ La Caccia al Drago                              48
 
 Fantasia                                        52  
 
-Un [[carol|Canto]] di Natale                          54  
+Un Canto di Natale                          54  
 
 Al Capitano Fryatt                              56  
 
@@ -6230,9 +6230,9 @@ III. Gli Scalpellini                          62
 
 IV. I Campanari                              64  
 
-Il [[convert|Convertito]]                              67  
+Il Convertito                              67  
 
-[[songs|Canti]] dell'[[concepts/education|Educazione]]:  
+Canti dell'[[concepts/education|Educazione]]:  
 
 I. [[concepts/history|Storia]]                             71  
 
@@ -6276,9 +6276,9 @@ E il Bretone parlò al Normanno, come un piccolo [[archetypes/child|fanciullo]] 
 
 e i suoi occhi azzurri come il mare erano vuoti come la sua [[motifs/home|casa]] presso il mare:  
 
-«Vi sono più finestre in una [[house|casa]] che occhi per vedere,  
+«Vi sono più finestre in una casa che occhi per vedere,  
 
-vi sono più porte nella [[house|casa]] di un uomo, ma Dio ne ha nascosto la chiave:  
+vi sono più porte nella casa di un uomo, ma Dio ne ha nascosto la chiave:  
 
 La rovina è costruttrice di finestre; la sua leggenda ne fa fede,  
 
@@ -6430,7 +6430,7 @@ la forte ala di un serafino scosse via l'urto del suo spalancarsi,
 
 che divise la luce del sole frantumata da una luce dietro il sole.  
 
-«Allora egli sguainò la [[Sword|spada]] e la sospinse  
+«Allora egli sguainò la spada e la sospinse  
 
 dove sedevano i giudici, e disse  
 
@@ -6502,7 +6502,7 @@ per via dell'uccello dalle tre ali,
 
 e del terzo volto di Dio.'  
 
-La [[Sword|spada]] sulla sua spalla  
+La spada sulla sua spalla  
 
 si mosse e brillò e cadde,  
 
@@ -6534,7 +6534,7 @@ sorrise anch'egli, e andò alla propria torre
 
 come una torre di bronzo che cammina,  
 
-e i [[songs|canti]] cessarono e gli schiavi ammutolirono;  
+e i canti cessarono e gli schiavi ammutolirono;  
 
 e lontano verso la spuma  
 
@@ -6542,7 +6542,7 @@ gli uomini videro un'[[archetypes/shadow|ombra]] sulle sabbie;
 
 e suo padre che tornava a [[motifs/home|casa]]....  
 
-[[motifs/blood|Sangue]] del suo [[motifs/blood|sangue]] sulla [[Sword|spada]]  
+[[motifs/blood|Sangue]] del suo [[motifs/blood|sangue]] sulla spada  
 
 stava rosso ma mai asciutto.  
 
@@ -6623,7 +6623,7 @@ And across the carnage of the Guard, by [[settings/paris|Paris]] in the plain,
 
 The Normans to the Bretons cried and the Bretons cheered again....  
 
-But he that told the tale went [[motifs/home|home]] to his [[house]] beside the sea  
+But he that told the tale went [[motifs/home|home]] to his house beside the sea  
 
 And burned before St. Barbara, the light of the windows three,  
 
@@ -6657,9 +6657,9 @@ Alas, alas for England
 
 They have no graves as yet.  
 
-THE [[Sword|SWORD]] OF SURPRISE  
+THE SWORD OF SURPRISE  
 
-Sunder me from my bones, O [[Sword|sword]] of God,  
+Sunder me from my bones, O sword of God,  
 
 Till they stand stark and strange as do the trees;  
 
@@ -6677,7 +6677,7 @@ But never see the sun.
 
 Give me miraculous eyes to see my eyes,  
 
-Those [[rolling]] mirrors made alive in me,  
+Those rolling mirrors made alive in me,  
 
 Terrible crystal more incredible  
 
@@ -6693,7 +6693,7 @@ A stranger in the street.
 
 A WEDDING IN WAR-[[motifs/time|TIME]]  
 
-Our God who made two [[lovers]] in a [[motifs/garden|garden]],  
+Our God who made two lovers in a [[motifs/garden|garden]],  
 
 And smote them separate and set them free,  
 
@@ -6719,7 +6719,7 @@ Mix a mad twilight of the [[motifs/moon|moon]] and sun;
 
 Waken again to thunderclap and clamour  
 
-The [[concepts/wonder|wonder]] of our sundering and the [[Song|song]],  
+The [[concepts/wonder|wonder]] of our sundering and the song,  
 
 Or break our hearts with thine hell-shattering hammer  
 
@@ -6807,7 +6807,7 @@ Earthquake and [[motifs/dawn|Dawn]]; the bridegroom and the bride.
 
 [[motifs/death|Death]] and not [[motifs/dreams|dreams]] or [[concepts/doubt|doubt]] of things undying,  
 
-Of whose the holy hearth or whose the [[Sword|sword]];  
+Of whose the holy hearth or whose the sword;  
 
 Though sacred spirits dissever in strong crying  
 
@@ -6893,7 +6893,7 @@ Take comfort; rest--there needs not this ado.
 
 You shall not be a myth, I promise you.  
 
-THE OLD [[Song|SONG]]  
+THE OLD SONG  
 
 _(On the Embankment in stormy weather.)_  
 
@@ -7067,7 +7067,7 @@ And told the angel of the book and pen
 
 "Write me as one that loves his fellow-men:  
 
-For them [[Alone|alone]] I labour; to reclaim  
+For them alone I labour; to reclaim  
 
 The ragged roaming Bedouin and to tame  
 
@@ -7091,7 +7091,7 @@ Gently replied the angel of the pen:
 
 "Labour in peace and [[motifs/love|love]] your fellow-men:  
 
-And [[motifs/love|love]] not God, since men [[Alone|alone]] are dear,  
+And [[motifs/love|love]] not God, since men alone are dear,  
 
 Only [[concepts/fear|fear]] God; for you have cause to [[concepts/fear|fear]]."  
 
@@ -7135,7 +7135,7 @@ And your eyes went out to sea.
 
 Under your feet the towns were seven,  
 
-Alive and [[Alone|alone]] on high,  
+Alive and alone on high,  
 
 Your back to the broad white wall of heaven;  
 
@@ -7224,7 +7224,7 @@ e attraverso la carneficina della Guardia, presso [[settings/paris|Parigi]] nell
 
 i Normanni gridarono ai Bretoni e i Bretoni esultarono di nuovo....  
 
-Ma colui che narrò il racconto tornò a [[motifs/home|casa]], alla sua [[house|dimora]] presso il mare  
+Ma colui che narrò il racconto tornò a [[motifs/home|casa]], alla sua dimora presso il mare  
 
 e arse dinanzi a Santa Barbara la luce delle tre finestre,  
 
@@ -7258,9 +7258,9 @@ ahimè, ahimè per l'Inghilterra,
 
 non hanno ancora tombe.  
 
-LA [[Sword|SPADA]] DELLA SORPRESA  
+LA SPADA DELLA SORPRESA  
 
-Dividimi dalle mie ossa, o [[Sword|spada]] di Dio,  
+Dividimi dalle mie ossa, o spada di Dio,  
 
 finché stiano nude e strane come gli alberi;  
 
@@ -7278,7 +7278,7 @@ ma non vedono mai il sole.
 
 Dammi occhi miracolosi per vedere i miei occhi,  
 
-quegli specchi [[rolling|roteanti]] resi vivi in me,  
+quegli specchi roteanti resi vivi in me,  
 
 terribile cristallo più incredibile  
 
@@ -7294,7 +7294,7 @@ un estraneo per la strada.
 
 NOZZE IN [[motifs/time|TEMPO]] DI GUERRA  
 
-Dio nostro, che facesti due [[lovers|amanti]] in un [[motifs/garden|giardino]],  
+Dio nostro, che facesti due amanti in un [[motifs/garden|giardino]],  
 
 e li percuotesti separandoli e li rendesti liberi,  
 
@@ -7320,7 +7320,7 @@ mescoli un folle crepuscolo di [[motifs/moon|luna]] e sole;
 
 Ridesta ancora, in scoppio di tuono e clamore,  
 
-la [[concepts/wonder|meraviglia]] del nostro dividerci e il [[Song|canto]],  
+la [[concepts/wonder|meraviglia]] del nostro dividerci e il canto,  
 
 o spezzaci i cuori col tuo martello che frantuma l'inferno  
 
@@ -7408,7 +7408,7 @@ terremoto e [[motifs/dawn|Aurora]]; lo sposo e la sposa.
 
 [[motifs/death|Morte]] e non [[motifs/dreams|sogni]] né [[concepts/doubt|dubbio]] di cose che non muoiono,  
 
-di chi sia il sacro focolare o di chi la [[Sword|spada]];  
+di chi sia il sacro focolare o di chi la spada;  
 
 benché sacri spiriti si dividano in forte grido  
 
@@ -7494,7 +7494,7 @@ Consolatevi; riposate—non occorre tanto affanno.
 
 Non sarete un mito, ve lo prometto.  
 
-LA VECCHIA [[Song|CANZONE]]  
+LA VECCHIA CANZONE  
 
 _(Sull'Embankment in tempo di tempesta.)_  
 
@@ -7668,7 +7668,7 @@ e disse all'angelo del libro e della penna
 
 «Iscrivimi come uno che ama i suoi simili:  
 
-per essi [[Alone|soli]] io m'affatico; per ricondurre  
+per essi soli io m'affatico; per ricondurre  
 
 il cencioso Beduino vagabondo, e per domarlo  
 
@@ -7692,7 +7692,7 @@ Dolcemente rispose l'angelo della penna:
 
 «Affaticati in pace e [[motifs/love|ama]] i tuoi simili:  
 
-e non [[motifs/love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+e non [[motifs/love|amare]] Dio, poiché soltanto gli uomini sono cari,  
 
 soltanto [[concepts/fear|temi]] Dio; ché hai ragione di [[concepts/fear|temere]].»  
 
@@ -7736,7 +7736,7 @@ e i tuoi occhi si spingevano al mare.
 
 Sotto i tuoi piedi le città erano sette,  
 
-vive e [[Alone|sole]] nell'alto,  
+vive e sole nell'alto,  
 
 la schiena all'ampio bianco muro del cielo;  
 
@@ -7819,7 +7819,7 @@ lacerarsi e finire di cose imputridite,
 
 Only the face of you unforgotten:  
 
-And your head upthrown in the skies [[Alone|alone]]  
+And your head upthrown in the skies alone  
 
 As you came over the down.  
 
@@ -7881,7 +7881,7 @@ To lift the glass and lay it down
 
 Or break the glass and go.  
 
-But when the world's New [[deluge|Deluge]] boils  
+But when the world's New Deluge boils  
 
 From the New Noah's vine,  
 
@@ -7963,7 +7963,7 @@ With the Men of the South and a [[motifs/flag|flag]] like flame,
 
 And called the land by its lovely name  
 
-In the unforgotten [[Song|song]].  
+In the unforgotten song.  
 
 If ever I [[motifs/cross|cross]] the sea and stray  
 
@@ -8015,7 +8015,7 @@ How small a shrivelled laurel-leaf lies crumpled here and curled:
 
 They died to save their country and they only saved the world.  
 
-[[nightmare|NIGHTMARE]]  
+NIGHTMARE  
 
 The silver and violet leopard of the [[motifs/night|night]]  
 
@@ -8101,7 +8101,7 @@ A SECOND [[motifs/childhood|CHILDHOOD]]
 
 When all my days are ending  
 
-And I have no [[Song|song]] to sing,  
+And I have no song to sing,  
 
 I think I shall not be too old  
 
@@ -8245,11 +8245,11 @@ That not as a [[archetypes/child|child]] looks back, and not as a [[archetypes/f
 
 All that men took too lightly and all that they [[motifs/love|love]] too late.  
 
-It is you that have made no rubric for saints, no raiment for [[lovers]],  
+It is you that have made no rubric for saints, no raiment for lovers,  
 
 Your caps that cry for a feather, your roofs that sigh for a spire:  
 
-Is it [[A Dream|a dream]] from the dead if your own [[motifs/decay|decay]] discovers  
+Is it a dream from the dead if your own [[motifs/decay|decay]] discovers  
 
 Alive in your rotting graveyard the worm of the world's [[motifs/desire|desire]]?  
 
@@ -8323,7 +8323,7 @@ Since God made anger glorious,
 
 Where eagles black and vultures grey  
 
-Flocked back about the heroic [[house]],  
+Flocked back about the heroic house,  
 
 Where war is holier than peace,  
 
@@ -8369,7 +8369,7 @@ That is the life of a man.
 
 For men grow weary of fairyland  
 
-When the Dragon is [[A Dream|a dream]],  
+When the Dragon is a dream,  
 
 And tire of the talking bird in the tree,  
 
@@ -8442,7 +8442,7 @@ The [[motifs/death|death]] of a deathless Dragon,
 
 Solo il tuo volto indimenticato:  
 
-e il tuo capo levato ai cieli [[Alone|solo]]  
+e il tuo capo levato ai cieli solo  
 
 quando venivi oltre la collina.  
 
@@ -8504,7 +8504,7 @@ alzare il calice e posarlo
 
 o spezzare il calice e andare.  
 
-Ma quando il Nuovo [[deluge|Diluvio]] del mondo ribollirà  
+Ma quando il Nuovo Diluvio del mondo ribollirà  
 
 dalla vigna del Nuovo Noè,  
 
@@ -8586,7 +8586,7 @@ con gli Uomini del Sud e una [[motifs/flag|bandiera]] come fiamma,
 
 e chiamò la terra col suo dolce nome  
 
-nel [[Song|canto]] indimenticato.  
+nel canto indimenticato.  
 
 Se mai [[motifs/cross|attraverserò]] il mare e vagherò  
 
@@ -8638,7 +8638,7 @@ quanto piccola una foglia d'alloro avvizzita giace qui, sgualcita e arricciata:
 
 morirono per salvare il loro paese e salvarono soltanto il mondo.  
 
-[[nightmare|INCUBO]]  
+INCUBO  
 
 Il leopardo d'argento e viola della [[motifs/night|notte]]  
 
@@ -8724,7 +8724,7 @@ UNA SECONDA [[motifs/childhood|INFANZIA]]
 
 Quando tutti i miei giorni finiranno  
 
-e non avrò più [[Song|canto]] da cantare,  
+e non avrò più canto da cantare,  
 
 penso che non sarò troppo vecchio  
 
@@ -8814,7 +8814,7 @@ ancora sono punto e trasalisco
 
 alla prima goccia di pioggia:  
 
-[[Romance|il romanzesco]] e l'[[concepts/pride|orgoglio]] e la passione passano  
+il romanzesco e l'[[concepts/pride|orgoglio]] e la passione passano  
 
 e questi sono ciò che resta.  
 
@@ -8868,11 +8868,11 @@ che non come un [[archetypes/child|bambino]] guarda indietro, e non come uno [[a
 
 tutto ciò che gli uomini presero troppo alla leggera e tutto ciò che [[motifs/love|amano]] troppo tardi.  
 
-Siete voi che non avete fatto rubrica per i santi, né veste per gli [[lovers|amanti]],  
+Siete voi che non avete fatto rubrica per i santi, né veste per gli amanti,  
 
 i vostri berretti che invocano una piuma, i vostri tetti che sospirano una guglia:  
 
-è forse [[A Dream|un sogno]] dei morti se il vostro stesso [[motifs/decay|disfacimento]] scopre  
+è forse un sogno dei morti se il vostro stesso [[motifs/decay|disfacimento]] scopre  
 
 vivo nel vostro cimitero in putrefazione il verme del [[motifs/desire|desiderio]] del mondo?  
 
@@ -8946,7 +8946,7 @@ da quando Dio rese gloriosa l'ira,
 
 là dove aquile nere e avvoltoi grigi  
 
-tornarono a stormo intorno all'eroica [[house|casa]],  
+tornarono a stormo intorno all'eroica casa,  
 
 dove la guerra è più santa della pace,  
 
@@ -8992,7 +8992,7 @@ questa è la vita d'un uomo.
 
 Poiché gli uomini si stancano della terra fatata  
 
-quando il Drago è [[A Dream|un sogno]],  
+quando il Drago è un sogno,  
 
 e si stancano dell'uccello parlante sull'albero,  
 
@@ -9159,11 +9159,11 @@ And keep his head and keep his heart,
 
 And only lose his [[motifs/soul|soul]].  
 
-A CHRISTMAS [[carol|CAROL]]  
+A CHRISTMAS CAROL  
 
 _(The Chief Constable has issued a statement declaring that  
 
-[[carol]] singing in the streets by children is illegal, and morally  
+carol singing in the streets by children is illegal, and morally  
 
 and physically injurious. He appeals to the public to discourage  
 
@@ -9193,7 +9193,7 @@ The motor horn's melodious cry,
 
 The hooter's happy bray.  
 
-So, when the [[Song|song]] of children ceased  
+So, when the song of children ceased  
 
 And Herod was obeyed,  
 
@@ -9407,7 +9407,7 @@ And the devils carry the rains away;
 
 Making a thrift of the throats of hell,  
 
-Our [[gargoyles]] gather the roaring rain,  
+Our gargoyles gather the roaring rain,  
 
 Whose yawn is more than a frozen yell  
 
@@ -9491,7 +9491,7 @@ Look up at the living [[concepts/apocalypse|Apocalypse]].
 
 But all can hark at the dark of even  
 
-[[The Bells|The bells]] that bay like the hounds of heaven,  
+The bells that bay like the hounds of heaven,  
 
 Tolling and telling that over and under,  
 
@@ -9499,7 +9499,7 @@ In the ways of the air like a wandering thunder,
 
 The hunt is up over hills untrod:  
 
-For the [[motifs/wind|wind]] is the way of the [[dogs]] of God:  
+For the [[motifs/wind|wind]] is the way of the dogs of God:  
 
 From the [[archetypes/tyrant|tyrant]]'s tower to the outlaw's den  
 
@@ -9517,7 +9517,7 @@ And we poor men stand under the steeple
 
 Drawing the cords that can draw the people,  
 
-And in our leash like the leaping [[dogs]]  
+And in our leash like the leaping dogs  
 
 Are God's most deafening demagogues:  
 
@@ -9543,7 +9543,7 @@ Each man mount to his own degree:
 
 Only remember that just such a cord  
 
-Tosses in heaven the trumpet and [[Sword|sword]];  
+Tosses in heaven the trumpet and sword;  
 
 Souls on their terraces, saints on their towers,  
 
@@ -9561,7 +9561,7 @@ Virtues that thunder and thrones that endure
 
 Sway like a bell to the prayers of the poor.  
 
-THE [[convert|CONVERT]]  
+THE CONVERT  
 
 After one moment when I bowed my head  
 
@@ -9591,9 +9591,9 @@ And all these things are less than [[motifs/dust|dust]] to me
 
 Because my name is Lazarus and I live.  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]  
+SONGS OF [[concepts/education|EDUCATION]]  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 I. [[concepts/history|HISTORY]]  
 
@@ -9629,7 +9629,7 @@ From Chichester to Chester
 
 Men saw the Norman ride;  
 
-He threw his [[Sword|sword]] in the air and sang  
+He threw his sword in the air and sang  
 
 To a sort of a light guitar;  
 
@@ -9709,7 +9709,7 @@ The marvellous mugs, miraculous mugs,
 
 The mystical mugs we are.  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 II. GEOGRAPHY  
 
@@ -9854,11 +9854,11 @@ e serba la testa e serba il cuore,
 
 e perde soltanto l'[[motifs/soul|anima]].  
 
-UN [[carol|CANTO]] DI NATALE  
+UN CANTO DI NATALE  
 
 _(Il Capo della Polizia ha diramato un comunicato in cui dichiara che_  
 
-_il cantare [[carol|canti]] per le strade da parte dei bambini è illegale, e moralmente_  
+_il cantare canti per le strade da parte dei bambini è illegale, e moralmente_  
 
 _e fisicamente nocivo. Egli si appella al pubblico perché scoraggi_  
 
@@ -9888,7 +9888,7 @@ dal grido melodioso del clacson,
 
 dal lieto raglio della sirena.  
 
-Così, quando il [[Song|canto]] dei bambini cessò  
+Così, quando il canto dei bambini cessò  
 
 ed Erode fu obbedito,  
 
@@ -10102,7 +10102,7 @@ e i diavoli portano via le piogge;
 
 facendo tesoro delle gole dell'inferno,  
 
-i nostri [[gargoyles|doccioni]] raccolgono la pioggia ruggente,  
+i nostri doccioni raccolgono la pioggia ruggente,  
 
 il cui sbadiglio è più d'un urlo congelato  
 
@@ -10186,7 +10186,7 @@ guardino in alto la vivente [[concepts/apocalypse|Apocalisse]].
 
 Ma tutti possono ascoltare nel buio della sera  
 
-[[The Bells|le campane]] che latrano come i mastini del cielo,  
+le campane che latrano come i mastini del cielo,  
 
 rintoccando e annunciando che sopra e sotto,  
 
@@ -10194,7 +10194,7 @@ per le vie dell'aria come un tuono errante,
 
 la caccia è aperta su colli mai calcati:  
 
-poiché il [[motifs/wind|vento]] è la via dei [[dogs|cani]] di Dio:  
+poiché il [[motifs/wind|vento]] è la via dei cani di Dio:  
 
 dalla torre del [[archetypes/tyrant|tiranno]] alla tana del fuorilegge  
 
@@ -10212,7 +10212,7 @@ E noi, poveri uomini, stiamo sotto il campanile
 
 tirando le corde che sanno tirare il popolo,  
 
-e al nostro guinzaglio come i [[dogs|cani]] che balzano  
+e al nostro guinzaglio come i cani che balzano  
 
 siamo i più assordanti demagoghi di Dio:  
 
@@ -10238,7 +10238,7 @@ ogni uomo salga al proprio grado:
 
 solo ricordate che proprio una tal corda  
 
-scaglia in cielo la tromba e la [[Sword|spada]];  
+scaglia in cielo la tromba e la spada;  
 
 anime sulle loro terrazze, santi sulle loro torri,  
 
@@ -10256,7 +10256,7 @@ Virtù che tuonano e Troni che durano
 
 oscillano come una campana alle preghiere dei poveri.  
 
-IL [[convert|CONVERTITO]]  
+IL CONVERTITO  
 
 Dopo un solo istante in cui chinai il capo  
 
@@ -10286,9 +10286,9 @@ e tutte queste cose sono meno della [[motifs/dust|polvere]] per me
 
 perché il mio nome è Lazzaro e io vivo.  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 I. [[concepts/history|STORIA]]  
 
@@ -10324,7 +10324,7 @@ da Chichester a Chester
 
 gli uomini videro il Normanno cavalcare;  
 
-gettò la sua [[Sword|spada]] in aria e cantò  
+gettò la sua spada in aria e cantò  
 
 a una specie di leggera chitarra;  
 
@@ -10404,7 +10404,7 @@ I meravigliosi gonzi, i miracolosi gonzi,
 
 i mistici gonzi che siamo.  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 II. GEOGRAFIA  
 
@@ -10430,7 +10430,7 @@ Poi Cipro, e a est fino al Canale di Suez,
 
 che fu conquistato da Dizzy e da Rothschild suo compare  
 
-con la [[Sword|Spada]] del Signore alla vecchia maniera inglese;  
+con la Spada del Signore alla vecchia maniera inglese;  
 
 e questo è il senso del Giorno dell'Impero.  
 
@@ -10485,7 +10485,7 @@ And saintly seraphical souls such as they:
 
 And that is the meaning of Empire Day.  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 III. FOR THE CRÊCHE  
 
@@ -10529,7 +10529,7 @@ For somebody else, who is cornering Steel;
 
 And though our one meeting was not very long,  
 
-She took the occasion to sing me this [[Song|song]]:  
+She took the occasion to sing me this song:  
 
 "O, hush thee, my baby, the [[motifs/time|time]] soon will come  
 
@@ -10543,7 +10543,7 @@ O, hush thee, my baby, take rest while I croon,
 
 For Progress comes early, and [[concepts/freedom|Freedom]] too soon."  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 IV. CITIZENSHIP  
 
@@ -10621,7 +10621,7 @@ And whether the Health Ministry
 
 Are in it for their health.  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 V. THE HIGHER MATHEMATICS  
 
@@ -10683,11 +10683,11 @@ Where you hide in the cellar and then look down
 
 On the poets that live in the attics;  
 
-For the whole of the [[house]] is upside down  
+For the whole of the house is upside down  
 
 In the Higher Mathematics.  
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]:  
+SONGS OF [[concepts/education|EDUCATION]]:  
 
 VI. HYGIENE  
 
@@ -10796,7 +10796,7 @@ e anime sante e serafiche come loro:
 
 e questo è il senso del Giorno dell'Impero.  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 III. PER L'ASILO NIDO  
 
@@ -10840,7 +10840,7 @@ per qualcun altro, che accaparra l'Acciaio;
 
 e benché il nostro unico incontro non fosse molto lungo,  
 
-colse l'occasione di cantarmi questo [[Song|canto]]:  
+colse l'occasione di cantarmi questo canto:  
 
 «Oh, taci, bimbo mio, presto verrà il [[motifs/time|tempo]]  
 
@@ -10854,7 +10854,7 @@ oh, taci, bimbo mio, riposa mentre canto sommessa,
 
 poiché il Progresso viene presto, e la [[concepts/freedom|Libertà]] troppo presto.»  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 IV. CITTADINANZA  
 
@@ -10932,7 +10932,7 @@ e se il Ministero della Salute
 
 ci stia per la propria salute.  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 V. LE MATEMATICHE SUPERIORI  
 
@@ -10994,11 +10994,11 @@ dove ti nascondi in cantina e poi guardi dall'alto
 
 i poeti che vivono nelle soffitte;  
 
-poiché tutta la [[house|casa]] è a rovescio  
+poiché tutta la casa è a rovescio  
 
 nelle Matematiche Superiori.  
 
-[[songs|CANZONI]] DELL'[[concepts/education|EDUCAZIONE]]:  
+CANZONI DELL'[[concepts/education|EDUCAZIONE]]:  
 
 VI. IGIENE  
 

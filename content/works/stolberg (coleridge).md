@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Hero, Rebel
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/rebel|Rebel]]
 **Motifs:** [[motifs/blood|Blood]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/heroism|Heroism]], [[concepts/providence|Providence]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]

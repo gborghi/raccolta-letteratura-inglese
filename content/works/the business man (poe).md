@@ -42,7 +42,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Self-Made Man, Trickster, Fool
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/trickster|Trickster]], [[archetypes/fool|Fool]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]

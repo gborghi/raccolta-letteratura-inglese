@@ -38,4 +38,4 @@ tags:
 **Motifs:** [[concepts/uncanny|Uncanny]], [[motifs/secrets|Secrets]], [[motifs/storm|Storm]], [[motifs/night|Night]]
 **Historical References:** [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/africa|Africa]], [[settings/rural-england|Rural England]]
-**Archetypes:** Hero, Outsider, Trickster
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/outsider|Outsider]], [[archetypes/trickster|Trickster]]

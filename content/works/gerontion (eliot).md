@@ -30,7 +30,7 @@ tags:
 **Themes & Concepts:** [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/memory-and-time|Memory and Time]]
 **Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]]
 **Historical References:** [[historical-references/first-world-war|First World War]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

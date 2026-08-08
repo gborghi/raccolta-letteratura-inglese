@@ -57,7 +57,7 @@ come un bimbo qualunque e interamente dipendente da una madre.
 Quale che sia l'ideale che possiamo preferire, dovremmo di certo vedere che si tratta
 di ideali contrari. È tanto stupido connetterli perché
 entrambi contengono una sostanza chiamata pietra quanto identificare
-il castigo del [[deluge|Diluvio]] con il battesimo nel Giordano
+il castigo del Diluvio con il battesimo nel Giordano
 perché entrambi contengono una sostanza chiamata [[motifs/water|acqua]].
 Sia come mito sia come mistero, [[characters/christ|Cristo]] fu manifestamente concepito
 come nato in una cavità nelle rocce anzitutto perché essa segnava
@@ -84,7 +84,7 @@ e che qui è più direttamente pertinente.
 Gli uomini del popolo, come i pastori, gli uomini della tradizione popolare,
 erano stati dovunque gli artefici delle mitologie.
 Erano stati essi ad avvertire più direttamente, con minor freno o gelo
-da parte della [[philosophy|filosofia]] o dei culti corrotti della civiltà, il bisogno
+da parte della filosofia o dei culti corrotti della civiltà, il bisogno
 che abbiamo già considerato; le immagini che erano avventure
 dell'[[concepts/imagination|immaginazione]]; la mitologia che era una sorta di ricerca;
 gli allettanti e stuzzicanti accenni a qualcosa di semiumano
@@ -94,7 +94,7 @@ Essi avevano inteso meglio d'ogni altro che l'[[motifs/soul|anima]] di un paesag
 Ma il razionalismo aveva già cominciato a corrodere questi davvero
 irrazionali seppur fantasiosi tesori del contadino;
 proprio come una [[concepts/slavery|schiavitù]] sistematica aveva divorato il contadino
-strappandolo di [[house|casa]] e di [[motifs/home|focolare]]. Su tutte le contadinerie di ovunque
+strappandolo di casa e di [[motifs/home|focolare]]. Su tutte le contadinerie di ovunque
 stava scendendo un vespro e un crepuscolo di disillusione,
 nell'ora in cui questi pochi uomini scoprirono ciò che cercavano.
 Dovunque altrove l'Arcadia svaniva dalla foresta.
@@ -137,10 +137,10 @@ stati Confucio o Pitagora o Platone. Erano coloro che cercavano
 non racconti ma la [[concepts/truth|verità]] delle cose; e poiché la loro sete di [[concepts/truth|verità]]
 era essa stessa una sete di Dio, anch'essi hanno avuto la loro ricompensa.
 Ma persino per comprendere quella ricompensa, dobbiamo comprendere che
-per la [[philosophy|filosofia]] non meno che per la mitologia quella ricompensa fu il compimento
+per la filosofia non meno che per la mitologia quella ricompensa fu il compimento
 dell'incompleto....
 
-I Magi, che stanno per il misticismo e la [[philosophy|filosofia]], sono veramente concepiti
+I Magi, che stanno per il misticismo e la filosofia, sono veramente concepiti
 come cercatori di qualcosa di nuovo e persino come scopritori di qualcosa d'inatteso.
 Quel senso di crisi che ancora freme nel racconto natalizio e
 persino in ogni celebrazione del Natale accentua l'idea di una ricerca
@@ -150,19 +150,19 @@ possono esservi aspetti insieme più semplici e più [[motifs/supernatural|sopra
 o più emotivi. Ma i Magi devono cercare la sapienza; e per loro
 dev'esservi una luce anche nell'intelletto. Ed ecco la luce:
 che il credo cattolico è cattolico e che nient'altro è cattolico.
-La [[philosophy|filosofia]] della Chiesa è universale. La [[philosophy|filosofia]] dei filosofi
+La filosofia della Chiesa è universale. La filosofia dei filosofi
 non era universale. Se Platone e Pitagora e Aristotele
 fossero stati per un istante nella luce che veniva da quella piccola [[motifs/cave|grotta]],
 avrebbero saputo che la loro propria luce non era universale.
 È ben lungi dall'essere certo, invero, che non lo sapessero già.
-Anche la [[philosophy|filosofia]], come la mitologia, aveva del tutto l'aria di una ricerca.
+Anche la filosofia, come la mitologia, aveva del tutto l'aria di una ricerca.
 È la presa di coscienza di questa [[concepts/truth|verità]] che conferisce la sua tradizionale maestà
 e il suo mistero alle figure dei Tre Re; la scoperta che la religione
-è più ampia della [[philosophy|filosofia]] e che questa è la più ampia delle religioni,
+è più ampia della filosofia e che questa è la più ampia delle religioni,
 contenuta entro questo angusto spazio....
 
 Potremmo [[motifs/well|ben]] accontentarci di dire che la mitologia era venuta con
-i pastori e la [[philosophy|filosofia]] con i filosofi; e che
+i pastori e la filosofia con i filosofi; e che
 non restava loro che combinarsi nel riconoscimento della religione.
 Ma vi era un terzo elemento che non va ignorato e uno che quella
 religione per sempre rifiuta di ignorare, in ogni tripudio o [[concepts/reconciliation|riconciliazione]].
@@ -171,7 +171,7 @@ aveva imputridito le leggende con la libidine e gelato le teorie nell'ateismo,
 ma che rispondeva alla sfida diretta con qualcosa di quel metodo più
 diretto che abbiamo visto nel culto consapevole dei dèmoni.
 Nella descrizione di quel culto demoniaco, della divorante detestazione
-dell'[[innocence|innocenza]] mostrata nelle opere della sua stregoneria e nel più disumano
+dell'innocenza mostrata nelle opere della sua stregoneria e nel più disumano
 dei suoi sacrifici umani, ho detto meno della sua indiretta e segreta
 penetrazione nel paganesimo più sano; dell'imbibizione di sesso dell'[[concepts/imagination|immaginazione]]
 mitologica; dell'ascesa dell'[[concepts/pride|orgoglio]] imperiale fino alla follia.
@@ -240,7 +240,7 @@ like an ordinary baby and entirely dependent on a mother.
 Whichever ideal we might prefer, we should surely see that they
 are contrary ideals.  It is as stupid to connect them because
 they both contain a substance called stone as to identify
-the punishment of the [[deluge|Deluge]] with the baptism in the Jordan
+the punishment of the Deluge with the baptism in the Jordan
 because they both contain a substance called [[motifs/water|water]].
 Whether as a myth or a mystery, [[characters/christ|Christ]] was obviously conceived
 as born in a hole in the rocks primarily because it marked
@@ -267,7 +267,7 @@ and which is more directly relevant here.
 Men of the people, like the shepherds, men of the popular tradition,
 had everywhere been the makers of the mythologies.
 It was they who had felt most directly, with least check or chill
-from [[philosophy]] or the corrupt cults of civilisation, the need
+from philosophy or the corrupt cults of civilisation, the need
 we have already considered; the images that were adventures
 of the [[concepts/imagination|imagination]]; the mythology that was a sort of search;
 the tempting and tantalising hints of something half-human
@@ -277,7 +277,7 @@ is a story, and the [[motifs/soul|soul]] of a story is a personality.
 But rationalism had already begun to rot away these really
 irrational though imaginative treasures of the peasant;
 even as a systematic [[concepts/slavery|slavery]] had eaten the peasant out
-of [[house]] and [[motifs/home|home]].  Upon all such peasantries everywhere
+of house and [[motifs/home|home]].  Upon all such peasantries everywhere
 there was descending a dusk and twilight of disappointment,
 in the hour when these few men discovered what they sought.
 Everywhere else Arcadia was fading from the forest.
@@ -330,7 +330,7 @@ come un bimbo qualunque e interamente dipendente da una madre.
 Quale che sia l'ideale che possiamo preferire, dovremmo di certo vedere che si tratta
 di ideali contrari. È tanto stupido connetterli perché
 entrambi contengono una sostanza chiamata pietra quanto identificare
-il castigo del [[deluge|Diluvio]] con il battesimo nel Giordano
+il castigo del Diluvio con il battesimo nel Giordano
 perché entrambi contengono una sostanza chiamata [[motifs/water|acqua]].
 Sia come mito sia come mistero, [[characters/christ|Cristo]] fu manifestamente concepito
 come nato in una cavità nelle rocce anzitutto perché essa segnava
@@ -357,7 +357,7 @@ e che qui è più direttamente pertinente.
 Gli uomini del popolo, come i pastori, gli uomini della tradizione popolare,
 erano stati dovunque gli artefici delle mitologie.
 Erano stati essi ad avvertire più direttamente, con minor freno o gelo
-da parte della [[philosophy|filosofia]] o dei culti corrotti della civiltà, il bisogno
+da parte della filosofia o dei culti corrotti della civiltà, il bisogno
 che abbiamo già considerato; le immagini che erano avventure
 dell'[[concepts/imagination|immaginazione]]; la mitologia che era una sorta di ricerca;
 gli allettanti e stuzzicanti accenni a qualcosa di semiumano
@@ -367,7 +367,7 @@ Essi avevano inteso meglio d'ogni altro che l'[[motifs/soul|anima]] di un paesag
 Ma il razionalismo aveva già cominciato a corrodere questi davvero
 irrazionali seppur fantasiosi tesori del contadino;
 proprio come una [[concepts/slavery|schiavitù]] sistematica aveva divorato il contadino
-strappandolo di [[house|casa]] e di [[motifs/home|focolare]]. Su tutte le contadinerie di ovunque
+strappandolo di casa e di [[motifs/home|focolare]]. Su tutte le contadinerie di ovunque
 stava scendendo un vespro e un crepuscolo di disillusione,
 nell'ora in cui questi pochi uomini scoprirono ciò che cercavano.
 Dovunque altrove l'Arcadia svaniva dalla foresta.
@@ -415,10 +415,10 @@ been Confucius or Pythagoras or Plato.  They were those who sought
 not tales but the [[concepts/truth|truth]] of things; and since their thirst for [[concepts/truth|truth]]
 was itself a thirst for God, they also have had their reward.
 But even in order to understand that reward, we must understand that
-for [[philosophy]] as much as mythology, that reward was the completion
+for philosophy as much as mythology, that reward was the completion
 of the incomplete....
 
-The Magi, who stand for mysticism and [[philosophy]], are truly conceived
+The Magi, who stand for mysticism and philosophy, are truly conceived
 as seeking something new and even as finding something unexpected.
 That sense of crisis which still tingles in the Christmas story and
 even in every Christmas celebration, accentuates the idea of a search
@@ -428,19 +428,19 @@ there may be aspects both simpler and more [[motifs/supernatural|supernatural]],
 or more emotional.  But the Wise Men must be seeking wisdom; and for them
 there must be a light also in the intellect.  And this is the light;
 that the Catholic creed is catholic and that nothing else is catholic.
-The [[philosophy]] of the Church is universal.  The [[philosophy]] of the
+The philosophy of the Church is universal.  The philosophy of the
 philosophers was not universal.  Had Plato and Pythagoras and Aristotle
 stood for an instant in the light that came out of that little [[motifs/cave|cave]],
 they would have known that their own light was not universal.
 It is far from certain, indeed, that they did not know it already.
-[[philosophy|Philosophy]] also, like mythology, had very much the air of a search.
+Philosophy also, like mythology, had very much the air of a search.
 It is the realisation of this [[concepts/truth|truth]] that gives its traditional majesty
 and mystery to the figures of the Three Kings; the discovery that religion
-is broader than [[philosophy]] and that this is the broadest of religions,
+is broader than philosophy and that this is the broadest of religions,
 contained within this narrow space....
 
 We might [[motifs/well|well]] be content to say that mythology had come with
-the shepherds and [[philosophy]] with the philosophers; and that it
+the shepherds and philosophy with the philosophers; and that it
 only remained for them to combine in the recognisation of religion.
 But there was a third element that must not be ignored and one which that
 religion for ever refuses to ignore, in any revel or [[concepts/reconciliation|reconciliation]].
@@ -449,7 +449,7 @@ had rotted the legends with lust and frozen the theories into atheism,
 but which answered the direct challenge with something of that more
 direct method which we have seen in the conscious cult of the demons.
 In the description of that demon-worship, of the devouring detestation
-of [[innocence]] shown in the works of its witchcraft and the most inhuman
+of innocence shown in the works of its witchcraft and the most inhuman
 of its human sacrifice, I have said less of its indirect and secret
 penetration of the saner paganism; the soaking of mythological
 [[concepts/imagination|imagination]] with sex; the rise of imperial [[concepts/pride|pride]] into insanity.
@@ -509,10 +509,10 @@ stati Confucio o Pitagora o Platone. Erano coloro che cercavano
 non racconti ma la [[concepts/truth|verità]] delle cose; e poiché la loro sete di [[concepts/truth|verità]]
 era essa stessa una sete di Dio, anch'essi hanno avuto la loro ricompensa.
 Ma persino per comprendere quella ricompensa, dobbiamo comprendere che
-per la [[philosophy|filosofia]] non meno che per la mitologia quella ricompensa fu il compimento
+per la filosofia non meno che per la mitologia quella ricompensa fu il compimento
 dell'incompleto....
 
-I Magi, che stanno per il misticismo e la [[philosophy|filosofia]], sono veramente concepiti
+I Magi, che stanno per il misticismo e la filosofia, sono veramente concepiti
 come cercatori di qualcosa di nuovo e persino come scopritori di qualcosa d'inatteso.
 Quel senso di crisi che ancora freme nel racconto natalizio e
 persino in ogni celebrazione del Natale accentua l'idea di una ricerca
@@ -522,19 +522,19 @@ possono esservi aspetti insieme più semplici e più [[motifs/supernatural|sopra
 o più emotivi. Ma i Magi devono cercare la sapienza; e per loro
 dev'esservi una luce anche nell'intelletto. Ed ecco la luce:
 che il credo cattolico è cattolico e che nient'altro è cattolico.
-La [[philosophy|filosofia]] della Chiesa è universale. La [[philosophy|filosofia]] dei filosofi
+La filosofia della Chiesa è universale. La filosofia dei filosofi
 non era universale. Se Platone e Pitagora e Aristotele
 fossero stati per un istante nella luce che veniva da quella piccola [[motifs/cave|grotta]],
 avrebbero saputo che la loro propria luce non era universale.
 È ben lungi dall'essere certo, invero, che non lo sapessero già.
-Anche la [[philosophy|filosofia]], come la mitologia, aveva del tutto l'aria di una ricerca.
+Anche la filosofia, come la mitologia, aveva del tutto l'aria di una ricerca.
 È la presa di coscienza di questa [[concepts/truth|verità]] che conferisce la sua tradizionale maestà
 e il suo mistero alle figure dei Tre Re; la scoperta che la religione
-è più ampia della [[philosophy|filosofia]] e che questa è la più ampia delle religioni,
+è più ampia della filosofia e che questa è la più ampia delle religioni,
 contenuta entro questo angusto spazio....
 
 Potremmo [[motifs/well|ben]] accontentarci di dire che la mitologia era venuta con
-i pastori e la [[philosophy|filosofia]] con i filosofi; e che
+i pastori e la filosofia con i filosofi; e che
 non restava loro che combinarsi nel riconoscimento della religione.
 Ma vi era un terzo elemento che non va ignorato e uno che quella
 religione per sempre rifiuta di ignorare, in ogni tripudio o [[concepts/reconciliation|riconciliazione]].
@@ -543,7 +543,7 @@ aveva imputridito le leggende con la libidine e gelato le teorie nell'ateismo,
 ma che rispondeva alla sfida diretta con qualcosa di quel metodo più
 diretto che abbiamo visto nel culto consapevole dei dèmoni.
 Nella descrizione di quel culto demoniaco, della divorante detestazione
-dell'[[innocence|innocenza]] mostrata nelle opere della sua stregoneria e nel più disumano
+dell'innocenza mostrata nelle opere della sua stregoneria e nel più disumano
 dei suoi sacrifici umani, ho detto meno della sua indiretta e segreta
 penetrazione nel paganesimo più sano; dell'imbibizione di sesso dell'[[concepts/imagination|immaginazione]]
 mitologica; dell'ascesa dell'[[concepts/pride|orgoglio]] imperiale fino alla follia.

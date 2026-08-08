@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/sea|Sea]], [[motifs/journey|Journey]], [[motifs/mutability|Mutability]]
 **Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/nostalgia|Nostalgia]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]

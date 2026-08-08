@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Una Ballata Di Un [[anti-puritan|Anti-puritano]]  
+Una Ballata Di Un Anti-puritano  
 
 Parlavano di Progresso che si slancia in spire,  
 di luce e di Mrs Humphrey Ward--  
@@ -41,13 +41,13 @@ So dove si trovano ancora gli Uomini,
 l'ira e l'accordo clamoroso,  
 e virtù che crescono dal suolo,  
 e sodalizio di birra e desco,  
-e il [[Song|canto]], che è una corda robusta,  
+e il canto, che è una corda robusta,  
 e la [[concepts/hope|speranza]], che è un arbusto tenace,  
 e la bontà, che è l'ultima parola di Dio--  
 qualcuno mi porti in un pub?  
 
 Congedo  
-Principe, Bayard avrebbe spezzato la [[Sword|spada]]  
+Principe, Bayard avrebbe spezzato la spada  
 a veder che sorta di cavalieri fai--  
 son questi gli ultimi--o Signore  
 qualcuno mi porti in un pub?
@@ -57,7 +57,7 @@ qualcuno mi porti in un pub?
 <span class="atom-split" data-atom="part--part_01" data-title="anti-puritan (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/rose,concept/hope"></span>
 
 
-A Ballade Of An [[anti-puritan|Anti-puritan]]  
+A Ballade Of An Anti-puritan  
 
 They spoke of Progress spiring round,  
 Of light and Mrs Humphrey Ward--  
@@ -81,13 +81,13 @@ I know where Men can still be found,
 Anger and clamorous accord,  
 And virtues growing from the ground,  
 And fellowship of beer and board,  
-And [[Song|song]], that is a sturdy cord,  
+And song, that is a sturdy cord,  
 And [[concepts/hope|hope]], that is a hardy shrub,  
 And goodness, that is God's last word--  
 Will someone take me to a pub?  
 
 Envoi  
-Prince, Bayard would have smashed his [[Sword|sword]]  
+Prince, Bayard would have smashed his sword  
 To see the sort of knights you dub--  
 Is that the last of them--O Lord  
 Will someone take me to a pub?
@@ -95,7 +95,7 @@ Will someone take me to a pub?
 
 <span class="qlang-split" data-lang="it"></span>
 
-Una Ballata Di Un [[anti-puritan|Anti-puritano]]  
+Una Ballata Di Un Anti-puritano  
 
 Parlavano di Progresso che si slancia in spire,  
 di luce e di Mrs Humphrey Ward--  
@@ -119,13 +119,13 @@ So dove si trovano ancora gli Uomini,
 l'ira e l'accordo clamoroso,  
 e virtù che crescono dal suolo,  
 e sodalizio di birra e desco,  
-e il [[Song|canto]], che è una corda robusta,  
+e il canto, che è una corda robusta,  
 e la [[concepts/hope|speranza]], che è un arbusto tenace,  
 e la bontà, che è l'ultima parola di Dio--  
 qualcuno mi porti in un pub?  
 
 Congedo  
-Principe, Bayard avrebbe spezzato la [[Sword|spada]]  
+Principe, Bayard avrebbe spezzato la spada  
 a veder che sorta di cavalieri fai--  
 son questi gli ultimi--o Signore  
 qualcuno mi porti in un pub?

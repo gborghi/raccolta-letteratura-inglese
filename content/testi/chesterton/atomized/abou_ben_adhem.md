@@ -29,7 +29,7 @@ mite di dottrina, prese con leggerezza la parola
 che non lo iscriveva fra coloro che [[motifs/love|amano]] il Signore,  
 e disse all'angelo del libro e della penna  
 «Iscrivimi come uno che ama i suoi simili:  
-per essi [[Alone|soli]] io m'affatico; per ricondurre  
+per essi soli io m'affatico; per ricondurre  
 il cencioso Beduino vagabondo, e per domarlo  
 a un ordinato servizio; per sradicare la vite di coloro  
 che scherniscono il [[archetypes/prophet|Profeta]], folli di vino,  
@@ -42,7 +42,7 @@ al vostro vago Allah nei cieli lassù».
 
 Dolcemente rispose l'angelo della penna:  
 «Affaticati in pace e [[motifs/love|ama]] i tuoi simili:  
-e non [[motifs/love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+e non [[motifs/love|amare]] Dio, poiché soltanto gli uomini sono cari,  
 soltanto [[concepts/fear|temi]] Dio; ché hai Ragione di [[concepts/fear|temere]].»
 
 
@@ -62,7 +62,7 @@ Mellow with learning lightly took the word
 That marked him not with them that [[motifs/love|love]] the Lord,  
 And told the angel of the book and pen  
 "Write me as one that loves his fellow-men:  
-For them [[Alone|alone]] I labour; to reclaim  
+For them alone I labour; to reclaim  
 The ragged roaming Bedouin and to tame  
 To ordered service; to uproot their vine  
 Who mock the [[archetypes/prophet|Prophet]], being mad with wine,  
@@ -75,7 +75,7 @@ To your vague Allah in the skies above."
 
 Gently replied the angel of the pen:  
 "Labour in peace and [[motifs/love|love]] your fellow-men:  
-And [[motifs/love|love]] not God, since men [[Alone|alone]] are dear,  
+And [[motifs/love|love]] not God, since men alone are dear,  
 Only [[concepts/fear|fear]] God; for you have Cause to [[concepts/fear|fear]]."
 
 
@@ -93,7 +93,7 @@ mite di dottrina, prese con leggerezza la parola
 che non lo iscriveva fra coloro che [[motifs/love|amano]] il Signore,  
 e disse all'angelo del libro e della penna  
 «Iscrivimi come uno che ama i suoi simili:  
-per essi [[Alone|soli]] io m'affatico; per ricondurre  
+per essi soli io m'affatico; per ricondurre  
 il cencioso Beduino vagabondo, e per domarlo  
 a un ordinato servizio; per sradicare la vite di coloro  
 che scherniscono il [[archetypes/prophet|Profeta]], folli di vino,  
@@ -106,5 +106,5 @@ al vostro vago Allah nei cieli lassù».
 
 Dolcemente rispose l'angelo della penna:  
 «Affaticati in pace e [[motifs/love|ama]] i tuoi simili:  
-e non [[motifs/love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+e non [[motifs/love|amare]] Dio, poiché soltanto gli uomini sono cari,  
 soltanto [[concepts/fear|temi]] Dio; ché hai Ragione di [[concepts/fear|temere]].»

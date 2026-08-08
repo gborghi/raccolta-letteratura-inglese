@@ -35,7 +35,7 @@ tags:
 **Forms & Genres:** [[forms/ottava-rima|Ottava Rima]], [[forms/narrative-poem|Narrative Poem]]
 **Historical References:** [[historical-references/renaissance|Renaissance]]
 **Settings:** [[settings/italy|Italy]], [[settings/europe|Europe]]
-**Characters:** Isabella, Lorenzo
+**Characters:** [[characters/isabella|Isabella]], [[characters/lorenzo|Lorenzo]]
 
 ## Testo integrale / Full text
 

@@ -28,12 +28,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/paradise-lost|Paradise Lost]]
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/serpent-snake|Serpent Snake]]
 **Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/alienation|Alienation]], [[concepts/melancholy|Melancholy]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/imagination|Imagination]]
 **Forms & Genres:** [[forms/elegy|Elegy]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** Satan
+**Characters:** [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

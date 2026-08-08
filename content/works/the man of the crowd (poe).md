@@ -48,7 +48,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]]
-**Archetypes:** Outsider, Shadow
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/shadow|Shadow]]
 **Motifs:** [[motifs/city|City]], [[motifs/night|Night]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/autumn|Autumn]], [[motifs/book-reading|Book Reading]]
 **Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/guilt|Guilt]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]]
 **Forms & Genres:** [[forms/short-story|Short Story]]

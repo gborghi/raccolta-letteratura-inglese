@@ -45,12 +45,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Trickster
+**Archetypes:** [[archetypes/trickster|Trickster]]
 **Motifs:** [[concepts/nature|Nature]], [[motifs/mirror|Mirror]], [[motifs/book-reading|Book Reading]], [[motifs/fog-and-smoke|Fog and Smoke]]
 **Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]], [[concepts/paradox|Paradox]], [[concepts/truth|Truth]], [[concepts/deception|Deception]], [[concepts/artist-and-society|Artist and Society]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/beauty-and-truth|Beauty and Truth]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/epigram|Epigram]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/renaissance|Renaissance]]
-**Characters:** Odysseus Ulysses, Hamlet
+**Characters:** [[characters/odysseus-ulysses|Odysseus Ulysses]], [[characters/hamlet|Hamlet]]
 
 ## Testo integrale / Full text
 

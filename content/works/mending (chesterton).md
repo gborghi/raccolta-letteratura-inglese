@@ -40,7 +40,7 @@ tags:
 
 **Motifs:** [[motifs/inn-tavern|Inn Tavern]]
 
-**Characters:** Plato, [[historical-references/bernard-shaw|Bernard Shaw]], Major Barbara
+**Characters:** [[characters/plato|Plato]], [[historical-references/bernard-shaw|Bernard Shaw]], [[characters/major-barbara|Major Barbara]]
 
 **Topoi:** [[topoi/great-chain-of-being|Great Chain of Being]]
 **Themes & Concepts:** [[concepts/reform|Reform]], [[concepts/paradox|Paradox]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/charity|Charity]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]]

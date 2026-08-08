@@ -53,7 +53,7 @@ Raccolta tematica di 31 componimenti di Walt Whitman.
 - [[works/my-legacy-(whitman)|My Legacy]]
 - [[works/not-meagre,-latent-boughs-alone-(whitman)|Not Meagre, Latent Boughs Alone]]
 - [[works/now-precedent-songs,-farewell-(whitman)|Now Precedent Songs, Farewell]]
-- Perfections
+- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#120_perfections|Perfections]]
 - [[works/poets-to-come-(whitman)|Poets to Come]]
 - [[works/roaming-in-thought-after-reading-hegel-(whitman)|Roaming in Thought (After reading Hegel)]]
 - [[works/roots-and-leaves-themselves-alone-(whitman)|Roots and Leaves Themselves Alone]]
@@ -66,7 +66,7 @@ Raccolta tematica di 31 componimenti di Walt Whitman.
 - [[works/to-think-of-time-(whitman)|To Think of Time]]
 - [[works/trickle-drops-(whitman)|Trickle Drops]]
 - [[works/unnamed-land-(whitman)|Unnamed Land]]
-- Visor’d
+- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#133_visor_d|Visor’d]]
 - [[works/weave-in,-my-hardy-life-(whitman)|Weave in, My Hardy Life]]
 
 ## Testo / Text

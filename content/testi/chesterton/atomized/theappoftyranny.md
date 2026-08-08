@@ -53,17 +53,17 @@ Unless we are all mad, there is at the back of the most bewildering
 
 business a story: and if we are all mad, there is no such thing as [[concepts/madness|madness]].
 
-If I set a [[house]] on [[motifs/fire|fire]], it is quite true that I may illuminate many other
+If I set a house on [[motifs/fire|fire]], it is quite true that I may illuminate many other
 
 people's weaknesses as [[motifs/well|well]] as my own. It may be that the master of the
 
-[[house]] was burned because he was drunk; it may be that the mistress of the
+house was burned because he was drunk; it may be that the mistress of the
 
-[[house]] was burned because she was stingy, and perished arguing about the
+house was burned because she was stingy, and perished arguing about the
 
 expense of the [[motifs/fire|fire]]-escape. It is, nevertheless, broadly true that they
 
-both were burned because I set [[motifs/fire|fire]] to their [[house]]. That is the story of
+both were burned because I set [[motifs/fire|fire]] to their house. That is the story of
 
 the thing. The mere facts of the story about the present European
 
@@ -115,7 +115,7 @@ have been written by me.
 
 Upon the immediate logical and legal origin of the English interest there
 
-can be no rational [[debate]]. There are some things so simple that one can
+can be no rational debate. There are some things so simple that one can
 
 almost prove them with plans and diagrams, as in Euclid. One could make a
 
@@ -163,7 +163,7 @@ easy to state the first facts--the facts which involved Europe. The Prince
 
 who practically ruled Austria was shot by certain persons whom the Austrian
 
-[[government|Government]] believed to be conspirators from Servia. The Austrian [[government|Government]]
+Government believed to be conspirators from Servia. The Austrian Government
 
 piled up arms and armies, but said not a word either to Servia their
 
@@ -217,7 +217,7 @@ professional rhetoricians of Prussia, who are sent out to instruct and
 
 correct the minds of Americans or Scandinavians. It consists of going into
 
-convulsions of [[Incredulity|incredulity]] and scorn at the mention of [[settings/russia|Russia]]'s
+convulsions of incredulity and scorn at the mention of [[settings/russia|Russia]]'s
 
 responsibility for Servia or England's responsibility for Belgium; and
 
@@ -285,7 +285,7 @@ Lastly, there is an attitude not unknown in the crisis against which I
 
 should particularly like to protest. I should address my protest especially
 
-to those [[lovers]] and pursuers of Peace who, very short-sightedly, have
+to those lovers and pursuers of Peace who, very short-sightedly, have
 
 occasionally adopted it. I mean the attitude which is impatient of these
 
@@ -309,7 +309,7 @@ supremely wrong upon their own principles of arbitration and international
 
 peace.
 
-These sincere and high-minded peace-[[lovers]] are always telling us that
+These sincere and high-minded peace-lovers are always telling us that
 
 citizens no longer settle their quarrels by private violence; and that
 
@@ -390,17 +390,17 @@ A meno che non siamo tutti pazzi, dietro l'affare più sconcertante
 
 vi è sempre una storia: e se siamo tutti pazzi, allora non esiste affatto cosa alcuna come la [[concepts/madness|pazzia]].
 
-Se a una [[house|casa]] appicco il [[motifs/fire|fuoco]], è ben vero che posso illuminare molte altrui
+Se a una casa appicco il [[motifs/fire|fuoco]], è ben vero che posso illuminare molte altrui
 
 debolezze [[motifs/well|così]] come le mie proprie. Può darsi che il padrone della
 
-[[house|casa]] sia bruciato perché era ubriaco; può darsi che la padrona della
+casa sia bruciato perché era ubriaco; può darsi che la padrona della
 
-[[house|casa]] sia bruciata perché era spilorcia, e sia perita disputando circa la
+casa sia bruciata perché era spilorcia, e sia perita disputando circa la
 
 spesa della scala anti[[motifs/fire|incendio]]. È, nondimeno, in gran parte vero che
 
-entrambi bruciarono perché io diedi [[motifs/fire|fuoco]] alla loro [[house|casa]]. Questa è la storia
+entrambi bruciarono perché io diedi [[motifs/fire|fuoco]] alla loro casa. Questa è la storia
 
 della cosa. I meri fatti della storia intorno all'attuale
 
@@ -452,7 +452,7 @@ potuto scriverlo io.
 
 Sull'immediata origine logica e legale dell'interesse inglese non vi
 
-può essere alcun [[debate|dibattito]] razionale. Vi sono cose tanto semplici che si
+può essere alcun dibattito razionale. Vi sono cose tanto semplici che si
 
 possono quasi dimostrare con piante e diagrammi, come in Euclide. Si potrebbe fare una
 
@@ -500,7 +500,7 @@ facile enunciare i primi fatti — i fatti che coinvolsero l'Europa. Il Principe
 
 che praticamente governava l'Austria fu ucciso a colpi d'arma da fuoco da certe persone che il
 
-[[government|Governo]] austriaco riteneva cospiratori venuti dalla Servia. Il [[government|Governo]] austriaco
+Governo austriaco riteneva cospiratori venuti dalla Servia. Il Governo austriaco
 
 ammassò armi ed eserciti, ma non disse parola né alla Servia sua
 
@@ -554,7 +554,7 @@ retori professionali di Prussia, che vengono inviati a istruire e
 
 correggere le menti degli Americani o degli Scandinavi. Consiste nell'andare in
 
-convulsioni d'[[Incredulity|incredulità]] e di scherno al solo accennare alla
+convulsioni d'incredulità e di scherno al solo accennare alla
 
 responsabilità della [[settings/russia|Russia]] verso la Servia o dell'Inghilterra verso il Belgio; e
 
@@ -622,7 +622,7 @@ Infine, v'è un atteggiamento non ignoto nella crisi contro il quale
 
 vorrei particolarmente protestare. Rivolgerei la mia protesta specialmente
 
-a quegli [[lovers|amanti]] e inseguitori della Pace che, assai miopemente, l'hanno
+a quegli amanti e inseguitori della Pace che, assai miopemente, l'hanno
 
 talvolta adottato. Intendo l'atteggiamento che è insofferente di questi
 
@@ -646,7 +646,7 @@ supremamente torto secondo i loro stessi princìpi d'arbitrato e di pace
 
 internazionale.
 
-Questi sinceri e nobili [[lovers|amanti]] della pace ci vanno sempre dicendo che
+Questi sinceri e nobili amanti della pace ci vanno sempre dicendo che
 
 i cittadini non compongono più le loro contese con la violenza privata; e che le
 
@@ -717,7 +717,7 @@ It will hardly be denied that there is one lingering [[concepts/doubt|doubt]] in
 
 recognise unavoidable [[concepts/self|self]]-defence in the instant parry of the English
 
-[[Sword|sword]], and who have no great [[motifs/love|love]] for the sweeping sabre of Sadowa and
+sword, and who have no great [[motifs/love|love]] for the sweeping sabre of Sadowa and
 
 Sedan. That [[concepts/doubt|doubt]] is the [[concepts/doubt|doubt]] whether [[settings/russia|Russia]], as compared with Prussia, is
 
@@ -886,7 +886,7 @@ Difficilmente si negherà che v'è un persistente [[concepts/doubt|dubbio]] in m
 
 riconoscono un'inevitabile [[concepts/self|auto]]difesa nell'istantanea parata della
 
-[[Sword|spada]] inglese, e che non nutrono grande [[motifs/love|amore]] per la sciabola travolgente di Sadowa e
+spada inglese, e che non nutrono grande [[motifs/love|amore]] per la sciabola travolgente di Sadowa e
 
 di Sedan. Quel [[concepts/doubt|dubbio]] è il [[concepts/doubt|dubbio]] se la [[settings/russia|Russia]], paragonata alla Prussia, sia
 
@@ -1123,7 +1123,7 @@ when it summed up the dark irresponsible enormity of Leviathan in the words
 
 it may be said with seriousness, that in the beginning was the Word. The
 
-vow is to the man what the [[Song|song]] is to the bird, or the bark to the dog; his
+vow is to the man what the song is to the bird, or the bark to the dog; his
 
 voice, whereby he is known. Just as a man who cannot keep an appointment is
 
@@ -1199,7 +1199,7 @@ civilisations, even much lower civilisations, even remote and repulsive
 
 civilisations, depend as much as our own on this primary principle on which
 
-the super-[[morality]] of Potsdam declares open War. Even savages promise
+the super-morality of Potsdam declares open War. Even savages promise
 
 things; and respect those who keep their promises. Even Orientals write
 
@@ -1217,9 +1217,9 @@ There is doubtless a dense labyrinth of duplicity in the East, and perhaps
 
 more guile in the individual Asiatic than in the individual German. But we
 
-are not talking of the violations of human [[morality]] in various parts of the
+are not talking of the violations of human morality in various parts of the
 
-world. We are talking about a new and inhuman [[morality]], which denies
+world. We are talking about a new and inhuman morality, which denies
 
 altogether the day of obligation. The Prussians have been told by their
 
@@ -1263,7 +1263,7 @@ fight for the trust and for the tryst; for fixed memories and the possible
 
 meeting of men; for all that makes life anything but an uncontrollable
 
-[[nightmare]]. We fight for the long arm of [[concepts/honour|honour]] and remembrance; for all
+nightmare. We fight for the long arm of [[concepts/honour|honour]] and remembrance; for all
 
 that can lift a man above the quicksands of his moods, and give him the
 
@@ -1346,7 +1346,7 @@ La [[concepts/nature|Natura]]: ed è il primo segno dell'uomo. Riferendosi solo 
 
 All'inizio era la Parola.
 
-il voto è per l'uomo ciò che la [[Song|canzone]] è per l'uccello o il guaito per il cane; il suo
+il voto è per l'uomo ciò che la canzone è per l'uccello o il guaito per il cane; il suo
 
 La voce che lo rivela. Proprio come un uomo che non riesce a mantenere un appuntamento è...
 
@@ -1422,7 +1422,7 @@ Civiltà, anche quelle inferiori e lontane, repellenti
 
 Le civiltà dipendono tanto quanto la nostra da questo principio primario su cui...
 
-la super-[[morality|moralità]] di Potsdam dichiara guerra aperta. Anche i selvaggi promettono
+la super-moralità di Potsdam dichiara guerra aperta. Anche i selvaggi promettono
 
 cose; e rispetta coloro che mantengono le promesse. Anche gli orientali scrivono
 
@@ -1440,9 +1440,9 @@ C'è senza dubbio un fitto labirinto di doppiogiochismo in Oriente, e forse
 
 Più astuzia nell'individuo asiatico che in quello tedesco. Ma noi
 
-Non stiamo parlando delle violazioni della [[morality|moralità]] umana in varie parti del
+Non stiamo parlando delle violazioni della moralità umana in varie parti del
 
-mondo. Stiamo parlando di una nuova e disumana [[morality|moralità]] che nega
+mondo. Stiamo parlando di una nuova e disumana moralità che nega
 
 Il giorno dell'obbligo: i prussiani sono stati informati dai loro...
 
@@ -1486,7 +1486,7 @@ Lotta per la fiducia e l'appuntamento, per i ricordi fissi e il possibile
 
 Incontro tra uomini; per tutto ciò che rende la vita qualcosa di più che incontrollabile
 
-[[nightmare|incubo]]. Combattiamo per il lungo braccio dell'[[concepts/honour|onore]] e del ricordo; per tutti
+incubo. Combattiamo per il lungo braccio dell'[[concepts/honour|onore]] e del ricordo; per tutti
 
 Che può sollevare un uomo dalle sabbie mobili dei suoi umori e dargli la
 
@@ -1511,7 +1511,7 @@ vow or the contract, which Prussian intellectualism would destroy. I urged
 
 that the Prussian is a spiritual Barbarian, because he is not bound by his
 
-own past, any more than a man in [[A Dream|a dream]]. He avows that when he promised to
+own past, any more than a man in a dream. He avows that when he promised to
 
 respect a frontier on Monday, he did not foresee what he calls "the
 
@@ -1676,7 +1676,7 @@ voto o del contratto, che l'intellettualismo prussiano distruggerebbe. Ho sosten
 
 che il Prussiano è un Barbaro spirituale, perché non è vincolato dal proprio
 
-passato, non più di un uomo in [[A Dream|un sogno]]. Egli confessa che quando promise di
+passato, non più di un uomo in un sogno. Egli confessa che quando promise di
 
 rispettare una frontiera il lunedì, non prevedeva quella che chiama «la
 
@@ -1839,7 +1839,7 @@ we hear numberless stories, some of them certainly true. It might be called
 
 the one-sided duel. I mean the idea that there is some sort of dignity in
 
-drawing the [[Sword|sword]] upon a man who has not got a [[Sword|sword]]; a waiter, or a shop
+drawing the sword upon a man who has not got a sword; a waiter, or a shop
 
 assistant, or even a schoolboy. One of the officers of the Kaiser in the
 
@@ -1945,7 +1945,7 @@ naturally to the mind of a more common or Christian wife-beater. But then a
 
 poker is a part of domesticity; and might be used by the wife as [[motifs/well|well]] as
 
-the husband. In fact, it often is. The [[Sword|sword]] and the whip are the weapons
+the husband. In fact, it often is. The sword and the whip are the weapons
 
 of a privileged caste.
 
@@ -1969,7 +1969,7 @@ destroy, in a way that Eastern people do, but Western people do not. Nor do
 
 I [[concepts/doubt|doubt]] the German Emperor's sincerity when he sought to point out to us
 
-how abnormal and abominable such a [[nightmare]] campaign would be, supposing
+how abnormal and abominable such a nightmare campaign would be, supposing
 
 that it could ever come. But now comes the comic irony; which never fails
 
@@ -2002,7 +2002,7 @@ Sentiamo innumerevoli storie, alcune sicuramente vere. Potrebbe essere chiamato.
 
 Il duello monolaterale
 
-estrarre la [[Sword|spada]] contro un uomo che non ha una [[Sword|spada]], come un cameriere o un negoziante.
+estrarre la spada contro un uomo che non ha una spada, come un cameriere o un negoziante.
 
 Un assistente o anche uno scolaro. Uno degli ufficiali del Kaiser nella...
 
@@ -2108,7 +2108,7 @@ Naturalmente alla mente di un marito violento più comune o cristiano. Ma poi...
 
 il poker è parte della vita domestica e potrebbe essere praticato dalla moglie tanto quanto
 
-il marito. Infatti spesso lo è. La [[Sword|spada]] e la frusta sono le armi
+il marito. Infatti spesso lo è. La spada e la frusta sono le armi
 
 di una casta privilegiata.
 
@@ -2132,7 +2132,7 @@ Distruggere come fanno gli orientali, non i occidentali
 
 Io [[concepts/doubt|dubito]] della sincerità dell'Imperatore tedesco quando cercò di farci notare
 
-quanto sarebbe anormale e abominevole una campagna del genere da [[nightmare|incubo]], ipotizzando
+quanto sarebbe anormale e abominevole una campagna del genere da incubo, ipotizzando
 
 Ma ora arriva l'ironia comica, che non fallisce mai
 
@@ -2157,7 +2157,7 @@ Il pensiero personale rivelerà subito il principio non reciproco
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="TheAppOfTyranny — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/love,motif/memory,motif/mirror,concept/beauty,concept/history,form/history,setting/germany"></span>
 
 
-again. Boiled down to its bones of [[logic]], it means simply this: "I am a
+again. Boiled down to its bones of logic, it means simply this: "I am a
 
 German and you are a Chinaman. Therefore I, being a German, have a right
 
@@ -2235,7 +2235,7 @@ in serious official documents, that the difference between him and us is a
 
 difference between "the master-race and the inferior-race." The collapse of
 
-German [[philosophy]] always occurs at the beginning rather than the end of an
+German philosophy always occurs at the beginning rather than the end of an
 
 argument; and the difficulty here is that there is no way of testing which
 
@@ -2245,7 +2245,7 @@ find out (as is usually the case) you fall back on the absurd occupation of
 
 writing [[concepts/history|history]] about pre-historic times. But I suggest quite seriously
 
-that if the Germans can give their [[philosophy]] to the Hottentots, there is
+that if the Germans can give their philosophy to the Hottentots, there is
 
 no reason why they should not give their sense of superiority to the
 
@@ -2288,7 +2288,7 @@ friend or foe.
 
 <span class="qlang-split" data-lang="it"></span>
 
-di nuovo. Ridotta alle sue ossa di [[logic|logica]], significa semplicemente questo: “Io sono un
+di nuovo. Ridotta alle sue ossa di logica, significa semplicemente questo: “Io sono un
 
 Il tedesco e tu sei un cinese. Pertanto io, essendo tedesco, ho il diritto
 
@@ -2366,7 +2366,7 @@ Nei documenti ufficiali seri, la differenza tra lui e noi è una
 
 La differenza tra la "razza superiore" e la "razza inferiore". Il crollo di...
 
-La [[philosophy|filosofia]] tedesca si manifesta sempre all'inizio piuttosto che alla fine di un
+La filosofia tedesca si manifesta sempre all'inizio piuttosto che alla fine di un
 
 Argomento: e qui il problema è che non c'è modo di testare quale sia
 
@@ -2376,7 +2376,7 @@ Scopri (come di solito accade) che ti ritrovi nell'assurda occupazione di
 
 scrivere la [[concepts/history|storia]] dei tempi preistorici. Ma suggerisco con tutta serietà
 
-che se i tedeschi possono dare la loro [[philosophy|filosofia]] agli ottentotti, c'è
+che se i tedeschi possono dare la loro filosofia agli ottentotti, c'è
 
 Nessun motivo per cui non dovrebbero dare la loro sensazione di superiorità
 
@@ -2503,7 +2503,7 @@ barbaric dominion it was truer to say, "Scratch a Tartar and you find a
 
 Russian." It was the civilisation that survived under all the barbarism.
 
-This vital [[Romance|romance]] of [[settings/russia|Russia]], this revolution against Asia, can be proved
+This vital romance of [[settings/russia|Russia]], this revolution against Asia, can be proved
 
 in pure fact: not only from the almost superhuman activity of [[settings/russia|Russia]] during
 
@@ -2670,7 +2670,7 @@ Dominio barbarico: era più vero dire "Scava un Tataro e trovi un...
 
 "Russo". Era la civiltà che sopravvisse sotto tutto il barbarismo.
 
-Questo vitale [[Romance|romanzo]] di [[settings/russia|Rusia]], questa rivoluzione contro l'Asia, può essere provata
+Questo vitale romanzo di [[settings/russia|Rusia]], questa rivoluzione contro l'Asia, può essere provata
 
 in pura verità: non solo dall'attività quasi sovrumana della [[settings/russia|Russia]] durante
 
@@ -2791,7 +2791,7 @@ hand to the freeing of a single [[motifs/city|city]] or the independence of one 
 
 unconsciously consistent, instinctively restrictive, innocently evil;
 
-"following darkness like [[A Dream|a dream]]."
+"following darkness like a dream."
 
 Suppose we heard of a person (gifted with some longevity) who had helped
 
@@ -2853,9 +2853,9 @@ therefore of the tenderness of true belief. The worst that can be said of
 
 the Moslems is, as the poet put it, they offered to man the choice of the
 
-Koran or the [[Sword|sword]]. The best that can be said for the German is that he
+Koran or the sword. The best that can be said for the German is that he
 
-does not care about the Koran, but is satisfied if he can have the [[Sword|sword]].
+does not care about the Koran, but is satisfied if he can have the sword.
 
 And for me, I confess, even the sins of these three other striving empires
 
@@ -3010,7 +3010,7 @@ mano alla liberazione di una sola [[motifs/city|città]] o all'indipendenza di u
 
 Inconsapevolmente coerente, istintivamente restrittivo, innocente malvagio;
 
-«seguendo l'oscurità come [[A Dream|un sogno]].»
+«seguendo l'oscurità come un sogno.»
 
 Supponiamo di sentire parlare di una persona (dotata di una certa longevità) che avesse aiutato
 
@@ -3072,9 +3072,9 @@ Quindi della tenerezza della vera fede. Il peggio che si possa dire di
 
 I musulmani offrirono all'uomo la scelta di...
 
-Corano o la [[Sword|spada]]. La cosa migliore che si possa dire del tedesco è che
+Corano o la spada. La cosa migliore che si possa dire del tedesco è che
 
-non gli importa nulla del Corano, ma è soddisfatto se può avere la [[Sword|spada]].
+non gli importa nulla del Corano, ma è soddisfatto se può avere la spada.
 
 E per quanto mi riguarda, confesso, anche i peccati di questi tre altri imperi in lotta
 
@@ -3297,7 +3297,7 @@ principle of Professor Harnack which interests me most; and in following it
 
 I have the same complexity of enquiry, but the same simplicity of result.
 
-Comparing [[The Professor|the Professor]]'s concern about "Teutonism" with his unconcern
+Comparing the Professor's concern about "Teutonism" with his unconcern
 
 about Belgium, I can only reach the following result: "A man need not keep
 
@@ -3317,7 +3317,7 @@ there is no obligation: sometimes it appears that [[settings/germany|Germany]] a
 
 keep [[concepts/faith|faith]] with each other; sometimes that [[settings/germany|Germany]] need not keep [[concepts/faith|faith]] with
 
-anybody and anything; sometimes that we [[Alone|alone]] among European peoples are
+anybody and anything; sometimes that we alone among European peoples are
 
 almost entitled to be Germans; sometimes that beside us Russians and
 
@@ -3466,7 +3466,7 @@ Il principio del professor Harnack che mi interessa di più; e seguendolo
 
 Ho la stessa complessità di indagine, ma la stessa semplicità del risultato.
 
-Confrontando la preoccupazione del [[The Professor|professore]] riguardo al «teutonismo» con la sua indifferenza
+Confrontando la preoccupazione del professore riguardo al «teutonismo» con la sua indifferenza
 
 Sulla Belgio, posso solo arrivare al seguente risultato: «Un uomo non deve mantenere
 
@@ -3486,7 +3486,7 @@ non c'è alcun obbligo: a volte sembra che la [[settings/germany|Germania]] e l'
 
 manteniamo la [[concepts/faith|fede]] gli uni con gli altri; a volte non è necessario che quella [[settings/germany|Germania]] mantenga la [[concepts/faith|fede]] con
 
-chiunque e qualsiasi cosa; a volte che siamo [[Alone|soli]] tra i popoli europei a
+chiunque e qualsiasi cosa; a volte che siamo soli tra i popoli europei a
 
 Quasi autorizzati ad essere tedeschi; talvolta, accanto a noi russi e
 
@@ -3563,7 +3563,7 @@ would be in England. William II has simply copied the British Navy as
 
 Frederick II copied the French Army: and this Japanese or anti-like
 
-assiduity in [[Imitation|imitation]] is one of the hundred qualities which the Germans
+assiduity in imitation is one of the hundred qualities which the Germans
 
 have and the English markedly have not. There are other German
 
@@ -3571,7 +3571,7 @@ superiorities which are very much superior. The one or two really jolly
 
 things that the Germans have got are precisely the things which the English
 
-haven't got: notably a real habit of popular music and of the ancient [[songs]]
+haven't got: notably a real habit of popular music and of the ancient songs
 
 of the people, not merely spreading from the towns or caught from the
 
@@ -3595,7 +3595,7 @@ embarrassed. But a German's rudeness is rooted in his never being
 
 embarrassed. He eats and makes [[motifs/love|love]] noisily. He never feels a speech or a
 
-[[Song|song]] or a sermon or a large meal to be what the English call "out of place"
+song or a sermon or a large meal to be what the English call "out of place"
 
 in particular circumstances. When Germans are patriotic and religious they
 
@@ -3685,7 +3685,7 @@ rather be called evasion. They tell us they are opening windows of
 
 enlightenment and doors of progress. The [[concepts/truth|truth]] is that they are breaking up
 
-the whole [[house]] of the human intellect, that they may abscond in any
+the whole house of the human intellect, that they may abscond in any
 
 direction. There is an ominous and almost monstrous parallel between the
 
@@ -3734,7 +3734,7 @@ in Inghilterra. Guglielmo II ha semplicemente copiato la Marina britannica come
 
 Federico II copiò l'Esercito francese: e questa assiduità, da giapponesi o da formiche,
 
-nell'[[Imitation|imitazione]] è una delle cento qualità che i Tedeschi
+nell'imitazione è una delle cento qualità che i Tedeschi
 
 hanno e gli Inglesi decisamente non hanno. Vi sono altre superiorità
 
@@ -3742,7 +3742,7 @@ tedesche che sono davvero molto superiori. Le una o due cose davvero piacevoli
 
 che i Tedeschi possiedono sono precisamente le cose che gli Inglesi
 
-non hanno: in particolare una vera consuetudine di musica popolare e degli antichi [[songs|canti]]
+non hanno: in particolare una vera consuetudine di musica popolare e degli antichi canti
 
 del popolo, non semplicemente diffusi dalle città o appresi dai
 
@@ -3766,7 +3766,7 @@ imbarazzato. Ma la scortesia di un Tedesco affonda le radici nel suo non essere 
 
 imbarazzato. Mangia e fa l'[[motifs/love|amore]] rumorosamente. Non sente mai che un discorso o un
 
-[[Song|canto]] o un sermone o un lauto pasto siano ciò che gli Inglesi chiamano "fuori luogo"
+canto o un sermone o un lauto pasto siano ciò che gli Inglesi chiamano "fuori luogo"
 
 in determinate circostanze. Quando i Tedeschi sono patriottici e religiosi
 
@@ -3856,7 +3856,7 @@ piuttosto chiamarsi evasione. Ci dicono che stanno spalancando finestre di
 
 illuminazione e porte di progresso. La [[concepts/truth|verità]] è che stanno smantellando
 
-l'intera [[house|casa]] dell'intelletto umano, per potersene svignare in qualunque
+l'intera casa dell'intelletto umano, per potersene svignare in qualunque
 
 direzione. Vi è un parallelo sinistro e quasi mostruoso tra la
 
@@ -3903,7 +3903,7 @@ colours on your [[motifs/flag|flag]], it reminded me of the colours on your pale
 
 You need not [[concepts/fear|fear]] that I shall try to entangle you or your countrymen in
 
-the matters which it is for Italians [[Alone|alone]] to decide. You know the perils
+the matters which it is for Italians alone to decide. You know the perils
 
 of either course much better than I do. [[settings/italy|Italy]], most assuredly, has no need
 
@@ -3913,7 +3913,7 @@ could risk by coming in. The proclamations and press of [[settings/germany|Germa
 
 plain that the Germans have risen to a height of sensibility hardly to be
 
-distinguished from [[concepts/madness|madness]]. Supposing the [[nightmare]] of a Prussian victory,
+distinguished from [[concepts/madness|madness]]. Supposing the nightmare of a Prussian victory,
 
 they will [[concepts/revenge|revenge]] themselves on things more remote than the Triple
 
@@ -3981,7 +3981,7 @@ think of them. War is a terrible business in any case; and to some
 
 intellectual temperaments this is the most terrible part of it. That war
 
-takes the young; that war sunders the [[lovers]]; that all over Europe brides
+takes the young; that war sunders the lovers; that all over Europe brides
 
 and bridegrooms are parting at the church door: all that is only a
 
@@ -4064,7 +4064,7 @@ colori della tua [[motifs/flag|bandiera]], mi rammentarono i colori della tua ta
 
 Non devi [[concepts/fear|temere]] ch'io tenti d'irretire te o i tuoi connazionali nelle
 
-questioni che spetta ai soli [[Alone|Italiani]] decidere. Tu conosci i pericoli
+questioni che spetta ai soli Italiani decidere. Tu conosci i pericoli
 
 dell'una e dell'altra via assai meglio di me. L'[[settings/italy|Italia]], assai certamente, non ha bisogno
 
@@ -4074,7 +4074,7 @@ avrebbe potuto rischiare entrando in guerra. I proclami e la stampa della [[sett
 
 palese che i Tedeschi sono saliti a un'altezza di sensibilità a stento
 
-distinguibile dalla [[concepts/madness|follia]]. Ammesso l'[[nightmare|incubo]] d'una vittoria prussiana,
+distinguibile dalla [[concepts/madness|follia]]. Ammesso l'incubo d'una vittoria prussiana,
 
 essi si [[concepts/revenge|vendicheranno]] su cose più remote della Triplice
 
@@ -4142,7 +4142,7 @@ penserò a loro. La guerra è cosa terribile in ogni caso; e per certi
 
 temperamenti intellettuali questa ne è la parte più terribile. Che la guerra
 
-prenda i giovani; che la guerra separi gli [[lovers|amanti]]; che per tutta Europa spose
+prenda i giovani; che la guerra separi gli amanti; che per tutta Europa spose
 
 e sposi si separino alla porta della chiesa: tutto ciò è soltanto un
 
@@ -4237,7 +4237,7 @@ expressed more often in the slangs than in the tongues of men. The English
 
 call it a fad. I do not know what the Italians call it; the Prussians call
 
-it [[philosophy]].
+it philosophy.
 
 Here is the sort of instance that made me think of you. What would you feel
 
@@ -4325,7 +4325,7 @@ dead Prussians, in the catacombs of Rome or under the ruins of Troy. If he
 
 can find one blue eye lying about somewhere, he is satisfied. He has no
 
-[[philosophy]]. He has a hobby, which is collecting Germans. It would probably
+philosophy. He has a hobby, which is collecting Germans. It would probably
 
 be vain for you and me to point out that we could prove anything by the
 
@@ -4404,7 +4404,7 @@ Espresso più spesso nei gergi che nelle lingue degli uomini. L'inglese
 
 Chiamatela una moda. Non so come la chiamino gli italiani; i prussiani la chiamano...
 
-la sua [[philosophy|filosofia]].
+la sua filosofia.
 
 Ecco un esempio che mi ha fatto pensare a te. Cosa proveresti?
 
@@ -4492,7 +4492,7 @@ Prussian morti nelle catacombe di Roma o sotto le rovine di Troia. Se lui
 
 Trova un occhio blu da qualche parte e ne è contento. Non ha bisogno di altro.
 
-[[philosophy|filosofia]]. Ha un hobby: collezionare tedeschi. Probabilmente lo farebbe
+filosofia. Ha un hobby: collezionare tedeschi. Probabilmente lo farebbe
 
 Sarebbe vano da parte nostra sottolineare che potremmo provare qualsiasi cosa con la...
 
@@ -4617,7 +4617,7 @@ that, though the mangling of Malines and Rheims was very sad, it was a
 
 comfort to think that yet nobler works of art would [[motifs/spring|spring]] up wherever the
 
-German culture had passed in triumph. From the point of view of [[Humour|humour]], it
+German culture had passed in triumph. From the point of view of humour, it
 
 is really rather sad that they never will. The German Emperor's idea of a
 
@@ -4697,7 +4697,7 @@ whirled us into the mad course of respecting a treaty we had signed. They
 
 can find in us no treason except that we keep our treaties: failing to do
 
-this I call failing in controversy. They have failed in popular [[Persuasion|persuasion]].
+this I call failing in controversy. They have failed in popular persuasion.
 
 They have had a very good opportunity. The British Empire does contain many
 
@@ -4788,7 +4788,7 @@ che, per quanto lo scempio di Malines e di Reims fosse assai triste, era di
 
 conforto pensare che opere d'arte ancor più nobili sarebbero [[motifs/spring|sorte]] ovunque la
 
-cultura tedesca fosse passata in trionfo. Dal punto di vista dell'[[Humour|umorismo]],
+cultura tedesca fosse passata in trionfo. Dal punto di vista dell'umorismo,
 
 è davvero piuttosto triste che ciò non avverrà mai. L'idea che l'Imperatore tedesco ha d'una
 
@@ -4868,7 +4868,7 @@ ci trascinò nel folle corso di rispettare un trattato che avevamo firmato.
 
 Non possono trovare in noi altro tradimento se non che manteniamo i nostri trattati: e non farlo
 
-io lo chiamo fallire nella controversia. Hanno fallito nella pubblica [[Persuasion|persuasione]].
+io lo chiamo fallire nella controversia. Hanno fallito nella pubblica persuasione.
 
 Hanno avuto un'ottima occasione. L'Impero Britannico contiene davvero molti
 
@@ -4893,7 +4893,7 @@ nations are neutral, Prussia can hardly bear them to be patriotic. Even
 
 when they are courting every one else they can praise no one but
 
-themselves. They fail in diplomacy, they fail in [[debate]], they fail even in
+themselves. They fail in diplomacy, they fail in debate, they fail even in
 
 demagogy. They have stupid plots, stupid explanations, and even stupid
 
@@ -4943,7 +4943,7 @@ of people like you being corrupted in controversy. There is no [[concepts/fear|f
 
 the professors who pullulate all over the Baltic Plain will overcome the
 
-Latins in [[logic]]. Some of them even claim to be super-logical; and say they
+Latins in logic. Some of them even claim to be super-logical; and say they
 
 are too big for syllogisms; generally having found even one syllogism too
 
@@ -5009,7 +5009,7 @@ formula fitted the Italians, it seems scarcely calculated to please them.
 
 For the Prussians, then, with the failure of their diplomacy, the failure
 
-of their [[philosophy]], we may also place the failure of their appeals to a
+of their philosophy, we may also place the failure of their appeals to a
 
 foreign people. The Prussian writer may continue his attempts to soothe
 
@@ -5019,7 +5019,7 @@ great Italians must have been something else. But the method seems to me
 
 ill adapted to popular propaganda; and I cannot but say that on this third
 
-point of [[Persuasion|persuasion]], the German attempt is not striking.
+point of persuasion, the German attempt is not striking.
 
 Now all this is important for this reason. If you consider it carefully
 
@@ -5056,7 +5056,7 @@ le nazioni sono neutrali, la Prussia a stento sopporta che siano patriottiche. P
 
 quando corteggiano chiunque altro non sanno lodare nessuno se non
 
-se stessi. Falliscono nella diplomazia, falliscono nel [[debate|dibattito]], falliscono perfino nella
+se stessi. Falliscono nella diplomazia, falliscono nel dibattito, falliscono perfino nella
 
 demagogia. Hanno intrighi stupidi, spiegazioni stupide, e perfino stupide
 
@@ -5106,7 +5106,7 @@ che gente come te sia corrotta nella controversia. Non v'è [[concepts/fear|timo
 
 i professori che pullulano per tutta la Pianura Baltica sopraffacciano i
 
-Latini nella [[logic|logica]]. Alcuni di essi pretendono perfino d'essere super-logici; e dicono d'essere
+Latini nella logica. Alcuni di essi pretendono perfino d'essere super-logici; e dicono d'essere
 
 troppo grandi per i sillogismi; avendo generalmente trovato perfino un solo sillogismo troppo
 
@@ -5172,7 +5172,7 @@ formula s'attagliasse agl'Italiani, pare a stento calcolata per piacer loro.
 
 Per i Prussiani, dunque, col fallimento della loro diplomazia, il fallimento
 
-della loro [[philosophy|filosofia]], possiamo porre anche il fallimento dei loro appelli a un
+della loro filosofia, possiamo porre anche il fallimento dei loro appelli a un
 
 popolo straniero. Lo scrittore prussiano può continuare i suoi tentativi di blandire
 
@@ -5182,7 +5182,7 @@ i grandi Italiani devono essere stati qualcos'altro. Ma il metodo mi pare
 
 mal adatto alla propaganda popolare; e non posso non dire che su questo terzo
 
-punto della [[Persuasion|persuasione]], il tentativo tedesco non è notevole.
+punto della persuasione, il tentativo tedesco non è notevole.
 
 Ora tutto ciò è importante per questa ragione. Se lo consideri attentamente
 
@@ -5323,7 +5323,7 @@ suppose, the German. Anyhow, it is true that there is a recognisable and
 
 real thing which might be called fidelity (or perhaps monotony) which
 
-exists in Germans in about the same style as in [[dogs]] and niggers. The North
+exists in Germans in about the same style as in dogs and niggers. The North
 
 Teuton really has in this respect the simplicities of the savage and the
 
@@ -5355,7 +5355,7 @@ can be seen in what the French call Chauvinism and we call Jingoism. For us
 
 it is fireworks; for him it is daylight. On Mafeking [[motifs/night|Night]], celebrating a
 
-small but picturesque [[success]] against the Boers, nearly everybody in [[settings/london|London]]
+small but picturesque success against the Boers, nearly everybody in [[settings/london|London]]
 
 came out waving little flags. Nearly everybody in [[settings/london|London]] is now heartily
 
@@ -5488,7 +5488,7 @@ Supponiamo il tedesco. Comunque sia, è vero che esiste un riconoscibile e
 
 La vera cosa che potrebbe essere chiamata fedeltà (o forse monotonia)
 
-esiste nei tedeschi pressappoco nello stesso stile che esiste nei [[dogs|cani]] e negri. Il Nord
+esiste nei tedeschi pressappoco nello stesso stile che esiste nei cani e negri. Il Nord
 
 Il Teutone ha davvero in questo senso le semplicità del selvaggio e...
 
@@ -5520,7 +5520,7 @@ Si può vedere nel cosiddetto sciovinismo francese e nel nostro jingoismo. Per n
 
 per lui è pieno giorno. La notte di Mafeking [[motifs/night|Notte]], celebrando una
 
-un piccolo ma pittoresco [[success|successo]] contro i boeri, quasi tutti a [[settings/london|Londra]]
+un piccolo ma pittoresco successo contro i boeri, quasi tutti a [[settings/london|Londra]]
 
 uscì agitando piccole bandiere. Ora quasi tutti a [[settings/london|Londra]] sono sinceramente
 
@@ -5553,7 +5553,7 @@ grandeur, a colossal calm, a superior race--in short, the whole claim of
 
 the Teutons to be the highest spiritual product of [[concepts/nature|Nature]] and Evolution.
 
-But as I have noticed a calm [[unity]] even more complete, not only in [[dogs]] and
+But as I have noticed a calm unity even more complete, not only in dogs and
 
 negroes, but in slugs, slow-worms, mangoldwurzels, moss, mud and bits of
 
@@ -5641,7 +5641,7 @@ must of necessity be a delicate one; yet which may [[motifs/well|well]] be a dif
 
 among Latins like yourself. Against this preposterous Prussian upstart we
 
-have not only to protect our [[unity]]; we have even to protect our quarrels.
+have not only to protect our unity; we have even to protect our quarrels.
 
 And the deepest of the reactions or revolts of which I have spoken is the
 
@@ -5718,7 +5718,7 @@ Grandezza, una calma colossale, una razza superiore - in breve, l'intera pretesa
 
 i Tedeschi come il più alto prodotto spirituale della [[concepts/nature|Natura]] e dell'evoluzione.
 
-Ma ho notato una calma [[unity|unità]] ancora più completa, non solo nei [[dogs|cani]] e
+Ma ho notato una calma unità ancora più completa, non solo nei cani e
 
 Negri, ma anche lumache, vermi lenti, rape da foraggio, muschio, fango e pezzetti di...
 
@@ -5806,7 +5806,7 @@ deve per forza essere delicata; eppure può [[motifs/well|benissimo]] essere una
 
 Tra i latini come voi. Contro questo ridicolo arrivista prussiano noi
 
-non dobbiamo solo proteggere la nostra [[unity|unità]]; dobbiamo persino proteggere le nostre liti.
+non dobbiamo solo proteggere la nostra unità; dobbiamo persino proteggere le nostre liti.
 
 E la più profonda delle reazioni o rivolte di cui ho parlato è la
 
@@ -5919,9 +5919,9 @@ the frontiers of [[settings/denmark|Denmark]]. And I may tell you, with the fuln
 
 conviction, that I have never failed, and shall never fail in anything.
 
-Permit me, therefore, to bless your [[house]] by the passage of my beautiful
+Permit me, therefore, to bless your house by the passage of my beautiful
 
-boots; that I may burgle the [[house]] next door."
+boots; that I may burgle the house next door."
 
 And then something European that is prouder than [[concepts/pride|pride]] will rise up in me;
 
@@ -5980,9 +5980,9 @@ le frontiere della [[settings/denmark|Danimarca]]. E posso dirvi, con la pienezz
 
 convinzione, che non ho mai fallito, e mai fallirò in nulla.
 
-Permettetemi, dunque, di benedire la vostra [[house|casa]] col passaggio dei miei bei
+Permettetemi, dunque, di benedire la vostra casa col passaggio dei miei bei
 
-stivali; affinché io possa svaligiare la [[house|casa]] accanto."
+stivali; affinché io possa svaligiare la casa accanto."
 
 E allora qualcosa di Europeo che è più fiero dell'[[concepts/pride|orgoglio]] si leverà in me;
 

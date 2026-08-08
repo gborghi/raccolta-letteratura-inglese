@@ -22,22 +22,22 @@ tags:
 - [[works/fulke-greville-lord-brooke-(coleridge)|FULKE GREVILLE LORD BROOKE (Coleridge)]]
 - [[works/honour-(coleridge)|HONOUR (Coleridge)]]
 - [[works/nil-pejus-est-caelibe-vitæ-(coleridge)|NIL PEJUS EST CAELIBE VITÆ (Coleridge)]]
-- 1024. So large my Will (Dickinson)
-- 1086. What Twigs We held by — (Dickinson)
-- 1106. We do not know the time we lose — (Dickinson)
-- 1154. A full fed Rose on meals of Tint (Dickinson)
-- 154. Except to Heaven, she is nought. (Dickinson)
-- 1659. Fame is a fickle food (Dickinson)
-- 169. In Ebon Box, when years have flown (Dickinson)
-- 178. I cautious, scanned my little life — (Dickinson)
-- 301. I reason, Earth is short — (Dickinson)
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1024_so_large_my_will|1024. So large my Will (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1086_what_twigs_we_held_by|1086. What Twigs We held by — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1106_we_do_not_know_the_time_we_lose|1106. We do not know the time we lose — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1154_a_full_fed_rose_on_meals_of_tint|1154. A full fed Rose on meals of Tint (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0154_except_to_heaven_she_is_nought|154. Except to Heaven, she is nought. (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1659_fame_is_a_fickle_food|1659. Fame is a fickle food (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0169_in_ebon_box_when_years_have_flown|169. In Ebon Box, when years have flown (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0178_i_cautious_scanned_my_little_life|178. I cautious, scanned my little life — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0301_i_reason_earth_is_short|301. I reason, Earth is short — (Dickinson)]]
 - [[works/before-morning-(eliot)|Before Morning (Eliot)]]
 - [[works/iv.-death-by-water-(eliot)|IV. Death by Water (Eliot)]]
 - [[works/tamerlane-(poe)|Tamerlane (Poe)]]
 - [[works/the-happiest-day-(poe)|The Happiest Day (Poe)]]
 - [[works/the-masque-of-the-red-death-(poe)|The Masque of the Red Death (Poe)]]
-- Sonnet 125 (Shakespeare)
-- Sonnet 146 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_125|Sonnet 125 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_146|Sonnet 146 (Shakespeare)]]
 - [[works/various-poems-(shakespeare)|VARIOUS POEMS (Shakespeare)]]
 - [[works/hast-never-come-to-thee-an-hour-(whitman)|Hast Never Come to Thee an Hour (Whitman)]]
 - [[works/thought-(whitman)|Thought (Whitman)]]

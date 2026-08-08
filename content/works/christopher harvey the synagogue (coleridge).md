@@ -27,7 +27,7 @@ tags:
 **Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/hymn|Hymn]]
 **Historical References:** [[historical-references/christianity|Christianity]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

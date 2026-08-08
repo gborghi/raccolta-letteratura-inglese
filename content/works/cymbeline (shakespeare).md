@@ -79,13 +79,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/sleeper-awakes|Sleeper Awakes]]
-**Archetypes:** Witch Enchantress, Innocent, Outsider
+**Archetypes:** [[archetypes/witch-enchantress|Witch Enchantress]], [[archetypes/innocent|Innocent]], [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/flowers|Flowers]], [[motifs/sleep|Sleep]]
 **Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/jealousy|Jealousy]], [[concepts/deception|Deception]], [[concepts/providence|Providence]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/exile|Exile]]
 **Forms & Genres:** [[forms/romance-play|Romance Play]], [[forms/tragicomedy|Tragicomedy]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[settings/ancient-rome|Ancient Rome]]
 **Settings:** [[settings/court|Court]]
-**Characters:** Innogen, Posthumus, Cymbeline, Iachimo, Cloten, Queen, Belarius, Guiderius, Arviragus
+**Characters:** [[characters/innogen|Innogen]], [[characters/posthumus|Posthumus]], [[characters/cymbeline|Cymbeline]], [[characters/iachimo|Iachimo]], [[characters/cloten|Cloten]], [[characters/queen|Queen]], [[characters/belarius|Belarius]], [[characters/guiderius|Guiderius]], [[characters/arviragus|Arviragus]]
 
 ## Testo integrale / Full text
 

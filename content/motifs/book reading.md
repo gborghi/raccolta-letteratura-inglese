@@ -24,21 +24,21 @@ tags:
 - [[works/donne-eclogue.-‘on-unworthy-wisdom-(coleridge)|DONNE ECLOGUE. ‘ON UNWORTHY WISDOM (Coleridge)]]
 - [[works/musophilus-(coleridge)|MUSOPHILUS (Coleridge)]]
 - [[works/with-fielding’s-‘amelia’-(coleridge)|WITH FIELDING’S ‘AMELIA’ (Coleridge)]]
-- 1088. Ended, ere it begun — (Dickinson)
-- 1261. A Word dropped careless on a Page (Dickinson)
-- 1263. There is no Frigate like a Book (Dickinson)
-- 1545. The Bible is an antique Volume — (Dickinson)
-- 1549. My Wars are laid away in Books — (Dickinson)
-- 1587. He ate and drank the precious Words — (Dickinson)
-- 344. 'Twas the old — road — through pain — (Dickinson)
-- 360. Death sets a Thing significant (Dickinson)
-- 371. A precious — mouldering pleasure — 'tis — (Dickinson)
-- 418. Not in this World to see his face — (Dickinson)
-- 433. Knows how to forget! (Dickinson)
-- 460. I know where Wells grow — Droughtless Wells — (Dickinson)
-- 486. I was the slightest in the House — (Dickinson)
-- 495. It's thoughts — and just One Heart — (Dickinson)
-- 568. We learned the Whole of Love — (Dickinson)
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1088_ended_ere_it_begun|1088. Ended, ere it begun — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1261_a_word_dropped_careless_on_a_page|1261. A Word dropped careless on a Page (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1263_there_is_no_frigate_like_a_book|1263. There is no Frigate like a Book (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1545_the_bible_is_an_antique_volume|1545. The Bible is an antique Volume — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1549_my_wars_are_laid_away_in_books|1549. My Wars are laid away in Books — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1587_he_ate_and_drank_the_precious_words|1587. He ate and drank the precious Words — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0344_twas_the_old_road_through_pain|344. 'Twas the old — road — through pain — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0360_death_sets_a_thing_significant|360. Death sets a Thing significant (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0371_a_precious_mouldering_pleasure_tis|371. A precious — mouldering pleasure — 'tis — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0418_not_in_this_world_to_see_his_face|418. Not in this World to see his face — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0433_knows_how_to_forget|433. Knows how to forget! (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0460_i_know_where_wells_grow_droughtless_wells|460. I know where Wells grow — Droughtless Wells — (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0486_i_was_the_slightest_in_the_house|486. I was the slightest in the House — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0495_its_thoughts_and_just_one_heart|495. It's thoughts — and just One Heart — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0568_we_learned_the_whole_of_love|568. We learned the Whole of Love — (Dickinson)]]
 - [[works/a,-b,-c-(eliot)|A, B, C (Eliot)]]
 - [[works/also-by-t.-s.-eliot-(eliot)|Also by T. S. Eliot (Eliot)]]
 - [[works/g,-h,-i-(eliot)|G, H, I (Eliot)]]
@@ -66,13 +66,13 @@ tags:
 - [[works/the-literary-life-of-thingum-bob,-esq-(poe)|The Literary Life of Thingum Bob, Esq (Poe)]]
 - [[works/the-man-of-the-crowd-(poe)|The Man of the Crowd (Poe)]]
 - [[works/love’s-labour’s-won---a-brief-account-(shakespeare)|LOVE’S LABOUR’S WON - A BRIEF ACCOUNT (Shakespeare)]]
-- Sonnet 106 (Shakespeare)
-- Sonnet 122 (Shakespeare)
-- Sonnet 23 (Shakespeare)
-- Sonnet 25 (Shakespeare)
-- Sonnet 59 (Shakespeare)
-- Sonnet 77 (Shakespeare)
-- Sonnet 82 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_106|Sonnet 106 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_122|Sonnet 122 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_023|Sonnet 23 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_025|Sonnet 25 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_059|Sonnet 59 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_077|Sonnet 77 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_082|Sonnet 82 (Shakespeare)]]
 - [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
 - [[works/a-font-of-type-(whitman)|A Font of Type (Whitman)]]
 - [[works/as-the-time-draws-nigh-(whitman)|As the Time Draws Nigh (Whitman)]]

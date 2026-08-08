@@ -77,5 +77,5 @@ tags:
 **Motifs:** [[motifs/garden|Garden]], [[motifs/river|River]], [[motifs/love|Love]], [[motifs/marriage|Marriage]], [[motifs/great-house|Great House]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]], [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Archetypes:** Lover, Damsel
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/damsel|Damsel]]
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/love-as-religion|Love as Religion]]

@@ -131,7 +131,7 @@ Ah! who can e’er forget so fair a being?
 For man’s protection. Surely the All-seeing,  
 Who joys to see us with his gifts agreeing,  
   Will never give him pinions, who intreats  
-  Such [[innocence]] to ruin, — who vilely cheats  
+  Such innocence to ruin, — who vilely cheats  
 A dove-like bosom. In [[concepts/truth|truth]] there is no freeing  
 One’s thoughts from such a [[concepts/beauty|beauty]]; when I hear  
   A lay that once I saw her hand awake,  
@@ -147,7 +147,7 @@ A dewy flower, oft would that hand appear,
 
 
 Sweet are the pleasures that to verse belong,  
-And doubly sweet a brotherhood in [[Song|song]];  
+And doubly sweet a brotherhood in song;  
 Nor can remembrance, Mathew! bring to view  
 A fate more pleasing, a delight more true  
 Than that in which the brother Poets joy’d,  
@@ -227,7 +227,7 @@ For thee, she will thy every dwelling grace,
 And make “a sun-shine in a shady place:”  
 For thou wast once a flowret blooming wild,  
 Close to the source, bright, pure, and undefil’d,  
-Whence gush the streams of [[Song|song]]: in happy hour  
+Whence gush the streams of song: in happy hour  
 Came chaste [[characters/diana|Diana]] from her shady bower,  
 Just as the sun was from the east uprising;  
 And, as for him some gift she was devising,  
@@ -305,7 +305,7 @@ Thus have I thought; and days on days have flown
 Slowly, or rapidly — unwilling still  
 For you to try my dull, unlearned quill.  
 Nor should I now, but that I’ve known you long;  
-That you first taught me all the sweets of [[Song|song]]:  
+That you first taught me all the sweets of song:  
 The grand, the sweet, the terse, the free, the fine;  
 What swell’d with pathos, and what right divine:  
 Spenserian vowels that elope with ease,  
@@ -364,7 +364,7 @@ Verses from which the [[motifs/soul|soul]] would never wean:
 But many days have past since last my heart  
 Was warm’d luxuriously by divine Mozart;  
 By Arne delighted, or by Handel madden’d;  
-Or by the [[Song|song]] of Erin pierc’d and sadden’d:  
+Or by the song of Erin pierc’d and sadden’d:  
 What [[motifs/time|time]] you were before the music sitting,  
 And the rich notes to each sensation fitting.  
 Since I have walk’d with you through shady lanes  

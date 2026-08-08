@@ -25,11 +25,11 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/dust|Dust]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]]
 **Forms & Genres:** [[forms/epigram|Epigram]], [[forms/elegy|Elegy]]
-**Characters:** Abraham Lincoln
+**Characters:** [[characters/abraham-lincoln|Abraham Lincoln]]
 
 ## Testo integrale / Full text
 

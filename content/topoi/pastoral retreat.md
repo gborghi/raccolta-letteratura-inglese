@@ -40,9 +40,9 @@ tags:
 - [[works/to-the-rev.-george-coleridge-of-ottery-st.-mary,-devon-(coleridge)|TO THE REV. GEORGE COLERIDGE OF OTTERY ST. MARY, DEVON (Coleridge)]]
 - [[works/to-the-rev.-w.-j.-hort-while-teaching-a-young-lady-some-song-tunes-on-his-flute-(coleridge)|TO THE REV. W. J. HORT WHILE TEACHING A YOUNG LADY SOME SONG-TUNES ON HIS FLUTE (Coleridge)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
-- 1441. These Fevered Days — to take them to the Forest (Dickinson)
-- 333. The Grass so little has to do — (Dickinson)
-- 790. Nature — the Gentlest Mother is, (Dickinson)
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1441_these_fevered_days_to_take_them_to_the_forest|1441. These Fevered Days — to take them to the Forest (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0333_the_grass_so_little_has_to_do|333. The Grass so little has to do — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0790_nature_the_gentlest_mother_is|790. Nature — the Gentlest Mother is, (Dickinson)]]
 - [[works/o-solitude!-if-i-must-with-thee-dwell-(keats)|O SOLITUDE! IF I MUST WITH THEE DWELL (Keats)]]
 - [[works/sonnet-on-leigh-hunt’s-poem-‘the-story-of-rimini’-(keats)|Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’ (Keats)]]
 - [[works/sonnet-oh!-how-i-love,-on-a-fair-summer’s-eve-(keats)|Sonnet Oh! how I love, on a fair summer’s eve (Keats)]]

@@ -122,7 +122,7 @@ And appalling Men —
 
 If the stillness is Volcanic  
 In the human face  
-When upon a [[motifs/pain|pain]] [[titanic|Titanic]]  
+When upon a [[motifs/pain|pain]] Titanic  
 Features keep their place —  
 
 If at length the smouldering anguish  
@@ -369,7 +369,7 @@ Gone — as soon as known —
 
 Grief is a Mouse —  
 And chooses Wainscot in the Breast  
-For His Shy [[house|House]] —  
+For His Shy House —  
 And baffles [[topoi/quest|quest]] —  
 
 Grief is a Thief — quick startled —  
@@ -452,7 +452,7 @@ I know, and they know me;
 I feel for them a transport  
 Of cordiality.  
 Yet never met this fellow,  
-Attended or [[Alone|alone]],  
+Attended or alone,  
 Without a tighter breathing,  
 And zero at the bone.
 

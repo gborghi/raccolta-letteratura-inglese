@@ -42,7 +42,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Detective, Trickster
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/trickster|Trickster]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]]
 **Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/guilt|Guilt]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]

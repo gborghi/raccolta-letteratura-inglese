@@ -22,7 +22,7 @@ Che grande sfortuna non poter essere soli. — _La Bruyère_
 
 Si disse molto bene di un certo libro tedesco che “_non si lascia leggere_” – non permette cioè di essere letto. Esistono alcuni [[motifs/secrets|segreti]] che non permettono di essere rivelati. Ogni notte, gli uomini muoiono nei loro letti, stringendo le mani di confessori spettrali e guardandoli con occhi pieni di pietà; muoiono nel [[concepts/despair|dispero]] e nella convulsione della gola, a causa dell’orrenda natura dei misteri che non tollerano di essere svelati. A volte, purtroppo, la [[concepts/conscience|coscienza]] umana deve sopportare un peso così terribile da poterlo gettare soltanto nella [[motifs/grave|tomba]]. Ed è così che l’essenza di ogni crimine rimane nascosta per sempre.
 
-Non molto tempo fa, verso la fine di una serata d’[[motifs/autumn|autunno]], mi trovavo davanti alla grande finestra del D—— Coffee-[[house|House]] a [[settings/london|)Londra]]. Da alcuni mesi ero malato, ma ora stavo riprendendomi; con il ritorno delle forze, provavo uno di quegli stati d’animo felici che sono esattamente l’opposto dell’_noia_: uno stato di grande appetito, in cui le immagini mentali svaniscono, e l’intelligenza, stimolata, supera di gran lunga la sua condizione quotidiana, proprio come il ragionamento vivido e schietto di Leibnitz supera la retorica folle e fragile di Gorgias. Persino respirare mi dava piacere; provavo un vero godimento anche in molte delle situazioni che normalmente avrebbero causato [[motifs/pain|dolore]]. Ero interessato a tutto, con calma ma curiosità. Con una sigara in bocca e un giornale in grembo, avevo trascorso gran parte del pomeriggio: ora leggendo gli annunci pubblicitari, ora osservando la gente che si trovava nella stanza, ora guardando fuori dalla finestra fumosa.
+Non molto tempo fa, verso la fine di una serata d’[[motifs/autumn|autunno]], mi trovavo davanti alla grande finestra del D—— Coffee-House a [[settings/london|)Londra]]. Da alcuni mesi ero malato, ma ora stavo riprendendomi; con il ritorno delle forze, provavo uno di quegli stati d’animo felici che sono esattamente l’opposto dell’_noia_: uno stato di grande appetito, in cui le immagini mentali svaniscono, e l’intelligenza, stimolata, supera di gran lunga la sua condizione quotidiana, proprio come il ragionamento vivido e schietto di Leibnitz supera la retorica folle e fragile di Gorgias. Persino respirare mi dava piacere; provavo un vero godimento anche in molte delle situazioni che normalmente avrebbero causato [[motifs/pain|dolore]]. Ero interessato a tutto, con calma ma curiosità. Con una sigara in bocca e un giornale in grembo, avevo trascorso gran parte del pomeriggio: ora leggendo gli annunci pubblicitari, ora osservando la gente che si trovava nella stanza, ora guardando fuori dalla finestra fumosa.
 
 Questo viale è uno dei principali assi della [[motifs/city|città]] ed era stato molto affollato per tutta la giornata. Ma con l’arrivo della notte, la folla aumentò ancora di più; e quando le luci furono ben accese, due flussi densi e continui di persone passavano davanti al portone dell’edificio. In quel particolare momento della sera non mi ero mai trovato in una situazione del genere, e quell’immensa folla umana mi riempì il cuore di una piacevole novità emotiva. Alla fine, abbandonai completamente ogni preoccupazione riguardante le cose all’interno dell’hotel e mi dedicai interamente alla contemplazione della scena che avevo davanti agli occhi.
 
@@ -82,7 +82,7 @@ up a burthen so heavy in horror that it can be thrown down only into the
 [[motifs/grave|grave]]. And thus the essence of all crime is undivulged.
 
 Not long ago, about the closing in of an evening in [[motifs/autumn|autumn]], I sat at the
-large bow [[motifs/window|window]] of the D—— Coffee-[[house|House]] in [[settings/london|London]]. For some
+large bow [[motifs/window|window]] of the D—— Coffee-House in [[settings/london|London]]. For some
 months I had been ill in health, but was now convalescent, and, with
 returning strength, found myself in one of those happy moods which are so
 precisely the converse of _ennui_—moods of the keenest
@@ -170,7 +170,7 @@ Che grande sfortuna non poter essere soli. — _La Bruyère_
 
 Si disse molto bene di un certo libro tedesco che “_non si lascia leggere_” – non permette cioè di essere letto. Esistono alcuni [[motifs/secrets|segreti]] che non permettono di essere rivelati. Ogni notte, gli uomini muoiono nei loro letti, stringendo le mani di confessori spettrali e guardandoli con occhi pieni di pietà; muoiono nel [[concepts/despair|dispero]] e nella convulsione della gola, a causa dell’orrenda natura dei misteri che non tollerano di essere svelati. A volte, purtroppo, la [[concepts/conscience|coscienza]] umana deve sopportare un peso così terribile da poterlo gettare soltanto nella [[motifs/grave|tomba]]. Ed è così che l’essenza di ogni crimine rimane nascosta per sempre.
 
-Non molto tempo fa, verso la fine di una serata d’[[motifs/autumn|autunno]], mi trovavo davanti alla grande finestra del D—— Coffee-[[house|House]] a [[settings/london|)Londra]]. Da alcuni mesi ero malato, ma ora stavo riprendendomi; con il ritorno delle forze, provavo uno di quegli stati d’animo felici che sono esattamente l’opposto dell’_noia_: uno stato di grande appetito, in cui le immagini mentali svaniscono, e l’intelligenza, stimolata, supera di gran lunga la sua condizione quotidiana, proprio come il ragionamento vivido e schietto di Leibnitz supera la retorica folle e fragile di Gorgias. Persino respirare mi dava piacere; provavo un vero godimento anche in molte delle situazioni che normalmente avrebbero causato [[motifs/pain|dolore]]. Ero interessato a tutto, con calma ma curiosità. Con una sigara in bocca e un giornale in grembo, avevo trascorso gran parte del pomeriggio: ora leggendo gli annunci pubblicitari, ora osservando la gente che si trovava nella stanza, ora guardando fuori dalla finestra fumosa.
+Non molto tempo fa, verso la fine di una serata d’[[motifs/autumn|autunno]], mi trovavo davanti alla grande finestra del D—— Coffee-House a [[settings/london|)Londra]]. Da alcuni mesi ero malato, ma ora stavo riprendendomi; con il ritorno delle forze, provavo uno di quegli stati d’animo felici che sono esattamente l’opposto dell’_noia_: uno stato di grande appetito, in cui le immagini mentali svaniscono, e l’intelligenza, stimolata, supera di gran lunga la sua condizione quotidiana, proprio come il ragionamento vivido e schietto di Leibnitz supera la retorica folle e fragile di Gorgias. Persino respirare mi dava piacere; provavo un vero godimento anche in molte delle situazioni che normalmente avrebbero causato [[motifs/pain|dolore]]. Ero interessato a tutto, con calma ma curiosità. Con una sigara in bocca e un giornale in grembo, avevo trascorso gran parte del pomeriggio: ora leggendo gli annunci pubblicitari, ora osservando la gente che si trovava nella stanza, ora guardando fuori dalla finestra fumosa.
 
 Questo viale è uno dei principali assi della [[motifs/city|città]] ed era stato molto affollato per tutta la giornata. Ma con l’arrivo della notte, la folla aumentò ancora di più; e quando le luci furono ben accese, due flussi densi e continui di persone passavano davanti al portone dell’edificio. In quel particolare momento della sera non mi ero mai trovato in una situazione del genere, e quell’immensa folla umana mi riempì il cuore di una piacevole novità emotiva. Alla fine, abbandonai completamente ogni preoccupazione riguardante le cose all’interno dell’hotel e mi dedicai interamente alla contemplazione della scena che avevo davanti agli occhi.
 
@@ -210,7 +210,7 @@ Descending in the scale of what is termed gentility, I found darker and
 deeper themes for speculation. I saw Jew pedlars, with hawk eyes flashing
 from countenances whose every other feature wore only an expression of
 abject [[concepts/humility|humility]]; sturdy professional street beggars scowling upon
-mendicants of a better stamp, whom [[concepts/despair|despair]] [[Alone|alone]] had driven forth into the
+mendicants of a better stamp, whom [[concepts/despair|despair]] alone had driven forth into the
 [[motifs/night|night]] for [[concepts/charity|charity]]; feeble and ghastly invalids, upon whom [[motifs/death|death]] had placed
 a sure hand, and who sidled and tottered through the mob, looking every
 one beseechingly in the face, as if in search of some chance consolation,
@@ -427,8 +427,8 @@ second evening came on, I grew wearied unto [[motifs/death|death]], and, stoppin
 front of the wanderer, gazed at him steadfastly in the face. He noticed
 me not, but resumed his solemn walk, while I, ceasing to follow, remained
 absorbed in contemplation. “This old man,” I said at length,
-“is the type and the genius of deep crime. He refuses to be [[Alone|alone]].
-_He is [[The Man of the Crowd|the man of the crowd]]._ It will be in vain to follow; for I
+“is the type and the genius of deep crime. He refuses to be alone.
+_He is the man of the crowd._ It will be in vain to follow; for I
 shall learn no more of him, nor of his deeds. The worst heart of the
 world is a grosser book than the ‘Hortulus Animæ,’ {*1} and
 perhaps it is but one of the great mercies of God that ‘_er lasst

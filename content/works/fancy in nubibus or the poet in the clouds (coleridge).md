@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Motifs:** [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]

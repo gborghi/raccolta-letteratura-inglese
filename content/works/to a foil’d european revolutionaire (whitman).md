@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Rebel
+**Archetypes:** [[archetypes/rebel|Rebel]]
 **Themes & Concepts:** [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/martyrdom|Martyrdom]], [[concepts/reform|Reform]], [[concepts/democracy|Democracy]], [[concepts/comradeship|Comradeship]]
 
 ## Testo integrale / Full text

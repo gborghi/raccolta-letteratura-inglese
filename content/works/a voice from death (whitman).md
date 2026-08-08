@@ -27,7 +27,7 @@ tags:
 **Motifs:** [[motifs/death|Death]], [[motifs/water|Water]], [[motifs/storm|Storm]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/providence|Providence]], [[concepts/self-and-cosmos|Self and Cosmos]]
 **Forms & Genres:** [[forms/ode|Ode]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

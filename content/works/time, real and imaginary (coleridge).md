@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/time|Time]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/imagination|Imagination]]
 **Forms & Genres:** [[forms/allegory|Allegory]]

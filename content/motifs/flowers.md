@@ -55,126 +55,126 @@ tags:
 - [[works/ver-perpetuum-(coleridge)|VER PERPETUUM (Coleridge)]]
 - [[works/work-without-hope-(coleridge)|WORK WITHOUT HOPE (Coleridge)]]
 - [[works/youth-and-age-(coleridge)|YOUTH AND AGE (Coleridge)]]
-- 100. A science — so the Savants say, (Dickinson)
-- 1026. The Dying need but little, Dear, (Dickinson)
-- 1037. Here, where the Daisies fit my Head (Dickinson)
-- 1038. Her little Parasol to lift (Dickinson)
-- 104. Where I have lost, I softer tread — (Dickinson)
-- 1058. Bloom — is Result — to meet a Flower (Dickinson)
-- 106. The Daisy follows soft the Sun — (Dickinson)
-- 1080. When they come back — if Blossoms do — (Dickinson)
-- 1082. Revolution is the Pod (Dickinson)
-- 109. By a flower — By a letter — (Dickinson)
-- 1136. The Frost of Death was on the Pane — (Dickinson)
-- 1154. A full fed Rose on meals of Tint (Dickinson)
-- 1160. He is alive, this morning — (Dickinson)
-- 1202. The Frost was never seen — (Dickinson)
-- 1224. Like Trains of Cars on Tracks of Plush (Dickinson)
-- 1232. The Clover's simple Fame (Dickinson)
-- 124. In lands I never saw — they say (Dickinson)
-- 1241. The Lilac is an ancient shrub (Dickinson)
-- 1264. This is the place they hoped before, (Dickinson)
-- 1288. Lain in Nature — so suffice us (Dickinson)
-- 1310. The Notice that is called the Spring (Dickinson)
-- 133. As Children bid the Guest Good Night (Dickinson)
-- 134. Perhaps you'd like to buy a flower, (Dickinson)
-- 136. Have you got a Brook in your little heart, (Dickinson)
-- 137. Flowers — Well — if anybody (Dickinson)
-- 138. Pigmy seraphs — gone astray — (Dickinson)
-- 1416. Crisis is sweet and yet the Heart (Dickinson)
-- 142. Whose are the little beds, I asked (Dickinson)
-- 1424. The Gentian has a parched Corolla — (Dickinson)
-- 1427. To earn it by disdaining it (Dickinson)
-- 1434. Go not too near a House of Rose — (Dickinson)
-- 144. She bore it till the simple veins (Dickinson)
-- 149. She went as quiet as the Dew (Dickinson)
-- 1508. You cannot make Remembrance grow (Dickinson)
-- 1519. The Dandelion's pallid tube (Dickinson)
-- 1526. His oriental heresies (Dickinson)
-- 154. Except to Heaven, she is nought. (Dickinson)
-- 1558. Of Death I try to think like this — (Dickinson)
-- 1579. It would not know if it were spurned, (Dickinson)
-- 1586. To her derided Home (Dickinson)
-- 1624. Apparently with no surprise (Dickinson)
-- 163. Tho' my destiny be Fustian — (Dickinson)
-- 168. If the foolish, call them flowers — (Dickinson)
-- 169. In Ebon Box, when years have flown (Dickinson)
-- 1744. The joy that has no stem no core, (Dickinson)
-- 176. I'm the little Heart's Ease ! (Dickinson)
-- 179. If I could bribe them by a Rose (Dickinson)
-- 18. The Gentian weaves her fringes — (Dickinson)
-- 180. As if some little Arctic flower (Dickinson)
-- 187. How many times these low feet staggered — (Dickinson)
-- 191. The Skies can't keep their secret! (Dickinson)
-- 192. Poor little Heart! (Dickinson)
-- 2. There is another sky (Dickinson)
-- 20. Distrustful of the Gentian — (Dickinson)
-- 206. The Flower must not blame the Bee — (Dickinson)
-- 213. Did the Harebell loose her girdle (Dickinson)
-- 22. All these my banners be. (Dickinson)
-- 26. It's all I have to bring today — (Dickinson)
-- 285. The Robin's my Criterion for Tune — (Dickinson)
-- 29. If those I loved were lost (Dickinson)
-- 31. Summer for thee, grant I may be (Dickinson)
-- 32. When Roses cease to bloom, Sir, (Dickinson)
-- 333. The Grass so little has to do — (Dickinson)
-- 337. I know a place where Summer strives (Dickinson)
-- 339. I tend my flowers for thee — (Dickinson)
-- 342. It will be Summer — eventually. (Dickinson)
-- 348. I dreaded that first Robin, so, (Dickinson)
-- 363. I went to thank Her — (Dickinson)
-- 380. There is a flower that Bees prefer — (Dickinson)
-- 391. A Visitor in Marl — (Dickinson)
-- 392. Through the Dark Sod — as Education — (Dickinson)
-- 40. When I count the seeds (Dickinson)
-- 404. How many Flowers fail in Wood — (Dickinson)
-- 411. The Color of the Grave is Green — (Dickinson)
-- 44. If she had been the Mistletoe (Dickinson)
-- 440. 'Tis customary as we part (Dickinson)
-- 442. God made a little Gentian — (Dickinson)
-- 448. This was a Poet — It is That (Dickinson)
-- 467. We do not play on Graves — (Dickinson)
-- 470. I am alive — I guess — (Dickinson)
-- 495. It's thoughts — and just One Heart — (Dickinson)
-- 513. Like Flowers, that heard the news of Dews, (Dickinson)
-- 517. He parts Himself — like Leaves — (Dickinson)
-- 559. It knew no Medicine — (Dickinson)
-- 56. If I should cease to bring a Rose (Dickinson)
-- 567. He gave away his Life — (Dickinson)
-- 574. My first well Day — since many ill — (Dickinson)
-- 60. Like her the Saints retire, (Dickinson)
-- 620. It makes no difference abroad — (Dickinson)
-- 629. I watched the Moon around the House (Dickinson)
-- 649. Her Sweet turn to leave the Homestead (Dickinson)
-- 661. Could I but ride indefinite (Dickinson)
-- 663. Again — his voice is at the door — (Dickinson)
-- 667. Bloom upon the Mountain — stated — (Dickinson)
-- 671. She dwelleth in the Ground — (Dickinson)
-- 675. Essential Oils — are wrung — (Dickinson)
-- 682. 'Twould ease — a Butterfly — (Dickinson)
-- 691. Would you like summer Taste of ours. (Dickinson)
-- 72. Glowing is her Bonnet, (Dickinson)
-- 727. Precious to Me — She still shall be — (Dickinson)
-- 74. A Lady red — amid the Hill (Dickinson)
-- 743. The Birds reported from the South — (Dickinson)
-- 766. My Faith is larger than the Hills — (Dickinson)
-- 782. There is an arid Pleasure — (Dickinson)
-- 805. This Bauble was preferred of Bees — (Dickinson)
-- 81. We should not mind so small a flower — (Dickinson)
-- 811. The Veins of other Flowers (Dickinson)
-- 82. Whose cheek is this (Dickinson)
-- 830. To this World she returned. (Dickinson)
-- 869. Because the Bee may blameless hum (Dickinson)
-- 90. Within my reach! (Dickinson)
-- 908. 'Tis Sunrise — Little Maid — Hast Thou (Dickinson)
-- 91. So bashful when I spied her! (Dickinson)
-- 94. Angels, in the early morning (Dickinson)
-- 95. My nosegays are for Captives — (Dickinson)
-- 96. Sexton! My Master's sleeping here. (Dickinson)
-- 97. The rainbow never tells me (Dickinson)
-- 978. It bloomed and dropt, a Single Noon — (Dickinson)
-- 991. She sped as Petals of a Rose (Dickinson)
-- 995. This was in the White of the Year — (Dickinson)
+- [[testi/dickinson/atomized/flowers-spring-garden#0100_a_science_so_the_savants_say|100. A science — so the Savants say, (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1026_the_dying_need_but_little_dear|1026. The Dying need but little, Dear, (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1037_here_where_the_daisies_fit_my_head|1037. Here, where the Daisies fit my Head (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1038_her_little_parasol_to_lift|1038. Her little Parasol to lift (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0104_where_i_have_lost_i_softer_tread|104. Where I have lost, I softer tread — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#1058_bloom_is_result_to_meet_a_flower|1058. Bloom — is Result — to meet a Flower (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0106_the_daisy_follows_soft_the_sun|106. The Daisy follows soft the Sun — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#1080_when_they_come_back_if_blossoms_do|1080. When they come back — if Blossoms do — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1082_revolution_is_the_pod|1082. Revolution is the Pod (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0109_by_a_flower_by_a_letter|109. By a flower — By a letter — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1136_the_frost_of_death_was_on_the_pane|1136. The Frost of Death was on the Pane — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1154_a_full_fed_rose_on_meals_of_tint|1154. A full fed Rose on meals of Tint (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1160_he_is_alive_this_morning|1160. He is alive, this morning — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1202_the_frost_was_never_seen|1202. The Frost was never seen — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1224_like_trains_of_cars_on_tracks_of_plush|1224. Like Trains of Cars on Tracks of Plush (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#1232_the_clovers_simple_fame|1232. The Clover's simple Fame (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0124_in_lands_i_never_saw_they_say|124. In lands I never saw — they say (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1241_the_lilac_is_an_ancient_shrub|1241. The Lilac is an ancient shrub (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1264_this_is_the_place_they_hoped_before|1264. This is the place they hoped before, (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1288_lain_in_nature_so_suffice_us|1288. Lain in Nature — so suffice us (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1310_the_notice_that_is_called_the_spring|1310. The Notice that is called the Spring (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0133_as_children_bid_the_guest_good_night|133. As Children bid the Guest Good Night (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0134_perhaps_youd_like_to_buy_a_flower|134. Perhaps you'd like to buy a flower, (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0136_have_you_got_a_brook_in_your_little_heart|136. Have you got a Brook in your little heart, (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0137_flowers_well_if_anybody|137. Flowers — Well — if anybody (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0138_pigmy_seraphs_gone_astray|138. Pigmy seraphs — gone astray — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1416_crisis_is_sweet_and_yet_the_heart|1416. Crisis is sweet and yet the Heart (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0142_whose_are_the_little_beds_i_asked|142. Whose are the little beds, I asked (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1424_the_gentian_has_a_parched_corolla|1424. The Gentian has a parched Corolla — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#1427_to_earn_it_by_disdaining_it|1427. To earn it by disdaining it (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1434_go_not_too_near_a_house_of_rose|1434. Go not too near a House of Rose — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0144_she_bore_it_till_the_simple_veins|144. She bore it till the simple veins (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0149_she_went_as_quiet_as_the_dew|149. She went as quiet as the Dew (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1508_you_cannot_make_remembrance_grow|1508. You cannot make Remembrance grow (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#1519_the_dandelions_pallid_tube|1519. The Dandelion's pallid tube (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#1526_his_oriental_heresies|1526. His oriental heresies (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0154_except_to_heaven_she_is_nought|154. Except to Heaven, she is nought. (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1558_of_death_i_try_to_think_like_this|1558. Of Death I try to think like this — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1579_it_would_not_know_if_it_were_spurned|1579. It would not know if it were spurned, (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#1586_to_her_derided_home|1586. To her derided Home (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1624_apparently_with_no_surprise|1624. Apparently with no surprise (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0163_tho_my_destiny_be_fustian|163. Tho' my destiny be Fustian — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0168_if_the_foolish_call_them_flowers|168. If the foolish, call them flowers — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0169_in_ebon_box_when_years_have_flown|169. In Ebon Box, when years have flown (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1744_the_joy_that_has_no_stem_no_core|1744. The joy that has no stem no core, (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0176_im_the_little_hearts_ease|176. I'm the little Heart's Ease ! (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0179_if_i_could_bribe_them_by_a_rose|179. If I could bribe them by a Rose (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0018_the_gentian_weaves_her_fringes|18. The Gentian weaves her fringes — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0180_as_if_some_little_arctic_flower|180. As if some little Arctic flower (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0187_how_many_times_these_low_feet_staggered|187. How many times these low feet staggered — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0191_the_skies_cant_keep_their_secret|191. The Skies can't keep their secret! (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0192_poor_little_heart|192. Poor little Heart! (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0002_there_is_another_sky|2. There is another sky (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0020_distrustful_of_the_gentian|20. Distrustful of the Gentian — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0206_the_flower_must_not_blame_the_bee|206. The Flower must not blame the Bee — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0213_did_the_harebell_loose_her_girdle|213. Did the Harebell loose her girdle (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0022_all_these_my_banners_be|22. All these my banners be. (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0026_its_all_i_have_to_bring_today|26. It's all I have to bring today — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0285_the_robins_my_criterion_for_tune|285. The Robin's my Criterion for Tune — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0029_if_those_i_loved_were_lost|29. If those I loved were lost (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0031_summer_for_thee_grant_i_may_be|31. Summer for thee, grant I may be (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0032_when_roses_cease_to_bloom_sir|32. When Roses cease to bloom, Sir, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0333_the_grass_so_little_has_to_do|333. The Grass so little has to do — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0337_i_know_a_place_where_summer_strives|337. I know a place where Summer strives (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0339_i_tend_my_flowers_for_thee|339. I tend my flowers for thee — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0342_it_will_be_summer_eventually|342. It will be Summer — eventually. (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0348_i_dreaded_that_first_robin_so|348. I dreaded that first Robin, so, (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0363_i_went_to_thank_her|363. I went to thank Her — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0380_there_is_a_flower_that_bees_prefer|380. There is a flower that Bees prefer — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0391_a_visitor_in_marl|391. A Visitor in Marl — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0392_through_the_dark_sod_as_education|392. Through the Dark Sod — as Education — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0040_when_i_count_the_seeds|40. When I count the seeds (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0404_how_many_flowers_fail_in_wood|404. How many Flowers fail in Wood — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0411_the_color_of_the_grave_is_green|411. The Color of the Grave is Green — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0044_if_she_had_been_the_mistletoe|44. If she had been the Mistletoe (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0440_tis_customary_as_we_part|440. 'Tis customary as we part (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0442_god_made_a_little_gentian|442. God made a little Gentian — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0448_this_was_a_poet_it_is_that|448. This was a Poet — It is That (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0467_we_do_not_play_on_graves|467. We do not play on Graves — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0470_i_am_alive_i_guess|470. I am alive — I guess — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0495_its_thoughts_and_just_one_heart|495. It's thoughts — and just One Heart — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0513_like_flowers_that_heard_the_news_of_dews|513. Like Flowers, that heard the news of Dews, (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0517_he_parts_himself_like_leaves|517. He parts Himself — like Leaves — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0559_it_knew_no_medicine|559. It knew no Medicine — (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0056_if_i_should_cease_to_bring_a_rose|56. If I should cease to bring a Rose (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0567_he_gave_away_his_life|567. He gave away his Life — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0574_my_first_well_day_since_many_ill|574. My first well Day — since many ill — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0060_like_her_the_saints_retire|60. Like her the Saints retire, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0620_it_makes_no_difference_abroad|620. It makes no difference abroad — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0629_i_watched_the_moon_around_the_house|629. I watched the Moon around the House (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0649_her_sweet_turn_to_leave_the_homestead|649. Her Sweet turn to leave the Homestead (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0661_could_i_but_ride_indefinite|661. Could I but ride indefinite (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0663_again_his_voice_is_at_the_door|663. Again — his voice is at the door — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0667_bloom_upon_the_mountain_stated|667. Bloom upon the Mountain — stated — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0671_she_dwelleth_in_the_ground|671. She dwelleth in the Ground — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0675_essential_oils_are_wrung|675. Essential Oils — are wrung — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0682_twould_ease_a_butterfly|682. 'Twould ease — a Butterfly — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0691_would_you_like_summer_taste_of_ours|691. Would you like summer Taste of ours. (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0072_glowing_is_her_bonnet|72. Glowing is her Bonnet, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0727_precious_to_me_she_still_shall_be|727. Precious to Me — She still shall be — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0074_a_lady_red_amid_the_hill|74. A Lady red — amid the Hill (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0743_the_birds_reported_from_the_south|743. The Birds reported from the South — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0766_my_faith_is_larger_than_the_hills|766. My Faith is larger than the Hills — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0782_there_is_an_arid_pleasure|782. There is an arid Pleasure — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0805_this_bauble_was_preferred_of_bees|805. This Bauble was preferred of Bees — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0081_we_should_not_mind_so_small_a_flower|81. We should not mind so small a flower — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0811_the_veins_of_other_flowers|811. The Veins of other Flowers (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0082_whose_cheek_is_this|82. Whose cheek is this (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0830_to_this_world_she_returned|830. To this World she returned. (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0869_because_the_bee_may_blameless_hum|869. Because the Bee may blameless hum (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0090_within_my_reach|90. Within my reach! (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0908_tis_sunrise_little_maid_hast_thou|908. 'Tis Sunrise — Little Maid — Hast Thou (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0091_so_bashful_when_i_spied_her|91. So bashful when I spied her! (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0094_angels_in_the_early_morning|94. Angels, in the early morning (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0095_my_nosegays_are_for_captives|95. My nosegays are for Captives — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0096_sexton_my_masters_sleeping_here|96. Sexton! My Master's sleeping here. (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0097_the_rainbow_never_tells_me|97. The rainbow never tells me (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0978_it_bloomed_and_dropt_a_single_noon|978. It bloomed and dropt, a Single Noon — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0991_she_sped_as_petals_of_a_rose|991. She sped as Petals of a Rose (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0995_this_was_in_the_white_of_the_year|995. This was in the White of the Year — (Dickinson)]]
 - [[works/a-lyric-‘if-time-and-space,-as-sages-say’-(eliot)|A Lyric ‘If Time and Space, as Sages say’ (Eliot)]]
 - [[works/appendix-poems-written-in-early-youth-(eliot)|APPENDIX POEMS WRITTEN IN EARLY YOUTH (Eliot)]]
 - [[works/before-morning-(eliot)|Before Morning (Eliot)]]
@@ -211,20 +211,20 @@ tags:
 - [[works/to-zante-(poe)|To Zante (Poe)]]
 - [[works/a-lover’s-complaint-(shakespeare)|A Lover’s Complaint (Shakespeare)]]
 - [[works/cymbeline-(shakespeare)|CYMBELINE (Shakespeare)]]
-- Sonnet 1 (Shakespeare)
-- Sonnet 124 (Shakespeare)
-- Sonnet 16 (Shakespeare)
-- Sonnet 21 (Shakespeare)
-- Sonnet 25 (Shakespeare)
-- Sonnet 5 (Shakespeare)
-- Sonnet 54 (Shakespeare)
-- Sonnet 65 (Shakespeare)
-- Sonnet 68 (Shakespeare)
-- Sonnet 69 (Shakespeare)
-- Sonnet 70 (Shakespeare)
-- Sonnet 94 (Shakespeare)
-- Sonnet 98 (Shakespeare)
-- Sonnet 99 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_001|Sonnet 1 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_124|Sonnet 124 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_016|Sonnet 16 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_021|Sonnet 21 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_025|Sonnet 25 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_005|Sonnet 5 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_054|Sonnet 54 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_065|Sonnet 65 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_068|Sonnet 68 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_069|Sonnet 69 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_070|Sonnet 70 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_094|Sonnet 94 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_098|Sonnet 98 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_099|Sonnet 99 (Shakespeare)]]
 - [[works/the-two-noble-kinsmen-(shakespeare)|THE TWO NOBLE KINSMEN (Shakespeare)]]
 - [[works/the-winter’s-tale-(shakespeare)|THE WINTER’S TALE (Shakespeare)]]
 - [[works/various-poems-(shakespeare)|VARIOUS POEMS (Shakespeare)]]

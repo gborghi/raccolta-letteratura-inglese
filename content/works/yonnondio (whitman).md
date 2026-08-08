@@ -26,7 +26,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/ghosts|Ghosts]]
 **Themes & Concepts:** [[concepts/transience|Transience]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/elegy|Elegy]]

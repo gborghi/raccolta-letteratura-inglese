@@ -27,7 +27,7 @@ tags:
 **Motifs:** [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/comradeship|Comradeship]]
 **Forms & Genres:** [[forms/elegy|Elegy]]
-**Characters:** Abraham Lincoln
+**Characters:** [[characters/abraham-lincoln|Abraham Lincoln]]
 
 ## Testo integrale / Full text
 

@@ -132,7 +132,7 @@ Senza alcun [[concepts/doubt|dubbio]], ciò che ho già detto permetterà di com
 
 Il barone era uno di quegli esseri umani anomali che si incontrano di tanto in tanto…
 
-Possono essere trovati coloro che fanno della scienza della [[Mystification|misticizzazione]] lo studio principale delle loro ricerche.
+Possono essere trovati coloro che fanno della scienza della misticizzazione lo studio principale delle loro ricerche.
 
 L’attività principale della loro vita… Per questa scienza, è necessario un particolare modo di pensare.
 
@@ -319,7 +319,7 @@ Raggiunse la [[motifs/death|morte]]. Per Ritzner, che era sempre all’erta.
 
 [[concepts/grotesque|Grottesco]], le sue particolarità avevano, per molto tempo ormai, suscitato.
 
-Cibo per la [[Mystification|misteriosità]]. Tuttavia, di questo non ero a conoscenza.
+Cibo per la misteriosità. Tuttavia, di questo non ero a conoscenza.
 
 Anche se, in questo caso specifico, vidi chiaramente che qualcosa…
 
@@ -379,7 +379,7 @@ Visto da nessun altro al tavolo… Era splendente.
 
 Espressione enigmatico che costituiva il suo carattere naturale… ma che io…
 
-Non l'avevo mai visto assumere quella forma se non quando eravamo [[Alone|soli]] insieme.
+Non l'avevo mai visto assumere quella forma se non quando eravamo soli insieme.
 
 Quando si rilassò completamente… Un istante dopo era in piedi.
 
@@ -736,7 +736,7 @@ certain records extend) was more or less remarkable for talent of
 
 some description—the majority for that species of _grotesquerie_
 
-in conception of which Tieck, a scion of the [[house]], has given a
+in conception of which Tieck, a scion of the house, has given a
 
 vivid, although by no means the most vivid exemplifications. My
 
@@ -834,7 +834,7 @@ It will be perceived, no [[concepts/doubt|doubt]], from what I have already said
 
 that the Baron was one of those human anomalies now and then to
 
-be found, who make the science of [[Mystification|mystification]] the study and the
+be found, who make the science of mystification the study and the
 
 business of their lives. For this science a peculiar turn of mind
 
@@ -1020,7 +1020,7 @@ Senza alcun [[concepts/doubt|dubbio]], ciò che ho già detto permetterà di com
 
 Il barone era uno di quegli esseri umani anomali che si incontrano di tanto in tanto…
 
-Possono essere trovati coloro che fanno della scienza della [[Mystification|misticizzazione]] lo studio principale delle loro ricerche.
+Possono essere trovati coloro che fanno della scienza della misticizzazione lo studio principale delle loro ricerche.
 
 L’attività principale della loro vita… Per questa scienza, è necessario un particolare modo di pensare.
 
@@ -1117,7 +1117,7 @@ university. Nothing, at least, was done beyond eating and
 
 drinking and making merry. The apartments of the students were
 
-converted into so many pot-houses, and there was no pot-[[house]] of
+converted into so many pot-houses, and there was no pot-house of
 
 them all more famous or more frequented than that of the Baron.
 
@@ -1211,7 +1211,7 @@ rode to the [[motifs/death|death]]. To Ritzner, ever upon the lookout for the
 
 [[concepts/grotesque|grotesque]], his peculiarities had for a long [[motifs/time|time]] past afforded
 
-food for [[Mystification|mystification]]. Of this, however, I was not aware;
+food for mystification. Of this, however, I was not aware;
 
 although, in the present instance, I saw clearly that something
 
@@ -1269,7 +1269,7 @@ seen by no one else at the table. It was radiant with the
 
 quizzical expression which was its natural character, but which I
 
-had never seen it assume except when we were [[Alone|alone]] together, and
+had never seen it assume except when we were alone together, and
 
 when he unbent himself freely. In an instant afterward he stood
 
@@ -1401,7 +1401,7 @@ Raggiunse la [[motifs/death|morte]]. Per Ritzner, che era sempre all’erta.
 
 [[concepts/grotesque|Grottesco]], le sue particolarità avevano, per molto tempo ormai, suscitato.
 
-Cibo per la [[Mystification|misteriosità]]. Tuttavia, di questo non ero a conoscenza.
+Cibo per la misteriosità. Tuttavia, di questo non ero a conoscenza.
 
 Anche se, in questo caso specifico, vidi chiaramente che qualcosa…
 
@@ -1461,7 +1461,7 @@ Visto da nessun altro al tavolo… Era splendente.
 
 Espressione enigmatico che costituiva il suo carattere naturale… ma che io…
 
-Non l'avevo mai visto assumere quella forma se non quando eravamo [[Alone|soli]] insieme.
+Non l'avevo mai visto assumere quella forma se non quando eravamo soli insieme.
 
 Quando si rilassò completamente… Un istante dopo era in piedi.
 

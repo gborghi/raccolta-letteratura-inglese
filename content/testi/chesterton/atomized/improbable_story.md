@@ -104,7 +104,7 @@ e gli altri organi sono messi altrettanto male."
 
 «Corsi avanti e avanti, ormai alla cieca, oltrepassando tutte le botteghe e giungendo a un tratto della [[motifs/road|via]] dove v'era una lunga fila grigia di case private. Avevo, non so perché, l'irrazionale sensazione d'essere su un lungo ponte di ferro nello spazio vuoto. Un impulso mi afferrò, e sollevai la botola di ferro di una carbonaia. Guardando giù attraverso di essa vidi lo spazio vuoto e le stelle.
 
-«Quando alzai di nuovo lo sguardo, un uomo se ne stava nel suo [[motifs/garden|giardino]] antistante, essendo a quanto pareva uscito dalla sua [[house|casa]]; era appoggiato alla ringhiera e mi fissava. Eravamo tutti [[Alone|soli]] su quella [[motifs/road|strada]] da [[nightmare|incubo]]; il suo volto era nell'[[archetypes/shadow|ombra]]; il suo abito era scuro e comune; ma quando lo vidi star fermo così perfettamente, seppi in qualche modo che egli non era di questo mondo. E le [[motifs/stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto possano sopportare gli occhi degli uomini.
+«Quando alzai di nuovo lo sguardo, un uomo se ne stava nel suo [[motifs/garden|giardino]] antistante, essendo a quanto pareva uscito dalla sua casa; era appoggiato alla ringhiera e mi fissava. Eravamo tutti soli su quella [[motifs/road|strada]] da incubo; il suo volto era nell'[[archetypes/shadow|ombra]]; il suo abito era scuro e comune; ma quando lo vidi star fermo così perfettamente, seppi in qualche modo che egli non era di questo mondo. E le [[motifs/stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto possano sopportare gli occhi degli uomini.
 
 «"Se sei un angelo benigno", dissi, "o un diavolo saggio, o hai qualcosa in comune col genere umano, dimmi che cos'è questa strada posseduta dai demoni".
 
@@ -118,7 +118,7 @@ e gli altri organi sono messi altrettanto male."
 
 «"Sta andando in cielo per ottenere giustizia", rispose. «Devi averla trattata male. Ricòrdati sempre che c'è una cosa che nessuno e niente può sopportare. Quell'unica cosa insopportabile è essere sovraccaricati di lavoro e insieme trascurati. Per esempio, puoi sovraccaricare le donne di lavoro: lo fanno tutti. Ma non puoi trascurare le donne: ti sfido a farlo. Al [[motifs/time|tempo]] stesso, puoi trascurare i vagabondi e gli zingari e tutto l'apparente rifiuto dello Stato, purché non lo sovraccarichi di lavoro. Ma nessuna bestia dei campi, nessun [[motifs/horse|cavallo]], nessun cane può sopportare a lungo che gli si chieda di fare più del suo lavoro e insieme di avere meno del suo [[concepts/honour|onore]]. Lo stesso vale per le strade. Tu hai sfruttato questa strada fino alla [[motifs/death|morte]], eppure non ti sei mai ricordato della sua esistenza. Se tu avessi una sana [[concepts/democracy|democrazia]], anche solo di pagani, avrebbero adornato questa strada di ghirlande e le avrebbero dato il nome di un dio. Allora sarebbe andata via quieta. Ma almeno la strada si è stancata della tua instancabile insolenza; e s'impenna e leva il capo verso il cielo. Non sei mai stato in sella a un [[motifs/horse|cavallo]] che s'impenna?".
 
-«Guardai la lunga strada grigia, e per un momento mi parve esattamente simile al lungo collo grigio di un [[motifs/horse|cavallo]] lanciato verso il cielo. Ma in un attimo la mia [[Sanity|ragione]] ritornò, e dissi: "Ma questa è tutta un'assurdità. Le strade vanno al luogo dove devono andare. Una strada deve sempre giungere alla sua fine".
+«Guardai la lunga strada grigia, e per un momento mi parve esattamente simile al lungo collo grigio di un [[motifs/horse|cavallo]] lanciato verso il cielo. Ma in un attimo la mia ragione ritornò, e dissi: "Ma questa è tutta un'assurdità. Le strade vanno al luogo dove devono andare. Una strada deve sempre giungere alla sua fine".
 
 «"Perché la pensi così di una strada?", chiese, restando immobilissimo.
 
@@ -359,9 +359,9 @@ the iron trap of a coal-hole. Looking down through it I saw empty
 space and the stairs.
 
 "When I looked up again a man was standing in his
-front [[motifs/garden|garden]], having apparently come out of his [[house]];
+front [[motifs/garden|garden]], having apparently come out of his house;
 he was leaning over the railings and gazing at me.
-We were all [[Alone|alone]] on that [[nightmare]] [[motifs/road|road]]; his face was in [[archetypes/shadow|shadow]];
+We were all alone on that nightmare [[motifs/road|road]]; his face was in [[archetypes/shadow|shadow]];
 his dress was dark and ordinary; but when I saw him standing
 so perfectly still I knew somehow that he was not of this world.
 And the [[motifs/stars|stars]] behind his head were larger and fiercer than ought
@@ -401,7 +401,7 @@ its head to heaven.  Have you never sat on a bucking [[motifs/horse|horse]]?'
 
 "I looked at the long grey street, and for a moment it seemed to me
 to be exactly like the long grey neck of a [[motifs/horse|horse]] flung up to heaven.
-But in a moment my [[Sanity|sanity]] returned, and I said, ‘But this
+But in a moment my sanity returned, and I said, ‘But this
 is all nonsense.  Streets go to the place they have to go.
 A street must always go to its end.'
 
@@ -432,7 +432,7 @@ the restaurant withdrew.
 
 «Corsi avanti e avanti, ormai alla cieca, oltrepassando tutte le botteghe e giungendo a un tratto della [[motifs/road|via]] dove v'era una lunga fila grigia di case private. Avevo, non so perché, l'irrazionale sensazione d'essere su un lungo ponte di ferro nello spazio vuoto. Un impulso mi afferrò, e sollevai la botola di ferro di una carbonaia. Guardando giù attraverso di essa vidi lo spazio vuoto e le stelle.
 
-«Quando alzai di nuovo lo sguardo, un uomo se ne stava nel suo [[motifs/garden|giardino]] antistante, essendo a quanto pareva uscito dalla sua [[house|casa]]; era appoggiato alla ringhiera e mi fissava. Eravamo tutti [[Alone|soli]] su quella [[motifs/road|strada]] da [[nightmare|incubo]]; il suo volto era nell'[[archetypes/shadow|ombra]]; il suo abito era scuro e comune; ma quando lo vidi star fermo così perfettamente, seppi in qualche modo che egli non era di questo mondo. E le [[motifs/stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto possano sopportare gli occhi degli uomini.
+«Quando alzai di nuovo lo sguardo, un uomo se ne stava nel suo [[motifs/garden|giardino]] antistante, essendo a quanto pareva uscito dalla sua casa; era appoggiato alla ringhiera e mi fissava. Eravamo tutti soli su quella [[motifs/road|strada]] da incubo; il suo volto era nell'[[archetypes/shadow|ombra]]; il suo abito era scuro e comune; ma quando lo vidi star fermo così perfettamente, seppi in qualche modo che egli non era di questo mondo. E le [[motifs/stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto possano sopportare gli occhi degli uomini.
 
 «"Se sei un angelo benigno", dissi, "o un diavolo saggio, o hai qualcosa in comune col genere umano, dimmi che cos'è questa strada posseduta dai demoni".
 
@@ -446,7 +446,7 @@ the restaurant withdrew.
 
 «"Sta andando in cielo per ottenere giustizia", rispose. «Devi averla trattata male. Ricòrdati sempre che c'è una cosa che nessuno e niente può sopportare. Quell'unica cosa insopportabile è essere sovraccaricati di lavoro e insieme trascurati. Per esempio, puoi sovraccaricare le donne di lavoro: lo fanno tutti. Ma non puoi trascurare le donne: ti sfido a farlo. Al [[motifs/time|tempo]] stesso, puoi trascurare i vagabondi e gli zingari e tutto l'apparente rifiuto dello Stato, purché non lo sovraccarichi di lavoro. Ma nessuna bestia dei campi, nessun [[motifs/horse|cavallo]], nessun cane può sopportare a lungo che gli si chieda di fare più del suo lavoro e insieme di avere meno del suo [[concepts/honour|onore]]. Lo stesso vale per le strade. Tu hai sfruttato questa strada fino alla [[motifs/death|morte]], eppure non ti sei mai ricordato della sua esistenza. Se tu avessi una sana [[concepts/democracy|democrazia]], anche solo di pagani, avrebbero adornato questa strada di ghirlande e le avrebbero dato il nome di un dio. Allora sarebbe andata via quieta. Ma almeno la strada si è stancata della tua instancabile insolenza; e s'impenna e leva il capo verso il cielo. Non sei mai stato in sella a un [[motifs/horse|cavallo]] che s'impenna?".
 
-«Guardai la lunga strada grigia, e per un momento mi parve esattamente simile al lungo collo grigio di un [[motifs/horse|cavallo]] lanciato verso il cielo. Ma in un attimo la mia [[Sanity|ragione]] ritornò, e dissi: "Ma questa è tutta un'assurdità. Le strade vanno al luogo dove devono andare. Una strada deve sempre giungere alla sua fine".
+«Guardai la lunga strada grigia, e per un momento mi parve esattamente simile al lungo collo grigio di un [[motifs/horse|cavallo]] lanciato verso il cielo. Ma in un attimo la mia ragione ritornò, e dissi: "Ma questa è tutta un'assurdità. Le strade vanno al luogo dove devono andare. Una strada deve sempre giungere alla sua fine".
 
 «"Perché la pensi così di una strada?", chiese, restando immobilissimo.
 

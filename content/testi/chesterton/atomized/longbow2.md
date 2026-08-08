@@ -26,7 +26,7 @@ http://www.pobox.com/~Jim.Henry/etext/
 Contents
 
 I.    The Unpresentable Appearance of Colonel Crane
-II.   The Improbable [[success|Success]] of Mr. Owen Hood
+II.   The Improbable Success of Mr. Owen Hood
 III.  The Unobtrusive Traffic of Captain Pierce
 IV.   The Elusive Companion of Parson White
 V.    The Exclusive Luxury of Enoch Oates
@@ -66,7 +66,7 @@ to church.  And the man was a very respectable retired military
 man named Colonel Crane, who was also going to church, as he had
 done every [[characters/sunday|Sunday]] at the same hour for a long stretch of years. 
 There was no obvious difference between him and his neighbours,
-except that he was a little less obvious.  His [[house]] was only called
+except that he was a little less obvious.  His house was only called
 White Lodge, and was, therefore, less alluring to the romantic
 passer-by than Rowanmere on the one side or Heatherbrae on the other. 
 He turned out spick and span for church as if for parade; but he
@@ -99,9 +99,9 @@ at breakfast, and it evidently called for some practical problem calling
 for immediate solution.  He stood a few minutes with his eye riveted
 on a red daisy at the corner of the nearest flower-bed; and then
 a new expression began to work in the muscles of his bronzed face,
-giving a slightly grim hint of [[Humour|humour]], of which few except his
+giving a slightly grim hint of humour, of which few except his
 intimates were aware.  Folding up the paper and putting it into his
-waistcoat pocket, he strolled round the [[house]] to the back [[motifs/garden|garden]],
+waistcoat pocket, he strolled round the house to the back [[motifs/garden|garden]],
 behind which was the kitchen-[[motifs/garden|garden]], in which an old servant, a sort
 of factotum or handy-man, named Archer, was acting as kitchen-gardener.
 
@@ -136,7 +136,7 @@ to you about cabbages."
 
 But the Colonel did not appear to pursue the topic, for he was gazing
 in sudden abstraction at another object in the vegetable plots in front
-of him.  The Colonel's [[motifs/garden|garden]], like the Colonel's [[house]], hat, coat,
+of him.  The Colonel's [[motifs/garden|garden]], like the Colonel's house, hat, coat,
 and demeanour, was [[motifs/well|well]]-appointed in an unobtrusive fashion; and in
 the part of it devoted to [[motifs/flowers|flowers]] there dwelt something indefinable
 that seemed older that the suburbs.  The hedges, even, in being
@@ -197,7 +197,7 @@ rispettabilissimo militare in congedo di nome colonnello Crane,
 che anch'egli si recava in chiesa, come aveva fatto ogni [[characters/sunday|domenica]]
 alla stessa ora per una lunga serie d'anni. Non vi era differenza
 evidente tra lui e i suoi vicini, salvo che egli era un po' meno
-evidente. La sua [[house|casa]] si chiamava soltanto White Lodge, ed era
+evidente. La sua casa si chiamava soltanto White Lodge, ed era
 perciò meno allettante per il passante romantico di Rowanmere da un
 lato o Heatherbrae dall'altro. Si presentava lindo e azzimato per
 la chiesa come per una parata; ma era troppo [[motifs/well|ben]] vestito per essere
@@ -232,9 +232,9 @@ evidentemente poneva un qualche problema pratico che esigeva
 immediata soluzione. Rimase alcuni minuti con l'occhio inchiodato su
 una margherita rossa all'angolo dell'aiuola più vicina; e poi una
 nuova espressione cominciò a muoversi nei muscoli del suo volto
-abbronzato, dando un cenno lievemente arcigno di [[Humour|umorismo]], di cui
+abbronzato, dando un cenno lievemente arcigno di umorismo, di cui
 pochi, tranne i suoi intimi, erano consapevoli. Ripiegato il foglio
-e cacciatolo nel taschino del panciotto, girò intorno alla [[house|casa]]
+e cacciatolo nel taschino del panciotto, girò intorno alla casa
 fino al [[motifs/garden|giardino]] posteriore, dietro il quale c'era l'[[motifs/garden|orto]], dove un
 vecchio domestico, una sorta di factotum o tuttofare di nome Archer,
 faceva da ortolano.
@@ -272,7 +272,7 @@ cavoli.»
 Ma il colonnello non parve dar seguito all'argomento, poiché stava
 fissando in un'improvvisa astrazione un altro oggetto negli
 appezzamenti di ortaggi davanti a sé. Il [[motifs/garden|giardino]] del colonnello, come
-la [[house|casa]] del colonnello, il cappello, il cappotto e il contegno, era
+la casa del colonnello, il cappello, il cappotto e il contegno, era
 [[motifs/well|ben]] tenuto in un modo discreto; e nella parte di esso dedicata ai
 [[motifs/flowers|fiori]] dimorava qualcosa d'indefinibile che pareva più antico dei
 sobborghi. Le siepi stesse, pur essendo nette come quelle di
@@ -314,7 +314,7 @@ a new hat?"
 "I should hardly think it would be necessary, sir," said the
 gardener gravely.
 
-"But look here," said the Colonel, "you must consider the [[philosophy]]
+"But look here," said the Colonel, "you must consider the philosophy
 of scarecrows.  In theory, that is supposed to convince some rather
 simple-minded bird that I am walking in my [[motifs/garden|garden]].  That thing
 with the unmentionable hat is Me.  A trifle sketchy, perhaps. 
@@ -395,7 +395,7 @@ The people going to church certainly looked at it; but they did not
 look at it in the abstract.  To them it appeared singularly concrete;
 and indeed incredibly solid.  The inhabitants of Rowanmere and
 Heatherbrae followed the Colonel as he strode almost jauntily up
-the [[motifs/road|road]], with feelings that no [[philosophy]] could for the moment meet. 
+the [[motifs/road|road]], with feelings that no philosophy could for the moment meet. 
 There seemed to be nothing to be said, except that one of the most
 respectable and respected of their neighbours, one who might even
 be called in a quiet way a pattern of good form if not a leader
@@ -409,12 +409,12 @@ and they were not of the sort to throw cabbage-stalks at the cabbage.
 Perhaps there was just that amount of [[concepts/truth|truth]] in the pathetically
 picturesque names on their front gates, names suggestive of
 [[settings/mountains|mountains]] and mighty lakes concealed somewhere on the premises. 
-It was true that in one sense such a [[house]] was a hermitage. 
-Each of these men lived [[Alone|alone]] and they could not be made into a mob. 
-For miles around there was not public [[house]] and no public opinion.
+It was true that in one sense such a house was a hermitage. 
+Each of these men lived alone and they could not be made into a mob. 
+For miles around there was not public house and no public opinion.
 
 As the Colonel approached the church porch and prepared reverently to remove
-his [[vegetarian]] headgear, he was hailed in a tone a little more hearty
+his vegetarian headgear, he was hailed in a tone a little more hearty
 than the humane civility that was the slender bond of that society. 
 He returned the greeting without embarrassment, and paused a moment
 as the man who had spoken to him plunged into further speech. 
@@ -440,7 +440,7 @@ voglia un cappello nuovo?»
 giardiniere.
 
 «Ma senti un po'», disse il colonnello, «devi considerare la
-[[philosophy|filosofia]] degli spaventapasseri. In teoria, quel coso dovrebbe
+filosofia degli spaventapasseri. In teoria, quel coso dovrebbe
 convincere qualche uccello piuttosto sempliciotto che io stia
 passeggiando nel mio [[motifs/garden|giardino]]. Quella cosa con il cappello
 innominabile sono Io. Un tantino abbozzato, forse. Una specie di
@@ -525,7 +525,7 @@ La gente che andava in chiesa certamente lo guardò; ma non lo guardò
 in astratto. Ai loro occhi appariva singolarmente concreto; e in
 verità incredibilmente solido. Gli abitanti di Rowanmere e Heatherbrae
 seguirono il colonnello mentre saliva quasi baldanzosamente lungo la
-[[motifs/road|strada]], con sentimenti che nessuna [[philosophy|filosofia]] poteva per il momento
+[[motifs/road|strada]], con sentimenti che nessuna filosofia poteva per il momento
 soddisfare. Sembrava non vi fosse nulla da dire, salvo che uno dei
 più rispettabili e rispettati dei loro vicini, uno che avrebbe
 potuto essere definito, in modo sommesso, un modello di buone
@@ -540,12 +540,12 @@ tipo da scagliare torsoli di cavolo contro il cavolo. Forse c'era
 proprio quel tanto di [[concepts/truth|verità]] nei nomi pateticamente pittoreschi sui
 loro cancelli, nomi che evocavano [[settings/mountains|montagne]] e possenti laghi celati
 in qualche punto della proprietà. Era vero che, in un certo senso,
-una simile [[house|casa]] era un eremo. Ciascuno di questi uomini viveva [[Alone|solo]]
+una simile casa era un eremo. Ciascuno di questi uomini viveva solo
 e non potevano essere trasformati in una plebaglia. Per miglia
 all'intorno non c'era né osteria né opinione pubblica.
 
 Mentre il colonnello si avvicinava al portico della chiesa e si
-preparava a togliersi con reverenza il suo [[vegetarian|vegetariano]] copricapo, fu
+preparava a togliersi con reverenza il suo vegetariano copricapo, fu
 salutato in un tono un po' più cordiale della umana cortesia che era
 l'esile legame di quella società. Ricambiò il saluto senza imbarazzo,
 e s'arrestò un istante mentre l'uomo che gli aveva parlato si
@@ -591,7 +591,7 @@ and the doctor had deduced that it was a sort of family joke and
 not a momentary ornithological confusion.  And it was the Duchess
 who had started all that racing on stilts, which the Vernon-Smiths
 had introduced at Heatherbrae.  But it would have been devilish
-awkward not to have known what Mrs. Vernon-[[smith|Smith]] meant when she said,
+awkward not to have known what Mrs. Vernon-Smith meant when she said,
 "Of course you stilt."  You never knew what they would start next. 
 He remembered how he himself had thought the first man in a soft
 shirt-front was some funny fellow from nowhere; and then he had begun
@@ -628,7 +628,7 @@ and with the interruption the explanation.
 The Colonel had every appearance of having forgotten all about
 the hat.  He took it off and on like any other hat; he hung it
 on the hat-peg in his narrow front hall where there was nothing
-else but his [[Sword|sword]] hung on two hooks and an old brown map of
+else but his sword hung on two hooks and an old brown map of
 the seventeenth century.  He handed it to Archer when that correct
 character seemed to insist on his official right to hold it;
 he did not insist on his official right to brush it, for [[concepts/fear|fear]] it
@@ -641,7 +641,7 @@ It is probable, therefore, that what ultimately took place was as
 much of a surprise to him as to anybody.  Anyhow, the explanation,
 or explosion, came in the following fashion.
 
-Mr. Vernon-[[smith|Smith]], the mountaineer whose foot was on his native heath
+Mr. Vernon-Smith, the mountaineer whose foot was on his native heath
 at Heatherbrae, was a small, dapper gentleman which a big-bridged nose,
 dark moustache, and dark eyes with a settled expression of anxiety,
 though nobody knew what there was to be anxious about in his very solid
@@ -649,17 +649,17 @@ social existence.  He was a friend of Dr. Hunter; one might almost
 say a humble friend.  For he had the negative snobbishness that could
 only admire the positive and progressive snobbishness of that soaring
 and social figure.  A man like Dr. Hunter likes to have a man like
-Mr. [[smith|Smith]], before whom he can pose as a perfect man of the world. 
-What appears more extraordinary, a man like Mr. [[smith|Smith]] really likes
+Mr. Smith, before whom he can pose as a perfect man of the world. 
+What appears more extraordinary, a man like Mr. Smith really likes
 to have a man like Dr. Hunter to pose at him and swagger over him
-and snub him.  Anyhow, Vernon-[[smith|Smith]] had ventured to hint that the new
+and snub him.  Anyhow, Vernon-Smith had ventured to hint that the new
 hat of his neighbour Crane was not of a pattern familiar in every
 fashion-plate. And Dr. Hunter, bursting with the secret of his own
 original diplomacy, had snubbed the suggestion and snowed it under
 with frosty scorn.  With shrewd, resolute gestures, with large
 allusive phrases, he had left on his friend's mind the impression
 that the whole social world would dissolve if a word were said
-on so delicate a topic.  Mr. Vernon-[[smith|Smith]] formed a general idea
+on so delicate a topic.  Mr. Vernon-Smith formed a general idea
 that the Colonel would explode with a loud bang at the very vaguest
 allusion to vegetables, or the most harmless adumbration or verbal
 [[archetypes/shadow|shadow]] of a hat.  As usually happens in such cases, the words he
@@ -695,9 +695,9 @@ Duchessa quando aveva inaugurato il Bazar aveva fatto un cenno a
 Crane e detto: «Salve, Cicogna», e il dottore ne aveva dedotto che
 si trattava di una sorta di scherzo di famiglia e non di una
 momentanea confusione ornitologica. Ed era stata la Duchessa a dar
-via a tutte quelle corse sui trampoli, che i Vernon-[[smith|Smith]] avevano
+via a tutte quelle corse sui trampoli, che i Vernon-Smith avevano
 introdotto a Heatherbrae. Ma sarebbe stato maledettamente imbarazzante
-non aver saputo cosa intendesse la signora Vernon-[[smith|Smith]] quando disse:
+non aver saputo cosa intendesse la signora Vernon-Smith quando disse:
 «Naturalmente lei fa i trampoli.» Non si sapeva mai cosa avrebbero
 inventato dopo. Ricordava come lui stesso avesse pensato che il primo
 uomo in camicia morbida fosse un tipo bizzarro venuto dal nulla; e
@@ -735,7 +735,7 @@ l'interruzione la spiegazione.
 Il colonnello aveva tutta l'apparenza d'aver dimenticato del tutto il
 cappello. Se lo toglieva e se lo metteva come qualsiasi altro
 cappello; lo appendeva all'attaccapanni nel suo stretto ingresso,
-dove non c'era altro che la sua [[Sword|spada]] appesa a due ganci e una
+dove non c'era altro che la sua spada appesa a due ganci e una
 vecchia mappa bruna del diciassettesimo secolo. Lo porgeva ad Archer
 quando quel corretto personaggio pareva insistere sul suo diritto
 ufficiale di reggerlo; non insisteva sul suo diritto ufficiale di
@@ -748,7 +748,7 @@ violare. È probabile, dunque, che ciò che alla fine accadde fosse una
 sorpresa per lui non meno che per chiunque altro. Comunque sia, la
 spiegazione, o esplosione, venne nel modo seguente.
 
-Il signor Vernon-[[smith|Smith]], l'alpinista il cui piede posava sulla propria
+Il signor Vernon-Smith, l'alpinista il cui piede posava sulla propria
 brughiera natia a Heatherbrae, era un ometto azzimato dal naso dal
 grosso dorso, baffi scuri e occhi scuri con una fissa espressione
 d'ansia, benché nessuno sapesse cosa ci fosse da temere nella sua
@@ -756,11 +756,11 @@ solidissima esistenza sociale. Era amico del dottor Hunter; si
 potrebbe quasi dire un umile amico. Poiché aveva quello snobismo
 negativo che poteva soltanto ammirare lo snobismo positivo e
 progressivo di quella figura svettante e mondana. Un uomo come il
-dottor Hunter ama avere un uomo come il signor [[smith|Smith]], davanti al
+dottor Hunter ama avere un uomo come il signor Smith, davanti al
 quale poter posare da perfetto uomo di mondo. Ciò che appare più
-straordinario, un uomo come il signor [[smith|Smith]] ama davvero avere un uomo
+straordinario, un uomo come il signor Smith ama davvero avere un uomo
 come il dottor Hunter che posa dinanzi a lui e si pavoneggia su di
-lui e lo tratta con sussiego. Comunque sia, Vernon-[[smith|Smith]] si era
+lui e lo tratta con sussiego. Comunque sia, Vernon-Smith si era
 azzardato a insinuare che il nuovo cappello del suo vicino Crane non
 fosse di un modello familiare in ogni figurino. E il dottor Hunter,
 scoppiando col segreto della propria originale diplomazia, aveva
@@ -768,7 +768,7 @@ respinto l'insinuazione e l'aveva sepolta sotto un gelido disprezzo.
 Con gesti scaltri e risoluti, con ampie frasi allusive, aveva
 lasciato nella mente dell'amico l'impressione che l'intero mondo
 sociale si sarebbe dissolto se una parola fosse stata detta su un
-argomento così delicato. Il signor Vernon-[[smith|Smith]] si fece l'idea
+argomento così delicato. Il signor Vernon-Smith si fece l'idea
 generale che il colonnello sarebbe esploso con un forte scoppio alla
 più vaga allusione agli ortaggi, o alla più innocua adombratura o
 verbale [[archetypes/shadow|ombra]] di un cappello. Come di solito accade in questi casi,
@@ -783,7 +783,7 @@ ortaggi tutti i visitatori.
 
 
 When Crane came out of his front gate that morning he found his
-neighbour Vernon-[[smith|Smith]] standing outside, between the spreading
+neighbour Vernon-Smith standing outside, between the spreading
 laburnum and the lamp-post, talking to a young lady, a distant
 cousin of his family.  This girl was an art student on her own--
 a little too much on her own for the standards of Heatherbrae, and,
@@ -797,8 +797,8 @@ had often heard it calling out scores at tennis on the other side
 of the [[motifs/garden|garden]] wall.  In some vague sort of way it made him feel old;
 at least, he was not sure whether he felt older than he was,
 or younger than he ought to be.  It was not until they met under
-the lamp-post that he knew her name was Audrey [[smith|Smith]]; and he was
-faintly thankful for the single monosyllable.  Mr. Vernon-[[smith|Smith]]
+the lamp-post that he knew her name was Audrey Smith; and he was
+faintly thankful for the single monosyllable.  Mr. Vernon-Smith
 presented her, and very nearly said:  "May I introduce my cabbage?"
 instead of "my cousin."
 
@@ -818,7 +818,7 @@ she thinks she's going to be an R.A."
 much more honest than most of the R.A.'s."
 
 "I wish those friends of yours didn't give you such revolutionary
-ideas," said Mr. Vernon-[[smith|Smith]]. "My cousin knows the most
+ideas," said Mr. Vernon-Smith. "My cousin knows the most
 dreadful cranks, vegetarians and--and Socialists."  He chanced it,
 feeling that vegetarians were not quite the same as vegetables;
 and he felt sure the Colonel would share his horror of Socialists. 
@@ -836,7 +836,7 @@ and said in her clear and ringing tones:
 
 "As mad as Colonel Crane's hatter."
 
-It is not unjust to Mr. Vernon-[[smith|Smith]] to say that he fled as from
+It is not unjust to Mr. Vernon-Smith to say that he fled as from
 a dynamite explosion.  It would be unjust to say that he deserted
 a lady in distress, for she did not look in the least like a
 distressed lady, and he himself was a very distressed gentleman. 
@@ -856,7 +856,7 @@ about this town for a week, feeling like the last [[archetypes/fool|fool]] in cr
 and expecting somebody to say something.  And not a [[motifs/soul|soul]] has said
 a word.  They all seem to be afraid of saying the wrong thing."
 
-"I think they're deadly," observed Miss [[smith|Smith]].  "And if they
+"I think they're deadly," observed Miss Smith.  "And if they
 don't have cabbages for hats, it's only because they have turnips
 for heads."
 
@@ -884,7 +884,7 @@ There went with it a sort of warmth and a sense of crisis that he had
 not known since the war.  A sudden purpose formed itself in his mind,
 and he spoke like one stepping across a frontier.
 
-"Miss [[smith|Smith]]," he said, "I [[concepts/wonder|wonder]] if I might ask you to pay me
+"Miss Smith," he said, "I [[concepts/wonder|wonder]] if I might ask you to pay me
 a further compliment.  It may be unconventional, but I believe you
 do not stand on these conventions.  An old friend of mine will
 be calling on me shortly, to [[motifs/wind|wind]] up the rather unusual business
@@ -900,7 +900,7 @@ the real reason.  I might even say I promise you shall SEE the real reason."
 <span class="qlang-split" data-lang="it"></span>
 
 Quando quella mattina Crane uscì dal cancello di casa trovò il suo
-vicino Vernon-[[smith|Smith]] ritto fuori, tra il maggiociondolo espanso e il
+vicino Vernon-Smith ritto fuori, tra il maggiociondolo espanso e il
 lampione, a parlare con una giovane signora, una lontana cugina della
 sua famiglia. Questa ragazza era una studentessa d'arte che faceva da
 sé--un po' troppo da sé per gli standard di Heatherbrae, e perciò
@@ -915,8 +915,8 @@ dall'altro lato del muro del [[motifs/garden|giardino]]. In qualche modo vago ci
 faceva sentire vecchio; o almeno, non era certo se si sentisse più
 vecchio di quanto fosse, o più giovane di quanto avrebbe dovuto.
 Fu solo quando s'incontrarono sotto il lampione che seppe che il suo
-nome era Audrey [[smith|Smith]]; e fu debolmente grato di quell'unico
-monosillabo. Il signor Vernon-[[smith|Smith]] la presentò, e per poco non
+nome era Audrey Smith; e fu debolmente grato di quell'unico
+monosillabo. Il signor Vernon-Smith la presentò, e per poco non
 disse: «Posso presentarle il mio cavolo?» invece di «mia cugina.»
 
 Il colonnello, con schietta ottusità, disse che era una bella
@@ -937,7 +937,7 @@ sono assai più onesti della maggior parte dei membri della Royal
 Academy.»
 
 «Vorrei che quei tuoi amici non ti mettessero in testa idee così
-rivoluzionarie», disse il signor Vernon-[[smith|Smith]]. «Mia cugina conosce i
+rivoluzionarie», disse il signor Vernon-Smith. «Mia cugina conosce i
 più terribili esaltati, vegetariani e--e Socialisti.» Si arrischiò,
 sentendo che i vegetariani non erano proprio la stessa cosa degli
 ortaggi; ed era certo che il colonnello avrebbe condiviso il suo
@@ -956,7 +956,7 @@ squillanti:
 
 «Matto come il cappellaio del colonnello Crane.»
 
-Non è ingiusto verso il signor Vernon-[[smith|Smith]] dire che fuggì come da
+Non è ingiusto verso il signor Vernon-Smith dire che fuggì come da
 un'esplosione di dinamite. Sarebbe ingiusto dire che abbandonò una
 dama in pericolo, poiché lei non aveva affatto l'aria di una dama in
 pericolo, mentre lui era un signore assai in pericolo. Tentò di farla
@@ -977,7 +977,7 @@ girato per questa città per una settimana, sentendomi come l'ultimo
 non un'[[motifs/soul|anima]] ha detto una parola. Sembrano tutti aver paura di dire
 la cosa sbagliata.»
 
-«Li trovo mortiferi», osservò la signorina [[smith|Smith]]. «E se non hanno
+«Li trovo mortiferi», osservò la signorina Smith. «E se non hanno
 cavoli per cappelli, è solo perché hanno rape per teste.»
 
 «No», disse il colonnello con dolcezza; «ho qui molti vicini generosi
@@ -1006,7 +1006,7 @@ Vi si accompagnava una sorta di calore e un senso di crisi che non
 provava dai tempi della guerra. Un improvviso proposito prese forma
 nella sua mente, ed egli parlò come chi varca una frontiera.
 
-«Signorina [[smith|Smith]]», disse, «mi [[concepts/wonder|domando]] se potrei chiederle di
+«Signorina Smith», disse, «mi [[concepts/wonder|domando]] se potrei chiederle di
 concedermi un ulteriore favore. Forse è anticonvenzionale, ma credo
 che lei non si tenga a queste convenzioni. Un mio vecchio amico verrà
 presto a farmi visita, per [[motifs/wind|concludere]] la faccenda o cerimonia
@@ -1027,7 +1027,7 @@ The Colonel took an intense interest in the appointments of the
 luncheon next day.  With subconscious surprise he found himself
 not only interested, but excited.  Like many of his type, he took
 a pleasure in doing such things [[motifs/well|well]], and knew his way about in wine
-and cookery.  But that would not [[Alone|alone]] explain his pleasure. 
+and cookery.  But that would not alone explain his pleasure. 
 For he knew that young women generally know very little about wine,
 and emancipated young women possibly least of all.  And though he
 meant the cookery to be good, he knew that in one feature it would
@@ -1047,7 +1047,7 @@ but he had never realized how much there was of what was dried
 and faded about his flippancy, till he felt unexpectedly swelling
 within him the monstrous and solemn [[concepts/vanity|vanity]] of a young man. 
 Sometimes he looked up at the picturesque, the too picturesque,
-outline of the [[house]] next door, dark against the moonrise, and thought
+outline of the house next door, dark against the moonrise, and thought
 he heard faint voices in it, and something like a laugh.
 
 The visitor who called on the Colonel next morning may have been
@@ -1070,7 +1070,7 @@ The irises round the pool were swinging and flapping in a light breeze;
 and he remembered they were called "flags" and thought of purple
 banners going into battle.
 
-She had come suddenly round the corner of the [[house]].  Her dress was
+She had come suddenly round the corner of the house.  Her dress was
 of a dark but vivid blue, very plain and angular in outline, but not
 outrageously artistic; and in the morning light she looked less like
 a schoolgirl and more like a serious woman of twenty-five or thirty;
@@ -1080,20 +1080,20 @@ One single wave of thanksgiving went up from Crane to think that at
 least his [[concepts/grotesque|grotesque]] green hat was gone and done with for ever. 
 He had worn it for a week without caring a curse for anybody;
 but during that ten minutes' trivial talk under the lamp-post, he
-felt as if he had suddenly grown [[donkey]]'s ears in the street.
+felt as if he had suddenly grown donkey's ears in the street.
 
 He had been induced by the sunny weather to have a little
 table laid for three in a sort of veranda open to the [[motifs/garden|garden]]. 
 When the three sat down to it, he looked across at the lady and said: 
 "I [[concepts/fear|fear]] I must exhibit myself as a crank; one of those cranks your
-cousin disapproves of, Miss [[smith|Smith]].  I [[concepts/hope|hope]] it won't spoil this little
-lunch than for anybody else.  But I am going to have a [[vegetarian]] meal."
+cousin disapproves of, Miss Smith.  I [[concepts/hope|hope]] it won't spoil this little
+lunch than for anybody else.  But I am going to have a vegetarian meal."
 
 "Are you?" she said.  "I should never have said you looked like
-a [[vegetarian]]."
+a vegetarian."
 
 "Just lately I have only looked like a [[archetypes/fool|fool]]," he said dispassionately;
-"but I think I'd sooner look a [[archetypes/fool|fool]] than a [[vegetarian]] in the
+"but I think I'd sooner look a [[archetypes/fool|fool]] than a vegetarian in the
 ordinary way.  This is rather a special occasion.  Perhaps my
 friend Hood had better begin; it's really his story more than mine."
 
@@ -1102,7 +1102,7 @@ friend Hood had better begin; it's really his story more than mine."
 now is that my old friend here insulted me horribly by calling
 me [[characters/robin-hood|Robin Hood]]."
 
-"I should have called it a compliment," answered Audrey [[smith|Smith]]. 
+"I should have called it a compliment," answered Audrey Smith. 
 "Buy why did he call you [[characters/robin-hood|Robin Hood]]?"
 
 "Because I drew the long bow," said the lawyer.
@@ -1147,7 +1147,7 @@ Il colonnello prese un vivo interesse nei preparativi del pranzo del
 giorno seguente. Con subconscia sorpresa si scoprì non solo
 interessato, ma eccitato. Come molti del suo tipo, provava piacere a
 far bene tali cose, e se ne intendeva di vini e di cucina. Ma ciò
-non basterebbe da [[Alone|solo]] a spiegare il suo piacere. Poiché sapeva che
+non basterebbe da solo a spiegare il suo piacere. Poiché sapeva che
 le giovani donne di solito sanno assai poco di vini, e le giovani
 donne emancipate forse meno di tutte. E benché intendesse che la
 cucina fosse buona, sapeva che in un particolare sarebbe apparsa
@@ -1167,7 +1167,7 @@ di quarant'anni; ma non aveva mai capito quanto ci fosse di appassito
 e sbiadito nella sua frivolezza, finché non sentì gonfiarsi
 inaspettatamente dentro di sé la mostruosa e solenne [[concepts/vanity|vanità]] di un
 giovane. A volte alzava lo sguardo verso il pittoresco, troppo
-pittoresco, profilo della [[house|casa]] accanto, scura contro il sorgere della
+pittoresco, profilo della casa accanto, scura contro il sorgere della
 luna, e credeva di udirvi deboli voci, e qualcosa come una risata.
 
 Il visitatore che fece visita al colonnello la mattina seguente
@@ -1191,7 +1191,7 @@ cappello nuovo. Gli iris intorno allo stagno oscillavano e
 sventolavano in una lieve brezza; ed egli ricordò che li chiamavano
 «bandiere» e pensò a purpurei vessilli che andavano in battaglia.
 
-Lei era comparsa d'improvviso dietro l'angolo della [[house|casa]]. Il suo
+Lei era comparsa d'improvviso dietro l'angolo della casa. Il suo
 abito era di un azzurro cupo ma vivido, assai semplice e squadrato di
 linea, ma non oltraggiosamente artistico; e nella luce del mattino
 appariva meno come una scolaretta e più come una donna seria di
@@ -1202,21 +1202,21 @@ pensiero che almeno il suo [[concepts/grotesque|grottesco]] cappello verde era s
 finito per sempre. L'aveva portato per una settimana senza curarsi un
 accidente di nessuno; ma durante quei dieci minuti di banale
 conversazione sotto il lampione, si era sentito come se gli fossero
-d'un tratto cresciute le orecchie d'[[donkey|asino]] in mezzo alla strada.
+d'un tratto cresciute le orecchie d'asino in mezzo alla strada.
 
 Il tempo soleggiato l'aveva indotto a far apparecchiare una piccola
 tavola per tre in una specie di veranda aperta sul [[motifs/garden|giardino]]. Quando i
 tre vi si sedettero, egli guardò la signora e disse: «[[concepts/fear|Temo]] di dovermi
 mostrare come un esaltato; uno di quegli esaltati che suo cugino
-disapprova, signorina [[smith|Smith]]. [[concepts/hope|Spero]] che ciò non rovinerà questo
-pranzetto a nessun altro. Ma sto per consumare un pasto [[vegetarian|vegetariano]].»
+disapprova, signorina Smith. [[concepts/hope|Spero]] che ciò non rovinerà questo
+pranzetto a nessun altro. Ma sto per consumare un pasto vegetariano.»
 
 «Davvero?» disse lei. «Non avrei mai detto che avesse l'aria di un
-[[vegetarian|vegetariano]].»
+vegetariano.»
 
 «Di recente ho avuto soltanto l'aria di un [[archetypes/fool|folle]]», disse
 impassibile; «ma credo che preferirei aver l'aria di un [[archetypes/fool|folle]] che di
-un [[vegetarian|vegetariano]], nel senso ordinario. Questa è piuttosto
+un vegetariano, nel senso ordinario. Questa è piuttosto
 un'occasione speciale. Forse è meglio che il mio amico Hood cominci;
 la storia è più sua che mia.»
 
@@ -1225,7 +1225,7 @@ sardonicamente. «È così che spesso cominciano le rimembranze
 inverosimili; ma l'unico punto ora è che il mio vecchio amico qui
 presente mi ha orribilmente insultato chiamandomi [[characters/robin-hood|Robin Hood]].»
 
-«L'avrei chiamato un complimento», rispose Audrey [[smith|Smith]]. «Ma perché
+«L'avrei chiamato un complimento», rispose Audrey Smith. «Ma perché
 la chiamò [[characters/robin-hood|Robin Hood]]?»
 
 «Perché tiravo di lungo l'arco», disse l'avvocato.
@@ -2120,7 +2120,7 @@ or the whale that swallowed Jonah, or even the great sea-serpent,
 his expressions would have been merely symbolical.  But they would
 have been the symbol of something as unique and [[concepts/unattainable|unattainable]]. 
 For Mr. Owen Hood was really fishing for something that very few
-fishermen ever catch; and that was [[A Dream|a dream]] of his boyhood,
+fishermen ever catch; and that was a dream of his boyhood,
 and something that had happened on that lonely spot long ago.
 
 Years before, when he was a very young man, he had sat fishing
@@ -2199,7 +2199,7 @@ which was written in enormous letters:  "To Be Sold," with remarks
 in smaller letters about the land and the name of the land agents. 
 For the first [[motifs/time|time]] for years Owen Hood stood up in his place
 and left his fishing, and shouted questions across the [[motifs/river|river]]. 
-The man answered with the greatest patience and good-[[Humour|humour]];
+The man answered with the greatest patience and good-humour;
 but it is probable that he went away convinced that he had been
 talking to a wandering lunatic.
 
@@ -2235,7 +2235,7 @@ le sue espressioni sarebbero state meramente simboliche. Ma sarebbero
 state il simbolo di qualcosa di altrettanto unico e
 [[concepts/unattainable|irraggiungibile]]. Poiché il signor Owen Hood pescava
 in realtà qualcosa che pochissimi pescatori prendono mai; e cioè
-[[A Dream|un sogno]] della sua fanciullezza, e qualcosa che era
+un sogno della sua fanciullezza, e qualcosa che era
 accaduto in quel luogo solitario molto tempo prima.
 
 Anni prima, quando era ancora molto giovane, se ne stava a pescare su
@@ -2318,7 +2318,7 @@ annotazioni in caratteri più piccoli riguardo al terreno e il nome
 degli agenti immobiliari. Per la prima [[motifs/time|volta]] da anni Owen Hood
 si alzò in piedi dal suo posto e abbandonò la pesca, e gridò domande
 attraverso il [[motifs/river|fiume]]. L'uomo rispose con la più grande pazienza
-e buon[[Humour|umore]]; ma è probabile che se ne andasse convinto di
+e buonumore; ma è probabile che se ne andasse convinto di
 aver parlato con un lunatico errante.
 
 
@@ -2326,10 +2326,10 @@ aver parlato con un lunatico errante.
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="Tales of the Long Bow — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/childhood,motif/dawn,motif/flowers,motif/nature,motif/night,motif/poison,motif/river,motif/silence,motif/soul,motif/time,motif/water,concept/beauty,concept/nature,concept/suicide,setting/court,character/robin_hood,character/witch"></span>
 
 
-That was the beginning of what was for Owen Hood a crawling [[nightmare]]. 
+That was the beginning of what was for Owen Hood a crawling nightmare. 
 The change advanced slowly, by a process covering years, but it
 seemed to him that he was helpless and paralysed in its presence,
-precisely as a man is paralysed in an actual [[nightmare]].  He laughed
+precisely as a man is paralysed in an actual nightmare.  He laughed
 with an almost horrible laughter to think that a man in a modern society
 is supposed to be master of his fate and free to pursue his pleasures;
 when he had not power to prevent the daylight he looks on from
@@ -2412,7 +2412,7 @@ in an actual interview with some of the principal persons involved.
 The correspondence had gone on for a long [[motifs/time|time]] before it came anywhere
 near to anything so natural as that.  Indeed, the correspondence
 for a long [[motifs/time|time]] was entirely on his side.  For the big businesses
-are quite as unbusinesslike as the [[government|Government]] departments; they are
+are quite as unbusinesslike as the Government departments; they are
 no better in efficiency and much worse in manners.  But he obtained
 his interview at last, and it was with a sense of sour amusement
 that he came face to face with four people whom he wanted to meet.
@@ -2438,11 +2438,11 @@ a light of somewhat sinister understanding dawned on his long face.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quello fu l'inizio di quello che per Owen Hood fu un [[nightmare|incubo]]
+Quello fu l'inizio di quello che per Owen Hood fu un incubo
 strisciante. Il mutamento avanzava lentamente, per un processo che si
 stese lungo gli anni, ma gli pareva di essere impotente e paralizzato
 al suo cospetto, esattamente come un uomo è paralizzato in un vero
-[[nightmare|incubo]]. Rideva di una risata quasi orribile al pensiero
+incubo. Rideva di una risata quasi orribile al pensiero
 che si suppone che un uomo in una società moderna sia padrone del
 proprio destino e libero di perseguire i propri piaceri; quando non
 aveva il potere d'impedire che la luce del giorno che egli contempla
@@ -2530,7 +2530,7 @@ coinvolte. La corrispondenza era andata avanti per lungo [[motifs/time|tempo]]
 prima di avvicinarsi anche solo a qualcosa di tanto naturale. In effetti,
 la corrispondenza per lungo [[motifs/time|tempo]] fu interamente da parte sua.
 Poiché le grandi imprese sono affaristiche assai poco quanto i
-dipartimenti del [[government|Governo]]; non sono migliori in efficienza
+dipartimenti del Governo; non sono migliori in efficienza
 e assai peggiori nei modi. Ma ottenne infine il suo colloquio, e fu con
 un senso di aspro divertimento che si trovò faccia a faccia con quattro
 persone che desiderava incontrare.
@@ -2559,7 +2559,7 @@ alquanto sinistra spuntò sul suo lungo viso.
 <span class="atom-split" data-atom="chapter_02--part_04" data-title="Tales of the Long Bow — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/love,motif/poison,motif/river,motif/silence,motif/time,motif/water,motif/well,concept/beauty,concept/doubt"></span>
 
 
-On this occasion [[The Professor|the Professor]] advanced an even more interesting theory. 
+On this occasion the Professor advanced an even more interesting theory. 
 He was a big, blond man with blinking eyes and a bull neck;
 and doubtless there was more in him than met the eye, as is the way
 with great men.  He spoke last, and his theory was expounded
@@ -2698,7 +2698,7 @@ known as "hands," which moved to and fro in it.
 
 <span class="qlang-split" data-lang="it"></span>
 
-In questa occasione [[The Professor|il professore]] avanzò una teoria
+In questa occasione il professore avanzò una teoria
 ancora più interessante. Era un uomo grosso e biondo, dagli occhi
 ammiccanti e dal collo taurino; e senza dubbio in lui c'era più di
 quanto apparisse all'occhio, come suole accadere con i grandi uomini.
@@ -2742,7 +2742,7 @@ professor Hake...»
 «Niente affatto, niente affatto», disse Hood in tono placante, «sono
 certo che sia una posizione quanto mai comoda.»
 
-[[The Professor|Il professore]] lo scrutò ammiccando, ma una luce ardeva
+Il professore lo scrutò ammiccando, ma una luce ardeva
 nei bulbi oculari sotto le pesanti palpebre.
 
 «Se venite qui a parlare in questo modo...» cominciò, quando Hood gli
@@ -3191,7 +3191,7 @@ sense I never even knew.  I walked about the world blind, with my
 eyes turned inward, looking at you.  For days after a [[motifs/night|night]] when I
 had dreamed of you, I was broken; like a man who had seen a [[archetypes/ghost|ghost]]. 
 I read over and over the great and [[motifs/grave|grave]] lines of the old poets,
-because they [[Alone|alone]] were worthy of you.  And when I saw you again
+because they alone were worthy of you.  And when I saw you again
 by chance, I thought the world had already ended; and it was that
 return and tryst beyond the [[motifs/grave|grave]] that is too good to be true."
 
@@ -3200,7 +3200,7 @@ is too good to be true."
 
 As he looked at her a thrill went through him like a message
 too swift to be understood; and at the back of his mind something
-awoke that repeated again and again like a [[Song|song]] the same words,
+awoke that repeated again and again like a song the same words,
 "too good to be true."  There was always something pathetic,
 even in her days of [[concepts/pride|pride]], about the short-sighted look of her
 half-closed eyes; but it was for other reasons that they were now
@@ -3328,7 +3328,7 @@ conosciuto. Andavo per il mondo cieco, con gli occhi rivolti
 all'interno, guardando lei. Per giorni dopo una [[motifs/night|notte]] in cui
 l'avevo sognata, ero a pezzi; come un uomo che avesse visto un
 [[archetypes/ghost|fantasma]]. Rileggevo più e più volte i grandi e [[motifs/grave|solenni]]
-versi degli antichi poeti, perché essi [[Alone|soli]] erano degni di lei.
+versi degli antichi poeti, perché essi soli erano degni di lei.
 E quando la rividi per caso, pensai che il mondo fosse già finito; ed è
 quel ritorno e quell'appuntamento oltre la [[motifs/grave|tomba]] che è troppo
 bello per essere vero.»
@@ -3338,7 +3338,7 @@ bella per essere vera.»
 
 Mentre la guardava un fremito lo attraversò come un messaggio troppo
 rapido per essere compreso; e in fondo alla sua mente qualcosa si destò
-che ripeteva ancora e ancora, come una [[Song|canzone]], le stesse
+che ripeteva ancora e ancora, come una canzone, le stesse
 parole: «troppo bello per essere vero». C'era sempre qualcosa di
 patetico, persino nei suoi giorni d'[[concepts/pride|orgoglio]], nello sguardo
 miope dei suoi occhi socchiusi; ma era per altre ragioni che essi ora
@@ -3384,11 +3384,11 @@ I have lived with words too long."
 
 "I mean you have turned me into a man of action," he replied. 
 "So long as you were in the past, nothing was better than the past. 
-So long as you were only [[A Dream|a dream]], nothing was better than dreaming. 
+So long as you were only a dream, nothing was better than dreaming. 
 But now I am going to do something that no man has ever done before."
 
 He turned towards the valley and flung out his hand with a gesture,
-almost as if the hand had held a [[Sword|sword]].
+almost as if the hand had held a sword.
 
 "I am going to break the Prophecy," he cried in a loud voice. 
 "I am going to defy the omens of my doom and make fun of my evil star. 
@@ -3458,7 +3458,7 @@ a fur coat and bursting with speechless efficiency.  But Mr. Low's
 beady black eyes glistened with an astonishment bordering on
 suspicion when Hood in the most hearty fashion offered his sympathy
 and co-operation. That strange subconscious [[concepts/fear|fear]], that underlay
-all the wealthy manager's [[success]] and security in this country,
+all the wealthy manager's success and security in this country,
 always came to the surface at the sight of Owen Hood's ironical face. 
 Just at that moment, however, one of the local agents rushed at him
 in a distracted fashion, with telegrams in his hand.  They were short
@@ -3485,14 +3485,14 @@ in the habit of killing dragons in his daily round, as a form of
 field-sport, the dragon was inscribed with its name in large letters. 
 Apparently its name was "National Extravagance."  Lest there should
 be any [[concepts/doubt|doubt]] about the alternative which Dr. Hunter had discovered
-as a corrective to extravagance, the [[Sword|sword]] which he was thrusting
+as a corrective to extravagance, the sword which he was thrusting
 through the dragon's [[concepts/body|body]] was inscribed with the word "Economy." 
 Elizabeth Seymour, through whose happy but bewildered mind these
 pictures passed, could not but reflect vaguely that she herself
 had lately had to practise a good deal of economy and resist
 a good many temptations to extravagance; but it would never have
 occurred to her unaided [[concepts/imagination|imagination]] to conceive of that action
-as that of plunging a [[Sword|sword]] into a scaly [[archetypes/monster|monster]] of immense size. 
+as that of plunging a sword into a scaly [[archetypes/monster|monster]] of immense size. 
 In the central committee-room they actually came face to face
 for a moment with the candidate, who came in very hot and
 breathless with a silk hat on the back of his head; where he
@@ -3514,10 +3514,10 @@ Ho vissuto troppo a lungo con le parole.”
 
 "Voglio dire che mi hai trasformato in un uomo d'azione", rispose.
 "Fino a quando eri nel passato, nulla era migliore del passato.
-Fino a quando eri solo [[A Dream|un sogno]], nulla era meglio di sognare.
+Fino a quando eri solo un sogno, nulla era meglio di sognare.
 Ma ora sto per fare qualcosa che nessuno ha mai fatto prima."
 
-Si voltò verso la valle e fece un gesto con la mano, quasi come se avesse tenuto una [[Sword|spada]].
+Si voltò verso la valle e fece un gesto con la mano, quasi come se avesse tenuto una spada.
 
 «Io infrangerò la profezia», gridò a gran voce.
 «Io sfiderò i presagi della mia rovina e mi prenderò gioco del mio astro maligno. 
@@ -3544,7 +3544,7 @@ perché infatti la sua stessa frase era caduta, per lui, con il significato di u
 
 Era quasi danzante dall'entusiasmo sulla cima della cresta; ora improvvisamente si mise a scendere di corsa lungo il pendio oltre, chiamando la ragazza ad andargli dietro con la stessa disinvoltura come se fossero stati due bambini che giocano a nascondino. Stranamente abbastanza, forse, lei lo seguì; ancora più stranamente quando si considerano le scene stravaganti attraverso cui si lasciò condurre. Erano scene più follemente in contrasto con tutta la sua sensibile e persino segreta dignità che se avesse scambiato i cappelli con un venditore ambulante durante il giorno festivo. Perché lì il mondo sarebbe stato solo rumoroso di volgarità, mentre qui era anche rumoroso di bugie. Non avrebbe mai potuto descrivere quel Saturnalia di un'elezione politica; ma sentiva vagamente la [[topoi/double|doppia]] impressione di una arlecchinata alla fine di una pantomima e della frase di Hood sulla fine del mondo. Era come se il giorno festivo potesse anche essere il Giorno del Giudizio. Ma poiché la farsa non poteva più offenderla, così la [[forms/tragedy|tragedia]] non poteva più terrorizzarla. Passò attraverso tutto con un pallido sorriso che forse nessuno al mondo l'avrebbe conosciuta abbastanza da interpretare. Non era nel senso normale dell'entusiasmo; eppure era qualcosa di molto più positivo della pazienza. In un certo senso, forse più che mai prima nella sua solitaria vita, era rinchiusa nella sua torre d'avorio; ma tutto era illuminato all'interno, come se fosse illuminata a candele o foderata d'oro.
 
-I movimenti impetuosi di Hood li portarono sulla riva del [[motifs/river|fiume]] e negli uffici esterni della fabbrica, tutti ricoperti dai manifesti colorati della candidatura, uno dei quali era ovviamente allestito come una stanza del comitato affollata e frenetica. Hood incontrò effettivamente il signor Low che ne usciva, avvolto in un cappotto di pelliccia e traboccante di efficacia senza parole. Ma gli occhi neri e lucenti del signor Low brillavano di uno stupore confinante con il sospetto quando Hood, nel modo più cordiale, offrì la sua simpatia e collaborazione. Quel strano timore subconscio [[concepts/fear|paura]] che sottostava a tutto il [[success|successo]] e alla sicurezza del ricco manager in questo paese, veniva sempre a galla alla vista del volto ironico di Owen Hood. In quel momento, tuttavia, uno degli agenti locali gli si avventò contro in modo distratto, con dei telegrammi in mano. Mancavano attivisti; mancavano auto; mancavano oratori; la folla a Little Puddleton aveva aspettato mezz'ora; il dottor Hunter non sarebbe potuto arrivare prima delle nove e dieci, e così via. L'agente nella sua agonia probabilmente avrebbe salutato un negro di Margate e gli avrebbe affidato la causa del grande Partito Nazionale, senza alcuna indagine filosofica sulla teoria della cittadinanza del negro. Perché tutta questa spinta e confusione così pratica nel nostro [[motifs/time|tempo]] è sempre del tutto impratica all'ultimo minuto e in prospettiva. In quella [[motifs/night|sera]] Robert Owen Hood sarebbe stato incoraggiato ad andare ovunque e dire qualsiasi cosa; e lo fece. Potrebbe essere interessante immaginare cosa ne pensasse la signorina; ma è possibile che non ci abbia pensato. Aveva un senso radioso e distratto di passare attraverso una serie di stanze brutte e capannoni con luci al gas accecanti e pile di volantini dietro cui correvano piccoli uomini irritabili come conigli. Le pareti erano coperte da grandi immagini allegoriche stampate in linee o in pochi colori vivaci, che rappresentavano il dottor Hunter vestito di armatura, mentre uccideva draghi, salvava dame piuttosto simili a dee classiche e così via. Per evitare che si potesse intendere troppo letteralmente che il dottor Hunter fosse solito uccidere draghi nel suo giro quotidiano come forma di sport di campo, il drago era iscritto con il suo nome in grandi lettere. A quanto pareva il suo nome era "Spreco Nazionale". Per evitare che ci potesse essere qualche [[concepts/doubt|dubbio]] sull'alternativa che il dottor Hunter aveva scoperto come correttivo allo spreco, la [[Sword|spada]] che stava infilzando nel [[concepts/body|corpo]] del drago era iscritta con la parola "Economia". Elizabeth Seymour, attraverso la cui mente felice ma confusa passavano queste immagini, non poteva fare a meno di riflettere vagamente che lei stessa aveva dovuto praticare molto risparmio e resistere a molte tentazioni di spreco; ma non le sarebbe mai venuto in mente da sola la sua [[concepts/imagination|immaginazione]] di concepire quell'azione come quella di piantare una [[Sword|spada]] in un enorme [[archetypes/monster|mostro]] squamoso. Nella stanza centrale del comitato si trovarono effettivamente faccia a faccia per un momento con il candidato, che entrò molto caldo e senza fiato con un cappello di seta sul retro della testa; dove probabilmente se l'era dimenticato, perché certamente non lo tolse. Era un po' vergognosa di essere sensibile a tali frivolezze; ma arrivò alla conclusione che non le sarebbe piaciuto avere un marito candidato al Parlamento.
+I movimenti impetuosi di Hood li portarono sulla riva del [[motifs/river|fiume]] e negli uffici esterni della fabbrica, tutti ricoperti dai manifesti colorati della candidatura, uno dei quali era ovviamente allestito come una stanza del comitato affollata e frenetica. Hood incontrò effettivamente il signor Low che ne usciva, avvolto in un cappotto di pelliccia e traboccante di efficacia senza parole. Ma gli occhi neri e lucenti del signor Low brillavano di uno stupore confinante con il sospetto quando Hood, nel modo più cordiale, offrì la sua simpatia e collaborazione. Quel strano timore subconscio [[concepts/fear|paura]] che sottostava a tutto il successo e alla sicurezza del ricco manager in questo paese, veniva sempre a galla alla vista del volto ironico di Owen Hood. In quel momento, tuttavia, uno degli agenti locali gli si avventò contro in modo distratto, con dei telegrammi in mano. Mancavano attivisti; mancavano auto; mancavano oratori; la folla a Little Puddleton aveva aspettato mezz'ora; il dottor Hunter non sarebbe potuto arrivare prima delle nove e dieci, e così via. L'agente nella sua agonia probabilmente avrebbe salutato un negro di Margate e gli avrebbe affidato la causa del grande Partito Nazionale, senza alcuna indagine filosofica sulla teoria della cittadinanza del negro. Perché tutta questa spinta e confusione così pratica nel nostro [[motifs/time|tempo]] è sempre del tutto impratica all'ultimo minuto e in prospettiva. In quella [[motifs/night|sera]] Robert Owen Hood sarebbe stato incoraggiato ad andare ovunque e dire qualsiasi cosa; e lo fece. Potrebbe essere interessante immaginare cosa ne pensasse la signorina; ma è possibile che non ci abbia pensato. Aveva un senso radioso e distratto di passare attraverso una serie di stanze brutte e capannoni con luci al gas accecanti e pile di volantini dietro cui correvano piccoli uomini irritabili come conigli. Le pareti erano coperte da grandi immagini allegoriche stampate in linee o in pochi colori vivaci, che rappresentavano il dottor Hunter vestito di armatura, mentre uccideva draghi, salvava dame piuttosto simili a dee classiche e così via. Per evitare che si potesse intendere troppo letteralmente che il dottor Hunter fosse solito uccidere draghi nel suo giro quotidiano come forma di sport di campo, il drago era iscritto con il suo nome in grandi lettere. A quanto pareva il suo nome era "Spreco Nazionale". Per evitare che ci potesse essere qualche [[concepts/doubt|dubbio]] sull'alternativa che il dottor Hunter aveva scoperto come correttivo allo spreco, la spada che stava infilzando nel [[concepts/body|corpo]] del drago era iscritta con la parola "Economia". Elizabeth Seymour, attraverso la cui mente felice ma confusa passavano queste immagini, non poteva fare a meno di riflettere vagamente che lei stessa aveva dovuto praticare molto risparmio e resistere a molte tentazioni di spreco; ma non le sarebbe mai venuto in mente da sola la sua [[concepts/imagination|immaginazione]] di concepire quell'azione come quella di piantare una spada in un enorme [[archetypes/monster|mostro]] squamoso. Nella stanza centrale del comitato si trovarono effettivamente faccia a faccia per un momento con il candidato, che entrò molto caldo e senza fiato con un cappello di seta sul retro della testa; dove probabilmente se l'era dimenticato, perché certamente non lo tolse. Era un po' vergognosa di essere sensibile a tali frivolezze; ma arrivò alla conclusione che non le sarebbe piaciuto avere un marito candidato al Parlamento.
 
 
 
@@ -3599,7 +3599,7 @@ in water-colour; never was that water-colour so luminous or so
 delicate as when dedicated to these holy waters.  It was in such
 a scene that one of the most exquisite of our elder poets repeated
 as a burden to his meditations the single line, ‘Sweet Thames,
-run softly till I end my [[Song|song]].'
+run softly till I end my song.'
 
 "Rumours have been heard of some intention to trouble these waters;
 but we have been amply reassured.  Names that now stand as high
@@ -3608,7 +3608,7 @@ the stream is still as clear and pure and beneficent as of old.
 We all know the beautiful work that Mr. Bulton has done in the matter
 of filters.  Dr. Hunter supports Mr. Bulton.  I mean Mr. Bulton
 supports Dr. Hunter.  I may also mention no less a man than Mr. Low. 
-Sweet Thames, run softly till I end my [[Song|song]].
+Sweet Thames, run softly till I end my song.
 
 "But then, for that matter, we all support Dr. Hunter.  I myself have
 always found him quite supportable; I should say quite satisfactory. 
@@ -3619,7 +3619,7 @@ climbing, climbing.  All the numerous patients among whom he has
 laboured so successfully in this locality will join in a heartfelt
 expression of joy if he passes to the higher world of Westminster. 
 I trust I shall not be misunderstood.  Sweet Thames, run softly till
-I end my [[Song|song]].
+I end my song.
 
 "My only purpose to-[[motifs/night|night]] is to express that unanimity.  There may
 have been times when I differed from Dr. Hunter; but I am glad
@@ -3711,7 +3711,7 @@ all'acquerello; mai quell'acquerello fu così luminoso o così delicato
 come quando dedicato a queste acque sacre. Fu in una scena siffatta che
 uno dei più squisiti dei nostri poeti antichi ripeteva come ritornello
 alle sue meditazioni il verso solo: "Dolce Tamigi, scorri piano finch'io
-finisca il mio [[Song|canto]]."
+finisca il mio canto."
 
 «Si sono udite voci di qualche intenzione di turbare queste acque; ma
 siamo stati ampiamente rassicurati. Nomi che ora si levano tanto alti
@@ -3721,7 +3721,7 @@ la bella opera che il signor Bulton ha compiuto in materia di filtri. Il
 dottor Hunter sostiene il signor Bulton. Voglio dire, il signor Bulton
 sostiene il dottor Hunter. Posso anche menzionare niente meno che il
 signor Low. Dolce Tamigi, scorri piano finch'io finisca il mio
-[[Song|canto]].
+canto.
 
 «Ma d'altronde, se è per questo, sosteniamo tutti il dottor Hunter. Io
 stesso l'ho sempre trovato del tutto sopportabile; direi del tutto
@@ -3732,7 +3732,7 @@ di udirlo salire, salire, salire. Tutti i numerosi pazienti tra i quali
 ha operato con tanto successo in questa località si uniranno in una
 sentita espressione di gioia se egli passerà al mondo superiore di
 Westminster. Confido di non essere frainteso. Dolce Tamigi, scorri piano
-finch'io finisca il mio [[Song|canto]].
+finch'io finisca il mio canto.
 
 «Il mio unico scopo questa [[motifs/night|notte]] è esprimere quell'unanimità.
 Vi possono essere stati momenti in cui dissentivo dal dottor Hunter; ma
@@ -3850,7 +3850,7 @@ to be allowed to keep pigs much longer."
 
 "Not allowed to keep pigs!" ejaculated the Colonel in astonishment.
 
-"By the old regulations they had to be away from the [[house]],
+"By the old regulations they had to be away from the house,
 and we've got ground enough for that, though most of the cottagers
 hadn't. But now they say the law is evaded, and the county council
 are going to stop pig-keeping altogether."
@@ -3973,7 +3973,7 @@ di tenere maiali ancora per molto."
 
 "Non permetteranno di tenere maiali!" esclamò il colonnello stupefatto.
 
-"Secondo i vecchi regolamenti dovevano stare lontani dalla [[house|casa]],
+"Secondo i vecchi regolamenti dovevano stare lontani dalla casa,
 e noi abbiamo terreno a sufficienza per questo, benché la maggior parte dei contadini
 non lo avesse. Ma ora dicono che la legge viene elusa, e il consiglio di contea
 è deciso a proibire del tutto l'allevamento dei maiali."
@@ -4097,7 +4097,7 @@ will fall, and the world will shake with the shock of doom."
 
 The American had what he himself might have described as a poker face;
 it was impossible to discover whether his utterances indicated
-the extreme of [[innocence]] or of irony.
+the extreme of innocence or of irony.
 
 "And would you say," he asked, "that this monument exemplifies
 the mediaeval or Gothic architectural school?"
@@ -4200,7 +4200,7 @@ gridò Pierce drammaticamente, indicando la porcilaia, che sembrava piuttosto un
 potrebbe presto essere solo un [[motifs/memory|ricordo]]. Ma quando questo edificio cadrà l'Inghilterra
 cadrà e il mondo tremolerà per lo shock della fine.»
 
-L'americano aveva quello che lui stesso avrebbe potuto descrivere come un volto da poker; era impossibile scoprire se le sue affermazioni indicassero l'estremo della [[innocence|innocenza]] o dell'ironia.
+L'americano aveva quello che lui stesso avrebbe potuto descrivere come un volto da poker; era impossibile scoprire se le sue affermazioni indicassero l'estremo della innocenza o dell'ironia.
 
 "E direbbe", chiese, "che questo monumento è un esempio dell'architettura medievale o gotica?"
 
@@ -4531,7 +4531,7 @@ so the various quarrels and evasions about swine-fever were best
 met by a straightforward and simple regulation against swine. 
 In the very improper remarks which he offered after the trial,
 the prisoner appears to have said that as his three judges were a Jew,
-a [[vegetarian]], and a quack doctor on the make, he was not surprised
+a vegetarian, and a quack doctor on the make, he was not surprised
 that they did not appreciate pork.
 
 The next luncheon at which the three friends met was in a sufficiently
@@ -4642,7 +4642,7 @@ così le varie liti ed elusioni riguardo alla febbre suina si affrontavano
 meglio con un regolamento franco e semplice contro i suini.
 Nelle assai sconvenienti osservazioni che egli offrì dopo il processo,
 il prigioniero pare abbia detto che, essendo i suoi tre giudici un ebreo,
-un [[vegetarian|vegetariano]] e un ciarlatano arrivista, non si stupiva
+un vegetariano e un ciarlatano arrivista, non si stupiva
 che non sapessero apprezzare il maiale.
 
 Il pranzo successivo cui i tre amici si trovarono insieme fu in una cornice
@@ -4793,7 +4793,7 @@ But I will do an impossible thing.  I will do something that is
 written in all books and rhymes as impossible--something that has
 passed into a proverb of the impossible.  The war is not ended yet;
 and if you two fellows will post yourselves in the quarry opposite
-the Blue Boar, on [[thursday|Thursday]] week at sunset, you will see something
+the Blue Boar, on Thursday week at sunset, you will see something
 so impossible and so [[concepts/self|self]]-evident that even the organs of public
 information will find it hard to hide it."
 
@@ -4809,7 +4809,7 @@ as of pale yellow fading to pale green, while one or two loose
 clouds on the horizon were of a [[motifs/rose|rose]]-red and yet richer colours. 
 But the settling sun itself was a cloudless [[motifs/fire|fire]], so that a tawny
 light lay over the whole landscape; and the inn of the Blue Boar
-standing opposite looked almost like a [[house]] of gold.  Owen Hood
+standing opposite looked almost like a house of gold.  Owen Hood
 was gazing in his dreamy fashion, and said at last:
 
 "There's an apocalyptic sign in heaven for you to start with. 
@@ -4917,7 +4917,7 @@ Ma farò una cosa impossibile. Farò qualcosa che è
 scritto in tutti i libri e le rime come impossibile... qualcosa che è
 passato in proverbio dell'impossibile. La guerra non è ancora finita;
 e se voi due vi appostate nella cava di fronte
-al Cinghiale Azzurro, [[thursday|giovedì]] otto al tramonto, vedrete qualcosa
+al Cinghiale Azzurro, giovedì otto al tramonto, vedrete qualcosa
 di tanto impossibile e tanto [[concepts/self|evidente]] di per sé che perfino gli organi della pubblica
 informazione faticheranno a nasconderlo."
 
@@ -4933,7 +4933,7 @@ come di un giallo pallido che sfumava in un verde pallido, mentre una o due
 nuvole sparse all'orizzonte erano di un rosso di [[motifs/rose|rosa]] e di colori ancor più ricchi.
 Ma il sole calante stesso era un [[motifs/fire|fuoco]] senza nubi, sì che una luce
 fulva giaceva su tutto il paesaggio; e la locanda del Cinghiale Azzurro
-che sorgeva di fronte pareva quasi una [[house|casa]] d'oro. Owen Hood
+che sorgeva di fronte pareva quasi una casa d'oro. Owen Hood
 guardava alla sua maniera sognante, e disse infine:
 
 "Ecco un segno apocalittico in cielo per cominciare.
@@ -5648,7 +5648,7 @@ are afraid of him and pretend to boycott me.  Nobody could expect
 anything else of those pineapple people, but I confess I was
 surprised at Parkinson.  Sally of course is as sound as ever;
 but she goes to Scotland a good deal and you can't blame her. 
-Sometimes I'm left pretty severely [[Alone|alone]], but I'm not downhearted;
+Sometimes I'm left pretty severely alone, but I'm not downhearted;
 you'll probably laugh if I tell you that Snowdrop is really a very
 intelligent companion.'"
 
@@ -5665,7 +5665,7 @@ intelligent companion.'"
 married in consequence," said Hood.  "It would be quite on the lines
 of fiction and film-drama if Snowdrop were the daughter of the lady,
 when she had married Another.  But there seems to be something
-more about Snowdrop, that little sunbeam in the [[house]]:"
+more about Snowdrop, that little sunbeam in the house:"
 
 "‘Snowdrop tries to enter our ways, as they always do; but, of course,
 it would be awkward if she played tricks.  How alarmed they would
@@ -5779,7 +5779,7 @@ ne hanno paura e fingono di boicottarmi. Nessuno potrebbe aspettarsi
 altro da quella gente da ananas, ma confesso che sono rimasto
 sorpreso da Parkinson. Sally, s'intende, è salda come sempre;
 ma va parecchio in Scozia e non le si può dar torto.
-A volte resto piuttosto rigorosamente [[Alone|solo]], ma non sono avvilito;
+A volte resto piuttosto rigorosamente solo, ma non sono avvilito;
 probabilmente riderai se ti dico che Bucaneve è davvero un compagno
 molto intelligente.'"
 
@@ -5796,7 +5796,7 @@ molto intelligente.'"
 non si sia mai [[motifs/love|sposato]]," disse Hood. "Sarebbe del tutto sulla falsariga
 del romanzo e del dramma cinematografico se Bucaneve fosse la figlia della dama,
 dopo che questa avesse sposato un Altro. Ma pare esserci qualcosa
-di più su Bucaneve, quel piccolo raggio di sole nella [[house|casa]]:"
+di più su Bucaneve, quel piccolo raggio di sole nella casa:"
 
 "‘Bucaneve cerca di entrare nelle nostre abitudini, come fanno sempre; ma, s'intende,
 sarebbe imbarazzante se combinasse dei tiri. Come si allarmerebbero
@@ -5957,7 +5957,7 @@ And he handed the letter to Hood, who read it out slowly:
 
 "‘I never knew the old British populace, here in Avalon itself,
 could be so broken down by squires and sneaking lawyers. 
-Nobody dared help me move my [[house]] again; said it was illegal
+Nobody dared help me move my house again; said it was illegal
 and they were afraid of the police.  But Snowdrop helped, and we
 carted it all away in two or three journeys; took it right clean
 off the old [[archetypes/fool|fool]]'s land altogether this [[motifs/time|time]].  I fancy the old
@@ -5977,16 +5977,16 @@ I mean he's the sort of man who might break all the squire's windows,
 but he wouldn't say he'd broken six when he'd broken five. 
 I've always found when I'd got to the meaning of those mad
 letters that it was quite true.  But how can this be true? 
-How could Snowdrop, whatever she is, have moved a whole [[house]], or old
+How could Snowdrop, whatever she is, have moved a whole house, or old
 White either?"
 
 "I suppose you know what I think," said Pierce.  "I told you
 that Snowdrop, whatever else she is, is invisible.  I'm certain your
 friend has gone Spiritualist, and Snowdrop is the name of a spirit,
 or a control, or whatever they call it.  The spirit would say,
-of course, that it was mere [[archetypes/child|child]]'s play to throw the [[house]] from one
+of course, that it was mere [[archetypes/child|child]]'s play to throw the house from one
 end of the county to the other.  But if this unfortunate gentleman
-believes himself to have been thrown, [[house]] and all, in that fashion,
+believes himself to have been thrown, house and all, in that fashion,
 I'm very much afraid he's begun really to suffer from delusions."
 
 The faces of the two older men looked suddenly much older,
@@ -6072,7 +6072,7 @@ lesse lentamente ad alta voce:
 «"Non avrei mai immaginato che il vecchio popolino britannico, qui
 proprio ad Avalon, potesse lasciarsi ridurre così in soggezione da
 possidenti e da avvocati striscianti. Nessuno ha osato aiutarmi a
-spostare di nuovo la mia [[house|casa]]; dicevano che era illegale e
+spostare di nuovo la mia casa; dicevano che era illegale e
 avevano paura della polizia. Ma Snowdrop mi ha aiutato, e l'abbiamo
 portata via tutta in due o tre viaggi; l'abbiamo tolta di netto
 dalla terra del vecchio [[archetypes/fool|sciocco]] questa [[motifs/time|volta]].
@@ -6093,7 +6093,7 @@ rompere tutte le finestre del possidente, ma non direbbe di averne
 rotte sei quando ne ha rotte cinque. Ho sempre scoperto, quando sono
 riuscito ad afferrare il senso di quelle folli lettere, che era
 verità pura. Ma come può essere vero questo? Come avrebbe potuto
-Snowdrop, qualunque cosa sia, spostare un'intera [[house|casa]], o il
+Snowdrop, qualunque cosa sia, spostare un'intera casa, o il
 vecchio White?»
 
 «Suppongo che sappia cosa penso io», disse Pierce. «Le ho detto che
@@ -6101,9 +6101,9 @@ Snowdrop, qualunque altra cosa sia, è invisibile. Sono certo che il
 suo amico si è dato allo spiritismo, e Snowdrop è il nome di uno
 spirito, o di una guida, o come diavolo la chiamano. Lo spirito
 direbbe, naturalmente, che era un mero gioco da [[archetypes/child|bambini]]
-scagliare la [[house|casa]] da un capo all'altro della contea. Ma se
+scagliare la casa da un capo all'altro della contea. Ma se
 questo sventurato gentiluomo crede di essere stato scagliato, con
-tanto di [[house|casa]], a quel modo, ho molta paura che abbia
+tanto di casa, a quel modo, ho molta paura che abbia
 davvero cominciato a soffrire di deliri.»
 
 I volti dei due uomini più anziani parvero d'improvviso molto più
@@ -6183,8 +6183,8 @@ work there, for I found a great big empty shed in the grounds--
 that sort of thing that's used for a schoolroom or drill-hall or
 what not.  But not a sign of him or his work can be seen there now. 
 I've said it's a long way west of the village that you come at last
-to the old [[house]].  [[motifs/well|Well]], it's a long way west of that that you come
-to the new [[house]]--if you come to it at all.  As for me, I came
+to the old house.  [[motifs/well|Well]], it's a long way west of that that you come
+to the new house--if you come to it at all.  As for me, I came
 and I came now, as in some old [[forms/riddle|riddle]] of Merlin.  But you shall hear.
 
 "I had come down about sunset in a meadow near Ponder's End, and I
@@ -6210,7 +6210,7 @@ produced a queer impression, as if this Christian priest had built
 for his final [[motifs/home|home]] a heathen temple of the winds.  As I leaned forward,
 peering at it, I overbalanced myself and slid rapidly down the steep
 thicket into the darkest entrails of the wood.  From there I could
-see nothing of the pillared [[house]] or temple or whatever it was on
+see nothing of the pillared house or temple or whatever it was on
 the [[motifs/hill|hill]]; the thick woods had swallowed me up literally like a sea,
 and I groped for what must have been nearly half an hour amid
 tangled roots and low branches, in that [[topoi/double|double]] darkness of [[motifs/night|night]]
@@ -6304,8 +6304,8 @@ terreni un grande capannone vuoto: quel genere di cosa che serve da
 aula scolastica o da sala per esercitazioni o chissà cos'altro. Ma
 non v'è più ora alcun segno di lui o della sua opera. Ho detto che è
 parecchio a ovest del villaggio che si arriva finalmente alla vecchia
-[[house|casa]]. [[motifs/well|Ebbene]], è parecchio a ovest di quella che si
-arriva alla nuova [[house|casa]]... ammesso che ci si arrivi. Quanto
+casa. [[motifs/well|Ebbene]], è parecchio a ovest di quella che si
+arriva alla nuova casa... ammesso che ci si arrivi. Quanto
 a me, ci arrivai, e ci arrivai proprio adesso, come in un antico
 [[forms/riddle|enigma]] di Merlino. Ma sentirete.
 
@@ -6335,7 +6335,7 @@ avesse costruito per la sua ultima [[motifs/home|dimora]] un pagano tempio
 dei venti. Mentre mi sporgevo in avanti, scrutandolo, persi
 l'equilibrio e scivolai rapidamente giù per la ripida macchia, nelle
 più oscure viscere del bosco. Di là non riuscivo a vedere nulla della
-[[house|casa]] colonnata o tempio o quel che fosse sulla
+casa colonnata o tempio o quel che fosse sulla
 [[motifs/hill|collina]]; i fitti boschi mi avevano inghiottito letteralmente
 come un mare, e brancolai per quasi mezz'ora fra radici aggrovigliate
 e rami bassi, in quella [[topoi/double|doppia]] oscurità di [[motifs/night|notte]]
@@ -6435,7 +6435,7 @@ White was going to marry.  I think I know now why things went wrong,
 and I [[concepts/hope|hope]] they may go right.  But there seems to be another bother. 
 You see that clump of clod-hopping policemen over there, inspector and all. 
 It seems they're waiting for White.  Says he's broken the law in
-taking his [[house]] off the land, and that he has always eluded them. 
+taking his house off the land, and that he has always eluded them. 
 I [[concepts/hope|hope]] there won't be a scene when he turns up."
 
 If this was Mr. Hood's [[concepts/hope|hope]], it was ill-founded and destined
@@ -6557,7 +6557,7 @@ perché le cose sono andate storte, e [[concepts/hope|spero]] che possano
 andar bene. Ma pare che ci sia un altro fastidio. Vedete quel
 crocchio di poliziotti zoticoni laggiù, con tanto d'ispettore. Pare
 che stiano aspettando White. Dicono che ha violato la legge portando
-via la sua [[house|casa]] dalla terra, e che li ha sempre elusi.
+via la sua casa dalla terra, e che li ha sempre elusi.
 [[concepts/hope|Spero]] che non ci sarà una scenata quando salterà fuori.»
 
 Se questa era la [[concepts/hope|speranza]] del signor Hood, era mal fondata e
@@ -6871,13 +6871,13 @@ Though we have not met for ten years, I knew from the first glimpse
 of her face that she had been worrying, in a powerful secretive sort
 of way; worrying about something she didn't understand and would
 not inquire about.  I remember long ago, when she was an ordinary
-fox-hunting squire's daughter and White was one of Sydney [[smith|Smith]]'s
+fox-hunting squire's daughter and White was one of Sydney Smith's
 wild curates, how she sulked for two months over a mistake about
 a post-card that could have been explained in two minutes. 
 At least it could have been explained by anybody except White. 
 But you will understand that if he tried to explain the post-card
 on another post-card, the results may not have been luminous,
-let [[Alone|alone]] radiant."
+let alone radiant."
 
 "But what has all this to do with noses?" inquired Pierce.
 
@@ -6982,12 +6982,12 @@ primo sguardo al suo viso che si era tormentata, in un modo potente e
 riservato; tormentata per qualcosa che non capiva e su cui non voleva
 indagare. Ricordo tanto tempo fa, quand'ella era un'ordinaria figlia
 di possidente amante della caccia alla volpe e White era uno dei
-focosi curati di Sydney [[smith|Smith]], come rimase imbronciata per
+focosi curati di Sydney Smith, come rimase imbronciata per
 due mesi per un malinteso su una cartolina che si sarebbe potuto
 chiarire in due minuti. Almeno lo si sarebbe potuto chiarire da parte
 di chiunque tranne White. Ma capirete che se lui tentò di spiegare la
 cartolina su un'altra cartolina, i risultati potrebbero non essere
-stati luminosi, [[Alone|tanto meno]] radiosi.»
+stati luminosi, tanto meno radiosi.»
 
 «Ma cosa ha a che fare tutto questo coi nasi?» s'informò Pierce.
 
@@ -8557,7 +8557,7 @@ must be distressed by the notion of a foreigner interfering in England.
 I want to know how a foreigner could interfere less than by giving
 back their land to the English people and clearing out.  They all put
 it on to me; and right they are.  I regard Oates as my property;
-my [[convert]]; captive of my bow and spear."
+my convert; captive of my bow and spear."
 
 "Captive of your long bow, I imagine," said the Colonel.  "I bet
 you told him a good many things that nobody but a shrewd business
@@ -8680,7 +8680,7 @@ e Guggenheimer debbano essere addolorati all'idea di uno straniero
 che si intromette in Inghilterra.  Vorrei sapere come uno straniero
 potrebbe intromettersi meno che restituendo la loro terra al popolo
 inglese e togliendosi di mezzo.  Danno tutta la colpa a me; e hanno
-ragione.  Considero Oates come mia proprietà; il mio [[convert|convertito]];
+ragione.  Considero Oates come mia proprietà; il mio convertito;
 prigioniero del mio arco e della mia lancia.»
 
 «Prigioniero del vostro lungo arco, immagino», disse il Colonnello. 
@@ -8821,7 +8821,7 @@ and then he looked at the ground and frowned as if he did not like it.
 He had passed from science as the hobby of a schoolboy to science
 as the [[concepts/ambition|ambition]] of a middle-aged man, without any intermediate
 holiday of youth.  Moreover, his monomania had been fixed and frozen
-by [[success]]; at least by a considerable [[success]] for a man of his years. 
+by success; at least by a considerable success for a man of his years. 
 He was already a fellow of the chief learned societies connected
 with his subject, when there grew up in his mind the grand, universal,
 all-sufficing Theory which had come to fill the whole of his life
@@ -8961,8 +8961,8 @@ e aggrottava le sopracciglia come se non gli piacesse.
 vecchio.  Era passato dalla scienza come passatempo di uno scolaretto
 alla scienza come [[concepts/ambition|ambizione]] di un uomo di mezz'età, senza
 alcuna intermedia vacanza di gioventù.  Per di più, la sua monomania
-era stata fissata e congelata dal [[success|successo]]; almeno da un
-[[success|successo]] considerevole per un uomo dei suoi anni.  Era già
+era stata fissata e congelata dal successo; almeno da un
+successo considerevole per un uomo dei suoi anni.  Era già
 membro delle principali società dotte connesse alla sua materia,
 quando gli crebbe nella mente la grande, universale, onnisufficiente
 Teoria che era giunta a colmare l'intera sua vita come la luce del
@@ -8998,7 +8998,7 @@ that it was always understood.  Anyhow, he was just about to read
 his great paper on his great theory at the great Astronomical Congress
 that was to be held that year at Bath; which was one reason why he
 had pitched his astronomical camp, or emplaced his astronomical gun,
-in the [[house]] of Farmer Dale on the hills of Somerset.  Mr. Enoch Oates
+in the house of Farmer Dale on the hills of Somerset.  Mr. Enoch Oates
 could not but feel the lingering hesitation of the landlord when he
 heard that his proteges the Dales were about to admit an unknown
 stranger into their household.  But Pierce sternly reminded him
@@ -9022,7 +9022,7 @@ it depends on the mathematical formula for the inversion of the sphere."
 "I'm all in favour of it."
 
 "Everyone knows the idea of relativity applied to motion," went on
-[[The Professor|the Professor]].  "When you run out of a village in a motor-car,
+the Professor.  "When you run out of a village in a motor-car,
 you might say that the village runs away from you."
 
 "The village does run away when Pierce is out motoring," remarked Crane. 
@@ -9087,7 +9087,7 @@ that every cockney [[archetypes/child|child]] feels he has always had and never 
 "I have to read my paper to-[[motifs/night|night]]," he said abruptly.  "I really
 ought to be thinking about it."
 
-"I do [[concepts/hope|hope]] it will be a [[success]]," said the girl; "but I rather
+"I do [[concepts/hope|hope]] it will be a success," said the girl; "but I rather
 thought you were always thinking about it."
 
 "[[motifs/well|Well]], I was--generally," he said in a rather dazed fashion;
@@ -9101,7 +9101,7 @@ observed Margery Dale conversationally.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[The Professor|Il Professore]] aveva cominciato, come cominciava sempre,
+Il Professore aveva cominciato, come cominciava sempre,
 col dire che era assai facile spiegarla; il che era senza dubbio vero,
 poiché la stava sempre spiegando.  Ma spesso finiva col dichiarare
 fallacemente che era assai facile capirla, e sarebbe un'esagerazione
@@ -9109,7 +9109,7 @@ dire che fosse sempre capita.  Comunque sia, egli era proprio sul punto
 di leggere la sua grande memoria sulla sua grande teoria al grande
 Congresso Astronomico che si sarebbe tenuto quell'anno a Bath;
 il che era una delle ragioni per cui aveva piantato il suo campo
-astronomico, o appostato il suo cannone astronomico, nella [[house|casa]]
+astronomico, o appostato il suo cannone astronomico, nella casa
 del Fattore Dale sulle colline del Somerset.  Mr. Enoch Oates non poté
 non avvertire la persistente esitazione del padrone di casa quando
 udì che i suoi protetti, i Dale, stavano per ammettere uno sconosciuto
@@ -9135,7 +9135,7 @@ dipende dalla formula matematica dell'inversione della sfera.»
 disse Pierce.  «Sono del tutto favorevole.»
 
 «Tutti conoscono l'idea della relatività applicata al moto», proseguì
-[[The Professor|il Professore]].  «Quando si esce da un villaggio in automobile,
+il Professore.  «Quando si esce da un villaggio in automobile,
 si potrebbe dire che è il villaggio a fuggire da voi.»
 
 «Il villaggio fugge davvero quando Pierce è fuori in automobile»,
@@ -9203,7 +9203,7 @@ e mai visitato.
 «Devo leggere la mia memoria [[motifs/night|stasera]]», disse d'improvviso. 
 «Dovrei davvero starci pensando.»
 
-«[[concepts/hope|Spero]] proprio che sarà un [[success|successo]]», disse la ragazza;
+«[[concepts/hope|Spero]] proprio che sarà un successo», disse la ragazza;
 «ma mi pareva che ci steste sempre pensando.»
 
 «[[motifs/well|Beh]], ci pensavo... in generale», disse in un modo piuttosto
@@ -9786,7 +9786,7 @@ On the map it was only a few miles to the Blue Boar; and she
 was easily capable of walking ten times the distance.  But maps,
 like many other scientific documents, are very inaccurate. 
 The ridge that ran between the two valleys was, relatively to
-that [[rolling]] plain, as definite as a range of [[settings/mountains|mountains]]. 
+that rolling plain, as definite as a range of [[settings/mountains|mountains]]. 
 The path through the dark wood that lay just beyond the farm began
 like a lane and then seemed to go up like a ladder.  By the [[motifs/time|time]] she
 had scaled it, under its continuous canopy of low spreading trees,
@@ -9904,7 +9904,7 @@ Sulla mappa erano solo poche miglia fino al Blue Boar; ed ella era
 facilmente capace di camminare dieci volte quella distanza. Ma le
 mappe, come molti altri documenti scientifici, sono assai inesatte. La
 cresta che correva tra le due valli era, in rapporto a quella pianura
-[[rolling]] ondulata, netta quanto una catena di [[settings/mountains|monti]]. Il
+rolling ondulata, netta quanto una catena di [[settings/mountains|monti]]. Il
 sentiero attraverso il bosco oscuro che si stendeva poco oltre la
 fattoria cominciava come un viottolo e poi pareva salire come una
 scala. Quando l'ebbe scalato, sotto la sua continua volta di alberi
@@ -9966,14 +9966,14 @@ His way of talking had been so eccentric that everybody for miles round
 would have agreed, if they had heard him, that he had a tile loose. 
 She was very glad they had not heard him; but their imaginary
 opinion fortified her own.  They had a duty in common humanity;
-they could not let a poor gentleman of doubtful [[Sanity|sanity]] disappear
+they could not let a poor gentleman of doubtful sanity disappear
 without further inquiry.
 
 She entered the inn with a firm step and hailed her friend with something
 of that hearty cheerfulness that is so unpopular in the early riser. 
 She was rather younger and by [[concepts/nature|nature]] rather more exuberant than Joan;
 and Joan had already felt the drag and concentration of children. 
-But Joan had not lost her rather steely sense of [[Humour|humour]], and she heard
+But Joan had not lost her rather steely sense of humour, and she heard
 the main facts of her friend's difficulty with a vigilant smile.
 
 "We should rather like to know what has happened," said the visitor
@@ -10085,13 +10085,13 @@ per miglia intorno avrebbero convenuto, se l'avessero udito, che aveva
 qualche rotella fuori posto. Era ben lieta che non l'avessero udito; ma
 la loro immaginaria opinione fortificava la propria. Avevano un dovere
 di comune umanità; non potevano lasciar sparire un povero gentiluomo di
-dubbia [[Sanity|sanità mentale]] senza ulteriori indagini.
+dubbia sanità mentale senza ulteriori indagini.
 
 Entrò nella locanda con passo fermo e salutò la sua amica con qualcosa
 di quella cordiale allegria che è tanto sgradita in chi si alza presto.
 Era piuttosto più giovane e per [[concepts/nature|natura]] piuttosto più esuberante
 di Joan; e Joan aveva già sentito il peso e la concentrazione dei
-figli. Ma Joan non aveva perduto il suo senso dell'[[Humour|umorismo]]
+figli. Ma Joan non aveva perduto il suo senso dell'umorismo
 piuttosto tagliente, e ascoltò i fatti principali della difficoltà
 dell'amica con un sorriso vigile.
 
@@ -10205,7 +10205,7 @@ and springy figure gave him a factitious air of youth; but his face
 on closer study looked lined and wrinkled and gave almost a shock
 of decrepitude.  He was in [[concepts/truth|truth]] a man of great experience and
 dexterity in his own profession.  He had just succeeded in routing
-the Socialist Party and overthrowing the Socialist [[government|Government]],
+the Socialist Party and overthrowing the Socialist Government,
 largely by the use of certain rhymed mottoes and maxims which he
 had himself invented with considerable amusement.  His great slogan
 of "Don't Nationalize but Rationalize" was generally believed to have
@@ -10224,7 +10224,7 @@ the millionaire inventor, who had pressed upon the War Office a scheme
 for finishing the War at a blow; it consisted of electrocuting
 the Kaiser by wireless telegraphy.  There was Mr. Napper,
 of Nebraska, whose negotiations for removing Shakespeare's Cliff
-to [[settings/america|America]] as a symbol of Anglo-Saxon [[unity]] were unaccountably
+to [[settings/america|America]] as a symbol of Anglo-Saxon unity were unaccountably
 frustrated by the firm refusal of the American Republic to send
 us Plymouth Rock in exchange.  And there was that charming and
 cultured Bostonian, Colonel Hoopoe, whom all England welcomed
@@ -10316,7 +10316,7 @@ giovinezza; ma il suo volto, a un esame più attento, appariva segnato e
 rugoso e dava quasi un colpo di decrepitezza. Era in [[concepts/truth|verità]] un
 uomo di grande esperienza e destrezza nella propria professione. Aveva
 appena mandato in rotta il Partito Socialista e rovesciato il
-[[government|Governo]] socialista, in gran parte grazie all'uso di certi
+Governo socialista, in gran parte grazie all'uso di certi
 motti e massime in rima che aveva egli stesso inventato con
 considerevole divertimento. Il suo grande slogan "Non nazionalizzare ma
 razionalizzare" era generalmente ritenuto averlo condotto alla
@@ -10335,7 +10335,7 @@ Grigg, il milionario inventore, che aveva insistito presso il Ministero
 della Guerra con un piano per porre fine alla Guerra con un sol colpo;
 consisteva nel folgorare il Kaiser mediante telegrafia senza fili.
 C'era stato il signor Napper, del Nebraska, le cui trattative per
-trasferire la Rupe di Shakespeare in [[settings/america|America]] come simbolo dell'[[unity]]
+trasferire la Rupe di Shakespeare in [[settings/america|America]] come simbolo dell'unity
 anglosassone furono inspiegabilmente frustrate dal fermo rifiuto della
 Repubblica Americana di inviarci in cambio la Plymouth Rock. E c'era
 stato quell'affascinante e colto bostoniano, il colonnello Hoopoe, che
@@ -10721,8 +10721,8 @@ the [[settings/cathedral|Cathedral]], the Vicarage, and so on.  So much for that
 which stands somewhat apart; the others are mostly normal. 
 Rosenbaum [[settings/castle|Castle]]--I should say Rosewood [[settings/castle|Castle]]--being of a later date,
 comes under Section Five, and the appointment of a permanent
-[[settings/castle|Castle]] Custodian is left to the discretion of the [[government|Government]]. 
-In this case the [[government|Government]] has decided to appoint Mr. Rosewood Low
+[[settings/castle|Castle]] Custodian is left to the discretion of the Government. 
+In this case the Government has decided to appoint Mr. Rosewood Low
 to the post, in recognition of his local services to social science
 and economics.  In all these cases, of course, due compensation
 will be paid to the present owners of the estates, and ample
@@ -10773,7 +10773,7 @@ come with your letters this morning."
 servants brought it in.  How the devil did it get out here in the [[motifs/garden|garden]]?"
 
 He ripped it open with his finger and remained for some [[motifs/time|time]] staring
-in [[Mystification|mystification]] at its contents.
+in mystification at its contents.
 
 "Welkin [[settings/castle|Castle]],
 Sept. 4th, 19--.
@@ -10825,14 +10825,14 @@ The historic and even heroic traditions of Welkin [[settings/castle|Castle]] kep
 dozen of the Prime Minister's private secretaries busy for a week,
 looking up encyclopaedias and chronicles and books of [[concepts/history|history]]. 
 But the Prime Minister himself was more worried about another problem. 
-How did these mysterious letters get into the [[house]], or rather into
+How did these mysterious letters get into the house, or rather into
 the [[motifs/garden|garden]]?  None of them came by post and none of the servants knew
 anything about them.  Moreover, the Prime Minister, in an unobtrusive
 way, was very carefully guarded.  Prime Ministers always are. 
 But he had been especially protected ever since the Vegetarians
 a few years before had gone about killing everybody who believed
 in killing [[motifs/animals|animals]].  There were always plain-clothes policemen at
-every entrance of his [[house]] and [[motifs/garden|garden]].  And from their testimony
+every entrance of his house and [[motifs/garden|garden]].  And from their testimony
 it would appear certain that the letter could not have got into
 the [[motifs/garden|garden]]; but for the trifling fact that it was lying there on
 the [[motifs/garden|garden]]-table. Lord Eden cogitated in a grim fashion for some [[motifs/time|time]];
@@ -10858,7 +10858,7 @@ sé; gli altri sono per lo più normali. Il [[settings/castle|Castello]] di
 Rosenbaum—dovrei dire il [[settings/castle|Castello]] di Rosewood—essendo di
 data più recente, rientra nella Sezione Cinque, e la nomina di un
 Custode permanente del [[settings/castle|Castello]] è lasciata alla discrezione
-del [[government|Governo]]. In questo caso il [[government|Governo]] ha
+del Governo. In questo caso il Governo ha
 deciso di nominare a tale carica il signor Rosewood Low, in
 riconoscimento dei suoi servigi locali alla scienza sociale e
 all'economia. In tutti questi casi, naturalmente, sarà versato ai
@@ -10969,14 +10969,14 @@ Welkin tennero occupata per una settimana una dozzina di segretari
 privati del Primo Ministro, a consultare enciclopedie e cronache e
 libri di [[concepts/history|storia]]. Ma il Primo Ministro stesso era più
 preoccupato di un altro problema. Come facevano queste misteriose
-lettere a entrare nella [[house|casa]], o piuttosto nel
+lettere a entrare nella casa, o piuttosto nel
 [[motifs/garden|giardino]]? Nessuna di esse arrivava per posta e nessuno dei
 domestici ne sapeva nulla. Per di più, il Primo Ministro, in modo
 discreto, era assai attentamente sorvegliato. I Primi Ministri lo sono
 sempre. Ma egli era stato particolarmente protetto fin da quando, alcuni
 anni prima, i Vegetariani se n'erano andati in giro a uccidere chiunque
 credesse nell'uccidere gli [[motifs/animals|animali]]. C'erano sempre poliziotti
-in borghese a ogni ingresso della sua [[house|casa]] e del suo
+in borghese a ogni ingresso della sua casa e del suo
 [[motifs/garden|giardino]]. E dalla loro testimonianza sarebbe parso certo che
 la lettera non potesse essere entrata nel [[motifs/garden|giardino]]; se non
 per l'insignificante fatto che giaceva là sul tavolo del
@@ -10990,7 +10990,7 @@ per l'insignificante fatto che giaceva là sul tavolo del
 
 "I think I will have a talk to our American friend Mr. Oates."
 
-Whether from a sense of [[Humour|humour]] or a sense of justice, Lord Eden
+Whether from a sense of humour or a sense of justice, Lord Eden
 summoned Enoch Oates before the same special jury of three;
 or summoned them before him, as the case may be.  For it was even more
 difficult than before to read the exact secret of Eden's sympathies
@@ -11101,7 +11101,7 @@ about private property in air.  The most important of the documents,
 which Lord Eden studied more attentively, though with a grim smile,
 began with the sentence in large letters:
 
-"An Englishman's [[house|House]] Is No Longer His [[settings/castle|Castle]] On The Soil Of England. 
+"An Englishman's House Is No Longer His [[settings/castle|Castle]] On The Soil Of England. 
 If It Is To Be His [[settings/castle|Castle]], It Must Be A [[settings/castle|Castle]] In The Air.
 
 "If There Seem To Be Something Unfamiliar And Even Fanciful In
@@ -11114,7 +11114,7 @@ Houses In The Clouds As Not To Own Your Own Houses On The Earth."
 "Credo che farò due chiacchiere col nostro amico americano, il signor
 Oates."
 
-Vuoi per senso dell'[[Humour|umorismo]] vuoi per senso di giustizia,
+Vuoi per senso dell'umorismo vuoi per senso di giustizia,
 Lord Eden convocò Enoch Oates dinanzi alla stessa speciale giuria di
 tre; o convocò loro dinanzi a sé, secondo il caso. Poiché era ancora
 più difficile di prima leggere l'esatto segreto delle simpatie o delle
@@ -11230,7 +11230,7 @@ piuttosto aerea sulla proprietà privata dell'aria. Il più importante
 dei documenti, che Lord Eden studiò con maggiore attenzione, benché con
 un torvo sorriso, cominciava con la frase a grandi lettere:
 
-"La [[house|Casa]] di un Inglese Non È Più il Suo [[settings/castle|Castello]]
+"La Casa di un Inglese Non È Più il Suo [[settings/castle|Castello]]
 Sul Suolo d'Inghilterra. Se Deve Essere il Suo [[settings/castle|Castello]], Deve
 Essere un [[settings/castle|Castello]] in Aria.
 
@@ -11276,7 +11276,7 @@ of Sir Horace Hunter, O.B.E., smiling in an ingratiating manner
 at his favourite cockatoo.  We know this detail of his existence,
 which might seem a merely domestic one.  But the fact that he is shortly
 to be paid thirty thousand pounds of public money, for continuing
-to live in his own [[house]], is concealed with the utmost delicacy.
+to live in his own house, is concealed with the utmost delicacy.
 
 "Similarly we have seen whole pages of an illustrated paper
 filled with glimpses of Lord Normantowers enjoying his honeymoon,
@@ -11292,8 +11292,8 @@ is thought too trivial for the taxpayer to be told of it.
 Low is improving the breed of Pekinese, and God knows they need it. 
 But it would seem the sort of hobby that anybody might have without
 telling everybody else about it.  On the other hand, the fact
-that Mr. Rosenbaum Low is being paid twice over for the same [[house]],
-and keeping the [[house]] as [[motifs/well|well]], is concealed from the public;
+that Mr. Rosenbaum Low is being paid twice over for the same house,
+and keeping the house as [[motifs/well|well]], is concealed from the public;
 along with the equally interesting fact that he is allowed to do
 these things chiefly because he lends money to the Prime Minister."
 
@@ -11401,12 +11401,12 @@ Sir Horace Hunter, O.B.E., che sorride in maniera ingraziante al suo
 cacatua prediletto. Conosciamo questo particolare della sua esistenza,
 che potrebbe parere puramente domestico. Ma il fatto che egli stia per
 ricevere trentamila sterline di denaro pubblico, per continuare a
-vivere nella propria [[house|casa]], è celato con la massima delicatezza.
+vivere nella propria casa, è celato con la massima delicatezza.
 
 "Similmente abbiamo visto intere pagine di un giornale illustrato
 riempite di scorci di Lord Normantowers che gode della sua luna di
 miele, che i giornali in questione hanno cura di descrivere come la sua
-[[Romance|Storia d'Amore]]. Qualunque cosa sia, un gusto antiquato e
+Storia d'Amore. Qualunque cosa sia, un gusto antiquato e
 schizzinoso potrebbe forse essere disposto a considerarla un affar suo.
 Ma il fatto che il denaro del contribuente, che è affare del
 contribuente, gli venga dato in quantità enormi, prima per uscire dal
@@ -11418,8 +11418,8 @@ venga informato.
 Rosenbaum Low è migliorare la razza dei Pechinesi, e Dio sa se ne hanno
 bisogno. Ma parrebbe il genere di hobby che chiunque potrebbe avere
 senza raccontarlo a tutti gli altri. D'altra parte, il fatto che al
-signor Rosenbaum Low venga pagata due volte la stessa [[house|casa]], e
-che egli tenga anche la [[house|casa]] per [[motifs/well|giunta]], è celato al
+signor Rosenbaum Low venga pagata due volte la stessa casa, e
+che egli tenga anche la casa per [[motifs/well|giunta]], è celato al
 pubblico; assieme al fatto altrettanto interessante che gli è permesso
 fare queste cose principalmente perché presta denaro al Primo Ministro."
 
@@ -11522,11 +11522,11 @@ do I want it uninterrupted.  I mean while I'm here.  A little
 of your scientific conversation goes a long way with me; I know
 what you're like when you're really chatty.  Professor Green will say
 in his satirical way ‘9920.05,' to which you will reply with quiet
-[[Humour|humour]] ‘75.007.' This will be too good an opening for a witty
+humour ‘75.007.' This will be too good an opening for a witty
 fellow like the Professor, who will instantly retort ‘982.09.' Not
-in the best taste perhaps, but a great [[concepts/temptation|temptation]] in the heat of [[debate]]."
+in the best taste perhaps, but a great [[concepts/temptation|temptation]] in the heat of debate."
 
-"Commander Blair," said [[The Professor|the Professor]], "is very kind to let me
+"Commander Blair," said the Professor, "is very kind to let me
 share his calculations."
 
 "Lucky for me," said Blair.  "I'd have done ten times more with
@@ -11534,7 +11534,7 @@ a mathematician like you."
 
 "[[motifs/well|Well]]," said Pierce casually, "as you are so much immersed
 in mathematics, I'll leave you.  As a matter of fact, I had a message
-for Professor Green, about Miss Dale at the [[house]] where he was lodging;
+for Professor Green, about Miss Dale at the house where he was lodging;
 but we mustn't interrupt scientific studies for a little thing like that."
 
 Green's head came up from the papers with great abruptness.
@@ -11543,7 +11543,7 @@ Green's head came up from the papers with great abruptness.
 
 "8282.003," replied Pierce coldly.
 
-"Don't be offended," said Blair.  "Give [[The Professor|the Professor]] his message
+"Don't be offended," said Blair.  "Give the Professor his message
 and then go if you like."
 
 "It's only that she came over to see my wife to find out where you
@@ -11621,7 +11621,7 @@ Shall I tell you a secret?"
 "The cow never does jump over the [[motifs/moon|moon]]," said Blair gravely. 
 "It's one of the sports of the bulls of the herd."
 
-"I'm afraid I don't know what you mean," said [[The Professor|the Professor]].
+"I'm afraid I don't know what you mean," said the Professor.
 
 "I mean that women can't be kept out of this war, because it's
 a land war," answered Blair.  "If it were really a war in the air,
@@ -11657,11 +11657,11 @@ molto meno, lo voglio ininterrotto.  Intendo mentre sono qui.  Un poco
 della vostra conversazione scientifica basta e avanza per me; so
 come siete quando siete davvero in vena di chiacchiere.  Il Professor Green dirà
 nel suo modo satirico ‘9920,05,' al che voi replicherete con tranquillo
-[[Humour|umorismo]] ‘75,007.' Sarà un'apertura troppo ghiotta per un tipo arguto
+umorismo ‘75,007.' Sarà un'apertura troppo ghiotta per un tipo arguto
 come il Professore, il quale ribatterà all'istante ‘982,09.' Non
-di ottimo gusto, forse, ma una grande [[concepts/temptation|tentazione]] nel fervore della [[debate|disputa]]."
+di ottimo gusto, forse, ma una grande [[concepts/temptation|tentazione]] nel fervore della disputa."
 
-"Il Comandante Blair," disse [[The Professor|il Professore]], "è molto gentile a lasciarmi
+"Il Comandante Blair," disse il Professore, "è molto gentile a lasciarmi
 condividere i suoi calcoli."
 
 "Fortuna mia," disse Blair.  "Avrei fatto dieci volte di più con
@@ -11669,7 +11669,7 @@ un matematico come voi."
 
 "[[motifs/well|Bene]]," disse Pierce con noncuranza, "dato che siete così immersi
 nella matematica, vi lascio.  A dire il vero, avevo un messaggio
-per il Professor Green, riguardo alla signorina Dale, nella [[house|casa]] dove alloggiava;
+per il Professor Green, riguardo alla signorina Dale, nella casa dove alloggiava;
 ma non dobbiamo interrompere gli studi scientifici per una cosuccia simile."
 
 La testa di Green si sollevò dalle carte con grande bruschezza.
@@ -11678,7 +11678,7 @@ La testa di Green si sollevò dalle carte con grande bruschezza.
 
 "8282,003," rispose Pierce freddamente.
 
-"Non offenderti," disse Blair.  "Da' a [[The Professor|il Professore]] il suo messaggio
+"Non offenderti," disse Blair.  "Da' a il Professore il suo messaggio
 e poi vattene, se vuoi."
 
 "È solo che è venuta a trovare mia moglie per scoprire dove foste
@@ -11756,7 +11756,7 @@ Vi svelo un segreto?"
 "La mucca non salta mai oltre la [[motifs/moon|luna]]," disse Blair gravemente.
 "È uno degli sport dei tori della mandria."
 
-"Temo di non capire cosa intendiate," disse [[The Professor|il Professore]].
+"Temo di non capire cosa intendiate," disse il Professore.
 
 "Intendo che le donne non si possono tenere fuori da questa guerra, perché è
 una guerra di terra," rispose Blair.  "Se fosse davvero una guerra nell'aria,
@@ -11780,16 +11780,16 @@ engineer like myself ever came to make a thing like that pantomime
 palace over there, as childish as a [[archetypes/child|child]]'s coloured balloon. 
 [[motifs/well|Well]], the answer is the same; because in certain circumstances
 a man may be very different from himself.  At a certain period of
-the old war preparations, I was doing some work for the [[government]]
+the old war preparations, I was doing some work for the government
 in a secluded part of the western coast of Ireland.  There were
 very few people for me to talk to; but one of them was the daughter
 of a bankrupt squire named Malone; and I talked to her a good deal. 
 I was about as mechanical a mechanic as you could dig out anywhere;
 grimy, grumpy, tinkering about with dirty machinery.  She was
-really like those princesses you read about in the Celtic [[Poems|poems]];
+really like those princesses you read about in the Celtic poems;
 with a red [[motifs/crown|crown]] made of curling elf-locks like little flames,
 and a pale elfin face that seemed somehow thin and luminous
-like glass; and she could make you listen to [[motifs/silence|silence]] like a [[Song|song]]. 
+like glass; and she could make you listen to [[motifs/silence|silence]] like a song. 
 It wasn't a pose with her, it was a poem; there are people like that,
 but very few of them like her.  I tried to keep up my end by telling
 her about the wonders of science, and the great new architecture
@@ -11876,16 +11876,16 @@ e pratico come me sia mai arrivato a costruire una cosa come quel
 palazzo da pantomima laggiù, puerile come il palloncino colorato di un [[archetypes/child|bambino]].
 [[motifs/well|Ebbene]], la risposta è la stessa; perché in certe circostanze
 un uomo può essere assai diverso da sé stesso.  In un certo periodo dei
-vecchi preparativi di guerra, stavo facendo un lavoro per il [[government|governo]]
+vecchi preparativi di guerra, stavo facendo un lavoro per il governo
 in una parte appartata della costa occidentale dell'Irlanda.  C'erano
 pochissime persone con cui potessi parlare; ma una di esse era la figlia
 di uno squire in rovina di nome Malone; e con lei parlai parecchio.
 Ero un meccanico dei più meccanici che si possano dissotterrare in giro;
 sporco, scontroso, sempre a trafficare con macchinari lerci.  Lei era
-davvero come quelle principesse di cui si legge nei [[Poems|Poemi]] celtici;
+davvero come quelle principesse di cui si legge nei Poemi celtici;
 con una rossa [[motifs/crown|corona]] fatta di riccioli fatati come piccole fiamme,
 e un pallido viso di elfo che pareva in qualche modo sottile e luminoso
-come vetro; e sapeva farti ascoltare il [[motifs/silence|silenzio]] come una [[Song|canzone]].
+come vetro; e sapeva farti ascoltare il [[motifs/silence|silenzio]] come una canzone.
 Non era una posa in lei, era una poesia; c'è gente così,
 ma pochissimi come lei.  Cercavo di reggere il mio ruolo raccontandole
 delle meraviglie della scienza, e della grande nuova architettura
@@ -12037,9 +12037,9 @@ of the valley."
 
 "Listen to this," cried her husband, turning over the pages
 of the book.  "‘According to the general belief, which prevailed
-until the recent [[success]] of the agrarian movement of the Long Bow,
+until the recent success of the agrarian movement of the Long Bow,
 it was overwhelmingly improbable that a revolutionary change could
-be effected in England.  The recent [[success]] of the agrarian protest--'"
+be effected in England.  The recent success of the agrarian protest--'"
 
 "Do come out of that book," remonstrated his wife.  "One of our
 visitors has just arrived."
@@ -12161,9 +12161,9 @@ della valle."
 
 "Ascolta questo," esclamò il marito, voltando le pagine
 del libro.  "‘Secondo la credenza generale, che prevalse
-fino al recente [[success|successo]] del movimento agrario del Lungo Arco,
+fino al recente successo del movimento agrario del Lungo Arco,
 era straordinariamente improbabile che un mutamento rivoluzionario potesse
-compiersi in Inghilterra.  Il recente [[success|successo]] della protesta agraria--'"
+compiersi in Inghilterra.  Il recente successo della protesta agraria--'"
 
 "Ma esci da quel libro," lo rimproverò la moglie.  "Uno dei nostri
 ospiti è appena arrivato."
@@ -12310,7 +12310,7 @@ which was the result of this departure fell largely into the hands
 of his lieutenants like Hunter and Low.  It soon became apparent
 that some of the illusions of the Eden epoch had worn rather thin. 
 It was found that the [[concepts/democracy|democracy]] could not always be intimidated
-even by the threat of consulting them about the choice of a [[government|Government]].
+even by the threat of consulting them about the choice of a Government.
 
 "Nor can it be denied that the General Election of 19-- was from
 the first rendered somewhat unreal by certain legal fictions
@@ -12330,7 +12330,7 @@ of all these replicas, the popular and brilliant Chancellor himself,
 was enjoying a [[motifs/well|well]]-earned rest by the Lake of Como.  The incident
 of two identical Lord Smiths appearing side by side on the same
 platform (through a miscalculation of the party agents), though
-received with good [[Humour|humour]] and honest merriment by the audience,
+received with good humour and honest merriment by the audience,
 did but little good to the serious credit of parliamentary institutions. 
 There was of course a certain exaggeration in the suggestion
 of the satirist that a whole column of identical Prime Ministers,
@@ -12435,7 +12435,7 @@ che furono il risultato di questa svolta caddero in gran parte nelle mani
 dei suoi luogotenenti come Hunter e Low.  Divenne presto evidente
 che alcune delle illusioni dell'epoca di Eden si erano piuttosto logorate.
 Si scoprì che la [[concepts/democracy|democrazia]] non poteva sempre essere intimidita
-nemmeno con la minaccia di consultarla circa la scelta di un [[government|Governo]].
+nemmeno con la minaccia di consultarla circa la scelta di un Governo.
 
 "Né si può negare che le Elezioni Generali del 19-- furono fin
 dal principio rese alquanto irreali da certe finzioni giuridiche
@@ -12455,7 +12455,7 @@ di tutte queste repliche, il popolare e brillante Cancelliere in persona,
 si godeva un [[motifs/well|ben]] meritato riposo presso il Lago di Como.  L'incidente
 dei due identici Lord Smith che apparvero fianco a fianco sulla stessa
 tribuna (per un errore di calcolo degli agenti di partito), benché
-accolto con buon [[Humour|umore]] e onesta allegria dal pubblico,
+accolto con buon umore e onesta allegria dal pubblico,
 giovò ben poco al serio credito delle istituzioni parlamentari.
 C'era naturalmente una certa esagerazione nel suggerimento
 del satirico che un'intera colonna di identici Primi Ministri,
@@ -12552,15 +12552,15 @@ Eden and his Cabinet finally committed themselves to the scheme
 of Land Nationalization by which their homesteads were to pass
 into official control.  That curious and inexplicable thing,
 the spirit of the peasant, had made great strides in the interval. 
-It was found that the [[government|Government]] could not move such people about
+It was found that the Government could not move such people about
 from place to place, as it is possible to do with the urban poor
 in the reconstruction of streets or the destruction of slums. 
 It was not a thing like moving pawns, but a thing like pulling
 up plants; and plants that had already struck their roots very deep. 
-In short, the [[government|Government]], which had already adopted a policy commonly
+In short, the Government, which had already adopted a policy commonly
 called Socialist from motives that were in fact very conservative,
 found itself confronted with the same peasant resistance as brought
-the Bolshevist [[government|Government]] in [[settings/russia|Russia]] to a standstill.  And when Lord
+the Bolshevist Government in [[settings/russia|Russia]] to a standstill.  And when Lord
 Eden and his Cabinet put in motion the whole modern machinery of
 militarism and coercion to crush the little experiment, he found himself
 confronted with a rural rising such as has not been known in England
@@ -12651,15 +12651,15 @@ Eden e il suo Gabinetto si impegnarono infine nel progetto
 di Nazionalizzazione della Terra, per il quale le loro fattorie dovevano passare
 al controllo ufficiale.  Quella curiosa e inspiegabile cosa,
 lo spirito del contadino, aveva fatto grandi passi in quell'intervallo.
-Si scoprì che il [[government|Governo]] non poteva spostare tali persone
+Si scoprì che il Governo non poteva spostare tali persone
 da luogo a luogo, come è possibile fare coi poveri urbani
 nella ricostruzione delle strade o nella demolizione delle baraccopoli.
 Non era una cosa come muovere pedine, ma una cosa come strappare
 piante; e piante che avevano già affondato le radici molto profonde.
-In breve, il [[government|Governo]], che aveva già adottato una politica comunemente
+In breve, il Governo, che aveva già adottato una politica comunemente
 detta Socialista per motivi che erano di fatto assai conservatori,
 si trovò di fronte alla stessa resistenza contadina che portò
-il [[government|Governo]] bolscevico in [[settings/russia|Russia]] a una stasi.  E quando Lord
+il Governo bolscevico in [[settings/russia|Russia]] a una stasi.  E quando Lord
 Eden e il suo Gabinetto misero in moto l'intero moderno macchinario del
 militarismo e della coercizione per schiacciare il piccolo esperimento, si trovò
 di fronte a una sollevazione rurale quale non si era vista in Inghilterra
@@ -12684,7 +12684,7 @@ Therefore when Lord Eden proclaimed Nationalization, they turned
 out in thousands as their fathers would have gone out against pirates
 or wolves.
 
-"The [[government|Government]] acted with great promptitude.  It instantly
+"The Government acted with great promptitude.  It instantly
 voted 50,000 pounds to Mr. Rosenbaum Low, the expenditure of
 which was wisely left to his discretion at so acute a crisis,
 with no more than the understanding that he should take a thorough
@@ -12724,7 +12724,7 @@ what sort of battleship might best defend his country's coasts,
 was insensibly and subtly influenced by the number of times that he
 had seen its name repeated on the steps of a moving staircase
 at an Imperial Exhibition.  Nor could there be any [[concepts/doubt|doubt]] about
-the brilliant [[success]] that attended these scientific specialties
+the brilliant success that attended these scientific specialties
 so long as their operations were confined to the market. 
 The methods of Commander Blair were in comparison private, local,
 obscure and lacking any general recognition; and by a strange irony
@@ -12789,7 +12789,7 @@ Perciò quando Lord Eden proclamò la Nazionalizzazione, uscirono
 a migliaia come i loro padri sarebbero usciti contro i pirati
 o i lupi.
 
-"Il [[government|Governo]] agì con grande prontezza.  Votò all'istante
+"Il Governo agì con grande prontezza.  Votò all'istante
 50.000 sterline al signor Rosenbaum Low, la cui spesa
 fu saggiamente lasciata alla sua discrezione in una crisi così acuta,
 con nient'altro che l'intesa che egli desse un'approfondita
@@ -12829,7 +12829,7 @@ su quale tipo di corazzata potesse meglio difendere le coste del suo paese,
 era insensibilmente e sottilmente influenzato dal numero di volte che aveva
 visto il suo nome ripetuto sugli scalini di una scala mobile
 a un'Esposizione Imperiale.  Né poteva esserci alcun [[concepts/doubt|dubbio]] sul
-brillante [[success|successo]] che accompagnava queste specialità scientifiche
+brillante successo che accompagnava queste specialità scientifiche
 finché le loro operazioni erano confinate al mercato.
 I metodi del Comandante Blair erano al confronto privati, locali,
 oscuri e privi di qualsiasi riconoscimento generale; e per una strana ironia
@@ -12895,12 +12895,12 @@ rendered the campaign a contradiction to so many sound military maxims.
 depend upon roads.  But anyone who had noticed the conditions that
 were already beginning to appear in the [[settings/london|London]] streets as early
 as 1924 will understand that a [[motifs/road|road]] was something less simple
-and static than the Romans imagined.  The [[government|Government]] had adopted
+and static than the Romans imagined.  The Government had adopted
 everywhere in their [[motifs/road|road]]-making the [[motifs/well|well]]-known material familiar
 to us all from the advertisements by the name of "Nobumpo,"
 thereby both insuring the comfort of travellers and rewarding
 a faithful supporter by placing a large order with Mr. Hugg. 
-As several members of the [[government|Government]] themselves held shares in Nobumpo
+As several members of the Government themselves held shares in Nobumpo
 their enthusiastic co-operation in the public work was assured. 
 But, as has no [[concepts/doubt|doubt]] been observed everywhere, it is one of the many
 advantages of Nobumpo, as preserving that freshness of surface
@@ -12958,7 +12958,7 @@ in reference to some strangely fantastic boast, equally strangely fulfilled,
 that is said to have been uttered by the celebrated Parson White,
 a sort of popular chaplain who seems to have been the Friar Tuck
 of this new band of [[characters/robin-hood|Robin Hood]].  Coming on a sort of embassy to Sir
-Horace Hunter, this clergyman is said to have threatened the [[government|Government]]
+Horace Hunter, this clergyman is said to have threatened the Government
 with something like a miracle.  When rallied about the archaic
 sport of the long bow, he replied:  ‘Yes, we have long bows and we
 shall have longer bows; the longest bows the world has ever seen;
@@ -12997,12 +12997,12 @@ rendere la campagna una contraddizione a tante sane massime militari.
 dipendono dalle strade.  Ma chiunque avesse notato le condizioni che
 già cominciavano ad apparire nelle vie di [[settings/london|Londra]] fin
 dal 1924 capirà che una [[motifs/road|strada]] era qualcosa di meno semplice
-e statico di quanto i Romani immaginassero.  Il [[government|Governo]] aveva adottato
+e statico di quanto i Romani immaginassero.  Il Governo aveva adottato
 dappertutto nella sua costruzione di [[motifs/road|strade]] il [[motifs/well|ben]] noto materiale a noi tutti
 familiare dalle pubblicità col nome di "Nobumpo,"
 assicurando così sia il comfort dei viaggiatori sia ricompensando
 un fedele sostenitore col piazzare un grosso ordine presso il signor Hugg.
-Poiché parecchi membri del [[government|Governo]] stessi possedevano azioni della Nobumpo,
+Poiché parecchi membri del Governo stessi possedevano azioni della Nobumpo,
 la loro entusiastica cooperazione all'opera pubblica era assicurata.
 Ma, come si è senza [[concepts/doubt|dubbio]] osservato dappertutto, è uno dei molti
 vantaggi del Nobumpo, nel preservare quella freschezza di superficie
@@ -13060,7 +13060,7 @@ in riferimento a una qualche stranamente fantastica millanteria, altrettanto str
 che si dice sia stata pronunciata dal celebre Parroco White,
 una sorta di cappellano popolare che pare sia stato il Frate Tuck
 di questa nuova banda di [[characters/robin-hood|Robin Hood]].  Venuto in una sorta di ambasciata da Sir
-Horace Hunter, questo ecclesiastico si dice abbia minacciato il [[government|Governo]]
+Horace Hunter, questo ecclesiastico si dice abbia minacciato il Governo
 con qualcosa di simile a un miracolo.  Quando fu punzecchiato sull'arcaico
 sport del lungo arco, rispose: ‘Sì, abbiamo lunghi archi e ne
 avremo di più lunghi; i più lunghi archi che il mondo abbia mai visto;
@@ -13138,7 +13138,7 @@ States of Europe and wants to introduce you to a Lithuanian [[archetypes/prophet
 It seems this Lithuanian party has started a movement for a
 Universal Peasant Republic or World State of Workers on the Land;
 but at present he's only got as far as Lithuania.  But he seems
-inclined to pick up England on the way, after the unexpected [[success]]
+inclined to pick up England on the way, after the unexpected success
 of the English agrarian party."
 
 "What's the good of talking to me about a World State," growled Hood. 
@@ -13227,7 +13227,7 @@ Nazioni Europee e vuole presentarvi un [[archetypes/prophet|profeta]] lituano.
 Sembra che questo partito lituano abbia dato inizio a un movimento per una
 Repubblica Universale dei Contadini o Stato Mondiale degli Operai della Terra;
 ma al momento non è arrivato oltre la Lituania. Ma sembra
-propenso ad aggiungere l'Inghilterra lungo il cammino, dopo l'inatteso [[success|successo]]
+propenso ad aggiungere l'Inghilterra lungo il cammino, dopo l'inatteso successo
 del partito agrario inglese."
 
 «A che serve parlarmi di uno Stato Mondiale», brontolò Hood.
@@ -13298,16 +13298,16 @@ Colonel Crane repressed a slight shudder.  "No, thank you; no, thank you,"
 he said hastily.  Then he muttered as he turned away:  "I don't
 mind revolutions so much, but I wouldn't go through that again."
 
-And he passed swiftly round his [[house]], of which the windows began
+And he passed swiftly round his house, of which the windows began
 to show the glow of kindled lamps, and went in to his wife.
 
-Archer was left [[Alone|alone]] in the [[motifs/garden|garden]], tidying up after his work and shifting
+Archer was left alone in the [[motifs/garden|garden]], tidying up after his work and shifting
 the potted shrubs; a dark and solitary figure as sunset and twilight
 sank all around the enclosure like soft curtains of grey with a border
 of purple; and the windows, as yet uncurtained and full of lamplight,
 painted patterns of gold on the lawns and flagged walks without. 
-It was perhaps appropriate that he should remain [[Alone|alone]] and apart;
-for he [[Alone|alone]] in all these changes had remained quite unchanged. 
+It was perhaps appropriate that he should remain alone and apart;
+for he alone in all these changes had remained quite unchanged. 
 It was perhaps fitting that his figure should stand in a dark outline
 against the darkening scene; for the mystery of his immutable
 respectability remains more of a [[forms/riddle|riddle]] than all the riot of the rest. 
@@ -13319,7 +13319,7 @@ he hasten to die out, as was his duty on evolutionary principles.
 He was merely a [[concepts/survival|survival]]; but he showed a perplexing disposition
 to survive.
 
-Suddenly the lonely gardener realized that he was not [[Alone|alone]]. 
+Suddenly the lonely gardener realized that he was not alone. 
 A face had appeared above the hedge, gazing at him with blue eyes
 dreaming yet burning; a face with something of the tint and profile
 of Shelley.  It was impossible that Mr. Archer should have heard
@@ -13345,7 +13345,7 @@ shafts of [[motifs/death|death]] but of life and fruitfulness; whose arrows plan
 themselves like little flowering trees; like the little shrubs you
 are planting in this [[motifs/garden|garden]]?  Are you he that gives the sunstroke
 not in the head but the heart; and have you stricken each of us
-in turn with the [[Romance|romance]] that has awakened us for the revolution? 
+in turn with the romance that has awakened us for the revolution? 
 For without that spirit of fruitfulness and the promise of the family,
 these visions would indeed be vain.  Are you in [[concepts/truth|truth]] the God of [[motifs/love|Love]];
 and has your arrow stung and startled each of us into telling
@@ -13374,7 +13374,7 @@ a stage of his story-telling that generally satisfactory solution
 of all our troubles was found.  He knows not if the [[motifs/sleep|sleep]] has
 been undisturbed, or in that [[motifs/sleep|sleep]] what [[motifs/dreams|dreams]] may come, if there has
 been cast upon it any [[archetypes/shadow|shadow]] of the shapes of his own very private
-and comfortable [[nightmare]]; turrets clad with the wings of morning
+and comfortable nightmare; turrets clad with the wings of morning
 or temples marching over dim meadows as living monsters, or swine
 plumed like cherubim or forests bent like bows, or a fiery [[motifs/river|river]]
 winding through a dark land.  Images are in their [[concepts/nature|nature]] indefensible,
@@ -13409,16 +13409,16 @@ Il colonnello Crane represse un lieve fremito. «No, grazie; no, grazie,»
 disse in fretta. Poi mormorò mentre si voltava: «Non mi
 dispiacciono tanto le rivoluzioni, ma non vorrei ripassare per quella faccenda.»
 
-E girò rapidamente attorno alla sua [[house|casa]], le cui finestre cominciavano
+E girò rapidamente attorno alla sua casa, le cui finestre cominciavano
 a mostrare il bagliore delle lampade accese, ed entrò dalla moglie.
 
-Archer rimase [[Alone|solo]] nel [[motifs/garden|giardino]], mettendo in ordine dopo il suo lavoro e spostando
+Archer rimase solo nel [[motifs/garden|giardino]], mettendo in ordine dopo il suo lavoro e spostando
 gli arbusti in vaso; una figura scura e solitaria mentre il tramonto e il crepuscolo
 calavano tutt'intorno al recinto come morbide cortine di grigio con un orlo
 di porpora; e le finestre, ancora senza tende e piene di luce di lampada,
 dipingevano disegni d'oro sui prati e sui vialetti lastricati là fuori.
-Era forse appropriato che egli restasse [[Alone|solo]] e in disparte;
-poiché egli [[Alone|solo]] in tutti questi mutamenti era rimasto del tutto immutato.
+Era forse appropriato che egli restasse solo e in disparte;
+poiché egli solo in tutti questi mutamenti era rimasto del tutto immutato.
 Era forse conveniente che la sua figura si stagliasse in un profilo scuro
 contro la scena che si oscurava; poiché il mistero della sua immutabile
 rispettabilità resta più un [[forms/riddle|enigma]] di tutto il tumulto del resto.
@@ -13430,7 +13430,7 @@ affrettarsi a estinguersi, come era suo dovere secondo i principi evoluzionistic
 Egli era soltanto una [[concepts/survival|sopravvivenza]]; ma mostrava una sconcertante disposizione
 a sopravvivere.
 
-D'improvviso il solitario giardiniere si accorse di non essere [[Alone|solo]].
+D'improvviso il solitario giardiniere si accorse di non essere solo.
 Un volto era apparso sopra la siepe, fissandolo con occhi azzurri
 sognanti eppure ardenti; un volto con qualcosa della tinta e del profilo
 di Shelley. Era impossibile che il signor Archer avesse mai sentito
@@ -13456,7 +13456,7 @@ saette di [[motifs/death|morte]] ma di vita e fecondità; le cui frecce si piant
 come alberelli in fiore; come i piccoli arbusti che voi
 state piantando in questo [[motifs/garden|giardino]]? Siete voi colui che dà l'insolazione
 non alla testa ma al cuore; e avete colpito ciascuno di noi
-a sua volta con quel [[Romance|romanticismo]] che ci ha destati per la rivoluzione?
+a sua volta con quel romanticismo che ci ha destati per la rivoluzione?
 Poiché senza quello spirito di fecondità e la promessa della famiglia,
 queste visioni sarebbero davvero vane. Siete voi in [[concepts/truth|verità]] il Dio dell'[[motifs/love|Amore]];
 e la vostra freccia ha punto e trasalire fatto ciascuno di noi fino a raccontare
@@ -13485,7 +13485,7 @@ tanto precoce del suo narrare fu trovata quella soluzione
 generalmente soddisfacente di tutti i nostri guai. Egli non sa se il [[motifs/sleep|sonno]] sia
 stato indisturbato, o in quel [[motifs/sleep|sonno]] quali [[motifs/dreams|sogni]] possano venire, se sia
 stata gettata su di esso alcun'[[archetypes/shadow|ombra]] delle forme del suo stesso privatissimo
-e comodo [[nightmare|incubo]]; torri rivestite delle ali del mattino
+e comodo incubo; torri rivestite delle ali del mattino
 o templi che marciano su prati indistinti come mostri viventi, o porci
 impennacchiati come cherubini o foreste piegate come archi, o un fiammeggiante [[motifs/river|fiume]]
 serpeggiante attraverso una terra oscura. Le immagini sono per loro [[concepts/nature|natura]] indifendibili,

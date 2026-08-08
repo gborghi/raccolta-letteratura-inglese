@@ -52,12 +52,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/ages-of-the-world|Ages of the World]], [[topoi/paradise-lost|Paradise Lost]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/golden-age|Golden Age]]
-**Archetypes:** Tragic Hero, King
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/king|King]]
 **Motifs:** [[motifs/sun|Sun]], [[motifs/fire|Fire]], [[motifs/light-and-dark|Light and Dark]], [[motifs/silence|Silence]], [[motifs/dreams|Dreams]], [[motifs/music-and-song|Music and Song]]
 **Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/natural-order|Natural Order]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/melancholy|Melancholy]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/sublime|Sublime]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/epic|Epic]], [[forms/blank-verse|Blank Verse]], [[forms/fragment|Fragment]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/classical-antiquity|Classical Antiquity]]
-**Characters:** Prometheus, Hyperion, Saturn, Apollo
+**Characters:** [[characters/prometheus|Prometheus]], [[characters/hyperion|Hyperion]], [[characters/saturn|Saturn]], [[characters/apollo|Apollo]]
 
 ## Testo integrale / Full text
 

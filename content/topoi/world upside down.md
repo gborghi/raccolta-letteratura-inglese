@@ -86,11 +86,11 @@ tags:
 - [[works/a-child's-history-of-england-(dickens)|A Child's History of England (Dickens)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 1314. When a Lover is a Beggar (Dickinson)
-- 144. She bore it till the simple veins (Dickinson)
-- 166. I met a King this afternoon! (Dickinson)
-- 171. Wait till the Majesty of Death (Dickinson)
-- 415. Sunset at Night — is natural — (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1314_when_a_lover_is_a_beggar|1314. When a Lover is a Beggar (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0144_she_bore_it_till_the_simple_veins|144. She bore it till the simple veins (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0166_i_met_a_king_this_afternoon|166. I met a King this afternoon! (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0171_wait_till_the_majesty_of_death|171. Wait till the Majesty of Death (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0415_sunset_at_night_is_natural|415. Sunset at Night — is natural — (Dickinson)]]
 - [[works/of-the-awefull-battle-of-the-pekes-and-the-pollicles-(eliot)|Of the Awefull Battle of the Pekes and the Pollicles (Eliot)]]
 - [[works/a-tale-of-jerusalem-(poe)|A Tale of Jerusalem (Poe)]]
 - [[works/bon-bon-(poe)|Bon-Bon (Poe)]]
@@ -106,7 +106,7 @@ tags:
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
 - [[works/richard-duke-of-york---(3-henry-vi)-(shakespeare)|RICHARD DUKE OF YORK - (3 HENRY VI) (Shakespeare)]]
-- Sonnet 66 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_066|Sonnet 66 (Shakespeare)]]
 - [[works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)|THE FIRST PART OF THE CONTENTION - (2 HENRY VI) (Shakespeare)]]
 - [[works/the-history-of-king-lear---the-quarto-text-(shakespeare)|THE HISTORY OF KING LEAR - THE QUARTO TEXT (Shakespeare)]]
 - [[works/the-merry-wives-of-windsor-(shakespeare)|THE MERRY WIVES OF WINDSOR (Shakespeare)]]

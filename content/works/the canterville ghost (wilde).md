@@ -66,13 +66,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/memento-mori|Memento Mori]], [[topoi/sleeper-awakes|Sleeper Awakes]]
-**Archetypes:** Ghost, Innocent, Child, Self-Made Man
+**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/innocent|Innocent]], [[archetypes/child|Child]], [[archetypes/self-made-man|Self-Made Man]]
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/blood|Blood]], [[motifs/supernatural|Supernatural]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/grave|Grave]], [[motifs/nightingale|Nightingale]], [[motifs/garden|Garden]], [[motifs/death|Death]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
 **Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/satire-of-society|Satire of Society]], [[concepts/mercy|Mercy]], [[concepts/death-and-love|Death and Love]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/innocence-and-experience|Innocence and Experience]]
 **Forms & Genres:** [[forms/parody|Parody]], [[forms/gothic-novel|Gothic Novel]], [[forms/short-story|Short Story]], [[forms/comedy|Comedy]]
 **Historical References:** [[historical-references/new-england|New England]], [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/castle|Castle]], [[settings/rural-england|Rural England]]
-**Characters:** Sir Simon de Canterville, Hiram B Otis, Virginia Otis, Washington Otis, Mrs Otis
+**Characters:** [[characters/sir-simon-de-canterville|Sir Simon de Canterville]], [[characters/hiram-b-otis|Hiram B Otis]], [[characters/virginia-otis|Virginia Otis]], [[characters/washington-otis|Washington Otis]], [[characters/mrs-otis|Mrs Otis]]
 
 ## Testo integrale / Full text
 

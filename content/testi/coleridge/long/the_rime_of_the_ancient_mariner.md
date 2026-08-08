@@ -281,7 +281,7 @@ Almost upon the western wave
 Bested the broad bright Sun;  
 When that strange shape drove suddenly   175  
 Betwixt us and the Sun.  
-[Sidenote: It seemeth him but the [[skeleton]] of a [[motifs/ship|ship]].]  
+[Sidenote: It seemeth him but the skeleton of a [[motifs/ship|ship]].]  
 And straight the Sun was flecked with bars,  
 (Heaven’s Mother send us grace!)  
 As if through a dungeon-grate he peered  
@@ -293,7 +293,7 @@ How fast she nears and nears!
 Are those her sails that glance in the Sun,  
 Like restless gossameres?  
 [Sidenote: The Spectre-Woman and her [[motifs/death|Death]]-mate, and no other on board  
-the [[skeleton]] [[motifs/ship|ship]].]  
+the skeleton [[motifs/ship|ship]].]  
 Are those her ribs through which the Sun   185  
 Did peer, as through a grate?  
 And is that Woman all her crew?  
@@ -360,7 +360,7 @@ I [[concepts/fear|fear]] thee and thy glittering eye,
 And thy skinny hand, so brown.’ —  
 [[concepts/fear|Fear]] not, [[concepts/fear|fear]] not, thou Wedding-Guest!   230  
 This [[concepts/body|body]] dropt not down.  
-[[works/alone-(poe)|Alone]], [[Alone|alone]], all, all [[Alone|alone]],  
+[[works/alone-(poe)|Alone]], alone, all, all alone,  
 [[works/alone-(poe)|Alone]] on a wide wide sea!  
 And never a saint took pity on  
 My [[motifs/soul|soul]] in agony.   235  
@@ -490,7 +490,7 @@ Beneath the [[motifs/lightning|lightning]] and the [[motifs/moon|Moon]]
 The dead men gave a groan.   330  
 They groaned, they stirred, they all uprose,  
 Nor spake, nor moved their eyes;  
-It had been strange, even in [[A Dream|a dream]],  
+It had been strange, even in a dream,  
 To have seen those dead men rise.  
 The helmsman steered, the [[motifs/ship|ship]] moved on;   335  
 Yet never a breeze up-blew;  
@@ -525,7 +525,7 @@ How they seemed to fill the sea and air
 With their sweet jargoning!  
 And now ‘twas like all instruments,  
 Now like a lonely flute;  
-And now it is an angel’s [[Song|song]],   365  
+And now it is an angel’s song,   365  
 That makes the heavens be mute.  
 It ceased; yet still the sails made on  
 A pleasant noise till [[motifs/noon|noon]],  
@@ -648,10 +648,10 @@ Yet it felt like a welcoming.
 Swiftly, swiftly flew the [[motifs/ship|ship]],   460  
 Yet she sailed softly too:  
 Sweetly, sweetly blew the breeze —  
-On me [[Alone|alone]] it blew.  
+On me alone it blew.  
 [Sidenote: And the [[characters/ancient-mariner|ancient Mariner]] beholdeth his native country.]  
 Oh! dream of joy! is this indeed  
-The light-[[house]] top I see?   465  
+The light-house top I see?   465  
 Is this the [[motifs/hill|hill]]? is this the kirk?  
 Is this mine own countree?  
 We drifted o’er the harbour-bar,  
@@ -1022,7 +1022,7 @@ OF
 THE [[characters/ancient-mariner|ANCIENT MARINER]], PART  
 THE  
 FOURTH S. L. 1828, 1829.  
-[[Alone|ALONE]] ON THE WIDE WIDE SEA;  
+ALONE ON THE WIDE WIDE SEA;  
 AND [[characters/christ|CHRIST]] WOULD TAKE NO PITY ON  
 L. B. 1798, 1800.  
 XI).  
@@ -1107,7 +1107,7 @@ The bodies [[motifs/rose|rose]] anew:
 With silent pace, each to his place,  
 Came back the ghastly crew,  
 The [[motifs/wind|wind]], that shade nor motion made,  
-On me [[Alone|alone]] it blew.  
+On me alone it blew.  
 L. B. 1798.  
 Then vanish’d all the lovely lights,  
 The spirits of the air,  

@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Rebel
+**Archetypes:** [[archetypes/rebel|Rebel]]
 **Themes & Concepts:** [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/faith|Faith]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]
 **Historical References:** [[historical-references/bible|Bible]]

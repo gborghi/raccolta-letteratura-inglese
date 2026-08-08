@@ -46,13 +46,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Outsider, Great Mother, Child
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/great-mother|Great Mother]], [[archetypes/child|Child]]
 **Motifs:** [[motifs/inn-tavern|Inn Tavern]], [[motifs/stars|Stars]], [[motifs/home|Home]], [[motifs/journey|Journey]]
 **Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/exile|Exile]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/providence|Providence]], [[concepts/paradox|Paradox]]
 **Forms & Genres:** [[forms/hymn|Hymn]], [[forms/lyric|Lyric]]
 **Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/bible|Bible]]
 **Settings:** [[settings/inn|Inn]]
-**Characters:** Virgin Mary, Christ
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

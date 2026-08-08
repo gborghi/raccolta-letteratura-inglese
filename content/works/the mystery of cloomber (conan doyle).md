@@ -62,7 +62,7 @@ tags:
 **Themes & Concepts:** [[concepts/fear|Fear]], [[concepts/guilt|Guilt]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/revenge|Revenge]], [[concepts/mesmerism|Mesmerism]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/fate-and-free-will|Fate and Free Will]]
 **Motifs:** [[motifs/ghosts|Ghosts]], [[concepts/uncanny|Uncanny]], [[motifs/house-mansion|House Mansion]], [[motifs/secrets|Secrets]], [[motifs/journey|Journey]]
 **Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]]
-**Characters:** General Heatherstone, John Fothergill West, Gabriel Heatherstone, Mordaunt Heatherstone
-**Archetypes:** Avenger, Outsider, Prophet
+**Characters:** [[characters/general-heatherstone|General Heatherstone]], [[characters/john-fothergill-west|John Fothergill West]], [[characters/gabriel-heatherstone|Gabriel Heatherstone]], [[characters/mordaunt-heatherstone|Mordaunt Heatherstone]]
+**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/outsider|Outsider]], [[archetypes/prophet|Prophet]]
 
 **Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]

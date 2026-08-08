@@ -38,7 +38,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Motifs:** [[motifs/clock|Clock]], [[motifs/music-and-song|Music and Song]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/order-vs-chaos|Order vs Chaos]]
 **Forms & Genres:** [[forms/satire|Satire]]

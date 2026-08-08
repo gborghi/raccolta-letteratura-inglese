@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** Pilgrim
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 **Motifs:** [[motifs/journey|Journey]], [[motifs/autumn|Autumn]], [[motifs/mutability|Mutability]]
 **Themes & Concepts:** [[concepts/hope|Hope]], [[concepts/transience|Transience]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]

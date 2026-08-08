@@ -27,17 +27,17 @@ tags:
 - [[works/phantom-or-fact-a-dialogue-in-verse-(coleridge)|PHANTOM OR FACT A DIALOGUE IN VERSE (Coleridge)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
-- 1727. If ever the lid gets off my head (Dickinson)
-- 532. I tried to think a lonelier Thing (Dickinson)
-- 670. One need not be a Chamber — to be Haunted — (Dickinson)
-- 683. The Soul unto itself (Dickinson)
+- [[testi/dickinson/atomized/terror-and-horror-madness#1727_if_ever_the_lid_gets_off_my_head|1727. If ever the lid gets off my head (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0532_i_tried_to_think_a_lonelier_thing|532. I tried to think a lonelier Thing (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0670_one_need_not_be_a_chamber_to_be_haunted|670. One need not be a Chamber — to be Haunted — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0683_the_soul_unto_itself|683. The Soul unto itself (Dickinson)]]
 - [[works/metzengerstein-(poe)|Metzengerstein (Poe)]]
 - [[works/the-fall-of-the-house-of-usher-(poe)|The Fall of the House of Usher (Poe)]]
 - [[works/william-wilson-(poe)|William Wilson (Poe)]]
-- Sonnet 144 (Shakespeare)
-- Sonnet 22 (Shakespeare)
-- Sonnet 36 (Shakespeare)
-- Sonnet 39 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_144|Sonnet 144 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_022|Sonnet 22 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_036|Sonnet 36 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_039|Sonnet 39 (Shakespeare)]]
 - [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
 - [[works/that-shadow-my-likeness-(whitman)|That Shadow My Likeness (Whitman)]]
 - [[works/an-ideal-husband-(wilde)|An Ideal Husband (Wilde)]]

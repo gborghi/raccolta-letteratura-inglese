@@ -53,7 +53,7 @@ an impartiality among the religions of India; but Vane's attempt
 to meet the Moslem halfway by kicking off one boot at the gates
 of the mosque, was felt not so much to indicate true impartiality
 as something that could only be called an aggressive indifference.
-Again, it is true that an English [[aristocrat]] can hardly enter
+Again, it is true that an English aristocrat can hardly enter
 fully into the feelings of either party in a quarrel between
 a Russian Jew and an Orthodox procession carrying relics;
 but Vane's idea that the procession might carry the Jew as [[motifs/well|well]],
@@ -89,7 +89,7 @@ his tenantry and domestic establishment, were far from being people
 with no nonsense about them.  There was, alas! a great deal of
 nonsense about them; with [[motifs/ghosts|ghosts]], witches, and traditions as old as
 Merlin, they seemed to surround him with a fairy ring of nonsense.
-But the [[Magic|magic]] circle had one center: there was one point in which the
+But the magic circle had one center: there was one point in which the
 curving conversation of the rustics always returned.  It was a point
 that always pricked the Squire to exasperation, and even in this short
 walk he seemed to strike it everywhere.  He paused before descending
@@ -151,11 +151,11 @@ supposed to be passing, and perhaps has already passed.
 
 I. IL RACCONTO DEGLI ALBERI DEL PAVONE
 
-Lo Squire Vane era un attempato scolaretto di [[concepts/education|educazione]] inglese ed estrazione irlandese. La sua [[concepts/education|educazione]] inglese, in una delle grandi scuole pubbliche, aveva conservato il suo intelletto perfettamente e permanentemente allo stadio della fanciullezza. Ma la sua estrazione irlandese sconvolgeva inconsciamente in lui la debita solennità di un ex allievo, e talvolta gli restituiva la più vivace prospettiva di un monello. Aveva un'impazienza corporea che gli giocava tiri quasi contro la sua volontà, e lo aveva già reso un fallimento un po' troppo radioso nel servizio civile e diplomatico. È vero infatti che il compromesso è la chiave della politica britannica, specialmente nel realizzare un'imparzialità tra le religioni dell'India; ma il tentativo di Vane di venire incontro al musulmano a metà strada sfilandosi uno stivale alle porte della moschea fu avvertito non tanto come indice di vera imparzialità quanto come qualcosa che si poteva soltanto chiamare aggressiva indifferenza. Di nuovo, è vero che un [[aristocrat|aristocratico]] inglese difficilmente può entrare appieno nei sentimenti dell'una o dell'altra parte in una lite tra un ebreo russo e una processione ortodossa che porta reliquie; ma l'idea di Vane che la processione potesse portare [[motifs/well|anche]] l'ebreo, egli stesso una venerabile e storica reliquia, fu fraintesa da entrambe le parti. Insomma, era un uomo che si vantava in modo particolare di non avere fronzoli addosso; con il risultato che faceva sempre cose insensate. Sembrava mettersi a testa in giù solo per dimostrare di avere la testa a posto.
+Lo Squire Vane era un attempato scolaretto di [[concepts/education|educazione]] inglese ed estrazione irlandese. La sua [[concepts/education|educazione]] inglese, in una delle grandi scuole pubbliche, aveva conservato il suo intelletto perfettamente e permanentemente allo stadio della fanciullezza. Ma la sua estrazione irlandese sconvolgeva inconsciamente in lui la debita solennità di un ex allievo, e talvolta gli restituiva la più vivace prospettiva di un monello. Aveva un'impazienza corporea che gli giocava tiri quasi contro la sua volontà, e lo aveva già reso un fallimento un po' troppo radioso nel servizio civile e diplomatico. È vero infatti che il compromesso è la chiave della politica britannica, specialmente nel realizzare un'imparzialità tra le religioni dell'India; ma il tentativo di Vane di venire incontro al musulmano a metà strada sfilandosi uno stivale alle porte della moschea fu avvertito non tanto come indice di vera imparzialità quanto come qualcosa che si poteva soltanto chiamare aggressiva indifferenza. Di nuovo, è vero che un aristocratico inglese difficilmente può entrare appieno nei sentimenti dell'una o dell'altra parte in una lite tra un ebreo russo e una processione ortodossa che porta reliquie; ma l'idea di Vane che la processione potesse portare [[motifs/well|anche]] l'ebreo, egli stesso una venerabile e storica reliquia, fu fraintesa da entrambe le parti. Insomma, era un uomo che si vantava in modo particolare di non avere fronzoli addosso; con il risultato che faceva sempre cose insensate. Sembrava mettersi a testa in giù solo per dimostrare di avere la testa a posto.
 
 Aveva appena finito una robusta colazione, in compagnia della figlia, a un tavolo sotto un albero nel suo [[motifs/garden|giardino]] presso la costa della Cornovaglia. Poiché, avendo una circolazione gloriosa, insisteva su quanti più pasti all'aperto possibile, benché la [[motifs/spring|primavera]] avesse appena sfiorato i boschi e intiepidito i mari attorno a quella meridionale estremità dell'Inghilterra. Sua figlia Barbara, una bella ragazza dai folti capelli rossi e dal volto [[motifs/grave|grave]] come una delle statue del [[motifs/garden|giardino]], sedeva ancora quasi immobile come una statua quando il padre si [[motifs/rose|alzò]]. Bella figura alta in abiti chiari, coi capelli bianchi e i baffi che gli volavano all'indietro piuttosto fieramente da un volto abbastanza bonario, poiché teneva in mano il suo larghissimo cappello Panama, egli attraversò a grandi passi il [[motifs/garden|giardino]] terrazzato, giù per alcuni gradini di pietra fiancheggiati da vecchie urne ornamentali fino a un sentiero più boscoso orlato di alberelli, e così giù per una [[motifs/road|strada]] a zigzag che scendeva la rupe scoscesa fino alla riva, dove doveva incontrare un ospite in arrivo via mare. Uno yacht era già nella baia azzurra, ed egli poteva vedere una barca vogare verso il piccolo molo lastricato.
 
-Eppure in quella breve passeggiata tra il verde tappeto erboso e la gialla sabbia era destinato a trovare la sua testardaggine provocata a una fase non insolita che il mondo era incline a chiamare avventatezza. Il fatto era che i contadini della Cornovaglia, che componevano la sua servitù e il suo casato domestico, erano tutt'altro che gente senza fronzoli. C'era, ahimè!, una gran quantità di fronzoli in loro; con [[motifs/ghosts|fantasmi]], streghe e tradizioni antiche come Merlino, sembravano circondarlo con un cerchio fatato di sciocchezze. Ma il cerchio [[Magic|magico]] aveva un solo centro: c'era un punto in cui la sinuosa conversazione dei villici sempre ritornava. Era un punto che sempre pungeva lo Squire fino all'esasperazione, e perfino in questa breve passeggiata sembrava incapparvi ovunque. Si fermò prima di scendere i gradini dal prato per parlare al giardiniere di rinvasare certi arbusti stranieri, e il giardiniere sembrava cupamente compiaciuto, in ogni linea del suo coriaceo volto bruno, all'occasione di far notare che si era formato una bassa opinione degli arbusti stranieri.
+Eppure in quella breve passeggiata tra il verde tappeto erboso e la gialla sabbia era destinato a trovare la sua testardaggine provocata a una fase non insolita che il mondo era incline a chiamare avventatezza. Il fatto era che i contadini della Cornovaglia, che componevano la sua servitù e il suo casato domestico, erano tutt'altro che gente senza fronzoli. C'era, ahimè!, una gran quantità di fronzoli in loro; con [[motifs/ghosts|fantasmi]], streghe e tradizioni antiche come Merlino, sembravano circondarlo con un cerchio fatato di sciocchezze. Ma il cerchio magico aveva un solo centro: c'era un punto in cui la sinuosa conversazione dei villici sempre ritornava. Era un punto che sempre pungeva lo Squire fino all'esasperazione, e perfino in questa breve passeggiata sembrava incapparvi ovunque. Si fermò prima di scendere i gradini dal prato per parlare al giardiniere di rinvasare certi arbusti stranieri, e il giardiniere sembrava cupamente compiaciuto, in ogni linea del suo coriaceo volto bruno, all'occasione di far notare che si era formato una bassa opinione degli arbusti stranieri.
 
 «Vorremmo che vi sbarazzaste di ciò che avete qui, signore», osservò, scavando ostinatamente. «Niente crescerà a dovere con quelli qui.»
 
@@ -187,7 +187,7 @@ the sunset, was itself almost as fantastic as a sunset cloud.
 It was cut out against the emerald or indigo of the sea in graven
 horns and crescents that might be the cast or mold of some such
 crested serpents; and, beneath, was pierced and fretted by caves
-and crevices, as if by the boring of some such [[titanic]] worms.
+and crevices, as if by the boring of some such titanic worms.
 Over and above this draconian architecture of the earth a veil
 of gray woods hung thinner like a vapor; woods which the witchcraft
 of the sea had, as usual, both blighted and blown out of shape.
@@ -273,7 +273,7 @@ for this landscape as I am."
 
 "Oh, the trees, I suppose!" said the Squire wearily.
 
-The boatman was by normal trade a fisherman; but as his [[house]],
+The boatman was by normal trade a fisherman; but as his house,
 built of black tarred timber, stood right on the foreshore a few yards
 from the pier, he was employed in such cases as a sort of ferryman.
 He was a big, black-browed youth generally silent, but something
@@ -289,7 +289,7 @@ and eating everything up."
 
 <span class="qlang-split" data-lang="it"></span>
 
-Gli oggetti odiosi si ergevano a un centinaio di metri dall'oratore, che verso di essi agitò la sua ascia; e nel paragone c'era qualcosa di suggestivo. Quella costa, tanto per cominciare, protesa verso il tramonto, era in sé quasi fantastica quanto una nuvola al calar del sole. Si stagliava contro lo smeraldo o l'indaco del mare in corni e falci incisi che avrebbero potuto essere l'impronta o il calco di simili serpenti crestati; e, più in basso, era trafitta e corrosa da caverne e fenditure, come per lo scavo di [[titanic|titanici]] vermi del genere. Al di sopra di questa architettura draconiana della terra pendeva, tenue come un vapore, un velo di boschi grigi; boschi che la stregoneria del mare aveva, come sempre, insieme avvizziti e deformati. A destra gli alberi si snodavano lungo la riva in un'unica fila, ciascuno tracciato in linee sottili e selvagge come una caricatura. All'altro capo della loro distesa si moltiplicavano in un ammasso di alberi gobbi, un bosco che si allargava verso uno sperone della costa alta. Era qui che appariva lo spettacolo verso cui tanti occhi e tante menti sembravano volgersi quasi automaticamente.
+Gli oggetti odiosi si ergevano a un centinaio di metri dall'oratore, che verso di essi agitò la sua ascia; e nel paragone c'era qualcosa di suggestivo. Quella costa, tanto per cominciare, protesa verso il tramonto, era in sé quasi fantastica quanto una nuvola al calar del sole. Si stagliava contro lo smeraldo o l'indaco del mare in corni e falci incisi che avrebbero potuto essere l'impronta o il calco di simili serpenti crestati; e, più in basso, era trafitta e corrosa da caverne e fenditure, come per lo scavo di titanici vermi del genere. Al di sopra di questa architettura draconiana della terra pendeva, tenue come un vapore, un velo di boschi grigi; boschi che la stregoneria del mare aveva, come sempre, insieme avvizziti e deformati. A destra gli alberi si snodavano lungo la riva in un'unica fila, ciascuno tracciato in linee sottili e selvagge come una caricatura. All'altro capo della loro distesa si moltiplicavano in un ammasso di alberi gobbi, un bosco che si allargava verso uno sperone della costa alta. Era qui che appariva lo spettacolo verso cui tanti occhi e tante menti sembravano volgersi quasi automaticamente.
 
 Dal mezzo di questo bosco basso e più o meno uniforme si [[motifs/rose|levavano]] tre fusti distinti che si slanciavano e svettavano nel cielo come un faro dalle onde o un campanile dai tetti del villaggio. Formavano un gruppo di tre colonne ravvicinate, che [[motifs/well|bene]] potevano essere la semplice biforcazione, o piuttosto triforcazione, di un unico albero, la cui parte inferiore era perduta o affondata nel folto bosco all'intorno. Tutto in essi suggeriva qualcosa di più strano e più meridionale di qualunque cosa, persino in quell'ultima penisola della Britannia che più lontano si spinge verso la Spagna e l'Africa e le [[motifs/stars|stelle]] del sud. Il loro fogliame coriaceo era spuntato prima della debole foschia verde-giallo che li circondava, ed era di un verde diverso e meno naturale, tinto d'azzurro, come i colori di un martin pescatore. Ma lo si sarebbe potuto immaginare come le scaglie di un drago a tre teste che torreggiava su una mandria di bestiame accalcato e in fuga.
 
@@ -309,7 +309,7 @@ Il signor Paynter guardò verso il barcaiolo e sorrise a sua volta. «Temo», di
 
 «Oh, gli alberi, suppongo!» disse lo Squire con stanchezza.
 
-Il barcaiolo era di mestiere un pescatore; ma poiché la sua [[house|casa]], costruita di legno nero incatramato, sorgeva proprio sulla battigia a pochi metri dal molo, in casi simili era impiegato come una sorta di traghettatore. Era un giovane grosso, dalle sopracciglia nere, di solito silenzioso, ma qualcosa parve ora pungerlo a parlare.
+Il barcaiolo era di mestiere un pescatore; ma poiché la sua casa, costruita di legno nero incatramato, sorgeva proprio sulla battigia a pochi metri dal molo, in casi simili era impiegato come una sorta di traghettatore. Era un giovane grosso, dalle sopracciglia nere, di solito silenzioso, ma qualcosa parve ora pungerlo a parlare.
 
 «[[motifs/well|Beh]], signore», disse, «tutti sanno che non è naturale. Tutti sanno che il mare avvizzisce gli alberi e li abbatte, quando non sono che alberi. Questi cosi prosperano come una gran malefica alga marina che non appartiene affatto alla terra. È come se il... il benedetto serpente di mare fosse sbarcato, Squire, e divorasse ogni cosa.»
 
@@ -432,7 +432,7 @@ to the table under the tree.
 
 Cyprian Paynter followed, inwardly revolving a puzzle which had taken
 even his experience by surprise.  The American, if intellectually
-an [[aristocrat]], was still socially and subconsciously a democrat.
+an aristocrat, was still socially and subconsciously a democrat.
 It had never crossed his mind that the poet should be counted
 lucky to know the squire and not the squire to know the poet.
 The honest patronage in Vane's hospitality was something which made
@@ -510,7 +510,7 @@ riprendendo i suoi modi con una certa confusione cordiale.
 e, voltandosi con un certo imbarazzo esuberante, fece strada
 verso il tavolo sotto l'albero.
 
-Cyprian Paynter lo seguì, meditando interiormente su un enigma che aveva sorpreso persino la sua esperienza. L'americano, se intellettualmente era un [[aristocrat|aristocratico]], socialmente e inconsciamente rimaneva comunque un democratico. Non gli era mai passato per la mente che il poeta dovesse considerarsi fortunato di conoscere lo squires e non viceversa. La sincera protezione nell'ospitalità di Vane era qualcosa che faceva sentire Paynter, dopotutto, un [[concepts/exile|esiliato]] in Inghilterra.
+Cyprian Paynter lo seguì, meditando interiormente su un enigma che aveva sorpreso persino la sua esperienza. L'americano, se intellettualmente era un aristocratico, socialmente e inconsciamente rimaneva comunque un democratico. Non gli era mai passato per la mente che il poeta dovesse considerarsi fortunato di conoscere lo squires e non viceversa. La sincera protezione nell'ospitalità di Vane era qualcosa che faceva sentire Paynter, dopotutto, un [[concepts/exile|esiliato]] in Inghilterra.
 
 
 
@@ -552,7 +552,7 @@ up in the boat like a mast, all gay with [[motifs/leaves|leaves]] out of season,
 like green bunting.  And as they watched they thought at first that
 the boat was steering oddly, and then that it wasn't steering at all;
 and when it drifted to the shore at last every man in that boat
-was dead, and Sir Walter Vane, with his [[Sword|sword]] drawn, was leaning
+was dead, and Sir Walter Vane, with his sword drawn, was leaning
 up against the tree trunk, as stiff as the tree."
 
 "Now this is rather curious," remarked Paynter thoughtfully.
@@ -589,7 +589,7 @@ blameless of the creatures; they did not devour like the lions,
 but rather opened their arms to all the little [[motifs/birds|birds]].
 And he prayed that they might be loosened from [[motifs/time|time]] to [[motifs/time|time]]
 to walk like other things.  And the trees were moved upon
-the prayers of Securis, as they were at the [[songs]] of Orpheus.
+the prayers of Securis, as they were at the songs of Orpheus.
 The men of the [[motifs/desert|desert]] were stricken from afar with [[concepts/fear|fear]], seeing the saint
 walking with a walking grove, like a schoolmaster with his boys.
 For the trees were thus freed under strict conditions of discipline.
@@ -633,7 +633,7 @@ Lo Squire, prevedendo il cimento di un pranzo con uno strano uomo di lettere, av
 
 «Dovete ricordare che non ho ancora avuto occasione di collezionare la vostra. E questo», aggiunse, guardandosi intorno alla romantica costa, «è un bel teatro per qualsiasi cosa drammatica.»
 
-«Oh, è drammatica a suo modo», ammise Vane, non senza una lieve soddisfazione. «Riguarda tutta quelle cose laggiù che chiamiamo gli alberi del pavone... suppongo per il curioso colore della foglia, sapete, benché abbia sentito che emettono un suono acuto in un forte [[motifs/wind|vento]], che si suppone somigli allo strido di un pavone; qualcosa come un bambù nella struttura botanica, forse. [[motifs/well|Ebbene]], si suppone che quegli alberi siano stati portati dalla Barberia dal mio antenato Sir Walter Vane, uno dei patrioti o pirati elisabettiani, o come volete chiamarli. Dicono che al termine del suo ultimo viaggio gli abitanti del villaggio si raccolsero sulla spiaggia laggiù e videro la barca avvicinarsi dal mare, e i nuovi alberi si ergevano nella barca come un albero maestro, tutti festosi di [[motifs/leaves|foglie]] fuori stagione, come verdi festoni. E mentre guardavano pensarono dapprima che la barca virasse in modo strano, e poi che non virasse affatto; e quando finalmente andò alla deriva verso la riva ogni uomo su quella barca era morto, e Sir Walter Vane, con la [[Sword|spada]] sguainata, era appoggiato al tronco dell'albero, rigido come l'albero.»
+«Oh, è drammatica a suo modo», ammise Vane, non senza una lieve soddisfazione. «Riguarda tutta quelle cose laggiù che chiamiamo gli alberi del pavone... suppongo per il curioso colore della foglia, sapete, benché abbia sentito che emettono un suono acuto in un forte [[motifs/wind|vento]], che si suppone somigli allo strido di un pavone; qualcosa come un bambù nella struttura botanica, forse. [[motifs/well|Ebbene]], si suppone che quegli alberi siano stati portati dalla Barberia dal mio antenato Sir Walter Vane, uno dei patrioti o pirati elisabettiani, o come volete chiamarli. Dicono che al termine del suo ultimo viaggio gli abitanti del villaggio si raccolsero sulla spiaggia laggiù e videro la barca avvicinarsi dal mare, e i nuovi alberi si ergevano nella barca come un albero maestro, tutti festosi di [[motifs/leaves|foglie]] fuori stagione, come verdi festoni. E mentre guardavano pensarono dapprima che la barca virasse in modo strano, e poi che non virasse affatto; e quando finalmente andò alla deriva verso la riva ogni uomo su quella barca era morto, e Sir Walter Vane, con la spada sguainata, era appoggiato al tronco dell'albero, rigido come l'albero.»
 
 «Ora, questo è piuttosto curioso», osservò Paynter pensieroso. «Vi ho detto che collezionavo leggende, e credo di potervi raccontare l'inizio della storia di cui quella è la fine, benché venga da centinaia di miglia oltre il mare.»
 
@@ -643,7 +643,7 @@ Tamburellò meditabondo sul tavolo con le dita sottili e affusolate, come un uom
 
 L'americano s'inchinò attraverso il tavolo con seria cortesia, e poi cominciò a giocherellare oziosamente con un bizzarro anello sul suo lungo dito mentre parlava.
 
-«Se scendete alla Costa di Barberia, dove l'ultimo cuneo della foresta si assottiglia tra il [[motifs/desert|deserto]] e il grande mare senza maree, troverete gli indigeni che ancora raccontano una strana storia su un santo dei Secoli Bui. Là, sul confine crepuscolare del Continente Nero, si sentono i Secoli Bui. Ho visitato quel luogo una sola volta, benché giaccia, per così dire, di fronte alla [[motifs/city|città]] italiana dove vissi per anni, eppure stentereste a credere come lo sconvolgimento e la trasmigrazione di questo mito in qualche modo sembrassero meno folli di quanto realmente sono, col bosco risonante di leoni nella [[motifs/night|notte]] e quella cupa rossa [[concepts/solitude|solitudine]] oltre. Dicono che l'eremita San Securis, vivendo là tra gli alberi, giunse ad [[motifs/love|amarli]] come compagni; poiché, benché grandi giganti dalle molte braccia come Briareo, erano le più miti e innocenti delle creature; non divoravano come i leoni, ma piuttosto aprivano le braccia a tutti i piccoli [[motifs/birds|uccelli]]. Ed egli pregava che potessero essere sciolti di [[motifs/time|tanto]] in [[motifs/time|tanto]] per camminare come le altre cose. E gli alberi furono commossi dalle preghiere di Securis, come lo furono ai [[songs|canti]] di Orfeo. Gli uomini del [[motifs/desert|deserto]] erano colpiti da lontano dalla [[concepts/fear|paura]], vedendo il santo camminare con un boschetto ambulante, come un maestro di scuola coi suoi ragazzi. Poiché gli alberi erano così liberati a rigorose condizioni di disciplina. Dovevano tornare al suono della campana dell'eremita, e, soprattutto, imitare le bestie selvagge nel camminare solo per distruggere e nel non divorare nulla. [[motifs/well|Ebbene]], si dice che uno degli alberi udì una voce che non era quella del santo; che nel caldo verde crepuscolo di una sera d'[[motifs/summer|estate]] si accorse di qualcosa seduto e parlante tra i suoi rami sotto le sembianze di un grande uccello, ed era ciò che un tempo parlò da un albero sotto le sembianze di un grande serpente. Man mano che la voce cresceva tra le sue mormoranti [[motifs/leaves|foglie]] l'albero fu lacerato da un gran [[motifs/desire|desiderio]] di protendersi e ghermire gli [[motifs/birds|uccelli]] che volavano innocui attorno ai loro nidi, e di farli a pezzi. Infine, il tentatore riempì la cima dell'albero dei propri [[motifs/birds|uccelli]] d'[[concepts/pride|orgoglio]], lo stellato corteo dei pavoni. E lo spirito del bruto vinse lo spirito dell'albero, ed esso dilaniò e divorò gli [[motifs/birds|uccelli]] verde-azzurri finché non ne rimase una piuma, e ritornò alla quieta tribù degli alberi. Ma dicono che quando venne la [[motifs/spring|primavera]] tutti gli altri alberi misero fuori [[motifs/leaves|foglie]], ma questo mise fuori penne di strana tinta e disegno. E da quella mostruosa assimilazione il santo conobbe il peccato, e radicò quell'unico albero alla terra con una sentenza, così che il male ricadesse su chiunque lo rimuovesse di nuovo. Questo, Squire, è l'inizio nei deserti del racconto che è finito qui, quasi in questo [[motifs/garden|giardino]].»
+«Se scendete alla Costa di Barberia, dove l'ultimo cuneo della foresta si assottiglia tra il [[motifs/desert|deserto]] e il grande mare senza maree, troverete gli indigeni che ancora raccontano una strana storia su un santo dei Secoli Bui. Là, sul confine crepuscolare del Continente Nero, si sentono i Secoli Bui. Ho visitato quel luogo una sola volta, benché giaccia, per così dire, di fronte alla [[motifs/city|città]] italiana dove vissi per anni, eppure stentereste a credere come lo sconvolgimento e la trasmigrazione di questo mito in qualche modo sembrassero meno folli di quanto realmente sono, col bosco risonante di leoni nella [[motifs/night|notte]] e quella cupa rossa [[concepts/solitude|solitudine]] oltre. Dicono che l'eremita San Securis, vivendo là tra gli alberi, giunse ad [[motifs/love|amarli]] come compagni; poiché, benché grandi giganti dalle molte braccia come Briareo, erano le più miti e innocenti delle creature; non divoravano come i leoni, ma piuttosto aprivano le braccia a tutti i piccoli [[motifs/birds|uccelli]]. Ed egli pregava che potessero essere sciolti di [[motifs/time|tanto]] in [[motifs/time|tanto]] per camminare come le altre cose. E gli alberi furono commossi dalle preghiere di Securis, come lo furono ai canti di Orfeo. Gli uomini del [[motifs/desert|deserto]] erano colpiti da lontano dalla [[concepts/fear|paura]], vedendo il santo camminare con un boschetto ambulante, come un maestro di scuola coi suoi ragazzi. Poiché gli alberi erano così liberati a rigorose condizioni di disciplina. Dovevano tornare al suono della campana dell'eremita, e, soprattutto, imitare le bestie selvagge nel camminare solo per distruggere e nel non divorare nulla. [[motifs/well|Ebbene]], si dice che uno degli alberi udì una voce che non era quella del santo; che nel caldo verde crepuscolo di una sera d'[[motifs/summer|estate]] si accorse di qualcosa seduto e parlante tra i suoi rami sotto le sembianze di un grande uccello, ed era ciò che un tempo parlò da un albero sotto le sembianze di un grande serpente. Man mano che la voce cresceva tra le sue mormoranti [[motifs/leaves|foglie]] l'albero fu lacerato da un gran [[motifs/desire|desiderio]] di protendersi e ghermire gli [[motifs/birds|uccelli]] che volavano innocui attorno ai loro nidi, e di farli a pezzi. Infine, il tentatore riempì la cima dell'albero dei propri [[motifs/birds|uccelli]] d'[[concepts/pride|orgoglio]], lo stellato corteo dei pavoni. E lo spirito del bruto vinse lo spirito dell'albero, ed esso dilaniò e divorò gli [[motifs/birds|uccelli]] verde-azzurri finché non ne rimase una piuma, e ritornò alla quieta tribù degli alberi. Ma dicono che quando venne la [[motifs/spring|primavera]] tutti gli altri alberi misero fuori [[motifs/leaves|foglie]], ma questo mise fuori penne di strana tinta e disegno. E da quella mostruosa assimilazione il santo conobbe il peccato, e radicò quell'unico albero alla terra con una sentenza, così che il male ricadesse su chiunque lo rimuovesse di nuovo. Questo, Squire, è l'inizio nei deserti del racconto che è finito qui, quasi in questo [[motifs/garden|giardino]].»
 
 «E la fine è più o meno attendibile quanto l'inizio, direi», disse Vane. «Il vostro è un bel raccontino semplice per un piccolo tè; un tranquillo pezzetto di natura morta, ecco.»
 
@@ -656,7 +656,7 @@ L'americano s'inchinò attraverso il tavolo con seria cortesia, e poi cominciò 
 
 "Ex Africa," said the lawyer, smiling.  "It comes from a
 cannibal country.  I think it's the touch of the tar-brush,
-that [[nightmare]] feeling that you don't know whether the [[archetypes/hero|hero]] is a plant
+that nightmare feeling that you don't know whether the [[archetypes/hero|hero]] is a plant
 or a man or a devil.  Don't you feel it sometimes in 'Uncle Remus'?"
 
 "True," said Paynter.  "Perfectly true."  And he looked at the lawyer
@@ -770,7 +770,7 @@ She changed the subject sharply, not without it movement toward
 gratifying her own curiosity.
 
 "What DID you mean by all that about walking trees?" she asked.
-"Don't tell me you really believe in a [[Magic|magic]] tree that eats [[motifs/birds|birds]]!"
+"Don't tell me you really believe in a magic tree that eats [[motifs/birds|birds]]!"
 
 "I should probably surprise you," said Treherne gravely, "more by
 what I don't believe than by what I do."
@@ -778,7 +778,7 @@ what I don't believe than by what I do."
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Ex Africa», disse l'avvocato, sorridendo. «Proviene da un paese di cannibali. Penso che sia il tocco della vernice nera, quella sensazione [[nightmare|incubo]]sa di non sapere se l'[[archetypes/hero|eroe]] è una pianta o un uomo o un diavolo. Non la provi a volte in 'Zio Remus'?»
+«Ex Africa», disse l'avvocato, sorridendo. «Proviene da un paese di cannibali. Penso che sia il tocco della vernice nera, quella sensazione incubosa di non sapere se l'[[archetypes/hero|eroe]] è una pianta o un uomo o un diavolo. Non la provi a volte in 'Zio Remus'?»
 
 "È vero," disse Paynter. "Assolutamente vero." E guardò l'avvocato con un nuovo interesse.
 L'avvocato, che era stato presentato come il signor Ashe, era una di quelle persone che meritano più attenzione di quanta la maggior parte della gente si renda conto quando le guarda. Se Napoleone fosse stato rosso di capelli e avesse concentrato tutti i suoi poteri con un curioso contentamento sulle piccole cause di una provincia, avrebbe potuto avere un aspetto molto simile; la testa dai capelli rossi era pesante e possente; la figura nei suoi abiti scuri e tranquilli era relativamente insignificante, come quella di Napoleone. Sembrava più a suo agio nella società del Squire rispetto al dottore, che, sebbene gentiluomo, era timido e una mera [[archetypes/shadow|ombra]] del fratello professionale.
@@ -823,7 +823,7 @@ Il Squire, troppo impaziente per aspettare il Miles dal viso giallo, si era riti
 
 Sembrava avere il potere di arrivare a una conversazione piuttosto intima in un solo balzo silenzioso e felino, come aveva scalato la ripida [[motifs/road|strada]], e questo le faceva sentire che era pericoloso, forse senza scrupoli. Cambiò bruscamente argomento, non senza un movimento verso il soddisfacimento della propria curiosità.
 
-"Cosa intendevi con tutto quel discorso sugli alberi che camminano?", chiese lei. "Non dirmi che credi davvero in un albero [[Magic|magico]] che mangia [[motifs/birds|uccelli]]!".
+"Cosa intendevi con tutto quel discorso sugli alberi che camminano?", chiese lei. "Non dirmi che credi davvero in un albero magico che mangia [[motifs/birds|uccelli]]!".
 
 «Probabilmente vi sorprenderei», disse Treherne con serietà,
 «più per ciò in cui non credo che per ciò in cui credo».
@@ -834,7 +834,7 @@ Sembrava avere il potere di arrivare a una conversazione piuttosto intima in un 
 
 
 Then, after a pause, he made a general gesture toward
-the [[house]] and [[motifs/garden|garden]].  "I'm afraid I don't believe in all this;
+the house and [[motifs/garden|garden]].  "I'm afraid I don't believe in all this;
 for instance, in Elizabethan houses and Elizabethan families
 and the way estates have been improved, and the rest of it.
 Look at our friend the [[characters/woodcutter|woodcutter]] now."  And he pointed to the man
@@ -853,7 +853,7 @@ of mutiny in his voice.  "The gentry came here and took our land
 and took our labor and took our customs.  And now, after exploitation,
 a viler thing, [[concepts/education|education]]!  They must take our [[motifs/dreams|dreams]]!"
 
-"[[motifs/well|Well]], this dream was rather a [[nightmare]], wasn't it?"
+"[[motifs/well|Well]], this dream was rather a nightmare, wasn't it?"
 asked Barbara, smiling; and the next moment grew quite [[motifs/grave|grave]],
 saying almost anxiously:  "But here's Doctor Brown back again.
 Why, he looks quite upset."
@@ -905,7 +905,7 @@ and that the fairies were not her friends.
 <span class="qlang-split" data-lang="it"></span>
 
 Poi, dopo una pausa, fece un gesto ampio verso
-la [[house|casa]] e il [[motifs/garden|giardino]].  "Temo di non credere a tutto questo;
+la casa e il [[motifs/garden|giardino]].  "Temo di non credere a tutto questo;
 per esempio, alle case elisabettiane e alle famiglie elisabettiane
 e al modo in cui le tenute sono state migliorate, e a tutto il resto.
 Guardi ora il nostro amico il [[characters/woodcutter|taglialegna]]."  E indicò l'uomo
@@ -924,7 +924,7 @@ di ammutinamento nella voce.  "I signori sono venuti qui e ci hanno preso la ter
 e ci hanno preso il lavoro e ci hanno preso le usanze.  E ora, dopo lo sfruttamento,
 una cosa più vile ancora, l'[[concepts/education|istruzione]]!  Devono prenderci i [[motifs/dreams|sogni]]!"
 
-"[[motifs/well|Be']], questo sogno era piuttosto un [[nightmare|incubo]], non è vero?"
+"[[motifs/well|Be']], questo sogno era piuttosto un incubo, non è vero?"
 chiese Barbara, sorridendo; e un attimo dopo si fece del tutto [[motifs/grave|grave]],
 dicendo quasi con ansia:  "Ma ecco che torna il dottor Brown.
 Ma guarda, sembra proprio sconvolto."
@@ -1003,7 +1003,7 @@ that he announced a new discovery.
 "about those bogey trees of yours; I don't believe you know half the tales
 told round here about them.  It seems they have a way of eating things.
 Not that I have any ethical objection to eating things," he continued,
-helping himself elegantly to green [[cheese]].  "But I have more or less,
+helping himself elegantly to green cheese.  "But I have more or less,
 broadly speaking, an objection to eating people."
 
 "Eating people!" repeated Barbara Vane.
@@ -1011,7 +1011,7 @@ broadly speaking, an objection to eating people."
 "I know a globe-trotter mustn't be fastidious," replied Mr. Paynter.
 "But I repeat firmly, an objection to eating people.
 The peacock trees seem to have progressed since the happy days of
-[[innocence]] when they only ate peacocks.  If you ask the people here--
+innocence when they only ate peacocks.  If you ask the people here--
 the fisherman who lives on that beach, or the man that mows
 this very lawn in front of us--they'll tell you tales taller
 than any tropical one I brought you from the Barbary Coast.
@@ -1034,9 +1034,9 @@ and I dare say you can.  But even Cornwall isn't a lunatic asylum,
 and a tree that dines on a passing tourist--"
 
 "[[motifs/well|Well]], the two tales are reconcilable enough," put in the poet quietly.
-"If there were a [[Magic|magic]] that killed men when they came close,
+"If there were a magic that killed men when they came close,
 it's likely to strike them with sickness when they stand far off.
-In the old [[Romance|romance]] the dragon, that devours people, often blasts
+In the old romance the dragon, that devours people, often blasts
 others with a sort of poisonous breath."
 
 Ashe looked across at the speaker steadily, not to say stonily.
@@ -1049,7 +1049,7 @@ annoyed the other, and he seemed not without malice in the matter.
 
 "Swallowing is a metaphor," he said, "about me, if not about the trees.
 And metaphors take us at once into dreamland--no bad place, either.
-This [[motifs/garden|garden]], I think, gets more and more like [[A Dream|a dream]] at this corner
+This [[motifs/garden|garden]], I think, gets more and more like a dream at this corner
 of the day and [[motifs/night|night]], that might lead us anywhere."
 
 The yellow horn of the [[motifs/moon|moon]] had appeared silently and as if suddenly
@@ -1095,15 +1095,15 @@ II. LA SCOMMESSA DELLO SQUIRE VANE
 
 Passò più di un mese prima che la leggenda degli alberi di pavone tornasse a discutersi nella cerchia dello Squire. Accadde una sera, quando il suo estroso gusto per i pasti nel [[motifs/garden|giardino]] raccolse la compagnia intorno allo stesso tavolo, ora rischiarato da una lampada e apparecchiato per la cena in un rilucente crepuscolo di [[motifs/spring|primavera]]. Era perfino la stessa compagnia, poiché nelle poche settimane trascorse si erano insensibilmente sempre più addentrati nelle vite l'uno dell'altro, formando un piccolo gruppo simile a un circolo. L'esteta americano era naturalmente l'agente più attivo, e la sua risolutezza nello strappare il cuore al mistero del poeta cornico lo spingeva più volte a influenzare il suo volubile ospite verso simili ritrovi. Persino il signor Ashe, l'avvocato, sembrava aver inghiottito i suoi pregiudizi mezzo scherzosi; e il dottore, benché uomo piuttosto triste e silenzioso, era socievole e premuroso. Paynter aveva perfino letto ad alta voce la poesia di Treherne, e leggeva mirabilmente; aveva anche letto altre cose, non ad alta voce, rovistando in tutto ciò che era nei dintorni, dalle guide agli epitaffi, che potesse gettare luce sulle antichità locali. E fu quella sera, quando la luce della lampada e l'ultimo chiarore del giorno avevano acceso i colori del vino e dell'argento sul tavolo sotto l'albero, che egli annunciò una nuova scoperta.
 
-«Ehi, Squire», osservò, con uno dei suoi rari americanismi, «a proposito di quei suoi alberi da spauracchio; non credo che lei conosca la metà delle storie che si raccontano qui su di essi. Pare che abbiano l'abitudine di divorare le cose. Non che io abbia obiezioni etiche a divorare le cose», proseguì, servendosi con eleganza di [[cheese|formaggio]] verde. «Ma ho, più o meno, in linea di massima, un'obiezione a divorare le persone.»
+«Ehi, Squire», osservò, con uno dei suoi rari americanismi, «a proposito di quei suoi alberi da spauracchio; non credo che lei conosca la metà delle storie che si raccontano qui su di essi. Pare che abbiano l'abitudine di divorare le cose. Non che io abbia obiezioni etiche a divorare le cose», proseguì, servendosi con eleganza di formaggio verde. «Ma ho, più o meno, in linea di massima, un'obiezione a divorare le persone.»
 
 «Divorare le persone!» ripeté Barbara Vane.
 
-«So che un giramondo non deve fare lo schizzinoso», replicò il signor Paynter. «Ma ripeto con fermezza: un'obiezione a divorare le persone. Gli alberi di pavone paiono aver fatto progressi dai bei giorni dell'[[innocence|innocenza]] in cui divoravano solo pavoni. Se domanda alla gente di qui—al pescatore che vive su quella spiaggia, o all'uomo che falcia proprio questo prato davanti a noi—le racconteranno storie più grosse di qualsiasi storia tropicale io le abbia portato dalla Costa di Barberia. Se domanda loro che ne fu del pescatore Peters, che si ubriacò la vigilia d'Ognissanti, le diranno che smarrì la via in quel piccolo bosco, cadde addormentato sotto gli alberi malvagi, e poi... evaporò, svanì, fu leccato via come rugiada dal sole. Se domanda loro dov'è Harry Hawke, il figlioletto della vedova, le diranno solo che è stato inghiottito; che fu sfidato ad arrampicarsi sugli alberi e a starci tutta la [[motifs/night|notte]], e lo fece. Che cosa fecero gli alberi Dio solo lo sa; le abitudini di un orco vegetale lasciano un po' nel vago. Ma aggiungono perfino il gradevole dettaglio che un nuovo ramo appare sull'albero quando qualcuno se n'è andato in questo modo.»
+«So che un giramondo non deve fare lo schizzinoso», replicò il signor Paynter. «Ma ripeto con fermezza: un'obiezione a divorare le persone. Gli alberi di pavone paiono aver fatto progressi dai bei giorni dell'innocenza in cui divoravano solo pavoni. Se domanda alla gente di qui—al pescatore che vive su quella spiaggia, o all'uomo che falcia proprio questo prato davanti a noi—le racconteranno storie più grosse di qualsiasi storia tropicale io le abbia portato dalla Costa di Barberia. Se domanda loro che ne fu del pescatore Peters, che si ubriacò la vigilia d'Ognissanti, le diranno che smarrì la via in quel piccolo bosco, cadde addormentato sotto gli alberi malvagi, e poi... evaporò, svanì, fu leccato via come rugiada dal sole. Se domanda loro dov'è Harry Hawke, il figlioletto della vedova, le diranno solo che è stato inghiottito; che fu sfidato ad arrampicarsi sugli alberi e a starci tutta la [[motifs/night|notte]], e lo fece. Che cosa fecero gli alberi Dio solo lo sa; le abitudini di un orco vegetale lasciano un po' nel vago. Ma aggiungono perfino il gradevole dettaglio che un nuovo ramo appare sull'albero quando qualcuno se n'è andato in questo modo.»
 
 «Che nuova sciocchezza è questa?» esclamò Vane. «So che c'è qualche fola balorda sugli alberi che diffondono la febbre, benché ogni uomo istruito sappia perché queste epidemie ritornino di tanto in tanto. E so che dicono che si può riconoscere il loro fruscio tra gli altri alberi durante una burrasca, e oso dire che è vero. Ma nemmeno la Cornovaglia è un manicomio, e un albero che pranza con un turista di passaggio...»
 
-«[[motifs/well|Beh]], i due racconti si conciliano abbastanza», intervenne il poeta con calma. «Se ci fosse una [[Magic|magia]] che uccidesse gli uomini quando si avvicinano, è probabile che li colpisca con la malattia quando stanno lontani. Nell'antico [[Romance|romanzo]] il drago, che divora le persone, spesso ne fulmina altre con una sorta di alito velenoso.»
+«[[motifs/well|Beh]], i due racconti si conciliano abbastanza», intervenne il poeta con calma. «Se ci fosse una magia che uccidesse gli uomini quando si avvicinano, è probabile che li colpisca con la malattia quando stanno lontani. Nell'antico romanzo il drago, che divora le persone, spesso ne fulmina altre con una sorta di alito velenoso.»
 
 Ashe fissò l'oratore con costanza, per non dire con durezza.
 
@@ -1111,7 +1111,7 @@ Ashe fissò l'oratore con costanza, per non dire con durezza.
 
 Il cupo sorriso di Treherne era ancora sulla difensiva; la sua scherma irritava sempre l'altro, e non pareva privo di malizia nella faccenda.
 
-«Mandar giù è una metafora», disse, «riferita a me, se non agli alberi. E le metafore ci trasportano subito nel paese dei sogni: neppure un brutto posto. Questo [[motifs/garden|giardino]], credo, somiglia sempre più a [[A Dream|un sogno]] in questo cantuccio tra il giorno e la [[motifs/night|notte]], che potrebbe condurci ovunque.»
+«Mandar giù è una metafora», disse, «riferita a me, se non agli alberi. E le metafore ci trasportano subito nel paese dei sogni: neppure un brutto posto. Questo [[motifs/garden|giardino]], credo, somiglia sempre più a un sogno in questo cantuccio tra il giorno e la [[motifs/night|notte]], che potrebbe condurci ovunque.»
 
 Il corno giallo della [[motifs/moon|luna]] era apparso in silenzio e come all'improvviso sopra i neri corni delle alghe, sembrando annunciare come [[motifs/night|notte]] qualcosa che fino allora era stato sera. Una brezza [[motifs/night|notturna]] entrò tra gli alberi e corse furtiva sul prato, e mentre essi cessavano di parlare udirono, non solo il sibilo dell'erba, ma il mare stesso muoversi e risuonare in tutte le fessure e caverne intorno a loro e sotto di loro e da ogni lato. Tutti avvertirono la nota che era stata suonata—l'americano come critico d'arte e il poeta come poeta; e lo Squire, che si credeva ribollente di un'impazienza puramente razionale, non comprendeva davvero la propria impazienza. In lui, forse più che negli altri—più certamente di quanto egli stesso sapesse—il [[motifs/wind|vento]] del mare saliva alla testa come vino.
 
@@ -1163,7 +1163,7 @@ idle defiance.  When Barbara moved he seemed to recover himself,
 and stepping after her, said something which Paynter did not hear.
 He said it casually and even distantly enough, but it clearly suggested
 something to her mind; for, after a moment's thought, she nodded and
-walked back, not toward the table, but apparently toward the [[house]].
+walked back, not toward the table, but apparently toward the house.
 Paynter looked after her with a momentary curiosity, and when he turned
 again the Squire had vanished into the hole in the wood.
 
@@ -1191,7 +1191,7 @@ their host into the wood just in front of them.  But Treherne,
 though still in the [[motifs/garden|garden]], had wandered away from the [[motifs/garden|garden]] table,
 and was pacing along the single line of trees against the dark sea.
 They had in their regular interstices, showing the sea as through a series
-of windows, something of the look of the [[archetypes/ghost|ghost]] or [[skeleton]] of a cloister,
+of windows, something of the look of the [[archetypes/ghost|ghost]] or skeleton of a cloister,
 and he, having thrown his coat once more over his neck, like a cape,
 passed to and fro like the [[archetypes/ghost|ghost]] of some not very sane monk.
 
@@ -1214,7 +1214,7 @@ opposite him was the bald, pale brow of the doctor; there seemed suddenly
 something ominous in the familiar fact that he wore spectacles.
 And yet the vanishing Ashe had only vanished a few yards away,
 for he turned at that instant and strolled back to the table.
-With a jerk Paynter realized that his [[nightmare]] was but a trick
+With a jerk Paynter realized that his nightmare was but a trick
 of [[motifs/sleep|sleep]] or sleeplessness, and spoke in his natural voice,
 but rather loud.
 
@@ -1255,7 +1255,7 @@ L'immobilità fu rotta da Miles, il maggiordomo, che lasciò cadere e ruppe uno 
 
 Il bosco degli strani alberi, verso cui lo Squire camminava, si stendeva così avanti sul promontorio, che alla fine quasi sovrastava il mare, da poter essere raggiunto per un solo sentiero, il quale splendeva chiaro come un nastro d'argento nel crepuscolo. Il nastro correva lungo l'orlo della scogliera, dove l'unica fila di alberi deformi gli scorreva accanto per tutto il tragitto, e infine si tuffava nella massa più fitta di alberi per un solo varco naturale, una semplice apertura nel bosco, che appariva oscura, come la bocca di un [[motifs/lion|leone]]. Che ne fosse del sentiero all'interno non si poteva vedere, ma senza dubbio conduceva intorno alle radici nascoste dei grandi alberi centrali. Lo Squire era già a un metro o due da questo oscuro ingresso quando sua figlia si [[motifs/rose|alzò]] dal tavolo e mosse un passo o due dietro di lui come per richiamarlo.
 
-Anche Treherne si era alzato, e stava come stordito dall'effetto della sua oziosa sfida. Quando Barbara si mosse egli parve riprendersi, e facendo un passo dietro di lei, disse qualcosa che Paynter non udì. Lo disse con noncuranza e perfino con sufficiente distacco, ma chiaramente le suggerì qualcosa alla mente; poiché, dopo un momento di riflessione, ella annuì e tornò indietro, non verso il tavolo, ma apparentemente verso la [[house|casa]]. Paynter la seguì con lo sguardo con momentanea curiosità, e quando si volse di nuovo lo Squire era svanito nel buco del bosco.
+Anche Treherne si era alzato, e stava come stordito dall'effetto della sua oziosa sfida. Quando Barbara si mosse egli parve riprendersi, e facendo un passo dietro di lei, disse qualcosa che Paynter non udì. Lo disse con noncuranza e perfino con sufficiente distacco, ma chiaramente le suggerì qualcosa alla mente; poiché, dopo un momento di riflessione, ella annuì e tornò indietro, non verso il tavolo, ma apparentemente verso la casa. Paynter la seguì con lo sguardo con momentanea curiosità, e quando si volse di nuovo lo Squire era svanito nel buco del bosco.
 
 «Se n'è andato», disse Treherne, con un tono di clangore definitivo, come lo sbattere di una porta.
 
@@ -1265,11 +1265,11 @@ Anche Treherne si era alzato, e stava come stordito dall'effetto della sua ozios
 
 «Benissimo», disse Ashe secco, «resterò con lei, non fosse che per vedere la fine di questa farsa.»
 
-Il dottore non disse nulla, ma anch'egli mantenne il suo posto e accettò uno dei sigari dell'americano. Se Treherne fosse stato attento alla faccenda avrebbe potuto notare, con la sua sardonica superstizione, un fatto curioso: che, mentre tutti e tre gli uomini si condannavano tacitamente a restare fuori tutta la [[motifs/night|notte]] se necessario, tutti, per una medesima vuota omissione o dimenticanza, davano per scontato che fosse impossibile seguire il loro ospite nel bosco proprio davanti a loro. Ma Treherne, benché ancora nel [[motifs/garden|giardino]], si era allontanato dal tavolo del [[motifs/garden|giardino]], e passeggiava lungo l'unica fila di alberi contro il mare scuro. Essi avevano, nei loro regolari intervalli, mostrando il mare come attraverso una serie di finestre, qualcosa dell'aspetto del [[archetypes/ghost|fantasma]] o dello [[skeleton|scheletro]] di un chiostro, ed egli, gettatosi di nuovo il cappotto sul collo, come una mantella, andava avanti e indietro come il [[archetypes/ghost|fantasma]] di un monaco non troppo sano di mente.
+Il dottore non disse nulla, ma anch'egli mantenne il suo posto e accettò uno dei sigari dell'americano. Se Treherne fosse stato attento alla faccenda avrebbe potuto notare, con la sua sardonica superstizione, un fatto curioso: che, mentre tutti e tre gli uomini si condannavano tacitamente a restare fuori tutta la [[motifs/night|notte]] se necessario, tutti, per una medesima vuota omissione o dimenticanza, davano per scontato che fosse impossibile seguire il loro ospite nel bosco proprio davanti a loro. Ma Treherne, benché ancora nel [[motifs/garden|giardino]], si era allontanato dal tavolo del [[motifs/garden|giardino]], e passeggiava lungo l'unica fila di alberi contro il mare scuro. Essi avevano, nei loro regolari intervalli, mostrando il mare come attraverso una serie di finestre, qualcosa dell'aspetto del [[archetypes/ghost|fantasma]] o dello scheletro di un chiostro, ed egli, gettatosi di nuovo il cappotto sul collo, come una mantella, andava avanti e indietro come il [[archetypes/ghost|fantasma]] di un monaco non troppo sano di mente.
 
 Tutti questi uomini, scettici o mistici che fossero, per il resto della loro vita ripensarono a quella [[motifs/night|notte]] come a qualcosa di innaturale. Sedevano immobili o balzavano su di scatto, e percorrevano il grande [[motifs/garden|giardino]] con lunghi giri, così che pareva che non ve ne fossero mai tre insieme nel medesimo [[motifs/time|momento]], e nessuno sapeva chi sarebbe stato il suo compagno; eppure il loro vagabondare restava entro lo stesso spazio fioco e labirintico. Cadevano in brandelli di sonno inquieto; questi erano assai brevi, eppure sentivano come se l'intera seduta, il passeggiare, o l'occasionale parlare fossero stati parte di un unico sogno.
 
-Paynter si svegliò una volta, e trovò Ashe seduto di fronte a lui a un tavolo per il resto vuoto; il volto scuro nell'[[archetypes/shadow|ombra]] e il mozzicone del sigaro come il rosso occhio di un Ciclope. Finché l'avvocato non parlò, con la sua voce ferma, Paynter ne ebbe positivamente paura. Rispose a caso e annuì di nuovo; quando si svegliò di nuovo l'avvocato se n'era andato, e ciò che aveva di fronte era la fronte calva e pallida del dottore; parve d'un tratto esserci qualcosa di sinistro nel fatto familiare che portasse gli occhiali. Eppure lo svanito Ashe era svanito solo di pochi metri, poiché si volse in quell'istante e tornò passeggiando al tavolo. Con un sussulto Paynter comprese che il suo [[nightmare|incubo]] non era che un tiro del [[motifs/sleep|sonno]] o dell'insonnia, e parlò con la sua voce naturale, ma piuttosto forte.
+Paynter si svegliò una volta, e trovò Ashe seduto di fronte a lui a un tavolo per il resto vuoto; il volto scuro nell'[[archetypes/shadow|ombra]] e il mozzicone del sigaro come il rosso occhio di un Ciclope. Finché l'avvocato non parlò, con la sua voce ferma, Paynter ne ebbe positivamente paura. Rispose a caso e annuì di nuovo; quando si svegliò di nuovo l'avvocato se n'era andato, e ciò che aveva di fronte era la fronte calva e pallida del dottore; parve d'un tratto esserci qualcosa di sinistro nel fatto familiare che portasse gli occhiali. Eppure lo svanito Ashe era svanito solo di pochi metri, poiché si volse in quell'istante e tornò passeggiando al tavolo. Con un sussulto Paynter comprese che il suo incubo non era che un tiro del [[motifs/sleep|sonno]] o dell'insonnia, e parlò con la sua voce naturale, ma piuttosto forte.
 
 «Così ti sei riunito a noi; dov'è Treherne?»
 
@@ -1353,9 +1353,9 @@ not have to wait long to see him again.
 A few minutes later he reappeared in the woodland gateway, and came
 slowly toward them across the grass.  He stopped before the doctor,
 who stood nearest, and said something.  It was repeated to the others,
-and went round the ring with low cries of [[Incredulity|incredulity]].
+and went round the ring with low cries of incredulity.
 The others plunged into the wood and returned wildly, and were seen
-speaking to others again who gathered from the [[house]]; the wild wireless
+speaking to others again who gathered from the house; the wild wireless
 telegraphy which is the [[concepts/education|education]] of countryside communities spread
 it farther and farther before the fact itself was fully realized;
 and before nightfall a quarter of the county knew that Squire Vane
@@ -1363,20 +1363,20 @@ had vanished like a burst bubble.
 
 Widely as the wild story was repeated, and patiently as it was pondered,
 it was long before there was even the beginning of a sequel to it.
-In the interval Paynter had politely removed himself from the [[house]]
+In the interval Paynter had politely removed himself from the house
 of mourning, or rather of questioning, but only so far as the village inn;
 for Barbara Vane was glad of the traveler's experience and sympathy,
 in addition to that afforded her by the lawyer and doctor as old
 friends of the family.  Even Treherne was not discouraged from his
 occasional visits with a view to helping the hunt for the lost man.
 The five held many counsels round the old [[motifs/garden|garden]] table, at which
-the unhappy master of the [[house]] had dined for the last [[motifs/time|time]];
+the unhappy master of the house had dined for the last [[motifs/time|time]];
 and Barbara wore her old mask of stone, if it was now a more tragic mask.
 She had shown no passion after the first morning of discovery,
 when she had broken forth once, speaking strangely enough in the view
 of some of her hearers.
 
-She had come slowly out of the [[house]], to which her own or some one
+She had come slowly out of the house, to which her own or some one
 else's wisdom had relegated her during the [[motifs/night|night]] of the wager;
 and it was clear from her face that somebody had told her
 the [[concepts/truth|truth]]; Miles, the butler, stood on the steps behind her;
@@ -1425,11 +1425,11 @@ Quando si svegliò era pieno giorno, e un fiore di luce mattutina posava su bosc
 
 Per la seconda [[motifs/time|volta]] videro un uomo salire il bianco sentiero serpeggiante e sparire nel grigio bosco intricato, ma questa [[motifs/time|volta]] non dovettero attendere a lungo per rivederlo.
 
-Pochi minuti dopo riapparve nella soglia boschiva, e venne lentamente verso di loro attraverso l'erba. Si fermò davanti al dottore, che stava più vicino, e disse qualcosa. Fu ripetuto agli altri, e girò intorno al cerchio con sommessi gridi d'[[Incredulity|incredulità]]. Gli altri si tuffarono nel bosco e ne tornarono freneticamente, e furono visti parlare ad altri ancora che si radunavano dalla [[house|casa]]; la selvaggia telegrafia senza fili che è l'[[concepts/education|educazione]] delle comunità di campagna la diffuse sempre più lontano prima ancora che il fatto stesso fosse pienamente compreso; e prima del calar della notte un quarto della contea sapeva che lo Squire Vane era svanito come una bolla scoppiata.
+Pochi minuti dopo riapparve nella soglia boschiva, e venne lentamente verso di loro attraverso l'erba. Si fermò davanti al dottore, che stava più vicino, e disse qualcosa. Fu ripetuto agli altri, e girò intorno al cerchio con sommessi gridi d'incredulità. Gli altri si tuffarono nel bosco e ne tornarono freneticamente, e furono visti parlare ad altri ancora che si radunavano dalla casa; la selvaggia telegrafia senza fili che è l'[[concepts/education|educazione]] delle comunità di campagna la diffuse sempre più lontano prima ancora che il fatto stesso fosse pienamente compreso; e prima del calar della notte un quarto della contea sapeva che lo Squire Vane era svanito come una bolla scoppiata.
 
-Per quanto la storia strampalata fosse ripetuta ovunque, e pazientemente rimuginata, passò molto tempo prima che vi fosse anche solo l'inizio di un seguito. Nell'intervallo Paynter si era cortesemente allontanato dalla [[house|casa]] del lutto, o piuttosto degli interrogativi, ma solo fino alla locanda del villaggio; poiché Barbara Vane era lieta dell'esperienza e della comprensione del viaggiatore, oltre a quella offertale dall'avvocato e dal dottore come vecchi amici di famiglia. Persino Treherne non era scoraggiato dalle sue visite occasionali intese ad aiutare la ricerca dell'uomo scomparso. I cinque tennero molti consigli attorno al vecchio tavolo del [[motifs/garden|giardino]], al quale l'infelice padrone di [[house|casa]] aveva cenato per l'ultima [[motifs/time|volta]]; e Barbara portava la sua vecchia maschera di pietra, se ora era una maschera più tragica. Non aveva mostrato alcuna passione dopo il primo mattino della scoperta, quando era proruppe una volta, parlando in modo assai strano agli occhi di alcuni dei suoi ascoltatori.
+Per quanto la storia strampalata fosse ripetuta ovunque, e pazientemente rimuginata, passò molto tempo prima che vi fosse anche solo l'inizio di un seguito. Nell'intervallo Paynter si era cortesemente allontanato dalla casa del lutto, o piuttosto degli interrogativi, ma solo fino alla locanda del villaggio; poiché Barbara Vane era lieta dell'esperienza e della comprensione del viaggiatore, oltre a quella offertale dall'avvocato e dal dottore come vecchi amici di famiglia. Persino Treherne non era scoraggiato dalle sue visite occasionali intese ad aiutare la ricerca dell'uomo scomparso. I cinque tennero molti consigli attorno al vecchio tavolo del [[motifs/garden|giardino]], al quale l'infelice padrone di casa aveva cenato per l'ultima [[motifs/time|volta]]; e Barbara portava la sua vecchia maschera di pietra, se ora era una maschera più tragica. Non aveva mostrato alcuna passione dopo il primo mattino della scoperta, quando era proruppe una volta, parlando in modo assai strano agli occhi di alcuni dei suoi ascoltatori.
 
-Era uscita lentamente dalla [[house|casa]], nella quale la sua propria o l'altrui saggezza l'aveva relegata durante la [[motifs/night|notte]] della scommessa; ed era chiaro dal suo volto che qualcuno le aveva detto la [[concepts/truth|verità]]; Miles, il maggiordomo, stava sui gradini dietro di lei; ed era probabilmente lui.
+Era uscita lentamente dalla casa, nella quale la sua propria o l'altrui saggezza l'aveva relegata durante la [[motifs/night|notte]] della scommessa; ed era chiaro dal suo volto che qualcuno le aveva detto la [[concepts/truth|verità]]; Miles, il maggiordomo, stava sui gradini dietro di lei; ed era probabilmente lui.
 
 «Non si affligga troppo, Miss Vane», disse il dottor Brown, con voce bassa e piuttosto incerta. «La ricerca nel bosco è appena cominciata. Sono convinto che troveremo... qualcosa di assai semplice.»
 
@@ -1578,7 +1578,7 @@ He stood staring and straddling for some moments on the cobbles
 of the little market place; then he gave a short laugh and began
 to mount the steep streets toward the high park and [[motifs/garden|garden]] beyond.
 From the high lawn, above the tree and table, he could see on one side
-the land stretch away past the [[house]] into a great [[rolling]] plain,
+the land stretch away past the house into a great rolling plain,
 which under the clear edges of the [[motifs/dawn|dawn]] seemed dotted with
 picturesque details.  The woods here and there on the plain looked
 like green hedgehogs, as [[concepts/grotesque|grotesque]] as the incongruous beasts found
@@ -1658,7 +1658,7 @@ Paynter si sporse in avanti, improvvisamente pallido d'eccitazione, e batté sul
 
 E con una bizzarra aria di rinnovata allegria se ne andò a passo svelto verso la sua locanda.
 
-Comparve all'alba del mattino seguente davanti al Vane Arms con tutta l'aria di chi si mette in viaggio verso terre lontane. Aveva un cannocchiale a tracolla, e un grandissimo coltello da caccia allacciato con una cinghia intorno alla vita, e portato con la fredda spavalderia del coltello bowie di un cowboy. Ma a dispetto di questa semplicità da uomo dei boschi, o forse anzi proprio per essa, osservava con crescente gusto la pittoresca pianta e il profilo del villaggio antiquato, e specialmente il quadrato di legno della vecchia insegna della locanda che pendeva sopra il suo capo; uno scudo, le cui figure gli parevano un mero guazzabuglio di delfini azzurri, croci d'oro e [[motifs/birds|uccelli]] scarlatti. I colori e gli angoli cubici di quell'asse dipinta lo dilettavano come una commedia o uno spettacolo di burattini. Rimase a fissare, a gambe divaricate, per qualche istante sui ciottoli della piccola piazza del mercato; poi diede una breve risata e cominciò a salire per le ripide vie verso l'alto parco e il [[motifs/garden|giardino]] al di là. Dall'alto prato, sopra l'albero e il tavolo, poteva scorgere da un lato la terra distendersi oltre la [[house|casa]] in una grande pianura [[rolling|ondulata]], che sotto i limpidi contorni dell'[[motifs/dawn|alba]] pareva punteggiata di pittoreschi particolari. I boschi qua e là sulla pianura sembravano verdi ricci, [[concepts/grotesque|grotteschi]] quanto le incongrue bestie che si trovano inspiegabilmente a camminare negli spazi vuoti delle mappe medievali. La terra, spartita in campi colorati, richiamava l'araldica dell'insegna; anche questa era a un tempo antica e gaia. Dall'altro lato il terreno digradava verso il mare e poi risaliva fino al famoso o famigerato bosco; il quadrato di strani alberi giaceva silenziosamente inclinato sul pendio, suggerendo anch'esso, se non una mappa, almeno una veduta a volo d'uccello. Solo la triplice figura centrale degli alberi di pavone si [[motifs/rose|levava]] netta contro il profilo del cielo; e questi si ergevano nella tranquilla luce del sole come cose quasi classiche, un tempio triangolare dei venti. Sembravano pagani in un senso più nuovo e più placido; ed egli provò una più nuova e più fanciullesca curiosità e [[concepts/courage|coraggio]] nel consultare l'oracolo. In tutti i suoi vagabondaggi non aveva mai camminato con tanta leggerezza, perché l'intenditore di sensazioni aveva trovato finalmente qualcosa da fare; combatteva per un amico.
+Comparve all'alba del mattino seguente davanti al Vane Arms con tutta l'aria di chi si mette in viaggio verso terre lontane. Aveva un cannocchiale a tracolla, e un grandissimo coltello da caccia allacciato con una cinghia intorno alla vita, e portato con la fredda spavalderia del coltello bowie di un cowboy. Ma a dispetto di questa semplicità da uomo dei boschi, o forse anzi proprio per essa, osservava con crescente gusto la pittoresca pianta e il profilo del villaggio antiquato, e specialmente il quadrato di legno della vecchia insegna della locanda che pendeva sopra il suo capo; uno scudo, le cui figure gli parevano un mero guazzabuglio di delfini azzurri, croci d'oro e [[motifs/birds|uccelli]] scarlatti. I colori e gli angoli cubici di quell'asse dipinta lo dilettavano come una commedia o uno spettacolo di burattini. Rimase a fissare, a gambe divaricate, per qualche istante sui ciottoli della piccola piazza del mercato; poi diede una breve risata e cominciò a salire per le ripide vie verso l'alto parco e il [[motifs/garden|giardino]] al di là. Dall'alto prato, sopra l'albero e il tavolo, poteva scorgere da un lato la terra distendersi oltre la casa in una grande pianura ondulata, che sotto i limpidi contorni dell'[[motifs/dawn|alba]] pareva punteggiata di pittoreschi particolari. I boschi qua e là sulla pianura sembravano verdi ricci, [[concepts/grotesque|grotteschi]] quanto le incongrue bestie che si trovano inspiegabilmente a camminare negli spazi vuoti delle mappe medievali. La terra, spartita in campi colorati, richiamava l'araldica dell'insegna; anche questa era a un tempo antica e gaia. Dall'altro lato il terreno digradava verso il mare e poi risaliva fino al famoso o famigerato bosco; il quadrato di strani alberi giaceva silenziosamente inclinato sul pendio, suggerendo anch'esso, se non una mappa, almeno una veduta a volo d'uccello. Solo la triplice figura centrale degli alberi di pavone si [[motifs/rose|levava]] netta contro il profilo del cielo; e questi si ergevano nella tranquilla luce del sole come cose quasi classiche, un tempio triangolare dei venti. Sembravano pagani in un senso più nuovo e più placido; ed egli provò una più nuova e più fanciullesca curiosità e [[concepts/courage|coraggio]] nel consultare l'oracolo. In tutti i suoi vagabondaggi non aveva mai camminato con tanta leggerezza, perché l'intenditore di sensazioni aveva trovato finalmente qualcosa da fare; combatteva per un amico.
 
 
 
@@ -1687,7 +1687,7 @@ Is there even this extra branch the idiots talked about?"
 
 There had been growing on Paynter the suspicion that the man before
 him was not perfectly sane; yet he was much more startled by the
-sudden and cold [[Sanity|sanity]] that looked for an instant out of the woodman's
+sudden and cold sanity that looked for an instant out of the woodman's
 eyes, as he answered in his ordinary manner.
 
 "[[motifs/well|Well]], sir, did you count the branches before?"
@@ -1750,7 +1750,7 @@ tropical terrors of his own idle tale surrounded and suffocated him.
 It seemed indeed some demon tree of the swamps; a vegetable
 serpent that fed on men.  Even the hideous farce in the fancy
 of digesting a whole man with the exception of his hat, seemed only
-to simplify the [[nightmare]].  And he found himself gazing dully
+to simplify the nightmare.  And he found himself gazing dully
 at one leaf of the tree, which happened to be turned toward him,
 so that the odd markings, which had partly made the legend,
 really looked a little like the eye in a peacock's feather.
@@ -1789,7 +1789,7 @@ Era Martin, il [[characters/woodcutter|taglialegna]], che guadava nella felce e 
 
 «Suvvia!» disse Paynter con gentilezza, ricordando la sciagura domestica dell'uomo. «Miss Vane baderà che lei abbia tutto ciò di cui ha bisogno, ne sono certo. E senta, non si arrovelli su tutte quelle storie sullo Squire. C'è la benché minima traccia che gli alberi abbiano avuto a che fare con la cosa? C'è forse questo ramo in più di cui blateravano gli idioti?»
 
-In Paynter era andato crescendo il sospetto che l'uomo davanti a lui non fosse perfettamente sano di mente; eppure fu assai più sconcertato dalla [[Sanity|lucidità]] improvvisa e gelida che per un istante affiorò dagli occhi del boscaiolo, mentre rispondeva nel suo modo consueto.
+In Paynter era andato crescendo il sospetto che l'uomo davanti a lui non fosse perfettamente sano di mente; eppure fu assai più sconcertato dalla lucidità improvvisa e gelida che per un istante affiorò dagli occhi del boscaiolo, mentre rispondeva nel suo modo consueto.
 
 «[[motifs/well|Beh]], signore, prima li aveva contati i rami?»
 
@@ -1809,7 +1809,7 @@ Ciò che stava guardando avrebbe potuto, a prima vista, essere un grande fungo b
 
 Chinandosi pericolosamente dal suo posatoio, lo staccò dal ramoscello a cui si era impigliato, e poi sedette tenendolo in mano e fissandolo. Era il bianco cappello Panama dello Squire Vane, ma sotto non c'era nessuno Squire Vane. Paynter provò un sollievo senza nome proprio nel fatto che non ci fosse.
 
-Là, nella limpida luce del sole e nell'aria del mare, per un istante tutti i terrori tropicali del suo stesso ozioso racconto lo circondarono e lo soffocarono. Pareva davvero un qualche albero demoniaco delle paludi; un serpente vegetale che si nutriva di uomini. Persino l'orrenda farsa nell'idea di digerire un uomo intero fatta eccezione per il suo cappello sembrava solo semplificare l'[[nightmare|incubo]]. E si ritrovò a fissare ottusamente una foglia dell'albero, che si dava il caso fosse rivolta verso di lui, così che le strane venature, che in parte avevano dato origine alla leggenda, somigliavano davvero un poco all'occhio nella penna di un pavone. Era come se l'albero addormentato avesse aperto un occhio su di lui.
+Là, nella limpida luce del sole e nell'aria del mare, per un istante tutti i terrori tropicali del suo stesso ozioso racconto lo circondarono e lo soffocarono. Pareva davvero un qualche albero demoniaco delle paludi; un serpente vegetale che si nutriva di uomini. Persino l'orrenda farsa nell'idea di digerire un uomo intero fatta eccezione per il suo cappello sembrava solo semplificare l'incubo. E si ritrovò a fissare ottusamente una foglia dell'albero, che si dava il caso fosse rivolta verso di lui, così che le strane venature, che in parte avevano dato origine alla leggenda, somigliavano davvero un poco all'occhio nella penna di un pavone. Era come se l'albero addormentato avesse aperto un occhio su di lui.
 
 Con uno sforzo brusco si stabilizzò nella mente e nella posizione sul ramo; la ragione gli tornò, e cominciò a scendere col cappello tra i denti. Quando fu di nuovo nel mondo sotterraneo del bosco, esaminò di nuovo il cappello e con più attenzione. In un punto della [[motifs/crown|cupola]] c'era un foro o uno strappo, che di certo non c'era quando era rimasto per l'ultima volta sul tavolo sotto l'albero del [[motifs/garden|giardino]]. Si sedette, accese una sigaretta, e rifletté a lungo, per molto [[motifs/time|tempo]].
 
@@ -1975,7 +1975,7 @@ the doctor.  Dr. Burton Brown was a tall, alert man, neatly dressed,
 who would otherwise have had an almost military air but for his
 spectacles and an almost painful intellectualism in his lean brown
 face and bald brow.  The contrast was clinched by the fact that,
-while his face was of the [[ascetic]] type generally conceived
+while his face was of the ascetic type generally conceived
 as clean-shaven, he had a strip of dark mustache cut too short
 for him to bite, and yet a mouth that often moved as if trying
 to bite it.  He might have been a very intelligent army surgeon,
@@ -2093,7 +2093,7 @@ dottore.  Il dottor Burton Brown era un uomo alto, sveglio, vestito con cura,
 che altrimenti avrebbe avuto un'aria quasi militare, se non fosse stato per gli
 occhiali e per un intellettualismo quasi doloroso nel magro volto bruno
 e nella fronte calva.  Il contrasto era rimarcato dal fatto che,
-mentre il suo volto era del tipo [[ascetic]] generalmente concepito
+mentre il suo volto era del tipo ascetic generalmente concepito
 come sbarbato, egli aveva una striscia di baffi scuri tagliata troppo corta
 perché la potesse mordere, eppure una bocca che spesso si muoveva come se cercasse
 di morderla.  Avrebbe potuto essere un chirurgo militare molto intelligente,
@@ -2158,7 +2158,7 @@ to say nothing of a more scientific apparatus to work with,
 but also human companionship, and that of the most intelligent type.
 After leaving the doctor and before leaving the village he had
 bethought himself of seeking the little [[settings/court|court]] or square where stood
-the quiet brown [[house]] of Andrew Ashe, solicitor, and the operations
+the quiet brown house of Andrew Ashe, solicitor, and the operations
 of dragging were worked in [[topoi/double|double]] harness.  Two heads were peering
 over the [[motifs/well|well]] in the wood:  one yellow-haired, lean and eager;
 the other redhaired, heavy and pondering; and if it be true that two heads
@@ -2274,7 +2274,7 @@ a sleeping sickness."
 
 "[[motifs/well|Well]]," admitted Ashe, "you have me there too.  I'm afraid I
 couldn't swear I was awake all the [[motifs/time|time]]; but I don't put it down
-to [[Magic|magic]] trees--only to a private hobby of going to bed at [[motifs/night|night]].
+to magic trees--only to a private hobby of going to bed at [[motifs/night|night]].
 But look here, Mr. Paynter; there's another and better argument
 against any [[archetypes/outsider|outsider]] from the village or countryside having
 committed the crime.  Granted he might have slipped past us somehow,
@@ -2296,7 +2296,7 @@ per non dire di un apparato più scientifico con cui lavorare,
 ma anche compagnia umana, e di quella del tipo più intelligente.
 Dopo aver lasciato il dottore e prima di lasciare il villaggio si era
 rammentato di cercare la piccola [[settings/court|corte]] o piazza dove sorgeva
-la tranquilla [[house|casa]] bruna di Andrew Ashe, avvocato, e le operazioni
+la tranquilla casa bruna di Andrew Ashe, avvocato, e le operazioni
 di dragaggio furono condotte a [[topoi/double|doppio]] tiro.  Due teste erano chine
 sul [[motifs/well|pozzo]] nel bosco:  una dai capelli gialli, magra e ansiosa;
 l'altra dai capelli rossi, greve e riflessiva; e se è vero che due teste
@@ -2412,7 +2412,7 @@ una malattia del sonno."
 
 "[[motifs/well|Ebbene]]," ammise Ashe, "anche qui mi ha colto in fallo.  Temo di
 non poter giurare di essere stato sveglio tutto il [[motifs/time|tempo]]; ma non lo attribuisco
-ad alberi [[Magic|magici]]--soltanto a un privato passatempo di andare a letto la [[motifs/night|notte]].
+ad alberi magici--soltanto a un privato passatempo di andare a letto la [[motifs/night|notte]].
 Ma guardi qui, signor Paynter; c'è un altro e migliore argomento
 contro l'ipotesi che qualche [[archetypes/outsider|estraneo]] del villaggio o della campagna abbia
 commesso il delitto.  Ammesso che sia riuscito in qualche modo a passarci accanto,
@@ -2510,7 +2510,7 @@ The lawyer thought it worth noting, however, that the rag was certainly
 newer and cleaner than the chopper.  But both were quite dry.
 
 "Mr. Paynter," he said at last, "I admit you have scored,
-in the spirit if not in the letter.  In strict [[logic]], this greater
+in the spirit if not in the letter.  In strict logic, this greater
 puzzle is not a reply to my case.  If this ax has not been dipped
 in [[motifs/water|water]], it has been dipped in [[motifs/blood|blood]]; and the [[motifs/water|water]] jumping out of
 the [[motifs/well|well]] is not an explanation of the poet jumping out of the wood.
@@ -2636,7 +2636,7 @@ L'avvocato ritenne comunque degno di nota che il cencio fosse certamente
 più nuovo e pulito dell'accetta.  Ma entrambi erano del tutto asciutti.
 
 "Signor Paynter," disse infine, "ammetto che lei ha segnato un punto,
-nello spirito se non nella lettera.  In stretta [[logic|logica]], questo più grande
+nello spirito se non nella lettera.  In stretta logica, questo più grande
 enigma non è una risposta al mio caso.  Se quest'ascia non è stata immersa
 nell'[[motifs/water|acqua]], è stata immersa nel [[motifs/blood|sangue]]; e l'[[motifs/water|acqua]] che schizza fuori dal
 [[motifs/well|pozzo]] non è una spiegazione del poeta che schizza fuori dal bosco.
@@ -2953,7 +2953,7 @@ to have the inquest first and the inquiry afterward."
 
 But Paynter had paid little attention to the point; for his great gift
 of enthusiasm, long wasted on arts and affectations, was lifted to
-inspiration by the [[Romance|romance]] of real life into which he had just walked.
+inspiration by the romance of real life into which he had just walked.
 He was really a great critic; he had a genius for admiration,
 and his admiration varied fittingly with everything he admired.
 
@@ -3074,7 +3074,7 @@ fare prima l'inchiesta e l'indagine dopo."
 
 Ma Paynter aveva prestato poca attenzione al punto; poiché il suo grande dono
 d'entusiasmo, a lungo sprecato in arti e affettazioni, era sollevato a
-ispirazione dal [[Romance|romanzesco]] della vita reale in cui era appena entrato.
+ispirazione dal romanzesco della vita reale in cui era appena entrato.
 Era davvero un grande critico; aveva un genio per l'ammirazione,
 e la sua ammirazione variava a proposito con tutto ciò che ammirava.
 
@@ -3180,7 +3180,7 @@ It would not have been for money or any mean thing, but for something
 a little wilder and worthier of a man of genius.  After all,
 I suppose, the poet has passions like great unearthly appetites;
 and the world has always judged more gently of his sins.
-But now that Mr. Ashe admits your [[innocence]], I can honestly say I
+But now that Mr. Ashe admits your innocence, I can honestly say I
 have always affirmed it."
 
 The poet [[motifs/rose|rose]] also.  "[[motifs/well|Well]], I am [[archetypes/innocent|innocent]], oddly enough," he said.
@@ -3189,7 +3189,7 @@ but of the [[motifs/death|death]] and dry bones I know no more than the dead;
 if so much.  And, by the way, my dear Paynter"--and he turned two
 bright eyes on the art critic--"I will excuse you from excusing me
 for all the things I haven't done; and you, I [[concepts/hope|hope]], will excuse
-me if I differ from you altogether about the [[morality]] of poets.
+me if I differ from you altogether about the morality of poets.
 As you suggest, it is a fashionable view, but I think it is a fallacy.
 No man has less right to be lawless than a man of [[concepts/imagination|imagination]].
 For he has spiritual adventures, and can take his holidays when he likes.
@@ -3219,7 +3219,7 @@ of sins avoided."
 man in the street and ask him what crimes he never committed and why not.
 And I happen to be busy, so you'll excuse me."
 
-"What," asked the American, when he and the poet were [[Alone|alone]],
+"What," asked the American, when he and the poet were alone,
 "is this guess of yours about the vanishing [[motifs/water|water]]?"
 
 "[[motifs/well|Well]], I'm not sure I'll tell you yet," answered Treherne,
@@ -3230,7 +3230,7 @@ meeting in the wood."  His face had grown [[motifs/grave|grave]] again, and he r
 after a pause:
 
 "When my wife started to follow her father I advised her to go back
-first to the [[house]], to leave it by another door and to meet me in
+first to the house, to leave it by another door and to meet me in
 the wood in half an hour.  We often made these assignations, of course,
 and generally thought them great fun, but this [[motifs/time|time]] the question
 was serious, and I didn't want the wrong thing done in a hurry.
@@ -3286,7 +3286,7 @@ Non sarebbe stato per denaro o per qualche cosa meschina, ma per qualcosa
 di un po' più selvaggio e più degno di un uomo di genio.  Dopo tutto,
 suppongo, il poeta ha passioni come grandi appetiti ultraterreni;
 e il mondo ha sempre giudicato più benevolmente i suoi peccati.
-Ma ora che il signor Ashe ammette la sua [[innocence|innocenza]], posso onestamente dire di
+Ma ora che il signor Ashe ammette la sua innocenza, posso onestamente dire di
 averla sempre affermata."
 
 Anche il poeta [[motifs/rose|si levò]].  "[[motifs/well|Ebbene]], sono [[archetypes/innocent|innocente]], per quanto strano," disse.
@@ -3295,7 +3295,7 @@ ma della [[motifs/death|morte]] e delle ossa asciutte non ne so più di quanto n
 se pure altrettanto.  E, a proposito, mio caro Paynter"--e volse due
 occhi brillanti sul critico d'arte--"la dispenserò dal dispensarmi
 per tutte le cose che non ho fatto; e lei, spero, mi dispenserà
-se dissento del tutto da lei circa la [[morality|moralità]] dei poeti.
+se dissento del tutto da lei circa la moralità dei poeti.
 Come lei suggerisce, è una visione alla moda, ma credo che sia un'illusione.
 Nessun uomo ha meno diritto di essere fuorilegge di un uomo di [[concepts/imagination|immaginazione]].
 Poiché egli ha avventure spirituali, e può prendersi le sue vacanze quando vuole.
@@ -3325,7 +3325,7 @@ dei peccati evitati."
 uomo per strada e chiedergli quali delitti non ha mai commesso e perché no.
 E il caso vuole che io sia occupato, quindi mi scuserà."
 
-"Qual è," chiese l'americano, quando lui e il poeta furono [[Alone|soli]],
+"Qual è," chiese l'americano, quando lui e il poeta furono soli,
 "questa sua ipotesi sull'[[motifs/water|acqua]] scomparsa?"
 
 "[[motifs/well|Ebbene]], non sono sicuro di volerglielo ancora dire," rispose Treherne,
@@ -3336,7 +3336,7 @@ incontro nel bosco."  Il suo viso si era fatto di nuovo [[motifs/grave|grave]], 
 dopo una pausa:
 
 "Quando mia moglie si mise a seguire suo padre le consigliai di tornare
-prima alla [[house|casa]], di uscirne da un'altra porta e di incontrarmi nel
+prima alla casa, di uscirne da un'altra porta e di incontrarmi nel
 bosco dopo mezz'ora.  Ci davamo spesso questi appuntamenti, naturalmente,
 e in genere li trovavamo grande spasso, ma questa [[motifs/time|volta]] la questione
 era seria, e non volevo che si facesse la cosa sbagliata in fretta.
@@ -3389,9 +3389,9 @@ having on the little table in front of it a tall glass of light ale,
 which he enjoyed much more as local color than as liquor.
 He had but one companion on the bench, and that a new one,
 for the little market place was empty at that hour, and he had lately,
-for the rest, been much [[Alone|alone]].  He was not unhappy, for he resembled
+for the rest, been much alone.  He was not unhappy, for he resembled
 his great countryman, Walt Whitman, in carrying a kind of universe
-with him like an open umbrella; but he was not only [[Alone|alone]], but lonely.
+with him like an open umbrella; but he was not only alone, but lonely.
 For Ashe had gone abruptly up to [[settings/london|London]], and since his return had been
 occupied obscurely with legal matters, doubtless bearing on the murder.
 And Treherne had long since taken up his position openly,
@@ -3509,9 +3509,9 @@ avendo sul piccolo tavolo davanti a sé un alto bicchiere di birra chiara,
 che gustava assai più come colore locale che come bevanda.
 Aveva un solo compagno sulla panca, e per giunta nuovo,
 poiché la piccola piazza del mercato era vuota a quell'ora, ed egli era stato di recente,
-per il resto, molto [[Alone|solo]].  Non era infelice, poiché somigliava
+per il resto, molto solo.  Non era infelice, poiché somigliava
 al suo grande connazionale, Walt Whitman, nel portarsi appresso una sorta di universo
-come un ombrello aperto; ma non era soltanto [[Alone|solo]], era solitario.
+come un ombrello aperto; ma non era soltanto solo, era solitario.
 Poiché Ashe era partito bruscamente per [[settings/london|Londra]], e dopo il suo ritorno era stato
 occupato oscuramente in faccende legali, che senza dubbio riguardavano il delitto.
 E Treherne aveva da tempo assunto apertamente la sua posizione,
@@ -3703,7 +3703,7 @@ were scudding seaward across the many-colored landscape,
 which the American art critic had once surveyed on a happier morning;
 but it is doubtful if the landscape painter paid much attention to it.
 Treherne was dimly discernible in the doorway of what was now
-his [[house]]; he would come no nearer, for he hated such a public
+his house; he would come no nearer, for he hated such a public
 duty more bitterly than the rest.  The others posted themselves
 a little way behind the tree.  Between the lines of these masked
 batteries the black figure of the doctor could be seen coming
@@ -3736,7 +3736,7 @@ path up which that troubadour had climbed.  Racing with the rushing
 [[motifs/wind|wind]] they all streamed across the [[motifs/garden|garden]] after him, down the path,
 and finally on to the seashore by the fisher's cot, and the pierced
 crags and caverns the American had admired when he first landed.
-The runaway did not, however, make for the [[house]] he had long inhabited,
+The runaway did not, however, make for the house he had long inhabited,
 but rather for the pier, as if with a mind to seize the boat or to swim.
 Only when he reached the other end of the small stone jetty
 did he turn, and show them the pale face with the spectacles;
@@ -3769,13 +3769,13 @@ L'alto [[archetypes/detective|detective]] balzò in piedi, e Paynter istintivame
 
 «Credete che piaccia a me?» chiese Ashe; e, in effetti, il suo volto forte e pesante appariva così solcato e vecchio che i capelli rossi sembravano innaturali, come una parrucca rossa. «Lo conosco da più tempo di voi, benché forse lo sospetti anche da più tempo [[motifs/well|pure]].»
 
-Quando raggiunsero la sommità del pendio del [[motifs/garden|giardino]] il [[archetypes/detective|detective]] aveva già eretto il suo cavalletto, benché una forte brezza che soffiava verso il mare facesse tremare e sbattere il suo apparato e agitasse nel [[motifs/wind|vento]] la sua barba bionda (e falsa). Piccole nuvole arricciate come piume filavano verso il mare attraverso il paesaggio dai molti colori, che il critico d'arte americano aveva un tempo contemplato in una mattina più lieta; ma è dubbio che il pittore di paesaggi vi prestasse molta attenzione. Treherne era vagamente distinguibile sulla soglia di quella che era ora la sua [[house|casa]]; non si sarebbe avvicinato di più, perché odiava un simile dovere pubblico più amaramente di tutti gli altri. Gli altri si appostarono un poco dietro l'albero. Tra le linee di queste batterie mascherate si poteva vedere la figura nera del dottore avanzare sul verde prato, procedendo dritta come una pallottola, come aveva fatto quando portò la cattiva notizia al [[characters/woodcutter|boscaiolo]]. Oggi sorrideva, sotto i baffi scuri tagliati corti sul labbro superiore, benché lo immaginassero un po' pallido, e parve fermarsi un istante e scrutare attraverso gli occhiali l'[[archetypes/artist|artista]].
+Quando raggiunsero la sommità del pendio del [[motifs/garden|giardino]] il [[archetypes/detective|detective]] aveva già eretto il suo cavalletto, benché una forte brezza che soffiava verso il mare facesse tremare e sbattere il suo apparato e agitasse nel [[motifs/wind|vento]] la sua barba bionda (e falsa). Piccole nuvole arricciate come piume filavano verso il mare attraverso il paesaggio dai molti colori, che il critico d'arte americano aveva un tempo contemplato in una mattina più lieta; ma è dubbio che il pittore di paesaggi vi prestasse molta attenzione. Treherne era vagamente distinguibile sulla soglia di quella che era ora la sua casa; non si sarebbe avvicinato di più, perché odiava un simile dovere pubblico più amaramente di tutti gli altri. Gli altri si appostarono un poco dietro l'albero. Tra le linee di queste batterie mascherate si poteva vedere la figura nera del dottore avanzare sul verde prato, procedendo dritta come una pallottola, come aveva fatto quando portò la cattiva notizia al [[characters/woodcutter|boscaiolo]]. Oggi sorrideva, sotto i baffi scuri tagliati corti sul labbro superiore, benché lo immaginassero un po' pallido, e parve fermarsi un istante e scrutare attraverso gli occhiali l'[[archetypes/artist|artista]].
 
 L'[[archetypes/artist|artista]] si voltò dal cavalletto con un movimento naturale, e poi in un lampo aveva afferrato il dottore per il bavero della giacca.
 
 «Vi arresto...» cominciò; ma il dottor Brown si liberò con sorprendente prontezza, spiccò un balzo verso l'altro, gli strappò via la barba finta, gettandola in aria come uno di quei selvaggi fiocchi di nuvola; poi, con un selvaggio calcio, mandò il cavalletto a gambe all'aria, e fuggì come una lepre verso la riva. Persino in quell'istante abbagliante Paynter sentì che quell'accoglienza selvaggia era una novità e quasi un anticlimax; ma non ebbe [[motifs/time|tempo]] di analizzare quando lui e l'intera muta dovettero unirsi alla caccia; perfino Treherne chiudeva la fila con rinnovata curiosità ed energia.
 
-Il fuggitivo si scontrò con uno dei poliziotti accorso a tagliargli la strada, mandandolo a ruzzolare giù per il pendio; in verità, il fuggitivo pareva animato dalla forza di una scimmia selvaggia. Superò con un balzo il bastione di [[motifs/flowers|fiori]] su cui Barbara si era una volta chinata a guardare il suo futuro [[archetypes/lover|innamorato]], e precipitò con [[characters/speed|velocità]] accecante giù per il ripido sentiero su cui quel trovatore si era arrampicato. Correndo a gara col [[motifs/wind|vento]] impetuoso, tutti si riversarono attraverso il [[motifs/garden|giardino]] dietro di lui, giù per il sentiero, e infine sulla riva del mare presso la capanna del pescatore, e le rupi e caverne traforate che l'americano aveva ammirato quando era sbarcato per la prima volta. Il fuggiasco però non puntò verso la [[house|casa]] che aveva a lungo abitato, ma piuttosto verso il molo, come con l'intenzione di afferrare la barca o di gettarsi a nuoto. Solo quando raggiunse l'altra estremità del piccolo molo di pietra si voltò, e mostrò loro il volto pallido con gli occhiali; e videro che stava ancora sorridendo.
+Il fuggitivo si scontrò con uno dei poliziotti accorso a tagliargli la strada, mandandolo a ruzzolare giù per il pendio; in verità, il fuggitivo pareva animato dalla forza di una scimmia selvaggia. Superò con un balzo il bastione di [[motifs/flowers|fiori]] su cui Barbara si era una volta chinata a guardare il suo futuro [[archetypes/lover|innamorato]], e precipitò con [[characters/speed|velocità]] accecante giù per il ripido sentiero su cui quel trovatore si era arrampicato. Correndo a gara col [[motifs/wind|vento]] impetuoso, tutti si riversarono attraverso il [[motifs/garden|giardino]] dietro di lui, giù per il sentiero, e infine sulla riva del mare presso la capanna del pescatore, e le rupi e caverne traforate che l'americano aveva ammirato quando era sbarcato per la prima volta. Il fuggiasco però non puntò verso la casa che aveva a lungo abitato, ma piuttosto verso il molo, come con l'intenzione di afferrare la barca o di gettarsi a nuoto. Solo quando raggiunse l'altra estremità del piccolo molo di pietra si voltò, e mostrò loro il volto pallido con gli occhiali; e videro che stava ancora sorridendo.
 
 
 
@@ -4016,11 +4016,11 @@ looked rather wildly from one to the other.
 Whose bones?"
 
 "Your bones, in a manner of speaking," delicately conceded the doctor.
-"I had to make sure you had really died, and not disappeared by [[Magic|magic]]."
+"I had to make sure you had really died, and not disappeared by magic."
 
 The Squire in his turn seemed more hopelessly puzzled than the whole crowd
 of his friends had been over his own escapade.  "Why not?" he demanded.
-"I thought it was the whole point to make it look like [[Magic|magic]].
+"I thought it was the whole point to make it look like magic.
 Why did you want me to die so much?"
 
 Doctor Brown had lifted his head; and he now very slowly lifted
@@ -4051,7 +4051,7 @@ for explanation and incoherent questions repeated again and again.
 He had practically to be overruled at last, in spite of the respect
 in which he was held, before anything like a space and [[motifs/silence|silence]]
 were made in which the doctor could tell his own story.
-It was perhaps a singular story, of which he [[Alone|alone]] had ever had
+It was perhaps a singular story, of which he alone had ever had
 the knowledge; and though its narration was not uninterrupted,
 it may be set forth consecutively in his own words.
 
@@ -4080,9 +4080,9 @@ Fu la volta dello Squire di apparire sbalordito. Il vecchio gentiluomo guardò c
 
 «Ossa! Accusa d'omicidio!» esclamò. «Che diavolo è tutto questo? Ossa di chi?»
 
-«Le vostre ossa, per così dire», concesse delicatamente il dottore. «Dovevo assicurarmi che foste davvero morto, e non scomparso per [[Magic|magia]].»
+«Le vostre ossa, per così dire», concesse delicatamente il dottore. «Dovevo assicurarmi che foste davvero morto, e non scomparso per magia.»
 
-Lo Squire a sua volta parve più disperatamente perplesso di quanto lo fosse stata tutta la schiera dei suoi amici davanti alla sua stessa bravata. «Perché no?» domandò. «Pensavo che tutto il punto fosse farla sembrare [[Magic|magia]]. Perché volevate tanto che io morissi?»
+Lo Squire a sua volta parve più disperatamente perplesso di quanto lo fosse stata tutta la schiera dei suoi amici davanti alla sua stessa bravata. «Perché no?» domandò. «Pensavo che tutto il punto fosse farla sembrare magia. Perché volevate tanto che io morissi?»
 
 Il dottor Brown aveva alzato la testa; e ora, assai lentamente, alzò la mano. Indicò col braccio teso il promontorio che sovrastava la battigia, proprio sopra l'ingresso della [[motifs/cave|grotta]]. Era esattamente quel tratto di spiaggia dove Paynter era sbarcato per la prima volta, in quella mattina di [[motifs/spring|primavera]] in cui aveva levato lo sguardo con il suo primo fresco [[concepts/wonder|stupore]] verso gli alberi del pavone. Ma gli alberi non c'erano più.
 
@@ -4090,7 +4090,7 @@ Il fatto in sé non fu una sorpresa per loro; l'abbattimento era stato naturalme
 
 «Questa è la ragione», disse il dottore. «Ho lavorato per questo per quattordici anni.»
 
-Non guardavano più lo spoglio promontorio su cui gli alberi piumati erano un tempo una vista tanto familiare; poiché avevano qualcos'altro da guardare. Chiunque avesse visto lo Squire ora avrebbe cambiato opinione su dove trovare il pazzo in quella folla. Fu chiaro in un lampo che il cambiamento era caduto su di lui come un fulmine; che egli, almeno, non aveva mai avuto la più remota idea che il racconto dello Squire Scomparso fosse stato solo un preludio a quello degli alberi scomparsi. La mezz'ora successiva fu piena dei suoi deliri e delle sue rimostranze, che gradualmente si spensero in richieste di spiegazioni e domande incoerenti ripetute più e più volte. Praticamente dovette essere messo a tacere alla fine, malgrado il rispetto di cui godeva, prima che si facesse qualcosa come uno spazio e un [[motifs/silence|silenzio]] in cui il dottore potesse raccontare la propria storia. Era forse una storia singolare, di cui egli [[Alone|solo]] aveva mai avuto conoscenza; e benché la sua narrazione non fosse ininterrotta, la si può esporre di seguito con le sue stesse parole.
+Non guardavano più lo spoglio promontorio su cui gli alberi piumati erano un tempo una vista tanto familiare; poiché avevano qualcos'altro da guardare. Chiunque avesse visto lo Squire ora avrebbe cambiato opinione su dove trovare il pazzo in quella folla. Fu chiaro in un lampo che il cambiamento era caduto su di lui come un fulmine; che egli, almeno, non aveva mai avuto la più remota idea che il racconto dello Squire Scomparso fosse stato solo un preludio a quello degli alberi scomparsi. La mezz'ora successiva fu piena dei suoi deliri e delle sue rimostranze, che gradualmente si spensero in richieste di spiegazioni e domande incoerenti ripetute più e più volte. Praticamente dovette essere messo a tacere alla fine, malgrado il rispetto di cui godeva, prima che si facesse qualcosa come uno spazio e un [[motifs/silence|silenzio]] in cui il dottore potesse raccontare la propria storia. Era forse una storia singolare, di cui egli solo aveva mai avuto conoscenza; e benché la sua narrazione non fosse ininterrotta, la si può esporre di seguito con le sue stesse parole.
 
 
 
@@ -4196,7 +4196,7 @@ He came down so quick from the tree he had climbed that he had no
 disappearance would be taken as his [[motifs/death|death]], at least after a little [[motifs/time|time]];
 but Ashe told me there could be no formalities without a corpse.
 I [[concepts/fear|fear]] I was a little annoyed, but I soon set myself to the duty of
-manufacturing a corpse.  It's not hard for a doctor to get a [[skeleton]];
+manufacturing a corpse.  It's not hard for a doctor to get a skeleton;
 indeed, I had one, but Mr. Paynter's energy was a day too early for me,
 and I only got the bones into the [[motifs/well|well]] when he had already found it.
 His story gave me another chance, however; I noted where the hole
@@ -4272,7 +4272,7 @@ End of The Trees of [[concepts/pride|Pride]], by G. K. Chesterton
 
 «Senza dubbio il mio piano fu completato da una serie di casi fortuiti, ma io ero in agguato di simili casi. Così ebbi un presentimento di come l'ascia avrebbe figurato nella vicenda quando fu scagliata per la prima volta contro gli alberi; avrebbe sorpreso il boscaiolo sapere quanto vicine fossero le nostre menti, e come io non stessi facendo altro che porre un assedio più elaborato alle torri della pestilenza. Ma quando lo Squire si precipitò spontaneamente verso ciò che metà della contrada avrebbe chiamato [[motifs/death|morte]] certa, colsi l'occasione al volo. Lo seguii, e gli raccontai tutto ciò che lui ha raccontato a voi. Non credo che mi perdonerà mai ora, ma ciò non m'impedirà di dire che lo ammiro immensamente per essere ciò che la gente chiamerebbe un pazzo e ciò che è in realtà uno spirito sportivo. Ci vuole un vecchio gentiluomo davvero grande per fare uno scherzo in grande stile. Scese così in fretta dall'albero su cui si era arrampicato che non ebbe [[motifs/time|tempo]] di togliere il cappello dal ramo in cui si era impigliato.
 
-«Dapprima m'accorsi di aver fatto un errore di calcolo. Pensavo che la sua scomparsa sarebbe stata presa per la sua [[motifs/death|morte]], almeno dopo un po' di [[motifs/time|tempo]]; ma Ashe mi disse che non poteva esserci alcuna formalità senza un cadavere. [[concepts/fear|Temo]] di essermi un po' seccato, ma mi accinsi presto al compito di fabbricare un cadavere. Non è difficile per un medico procurarsi uno [[skeleton|scheletro]]; ne avevo uno, di fatto, ma l'energia del signor Paynter fu di un giorno troppo precoce per me, e riuscii a mettere le ossa nel [[motifs/well|pozzo]] solo dopo che lui l'aveva già scoperto. La sua storia però mi diede un'altra occasione; notai dov'era il foro nel cappello, e feci un foro esattamente corrispondente nel cranio. La ragione per cui creai gli altri indizi potrebbe non essere così ovvia. Potrebbe non esservi ancora del tutto chiaro che non sono un demonio in forma umana. Non potevo comprovare un omicidio senza almeno suggerire un assassino, ed ero deciso che, se il delitto fosse stato ricondotto a qualcuno, dovesse esserlo a me. Perciò non mi sorprende che foste perplessi sullo scopo dello straccio attorno all'ascia, perché non aveva alcuno scopo, se non incriminare l'uomo che ce l'aveva messo. La caccia doveva finire con me, e quando si stava finalmente stringendo, lo scherzo fu troppo per me, e [[concepts/fear|temo]] di essermi preso qualche libertà con il cavalletto e la barba del gentiluomo. Ero l'unica persona che potesse rischiarlo, essendo l'unica persona che potesse all'ultimo momento produrre lo Squire e provare che non c'era stato affatto delitto. Questa, signori, è la vera storia degli alberi del pavone; e quello spoglio picco lassù, dove il [[motifs/wind|vento]] fischia come farebbe su un deserto, è un luogo desolato che ho faticato a creare, come molti uomini hanno faticato a costruire una [[settings/cathedral|cattedrale]].
+«Dapprima m'accorsi di aver fatto un errore di calcolo. Pensavo che la sua scomparsa sarebbe stata presa per la sua [[motifs/death|morte]], almeno dopo un po' di [[motifs/time|tempo]]; ma Ashe mi disse che non poteva esserci alcuna formalità senza un cadavere. [[concepts/fear|Temo]] di essermi un po' seccato, ma mi accinsi presto al compito di fabbricare un cadavere. Non è difficile per un medico procurarsi uno scheletro; ne avevo uno, di fatto, ma l'energia del signor Paynter fu di un giorno troppo precoce per me, e riuscii a mettere le ossa nel [[motifs/well|pozzo]] solo dopo che lui l'aveva già scoperto. La sua storia però mi diede un'altra occasione; notai dov'era il foro nel cappello, e feci un foro esattamente corrispondente nel cranio. La ragione per cui creai gli altri indizi potrebbe non essere così ovvia. Potrebbe non esservi ancora del tutto chiaro che non sono un demonio in forma umana. Non potevo comprovare un omicidio senza almeno suggerire un assassino, ed ero deciso che, se il delitto fosse stato ricondotto a qualcuno, dovesse esserlo a me. Perciò non mi sorprende che foste perplessi sullo scopo dello straccio attorno all'ascia, perché non aveva alcuno scopo, se non incriminare l'uomo che ce l'aveva messo. La caccia doveva finire con me, e quando si stava finalmente stringendo, lo scherzo fu troppo per me, e [[concepts/fear|temo]] di essermi preso qualche libertà con il cavalletto e la barba del gentiluomo. Ero l'unica persona che potesse rischiarlo, essendo l'unica persona che potesse all'ultimo momento produrre lo Squire e provare che non c'era stato affatto delitto. Questa, signori, è la vera storia degli alberi del pavone; e quello spoglio picco lassù, dove il [[motifs/wind|vento]] fischia come farebbe su un deserto, è un luogo desolato che ho faticato a creare, come molti uomini hanno faticato a costruire una [[settings/cathedral|cattedrale]].
 
 «Non credo che ci sia altro da dire, eppure qualcosa si muove nel mio [[motifs/blood|sangue]] e cercherò di dirlo. Non avreste potuto fidarvi un poco di questi contadini di cui già tanto vi fidate? Questi uomini sono uomini, e qualcosa volevano dire; perfino i loro padri non erano del tutto sciocchi. Se il vostro giardiniere vi parlava degli alberi lo chiamavate pazzo, ma non progettò né piantò il vostro [[motifs/garden|giardino]] da pazzo. Non volevate fidarvi del vostro boscaiolo riguardo a questi alberi, eppure gli affidavate tutti gli altri. Avete mai pensato a come sarebbe tutto il lavoro del mondo se i poveri fossero insensati quanto voi li credete? Ma no, restaste attaccati al vostro principio razionale. E il vostro principio razionale era che una cosa dev'essere falsa perché migliaia di uomini l'hanno trovata vera; che PERCHÉ molti occhi umani avevano visto qualcosa, quella cosa non poteva esserci.»
 

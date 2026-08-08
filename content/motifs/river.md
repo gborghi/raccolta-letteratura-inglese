@@ -37,16 +37,16 @@ tags:
 - [[works/susette-(coleridge)|SUSETTE (Coleridge)]]
 - [[works/water-ballad-(coleridge)|WATER BALLAD (Coleridge)]]
 - [[works/our-mutual-friend-(dickens)|Our Mutual Friend (Dickens)]]
-- 1086. What Twigs We held by — (Dickinson)
-- 111. The Bee is not afraid of me. (Dickinson)
-- 1210. The Sea said Come to the Brook — (Dickinson)
-- 1278. The Mountains stood in Haze — (Dickinson)
-- 136. Have you got a Brook in your little heart, (Dickinson)
-- 1558. Of Death I try to think like this — (Dickinson)
-- 1656. Down Time's quaint stream (Dickinson)
-- 438. Forget! The lady with the Amulet (Dickinson)
-- 537. Me prove it now — Whoever doubt (Dickinson)
-- 794. A Drop Fell on the Apple Tree — (Dickinson)
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1086_what_twigs_we_held_by|1086. What Twigs We held by — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0111_the_bee_is_not_afraid_of_me|111. The Bee is not afraid of me. (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1210_the_sea_said_come_to_the_brook|1210. The Sea said Come to the Brook — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1278_the_mountains_stood_in_haze|1278. The Mountains stood in Haze — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0136_have_you_got_a_brook_in_your_little_heart|136. Have you got a Brook in your little heart, (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1558_of_death_i_try_to_think_like_this|1558. Of Death I try to think like this — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1656_down_times_quaint_stream|1656. Down Time's quaint stream (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0438_forget_the_lady_with_the_amulet|438. Forget! The lady with the Amulet (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0537_me_prove_it_now_whoever_doubt|537. Me prove it now — Whoever doubt (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0794_a_drop_fell_on_the_apple_tree|794. A Drop Fell on the Apple Tree — (Dickinson)]]
 - [[works/iii.-the-fire-sermon-(eliot)|III. The Fire Sermon (Eliot)]]
 - [[works/landscapes-(eliot)|Landscapes (Eliot)]]
 - [[works/le-directeur-(eliot)|Le Directeur (Eliot)]]

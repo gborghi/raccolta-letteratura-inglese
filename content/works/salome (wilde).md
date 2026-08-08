@@ -90,13 +90,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Femme Fatale, Prophet, Martyr Saint, Tyrant
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/prophet|Prophet]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/moon|Moon]], [[motifs/death|Death]], [[motifs/blood|Blood]], [[motifs/desire|Desire]], [[motifs/white-and-red|White and Red]], [[motifs/music-and-song|Music and Song]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/martyrdom|Martyrdom]], [[concepts/grotesque|Grotesque]], [[concepts/temptation|Temptation]], [[concepts/revenge|Revenge]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]]
 **Historical References:** [[historical-references/bible|Bible]], [[settings/ancient-rome|Ancient Rome]]
 **Settings:** [[settings/orient|Orient]], [[settings/court|Court]]
-**Characters:** Christ, Salome, Herod Antipas, Iokanaan, Herodias, Young Syrian
+**Characters:** [[characters/christ|Christ]], [[characters/salome|Salome]], [[characters/herod-antipas|Herod Antipas]], [[characters/iokanaan|Iokanaan]], [[characters/herodias|Herodias]], [[characters/young-syrian|Young Syrian]]
 
 ## Testo integrale / Full text
 

@@ -214,7 +214,7 @@ facts of my narrative would prove of such a [[concepts/nature|nature]] as to car
 
 them sufficient evidence of their own authenticity, and that I had
 
-consequently little to [[concepts/fear|fear]] on the score of popular [[Incredulity|incredulity]].
+consequently little to [[concepts/fear|fear]] on the score of popular incredulity.
 
 
 
@@ -522,7 +522,7 @@ have been expected, it flew over the bows, and, getting drenched with
 
 [[motifs/water|water]], carried away the mast short off by the board. This latter
 
-accident [[Alone|alone]] saved me from instant destruction. Under the jib only, I
+accident alone saved me from instant destruction. Under the jib only, I
 
 now boomed along before the [[motifs/wind|wind]], shipping heavy seas occasionally over
 
@@ -968,7 +968,7 @@ communion had resulted in a partial interchange of character.
 
 About eighteen months after the period of the [[characters/ariel|Ariel]]'s disaster, the
 
-firm of Lloyd and Vredenburgh (a [[house]] connected in some manner with
+firm of Lloyd and Vredenburgh (a house connected in some manner with
 
 the Messieurs Enderby, I believe, of Liverpool) were engaged in
 
@@ -1040,7 +1040,7 @@ any plan we thought likely to succeed, he told me at last that he had
 
 determined upon everything necessary. I had a relation living in New
 
-Bedford, a Mr. Ross, at whose [[house]] I was in the habit of spending
+Bedford, a Mr. Ross, at whose house I was in the habit of spending
 
 occasionally two or three weeks at a [[motifs/time|time]]. The brig was to sail about
 
@@ -1078,7 +1078,7 @@ The middle of June at length arrived, and everything had been matured.
 
 The note was written and delivered, and on a Monday morning I left the
 
-[[house]] for the New Bedford packet, as supposed. I went, however,
+house for the New Bedford packet, as supposed. I went, however,
 
 straight to Augustus, who was waiting for me at the corner of a street.
 
@@ -1151,7 +1151,7 @@ La comunione aveva portato a un parziale scambio di caratteri tra le persone coi
 
 Circa diciotto mesi dopo il periodo del disastro di [[characters/ariel|Ariel]], il.
 
-Lo studio legale di Lloyd e Vredenburgh (una [[house|azienda]] collegata in qualche modo con, )
+Lo studio legale di Lloyd e Vredenburgh (una azienda collegata in qualche modo con, )
 
 I signori Enderby, credo di Liverpool, erano impegnati…
 
@@ -1223,7 +1223,7 @@ Dopo quasi un mese trascorso in questo modo, senza che riuscissimo a trovare…
 
 Deciso a fare tutto il necessario… Avevo un conoscente che viveva a New…
 
-Bedford, da Mr. Ross, nella cui [[house|casa]] avevo l’abitudine di trascorrere.
+Bedford, da Mr. Ross, nella cui casa avevo l’abitudine di trascorrere.
 
 A volte, due o tre settimane di [[motifs/time|tempo]]. La brigata avrebbe dovuto salpare entro circa.
 
@@ -1261,7 +1261,7 @@ Finalmente arrivò la metà di giugno, e tutto era ormai maturo.
 
 La nota fu scritta e consegnata; una mattina di lunedì me ne andai.
 
-La [[house|casa]] era destinata al battello postale di New Bedford, come previsto. Tuttavia, io ci sono andato lo stesso.
+La casa era destinata al battello postale di New Bedford, come previsto. Tuttavia, io ci sono andato lo stesso.
 
 Direttamente ad Augusto, che mi aspettava all’angolo di una strada.
 
@@ -2090,11 +2090,11 @@ intensely black, still, and altogether terrible, beneath. And the
 
 strange trees seemed endowed with a human vitality, and, waving to and
 
-fro their [[skeleton]] arms, were crying to the silent waters for [[concepts/mercy|mercy]], in
+fro their skeleton arms, were crying to the silent waters for [[concepts/mercy|mercy]], in
 
 the shrill and piercing accents of the most acute agony and [[concepts/despair|despair]].
 
-The scene changed; and I stood, naked and [[Alone|alone]], amid the burning
+The scene changed; and I stood, naked and alone, amid the burning
 
 sand-plains of Zahara. At my feet lay crouched a fierce [[motifs/lion|lion]] of the
 
@@ -2108,7 +2108,7 @@ the thunder of the firmament, and I fell impetuously to the earth.
 
 Stifling in a paroxysm of terror, I at last found myself partially
 
-awake. My dream, then, was not all [[A Dream|a dream]]. Now, at least, I was in
+awake. My dream, then, was not all a dream. Now, at least, I was in
 
 possession of my senses. The paws of some huge and real [[archetypes/monster|monster]] were
 
@@ -2178,7 +2178,7 @@ thousand different conjectures respecting him, was forced to content
 
 myself with rejoicing that he was with me to share my dreary [[concepts/solitude|solitude]],
 
-and render me comfort by his caresses. Most people [[motifs/love|love]] their [[dogs]]--but
+and render me comfort by his caresses. Most people [[motifs/love|love]] their dogs--but
 
 for Tiger I had an affection far more ardent than common; and never,
 
@@ -2267,7 +2267,7 @@ Dai loro bracci scheletrici, gridavano alle acque silenziose chiedendo pietà.
 
 Gli accenti striduli e penetranti dell’agonia più acuta e del [[concepts/despair|disperio]].
 
-La scena cambiò; ed io mi trovai lì, nudo e [[Alone|solo]], in mezzo alle fiamme che divampavano.
+La scena cambiò; ed io mi trovai lì, nudo e solo, in mezzo alle fiamme che divampavano.
 
 Le pianure sabbiose del Sahara. Ai miei piedi giaceva accovacciato un feroce [[motifs/lion|leone]] di quelle lande.
 
@@ -2351,7 +2351,7 @@ Mille diverse congetture su di lui… ma alla fine si dovette accontentare di qu
 
 Io stesso, con gioia, che lui fosse con me per condividere la mia triste [[concepts/solitude|solitudine]].
 
-e darmi conforto con i suoi carezzi. La maggior parte delle persone [[motifs/love|ama]] i loro [[dogs|cani]], ma.
+e darmi conforto con i suoi carezzi. La maggior parte delle persone [[motifs/love|ama]] i loro cani, ma.
 
 Per il Tigre provavo un affetto molto più profondo del solito; e mai…
 
@@ -2408,7 +2408,7 @@ much so that I shook all over, as with an ague, at the slightest
 
 movement or exertion. To add to my troubles, the brig was pitching and
 
-[[rolling]] with great violence, and the oil-casks which lay upon my box
+rolling with great violence, and the oil-casks which lay upon my box
 
 were in momentary danger of falling down, so as to block up the only
 
@@ -3080,7 +3080,7 @@ I have before stated more than once that my intellect, for some period
 
 prior to this, had been in a condition nearly bordering on idiocy.
 
-There were, to be sure, momentary intervals of perfect [[Sanity|sanity]], and, now
+There were, to be sure, momentary intervals of perfect sanity, and, now
 
 and then, even of energy; but these were few. It must be remembered
 
@@ -3269,7 +3269,7 @@ Ho già detto più volte che, per un certo periodo di tempo, il mio intelletto�
 
 Prima di questo, si trovava in uno stato quasi vicino all'idiozia.
 
-C'erano, senza dubbio, momenti di perfetta [[Sanity|sanità mentale]], e ora.
+C'erano, senza dubbio, momenti di perfetta sanità mentale, e ora.
 
 E poi, anche di energia… ma questi erano pochi. Bisogna ricordarlo.
 
@@ -4627,7 +4627,7 @@ Nantucket. These anecdotes went to prove his prodigious strength when
 
 under excitement, and some of them had given rise to a [[concepts/doubt|doubt]] of his
 
-[[Sanity|sanity]]. But on board the Grampus, it seems, he was regarded at the [[motifs/time|time]]
+sanity. But on board the Grampus, it seems, he was regarded at the [[motifs/time|time]]
 
 of the mutiny with feelings more of derision than of anything else. I
 
@@ -4805,7 +4805,7 @@ Nantucket. Queste aneddoti dimostrarono la sua straordinaria forza…
 
 Per l'eccitazione, alcuni di loro avevano iniziato a nutrire un [[concepts/doubt|dubbio]] su di lui.
 
-La [[Sanity|sanità mentale]]. Ma a bordo del Grampus, a quel tempo, sembra che venisse considerato in questo modo.
+La sanità mentale. Ma a bordo del Grampus, a quel tempo, sembra che venisse considerato in questo modo.
 
 Di una rivolta accompagnata da sentimenti più di derisione che di altro. Io
 
@@ -4920,7 +4920,7 @@ brutality of the cook. His situation was still one of the most
 
 precarious, as the men were continually intoxicated, and there was no
 
-relying upon their continued good-[[Humour|humour]] or carelessness in regard to
+relying upon their continued good-humour or carelessness in regard to
 
 himself. His anxiety on my account he represented, however, as the most
 
@@ -5048,7 +5048,7 @@ La brutalità del cuoco… La sua situazione rimaneva ancora una delle più…
 
 Precario
 
-Fidandosi del loro continuo buon [[Humour|umore]] o della loro negligenza in merito a.
+Fidandosi del loro continuo buon umore o della loro negligenza in merito a.
 
 La sua ansia per me… che, tuttavia, presentava come qualcosa di estremamente grave.
 
@@ -5187,7 +5187,7 @@ had been brought on board by Augustus, who knew my attachment to the
 
 animal, and thought it would give me pleasure to have him with me
 
-during the voyage. He went up to our [[house]] for him immediately after
+during the voyage. He went up to our house for him immediately after
 
 first taking me into the hold, but did not think of mentioning the
 
@@ -5375,7 +5375,7 @@ Fu portato a bordo da Augusto, che conosceva la mia affezione per…
 
 Animale… e pensai che sarebbe stato piacevole averlo con me.
 
-Durante il viaggio, andò immediatamente nella nostra [[house|casa]] per lui.
+Durante il viaggio, andò immediatamente nella nostra casa per lui.
 
 La prima volta che mi portò nel ponte di carico… ma non pensò nemmeno di menzionarlo.
 
@@ -5515,7 +5515,7 @@ imitated, Augustus had written another, thrusting the first, by good
 
 fortune, into his coat-pocket, where it was now most opportunely
 
-discovered. Ink [[Alone|alone]] was thus wanting, and a substitute was
+discovered. Ink alone was thus wanting, and a substitute was
 
 immediately found for this by means of a slight incision with the
 
@@ -5553,7 +5553,7 @@ His handcuffs were then replaced, and also the rope around his ankles.
 
 These arrangements were scarcely completed when Dirk Peters came below,
 
-very drunk, but in excellent [[Humour|humour]], and bringing with him my friend's
+very drunk, but in excellent humour, and bringing with him my friend's
 
 allowance of provision for the day. This consisted of a dozen large
 
@@ -5696,7 +5696,7 @@ Dopo averne scritto una, Augustus ne compose un’altra, mettendo la prima da pa
 
 “Fortuna… nella tasca del suo cappotto, dove ora era al posto giusto.”
 
-Scoperto. L’inchiostro [[Alone|solamente]] era quindi insufficiente, e fu necessario trovarne un sostituto.
+Scoperto. L’inchiostro solamente era quindi insufficiente, e fu necessario trovarne un sostituto.
 
 Subito individuato mediante una leggera incisione
 
@@ -5734,7 +5734,7 @@ Gli vennero rimessi i polsi ammanettati, così come la corda intorno ai polpacci
 
 Queste disposizioni erano appena state completate quando Dirk Peters scese giù.
 
-Molto ubriaco, ma di ottimo [[Humour|umore]], e portando con me l’amico mio.
+Molto ubriaco, ma di ottimo umore, e portando con me l’amico mio.
 
 Provviste per la giornata: dodici pezzi grandi in totale
 
@@ -5859,7 +5859,7 @@ Un respiro così opprimente… Chiamò il mio nome più e più volte.
 
 but I made him no reply, and his apprehensions seemed thus to be
 
-confirmed. The brig was [[rolling]] violently, and there was so much noise
+confirmed. The brig was rolling violently, and there was so much noise
 
 in consequence, that it was useless to listen for any weak sound, such
 
@@ -6300,7 +6300,7 @@ apprehended from shifting, and that precautions should be always taken
 
 to guard against such misfortune. Only those who have encountered a
 
-violent gale of [[motifs/wind|wind]], or, rather, who have experienced the [[rolling]] of a
+violent gale of [[motifs/wind|wind]], or, rather, who have experienced the rolling of a
 
 vessel in a sudden calm after the gale, can form an idea of the
 
@@ -6612,7 +6612,7 @@ than light breezes; but when within a day's sail of Madeira there came
 
 on a strong gale from the N. N. E. which forced him to lie to. He
 
-brought the schooner to the [[motifs/wind|wind]] under a [[topoi/double|double]]-reefed foresail [[Alone|alone]],
+brought the schooner to the [[motifs/wind|wind]] under a [[topoi/double|double]]-reefed foresail alone,
 
 when she rode as [[motifs/well|well]] as any vessel could be expected to do, and
 
@@ -6929,7 +6929,7 @@ matter possible, but urged the necessity of the greatest caution in
 
 making the attempt, as the conduct of the hybrid appeared to be
 
-instigated by the most arbitrary caprice [[Alone|alone]]; and, indeed, it was
+instigated by the most arbitrary caprice alone; and, indeed, it was
 
 difficult to say if he was at any moment of sound mind. Peters went
 
@@ -6937,7 +6937,7 @@ upon deck in about an hour, and did not return again until [[motifs/noon|noon]],
 
 he brought Augustus a plentiful supply of junk beef and pudding. Of
 
-this, when we were left [[Alone|alone]], I partook heartily, without returning
+this, when we were left alone, I partook heartily, without returning
 
 through the hole. No one else came down into the forecastle during the
 
@@ -6969,7 +6969,7 @@ June, and the thirteenth since the Grampus made sail from Nantucket.
 
 On the second of July the mate came below, drunk as usual, and in an
 
-excessively good-[[Humour|humour]]. He came to Augustus's berth, and, giving him a
+excessively good-humour. He came to Augustus's berth, and, giving him a
 
 slap on the back, asked him if he thought he could behave himself if he
 
@@ -7178,7 +7178,7 @@ Fare del proprio meglio, ma sottolineando la necessità di prestare la massima a
 
 Tentando… poiché il comportamento di quel ibrido sembrava indicare proprio tale intento.
 
-Iniziato dal più arbitrario capriccio [[Alone|solo]]; ed effettivamente, era proprio così.
+Iniziato dal più arbitrario capriccio solo; ed effettivamente, era proprio così.
 
 Difficile dire se, in qualche momento, fosse realmente sano di mente… Peters andò.
 
@@ -7186,7 +7186,7 @@ Sarebbe tornato sul ponte in circa un’ora, e non sarebbe più ricomparso fino 
 
 Portò ad Augusto una grande quantità di carne scadente e budino.
 
-Quando siamo rimasti [[Alone|soli]], ho partecipato con entusiasmo, senza mai tornare indietro.
+Quando siamo rimasti soli, ho partecipato con entusiasmo, senza mai tornare indietro.
 
 Attraverso il buco… Nessun altro scese nella parte anteriore della nave durante quel momento.
 
@@ -7481,7 +7481,7 @@ myself were soon made acquainted. It was agreed that we should attempt
 
 to retake the vessel upon the first good opportunity, leaving [[characters/jones|Jones]]
 
-altogether out of our councils. In the event of [[success]] we were to run
+altogether out of our councils. In the event of success we were to run
 
 the brig into the first port that offered, and deliver her up. The
 
@@ -7667,7 +7667,7 @@ Ci conoscemmo presto e decidemmo di provare…
 
 Per riprendere il velivolo non appena si presentasse l’occasione giusta, lasciando che [[characters/jones|Jones]].
 
-Del tutto esclusi dai nostri consigli. In caso di [[success|successo]], avremmo dovuto agire da soli.
+Del tutto esclusi dai nostri consigli. In caso di successo, avremmo dovuto agire da soli.
 
 La nave viene condotta nel primo porto disponibile e lì consegnata.
 
@@ -8268,7 +8268,7 @@ clothing. It was a blue stockinett, with large white stripes running
 
 across. Having put this on, I proceeded to equip myself with a false
 
-stomach, in [[Imitation|imitation]] of the horrible deformity of the swollen corpse.
+stomach, in imitation of the horrible deformity of the swollen corpse.
 
 This was soon effected by means of stuffing with some bedclothes. I
 
@@ -8377,7 +8377,7 @@ Cappello… Era un cappello blu, con grandi strisce bianche.
 
 Attraverso… Dopo averlo indossato, proseguii nel prepararmi con un falso…
 
-Lo stomaco, in [[Imitation|imitazione]] della terribile deformità del cadavere gonfio.
+Lo stomaco, in imitazione della terribile deformità del cadavere gonfio.
 
 Riempiono con della biancheria da letto… E così fu fatto rapidamente.
 
@@ -8869,7 +8869,7 @@ brought about by Peters; the deep impression which the loathsomeness of
 
 the actual corpse had made in the morning upon the imaginations of the
 
-men; the excellence of the [[Imitation|imitation]] in my person; and the uncertain
+men; the excellence of the imitation in my person; and the uncertain
 
 and wavering light in which they beheld me, as the glare of the cabin
 
@@ -9044,7 +9044,7 @@ Scaturito da Peters; l’impressione profonda lasciata dall’orrore di…
 
 Il cadavere reale aveva già stimolato l’immaginazione delle persone quella mattina…
 
-Gli uomini; l’eccellenza dell’[[Imitation|imitazione]] in me stesso; e l’incertezza.
+Gli uomini; l’eccellenza dell’imitazione in me stesso; e l’incertezza.
 
 “E quella luce tremolante nella quale mi vedevano, simile al bagliore intenso della cabina…”
 
@@ -9589,7 +9589,7 @@ Luckily, just before [[motifs/night|night]], all four of us had lashed ourselves
 
 to the fragments of the windlass, lying in this manner as flat upon the
 
-deck as possible. This precaution [[Alone|alone]] saved us from destruction. As
+deck as possible. This precaution alone saved us from destruction. As
 
 it was, we were all more or less stunned by the immense weight of [[motifs/water|water]]
 
@@ -9597,7 +9597,7 @@ which tumbled upon us, and which did not roll from above us until we
 
 were nearly exhausted. As soon as I could recover breath, I called
 
-aloud to my companions. Augustus [[Alone|alone]] replied, saying, "It is all over
+aloud to my companions. Augustus alone replied, saying, "It is all over
 
 with us, and may God have [[concepts/mercy|mercy]] upon our souls." By-and-by both the
 
@@ -9691,7 +9691,7 @@ In this frightful situation we lay until the day broke so as to show us
 
 more fully the horrors which surrounded us. The brig was a mere log,
 
-[[rolling]] about at the [[concepts/mercy|mercy]] of every wave; the gale was upon the
+rolling about at the [[concepts/mercy|mercy]] of every wave; the gale was upon the
 
 increase, if anything, blowing indeed a complete hurricane, and there
 
@@ -9962,7 +9962,7 @@ girls, troops of cavalry, and other phantasies. I now remember that, in
 
 all which passed before my mind's eye, _motion_ was a predominant idea.
 
-Thus, I never fancied any stationary object, such as a [[house]], a
+Thus, I never fancied any stationary object, such as a house, a
 
 mountain, or anything of that kind; but windmills, ships, large [[motifs/birds|birds]],
 
@@ -10137,7 +10137,7 @@ ragazze, truppe di cavalleria e altre fantasie… Ora ricordo che, in…
 
 Tutto ciò che passò davanti ai miei occhi mentali aveva come elemento predominante il **movimento**.
 
-Pertanto, non ho mai immaginato oggetti statici, come una [[house|casa]], un.
+Pertanto, non ho mai immaginato oggetti statici, come una casa, un.
 
 Montagne, o qualcosa del genere, ma mulini a vento, navi, grandi [[motifs/birds|uccelli]].
 
@@ -10358,7 +10358,7 @@ nothing more than a few bedclothes, which were readily caught by the
 
 nails. Indeed, our contrivance was so very clumsy, that any greater
 
-[[success]] was hardly to be anticipated.
+success was hardly to be anticipated.
 
 
 
@@ -10420,7 +10420,7 @@ to rest full fifteen minutes before he could again venture to descend.
 
 
 
-The second attempt met with even worse [[success]]; for he remained so long
+The second attempt met with even worse success; for he remained so long
 
 under [[motifs/water|water]] without giving the signal, that, becoming alarmed for his
 
@@ -10549,7 +10549,7 @@ Solo alcuni indumenti da letto, che furono facilmente catturati…
 
 Nessun rimedio efficace
 
-Il [[success|successo]] era quasi impossibile da prevedere.
+Il successo era quasi impossibile da prevedere.
 
 
 
@@ -11488,7 +11488,7 @@ in the faint [[concepts/hope|hope]] that it might contain something to eat or dr
 
 found nothing, however, except a box of razors and two linen shirts. I
 
-now went down again, and returned without any [[success]]. As my head came
+now went down again, and returned without any success. As my head came
 
 above [[motifs/water|water]] I heard a crash on deck, and, upon getting up, saw that my
 
@@ -11516,7 +11516,7 @@ soon into a heavy slumber, accompanied with loud stertorous breathing.
 
 
 
-I now found myself, as it were, [[Alone|alone]] in the brig, and my reflections,
+I now found myself, as it were, alone in the brig, and my reflections,
 
 to be sure, were of the most fearful and gloomy [[concepts/nature|nature]]. No prospect
 
@@ -11684,7 +11684,7 @@ con la vaga [[concepts/hope|speranza]] che potesse contenere qualcosa da mangiar
 
 Non ho trovato nulla, se non una scatola di rasoi e due camicie di lino.
 
-Ora è tornato giù di nuovo, senza alcun [[success|successo]]. Mentre mi alzavo.
+Ora è tornato giù di nuovo, senza alcun successo. Mentre mi alzavo.
 
 Sopra l’[[motifs/water|acqua]], sentii un rumore sul ponte; alzandomi, vidi che.
 
@@ -11712,7 +11712,7 @@ Presto cadde in un sonno profondo, accompagnato da respiri rumorosi e affannosi.
 
 
 
-Ora mi trovavo, per così dire, [[Alone|da solo]] nella cabina, e i miei pensieri.
+Ora mi trovavo, per così dire, da solo nella cabina, e i miei pensieri.
 
 Di certo, erano di natura molto timida e cupa. Nessuna prospettiva.
 
@@ -12160,7 +12160,7 @@ deliverance, that I could not refrain from joining in with their
 
 [[concepts/madness|madness]], and gave way to the impulses of my gratitude and ecstasy by
 
-lying and [[rolling]] on the deck, clapping my hands, shouting, and other
+lying and rolling on the deck, clapping my hands, shouting, and other
 
 similar acts, until I was suddenly called to my recollection, and once
 
@@ -12433,7 +12433,7 @@ sea. Upon this he immediately seized me by the throat, and drawing a
 
 knife, made several ineffectual efforts to stab me in the stomach; an
 
-atrocity which his excessive debility [[Alone|alone]] prevented him from
+atrocity which his excessive debility alone prevented him from
 
 accomplishing. In the mean [[motifs/time|time]], being roused to a high pitch of anger,
 
@@ -13193,7 +13193,7 @@ By [[motifs/noon|noon]], feeling somewhat strengthened and refreshed, we again r
 
 our attempt at getting up provision, Peters and myself going down
 
-alternately, and always with more or less [[success]], until sundown.
+alternately, and always with more or less success, until sundown.
 
 During this interval we had the good fortune to bring up, altogether,
 
@@ -13422,7 +13422,7 @@ Entro [[motifs/noon|mattina]], sentendoci un po' più forti e rinfrescati, abbia
 
 Il nostro tentativo di procurarci provviste: Peters ed io ci mettiamo in movimento
 
-Alternativamente, e sempre con più o meno [[success|successo]], fino al tramonto.
+Alternativamente, e sempre con più o meno successo, fino al tramonto.
 
 Durante questo lasso di tempo, abbiamo avuto la fortuna di crescere insieme, completamente…
 
@@ -14354,7 +14354,7 @@ more along, so that now we could not maintain a footing upon deck at
 
 all. Busied ourselves in securing our wine and tortoise-meat, so that
 
-we might not lose them in the event of our [[rolling]] over. Got out two
+we might not lose them in the event of our rolling over. Got out two
 
 stout spikes from the forechains, and, by means of the axe, drove them
 
@@ -14408,7 +14408,7 @@ deceived, not having taken into consideration the natural rebound of
 
 the hull to windward. The whirl of the [[motifs/water|water]] upward, which the vessel
 
-occasioned in [[rolling]] partially back, brought me to the surface still
+occasioned in rolling partially back, brought me to the surface still
 
 more violently than I had been plunged beneath. Upon coming up, I found
 
@@ -14436,7 +14436,7 @@ feet as I swam towards the hulk, creating a [[concepts/body|body]] of foam. I ha
 
 [[concepts/doubt|doubt]] that to this expedient, simple as it was, I was indebted for my
 
-preservation; for the sea all around the brig, just before her [[rolling]]
+preservation; for the sea all around the brig, just before her rolling
 
 over, was so crowded with these monsters, that I must have been, and
 
@@ -14484,7 +14484,7 @@ rational beings. In subsequent perils, nearly as great, if not greater,
 
 I bore up with fortitude against all the evils of my situation, and
 
-Peters, it will be seen, evinced a stoical [[philosophy]] nearly as
+Peters, it will be seen, evinced a stoical philosophy nearly as
 
 incredible as his present childlike supineness and imbecility--the
 
@@ -14597,7 +14597,7 @@ Ingannato, senza aver tenuto conto del naturale rimbalzo…
 
 La carena rivolta verso il vento. Il vortice dell’[[motifs/water|acqua]] che si sollevava verso l’alto, causato dal movimento della nave.
 
-A causa del parziale ritiro della[[rolling|rollata]], sono riemerso in superficie.
+A causa del parziale ritiro dellarollata, sono riemerso in superficie.
 
 “Più violentemente di quanto fossi stato trascinato verso il basso… Al risalire in superficie, scoprii…”
 
@@ -14625,7 +14625,7 @@ Mentre nuotavo verso quella nave gigantesca, le mie mani creavano una massa di s
 
 Non ho dubbi che a questo espediente, semplice com'era, debba la mia salvezza.
 
-Conservazione; per il mare che circondava la brigata, proprio prima del suo [[rolling|ondeggiare]].
+Conservazione; per il mare che circondava la brigata, proprio prima del suo ondeggiare.
 
 “Over… era così pieno di questi mostri che sicuramente…”
 
@@ -14675,7 +14675,7 @@ Esseri razionali… Nei pericoli successivi, quasi altrettanto grandi, se non ma
 
 Con forza e coraggio ho affrontato tutti gli ostacoli della mia situazione difficile…
 
-Come si vedrà in seguito, Peters dimostrò una stoica [[philosophy|filosofia]] quasi altrettanto.
+Come si vedrà in seguito, Peters dimostrò una stoica filosofia quasi altrettanto.
 
 Incredibile, come la sua attuale infantile passività e stupidità…
 
@@ -15496,7 +15496,7 @@ hour afterward we perceived the little headsail we carried flapping
 
 listlessly against the mast. In two minutes more, in spite of every
 
-preparation, we were hurled on our beam-ends as if by [[Magic|magic]], and a
+preparation, we were hurled on our beam-ends as if by magic, and a
 
 perfect wilderness of foam made a clear breach over us as we lay. The
 
@@ -15540,7 +15540,7 @@ Frenchman, who, thinking the land to form a portion of an extensive
 
 southern continent, carried [[motifs/home|home]] information to that effect, which
 
-produced much excitement at the [[motifs/time|time]]. The [[government]], taking the matter
+produced much excitement at the [[motifs/time|time]]. The government, taking the matter
 
 up, sent the baron back in the following year for the purpose of giving
 
@@ -15962,7 +15962,7 @@ albatross by a like number of penguins. The penguin's nest consists of
 
 a hole in the earth, very shallow, being only just of sufficient depth
 
-to keep her single egg from [[rolling]]. The albatross is somewhat less
+to keep her single egg from rolling. The albatross is somewhat less
 
 simple in her arrangements, erecting a hillock about a foot high and
 
@@ -16060,7 +16060,7 @@ and corner, not only of Kerguelen's Land, but of the several small
 
 islands in the vicinity. Our labours, however, were not crowned with
 
-any important [[success]]. We saw a great many fur seal, but they were
+any important success. We saw a great many fur seal, but they were
 
 exceedingly shy, and, with the greatest exertions, we could only
 
@@ -16289,7 +16289,7 @@ Angolo nascosto, non solo della terra di Kerguelen, ma anche di quelle piccole i
 
 Isole nelle vicinanze… Tuttavia, i nostri sforzi non ebbero il successo sperato.
 
-Qualsiasi importante [[success|successo]]. Abbiamo visto moltissime foche pelose, ma.
+Qualsiasi importante successo. Abbiamo visto moltissime foche pelose, ma.
 
 Estremamente timido… e con ogni sforzo possibile, riuscivamo a malapena…
 
@@ -16465,7 +16465,7 @@ furnished by the American minister at Rio Janeiro. This settlement,
 
 however, was finally abandoned, and in 1817 the islands were taken
 
-possession of by the British [[government]], who sent a detachment for that
+possession of by the British government, who sent a detachment for that
 
 purpose from the Cape of Good [[concepts/hope|Hope]]. They did not, however, retain them
 
@@ -16473,7 +16473,7 @@ long; but, upon the evacuation of the country as a British possession,
 
 two or three English families took up their residence there
 
-independently of the [[government]]. On the twenty-fifth of March, 1824,
+independently of the government. On the twenty-fifth of March, 1824,
 
 the Berwick, Captain Jeffrey, from [[settings/london|London]] to Van Diemen's Land, arrived
 
@@ -16807,7 +16807,7 @@ Lungo; ma con l’evacuazione del paese dalla sovranità britannica…
 
 Due o tre famiglie inglesi stabilirono lì la loro residenza.
 
-indipendentemente dal [[government|governo]]. Il ventiquattresimo marzo 1824,
+indipendentemente dal governo. Il ventiquattresimo marzo 1824,
 
 Il capitano Jeffrey del Berwick, proveniente da [[settings/london|Londra]] per la Terra di Van Diemen, arrivò.
 
@@ -17974,7 +17974,7 @@ of the huge beast, he plunged the blade of a knife behind the neck,
 
 reaching the spinal marrow at a blow. The brute tumbled into the sea
 
-lifeless, and without a struggle, [[rolling]] over Peters as he fell. The
+lifeless, and without a struggle, rolling over Peters as he fell. The
 
 latter soon recovered himself, and a rope being thrown him, he secured
 
@@ -18064,7 +18064,7 @@ clear, with now and then a slight appearance of thin vapour in the
 
 southern horizon--this, however, was invariably of brief duration. Two
 
-difficulties [[Alone|alone]] presented themselves to our view; we were getting
+difficulties alone presented themselves to our view; we were getting
 
 short of fuel, and symptoms of scurvy had occurred among several of the
 
@@ -21403,7 +21403,7 @@ of the [[motifs/hill|hill]], upon a given signal, into the bosom of the abyss be
 
 The fate of our poor companions was no longer a matter of uncertainty.
 
-We [[Alone|alone]] had escaped from the tempest of that overwhelming destruction.
+We alone had escaped from the tempest of that overwhelming destruction.
 
 We were the only living white men upon the island.
 
@@ -21826,7 +21826,7 @@ with natives, starting up from the bushes at the head of the bay, and
 
 put off swiftly to join the other parties. Thus, in less [[motifs/time|time]] than I
 
-have taken to tell it, and as if by [[Magic|magic]], the Jane saw herself
+have taken to tell it, and as if by magic, the Jane saw herself
 
 surrounded by an immense multitude of desperadoes evidently bent upon
 
@@ -22102,7 +22102,7 @@ Che si muovono in tutte le direzioni, urlando e chiamando aiuto…
 <span class="atom-split" data-atom="chapter_21--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/chains,motif/fire,motif/hill,motif/spring,motif/time,motif/water"></span>
 
 
-great [[success]], however, came too late for the salvation of our devoted
+great success, however, came too late for the salvation of our devoted
 
 people. The canoe party were already on board the schooner to the
 
@@ -22128,7 +22128,7 @@ pitiable scene indeed of havoc and tumultuous outrage. The decks were
 
 split open and ripped up; the cordage, sails, and everything moveable
 
-on deck demolished as if by [[Magic|magic]]; while, by dint of pushing at the
+on deck demolished as if by magic; while, by dint of pushing at the
 
 stern, towing with the canoes, and hauling at the sides, as they swam
 
@@ -22289,7 +22289,7 @@ bowels, arose a tall stream of vivid [[motifs/fire|fire]] to the height, apparen
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un grande [[success|successo]], tuttavia, arrivò troppo tardi per salvare i nostri devoti.
+Un grande successo, tuttavia, arrivò troppo tardi per salvare i nostri devoti.
 
 Gente… Il gruppo di persone era già a bordo della goletta…
 
@@ -22316,7 +22316,7 @@ Scena davvero patetica di distruzione e violenza caotica… Le coperte della nav
 
 Diviso in due e strappato completamente; corde, vele e tutto ciò che è mobile…
 
-Il ponte fu demolito come se fosse stato fatto con la [[Magic|magia]]; nel frattempo, spingendo con forza.
+Il ponte fu demolito come se fosse stato fatto con la magia; nel frattempo, spingendo con forza.
 
 "Decisi e risoluti, tiravano con le canoe e spingevano sui lati mentre nuotavano."
 
@@ -22673,7 +22673,7 @@ hiding-place upon the [[motifs/hill|hill]], going out only occasionally, and the
 
 the greatest precaution, for [[motifs/water|water]] and filberts. We had made a kind of
 
-pent-[[house]] on the platform, furnishing it with a bed of dry [[motifs/leaves|leaves]], and
+pent-house on the platform, furnishing it with a bed of dry [[motifs/leaves|leaves]], and
 
 placing in it three large flat stones, which served us for both
 
@@ -24903,7 +24903,7 @@ in vast quantities. The range of vapour to the southward had arisen
 
 prodigiously in the horizon, and began to assume more distinctness of
 
-form. I can liken it to nothing but a limitless cataract, [[rolling]]
+form. I can liken it to nothing but a limitless cataract, rolling
 
 silently into the sea from some immense and far-distant rampart in the
 

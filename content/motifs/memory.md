@@ -39,53 +39,53 @@ tags:
 - [[works/to-two-sisters-mary-morgan-and-charlotte-brent-(coleridge)|TO TWO SISTERS MARY MORGAN AND CHARLOTTE BRENT (Coleridge)]]
 - [[works/david-copperfield-(dickens)|David Copperfield (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
-- 1133. The Snow that never drifts — (Dickinson)
-- 1147. After a hundred years (Dickinson)
-- 1182. Remembrance has a Rear and Front — (Dickinson)
-- 1196. To make Routine a Stimulus (Dickinson)
-- 1209. To disappear enhances — (Dickinson)
-- 1253. Had this one Day not been. (Dickinson)
-- 1273. That sacred Closet when you sweep — (Dickinson)
-- 1305. Recollect the Face of me (Dickinson)
-- 1396. She laid her docile Crescent down (Dickinson)
-- 1464. One thing of it we borrow (Dickinson)
-- 1498. Glass was the Street — in tinsel Peril (Dickinson)
-- 1507. The Pile of Years is not so high (Dickinson)
-- 1508. You cannot make Remembrance grow (Dickinson)
-- 1560. To be forgot by thee (Dickinson)
-- 1628. A Drunkard cannot meet a Cork (Dickinson)
-- 169. In Ebon Box, when years have flown (Dickinson)
-- 1738. Softened by Time's consummate plush, (Dickinson)
-- 1742. The distance that the dead have gone (Dickinson)
-- 1753. Through those old Grounds of memory, (Dickinson)
-- 203. He forgot — and I — remembered — (Dickinson)
-- 286. That after Horror — that 'twas us — (Dickinson)
-- 302. Like Some Old fashioned Miracle (Dickinson)
-- 33. If recollecting were forgetting, (Dickinson)
-- 341. After great pain, a formal feeling comes — (Dickinson)
-- 360. Death sets a Thing significant (Dickinson)
-- 367. Over and over, like a Tune — (Dickinson)
-- 379. Rehearsal to Ourselves (Dickinson)
-- 433. Knows how to forget! (Dickinson)
-- 440. 'Tis customary as we part (Dickinson)
-- 47. Heart! We will forget him! (Dickinson)
-- 504. You know that Portrait in the Moon — (Dickinson)
-- 509. If anybody's friend be dead (Dickinson)
-- 523. Sweet — You forgot — but I remembered (Dickinson)
-- 534. We see — Comparatively — (Dickinson)
-- 652. A Prison gets to be a friend — (Dickinson)
-- 659. That first Day, when you praised Me, Sweet, (Dickinson)
-- 701. A Thought went up my mind today — (Dickinson)
-- 718. I meant to find Her when I came — (Dickinson)
-- 727. Precious to Me — She still shall be — (Dickinson)
-- 744. Remorse — is Memory — awake — (Dickinson)
-- 784. Bereaved of all, I went abroad — (Dickinson)
-- 786. Severer Service of myself (Dickinson)
-- 814. One Day is there of the Series (Dickinson)
-- 895. A Cloud withdrew from the Sky (Dickinson)
-- 898. How happy I was if I could forget (Dickinson)
-- 902. The first Day that I was a Life (Dickinson)
-- 981. As Sleigh Bells seem in summer (Dickinson)
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1133_the_snow_that_never_drifts|1133. The Snow that never drifts — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1147_after_a_hundred_years|1147. After a hundred years (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1182_remembrance_has_a_rear_and_front|1182. Remembrance has a Rear and Front — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1196_to_make_routine_a_stimulus|1196. To make Routine a Stimulus (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1209_to_disappear_enhances|1209. To disappear enhances — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1253_had_this_one_day_not_been|1253. Had this one Day not been. (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1273_that_sacred_closet_when_you_sweep|1273. That sacred Closet when you sweep — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1305_recollect_the_face_of_me|1305. Recollect the Face of me (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1396_she_laid_her_docile_crescent_down|1396. She laid her docile Crescent down (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1464_one_thing_of_it_we_borrow|1464. One thing of it we borrow (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1498_glass_was_the_street_in_tinsel_peril|1498. Glass was the Street — in tinsel Peril (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1507_the_pile_of_years_is_not_so_high|1507. The Pile of Years is not so high (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1508_you_cannot_make_remembrance_grow|1508. You cannot make Remembrance grow (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1560_to_be_forgot_by_thee|1560. To be forgot by thee (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1628_a_drunkard_cannot_meet_a_cork|1628. A Drunkard cannot meet a Cork (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0169_in_ebon_box_when_years_have_flown|169. In Ebon Box, when years have flown (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1738_softened_by_times_consummate_plush|1738. Softened by Time's consummate plush, (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1742_the_distance_that_the_dead_have_gone|1742. The distance that the dead have gone (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1753_through_those_old_grounds_of_memory|1753. Through those old Grounds of memory, (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0203_he_forgot_and_i_remembered|203. He forgot — and I — remembered — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0286_that_after_horror_that_twas_us|286. That after Horror — that 'twas us — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0302_like_some_old_fashioned_miracle|302. Like Some Old fashioned Miracle (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0033_if_recollecting_were_forgetting|33. If recollecting were forgetting, (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0341_after_great_pain_a_formal_feeling_comes|341. After great pain, a formal feeling comes — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0360_death_sets_a_thing_significant|360. Death sets a Thing significant (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0367_over_and_over_like_a_tune|367. Over and over, like a Tune — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0379_rehearsal_to_ourselves|379. Rehearsal to Ourselves (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0433_knows_how_to_forget|433. Knows how to forget! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0440_tis_customary_as_we_part|440. 'Tis customary as we part (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0047_heart_we_will_forget_him|47. Heart! We will forget him! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0504_you_know_that_portrait_in_the_moon|504. You know that Portrait in the Moon — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0509_if_anybodys_friend_be_dead|509. If anybody's friend be dead (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0523_sweet_you_forgot_but_i_remembered|523. Sweet — You forgot — but I remembered (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0534_we_see_comparatively|534. We see — Comparatively — (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0652_a_prison_gets_to_be_a_friend|652. A Prison gets to be a friend — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0659_that_first_day_when_you_praised_me_sweet|659. That first Day, when you praised Me, Sweet, (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0701_a_thought_went_up_my_mind_today|701. A Thought went up my mind today — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0718_i_meant_to_find_her_when_i_came|718. I meant to find Her when I came — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0727_precious_to_me_she_still_shall_be|727. Precious to Me — She still shall be — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0744_remorse_is_memory_awake|744. Remorse — is Memory — awake — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0784_bereaved_of_all_i_went_abroad|784. Bereaved of all, I went abroad — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0786_severer_service_of_myself|786. Severer Service of myself (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0814_one_day_is_there_of_the_series|814. One Day is there of the Series (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0895_a_cloud_withdrew_from_the_sky|895. A Cloud withdrew from the Sky (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0898_how_happy_i_was_if_i_could_forget|898. How happy I was if I could forget (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0902_the_first_day_that_i_was_a_life|902. The first Day that I was a Life (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0981_as_sleigh_bells_seem_in_summer|981. As Sleigh Bells seem in summer (Dickinson)]]
 - [[works/dans-le-restaurant-(eliot)|Dans le Restaurant (Eliot)]]
 - [[works/four-quartets-(eliot)|FOUR QUARTETS (Eliot)]]
 - [[works/ode-(eliot)|Ode (Eliot)]]
@@ -110,11 +110,11 @@ tags:
 - [[works/to-helen-(poe)-(2)|To Helen (Poe) (2)]]
 - [[works/to-zante-(poe)|To Zante (Poe)]]
 - [[works/ulalume-(poe)|Ulalume (Poe)]]
-- Sonnet 122 (Shakespeare)
-- Sonnet 30 (Shakespeare)
-- Sonnet 31 (Shakespeare)
-- Sonnet 55 (Shakespeare)
-- Sonnet 63 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_122|Sonnet 122 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_030|Sonnet 30 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_031|Sonnet 31 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_055|Sonnet 55 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_063|Sonnet 63 (Shakespeare)]]
 - [[works/a-twilight-song-(whitman)|A Twilight Song (Whitman)]]
 - [[works/as-at-thy-portals-also-death-(whitman)|As at Thy Portals Also Death (Whitman)]]
 - [[works/by-the-bivouac’s-fitful-flame-(whitman)|By the Bivouac’s Fitful Flame (Whitman)]]

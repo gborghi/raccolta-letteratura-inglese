@@ -8,7 +8,7 @@ tags:
 *Cluster* — **28 works**.
 
 ## Defining concepts
-[[concepts/power-and-corruption|Power and Corruption]] (19), Tyrant (17), [[motifs/swords-and-weapons|Swords and Weapons]] (13), [[concepts/war-and-its-cost|War and its Cost]] (8), [[motifs/blood|Blood]] (8), Rebel (7), [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]] (6), [[forms/lyric|Lyric]] (6), [[historical-references/french-revolution|French Revolution]] (6), [[concepts/revenge|Revenge]] (5), [[concepts/deception|Deception]] (5), [[forms/verse-drama|Verse Drama]] (5), [[concepts/reform|Reform]] (4), [[forms/fragment|Fragment]] (4), [[forms/ode|Ode]] (4)
+[[concepts/power-and-corruption|Power and Corruption]] (19), [[archetypes/tyrant|Tyrant]] (17), [[motifs/swords-and-weapons|Swords and Weapons]] (13), [[concepts/war-and-its-cost|War and its Cost]] (8), [[motifs/blood|Blood]] (8), [[archetypes/rebel|Rebel]] (7), [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]] (6), [[forms/lyric|Lyric]] (6), [[historical-references/french-revolution|French Revolution]] (6), [[concepts/revenge|Revenge]] (5), [[concepts/deception|Deception]] (5), [[forms/verse-drama|Verse Drama]] (5), [[concepts/reform|Reform]] (4), [[forms/fragment|Fragment]] (4), [[forms/ode|Ode]] (4)
 
 ## Works
 
@@ -16,9 +16,9 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1152. Tell as a Marksman — were forgotten (Dickinson)
-- 540. I took my Power in my Hand — (Dickinson)
-- 754. My Life had stood — a Loaded Gun — (Dickinson)
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1152_tell_as_a_marksman_were_forgotten|1152. Tell as a Marksman — were forgotten (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0540_i_took_my_power_in_my_hand|540. I took my Power in my Hand — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0754_my_life_had_stood_a_loaded_gun|754. My Life had stood — a Loaded Gun — (Dickinson)]]
 - [[works/as-i-lay-with-my-head-in-your-lap-camerado-(whitman)|As I Lay with My Head in Your Lap Camerado (Whitman)]]
 - [[works/coriolan-(eliot)|Coriolan (Eliot)]]
 - [[works/destruction-of-the-bastile-(coleridge)|DESTRUCTION OF THE BASTILE (Coleridge)]]

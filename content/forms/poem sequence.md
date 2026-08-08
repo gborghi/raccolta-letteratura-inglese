@@ -17,8 +17,8 @@ tags:
 - [[works/songs-of-education125-(chesterton)|Songs of Education125 (Chesterton)]]
 - [[works/kingcole-(chesterton)|kingcole (Chesterton)]]
 - [[works/sonnets-on-eminent-characters-(coleridge)|SONNETS ON EMINENT CHARACTERS (Coleridge)]]
-- Sonnet 1 (Shakespeare)
-- Sonnet 127 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_001|Sonnet 1 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_127|Sonnet 127 (Shakespeare)]]
 - [[works/sonnets-and-verse-(belloc)|Sonnets and Verse (Belloc)]]
 
 </div>

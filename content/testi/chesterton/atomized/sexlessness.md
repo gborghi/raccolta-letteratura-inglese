@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'uguaglianza dell'[[sexlessness|assenza di sesso]]
+L'uguaglianza dell'assenza di sesso
 
 G. K. Chesterton
 
@@ -97,7 +97,7 @@ per una generazione.
 <span class="atom-split" data-atom="part--part_01" data-title="sexlessness (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/time,concept/courage,concept/endurance,concept/fear,concept/freedom,concept/hope,setting/london,character/speed"></span>
 
 
-The Equality of [[sexlessness|Sexlessness]]
+The Equality of Sexlessness
 
 G. K. Chesterton
 
@@ -173,7 +173,7 @@ for one generation.
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'uguaglianza dell'[[sexlessness|assenza di sesso]]
+L'uguaglianza dell'assenza di sesso
 
 G. K. Chesterton
 

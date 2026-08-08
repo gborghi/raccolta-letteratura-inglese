@@ -58,11 +58,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 
 **Topoi:** [[topoi/life-as-a-battle|Life as a Battle]]
 
-**Characters:** Orlando, Valentine, Cain, King Lear, Henry VIII
+**Characters:** [[characters/orlando|Orlando]], [[characters/valentine|Valentine]], [[characters/cain|Cain]], [[characters/king-lear|King Lear]], [[characters/henry-viii|Henry VIII]]
 
 **Motifs:** [[motifs/marriage|Marriage]], [[motifs/window|Window]], [[motifs/flag|Flag]], [[motifs/chains|Chains]], [[motifs/home|Home]], [[motifs/vow|Vow]]
 **Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/distributism|Distributism]], [[concepts/class-conflict|Class Conflict]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/faith|Faith]], [[concepts/slavery|Slavery]], [[concepts/individualism|Individualism]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/honour|Honour]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/economics|Economics]], [[concepts/history|History]]

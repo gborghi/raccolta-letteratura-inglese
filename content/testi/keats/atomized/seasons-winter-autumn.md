@@ -140,7 +140,7 @@ Steady thy laden head across a brook;  20
 Or by a cyder-press, with patient look,  
 Thou watchest the last oozings hours by hours.  
 
-Where are the [[songs]] of [[motifs/spring|Spring]]? Ay, where are they?  
+Where are the songs of [[motifs/spring|Spring]]? Ay, where are they?  
 Think not of them, thou hast thy music too,--  
 While barred clouds bloom the soft-dying day,  
 And touch the stubble-plains with rosy hue;  
@@ -286,7 +286,7 @@ Of supreme darkness which thou feddest on
 [[motifs/night|Night]] after [[motifs/night|night]] when Phoebus was away.  
 To thee the [[motifs/spring|Spring]] shall be a triple morn.  
 O fret not after knowledge - I have none,  
-And yet my [[Song|song]] comes native with the warmth.  
+And yet my song comes native with the warmth.  
 10  
 O fret not after knowledge - I have none,  
 And yet the Evening listens. He who saddens  
@@ -343,7 +343,7 @@ Ring-doves may fly convuls’d across to some high-cedar’d lair; 20
 But the forgotten eye is still fast lidded to the ground,
 As Palmer’s, that with weariness, mid-[[motifs/desert|desert]] shrine hath found.
 At such a [[motifs/time|time]] the [[motifs/soul|soul]]’s a [[archetypes/child|child]], in [[motifs/childhood|childhood]] is the brain;
-Forgotten is the worldly heart - [[Alone|alone]], it beats in vain. -
+Forgotten is the worldly heart - alone, it beats in vain. -
 Aye, if a madman could have leave to pass a healthful day
 To tell his forehead’s swoon and faint when first began [[motifs/decay|decay]],
 He might make tremble many a one whose spirit had gone forth

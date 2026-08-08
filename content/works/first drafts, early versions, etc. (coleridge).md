@@ -33,12 +33,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/ghosts|Ghosts]], [[motifs/memory|Memory]]
 **Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/imagination|Imagination]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/romantic-love|Romantic Love]], [[concepts/sublime|Sublime]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]], [[forms/ode|Ode]]
 **Settings:** [[motifs/ship|Ship]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

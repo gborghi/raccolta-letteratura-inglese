@@ -43,7 +43,7 @@ Nel senso più ampio e nobile del termine, egli era un poeta. Comprendeva, inolt
 
 Ellison non divenne né musicista né poeta; tuttavia, nessun altro uomo amò mai così profondamente la musica e la poesia. In altre circostanze, non è impossibile che sarebbe diventato un pittore. La scultura, sebbene nella sua natura fosse rigorosamente poetica, era troppo limitata per attirare gran parte della sua attenzione. Ho menzionato tutte le sfere in cui la comune concezione del sentimento poetico ritiene che esso possa esprimersi; ma Ellison sosteneva che la più ricca, la più autentica e la più naturale di queste sfere fosse stata incomprensibilmente trascurata. Nessuna definizione aveva mai collegato il giardiniere paesaggista al poeta; tuttavia, a mio amico sembrava che la creazione dei giardini paesaggistici offrisse alla vera Musa le opportunità più straordinarie per esprimersi. Qui, infatti, si trovava il campo più adatto per mostrare l’immaginazione nell’infinita combinazione di forme di bellezza; gli elementi che vi entravano in gioco erano, per una vasta superiorità, i più splendidi che la terra potesse offrire. Nella varietà e nei colori dei fiori e degli alberi, egli riconosceva gli sforzi più diretti ed energici della Natura per creare bellezza fisica; e nella direzione o nell’organizzazione di questi sforzi – o, più precisamente, nel loro adattamento agli occhi umani che li avrebbero osservati sulla terra – egli vedeva l’occasione per utilizzare i mezzi migliori, lavorando al massimo delle proprie possibilità, non solo per realizzare il proprio destino di poeta, ma anche per perseguire gli scopi nobili per cui la Divinità aveva insito nel genere umano il sentimento poetico.
 
-“La sua adattazione agli occhi che dovevano vederla sulla terra.” Nella sua spiegazione di questa espressione, il signor Ellison ha contribuito molto a risolvere ciò che per me è sempre sembrato un [[An Enigma|enigma]]: intendo dire il fatto (di cui nessuno, se non gli ignoranti, mette in dubbio) che nella [[concepts/nature|natura]] non esiste alcuna combinazione di elementi come quella che un geniale pittore può creare sulla tela. Non esistono paradisi reali come quelli raffigurati da Claude; anche nei paesaggi naturali più incantevoli, ci sarà sempre qualche difetto o eccesso – spesso molti eccessi e difetti. Sebbene ciascun elemento singolarmente possa sfidare le più alte abilità dell’[[archetypes/artist|artista]], l’insieme di questi elementi è sempre suscettibile di miglioramenti. In breve, non esiste alcuna posizione sulla vasta superficie della natura che un occhio artistico, osservandola attentamente, non possa considerare “impeccabile” dal punto di vista compositivo. Eppure quanto questa idea appare incomprensibile. In tutti gli altri ambiti ci viene insegnato a riconoscere la [[concepts/nature|natura]] come suprema; davanti ai suoi dettagli, non osiamo nemmeno competere con lei. Chi oserebbe imitare i colori di un tulipano o migliorare le proporzioni di un giglio di valle? La critica che afferma che nella scultura o nel ritratto si debba esaltare o idealizzare la natura, piuttosto che imitarla, è errata. Nessuna combinazione pittorica o scultorea riesce a eguagliare la bellezza vivida e reale della natura stessa. Solo nel paesaggio il principio enunciato dalla critica risulta vero; e una volta percepita questa verità in questo ambito, è lo spirito di generalizzazione che spinge a ritenere tale principio valido in tutti i campi dell’arte. Dico “percepita”, perché questa sensazione non è affatto un’affettazione o un’illusione; la matematica non offre dimostrazioni più assolute di quelle che l’intuizione artistica fornisce all’[[archetypes/artist|artista]]. Lui non solo crede, ma sa con certezza che determinate combinazioni apparentemente arbitrarie di elementi costituiscono davvero la vera bellezza. Tuttavia, le sue ragioni non sono ancora state espresse in modo completo; occorre un’analisi più profonda di quella che il mondo abbia mai visto per esaminarle e formularle appieno. Nonostante ciò, le sue opinioni istintive trovano conferma nel consenso di tutti i suoi colleghi artisti. Che una composizione sia imperfetta, che venga apportata una modifica alla sua semplice struttura formale. Ogni artista al mondo riconoscerà la necessità di tali modifiche; anzi, ognuno di loro avrebbe suggerito esattamente lo stesso intervento per correggere le imperfezioni della composizione.
+“La sua adattazione agli occhi che dovevano vederla sulla terra.” Nella sua spiegazione di questa espressione, il signor Ellison ha contribuito molto a risolvere ciò che per me è sempre sembrato un enigma: intendo dire il fatto (di cui nessuno, se non gli ignoranti, mette in dubbio) che nella [[concepts/nature|natura]] non esiste alcuna combinazione di elementi come quella che un geniale pittore può creare sulla tela. Non esistono paradisi reali come quelli raffigurati da Claude; anche nei paesaggi naturali più incantevoli, ci sarà sempre qualche difetto o eccesso – spesso molti eccessi e difetti. Sebbene ciascun elemento singolarmente possa sfidare le più alte abilità dell’[[archetypes/artist|artista]], l’insieme di questi elementi è sempre suscettibile di miglioramenti. In breve, non esiste alcuna posizione sulla vasta superficie della natura che un occhio artistico, osservandola attentamente, non possa considerare “impeccabile” dal punto di vista compositivo. Eppure quanto questa idea appare incomprensibile. In tutti gli altri ambiti ci viene insegnato a riconoscere la [[concepts/nature|natura]] come suprema; davanti ai suoi dettagli, non osiamo nemmeno competere con lei. Chi oserebbe imitare i colori di un tulipano o migliorare le proporzioni di un giglio di valle? La critica che afferma che nella scultura o nel ritratto si debba esaltare o idealizzare la natura, piuttosto che imitarla, è errata. Nessuna combinazione pittorica o scultorea riesce a eguagliare la bellezza vivida e reale della natura stessa. Solo nel paesaggio il principio enunciato dalla critica risulta vero; e una volta percepita questa verità in questo ambito, è lo spirito di generalizzazione che spinge a ritenere tale principio valido in tutti i campi dell’arte. Dico “percepita”, perché questa sensazione non è affatto un’affettazione o un’illusione; la matematica non offre dimostrazioni più assolute di quelle che l’intuizione artistica fornisce all’[[archetypes/artist|artista]]. Lui non solo crede, ma sa con certezza che determinate combinazioni apparentemente arbitrarie di elementi costituiscono davvero la vera bellezza. Tuttavia, le sue ragioni non sono ancora state espresse in modo completo; occorre un’analisi più profonda di quella che il mondo abbia mai visto per esaminarle e formularle appieno. Nonostante ciò, le sue opinioni istintive trovano conferma nel consenso di tutti i suoi colleghi artisti. Che una composizione sia imperfetta, che venga apportata una modifica alla sua semplice struttura formale. Ogni artista al mondo riconoscerà la necessità di tali modifiche; anzi, ognuno di loro avrebbe suggerito esattamente lo stesso intervento per correggere le imperfezioni della composizione.
 
 Ripeto che, negli arrangiamenti paesaggistici, soltanto la [[concepts/nature|natura]] fisica è suscettibile di essere elevata a qualcosa di sublime; pertanto, questa sua capacità di miglioramento in questo specifico ambito rappresentava un mistero che non ero riuscito a risolvere. Le mie riflessioni su questo argomento si basavano sull’idea che l’intenzione originaria della [[concepts/nature|natura]] fosse stata quella di disporre la superficie terrestre in modo da soddisfare, in ogni punto, il senso umano di perfezione nel bello, nel sublime o nel pittoresco; tuttavia, questa intenzione originale era stata ostacolata dai noti disturbi geologici – alterazioni nella forma e nei colori del paesaggio – e la correzione o l’eliminazione di tali disturbi costituiva proprio l’essenza dell’arte. Tuttavia, questa ipotesi veniva notevolmente indebolita dalla necessità di considerare tali alterazioni come anormali e inadatte a qualsiasi scopo specifico; fu Ellison ad avanzare l’idea che esse potessero rappresentare dei presagi della [[motifs/death|morte]] umana. Spiegava così: “Ammettiamo che l’[[concepts/immortality|immortalità]] terrena dell’uomo fosse stata l’intenzione originaria della natura; in tal caso, la disposizione primitiva della superficie terrestre sarebbe stata adatta alla sua condizione felice, esistendo soltanto come progetto ideale. I disturbi geologici, invece, rappresenterebbero le preparazioni per quella condizione mortale che in seguito si è verificata”.
 
@@ -122,9 +122,9 @@ With opinions such as these my young friend, too, was fully
 imbued, and thus it is worthy of observation that the
 uninterrupted enjoyment which distinguished his life was, in
 great measure, the result of preconcert. It is indeed evident
-that with less of the instinctive [[philosophy]] which, now and then,
+that with less of the instinctive philosophy which, now and then,
 stands so [[motifs/well|well]] in the stead of experience, Mr. Ellison would have
-found himself precipitated, by the very extraordinary [[success]] of
+found himself precipitated, by the very extraordinary success of
 his life, into the common vortex of unhappiness which yawns for
 those of pre-eminent endowments. But it is by no means my object
 to pen an [[forms/essay|essay]] on happiness. The ideas of my friend may be
@@ -165,7 +165,7 @@ investment, he bequeathed the aggregate amount to the nearest of
 [[motifs/blood|blood]], bearing the name of Ellison, who should be alive at the
 end of the hundred years. Many attempts had been made to set
 aside this singular bequest; their ex post facto character
-rendered them abortive; but the attention of a jealous [[government]]
+rendered them abortive; but the attention of a jealous government
 was aroused, and a legislative act finally obtained, forbidding
 all similar accumulations. This act, however, did not prevent
 young Ellison from entering into possession, on his twenty-first
@@ -297,7 +297,7 @@ sentiment in man.
 
 “Its adaptation to the eyes which were to behold it on earth.” In
 his explanation of this phraseology, Mr. Ellison did much toward
-solving what has always seemed to me [[An Enigma|an enigma]]:—I mean the fact
+solving what has always seemed to me an enigma:—I mean the fact
 (which none but the ignorant dispute) that no such combination of
 scenery exists in [[concepts/nature|nature]] as the painter of genius may produce. No
 such paradises are to be found in reality as have glowed on the
@@ -317,7 +317,7 @@ the valley? The criticism which says, of sculpture or
 portraiture, that here [[concepts/nature|nature]] is to be exalted or idealized
 rather than imitated, is in error. No pictorial or sculptural
 combinations of points of human liveliness do more than approach
-the living and breathing [[concepts/beauty|beauty]]. In landscape [[Alone|alone]] is the
+the living and breathing [[concepts/beauty|beauty]]. In landscape alone is the
 principle of the critic true; and, having felt its [[concepts/truth|truth]] here, it
 is but the headlong spirit of generalization which has led him to
 pronounce it true throughout all the domains of art. Having, I
@@ -325,7 +325,7 @@ say, felt its [[concepts/truth|truth]] here; for the feeling is no affectation o
 chimera. The mathematics afford no more absolute demonstrations
 than the sentiments of his art yields the [[archetypes/artist|artist]]. He not only
 believes, but positively knows, that such and such apparently
-arbitrary arrangements of matter constitute and [[Alone|alone]] constitute
+arbitrary arrangements of matter constitute and alone constitute
 the true [[concepts/beauty|beauty]]. His reasons, however, have not yet been matured
 into expression. It remains for a more profound analysis than the
 world has yet seen, fully to investigate and express them.
@@ -346,14 +346,14 @@ Nel senso più ampio e nobile del termine, egli era un poeta. Comprendeva, inolt
 
 Ellison non divenne né musicista né poeta; tuttavia, nessun altro uomo amò mai così profondamente la musica e la poesia. In altre circostanze, non è impossibile che sarebbe diventato un pittore. La scultura, sebbene nella sua natura fosse rigorosamente poetica, era troppo limitata per attirare gran parte della sua attenzione. Ho menzionato tutte le sfere in cui la comune concezione del sentimento poetico ritiene che esso possa esprimersi; ma Ellison sosteneva che la più ricca, la più autentica e la più naturale di queste sfere fosse stata incomprensibilmente trascurata. Nessuna definizione aveva mai collegato il giardiniere paesaggista al poeta; tuttavia, a mio amico sembrava che la creazione dei giardini paesaggistici offrisse alla vera Musa le opportunità più straordinarie per esprimersi. Qui, infatti, si trovava il campo più adatto per mostrare l’immaginazione nell’infinita combinazione di forme di bellezza; gli elementi che vi entravano in gioco erano, per una vasta superiorità, i più splendidi che la terra potesse offrire. Nella varietà e nei colori dei fiori e degli alberi, egli riconosceva gli sforzi più diretti ed energici della Natura per creare bellezza fisica; e nella direzione o nell’organizzazione di questi sforzi – o, più precisamente, nel loro adattamento agli occhi umani che li avrebbero osservati sulla terra – egli vedeva l’occasione per utilizzare i mezzi migliori, lavorando al massimo delle proprie possibilità, non solo per realizzare il proprio destino di poeta, ma anche per perseguire gli scopi nobili per cui la Divinità aveva insito nel genere umano il sentimento poetico.
 
-“La sua adattazione agli occhi che dovevano vederla sulla terra.” Nella sua spiegazione di questa espressione, il signor Ellison ha contribuito molto a risolvere ciò che per me è sempre sembrato un [[An Enigma|enigma]]: intendo dire il fatto (di cui nessuno, se non gli ignoranti, mette in dubbio) che nella [[concepts/nature|natura]] non esiste alcuna combinazione di elementi come quella che un geniale pittore può creare sulla tela. Non esistono paradisi reali come quelli raffigurati da Claude; anche nei paesaggi naturali più incantevoli, ci sarà sempre qualche difetto o eccesso – spesso molti eccessi e difetti. Sebbene ciascun elemento singolarmente possa sfidare le più alte abilità dell’[[archetypes/artist|artista]], l’insieme di questi elementi è sempre suscettibile di miglioramenti. In breve, non esiste alcuna posizione sulla vasta superficie della natura che un occhio artistico, osservandola attentamente, non possa considerare “impeccabile” dal punto di vista compositivo. Eppure quanto questa idea appare incomprensibile. In tutti gli altri ambiti ci viene insegnato a riconoscere la [[concepts/nature|natura]] come suprema; davanti ai suoi dettagli, non osiamo nemmeno competere con lei. Chi oserebbe imitare i colori di un tulipano o migliorare le proporzioni di un giglio di valle? La critica che afferma che nella scultura o nel ritratto si debba esaltare o idealizzare la natura, piuttosto che imitarla, è errata. Nessuna combinazione pittorica o scultorea riesce a eguagliare la bellezza vivida e reale della natura stessa. Solo nel paesaggio il principio enunciato dalla critica risulta vero; e una volta percepita questa verità in questo ambito, è lo spirito di generalizzazione che spinge a ritenere tale principio valido in tutti i campi dell’arte. Dico “percepita”, perché questa sensazione non è affatto un’affettazione o un’illusione; la matematica non offre dimostrazioni più assolute di quelle che l’intuizione artistica fornisce all’[[archetypes/artist|artista]]. Lui non solo crede, ma sa con certezza che determinate combinazioni apparentemente arbitrarie di elementi costituiscono davvero la vera bellezza. Tuttavia, le sue ragioni non sono ancora state espresse in modo completo; occorre un’analisi più profonda di quella che il mondo abbia mai visto per esaminarle e formularle appieno. Nonostante ciò, le sue opinioni istintive trovano conferma nel consenso di tutti i suoi colleghi artisti. Che una composizione sia imperfetta, che venga apportata una modifica alla sua semplice struttura formale. Ogni artista al mondo riconoscerà la necessità di tali modifiche; anzi, ognuno di loro avrebbe suggerito esattamente lo stesso intervento per correggere le imperfezioni della composizione.
+“La sua adattazione agli occhi che dovevano vederla sulla terra.” Nella sua spiegazione di questa espressione, il signor Ellison ha contribuito molto a risolvere ciò che per me è sempre sembrato un enigma: intendo dire il fatto (di cui nessuno, se non gli ignoranti, mette in dubbio) che nella [[concepts/nature|natura]] non esiste alcuna combinazione di elementi come quella che un geniale pittore può creare sulla tela. Non esistono paradisi reali come quelli raffigurati da Claude; anche nei paesaggi naturali più incantevoli, ci sarà sempre qualche difetto o eccesso – spesso molti eccessi e difetti. Sebbene ciascun elemento singolarmente possa sfidare le più alte abilità dell’[[archetypes/artist|artista]], l’insieme di questi elementi è sempre suscettibile di miglioramenti. In breve, non esiste alcuna posizione sulla vasta superficie della natura che un occhio artistico, osservandola attentamente, non possa considerare “impeccabile” dal punto di vista compositivo. Eppure quanto questa idea appare incomprensibile. In tutti gli altri ambiti ci viene insegnato a riconoscere la [[concepts/nature|natura]] come suprema; davanti ai suoi dettagli, non osiamo nemmeno competere con lei. Chi oserebbe imitare i colori di un tulipano o migliorare le proporzioni di un giglio di valle? La critica che afferma che nella scultura o nel ritratto si debba esaltare o idealizzare la natura, piuttosto che imitarla, è errata. Nessuna combinazione pittorica o scultorea riesce a eguagliare la bellezza vivida e reale della natura stessa. Solo nel paesaggio il principio enunciato dalla critica risulta vero; e una volta percepita questa verità in questo ambito, è lo spirito di generalizzazione che spinge a ritenere tale principio valido in tutti i campi dell’arte. Dico “percepita”, perché questa sensazione non è affatto un’affettazione o un’illusione; la matematica non offre dimostrazioni più assolute di quelle che l’intuizione artistica fornisce all’[[archetypes/artist|artista]]. Lui non solo crede, ma sa con certezza che determinate combinazioni apparentemente arbitrarie di elementi costituiscono davvero la vera bellezza. Tuttavia, le sue ragioni non sono ancora state espresse in modo completo; occorre un’analisi più profonda di quella che il mondo abbia mai visto per esaminarle e formularle appieno. Nonostante ciò, le sue opinioni istintive trovano conferma nel consenso di tutti i suoi colleghi artisti. Che una composizione sia imperfetta, che venga apportata una modifica alla sua semplice struttura formale. Ogni artista al mondo riconoscerà la necessità di tali modifiche; anzi, ognuno di loro avrebbe suggerito esattamente lo stesso intervento per correggere le imperfezioni della composizione.
 
 
 
 <span class="atom-split" data-atom="part--part_03" data-title="The Domain of Arnheim (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/death,motif/dreams,motif/garden,motif/nature,motif/soul,motif/time,motif/well,concept/beauty,concept/immortality,concept/nature,concept/sublime,concept/truth,concept/wonder"></span>
 
 
-I repeat that in landscape arrangements [[Alone|alone]] is the physical
+I repeat that in landscape arrangements alone is the physical
 [[concepts/nature|nature]] susceptible of exaltation, and that, therefore, her
 susceptibility of improvement at this one point, was a mystery I
 had been unable to solve. My own thoughts on the subject had
@@ -437,7 +437,7 @@ letters, would elevate Addison into apotheosis. In [[concepts/truth|truth]], whi
 that virtue which consists in the mere avoidance of vice appeals
 directly to the understanding, and can thus be circumscribed in
 rule, the loftier virtue, which flames in creation, can be
-apprehended in its results [[Alone|alone]]. Rule applies but to the merits
+apprehended in its results alone. Rule applies but to the merits
 of denial—to the excellencies which refrain. Beyond these, the
 critical art can but suggest. We may be instructed to build a
 “Cato,” but we are in vain told how to conceive a Parthenon or an
@@ -598,8 +598,8 @@ The usual approach to Arnheim was by the [[motifs/river|river]]. The visitor lef
 the [[motifs/city|city]] in the early morning. During the forenoon he passed
 between shores of a tranquil and domestic [[concepts/beauty|beauty]], on which grazed
 innumerable sheep, their white fleeces spotting the vivid green
-of [[rolling]] meadows. By degrees the idea of cultivation subsided
-into that of merely [[Pastoral|pastoral]] care. This slowly became merged in a
+of rolling meadows. By degrees the idea of cultivation subsided
+into that of merely pastoral care. This slowly became merged in a
 sense of retirement—this again in a consciousness of [[concepts/solitude|solitude]]. As
 the evening approached, the channel grew more narrow; the banks
 more and more precipitous; and these latter were clothed in rich,
@@ -664,7 +664,7 @@ traced upward the myriad-tinted slope, from its sharp junction
 with the [[motifs/water|water]] to its vague termination amid the folds of
 overhanging cloud, it became, indeed, difficult not to fancy a
 panoramic cataract of rubies, sapphires, opals, and golden
-onyxes, [[rolling]] silently out of the sky.
+onyxes, rolling silently out of the sky.
 
 The visitor, shooting suddenly into this bay from out the gloom
 of the ravine, is delighted but astounded by the full orb of the
@@ -682,7 +682,7 @@ lies on the surface of the bay with the proud grace of a swan. On
 its ermined floor reposes a single feathery paddle of satin-wood;
 but no oarsmen or attendant is to be seen. The guest is bidden to
 be of good cheer—that the fates will take care of him. The larger
-vessel disappears, and he is left [[Alone|alone]] in the canoe, which lies
+vessel disappears, and he is left alone in the canoe, which lies
 apparently motionless in the middle of the lake. While he
 considers what course to pursue, however, he becomes aware of a
 gentle movement in the fairy bark. It slowly swings itself around
@@ -775,7 +775,7 @@ descent into a vast amphitheatre entirely begirt with purple
 the full extent of their circuit. Meantime the whole Paradise of
 Arnheim bursts upon the view. There is a gush of entrancing
 melody; there is an oppressive sense of strange sweet odor;—there
-is [[A Dream|a dream]]-like intermingling to the eye of tall slender Eastern
+is a dream-like intermingling to the eye of tall slender Eastern
 trees—bosky shrubberies—flocks of golden and crimson
 [[motifs/birds|birds]]—lily-fringed lakes—meadows of violets, tulips, poppies,
 hyacinths, and tuberoses—long intertangled lines of silver

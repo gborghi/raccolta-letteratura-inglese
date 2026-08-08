@@ -25,7 +25,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/time|Time]]
 **Themes & Concepts:** [[concepts/melancholy|Melancholy]], [[concepts/friendship|Friendship]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

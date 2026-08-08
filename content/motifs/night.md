@@ -29,41 +29,41 @@ tags:
 - [[works/the-wanderings-of-cain-(coleridge)-(2)|THE WANDERINGS OF CAIN (Coleridge) (2)]]
 - [[works/to-lesbia-(coleridge)|TO LESBIA (Coleridge)]]
 - [[works/to-the-evening-star-(coleridge)|TO THE EVENING STAR (Coleridge)]]
-- 1100. The last Night that She lived (Dickinson)
-- 1104. The Crickets sang (Dickinson)
-- 1128. These are the Nights that Beetles love — (Dickinson)
-- 113. Our share of night to bear — (Dickinson)
-- 1140. The Day grew small, surrounded tight (Dickinson)
-- 1165. Contained in this short Life (Dickinson)
-- 1194. Somehow myself survived the Night (Dickinson)
-- 1418. How lonesome the Wind must feel Nights — (Dickinson)
-- 146. On such a night, or such a night, (Dickinson)
-- 1468. A winged spark doth soar about — (Dickinson)
-- 1533. On that specific Pillow (Dickinson)
-- 158. Dying! Dying in the night! (Dickinson)
-- 1598. Who is it seeks my Pillow Nights — (Dickinson)
-- 1646. Why should we hurry — why indeed (Dickinson)
-- 1739. Some say goodnight — at night — (Dickinson)
-- 207. Tho' I get home how late — how late — (Dickinson)
-- 224. I've nothing else — to bring, You know — (Dickinson)
-- 289. I know some lonely Houses off the Road (Dickinson)
-- 291. How the old Mountains drip with Sunset (Dickinson)
-- 30. Adrift! A little boat adrift! (Dickinson)
-- 347. When Night is almost done — (Dickinson)
-- 391. A Visitor in Marl — (Dickinson)
-- 410. The first Day's Night had come — (Dickinson)
-- 419. We grow accustomed to the Dark — (Dickinson)
-- 425. Good Morning — Midnight — (Dickinson)
-- 446. I showed her Heights she never saw — (Dickinson)
-- 458. Like eyes that looked on Wastes — (Dickinson)
-- 471. A Night — there lay the Days between — (Dickinson)
-- 699. The Judge is like the Owl — (Dickinson)
-- 710. The Sunrise runs for Both — (Dickinson)
-- 764. Presentiment — is that long Shadow — on the Lawn — (Dickinson)
-- 768. When I hoped, I recollect (Dickinson)
-- 78. A poor — torn heart — a tattered heart — (Dickinson)
-- 786. Severer Service of myself (Dickinson)
-- 850. I sing to use the Waiting (Dickinson)
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1100_the_last_night_that_she_lived|1100. The last Night that She lived (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1104_the_crickets_sang|1104. The Crickets sang (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1128_these_are_the_nights_that_beetles_love|1128. These are the Nights that Beetles love — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0113_our_share_of_night_to_bear|113. Our share of night to bear — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1140_the_day_grew_small_surrounded_tight|1140. The Day grew small, surrounded tight (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1165_contained_in_this_short_life|1165. Contained in this short Life (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1194_somehow_myself_survived_the_night|1194. Somehow myself survived the Night (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1418_how_lonesome_the_wind_must_feel_nights|1418. How lonesome the Wind must feel Nights — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0146_on_such_a_night_or_such_a_night|146. On such a night, or such a night, (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1468_a_winged_spark_doth_soar_about|1468. A winged spark doth soar about — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#1533_on_that_specific_pillow|1533. On that specific Pillow (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0158_dying_dying_in_the_night|158. Dying! Dying in the night! (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1598_who_is_it_seeks_my_pillow_nights|1598. Who is it seeks my Pillow Nights — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1646_why_should_we_hurry_why_indeed|1646. Why should we hurry — why indeed (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1739_some_say_goodnight_at_night|1739. Some say goodnight — at night — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0207_tho_i_get_home_how_late_how_late|207. Tho' I get home how late — how late — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0224_ive_nothing_else_to_bring_you_know|224. I've nothing else — to bring, You know — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0289_i_know_some_lonely_houses_off_the_road|289. I know some lonely Houses off the Road (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0291_how_the_old_mountains_drip_with_sunset|291. How the old Mountains drip with Sunset (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0030_adrift_a_little_boat_adrift|30. Adrift! A little boat adrift! (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0347_when_night_is_almost_done|347. When Night is almost done — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0391_a_visitor_in_marl|391. A Visitor in Marl — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0410_the_first_days_night_had_come|410. The first Day's Night had come — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0419_we_grow_accustomed_to_the_dark|419. We grow accustomed to the Dark — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0425_good_morning_midnight|425. Good Morning — Midnight — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0446_i_showed_her_heights_she_never_saw|446. I showed her Heights she never saw — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0458_like_eyes_that_looked_on_wastes|458. Like eyes that looked on Wastes — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0471_a_night_there_lay_the_days_between|471. A Night — there lay the Days between — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0699_the_judge_is_like_the_owl|699. The Judge is like the Owl — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0710_the_sunrise_runs_for_both|710. The Sunrise runs for Both — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0764_presentiment_is_that_long_shadow_on_the_lawn|764. Presentiment — is that long Shadow — on the Lawn — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0768_when_i_hoped_i_recollect|768. When I hoped, I recollect (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0078_a_poor_torn_heart_a_tattered_heart|78. A poor — torn heart — a tattered heart — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0786_severer_service_of_myself|786. Severer Service of myself (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0850_i_sing_to_use_the_waiting|850. I sing to use the Waiting (Dickinson)]]
 - [[works/nocturne-(eliot)|Nocturne (Eliot)]]
 - [[works/preludes-(eliot)|Preludes (Eliot)]]
 - [[works/rhapsody-on-a-windy-night-(eliot)|Rhapsody on a Windy Night (Eliot)]]
@@ -91,11 +91,11 @@ tags:
 - [[works/the-tell-tale-heart-(poe)|The Tell-Tale Heart (Poe)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/romeo-and-juliet-(shakespeare)|ROMEO AND JULIET (Shakespeare)]]
-- Sonnet 12 (Shakespeare)
-- Sonnet 27 (Shakespeare)
-- Sonnet 28 (Shakespeare)
-- Sonnet 43 (Shakespeare)
-- Sonnet 61 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_012|Sonnet 12 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_027|Sonnet 27 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_028|Sonnet 28 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_043|Sonnet 43 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_061|Sonnet 61 (Shakespeare)]]
 - [[works/the-rape-of-lucrece-(shakespeare)|THE RAPE OF LUCRECE (Shakespeare)]]
 - [[works/a-clear-midnight-(whitman)|A Clear Midnight (Whitman)]]
 - [[works/a-march-in-the-ranks-hard-prest,-and-the-road-unknown-(whitman)|A March in the Ranks Hard-Prest, and the Road Unknown (Whitman)]]

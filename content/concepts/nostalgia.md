@@ -49,33 +49,33 @@ tags:
 - [[works/w.-l.-bowles-(coleridge)|W. L. BOWLES (Coleridge)]]
 - [[works/youth-and-age-(coleridge)|YOUTH AND AGE (Coleridge)]]
 - [[works/a-child's-history-of-england-(dickens)|A Child's History of England (Dickens)]]
-- 1057. I had a daily Bliss (Dickinson)
-- 1273. That sacred Closet when you sweep — (Dickinson)
-- 1293. The things we thought that we should do (Dickinson)
-- 1498. Glass was the Street — in tinsel Peril (Dickinson)
-- 1515. The Things that never can come back, are several — (Dickinson)
-- 1657. Eden is that old-fashioned House (Dickinson)
-- 169. In Ebon Box, when years have flown (Dickinson)
-- 1753. Through those old Grounds of memory, (Dickinson)
-- 1773. The Summer that we did not prize, (Dickinson)
-- 23. I had a guinea golden — (Dickinson)
-- 302. Like Some Old fashioned Miracle (Dickinson)
-- 367. Over and over, like a Tune — (Dickinson)
-- 445. 'Twas just this time, last year, I died. (Dickinson)
-- 492. Civilization — spurns — the Leopard! (Dickinson)
-- 529. I'm sorry for the Dead — Today — (Dickinson)
-- 562. Conjecturing a Climate (Dickinson)
-- 589. The Night was wide, and furnished scant (Dickinson)
-- 607. Of nearness to her sundered Things (Dickinson)
-- 609. I Years had been from Home (Dickinson)
-- 610. You'll find — it when you try to die — (Dickinson)
-- 687. I'll send the feather from my Hat! (Dickinson)
-- 719. A South Wind — has a pathos (Dickinson)
-- 728. Let Us play Yesterday — (Dickinson)
-- 814. One Day is there of the Series (Dickinson)
-- 898. How happy I was if I could forget (Dickinson)
-- 90. Within my reach! (Dickinson)
-- 995. This was in the White of the Year — (Dickinson)
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1057_i_had_a_daily_bliss|1057. I had a daily Bliss (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1273_that_sacred_closet_when_you_sweep|1273. That sacred Closet when you sweep — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1293_the_things_we_thought_that_we_should_do|1293. The things we thought that we should do (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1498_glass_was_the_street_in_tinsel_peril|1498. Glass was the Street — in tinsel Peril (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1515_the_things_that_never_can_come_back_are_several|1515. The Things that never can come back, are several — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1657_eden_is_that_old-fashioned_house|1657. Eden is that old-fashioned House (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0169_in_ebon_box_when_years_have_flown|169. In Ebon Box, when years have flown (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1753_through_those_old_grounds_of_memory|1753. Through those old Grounds of memory, (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1773_the_summer_that_we_did_not_prize|1773. The Summer that we did not prize, (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0023_i_had_a_guinea_golden|23. I had a guinea golden — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0302_like_some_old_fashioned_miracle|302. Like Some Old fashioned Miracle (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0367_over_and_over_like_a_tune|367. Over and over, like a Tune — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0445_twas_just_this_time_last_year_i_died|445. 'Twas just this time, last year, I died. (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0492_civilization_spurns_the_leopard|492. Civilization — spurns — the Leopard! (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0529_im_sorry_for_the_dead_today|529. I'm sorry for the Dead — Today — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0562_conjecturing_a_climate|562. Conjecturing a Climate (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0589_the_night_was_wide_and_furnished_scant|589. The Night was wide, and furnished scant (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0607_of_nearness_to_her_sundered_things|607. Of nearness to her sundered Things (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0609_i_years_had_been_from_home|609. I Years had been from Home (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0610_youll_find_it_when_you_try_to_die|610. You'll find — it when you try to die — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0687_ill_send_the_feather_from_my_hat|687. I'll send the feather from my Hat! (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0719_a_south_wind_has_a_pathos|719. A South Wind — has a pathos (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0728_let_us_play_yesterday|728. Let Us play Yesterday — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0814_one_day_is_there_of_the_series|814. One Day is there of the Series (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0898_how_happy_i_was_if_i_could_forget|898. How happy I was if I could forget (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0090_within_my_reach|90. Within my reach! (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0995_this_was_in_the_white_of_the_year|995. This was in the White of the Year — (Dickinson)]]
 - [[works/at-graduation-1905-(eliot)|At Graduation 1905 (Eliot)]]
 - [[works/a-cooking-egg-(eliot)|A Cooking Egg (Eliot)]]
 - [[works/gus-the-theatre-cat-(eliot)|Gus the Theatre Cat (Eliot)]]

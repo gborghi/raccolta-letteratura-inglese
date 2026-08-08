@@ -48,7 +48,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/grave|Grave]], [[motifs/decay|Decay]], [[motifs/death|Death]], [[motifs/memory|Memory]], [[motifs/book-reading|Book Reading]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/identity|Identity]], [[concepts/uncanny|Uncanny]], [[concepts/mortality|Mortality]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/gothic-novel|Gothic Novel]]

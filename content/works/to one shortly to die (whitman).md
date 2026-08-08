@@ -24,7 +24,7 @@ tags:
 
 **Motifs:** [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/immortality|Immortality]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/grace-and-redemption|Grace and Redemption]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

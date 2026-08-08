@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Rebel
+**Archetypes:** [[archetypes/rebel|Rebel]]
 **Themes & Concepts:** [[concepts/democracy|Democracy]], [[concepts/reform|Reform]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]], [[forms/epigram|Epigram]]
 **Settings:** [[settings/america|America]]

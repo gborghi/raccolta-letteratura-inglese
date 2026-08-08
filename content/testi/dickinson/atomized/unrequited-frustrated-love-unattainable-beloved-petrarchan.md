@@ -17,8 +17,8 @@ tags:
 Awake ye muses nine, sing me a strain divine,  
 Unwind the solemn twine, and tie my [[characters/valentine|Valentine]]!  
 
-Oh the Earth was made for [[lovers]], for [[archetypes/damsel|damsel]], and hopeless swain,  
-For sighing, and gentle whispering, and [[unity]] made of twain.  
+Oh the Earth was made for lovers, for [[archetypes/damsel|damsel]], and hopeless swain,  
+For sighing, and gentle whispering, and unity made of twain.  
 All things do go a courting, in earth, or [[motifs/sea|sea]], or air,  
 [[characters/god|God]] hath made nothing single but thee in His world so fair!  
 The bride, and then the bridegroom, the two, and then the one,  
@@ -44,7 +44,7 @@ To bringing thee to justice, and marshalling thy [[motifs/soul|soul]]:
 Thou art a human solo, a being cold, and lone,  
 Wilt have no kind companion, thou reap'st what thou hast sown.  
 Hast never silent hours, and minutes all too long,  
-And a deal of sad reflection, and wailing instead of [[Song|song]]?  
+And a deal of sad reflection, and wailing instead of song?  
 1  
 
 There's Sarah, and Eliza, and Emeline so fair,  
@@ -684,7 +684,7 @@ THINE —
 
 How sick — to wait — in any place — but thine —  
 I knew last [[motifs/night|night]] — when someone tried to twine —  
-Thinking — perhaps — that I looked tired — or [[Alone|alone]] —  
+Thinking — perhaps — that I looked tired — or alone —  
 Or breaking — almost — with unspoken [[motifs/pain|pain]] —  
 
 And I turned — ducal —  
@@ -705,7 +705,7 @@ And thou — not there —
 
 The sweetest Heresy received  
 That Man and Woman know —  
-Each Other's [[convert|Convert]] —  
+Each Other's Convert —  
 Though the [[concepts/faith|Faith]] accommodate but Two —  
 
 The Churches are so frequent —  
@@ -768,7 +768,7 @@ And Dragons — in the Crease —
 
 A Tongue — to tell Him I am true!  
 Its fee — to be of Gold —  
-Had [[concepts/nature|Nature]] — in Her monstrous [[house|House]]  
+Had [[concepts/nature|Nature]] — in Her monstrous House  
 A single Ragged [[archetypes/child|Child]] —  
 
 To earn a Mine — would run  
@@ -859,7 +859,7 @@ I'll do thy Will —
 'Tis customary as we part  
 A trinket — to confer —  
 It helps to stimulate the [[concepts/faith|faith]]  
-When [[lovers|Lovers]] be afar —  
+When Lovers be afar —  
 
 'Tis various — as the various taste —  
 Clematis — journeying far —  
@@ -1152,9 +1152,9 @@ Carts — joggle by —
 Morning's bold face — stares in the [[motifs/window|window]] —  
 Were but mine — the Charter of the least Fly —  
 
-Houses hunch the [[house|House]]  
+Houses hunch the House  
 With their Brick Shoulders —  
-Coals — from a [[rolling|Rolling]] Load — rattle — how — near —  
+Coals — from a Rolling Load — rattle — how — near —  
 To the very Square — His foot is passing —  
 Possibly, this moment —  
 While I — dream — Here —
@@ -1292,14 +1292,14 @@ For Interview — had Come —
 Before the Judgment Seat of [[characters/god|God]] —  
 The last — and second [[motifs/time|time]]  
 
-These Fleshless [[lovers|Lovers]] met —  
+These Fleshless Lovers met —  
 A Heaven in a Gaze —  
 A Heaven of Heavens — the Privilege  
 Of one another's Eyes —  
 
 No Lifetime — on Them —  
 Appareled as the new  
-[[unborn|Unborn]] — except They had beheld —  
+Unborn — except They had beheld —  
 Born infiniter — now —  
 
 Was Bridal — e'er like This?  
@@ -1691,9 +1691,9 @@ The other's one — had been —
 We walk — I leave my Dog — at [[motifs/home|home]] —  
 A tender — thoughtful [[motifs/moon|Moon]] —  
 Goes with us — just a little way —  
-And — then — we are [[Alone|alone]] —  
+And — then — we are alone —  
 
-[[works/alone-(poe)|Alone]] — if Angels are "[[Alone|alone]]" —  
+[[works/alone-(poe)|Alone]] — if Angels are "alone" —  
 First [[motifs/time|time]] they try the sky!  
 [[works/alone-(poe)|Alone]] — if those "veiled faces" — be —  
 We cannot count — on High!  
@@ -2270,7 +2270,7 @@ We will pry and see if she is fair
 What difference is on her Face  
 From Features others wear.  
 
-It will not harm her [[Magic|magic]] pace  
+It will not harm her magic pace  
 That we so far behind —  
 Her Distances propitiate  
 As Forests touch the [[motifs/wind|Wind]]  

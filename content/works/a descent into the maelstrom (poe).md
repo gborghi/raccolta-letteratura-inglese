@@ -52,7 +52,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/katabasis-descent|Katabasis Descent]], [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/book-of-nature|Book of Nature]]
-**Archetypes:** Hero
+**Archetypes:** [[archetypes/hero|Hero]]
 **Motifs:** [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/water|Water]], [[motifs/moon|Moon]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/sublime|Sublime]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/providence|Providence]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/mortality|Mortality]]
 **Forms & Genres:** [[forms/short-story|Short Story]]

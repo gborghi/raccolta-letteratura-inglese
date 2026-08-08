@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/providence|Providence]], [[concepts/social-injustice|Social Injustice]]
 **Historical References:** [[historical-references/bible|Bible]]
 

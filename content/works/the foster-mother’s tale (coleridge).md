@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Themes & Concepts:** [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/madness|Madness]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/fragment|Fragment]]
 **Settings:** [[motifs/ship|Ship]]

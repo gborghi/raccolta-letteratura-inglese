@@ -35,7 +35,7 @@ dalle menzogne di lingua e penna,
 da tutti i facili discorsi  
 che confortano gli uomini crudeli,  
 dalla vendita e profanazione  
-dell'[[concepts/honour|onore]] e della [[Sword|spada]],  
+dell'[[concepts/honour|onore]] e della spada,  
 dal [[motifs/sleep|sonno]] e dalla dannazione,  
 liberaci, buon Signore.  
 
@@ -46,7 +46,7 @@ colpiscici e salvaci tutti;
 Nell'ira e nell'esultanza  
 ardenti di [[concepts/faith|fede]], e liberi,  
 solleva una nazione viva,  
-un'unica [[Sword|spada]] verso di te.
+un'unica spada verso di te.
 
 
 
@@ -71,7 +71,7 @@ From lies of tongue and pen,
 From all the easy speeches  
 That comfort cruel men,  
 From sale and profanation  
-Of [[concepts/honour|honour]] and the [[Sword|sword]],  
+Of [[concepts/honour|honour]] and the sword,  
 From [[motifs/sleep|sleep]] and from damnation,  
 Deliver us, good Lord.  
 
@@ -82,7 +82,7 @@ Smite us and save us all;
 In ire and exultation  
 Aflame with [[concepts/faith|faith]], and free,  
 Lift up a living nation,  
-A single [[Sword|sword]] to thee.
+A single sword to thee.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -105,7 +105,7 @@ dalle menzogne di lingua e penna,
 da tutti i facili discorsi  
 che confortano gli uomini crudeli,  
 dalla vendita e profanazione  
-dell'[[concepts/honour|onore]] e della [[Sword|spada]],  
+dell'[[concepts/honour|onore]] e della spada,  
 dal [[motifs/sleep|sonno]] e dalla dannazione,  
 liberaci, buon Signore.  
 
@@ -116,4 +116,4 @@ colpiscici e salvaci tutti;
 Nell'ira e nell'esultanza  
 ardenti di [[concepts/faith|fede]], e liberi,  
 solleva una nazione viva,  
-un'unica [[Sword|spada]] verso di te.
+un'unica spada verso di te.

@@ -30,7 +30,7 @@ Or haply clothest with funereal vest
 The bridal loves that wept in [[characters/juliet|Juliet]]’s breast.  
 O’er our chill limbs the thrilling Terrors creep,   15  
 Th’ entrancéd Passions their still vigil keep;  
-While the deep sighs, responsive to the [[Song|song]],  
+While the deep sighs, responsive to the song,  
 Sound through the [[motifs/silence|silence]] of the trembling throng.  
 But purer raptures lighten’d from thy face,  
 And spread o’er all thy form an holier grace,   20  
@@ -93,7 +93,7 @@ But no true [[motifs/love|love]] in his eye.
 Loathing thy polluted lot,  
 Hie thee, Maiden, hie thee hence!  
 Seek thy weeping Mother’s cot,   15  
-With a wiser [[innocence]].  
+With a wiser innocence.  
 Thou hast known deceit and folly,  
 Thou hast felt that Vice is woe:  
 With a musing [[concepts/melancholy|melancholy]]  
@@ -255,7 +255,7 @@ Two Founts there are, of [[concepts/suffering|Suffering]] and of Cheer!   10
 That to let forth, and this to keep within!  
 But she, whose aspect I find imaged here,  
 Of Pleasure only will to all dispense,  
-That Fount [[Alone|alone]] unlock, by no distress  
+That Fount alone unlock, by no distress  
 Choked or turned inward, but still issue thence   15  
 Unconquered cheer, persistent loveliness.  
 As on the driving cloud the shiny bow,  
@@ -267,7 +267,7 @@ Inweaving each its wreath and dewy [[motifs/crown|crown]],
 Or ere they sank to earth in vernal showers,  
 Had built a bridge to tempt the angels down.  
 Even so, Eliza! on that face of thine,   25  
-On that benignant face, whose look [[Alone|alone]]  
+On that benignant face, whose look alone  
 (The [[motifs/soul|soul]]’s translucence thro’ her crystal shrine!)  
 Has power to soothe all anguish but thine own,  
 A [[concepts/beauty|beauty]] hovers still, and ne’er takes wing,  
@@ -304,7 +304,7 @@ Nor roseate cheeks, nor sunny eyes,
 Enough of lilies and of roses!  
 A thousand-fold more dear to me  
 The gentle look that [[motifs/love|Love]] discloses, — 5  
-The look that [[motifs/love|Love]] [[Alone|alone]] can see!  
+The look that [[motifs/love|Love]] alone can see!  
 Keepsake, 1830.  
 
 

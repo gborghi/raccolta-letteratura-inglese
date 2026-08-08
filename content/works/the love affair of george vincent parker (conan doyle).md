@@ -46,4 +46,4 @@ tags:
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/blood|Blood]], [[motifs/secrets|Secrets]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/industrial-city|Industrial City]]
-**Archetypes:** Villain, Avenger
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/avenger|Avenger]]

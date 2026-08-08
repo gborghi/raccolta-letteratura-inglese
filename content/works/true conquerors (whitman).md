@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Wise Old Man Sage
+**Archetypes:** [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 **Motifs:** [[motifs/sea|Sea]], [[motifs/swords-and-weapons|Swords and Weapons]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/common-man|Common Man]], [[concepts/war-and-its-cost|War and its Cost]]
 **Forms & Genres:** [[forms/epigram|Epigram]]

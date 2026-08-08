@@ -68,36 +68,36 @@ tags:
 - [[works/with-fielding’s-‘amelia’-(coleridge)|WITH FIELDING’S ‘AMELIA’ (Coleridge)]]
 - [[works/hard-times-(dickens)|Hard Times (Dickens)]]
 - [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
-- 1. Awake ye muses nine, sing me a strain divine (Dickinson)
-- 1072. Title divine — is mine! (Dickinson)
-- 1440. The healed Heart shows its shallow scar (Dickinson)
-- 1737. Rearrange a Wife's affection! (Dickinson)
-- 1743. The grave my little cottage is, (Dickinson)
-- 199. I'm wife — I've finished that — (Dickinson)
-- 205. I should not dare to leave my friend, (Dickinson)
-- 222. When Katie walks, this simple pair accompany her side, (Dickinson)
-- 224. I've nothing else — to bring, You know — (Dickinson)
-- 339. I tend my flowers for thee — (Dickinson)
-- 366. Although I put away his life — (Dickinson)
-- 368. How sick — to wait — in any place — but thine — (Dickinson)
-- 387. The sweetest Heresy received (Dickinson)
-- 400. A Tongue — to tell Him I am true! (Dickinson)
-- 429. The Moon is distant from the Sea — (Dickinson)
-- 438. Forget! The lady with the Amulet (Dickinson)
-- 46. I keep my pledge. (Dickinson)
-- 464. The power to be true to You, (Dickinson)
-- 474. They put Us far apart — (Dickinson)
-- 493. The World — stands — solemner — to me — (Dickinson)
-- 523. Sweet — You forgot — but I remembered (Dickinson)
-- 528. Mine — by the Right of the White Election! (Dickinson)
-- 535. She's happy, with a new Content — (Dickinson)
-- 580. I gave myself to Him — (Dickinson)
-- 603. He found my Being — set it up — (Dickinson)
-- 732. She rose to His Requirement — dropt (Dickinson)
-- 851. When the Astronomer stops seeking (Dickinson)
-- 961. Wert Thou but ill — that I might show thee (Dickinson)
-- 966. All forgot for recollecting (Dickinson)
-- 973. 'Twas awkward, but it fitted me — (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0001_awake_ye_muses_nine_sing_me_a_strain_divine|1. Awake ye muses nine, sing me a strain divine (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1072_title_divine_is_mine|1072. Title divine — is mine! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1440_the_healed_heart_shows_its_shallow_scar|1440. The healed Heart shows its shallow scar (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1737_rearrange_a_wifes_affection|1737. Rearrange a Wife's affection! (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1743_the_grave_my_little_cottage_is|1743. The grave my little cottage is, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0199_im_wife_ive_finished_that|199. I'm wife — I've finished that — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0205_i_should_not_dare_to_leave_my_friend|205. I should not dare to leave my friend, (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0222_when_katie_walks_this_simple_pair_accompany_her_side|222. When Katie walks, this simple pair accompany her side, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0224_ive_nothing_else_to_bring_you_know|224. I've nothing else — to bring, You know — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0339_i_tend_my_flowers_for_thee|339. I tend my flowers for thee — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0366_although_i_put_away_his_life|366. Although I put away his life — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0368_how_sick_to_wait_in_any_place_but_thine|368. How sick — to wait — in any place — but thine — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0387_the_sweetest_heresy_received|387. The sweetest Heresy received (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0400_a_tongue_to_tell_him_i_am_true|400. A Tongue — to tell Him I am true! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0429_the_moon_is_distant_from_the_sea|429. The Moon is distant from the Sea — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0438_forget_the_lady_with_the_amulet|438. Forget! The lady with the Amulet (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#0046_i_keep_my_pledge|46. I keep my pledge. (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0464_the_power_to_be_true_to_you|464. The power to be true to You, (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0474_they_put_us_far_apart|474. They put Us far apart — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0493_the_world_stands_solemner_to_me|493. The World — stands — solemner — to me — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0523_sweet_you_forgot_but_i_remembered|523. Sweet — You forgot — but I remembered (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0528_mine_by_the_right_of_the_white_election|528. Mine — by the Right of the White Election! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0535_shes_happy_with_a_new_content|535. She's happy, with a new Content — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0580_i_gave_myself_to_him|580. I gave myself to Him — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0603_he_found_my_being_set_it_up|603. He found my Being — set it up — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0732_she_rose_to_his_requirement_dropt|732. She rose to His Requirement — dropt (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0851_when_the_astronomer_stops_seeking|851. When the Astronomer stops seeking (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0961_wert_thou_but_ill_that_i_might_show_thee|961. Wert Thou but ill — that I might show thee (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0966_all_forgot_for_recollecting|966. All forgot for recollecting (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0973_twas_awkward_but_it_fitted_me|973. 'Twas awkward, but it fitted me — (Dickinson)]]
 - [[works/a-dedication-to-my-wife-(eliot)|A Dedication to my Wife (Eliot)]]
 - [[works/ii.-a-game-of-chess-(eliot)|II. A Game of Chess (Eliot)]]
 - [[works/lune-de-miel-(eliot)|Lune de Miel (Eliot)]]
@@ -113,21 +113,21 @@ tags:
 - [[works/love’s-labour’s-won---a-brief-account-(shakespeare)|LOVE’S LABOUR’S WON - A BRIEF ACCOUNT (Shakespeare)]]
 - [[works/much-ado-about-nothing-(shakespeare)|MUCH ADO ABOUT NOTHING (Shakespeare)]]
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
-- Sonnet 105 (Shakespeare)
-- Sonnet 109 (Shakespeare)
-- Sonnet 116 (Shakespeare)
-- Sonnet 117 (Shakespeare)
-- Sonnet 120 (Shakespeare)
-- Sonnet 124 (Shakespeare)
-- Sonnet 137 (Shakespeare)
-- Sonnet 138 (Shakespeare)
-- Sonnet 139 (Shakespeare)
-- Sonnet 142 (Shakespeare)
-- Sonnet 152 (Shakespeare)
-- Sonnet 41 (Shakespeare)
-- Sonnet 8 (Shakespeare)
-- Sonnet 9 (Shakespeare)
-- Sonnet 92 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_105|Sonnet 105 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_109|Sonnet 109 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_116|Sonnet 116 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_117|Sonnet 117 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_120|Sonnet 120 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_124|Sonnet 124 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_137|Sonnet 137 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_138|Sonnet 138 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_139|Sonnet 139 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_142|Sonnet 142 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_152|Sonnet 152 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_041|Sonnet 41 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_008|Sonnet 8 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_009|Sonnet 9 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_092|Sonnet 92 (Shakespeare)]]
 - [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
 - [[works/the-merry-wives-of-windsor-(shakespeare)|THE MERRY WIVES OF WINDSOR (Shakespeare)]]
 - [[works/the-rape-of-lucrece-(shakespeare)|THE RAPE OF LUCRECE (Shakespeare)]]

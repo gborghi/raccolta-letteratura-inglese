@@ -184,9 +184,9 @@ tags:
 - [[works/uncle-bernac-(conan-doyle)|Uncle Bernac (Conan Doyle)]]
 - [[works/a-tale-of-two-cities-(dickens)|A Tale of Two Cities (Dickens)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
-- 148. All overgrown by cunning moss, (Dickinson)
-- 1545. The Bible is an antique Volume — (Dickinson)
-- 234. You're right — the way is narrow — (Dickinson)
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0148_all_overgrown_by_cunning_moss|148. All overgrown by cunning moss, (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1545_the_bible_is_an_antique_volume|1545. The Bible is an antique Volume — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0234_youre_right_the_way_is_narrow|234. You're right — the way is narrow — (Dickinson)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/notes-on-the-waste-land-(eliot)|Notes on the Waste Land (Eliot)]]
 - [[works/calidore-(keats)|CALIDORE (Keats)]]

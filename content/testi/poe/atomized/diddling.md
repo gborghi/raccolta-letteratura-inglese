@@ -44,7 +44,7 @@ Nel modo più straordinario possibile.
 
 
 
-[[Diddling|Menzogna]]—o l’idea astratta espressa dal verbo “to diddle”–è.
+Menzogna—o l’idea astratta espressa dal verbo “to diddle”–è.
 
 Completamente compreso. Eppure il fatto, l’atto, la cosa stessa.
 
@@ -74,7 +74,7 @@ Scelse delle galline per superare quella situazione.
 
 
 
-Cosa costituisce l’essenza, il nucleo fondamentale del [[Diddling|giocare]]?
+Cosa costituisce l’essenza, il nucleo fondamentale del giocare?
 
 È, in effetti, caratteristico della classe di creature che indossano cappotti
 
@@ -90,7 +90,7 @@ Diciamo che è “finito”.
 
 
 
-[[Diddling|Distrazioni]], considerate nel loro complesso, sono in realtà costituite da diversi elementi.
+Distrazioni, considerate nel loro complesso, sono in realtà costituite da diversi elementi.
 
 Ingredienti essenziali: meticolosità, interesse, perseveranza, ingegnosità.
 
@@ -107,7 +107,7 @@ Piccola scala: il suo business si basa sul commercio al dettaglio, con pagamento
 
 Poi, all’improvviso, perde le sue caratteristiche distintive e diventa…
 
-Quello che chiamiamo “finanziere”. Quest'ultima parola trasmette l'idea di una sorta di [[Diddling|attività secondaria o marginale]].
+Quello che chiamiamo “finanziere”. Quest'ultima parola trasmette l'idea di una sorta di attività secondaria o marginale.
 
 Un’idea in ogni senso tranne che per la portata… Un piccolo dettaglio, ma significativo.
 
@@ -715,7 +715,7 @@ Durante l’assenza della signora da [[motifs/home|casa]], uno o due giorni dopo
 
 Si sente bussare alla porta del numero tal dei tal…
 
-Via principale; appare un servitore; chiedono della signora di quella [[house|casa]].
+Via principale; appare un servitore; chiedono della signora di quella casa.
 
 È stato dichiarato pubblicato… Una notizia davvero sorprendente.
 
@@ -746,7 +746,7 @@ Una pasta senza dubbio deliziosa.
 
 
 
-Ma poiché davvero non esiste fine alle [[Diddling|attività oziose]], quindi nemmeno in questo caso ci sarebbe fine.
+Ma poiché davvero non esiste fine alle attività oziose, quindi nemmeno in questo caso ci sarebbe fine.
 
 In questo [[forms/essay|saggio]], anche solo accennando a metà di queste variazioni, o.
 
@@ -758,7 +758,7 @@ Meglio di un semplice comunicato riassuntivo… molto dignitoso, ma comunque ins
 
 Un elaborato inganno, nel quale la nostra stessa [[motifs/city|città]] divenne teatro, non.
 
-Molto tempo fa, e successivamente fu ripetuto con [[success|successo]].
+Molto tempo fa, e successivamente fu ripetuto con successo.
 
 In altre ancora più verdi località dell’[[concepts/union|-Unione]]. A
 
@@ -770,7 +770,7 @@ Comportamento. Il suo abbigliamento è estremamente curato, ma semplice.
 
 Un sobrio abbigliamento: indossa una cravatta bianca e un gilet ampio…
 
-Con l’intento di confortare chi è [[Alone|solo]], scarpe con suole spesse e dall’aspetto confortevole.
+Con l’intento di confortare chi è solo, scarpe con suole spesse e dall’aspetto confortevole.
 
 Pantaloni senza lacci… Ha proprio quell’aspetto, insomma, tipico di…
 
@@ -867,7 +867,7 @@ Pertanto, chi non è disposto a lasciare questa somma…
 
 Il possesso da parte degli inserzionisti… e coloro che non riescono a fornire il massimo.
 
-Testimonianze soddisfacenti riguardo alla [[morality|moralità]]. Giovani signori, con grande devozione.
+Testimonianze soddisfacenti riguardo alla moralità. Giovani signori, con grande devozione.
 
 Titolo: Sarà preferita una volontà decisa. Le domande di partecipazione devono essere inviate entro…
 
@@ -908,7 +908,7 @@ Il mese prossimo, la padrona di casa non presenterà il suo conto, secondo quant
 Titolo:  
 “Promessa… un atto di negligenza per cui il capo comodo…”
 
-Una [[house|casa]] che finisse con “ogs” senza dubbio l'avrebbe rimproverata severamente.
+Una casa che finisse con “ogs” senza dubbio l'avrebbe rimproverata severamente.
 
 Potrebbe essere stato convinto a trattenersi in città per un giorno o due?
 
@@ -978,7 +978,7 @@ _diddling_, is somewhat difficult to define. We may get, however,
 
 at a tolerably distinct conception of the matter in hand, by
 
-defining—not the thing, [[Diddling|diddling]], in itself—but man, as an animal
+defining—not the thing, diddling, in itself—but man, as an animal
 
 that diddles. Had Plato but hit upon this, he would have been
 
@@ -1000,7 +1000,7 @@ picked chickens to get over that.
 
 
 
-What constitutes the essence, the nare, the principle of [[Diddling|diddling]]
+What constitutes the essence, the nare, the principle of diddling
 
 is, in fact, peculiar to the class of creatures that wear coats
 
@@ -1032,7 +1032,7 @@ at sight. Should he ever be tempted into magnificent speculation,
 
 he then, at once, loses his distinctive features, and becomes
 
-what we term “financier.” This latter word conveys the [[Diddling|diddling]]
+what we term “financier.” This latter word conveys the diddling
 
 idea in every respect except that of magnitude. A diddler may
 
@@ -1196,7 +1196,7 @@ Nel modo più straordinario possibile.
 
 
 
-[[Diddling|Menzogna]]—o l’idea astratta espressa dal verbo “to diddle”–è.
+Menzogna—o l’idea astratta espressa dal verbo “to diddle”–è.
 
 Completamente compreso. Eppure il fatto, l’atto, la cosa stessa.
 
@@ -1226,7 +1226,7 @@ Scelse delle galline per superare quella situazione.
 
 
 
-Cosa costituisce l’essenza, il nucleo fondamentale del [[Diddling|giocare]]?
+Cosa costituisce l’essenza, il nucleo fondamentale del giocare?
 
 È, in effetti, caratteristico della classe di creature che indossano cappotti
 
@@ -1242,7 +1242,7 @@ Diciamo che è “finito”.
 
 
 
-[[Diddling|Distrazioni]], considerate nel loro complesso, sono in realtà costituite da diversi elementi.
+Distrazioni, considerate nel loro complesso, sono in realtà costituite da diversi elementi.
 
 Ingredienti essenziali: meticolosità, interesse, perseveranza, ingegnosità.
 
@@ -1259,7 +1259,7 @@ Piccola scala: il suo business si basa sul commercio al dettaglio, con pagamento
 
 Poi, all’improvviso, perde le sue caratteristiche distintive e diventa…
 
-Quello che chiamiamo “finanziere”. Quest'ultima parola trasmette l'idea di una sorta di [[Diddling|attività secondaria o marginale]].
+Quello che chiamiamo “finanziere”. Quest'ultima parola trasmette l'idea di una sorta di attività secondaria o marginale.
 
 Un’idea in ogni senso tranne che per la portata… Un piccolo dettaglio, ma significativo.
 
@@ -2325,7 +2325,7 @@ During the lady’s absence from [[motifs/home|home]], a day or two afterwards, 
 
 ring is heard at the door of No. so and so, in such and such
 
-Avenue; a servant appears; the lady of the [[house]] is asked for and
+Avenue; a servant appears; the lady of the house is asked for and
 
 is declared to be out, at which astounding information, the
 
@@ -2355,7 +2355,7 @@ unquestionable paste.
 
 
 
-But as there is really no end to [[Diddling|diddling]], so there would be none
+But as there is really no end to diddling, so there would be none
 
 to this [[forms/essay|essay]], were I even to hint at half the variations, or
 
@@ -2367,7 +2367,7 @@ better than by a summary notice of a very decent, but rather
 
 elaborate diddle, of which our own [[motifs/city|city]] was made the theatre, not
 
-very long ago, and which was subsequently repeated with [[success]],
+very long ago, and which was subsequently repeated with success,
 
 in other still more verdant localities of the [[concepts/union|Union]]. A
 
@@ -2379,7 +2379,7 @@ demeanor. His dress is scrupulously neat, but plain,
 
 unostentatious. He wears a white cravat, an ample waistcoat, made
 
-with an eye to comfort [[Alone|alone]]; thick-soled cosy-looking shoes, and
+with an eye to comfort alone; thick-soled cosy-looking shoes, and
 
 pantaloons without straps. He has the whole air, in fact, of your
 
@@ -2399,7 +2399,7 @@ farthing with the other.
 
 
 
-He makes much ado before he can get suited with a boarding [[house]].
+He makes much ado before he can get suited with a boarding house.
 
 He dislikes children. He has been accustomed to quiet. His habits
 
@@ -2473,7 +2473,7 @@ therefore, who is not prepared to leave this sum in the
 
 possession of the advertisers, and who cannot furnish the most
 
-satisfactory testimonials of [[morality]]. Young gentlemen piously
+satisfactory testimonials of morality. Young gentlemen piously
 
 inclined will be preferred. Application should be made between
 
@@ -2513,7 +2513,7 @@ next month, the landlady does not present her bill, according to
 
 promise—a piece of neglect for which the comfortable head of the
 
-[[house]] ending in ogs would no [[concepts/doubt|doubt]] have chided her severely,
+house ending in ogs would no [[concepts/doubt|doubt]] have chided her severely,
 
 could he have been prevailed upon to remain in town a day or two
 
@@ -2569,7 +2569,7 @@ Durante l’assenza della signora da [[motifs/home|casa]], uno o due giorni dopo
 
 Si sente bussare alla porta del numero tal dei tal…
 
-Via principale; appare un servitore; chiedono della signora di quella [[house|casa]].
+Via principale; appare un servitore; chiedono della signora di quella casa.
 
 È stato dichiarato pubblicato… Una notizia davvero sorprendente.
 
@@ -2600,7 +2600,7 @@ Una pasta senza dubbio deliziosa.
 
 
 
-Ma poiché davvero non esiste fine alle [[Diddling|attività oziose]], quindi nemmeno in questo caso ci sarebbe fine.
+Ma poiché davvero non esiste fine alle attività oziose, quindi nemmeno in questo caso ci sarebbe fine.
 
 In questo [[forms/essay|saggio]], anche solo accennando a metà di queste variazioni, o.
 
@@ -2612,7 +2612,7 @@ Meglio di un semplice comunicato riassuntivo… molto dignitoso, ma comunque ins
 
 Un elaborato inganno, nel quale la nostra stessa [[motifs/city|città]] divenne teatro, non.
 
-Molto tempo fa, e successivamente fu ripetuto con [[success|successo]].
+Molto tempo fa, e successivamente fu ripetuto con successo.
 
 In altre ancora più verdi località dell’[[concepts/union|-Unione]]. A
 
@@ -2624,7 +2624,7 @@ Comportamento. Il suo abbigliamento è estremamente curato, ma semplice.
 
 Un sobrio abbigliamento: indossa una cravatta bianca e un gilet ampio…
 
-Con l’intento di confortare chi è [[Alone|solo]], scarpe con suole spesse e dall’aspetto confortevole.
+Con l’intento di confortare chi è solo, scarpe con suole spesse e dall’aspetto confortevole.
 
 Pantaloni senza lacci… Ha proprio quell’aspetto, insomma, tipico di…
 
@@ -2721,7 +2721,7 @@ Pertanto, chi non è disposto a lasciare questa somma…
 
 Il possesso da parte degli inserzionisti… e coloro che non riescono a fornire il massimo.
 
-Testimonianze soddisfacenti riguardo alla [[morality|moralità]]. Giovani signori, con grande devozione.
+Testimonianze soddisfacenti riguardo alla moralità. Giovani signori, con grande devozione.
 
 Titolo: Sarà preferita una volontà decisa. Le domande di partecipazione devono essere inviate entro…
 
@@ -2762,7 +2762,7 @@ Il mese prossimo, la padrona di casa non presenterà il suo conto, secondo quant
 Titolo:  
 “Promessa… un atto di negligenza per cui il capo comodo…”
 
-Una [[house|casa]] che finisse con “ogs” senza dubbio l'avrebbe rimproverata severamente.
+Una casa che finisse con “ogs” senza dubbio l'avrebbe rimproverata severamente.
 
 Potrebbe essere stato convinto a trattenersi in città per un giorno o due?
 

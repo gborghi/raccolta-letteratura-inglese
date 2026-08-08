@@ -40,4 +40,4 @@ tags:
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]], [[concepts/rationalism|Rationalism]], [[concepts/heresy-and-schism|Heresy and Schism]], [[concepts/truth|Truth]], [[concepts/development-of-doctrine|Development of Doctrine]], [[concepts/argument-from-authority|Argument from Authority]], [[concepts/history|History]]
 **Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/letters-and-writing|Letters and Writing]]
 **Historical References:** [[historical-references/h.g.-wells|H.G. Wells]], [[historical-references/darwinism|Darwinism]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]]
-**Characters:** H. G. Wells, Hilaire Belloc, Lord Salisbury
+**Characters:** [[characters/h.-g.-wells|H. G. Wells]], [[characters/hilaire-belloc|Hilaire Belloc]], [[characters/lord-salisbury|Lord Salisbury]]

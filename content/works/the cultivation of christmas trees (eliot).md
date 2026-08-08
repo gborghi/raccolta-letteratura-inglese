@@ -28,7 +28,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/childhood|Childhood]], [[motifs/fire|Fire]], [[motifs/memory|Memory]]
 **Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/faith|Faith]], [[concepts/joy|Joy]], [[concepts/maturation-and-growth|Maturation and Growth]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

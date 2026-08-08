@@ -56,7 +56,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Common Man (2), Corrupt Official, King
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/king|King]]
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/war-as-glory|War as Glory]]
 

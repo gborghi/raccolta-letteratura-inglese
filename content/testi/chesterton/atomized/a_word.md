@@ -27,14 +27,14 @@ Una parola uscì in Galilea, una parola simile a una stella;
 Salì e risuonò e benedisse e arse ovunque siano cuori arditi;  
 Parola d'improvvisa segreta [[concepts/hope|speranza]], di prova e d'accrescimento  
 D'ira e pietà fuse nel [[motifs/fire|fuoco]], e passione che bacia la pace.  
-Una stella che sul mondo delle città chiamava, una [[Sword|spada]] di fiamma;  
+Una stella che sul mondo delle città chiamava, una spada di fiamma;  
 Una stella dalla lingua di miriadi di tuoni: venne una parola possente.  
 
 Vi entrò il dardo del cuneo, il gemito dei carri di legname,  
 il tintinnio dei chiodi del [[motifs/river|fiume]], lo stridere delle pialle;  
 il martellare sui tetti all'alba, il frastuono dell'operosa officina;  
 il sibilo dei trucioli sospinti in cumuli lungo il pavimento ventoso;  
-il [[Song|canto]] sommesso del lavoratore riarso dalla calura, il ronzio dell'umano valore  
+il canto sommesso del lavoratore riarso dalla calura, il ronzio dell'umano valore  
 mescolata a tutto il rumore dei mestieri, uscì la parola risonante.  
 
 Vi entrò lo sciacquio delle reti, il macinare di sabbia e conchiglia,  
@@ -55,14 +55,14 @@ l'ira che spezzò la lampada eterna e celò l'eterno [[motifs/hill|colle]],
 Caricando la distruzione d'un mondo, la parola andò ancora avanti--  
 Vi entrò il divampare dei credi, il sibilo di fuochi orrendi,  
 la lancia impetuosa, la [[motifs/cross|croce]] scarlatta, il cilicio e i rovi,  
-il canto tonante dei confratelli claustrali, il [[Song|canto]] del campione errante,  
+il canto tonante dei confratelli claustrali, il canto del campione errante,  
 il mutare delle corone e dei troni, il groviglio dei forti.  
 
 La rovinosa caduta di cimiero e [[motifs/crown|corona]] e scudo e [[motifs/cross|croce]] e piviale,  
 lo strappo dei fronzoli del [[motifs/time|tempo]], la ruggine di principe e papa,  
 il regno di milioni cenciosi alleati a strappare un debito gravoso,  
 Fragorosa del ruggito da mille gole, la parola andò ancora avanti.  
-Vi entrò il [[Song|canto]] delle ruote, il ruggito e il fumo,  
+Vi entrò il canto delle ruote, il ruggito e il fumo,  
 l'[[forms/riddle|enigma]] del bisogno e del salario, le nebbie che bruciano e soffocano.  
 
 Lo spezzarsi delle cinghie d'oro, i bisogni che strisciano e si gonfiano,  
@@ -85,14 +85,14 @@ A word came forth in Galilee, a word like to a star;
 It climbed and rang and blessed and burnt wherever brave hearts are;  
 A word of sudden secret [[concepts/hope|hope]], of trial and increase  
 Of wrath and pity fused in [[motifs/fire|fire]], and passion kissing peace.  
-A star that o'er the citied world beckoned, a [[Sword|sword]] of flame;  
+A star that o'er the citied world beckoned, a sword of flame;  
 A star with myriad thunders tongued: a mighty word there came.  
 
 The wedge's dart passed into it, the groan of timber wains,  
 The ringing of the [[motifs/river|river]] nails, the shrieking of the planes;  
 The hammering on the roofs at morn, the busy workshop roar;  
 The hiss of shavings drifted deep along the windy floor;  
-The heat browned toiler's crooning [[Song|song]], the hum of human worth  
+The heat browned toiler's crooning song, the hum of human worth  
 Mingled of all the noise of crafts, the ringing word went forth.  
 
 The splash of nets passed into it, the grind of sand and shell,  
@@ -113,14 +113,14 @@ The wrath that brake the eternal lamp and hid the eternal [[motifs/hill|hill]],
 A world's destruction loading, the word went onward still--  
 The blaze of creeds passed into it, the hiss of horrid fires,  
 The headlong spear, the scarlet [[motifs/cross|cross]], the hair-shirt and the briars,  
-The cloistered brethren's thunderous chaunt, the errant champion's [[Song|song]],  
+The cloistered brethren's thunderous chaunt, the errant champion's song,  
 The shifting of the crowns and thrones, the tangle of the strong.  
 
 The shattering fall of crest and [[motifs/crown|crown]] and shield and [[motifs/cross|cross]] and cope,  
 The tearing of the gauds of [[motifs/time|time]], the blight of prince and pope,  
 The reign of ragged millions leagued to wrench a loaded debt,  
 Loud with the many-throated roar, the word went forward yet.  
-The [[Song|song]] of wheels passed into it, the roaring and the smoke,  
+The song of wheels passed into it, the roaring and the smoke,  
 The [[forms/riddle|riddle]] of the want and wage, the fogs that burn and choke.  
 
 The breaking of the girths of gold, the needs that creep and swell,  
@@ -141,14 +141,14 @@ Una parola uscì in Galilea, una parola simile a una stella;
 Salì e risuonò e benedisse e arse ovunque siano cuori arditi;  
 Parola d'improvvisa segreta [[concepts/hope|speranza]], di prova e d'accrescimento  
 D'ira e pietà fuse nel [[motifs/fire|fuoco]], e passione che bacia la pace.  
-Una stella che sul mondo delle città chiamava, una [[Sword|spada]] di fiamma;  
+Una stella che sul mondo delle città chiamava, una spada di fiamma;  
 Una stella dalla lingua di miriadi di tuoni: venne una parola possente.  
 
 Vi entrò il dardo del cuneo, il gemito dei carri di legname,  
 il tintinnio dei chiodi del [[motifs/river|fiume]], lo stridere delle pialle;  
 il martellare sui tetti all'alba, il frastuono dell'operosa officina;  
 il sibilo dei trucioli sospinti in cumuli lungo il pavimento ventoso;  
-il [[Song|canto]] sommesso del lavoratore riarso dalla calura, il ronzio dell'umano valore  
+il canto sommesso del lavoratore riarso dalla calura, il ronzio dell'umano valore  
 mescolata a tutto il rumore dei mestieri, uscì la parola risonante.  
 
 Vi entrò lo sciacquio delle reti, il macinare di sabbia e conchiglia,  
@@ -169,14 +169,14 @@ l'ira che spezzò la lampada eterna e celò l'eterno [[motifs/hill|colle]],
 Caricando la distruzione d'un mondo, la parola andò ancora avanti--  
 Vi entrò il divampare dei credi, il sibilo di fuochi orrendi,  
 la lancia impetuosa, la [[motifs/cross|croce]] scarlatta, il cilicio e i rovi,  
-il canto tonante dei confratelli claustrali, il [[Song|canto]] del campione errante,  
+il canto tonante dei confratelli claustrali, il canto del campione errante,  
 il mutare delle corone e dei troni, il groviglio dei forti.  
 
 La rovinosa caduta di cimiero e [[motifs/crown|corona]] e scudo e [[motifs/cross|croce]] e piviale,  
 lo strappo dei fronzoli del [[motifs/time|tempo]], la ruggine di principe e papa,  
 il regno di milioni cenciosi alleati a strappare un debito gravoso,  
 Fragorosa del ruggito da mille gole, la parola andò ancora avanti.  
-Vi entrò il [[Song|canto]] delle ruote, il ruggito e il fumo,  
+Vi entrò il canto delle ruote, il ruggito e il fumo,  
 l'[[forms/riddle|enigma]] del bisogno e del salario, le nebbie che bruciano e soffocano.  
 
 Lo spezzarsi delle cinghie d'oro, i bisogni che strisciano e si gonfiano,  

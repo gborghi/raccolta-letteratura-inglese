@@ -74,11 +74,11 @@ tags:
 - [[works/our-mutual-friend-(dickens)|Our Mutual Friend (Dickens)]]
 - [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 1170. Nature affects to be sedate (Dickinson)
-- 1207. He preached upon Breadth till it argued him narrow — (Dickinson)
-- 1239. Risk is the Hair that holds the Tun (Dickinson)
-- 1453. A Counterfeit — a Plated Person — (Dickinson)
-- 896. Of Silken Speech and Specious Shoe (Dickinson)
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1170_nature_affects_to_be_sedate|1170. Nature affects to be sedate (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1207_he_preached_upon_breadth_till_it_argued_him_narrow|1207. He preached upon Breadth till it argued him narrow — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1239_risk_is_the_hair_that_holds_the_tun|1239. Risk is the Hair that holds the Tun (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#1453_a_counterfeit_a_plated_person|1453. A Counterfeit — a Plated Person — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0896_of_silken_speech_and_specious_shoe|896. Of Silken Speech and Specious Shoe (Dickinson)]]
 - [[works/the-confidential-clerk-(eliot)|THE CONFIDENTIAL CLERK (Eliot)]]
 - [[works/otho-the-great-(keats)|Otho the Great (Keats)]]
 - [[works/a-tale-of-jerusalem-(poe)|A Tale of Jerusalem (Poe)]]
@@ -106,20 +106,20 @@ tags:
 - [[works/much-ado-about-nothing-(shakespeare)|MUCH ADO ABOUT NOTHING (Shakespeare)]]
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
 - [[works/richard-iii-(shakespeare)|RICHARD III (Shakespeare)]]
-- Sonnet 114 (Shakespeare)
-- Sonnet 127 (Shakespeare)
-- Sonnet 134 (Shakespeare)
-- Sonnet 137 (Shakespeare)
-- Sonnet 138 (Shakespeare)
-- Sonnet 140 (Shakespeare)
-- Sonnet 147 (Shakespeare)
-- Sonnet 148 (Shakespeare)
-- Sonnet 152 (Shakespeare)
-- Sonnet 67 (Shakespeare)
-- Sonnet 68 (Shakespeare)
-- Sonnet 69 (Shakespeare)
-- Sonnet 92 (Shakespeare)
-- Sonnet 93 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_114|Sonnet 114 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_127|Sonnet 127 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_134|Sonnet 134 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_137|Sonnet 137 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_138|Sonnet 138 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_140|Sonnet 140 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_147|Sonnet 147 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_148|Sonnet 148 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_152|Sonnet 152 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_067|Sonnet 67 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_068|Sonnet 68 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_069|Sonnet 69 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_092|Sonnet 92 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_093|Sonnet 93 (Shakespeare)]]
 - [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
 - [[works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)|THE FIRST PART OF THE CONTENTION - (2 HENRY VI) (Shakespeare)]]
 - [[works/the-history-of-king-lear---the-quarto-text-(shakespeare)|THE HISTORY OF KING LEAR - THE QUARTO TEXT (Shakespeare)]]

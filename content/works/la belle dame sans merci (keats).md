@@ -27,7 +27,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** Femme Fatale
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]]
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/supernatural|Supernatural]], [[motifs/seasons|Seasons]], [[motifs/rose|Rose]]
 **Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/temptation|Temptation]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]

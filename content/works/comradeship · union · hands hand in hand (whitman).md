@@ -44,8 +44,8 @@ Raccolta tematica di 34 componimenti di Walt Whitman.
 - [[works/city-of-orgies-(whitman)|City of Orgies]]
 - [[works/fast-anchor’d-eternal-o-love!-(whitman)|Fast Anchor’d Eternal O Love!]]
 - [[works/full-of-life-now-(whitman)|Full of Life Now]]
-- Here the Frailest Leaves of Me
-- I Am He That Aches with Love
+- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#067_here_the_frailest_leaves_of_me|Here the Frailest Leaves of Me]]
+- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#037_i_am_he_that_aches_with_love|I Am He That Aches with Love]]
 - [[works/i-dream’d-in-a-dream-(whitman)|I Dream’d in a Dream]]
 - [[works/i-hear-it-was-charged-against-me-(whitman)|I Hear It Was Charged Against Me]]
 - [[works/i-saw-in-louisiana-a-live-oak-growing-(whitman)|I Saw in Louisiana a Live-Oak Growing]]
@@ -56,7 +56,7 @@ Raccolta tematica di 34 componimenti di Walt Whitman.
 - [[works/o-tan-faced-prairie-boy-(whitman)|O Tan-Faced Prairie-Boy]]
 - [[works/o-you-whom-i-often-and-silently-come-(whitman)|O You Whom I Often and Silently Come]]
 - [[works/of-the-terrible-doubt-of-appearances-(whitman)|Of the Terrible Doubt of Appearances]]
-- Offerings
+- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#140_offerings|Offerings]]
 - [[works/over-the-carnage-rose-prophetic-a-voice-(whitman)|Over the Carnage Rose Prophetic a Voice]]
 - [[works/recorders-ages-hence-(whitman)|Recorders Ages Hence]]
 - [[works/sometimes-with-one-i-love-(whitman)|Sometimes with One I Love]]
@@ -65,7 +65,7 @@ Raccolta tematica di 34 componimenti di Walt Whitman.
 - [[works/this-moment-yearning-and-thoughtful-(whitman)|This Moment Yearning and Thoughtful]]
 - [[works/to-a-western-boy-(whitman)|To a Western Boy]]
 - [[works/to-the-east-and-to-the-west-(whitman)|To the East and to the West]]
-- To You (Stranger, if you passing meet me)
+- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#023_to_you|To You (Stranger, if you passing meet me)]]
 - [[works/we-two-boys-together-clinging-(whitman)|We Two Boys Together Clinging]]
 - [[works/what-think-you-i-take-my-pen-in-hand-(whitman)|What Think You I Take My Pen in Hand?]]
 - [[works/when-i-heard-at-the-close-of-the-day-(whitman)|When I Heard at the Close of the Day]]

@@ -27,7 +27,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
 **Themes & Concepts:** [[concepts/self-knowledge|Self-Knowledge]], [[concepts/grotesque|Grotesque]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/immortality|Immortality]], [[concepts/common-man|Common Man]]
 

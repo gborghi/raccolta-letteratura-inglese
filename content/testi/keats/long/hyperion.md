@@ -84,7 +84,7 @@ And ocean too, with all its solemn noise,
 Has from thy sceptre pass’d; and all the air  
 Is emptied of thine hoary majesty.  
 Thy thunder, conscious of the new command,  60  
-Rumbles reluctant o’er our fallen [[house]];  
+Rumbles reluctant o’er our fallen house;  
 And thy sharp [[motifs/lightning|lightning]] in unpractised hands  
 Scorches and burns our once serene domain.  
 O aching [[motifs/time|time]]! O moments big as years!  
@@ -176,7 +176,7 @@ The [[archetypes/rebel|rebel]] three.--Thea was startled up,
 And in her bearing was a sort of [[concepts/hope|hope]],  
 As thus she quick-voic’d spake, yet full of awe.  
 
-“This cheers our fallen [[house]]: come to our friends, 150  
+“This cheers our fallen house: come to our friends, 150  
 O [[characters/saturn|Saturn]]! come away, and give them heart;  
 I know the covert, for thence came I hither.”  
 Thus brief; then with beseeching eyes she went  
@@ -498,7 +498,7 @@ First onwards in, among the fallen tribe.  100
 
 As with us mortal men, the laden heart  
 Is persecuted more, and fever’d more,  
-When it is nighing to the mournful [[house]]  
+When it is nighing to the mournful house  
 Where other hearts are sick of the same bruise;  
 So [[characters/saturn|Saturn]], as he walk’d into the midst,  
 Felt faint, and would have sunk among the rest,  
@@ -666,7 +666,7 @@ Full of calm joy it was, as I of grief;
 Too full of joy and soft delicious warmth;  
 So that I felt a movement in my heart  
 To chide, and to reproach that [[concepts/solitude|solitude]]  
-With [[songs]] of misery, music of our woes;  
+With songs of misery, music of our woes;  
 And sat me down, and took a mouthed shell  270  
 And murmur’d into it, and made melody--  
 O melody no more! for while I sang,  
@@ -825,7 +825,7 @@ Blush keenly, as with some warm kiss surpris’d.
 Chief isle of the embowered Cyclades,  
 Rejoice, O Delos, with thine olives green,  
 And poplars, and lawn-shading palms, and beech,  
-In which the Zephyr breathes the loudest [[Song|song]],  
+In which the Zephyr breathes the loudest song,  
 And hazels thick, dark-stemm’d beneath the shade:  
 [[characters/apollo|Apollo]] is once more the golden theme!  
 Where was he, when the Giant of the Sun  
@@ -853,7 +853,7 @@ Perplex’d, the while melodiously he said:
 Or hath that antique mien and robed form  
 Mov’d in these vales invisible till now?  
 Sure I have heard those vestments sweeping o’er  
-The fallen [[motifs/leaves|leaves]], when I have sat [[Alone|alone]]  
+The fallen [[motifs/leaves|leaves]], when I have sat alone  
 In cool mid-forest. Surely I have traced  
 The rustle of those ample skirts about  
 These grassy solitudes, and seen the [[motifs/flowers|flowers]]  

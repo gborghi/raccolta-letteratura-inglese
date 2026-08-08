@@ -54,7 +54,7 @@ con l'introduzione di un essere mitico che perfino lo scrittore
 considera un mito. Il lettore deve restare impressionato e ingannato
 dalla visione di una vasta dea di pietra assisa su un trono montano,
 che addita una particolare rana o coniglio dicendo, con tono di tuono,
-che questa [[Alone|sola]] deve sopravvivere. Tutto ciò che sappiamo è che sopravvive
+che questa sola deve sopravvivere. Tutto ciò che sappiamo è che sopravvive
 (per il momento), e poi ci [[concepts/pride|vantiamo]] di essere capaci
 di ripetere il mero fatto che sopravvive in una cinquantina
 di espressioni variopinte e fiorite: come che ha valore di [[concepts/survival|sopravvivenza]];
@@ -74,7 +74,7 @@ Il caso particolare in cui questa metafora mitologica fu usata è
 naturalmente un'altra faccenda. È, invero, una faccenda che ha coinvolto
 in varie epoche una gran quantità di questo elemento di mitologia materialista.
 Per vedere quale [[concepts/truth|verità]] vi fosse davvero dentro dovremmo risalire al vecchio
-[[debate|dibattito]] darwiniano; cosa che non ho la minima intenzione di fare qui.
+dibattito darwiniano; cosa che non ho la minima intenzione di fare qui.
 Ma posso osservare, di passaggio, che questa nozione della [[concepts/nature|Natura]] che seleziona
 le cose è specialmente incompatibile con tutto ciò che si può davvero dire
 a favore della loro stessa tesi; e che il nome stesso di selezione naturale
@@ -134,7 +134,7 @@ Né provo alcun disprezzo neppure per la mitologia considerata come mitologia.
 Ma quando vogliamo sapere ciò che qualcuno vuole fare, quando
 chiediamo a un libero pensatore cosa pensa, e perché lo pensa, è
 un po' fastidioso sentirsi dire che sta aspettando l'[[motifs/dawn|Alba]],
-o che è al momento intento a cantare [[songs|Songs]] Before Sunrise.
+o che è al momento intento a cantare Songs Before Sunrise.
 [Nota 1] Si è tentati di ribattere che l'[[motifs/dawn|alba]] non è sempre
 una cosa del tutto lieta, anche per coloro che hanno esercitato il loro
 libero pensiero sulla tradizione convenzionale della propria società.
@@ -149,7 +149,7 @@ ad astenerci da tutto tranne che dai termini astratti. Mettiamoci tutti d'accord
 che ogni venerdì faremo a meno delle metafore come della carne.
 Sono certo che gioverebbe alla digestione intellettuale.
 
-Nota 1: Questo è il titolo di una raccolta di [[Poems|poesie]] di Swinburne
+Nota 1: Questo è il titolo di una raccolta di poesie di Swinburne
 (1871) di forte impronta politica.
 
 === Fine ===
@@ -196,7 +196,7 @@ by the introduction of a mythical being whom even the writer
 regards as a myth.  The reader is to be impressed and deluded
 by the vision of a vast stone goddess sitting on a mountain throne,
 and pointing at a particular frog or rabbit saying, in tones of thunder,
-that this [[Alone|alone]] is to survive.  All we know is that it does survive
+that this alone is to survive.  All we know is that it does survive
 (for the moment), and then we [[concepts/pride|pride]] ourselves on being able
 to repeat the mere fact that it does survive in half a hundred
 variegated and flowery expressions:  as that it has [[concepts/survival|survival]] value;
@@ -216,7 +216,7 @@ The particular case in which this mythological metaphor was used is
 of course another matter.  It is, indeed, a matter which has involved
 at various times a great deal of this element of materialist mythology.
 To see what [[concepts/truth|truth]] was really in it we should have to go back to the old
-Darwinian [[debate]]; which I have not the least intention of doing here.
+Darwinian debate; which I have not the least intention of doing here.
 But I may observe, in passing, that this notion of [[concepts/nature|Nature]] selecting
 things is specially incompatible with all that can really be said
 for their own case; and that the very name of natural selection
@@ -279,7 +279,7 @@ con l'introduzione di un essere mitico che perfino lo scrittore
 considera un mito. Il lettore deve restare impressionato e ingannato
 dalla visione di una vasta dea di pietra assisa su un trono montano,
 che addita una particolare rana o coniglio dicendo, con tono di tuono,
-che questa [[Alone|sola]] deve sopravvivere. Tutto ciò che sappiamo è che sopravvive
+che questa sola deve sopravvivere. Tutto ciò che sappiamo è che sopravvive
 (per il momento), e poi ci [[concepts/pride|vantiamo]] di essere capaci
 di ripetere il mero fatto che sopravvive in una cinquantina
 di espressioni variopinte e fiorite: come che ha valore di [[concepts/survival|sopravvivenza]];
@@ -299,7 +299,7 @@ Il caso particolare in cui questa metafora mitologica fu usata è
 naturalmente un'altra faccenda. È, invero, una faccenda che ha coinvolto
 in varie epoche una gran quantità di questo elemento di mitologia materialista.
 Per vedere quale [[concepts/truth|verità]] vi fosse davvero dentro dovremmo risalire al vecchio
-[[debate|dibattito]] darwiniano; cosa che non ho la minima intenzione di fare qui.
+dibattito darwiniano; cosa che non ho la minima intenzione di fare qui.
 Ma posso osservare, di passaggio, che questa nozione della [[concepts/nature|Natura]] che seleziona
 le cose è specialmente incompatibile con tutto ciò che si può davvero dire
 a favore della loro stessa tesi; e che il nome stesso di selezione naturale
@@ -364,7 +364,7 @@ Nor have I any contempt even for mythology considered mythology.
 But when we want to know what somebody wants to do, when we
 ask a free-thinker what he thinks, and why he thinks it, it is
 a little tiresome to be told that he is waiting for the [[motifs/dawn|Dawn]],
-or engaged at the moment in singing [[songs|Songs]] Before Sunrise.
+or engaged at the moment in singing Songs Before Sunrise.
 [Footnote 1] One is tempted to retort that [[motifs/dawn|Dawn]] is not always
 an entirely cheerful thing, even for those who have exercised their
 free thought upon the conventional tradition of their own society.
@@ -379,7 +379,7 @@ to abstain from everything but abstract terms, Let us all agree
 that every Friday we will do without metaphors as without meat.
 I am sure it would be good for the intellectual digestion.
 
-Footnote 1:  This is the title of a collection of Swinburne's [[Poems|poems]]
+Footnote 1:  This is the title of a collection of Swinburne's poems
 (1871) with a strongly political cast.
 
 === End ===
@@ -424,7 +424,7 @@ Né provo alcun disprezzo neppure per la mitologia considerata come mitologia.
 Ma quando vogliamo sapere ciò che qualcuno vuole fare, quando
 chiediamo a un libero pensatore cosa pensa, e perché lo pensa, è
 un po' fastidioso sentirsi dire che sta aspettando l'[[motifs/dawn|Alba]],
-o che è al momento intento a cantare [[songs|Songs]] Before Sunrise.
+o che è al momento intento a cantare Songs Before Sunrise.
 [Nota 1] Si è tentati di ribattere che l'[[motifs/dawn|alba]] non è sempre
 una cosa del tutto lieta, anche per coloro che hanno esercitato il loro
 libero pensiero sulla tradizione convenzionale della propria società.
@@ -439,7 +439,7 @@ ad astenerci da tutto tranne che dai termini astratti. Mettiamoci tutti d'accord
 che ogni venerdì faremo a meno delle metafore come della carne.
 Sono certo che gioverebbe alla digestione intellettuale.
 
-Nota 1: Questo è il titolo di una raccolta di [[Poems|poesie]] di Swinburne
+Nota 1: Questo è il titolo di una raccolta di poesie di Swinburne
 (1871) di forte impronta politica.
 
 === Fine ===

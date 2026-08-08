@@ -38,7 +38,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Common Man (2)
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
 **Motifs:** [[motifs/animals|Animals]], [[motifs/fire|Fire]], [[motifs/home|Home]], [[motifs/book-reading|Book Reading]]
 **Themes & Concepts:** [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/friendship|Friendship]], [[concepts/identity|Identity]], [[concepts/paradox|Paradox]], [[concepts/common-man|Common Man]]

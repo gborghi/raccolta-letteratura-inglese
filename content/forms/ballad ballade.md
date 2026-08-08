@@ -50,12 +50,12 @@ tags:
 - [[works/the-rime-of-the-ancient-mariner-(coleridge)|THE RIME OF THE ANCIENT MARINER (Coleridge)]]
 - [[works/the-three-graves-(coleridge)|THE THREE GRAVES (Coleridge)]]
 - [[works/the-two-round-spaces-on-the-tombstone-(coleridge)|THE TWO ROUND SPACES ON THE TOMBSTONE (Coleridge)]]
-- 142. Whose are the little beds, I asked (Dickinson)
-- 166. I met a King this afternoon! (Dickinson)
-- 1749. The waters chased him as he fled, (Dickinson)
-- 1757. Upon the gallows hung a wretch, (Dickinson)
-- 289. I know some lonely Houses off the Road (Dickinson)
-- 619. Glee — The great storm is over — (Dickinson)
+- [[testi/dickinson/atomized/flowers-spring-garden#0142_whose_are_the_little_beds_i_asked|142. Whose are the little beds, I asked (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0166_i_met_a_king_this_afternoon|166. I met a King this afternoon! (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1749_the_waters_chased_him_as_he_fled|1749. The waters chased him as he fled, (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1757_upon_the_gallows_hung_a_wretch|1757. Upon the gallows hung a wretch, (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0289_i_know_some_lonely_houses_off_the_road|289. I know some lonely Houses off the Road (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0619_glee_the_great_storm_is_over|619. Glee — The great storm is over — (Dickinson)]]
 - [[works/a-galloway-song-(keats)|A Galloway Song (Keats)]]
 - [[works/la-belle-dame-sans-merci-(keats)|La Belle Dame Sans Merci (Keats)]]
 - [[works/meg-merrilies-(keats)|Meg Merrilies (Keats)]]

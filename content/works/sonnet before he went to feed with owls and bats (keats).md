@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** King, Prophet
+**Archetypes:** [[archetypes/king|King]], [[archetypes/prophet|Prophet]]
 **Motifs:** [[motifs/dreams|Dreams]], [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/madness|Madness]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]], [[forms/satire|Satire]]

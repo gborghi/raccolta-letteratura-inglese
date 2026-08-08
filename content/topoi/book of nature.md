@@ -36,92 +36,92 @@ tags:
 - [[works/the-netherlands-(coleridge)|THE NETHERLANDS (Coleridge)]]
 - [[works/this-lime-tree-bower-my-prison-(coleridge)|THIS LIME-TREE BOWER MY PRISON (Coleridge)]]
 - [[works/to-nature-(coleridge)|TO NATURE (Coleridge)]]
-- 100. A science — so the Savants say, (Dickinson)
-- 1058. Bloom — is Result — to meet a Flower (Dickinson)
-- 1068. Further in Summer than the Birds (Dickinson)
-- 1077. These are the Signs to Nature's Inns — (Dickinson)
-- 1079. The Sun went down — no Man looked on — (Dickinson)
-- 1097. Dew — is the Freshet in the Grass — (Dickinson)
-- 1115. The murmuring of Bees, has ceased (Dickinson)
-- 1137. The duties of the Wind are few, (Dickinson)
-- 1170. Nature affects to be sedate (Dickinson)
-- 1173. The Lightning is a yellow Fork (Dickinson)
-- 1177. A prompt — executive Bird is the Jay — (Dickinson)
-- 1241. The Lilac is an ancient shrub (Dickinson)
-- 1265. The most triumphant Bird I ever knew or met (Dickinson)
-- 1271. September's Baccalaureate (Dickinson)
-- 1275. The Spider as an Artist (Dickinson)
-- 1278. The Mountains stood in Haze — (Dickinson)
-- 1279. The Way to know the Bobolink (Dickinson)
-- 128. Bring me the sunset in a cup, (Dickinson)
-- 1281. A stagnant pleasure like a Pool (Dickinson)
-- 1286. I thought that nature was enough (Dickinson)
-- 1298. The Mushroom is the Elf of Plants — (Dickinson)
-- 1302. I think that the Root of the Wind is Water — (Dickinson)
-- 1388. Those cattle smaller than a Bee (Dickinson)
-- 140. An altered look about the hills — (Dickinson)
-- 1405. Bees are Black, with Gilt Surcingles — (Dickinson)
-- 143. For every Bird a Nest — (Dickinson)
-- 1448. How soft a Caterpillar steps — (Dickinson)
-- 152. The Sun kept stooping — stooping — low! (Dickinson)
-- 155. The Murmur of a Bee (Dickinson)
-- 1570. Forever honored by the Tree (Dickinson)
-- 1586. To her derided Home (Dickinson)
-- 1589. Cosmopolities without a plea (Dickinson)
-- 1606. Quite empty, quite at rest, (Dickinson)
-- 1634. Talk not to me of Summer Trees (Dickinson)
-- 1642. Red Sea, indeed! Talk not to me (Dickinson)
-- 1650. A lane of Yellow led the eye (Dickinson)
-- 168. If the foolish, call them flowers — (Dickinson)
-- 173. A fuzzy fellow, without feet, (Dickinson)
-- 1746. The most important population (Dickinson)
-- 1748. The reticent volcano keeps (Dickinson)
-- 1775. The earth has many keys, (Dickinson)
-- 191. The Skies can't keep their secret! (Dickinson)
-- 206. The Flower must not blame the Bee — (Dickinson)
-- 290. Of Bronze — and Blaze — (Dickinson)
-- 308. I send Two Sunsets — (Dickinson)
-- 314. Nature — sometimes sears a Sapling — (Dickinson)
-- 318. I'll tell you how the Sun rose — (Dickinson)
-- 324. Some keep the Sabbath going to Church — (Dickinson)
-- 328. A Bird came down the Walk — (Dickinson)
-- 332. There are two Ripenings — one — of sight — (Dickinson)
-- 416. A Murmur in the Trees — to note — (Dickinson)
-- 436. The Wind — tapped like a tired Man — (Dickinson)
-- 441. This is my letter to the World (Dickinson)
-- 442. God made a little Gentian — (Dickinson)
-- 552. An ignorance a Sunset (Dickinson)
-- 554. The Black Berry — wears a Thorn in his side — (Dickinson)
-- 557. She hideth Her the last — (Dickinson)
-- 574. My first well Day — since many ill — (Dickinson)
-- 575. Heaven has different Signs — to me — (Dickinson)
-- 6. Frequently the woods are pink (Dickinson)
-- 60. Like her the Saints retire, (Dickinson)
-- 620. It makes no difference abroad — (Dickinson)
-- 628. They called me to the Window, for (Dickinson)
-- 629. I watched the Moon around the House (Dickinson)
-- 630. The Lightning playeth — all the while — (Dickinson)
-- 634. You'll know Her — by Her Foot — (Dickinson)
-- 656. The name — of it — is Autumn — (Dickinson)
-- 667. Bloom upon the Mountain — stated — (Dickinson)
-- 668. Nature is what we see — (Dickinson)
-- 716. The Day undressed — Herself — (Dickinson)
-- 722. Sweet Mountains — Ye tell Me no lie — (Dickinson)
-- 742. Four Trees — upon a solitary Acre — (Dickinson)
-- 750. Growth of Man — like Growth of Nature — (Dickinson)
-- 757. The Mountains — grow unnoticed — (Dickinson)
-- 766. My Faith is larger than the Hills — (Dickinson)
-- 783. The Birds begun at Four o'clock — (Dickinson)
-- 790. Nature — the Gentlest Mother is, (Dickinson)
-- 797. By my Window have I for Scenery (Dickinson)
-- 811. The Veins of other Flowers (Dickinson)
-- 812. A Light exists in Spring (Dickinson)
-- 848. Just as He spoke it from his Hands (Dickinson)
-- 891. To my quick ear the Leaves — conferred — (Dickinson)
-- 94. Angels, in the early morning (Dickinson)
-- 97. The rainbow never tells me (Dickinson)
-- 975. The Mountain sat upon the Plain (Dickinson)
-- 987. The Leaves like Women interchange (Dickinson)
+- [[testi/dickinson/atomized/flowers-spring-garden#0100_a_science_so_the_savants_say|100. A science — so the Savants say, (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#1058_bloom_is_result_to_meet_a_flower|1058. Bloom — is Result — to meet a Flower (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1068_further_in_summer_than_the_birds|1068. Further in Summer than the Birds (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1077_these_are_the_signs_to_natures_inns|1077. These are the Signs to Nature's Inns — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1079_the_sun_went_down_no_man_looked_on|1079. The Sun went down — no Man looked on — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1097_dew_is_the_freshet_in_the_grass|1097. Dew — is the Freshet in the Grass — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1115_the_murmuring_of_bees_has_ceased|1115. The murmuring of Bees, has ceased (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1137_the_duties_of_the_wind_are_few|1137. The duties of the Wind are few, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1170_nature_affects_to_be_sedate|1170. Nature affects to be sedate (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1173_the_lightning_is_a_yellow_fork|1173. The Lightning is a yellow Fork (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1177_a_prompt_executive_bird_is_the_jay|1177. A prompt — executive Bird is the Jay — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1241_the_lilac_is_an_ancient_shrub|1241. The Lilac is an ancient shrub (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1265_the_most_triumphant_bird_i_ever_knew_or_met|1265. The most triumphant Bird I ever knew or met (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1271_septembers_baccalaureate|1271. September's Baccalaureate (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#1275_the_spider_as_an_artist|1275. The Spider as an Artist (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1278_the_mountains_stood_in_haze|1278. The Mountains stood in Haze — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1279_the_way_to_know_the_bobolink|1279. The Way to know the Bobolink (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0128_bring_me_the_sunset_in_a_cup|128. Bring me the sunset in a cup, (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1281_a_stagnant_pleasure_like_a_pool|1281. A stagnant pleasure like a Pool (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1286_i_thought_that_nature_was_enough|1286. I thought that nature was enough (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1298_the_mushroom_is_the_elf_of_plants|1298. The Mushroom is the Elf of Plants — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1302_i_think_that_the_root_of_the_wind_is_water|1302. I think that the Root of the Wind is Water — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1388_those_cattle_smaller_than_a_bee|1388. Those cattle smaller than a Bee (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0140_an_altered_look_about_the_hills|140. An altered look about the hills — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1405_bees_are_black_with_gilt_surcingles|1405. Bees are Black, with Gilt Surcingles — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0143_for_every_bird_a_nest|143. For every Bird a Nest — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1448_how_soft_a_caterpillar_steps|1448. How soft a Caterpillar steps — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0152_the_sun_kept_stooping_stooping_low|152. The Sun kept stooping — stooping — low! (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0155_the_murmur_of_a_bee|155. The Murmur of a Bee (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1570_forever_honored_by_the_tree|1570. Forever honored by the Tree (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#1586_to_her_derided_home|1586. To her derided Home (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1589_cosmopolities_without_a_plea|1589. Cosmopolities without a plea (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1606_quite_empty_quite_at_rest|1606. Quite empty, quite at rest, (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1634_talk_not_to_me_of_summer_trees|1634. Talk not to me of Summer Trees (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1642_red_sea_indeed_talk_not_to_me|1642. Red Sea, indeed! Talk not to me (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1650_a_lane_of_yellow_led_the_eye|1650. A lane of Yellow led the eye (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0168_if_the_foolish_call_them_flowers|168. If the foolish, call them flowers — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0173_a_fuzzy_fellow_without_feet|173. A fuzzy fellow, without feet, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1746_the_most_important_population|1746. The most important population (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1748_the_reticent_volcano_keeps|1748. The reticent volcano keeps (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1775_the_earth_has_many_keys|1775. The earth has many keys, (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0191_the_skies_cant_keep_their_secret|191. The Skies can't keep their secret! (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0206_the_flower_must_not_blame_the_bee|206. The Flower must not blame the Bee — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0290_of_bronze_and_blaze|290. Of Bronze — and Blaze — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0308_i_send_two_sunsets|308. I send Two Sunsets — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0314_nature_sometimes_sears_a_sapling|314. Nature — sometimes sears a Sapling — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0318_ill_tell_you_how_the_sun_rose|318. I'll tell you how the Sun rose — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0324_some_keep_the_sabbath_going_to_church|324. Some keep the Sabbath going to Church — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0328_a_bird_came_down_the_walk|328. A Bird came down the Walk — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0332_there_are_two_ripenings_one_of_sight|332. There are two Ripenings — one — of sight — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0416_a_murmur_in_the_trees_to_note|416. A Murmur in the Trees — to note — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0436_the_wind_tapped_like_a_tired_man|436. The Wind — tapped like a tired Man — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0441_this_is_my_letter_to_the_world|441. This is my letter to the World (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0442_god_made_a_little_gentian|442. God made a little Gentian — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0552_an_ignorance_a_sunset|552. An ignorance a Sunset (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0554_the_black_berry_wears_a_thorn_in_his_side|554. The Black Berry — wears a Thorn in his side — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0557_she_hideth_her_the_last|557. She hideth Her the last — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0574_my_first_well_day_since_many_ill|574. My first well Day — since many ill — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0575_heaven_has_different_signs_to_me|575. Heaven has different Signs — to me — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0006_frequently_the_woods_are_pink|6. Frequently the woods are pink (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0060_like_her_the_saints_retire|60. Like her the Saints retire, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0620_it_makes_no_difference_abroad|620. It makes no difference abroad — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0628_they_called_me_to_the_window_for|628. They called me to the Window, for (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0629_i_watched_the_moon_around_the_house|629. I watched the Moon around the House (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0630_the_lightning_playeth_all_the_while|630. The Lightning playeth — all the while — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0634_youll_know_her_by_her_foot|634. You'll know Her — by Her Foot — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0656_the_name_of_it_is_autumn|656. The name — of it — is Autumn — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0667_bloom_upon_the_mountain_stated|667. Bloom upon the Mountain — stated — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0668_nature_is_what_we_see|668. Nature is what we see — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0716_the_day_undressed_herself|716. The Day undressed — Herself — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0722_sweet_mountains_ye_tell_me_no_lie|722. Sweet Mountains — Ye tell Me no lie — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0742_four_trees_upon_a_solitary_acre|742. Four Trees — upon a solitary Acre — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0750_growth_of_man_like_growth_of_nature|750. Growth of Man — like Growth of Nature — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0757_the_mountains_grow_unnoticed|757. The Mountains — grow unnoticed — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0766_my_faith_is_larger_than_the_hills|766. My Faith is larger than the Hills — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0783_the_birds_begun_at_four_oclock|783. The Birds begun at Four o'clock — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0790_nature_the_gentlest_mother_is|790. Nature — the Gentlest Mother is, (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0797_by_my_window_have_i_for_scenery|797. By my Window have I for Scenery (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0811_the_veins_of_other_flowers|811. The Veins of other Flowers (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0812_a_light_exists_in_spring|812. A Light exists in Spring (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0848_just_as_he_spoke_it_from_his_hands|848. Just as He spoke it from his Hands (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0891_to_my_quick_ear_the_leaves_conferred|891. To my quick ear the Leaves — conferred — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0094_angels_in_the_early_morning|94. Angels, in the early morning (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0097_the_rainbow_never_tells_me|97. The rainbow never tells me (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0975_the_mountain_sat_upon_the_plain|975. The Mountain sat upon the Plain (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0987_the_leaves_like_women_interchange|987. The Leaves like Women interchange (Dickinson)]]
 - [[works/on-the-grasshopper-and-cricket-(keats)|ON THE GRASSHOPPER AND CRICKET (Keats)]]
 - [[works/sonnet-on-leigh-hunt’s-poem-‘the-story-of-rimini’-(keats)|Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’ (Keats)]]
 - [[works/sonnet-to-spenser-(keats)|Sonnet to Spenser (Keats)]]

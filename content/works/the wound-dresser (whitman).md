@@ -33,7 +33,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/comradeship|Comradeship]], [[concepts/memory-and-time|Memory and Time]], [[concepts/divine-love|Divine Love]]
 **Historical References:** [[historical-references/american-civil-war|American Civil War]]

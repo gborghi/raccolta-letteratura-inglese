@@ -163,7 +163,7 @@ My [[motifs/soul|soul]]; that I may dare, in wayfaring,
 To stammer where old Chaucer used to sing.  
 
 Leading the way, young damsels danced along,  
-Bearing the burden of a shepherd [[Song|song]];  
+Bearing the burden of a shepherd song;  
 Each having a white wicker over brimm’d  
 With April’s tender younglings: next, [[motifs/well|well]] trimm’d,  
 A crowd of shepherds with as sunburnt looks  
@@ -193,7 +193,7 @@ Of shepherds, lifting in due [[motifs/time|time]] aloud
 Their share of the ditty. After them appear’d,  
 Up-followed by a multitude that rear’d  
 Their voices to the clouds, a fair wrought car,  
-Easily [[rolling]] so as scarce to mar  
+Easily rolling so as scarce to mar  
 The [[concepts/freedom|freedom]] of three steeds of dapple brown:  
 Who stood therein did seem of great renown  
 Among the throng. His youth was fully blown,  
@@ -249,7 +249,7 @@ Green’d over April’s lap? No howling sad
 Sickens our fearful ewes; and we have had  
 Great bounty from [[characters/endymion|Endymion]] our lord.  
 The earth is glad: the merry lark has pour’d  220  
-His early [[Song|song]] against yon breezy sky,  
+His early song against yon breezy sky,  
 That spreads so clear o’er our solemnity.”  
 
 Thus ending, on the shrine he heap’d a spire  
@@ -287,7 +287,7 @@ Broad leaved fig trees even now foredoom
 Their ripen’d fruitage; yellow girted [[motifs/bees|bees]]  
 Their golden honeycombs; our village leas  
 Their fairest blossom’d beans and poppied corn;  
-The chuckling linnet its five young [[unborn]],  
+The chuckling linnet its five young unborn,  
 To sing for thee; low creeping strawberries  
 Their [[motifs/summer|summer]] coolness; pent up butterflies  
 Their freckled wings; yea, the fresh budding year  
@@ -491,7 +491,7 @@ Of grass, a wailful gnat, a bee bustling  450
 Down in the blue-[[motifs/bells|bells]], or a wren light rustling  
 Among sere [[motifs/leaves|leaves]] and twigs, might all be heard.  
 
-O [[Magic|magic]] [[motifs/sleep|sleep]]! O comfortable bird,  
+O magic [[motifs/sleep|sleep]]! O comfortable bird,  
 That broodest o’er the troubled sea of the mind  
 Till it is hush’d and smooth! O unconfin’d  
 Restraint! imprisoned liberty! great key  
@@ -546,7 +546,7 @@ But soon she came, with sudden burst, upon
 Her [[concepts/self|self]]-possession–swung the lute aside,  
 And earnestly said: “Brother, ’tis vain to hide  
 That thou dost know of things mysterious,  
-Immortal, starry; such [[Alone|alone]] could thus  
+Immortal, starry; such alone could thus  
 Weigh down thy [[concepts/nature|nature]]. Hast thou sinn’d in aught  
 Offensive to the heavenly powers? Caught  
 A Paphian dove upon a message sent?  510  
@@ -595,7 +595,7 @@ When he doth lighten up the golden reins,  550
 And paces leisurely down amber plains  
 His snorting four. Now when his chariot last  
 Its beams against the zodiac-[[motifs/lion|lion]] cast,  
-There blossom’d suddenly a [[Magic|magic]] bed  
+There blossom’d suddenly a magic bed  
 Of sacred ditamy, and poppies red:  
 At which I wondered greatly, knowing [[motifs/well|well]]  
 That but one [[motifs/night|night]] had wrought this flowery spell;  
@@ -615,7 +615,7 @@ The which became more strange, and strange, and dim,
 And then were gulph’d in a tumultuous swim:  571  
 And then I fell asleep. Ah, can I tell  
 The enchantment that afterwards befel?  
-Yet it was but [[A Dream|a dream]]: yet such [[A Dream|a dream]]  
+Yet it was but a dream: yet such a dream  
 That never tongue, although it overteem  
 With mellow utterance, like a cavern [[motifs/spring|spring]],  
 Could figure out and to conception bring  
@@ -686,7 +686,7 @@ I felt upmounted in that region
 Where falling [[motifs/stars|stars]] dart their artillery forth,  
 And eagles struggle with the buffeting north  
 That balances the heavy meteor-stone;–  
-Felt too, I was not fearful, nor [[Alone|alone]],  
+Felt too, I was not fearful, nor alone,  
 But lapp’d and lull’d along the dangerous sky.  
 Soon, as it seem’d, we left our journeying high,  
 And straightway into frightful eddies swoop’d;  
@@ -773,7 +773,7 @@ That one who through this middle earth should pass
 Most like a sojourning demi-god, and leave  
 His name upon the harp-string, should achieve  
 No higher bard than simple maidenhood,  
-Singing [[Alone|alone]], and fearfully,–how the [[motifs/blood|blood]]  
+Singing alone, and fearfully,–how the [[motifs/blood|blood]]  
 Left his young cheek; and how he used to stray  
 He knew not where; and how he would say, nay,  730  
 If any said ’twas [[motifs/love|love]]: and yet ’twas [[motifs/love|love]];  
@@ -806,7 +806,7 @@ Than the mere nothing that engenders them!
 Then wherefore sully the entrusted gem  
 Of high and noble life with thoughts so sick?  
 Why pierce high-fronted [[concepts/honour|honour]] to the quick  760  
-For nothing but [[A Dream|a dream]]?” Hereat the youth  
+For nothing but a dream?” Hereat the youth  
 Look’d up: a conflicting of shame and ruth  
 Was in his plaited brow: yet, his eyelids  
 Widened a little, as when Zephyr bids  
@@ -833,8 +833,8 @@ A [[motifs/rose|rose]] leaf round thy finger’s taperness,
 And soothe thy lips: hist, when the airy stress  
 Of music’s kiss impregnates the free winds,  
 And with a sympathetic touch unbinds  
-Eolian [[Magic|magic]] from their lucid wombs:  
-Then old [[songs]] waken from enclouded tombs;  
+Eolian magic from their lucid wombs:  
+Then old songs waken from enclouded tombs;  
 Old ditties sigh above their father’s [[motifs/grave|grave]];  
 [[motifs/ghosts|Ghosts]] of melodious prophecyings rave  790  
 Round every spot were trod [[characters/apollo|Apollo]]’s foot;  
@@ -905,7 +905,7 @@ Leaving us fancy-sick. No, no, I’m sure,
 My restless spirit never could endure  
 To brood so long upon one luxury,  
 Unless it did, though fearfully, espy  
-A [[concepts/hope|hope]] beyond the [[archetypes/shadow|shadow]] of [[A Dream|a dream]].  
+A [[concepts/hope|hope]] beyond the [[archetypes/shadow|shadow]] of a dream.  
 My sayings will the less obscured seem,  
 When I have told thee how my waking sight  860  
 Has made me scruple whether that same [[motifs/night|night]]  
@@ -1091,7 +1091,7 @@ Without one muse’s smile, or kind behest,
 The path of [[motifs/love|love]] and poesy. But rest,  
 In chaffing restlessness, is yet more drear  
 Than to be crush’d, in striving to uprear  40  
-[[motifs/love|Love]]’s standard on the battlements of [[Song|song]].  
+[[motifs/love|Love]]’s standard on the battlements of song.  
 So once more days and nights aid me along,  
 
 Like legion’d soldiers.  
@@ -1405,7 +1405,7 @@ To margin sallows, were the [[motifs/leaves|leaves]] he spied,
 And [[motifs/flowers|flowers]], and wreaths, and ready myrtle crowns  
 Up heaping through the slab: refreshment drowns  
 Itself, and strives its own delights to hide–  
-Nor in one spot [[Alone|alone]]; the floral [[concepts/pride|pride]]  
+Nor in one spot alone; the floral [[concepts/pride|pride]]  
 In a long whispering birth enchanted grew  
 Before his footsteps; as when heav’d anew  
 Old ocean rolls a lengthened wave to the shore,  
@@ -1421,7 +1421,7 @@ As plainly in his ear, as the faint charm
 Of which the throbs were born. This still alarm,  
 This sleepy music, forc’d him walk tiptoe:  
 For it came more softly than the east could blow  360  
-Arion’s [[Magic|magic]] to the Atlantic isles;  
+Arion’s magic to the Atlantic isles;  
 Or than the west, made jealous by the smiles  
 Of thron’d [[characters/apollo|Apollo]], could breathe back the lyre  
 To seas Ionian and Tyrian.  
@@ -1680,7 +1680,7 @@ Alive, and dazzling cool, and with a sound,  610
 Haply, like dolphin tumults, when sweet shells  
 Welcome the float of Thetis. Long he dwells  
 On this delight; for, every minute’s space,  
-The streams with changed [[Magic|magic]] interlace:  
+The streams with changed magic interlace:  
 Sometimes like delicatest lattices,  
 Cover’d with crystal vines; then weeping trees,  
 Moving about as in a gentle [[motifs/wind|wind]],  
@@ -1707,7 +1707,7 @@ And purblind amid foggy, midnight wolds.
 But he revives at once: for who beholds  
 New sudden things, nor casts his mental slough?  
 Forth from a rugged arch, in the dusk below,  640  
-Came mother Cybele! [[Alone|alone]]–[[Alone|alone]]–  
+Came mother Cybele! alone–alone–  
 In sombre chariot; dark foldings thrown  
 About her majesty, and front [[motifs/death|death]]-pale,  
 With turrets [[motifs/crown|crown]]’d. Four maned lions hale  
@@ -1803,7 +1803,7 @@ Is in [[characters/apollo|Apollo]]’s hand: our dazed eyes
 Have seen a new tinge in the western skies:  
 The world has done its duty. Yet, oh yet,  730  
 Although the sun of poesy is set,  
-These [[lovers]] did embrace, and we must weep  
+These lovers did embrace, and we must weep  
 That there is no old power left to steep  
 A quill immortal in their joyous [[motifs/tears|tears]].  
 Long [[motifs/time|time]] in [[motifs/silence|silence]] did their anxious fears  
@@ -1859,7 +1859,7 @@ Had done it already; that the dreadful smiles
 At my lost brightness, my impassion’d wiles,  
 Had waned from Olympus’ solemn height,  
 And from all serious Gods; that our delight  
-Was quite forgotten, save of us [[Alone|alone]]!  
+Was quite forgotten, save of us alone!  
 And wherefore so ashamed? ’Tis but to atone  
 For endless pleasure, by some coward blushes:  790  
 Yet must I be a coward!–[[concepts/honour|Honour]] rushes  
@@ -1874,7 +1874,7 @@ So thou wouldst thus, for many sequent hours,
 Press me so sweetly. Now I swear at once  800  
 That I am wise, that Pallas is a dunce–  
 Perhaps her [[motifs/love|love]] like mine is but unknown–  
-O I do think that I have been [[Alone|alone]]  
+O I do think that I have been alone  
 In chastity: yes, Pallas has been sighing,  
 While every eye saw me my hair uptying  
 With fingers cool as aspen [[motifs/leaves|leaves]]. Sweet [[motifs/love|love]],  
@@ -1909,7 +1909,7 @@ With too much passion, will here stay and pity,
 For the mere sake of [[concepts/truth|truth]]; as ’tis a ditty  
 Not of these days, but long ago ’twas told  
 By a cavern [[motifs/wind|wind]] unto a forest old;  
-And then the forest told it in [[A Dream|a dream]]  
+And then the forest told it in a dream  
 To a sleeping lake, whose cool and level gleam  
 A poet caught as he was journeying  
 To Phœbus’ shrine; and in it he did fling  
@@ -1972,13 +1972,13 @@ Of his white palace in wild forest nook,
 And all the revels he had lorded there:  
 Each tender maiden whom he once thought fair,  
 With every friend and fellow-woodlander–  
-Pass’d like [[A Dream|a dream]] before him. Then the spur  
+Pass’d like a dream before him. Then the spur  
 Of the old bards to mighty deeds: his plans  
 To [[characters/nurse|nurse]] the [[topoi/golden-age|golden age]] ‘mong shepherd clans:  
 That wondrous [[motifs/night|night]]: the great Pan-festival:  900  
 His sister’s sorrow; and his wanderings all,  
 Until into the earth’s deep maw he rush’d:  
-Then all its buried [[Magic|magic]], till it flush’d  
+Then all its buried magic, till it flush’d  
 High with excessive [[motifs/love|love]]. “And now,” thought he,  
 “How long must I remain in jeopardy  
 Of blank amazements that amaze no more?  
@@ -2053,7 +2053,7 @@ In thy deceitful stream, a panting glow
 Grew strong within me: wherefore serve me so,  
 And call it [[motifs/love|love]]? Alas, ’twas cruelty.  
 Not once more did I close my happy eyes  
-Amid the thrush’s [[Song|song]]. Away! Avaunt!  
+Amid the thrush’s song. Away! Avaunt!  
 O ’twas a cruel thing.”–”Now thou dost taunt  
 So softly, Arethusa, that I think  
 If thou wast playing on my shady brink,  980  
@@ -2095,7 +2095,7 @@ The name of Arethusa. On the verge
 Of that dark gulph he wept, and said: “I urge  
 Thee, gentle Goddess of my pilgrimage,  
 By our eternal hopes, to soothe, to assuage,  
-If thou art powerful, these [[lovers]] pains;  
+If thou art powerful, these lovers pains;  
 And make them happy in some happy plains.  1020  
 
 He turn’d–there was a whelming sound–he stept,  
@@ -2158,7 +2158,7 @@ Eterne [[characters/apollo|Apollo]]! that thy Sister fair
 Is of all these the gentlier-mightiest.  
 When thy gold breath is misting in the west,  
 She unobserved steals unto her throne,  
-And there she sits most meek and most [[Alone|alone]];  
+And there she sits most meek and most alone;  
 As if she had not pomp subservient;  
 As if thine eye, high Poet! was not bent  
 Towards her with the Muses in thine heart;  
@@ -2180,7 +2180,7 @@ Has thy fair face within its tranquil ken,
 And from beneath a sheltering ivy leaf  
 Takes glimpses of thee; thou art a relief  
 To the poor patient oyster, where it sleeps  
-Within its pearly [[house]].–The mighty deeps,  
+Within its pearly house.–The mighty deeps,  
 The monstrous sea is thine–the myriad sea!  
 O [[motifs/moon|Moon]]! far-spooming Ocean bows to thee,  70  
 And Tellus feels his forehead’s cumbrous load.  
@@ -2271,7 +2271,7 @@ Thou seem’dst my sister: hand in hand we went
 From eve to morn across the firmament.  
 No apples would I gather from the tree,  
 Till thou hadst cool’d their cheeks deliciously:  150  
-No tumbling [[motifs/water|water]] ever spake [[Romance|romance]],  
+No tumbling [[motifs/water|water]] ever spake romance,  
 But when my eyes with thine thereon could [[motifs/dance|dance]]:  
 No woods were green enough, no bower divine,  
 Until thou liftedst up thine eyelids fine:  
@@ -2321,7 +2321,7 @@ Of weeds were cold beneath his cold thin feet;
 And, ample as the largest winding-sheet,  
 A cloak of blue wrapp’d up his aged bones,  
 O’erwrought with symbols by the deepest groans  200  
-Of ambitious [[Magic|magic]]: every ocean-form  
+Of ambitious magic: every ocean-form  
 Was woven in with black distinctness; [[motifs/storm|storm]],  
 And calm, and whispering, and hideous roar  
 Were emblem’d in the woof; with every shape  
@@ -2344,7 +2344,7 @@ The old man rais’d his hoary head and saw
 The wilder’d stranger–seeming not to see,  220  
 His features were so lifeless. Suddenly  
 He woke as from a trance; his [[motifs/snow|snow]]-white brows  
-Went arching up, and like two [[Magic|magic]] ploughs  
+Went arching up, and like two magic ploughs  
 Furrow’d deep wrinkles in his forehead large,  
 Which kept as fixedly as rocky marge,  
 Till round his wither’d lips had gone a smile.  
@@ -2357,7 +2357,7 @@ With convuls’d clenches waving it abroad,
 And in a voice of solemn joy, that aw’d  
 Echo into oblivion, he said:–  
 
-“[[Thou Art the Man|Thou art the man]]! Now shall I lay my head  
+“Thou art the man! Now shall I lay my head  
 In peace upon my watery pillow: now  
 [[motifs/sleep|Sleep]] will come smoothly to my weary brow.  
 O Jove! I shall be young again, be young!  
@@ -2378,7 +2378,7 @@ O, I am full of gladness! Sisters three,
 I bow full hearted to your old decree!  
 Yes, every god be thank’d, and power benign,  
 For I no more shall wither, droop, and pine.  
-[[Thou Art the Man|Thou art the man]]!” [[characters/endymion|Endymion]] started back  
+Thou art the man!” [[characters/endymion|Endymion]] started back  
 Dismay’d; and, like a wretch from whom the rack  
 Tortures hot breath, and speech of agony,  
 Mutter’d: “What lonely [[motifs/death|death]] am I to die  
@@ -2603,7 +2603,7 @@ A new appareling for western skies;
 So every eve, nay every spendthrift hour  
 Shed balmy consciousness within that bower.  
 And I was free of haunts umbrageous;  
-Could wander in the mazy forest-[[house]]  470  
+Could wander in the mazy forest-house  470  
 Of squirrels, foxes shy, and antler’d deer,  
 And [[motifs/birds|birds]] from coverts innermost and drear  
 Warbling for very joy mellifluous sorrow–  
@@ -2645,7 +2645,7 @@ Laughing, and wailing, groveling, serpenting,
 Shewing tooth, tusk, and venom-bag, and sting!  
 O such deformities! Old Charon’s [[concepts/self|self]],  
 Should he give up awhile his penny pelf,  
-And take [[A Dream|a dream]] ‘mong rushes Stygian,  
+And take a dream ‘mong rushes Stygian,  
 It could not be so phantasied. Fierce, wan,  
 And tyrannizing was the lady’s look,  510  
 As over them a gnarled staff she shook.  
@@ -2744,7 +2744,7 @@ Thy fragile bones to unknown burial.
 Adieu, sweet [[motifs/love|love]], adieu!”–As shot [[motifs/stars|stars]] fall,  
 She fled ere I could groan for [[concepts/mercy|mercy]]. Stung  
 And poisoned was my spirit: [[concepts/despair|despair]] sung  
-A war-[[Song|song]] of defiance ‘gainst all hell.  
+A war-song of defiance ‘gainst all hell.  
 A hand was at my shoulder to compel  
 My sullen steps; another ‘fore my eyes  
 Moved on with pointed finger. In this guise  
@@ -2840,18 +2840,18 @@ For thou hast brought their promise to an end.
 “In the wide sea there lives a forlorn wretch,  
 Doom’d with enfeebled carcase to outstretch  
 His loath’d existence through ten centuries,  
-And then to die [[Alone|alone]]. Who can devise  
+And then to die alone. Who can devise  
 A total opposition? No one. So  
 One million times ocean must ebb and flow,  
 And he oppressed. Yet he shall not die,  
 These things accomplish’d:–If he utterly  700  
-Scans all the depths of [[Magic|magic]], and expounds  
+Scans all the depths of magic, and expounds  
 The meanings of all motions, shapes, and sounds;  
 If he explores all forms and substances  
 Straight homeward to their symbol-essences;  
 He shall not die. Moreover, and in chief,  
 He must pursue this task of joy and grief  
-Most piously;–all [[lovers]] tempest-tost,  
+Most piously;–all lovers tempest-tost,  
 And in the savage overwhelming lost,  
 He shall deposit side by side, until  
 [[motifs/time|Time]]’s creeping shall the dreary space fulfil:  710  
@@ -2871,7 +2871,7 @@ Had we both perish’d?”–”Look!” the sage replied,
 Of divers brilliances? ’tis the edifice  
 I told thee of, where lovely Scylla lies;  
 And where I have enshrined piously  
-All [[lovers]], whom fell storms have doom’d to die  
+All lovers, whom fell storms have doom’d to die  
 Throughout my bondage.” Thus discoursing, on  
 They went till unobscur’d the porches shone;  
 Which hurryingly they gain’d, and enter’d straight.  
@@ -2885,7 +2885,7 @@ And rigid ranks of iron–whence who dares
 One step? Imagine further, line by line,  
 These warrior thousands on the field supine:–  
 So in that crystal place, in silent rows,  
-Poor [[lovers]] lay at rest from joys and woes.–  740  
+Poor lovers lay at rest from joys and woes.–  740  
 The stranger from the [[settings/mountains|mountains]], breathless, trac’d  
 Such thousands of shut eyes in order plac’d;  
 Such ranges of white feet, and patient lips  
@@ -2942,7 +2942,7 @@ Showering those powerful fragments on the dead.
 And, as he pass’d, each lifted up its head,  790  
 As doth a flower at [[characters/apollo|Apollo]]’s touch.  
 [[motifs/death|Death]] felt it to his inwards: ’twas too much:  
-[[motifs/death|Death]] fell a weeping in his charnel-[[house]].  
+[[motifs/death|Death]] fell a weeping in his charnel-house.  
 The Latmian persever’d along, and thus  
 All were re-animated. There arose  
 A noise of harmony, pulses and throes  
@@ -3024,7 +3024,7 @@ Like callow eagles at the first sunrise.
 Soon with an eagle nativeness their gaze  
 Ripe from hue-golden swoons took all the blaze,  
 And then, behold! large Neptune on his throne  
-Of emerald deep: yet not exalt [[Alone|alone]];  
+Of emerald deep: yet not exalt alone;  
 At his right hand stood winged [[motifs/love|Love]], and on  870  
 His left sat smiling [[concepts/beauty|Beauty]]’s paragon.  
 
@@ -3100,7 +3100,7 @@ The which, in disentangling for their [[motifs/fire|fire]],
 Pull’d down fresh foliage and coverture  
 For dainty toying. Cupid, empire-sure,  
 Flutter’d and laugh’d, and oft-times through the throng  
-Made a delighted way. Then [[motifs/dance|dance]], and [[Song|song]],  940  
+Made a delighted way. Then [[motifs/dance|dance]], and song,  940  
 And garlanding grew wild; and pleasure reign’d.  
 In harmless tendril they each other chain’d,  
 And strove who should be smother’d deepest in  
@@ -3133,7 +3133,7 @@ Of all his [[archetypes/rebel|rebel]] tempests. Dark clouds faint
 When, from thy diadem, a silver gleam  
 Slants over blue dominion. Thy bright team  
 Gulphs in the morning light, and scuds along  
-To bring thee nearer to that golden [[Song|song]]  
+To bring thee nearer to that golden song  
 [[characters/apollo|Apollo]] singeth, while his chariot  
 Waits at the doors of heaven. Thou art not  
 For scenes like this: an empire stern hast thou;  
@@ -3219,7 +3219,7 @@ Thee into endless heaven. Awake! awake!
 The youth at once arose: a placid lake  
 Came quiet to his eyes; and forest green,  1040  
 Cooler than all the wonders he had seen,  
-Lull’d with its simple [[Song|song]] his fluttering breast.  
+Lull’d with its simple song his fluttering breast.  
 How happy once again in grassy nest!  
 
 
@@ -3233,7 +3233,7 @@ How happy once again in grassy nest!
 Muse of my native land! loftiest Muse!  
 O first-born on the [[settings/mountains|mountains]]! by the hues  
 Of heaven on the spiritual air begot:  
-Long didst thou sit [[Alone|alone]] in northern grot,  
+Long didst thou sit alone in northern grot,  
 While yet our England was a wolfish den;  
 Before our forests heard the talk of men;  
 Before the first of Druids was a [[archetypes/child|child]];–  
@@ -3288,7 +3288,7 @@ Redemption sparkles!–I am sad and lost.”
 Thou, Carian lord, hadst better have been tost  
 Into a whirlpool. Vanish into air,  
 Warm mountaineer! for canst thou only bear  
-A woman’s sigh [[Alone|alone]] and in distress?  
+A woman’s sigh alone and in distress?  
 See not her charms! Is Phœbe passionless?  
 Phœbe is fairer far–O gaze no more:–  
 Yet if thou wilt behold all [[concepts/beauty|beauty]]’s store,  
@@ -3496,7 +3496,7 @@ To our mad minstrelsy!’  240
 And, save when Bacchus kept his ivy tent,  
 Onward the tiger and the leopard pants,  
 With Asian elephants:  
-Onward these myriads–with [[Song|song]] and [[motifs/dance|dance]],  
+Onward these myriads–with song and [[motifs/dance|dance]],  
 With zebras striped, and sleek Arabians’ prance,  
 Web-footed alligators, crocodiles,  
 Bearing upon their scaly backs, in files,  
@@ -3556,7 +3556,7 @@ And look, quite dead to every worldly thing!
 And listened to the [[motifs/wind|wind]] that now did stir  
 About the crisped oaks full drearily,  
 Yet with as sweet a softness as might be  
-Remember’d from its velvet [[motifs/summer|summer]] [[Song|song]].  
+Remember’d from its velvet [[motifs/summer|summer]] song.  
 At last he said: “Poor lady, how thus long  300  
 Have I been able to endure that voice?  
 Fair Melody! kind Syren! I’ve no choice;  
@@ -3598,7 +3598,7 @@ One moment from his [[motifs/home|home]]: only the sward
 He with his wand light touch’d, and heavenward  
 Swifter than sight was gone–even before  
 The teeming earth a sudden witness bore  340  
-Of his swift [[Magic|magic]]. Diving swans appear  
+Of his swift magic. Diving swans appear  
 Above the crystal circlings white and clear;  
 And catch the cheated eye in wild surprise,  
 How they can dive in sight and unseen rise–  
@@ -3609,9 +3609,9 @@ On one, and felt himself in spleen to tame
 The other’s fierceness. Through the air they flew,  
 High as the eagles. Like two drops of dew  350  
 Exhal’d to Phœbus’ lips, away they are gone,  
-Far from the earth away–unseen, [[Alone|alone]],  
+Far from the earth away–unseen, alone,  
 Among cool clouds and winds, but that the free,  
-The buoyant life of [[Song|song]] can floating be  
+The buoyant life of song can floating be  
 Above their heads, and follow them untir’d.–  
 Muse of my native land, am I inspir’d?  
 This is the giddy air, and I must spread  
@@ -3636,11 +3636,11 @@ From the old womb of [[motifs/night|night]], his [[motifs/cave|cave]] forlorn
 Had he left more forlorn; for the first [[motifs/time|time]],  
 He felt aloof the day and morning’s prime–  
 Because into his depth Cimmerian  
-There came [[A Dream|a dream]], shewing how a young man,  
+There came a dream, shewing how a young man,  
 Ere a lean bat could plump its wintery skin,  
 Would at high Jove’s empyreal footstool win  380  
 An [[concepts/immortality|immortality]], and how espouse  
-Jove’s daughter, and be reckon’d of his [[house]].  
+Jove’s daughter, and be reckon’d of his house.  
 Now was he slumbering towards heaven’s gate,  
 That he might at the threshold one hour wait  
 To hear the [[motifs/marriage|marriage]] melodies, and then  
@@ -3736,7 +3736,7 @@ Yet did she merely weep–her gentle [[motifs/soul|soul]]
 Hath no [[concepts/revenge|revenge]] in it: as it is whole  
 In tenderness, would I were whole in [[motifs/love|love]]!  
 Can I prize thee, fair maid, till price above,  
-Even when I feel as true as [[innocence]]?  
+Even when I feel as true as innocence?  
 I do, I do.–What is this [[motifs/soul|soul]] then? Whence  
 Came it? It does not seem my own, and I  
 Have no [[concepts/self|self]]-passion or [[concepts/identity|identity]].  
@@ -3774,7 +3774,7 @@ This [[concepts/beauty|beauty]] in its birth–[[concepts/despair|Despair]]! [[c
 He saw her [[concepts/body|body]] fading gaunt and spare  
 In the cold moonshine. Straight he seiz’d her wrist;  
 It melted from his grasp: her hand he kiss’d,  511  
-And, horror! kiss’d his own–he was [[Alone|alone]].  
+And, horror! kiss’d his own–he was alone.  
 Her steed a little higher soar’d, and then  
 
 Dropt hawkwise to the earth.  
@@ -4056,7 +4056,7 @@ Por’d on its hazle cirque of shedded [[motifs/leaves|leaves]].
 [[characters/endymion|Endymion]]! unhappy! it nigh grieves  
 Me to behold thee thus in last extreme:  
 Ensky’d ere this, but truly that I deem  
-[[concepts/truth|Truth]] the best music in a first-born [[Song|song]].  
+[[concepts/truth|Truth]] the best music in a first-born song.  
 Thy lute-voic’d brother will I sing ere long,  780  
 And thou shall aid–hast thou not aided me?  
 Yes, moonlight Emperor! felicity  
@@ -4156,12 +4156,12 @@ Of the empyrean I have drunk my fill.
 Let it content thee, Sister, seeing me  
 More happy than betides [[concepts/mortality|mortality]].  
 A hermit young, I’ll live in mossy [[motifs/cave|cave]],  
-Where thou [[Alone|alone]] shalt come to me, and lave  870  
+Where thou alone shalt come to me, and lave  870  
 Thy spirit in the wonders I shall tell.  
 Through me the shepherd realm shall prosper [[motifs/well|well]];  
 For to thy tongue will I all health confide.  
 And, for my sake, let this young maid abide  
-With thee as a dear sister. Thou [[Alone|alone]],  
+With thee as a dear sister. Thou alone,  
 Peona, mayst return to me. I own  
 This may sound strangely: but when, dearest girl,  
 Thou seest it for my happiness, no pearl  

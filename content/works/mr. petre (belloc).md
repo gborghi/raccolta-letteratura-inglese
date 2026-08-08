@@ -41,7 +41,7 @@ tags:
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/fame-and-publicity|Fame and Publicity]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/identity|Identity]], [[concepts/capitalism|Capitalism]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/economics|Economics]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]], [[motifs/machine|Machine]]
 **Settings:** [[settings/london|London]], [[settings/modern-metropolis|Modern Metropolis]]
-**Archetypes:** Self-Made Man, Trickster
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/trickster|Trickster]]
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
 **Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

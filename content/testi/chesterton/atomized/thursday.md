@@ -14,12 +14,12 @@ tags:
 <span class="atom-split" data-atom="thursday" data-title="The Man Who Was Thursday" data-chapter="" data-kind="intro"></span>
 
 
-The Man Who Was [[thursday|Thursday]], by G. K. Chesterton Scanned and Edited by
+The Man Who Was Thursday, by G. K. Chesterton Scanned and Edited by
 Harry Plantinga, planting@cs.pitt.edu This text is in the public domain
 
-THE MAN WHO WAS [[thursday|THURSDAY]]
+THE MAN WHO WAS THURSDAY
 
-A [[nightmare|NIGHTMARE]]
+A NIGHTMARE
 
 G. K. CHESTERTON
 
@@ -98,13 +98,13 @@ The stranger who looked for the first [[motifs/time|time]] at the quaint red hou
 could only think how very oddly shaped the people must be who could
 fit in to them.  Nor when he met the people was he disappointed
 in this respect.  The place was not only pleasant, but perfect,
-if once he could regard it not as a [[concepts/deception|deception]] but rather as [[A Dream|a dream]].
+if once he could regard it not as a [[concepts/deception|deception]] but rather as a dream.
 Even if the people were not "artists," the whole was nevertheless artistic.
 That young man with the long, auburn hair and the impudent face--
 that young man was not really a poet; but surely he was a poem.
 That old gentleman with the wild, white beard and the wild,
 white hat--that venerable humbug was not really a philosopher;
-but at least he was the cause of [[philosophy]] in others.
+but at least he was the cause of philosophy in others.
 That scientific gentleman with the bald, egg-like head and the bare,
 bird-like neck had no real right to the airs of science that he assumed.
 He had not discovered anything new in biology; but what biological
@@ -195,13 +195,13 @@ Il forestiero che guardava per la prima [[motifs/time|volta]] quelle pittoresche
 non poteva che chiedersi quanto stranamente conformate dovessero essere le persone capaci
 di viverci dentro.  Né, quando incontrava quelle persone, restava deluso
 al riguardo.  Il luogo non era soltanto piacevole, ma perfetto,
-purché lo si considerasse non come un [[concepts/deception|inganno]], bensì piuttosto come [[A Dream|un sogno]].
+purché lo si considerasse non come un [[concepts/deception|inganno]], bensì piuttosto come un sogno.
 Anche se le persone non erano «artisti», il tutto era nondimeno artistico.
 Quel giovane dai lunghi capelli ramati e dal volto sfrontato...
 quel giovane non era davvero un poeta; ma di certo era un poema.
 Quel vecchio signore dalla barba bianca e selvaggia e dal cappello bianco
 e selvaggio... quel venerabile impostore non era davvero un filosofo;
-ma perlomeno era la causa della [[philosophy|filosofia]] negli altri.
+ma perlomeno era la causa della filosofia negli altri.
 Quel gentiluomo scienziato dalla testa calva e a forma d'uovo e dal collo nudo
 e simile a quello d'un uccello non aveva alcun vero diritto alle arie di scienza che si dava.
 Non aveva scoperto nulla di nuovo in biologia; ma quale creatura
@@ -290,7 +290,7 @@ who had her brother's braids of red hair, but a kindlier face
 underneath them, laughed with such mixture of admiration
 and disapproval as she gave commonly to the family oracle.
 
-Gregory resumed in high oratorical good [[Humour|humour]].
+Gregory resumed in high oratorical good humour.
 
 "An [[archetypes/artist|artist]] is identical with an anarchist," he cried.
 "You might transpose the words anywhere.  An anarchist is an [[archetypes/artist|artist]].
@@ -323,7 +323,7 @@ with one wild arrow strikes a distant bird.  Is it not also epical
 when man with one wild engine strikes a distant station?
 Chaos is dull; because in chaos the train might indeed go anywhere,
 to Baker Street or to Bagdad.  But man is a magician,
-and his whole [[Magic|magic]] is in this, that he does say Victoria,
+and his whole magic is in this, that he does say Victoria,
 and lo! it is Victoria.  No, take your books of mere poetry
 and prose; let me read a [[motifs/time|time]] table, with [[motifs/tears|tears]] of [[concepts/pride|pride]].
 Take your Byron, who commemorates the defeats of man;
@@ -431,7 +431,7 @@ che dei fratello aveva le trecce di capelli rossi, ma sotto di esse un volto pi�
 rideva con quel misto d'ammirazione
 e di disapprovazione che soleva concedere all'oracolo di famiglia.
 
-Gregory riprese in gran vena oratoria di buon [[Humour|umore]].
+Gregory riprese in gran vena oratoria di buon umore.
 
 «Un [[archetypes/artist|artista]] è identico a un anarchico», esclamò.
 «Potresti scambiare le parole ovunque. Un anarchico è un [[archetypes/artist|artista]].
@@ -464,7 +464,7 @@ con una sola freccia impetuosa abbatte un uccello lontano. Non è forse altretta
 che un uomo con una sola locomotiva impetuosa colpisca una stazione lontana?
 Il caos è tedioso; perché nel caos il treno potrebbe davvero andare ovunque,
 a Baker Street o a Bagdad. Ma l'uomo è un mago,
-e tutta la sua [[Magic|magia]] sta in questo: che egli dice Victoria,
+e tutta la sua magia sta in questo: che egli dice Victoria,
 ed ecco! è Victoria. No, prenditi i tuoi libri di mera poesia
 e di prosa; a me lascia leggere un [[motifs/time|orario]] ferroviario, con [[motifs/tears|lacrime]] d'[[concepts/pride|orgoglio]].
 Prenditi il tuo Byron, che commemora le sconfitte dell'uomo;
@@ -609,7 +609,7 @@ a motive in music through all his mad adventures afterwards,
 and the glory of her strange hair ran like a red thread
 through those dark and ill-drawn tapestries of the [[motifs/night|night]].
 For what followed was so improbable, that it might [[motifs/well|well]] have
-been [[A Dream|a dream]].
+been a dream.
 
 When Syme went out into the starlit street, he found it
 for the moment empty.  Then he realised (in some odd way)
@@ -622,7 +622,7 @@ frock coat were black; the face, in an abrupt [[archetypes/shadow|shadow]], was 
 as dark.  Only a fringe of fiery hair against the light,
 and also something aggressive in the attitude, proclaimed that it
 was the poet Gregory.  He had something of the look of a masked
-bravo waiting [[Sword|sword]] in hand for his foe.
+bravo waiting sword in hand for his foe.
 
 He made a sort of doubtful salute, which Syme somewhat more formally returned.
 
@@ -730,7 +730,7 @@ And now, in the name of Colney Hatch, what is it?"
 
 He gave two long whistles, and a hansom came rattling down the [[motifs/road|road]].
 The two got into it in [[motifs/silence|silence]].  Gregory gave through the trap the
-address of an obscure public-[[house]] on the Chiswick bank of the [[motifs/river|river]].
+address of an obscure public-house on the Chiswick bank of the [[motifs/river|river]].
 The cab whisked itself away again, and in it these two fantastics
 quitted their fantastic town.
 
@@ -786,7 +786,7 @@ un motivo musicale attraverso tutte le sue folli avventure successive,
 e la gloria dei suoi strani capelli correva come un filo rosso
 attraverso quegli oscuri e mal tracciati arazzi della [[motifs/night|notte]].
 Poiché ciò che seguì fu tanto improbabile, che ben poteva [[motifs/well|essere]]
-[[A Dream|stato un sogno]].
+stato un sogno.
 
 Quando Syme uscì nella strada rischiarata dalle stelle, la trovò
 per un istante deserta. Poi si rese conto (in qualche strano modo)
@@ -799,7 +799,7 @@ finanziera erano neri; il volto, in un’[[archetypes/shadow|ombra]] repentina, 
 altrettanto scuro. Solo una frangia di capelli infuocati contro la luce,
 e anche qualcosa di aggressivo nell’atteggiamento, proclamavano che si
 trattava del poeta Gregory. Aveva un che dell’aspetto di un bravo mascherato
-in attesa, [[Sword|spada]] in pugno, del suo nemico.
+in attesa, spada in pugno, del suo nemico.
 
 Fece una sorta di saluto incerto, che Syme ricambiò in modo alquanto più formale.
 
@@ -907,7 +907,7 @@ E ora, in nome di Colney Hatch, di che si tratta?»
 
 Emise due lunghi fischi, e un hansom giunse sferragliando lungo la [[motifs/road|strada]].
 I due vi salirono in [[motifs/silence|silenzio]]. Gregory diede, attraverso lo sportello, l’
-indirizzo di un’oscura [[house|osteria]] sulla riva di Chiswick del [[motifs/river|fiume]].
+indirizzo di un’oscura osteria sulla riva di Chiswick del [[motifs/river|fiume]].
 La vettura si allontanò di nuovo in un lampo, e su di essa questi due fantastici
 lasciarono la loro fantastica città.
 
@@ -931,7 +931,7 @@ beyond a vague and dark impression of something bulky and bearded.
 "The pate de foie gras is not good here, but I can recommend the game."
 
 Syme received the remark with stolidity, imagining it to be a joke.
-Accepting the vein of [[Humour|humour]], he said, with a [[motifs/well|well]]-bred indifference--
+Accepting the vein of humour, he said, with a [[motifs/well|well]]-bred indifference--
 
 "Oh, bring me some lobster mayonnaise."
 
@@ -951,8 +951,8 @@ of the lobster.  Syme tasted it, and found it particularly good.
 Then he suddenly began to eat with great rapidity and appetite.
 
 "Excuse me if I enjoy myself rather obviously!" he said
-to Gregory, smiling.  "I don't often have the luck to have [[A Dream|a dream]]
-like this.  It is new to me for a [[nightmare]] to lead to a lobster.
+to Gregory, smiling.  "I don't often have the luck to have a dream
+like this.  It is new to me for a nightmare to lead to a lobster.
 It is commonly the other way."
 
 "You are not asleep, I assure you," said Gregory.  "You are,
@@ -1070,7 +1070,7 @@ oltre a una vaga e cupa impressione di qualcosa di massiccio e barbuto.
 «Il pâté de foie gras qui non è granché, ma le raccomando la selvaggina.»
 
 Syme accolse l'osservazione con impassibilità, immaginando che fosse uno scherzo.
-Assecondando la vena di [[Humour|umorismo]], disse, con un'indifferenza da [[motifs/well|persona]] beneducata:
+Assecondando la vena di umorismo, disse, con un'indifferenza da [[motifs/well|persona]] beneducata:
 
 «Oh, mi porti dell'aragosta in maionese.»
 
@@ -1090,8 +1090,8 @@ dell'aragosta.  Syme l'assaggiò, e la trovò particolarmente buona.
 Poi, all'improvviso, prese a mangiare con grande rapidità e appetito.
 
 «Mi scusi se mi godo la cosa in modo un po' troppo evidente!» disse
-a Gregory, sorridendo.  «Non ho spesso la fortuna di fare [[A Dream|un sogno]]
-come questo.  È una novità, per me, che un [[nightmare|incubo]] conduca a un'aragosta.
+a Gregory, sorridendo.  «Non ho spesso la fortuna di fare un sogno
+come questo.  È una novità, per me, che un incubo conduca a un'aragosta.
 Di solito accade il contrario.»
 
 «Non sta dormendo, glielo assicuro,» disse Gregory.  «Al contrario,
@@ -1202,7 +1202,7 @@ me information, because, as you remember, you very wisely extorted
 from me a promise not to tell the police, a promise I shall
 certainly keep.  So it is in mere curiosity that I make my queries.
 First of all, what is it really all about?  What is it you object to?
-You want to abolish [[government|Government]]?"
+You want to abolish Government?"
 
 "To abolish God!" said Gregory, opening the eyes of a fanatic.
 "We do not only want to upset a few despotisms and police regulations;
@@ -1222,7 +1222,7 @@ will abolish them too.  They are much more troublesome to me."
 "With pleasure," resumed Syme.  "In all your present acts and surroundings
 there is a scientific attempt at secrecy.  I have an aunt who lived
 over a shop, but this is the first [[motifs/time|time]] I have found people living
-from preference under a public-[[house]]. You have a heavy iron door.
+from preference under a public-house. You have a heavy iron door.
 You cannot pass it without submitting to the humiliation of calling
 yourself Mr. Chamberlain.  You surround yourself with steel instruments
 which make the place, if I may say so, more impressive than homelike.
@@ -1256,7 +1256,7 @@ Then I tried being a major.  Now I am a humanitarian myself,
 but I have, I [[concepts/hope|hope]], enough intellectual breadth to understand
 the position of those who, like Nietzsche, admire violence--
 the proud, mad war of [[concepts/nature|Nature]] and all that, you know.  I threw
-myself into the major.  I drew my [[Sword|sword]] and waved it constantly.
+myself into the major.  I drew my sword and waved it constantly.
 I called out '[[motifs/blood|Blood]]!' abstractedly, like a man calling for wine.
 I often said, 'Let the weak perish; it is the Law.'  [[motifs/well|Well]], [[motifs/well|well]],
 it seems majors don't do this.  I was nabbed again.  At last I
@@ -1305,14 +1305,14 @@ mention the matter, because the very [[motifs/night|night]] you have dropped in
 (if I may so express it) is the [[motifs/night|night]] on which our [[settings/london|London]] branch,
 which assembles in this room, has to elect its own deputy to fill a
 vacancy in the Council.  The gentleman who has for some [[motifs/time|time]] past played,
-with propriety and general applause, the difficult part of [[thursday|Thursday]],
+with propriety and general applause, the difficult part of Thursday,
 has died quite suddenly.  Consequently, we have called a meeting this
 very evening to elect a successor."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-«In fondo a tutta la sua allegria pare esserci una morale» convenne Syme; «ma posso rivolgerle due domande? Non deve [[concepts/fear|temere]] di darmi informazioni, perché, come ricorderà, molto saggiamente mi ha estorto la promessa di non riferire nulla alla polizia, promessa che di certo manterrò. È dunque per pura curiosità che le pongo i miei quesiti. Prima di tutto: di che cosa si tratta veramente? A che cosa vi opponete? Volete abolire il [[government|Governo]]?»
+«In fondo a tutta la sua allegria pare esserci una morale» convenne Syme; «ma posso rivolgerle due domande? Non deve [[concepts/fear|temere]] di darmi informazioni, perché, come ricorderà, molto saggiamente mi ha estorto la promessa di non riferire nulla alla polizia, promessa che di certo manterrò. È dunque per pura curiosità che le pongo i miei quesiti. Prima di tutto: di che cosa si tratta veramente? A che cosa vi opponete? Volete abolire il Governo?»
 
 «Abolire Dio!» disse Gregory, spalancando gli occhi da fanatico. «Non vogliamo soltanto rovesciare qualche dispotismo e qualche regolamento di polizia; quel genere di anarchismo esiste, ma è un semplice ramo dei Nonconformisti. Noi scaviamo più a fondo e vi facciamo saltare più in alto. Vogliamo negare tutte quelle arbitrarie distinzioni fra vizio e virtù, fra [[concepts/honour|onore]] e tradimento, sulle quali si fondano i semplici ribelli. Gli sciocchi sentimentali della [[historical-references/french-revolution|Rivoluzione francese]] parlavano dei Diritti dell'Uomo! Noi odiamo i Diritti come odiamo i Torti. Abbiamo abolito il Giusto e l'Ingiusto.»
 
@@ -1320,7 +1320,7 @@ very evening to elect a successor."
 
 «Parlava di una seconda domanda» scattò Gregory.
 
-«Con piacere» riprese Syme. «In tutti i vostri atti e nell'ambiente che vi circonda c'è un tentativo scientifico di segretezza. Ho una zia che abitava sopra una bottega, ma questa è la prima [[motifs/time|volta]] che trovo gente che vive per scelta sotto una [[house|osteria]]. Avete una pesante porta di ferro. Non si può varcarla senza sottoporsi all'umiliazione di farsi chiamare signor Chamberlain. Vi circondate di strumenti d'acciaio che rendono il luogo, se posso dirlo, più imponente che accogliente. Posso chiedervi perché, dopo esservi presi tanto disturbo per barricarvi nelle viscere della terra, poi sbandierate tutto il vostro segreto parlando di anarchismo a ogni donnetta sciocca di Saffron Park?»
+«Con piacere» riprese Syme. «In tutti i vostri atti e nell'ambiente che vi circonda c'è un tentativo scientifico di segretezza. Ho una zia che abitava sopra una bottega, ma questa è la prima [[motifs/time|volta]] che trovo gente che vive per scelta sotto una osteria. Avete una pesante porta di ferro. Non si può varcarla senza sottoporsi all'umiliazione di farsi chiamare signor Chamberlain. Vi circondate di strumenti d'acciaio che rendono il luogo, se posso dirlo, più imponente che accogliente. Posso chiedervi perché, dopo esservi presi tanto disturbo per barricarvi nelle viscere della terra, poi sbandierate tutto il vostro segreto parlando di anarchismo a ogni donnetta sciocca di Saffron Park?»
 
 Gregory sorrise.
 
@@ -1328,7 +1328,7 @@ Gregory sorrise.
 
 Syme fumava pensieroso, e lo guardava con interesse. Gregory proseguì.
 
-«La [[concepts/history|storia]] della cosa potrebbe divertirla» disse. «Quando divenni per la prima volta uno dei Nuovi Anarchici, provai ogni sorta di travestimenti rispettabili. Mi mascherai da vescovo. Mi documentai su tutto ciò che riguarda i vescovi nei nostri opuscoli anarchici, in Superstition the Vampire e in Priests of Prey. Da essi capii senz'altro che i vescovi sono vecchi strani e terribili che custodiscono un crudele segreto sottratto all'umanità. Ero male informato. Quando, alla mia prima apparizione in ghette episcopali in un salotto, gridai con voce di tuono: 'Giù! giù, presuntuosa ragione umana!' in qualche modo si accorsero che non ero affatto un vescovo. Fui sgamato all'istante. Poi mi finsi milionario; ma difesi il Capitale con tanta intelligenza che anche uno [[archetypes/fool|sciocco]] poteva vedere che ero assai povero. Poi provai a fare il maggiore. Ora io stesso sono un umanitarista, ma ho, [[concepts/hope|spero]], sufficiente ampiezza intellettuale per comprendere la posizione di coloro che, come Nietzsche, ammirano la violenza — la fiera, folle guerra della [[concepts/nature|Natura]] e tutto il resto, sa. Mi gettai anima e corpo nella parte del maggiore. Sguainavo la mia [[Sword|spada]] e la brandivo di continuo. Gridavo '[[motifs/blood|Sangue]]!' distrattamente, come un uomo che ordina del vino. Dicevo spesso: 'Perisca il debole; è la Legge.' [[motifs/well|Ebbene]], [[motifs/well|ebbene]], pare che i maggiori non facciano queste cose. Fui sgamato di nuovo. Alla fine mi recai in preda alla [[concepts/despair|disperazione]] dal Presidente del Consiglio Anarchico Centrale, che è l'uomo più grande d'Europa.»
+«La [[concepts/history|storia]] della cosa potrebbe divertirla» disse. «Quando divenni per la prima volta uno dei Nuovi Anarchici, provai ogni sorta di travestimenti rispettabili. Mi mascherai da vescovo. Mi documentai su tutto ciò che riguarda i vescovi nei nostri opuscoli anarchici, in Superstition the Vampire e in Priests of Prey. Da essi capii senz'altro che i vescovi sono vecchi strani e terribili che custodiscono un crudele segreto sottratto all'umanità. Ero male informato. Quando, alla mia prima apparizione in ghette episcopali in un salotto, gridai con voce di tuono: 'Giù! giù, presuntuosa ragione umana!' in qualche modo si accorsero che non ero affatto un vescovo. Fui sgamato all'istante. Poi mi finsi milionario; ma difesi il Capitale con tanta intelligenza che anche uno [[archetypes/fool|sciocco]] poteva vedere che ero assai povero. Poi provai a fare il maggiore. Ora io stesso sono un umanitarista, ma ho, [[concepts/hope|spero]], sufficiente ampiezza intellettuale per comprendere la posizione di coloro che, come Nietzsche, ammirano la violenza — la fiera, folle guerra della [[concepts/nature|Natura]] e tutto il resto, sa. Mi gettai anima e corpo nella parte del maggiore. Sguainavo la mia spada e la brandivo di continuo. Gridavo '[[motifs/blood|Sangue]]!' distrattamente, come un uomo che ordina del vino. Dicevo spesso: 'Perisca il debole; è la Legge.' [[motifs/well|Ebbene]], [[motifs/well|ebbene]], pare che i maggiori non facciano queste cose. Fui sgamato di nuovo. Alla fine mi recai in preda alla [[concepts/despair|disperazione]] dal Presidente del Consiglio Anarchico Centrale, che è l'uomo più grande d'Europa.»
 
 «Come si chiama?» chiese Syme.
 
@@ -1346,7 +1346,7 @@ Poi, dopo una pausa, aggiunse —
 
 «Come chiamate questo vostro formidabile Presidente?»
 
-«Di solito lo chiamiamo [[characters/sunday|Domenica]]» rispose Gregory con semplicità. «Vede, i membri del Consiglio Anarchico Centrale sono sette, e prendono il nome dai giorni della settimana. Lui è chiamato [[characters/sunday|Domenica]], e da alcuni suoi ammiratori [[characters/sunday|Domenica]] di Sangue. È curioso che tocchiate l'argomento, perché proprio la [[motifs/night|notte]] in cui siete piombato qui (se posso esprimermi così) è la [[motifs/night|notte]] in cui la nostra sezione di [[settings/london|Londra]], che si riunisce in questa stanza, deve eleggere il proprio delegato per colmare un posto vacante nel Consiglio. Il gentiluomo che da qualche [[motifs/time|tempo]] recitava, con decoro e generale plauso, la difficile parte di [[thursday|Giovedì]], è morto all'improvviso. Di conseguenza, abbiamo convocato una riunione proprio questa sera per eleggere un successore.»
+«Di solito lo chiamiamo [[characters/sunday|Domenica]]» rispose Gregory con semplicità. «Vede, i membri del Consiglio Anarchico Centrale sono sette, e prendono il nome dai giorni della settimana. Lui è chiamato [[characters/sunday|Domenica]], e da alcuni suoi ammiratori [[characters/sunday|Domenica]] di Sangue. È curioso che tocchiate l'argomento, perché proprio la [[motifs/night|notte]] in cui siete piombato qui (se posso esprimermi così) è la [[motifs/night|notte]] in cui la nostra sezione di [[settings/london|Londra]], che si riunisce in questa stanza, deve eleggere il proprio delegato per colmare un posto vacante nel Consiglio. Il gentiluomo che da qualche [[motifs/time|tempo]] recitava, con decoro e generale plauso, la difficile parte di Giovedì, è morto all'improvviso. Di conseguenza, abbiamo convocato una riunione proprio questa sera per eleggere un successore.»
 
 
 
@@ -1363,7 +1363,7 @@ would not say in so many words to the anarchists who will be coming
 to the room in about ten minutes.  We shall, of course, go through a form
 of election; but I don't mind telling you that it is practically certain
 what the result will be."  He looked down for a moment modestly.
-"It is almost a settled thing that I am to be [[thursday|Thursday]]."
+"It is almost a settled thing that I am to be Thursday."
 
 "My dear fellow."  said Syme heartily, "I congratulate you.
 A great career!"
@@ -1374,7 +1374,7 @@ Gregory smiled in deprecation, and walked across the room, talking rapidly.
 he said, "and the ceremony will probably be the shortest possible."
 
 Syme also strolled across to the table, and found lying across it
-a walking-stick, which turned out on examination to be a [[Sword|sword]]-stick,
+a walking-stick, which turned out on examination to be a sword-stick,
 a large Colt's revolver, a sandwich case, and a formidable flask of brandy.
 Over the chair, beside the table, was thrown a heavy-looking cape or cloak.
 
@@ -1382,7 +1382,7 @@ Over the chair, beside the table, was thrown a heavy-looking cape or cloak.
 with animation, "then I snatch up this cloak and stick, stuff these
 other things into my pocket, step out of a door in this cavern,
 which opens on the [[motifs/river|river]], where there is a steam-tug already waiting
-for me, and then--then--oh, the wild joy of being [[thursday|Thursday]]!"  And he
+for me, and then--then--oh, the wild joy of being Thursday!"  And he
 clasped his hands.
 
 Syme, who had sat down once more with his usual insolent languor,
@@ -1444,7 +1444,7 @@ down the corridor.
 
 Si alzò in piedi e attraversò la stanza con una specie di sorridente imbarazzo.
 
-«In qualche modo mi sento come se lei fosse mia madre, Syme», proseguì con noncuranza. «Sento di poterle confidare qualunque cosa, dal momento che ha promesso di non dirlo a nessuno. Anzi, le confiderò una cosa che non direi con tante parole agli anarchici che tra una decina di minuti verranno in questa sala. Naturalmente procederemo alle forme di un'elezione; ma non mi dispiace dirle che è praticamente certo quale sarà il risultato». Abbassò per un istante lo sguardo con modestia. «È quasi cosa decisa che io debba essere [[thursday|Giovedì]]».
+«In qualche modo mi sento come se lei fosse mia madre, Syme», proseguì con noncuranza. «Sento di poterle confidare qualunque cosa, dal momento che ha promesso di non dirlo a nessuno. Anzi, le confiderò una cosa che non direi con tante parole agli anarchici che tra una decina di minuti verranno in questa sala. Naturalmente procederemo alle forme di un'elezione; ma non mi dispiace dirle che è praticamente certo quale sarà il risultato». Abbassò per un istante lo sguardo con modestia. «È quasi cosa decisa che io debba essere Giovedì».
 
 «Mio caro amico», disse Syme con calore, «mi congratulo con lei. Una grande carriera!»
 
@@ -1452,9 +1452,9 @@ Gregory sorrise con aria schermendosi, e attraversò la stanza parlando in frett
 
 «In effetti, su questo tavolo è già tutto pronto per me», disse, «e la cerimonia sarà probabilmente la più breve possibile».
 
-Anche Syme si avvicinò al tavolo, e vi trovò distesi sopra un bastone da passeggio, che a un esame si rivelò essere un bastone animato da [[Sword|spada]], un grosso revolver Colt, un portapanini e una formidabile fiaschetta di brandy. Sulla sedia, accanto al tavolo, era gettato un mantello o una cappa dall'aria pesante.
+Anche Syme si avvicinò al tavolo, e vi trovò distesi sopra un bastone da passeggio, che a un esame si rivelò essere un bastone animato da spada, un grosso revolver Colt, un portapanini e una formidabile fiaschetta di brandy. Sulla sedia, accanto al tavolo, era gettato un mantello o una cappa dall'aria pesante.
 
-«Non mi resta che portare a termine le forme dell'elezione», continuò Gregory con foga, «poi afferro questo mantello e questo bastone, mi caccio in tasca queste altre cose, esco da una porta di questa caverna, che dà sul [[motifs/river|fiume]], dove c'è già un rimorchiatore a vapore che mi aspetta, e poi... e poi... oh, la gioia selvaggia di essere [[thursday|Giovedì]]!». E congiunse le mani.
+«Non mi resta che portare a termine le forme dell'elezione», continuò Gregory con foga, «poi afferro questo mantello e questo bastone, mi caccio in tasca queste altre cose, esco da una porta di questa caverna, che dà sul [[motifs/river|fiume]], dove c'è già un rimorchiatore a vapore che mi aspetta, e poi... e poi... oh, la gioia selvaggia di essere Giovedì!». E congiunse le mani.
 
 Syme, che si era di nuovo seduto con il suo consueto languore insolente, si alzò in piedi con un'insolita aria di esitazione.
 
@@ -1495,7 +1495,7 @@ Dalla soglia venne un mormorio: «Mr. Joseph Chamberlain». Si ripeté due, tre 
 
 CHAPTER III
 
-THE MAN WHO WAS [[thursday|THURSDAY]]
+THE MAN WHO WAS THURSDAY
 
 BEFORE one of the fresh faces could appear at the doorway,
 Gregory's stunned surprise had fallen from him.  He was beside
@@ -1612,11 +1612,11 @@ But it is not to acclaim his virtues that we are met,
 but for a harder task.  It is difficult properly to praise
 his qualities, but it is more difficult to replace them.
 Upon you, comrades, it devolves this evening to choose out
-of the company present the man who shall be [[thursday|Thursday]].  If any
+of the company present the man who shall be Thursday.  If any
 comrade suggests a name I will put it to the vote.  If no comrade
 suggests a name, I can only tell myself that that dear dynamiter,
 who is gone from us, has carried into the unknowable abysses
-the last secret of his virtue and his [[innocence]]."
+the last secret of his virtue and his innocence."
 
 There was a stir of almost inaudible applause, such as is sometimes heard
 in church.  Then a large old man, with a long and venerable white beard,
@@ -1627,7 +1627,7 @@ perhaps the only real working-man present, [[motifs/rose|rose]] lumberingly and 
 
 CAPITOLO III
 
-L'UOMO CHE FU [[thursday|GIOVEDÌ]]
+L'UOMO CHE FU GIOVEDÌ
 
 PRIMA che uno dei volti nuovi potesse affacciarsi sulla soglia,
 lo sbigottito stupore di Gregory si era già dileguato.  Con un balzo
@@ -1744,11 +1744,11 @@ Ma non è per acclamare le sue virtù che siamo qui riuniti,
 bensì per un compito più arduo.  È difficile lodare a dovere
 le sue qualità, ma è ancor più difficile rimpiazzarle.
 A voi, compagni, spetta questa sera scegliere fra
-i presenti l'uomo che sarà [[thursday|Giovedì]].  Se qualche
+i presenti l'uomo che sarà Giovedì.  Se qualche
 compagno propone un nome, lo metterò ai voti.  Se nessun compagno
 propone un nome, non potrò che dirmi che quel caro dinamitardo,
 che ci è tolto, ha portato con sé negli inconoscibili abissi
-l'ultimo segreto della sua virtù e della sua [[innocence|innocenza]].»
+l'ultimo segreto della sua virtù e della sua innocenza.»
 
 Vi fu un fremito di applauso quasi impercettibile, come talvolta si ode
 in chiesa.  Poi un grande uomo anziano, con una lunga e veneranda barba bianca,
@@ -1759,7 +1759,7 @@ forse il solo vero operaio presente, si [[motifs/rose|alzò]] goffamente e disse
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="The Man Who Was Thursday — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,motif/death,motif/love,motif/night,motif/road,motif/rose,motif/silence,concept/body,concept/courage,concept/friendship,concept/history,concept/paradox,form/history,character/gabriel_syme,character/sunday"></span>
 
 
-"I move that Comrade Gregory be elected [[thursday|Thursday]]," and sat
+"I move that Comrade Gregory be elected Thursday," and sat
 lumberingly down again.
 
 "Does anyone second?" asked the chairman.
@@ -1884,12 +1884,12 @@ address to which a curate could not have listened with pleasure
 (hear, hear). But I am not a curate (loud cheers), and I did not
 listen to it with pleasure (renewed cheers). The man who is fitted
 to make a good curate is not fitted to make a resolute, forcible,
-and efficient [[thursday|Thursday]] (hear, hear)."
+and efficient Thursday (hear, hear)."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Propongo che il compagno Gregory sia eletto [[thursday|Giovedì]]», e si lasciò ricadere pesantemente al suo posto.
+«Propongo che il compagno Gregory sia eletto Giovedì», e si lasciò ricadere pesantemente al suo posto.
 
 «Qualcuno appoggia la mozione?» domandò il presidente.
 
@@ -1929,7 +1929,7 @@ L'assemblea pareva incerta e inconsciamente delusa, e il compagno Witherspoon si
 
 Il fatto più efficace nell'oratoria è un mutamento inatteso nella voce. Il signor [[characters/gabriel-syme|Gabriel Syme]] intendeva evidentemente l'oratoria. Dette queste prime formali parole in tono misurato e con breve semplicità, fece risuonare ed echeggiare la parola successiva nella volta come se uno dei fucili fosse partito.
 
-«Compagni!» gridò, con una voce che fece sobbalzare ogni uomo fin dentro gli stivali, «siamo forse venuti qui per questo? Viviamo forse sottoterra come topi per stare ad ascoltare discorsi come questo? Questi sono discorsi che potremmo ascoltare mangiando focacce a una festa di scuola domenicale ([[characters/sunday|domenicale]]). Foderiamo forse queste pareti di armi e sbarriamo quella porta con la [[motifs/death|morte]] per timore che qualcuno venga a udire il compagno Gregory dirci: "Siate buoni, e sarete felici", "L'onestà è la miglior politica" e "La virtù è premio a sé stessa"? Non c'era una sola parola nel discorso del compagno Gregory che un curato non avrebbe potuto ascoltare con piacere (bene, bene). Ma io non sono un curato (grandi applausi), e non l'ho ascoltato con piacere (applausi rinnovati). L'uomo che è tagliato per fare un buon curato non è tagliato per fare un risoluto, energico ed efficiente [[thursday|Giovedì]] (bene, bene).»
+«Compagni!» gridò, con una voce che fece sobbalzare ogni uomo fin dentro gli stivali, «siamo forse venuti qui per questo? Viviamo forse sottoterra come topi per stare ad ascoltare discorsi come questo? Questi sono discorsi che potremmo ascoltare mangiando focacce a una festa di scuola domenicale ([[characters/sunday|domenicale]]). Foderiamo forse queste pareti di armi e sbarriamo quella porta con la [[motifs/death|morte]] per timore che qualcuno venga a udire il compagno Gregory dirci: "Siate buoni, e sarete felici", "L'onestà è la miglior politica" e "La virtù è premio a sé stessa"? Non c'era una sola parola nel discorso del compagno Gregory che un curato non avrebbe potuto ascoltare con piacere (bene, bene). Ma io non sono un curato (grandi applausi), e non l'ho ascoltato con piacere (applausi rinnovati). L'uomo che è tagliato per fare un buon curato non è tagliato per fare un risoluto, energico ed efficiente Giovedì (bene, bene).»
 
 
 
@@ -1956,8 +1956,8 @@ and said with dignity--
 "Comrade Gregory accuses me of hypocrisy.  He knows as [[motifs/well|well]] as I do
 that I am keeping all my engagements and doing nothing but my duty.
 I do not mince words.  I do not pretend to.  I say that Comrade Gregory
-is unfit to be [[thursday|Thursday]] for all his amiable qualities.
-He is unfit to be [[thursday|Thursday]] because of his amiable qualities.
+is unfit to be Thursday for all his amiable qualities.
+He is unfit to be Thursday because of his amiable qualities.
 We do not want the Supreme Council of Anarchy infected with
 a maudlin [[concepts/mercy|mercy]] (hear, hear). This is no [[motifs/time|time]] for ceremonial
 politeness, neither is it a [[motifs/time|time]] for ceremonial modesty.
@@ -1976,7 +1976,7 @@ The faces, that had grown fiercer and fiercer with approval as
 his tirade grew more and more uncompromising, were now distorted
 with grins of anticipation or cloven with delighted cries.
 At the moment when he announced himself as ready to stand
-for the post of [[thursday|Thursday]], a roar of excitement and assent
+for the post of Thursday, a roar of excitement and assent
 broke forth, and became uncontrollable, and at the same
 moment Gregory sprang to his feet, with foam upon his mouth,
 and shouted against the shouting.
@@ -2052,7 +2052,7 @@ He merely began--
 Then the spell was snapped, and one anarchist called out to Gregory--
 
 "Who are you?  You are not [[characters/sunday|Sunday]]"; and another anarchist added
-in a heavier voice, "And you are not [[thursday|Thursday]]."
+in a heavier voice, "And you are not Thursday."
 
 "Comrades," cried Gregory, in a voice like that of a martyr
 who in an ecstacy of [[motifs/pain|pain]] has passed beyond [[motifs/pain|pain]], "it is nothing
@@ -2092,8 +2092,8 @@ e disse con dignità:
 «Il compagno Gregory mi accusa d’ipocrisia. Sa tanto [[motifs/well|bene]] quanto me
 che sto mantenendo tutti i miei impegni e non faccio null’altro che il mio dovere.
 Non misuro le parole. Non fingo di farlo. Io dico che il compagno Gregory
-è inadatto a essere [[thursday|Giovedì]] nonostante tutte le sue amabili qualità.
-È inadatto a essere [[thursday|Giovedì]] a causa delle sue amabili qualità.
+è inadatto a essere Giovedì nonostante tutte le sue amabili qualità.
+È inadatto a essere Giovedì a causa delle sue amabili qualità.
 Non vogliamo il Consiglio Supremo dell’Anarchia infettato da
 una sdolcinata [[concepts/mercy|misericordia]] (bene, bene). Non è questo il [[motifs/time|momento]] della
 cortesia cerimoniosa, né è il [[motifs/time|momento]] della modestia cerimoniosa.
@@ -2112,7 +2112,7 @@ I volti, che si erano fatti sempre più feroci nell’approvazione mentre
 la sua tirata si faceva sempre più intransigente, erano ora deformati
 da ghigni di attesa o spaccati da grida di gioia.
 Nel momento in cui annunciò di essere pronto a candidarsi
-alla carica di [[thursday|Giovedì]], un boato di eccitazione e assenso
+alla carica di Giovedì, un boato di eccitazione e assenso
 proruppe, e divenne incontrollabile, e nello stesso
 istante Gregory balzò in piedi, con la schiuma alla bocca,
 e urlò contro le urla.
@@ -2188,7 +2188,7 @@ Egli si limitò a cominciare:
 Allora l’incantesimo si spezzò, e un anarchico gridò a Gregory:
 
 «Chi sei tu? Tu non sei [[characters/sunday|Domenica]]»; e un altro anarchico aggiunse
-con voce più greve: «E non sei [[thursday|Giovedì]].»
+con voce più greve: «E non sei Giovedì.»
 
 «Compagni,» gridò Gregory, con voce simile a quella di un martire
 che in un’estasi di [[motifs/pain|dolore]] ha oltrepassato il [[motifs/pain|dolore]], «non m’importa
@@ -2210,15 +2210,15 @@ di [[motifs/clock|orologeria]] rimesso improvvisamente in moto:
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="The Man Who Was Thursday — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/river,motif/rose,concept/honour,character/gabriel_syme"></span>
 
 
-"The question is that Comrade Syme be elected to the post of [[thursday|Thursday]]
+"The question is that Comrade Syme be elected to the post of Thursday
 on the General Council."
 
 The roar [[motifs/rose|rose]] like the sea, the hands [[motifs/rose|rose]] like a forest, and three minutes
 afterwards Mr. [[characters/gabriel-syme|Gabriel Syme]], of the Secret Police Service, was elected
-to the post of [[thursday|Thursday]] on the General Council of the Anarchists of Europe.
+to the post of Thursday on the General Council of the Anarchists of Europe.
 
 Everyone in the room seemed to feel the tug waiting on the [[motifs/river|river]],
-the [[Sword|sword]]-stick and the revolver, waiting on the table.
+the sword-stick and the revolver, waiting on the table.
 The instant the election was ended and irrevocable, and Syme
 had received the paper proving his election, they all sprang
 to their feet, and the fiery groups moved and mixed in the room.
@@ -2265,20 +2265,20 @@ by the end of it."
 "What do you mean?" cried the chaotic Gregory.  "What did I promise you?"
 
 "A very entertaining evening," said Syme, and he made a military salute
-with the [[Sword|sword]]-stick as the steamboat slid away.
+with the sword-stick as the steamboat slid away.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-«La proposta è che il compagno Syme venga eletto alla carica di [[thursday|Giovedì]]
+«La proposta è che il compagno Syme venga eletto alla carica di Giovedì
 nel Consiglio Generale.»
 
 Il boato [[motifs/rose|si levò]] come il mare, le mani [[motifs/rose|si levarono]] come una foresta, e tre minuti
 dopo il signor [[characters/gabriel-syme|Gabriel Syme]], del Servizio Segreto di Polizia, era eletto
-alla carica di [[thursday|Giovedì]] nel Consiglio Generale degli Anarchici d'Europa.
+alla carica di Giovedì nel Consiglio Generale degli Anarchici d'Europa.
 
 Ognuno nella sala pareva sentire il rimorchiatore che aspettava sul [[motifs/river|fiume]],
-il bastone-[[Sword|spada]] e la rivoltella, che aspettavano sul tavolo.
+il bastone-spada e la rivoltella, che aspettavano sul tavolo.
 Nell'istante in cui l'elezione fu conclusa e irrevocabile, e Syme
 ebbe ricevuto il foglio che ne provava l'elezione, tutti balzarono
 in piedi, e i gruppi infuocati si mossero e si mescolarono nella sala.
@@ -2325,7 +2325,7 @@ alla sua fine.»
 «Che cosa intendete?» gridò il caotico Gregory. «Che cosa vi ho promesso?»
 
 «Una serata assai divertente» disse Syme, e fece un saluto militare
-col bastone-[[Sword|spada]] mentre il battello a vapore scivolava via.
+col bastone-spada mentre il battello a vapore scivolava via.
 
 
 
@@ -2358,7 +2358,7 @@ the latter had pretty [[motifs/well|well]] reached the point of defending cannib
 
 Being surrounded with every conceivable kind of revolt from infancy,
 Gabriel had to revolt into something, so he revolted into the only
-thing left--[[Sanity|sanity]].  But there was just enough in him of the [[motifs/blood|blood]]
+thing left--sanity.  But there was just enough in him of the [[motifs/blood|blood]]
 of these fanatics to make even his protest for common sense a little
 too fierce to be sensible.  His hatred of modern lawlessness
 had been crowned also by an accident.  It happened that he was
@@ -2373,12 +2373,12 @@ He regarded them as a huge and pitiless peril, like a Chinese invasion.
 
 He poured perpetually into newspapers and their waste-paper baskets
 a torrent of tales, verses and violent articles, warning men
-of this [[deluge]] of barbaric denial.  But he seemed to be getting
+of this deluge of barbaric denial.  But he seemed to be getting
 no nearer his enemy, and, what was worse, no nearer a living.
 As he paced the Thames embankment, bitterly biting a cheap cigar
 and brooding on the advance of Anarchy, there was no anarchist
 with a bomb in his pocket so savage or so solitary as he.
-Indeed, he always felt that [[government|Government]] stood [[Alone|alone]] and desperate,
+Indeed, he always felt that Government stood alone and desperate,
 with its back to the wall.  He was too quixotic to have cared
 for it otherwise.
 
@@ -2450,7 +2450,7 @@ outbreaks of the human will.  I trust I make myself clear."
 
 "If you mean that you make your opinion clear," said Syme, "I suppose you do.
 But as for making yourself clear, it is the last thing you do.
-How comes a man like you to be talking [[philosophy]] in a blue helmet
+How comes a man like you to be talking philosophy in a blue helmet
 on the Thames embankment?"
 
 
@@ -2482,7 +2482,7 @@ il secondo aveva praticamente [[motifs/well|già]] raggiunto il punto di difende
 
 Circondato fin dall'infanzia da ogni concepibile forma di rivolta,
 Gabriel dovette ribellarsi in qualcosa, così si ribellò nell'unica
-cosa rimasta: la [[Sanity|sanità mentale]]. Ma vi era in lui appena abbastanza del [[motifs/blood|sangue]]
+cosa rimasta: la sanità mentale. Ma vi era in lui appena abbastanza del [[motifs/blood|sangue]]
 di quei fanatici da rendere persino la sua protesta a favore del buon senso un po'
 troppo feroce per essere sensata. Il suo odio per l'illegalità moderna
 era stato coronato anche da un incidente. Accadde che stesse
@@ -2497,12 +2497,12 @@ Li considerava come un pericolo enorme e spietato, come un'invasione cinese.
 
 Riversava perpetuamente nei giornali e nei loro cestini della carta straccia
 un torrente di racconti, versi e articoli violenti, avvertendo gli uomini
-di questo [[deluge|diluvio]] di negazione barbarica. Ma non sembrava avvicinarsi
+di questo diluvio di negazione barbarica. Ma non sembrava avvicinarsi
 per nulla al suo nemico e, ciò che era peggio, per nulla a un mezzo di sussistenza.
 Mentre percorreva l'argine del Tamigi, mordendo amaramente un sigaro da poco
 e rimuginando sull'avanzata dell'Anarchia, non vi era anarchico
 con una bomba in tasca tanto feroce o tanto solitario quanto lui.
-In verità, sentiva sempre che il [[government|Governo]] stava [[Alone|solo]] e disperato,
+In verità, sentiva sempre che il Governo stava solo e disperato,
 con le spalle al muro. Era troppo donchisciottesco per averci tenuto
 altrimenti.
 
@@ -2574,7 +2574,7 @@ scoppi della volontà umana. Confido di essermi spiegato con chiarezza.»
 
 «Se intendete che rendete chiara la vostra opinione,» disse Syme, «suppongo di sì.
 Ma quanto a spiegare voi stesso, è l'ultima cosa che fate.
-Come mai un uomo come voi si trova a discutere di [[philosophy|filosofia]] con un elmo azzurro
+Come mai un uomo come voi si trova a discutere di filosofia con un elmo azzurro
 sull'argine del Tamigi?»
 
 
@@ -2826,7 +2826,7 @@ and went forth to track and fight the enemy in all the drawing-rooms
 of [[settings/london|London]].  Where his adventure ultimately led him we have already seen.
 At about half-past one on a February [[motifs/night|night]] he found himself steaming
 in a small tug up the silent Thames, armed with swordstick and revolver,
-the duly elected [[thursday|Thursday]] of the Central Council of Anarchists.
+the duly elected Thursday of the Central Council of Anarchists.
 
 When Syme stepped out on to the steam-tug he had a singular sensation
 of stepping out into something entirely new; not merely into the
@@ -2849,9 +2849,9 @@ the more his own chivalric folly glowed in the [[motifs/night|night]] like a gre
 Even the common things he carried with him--the food and the brandy and
 the loaded [[characters/pistol|pistol]]--took on exactly that concrete and material poetry which
 a [[archetypes/child|child]] feels when he takes a gun upon a [[motifs/journey|journey]] or a bun with him to bed.
-The [[Sword|sword]]-stick and the brandy-flask, though in themselves only the tools of
-morbid conspirators, became the expressions of his own more healthy [[Romance|romance]].
-The [[Sword|sword]]-stick became almost the [[Sword|sword]] of chivalry, and the brandy the wine
+The sword-stick and the brandy-flask, though in themselves only the tools of
+morbid conspirators, became the expressions of his own more healthy romance.
+The sword-stick became almost the sword of chivalry, and the brandy the wine
 of the stirrup-cup. For even the most dehumanised modern fantasies depend on
 some older and simpler figure; the adventures may be mad, but the adventurer
 must be sane.  The dragon without St. George would not even be [[concepts/grotesque|grotesque]].
@@ -2917,11 +2917,11 @@ Syme, del tutto travolto, oppose una debole resistenza a quella frase irrevocabi
 
 «Io sì,» disse l'altro: «i martiri. Vi condanno a [[motifs/death|morte]]. Buona giornata.»
 
-Fu così che quando [[characters/gabriel-syme|Gabriel Syme]] uscì di nuovo nella luce cremisi della sera, con il suo logoro cappello nero e il suo logoro e fuorilegge mantello, ne uscì membro del Nuovo Corpo dei [[archetypes/detective|Detective]] per la sconfitta della grande cospirazione. Seguendo il consiglio dell'amico poliziotto (che per vocazione professionale amava l'ordine), si spuntò i capelli e la barba, comprò un buon cappello, si vestì di uno squisito abito [[motifs/summer|estivo]] azzurro-grigio chiaro, con un pallido fiore giallo all'occhiello, e insomma divenne quell'elegante e piuttosto insopportabile personaggio che Gregory aveva incontrato la prima volta nel giardinetto [[motifs/garden|giardino]] di Saffron Park. Prima di lasciare definitivamente i locali della polizia, l'amico gli fornì un piccolo cartoncino azzurro, su cui era scritto «L'Ultima Crociata», e un numero, il segno della sua autorità ufficiale. Se lo ripose con cura nel taschino superiore del panciotto, accese una sigaretta, e uscì per dare la caccia al nemico e combatterlo in tutti i salotti di [[settings/london|Londra]]. Dove infine la sua avventura lo condusse, lo abbiamo già veduto. Verso l'una e mezzo di una [[motifs/night|notte]] di febbraio si trovò a risalire vaporando in un piccolo rimorchiatore il silenzioso Tamigi, armato di bastone-spada e di rivoltella, il debitamente eletto [[thursday|Giovedì]] del Consiglio Centrale degli Anarchici.
+Fu così che quando [[characters/gabriel-syme|Gabriel Syme]] uscì di nuovo nella luce cremisi della sera, con il suo logoro cappello nero e il suo logoro e fuorilegge mantello, ne uscì membro del Nuovo Corpo dei [[archetypes/detective|Detective]] per la sconfitta della grande cospirazione. Seguendo il consiglio dell'amico poliziotto (che per vocazione professionale amava l'ordine), si spuntò i capelli e la barba, comprò un buon cappello, si vestì di uno squisito abito [[motifs/summer|estivo]] azzurro-grigio chiaro, con un pallido fiore giallo all'occhiello, e insomma divenne quell'elegante e piuttosto insopportabile personaggio che Gregory aveva incontrato la prima volta nel giardinetto [[motifs/garden|giardino]] di Saffron Park. Prima di lasciare definitivamente i locali della polizia, l'amico gli fornì un piccolo cartoncino azzurro, su cui era scritto «L'Ultima Crociata», e un numero, il segno della sua autorità ufficiale. Se lo ripose con cura nel taschino superiore del panciotto, accese una sigaretta, e uscì per dare la caccia al nemico e combatterlo in tutti i salotti di [[settings/london|Londra]]. Dove infine la sua avventura lo condusse, lo abbiamo già veduto. Verso l'una e mezzo di una [[motifs/night|notte]] di febbraio si trovò a risalire vaporando in un piccolo rimorchiatore il silenzioso Tamigi, armato di bastone-spada e di rivoltella, il debitamente eletto Giovedì del Consiglio Centrale degli Anarchici.
 
 Quando Syme mise piede sul rimorchiatore a vapore ebbe la singolare sensazione di uscire in qualcosa di interamente nuovo; non semplicemente nel paesaggio di una terra nuova, ma addirittura nel paesaggio di un nuovo pianeta. Ciò era dovuto soprattutto alla decisione insensata eppure salda di quella sera, ma in parte anche a un mutamento completo del tempo e del cielo dacché era entrato nella piccola taverna un paio d'ore prima. Ogni traccia del piumaggio appassionato del tramonto nuvoloso era stata spazzata via, e una [[motifs/moon|luna]] nuda si ergeva in un cielo nudo. La [[motifs/moon|luna]] era così forte e piena che (per un [[concepts/paradox|paradosso]] spesso osservabile) sembrava un sole più debole. Non dava il senso del chiaro splendore lunare, ma piuttosto di una luce diurna spenta.
 
-Sull'intero paesaggio giaceva una luminosa e innaturale scoloritura, come quella del disastroso crepuscolo di cui [[historical-references/milton|Milton]] parlò come sparso dal sole in eclissi; sicché Syme cadde facilmente nel suo primo pensiero, che si trovasse davvero su qualche altro e più vuoto pianeta, ruotante attorno a qualche più triste stella. Ma quanto più egli sentiva questa scintillante desolazione nella terra illuminata dalla luna, tanto più la sua stessa follia cavalleresca ardeva nella [[motifs/night|notte]] come un gran [[motifs/fire|fuoco]]. Perfino le cose comuni che portava con sé — il cibo, il brandy e la [[characters/pistol|pistola]] carica — assumevano proprio quella concreta e materiale poesia che un [[archetypes/child|bambino]] prova quando prende un fucile per un [[motifs/journey|viaggio]] o si porta a letto un dolce. Il bastone-[[Sword|spada]] e la fiaschetta di brandy, benché in sé soltanto arnesi di morbosi cospiratori, divennero le espressioni del suo più sano [[Romance|romanzesco]]. Il bastone-[[Sword|spada]] divenne quasi la [[Sword|spada]] della cavalleria, e il brandy il vino della staffa. Poiché anche le più disumanate fantasie moderne dipendono da qualche figura più antica e più semplice; le avventure possono essere folli, ma l'avventuriero dev'essere sano di mente. Il drago senza San Giorgio non sarebbe neppure [[concepts/grotesque|grottesco]]. Così questo paesaggio disumano era immaginifico soltanto per la presenza di un uomo davvero umano. Alla mente esagerante di Syme le case e le terrazze chiare e desolate lungo il Tamigi apparivano vuote come le [[settings/mountains|montagne]] della [[motifs/moon|luna]]. Ma anche la [[motifs/moon|luna]] è poetica soltanto perché c'è un uomo nella [[motifs/moon|luna]].
+Sull'intero paesaggio giaceva una luminosa e innaturale scoloritura, come quella del disastroso crepuscolo di cui [[historical-references/milton|Milton]] parlò come sparso dal sole in eclissi; sicché Syme cadde facilmente nel suo primo pensiero, che si trovasse davvero su qualche altro e più vuoto pianeta, ruotante attorno a qualche più triste stella. Ma quanto più egli sentiva questa scintillante desolazione nella terra illuminata dalla luna, tanto più la sua stessa follia cavalleresca ardeva nella [[motifs/night|notte]] come un gran [[motifs/fire|fuoco]]. Perfino le cose comuni che portava con sé — il cibo, il brandy e la [[characters/pistol|pistola]] carica — assumevano proprio quella concreta e materiale poesia che un [[archetypes/child|bambino]] prova quando prende un fucile per un [[motifs/journey|viaggio]] o si porta a letto un dolce. Il bastone-spada e la fiaschetta di brandy, benché in sé soltanto arnesi di morbosi cospiratori, divennero le espressioni del suo più sano romanzesco. Il bastone-spada divenne quasi la spada della cavalleria, e il brandy il vino della staffa. Poiché anche le più disumanate fantasie moderne dipendono da qualche figura più antica e più semplice; le avventure possono essere folli, ma l'avventuriero dev'essere sano di mente. Il drago senza San Giorgio non sarebbe neppure [[concepts/grotesque|grottesco]]. Così questo paesaggio disumano era immaginifico soltanto per la presenza di un uomo davvero umano. Alla mente esagerante di Syme le case e le terrazze chiare e desolate lungo il Tamigi apparivano vuote come le [[settings/mountains|montagne]] della [[motifs/moon|luna]]. Ma anche la [[motifs/moon|luna]] è poetica soltanto perché c'è un uomo nella [[motifs/moon|luna]].
 
 Il rimorchiatore era manovrato da due uomini e, con molta fatica, avanzava comparativamente adagio. La limpida [[motifs/moon|luna]] che aveva rischiarato Chiswick era già tramontata nel [[motifs/time|tempo]] in cui passarono Battersea, e quando giunsero sotto l'enorme mole di Westminster il giorno aveva già cominciato a spuntare. Spuntò come lo spaccarsi di grandi sbarre di piombo, rivelando sbarre d'argento; e queste si erano ravvivate come bianco [[motifs/fire|fuoco]] quando il rimorchiatore, mutando la sua rotta in avanti, virò verso l'interno a un ampio pontile d'attracco un poco oltre Charing [[motifs/cross|Cross]].
 
@@ -2946,7 +2946,7 @@ and Syme could come close enough to notice even in the dim, pale morning
 light that his face was long, pale and intellectual, and ended in a small
 triangular tuft of dark beard at the very point of the chin, all else
 being clean-shaven. This scrap of hair almost seemed a mere oversight;
-the rest of the face was of the type that is best shaven--clear-cut, [[ascetic]],
+the rest of the face was of the type that is best shaven--clear-cut, ascetic,
 and in its way noble.  Syme drew closer and closer, noting all this,
 and still the figure did not stir.
 
@@ -2971,7 +2971,7 @@ and the deadly errand and the [[concepts/loneliness|loneliness]] on the great dr
 there was something unnerving in it.
 
 There was the silent [[motifs/river|river]] and the silent man, a man of even classic face.
-And there was the last [[nightmare]] touch that his smile suddenly went wrong.
+And there was the last nightmare touch that his smile suddenly went wrong.
 
 The spasm of smile was instantaneous, and the man's face dropped at once into
 its harmonious [[concepts/melancholy|melancholy]].  He spoke without further explanation or inquiry,
@@ -3055,13 +3055,13 @@ CAPITOLO V
 
 IL BANCHETTO DELLA [[concepts/fear|PAURA]]
 
-DAPPRINCIPIO l'ampia scalinata di pietra parve a Syme deserta come una piramide; ma prima di raggiungerne la cima si era accorto che un uomo se ne stava appoggiato al parapetto dell'Embankment, lo sguardo perso di là dal [[motifs/river|fiume]]. Come figura era del tutto convenzionale: portava il cilindro di seta e la redingote della foggia più formale, e all'occhiello aveva un fiore rosso. Man mano che Syme gli si avvicinava passo dopo passo, quello non muoveva neppure un capello; e Syme poté accostarsi tanto da notare, persino nella luce fioca e pallida del mattino, che il suo volto era lungo, pallido e intellettuale, e terminava in una piccola ciocca triangolare di barba scura sulla punta stessa del mento, per il resto perfettamente rasato. Quel brandello di peli pareva quasi una semplice svista; il resto del viso era di quel tipo che sta meglio sbarbato: netto, [[ascetic|ascetico]] e, a suo modo, nobile. Syme si avvicinava sempre di più, notando tutto questo, e ancora la figura non si scomponeva.
+DAPPRINCIPIO l'ampia scalinata di pietra parve a Syme deserta come una piramide; ma prima di raggiungerne la cima si era accorto che un uomo se ne stava appoggiato al parapetto dell'Embankment, lo sguardo perso di là dal [[motifs/river|fiume]]. Come figura era del tutto convenzionale: portava il cilindro di seta e la redingote della foggia più formale, e all'occhiello aveva un fiore rosso. Man mano che Syme gli si avvicinava passo dopo passo, quello non muoveva neppure un capello; e Syme poté accostarsi tanto da notare, persino nella luce fioca e pallida del mattino, che il suo volto era lungo, pallido e intellettuale, e terminava in una piccola ciocca triangolare di barba scura sulla punta stessa del mento, per il resto perfettamente rasato. Quel brandello di peli pareva quasi una semplice svista; il resto del viso era di quel tipo che sta meglio sbarbato: netto, ascetico e, a suo modo, nobile. Syme si avvicinava sempre di più, notando tutto questo, e ancora la figura non si scomponeva.
 
 Dapprima un istinto aveva detto a Syme che quello era l'uomo che avrebbe dovuto incontrare. Poi, vedendo che l'uomo non dava alcun segno, aveva concluso che non lo era. E ora di nuovo era tornato alla certezza che l'uomo avesse qualcosa a che fare con la sua folle avventura. Poiché l'uomo restava più immobile di quanto sarebbe stato naturale se uno sconosciuto gli si fosse accostato tanto. Era immoto come una figura di cera, e in certo qual modo dava sui nervi allo stesso modo. Syme guardò e riguardò quel volto pallido, dignitoso e delicato, e il volto continuava a fissare, senza espressione, di là dal [[motifs/river|fiume]]. Allora trasse di tasca il biglietto di Buttons che attestava la sua elezione, e lo pose davanti a quel viso triste e bello. Allora l'uomo sorrise, e il suo sorriso fu uno choc, perché era tutto da un lato solo, sollevandosi sulla guancia destra e abbassandosi sulla sinistra.
 
 Non c'era nulla, razionalmente parlando, che dovesse spaventare chicchessia. Molti hanno questo tic nervoso del sorriso storto, e in molti riesce persino gradevole. Ma in tutte le circostanze di Syme, con la cupa [[motifs/dawn|alba]], la missione mortale e la [[concepts/loneliness|solitudine]] sulle grandi pietre gocciolanti, vi era in esso qualcosa di sconvolgente.
 
-C'era il [[motifs/river|fiume]] silenzioso e l'uomo silenzioso, un uomo dal volto addirittura classico. E c'era quell'ultimo tocco da [[nightmare|incubo]]: che il suo sorriso a un tratto andava di traverso.
+C'era il [[motifs/river|fiume]] silenzioso e l'uomo silenzioso, un uomo dal volto addirittura classico. E c'era quell'ultimo tocco da incubo: che il suo sorriso a un tratto andava di traverso.
 
 Lo spasimo del sorriso fu istantaneo, e il volto dell'uomo ripiombò subito nella sua armoniosa [[concepts/melancholy|malinconia]]. Egli parlò senza ulteriori spiegazioni o domande, come un uomo che si rivolge a un vecchio collega.
 
@@ -3353,7 +3353,7 @@ beard cut square and a black English frock-coat cut even squarer.
 But Syme, sensitive to such things, felt somehow that the man carried
 a rich atmosphere with him, a rich atmosphere that suffocated.
 It reminded one irrationally of drowsy odours and of dying lamps
-in the darker [[Poems|poems]] of Byron and Poe.  With this went a sense
+in the darker poems of Byron and Poe.  With this went a sense
 of his being clad, not in lighter colours, but in softer materials;
 his black seemed richer and warmer than the black shades about him,
 as if it were compounded of profound colour.  His black coat
@@ -3400,7 +3400,7 @@ story about pennies being put on the eyes of the dead.
 Syme's eye always caught the black glasses and the blind grin.
 Had the dying Professor worn them, or even the pale Secretary,
 they would have been appropriate.  But on the younger and grosser man
-they seemed only [[An Enigma|an enigma]].  They took away the key of the face.
+they seemed only an enigma.  They took away the key of the face.
 You could not tell what his smile or his gravity meant.
 Partly from this, and partly because he had a vulgar
 virility wanting in most of the others it seemed to Syme
@@ -3419,11 +3419,11 @@ Sulle prime aveva creduto che fossero tutti di statura e foggia comuni, con l'ev
 
 Solo gli esempi individuali potranno esprimere questa eccentricità mezzo nascosta. Il primo cicerone di Syme portava il titolo di Lunedì; era il Segretario del Consiglio, e il suo sorriso contorto era guardato con più terrore di ogni altra cosa, tranne l'orribile, allegra risata del Presidente. Ma ora che Syme aveva più spazio e più luce per osservarlo, altri tratti gli si rivelavano. Il suo bel volto era così emaciato che Syme pensò dovesse essere consunto da qualche malattia; eppure, chissà come, proprio l'angoscia dei suoi occhi scuri smentiva questa ipotesi. Non era un male fisico a tormentarlo. I suoi occhi erano vivi di una tortura intellettuale, come se il puro pensiero fosse [[motifs/pain|dolore]].
 
-Egli era tipico di tutta la tribù; ciascuno era sottilmente e diversamente sbagliato. Accanto a lui sedeva Martedì, lo scarmigliato Gogol, un uomo più manifestamente folle. Poi veniva Mercoledì, un certo Marchese di St. Eustache, figura abbastanza caratteristica. I primi sguardi non trovavano in lui nulla di insolito, tranne che era l'unico a tavola a portare gli abiti alla moda come se fossero davvero suoi. Aveva una barba nera alla francese tagliata quadrata e una redingote nera all'inglese tagliata ancora più quadrata. Ma Syme, sensibile a simili cose, sentiva chissà come che quell'uomo si portava dietro un'atmosfera densa, un'atmosfera densa che soffocava. Ricordava, in modo irrazionale, gli aromi assopiti e le lampade morenti dei [[Poems|poemi]] più tenebrosi di Byron e di Poe. A ciò si univa la sensazione che egli fosse vestito non di colori più chiari, ma di materiali più morbidi; il suo nero pareva più ricco e più caldo delle sfumature nere circostanti, come se fosse composto di un colore profondo. La sua giacca nera sembrava nera solo per essere un purpureo troppo denso. La sua barba nera sembrava nera solo per essere un azzurro troppo cupo. E nella penombra e nella folta barba la sua bocca rosso scuro si mostrava sensuale e sprezzante. Qualunque cosa fosse, non era un francese; poteva essere un ebreo; poteva essere qualcosa di ancora più profondo, nel cuore oscuro dell'Oriente. Nelle piastrelle e nelle immagini persiane dai vivi colori, che mostrano tiranni a caccia, si possono vedere proprio quegli occhi a mandorla, quelle barbe nero-azzurre, quelle labbra crudeli e cremisi.
+Egli era tipico di tutta la tribù; ciascuno era sottilmente e diversamente sbagliato. Accanto a lui sedeva Martedì, lo scarmigliato Gogol, un uomo più manifestamente folle. Poi veniva Mercoledì, un certo Marchese di St. Eustache, figura abbastanza caratteristica. I primi sguardi non trovavano in lui nulla di insolito, tranne che era l'unico a tavola a portare gli abiti alla moda come se fossero davvero suoi. Aveva una barba nera alla francese tagliata quadrata e una redingote nera all'inglese tagliata ancora più quadrata. Ma Syme, sensibile a simili cose, sentiva chissà come che quell'uomo si portava dietro un'atmosfera densa, un'atmosfera densa che soffocava. Ricordava, in modo irrazionale, gli aromi assopiti e le lampade morenti dei poemi più tenebrosi di Byron e di Poe. A ciò si univa la sensazione che egli fosse vestito non di colori più chiari, ma di materiali più morbidi; il suo nero pareva più ricco e più caldo delle sfumature nere circostanti, come se fosse composto di un colore profondo. La sua giacca nera sembrava nera solo per essere un purpureo troppo denso. La sua barba nera sembrava nera solo per essere un azzurro troppo cupo. E nella penombra e nella folta barba la sua bocca rosso scuro si mostrava sensuale e sprezzante. Qualunque cosa fosse, non era un francese; poteva essere un ebreo; poteva essere qualcosa di ancora più profondo, nel cuore oscuro dell'Oriente. Nelle piastrelle e nelle immagini persiane dai vivi colori, che mostrano tiranni a caccia, si possono vedere proprio quegli occhi a mandorla, quelle barbe nero-azzurre, quelle labbra crudeli e cremisi.
 
 Poi veniva Syme, e accanto a lui un vecchissimo, il Professor de Worms, che teneva ancora la cattedra di Venerdì, benché ogni giorno si aspettasse che la sua [[motifs/death|morte]] la lasciasse vuota. Salvo che per l'intelletto, era all'ultima dissoluzione del [[motifs/decay|disfacimento]] senile. Il suo volto era grigio come la sua lunga barba grigia, la fronte era sollevata e fissata per sempre in un solco di mite [[concepts/despair|disperazione]]. In nessun altro caso, nemmeno in quello di Gogol, la nuziale brillantezza dell'abito da mattina esprimeva un contrasto più penoso. Poiché il fiore rosso all'occhiello risaltava contro un viso letteralmente scolorito come il piombo; e l'intero effetto orrendo era come se certi dandy ubriachi avessero messo i loro abiti addosso a un cadavere. Quando si [[motifs/rose|alzava]] o si sedeva, cosa che avveniva con lunga fatica e con pericolo, si esprimeva qualcosa di peggiore della semplice debolezza, qualcosa d'indefinibilmente legato all'orrore dell'intera scena. Non esprimeva soltanto decrepitezza, ma corruzione. Un altro odioso capriccio attraversò la mente tremante di Syme. Non poteva fare a meno di pensare che, ogni volta che l'uomo si muoveva, una gamba o un braccio potesse staccarsi.
 
-Proprio all'estremità sedeva l'uomo chiamato Sabato, il più semplice e il più sconcertante di tutti. Era un uomo basso e tozzo, dal volto scuro e quadrato ben rasato, un medico che rispondeva al nome di Bull. Aveva quella combinazione di savoir-faire con una sorta di rozzezza [[motifs/well|ben]] curata che non è rara nei giovani dottori. Portava i suoi begli abiti con sicurezza più che con disinvoltura, e per lo più teneva un sorriso fisso. Non c'era nulla di strano in lui, tranne che portava un paio di occhiali scuri, quasi opachi. Poteva essere solo un crescendo della fantasia nervosa che aveva preceduto, ma quei dischi neri erano spaventosi per Syme; gli ricordavano racconti orribili rammentati a metà, una certa storia di monete poste sugli occhi dei morti. Lo sguardo di Syme cadeva sempre sulle lenti nere e sul ghigno cieco. Se li avesse portati il Professore morente, o anche il pallido Segretario, sarebbero stati appropriati. Ma sull'uomo più giovane e più grossolano sembravano solo [[An Enigma|un enigma]]. Toglievano la chiave del volto. Non si poteva dire che cosa significassero il suo sorriso o la sua gravità. In parte per questo, e in parte perché possedeva una virilità volgare che mancava nella maggior parte degli altri, a Syme pareva che potesse essere il più malvagio di tutti quegli uomini malvagi. A Syme venne perfino il pensiero che i suoi occhi fossero coperti perché troppo spaventosi da vedere.
+Proprio all'estremità sedeva l'uomo chiamato Sabato, il più semplice e il più sconcertante di tutti. Era un uomo basso e tozzo, dal volto scuro e quadrato ben rasato, un medico che rispondeva al nome di Bull. Aveva quella combinazione di savoir-faire con una sorta di rozzezza [[motifs/well|ben]] curata che non è rara nei giovani dottori. Portava i suoi begli abiti con sicurezza più che con disinvoltura, e per lo più teneva un sorriso fisso. Non c'era nulla di strano in lui, tranne che portava un paio di occhiali scuri, quasi opachi. Poteva essere solo un crescendo della fantasia nervosa che aveva preceduto, ma quei dischi neri erano spaventosi per Syme; gli ricordavano racconti orribili rammentati a metà, una certa storia di monete poste sugli occhi dei morti. Lo sguardo di Syme cadeva sempre sulle lenti nere e sul ghigno cieco. Se li avesse portati il Professore morente, o anche il pallido Segretario, sarebbero stati appropriati. Ma sull'uomo più giovane e più grossolano sembravano solo un enigma. Toglievano la chiave del volto. Non si poteva dire che cosa significassero il suo sorriso o la sua gravità. In parte per questo, e in parte perché possedeva una virilità volgare che mancava nella maggior parte degli altri, a Syme pareva che potesse essere il più malvagio di tutti quegli uomini malvagi. A Syme venne perfino il pensiero che i suoi occhi fossero coperti perché troppo spaventosi da vedere.
 
 
 
@@ -3512,7 +3512,7 @@ still quietly studying him with big, unbearable eyes.
 
 In all the torrent of his thought there were two thoughts that never
 crossed his mind.  First, it never occurred to him to [[concepts/doubt|doubt]] that the
-President and his Council could crush him if he continued to stand [[Alone|alone]].
+President and his Council could crush him if he continued to stand alone.
 The place might be public, the project might seem impossible.
 But [[characters/sunday|Sunday]] was not the man who would carry himself thus easily
 without having, somehow or somewhere, set open his iron trap.
@@ -3626,7 +3626,7 @@ che ancora silenziosamente lo studiava con occhi grandi e insostenibili.
 
 In tutto il torrente dei suoi pensieri c'erano due pensieri che non gli
 attraversarono mai la mente. Primo, non gli venne mai in mente di [[concepts/doubt|dubitare]] che il
-Presidente e il suo Consiglio potessero annientarlo se avesse continuato a restare [[Alone|solo]].
+Presidente e il suo Consiglio potessero annientarlo se avesse continuato a restare solo.
 Il luogo poteva essere pubblico, il progetto poteva sembrare impossibile.
 Ma [[characters/sunday|Sunday]] non era uomo da comportarsi con tanta disinvoltura
 senza avere, in qualche modo o in qualche luogo, già disposto e aperto la sua trappola di ferro.
@@ -3663,7 +3663,7 @@ del tutto abbastanza codardo da ammirarla.
 The men were eating as they talked, and even in this they were typical.
 Dr. Bull and the Marquis ate casually and conventionally of the best
 things on the table--cold pheasant or Strasbourg pie.  But the Secretary
-was a [[vegetarian]], and he spoke earnestly of the projected murder
+was a vegetarian, and he spoke earnestly of the projected murder
 over half a raw tomato and three quarters of a glass of tepid [[motifs/water|water]].
 The old Professor had such slops as suggested a sickening second [[motifs/childhood|childhood]].
 And even in this President [[characters/sunday|Sunday]] preserved his curious predominance of
@@ -3745,7 +3745,7 @@ the fact that he had not the muscles of a tiger or a horn on his nose
 like a rhinoceros.  All was swallowed up in an ultimate certainty
 that the President was wrong and that the barrel-organ was right.
 There clanged in his mind that unanswerable and terrible truism
-in the [[Song|song]] of Roland--
+in the song of Roland--
 
 "Pagens ont tort et Chretiens ont droit."
 
@@ -3758,7 +3758,7 @@ It was his last triumph over these lunatics to go down into their dark
 room and die for something that they could not even understand.
 The barrel-organ seemed to give the marching tune with the energy
 and the mingled noises of a whole orchestra; and he could hear deep
-and [[rolling]], under all the trumpets of the [[concepts/pride|pride]] of life, the drums
+and rolling, under all the trumpets of the [[concepts/pride|pride]] of life, the drums
 of the [[concepts/pride|pride]] of [[motifs/death|death]].
 
 The conspirators were already filing through the open [[motifs/window|window]]
@@ -3772,7 +3772,7 @@ When they were all in, he closed and locked the door.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Gli uomini mangiavano mentre discorrevano, e persino in questo erano caratteristici. Il dottor Bull e il Marchese mangiavano con noncuranza e convenzionalmente le cose migliori che c'erano in tavola: fagiano freddo o pâté di Strasburgo. Il Segretario, invece, era [[vegetarian|vegetariano]], e parlava con gravità del progettato assassinio davanti a mezzo pomodoro crudo e a tre quarti di un bicchiere di [[motifs/water|acqua]] tiepida. Il vecchio Professore aveva davanti certe sbobbe che facevano pensare a una nauseante seconda [[motifs/childhood|infanzia]]. E persino in questo il Presidente [[characters/sunday|Sunday]] serbava la sua curiosa preminenza di pura mole. Perché mangiava come venti uomini; mangiava in modo incredibile, con una spaventosa freschezza d'appetito, tanto che era come guardare una fabbrica di salsicce. Eppure di continuo, dopo aver inghiottito una dozzina di focaccine o tracannato un litro di caffè, lo si sorprendeva con la grossa testa piegata da un lato a fissare Syme.
+Gli uomini mangiavano mentre discorrevano, e persino in questo erano caratteristici. Il dottor Bull e il Marchese mangiavano con noncuranza e convenzionalmente le cose migliori che c'erano in tavola: fagiano freddo o pâté di Strasburgo. Il Segretario, invece, era vegetariano, e parlava con gravità del progettato assassinio davanti a mezzo pomodoro crudo e a tre quarti di un bicchiere di [[motifs/water|acqua]] tiepida. Il vecchio Professore aveva davanti certe sbobbe che facevano pensare a una nauseante seconda [[motifs/childhood|infanzia]]. E persino in questo il Presidente [[characters/sunday|Sunday]] serbava la sua curiosa preminenza di pura mole. Perché mangiava come venti uomini; mangiava in modo incredibile, con una spaventosa freschezza d'appetito, tanto che era come guardare una fabbrica di salsicce. Eppure di continuo, dopo aver inghiottito una dozzina di focaccine o tracannato un litro di caffè, lo si sorprendeva con la grossa testa piegata da un lato a fissare Syme.
 
 «Mi sono spesso domandato», disse il Marchese, addentando una gran fetta di pane e marmellata, «se non sarebbe meglio farlo con un coltello. Quasi tutte le cose migliori sono state portate a termine con un coltello. E sarebbe un'emozione nuova ficcare un coltello dentro un Presidente francese e rigirarlo un poco.»
 
@@ -3796,11 +3796,11 @@ Il discorso s'interruppe di netto sotto una vasta [[archetypes/shadow|ombra]]. I
 
 Syme si alzò prima di tutti gli altri. L'istante della scelta era finalmente giunto, la [[characters/pistol|pistola]] gli era puntata alla tempia. Sul selciato, ancora prima, poteva udire il poliziotto muoversi pigramente e battere i piedi, ché la mattina, per quanto luminosa, era fredda.
 
-Un organetto a manovella nella strada attaccò d'un tratto, con uno scatto, un motivo gioviale. Syme si drizzò teso, come se fosse stato lo squillo di tromba prima della battaglia. Si sentì colmo di un [[motifs/supernatural|soprannaturale]] [[concepts/courage|coraggio]] venuto dal nulla. Quella musica tintinnante pareva piena della vivacità, della volgarità e dell'irrazionale valore dei poveri, i quali, in tutte quelle strade sudicie, si aggrappavano tutti alle decenze e alle carità della Cristianità. Il suo giovanile capriccio di fare il poliziotto gli era svanito dalla mente; non pensava a se stesso come al rappresentante del corpo di gentiluomini trasformati in agenti mascherati, né del vecchio eccentrico che viveva nella stanza buia. Ma si sentiva davvero l'ambasciatore di tutta questa gente comune e gentile della strada, che ogni giorno marciava in battaglia al suono dell'organetto. E questo alto [[concepts/pride|orgoglio]] di essere uomo lo aveva sollevato inspiegabilmente a un'altezza infinita al di sopra dei mostruosi uomini che lo circondavano. Per un istante, almeno, guardò dall'alto tutte le loro sgangherate eccentricità dal pinnacolo stellato del quotidiano. Provava verso tutti loro quella inconscia ed elementare superiorità che un uomo coraggioso prova sulle bestie possenti, o un uomo saggio sui possenti errori. Sapeva di non avere né la forza intellettuale né quella fisica del Presidente [[characters/sunday|Sunday]]; ma in quel momento se ne curava non più del fatto di non avere i muscoli di una tigre o un corno sul naso come un rinoceronte. Tutto era inghiottito da un'ultima certezza: che il Presidente aveva torto e che l'organetto aveva ragione. Gli risuonava nella mente quell'irrefutabile e terribile assioma del [[Song|canto]] di Rolando:
+Un organetto a manovella nella strada attaccò d'un tratto, con uno scatto, un motivo gioviale. Syme si drizzò teso, come se fosse stato lo squillo di tromba prima della battaglia. Si sentì colmo di un [[motifs/supernatural|soprannaturale]] [[concepts/courage|coraggio]] venuto dal nulla. Quella musica tintinnante pareva piena della vivacità, della volgarità e dell'irrazionale valore dei poveri, i quali, in tutte quelle strade sudicie, si aggrappavano tutti alle decenze e alle carità della Cristianità. Il suo giovanile capriccio di fare il poliziotto gli era svanito dalla mente; non pensava a se stesso come al rappresentante del corpo di gentiluomini trasformati in agenti mascherati, né del vecchio eccentrico che viveva nella stanza buia. Ma si sentiva davvero l'ambasciatore di tutta questa gente comune e gentile della strada, che ogni giorno marciava in battaglia al suono dell'organetto. E questo alto [[concepts/pride|orgoglio]] di essere uomo lo aveva sollevato inspiegabilmente a un'altezza infinita al di sopra dei mostruosi uomini che lo circondavano. Per un istante, almeno, guardò dall'alto tutte le loro sgangherate eccentricità dal pinnacolo stellato del quotidiano. Provava verso tutti loro quella inconscia ed elementare superiorità che un uomo coraggioso prova sulle bestie possenti, o un uomo saggio sui possenti errori. Sapeva di non avere né la forza intellettuale né quella fisica del Presidente [[characters/sunday|Sunday]]; ma in quel momento se ne curava non più del fatto di non avere i muscoli di una tigre o un corno sul naso come un rinoceronte. Tutto era inghiottito da un'ultima certezza: che il Presidente aveva torto e che l'organetto aveva ragione. Gli risuonava nella mente quell'irrefutabile e terribile assioma del canto di Rolando:
 
 «Pagens ont tort et Chretiens ont droit.»
 
-che nel vecchio francese nasale ha il clangore e il gemito del gran ferro. Questa liberazione del suo spirito dal peso della sua debolezza si accompagnò a una decisione affatto limpida di abbracciare la [[motifs/death|morte]]. Se la gente dell'organetto poteva mantenere i suoi obblighi d'altri tempi, poteva farlo anche lui. Questo stesso [[concepts/pride|orgoglio]] di mantenere la parola stava proprio nel mantenerla a dei miscredenti. Era il suo ultimo trionfo su questi folli scendere nella loro stanza buia e morire per qualcosa che essi non potevano nemmeno comprendere. L'organetto pareva dare il motivo della marcia con l'energia e con i frastuoni mescolati di un'intera orchestra; e poteva udire, profondi e [[rolling|rombanti]], sotto tutte le trombe dell'[[concepts/pride|orgoglio]] della vita, i tamburi dell'[[concepts/pride|orgoglio]] della [[motifs/death|morte]].
+che nel vecchio francese nasale ha il clangore e il gemito del gran ferro. Questa liberazione del suo spirito dal peso della sua debolezza si accompagnò a una decisione affatto limpida di abbracciare la [[motifs/death|morte]]. Se la gente dell'organetto poteva mantenere i suoi obblighi d'altri tempi, poteva farlo anche lui. Questo stesso [[concepts/pride|orgoglio]] di mantenere la parola stava proprio nel mantenerla a dei miscredenti. Era il suo ultimo trionfo su questi folli scendere nella loro stanza buia e morire per qualcosa che essi non potevano nemmeno comprendere. L'organetto pareva dare il motivo della marcia con l'energia e con i frastuoni mescolati di un'intera orchestra; e poteva udire, profondi e rombanti, sotto tutte le trombe dell'[[concepts/pride|orgoglio]] della vita, i tamburi dell'[[concepts/pride|orgoglio]] della [[motifs/death|morte]].
 
 I congiurati stavano già sfilando attraverso la [[motifs/window|finestra]] aperta e nelle stanze retrostanti. Syme andò per ultimo, esteriormente calmo, ma con tutto il cervello e il [[concepts/body|corpo]] pulsanti di un ritmo romantico. Il Presidente li condusse giù per una scaletta laterale sconnessa, quale poteva servire alla servitù, e in una stanza fioca, fredda, vuota, con un tavolo e delle panche, come una sala di consiglio abbandonata. Quando furono tutti dentro, chiuse la porta e la serrò a chiave.
 
@@ -3818,7 +3818,7 @@ You zay you show himselves.  It is all nuzzinks.  Ven you vant
 talk importance you run yourselves in a dark box!"
 
 The President seemed to take the foreigner's incoherent [[forms/satire|satire]]
-with entire good [[Humour|humour]].
+with entire good humour.
 
 "You can't get hold of it yet, Gogol," he said in a fatherly way.
 "When once they have heard us talking nonsense on that balcony
@@ -3897,7 +3897,7 @@ over there who pretends to be a Pole."
 
 Gogol sprang to his feet, a [[characters/pistol|pistol]] in each hand.
 With the same flash three men sprang at his throat.
-Even [[The Professor|the Professor]] made an effort to rise.  But Syme saw little
+Even the Professor made an effort to rise.  But Syme saw little
 of the scene, for he was blinded with a beneficent darkness;
 he had sunk down into his seat shuddering, in a palsy
 of passionate relief.
@@ -3914,7 +3914,7 @@ Voi dize di mozdrarvi. Zono tutte zioggezze. Quando volete
 parlare di goze zerie vi gagciate in una zgatola buia!»
 
 Il Presidente parve accogliere l'incoerente [[forms/satire|satira]] dello straniero
-con perfetto buon [[Humour|umore]].
+con perfetto buon umore.
 
 «Non ci arrivi ancora, Gogol», disse in tono paterno.
 «Una volta che ci avranno sentito dire sciocchezze su quel balcone,
@@ -3993,7 +3993,7 @@ laggiù che finge di essere un polacco.»
 
 Gogol balzò in piedi, una [[characters/pistol|pistola]] in ciascuna mano.
 Nello stesso lampo tre uomini gli si avventarono alla gola.
-Perfino [[The Professor|il Professore]] fece uno sforzo per alzarsi. Ma Syme vide poco
+Perfino il Professore fece uno sforzo per alzarsi. Ma Syme vide poco
 della scena, poiché era accecato da una benefica tenebra;
 era sprofondato sul suo sedile tremando, in una paralisi
 di appassionato sollievo.
@@ -4097,7 +4097,7 @@ The Secretary reared back in a kind of equine anger.
 
 "That's it, that's it," said the President, nodding a
 great many times.  "That's where you fail right enough.
-You fail to understand.  Why, you dancing [[donkey]]," he roared,
+You fail to understand.  Why, you dancing donkey," he roared,
 rising, "you didn't want to be overheard by a spy, didn't you?
 How do you know you aren't overheard now?"
 
@@ -4105,7 +4105,7 @@ And with these words he shouldered his way out of the room,
 shaking with incomprehensible scorn.
 
 Four of the men left behind gaped after him without any
-apparent glimmering of his meaning.  Syme [[Alone|alone]] had even
+apparent glimmering of his meaning.  Syme alone had even
 a glimmering, and such as it was it froze him to the bone.
 If the last words of the President meant anything,
 they meant that he had not after all passed unsuspected.
@@ -4120,7 +4120,7 @@ He had escaped a thunderbolt, but he was still under a cloud.
 At last he [[motifs/rose|rose]] and made his way out of the hotel into
 Leicester Square.  The bright, cold day had grown increasingly colder,
 and when he came out into the street he was surprised by a few
-flakes of [[motifs/snow|snow]].  While he still carried the [[Sword|sword]]-stick and the rest
+flakes of [[motifs/snow|snow]].  While he still carried the sword-stick and the rest
 of Gregory's portable luggage, he had thrown the cloak down and left
 it somewhere, perhaps on the steam-tug, perhaps on the balcony.
 Hoping, therefore, that the [[motifs/snow|snow]]-shower might be slight,
@@ -4226,7 +4226,7 @@ Il Segretario s'impennò all'indietro in una sorta di collera equina.
 
 «Ecco, ecco», disse il Presidente, annuendo un
 gran numero di volte. «È proprio lì che fallite. Non riuscite
-a capire. Ma insomma, razza di [[donkey|asino]] danzante», ruggì,
+a capire. Ma insomma, razza di asino danzante», ruggì,
 alzandosi, «non volevate essere uditi da una spia, vero?
 E come sapete di non essere uditi adesso?»
 
@@ -4234,7 +4234,7 @@ E con queste parole si aprì la strada a spallate fuori dalla stanza,
 scosso da un incomprensibile disprezzo.
 
 Quattro degli uomini rimasti indietro rimasero a bocca aperta dietro di lui senza alcun
-apparente barlume del suo significato. Il solo Syme, [[Alone|solo]], ne ebbe persino
+apparente barlume del suo significato. Il solo Syme, solo, ne ebbe persino
 un barlume, e per quanto tenue esso lo agghiacciò fino alle ossa.
 Se le ultime parole del Presidente significavano qualcosa,
 significavano che egli, dopo tutto, non era passato insospettato.
@@ -4243,13 +4243,13 @@ tuttavia non poteva neppure fidarsi di lui come degli altri.
 
 Gli altri quattro si alzarono in piedi brontolando più o meno, e si recarono
 altrove a cercare il pranzo, poiché era già [[motifs/well|ben]]
-oltre mezzogiorno. [[The Professor|Il Professore]] andò per ultimo, molto lentamente e a fatica.
+oltre mezzogiorno. Il Professore andò per ultimo, molto lentamente e a fatica.
 Syme rimase seduto a lungo dopo che gli altri se n'erano andati, rimuginando sulla propria strana posizione.
 Era scampato a un fulmine, ma restava ancora sotto una nube.
 Alla fine si [[motifs/rose|alzò]] e si fece strada fuori dall'albergo fino a
 Leicester Square. La giornata luminosa e fredda si era fatta sempre più fredda,
 e quando sbucò nella strada fu sorpreso da qualche
-fiocco di [[motifs/snow|neve]]. Mentre portava ancora il bastone-[[Sword|spada]] e il resto
+fiocco di [[motifs/snow|neve]]. Mentre portava ancora il bastone-spada e il resto
 del bagaglio portatile di Gregory, aveva gettato via il mantello e lo aveva lasciato
 chissà dove, forse sul rimorchiatore a vapore, forse sul balcone.
 Sperando, dunque, che la spruzzata di [[motifs/snow|neve]] fosse lieve,
@@ -4281,12 +4281,12 @@ of his years and infirmities.
 
 Syme was ready to believe anything about the perversions of this
 dehumanized brotherhood; but even he could not believe that
-[[The Professor|the Professor]] had fallen in [[motifs/love|love]] with that particular wax lady.
+the Professor had fallen in [[motifs/love|love]] with that particular wax lady.
 He could only suppose that the man's malady (whatever it was)
 involved some momentary fits of rigidity or trance.
 He was not inclined, however, to feel in this case any very
 compassionate concern.  On the contrary, he rather congratulated
-himself that [[The Professor|the Professor]]'s stroke and his elaborate and
+himself that the Professor's stroke and his elaborate and
 limping walk would make it easy to escape from him and leave
 him miles behind.  For Syme thirsted first and last to get
 clear of the whole poisonous atmosphere, if only for an hour.
@@ -4319,7 +4319,7 @@ At a small table, close up to the blank [[motifs/window|window]] and the white
 street of [[motifs/snow|snow]], sat the old anarchist Professor over a glass
 of milk, with his lifted livid face and pendent eyelids.
 For an instant Syme stood as rigid as the stick he leant upon.
-Then with a gesture as of blind hurry, he brushed past [[The Professor|the Professor]],
+Then with a gesture as of blind hurry, he brushed past the Professor,
 dashing open the door and slamming it behind him, and stood outside
 in the [[motifs/snow|snow]].
 
@@ -4344,7 +4344,7 @@ he done so, when Professor de Worms hobbled heavily into the shop,
 sat down with difficulty and ordered a glass of milk.
 
 Syme's walking-stick had fallen from his hand with a great clang,
-which confessed the concealed steel.  But [[The Professor|the Professor]] did
+which confessed the concealed steel.  But the Professor did
 not look round.  Syme, who was commonly a cool character,
 was literally gaping as a rustic gapes at a conjuring trick.
 He had seen no cab following; he had heard no wheels outside
@@ -4372,17 +4372,17 @@ in the mackintosh rug.
 
 La [[motifs/snow|neve]], tuttavia, cominciò a infittirsi e a cadere rapida; e Syme, avendo trovato che una sola occhiata alla dama di cera bastava ad abbattergli l'animo, preferì volgere lo sguardo fuori, sulla strada bianca e deserta. Con non poca sorpresa vide, immobile davanti alla vetrina e intento a fissare la [[motifs/window|vetrina]], un uomo. Il suo cilindro era carico di [[motifs/snow|neve]] come il cappello di Babbo Natale, il bianco cumulo gli saliva attorno agli stivali e alle caviglie; ma pareva che nulla potesse strapparlo dalla contemplazione di quella scolorita bambola di cera in un lercio abito da sera. Che un essere umano se ne stesse con simile tempo a guardare dentro una simile bottega era per Syme motivo di sufficiente [[concepts/wonder|meraviglia]]; ma la sua oziosa [[concepts/wonder|meraviglia]] si mutò d'un tratto in personale sgomento; poiché si accorse che l'uomo lì ritto era il paralitico vecchio professor de Worms. Non sembrava proprio il luogo adatto a una persona dei suoi anni e delle sue infermità.
 
-Syme era pronto a credere qualunque cosa sulle perversioni di quella disumanizzata confraternita; ma neppure lui poteva credere che [[The Professor|il Professore]] si fosse [[motifs/love|innamorato]] di quella particolare dama di cera. Poteva soltanto supporre che il male dell'uomo (qualunque fosse) comportasse momentanei accessi di rigidità o di trance. Non era però incline, in questo caso, a provare alcuna commiserazione particolarmente sollecita. Al contrario, si rallegrava piuttosto al pensiero che l'ictus del [[The Professor|Professore]] e la sua elaborata andatura claudicante gli avrebbero reso facile sfuggirgli e lasciarlo miglia indietro. Poiché Syme non desiderava altro, prima e più di ogni cosa, che liberarsi dall'intera atmosfera avvelenata, non fosse che per un'ora. Allora avrebbe potuto raccogliere i pensieri, formulare la propria strategia e decidere infine se dovesse o non dovesse tener [[concepts/faith|fede]] alla parola data a Gregory.
+Syme era pronto a credere qualunque cosa sulle perversioni di quella disumanizzata confraternita; ma neppure lui poteva credere che il Professore si fosse [[motifs/love|innamorato]] di quella particolare dama di cera. Poteva soltanto supporre che il male dell'uomo (qualunque fosse) comportasse momentanei accessi di rigidità o di trance. Non era però incline, in questo caso, a provare alcuna commiserazione particolarmente sollecita. Al contrario, si rallegrava piuttosto al pensiero che l'ictus del Professore e la sua elaborata andatura claudicante gli avrebbero reso facile sfuggirgli e lasciarlo miglia indietro. Poiché Syme non desiderava altro, prima e più di ogni cosa, che liberarsi dall'intera atmosfera avvelenata, non fosse che per un'ora. Allora avrebbe potuto raccogliere i pensieri, formulare la propria strategia e decidere infine se dovesse o non dovesse tener [[concepts/faith|fede]] alla parola data a Gregory.
 
 Se ne andò a passeggio in mezzo alla [[motifs/snow|neve]] danzante, risalì due o tre strade, ne discese altre due o tre, ed entrò per il pranzo in un piccolo ristorante di Soho. Consumò pensosamente quattro pietanze piccole e bizzarre, bevve mezza bottiglia di vino rosso, e finì davanti a un caffè nero e a un sigaro nero, ancora immerso nei suoi pensieri. Aveva preso posto nella sala superiore del ristorante, che era piena del tintinnio dei coltelli e del chiacchiericcio di stranieri. Ricordò che un tempo aveva immaginato che tutti quegli innocui e cordiali forestieri fossero anarchici. Rabbrividì, ricordando la cosa autentica. Ma perfino il brivido aveva la deliziosa vergogna della fuga. Il vino, il cibo comune, il luogo familiare, i volti di uomini naturali e loquaci gli facevano quasi sentire come se il Consiglio dei Sette Giorni fosse stato un brutto sogno; e per quanto sapesse che era nondimeno una realtà oggettiva, era almeno una realtà lontana. Alte case e strade popolose si frapponevano tra lui e l'ultima visione dei sette obbrobriosi; era libero nella libera [[settings/london|Londra]], e beveva vino tra i liberi. Con gesto alquanto più disinvolto prese il cappello e il bastone e scese le scale nella bottega sottostante.
 
-Quando entrò in quella sala inferiore rimase impietrito e inchiodato sul posto. A un tavolino, addossato alla nuda [[motifs/window|vetrina]] e alla bianca strada di [[motifs/snow|neve]], sedeva il vecchio anarchico Professore davanti a un bicchiere di latte, col suo volto sollevato e livido e le palpebre cadenti. Per un istante Syme rimase rigido come il bastone su cui si appoggiava. Poi, con un gesto quasi di cieca fretta, sfiorò di striscio [[The Professor|il Professore]], spalancò la porta e la sbatté dietro di sé, e si trovò fuori nella [[motifs/snow|neve]].
+Quando entrò in quella sala inferiore rimase impietrito e inchiodato sul posto. A un tavolino, addossato alla nuda [[motifs/window|vetrina]] e alla bianca strada di [[motifs/snow|neve]], sedeva il vecchio anarchico Professore davanti a un bicchiere di latte, col suo volto sollevato e livido e le palpebre cadenti. Per un istante Syme rimase rigido come il bastone su cui si appoggiava. Poi, con un gesto quasi di cieca fretta, sfiorò di striscio il Professore, spalancò la porta e la sbatté dietro di sé, e si trovò fuori nella [[motifs/snow|neve]].
 
 «Possibile che quel vecchio cadavere mi stia seguendo?» si chiese, mordendosi i baffi gialli. «Sono rimasto troppo a lungo lassù in quella sala, tanto che perfino piedi di piombo come i suoi hanno potuto raggiungermi. Una consolazione c'è: con una camminata un po' svelta posso mandare uno così lontano quanto Timbuctù. O sto forse fantasticando? Mi seguiva davvero? Di certo [[characters/sunday|Sunday]] non sarebbe tanto [[archetypes/fool|sciocco]] da mandare uno zoppo.»
 
 Si mise in cammino a passo spedito, torcendo e roteando il bastone, in direzione di Covent [[motifs/garden|Garden]]. Mentre attraversava il grande mercato la [[motifs/snow|neve]] aumentò, facendosi accecante e sconcertante man mano che il pomeriggio cominciava a imbrunire. I fiocchi di [[motifs/snow|neve]] lo tormentavano come uno sciame di [[motifs/bees|api]] d'argento. Cacciandoglisi negli occhi e nella barba, aggiungevano la loro incessante futilità ai suoi nervi già irritati; e nel [[motifs/time|tempo]] in cui giunse con passo dondolante all'inizio di Fleet Street, perse la pazienza e, trovata una sala da tè della [[characters/sunday|domenica]], vi si infilò per ripararsi. Ordinò un'altra tazza di caffè nero come pretesto. Aveva appena finito, che il professor de Worms entrò arrancando pesantemente nel locale, si sedette a fatica e ordinò un bicchiere di latte.
 
-Il bastone da passeggio di Syme gli era caduto di mano con un gran fragore, che tradì l'acciaio nascosto. Ma [[The Professor|il Professore]] non si voltò. Syme, che di solito era un tipo imperturbabile, restava letteralmente a bocca aperta come un villico a bocca aperta davanti a un gioco di prestigio. Non aveva visto alcuna carrozza seguirlo; non aveva udito alcuna ruota fuori dalla bottega; a ogni umana apparenza l'uomo era venuto a piedi. Ma il vecchio non sapeva camminare che come una lumaca, e Syme aveva camminato come il [[motifs/wind|vento]]. Balzò in piedi e afferrò il bastone, mezzo impazzito per la contraddizione della semplice aritmetica, e uscì roteando dalle porte a battente, lasciando il caffè intatto. Un omnibus diretto alla Banca passò sferragliando con insolita rapidità. Fece una corsa sfrenata di cento iarde per raggiungerlo; ma riuscì a fare uno [[motifs/spring|balzo]], oscillando sul predellino e, fermatosi un istante ad ansimare, si arrampicò fino all'imperiale. Quando fu seduto da circa mezzo minuto, udì dietro di sé una sorta di respiro pesante e asmatico.
+Il bastone da passeggio di Syme gli era caduto di mano con un gran fragore, che tradì l'acciaio nascosto. Ma il Professore non si voltò. Syme, che di solito era un tipo imperturbabile, restava letteralmente a bocca aperta come un villico a bocca aperta davanti a un gioco di prestigio. Non aveva visto alcuna carrozza seguirlo; non aveva udito alcuna ruota fuori dalla bottega; a ogni umana apparenza l'uomo era venuto a piedi. Ma il vecchio non sapeva camminare che come una lumaca, e Syme aveva camminato come il [[motifs/wind|vento]]. Balzò in piedi e afferrò il bastone, mezzo impazzito per la contraddizione della semplice aritmetica, e uscì roteando dalle porte a battente, lasciando il caffè intatto. Un omnibus diretto alla Banca passò sferragliando con insolita rapidità. Fece una corsa sfrenata di cento iarde per raggiungerlo; ma riuscì a fare uno [[motifs/spring|balzo]], oscillando sul predellino e, fermatosi un istante ad ansimare, si arrampicò fino all'imperiale. Quando fu seduto da circa mezzo minuto, udì dietro di sé una sorta di respiro pesante e asmatico.
 
 Voltandosi di scatto, vide levarsi gradualmente sempre più su per i gradini dell'omnibus un cilindro insudiciato e grondante di [[motifs/snow|neve]], e sotto l'[[archetypes/shadow|ombra]] della sua tesa il volto miope e le spalle malferme del professor de Worms. Si lasciò cadere su un sedile con la sua caratteristica cautela, e si avvolse fino al mento nella coperta impermeabile.
 
@@ -4451,7 +4451,7 @@ as to an Alpine peak.  It had fallen accidentally, but just
 so fallen as to half drape the dome from its very topmost point,
 and to pick out in perfect silver the great orb and the [[motifs/cross|cross]].
 When Syme saw it he suddenly straightened himself, and made
-with his [[Sword|sword]]-stick an involuntary salute.
+with his sword-stick an involuntary salute.
 
 He knew that that evil figure, his [[archetypes/shadow|shadow]], was creeping quickly
 or slowly behind him, and he did not care.
@@ -4474,7 +4474,7 @@ for the dragon, as a man waits for a final explanation or for [[motifs/death|dea
 And the old Professor came right up to him and passed him like a
 total stranger, without even a blink of his mournful eyelids.
 
-There was something in this silent and unexpected [[innocence]] that left Syme
+There was something in this silent and unexpected innocence that left Syme
 in a final fury.  The man's colourless face and manner seemed to assert
 that the whole following had been an accident.  Syme was galvanised with an
 energy that was something between bitterness and a burst of boyish derision.
@@ -4490,7 +4490,7 @@ This outrageous chase sped across Ludgate Circus, up Ludgate [[motifs/hill|Hill]
 round St. Paul's [[settings/cathedral|Cathedral]], along Cheapside, Syme remembering all
 the nightmares he had ever known.  Then Syme broke away towards the [[motifs/river|river]],
 and ended almost down by the docks.  He saw the yellow panes of a low,
-lighted public-[[house]], flung himself into it and ordered beer.
+lighted public-house, flung himself into it and ordered beer.
 It was a foul tavern, sprinkled with foreign sailors, a place where opium
 might be smoked or knives drawn.
 
@@ -4508,7 +4508,7 @@ Troppo sbigottito per volgersi indietro o per ragionare, si precipitò in uno de
 
 Il cielo, in alto, era carico di nubi di [[motifs/snow|neve]], e lasciava [[settings/london|Londra]] in una tenebra e in un'oppressione premature per quell'ora della sera. Ai due lati di Syme le pareti del vicolo erano cieche e prive di lineamenti; non v'era una sola finestrella né alcuna sorta di [[motifs/window|finestra]]. Sentì un nuovo impulso a evadere da quell'alveare di case e a ritrovarsi ancora una volta nella strada aperta e illuminata dai lampioni. Pure vagabondò e schivò per un lungo [[motifs/time|tempo]] prima di sboccare nell'arteria principale. E quando vi giunse, la imboccò molto più in su di quanto avesse immaginato. Sbucò in quello che pareva il vasto vuoto di Ludgate Circus, e vide la [[settings/cathedral|Cattedrale]] di St. Paul assisa nel cielo.
 
-Da principio trasalì nel trovare quelle grandi strade tanto deserte, come se una pestilenza avesse spazzato la [[motifs/city|città]]. Poi si disse che un certo grado di vuoto era naturale; in primo luogo perché la [[motifs/storm|tormenta]] di [[motifs/snow|neve]] era addirittura pericolosamente fitta, e in secondo luogo perché era [[characters/sunday|domenica]]. E alla parola stessa [[characters/sunday|domenica]] si morse il labbro; la parola era ormai da prendere a nolo come qualche osceno bisticcio. Sotto la bianca nebbia di [[motifs/snow|neve]] alta nel firmamento, tutta l'atmosfera della [[motifs/city|città]] si era mutata in una assai strana specie di crepuscolo verde, come di uomini sott'acqua. Il tramonto sigillato e imbronciato dietro la scura cupola di St. Paul aveva in sé colori fumosi e sinistri — colori di verde malaticcio, di rosso morto o di bronzo in disfacimento, appena abbastanza vividi da sottolineare la solida bianchezza della [[motifs/snow|neve]]. Ma proprio contro quei colori tetri si [[motifs/rose|levava]] la nera mole della [[settings/cathedral|cattedrale]]; e sulla sommità della [[settings/cathedral|cattedrale]] c'era uno schizzo casuale, una grande macchia di [[motifs/snow|neve]], che ancora vi si aggrappava come a una vetta alpina. Era caduta per caso, ma caduta appunto in modo da drappeggiare per metà la cupola dal suo punto più alto, e da far risaltare in argento perfetto il grande globo e la [[motifs/cross|croce]]. Quando Syme la vide, di colpo si raddrizzò e fece con il suo bastone-[[Sword|spada]] un involontario saluto.
+Da principio trasalì nel trovare quelle grandi strade tanto deserte, come se una pestilenza avesse spazzato la [[motifs/city|città]]. Poi si disse che un certo grado di vuoto era naturale; in primo luogo perché la [[motifs/storm|tormenta]] di [[motifs/snow|neve]] era addirittura pericolosamente fitta, e in secondo luogo perché era [[characters/sunday|domenica]]. E alla parola stessa [[characters/sunday|domenica]] si morse il labbro; la parola era ormai da prendere a nolo come qualche osceno bisticcio. Sotto la bianca nebbia di [[motifs/snow|neve]] alta nel firmamento, tutta l'atmosfera della [[motifs/city|città]] si era mutata in una assai strana specie di crepuscolo verde, come di uomini sott'acqua. Il tramonto sigillato e imbronciato dietro la scura cupola di St. Paul aveva in sé colori fumosi e sinistri — colori di verde malaticcio, di rosso morto o di bronzo in disfacimento, appena abbastanza vividi da sottolineare la solida bianchezza della [[motifs/snow|neve]]. Ma proprio contro quei colori tetri si [[motifs/rose|levava]] la nera mole della [[settings/cathedral|cattedrale]]; e sulla sommità della [[settings/cathedral|cattedrale]] c'era uno schizzo casuale, una grande macchia di [[motifs/snow|neve]], che ancora vi si aggrappava come a una vetta alpina. Era caduta per caso, ma caduta appunto in modo da drappeggiare per metà la cupola dal suo punto più alto, e da far risaltare in argento perfetto il grande globo e la [[motifs/cross|croce]]. Quando Syme la vide, di colpo si raddrizzò e fece con il suo bastone-spada un involontario saluto.
 
 Sapeva che quella figura malvagia, la sua [[archetypes/shadow|ombra]], gli strisciava alle spalle rapida o lenta, e non gliene importava.
 
@@ -4516,9 +4516,9 @@ Gli parve un simbolo della [[concepts/faith|fede]] e del valore umani che, mentr
 
 Il professor de Worms venne lentamente a girare l'angolo dell'irregolare vicolo alle sue spalle, la sua forma innaturale profilata contro un solitario lampione a gas, richiamando irresistibilmente quella figura tanto fantasiosa delle filastrocche, «l'uomo storto che percorse un miglio storto». Sembrava davvero che fosse stato contorto fuor di forma dalle strade tortuose che aveva percorso. Si avvicinava sempre più, la luce del lampione che gli brillava sugli occhiali sollevati, sul volto sollevato e paziente. Syme lo attendeva come san Giorgio attendeva il drago, come un uomo attende una spiegazione finale o la [[motifs/death|morte]]. E il vecchio professore gli venne proprio addosso e gli passò accanto come un perfetto sconosciuto, senza neppure un battito delle sue palpebre dolenti.
 
-C'era qualcosa in quella silenziosa e inattesa [[innocence|innocenza]] che lasciò Syme in un furore estremo. Il volto e i modi incolori dell'uomo parevano affermare che tutto quell'inseguimento fosse stato un caso. Syme fu galvanizzato da un'energia che era qualcosa tra l'amarezza e uno scoppio di derisione fanciullesca. Fece un gesto forsennato come per far cadere il cappello al vecchio, gridò qualcosa come «Prendimi se ci riesci», e partì di corsa attraverso il bianco Circus deserto. Ogni occultamento era ormai impossibile; e gettando lo sguardo indietro sopra la spalla, poteva vedere la nera figura del vecchio gentiluomo che gli veniva dietro a lunghe falcate dondolanti, come un uomo che vince una corsa sul miglio. Ma la testa su quel [[concepts/body|corpo]] balzante era ancora pallida, [[motifs/grave|grave]] e professorale, come la testa di un conferenziere sul [[concepts/body|corpo]] di un arlecchino.
+C'era qualcosa in quella silenziosa e inattesa innocenza che lasciò Syme in un furore estremo. Il volto e i modi incolori dell'uomo parevano affermare che tutto quell'inseguimento fosse stato un caso. Syme fu galvanizzato da un'energia che era qualcosa tra l'amarezza e uno scoppio di derisione fanciullesca. Fece un gesto forsennato come per far cadere il cappello al vecchio, gridò qualcosa come «Prendimi se ci riesci», e partì di corsa attraverso il bianco Circus deserto. Ogni occultamento era ormai impossibile; e gettando lo sguardo indietro sopra la spalla, poteva vedere la nera figura del vecchio gentiluomo che gli veniva dietro a lunghe falcate dondolanti, come un uomo che vince una corsa sul miglio. Ma la testa su quel [[concepts/body|corpo]] balzante era ancora pallida, [[motifs/grave|grave]] e professorale, come la testa di un conferenziere sul [[concepts/body|corpo]] di un arlecchino.
 
-Questa oltraggiosa caccia sfrecciò attraverso Ludgate Circus, su per Ludgate [[motifs/hill|Hill]], attorno alla [[settings/cathedral|Cattedrale]] di St. Paul, lungo Cheapside, mentre Syme rammentava tutti gli incubi che avesse mai conosciuto. Poi Syme piegò di scatto verso il [[motifs/river|fiume]], e finì quasi giù presso i moli. Vide i vetri gialli di una bassa [[house|osteria]] illuminata, vi si scagliò dentro e ordinò della birra. Era una taverna immonda, cosparsa di marinai stranieri, un luogo dove si poteva fumare l'oppio o sfoderare i coltelli.
+Questa oltraggiosa caccia sfrecciò attraverso Ludgate Circus, su per Ludgate [[motifs/hill|Hill]], attorno alla [[settings/cathedral|Cattedrale]] di St. Paul, lungo Cheapside, mentre Syme rammentava tutti gli incubi che avesse mai conosciuto. Poi Syme piegò di scatto verso il [[motifs/river|fiume]], e finì quasi giù presso i moli. Vide i vetri gialli di una bassa osteria illuminata, vi si scagliò dentro e ordinò della birra. Era una taverna immonda, cosparsa di marinai stranieri, un luogo dove si poteva fumare l'oppio o sfoderare i coltelli.
 
 Un momento dopo il professor de Worms entrò nel locale, sedette con cura e chiese un bicchiere di latte.
 
@@ -4529,18 +4529,18 @@ Un momento dopo il professor de Worms entrò nel locale, sedette con cura e chie
 
 CHAPTER VIII
 
-[[The Professor|THE PROFESSOR]] EXPLAINS
+THE PROFESSOR EXPLAINS
 
 WHEN [[characters/gabriel-syme|Gabriel Syme]] found himself finally established in a chair,
 and opposite to him, fixed and final also, the lifted eyebrows
-and leaden eyelids of [[The Professor|the Professor]], his fears fully returned.
+and leaden eyelids of the Professor, his fears fully returned.
 This incomprehensible man from the fierce council, after all,
 had certainly pursued him.  If the man had one character as a
 paralytic and another character as a pursuer, the antithesis
 might make him more interesting, but scarcely more soothing.
-It would be a very small comfort that he could not find [[The Professor|the Professor]] out,
-if by some serious accident [[The Professor|the Professor]] should find him out.
-He emptied a whole pewter pot of ale before [[The Professor|the professor]] had
+It would be a very small comfort that he could not find the Professor out,
+if by some serious accident the Professor should find him out.
+He emptied a whole pewter pot of ale before the professor had
 touched his milk.
 
 One possibility, however, kept him hopeful and yet helpless.
@@ -4548,7 +4548,7 @@ It was just possible that this escapade signified something
 other than even a slight suspicion of him.  Perhaps it was some
 regular form or sign.  Perhaps the foolish scamper was some
 sort of friendly signal that he ought to have understood.
-Perhaps it was a ritual.  Perhaps the new [[thursday|Thursday]] was always
+Perhaps it was a ritual.  Perhaps the new Thursday was always
 chased along Cheapside, as the new [[characters/lord-mayor|Lord Mayor]] is always
 escorted along it.  He was just selecting a tentative inquiry,
 when the old Professor opposite suddenly and simply cut him short.
@@ -4564,7 +4564,7 @@ a reply with an air of rather blundering jocularity.
 "A policeman?" he said, laughing vaguely.  "Whatever made you
 think of a policeman in connection with me?"
 
-"The process was simple enough," answered [[The Professor|the Professor]] patiently.
+"The process was simple enough," answered the Professor patiently.
 "I thought you looked like a policeman.  I think so now."
 
 "Did I take a policeman's hat by mistake out of the restaurant?"
@@ -4576,7 +4576,7 @@ The old Professor shook his head with a gravity that gave no [[concepts/hope|hop
 but Syme ran on with a feverish irony.
 
 "But perhaps I misunderstood the delicacies of your
-German [[philosophy]].  Perhaps policeman is a relative term.
+German philosophy.  Perhaps policeman is a relative term.
 In an evolutionary sense, sir, the ape fades so gradually
 into the policeman, that I myself can never detect the shade.
 The monkey is only the policeman that may be.  Perhaps a maiden
@@ -4605,7 +4605,7 @@ a police [[archetypes/detective|detective]]?"
 face becoming as it were loathsomely alive.  "You swear it!
 You swear it!  If you swear falsely, will you be damned?
 Will you be sure that the devil dances at your funeral?
-Will you see that the [[nightmare]] sits on your [[motifs/grave|grave]]?
+Will you see that the nightmare sits on your [[motifs/grave|grave]]?
 Will there really be no mistake?  You are an anarchist, you are
 a dynamiter!  Above all, you are not in any sense a [[archetypes/detective|detective]]?
 You are not in the British police?"
@@ -4624,7 +4624,7 @@ Syme sprang up straight, sending back the bench behind him with a crash.
 
 "Because you are what?" he said thickly.  "You are what?"
 
-"I am a policeman," said [[The Professor|the Professor]] with his first broad smile.
+"I am a policeman," said the Professor with his first broad smile.
 and beaming through his spectacles.  "But as you think policeman
 only a relative term, of course I have nothing to do with you.
 I am in the British police force; but as you tell me you are
@@ -4640,7 +4640,7 @@ and that all [[motifs/stars|stars]] were under his feet.  Then came slowly
 the opposite conviction.  For the last twenty-four hours the cosmos
 had really been upside down, but now the capsized universe
 had come right side up again.  This devil from whom he had been
-fleeing all day was only an elder brother of his own [[house]],
+fleeing all day was only an elder brother of his own house,
 who on the other side of the table lay back and laughed at him.
 He did not for the moment ask any questions of detail;
 he only knew the happy and silly fact that this [[archetypes/shadow|shadow]],
@@ -4663,18 +4663,18 @@ and shouted with a barbaric laughter.
 
 CAPITOLO VIII
 
-[[The Professor|IL PROFESSORE]] SPIEGA
+IL PROFESSORE SPIEGA
 
 QUANDO [[characters/gabriel-syme|Gabriel Syme]] si trovò finalmente installato su una sedia,
 e di fronte a lui, fisse e definitive anch'esse, le sopracciglia sollevate
-e le palpebre plumbee del [[The Professor|Professore]], le sue paure tornarono per intero.
+e le palpebre plumbee del Professore, le sue paure tornarono per intero.
 Quest'uomo incomprensibile, uscito dal feroce consiglio, dopo tutto
 lo aveva certamente inseguito. Se quell'uomo aveva un carattere da
 paralitico e un altro carattere da inseguitore, l'antitesi
 poteva renderlo più interessante, ma di certo non più rassicurante.
-Sarebbe stato ben scarso conforto non riuscire a smascherare il [[The Professor|Professore]],
-se per qualche grave incidente il [[The Professor|Professore]] avesse smascherato lui.
-Vuotò un intero boccale di peltro pieno di birra prima che il [[The Professor|professore]] avesse
+Sarebbe stato ben scarso conforto non riuscire a smascherare il Professore,
+se per qualche grave incidente il Professore avesse smascherato lui.
+Vuotò un intero boccale di peltro pieno di birra prima che il professore avesse
 sfiorato il suo latte.
 
 Una possibilità, tuttavia, lo teneva pieno di speranza e insieme impotente.
@@ -4682,7 +4682,7 @@ Era appena possibile che quella scappatella significasse qualcosa
 di diverso persino da un lieve sospetto nei suoi confronti. Forse era una qualche
 formula o un segno di rito. Forse quella sciocca corsa a rotta di collo era una specie
 di segnale amichevole che egli avrebbe dovuto comprendere.
-Forse era un rituale. Forse il nuovo [[thursday|Giovedì]] veniva sempre
+Forse era un rituale. Forse il nuovo Giovedì veniva sempre
 inseguito lungo Cheapside, come il nuovo [[characters/lord-mayor|Lord Mayor]] vi viene sempre
 scortato. Stava proprio scegliendo una domanda esplorativa,
 quando il vecchio Professore di fronte, all'improvviso e senza tante cerimonie, lo interruppe.
@@ -4698,7 +4698,7 @@ a mettere insieme una risposta con un'aria di goffa giovialità.
 «Un poliziotto?» disse, ridendo vagamente. «Che cosa mai vi ha fatto
 pensare a un poliziotto a proposito di me?»
 
-«Il procedimento è stato abbastanza semplice» rispose il [[The Professor|Professore]] con pazienza.
+«Il procedimento è stato abbastanza semplice» rispose il Professore con pazienza.
 «Ho pensato che aveste l'aria di un poliziotto. Lo penso ancora adesso.»
 
 «Ho forse preso per sbaglio il cappello di un poliziotto uscendo dal ristorante?»
@@ -4710,7 +4710,7 @@ Il vecchio Professore scosse il capo con una gravità che non lasciava alcuna [[
 ma Syme proseguì incalzante con una febbrile ironia.
 
 «Ma forse ho frainteso le delicatezze della vostra
-[[philosophy|filosofia]] tedesca. Forse poliziotto è un termine relativo.
+filosofia tedesca. Forse poliziotto è un termine relativo.
 In senso evoluzionistico, signore, la scimmia sfuma così gradualmente
 nel poliziotto, che io stesso non riesco mai a cogliere la sfumatura.
 La scimmia non è che il poliziotto in potenza. Forse una zitella
@@ -4739,7 +4739,7 @@ un [[archetypes/detective|agente]] di polizia?»
 esanime che si faceva, per così dire, ripugnantemente vivo. «Lo giurate!
 Lo giurate! Se giurate il falso, sarete dannato?
 Sarete certo che il diavolo danzerà al vostro funerale?
-Vedrete l'[[nightmare|incubo]] accovacciarsi sulla vostra [[motifs/grave|tomba]]?
+Vedrete l'incubo accovacciarsi sulla vostra [[motifs/grave|tomba]]?
 Non ci sarà davvero alcun errore? Siete un anarchico, siete
 un dinamitardo! Soprattutto, non siete in alcun senso un [[archetypes/detective|agente investigativo]]?
 Non siete nella polizia britannica?»
@@ -4758,7 +4758,7 @@ Syme balzò dritto in piedi, rovesciando all'indietro la panca con un fracasso.
 
 «Perché voi siete cosa?» disse con voce impastata. «Voi siete cosa?»
 
-«Sono un poliziotto» disse il [[The Professor|Professore]] con il suo primo largo sorriso,
+«Sono un poliziotto» disse il Professore con il suo primo largo sorriso,
 raggiante dietro gli occhiali. «Ma poiché ritenete che poliziotto
 sia soltanto un termine relativo, naturalmente non ho nulla a che fare con voi.
 Sono nella forza di polizia britannica; ma poiché mi dite che voi
@@ -4774,7 +4774,7 @@ e che tutte le [[motifs/stars|stelle]] fossero sotto i suoi piedi. Poi giunse le
 la convinzione opposta. Nelle ultime ventiquattr'ore il cosmo
 era stato davvero a rovescio, ma ora l'universo capovolto
 si era ridrizzato dalla parte giusta. Questo demonio da cui era fuggito
-tutto il giorno non era che un fratello maggiore della sua stessa [[house|casata]],
+tutto il giorno non era che un fratello maggiore della sua stessa casata,
 il quale, dall'altra parte del tavolo, se ne stava riverso a ridere di lui.
 Per il momento non pose alcuna domanda di dettaglio;
 sapeva soltanto il fatto felice e sciocco che quell'[[archetypes/shadow|ombra]],
@@ -4808,7 +4808,7 @@ from the docks.
 "At myself," answered Syme, and went off again into the agony
 of his ecstatic reaction.
 
-"Pull yourself together," said [[The Professor|the Professor]], "or you'll get hysterical.
+"Pull yourself together," said the Professor, "or you'll get hysterical.
 Have some more beer.  I'll join you."
 
 "You haven't drunk your milk," said Syme.
@@ -4854,7 +4854,7 @@ and I rattled in my boots."
 "And I thought he was talking about me," said Syme, with his rather
 reckless laughter.  "I had my hand on my revolver all the [[motifs/time|time]]."
 
-"So had I," said [[The Professor|the Professor]] grimly; "so had Gogol evidently."
+"So had I," said the Professor grimly; "so had Gogol evidently."
 
 Syme struck the table with an exclamation.
 
@@ -4869,7 +4869,7 @@ still have done nothing."
 "Not if we were three hundred against four?" asked Syme,
 jeering rather boisterously.
 
-"No," said [[The Professor|the Professor]] with sobriety, "not if we were three
+"No," said the Professor with sobriety, "not if we were three
 hundred against [[characters/sunday|Sunday]]."
 
 And the mere name struck Syme cold and serious; his laughter
@@ -4925,7 +4925,7 @@ The other looked at the ceiling, one of the tricks of his pose.
 
 "You shall see him a falling star," said Syme, and put on his hat.
 
-The decision of his gesture drew [[The Professor|the Professor]] vaguely to his feet.
+The decision of his gesture drew the Professor vaguely to his feet.
 
 "Have you any idea," he asked, with a sort of benevolent bewilderment,
 "exactly where you are going?"
@@ -4954,7 +4954,7 @@ Perfino in quel bugigattolo soffocante, colmo senza tregua del fragore di coltel
 
 «Di me stesso», rispose Syme, e riprecipitò nell'agonia della sua estatica reazione.
 
-«Riprenditi», disse [[The Professor|il Professore]], «se no ti vengono le convulsioni. Bevi ancora un po' di birra. Ti tengo compagnia.»
+«Riprenditi», disse il Professore, «se no ti vengono le convulsioni. Bevi ancora un po' di birra. Ti tengo compagnia.»
 
 «Non hai bevuto il tuo latte», disse Syme.
 
@@ -4982,7 +4982,7 @@ Il falso Professore bevve e si asciugò la falsa barba.
 
 «E io credevo che parlasse di me», disse Syme, con quel suo riso piuttosto temerario. «Ho tenuto la mano sulla rivoltella per tutto il [[motifs/time|tempo]].»
 
-«Anch'io», disse [[The Professor|il Professore]] cupo; «e così pure Gogol, a quanto pare.»
+«Anch'io», disse il Professore cupo; «e così pure Gogol, a quanto pare.»
 
 Syme batté il pugno sul tavolo con un'esclamazione.
 
@@ -4994,7 +4994,7 @@ Il volto del professor de Worms si oscurò, ed egli non alzò lo sguardo.
 
 «Nemmeno se fossimo stati trecento contro quattro?» domandò Syme, motteggiando con baldanza un po' chiassosa.
 
-«No», disse [[The Professor|il Professore]] con gravità, «nemmeno se fossimo stati trecento contro [[characters/sunday|Domenica]].»
+«No», disse il Professore con gravità, «nemmeno se fossimo stati trecento contro [[characters/sunday|Domenica]].»
 
 E il solo nome gelò Syme e lo fece serio; il riso gli era morto in cuore prima ancora di potergli morire sulle labbra. Il volto dell'indimenticabile Presidente gli balzò alla mente sorprendente come una fotografia a colori, ed egli notò questa differenza tra [[characters/sunday|Domenica]] e tutti i suoi satelliti: che i loro volti, per quanto feroci o sinistri, si andavano a poco a poco offuscando nel [[motifs/memory|ricordo]] come gli altri volti umani, mentre quello di [[characters/sunday|Domenica]] sembrava quasi farsi più reale durante l'assenza, come se il ritratto dipinto d'un uomo dovesse lentamente prender vita.
 
@@ -5002,7 +5002,7 @@ Rimasero entrambi in silenzio per un breve tratto di attimi, poi il discorso di 
 
 «Professore», gridò, «è intollerabile. Avete paura di quest'uomo?»
 
-[[The Professor|Il Professore]] sollevò le palpebre pesanti e fissò Syme con grandi occhi azzurri, spalancati, d'una onestà quasi eterea.
+Il Professore sollevò le palpebre pesanti e fissò Syme con grandi occhi azzurri, spalancati, d'una onestà quasi eterea.
 
 «Sì, ne ho paura», disse con mitezza. «E ne avete anche voi.»
 
@@ -5024,7 +5024,7 @@ L'altro guardò il soffitto, uno dei trucchi della sua posa.
 
 «Lo vedrete come una stella cadente», disse Syme, e si mise il cappello.
 
-La decisione del suo gesto trasse vagamente in piedi [[The Professor|il Professore]].
+La decisione del suo gesto trasse vagamente in piedi il Professore.
 
 «Hai una qualche idea», domandò, con una specie di benevolo sconcerto, «di dove esattamente stai andando?»
 
@@ -5048,7 +5048,7 @@ La decisione del suo gesto trasse vagamente in piedi [[The Professor|il Professo
 
 "Will you tell me?" asked Syme with eager eyes.
 
-"I will take you there," said [[The Professor|the Professor]], and took down his own
+"I will take you there," said the Professor, and took down his own
 hat from a peg.
 
 Syme stood looking at him with a sort of rigid excitement.
@@ -5056,7 +5056,7 @@ Syme stood looking at him with a sort of rigid excitement.
 "What do you mean?" he asked sharply.  "Will you join me?
 Will you take the risk?"
 
-"Young man," said [[The Professor|the Professor]] pleasantly, "I am amused to observe
+"Young man," said the Professor pleasantly, "I am amused to observe
 that you think I am a coward.  As to that I will say only one word,
 and that shall be entirely in the manner of your own philosophical rhetoric.
 You think that it is possible to pull down the President.  I know that it
@@ -5076,7 +5076,7 @@ looked like a bar of flame.
 
 "Where are you going?"  Syme inquired.
 
-"Just now," answered [[The Professor|the Professor]], "I am going just round
+"Just now," answered the Professor, "I am going just round
 the corner to see whether Dr. Bull has gone to bed.
 He is hygienic, and retires early."
 
@@ -5095,7 +5095,7 @@ and rising like factory chimneys to an almost insane height.
 Their special poise and position made one block of buildings
 especially look like a Tower of Babel with a hundred eyes.
 Syme had never seen any of the sky-scraping buildings in [[settings/america|America]],
-so he could only think of the buildings in [[A Dream|a dream]].
+so he could only think of the buildings in a dream.
 
 Even as he stared, the highest light in this innumerably lighted
 turret abruptly went out, as if this black Argus had winked at him
@@ -5119,12 +5119,12 @@ in which an old white inn, all out of repair, stood back some twenty feet
 from the [[motifs/road|road]].
 
 "You can find good English inns left by accident everywhere, like fossils,"
-explained [[The Professor|the Professor]].  "I once found a decent place in the West End."
+explained the Professor.  "I once found a decent place in the West End."
 
 "I suppose," said Syme, smiling, "that this is the corresponding decent
 place in the East End?"
 
-"It is," said [[The Professor|the Professor]] reverently, and went in.
+"It is," said the Professor reverently, and went in.
 
 In that place they dined and slept, both very thoroughly.
 The beans and bacon, which these unaccountable people cooked [[motifs/well|well]],
@@ -5149,7 +5149,7 @@ as silly as Syme's.
 "a lot better than old Gogol's. Even at the start I thought he was
 a bit too hairy."
 
-"A difference of artistic theory," replied [[The Professor|the Professor]] pensively.
+"A difference of artistic theory," replied the Professor pensively.
 "Gogol was an idealist.  He made up as the abstract or platonic ideal
 of an anarchist.  But I am a realist.  I am a portrait painter.
 But, indeed, to say that I am a portrait painter is an inadequate expression.
@@ -5157,7 +5157,7 @@ I am a portrait."
 
 "I don't understand you," said Syme.
 
-"I am a portrait," repeated [[The Professor|the Professor]].  "I am a portrait of the celebrated
+"I am a portrait," repeated the Professor.  "I am a portrait of the celebrated
 Professor de Worms, who is, I believe, in Naples."
 
 "You mean you are made up like him," said Syme.  "But doesn't
@@ -5167,7 +5167,7 @@ he know that you are taking his nose in vain?"
 
 "Then why doesn't he denounce you?"
 
-"I have denounced him," answered [[The Professor|the Professor]].
+"I have denounced him," answered the Professor.
 
 "Do explain yourself," said Syme.
 
@@ -5221,7 +5221,7 @@ into the room.
 
 «Me lo direte?» chiese Syme con occhi ardenti.
 
-«Vi ci porterò» disse [[The Professor|il Professore]], e staccò da un piolo
+«Vi ci porterò» disse il Professore, e staccò da un piolo
 il proprio cappello.
 
 Syme rimase a fissarlo con una specie di rigida eccitazione.
@@ -5229,7 +5229,7 @@ Syme rimase a fissarlo con una specie di rigida eccitazione.
 «Che cosa intendete?» domandò brusco. «Volete unirvi a me?
 Volete correre il rischio?»
 
-«Giovanotto» disse [[The Professor|il Professore]] con affabilità, «mi diverte constatare
+«Giovanotto» disse il Professore con affabilità, «mi diverte constatare
 che mi credete un vigliacco. In proposito dirò una sola parola,
 e la dirò interamente alla maniera della vostra retorica filosofica.
 Voi credete che sia possibile abbattere il Presidente. Io so che è
@@ -5249,7 +5249,7 @@ sembravano una sbarra di fiamma.
 
 «Dove state andando?» s'informò Syme.
 
-«Per il momento» rispose [[The Professor|il Professore]], «sto solo andando a girare
+«Per il momento» rispose il Professore, «sto solo andando a girare
 l'angolo per vedere se il dottor Bull è andato a letto.
 È un igienista, e si ritira presto.»
 
@@ -5268,7 +5268,7 @@ che si levavano come ciminiere di fabbrica a un'altezza quasi folle.
 Il loro peculiare equilibrio e posizione facevano sì che un blocco di edifici
 sembrasse in special modo una Torre di Babele dai cento occhi.
 Syme non aveva mai visto nessuno dei grattacieli d'[[settings/america|America]],
-sicché poté pensare soltanto agli edifici visti in [[A Dream|sogno]].
+sicché poté pensare soltanto agli edifici visti in sogno.
 
 Proprio mentre fissava, la luce più alta di quella torretta
 innumerevolmente illuminata si spense di colpo, come se quell'Argo nero gli avesse fatto l'occhiolino
@@ -5285,19 +5285,19 @@ contro lo stivale.
 Venite a cenare. Dovremo fargli visita domani mattina.»
 
 Senza ulteriori parole, li condusse attraverso varie viuzze finché non sbucarono
-nel bagliore e nel clamore della East India Dock [[motifs/road|Road]]. [[The Professor|Il Professore]],
+nel bagliore e nel clamore della East India Dock [[motifs/road|Road]]. Il Professore,
 che sembrava conoscere bene i dintorni, si diresse verso un luogo dove
 la fila dei negozi illuminati si ritirava in una specie di crepuscolo improvviso e di quiete,
 in cui una vecchia locanda bianca, tutta cadente, arretrava di una ventina di piedi
 rispetto alla [[motifs/road|strada]].
 
 «Buone locande inglesi si trovano lasciate qua e là dal caso, come fossili»
-spiegò [[The Professor|il Professore]]. «Una volta ne trovai una dignitosa nel West End.»
+spiegò il Professore. «Una volta ne trovai una dignitosa nel West End.»
 
 «Suppongo» disse Syme, sorridendo, «che questa sia la corrispondente
 locanda dignitosa nell'East End.»
 
-«Esatto» disse [[The Professor|il Professore]] con reverenza, ed entrò.
+«Esatto» disse il Professore con reverenza, ed entrò.
 
 In quel luogo cenarono e dormirono, entrambi a fondo.
 I fagioli con la pancetta, che quelle inspiegabili persone cucinavano [[motifs/well|bene]],
@@ -5322,7 +5322,7 @@ altrettanto sciocca di quella di Syme.
 «molto migliore di quello del vecchio Gogol. Fin dall'inizio ho pensato che fosse
 un po' troppo peloso.»
 
-«Una divergenza di teoria artistica» replicò [[The Professor|il Professore]] pensieroso.
+«Una divergenza di teoria artistica» replicò il Professore pensieroso.
 «Gogol era un idealista. Si truccava come l'ideale astratto o platonico
 di un anarchico. Ma io sono un realista. Sono un ritrattista.
 Anzi, dire che sono un ritrattista è un'espressione inadeguata.
@@ -5330,7 +5330,7 @@ Io sono un ritratto.»
 
 «Non vi capisco» disse Syme.
 
-«Sono un ritratto» ripeté [[The Professor|il Professore]]. «Sono un ritratto del celebre
+«Sono un ritratto» ripeté il Professore. «Sono un ritratto del celebre
 professor de Worms, il quale, credo, si trova a Napoli.»
 
 «Volete dire che siete truccato come lui» disse Syme. «Ma non
@@ -5340,7 +5340,7 @@ sa che gli prendete il naso invano?»
 
 «Allora perché non vi denuncia?»
 
-«Sono io che ho denunciato lui» rispose [[The Professor|il Professore]].
+«Sono io che ho denunciato lui» rispose il Professore.
 
 «Spiegatevi, di grazia» disse Syme.
 
@@ -5408,7 +5408,7 @@ all that up in Pinckwerts; the notion that involution functioned
 eugenically was exposed long ago by Glumpe.'  It is unnecessary
 for me to say that there never were such people as Pinckwerts
 and Glumpe.  But the people all round (rather to my surprise)
-seemed to remember them quite [[motifs/well|well]], and [[The Professor|the Professor]],
+seemed to remember them quite [[motifs/well|well]], and the Professor,
 finding that the learned and mysterious method left him rather
 at the [[concepts/mercy|mercy]] of an enemy slightly deficient in scruples,
 fell back upon a more popular form of wit.  'I see,' he sneered,
@@ -5451,7 +5451,7 @@ campaign had been opened against the centres of anarchy,
 and that this, my successful masquerade, might be of considerable
 value to the public safety.  He offered me a good salary
 and this little blue card.  Though our conversation was short,
-he struck me as a man of very massive common sense and [[Humour|humour]];
+he struck me as a man of very massive common sense and humour;
 but I cannot tell you much about him personally, because--"
 
 Syme laid down his knife and fork.
@@ -5463,11 +5463,11 @@ Professor de Worms nodded and drained his glass.
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Inutile dire che ci fu uno scontro. I pessimisti tutt'intorno a me guardavano ansiosi ora l'uno ora l'altro Professore, per capire quale dei due fosse davvero il più fiacco. Ma vinsi io. Da un vecchio malandato in salute, come il mio rivale, non ci si poteva certo aspettare una fiacchezza tanto memorabile quanto quella di un giovane attore nel pieno vigore degli anni. Vedete, lui era davvero paralitico, e operando entro questo limite ben preciso non poteva risultare così magnificamente paralitico come me. Allora tentò di demolire le mie pretese sul piano intellettuale. Ribattei con un espediente semplicissimo. Ogni volta che diceva qualcosa che nessuno all'infuori di lui poteva capire, gli rispondevo con qualcosa che nemmeno io stesso riuscivo a capire. "Non credo," disse, "che voi possiate aver elaborato il principio secondo cui l'evoluzione non è che negazione, poiché in essa è insita l'introduzione di lacune, che sono un elemento essenziale della differenziazione." Ribattei con tono sprezzante: "Tutta roba che avete letto in Pinckwerts; l'idea che l'involuzione funzioni in senso eugenetico fu smascherata già da tempo da Glumpe." Superfluo precisare che non sono mai esistite persone di nome Pinckwerts e Glumpe. Ma la gente tutt'intorno (con mia grande sorpresa) pareva ricordarseli [[motifs/well|benissimo]], e [[The Professor|il Professore]], vedendo che il metodo dotto e misterioso lo lasciava piuttosto alla [[concepts/mercy|mercé]] di un avversario un po' privo di scrupoli, ripiegò su una forma di arguzia più popolare. "Vedo," sogghignò, "che prevalete come il porco falso di Esopo." "E voi soccombete," risposi sorridendo, "come il riccio di Montaigne." Occorre forse dire che non c'è alcun riccio in Montaigne? "La vostra ciarlataneria vien via," disse; "e così pure la vostra barba." Non seppi trovare risposta arguta, il che era verissimo e piuttosto spiritoso. Ma risi di gusto e replicai: "Come gli stivali del Panteista," a casaccio, girando sui tacchi con tutti gli onori della vittoria. Il vero Professore fu buttato fuori, ma senza violenza, benché un tale si ostinasse con molta pazienza a tentare di strappargli il naso. Ora, a quanto mi risulta, viene accolto ovunque in Europa come un delizioso impostore. La sua apparente serietà e la sua collera, capite, lo rendono ancora più divertente.»
+«Inutile dire che ci fu uno scontro. I pessimisti tutt'intorno a me guardavano ansiosi ora l'uno ora l'altro Professore, per capire quale dei due fosse davvero il più fiacco. Ma vinsi io. Da un vecchio malandato in salute, come il mio rivale, non ci si poteva certo aspettare una fiacchezza tanto memorabile quanto quella di un giovane attore nel pieno vigore degli anni. Vedete, lui era davvero paralitico, e operando entro questo limite ben preciso non poteva risultare così magnificamente paralitico come me. Allora tentò di demolire le mie pretese sul piano intellettuale. Ribattei con un espediente semplicissimo. Ogni volta che diceva qualcosa che nessuno all'infuori di lui poteva capire, gli rispondevo con qualcosa che nemmeno io stesso riuscivo a capire. "Non credo," disse, "che voi possiate aver elaborato il principio secondo cui l'evoluzione non è che negazione, poiché in essa è insita l'introduzione di lacune, che sono un elemento essenziale della differenziazione." Ribattei con tono sprezzante: "Tutta roba che avete letto in Pinckwerts; l'idea che l'involuzione funzioni in senso eugenetico fu smascherata già da tempo da Glumpe." Superfluo precisare che non sono mai esistite persone di nome Pinckwerts e Glumpe. Ma la gente tutt'intorno (con mia grande sorpresa) pareva ricordarseli [[motifs/well|benissimo]], e il Professore, vedendo che il metodo dotto e misterioso lo lasciava piuttosto alla [[concepts/mercy|mercé]] di un avversario un po' privo di scrupoli, ripiegò su una forma di arguzia più popolare. "Vedo," sogghignò, "che prevalete come il porco falso di Esopo." "E voi soccombete," risposi sorridendo, "come il riccio di Montaigne." Occorre forse dire che non c'è alcun riccio in Montaigne? "La vostra ciarlataneria vien via," disse; "e così pure la vostra barba." Non seppi trovare risposta arguta, il che era verissimo e piuttosto spiritoso. Ma risi di gusto e replicai: "Come gli stivali del Panteista," a casaccio, girando sui tacchi con tutti gli onori della vittoria. Il vero Professore fu buttato fuori, ma senza violenza, benché un tale si ostinasse con molta pazienza a tentare di strappargli il naso. Ora, a quanto mi risulta, viene accolto ovunque in Europa come un delizioso impostore. La sua apparente serietà e la sua collera, capite, lo rendono ancora più divertente.»
 
 «[[motifs/well|Bene]],» disse Syme, «riesco a capire che vi siate messo la sua vecchia barba sudicia per uno scherzo di una [[motifs/night|notte]], ma non capisco perché poi non ve la siate più tolta.»
 
-«Questo è il resto della storia,» disse l'impostore. «Quando io stesso lasciai la compagnia, seguìto da un reverente applauso, mi allontanai zoppicando giù per la strada buia, sperando di essere presto abbastanza lontano da poter camminare come un essere umano. Con mio sbalordimento, mentre svoltavo l'angolo, sentii un tocco sulla spalla e, voltandomi, mi trovai sotto l'[[archetypes/shadow|ombra]] di un poliziotto enorme. Mi disse che ero ricercato. Assunsi una specie di posa paralitica e gridai con un forte accento tedesco: "Sì, sono ricercato… dagli oppressi del mondo. Mi arrestate con l'accusa di essere il grande anarchico, Professor de Worms." Il poliziotto consultò impassibile un foglio che aveva in mano: "No, signore," disse cortesemente, "o almeno non esattamente, signore. Vi arresto con l'accusa di non essere il celebre anarchico Professor de Worms." Questa accusa, ammesso che fosse un'accusa penale, era di certo la più lieve delle due, e seguii l'uomo, perplesso ma non troppo sgomento. Fui introdotto in una serie di stanze e infine alla presenza di un ufficiale di polizia, il quale mi spiegò che era stata avviata una seria campagna contro i centri dell'anarchia, e che questa mia riuscita mascherata poteva rivelarsi di considerevole utilità per la pubblica sicurezza. Mi offrì un buono stipendio e questo cartoncino azzurro. Benché la nostra conversazione fosse breve, mi diede l'impressione di un uomo di robustissimo buon senso e [[Humour|umorismo]]; ma non posso dirvi molto sul suo conto, perché…»
+«Questo è il resto della storia,» disse l'impostore. «Quando io stesso lasciai la compagnia, seguìto da un reverente applauso, mi allontanai zoppicando giù per la strada buia, sperando di essere presto abbastanza lontano da poter camminare come un essere umano. Con mio sbalordimento, mentre svoltavo l'angolo, sentii un tocco sulla spalla e, voltandomi, mi trovai sotto l'[[archetypes/shadow|ombra]] di un poliziotto enorme. Mi disse che ero ricercato. Assunsi una specie di posa paralitica e gridai con un forte accento tedesco: "Sì, sono ricercato… dagli oppressi del mondo. Mi arrestate con l'accusa di essere il grande anarchico, Professor de Worms." Il poliziotto consultò impassibile un foglio che aveva in mano: "No, signore," disse cortesemente, "o almeno non esattamente, signore. Vi arresto con l'accusa di non essere il celebre anarchico Professor de Worms." Questa accusa, ammesso che fosse un'accusa penale, era di certo la più lieve delle due, e seguii l'uomo, perplesso ma non troppo sgomento. Fui introdotto in una serie di stanze e infine alla presenza di un ufficiale di polizia, il quale mi spiegò che era stata avviata una seria campagna contro i centri dell'anarchia, e che questa mia riuscita mascherata poteva rivelarsi di considerevole utilità per la pubblica sicurezza. Mi offrì un buono stipendio e questo cartoncino azzurro. Benché la nostra conversazione fosse breve, mi diede l'impressione di un uomo di robustissimo buon senso e umorismo; ma non posso dirvi molto sul suo conto, perché…»
 
 Syme posò coltello e forchetta.
 
@@ -5484,13 +5484,13 @@ CHAPTER IX
 
 THE MAN IN SPECTACLES
 
-"BURGUNDY is a jolly thing," said [[The Professor|the Professor]] sadly, as he set
+"BURGUNDY is a jolly thing," said the Professor sadly, as he set
 his glass down.
 
 "You don't look as if it were," said Syme; "you drink it
 as if it were medicine."
 
-"You must excuse my manner," said [[The Professor|the Professor]] dismally, "my position is
+"You must excuse my manner," said the Professor dismally, "my position is
 rather a curious one.  Inside I am really bursting with boyish merriment;
 but I acted the paralytic Professor so [[motifs/well|well]], that now I can't leave off.
 So that when I am among friends, and have no need at all to disguise
@@ -5521,7 +5521,7 @@ Then, as the other did not speak, he added--
 
 "I trust the great cloud is lifted."
 
-After a long [[motifs/silence|silence]], [[The Professor|the Professor]] said out of the cavernous
+After a long [[motifs/silence|silence]], the Professor said out of the cavernous
 [[archetypes/shadow|shadow]] of his hands--
 
 "It would have done just as [[motifs/well|well]] if you could work a typewriter."
@@ -5537,7 +5537,7 @@ seriously startling and formidable as that little grinning fellow in goggles.
 He has not perhaps the white-hot enthusiasm unto [[motifs/death|death]], the mad [[concepts/martyrdom|martyrdom]]
 for anarchy, which marks the Secretary.  But then that very [[concepts/fanaticism|fanaticism]]
 in the Secretary has a human pathos, and is almost a redeeming trait.
-But the little Doctor has a brutal [[Sanity|sanity]] that is more shocking than the
+But the little Doctor has a brutal sanity that is more shocking than the
 Secretary's disease.  Don't you notice his detestable virility and vitality.
 He bounces like an india-rubber ball.  Depend on it, [[characters/sunday|Sunday]] was not asleep
 (I [[concepts/wonder|wonder]] if he ever sleeps?) when he locked up all the plans of this
@@ -5559,7 +5559,7 @@ He was abnormally quick with his brains at puzzles, and with his hands
 at conjuring, and it did not take him long to learn how he might convey
 simple messages by what would seem to be idle taps upon a table or knee.
 But wine and companionship had always the effect of inspiring him to a
-farcical ingenuity, and [[The Professor|the Professor]] soon found himself struggling with
+farcical ingenuity, and the Professor soon found himself struggling with
 the too vast energy of the new language, as it passed through the heated
 brain of Syme.
 
@@ -5567,13 +5567,13 @@ brain of Syme.
 that we are likely to want, fine shades of meaning.
 My favourite word is 'coeval.'  What's yours?"
 
-"Do stop playing the goat," said [[The Professor|the Professor]] plaintively.
+"Do stop playing the goat," said the Professor plaintively.
 "You don't know how serious this is."
 
 "'Lush,' too," said Syme, shaking his head sagaciously,
 "we must have 'lush'--word applied to grass, don't you know?"
 
-"Do you imagine," asked [[The Professor|the Professor]] furiously, "that we are going
+"Do you imagine," asked the Professor furiously, "that we are going
 to talk to Dr. Bull about grass?"
 
 "There are several ways in which the subject could be approached,"
@@ -5614,13 +5614,13 @@ CAPITOLO IX
 
 L'UOMO CON GLI OCCHIALI
 
-«Il Borgogna è una cosa allegra» disse il [[The Professor|Professore]] con tristezza, posando
+«Il Borgogna è una cosa allegra» disse il Professore con tristezza, posando
 il bicchiere.
 
 «Non si direbbe, a vederla» disse Syme; «lo beve
 come se fosse una medicina.»
 
-«Deve scusare i miei modi» disse il [[The Professor|Professore]] con aria tetra; «la mia posizione
+«Deve scusare i miei modi» disse il Professore con aria tetra; «la mia posizione
 è piuttosto singolare. Dentro scoppio davvero di un'ilarità fanciullesca;
 ma ho recitato tanto [[motifs/well|bene]] la parte del Professore paralitico, che ormai non riesco a smettere.
 Sicché, quando mi trovo tra amici e non ho affatto bisogno di camuffarmi,
@@ -5634,7 +5634,7 @@ agli occhi.»
 «E infatti me le fa venire» disse Syme; «ma non posso fare a meno di pensare che, a parte
 tutto ciò, lei sia davvero un po' preoccupato.»
 
-Il [[The Professor|Professore]] ebbe un piccolo sussulto e lo guardò fisso.
+Il Professore ebbe un piccolo sussulto e lo guardò fisso.
 
 «Lei è un giovanotto molto intelligente» disse; «è un piacere
 lavorare con lei. Sì, ho una nube piuttosto pesante nella testa.
@@ -5651,7 +5651,7 @@ Poi, dato che l'altro non parlava, aggiunse…
 
 «Confido che la grande nube si sia dissolta.»
 
-Dopo un lungo [[motifs/silence|silenzio]], il [[The Professor|Professore]] disse dall'[[archetypes/shadow|ombra]] cavernosa
+Dopo un lungo [[motifs/silence|silenzio]], il Professore disse dall'[[archetypes/shadow|ombra]] cavernosa
 delle sue mani…
 
 «Sarebbe andata altrettanto [[motifs/well|bene]] se avesse saputo usare la macchina da scrivere.»
@@ -5667,7 +5667,7 @@ seriamente allarmante e formidabile quanto quel piccolo tipo ghignante con gli o
 Non ha, forse, l'entusiasmo bianco e ardente fino alla [[motifs/death|morte]], il folle [[concepts/martyrdom|martirio]]
 per l'anarchia che distingue il Segretario. Ma d'altronde quel [[concepts/fanaticism|fanatismo]]
 del Segretario ha un suo pathos umano, ed è quasi un tratto che lo redime.
-Il piccolo Dottore, invece, ha una [[Sanity|sanità mentale]] brutale, ben più sconvolgente della
+Il piccolo Dottore, invece, ha una sanità mentale brutale, ben più sconvolgente della
 malattia del Segretario. Non ne nota la detestabile virilità e vitalità?
 Rimbalza come una palla di gomma. Ci può scommettere che [[characters/sunday|Sunday]] non dormiva
 (mi [[concepts/wonder|chiedo]] se dorma mai?) quando ha rinchiuso tutti i piani di questo
@@ -5689,7 +5689,7 @@ Aveva un cervello prontissimo con gli indovinelli, e mani prontissime
 nei giochi di prestigio, e non gli ci volle molto per imparare come trasmettere
 messaggi semplici con quelli che sarebbero parsi oziosi picchiettii su un tavolo o su un ginocchio.
 Ma il vino e la compagnia avevano sempre l'effetto di ispirargli
-una farsesca ingegnosità, e il [[The Professor|Professore]] si trovò presto alle prese con
+una farsesca ingegnosità, e il Professore si trovò presto alle prese con
 l'energia troppo vasta del nuovo linguaggio, mentre esso passava attraverso il cervello
 surriscaldato di Syme.
 
@@ -5697,13 +5697,13 @@ surriscaldato di Syme.
 che probabilmente ci serviranno, sottili sfumature di significato.
 La mia parola preferita è “coevo”. Qual è la sua?»
 
-«La smetta di fare il buffone» disse il [[The Professor|Professore]] in tono lamentoso.
+«La smetta di fare il buffone» disse il Professore in tono lamentoso.
 «Non sa quanto sia seria questa faccenda.»
 
 «Anche “rigoglioso”» disse Syme, scuotendo il capo con aria sapiente,
 «dobbiamo avere “rigoglioso”… parola che si applica all'erba, non sa?»
 
-«Si immagina forse» chiese il [[The Professor|Professore]] furibondo «che andremo
+«Si immagina forse» chiese il Professore furibondo «che andremo
 a parlare d'erba con il dottor Bull?»
 
 «Ci sono vari modi in cui l'argomento potrebbe essere avvicinato»
@@ -5758,10 +5758,10 @@ a fixed but very small smile.
 
 "Confound you, can't you answer?" called out Syme,
 in a sudden anger that had something like [[concepts/fear|fear]] underneath.
-Whether or no [[The Professor|the Professor]] could answer, he did not.
+Whether or no the Professor could answer, he did not.
 
 Syme stood staring back at the stiff face like parchment and the blank,
-blue eyes.  His first thought was that [[The Professor|the Professor]] had gone mad,
+blue eyes.  His first thought was that the Professor had gone mad,
 but his second thought was more frightful.  After all, what did
 he know about this queer creature whom he had heedlessly accepted
 as a friend?  What did he know, except that the man had been
@@ -5775,7 +5775,7 @@ He almost fancied he could hear dynamiters come to capture him
 shifting softly in the corridor outside.
 
 Then his eye strayed downwards, and he burst out laughing.
-Though [[The Professor|the Professor]] himself stood there as voiceless as a statue,
+Though the Professor himself stood there as voiceless as a statue,
 his five dumb fingers were dancing alive upon the dead table.
 Syme watched the twinkling movements of the talking hand,
 and read clearly the message--
@@ -5787,7 +5787,7 @@ He rapped out the answer with the impatience of relief--
 "All right.  Let's get out to breakfast."
 
 They took their hats and sticks in [[motifs/silence|silence]]; but as Syme took
-his [[Sword|sword]]-stick, he held it hard.
+his sword-stick, he held it hard.
 
 They paused for a few minutes only to stuff down coffee and coarse
 thick sandwiches at a coffee stall, and then made their way
@@ -5801,15 +5801,15 @@ each [[motifs/window|window]] showed them a pale and tragic [[motifs/dawn|dawn]]
 laboriously over [[settings/london|London]].  From each the innumerable roofs of slate
 looked like the leaden surges of a grey, troubled sea after rain.
 Syme was increasingly conscious that his new adventure had somehow
-a quality of cold [[Sanity|sanity]] worse than the wild adventures of the past.
+a quality of cold sanity worse than the wild adventures of the past.
 Last [[motifs/night|night]], for instance, the tall tenements had seemed to him like a
-tower in [[A Dream|a dream]].  As he now went up the weary and perpetual steps,
+tower in a dream.  As he now went up the weary and perpetual steps,
 he was daunted and bewildered by their almost infinite series.
-But it was not the hot horror of [[A Dream|a dream]] or of anything that might
+But it was not the hot horror of a dream or of anything that might
 be exaggeration or delusion.  Their infinity was more like the empty
 infinity of arithmetic, something unthinkable, yet necessary to thought.
 Or it was like the stunning statements of astronomy about the distance
-of the fixed [[motifs/stars|stars]].  He was ascending the [[house]] of reason, a thing
+of the fixed [[motifs/stars|stars]].  He was ascending the house of reason, a thing
 more hideous than unreason itself.
 
 By the [[motifs/time|time]] they reached Dr. Bull's landing, a last [[motifs/window|window]] showed
@@ -5838,13 +5838,13 @@ making him look like a [[motifs/death|death]]'s-head. And, indeed, if ever [[mot
 himself sat writing at a wooden table, it might have been he.
 
 He looked up and smiled brightly enough as the men came in, and [[motifs/rose|rose]]
-with the resilient rapidity of which [[The Professor|the Professor]] had spoken.
+with the resilient rapidity of which the Professor had spoken.
 He set chairs for both of them, and going to a peg behind the door,
 proceeded to put on a coat and waistcoat of rough, dark tweed;
 he buttoned it up neatly, and came back to sit down at his table.
 
-The quiet good [[Humour|humour]] of his manner left his two opponents helpless.
-It was with some momentary difficulty that [[The Professor|the Professor]] broke
+The quiet good humour of his manner left his two opponents helpless.
+It was with some momentary difficulty that the Professor broke
 [[motifs/silence|silence]] and began, "I'm sorry to disturb you so early, comrade,"
 said he, with a careful resumption of the slow de Worms manner.
 "You have no [[concepts/doubt|doubt]] made all the arrangements for the [[settings/paris|Paris]] affair?"
@@ -5873,10 +5873,10 @@ volto un sorriso fisso ma piccolissimo.
 
 «Che vi porti il diavolo, non sapete rispondere?» gridò Syme,
 in una collera improvvisa sotto la quale covava qualcosa di simile alla [[concepts/fear|paura]].
-Che [[The Professor|il Professore]] potesse rispondere oppure no, di certo non rispose.
+Che il Professore potesse rispondere oppure no, di certo non rispose.
 
 Syme rimase a fissare quel volto rigido come pergamena e quegli occhi
-vuoti e azzurri. Il primo pensiero fu che [[The Professor|il Professore]] fosse impazzito,
+vuoti e azzurri. Il primo pensiero fu che il Professore fosse impazzito,
 ma il secondo pensiero era più spaventoso. In fondo, che cosa
 sapeva di quella strana creatura che aveva accettato con tanta
 leggerezza come amico? Che cosa sapeva, se non che quell'uomo era stato
@@ -5890,7 +5890,7 @@ Quasi gli parve di poter udire i dinamitardi venuti a catturarlo
 muoversi furtivi nel corridoio là fuori.
 
 Poi l'occhio gli scivolò verso il basso, e scoppiò a ridere.
-Sebbene [[The Professor|il Professore]] stesse là senza voce come una statua,
+Sebbene il Professore stesse là senza voce come una statua,
 le sue cinque dita mute danzavano vive sul tavolo morto.
 Syme osservò i movimenti scintillanti della mano parlante,
 e lesse chiaro il messaggio:
@@ -5902,7 +5902,7 @@ Egli batté la risposta con l'impazienza del sollievo:
 «Va bene. Usciamo a far colazione.»
 
 Presero cappelli e bastoni in [[motifs/silence|silenzio]]; ma quando Syme prese
-il suo bastone da [[Sword|spada]], lo strinse con forza.
+il suo bastone da spada, lo strinse con forza.
 
 Si fermarono soltanto pochi minuti a trangugiare caffè e panini
 spessi e grossolani a un chiosco, e poi si avviarono
@@ -5916,15 +5916,15 @@ ogni [[motifs/window|finestra]] mostrava loro una pallida e tragica [[motifs/daw
 a fatica sopra [[settings/london|Londra]]. Da ciascuna gli innumerevoli tetti d'ardesia
 parevano i plumbei marosi di un mare grigio e agitato dopo la pioggia.
 Syme era sempre più consapevole che la sua nuova avventura aveva in qualche modo
-una qualità di fredda [[Sanity|ragionevolezza]] peggiore delle avventure sfrenate del passato.
+una qualità di fredda ragionevolezza peggiore delle avventure sfrenate del passato.
 La [[motifs/night|notte]] prima, per esempio, gli alti caseggiati gli erano parsi come una
-torre in [[A Dream|sogno]]. Ora, mentre saliva quei gradini estenuanti e perpetui,
+torre in sogno. Ora, mentre saliva quei gradini estenuanti e perpetui,
 si sentiva sgomento e sconcertato dalla loro serie quasi infinita.
-Ma non era l'orrore rovente di un [[A Dream|sogno]] o di qualcosa che potesse
+Ma non era l'orrore rovente di un sogno o di qualcosa che potesse
 essere esagerazione o illusione. La loro infinità somigliava piuttosto alla vuota
 infinità dell'aritmetica, qualcosa di impensabile, eppure necessario al pensiero.
 Oppure somigliava alle sbalorditive affermazioni dell'astronomia sulla distanza
-delle [[motifs/stars|stelle]] fisse. Stava ascendendo la [[house|casa]] della ragione, cosa
+delle [[motifs/stars|stelle]] fisse. Stava ascendendo la casa della ragione, cosa
 più orrenda della stessa irragionevolezza.
 
 Nel [[motifs/time|momento]] in cui raggiunsero il pianerottolo del dottor Bull, un'ultima [[motifs/window|finestra]] mostrò
@@ -5953,13 +5953,13 @@ dandogli l'aria di una testa di [[motifs/death|morte]]. E, in verità, se mai la
 in persona si fosse seduta a scrivere a un tavolo di legno, avrebbe potuto essere lui.
 
 Alzò lo sguardo e sorrise abbastanza allegramente all'entrare degli uomini, e si [[motifs/rose|alzò]]
-con quella rapidità elastica di cui [[The Professor|il Professore]] aveva parlato.
+con quella rapidità elastica di cui il Professore aveva parlato.
 Sistemò le sedie per entrambi, e andando a un attaccapanni dietro la porta,
 si mise una giacca e un panciotto di ruvido tweed scuro;
 li abbottonò con cura, e tornò a sedersi al tavolo.
 
-La quieta [[Humour|bonarietà]] dei suoi modi lasciava impotenti i suoi due avversari.
-Fu con qualche momentanea difficoltà che [[The Professor|il Professore]] ruppe
+La quieta bonarietà dei suoi modi lasciava impotenti i suoi due avversari.
+Fu con qualche momentanea difficoltà che il Professore ruppe
 il [[motifs/silence|silenzio]] e cominciò: «Mi dispiace disturbarvi così presto, compagno,»
 disse, riprendendo con cura la lenta cadenza de Worms.
 «Avrete senza [[concepts/doubt|dubbio]] preso tutte le disposizioni per l'affare di [[settings/paris|Parigi]]?»
@@ -5990,8 +5990,8 @@ But the little Doctor continued only to stare and smile,
 and the monologue was uphill work.  Syme began to feel
 a new sickness and [[concepts/despair|despair]].  The Doctor's smile and [[motifs/silence|silence]]
 were not at all like the cataleptic stare and horrible [[motifs/silence|silence]]
-which he had confronted in [[The Professor|the Professor]] half an hour before.
-About [[The Professor|the Professor]]'s makeup and all his antics there
+which he had confronted in the Professor half an hour before.
+About the Professor's makeup and all his antics there
 was always something merely [[concepts/grotesque|grotesque]], like a gollywog.
 Syme remembered those wild woes of yesterday as one remembers
 being afraid of Bogy in [[motifs/childhood|childhood]].  But here was daylight;
@@ -6005,7 +6005,7 @@ as such things grow too important in a realistic [[forms/novel|novel]].
 But his smile was quite slight, the pose of his head polite;
 the only [[concepts/uncanny|uncanny]] thing was his [[motifs/silence|silence]].
 
-"As I say," resumed [[The Professor|the Professor]], like a man toiling through heavy sand,
+"As I say," resumed the Professor, like a man toiling through heavy sand,
 "the incident that has occurred to us and has led us to ask for information
 about the Marquis, is one which you may think it better to have narrated;
 but as it came in the way of Comrade Syme rather than me--"
@@ -6038,7 +6038,7 @@ here together to see what use you would be inclined to make of it.
 It seems to me unquestionably urgent that--"
 
 All this [[motifs/time|time]] Syme had been staring at the Doctor almost as steadily
-as the Doctor stared at [[The Professor|the Professor]], but quite without the smile.
+as the Doctor stared at the Professor, but quite without the smile.
 The nerves of both comrades-in-arms were near snapping under that
 strain of motionless amiability, when Syme suddenly leant forward
 and idly tapped the edge of the table.  His message to his ally ran,
@@ -6124,8 +6124,8 @@ Ma il piccolo Dottore continuava soltanto a fissare e a sorridere,
 e il monologo era un lavoro in salita. Syme cominciò ad avvertire
 una nuova nausea e una nuova [[concepts/despair|disperazione]]. Il sorriso e il [[motifs/silence|silenzio]] del Dottore
 non somigliavano affatto allo sguardo catalettico e all'orribile [[motifs/silence|silenzio]]
-cui si era trovato di fronte con [[The Professor|il Professore]] mezz'ora prima.
-Nel trucco di [[The Professor|il Professore]] e in tutte le sue buffonate c'era
+cui si era trovato di fronte con il Professore mezz'ora prima.
+Nel trucco di il Professore e in tutte le sue buffonate c'era
 sempre qualcosa di semplicemente [[concepts/grotesque|grottesco]], come in un pupazzo di pezza.
 Syme ricordava quelle sue selvagge pene di ieri come si ricorda
 d'aver avuto paura dell'Uomo Nero nell'[[motifs/childhood|infanzia]]. Ma qui c'era la piena luce del giorno;
@@ -6139,7 +6139,7 @@ come tali cose diventano troppo importanti in un [[forms/novel|romanzo]] realist
 Ma il suo sorriso era assai lieve, la posa del capo cortese;
 l'unica cosa [[concepts/uncanny|inquietante]] era il suo [[motifs/silence|silenzio]].
 
-«Come dicevo,» riprese [[The Professor|il Professore]], come un uomo che arranca nella sabbia pesante,
+«Come dicevo,» riprese il Professore, come un uomo che arranca nella sabbia pesante,
 «l'incidente che ci è capitato e che ci ha indotti a chiedere informazioni
 sul Marchese è tale che voi potreste ritenere preferibile sentirlo raccontare;
 ma poiché toccò al compagno Syme più che a me...»
@@ -6172,7 +6172,7 @@ qui insieme per vedere quale uso sareste disposto a farne.
 Mi pare fuor di dubbio urgente che...»
 
 Per tutto questo [[motifs/time|tempo]] Syme aveva fissato il Dottore quasi con la stessa costanza
-con cui il Dottore fissava [[The Professor|il Professore]], ma del tutto senza il sorriso.
+con cui il Dottore fissava il Professore, ma del tutto senza il sorriso.
 I nervi di entrambi i commilitoni erano prossimi a spezzarsi sotto quella
 tensione d'immobile amabilità, quando Syme all'improvviso si sporse in avanti
 e batté oziosamente sull'orlo del tavolo. Il suo messaggio all'alleato diceva:
@@ -6262,7 +6262,7 @@ the spectacles that did it!  It was all the spectacles.
 Given those beastly black eyes, and all the rest of him his health
 and his jolly looks, made him a live devil among dead ones."
 
-"It certainly does make a queer difference," said [[The Professor|the Professor]] shakily.
+"It certainly does make a queer difference," said the Professor shakily.
 "But as regards the project of Dr. Bull--"
 
 "Project be damned!" roared Syme, beside himself.  "Look at him!
@@ -6311,7 +6311,7 @@ and he walked quickly on ahead towards a railway inquiry office,
 talking to the others over his shoulder.
 
 "It is jolly to get some pals," he said.  "I've been half dead
-with the jumps, being quite [[Alone|alone]].  I nearly flung my arms
+with the jumps, being quite alone.  I nearly flung my arms
 round Gogol and embraced him, which would have been imprudent.
 I [[concepts/hope|hope]] you won't despise me for having been in a blue funk."
 
@@ -6366,7 +6366,7 @@ like a coalcellar.  There, you would never have guessed that."
 
 "I could not have conceived it," said Syme gravely.
 
-"It is indeed a new idea," said [[The Professor|the Professor]].
+"It is indeed a new idea," said the Professor.
 
 Their new ally was in practical matters a whirlwind.
 At the inquiry office he asked with businesslike brevity about
@@ -6378,7 +6378,7 @@ They were already on the Calais boat before conversation flowed freely.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Anche [[The Professor|il Professore]] era balzato in piedi, dimentico della sua
+Anche il Professore era balzato in piedi, dimentico della sua
 supposta paralisi. Si appoggiò allo schienale della sedia e fissò dubbioso
 il dottor Bull, come se il Dottore gli si fosse mutato in un rospo sotto gli occhi.
 E in verità era quasi altrettanto grande la scena di trasformazione.
@@ -6396,7 +6396,7 @@ gli occhiali a fare tutto! Erano tutti quegli occhiali.
 Dàtegli quegli abominevoli occhi neri, e tutto il resto di lui, la salute
 e l'aspetto gioviale, ne facevano un diavolo vivo fra i morti.»
 
-«Fa certo una ben strana differenza», disse [[The Professor|il Professore]] con voce malferma.
+«Fa certo una ben strana differenza», disse il Professore con voce malferma.
 «Ma quanto al progetto del dottor Bull...»
 
 «Al diavolo il progetto!» ruggì Syme, fuori di sé. «Guardatelo!
@@ -6409,7 +6409,7 @@ Non vorrete mica supporre che quella cosa lì sia un anarchico?»
 Dottor Bull, io sono un ufficiale di polizia. Ecco il mio tesserino», e scagliò
 il tesserino azzurro sulla tavola.
 
-[[The Professor|Il Professore]] temeva ancora che tutto fosse perduto; ma era leale.
+Il Professore temeva ancora che tutto fosse perduto; ma era leale.
 Cavò fuori il proprio tesserino ufficiale e lo posò accanto a quello dell'amico.
 Poi il terzo uomo scoppiò a ridere, e per la prima [[motifs/time|volta]]
 quella mattina ne udirono la voce.
@@ -6431,7 +6431,7 @@ a quel maledetto Consiglio!»
 
 «Avremmo potuto batterci con tutta facilità», disse Bull; «eravamo quattro contro tre.»
 
-[[The Professor|Il Professore]] stava scendendo le scale, ma la sua voce salì dal basso.
+Il Professore stava scendendo le scale, ma la sua voce salì dal basso.
 
 «No», disse la voce, «non eravamo quattro contro tre... non siamo stati così fortunati.
 Eravamo quattro contro Uno.»
@@ -6445,7 +6445,7 @@ ed egli si mise a camminare rapido innanzi verso un ufficio informazioni ferrovi
 parlando agli altri sopra la spalla.
 
 «È bello ritrovarsi con dei compagni», disse. «Ero mezzo morto
-per gli spaventi, standomene tutto [[Alone|solo]]. Poco mancò che gettassi le braccia
+per gli spaventi, standomene tutto solo. Poco mancò che gettassi le braccia
 al collo di Gogol e lo abbracciassi, il che sarebbe stato imprudente.
 [[concepts/hope|Spero]] non mi disprezzerete per essermela fatta sotto per la paura.»
 
@@ -6500,7 +6500,7 @@ come una carbonaia. Ecco, questo non l'avreste mai indovinato.»
 
 «Non avrei potuto concepirlo», disse Syme gravemente.
 
-«È davvero un'idea nuova», disse [[The Professor|il Professore]].
+«È davvero un'idea nuova», disse il Professore.
 
 Il loro nuovo alleato, nelle cose pratiche, era un turbine.
 All'ufficio informazioni domandò con brevità sbrigativa dei
@@ -6525,13 +6525,13 @@ hat to me from the top of an omnibus.  I tell you, you can
 say what you like, that fellow sold himself to the devil;
 he can be in six places at once."
 
-"So you sent the Marquis off, I understand," asked [[The Professor|the Professor]].  "Was it
+"So you sent the Marquis off, I understand," asked the Professor.  "Was it
 long ago?  Shall we be in [[motifs/time|time]] to catch him?"
 
 "Yes," answered the new guide, "I've timed it all.
 He'll still be at Calais when we arrive."
 
-"But when we do catch him at Calais," said [[The Professor|the Professor]],
+"But when we do catch him at Calais," said the Professor,
 "what are we going to do?"
 
 At this question the countenance of Dr. Bull fell for the first [[motifs/time|time]].
@@ -6545,7 +6545,7 @@ on my word of [[concepts/honour|honour]] not to tell the police.  I'm no hand
 at casuistry, but I can't break my word to a modern pessimist.
 It's like breaking one's word to a [[archetypes/child|child]]."
 
-"I'm in the same boat," said [[The Professor|the Professor]].  "I tried to tell
+"I'm in the same boat," said the Professor.  "I tried to tell
 the police and I couldn't, because of some silly oath I took.
 You see, when I was an actor I was a sort of all-round beast.
 Perjury or treason is the only crime I haven't committed.
@@ -6555,7 +6555,7 @@ right and wrong."
 "I've been through all that," said Dr. Bull, "and I've made up my mind.
 I gave my promise to the Secretary--you know him, man who smiles upside down.
 My friends, that man is the most utterly unhappy man that was ever human.
-It may be his digestion, or his [[concepts/conscience|conscience]], or his nerves, or his [[philosophy]]
+It may be his digestion, or his [[concepts/conscience|conscience]], or his nerves, or his philosophy
 of the universe, but he's damned, he's in hell!  [[motifs/well|Well]], I can't turn
 on a man like that, and hunt him down.  It's like whipping a leper.
 I may be mad, but that's how I feel; and there's jolly [[motifs/well|well]] the end of it."
@@ -6571,20 +6571,20 @@ Dr. Bull smiled a little, and strolled across the deck to look at the
 sunlit sea.  Then he strolled back again, kicking his heels carelessly,
 and a companionable [[motifs/silence|silence]] fell between the three men.
 
-"[[motifs/well|Well]]," said Syme, "it seems that we have all the same kind of [[morality]]
+"[[motifs/well|Well]]," said Syme, "it seems that we have all the same kind of morality
 or immorality, so we had better face the fact that comes of it."
 
-"Yes," assented [[The Professor|the Professor]], "you're quite right; and we must hurry up,
+"Yes," assented the Professor, "you're quite right; and we must hurry up,
 for I can see the Grey Nose standing out from France."
 
 "The fact that comes of it," said Syme seriously, "is this, that we
-three are [[Alone|alone]] on this planet.  Gogol has gone, God knows where;
+three are alone on this planet.  Gogol has gone, God knows where;
 perhaps the President has smashed him like a fly.  On the Council we
 are three men against three, like the Romans who held the bridge.
 But we are worse off than that, first because they can appeal to their
 organization and we cannot appeal to ours, and second because--"
 
-"Because one of those other three men," said [[The Professor|the Professor]],
+"Because one of those other three men," said the Professor,
 "is not a man."
 
 Syme nodded and was silent for a second or two, then he said--
@@ -6605,7 +6605,7 @@ I am going to profit by the fact that he is a highly respected nobleman.
 I am going to profit by the fact that he has many friends and moves
 in the best society."
 
-"What the devil are you talking about?" asked [[The Professor|the Professor]].
+"What the devil are you talking about?" asked the Professor.
 
 "The Symes are first mentioned in the fourteenth century,"
 said Syme; "but there is a tradition that one of them rode behind
@@ -6623,7 +6623,7 @@ The motto varies."
 in the wrong place?"
 
 "My remarks are almost painfully practical," answered Syme,
-in an unhurried manner.  "The [[house]] of St. Eustache also is
+in an unhurried manner.  "The house of St. Eustache also is
 very ancient.  The Marquis cannot deny that he is a gentleman.
 He cannot deny that I am a gentleman.  And in order to put
 the matter of my social position quite beyond a [[concepts/doubt|doubt]],
@@ -6635,7 +6635,7 @@ Syme, who had now taken the lead as Bull had taken it in [[settings/london|Londo
 led them along a kind of marine parade until he came to some cafes,
 embowered in a bulk of greenery and overlooking the sea.
 As he went before them his step was slightly swaggering,
-and he swung his stick like a [[Sword|sword]].  He was making apparently
+and he swung his stick like a sword.  He was making apparently
 for the extreme end of the line of cafes, but he stopped abruptly.
 With a sharp gesture he motioned them to [[motifs/silence|silence]], but he
 pointed with one gloved finger to a cafe table under a bank
@@ -6649,11 +6649,11 @@ against the violet sea.
 
 «Avevo già combinato», spiegò, «di andare a pranzo in Francia; ma sono lieto d'avere qualcuno che pranzi con me. Vedete, ho dovuto mandare quella bestia del Marchese di là con la sua bomba, perché il Presidente mi teneva d'occhio, sa Dio come. Un giorno o l'altro vi racconterò la storia. Era una cosa da soffocare. Ogni volta che tentavo di sgusciar via, mi vedevo comparire il Presidente da qualche parte: mi sorrideva dalla [[motifs/window|finestra]] a bovindo d'un club, oppure si toglieva il cappello dall'alto d'un omnibus. Ve lo dico io, dite pure quel che volete: quel tale s'è venduto al diavolo; sa stare in sei posti nello stesso momento.»
 
-«Dunque il Marchese l'avete spedito via, se ho ben capito», domandò [[The Professor|il Professore]]. «È stato molto tempo fa? Faremo in [[motifs/time|tempo]] a raggiungerlo?»
+«Dunque il Marchese l'avete spedito via, se ho ben capito», domandò il Professore. «È stato molto tempo fa? Faremo in [[motifs/time|tempo]] a raggiungerlo?»
 
 «Sì», rispose la nuova guida, «ho calcolato tutto. Sarà ancora a Calais quando arriveremo.»
 
-«Ma quando lo raggiungeremo a Calais», disse [[The Professor|il Professore]], «che cosa faremo?»
+«Ma quando lo raggiungeremo a Calais», disse il Professore, «che cosa faremo?»
 
 A questa domanda il volto del dottor Bull si rannuvolò per la prima [[motifs/time|volta]]. Rifletté un poco, poi disse:
 
@@ -6661,9 +6661,9 @@ A questa domanda il volto del dottor Bull si rannuvolò per la prima [[motifs/ti
 
 «Io no», disse Syme. «In teoria dovrei prima annegarmi. Ho promesso a un pover'uomo, che era un autentico pessimista moderno, sulla mia parola d'[[concepts/honour|onore]], di non avvertire la polizia. Non sono ferrato in casuistica, ma non posso mancar di parola a un pessimista moderno. È come mancar di parola a un [[archetypes/child|bambino]].»
 
-«Sono nella stessa barca», disse [[The Professor|il Professore]]. «Ho tentato di avvertire la polizia e non ci sono riuscito, a causa di un certo sciocco giuramento che avevo fatto. Vedete, quando facevo l'attore ero una specie di bestia tuttofare. Lo spergiuro e il tradimento sono gli unici delitti che non ho commesso. Se lo facessi, non saprei più distinguere il bene dal male.»
+«Sono nella stessa barca», disse il Professore. «Ho tentato di avvertire la polizia e non ci sono riuscito, a causa di un certo sciocco giuramento che avevo fatto. Vedete, quando facevo l'attore ero una specie di bestia tuttofare. Lo spergiuro e il tradimento sono gli unici delitti che non ho commesso. Se lo facessi, non saprei più distinguere il bene dal male.»
 
-«Ci sono passato anch'io», disse il dottor Bull, «e mi sono deciso. Ho dato la mia promessa al Segretario... lo conoscete, l'uomo che sorride a rovescio. Amici miei, quell'uomo è la creatura più irrimediabilmente infelice che sia mai stata umana. Sarà la sua digestione, o la sua [[concepts/conscience|coscienza]], o i suoi nervi, o la sua [[philosophy|filosofia]] dell'universo, ma è dannato, è all'inferno! [[motifs/well|Ebbene]], non posso voltarmi contro un uomo simile e dargli la caccia. È come frustare un lebbroso. Sarò pazzo, ma è così che la sento; e chiuso il discorso, e ben [[motifs/well|chiuso]].»
+«Ci sono passato anch'io», disse il dottor Bull, «e mi sono deciso. Ho dato la mia promessa al Segretario... lo conoscete, l'uomo che sorride a rovescio. Amici miei, quell'uomo è la creatura più irrimediabilmente infelice che sia mai stata umana. Sarà la sua digestione, o la sua [[concepts/conscience|coscienza]], o i suoi nervi, o la sua filosofia dell'universo, ma è dannato, è all'inferno! [[motifs/well|Ebbene]], non posso voltarmi contro un uomo simile e dargli la caccia. È come frustare un lebbroso. Sarò pazzo, ma è così che la sento; e chiuso il discorso, e ben [[motifs/well|chiuso]].»
 
 «Non credo che siate pazzo», disse Syme. «Sapevo che avreste deciso così fin dal momento in cui...»
 
@@ -6673,19 +6673,19 @@ A questa domanda il volto del dottor Bull si rannuvolò per la prima [[motifs/ti
 
 Il dottor Bull sorrise appena e attraversò il ponte a passeggio per guardare il mare soleggiato. Poi tornò indietro, sempre passeggiando e battendo i tacchi con noncuranza, e fra i tre uomini scese un [[motifs/silence|silenzio]] cordiale.
 
-«[[motifs/well|Ebbene]]», disse Syme, «pare che abbiamo tutti la stessa [[morality|moralità]], o immoralità; tanto vale allora affrontare il fatto che ne deriva.»
+«[[motifs/well|Ebbene]]», disse Syme, «pare che abbiamo tutti la stessa moralità, o immoralità; tanto vale allora affrontare il fatto che ne deriva.»
 
-«Sì», assentì [[The Professor|il Professore]], «avete perfettamente ragione; e dobbiamo far presto, perché vedo il Grigio Naso che si staglia dalla costa di Francia.»
+«Sì», assentì il Professore, «avete perfettamente ragione; e dobbiamo far presto, perché vedo il Grigio Naso che si staglia dalla costa di Francia.»
 
-«Il fatto che ne deriva», disse Syme con gravità, «è questo: che noi tre siamo [[Alone|soli]] su questo pianeta. Gogol se n'è andato, sa Dio dove; forse il Presidente l'ha schiacciato come una mosca. Nel Consiglio siamo tre uomini contro tre, come i Romani che tennero il ponte. Ma stiamo peggio di così: primo, perché essi possono contare sulla loro organizzazione e noi non possiamo contare sulla nostra, e secondo perché...»
+«Il fatto che ne deriva», disse Syme con gravità, «è questo: che noi tre siamo soli su questo pianeta. Gogol se n'è andato, sa Dio dove; forse il Presidente l'ha schiacciato come una mosca. Nel Consiglio siamo tre uomini contro tre, come i Romani che tennero il ponte. Ma stiamo peggio di così: primo, perché essi possono contare sulla loro organizzazione e noi non possiamo contare sulla nostra, e secondo perché...»
 
-«Perché uno di quegli altri tre uomini», disse [[The Professor|il Professore]], «non è un uomo.»
+«Perché uno di quegli altri tre uomini», disse il Professore, «non è un uomo.»
 
 Syme annuì e rimase in silenzio per un secondo o due, poi disse:
 
 «La mia idea è questa. Dobbiamo fare qualcosa per trattenere il Marchese a Calais fino a domani a mezzogiorno. Ho rimuginato una ventina di piani nella mia testa. Non possiamo denunciarlo come dinamitardo; su questo siamo d'accordo. Non possiamo farlo arrestare per qualche accusa da poco, perché dovremmo comparire noi; ci conosce, e fiuterebbe l'inganno. Non possiamo fingere di trattenerlo per affari anarchici; su quel terreno potrebbe [[motifs/swallow|inghiottire]] molte cose, ma non l'idea di fermarsi a Calais mentre lo Zar attraversava tranquillamente [[settings/paris|Parigi]]. Potremmo tentare di rapirlo e rinchiuderlo noi stessi; ma qui è uomo assai [[motifs/well|noto]]. Ha tutta una guardia del corpo di amici; è molto forte e coraggioso, e l'esito è incerto. L'unica cosa che mi riesce di vedere da fare è approfittare proprio di quelle stesse cose che giocano a favore del Marchese. Mi varrò del fatto che egli è un nobiluomo altamente rispettato. Mi varrò del fatto che ha molti amici e frequenta la migliore società.»
 
-«Che diavolo state dicendo?» domandò [[The Professor|il Professore]].
+«Che diavolo state dicendo?» domandò il Professore.
 
 «I Syme sono menzionati per la prima volta nel quattordicesimo secolo», disse Syme; «ma una tradizione vuole che uno di loro cavalcasse dietro a Bruce a Bannockburn. Dal 1350 in poi l'albero genealogico è del tutto chiaro.»
 
@@ -6693,13 +6693,13 @@ Syme annuì e rimase in silenzio per un secondo o due, poi disse:
 
 «La nostra arma», proseguì Syme con calma, «è "d'argento, a un capriolo di rosso caricato di tre [[motifs/cross|croci]] crocettate del campo". Il motto varia.»
 
-[[The Professor|Il Professore]] afferrò Syme bruscamente per il panciotto.
+Il Professore afferrò Syme bruscamente per il panciotto.
 
 «Siamo appena sottocosta», disse. «Avete il mal di mare o scherzate a sproposito?»
 
-«Le mie osservazioni sono di una praticità quasi penosa», rispose Syme senza fretta. «Anche la [[house|casata]] di St. Eustache è antichissima. Il Marchese non può negare d'essere un gentiluomo. Non può negare che io sia un gentiluomo. E per mettere la questione della mia posizione sociale del tutto al di là d'ogni [[concepts/doubt|dubbio]], mi propongo, alla prima occasione, di fargli saltare via il cappello. Ma eccoci nel porto.»
+«Le mie osservazioni sono di una praticità quasi penosa», rispose Syme senza fretta. «Anche la casata di St. Eustache è antichissima. Il Marchese non può negare d'essere un gentiluomo. Non può negare che io sia un gentiluomo. E per mettere la questione della mia posizione sociale del tutto al di là d'ogni [[concepts/doubt|dubbio]], mi propongo, alla prima occasione, di fargli saltare via il cappello. Ma eccoci nel porto.»
 
-Scesero a terra sotto il sole forte come in una specie di stordimento. Syme, che ora aveva preso il comando come Bull l'aveva preso a [[settings/london|Londra]], li condusse lungo una sorta di passeggiata a mare finché non giunse a certi caffè, immersi in una massa di verzura e affacciati sul mare. Camminando davanti a loro, il suo passo era leggermente spavaldo, e faceva roteare il bastone come una [[Sword|spada]]. Pareva dirigersi verso l'estremità della fila dei caffè, ma si fermò di colpo. Con un gesto brusco fece loro cenno di far [[motifs/silence|silenzio]], indicando poi con un dito guantato un tavolino di caffè sotto una siepe di fogliame in fiore, al quale sedeva il Marchese de St. Eustache, i denti scintillanti nella folta barba nera, e il volto ardito e abbronzato adombrato da un leggero cappello di paglia gialla e stagliato contro il mare violetto.
+Scesero a terra sotto il sole forte come in una specie di stordimento. Syme, che ora aveva preso il comando come Bull l'aveva preso a [[settings/london|Londra]], li condusse lungo una sorta di passeggiata a mare finché non giunse a certi caffè, immersi in una massa di verzura e affacciati sul mare. Camminando davanti a loro, il suo passo era leggermente spavaldo, e faceva roteare il bastone come una spada. Pareva dirigersi verso l'estremità della fila dei caffè, ma si fermò di colpo. Con un gesto brusco fece loro cenno di far [[motifs/silence|silenzio]], indicando poi con un dito guantato un tavolino di caffè sotto una siepe di fogliame in fiore, al quale sedeva il Marchese de St. Eustache, i denti scintillanti nella folta barba nera, e il volto ardito e abbronzato adombrato da un leggero cappello di paglia gialla e stagliato contro il mare violetto.
 
 
 
@@ -6740,7 +6740,7 @@ I like to be just to my enemy."
 "It leads up to my challenge, don't you see," said Syme, beaming.
 "When the Marquis has given the thirty-ninth reply, which runs--"
 
-"Has it by any chance occurred to you," asked [[The Professor|the Professor]],
+"Has it by any chance occurred to you," asked the Professor,
 with a ponderous simplicity, "that the Marquis may not say
 all the forty-three things you have put down for him?
 In that case, I understand, your own epigrams may appear
@@ -6757,7 +6757,7 @@ You will make a name."
 "It only remains," continued Syme quite unperturbed, "to adopt
 some other method of breaking the ice (if I may so express it)
 between myself and the man I wish to kill.  And since the course
-of a dialogue cannot be predicted by one of its parties [[Alone|alone]]
+of a dialogue cannot be predicted by one of its parties alone
 (as you have pointed out with such recondite acumen),
 the only thing to be done, I suppose, is for the one party,
 as far as possible, to do all the dialogue by himself.
@@ -6783,7 +6783,7 @@ down on the Mediterranean, on his galley and his groaning slaves.
 Just so, Syme thought, would the brown-gold face of such a [[archetypes/tyrant|tyrant]]
 have shown against the dark green olives and the burning blue.
 
-"Are you going to address the meeting?" asked [[The Professor|the Professor]] peevishly,
+"Are you going to address the meeting?" asked the Professor peevishly,
 seeing that Syme still stood up without moving.
 
 Syme drained his last glass of sparkling wine.
@@ -6883,7 +6883,7 @@ Mi piace rendere giustizia al mio nemico.»
 «Prepara la mia sfida, non capite?» disse Syme raggiante.
 «Quando il Marchese avrà dato la trentanovesima risposta, che suona…»
 
-«Vi è per caso venuto in mente», chiese [[The Professor|il Professore]],
+«Vi è per caso venuto in mente», chiese il Professore,
 con una ponderosa semplicità, «che il Marchese potrebbe non dire
 tutte e quarantatré le cose che gli avete messo in bocca?
 In tal caso, se ben comprendo, i vostri stessi epigrammi potrebbero apparire
@@ -6900,7 +6900,7 @@ Vi farete un nome.»
 «Non resta dunque», proseguì Syme del tutto imperturbato, «che adottare
 qualche altro metodo per rompere il ghiaccio (se posso esprimermi così)
 fra me e l'uomo che desidero uccidere.  E poiché il corso
-di un dialogo non può essere previsto da una sola delle sue parti [[Alone|da sola]]
+di un dialogo non può essere previsto da una sola delle sue parti da sola
 (come avete fatto notare con acume tanto recondito),
 l'unica cosa da fare, suppongo, è che una delle parti,
 per quanto possibile, sostenga tutto il dialogo da sé.
@@ -6926,7 +6926,7 @@ dall'alto il Mediterraneo, la sua galea e i suoi schiavi gementi.
 Proprio così, pensò Syme, il volto bruno-dorato di un simile [[archetypes/tyrant|tiranno]]
 si sarebbe stagliato contro gli ulivi verde scuro e l'azzurro ardente.
 
-«Avete intenzione di rivolgervi all'assemblea?» chiese [[The Professor|il Professore]] stizzito,
+«Avete intenzione di rivolgervi all'assemblea?» chiese il Professore stizzito,
 vedendo che Syme se ne stava ancora in piedi senza muoversi.
 
 Syme vuotò l'ultimo bicchiere di vino spumeggiante.
@@ -7052,7 +7052,7 @@ could have guessed that he had any anxiety about a [[motifs/journey|journey]];
 his hands were in his pockets, his straw hat on the back
 of his head, his handsome face brazen in the sun.  But it might
 have struck a stranger as odd that there appeared in his train,
-not only his seconds carrying the [[Sword|sword]]-case, but two of his
+not only his seconds carrying the sword-case, but two of his
 servants carrying a portmanteau and a luncheon basket.
 
 Early as was the hour, the sun soaked everything in warmth,
@@ -7077,7 +7077,7 @@ he could see, like a tinted cloud, a small almond bush in flower
 against the faint line of the sea.
 
 The member of the Legion of [[concepts/honour|Honour]], whose name it seemed was Colonel Ducroix,
-approached [[The Professor|the Professor]] and Dr. Bull with great politeness, and suggested
+approached the Professor and Dr. Bull with great politeness, and suggested
 that the play should terminate with the first considerable hurt.
 
 Dr. Bull, however, having been carefully coached by Syme upon this
@@ -7088,7 +7088,7 @@ and prevent the Marquis from disabling him for at least twenty minutes.
 In twenty minutes the [[settings/paris|Paris]] train would have gone by.
 
 "To a man of the [[motifs/well|well]]-known skill and valour of Monsieur de
-St. Eustache," said [[The Professor|the Professor]] solemnly, "it must be a matter
+St. Eustache," said the Professor solemnly, "it must be a matter
 of indifference which method is adopted, and our principal
 has strong reasons for demanding the longer encounter,
 reasons the delicacy of which prevent me from being explicit,
@@ -7169,7 +7169,7 @@ avrebbe potuto indovinare che egli nutrisse qualche ansia per un [[motifs/journe
 teneva le mani in tasca, il cappello di paglia sulla nuca,
 il bel volto sfrontato al sole. Ma poteva
 apparire strano a un estraneo che nel suo seguito comparissero,
-non soltanto i padrini che portavano la custodia della [[Sword|spada]], ma due dei suoi
+non soltanto i padrini che portavano la custodia della spada, ma due dei suoi
 servi che recavano una valigia e un cesto da picnic.
 
 Per quanto fosse ancora presto, il sole intrideva ogni cosa di tepore,
@@ -7194,7 +7194,7 @@ scorgeva, simile a una nuvola tinta, un piccolo mandorlo in fiore
 contro la tenue linea del mare.
 
 Il membro della Legione d'[[concepts/honour|Onore]], il cui nome pareva fosse Colonnello Ducroix,
-si avvicinò con grande cortesia al [[The Professor|Professore]] e al dottor Bull, e propose
+si avvicinò con grande cortesia al Professore e al dottor Bull, e propose
 che l'incontro terminasse alla prima ferita di rilievo.
 
 Il dottor Bull, tuttavia, essendo stato accuratamente istruito da Syme su questo
@@ -7205,7 +7205,7 @@ e di impedire al Marchese di mettere fuori combattimento lui per almeno venti mi
 In venti minuti il treno per [[settings/paris|Parigi]] sarebbe passato.
 
 «Per un uomo della [[motifs/well|nota]] abilità e valore quale Monsieur de
-St. Eustache» disse il [[The Professor|Professore]] con solennità, «deve essere del tutto
+St. Eustache» disse il Professore con solennità, «deve essere del tutto
 indifferente quale metodo si adotti, e il nostro mandante
 ha forti ragioni per esigere lo scontro più lungo,
 ragioni la cui delicatezza mi impedisce di essere esplicito,
@@ -7234,7 +7234,7 @@ Then the Colonel took out another pair of blades, and taking one himself
 and giving another to Dr. Bull, proceeded to place the men.
 
 Both combatants had thrown off their coats and waistcoats,
-and stood [[Sword|sword]] in hand.  The seconds stood on each side
+and stood sword in hand.  The seconds stood on each side
 of the line of fight with drawn swords also, but still sombre
 in their dark frock-coats and hats.  The principals saluted.
 The Colonel said quietly, "Engage!" and the two blades
@@ -7244,8 +7244,8 @@ When the jar of the joined iron ran up Syme's arm,
 all the fantastic fears that have been the subject of this
 story fell from him like [[motifs/dreams|dreams]] from a man waking up in bed.
 He remembered them clearly and in order as mere delusions
-of the nerves--how the [[concepts/fear|fear]] of [[The Professor|the Professor]] had been the [[concepts/fear|fear]]
-of the tyrannic accidents of [[nightmare]], and how the [[concepts/fear|fear]] of
+of the nerves--how the [[concepts/fear|fear]] of the Professor had been the [[concepts/fear|fear]]
+of the tyrannic accidents of nightmare, and how the [[concepts/fear|fear]] of
 the Doctor had been the [[concepts/fear|fear]] of the airless vacuum of science.
 The first was the old [[concepts/fear|fear]] that any miracle might happen, the second
 the more hopeless modern [[concepts/fear|fear]] that no miracle can ever happen.
@@ -7287,7 +7287,7 @@ At the risk of losing all, the Marquis, interrupting his quiet stare,
 flashed one glance over his shoulder at the line of railway on his right.
 Then he turned on Syme a face transfigured to that of a fiend, and began
 to fight as if with twenty weapons.  The attack came so fast and furious,
-that the one shining [[Sword|sword]] seemed a shower of shining arrows.
+that the one shining sword seemed a shower of shining arrows.
 Syme had no chance to look at the railway; but also he had no need.
 He could guess the reason of the Marquis's sudden [[concepts/madness|madness]] of battle--
 the [[settings/paris|Paris]] train was in sight.
@@ -7296,13 +7296,13 @@ But the Marquis's morbid energy over-reached itself.
 Twice Syme, parrying, knocked his opponent's point far out
 of the fighting circle; and the third [[motifs/time|time]] his riposte was
 so rapid, that there was no [[concepts/doubt|doubt]] about the hit this [[motifs/time|time]].
-Syme's [[Sword|sword]] actually bent under the weight of the Marquis's [[concepts/body|body]],
+Syme's sword actually bent under the weight of the Marquis's [[concepts/body|body]],
 which it had pierced.
 
 Syme was as certain that he had stuck his blade into his enemy
 as a gardener that he has stuck his spade into the ground.
 Yet the Marquis sprang back from the stroke without a stagger,
-and Syme stood staring at his own [[Sword|sword]]-point like an idiot.
+and Syme stood staring at his own sword-point like an idiot.
 There was no [[motifs/blood|blood]] on it at all.
 
 There was an instant of rigid [[motifs/silence|silence]], and then Syme in his turn
@@ -7314,7 +7314,7 @@ He fought wildly and even weakly, and he constantly looked
 away at the railway line, almost as if he feared the train
 more than the pointed steel.  Syme, on the other hand,
 fought fiercely but still carefully, in an intellectual fury,
-eager to solve the [[forms/riddle|riddle]] of his own bloodless [[Sword|sword]].
+eager to solve the [[forms/riddle|riddle]] of his own bloodless sword.
 For this purpose, he aimed less at the Marquis's [[concepts/body|body]],
 and more at his throat and head.  A minute and a half afterwards
 he felt his point enter the man's neck below the jaw.
@@ -7327,7 +7327,7 @@ Surely the man had a charmed life.  But this new spiritual dread was a more
 awful thing than had been the mere spiritual topsy-turvydom symbolised
 by the paralytic who pursued him.  [[works/the-professor-(bronte)|The Professor]] was only a goblin;
 this man was a devil--perhaps he was the Devil!  Anyhow, this was certain,
-that three times had a human [[Sword|sword]] been driven into him and made no mark.
+that three times had a human sword been driven into him and made no mark.
 When Syme had that thought he drew himself up, and all that was good
 in him sang high up in the air as a high [[motifs/wind|wind]] sings in the trees.
 He thought of all the human things in his story--of the Chinese lanterns
@@ -7347,7 +7347,7 @@ Allora il Colonnello tirò fuori un'altra coppia di lame, e prendendone una per 
 e porgendone un'altra al dottor Bull, si accinse a disporre gli uomini.
 
 Entrambi i contendenti si erano tolti la giacca e il panciotto,
-e stavano con la [[Sword|spada]] in pugno. I padrini si tenevano ai due lati
+e stavano con la spada in pugno. I padrini si tenevano ai due lati
 della linea di combattimento, anch'essi con la spada sguainata, ma sempre cupi
 nei loro scuri redingote e cappelli. I duellanti salutarono.
 Il Colonnello disse con calma: «In guardia!» e le due lame
@@ -7357,8 +7357,8 @@ Quando la vibrazione del ferro incrociato risalì il braccio di Syme,
 tutte le paure fantastiche che sono state oggetto di questa
 storia caddero da lui come [[motifs/dreams|sogni]] da un uomo che si desta nel letto.
 Se le ricordava chiaramente e per ordine, come mere illusioni
-dei nervi: come la [[concepts/fear|paura]] del [[The Professor|Professore]] fosse stata la [[concepts/fear|paura]]
-degli accidenti tirannici dell'[[nightmare|incubo]], e come la [[concepts/fear|paura]] del
+dei nervi: come la [[concepts/fear|paura]] del Professore fosse stata la [[concepts/fear|paura]]
+degli accidenti tirannici dell'incubo, e come la [[concepts/fear|paura]] del
 Dottore fosse stata la [[concepts/fear|paura]] del vuoto senz'aria della scienza.
 La prima era l'antica [[concepts/fear|paura]] che qualsiasi miracolo potesse accadere, la seconda
 la più disperata [[concepts/fear|paura]] moderna che nessun miracolo possa mai accadere.
@@ -7400,7 +7400,7 @@ A rischio di perdere tutto, il Marchese, interrompendo il suo tranquillo fissare
 lanciò una sola occhiata al di sopra della spalla verso la linea ferroviaria alla sua destra.
 Poi rivolse a Syme un volto trasfigurato in quello di un demonio, e cominciò
 a battersi come se avesse venti armi. L'attacco venne così rapido e furioso
-che l'unica [[Sword|spada]] lucente sembrava una pioggia di lucenti frecce.
+che l'unica spada lucente sembrava una pioggia di lucenti frecce.
 Syme non ebbe modo di guardare la ferrovia; ma d'altronde non ne aveva bisogno.
 Poteva indovinare la ragione dell'improvvisa [[concepts/madness|follia]] di battaglia del Marchese:
 il treno di [[settings/paris|Parigi]] era in vista.
@@ -7409,13 +7409,13 @@ Ma l'energia morbosa del Marchese oltrepassò se stessa.
 Due volte Syme, parando, respinse la punta dell'avversario ben fuori
 dal cerchio del combattimento; e la terza [[motifs/time|volta]] la sua risposta di rimessa fu
 così rapida che non ci fu [[concepts/doubt|dubbio]] alcuno sul colpo, questa [[motifs/time|volta]].
-La [[Sword|spada]] di Syme si piegò davvero sotto il peso del [[concepts/body|corpo]] del Marchese,
+La spada di Syme si piegò davvero sotto il peso del [[concepts/body|corpo]] del Marchese,
 che aveva trafitto.
 
 Syme era certo di aver conficcato la lama nel nemico
 come un giardiniere è certo di aver conficcato la vanga nel terreno.
 Eppure il Marchese balzò indietro dal colpo senza vacillare,
-e Syme rimase a fissare la propria punta di [[Sword|spada]] come un idiota.
+e Syme rimase a fissare la propria punta di spada come un idiota.
 Non vi era su di essa [[motifs/blood|sangue]] alcuno.
 
 Vi fu un istante di rigido [[motifs/silence|silenzio]], e poi Syme a sua volta
@@ -7427,7 +7427,7 @@ Si batteva selvaggiamente e persino fiaccamente, e guardava di continuo
 verso la linea ferroviaria, quasi temesse il treno
 più dell'acciaio appuntito. Syme, dal canto suo,
 si batteva ferocemente ma pur sempre con prudenza, in una furia intellettuale,
-ansioso di sciogliere l'[[forms/riddle|enigma]] della propria [[Sword|spada]] senza sangue.
+ansioso di sciogliere l'[[forms/riddle|enigma]] della propria spada senza sangue.
 A tale scopo mirava meno al [[concepts/body|corpo]] del Marchese,
 e più alla sua gola e alla sua testa. Un minuto e mezzo dopo
 sentì la propria punta entrare nel collo dell'uomo, sotto la mascella.
@@ -7438,9 +7438,9 @@ Ma non vi fu cicatrice alcuna.
 Per un istante il cielo di Syme tornò a farsi nero di terrori [[motifs/supernatural|soprannaturali]].
 Di certo quell'uomo aveva una vita fatata. Ma questo nuovo terrore spirituale era una cosa più
 tremenda di quanto fosse stata la mera capovolgimento spirituale simboleggiato
-dal paralitico che lo aveva inseguito. [[The Professor|Il Professore]] era solo un folletto;
+dal paralitico che lo aveva inseguito. Il Professore era solo un folletto;
 quest'uomo era un diavolo... forse era il Diavolo! Comunque, questo era certo:
-che tre volte una [[Sword|spada]] umana era stata affondata in lui senza lasciare segno.
+che tre volte una spada umana era stata affondata in lui senza lasciare segno.
 Quando Syme ebbe quel pensiero si raddrizzò, e tutto ciò che di buono
 era in lui cantò alto nell'aria come un alto [[motifs/wind|vento]] canta tra gli alberi.
 Pensò a tutte le cose umane della sua storia: alle lanterne cinesi
@@ -7467,9 +7467,9 @@ of the train, which ended, as if proudly, in a long and piercing whistle.
 The train stopped.
 
 Suddenly, to the astonishment of everyone the Marquis sprang
-back quite out of [[Sword|sword]] reach and threw down his [[Sword|sword]].
+back quite out of sword reach and threw down his sword.
 The leap was wonderful, and not the less wonderful because Syme
-had plunged his [[Sword|sword]] a moment before into the man's thigh.
+had plunged his sword a moment before into the man's thigh.
 
 "Stop!" said the Marquis in a voice that compelled a momentary obedience.
 "I want to say something."
@@ -7543,7 +7543,7 @@ peeled off, and half another face glaring and grinning from underneath.
 
 "Will you drive me mad?" he cried.  "The train--"
 
-"You shall not go by the train," said Syme firmly, and grasped his [[Sword|sword]].
+"You shall not go by the train," said Syme firmly, and grasped his sword.
 
 The wild figure turned towards Syme, and seemed to be gathering
 itself for a [[concepts/sublime|sublime]] effort before speaking.
@@ -7557,7 +7557,7 @@ Godforsaken, doddering, damned [[archetypes/fool|fool]]!" he said without taking
 "And why the infernal blazes," roared the other, "should I want
 to go by the train?"
 
-"We know all," said [[The Professor|the Professor]] sternly.  "You are going to [[settings/paris|Paris]]
+"We know all," said the Professor sternly.  "You are going to [[settings/paris|Paris]]
 to throw a bomb!"
 
 "Going to Jericho to throw a Jabberwock!" cried the other, tearing his hair,
@@ -7567,7 +7567,7 @@ which came off easily.
 what I am?  Did you really think I wanted to catch that train?
 Twenty [[settings/paris|Paris]] trains might go by for me.  Damn [[settings/paris|Paris]] trains!"
 
-"Then what did you care about?" began [[The Professor|the Professor]].
+"Then what did you care about?" began the Professor.
 
 "What did I care about?  I didn't care about catching the train;
 I cared about whether the train caught me, and now, by God! it
@@ -7585,7 +7585,7 @@ to mean something."
 "It means everything," said the other, "and the end of everything.
 [[characters/sunday|Sunday]] has us now in the hollow of his hand."
 
-"Us!" repeated [[The Professor|the Professor]], as if stupefied.  "What do you mean by 'us'?"
+"Us!" repeated the Professor, as if stupefied.  "What do you mean by 'us'?"
 
 "The police, of course!" said the Marquis, and tore off his scalp
 and half his face.
@@ -7606,9 +7606,9 @@ del treno, che finì, quasi con orgoglio, in un lungo e acutissimo fischio.
 Il treno si fermò.
 
 D'improvviso, con stupore di tutti, il Marchese balzò
-all'indietro, ben fuori dalla portata della [[Sword|spada]], e gettò a terra la propria [[Sword|spada]].
+all'indietro, ben fuori dalla portata della spada, e gettò a terra la propria spada.
 Il balzo fu prodigioso, e non meno prodigioso per il fatto che Syme
-gli aveva conficcato la [[Sword|spada]], un istante prima, nella coscia.
+gli aveva conficcato la spada, un istante prima, nella coscia.
 
 «Fermo!» disse il Marchese con una voce che impose un'obbedienza momentanea.
 «Voglio dire una cosa.»
@@ -7682,7 +7682,7 @@ scorticato via, e metà di un altro volto che sogghignava e digrignava lì sotto
 
 «Volete farmi impazzire?» gridò. «Il treno...»
 
-«Non partirà con quel treno» disse Syme con fermezza, e afferrò la propria [[Sword|spada]].
+«Non partirà con quel treno» disse Syme con fermezza, e afferrò la propria spada.
 
 La figura selvaggia si volse verso Syme, e parve raccogliersi
 per uno sforzo [[concepts/sublime|sublime]] prima di parlare.
@@ -7696,7 +7696,7 @@ reietto da Dio, rimbecillito, dannato [[archetypes/fool|idiota]]!» disse tutto 
 «E perché diavolo mai» ruggì l'altro, «dovrei voler
 partire col treno?»
 
-«Sappiamo tutto» disse severamente [[The Professor|il Professore]]. «Sta andando a [[settings/paris|Parigi]]
+«Sappiamo tutto» disse severamente il Professore. «Sta andando a [[settings/paris|Parigi]]
 a lanciare una bomba!»
 
 «Vado a Gerico a lanciare un Ciciarampa!» gridò l'altro, strappandosi i capelli,
@@ -7706,7 +7706,7 @@ che vennero via con facilità.
 chi sono? Credevate davvero che volessi prendere quel treno?
 Venti treni per [[settings/paris|Parigi]] possono passare, per quel che me ne importa. Al diavolo i treni per [[settings/paris|Parigi]]!»
 
-«E allora a che cosa teneva?» cominciò [[The Professor|il Professore]].
+«E allora a che cosa teneva?» cominciò il Professore.
 
 «A che cosa tenevo? Non mi importava di prendere il treno;
 mi importava se il treno prendeva me, e ora, per Dio! mi
@@ -7724,7 +7724,7 @@ voler dire qualcosa.»
 «Vuol dire tutto» disse l'altro, «e la fine di tutto.
 [[characters/sunday|Sunday]] ora ci tiene nel cavo della sua mano.»
 
-«Ci?» ripeté [[The Professor|il Professore]], come stupefatto. «Che cosa intende con "ci"?»
+«Ci?» ripeté il Professore, come stupefatto. «Che cosa intende con "ci"?»
 
 «La polizia, naturalmente!» disse il Marchese, e si strappò via il cuoio capelluto
 e metà della faccia.
@@ -7763,7 +7763,7 @@ You have not wasted your [[motifs/time|time]]; you have helped to save the world
 We are not buffoons, but very desperate men at war with a vast conspiracy.
 A secret society of anarchists is hunting us like hares; not such
 unfortunate madmen as may here or there throw a bomb through starvation
-or German [[philosophy]], but a rich and powerful and fanatical church, a church
+or German philosophy, but a rich and powerful and fanatical church, a church
 of eastern pessimism, which holds it holy to destroy mankind like vermin.
 How hard they hunt us you can gather from the fact that we are driven
 to such disguises as those for which I apologise, and to such pranks
@@ -7821,7 +7821,7 @@ ready to rise for him.  But there were just five people, perhaps,
 who would have resisted him... and the old devil put them on
 the Supreme Council, to waste their [[motifs/time|time]] in watching each other.
 Idiots that we are, he planned the whole of our idiocies!
-[[characters/sunday|Sunday]] knew that [[The Professor|the Professor]] would chase Syme through [[settings/london|London]],
+[[characters/sunday|Sunday]] knew that the Professor would chase Syme through [[settings/london|London]],
 and that Syme would fight me in France.  And he was combining
 great masses of capital, and seizing great lines of telegraphy,
 while we five idiots were running after each other like a lot
@@ -7853,7 +7853,7 @@ highly decorative spectacles."
 He handed the field-glasses to the Doctor, who immediately took
 off his spectacles and put the apparatus to his eyes.
 
-"It cannot be as bad as you say," said [[The Professor|the Professor]], somewhat shaken.
+"It cannot be as bad as you say," said the Professor, somewhat shaken.
 "There are a good number of them certainly, but they may easily
 be ordinary tourists."
 
@@ -7875,13 +7875,13 @@ smiled on one side.
 
 «Sono l'ispettore Ratcliffe», disse, con una specie di fretta che rasentava la durezza. «Il mio nome è piuttosto [[motifs/well|noto]] alla polizia, e vedo abbastanza [[motifs/well|bene]] che voi siete dei loro. Ma se vi resta qualche [[concepts/doubt|dubbio]] sulla mia posizione, ho un tesserino», e cominciò a estrarre dalla tasca un cartoncino azzurro.
 
-[[The Professor|Il Professore]] fece un gesto stanco.
+Il Professore fece un gesto stanco.
 
 «Oh, non ce lo mostri», disse spossato; «ne abbiamo raccolti abbastanza da attrezzare una caccia al tesoro.»
 
 L'omino di nome Bull, come molti uomini che paiono di una semplice, vivace volgarità, aveva improvvisi scatti di buon gusto. Qui salvò senza dubbio la situazione. Nel bel mezzo di quella sconvolgente scena a trasformazione, si fece avanti con tutta la gravità e la responsabilità di un padrino, e si rivolse ai due padrini del Marchese.
 
-«Signori», disse, «vi dobbiamo tutti sincere scuse; ma vi assicuro che non siete stati vittime di uno scherzo tanto meschino quanto immaginate, né in verità di alcunché di indegno per un uomo d'[[concepts/honour|onore]]. Non avete sprecato il vostro [[motifs/time|tempo]]; avete contribuito a salvare il mondo. Non siamo dei buffoni, ma uomini disperati in guerra con una vasta cospirazione. Una società segreta di anarchici ci dà la caccia come a lepri; non gli sventurati folli che qua e là scagliano una bomba per fame o per [[philosophy|filosofia]] tedesca, ma una chiesa ricca, potente e fanatica, una chiesa di pessimismo orientale, che ritiene cosa santa distruggere l'umanità come vermi. Con quale accanimento ci cacciano potete arguirlo dal fatto che siamo ridotti a travestimenti come quelli di cui mi scuso, e a burle come questa di cui voi patite.»
+«Signori», disse, «vi dobbiamo tutti sincere scuse; ma vi assicuro che non siete stati vittime di uno scherzo tanto meschino quanto immaginate, né in verità di alcunché di indegno per un uomo d'[[concepts/honour|onore]]. Non avete sprecato il vostro [[motifs/time|tempo]]; avete contribuito a salvare il mondo. Non siamo dei buffoni, ma uomini disperati in guerra con una vasta cospirazione. Una società segreta di anarchici ci dà la caccia come a lepri; non gli sventurati folli che qua e là scagliano una bomba per fame o per filosofia tedesca, ma una chiesa ricca, potente e fanatica, una chiesa di pessimismo orientale, che ritiene cosa santa distruggere l'umanità come vermi. Con quale accanimento ci cacciano potete arguirlo dal fatto che siamo ridotti a travestimenti come quelli di cui mi scuso, e a burle come questa di cui voi patite.»
 
 Il più giovane dei padrini del Marchese, un uomo basso con baffi neri, si inchinò cortesemente e disse:
 
@@ -7905,7 +7905,7 @@ Il dottor Bull si tolse il cappello e lo agitò, esultando come a un pubblico co
 
 «Quel che dite pare del tutto insensato», cominciò Syme. «Anzi, a dire il vero... Ma, Dio mio», esclamò d'un tratto, come un uomo che scorge un'esplosione in lontananza, «per Dio! se questo è vero, tutta quanta la nostra brava compagnia del Consiglio Anarchico era contro l'anarchia! Ogni uomo nato da madre era un [[archetypes/detective|poliziotto]], tranne il Presidente e il suo segretario personale. Che cosa può significare?»
 
-«Significare!» disse il nuovo poliziotto con incredibile violenza. «Significa che siamo spacciati! Non lo conoscete [[characters/sunday|Sunday]]? Non sapete che i suoi scherzi sono sempre così grandi e semplici che a nessuno viene mai in mente di sospettarli? Riuscite a immaginare qualcosa di più tipico di [[characters/sunday|Sunday]] di questo: che mettesse tutti i suoi nemici più potenti nel Consiglio Supremo, e poi provvedesse a che non fosse affatto supremo? Vi dico che ha comprato ogni consorzio, si è impadronito di ogni cavo telegrafico, ha il controllo di ogni linea ferroviaria... e soprattutto di quella linea ferroviaria!» e puntò un dito tremante verso la piccola stazione sperduta lungo la strada. «L'intero movimento era controllato da lui; mezzo mondo era pronto a sollevarsi per lui. Ma c'erano appena cinque persone, forse, che gli avrebbero resistito... e il vecchio demonio le mise nel Consiglio Supremo, a sprecare il loro [[motifs/time|tempo]] a sorvegliarsi a vicenda. Idioti che siamo, ha ordito lui l'intera trama delle nostre idiozie! [[characters/sunday|Sunday]] sapeva che [[The Professor|il Professore]] avrebbe inseguito Syme per [[settings/london|Londra]], e che Syme avrebbe combattuto con me in Francia. E intanto radunava grandi masse di capitale, e s'impadroniva di grandi linee telegrafiche, mentre noi cinque idioti ci rincorrevamo l'un l'altro come tanti bambocci sciagurati che giocano a mosca cieca.»
+«Significare!» disse il nuovo poliziotto con incredibile violenza. «Significa che siamo spacciati! Non lo conoscete [[characters/sunday|Sunday]]? Non sapete che i suoi scherzi sono sempre così grandi e semplici che a nessuno viene mai in mente di sospettarli? Riuscite a immaginare qualcosa di più tipico di [[characters/sunday|Sunday]] di questo: che mettesse tutti i suoi nemici più potenti nel Consiglio Supremo, e poi provvedesse a che non fosse affatto supremo? Vi dico che ha comprato ogni consorzio, si è impadronito di ogni cavo telegrafico, ha il controllo di ogni linea ferroviaria... e soprattutto di quella linea ferroviaria!» e puntò un dito tremante verso la piccola stazione sperduta lungo la strada. «L'intero movimento era controllato da lui; mezzo mondo era pronto a sollevarsi per lui. Ma c'erano appena cinque persone, forse, che gli avrebbero resistito... e il vecchio demonio le mise nel Consiglio Supremo, a sprecare il loro [[motifs/time|tempo]] a sorvegliarsi a vicenda. Idioti che siamo, ha ordito lui l'intera trama delle nostre idiozie! [[characters/sunday|Sunday]] sapeva che il Professore avrebbe inseguito Syme per [[settings/london|Londra]], e che Syme avrebbe combattuto con me in Francia. E intanto radunava grandi masse di capitale, e s'impadroniva di grandi linee telegrafiche, mentre noi cinque idioti ci rincorrevamo l'un l'altro come tanti bambocci sciagurati che giocano a mosca cieca.»
 
 «[[motifs/well|E dunque]]?» chiese Syme con una specie di fermezza.
 
@@ -7917,7 +7917,7 @@ Syme lanciò un grido involontario, e tutti volsero gli occhi verso la stazione 
 
 Porse il binocolo al Dottore, che si tolse subito gli occhiali e si portò l'apparecchio agli occhi.
 
-«Non può essere grave come dite», disse [[The Professor|il Professore]], alquanto scosso. «Certo sono in buon numero, ma potrebbero benissimo essere comuni turisti.»
+«Non può essere grave come dite», disse il Professore, alquanto scosso. «Certo sono in buon numero, ma potrebbero benissimo essere comuni turisti.»
 
 «I comuni turisti», chiese Bull, col binocolo agli occhi, «portano maschere nere che coprono mezza faccia?»
 
@@ -8039,7 +8039,7 @@ were the question.  You've got that eternal idiotic idea that
 if anarchy came it would come from the poor.  Why should it?
 The poor have been rebels, but they have never been anarchists;
 they have more interest than anyone else in there being some
-decent [[government]].  The poor man really has a stake in the country.
+decent government.  The poor man really has a stake in the country.
 The rich man hasn't; he can go away to New Guinea in a yacht.
 The poor have sometimes objected to being governed badly;
 the rich have always objected to being governed at all.
@@ -8160,7 +8160,7 @@ il punto della questione. Avete quell'eterna idea idiota secondo cui,
 se venisse l'anarchia, verrebbe dai poveri. E perché mai?
 I poveri sono stati ribelli, ma non sono mai stati anarchici;
 hanno più interesse di chiunque altro a che esista un
-[[government|governo]] decente. Il povero ha davvero una posta in gioco nel paese.
+governo decente. Il povero ha davvero una posta in gioco nel paese.
 Il ricco no; può andarsene in Nuova Guinea su uno yacht.
 I poveri hanno talvolta obiettato di essere governati male;
 i ricchi hanno sempre obiettato di essere governati, punto e basta.
@@ -8190,7 +8190,7 @@ healthy person anywhere."
 
 "[[motifs/well|Well]]," said the other, "it rather depends what sort of person you mean."
 
-"[[motifs/well|Well]], for instance," said Syme, "he could never [[convert]] that person,"
+"[[motifs/well|Well]], for instance," said Syme, "he could never convert that person,"
 and he pointed straight in front of him.
 
 They had come to an open space of sunlight, which seemed
@@ -8221,7 +8221,7 @@ But I forgot that in your country you are not used to peasants being wealthy."
 "Quite so," said the Colonel; "that is why he is rich."
 
 "I have an idea," called out Dr. Bull suddenly; "how much would
-he take to give us a lift in his cart?  Those [[dogs]] are all on foot,
+he take to give us a lift in his cart?  Those dogs are all on foot,
 and we could soon leave them behind."
 
 "Oh, give him anything!" said Syme eagerly.  "I have piles
@@ -8316,7 +8316,7 @@ di convertire una qualsiasi persona ordinaria e sana, in qualunque luogo».
 
 «[[motifs/well|Beh]]» disse l'altro, «dipende piuttosto dal genere di persona che intende».
 
-«[[motifs/well|Beh]], per esempio» disse Syme, «costui non potrebbe mai [[convert|convertirlo]]»,
+«[[motifs/well|Beh]], per esempio» disse Syme, «costui non potrebbe mai convertirlo»,
 e puntò il dito dritto davanti a sé.
 
 Erano giunti a uno spiazzo di luce solare, che parve esprimere a Syme
@@ -8347,7 +8347,7 @@ Ma dimenticavo che nel vostro paese non siete abituati a contadini benestanti».
 «Appunto» disse il colonnello: «per questo è ricco».
 
 «Ho un'idea» esclamò all'improvviso il dottor Bull: «quanto vorrebbe
-per darci un passaggio sul suo carro? Quei [[dogs|segugi]] vanno tutti a piedi,
+per darci un passaggio sul suo carro? Quei segugi vanno tutti a piedi,
 e potremmo presto seminarli».
 
 «Oh, dategli quel che chiede!» disse Syme con ardore. «Ho mucchi
@@ -8439,7 +8439,7 @@ of a type that may often be found in France, but is still commoner
 in Catholic [[settings/germany|Germany]].  Everything about him, his pipe, his pot of beer,
 his [[motifs/flowers|flowers]], and his beehive, suggested an ancestral peace;
 only when his visitors looked up as they entered the inn-parlour,
-they saw the [[Sword|sword]] upon the wall.
+they saw the sword upon the wall.
 
 The Colonel, who greeted the innkeeper as an old friend, passed rapidly
 into the inn-parlour, and sat down ordering some ritual refreshment.
@@ -8513,7 +8513,7 @@ He was still looking at this dwindling figure, which stood as a mere grey
 blot touched with a white flame against the great green wall of the steep
 down behind him.  And as he stared over the top of the down behind
 the innkeeper, there appeared an army of black-clad and marching men.
-They seemed to hang above the good man and his [[house]] like a black cloud
+They seemed to hang above the good man and his house like a black cloud
 of locusts.  The horses had been saddled none too soon.
 
 
@@ -8521,7 +8521,7 @@ of locusts.  The horses had been saddled none too soon.
 
 Il [[motifs/horse|cavallo]] e il carro svoltarono di scatto attorno a un ciuffo di olmi, e il muso del [[motifs/horse|cavallo]] per poco non andò a sbattere contro il volto di un vecchio signore seduto sulle panche davanti al piccolo caffè «Le Soleil d'Or». Il contadino borbottò una scusa e scese dal suo posto. Anche gli altri discesero a uno a uno, e rivolsero al vecchio signore frasi frammentarie di cortesia, poiché era del tutto evidente, dai suoi modi espansivi, che egli era il proprietario della piccola taverna.
 
-Era un vecchietto dai capelli bianchi e dal viso di mela, con occhi assonnati e i baffi grigi; corpulento, sedentario e assai [[archetypes/innocent|innocente]], di quel tipo che spesso s'incontra in Francia, ma che è ancora più comune nella [[settings/germany|Germania]] cattolica. Ogni cosa in lui, la sua pipa, il suo boccale di birra, i suoi [[motifs/flowers|fiori]] e il suo alveare, evocava una pace ancestrale; soltanto quando i visitatori alzarono lo sguardo entrando nella saletta della locanda, scorsero la [[Sword|spada]] appesa alla parete.
+Era un vecchietto dai capelli bianchi e dal viso di mela, con occhi assonnati e i baffi grigi; corpulento, sedentario e assai [[archetypes/innocent|innocente]], di quel tipo che spesso s'incontra in Francia, ma che è ancora più comune nella [[settings/germany|Germania]] cattolica. Ogni cosa in lui, la sua pipa, il suo boccale di birra, i suoi [[motifs/flowers|fiori]] e il suo alveare, evocava una pace ancestrale; soltanto quando i visitatori alzarono lo sguardo entrando nella saletta della locanda, scorsero la spada appesa alla parete.
 
 Il colonnello, che salutò il locandiere come un vecchio amico, passò rapidamente nella saletta e si sedette ordinando un qualche rituale ristoro. La decisione militare del suo gesto incuriosì Syme, che gli sedeva accanto, ed egli colse l'occasione, quando il vecchio locandiere fu uscito, per soddisfare la propria curiosità.
 
@@ -8557,7 +8557,7 @@ Su consiglio di Ducroix, gli altri cinque si munirono di qualche forma trasporta
 
 In quel [[motifs/time|momento]] il sole pomeridiano declinava verso occidente, e ai suoi raggi Syme poteva vedere la robusta figura del vecchio locandiere farsi sempre più piccola, ma ancora in piedi e a guardarli in silenzio, con il sole tra i capelli d'argento. Syme aveva una fantasia fissa e superstiziosa, lasciatagli nella mente dalla frase casuale del colonnello, che quello fosse davvero, forse, l'ultimo onesto sconosciuto che gli sarebbe mai capitato di vedere sulla terra.
 
-Stava ancora guardando quella figura che si rimpiccioliva, ferma come una semplice macchia grigia toccata da una fiamma bianca contro la grande parete verde della ripida collina alle sue spalle. E mentre fissava, oltre la sommità della collina dietro il locandiere, apparve un esercito di uomini vestiti di nero, in marcia. Sembravano incombere sopra il buon uomo e la sua [[house|casa]] come una nera nube di locuste. I cavalli erano stati sellati appena in tempo.
+Stava ancora guardando quella figura che si rimpiccioliva, ferma come una semplice macchia grigia toccata da una fiamma bianca contro la grande parete verde della ripida collina alle sue spalle. E mentre fissava, oltre la sommità della collina dietro il locandiere, apparve un esercito di uomini vestiti di nero, in marcia. Sembravano incombere sopra il buon uomo e la sua casa come una nera nube di locuste. I cavalli erano stati sellati appena in tempo.
 
 
 
@@ -8583,11 +8583,11 @@ I suppose the proportion is pretty equal all over the world.
 The fifth is a friend of mine, and a very fine fellow; and what is even
 more important from our point of view, he owns a motor-car."
 
-"I am afraid," said [[The Professor|the Professor]] in his mirthful way, looking back along
+"I am afraid," said the Professor in his mirthful way, looking back along
 the white [[motifs/road|road]] on which the black, crawling patch might appear at any moment,
 "I am afraid we have hardly [[motifs/time|time]] for afternoon calls."
 
-"Doctor Renard's [[house]] is only three minutes off," said the Colonel.
+"Doctor Renard's house is only three minutes off," said the Colonel.
 
 "Our danger," said Dr. Bull, "is not two minutes off."
 
@@ -8635,7 +8635,7 @@ and went down the street with such thundering [[characters/speed|speed]], that t
 though already [[motifs/well|well]] at the gallop, had difficulty in following the flying
 tail of his [[motifs/horse|horse]].
 
-Dr. Renard inhabited a high and comfortable [[house]] at the top of a
+Dr. Renard inhabited a high and comfortable house at the top of a
 steep street, so that when the riders alighted at his door they could
 once more see the solid green ridge of the [[motifs/hill|hill]], with the white
 [[motifs/road|road]] across it, standing up above all the roofs of the town.
@@ -8678,7 +8678,7 @@ tastes of the French middle class, and when his impatient
 friends came to examine them, it took them some [[motifs/time|time]] to assure
 themselves that one of them even could be made to work.
 This with some difficulty they brought round into the street
-before the Doctor's [[house]].  When they came out of the dim
+before the Doctor's house.  When they came out of the dim
 garage they were startled to find that twilight had already
 fallen with the abruptness of [[motifs/night|night]] in the tropics.
 Either they had been longer in the place than they imagined,
@@ -8699,9 +8699,9 @@ SPINGENDO i cavalli al galoppo, senza riguardo alla discesa piuttosto scoscesa d
 
 «Quattro dei cinque uomini ricchi di questa città», disse, «sono volgari truffatori. Suppongo che la proporzione sia press'a poco identica in tutto il mondo. Il quinto è un mio amico, ed è una gran brava persona; e ciò che dal nostro punto di vista è ancor più importante, possiede un'automobile».
 
-«Temo», disse [[The Professor|il Professore]] a modo suo, ridanciano, volgendo lo sguardo indietro lungo la bianca [[motifs/road|strada]] sulla quale la nera chiazza strisciante poteva comparire da un momento all'altro, «temo che abbiamo a malapena il [[motifs/time|tempo]] per le visite pomeridiane».
+«Temo», disse il Professore a modo suo, ridanciano, volgendo lo sguardo indietro lungo la bianca [[motifs/road|strada]] sulla quale la nera chiazza strisciante poteva comparire da un momento all'altro, «temo che abbiamo a malapena il [[motifs/time|tempo]] per le visite pomeridiane».
 
-«La [[house|casa]] del dottor Renard è a soli tre minuti», disse il Colonnello.
+«La casa del dottor Renard è a soli tre minuti», disse il Colonnello.
 
 «Il nostro pericolo», disse il dottor Bull, «non è a due minuti».
 
@@ -8735,7 +8735,7 @@ Il Colonnello tacque un poco, poi disse con voce tesa:
 
 Con queste parole fece voltare di colpo il suo [[motifs/horse|cavallo]] a una cantonata, e s'inoltrò per la via con una tale tonante [[characters/speed|velocità]], che gli altri, benché già [[motifs/well|ben]] lanciati al galoppo, faticavano a seguire la coda al vento del suo [[motifs/horse|cavallo]].
 
-Il dottor Renard abitava una [[house|casa]] alta e comoda in cima a una via ripida, cosicché quando i cavalieri smontarono alla sua porta poterono di nuovo scorgere la solida cresta verde della [[motifs/hill|collina]], con la bianca [[motifs/road|strada]] che la attraversava, stagliarsi al di sopra di tutti i tetti della città. Respirarono di nuovo nel vedere che la [[motifs/road|strada]] era ancora sgombra, e suonarono il campanello.
+Il dottor Renard abitava una casa alta e comoda in cima a una via ripida, cosicché quando i cavalieri smontarono alla sua porta poterono di nuovo scorgere la solida cresta verde della [[motifs/hill|collina]], con la bianca [[motifs/road|strada]] che la attraversava, stagliarsi al di sopra di tutti i tetti della città. Respirarono di nuovo nel vedere che la [[motifs/road|strada]] era ancora sgombra, e suonarono il campanello.
 
 Il dottor Renard era un uomo raggiante, dalla barba bruna, un buon esempio di quella classe professionale silenziosa ma indaffaratissima che la Francia ha conservato ancor più perfettamente dell'Inghilterra. Quando gli fu spiegata la faccenda, sbeffeggiò del tutto il panico dell'ex Marchese; disse, con la solida scetticità francese, che non v'era alcuna probabilità concepibile di una sollevazione anarchica generale. «L'anarchia», disse, scrollando le spalle, «è una fanciullaggine!»
 
@@ -8745,7 +8745,7 @@ Si voltarono tutti a guardare, e videro una curva di nera cavalleria dilagare sc
 
 «Ho il sospetto che siate tutti pazzi», disse il dottor Renard, sorridendo affabilmente; «ma Dio non voglia che la [[concepts/madness|follia]] interrompa in alcun modo l'[[concepts/friendship|amicizia]]. Andiamo verso il garage».
 
-Il dottor Renard era un uomo mite dotato di una ricchezza mostruosa; le sue stanze erano come il Musée de Cluny, ed egli possedeva tre automobili. Queste, tuttavia, sembrava usarle molto con parsimonia, avendo i gusti semplici della borghesia francese, e quando i suoi impazienti amici vennero a esaminarle, ci volle un po' di [[motifs/time|tempo]] perché si accertassero che anche solo una di esse potesse essere messa in moto. Questa, con qualche difficoltà, la portarono nella strada davanti alla [[house|casa]] del Dottore. Quando uscirono dall'oscuro garage, si sbigottirono nel trovare che il crepuscolo era già calato con la bruschezza della [[motifs/night|notte]] nei tropici. O erano rimasti nel luogo più a lungo di quanto immaginassero, o qualche insolito baldacchino di nuvole si era radunato sopra la città. Guardarono giù per le ripide strade, e parve loro di vedere una leggera foschia salire dal mare.
+Il dottor Renard era un uomo mite dotato di una ricchezza mostruosa; le sue stanze erano come il Musée de Cluny, ed egli possedeva tre automobili. Queste, tuttavia, sembrava usarle molto con parsimonia, avendo i gusti semplici della borghesia francese, e quando i suoi impazienti amici vennero a esaminarle, ci volle un po' di [[motifs/time|tempo]] perché si accertassero che anche solo una di esse potesse essere messa in moto. Questa, con qualche difficoltà, la portarono nella strada davanti alla casa del Dottore. Quando uscirono dall'oscuro garage, si sbigottirono nel trovare che il crepuscolo era già calato con la bruschezza della [[motifs/night|notte]] nei tropici. O erano rimasti nel luogo più a lungo di quanto immaginassero, o qualche insolito baldacchino di nuvole si era radunato sopra la città. Guardarono giù per le ripide strade, e parve loro di vedere una leggera foschia salire dal mare.
 
 «O ora o mai più», disse il dottor Bull. «Sento dei cavalli».
 
@@ -8754,7 +8754,7 @@ Il dottor Renard era un uomo mite dotato di una ricchezza mostruosa; le sue stan
 <span class="atom-split" data-atom="chapter_12--part_02" data-title="The Man Who Was Thursday — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/detective,motif/chains,motif/cross,motif/horse,motif/road,motif/storm,motif/time,motif/wheel,form/allegory"></span>
 
 
-"No," corrected [[The Professor|the Professor]], "a [[motifs/horse|horse]]."
+"No," corrected the Professor, "a [[motifs/horse|horse]]."
 
 And as they listened, it was evident that the noise, rapidly coming
 nearer on the rattling stones, was not the noise of the whole
@@ -8788,7 +8788,7 @@ As the car took the corner of the street with a splendid curve,
 they could just see the other anarchists filling the street
 and raising their fallen leader.
 
-"I can't understand why it has grown so dark," said [[The Professor|the Professor]]
+"I can't understand why it has grown so dark," said the Professor
 at last in a low voice.
 
 "Going to be a [[motifs/storm|storm]], I think," said Dr. Bull.  "I say, it's a pity
@@ -8800,16 +8800,16 @@ It was obviously an antique, and it would seem as if its original use
 had been in some way semi-religious, for there was a rude moulding
 of a [[motifs/cross|cross]] upon one of its sides.
 
-"Where on earth did you get that?" asked [[The Professor|the Professor]].
+"Where on earth did you get that?" asked the Professor.
 
 "I got it where I got the car," answered the Colonel, chuckling,
 "from my best friend.  While our friend here was fighting with
-the steering [[motifs/wheel|wheel]], I ran up the front steps of the [[house]] and spoke
+the steering [[motifs/wheel|wheel]], I ran up the front steps of the house and spoke
 to Renard, who was standing in his own porch, you will remember.
 'I suppose,' I said, 'there's no [[motifs/time|time]] to get a lamp.'  He looked up,
 blinking amiably at the beautiful arched ceiling of his own front hall.
 From this was suspended, by [[motifs/chains|chains]] of exquisite ironwork,
-this lantern, one of the hundred treasures of his treasure [[house]].
+this lantern, one of the hundred treasures of his treasure house.
 By sheer force he tore the lamp out of his own ceiling, shattering the
 painted panels, and bringing down two blue vases with his violence.
 Then he handed me the iron lantern, and I put it in the car.
@@ -8844,7 +8844,7 @@ and fought these fellows, the whole town would fight for us."
 "No," said the other with an immovable simplicity, "the whole
 town would fight for them.  We shall see."
 
-While they were speaking [[The Professor|the Professor]] had leant forward
+While they were speaking the Professor had leant forward
 with sudden excitement.
 
 "What is that noise?" he said.
@@ -8852,12 +8852,12 @@ with sudden excitement.
 "Oh, the horses behind us, I suppose," said the Colonel.  "I thought we
 had got clear of them."
 
-"The horses behind us!  No," said [[The Professor|the Professor]], "it is not horses,
+"The horses behind us!  No," said the Professor, "it is not horses,
 and it is not behind us."
 
 Almost as he spoke, across the end of the street before them two shining
 and rattling shapes shot past.  They were gone almost in a flash,
-but everyone could see that they were motor-cars, and [[The Professor|the Professor]] stood
+but everyone could see that they were motor-cars, and the Professor stood
 up with a pale face and swore that they were the other two motor-cars
 from Dr. Renard's garage.
 
@@ -8889,7 +8889,7 @@ smoke behind it, and Syme had heard a shot shriek past his ear.
 
 <span class="qlang-split" data-lang="it"></span>
 
-«No», corresse [[The Professor|il Professore]], «un [[motifs/horse|cavallo]]».
+«No», corresse il Professore, «un [[motifs/horse|cavallo]]».
 
 E mentre stavano in ascolto, fu evidente che il rumore, avvicinandosi rapidamente sulle pietre sonanti, non era il rumore dell'intera cavalcata, bensì quello di un solo cavaliere, che l'aveva lasciata assai indietro: il folle Segretario.
 
@@ -8901,15 +8901,15 @@ Mentre parlava, sbucò all'angolo un uomo rigido sul suo [[motifs/horse|cavallo]
 
 Syme si appoggiava con tutto il peso sul [[motifs/wheel|volante]], e non si udiva altro suono che il rombo degli altri inseguitori che entravano cavalcando in città. Poi, tutto d'un tratto, si levò uno stridore di ferro raschiato, e l'automobile balzò in avanti. Strappò il Segretario di netto dalla sella, come un coltello viene sfilato di scatto dal fodero, se lo trascinò dietro per venti metri mentre quello scalciava spaventosamente, e infine lo lasciò disteso bocconi sulla [[motifs/road|strada]], assai innanzi al suo [[motifs/horse|cavallo]] atterrito. Mentre l'automobile prendeva l'angolo della via con una splendida curva, poterono appena scorgere gli altri anarchici che riempivano la strada e rialzavano il loro capo caduto.
 
-«Non riesco a capire perché si sia fatto così buio», disse infine [[The Professor|il Professore]] a bassa voce.
+«Non riesco a capire perché si sia fatto così buio», disse infine il Professore a bassa voce.
 
 «Sta per venire una [[motifs/storm|tempesta]], credo», disse il dottor Bull. «Dico, è un peccato non avere un lume su questa macchina, non foss'altro che per vederci».
 
 «Ce l'abbiamo», disse il Colonnello, e dal fondo dell'automobile ripescò una pesante lanterna di ferro, all'antica, tutta intagliata, con dentro una luce. Era evidentemente un pezzo antico, e pareva che il suo uso originario fosse stato in qualche modo semireligioso, poiché su uno dei suoi lati vi era un rozzo rilievo a foggia di [[motifs/cross|croce]].
 
-«Dove diavolo l'avete presa?», chiese [[The Professor|il Professore]].
+«Dove diavolo l'avete presa?», chiese il Professore.
 
-«L'ho presa là dove ho preso la macchina», rispose il Colonnello ridacchiando, «dal mio migliore amico. Mentre il nostro amico qui presente si azzuffava con il [[motifs/wheel|volante]], io ho fatto di corsa i gradini della [[house|casa]] e ho parlato con Renard, che se ne stava sotto il proprio portico, ricorderete. "Suppongo", gli ho detto, "che non ci sia [[motifs/time|tempo]] di procurarsi una lampada". Egli alzò lo sguardo, ammiccando bonariamente al bel soffitto ad arco del proprio ingresso. Da esso pendeva, sospesa a [[motifs/chains|catene]] di squisita lavorazione in ferro, questa lanterna, uno dei cento tesori della sua [[house|casa]]-tesoro. A pura forza strappò la lampada dal proprio soffitto, mandando in frantumi i pannelli dipinti e facendo cadere, nella foga, due vasi azzurri. Poi mi porse la lanterna di ferro, e io la misi nella macchina. Non avevo forse ragione quando dicevo che il dottor Renard valeva la pena di conoscerlo?»
+«L'ho presa là dove ho preso la macchina», rispose il Colonnello ridacchiando, «dal mio migliore amico. Mentre il nostro amico qui presente si azzuffava con il [[motifs/wheel|volante]], io ho fatto di corsa i gradini della casa e ho parlato con Renard, che se ne stava sotto il proprio portico, ricorderete. "Suppongo", gli ho detto, "che non ci sia [[motifs/time|tempo]] di procurarsi una lampada". Egli alzò lo sguardo, ammiccando bonariamente al bel soffitto ad arco del proprio ingresso. Da esso pendeva, sospesa a [[motifs/chains|catene]] di squisita lavorazione in ferro, questa lanterna, uno dei cento tesori della sua casa-tesoro. A pura forza strappò la lampada dal proprio soffitto, mandando in frantumi i pannelli dipinti e facendo cadere, nella foga, due vasi azzurri. Poi mi porse la lanterna di ferro, e io la misi nella macchina. Non avevo forse ragione quando dicevo che il dottor Renard valeva la pena di conoscerlo?»
 
 «L'avevate», disse Syme con gravità, e appese la pesante lanterna sul davanti. Vi era una certa [[forms/allegory|allegoria]] della loro intera condizione nel contrasto tra la moderna automobile e la sua strana lampada ecclesiastica. Fin lì avevano attraversato la parte più tranquilla della città, incontrando tutt'al più uno o due passanti, che nulla potevano dir loro sulla pace o sull'ostilità del luogo. Ora, tuttavia, le finestre delle case cominciavano a illuminarsi a una a una, dando un senso più forte di dimora e di umanità. Il dottor Bull si volse al nuovo [[archetypes/detective|investigatore]] che aveva guidato la loro fuga, e si concesse uno dei suoi sorrisi naturali e cordiali.
 
@@ -8925,15 +8925,15 @@ Allora tutto il ribollente buon senso e l'ottimismo di Bull proruppero d'un trat
 
 «No», disse l'altro con imperturbabile semplicità, «l'intera città combatterebbe per loro. Vedremo».
 
-Mentre parlavano, [[The Professor|il Professore]] si era sporto in avanti con improvvisa concitazione.
+Mentre parlavano, il Professore si era sporto in avanti con improvvisa concitazione.
 
 «Che cos'è quel rumore?», disse.
 
 «Oh, i cavalli dietro di noi, suppongo», disse il Colonnello. «Credevo che ce ne fossimo liberati».
 
-«I cavalli dietro di noi! No», disse [[The Professor|il Professore]], «non sono cavalli, e non è dietro di noi».
+«I cavalli dietro di noi! No», disse il Professore, «non sono cavalli, e non è dietro di noi».
 
-Quasi nell'atto stesso di parlare, in fondo alla strada davanti a loro guizzarono due forme lucenti e sferraglianti. Sparirono quasi in un lampo, ma tutti poterono vedere che si trattava di automobili, e [[The Professor|il Professore]] si alzò in piedi con il volto pallido e giurò che erano le altre due automobili del garage del dottor Renard.
+Quasi nell'atto stesso di parlare, in fondo alla strada davanti a loro guizzarono due forme lucenti e sferraglianti. Sparirono quasi in un lampo, ma tutti poterono vedere che si trattava di automobili, e il Professore si alzò in piedi con il volto pallido e giurò che erano le altre due automobili del garage del dottor Renard.
 
 «Vi dico che erano le sue», ripeté, con occhi stralunati, «ed erano piene di uomini mascherati!»
 
@@ -9015,7 +9015,7 @@ by Dr. Bull breaking into a high crow of laughter.
 That crowd's as law-abiding as a cow, and if it weren't, it's
 on our side."
 
-"How do you know?" asked [[The Professor|the professor]], staring.
+"How do you know?" asked the professor, staring.
 
 "You blind bat," cried Bull, "don't you see who is leading them?"
 
@@ -9032,7 +9032,7 @@ in his left hand.
 "What a [[archetypes/fool|fool]] I've been!" exclaimed the Colonel.  "Of course,
 the dear old boy has turned out to help us."
 
-Dr. Bull was bubbling over with laughter, swinging the [[Sword|sword]]
+Dr. Bull was bubbling over with laughter, swinging the sword
 in his hand as carelessly as a cane.  He jumped out of the car
 and ran across the intervening space, calling out--
 
@@ -9061,14 +9061,14 @@ But if you want to know what I don't think, I'll tell you.
 I don't think what you think.  I don't think, and I never shall think,
 that the mass of ordinary men are a pack of dirty modern thinkers.
 No, sir, I'm a democrat, and I still don't believe that [[characters/sunday|Sunday]] could
-[[convert]] one average navvy or counter-jumper. No, I may be mad,
+convert one average navvy or counter-jumper. No, I may be mad,
 but humanity isn't."
 
 Syme turned his bright blue eyes on Bull with an earnestness which he did
 not commonly make clear.
 
-"You are a very fine fellow," he said.  "You can believe in a [[Sanity|sanity]]
-which is not merely your [[Sanity|sanity]].  And you're right enough about humanity,
+"You are a very fine fellow," he said.  "You can believe in a sanity
+which is not merely your sanity.  And you're right enough about humanity,
 about peasants and people like that jolly old innkeeper.
 But you're not right about Renard.  I suspected him from the first.
 He's rationalistic, and, what's worse, he's rich.  When duty
@@ -9120,7 +9120,7 @@ L'automobile avanzò lentamente per un centinaio di metri, e poi trasalirono tut
 
 «Ma che sciocconi!» esclamò. «Che cosa vi avevo detto? Quella folla è pacifica come una mucca, e se anche non lo fosse, è dalla nostra parte.»
 
-«E tu come lo sai?» chiese [[The Professor|il professore]], guardando fisso.
+«E tu come lo sai?» chiese il professore, guardando fisso.
 
 «Pipistrello cieco», gridò Bull, «non vedi chi li guida?»
 
@@ -9132,7 +9132,7 @@ C'era, in effetti, una fila di figure indistinte che sbarrava la [[motifs/road|s
 
 «Che [[archetypes/fool|sciocco]] sono stato!» esclamò il colonnello. «Ma certo, il caro vecchio amico è venuto in nostro aiuto.»
 
-Il dottor Bull traboccava di risa, facendo oscillare la [[Sword|spada]] in mano con la noncuranza d'un bastone da passeggio. Balzò giù dall'automobile e corse attraverso lo spazio che li separava, gridando:
+Il dottor Bull traboccava di risa, facendo oscillare la spada in mano con la noncuranza d'un bastone da passeggio. Balzò giù dall'automobile e corse attraverso lo spazio che li separava, gridando:
 
 «Dottor Renard! Dottor Renard!»
 
@@ -9142,11 +9142,11 @@ Quasi nello stesso secondo in cui lo sbuffo di nube bianca si levava da quell'at
 
 «[[motifs/well|Ebbene]]», disse il fumatore di sigaretta lentamente, «che cosa ne pensi adesso?»
 
-«Penso», disse il dottor Bull con precisione, «di essere disteso nel mio letto al numero 217 di Peabody Buildings, e che presto mi sveglierò di soprassalto; oppure, se non è così, penso di essere seduto in una cella imbottita di Hanwell, e che il medico non riesce a raccapezzarsi sul mio caso. Ma se volete sapere che cosa non penso, ve lo dirò. Non penso quello che pensate voi. Non penso, e non lo penserò mai, che la massa degli uomini comuni sia una masnada di sudici pensatori moderni. No, signore, io sono un democratico, e continuo a non credere che [[characters/sunday|Sunday]] possa [[convert|convertire]] anche un solo sterratore o commesso qualunque. No, sarò anche pazzo io, ma l'umanità non lo è.»
+«Penso», disse il dottor Bull con precisione, «di essere disteso nel mio letto al numero 217 di Peabody Buildings, e che presto mi sveglierò di soprassalto; oppure, se non è così, penso di essere seduto in una cella imbottita di Hanwell, e che il medico non riesce a raccapezzarsi sul mio caso. Ma se volete sapere che cosa non penso, ve lo dirò. Non penso quello che pensate voi. Non penso, e non lo penserò mai, che la massa degli uomini comuni sia una masnada di sudici pensatori moderni. No, signore, io sono un democratico, e continuo a non credere che [[characters/sunday|Sunday]] possa convertire anche un solo sterratore o commesso qualunque. No, sarò anche pazzo io, ma l'umanità non lo è.»
 
 Syme fissò su Bull i suoi vividi occhi azzurri con un'intensità che non era solito lasciar trasparire.
 
-«Sei davvero un bell'uomo», disse. «Sai credere in una [[Sanity|sanità di mente]] che non è soltanto la tua [[Sanity|sanità di mente]]. E hai perfettamente ragione riguardo all'umanità, riguardo ai contadini e a gente come quel simpatico vecchio locandiere. Ma non hai ragione riguardo a Renard. L'ho sospettato fin dal principio. È un razionalista, e, quel che è peggio, è ricco. Quando il dovere e la religione saranno davvero distrutti, sarà per opera dei ricchi.»
+«Sei davvero un bell'uomo», disse. «Sai credere in una sanità di mente che non è soltanto la tua sanità di mente. E hai perfettamente ragione riguardo all'umanità, riguardo ai contadini e a gente come quel simpatico vecchio locandiere. Ma non hai ragione riguardo a Renard. L'ho sospettato fin dal principio. È un razionalista, e, quel che è peggio, è ricco. Quando il dovere e la religione saranno davvero distrutti, sarà per opera dei ricchi.»
 
 «Sono davvero distrutti già adesso», disse l'uomo con la sigaretta, e si [[motifs/rose|alzò]] con le mani in tasca. «I demoni avanzano!»
 
@@ -9185,7 +9185,7 @@ We may all be killed, but we must kill a tidy number of them."
 of his virtue.  "The poor chaps may be making a mistake.
 Give the Colonel a chance."
 
-"Shall we go back, then?" asked [[The Professor|the Professor]].
+"Shall we go back, then?" asked the Professor.
 
 "No," said Ratcliffe in a cold voice, "the street behind us is held too.
 In fact, I seem to see there another friend of yours, Syme."
@@ -9193,13 +9193,13 @@ In fact, I seem to see there another friend of yours, Syme."
 Syme spun round smartly, and stared backwards at the track
 which they had travelled.  He saw an irregular [[concepts/body|body]] of
 horsemen gathering and galloping towards them in the gloom.
-He saw above the foremost saddle the silver gleam of a [[Sword|sword]],
+He saw above the foremost saddle the silver gleam of a sword,
 and then as it grew nearer the silver gleam of an old man's hair.
 The next moment, with shattering violence, he had swung the motor
 round and sent it dashing down the steep side street to the sea,
 like a man that desired only to die.
 
-"What the devil is up?" cried [[The Professor|the Professor]], seizing his arm.
+"What the devil is up?" cried the Professor, seizing his arm.
 
 "The morning star has fallen!" said Syme, as his own car went
 down the darkness like a falling star.
@@ -9207,14 +9207,14 @@ down the darkness like a falling star.
 The others did not understand his words, but when they looked back at
 the street above they saw the hostile cavalry coming round the corner
 and down the slopes after them; and foremost of all rode the good innkeeper,
-flushed with the fiery [[innocence]] of the evening light.
+flushed with the fiery innocence of the evening light.
 
-"The world is insane!" said [[The Professor|the Professor]], and buried his face
+"The world is insane!" said the Professor, and buried his face
 in his hands.
 
 "No," said Dr. Bull in adamantine [[concepts/humility|humility]], "it is I."
 
-"What are we going to do?" asked [[The Professor|the Professor]].
+"What are we going to do?" asked the Professor.
 
 "At this moment," said Syme, with a scientific detachment,
 "I think we are going to smash into a lamppost."
@@ -9225,7 +9225,7 @@ out from under a chaos of metal, and a tall lean lamp-post that
 had stood up straight on the edge of the marine parade stood out,
 bent and twisted, like the branch of a broken tree.
 
-"[[motifs/well|Well]], we smashed something," said [[The Professor|the Professor]], with a faint smile.
+"[[motifs/well|Well]], we smashed something," said the Professor, with a faint smile.
 "That's some comfort."
 
 "You're becoming an anarchist," said Syme, dusting his clothes
@@ -9235,7 +9235,7 @@ with his instinct of daintiness.
 
 As they spoke, the white-haired horseman and his followers came
 thundering from above, and almost at the same moment a dark string
-of men ran shouting along the sea-front. Syme snatched a [[Sword|sword]],
+of men ran shouting along the sea-front. Syme snatched a sword,
 and took it in his teeth; he stuck two others under his arm-pits,
 took a fourth in his left hand and the lantern in his right,
 and leapt off the high parade on to the beach below.
@@ -9278,7 +9278,7 @@ his axe at them.
 
 "The peasant!" cried Syme.  "They have not risen since the Middle Ages."
 
-"Even if the police do come now," said [[The Professor|the Professor]] mournfully,
+"Even if the police do come now," said the Professor mournfully,
 "they can do nothing with this mob."
 
 "Nonsense!" said Bull desperately; "there must be some people
@@ -9287,7 +9287,7 @@ left in the town who are human."
 "No," said the hopeless Inspector, "the human being will soon be extinct.
 We are the last of mankind."
 
-"It may be," said [[The Professor|the Professor]] absently.  Then he added in his dreamy voice,
+"It may be," said the Professor absently.  Then he added in his dreamy voice,
 "What is all that at the end of the 'Dunciad'?
 
 "'Nor public flame; nor private, dares to shine;
@@ -9324,7 +9324,7 @@ Potremo restarci tutti, ma dobbiamo abbatterne un bel numero.»
 della sua virtù. «I poveri diavoli potrebbero commettere un errore.
 Diamo una possibilità al Colonnello.»
 
-«Torniamo indietro, allora?» chiese [[The Professor|il Professore]].
+«Torniamo indietro, allora?» chiese il Professore.
 
 «No», disse Ratcliffe con voce gelida, «anche la strada dietro di noi è occupata.
 Anzi, mi pare di scorgere laggiù un altro vostro amico, Syme.»
@@ -9332,13 +9332,13 @@ Anzi, mi pare di scorgere laggiù un altro vostro amico, Syme.»
 Syme si voltò di scatto e guardò indietro, verso il tratto
 che avevano percorso. Vide un [[concepts/body|drappello]] disordinato di
 cavalieri che si raccoglieva e galoppava verso di loro nell'oscurità.
-Vide sopra la sella più avanzata il bagliore argenteo di una [[Sword|spada]],
+Vide sopra la sella più avanzata il bagliore argenteo di una spada,
 e poi, man mano che si avvicinava, il bagliore argenteo dei capelli di un vecchio.
 Un istante dopo, con violenza fragorosa, aveva sterzato l'automobile
 e l'aveva lanciata giù per la ripida stradina laterale verso il mare,
 come un uomo che non desiderasse altro che morire.
 
-«Che diavolo succede?» gridò [[The Professor|il Professore]], afferrandogli il braccio.
+«Che diavolo succede?» gridò il Professore, afferrandogli il braccio.
 
 «La stella del mattino è caduta!» disse Syme, mentre la propria auto scendeva
 nelle tenebre come una stella cadente.
@@ -9346,14 +9346,14 @@ nelle tenebre come una stella cadente.
 Gli altri non compresero le sue parole, ma quando volsero lo sguardo alla
 strada là sopra videro la cavalleria nemica sbucare dall'angolo
 e scendere lungo i pendii al loro inseguimento; e primo fra tutti cavalcava il buon locandiere,
-avvampato dall'ardente [[innocence|innocenza]] della luce serale.
+avvampato dall'ardente innocenza della luce serale.
 
-«Il mondo è impazzito!» disse [[The Professor|il Professore]], e affondò il viso
+«Il mondo è impazzito!» disse il Professore, e affondò il viso
 tra le mani.
 
 «No», disse il dottor Bull in adamantina [[concepts/humility|umiltà]], «sono io.»
 
-«Che cosa faremo?» chiese [[The Professor|il Professore]].
+«Che cosa faremo?» chiese il Professore.
 
 «In questo momento», disse Syme, con distacco scientifico,
 «credo che stiamo per schiantarci contro un lampione.»
@@ -9364,7 +9364,7 @@ fuori da un caos di metallo, e un alto e sottile lampione che
 si era ergiuto ritto sull'orlo della passeggiata a mare spiccava,
 piegato e contorto, come il ramo di un albero spezzato.
 
-«[[motifs/well|Be']], qualcosa l'abbiamo sfasciato», disse [[The Professor|il Professore]], con un pallido sorriso.
+«[[motifs/well|Be']], qualcosa l'abbiamo sfasciato», disse il Professore, con un pallido sorriso.
 «È già una consolazione.»
 
 «Stai diventando un anarchico», disse Syme, spazzolandosi i vestiti
@@ -9374,7 +9374,7 @@ con il suo istinto di raffinatezza.
 
 Mentre parlavano, il cavaliere dai capelli bianchi e i suoi seguaci giunsero
 tuonando dall'alto, e quasi nello stesso istante una scura fila
-di uomini corse urlando lungo il fronte del mare. Syme afferrò una [[Sword|spada]],
+di uomini corse urlando lungo il fronte del mare. Syme afferrò una spada,
 e la strinse fra i denti; se ne cacciò altre due sotto le ascelle,
 prese una quarta nella mano sinistra e la lanterna nella destra,
 e balzò giù dall'alta passeggiata sulla spiaggia sottostante.
@@ -9417,7 +9417,7 @@ la scure contro di loro.
 
 «Il contadino!» gridò Syme. «Non si sollevavano dai tempi del Medioevo.»
 
-«Anche se la polizia arrivasse adesso», disse [[The Professor|il Professore]] con voce afflitta,
+«Anche se la polizia arrivasse adesso», disse il Professore con voce afflitta,
 «non potrebbe far nulla contro questa folla.»
 
 «Sciocchezze!» disse Bull disperatamente; «ci devono essere delle persone
@@ -9426,7 +9426,7 @@ rimaste in città che sono umane.»
 «No», disse l'Ispettore senza speranza, «l'essere umano sarà presto estinto.
 Noi siamo gli ultimi del genere umano.»
 
-«Può darsi», disse [[The Professor|il Professore]] distrattamente. Poi aggiunse con la sua voce sognante:
+«Può darsi», disse il Professore distrattamente. Poi aggiunse con la sua voce sognante:
 «Come fa quel passo alla fine della "Dunciad"?
 
 «"Non fiamma pubblica; né privata, osa splendere;
@@ -9458,7 +9458,7 @@ and jingle of a disciplined cavalry.
 As he spoke there came a long crackle of musketry, and bullets seemed
 to hop like hailstones on the stones in front of them.
 
-"The gendarmes have joined them!" cried [[The Professor|the Professor]],
+"The gendarmes have joined them!" cried the Professor,
 and struck his forehead.
 
 "I am in the padded cell," said Bull solidly.
@@ -9489,7 +9489,7 @@ But [[characters/sunday|Sunday]] must have killed him by now."
 "Perhaps," said the other steadily; "but if so, he was the only man
 whom [[characters/sunday|Sunday]] found it hard to kill."
 
-"I heard what you said," said [[The Professor|the Professor]], with his back turned.
+"I heard what you said," said the Professor, with his back turned.
 "I also am holding hard on to the thing I never saw."
 
 All of a sudden Syme, who was standing as if blind with introspective thought,
@@ -9499,7 +9499,7 @@ swung round and cried out, like a man waking from [[motifs/sleep|sleep]]--
 
 "The Colonel!  Yes," cried Bull, "where on earth is the Colonel?"
 
-"He went to speak to Renard," said [[The Professor|the Professor]].
+"He went to speak to Renard," said the Professor.
 
 "We cannot leave him among all those beasts," cried Syme.  "Let us
 die like gentlemen if--"
@@ -9523,17 +9523,17 @@ tuft of beard wriggled round and round like a restless,
 living thing.  The other was the red face and white moustache
 of Colonel Ducroix.  They were in earnest consultation.
 
-"Yes, he is gone too," said [[The Professor|the Professor]], and sat down on a stone.
+"Yes, he is gone too," said the Professor, and sat down on a stone.
 "Everything's gone.  I'm gone!  I can't trust my own bodily machinery.
 I feel as if my own hand might fly up and strike me."
 
 "When my hand flies up," said Syme, "it will strike somebody else,"
-and he strode along the pier towards the Colonel, the [[Sword|sword]] in one hand
+and he strode along the pier towards the Colonel, the sword in one hand
 and the lantern in the other.
 
 As if to destroy the last [[concepts/hope|hope]] or [[concepts/doubt|doubt]], the Colonel, who saw
 him coming, pointed his revolver at him and fired.  The shot
-missed Syme, but struck his [[Sword|sword]], breaking it short at the hilt.
+missed Syme, but struck his sword, breaking it short at the hilt.
 Syme rushed on, and swung the iron lantern above his head.
 
 "Judas before Herod!" he said, and struck the Colonel down upon the stones.
@@ -9546,7 +9546,7 @@ the [[motifs/cross|cross]] carved on it, and the flame inside?  You did not make
 You did not light it.  Better men than you, men who could believe
 and obey, twisted the entrails of iron and preserved the legend of [[motifs/fire|fire]].
 There is not a street you walk on, there is not a thread you wear,
-that was not made as this lantern was, by denying your [[philosophy]]
+that was not made as this lantern was, by denying your philosophy
 of dirt and rats.  You can make nothing.  You can only destroy.
 You will destroy mankind; you will destroy the world.  Let that
 suffice you.  Yet this one old Christian lantern you shall not destroy.
@@ -9558,9 +9558,9 @@ and then, whirling it twice round his head, sent it flying far out to sea,
 where it flared like a roaring rocket and fell.
 
 "Swords!" shouted Syme, turning his flaming face to the three behind him.
-"Let us charge these [[dogs]], for our [[motifs/time|time]] has come to die."
+"Let us charge these dogs, for our [[motifs/time|time]] has come to die."
 
-His three companions came after him [[Sword|sword]] in hand.  Syme's [[Sword|sword]] was broken,
+His three companions came after him sword in hand.  Syme's sword was broken,
 but he rent a bludgeon from the fist of a fisherman, flinging him down.
 In a moment they would have flung themselves upon the face of the mob
 and perished, when an interruption came.  The Secretary, ever since
@@ -9578,14 +9578,14 @@ your position.  I arrest you in the name of the law."
 "Certainly!" said the Secretary.  "I am a [[archetypes/detective|detective]] from Scotland Yard,"
 and he took a small blue card from his pocket.
 
-"And what do you suppose we are?" asked [[The Professor|the Professor]], and threw
+"And what do you suppose we are?" asked the Professor, and threw
 up his arms.
 
 "You," said the Secretary stiffly, "are, as I know for a fact,
 members of the Supreme Anarchist Council.  Disguised as one
 of you, I--"
 
-Dr. Bull tossed his [[Sword|sword]] into the sea.
+Dr. Bull tossed his sword into the sea.
 
 "There never was any Supreme Anarchist Council," he said.
 "We were all a lot of silly policemen looking at each other.
@@ -9613,7 +9613,7 @@ Le luci basse della stazione di polizia erano infatti offuscate e spezzate da fi
 
 Mentre parlava vi fu un lungo crepitìo di moschetteria, e le pallottole parvero rimbalzare come chicchi di grandine sulle pietre davanti a loro.
 
-«I gendarmi si sono uniti a loro!» gridò [[The Professor|il Professore]], e si percosse la fronte.
+«I gendarmi si sono uniti a loro!» gridò il Professore, e si percosse la fronte.
 
 «Io mi trovo nella cella imbottita» disse Bull, con solidità.
 
@@ -9637,7 +9637,7 @@ Il signor Ratcliffe serbò un [[motifs/silence|silenzio]] di pietra; poi finalme
 
 «Forse» disse l'altro con fermezza; «ma se così è, egli era l'unico uomo che [[characters/sunday|Sunday]] trovò difficile uccidere».
 
-«Ho udito ciò che hai detto» disse [[The Professor|il Professore]], con le spalle rivolte. «Anch'io mi tengo saldamente aggrappato alla cosa che non ho mai visto».
+«Ho udito ciò che hai detto» disse il Professore, con le spalle rivolte. «Anch'io mi tengo saldamente aggrappato alla cosa che non ho mai visto».
 
 D'un tratto Syme, che se ne stava come cieco d'introspettiva meditazione, si volse di scatto e gridò, come un uomo che si desta dal [[motifs/sleep|sonno]]:
 
@@ -9645,7 +9645,7 @@ D'un tratto Syme, che se ne stava come cieco d'introspettiva meditazione, si vol
 
 «Il Colonnello! Già» gridò Bull, «dove diavolo è finito il Colonnello?»
 
-«È andato a parlare con Renard» disse [[The Professor|il Professore]].
+«È andato a parlare con Renard» disse il Professore.
 
 «Non possiamo lasciarlo in mezzo a tutte quelle bestie» gridò Syme. «Moriamo da gentiluomini, se...»
 
@@ -9657,21 +9657,21 @@ D'un tratto Syme, che se ne stava come cieco d'introspettiva meditazione, si vol
 
 Molti dei loro inseguitori erano entrati nell'[[motifs/water|acqua]] scuotendo i pugni, ma il mare era grosso, ed essi non riuscivano a raggiungere il pontile. Due o tre figure, tuttavia, stavano all'imbocco della passerella di pietra, e parevano avanzarvi con cautela. Il bagliore di una lanterna casuale illuminò i volti dei due che stavano davanti. Uno di essi portava una mezza maschera nera, e sotto di essa la bocca si torceva in una tale [[concepts/madness|follia]] di nervi che il nero ciuffo di barba si contorceva e si riavvolgeva come una cosa inquieta e viva. L'altro era il volto rosso e i baffi bianchi del colonnello Ducroix. Erano in seria consultazione.
 
-«Sì, se n'è andato anche lui» disse [[The Professor|il Professore]], e sedette su una pietra. «Tutto se n'è andato. Me ne sono andato anch'io! Non posso fidarmi del mio stesso meccanismo corporeo. Sento come se la mia stessa mano potesse levarsi di scatto e colpirmi».
+«Sì, se n'è andato anche lui» disse il Professore, e sedette su una pietra. «Tutto se n'è andato. Me ne sono andato anch'io! Non posso fidarmi del mio stesso meccanismo corporeo. Sento come se la mia stessa mano potesse levarsi di scatto e colpirmi».
 
-«Quando la mia mano si leverà di scatto» disse Syme, «colpirà qualcun altro»; e s'incamminò a grandi passi lungo il pontile verso il Colonnello, la [[Sword|spada]] in una mano e la lanterna nell'altra.
+«Quando la mia mano si leverà di scatto» disse Syme, «colpirà qualcun altro»; e s'incamminò a grandi passi lungo il pontile verso il Colonnello, la spada in una mano e la lanterna nell'altra.
 
-Come per distruggere l'ultima [[concepts/hope|speranza]] o l'ultimo [[concepts/doubt|dubbio]], il Colonnello, che lo vide venire, gli puntò contro la rivoltella e fece fuoco. Il colpo mancò Syme, ma colpì la sua [[Sword|spada]], spezzandola di netto all'impugnatura. Syme si slanciò avanti, e brandì la lanterna di ferro sopra il capo.
+Come per distruggere l'ultima [[concepts/hope|speranza]] o l'ultimo [[concepts/doubt|dubbio]], il Colonnello, che lo vide venire, gli puntò contro la rivoltella e fece fuoco. Il colpo mancò Syme, ma colpì la sua spada, spezzandola di netto all'impugnatura. Syme si slanciò avanti, e brandì la lanterna di ferro sopra il capo.
 
 «Giuda dinanzi a Erode!» disse, e abbatté il Colonnello sulle pietre. Poi si volse verso il Segretario, la cui bocca spaventosa quasi schiumava ormai, e tenne alta la lampada con gesto tanto rigido e imperioso che l'uomo restò, per così dire, agghiacciato per un istante, e costretto ad ascoltare.
 
-«Vedi questa lanterna?» gridò Syme con voce terribile. «Vedi la [[motifs/cross|croce]] intagliata su di essa, e la fiamma dentro? Non l'hai fatta tu. Non l'hai accesa tu. Uomini migliori di te, uomini capaci di credere e di obbedire, hanno attorcigliato le viscere del ferro e conservato la leggenda del [[motifs/fire|fuoco]]. Non c'è una strada su cui tu cammini, non c'è un filo che tu indossi, che non sia stato fatto come fu fatta questa lanterna, negando la tua [[philosophy|filosofia]] di sporcizia e di topi. Tu non puoi creare nulla. Puoi soltanto distruggere. Distruggerai l'umanità; distruggerai il mondo. Che questo ti basti. Eppure questa sola, vecchia lanterna cristiana non la distruggerai. Andrà dove il tuo impero di scimmie non avrà mai l'ingegno di trovarla».
+«Vedi questa lanterna?» gridò Syme con voce terribile. «Vedi la [[motifs/cross|croce]] intagliata su di essa, e la fiamma dentro? Non l'hai fatta tu. Non l'hai accesa tu. Uomini migliori di te, uomini capaci di credere e di obbedire, hanno attorcigliato le viscere del ferro e conservato la leggenda del [[motifs/fire|fuoco]]. Non c'è una strada su cui tu cammini, non c'è un filo che tu indossi, che non sia stato fatto come fu fatta questa lanterna, negando la tua filosofia di sporcizia e di topi. Tu non puoi creare nulla. Puoi soltanto distruggere. Distruggerai l'umanità; distruggerai il mondo. Che questo ti basti. Eppure questa sola, vecchia lanterna cristiana non la distruggerai. Andrà dove il tuo impero di scimmie non avrà mai l'ingegno di trovarla».
 
 Colpì il Segretario una volta con la lanterna, sì che quello barcollò; e poi, facendola roteare due volte sopra il capo, la scagliò lontano in mare, dove avvampò come un razzo ruggente e cadde.
 
-«Alle spade!» gridò Syme, volgendo il volto fiammeggiante ai tre che gli stavano dietro. «Carichiamo questi [[dogs|cani]], ché è giunto il nostro [[motifs/time|tempo]] di morire».
+«Alle spade!» gridò Syme, volgendo il volto fiammeggiante ai tre che gli stavano dietro. «Carichiamo questi cani, ché è giunto il nostro [[motifs/time|tempo]] di morire».
 
-I suoi tre compagni gli vennero dietro con la [[Sword|spada]] in pugno. La [[Sword|spada]] di Syme era spezzata, ma egli strappò un randello dal pugno di un pescatore, gettandolo a terra. In un istante si sarebbero avventati contro la faccia della folla e sarebbero periti, quando sopraggiunse un'interruzione. Il Segretario, fin dal discorso di Syme, era rimasto con la mano alla testa colpita come stordito; ora d'un tratto si strappò la maschera nera.
+I suoi tre compagni gli vennero dietro con la spada in pugno. La spada di Syme era spezzata, ma egli strappò un randello dal pugno di un pescatore, gettandolo a terra. In un istante si sarebbero avventati contro la faccia della folla e sarebbero periti, quando sopraggiunse un'interruzione. Il Segretario, fin dal discorso di Syme, era rimasto con la mano alla testa colpita come stordito; ora d'un tratto si strappò la maschera nera.
 
 Il volto pallido, così scoperto alla luce della lampada, rivelava non tanto rabbia quanto stupore. Alzò la mano con ansiosa autorità.
 
@@ -9681,11 +9681,11 @@ Il volto pallido, così scoperto alla luce della lampada, rivelava non tanto rab
 
 «Certamente!» disse il Segretario. «Sono un [[archetypes/detective|investigatore]] di Scotland Yard»; e trasse di tasca una piccola tessera azzurra.
 
-«E che cosa suppone che siamo noi?» chiese [[The Professor|il Professore]], e gettò le braccia in alto.
+«E che cosa suppone che siamo noi?» chiese il Professore, e gettò le braccia in alto.
 
 «Voi» disse il Segretario con rigidità, «siete, come so per certo, membri del Supremo Consiglio Anarchico. Travestito da uno di voi, io...»
 
-Il dottor Bull scagliò la sua [[Sword|spada]] in mare.
+Il dottor Bull scagliò la sua spada in mare.
 
 «Non è mai esistito alcun Supremo Consiglio Anarchico» disse. «Eravamo tutti quanti un branco di sciocchi poliziotti che si guardavano l'un l'altro. E tutta questa brava gente che ci ha crivellati di colpi credeva che fossimo noi i dinamitardi. Sapevo di non potermi sbagliare sulla folla» disse, raggiante, contemplando l'enorme moltitudine che si stendeva in lontananza da entrambi i lati. «La gente volgare non è mai pazza. Io stesso sono volgare, e lo so. Adesso vado a terra a offrire da bere a tutti quanti».
 
@@ -9730,13 +9730,13 @@ for to-morrow we have our next general meeting.  You will excuse me,"
 he said, with a rather ghastly smile, "for being [[motifs/well|well]] acquainted
 with my secretarial duties."
 
-"I suppose you are right," said [[The Professor|the Professor]] reflectively.
+"I suppose you are right," said the Professor reflectively.
 "I suppose we might find it out from him; but I confess that I
 should feel a bit afraid of asking [[characters/sunday|Sunday]] who he really is."
 
 "Why," asked the Secretary, "for [[concepts/fear|fear]] of bombs?"
 
-"No," said [[The Professor|the Professor]], "for [[concepts/fear|fear]] he might tell me."
+"No," said the Professor, "for [[concepts/fear|fear]] he might tell me."
 
 "Let us have some drinks," said Dr. Bull, after a [[motifs/silence|silence]].
 
@@ -9790,7 +9790,7 @@ it is six men going to ask one man what they mean."
 They turned in [[motifs/silence|silence]] into the Square, and though
 the hotel was in the opposite corner, they saw at once
 the little balcony and a figure that looked too big for it.
-He was sitting [[Alone|alone]] with bent head, poring over a newspaper.
+He was sitting alone with bent head, poring over a newspaper.
 But all his councillors, who had come to vote him down,
 crossed that Square as if they were watched out of heaven
 by a hundred eyes.
@@ -9876,13 +9876,13 @@ presto, perché domani abbiamo la nostra prossima riunione generale.
 Mi scuserete» disse, con un sorriso piuttosto spettrale, «se sono
 [[motifs/well|ben]] pratico dei miei doveri di segretario.»
 
-«Immagino abbiate ragione» disse [[The Professor|il Professore]]
+«Immagino abbiate ragione» disse il Professore
 riflettendo. «Immagino che potremmo scoprirlo da lui; ma confesso che
 proverei un certo timore a chiedere a [[characters/sunday|Sunday]] chi sia davvero.»
 
 «Perché?» chiese il Segretario, «per [[concepts/fear|paura]] delle bombe?»
 
-«No» disse [[The Professor|il Professore]], «per [[concepts/fear|paura]] che me
+«No» disse il Professore, «per [[concepts/fear|paura]] che me
 lo dica.»
 
 «Beviamo qualcosa» disse il dottor Bull, dopo un [[motifs/silence|silenzio]].
@@ -9936,7 +9936,7 @@ uomini che vanno a chiedere a un uomo che cosa vogliono dire loro.»
 
 Svoltarono in [[motifs/silence|silenzio]] nella Piazza, e benché l’albergo
 fosse nell’angolo opposto, videro subito il piccolo balcone e una
-figura che pareva troppo grande per esso. Sedeva [[Alone|solo]] a capo
+figura che pareva troppo grande per esso. Sedeva solo a capo
 chino, immerso in un giornale. Ma tutti i suoi consiglieri, che erano
 venuti a metterlo in minoranza col voto, attraversarono quella Piazza
 come se fossero spiati dal cielo da cento occhi.
@@ -10036,16 +10036,16 @@ the light of his last assertion; but when he disappeared into the cab,
 Syme's practical senses returned to him, and leaping over the balcony
 so recklessly as almost to break his legs, he called another cab.
 
-He and Bull sprang into the cab together, [[The Professor|the Professor]] and
+He and Bull sprang into the cab together, the Professor and
 the Inspector into another, while the Secretary and the late Gogol
 scrambled into a third just in [[motifs/time|time]] to pursue the flying Syme,
 who was pursuing the flying President.  [[characters/sunday|Sunday]] led them a wild chase
-towards the north-west, his [[cabman]], evidently under the influence
+towards the north-west, his cabman, evidently under the influence
 of more than common inducements, urging the [[motifs/horse|horse]] at breakneck [[characters/speed|speed]].
 But Syme was in no mood for delicacies, and he stood up
 in his own cab shouting, "Stop thief!" until crowds ran along
 beside his cab, and policemen began to stop and ask questions.
-All this had its influence upon the President's [[cabman]],
+All this had its influence upon the President's cabman,
 who began to look dubious, and to slow down to a trot.
 He opened the trap to talk reasonably to his fare, and in so
 doing let the long whip droop over the front of the cab.
@@ -10085,7 +10085,7 @@ by the Archdeacon more than I. I trust it will not come
 to that.  But, for the last [[motifs/time|time]], where are your goloshes?
 The thing is too bad, especially after what uncle said."
 
-The President's [[cabman]] seemed to be regaining some control
+The President's cabman seemed to be regaining some control
 over his [[motifs/horse|horse]], and the pursuers gained a little as they swept
 round into the Edgware [[motifs/road|Road]].  And here there occurred what seemed
 to the allies a providential stoppage.  Traffic of every kind
@@ -10114,7 +10114,7 @@ Prima che uno solo di loro potesse muoversi, l'uomo mostruoso si era slanciato c
 
 Con ciò precipitò dal balcone, rimbalzando sulle pietre di sotto come una gran palla di caucciù, e si allontanò a balzi verso l'angolo dell'Alhambra, dove chiamò una carrozza da nolo e vi balzò dentro. I sei detective erano rimasti impietriti e lividi alla luce della sua ultima affermazione; ma quando egli scomparve nella carrozza, il senso pratico di Syme gli fece ritorno, e scavalcando il balcone con tanta temerarietà da rischiare di spezzarsi le gambe, chiamò a sua volta una carrozza.
 
-Lui e Bull vi balzarono dentro insieme, [[The Professor|il Professore]] e l'Ispettore in un'altra, mentre il Segretario e il fu Gogol si arrampicarono in una terza giusto in [[motifs/time|tempo]] per inseguire il volante Syme, che inseguiva il volante Presidente. [[characters/sunday|Sunday]] li trascinò in una caccia sfrenata verso nord-ovest, con il suo [[cabman|vetturino]] che, evidentemente sotto l'influsso di incentivi più che comuni, spronava il [[motifs/horse|cavallo]] a una [[characters/speed|velocità]] da rompicollo. Ma Syme non era in vena di delicatezze, e si levò in piedi nella propria carrozza gridando: «Al ladro!», finché la folla non prese a correre lungo i fianchi del veicolo e i poliziotti cominciarono a fermarsi e a fare domande. Tutto ciò ebbe la sua influenza sul [[cabman|vetturino]] del Presidente, che cominciò a mostrarsi dubbioso e a rallentare al piccolo trotto. Aprì la botola per parlare ragionevolmente al suo cliente, e nel far ciò lasciò penzolare la lunga frusta sul davanti della carrozza. [[characters/sunday|Sunday]] si sporse in avanti, la afferrò e gliela strappò con violenza di mano. Poi, levatosi egli stesso in piedi davanti alla carrozza, sferzò il [[motifs/horse|cavallo]] e ruggì a gran voce, sicché imboccarono le strade come una [[motifs/storm|tempesta]] in fuga. Di strada in strada e di piazza in piazza andava turbinando quel veicolo assurdo, in cui il cliente incitava il [[motifs/horse|cavallo]] e il conducente cercava disperatamente di fermarlo. Le altre tre carrozze venivano appresso (se la frase è consentita a proposito di una carrozza) come segugi ansimanti. Botteghe e strade schizzavano via come frecce sferraglianti.
+Lui e Bull vi balzarono dentro insieme, il Professore e l'Ispettore in un'altra, mentre il Segretario e il fu Gogol si arrampicarono in una terza giusto in [[motifs/time|tempo]] per inseguire il volante Syme, che inseguiva il volante Presidente. [[characters/sunday|Sunday]] li trascinò in una caccia sfrenata verso nord-ovest, con il suo vetturino che, evidentemente sotto l'influsso di incentivi più che comuni, spronava il [[motifs/horse|cavallo]] a una [[characters/speed|velocità]] da rompicollo. Ma Syme non era in vena di delicatezze, e si levò in piedi nella propria carrozza gridando: «Al ladro!», finché la folla non prese a correre lungo i fianchi del veicolo e i poliziotti cominciarono a fermarsi e a fare domande. Tutto ciò ebbe la sua influenza sul vetturino del Presidente, che cominciò a mostrarsi dubbioso e a rallentare al piccolo trotto. Aprì la botola per parlare ragionevolmente al suo cliente, e nel far ciò lasciò penzolare la lunga frusta sul davanti della carrozza. [[characters/sunday|Sunday]] si sporse in avanti, la afferrò e gliela strappò con violenza di mano. Poi, levatosi egli stesso in piedi davanti alla carrozza, sferzò il [[motifs/horse|cavallo]] e ruggì a gran voce, sicché imboccarono le strade come una [[motifs/storm|tempesta]] in fuga. Di strada in strada e di piazza in piazza andava turbinando quel veicolo assurdo, in cui il cliente incitava il [[motifs/horse|cavallo]] e il conducente cercava disperatamente di fermarlo. Le altre tre carrozze venivano appresso (se la frase è consentita a proposito di una carrozza) come segugi ansimanti. Botteghe e strade schizzavano via come frecce sferraglianti.
 
 Al culmine dell'estasi della [[characters/speed|velocità]], [[characters/sunday|Sunday]] si voltò sul predellino dove stava ritto, e cacciando fuori dalla carrozza il gran capo sogghignante, con i capelli bianchi che sibilavano al [[motifs/wind|vento]], fece una smorfia orribile ai suoi inseguitori, come un colossale monello. Poi, alzando svelto la mano destra, scagliò una palla di carta in faccia a Syme e scomparve. Syme afferrò l'oggetto mentre istintivamente lo parava, e scoprì che consisteva in due fogli spiegazzati. Uno era indirizzato a lui stesso, e l'altro al dottor Bull, con una lunghissima, e c'è da temere in parte ironica, sfilza di lettere dopo il nome. L'indirizzo del dottor Bull era, in ogni caso, considerevolmente più lungo della sua comunicazione, poiché la comunicazione consisteva interamente nelle parole:
 
@@ -10126,7 +10126,7 @@ Il messaggio di Syme era, in ogni caso, più lungo, e diceva così:
 
 «Nessuno rimpiangerebbe più di me alcunché che abbia la [[concepts/nature|natura]] di un'interferenza da parte dell'Arcidiacono. Confido che non si arrivi a tanto. Ma, per l'ultima [[motifs/time|volta]], dove sono le vostre galosce? La cosa è troppo grave, specie dopo quel che ha detto lo zio.»
 
-Il [[cabman|vetturino]] del Presidente pareva riconquistare un certo controllo sul suo [[motifs/horse|cavallo]], e gli inseguitori guadagnarono un poco mentre svoltavano nell'Edgware [[motifs/road|Road]]. E qui accadde quello che parve agli alleati un arresto provvidenziale. Il traffico di ogni sorta deviava a destra o a sinistra o si fermava, poiché lungo la lunga [[motifs/road|strada]] veniva l'inconfondibile fragore che annunciava la pompa da [[motifs/fire|incendio]], la quale in pochi secondi passò come un fulmine di bronzo. Ma per quanto rapido passasse, [[characters/sunday|Sunday]] era balzato fuori dalla sua carrozza, si era lanciato sulla pompa da [[motifs/fire|incendio]], la aveva agguantata, vi si era issato sopra, e fu visto, mentre spariva nella rumorosa lontananza, parlare con l'attonito pompiere accompagnandosi con gesti esplicativi.
+Il vetturino del Presidente pareva riconquistare un certo controllo sul suo [[motifs/horse|cavallo]], e gli inseguitori guadagnarono un poco mentre svoltavano nell'Edgware [[motifs/road|Road]]. E qui accadde quello che parve agli alleati un arresto provvidenziale. Il traffico di ogni sorta deviava a destra o a sinistra o si fermava, poiché lungo la lunga [[motifs/road|strada]] veniva l'inconfondibile fragore che annunciava la pompa da [[motifs/fire|incendio]], la quale in pochi secondi passò come un fulmine di bronzo. Ma per quanto rapido passasse, [[characters/sunday|Sunday]] era balzato fuori dalla sua carrozza, si era lanciato sulla pompa da [[motifs/fire|incendio]], la aveva agguantata, vi si era issato sopra, e fu visto, mentre spariva nella rumorosa lontananza, parlare con l'attonito pompiere accompagnandosi con gesti esplicativi.
 
 
 
@@ -10162,8 +10162,8 @@ and sprang also to the escalade.  When he had one leg over
 the fence and his friends were following, he turned a face
 on them which shone quite pale in the [[archetypes/shadow|shadow]].
 
-"What place can this be?" he asked.  "Can it be the old devil's [[house]]?
-I've heard he has a [[house]] in North [[settings/london|London]]."
+"What place can this be?" he asked.  "Can it be the old devil's house?
+I've heard he has a house in North [[settings/london|London]]."
 
 "All the better," said the Secretary grimly, planting a foot in a foothold,
 "we shall find him at [[motifs/home|home]]."
@@ -10172,7 +10172,7 @@ I've heard he has a [[house]] in North [[settings/london|London]]."
 "I hear the most horrible noises, like devils laughing and sneezing
 and blowing their devilish noses!"
 
-"His [[dogs]] barking, of course," said the Secretary.
+"His dogs barking, of course," said the Secretary.
 
 "Why not say his black-beetles barking!" said Syme furiously,
 "snails barking! geraniums barking!  Did you ever hear a dog
@@ -10182,7 +10182,7 @@ He held up his hand, and there came out of the thicket a long
 growling roar that seemed to get under the skin and freeze the flesh--
 a low thrilling roar that made a throbbing in the air all about them.
 
-"The [[dogs]] of [[characters/sunday|Sunday]] would be no ordinary [[dogs]]," said Gogol, and shuddered.
+"The dogs of [[characters/sunday|Sunday]] would be no ordinary dogs," said Gogol, and shuddered.
 
 Syme had jumped down on the other side, but he still
 stood listening impatiently.
@@ -10193,7 +10193,7 @@ There broke upon their ear a hoarse screaming as of things protesting
 and clamouring in sudden [[motifs/pain|pain]]; and then, far off like an echo,
 what sounded like a long nasal trumpet.
 
-"[[motifs/well|Well]], his [[house]] ought to be hell!" said the Secretary;
+"[[motifs/well|Well]], his house ought to be hell!" said the Secretary;
 "and if it is hell, I'm going in!" and he sprang over the tall
 railings almost with one swing.
 
@@ -10290,19 +10290,19 @@ L'[[motifs/fire|autopompa]] aveva piegato ancora più a nord, in una regione che
 
 Syme con un gesto furioso fermò la carrozza, saltò giù, e si slanciò anche lui alla scalata. Quando ebbe una gamba di là dallo steccato e i suoi amici lo seguivano, volse verso di loro un volto che risplendeva pallidissimo nell'[[archetypes/shadow|ombra]].
 
-«Che luogo può mai essere questo?» domandò. «Sarà la [[house|casa]] del vecchio diavolo? Ho sentito dire che possiede una [[house|casa]] nella [[settings/london|Londra]] settentrionale.»
+«Che luogo può mai essere questo?» domandò. «Sarà la casa del vecchio diavolo? Ho sentito dire che possiede una casa nella [[settings/london|Londra]] settentrionale.»
 
 «Tanto meglio,» disse il Segretario con aria arcigna, piantando un piede in un appiglio, «lo troveremo a [[motifs/home|casa]].»
 
 «No, ma non è questo,» disse Syme, aggrottando le sopracciglia. «Odo i più orribili rumori, come di diavoli che ridono e starnutiscono e si soffiano i loro diabolici nasi!»
 
-«I suoi [[dogs|cani]] che abbaiano, naturalmente,» disse il Segretario.
+«I suoi cani che abbaiano, naturalmente,» disse il Segretario.
 
 «E perché non dire i suoi scarafaggi neri che abbaiano!» disse Syme furibondo, «le lumache che abbaiano! i gerani che abbaiano! Avete mai udito un cane abbaiare a quel modo?»
 
 Levò la mano, e dal folto uscì un lungo ruggito ringhiante che pareva penetrar sotto la pelle e gelare la carne—un basso ruggito fremente che faceva pulsare l'aria tutt'intorno a loro.
 
-«I [[dogs|cani]] di [[characters/sunday|Sunday]] non sarebbero [[dogs|cani]] comuni,» disse Gogol, e rabbrividì.
+«I cani di [[characters/sunday|Sunday]] non sarebbero cani comuni,» disse Gogol, e rabbrividì.
 
 Syme era saltato giù dall'altra parte, ma stava ancora ad ascoltare con impazienza.
 
@@ -10310,7 +10310,7 @@ Syme era saltato giù dall'altra parte, ma stava ancora ad ascoltare con impazie
 
 Giunse al loro orecchio uno strillo rauco, come di cose che protestassero e schiamazzassero in un improvviso [[motifs/pain|dolore]]; e poi, lontano come un'eco, quel che sembrava una lunga tromba nasale.
 
-«[[motifs/well|Ebbene]], la sua [[house|casa]] dev'essere l'inferno!» disse il Segretario; «e se è l'inferno, ci vado dentro!» e scavalcò le alte cancellate quasi con un solo slancio.
+«[[motifs/well|Ebbene]], la sua casa dev'essere l'inferno!» disse il Segretario; «e se è l'inferno, ci vado dentro!» e scavalcò le alte cancellate quasi con un solo slancio.
 
 Gli altri lo seguirono. Sfondarono un groviglio di piante e di arbusti, e sbucarono su un sentiero aperto. Nulla era in vista, ma il dottor Bull d'un tratto batté le mani l'una contro l'altra.
 
@@ -10423,7 +10423,7 @@ The balloon, borne by some chance [[motifs/wind|wind]], came right above them,
 and they could see the great white head of the President peering
 over the side and looking benevolently down on them.
 
-"God bless my [[motifs/soul|soul]]!" said [[The Professor|the Professor]] with the elderly manner that
+"God bless my [[motifs/soul|soul]]!" said the Professor with the elderly manner that
 he could never disconnect from his bleached beard and parchment face.
 "God bless my [[motifs/soul|soul]]!  I seemed to fancy that something fell on the top
 of my hat!"
@@ -10482,7 +10482,7 @@ Volsero tutti lo sguardo là dove il pallone oscillava e si gonfiava sopra l'Esp
 
 Il pallone, sospinto da qualche vento [[motifs/wind|di ventura]], venne a trovarsi proprio sopra di loro, e poterono vedere la grande testa bianca del Presidente sporgersi oltre il bordo e guardare benevolmente giù verso di loro.
 
-«Che Dio benedica l'[[motifs/soul|anima]] mia!» disse [[The Professor|il Professore]] con quel fare senile che non riusciva mai a disgiungere dalla sua barba scolorita e dal suo volto di pergamena. «Che Dio benedica l'[[motifs/soul|anima]] mia! Mi è parso di sentire qualcosa cadermi sulla cima del cappello!»
+«Che Dio benedica l'[[motifs/soul|anima]] mia!» disse il Professore con quel fare senile che non riusciva mai a disgiungere dalla sua barba scolorita e dal suo volto di pergamena. «Che Dio benedica l'[[motifs/soul|anima]] mia! Mi è parso di sentire qualcosa cadermi sulla cima del cappello!»
 
 Alzò una mano tremante e prese da quel ripiano un pezzo di carta arrotolata, che aprì distrattamente solo per scoprirlo ornato di un vero nodo d'[[archetypes/lover|amore]] e delle parole:—
 
@@ -10521,7 +10521,7 @@ the full flush of sunset seemed coloured like a sunset cloud.
 
 "After all," he said, "it is very beautiful!"
 
-"It is singularly and strangely beautiful!" said [[The Professor|the Professor]].  "I wish
+"It is singularly and strangely beautiful!" said the Professor.  "I wish
 the beastly gas-bag would burst!"
 
 "No," said Dr. Bull, "I [[concepts/hope|hope]] it won't. It might hurt the old boy."
@@ -10613,7 +10613,7 @@ absent-minded. Sometimes his great bright eyes go quite blind.
 For hours he forgets that you are there.  Now absent-mindedness is just
 a bit too awful in a bad man.  We think of a wicked man as vigilant.
 We can't think of a wicked man who is honestly and sincerely dreamy,
-because we daren't think of a wicked man [[Alone|alone]] with himself.
+because we daren't think of a wicked man alone with himself.
 An absentminded man means a good-natured man.  It means a man who,
 if he happens to see you, will apologise.  But how will you bear
 an absentminded man who, if he happens to see you, will kill you?
@@ -10650,7 +10650,7 @@ pieno rossore del tramonto sembrava colorata come una nube al tramonto.
 
 «Dopotutto», disse, «è davvero bellissimo!»
 
-«È singolarmente e stranamente bello!» disse [[The Professor|il Professore]].  «Vorrei
+«È singolarmente e stranamente bello!» disse il Professore.  «Vorrei
 che quella maledetta sacca di gas scoppiasse!»
 
 «No», disse il dottor Bull, «io [[concepts/hope|spero]] di no. Potrebbe far male al vecchio.»
@@ -10742,7 +10742,7 @@ distratto. A volte i suoi grandi occhi luminosi diventano del tutto ciechi.
 Per ore si dimentica che tu sei lì.  Ora, la distrazione è appena
 un po' troppo tremenda in un uomo malvagio.  Noi pensiamo al malvagio come a un vigile.
 Non riusciamo a pensare a un malvagio che sia onestamente e sinceramente sognante,
-perché non osiamo pensare a un malvagio [[Alone|solo]] con se stesso.
+perché non osiamo pensare a un malvagio solo con se stesso.
 Un uomo distratto significa un uomo bonario.  Significa un uomo che,
 se per caso ti vede, si scuserà.  Ma come sopporterai
 un uomo distratto che, se per caso ti vede, ti ucciderà?
@@ -10847,7 +10847,7 @@ the same great, grey-clad shoulders that I had seen from behind.
 But when I saw him from behind I was certain he was an animal,
 and when I saw him in front I knew he was a god."
 
-"Pan," said [[The Professor|the Professor]] dreamily, "was a god and an animal."
+"Pan," said the Professor dreamily, "was a god and an animal."
 
 "Then, and again and always," went on Syme like a man talking
 to himself, "that has been for me the mystery of [[characters/sunday|Sunday]], and it
@@ -10894,11 +10894,11 @@ If we could only get round in front--"
 
 «[[motifs/well|Be'!]], questo è un punto di vista», disse Syme pensoso. «E lei, Professore, che cosa dice?»
 
-[[The Professor|Il Professore]] camminava a capo chino, trascinandosi dietro il bastone, e non rispose affatto.
+Il Professore camminava a capo chino, trascinandosi dietro il bastone, e non rispose affatto.
 
 «Si svegli, Professore!» disse Syme in tono affabile. «Ci dica che cosa pensa di [[characters/sunday|Domenica]].»
 
-[[The Professor|Il Professore]] parlò infine, lentissimo.
+Il Professore parlò infine, lentissimo.
 
 «Penso una cosa», disse, «che non so dire con chiarezza. O, meglio, penso una cosa che non riesco nemmeno a pensare con chiarezza. Ma è più o meno così. La mia prima giovinezza, come sapete, fu un po' troppo ampia e sregolata.
 
@@ -10910,7 +10910,7 @@ Si fermò un istante, sempre trascinando il bastone, e poi riprese…
 
 Gli occhi di Syme erano ancora fissi sull'astro errante che, arrossato dalla luce della sera, pareva un mondo più roseo e più [[archetypes/innocent|innocente]].
 
-«Avete notato una cosa curiosa», disse, «in tutte le vostre descrizioni? Ciascuno di voi trova [[characters/sunday|Domenica]] del tutto diverso, eppure ciascuno di voi non sa trovare che una sola cosa a cui paragonarlo: l'universo stesso. Bull lo trova simile alla terra in [[motifs/spring|primavera]], Gogol al sole di mezzogiorno. Il Segretario è portato a pensare al protoplasma informe, e l'Ispettore all'incuria delle foreste vergini. [[The Professor|Il Professore]] dice che è come un paesaggio mutevole. È strano, ma è ancora più strano che anch'io abbia avuto la mia bizzarra idea sul Presidente, e che anch'io mi accorga di pensare a [[characters/sunday|Domenica]] come penso al mondo intero.»
+«Avete notato una cosa curiosa», disse, «in tutte le vostre descrizioni? Ciascuno di voi trova [[characters/sunday|Domenica]] del tutto diverso, eppure ciascuno di voi non sa trovare che una sola cosa a cui paragonarlo: l'universo stesso. Bull lo trova simile alla terra in [[motifs/spring|primavera]], Gogol al sole di mezzogiorno. Il Segretario è portato a pensare al protoplasma informe, e l'Ispettore all'incuria delle foreste vergini. Il Professore dice che è come un paesaggio mutevole. È strano, ma è ancora più strano che anch'io abbia avuto la mia bizzarra idea sul Presidente, e che anch'io mi accorga di pensare a [[characters/sunday|Domenica]] come penso al mondo intero.»
 
 «Vieni al sodo un po' più in fretta, Syme», disse Bull; «lascia perdere il pallone aerostatico.»
 
@@ -10924,7 +10924,7 @@ Gli occhi di Syme erano ancora fissi sull'astro errante che, arrossato dalla luc
 
 «Era come il volto di qualche antico arcangelo che giudica con giustizia dopo guerre eroiche. C'era il riso negli occhi, e nella bocca l'[[concepts/honour|onore]] e il dolore. C'erano gli stessi capelli bianchi, le stesse grandi spalle vestite di grigio che avevo visto da dietro. Ma quando lo vidi da dietro fui certo che fosse un animale, e quando lo vidi di fronte seppi che era un dio.»
 
-«Pan», disse [[The Professor|il Professore]] sognante, «era un dio e un animale.»
+«Pan», disse il Professore sognante, «era un dio e un animale.»
 
 «Allora, e di nuovo e sempre», proseguì Syme come un uomo che parla a se stesso, «questo è stato per me il mistero di [[characters/sunday|Domenica]], ed è anche il mistero del mondo. Quando vedo l'orribile schiena, sono sicuro che il nobile volto non sia che una maschera. Quando vedo il volto anche solo per un istante, so che la schiena è soltanto uno scherzo. Il male è così malvagio che non possiamo non pensare il bene un caso; il bene è così buono che ci sentiamo certi che il male potrebbe essere spiegato. Ma il tutto giunse a una specie di culmine ieri, quando feci a gara con [[characters/sunday|Domenica]] per la carrozza e gli rimasi alle spalle per tutta la strada.»
 
@@ -10958,15 +10958,15 @@ suddenly threw up his hands like a lost spirit.
 my friend in the dark!"
 
 "Dead!" snorted the Secretary.  "You will not find him dead easily.
-If he has been tipped out of the car, we shall find him [[rolling]]
+If he has been tipped out of the car, we shall find him rolling
 as a colt rolls in a field, kicking his legs for fun."
 
-"Clashing his hoofs," said [[The Professor|the Professor]].  "The colts do,
+"Clashing his hoofs," said the Professor.  "The colts do,
 and so did Pan."
 
 "Pan again!" said Dr. Bull irritably.  "You seem to think Pan is everything."
 
-"So he is," said [[The Professor|the Professor]], "in Greek.  He means everything."
+"So he is," said the Professor, "in Greek.  He means everything."
 
 "Don't forget," said the Secretary, looking down, "that he also means Panic."
 
@@ -10983,7 +10983,7 @@ He strode off towards the distant trees with a new energy,
 his rags and ribbons fluttering in the [[motifs/wind|wind]].  The others
 followed him in a more footsore and dubious manner.
 And almost at the same moment all six men realised that they
-were not [[Alone|alone]] in the little field.
+were not alone in the little field.
 
 Across the square of turf a tall man was advancing
 towards them, leaning on a strange long staff like a sceptre.
@@ -11025,7 +11025,7 @@ which let in suddenly the light of a white [[motifs/road|road]].
 
 As the six wanderers broke out upon this thoroughfare, they saw
 the white [[motifs/road|road]] blocked by what looked like a long row of carriages,
-such a row of carriages as might close the approach to some [[house]]
+such a row of carriages as might close the approach to some house
 in Park Lane.  Along the side of these carriages stood a rank
 of splendid servants, all dressed in the grey-blue uniform,
 and all having a certain quality of stateliness and [[concepts/freedom|freedom]]
@@ -11070,7 +11070,7 @@ that a hedge is like a human army, disciplined, but all the more alive.
 He saw high elms behind the hedges, and vaguely thought how happy boys
 would be climbing there.  Then his carriage took a turn of the path,
 and he saw suddenly and quietly, like a long, low, sunset cloud,
-a long, low [[house]], mellow in the mild light of sunset.
+a long, low house, mellow in the mild light of sunset.
 All the six friends compared notes afterwards and quarrelled;
 but they all agreed that in some unaccountable way the place reminded
 them of their boyhood.  It was either this elm-top or that crooked path,
@@ -11094,15 +11094,15 @@ estenuante viaggio, di colpo levò le mani come un'anima perduta.
 amico nel buio!»
 
 «Morto!» sbuffò il Segretario. «Non lo troverete morto così facilmente.
-Se è stato sbalzato fuori dalla navicella, lo troveremo che si [[rolling|rotola]]
+Se è stato sbalzato fuori dalla navicella, lo troveremo che si rotola
 come si rotola un puledro in un prato, scalciando per puro spasso.»
 
-«Facendo risuonare gli zoccoli» disse [[The Professor|il Professore]]. «Così fanno i puledri,
+«Facendo risuonare gli zoccoli» disse il Professore. «Così fanno i puledri,
 e così faceva anche Pan.»
 
 «Ancora Pan!» esclamò il dottor Bull spazientito. «Voi sembrate credere che Pan sia tutto.»
 
-«E infatti lo è» disse [[The Professor|il Professore]], «in greco. Significa tutto.»
+«E infatti lo è» disse il Professore, «in greco. Significa tutto.»
 
 «Non dimenticate» disse il Segretario, abbassando lo sguardo, «che significa anche Panico.»
 
@@ -11119,7 +11119,7 @@ Si incamminò a grandi passi verso gli alberi lontani con nuova energia,
 mentre i suoi cenci e i suoi nastri svolazzavano al [[motifs/wind|vento]]. Gli altri
 lo seguirono in maniera più incerta e coi piedi doloranti.
 E quasi nello stesso istante tutti e sei gli uomini si accorsero di non essere
-[[Alone|soli]] nel piccolo campo.
+soli nel piccolo campo.
 
 Attraverso il quadrato d'erba un uomo alto avanzava
 verso di loro, appoggiandosi a uno strano lungo bastone simile a uno scettro.
@@ -11161,7 +11161,7 @@ che lasciò irrompere all'improvviso la luce di una bianca [[motifs/road|strada]
 
 Quando i sei vagabondi sbucarono su quella carreggiata, videro
 la bianca [[motifs/road|strada]] sbarrata da quella che pareva una lunga fila di carrozze,
-una fila di carrozze quale avrebbe potuto ostruire l'accesso a qualche [[house|casa]]
+una fila di carrozze quale avrebbe potuto ostruire l'accesso a qualche casa
 di Park Lane. Lungo il fianco di quelle carrozze stava schierata una fila
 di splendidi servitori, tutti vestiti dell'uniforme grigio-azzurra,
 e tutti con una certa aria di solennità e di [[concepts/freedom|libertà]]
@@ -11206,7 +11206,7 @@ che una siepe è come un esercito umano, disciplinato, ma tanto più vivo.
 Vide alti olmi dietro le siepi, e pensò vagamente quanto sarebbero stati felici i ragazzi
 ad arrampicarsi lassù. Poi la sua carrozza prese una svolta del sentiero,
 ed egli vide a un tratto e in silenzio, come una lunga, bassa nuvola del tramonto,
-una lunga, bassa [[house|casa]], soffusa nella mite luce del tramonto.
+una lunga, bassa casa, soffusa nella mite luce del tramonto.
 Tutti e sei gli amici confrontarono in seguito le loro impressioni e litigarono;
 ma convennero tutti che in qualche modo inspiegabile quel luogo ricordava
 loro la fanciullezza. Era o questa cima d'olmo o quel sentiero tortuoso,
@@ -11262,17 +11262,17 @@ rather of the [[concepts/nature|nature]] of a domino, on the front of which was 
 a large golden sun, and which was splashed here and there with flaming
 [[motifs/stars|stars]] and crescents.
 
-"You're to be dressed as [[thursday|Thursday]], sir," said the valet somewhat affably.
+"You're to be dressed as Thursday, sir," said the valet somewhat affably.
 
-"Dressed as [[thursday|Thursday]]!" said Syme in meditation.  "It doesn't
+"Dressed as Thursday!" said Syme in meditation.  "It doesn't
 sound a warm costume."
 
-"Oh, yes, sir," said the other eagerly, "the [[thursday|Thursday]] costume
+"Oh, yes, sir," said the other eagerly, "the Thursday costume
 is quite warm, sir.  It fastens up to the chin."
 
 "[[motifs/well|Well]], I don't understand anything," said Syme, sighing.  "I have been used
 so long to uncomfortable adventures that comfortable adventures knock me out.
-Still, I may be allowed to ask why I should be particularly like [[thursday|Thursday]]
+Still, I may be allowed to ask why I should be particularly like Thursday
 in a green frock spotted all over with the sun and [[motifs/moon|moon]].  Those orbs, I think,
 shine on other days.  I once saw the [[motifs/moon|moon]] on Tuesday, I remember."
 
@@ -11294,9 +11294,9 @@ clothes and Bibles?  Do they provide everything?"
 
 But though he affected to despise the mummery, he felt a curious [[concepts/freedom|freedom]]
 and naturalness in his movements as the blue and gold garment fell about him;
-and when he found that he had to wear a [[Sword|sword]], it stirred a boyish dream.
+and when he found that he had to wear a sword, it stirred a boyish dream.
 As he passed out of the room he flung the folds across his shoulder with
-a gesture, his [[Sword|sword]] stood out at an angle, and he had all the swagger
+a gesture, his sword stood out at an angle, and he had all the swagger
 of a troubadour.  For these disguises did not disguise, but reveal.
 
 
@@ -11318,13 +11318,13 @@ Syme, ancora in preda al medesimo ipnotico [[motifs/sleep|sonno]] di stupore, sa
 
 Il servo sollevò da una specie di ottomana un lungo drappeggio azzurro pavone, di [[concepts/nature|natura]] piuttosto simile a un domino, sul cui davanti spiccava blasonato un grande sole d'oro, e che qua e là era spruzzato di [[motifs/stars|stelle]] fiammeggianti e di falci di luna.
 
-«Dovrete vestirvi da [[thursday|Giovedì]], signore», disse il cameriere con una certa affabilità.
+«Dovrete vestirvi da Giovedì, signore», disse il cameriere con una certa affabilità.
 
-«Vestirmi da [[thursday|Giovedì]]!» disse Syme rimuginando. «Non pare un costume caldo.»
+«Vestirmi da Giovedì!» disse Syme rimuginando. «Non pare un costume caldo.»
 
-«Oh, sì, signore», disse l'altro con premura, «il costume del [[thursday|Giovedì]] è molto caldo, signore. Si allaccia fino al mento.»
+«Oh, sì, signore», disse l'altro con premura, «il costume del Giovedì è molto caldo, signore. Si allaccia fino al mento.»
 
-«[[motifs/well|Be']], non capisco proprio nulla», disse Syme sospirando. «Mi sono così a lungo abituato ad avventure scomode che le avventure comode mi mandano al tappeto. Tuttavia, mi sia concesso chiedere perché io debba somigliare in modo particolare al [[thursday|Giovedì]] con una veste verde tutta cosparsa di sole e di [[motifs/moon|luna]]. Quegli astri, mi pare, splendono anche negli altri giorni. Una volta, ricordo, vidi la [[motifs/moon|luna]] di martedì.»
+«[[motifs/well|Be']], non capisco proprio nulla», disse Syme sospirando. «Mi sono così a lungo abituato ad avventure scomode che le avventure comode mi mandano al tappeto. Tuttavia, mi sia concesso chiedere perché io debba somigliare in modo particolare al Giovedì con una veste verde tutta cosparsa di sole e di [[motifs/moon|luna]]. Quegli astri, mi pare, splendono anche negli altri giorni. Una volta, ricordo, vidi la [[motifs/moon|luna]] di martedì.»
 
 «Chiedo scusa, signore», disse il cameriere, «vi è stata provveduta anche la [[historical-references/bible|Bibbia]]», e con un dito ossequioso e rigido indicò un passo del primo capitolo della Genesi. Syme lo lesse meravigliato. Era quello in cui il quarto giorno della settimana è associato alla creazione del sole e della [[motifs/moon|luna]]. Qui, tuttavia, computavano a partire dalla [[characters/sunday|Domenica]] cristiana.
 
@@ -11334,7 +11334,7 @@ Il servo sollevò da una specie di ottomana un lungo drappeggio azzurro pavone, 
 
 «Oh, appioppatemi addosso quel benedetto affare!» disse Syme spazientito.
 
-Ma benché fingesse di disprezzare quella pagliacciata, avvertì una curiosa [[concepts/freedom|libertà]] e naturalezza nei propri movimenti mentre la veste azzurra e oro gli scendeva attorno; e quando scoprì che doveva portare una [[Sword|spada]], si destò in lui un sogno fanciullesco. Uscendo dalla stanza, si gettò le pieghe attraverso la spalla con un gesto, la sua [[Sword|spada]] sporgeva ad angolo, ed egli aveva tutta la spavalderia di un trovatore. Poiché quei travestimenti non travestivano, ma rivelavano.
+Ma benché fingesse di disprezzare quella pagliacciata, avvertì una curiosa [[concepts/freedom|libertà]] e naturalezza nei propri movimenti mentre la veste azzurra e oro gli scendeva attorno; e quando scoprì che doveva portare una spada, si destò in lui un sogno fanciullesco. Uscendo dalla stanza, si gettò le pieghe attraverso la spalla con un gesto, la sua spada sporgeva ad angolo, ed egli aveva tutta la spavalderia di un trovatore. Poiché quei travestimenti non travestivano, ma rivelavano.
 
 
 
@@ -11352,7 +11352,7 @@ fell a band or broad stripe of pure white, like a single shaft of light.
 The whole looked like some very severe ecclesiastical vestment.
 There was no need for Syme to search his [[motifs/memory|memory]] or the [[historical-references/bible|Bible]] in order
 to remember that the first day of creation marked the mere creation
-of light out of darkness.  The vestment itself would [[Alone|alone]] have suggested
+of light out of darkness.  The vestment itself would alone have suggested
 the symbol; and Syme felt also how perfectly this pattern of pure
 white and black expressed the [[motifs/soul|soul]] of the pale and austere Secretary,
 with his inhuman veracity and his cold frenzy, which made him so easily
@@ -11402,7 +11402,7 @@ like the terrace in such old-fashioned gardens.
 
 Along this, in a kind of crescent, stood seven great chairs, the thrones
 of the seven days.  Gogol and Dr. Bull were already in their seats;
-[[The Professor|the Professor]] was just mounting to his.  Gogol, or Tuesday,
+the Professor was just mounting to his.  Gogol, or Tuesday,
 had his simplicity [[motifs/well|well]] symbolised by a dress designed upon
 the division of the waters, a dress that separated upon his forehead
 and fell to his feet, grey and silver, like a sheet of rain.
@@ -11437,7 +11437,7 @@ was like a silver flame on his forehead.
 
 For a long [[motifs/time|time]]--it seemed for hours--that huge masquerade of mankind
 swayed and stamped in front of them to marching and exultant music.
-Every couple dancing seemed a separate [[Romance|romance]]; it might be
+Every couple dancing seemed a separate romance; it might be
 a fairy dancing with a pillar-box, or a peasant girl dancing
 with the [[motifs/moon|moon]]; but in each case it was, somehow, as absurd
 as Alice in Wonderland, yet as [[motifs/grave|grave]] and kind as a [[motifs/love|love]] story.
@@ -11446,17 +11446,17 @@ Couples strolled away into the [[motifs/garden|garden]]-walks, or began to drift
 towards that end of the building where stood smoking, in huge pots
 like fish-kettles, some hot and scented mixtures of old ale or wine.
 Above all these, upon a sort of black framework on the roof
-of the [[house]], roared in its iron basket a gigantic bonfire,
+of the house, roared in its iron basket a gigantic bonfire,
 which lit up the land for miles.  It flung the homely effect
 of firelight over the face of vast forests of grey or brown,
 and it seemed to fill with warmth even the emptiness of upper [[motifs/night|night]].
 Yet this also, after a [[motifs/time|time]], was allowed to grow fainter; the dim
 groups gathered more and more round the great cauldrons, or passed,
-laughing and clattering, into the inner passages of that ancient [[house]].
+laughing and clattering, into the inner passages of that ancient house.
 Soon there were only some ten loiterers in the [[motifs/garden|garden]]; soon only four.
-Finally the last stray merry-maker ran into the [[house]] whooping to
+Finally the last stray merry-maker ran into the house whooping to
 his companions.  The [[motifs/fire|fire]] faded, and the slow, strong [[motifs/stars|stars]] came out.
-And the seven strange men were left [[Alone|alone]], like seven stone statues
+And the seven strange men were left alone, like seven stone statues
 on their chairs of stone.  Not one of them had spoken a word.
 
 
@@ -11473,7 +11473,7 @@ scendeva una banda, o larga striscia, di puro bianco, come un unico dardo di luc
 L'insieme aveva l'aspetto di qualche paramento ecclesiastico assai severo.
 Syme non ebbe bisogno di frugare nella [[motifs/memory|memoria]] né nella [[historical-references/bible|Bibbia]] per
 ricordare che il primo giorno della creazione segnò la semplice creazione
-della luce dalle tenebre. Il paramento stesso avrebbe [[Alone|da solo]] suggerito
+della luce dalle tenebre. Il paramento stesso avrebbe da solo suggerito
 quel simbolo; e Syme sentì anche quanto perfettamente questo disegno di puro
 bianco e nero esprimesse l'[[motifs/soul|anima]] del pallido e austero Segretario,
 con la sua disumana veracità e il suo gelido furore, che gli rendevano così facile
@@ -11523,11 +11523,11 @@ come la terrazza di certi giardini all'antica.
 
 Lungo di essa, disposti a mezzaluna, stavano sette grandi seggi, i troni
 dei sette giorni. Gogol e il dottor Bull erano già ai loro posti;
-[[The Professor|il Professore]] stava appena salendo al suo. Gogol, ovvero Martedì,
+il Professore stava appena salendo al suo. Gogol, ovvero Martedì,
 aveva la sua semplicità [[motifs/well|ben]] simboleggiata da un abito ideato sulla
 divisione delle acque, un abito che si separava sulla sua fronte
 e gli scendeva ai piedi, grigio e argento, come uno scroscio di pioggia.
-[[The Professor|Il Professore]], il cui giorno era quello in cui furono creati gli [[motifs/birds|uccelli]] e i pesci —
+Il Professore, il cui giorno era quello in cui furono creati gli [[motifs/birds|uccelli]] e i pesci —
 le forme di vita più rozze — aveva un abito di un cupo violetto,
 su cui si sparpagliavano pesci dagli occhi sporgenti e stravaganti [[motifs/birds|uccelli]] tropicali,
 l'[[concepts/union|unione]] in lui di insondabile fantasia e di [[concepts/doubt|dubbio]].
@@ -11558,7 +11558,7 @@ gli parevano una fiamma d'argento sulla fronte.
 
 Per lungo [[motifs/time|tempo]] — parve durare ore — quell'enorme mascherata dell'umanità
 ondeggiò e batté i piedi davanti a loro a un ritmo di marcia e di esultante musica.
-Ogni coppia che danzava sembrava un [[Romance|romanzo]] a sé; poteva essere
+Ogni coppia che danzava sembrava un romanzo a sé; poteva essere
 una fata che danzava con una cassetta della posta, o una contadinella che danzava
 con la [[motifs/moon|luna]]; ma in ogni caso era, in qualche modo, tanto assurdo
 quanto Alice nel Paese delle Meraviglie, eppure tanto [[motifs/grave|solenne]] e gentile quanto una storia d'[[motifs/love|amore]].
@@ -11567,17 +11567,17 @@ Le coppie si allontanavano passeggiando per i viali del [[motifs/garden|giardino
 verso quel lato dell'edificio dove fumavano, in enormi pentole
 come pesciaie, certe calde e profumate mescolanze di vecchia birra o vino.
 Al di sopra di tutto ciò, su una sorta di intelaiatura nera sul tetto
-della [[house|casa]], ruggiva nel suo cesto di ferro un gigantesco falò,
+della casa, ruggiva nel suo cesto di ferro un gigantesco falò,
 che rischiarava la contrada per miglia. Gettava l'effetto familiare
 della luce del fuoco sul volto di vaste foreste grigie o brune,
 e sembrava riempire di calore perfino il vuoto dell'alta [[motifs/night|notte]].
 Eppure anche questo, dopo un [[motifs/time|po']], fu lasciato affievolire; i gruppi
 indistinti si raccoglievano sempre più intorno ai grandi calderoni, o passavano,
-ridendo e strepitando, nei corridoi interni di quell'antica [[house|casa]].
+ridendo e strepitando, nei corridoi interni di quell'antica casa.
 Presto rimasero soltanto una decina di attardati nel [[motifs/garden|giardino]]; presto solo quattro.
-Infine l'ultimo festaiolo sperduto corse dentro la [[house|casa]] chiamando a gran voce
+Infine l'ultimo festaiolo sperduto corse dentro la casa chiamando a gran voce
 i suoi compagni. Il [[motifs/fire|fuoco]] si spense, e lente, forti, spuntarono le [[motifs/stars|stelle]].
-E i sette uomini stranieri restarono [[Alone|soli]], come sette statue di pietra
+E i sette uomini stranieri restarono soli, come sette statue di pietra
 sui loro seggi di pietra. Non uno di loro aveva pronunciato parola.
 
 
@@ -11586,7 +11586,7 @@ sui loro seggi di pietra. Non uno di loro aveva pronunciato parola.
 
 
 They seemed in no haste to do so, but heard in [[motifs/silence|silence]] the hum
-of [[motifs/insects|insects]] and the distant [[Song|song]] of one bird.  Then [[characters/sunday|Sunday]] spoke,
+of [[motifs/insects|insects]] and the distant song of one bird.  Then [[characters/sunday|Sunday]] spoke,
 but so dreamily that he might have been continuing a conversation
 rather than beginning one.
 
@@ -11609,7 +11609,7 @@ and the incomprehensible went on.
 "But you were men.  You did not forget your secret [[concepts/honour|honour]],
 though the whole cosmos turned an engine of torture
 to tear it out of you.  I knew how near you were to hell.
-I know how you, [[thursday|Thursday]], crossed swords with [[archetypes/king|King]] [[characters/satan|Satan]],
+I know how you, Thursday, crossed swords with [[archetypes/king|King]] [[characters/satan|Satan]],
 and how you, Wednesday, named me in the hour without [[concepts/hope|hope]]."
 
 There was complete [[motifs/silence|silence]] in the starlit [[motifs/garden|garden]], and then
@@ -11651,7 +11651,7 @@ Bull said--
 
 "I understand nothing, but I am happy.  In fact, I am going to [[motifs/sleep|sleep]]."
 
-"I am not happy," said [[The Professor|the Professor]] with his head in his hands,
+"I am not happy," said the Professor with his head in his hands,
 "because I do not understand.  You let me stray a little too
 near to hell."
 
@@ -11670,8 +11670,8 @@ like a bar of burning gold, across the dim grass.
 Against this fiery band was outlined in utter black the advancing
 legs of a black-clad figure.  He seemed to have a fine close suit
 with knee-breeches such as that which was worn by the servants
-of the [[house]], only that it was not blue, but of this absolute sable.
-He had, like the servants, a kind of [[Sword|sword]] by his side.
+of the house, only that it was not blue, but of this absolute sable.
+He had, like the servants, a kind of sword by his side.
 It was only when he had come quite close to the crescent of
 the seven and flung up his face to look at them, that Syme saw,
 with thunder-struck clearness, that the face was the broad,
@@ -11713,8 +11713,8 @@ smiling men in blue and buttons!  You are the Law, and you have
 never been broken.  But is there a free [[motifs/soul|soul]] alive that does
 not long to break you, only because you have never been broken?
 We in revolt talk all kind of nonsense doubtless about this
-crime or that crime of the [[government|Government]].  It is all folly!
-The only crime of the [[government|Government]] is that it governs.
+crime or that crime of the Government.  It is all folly!
+The only crime of the Government is that it governs.
 The unpardonable sin of the supreme power is that it is supreme.
 I do not curse you for being cruel.  I do not curse you
 (though I might) for being kind.  I curse you for being safe!
@@ -11727,13 +11727,13 @@ a real agony such as I--"
 
 <span class="qlang-split" data-lang="it"></span>
 
-Non parevano avere alcuna fretta di farlo, ma udirono in [[motifs/silence|silenzio]] il ronzio degli [[motifs/insects|insetti]] e il [[Song|canto]] lontano di un solo uccello. Poi [[characters/sunday|Domenica]] parlò, ma in modo così trasognato che pareva proseguire una conversazione anziché iniziarne una.
+Non parevano avere alcuna fretta di farlo, ma udirono in [[motifs/silence|silenzio]] il ronzio degli [[motifs/insects|insetti]] e il canto lontano di un solo uccello. Poi [[characters/sunday|Domenica]] parlò, ma in modo così trasognato che pareva proseguire una conversazione anziché iniziarne una.
 
 «Mangeremo e berremo più tardi», disse. «Restiamo ancora un poco insieme, noi che ci siamo amati con tanta tristezza, e che abbiamo combattuto così a lungo. Mi sembra di ricordare soltanto secoli di guerra eroica, in cui voi foste sempre eroi: [[forms/epic|epopea]] su [[forms/epic|epopea]], iliade su iliade, e voi sempre fratelli d'arme. Che fosse di recente (poiché il [[motifs/time|tempo]] non è nulla), o al principio del mondo, io vi mandai in guerra. Sedevo nelle tenebre, là dove non v'è cosa alcuna creata, e per voi ero soltanto una voce che comandava valore e una virtù innaturale. Udiste la voce nel buio, e non la udiste mai più. Il sole in cielo la negava, la terra e il cielo la negavano, ogni umana saggezza la negava. E quando vi incontrai alla luce del giorno, la negai io stesso.»
 
 Syme si mosse bruscamente sulla sedia, ma per il resto vi fu [[motifs/silence|silenzio]], e l'incomprensibile proseguì.
 
-«Ma voi eravate uomini. Non dimenticaste il vostro segreto [[concepts/honour|onore]], benché l'intero cosmo si mutasse in una macchina di tortura per strapparvelo. Sapevo quanto foste vicini all'inferno. So come tu, [[thursday|Giovedì]], incrociasti la spada con [[archetypes/king|Re]] [[characters/satan|Satana]], e come tu, Mercoledì, mi nominasti nell'ora senza [[concepts/hope|speranza]].»
+«Ma voi eravate uomini. Non dimenticaste il vostro segreto [[concepts/honour|onore]], benché l'intero cosmo si mutasse in una macchina di tortura per strapparvelo. Sapevo quanto foste vicini all'inferno. So come tu, Giovedì, incrociasti la spada con [[archetypes/king|Re]] [[characters/satan|Satana]], e come tu, Mercoledì, mi nominasti nell'ora senza [[concepts/hope|speranza]].»
 
 Vi fu un [[motifs/silence|silenzio]] completo nel [[motifs/garden|giardino]] stellato, e poi il Segretario dalle nere sopracciglia, implacabile, si voltò sulla sedia verso [[characters/sunday|Domenica]], e disse con voce aspra:
 
@@ -11757,7 +11757,7 @@ Bull disse:
 
 «Non capisco nulla, ma sono felice. Anzi, sto per [[motifs/sleep|dormire]].»
 
-«Io non sono felice», disse [[The Professor|il Professore]] con la testa fra le mani, «perché non capisco. Mi hai lasciato vagare un po' troppo vicino all'inferno.»
+«Io non sono felice», disse il Professore con la testa fra le mani, «perché non capisco. Mi hai lasciato vagare un po' troppo vicino all'inferno.»
 
 E allora Gogol disse, con l'assoluta semplicità di un [[archetypes/child|fanciullo]]:
 
@@ -11767,7 +11767,7 @@ Ancora [[characters/sunday|Domenica]] non disse nulla, ma sedeva soltanto col po
 
 «Ho ascoltato le vostre lagnanze una a una. E qui, credo, ne viene un altro a lagnarsi, e ascolteremo anche lui.»
 
-Il [[motifs/fire|fuoco]] morente nel grande braciere gettò un ultimo lungo bagliore, come una sbarra d'oro ardente, attraverso l'erba fosca. Contro quella fascia infuocata si stagliavano in nero assoluto le gambe avanzanti di una figura vestita di nero. Sembrava indossare un attillato abito elegante con calzoni al ginocchio simili a quelli portati dai servitori della [[house|casa]], solo che non era azzurro, bensì di quel sabbia più assoluto. Aveva, come i servitori, una specie di [[Sword|spada]] al fianco. Fu soltanto quando fu giunto vicinissimo alla mezzaluna dei sette e alzò il viso a guardarli, che Syme vide, con una chiarezza fulminante, che quel volto era il volto largo, quasi scimmiesco, del suo vecchio amico Gregory, con i suoi rossi capelli ispidi e il suo sorriso insolente.
+Il [[motifs/fire|fuoco]] morente nel grande braciere gettò un ultimo lungo bagliore, come una sbarra d'oro ardente, attraverso l'erba fosca. Contro quella fascia infuocata si stagliavano in nero assoluto le gambe avanzanti di una figura vestita di nero. Sembrava indossare un attillato abito elegante con calzoni al ginocchio simili a quelli portati dai servitori della casa, solo che non era azzurro, bensì di quel sabbia più assoluto. Aveva, come i servitori, una specie di spada al fianco. Fu soltanto quando fu giunto vicinissimo alla mezzaluna dei sette e alzò il viso a guardarli, che Syme vide, con una chiarezza fulminante, che quel volto era il volto largo, quasi scimmiesco, del suo vecchio amico Gregory, con i suoi rossi capelli ispidi e il suo sorriso insolente.
 
 «Gregory!» ansimò Syme, sollevandosi a metà dalla sedia. «Ma questo è il vero anarchico!»
 
@@ -11787,7 +11787,7 @@ Un senso di pietà sepolta profonda sotto la terra si destò in Syme, ed egli pa
 
 Allora da questa incomprensibile creatura eruppero gli ultimi tuoni.
 
-«Tu!» gridò. «Tu non hai mai odiato perché non hai mai vissuto. So che cosa siete tutti voi, dal primo all'ultimo: voi siete la gente al potere! Voi siete la polizia... i grandi uomini grassi e sorridenti in azzurro e bottoni! Voi siete la Legge, e non siete mai stati infranti. Ma esiste un'[[motifs/soul|anima]] libera vivente che non aneli a infrangervi, solo perché non siete mai stati infranti? Noi ribelli diciamo senza dubbio ogni sorta di sciocchezze su questo o quel crimine del [[government|Governo]]. È tutta follia! L'unico crimine del [[government|Governo]] è che governa. Il peccato imperdonabile del potere supremo è che è supremo. Non vi maledico perché siete crudeli. Non vi maledico (benché potrei) perché siete benevoli. Vi maledico perché siete al sicuro! Sedete sui vostri troni di pietra, e non ne siete mai discesi. Voi siete i sette angeli del cielo, e non avete avuto affanni. Oh, potrei perdonarvi tutto, voi che governate l'intera umanità, se potessi sentire per una volta che avete sofferto per un'ora una vera agonia come quella che io...»
+«Tu!» gridò. «Tu non hai mai odiato perché non hai mai vissuto. So che cosa siete tutti voi, dal primo all'ultimo: voi siete la gente al potere! Voi siete la polizia... i grandi uomini grassi e sorridenti in azzurro e bottoni! Voi siete la Legge, e non siete mai stati infranti. Ma esiste un'[[motifs/soul|anima]] libera vivente che non aneli a infrangervi, solo perché non siete mai stati infranti? Noi ribelli diciamo senza dubbio ogni sorta di sciocchezze su questo o quel crimine del Governo. È tutta follia! L'unico crimine del Governo è che governa. Il peccato imperdonabile del potere supremo è che è supremo. Non vi maledico perché siete crudeli. Non vi maledico (benché potrei) perché siete benevoli. Vi maledico perché siete al sicuro! Sedete sui vostri troni di pietra, e non ne siete mai discesi. Voi siete i sette angeli del cielo, e non avete avuto affanni. Oh, potrei perdonarvi tutto, voi che governate l'intera umanità, se potessi sentire per una volta che avete sofferto per un'ora una vera agonia come quella che io...»
 
 
 
@@ -11801,7 +11801,7 @@ Why does each thing on the earth war against each other thing?
 Why does each small thing in the world have to fight against
 the world itself?  Why does a fly have to fight the whole universe?
 Why does a dandelion have to fight the whole universe?
-For the same reason that I had to be [[Alone|alone]] in the dreadful
+For the same reason that I had to be alone in the dreadful
 Council of the Days.  So that each thing that obeys law
 may have the glory and isolation of the anarchist.
 So that each man fighting for order may be as brave and good
@@ -11870,17 +11870,17 @@ THE END
 
 A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE
 
-THE MAN WHO WAS [[thursday|THURSDAY]]
+THE MAN WHO WAS THURSDAY
 
 by G. K. Chesterton
 
 author of the [[characters/father-brown|Father Brown]] stories
 
-It is very difficult to classify THE MAN WHO WAS [[thursday|THURSDAY]].  It is possible
+It is very difficult to classify THE MAN WHO WAS THURSDAY.  It is possible
 to say that it is a gripping adventure story of murderous criminals
 and brilliant policemen; but it was to be expected that the author of
 the [[characters/father-brown|Father Brown]] stories should tell a [[archetypes/detective|detective]] story like no-one else.
-On this level, therefore, THE MAN WHO WAS [[thursday|THURSDAY]] succeeds superbly;
+On this level, therefore, THE MAN WHO WAS THURSDAY succeeds superbly;
 if nothing else, it is a magnificent tour-de-force of suspense-writing.
 
 However, the reader will soon discover that it is much more than that.
@@ -11897,7 +11897,7 @@ discover who [[characters/sunday|Sunday]] is.
 
 Syme balzò in piedi, tremando da capo a piedi.
 
-«Vedo ogni cosa», gridò, «tutto ciò che esiste. Perché ogni cosa sulla terra è in guerra con ogni altra cosa? Perché ogni piccola cosa nel mondo deve combattere contro il mondo stesso? Perché una mosca deve combattere l'intero universo? Perché un dente di leone deve combattere l'intero universo? Per la stessa ragione per cui io ho dovuto essere [[Alone|solo]] nel terribile Consiglio dei Giorni. Affinché ogni cosa che obbedisce alla legge possa avere la gloria e l'isolamento dell'anarchico. Affinché ogni uomo che combatte per l'ordine possa essere un uomo tanto coraggioso e buono quanto il dinamitardo. Affinché la vera menzogna di [[characters/satan|Satana]] possa essere rigettata in faccia a questo bestemmiatore, affinché con le [[motifs/tears|lacrime]] e la tortura possiamo guadagnarci il diritto di dire a quest'uomo: "Tu menti!". Nessuna agonia può essere troppo grande per comprare il diritto di dire a questo accusatore: "Anche noi abbiamo sofferto".
+«Vedo ogni cosa», gridò, «tutto ciò che esiste. Perché ogni cosa sulla terra è in guerra con ogni altra cosa? Perché ogni piccola cosa nel mondo deve combattere contro il mondo stesso? Perché una mosca deve combattere l'intero universo? Perché un dente di leone deve combattere l'intero universo? Per la stessa ragione per cui io ho dovuto essere solo nel terribile Consiglio dei Giorni. Affinché ogni cosa che obbedisce alla legge possa avere la gloria e l'isolamento dell'anarchico. Affinché ogni uomo che combatte per l'ordine possa essere un uomo tanto coraggioso e buono quanto il dinamitardo. Affinché la vera menzogna di [[characters/satan|Satana]] possa essere rigettata in faccia a questo bestemmiatore, affinché con le [[motifs/tears|lacrime]] e la tortura possiamo guadagnarci il diritto di dire a quest'uomo: "Tu menti!". Nessuna agonia può essere troppo grande per comprare il diritto di dire a questo accusatore: "Anche noi abbiamo sofferto".
 
 «Non è vero che non siamo mai stati spezzati. Siamo stati spezzati sulla [[motifs/wheel|ruota]]. Non è vero che non siamo mai discesi da questi troni. Siamo discesi all'inferno. Ci lamentavamo di indimenticabili miserie perfino nell'istante stesso in cui quest'uomo entrò insolentemente ad accusarci di felicità. Respingo la calunnia; non siamo stati felici. Posso rispondere per ciascuna delle grandi guardie della Legge che egli ha accusato. Almeno...»
 
@@ -11917,12 +11917,12 @@ FINE
 
 UN RACCONTO SELVAGGIO, FOLLE, ESILARANTE E PROFONDAMENTE COMMOVENTE
 
-THE MAN WHO WAS [[thursday|THURSDAY]]
+THE MAN WHO WAS THURSDAY
 
 di G. K. Chesterton
 
 autore dei racconti di [[characters/father-brown|Father Brown]]
 
-È assai difficile classificare THE MAN WHO WAS [[thursday|THURSDAY]]. È possibile dire che sia un'avvincente storia d'avventura di criminali sanguinari e brillanti poliziotti; ma c'era da aspettarsi che l'autore dei racconti di [[characters/father-brown|Father Brown]] raccontasse una storia [[archetypes/detective|poliziesca]] come nessun altro. A questo livello, dunque, THE MAN WHO WAS [[thursday|THURSDAY]] riesce splendidamente; se non altro, è un magnifico tour-de-force nell'arte della suspense.
+È assai difficile classificare THE MAN WHO WAS THURSDAY. È possibile dire che sia un'avvincente storia d'avventura di criminali sanguinari e brillanti poliziotti; ma c'era da aspettarsi che l'autore dei racconti di [[characters/father-brown|Father Brown]] raccontasse una storia [[archetypes/detective|poliziesca]] come nessun altro. A questo livello, dunque, THE MAN WHO WAS THURSDAY riesce splendidamente; se non altro, è un magnifico tour-de-force nell'arte della suspense.
 
 Tuttavia, il lettore scoprirà ben presto che è molto di più. Trascinato dal turbolento slancio della narrazione dal meraviglioso stile esuberante di Chesterton, vedrà presto di essere trasportato in acque assai più profonde di quanto avesse previsto; e l'assolutamente imprevedibile scioglimento si rivelerà, per il lettore moderno come già per migliaia di altri dal 1908, quando il libro fu pubblicato per la prima volta, un'esperienza inevitabile e commovente, quando gli investigatori scoprono infine chi sia [[characters/sunday|Sunday]].

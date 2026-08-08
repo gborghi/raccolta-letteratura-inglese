@@ -29,11 +29,11 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
-**Archetypes:** Prophet
+**Archetypes:** [[archetypes/prophet|Prophet]]
 **Themes & Concepts:** [[concepts/democracy|Democracy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/self|Self]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/artist-and-society|Artist and Society]], [[concepts/liberty-political-freedom|Liberty Political Freedom]]
 **Forms & Genres:** [[forms/ode|Ode]], [[forms/free-verse|Free Verse]]
 **Historical References:** [[historical-references/american-civil-war|American Civil War]]
-**Characters:** Abraham Lincoln
+**Characters:** [[characters/abraham-lincoln|Abraham Lincoln]]
 
 ## Testo integrale / Full text
 

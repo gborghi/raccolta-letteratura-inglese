@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Motifs:** [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/exile|Exile]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

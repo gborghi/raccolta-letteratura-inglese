@@ -57,13 +57,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider, Ghost
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/ghost|Ghost]]
 **Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/storm|Storm]], [[motifs/sea|Sea]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/madness-(2)|Madness (2)]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/melancholy|Melancholy]], [[concepts/identity|Identity]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/uncanny|Uncanny]], [[concepts/romantic-love|Romantic Love]], [[concepts/exile|Exile]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/gothic-novel|Gothic Novel]]
 **Historical References:** [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/industrial-city|Industrial City]]
-**Characters:** Lucy Snowe, Paul Emanuel, Graham Bretton, Madame Beck, Ginevra Fanshawe, Polly Home, Mrs Bretton
+**Characters:** [[characters/lucy-snowe|Lucy Snowe]], [[characters/paul-emanuel|Paul Emanuel]], [[characters/graham-bretton|Graham Bretton]], [[characters/madame-beck|Madame Beck]], [[characters/ginevra-fanshawe|Ginevra Fanshawe]], [[characters/polly-home|Polly Home]], [[characters/mrs-bretton|Mrs Bretton]]
 
 ## Testo integrale / Full text
 

@@ -57,12 +57,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** Avenger, Villain, Femme Fatale
+**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/villain|Villain]], [[archetypes/femme-fatale|Femme Fatale]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/swords-and-weapons|Swords and Weapons]]
 **Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/grotesque|Grotesque]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/madness|Madness]], [[concepts/war-and-its-cost|War and its Cost]]
 **Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]]
 **Settings:** [[settings/ancient-rome|Ancient Rome]]
-**Characters:** Titus Andronicus, Tamora, Aaron, Lavinia, Saturninus, Bassianus, Marcus Andronicus, Lucius
+**Characters:** [[characters/titus-andronicus|Titus Andronicus]], [[characters/tamora|Tamora]], [[characters/aaron|Aaron]], [[characters/lavinia|Lavinia]], [[characters/saturninus|Saturninus]], [[characters/bassianus|Bassianus]], [[characters/marcus-andronicus|Marcus Andronicus]], [[characters/lucius|Lucius]]
 
 ## Testo integrale / Full text
 

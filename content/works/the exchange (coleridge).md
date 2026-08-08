@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[concepts/nature|Nature]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/joy|Joy]]
 **Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]]

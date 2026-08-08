@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[concepts/nature|Nature]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/sublime|Sublime]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/natural-order|Natural Order]]
 **Forms & Genres:** [[forms/hymn|Hymn]]

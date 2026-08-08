@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Prophet, Scapegoat
+**Archetypes:** [[archetypes/prophet|Prophet]], [[archetypes/scapegoat|Scapegoat]]
 **Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/fate-and-free-will|Fate and Free Will]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 

@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider, Crone
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/crone|Crone]]
 **Motifs:** [[concepts/nature|Nature]], [[motifs/flowers|Flowers]]
 **Themes & Concepts:** [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/alienation|Alienation]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]

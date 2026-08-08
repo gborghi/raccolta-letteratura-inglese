@@ -48,7 +48,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 
 **Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/paradise-lost|Paradise Lost]]
 

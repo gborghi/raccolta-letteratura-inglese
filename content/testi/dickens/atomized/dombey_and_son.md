@@ -321,7 +321,7 @@ distant [[motifs/fire|fire]]. Son, with his little fists curled up and clenched,
 seemed, in his feeble way, to be squaring at existence for having come
 upon him so unexpectedly.
 
-“The [[house|House]] will once again, Mrs Dombey,” said Mr Dombey, “be not only
+“The House will once again, Mrs Dombey,” said Mr Dombey, “be not only
 in name but in fact Dombey and Son;” and he added, in a tone of
 luxurious satisfaction, with his eyes half-closed as if he were reading
 the name in a device of [[motifs/flowers|flowers]], and inhaling their fragrance at the
@@ -344,7 +344,7 @@ her lips, and closed her eyes again.
 grandfather were alive this day! There is some inconvenience in the
 necessity of writing Junior,” said Mr Dombey, making a fictitious
 autograph on his knee; “but it is merely of a private and personal
-complexion. It doesn’t enter into the correspondence of the [[house|House]]. Its
+complexion. It doesn’t enter into the correspondence of the House. Its
 signature remains the same.” And again he said “Dombey and Son,” in
 exactly the same tone as before.
 
@@ -366,12 +366,12 @@ happiness was in the past, and who was content to bind her broken
 spirit to the dutiful and meek [[concepts/endurance|endurance]] of the present. Such idle talk
 was little likely to reach the ears of Mr Dombey, whom it nearly
 concerned; and probably no one in the world would have received it with
-such utter [[Incredulity|incredulity]] as he, if it had reached him. Dombey and Son had
+such utter incredulity as he, if it had reached him. Dombey and Son had
 often dealt in hides, but never in hearts. They left that fancy ware to
 boys and girls, and boarding-schools and books. Mr Dombey would have
 reasoned: That a matrimonial alliance with himself _must_, in the
 [[concepts/nature|nature]] of things, be gratifying and honourable to any woman of common
-sense. That the [[concepts/hope|hope]] of giving birth to a new partner in such a [[house|House]],
+sense. That the [[concepts/hope|hope]] of giving birth to a new partner in such a House,
 could not fail to awaken a glorious and stirring [[concepts/ambition|ambition]] in the breast
 of the least ambitious of her sex. That Mrs Dombey had entered on that
 social contract of matrimony: almost necessarily part of a genteel and
@@ -379,7 +379,7 @@ wealthy station, even without reference to the perpetuation of family
 Firms: with her eyes fully open to these advantages. That Mrs Dombey
 had had daily practical knowledge of his position in society. That Mrs
 Dombey had always sat at the head of his table, and done the honours of
-his [[house]] in a remarkably lady-like and becoming manner. That Mrs
+his house in a remarkably lady-like and becoming manner. That Mrs
 Dombey must have been happy. That she couldn’t help it.
 
 Or, at all events, with one drawback. Yes. That he would have allowed.
@@ -398,7 +398,7 @@ of the bed, had had no issue.
 years before, and the [[archetypes/child|child]], who had stolen into the chamber
 unobserved, was now crouching timidly, in a corner whence she could see
 her mother’s face. But what was a girl to Dombey and Son! In the
-capital of the [[house|House]]’s name and dignity, such a [[archetypes/child|child]] was merely a
+capital of the House’s name and dignity, such a [[archetypes/child|child]] was merely a
 piece of base coin that couldn’t be invested—a bad Boy—nothing more.
 
 
@@ -520,7 +520,7 @@ _beg_ your pardon; Mrs Dombey—should not be—”
 
 “Successfully,” said they both together.
 
-“Then,” added Doctor Parker Peps, [[Alone|alone]] and very gravely, “a crisis
+“Then,” added Doctor Parker Peps, alone and very gravely, “a crisis
 might arise, which we should both sincerely deplore.”
 
 With that, they stood for a few seconds looking at the ground. Then, on
@@ -724,7 +724,7 @@ her, and was not a pleasant return for all the attention and
 distinction she had met with.
 
 Mr Dombey being hastily summoned out of the room at this moment, the
-two ladies were left [[Alone|alone]] together. Miss Tox immediately became
+two ladies were left alone together. Miss Tox immediately became
 spasmodic.
 
 “I knew you would admire my brother. I told you so beforehand, my
@@ -888,7 +888,7 @@ upstairs, who were busy on the family mourning. She delivered it for
 the behoof of Mr Chick, who was a stout bald gentleman, with a very
 large face, and his hands continually in his pockets, and who had a
 tendency in his [[concepts/nature|nature]] to whistle and hum tunes, which, sensible of the
-indecorum of such sounds in a [[house]] of grief, he was at some pains to
+indecorum of such sounds in a house of grief, he was at some pains to
 repress at present.
 
 “Don’t you over-exert yourself, Loo,” said Mr Chick, “or you’ll be laid
@@ -1044,7 +1044,7 @@ again.”
 
 “Like the dear good Tox, you are!” said Louisa.
 
-“Not at all,” returned Miss Tox. “Don’t say so. Arriving at the [[house]]
+“Not at all,” returned Miss Tox. “Don’t say so. Arriving at the house
 (the cleanest place, my dear! You might eat your dinner off the floor),
 I found the whole family sitting at table; and feeling that no account
 of them could be half so comfortable to you and Mr Dombey as the sight
@@ -1164,7 +1164,7 @@ are poor, and wish to earn money by nursing the little boy, my son, who
 has been so prematurely deprived of what can never be replaced. I have
 no objection to your adding to the comforts of your family by that
 means. So far as I can tell, you seem to be a deserving object. But I
-must impose one or two conditions on you, before you enter my [[house]] in
+must impose one or two conditions on you, before you enter my house in
 that capacity. While you are here, I must stipulate that you are always
 known as—say as Richards—an ordinary name, and convenient. Have you any
 objection to be known as Richards? You had better consult your
@@ -1209,7 +1209,7 @@ her have it when and how she pleases. Mr what’s-your name, a word with
 you, if you please!”
 
 Thus arrested on the threshold as he was following his wife out of the
-room, Toodle returned and confronted Mr Dombey [[Alone|alone]]. He was a strong,
+room, Toodle returned and confronted Mr Dombey alone. He was a strong,
 loose, round-shouldered, shuffling, shaggy fellow, on whom his clothes
 sat negligently: with a good deal of hair and whisker, deepened in its
 natural tint, perhaps by smoke and coal-[[motifs/dust|dust]]: hard knotty hands: and a
@@ -1498,19 +1498,19 @@ ceremonies, the various members of Mr Dombey’s household subsided into
 their several places in the domestic system. That small world, like the
 great one out of doors, had the capacity of easily forgetting its dead;
 and when the cook had said she was a quiet-tempered lady, and the
-[[house]]-keeper had said it was the common lot, and the butler had said
+house-keeper had said it was the common lot, and the butler had said
 who’d have thought it, and the housemaid had said she couldn’t hardly
-believe it, and the footman had said it seemed exactly like [[A Dream|a dream]],
+believe it, and the footman had said it seemed exactly like a dream,
 they had quite worn the subject out, and began to think their mourning
 was wearing rusty too.
 
 On Richards, who was established upstairs in a state of honourable
 captivity, the [[motifs/dawn|dawn]] of her new life seemed to break cold and grey. Mr
-Dombey’s [[house]] was a large one, on the shady side of a tall, dark,
+Dombey’s house was a large one, on the shady side of a tall, dark,
 dreadfully genteel street in the region between Portland Place and
-Bryanstone Square. It was a corner [[house]], with great wide areas
+Bryanstone Square. It was a corner house, with great wide areas
 containing cellars frowned upon by barred windows, and leered at by
-crooked-eyed doors leading to dustbins. It was a [[house]] of dismal state,
+crooked-eyed doors leading to dustbins. It was a house of dismal state,
 with a circular back to it, containing a whole suite of drawing-rooms
 looking upon a gravelled yard, where two gaunt trees, with blackened
 trunks and branches, rattled rather than rustled, their [[motifs/leaves|leaves]] were so
@@ -1523,10 +1523,10 @@ day; and the bands of music and the straggling Punch’s shows going
 after it, left it a prey to the most dismal of organs, and white mice;
 with now and then a porcupine, to vary the entertainments; until the
 butlers whose families were dining out, began to stand at the
-[[house]]-doors in the twilight, and the lamp-lighter made his nightly
+house-doors in the twilight, and the lamp-lighter made his nightly
 failure in attempting to brighten up the street with gas.
 
-It was as blank a [[house]] inside as outside. When the funeral was over,
+It was as blank a house inside as outside. When the funeral was over,
 Mr Dombey ordered the furniture to be covered up—perhaps to preserve it
 for the son with whom his plans were all associated—and the rooms to be
 ungarnished, saving such as he retained for himself on the ground
@@ -1540,9 +1540,9 @@ Odours, as from vaults and damp places, came out of the chimneys. The
 dead and buried lady was awful in a picture-frame of ghastly bandages.
 Every gust of [[motifs/wind|wind]] that [[motifs/rose|rose]], brought eddying round the corner from the
 neighbouring mews, some fragments of the straw that had been strewn
-before the [[house]] when she was ill, mildewed remains of which were still
+before the house when she was ill, mildewed remains of which were still
 cleaving to the neighbourhood: and these, being always drawn by some
-invisible attraction to the threshold of the dirty [[house]] to let
+invisible attraction to the threshold of the dirty house to let
 immediately opposite, addressed a dismal eloquence to Mr Dombey’s
 windows.
 
@@ -1559,13 +1559,13 @@ his breakfast in one or other of the two first-mentioned of them, as
 for Richards to repair to this glass chamber, and there walk to and fro
 with her young charge. From the glimpses she caught of Mr Dombey at
 these times, sitting in the dark distance, looking out towards the
-infant from among the dark heavy furniture—the [[house]] had been inhabited
+infant from among the dark heavy furniture—the house had been inhabited
 for years by his father, and in many of its appointments was
 old-fashioned and grim—she began to entertain ideas of him in his
 solitary state, as if he were a lone prisoner in a cell, or a strange
 apparition that was not to be accosted or understood. Mr Dombey came to
 be, in the course of a few days, invested in his own person, to her
-simple thinking, with all the mystery and gloom of his [[house]]. As she
+simple thinking, with all the mystery and gloom of his house. As she
 walked up and down the glass room, or sat hushing the baby there—which
 she very often did for hours together, when the dusk was closing in,
 too—she would sometimes try to pierce the gloom beyond, and make out
@@ -1664,7 +1664,7 @@ The [[archetypes/child|child]], who had dropped her head, raised it again, and s
 at her intently.
 
 “So; let me see,” said Polly, not a little flurried between this
-earnest scrutiny, her [[motifs/desire|desire]] to comfort the [[archetypes/child|child]], her sudden [[success]],
+earnest scrutiny, her [[motifs/desire|desire]] to comfort the [[archetypes/child|child]], her sudden success,
 and her very slight confidence in her own powers. “So, when this lady
 died, wherever they took her, or wherever they put her, she went to
 GOD! and she prayed to Him, this lady did,” said Polly, affecting
@@ -1717,7 +1717,7 @@ breath, if possible.
 “Miss Florence has just come [[motifs/home|home]], hasn’t she?” asked Polly.
 
 “Yes, Mrs Richards, just come, and here, Miss Floy, before you’ve been
-in the [[house]] a quarter of an hour, you go a smearing your wet face
+in the house a quarter of an hour, you go a smearing your wet face
 against the expensive mourning that Mrs Richards is a wearing for your
 Ma!” With this remonstrance, young Spitfire, whose real name was Susan
 Nipper, detached the [[archetypes/child|child]] from her new friend by a wrench—as if she
@@ -1743,7 +1743,7 @@ it!”
 
 “Lork, Mrs Richards, no, her Pa’s a deal too wrapped up in somebody
 else, and before there was a somebody else to be wrapped up in she
-never was a favourite, girls are thrown away in this [[house]], Mrs
+never was a favourite, girls are thrown away in this house, Mrs
 Richards, I assure you.”
 
 The [[archetypes/child|child]] looked quickly from one [[characters/nurse|nurse]] to the other, as if she
@@ -1796,7 +1796,7 @@ Richards, but I mayn’t know how to leave the [[settings/london|London]] Docks.
 
 Richards assented to the proposition.
 
-“This [[house]] ain’t so exactly ringing with merry-making,” said Miss
+“This house ain’t so exactly ringing with merry-making,” said Miss
 Nipper, “that one need be lonelier than one must be. Your Toxes and
 your Chickses may draw out my two front [[topoi/double|double]] teeth, Mrs Richards, but
 that’s no reason why I need offer ’em the whole set.”
@@ -1816,7 +1816,7 @@ The [[archetypes/child|child]], in her grief and neglect, was so gentle, so quie
 uncomplaining; was possessed of so much affection that no one seemed to
 care to have, and so much sorrowful intelligence that no one seemed to
 mind or think about the wounding of, that Polly’s heart was sore when
-she was left [[Alone|alone]] again. In the simple passage that had taken place
+she was left alone again. In the simple passage that had taken place
 between herself and the motherless little girl, her own motherly heart
 had been touched no less than the [[archetypes/child|child]]’s; and she felt, as the [[archetypes/child|child]]
 did, that there was something of confidence and interest between them
@@ -1962,7 +1962,7 @@ could sound it.
 
 His feeling about the [[archetypes/child|child]] had been negative from her birth. He had
 never conceived an aversion to her: it had not been worth his while or
-in his [[Humour|humour]]. She had never been a positively disagreeable object to
+in his humour. She had never been a positively disagreeable object to
 him. But now he was ill at ease about her. She troubled his peace. He
 would have preferred to put her idea aside altogether, if he had known
 how. Perhaps—who shall decide on such mysteries!—he was afraid that he
@@ -2057,7 +2057,7 @@ without regarding me.”
 The [[archetypes/child|child]] shrunk as she listened—and was gone, before her humble friend
 looked round again.
 
-However, Polly triumphed not a little in the [[success]] of her
+However, Polly triumphed not a little in the success of her
 [[motifs/well|well]]-intentioned scheme, and in the address with which she had brought
 it to bear: whereof she made a full disclosure to Spitfire when she was
 once more safely entrenched upstairs. Miss Nipper received that proof
@@ -2076,7 +2076,7 @@ put an additional bone in her stays.
 “Oh! Being only a permanency I couldn’t be expected to show it like a
 temporary,” said [[characters/susan-nipper|Susan Nipper]]. “Temporaries carries it all before ’em
 here, I find, but though there’s a excellent party-wall between this
-[[house]] and the next, I mayn’t exactly like to go to it, Mrs Richards,
+house and the next, I mayn’t exactly like to go to it, Mrs Richards,
 notwithstanding!”
 
 
@@ -2098,7 +2098,7 @@ adjacent objects. Gog and Magog held their state within ten minutes’
 walk; the Royal Exchange was close at hand; the Bank of England, with
 its vaults of gold and silver “down among the dead men” underground,
 was their magnificent neighbour. Just round the corner stood the rich
-East India [[house|House]], teeming with suggestions of precious stuffs and
+East India House, teeming with suggestions of precious stuffs and
 stones, tigers, elephants, howdahs, hookahs, umbrellas, palm trees,
 palanquins, and gorgeous princes of a brown complexion sitting on
 carpets, with their slippers very much turned up at the toes. Anywhere
@@ -2116,7 +2116,7 @@ endurable, and had the shoe buckles and flapped waistcoat the least
 reconcileable to human reason, and bore at its right eye the most
 offensively disproportionate piece of machinery—sole master and
 proprietor of that Midshipman, and proud of him too, an elderly
-gentleman in a Welsh wig had paid [[house]]-rent, taxes, rates, and dues,
+gentleman in a Welsh wig had paid house-rent, taxes, rates, and dues,
 for more years than many a full-grown midshipman of flesh and [[motifs/blood|blood]] has
 numbered in his life; and midshipmen who have attained a pretty green
 old age, have not been wanting in the English Navy.
@@ -2132,7 +2132,7 @@ got back again into their mahogany nests without assistance. Everything
 was jammed into the tightest cases, fitted into the narrowest corners,
 fenced up behind the most impertinent cushions, and screwed into the
 acutest angles, to prevent its philosophical composure from being
-disturbed by the [[rolling]] of the sea. Such extraordinary precautions
+disturbed by the rolling of the sea. Such extraordinary precautions
 were taken in every instance to save room, and keep the thing compact;
 and so much practical navigation was fitted, and cushioned, and screwed
 into every box (whether the box was a mere slab, as some were, or
@@ -2157,7 +2157,7 @@ Frigate under weigh, was on the plates; outlandish shells, seaweeds,
 and mosses, decorated the chimney-piece; the little wainscotted back
 parlour was lighted by a sky-light, like a cabin.
 
-Here he lived too, in skipper-like state, all [[Alone|alone]] with his nephew
+Here he lived too, in skipper-like state, all alone with his nephew
 Walter: a boy of fourteen who looked quite enough like a midshipman, to
 carry out the prevailing idea. But there it ended, for [[characters/solomon-gills|Solomon Gills]]
 himself (more generally called old Sol) was far from having a maritime
@@ -2193,7 +2193,7 @@ It is half-past five o’[[motifs/clock|clock]], and an [[motifs/autumn|autumn]]
 and [[characters/solomon-gills|Solomon Gills]] become acquainted. [[characters/solomon-gills|Solomon Gills]] is in the act of
 seeing what [[motifs/time|time]] it is by the unimpeachable chronometer. The usual
 daily clearance has been making in the [[motifs/city|City]] for an hour or more; and
-the human tide is still [[rolling]] westward. “The streets have thinned,”
+the human tide is still rolling westward. “The streets have thinned,”
 as Mr Gills says, “very much.” It threatens to be wet tonight. All the
 weatherglasses in the shop are in low spirits, and the rain already
 shines upon the cocked hat of the wooden Midshipman.
@@ -2254,7 +2254,7 @@ engaged on a fried sole with a prospect of steak to follow.
 [[characters/lord-mayor|Lord Mayor]]’s your admiral.”
 
 “Oh, is he though!” said the boy, shaking his head. “Why, the [[works/sword-(chesterton)|Sword]]
-Bearer’s better than him. He draws his [[Sword|sword]] sometimes.”
+Bearer’s better than him. He draws his sword sometimes.”
 
 “And a pretty figure he cuts with it for his pains,” returned the
 Uncle. “Listen to me, Wally, listen to me. Look on the mantelshelf.”
@@ -2292,7 +2292,7 @@ blue-bottle that looks as if it had hung there ever so long.”
 there!) and a coal-scuttle.”
 
 “No bankers’ books, or cheque books, or bills, or such tokens of wealth
-[[rolling]] in from day to day?” said old Sol, looking wistfully at his
+rolling in from day to day?” said old Sol, looking wistfully at his
 nephew out of the fog that always seemed to hang about him, and laying
 an unctuous emphasis upon the words.
 
@@ -2316,7 +2316,7 @@ he. But I could take my oath he said son, Uncle.”
 “No, it’s no matter, but he needn’t have been so sharp, I thought.
 There was no harm in it though he did say son. Then he told me that you
 had spoken to him about me, and that he had found me employment in the
-[[house|House]] accordingly, and that I was expected to be attentive and
+House accordingly, and that I was expected to be attentive and
 punctual, and then he went away. I thought he didn’t seem to like me
 much.”
 
@@ -2329,7 +2329,7 @@ of that.”
 Solomon looked a little graver as he finished his dinner, and glanced
 from [[motifs/time|time]] to [[motifs/time|time]] at the boy’s bright face. When dinner was done, and
 the cloth was cleared away (the entertainment had been brought from a
-neighbouring eating-[[house]]), he lighted a candle, and went down below
+neighbouring eating-house), he lighted a candle, and went down below
 into a little cellar, while his nephew, standing on the mouldy
 staircase, dutifully held the light. After a moment’s groping here and
 there, he presently returned with a very ancient-looking bottle,
@@ -2432,7 +2432,7 @@ have thought it best to use for your advantage, almost the only
 [[forms/fragment|fragment]] of the old connexion that stands by me, through long habit.
 Some people suppose me to be wealthy. I wish for your sake they were
 right. But whatever I leave behind me, or whatever I can give you, you
-in such a [[house|House]] as Dombey’s are in the [[motifs/road|road]] to use [[motifs/well|well]] and make the
+in such a House as Dombey’s are in the [[motifs/road|road]] to use [[motifs/well|well]] and make the
 most of. Be diligent, try to like it, my dear boy, work for a steady
 independence, and be happy!”
 
@@ -2453,7 +2453,7 @@ him with inexpressible complacency.
 “Think of this wine for instance,” said old Sol, “which has been to the
 East Indies and back, I’m not able to say how often, and has been once
 round the world. Think of the pitch-dark nights, the roaring winds, and
-[[rolling]] seas:”
+rolling seas:”
 
 “The thunder, [[motifs/lightning|lightning]], rain, hail, [[motifs/storm|storm]] of all kinds,” said the boy.
 
@@ -2565,7 +2565,7 @@ were making holiday indeed.
 “Wal”r!” he said, arranging his hair (which was thin) with his hook,
 and then pointing it at the Instrument-maker, “Look at him! [[motifs/love|Love]]!
 [[concepts/honour|Honour]]! And Obey! Overhaul your catechism till you find that passage,
-and when found turn the leaf down. [[success|Success]], my boy!”
+and when found turn the leaf down. Success, my boy!”
 
 He was so perfectly satisfied both with his quotation and his reference
 to it, that he could not help repeating the words again in a low voice,
@@ -2604,7 +2604,7 @@ balloon? There you are. Down in a bell? There you are. D’ye want to put
 the North Star in a pair of scales and weigh it? He’ll do it for you.”
 
 It may be gathered from these remarks that [[characters/captain-cuttle|Captain Cuttle]]’s reverence
-for the stock of instruments was profound, and that his [[philosophy]] knew
+for the stock of instruments was profound, and that his philosophy knew
 little or no distinction between trading in it and inventing it.
 
 “Ah!” he said, with a sigh, “it’s a fine thing to understand ’em. And
@@ -2629,7 +2629,7 @@ have your glass of grog, Ned, we must finish the bottle.”
 “No more, thank’e, Uncle!”
 
 “Yes, yes,” said Sol, “a little more. We’ll finish the bottle, to the
-[[house|House]], Ned—Walter’s [[house|House]]. Why it may be his [[house|House]] one of these days,
+House, Ned—Walter’s House. Why it may be his House one of these days,
 in part. Who knows? Sir [[characters/richard|Richard]] Whittington married his master’s
 daughter.”
 
@@ -2647,7 +2647,7 @@ Overhaul the book, my lad.”
 in the office today. And they do say, Uncle and [[characters/captain-cuttle|Captain Cuttle]],”
 lowering his voice, “that he’s taken a dislike to her, and that she’s
 left, unnoticed, among the servants, and that his mind’s so set all the
-while upon having his son in the [[house|House]], that although he’s only a baby
+while upon having his son in the House, that although he’s only a baby
 now, he is going to have balances struck oftener than formerly, and the
 books kept closer than they used to be, and has even been seen (when he
 thought he wasn’t) walking in the Docks, looking at his ships and
@@ -2814,7 +2814,7 @@ notice of it), “but that there are many persons who, supposing that I
 recognised any claim at all in such a case, have a claim upon me
 superior to Miss Tox’s. But I do not. I recognise no such thing. Paul
 and myself will be able, when the [[motifs/time|time]] comes, to hold our own—the
-[[house|House]], in other words, will be able to hold its own, and maintain its
+House, in other words, will be able to hold its own, and maintain its
 own, and hand down its own of itself, and without any such common-place
 aids. The kind of foreign help which people usually seek for their
 children, I can afford to despise; being above it, I [[concepts/hope|hope]]. So that
@@ -2848,9 +2848,9 @@ Elevated thus to the godmothership of little Paul, in virtue of her
 insignificance, Miss Tox was from that hour chosen and appointed to
 office; and Mr Dombey further signified his pleasure that the ceremony,
 already long delayed, should take place without further postponement.
-His sister, who had been far from anticipating so signal a [[success]],
+His sister, who had been far from anticipating so signal a success,
 withdrew as soon as she could, to communicate it to her best of
-friends; and Mr Dombey was left [[Alone|alone]] in his library. He had already
+friends; and Mr Dombey was left alone in his library. He had already
 laid his hand upon the bellrope to convey his usual summons to
 Richards, when his eye fell upon a writing-desk, belonging to his
 deceased wife, which had been taken, among other things, from a cabinet
@@ -3131,7 +3131,7 @@ the little [[motifs/garden|garden]], their brown and yellow [[motifs/leaves|leav
 as if he blighted them.
 
 Ugh! They were black, cold rooms; and seemed to be in mourning, like
-the inmates of the [[house]]. The books precisely matched as to size, and
+the inmates of the house. The books precisely matched as to size, and
 drawn up in line, like soldiers, looked in their cold, hard, slippery
 uniforms, as if they had but one idea among them, and that was a
 freezer. The bookcase, glazed and locked, repudiated all familiarities.
@@ -3387,7 +3387,7 @@ There was a toothache in everything. The wine was so bitter cold that
 it forced a little scream from Miss Tox, which she had great difficulty
 in turning into a “Hem!” The veal had come from such an airy pantry,
 that the first taste of it had struck a sensation as of cold lead to Mr
-Chick’s extremities. Mr Dombey [[Alone|alone]] remained unmoved. He might have
+Chick’s extremities. Mr Dombey alone remained unmoved. He might have
 been hung up for sale at a Russian fair as a specimen of a frozen
 gentleman.
 
@@ -3448,7 +3448,7 @@ Miss Tox previously settling her head on one side, and making other
 little arrangements for engraving them on her heart.
 
 “During the six months or so, Richards, which have seen you an inmate
-of this [[house]], you have done your duty. Desiring to connect some little
+of this house, you have done your duty. Desiring to connect some little
 service to you with this occasion, I considered how I could best effect
 that object, and I also advised with my sister, Mrs—”
 
@@ -3519,7 +3519,7 @@ and Miss Tox returned the look, and they both [[motifs/rose|rose]] and said it w
 really [[motifs/time|time]] to go. Mr Dombey receiving this announcement with perfect
 equanimity, they took leave of that gentleman, and presently departed
 under the protection of Mr Chick; who, when they had turned their backs
-upon the [[house]] and left its master in his usual solitary state, put his
+upon the house and left its master in his usual solitary state, put his
 hands in his pockets, threw himself back in the carriage, and whistled
 “With a hey ho chevy!” all through; conveying into his face as he did
 so, an expression of such gloomy and terrible defiance, that Mrs Chick
@@ -3638,10 +3638,10 @@ had stopped among the mud and ashes to consider farther of it. A
 bran-new Tavern, redolent of fresh mortar and size, and fronting
 nothing at all, had taken for its sign The Railway Arms; but that might
 be rash enterprise—and then it hoped to sell drink to the workmen. So,
-the Excavators’ [[house|House]] of Call had sprung up from a beer-shop; and the
-old-established Ham and Beef Shop had become the Railway Eating [[house|House]],
+the Excavators’ House of Call had sprung up from a beer-shop; and the
+old-established Ham and Beef Shop had become the Railway Eating House,
 with a roast leg of pork daily, through interested motives of a similar
-immediate and popular description. Lodging-[[house]] keepers were
+immediate and popular description. Lodging-house keepers were
 favourable in like manner; and for the like reasons were not to be
 trusted. The general belief was very slow. There were frowzy fields,
 and cow-houses, and dunghills, and dustheaps, and ditches, and gardens,
@@ -3686,7 +3686,7 @@ To this unhallowed spot, the very name of which had hitherto been
 carefully concealed from Mr Dombey by his sister, was little Paul now
 borne by Fate and Richards
 
-“That’s my [[house]], Susan,” said Polly, pointing it out.
+“That’s my house, Susan,” said Polly, pointing it out.
 
 “Is it, indeed, Mrs Richards?” said Susan, condescendingly.
 
@@ -3884,7 +3884,7 @@ She no sooner saw it than, uttering a hasty exclamation, and giving
 Master Dombey to the black-eyed, she started to the rescue of her
 unhappy little son.
 
-Surprises, like misfortunes, rarely come [[Alone|alone]]. The astonished Susan
+Surprises, like misfortunes, rarely come alone. The astonished Susan
 Nipper and her two young charges were rescued by the bystanders from
 under the very wheels of a passing carriage before they knew what had
 happened; and at that moment (it was market day) a thundering alarm of
@@ -3897,7 +3897,7 @@ torn to pieces, Florence screamed and ran. She ran till she was
 exhausted, urging Susan to do the same; and then, stopping and wringing
 her hands as she remembered they had left the other [[characters/nurse|nurse]] behind,
 found, with a sensation of terror not to be described, that she was
-quite [[Alone|alone]].
+quite alone.
 
 [Illustration]
 
@@ -3957,8 +3957,8 @@ her.
 They had not gone far, but had gone by some very uncomfortable places,
 such as brick-fields and tile-yards, when the old woman turned down a
 dirty lane, where the mud lay in deep black ruts in the middle of the
-[[motifs/road|road]]. She stopped before a shabby little [[house]], as closely shut up as a
-[[house]] that was full of cracks and crevices could be. Opening the door
+[[motifs/road|road]]. She stopped before a shabby little house, as closely shut up as a
+house that was full of cracks and crevices could be. Opening the door
 with a key she took out of her bonnet, she pushed the [[archetypes/child|child]] before her
 into a back room, where there was a great heap of rags of different
 colours lying on the floor; a heap of bones, and a heap of sifted [[motifs/dust|dust]]
@@ -4128,7 +4128,7 @@ on this strange adventure, when, escaping from the clash and clangour
 of a narrow street full of carts and waggons, she peeped into a kind of
 wharf or landing-place upon the [[motifs/river|river]]-side, where there were a great
 many packages, casks, and boxes, strewn about; a large pair of wooden
-scales; and a little wooden [[house]] on wheels, outside of which, looking
+scales; and a little wooden house on wheels, outside of which, looking
 at the neighbouring masts and boats, a stout man stood whistling, with
 his pen behind his ear, and his hands in his pockets, as if his day’s
 work were nearly done.
@@ -4172,7 +4172,7 @@ a blithe-looking boy.
 
 “You’re Dombey’s jockey, ain’t you?” said the first man.
 
-“I’m in Dombey’s [[house|House]], Mr Clark,” returned the boy.
+“I’m in Dombey’s House, Mr Clark,” returned the boy.
 
 “Look’ye here, then,” said Mr Clark.
 
@@ -4239,7 +4239,7 @@ It was growing dark and foggy, and beginning to rain too; but they
 cared nothing for this: being both wholly absorbed in the late
 adventures of Florence, which she related with the [[archetypes/innocent|innocent]] good [[concepts/faith|faith]]
 and confidence of her years, while Walter listened as if, far from the
-mud and grease of Thames Street, they were rambling [[Alone|alone]] among the
+mud and grease of Thames Street, they were rambling alone among the
 broad [[motifs/leaves|leaves]] and tall trees of some [[motifs/desert|desert]] island in the tropics—as he
 very likely fancied, for the [[motifs/time|time]], they were.
 
@@ -4250,7 +4250,7 @@ companion’s face.
 I know. But the offices are shut up now, Miss Dombey. There’s nobody
 there. Mr Dombey has gone [[motifs/home|home]] long ago. I suppose we must go [[motifs/home|home]] too?
 or, stay. Suppose I take you to my Uncle’s, where I live—it’s very near
-here—and go to your [[house]] in a coach to tell them you are safe, and
+here—and go to your house in a coach to tell them you are safe, and
 bring you back some clothes. Won’t that be best?”
 
 “I think so,” answered Florence. “Don’t you? What do you think?”
@@ -4260,7 +4260,7 @@ glanced quickly at Walter as he went by, as if he recognised him; but
 seeming to correct that first impression, he passed on without
 stopping.
 
-“Why, I think it’s Mr Carker,” said Walter. “Carker in our [[house|House]]. Not
+“Why, I think it’s Mr Carker,” said Walter. “Carker in our House. Not
 Carker our Manager, Miss Dombey—the other Carker; the Junior—Halloa! Mr
 Carker!”
 
@@ -4278,7 +4278,7 @@ in ashes. He was respectably, though very plainly dressed, in black;
 but his clothes, moulded to the general character of his figure, seemed
 to shrink and abase themselves upon him, and to join in the sorrowful
 solicitation which the whole man from head to foot expressed, to be
-left unnoticed, and [[Alone|alone]] in his [[concepts/humility|humility]].
+left unnoticed, and alone in his [[concepts/humility|humility]].
 
 And yet his interest in youth and hopefulness was not extinguished with
 the other embers of his [[motifs/soul|soul]], for he watched the boy’s earnest
@@ -4438,7 +4438,7 @@ architecture; and looking, in the dim shade, and in the close vicinity
 of all the instruments, like a magician disguised in a Welsh wig and a
 suit of coffee colour, who held the [[archetypes/child|child]] in an enchanted [[motifs/sleep|sleep]].
 
-In the meantime, Walter proceeded towards Mr Dombey’s [[house]] at a pace
+In the meantime, Walter proceeded towards Mr Dombey’s house at a pace
 seldom achieved by a hack [[motifs/horse|horse]] from the stand; and yet with his head
 out of [[motifs/window|window]] every two or three minutes, in impatient remonstrance
 with the driver. Arriving at his [[motifs/journey|journey]]’s end, he leaped out, and
@@ -4479,7 +4479,7 @@ being a fortunate instrument? Be plain and coherent, if you please.”
 
 It was quite out of Walter’s power to be coherent; but he rendered
 himself as explanatory as he could, in his breathless state, and stated
-why he had come [[Alone|alone]].
+why he had come alone.
 
 “You hear this, girl?” said Mr Dombey sternly to the black-eyed. “Take
 what is necessary, and return immediately with this young man to fetch
@@ -4521,7 +4521,7 @@ Old Sol was quite delighted, and kissed her like her grand-father.
 “I’ll never forget you,” pursued Florence. “No! indeed I never will.
 Good-bye, Walter!”
 
-In the [[innocence]] of her grateful heart, the [[archetypes/child|child]] lifted up her face to
+In the innocence of her grateful heart, the [[archetypes/child|child]] lifted up her face to
 his. Walter, bending down his own, raised it again, all red and
 burning; and looked at Uncle Sol, quite sheepishly.
 
@@ -4530,7 +4530,7 @@ hands once more, Walter!” This was still Florence’s cry, after she was
 shut up with her little maid, in the coach. And when the coach at
 length moved off, Walter on the door-step gaily returned the waving of
 her handkerchief, while the wooden Midshipman behind him seemed, like
-himself, intent upon that coach [[Alone|alone]], excluding all the other passing
+himself, intent upon that coach alone, excluding all the other passing
 coaches from his observation.
 
 In good [[motifs/time|time]] Mr Dombey’s mansion was gained again, and again there was
@@ -4546,7 +4546,7 @@ corruption of human [[concepts/nature|nature]], even when beckoned to the paths 
 by a Charitable Grinder; and received her with a welcome something
 short of the reception due to none but perfect Dombeys. Miss Tox
 regulated her feelings by the models before her. Richards, the culprit
-Richards, [[Alone|alone]] poured out her heart in broken words of welcome, and
+Richards, alone poured out her heart in broken words of welcome, and
 bowed herself over the little wandering head as if she really loved it.
 
 “Ah, Richards!” said Mrs Chick, with a sigh. “It would have been much
@@ -4568,7 +4568,7 @@ retributive effect might be produced in [[motifs/time|time]], for it was a [[mot
 sobs and blows.
 
 “Louisa!” said Mr Dombey. “It is not necessary to prolong these
-observations. The woman is discharged and paid. You leave this [[house]],
+observations. The woman is discharged and paid. You leave this house,
 Richards, for taking my son—my son,” said Mr Dombey, emphatically
 repeating these two words, “into haunts and into society which are not
 to be thought of without a shudder. As to the accident which befel Miss
@@ -4608,7 +4608,7 @@ A Bird’s-eye Glimpse of Miss Tox’s Dwelling-place: also of the State of
 Miss Tox’s Affections
 
 
-Miss Tox inhabited a dark little [[house]] that had been squeezed, at some
+Miss Tox inhabited a dark little house that had been squeezed, at some
 remote period of English [[concepts/history|History]], into a fashionable neighbourhood at
 the west end of the town, where it stood in the shade like a poor
 relation of the great street round the corner, coldly looked down upon
@@ -4625,7 +4625,7 @@ the [[motifs/memory|memory]] of man; and on fine mornings, the top of every rail
 were eight-and-forty, as Miss Tox had often counted) was decorated with
 a pewter-pot.
 
-There was another private [[house]] besides Miss Tox’s in Princess’s Place:
+There was another private house besides Miss Tox’s in Princess’s Place:
 not to mention an immense Pair of gates, with an immense pair of
 [[motifs/lion|lion]]-headed knockers on them, which were never opened by any chance,
 and were supposed to constitute a disused entrance to somebody’s
@@ -4637,7 +4637,7 @@ the most domestic and confidential garments of coachmen and their wives
 and families, usually hung, like [[characters/macbeth|Macbeth]]’s banners, on the outward
 walls.
 
-At this other private [[house]] in Princess’s Place, tenanted by a retired
+At this other private house in Princess’s Place, tenanted by a retired
 butler who had married a housekeeper, apartments were let Furnished, to
 a single gentleman: to wit, a wooden-featured, blue-faced Major, with
 his eyes starting out of his head, in whom Miss Tox recognised, as she
@@ -4648,8 +4648,8 @@ servant of the Major’s who Miss Tox was quite content to classify as a
 “native,” without connecting him with any geographical idea whatever.
 
 Perhaps there never was a smaller entry and staircase, than the entry
-and staircase of Miss Tox’s [[house]]. Perhaps, taken altogether, from top
-to [[characters/bottom|bottom]], it was the most inconvenient little [[house]] in England, and
+and staircase of Miss Tox’s house. Perhaps, taken altogether, from top
+to [[characters/bottom|bottom]], it was the most inconvenient little house in England, and
 the crookedest; but then, Miss Tox said, what a situation! There was
 very little daylight to be got there in the [[motifs/winter|winter]]: no sun at the best
 of times: air was out of the question, and traffic was walled out.
@@ -4676,7 +4676,7 @@ fireplace. The greater part of the furniture was of the powdered-head
 and pig-tail period: comprising a plate-warmer, always languishing and
 sprawling its four attenuated bow legs in somebody’s way; and an
 obsolete harpsichord, illuminated round the maker’s name with a painted
-garland of sweet peas. In any part of the [[house]], visitors were usually
+garland of sweet peas. In any part of the house, visitors were usually
 cognizant of a prevailing mustiness; and in warm weather Miss Tox had
 been seen apparently writing in sundry chinks and crevices of the
 wainscoat with the wrong end of a pen dipped in spirits of
@@ -4693,7 +4693,7 @@ eye on him. This he had several times hinted at the club: in connexion
 with little jocularities, of which old Joe Bagstock, old Joey Bagstock,
 old J. Bagstock, old Josh Bagstock, or so forth, was the perpetual
 theme: it being, as it were, the Major’s stronghold and donjon-keep of
-light [[Humour|humour]], to be on the most familiar terms with his own name.
+light humour, to be on the most familiar terms with his own name.
 
 “Joey B., Sir,” the Major would say, with a flourish of his
 walking-stick, “is worth a dozen of you. If you had a few more of the
@@ -4749,7 +4749,7 @@ from Princess’s Place, the Major stood looking after her with a bluer
 face than ever: muttering and growling some not at all complimentary
 remarks.
 
-“Why, damme, Sir,” said the Major, [[rolling]] his lobster eyes round and
+“Why, damme, Sir,” said the Major, rolling his lobster eyes round and
 round Princess’s Place, and apostrophizing its fragrant air, “six
 months ago, the woman loved the ground Josh Bagstock walked on. What’s
 the meaning of it?”
@@ -4768,7 +4768,7 @@ return the Major’s greeting; but now, she never gave the Major a
 chance, and cared nothing at all whether he looked over the way or not.
 Other changes had come to pass too. The Major, standing in the shade of
 his own apartment, could make out that an air of greater smartness had
-recently come over Miss Tox’s [[house]]; that a new cage with gilded wires
+recently come over Miss Tox’s house; that a new cage with gilded wires
 had been provided for the ancient little canary bird; that divers
 ornaments, cut out of coloured card-boards and paper, seemed to
 decorate the chimney-piece and tables; that a plant or two had suddenly
@@ -4797,7 +4797,7 @@ stare to that extent, that his eyes, compared with what they now
 became, had been in former times quite cavernous and sunken. Day after
 day, two, three, four times a week, this Baby reappeared. The Major
 continued to stare and whistle. To all other intents and purposes he
-was [[Alone|alone]] in Princess’s Place. Miss Tox had ceased to mind what he did.
+was alone in Princess’s Place. Miss Tox had ceased to mind what he did.
 He might have been black as [[motifs/well|well]] as blue, and it would have been of no
 consequence to her.
 
@@ -4925,7 +4925,7 @@ of that talent.
 
 It is hardly necessary to observe, that no touch of this quality ever
 reached the magnificent knowledge of Mr Dombey. It would have been
-remarkable, indeed, if any had; when no one in the [[house]]—not even Mrs
+remarkable, indeed, if any had; when no one in the house—not even Mrs
 Chick or Miss Tox—dared ever whisper to him that there had, on any one
 occasion, been the least reason for uneasiness in reference to little
 Paul. He had settled, within himself, that the [[archetypes/child|child]] must necessarily
@@ -4986,7 +4986,7 @@ and rapt attention of a sage. Mr Dombey entertaining complicated
 worldly schemes and plans; the little image entertaining Heaven knows
 what wild fancies, half-formed thoughts, and wandering speculations. Mr
 Dombey stiff with starch and arrogance; the little image by
-inheritance, and in unconscious [[Imitation|imitation]]. The two so very much alike,
+inheritance, and in unconscious imitation. The two so very much alike,
 and yet so monstrously contrasted.
 
 
@@ -5139,9 +5139,9 @@ it; and remained, addressed towards the flickering blaze, until the
 that attendant, with great pathos.
 
 “No, I won’t,” replied Paul, composing himself in his arm-chair again,
-like the master of the [[house]].
+like the master of the house.
 
-Invoking a blessing upon his [[innocence]], Mrs Wickam withdrew, and
+Invoking a blessing upon his innocence, Mrs Wickam withdrew, and
 presently Florence appeared in her stead. The [[archetypes/child|child]] immediately started
 up with sudden readiness and animation, and raised towards his father
 in bidding him good-[[motifs/night|night]], a countenance so much brighter, so much
@@ -5193,7 +5193,7 @@ subject of Funerals!”
 those persons upstairs suggest improper subjects to the [[archetypes/child|child]]. He was
 speaking to me last [[motifs/night|night]] about his—about his Bones,” said Mr Dombey,
 laying an irritated stress upon the word. “What on earth has anybody to
-do with the—with the—Bones of my son? He is not a living [[skeleton]], I
+do with the—with the—Bones of my son? He is not a living skeleton, I
 suppose.”
 
 “Very far from it,” said Mrs Chick, with unspeakable expression.
@@ -5256,7 +5256,7 @@ prevented by any care or caution. The sooner you understand that, Paul,
 and admit that, the better. If you have any [[concepts/doubt|doubt]] as to the amount of
 care, and caution, and affection, and [[concepts/self-sacrifice|self-sacrifice]], that has been
 bestowed upon little Paul, I should wish to refer the question to your
-medical attendant, or to any of your dependants in this [[house]]. Call
+medical attendant, or to any of your dependants in this house. Call
 Towlinson,” said Mrs Chick, “I believe he has no prejudice in our
 favour; quite the contrary. I should wish to hear what accusation
 Towlinson can make!”
@@ -5269,7 +5269,7 @@ Towlinson can make!”
 
 “Surely you must know, Louisa,” observed Mr Dombey, “that I don’t
 question your natural devotion to, and regard for, the future head of
-my [[house]].”
+my house.”
 
 “I am glad to hear it, Paul,” said Mrs Chick; “but really you are very
 odd, and sometimes talk very strangely, though without meaning it, I
@@ -5299,7 +5299,7 @@ upstairs before him, which it would be as [[motifs/well|well]] for his little mi
 to expatiate upon; but I really don’t see how that is to be helped, in
 the case of a [[archetypes/child|child]] of his quickness. If he were a common [[archetypes/child|child]], there
 would be nothing in it. I must say I think, with Miss Tox, that a short
-absence from this [[house]], the air of Brighton, and the bodily and mental
+absence from this house, the air of Brighton, and the bodily and mental
 training of so judicious a person as Mrs Pipchin for instance—”
 
 “Who is Mrs Pipchin, Louisa?” asked Mr Dombey; aghast at this familiar
@@ -5307,7 +5307,7 @@ introduction of a name he had never heard before.
 
 “Mrs Pipchin, my dear Paul,” returned his sister, “is an elderly
 lady—Miss Tox knows her whole [[concepts/history|history]]—who has for some [[motifs/time|time]] devoted all
-the energies of her mind, with the greatest [[success]], to the study and
+the energies of her mind, with the greatest success, to the study and
 treatment of infancy, and who has been extremely [[motifs/well|well]] connected. Her
 husband broke his heart in—how did you say her husband broke his heart,
 my dear? I forget the precise circumstances.
@@ -5337,7 +5337,7 @@ Miss Tox?” the Mr Dombey, condescendingly.
 “Why, I really don’t know,” rejoined that lady, “whether I am justified
 in calling it so. It is not a Preparatory School by any means. Should I
 express my meaning,” said Miss Tox, with peculiar sweetness, “if I
-designated it an infantine Boarding-[[house|House]] of a very select
+designated it an infantine Boarding-House of a very select
 description?”
 
 “On an exceedingly limited and particular scale,” suggested Mrs Chick,
@@ -5416,7 +5416,7 @@ cupping-glasses. In the [[motifs/winter|winter]] [[motifs/time|time]] the air co
 continual reverberation of [[motifs/wind|wind]] in it, that it sounded like a great
 shell, which the inhabitants were obliged to hold to their ears [[motifs/night|night]]
 and day, whether they liked it or no. It was not, naturally, a
-fresh-smelling [[house]]; and in the [[motifs/window|window]] of the front parlour, which was
+fresh-smelling house; and in the [[motifs/window|window]] of the front parlour, which was
 never opened, Mrs Pipchin kept a collection of plants in pots, which
 imparted an earthy flavour of their own to the establishment. However
 choice examples of their kind, too, these plants were of a kind
@@ -5458,7 +5458,7 @@ having sniffed thrice, in the presence of visitors.
 me?”
 
 “I don’t think I shall like you at all,” replied Paul. “I want to go
-away. This isn’t my [[house]].”
+away. This isn’t my house.”
 
 “No. It’s mine,” retorted Mrs Pipchin.
 
@@ -5519,13 +5519,13 @@ nodding too.
 
 
 At last it was the children’s bedtime, and after prayers they went to
-bed. As little Miss Pankey was afraid of sleeping [[Alone|alone]] in the dark,
+bed. As little Miss Pankey was afraid of sleeping alone in the dark,
 Mrs Pipchin always made a point of driving her upstairs herself, like a
 sheep; and it was cheerful to hear Miss Pankey moaning long afterwards,
 in the least eligible chamber, and Mrs Pipchin now and then going in to
 shake her. At about half-past nine o’[[motifs/clock|clock]] the odour of a warm
 sweet-bread (Mrs Pipchin’s constitution wouldn’t go to [[motifs/sleep|sleep]] without
-sweet-bread) diversified the prevailing fragrance of the [[house]], which
+sweet-bread) diversified the prevailing fragrance of the house, which
 Mrs Wickam said was “a smell of building;” and slumber fell upon the
 [[settings/castle|Castle]] shortly after.
 
@@ -5576,7 +5576,7 @@ not fond of her; he was not afraid of her; but in those old, old moods
 of his, she seemed to have a [[concepts/grotesque|grotesque]] attraction for him. There he
 would sit, looking at her, and warming his hands, and looking at her,
 until he sometimes quite confounded Mrs Pipchin, Ogress as she was.
-Once she asked him, when they were [[Alone|alone]], what he was thinking about.
+Once she asked him, when they were alone, what he was thinking about.
 
 [Illustration]
 
@@ -5697,7 +5697,7 @@ Uncle’s [[archetypes/child|child]] made people’s [[motifs/blood|blood]] run 
 
 “How?” asked Berry.
 
-“I wouldn’t have sat up all [[motifs/night|night]] [[Alone|alone]] with Betsey Jane!” said Mrs
+“I wouldn’t have sat up all [[motifs/night|night]] alone with Betsey Jane!” said Mrs
 Wickam, “not if you’d have put Wickam into business next morning for
 himself. I couldn’t have done it, Miss Berry.
 
@@ -5772,7 +5772,7 @@ Mrs Pipchin habitually consumed the toast.
 “Remember my words, Miss Berry,” said Mrs Wickam, “and be thankful that
 Master Paul is not too fond of you. I am, that he’s not too fond of me,
 I assure you; though there isn’t much to live for—you’ll excuse my
-being so free—in this jail of a [[house]]!”
+being so free—in this jail of a house!”
 
 
 
@@ -5807,7 +5807,7 @@ an old lady, Miss Berry, and it’s what you must have looked for,
 often.”
 
 This consolatory farewell, Mrs Wickam accompanied with a look of
-heartfelt anguish; and being left [[Alone|alone]] with the two children again,
+heartfelt anguish; and being left alone with the two children again,
 and becoming conscious that the [[motifs/wind|wind]] was blowing mournfully, she
 indulged in [[concepts/melancholy|melancholy]]—that cheapest and most accessible of
 luxuries—until she was overpowered by slumber.
@@ -5837,7 +5837,7 @@ With this notable attendant to pull him along, and Florence always
 walking by his side, and the despondent Wickam bringing up the rear, he
 went down to the margin of the ocean every day; and there he would sit
 or lie in his carriage for hours together: never so distressed as by
-the company of children—Florence [[Alone|alone]] excepted, always.
+the company of children—Florence alone excepted, always.
 
 “Go away, if you please,” he would say to any [[archetypes/child|child]] who came to bear
 him company. “Thank you, but I don’t want you.”
@@ -5892,7 +5892,7 @@ Florence asked him what he thought he heard.
 “I want to know what it says,” he answered, looking steadily in her
 face. “The sea” Floy, what is it that it keeps on saying?”
 
-She told him that it was only the noise of the [[rolling]] waves.
+She told him that it was only the noise of the rolling waves.
 
 “Yes, yes,” he said. “But I know that they are always saying something.
 Always the same thing. What place is over there?” He [[motifs/rose|rose]] up, looking
@@ -5916,7 +5916,7 @@ CHAPTER IX.
 In which the Wooden Midshipman gets into Trouble
 
 
-That spice of [[Romance|romance]] and [[motifs/love|love]] of the marvellous, of which there was a
+That spice of romance and [[motifs/love|love]] of the marvellous, of which there was a
 pretty strong infusion in the [[concepts/nature|nature]] of young [[characters/walter-gay|Walter Gay]], and which the
 guardianship of his Uncle, old [[characters/solomon-gills|Solomon Gills]], had not very much
 weakened by the waters of stern practical experience, was the occasion
@@ -5940,7 +5940,7 @@ the master and part-owner of a Newcastle collier. In this stirring
 legend, [[characters/captain-cuttle|Captain Cuttle]] descried a profound metaphysical bearing on the
 case of Walter and Florence; and it excited him so much, that on very
 festive occasions, as birthdays and a few other non-Dominical holidays,
-he would roar through the whole [[Song|song]] in the little back parlour; making
+he would roar through the whole song in the little back parlour; making
 an amazing shake on the word Pe-e-eg, with which every verse concluded,
 in compliment to the heroine of the piece.
 
@@ -5955,7 +5955,7 @@ parlour of an evening, he had drawn a whole gallery of fancy portraits
 of Good Mrs Brown. It may be that he became a little smarter in his
 dress after that memorable occasion; and he certainly liked in his
 leisure [[motifs/time|time]] to walk towards that quarter of the town where Mr Dombey’s
-[[house]] was situated, on the vague chance of passing little Florence in
+house was situated, on the vague chance of passing little Florence in
 the street. But the sentiment of all this was as boyish and [[archetypes/innocent|innocent]] as
 could be. Florence was very pretty, and it is pleasant to admire a
 pretty face. Florence was defenceless and weak, and it was a proud
@@ -6105,7 +6105,7 @@ relieve you of ’em, and I don’t.”
 
 [[characters/solomon-gills|Solomon Gills]] persisted that there was nothing the matter; and
 maintained it so resolutely, that his nephew had no resource but to
-make a very indifferent [[Imitation|imitation]] of believing him.
+make a very indifferent imitation of believing him.
 
 “All I can say is, Uncle Sol, that if there is—”
 
@@ -6304,7 +6304,7 @@ moments of recreation from tumbling down the steps.
 “A boy that can knock my door down,” said Mrs MacStinger,
 contemptuously, “can get over that, I should [[concepts/hope|hope]]!” But Walter, taking
 this as a permission to enter, and getting over it, Mrs MacStinger
-immediately demanded whether an Englishwoman’s [[house]] was her [[settings/castle|castle]] or
+immediately demanded whether an Englishwoman’s house was her [[settings/castle|castle]] or
 not; and whether she was to be broke in upon by “raff.” On these
 subjects her thirst for information was still very importunate, when
 Walter, having made his way up the little staircase through an
@@ -6376,7 +6376,7 @@ further allusion to the knocker, and glided in again.
 
 Some five minutes elapsed before [[characters/captain-cuttle|Captain Cuttle]] could summon [[concepts/courage|courage]] to
 attempt his escape; for Walter waited so long at the street corner,
-looking back at the [[house]], before there were any symptoms of the hard
+looking back at the house, before there were any symptoms of the hard
 glazed hat. At length the Captain burst out of the door with the
 suddenness of an explosion, and coming towards him at a great pace, and
 never once looking over his shoulder, pretended, as soon as they were
@@ -6388,7 +6388,7 @@ walking along.
 “I am afraid so. If you had seen him this morning, you would never have
 forgotten it.”
 
-“Walk fast, Wal”r, my lad,” returned the Captain, [[mending]] his pace;
+“Walk fast, Wal”r, my lad,” returned the Captain, mending his pace;
 “and walk the same all the days of your life. Overhaul the catechism
 for that advice, and keep it!”
 
@@ -6434,7 +6434,7 @@ the figures: “all’s fish that comes to your net, I suppose?”
 
 “Certainly,” said Mr Brogley. “But sprats ain’t whales, you know.”
 
-The [[philosophy]] of this observation seemed to strike the Captain. He
+The philosophy of this observation seemed to strike the Captain. He
 ruminated for a minute; eyeing the broker, meanwhile, as a deep genius;
 and then called the Instrument-maker aside.
 
@@ -6524,7 +6524,7 @@ I’ll back you, my boy. I’ll back you, Wal”r. We’ll go to Brighton by
 the afternoon’s coach.”
 
 If the application must be made to Mr Dombey at all, which was awful to
-think of, Walter felt that he would rather prefer it [[Alone|alone]] and
+think of, Walter felt that he would rather prefer it alone and
 unassisted, than backed by the personal influence of [[characters/captain-cuttle|Captain Cuttle]], to
 which he hardly thought Mr Dombey would attach much weight. But as the
 Captain appeared to be of quite another opinion, and was bent upon it,
@@ -6595,7 +6595,7 @@ de-vilish sly!”
 
 And very tough indeed Master Bitherstone found him, when he took that
 young gentleman out for a walk. But the Major, with his complexion like
-a Stilton [[cheese]], and his eyes like a prawn’s, went roving about,
+a Stilton cheese, and his eyes like a prawn’s, went roving about,
 perfectly indifferent to Master Bitherstone’s amusement, and dragging
 Master Bitherstone along, while he looked about him high and low, for
 Mr Dombey and his children.
@@ -6712,12 +6712,12 @@ Paul on the head, and said of Florence that her eyes would play the
 Devil with the youngsters before long—“and the oldsters too, Sir, if
 you come to that,” added the Major, chuckling very much—stirred up
 Master Bitherstone with his walking-stick, and departed with that young
-gentleman, at a kind of half-trot; [[rolling]] his head and coughing with
+gentleman, at a kind of half-trot; rolling his head and coughing with
 great dignity, as he staggered away, with his legs very wide asunder.
 
 In fulfilment of his promise, the Major afterwards called on Mr Dombey;
 and Mr Dombey, having referred to the army list, afterwards called on
-the Major. Then the Major called at Mr Dombey’s [[house]] in town; and came
+the Major. Then the Major called at Mr Dombey’s house in town; and came
 down again, in the same coach as Mr Dombey. In short, Mr Dombey and the
 Major got on uncommonly [[motifs/well|well]] together, and uncommonly fast: and Mr
 Dombey observed of the Major, to his sister, that besides being quite a
@@ -6729,7 +6729,7 @@ children, and finding the Major again at Brighton, invited him to
 dinner at the Bedford, and complimented Miss Tox highly, beforehand, on
 her neighbour and acquaintance.
 
-“My dearest Louisa,” said Miss Tox to Mrs Chick, when they were [[Alone|alone]]
+“My dearest Louisa,” said Miss Tox to Mrs Chick, when they were alone
 together, on the morning of the appointed day, “if I should seem at all
 reserved to [[characters/major-bagstock|Major Bagstock]], or under any constraint with him, promise
 me not to notice it.”
@@ -6842,7 +6842,7 @@ is old Joe—broad awake, and staring, Sir!” There was no [[concepts/doubt|dou
 last assertion being true, and to a very fearful extent; as it
 continued to be during the greater part of that [[motifs/night|night]], which the Major
 chiefly passed in similar exclamations, diversified with fits of
-coughing and choking that startled the whole [[house]].
+coughing and choking that startled the whole house.
 
 It was on the day after this occasion (being [[characters/sunday|Sunday]]) when, as Mr
 Dombey, Mrs Chick, and Miss Tox were sitting at breakfast, still
@@ -6948,7 +6948,7 @@ Sir, to say that my poor old Uncle is in very great affliction and
 distress. That, through the gradual loss of his business, and not being
 able to make a payment, the apprehension of which has weighed very
 heavily upon his mind, months and months, as indeed I know, Sir, he has
-an execution in his [[house]], and is in danger of losing all he has, and
+an execution in his house, and is in danger of losing all he has, and
 breaking his heart. And that if you would, in your kindness, and in
 your old knowledge of him as a respectable man, do anything to help him
 out of his difficulty, Sir, we never could thank you enough for it.”
@@ -7209,7 +7209,7 @@ Pipchin by Mrs Pipchin’s friends and admirers; and were made to
 harmonise with, and carry out, that [[concepts/melancholy|melancholy]] fact of the deceased Mr
 Pipchin having broken his heart in the Peruvian mines.
 
-For example, there was an honest [[grocer]] and general dealer in the
+For example, there was an honest grocer and general dealer in the
 retail line of business, between whom and Mrs Pipchin there was a small
 memorandum book, with a greasy red cover, perpetually in question, and
 concerning which divers secret councils and conferences were
@@ -7218,7 +7218,7 @@ in the passage, and with closed doors in the parlour. Nor were there
 wanting dark hints from Master Bitherstone (whose temper had been made
 revengeful by the solar heats of India acting on his [[motifs/blood|blood]]), of
 balances unsettled, and of a failure, on one occasion within his
-[[motifs/memory|memory]], in the supply of moist sugar at tea-[[motifs/time|time]]. This [[grocer]] being a
+[[motifs/memory|memory]], in the supply of moist sugar at tea-[[motifs/time|time]]. This grocer being a
 bachelor and not a man who looked upon the surface for [[concepts/beauty|beauty]], had once
 made honourable offers for the hand of Berry, which Mrs Pipchin had,
 with contumely and scorn, rejected. Everybody said how laudable this
@@ -7256,7 +7256,7 @@ perfectly annihilating answer. But as a compensation to her wounded
 feelings, she harassed Master Bitherstone to that extent until
 bed-[[motifs/time|time]], that he began that very [[motifs/night|night]] to make arrangements for an
 overland return to India, by secreting from his supper a quarter of a
-round of bread and a [[forms/fragment|fragment]] of moist Dutch [[cheese]], as the beginning
+round of bread and a [[forms/fragment|fragment]] of moist Dutch cheese, as the beginning
 of a stock of provision to support him on the voyage.
 
 Mrs Pipchin had kept watch and ward over little Paul and his sister for
@@ -7440,10 +7440,10 @@ a supply of learning for a hundred, on the lowest estimate; and it was
 at once the business and delight of his life to gorge the unhappy ten
 with it.
 
-In fact, Doctor Blimber’s establishment was a great hot-[[house]], in which
+In fact, Doctor Blimber’s establishment was a great hot-house, in which
 there was a forcing apparatus incessantly at work. All the boys blew
 before their [[motifs/time|time]]. Mental green-peas were produced at Christmas, and
-intellectual [[asparagus]] all the year round. Mathematical gooseberries
+intellectual asparagus all the year round. Mathematical gooseberries
 (very sour ones too) were common at untimely [[motifs/seasons|seasons]], and from mere
 sprouts of bushes, under Doctor Blimber’s cultivation. Every
 description of Greek and Latin vegetable was got off the driest twigs
@@ -7483,21 +7483,21 @@ with his other hand behind him, and a scarcely perceptible wag of his
 head, made the commonest observation to a nervous stranger, it was like
 a sentiment from the sphynx, and settled his business.
 
-The Doctor’s was a mighty fine [[house]], fronting the sea. Not a joyful
-style of [[house]] within, but quite the contrary. Sad-coloured curtains,
+The Doctor’s was a mighty fine house, fronting the sea. Not a joyful
+style of house within, but quite the contrary. Sad-coloured curtains,
 whose proportions were spare and lean, hid themselves despondently
 behind the windows. The tables and chairs were put away in rows, like
 figures in a sum; fires were so rarely lighted in the rooms of
 ceremony, that they felt like wells, and a visitor represented the
 bucket; the dining-room seemed the last place in the world where any
 eating or drinking was likely to occur; there was no sound through all
-the [[house]] but the ticking of a great [[motifs/clock|clock]] in the hall, which made
+the house but the ticking of a great [[motifs/clock|clock]] in the hall, which made
 itself audible in the very garrets; and sometimes a dull cooing of
 young gentlemen at their lessons, like the murmurings of an assemblage
 of [[concepts/melancholy|melancholy]] pigeons.
 
 Miss Blimber, too, although a slim and graceful maid, did no soft
-violence to the gravity of the [[house]]. There was no light nonsense about
+violence to the gravity of the house. There was no light nonsense about
 Miss Blimber. She kept her hair short and crisp, and wore spectacles.
 She was dry and sandy with working in the graves of deceased languages.
 None of your live languages for Miss Blimber. They must be dead—stone
@@ -7566,7 +7566,7 @@ but the door being opened, it was quickly gone.
 “Doctor Blimber is at [[motifs/home|home]], I believe?” said Mr Dombey.
 
 The man said yes; and as they passed in, looked at Paul as if he were a
-little mouse, and the [[house]] were a trap. He was a weak-eyed young man,
+little mouse, and the house were a trap. He was a weak-eyed young man,
 with the first faint streaks or early [[motifs/dawn|dawn]] of a grin on his
 countenance. It was mere imbecility; but Mrs Pipchin took it into her
 head that it was impudence, and made a snap at him directly.
@@ -7577,7 +7577,7 @@ head that it was impudence, and made a snap at him directly.
 “I ain’t a laughing at nobody, and I’m sure I don’t take you for
 nothing, Ma’am,” returned the young man, in consternation.
 
-“A pack of idle [[dogs]]!” said Mrs Pipchin, “only fit to be turnspits. Go
+“A pack of idle dogs!” said Mrs Pipchin, “only fit to be turnspits. Go
 and tell your master that Mr Dombey’s here, or it’ll be worse for you!”
 
 The weak-eyed young man went, very meekly, to discharge himself of this
@@ -7964,7 +7964,7 @@ Mrs Blimber opined, with something like a shiver, that he was an
 unaccountable [[archetypes/child|child]]; and, allowing for the difference of visage, looked
 at him pretty much as Mrs Pipchin had been used to do.
 
-“Take him round the [[house]], Cornelia,” said the Doctor, “and familiarise
+“Take him round the house, Cornelia,” said the Doctor, “and familiarise
 him with his new sphere. Go with that young lady, Dombey.”
 
 Dombey obeyed; giving his hand to the abstruse Cornelia, and looking at
@@ -8019,7 +8019,7 @@ distinction, adds “P. Toots, Esquire, Brighton, Sussex,” and to
 preserve them in his desk with great care.
 
 These ceremonies passed, Cornelia led Paul upstairs to the top of the
-[[house]]; which was rather a slow [[motifs/journey|journey]], on account of Paul being
+house; which was rather a slow [[motifs/journey|journey]], on account of Paul being
 obliged to land both feet on every stair, before he mounted another.
 But they reached their [[motifs/journey|journey]]’s end at last; and there, in a front
 room, looking over the wild sea, Cornelia showed him a nice little bed
@@ -8145,7 +8145,7 @@ like a little elephant and [[settings/castle|castle]].
 
 
 Grace having been said by the Doctor, dinner began. There was some nice
-soup; also roast meat, boiled meat, vegetables, pie, and [[cheese]]. Every
+soup; also roast meat, boiled meat, vegetables, pie, and cheese. Every
 young gentleman had a massive silver fork, and a napkin; and all the
 arrangements were stately and handsome. In particular, there was a
 butler in a blue coat and bright buttons, who gave quite a winey
@@ -8161,7 +8161,7 @@ side of the table, and frequently looked behind and before the
 intervening boys to catch a glimpse of Paul.
 
 Only once during dinner was there any conversation that included the
-young gentlemen. It happened at the epoch of the [[cheese]], when the
+young gentlemen. It happened at the epoch of the cheese, when the
 Doctor, having taken a glass of port wine, and hemmed twice or thrice,
 said:
 
@@ -8262,7 +8262,7 @@ our studies, Mr Feeder, in half-an-hour.”
 
 The young gentlemen bowed and withdrew. Mr Feeder did likewise. During
 the half-hour, the young gentlemen, broken into pairs, loitered
-arm-in-arm up and down a small piece of ground behind the [[house]], or
+arm-in-arm up and down a small piece of ground behind the house, or
 endeavoured to kindle a spark of animation in the breast of Briggs. But
 nothing happened so vulgar as play. Punctually at the appointed [[motifs/time|time]],
 the gong was sounded, and the studies, under the joint auspices of
@@ -8303,7 +8303,7 @@ inclined to talk, it answered his purpose better than conversation.
 
 At eight o’[[motifs/clock|clock]] or so, the gong sounded again for prayers in the
 dining-room, where the butler afterwards presided over a side-table, on
-which bread and [[cheese]] and beer were spread for such young gentlemen as
+which bread and cheese and beer were spread for such young gentlemen as
 desired to partake of those refreshments. The ceremonies concluded by
 the Doctor’s saying, “Gentlemen, we will resume our studies at seven
 to-morrow;” and then, for the first [[motifs/time|time]], Paul saw Cornelia Blimber’s
@@ -8322,7 +8322,7 @@ take away the candle, when he wished them good-[[motifs/night|night]] and pleasa
 [[motifs/dreams|dreams]]. But his benevolent wishes were in vain, as far as Briggs and
 Tozer were concerned; for Paul, who lay awake for a long while, and
 often woke afterwards, found that Briggs was ridden by his lesson as a
-[[nightmare]]: and that Tozer, whose mind was affected in his [[motifs/sleep|sleep]] by
+nightmare: and that Tozer, whose mind was affected in his [[motifs/sleep|sleep]] by
 similar causes, in a minor degree talked unknown tongues, or scraps of
 Greek and Latin—it was all one to Paul—which, in the [[motifs/silence|silence]] of [[motifs/night|night]],
 had an inexpressibly wicked and guilty effect.
@@ -8335,9 +8335,9 @@ with a drizzling rain: and that the real gong was giving dreadful note
 of preparation, down in the hall.
 
 So he got up directly, and found Briggs with hardly any eyes, for
-[[nightmare]] and grief had made his face puffy, putting his boots on:
+nightmare and grief had made his face puffy, putting his boots on:
 while Tozer stood shivering and rubbing his shoulders in a very bad
-[[Humour|humour]]. Poor Paul couldn’t dress himself easily, not being used to it,
+humour. Poor Paul couldn’t dress himself easily, not being used to it,
 and asked them if they would have the goodness to tie some strings for
 him; but as Briggs merely said “Bother!” and Tozer, “Oh yes!” he went
 down when he was otherwise ready, to the next storey, where he saw a
@@ -8504,12 +8504,12 @@ on [[characters/sunday|Sunday]] nights, when the Doctor’s dark door stood agap
 him up for another week, the [[motifs/time|time]] was come for taking leave of
 Florence; no one else.
 
-Mrs Wickam had been drafted [[motifs/home|home]] to the [[house]] in town, and Miss Nipper,
+Mrs Wickam had been drafted [[motifs/home|home]] to the house in town, and Miss Nipper,
 now a smart young woman, had come down. To many a single combat with
 Mrs Pipchin, did Miss Nipper gallantly devote herself, and if ever Mrs
 Pipchin in all her life had found her match, she had found it now. Miss
 Nipper threw away the scabbard the first morning she arose in Mrs
-Pipchin’s [[house]]. She asked and gave no quarter. She said it must be
+Pipchin’s house. She asked and gave no quarter. She said it must be
 war, and war it was; and Mrs Pipchin lived from that [[motifs/time|time]] in the midst
 of surprises, harassings, and defiances, and skirmishing attacks that
 came bouncing in upon her from the passage, even in unguarded moments
@@ -8676,11 +8676,11 @@ than before.
 The only difference was, that he kept his character to himself. He grew
 more thoughtful and reserved, every day; and had no such curiosity in
 any living member of the Doctor’s household, as he had had in Mrs
-Pipchin. He loved to be [[Alone|alone]]; and in those short intervals when he was
+Pipchin. He loved to be alone; and in those short intervals when he was
 not occupied with his books, liked nothing so [[motifs/well|well]] as wandering about
-the [[house]] by himself, or sitting on the stairs, listening to the great
+the house by himself, or sitting on the stairs, listening to the great
 [[motifs/clock|clock]] in the hall. He was intimate with all the paperhanging in the
-[[house]]; saw things that no one else saw in the patterns; found out
+house; saw things that no one else saw in the patterns; found out
 miniature tigers and lions running up the bedroom walls, and squinting
 faces leering in the squares and diamonds of the floor-cloth.
 
@@ -8775,7 +8775,7 @@ The evenings being longer now, Paul stole up to his [[motifs/window|window]] eve
 evening to look out for Florence. She always passed and repassed at a
 certain [[motifs/time|time]], until she saw him; and their mutual recognition was a
 gleam of sunshine in Paul’s daily life. Often after dark, one other
-figure walked [[Alone|alone]] before the Doctor’s [[house]]. He rarely joined them on
+figure walked alone before the Doctor’s house. He rarely joined them on
 the Saturdays now. He could not bear it. He would rather come
 unrecognised, and look up at the windows where his son was qualifying
 for a man; and wait, and watch, and plan, and [[concepts/hope|hope]].
@@ -8798,7 +8798,7 @@ Shipping Intelligence and Office Business
 Mr Dombey’s offices were in a [[settings/court|court]] where there was an old-established
 stall of choice fruit at the corner: where perambulating merchants, of
 both sexes, offered for sale at any [[motifs/time|time]] between the hours of ten and
-five, slippers, pocket-books, sponges, [[dogs]]’ collars, and Windsor soap;
+five, slippers, pocket-books, sponges, dogs’ collars, and Windsor soap;
 and sometimes a pointer or an oil-painting.
 
 The pointer always came that way, with a view to the Stock Exchange,
@@ -8806,7 +8806,7 @@ where a sporting taste (originating generally in bets of new hats) is
 much in vogue. The other commodities were addressed to the general
 public; but they were never offered by the vendors to Mr Dombey. When
 he appeared, the dealers in those wares fell off respectfully. The
-principal slipper and [[dogs]]’ collar man—who considered himself a public
+principal slipper and dogs’ collar man—who considered himself a public
 character, and whose portrait was screwed on to an [[archetypes/artist|artist]]’s door in
 Cheapside—threw up his forefinger to the brim of his hat as Mr Dombey
 went by. The ticket-porter, if he were not absent on a job, always ran
@@ -8815,7 +8815,7 @@ possible, and hold it open, with his hat off, while he entered.
 
 The clerks within were not a whit behind-hand in their demonstrations
 of respect. A solemn hush prevailed, as Mr Dombey passed through the
-outer office. The wit of the Counting-[[house|House]] became in a moment as mute
+outer office. The wit of the Counting-House became in a moment as mute
 as the row of leathern [[motifs/fire|fire]]-buckets hanging up behind him. Such vapid
 and flat daylight as filtered through the ground-glass windows and
 skylights, leaving a black sediment upon the panes, showed the books
@@ -8960,7 +8960,7 @@ know.”
 
 “Catch you forgetting anything!” exclaimed Carker, still turning over
 his papers. “If Mr Paul inherits your [[motifs/memory|memory]], he’ll be a troublesome
-customer in the [[house|House]]. One of you is enough.”
+customer in the House. One of you is enough.”
 
 “You have an accurate [[motifs/memory|memory]] of your own,” said Mr Dombey.
 
@@ -9057,7 +9057,7 @@ He crushed the letter in his hand; and having watched Walter out at the
 door, put it in his pocket without breaking the seal.
 
 “These continual references to Mr Carker the Junior,” Mr Carker the
-Manager began, as soon as they were [[Alone|alone]], “are, to a man in my
+Manager began, as soon as they were alone, “are, to a man in my
 position, uttered before one in yours, so unspeakably distressing—”
 
 “Nonsense, Carker,” Mr Dombey interrupted. “You are too sensitive.”
@@ -9092,7 +9092,7 @@ shoulder. “Here is a—”
 
 “In the West Indies. At Barbados. I am going to send you,” said Mr
 Dombey, scorning to embellish the bare [[concepts/truth|truth]], “to fill a junior
-situation in the counting-[[house]] at Barbados. Let your Uncle know from
+situation in the counting-house at Barbados. Let your Uncle know from
 me, that I have chosen you to go to the West Indies.”
 
 Walter’s breath was so completely taken away by his astonishment, that
@@ -9139,7 +9139,7 @@ would be an unpardonable intrusion—especially as he had nothing to
 say—and therefore walked out quite confounded.
 
 Going along the passage, with the mingled consciousness and
-helplessness of [[A Dream|a dream]], he heard Mr Dombey’s door shut again, as Mr
+helplessness of a dream, he heard Mr Dombey’s door shut again, as Mr
 Carker came out: and immediately afterwards that gentleman called to
 him.
 
@@ -9148,7 +9148,7 @@ please.”
 
 Walter went to the outer office and apprised Mr Carker the Junior of
 his errand, who accordingly came out from behind a partition where he
-sat [[Alone|alone]] in one corner, and returned with him to the room of Mr Carker
+sat alone in one corner, and returned with him to the room of Mr Carker
 the Manager.
 
 That gentleman was standing with his back to the [[motifs/fire|fire]], and his hands
@@ -9170,7 +9170,7 @@ disgrace.”
 
 “From that disgrace,” assented his brother with keen emphasis, “but is
 the fact to be blurted out and trumpeted, and proclaimed continually in
-the presence of the very [[house|House]]! In moments of confidence too? Do you
+the presence of the very House! In moments of confidence too? Do you
 think your name is calculated to harmonise in this place with trust and
 confidence, John Carker?”
 
@@ -9190,7 +9190,7 @@ yourself in my way? Haven’t you injured me enough already?”
 
 During this conversation, Walter had looked from one brother to the
 other, with [[motifs/pain|pain]] and amazement. He who was the Senior in years, and
-Junior in the [[house|House]], stood, with his eyes cast upon the ground, and his
+Junior in the House, stood, with his eyes cast upon the ground, and his
 head bowed, humbly listening to the reproaches of the other. Though
 these were rendered very bitter by the tone and look with which they
 were accompanied, and by the presence of Walter whom they so much
@@ -9246,7 +9246,7 @@ before the [[motifs/fire|fire]].
 “On my Me—on my fallen life!” returned the other, in the same low
 voice, but with a deeper stress on his words than he had yet seemed
 capable of giving them. “Believe me, I have held myself aloof, and kept
-[[Alone|alone]]. This has been unsought by me. I have avoided him and everyone.
+alone. This has been unsought by me. I have avoided him and everyone.
 
 “Indeed, you have avoided me, Mr Carker,” said Walter, with the [[motifs/tears|tears]]
 rising to his eyes; so true was his compassion. “I know it, to my
@@ -9377,14 +9377,14 @@ society, I died.”
 Again his last few words hung trembling upon Walter’s lips, but he
 could neither utter them, nor any of his own.
 
-“The [[house|House]] was very good to me. May Heaven reward the old man for his
+“The House was very good to me. May Heaven reward the old man for his
 forbearance! This one, too, his son, who was then newly in the Firm,
 where I had held great trust! I was called into that room which is now
 his—I have never entered it since—and came out, what you know me. For
-many years I sat in my present seat, [[Alone|alone]] as now, but then a known and
+many years I sat in my present seat, alone as now, but then a known and
 recognised example to the rest. They were all merciful to me, and I
 lived. [[motifs/time|Time]] has altered that part of my poor expiation; and I think,
-except the three heads of the [[house|House]], there is no one here who knows my
+except the three heads of the House, there is no one here who knows my
 story rightly. Before the little boy grows up, and has it told to him,
 my corner may be vacant. I would rather that it might be so! This is
 the only change to me since that day, when I left all youth, and [[concepts/hope|hope]],
@@ -9456,7 +9456,7 @@ thrown into a state of mortal apprehension: not foreseeing where he
 might break out, or what authority he might not quote against him.
 
 As to Briggs, his father made no show of artifice about it. He never
-would leave him [[Alone|alone]]. So numerous and severe were the mental trials of
+would leave him alone. So numerous and severe were the mental trials of
 that unfortunate youth in vacation [[motifs/time|time]], that the friends of the family
 (then resident near Bayswater, [[settings/london|London]]) seldom approached the ornamental
 piece of [[motifs/water|water]] in Kensington Gardens, without a vague expectation of
@@ -9475,7 +9475,7 @@ climbing up the bedroom walls became quite tame and frolicsome. The
 grim sly faces in the squares and diamonds of the floor-cloth, relaxed
 and peeped out at him with less wicked eyes. The [[motifs/grave|grave]] old [[motifs/clock|clock]] had
 more of personal interest in the tone of its formal inquiry; and the
-restless sea went [[rolling]] on all [[motifs/night|night]], to the sounding of a [[concepts/melancholy|melancholy]]
+restless sea went rolling on all [[motifs/night|night]], to the sounding of a [[concepts/melancholy|melancholy]]
 strain—yet it was pleasant too—that [[motifs/rose|rose]] and fell with the waves, and
 rocked him, as it were, to [[motifs/sleep|sleep]].
 
@@ -9608,13 +9608,13 @@ know, Dombey, as [[motifs/well|well]] as we could wish.”
 
 She touched the [[archetypes/child|child]] upon a tender point. He had secretly become more
 and more solicitous from day to day, as the [[motifs/time|time]] of his departure drew
-more near, that all the [[house]] should like him. From some hidden reason,
+more near, that all the house should like him. From some hidden reason,
 very imperfectly understood by himself—if understood at all—he felt a
 gradually increasing impulse of affection, towards almost everything
 and everybody in the place. He could not bear to think that they would
 be quite indifferent to him when he was gone. He wanted them to
 remember him kindly; and he had made it his business even to conciliate
-a great hoarse shaggy dog, chained up at the back of the [[house]], who had
+a great hoarse shaggy dog, chained up at the back of the house, who had
 previously been the terror of his life: that even he might miss him
 when he was no longer there.
 
@@ -9670,7 +9670,7 @@ old-fashioned.
 
 There were some immunities, however, attaching to the character enjoyed
 by no one else. They could have better spared a newer-fashioned [[archetypes/child|child]],
-and that [[Alone|alone]] was much. When the others only bowed to Doctor Blimber
+and that alone was much. When the others only bowed to Doctor Blimber
 and family on retiring for the [[motifs/night|night]], Paul would stretch out his morsel
 of a hand, and boldly shake the Doctor’s; also Mrs Blimber’s; also
 Cornelia’s. If anybody was to be begged off from impending punishment,
@@ -9687,7 +9687,7 @@ unsuccessful attempt to smoke a very blunt cigar: one of a bundle which
 that young gentleman had covertly purchased on the shingle from a most
 desperate smuggler, who had acknowledged, in confidence, that two
 hundred pounds was the price set upon his head, dead or alive, by the
-Custom [[house|House]]. It was a snug room, Mr Feeder’s, with his bed in another
+Custom House. It was a snug room, Mr Feeder’s, with his bed in another
 little room inside of it; and a flute, which Mr Feeder couldn’t play
 yet, but was going to make a point of learning, he said, hanging up
 over the fireplace. There were some books in it, too, and a
@@ -9800,7 +9800,7 @@ astonishment that the door was in quite a different place from that in
 which he had expected to find it, and almost thought, at first, that Mr
 Toots was going to walk straight up the chimney.
 
-It was very kind of Mr Toots to carry him to the top of the [[house]] so
+It was very kind of Mr Toots to carry him to the top of the house so
 tenderly; and Paul told him that it was. But Mr Toots said he would do
 a great deal more than that, if he could; and indeed he did more as it
 was: for he helped Paul to undress, and helped him to bed, in the
@@ -9883,7 +9883,7 @@ people!
 
 He could neither make it out, nor trouble himself long with the effort.
 Mrs Pipchin was again beside him, if she had ever been away (he thought
-she had gone out with the Doctor, but it was all [[A Dream|a dream]] perhaps), and
+she had gone out with the Doctor, but it was all a dream perhaps), and
 presently a bottle and glass got into her hands magically, and she
 poured out the contents for him. After that, he had some real good
 jelly, which Mrs Blimber brought to him herself; and then he was so
@@ -9959,7 +9959,7 @@ observed Paul, “How do you do, Sir?” Paul got into conversation with
 him, and told him he hadn’t been quite [[motifs/well|well]] lately. The ice being thus
 broken, Paul asked him a multitude of questions about chimes and
 clocks: as, whether people watched up in the lonely church steeples by
-[[motifs/night|night]] to make them strike, and how [[The Bells|the bells]] were rung when people
+[[motifs/night|night]] to make them strike, and how the bells were rung when people
 died, and whether those were different [[motifs/bells|bells]] from wedding [[motifs/bells|bells]], or
 only sounded dismal in the fancies of the living. Finding that his new
 acquaintance was not very [[motifs/well|well]] informed on the subject of the Curfew
@@ -9997,7 +9997,7 @@ on little Paul; no preparation for it, or other reference to it, grew
 out of anything he thought or did, except this slight one in connexion
 with his sister. On the contrary, he had to think of everything
 familiar to him, in his contemplative moods and in his wanderings about
-the [[house]], as being to be parted with; and hence the many things he had
+the house, as being to be parted with; and hence the many things he had
 to think of, all day long.
 
 He had to peep into those rooms upstairs, and think how solitary they
@@ -10024,14 +10024,14 @@ upward.
 
 
 At his own bedroom [[motifs/window|window]], there were crowds of thoughts that mixed
-with these, and came on, one upon another, like the [[rolling]] waves.
+with these, and came on, one upon another, like the rolling waves.
 Where those wild [[motifs/birds|birds]] lived, that were always hovering out at sea in
 troubled weather; where the clouds [[motifs/rose|rose]] and first began; whence the
 [[motifs/wind|wind]] issued on its rushing flight, and where it stopped; whether the
 spot where he and Florence had so often sat, and watched, and talked
 about these things, could ever be exactly as it used to be without
 them; whether it could ever be the same to Florence, if he were in some
-distant place, and she were sitting there [[Alone|alone]].
+distant place, and she were sitting there alone.
 
 He had to think, too, of Mr Toots, and Mr Feeder, B.A., of all the
 boys; and of Doctor Blimber, Mrs Blimber, and Miss Blimber; of [[motifs/home|home]],
@@ -10041,7 +10041,7 @@ gruff-voiced Captain with the iron hand. Besides all this, he had a
 number of little visits to pay, in the course of the day; to the
 schoolroom, to Doctor Blimber’s study, to Mrs Blimber’s private
 apartment, to Miss Blimber’s, and to the dog. For he was free of the
-whole [[house]] now, to range it as he chose; and, in his [[motifs/desire|desire]] to part
+whole house now, to range it as he chose; and, in his [[motifs/desire|desire]] to part
 with everybody on affectionate terms, he attended, in his way, to them
 all. Sometimes he found places in books for Briggs, who was always
 losing them; sometimes he looked up words in dictionaries for other
@@ -10054,7 +10054,7 @@ the world, or take a flight among the far-off [[motifs/stars|stars]].
 In those days immediately before the holidays, in short, when the other
 young gentlemen were labouring for dear life through a general
 resumption of the studies of the whole half-year, Paul was such a
-privileged pupil as had never been seen in that [[house]] before. He could
+privileged pupil as had never been seen in that house before. He could
 hardly believe it himself; but his liberty lasted from hour to hour,
 and from day to day; and little Dombey was caressed by everyone. Doctor
 Blimber was so particular about him, that he requested Johnson to
@@ -10079,7 +10079,7 @@ older pupils with admiration and envy; but the younger spirits were
 appalled, and seemed to marvel that no beam fell down and crushed him.
 
 Not the least allusion was made to the ceremonies of the evening,
-either at breakfast or at dinner; but there was a bustle in the [[house]]
+either at breakfast or at dinner; but there was a bustle in the house
 all day, and in the course of his perambulations, Paul made
 acquaintance with various strange benches and candlesticks, and met a
 harp in a green greatcoat standing on the landing outside the
@@ -10093,7 +10093,7 @@ sparkling spectacles, and “Brighton” over the other.
 There was a grand array of white waistcoats and cravats in the young
 gentlemen’s bedrooms as evening approached; and such a smell of singed
 hair, that Doctor Blimber sent up the footman with his compliments, and
-wished to know if the [[house]] was on [[motifs/fire|fire]]. But it was only the
+wished to know if the house was on [[motifs/fire|fire]]. But it was only the
 hairdresser curling the young gentlemen, and over-heating his tongs in
 the ardour of business.
 
@@ -10191,7 +10191,7 @@ her; but a new arrival put that out of his head speedily.
 
 It was Sir Barnet Skettles, Lady Skettles, and Master Skettles. Master
 Skettles was to be a new boy after the vacation, and Fame had been
-busy, in Mr Feeder’s room, with his father, who was in the [[house|House]] of
+busy, in Mr Feeder’s room, with his father, who was in the House of
 Commons, and of whom Mr Feeder had said that when he did catch the
 Speaker’s eye (which he had been expected to do for three or four
 years), it was anticipated that he would rather touch up the Radicals.
@@ -10359,7 +10359,7 @@ frightened at being asked to sing before so many people, and begged
 earnestly to be excused, yet, on Paul calling her to him, and saying,
 “Do, Floy! Please! For me, my dear!” she went straight to the piano,
 and began. When they all drew a little away, that Paul might see her;
-and when he saw her sitting there all [[Alone|alone]], so young, and good, and
+and when he saw her sitting there all alone, so young, and good, and
 beautiful, and kind to him; and heard her thrilling voice, so natural
 and sweet, and such a golden link between him and all his life’s [[motifs/love|love]]
 and happiness, rising out of the [[motifs/silence|silence]]; he turned his face away, and
@@ -10398,7 +10398,7 @@ ago, looked out upon an ocean, miles and miles away; upon its waters,
 fancies, busy with him only yesterday, were hushed and lulled to rest
 like broken waves. The same mysterious murmur he had wondered at, when
 lying on his couch upon the beach, he thought he still heard sounding
-through his sister’s [[Song|song]], and through the hum of voices, and the tread
+through his sister’s song, and through the hum of voices, and the tread
 of feet, and having some part in the faces flitting by, and even in the
 heavy gentleness of Mr Toots, who frequently came up to shake him by
 the hand. Through the universal kindness he still thought he heard it,
@@ -10468,7 +10468,7 @@ are at crowded theatres. They swam before him as he looked, like faces
 in an agitated glass; and next moment he was in the dark coach outside,
 holding close to Florence. From that [[motifs/time|time]], whenever he thought of
 Doctor Blimber’s, it came back as he had seen it in this last view; and
-it never seemed to be a real place again, but always [[A Dream|a dream]], full of
+it never seemed to be a real place again, but always a dream, full of
 eyes.
 
 This was not quite the last of Doctor Blimber’s, however. There was
@@ -10558,7 +10558,7 @@ choice in the matter. Mr Dombey had truly told him that he was young,
 and that his Uncle’s circumstances were not good; and Mr Dombey had
 plainly expressed, in the glance with which he had accompanied that
 reminder, that if he declined to go he might stay at [[motifs/home|home]] if he chose,
-but not in his counting-[[house]]. His Uncle and he lay under a great
+but not in his counting-house. His Uncle and he lay under a great
 obligation to Mr Dombey, which was of Walter’s own soliciting. He might
 have begun in secret to [[concepts/despair|despair]] of ever winning that gentleman’s
 favour, and might have thought that he was now and then disposed to put
@@ -10600,7 +10600,7 @@ expressly against him by the general enemy) of screwing gimlets into
 puncheons, and applying his lips to the orifice, had announced the
 destruction of the world for that day two years, at ten in the morning,
 and opened a front parlour for the reception of ladies and gentlemen of
-the Ranting [[Persuasion|persuasion]], upon whom, on the first occasion of their
+the Ranting persuasion, upon whom, on the first occasion of their
 assemblage, the admonitions of the Reverend Melchisedech had produced
 so powerful an effect, that, in their rapturous performance of a sacred
 jig, which closed the service, the whole flock broke through into a
@@ -10728,7 +10728,7 @@ dislikings, perhaps. I say nothing of that. I only say that I am
 certain he does not like me. He does not send me to this post as a good
 one; he disclaims to represent it as being better than it is; and I
 [[concepts/doubt|doubt]] very much if it will ever lead me to advancement in the
-[[house|House]]—whether it does not, on the contrary, dispose of me for ever, and
+House—whether it does not, on the contrary, dispose of me for ever, and
 put me out of the way. Now, we must say nothing of this to my Uncle,
 [[characters/captain-cuttle|Captain Cuttle]], but must make it out to be as favourable and promising
 as we can; and when I tell you what it really is, I only do so, that in
@@ -10757,7 +10757,7 @@ against the plans he had formed for me; and there was an end of that.
 But what I feel, [[characters/captain-cuttle|Captain Cuttle]], is that we have been a little mistaken
 all along, and that, so far as any improvement in my prospects is
 concerned, I am no better off now than I was when I first entered
-Dombey’s [[house|House]]—perhaps a little worse, for the [[house|House]] may have been
+Dombey’s House—perhaps a little worse, for the House may have been
 kindly inclined towards me then, and it certainly is not now.”
 
 
@@ -10776,7 +10776,7 @@ energetic way. “I have nothing to complain of. I am provided for. I can
 live. When I leave my Uncle, I leave him to you; and I can leave him to
 no one better, [[characters/captain-cuttle|Captain Cuttle]]. I haven’t told you all this because I
 [[concepts/despair|despair]], not I; it’s to convince you that I can’t pick and choose in
-Dombey’s [[house|House]], and that where I am sent, there I must go, and what I
+Dombey’s House, and that where I am sent, there I must go, and what I
 am offered, that I must take. It’s better for my Uncle that I should be
 sent away; for Mr Dombey is a valuable friend to him, as he proved
 himself, you know when, [[characters/captain-cuttle|Captain Cuttle]]; and I am persuaded he won’t be
@@ -10820,7 +10820,7 @@ difficult to unload his old ideas upon the subject, and to take a
 perfectly new cargo on board, with that rapidity which the
 circumstances required, or without jumbling and confounding the two.
 Consequently, instead of putting on his coat and waistcoat with
-anything like the impetuosity that could [[Alone|alone]] have kept pace with
+anything like the impetuosity that could alone have kept pace with
 Walter’s mood, he declined to invest himself with those garments at all
 at present; and informed Walter that on such a serious matter, he must
 be allowed to “bite his nails a bit”.
@@ -10890,7 +10890,7 @@ of the world, who understood each other, and were mutually disposed to
 make things comfortable, could easily arrange any little difficulty of
 this sort, and come at the real facts; the friendly thing for him to do
 would be, without saying anything about it to Walter at present, just
-to step up to Mr Dombey’s [[house]]—say to the servant “Would ye be so
+to step up to Mr Dombey’s house—say to the servant “Would ye be so
 good, my lad, as report Cap’en Cuttle here?”—meet Mr Dombey in a
 confidential spirit—hook him by the button-hole—talk it over—make it
 all right—and come away triumphant!
@@ -10963,14 +10963,14 @@ His way was nowhere in particular; but he thought he would go out into
 the fields, where he could reflect upon the unknown life before him,
 and resting under some tree, ponder quietly. He knew no better fields
 than those near Hampstead, and no better means of getting at them than
-by passing Mr Dombey’s [[house]].
+by passing Mr Dombey’s house.
 
 It was as stately and as dark as ever, when he went by and glanced up
 at its frowning front. The blinds were all pulled down, but the upper
 windows stood wide open, and the pleasant air stirring those curtains
 and waving them to and fro was the only sign of animation in the whole
 exterior. Walter walked softly as he passed, and was glad when he had
-left the [[house]] a door or two behind.
+left the house a door or two behind.
 
 He looked back then; with the interest he had always felt for the place
 since the adventure of the lost [[archetypes/child|child]], years ago; and looked especially
@@ -10981,7 +10981,7 @@ his equipage together, Walter had no [[concepts/doubt|doubt]] he was a physician
 he wondered who was ill; but the discovery did not occur to him until
 he had walked some distance, thinking listlessly of other things.
 
-Though still, of what the [[house]] had suggested to him; for Walter
+Though still, of what the house had suggested to him; for Walter
 pleased himself with thinking that perhaps the [[motifs/time|time]] might come, when
 the beautiful [[archetypes/child|child]] who was his old friend and had always been so
 grateful to him and so glad to see him since, might interest her
@@ -11101,7 +11101,7 @@ and buildings, railway hangers-on and parasites, and flatterers out of
 all calculation. There was even railway [[motifs/time|time]] observed in clocks, as if
 the sun itself had given in. Among the vanquished was the master
 chimney-sweeper, whilom incredulous at Staggs’s Gardens, who now lived
-in a stuccoed [[house]] three stories high, and gave himself out, with
+in a stuccoed house three stories high, and gave himself out, with
 golden flourishes upon a varnished board, as contractor for the
 cleansing of railway chimneys by machinery.
 
@@ -11147,7 +11147,7 @@ He lived in the Company’s own Buildings, second turning to the right,
 down the yard, [[motifs/cross|cross]] over, and take the second on the right again. It
 was number eleven; they couldn’t mistake it; but if they did, they had
 only to ask for Toodle, Engine Fireman, and any one would show them
-which was his [[house]]. At this unexpected stroke of [[success]] [[characters/susan-nipper|Susan Nipper]]
+which was his house. At this unexpected stroke of success [[characters/susan-nipper|Susan Nipper]]
 dismounted from the coach with all [[characters/speed|speed]], took Walter’s arm, and set
 off at a breathless pace on foot; leaving the coach there to await
 their return.
@@ -11196,7 +11196,7 @@ feeling than eloquence, “Polly! cut away!”
 So they got back to the coach, long before the coachman expected them;
 and Walter, putting Susan and Mrs Richards inside, took his seat on the
 box himself that there might be no more mistakes, and deposited them
-safely in the hall of Mr Dombey’s [[house]]—where, by the bye, he saw a
+safely in the hall of Mr Dombey’s house—where, by the bye, he saw a
 mighty nosegay lying, which reminded him of the one [[characters/captain-cuttle|Captain Cuttle]] had
 purchased in his company that morning. He would have lingered to know
 more of the young invalid, or waited any length of [[motifs/time|time]] to see if he
@@ -11206,7 +11206,7 @@ he turned slowly, sadly, anxiously, away.
 
 He had not gone five minutes’ walk from the door, when a man came
 running after him, and begged him to return. Walter retraced his steps
-as quickly as he could, and entered the gloomy [[house]] with a sorrowful
+as quickly as he could, and entered the gloomy house with a sorrowful
 foreboding.
 
 
@@ -11250,9 +11250,9 @@ When day began to [[motifs/dawn|dawn]] again, he watched for the sun; and when i
 cheerful light began to sparkle in the room, he pictured to
 himself—pictured! he saw—the high church towers rising up into the
 morning sky, the town reviving, waking, starting into life once more,
-the [[motifs/river|river]] glistening as it rolled (but [[rolling]] fast as ever), and the
+the [[motifs/river|river]] glistening as it rolled (but rolling fast as ever), and the
 country bright with dew. Familiar sounds and cries came by degrees into
-the street below; the servants in the [[house]] were roused and busy; faces
+the street below; the servants in the house were roused and busy; faces
 looked in at the door, and voices asked his attendants softly how he
 was. Paul always answered for himself, “I am better. I am a great deal
 better, thank you! Tell Papa so!”
@@ -11488,7 +11488,7 @@ CHAPTER XVII.
 [[characters/captain-cuttle|Captain Cuttle]], in the exercise of that surprising talent for deep-laid
 and unfathomable scheming, with which (as is not unusual in men of
 transparent simplicity) he sincerely believed himself to be endowed by
-[[concepts/nature|nature]], had gone to Mr Dombey’s [[house]] on the eventful [[characters/sunday|Sunday]], winking
+[[concepts/nature|nature]], had gone to Mr Dombey’s house on the eventful [[characters/sunday|Sunday]], winking
 all the way as a vent for his superfluous sagacity, and had presented
 himself in the full lustre of the ankle-jacks before the eyes of
 Towlinson. Hearing from that individual, to his great concern, of the
@@ -11736,7 +11736,7 @@ encouragement.
 “I believe so,” said Mr Carker, showing all his teeth.
 
 The Captain liked his answering with a smile; it looked pleasant. “You
-see,” began the Captain, [[rolling]] his eyes slowly round the little room,
+see,” began the Captain, rolling his eyes slowly round the little room,
 and taking in as much of it as his shirt-collar permitted; “I’m a
 seafaring man myself, Mr Carker, and Wal”r, as is on your books here,
 is almost a son of mine.”
@@ -11979,7 +11979,7 @@ said the Captain to himself. “You’ve done a little business for the
 youngsters today, my lad!”
 
 In his exultation, and in his familiarity, present and prospective,
-with the [[house|House]], the Captain, when he reached the outer office, could
+with the House, the Captain, when he reached the outer office, could
 not refrain from rallying Mr Perch a little, and asking him whether he
 thought everybody was still engaged. But not to be bitter on a man who
 had done his duty, the Captain whispered in his ear, that if he felt
@@ -12017,10 +12017,10 @@ Mysterious and incomprehensible, the Captain, with that lively sense
 upon him of having done a little business for the youngsters, remained
 all day, even to his most intimate friends; and but that Walter
 attributed his winks and grins, and other such pantomimic reliefs of
-himself, to his satisfaction in the [[success]] of their [[archetypes/innocent|innocent]] [[concepts/deception|deception]]
+himself, to his satisfaction in the success of their [[archetypes/innocent|innocent]] [[concepts/deception|deception]]
 upon old Sol Gills, he would assuredly have betrayed himself before
 [[motifs/night|night]]. As it was, however, he kept his own secret; and went [[motifs/home|home]] late
-from the Instrument-maker’s [[house]], wearing the glazed hat so much on
+from the Instrument-maker’s house, wearing the glazed hat so much on
 one side, and carrying such a beaming expression in his eyes, that Mrs
 MacStinger (who might have been brought up at Doctor Blimber’s, she was
 such a Roman matron) fortified herself, at the first glimpse of him,
@@ -12038,7 +12038,7 @@ CHAPTER XVIII.
 Father and Daughter
 
 
-There is a hush through Mr Dombey’s [[house]]. Servants gliding up and down
+There is a hush through Mr Dombey’s house. Servants gliding up and down
 stairs rustle, but make no sound of footsteps. They talk together
 constantly, and sit long at meals, making much of their meat and drink,
 and enjoying themselves after a grim unholy fashion. Mrs Wickam, with
@@ -12048,7 +12048,7 @@ takes more table-ale than usual, and is very sorry but sociable. Cook’s
 state of mind is similar. She promises a little fry for supper, and
 struggles about equally against her feelings and the onions. Towlinson
 begins to think there’s a fate in it, and wants to know if anybody can
-tell him of any good that ever came of living in a corner [[house]]. It
+tell him of any good that ever came of living in a corner house. It
 seems to all of them as having happened a long [[motifs/time|time]] ago; though yet the
 [[archetypes/child|child]] lies, calm and beautiful, upon his little bed.
 
@@ -12073,11 +12073,11 @@ public-houses, invited thither by friends, and holding forth on the
 uncertainty of human affairs. He goes [[motifs/home|home]] to Ball’s Pond earlier in
 the evening than usual, and treats Mrs Perch to a veal cutlet and
 Scotch ale. Mr Carker the Manager treats no one; neither is he treated;
-but [[Alone|alone]] in his own room he shows his teeth all day; and it would seem
+but alone in his own room he shows his teeth all day; and it would seem
 that there is something gone from Mr Carker’s path—some obstacle
 removed—which clears his way before him.
 
-Now the rosy children living opposite to Mr Dombey’s [[house]], peep from
+Now the rosy children living opposite to Mr Dombey’s house, peep from
 their nursery windows down into the street; for there are four black
 horses at his door, with feathers on their heads; and feathers tremble
 on the carriage that they draw; and these, and an array of men with
@@ -12182,7 +12182,7 @@ tried her mourning bonnet. They are very tender to each other at dusky
 street-corners, and Towlinson has visions of leading an altered and
 blameless existence as a serious greengrocer in [[settings/oxford|Oxford]] Market.
 
-There is sounder [[motifs/sleep|sleep]] and deeper rest in Mr Dombey’s [[house]] tonight,
+There is sounder [[motifs/sleep|sleep]] and deeper rest in Mr Dombey’s house tonight,
 than there has been for many nights. The morning sun awakens the old
 household, settled down once more in their old ways. The rosy children
 opposite run past with hoops. There is a splendid wedding in the
@@ -12325,7 +12325,7 @@ must say. But you always were strange. Anybody else at your [[motifs/time|time]]
 life, and after what has passed—my dear Miss Tox, I have lost my pocket
 handkerchief again—would be glad to leave here, one would suppose.”
 
-“I should not like to feel,” said Florence, “as if the [[house]] was
+“I should not like to feel,” said Florence, “as if the house was
 avoided. I should not like to think that the—his—the rooms upstairs
 were quite empty and dreary, aunt. I would rather stay here, for the
 present. Oh my brother! oh my brother!”
@@ -12378,20 +12378,20 @@ by it.
 And was there no one nearer and dearer than Susan, to uphold the
 striving heart in its anguish? Was there no other neck to clasp; no
 other face to turn to? no one else to say a soothing word to such deep
-sorrow? Was Florence so [[Alone|alone]] in the bleak world that nothing else
+sorrow? Was Florence so alone in the bleak world that nothing else
 remained to her? Nothing. Stricken motherless and brotherless at
 once—for in the loss of little Paul, that first and greatest loss fell
 heavily upon her—this was the only help she had. Oh, who can tell how
 much she needed help at first!
 
-At first, when the [[house]] subsided into its accustomed course, and they
+At first, when the house subsided into its accustomed course, and they
 had all gone away, except the servants, and her father shut up in his
 own rooms, Florence could do nothing but weep, and wander up and down,
 and sometimes, in a sudden pang of desolate remembrance, fly to her own
 chamber, wring her hands, lay her face down on her bed, and know no
 consolation: nothing but the bitterness and cruelty of grief. This
 commonly ensued upon the recognition of some spot or object very
-tenderly associated with him; and it made the miserable [[house]], at
+tenderly associated with him; and it made the miserable house, at
 first, a place of agony.
 
 
@@ -12413,13 +12413,13 @@ the remembrance.
 It was not very long before the golden [[motifs/water|water]], dancing on the wall, in
 the old place, at the old serene [[motifs/time|time]], had her calm eye fixed upon it
 as it ebbed away. It was not very long before that room again knew her,
-often; sitting there [[Alone|alone]], as patient and as mild as when she had
+often; sitting there alone, as patient and as mild as when she had
 watched beside the little bed. When any sharp sense of its being empty
 smote upon her, she could kneel beside it, and pray GOD—it was the
 pouring out of her full heart—to let one angel [[motifs/love|love]] her and remember
 her.
 
-It was not very long before, in the midst of the dismal [[house]] so wide
+It was not very long before, in the midst of the dismal house so wide
 and dreary, her low voice in the twilight, slowly and stopping
 sometimes, touched the old air to which he had so often listened, with
 his drooping head upon her arm. And after that, and when it was quite
@@ -12457,11 +12457,11 @@ and bursting into [[motifs/tears|tears]] would hide behind the curtain as if she
 frightened, or would hurry from the [[motifs/window|window]]. Yet she could not help
 returning; and her work would soon fall unheeded from her hands again.
 
-It was the [[house]] that had been empty, years ago. It had remained so for
+It was the house that had been empty, years ago. It had remained so for
 a long [[motifs/time|time]]. At last, and while she had been away from [[motifs/home|home]], this
 family had taken it; and it was repaired and newly painted; and there
 were [[motifs/birds|birds]] and [[motifs/flowers|flowers]] about it; and it looked very different from its
-old [[concepts/self|self]]. But she never thought of the [[house]]. The children and their
+old [[concepts/self|self]]. But she never thought of the house. The children and their
 father were all in all.
 
 When he had dined, she could see them, through the open windows, go
@@ -12473,10 +12473,10 @@ with him, and romp about him on the sofa, or group themselves at his
 knee, a very nosegay of little faces, while he seemed to tell them some
 story. Or they would come running out into the balcony; and then
 Florence would hide herself quickly, lest it should check them in their
-joy, to see her in her black dress, sitting there [[Alone|alone]].
+joy, to see her in her black dress, sitting there alone.
 
 The elder [[archetypes/child|child]] remained with her father when the rest had gone away,
-and made his tea for him—happy little [[house]]-keeper she was then!—and
+and made his tea for him—happy little house-keeper she was then!—and
 sat conversing with him, sometimes at the [[motifs/window|window]], sometimes in the
 room, until the candles came. He made her his companion, though she was
 some years younger than Florence; and she could be as staid and
@@ -12489,7 +12489,7 @@ face to him, and could look no more.
 Though still she would turn, again and again, before going to bed
 herself from the simple air that had lulled him to rest so often, long
 ago, and from the other low soft broken strain of music, back to that
-[[house]]. But that she ever thought of it, or watched it, was a secret
+house. But that she ever thought of it, or watched it, was a secret
 which she kept within her own young breast.
 
 And did that breast of Florence—Florence, so ingenuous and true—so
@@ -12504,7 +12504,7 @@ breast hold any other secret? Yes. One more.
 <span class="atom-split" data-atom="chapter_46--part_05" data-title="Dombey and Son — Chapter 18 (part 5)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/journey,motif/love,motif/night,motif/silence,motif/tears,motif/well,concept/endurance,concept/hope,concept/melancholy,concept/wonder,character/bottom,character/susan_nipper"></span>
 
 
-When no one in the [[house]] was stirring, and the lights were all
+When no one in the house was stirring, and the lights were all
 extinguished, she would softly leave her own room, and with noiseless
 feet descend the staircase, and approach her father’s door. Against it,
 scarcely breathing, she would rest her face and head, and press her
@@ -12516,10 +12516,10 @@ tenderness from her, his solitary [[archetypes/child|child]], she would have kne
 his feet, if she had dared, in humble supplication.
 
 No one knew it. No one thought of it. The door was ever closed, and he
-shut up within. He went out once or twice, and it was said in the [[house]]
+shut up within. He went out once or twice, and it was said in the house
 that he was very soon going on his country [[motifs/journey|journey]]; but he lived in
-those rooms, and lived [[Alone|alone]], and never saw her, or inquired for her.
-Perhaps he did not even know that she was in the [[house]].
+those rooms, and lived alone, and never saw her, or inquired for her.
+Perhaps he did not even know that she was in the house.
 
 One day, about a week after the funeral, Florence was sitting at her
 work, when Susan appeared, with a face half laughing and half crying,
@@ -12684,7 +12684,7 @@ enemy whom he had barked at round the corner all his life and had never
 seen yet; Florence was as pleased with him as if he had been a miracle
 of discretion.
 
-Mr Toots was so overjoyed by the [[success]] of his present, and was so
+Mr Toots was so overjoyed by the success of his present, and was so
 delighted to see Florence bending down over Diogenes, smoothing his
 coarse back with her little delicate hand—Diogenes graciously allowing
 it from the first moment of their acquaintance—that he felt it
@@ -12717,7 +12717,7 @@ paws on her shoulders, licked her face and hands, nestled his great
 head against her heart, and wagged his tail till he was tired. Finally,
 Diogenes coiled himself up at her feet and went to [[motifs/sleep|sleep]].
 
-Although Miss Nipper was nervous in regard of [[dogs]], and felt it
+Although Miss Nipper was nervous in regard of dogs, and felt it
 necessary to come into the room with her skirts carefully collected
 about her, as if she were crossing a brook on stepping-stones; also to
 utter little screams and stand up on chairs when Diogenes stretched
@@ -12770,13 +12770,13 @@ with boundless contempt. “If he’s a change, give me a constancy.”
 “Good-[[motifs/night|night]], my darling dear Miss Floy.”
 
 Her tone of commiseration smote the chord so often roughly touched, but
-never listened to while she or anyone looked on. Florence left [[Alone|alone]],
+never listened to while she or anyone looked on. Florence left alone,
 laid her head upon her hand, and pressing the other over her swelling
 heart, held free communication with her sorrows.
 
 It was a wet [[motifs/night|night]]; and the [[concepts/melancholy|melancholy]] rain fell pattering and dropping
 with a weary sound. A sluggish [[motifs/wind|wind]] was blowing, and went moaning round
-the [[house]], as if it were in [[motifs/pain|pain]] or grief. A shrill noise quivered
+the house, as if it were in [[motifs/pain|pain]] or grief. A shrill noise quivered
 through the trees. While she sat weeping, it grew late, and dreary
 midnight tolled out from the steeples.
 
@@ -12887,7 +12887,7 @@ You have been dreaming.”
 The dream she had had, was over then, God help her! and she felt that
 it could never more come back.
 
-“I will remain here to light you up the stairs. The whole [[house]] is
+“I will remain here to light you up the stairs. The whole house is
 yours above there,” said her father, slowly. “You are its mistress now.
 Good-[[motifs/night|night]]!”
 
@@ -12917,7 +12917,7 @@ Diogenes already loved her for her own, and didn’t care how much he
 showed it. So he made himself vastly ridiculous by performing a variety
 of uncouth bounces in the ante-chamber, and concluded, when poor
 Florence was at last asleep, and dreaming of the rosy children
-opposite, by scratching open her bedroom door: [[rolling]] up his bed into
+opposite, by scratching open her bedroom door: rolling up his bed into
 a pillow: lying down on the boards, at the full length of his tether,
 with his head towards her: and looking lazily at her, upside down, out
 of the tops of his eyes, until from winking and winking he fell asleep
@@ -12969,7 +12969,7 @@ will be so little mine as this old room. The dream may come back in my
 at least will serve no other master, and the room may have a score, and
 every one of them may change, neglect, misuse it.”
 
-But his Uncle was not to be left [[Alone|alone]] in the little back parlour,
+But his Uncle was not to be left alone in the little back parlour,
 where he was then sitting by himself; for [[characters/captain-cuttle|Captain Cuttle]], considerate
 in his roughness, stayed away against his will, purposely that they
 should have some talk together unobserved: so Walter, newly returned
@@ -13002,7 +13002,7 @@ best best that I know. You’ll not forget what you’re to send me,
 Uncle?”
 
 “No, Wally, no,” replied the old man; “everything I hear about Miss
-Dombey, now that she is left [[Alone|alone]], poor [[motifs/lamb|lamb]], I’ll write. I [[concepts/fear|fear]] it
+Dombey, now that she is left alone, poor [[motifs/lamb|lamb]], I’ll write. I [[concepts/fear|fear]] it
 won’t be much though, Wally.”
 
 “Why, I’ll tell you what, Uncle,” said Walter, after a moment’s
@@ -13139,7 +13139,7 @@ it go.
 Yet Walter did not hold it as he might have held it once, nor did its
 touch awaken those old day-[[motifs/dreams|dreams]] of his boyhood that had floated past
 him sometimes even lately, and confused him with their indistinct and
-broken shapes. The purity and [[innocence]] of her endearing manner, and
+broken shapes. The purity and innocence of her endearing manner, and
 its perfect trustfulness, and the undisguised regard for him that lay
 so deeply seated in her constant eyes, and glowed upon her fair face
 through the smile that shaded—for alas! it was a smile too sad to
@@ -13167,7 +13167,7 @@ drawing of the tea with a thoughtful air.
 
 “I want to tell Walter’s Uncle,” said Florence, laying her hand timidly
 upon the old man’s as it rested on the table, to bespeak his attention,
-“something that I am anxious about. He is going to be left [[Alone|alone]], and
+“something that I am anxious about. He is going to be left alone, and
 if he will allow me—not to take Walter’s place, for that I couldn’t do,
 but to be his true friend and help him if I ever can while Walter is
 away, I shall be very much obliged to him indeed. Will you? May I,
@@ -13303,7 +13303,7 @@ timidly.
 “No reason, Walter!”
 
 “There was no reason,” said Walter, understanding what she meant.
-“There are many people employed in the [[house|House]]. Between Mr Dombey and a
+“There are many people employed in the House. Between Mr Dombey and a
 young man like me, there’s a wide space of separation. If I do my duty,
 I do what I ought, and do no more than all the rest.”
 
@@ -13376,7 +13376,7 @@ Walter comes [[motifs/home|home]] again.”
 with dirt and cobwebs. There may be dirt and cobwebs over you and me
 perhaps, Ned, before it sees the light.”
 
-“Hear him!” cried the Captain. “Good [[morality]]! Wal”r, my lad. Train up
+“Hear him!” cried the Captain. “Good morality! Wal”r, my lad. Train up
 a fig-tree in the way it should go, and when you are old sit under the
 shade on it. Overhaul the—[[motifs/well|Well]],” said the Captain on second thoughts,
 “I ain’t quite certain where that’s to be found, but when found, make a
@@ -13391,7 +13391,7 @@ that bottle in company, I’ll give you two leave to.”
 Notwithstanding the Captain’s excessive joviality, he made but a poor
 hand at the smoky tongue, though he tried very hard, when anybody
 looked at him, to appear as if he were eating with a vast appetite. He
-was terribly afraid, likewise, of being left [[Alone|alone]] with either Uncle or
+was terribly afraid, likewise, of being left alone with either Uncle or
 nephew; appearing to consider that his only chance of safety as to
 keeping up appearances, was in there being always three together. This
 terror on the part of the Captain, reduced him to such ingenious
@@ -13629,7 +13629,7 @@ gentlemanly ease about him that mixed [[motifs/well|well]] enough with his own [
 character, and did not compete with it at all. If Mr Dombey had any
 lingering idea that the Major, as a man accustomed, in the way of his
 calling, to make light of the ruthless hand that had lately crushed his
-hopes, might unconsciously impart some useful [[philosophy]] to him, and
+hopes, might unconsciously impart some useful philosophy to him, and
 scare away his weak regrets, he hid it from himself, and left it lying
 at the [[characters/bottom|bottom]] of his [[concepts/pride|pride]], unexamined.
 
@@ -13696,7 +13696,7 @@ what, Dombey.” The Major paused in his eating, and looked mysteriously
 indignant. “That’s a de-vilish ambitious woman, Sir.”
 
 Mr Dombey said “Indeed?” with frigid indifference: mingled perhaps with
-some contemptuous [[Incredulity|incredulity]] as to Miss Tox having the presumption to
+some contemptuous incredulity as to Miss Tox having the presumption to
 harbour such a superior quality.
 
 “That woman, Sir,” said the Major, “is, in her way, a [[characters/lucifer|Lucifer]]. Joey B.
@@ -13722,7 +13722,7 @@ The Major gave no answer but the [[motifs/horse|horse]]’s cough, and went on e
 vigorously.
 
 “She has taken an interest in your household,” said the Major, stopping
-short again, “and has been a frequent visitor at your [[house]] for some
+short again, “and has been a frequent visitor at your house for some
 [[motifs/time|time]] now.”
 
 “Yes,” replied Mr Dombey with great stateliness, “Miss Tox was
@@ -13733,7 +13733,7 @@ repeat her visits with my sister, and gradually to occupy a kind of
 footing of familiarity in the family. I have,” said Mr Dombey, in the
 tone of a man who was making a great and valuable concession, “I have a
 respect for Miss Tox. She has been so obliging as to render many little
-services in my [[house]]: trifling and insignificant services perhaps,
+services in my house: trifling and insignificant services perhaps,
 Major, but not to be disparaged on that account: and I [[concepts/hope|hope]] I have had
 the good fortune to be enabled to acknowledge them by such attention
 and notice as it has been in my power to bestow. I hold myself indebted
@@ -13761,7 +13761,7 @@ plate, and casting them across Princess’s Place, to where Miss Tox was
 at that moment visible at her [[motifs/window|window]] watering her [[motifs/flowers|flowers]], “you’re a
 scheming jade, Ma’am, and your [[concepts/ambition|ambition]] is a piece of monstrous
 impudence. If it only made yourself ridiculous, Ma’am,” said the Major,
-[[rolling]] his head at the unconscious Miss Tox, while his starting eyes
+rolling his head at the unconscious Miss Tox, while his starting eyes
 appeared to make a leap towards her, “you might do that to your heart’s
 content, Ma’am, without any objection, I assure you, on the part of
 Bagstock.” Here the Major laughed frightfully up in the tips of his
@@ -13971,7 +13971,7 @@ he had assured himself, from his manner and his answers, that he wore
 it for _his_ son.
 
 So! from high to low, at [[motifs/home|home]] or abroad, from Florence in his great
-[[house]] to the coarse churl who was feeding the [[motifs/fire|fire]] then smoking before
+house to the coarse churl who was feeding the [[motifs/fire|fire]] then smoking before
 them, everyone set up some claim or other to a share in his dead boy,
 and was a bidder against him! Could he ever forget how that woman had
 wept over his pillow, and called him her own [[archetypes/child|child]]! or how he, waking
@@ -13988,7 +13988,7 @@ all the world as with a [[topoi/double|double]] door of gold, should have let in
 herd to insult him with their knowledge of his defeated hopes, and
 their boasts of claiming community of feeling with himself, so far
 removed: if not of having crept into the place wherein he would have
-lorded it, [[Alone|alone]]!
+lorded it, alone!
 
 He found no pleasure or relief in the [[motifs/journey|journey]]. Tortured by these
 thoughts he carried monotony with him, through the rushing landscape,
@@ -14078,7 +14078,7 @@ on him with eyes that read his [[motifs/soul|soul]], though they were dim with [
 and hidden soon behind two quivering hands—that often had attended him
 in fancy, on this ride. He had seen it, with the expression of last
 [[motifs/night|night]], timidly pleading to him. It was not reproachful, but there was
-something of [[concepts/doubt|doubt]], almost of hopeful [[Incredulity|incredulity]] in it, which, as he
+something of [[concepts/doubt|doubt]], almost of hopeful incredulity in it, which, as he
 once more saw that fade away into a desolate certainty of his dislike,
 was like reproach. It was a trouble to him to think of this face of
 Florence.
@@ -14090,7 +14090,7 @@ and threatening to grow too strong for his composure. Because the face
 was abroad, in the expression of defeat and persecution that seemed to
 encircle him like the air. Because it barbed the arrow of that cruel
 and remorseless enemy on which his thoughts so ran, and put into its
-grasp a [[topoi/double|double]]-handed [[Sword|sword]]. Because he knew full [[motifs/well|well]], in his own
+grasp a [[topoi/double|double]]-handed sword. Because he knew full [[motifs/well|well]], in his own
 breast, as he stood there, tinging the scene of transition before him
 with the morbid colours of his own mind, and making it a ruin and a
 picture of [[motifs/decay|decay]], instead of hopeful change, and promise of better
@@ -14204,7 +14204,7 @@ Dombey, who had been so long shut up within himself, and who had
 rarely, at any [[motifs/time|time]], overstepped the enchanted circle within which the
 operations of Dombey and Son were conducted, began to think this an
 improvement on his solitary life; and in place of excusing himself for
-another day, as he had thought of doing when [[Alone|alone]], walked out with the
+another day, as he had thought of doing when alone, walked out with the
 Major arm-in-arm.
 
 
@@ -14428,7 +14428,7 @@ mother?”
 “You were complimentary to the mother,” returned Mr Dombey.
 
 “An ancient flame, Sir,” chuckled [[characters/major-bagstock|Major Bagstock]]. “Devilish ancient. I
-[[Humour|humour]] her.”
+humour her.”
 
 “She impresses me as being perfectly genteel,” said Mr Dombey.
 
@@ -14447,7 +14447,7 @@ pause, “as Mrs Granger.”
 punching a mark in the ground with his cane, to represent her, “married
 (at eighteen) Granger of Ours;” whom the Major indicated by another
 punch. “Granger, Sir,” said the Major, tapping the last ideal portrait,
-and [[rolling]] his head emphatically, “was Colonel of Ours; a de-vilish
+and rolling his head emphatically, “was Colonel of Ours; a de-vilish
 handsome fellow, Sir, of forty-one. He died, Sir, in the second year of
 his [[motifs/marriage|marriage]].” The Major ran the representative of the deceased Granger
 through and through the [[concepts/body|body]] with his walking-stick, and went on again,
@@ -14515,7 +14515,7 @@ but on the Major announcing this intention, he said he would have the
 pleasure of accompanying him. So the Major told the Native to go round
 before dinner, and say, with his and Mr Dombey’s compliments, that they
 would have the [[concepts/honour|honour]] of visiting the ladies that same evening, if the
-ladies were [[Alone|alone]]. In answer to which message, the Native brought back
+ladies were alone. In answer to which message, the Native brought back
 a very small note with a very large quantity of scent about it, indited
 by the Honourable Mrs Skewton to [[characters/major-bagstock|Major Bagstock]], and briefly saying,
 “You are a shocking bear and I have a great mind not to forgive you,
@@ -14530,11 +14530,11 @@ and her head in the fireplace, while the Honourable Mrs Skewton’s maid
 was quartered in a closet within the drawing-room, so extremely small,
 that, to avoid developing the whole of its accommodations, she was
 obliged to writhe in and out of the door like a beautiful serpent.
-Withers, the wan page, slept out of the [[house]] immediately under the
+Withers, the wan page, slept out of the house immediately under the
 tiles at a neighbouring milk-shop; and the wheeled chair, which was the
 stone of that young Sisyphus, passed the [[motifs/night|night]] in a shed belonging to
 the same dairy, where new-laid eggs were produced by the poultry
-connected with the establishment, who roosted on a broken [[donkey]]-cart,
+connected with the establishment, who roosted on a broken donkey-cart,
 persuaded, to all appearance, that it grew there, and was a species of
 tree.
 
@@ -14749,7 +14749,7 @@ When the haughty [[concepts/beauty|beauty]] had concluded, she arose, and receiv
 Dombey’s thanks and compliments in exactly the same manner as before,
 went with scarcely any pause to the piano, and began there.
 
-[[characters/edith-granger|Edith Granger]], any [[Song|song]] but that! [[characters/edith-granger|Edith Granger]], you are very handsome,
+[[characters/edith-granger|Edith Granger]], any song but that! [[characters/edith-granger|Edith Granger]], you are very handsome,
 and your touch upon the keys is brilliant, and your voice is deep and
 rich; but not the air that his neglected daughter sang to his dead son!
 
@@ -14772,7 +14772,7 @@ Mr Carker the Manager sat at his desk, smooth and soft as usual,
 reading those letters which were reserved for him to open, backing them
 occasionally with such memoranda and references as their business
 purport required, and parcelling them out into little heaps for
-distribution through the several departments of the [[house|House]]. The post had
+distribution through the several departments of the House. The post had
 come in heavy that morning, and Mr Carker the Manager had a good deal
 to do.
 
@@ -14797,7 +14797,7 @@ to the heaps—much as a man would know the cards at sight, and work out
 their combinations in his mind after they were turned. Something too
 deep for a partner, and much too deep for an adversary, Mr Carker the
 Manager sat in the rays of the sun that came down slanting on him
-through the skylight, playing his game [[Alone|alone]].
+through the skylight, playing his game alone.
 
 And although it is not among the instincts wild or domestic of the cat
 tribe to play at cards, feline from sole to [[motifs/crown|crown]] was Mr Carker the
@@ -15008,7 +15008,7 @@ whisper, and turning, in the inviolable [[concepts/nature|nature]] of his confid
 give the door a thrust with his hand and knee, as if that would shut it
 any more when it was shut already, “it’s hardly to be bore, Sir, that a
 common lad like that should come a prowling here, and saying that his
-mother nursed our [[house|House]]’s young gentleman, and that he hopes our [[house|House]]
+mother nursed our House’s young gentleman, and that he hopes our House
 will give him a chance on that account. I am sure, Sir,” observed Mr
 Perch, “that although Mrs Perch was at that [[motifs/time|time]] nursing as thriving a
 little girl, Sir, as we’ve ever took the liberty of adding to our
@@ -15057,7 +15057,7 @@ without a particle of brim to it.
 
 Obedient to a nod from Mr Carker, Perch had no sooner confronted the
 visitor with that gentleman than he withdrew. The moment they were face
-to face [[Alone|alone]], Mr Carker, without a word of preparation, took him by
+to face alone, Mr Carker, without a word of preparation, took him by
 the throat, and shook him until his head seemed loose upon his
 shoulders.
 
@@ -15067,9 +15067,9 @@ and at the office walls, as though determined, if he were choked, that
 his last look should be at the mysteries for his intrusion into which
 he was paying such a severe penalty, at last contrived to utter—
 
-“Come, Sir! You let me [[Alone|alone]], will you!”
+“Come, Sir! You let me alone, will you!”
 
-“Let you [[Alone|alone]]!” said Mr Carker. “What! I have got you, have I?” There
+“Let you alone!” said Mr Carker. “What! I have got you, have I?” There
 was no [[concepts/doubt|doubt]] of that, and tightly too. “You dog,” said Mr Carker,
 through his set jaws, “I’ll strangle you!”
 
@@ -15202,7 +15202,7 @@ Uncle Sol, standing by him, shook his head and heaved a deep sigh.
 “Mr Gills,” said Carker, with his soft hand playing round his mouth,
 and looking up into the Instrument-maker’s face, “it would be company
 to you to have a young fellow in your shop just now, and it would be
-obliging me if you would give one [[house]]-room for the present. No, to be
+obliging me if you would give one house-room for the present. No, to be
 sure,” he added quickly, in anticipation of what the old man was going
 to say, “there’s not much business doing there, I know; but you can
 make him clean the place out, polish up the instruments; drudge, Mr
@@ -15215,7 +15215,7 @@ drawn out of a bucket of cold [[motifs/water|water]]; his small waistcoat rising
 falling quickly in the play of his emotions; and his eyes intently
 fixed on Mr Carker, without the least reference to his proposed master.
 
-“Will you give him [[house]]-room, Mr Gills?” said the Manager.
+“Will you give him house-room, Mr Gills?” said the Manager.
 
 Old Sol, without being quite enthusiastic on the subject, replied that
 he was glad of any opportunity, however slight, to oblige Mr Carker,
@@ -15257,7 +15257,7 @@ to understand better than that.
 
 “If you have lied to me,” said Mr Carker, “in anything, never come in
 my way again. If not, you may let me find you waiting for me somewhere
-near your mother’s [[house]] this afternoon. I shall leave this at five
+near your mother’s house this afternoon. I shall leave this at five
 o’[[motifs/clock|clock]], and ride there on horseback. Now, give me the address.”
 
 Rob repeated it slowly, as Mr Carker wrote it down. Rob even spelt it
@@ -15304,7 +15304,7 @@ wagers.
 
 Ridiculous as this attendance was, it was a sign of an influence
 established over the boy, and therefore Mr Carker, affecting not to
-notice it, rode away into the neighbourhood of Mr Toodle’s [[house]]. On
+notice it, rode away into the neighbourhood of Mr Toodle’s house. On
 his slackening his pace here, Rob appeared before him to point out the
 turnings; and when he called to a man at a neighbouring gateway to hold
 his [[motifs/horse|horse]], pending his visit to the buildings that had succeeded
@@ -15392,7 +15392,7 @@ signified, indirectly but still pretty plainly, that Rob’s implicit
 fidelity, attachment, and devotion, were for evermore his due, and the
 least homage he could receive. And with this great [[concepts/truth|truth]] Rob himself
 was so impressed, that, standing gazing on his patron with [[motifs/tears|tears]]
-[[rolling]] down his cheeks, he nodded his shiny head until it seemed
+rolling down his cheeks, he nodded his shiny head until it seemed
 almost as loose as it had done under the same patron’s hands that
 morning.
 
@@ -15465,7 +15465,7 @@ who comes there to see him. Do you understand?”
 Rob nodded his steadfast face, and said “Yes, Sir,” again.
 
 “I should like to know that he has friends who are attentive to him,
-and that they don’t [[motifs/desert|desert]] him—for he lives very much [[Alone|alone]] now, poor
+and that they don’t [[motifs/desert|desert]] him—for he lives very much alone now, poor
 fellow; but that they are fond of him, and of his nephew who has gone
 abroad. There is a very young lady who may perhaps come to see him. I
 want particularly to know all about her.”
@@ -15503,18 +15503,18 @@ tune as he went. He seemed to purr, he was so glad.
 
 And in some sort, Mr Carker, in his fancy, basked upon a hearth too.
 Coiled up snugly at certain feet, he was ready for a [[motifs/spring|spring]], Or for a
-tear, or for a scratch, or for a velvet touch, as the [[Humour|humour]] took him
+tear, or for a scratch, or for a velvet touch, as the humour took him
 and occasion served. Was there any bird in a cage, that came in for a
 share of his regards?
 
-“A very young lady!” thought Mr Carker the Manager, through his [[Song|song]].
+“A very young lady!” thought Mr Carker the Manager, through his song.
 “Ay! when I saw her last, she was a little [[archetypes/child|child]]. With dark eyes and
 hair, I recollect, and a good face; a very good face! I daresay she’s
 pretty.”
 
-More affable and pleasant yet, and humming his [[Song|song]] until his many
+More affable and pleasant yet, and humming his song until his many
 teeth vibrated to it, Mr Carker picked his way along, and turned at
-last into the shady street where Mr Dombey’s [[house]] stood. He had been
+last into the shady street where Mr Dombey’s house stood. He had been
 so busy, winding webs round good faces, and obscuring them with meshes,
 that he hardly thought of being at this point of his ride, until,
 glancing down the cold perspective of tall houses, he reined in his
@@ -15658,7 +15658,7 @@ Susan was not in any serious strait, for she could hardly speak for
 laughing; but Diogenes, on the staircase, hearing a rustling against
 the wall, and a shuffling of feet, and seeing through the banisters
 that there was some contention going on, and foreign invasion in the
-[[house]], formed a different opinion, dashed down to the rescue, and in
+house, formed a different opinion, dashed down to the rescue, and in
 the twinkling of an eye had Mr Toots by the leg.
 
 [Illustration]
@@ -15670,7 +15670,7 @@ cooks, and had provided that dainty morsel for his holiday
 entertainment; Diogenes shaken off, rolled over and over in the [[motifs/dust|dust]],
 got up again, whirled round the giddy Toots and snapped at him: and all
 this turmoil Mr Carker, reigning up his [[motifs/horse|horse]] and sitting a little at a
-distance, saw to his amazement, issue from the stately [[house]] of Mr
+distance, saw to his amazement, issue from the stately house of Mr
 Dombey.
 
 Mr Carker remained watching the discomfited Toots, when Diogenes was
@@ -15706,7 +15706,7 @@ card-case which he never loses an opportunity of using, and hands his
 name and address to Mr Carker: who responds to that courtesy by giving
 him his own, and with that they part.
 
-As Mr Carker picks his way so softly past the [[house]], looking up at the
+As Mr Carker picks his way so softly past the house, looking up at the
 windows, and trying to make out the pensive face behind the curtain
 looking at the children opposite, the rough head of Diogenes came
 clambering up close by it, and the dog, regardless of all soothing,
@@ -15728,12 +15728,12 @@ CHAPTER XXIII.
 Florence solitary, and the Midshipman mysterious
 
 
-Florence lived [[Alone|alone]] in the great dreary [[house]], and day succeeded day,
-and still she lived [[Alone|alone]]; and the blank walls looked down upon her
+Florence lived alone in the great dreary house, and day succeeded day,
+and still she lived alone; and the blank walls looked down upon her
 with a vacant stare, as if they had a Gorgon-like mind to stare her
 youth and [[concepts/beauty|beauty]] into stone.
 
-No [[Magic|magic]] dwelling-place in [[Magic|magic]] story, shut up in the heart of a thick
+No magic dwelling-place in magic story, shut up in the heart of a thick
 wood, was ever more solitary and deserted to the fancy, than was her
 father’s mansion in its grim reality, as it stood lowering on the
 street: always by [[motifs/night|night]], when lights were shining from neighbouring
@@ -15741,15 +15741,15 @@ windows, a blot upon its scanty brightness; always by day, a frown upon
 its never-smiling face.
 
 There were not two dragon sentries keeping ward before the gate of this
-above, as in [[Magic|magic]] legend are usually found on duty over the wronged
-[[innocence]] imprisoned; but besides a glowering visage, with its thin
+above, as in magic legend are usually found on duty over the wronged
+innocence imprisoned; but besides a glowering visage, with its thin
 lips parted wickedly, that surveyed all comers from above the archway
 of the door, there was a monstrous fantasy of rusty iron, curling and
 twisting like a petrifaction of an arbour over threshold, budding in
 spikes and corkscrew points, and bearing, one on either side, two
 ominous extinguishers, that seemed to say, “Who enter here, leave light
 behind!” There were no talismanic characters engraven on the portal,
-but the [[house]] was now so neglected in appearance, that boys chalked the
+but the house was now so neglected in appearance, that boys chalked the
 railings and the pavement—particularly round the corner where the side
 wall was—and drew [[motifs/ghosts|ghosts]] on the stable door; and being sometimes driven
 off by Mr Towlinson, made portraits of him, in return, with his ears
@@ -15797,13 +15797,13 @@ was the great staircase, where the lord of the place so rarely set his
 foot, and by which his little [[archetypes/child|child]] had gone up to Heaven. There were
 other staircases and passages where no one went for weeks together;
 there were two closed rooms associated with dead members of the family,
-and with whispered recollections of them; and to all the [[house]] but
+and with whispered recollections of them; and to all the house but
 Florence, there was a gentle figure moving through the [[concepts/solitude|solitude]] and
 gloom, that gave to every lifeless thing a touch of present human
 interest and [[concepts/wonder|wonder]].
 
-For Florence lived [[Alone|alone]] in the deserted [[house]], and day succeeded day,
-and still she lived [[Alone|alone]], and the cold walls looked down upon her with
+For Florence lived alone in the deserted house, and day succeeded day,
+and still she lived alone, and the cold walls looked down upon her with
 a vacant stare, as if they had a Gorgon-like mind to stare her youth
 and [[concepts/beauty|beauty]] into stone.
 
@@ -15865,7 +15865,7 @@ were served downstairs. And although they were in every nook the better
 and the brighter for her care, she entered and passed out as quietly as
 any sunbeam, opting that she left her light behind.
 
-Shadowy company attended Florence up and down the echoing [[house]], and
+Shadowy company attended Florence up and down the echoing house, and
 sat with her in the dismantled rooms. As if her life were an enchanted
 vision, there arose out of her [[concepts/solitude|solitude]] ministering thoughts, that made
 it fanciful and unreal. She imagined so often what her life would have
@@ -15879,7 +15879,7 @@ her kind father, looking at her gently, told her of their common [[concepts/hope
 and trust in God. At other times she pictured to herself her mother yet
 alive. And oh the happiness of falling on her neck, and clinging to her
 with the [[motifs/love|love]] and confidence of all her [[motifs/soul|soul]]! And oh the desolation of
-the solitary [[house]] again, with evening coming on, and no one there!
+the solitary house again, with evening coming on, and no one there!
 
 But there was one thought, scarcely shaped out to herself, yet fervent
 and strong within her, that upheld Florence when she strove and filled
@@ -15907,7 +15907,7 @@ loved him. She would be patient, and would try to gain that art in
 [[motifs/time|time]], and win him to a better knowledge of his only [[archetypes/child|child]].
 
 This became the purpose of her life. The morning sun shone down upon
-the faded [[house]], and found the resolution bright and fresh within the
+the faded house, and found the resolution bright and fresh within the
 bosom of its solitary mistress, Through all the duties of the day, it
 animated her; for Florence hoped that the more she knew, and the more
 accomplished she became, the more glad he would be when he came to know
@@ -15922,10 +15922,10 @@ parent’s heart!
 
 There were many careless loungers through the street, as the [[motifs/summer|summer]]
 evening deepened into [[motifs/night|night]], who glanced across the [[motifs/road|road]] at the sombre
-[[house]], and saw the youthful figure at the [[motifs/window|window]], such a contrast to
+house, and saw the youthful figure at the [[motifs/window|window]], such a contrast to
 it, looking upward at the [[motifs/stars|stars]] as they began to shine, who would have
 slept the worse if they had known on what design she mused so
-steadfastly. The reputation of the mansion as a haunted [[house]], would
+steadfastly. The reputation of the mansion as a haunted house, would
 not have been the gayer with some humble dwellers elsewhere, who were
 struck by its external gloom in passing and repassing on their daily
 avocations, and so named it, if they could have read its story in the
@@ -15940,8 +15940,8 @@ thought.
 <span class="atom-split" data-atom="chapter_51--part_03" data-title="Dombey and Son — Chapter 23 (part 3)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/death,motif/home,motif/pain,motif/ship,motif/silence,motif/sleep,motif/time,motif/wind,concept/beauty,concept/fear,concept/hope,concept/pride,setting/ship,character/captain_cuttle,character/susan_nipper"></span>
 
 
-Thus Florence lived [[Alone|alone]] in the deserted [[house]], and day succeeded day,
-and still she lived [[Alone|alone]], and the monotonous walls looked down upon
+Thus Florence lived alone in the deserted house, and day succeeded day,
+and still she lived alone, and the monotonous walls looked down upon
 her with a stare, as if they had a Gorgon-like intent to stare her
 youth and [[concepts/beauty|beauty]] into stone.
 
@@ -15976,7 +15976,7 @@ head.
 
 “And so,” said Florence, “though I would prefer to have gone when there
 was no one there, instead of in this vacation [[motifs/time|time]], when it seems there
-are some young people staying in the [[house]], I have thankfully said
+are some young people staying in the house, I have thankfully said
 yes.”
 
 “For which _I_ say, Miss Floy, Oh be joyful!” returned Susan, “Ah!
@@ -16062,7 +16062,7 @@ perhaps, and helpless men were rocked upon them into a [[motifs/sleep|sleep]] as
 the unfathomable waters. When Florence came into the [[motifs/city|City]], and passed
 gentlemen who were talking together, she dreaded to hear them speaking
 of the [[motifs/ship|ship]], and saying it was lost. Pictures and prints of vessels
-fighting with the [[rolling]] waves filled her with alarm. The smoke and
+fighting with the rolling waves filled her with alarm. The smoke and
 clouds, though moving gently, moved too fast for her apprehensions, and
 made her [[concepts/fear|fear]] there was a tempest blowing at that moment on the ocean.
 
@@ -16167,7 +16167,7 @@ on the shop desk, read the address aloud.
 Florence again turned to her maid and took counsel with her in a low
 voice, while Rob the round-eyed, mindful of his patron’s secret charge,
 looked on and listened. Florence proposed that they could go to Captain
-Cuttle’s [[house]]; hear from his own lips, what he thought of the absence
+Cuttle’s house; hear from his own lips, what he thought of the absence
 of any tidings of the Son and Heir; and bring him, if they could, to
 comfort Uncle Sol. Susan at first objected slightly, on the score of
 distance; but a hackney-coach being mentioned by her mistress, withdrew
@@ -16208,7 +16208,7 @@ days. On these occasions, Mrs MacStinger was knocked up by the
 policeman at a quarter before three in the morning, and rarely
 succumbed before twelve o’[[motifs/clock|clock]] next [[motifs/night|night]]. The chief object of this
 institution appeared to be, that Mrs MacStinger should move all the
-furniture into the back [[motifs/garden|garden]] at early [[motifs/dawn|dawn]], walk about the [[house]] in
+furniture into the back [[motifs/garden|garden]] at early [[motifs/dawn|dawn]], walk about the house in
 pattens all day, and move the furniture back again after dark. These
 ceremonies greatly fluttered those doves the young MacStingers, who
 were not only unable at such times to find any resting-place for the
@@ -16231,7 +16231,7 @@ buffeted Alexander both before and during the application of the
 paving-stone, and took no further notice of the strangers.
 
 “I beg your pardon, Ma’am,” said Florence, when the [[archetypes/child|child]] had found his
-breath again, and was using it. “Is this [[characters/captain-cuttle|Captain Cuttle]]’s [[house]]?”
+breath again, and was using it. “Is this [[characters/captain-cuttle|Captain Cuttle]]’s house?”
 
 “No,” said Mrs MacStinger.
 
@@ -16253,9 +16253,9 @@ goodness to tell us where [[characters/captain-cuttle|Captain Cuttle]] lives, Ma
 here.”
 
 “Who says he don’t live here?” retorted the implacable MacStinger. “I
-said it wasn’t Cap’en Cuttle’s [[house]]—and it ain’t his [[house]]—and forbid
-it, that it ever should be his [[house]]—for Cap’en Cuttle don’t know how
-to keep a [[house]]—and don’t deserve to have a [[house]]—it’s my [[house]]—and
+said it wasn’t Cap’en Cuttle’s house—and it ain’t his house—and forbid
+it, that it ever should be his house—for Cap’en Cuttle don’t know how
+to keep a house—and don’t deserve to have a house—it’s my house—and
 when I let the upper floor to Cap’en Cuttle, oh I do a thankless thing,
 and cast pearls before swine!”
 
@@ -16331,7 +16331,7 @@ the sincerity of his reply.
 
 “No, Heart’s-delight,” said [[characters/captain-cuttle|Captain Cuttle]], “I am not afeard. Wal”r is
 a lad as’ll go through a deal o’ hard weather. Wal”r is a lad as’ll
-bring as much [[success]] to that “ere brig as a lad is capable on. Wal”r,”
+bring as much success to that “ere brig as a lad is capable on. Wal”r,”
 said the Captain, his eyes glistening with the praise of his young
 friend, and his hook raised to announce a beautiful quotation, “is what
 you may call a out’ard and visible sign of an in’ard and spirited
@@ -16388,7 +16388,7 @@ short of the subject.”
 
 “Who did, for goodness sake?” asked [[characters/susan-nipper|Susan Nipper]].
 
-“The lady of the [[house]], my dear,” returned the Captain, in a gruff
+“The lady of the house, my dear,” returned the Captain, in a gruff
 whisper, and making signals of secrecy. “We had some words about the
 swabbing of these here planks, and she—In short,” said the Captain,
 eyeing the door, and relieving himself with a long breath, “she stopped
@@ -16555,7 +16555,7 @@ offence, the Captain drank a dram himself, which Florence and Susan,
 glancing down the open skylight, saw the sage, with difficulty finding
 room for himself between his berth and a very little brass fireplace,
 serve out for [[concepts/self|self]] and friend. They soon reappeared on deck, and
-[[characters/captain-cuttle|Captain Cuttle]], triumphing in the [[success]] of his enterprise, conducted
+[[characters/captain-cuttle|Captain Cuttle]], triumphing in the success of his enterprise, conducted
 Florence back to the coach, while Bunsby followed, escorting Miss
 Nipper, whom he hugged upon the way (much to that young lady’s
 indignation) with his pilot-coated arm, like a blue bear.
@@ -16634,7 +16634,7 @@ circumstance, on which the opinion of the sagacious Bunsby was
 requested, and entreating that profound authority to deliver the same.
 
 Bunsby, whose eye continued to be addressed to somewhere about the
-half-way [[house]] between [[settings/london|London]] and Gravesend, two or three times put out
+half-way house between [[settings/london|London]] and Gravesend, two or three times put out
 his rough right arm, as seeking to [[motifs/wind|wind]] it for inspiration round the
 fair form of Miss Nipper; but that young female having withdrawn
 herself, in displeasure, to the opposite side of the table, the soft
@@ -16709,7 +16709,7 @@ shoulder.
 
 “But so-so, Ned,” returned the Instrument-maker. “I have been
 remembering, all this afternoon, that on the very day when my boy
-entered Dombey’s [[house|House]], and came [[motifs/home|home]] late to dinner, sitting just
+entered Dombey’s House, and came [[motifs/home|home]] late to dinner, sitting just
 there where you stand, we talked of [[motifs/storm|storm]] and shipwreck, and I could
 hardly turn him from the subject.”
 
@@ -16729,7 +16729,7 @@ it!”
 “Why not?” returned the Captain, gazing at him in astonishment.
 
 “I—I have so much to do. I—I mean to think of, and arrange. I couldn’t
-do it, Ned, indeed. I must go out again, and be [[Alone|alone]], and turn my mind
+do it, Ned, indeed. I must go out again, and be alone, and turn my mind
 to many things today.”
 
 The Captain looked at the Instrument-maker, and looked at Florence, and
@@ -16759,7 +16759,7 @@ stand by Sol Gills, close and true; and once again inquired of Susan
 Nipper, unable to forget her gallant words in reference to Mrs
 MacStinger, “Would you, do you think my dear, though?”
 
-When the desolate [[house]] had closed upon the two, the Captain’s thoughts
+When the desolate house had closed upon the two, the Captain’s thoughts
 reverted to the old Instrument-maker, and he felt uncomfortable.
 Therefore, instead of going [[motifs/home|home]], he walked up and down the street
 several times, and, eking out his leisure until evening, dined late at
@@ -16819,7 +16819,7 @@ mentioned somebody, of whom Sir Barnet had no more personal knowledge
 than of Ptolemy the Great. Sir Barnet replied, that nothing on earth
 was easier, as he knew him very [[motifs/well|well]]: immediately called on the
 aforesaid somebody, left his card, wrote a short note,—“My dear
-Sir—penalty of your eminent position—friend at my [[house]] naturally
+Sir—penalty of your eminent position—friend at my house naturally
 desirous—Lady Skettles and myself participate—trust that genius being
 superior to ceremonies, you will do us the distinguished favour of
 giving us the pleasure,” etc, etc.—and so killed a brace of [[motifs/birds|birds]] with
@@ -16870,7 +16870,7 @@ the [[motifs/time|time]] with the company assembled. Florence was glad of that; 
 had a study to pursue among them, and it lay too near her heart, and
 was too precious and momentous, to yield to any other interest.
 
-There were some children staying in the [[house]]. Children who were as
+There were some children staying in the house. Children who were as
 frank and happy with fathers and with mothers as those rosy faces
 opposite [[motifs/home|home]]. Children who had no restraint upon their [[motifs/love|love]], and
 freely showed it. Florence sought to learn their secret; sought to find
@@ -16880,10 +16880,10 @@ him, and to win his [[motifs/love|love]] again.
 
 Many a day did Florence thoughtfully observe these children. On many a
 bright morning did she leave her bed when the glorious sun [[motifs/rose|rose]], and
-walking up and down upon the [[motifs/river|river]]’s bank, before anyone in the [[house]]
+walking up and down upon the [[motifs/river|river]]’s bank, before anyone in the house
 was stirring, look up at the windows of their rooms, and think of them,
 asleep, so gently tended and affectionately thought of. Florence would
-feel more lonely then, than in the [[motifs/great-house|great house]] all [[Alone|alone]]; and would
+feel more lonely then, than in the [[motifs/great-house|great house]] all alone; and would
 think sometimes that she was better there than here, and that there was
 greater peace in hiding herself than in mingling with others of her
 age, and finding how unlike them all she was. But attentive to her
@@ -16911,7 +16911,7 @@ caress her. She could not begin by being so bold. Oh! could it be that
 there was less and less [[concepts/hope|hope]] as she studied more and more!
 
 She remembered [[motifs/well|well]], that even the old woman who had robbed her when a
-little [[archetypes/child|child]]—whose image and whose [[house]], and all she had said and
+little [[archetypes/child|child]]—whose image and whose house, and all she had said and
 done, were stamped upon her recollection, with the enduring sharpness
 of a fearful impression made at that early period of life—had spoken
 fondly of her daughter, and how terribly even she had cried out in the
@@ -16933,7 +16933,7 @@ girl, three or four years younger than she, who was an [[archetypes/orphan|orpha
 and who was accompanied by her aunt, a grey-haired lady, who spoke much
 to Florence, and who greatly liked (but that they all did) to hear her
 sing of an evening, and would always sit near her at that [[motifs/time|time]], with
-motherly interest. They had only been two days in the [[house]], when
+motherly interest. They had only been two days in the house, when
 Florence, being in an arbour in the [[motifs/garden|garden]] one warm morning, musingly
 observant of a youthful group upon the turf, through some intervening
 boughs,—and wreathing [[motifs/flowers|flowers]] for the head of one little creature among
@@ -17093,7 +17093,7 @@ their application of it to him; not for herself. So with any trifle of
 an interlude that was acted, or picture that was shown, or game that
 was played, among them. The occasions for such tenderness towards him
 were so many, that her mind misgave her often, it would indeed be
-better to go back to the old [[house]], and live again within the [[archetypes/shadow|shadow]] of
+better to go back to the old house, and live again within the [[archetypes/shadow|shadow]] of
 its dull walls, undisturbed. How few who saw sweet Florence, in her
 [[motifs/spring|spring]] of womanhood, the modest little [[characters/queen|queen]] of those small revels,
 imagined what a load of sacred care lay heavy in her breast! How few of
@@ -17102,7 +17102,7 @@ a heap of fiery coals was piled upon his head!
 
 Florence pursued her study patiently, and, failing to acquire the
 secret of the nameless grace she sought, among the youthful company who
-were assembled in the [[house]], often walked out [[Alone|alone]], in the early
+were assembled in the house, often walked out alone, in the early
 morning, among the children of the poor. But still she found them all
 too far advanced to learn from. They had won their household places
 long ago, and did not stand without, as she did, with a bar across the
@@ -17431,11 +17431,11 @@ exceeding sternness at the Grinder. “‘If you should never hear of me,
 or see me more, Ned, remember an old friend as he will remember you to
 the last—kindly; and at least until the period I have mentioned has
 expired, keep a [[motifs/home|home]] in the old place for Walter. There are no debts,
-the loan from Dombey’s [[house|House]] is paid off and all my keys I send with
+the loan from Dombey’s House is paid off and all my keys I send with
 this. Keep this quiet, and make no inquiry for me; it is useless. So no
 more, dear Ned, from your true friend, [[characters/solomon-gills|Solomon Gills]].’” The Captain
 took a long breath, and then read these words written below: “‘The boy
-Rob, [[motifs/well|well]] recommended, as I told you, from Dombey’s [[house|House]]. If all else
+Rob, [[motifs/well|well]] recommended, as I told you, from Dombey’s House. If all else
 should come to the hammer, take care, Ned, of the little Midshipman.’”
 
 To convey to posterity any idea of the manner in which the Captain,
@@ -17481,7 +17481,7 @@ merely to hold him by the shoulder all the way, and knock him down if
 he made any objection.
 
 However, he made none, and consequently got to the Instrument-maker’s
-[[house]] without being placed under any more stringent restraint. As the
+house without being placed under any more stringent restraint. As the
 shutters were not yet taken down, the Captain’s first care was to have
 the shop opened; and when the daylight was freely admitted, he
 proceeded, with its aid, to further investigation.
@@ -17491,13 +17491,13 @@ shop, as President of the solemn tribunal that was sitting within him;
 and to require Rob to lie down in his bed under the counter, show
 exactly where he discovered the keys and packet when he awoke, how he
 found the door when he went to try it, how he started off to Brig
-Place—cautiously preventing the latter [[Imitation|imitation]] from being carried
+Place—cautiously preventing the latter imitation from being carried
 farther than the threshold—and so on to the end of the chapter. When
 all this had been done several times, the Captain shook his head and
 seemed to think the matter had a bad look.
 
 Next, the Captain, with some indistinct idea of finding a [[concepts/body|body]],
-instituted a strict search over the whole [[house]]; groping in the cellars
+instituted a strict search over the whole house; groping in the cellars
 with a lighted candle, thrusting his hook behind doors, bringing his
 head into violent contact with beams, and covering himself with
 cobwebs. Mounting up to the old man’s bed-room, they found that he had
@@ -17555,7 +17555,7 @@ strained misgiving, but only too probable.
 
 Free from debt, and with no [[concepts/fear|fear]] for his personal liberty, or the
 seizure of his goods, what else but such a state of [[concepts/madness|madness]] could have
-hurried him away [[Alone|alone]] and secretly? As to his carrying some apparel
+hurried him away alone and secretly? As to his carrying some apparel
 with him, if he had really done so—and they were not even sure of
 that—he might have done so, the Captain argued, to prevent inquiry, to
 distract attention from his probable fate, or to ease the very mind
@@ -17578,7 +17578,7 @@ forth upon a dismal [[topoi/quest|quest]] after the mortal remains of [[characte
 <span class="atom-split" data-atom="chapter_53--part_03" data-title="Dombey and Son — Chapter 25 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,motif/crown,motif/home,motif/lamb,motif/night,motif/poison,motif/river,motif/ship,motif/silence,motif/time,motif/well,concept/body,concept/conscience,form/epic,setting/ship,character/captain_cuttle,character/solomon_gills"></span>
 
 
-Not a station-[[house]], or bone-[[house]], or work-[[house]] in the metropolis
+Not a station-house, or bone-house, or work-house in the metropolis
 escaped a visitation from the hard glazed hat. Along the wharves, among
 the shipping on the bank-side, up the [[motifs/river|river]], down the [[motifs/river|river]], here,
 there, everywhere, it went gleaming where men were thickest, like the
@@ -17595,7 +17595,7 @@ himself to consider what was to be done next. After several new
 perusals of his poor friend’s letter, he considered that the
 maintenance of “a [[motifs/home|home]] in the old place for Walter” was the primary
 duty imposed upon him. Therefore, the Captain’s decision was, that he
-would keep [[house]] on the premises of [[characters/solomon-gills|Solomon Gills]] himself, and would go
+would keep house on the premises of [[characters/solomon-gills|Solomon Gills]] himself, and would go
 into the instrument-business, and see what came of it.
 
 But as this step involved the relinquishment of his apartments at Mrs
@@ -17633,7 +17633,7 @@ purpose hidden beneath his blue waistcoat, inspired him with such a
 mortal dread of Mrs MacStinger, that the sound of that lady’s foot
 downstairs at any [[motifs/time|time]] of the day, was sufficient to throw him into a
 fit of trembling. It fell out, too, that Mrs MacStinger was in a
-charming temper—mild and placid as a [[house]]—[[motifs/lamb|lamb]]; and [[characters/captain-cuttle|Captain Cuttle]]’s
+charming temper—mild and placid as a house—[[motifs/lamb|lamb]]; and [[characters/captain-cuttle|Captain Cuttle]]’s
 [[concepts/conscience|conscience]] suffered terrible twinges, when she came up to inquire if
 she could cook him nothing for his dinner.
 
@@ -17868,7 +17868,7 @@ are the best adapted, by [[concepts/nature|nature]] and by position, for society
 know I have been frequently amazed that you should have held it at
 arm’s length so long!”
 
-“I have had my reasons, Carker. I have been [[Alone|alone]], and indifferent to
+“I have had my reasons, Carker. I have been alone, and indifferent to
 it. But you have great social qualifications yourself, and are the more
 likely to have been surprised.”
 
@@ -18191,7 +18191,7 @@ laughed again immensely.
 “Is there as much Heart in Mr Dombey as I gave him credit for?”
 languished [[characters/cleopatra|Cleopatra]] tenderly. “Do you think he is in earnest, my dear
 Major? Would you recommend his being spoken to, or his being left
-[[Alone|alone]]? Now tell me, like a dear man, what would you advise.”
+alone? Now tell me, like a dear man, what would you advise.”
 
 “Shall we marry him to [[characters/edith-granger|Edith Granger]], Ma’am?” chuckled the Major,
 hoarsely.
@@ -18289,7 +18289,7 @@ generally the most useless and disagreeable creature in the world: as
 you know—”
 
 “It is surely not worthwhile, Mama,” said Edith, looking round, “to
-observe these forms of speech. We are quite [[Alone|alone]]. We know each other.”
+observe these forms of speech. We are quite alone. We know each other.”
 
 The quiet scorn that sat upon her handsome face—a scorn that evidently
 lighted on herself, no less than them—was so intense and deep, that her
@@ -18358,7 +18358,7 @@ The Major, by saying these latter words aloud, in the vigour of his
 thoughts, caused the unhappy Native to stop, and turn round, in the
 belief that he was personally addressed. Exasperated to the last degree
 by this act of insubordination, the Major (though he was swelling with
-enjoyment of his own [[Humour|humour]]), at the moment of its occurrence instantly
+enjoyment of his own humour), at the moment of its occurrence instantly
 thrust his cane among the Native’s ribs, and continued to stir him up,
 at short intervals, all the way to the hotel.
 
@@ -18427,7 +18427,7 @@ thought you might be jesting when you seemed to hint at it; for I know
 you military men”—
 
 The Major gave the [[motifs/horse|horse]]’s cough, and shook his head and shoulders, as
-much as to say, “[[motifs/well|Well]]! we are gay [[dogs]], there’s no denying.” He then
+much as to say, “[[motifs/well|Well]]! we are gay dogs, there’s no denying.” He then
 seized Mr Carker by the button-hole, and with starting eyes whispered
 in his ear, that she was a woman of extraordinary charms, Sir. That she
 was a young widow, Sir. That she was of a fine family, Sir. That Dombey
@@ -18597,7 +18597,7 @@ than that it smiled or that it pondered. It pondered now, intently. As
 the lark [[motifs/rose|rose]] higher, he sank deeper in thought. As the lark poured out
 her melody clearer and stronger, he fell into a graver and profounder
 [[motifs/silence|silence]]. At length, when the lark came headlong down, with an
-accumulating stream of [[Song|song]], and dropped among the green wheat near
+accumulating stream of song, and dropped among the green wheat near
 him, rippling in the breath of the morning like a [[motifs/river|river]], he sprang up
 from his reverie, and looked round with a sudden smile, as courteous
 and as soft as if he had had numerous observers to propitiate; nor did
@@ -18607,7 +18607,7 @@ went smiling on, as if for practice.
 
 Perhaps with an eye to first impressions, Mr Carker was very carefully
 and trimly dressed, that morning. Though always somewhat formal, in his
-dress, in [[Imitation|imitation]] of the great man whom he served, he stopped short
+dress, in imitation of the great man whom he served, he stopped short
 of the extent of Mr Dombey’s stiffness: at once perhaps because he knew
 it to be ludicrous, and because in doing so he found another means of
 expressing his sense of the difference and distance between them. Some
@@ -18901,7 +18901,7 @@ smile.
 
 “Too much so, for our peace, perhaps, my dear,” returned her mother;
 “but we won’t complain. Our own emotions are our recompense. If, as
-your cousin Feenix says, the [[Sword|sword]] wears out the what’s-its-name—”
+your cousin Feenix says, the sword wears out the what’s-its-name—”
 
 “The scabbard, perhaps,” said Edith.
 
@@ -18921,7 +18921,7 @@ manner of this simple courtesy: almost defiant, and giving it the
 character of being rendered on compulsion, or as a matter of traffic to
 which she was a reluctant party again not lost upon that same observer
 who was smiling round the board. It set him thinking of her as he had
-first seen her, when she had believed herself to be [[Alone|alone]] among the
+first seen her, when she had believed herself to be alone among the
 trees.
 
 Mr Dombey having nothing else to say, proposed—the breakfast being now
@@ -18938,7 +18938,7 @@ the [[motifs/road|road]], or to the other—over distant landscape, with its smo
 undulations, [[motifs/wind|wind]]-mills, corn, grass, bean fields, wild-[[motifs/flowers|flowers]],
 farm-yards, hayricks, and the spire among the wood—or upwards in the
 sunny air, where butterflies were sporting round his head, and [[motifs/birds|birds]]
-were pouring out their [[songs]]—or downward, where the shadows of the
+were pouring out their songs—or downward, where the shadows of the
 branches interlaced, and made a trembling carpet on the [[motifs/road|road]]—or onward,
 where the overhanging trees formed aisles and arches, dim with the
 softened light that steeped through [[motifs/leaves|leaves]]—one corner of his eye was
@@ -19001,7 +19001,7 @@ pictures, there’s a composition! What gallery in the world can produce
 the counterpart of that?”
 
 As the smiling gentleman thus spake, he pointed through a doorway to
-where Mr Dombey and Edith were standing [[Alone|alone]] in the centre of another
+where Mr Dombey and Edith were standing alone in the centre of another
 room.
 
 They were not interchanging a word or a look. Standing together, arm in
@@ -19139,7 +19139,7 @@ pencils for Mrs Granger.”
 
 Mr Carker rode up close to the carriage-door on Mrs Granger’s side, and
 letting the rein fall on his [[motifs/horse|horse]]’s neck, took the pencils from her
-hand with a smile and a bow, and sat in the saddle leisurely [[mending]]
+hand with a smile and a bow, and sat in the saddle leisurely mending
 them. Having done so, he begged to be allowed to hold them, and to hand
 them to her as they were required; and thus Mr Carker, with many
 commendations of Mrs Granger’s extraordinary skill—especially in
@@ -19158,7 +19158,7 @@ gums to bear upon his praise. “I was not prepared for anything so
 beautiful, and so unusual altogether.”
 
 This might have applied to the sketcher no less than to the [[forms/sketch|sketch]]; but
-Mr Carker’s manner was openness itself—not as to his mouth [[Alone|alone]], but
+Mr Carker’s manner was openness itself—not as to his mouth alone, but
 as to his whole spirit. So it continued to be while the drawing was
 laid aside for Mr Dombey, and while the sketching materials were put
 up; then he handed in the pencils (which were received with a distant
@@ -19265,16 +19265,16 @@ downcast eyes, was not to be disturbed.
 
 Thus they remained for a long hour, without a word, until Mrs Skewton’s
 maid appeared, according to custom, to prepare her gradually for [[motifs/night|night]].
-At [[motifs/night|night]], she should have been a [[skeleton]], with dart and hour-glass,
+At [[motifs/night|night]], she should have been a skeleton, with dart and hour-glass,
 rather than a woman, this attendant; for her touch was as the touch of
 [[motifs/death|Death]]. The painted object shrivelled underneath her hand; the form
 collapsed, the hair dropped off, the arched dark eyebrows changed to
 scanty tufts of grey; the pale lips shrunk, the skin became cadaverous
-and loose; an old, worn, yellow, nodding woman, with red eyes, [[Alone|alone]]
+and loose; an old, worn, yellow, nodding woman, with red eyes, alone
 remained in [[characters/cleopatra|Cleopatra]]’s place, huddled up, like a slovenly bundle, in a
 greasy flannel gown.
 
-The very voice was changed, as it addressed Edith, when they were [[Alone|alone]]
+The very voice was changed, as it addressed Edith, when they were alone
 again.
 
 “Why don’t you tell me,” it said sharply, “that he is coming here
@@ -19388,7 +19388,7 @@ she pressed her hands upon it, a terrible tremble crept over her whole
 frame. It was quickly gone; and with her usual step, she passed out of
 the room.
 
-The maid who should have been a [[skeleton]], then reappeared, and giving
+The maid who should have been a skeleton, then reappeared, and giving
 one arm to her mistress, who appeared to have taken off her manner with
 her charms, and to have put on paralysis with her flannel gown,
 collected the ashes of [[characters/cleopatra|Cleopatra]], and carried them away in the other,
@@ -19434,7 +19434,7 @@ that her merits had been always designedly extinguished by Mr Dombey:
 “was the floor below the attics.”
 
 “To be sure,” said Florence, still thoughtfully; “you are not likely to
-have known who came to the [[house]]. I quite forgot.”
+have known who came to the house. I quite forgot.”
 
 “Not, Miss, but what we talked about the family and visitors,” said
 Susan, “and but what I heard much said, although the [[characters/nurse|nurse]] before Mrs
@@ -19449,7 +19449,7 @@ said, she was so lost in thought.
 
 “At all events, Miss,” said Susan, “I remember very [[motifs/well|well]] that this same
 gentleman, Mr Carker, was almost, if not quite, as great a gentleman
-with your Papa then, as he is now. It used to be said in the [[house]]
+with your Papa then, as he is now. It used to be said in the house
 then, Miss, that he was at the head of all your Pa’s affairs in the
 [[motifs/city|City]], and managed the whole, and that your Pa minded him more than
 anybody, which, begging your pardon, Miss Floy, he might easy do, for
@@ -19462,13 +19462,13 @@ Richards, emphasised “Pitcher” strongly.
 “And that Mr Carker has not fallen off, Miss,” she pursued, “but has
 stood his ground, and kept his credit with your Pa, I know from what is
 always said among our people by that Perch, whenever he comes to the
-[[house]]; and though he’s the weakest weed in the world, Miss Floy, and no
+house; and though he’s the weakest weed in the world, Miss Floy, and no
 one can have a moment’s patience with the man, he knows what goes on in
 the [[motifs/city|City]] tolerable [[motifs/well|well]], and says that your Pa does nothing without Mr
 Carker, and [[motifs/leaves|leaves]] all to Mr Carker, and acts according to Mr Carker,
 and has Mr Carker always at his elbow, and I do believe that he
 believes (that washiest of Perches!) that after your Pa, the Emperor of
-India is the [[archetypes/child|child]] [[unborn]] to Mr Carker.”
+India is the [[archetypes/child|child]] unborn to Mr Carker.”
 
 Not a word of this was lost on Florence, who, with an awakened interest
 in Susan’s speech, no longer gazed abstractedly on the prospect
@@ -19508,7 +19508,7 @@ unwittingly to blame for their so cold and distant relations, would
 recall to mind that this gentleman was his confidential friend, and
 would think, with an anxious heart, could her struggling tendency to
 dislike and [[concepts/fear|fear]] him be a part of that misfortune in her, which had
-turned her father’s [[motifs/love|love]] adrift, and left her so [[Alone|alone]]? She dreaded
+turned her father’s [[motifs/love|love]] adrift, and left her so alone? She dreaded
 that it might be; sometimes believed it was: then she resolved that she
 would try to conquer this wrong feeling; persuaded herself that she was
 honoured and encouraged by the notice of her father’s friend; and hoped
@@ -19536,7 +19536,7 @@ her [[motifs/sleep|sleep]], it flew away in [[motifs/dreams|dreams]], and nestle
 come [[motifs/home|home]], upon her father’s neck.
 
 Of Walter she thought often. Ah! how often, when the [[motifs/night|night]] was gloomy,
-and the [[motifs/wind|wind]] was blowing round the [[house]]! But [[concepts/hope|hope]] was strong in her
+and the [[motifs/wind|wind]] was blowing round the house! But [[concepts/hope|hope]] was strong in her
 breast. It is so difficult for the young and ardent, even with such
 experience as hers, to imagine youth and ardour quenched like a weak
 flame, and the bright day of life merging into [[motifs/night|night]], at [[motifs/noon|noon]], that
@@ -19555,7 +19555,7 @@ that young gentleman and his fellow-pilgrims to Parnassus were then, no
 was past and over; most of the juvenile guests at the villa had taken
 their departure; and Florence’s long visit was come to an end.
 
-There was one guest, however, albeit not resident within the [[house]], who
+There was one guest, however, albeit not resident within the house, who
 had been very constant in his attentions to the family, and who still
 remained devoted to them. This was Mr Toots, who after renewing, some
 weeks ago, the acquaintance he had had the happiness of forming with
@@ -19602,7 +19602,7 @@ lawn, while the artful Chicken steered close in shore.
 thing that I should see you here!”
 
 Mr Toots, in his sagacity, always said this, as if, instead of that
-being Sir Barnet’s [[house]], it were some deserted edifice on the banks of
+being Sir Barnet’s house, it were some deserted edifice on the banks of
 the Nile, or Ganges.
 
 “I never was so surprised!” Mr Toots would exclaim.—“Is Miss Dombey
@@ -19663,7 +19663,7 @@ until Sir Barnet appeared: to whom he immediately clung with the
 tenacity of desperation.
 
 “We are losing, today, Toots,” said Sir Barnet, turning towards
-Florence, “the light of our [[house]], I assure you”
+Florence, “the light of our house, I assure you”
 
 “Oh, it’s of no conseq—I mean yes, to be sure,” faltered the
 embarrassed Mr Toots. “Good morning!”
@@ -19696,7 +19696,7 @@ Doctor Blimber’s: and when the carriage drove away, her face was wet
 with [[motifs/tears|tears]].
 
 Sorrowful [[motifs/tears|tears]], but [[motifs/tears|tears]] of consolation, too; for all the softer
-memories connected with the dull old [[house]] to which she was returning
+memories connected with the dull old house to which she was returning
 made it dear to her, as they [[motifs/rose|rose]] up. How long it seemed since she had
 wandered through the silent rooms: since she had last crept, softly and
 afraid, into those her father occupied: since she had felt the solemn
@@ -19705,7 +19705,7 @@ daily life! This new farewell reminded her, besides, of her parting
 with poor Walter: of his looks and words that [[motifs/night|night]]: and of the
 gracious blending she had noticed in him, of tenderness for those he
 left behind, with [[concepts/courage|courage]] and high spirit. His little [[concepts/history|history]] was
-associated with the old [[house]] too, and gave it a new claim and hold
+associated with the old house too, and gave it a new claim and hold
 upon her heart.
 
 Even [[characters/susan-nipper|Susan Nipper]] softened towards the [[motifs/home|home]] of so many years, as they
@@ -19719,14 +19719,14 @@ down, neither!”
 Florence, smiling.
 
 “[[motifs/well|Well]], Miss,” returned the Nipper, softening more and more towards the
-[[house]], as they approached it nearer, “I won’t deny but what I shall,
+house, as they approached it nearer, “I won’t deny but what I shall,
 though I shall hate ’em again, to-morrow, very likely.”
 
 Florence felt that, for her, there was greater peace within it than
 elsewhere. It was better and easier to keep her secret shut up there,
 among the tall dark walls, than to carry it abroad into the light, and
 try to hide it from a crowd of happy eyes. It was better to pursue the
-study of her loving heart, [[Alone|alone]], and find no new discouragements in
+study of her loving heart, alone, and find no new discouragements in
 loving hearts about her. It was easier to [[concepts/hope|hope]], and pray, and [[motifs/love|love]] on,
 all uncared for, yet with constancy and patience, in the tranquil
 sanctuary of such remembrances: although it mouldered, rusted, and
@@ -19742,15 +19742,15 @@ of her [[motifs/window|window]] for the children over the way.
 She was thus engaged, when an exclamation from Susan caused her to turn
 quickly round.
 
-“Why, Gracious me!” cried Susan, breathless, “where’s our [[house]]!”
+“Why, Gracious me!” cried Susan, breathless, “where’s our house!”
 
-“Our [[house]]!” said Florence.
+“Our house!” said Florence.
 
 Susan, drawing in her head from the [[motifs/window|window]], thrust it out again, drew
 it in again as the carriage stopped, and stared at her mistress in
 amazement.
 
-There was a labyrinth of scaffolding raised all round the [[house]], from
+There was a labyrinth of scaffolding raised all round the house, from
 the basement to the roof. Loads of bricks and stones, and heaps of
 mortar, and piles of wood, blocked up half the width and length of the
 broad street at the side. Ladders were raised against the walls;
@@ -19771,7 +19771,7 @@ trowel: all at work together, in full [[characters/chorus|chorus]]!
 
 
 Florence descended from the coach, half doubting if it were, or could
-be the right [[house]], until she recognised Towlinson, with a sun-burnt
+be the right house, until she recognised Towlinson, with a sun-burnt
 face, standing at the door to receive her.
 
 “There is nothing the matter?” inquired Florence.
@@ -19782,13 +19782,13 @@ face, standing at the door to receive her.
 
 “Yes, Miss, great alterations,” said Towlinson.
 
-Florence passed him as if she were in [[A Dream|a dream]], and hurried upstairs.
+Florence passed him as if she were in a dream, and hurried upstairs.
 The garish light was in the long-darkened drawing-room and there were
 steps and platforms, and men in paper caps, in the high places. Her
 mother’s picture was gone with the rest of the moveables, and on the
 mark where it had been, was scrawled in [[motifs/chalk|chalk]], “this room in panel.
 Green and gold.” The staircase was a labyrinth of posts and planks like
-the outside of the [[house]], and a whole Olympus of plumbers and glaziers
+the outside of the house, and a whole Olympus of plumbers and glaziers
 was reclining in various attitudes, on the skylight. Her own room was
 not yet touched within, but there were beams and boards raised against
 it without, baulking the daylight. She went up swiftly to that other
@@ -19811,7 +19811,7 @@ she thought she would.
 Her father might have heard that heart beat, when it came into his
 presence. One instant, and it would have beat against his breast.
 
-But he was not [[Alone|alone]]. There were two ladies there; and Florence
+But he was not alone. There were two ladies there; and Florence
 stopped. Striving so hard with her emotion, that if her brute friend Di
 had not burst in and overwhelmed her with his caresses as a welcome
 [[motifs/home|home]]—at which one of the ladies gave a little scream, and that diverted
@@ -19917,7 +19917,7 @@ The Opening of the Eyes of Mrs Chick
 
 
 Miss Tox, all unconscious of any such rare appearances in connexion
-with Mr Dombey’s [[house]], as scaffoldings and ladders, and men with their
+with Mr Dombey’s house, as scaffoldings and ladders, and men with their
 heads tied up in pocket-handkerchiefs, glaring in at the windows like
 flying genii or strange [[motifs/birds|birds]],—having breakfasted one morning at about
 this eventful period of [[motifs/time|time]], on her customary viands; to wit, one
@@ -19963,7 +19963,7 @@ their little best to keep those dwellings miserable!), yet it was
 wafted faintly into Princess’s Place, whispering of [[concepts/nature|Nature]] and her
 wholesome air, as such things will, even unto prisoners and captives,
 and those who are desolate and oppressed, in very spite of aldermen and
-knights to boot: at whose sage nod—and how they nod!—the [[rolling]] world
+knights to boot: at whose sage nod—and how they nod!—the rolling world
 stands still!
 
 Miss Tox sat down upon the [[motifs/window|window]]-seat, and thought of her good Papa
@@ -20041,7 +20041,7 @@ must expect change.”
 of change. Anyone would surprise me very much, Lucretia, and would
 greatly alter my opinion of their understanding, if they attempted to
 contradict or evade what is so perfectly evident. Change!” exclaimed
-Mrs Chick, with severe [[philosophy]]. “Why, my gracious me, what is there
+Mrs Chick, with severe philosophy. “Why, my gracious me, what is there
 that does _not_ change! even the silkworm, who I am sure might be
 supposed not to trouble itself about such subjects, changes into all
 sorts of unexpected things continually.”
@@ -20371,7 +20371,7 @@ for anything we could tell?”
 stop at the floor, but as if she were about to soar up, high, into her
 native skies, “beyond which [[concepts/endurance|endurance]] becomes ridiculous, if not
 culpable. I can bear much; but not too much. What spell was on me when
-I came into this [[house]] this day, I don’t know; but I had a
+I came into this house this day, I don’t know; but I had a
 presentiment—a dark presentiment,” said Mrs Chick, with a shiver, “that
 something was going to happen. [[motifs/well|Well]] may I have had that foreboding,
 Lucretia, when my confidence of many years is destroyed in an instant,
@@ -20473,14 +20473,14 @@ CHAPTER XXX.
 The interval before the [[motifs/marriage|Marriage]]
 
 
-Although the enchanted [[house]] was no more, and the working world had
+Although the enchanted house was no more, and the working world had
 broken into it, and was hammering and crashing and tramping up and down
 stairs all day long keeping Diogenes in an incessant paroxysm of
 barking, from sunrise to sunset—evidently convinced that his enemy had
 got the better of him at last, and was then sacking the premises in
 triumphant defiance—there was, at first, no other great change in the
 method of Florence’s life. At [[motifs/night|night]], when the workpeople went away, the
-[[house]] was dreary and deserted again; and Florence, listening to their
+house was dreary and deserted again; and Florence, listening to their
 voices echoing through the hall and staircase as they departed,
 pictured to herself the cheerful homes to which they were returning,
 and the children who were waiting for them, and was glad to think that
@@ -20498,7 +20498,7 @@ twilight and were welcome company. Peeping at the rosy children her
 neighbours, it was a new and precious sensation to think that they
 might soon speak together and know each other; when she would not [[concepts/fear|fear]],
 as of old, to show herself before them, lest they should be grieved to
-see her in her black dress sitting there [[Alone|alone]]!
+see her in her black dress sitting there alone!
 
 In her thoughts of her new mother, and in the [[motifs/love|love]] and trust
 overflowing her pure heart towards her, Florence loved her own dead
@@ -20532,7 +20532,7 @@ She led Florence to a chair beside her, and sat down: Florence looking
 in her face, quite wondering at its [[concepts/beauty|beauty]], and willingly leaving her
 hand in hers.
 
-“Have you been [[Alone|alone]], Florence, since I was here last?”
+“Have you been alone, Florence, since I was here last?”
 
 “Oh yes!” smiled Florence, hastily.
 
@@ -20540,7 +20540,7 @@ She hesitated and cast down her eyes; for her new Mama was very earnest
 in her look, and the look was intently and thoughtfully fixed upon her
 face.
 
-“I—I—am used to be [[Alone|alone]],” said Florence. “I don’t mind it at all. Di
+“I—I—am used to be alone,” said Florence. “I don’t mind it at all. Di
 and I pass whole days together, sometimes.” Florence might have said,
 whole weeks and months.
 
@@ -20550,7 +20550,7 @@ whole weeks and months.
 
 “And these are your rooms,” said Edith, looking round. “I was not shown
 these rooms the other day. We must have them improved, Florence. They
-shall be made the prettiest in the [[house]].”
+shall be made the prettiest in the house.”
 
 “If I might change them, Mama,” returned Florence; “there is one
 upstairs I should like much better.”
@@ -20605,11 +20605,11 @@ trust each other, Florence.”
 you!”
 
 “Let me say now, for it may be the best opportunity,” continued Edith,
-looking round to see that they were quite [[Alone|alone]], and speaking in a
+looking round to see that they were quite alone, and speaking in a
 lower voice, “that when I am married, and have gone away for some
 weeks, I shall be easier at heart if you will come [[motifs/home|home]] here. No matter
 who invites you to stay elsewhere. Come [[motifs/home|home]] here. It is better to be
-[[Alone|alone]] than—what I would say is,” she added, checking herself, “that I
+alone than—what I would say is,” she added, checking herself, “that I
 know [[motifs/well|well]] you are best at [[motifs/home|home]], dear Florence.”
 
 “I will come [[motifs/home|home]] on the very day, Mama”
@@ -20617,7 +20617,7 @@ know [[motifs/well|well]] you are best at [[motifs/home|home]], dear Florence.�
 “Do so. I rely on that promise. Now, prepare to come with me, dear
 girl. You will find me downstairs when you are ready.”
 
-Slowly and thoughtfully did Edith wander [[Alone|alone]] through the mansion of
+Slowly and thoughtfully did Edith wander alone through the mansion of
 which she was so soon to be the lady: and little heed took she of all
 the elegance and splendour it began to display. The same indomitable
 haughtiness of [[motifs/soul|soul]], the same proud scorn expressed in eye and lip, the
@@ -20651,7 +20651,7 @@ The Honourable Mrs Skewton, who was thinking of anything rather than of
 such sentiments—for, like many genteel persons who have existed at
 various times, she set her face against [[motifs/death|death]] altogether, and objected
 to the mention of any such low and levelling upstart—had borrowed a
-[[house]] in Brook Street, Grosvenor Square, from a stately relative (one
+house in Brook Street, Grosvenor Square, from a stately relative (one
 of the Feenix brood), who was out of town, and who did not object to
 lending it, in the handsomest manner, for nuptial purposes, as the loan
 implied his final release and acquittance from all further loans and
@@ -20660,7 +20660,7 @@ credit of the family to make a handsome appearance at such a [[motifs/time|time]
 Skewton, with the assistance of an accommodating tradesman resident in
 the parish of Mary-le-bone, who lent out all sorts of articles to the
 nobility and gentry, from a service of plate to an army of footmen,
-clapped into this [[house]] a silver-headed butler (who was charged extra
+clapped into this house a silver-headed butler (who was charged extra
 on that account, as having the appearance of an ancient family
 retainer), two very tall young men in livery, and a select staff of
 kitchen-servants; so that a legend arose, downstairs, that Withers the
@@ -20739,7 +20739,7 @@ him into a perfect ecstasy. Florence was troubled to hear this; and her
 distress became so keen, as the dinner-hour approached, that if she had
 known how to frame an entreaty to be suffered to return [[motifs/home|home]], without
 involving her father in her explanation, she would have hurried back on
-foot, bareheaded, breathless, and [[Alone|alone]], rather than incur the risk of
+foot, bareheaded, breathless, and alone, rather than incur the risk of
 meeting his displeasure.
 
 As the [[motifs/time|time]] drew nearer, she could hardly breathe. She dared not
@@ -20901,11 +20901,11 @@ of his beautiful betrothed. He had that good reason for sympathy with
 haughtiness and coldness, which is found in a fellow-feeling. It
 flattered him to think how these deferred to him, in Edith’s case, and
 seemed to have no will apart from his. It flattered him to picture to
-himself, this proud and stately woman doing the honours of his [[house]],
+himself, this proud and stately woman doing the honours of his house,
 and chilling his guests after his own manner. The dignity of Dombey and
 Son would be heightened and maintained, indeed, in such hands.
 
-So thought Mr Dombey, when he was left [[Alone|alone]] at the dining-table, and
+So thought Mr Dombey, when he was left alone at the dining-table, and
 mused upon his past and future fortunes: finding no uncongeniality in
 an air of scant and gloomy state that pervaded the room, in colour a
 dark brown, with black hatchments of pictures blotching the walls, and
@@ -20914,7 +20914,7 @@ coffins, waiting like mutes, upon the threshold of the Turkey carpet;
 and two exhausted negroes holding up two withered branches of
 candelabra on the sideboard, and a musty smell prevailing as if the
 ashes of ten thousand dinners were entombed in the sarcophagus below
-it. The owner of the [[house]] lived much abroad; the air of England seldom
+it. The owner of the house lived much abroad; the air of England seldom
 agreed long with a member of the Feenix family; and the room had
 gradually put itself into deeper and still deeper mourning for him,
 until it was become so funereal as to want nothing but a [[concepts/body|body]] in it to
@@ -21033,7 +21033,7 @@ early, my dear Dombey!”
 
 Oh, indeed! it was late, and Mr Dombey feared he must.
 
-“Is this a fact, or is it all [[A Dream|a dream]]!” lisped [[characters/cleopatra|Cleopatra]]. “Can I
+“Is this a fact, or is it all a dream!” lisped [[characters/cleopatra|Cleopatra]]. “Can I
 believe, my dearest Dombey, that you are coming back tomorrow morning
 to deprive me of my sweet companion; my own Edith!”
 
@@ -21056,7 +21056,7 @@ boots towards her, put her hand to his lips, said, “Tomorrow morning I
 shall have the happiness of claiming this hand as Mrs Dombey’s,” and
 bowed himself solemnly out.
 
-Mrs Skewton rang for candles as soon as the [[house]]-door had closed upon
+Mrs Skewton rang for candles as soon as the house-door had closed upon
 him. With the candles appeared her maid, with the juvenile dress that
 was to delude the world to-morrow. The dress had savage retribution in
 it, as such dresses ever have, and made her infinitely older and more
@@ -21064,10 +21064,10 @@ hideous than her greasy flannel gown. But Mrs Skewton tried it on with
 mincing satisfaction; smirked at her cadaverous [[concepts/self|self]] in the glass, as
 she thought of its killing effect upon the Major; and [[concepts/suffering|suffering]] her
 maid to take it off again, and to prepare her for repose, tumbled into
-ruins like a [[house]] of painted cards.
+ruins like a house of painted cards.
 
 All this [[motifs/time|time]], Edith remained at the dark [[motifs/window|window]] looking out into the
-street. When she and her mother were at last left [[Alone|alone]], she moved from
+street. When she and her mother were at last left alone, she moved from
 it for the first [[motifs/time|time]] that evening, and came opposite to her. The
 yawning, shaking, peevish figure of the mother, with her eyes raised to
 confront the proud erect form of the daughter, whose glance of [[motifs/fire|fire]] was
@@ -21086,9 +21086,9 @@ and undutiful.”
 
 “Listen to me, mother,” returned Edith, passing these words by with a
 scorn that would not descend to trifle with them. “You must remain
-[[Alone|alone]] here until I return.”
+alone here until I return.”
 
-“Must remain [[Alone|alone]] here, Edith, until you return!” repeated her mother.
+“Must remain alone here, Edith, until you return!” repeated her mother.
 
 “Or in that name upon which I shall call to-morrow to witness what I
 do, so falsely: and so shamefully, I swear I will refuse the hand of
@@ -21105,10 +21105,10 @@ leisure of a world of mothers. You know my meaning. Florence must go
 [[motifs/home|home]].”
 
 “You are an idiot, Edith,” cried her angry mother. “Do you expect there
-can ever be peace for you in that [[house]], till she is married, and
+can ever be peace for you in that house, till she is married, and
 away?”
 
-“Ask me, or ask yourself, if I ever expect peace in that [[house]],” said
+“Ask me, or ask yourself, if I ever expect peace in that house,” said
 her daughter, “and you know the answer.”
 
 “And am I to be told tonight, after all my pains and labour, and when
@@ -21155,7 +21155,7 @@ sure I am willing she should go. What is the girl to me?”
 “She is so much to me, that rather than communicate, or suffer to be
 communicated to her, one grain of the evil that is in my breast,
 mother, I would renounce you, as I would (if you gave me cause)
-renounce him in the church to-morrow,” replied Edith. “Leave her [[Alone|alone]].
+renounce him in the church to-morrow,” replied Edith. “Leave her alone.
 She shall not, while I can interpose, be tampered with and tainted by
 the lessons I have learned. This is no hard condition on this bitter
 [[motifs/night|night]].”
@@ -21175,13 +21175,13 @@ that set itself upon the neck of every soft emotion, she bade her
 mother good-[[motifs/night|night]], and repaired to her own room.
 
 But not to rest; for there was no rest in the tumult of her agitation
-when [[Alone|alone]] to and fro, and to and fro, and to and fro again, five
+when alone to and fro, and to and fro, and to and fro again, five
 hundred times, among the splendid preparations for her adornment on the
 morrow; with her dark hair shaken down, her dark eyes flashing with a
 raging light, her broad white bosom red with the cruel grasp of the
 relentless hand with which she spurned it from her, pacing up and down
 with an averted head, as if she would avoid the sight of her own fair
-person, and [[divorce]] herself from its companionship. Thus, in the dead
+person, and divorce herself from its companionship. Thus, in the dead
 [[motifs/time|time]] of the [[motifs/night|night]] before her bridal, [[characters/edith-granger|Edith Granger]] wrestled with her
 unquiet spirit, tearless, friendless, silent, proud, and uncomplaining.
 
@@ -21191,7 +21191,7 @@ room where Florence lay.
 She started, stopped, and looked in.
 
 A light was burning there, and showed her Florence in her bloom of
-[[innocence]] and [[concepts/beauty|beauty]], fast asleep. Edith held her breath, and felt
+innocence and [[concepts/beauty|beauty]], fast asleep. Edith held her breath, and felt
 herself drawn on towards her.
 
 Drawn nearer, nearer, nearer yet; at last, drawn so near, that stooping
@@ -21259,7 +21259,7 @@ positively undertake to say so.
 Busy is Mrs Miff this morning at the church-door, beating and dusting
 the altar-cloth, the carpet, and the cushions; and much has Mrs Miff to
 say, about the wedding they are going to have. Mrs Miff is told, that
-the new furniture and alterations in the [[house]] cost full five thousand
+the new furniture and alterations in the house cost full five thousand
 pound if they cost a penny; and Mrs Miff has heard, upon the best
 authority, that the lady hasn’t got a sixpence wherewithal to bless
 herself. Mrs Miff remembers, like wise, as if it had happened
@@ -21276,7 +21276,7 @@ with unction, yes, he hears she is a spanker—an expression that seems
 somewhat forcible to Mrs Miff, or would, from any lips but those of Mr
 Sownds the Beadle.
 
-In Mr Dombey’s [[house]], at this same [[motifs/time|time]], there is great stir and
+In Mr Dombey’s house, at this same [[motifs/time|time]], there is great stir and
 bustle, more especially among the women: not one of whom has had a wink
 of [[motifs/sleep|sleep]] since four o’[[motifs/clock|clock]], and all of whom were fully dressed before
 six. Mr Towlinson is an object of greater consideration than usual to
@@ -21300,7 +21300,7 @@ The very tall young man is conscious of this failing in himself; and
 informs his comrade that it’s his “exciseman.” The very tall young man
 would say excitement, but his speech is hazy.
 
-The men who play [[The Bells|the bells]] have got scent of the [[motifs/marriage|marriage]]; and the
+The men who play the bells have got scent of the [[motifs/marriage|marriage]]; and the
 marrow-bones and cleavers too; and a brass band too. The first, are
 practising in a back settlement near Battlebridge; the second, put
 themselves in communication, through their chief, with Mr Towlinson, to
@@ -21342,7 +21342,7 @@ Rob the Grinder, with sonorous satisfaction.
 
 
 Besides all this, and much more, twenty nursery-maids in Mr Dombey’s
-street [[Alone|alone]], have promised twenty families of little women, whose
+street alone, have promised twenty families of little women, whose
 instinctive interest in nuptials dates from their cradles, that they
 shall go and see the [[motifs/marriage|marriage]]. Truly, Mr Sownds the Beadle has good
 reason to feel himself in office, as he suns his portly figure on the
@@ -21366,10 +21366,10 @@ the women on the staircase, who disperse in all directions, with a
 great rustling of skirts, except Mrs Perch, who, being (but that she
 always is) in an interesting situation, is not nimble, and is obliged
 to face him, and is ready to sink with confusion as she curtesys;—may
-Heaven avert all evil consequences from the [[house]] of Perch! Mr Dombey
+Heaven avert all evil consequences from the house of Perch! Mr Dombey
 walks up to the drawing-room, to bide his [[motifs/time|time]]. Gorgeous are Mr
 Dombey’s new blue coat, fawn-coloured pantaloons, and lilac waistcoat;
-and a whisper goes about the [[house]], that Mr Dombey’s hair is curled.
+and a whisper goes about the house, that Mr Dombey’s hair is curled.
 
 A [[topoi/double|double]] knock announces the arrival of the Major, who is gorgeous too,
 and wears a whole geranium in his button-hole, and has his hair curled
@@ -21523,7 +21523,7 @@ spirits, even for her society.”
 
 “Had she not better stay with you?” returns the Bridegroom.
 
-“I think not, my dear Dombey. No, I think not. I shall be better [[Alone|alone]].
+“I think not, my dear Dombey. No, I think not. I shall be better alone.
 Besides, my dearest Edith will be her natural and constant guardian
 when you return, and I had better not encroach upon her trust, perhaps.
 She might be jealous. Eh, dear Edith?”
@@ -21672,7 +21672,7 @@ count what they have gained by the affair, and talk it over, while the
 sexton tolls a funeral.
 
 Now, the carriages arrive at the Bride’s residence, and the players on
-[[The Bells|the bells]] begin to jingle, and the band strikes up, and Mr Punch, that
+the bells begin to jingle, and the band strikes up, and Mr Punch, that
 model of connubial bliss, salutes his wife. Now, the people run, and
 push, and press round in a gaping throng, while Mr Dombey, leading Mrs
 Dombey by the hand, advances solemnly into the Feenix Halls. Now, the
@@ -21715,7 +21715,7 @@ white wristbands almost covering his hands (otherwise rather bony), and
 the bloom of the champagne in his cheeks.
 
 “Upon my [[concepts/honour|honour]],” says Cousin Feenix, “although it’s an unusual sort of
-thing in a private gentleman’s [[house]], I must beg leave to call upon you
+thing in a private gentleman’s house, I must beg leave to call upon you
 to drink what is usually called a—in fact a toast.”
 
 The Major very hoarsely indicates his approval. Mr Carker, bending his
@@ -21734,7 +21734,7 @@ personally to express his sense of the good it has done.
 
 “It is,” says Cousin Feenix, “an occasion in fact, when the general
 usages of life may be a little departed from, without impropriety; and
-although I never was an orator in my life, and when I was in the [[house|House]]
+although I never was an orator in my life, and when I was in the House
 of Commons, and had the [[concepts/honour|honour]] of seconding the address, was—in fact,
 was laid up for a fortnight with the consciousness of failure—”
 
@@ -21764,7 +21764,7 @@ and perhaps unprecedented, appeal to the feelings.
 could have desired, of cultivating the acquaintance of my friend
 Dombey, and studying those qualities which do equal [[concepts/honour|honour]] to his head,
 and, in point of fact, to his heart; for it has been my misfortune to
-be, as we used to say in my [[motifs/time|time]] in the [[house|House]] of Commons, when it was
+be, as we used to say in my [[motifs/time|time]] in the House of Commons, when it was
 not the custom to allude to the Lords, and when the order of
 parliamentary proceedings was perhaps better observed than it is now—to
 be in—in point of fact,” says Cousin Feenix, cherishing his joke, with
@@ -21820,7 +21820,7 @@ generally takes the lead in society, has said, it is impossible to
 settle down after this, and why not go, in a party, to the play?
 Everybody (Mrs Perch included) has agreed to this; even the Native, who
 is tigerish in his drink, and who alarms the ladies (Mrs Perch
-particularly) by the [[rolling]] of his eyes. One of the very tall young
+particularly) by the rolling of his eyes. One of the very tall young
 men has even proposed a ball after the play, and it presents itself to
 no one (Mrs Perch included) in the light of an impossibility. Words
 have arisen between the housemaid and Mr Towlinson; she, on the
@@ -21866,7 +21866,7 @@ lost, and sheds several [[motifs/tears|tears]]. The Major, coming with the rest 
 company from table, endeavours to comfort her; but she will not be
 comforted on any terms, and so the Major takes his leave. Cousin Feenix
 takes his leave, and Mr Carker takes his leave. The guests all go away.
-[[characters/cleopatra|Cleopatra]], left [[Alone|alone]], feels a little giddy from her strong emotion,
+[[characters/cleopatra|Cleopatra]], left alone, feels a little giddy from her strong emotion,
 and falls asleep.
 
 Giddiness prevails below stairs too. The very tall young man whose
@@ -21899,17 +21899,17 @@ garnish as the breakfast. Mr Dombey’s servants moralise so much about
 it, and are so repentant over their early tea, at [[motifs/home|home]], that by eight
 o’[[motifs/clock|clock]] or so, they settle down into confirmed seriousness; and Mr
 Perch, arriving at that [[motifs/time|time]] from the [[motifs/city|City]], fresh and jocular, with a
-white waistcoat and a comic [[Song|song]], ready to spend the evening, and
+white waistcoat and a comic song, ready to spend the evening, and
 prepared for any amount of dissipation, is amazed to find himself
 coldly received, and Mrs Perch but poorly, and to have the pleasing
 duty of escorting that lady [[motifs/home|home]] by the next omnibus.
 
-[[motifs/night|Night]] closes in. Florence, having rambled through the handsome [[house]],
+[[motifs/night|Night]] closes in. Florence, having rambled through the handsome house,
 from room to room, seeks her own chamber, where the care of Edith has
 surrounded her with luxuries and comforts; and divesting herself of her
 handsome dress, puts on her old simple mourning for dear Paul, and sits
 down to read, with Diogenes winking and blinking on the ground beside
-her. But Florence cannot read tonight. The [[house]] seems strange and new,
+her. But Florence cannot read tonight. The house seems strange and new,
 and there are loud echoes in it. There is a [[archetypes/shadow|shadow]] on her heart: she
 knows not why or what: but it is heavy. Florence shuts her book, and
 gruff Diogenes, who takes that for a signal, puts his paws upon her
@@ -22060,7 +22060,7 @@ generous, handsome, gallant-hearted youth, whom he had loved, according
 to his rough manner, from a [[archetypes/child|child]], began to fade, and faded more and
 more from day to day, shrunk with instinctive [[motifs/pain|pain]] from the thought of
 exchanging a word with Florence. If he had had good news to carry to
-her, the honest Captain would have braved the newly decorated [[house]] and
+her, the honest Captain would have braved the newly decorated house and
 splendid furniture—though these, connected with the lady he had seen at
 church, were awful to him—and made his way into her presence. With a
 dark horizon gathering around their common hopes, however, that
@@ -22077,7 +22077,7 @@ visit from Florence, than from Mrs MacStinger herself.
 It was a chill dark [[motifs/autumn|autumn]] evening, and [[characters/captain-cuttle|Captain Cuttle]] had ordered a
 [[motifs/fire|fire]] to be kindled in the little back parlour, now more than ever like
 the cabin of a [[motifs/ship|ship]]. The rain fell fast, and the [[motifs/wind|wind]] blew hard; and
-straying out on the [[house]]-top by that stormy bedroom of his old friend,
+straying out on the house-top by that stormy bedroom of his old friend,
 to take an observation of the weather, the Captain’s heart died within
 him, when he saw how wild and desolate it was. Not that he associated
 the weather of that [[motifs/time|time]] with poor Walter’s destiny, or doubted that if
@@ -22089,7 +22089,7 @@ will often do again.
 
 [[characters/captain-cuttle|Captain Cuttle]], addressing his face to the sharp [[motifs/wind|wind]] and slanting
 rain, looked up at the heavy scud that was flying fast over the
-wilderness of [[house]]-tops, and looked for something cheery there in
+wilderness of house-tops, and looked for something cheery there in
 vain. The prospect near at hand was no better. In sundry tea-chests and
 other rough boxes at his feet, the pigeons of Rob the Grinder were
 cooing like so many dismal breezes getting up. A crazy weathercock of a
@@ -22101,7 +22101,7 @@ like steel beads; and he could hardly maintain himself aslant against
 the stiff Nor’-Wester that came pressing against him, importunate to
 topple him over the parapet, and throw him on the pavement below. If
 there were any [[concepts/hope|Hope]] alive that evening, the Captain thought, as he held
-his hat on, it certainly kept [[house]], and wasn’t out of doors; so the
+his hat on, it certainly kept house, and wasn’t out of doors; so the
 Captain, shaking his head in a despondent manner, went in to look for
 it.
 
@@ -22129,7 +22129,7 @@ Lovely Peg, even if there had been anybody to sing it, which there was
 not; for the Captain was as morally certain that nobody but he could
 execute that ballad, as he was that he had not the spirit, under
 existing circumstances, to attempt it. There was no bright face of
-“Wal”r” in the [[house]];—here the Captain transferred his sleeve for a
+“Wal”r” in the house;—here the Captain transferred his sleeve for a
 moment from the Midshipman’s uniform to his own cheek;—the familiar wig
 and buttons of Sol Gills were a vision of the past; [[characters/richard|Richard]] Whittington
 was knocked on the head; and every plan and project in connexion with
@@ -22466,7 +22466,7 @@ Drawing a heavy sigh, the Captain turned to Mr Toots, and roused
 himself to a sustained consciousness of that gentleman’s presence.
 
 “My lad,” said the Captain, “you must tell the young woman honestly
-that this here fatal news is too correct. They don’t [[Romance|romance]], you see,
+that this here fatal news is too correct. They don’t romance, you see,
 on such pints. It’s entered on the [[motifs/ship|ship]]’s log, and that’s the truest
 book as a man can write. To-morrow morning,” said the Captain, “I’ll
 step out and make inquiries; but they’ll lead to no good. They can’t do
@@ -22483,7 +22483,7 @@ Miss Dombey will be very much affected, Captain Gills—I mean Mr
 Cuttle?”
 
 “Why, Lord [[motifs/love|love]] you,” returned the Captain, with something of
-compassion for Mr Toots’s [[innocence]]. “When she warn’t no higher than
+compassion for Mr Toots’s innocence. “When she warn’t no higher than
 that, they were as fond of one another as two young doves.”
 
 “Were they though!” said Mr Toots, with a considerably lengthened face.
@@ -22522,7 +22522,7 @@ acquaintance. Although I am very [[motifs/well|well]] off,” said Mr Toots, wit
 know, when they see me with the Chicken, and characters of distinction
 like that, suppose me to be happy; but I’m wretched. I suffer for Miss
 Dombey, Captain Gills. I can’t get through my meals; I have no pleasure
-in my tailor; I often cry when I’m [[Alone|alone]]. I assure you it’ll be a
+in my tailor; I often cry when I’m alone. I assure you it’ll be a
 satisfaction to me to come back to-morrow, or to come back fifty
 times.”
 
@@ -22541,13 +22541,13 @@ Long after Rob was fast asleep in his bed under the counter, the
 Captain sat looking at the [[motifs/fire|fire]]; and long after there was no [[motifs/fire|fire]] to
 look at, the Captain sat gazing on the rusty bars, with unavailing
 thoughts of Walter and old Sol crowding through his mind. Retirement to
-the stormy chamber at the top of the [[house]] brought no rest with it; and
+the stormy chamber at the top of the house brought no rest with it; and
 the Captain [[motifs/rose|rose]] up in the morning, sorrowful and unrefreshed.
 
 As soon as the [[motifs/city|City]] offices were opened, the Captain issued forth to
-the counting-[[house]] of Dombey and Son. But there was no opening of the
+the counting-house of Dombey and Son. But there was no opening of the
 Midshipman’s windows that morning. Rob the Grinder, by the Captain’s
-orders, left the shutters closed, and the [[house]] was as a [[house]] of
+orders, left the shutters closed, and the house was as a house of
 [[motifs/death|death]].
 
 It chanced that Mr Carker was entering the office, as [[characters/captain-cuttle|Captain Cuttle]]
@@ -22695,7 +22695,7 @@ Captain, holding up his hook, “if we live.”
 returned the Manager, with the same frankness; “for you may rely, I
 give you fair warning, upon my detecting and exposing you. I don’t
 pretend to be a more moral man than my neighbours, my good Captain; but
-the confidence of this [[house|House]], or of any member of this [[house|House]], is not to
+the confidence of this House, or of any member of this House, is not to
 be abused and undermined while I have eyes and ears. Good day!” said Mr
 Carker, nodding his head.
 
@@ -22705,7 +22705,7 @@ astride before the [[motifs/fire|fire]], as calm and pleasant as if there were n
 spots upon his [[motifs/soul|soul]] than on his pure white linen, and his smooth sleek
 skin.
 
-The Captain glanced, in passing through the outer counting-[[house]], at
+The Captain glanced, in passing through the outer counting-house, at
 the desk where he knew poor Walter had been used to sit, now occupied
 by another young boy, with a face almost as fresh and hopeful as his on
 the day when they tapped the famous last bottle but one of the old
@@ -22803,10 +22803,10 @@ beautifully arranged, and tastefully kept. The lawn, the soft, smooth
 slope, the flower-[[motifs/garden|garden]], the clumps of trees where graceful forms of
 ash and willow are not wanting, the conservatory, the rustic verandah
 with sweet-smelling creeping plants entwined about the pillars, the
-simple exterior of the [[house]], the [[motifs/well|well]]-ordered offices, though all upon
+simple exterior of the house, the [[motifs/well|well]]-ordered offices, though all upon
 the diminutive scale proper to a mere cottage, bespeak an amount of
 elegant comfort within, that might serve for a palace. This indication
-is not without warrant; for, within, it is a [[house]] of refinement and
+is not without warrant; for, within, it is a house of refinement and
 luxury. Rich colours, excellently blended, meet the eye at every turn;
 in the furniture—its proportions admirably devised to suit the shapes
 and sizes of the small rooms; on the walls; upon the floors; tingeing
@@ -22835,7 +22835,7 @@ himself to everything about him?
 
 It is Mr Carker the Manager who sits in the easy chair. A gaudy parrot
 in a burnished cage upon the table [[motifs/tears|tears]] at the wires with her beak,
-and goes walking, upside down, in its dome-top, shaking her [[house]] and
+and goes walking, upside down, in its dome-top, shaking her house and
 screeching; but Mr Carker is indifferent to the bird, and looks with a
 musing smile at a picture on the opposite wall.
 
@@ -22858,7 +22858,7 @@ wedding-ring, swings in it, for his delight.
 
 The second [[motifs/home|home]] is on the other side of [[settings/london|London]], near to where the busy
 great north [[motifs/road|road]] of bygone days is silent and almost deserted, except
-by wayfarers who toil along on foot. It is a poor small [[house]], barely
+by wayfarers who toil along on foot. It is a poor small house, barely
 and sparely furnished, but very clean; and there is even an attempt to
 decorate it, shown in the homely [[motifs/flowers|flowers]] trained about the porch and in
 the narrow [[motifs/garden|garden]]. The neighbourhood in which it stands has as little
@@ -22910,7 +22910,7 @@ hopefully upon his barren way.
 “It is early, John,” she said. “Why do you go so early?”
 
 “Not many minutes earlier than usual, Harriet. If I have the [[motifs/time|time]] to
-spare, I should like, I think—it’s a fancy—to walk once by the [[house]]
+spare, I should like, I think—it’s a fancy—to walk once by the house
 where I took leave of him.”
 
 “I wish I had ever seen or known him, John.”
@@ -22962,7 +22962,7 @@ the bitter fruits of his old crime, for ever ripe and fresh.
 
 She stood at the door looking after him, with her hands loosely clasped
 in each other, as he made his way over the frowzy and uneven patch of
-ground which lay before their [[house]], which had once (and not long ago)
+ground which lay before their house, which had once (and not long ago)
 been a pleasant meadow, and was now a very waste, with a disorderly
 crop of beginnings of mean houses, rising out of the rubbish, as if
 they had been unskilfully sown there. Whenever he looked back—as once
@@ -22973,7 +22973,7 @@ as she stood watching him.
 Her pensive form was not long idle at the door. There was daily duty to
 discharge, and daily work to do—for such commonplace spirits that are
 not heroic, often work hard with their hands—and Harriet was soon busy
-with her household tasks. These discharged, and the poor [[house]] made
+with her household tasks. These discharged, and the poor house made
 quite neat and orderly, she counted her little stock of money, with an
 anxious face, and went out thoughtfully to buy some necessaries for
 their table, planning and conniving, as she went, how to save. So
@@ -22981,7 +22981,7 @@ sordid are the lives of such low natures, who are not only not heroic
 to their valets and waiting-women, but have neither valets nor
 waiting-women to be heroic to withal!
 
-While she was absent, and there was no one in the [[house]], there
+While she was absent, and there was no one in the house, there
 approached it by a different way from that the brother had taken, a
 gentleman, a very little past his prime of life perhaps, but of a
 healthy florid hue, an upright presence, and a bright clear aspect,
@@ -23288,7 +23288,7 @@ courageous, she was fatigued, and after a moment of irresolution,—sat
 down upon a heap of stones; seeking no shelter from the rain, but
 letting it rain on her as it would.
 
-She was now opposite the [[house]]; raising her head after resting it for a
+She was now opposite the house; raising her head after resting it for a
 moment on both hands, her eyes met those of Harriet.
 
 In a moment, Harriet was at the door; and the other, rising from her
@@ -23322,7 +23322,7 @@ against it, and wept. Not like a woman, but like a stern man surprised
 into that weakness; with a violent heaving of her breast, and struggle
 for recovery, that showed how unusual the emotion was with her.
 
-She submitted to be led into the [[house]], and, evidently more in
+She submitted to be led into the house, and, evidently more in
 gratitude than in any care for herself, washed and bound the injured
 place. Harriet then put before her fragments of her own frugal dinner,
 and when she had eaten of them, though sparingly, besought her, before
@@ -23428,7 +23428,7 @@ smouldering embers, to raise her head with an awakened attention to the
 whistling and pattering outside, and gradually to let it fall again
 lower and lower and lower as she sunk into a brooding state of thought,
 in which the noises of the [[motifs/night|night]] were as indistinctly regarded as is
-the monotonous [[rolling]] of a sea by one who sits in contemplation on its
+the monotonous rolling of a sea by one who sits in contemplation on its
 shore.
 
 There was no light in the room save that which the [[motifs/fire|fire]] afforded.
@@ -23563,7 +23563,7 @@ Her mother [[motifs/rose|rose]], and cried, and wrung her hands, and stood at a 
 distance gazing on her. Then she took the candle again, and going round
 her, surveyed her from head to foot, making a low moaning all the [[motifs/time|time]].
 Then she put the candle down, resumed her chair, and beating her hands
-together to a kind of weary tune, and [[rolling]] herself from side to
+together to a kind of weary tune, and rolling herself from side to
 side, continued moaning and wailing to herself.
 
 Alice got up, took off her wet cloak, and laid it aside. That done, she
@@ -23877,12 +23877,12 @@ over yonder, by the north [[motifs/road|road]] out of [[settings/london|London]]
 
 “Where?”
 
-“By the north [[motifs/road|road]] out of [[settings/london|London]], deary. You shall see the [[house]] if you
+“By the north [[motifs/road|road]] out of [[settings/london|London]], deary. You shall see the house if you
 like. It ain’t much to boast of, genteel as his own is. No, no, no,”
 cried the old woman, shaking her head and laughing; for her daughter
 had started up, “not now; it’s too far off; it’s by the milestone,
 where the stones are heaped;—to-morrow, deary, if it’s fine, and you
-are in the [[Humour|humour]]. But I’ll go spend—”
+are in the humour. But I’ll go spend—”
 
 “Stop!” and the daughter flung herself upon her, with her former
 passion raging like a [[motifs/fire|fire]]. “The sister is a fair-faced Devil, with
@@ -23890,7 +23890,7 @@ brown hair?”
 
 The old woman, amazed and terrified, nodded her head.
 
-“I see the [[archetypes/shadow|shadow]] of him in her face! It’s a red [[house]] standing by
+“I see the [[archetypes/shadow|shadow]] of him in her face! It’s a red house standing by
 itself. Before the door there is a small green porch.”
 
 Again the old woman nodded.
@@ -23910,7 +23910,7 @@ with no more effect upon her than upon the [[motifs/wind|wind]] and rain and dar
 that encompassed them. Obdurate and fierce in her own purpose, and
 indifferent to all besides, the daughter defied the weather and the
 distance, as if she had known no travel or fatigue, and made for the
-[[house]] where she had been relieved. After some quarter of an hour’s
+house where she had been relieved. After some quarter of an hour’s
 walking, the old woman, spent and out of breath, ventured to hold by
 her skirts; but she ventured no more, and they travelled on in [[motifs/silence|silence]]
 through the wet and gloom. If the mother now and then uttered a word of
@@ -23919,7 +23919,7 @@ and leave her behind; and the daughter was dumb.
 
 It was within an hour or so of midnight, when they left the regular
 streets behind them, and entered on the deeper gloom of that neutral
-ground where the [[house]] was situated. The town lay in the distance,
+ground where the house was situated. The town lay in the distance,
 lurid and lowering; the bleak [[motifs/wind|wind]] howled over the open space; all
 around was black, wild, desolate.
 
@@ -23935,7 +23935,7 @@ around was black, wild, desolate.
 it. We want supper, deary. Money is money, whoever gives it. Say what
 you will, but keep the money.”
 
-“See there!” was all the daughter’s answer. “That is the [[house]] I mean.
+“See there!” was all the daughter’s answer. “That is the house I mean.
 Is that it?”
 
 The old woman nodded in the affirmative; and a few more paces brought
@@ -23992,7 +23992,7 @@ spurned it with her foot.
 
 “I tread it in the [[motifs/dust|dust]]: I wouldn’t take it if it paved my way to
 Heaven! I would the bleeding foot that brought me here today, had
-rotted off, before it led me to your [[house]]!”
+rotted off, before it led me to your house!”
 
 Harriet, pale and trembling, restrained her brother, and suffered her
 to go on uninterrupted.
@@ -24010,7 +24010,7 @@ the wild [[motifs/night|night]].
 The mother, who had plucked at her skirts again and again in vain, and
 had eyed the money lying on the threshold with an absorbing [[concepts/greed|greed]] that
 seemed to concentrate her faculties upon it, would have prowled about,
-until the [[house]] was dark, and then groped in the mire on the chance of
+until the house was dark, and then groped in the mire on the chance of
 repossessing herself of it. But the daughter drew her away, and they
 set forth, straight, on their return to their dwelling; the old woman
 whimpering and bemoaning their loss upon the [[motifs/road|road]], and fretfully
@@ -24055,7 +24055,7 @@ Lights are sparkling in the windows this evening, and the ruddy glow of
 fires is warm and bright upon the hangings and soft carpets, and the
 dinner waits to be served, and the dinner-table is handsomely set
 forth, though only for four persons, and the side board is cumbrous
-with plate. It is the first [[motifs/time|time]] that the [[house]] has been arranged for
+with plate. It is the first [[motifs/time|time]] that the house has been arranged for
 occupation since its late changes, and the happy pair are looked for
 every minute.
 
@@ -24066,7 +24066,7 @@ establishment, and priced the silks and damasks by the yard, and
 exhausted every interjection in the dictionary and out of it expressive
 of admiration and [[concepts/wonder|wonder]]. The upholsterer’s foreman, who has left his
 hat, with a pocket-handkerchief in it, both smelling strongly of
-varnish, under a chair in the hall, lurks about the [[house]], gazing
+varnish, under a chair in the hall, lurks about the house, gazing
 upwards at the cornices, and downward at the carpets, and occasionally,
 in a silent transport of enjoyment, taking a rule out of his pocket,
 and skirmishingly measuring expensive objects, with unutterable
@@ -24116,7 +24116,7 @@ youthful costume, with short sleeves. At present, however, her ripe
 charms are blooming in the shade of her own apartments, whence she had
 not emerged since she took possession of them a few hours ago, and
 where she is fast growing fretful, on account of the postponement of
-dinner. The maid who ought to be a [[skeleton]], but is in [[concepts/truth|truth]] a buxom
+dinner. The maid who ought to be a skeleton, but is in [[concepts/truth|truth]] a buxom
 [[archetypes/damsel|damsel]], is, on the other hand, in a most amiable state: considering her
 quarterly stipend much safer than heretofore, and foreseeing a great
 improvement in her board and lodging.
@@ -24201,7 +24201,7 @@ passed, sat down by Florence.
 
 “My dear Dombey,” said Mrs Skewton, “how charmingly these people have
 carried out every idea that we hinted. They have made a perfect palace
-of the [[house]], positively.”
+of the house, positively.”
 
 “It is handsome,” said Mr Dombey, looking round. “I directed that no
 expense should be spared; and all that money could do, has been done, I
@@ -24256,7 +24256,7 @@ behaviour was agreeable and congenial to him. Presiding, therefore,
 with his accustomed dignity, and not at all reflecting on his wife by
 any warmth or hilarity of his own, he performed his share of the
 honours of the table with a cool satisfaction; and the installation
-dinner, though not regarded downstairs as a great [[success]], or very
+dinner, though not regarded downstairs as a great success, or very
 promising beginning, passed off, above, in a sufficiently polite,
 genteel, and frosty manner.
 
@@ -24285,7 +24285,7 @@ room.”
 
 Florence entered, and sat down at a distant little table with her work:
 finding herself for the first [[motifs/time|time]] in her life—for the very first [[motifs/time|time]]
-within her [[motifs/memory|memory]] from her infancy to that hour—[[Alone|alone]] with her father,
+within her [[motifs/memory|memory]] from her infancy to that hour—alone with her father,
 as his companion. She, his natural companion, his only [[archetypes/child|child]], who in
 her lonely life and grief had known the [[concepts/suffering|suffering]] of a breaking heart;
 who, in her rejected [[motifs/love|love]], had never breathed his name to God at [[motifs/night|night]],
@@ -24344,7 +24344,7 @@ stiffnecked sullen arrogance, and wandered away and lost himself, may
 have engendered them. Some simple eloquence distinctly heard, though
 only uttered in her eyes, unconscious that he read them as “By the
 [[motifs/death|death]]-beds I have tended, by the [[motifs/childhood|childhood]] I have suffered, by our
-meeting in this dreary [[house]] at midnight, by the cry wrung from me in
+meeting in this dreary house at midnight, by the cry wrung from me in
 the anguish of my heart, oh, father, turn to me and seek a refuge in my
 [[motifs/love|love]] before it is too late!” may have arrested them. Meaner and lower
 thoughts, as that his dead boy was now superseded by new ties, and he
@@ -24424,7 +24424,7 @@ growling protest. But, emerging by little and little from the
 ante-room, whither he had retired in dudgeon, he soon appeared to
 comprehend, that with the most amiable intentions he had made one of
 those mistakes which will occasionally arise in the best-regulated
-[[dogs]]’ minds; as a friendly apology for which he stuck himself up on end
+dogs’ minds; as a friendly apology for which he stuck himself up on end
 between the two, in a very hot place in front of the [[motifs/fire|fire]], and sat
 panting at it, with his tongue out, and a most imbecile expression of
 countenance, listening to the conversation.
@@ -24557,7 +24557,7 @@ consequences, chased each other through her terrified, yet incredulous
 [[concepts/imagination|imagination]]. Almost as soon as she had ceased to speak, Edith’s face
 began to subside from its set composure to that quieter and more
 relenting aspect, which it usually wore when she and Florence were
-[[Alone|alone]] together. She shaded it, after this change, with her hands; and
+alone together. She shaded it, after this change, with her hands; and
 when she arose, and with an affectionate embrace bade Florence
 good-[[motifs/night|night]], went quickly, and without looking round.
 
@@ -24585,18 +24585,18 @@ stopped! You are moving with it!” And she saw him at a distance
 stretching out his arms towards her, while a figure such as Walter’s
 used to be, stood near him, awfully serene and still. In every vision,
 Edith came and went, sometimes to her joy, sometimes to her sorrow,
-until they were [[Alone|alone]] upon the brink of a dark [[motifs/grave|grave]], and Edith
+until they were alone upon the brink of a dark [[motifs/grave|grave]], and Edith
 pointing down, she looked and saw—what!—another Edith lying at the
 [[characters/bottom|bottom]].
 
 In the terror of this dream, she cried out and awoke, she thought. A
 soft voice seemed to whisper in her ear, “Florence, dear Florence, it
-is nothing but [[A Dream|a dream]]!” and stretching out her arms, she returned the
+is nothing but a dream!” and stretching out her arms, she returned the
 caress of her new Mama, who then went out at the door in the light of
 the grey morning. In a moment, Florence sat up wondering whether this
 had really taken place or not; but she was only certain that it was
 grey morning indeed, and that the blackened ashes of the [[motifs/fire|fire]] were on
-the hearth, and that she was [[Alone|alone]].
+the hearth, and that she was alone.
 
 So passed the [[motifs/night|night]] on which the happy pair came [[motifs/home|home]].
 
@@ -24616,14 +24616,14 @@ levees in her own apartments, at which [[characters/major-bagstock|Major Bagstoc
 attendant, and that Florence encountered no second look from her
 father, although she saw him every day. Nor had she much communication
 in words with her new Mama, who was imperious and proud to all the
-[[house]] but her—Florence could not but observe that—and who, although she
+house but her—Florence could not but observe that—and who, although she
 always sent for her or went to her when she came [[motifs/home|home]] from visiting,
 and would always go into her room at [[motifs/night|night]], before retiring to rest,
 however late the hour, and never lost an opportunity of being with her,
 was often her silent and thoughtful companion for a long [[motifs/time|time]] together.
 
 Florence, who had hoped for so much from this [[motifs/marriage|marriage]], could not help
-sometimes comparing the bright [[house]] with the faded dreary place out of
+sometimes comparing the bright house with the faded dreary place out of
 which it had arisen, and wondering when, in any shape, it would begin
 to be a [[motifs/home|home]]; for that it was no [[motifs/home|home]] then, for anyone, though
 everything went on luxuriously and regularly, she had always a secret
@@ -24671,7 +24671,7 @@ the hour appointed for dinner; punctual to which, an East India
 Director, of immense wealth, in a waistcoat apparently constructed in
 serviceable deal by some plain carpenter, but really engendered in the
 tailor’s art, and composed of the material called nankeen, arrived and
-was received by Mr Dombey [[Alone|alone]]. The next stage of the proceedings was
+was received by Mr Dombey alone. The next stage of the proceedings was
 Mr Dombey’s sending his compliments to Mrs Dombey, with a correct
 statement of the [[motifs/time|time]]; and the next, the East India Director’s falling
 prostrate, in a conversational point of view, and as Mr Dombey was not
@@ -24761,7 +24761,7 @@ whereon frosted Cupids offered scentless [[motifs/flowers|flowers]] to each of t
 allegorical to see.
 
 Cousin Feenix was in great force, and looked astonishingly young. But
-he was sometimes thoughtless in his good [[Humour|humour]]—his [[motifs/memory|memory]] occasionally
+he was sometimes thoughtless in his good humour—his [[motifs/memory|memory]] occasionally
 wandering like his legs—and on this occasion caused the company to
 shudder. It happened thus. The young lady with the back, who regarded
 Cousin Feenix with sentiments of tenderness, had entrapped the East
@@ -24804,7 +24804,7 @@ took wine.
 “Devilish good fellow, Jack!” said Cousin Feenix, again bending
 forward, and smiling.
 
-“Excellent,” returned the mild man, becoming bold on his [[success]]. “One
+“Excellent,” returned the mild man, becoming bold on his success. “One
 of the best fellows I ever knew.”
 
 “No [[concepts/doubt|doubt]] you have heard the story?” said Cousin Feenix.
@@ -24816,7 +24816,7 @@ the ceiling, as knowing it by heart, and being already tickled.
 “In point of fact, it’s nothing of a story in itself,” said Cousin
 Feenix, addressing the table with a smile, and a gay shake of his head,
 “and not worth a word of preface. But it’s illustrative of the neatness
-of Jack’s [[Humour|humour]]. The fact is, that Jack was invited down to a
+of Jack’s humour. The fact is, that Jack was invited down to a
 [[motifs/marriage|marriage]]—which I think took place in Berkshire?”
 
 “Shropshire,” said the bold mild man, finding himself appealed to.
@@ -24831,7 +24831,7 @@ on so interesting an occasion.—Goes—Jack goes. Now, this [[motifs/marriage|m
 in point of fact, the [[motifs/marriage|marriage]] of an uncommonly fine girl with a man
 for whom she didn’t care a button, but whom she accepted on account of
 his property, which was immense. When Jack returned to town, after the
-nuptials, a man he knew, meeting him in the lobby of the [[house|House]] of
+nuptials, a man he knew, meeting him in the lobby of the House of
 Commons, says, ‘[[motifs/well|Well]], Jack, how are the ill-matched couple?’
 ‘Ill-matched,’ says Jack ‘Not at all. It’s a perfectly and equal
 transaction. She is regularly bought, and you may take your oath he is
@@ -24849,7 +24849,7 @@ struck Cousin Feenix, and he stopped. Not a smile occasioned by the
 only general topic of conversation broached that day, appeared on any
 face. A profound [[motifs/silence|silence]] ensued; and the wretched mild man, who had
 been as [[archetypes/innocent|innocent]] of any real foreknowledge of the story as the [[archetypes/child|child]]
-[[unborn]], had the exquisite misery of reading in every eye that he was
+unborn, had the exquisite misery of reading in every eye that he was
 regarded as the prime mover of the mischief.
 
 Mr Dombey’s face was not a changeful one, and being cast in its mould
@@ -24894,7 +24894,7 @@ around—appeared at ease with both divisions of guests, and not marked
 as exclusively belonging to either.
 
 Florence had a dread of him, which made his presence in the room a
-[[nightmare]] to her. She could not avoid the recollection of it, for her
+nightmare to her. She could not avoid the recollection of it, for her
 eyes were drawn towards him every now and then, by an attraction of
 dislike and distrust that she could not resist. Yet her thoughts were
 busy with other things; for as she sat apart—not unadmired or unsought,
@@ -25110,7 +25110,7 @@ lowly and admiring homage.
 
 If his handsome wife had reproached him, or even changed countenance,
 or broken the [[motifs/silence|silence]] in which she remained, by one word, now that they
-were [[Alone|alone]] (for [[characters/cleopatra|Cleopatra]] made off with all [[characters/speed|speed]]), Mr Dombey would
+were alone (for [[characters/cleopatra|Cleopatra]] made off with all [[characters/speed|speed]]), Mr Dombey would
 have been equal to some assertion of his case against her. But the
 intense, unutterable, withering scorn, with which, after looking upon
 him, she dropped her eyes, as if he were too worthless and indifferent
@@ -25518,7 +25518,7 @@ stood thus:
 
 The maid now perceived remotely that she wished these articles to be
 provided for the better presentation of her complexion to the faculty;
-and as those in the [[house]] who knew her best, had no [[concepts/doubt|doubt]] of the
+and as those in the house who knew her best, had no [[concepts/doubt|doubt]] of the
 correctness of this opinion, which she was soon able to establish for
 herself, the [[motifs/rose|rose]]-coloured curtains were added to her bed, and she
 mended with increased rapidity from that hour. She was soon able to sit
@@ -25706,7 +25706,7 @@ proposition, and fully admitted it, twenty times a day. She never
 recalled the lofty manner in which Mr Dombey had made her subservient
 to his convenience and caprices, and had graciously permitted her to be
 one of the nurses of his little son. She only thought, in her own
-words, “that she had passed a great many happy hours in that [[house]],
+words, “that she had passed a great many happy hours in that house,
 which she must ever remember with gratification, and that she could
 never cease to regard Mr Dombey as one of the most impressive and
 dignified of men.”
@@ -26018,7 +26018,7 @@ satisfaction.
 
 “Then, not being a stranger, I shall be in nobody’s way,” said Miss
 Tox, “and everything will go on just as if I were not here. Mrs
-Richards will do her [[mending]], or her ironing, or her nursing, whatever
+Richards will do her mending, or her ironing, or her nursing, whatever
 it is, without minding me: and you’ll smoke your pipe, too, if you’re
 so disposed, Sir, won’t you?”
 
@@ -26043,14 +26043,14 @@ examination of the children all round—which Mr Toodle much admired—and
 booked their ages, names, and acquirements, on a piece of paper. This
 ceremony, and a little attendant gossip, prolonged the [[motifs/time|time]] until after
 their usual hour of going to bed, and detained Miss Tox at the Toodle
-fireside until it was too late for her to walk [[motifs/home|home]] [[Alone|alone]]. The gallant
+fireside until it was too late for her to walk [[motifs/home|home]] alone. The gallant
 Grinder, however, being still there, politely offered to attend her to
 her own door; and as it was something to Miss Tox to be seen [[motifs/home|home]] by a
 youth whom Mr Dombey had first inducted into those manly garments which
 are rarely mentioned by name, she very readily accepted the proposal.
 
 After shaking hands with Mr Toodle and Polly, and kissing all the
-children, Miss Tox left the [[house]], therefore, with unlimited
+children, Miss Tox left the house, therefore, with unlimited
 popularity, and carrying away with her so light a heart that it might
 have given Mrs Chick offence if that good lady could have weighed it.
 
@@ -26140,7 +26140,7 @@ doing any harm to anyone, and, as it were, throwing himself overboard
 for a dangerous person.
 
 [[concepts/self|Self]]-buried, therefore, among the instruments, the Captain never went
-near Mr Dombey’s [[house]], or reported himself in any way to Florence or
+near Mr Dombey’s house, or reported himself in any way to Florence or
 Miss Nipper. He even severed himself from Mr Perch, on the occasion of
 his next visit, by dryly informing that gentleman, that he thanked him
 for his company, but had cut himself adrift from all such acquaintance,
@@ -26370,7 +26370,7 @@ The stricken Grinder wept, and put his coat-cuff in his eye.
 
 “Come, Captain,” cried the injured youth, “give my crime a name! What
 have I been and done? Have I stolen any of the property? have I set the
-[[house]] a-[[motifs/fire|fire]]? If I have, why don’t you give me in charge, and try it?
+house a-[[motifs/fire|fire]]? If I have, why don’t you give me in charge, and try it?
 But to take away the character of a lad that’s been a good servant to
 you, because he can’t afford to stand in his own light for your good,
 what a injury it is, and what a bad return for faithful service! This
@@ -26413,7 +26413,7 @@ pretty soon, if you don’t keep a bright look-out. I can read your
 signals, my lad. You may go.”
 
 “Oh! I may go at once, may I, Captain?” cried Rob, exulting in his
-[[success]]. “But mind! I never asked to go at once, Captain. You are not
+success. “But mind! I never asked to go at once, Captain. You are not
 to take away my character again, because you send me off of your own
 accord. And you’re not to stop any of my wages, Captain!”
 
@@ -26422,7 +26422,7 @@ telling the Grinder’s money out in full upon the table. Rob, snivelling
 and sobbing, and grievously wounded in his feelings, took up the pieces
 one by one, with a sob and a snivel for each, and tied them up
 separately in knots in his pockethandkerchief; then he ascended to the
-roof of the [[house]] and filled his hat and pockets with pigeons; then,
+roof of the house and filled his hat and pockets with pigeons; then,
 came down to his bed under the counter and made up his bundle,
 snivelling and sobbing louder, as if he were cut to the heart by old
 associations; then he whined, “Good-[[motifs/night|night]], Captain. I leave you without
@@ -26468,8 +26468,8 @@ In the same composed, business-like way, the Captain stepped over to
 Leadenhall Market in the dusk, and effected an arrangement with a
 private watchman on duty there, to come and put up and take down the
 shutters of the wooden Midshipman every [[motifs/night|night]] and morning. He then
-called in at the eating-[[house]] to diminish by one half the daily rations
-theretofore supplied to the Midshipman, and at the public-[[house]] to stop
+called in at the eating-house to diminish by one half the daily rations
+theretofore supplied to the Midshipman, and at the public-house to stop
 the traitor’s beer. “My young man,” said the Captain, in explanation to
 the young lady at the bar, “my young man having bettered himself,
 Miss.” Lastly, the Captain resolved to take possession of the bed under
@@ -26782,7 +26782,7 @@ her. That is my only ways of accounting for your familiarity, Sir.”
 [[characters/captain-cuttle|Captain Cuttle]] could hardly believe it, even of this great man, though
 he saw it done with his waking eyes; but Bunsby, advancing boldly, put
 his shaggy blue arm round Mrs MacStinger, and so softened her by his
-[[Magic|magic]] way of doing it, and by these few words—he said no more—that she
+magic way of doing it, and by these few words—he said no more—that she
 melted into [[motifs/tears|tears]], after looking upon him for a few moments, and
 observed that a [[archetypes/child|child]] might conquer her now, she was so low in her
 [[concepts/courage|courage]].
@@ -26805,7 +26805,7 @@ upon himself, as the last member of the party.
 Some uneasy ideas that he must be walking in his [[motifs/sleep|sleep]], or that he had
 been troubled with phantoms, and not a family of flesh and [[motifs/blood|blood]], beset
 the Captain at first, when he went back to the little parlour, and
-found himself [[Alone|alone]]. Illimitable [[concepts/faith|faith]] in, and immeasurable admiration
+found himself alone. Illimitable [[concepts/faith|faith]] in, and immeasurable admiration
 of, the Commander of the Cautious Clara, succeeded, and threw the
 Captain into a wondering trance.
 
@@ -26842,7 +26842,7 @@ of, and had been brought back in a coach.
 But no. Bunsby was accompanied by nothing but a large box, which he
 hauled into the shop with his own hands, and as soon as he had hauled
 in, sat upon. [[characters/captain-cuttle|Captain Cuttle]] knew it for the chest he had left at Mrs
-MacStinger’s [[house]], and looking, candle in hand, at Bunsby more
+MacStinger’s house, and looking, candle in hand, at Bunsby more
 attentively, believed that he was three sheets in the [[motifs/wind|wind]], or, in
 plain words, drunk. It was difficult, however, to be sure of this; the
 Commander having no trace of expression in his face when sober.
@@ -26863,7 +26863,7 @@ abruptly opened the door, and shot away to rejoin the Cautious Clara
 with all [[characters/speed|speed]]—supposed to be his invariable custom, whenever he
 considered he had made a point.
 
-As it was not his [[Humour|humour]] to be often sought, [[characters/captain-cuttle|Captain Cuttle]] decided not
+As it was not his humour to be often sought, [[characters/captain-cuttle|Captain Cuttle]] decided not
 to go or send to him next day, or until he should make his gracious
 pleasure known in such wise, or failing that, until some little [[motifs/time|time]]
 should have lapsed. The Captain, therefore, renewed his solitary life
@@ -26972,7 +26972,7 @@ obdurate to him, and insulted him with an unnatural triumph.
 It may have been that in all this there were mutterings of an awakened
 feeling in his breast, however selfishly aroused by his position of
 disadvantage, in comparison with what she might have made his life. But
-he silenced the distant thunder with the [[rolling]] of his sea of [[concepts/pride|pride]].
+he silenced the distant thunder with the rolling of his sea of [[concepts/pride|pride]].
 He would bear nothing but his [[concepts/pride|pride]]. And in his [[concepts/pride|pride]], a heap of
 inconsistency, and misery, and [[concepts/self|self]]-inflicted torment, he hated her.
 
@@ -26996,7 +26996,7 @@ him to call her wife.
 
 Mr Dombey was resolved to show her that he was supreme. There must be
 no will but his. Proud he desired that she should be, but she must be
-proud for, not against him. As he sat [[Alone|alone]], hardening, he would often
+proud for, not against him. As he sat alone, hardening, he would often
 hear her go out and come [[motifs/home|home]], treading the round of [[settings/london|London]] life with
 no more heed of his liking or disliking, pleasure or displeasure, than
 if he had been her groom. Her cold supreme indifference—his own
@@ -27006,7 +27006,7 @@ magnificent and stately will.
 
 He had been long communing with these thoughts, when one [[motifs/night|night]] he
 sought her in her own apartment, after he had heard her return [[motifs/home|home]]
-late. She was [[Alone|alone]], in her brilliant dress, and had but that moment
+late. She was alone, in her brilliant dress, and had but that moment
 come from her mother’s room. Her face was [[concepts/melancholy|melancholy]] and pensive, when
 he came upon her; but it marked him at the door; for, glancing at the
 [[motifs/mirror|mirror]] before it, he saw immediately, as in a picture-frame, the
@@ -27049,7 +27049,7 @@ presented all around him, as in so many fragments of a [[motifs/mirror|mirror]],
 conscious of embarrassment and awkwardness. Nothing that ministered to
 her disdainful [[concepts/self|self]]-possession could fail to gall him. Galled and
 irritated with himself, he sat down, and went on, in no improved
-[[Humour|humour]]:
+humour:
 
 “Mrs Dombey, it is very necessary that there should be some
 understanding arrived at between us. Your conduct does not please me,
@@ -27132,7 +27132,7 @@ She changed suddenly. Her face and bosom glowed as if the red light of
 an angry sunset had been flung upon them. Not unobservant of the
 change, and putting his own interpretation upon it, Mr Dombey resumed:
 
-“Mr Carker has been so good as to go down and secure a [[house]] there, for
+“Mr Carker has been so good as to go down and secure a house there, for
 a [[motifs/time|time]]. On the return of the establishment to [[settings/london|London]], I shall take such
 steps for its better management as I consider necessary. One of these,
 will be the engagement at Brighton (if it is to be effected), of a very
@@ -27243,7 +27243,7 @@ him as steadily as ever,—“as would make what I now say almost
 incredible to myself, said to any man who had become my husband, but,
 above all, said to you, you may, perhaps, attach the greater weight to
 it. In the dark end to which we are tending, and may come, we shall not
-involve ourselves [[Alone|alone]] (that might not be much) but others.”
+involve ourselves alone (that might not be much) but others.”
 
 
 
@@ -27432,7 +27432,7 @@ help looking strangely at [[characters/cleopatra|Cleopatra]], who couldn’t hel
 bonnet over one eye, and rattling her knife and fork upon her plate in
 using them, as if she were playing castanets.
 
-Edith [[Alone|alone]] never lifted her eyes to any face at the table, and never
+Edith alone never lifted her eyes to any face at the table, and never
 seemed dismayed by anything her mother said or did. She listened to her
 disjointed talk, or at least, turned her head towards her when
 addressed; replied in a few low words when necessary; and sometimes
@@ -27495,7 +27495,7 @@ take him as you find him; and a devilish rusty, old rasper, of a
 close-toothed, J. B. file, you do find him. Dombey,” said the Major,
 “your wife’s mother is on the move, Sir.”
 
-“I [[concepts/fear|fear]],” returned Mr Dombey, with much [[philosophy]], “that Mrs Skewton
+“I [[concepts/fear|fear]],” returned Mr Dombey, with much philosophy, “that Mrs Skewton
 is shaken.”
 
 “Shaken, Dombey!” said the Major. “Smashed!”
@@ -27526,7 +27526,7 @@ apoplexy to the club, and choked there all day.
 [[characters/cleopatra|Cleopatra]], at one [[motifs/time|time]] fretful, at another [[concepts/self|self]]-complacent, sometimes
 awake, sometimes asleep, and at all times juvenile, reached Brighton
 the same [[motifs/night|night]], fell to pieces as usual, and was put away in bed; where
-a gloomy fancy might have pictured a more potent [[skeleton]] than the
+a gloomy fancy might have pictured a more potent skeleton than the
 maid, who should have been one, watching at the [[motifs/rose|rose]]-coloured curtains,
 which were carried down to shed their bloom upon her.
 
@@ -27534,9 +27534,9 @@ It was settled in high council of medical authority that she should
 take a carriage airing every day, and that it was important she should
 get out every day, and walk if she could. Edith was ready to attend
 her—always ready to attend her, with the same mechanical attention and
-immovable [[concepts/beauty|beauty]]—and they drove out [[Alone|alone]]; for Edith had an uneasiness
+immovable [[concepts/beauty|beauty]]—and they drove out alone; for Edith had an uneasiness
 in the presence of Florence, now that her mother was worse, and told
-Florence, with a kiss, that she would rather they two went [[Alone|alone]].
+Florence, with a kiss, that she would rather they two went alone.
 
 Mrs Skewton, on one particular day, was in the irresolute, exacting,
 jealous temper that had developed itself on her recovery from her first
@@ -27557,7 +27557,7 @@ mother, with a querulous satisfaction in the monotony of her complaint,
 was still repeating it in a low voice from [[motifs/time|time]] to [[motifs/time|time]], and the proud
 form of her daughter moved beside her slowly, when there came advancing
 over a dark ridge before them, two other figures, which in the
-distance, were so like an exaggerated [[Imitation|imitation]] of their own, that
+distance, were so like an exaggerated imitation of their own, that
 Edith stopped.
 
 Almost as she stopped, the two figures stopped; and that one which to
@@ -27640,7 +27640,7 @@ woman hobbled another way, mumbling and counting her money. Not one
 word more, nor one other gesture, had been exchanged between Edith and
 the younger woman, but neither had removed her eyes from the other for
 a moment. They had remained confronted until now, when Edith, as
-awakening from [[A Dream|a dream]], passed slowly on.
+awakening from a dream, passed slowly on.
 
 “You’re a handsome woman,” muttered her [[archetypes/shadow|shadow]], looking after her; “but
 good looks won’t save us. And you’re a proud woman; but [[concepts/pride|pride]] won’t
@@ -27668,9 +27668,9 @@ quiet place, where he and she have many and many a [[motifs/time|time]] converse
 together, with the [[motifs/water|water]] welling up about his couch. And now, as she
 sits pensive there, she hears in the wild low murmur of the sea, his
 little story told again, his very words repeated; and finds that all
-her life and hopes, and griefs, since—in the solitary [[house]], and in the
+her life and hopes, and griefs, since—in the solitary house, and in the
 pageant it has changed to—have a portion in the burden of the
-marvellous [[Song|song]].
+marvellous song.
 
 And gentle Mr Toots, who wanders at a distance, looking wistfully
 towards the figure that he dotes upon, and has followed there, but
@@ -27726,7 +27726,7 @@ under him; and though he is splendidly dressed, he feels misfits, and
 sees wrinkles, in the masterpieces of Burgess and Co., and wishes he
 had put on that brightest pair of boots.
 
-Doctor Blimber’s [[house]], outside, has as scholastic and studious an air
+Doctor Blimber’s house, outside, has as scholastic and studious an air
 as ever; and up there is the [[motifs/window|window]] where she used to look for the pale
 face, and where the pale face brightened when it saw her, and the
 wasted little hand waved kisses as she passed. The door is opened by
@@ -27842,7 +27842,7 @@ did wrong in proposing the visit. But he is soon relieved by her saying
 she is very glad to have been there again, and by her talking quite
 cheerfully about it all, as they walked on by the sea. What with the
 voices there, and her sweet voice, when they come near Mr Dombey’s
-[[house]], and Mr Toots must leave her, he is so enslaved that he has not a
+house, and Mr Toots must leave her, he is so enslaved that he has not a
 scrap of free-will left; when she gives him her hand at parting, he
 cannot let it go.
 
@@ -27939,10 +27939,10 @@ Thus these quiet spirits pass the evening; and when it has yielded
 place to [[motifs/night|night]], Mr Toots walks [[motifs/home|home]] with Mr Feeder, and parts with him
 at Doctor Blimber’s door. But Mr Feeder only goes up the steps, and
 when Mr Toots is gone, comes down again, to stroll upon the beach
-[[Alone|alone]], and think about his prospects. Mr Feeder plainly hears the waves
+alone, and think about his prospects. Mr Feeder plainly hears the waves
 informing him, as he loiters along, that Doctor Blimber will give up
 the business; and he feels a soft romantic pleasure in looking at the
-outside of the [[house]], and thinking that the Doctor will first paint it,
+outside of the house, and thinking that the Doctor will first paint it,
 and put it into thorough repair.
 
 Mr Toots is likewise roaming up and down, outside the casket that
@@ -28026,7 +28026,7 @@ Edith is beside her always, and keeps Florence away; and Florence, in
 her bed at [[motifs/night|night]], trembles at the thought of [[motifs/death|death]] in such a shape, and
 often wakes and listens, thinking it has come. No one attends on her
 but Edith. It is better that few eyes should see her; and her daughter
-watches [[Alone|alone]] by the bedside.
+watches alone by the bedside.
 
 
 
@@ -28057,7 +28057,7 @@ forgive my own. I told you that [[motifs/time|time]] past was at an end between 
 say so now, again. Kiss me, mother.”
 
 Edith touches the white lips, and for a moment all is still. A moment
-afterwards, her mother, with her girlish laugh, and the [[skeleton]] of the
+afterwards, her mother, with her girlish laugh, and the skeleton of the
 [[characters/cleopatra|Cleopatra]] manner, rises in her bed.
 
 Draw the [[motifs/rose|rose]]-coloured curtains. There is something else upon its
@@ -28146,7 +28146,7 @@ the waves that are hoarse with repetition of their mystery, and blind
 to the [[motifs/dust|dust]] that is piled upon the shore, and to the white arms that
 are beckoning, in the moonlight, to the invisible country far away. But
 all goes on, as it was wont, upon the margin of the unknown sea; and
-Edith standing there [[Alone|alone]], and listening to its waves, has dank weed
+Edith standing there alone, and listening to its waves, has dank weed
 cast up at her feet, to strew her path in life withal.
 
 
@@ -28169,7 +28169,7 @@ minutes of his leisure [[motifs/time|time]] to crowing over those inseparable wo
 and recalling, with much applauding music from that brazen instrument,
 his [[concepts/conscience|conscience]], the triumphant manner in which he had disembarrassed
 himself of their company, now served his patron, Mr Carker. Inmate of
-Mr Carker’s [[house]], and serving about his person, Rob kept his round
+Mr Carker’s house, and serving about his person, Rob kept his round
 eyes on the white teeth with [[concepts/fear|fear]] and trembling, and felt that he had
 need to open them wider than ever.
 
@@ -28203,7 +28203,7 @@ lost nothing by his management of it.
 
 On the very [[motifs/night|night]] when he left the Captain’s service, Rob, after
 disposing of his pigeons, and even making a bad bargain in his hurry,
-had gone straight down to Mr Carker’s [[house]], and hotly presented
+had gone straight down to Mr Carker’s house, and hotly presented
 himself before his new master with a glowing face that seemed to expect
 commendation.
 
@@ -28333,7 +28333,7 @@ disparagement. “It wants that qualification. [[motifs/well|Well]]! we have sai
 about it; and though you can afford to praise it, I thank you
 nonetheless. Will you walk in?”
 
-Mr Dombey, entering the [[house]], noticed, as he had reason to do, the
+Mr Dombey, entering the house, noticed, as he had reason to do, the
 complete arrangement of the rooms, and the numerous contrivances for
 comfort and effect that abounded there. Mr Carker, in his ostentation
 of [[concepts/humility|humility]], received this notice with a deferential smile, and said he
@@ -28467,7 +28467,7 @@ as plainly as the watchful eyes upon him saw it there.
 before Mrs Skewton’s [[motifs/death|death]], upon the causes of my dissatisfaction; of
 which you will have formed a general understanding from having been a
 witness of what passed between Mrs Dombey and myself on the evening
-when you were at our—at my [[house]].”
+when you were at our—at my house.”
 
 “When I so much regretted being present,” said the smiling Carker.
 “Proud as a man in my position necessarily must be of your familiar
@@ -28752,7 +28752,7 @@ Mrs Dombey now, if she knew it!”
 
 Mr Dombey being insensible, and bleeding from the head and face, was
 carried by certain menders of the [[motifs/road|road]], under Carker’s direction, to
-the nearest public-[[house]], which was not far off, and where he was soon
+the nearest public-house, which was not far off, and where he was soon
 attended by divers surgeons, who arrived in quick succession from all
 parts, and who seemed to come by some mysterious instinct, as vultures
 are said to gather about a camel who dies in the [[motifs/desert|desert]]. After being at
@@ -28784,7 +28784,7 @@ hushed, crouched manner, and his ivory smile, as he best could.
 <span class="atom-split" data-atom="chapter_70--part_06" data-title="Dombey and Son — Chapter 42 (part 6)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/home,motif/horse,motif/night,motif/rose,motif/tears,motif/time,concept/beauty,concept/courage,concept/honour,concept/truth"></span>
 
 
-He rode direct to Mr Dombey’s [[house]], alighted at the door, and begged
+He rode direct to Mr Dombey’s house, alighted at the door, and begged
 to see Mrs Dombey on an affair of importance. The servant who showed
 him to Mr Dombey’s own room, soon returned to say that it was not Mrs
 Dombey’s hour for receiving visitors, and that he begged pardon for not
@@ -28882,7 +28882,7 @@ visitor, but the excellent Ogress who presided over his household,
 waited on Mrs Dombey once more, with his report on her lord’s
 condition.
 
-He again found Edith [[Alone|alone]] with Florence, and he again addressed the
+He again found Edith alone with Florence, and he again addressed the
 whole of his soothing speech to Edith, as if she were a prey to the
 liveliest and most affectionate anxieties. So earnest he was in his
 respectful sympathy, that on taking leave, he ventured—with one more
@@ -28891,12 +28891,12 @@ over it, to touch it with his lips.
 
 Edith did not withdraw the hand, nor did she strike his fair face with
 it, despite the flush upon her cheek, the bright light in her eyes, and
-the dilation of her whole form. But when she was [[Alone|alone]] in her own room,
+the dilation of her whole form. But when she was alone in her own room,
 she struck it on the marble chimney-shelf, so that, at one blow, it was
 bruised, and bled; and held it from her, near the shining [[motifs/fire|fire]], as if
 she could have thrust it in and burned it.
 
-Far into the [[motifs/night|night]] she sat [[Alone|alone]], by the sinking blaze, in dark and
+Far into the [[motifs/night|night]] she sat alone, by the sinking blaze, in dark and
 threatening [[concepts/beauty|beauty]], watching the murky shadows looming on the wall, as
 if her thoughts were tangible, and cast them there. Whatever shapes of
 outrage and affront, and black foreshadowings of things that might
@@ -28949,7 +28949,7 @@ Florence, so lonely and so hurt, and been its best of comforters! Thus,
 with her gentle [[concepts/nature|nature]] yearning to them both, feeling for the misery of
 both, and whispering doubts of her own duty to both, Florence in her
 wider and expanded [[motifs/love|love]], and by the side of Edith, endured more than
-when she had hoarded up her undivided secret in the mournful [[house]], and
+when she had hoarded up her undivided secret in the mournful house, and
 her beautiful Mama had never dawned upon it.
 
 One exquisite unhappiness that would have far outweighed this, Florence
@@ -29057,7 +29057,7 @@ Good-[[motifs/night|night]]!”
 
 Susan was too much softened to express her private opinion on the
 probability of Mrs Dombey’s being in attendance on her husband, and
-silently withdrew. Florence left [[Alone|alone]], soon hid her head upon her
+silently withdrew. Florence left alone, soon hid her head upon her
 hands as she had often done in other days, and did not restrain the
 [[motifs/tears|tears]] from coursing down her face. The misery of this domestic discord
 and unhappiness; the withered [[concepts/hope|hope]] she cherished now, if [[concepts/hope|hope]] it could
@@ -29073,7 +29073,7 @@ but the thoughts in which it had arisen were too true and strong to be
 dismissed with it; and they made the [[motifs/night|night]] desolate.
 
 Among such reflections there [[motifs/rose|rose]] up, as there had risen up all day,
-the image of her father, wounded and in [[motifs/pain|pain]], [[Alone|alone]] in his own room,
+the image of her father, wounded and in [[motifs/pain|pain]], alone in his own room,
 untended by those who should be nearest to him, and passing the tardy
 hours in lonely [[concepts/suffering|suffering]]. A frightened thought which made her start
 and clasp her hands—though it was not a new one in her mind—that he
@@ -29081,7 +29081,7 @@ might die, and never see her or pronounce her name, thrilled her whole
 frame. In her agitation she thought, and trembled while she thought, of
 once more stealing downstairs, and venturing to his door.
 
-She listened at her own. The [[house]] was quiet, and all the lights were
+She listened at her own. The house was quiet, and all the lights were
 out. It was a long, long [[motifs/time|time]], she thought, since she used to make her
 nightly pilgrimages to his door! It was a long, long [[motifs/time|time]], she tried to
 think, since she had entered his room at midnight, and he had led her
@@ -29091,7 +29091,7 @@ With the same [[archetypes/child|child]]’s heart within her, as of old: even w
 [[archetypes/child|child]]’s sweet timid eyes and clustering hair: Florence, as strange to
 her father in her early maiden bloom, as in her nursery [[motifs/time|time]], crept
 down the staircase listening as she went, and drew near to his room. No
-one was stirring in the [[house]]. The door was partly open to admit air;
+one was stirring in the house. The door was partly open to admit air;
 and all was so still within, that she could hear the burning of the
 [[motifs/fire|fire]], and count the ticking of the [[motifs/clock|clock]] that stood upon the
 chimney-piece.
@@ -29147,7 +29147,7 @@ its side, and put the arm, with which she dared not touch him, round
 about him on the pillow.
 
 Awake, doomed man, while she is near! The [[motifs/time|time]] is flitting by; the hour
-is coming with an angry tread; its foot is in the [[house]]. Awake!
+is coming with an angry tread; its foot is in the house. Awake!
 
 In her mind, she prayed to God to bless her father, and to soften him
 towards her, if it might be so; and if not, to forgive him if he was
@@ -29160,7 +29160,7 @@ that slight figure when he wakes, and find it near him when the hour is
 come!
 
 Sad and grieving was the heart of Florence, as she crept upstairs. The
-quiet [[house]] had grown more dismal since she came down. The [[motifs/sleep|sleep]] she
+quiet house had grown more dismal since she came down. The [[motifs/sleep|sleep]] she
 had been looking on, in the dead of [[motifs/night|night]], had the solemnity to her of
 [[motifs/death|death]] and life in one. The secrecy and [[motifs/silence|silence]] of her own proceeding
 made the [[motifs/night|night]] secret, silent, and oppressive. She felt unwilling,
@@ -29257,7 +29257,7 @@ misdirected and perverted, like all else belonging to the same
 possessor, has been [[concepts/self|self]]-contempt, mere hardihood and ruin.”
 
 She neither looked nor spoke to Florence now, but went on as if she
-were [[Alone|alone]].
+were alone.
 
 “I have dreamed,” she said, “of such indifference and callousness,
 arising from this [[concepts/self|self]]-contempt; this wretched, inefficient, miserable
@@ -29273,7 +29273,7 @@ looked when Florence entered.
 “And I have dreamed,” she said, “that in a first late effort to achieve
 a purpose, it has been trodden on, and trodden down by a base foot, but
 turns and looks upon him. I have dreamed that it is wounded, hunted,
-set upon by [[dogs]], but that it stands at bay, and will not yield; no,
+set upon by dogs, but that it stands at bay, and will not yield; no,
 that it cannot if it would; but that it is urged on to hate.”
 
 Her clenched hand tightened on the trembling arm she had in hers, and
@@ -29330,12 +29330,12 @@ crying over-[[motifs/night|night]]. But the Nipper, so far from being cast down,
 singularly brisk and bold, and all her energies appeared to be braced
 up for some great feat. This was noticeable even in her dress, which
 was much more tight and trim than usual; and in occasional twitches of
-her head as she went about the [[house]], which were mightily expressive of
+her head as she went about the house, which were mightily expressive of
 determination.
 
 In a word, she had formed a determination, and an aspiring one: it
 being nothing less than this—to penetrate to Mr Dombey’s presence, and
-have speech of that gentleman [[Alone|alone]]. “I have often said I would,” she
+have speech of that gentleman alone. “I have often said I would,” she
 remarked, in a threatening manner, to herself, that morning, with many
 twitches of her head, “and now I will!”
 
@@ -29368,7 +29368,7 @@ to be incapable of giving them utterance.
 “I have been in your service, Sir,” said [[characters/susan-nipper|Susan Nipper]], with her usual
 rapidity, “now twelve “year a waiting on Miss Floy my own young lady
 who couldn’t speak plain when I first come here and I was old in this
-[[house]] when Mrs Richards was new, I may not be Meethosalem, but I am not
+house when Mrs Richards was new, I may not be Meethosalem, but I am not
 a [[archetypes/child|child]] in arms.”
 
 Mr Dombey, raised upon his arm and looking at her, offered no comment
@@ -29418,7 +29418,7 @@ he knew her value right, he’d rather lose his [[concepts/greatness|greatness]]
 piece by piece and beg his way in rags from door to door, I say to some
 and all, he would!” cried [[characters/susan-nipper|Susan Nipper]], bursting into [[motifs/tears|tears]], “than
 bring the sorrow on her tender heart that I have seen it suffer in this
-[[house]]!”
+house!”
 
 “Woman,” cried Mr Dombey, “leave the room.”
 
@@ -29499,7 +29499,7 @@ look, remained.
 
 “Do you call it managing this establishment, Madam,” said Mr Dombey,
 “to leave a person like this at liberty to come and talk to me! A
-gentleman—in his own [[house]]—in his own room—assailed with the
+gentleman—in his own house—in his own room—assailed with the
 impertinences of women-servants!”
 
 “[[motifs/well|Well]], Sir,” returned Mrs Pipchin, with vengeance in her hard grey eye,
@@ -29525,7 +29525,7 @@ warning from this hour.”
 know the reason why! Go along with you this minute!”
 
 “I intend to go this minute, you may rely upon it,” said the voluble
-Nipper. “I have been in this [[house]] waiting on my young lady a dozen
+Nipper. “I have been in this house waiting on my young lady a dozen
 year and I won’t stop in it one hour under notice from a person owning
 to the name of Pipchin trust me, Mrs P.”
 
@@ -29554,7 +29554,7 @@ refreshing effect, by the voice of Mrs Pipchin outside the door.
 warning, or does she not?”
 
 Miss Nipper replied from within that the person described did not
-inhabit that part of the [[house]], but that her name was Pipchin, and she
+inhabit that part of the house, but that her name was Pipchin, and she
 was to be found in the housekeeper’s room.
 
 “You saucy baggage!” retorted Mrs Pipchin, rattling at the handle of
@@ -29587,7 +29587,7 @@ departure; sobbing heartily all the [[motifs/time|time]], as she thought of Flor
 [Illustration]
 
 The object of her regret was not long in coming to her, for the news
-soon spread over the [[house]] that [[characters/susan-nipper|Susan Nipper]] had had a disturbance with
+soon spread over the house that [[characters/susan-nipper|Susan Nipper]] had had a disturbance with
 Mrs Pipchin, and that they had both appealed to Mr Dombey, and that
 there had been an unprecedented piece of work in Mr Dombey’s room, and
 that Susan was going. The latter part of this confused rumour, Florence
@@ -29660,7 +29660,7 @@ dinner—preserved her haughty face, and took not the least notice.
 system, and in recollection of the Mines, was accustomed to rout the
 servants about, as she had routed her young Brighton boarders; to the
 everlasting acidulation of Master Bitherstone, “and the sooner this
-[[house]] sees your back the better.”
+house sees your back the better.”
 
 Susan had no spirits even for the look that belonged to Ma Pipchin by
 right; so she dropped her curtsey to Mrs Dombey (who inclined her head
@@ -29701,7 +29701,7 @@ sentiment, “I have long been a stranger.”
 
 
 “Susan, who is an old friend of mine, the oldest friend I have,” said
-Florence, “is about to leave here suddenly, and quite [[Alone|alone]], poor girl.
+Florence, “is about to leave here suddenly, and quite alone, poor girl.
 She is going [[motifs/home|home]], a little way into the country. Might I ask you to
 take care of her until she is in the coach?”
 
@@ -29778,7 +29778,7 @@ scarcely ornamental to it, physically speaking, on account of his
 plasters; which were numerous. But the Chicken had registered a vow, in
 secret, that he would never leave Mr Toots (who was secretly pining to
 get rid of him), for any less consideration than the good-will and
-fixtures of a public-[[house]]; and being ambitious to go into that line,
+fixtures of a public-house; and being ambitious to go into that line,
 and drink himself to [[motifs/death|death]] as soon as possible, he felt it his cue to
 make his company unacceptable.
 
@@ -29816,7 +29816,7 @@ CHAPTER XLV.
 The Trusty Agent
 
 
-Edith went out [[Alone|alone]] that day, and returned [[motifs/home|home]] early. It was but a
+Edith went out alone that day, and returned [[motifs/home|home]] early. It was but a
 few minutes after ten o’[[motifs/clock|clock]], when her carriage rolled along the
 street in which she lived.
 
@@ -30210,7 +30210,7 @@ door, he waved the hand with which he had taken hers, and thrust it in
 his breast.
 
 Edith saw no one that [[motifs/night|night]], but locked her door, and kept herself
-[[Alone|alone]].
+alone.
 
 She did not weep; she showed no greater agitation, outwardly, than when
 she was riding [[motifs/home|home]]. She laid as proud a head upon her pillow as she
@@ -30239,7 +30239,7 @@ Among sundry minor alterations in Mr Carker’s life and habits that
 began to take place at this [[motifs/time|time]], none was more remarkable than the
 extraordinary diligence with which he applied himself to business, and
 the closeness with which he investigated every detail that the affairs
-of the [[house|House]] laid open to him. Always active and penetrating in such
+of the House laid open to him. Always active and penetrating in such
 matters, his lynx-eyed vigilance now increased twenty-fold. Not only
 did his weary watch keep pace with every present point that every day
 presented to him in some new form, but in the midst of these engrossing
@@ -30260,7 +30260,7 @@ again, and again, expatiated to Mrs Perch (now nursing twins) on the
 industry and acuteness of their managing gentleman in the [[motifs/city|City]].
 
 The same increased and sharp attention that Mr Carker bestowed on the
-business of the [[house|House]], he applied to his own personal affairs. Though
+business of the House, he applied to his own personal affairs. Though
 not a partner in the concern—a distinction hitherto reserved solely to
 inheritors of the great name of Dombey—he was in the receipt of some
 percentage on its dealings; and, participating in all its facilities
@@ -30284,13 +30284,13 @@ which sharpens and keeps alive his keenest powers.
 
 The only decided alteration in him was, that as he rode to and fro
 along the streets, he would fall into deep fits of musing, like that in
-which he had come away from Mr Dombey’s [[house]], on the morning of that
+which he had come away from Mr Dombey’s house, on the morning of that
 gentleman’s disaster. At such times, he would keep clear of the
 obstacles in his way, mechanically; and would appear to see and hear
 nothing until arrival at his destination, or some sudden chance or
 effort roused him.
 
-Walking his white-legged [[motifs/horse|horse]] thus, to the counting-[[house]] of Dombey
+Walking his white-legged [[motifs/horse|horse]] thus, to the counting-house of Dombey
 and Son one day, he was as unconscious of the observation of two pairs
 of women’s eyes, as of the fascinated orbs of Rob the Grinder, who, in
 waiting a street’s length from the appointed place, as a demonstration
@@ -30369,11 +30369,11 @@ The sprightly Rob, whose sprightliness was very much diminished by the
 salutation, looked exceedingly dismayed, and said, with the [[motifs/water|water]]
 rising in his eyes:
 
-“Oh! why can’t you leave a poor cove [[Alone|alone]], Misses Brown, when he’s
+“Oh! why can’t you leave a poor cove alone, Misses Brown, when he’s
 getting an honest livelihood and conducting himself respectable? What
 do you come and deprive a cove of his character for, by talking to him
 in the streets, when he’s taking his master’s [[motifs/horse|horse]] to a honest
-stable—a [[motifs/horse|horse]] you’d go and sell for cats’ and [[dogs]]’ meat if you had
+stable—a [[motifs/horse|horse]] you’d go and sell for cats’ and dogs’ meat if you had
 your way! Why, I thought,” said the Grinder, producing his concluding
 remark as if it were the climax of all his injuries, “that you was dead
 long ago!”
@@ -30403,7 +30403,7 @@ thinking of a variety of things!”
 
 “What a gallant [[motifs/horse|horse]]!” said the old woman, patting the animal’s neck.
 
-“Let him [[Alone|alone]], will you, Misses Brown?” cried Rob, pushing away her
+“Let him alone, will you, Misses Brown?” cried Rob, pushing away her
 hand. “You’re enough to drive a penitent cove mad!”
 
 “Why, what hurt do I do him, [[archetypes/child|child]]?” returned the old woman.
@@ -30428,7 +30428,7 @@ take you away, instead of letting you make yourself so disgraceful!”
 
 “What!” croaked the old woman, putting her face close to his, with a
 malevolent grin upon it that puckered up the loose skin down in her
-very throat. “Do you deny your old chum! Have you lurked to my [[house]]
+very throat. “Do you deny your old chum! Have you lurked to my house
 fifty times, and slept sound in a corner when you had no other bed but
 the paving-stones, and do you talk to me like this! Have I bought and
 sold with you, and helped you in my way of business, schoolboy, sneak,
@@ -30464,7 +30464,7 @@ bottle-maker’s warehouse, for its places of business, Rob the Grinder
 delivered the white-legged [[motifs/horse|horse]] to the hostler of a quaint stable at
 the corner; and inviting Mrs Brown and her daughter to seat themselves
 upon a stone bench at the gate of that establishment, soon reappeared
-from a neighbouring public-[[house]] with a pewter measure and a glass.
+from a neighbouring public-house with a pewter measure and a glass.
 
 
 
@@ -30618,7 +30618,7 @@ astonished and dismayed Rob staring after them, saw that they stopped,
 and fell to earnest conversation very soon; and more than once observed
 a darkly threatening action of the younger woman’s hand (obviously
 having reference to someone of whom they spoke), and a crooning feeble
-[[Imitation|imitation]] of it on the part of Mrs Brown, that made him earnestly [[concepts/hope|hope]]
+imitation of it on the part of Mrs Brown, that made him earnestly [[concepts/hope|hope]]
 he might not be the subject of their discourse.
 
 
@@ -30634,7 +30634,7 @@ regretting his misdeeds than as they were attended with such
 disagreeable incidental consequences, composed his ruffled features to
 a more serene expression by thinking of the admirable manner in which
 he had disposed of [[characters/captain-cuttle|Captain Cuttle]] (a reflection that seldom failed to
-put him in a flow of spirits), and went to the Dombey Counting [[house|House]] to
+put him in a flow of spirits), and went to the Dombey Counting House to
 receive his master’s orders.
 
 There his master, so subtle and vigilant of eye, that Rob quaked before
@@ -30667,7 +30667,7 @@ His brother pointed to the letters, and was again withdrawing.
 “I [[concepts/wonder|wonder]],” said the Manager, “that you can come and go, without
 inquiring how our master is”.
 
-“We had word this morning in the Counting [[house|House]], that Mr Dombey was
+“We had word this morning in the Counting House, that Mr Dombey was
 doing [[motifs/well|well]],” replied his brother.
 
 “You are such a meek fellow,” said the Manager, with a smile,—“but you
@@ -30702,16 +30702,16 @@ fact that makes him an extreme case, puts him out of the whole chapter!
 [[motifs/well|Well]]?”
 
 “Apart from that, which, as you hint, gives me a reason to be thankful
-that I [[Alone|alone]] (happily for all the rest) possess, surely there is no one
-in the [[house|House]] who would not say and feel at least as much. You do not
+that I alone (happily for all the rest) possess, surely there is no one
+in the House who would not say and feel at least as much. You do not
 think that anybody here would be indifferent to a mischance or
-misfortune happening to the head of the [[house|House]], or anything than truly
+misfortune happening to the head of the House, or anything than truly
 sorry for it?”
 
 “You have good reason to be bound to him too!” said the Manager,
 contemptuously. “Why, don’t you believe that you are kept here, as a
 cheap example, and a famous instance of the clemency of Dombey and Son,
-redounding to the credit of the illustrious [[house|House]]?”
+redounding to the credit of the illustrious House?”
 
 “No,” replied his brother, mildly, “I have long believed that I am kept
 here for more kind and disinterested reasons.”
@@ -30738,7 +30738,7 @@ beginning, I know, for your great ability and trustfulness), and who
 communicate more freely with Mr Dombey than anyone, and stand, it may
 be said, on equal terms with him, and have been favoured and enriched
 by him—that it would be a mistake to suppose that it is only you who
-are tender of his welfare and reputation. There is no one in the [[house|House]],
+are tender of his welfare and reputation. There is no one in the House,
 from yourself down to the lowest, I sincerely believe, who does not
 participate in that feeling.”
 
@@ -30779,7 +30779,7 @@ saw in you. I will only say to you, once more, you are deceived.”
 If not, by your own thoughts and suspicions.”
 
 “I have no suspicions,” said the Manager. “Mine are certainties. You
-pusillanimous, abject, cringing [[dogs]]! All making the same show, all
+pusillanimous, abject, cringing dogs! All making the same show, all
 canting the same story, all whining the same professions, all
 harbouring the same transparent secret.”
 
@@ -30803,11 +30803,11 @@ deeper reverie, and sat pondering over the blackening grate, until he
 him took his hat and gloves, went to where his [[motifs/horse|horse]] was waiting,
 mounted, and rode away through the lighted streets, for it was evening.
 
-He rode near Mr Dombey’s [[house]]; and falling into a walk as he
+He rode near Mr Dombey’s house; and falling into a walk as he
 approached it, looked up at the windows The [[motifs/window|window]] where he had once
 seen Florence sitting with her dog attracted his attention first,
 though there was no light in it; but he smiled as he carried his eyes
-up the tall front of the [[house]], and seemed to leave that object
+up the tall front of the house, and seemed to leave that object
 superciliously behind.
 
 “[[motifs/time|Time]] was,” he said, “when it was [[motifs/well|well]] to watch even your rising little
@@ -30815,7 +30815,7 @@ star, and know in what quarter there were clouds, to [[archetypes/shadow|shadow]
 needful. But a planet has arisen, and you are lost in its light.”
 
 He turned the white-legged [[motifs/horse|horse]] round the street corner, and sought
-one shining [[motifs/window|window]] from among those at the back of the [[house]].
+one shining [[motifs/window|window]] from among those at the back of the house.
 Associated with it was a certain stately presence, a gloved hand, the
 remembrance how the feathers of a beautiful bird’s wing had been
 showered down upon the floor, and how the light white down upon a robe
@@ -30922,7 +30922,7 @@ her ears, and lisps “I don’t believe it!” Breathe the polluted air,
 foul with every impurity that is poisonous to health and life; and have
 every sense, conferred upon our race for its delight and happiness,
 offended, sickened and disgusted, and made a channel by which misery
-and [[motifs/death|death]] [[Alone|alone]] can enter. Vainly attempt to think of any simple plant,
+and [[motifs/death|death]] alone can enter. Vainly attempt to think of any simple plant,
 or flower, or wholesome weed, that, set in this foetid bed, could have
 its natural growth, or put its little [[motifs/leaves|leaves]] off to the sun as GOD
 designed it. And then, calling up some ghastly [[archetypes/child|child]], with stunted form
@@ -30933,7 +30933,7 @@ been conceived, and born and bred, in Hell!
 Those who study the physical sciences, and bring them to bear upon the
 health of Man, tell us that if the noxious particles that rise from
 vitiated air were palpable to the sight, we should see them lowering in
-a dense black cloud above such haunts, and [[rolling]] slowly on to corrupt
+a dense black cloud above such haunts, and rolling slowly on to corrupt
 the better portions of a town. But if the moral pestilence that rises
 with them, and in the eternal laws of our [[concepts/nature|Nature]], is inseparable from
 them, could be made discernible too, how terrible the revelation! Then
@@ -30945,9 +30945,9 @@ we see how the same poisoned fountains that flow into our hospitals and
 lazar-houses, inundate the jails, and make the convict-ships swim deep,
 and roll across the seas, and over-run vast continents with crime. Then
 should we stand appalled to know, that where we generate disease to
-strike our children down and entail itself on [[unborn]] generations, there
+strike our children down and entail itself on unborn generations, there
 also we breed, by the same certain process, infancy that knows no
-[[innocence]], youth without modesty or shame, maturity that is mature in
+innocence, youth without modesty or shame, maturity that is mature in
 nothing but in [[concepts/suffering|suffering]] and [[concepts/guilt|guilt]], blasted old age that is a scandal
 on the form we bear, unnatural humanity! When we shall gather grapes
 from thorns, and figs from thistles; when fields of grain shall [[motifs/spring|spring]]
@@ -30955,7 +30955,7 @@ up from the offal in the bye-ways of our wicked cities, and roses bloom
 in the fat churchyards that they cherish; then we may look for natural
 humanity, and find it growing from such seed.
 
-Oh for a good spirit who would take the [[house]]-tops off, with a more
+Oh for a good spirit who would take the house-tops off, with a more
 potent and benignant hand than the lame demon in the tale, and show a
 Christian people what dark shapes issue from amidst their homes, to
 swell the retinue of the Destroying Angel as he moves forth among them!
@@ -31022,7 +31022,7 @@ from [[motifs/childhood|childhood]] to womanhood, and had come with it. Florence
 seventeen, when, in her lonely musings, she was conscious of these
 thoughts.
 
-She was often [[Alone|alone]] now, for the old association between her and her
+She was often alone now, for the old association between her and her
 Mama was greatly changed. At the [[motifs/time|time]] of her father’s accident, and
 when he was lying in his room downstairs, Florence had first observed
 that Edith avoided her. Wounded and shocked, and yet unable to
@@ -31114,7 +31114,7 @@ Yes, and she would have done it, if she had had the charm.
 than what you say to me, which alarms me. Let me stay with you a
 little.”
 
-“No,” said Edith, “no, dearest. I am best left [[Alone|alone]] now, and I do best
+“No,” said Edith, “no, dearest. I am best left alone now, and I do best
 to keep apart from you, of all else. Ask me no questions, but believe
 that what I am when I seem fickle or capricious to you, I am not of my
 own will, or for myself. Believe, though we are stranger to each other
@@ -31144,7 +31144,7 @@ though not with the same relenting of her proud aspect; and often, when
 she had been out late, she would steal up to Florence’s room, as she
 had been used to do, in the dark, and whisper “Good-[[motifs/night|night]],” on her
 pillow. When unconscious, in her slumber, of such visits, Florence
-would sometimes awake, as from [[A Dream|a dream]] of those words, softly spoken,
+would sometimes awake, as from a dream of those words, softly spoken,
 and would seem to feel the touch of lips upon her face. But less and
 less often as the months went on.
 
@@ -31172,11 +31172,11 @@ the cause of this change in Edith, would obtrude themselves upon her
 mind and frighten her; but in the calm of its abandonment once more to
 silent grief and [[concepts/loneliness|loneliness]], it was not a curious mind. Florence had
 only to remember that her star of promise was clouded in the general
-gloom that hung upon the [[house]], and to weep and be resigned.
+gloom that hung upon the house, and to weep and be resigned.
 
-Thus living, in [[A Dream|a dream]] wherein the overflowing [[motifs/love|love]] of her young heart
+Thus living, in a dream wherein the overflowing [[motifs/love|love]] of her young heart
 expended itself on airy forms, and in a real world where she had
-experienced little but the [[rolling]] back of that strong tide upon
+experienced little but the rolling back of that strong tide upon
 itself, Florence grew to be seventeen. Timid and retiring as her
 solitary life had made her, it had not embittered her sweet temper, or
 her earnest [[concepts/nature|nature]]. A [[archetypes/child|child]] in [[archetypes/innocent|innocent]] simplicity; a woman in her
@@ -31201,7 +31201,7 @@ it; but, upon the whole, it was agreeable to have so good a subject for
 a rallying point, and they made a great deal of it, and enjoyed
 themselves very much.
 
-The general visitors who came to the [[house]], and those among whom Mr and
+The general visitors who came to the house, and those among whom Mr and
 Mrs Dombey visited, thought it a pretty equal match, as to haughtiness,
 at all events, and thought nothing more about it. The young lady with
 the back did not appear for some [[motifs/time|time]] after Mrs Skewton’s [[motifs/death|death]];
@@ -31213,7 +31213,7 @@ watch, which shocked her very much, as an exploded superstition. This
 youthful fascinator considered a daughter-in-law objectionable in
 principle; otherwise, she had nothing to say against Florence, but that
 she sadly wanted “style”—which might mean back, perhaps. Many, who only
-came to the [[house]] on state occasions, hardly knew who Florence was, and
+came to the house on state occasions, hardly knew who Florence was, and
 said, going [[motifs/home|home]], “Indeed, was that Miss Dombey, in the corner? Very
 pretty, but a little delicate and thoughtful in appearance!”
 
@@ -31247,7 +31247,7 @@ There was very little said at dinner. Florence heard her father speak
 to Mr Carker sometimes on business matters, and heard him softly reply,
 but she paid little attention to what they said, and only wished the
 dinner at an end. When the dessert was placed upon the table, and they
-were left [[Alone|alone]], with no servant in attendance, Mr Dombey, who had been
+were left alone, with no servant in attendance, Mr Dombey, who had been
 several times clearing his throat in a manner that augured no good,
 said:
 
@@ -31288,7 +31288,7 @@ to-morrow.”
 
 “Tell your sovereign master, Sir,” said Edith, “that I will take leave
 to speak to him on this subject by-and-bye, and that I will speak to
-him [[Alone|alone]].”
+him alone.”
 
 “Mr Carker, Madam,” said her husband, “being in possession of the
 reason which obliges me to refuse you that privilege, shall be absolved
@@ -31308,7 +31308,7 @@ But Edith stopped him, in a voice which, although not raised in the
 least, was so clear, emphatic, and distinct, that it might have been
 heard in a whirlwind.
 
-“I tell you I will speak to you [[Alone|alone]],” she said. “If you are not mad,
+“I tell you I will speak to you alone,” she said. “If you are not mad,
 heed what I say.”
 
 “I have authority to speak to you, Madam,” returned her husband, “when
@@ -31430,7 +31430,7 @@ nothing that you ask.”
 
 “I am not accustomed to ask, Mrs Dombey,” he observed; “I direct.”
 
-“I will hold no place in your [[house]] to-morrow, or on any recurrence of
+“I will hold no place in your house to-morrow, or on any recurrence of
 to-morrow. I will be exhibited to no one, as the refractory slave you
 purchased, such a [[motifs/time|time]]. If I kept my [[motifs/marriage|marriage]] day, I would keep it as a
 day of shame. [[concepts/self|Self]]-respect! appearances before the world! what are
@@ -31494,7 +31494,7 @@ that is made of my daughter, in opposition to me, are unnatural.
 Whether my daughter is in actual concert with Mrs Dombey, I do not
 know, and do not care; but after what Mrs Dombey has said today, and my
 daughter has heard today, I beg you to make known to Mrs Dombey, that
-if she continues to make this [[house]] the scene of contention it has
+if she continues to make this house the scene of contention it has
 become, I shall consider my daughter responsible in some degree, on
 that lady’s own avowal, and shall visit her with my severe displeasure.
 Mrs Dombey has asked ‘whether it is not enough,’ that she had done this
@@ -31509,7 +31509,7 @@ determined you are when you give Mrs Dombey to understand”—the light in
 his eyes fell upon her as he separated his words each from each, with
 the distinctness of so many [[motifs/bells|bells]]—“that nothing but [[motifs/death|death]] can ever part
 you. Nothing else. But when you consider that Mrs Dombey, by living in
-this [[house]], and making it as you have said, a scene of contention, not
+this house, and making it as you have said, a scene of contention, not
 only has her part in that contention, but compromises Miss Dombey every
 day (for I know how determined you are), will you not relieve her from
 a continual irritation of spirit, and a continual sense of being unjust
@@ -31559,13 +31559,13 @@ not want to speak to her of this—she could not, remembering to whom she
 was opposed—but she wished, in one silent and affectionate embrace, to
 assure her that she felt it all, and thanked her.
 
-Her father went out [[Alone|alone]], that evening, and Florence issuing from her
-own chamber soon afterwards, went about the [[house]] in search of Edith,
+Her father went out alone, that evening, and Florence issuing from her
+own chamber soon afterwards, went about the house in search of Edith,
 but unavailingly. She was in her own rooms, where Florence had long
 ceased to go, and did not dare to venture now, lest she should
 unconsciously engender new trouble. Still Florence hoping to meet her
 before going to bed, changed from room to room, and wandered through
-the [[house]] so splendid and so dreary, without remaining anywhere.
+the house so splendid and so dreary, without remaining anywhere.
 
 She was crossing a gallery of communication that opened at some little
 distance on the staircase, and was only lighted on great occasions,
@@ -31573,7 +31573,7 @@ when she saw, through the opening, which was an arch, the figure of a
 man coming down some few stairs opposite. Instinctively apprehensive of
 her father, whom she supposed it was, she stopped, in the dark, gazing
 through the arch into the light. But it was Mr Carker coming down
-[[Alone|alone]], and looking over the railing into the hall. No bell was rung to
+alone, and looking over the railing into the hall. No bell was rung to
 announce his departure, and no servant was in attendance. He went down
 quietly, opened the door for himself, glided out, and shut it softly
 after him.
@@ -31606,7 +31606,7 @@ staircase.
 When the evening had set in, she heard, from the room in which she sat
 on purpose, a footstep on the stairs that she thought to be Edith’s.
 Hurrying out, and up towards her room, Florence met her immediately,
-coming down [[Alone|alone]].
+coming down alone.
 
 What was Florence’s affright and [[concepts/wonder|wonder]] when, at sight of her, with her
 tearful face, and outstretched arms, Edith recoiled and shrieked!
@@ -31620,7 +31620,7 @@ me!—Florence!” shrinking back, as Florence moved a step towards her,
 “don’t touch me!”
 
 As Florence stood transfixed before the haggard face and staring eyes,
-she noted, as in [[A Dream|a dream]], that Edith spread her hands over them, and
+she noted, as in a dream, that Edith spread her hands over them, and
 shuddering through all her form, and crouching down against the wall,
 crawled by her like some lower animal, sprang up, and fled away.
 
@@ -31646,7 +31646,7 @@ been committed to bed at ten o’[[motifs/clock|clock]] in the morning.
 
 Without promising obedience, but on the plea of desiring to be very
 quiet, Florence disengaged herself, as soon as she could, from the
-ministration of Mrs Pipchin and her attendants. Left [[Alone|alone]], she thought
+ministration of Mrs Pipchin and her attendants. Left alone, she thought
 of what had happened on the staircase, at first in [[concepts/doubt|doubt]] of its
 reality; then with [[motifs/tears|tears]]; then with an indescribable and terrible
 alarm, like that she had felt the [[motifs/night|night]] before.
@@ -31665,7 +31665,7 @@ opened the door and paced the staircase-gallery outside, looked out of
 sat down and watched the faces in the [[motifs/fire|fire]], got up and watched the [[motifs/moon|moon]]
 flying like a [[motifs/storm|storm]]-driven [[motifs/ship|ship]] through the sea of clouds.
 
-All the [[house]] was gone to bed, except two servants who were waiting the
+All the house was gone to bed, except two servants who were waiting the
 return of their mistress, downstairs.
 
 One o’[[motifs/clock|clock]]. The carriages that rumbled in the distance, turned away,
@@ -31685,7 +31685,7 @@ and looked out at the [[motifs/moon|moon]] with a new fancy of her likeness to a
 fugitive hurrying away and hiding her guilty face. Four struck! Five!
 No Edith yet.
 
-But now there was some cautious stir in the [[house]]; and Florence found
+But now there was some cautious stir in the house; and Florence found
 that Mrs Pipchin had been awakened by one of those who sat up, had
 risen and had gone down to her father’s door. Stealing lower down the
 stairs, and observing what passed, she saw her father come out in his
@@ -31695,7 +31695,7 @@ was there; and while the man was gone, dressed himself very hurriedly.
 
 The man came back, in great haste, bringing the coachman with him, who
 said he had been at [[motifs/home|home]] and in bed, since ten o’[[motifs/clock|clock]]. He had driven
-his mistress to her old [[house]] in Brook Street, where she had been met
+his mistress to her old house in Brook Street, where she had been met
 by Mr Carker—
 
 Florence stood upon the very spot where she had seen him coming down.
@@ -31706,7 +31706,7 @@ hardly steadiness enough to hear and understand what followed.
 want the carriage to go [[motifs/home|home]] in; and had dismissed him.
 
 She saw her father turn white in the face, and heard him ask in a
-quick, trembling voice, for Mrs Dombey’s maid. The whole [[house]] was
+quick, trembling voice, for Mrs Dombey’s maid. The whole house was
 roused; for she was there, in a moment, very pale too, and speaking
 incoherently.
 
@@ -31745,7 +31745,7 @@ haste, he saw some papers on the table. The deed of settlement he had
 executed on their [[motifs/marriage|marriage]], and a letter. He read that she was gone. He
 read that he was dishonoured. He read that she had fled, upon her
 shameful wedding-day, with the man whom he had chosen for her
-humiliation; and he tore out of the room, and out of the [[house]], with a
+humiliation; and he tore out of the room, and out of the house, with a
 frantic idea of finding her yet, at the place to which she had been
 taken, and beating all trace of [[concepts/beauty|beauty]] out of the triumphant face with
 his bare hand.
@@ -31792,13 +31792,13 @@ word of reproach. But she looked at him, and a cry of desolation issued
 from her heart. For as she looked, she saw him murdering that fond idea
 to which she had held in spite of him. She saw his cruelty, neglect,
 and hatred dominant above it, and stamping it down. She saw she had no
-father upon earth, and ran out, orphaned, from his [[house]].
+father upon earth, and ran out, orphaned, from his house.
 
-Ran out of his [[house]]. A moment, and her hand was on the lock, the cry
+Ran out of his house. A moment, and her hand was on the lock, the cry
 was on her lips, his face was there, made paler by the yellow candles
 hastily put down and guttering away, and by the daylight coming in
 above the door. Another moment, and the close darkness of the shut-up
-[[house]] (forgotten to be opened, though it was long since day) yielded to
+house (forgotten to be opened, though it was long since day) yielded to
 the unexpected glare and [[concepts/freedom|freedom]] of the morning; and Florence, with her
 head bent down to hide her agony of [[motifs/tears|tears]], was in the streets.
 
@@ -31858,11 +31858,11 @@ Florence bent down on the pavement, and laid his rough, old, loving,
 foolish head against her breast, and they got up together, and went on
 together; Di more off the ground than on it, endeavouring to kiss his
 mistress flying, tumbling over and getting up again without the least
-concern, dashing at big [[dogs]] in a jocose defiance of his species,
+concern, dashing at big dogs in a jocose defiance of his species,
 terrifying with touches of his nose young housemaids who were cleaning
 doorsteps, and continually stopping, in the midst of a thousand
-extravagances, to look back at Florence, and bark until all the [[dogs]]
-within hearing answered, and all the [[dogs]] who could come out, came out
+extravagances, to look back at Florence, and bark until all the dogs
+within hearing answered, and all the dogs who could come out, came out
 to stare at him.
 
 With this last adherent, Florence hurried away in the advancing
@@ -31872,7 +31872,7 @@ until she was carried onward in a stream of life setting that way, and
 flowing, indifferently, past marts and mansions, prisons, churches,
 market-places, wealth, [[concepts/poverty|poverty]], good, and evil, like the broad [[motifs/river|river]]
 side by side with it, awakened from its [[motifs/dreams|dreams]] of rushes, willows, and
-green moss, and [[rolling]] on, turbid and troubled, among the works and
+green moss, and rolling on, turbid and troubled, among the works and
 cares of men, to the deep sea.
 
 At length the quarters of the little Midshipman arose in view. Nearer
@@ -32089,7 +32089,7 @@ himself, unable to forget the subject. This incident, coupled with the
 Captain’s observation of Florence’s fatigue and faintness, decided him
 to prepare Sol Gills’s chamber as a place of retirement for her
 immediately. He therefore hastily betook himself to the top of the
-[[house]], and made the best arrangement of it that his [[concepts/imagination|imagination]] and his
+house, and made the best arrangement of it that his [[concepts/imagination|imagination]] and his
 means suggested.
 
 It was very clean already; and the Captain, being an orderly man, and
@@ -32098,7 +32098,7 @@ by covering it all over with a clean white drapery. By a similar
 contrivance, the Captain converted the little dressing-table into a
 species of altar, on which he set forth two silver teaspoons, a
 flower-pot, a telescope, his celebrated watch, a pocket-comb, and a
-[[Song|song]]-book, as a small collection of rarities, that made a choice
+song-book, as a small collection of rarities, that made a choice
 appearance. Having darkened the [[motifs/window|window]], and straightened the pieces of
 carpet on the floor, the Captain surveyed these preparations with great
 delight, and descended to the little parlour again, to bring Florence
@@ -32116,7 +32116,7 @@ the top of St Paul’s [[settings/cathedral|Cathedral]], with the ladder cast of
 you want, afore all other things, and may you be able to show yourself
 smart with that there balsam for the still small woice of a wounded
 mind! When there’s anything you want, my Heart’s Delight, as this here
-humble [[house]] or town can offer, pass the word to Ed’ard Cuttle, as’ll
+humble house or town can offer, pass the word to Ed’ard Cuttle, as’ll
 stand off and on outside that door, and that there man will wibrate
 with joy.” The Captain concluded by kissing the hand that Florence
 stretched out to him, with the chivalry of any old knight-errant, and
@@ -32247,7 +32247,7 @@ yourself, you would, no [[concepts/doubt|doubt]], come prepared.”
 there; and he said was I coming back again, and I said yes; and he said
 did I know you, and I said, yes, I had the pleasure of your
 acquaintance—you had given me the pleasure of your acquaintance, after
-some [[Persuasion|persuasion]]; and he said, if that was the case, would I say to you
+some persuasion; and he said, if that was the case, would I say to you
 what I have said, about existing circumstances and coming prepared, and
 as soon as ever I saw you, would I ask you to step round the corner, if
 it was only for one minute, on most important business, to Mr Brogley’s
@@ -32257,7 +32257,7 @@ wait here till you come back.”
 
 The Captain, divided between his [[concepts/fear|fear]] of compromising Florence in some
 way by not going, and his horror of leaving Mr Toots in possession of
-the [[house]] with a chance of finding out the secret, was a spectacle of
+the house with a chance of finding out the secret, was a spectacle of
 mental disturbance that even Mr Toots could not be blind to. But that
 young gentleman, considering his nautical friend as merely in a state
 of preparation for the interview he was going to have, was quite
@@ -32265,7 +32265,7 @@ satisfied, and did not review his own discreet conduct without chuckle.
 
 At length the Captain decided, as the lesser of two evils, to run round
 to Brogley’s the Broker’s: previously locking the door that
-communicated with the upper part of the [[house]], and putting the key in
+communicated with the upper part of the house, and putting the key in
 his pocket. “If so be,” said the Captain to Mr Toots, with not a little
 shame and hesitation, “as you’ll excuse my doing of it, brother.”
 
@@ -32319,7 +32319,7 @@ back. “What! There’s more than one sweet creetur in the world!”
 “Not to me, Captain Gills,” replied Mr Toots gravely. “Not to me, I
 assure you. The state of my feelings towards Miss Dombey is of that
 unspeakable description, that my heart is a [[motifs/desert|desert]] island, and she
-lives in it [[Alone|alone]]. I’m getting more used up every day, and I’m proud to
+lives in it alone. I’m getting more used up every day, and I’m proud to
 be so. If you could see my legs when I take my boots off, you’d form
 some idea of what unrequited affection is. I have been prescribed bark,
 but I don’t take it, for I don’t wish to have any tone whatever given
@@ -32628,12 +32628,12 @@ resume his smoking with infinite gentleness.
 Unlike as they were externally—and there could scarcely be a more
 decided contrast than between Florence in her delicate youth and
 [[concepts/beauty|beauty]], and [[characters/captain-cuttle|Captain Cuttle]] with his knobby face, his great broad
-weather-beaten person, and his gruff voice—in simple [[innocence]] of the
+weather-beaten person, and his gruff voice—in simple innocence of the
 world’s ways and the world’s perplexities and dangers, they were nearly
 on a level. No [[archetypes/child|child]] could have surpassed [[characters/captain-cuttle|Captain Cuttle]] in
 inexperience of everything but [[motifs/wind|wind]] and weather; in simplicity,
 credulity, and generous trustfulness. [[concepts/faith|Faith]], [[concepts/hope|hope]], and [[concepts/charity|charity]], shared
-his whole [[concepts/nature|nature]] among them. An odd sort of [[Romance|romance]], perfectly
+his whole [[concepts/nature|nature]] among them. An odd sort of romance, perfectly
 unimaginative, yet perfectly unreal, and subject to no considerations
 of worldly prudence or practicability, was the only partner they had in
 his character. As the Captain sat, and smoked, and looked at Florence,
@@ -32719,7 +32719,7 @@ terrible dream she had once called [[motifs/home|Home]].
 <span class="atom-split" data-atom="chapter_77--part_04" data-title="Dombey and Son — Chapter 49 (part 4)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="motif/clock,motif/flowers,motif/grave,motif/home,motif/love,motif/night,motif/prayer,motif/time,character/captain_cuttle"></span>
 
 
-When they were [[Alone|alone]] again, the Captain insisted on her eating a slice
+When they were alone again, the Captain insisted on her eating a slice
 of dry toast, and drinking a glass of spiced negus (which he made to
 perfection); and, encouraging her with every kind word and
 inconsequential quotation he could possibly think of, led her upstairs
@@ -32779,7 +32779,7 @@ disappeared.
 Florence was very sorry that she should unwittingly, though naturally,
 have awakened these associations in the mind of her protector, by
 taking refuge there; and sitting down before the little table where the
-Captain had arranged the telescope and [[Song|song]]-book, and those other
+Captain had arranged the telescope and song-book, and those other
 rarities, thought of Walter, and of all that was connected with him in
 the past, until she could have almost wished to lie down on her bed and
 fade away. But in her lonely yearning to the dead whom she had loved,
@@ -32906,7 +32906,7 @@ maybe out of a hundred, pretty,—has been saved by the [[concepts/mercy|mercy]]
 come [[motifs/home|home]] after being given over for dead, and told of all hands lost.
 I—I know a story, Heart’s Delight,” stammered the Captain, “o’ this
 natur, as was told to me once; and being on this here tack, and you and
-me sitting [[Alone|alone]] by the [[motifs/fire|fire]], maybe you’d like to hear me tell it.
+me sitting alone by the [[motifs/fire|fire]], maybe you’d like to hear me tell it.
 Would you, deary?”
 
 Florence, trembling with an agitation which she could not control or
@@ -33086,7 +33086,7 @@ fervour of his youth, and all its frank and hopeful qualities, shining
 once more, in the fresh, wholesome manner, and the ardent face, would
 have kindled something of this light in his countenance. The admiration
 and sympathy with which he turned his eyes on Florence, whose [[concepts/beauty|beauty]],
-grace, and [[innocence]] could have won no truer or more zealous champion
+grace, and innocence could have won no truer or more zealous champion
 than himself, would have had an equal influence upon him. But the
 fulness of the glow he shed around him could only have been engendered
 in his contemplation of the two together, and in all the fancies
@@ -33160,7 +33160,7 @@ the two who hear me speak!”
 
 “Oh, Walter,” exclaimed Florence, through her sobs and [[motifs/tears|tears]]. “Dear
 brother! Show me some way through the world—some humble path that I may
-take [[Alone|alone]], and labour in, and sometimes think of you as one who will
+take alone, and labour in, and sometimes think of you as one who will
 protect and care for me as for a sister! Oh, help me, Walter, for I
 need help so much!”
 
@@ -33234,7 +33234,7 @@ Captain hung up over the chimney-piece with such extreme delight, that
 he could do nothing for half-an-hour afterwards but walk backward from
 it, lost in admiration.
 
-The Captain could be induced by no [[Persuasion|persuasion]] of Walter’s to [[motifs/wind|wind]] up
+The Captain could be induced by no persuasion of Walter’s to [[motifs/wind|wind]] up
 the big watch, or to take back the canister, or to touch the
 sugar-tongs and teaspoons. “No, no, my lad;” was the Captain’s
 invariable reply to any solicitation of the kind, “I’ve made that there
@@ -33251,7 +33251,7 @@ shutters being taken down. The latter ceremony, however little
 importance the unconscious Captain attached to it, was not wholly
 superfluous; for, on the previous day, so much excitement had been
 occasioned in the neighbourhood, by the shutters remaining unopened,
-that the Instrument-maker’s [[house]] had been honoured with an unusual
+that the Instrument-maker’s house had been honoured with an unusual
 share of public observation, and had been intently stared at from the
 opposite side of the way, by groups of hungry gazers, at any [[motifs/time|time]]
 between sunrise and sunset. The idlers and vagabonds had been
@@ -33285,7 +33285,7 @@ the presence of the enlightened Bunsby, “that if you never hear from
 him before opening it, you may believe him dead. Heaven forbid! But you
 would have heard of him, even if he were dead! Someone would have
 written, surely, by his [[motifs/desire|desire]], if he could not; and have said, ‘on
-such a day, there died in my [[house]],’ or ‘under my care,’ or so forth,
+such a day, there died in my house,’ or ‘under my care,’ or so forth,
 ‘Mr [[characters/solomon-gills|Solomon Gills]] of [[settings/london|London]], who left this last remembrance and this
 last request to you’.”
 
@@ -33431,7 +33431,7 @@ there is no return.”
 it, and observed in a tone of strong corroboration, that the [[motifs/wind|wind]] was
 quite abaft.
 
-“She ought not to be [[Alone|alone]] here; ought she, [[characters/captain-cuttle|Captain Cuttle]]?” said
+“She ought not to be alone here; ought she, [[characters/captain-cuttle|Captain Cuttle]]?” said
 Walter, anxiously.
 
 “[[motifs/well|Well]], my lad,” replied the Captain, after a little sagacious
@@ -33463,7 +33463,7 @@ could do so, than you.”
 
 “Wal”r, my lad,” said the Captain, drooping more and more, “prowiding
 as there is any just cause or impediment why two persons should not be
-jined together in the [[house]] of bondage, for which you’ll overhaul the
+jined together in the house of bondage, for which you’ll overhaul the
 place and make a note, I [[concepts/hope|hope]] I should declare it as promised and wowed
 in the banns. So there ain’t no other character; ain’t there, my lad?”
 
@@ -33600,7 +33600,7 @@ subject that—”
 
 “Then, Captain Gills,” said Mr Toots, “and Lieutenant Walters—are you
 aware that the most dreadful circumstances have been happening at Mr
-Dombey’s [[house]], and that Miss Dombey herself has left her father, who,
+Dombey’s house, and that Miss Dombey herself has left her father, who,
 in my opinion,” said Mr Toots, with great excitement, “is a Brute, that
 it would be a flattery to call a—a marble monument, or a bird of
 prey,—and that she is not to be found, and has gone no one knows
@@ -33641,7 +33641,7 @@ find that you can render service to Miss Dombey. [[characters/captain-cuttle|Cap
 you have the kindness to take Mr Toots upstairs?”
 
 The Captain beckoned to Mr Toots, who followed him with a bewildered
-countenance, and, ascending to the top of the [[house]], was introduced,
+countenance, and, ascending to the top of the house, was introduced,
 without a word of preparation from his conductor, into Florence’s new
 retreat.
 
@@ -33753,12 +33753,12 @@ with pity. [[characters/captain-cuttle|Captain Cuttle]], in his different way, t
 Toots too; and so did Walter; and when the evening came, and they were
 all sitting together in Florence’s new room, Walter praised him in a
 most impassioned manner, and told Florence what he had said on leaving
-the [[house]], with every graceful setting-off in the way of comment and
+the house, with every graceful setting-off in the way of comment and
 appreciation that his own honesty and sympathy could surround it with.
 
 Mr Toots did not return upon the next day, or the next, or for several
 days; and in the meanwhile Florence, without any new alarm, lived like
-a quiet bird in a cage, at the top of the old Instrument-maker’s [[house]].
+a quiet bird in a cage, at the top of the old Instrument-maker’s house.
 But Florence drooped and hung her head more and more plainly, as the
 days went on; and the expression that had been seen in the face of the
 dead [[archetypes/child|child]], was often turned to the sky from her high [[motifs/window|window]], as if it
@@ -33943,7 +33943,7 @@ name from my distant place, with no inward assurance that I wronged
 your spotless [[concepts/truth|truth]] by doing so. But here—and now!”
 
 “Oh thank you, thank you, Walter! Forgive my having wronged you so
-much. I had no one to advise me. I am quite [[Alone|alone]].”
+much. I had no one to advise me. I am quite alone.”
 
 
 
@@ -34075,7 +34075,7 @@ Mr Dombey and the World
 
 What is the proud man doing, while the days go by? Does he ever think
 of his daughter, or [[concepts/wonder|wonder]] where she is gone? Does he suppose she has
-come [[motifs/home|home]], and is leading her old life in the weary [[house]]? No one can
+come [[motifs/home|home]], and is leading her old life in the weary house? No one can
 answer for him. He has never uttered her name, since. His household
 dread him too much to approach a subject on which he is resolutely
 dumb; and the only person who dares question him, he silences
@@ -34142,11 +34142,11 @@ sees in him, and what it says—this is the haunting demon of his mind.
 It is everywhere where he is; and, worse than that, it is everywhere
 where he is not. It comes out with him among his servants, and yet he
 [[motifs/leaves|leaves]] it whispering behind; he sees it pointing after him in the
-street; it is waiting for him in his counting-[[house]]; it leers over the
+street; it is waiting for him in his counting-house; it leers over the
 shoulders of rich men among the merchants; it goes beckoning and
 babbling among the crowd; it always anticipates him, in every place;
 and is always busiest, he knows, when he has gone away. When he is shut
-up in his room at [[motifs/night|night]], it is in his [[house]], outside it, audible in
+up in his room at [[motifs/night|night]], it is in his house, outside it, audible in
 footsteps on the pavement, visible in print upon the table, steaming to
 and fro on railroads and in ships; restless and busy everywhere, with
 nothing else but him.
@@ -34373,18 +34373,18 @@ another system, and knows it quite [[motifs/well|well]], and comes, and cries, a
 away, and is satisfied. Verily Miss Tox is easier of satisfaction than
 the world that troubles Mr Dombey so much!
 
-At the Counting [[house|House]], the clerks discuss the great disaster in all its
+At the Counting House, the clerks discuss the great disaster in all its
 lights and shades, but chiefly [[concepts/wonder|wonder]] who will get Mr Carker’s place.
 They are generally of opinion that it will be shorn of some of its
 emoluments, and made uncomfortable by newly-devised checks and
 restrictions; and those who are beyond all [[concepts/hope|hope]] of it are quite sure
 they would rather not have it, and don’t at all envy the person for
 whom it may prove to be reserved. Nothing like the prevailing sensation
-has existed in the Counting [[house|House]] since Mr Dombey’s little son died;
+has existed in the Counting House since Mr Dombey’s little son died;
 but all such excitements there take a social, not to say a jovial turn,
 and lead to the cultivation of good fellowship. A [[concepts/reconciliation|reconciliation]] is
 established on this propitious occasion between the acknowledged wit of
-the Counting [[house|House]] and an aspiring rival, with whom he has been at
+the Counting House and an aspiring rival, with whom he has been at
 deadly feud for months; and a little dinner being proposed, in
 commemoration of their happily restored amity, takes place at a
 neighbouring tavern; the wit in the chair; the rival acting as
@@ -34398,7 +34398,7 @@ company names it in an audible murmur), have caused him to reflect; and
 he feels that for him and Robinson to have any personal differences at
 such a moment, would be for ever to deny that good feeling in the
 general cause, for which he has reason to think and [[concepts/hope|hope]] that the
-gentlemen in Dombey’s [[house|House]] have always been distinguished. Robinson
+gentlemen in Dombey’s House have always been distinguished. Robinson
 replies to this like a man and a brother; and one gentleman who has
 been in the office three years, under continual notice to quit on
 account of lapses in his arithmetic, appears in a perfectly new light,
@@ -34434,7 +34434,7 @@ Mr Dombey’s servants are becoming, at the same [[motifs/time|time]], quite dis
 and unfit for other service. They have hot suppers every [[motifs/night|night]], and
 “talk it over” with smoking drinks upon the board. Mr Towlinson is
 always maudlin after half-past ten, and frequently begs to know whether
-he didn’t say that no good would ever come of living in a corner [[house]]?
+he didn’t say that no good would ever come of living in a corner house?
 They whisper about Miss Florence, and [[concepts/wonder|wonder]] where she is; but agree
 that if Mr Dombey don’t know, Mrs Dombey does. This brings them to the
 latter, of whom Cook says, She had a stately way though, hadn’t she?
@@ -34444,7 +34444,7 @@ that you will never talk to her any more about people who hold their
 heads up, as if the ground wasn’t good enough for ’em.
 
 Everything that is said and done about it, except by Mr Dombey, is done
-in [[characters/chorus|chorus]]. Mr Dombey and the world are [[Alone|alone]] together.
+in [[characters/chorus|chorus]]. Mr Dombey and the world are alone together.
 
 
 
@@ -34467,7 +34467,7 @@ The mother and daughter sat for a long [[motifs/time|time]] without interchangin
 word: almost without motion. The old woman’s face was shrewdly anxious
 and expectant; that of her daughter was expectant too, but in a less
 sharp degree, and sometimes it darkened, as if with gathering
-disappointment and [[Incredulity|incredulity]]. The old woman, without heeding these
+disappointment and incredulity. The old woman, without heeding these
 changes in its expression, though her eyes were often turned towards
 it, sat mumbling and munching, and listening confidently.
 
@@ -34551,7 +34551,7 @@ about him, “when I have exerted my power and means to obtain it in
 vain? I do not think,” he said, after a moment’s pause, during which he
 had observed her, sternly, “that you are so audacious as to mean to
 trifle with me, or endeavour to impose upon me. But if you have that
-purpose, you had better stop on the threshold of your scheme. My [[Humour|humour]]
+purpose, you had better stop on the threshold of your scheme. My humour
 is not a trifling one, and my acknowledgment will be severe.”
 
 “Oh a proud, hard gentleman!” chuckled the old woman, shaking her head,
@@ -34578,7 +34578,7 @@ judge,” she returned. “Do you know nothing of a woman’s anger?”
 
 “Not usually,” she answered, without any show of emotion: “I speak to
 you now, that you may understand us better, and rely more on us. A
-woman’s anger is pretty much the same here, as in your fine [[house]]. I am
+woman’s anger is pretty much the same here, as in your fine house. I am
 angry. I have been so, many years. I have as good cause for my anger as
 you have for yours, and its object is the same man.”
 
@@ -34942,7 +34942,7 @@ in pay, Misses Brown.”
 “And nothing to do, Rob?”
 
 “Nothing particular to do just now, Misses Brown, but to—keep my eyes
-open,” said the Grinder, [[rolling]] them in a forlorn way.
+open,” said the Grinder, rolling them in a forlorn way.
 
 “Master abroad, Rob?”
 
@@ -35060,7 +35060,7 @@ I don’t know what he did, nor where he went, nor anything about him I
 only know what he said to me as a caution to hold my tongue, when we
 parted; and I tell you this, Misses Brown, as a friend, that sooner
 than ever repeat a word of what we’re saying now, you had better take
-and shoot yourself, or shut yourself up in this [[house]], and set it
+and shoot yourself, or shut yourself up in this house, and set it
 a-[[motifs/fire|fire]], for there’s nothing he wouldn’t do, to be revenged upon you.
 You don’t know him half as [[motifs/well|well]] as I do, Misses Brown. You’re never
 safe from him, I tell you.”
@@ -35119,7 +35119,7 @@ more made her signal with a shaking hand.
 “Now I tell you beforehand what it is, Misses Brown,” said Rob, “it’s
 no use asking me anything else. I won’t answer anything else; I can’t.
 How long it was to be before they met, or whose plan it was that they
-was to go away [[Alone|alone]], I don’t know no more than you do. I don’t know
+was to go away alone, I don’t know no more than you do. I don’t know
 any more about it. If I was to tell you how I found out this word,
 you’d believe that. Shall I tell you, Misses Brown?”
 
@@ -35187,7 +35187,7 @@ concealed, and beckon him to come through the room, and pass out. Even
 then, she hovered over Rob, ready to blind him with her hands, or
 strike his head down, if he should raise it while the secret step was
 crossing to the door. But though her glance took sharp cognizance of
-[[The Sleeper|the sleeper]], it was sharp too for the waking man; and when he touched
+the sleeper, it was sharp too for the waking man; and when he touched
 her hand with his, and in spite of all his caution, made a chinking,
 golden sound, it was as bright and greedy as a raven’s.
 
@@ -35266,7 +35266,7 @@ reproachful touch as he could hardly bear. No idea of retort upon his
 cruel brother came into his mind. New accusation of himself, fresh
 inward lamentings over his own unworthiness, and the ruin in which it
 was at once his consolation and his [[concepts/self|self]]-reproach that he did not stand
-[[Alone|alone]], were the sole kind of reflections to which the discovery gave
+alone, were the sole kind of reflections to which the discovery gave
 rise in him.
 
 It was on the very same day whose evening set upon the last chapter,
@@ -35287,7 +35287,7 @@ do assure you, five distinct times.”
 “Is your wife so ill?” asked Harriet.
 
 “Why, you see,” said Mr Perch, first turning round to shut the door
-carefully, “she takes what has happened in our [[house|House]] so much to heart,
+carefully, “she takes what has happened in our House so much to heart,
 Miss. Her nerves is so very delicate, you see, and soon unstrung. Not
 but what the strongest nerves had good need to be shook, I’m sure. You
 feel it very much yourself, no doubts.”
@@ -35331,9 +35331,9 @@ and comprehensively addressing both the brother and sister in a whisper
 of increased mystery, “is more eager for news of it than you’d suppose
 possible. One of the [[characters/sunday|Sunday]] ones, in a blue cloak and a white hat, that
 had previously offered for to bribe me—need I say with what
-[[success]]?—was dodging about our [[settings/court|court]] last [[motifs/night|night]] as late as twenty
+success?—was dodging about our [[settings/court|court]] last [[motifs/night|night]] as late as twenty
 minutes after eight o’[[motifs/clock|clock]]. I see him myself, with his eye at the
-counting-[[house]] keyhole, which being patent is impervious. Another one,”
+counting-house keyhole, which being patent is impervious. Another one,”
 said Mr Perch, “with military frogs, is in the parlour of the [[archetypes/king|King]]’s
 Arms all the blessed day. I happened, last week, to let a little
 obserwation fall there, and next morning, which was [[characters/sunday|Sunday]], I see it
@@ -35354,7 +35354,7 @@ said, “Oh! dear dear Perch, the sight of you is all the comfort I have
 left!” and how Mr John Carker had said, in an awful voice, “Perch, I
 disown him. Never let me hear him mentioned as a brother more!”
 
-“Dear John,” said Harriet, when they were left [[Alone|alone]], and had remained
+“Dear John,” said Harriet, when they were left alone, and had remained
 silent for some few moments. “There are bad tidings in that letter.”
 
 “Yes. But nothing unexpected,” he replied. “I saw the writer
@@ -35362,7 +35362,7 @@ yesterday.”
 
 “The writer?”
 
-“Mr Dombey. He passed twice through the Counting [[house|House]] while I was
+“Mr Dombey. He passed twice through the Counting House while I was
 there. I had been able to avoid him before, but of course could not
 [[concepts/hope|hope]] to do that long. I know how natural it was that he should regard
 my presence as something offensive; I felt it must be so, myself.”
@@ -35512,7 +35512,7 @@ together.
 
 “Harriet,” said her brother, lighting in their late visitor, and
 speaking in a low voice, “Mr Morfin—the gentleman so long in Dombey’s
-[[house|House]] with James.”
+House with James.”
 
 His sister started back, as if a [[archetypes/ghost|ghost]] had entered. In the doorway
 stood the unknown friend, with the dark hair sprinkled with grey, the
@@ -35553,7 +35553,7 @@ indifference —that hardens us from day to day, according to the temper
 of our clay, like images, and [[motifs/leaves|leaves]] us as susceptible as images to new
 impressions and convictions. You shall judge of its influence on me,
 John. For more years than I need name, I had my small, and exactly
-defined share, in the management of Dombey’s [[house|House]], and saw your
+defined share, in the management of Dombey’s House, and saw your
 brother (who has proved himself a scoundrel! Your sister will forgive
 my being obliged to mention it) extending and extending his influence,
 until the business and its owner were his football; and saw you toiling
@@ -35567,7 +35567,7 @@ and there was nothing wrong in my world—or if anything not much—or
 little or much, it was no affair of mine.”
 
 “I can answer for your being more respected and beloved during all that
-[[motifs/time|time]] than anybody in the [[house|House]], Sir,” said John Carker.
+[[motifs/time|time]] than anybody in the House, Sir,” said John Carker.
 
 “Pooh! Good-natured and easy enough, I daresay,” returned the other, “a
 habit I had. It suited the Manager; it suited the man he managed: it
@@ -35592,7 +35592,7 @@ I overheard some of it before I left the room. You remember it
 sufficiently, perhaps, to tell your sister what its [[concepts/nature|nature]] was?”
 
 “It referred, Harriet,” said her brother in a low voice, “to the past,
-and to our relative positions in the [[house|House]].”
+and to our relative positions in the House.”
 
 
 
@@ -35634,7 +35634,7 @@ you every day, Sir! If Harriet could have guessed your name—”
 
 “Why, to tell you the [[concepts/truth|truth]], John,” interposed the visitor, “I kept it
 to myself for two reasons. I don’t know that the first might have been
-binding [[Alone|alone]]; but one has no business to take credit for good
+binding alone; but one has no business to take credit for good
 intentions, and I made up my mind, at all events, not to disclose
 myself until I should be able to do you some real service or other. My
 second reason was, that I always hoped there might be some lingering
@@ -35644,7 +35644,7 @@ suspicious, watchful character, discovering that you had been secretly
 befriended by me, there was the chance of a new and fatal cause of
 division. I resolved, to be sure, at the risk of turning his
 displeasure against myself—which would have been no matter—to watch my
-opportunity of serving you with the head of the [[house|House]]; but the
+opportunity of serving you with the head of the House; but the
 distractions of [[motifs/death|death]], courtship, [[motifs/marriage|marriage]], and domestic unhappiness,
 have left us no head but your brother for this long, long [[motifs/time|time]]. And it
 would have been better for us,” said the visitor, dropping his voice,
@@ -35667,7 +35667,7 @@ With these words he [[motifs/rose|rose]] to go.
 “But go you first, John,” he said goodhumouredly, “with a light,
 without saying what you want to say, whatever that may be;” John
 Carker’s heart was full, and he would have relieved it in speech, if he
-could; “and let me have a word with your sister. We have talked [[Alone|alone]]
+could; “and let me have a word with your sister. We have talked alone
 before, and in this room too; though it looks more natural with you
 here.”
 
@@ -35691,17 +35691,17 @@ Is it that?”
 
 “That he has abused his trust in many ways,” said Mr Morfin; “that he
 has oftener dealt and speculated to advantage for himself, than for the
-[[house|House]] he represented; that he has led the [[house|House]] on, to prodigious
+House he represented; that he has led the House on, to prodigious
 ventures, often resulting in enormous losses; that he has always
 pampered the [[concepts/vanity|vanity]] and [[concepts/ambition|ambition]] of his employer, when it was his duty
 to have held them in check, and shown, as it was in his power to do, to
 what they tended here or there; will not, perhaps, surprise you now.
-Undertakings have been entered on, to swell the reputation of the [[house|House]]
+Undertakings have been entered on, to swell the reputation of the House
 for vast resources, and to exhibit it in magnificent contrast to other
 merchants’ Houses, of which it requires a steady head to contemplate
 the possibly—a few disastrous changes of affairs might render them the
 probably—ruinous consequences. In the midst of the many transactions of
-the [[house|House]], in most parts of the world: a great labyrinth of which only
+the House, in most parts of the world: a great labyrinth of which only
 he has held the clue: he has had the opportunity, and he seems to have
 used it, of keeping the various results afloat, when ascertained, and
 substituting estimates and generalities for facts. But latterly—you
@@ -35723,7 +35723,7 @@ extraordinary ease. As if he had resolved to show his employer at one
 broad view what has been brought upon him by ministration to his ruling
 passion! That it has been his constant practice to minister to that
 passion basely, and to flatter it corruptly, is indubitable. In that,
-his criminality, as it is connected with the affairs of the [[house|House]],
+his criminality, as it is connected with the affairs of the House,
 chiefly consists.”
 
 “One other word before you leave me, dear Sir,” said Harriet. “There is
@@ -35731,16 +35731,16 @@ no danger in all this?”
 
 “How danger?” he returned, with a little hesitation.
 
-“To the credit of the [[house|House]]?”
+“To the credit of the House?”
 
 “I cannot help answering you plainly, and trusting you completely,”
 said Mr Morfin, after a moment’s survey of her face.
 
 “You may. Indeed you may!”
 
-“I am sure I may. Danger to the [[house|House]]’s credit? No; none There may be
+“I am sure I may. Danger to the House’s credit? No; none There may be
 difficulty, greater or less difficulty, but no danger, unless—unless,
-indeed—the head of the [[house|House]], unable to bring his mind to the reduction
+indeed—the head of the House, unable to bring his mind to the reduction
 of its enterprises, and positively refusing to believe that it is, or
 can be, in any position but the position in which he has always
 represented it to himself, should urge it beyond its strength. Then it
@@ -35769,7 +35769,7 @@ solitary coast, to whom a [[motifs/ship|ship]] had come at last, when they were 
 [[concepts/resignation|resignation]], and had lost all thought of any other [[motifs/home|home]]. But another
 and different kind of disquietude kept them waking too. The darkness
 out of which this light had broken on them gathered around; and the
-[[archetypes/shadow|shadow]] of their guilty brother was in the [[house]] where his foot had
+[[archetypes/shadow|shadow]] of their guilty brother was in the house where his foot had
 never trod.
 
 Nor was it to be driven out, nor did it fade before the sun. Next
@@ -35777,8 +35777,8 @@ morning it was there; at [[motifs/noon|noon]]; at [[motifs/night|night]] Darkest
 [[motifs/night|night]], as is now to be told.
 
 John Carker had gone out, in pursuance of a letter of appointment from
-their friend, and Harriet was left in the [[house]] [[Alone|alone]]. She had been
-[[Alone|alone]] some hours. A dull, [[motifs/grave|grave]] evening, and a deepening twilight, were
+their friend, and Harriet was left in the house alone. She had been
+alone some hours. A dull, [[motifs/grave|grave]] evening, and a deepening twilight, were
 not favourable to the removal of the oppression on her spirits. The
 idea of this brother, long unseen and unknown, flitted about her in
 frightful shapes. He was dead, dying, calling to her, staring at her,
@@ -36034,7 +36034,7 @@ the hall, where a lamp was feebly burning, through the dark perspective
 of open doors, it looked as shining and precious as a gem. In the heart
 of its radiance sat a beautiful woman—Edith.
 
-She was [[Alone|alone]]. The same defiant, scornful woman still. The cheek a
+She was alone. The same defiant, scornful woman still. The cheek a
 little worn, the eye a little larger in appearance, and more lustrous,
 but the haughty bearing just the same. No shame upon her brow; no late
 repentance bending her disdainful neck. Imperious and stately yet, and
@@ -36132,7 +36132,7 @@ Monsieur was of another opinion. He required no further attendance that
 
 “A million pardons! No! Madame had no maid!”
 
-“I came here [[Alone|alone]],” said Edith “It was my choice to do so. I am [[motifs/well|well]]
+“I came here alone,” said Edith “It was my choice to do so. I am [[motifs/well|well]]
 used to travelling; I want no attendance. They need send nobody to me.
 
 Monsieur accordingly, persevering in his first proposed impossibility,
@@ -36161,7 +36161,7 @@ attitude so repellent; and her frown so black; that he stood, with the
 lamp in his hand, looking at her, as if she had struck him motionless.
 
 “I say,” he at length repeated, putting down the lamp, and smiling his
-most courtly smile, “how strange to come here [[Alone|alone]]! It was unnecessary
+most courtly smile, “how strange to come here alone! It was unnecessary
 caution surely, and might have defeated itself. You were to have
 engaged an attendant at Havre or Rouen, and have had abundance of [[motifs/time|time]]
 for the purpose, though you had been the most capricious and difficult
@@ -36200,18 +36200,18 @@ sparkling in her eyes and lighting up her brow, made him stop as if a
 They both stood looking at each other. Rage and astonishment were in
 his face, but he controlled them, and said lightly,
 
-“Come, come! Tush, we are [[Alone|alone]], and out of everybody’s sight and
+“Come, come! Tush, we are alone, and out of everybody’s sight and
 hearing. Do you think to frighten me with these tricks of virtue?”
 
 “Do you think to frighten me,” she answered fiercely, “from any purpose
 that I have, and any course I am resolved upon, by reminding me of the
 [[concepts/solitude|solitude]] of this place, and there being no help near? Me, who am here
-[[Alone|alone]], designedly? If I feared you, should I not have avoided you? If I
+alone, designedly? If I feared you, should I not have avoided you? If I
 feared you, should I be here, in the dead of [[motifs/night|night]], telling you to your
 face what I am going to tell?”
 
 “And what is that,” he said, “you handsome shrew? Handsomer so, than
-any other woman in her best [[Humour|humour]]?”
+any other woman in her best humour?”
 
 “I tell you nothing,” she returned, until you go back to that
 chair—except this, once again—Don’t come near me! Not a step nearer. I
@@ -36280,7 +36280,7 @@ me, but it has been paraded and vended to enhance my value, as if the
 common crier had called it through the streets. My poor, proud friends,
 have looked on and approved; and every tie between us has been deadened
 in my breast. There is not one of them for whom I care, as I could care
-for a pet dog. I stand [[Alone|alone]] in the world, remembering [[motifs/well|well]] what a
+for a pet dog. I stand alone in the world, remembering [[motifs/well|well]] what a
 hollow world it has been to me, and what a hollow part of it I have
 been myself. You know this, and you know that my fame with it is
 worthless to me.”
@@ -36337,7 +36337,7 @@ recall it.”
 “I can,” she said. “Hear it! Proposing then, this flight—not this
 flight, but the flight you thought it—you told me that in the having
 given you that meeting, and leaving you to be discovered there, if you
-so thought fit; and in the having suffered you to be [[Alone|alone]] with me many
+so thought fit; and in the having suffered you to be alone with me many
 times before,—and having made the opportunities, you said,—and in the
 having openly avowed to you that I had no feeling for my husband but
 aversion, and no care for myself—I was lost; I had given you the power
@@ -36397,7 +36397,7 @@ with this! What devil possesses you?”
 
 “Their name is Legion,” she replied, uprearing her proud form as if she
 would have crushed him; “you and your master have raised them in a
-fruitful [[house]], and they shall tear you both. False to him, false to
+fruitful house, and they shall tear you both. False to him, false to
 his [[archetypes/innocent|innocent]] [[archetypes/child|child]], false every way and everywhere, go forth and boast
 of me, and gnash your teeth, for once, to know that you are lying!”
 
@@ -36436,7 +36436,7 @@ unexpected course. Sit down, sit down!”
 thrown my fame and good name to the winds! I have resolved to bear the
 shame that will attach to me—resolved to know that it attaches
 falsely—that you know it too—and that he does not, never can, and never
-shall. I’ll die, and make no sign. For this, I am here [[Alone|alone]] with you,
+shall. I’ll die, and make no sign. For this, I am here alone with you,
 at the dead of [[motifs/night|night]]. For this, I have met you here, in a false name,
 as your wife. For this, I have been seen here by those men, and left
 here. Nothing can save you now.”
@@ -36536,7 +36536,7 @@ Rob the Grinder loses his Place
 
 
 The Porter at the iron gate which shut the [[settings/court|court]]-yard from the street,
-had left the little wicket of his [[house]] open, and was gone away; no
+had left the little wicket of his house open, and was gone away; no
 [[concepts/doubt|doubt]] to mingle in the distant noise at the door of the great
 staircase. Lifting the latch softly, Carker crept out, and shutting the
 jangling gate after him with as little noise as possible, hurried off.
@@ -36570,7 +36570,7 @@ the [[motifs/stars|stars]], so full of peace, were shining on him as they had be
 he first stole out into the air; and stopped to think what he should
 do. The dread of being hunted in a strange remote place, where the laws
 might not protect him—the novelty of the feeling that it was strange
-and remote, originating in his being left [[Alone|alone]] so suddenly amid the
+and remote, originating in his being left alone so suddenly amid the
 ruins of his plans—his greater dread of seeking refuge now, in [[settings/italy|Italy]] or
 in Sicily, where men might be hired to assassinate him, he thought, at
 any dark street corner—the waywardness of [[concepts/guilt|guilt]] and [[concepts/fear|fear]]—perhaps some
@@ -36580,7 +36580,7 @@ him to turn back too, and go to England.
 “I am safer there, in any case. If I should not decide,” he thought,
 “to give this [[archetypes/fool|fool]] a meeting, I am less likely to be traced there, than
 abroad here, now. And if I should (this cursed fit being over), at
-least I shall not be [[Alone|alone]], without a [[motifs/soul|soul]] to speak to, or advise with,
+least I shall not be alone, without a [[motifs/soul|soul]] to speak to, or advise with,
 or stand by me. I shall not be run in upon and worried like a rat.”
 
 He muttered Edith’s name, and clenched his hand. As he crept along, in
@@ -36588,7 +36588,7 @@ the [[archetypes/shadow|shadow]] of the massive buildings, he set his teeth, and
 dreadful imprecations on her head, and looked from side to side, as if
 in search of her. Thus, he stole on to the gate of an inn-yard. The
 people were a-bed; but his ringing at the bell soon produced a man with
-a lantern, in company with whom he was presently in a dim coach-[[house]],
+a lantern, in company with whom he was presently in a dim coach-house,
 bargaining for the hire of an old phaeton, to [[settings/paris|Paris]].
 
 The bargain was a short one; and the horses were soon sent for. Leaving
@@ -36624,7 +36624,7 @@ eyes, checked his four struggling horses at his side.
 “Monsieur has walked a long way in the dark midnight.”
 
 “No matter. Everyone to his task. Were there any other horses ordered
-at the Post-[[house]]?”
+at the Post-house?”
 
 “A thousand devils!—and pardons! other horses? at this hour? No.”
 
@@ -36658,7 +36658,7 @@ shadowy driver, and the fluttering of his cloak, made a thousand
 indistinct shapes, answering to his thoughts. Shadows of familiar
 people, stooping at their desks and books, in their remembered
 attitudes; strange apparitions of the man whom he was flying from, or
-of Edith; repetitions in the ringing [[motifs/bells|bells]] and [[rolling]] wheels, of words
+of Edith; repetitions in the ringing [[motifs/bells|bells]] and rolling wheels, of words
 that had been spoken; confusions of [[motifs/time|time]] and place, making last [[motifs/night|night]] a
 month ago, a month ago last [[motifs/night|night]]—[[motifs/home|home]] now distant beyond [[concepts/hope|hope]], now
 instantly accessible; commotion, discord, hurry, darkness, and
@@ -36669,7 +36669,7 @@ away in a frantic triumph on the dark [[motifs/road|road]]—whither?
 
 [Illustration]
 
-Again the nameless shock comes speeding up, and as it passes, [[The Bells|the bells]]
+Again the nameless shock comes speeding up, and as it passes, the bells
 ring in his ears “whither?” The wheels roar in his ears “whither?” All
 the noise and rattle shapes itself into that cry. The lights and
 shadows [[motifs/dance|dance]] upon the horses’ heads like imps. No stopping now: no
@@ -36769,7 +36769,7 @@ apprehension of being overtaken, or met—for he was groundlessly afraid
 even of travellers, who came towards him by the way he was
 going—oppressed him heavily. The same intolerable awe and dread that
 had come upon him in the [[motifs/night|night]], returned unweakened in the day. The
-monotonous ringing of [[The Bells|the bells]] and tramping of the horses; the
+monotonous ringing of the bells and tramping of the horses; the
 monotony of his anxiety, and useless rage; the monotonous [[motifs/wheel|wheel]] of
 [[concepts/fear|fear]], regret, and passion, he kept turning round and round; made the
 [[motifs/journey|journey]] like a vision, in which nothing was quite real but his own
@@ -36796,7 +36796,7 @@ dragging themselves out, up [[motifs/hill|hill]] and down, to the treacherous ho
 
 Of morning, [[motifs/noon|noon]], and sunset; [[motifs/night|night]], and the rising of an early [[motifs/moon|moon]].
 Of long roads temporarily left behind, and a rough pavement reached; of
-battering and clattering over it, and looking up, among [[house]]-roofs, at
+battering and clattering over it, and looking up, among house-roofs, at
 a great church-tower; of getting out and eating hastily, and drinking
 draughts of wine that had no cheering influence; of coming forth afoot,
 among a host of beggars—blind men with quivering eyelids, led by old
@@ -36836,7 +36836,7 @@ towns and villages, less thinly scattered on the [[motifs/road|road]] than forme
 and sitting shrouded in his corner, with his cloak up to his face, as
 people passing by looked at him.
 
-Of [[rolling]] on and on, always postponing thought, and always racked with
+Of rolling on and on, always postponing thought, and always racked with
 thinking; of being unable to reckon up the hours he had been upon the
 [[motifs/road|road]], or to comprehend the points of [[motifs/time|time]] and place in his [[motifs/journey|journey]]. Of
 being parched and giddy, and half mad. Of pressing on, in spite of all,
@@ -36894,7 +36894,7 @@ could, and lying there wrapped in his cloak as if he were asleep, was
 soon borne far away from the sea, and deep into the inland green.
 Arrived at his destination he looked out, and surveyed it carefully. He
 was not mistaken in his impression of the place. It was a retired spot,
-on the borders of a little wood. Only one [[house]], newly-built or altered
+on the borders of a little wood. Only one house, newly-built or altered
 for the purpose, stood there, surrounded by its neat [[motifs/garden|garden]]; the small
 town that was nearest, was some miles away. Here he alighted then; and
 going straight into the tavern, unobserved by anyone, secured two rooms
@@ -36926,7 +36926,7 @@ for his dinner.
 
 “Is it Wednesday?”
 
-“Wednesday, Sir? No, Sir. [[thursday|Thursday]], Sir.”
+“Wednesday, Sir? No, Sir. Thursday, Sir.”
 
 “I forgot. How goes the [[motifs/time|time]]? My watch is unwound.”
 
@@ -36964,7 +36964,7 @@ How long he sat, drinking and brooding, and being dragged in
 than he. But he knew that he had been sitting a long [[motifs/time|time]] by
 candle-light, when he started up and listened, in a sudden terror.
 
-For now, indeed, it was no fancy. The ground shook, the [[house]] rattled,
+For now, indeed, it was no fancy. The ground shook, the house rattled,
 the fierce impetuous rush was in the air! He felt it come up, and go
 darting by; and even when he had hurried to the [[motifs/window|window]], and saw what it
 was, he stood, shrinking from it, as if it were not safe to look.
@@ -37076,7 +37076,7 @@ He needed some such touch then. [[motifs/death|Death]] was on him. He was marked
 living world, and going down into his [[motifs/grave|grave]].
 
 He paid the money for his [[motifs/journey|journey]] to the country-place he had thought
-of; and was walking to and fro, [[Alone|alone]], looking along the lines of iron,
+of; and was walking to and fro, alone, looking along the lines of iron,
 across the valley in one direction, and towards a dark bridge near at
 hand in the other; when, turning in his walk, where it was bounded by
 one end of the wooden stage on which he paced up and down, he saw the
@@ -37099,7 +37099,7 @@ with its fiery heat, and cast his mutilated fragments in the air.
 When the traveller, who had been recognised, recovered from a swoon, he
 saw them bringing from a distance something covered, that lay heavy and
 still, upon a board, between four men, and saw that others drove some
-[[dogs]] away that sniffed upon the [[motifs/road|road]], and soaked his [[motifs/blood|blood]] up, with a
+dogs away that sniffed upon the [[motifs/road|road]], and soaked his [[motifs/blood|blood]] up, with a
 train of ashes.
 
 
@@ -37120,7 +37120,7 @@ Toots and the Chicken had gone into the Parlour.
 into Florence’s room, “to think that it should come to this and I
 should find you here my own dear dove with nobody to wait upon you and
 no [[motifs/home|home]] to call your own but never never will I go away again Miss Floy
-for though I may not gather moss I’m not a [[rolling]] stone nor is my
+for though I may not gather moss I’m not a rolling stone nor is my
 heart a stone or else it wouldn’t bust as it is busting now oh dear oh
 dear!”
 
@@ -37215,7 +37215,7 @@ again, Florence thanked him again.
 “I could wish,” said Mr Toots, “to take this opportunity, Miss Dombey,
 if I might, of entering into a word of explanation. I should have had
 the pleasure of—of returning with Susan at an earlier period; but, in
-the first place, we didn’t know the name of the relation to whose [[house]]
+the first place, we didn’t know the name of the relation to whose house
 she had gone, and, in the second, as she had left that relation’s and
 gone to another at a distance, I think that scarcely anything short of
 the sagacity of the Chicken, would have found her out in the [[motifs/time|time]].”
@@ -37255,7 +37255,7 @@ be honoured with your confidence.”
 
 
 “Mr Toots,” returned Florence, “if you, who are so old and true a
-friend of mine, were to stay away from this [[house]] now, you would make
+friend of mine, were to stay away from this house now, you would make
 me very unhappy. It can never, never, give me any feeling but pleasure
 to see you.
 
@@ -37297,7 +37297,7 @@ Captain’s meaning. “Miss Dombey, I believe, Captain Gills, is to be
 shortly united to Lieutenant Walters?”
 
 “Why, ay, my lad. We’re all shipmets here,—Wal”r and sweet—heart will
-be jined together in the [[house]] of bondage, as soon as the askings is
+be jined together in the house of bondage, as soon as the askings is
 over,” whispered [[characters/captain-cuttle|Captain Cuttle]], in his ear.
 
 “The askings, Captain Gills!” repeated Mr Toots.
@@ -37390,7 +37390,7 @@ their minds.”
 With this apposite illustration, of which he seemed a little Proud, Mr
 Toots gave [[characters/captain-cuttle|Captain Cuttle]] his blessing and departed.
 
-The honest Captain, with his Heart’s Delight in the [[house]], and Susan
+The honest Captain, with his Heart’s Delight in the house, and Susan
 tending her, was a beaming and a happy man. As the days flew by, he
 grew more beaming and more happy, every day. After some conferences
 with Susan (for whose wisdom the Captain had a profound respect, and
@@ -37439,7 +37439,7 @@ learn, now, both to help myself, and help him.”
 head violently, “it’s nothing new to you to help yourself and others
 too and be the patientest and truest of noble hearts, but let me talk
 to Mr [[characters/walter-gay|Walter Gay]] and settle it with him, for suffer you to go away
-across the world [[Alone|alone]] I cannot, and I won’t.”
+across the world alone I cannot, and I won’t.”
 
 “[[works/alone-(poe)|Alone]], Susan?” returned Florence. “[[works/alone-(poe)|Alone]]? and Walter taking me with
 him!” Ah, what a bright, amazed, enraptured smile was on her face!—He
@@ -37732,7 +37732,7 @@ gallery, was in a state of unmitigated consciousness which could hardly
 fail to express to the congregation that he had some mysterious
 connection with it. But the extreme restlessness of Mr Toots painfully
 increased and protracted the delicacy of her situation. That young
-gentleman, incapable, in his state of mind, of remaining [[Alone|alone]] in the
+gentleman, incapable, in his state of mind, of remaining alone in the
 churchyard, a prey to solitary meditation, and also desirous, no [[concepts/doubt|doubt]],
 of testifying his respect for the offices he had in some measure
 interrupted, suddenly returned—not coming back to the pew, but
@@ -37778,7 +37778,7 @@ miserable.
 Swiftly now, indeed, the [[motifs/time|time]] flew by until it was the evening before
 the day appointed for the [[motifs/marriage|marriage]]. They were all assembled in the
 upper room at the Midshipman’s, and had no [[concepts/fear|fear]] of interruption; for
-there were no lodgers in the [[house]] now, and the Midshipman had it all
+there were no lodgers in the house now, and the Midshipman had it all
 to himself. They were [[motifs/grave|grave]] and quiet in the prospect of to-morrow, but
 moderately cheerful too. Florence, with Walter close beside her, was
 finishing a little piece of work intended as a parting gift to the
@@ -38074,7 +38074,7 @@ satisfaction of Uncle Sol; and very sensible Mr Toots was of the
 delicacy with which Walter made his name and services important, and
 his presence necessary to their little council.
 
-“Mr Toots,” said Walter, on parting with him at the [[house]] door, “we
+“Mr Toots,” said Walter, on parting with him at the house door, “we
 shall see each other to-morrow morning?”
 
 “Lieutenant Walters,” returned Mr Toots, grasping his hand fervently,
@@ -38115,7 +38115,7 @@ Mr Toots was accompanied by the Chicken, whom he had of late brought
 with him every evening, and left in the shop, with an idea that
 unforeseen circumstances might arise from without, in which the prowess
 of that distinguished character would be of service to the Midshipman.
-The Chicken did not appear to be in a particularly good [[Humour|humour]] on this
+The Chicken did not appear to be in a particularly good humour on this
 occasion. Either the gas-lamps were treacherous, or he cocked his eye
 in a hideous manner, and likewise distorted his nose, when Mr Toots,
 crossing the [[motifs/road|road]], looked back over his shoulder at the room where
@@ -38474,12 +38474,12 @@ come back in the evening; and goes wandering about the town all day,
 with a vague sensation upon him as if he hadn’t been to bed for a
 fortnight.
 
-There is a strange charm in the [[house]], and in the room, in which they
+There is a strange charm in the house, and in the room, in which they
 have been used to be together, and out of which so much is gone. It
 aggravates, and yet it soothes, the sorrow of the separation. Mr Toots
 tells [[characters/susan-nipper|Susan Nipper]] when he comes at [[motifs/night|night]], that he hasn’t been so
 wretched all day long, and yet he likes it. He confides in Susan
-Nipper, being [[Alone|alone]] with her, and tells her what his feelings were when
+Nipper, being alone with her, and tells her what his feelings were when
 she gave him that candid opinion as to the probability of Miss Dombey’s
 ever loving him. In the vein of confidence engendered by these common
 recollections, and their [[motifs/tears|tears]], Mr Toots proposes that they shall go
@@ -38559,7 +38559,7 @@ its white wings to the favouring [[motifs/wind|wind]].
 Upon the deck, image to the roughest man on board of something that is
 graceful, beautiful, and harmless—something that it is good and
 pleasant to have there, and that should make the voyage prosperous—is
-Florence. It is [[motifs/night|night]], and she and Walter sit [[Alone|alone]], watching the
+Florence. It is [[motifs/night|night]], and she and Walter sit alone, watching the
 solemn path of light upon the sea between them and the [[motifs/moon|moon]].
 
 At length she cannot see it plainly, for the [[motifs/tears|tears]] that fill her eyes;
@@ -38594,7 +38594,7 @@ The sea had ebbed and flowed, through a whole year. Through a whole
 year, the winds and clouds had come and gone; the ceaseless work of
 [[motifs/time|Time]] had been performed, in [[motifs/storm|storm]] and sunshine. Through a whole year,
 the tides of human chance and change had set in their allotted courses.
-Through a whole year, the famous [[house|House]] of Dombey and Son had fought a
+Through a whole year, the famous House of Dombey and Son had fought a
 fight for life, against [[motifs/cross|cross]] accidents, doubtful rumours, unsuccessful
 ventures, unpropitious times, and most of all, against the infatuation
 of its head, who would not contract its enterprises by a hair’s
@@ -38637,7 +38637,7 @@ question, what would he take to drink? Then would Mr Perch descant upon
 the hours of acute uneasiness he and Mrs Perch had suffered out at
 Balls Pond, when they first suspected “things was going wrong.” Then
 would Mr Perch relate to gaping listeners, in a low voice, as if the
-corpse of the deceased [[house|House]] were lying unburied in the next room, how
+corpse of the deceased House were lying unburied in the next room, how
 Mrs Perch had first come to surmise that things was going wrong by
 hearing him (Perch) moaning in his [[motifs/sleep|sleep]], “twelve and ninepence in the
 pound, twelve and ninepence in the pound!” Which act of somnambulism he
@@ -38664,7 +38664,7 @@ stir the [[motifs/fire|fire]]; or to take an airing at the door, and have a litt
 doleful chat with any straggler whom he knew; or to propitiate, with
 various small attentions, the head accountant: from whom Mr Perch had
 expectations of a messengership in a [[motifs/fire|Fire]] Office, when the affairs of
-the [[house|House]] should be wound up.
+the House should be wound up.
 
 To [[characters/major-bagstock|Major Bagstock]], the bankruptcy was quite a calamity. The Major was
 not a sympathetic character—his attention being wholly concentrated on
@@ -38703,8 +38703,8 @@ Of all this, and many variations of the same tune, the Major would
 deliver himself with so many apoplectic symptoms, such rollings of his
 head, and such violent growls of ill usage and resentment, that the
 younger members of the club surmised he had invested money in his
-friend Dombey’s [[house|House]], and lost it; though the older soldiers and
-deeper [[dogs]], who knew Joe better, wouldn’t hear of such a thing. The
+friend Dombey’s House, and lost it; though the older soldiers and
+deeper dogs, who knew Joe better, wouldn’t hear of such a thing. The
 unfortunate Native, expressing no opinion, suffered dreadfully; not
 merely in his moral feelings, which were regularly fusilladed by the
 Major every hour in the day, and riddled through and through, but in
@@ -38720,7 +38720,7 @@ to dinner on the day of that first party, it never would have happened;
 and that she had said so, at the [[motifs/time|time]].
 
 Nobody’s opinion stayed the misfortune, lightened it, or made it
-heavier. It was understood that the affairs of the [[house|House]] were to be
+heavier. It was understood that the affairs of the House were to be
 wound up as they best could be; that Mr Dombey freely resigned
 everything he had, and asked for no favour from anyone. That any
 resumption of the business was out of the question, as he would listen
@@ -38735,20 +38735,20 @@ themselves, which was enlivened by comic singing, and went off
 admirably. Some took places abroad, and some engaged in other Houses at
 [[motifs/home|home]]; some looked up relations in the country, for whom they suddenly
 remembered they had a particular affection; and some advertised for
-employment in the newspapers. Mr Perch [[Alone|alone]] remained of all the late
+employment in the newspapers. Mr Perch alone remained of all the late
 establishment, sitting on his bracket looking at the accountants, or
 starting off it, to propitiate the head accountant, who was to get him
-into the [[motifs/fire|Fire]] Office. The Counting [[house|House]] soon got to be dirty and
-neglected. The principal slipper and [[dogs]]’ collar seller, at the corner
+into the [[motifs/fire|Fire]] Office. The Counting House soon got to be dirty and
+neglected. The principal slipper and dogs’ collar seller, at the corner
 of the [[settings/court|court]], would have doubted the propriety of throwing up his
 forefinger to the brim of his hat, any more, if Mr Dombey had appeared
 there now; and the ticket porter, with his hands under his white apron,
-moralised good sound [[morality]] about [[concepts/ambition|ambition]], which (he observed) was
+moralised good sound morality about [[concepts/ambition|ambition]], which (he observed) was
 not, in his opinion, made to rhyme to perdition, for nothing.
 
 Mr Morfin, the hazel-eyed bachelor, with the hair and whiskers
 sprinkled with grey, was perhaps the only person within the atmosphere
-of the [[house|House]]—its head, of course, excepted—who was heartily and deeply
+of the House—its head, of course, excepted—who was heartily and deeply
 affected by the disaster that had befallen it. He had treated Mr Dombey
 with due respect and deference through many years, but he had never
 disguised his natural character, or meanly truckled to him, or pampered
@@ -38756,7 +38756,7 @@ his master passion for the advancement of his own purposes. He had,
 therefore, no [[concepts/self|self]]-disrespect to avenge; no long-tightened springs to
 release with a quick recoil. He worked early and late to unravel
 whatever was complicated or difficult in the records of the
-transactions of the [[house|House]]; was always in attendance to explain whatever
+transactions of the House; was always in attendance to explain whatever
 required explanation; sat in his old room sometimes very late at [[motifs/night|night]],
 studying points by his mastery of which he could spare Mr Dombey the
 [[motifs/pain|pain]] of being personally referred to; and then would go [[motifs/home|home]] to
@@ -38788,7 +38788,7 @@ worth seeing in you. But I don’t believe that.”
 He had placed a chair for her by this [[motifs/time|time]], and sat down opposite; the
 violoncello lying snugly on the sofa between them.
 
-“You will not be surprised at my coming [[Alone|alone]], or at John’s not having
+“You will not be surprised at my coming alone, or at John’s not having
 told you I was coming,” said Harriet; “and you will believe that, when
 I tell you why I have come. May I do so now?”
 
@@ -38800,7 +38800,7 @@ He pointed to the violoncello lying on the sofa, and said “I have been,
 all day. Here’s my witness. I have been confiding all my cares to it. I
 wish I had none but my own to tell.”
 
-“Is the [[house|House]] at an end?” said Harriet, earnestly.
+“Is the House at an end?” said Harriet, earnestly.
 
 “Completely at an end.”
 
@@ -38814,7 +38814,7 @@ involuntary surprise: and said again:
 
 “Never. You remember what I told you. It has been, all along,
 impossible to convince him; impossible to reason with him; sometimes,
-impossible even to approach him. The worst has happened; and the [[house|House]]
+impossible even to approach him. The worst has happened; and the House
 has fallen, never to be built up any more.”
 
 
@@ -38843,7 +38843,7 @@ himself, by making terms which would have very slightly, almost
 insensibly, increased the losses of those who had had dealings with
 him, and left him a remnant to live upon. But he is resolved on payment
 to the last farthing of his means. His own words are, that they will
-clear, or nearly clear, the [[house|House]], and that no one can lose much. Ah,
+clear, or nearly clear, the House, and that no one can lose much. Ah,
 Miss Harriet, it would do us no harm to remember oftener than we do,
 that vices are sometimes only virtues carried to excess! His [[concepts/pride|pride]]
 shows [[motifs/well|well]] in this.”
@@ -38855,7 +38855,7 @@ mind. When he was silent, she asked him hurriedly:
 “Have you seen him lately?”
 
 “No one sees him. When this crisis of his affairs renders it necessary
-for him to come out of his [[house]], he comes out for the occasion, and
+for him to come out of his house, he comes out for the occasion, and
 again goes [[motifs/home|home]], and shuts himself up, and will see no one. He has
 written me a letter, acknowledging our past connexion in higher terms
 than it deserved, and parting from me. I am delicate of obtruding
@@ -38978,7 +38978,7 @@ She thanked him again, cordially, and wished him good-[[motifs/night|night]].
 
 “Are you going [[motifs/home|home]]?” he said. “Let me go with you.”
 
-“Not tonight. I am not going [[motifs/home|home]] now; I have a visit to make [[Alone|alone]].
+“Not tonight. I am not going [[motifs/home|home]] now; I have a visit to make alone.
 Will you come to-morrow?”
 
 “[[motifs/well|Well]], [[motifs/well|well]],” said he, “I’ll come to-morrow. In the meantime, I’ll
@@ -39008,7 +39008,7 @@ up on end in the sofa corner, big with the latent harmony of a whole
 foundry full of harmonious blacksmiths, seemed to ogle the empty chair
 out of its crooked eyes, with unutterable intelligence.
 
-When Harriet left the [[house]], the driver of her hired coach, taking a
+When Harriet left the house, the driver of her hired coach, taking a
 course that was evidently no new one to him, went in and out by
 bye-ways, through that part of the suburbs, until he arrived at some
 open ground, where there were a few quiet little old houses standing
@@ -39018,7 +39018,7 @@ Harriet alighted.
 Her gentle ringing at the bell was responded to by a dolorous-looking
 woman, of light complexion, with raised eyebrows, and head drooping on
 one side, who curtseyed at sight of her, and conducted her across the
-[[motifs/garden|garden]] to the [[house]].
+[[motifs/garden|garden]] to the house.
 
 “How is your patient, [[characters/nurse|nurse]], tonight?” said Harriet.
 
@@ -39255,8 +39255,8 @@ up with the belief that duty had not been done to me, and that as the
 seed was sown, the harvest grew. I somehow made it out that when ladies
 had bad homes and mothers, they went wrong in their way, too; but that
 their way was not so foul a one as mine, and they had need to bless God
-for it. That is all past. It is like [[A Dream|a dream]], now, which I cannot quite
-remember or understand. It has been more and more like [[A Dream|a dream]], every
+for it. That is all past. It is like a dream, now, which I cannot quite
+remember or understand. It has been more and more like a dream, every
 day, since you began to sit here, and to read to me. I only tell it
 you, as I can recollect it. Will you read to me a little more?”
 
@@ -39296,7 +39296,7 @@ They never turned away. She laid her hand upon her breast, murmuring
 the sacred name that had been read to her; and life passed from her
 face, like light removed.
 
-Nothing lay there, any longer, but the ruin of the mortal [[house]] on
+Nothing lay there, any longer, but the ruin of the mortal house on
 which the rain had beaten, and the black hair that had fluttered in the
 wintry [[motifs/wind|wind]].
 
@@ -39312,7 +39312,7 @@ Retribution
 
 Changes have come again upon the [[motifs/great-house|great house]] in the long dull street,
 once the scene of Florence’s [[motifs/childhood|childhood]] and [[concepts/loneliness|loneliness]]. It is a great
-[[house]] still, proof against [[motifs/wind|wind]] and weather, without breaches in the
+house still, proof against [[motifs/wind|wind]] and weather, without breaches in the
 roof, or shattered windows, or dilapidated walls; but it is a ruin none
 the less, and the rats fly from it.
 
@@ -39339,7 +39339,7 @@ sarcasm causes the housemaid to withdraw in [[motifs/tears|tears]].
 But not to remain long absent; for Cook, who has the reputation of
 being extremely good-hearted, says, whatever they do, let ’em stand by
 one another now, Towlinson, for there’s no telling how soon they may be
-divided. They have been in that [[house]] (says Cook) through a funeral, a
+divided. They have been in that house (says Cook) through a funeral, a
 wedding, and a running-away; and let it not be said that they couldn’t
 agree among themselves at such a [[motifs/time|time]] as the present. Mrs Perch is
 immensely affected by this moving address, and openly remarks that Cook
@@ -39395,7 +39395,7 @@ Mr Towlinson don’t know either; nor anybody; and the young
 kitchen-maid, appearing not to know exactly, herself, and scouted by
 the general voice, is covered with confusion, as with a garment.
 
-After a few days, strange people begin to call at the [[house]], and to
+After a few days, strange people begin to call at the house, and to
 make appointments with one another in the dining-room, as if they lived
 there. Especially, there is a gentleman, of a Mosaic Arabian cast of
 countenance, with a very massive watch-guard, who whistles in the
@@ -39468,7 +39468,7 @@ propose a little snack of something to eat; and over that snack would
 which they find themselves. The refreshment being produced, and very
 heartily partaken of, Mr Towlinson’s suggestion is, in effect, that
 Cook is going, and that if we are not true to ourselves, nobody will be
-true to us. That they have lived in that [[house]] a long [[motifs/time|time]], and exerted
+true to us. That they have lived in that house a long [[motifs/time|time]], and exerted
 themselves very much to be sociable together. (At this, Cook says, with
 emotion, “Hear, hear!” and Mrs Perch, who is there again, and full to
 the throat, sheds [[motifs/tears|tears]].) And that he thinks, at the present [[motifs/time|time]], the
@@ -39477,7 +39477,7 @@ this generous sentiment, and warmly seconds it. Cook says she feels
 it’s right, and only hopes it’s not done as a compliment to her, but
 from a sense of duty. Mr Towlinson replies, from a sense of duty; and
 that now he is driven to express his opinions, he will openly say, that
-he does not think it over-respectable to remain in a [[house]] where Sales
+he does not think it over-respectable to remain in a house where Sales
 and such-like are carrying forwards. The housemaid is sure of it; and
 relates, in confirmation, that a strange man, in a carpet cap, offered,
 this very morning, to kiss her on the stairs. Hereupon, Mr Towlinson is
@@ -39494,13 +39494,13 @@ with several pious axioms, original and selected. It becomes a clear
 case that they must all go. Boxes are packed, cabs fetched, and at dusk
 that evening there is not one member of the party left.
 
-The [[house]] stands, large and weather-proof, in the long dull street; but
+The house stands, large and weather-proof, in the long dull street; but
 it is a ruin, and the rats fly from it.
 
 The men in the carpet caps go on tumbling the furniture about; and the
 gentlemen with the pens and ink make out inventories of it, and sit
 upon pieces of furniture never made to be sat upon, and eat bread and
-[[cheese]] from the public-[[house]] on other pieces of furniture never made to
+cheese from the public-house on other pieces of furniture never made to
 be eaten on, and seem to have a delight in appropriating precious
 articles to strange uses. Chaotic combinations of furniture also take
 place. Mattresses and bedding appear in the dining-room; the glass and
@@ -39512,21 +39512,21 @@ similar appendage graces either side of the hall door.
 
 Then, all day long, there is a retinue of mouldy gigs and chaise-carts
 in the street; and herds of shabby vampires, Jew and Christian,
-over-run the [[house]], sounding the plate-glass mirrors with their
+over-run the house, sounding the plate-glass mirrors with their
 knuckles, striking discordant octaves on the Grand Piano, drawing wet
 forefingers over the pictures, breathing on the blades of the best
 dinner-knives, punching the squabs of chairs and sofas with their dirty
 fists, touzling the feather beds, opening and shutting all the drawers,
 balancing the silver spoons and forks, looking into the very threads of
 the drapery and linen, and disparaging everything. There is not a
-secret place in the whole [[house]]. Fluffy and snuffy strangers stare into
+secret place in the whole house. Fluffy and snuffy strangers stare into
 the kitchen-range as curiously as into the attic clothes-press. Stout
 men with napless hats on, look out of the bedroom windows, and cut
 jokes with friends in the street. Quiet, calculating spirits withdraw
 into the dressing-rooms with catalogues, and make marginal notes
 thereon, with stumps of pencils. Two brokers invade the very
 [[motifs/fire|fire]]-escape, and take a panoramic survey of the neighbourhood from the
-top of the [[house]]. The swarm and buzz, and going up and down, endure for
+top of the house. The swarm and buzz, and going up and down, endure for
 days. The Capital Modern Household Furniture, &c., is on view.
 
 
@@ -39557,18 +39557,18 @@ heavy burdens, or upheaving perfect rocks of Spanish mahogany, best
 [[motifs/rose|rose]]-wood, or plate-glass, into the gigs and chaise-carts, vans and
 waggons. All sorts of vehicles of burden are in attendance, from a
 tilted waggon to a wheelbarrow. Poor Paul’s little bedstead is carried
-off in a [[donkey]]-tandem. For nearly a whole week, the Capital Modern
+off in a donkey-tandem. For nearly a whole week, the Capital Modern
 Household Furniture, & c., is in course of removal.
 
-At last it is all gone. Nothing is left about the [[house]] but scattered
+At last it is all gone. Nothing is left about the house but scattered
 [[motifs/leaves|leaves]] of catalogues, littered scraps of straw and hay, and a battery
 of pewter pots behind the hall-door. The men with the carpet-caps
 gather up their screw-drivers and bed-winches into bags, shoulder them,
-and walk off. One of the pen-and-ink gentlemen goes over the [[house]] as a
+and walk off. One of the pen-and-ink gentlemen goes over the house as a
 last attention; sticking up bills in the windows respecting the lease
 of this desirable family mansion, and shutting the shutters. At length
 he follows the men with the carpet caps. None of the invaders remain.
-The [[house]] is a ruin, and the rats fly from it.
+The house is a ruin, and the rats fly from it.
 
 Mrs Pipchin’s apartments, together with those locked rooms on the
 ground-floor where the [[motifs/window|window]]-blinds are drawn down close, have been
@@ -39608,7 +39608,7 @@ unnatural [[archetypes/child|child]]—it’s a comfort to me, now, to remember 
 said there was something extraordinary about that [[archetypes/child|child]]: but nobody
 minds me—would anybody believe, I say, that he should then turn round
 upon me and say he had supposed, from my manner, that she had come to
-my [[house]]? Why, my gracious! And would anybody believe that when I
+my house? Why, my gracious! And would anybody believe that when I
 merely say to him, ‘Paul, I may be very foolish, and I have no [[concepts/doubt|doubt]] I
 am, but I cannot understand how your affairs can have got into this
 state,’ he should actually fly at me, and request that I will come to
@@ -39630,13 +39630,13 @@ silent for a minute to admire it.
 “Besides,” says the discreet lady, with an argumentative air, “who ever
 heard of such obstinacy as his staying shut up here through all these
 dreadful disagreeables? It’s not as if there was no place for him to go
-to. Of course he could have come to our [[house]]. He knows he is at [[motifs/home|home]]
+to. Of course he could have come to our house. He knows he is at [[motifs/home|home]]
 there, I suppose? Mr Chick has perfectly bored about it, and I said
 with my own lips, ‘Why surely, Paul, you don’t imagine that because
 your affairs have got into this state, you are the less at [[motifs/home|home]] to such
 near relatives as ourselves? You don’t imagine that we are like the
 rest of the world?’ But no; here he stays all through, and here he is.
-Why, good gracious me, suppose the [[house]] was to be let! What would he
+Why, good gracious me, suppose the house was to be let! What would he
 do then? He couldn’t remain here then. If he attempted to do so, there
 would be an ejectment, an action for Doe, and all sorts of things; and
 then he must go. Then why not go at first instead of at last? And that
@@ -39665,7 +39665,7 @@ sardonic Pipchin. “At any rate I’m going. I can’t stop here. I should
 be dead in a week. I had to cook my own pork chop yesterday, and I’m
 not used to it. My constitution will be giving way next. Besides, I had
 a very fair connexion at Brighton when I came here—little Pankey’s
-folks [[Alone|alone]] were worth a good eighty pounds a-year to me—and I can’t
+folks alone were worth a good eighty pounds a-year to me—and I can’t
 afford to throw it away. I’ve written to my niece, and she expects me
 by this [[motifs/time|time]].”
 
@@ -39686,7 +39686,7 @@ occupied with her own sagacity and clearness of head.
 
 In the dusk of the evening Mr Toodle, being off duty, arrives with
 Polly and a box, and [[motifs/leaves|leaves]] them, with a sounding kiss, in the hall of
-the empty [[house]], the retired character of which affects Mr Toodle’s
+the empty house, the retired character of which affects Mr Toodle’s
 spirits strongly.
 
 “I tell you what, Polly, me dear,” says Mr Toodle, “being now an
@@ -39717,13 +39717,13 @@ snappings at poor Berry, and all the other delights of her Ogress’s
 composes her black bombazeen skirts, and settles herself among the
 cushions of her easy chair.
 
-The [[house]] is such a ruin that the rats have fled, and there is not one
+The house is such a ruin that the rats have fled, and there is not one
 left.
 
-But Polly, though [[Alone|alone]] in the deserted mansion—for there is no
+But Polly, though alone in the deserted mansion—for there is no
 companionship in the shut-up rooms in which its late master hides his
-head—is not [[Alone|alone]] long. It is [[motifs/night|night]]; and she is sitting at work in the
-housekeeper’s room, trying to forget what a lonely [[house]] it is, and
+head—is not alone long. It is [[motifs/night|night]]; and she is sitting at work in the
+housekeeper’s room, trying to forget what a lonely house it is, and
 what a [[concepts/history|history]] belongs to it; when there is a knock at the hall door,
 as loud sounding as any knock can be, striking into such an empty
 place. Opening it, she returns across the echoing hall, accompanied by
@@ -39757,7 +39757,7 @@ husks that fall in the harvest of the great reaper.
 
 It is long before Miss Tox goes away, and before Polly, with a candle
 flaring on the blank stairs, looks after her, for company, down the
-street, and feels unwilling to go back into the dreary [[house]], and jar
+street, and feels unwilling to go back into the dreary house, and jar
 its emptiness with the heavy fastenings of the door, and glide away to
 bed. But all this Polly does; and in the morning sets in one of those
 darkened rooms such matters as she has been advised to prepare, and
@@ -39774,7 +39774,7 @@ from the scanty stores of the deceased owner of the powdered head and
 pigtail. She likewise brings, in sheets of curl-paper, morsels of cold
 meats, tongues of sheep, halves of fowls, for her own dinner; and
 sharing these collations with Polly, passes the greater part of her
-[[motifs/time|time]] in the ruined [[house]] that the rats have fled from: hiding, in a
+[[motifs/time|time]] in the ruined house that the rats have fled from: hiding, in a
 fright at every sound, stealing in and out like a criminal; only
 desiring to be true to the fallen object of her admiration, unknown to
 him, unknown to all the world but one poor simple woman.
@@ -39787,13 +39787,13 @@ him, unknown to all the world but one poor simple woman.
 
 The Major knows it; but no one is the wiser for that, though the Major
 is much the merrier. The Major, in a fit of curiosity, has charged the
-Native to watch the [[house]] sometimes, and find out what becomes of
+Native to watch the house sometimes, and find out what becomes of
 Dombey. The Native has reported Miss Tox’s fidelity, and the Major has
 nearly choked himself dead with laughter. He is permanently bluer from
 that hour, and constantly wheezes to himself, his lobster eyes starting
 out of his head, “Damme, Sir, the woman’s a born idiot!”
 
-And the ruined man. How does he pass the hours, [[Alone|alone]]?
+And the ruined man. How does he pass the hours, alone?
 
 “Let him remember it in that room, years to come!” He did remember it.
 It was heavy on his mind now; heavier than all the rest.
@@ -39832,11 +39832,11 @@ and deserted; now, when every loving blossom he had withered in his
 
 He thought of her, as she had been that [[motifs/night|night]] when he and his bride
 came [[motifs/home|home]]. He thought of her as she had been, in all the [[motifs/home|home]]-events of
-the abandoned [[house]]. He thought, now, that of all around him, she [[Alone|alone]]
+the abandoned house. He thought, now, that of all around him, she alone
 had never changed. His boy had faded into [[motifs/dust|dust]], his proud wife had sunk
 into a polluted creature, his flatterer and friend had been transformed
 into the worst of villains, his riches had melted away, the very walls
-that sheltered him looked on him as a stranger; she [[Alone|alone]] had turned
+that sheltered him looked on him as a stranger; she alone had turned
 the same mild gentle look upon him always. Yes, to the latest and the
 last. She had never changed to him—nor had he ever changed to her—and
 she was lost.
@@ -39876,10 +39876,10 @@ past now. He chiefly thought of what might have been, and what was not.
 What was, was all summed up in this: that she was lost, and he bowed
 down with sorrow and remorse.
 
-And now he felt that he had had two children born to him in that [[house]],
+And now he felt that he had had two children born to him in that house,
 and that between him and the bare wide empty walls there was a tie,
 mournful, but hard to rend asunder, connected with a [[topoi/double|double]] [[motifs/childhood|childhood]],
-and a [[topoi/double|double]] loss. He had thought to leave the [[house]]—knowing he must
+and a [[topoi/double|double]] loss. He had thought to leave the house—knowing he must
 go, not knowing whither—upon the evening of the day on which this
 feeling first struck root in his breast; but he resolved to stay
 another [[motifs/night|night]], and in the [[motifs/night|night]] to ramble through the rooms once more.
@@ -39905,7 +39905,7 @@ moment half those marks!—and bent his head, and wept as he went up.
 He almost saw it, going on before. He stopped, looking up towards the
 skylight; and a figure, childish itself, but carrying a [[archetypes/child|child]], and
 singing as it went, seemed to be there again. Anon, it was the same
-figure, [[Alone|alone]], stopping for an instant, with suspended breath; the
+figure, alone, stopping for an instant, with suspended breath; the
 bright hair clustering loosely round its tearful face; and looking back
 at him.
 
@@ -39919,7 +39919,7 @@ on to one another, with the same trackless involutions, and varieties
 of indistinct shapes.
 
 He did not so much as know in which of these rooms she had lived, when
-she was [[Alone|alone]]. He was glad to leave them, and go wandering higher up.
+she was alone. He was glad to leave them, and go wandering higher up.
 Abundance of associations were here, connected with his false wife, his
 false friend and servant, his false grounds of [[concepts/pride|pride]]; but he put them
 all by now, and only recalled miserably, weakly, fondly, his two
@@ -39933,16 +39933,16 @@ many [[motifs/tears|tears]] here, long ago, that he was less ashamed of his weak
 this place than in any other—perhaps, with that consciousness, had made
 excuses to himself for coming here. Here, with stooping shoulders, and
 his chin dropped on his breast, he had come. Here, thrown upon the bare
-boards, in the dead of [[motifs/night|night]], he wept, [[Alone|alone]]—a proud man, even then;
+boards, in the dead of [[motifs/night|night]], he wept, alone—a proud man, even then;
 who, if a kind hand could have been stretched out, or a kind face could
 have looked in, would have risen up, and turned away, and gone down to
 his cell.
 
 When the day broke he was shut up in his rooms again. He had meant to
-go away today, but clung to this tie in the [[house]] as the last and only
+go away today, but clung to this tie in the house as the last and only
 thing left to him. He would go to-morrow. To-morrow came. He would go
 to-morrow. Every [[motifs/night|night]], within the knowledge of no human creature, he
-came forth, and wandered through the despoiled [[house]] like a [[archetypes/ghost|ghost]]. Many
+came forth, and wandered through the despoiled house like a [[archetypes/ghost|ghost]]. Many
 a morning when the day broke, his altered face, drooping behind the
 closed blind in his [[motifs/window|window]], imperfectly transparent to the light as
 yet, pondered on the loss of his two children. It was one [[archetypes/child|child]] no
@@ -39960,7 +39960,7 @@ hand moved on the dial.
 At last he began to think he need not go at all. He might yet give up
 what his creditors had spared him (that they had not spared him more,
 was his own act), and only sever the tie between him and the ruined
-[[house]], by severing that other link—
+house, by severing that other link—
 
 It was then that his footfall was audible in the late housekeeper’s
 room, as he walked to and fro; but not audible in its true meaning, or
@@ -40004,7 +40004,7 @@ murderous that hand looked.
 Now it was thinking again! What was it thinking?
 
 Whether they would tread in the [[motifs/blood|blood]] when it crept so far, and carry
-it about the [[house]] among those many prints of feet, or even out into
+it about the house among those many prints of feet, or even out into
 the street.
 
 It sat down, with its eyes upon the empty fireplace, and as it lost
@@ -40082,7 +40082,7 @@ her lips, and, lifting up his eyes, said, “Oh my God, forgive me, for I
 need it very much!”
 
 With that he dropped his head again, lamenting over and caressing her,
-and there was not a sound in all the [[house]] for a long, long [[motifs/time|time]]; they
+and there was not a sound in all the house for a long, long [[motifs/time|time]]; they
 remaining clasped in one another’s arms, in the glorious sunshine that
 had crept in with Florence.
 
@@ -40100,7 +40100,7 @@ Then, Miss Tox and Polly came out of their concealment, and exulted
 tearfully. And then they packed his clothes, and books, and so forth,
 with great care; and consigned them in due course to certain persons
 sent by Florence, in the evening, to fetch them. And then they took a
-last cup of tea in the lonely [[house]].
+last cup of tea in the lonely house.
 
 “And so Dombey and Son, as I observed upon a certain sad occasion,”
 said Miss Tox, winding up a host of recollections, “is indeed a
@@ -40173,10 +40173,10 @@ Miss Tox, being, in good [[motifs/time|time]], bonneted and shawled, and Polly t
 hugged his mother, and followed his new mistress away; so much to the
 hopeful admiration of Polly, that something in her eyes made luminous
 rings round the gas-lamps as she looked after him. Polly then put out
-her light, locked the [[house]]-door, delivered the key at an agent’s hard
+her light, locked the house-door, delivered the key at an agent’s hard
 by, and went [[motifs/home|home]] as fast as she could go; rejoicing in the shrill
 delight that her unexpected arrival would occasion there. The great
-[[house]], dumb as to all that had been suffered in it, and the changes it
+house, dumb as to all that had been suffered in it, and the changes it
 had witnessed, stood frowning like a dark mute on the street; baulking
 any nearer inquiries with the staring announcement that the lease of
 this desirable Family Mansion was to be disposed of.
@@ -40241,7 +40241,7 @@ moved the younger of the young gentlemen to discontent and envy: they
 remarking, “Oh, ah. It was all very [[motifs/well|well]] for old Tozer, but they didn’t
 subscribe money for old Tozer to show off with, they supposed; did
 they? What business was it of old Tozer’s more than anybody else’s? It
-wasn’t his inkstand. Why couldn’t he leave the boys’ property [[Alone|alone]]?”
+wasn’t his inkstand. Why couldn’t he leave the boys’ property alone?”
 and murmuring other expressions of their dissatisfaction, which seemed
 to find a greater relief in calling him old Tozer, than in any other
 available vent.
@@ -40255,7 +40255,7 @@ departed for the society of their relations and friends, they took
 leave of Mr Feeder with awe.
 
 Mr Feeder’s most romantic visions were fulfilled. The Doctor had
-determined to paint the [[house]] outside, and put it in thorough repair;
+determined to paint the house outside, and put it in thorough repair;
 and to give up the business, and to give up Cornelia. The painting and
 repairing began upon the very day of the young gentlemen’s departure,
 and now behold! the wedding morning was come, and Cornelia, in a new
@@ -40400,7 +40400,7 @@ to make a speech; and in spite of a whole code of telegraphic
 dissuasions from Mrs Toots, appeared on his legs for the first [[motifs/time|time]] in
 his life.
 
-“I really,” said Mr Toots, “in this [[house]], where whatever was done to
+“I really,” said Mr Toots, “in this house, where whatever was done to
 me in the way of—of any mental confusion sometimes—which is of no
 consequence and I impute to nobody—I was always treated like one of
 Doctor Blimber’s family, and had a desk to myself for a considerable
@@ -40429,7 +40429,7 @@ his head and patted his hands. Mr Feeder made in reply, a comic speech
 chequered with sentiment. Mr Alfred Feeder, M.A., was afterwards very
 happy on Doctor and Mrs Blimber; Mr Feeder, B.A., scarcely less so, on
 the gauzy little bridesmaids. Doctor Blimber then, in a sonorous voice,
-delivered a few thoughts in the [[Pastoral|pastoral]] style, relative to the rushes
+delivered a few thoughts in the pastoral style, relative to the rushes
 among which it was the intention of himself and Mrs Blimber to dwell,
 and the bee that would hum around their cot. Shortly after which, as
 the Doctor’s eyes were twinkling in a remarkable manner, and his
@@ -40470,7 +40470,7 @@ Dombey has seen her father, and they are reconciled!”
 “My dear,” said Mr Toots; “pray do not exert yourself. Do remember the
 medical man! Captain Gills says—at least he don’t say, but I imagine,
 from what I can make out, he means—that Miss Dombey has brought her
-unfortunate father away from his old [[house]], to one where she and
+unfortunate father away from his old house, to one where she and
 Walters are living; that he is lying very ill there—supposed to be
 dying; and that she attends upon him [[motifs/night|night]] and day.”
 
@@ -40585,7 +40585,7 @@ perspiration; and rendered him, for a [[motifs/time|time]], insensible to the mo
 of the procession, of which he now formed a feature, and to the
 conversation of his fair companion. But as he became less agitated, he
 learnt from this lady that she was the widow of a Mr Bokum, who had
-held an employment in the Custom [[house|House]]; that she was the dearest friend
+held an employment in the Custom House; that she was the dearest friend
 of Mrs MacStinger, whom she considered a pattern for her sex; that she
 had often heard of the Captain, and now hoped he had repented of his
 past life; that she trusted Mr Bunsby knew what a blessing he had
@@ -40722,7 +40722,7 @@ The procession being then in a condition to form itself once more, and
 repair to Brig Place, where a [[motifs/marriage|marriage]] feast was in readiness, returned
 as it had come; not without the receipt, by Bunsby, of many humorous
 congratulations from the populace on his recently-acquired happiness.
-The Captain accompanied it as far as the [[house]]-door, but, being made
+The Captain accompanied it as far as the house-door, but, being made
 uneasy by the gentler manner of Mrs Bokum, who, now that she was
 relieved from her engrossing duty—for the watchfulness and alacrity of
 the ladies sensibly diminished when the bridegroom was safely
@@ -40734,12 +40734,12 @@ entrapment, though certainly without intending it, and through his
 unbounded [[concepts/faith|faith]] in the resources of that philosopher.
 
 To go back to old Sol Gills at the wooden Midshipman’s, and not first
-go round to ask how Mr Dombey was—albeit the [[house]] where he lay was out
+go round to ask how Mr Dombey was—albeit the house where he lay was out
 of [[settings/london|London]], and away on the borders of a fresh heath—was quite out of
 the Captain’s course. So he got a lift when he was tired, and made out
 the [[motifs/journey|journey]] gaily.
 
-The blinds were pulled down, and the [[house]] so quiet, that the Captain
+The blinds were pulled down, and the house so quiet, that the Captain
 was almost afraid to knock; but listening at the door, he heard low
 voices within, very near it, and, knocking softly, was admitted by Mr
 Toots. Mr Toots and his wife had, in fact, just arrived there; having
@@ -40923,7 +40923,7 @@ was to follow this.
 
 “I have been mentioning to my friend Mr Gay, if I may be allowed to
 have the [[concepts/honour|honour]] of calling him so,” said Cousin Feenix, “that I am
-rejoiced to hear that my friend Dombey is very decidedly [[mending]]. I
+rejoiced to hear that my friend Dombey is very decidedly mending. I
 trust my friend Dombey will not allow his mind to be too much preyed
 upon, by any mere loss of fortune. I cannot say that I have ever
 experienced any very great loss of fortune myself: never having had, in
@@ -40965,7 +40965,7 @@ otherwise, that it used to be commonly said by Conversation
 Brown—four-bottle man at the Treasury Board, with whom the father of my
 friend Gay was probably acquainted, for it was before my friend Gay’s
 [[motifs/time|time]]—that if a man had risen in his place, and said that he regretted
-to inform the [[house]] that there was an Honourable Member in the last
+to inform the house that there was an Honourable Member in the last
 stage of convulsions in the Lobby, and that the Honourable Member’s
 name was Pitt, the approbation would have been vociferous.”
 
@@ -41062,10 +41062,10 @@ dusk. Florence had, by this [[motifs/time|time]], put her hand in Walter’s; an
 looking very earnestly, and with increasing agitation, into every new
 street into which they turned.
 
-When the carriage stopped, at last, before that [[house]] in Brook Street,
+When the carriage stopped, at last, before that house in Brook Street,
 where her father’s unhappy [[motifs/marriage|marriage]] had been celebrated, Florence said,
 “Walter, what is this? Who is here?” Walter cheering her, and not
-replying, she glanced up at the [[house]]-front, and saw that all the
+replying, she glanced up at the house-front, and saw that all the
 windows were shut, as if it were uninhabited. Cousin Feenix had by this
 [[motifs/time|time]] alighted, and was offering his hand.
 
@@ -41077,7 +41077,7 @@ dearest Florence.”
 “I know that, Walter, with you so near. I am sure of that, but—”
 
 The door was softly opened, without any knock, and Cousin Feenix led
-her out of the [[motifs/summer|summer]] evening air into the close dull [[house]]. More
+her out of the [[motifs/summer|summer]] evening air into the close dull house. More
 sombre and brown than ever, it seemed to have been shut up from the
 wedding-day, and to have hoarded darkness and sadness ever since.
 
@@ -41168,7 +41168,7 @@ my stubbornness comes back and strikes me dumb, believe me, upon my
 
 “Guilty of much! Guilty of that which sets a waste between us evermore.
 Guilty of what must separate me, through the whole remainder of my
-life, from purity and [[innocence]]—from you, of all the earth. Guilty of a
+life, from purity and innocence—from you, of all the earth. Guilty of a
 blind and passionate resentment, of which I do not, cannot, will not,
 even now, repent; but not guilty with that dead man. Before God!”
 
@@ -41249,7 +41249,7 @@ regard as hollow, and in point of fact, as approaching to humbug—but
 because it is wrong, and not right.”
 
 Cousin Feenix’s legs consented to take him away after this; and leaving
-them [[Alone|alone]] together, he shut the door.
+them alone together, he shut the door.
 
 Edith remained silent for some minutes, with Florence sitting close
 beside her. Then she took from her bosom a sealed paper.
@@ -41378,7 +41378,7 @@ to her. And in regard to the changes of human life, and the
 extraordinary manner in which we are perpetually conducting ourselves,
 all I can say is, with my friend Shakespeare—man who wasn’t for an age
 but for all [[motifs/time|time]], and with whom my friend Gay is no [[concepts/doubt|doubt]]
-acquainted—that its like the [[archetypes/shadow|shadow]] of [[A Dream|a dream]].”
+acquainted—that its like the [[archetypes/shadow|shadow]] of a dream.”
 
 
 
@@ -41444,7 +41444,7 @@ entreaty that he will not seek to discover, and with the assurance that
 it is a debt, and an act of reparation. He has consulted with his old
 clerk about this, who is clear it may be honourably accepted, and has
 no [[concepts/doubt|doubt]] it arises out of some forgotten transaction in the times of
-the old [[house|House]].
+the old House.
 
 That hazel-eyed bachelor, a bachelor no more, is married now, and to
 the sister of the grey-haired Junior. He visits his old chief
@@ -41452,7 +41452,7 @@ sometimes, but seldom. There is a reason in the greyhaired Junior’s
 [[concepts/history|history]], and yet a stronger reason in his name, why he should keep
 retired from his old employer; and as he lives with his sister and her
 husband, they participate in that retirement. Walter sees them
-sometimes—Florence too—and the pleasant [[house]] resounds with profound
+sometimes—Florence too—and the pleasant house resounds with profound
 duets arranged for the Piano-Forte and Violoncello, and with the
 labours of Harmonious Blacksmiths.
 
@@ -41725,7 +41725,7 @@ I began this book by the Lake of Geneva, and went on with it for some
 months in France, before pursuing it in England. The association
 between the writing and the place of writing is so curiously strong in
 my mind, that at this day, although I know, in my fancy, every stair in
-the little midshipman’s [[house]], and could swear to every pew in the
+the little midshipman’s house, and could swear to every pew in the
 church in which Florence was married, or to every young gentleman’s
 bedstead in Doctor Blimber’s establishment, I yet confusedly imagine
 [[characters/captain-cuttle|Captain Cuttle]] as secluding himself from Mrs MacStinger among the

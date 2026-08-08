@@ -32,7 +32,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
-**Archetypes:** Rebel, Avenger
+**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/avenger|Avenger]]
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/blood|Blood]], [[motifs/flowers|Flowers]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/immortality|Immortality]], [[concepts/honour|Honour]], [[concepts/power-and-corruption|Power and Corruption]]
 **Forms & Genres:** [[forms/hymn|Hymn]], [[forms/ode|Ode]]

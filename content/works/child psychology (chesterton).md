@@ -55,9 +55,9 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** Stevenson
+**Characters:** [[characters/stevenson|Stevenson]]
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/childhood|Childhood]], [[motifs/moon|Moon]], [[motifs/animals|Animals]], [[motifs/music-and-song|Music and Song]], [[motifs/dance|Dance]]
 **Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/education|Education]], [[concepts/literary-criticism-(2)|Literary Criticism (2)]], [[concepts/paradox|Paradox]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]

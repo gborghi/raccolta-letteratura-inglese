@@ -59,7 +59,7 @@ tags:
 **Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]], [[historical-references/boer-war|Boer War]], [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/london|London]]
-**Archetypes:** Corrupt Official
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
 **Also relevant to:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]

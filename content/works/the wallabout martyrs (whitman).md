@@ -26,12 +26,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/dust|Dust]], [[motifs/grave|Grave]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]]
 **Forms & Genres:** [[forms/epigram|Epigram]], [[forms/free-verse|Free Verse]]
 **Historical References:** [[historical-references/american-civil-war|American Civil War]], [[historical-references/classical-antiquity|Classical Antiquity]]
-**Characters:** Odysseus Ulysses
+**Characters:** [[characters/odysseus-ulysses|Odysseus Ulysses]]
 
 ## Testo integrale / Full text
 

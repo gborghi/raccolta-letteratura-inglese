@@ -58,7 +58,7 @@ And the great torpid crocodile within the tank shed slimy [[motifs/tears|tears]]
 And tare the jewels from his ears and staggered back into the Nile,  
 And the priests cursed you with shrill psalms as in your claws you seized their snake  
 And crept away with it to slake your passion by the shuddering palms.  
-Who were your [[lovers]]? who were they who wrestled for you in the [[motifs/dust|dust]]?  
+Who were your lovers? who were they who wrestled for you in the [[motifs/dust|dust]]?  
 Which was the vessel of your Lust? What Leman had you, every day?  
 Did giant Lizards come and crouch before you on the reedy banks?  
 Did Gryphons with great metal flanks leap on you in your trampled couch?  
@@ -121,9 +121,9 @@ The meanest cup that touched his lips was fashioned from a chrysolite.
 The merchants brought him cedar chests of rich apparel bound with cords:  
 His train was borne by Memphian lords: young kings were glad to be his guests.  
 Ten hundred shaven priests did bow to Ammon’s altar day and [[motifs/night|night]],  
-Ten hundred lamps did wave their light through Ammon’s carven [[house]] - and now  
+Ten hundred lamps did wave their light through Ammon’s carven house - and now  
 Foul snake and speckled adder with their young ones crawl from stone to stone  
-For ruined is the [[house]] and prone the great [[motifs/rose|rose]]-marble monolith!  
+For ruined is the house and prone the great [[motifs/rose|rose]]-marble monolith!  
 Wild ass or trotting jackal comes and couches in the mouldering gates:  
 Wild satyrs call unto their mates across the fallen fluted drums.  
 And on the summit of the pile the blue-faced ape of Horus sits  
@@ -136,7 +136,7 @@ And many a bearded Bedouin draws back his yellow-striped burnous
 To gaze upon the Titan thews of him who was thy paladin.  
 Go, seek his fragments on the moor and wash them in the evening dew,  
 And from their pieces make anew thy mutilated paramour!  
-Go, seek them where they lie [[Alone|alone]] and from their broken pieces make  
+Go, seek them where they lie alone and from their broken pieces make  
 Thy bruised bedfellow! And wake mad passions in the senseless stone!  
 Charm his dull ear with Syrian hymns! he loved your [[concepts/body|body]]! oh, be kind,  
 Pour spikenard on his hair, and [[motifs/wind|wind]] soft rolls of linen round his limbs!  
@@ -144,13 +144,13 @@ Pour spikenard on his hair, and [[motifs/wind|wind]] soft rolls of linen round h
 Weave purple for his shrunken hips! and purple for his barren loins!  
 Away to [[settings/egypt|Egypt]]! Have no [[concepts/fear|fear]]. Only one God has ever died.  
 Only one God has let His side be wounded by a soldier’s spear.  
-But these, thy [[lovers]], are not dead. Still by the hundred-cubit gate  
+But these, thy lovers, are not dead. Still by the hundred-cubit gate  
 Dog-faced Anubis sits in state with lotus-lilies for thy head.  
 Still from his chair of porphyry gaunt Memnon strains his lidless eyes  
 Across the empty land, and cries each yellow morning unto thee.  
 And Nilus with his broken horn lies in his black and oozy bed  
 And till thy coming will not spread his waters on the withering corn.  
-Your [[lovers]] are not dead, I know. They will rise up and hear your voice  
+Your lovers are not dead, I know. They will rise up and hear your voice  
 And clash their cymbals and rejoice and run to kiss your mouth! And so,  
 Set wings upon your argosies! Set horses to your ebon car!  
 Back to your Nile! Or if you are grown sick of dead divinities  

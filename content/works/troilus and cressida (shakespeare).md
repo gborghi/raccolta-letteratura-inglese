@@ -83,13 +83,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/war-as-glory|War as Glory]], [[topoi/tempus-fugit|Tempus Fugit]]
-**Archetypes:** Femme Fatale, Hero, (Reputed) Fallen Woman, Prophet
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/hero|Hero]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/prophet|Prophet]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/time|Time]]
 **Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/honour|Honour]], [[concepts/disillusionment|Disillusionment]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/satire-of-society|Satire of Society]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/deception|Deception]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragicomedy|Tragicomedy]], [[forms/satire|Satire]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/classical-antiquity|Classical Antiquity]]
 **Settings:** [[settings/battlefield|Battlefield]]
-**Characters:** Odysseus Ulysses, Troilus, Cressida, Hector, Achilles, Ulysses, Pandarus, Ajax, Thersites, Agamemnon
+**Characters:** [[characters/odysseus-ulysses|Odysseus Ulysses]], [[characters/troilus|Troilus]], [[characters/cressida|Cressida]], [[characters/hector|Hector]], [[characters/achilles|Achilles]], [[characters/ulysses|Ulysses]], [[characters/pandarus|Pandarus]], [[characters/ajax|Ajax]], [[characters/thersites|Thersites]], [[characters/agamemnon|Agamemnon]]
 
 ## Testo integrale / Full text
 

@@ -25,7 +25,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/chains|Chains]]
 **Themes & Concepts:** [[concepts/reform|Reform]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/beauty|Beauty]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

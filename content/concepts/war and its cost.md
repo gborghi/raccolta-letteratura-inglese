@@ -83,25 +83,25 @@ tags:
 - [[works/a-tale-of-two-cities-(dickens)|A Tale of Two Cities (Dickens)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
 - [[works/the-battle-of-life-(dickens)|The Battle of Life (Dickens)]]
-- 1174. There's the Battle of Burgoyne — (Dickinson)
-- 118. My friend attacks my friend! (Dickinson)
-- 1188. 'Twas fighting for his Life he was — (Dickinson)
-- 1227. My Triumph lasted till the Drums (Dickinson)
-- 126. To fight aloud, is very brave — (Dickinson)
-- 147. Bless God, he went as soldiers, (Dickinson)
-- 1471. Their Barricade against the Sky (Dickinson)
-- 1511. My country need not change her gown, (Dickinson)
-- 358. If any sink, assure that this, now standing — (Dickinson)
-- 409. They dropped like Flakes — (Dickinson)
-- 42. A Day! Help! Help! Another Day! (Dickinson)
-- 444. It feels a shame to be Alive — (Dickinson)
-- 596. When I was small, a Woman died — (Dickinson)
-- 639. My Portion is Defeat — today — (Dickinson)
-- 67. Success is counted sweetest (Dickinson)
-- 678. Wolfe demanded during dying (Dickinson)
-- 73. Who never lost, are unprepared (Dickinson)
-- 759. He fought like those Who've nought to lose — (Dickinson)
-- 8. There is a word (Dickinson)
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1174_theres_the_battle_of_burgoyne|1174. There's the Battle of Burgoyne — (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0118_my_friend_attacks_my_friend|118. My friend attacks my friend! (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1188_twas_fighting_for_his_life_he_was|1188. 'Twas fighting for his Life he was — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1227_my_triumph_lasted_till_the_drums|1227. My Triumph lasted till the Drums (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0126_to_fight_aloud_is_very_brave|126. To fight aloud, is very brave — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0147_bless_god_he_went_as_soldiers|147. Bless God, he went as soldiers, (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1471_their_barricade_against_the_sky|1471. Their Barricade against the Sky (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1511_my_country_need_not_change_her_gown|1511. My country need not change her gown, (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0358_if_any_sink_assure_that_this_now_standing|358. If any sink, assure that this, now standing — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0409_they_dropped_like_flakes|409. They dropped like Flakes — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0042_a_day_help_help_another_day|42. A Day! Help! Help! Another Day! (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0444_it_feels_a_shame_to_be_alive|444. It feels a shame to be Alive — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0596_when_i_was_small_a_woman_died|596. When I was small, a Woman died — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0639_my_portion_is_defeat_today|639. My Portion is Defeat — today — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0067_success_is_counted_sweetest|67. Success is counted sweetest (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0678_wolfe_demanded_during_dying|678. Wolfe demanded during dying (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0073_who_never_lost_are_unprepared|73. Who never lost, are unprepared (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0759_he_fought_like_those_whove_nought_to_lose|759. He fought like those Who've nought to lose — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0008_there_is_a_word|8. There is a word (Dickinson)]]
 - [[works/a-note-on-war-poetry-(eliot)|A Note on War Poetry (Eliot)]]
 - [[works/coriolan-(eliot)|Coriolan (Eliot)]]
 - [[works/defence-of-the-islands-(eliot)|Defence of the Islands (Eliot)]]

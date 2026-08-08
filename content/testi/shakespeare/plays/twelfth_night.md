@@ -17,7 +17,7 @@ tags:
 [[clusters/twelfth-night|TWELFTH NIGHT]]
 [[clusters/twelfth-night|TWELFTH NIGHT]], the end of the Christmas season, was traditionally a [[motifs/time|time]] of revelry and topsy-turvydom; Shakespeare’s title for a play in which a servant aspires to his mistress’s hand has no more specific reference. It was thought appropriate to the festive occasion of Candlemas (2 February) 1602 when, in the first known allusion to it, John Manningham, a law student of the Middle Temple in [[settings/london|London]], noted ‘at our feast we had a play called [[clusters/twelfth-night|Twelfth Night]], or What You Will’. References to ‘the Sophy’—the Shah of Persia (2.5.174; 3.4.271)—probably post-date Sir Robert [[works/shirley-(bronte)|Shirley]]’s return from Persia, in a [[motifs/ship|ship]] named The Sophy, in 1599; and ‘the new map with the augmentation of the Indies’ (3.2.75) appears to be one published in 1599 and reissued in 1600. Shakespeare may have picked up the name [[characters/orsino|Orsino]] for his young duke from a Tuscan nobleman whom [[characters/queen-elizabeth|Queen Elizabeth]] entertained at Whitehall with a play performed by Shakespeare’s company on [[clusters/twelfth-night|Twelfth Night]] 1601. Probably he wrote [[clusters/twelfth-night|Twelfth Night]] during that year.
 [[clusters/twelfth-night|Twelfth Night]]’s romantic setting is Illyria, the Greek and Roman name for Adriatic territory roughly corresponding to the former Yugoslavia. Manningham had noted that the play was ‘much like The [[forms/comedy|Comedy]] of Errors or Menaechmi in Plautus’, thinking no [[concepts/doubt|doubt]] of the confusions created by identical twins. Shakespeare may also have known an anonymous Italian [[forms/comedy|comedy]], GI’Ingannati (The Deceived Ones), acted in 1531 and first printed in 1537, which influenced a number of other plays and prose tales including Barnaby Riche’s story of Apolonius and Silla printed as part of Riche’s Farewell to Military Profession (1581). Riche gave Shakespeare his main plot of a shipwrecked girl ([[characters/viola|Viola]]) who, disguised as a boy (Cesario), serves a young Duke ([[characters/orsino|Orsino]]) and undertakes [[motifs/love|love]]-errands on his behalf to a noble lady ([[characters/olivia|Olivia]]) who falls in [[motifs/love|love]] with her but mistakenly marries her twin brother ([[characters/sebastian|Sebastian]]). Shakespeare idealizes Riche’s characters and purges the story of some of its explicit [[concepts/sexuality|sexuality]]: Riche’s [[characters/olivia|Olivia]], for example, is pregnant before [[motifs/marriage|marriage]], and his [[characters/viola|Viola]] reveals her [[concepts/identity|identity]], in a manner impractical for a boy actor, by stripping to the waist. Shakespeare complicates the plot by giving [[characters/olivia|Olivia]] a reprobate uncle, [[characters/sir-toby-belch|Sir Toby Belch]], and two additional suitors, the asinine [[characters/sir-andrew-aguecheek|Sir Andrew Aguecheek]] and her steward, [[characters/malvolio|Malvolio]], tricked by members of her household into believing that she loves him. More important to the play than to the plot is the entirely Shakespearian clown, [[characters/feste|Feste]], a wry and oblique commentator whose wit in folly is opposed to [[characters/malvolio|Malvolio]]’s folly in wit.
-[[clusters/twelfth-night|Twelfth Night]] is the consummation of Shakespeare’s romantic [[forms/comedy|comedy]], a play of wide emotional range, extending from the robust, brilliantly orchestrated [[Humour|humour]] of the scene of midnight revelry (2.2) to the rapt [[concepts/wonder|wonder]] of the antiphon of recognition (5.1.224-56) between the reunited twins. In performance the balance shifts, favouring sometimes the exposure and celebration of folly, at other times the poignancy of unattained [[motifs/love|love]] and of unheeded wisdom; but few other plays have so consistently provided theatrical pleasure of so high an order.
+[[clusters/twelfth-night|Twelfth Night]] is the consummation of Shakespeare’s romantic [[forms/comedy|comedy]], a play of wide emotional range, extending from the robust, brilliantly orchestrated humour of the scene of midnight revelry (2.2) to the rapt [[concepts/wonder|wonder]] of the antiphon of recognition (5.1.224-56) between the reunited twins. In performance the balance shifts, favouring sometimes the exposure and celebration of folly, at other times the poignancy of unattained [[motifs/love|love]] and of unheeded wisdom; but few other plays have so consistently provided theatrical pleasure of so high an order.
 THE PERSONS OF THE PLAY
 [[characters/orsino|ORSINO]], Duke of Illyria
 FIRST OFFICER
@@ -47,7 +47,7 @@ Musicians, sailors, lords, attendants
 | *(didascalia)* | Music. Enter [[characters/orsino\|Orsino]] Duke of Illyria, Curio, and other lords |
 | [[characters/orsino\|ORSINO]] | If music be the food of [[motifs/love\|love]], play on,<br>Give me excess of it that, surfeiting,<br>The appetite may sicken and so die.<br>That strain again, it had a dying fall.<br>O, it came o‘er my ear like the sweet sound<br>That breathes upon a bank of violets,<br>Stealing and giving odour. Enough, no more,<br>’Tis not so sweet now as it was before. |
 | *(didascalia)* | Music ceases |
-| [[characters/orsino\|ORSINO]] | O spirit of [[motifs/love\|love]], how quick and fresh art thou<br>That, notwithstanding thy capacity<br>Receiveth as the sea, naught enters there,<br>Of what validity and pitch so e’er,<br>But falls into abatement and low price<br>Even in a minute! So full of shapes is fancy<br>That it [[Alone\|alone]] is high fantastical. |
+| [[characters/orsino\|ORSINO]] | O spirit of [[motifs/love\|love]], how quick and fresh art thou<br>That, notwithstanding thy capacity<br>Receiveth as the sea, naught enters there,<br>Of what validity and pitch so e’er,<br>But falls into abatement and low price<br>Even in a minute! So full of shapes is fancy<br>That it alone is high fantastical. |
 | CURIO | Will you go hunt, my lord? |
 | [[characters/orsino\|ORSINO]] | What, Curio? |
 | CURIO | The hart. |
@@ -66,7 +66,7 @@ Musicians, sailors, lords, attendants
 [[clusters/twelfth-night|TWELFTH NIGHT]]
 [[clusters/twelfth-night|TWELFTH NIGHT]], the end of the Christmas season, was traditionally a [[motifs/time|time]] of revelry and topsy-turvydom; Shakespeare’s title for a play in which a servant aspires to his mistress’s hand has no more specific reference. It was thought appropriate to the festive occasion of Candlemas (2 February) 1602 when, in the first known allusion to it, John Manningham, a law student of the Middle Temple in [[settings/london|London]], noted ‘at our feast we had a play called [[clusters/twelfth-night|Twelfth Night]], or What You Will’. References to ‘the Sophy’—the Shah of Persia (2.5.174; 3.4.271)—probably post-date Sir Robert [[works/shirley-(bronte)|Shirley]]’s return from Persia, in a [[motifs/ship|ship]] named The Sophy, in 1599; and ‘the new map with the augmentation of the Indies’ (3.2.75) appears to be one published in 1599 and reissued in 1600. Shakespeare may have picked up the name [[characters/orsino|Orsino]] for his young duke from a Tuscan nobleman whom [[characters/queen-elizabeth|Queen Elizabeth]] entertained at Whitehall with a play performed by Shakespeare’s company on [[clusters/twelfth-night|Twelfth Night]] 1601. Probably he wrote [[clusters/twelfth-night|Twelfth Night]] during that year.
 [[clusters/twelfth-night|Twelfth Night]]’s romantic setting is Illyria, the Greek and Roman name for Adriatic territory roughly corresponding to the former Yugoslavia. Manningham had noted that the play was ‘much like The [[forms/comedy|Comedy]] of Errors or Menaechmi in Plautus’, thinking no [[concepts/doubt|doubt]] of the confusions created by identical twins. Shakespeare may also have known an anonymous Italian [[forms/comedy|comedy]], GI’Ingannati (The Deceived Ones), acted in 1531 and first printed in 1537, which influenced a number of other plays and prose tales including Barnaby Riche’s story of Apolonius and Silla printed as part of Riche’s Farewell to Military Profession (1581). Riche gave Shakespeare his main plot of a shipwrecked girl ([[characters/viola|Viola]]) who, disguised as a boy (Cesario), serves a young Duke ([[characters/orsino|Orsino]]) and undertakes [[motifs/love|love]]-errands on his behalf to a noble lady ([[characters/olivia|Olivia]]) who falls in [[motifs/love|love]] with her but mistakenly marries her twin brother ([[characters/sebastian|Sebastian]]). Shakespeare idealizes Riche’s characters and purges the story of some of its explicit [[concepts/sexuality|sexuality]]: Riche’s [[characters/olivia|Olivia]], for example, is pregnant before [[motifs/marriage|marriage]], and his [[characters/viola|Viola]] reveals her [[concepts/identity|identity]], in a manner impractical for a boy actor, by stripping to the waist. Shakespeare complicates the plot by giving [[characters/olivia|Olivia]] a reprobate uncle, [[characters/sir-toby-belch|Sir Toby Belch]], and two additional suitors, the asinine [[characters/sir-andrew-aguecheek|Sir Andrew Aguecheek]] and her steward, [[characters/malvolio|Malvolio]], tricked by members of her household into believing that she loves him. More important to the play than to the plot is the entirely Shakespearian clown, [[characters/feste|Feste]], a wry and oblique commentator whose wit in folly is opposed to [[characters/malvolio|Malvolio]]’s folly in wit.
-[[clusters/twelfth-night|Twelfth Night]] is the consummation of Shakespeare’s romantic [[forms/comedy|comedy]], a play of wide emotional range, extending from the robust, brilliantly orchestrated [[Humour|humour]] of the scene of midnight revelry (2.2) to the rapt [[concepts/wonder|wonder]] of the antiphon of recognition (5.1.224-56) between the reunited twins. In performance the balance shifts, favouring sometimes the exposure and celebration of folly, at other times the poignancy of unattained [[motifs/love|love]] and of unheeded wisdom; but few other plays have so consistently provided theatrical pleasure of so high an order.
+[[clusters/twelfth-night|Twelfth Night]] is the consummation of Shakespeare’s romantic [[forms/comedy|comedy]], a play of wide emotional range, extending from the robust, brilliantly orchestrated humour of the scene of midnight revelry (2.2) to the rapt [[concepts/wonder|wonder]] of the antiphon of recognition (5.1.224-56) between the reunited twins. In performance the balance shifts, favouring sometimes the exposure and celebration of folly, at other times the poignancy of unattained [[motifs/love|love]] and of unheeded wisdom; but few other plays have so consistently provided theatrical pleasure of so high an order.
 THE PERSONS OF THE PLAY
 [[characters/orsino|ORSINO]], Duke of Illyria
 FIRST OFFICER
@@ -96,7 +96,7 @@ Musicians, sailors, lords, attendants
 | *(didascalia)* | Musica. Entrano [[characters/orsino\|Orsino]] duca d'Illiria, Curio e altri signori |
 | [[characters/orsino\|ORSINO]] | Se la musica è il cibo dell'[[motifs/love\|amore]], suonate ancora,<br>datemene in eccesso, affinché, saziandosi,<br>l'appetito s'ammali e così muoia.<br>Quella cadenza di nuovo: aveva un morente declinare.<br>Oh, mi giunse all'orecchio come il dolce suono<br>che spira sopra un'aiuola di violette,<br>rubando e donando profumo. Basta, non più,<br>non è più dolce ora come lo era prima. |
 | *(didascalia)* | La musica cessa |
-| [[characters/orsino\|ORSINO]] | Oh spirito d'[[motifs/love\|amore]], quanto sei rapido e fresco!<br>Ché, per quanto la tua capienza<br>accolga al pari del mare, nulla vi entra,<br>di qualsivoglia pregio e altezza,<br>che non decada in scadimento e vil prezzo<br>anche in un solo minuto! Tanto piena di forme è la fantasia<br>che essa [[Alone\|sola]] è altamente fantastica. |
+| [[characters/orsino\|ORSINO]] | Oh spirito d'[[motifs/love\|amore]], quanto sei rapido e fresco!<br>Ché, per quanto la tua capienza<br>accolga al pari del mare, nulla vi entra,<br>di qualsivoglia pregio e altezza,<br>che non decada in scadimento e vil prezzo<br>anche in un solo minuto! Tanto piena di forme è la fantasia<br>che essa sola è altamente fantastica. |
 | CURIO | Volete andare a caccia, mio signore? |
 | [[characters/orsino\|ORSINO]] | Che cosa, Curio? |
 | CURIO | Il cervo. |
@@ -171,8 +171,8 @@ Musicians, sailors, lords, attendants
 | SER TOBY | Vi sbagliate, cavaliere. «Abbordare» vuol dire affrontarla, salirle a bordo, corteggiarla, assalirla. |
 | SER ANDREW | In fede mia, non l'affronterei in questa compagnia. È questo il significato di «abbordare»? |
 | [[characters/maria\|MARIA]] | State [[motifs/well\|bene]], signori. |
-| SER TOBY | Se la lasci andar così, ser Andrew, che tu non possa mai più sguainare la [[Sword\|spada]]. |
-| SER ANDREW | Se ve n'andate così, madonna, vorrei non poter mai più sguainare la [[Sword\|spada]]. Bella dama, credete d'aver degli sciocchi per le mani? |
+| SER TOBY | Se la lasci andar così, ser Andrew, che tu non possa mai più sguainare la spada. |
+| SER ANDREW | Se ve n'andate così, madonna, vorrei non poter mai più sguainare la spada. Bella dama, credete d'aver degli sciocchi per le mani? |
 | [[characters/maria\|MARIA]] | Signore, non ho voi per la mano. |
 | SER ANDREW | Perbacco, ma l'avrete: ecco la mia mano. |
 | [[characters/maria\|MARIA]] | (prendendogli la mano) Ora, signore, il pensiero è libero. Vi prego, portate la vostra mano al banco della dispensa, e fatela bere. |
@@ -216,7 +216,7 @@ Musicians, sailors, lords, attendants
 |---|---|
 | *(didascalia)* | Entrano [[characters/valentine\|Valentino]] e [[characters/viola\|Viola]] (come Cesario) in abito maschile |
 | [[characters/valentine\|VALENTINO]] | Se il Duca continua questi favori verso di voi, Cesario, è probabile che sarete molto innalzato. Vi conosce da soli tre giorni, e già non siete più un estraneo. |
-| [[characters/viola\|VIOLA]] | O [[concepts/fear\|temete]] il suo [[Humour\|umore]] o la mia negligenza, se mettete in dubbio la durata del suo [[motifs/love\|affetto]]. È forse incostante, signore, nei suoi favori? |
+| [[characters/viola\|VIOLA]] | O [[concepts/fear\|temete]] il suo umore o la mia negligenza, se mettete in dubbio la durata del suo [[motifs/love\|affetto]]. È forse incostante, signore, nei suoi favori? |
 | [[characters/valentine\|VALENTINO]] | No, credetemi. |
 | *(didascalia)* | Entrano il Duca, Curio e servitori |
 | [[characters/viola\|VIOLA]] | Vi ringrazio. Ecco venire il Conte. |
@@ -320,13 +320,13 @@ Musicians, sailors, lords, attendants
 | *(didascalia)* | Entra [[characters/maria\|Maria]] |
 | [[characters/olivia\|OLIVIA]] | Datemi il mio velo. Su, gettatelo sul mio volto.<br>Udremo ancora una volta l'ambasciata d'[[characters/orsino\|Orsino]]. |
 | *(didascalia)* | Entra [[characters/viola\|Viola]] come Cesario |
-| [[characters/viola\|VIOLA]] | L'onorevole signora di questa [[house\|casa]], qual è? |
+| [[characters/viola\|VIOLA]] | L'onorevole signora di questa casa, qual è? |
 | [[characters/olivia\|OLIVIA]] | Parlate a me, risponderò per lei. Che volete? |
-| [[characters/viola\|VIOLA]] | Radiosissima, squisita e impareggiabile [[concepts/beauty\|bellezza]]. —Vi prego, ditemi se questa è la signora della [[house\|casa]], ché non l'ho mai veduta. Mi spiacerebbe gettar via il mio discorso, poiché, oltre a essere eccellentemente [[motifs/well\|ben]] composto, mi son dato gran pena a impararlo a memoria. Buone bellezze, non fatemi patire scherno; sono assai sensibile, anche al minimo trattamento maligno. |
+| [[characters/viola\|VIOLA]] | Radiosissima, squisita e impareggiabile [[concepts/beauty\|bellezza]]. —Vi prego, ditemi se questa è la signora della casa, ché non l'ho mai veduta. Mi spiacerebbe gettar via il mio discorso, poiché, oltre a essere eccellentemente [[motifs/well\|ben]] composto, mi son dato gran pena a impararlo a memoria. Buone bellezze, non fatemi patire scherno; sono assai sensibile, anche al minimo trattamento maligno. |
 | [[characters/olivia\|OLIVIA]] | Donde venite, signore? |
-| [[characters/viola\|VIOLA]] | Poco posso dire oltre a quel che ho studiato, e quella domanda è fuori della mia parte. Buona e gentile creatura, datemi modesta assicurazione che siete voi la signora della [[house\|casa]], affinché io possa procedere nel mio discorso. |
+| [[characters/viola\|VIOLA]] | Poco posso dire oltre a quel che ho studiato, e quella domanda è fuori della mia parte. Buona e gentile creatura, datemi modesta assicurazione che siete voi la signora della casa, affinché io possa procedere nel mio discorso. |
 | [[characters/olivia\|OLIVIA]] | Siete un commediante? |
-| [[characters/viola\|VIOLA]] | No, mio profondo cuore; e tuttavia—per le zanne stesse della malizia lo giuro—non sono ciò che recito. Siete voi la signora della [[house\|casa]]? |
+| [[characters/viola\|VIOLA]] | No, mio profondo cuore; e tuttavia—per le zanne stesse della malizia lo giuro—non sono ciò che recito. Siete voi la signora della casa? |
 | [[characters/olivia\|OLIVIA]] | Se non usurpo me stessa, lo sono. |
 | [[characters/viola\|VIOLA]] | Certissimamente, se siete lei, usurpate voi stessa; ché ciò che è vostro da donare non è vostro da riservare. Ma questo esula dal mio incarico. Proseguirò col mio discorso in vostra lode, e poi vi mostrerò il cuore del mio messaggio. |
 | [[characters/olivia\|OLIVIA]] | Venite a ciò che v'è d'importante, vi condono la lode. |
@@ -335,10 +335,10 @@ Musicians, sailors, lords, attendants
 | [[characters/maria\|MARIA]] | Volete issare le vele, signore? Ecco la vostra strada. |
 | [[characters/viola\|VIOLA]] | No, buon mozzo, debbo restare alla cappa ancora un poco. (A [[characters/olivia\|Olivia]]) Un po' di calmante per il vostro gigante, dolce signora. Ditemi il vostro pensiero: sono un messaggero. |
 | [[characters/olivia\|OLIVIA]] | Certo, avete qualche orribile faccenda da riferire, se la cortesia di essa è tanto spaventosa. Dite il vostro ufficio. |
-| [[characters/viola\|VIOLA]] | Riguarda il vostro orecchio [[Alone\|soltanto]]. Non porto proposta di guerra, né imposizione d'omaggio. Tengo l'ulivo in mano. Le mie parole son piene di pace quanto di sostanza. |
+| [[characters/viola\|VIOLA]] | Riguarda il vostro orecchio soltanto. Non porto proposta di guerra, né imposizione d'omaggio. Tengo l'ulivo in mano. Le mie parole son piene di pace quanto di sostanza. |
 | [[characters/olivia\|OLIVIA]] | Eppure avete cominciato rozzamente. Chi siete? Che volete? |
 | [[characters/viola\|VIOLA]] | La rozzezza che è apparsa in me l'ho appresa dall'accoglienza ricevuta. Ciò che sono e ciò che voglio sono segreti come la verginità; alle vostre orecchie, teologia; a quelle d'altri, profanazione. |
-| *(didascalia)* | [[characters/olivia\|OLIVIA]] (a [[characters/maria\|Maria]] e ai servitori) Lasciateci [[Alone\|soli]], udremo questa teologia. |
+| *(didascalia)* | [[characters/olivia\|OLIVIA]] (a [[characters/maria\|Maria]] e ai servitori) Lasciateci soli, udremo questa teologia. |
 | *(didascalia)* | Escono [[characters/maria\|Maria]] e i servitori |
 | [[characters/viola\|VIOLA]] | Ora, signore, qual è il vostro testo? |
 | [[characters/viola\|VIOLA]] | Dolcissima signora— |
@@ -359,7 +359,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Il vostro signore conosce il mio pensiero: non posso [[motifs/love\|amarlo]].<br>Pure lo suppongo virtuoso, lo so nobile,<br>di grande stato, di fresca e immacolata giovinezza,<br>[[motifs/well\|ben]] divulgato dalle voci, libero, dotto e valoroso,<br>e nella statura e nella forma di [[concepts/nature\|natura]]<br>persona graziosa; eppure non posso [[motifs/love\|amarlo]].<br>Poteva avere la sua risposta già da tempo. |
 | [[characters/viola\|VIOLA]] | Se io vi [[motifs/love\|amassi]] con l'ardore del mio padrone,<br>con tale sofferenza, con tale mortale vita,<br>nel vostro rifiuto non troverei alcun senso,<br>non lo comprenderei. |
 | [[characters/olivia\|OLIVIA]] | Ebbene, che fareste? |
-| [[characters/viola\|VIOLA]] | Mi farei una capanna di salice alla vostra porta<br>e chiamerei la mia [[motifs/soul\|anima]] dentro la [[house\|casa]];<br>scriverei leali canzoni d'[[motifs/love\|amore]] disprezzato,<br>e le canterei forte perfino nel cuore della [[motifs/night\|notte]];<br>griderei il vostro nome ai colli riecheggianti,<br>e farei sì che la ciarliera pettegola dell'aria<br>gridasse «[[characters/olivia\|Olivia]]!». Oh, non avreste riposo<br>fra gli elementi dell'aria e della terra<br>senza aver pietà di me. |
+| [[characters/viola\|VIOLA]] | Mi farei una capanna di salice alla vostra porta<br>e chiamerei la mia [[motifs/soul\|anima]] dentro la casa;<br>scriverei leali canzoni d'[[motifs/love\|amore]] disprezzato,<br>e le canterei forte perfino nel cuore della [[motifs/night\|notte]];<br>griderei il vostro nome ai colli riecheggianti,<br>e farei sì che la ciarliera pettegola dell'aria<br>gridasse «[[characters/olivia\|Olivia]]!». Oh, non avreste riposo<br>fra gli elementi dell'aria e della terra<br>senza aver pietà di me. |
 | [[characters/olivia\|OLIVIA]] | Potreste far molto.<br>Qual è il vostro lignaggio? |
 | [[characters/viola\|VIOLA]] | Al di sopra delle mie fortune, pure il mio stato è [[motifs/well\|buono]].<br>Sono un gentiluomo. |
 | [[characters/olivia\|OLIVIA]] | Tornate dal vostro signore.<br>Non posso [[motifs/love\|amarlo]]. Non mandi più nessuno,<br>a meno che, per caso, voi non torniate da me<br>a dirmi come la prende. State [[motifs/well\|bene]].<br>Vi ringrazio per il vostro disturbo. (Offrendogli una borsa) Spendete<br>questo per me. |
@@ -379,7 +379,7 @@ Musicians, sailors, lords, attendants
 |---|---|
 | *(didascalia)* | Entrano [[characters/antonio\|Antonio]] e [[characters/sebastian\|Sebastiano]] |
 | [[characters/antonio\|ANTONIO]] | Non volete restare più a lungo, né volete che<br>io venga con voi? |
-| [[characters/sebastian\|SEBASTIANO]] | Con vostra licenza, no. Le mie [[motifs/stars\|stelle]] splendono oscure sopra di me. La malignità del mio destino potrebbe forse turbare il vostro; perciò vi chiederò il permesso di portare i miei mali da [[Alone\|solo]]. Sarebbe una mala ricompensa al vostro [[motifs/love\|affetto]] scaricarne alcuno su di voi. |
+| [[characters/sebastian\|SEBASTIANO]] | Con vostra licenza, no. Le mie [[motifs/stars\|stelle]] splendono oscure sopra di me. La malignità del mio destino potrebbe forse turbare il vostro; perciò vi chiederò il permesso di portare i miei mali da solo. Sarebbe una mala ricompensa al vostro [[motifs/love\|affetto]] scaricarne alcuno su di voi. |
 | [[characters/antonio\|ANTONIO]] | Fatemi almeno sapere dove siete diretto. |
 | [[characters/sebastian\|SEBASTIANO]] | No, in verità, signore. Il viaggio che ho stabilito è pura vagabondaggine. Ma scorgo in voi un tratto di modestia così eccellente che non vorrete estorcermi ciò che io intendo tacere. Perciò la buona creanza mi obbliga tanto più a rivelarmi. Dovete dunque sapere di me, [[characters/antonio\|Antonio]], che il mio nome è [[characters/sebastian\|Sebastiano]], mentre mi facevo chiamare [[characters/roderigo\|Roderigo]]. Mio padre fu quel [[characters/sebastian\|Sebastiano]] di Messalina di cui so che avete sentito parlare. Lasciò dietro di sé me e una sorella, entrambi nati in una stessa ora. Se al cielo fosse piaciuto, così avessimo anche finito. Ma voi, signore, mutaste ciò: perché un'ora circa prima che voi mi traeste dalla furia del mare, mia sorella era annegata. |
 | [[characters/antonio\|ANTONIO]] | Ahimè, che giorno! |
@@ -401,7 +401,7 @@ Musicians, sailors, lords, attendants
 | [[characters/malvolio\|MALVOLIO]] | (offrendogli un anello) Ella vi restituisce questo anello, signore. Avreste potuto risparmiarmi la fatica portandovelo via voi stesso. Aggiunge, inoltre, che dovreste dare al vostro signore la disperata certezza che ella non ne vuol sapere di lui. E un'altra cosa: che non siate mai tanto temerario da tornare per i suoi affari, se non per riferire come il vostro signore abbia preso la cosa. Ricevetelo dunque così. |
 | [[characters/viola\|VIOLA]] | Fu lei a prendere l'anello da me. Non ne voglio sapere. |
 | [[characters/malvolio\|MALVOLIO]] | Suvvia, signore, gliel'avete gettato con petulanza, ed è sua volontà che vi sia restituito allo stesso modo.<br>Getta a terra l'anello<br>Se val la pena di chinarsi a raccoglierlo, eccolo lì, sotto i vostri occhi; se<br>no, sia di chi lo trova. Esce |
-| [[characters/viola\|VIOLA]] | (raccogliendo l'anello)<br>Non ho lasciato alcun anello con lei. Che intende questa dama?<br>La sorte non voglia che il mio aspetto l'abbia stregata.<br>Mi guardò ben bene, e davvero tanto<br>che subito mi parve che i suoi occhi le avessero smarrito la lingua,<br>ché parlava a scatti, distrattamente.<br>Mi ama, di certo. L'astuzia della sua passione<br>mi invita per mezzo di questo rozzo messaggero.<br>Niente anello del mio signore! Ma se non gliene ha mandato alcuno.<br>Sono io l'uomo. Se è così—com'è—<br>povera dama, meglio le sarebbe [[motifs/love\|amare]] [[A Dream\|un sogno]]!<br>Travestimento, io vedo che sei una malvagità<br>in cui il fecondo nemico opera assai.<br>Com'è facile ai belli e falsi<br>imprimere le loro forme nei cerei cuori delle donne!<br>Ahimè, la nostra fragilità n'è la causa, non noi,<br>ché quali siamo fatte, tali siamo.<br>Come andrà a finire? Il mio padrone l'ama teneramente,<br>e io, povero [[archetypes/monster\|mostro]], altrettanto smanio per lui,<br>ed ella, ingannata, par che stravveda per me.<br>Che sarà di tutto questo? In quanto sono uomo,<br>il mio stato è disperato per l'[[motifs/love\|amore]] del mio padrone.<br>In quanto sono donna, ora, ahimè che giorno,<br>quali sospiri infruttuosi esalerà la povera [[characters/olivia\|Olivia]]!<br>Oh [[motifs/time\|tempo]], tocca a te districare questo, non a me.<br>È un nodo troppo duro perché io lo sciolga. Esce |
+| [[characters/viola\|VIOLA]] | (raccogliendo l'anello)<br>Non ho lasciato alcun anello con lei. Che intende questa dama?<br>La sorte non voglia che il mio aspetto l'abbia stregata.<br>Mi guardò ben bene, e davvero tanto<br>che subito mi parve che i suoi occhi le avessero smarrito la lingua,<br>ché parlava a scatti, distrattamente.<br>Mi ama, di certo. L'astuzia della sua passione<br>mi invita per mezzo di questo rozzo messaggero.<br>Niente anello del mio signore! Ma se non gliene ha mandato alcuno.<br>Sono io l'uomo. Se è così—com'è—<br>povera dama, meglio le sarebbe [[motifs/love\|amare]] un sogno!<br>Travestimento, io vedo che sei una malvagità<br>in cui il fecondo nemico opera assai.<br>Com'è facile ai belli e falsi<br>imprimere le loro forme nei cerei cuori delle donne!<br>Ahimè, la nostra fragilità n'è la causa, non noi,<br>ché quali siamo fatte, tali siamo.<br>Come andrà a finire? Il mio padrone l'ama teneramente,<br>e io, povero [[archetypes/monster\|mostro]], altrettanto smanio per lui,<br>ed ella, ingannata, par che stravveda per me.<br>Che sarà di tutto questo? In quanto sono uomo,<br>il mio stato è disperato per l'[[motifs/love\|amore]] del mio padrone.<br>In quanto sono donna, ora, ahimè che giorno,<br>quali sospiri infruttuosi esalerà la povera [[characters/olivia\|Olivia]]!<br>Oh [[motifs/time\|tempo]], tocca a te districare questo, non a me.<br>È un nodo troppo duro perché io lo sciolga. Esce |
 
 ### Atto 2, Scena 3
 
@@ -419,13 +419,13 @@ Musicians, sailors, lords, attendants
 | SER TOBY | Benvenuto, asino. Ora facciamoci una canzone a canone. |
 | SER ANDREW | In fede mia, il [[archetypes/fool\|buffone]] ha un'eccellente ugola. Darei quaranta scellini per avere una gamba simile, e un fiato così dolce nel cantare, come li ha il [[archetypes/fool\|buffone]]. In verità, eri in vena di graziosissime buffonerie la scorsa [[motifs/night\|notte]], quando parlavi di Pigrogromito, dei Vapiani che passano l'equinoziale di Queubus. Era davvero ottima cosa, in [[concepts/faith\|fede]] mia. Ti mandai sei pence per la tua bella. Li avesti? |
 | [[characters/feste\|FESTE]] | Impetticciai la tua gratilità; ché il naso di [[characters/malvolio\|Malvolio]] non è un manico di frusta. La mia signora ha una mano bianca, e i Mirmidoni non sono osterie da birra. |
-| SER ANDREW | Eccellente! Ecco, questa è la miglior buffoneria, a conti fatti. Ora una [[Song\|canzone]]. |
-| SER TOBY | (a [[characters/feste\|Feste]]) Su, ecco sei pence per te. Facciamoci una [[Song\|canzone]]. |
+| SER ANDREW | Eccellente! Ecco, questa è la miglior buffoneria, a conti fatti. Ora una canzone. |
+| SER TOBY | (a [[characters/feste\|Feste]]) Su, ecco sei pence per te. Facciamoci una canzone. |
 | SER ANDREW | (a [[characters/feste\|Feste]]) C'è un testone anche da parte mia. Se un cavaliere dà un— |
-| [[characters/feste\|FESTE]] | Volete una [[Song\|canzone]] d'[[motifs/love\|amore]], o una [[Song\|canzone]] di buona vita? |
-| SER TOBY | Una [[Song\|canzone]] d'[[motifs/love\|amore]], una [[Song\|canzone]] d'[[motifs/love\|amore]]. |
+| [[characters/feste\|FESTE]] | Volete una canzone d'[[motifs/love\|amore]], o una canzone di buona vita? |
+| SER TOBY | Una canzone d'[[motifs/love\|amore]], una canzone d'[[motifs/love\|amore]]. |
 | SER ANDREW | Sì, sì. Della buona vita non m'importa. |
-| [[characters/feste\|FESTE]] | (canta)<br>Oh signora mia, dove vai errando?<br>Oh fermati e ascolta, il tuo vero [[motifs/love\|amore]] sta venendo,<br>colui che sa cantare acuto e grave.<br>Non andar oltre, mia graziosa dolcezza.<br>I viaggi finiscono nell'incontro degli [[lovers\|innamorati]],<br>ogni figlio di saggio lo sa bene. |
+| [[characters/feste\|FESTE]] | (canta)<br>Oh signora mia, dove vai errando?<br>Oh fermati e ascolta, il tuo vero [[motifs/love\|amore]] sta venendo,<br>colui che sa cantare acuto e grave.<br>Non andar oltre, mia graziosa dolcezza.<br>I viaggi finiscono nell'incontro degli innamorati,<br>ogni figlio di saggio lo sa bene. |
 | SER ANDREW | Eccellente davvero, in [[concepts/faith\|fede]] mia. |
 | SER TOBY | Bene, bene. |
 | [[characters/feste\|FESTE]] | Che cos'è l'[[motifs/love\|amore]]? Non è nell'avvenire,<br>l'allegrezza presente ha presente il riso.<br>Ciò che verrà è sempre incerto.<br>Nell'indugio non c'è abbondanza,<br>vieni dunque a baciarmi, dolce e ventenne.<br>La giovinezza è stoffa che non dura. |
@@ -434,7 +434,7 @@ Musicians, sailors, lords, attendants
 | SER ANDREW | Assai dolce e contagioso, in [[concepts/faith\|fede]] mia. |
 | SER TOBY | A udirlo col naso, è dolce nel contagio. Ma vogliamo far davvero [[motifs/dance\|danzare]] la volta celeste? Vogliamo destare la civetta della [[motifs/night\|notte]] con un canone che tragga tre anime da un solo tessitore? Facciamolo? |
 | SER ANDREW | Se mi [[motifs/love\|volete bene]], facciamolo. Sono un cane nei canoni. |
-| [[characters/feste\|FESTE]] | Per la Madonna, signore, e certi [[dogs\|cani]] acchiappano [[motifs/well\|bene]]. |
+| [[characters/feste\|FESTE]] | Per la Madonna, signore, e certi cani acchiappano [[motifs/well\|bene]]. |
 | SER ANDREW | Certissimo. Sia il nostro canone «Tu, furfante». |
 | [[characters/feste\|FESTE]] | «Taci, tu furfante», cavaliere. Vi sarò costretto a chiamarvi furfante, cavaliere. |
 | SER ANDREW | Non è la prima [[motifs/time\|volta]] che costringo qualcuno a chiamarmi furfante. Comincia, [[archetypes/fool\|buffone]]. Comincia con «Taci». |
@@ -448,9 +448,9 @@ Musicians, sailors, lords, attendants
 | SER TOBY | «Il dodicesimo giorno di dicembre»— |
 | [[characters/maria\|MARIA]] | Per l'[[motifs/love\|amor]] di Dio, silenzio. |
 | *(didascalia)* | Entra [[characters/malvolio\|Malvolio]] |
-| [[characters/malvolio\|MALVOLIO]] | Signori miei, siete impazziti? O che cosa siete? Non avete senno, creanza, né onestà, da schiamazzare come calderai a quest'[[motifs/time\|ora]] di [[motifs/night\|notte]]? Fate forse una bettola della [[house\|casa]] della mia signora, da strillare i vostri canoni da ciabattini senza alcuna attenuazione o riguardo di voce? Non c'è in voi rispetto di luogo, di persone, né di [[motifs/time\|tempo]]? |
+| [[characters/malvolio\|MALVOLIO]] | Signori miei, siete impazziti? O che cosa siete? Non avete senno, creanza, né onestà, da schiamazzare come calderai a quest'[[motifs/time\|ora]] di [[motifs/night\|notte]]? Fate forse una bettola della casa della mia signora, da strillare i vostri canoni da ciabattini senza alcuna attenuazione o riguardo di voce? Non c'è in voi rispetto di luogo, di persone, né di [[motifs/time\|tempo]]? |
 | SER TOBY | Il [[motifs/time\|tempo]] l'abbiamo tenuto, signore, nei nostri canoni. Impiccati! |
-| [[characters/malvolio\|MALVOLIO]] | Ser Toby, debbo essere schietto con voi. La mia signora m'ha ordinato di dirvi che, benché vi ospiti come suo parente, ella non ha nulla a che fare con i vostri disordini. Se sapete separare voi stesso dai vostri misfatti, siete il benvenuto nella [[house\|casa]]. Se no, e vi piacesse prendere congedo da lei, ella è ben disposta a darvi l'addio. |
+| [[characters/malvolio\|MALVOLIO]] | Ser Toby, debbo essere schietto con voi. La mia signora m'ha ordinato di dirvi che, benché vi ospiti come suo parente, ella non ha nulla a che fare con i vostri disordini. Se sapete separare voi stesso dai vostri misfatti, siete il benvenuto nella casa. Se no, e vi piacesse prendere congedo da lei, ella è ben disposta a darvi l'addio. |
 | SER TOBY | «Addio, caro cuore, poiché debbo andarmene.» |
 | [[characters/maria\|MARIA]] | No, buon ser Toby. |
 | [[characters/feste\|FESTE]] | «I suoi occhi mostrano che i suoi giorni son quasi finiti.» |
@@ -469,7 +469,7 @@ Musicians, sailors, lords, attendants
 | [[characters/maria\|MARIA]] | Andate a scuotervi le orecchie. |
 | SER ANDREW | Sarebbe buona azione quanto bere quando si ha fame sfidarlo in campo e poi mancargli di parola, e farne un [[archetypes/fool\|babbeo]]. |
 | SER TOBY | Fallo, cavaliere. Ti scriverò io una sfida, o gli recherò a voce la tua indignazione. |
-| [[characters/maria\|MARIA]] | Dolce ser Toby, siate paziente per stanotte. Da quando il giovane del Conte è stato oggi con la mia signora, ella è assai fuori di quiete. Quanto a monsieur [[characters/malvolio\|Malvolio]], lasciate fare a me [[Alone\|sola]]. Se non lo canzono fino a farne un proverbio e uno spasso comune, non crediate che io abbia senno abbastanza per stendermi dritta nel mio letto. So che posso farlo. |
+| [[characters/maria\|MARIA]] | Dolce ser Toby, siate paziente per stanotte. Da quando il giovane del Conte è stato oggi con la mia signora, ella è assai fuori di quiete. Quanto a monsieur [[characters/malvolio\|Malvolio]], lasciate fare a me sola. Se non lo canzono fino a farne un proverbio e uno spasso comune, non crediate che io abbia senno abbastanza per stendermi dritta nel mio letto. So che posso farlo. |
 | SER TOBY | Mettici a parte, mettici a parte, dicci qualcosa di lui. |
 | [[characters/maria\|MARIA]] | Perbacco, signore, talvolta è una specie di puritano. |
 | SER ANDREW | Oh, se lo credessi, lo bastonerei come un cane. |
@@ -501,13 +501,13 @@ Musicians, sailors, lords, attendants
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il Duca, [[characters/viola\|Viola]] come Cesario, Curio e altri |
-| [[characters/orsino\|ORSINO]] | Datemi un po' di musica. Or dunque buon giorno, amici.<br>Ora, buon Cesario, solo quel pezzo di [[Song\|canzone]],<br>quell'antica e vetusta [[Song\|canzone]] che udimmo la scorsa [[motifs/night\|notte]].<br>Mi parve che alleviasse molto la mia passione,<br>più delle arie leggere e delle frasi studiate<br>di questi tempi vivaci e dal passo vertiginoso.<br>Su, una sola strofa. |
+| [[characters/orsino\|ORSINO]] | Datemi un po' di musica. Or dunque buon giorno, amici.<br>Ora, buon Cesario, solo quel pezzo di canzone,<br>quell'antica e vetusta canzone che udimmo la scorsa [[motifs/night\|notte]].<br>Mi parve che alleviasse molto la mia passione,<br>più delle arie leggere e delle frasi studiate<br>di questi tempi vivaci e dal passo vertiginoso.<br>Su, una sola strofa. |
 | CURIO | Non è qui, con licenza di vostra signoria, colui che dovrebbe cantarla. |
 | [[characters/orsino\|ORSINO]] | Chi era? |
-| CURIO | [[characters/feste\|Feste]] il giullare, mio signore, un [[archetypes/fool\|buffone]] di cui il padre di madonna [[characters/olivia\|Olivia]] si dilettava molto. È qui per la [[house\|casa]]. |
+| CURIO | [[characters/feste\|Feste]] il giullare, mio signore, un [[archetypes/fool\|buffone]] di cui il padre di madonna [[characters/olivia\|Olivia]] si dilettava molto. È qui per la casa. |
 | [[characters/orsino\|ORSINO]] | Cercalo, e intanto si suoni l'aria. Esce Curio |
 | *(didascalia)* | Suona la musica |
-| [[characters/orsino\|ORSINO]] | (A [[characters/viola\|Viola]]) Vieni qua, ragazzo. Se mai tu [[motifs/love\|amerai]],<br>nei dolci spasimi dell'amore ricordati di me;<br>ché tale quale io sono, tali sono tutti i veri [[lovers\|innamorati]],<br>instabili e volubili in ogni altro moto<br>salvo che nell'immagine costante della creatura<br>che è amata. Come ti piace quest'aria? |
+| [[characters/orsino\|ORSINO]] | (A [[characters/viola\|Viola]]) Vieni qua, ragazzo. Se mai tu [[motifs/love\|amerai]],<br>nei dolci spasimi dell'amore ricordati di me;<br>ché tale quale io sono, tali sono tutti i veri innamorati,<br>instabili e volubili in ogni altro moto<br>salvo che nell'immagine costante della creatura<br>che è amata. Come ti piace quest'aria? |
 | [[characters/viola\|VIOLA]] | Rende un'eco fedele alla sede<br>dove l'[[motifs/love\|amore]] siede in trono. |
 | [[characters/orsino\|ORSINO]] | Parli da maestro.<br>Ne va la mia vita: per giovane che tu sia, il tuo occhio<br>s'è fermato su qualche volto che ama.<br>Non è vero, ragazzo? |
 | [[characters/viola\|VIOLA]] | Un poco, con vostra licenza. |
@@ -520,7 +520,7 @@ Musicians, sailors, lords, attendants
 | [[characters/orsino\|ORSINO]] | Sia dunque il tuo [[motifs/love\|amore]] più giovane di te,<br>o il tuo affetto non potrà reggere alla tensione;<br>ché le donne sono come rose, il cui bel fiore,<br>una volta dischiuso, cade in quella stessa ora. |
 | [[characters/viola\|VIOLA]] | E così sono. Ahimè che siano tali:<br>morire proprio quando giungono a perfezione. |
 | *(didascalia)* | Entrano Curio e [[characters/feste\|Feste]] il buffone |
-| [[characters/orsino\|ORSINO]] | (a [[characters/feste\|Feste]])<br>Oh amico, vieni, la [[Song\|canzone]] che udimmo la scorsa [[motifs/night\|notte]].<br>Notala bene, Cesario: è antica e semplice.<br>Le filatrici e le lavoranti a maglia al sole,<br>e le fanciulle libere che tessono il loro filo coi<br>fuselli,<br>sogliono cantarla. È candida verità,<br>e scherza con l'[[innocence\|innocenza]] dell'[[motifs/love\|amore]],<br>come l'antico tempo. |
+| [[characters/orsino\|ORSINO]] | (a [[characters/feste\|Feste]])<br>Oh amico, vieni, la canzone che udimmo la scorsa [[motifs/night\|notte]].<br>Notala bene, Cesario: è antica e semplice.<br>Le filatrici e le lavoranti a maglia al sole,<br>e le fanciulle libere che tessono il loro filo coi<br>fuselli,<br>sogliono cantarla. È candida verità,<br>e scherza con l'innocenza dell'[[motifs/love\|amore]],<br>come l'antico tempo. |
 | [[characters/feste\|FESTE]] | Siete pronto, signore? |
 | [[characters/orsino\|ORSINO]] | Ti prego, canta. |
 | *(didascalia)* | Musica |
@@ -542,7 +542,7 @@ Musicians, sailors, lords, attendants
 | [[characters/orsino\|ORSINO]] | E qual è la sua [[concepts/history\|storia]]? |
 | [[characters/viola\|VIOLA]] | Un foglio bianco, mio signore. Ella non disse mai il suo [[motifs/love\|amore]],<br>ma lasciò che il segreto, come un verme nel bocciolo,<br>le rodesse la guancia di damasco. Si consumò nel pensiero,<br>e con una verde e gialla [[concepts/melancholy\|malinconia]]<br>sedeva come la pazienza su un monumento,<br>sorridendo al dolore. Non era questo [[motifs/love\|amore]] davvero?<br>Noi uomini possiamo dire di più, giurare di più; ma in verità<br>le nostre apparenze superano la volontà, ché sempre ci mostriamo<br>molti nei voti, ma pochi nell'[[motifs/love\|amore]]. |
 | [[characters/orsino\|ORSINO]] | Ma morì tua sorella del suo [[motifs/love\|amore]], ragazzo mio? |
-| [[characters/viola\|VIOLA]] | Io sono tutte le figlie della [[house\|casa]] di mio padre,<br>e tutti i fratelli pure; eppure non so.<br>Signore, devo andare da questa dama? |
+| [[characters/viola\|VIOLA]] | Io sono tutte le figlie della casa di mio padre,<br>e tutti i fratelli pure; eppure non so.<br>Signore, devo andare da questa dama? |
 | [[characters/orsino\|ORSINO]] | Sì, questo è il tema:<br>da lei in fretta. Dalle questo [[motifs/jewel\|gioiello]]. Dille<br>che il mio [[motifs/love\|amore]] non può cedere il posto, né sopportare rifiuto. |
 | *(didascalia)* | Escono separatamente |
 
@@ -579,7 +579,7 @@ Musicians, sailors, lords, attendants
 | [[characters/malvolio\|MALVOLIO]] | Chiamando i miei ufficiali intorno a me, nella mia veste di velluto a rami, uscito allora da un letto di riposo dove ho lasciato [[characters/olivia\|Olivia]] addormentata— |
 | SER TOBY | [[motifs/fire\|Fuoco]] e zolfo! |
 | FABIANO | Oh silenzio, silenzio. |
-| [[characters/malvolio\|MALVOLIO]] | E poi assumere l'[[Humour\|umore]] dell'autorità e—dopo un contegnoso giro di sguardo, dicendo loro che conosco il mio posto, come vorrei che essi conoscessero il loro—domandare del mio parente Toby. |
+| [[characters/malvolio\|MALVOLIO]] | E poi assumere l'umore dell'autorità e—dopo un contegnoso giro di sguardo, dicendo loro che conosco il mio posto, come vorrei che essi conoscessero il loro—domandare del mio parente Toby. |
 | SER TOBY | Ceppi e catene! |
 | FABIANO | Oh silenzio, silenzio, silenzio, ora, ora. |
 | [[characters/malvolio\|MALVOLIO]] | Sette dei miei uomini con obbediente scatto corrono a cercarlo. Io intanto aggrotto la fronte, e forse [[motifs/wind\|carico]] il mio orologio, o gioco con il mio—(toccandosi la catena) qualche ricco [[motifs/jewel\|gioiello]]. Toby s'avvicina; là mi fa la riverenza. |
@@ -634,7 +634,7 @@ Musicians, sailors, lords, attendants
 | SER ANDREW | (a [[characters/maria\|Maria]]) O anche sul mio? |
 | SER TOBY | (a [[characters/maria\|Maria]]) Devo giocarmi la mia [[concepts/freedom\|libertà]] a tre dadi, e diventare tuo schiavo? |
 | SER ANDREW | (a [[characters/maria\|Maria]]) In [[concepts/faith\|fede]] mia, o anch'io? |
-| SER TOBY | (a [[characters/maria\|Maria]]) Ma come, tu l'hai messo in un tale [[A Dream\|sogno]] che, quando l'immagine di esso lo [[motifs/leaves\|abbandonerà]], dovrà impazzire. |
+| SER TOBY | (a [[characters/maria\|Maria]]) Ma come, tu l'hai messo in un tale sogno che, quando l'immagine di esso lo [[motifs/leaves\|abbandonerà]], dovrà impazzire. |
 | [[characters/maria\|MARIA]] | Suvvia, ma ditemi il vero: fa effetto su di lui? |
 | SER TOBY | Come l'acquavite su una levatrice. |
 | [[characters/maria\|MARIA]] | Se dunque volete vedere i frutti dello spasso, osservate la sua prima comparsa davanti alla mia signora. Verrà da lei in calze gialle, ed è un colore che ella aborre, e con le giarrettiere [[motifs/cross\|incrociate]], una foggia che detesta; e le sorriderà, il che ora sarà così poco confacente alla sua disposizione, dedita com'ella è alla [[concepts/melancholy\|malinconia]], che non potrà che volgerlo in notevole disprezzo. Se volete vederlo, seguitemi. |
@@ -649,7 +649,7 @@ Musicians, sailors, lords, attendants
 | [[characters/viola\|VIOLA]] | Dio ti salvi, amico, e la tua musica. Vivi tu del tuo tamburello? |
 | [[characters/feste\|FESTE]] | No, signore, io vivo presso la chiesa. |
 | [[characters/viola\|VIOLA]] | Sei tu un uomo di chiesa? |
-| [[characters/feste\|FESTE]] | Nulla di simile, signore. Vivo presso la chiesa perché vivo nella mia [[house\|casa]], e la mia [[house\|casa]] sta presso la chiesa. |
+| [[characters/feste\|FESTE]] | Nulla di simile, signore. Vivo presso la chiesa perché vivo nella mia casa, e la mia casa sta presso la chiesa. |
 | [[characters/viola\|VIOLA]] | Così potresti dire che il [[archetypes/king\|re]] giace presso un mendicante, se un mendicante abita vicino a lui; o che la chiesa sta presso il tuo tamburello, se il tuo tamburello sta presso la chiesa. |
 | [[characters/feste\|FESTE]] | L'avete detto, signore. A vedere quest'epoca!—Una frase non è che un guanto di capretto per un buono ingegno: com'è presto voltato il rovescio all'infuori. |
 | [[characters/viola\|VIOLA]] | Certo, questo è vero. Quelli che scherzano troppo finemente con le parole possono presto renderle sfrontate. |
@@ -679,7 +679,7 @@ Musicians, sailors, lords, attendants
 | SER ANDREW | Dieu vous garde, monsieur. |
 | [[characters/viola\|VIOLA]] | Et vous aussi, votre serviteur. |
 | SER ANDREW | Lo [[concepts/hope\|spero]], signore, che voi lo siate; e io sono il vostro. |
-| SER TOBY | Volete affrontare la [[house\|casa]]? Mia nipote desidera che entriate, se il vostro commercio è con lei. |
+| SER TOBY | Volete affrontare la casa? Mia nipote desidera che entriate, se il vostro commercio è con lei. |
 | [[characters/viola\|VIOLA]] | Sono diretto a vostra nipote, signore: voglio dire ch'ella è la meta del mio viaggio. |
 | SER TOBY | Assaggiate le vostre gambe, signore, mettetele in moto. |
 | [[characters/viola\|VIOLA]] | Le mie gambe mi sostengono meglio, signore, di quanto io comprenda che cosa intendiate dicendomi d'assaggiare le mie gambe. |
@@ -713,7 +713,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Vorrei che foste quale io vorrei che foste. |
 | [[characters/viola\|VIOLA]] | Sarebbe meglio, madonna, di ciò che sono?<br>Vorrei che lo fosse, ché ora sono il vostro [[archetypes/fool\|zimbello]]. |
 | [[characters/olivia\|OLIVIA]] | (a parte)<br>Oh, quanta bellezza ha lo sdegno<br>nel disprezzo e nella collera del suo labbro!<br>Una [[concepts/guilt\|colpa]] d'omicidio non si palesa più presto<br>dell'[[motifs/love\|amore]] che vorrebbe restar celato. La [[motifs/night\|notte]] dell'[[motifs/love\|amore]] è [[motifs/noon\|mezzogiorno]].<br>(A [[characters/viola\|Viola]]) Cesario, per le rose di [[motifs/spring\|primavera]],<br>per la verginità, l'[[concepts/honour\|onore]], la [[concepts/truth\|verità]] e ogni cosa,<br>io ti [[motifs/love\|amo]] tanto che, malgrado tutto il tuo [[concepts/pride\|orgoglio]],<br>né ingegno né ragione può celare la mia passione.<br>Non estorcere le tue ragioni da questa clausola:<br>che, poiché io corteggio, tu non abbia ragione di farlo.<br>Ma piuttosto incatena ragione con ragione:<br>[[motifs/love\|amore]] cercato è buono, ma dato senza cercarlo è migliore. |
-| [[characters/viola\|VIOLA]] | Per l'[[innocence\|innocenza]] lo giuro, e per la mia giovinezza,<br>io ho un solo cuore, un solo petto e una sola [[concepts/truth\|verità]],<br>e nessuna donna li possiede, né mai alcuna<br>ne sarà padrona, tranne io [[Alone\|sola]].<br>E così addio, buona madonna. Mai più<br>verrò a deplorare presso di voi le [[motifs/tears\|lacrime]] del mio padrone. |
+| [[characters/viola\|VIOLA]] | Per l'innocenza lo giuro, e per la mia giovinezza,<br>io ho un solo cuore, un solo petto e una sola [[concepts/truth\|verità]],<br>e nessuna donna li possiede, né mai alcuna<br>ne sarà padrona, tranne io sola.<br>E così addio, buona madonna. Mai più<br>verrò a deplorare presso di voi le [[motifs/tears\|lacrime]] del mio padrone. |
 | [[characters/olivia\|OLIVIA]] | Tornate però ancora, ché forse potreste muovere<br>quel cuore che ora aborre, a gradire il suo [[motifs/love\|amore]]. |
 | *(didascalia)* | Escono |
 | *(didascalia)* | separatamente |
@@ -826,14 +826,14 @@ Musicians, sailors, lords, attendants
 | [[characters/malvolio\|MALVOLIO]] | Andatevene, vi scarto. Lasciate ch'io goda del mio privato. Andatevene. |
 | [[characters/maria\|MARIA]] | Ecco, come parla cavernoso il demonio dentro di lui. Non ve l'avevo detto? Ser Toby, madonna vi prega d'aver cura di lui. |
 | [[characters/malvolio\|MALVOLIO]] | Ahah, fa così? |
-| SER TOBY | Suvvia, suvvia. Pace, pace, dobbiamo trattarlo con dolcezza. Lasciatemi [[Alone\|solo]]. Come state, [[characters/malvolio\|Malvolio]]? Come va? Ma via, uomo, sfida il diavolo. Considera, egli è nemico del genere umano. |
+| SER TOBY | Suvvia, suvvia. Pace, pace, dobbiamo trattarlo con dolcezza. Lasciatemi solo. Come state, [[characters/malvolio\|Malvolio]]? Come va? Ma via, uomo, sfida il diavolo. Considera, egli è nemico del genere umano. |
 | [[characters/malvolio\|MALVOLIO]] | Sapete quel che dite? |
 | [[characters/maria\|MARIA]] | Ecco a voi, se parlate male del diavolo, come se la prende a cuore. Voglia Dio che non sia stregato. |
 | FABIANO | Portate la sua [[motifs/water\|acqua]] alla donna saggia. |
 | [[characters/maria\|MARIA]] | Perbacco, e sarà fatto domattina, s'io vivo. Madonna non lo perderebbe per più di quanto io sappia dire. |
 | [[characters/malvolio\|MALVOLIO]] | Ebbene, padroncina? |
 | [[characters/maria\|MARIA]] | Oh Signore! |
-| SER TOBY | Ti prego, taci, non è questa la via. Non vedi che lo agiti? Lasciatemi [[Alone\|solo]] con lui. |
+| SER TOBY | Ti prego, taci, non è questa la via. Non vedi che lo agiti? Lasciatemi solo con lui. |
 | FABIANO | Nessuna via se non la dolcezza, piano, piano. Il demonio è ruvido, e non vuol essere trattato ruvidamente. |
 | SER TOBY | Ebbene, mio galletto? Come stai, pulcino? |
 | [[characters/malvolio\|MALVOLIO]] | Signore! |
@@ -847,7 +847,7 @@ Musicians, sailors, lords, attendants
 | SER TOBY | Il suo stesso spirito ha preso l'infezione della burla, uomo. |
 | [[characters/maria\|MARIA]] | No, inseguitelo ora, ché la burla non pigli aria e si guasti. |
 | FABIANO | Ma allora lo faremo impazzire davvero. |
-| [[characters/maria\|MARIA]] | La [[house\|casa]] sarà più tranquilla. |
+| [[characters/maria\|MARIA]] | La casa sarà più tranquilla. |
 | SER TOBY | Venite, lo metteremo in una stanza buia e legato. Mia nipote è già nella convinzione che sia pazzo. Possiamo tirarla avanti così per nostro piacere e sua penitenza, finché il nostro stesso passatempo, sfiatato di stanchezza, non ci induca ad aver [[concepts/mercy\|pietà]] di lui, al qual [[motifs/time\|tempo]] porteremo la burla in tribunale e ti [[motifs/crown\|incoroneremo]] scopritrice di pazzi. Ma guarda, ma guarda. |
 | *(didascalia)* | Entra Ser Andrew con un foglio |
 | FABIANO | Altra materia per una mattina di maggio. |
@@ -867,7 +867,7 @@ Musicians, sailors, lords, attendants
 | SER TOBY | «Sta' [[motifs/well\|bene]], e Dio abbia [[concepts/mercy\|pietà]] d'una delle nostre anime. Può darsi ch'egli abbia [[concepts/mercy\|pietà]] della mia, ma la mia [[concepts/hope\|speranza]] è migliore, e dunque bada a te. Tuo amico secondo come lo tratti, e tuo giurato nemico,<br>Andrew Aguecheek.»<br>Se questa lettera non lo smuove, le sue gambe non possono. Gliela darò. |
 | [[characters/maria\|MARIA]] | Potete averne occasione assai adatta. È ora in qualche colloquio con madonna, e fra poco partirà. |
 | SER TOBY | Va', Ser Andrew. Fammi la spia per lui all'angolo del frutteto come un birro. Appena lo vedi, sguaina, e mentre sguaini, bestemmia orribilmente, ché accade spesso che un giuramento terribile, sparato con accento spaccone e vibrato aspramente, dia alla virilità più approvazione di quanta la prova stessa gliene avrebbe mai guadagnata. Via. |
-| SER ANDREW | No, quanto al bestemmiare, lasciatemi [[Alone\|solo]]. |
+| SER ANDREW | No, quanto al bestemmiare, lasciatemi solo. |
 | *(didascalia)* | Esce |
 | SER TOBY | Ora io non consegnerò la sua lettera, ché il contegno del giovane gentiluomo lo mostra di buona capacità ed educazione. Il suo incarico fra il suo signore e mia nipote non conferma di meno. Perciò questa lettera, essendo così eccellentemente ignorante, non genererà terrore nel giovane. S'accorgerà che viene da uno zuccone. Ma, signore, io consegnerò la sua sfida a voce, appiopperò ad Aguecheek una notevole fama di valore, e spingerò il gentiluomo—giacché so che la sua giovinezza l'accoglierà prontamente—a un'opinione spaventosissima della sua rabbia, abilità, furia e impetuosità. Questo li spaventerà entrambi tanto che si uccideranno l'un l'altro con lo sguardo, come basilischi. |
 | *(didascalia)* | Entrano [[characters/olivia\|Olivia]], e [[characters/viola\|Viola]] come Cesario |
@@ -890,8 +890,8 @@ Musicians, sailors, lords, attendants
 | SER TOBY | Troverete che è altrimenti, ve l'assicuro. Perciò, se tenete la vostra vita a qualche prezzo, mettetevi in guardia, ché il vostro avversario ha in sé quanto giovinezza, forza, abilità e ira possono fornire a un uomo. |
 | [[characters/viola\|VIOLA]] | Vi prego, signore, chi è? |
 | SER TOBY | È cavaliere fatto con spadino non ancora tinto e per considerazioni da tappeto, ma è un diavolo nelle risse private. Anime e corpi ne ha divorziati tre, e il suo furore in questo momento è così implacabile che non v'è soddisfazione se non con spasimi di [[motifs/death\|morte]] e sepolcro. «O tutto o niente» è la sua parola: dalla o prendila. |
-| [[characters/viola\|VIOLA]] | Rientrerò nella [[house\|casa]] e [[motifs/desire\|chiederò]] qualche scorta alla dama. Non sono un combattente. Ho sentito di certi uomini che attaccano brighe di proposito con altri, per saggiarne il valore. Forse costui è un uomo di quella fatta. |
-| SER TOBY | Signore, no. La sua indignazione deriva da un'offesa assai fondata, perciò andate avanti, e dategli il suo [[motifs/desire\|desiderio]]. Alla [[house\|casa]] non tornerete, se non intraprendete con me quello che con altrettanta sicurezza potreste sostenere con lui. Perciò avanti, o snudate la vostra [[Sword\|spada]] tutta nuda, ché battervi dovete, questo è certo, o rinunciare a portar ferro addosso. |
+| [[characters/viola\|VIOLA]] | Rientrerò nella casa e [[motifs/desire\|chiederò]] qualche scorta alla dama. Non sono un combattente. Ho sentito di certi uomini che attaccano brighe di proposito con altri, per saggiarne il valore. Forse costui è un uomo di quella fatta. |
+| SER TOBY | Signore, no. La sua indignazione deriva da un'offesa assai fondata, perciò andate avanti, e dategli il suo [[motifs/desire\|desiderio]]. Alla casa non tornerete, se non intraprendete con me quello che con altrettanta sicurezza potreste sostenere con lui. Perciò avanti, o snudate la vostra spada tutta nuda, ché battervi dovete, questo è certo, o rinunciare a portar ferro addosso. |
 | [[characters/viola\|VIOLA]] | Questo è tanto scortese quanto strano. Vi supplico, fatemi questo cortese ufficio: di sapere dal cavaliere quale sia la mia offesa verso di lui. È qualcosa della mia negligenza, nulla del mio proposito. |
 | SER TOBY | Così farò. Signor Fabiano, restate voi presso questo gentiluomo fino al mio ritorno. Esce |
 | [[characters/viola\|VIOLA]] | Vi prego, signore, sapete voi di questa faccenda? |
@@ -915,14 +915,14 @@ Musicians, sailors, lords, attendants
 | SER ANDREW | Voglia Dio che mantenga il giuramento. |
 | *(didascalia)* | Entra [[characters/antonio\|Antonio]] |
 | [[characters/viola\|VIOLA]] | V'assicuro che è contro la mia volontà.<br>Ser Andrew e [[characters/viola\|Viola]] sguainano le spade |
-| [[characters/antonio\|ANTONIO]] | (sguainando la [[Sword\|spada]], a Ser Andrew)<br>Riponete la vostra [[Sword\|spada]]. Se questo giovane gentiluomo<br>ha fatto offesa, ne prendo su di me la colpa.<br>Se voi offendete lui, io per lui vi sfido. |
+| [[characters/antonio\|ANTONIO]] | (sguainando la spada, a Ser Andrew)<br>Riponete la vostra spada. Se questo giovane gentiluomo<br>ha fatto offesa, ne prendo su di me la colpa.<br>Se voi offendete lui, io per lui vi sfido. |
 | SER TOBY | Voi, signore? Ma chi siete? |
 | [[characters/antonio\|ANTONIO]] | Uno, signore, che per il suo [[motifs/love\|amore]] osa fare ancor più<br>di quanto l'avete udito vantarsi con voi che farà. |
-| SER TOBY | (sguainando la [[Sword\|spada]]) Ebbene, se siete un mallevadore,<br>io sono per voi. |
+| SER TOBY | (sguainando la spada) Ebbene, se siete un mallevadore,<br>io sono per voi. |
 | *(didascalia)* | Entrano gli Ufficiali |
 | FABIANO | Oh, buon Ser Toby, fermatevi. Ecco che vengono gli ufficiali. |
 | SER TOBY | (a [[characters/antonio\|Antonio]]) Sarò con voi fra poco. |
-| [[characters/viola\|VIOLA]] | (a Ser Andrew) Vi prego, signore, riponete la vostra [[Sword\|spada]], se vi piace. |
+| [[characters/viola\|VIOLA]] | (a Ser Andrew) Vi prego, signore, riponete la vostra spada, se vi piace. |
 | SER ANDREW | Perbacco sì, signore, e quanto a ciò che v'ho promesso, terrò la parola. Vi porterà facilmente, e obbedisce [[motifs/well\|bene]] alle redini.<br>Ser Andrew e [[characters/viola\|Viola]] ripongono le spade |
 | PRIMO UFFICIALE | Questo è l'uomo, fa' il tuo ufficio. |
 | SECONDO UFFICIALE | [[characters/antonio\|Antonio]], ti arresto su istanza del Conte [[characters/orsino\|Orsino]]. |
@@ -932,7 +932,7 @@ Musicians, sailors, lords, attendants
 | SECONDO UFFICIALE | Venite, signore, via. |
 | [[characters/antonio\|ANTONIO]] | (a [[characters/viola\|Viola]])<br>Devo pregarvi di darmi un po' di quel denaro. |
 | [[characters/viola\|VIOLA]] | Quale denaro, signore?<br>Per la bella gentilezza che qui mi avete mostrato,<br>e in parte spinto dal vostro presente guaio,<br>dalla mia magra e povera facoltà<br>vi presterò qualcosa. Il mio avere non è molto.<br>Farò divisione con voi di quel che ho.<br>Tenete, (offrendo denaro) ecco metà del mio forziere. |
-| [[characters/antonio\|ANTONIO]] | Volete negarmi ora?<br>È possibile che i miei meriti verso di voi<br>manchino di [[Persuasion\|persuasione]]? Non tentate la mia miseria,<br>ché non mi renda uomo tanto malfermo<br>da rinfacciarvi quelle gentilezze<br>che ho fatto per voi. |
+| [[characters/antonio\|ANTONIO]] | Volete negarmi ora?<br>È possibile che i miei meriti verso di voi<br>manchino di persuasione? Non tentate la mia miseria,<br>ché non mi renda uomo tanto malfermo<br>da rinfacciarvi quelle gentilezze<br>che ho fatto per voi. |
 | [[characters/viola\|VIOLA]] | Non ne conosco alcuna,<br>né conosco voi per voce, o per alcun tratto.<br>Odio l'ingratitudine più in un uomo<br>della menzogna, della vanità, della ciarliera ubriachezza,<br>o d'ogni macchia di vizio la cui forte corruzione<br>abita il nostro fragile [[motifs/blood\|sangue]]. |
 | [[characters/antonio\|ANTONIO]] | Oh cieli stessi! |
 | SECONDO UFFICIALE | Venite, signore, vi prego, andiamo. |
@@ -948,7 +948,7 @@ Musicians, sailors, lords, attendants
 | SER TOBY | (a Ser Andrew) Un ragazzo assai disonesto, meschino, e più codardo d'una lepre. La sua disonestà appare nell'abbandonare qui l'amico nel bisogno, e nel rinnegarlo; e quanto alla sua codardia, chiedete a Fabiano. |
 | FABIANO | Un codardo, un codardo devotissimo, religioso in ciò. |
 | SER ANDREW | Per Dio, gli correrò dietro di nuovo, e lo picchierò. |
-| SER TOBY | Fallo, sgrugnalo di santa ragione, ma non sguainare mai la tua [[Sword\|spada]]. |
+| SER TOBY | Fallo, sgrugnalo di santa ragione, ma non sguainare mai la tua spada. |
 | SER ANDREW | E se non lo faccio— |
 | *(didascalia)* | Esce |
 | FABIANO | Venite, vediamo l'esito. |
@@ -970,21 +970,21 @@ Musicians, sailors, lords, attendants
 | *(didascalia)* | Entrano Ser Andrew, Ser Toby e Fabiano |
 | SER ANDREW | (a [[characters/sebastian\|Sebastiano]]) Ebbene, signore, v'ho ritrovato?<br>(Colpendolo) Ecco per voi. |
 | [[characters/sebastian\|SEBASTIANO]] | [colpendo Ser Andrew col suo<br>pugnale]<br>Ecco allora per te, e qui, e qui.<br>Sono tutti pazzi, costoro? |
-| SER TOBY | (a [[characters/sebastian\|Sebastiano]], trattenendolo) Fermo, signore, o vi getto il pugnale sopra la [[house\|casa]]. |
+| SER TOBY | (a [[characters/sebastian\|Sebastiano]], trattenendolo) Fermo, signore, o vi getto il pugnale sopra la casa. |
 | [[characters/feste\|FESTE]] | Questo lo dirò subito alla mia signora, non vorrei essere nei panni di qualcuno di voi per due soldi. Esce |
 | SER TOBY | Andiamo, signore, fermatevi. |
-| SER ANDREW | No, lasciatelo [[Alone\|stare]], andrò per un'altra via a sbrigarmela con lui. Gli farò causa per percosse, se c'è legge alcuna in Illiria. Benché io l'abbia colpito per primo, questo non importa nulla. |
+| SER ANDREW | No, lasciatelo stare, andrò per un'altra via a sbrigarmela con lui. Gli farò causa per percosse, se c'è legge alcuna in Illiria. Benché io l'abbia colpito per primo, questo non importa nulla. |
 | [[characters/sebastian\|SEBASTIANO]] | Lascia la tua mano. |
 | SER TOBY | Su, signore, non vi lascerò andare. Su, mio giovane soldato, riponete il vostro ferro. Siete [[motifs/well\|ben]] pasciuto di carne. Andiamo. |
-| [[characters/sebastian\|SEBASTIANO]] | (liberandosi)<br>Voglio essere libero da te. Che vorresti ora?<br>Se osi tentarmi ancora, sguaina la tua [[Sword\|spada]]. |
+| [[characters/sebastian\|SEBASTIANO]] | (liberandosi)<br>Voglio essere libero da te. Che vorresti ora?<br>Se osi tentarmi ancora, sguaina la tua spada. |
 | SER TOBY | Come, come? No, allora devo cavarvi un'oncia o due di questo [[motifs/blood\|sangue]] impertinente.<br>Ser Toby e [[characters/sebastian\|Sebastiano]] sguainano le spade. |
 | *(didascalia)* | Entra [[characters/olivia\|Olivia]] |
 | [[characters/olivia\|OLIVIA]] | Fermo, Toby, sulla tua vita t'ingiungo di fermarti. |
 | SER TOBY | Madonna. |
 | [[characters/olivia\|OLIVIA]] | Sarà sempre così? Sciagurato senza grazia,<br>fatto per le [[settings/mountains\|montagne]] e le caverne barbare,<br>dove mai furono predicate le buone maniere—via dai miei occhi! Non v'offendete, caro Cesario.<br>(A Ser Toby) Villanzone, vattene. |
 | *(didascalia)* | Escono Ser Toby, Ser Andrew e Fabiano |
-| [[characters/olivia\|OLIVIA]] | Ti prego, gentile amico,<br>che sia la tua bella saggezza, non la tua passione, a governare<br>in questa incivile e ingiusta violenza<br>contro la tua pace. Vieni con me alla mia [[house\|casa]],<br>e odi là quante infruttuose bravate<br>abbia rabberciato questo malandrino, sicché tu perciò<br>possa sorridere di questa. Non puoi far altro che venire.<br>Non rifiutare. Sia maledetta la sua [[motifs/soul\|anima]] per causa mia,<br>egli ha atterrito in te un mio povero cuore. |
-| [[characters/sebastian\|SEBASTIANO]] | Che sapore ha questo? Come corre la corrente?<br>O io son pazzo, oppure questo è [[A Dream\|un sogno]].<br>Che la fantasia immerga i miei sensi nel Lete.<br>Se sognare è così, ch'io continui a [[motifs/sleep\|dormire]]. |
+| [[characters/olivia\|OLIVIA]] | Ti prego, gentile amico,<br>che sia la tua bella saggezza, non la tua passione, a governare<br>in questa incivile e ingiusta violenza<br>contro la tua pace. Vieni con me alla mia casa,<br>e odi là quante infruttuose bravate<br>abbia rabberciato questo malandrino, sicché tu perciò<br>possa sorridere di questa. Non puoi far altro che venire.<br>Non rifiutare. Sia maledetta la sua [[motifs/soul\|anima]] per causa mia,<br>egli ha atterrito in te un mio povero cuore. |
+| [[characters/sebastian\|SEBASTIANO]] | Che sapore ha questo? Come corre la corrente?<br>O io son pazzo, oppure questo è un sogno.<br>Che la fantasia immerga i miei sensi nel Lete.<br>Se sognare è così, ch'io continui a [[motifs/sleep\|dormire]]. |
 | [[characters/olivia\|OLIVIA]] | Suvvia, vieni, ti prego, vorrei che ti lasciassi guidare da me. |
 | [[characters/sebastian\|SEBASTIANO]] | Madonna, lo farò. |
 | [[characters/olivia\|OLIVIA]] | Oh, dillo, e così sia. |
@@ -1009,12 +1009,12 @@ Musicians, sailors, lords, attendants
 | [[characters/feste\|FESTE]] | Via, demonio iperbolico, come tormenti quest'uomo! Non parli d'altro che di dame? |
 | SER TOBY | [[motifs/well\|Ben]] detto, signor Parroco. |
 | [[characters/malvolio\|MALVOLIO]] | Ser Topas, mai uomo fu offeso a questo modo. Buon Ser Topas, non crediate che io sia pazzo. Mi hanno messo qui in un'orrenda tenebra. |
-| [[characters/feste\|FESTE]] | Vergogna, [[characters/satan\|Satana]] disonesto—ti chiamo coi termini più modesti, ché io sono di quei gentili che tratteranno con cortesia il diavolo in persona. Dici tu che quella [[house\|casa]] è buia? |
+| [[characters/feste\|FESTE]] | Vergogna, [[characters/satan\|Satana]] disonesto—ti chiamo coi termini più modesti, ché io sono di quei gentili che tratteranno con cortesia il diavolo in persona. Dici tu che quella casa è buia? |
 | [[characters/malvolio\|MALVOLIO]] | Come l'inferno, Ser Topas. |
 | [[characters/feste\|FESTE]] | Ma via, essa ha finestre a bovindo trasparenti come barricate, e i lucernari verso il sud-nord sono lucenti come l'ebano, e tu ti lamenti ancora d'ostruzione? |
-| [[characters/malvolio\|MALVOLIO]] | Non sono pazzo, Ser Topas; vi dico che questa [[house\|casa]] è buia. |
+| [[characters/malvolio\|MALVOLIO]] | Non sono pazzo, Ser Topas; vi dico che questa casa è buia. |
 | [[characters/feste\|FESTE]] | Pazzo, tu erri. Io dico che non c'è tenebra se non l'ignoranza, nella quale tu sei più smarrito che gli Egiziani nella loro nebbia. |
-| [[characters/malvolio\|MALVOLIO]] | Io dico che questa [[house\|casa]] è buia come l'ignoranza, quand'anche l'ignoranza fosse buia come l'inferno; e dico che mai uomo fu abusato a questo modo. Non sono più pazzo di voi. Fatene la prova con qualunque domanda sensata. |
+| [[characters/malvolio\|MALVOLIO]] | Io dico che questa casa è buia come l'ignoranza, quand'anche l'ignoranza fosse buia come l'inferno; e dico che mai uomo fu abusato a questo modo. Non sono più pazzo di voi. Fatene la prova con qualunque domanda sensata. |
 | [[characters/feste\|FESTE]] | Qual è l'opinione di Pitagora intorno alla selvaggina alata? |
 | [[characters/malvolio\|MALVOLIO]] | Che l'[[motifs/soul\|anima]] di nostra nonna potrebbe per caso abitare in un uccello. |
 | [[characters/feste\|FESTE]] | Che pensi tu della sua opinione? |
@@ -1059,7 +1059,7 @@ Musicians, sailors, lords, attendants
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra [[characters/sebastian\|Sebastiano]] |
-| [[characters/sebastian\|SEBASTIANO]] | Questa è l'aria, quello è il sole glorioso.<br>Questa perla ella me la diede, io la sento e la vedo,<br>e benché sia [[concepts/wonder\|meraviglia]] ciò che così mi avvolge,<br>pure non è [[concepts/madness\|follia]]. Dov'è dunque [[characters/antonio\|Antonio]]?<br>Non ho potuto trovarlo all'Elefante,<br>eppure là era stato, e là trovai questa notizia,<br>che aveva battuto la città per cercarmi.<br>Il suo consiglio ora mi renderebbe aureo servizio,<br>ché, benché la mia [[motifs/soul\|anima]] disputi [[motifs/well\|bene]] col mio senso<br>che questo possa essere qualche errore ma non [[concepts/madness\|follia]],<br>pure questo accidente e questa piena di fortuna<br>eccedono tanto ogni esempio, ogni discorso,<br>che sono pronto a diffidare dei miei occhi<br>e a contendere con la mia ragione, che mi persuade<br>a qualunque altra credenza fuorché ch'io sia pazzo,<br>oppure è pazza la dama. Eppure, se fosse così,<br>ella non potrebbe reggere la sua [[house\|casa]], comandare i suoi<br>seguaci,<br>prendere e restituire gli affari e il loro sbrigo<br>con un portamento così liscio, discreto e saldo<br>come m'accorgo che fa. C'è in questo qualcosa<br>che è ingannevole. Ma ecco che viene la dama. |
+| [[characters/sebastian\|SEBASTIANO]] | Questa è l'aria, quello è il sole glorioso.<br>Questa perla ella me la diede, io la sento e la vedo,<br>e benché sia [[concepts/wonder\|meraviglia]] ciò che così mi avvolge,<br>pure non è [[concepts/madness\|follia]]. Dov'è dunque [[characters/antonio\|Antonio]]?<br>Non ho potuto trovarlo all'Elefante,<br>eppure là era stato, e là trovai questa notizia,<br>che aveva battuto la città per cercarmi.<br>Il suo consiglio ora mi renderebbe aureo servizio,<br>ché, benché la mia [[motifs/soul\|anima]] disputi [[motifs/well\|bene]] col mio senso<br>che questo possa essere qualche errore ma non [[concepts/madness\|follia]],<br>pure questo accidente e questa piena di fortuna<br>eccedono tanto ogni esempio, ogni discorso,<br>che sono pronto a diffidare dei miei occhi<br>e a contendere con la mia ragione, che mi persuade<br>a qualunque altra credenza fuorché ch'io sia pazzo,<br>oppure è pazza la dama. Eppure, se fosse così,<br>ella non potrebbe reggere la sua casa, comandare i suoi<br>seguaci,<br>prendere e restituire gli affari e il loro sbrigo<br>con un portamento così liscio, discreto e saldo<br>come m'accorgo che fa. C'è in questo qualcosa<br>che è ingannevole. Ma ecco che viene la dama. |
 | *(didascalia)* | Entrano [[characters/olivia\|Olivia]] e un Prete |
 | [[characters/olivia\|OLIVIA]] | Non biasimate questa mia fretta. Se le vostre intenzioni sono [[motifs/well\|buone]],<br>venite ora con me, e con questo sant'uomo,<br>nella cappella qui presso. Là davanti a lui,<br>e sotto quel tetto consacrato,<br>datemi in pegno la piena assicurazione della vostra [[concepts/faith\|fede]],<br>sicché la mia gelosissima e troppo dubbiosa [[motifs/soul\|anima]]<br>possa vivere in pace. Egli lo terrà celato<br>finché non vorrete che venga risaputo,<br>al qual [[motifs/time\|tempo]] terremo la nostra celebrazione<br>secondo la mia nascita. Che ne dite? |
 | [[characters/sebastian\|SEBASTIANO]] | Seguirò questo buon uomo, e verrò con voi,<br>e avendo giurato la [[concepts/truth\|verità]], sarò per sempre fedele. |
@@ -1091,7 +1091,7 @@ Musicians, sailors, lords, attendants
 | [[characters/orsino\|ORSINO]] | Oh, mi date cattivo consiglio. |
 | [[characters/feste\|FESTE]] | Mettetevi la grazia in tasca, signore, per questa volta, e che la vostra carne e il vostro [[motifs/blood\|sangue]] le obbediscano. |
 | [[characters/orsino\|ORSINO]] | [[motifs/well\|Bene]], sarò tanto peccatore da fare il [[topoi/double\|doppio]] gioco. (Dandogli denaro) Eccone un altro. |
-| [[characters/feste\|FESTE]] | Primo, secundo, tertio è un buon gioco, e il vecchio detto dice: «Il terzo paga per tutti». Il tempo ternario, signore, è una buona misura da ballo, oppure [[The Bells\|le campane]] di San Benedetto, signore, possono ricordarvelo—«uno, due, tre». |
+| [[characters/feste\|FESTE]] | Primo, secundo, tertio è un buon gioco, e il vecchio detto dice: «Il terzo paga per tutti». Il tempo ternario, signore, è una buona misura da ballo, oppure le campane di San Benedetto, signore, possono ricordarvelo—«uno, due, tre». |
 | [[characters/orsino\|ORSINO]] | Non potete [[archetypes/fool\|buffoneggiare]] per cavarmi altro denaro a questo tiro. Se volete far sapere alla vostra signora che sono qui per parlarle, e condurla qui con voi, ciò potrà risvegliare ancora la mia generosità. |
 | [[characters/feste\|FESTE]] | Perbacco, signore, ninna nanna alla vostra generosità finché non ritorno. Vado, signore, ma non vorrei che pensaste che il mio [[motifs/desire\|desiderio]] di avere sia il peccato di cupidigia. Ma come dite voi, signore, lasciate che la vostra generosità faccia un sonnellino, io la risveglierò fra poco. |
 | *(didascalia)* | Esce |
@@ -1145,7 +1145,7 @@ Musicians, sailors, lords, attendants
 | SER ANDREW | Il gentiluomo del Conte, un certo Cesario. L'avevamo preso per un codardo, ma è il diavolo incardinato. |
 | [[characters/orsino\|ORSINO]] | Il mio gentiluomo, Cesario? |
 | SER ANDREW | Per la vita di Dio, eccolo qui. (A [[characters/viola\|Viola]]) M'avete spaccato la testa per nulla, e quel che ho fatto io, fui aizzato a farlo da Ser Toby. |
-| [[characters/viola\|VIOLA]] | Perché parlate a me? Non v'ho mai fatto male.<br>Sguainaste la vostra [[Sword\|spada]] contro di me senza causa,<br>ma io vi parlai cortesemente, e non vi feci male. |
+| [[characters/viola\|VIOLA]] | Perché parlate a me? Non v'ho mai fatto male.<br>Sguainaste la vostra spada contro di me senza causa,<br>ma io vi parlai cortesemente, e non vi feci male. |
 | *(didascalia)* | Entrano Ser Toby e [[characters/feste\|Feste]], il buffone |
 | SER ANDREW | Se una cresta insanguinata è un male, voi m'avete fatto male. Credo che non teniate in nessun conto una cresta insanguinata. Ecco che viene Ser Toby, zoppicando. Ne sentirete altre; ma se non fosse stato nel vino v'avrebbe solleticato in ben altro modo di come ha fatto. |
 | [[characters/orsino\|ORSINO]] | (a Ser Toby)<br>Ebbene, gentiluomo? Come state? |
@@ -1193,7 +1193,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Ha scritto lui questo? |
 | [[characters/feste\|FESTE]] | Sì, madonna. |
 | [[characters/orsino\|ORSINO]] | Questo non sa molto di delirio. |
-| [[characters/olivia\|OLIVIA]] | Fatelo liberare, Fabiano, portatelo qui.<br>Mio signore, se vi piace—pensate ancora a queste<br>cose—<br>di stimarmi [[motifs/well\|buona]] sorella non meno che moglie,<br>un solo giorno [[motifs/crown\|coronerà]] l'alleanza, se vi piace,<br>qui nella mia [[house\|casa]] e a mie proprie spese. |
+| [[characters/olivia\|OLIVIA]] | Fatelo liberare, Fabiano, portatelo qui.<br>Mio signore, se vi piace—pensate ancora a queste<br>cose—<br>di stimarmi [[motifs/well\|buona]] sorella non meno che moglie,<br>un solo giorno [[motifs/crown\|coronerà]] l'alleanza, se vi piace,<br>qui nella mia casa e a mie proprie spese. |
 | [[characters/orsino\|ORSINO]] | Madonna, sono prontissimo ad abbracciare la vostra offerta.<br>(A [[characters/viola\|Viola]]) Il vostro padrone vi scioglie, e per il servizio<br>resogli<br>tanto contro il temperamento del vostro sesso,<br>tanto al di sotto della vostra dolce e tenera educazione,<br>e poiché m'avete chiamato padrone così a lungo,<br>ecco la mia mano. Sarete da questo [[motifs/time\|tempo]] in poi<br>la padrona del vostro padrone. |
 | [[characters/olivia\|OLIVIA]] | (a [[characters/viola\|Viola]]) Una sorella: voi lo siete. |
 | *(didascalia)* | Entra [[characters/malvolio\|Malvolio]] |
@@ -1201,7 +1201,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Sì, mio signore, proprio lui.<br>Ebbene, [[characters/malvolio\|Malvolio]]? |
 | [[characters/malvolio\|MALVOLIO]] | Madonna, voi m'avete fatto torto,<br>notorio torto. |
 | [[characters/olivia\|OLIVIA]] | L'ho fatto, [[characters/malvolio\|Malvolio]]? No. |
-| [[characters/malvolio\|MALVOLIO]] | (mostrando una lettera)<br>Signora, sì. Vi prego, esaminate quella lettera.<br>Non potete ora negare che sia la vostra scrittura.<br>Scrivete diversamente, se potete, nel tratto o nella frase,<br>o dite che non è il vostro sigillo, non la vostra invenzione.<br>Nulla di questo potete dire. [[motifs/well\|Bene]], ammettetelo dunque,<br>e ditemi, nella modestia dell'[[concepts/honour\|onore]],<br>perché m'avete dato così chiari segni di favore,<br>m'avete ordinato di venire da voi sorridente e con le giarrettiere [[motifs/cross\|incrociate]],<br>d'indossare calze gialle, e d'accigliarmi<br>con Ser Toby e la gente minore,<br>e, mentre facevo questo in obbediente [[concepts/hope\|speranza]],<br>perché avete sofferto ch'io fossi imprigionato,<br>tenuto in una [[house\|casa]] buia, visitato dal prete,<br>e reso il più notorio zimbello e gonzo<br>su cui mai l'inventiva abbia giocato? Ditemi perché. |
+| [[characters/malvolio\|MALVOLIO]] | (mostrando una lettera)<br>Signora, sì. Vi prego, esaminate quella lettera.<br>Non potete ora negare che sia la vostra scrittura.<br>Scrivete diversamente, se potete, nel tratto o nella frase,<br>o dite che non è il vostro sigillo, non la vostra invenzione.<br>Nulla di questo potete dire. [[motifs/well\|Bene]], ammettetelo dunque,<br>e ditemi, nella modestia dell'[[concepts/honour\|onore]],<br>perché m'avete dato così chiari segni di favore,<br>m'avete ordinato di venire da voi sorridente e con le giarrettiere [[motifs/cross\|incrociate]],<br>d'indossare calze gialle, e d'accigliarmi<br>con Ser Toby e la gente minore,<br>e, mentre facevo questo in obbediente [[concepts/hope\|speranza]],<br>perché avete sofferto ch'io fossi imprigionato,<br>tenuto in una casa buia, visitato dal prete,<br>e reso il più notorio zimbello e gonzo<br>su cui mai l'inventiva abbia giocato? Ditemi perché. |
 | [[characters/olivia\|OLIVIA]] | Ahimè, [[characters/malvolio\|Malvolio]], questa non è la mia scrittura,<br>benché confessi che assai le somiglia,<br>ma senza dubbio è la mano di [[characters/maria\|Maria]].<br>E ora che ci ripenso, fu lei<br>a dirmi per prima che eri pazzo; poi tu venisti sorridendo,<br>e in quelle forme che qui t'erano state prescritte<br>nella lettera. Ti prego, sii contento;<br>questa burla t'è stata giocata assai maliziosamente,<br>ma quando conosceremo i motivi e gli autori di essa<br>tu sarai insieme l'attore e il giudice<br>della tua propria causa. |
 | FABIANO | Buona madonna, ascoltatemi,<br>e nessuna lite né rissa a venire<br>guasti la condizione di questa presente ora,<br>di cui io mi sono meravigliato. Nella [[concepts/hope\|speranza]] che non avvenga,<br>confesso liberissimamente che io e Toby<br>ordimmo questa burla contro [[characters/malvolio\|Malvolio]] qui presente<br>per certi tratti ostinati e scortesi<br>che avevamo concepito contro di lui. [[characters/maria\|Maria]] scrisse<br>la lettera, per le grandi insistenze di Ser Toby,<br>in ricompensa di che egli l'ha sposata.<br>Con quale scherzosa malizia la cosa sia stata seguìta<br>può provocare piuttosto il riso che la [[concepts/revenge\|vendetta]],<br>se si soppesano giustamente le offese<br>che dall'una e dall'altra parte son corse. |
 | [[characters/olivia\|OLIVIA]] | (a [[characters/malvolio\|Malvolio]])<br>Ahimè, povero [[archetypes/fool\|sciocco]], come t'hanno beffato! |
@@ -1225,7 +1225,7 @@ Musicians, sailors, lords, attendants
 | *(didascalia)* | Music. Enter [[characters/orsino\|Orsino]] Duke of Illyria, Curio, and other lords |
 | [[characters/orsino\|ORSINO]] | If music be the food of [[motifs/love\|love]], play on,<br>Give me excess of it that, surfeiting,<br>The appetite may sicken and so die.<br>That strain again, it had a dying fall.<br>O, it came o‘er my ear like the sweet sound<br>That breathes upon a bank of violets,<br>Stealing and giving odour. Enough, no more,<br>’Tis not so sweet now as it was before. |
 | *(didascalia)* | Music ceases |
-| [[characters/orsino\|ORSINO]] | O spirit of [[motifs/love\|love]], how quick and fresh art thou<br>That, notwithstanding thy capacity<br>Receiveth as the sea, naught enters there,<br>Of what validity and pitch so e’er,<br>But falls into abatement and low price<br>Even in a minute! So full of shapes is fancy<br>That it [[Alone\|alone]] is high fantastical. |
+| [[characters/orsino\|ORSINO]] | O spirit of [[motifs/love\|love]], how quick and fresh art thou<br>That, notwithstanding thy capacity<br>Receiveth as the sea, naught enters there,<br>Of what validity and pitch so e’er,<br>But falls into abatement and low price<br>Even in a minute! So full of shapes is fancy<br>That it alone is high fantastical. |
 | CURIO | Will you go hunt, my lord? |
 | [[characters/orsino\|ORSINO]] | What, Curio? |
 | CURIO | The hart. |
@@ -1244,7 +1244,7 @@ Musicians, sailors, lords, attendants
 | *(didascalia)* | Musica. Entrano [[characters/orsino\|Orsino]] duca d'Illiria, Curio e altri signori |
 | [[characters/orsino\|ORSINO]] | Se la musica è il cibo dell'[[motifs/love\|amore]], suonate ancora,<br>datemene in eccesso, affinché, saziandosi,<br>l'appetito s'ammali e così muoia.<br>Quella cadenza di nuovo: aveva un morente declinare.<br>Oh, mi giunse all'orecchio come il dolce suono<br>che spira sopra un'aiuola di violette,<br>rubando e donando profumo. Basta, non più,<br>non è più dolce ora come lo era prima. |
 | *(didascalia)* | La musica cessa |
-| [[characters/orsino\|ORSINO]] | Oh spirito d'[[motifs/love\|amore]], quanto sei rapido e fresco!<br>Ché, per quanto la tua capienza<br>accolga al pari del mare, nulla vi entra,<br>di qualsivoglia pregio e altezza,<br>che non decada in scadimento e vil prezzo<br>anche in un solo minuto! Tanto piena di forme è la fantasia<br>che essa [[Alone\|sola]] è altamente fantastica. |
+| [[characters/orsino\|ORSINO]] | Oh spirito d'[[motifs/love\|amore]], quanto sei rapido e fresco!<br>Ché, per quanto la tua capienza<br>accolga al pari del mare, nulla vi entra,<br>di qualsivoglia pregio e altezza,<br>che non decada in scadimento e vil prezzo<br>anche in un solo minuto! Tanto piena di forme è la fantasia<br>che essa sola è altamente fantastica. |
 | CURIO | Volete andare a caccia, mio signore? |
 | [[characters/orsino\|ORSINO]] | Che cosa, Curio? |
 | CURIO | Il cervo. |
@@ -1354,8 +1354,8 @@ Musicians, sailors, lords, attendants
 | SIR TOBY | You mistake, knight. ’Accost’ is front her, board her, woo her, assail her. |
 | SIR ANDREW | By my troth, I would not undertake her in this company. Is that the meaning of ‘accost’? |
 | [[characters/maria\|MARIA]] | Fare you [[motifs/well\|well]], gentlemen. |
-| SIR TOBY | An thou let part so, Sir Andrew, would thou mightst never draw [[Sword\|sword]] again. |
-| SIR ANDREW | An you part so, mistress, I would I might never draw [[Sword\|sword]] again. Fair lady, do you think you have fools in hand? |
+| SIR TOBY | An thou let part so, Sir Andrew, would thou mightst never draw sword again. |
+| SIR ANDREW | An you part so, mistress, I would I might never draw sword again. Fair lady, do you think you have fools in hand? |
 | [[characters/maria\|MARIA]] | Sir, I have not you by th’ hand. |
 | SIR ANDREW | Marry, but you shall have, and here’s my hand. |
 | [[characters/maria\|MARIA]] | (taking his hand) Now sir, thought is free. I pray you, bring your hand to th’ buttery-bar, and let it drink. |
@@ -1430,8 +1430,8 @@ Musicians, sailors, lords, attendants
 | SER TOBY | Vi sbagliate, cavaliere. «Abbordare» vuol dire affrontarla, salirle a bordo, corteggiarla, assalirla. |
 | SER ANDREW | In fede mia, non l'affronterei in questa compagnia. È questo il significato di «abbordare»? |
 | [[characters/maria\|MARIA]] | State [[motifs/well\|bene]], signori. |
-| SER TOBY | Se la lasci andar così, ser Andrew, che tu non possa mai più sguainare la [[Sword\|spada]]. |
-| SER ANDREW | Se ve n'andate così, madonna, vorrei non poter mai più sguainare la [[Sword\|spada]]. Bella dama, credete d'aver degli sciocchi per le mani? |
+| SER TOBY | Se la lasci andar così, ser Andrew, che tu non possa mai più sguainare la spada. |
+| SER ANDREW | Se ve n'andate così, madonna, vorrei non poter mai più sguainare la spada. Bella dama, credete d'aver degli sciocchi per le mani? |
 | [[characters/maria\|MARIA]] | Signore, non ho voi per la mano. |
 | SER ANDREW | Perbacco, ma l'avrete: ecco la mia mano. |
 | [[characters/maria\|MARIA]] | (prendendogli la mano) Ora, signore, il pensiero è libero. Vi prego, portate la vostra mano al banco della dispensa, e fatela bere. |
@@ -1478,7 +1478,7 @@ Musicians, sailors, lords, attendants
 |---|---|
 | *(didascalia)* | Enter [[characters/valentine\|Valentine]], and [[characters/viola\|Viola]] (as Cesario) in man’s attire |
 | [[characters/valentine\|VALENTINE]] | If the Duke continue these favours towards you, Cesario, you are like to be much advanced. He hath known you but three days, and already you are no stranger. |
-| [[characters/viola\|VIOLA]] | You either [[concepts/fear\|fear]] his [[Humour\|humour]] or my negligence, that you call in question the continuance of his [[motifs/love\|love]]. Is he inconstant, sir, in his favours? |
+| [[characters/viola\|VIOLA]] | You either [[concepts/fear\|fear]] his humour or my negligence, that you call in question the continuance of his [[motifs/love\|love]]. Is he inconstant, sir, in his favours? |
 | [[characters/valentine\|VALENTINE]] | No, believe me. |
 | *(didascalia)* | Enter the Duke, Curio, and attendants |
 | [[characters/viola\|VIOLA]] | I thank you. Here comes the Count. |
@@ -1503,7 +1503,7 @@ Musicians, sailors, lords, attendants
 |---|---|
 | *(didascalia)* | Entrano [[characters/valentine\|Valentino]] e [[characters/viola\|Viola]] (come Cesario) in abito maschile |
 | [[characters/valentine\|VALENTINO]] | Se il Duca continua questi favori verso di voi, Cesario, è probabile che sarete molto innalzato. Vi conosce da soli tre giorni, e già non siete più un estraneo. |
-| [[characters/viola\|VIOLA]] | O [[concepts/fear\|temete]] il suo [[Humour\|umore]] o la mia negligenza, se mettete in dubbio la durata del suo [[motifs/love\|affetto]]. È forse incostante, signore, nei suoi favori? |
+| [[characters/viola\|VIOLA]] | O [[concepts/fear\|temete]] il suo umore o la mia negligenza, se mettete in dubbio la durata del suo [[motifs/love\|affetto]]. È forse incostante, signore, nei suoi favori? |
 | [[characters/valentine\|VALENTINO]] | No, credetemi. |
 | *(didascalia)* | Entrano il Duca, Curio e servitori |
 | [[characters/viola\|VIOLA]] | Vi ringrazio. Ecco venire il Conte. |
@@ -1610,13 +1610,13 @@ Musicians, sailors, lords, attendants
 | *(didascalia)* | Enter [[characters/maria\|Maria]] |
 | [[characters/olivia\|OLIVIA]] | Give me my veil. Come, throw it o’er my face.<br>We’ll once more hear [[characters/orsino\|Orsino]]’s embassy. |
 | *(didascalia)* | Enter [[characters/viola\|Viola]] as Cesario |
-| [[characters/viola\|VIOLA]] | The honourable lady of the [[house]], which is she? |
+| [[characters/viola\|VIOLA]] | The honourable lady of the house, which is she? |
 | [[characters/olivia\|OLIVIA]] | Speak to me, I shall answer for her. Your will. |
-| [[characters/viola\|VIOLA]] | Most radiant, exquisite, and unmatchable [[concepts/beauty\|beauty]]. —I pray you, tell me if this be the lady of the [[house]], for I never saw her. I would be loath to cast away my speech, for besides that it is excellently [[motifs/well\|well]] penned, I have taken great pains to con it. Good beauties, let me sustain no scorn; I am very ’countable, even to the least sinister usage. |
+| [[characters/viola\|VIOLA]] | Most radiant, exquisite, and unmatchable [[concepts/beauty\|beauty]]. —I pray you, tell me if this be the lady of the house, for I never saw her. I would be loath to cast away my speech, for besides that it is excellently [[motifs/well\|well]] penned, I have taken great pains to con it. Good beauties, let me sustain no scorn; I am very ’countable, even to the least sinister usage. |
 | [[characters/olivia\|OLIVIA]] | Whence came you, sir? |
-| [[characters/viola\|VIOLA]] | I can say little more than I have studied, and that question’s out of my part. Good gentle one, give me modest assurance if you be the lady of the [[house]], that I may proceed in my speech. |
+| [[characters/viola\|VIOLA]] | I can say little more than I have studied, and that question’s out of my part. Good gentle one, give me modest assurance if you be the lady of the house, that I may proceed in my speech. |
 | [[characters/olivia\|OLIVIA]] | Are you a comedian? |
-| [[characters/viola\|VIOLA]] | No, my profound heart; and yet—by the very fangs of malice I swear—I am not that I play. Are you the lady of the [[house]]? |
+| [[characters/viola\|VIOLA]] | No, my profound heart; and yet—by the very fangs of malice I swear—I am not that I play. Are you the lady of the house? |
 | [[characters/olivia\|OLIVIA]] | If I do not usurp myself, I am. |
 | [[characters/viola\|VIOLA]] | Most certain if you are she you do usurp yourself, for what is yours to bestow is not yours to reserve. But this is from my commission. I will on with my speech in your praise, and then show you the heart of my message. |
 | [[characters/olivia\|OLIVIA]] | Come to what is important in’t, I forgive you the praise. |
@@ -1625,10 +1625,10 @@ Musicians, sailors, lords, attendants
 | [[characters/maria\|MARIA]] | Will you hoist sail, sir? Here lies your way. |
 | [[characters/viola\|VIOLA]] | No, good swabber, I am to hull here a little longer. (To [[characters/olivia\|Olivia]]) Some mollification for your giant, sweet lady. Tell me your mind, I am a messenger. |
 | [[characters/olivia\|OLIVIA]] | Sure, you have some hideous matter to deliver when the courtesy of it is so fearful. Speak your office. |
-| [[characters/viola\|VIOLA]] | It [[Alone\|alone]] concerns your ear. I bring no overture of war, no taxation of homage. I hold the olive in my hand. My words are as full of peace as matter. |
+| [[characters/viola\|VIOLA]] | It alone concerns your ear. I bring no overture of war, no taxation of homage. I hold the olive in my hand. My words are as full of peace as matter. |
 | [[characters/olivia\|OLIVIA]] | Yet you began rudely. What are you? What would you? |
 | [[characters/viola\|VIOLA]] | The rudeness that hath appeared in me have I learned from my entertainment. What I am and what I would are as secret as maidenhead; to your ears, divinity; to any others’, profanation. |
-| *(didascalia)* | [[characters/olivia\|OLIVIA]] (to [[characters/maria\|Maria]] and attendants) Give us the place [[Alone\|alone]], we will hear this divinity. |
+| *(didascalia)* | [[characters/olivia\|OLIVIA]] (to [[characters/maria\|Maria]] and attendants) Give us the place alone, we will hear this divinity. |
 | *(didascalia)* | Exeunt [[characters/maria\|Maria]] and attendants |
 | [[characters/viola\|VIOLA]] | Now sir, what is your text? |
 | [[characters/viola\|VIOLA]] | Most sweet lady— |
@@ -1649,7 +1649,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Your lord does know my mind, I cannot [[motifs/love\|love]] him.<br>Yet I suppose him virtuous, know him noble,<br>Of great estate, of fresh and stainless youth,<br>In voices [[motifs/well\|well]] divulged, free, learned, and valiant,<br>And in dimension and the shape of [[concepts/nature\|nature]]<br>A gracious person; but yet I cannot [[motifs/love\|love]] him.<br>He might have took his answer long ago. |
 | [[characters/viola\|VIOLA]] | If I did [[motifs/love\|love]] you in my master’s flame,<br>With such a suff’ring, such a deadly life,<br>In your denial I would find no sense,<br>I would not understand it. |
 | [[characters/olivia\|OLIVIA]] | Why, what would you? |
-| [[characters/viola\|VIOLA]] | Make me a willow cabin at your gate<br>And call upon my [[motifs/soul\|soul]] within the [[house]],<br>Write loyal cantons of contemnèd [[motifs/love\|love]],<br>And sing them loud even in the dead of [[motifs/night\|night]];<br>Halloo your name to the reverberate hills,<br>And make the babbling gossip of the air<br>Cry out ‘[[characters/olivia\|Olivia]]!’ O, you should not rest<br>Between the elements of air and earth<br>But you should pity me. |
+| [[characters/viola\|VIOLA]] | Make me a willow cabin at your gate<br>And call upon my [[motifs/soul\|soul]] within the house,<br>Write loyal cantons of contemnèd [[motifs/love\|love]],<br>And sing them loud even in the dead of [[motifs/night\|night]];<br>Halloo your name to the reverberate hills,<br>And make the babbling gossip of the air<br>Cry out ‘[[characters/olivia\|Olivia]]!’ O, you should not rest<br>Between the elements of air and earth<br>But you should pity me. |
 | [[characters/olivia\|OLIVIA]] | You might do much.<br>What is your parentage? |
 | [[characters/viola\|VIOLA]] | Above my fortunes, yet my state is [[motifs/well\|well]].<br>I am a gentleman. |
 | [[characters/olivia\|OLIVIA]] | Get you to your lord.<br>I cannot [[motifs/love\|love]] him. Let him send no more,<br>Unless, perchance, you come to me again<br>To tell me how he takes it. Fare you [[motifs/well\|well]].<br>I thank you for your pains. (Offering a purse) Spend<br>this for me. |
@@ -1750,13 +1750,13 @@ Musicians, sailors, lords, attendants
 | *(didascalia)* | Entra [[characters/maria\|Maria]] |
 | [[characters/olivia\|OLIVIA]] | Datemi il mio velo. Su, gettatelo sul mio volto.<br>Udremo ancora una volta l'ambasciata d'[[characters/orsino\|Orsino]]. |
 | *(didascalia)* | Entra [[characters/viola\|Viola]] come Cesario |
-| [[characters/viola\|VIOLA]] | L'onorevole signora di questa [[house\|casa]], qual è? |
+| [[characters/viola\|VIOLA]] | L'onorevole signora di questa casa, qual è? |
 | [[characters/olivia\|OLIVIA]] | Parlate a me, risponderò per lei. Che volete? |
-| [[characters/viola\|VIOLA]] | Radiosissima, squisita e impareggiabile [[concepts/beauty\|bellezza]]. —Vi prego, ditemi se questa è la signora della [[house\|casa]], ché non l'ho mai veduta. Mi spiacerebbe gettar via il mio discorso, poiché, oltre a essere eccellentemente [[motifs/well\|ben]] composto, mi son dato gran pena a impararlo a memoria. Buone bellezze, non fatemi patire scherno; sono assai sensibile, anche al minimo trattamento maligno. |
+| [[characters/viola\|VIOLA]] | Radiosissima, squisita e impareggiabile [[concepts/beauty\|bellezza]]. —Vi prego, ditemi se questa è la signora della casa, ché non l'ho mai veduta. Mi spiacerebbe gettar via il mio discorso, poiché, oltre a essere eccellentemente [[motifs/well\|ben]] composto, mi son dato gran pena a impararlo a memoria. Buone bellezze, non fatemi patire scherno; sono assai sensibile, anche al minimo trattamento maligno. |
 | [[characters/olivia\|OLIVIA]] | Donde venite, signore? |
-| [[characters/viola\|VIOLA]] | Poco posso dire oltre a quel che ho studiato, e quella domanda è fuori della mia parte. Buona e gentile creatura, datemi modesta assicurazione che siete voi la signora della [[house\|casa]], affinché io possa procedere nel mio discorso. |
+| [[characters/viola\|VIOLA]] | Poco posso dire oltre a quel che ho studiato, e quella domanda è fuori della mia parte. Buona e gentile creatura, datemi modesta assicurazione che siete voi la signora della casa, affinché io possa procedere nel mio discorso. |
 | [[characters/olivia\|OLIVIA]] | Siete un commediante? |
-| [[characters/viola\|VIOLA]] | No, mio profondo cuore; e tuttavia—per le zanne stesse della malizia lo giuro—non sono ciò che recito. Siete voi la signora della [[house\|casa]]? |
+| [[characters/viola\|VIOLA]] | No, mio profondo cuore; e tuttavia—per le zanne stesse della malizia lo giuro—non sono ciò che recito. Siete voi la signora della casa? |
 | [[characters/olivia\|OLIVIA]] | Se non usurpo me stessa, lo sono. |
 | [[characters/viola\|VIOLA]] | Certissimamente, se siete lei, usurpate voi stessa; ché ciò che è vostro da donare non è vostro da riservare. Ma questo esula dal mio incarico. Proseguirò col mio discorso in vostra lode, e poi vi mostrerò il cuore del mio messaggio. |
 | [[characters/olivia\|OLIVIA]] | Venite a ciò che v'è d'importante, vi condono la lode. |
@@ -1765,10 +1765,10 @@ Musicians, sailors, lords, attendants
 | [[characters/maria\|MARIA]] | Volete issare le vele, signore? Ecco la vostra strada. |
 | [[characters/viola\|VIOLA]] | No, buon mozzo, debbo restare alla cappa ancora un poco. (A [[characters/olivia\|Olivia]]) Un po' di calmante per il vostro gigante, dolce signora. Ditemi il vostro pensiero: sono un messaggero. |
 | [[characters/olivia\|OLIVIA]] | Certo, avete qualche orribile faccenda da riferire, se la cortesia di essa è tanto spaventosa. Dite il vostro ufficio. |
-| [[characters/viola\|VIOLA]] | Riguarda il vostro orecchio [[Alone\|soltanto]]. Non porto proposta di guerra, né imposizione d'omaggio. Tengo l'ulivo in mano. Le mie parole son piene di pace quanto di sostanza. |
+| [[characters/viola\|VIOLA]] | Riguarda il vostro orecchio soltanto. Non porto proposta di guerra, né imposizione d'omaggio. Tengo l'ulivo in mano. Le mie parole son piene di pace quanto di sostanza. |
 | [[characters/olivia\|OLIVIA]] | Eppure avete cominciato rozzamente. Chi siete? Che volete? |
 | [[characters/viola\|VIOLA]] | La rozzezza che è apparsa in me l'ho appresa dall'accoglienza ricevuta. Ciò che sono e ciò che voglio sono segreti come la verginità; alle vostre orecchie, teologia; a quelle d'altri, profanazione. |
-| *(didascalia)* | [[characters/olivia\|OLIVIA]] (a [[characters/maria\|Maria]] e ai servitori) Lasciateci [[Alone\|soli]], udremo questa teologia. |
+| *(didascalia)* | [[characters/olivia\|OLIVIA]] (a [[characters/maria\|Maria]] e ai servitori) Lasciateci soli, udremo questa teologia. |
 | *(didascalia)* | Escono [[characters/maria\|Maria]] e i servitori |
 | [[characters/viola\|VIOLA]] | Ora, signore, qual è il vostro testo? |
 | [[characters/viola\|VIOLA]] | Dolcissima signora— |
@@ -1789,7 +1789,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Il vostro signore conosce il mio pensiero: non posso [[motifs/love\|amarlo]].<br>Pure lo suppongo virtuoso, lo so nobile,<br>di grande stato, di fresca e immacolata giovinezza,<br>[[motifs/well\|ben]] divulgato dalle voci, libero, dotto e valoroso,<br>e nella statura e nella forma di [[concepts/nature\|natura]]<br>persona graziosa; eppure non posso [[motifs/love\|amarlo]].<br>Poteva avere la sua risposta già da tempo. |
 | [[characters/viola\|VIOLA]] | Se io vi [[motifs/love\|amassi]] con l'ardore del mio padrone,<br>con tale sofferenza, con tale mortale vita,<br>nel vostro rifiuto non troverei alcun senso,<br>non lo comprenderei. |
 | [[characters/olivia\|OLIVIA]] | Ebbene, che fareste? |
-| [[characters/viola\|VIOLA]] | Mi farei una capanna di salice alla vostra porta<br>e chiamerei la mia [[motifs/soul\|anima]] dentro la [[house\|casa]];<br>scriverei leali canzoni d'[[motifs/love\|amore]] disprezzato,<br>e le canterei forte perfino nel cuore della [[motifs/night\|notte]];<br>griderei il vostro nome ai colli riecheggianti,<br>e farei sì che la ciarliera pettegola dell'aria<br>gridasse «[[characters/olivia\|Olivia]]!». Oh, non avreste riposo<br>fra gli elementi dell'aria e della terra<br>senza aver pietà di me. |
+| [[characters/viola\|VIOLA]] | Mi farei una capanna di salice alla vostra porta<br>e chiamerei la mia [[motifs/soul\|anima]] dentro la casa;<br>scriverei leali canzoni d'[[motifs/love\|amore]] disprezzato,<br>e le canterei forte perfino nel cuore della [[motifs/night\|notte]];<br>griderei il vostro nome ai colli riecheggianti,<br>e farei sì che la ciarliera pettegola dell'aria<br>gridasse «[[characters/olivia\|Olivia]]!». Oh, non avreste riposo<br>fra gli elementi dell'aria e della terra<br>senza aver pietà di me. |
 | [[characters/olivia\|OLIVIA]] | Potreste far molto.<br>Qual è il vostro lignaggio? |
 | [[characters/viola\|VIOLA]] | Al di sopra delle mie fortune, pure il mio stato è [[motifs/well\|buono]].<br>Sono un gentiluomo. |
 | [[characters/olivia\|OLIVIA]] | Tornate dal vostro signore.<br>Non posso [[motifs/love\|amarlo]]. Non mandi più nessuno,<br>a meno che, per caso, voi non torniate da me<br>a dirmi come la prende. State [[motifs/well\|bene]].<br>Vi ringrazio per il vostro disturbo. (Offrendogli una borsa) Spendete<br>questo per me. |
@@ -1812,7 +1812,7 @@ Musicians, sailors, lords, attendants
 |---|---|
 | *(didascalia)* | Enter [[characters/antonio\|Antonio]] and [[characters/sebastian\|Sebastian]] |
 | [[characters/antonio\|ANTONIO]] | Will you stay no longer, nor will you not that<br>I go with you? |
-| [[characters/sebastian\|SEBASTIAN]] | By your patience, no. My [[motifs/stars\|stars]] shine darkly over me. The malignancy of my fate might perhaps distemper yours, therefore I shall crave of you your leave that I may bear my evils [[Alone\|alone]]. It were a bad recompense for your [[motifs/love\|love]] to lay any of them on you. |
+| [[characters/sebastian\|SEBASTIAN]] | By your patience, no. My [[motifs/stars\|stars]] shine darkly over me. The malignancy of my fate might perhaps distemper yours, therefore I shall crave of you your leave that I may bear my evils alone. It were a bad recompense for your [[motifs/love\|love]] to lay any of them on you. |
 | [[characters/antonio\|ANTONIO]] | Let me yet know of you whither you are bound. |
 | [[characters/sebastian\|SEBASTIAN]] | No, sooth, sir. My determinate voyage is mere extravagancy. But I perceive in you so excellent a touch of modesty that you will not extort from me what I am willing to keep in. Therefore it charges me in manners the rather to express myself. You must know of me then, [[characters/antonio\|Antonio]], my name is [[characters/sebastian\|Sebastian]], which I called [[characters/roderigo\|Roderigo]]. My father was that [[characters/sebastian\|Sebastian]] of Messaline whom I know you have heard of. He left behind him myself and a sister, both born in an hour. If the heavens had been pleased, would we had so ended. But you, sir, altered that, for some hour before you took me from the breach of the sea was my sister drowned. |
 | [[characters/antonio\|ANTONIO]] | Alas the day! |
@@ -1831,7 +1831,7 @@ Musicians, sailors, lords, attendants
 |---|---|
 | *(didascalia)* | Entrano [[characters/antonio\|Antonio]] e [[characters/sebastian\|Sebastiano]] |
 | [[characters/antonio\|ANTONIO]] | Non volete restare più a lungo, né volete che<br>io venga con voi? |
-| [[characters/sebastian\|SEBASTIANO]] | Con vostra licenza, no. Le mie [[motifs/stars\|stelle]] splendono oscure sopra di me. La malignità del mio destino potrebbe forse turbare il vostro; perciò vi chiederò il permesso di portare i miei mali da [[Alone\|solo]]. Sarebbe una mala ricompensa al vostro [[motifs/love\|affetto]] scaricarne alcuno su di voi. |
+| [[characters/sebastian\|SEBASTIANO]] | Con vostra licenza, no. Le mie [[motifs/stars\|stelle]] splendono oscure sopra di me. La malignità del mio destino potrebbe forse turbare il vostro; perciò vi chiederò il permesso di portare i miei mali da solo. Sarebbe una mala ricompensa al vostro [[motifs/love\|affetto]] scaricarne alcuno su di voi. |
 | [[characters/antonio\|ANTONIO]] | Fatemi almeno sapere dove siete diretto. |
 | [[characters/sebastian\|SEBASTIANO]] | No, in verità, signore. Il viaggio che ho stabilito è pura vagabondaggine. Ma scorgo in voi un tratto di modestia così eccellente che non vorrete estorcermi ciò che io intendo tacere. Perciò la buona creanza mi obbliga tanto più a rivelarmi. Dovete dunque sapere di me, [[characters/antonio\|Antonio]], che il mio nome è [[characters/sebastian\|Sebastiano]], mentre mi facevo chiamare [[characters/roderigo\|Roderigo]]. Mio padre fu quel [[characters/sebastian\|Sebastiano]] di Messalina di cui so che avete sentito parlare. Lasciò dietro di sé me e una sorella, entrambi nati in una stessa ora. Se al cielo fosse piaciuto, così avessimo anche finito. Ma voi, signore, mutaste ciò: perché un'ora circa prima che voi mi traeste dalla furia del mare, mia sorella era annegata. |
 | [[characters/antonio\|ANTONIO]] | Ahimè, che giorno! |
@@ -1856,7 +1856,7 @@ Musicians, sailors, lords, attendants
 | [[characters/malvolio\|MALVOLIO]] | (offering a ring) She returns this ring to you, sir. You might have saved me my pains to have taken it away yourself. She adds, moreover, that you should put your lord into a desperate assurance she will none of him. And one thing more: that you be never so hardy to come again in his affairs, unless it be to report your lord’s taking of this. Receive it so. |
 | [[characters/viola\|VIOLA]] | She took the ring of me. I’ll none of it. |
 | [[characters/malvolio\|MALVOLIO]] | Come, sir, you peevishly threw it to her, and her will is it should be so returned.<br>He throws the ring down<br>If it be worth stooping for, there it lies, in your eye; if<br>not, be it his that finds it. Exit |
-| [[characters/viola\|VIOLA]] | (picking up the ring)<br>I left no ring with her. What means this lady?<br>Fortune forbid my outside have not charmed her.<br>She made good view of me, indeed so much<br>That straight methought her eyes had lost her tongue,<br>For she did speak in starts, distractedly.<br>She loves me, sure. The cunning of her passion<br>Invites me in this churlish messenger.<br>None of my lord’s ring! Why, he sent her none.<br>I am the man. If it be so—as ’tis—<br>Poor lady, she were better [[motifs/love\|love]] [[A Dream\|a dream]]!<br>Disguise, I see thou art a wickedness<br>Wherein the pregnant enemy does much.<br>How easy is it for the proper false<br>In women’s waxen hearts to set their forms!<br>Alas, our frailty is the cause, not we,<br>For such as we are made of, such we be.<br>How will this fadge? My master loves her dearly,<br>And I, poor [[archetypes/monster\|monster]], fond as much on him,<br>And she, mistaken, seems to dote on me.<br>What will become of this? As I am man,<br>My state is desperate for my master’s [[motifs/love\|love]].<br>As I am woman, now, alas the day,<br>What thriftless sighs shall poor [[characters/olivia\|Olivia]] breathe!<br>O [[motifs/time\|time]], thou must untangle this, not I.<br>It is too hard a knot for me t’untie. Exit |
+| [[characters/viola\|VIOLA]] | (picking up the ring)<br>I left no ring with her. What means this lady?<br>Fortune forbid my outside have not charmed her.<br>She made good view of me, indeed so much<br>That straight methought her eyes had lost her tongue,<br>For she did speak in starts, distractedly.<br>She loves me, sure. The cunning of her passion<br>Invites me in this churlish messenger.<br>None of my lord’s ring! Why, he sent her none.<br>I am the man. If it be so—as ’tis—<br>Poor lady, she were better [[motifs/love\|love]] a dream!<br>Disguise, I see thou art a wickedness<br>Wherein the pregnant enemy does much.<br>How easy is it for the proper false<br>In women’s waxen hearts to set their forms!<br>Alas, our frailty is the cause, not we,<br>For such as we are made of, such we be.<br>How will this fadge? My master loves her dearly,<br>And I, poor [[archetypes/monster\|monster]], fond as much on him,<br>And she, mistaken, seems to dote on me.<br>What will become of this? As I am man,<br>My state is desperate for my master’s [[motifs/love\|love]].<br>As I am woman, now, alas the day,<br>What thriftless sighs shall poor [[characters/olivia\|Olivia]] breathe!<br>O [[motifs/time\|time]], thou must untangle this, not I.<br>It is too hard a knot for me t’untie. Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1869,7 +1869,7 @@ Musicians, sailors, lords, attendants
 | [[characters/malvolio\|MALVOLIO]] | (offrendogli un anello) Ella vi restituisce questo anello, signore. Avreste potuto risparmiarmi la fatica portandovelo via voi stesso. Aggiunge, inoltre, che dovreste dare al vostro signore la disperata certezza che ella non ne vuol sapere di lui. E un'altra cosa: che non siate mai tanto temerario da tornare per i suoi affari, se non per riferire come il vostro signore abbia preso la cosa. Ricevetelo dunque così. |
 | [[characters/viola\|VIOLA]] | Fu lei a prendere l'anello da me. Non ne voglio sapere. |
 | [[characters/malvolio\|MALVOLIO]] | Suvvia, signore, gliel'avete gettato con petulanza, ed è sua volontà che vi sia restituito allo stesso modo.<br>Getta a terra l'anello<br>Se val la pena di chinarsi a raccoglierlo, eccolo lì, sotto i vostri occhi; se<br>no, sia di chi lo trova. Esce |
-| [[characters/viola\|VIOLA]] | (raccogliendo l'anello)<br>Non ho lasciato alcun anello con lei. Che intende questa dama?<br>La sorte non voglia che il mio aspetto l'abbia stregata.<br>Mi guardò ben bene, e davvero tanto<br>che subito mi parve che i suoi occhi le avessero smarrito la lingua,<br>ché parlava a scatti, distrattamente.<br>Mi ama, di certo. L'astuzia della sua passione<br>mi invita per mezzo di questo rozzo messaggero.<br>Niente anello del mio signore! Ma se non gliene ha mandato alcuno.<br>Sono io l'uomo. Se è così—com'è—<br>povera dama, meglio le sarebbe [[motifs/love\|amare]] [[A Dream\|un sogno]]!<br>Travestimento, io vedo che sei una malvagità<br>in cui il fecondo nemico opera assai.<br>Com'è facile ai belli e falsi<br>imprimere le loro forme nei cerei cuori delle donne!<br>Ahimè, la nostra fragilità n'è la causa, non noi,<br>ché quali siamo fatte, tali siamo.<br>Come andrà a finire? Il mio padrone l'ama teneramente,<br>e io, povero [[archetypes/monster\|mostro]], altrettanto smanio per lui,<br>ed ella, ingannata, par che stravveda per me.<br>Che sarà di tutto questo? In quanto sono uomo,<br>il mio stato è disperato per l'[[motifs/love\|amore]] del mio padrone.<br>In quanto sono donna, ora, ahimè che giorno,<br>quali sospiri infruttuosi esalerà la povera [[characters/olivia\|Olivia]]!<br>Oh [[motifs/time\|tempo]], tocca a te districare questo, non a me.<br>È un nodo troppo duro perché io lo sciolga. Esce |
+| [[characters/viola\|VIOLA]] | (raccogliendo l'anello)<br>Non ho lasciato alcun anello con lei. Che intende questa dama?<br>La sorte non voglia che il mio aspetto l'abbia stregata.<br>Mi guardò ben bene, e davvero tanto<br>che subito mi parve che i suoi occhi le avessero smarrito la lingua,<br>ché parlava a scatti, distrattamente.<br>Mi ama, di certo. L'astuzia della sua passione<br>mi invita per mezzo di questo rozzo messaggero.<br>Niente anello del mio signore! Ma se non gliene ha mandato alcuno.<br>Sono io l'uomo. Se è così—com'è—<br>povera dama, meglio le sarebbe [[motifs/love\|amare]] un sogno!<br>Travestimento, io vedo che sei una malvagità<br>in cui il fecondo nemico opera assai.<br>Com'è facile ai belli e falsi<br>imprimere le loro forme nei cerei cuori delle donne!<br>Ahimè, la nostra fragilità n'è la causa, non noi,<br>ché quali siamo fatte, tali siamo.<br>Come andrà a finire? Il mio padrone l'ama teneramente,<br>e io, povero [[archetypes/monster\|mostro]], altrettanto smanio per lui,<br>ed ella, ingannata, par che stravveda per me.<br>Che sarà di tutto questo? In quanto sono uomo,<br>il mio stato è disperato per l'[[motifs/love\|amore]] del mio padrone.<br>In quanto sono donna, ora, ahimè che giorno,<br>quali sospiri infruttuosi esalerà la povera [[characters/olivia\|Olivia]]!<br>Oh [[motifs/time\|tempo]], tocca a te districare questo, non a me.<br>È un nodo troppo duro perché io lo sciolga. Esce |
 
 
 
@@ -1890,13 +1890,13 @@ Musicians, sailors, lords, attendants
 | SIR TOBY | Welcome, ass. Now let’s have a catch. |
 | SIR ANDREW | By my troth, the [[archetypes/fool\|fool]] has an excellent breast. I had rather than forty shillings I had such a leg, and so sweet a breath to sing, as the [[archetypes/fool\|fool]] has. In sooth, thou wast in very gracious fooling last [[motifs/night\|night]], when thou spokest of Pigrogromitus, of the Vapians passing the equinoctial of Queubus. ‘Twas very good, i’[[concepts/faith\|faith]]. I sent thee sixpence for thy leman. Hadst it? |
 | [[characters/feste\|FESTE]] | I did impeticos thy gratility; for [[characters/malvolio\|Malvolio]]’s nose is no whipstock. My lady has a white hand, and the Myrmidons are no bottle-ale houses. |
-| SIR ANDREW | Excellent! Why, this is the best fooling, when all is done. Now a [[Song\|song]]. |
-| SIR TOBY | (to [[characters/feste\|Feste]]) Come on, there is sixpence for you. Let’s have a [[Song\|song]]. |
+| SIR ANDREW | Excellent! Why, this is the best fooling, when all is done. Now a song. |
+| SIR TOBY | (to [[characters/feste\|Feste]]) Come on, there is sixpence for you. Let’s have a song. |
 | SIR ANDREW | (to [[characters/feste\|Feste]]) There’s a testril of me, too. If one knight give a— |
-| [[characters/feste\|FESTE]] | Would you have a [[motifs/love\|love]]-[[Song\|song]], or a [[Song\|song]] of good life? |
-| SIR TOBY | A [[motifs/love\|love]] [[Song\|song]], a [[motifs/love\|love]]-[[Song\|song]]. |
+| [[characters/feste\|FESTE]] | Would you have a [[motifs/love\|love]]-song, or a song of good life? |
+| SIR TOBY | A [[motifs/love\|love]] song, a [[motifs/love\|love]]-song. |
 | SIR ANDREW | Ay, ay. I care not for good life. |
-| [[characters/feste\|FESTE]] | (sings)<br>O mistress mine, where are you roaming?<br>O stay and hear, your true [[motifs/love\|love]]’s coming,<br>That can sing both high and low.<br>Trip no further, pretty sweeting.<br>Journeys end in [[lovers]] meeting,<br>Every wise man’s son doth know. |
+| [[characters/feste\|FESTE]] | (sings)<br>O mistress mine, where are you roaming?<br>O stay and hear, your true [[motifs/love\|love]]’s coming,<br>That can sing both high and low.<br>Trip no further, pretty sweeting.<br>Journeys end in lovers meeting,<br>Every wise man’s son doth know. |
 | SIR ANDREW | Excellent good, i’[[concepts/faith\|faith]]. |
 | SIR TOBY | Good, good. |
 | [[characters/feste\|FESTE]] | What is [[motifs/love\|love]]? ’Tis not hereafter,<br>Present mirth hath present laughter.<br>What’s to come is still unsure.<br>In delay there lies no plenty,<br>Then come kiss me, sweet and twenty.<br>Youth’s a stuff will not endure. |
@@ -1905,7 +1905,7 @@ Musicians, sailors, lords, attendants
 | SIR ANDREW | Very sweet and contagious, i’[[concepts/faith\|faith]]. |
 | SIR TOBY | To hear by the nose, it is dulcet in contagion. But shall we make the welkin [[motifs/dance\|dance]] indeed? Shall we rouse the [[motifs/night\|night]]-owl in a catch that will draw three souls out of one weaver? Shall we do that? |
 | SIR ANDREW | An you [[motifs/love\|love]] me, let’s do’t. I am dog at a catch. |
-| [[characters/feste\|FESTE]] | By’r Lady, sir, and some [[dogs]] will catch [[motifs/well\|well]]. |
+| [[characters/feste\|FESTE]] | By’r Lady, sir, and some dogs will catch [[motifs/well\|well]]. |
 | SIR ANDREW | Most certain. Let our catch be ‘Thou knave’. |
 | [[characters/feste\|FESTE]] | ‘Hold thy peace, thou knave’, knight. I shall be constrained in’t to call thee knave, knight. |
 | SIR ANDREW | ‘Tis not the first [[motifs/time\|time]] I have constrained one to call me knave. Begin, [[archetypes/fool\|fool]]. It begins ‘Hold thy peace’. |
@@ -1919,9 +1919,9 @@ Musicians, sailors, lords, attendants
 | SIR TOBY | ‘O’the twelfth day of December’— |
 | [[characters/maria\|MARIA]] | For the [[motifs/love\|love]] o’ God, peace. |
 | *(didascalia)* | Enter [[characters/malvolio\|Malvolio]] |
-| [[characters/malvolio\|MALVOLIO]] | My masters, are you mad? Or what are you? Have you no wit, manners, nor honesty, but to gabble like tinkers at this [[motifs/time\|time]] of [[motifs/night\|night]]? Do ye make an alehouse of my lady’s [[house]], that ye squeak out your coziers’ catches without any mitigation or remorse of voice? Is there no respect of place, persons, nor [[motifs/time\|time]] in you? |
+| [[characters/malvolio\|MALVOLIO]] | My masters, are you mad? Or what are you? Have you no wit, manners, nor honesty, but to gabble like tinkers at this [[motifs/time\|time]] of [[motifs/night\|night]]? Do ye make an alehouse of my lady’s house, that ye squeak out your coziers’ catches without any mitigation or remorse of voice? Is there no respect of place, persons, nor [[motifs/time\|time]] in you? |
 | SIR TOBY | We did keep [[motifs/time\|time]], sir, in our catches. Sneck up! |
-| [[characters/malvolio\|MALVOLIO]] | Sir Toby, I must be round with you. My lady bade me tell you that though she harbours you as her kinsman she’s nothing allied to your disorders. If you can separate yourself and your misdemeanours you are welcome to the [[house]]. If not, an it would please you to take leave of her she is very willing to bid you farewell. |
+| [[characters/malvolio\|MALVOLIO]] | Sir Toby, I must be round with you. My lady bade me tell you that though she harbours you as her kinsman she’s nothing allied to your disorders. If you can separate yourself and your misdemeanours you are welcome to the house. If not, an it would please you to take leave of her she is very willing to bid you farewell. |
 | SIR TOBY | ‘Farewell, dear heart, since I must needs be gone.’ |
 | [[characters/maria\|MARIA]] | Nay, good Sir Toby. |
 | [[characters/feste\|FESTE]] | ‘His eyes do show his days are almost done.’ |
@@ -1940,7 +1940,7 @@ Musicians, sailors, lords, attendants
 | [[characters/maria\|MARIA]] | Go shake your ears. |
 | SIR ANDREW | ’Twere as good a deed as to drink when a man’s a-hungry to challenge him the field and then to break promise with him, and make a [[archetypes/fool\|fool]] of him. |
 | SIR TOBY | Do’t, knight. I’ll write thee a challenge, or I’ll deliver thy indignation to him by word of mouth. |
-| [[characters/maria\|MARIA]] | Sweet Sir Toby, be patient for tonight. Since the youth of the Count’s was today with my lady she is much out of quiet. For Monsieur [[characters/malvolio\|Malvolio]], let me [[Alone\|alone]] with him. If I do not gull him into a nayword and make him a common recreation, do not think I have wit enough to lie straight in my bed. I know I can do it. |
+| [[characters/maria\|MARIA]] | Sweet Sir Toby, be patient for tonight. Since the youth of the Count’s was today with my lady she is much out of quiet. For Monsieur [[characters/malvolio\|Malvolio]], let me alone with him. If I do not gull him into a nayword and make him a common recreation, do not think I have wit enough to lie straight in my bed. I know I can do it. |
 | SIR TOBY | Possess us, possess us, tell us something of him. |
 | [[characters/maria\|MARIA]] | Marry, sir, sometimes he is a kind of puritan. |
 | SIR ANDREW | O, if I thought that I’d beat him like a dog. |
@@ -1984,13 +1984,13 @@ Musicians, sailors, lords, attendants
 | SER TOBY | Benvenuto, asino. Ora facciamoci una canzone a canone. |
 | SER ANDREW | In fede mia, il [[archetypes/fool\|buffone]] ha un'eccellente ugola. Darei quaranta scellini per avere una gamba simile, e un fiato così dolce nel cantare, come li ha il [[archetypes/fool\|buffone]]. In verità, eri in vena di graziosissime buffonerie la scorsa [[motifs/night\|notte]], quando parlavi di Pigrogromito, dei Vapiani che passano l'equinoziale di Queubus. Era davvero ottima cosa, in [[concepts/faith\|fede]] mia. Ti mandai sei pence per la tua bella. Li avesti? |
 | [[characters/feste\|FESTE]] | Impetticciai la tua gratilità; ché il naso di [[characters/malvolio\|Malvolio]] non è un manico di frusta. La mia signora ha una mano bianca, e i Mirmidoni non sono osterie da birra. |
-| SER ANDREW | Eccellente! Ecco, questa è la miglior buffoneria, a conti fatti. Ora una [[Song\|canzone]]. |
-| SER TOBY | (a [[characters/feste\|Feste]]) Su, ecco sei pence per te. Facciamoci una [[Song\|canzone]]. |
+| SER ANDREW | Eccellente! Ecco, questa è la miglior buffoneria, a conti fatti. Ora una canzone. |
+| SER TOBY | (a [[characters/feste\|Feste]]) Su, ecco sei pence per te. Facciamoci una canzone. |
 | SER ANDREW | (a [[characters/feste\|Feste]]) C'è un testone anche da parte mia. Se un cavaliere dà un— |
-| [[characters/feste\|FESTE]] | Volete una [[Song\|canzone]] d'[[motifs/love\|amore]], o una [[Song\|canzone]] di buona vita? |
-| SER TOBY | Una [[Song\|canzone]] d'[[motifs/love\|amore]], una [[Song\|canzone]] d'[[motifs/love\|amore]]. |
+| [[characters/feste\|FESTE]] | Volete una canzone d'[[motifs/love\|amore]], o una canzone di buona vita? |
+| SER TOBY | Una canzone d'[[motifs/love\|amore]], una canzone d'[[motifs/love\|amore]]. |
 | SER ANDREW | Sì, sì. Della buona vita non m'importa. |
-| [[characters/feste\|FESTE]] | (canta)<br>Oh signora mia, dove vai errando?<br>Oh fermati e ascolta, il tuo vero [[motifs/love\|amore]] sta venendo,<br>colui che sa cantare acuto e grave.<br>Non andar oltre, mia graziosa dolcezza.<br>I viaggi finiscono nell'incontro degli [[lovers\|innamorati]],<br>ogni figlio di saggio lo sa bene. |
+| [[characters/feste\|FESTE]] | (canta)<br>Oh signora mia, dove vai errando?<br>Oh fermati e ascolta, il tuo vero [[motifs/love\|amore]] sta venendo,<br>colui che sa cantare acuto e grave.<br>Non andar oltre, mia graziosa dolcezza.<br>I viaggi finiscono nell'incontro degli innamorati,<br>ogni figlio di saggio lo sa bene. |
 | SER ANDREW | Eccellente davvero, in [[concepts/faith\|fede]] mia. |
 | SER TOBY | Bene, bene. |
 | [[characters/feste\|FESTE]] | Che cos'è l'[[motifs/love\|amore]]? Non è nell'avvenire,<br>l'allegrezza presente ha presente il riso.<br>Ciò che verrà è sempre incerto.<br>Nell'indugio non c'è abbondanza,<br>vieni dunque a baciarmi, dolce e ventenne.<br>La giovinezza è stoffa che non dura. |
@@ -1999,7 +1999,7 @@ Musicians, sailors, lords, attendants
 | SER ANDREW | Assai dolce e contagioso, in [[concepts/faith\|fede]] mia. |
 | SER TOBY | A udirlo col naso, è dolce nel contagio. Ma vogliamo far davvero [[motifs/dance\|danzare]] la volta celeste? Vogliamo destare la civetta della [[motifs/night\|notte]] con un canone che tragga tre anime da un solo tessitore? Facciamolo? |
 | SER ANDREW | Se mi [[motifs/love\|volete bene]], facciamolo. Sono un cane nei canoni. |
-| [[characters/feste\|FESTE]] | Per la Madonna, signore, e certi [[dogs\|cani]] acchiappano [[motifs/well\|bene]]. |
+| [[characters/feste\|FESTE]] | Per la Madonna, signore, e certi cani acchiappano [[motifs/well\|bene]]. |
 | SER ANDREW | Certissimo. Sia il nostro canone «Tu, furfante». |
 | [[characters/feste\|FESTE]] | «Taci, tu furfante», cavaliere. Vi sarò costretto a chiamarvi furfante, cavaliere. |
 | SER ANDREW | Non è la prima [[motifs/time\|volta]] che costringo qualcuno a chiamarmi furfante. Comincia, [[archetypes/fool\|buffone]]. Comincia con «Taci». |
@@ -2013,9 +2013,9 @@ Musicians, sailors, lords, attendants
 | SER TOBY | «Il dodicesimo giorno di dicembre»— |
 | [[characters/maria\|MARIA]] | Per l'[[motifs/love\|amor]] di Dio, silenzio. |
 | *(didascalia)* | Entra [[characters/malvolio\|Malvolio]] |
-| [[characters/malvolio\|MALVOLIO]] | Signori miei, siete impazziti? O che cosa siete? Non avete senno, creanza, né onestà, da schiamazzare come calderai a quest'[[motifs/time\|ora]] di [[motifs/night\|notte]]? Fate forse una bettola della [[house\|casa]] della mia signora, da strillare i vostri canoni da ciabattini senza alcuna attenuazione o riguardo di voce? Non c'è in voi rispetto di luogo, di persone, né di [[motifs/time\|tempo]]? |
+| [[characters/malvolio\|MALVOLIO]] | Signori miei, siete impazziti? O che cosa siete? Non avete senno, creanza, né onestà, da schiamazzare come calderai a quest'[[motifs/time\|ora]] di [[motifs/night\|notte]]? Fate forse una bettola della casa della mia signora, da strillare i vostri canoni da ciabattini senza alcuna attenuazione o riguardo di voce? Non c'è in voi rispetto di luogo, di persone, né di [[motifs/time\|tempo]]? |
 | SER TOBY | Il [[motifs/time\|tempo]] l'abbiamo tenuto, signore, nei nostri canoni. Impiccati! |
-| [[characters/malvolio\|MALVOLIO]] | Ser Toby, debbo essere schietto con voi. La mia signora m'ha ordinato di dirvi che, benché vi ospiti come suo parente, ella non ha nulla a che fare con i vostri disordini. Se sapete separare voi stesso dai vostri misfatti, siete il benvenuto nella [[house\|casa]]. Se no, e vi piacesse prendere congedo da lei, ella è ben disposta a darvi l'addio. |
+| [[characters/malvolio\|MALVOLIO]] | Ser Toby, debbo essere schietto con voi. La mia signora m'ha ordinato di dirvi che, benché vi ospiti come suo parente, ella non ha nulla a che fare con i vostri disordini. Se sapete separare voi stesso dai vostri misfatti, siete il benvenuto nella casa. Se no, e vi piacesse prendere congedo da lei, ella è ben disposta a darvi l'addio. |
 | SER TOBY | «Addio, caro cuore, poiché debbo andarmene.» |
 | [[characters/maria\|MARIA]] | No, buon ser Toby. |
 | [[characters/feste\|FESTE]] | «I suoi occhi mostrano che i suoi giorni son quasi finiti.» |
@@ -2034,7 +2034,7 @@ Musicians, sailors, lords, attendants
 | [[characters/maria\|MARIA]] | Andate a scuotervi le orecchie. |
 | SER ANDREW | Sarebbe buona azione quanto bere quando si ha fame sfidarlo in campo e poi mancargli di parola, e farne un [[archetypes/fool\|babbeo]]. |
 | SER TOBY | Fallo, cavaliere. Ti scriverò io una sfida, o gli recherò a voce la tua indignazione. |
-| [[characters/maria\|MARIA]] | Dolce ser Toby, siate paziente per stanotte. Da quando il giovane del Conte è stato oggi con la mia signora, ella è assai fuori di quiete. Quanto a monsieur [[characters/malvolio\|Malvolio]], lasciate fare a me [[Alone\|sola]]. Se non lo canzono fino a farne un proverbio e uno spasso comune, non crediate che io abbia senno abbastanza per stendermi dritta nel mio letto. So che posso farlo. |
+| [[characters/maria\|MARIA]] | Dolce ser Toby, siate paziente per stanotte. Da quando il giovane del Conte è stato oggi con la mia signora, ella è assai fuori di quiete. Quanto a monsieur [[characters/malvolio\|Malvolio]], lasciate fare a me sola. Se non lo canzono fino a farne un proverbio e uno spasso comune, non crediate che io abbia senno abbastanza per stendermi dritta nel mio letto. So che posso farlo. |
 | SER TOBY | Mettici a parte, mettici a parte, dicci qualcosa di lui. |
 | [[characters/maria\|MARIA]] | Perbacco, signore, talvolta è una specie di puritano. |
 | SER ANDREW | Oh, se lo credessi, lo bastonerei come un cane. |
@@ -2069,13 +2069,13 @@ Musicians, sailors, lords, attendants
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the Duke, [[characters/viola\|Viola]] as Cesario, Curio, and others |
-| [[characters/orsino\|ORSINO]] | Give me some music. Now good morrow, friends.<br>Now good Cesario, but that piece of [[Song\|song]],<br>That old and antic [[Song\|song]] we heard last [[motifs/night\|night]].<br>Methought it did relieve my passion much,<br>More than light airs and recollected terms<br>Of these most brisk and giddy-paced times.<br>Come, but one verse. |
+| [[characters/orsino\|ORSINO]] | Give me some music. Now good morrow, friends.<br>Now good Cesario, but that piece of song,<br>That old and antic song we heard last [[motifs/night\|night]].<br>Methought it did relieve my passion much,<br>More than light airs and recollected terms<br>Of these most brisk and giddy-paced times.<br>Come, but one verse. |
 | CURIO | He is not here, so please your lordship, that should sing it. |
 | [[characters/orsino\|ORSINO]] | Who was it? |
-| CURIO | [[characters/feste\|Feste]] the jester, my lord, a [[archetypes/fool\|fool]] that the lady [[characters/olivia\|Olivia]]’s father took much delight in. He is about the [[house]]. |
+| CURIO | [[characters/feste\|Feste]] the jester, my lord, a [[archetypes/fool\|fool]] that the lady [[characters/olivia\|Olivia]]’s father took much delight in. He is about the house. |
 | [[characters/orsino\|ORSINO]] | Seek him out, and play the tune the while. Exit Curio |
 | *(didascalia)* | Music plays |
-| [[characters/orsino\|ORSINO]] | (To [[characters/viola\|Viola]]) Come hither, boy. If ever thou shalt [[motifs/love\|love]],<br>In the sweet pangs of it remember me;<br>For such as I am, all true [[lovers]] are,<br>Unstaid and skittish in all motions else<br>Save in the constant image of the creature<br>That is beloved. How dost thou like this tune? |
+| [[characters/orsino\|ORSINO]] | (To [[characters/viola\|Viola]]) Come hither, boy. If ever thou shalt [[motifs/love\|love]],<br>In the sweet pangs of it remember me;<br>For such as I am, all true lovers are,<br>Unstaid and skittish in all motions else<br>Save in the constant image of the creature<br>That is beloved. How dost thou like this tune? |
 | [[characters/viola\|VIOLA]] | It gives a very echo to the seat<br>Where [[motifs/love\|love]] is throned. |
 | [[characters/orsino\|ORSINO]] | Thou dost speak masterly.<br>My life upon’t, young though thou art thine eye<br>Hath stayed upon some favour that it loves.<br>Hath it not, boy? |
 | [[characters/viola\|VIOLA]] | A little, by your favour. |
@@ -2088,7 +2088,7 @@ Musicians, sailors, lords, attendants
 | [[characters/orsino\|ORSINO]] | Then let thy [[motifs/love\|love]] be younger than thyself,<br>Or thy affection cannot hold the bent;<br>For women are as roses, whose fair flower<br>Being once displayed, doth fall that very hour. |
 | [[characters/viola\|VIOLA]] | And so they are. Alas that they are so:<br>To die even when they to perfection grow. |
 | *(didascalia)* | Enter Curio and [[characters/feste\|Feste]] the clown |
-| [[characters/orsino\|ORSINO]] | (to [[characters/feste\|Feste]])<br>O fellow, come, the [[Song\|song]] we had last [[motifs/night\|night]].<br>Mark it, Cesario, it is old and plain.<br>The spinsters, and the knitters in the sun,<br>And the free maids that weave their thread with<br>bones,<br>Do use to chant it. It is silly sooth,<br>And dallies with the [[innocence]] of [[motifs/love\|love]],<br>Like the old age. |
+| [[characters/orsino\|ORSINO]] | (to [[characters/feste\|Feste]])<br>O fellow, come, the song we had last [[motifs/night\|night]].<br>Mark it, Cesario, it is old and plain.<br>The spinsters, and the knitters in the sun,<br>And the free maids that weave their thread with<br>bones,<br>Do use to chant it. It is silly sooth,<br>And dallies with the innocence of [[motifs/love\|love]],<br>Like the old age. |
 | [[characters/feste\|FESTE]] | Are you ready, sir? |
 | [[characters/orsino\|ORSINO]] | I prithee, sing. |
 | *(didascalia)* | Music |
@@ -2110,7 +2110,7 @@ Musicians, sailors, lords, attendants
 | [[characters/orsino\|ORSINO]] | And what’s her [[concepts/history\|history]]? |
 | [[characters/viola\|VIOLA]] | A blank, my lord. She never told her [[motifs/love\|love]],<br>But let concealment, like a worm i’th’ bud,<br>Feed on her damask cheek. She pined in thought,<br>And with a green and yellow [[concepts/melancholy\|melancholy]]<br>She sat like patience on a monument,<br>Smiling at grief. Was not this [[motifs/love\|love]] indeed?<br>We men may say more, swear more, but indeed<br>Our shows are more than will; for still we prove<br>Much in our vows, but little in our [[motifs/love\|love]]. |
 | [[characters/orsino\|ORSINO]] | But died thy sister of her [[motifs/love\|love]], my boy? |
-| [[characters/viola\|VIOLA]] | I am all the daughters of my father’s [[house]],<br>And all the brothers too; and yet I know not.<br>Sir, shall I to this lady? |
+| [[characters/viola\|VIOLA]] | I am all the daughters of my father’s house,<br>And all the brothers too; and yet I know not.<br>Sir, shall I to this lady? |
 | [[characters/orsino\|ORSINO]] | Ay, that’s the theme,<br>To her in haste. Give her this [[motifs/jewel\|jewel]]. Say<br>My [[motifs/love\|love]] can give no place, bide no denay. |
 | *(didascalia)* | Exeunt severally |
 
@@ -2120,13 +2120,13 @@ Musicians, sailors, lords, attendants
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il Duca, [[characters/viola\|Viola]] come Cesario, Curio e altri |
-| [[characters/orsino\|ORSINO]] | Datemi un po' di musica. Or dunque buon giorno, amici.<br>Ora, buon Cesario, solo quel pezzo di [[Song\|canzone]],<br>quell'antica e vetusta [[Song\|canzone]] che udimmo la scorsa [[motifs/night\|notte]].<br>Mi parve che alleviasse molto la mia passione,<br>più delle arie leggere e delle frasi studiate<br>di questi tempi vivaci e dal passo vertiginoso.<br>Su, una sola strofa. |
+| [[characters/orsino\|ORSINO]] | Datemi un po' di musica. Or dunque buon giorno, amici.<br>Ora, buon Cesario, solo quel pezzo di canzone,<br>quell'antica e vetusta canzone che udimmo la scorsa [[motifs/night\|notte]].<br>Mi parve che alleviasse molto la mia passione,<br>più delle arie leggere e delle frasi studiate<br>di questi tempi vivaci e dal passo vertiginoso.<br>Su, una sola strofa. |
 | CURIO | Non è qui, con licenza di vostra signoria, colui che dovrebbe cantarla. |
 | [[characters/orsino\|ORSINO]] | Chi era? |
-| CURIO | [[characters/feste\|Feste]] il giullare, mio signore, un [[archetypes/fool\|buffone]] di cui il padre di madonna [[characters/olivia\|Olivia]] si dilettava molto. È qui per la [[house\|casa]]. |
+| CURIO | [[characters/feste\|Feste]] il giullare, mio signore, un [[archetypes/fool\|buffone]] di cui il padre di madonna [[characters/olivia\|Olivia]] si dilettava molto. È qui per la casa. |
 | [[characters/orsino\|ORSINO]] | Cercalo, e intanto si suoni l'aria. Esce Curio |
 | *(didascalia)* | Suona la musica |
-| [[characters/orsino\|ORSINO]] | (A [[characters/viola\|Viola]]) Vieni qua, ragazzo. Se mai tu [[motifs/love\|amerai]],<br>nei dolci spasimi dell'amore ricordati di me;<br>ché tale quale io sono, tali sono tutti i veri [[lovers\|innamorati]],<br>instabili e volubili in ogni altro moto<br>salvo che nell'immagine costante della creatura<br>che è amata. Come ti piace quest'aria? |
+| [[characters/orsino\|ORSINO]] | (A [[characters/viola\|Viola]]) Vieni qua, ragazzo. Se mai tu [[motifs/love\|amerai]],<br>nei dolci spasimi dell'amore ricordati di me;<br>ché tale quale io sono, tali sono tutti i veri innamorati,<br>instabili e volubili in ogni altro moto<br>salvo che nell'immagine costante della creatura<br>che è amata. Come ti piace quest'aria? |
 | [[characters/viola\|VIOLA]] | Rende un'eco fedele alla sede<br>dove l'[[motifs/love\|amore]] siede in trono. |
 | [[characters/orsino\|ORSINO]] | Parli da maestro.<br>Ne va la mia vita: per giovane che tu sia, il tuo occhio<br>s'è fermato su qualche volto che ama.<br>Non è vero, ragazzo? |
 | [[characters/viola\|VIOLA]] | Un poco, con vostra licenza. |
@@ -2139,7 +2139,7 @@ Musicians, sailors, lords, attendants
 | [[characters/orsino\|ORSINO]] | Sia dunque il tuo [[motifs/love\|amore]] più giovane di te,<br>o il tuo affetto non potrà reggere alla tensione;<br>ché le donne sono come rose, il cui bel fiore,<br>una volta dischiuso, cade in quella stessa ora. |
 | [[characters/viola\|VIOLA]] | E così sono. Ahimè che siano tali:<br>morire proprio quando giungono a perfezione. |
 | *(didascalia)* | Entrano Curio e [[characters/feste\|Feste]] il buffone |
-| [[characters/orsino\|ORSINO]] | (a [[characters/feste\|Feste]])<br>Oh amico, vieni, la [[Song\|canzone]] che udimmo la scorsa [[motifs/night\|notte]].<br>Notala bene, Cesario: è antica e semplice.<br>Le filatrici e le lavoranti a maglia al sole,<br>e le fanciulle libere che tessono il loro filo coi<br>fuselli,<br>sogliono cantarla. È candida verità,<br>e scherza con l'[[innocence\|innocenza]] dell'[[motifs/love\|amore]],<br>come l'antico tempo. |
+| [[characters/orsino\|ORSINO]] | (a [[characters/feste\|Feste]])<br>Oh amico, vieni, la canzone che udimmo la scorsa [[motifs/night\|notte]].<br>Notala bene, Cesario: è antica e semplice.<br>Le filatrici e le lavoranti a maglia al sole,<br>e le fanciulle libere che tessono il loro filo coi<br>fuselli,<br>sogliono cantarla. È candida verità,<br>e scherza con l'innocenza dell'[[motifs/love\|amore]],<br>come l'antico tempo. |
 | [[characters/feste\|FESTE]] | Siete pronto, signore? |
 | [[characters/orsino\|ORSINO]] | Ti prego, canta. |
 | *(didascalia)* | Musica |
@@ -2161,7 +2161,7 @@ Musicians, sailors, lords, attendants
 | [[characters/orsino\|ORSINO]] | E qual è la sua [[concepts/history\|storia]]? |
 | [[characters/viola\|VIOLA]] | Un foglio bianco, mio signore. Ella non disse mai il suo [[motifs/love\|amore]],<br>ma lasciò che il segreto, come un verme nel bocciolo,<br>le rodesse la guancia di damasco. Si consumò nel pensiero,<br>e con una verde e gialla [[concepts/melancholy\|malinconia]]<br>sedeva come la pazienza su un monumento,<br>sorridendo al dolore. Non era questo [[motifs/love\|amore]] davvero?<br>Noi uomini possiamo dire di più, giurare di più; ma in verità<br>le nostre apparenze superano la volontà, ché sempre ci mostriamo<br>molti nei voti, ma pochi nell'[[motifs/love\|amore]]. |
 | [[characters/orsino\|ORSINO]] | Ma morì tua sorella del suo [[motifs/love\|amore]], ragazzo mio? |
-| [[characters/viola\|VIOLA]] | Io sono tutte le figlie della [[house\|casa]] di mio padre,<br>e tutti i fratelli pure; eppure non so.<br>Signore, devo andare da questa dama? |
+| [[characters/viola\|VIOLA]] | Io sono tutte le figlie della casa di mio padre,<br>e tutti i fratelli pure; eppure non so.<br>Signore, devo andare da questa dama? |
 | [[characters/orsino\|ORSINO]] | Sì, questo è il tema:<br>da lei in fretta. Dalle questo [[motifs/jewel\|gioiello]]. Dille<br>che il mio [[motifs/love\|amore]] non può cedere il posto, né sopportare rifiuto. |
 | *(didascalia)* | Escono separatamente |
 
@@ -2201,7 +2201,7 @@ Musicians, sailors, lords, attendants
 | [[characters/malvolio\|MALVOLIO]] | Calling my officers about me, in my branched velvet gown, having come from a day-bed where I have left [[characters/olivia\|Olivia]] sleeping— |
 | SIR TOBY | [[motifs/fire\|Fire]] and brimstone! |
 | FABIAN | O peace, peace. |
-| [[characters/malvolio\|MALVOLIO]] | And then to have the [[Humour\|humour]] of state and—after a demure travel of regard, telling them I know my place, as I would they should do theirs—to ask for my kinsman Toby. |
+| [[characters/malvolio\|MALVOLIO]] | And then to have the humour of state and—after a demure travel of regard, telling them I know my place, as I would they should do theirs—to ask for my kinsman Toby. |
 | SIR TOBY | Bolts and shackles! |
 | FABIAN | O peace, peace, peace, now, now. |
 | [[characters/malvolio\|MALVOLIO]] | Seven of my people with an obedient start make out for him. I frown the while, and perchance [[motifs/wind\|wind]] up my watch, or play with my—(touching his chain) some rich [[motifs/jewel\|jewel]]. Toby approaches; curtsies there to me. |
@@ -2256,7 +2256,7 @@ Musicians, sailors, lords, attendants
 | SIR ANDREW | (to [[characters/maria\|Maria]]) Or o’ mine either? |
 | SIR TOBY | (to [[characters/maria\|Maria]]) Shall I play my [[concepts/freedom\|freedom]] at tray-trip, and become thy bondslave? |
 | SIR ANDREW | (to [[characters/maria\|Maria]]) I’[[concepts/faith\|faith]], or I either? |
-| SIR TOBY | (to [[characters/maria\|Maria]]) Why, thou hast put him in such [[A Dream\|a dream]] that when the image of it [[motifs/leaves\|leaves]] him, he must run mad. |
+| SIR TOBY | (to [[characters/maria\|Maria]]) Why, thou hast put him in such a dream that when the image of it [[motifs/leaves\|leaves]] him, he must run mad. |
 | [[characters/maria\|MARIA]] | Nay, but say true, does it work upon him? |
 | SIR TOBY | Like aqua vitae with a midwife. |
 | [[characters/maria\|MARIA]] | If you will then see the fruits of the sport, mark his first approach before my lady. He will come to her in yellow stockings, and ’tis a colour she abhors, and [[motifs/cross\|cross]]-gartered, a fashion she detests; and he will smile upon her, which will now be so unsuitable to her disposition, being addicted to a [[concepts/melancholy\|melancholy]] as she is, that it cannot but turn him into a notable contempt. If you will see it, follow me. |
@@ -2297,7 +2297,7 @@ Musicians, sailors, lords, attendants
 | [[characters/malvolio\|MALVOLIO]] | Chiamando i miei ufficiali intorno a me, nella mia veste di velluto a rami, uscito allora da un letto di riposo dove ho lasciato [[characters/olivia\|Olivia]] addormentata— |
 | SER TOBY | [[motifs/fire\|Fuoco]] e zolfo! |
 | FABIANO | Oh silenzio, silenzio. |
-| [[characters/malvolio\|MALVOLIO]] | E poi assumere l'[[Humour\|umore]] dell'autorità e—dopo un contegnoso giro di sguardo, dicendo loro che conosco il mio posto, come vorrei che essi conoscessero il loro—domandare del mio parente Toby. |
+| [[characters/malvolio\|MALVOLIO]] | E poi assumere l'umore dell'autorità e—dopo un contegnoso giro di sguardo, dicendo loro che conosco il mio posto, come vorrei che essi conoscessero il loro—domandare del mio parente Toby. |
 | SER TOBY | Ceppi e catene! |
 | FABIANO | Oh silenzio, silenzio, silenzio, ora, ora. |
 | [[characters/malvolio\|MALVOLIO]] | Sette dei miei uomini con obbediente scatto corrono a cercarlo. Io intanto aggrotto la fronte, e forse [[motifs/wind\|carico]] il mio orologio, o gioco con il mio—(toccandosi la catena) qualche ricco [[motifs/jewel\|gioiello]]. Toby s'avvicina; là mi fa la riverenza. |
@@ -2352,7 +2352,7 @@ Musicians, sailors, lords, attendants
 | SER ANDREW | (a [[characters/maria\|Maria]]) O anche sul mio? |
 | SER TOBY | (a [[characters/maria\|Maria]]) Devo giocarmi la mia [[concepts/freedom\|libertà]] a tre dadi, e diventare tuo schiavo? |
 | SER ANDREW | (a [[characters/maria\|Maria]]) In [[concepts/faith\|fede]] mia, o anch'io? |
-| SER TOBY | (a [[characters/maria\|Maria]]) Ma come, tu l'hai messo in un tale [[A Dream\|sogno]] che, quando l'immagine di esso lo [[motifs/leaves\|abbandonerà]], dovrà impazzire. |
+| SER TOBY | (a [[characters/maria\|Maria]]) Ma come, tu l'hai messo in un tale sogno che, quando l'immagine di esso lo [[motifs/leaves\|abbandonerà]], dovrà impazzire. |
 | [[characters/maria\|MARIA]] | Suvvia, ma ditemi il vero: fa effetto su di lui? |
 | SER TOBY | Come l'acquavite su una levatrice. |
 | [[characters/maria\|MARIA]] | Se dunque volete vedere i frutti dello spasso, osservate la sua prima comparsa davanti alla mia signora. Verrà da lei in calze gialle, ed è un colore che ella aborre, e con le giarrettiere [[motifs/cross\|incrociate]], una foggia che detesta; e le sorriderà, il che ora sarà così poco confacente alla sua disposizione, dedita com'ella è alla [[concepts/melancholy\|malinconia]], che non potrà che volgerlo in notevole disprezzo. Se volete vederlo, seguitemi. |
@@ -2370,7 +2370,7 @@ Musicians, sailors, lords, attendants
 | [[characters/viola\|VIOLA]] | Save thee, friend, and thy music. Dost thou live by thy tabor? |
 | [[characters/feste\|FESTE]] | No, sir, I live by the church. |
 | [[characters/viola\|VIOLA]] | Art thou a churchman? |
-| [[characters/feste\|FESTE]] | No such matter, sir. I do live by the church for I do live at my [[house]], and my [[house]] doth stand by the church. |
+| [[characters/feste\|FESTE]] | No such matter, sir. I do live by the church for I do live at my house, and my house doth stand by the church. |
 | [[characters/viola\|VIOLA]] | So thou mayst say the [[archetypes/king\|king]] lies by a beggar if a beggar dwell near him, or the church stands by thy tabor if thy tabor stand by the church. |
 | [[characters/feste\|FESTE]] | You have said, sir. To see this age!—A sentence is but a cheverel glove to a good wit, how quickly the wrong side may be turned outward. |
 | [[characters/viola\|VIOLA]] | Nay, that’s certain. They that dally nicely with words may quickly make them wanton. |
@@ -2400,7 +2400,7 @@ Musicians, sailors, lords, attendants
 | SIR ANDREW | Dieu vous garde, monsieur. |
 | [[characters/viola\|VIOLA]] | Et vous aussi, votre serviteur. |
 | SIR ANDREW | I [[concepts/hope\|hope]], sir, you are, and I am yours. |
-| SIR TOBY | Will you encounter the [[house]]? My niece is desirous you should enter if your trade be to her. |
+| SIR TOBY | Will you encounter the house? My niece is desirous you should enter if your trade be to her. |
 | [[characters/viola\|VIOLA]] | I am bound to your niece, sir: I mean she is the list of my voyage. |
 | SIR TOBY | Taste your legs, sir, put them to motion. |
 | [[characters/viola\|VIOLA]] | My legs do better understand me, sir, than I understand what you mean by bidding me taste my legs. |
@@ -2434,7 +2434,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | I would you were as I would have you be. |
 | [[characters/viola\|VIOLA]] | Would it be better, madam, than I am?<br>I wish it might, for now I am your [[archetypes/fool\|fool]]. |
 | [[characters/olivia\|OLIVIA]] | (aside)<br>O, what a deal of scorn looks beautiful<br>In the contempt and anger of his lip!<br>A murd’rous [[concepts/guilt\|guilt]] shows not itself more soon<br>Than [[motifs/love\|love]] that would seem hid. [[motifs/love\|Love]]’s [[motifs/night\|night]] is [[motifs/noon\|noon]].<br>(To [[characters/viola\|Viola]]) Cesario, by the roses of the [[motifs/spring\|spring]],<br>By maidhood, [[concepts/honour\|honour]], [[concepts/truth\|truth]], and everything,<br>I [[motifs/love\|love]] thee so that, maugre all thy [[concepts/pride\|pride]],<br>Nor wit nor reason can my passion hide.<br>Do not extort thy reasons from this clause,<br>For that I woo, thou therefore hast no cause.<br>But rather reason thus with reason fetter:<br>[[motifs/love\|Love]] sought is good, but given unsought, is better. |
-| [[characters/viola\|VIOLA]] | By [[innocence]] I swear, and by my youth,<br>I have one heart, one bosom, and one [[concepts/truth\|truth]],<br>And that no woman has, nor never none<br>Shall mistress be of it save I [[Alone\|alone]].<br>And so adieu, good madam. Never more<br>Will I my master’s [[motifs/tears\|tears]] to you deplore. |
+| [[characters/viola\|VIOLA]] | By innocence I swear, and by my youth,<br>I have one heart, one bosom, and one [[concepts/truth\|truth]],<br>And that no woman has, nor never none<br>Shall mistress be of it save I alone.<br>And so adieu, good madam. Never more<br>Will I my master’s [[motifs/tears\|tears]] to you deplore. |
 | [[characters/olivia\|OLIVIA]] | Yet come again, for thou perhaps mayst move<br>That heart which now abhors, to like his [[motifs/love\|love]]. |
 | *(didascalia)* | Exeunt |
 | *(didascalia)* | severally |
@@ -2448,7 +2448,7 @@ Musicians, sailors, lords, attendants
 | [[characters/viola\|VIOLA]] | Dio ti salvi, amico, e la tua musica. Vivi tu del tuo tamburello? |
 | [[characters/feste\|FESTE]] | No, signore, io vivo presso la chiesa. |
 | [[characters/viola\|VIOLA]] | Sei tu un uomo di chiesa? |
-| [[characters/feste\|FESTE]] | Nulla di simile, signore. Vivo presso la chiesa perché vivo nella mia [[house\|casa]], e la mia [[house\|casa]] sta presso la chiesa. |
+| [[characters/feste\|FESTE]] | Nulla di simile, signore. Vivo presso la chiesa perché vivo nella mia casa, e la mia casa sta presso la chiesa. |
 | [[characters/viola\|VIOLA]] | Così potresti dire che il [[archetypes/king\|re]] giace presso un mendicante, se un mendicante abita vicino a lui; o che la chiesa sta presso il tuo tamburello, se il tuo tamburello sta presso la chiesa. |
 | [[characters/feste\|FESTE]] | L'avete detto, signore. A vedere quest'epoca!—Una frase non è che un guanto di capretto per un buono ingegno: com'è presto voltato il rovescio all'infuori. |
 | [[characters/viola\|VIOLA]] | Certo, questo è vero. Quelli che scherzano troppo finemente con le parole possono presto renderle sfrontate. |
@@ -2478,7 +2478,7 @@ Musicians, sailors, lords, attendants
 | SER ANDREW | Dieu vous garde, monsieur. |
 | [[characters/viola\|VIOLA]] | Et vous aussi, votre serviteur. |
 | SER ANDREW | Lo [[concepts/hope\|spero]], signore, che voi lo siate; e io sono il vostro. |
-| SER TOBY | Volete affrontare la [[house\|casa]]? Mia nipote desidera che entriate, se il vostro commercio è con lei. |
+| SER TOBY | Volete affrontare la casa? Mia nipote desidera che entriate, se il vostro commercio è con lei. |
 | [[characters/viola\|VIOLA]] | Sono diretto a vostra nipote, signore: voglio dire ch'ella è la meta del mio viaggio. |
 | SER TOBY | Assaggiate le vostre gambe, signore, mettetele in moto. |
 | [[characters/viola\|VIOLA]] | Le mie gambe mi sostengono meglio, signore, di quanto io comprenda che cosa intendiate dicendomi d'assaggiare le mie gambe. |
@@ -2512,7 +2512,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Vorrei che foste quale io vorrei che foste. |
 | [[characters/viola\|VIOLA]] | Sarebbe meglio, madonna, di ciò che sono?<br>Vorrei che lo fosse, ché ora sono il vostro [[archetypes/fool\|zimbello]]. |
 | [[characters/olivia\|OLIVIA]] | (a parte)<br>Oh, quanta bellezza ha lo sdegno<br>nel disprezzo e nella collera del suo labbro!<br>Una [[concepts/guilt\|colpa]] d'omicidio non si palesa più presto<br>dell'[[motifs/love\|amore]] che vorrebbe restar celato. La [[motifs/night\|notte]] dell'[[motifs/love\|amore]] è [[motifs/noon\|mezzogiorno]].<br>(A [[characters/viola\|Viola]]) Cesario, per le rose di [[motifs/spring\|primavera]],<br>per la verginità, l'[[concepts/honour\|onore]], la [[concepts/truth\|verità]] e ogni cosa,<br>io ti [[motifs/love\|amo]] tanto che, malgrado tutto il tuo [[concepts/pride\|orgoglio]],<br>né ingegno né ragione può celare la mia passione.<br>Non estorcere le tue ragioni da questa clausola:<br>che, poiché io corteggio, tu non abbia ragione di farlo.<br>Ma piuttosto incatena ragione con ragione:<br>[[motifs/love\|amore]] cercato è buono, ma dato senza cercarlo è migliore. |
-| [[characters/viola\|VIOLA]] | Per l'[[innocence\|innocenza]] lo giuro, e per la mia giovinezza,<br>io ho un solo cuore, un solo petto e una sola [[concepts/truth\|verità]],<br>e nessuna donna li possiede, né mai alcuna<br>ne sarà padrona, tranne io [[Alone\|sola]].<br>E così addio, buona madonna. Mai più<br>verrò a deplorare presso di voi le [[motifs/tears\|lacrime]] del mio padrone. |
+| [[characters/viola\|VIOLA]] | Per l'innocenza lo giuro, e per la mia giovinezza,<br>io ho un solo cuore, un solo petto e una sola [[concepts/truth\|verità]],<br>e nessuna donna li possiede, né mai alcuna<br>ne sarà padrona, tranne io sola.<br>E così addio, buona madonna. Mai più<br>verrò a deplorare presso di voi le [[motifs/tears\|lacrime]] del mio padrone. |
 | [[characters/olivia\|OLIVIA]] | Tornate però ancora, ché forse potreste muovere<br>quel cuore che ora aborre, a gradire il suo [[motifs/love\|amore]]. |
 | *(didascalia)* | Escono |
 | *(didascalia)* | separatamente |
@@ -2694,14 +2694,14 @@ Musicians, sailors, lords, attendants
 | [[characters/malvolio\|MALVOLIO]] | Go off, I discard you. Let me enjoy my private. Go off. |
 | [[characters/maria\|MARIA]] | Lo, how hollow the fiend speaks within him. Did not I tell you? Sir Toby, my lady prays you to have a care of him. |
 | [[characters/malvolio\|MALVOLIO]] | Aha, does she so? |
-| SIR TOBY | Go to, go to. Peace, peace, we must deal gently with him. Let me [[Alone\|alone]]. How do you, [[characters/malvolio\|Malvolio]]? How is’t with you? What, man, defy the devil. Consider, he’s an enemy to mankind. |
+| SIR TOBY | Go to, go to. Peace, peace, we must deal gently with him. Let me alone. How do you, [[characters/malvolio\|Malvolio]]? How is’t with you? What, man, defy the devil. Consider, he’s an enemy to mankind. |
 | [[characters/malvolio\|MALVOLIO]] | Do you know what you say? |
 | [[characters/maria\|MARIA]] | La you, an you speak ill of the devil, how he takes it at heart. Pray God he be not bewitched. |
 | FABIAN | Carry his [[motifs/water\|water]] to th’ wise woman. |
 | [[characters/maria\|MARIA]] | Marry, and it shall be done tomorrow morning, if I live. My lady would not lose him for more than I’ll say. |
 | [[characters/malvolio\|MALVOLIO]] | How now, mistress? |
 | [[characters/maria\|MARIA]] | O Lord! |
-| SIR TOBY | Prithee hold thy peace, this is not the way. Do you not see you move him? Let me [[Alone\|alone]] with him. |
+| SIR TOBY | Prithee hold thy peace, this is not the way. Do you not see you move him? Let me alone with him. |
 | FABIAN | No way but gentleness, gently, gently. The fiend is rough, and will not be roughly used. |
 | SIR TOBY | Why how now, my bawcock? How dost thou, chuck? |
 | [[characters/malvolio\|MALVOLIO]] | Sir! |
@@ -2715,7 +2715,7 @@ Musicians, sailors, lords, attendants
 | SIR TOBY | His very genius hath taken the infection of the device, man. |
 | [[characters/maria\|MARIA]] | Nay, pursue him now, lest the device take air and taint. |
 | FABIAN | Why, we shall make him mad indeed. |
-| [[characters/maria\|MARIA]] | The [[house]] will be the quieter. |
+| [[characters/maria\|MARIA]] | The house will be the quieter. |
 | SIR TOBY | Come, we’ll have him in a dark room and bound. My niece is already in the belief that he’s mad. We may carry it thus for our pleasure and his penance till our very pastime, tired out of breath, prompt us to have [[concepts/mercy\|mercy]] on him, at which [[motifs/time\|time]] we will bring the device to the bar and [[motifs/crown\|crown]] thee for a finder of madmen. But see, but see. |
 | *(didascalia)* | Enter Sir Andrew with a paper |
 | FABIAN | More matter for a May morning. |
@@ -2735,7 +2735,7 @@ Musicians, sailors, lords, attendants
 | SIR TOBY | ‘Fare thee [[motifs/well\|well]], and God have [[concepts/mercy\|mercy]] upon one of our souls. He may have [[concepts/mercy\|mercy]] upon mine, but my [[concepts/hope\|hope]] is better, and so look to thyself. Thy friend as thou usest him, and thy sworn enemy,<br>Andrew Aguecheek.’<br>If this letter move him not, his legs cannot. I’ll give’t him. |
 | [[characters/maria\|MARIA]] | You may have very fit occasion for’t. He is now in some commerce with my lady, and will by and by depart. |
 | SIR TOBY | Go, Sir Andrew. Scout me for him at the corner of the orchard like a bum-baily. So soon as ever thou seest him, draw, and as thou drawest, swear horrible, for it comes to pass oft that a terrible oath, with a swaggering accent sharply twanged off, gives manhood more approbation than ever proof itself would have earned him. Away. |
-| SIR ANDREW | Nay, let me [[Alone\|alone]] for swearing. |
+| SIR ANDREW | Nay, let me alone for swearing. |
 | *(didascalia)* | Exit |
 | SIR TOBY | Now will not I deliver his letter, for the behaviour of the young gentleman gives him out to be of good capacity and breeding. His employment between his lord and my niece confirms no less. Therefore this letter, being so excellently ignorant, will breed no terror in the youth. He will find it comes from a clodpoll. But, sir, I will deliver his challenge by word of mouth, set upon Aguecheek a notable report of valour, and drive the gentleman—as I know his youth will aptly receive it—into a most hideous opinion of his rage, skill, fury, and impetuosity. This will so fright them both that they will kill one another by the look, like cockatrices. |
 | *(didascalia)* | Enter [[characters/olivia\|Olivia]], and [[characters/viola\|Viola]] as Cesario |
@@ -2758,8 +2758,8 @@ Musicians, sailors, lords, attendants
 | SIR TOBY | You’ll find it otherwise, I assure you. Therefore, if you hold your life at any price, betake you to your guard, for your opposite hath in him what youth, strength, skill, and wrath can furnish man withal. |
 | [[characters/viola\|VIOLA]] | I pray you, sir, what is he? |
 | SIR TOBY | He is knight dubbed with unhatched rapier and on carpet consideration, but he is a devil in private brawl. Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of [[motifs/death\|death]] and sepulchre. Hob nob is his word, give’t or take’t. |
-| [[characters/viola\|VIOLA]] | I will return again into the [[house]] and [[motifs/desire\|desire]] some conduct of the lady. I am no fighter. I have heard of some kind of men that put quarrels purposely on others, to taste their valour. Belike this is a man of that quirk. |
-| SIR TOBY | Sir, no. His indignation derives itself out of a very competent injury, therefore get you on, and give him his [[motifs/desire\|desire]]. Back you shall not to the [[house]] unless you undertake that with me which with as much safety you might answer him. Therefore on, or strip your [[Sword\|sword]] stark naked, for meddle you must, that’s certain, or forswear to wear iron about you. |
+| [[characters/viola\|VIOLA]] | I will return again into the house and [[motifs/desire\|desire]] some conduct of the lady. I am no fighter. I have heard of some kind of men that put quarrels purposely on others, to taste their valour. Belike this is a man of that quirk. |
+| SIR TOBY | Sir, no. His indignation derives itself out of a very competent injury, therefore get you on, and give him his [[motifs/desire\|desire]]. Back you shall not to the house unless you undertake that with me which with as much safety you might answer him. Therefore on, or strip your sword stark naked, for meddle you must, that’s certain, or forswear to wear iron about you. |
 | [[characters/viola\|VIOLA]] | This is as uncivil as strange. I beseech you do me this courteous office, as to know of the knight what my offence to him is. It is something of my negligence, nothing of my purpose. |
 | SIR TOBY | I will do so. Signor Fabian, stay you by this gentleman till my return. Exit |
 | [[characters/viola\|VIOLA]] | Pray you, sir, do you know of this matter? |
@@ -2783,14 +2783,14 @@ Musicians, sailors, lords, attendants
 | SIR ANDREW | Pray God he keep his oath. |
 | *(didascalia)* | Enter [[characters/antonio\|Antonio]] |
 | [[characters/viola\|VIOLA]] | I do assure you ’tis against my will.<br>Sir Andrew and [[characters/viola\|Viola]] draw their swords |
-| [[characters/antonio\|ANTONIO]] | (drawing his [[Sword\|sword]], to Sir Andrew)<br>Put up your [[Sword\|sword]]. If this young gentleman<br>Have done offence, I take the fault on me.<br>If you offend him, I for him defy you. |
+| [[characters/antonio\|ANTONIO]] | (drawing his sword, to Sir Andrew)<br>Put up your sword. If this young gentleman<br>Have done offence, I take the fault on me.<br>If you offend him, I for him defy you. |
 | SIR TOBY | You, sir? Why, what are you? |
 | [[characters/antonio\|ANTONIO]] | One, sir, that for his [[motifs/love\|love]] dares yet do more<br>Than you have heard him brag to you he will. |
-| SIR TOBY | (drawing his [[Sword\|sword]]) Nay, if you be an undertaker,<br>I am for you. |
+| SIR TOBY | (drawing his sword) Nay, if you be an undertaker,<br>I am for you. |
 | *(didascalia)* | Enter Officers |
 | FABIAN | O, good Sir Toby, hold. Here come the officers. |
 | SIR TOBY | (to [[characters/antonio\|Antonio]]) I’ll be with you anon. |
-| [[characters/viola\|VIOLA]] | (to Sir Andrew) Pray, sir, put your [[Sword\|sword]] up if you please. |
+| [[characters/viola\|VIOLA]] | (to Sir Andrew) Pray, sir, put your sword up if you please. |
 | SIR ANDREW | Marry will I, sir, and for that I promised you I’ll be as good as my word. He will bear you easily, and reins [[motifs/well\|well]].<br>Sir Andrew and [[characters/viola\|Viola]] put up their swords |
 | FIRST OFFICER | This is the man, do thy office. |
 | SECOND OFFICER | [[characters/antonio\|Antonio]], I arrest thee at the suit of Count [[characters/orsino\|Orsino]]. |
@@ -2800,7 +2800,7 @@ Musicians, sailors, lords, attendants
 | SECOND OFFICER | Come, sir, away. |
 | [[characters/antonio\|ANTONIO]] | (to [[characters/viola\|Viola]])<br>I must entreat of you some of that money. |
 | [[characters/viola\|VIOLA]] | What money, sir?<br>For the fair kindness you have showed me here,<br>And part being prompted by your present trouble,<br>Out of my lean and low ability<br>I’ll lend you something. My having is not much.<br>I’ll make division of my present with you.<br>Hold, (offering money) there’s half my coffer. |
-| [[characters/antonio\|ANTONIO]] | Will you deny me now?<br>Is’t possible that my deserts to you<br>Can lack [[Persuasion\|persuasion]]? Do not tempt my misery,<br>Lest that it make me so unsound a man<br>As to upbraid you with those kindnesses<br>That I have done for you. |
+| [[characters/antonio\|ANTONIO]] | Will you deny me now?<br>Is’t possible that my deserts to you<br>Can lack persuasion? Do not tempt my misery,<br>Lest that it make me so unsound a man<br>As to upbraid you with those kindnesses<br>That I have done for you. |
 | [[characters/viola\|VIOLA]] | I know of none,<br>Nor know I you by voice, or any feature.<br>I hate ingratitude more in a man<br>Than lying, vainness, babbling drunkenness,<br>Or any taint of vice whose strong corruption<br>Inhabits our frail [[motifs/blood\|blood]]. |
 | [[characters/antonio\|ANTONIO]] | O heavens themselves! |
 | SECOND OFFICER | Come, sir, I pray you go. |
@@ -2816,7 +2816,7 @@ Musicians, sailors, lords, attendants
 | SIR TOBY | (to Sir Andrew) A very dishonest, paltry boy, and more a coward than a hare. His dishonesty appears in leaving his friend here in necessity, and denying him; and for his cowardship, ask Fabian. |
 | FABIAN | A coward, a most devout coward, religious in it. |
 | SIR ANDREW | ’Slid, I’ll after him again, and beat him. |
-| SIR TOBY | Do, cuff him soundly, but never draw thy [[Sword\|sword]]. |
+| SIR TOBY | Do, cuff him soundly, but never draw thy sword. |
 | SIR ANDREW | An I do not— |
 | *(didascalia)* | Exit |
 | FABIAN | Come, let’s see the event. |
@@ -2874,14 +2874,14 @@ Musicians, sailors, lords, attendants
 | [[characters/malvolio\|MALVOLIO]] | Andatevene, vi scarto. Lasciate ch'io goda del mio privato. Andatevene. |
 | [[characters/maria\|MARIA]] | Ecco, come parla cavernoso il demonio dentro di lui. Non ve l'avevo detto? Ser Toby, madonna vi prega d'aver cura di lui. |
 | [[characters/malvolio\|MALVOLIO]] | Ahah, fa così? |
-| SER TOBY | Suvvia, suvvia. Pace, pace, dobbiamo trattarlo con dolcezza. Lasciatemi [[Alone\|solo]]. Come state, [[characters/malvolio\|Malvolio]]? Come va? Ma via, uomo, sfida il diavolo. Considera, egli è nemico del genere umano. |
+| SER TOBY | Suvvia, suvvia. Pace, pace, dobbiamo trattarlo con dolcezza. Lasciatemi solo. Come state, [[characters/malvolio\|Malvolio]]? Come va? Ma via, uomo, sfida il diavolo. Considera, egli è nemico del genere umano. |
 | [[characters/malvolio\|MALVOLIO]] | Sapete quel che dite? |
 | [[characters/maria\|MARIA]] | Ecco a voi, se parlate male del diavolo, come se la prende a cuore. Voglia Dio che non sia stregato. |
 | FABIANO | Portate la sua [[motifs/water\|acqua]] alla donna saggia. |
 | [[characters/maria\|MARIA]] | Perbacco, e sarà fatto domattina, s'io vivo. Madonna non lo perderebbe per più di quanto io sappia dire. |
 | [[characters/malvolio\|MALVOLIO]] | Ebbene, padroncina? |
 | [[characters/maria\|MARIA]] | Oh Signore! |
-| SER TOBY | Ti prego, taci, non è questa la via. Non vedi che lo agiti? Lasciatemi [[Alone\|solo]] con lui. |
+| SER TOBY | Ti prego, taci, non è questa la via. Non vedi che lo agiti? Lasciatemi solo con lui. |
 | FABIANO | Nessuna via se non la dolcezza, piano, piano. Il demonio è ruvido, e non vuol essere trattato ruvidamente. |
 | SER TOBY | Ebbene, mio galletto? Come stai, pulcino? |
 | [[characters/malvolio\|MALVOLIO]] | Signore! |
@@ -2895,7 +2895,7 @@ Musicians, sailors, lords, attendants
 | SER TOBY | Il suo stesso spirito ha preso l'infezione della burla, uomo. |
 | [[characters/maria\|MARIA]] | No, inseguitelo ora, ché la burla non pigli aria e si guasti. |
 | FABIANO | Ma allora lo faremo impazzire davvero. |
-| [[characters/maria\|MARIA]] | La [[house\|casa]] sarà più tranquilla. |
+| [[characters/maria\|MARIA]] | La casa sarà più tranquilla. |
 | SER TOBY | Venite, lo metteremo in una stanza buia e legato. Mia nipote è già nella convinzione che sia pazzo. Possiamo tirarla avanti così per nostro piacere e sua penitenza, finché il nostro stesso passatempo, sfiatato di stanchezza, non ci induca ad aver [[concepts/mercy\|pietà]] di lui, al qual [[motifs/time\|tempo]] porteremo la burla in tribunale e ti [[motifs/crown\|incoroneremo]] scopritrice di pazzi. Ma guarda, ma guarda. |
 | *(didascalia)* | Entra Ser Andrew con un foglio |
 | FABIANO | Altra materia per una mattina di maggio. |
@@ -2915,7 +2915,7 @@ Musicians, sailors, lords, attendants
 | SER TOBY | «Sta' [[motifs/well\|bene]], e Dio abbia [[concepts/mercy\|pietà]] d'una delle nostre anime. Può darsi ch'egli abbia [[concepts/mercy\|pietà]] della mia, ma la mia [[concepts/hope\|speranza]] è migliore, e dunque bada a te. Tuo amico secondo come lo tratti, e tuo giurato nemico,<br>Andrew Aguecheek.»<br>Se questa lettera non lo smuove, le sue gambe non possono. Gliela darò. |
 | [[characters/maria\|MARIA]] | Potete averne occasione assai adatta. È ora in qualche colloquio con madonna, e fra poco partirà. |
 | SER TOBY | Va', Ser Andrew. Fammi la spia per lui all'angolo del frutteto come un birro. Appena lo vedi, sguaina, e mentre sguaini, bestemmia orribilmente, ché accade spesso che un giuramento terribile, sparato con accento spaccone e vibrato aspramente, dia alla virilità più approvazione di quanta la prova stessa gliene avrebbe mai guadagnata. Via. |
-| SER ANDREW | No, quanto al bestemmiare, lasciatemi [[Alone\|solo]]. |
+| SER ANDREW | No, quanto al bestemmiare, lasciatemi solo. |
 | *(didascalia)* | Esce |
 | SER TOBY | Ora io non consegnerò la sua lettera, ché il contegno del giovane gentiluomo lo mostra di buona capacità ed educazione. Il suo incarico fra il suo signore e mia nipote non conferma di meno. Perciò questa lettera, essendo così eccellentemente ignorante, non genererà terrore nel giovane. S'accorgerà che viene da uno zuccone. Ma, signore, io consegnerò la sua sfida a voce, appiopperò ad Aguecheek una notevole fama di valore, e spingerò il gentiluomo—giacché so che la sua giovinezza l'accoglierà prontamente—a un'opinione spaventosissima della sua rabbia, abilità, furia e impetuosità. Questo li spaventerà entrambi tanto che si uccideranno l'un l'altro con lo sguardo, come basilischi. |
 | *(didascalia)* | Entrano [[characters/olivia\|Olivia]], e [[characters/viola\|Viola]] come Cesario |
@@ -2938,8 +2938,8 @@ Musicians, sailors, lords, attendants
 | SER TOBY | Troverete che è altrimenti, ve l'assicuro. Perciò, se tenete la vostra vita a qualche prezzo, mettetevi in guardia, ché il vostro avversario ha in sé quanto giovinezza, forza, abilità e ira possono fornire a un uomo. |
 | [[characters/viola\|VIOLA]] | Vi prego, signore, chi è? |
 | SER TOBY | È cavaliere fatto con spadino non ancora tinto e per considerazioni da tappeto, ma è un diavolo nelle risse private. Anime e corpi ne ha divorziati tre, e il suo furore in questo momento è così implacabile che non v'è soddisfazione se non con spasimi di [[motifs/death\|morte]] e sepolcro. «O tutto o niente» è la sua parola: dalla o prendila. |
-| [[characters/viola\|VIOLA]] | Rientrerò nella [[house\|casa]] e [[motifs/desire\|chiederò]] qualche scorta alla dama. Non sono un combattente. Ho sentito di certi uomini che attaccano brighe di proposito con altri, per saggiarne il valore. Forse costui è un uomo di quella fatta. |
-| SER TOBY | Signore, no. La sua indignazione deriva da un'offesa assai fondata, perciò andate avanti, e dategli il suo [[motifs/desire\|desiderio]]. Alla [[house\|casa]] non tornerete, se non intraprendete con me quello che con altrettanta sicurezza potreste sostenere con lui. Perciò avanti, o snudate la vostra [[Sword\|spada]] tutta nuda, ché battervi dovete, questo è certo, o rinunciare a portar ferro addosso. |
+| [[characters/viola\|VIOLA]] | Rientrerò nella casa e [[motifs/desire\|chiederò]] qualche scorta alla dama. Non sono un combattente. Ho sentito di certi uomini che attaccano brighe di proposito con altri, per saggiarne il valore. Forse costui è un uomo di quella fatta. |
+| SER TOBY | Signore, no. La sua indignazione deriva da un'offesa assai fondata, perciò andate avanti, e dategli il suo [[motifs/desire\|desiderio]]. Alla casa non tornerete, se non intraprendete con me quello che con altrettanta sicurezza potreste sostenere con lui. Perciò avanti, o snudate la vostra spada tutta nuda, ché battervi dovete, questo è certo, o rinunciare a portar ferro addosso. |
 | [[characters/viola\|VIOLA]] | Questo è tanto scortese quanto strano. Vi supplico, fatemi questo cortese ufficio: di sapere dal cavaliere quale sia la mia offesa verso di lui. È qualcosa della mia negligenza, nulla del mio proposito. |
 | SER TOBY | Così farò. Signor Fabiano, restate voi presso questo gentiluomo fino al mio ritorno. Esce |
 | [[characters/viola\|VIOLA]] | Vi prego, signore, sapete voi di questa faccenda? |
@@ -2963,14 +2963,14 @@ Musicians, sailors, lords, attendants
 | SER ANDREW | Voglia Dio che mantenga il giuramento. |
 | *(didascalia)* | Entra [[characters/antonio\|Antonio]] |
 | [[characters/viola\|VIOLA]] | V'assicuro che è contro la mia volontà.<br>Ser Andrew e [[characters/viola\|Viola]] sguainano le spade |
-| [[characters/antonio\|ANTONIO]] | (sguainando la [[Sword\|spada]], a Ser Andrew)<br>Riponete la vostra [[Sword\|spada]]. Se questo giovane gentiluomo<br>ha fatto offesa, ne prendo su di me la colpa.<br>Se voi offendete lui, io per lui vi sfido. |
+| [[characters/antonio\|ANTONIO]] | (sguainando la spada, a Ser Andrew)<br>Riponete la vostra spada. Se questo giovane gentiluomo<br>ha fatto offesa, ne prendo su di me la colpa.<br>Se voi offendete lui, io per lui vi sfido. |
 | SER TOBY | Voi, signore? Ma chi siete? |
 | [[characters/antonio\|ANTONIO]] | Uno, signore, che per il suo [[motifs/love\|amore]] osa fare ancor più<br>di quanto l'avete udito vantarsi con voi che farà. |
-| SER TOBY | (sguainando la [[Sword\|spada]]) Ebbene, se siete un mallevadore,<br>io sono per voi. |
+| SER TOBY | (sguainando la spada) Ebbene, se siete un mallevadore,<br>io sono per voi. |
 | *(didascalia)* | Entrano gli Ufficiali |
 | FABIANO | Oh, buon Ser Toby, fermatevi. Ecco che vengono gli ufficiali. |
 | SER TOBY | (a [[characters/antonio\|Antonio]]) Sarò con voi fra poco. |
-| [[characters/viola\|VIOLA]] | (a Ser Andrew) Vi prego, signore, riponete la vostra [[Sword\|spada]], se vi piace. |
+| [[characters/viola\|VIOLA]] | (a Ser Andrew) Vi prego, signore, riponete la vostra spada, se vi piace. |
 | SER ANDREW | Perbacco sì, signore, e quanto a ciò che v'ho promesso, terrò la parola. Vi porterà facilmente, e obbedisce [[motifs/well\|bene]] alle redini.<br>Ser Andrew e [[characters/viola\|Viola]] ripongono le spade |
 | PRIMO UFFICIALE | Questo è l'uomo, fa' il tuo ufficio. |
 | SECONDO UFFICIALE | [[characters/antonio\|Antonio]], ti arresto su istanza del Conte [[characters/orsino\|Orsino]]. |
@@ -2980,7 +2980,7 @@ Musicians, sailors, lords, attendants
 | SECONDO UFFICIALE | Venite, signore, via. |
 | [[characters/antonio\|ANTONIO]] | (a [[characters/viola\|Viola]])<br>Devo pregarvi di darmi un po' di quel denaro. |
 | [[characters/viola\|VIOLA]] | Quale denaro, signore?<br>Per la bella gentilezza che qui mi avete mostrato,<br>e in parte spinto dal vostro presente guaio,<br>dalla mia magra e povera facoltà<br>vi presterò qualcosa. Il mio avere non è molto.<br>Farò divisione con voi di quel che ho.<br>Tenete, (offrendo denaro) ecco metà del mio forziere. |
-| [[characters/antonio\|ANTONIO]] | Volete negarmi ora?<br>È possibile che i miei meriti verso di voi<br>manchino di [[Persuasion\|persuasione]]? Non tentate la mia miseria,<br>ché non mi renda uomo tanto malfermo<br>da rinfacciarvi quelle gentilezze<br>che ho fatto per voi. |
+| [[characters/antonio\|ANTONIO]] | Volete negarmi ora?<br>È possibile che i miei meriti verso di voi<br>manchino di persuasione? Non tentate la mia miseria,<br>ché non mi renda uomo tanto malfermo<br>da rinfacciarvi quelle gentilezze<br>che ho fatto per voi. |
 | [[characters/viola\|VIOLA]] | Non ne conosco alcuna,<br>né conosco voi per voce, o per alcun tratto.<br>Odio l'ingratitudine più in un uomo<br>della menzogna, della vanità, della ciarliera ubriachezza,<br>o d'ogni macchia di vizio la cui forte corruzione<br>abita il nostro fragile [[motifs/blood\|sangue]]. |
 | [[characters/antonio\|ANTONIO]] | Oh cieli stessi! |
 | SECONDO UFFICIALE | Venite, signore, vi prego, andiamo. |
@@ -2996,7 +2996,7 @@ Musicians, sailors, lords, attendants
 | SER TOBY | (a Ser Andrew) Un ragazzo assai disonesto, meschino, e più codardo d'una lepre. La sua disonestà appare nell'abbandonare qui l'amico nel bisogno, e nel rinnegarlo; e quanto alla sua codardia, chiedete a Fabiano. |
 | FABIANO | Un codardo, un codardo devotissimo, religioso in ciò. |
 | SER ANDREW | Per Dio, gli correrò dietro di nuovo, e lo picchierò. |
-| SER TOBY | Fallo, sgrugnalo di santa ragione, ma non sguainare mai la tua [[Sword\|spada]]. |
+| SER TOBY | Fallo, sgrugnalo di santa ragione, ma non sguainare mai la tua spada. |
 | SER ANDREW | E se non lo faccio— |
 | *(didascalia)* | Esce |
 | FABIANO | Venite, vediamo l'esito. |
@@ -3021,21 +3021,21 @@ Musicians, sailors, lords, attendants
 | *(didascalia)* | Enter Sir Andrew, Sir Toby, and Fabian |
 | SIR ANDREW | (to [[characters/sebastian\|Sebastian]]) Now, sir, have I met you again?<br>(Striking him) There’s for you. |
 | [[characters/sebastian\|SEBASTIAN]] | [striking Sir Andrew with his<br>dagger]<br>Why, there’s for thee, and there, and there.<br>Are all the people mad? |
-| SIR TOBY | (to [[characters/sebastian\|Sebastian]], holding him back) Hold, sir, or I’ll throw your dagger o’er the [[house]]. |
+| SIR TOBY | (to [[characters/sebastian\|Sebastian]], holding him back) Hold, sir, or I’ll throw your dagger o’er the house. |
 | [[characters/feste\|FESTE]] | This will I tell my lady straight, I would not be in some of your coats for twopence. Exit |
 | SIR TOBY | Come on, sir, hold. |
-| SIR ANDREW | Nay, let him [[Alone\|alone]], I’ll go another way to work with him. I’ll have an action of battery against him if there be any law in Illyria. Though I struck him first, yet it’s no matter for that. |
+| SIR ANDREW | Nay, let him alone, I’ll go another way to work with him. I’ll have an action of battery against him if there be any law in Illyria. Though I struck him first, yet it’s no matter for that. |
 | [[characters/sebastian\|SEBASTIAN]] | Let go thy hand. |
 | SIR TOBY | Come, sir, I will not let you go. Come, my young soldier, put up your iron. You are [[motifs/well\|well]] fleshed. Come on. |
-| [[characters/sebastian\|SEBASTIAN]] | (freeing himself)<br>I will be free from thee. What wouldst thou now?<br>If thou dar’st tempt me further, draw thy [[Sword\|sword]]. |
+| [[characters/sebastian\|SEBASTIAN]] | (freeing himself)<br>I will be free from thee. What wouldst thou now?<br>If thou dar’st tempt me further, draw thy sword. |
 | SIR TOBY | What, what? Nay then, I must have an ounce or two of this malapert [[motifs/blood\|blood]] from you.<br>Sir Toby and [[characters/sebastian\|Sebastian]] draw their swords. |
 | *(didascalia)* | Enter [[characters/olivia\|Olivia]] |
 | [[characters/olivia\|OLIVIA]] | Hold, Toby, on thy life I charge thee hold. |
 | SIR TOBY | Madam. |
 | [[characters/olivia\|OLIVIA]] | Will it be ever thus? Ungracious wretch,<br>Fit for the [[settings/mountains\|mountains]] and the barbarous caves,<br>Where manners ne’er were preached—out of my sight! Be not offended, dear Cesario.<br>(To Sir Toby) Rudesby, be gone. |
 | *(didascalia)* | Exeunt Sir Toby, Sir Andrew, and Fabian |
-| [[characters/olivia\|OLIVIA]] | I prithee, gentle friend,<br>Let thy fair wisdom, not thy passion sway<br>In this uncivil and unjust extent<br>Against thy peace. Go with me to my [[house]],<br>And hear thou there how many fruitless pranks<br>This ruffian hath botched up, that thou thereby<br>Mayst smile at this. Thou shalt not choose but go.<br>Do not deny. Beshrew his [[motifs/soul\|soul]] for me,<br>He started one poor heart of mine in thee. |
-| [[characters/sebastian\|SEBASTIAN]] | What relish is in this? How runs the stream?<br>Or I am mad, or else this is [[A Dream\|a dream]].<br>Let fancy still my sense in Lethe steep.<br>If it be thus to dream, still let me [[motifs/sleep\|sleep]]. |
+| [[characters/olivia\|OLIVIA]] | I prithee, gentle friend,<br>Let thy fair wisdom, not thy passion sway<br>In this uncivil and unjust extent<br>Against thy peace. Go with me to my house,<br>And hear thou there how many fruitless pranks<br>This ruffian hath botched up, that thou thereby<br>Mayst smile at this. Thou shalt not choose but go.<br>Do not deny. Beshrew his [[motifs/soul\|soul]] for me,<br>He started one poor heart of mine in thee. |
+| [[characters/sebastian\|SEBASTIAN]] | What relish is in this? How runs the stream?<br>Or I am mad, or else this is a dream.<br>Let fancy still my sense in Lethe steep.<br>If it be thus to dream, still let me [[motifs/sleep\|sleep]]. |
 | [[characters/olivia\|OLIVIA]] | Nay, come, I prithee, would thou’dst be ruled by me. |
 | [[characters/sebastian\|SEBASTIAN]] | Madam, I will. |
 | [[characters/olivia\|OLIVIA]] | O, say so, and so be. |
@@ -3057,21 +3057,21 @@ Musicians, sailors, lords, attendants
 | *(didascalia)* | Entrano Ser Andrew, Ser Toby e Fabiano |
 | SER ANDREW | (a [[characters/sebastian\|Sebastiano]]) Ebbene, signore, v'ho ritrovato?<br>(Colpendolo) Ecco per voi. |
 | [[characters/sebastian\|SEBASTIANO]] | [colpendo Ser Andrew col suo<br>pugnale]<br>Ecco allora per te, e qui, e qui.<br>Sono tutti pazzi, costoro? |
-| SER TOBY | (a [[characters/sebastian\|Sebastiano]], trattenendolo) Fermo, signore, o vi getto il pugnale sopra la [[house\|casa]]. |
+| SER TOBY | (a [[characters/sebastian\|Sebastiano]], trattenendolo) Fermo, signore, o vi getto il pugnale sopra la casa. |
 | [[characters/feste\|FESTE]] | Questo lo dirò subito alla mia signora, non vorrei essere nei panni di qualcuno di voi per due soldi. Esce |
 | SER TOBY | Andiamo, signore, fermatevi. |
-| SER ANDREW | No, lasciatelo [[Alone\|stare]], andrò per un'altra via a sbrigarmela con lui. Gli farò causa per percosse, se c'è legge alcuna in Illiria. Benché io l'abbia colpito per primo, questo non importa nulla. |
+| SER ANDREW | No, lasciatelo stare, andrò per un'altra via a sbrigarmela con lui. Gli farò causa per percosse, se c'è legge alcuna in Illiria. Benché io l'abbia colpito per primo, questo non importa nulla. |
 | [[characters/sebastian\|SEBASTIANO]] | Lascia la tua mano. |
 | SER TOBY | Su, signore, non vi lascerò andare. Su, mio giovane soldato, riponete il vostro ferro. Siete [[motifs/well\|ben]] pasciuto di carne. Andiamo. |
-| [[characters/sebastian\|SEBASTIANO]] | (liberandosi)<br>Voglio essere libero da te. Che vorresti ora?<br>Se osi tentarmi ancora, sguaina la tua [[Sword\|spada]]. |
+| [[characters/sebastian\|SEBASTIANO]] | (liberandosi)<br>Voglio essere libero da te. Che vorresti ora?<br>Se osi tentarmi ancora, sguaina la tua spada. |
 | SER TOBY | Come, come? No, allora devo cavarvi un'oncia o due di questo [[motifs/blood\|sangue]] impertinente.<br>Ser Toby e [[characters/sebastian\|Sebastiano]] sguainano le spade. |
 | *(didascalia)* | Entra [[characters/olivia\|Olivia]] |
 | [[characters/olivia\|OLIVIA]] | Fermo, Toby, sulla tua vita t'ingiungo di fermarti. |
 | SER TOBY | Madonna. |
 | [[characters/olivia\|OLIVIA]] | Sarà sempre così? Sciagurato senza grazia,<br>fatto per le [[settings/mountains\|montagne]] e le caverne barbare,<br>dove mai furono predicate le buone maniere—via dai miei occhi! Non v'offendete, caro Cesario.<br>(A Ser Toby) Villanzone, vattene. |
 | *(didascalia)* | Escono Ser Toby, Ser Andrew e Fabiano |
-| [[characters/olivia\|OLIVIA]] | Ti prego, gentile amico,<br>che sia la tua bella saggezza, non la tua passione, a governare<br>in questa incivile e ingiusta violenza<br>contro la tua pace. Vieni con me alla mia [[house\|casa]],<br>e odi là quante infruttuose bravate<br>abbia rabberciato questo malandrino, sicché tu perciò<br>possa sorridere di questa. Non puoi far altro che venire.<br>Non rifiutare. Sia maledetta la sua [[motifs/soul\|anima]] per causa mia,<br>egli ha atterrito in te un mio povero cuore. |
-| [[characters/sebastian\|SEBASTIANO]] | Che sapore ha questo? Come corre la corrente?<br>O io son pazzo, oppure questo è [[A Dream\|un sogno]].<br>Che la fantasia immerga i miei sensi nel Lete.<br>Se sognare è così, ch'io continui a [[motifs/sleep\|dormire]]. |
+| [[characters/olivia\|OLIVIA]] | Ti prego, gentile amico,<br>che sia la tua bella saggezza, non la tua passione, a governare<br>in questa incivile e ingiusta violenza<br>contro la tua pace. Vieni con me alla mia casa,<br>e odi là quante infruttuose bravate<br>abbia rabberciato questo malandrino, sicché tu perciò<br>possa sorridere di questa. Non puoi far altro che venire.<br>Non rifiutare. Sia maledetta la sua [[motifs/soul\|anima]] per causa mia,<br>egli ha atterrito in te un mio povero cuore. |
+| [[characters/sebastian\|SEBASTIANO]] | Che sapore ha questo? Come corre la corrente?<br>O io son pazzo, oppure questo è un sogno.<br>Che la fantasia immerga i miei sensi nel Lete.<br>Se sognare è così, ch'io continui a [[motifs/sleep\|dormire]]. |
 | [[characters/olivia\|OLIVIA]] | Suvvia, vieni, ti prego, vorrei che ti lasciassi guidare da me. |
 | [[characters/sebastian\|SEBASTIANO]] | Madonna, lo farò. |
 | [[characters/olivia\|OLIVIA]] | Oh, dillo, e così sia. |
@@ -3099,12 +3099,12 @@ Musicians, sailors, lords, attendants
 | [[characters/feste\|FESTE]] | Out, hyperbolical fiend, how vexest thou this man! Talkest thou nothing but of ladies? |
 | SIR TOBY | [[motifs/well\|Well]] said, Master Parson. |
 | [[characters/malvolio\|MALVOLIO]] | Sir Topas, never was man thus wronged. Good Sir Topas, do not think I am mad. They have laid me here in hideous darkness. |
-| [[characters/feste\|FESTE]] | Fie, thou dishonest [[characters/satan\|Satan]]—I call thee by the most modest terms, for I am one of those gentle ones that will use the devil himself with courtesy. Sayst thou that [[house]] is dark? |
+| [[characters/feste\|FESTE]] | Fie, thou dishonest [[characters/satan\|Satan]]—I call thee by the most modest terms, for I am one of those gentle ones that will use the devil himself with courtesy. Sayst thou that house is dark? |
 | [[characters/malvolio\|MALVOLIO]] | As hell, Sir Topas. |
 | [[characters/feste\|FESTE]] | Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony, and yet complainest thou of obstruction? |
-| [[characters/malvolio\|MALVOLIO]] | I am not mad, Sir Topas; I say to you this [[house]] is dark. |
+| [[characters/malvolio\|MALVOLIO]] | I am not mad, Sir Topas; I say to you this house is dark. |
 | [[characters/feste\|FESTE]] | Madman, thou errest. I say there is no darkness but ignorance, in which thou art more puzzled than the Egyptians in their fog. |
-| [[characters/malvolio\|MALVOLIO]] | I say this [[house]] is as dark as ignorance, though ignorance were as dark as hell; and I say there was never man thus abused. I am no more mad than you are. Make the trial of it in any constant question. |
+| [[characters/malvolio\|MALVOLIO]] | I say this house is as dark as ignorance, though ignorance were as dark as hell; and I say there was never man thus abused. I am no more mad than you are. Make the trial of it in any constant question. |
 | [[characters/feste\|FESTE]] | What is the opinion of Pythagoras concerning wildfowl? |
 | [[characters/malvolio\|MALVOLIO]] | That the [[motifs/soul\|soul]] of our grandam might haply inhabit a bird. |
 | [[characters/feste\|FESTE]] | What thinkest thou of his opinion? |
@@ -3164,12 +3164,12 @@ Musicians, sailors, lords, attendants
 | [[characters/feste\|FESTE]] | Via, demonio iperbolico, come tormenti quest'uomo! Non parli d'altro che di dame? |
 | SER TOBY | [[motifs/well\|Ben]] detto, signor Parroco. |
 | [[characters/malvolio\|MALVOLIO]] | Ser Topas, mai uomo fu offeso a questo modo. Buon Ser Topas, non crediate che io sia pazzo. Mi hanno messo qui in un'orrenda tenebra. |
-| [[characters/feste\|FESTE]] | Vergogna, [[characters/satan\|Satana]] disonesto—ti chiamo coi termini più modesti, ché io sono di quei gentili che tratteranno con cortesia il diavolo in persona. Dici tu che quella [[house\|casa]] è buia? |
+| [[characters/feste\|FESTE]] | Vergogna, [[characters/satan\|Satana]] disonesto—ti chiamo coi termini più modesti, ché io sono di quei gentili che tratteranno con cortesia il diavolo in persona. Dici tu che quella casa è buia? |
 | [[characters/malvolio\|MALVOLIO]] | Come l'inferno, Ser Topas. |
 | [[characters/feste\|FESTE]] | Ma via, essa ha finestre a bovindo trasparenti come barricate, e i lucernari verso il sud-nord sono lucenti come l'ebano, e tu ti lamenti ancora d'ostruzione? |
-| [[characters/malvolio\|MALVOLIO]] | Non sono pazzo, Ser Topas; vi dico che questa [[house\|casa]] è buia. |
+| [[characters/malvolio\|MALVOLIO]] | Non sono pazzo, Ser Topas; vi dico che questa casa è buia. |
 | [[characters/feste\|FESTE]] | Pazzo, tu erri. Io dico che non c'è tenebra se non l'ignoranza, nella quale tu sei più smarrito che gli Egiziani nella loro nebbia. |
-| [[characters/malvolio\|MALVOLIO]] | Io dico che questa [[house\|casa]] è buia come l'ignoranza, quand'anche l'ignoranza fosse buia come l'inferno; e dico che mai uomo fu abusato a questo modo. Non sono più pazzo di voi. Fatene la prova con qualunque domanda sensata. |
+| [[characters/malvolio\|MALVOLIO]] | Io dico che questa casa è buia come l'ignoranza, quand'anche l'ignoranza fosse buia come l'inferno; e dico che mai uomo fu abusato a questo modo. Non sono più pazzo di voi. Fatene la prova con qualunque domanda sensata. |
 | [[characters/feste\|FESTE]] | Qual è l'opinione di Pitagora intorno alla selvaggina alata? |
 | [[characters/malvolio\|MALVOLIO]] | Che l'[[motifs/soul\|anima]] di nostra nonna potrebbe per caso abitare in un uccello. |
 | [[characters/feste\|FESTE]] | Che pensi tu della sua opinione? |
@@ -3217,7 +3217,7 @@ Musicians, sailors, lords, attendants
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[characters/sebastian\|Sebastian]] |
-| [[characters/sebastian\|SEBASTIAN]] | This is the air, that is the glorious sun.<br>This pearl she gave me, I do feel’t and see‘t,<br>And though ’tis [[concepts/wonder\|wonder]] that enwraps me thus,<br>Yet ‘tis not [[concepts/madness\|madness]]. Where’s [[characters/antonio\|Antonio]] then?<br>I could not find him at the Elephant,<br>Yet there he was, and there I found this credit,<br>That he did range the town to seek me out.<br>His counsel now might do me golden service,<br>For though my [[motifs/soul\|soul]] disputes [[motifs/well\|well]] with my sense<br>That this may be some error but no [[concepts/madness\|madness]],<br>Yet doth this accident and flood of fortune<br>So far exceed all instance, all discourse,<br>That I am ready to distrust mine eyes<br>And wrangle with my reason that persuades me<br>To any other trust but that I am mad,<br>Or else the lady’s mad. Yet if ’twere so<br>She could not sway her [[house]], command her<br>followers,<br>Take and give back affairs and their dispatch<br>With such a smooth, discreet, and stable bearing<br>As I perceive she does. There’s something in’t<br>That is deceivable. But here the lady comes. |
+| [[characters/sebastian\|SEBASTIAN]] | This is the air, that is the glorious sun.<br>This pearl she gave me, I do feel’t and see‘t,<br>And though ’tis [[concepts/wonder\|wonder]] that enwraps me thus,<br>Yet ‘tis not [[concepts/madness\|madness]]. Where’s [[characters/antonio\|Antonio]] then?<br>I could not find him at the Elephant,<br>Yet there he was, and there I found this credit,<br>That he did range the town to seek me out.<br>His counsel now might do me golden service,<br>For though my [[motifs/soul\|soul]] disputes [[motifs/well\|well]] with my sense<br>That this may be some error but no [[concepts/madness\|madness]],<br>Yet doth this accident and flood of fortune<br>So far exceed all instance, all discourse,<br>That I am ready to distrust mine eyes<br>And wrangle with my reason that persuades me<br>To any other trust but that I am mad,<br>Or else the lady’s mad. Yet if ’twere so<br>She could not sway her house, command her<br>followers,<br>Take and give back affairs and their dispatch<br>With such a smooth, discreet, and stable bearing<br>As I perceive she does. There’s something in’t<br>That is deceivable. But here the lady comes. |
 | *(didascalia)* | Enter [[characters/olivia\|Olivia]] and a Priest |
 | [[characters/olivia\|OLIVIA]] | Blame not this haste of mine. If you mean [[motifs/well\|well]]<br>Now go with me, and with this holy man,<br>Into the chantry by. There before him,<br>And underneath that consecrated roof,<br>Plight me the full assurance of your [[concepts/faith\|faith]],<br>That my most jealous and too doubtful [[motifs/soul\|soul]]<br>May live at peace. He shall conceal it<br>Whiles you are willing it shall come to note,<br>What [[motifs/time\|time]] we will our celebration keep<br>According to my birth. What do you say? |
 | [[characters/sebastian\|SEBASTIAN]] | I’ll follow this good man, and go with you,<br>And having sworn [[concepts/truth\|truth]], ever will be true. |
@@ -3230,7 +3230,7 @@ Musicians, sailors, lords, attendants
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra [[characters/sebastian\|Sebastiano]] |
-| [[characters/sebastian\|SEBASTIANO]] | Questa è l'aria, quello è il sole glorioso.<br>Questa perla ella me la diede, io la sento e la vedo,<br>e benché sia [[concepts/wonder\|meraviglia]] ciò che così mi avvolge,<br>pure non è [[concepts/madness\|follia]]. Dov'è dunque [[characters/antonio\|Antonio]]?<br>Non ho potuto trovarlo all'Elefante,<br>eppure là era stato, e là trovai questa notizia,<br>che aveva battuto la città per cercarmi.<br>Il suo consiglio ora mi renderebbe aureo servizio,<br>ché, benché la mia [[motifs/soul\|anima]] disputi [[motifs/well\|bene]] col mio senso<br>che questo possa essere qualche errore ma non [[concepts/madness\|follia]],<br>pure questo accidente e questa piena di fortuna<br>eccedono tanto ogni esempio, ogni discorso,<br>che sono pronto a diffidare dei miei occhi<br>e a contendere con la mia ragione, che mi persuade<br>a qualunque altra credenza fuorché ch'io sia pazzo,<br>oppure è pazza la dama. Eppure, se fosse così,<br>ella non potrebbe reggere la sua [[house\|casa]], comandare i suoi<br>seguaci,<br>prendere e restituire gli affari e il loro sbrigo<br>con un portamento così liscio, discreto e saldo<br>come m'accorgo che fa. C'è in questo qualcosa<br>che è ingannevole. Ma ecco che viene la dama. |
+| [[characters/sebastian\|SEBASTIANO]] | Questa è l'aria, quello è il sole glorioso.<br>Questa perla ella me la diede, io la sento e la vedo,<br>e benché sia [[concepts/wonder\|meraviglia]] ciò che così mi avvolge,<br>pure non è [[concepts/madness\|follia]]. Dov'è dunque [[characters/antonio\|Antonio]]?<br>Non ho potuto trovarlo all'Elefante,<br>eppure là era stato, e là trovai questa notizia,<br>che aveva battuto la città per cercarmi.<br>Il suo consiglio ora mi renderebbe aureo servizio,<br>ché, benché la mia [[motifs/soul\|anima]] disputi [[motifs/well\|bene]] col mio senso<br>che questo possa essere qualche errore ma non [[concepts/madness\|follia]],<br>pure questo accidente e questa piena di fortuna<br>eccedono tanto ogni esempio, ogni discorso,<br>che sono pronto a diffidare dei miei occhi<br>e a contendere con la mia ragione, che mi persuade<br>a qualunque altra credenza fuorché ch'io sia pazzo,<br>oppure è pazza la dama. Eppure, se fosse così,<br>ella non potrebbe reggere la sua casa, comandare i suoi<br>seguaci,<br>prendere e restituire gli affari e il loro sbrigo<br>con un portamento così liscio, discreto e saldo<br>come m'accorgo che fa. C'è in questo qualcosa<br>che è ingannevole. Ma ecco che viene la dama. |
 | *(didascalia)* | Entrano [[characters/olivia\|Olivia]] e un Prete |
 | [[characters/olivia\|OLIVIA]] | Non biasimate questa mia fretta. Se le vostre intenzioni sono [[motifs/well\|buone]],<br>venite ora con me, e con questo sant'uomo,<br>nella cappella qui presso. Là davanti a lui,<br>e sotto quel tetto consacrato,<br>datemi in pegno la piena assicurazione della vostra [[concepts/faith\|fede]],<br>sicché la mia gelosissima e troppo dubbiosa [[motifs/soul\|anima]]<br>possa vivere in pace. Egli lo terrà celato<br>finché non vorrete che venga risaputo,<br>al qual [[motifs/time\|tempo]] terremo la nostra celebrazione<br>secondo la mia nascita. Che ne dite? |
 | [[characters/sebastian\|SEBASTIANO]] | Seguirò questo buon uomo, e verrò con voi,<br>e avendo giurato la [[concepts/truth\|verità]], sarò per sempre fedele. |
@@ -3265,7 +3265,7 @@ Musicians, sailors, lords, attendants
 | [[characters/orsino\|ORSINO]] | O, you give me ill counsel. |
 | [[characters/feste\|FESTE]] | Put your grace in your pocket, sir, for this once, and let your flesh and [[motifs/blood\|blood]] obey it. |
 | [[characters/orsino\|ORSINO]] | [[motifs/well\|Well]], I will be so much a sinner to be a [[topoi/double\|double]]-dealer. (Giving money) There’s another. |
-| [[characters/feste\|FESTE]] | Primo, secundo, tertio is a good play, and the old saying is ‘The third pays for all’. The triplex, sir, is a good tripping measure, or [[The Bells\|the bells]] of Saint Bennet, sir, may put you in mind—‘one, two, three’. |
+| [[characters/feste\|FESTE]] | Primo, secundo, tertio is a good play, and the old saying is ‘The third pays for all’. The triplex, sir, is a good tripping measure, or the bells of Saint Bennet, sir, may put you in mind—‘one, two, three’. |
 | [[characters/orsino\|ORSINO]] | You can [[archetypes/fool\|fool]] no more money out of me at this throw. If you will let your lady know I am here to speak with her, and bring her along with you, it may awake my bounty further. |
 | [[characters/feste\|FESTE]] | Marry, sir, lullaby to your bounty till I come again. I go, sir, but I would not have you to think that my [[motifs/desire\|desire]] of having is the sin of covetousness. But as you say, sir, let your bounty take a nap, I will awake it anon. |
 | *(didascalia)* | Exit |
@@ -3319,7 +3319,7 @@ Musicians, sailors, lords, attendants
 | SIR ANDREW | The Count’s gentleman, one Cesario. We took him for a coward, but he’s the very devil incardinate. |
 | [[characters/orsino\|ORSINO]] | My gentleman, Cesario? |
 | SIR ANDREW | ’Od’s lifelings, here he is. (To [[characters/viola\|Viola]]) You broke my head for nothing, and that that I did I was set on to do’t by Sir Toby. |
-| [[characters/viola\|VIOLA]] | Why do you speak to me? I never hurt you.<br>You drew your [[Sword\|sword]] upon me without cause,<br>But I bespake you fair, and hurt you not. |
+| [[characters/viola\|VIOLA]] | Why do you speak to me? I never hurt you.<br>You drew your sword upon me without cause,<br>But I bespake you fair, and hurt you not. |
 | *(didascalia)* | Enter Sir Toby and [[characters/feste\|Feste]], the clown |
 | SIR ANDREW | If a bloody coxcomb be a hurt you have hurt me. I think you set nothing by a bloody coxcomb. Here comes Sir Toby, halting. You shall hear more; but if he had not been in drink he would have tickled you othergates than he did. |
 | [[characters/orsino\|ORSINO]] | (to Sir Toby)<br>How now, gentleman? How is’t with you? |
@@ -3367,7 +3367,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Did he write this? |
 | [[characters/feste\|FESTE]] | Ay, madam. |
 | [[characters/orsino\|ORSINO]] | This savours not much of distraction. |
-| [[characters/olivia\|OLIVIA]] | See him delivered, Fabian, bring him hither.<br>My lord, so please you—these things further thought<br>on—<br>To think me as [[motifs/well\|well]] a sister as a wife,<br>One day shall [[motifs/crown\|crown]] th‘alliance on’t, so please you,<br>Here at my [[house]] and at my proper cost. |
+| [[characters/olivia\|OLIVIA]] | See him delivered, Fabian, bring him hither.<br>My lord, so please you—these things further thought<br>on—<br>To think me as [[motifs/well\|well]] a sister as a wife,<br>One day shall [[motifs/crown\|crown]] th‘alliance on’t, so please you,<br>Here at my house and at my proper cost. |
 | [[characters/orsino\|ORSINO]] | Madam, I am most apt t’embrace your offer.<br>(To [[characters/viola\|Viola]]) Your master quits you, and for your service<br>done him<br>So much against the mettle of your sex,<br>So far beneath your soft and tender breeding,<br>And since you called me master for so long,<br>Here is my hand. You shall from this [[motifs/time\|time]] be<br>Your master’s mistress. |
 | [[characters/olivia\|OLIVIA]] | (to [[characters/viola\|Viola]]) A sister, you are she. |
 | *(didascalia)* | Enter [[characters/malvolio\|Malvolio]] |
@@ -3375,7 +3375,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Ay, my lord, this same.<br>How now, [[characters/malvolio\|Malvolio]]? |
 | [[characters/malvolio\|MALVOLIO]] | Madam, you have done me wrong,<br>Notorious wrong. |
 | [[characters/olivia\|OLIVIA]] | Have I, [[characters/malvolio\|Malvolio]]? No. |
-| [[characters/malvolio\|MALVOLIO]] | (showing a letter)<br>Lady, you have. Pray you peruse that letter.<br>You must not now deny it is your hand.<br>Write from it if you can, in hand or phrase,<br>Or say ‘tis not your seal, not your invention.<br>You can say none of this. [[motifs/well\|Well]], grant it then,<br>And tell me in the modesty of [[concepts/honour\|honour]]<br>Why you have given me such clear lights of favour,<br>Bade me come smiling and [[motifs/cross\|cross]]-gartered to you,<br>To put on yellow stockings, and to frown<br>Upon Sir Toby and the lighter people,<br>And acting this in an obedient [[concepts/hope\|hope]],<br>Why have you suffered me to be imprisoned,<br>Kept in a dark [[house]], visited by the priest,<br>And made the most notorious geck and gull<br>That e’er invention played on? Tell me why? |
+| [[characters/malvolio\|MALVOLIO]] | (showing a letter)<br>Lady, you have. Pray you peruse that letter.<br>You must not now deny it is your hand.<br>Write from it if you can, in hand or phrase,<br>Or say ‘tis not your seal, not your invention.<br>You can say none of this. [[motifs/well\|Well]], grant it then,<br>And tell me in the modesty of [[concepts/honour\|honour]]<br>Why you have given me such clear lights of favour,<br>Bade me come smiling and [[motifs/cross\|cross]]-gartered to you,<br>To put on yellow stockings, and to frown<br>Upon Sir Toby and the lighter people,<br>And acting this in an obedient [[concepts/hope\|hope]],<br>Why have you suffered me to be imprisoned,<br>Kept in a dark house, visited by the priest,<br>And made the most notorious geck and gull<br>That e’er invention played on? Tell me why? |
 | [[characters/olivia\|OLIVIA]] | Alas, [[characters/malvolio\|Malvolio]], this is not my writing,<br>Though I confess much like the character,<br>But out of question, ‘tis [[characters/maria\|Maria]]’s hand.<br>And now I do bethink me, it was she<br>First told me thou wast mad; then cam’st in smiling,<br>And in such forms which here were presupposed<br>Upon thee in the letter. Prithee be content;<br>This practice hath most shrewdly passed upon thee,<br>But when we know the grounds and authors of it<br>Thou shalt be both the plaintiff and the judge<br>Of thine own cause. |
 | FABIAN | Good madam, hear me speak,<br>And let no quarrel nor no brawl to come<br>Taint the condition of this present hour,<br>Which I have wondered at. In [[concepts/hope\|hope]] it shall not,<br>Most freely I confess myself and Toby<br>Set this device against [[characters/malvolio\|Malvolio]] here<br>Upon some stubborn and uncourteous parts<br>We had conceived against him. [[characters/maria\|Maria]] writ<br>The letter, at Sir Toby’s great importance,<br>In recompense whereof he hath married her.<br>How with a sportful malice it was followed<br>May rather pluck on laughter than [[concepts/revenge\|revenge]]<br>If that the injuries be justly weighed<br>That have on both sides passed. |
 | [[characters/olivia\|OLIVIA]] | (to [[characters/malvolio\|Malvolio]])<br>Alas, poor [[archetypes/fool\|fool]], how have they baffled thee! |
@@ -3420,7 +3420,7 @@ Musicians, sailors, lords, attendants
 | [[characters/orsino\|ORSINO]] | Oh, mi date cattivo consiglio. |
 | [[characters/feste\|FESTE]] | Mettetevi la grazia in tasca, signore, per questa volta, e che la vostra carne e il vostro [[motifs/blood\|sangue]] le obbediscano. |
 | [[characters/orsino\|ORSINO]] | [[motifs/well\|Bene]], sarò tanto peccatore da fare il [[topoi/double\|doppio]] gioco. (Dandogli denaro) Eccone un altro. |
-| [[characters/feste\|FESTE]] | Primo, secundo, tertio è un buon gioco, e il vecchio detto dice: «Il terzo paga per tutti». Il tempo ternario, signore, è una buona misura da ballo, oppure [[The Bells\|le campane]] di San Benedetto, signore, possono ricordarvelo—«uno, due, tre». |
+| [[characters/feste\|FESTE]] | Primo, secundo, tertio è un buon gioco, e il vecchio detto dice: «Il terzo paga per tutti». Il tempo ternario, signore, è una buona misura da ballo, oppure le campane di San Benedetto, signore, possono ricordarvelo—«uno, due, tre». |
 | [[characters/orsino\|ORSINO]] | Non potete [[archetypes/fool\|buffoneggiare]] per cavarmi altro denaro a questo tiro. Se volete far sapere alla vostra signora che sono qui per parlarle, e condurla qui con voi, ciò potrà risvegliare ancora la mia generosità. |
 | [[characters/feste\|FESTE]] | Perbacco, signore, ninna nanna alla vostra generosità finché non ritorno. Vado, signore, ma non vorrei che pensaste che il mio [[motifs/desire\|desiderio]] di avere sia il peccato di cupidigia. Ma come dite voi, signore, lasciate che la vostra generosità faccia un sonnellino, io la risveglierò fra poco. |
 | *(didascalia)* | Esce |
@@ -3474,7 +3474,7 @@ Musicians, sailors, lords, attendants
 | SER ANDREW | Il gentiluomo del Conte, un certo Cesario. L'avevamo preso per un codardo, ma è il diavolo incardinato. |
 | [[characters/orsino\|ORSINO]] | Il mio gentiluomo, Cesario? |
 | SER ANDREW | Per la vita di Dio, eccolo qui. (A [[characters/viola\|Viola]]) M'avete spaccato la testa per nulla, e quel che ho fatto io, fui aizzato a farlo da Ser Toby. |
-| [[characters/viola\|VIOLA]] | Perché parlate a me? Non v'ho mai fatto male.<br>Sguainaste la vostra [[Sword\|spada]] contro di me senza causa,<br>ma io vi parlai cortesemente, e non vi feci male. |
+| [[characters/viola\|VIOLA]] | Perché parlate a me? Non v'ho mai fatto male.<br>Sguainaste la vostra spada contro di me senza causa,<br>ma io vi parlai cortesemente, e non vi feci male. |
 | *(didascalia)* | Entrano Ser Toby e [[characters/feste\|Feste]], il buffone |
 | SER ANDREW | Se una cresta insanguinata è un male, voi m'avete fatto male. Credo che non teniate in nessun conto una cresta insanguinata. Ecco che viene Ser Toby, zoppicando. Ne sentirete altre; ma se non fosse stato nel vino v'avrebbe solleticato in ben altro modo di come ha fatto. |
 | [[characters/orsino\|ORSINO]] | (a Ser Toby)<br>Ebbene, gentiluomo? Come state? |
@@ -3522,7 +3522,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Ha scritto lui questo? |
 | [[characters/feste\|FESTE]] | Sì, madonna. |
 | [[characters/orsino\|ORSINO]] | Questo non sa molto di delirio. |
-| [[characters/olivia\|OLIVIA]] | Fatelo liberare, Fabiano, portatelo qui.<br>Mio signore, se vi piace—pensate ancora a queste<br>cose—<br>di stimarmi [[motifs/well\|buona]] sorella non meno che moglie,<br>un solo giorno [[motifs/crown\|coronerà]] l'alleanza, se vi piace,<br>qui nella mia [[house\|casa]] e a mie proprie spese. |
+| [[characters/olivia\|OLIVIA]] | Fatelo liberare, Fabiano, portatelo qui.<br>Mio signore, se vi piace—pensate ancora a queste<br>cose—<br>di stimarmi [[motifs/well\|buona]] sorella non meno che moglie,<br>un solo giorno [[motifs/crown\|coronerà]] l'alleanza, se vi piace,<br>qui nella mia casa e a mie proprie spese. |
 | [[characters/orsino\|ORSINO]] | Madonna, sono prontissimo ad abbracciare la vostra offerta.<br>(A [[characters/viola\|Viola]]) Il vostro padrone vi scioglie, e per il servizio<br>resogli<br>tanto contro il temperamento del vostro sesso,<br>tanto al di sotto della vostra dolce e tenera educazione,<br>e poiché m'avete chiamato padrone così a lungo,<br>ecco la mia mano. Sarete da questo [[motifs/time\|tempo]] in poi<br>la padrona del vostro padrone. |
 | [[characters/olivia\|OLIVIA]] | (a [[characters/viola\|Viola]]) Una sorella: voi lo siete. |
 | *(didascalia)* | Entra [[characters/malvolio\|Malvolio]] |
@@ -3530,7 +3530,7 @@ Musicians, sailors, lords, attendants
 | [[characters/olivia\|OLIVIA]] | Sì, mio signore, proprio lui.<br>Ebbene, [[characters/malvolio\|Malvolio]]? |
 | [[characters/malvolio\|MALVOLIO]] | Madonna, voi m'avete fatto torto,<br>notorio torto. |
 | [[characters/olivia\|OLIVIA]] | L'ho fatto, [[characters/malvolio\|Malvolio]]? No. |
-| [[characters/malvolio\|MALVOLIO]] | (mostrando una lettera)<br>Signora, sì. Vi prego, esaminate quella lettera.<br>Non potete ora negare che sia la vostra scrittura.<br>Scrivete diversamente, se potete, nel tratto o nella frase,<br>o dite che non è il vostro sigillo, non la vostra invenzione.<br>Nulla di questo potete dire. [[motifs/well\|Bene]], ammettetelo dunque,<br>e ditemi, nella modestia dell'[[concepts/honour\|onore]],<br>perché m'avete dato così chiari segni di favore,<br>m'avete ordinato di venire da voi sorridente e con le giarrettiere [[motifs/cross\|incrociate]],<br>d'indossare calze gialle, e d'accigliarmi<br>con Ser Toby e la gente minore,<br>e, mentre facevo questo in obbediente [[concepts/hope\|speranza]],<br>perché avete sofferto ch'io fossi imprigionato,<br>tenuto in una [[house\|casa]] buia, visitato dal prete,<br>e reso il più notorio zimbello e gonzo<br>su cui mai l'inventiva abbia giocato? Ditemi perché. |
+| [[characters/malvolio\|MALVOLIO]] | (mostrando una lettera)<br>Signora, sì. Vi prego, esaminate quella lettera.<br>Non potete ora negare che sia la vostra scrittura.<br>Scrivete diversamente, se potete, nel tratto o nella frase,<br>o dite che non è il vostro sigillo, non la vostra invenzione.<br>Nulla di questo potete dire. [[motifs/well\|Bene]], ammettetelo dunque,<br>e ditemi, nella modestia dell'[[concepts/honour\|onore]],<br>perché m'avete dato così chiari segni di favore,<br>m'avete ordinato di venire da voi sorridente e con le giarrettiere [[motifs/cross\|incrociate]],<br>d'indossare calze gialle, e d'accigliarmi<br>con Ser Toby e la gente minore,<br>e, mentre facevo questo in obbediente [[concepts/hope\|speranza]],<br>perché avete sofferto ch'io fossi imprigionato,<br>tenuto in una casa buia, visitato dal prete,<br>e reso il più notorio zimbello e gonzo<br>su cui mai l'inventiva abbia giocato? Ditemi perché. |
 | [[characters/olivia\|OLIVIA]] | Ahimè, [[characters/malvolio\|Malvolio]], questa non è la mia scrittura,<br>benché confessi che assai le somiglia,<br>ma senza dubbio è la mano di [[characters/maria\|Maria]].<br>E ora che ci ripenso, fu lei<br>a dirmi per prima che eri pazzo; poi tu venisti sorridendo,<br>e in quelle forme che qui t'erano state prescritte<br>nella lettera. Ti prego, sii contento;<br>questa burla t'è stata giocata assai maliziosamente,<br>ma quando conosceremo i motivi e gli autori di essa<br>tu sarai insieme l'attore e il giudice<br>della tua propria causa. |
 | FABIANO | Buona madonna, ascoltatemi,<br>e nessuna lite né rissa a venire<br>guasti la condizione di questa presente ora,<br>di cui io mi sono meravigliato. Nella [[concepts/hope\|speranza]] che non avvenga,<br>confesso liberissimamente che io e Toby<br>ordimmo questa burla contro [[characters/malvolio\|Malvolio]] qui presente<br>per certi tratti ostinati e scortesi<br>che avevamo concepito contro di lui. [[characters/maria\|Maria]] scrisse<br>la lettera, per le grandi insistenze di Ser Toby,<br>in ricompensa di che egli l'ha sposata.<br>Con quale scherzosa malizia la cosa sia stata seguìta<br>può provocare piuttosto il riso che la [[concepts/revenge\|vendetta]],<br>se si soppesano giustamente le offese<br>che dall'una e dall'altra parte son corse. |
 | [[characters/olivia\|OLIVIA]] | (a [[characters/malvolio\|Malvolio]])<br>Ahimè, povero [[archetypes/fool\|sciocco]], come t'hanno beffato! |

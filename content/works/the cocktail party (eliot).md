@@ -44,13 +44,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Mentor, Martyr Saint
+**Archetypes:** [[archetypes/mentor|Mentor]], [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
 **Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/martyrdom|Martyrdom]], [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/alienation|Alienation]], [[concepts/identity|Identity]], [[concepts/conversion|Conversion]], [[concepts/common-man|Common Man]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/comedy|Comedy]]
 **Historical References:** [[historical-references/greek-tragedy|Greek Tragedy]]
 **Settings:** [[settings/london|London]]
-**Characters:** Edward Chamberlayne, Lavinia Chamberlayne, Celia Coplestone, Sir Henry Harcourt-Reilly
+**Characters:** [[characters/edward-chamberlayne|Edward Chamberlayne]], [[characters/lavinia-chamberlayne|Lavinia Chamberlayne]], [[characters/celia-coplestone|Celia Coplestone]], [[characters/sir-henry-harcourt-reilly|Sir Henry Harcourt-Reilly]]
 
 ## Testo integrale / Full text
 

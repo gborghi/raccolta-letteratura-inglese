@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/autumn|Autumn]], [[concepts/nature|Nature]]
 **Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]]
 **Historical References:** [[historical-references/american-civil-war|American Civil War]]

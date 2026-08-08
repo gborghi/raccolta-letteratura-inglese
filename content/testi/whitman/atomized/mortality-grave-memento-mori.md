@@ -136,7 +136,7 @@ The delicate spear of the onion pierces upward,
 The apple-buds cluster together on the apple-branches,
 The [[concepts/resurrection|resurrection]] of the wheat appears with pale visage out of its graves,
 The tinge awakes over the willow-tree and the mulberry-tree,
-The he-[[motifs/birds|birds]] [[carol]] mornings and evenings while the she-[[motifs/birds|birds]] sit on
+The he-[[motifs/birds|birds]] carol mornings and evenings while the she-[[motifs/birds|birds]] sit on
 their nests,
 The young of poultry break through the hatch’d eggs,
 The new-born of [[motifs/animals|animals]] appear, the calf is dropt from the cow, the
@@ -217,7 +217,7 @@ And I dream’d I went where they had buried him I [[motifs/love|love]], but he 
 not in that place,  
 And I dream’d I wander’d searching among burial-places to find him,  
 And I found that every place was a burial-place;  
-The houses full of life were equally full of [[motifs/death|death]], (this [[house]] is now,)  
+The houses full of life were equally full of [[motifs/death|death]], (this house is now,)  
 The streets, the shipping, the places of amusement, the Chicago,  
 Boston, Philadelphia, the Mannahatta, were as full of the dead as  
 of the living,  
@@ -245,7 +245,7 @@ _Cluster: WHISPERS OF HEAVENLY DEATH_
 
 
 As if a [[characters/phantom|phantom]] caress’d me,
-I thought I was not [[Alone|alone]] walking here by the shore;
+I thought I was not alone walking here by the shore;
 But the one I thought was with me as now I walk by the shore, the
 one I loved that caress’d me,
 As I lean and look through the glimmering light, that one has
@@ -379,7 +379,7 @@ The fretting world, the streets, the noisy hours of day withdraw,
 A holy calm descends like dew upon me,
 I walk in cool refreshing [[motifs/night|night]] the walks of Paradise,
 I scent the grass, the moist air and the roses;
-Thy [[Song|song]] expands my numb’d imbonded spirit, thou freest, launchest me,
+Thy song expands my numb’d imbonded spirit, thou freest, launchest me,
 Floating and basking upon heaven’s lake.
 
 4
@@ -406,9 +406,9 @@ No other theme but [[motifs/love|love]]--knitting, enclosing, all-diffusing [[mo
 O how the immortal phantoms crowd around me!
 I see the vast alembic ever working, I see and know the flames that
 heat the world,
-The glow, the blush, the beating hearts of [[lovers]],
+The glow, the blush, the beating hearts of lovers,
 So blissful happy some, and some so silent, dark, and nigh to [[motifs/death|death]];
-[[motifs/love|Love]], that is all the earth to [[lovers]]--[[motifs/love|love]], that mocks [[motifs/time|time]] and space,
+[[motifs/love|Love]], that is all the earth to lovers--[[motifs/love|love]], that mocks [[motifs/time|time]] and space,
 [[motifs/love|Love]], that is day and [[motifs/night|night]]--[[motifs/love|love]], that is sun and [[motifs/moon|moon]] and [[motifs/stars|stars]],
 [[motifs/love|Love]], that is crimson, sumptuous, sick with perfume,
 No other words but words of [[motifs/love|love]], no other thought but [[motifs/love|love]].
@@ -421,7 +421,7 @@ Lo, where the arm’d men hasten--lo, mid the clouds of [[motifs/dust|dust]] the
 of bayonets,
 I see the grime-faced cannoneers, I mark the rosy flash amid the
 smoke, I hear the cracking of the guns;
-Nor war [[Alone|alone]]--thy fearful music-[[Song|song]], wild player, brings every
+Nor war alone--thy fearful music-song, wild player, brings every
 sight of [[concepts/fear|fear]],
 The deeds of ruthless brigands, rapine, murder--I hear the cries for help!
 I see ships foundering at sea, I behold on deck and below deck the
@@ -451,12 +451,12 @@ Sing to my [[motifs/soul|soul]], renew its languishing [[concepts/faith|faith]] 
 Rouse up my slow belief, give me some vision of the future,
 Give me for once its prophecy and joy.
 
-O glad, exulting, culminating [[Song|song]]!
+O glad, exulting, culminating song!
 A vigor more than earth’s is in thy notes,
 Marches of victory--man disenthral’d--the conqueror at last,
 Hymns to the universal God from universal man--all joy!
 A reborn race appears--a perfect world, all joy!
-Women and men in wisdom [[innocence]] and health--all joy!
+Women and men in wisdom innocence and health--all joy!
 Riotous laughing bacchanals fill’d with joy!
 War, sorrow, [[concepts/suffering|suffering]] gone--the rank earth purged--nothing but joy left!
 The ocean fill’d with joy--the atmosphere all joy!
@@ -484,7 +484,7 @@ Ruin’d cathedrals, crumble of palaces, tombs of priests,
 Lo, [[concepts/freedom|Freedom]]’s features fresh undimm’d look forth--the same immortal  
 face looks forth;  
 (A glimpse as of thy Mother’s face Columbia,  
-A flash significant as of a [[Sword|sword]],  
+A flash significant as of a sword,  
 Beaming towards thee.)  
 
 Nor think we forget thee maternal;  
@@ -503,7 +503,7 @@ Thou waitest there as everywhere thy [[motifs/time|time]].
 <span class="atom-split" data-atom="277_as_the_time_draws_nigh" data-title="As the Time Draws Nigh" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_
+_Cluster: SONGS OF PARTING_
 
 
 As the [[motifs/time|time]] draws nigh glooming a cloud,
@@ -529,7 +529,7 @@ O [[motifs/soul|soul]], we have positively appear’d--that is enough.
 <span class="atom-split" data-atom="284_pensive_on_her_dead_gazing" data-title="Pensive on Her Dead Gazing" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_  
+_Cluster: SONGS OF PARTING_  
 
 
 Pensive on her dead gazing I heard the Mother of All,  
@@ -566,10 +566,10 @@ Exhale them perennial sweet [[motifs/death|death]], years, centuries hence.
 <span class="atom-split" data-atom="286_the_sobbing_of_the_bells_midnight_sept_19_20_1881" data-title="The Sobbing of the Bells [Midnight, Sept. 19-20, 1881]" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_  
+_Cluster: SONGS OF PARTING_  
 
 
-The sobbing of [[The Bells|the bells]], the sudden [[motifs/death|death]]-news everywhere,  
+The sobbing of the bells, the sudden [[motifs/death|death]]-news everywhere,  
 The slumberers rouse, the rapport of the People,  
 (Full [[motifs/well|well]] they know that message in the darkness,  
 Full [[motifs/well|well]] return, respond within their breasts, their brains, the  
@@ -587,7 +587,7 @@ Those heart-beats of a Nation in the [[motifs/night|night]].
 <span class="atom-split" data-atom="290_portals" data-title="Portals" data-chapter="" data-kind="intro" data-tags="cluster/mortality,cluster/grave,cluster/memento_mori"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_
+_Cluster: SONGS OF PARTING_
 
 
 What are those of the known but to ascend and enter the Unknown?
@@ -610,7 +610,7 @@ To those who’ve fail’d, in [[concepts/aspiration|aspiration]] vast,
 To unnam’d soldiers fallen in front on the lead,  
 To calm, devoted engineers--to over-ardent travelers--to pilots on  
 their ships,  
-To many a lofty [[Song|song]] and picture without recognition--I’d rear  
+To many a lofty song and picture without recognition--I’d rear  
 laurel-cover’d monument,  
 High, high above the rest--To all cut off before their [[motifs/time|time]],  
 Possess’d by some strange spirit of [[motifs/fire|fire]],  
@@ -651,7 +651,7 @@ _Cluster: SANDS AT SEVENTY_
 
 Upon this scene, this show,  
 Yielded to-day by fashion, learning, wealth,  
-(Nor in caprice [[Alone|alone]]--some grains of deepest meaning,)  
+(Nor in caprice alone--some grains of deepest meaning,)  
 Haply, aloft, (who knows?) from distant sky-clouds’ blended shapes,  
 As some old tree, or rock or cliff, thrill’d with its [[motifs/soul|soul]],  
 Product of [[concepts/nature|Nature]]’s sun, [[motifs/stars|stars]], earth direct--a towering human form,  
@@ -672,7 +672,7 @@ Like one of Ossian’s [[motifs/ghosts|ghosts]] looks down.
 _Cluster: SANDS AT SEVENTY_  
 
 
-A [[Song|song]], a poem of itself--the word itself a [[forms/dirge|dirge]],  
+A song, a poem of itself--the word itself a [[forms/dirge|dirge]],  
 Amid the wilds, the rocks, the [[motifs/storm|storm]] and wintry [[motifs/night|night]],  
 To me such misty, strange tableaux the syllables calling up;  
 Yonnondio--I see, far in the west or north, a limitless ravine, with  
@@ -723,7 +723,7 @@ While not the past forgetting,
 To-day, at least, contention sunk entire--peace, brotherhood uprisen;  
 For sign reciprocal our Northern, Southern hands,  
 Lay on the graves of all dead soldiers, North or South,  
-(Nor for the past [[Alone|alone]]--for meanings to the future,)  
+(Nor for the past alone--for meanings to the future,)  
 Wreaths of roses and branches of palm.  
 
 
@@ -800,7 +800,7 @@ Thou that in all the life and [[motifs/death|death]] of us, in action or in [[mo
 Thou laws invisible that permeate them and all,  
 Thou that in all, and over all, and through and under all, incessant!  
 Thou! thou! the vital, universal, giant force resistless, sleepless, calm,  
-Holding Humanity as in thy open hand, as some [[ephemeral]] toy,  
+Holding Humanity as in thy open hand, as some ephemeral toy,  
 How ill to e’er forget thee!  
 
 For I too have forgotten,  
@@ -858,7 +858,7 @@ _Cluster: GOOD-BYE MY FANCY_
 Not to exclude or demarcate, or pick out evils from their formidable  
 masses (even to expose them,)  
 But add, fuse, complete, extend--and celebrate the immortal and the good.  
-Haughty this [[Song|song]], its words and scope,  
+Haughty this song, its words and scope,  
 To span vast realms of space and [[motifs/time|time]],  
 Evolution--the cumulative--growths and generations.  
 
@@ -869,7 +869,7 @@ Never even for one brief hour abandoning my task,
 I end it here in sickness, [[concepts/poverty|poverty]], and old age.  
 
 I sing of life, yet mind me [[motifs/well|well]] of [[motifs/death|death]]:  
-To-day shadowy [[motifs/death|Death]] [[dogs]] my steps, my seated shape, and has for years--  
+To-day shadowy [[motifs/death|Death]] dogs my steps, my seated shape, and has for years--  
 Draws sometimes close to me, as face to face.  
 
 

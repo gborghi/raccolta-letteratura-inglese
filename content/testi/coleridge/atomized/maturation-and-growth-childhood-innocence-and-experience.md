@@ -106,7 +106,7 @@ From mystic grove and living cell,
 Confess’d to Fancy’s eye;  
 Meek Quietness without offence;  
 Content in homespun kirtle;  
-True [[motifs/love|Love]]; and True [[motifs/love|Love]]’s [[innocence|Innocence]],   15  
+True [[motifs/love|Love]]; and True [[motifs/love|Love]]’s Innocence,   15  
 White Blossom of the Myrtle!  
 Associates of thy name, sweet [[archetypes/child|Child]]!  
 These Virtues may’st thou win;  
@@ -293,7 +293,7 @@ Close your little peeping eye,
 Bonny Baby B —— s.  
 First collected 1893. ‘Baby Bates’ was the daughter of Joshua Bates, one  
 of the donors of the Boston Library. Her father and mother passed a year  
-(1828-1829) at Highgate, ‘close to the [[house]] of Dr. and Mrs. Gillman.’  
+(1828-1829) at Highgate, ‘close to the house of Dr. and Mrs. Gillman.’  
 See a letter to Mrs. Bates from S. T. C. dated Jan. 23, 1829. N. and  
 Q. 4th Series, i. 469.  
 

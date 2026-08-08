@@ -42,13 +42,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Scapegoat
+**Archetypes:** [[archetypes/scapegoat|Scapegoat]]
 
 **Settings:** [[settings/america|America]], [[settings/new-england-america|New England America]]
 
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/tobacco-and-cigars|Tobacco and Cigars]]
 
-**Characters:** Avis D. Carlson
+**Characters:** [[characters/avis-d.-carlson|Avis D. Carlson]]
 
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/truth|Truth]], [[concepts/fanaticism|Fanaticism]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/reform|Reform]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]

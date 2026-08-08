@@ -27,7 +27,7 @@ tags:
 **Motifs:** [[motifs/death|Death]], [[motifs/childhood|Childhood]], [[motifs/sleep|Sleep]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/grief-and-loss|Grief and Loss]]
 **Forms & Genres:** [[forms/elegy|Elegy]]
-**Characters:** Death Personified
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/sleep|Sleep]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/jealousy|Jealousy]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

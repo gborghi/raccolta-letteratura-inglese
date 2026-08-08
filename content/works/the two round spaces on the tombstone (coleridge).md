@@ -25,11 +25,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Motifs:** [[motifs/grave|Grave]], [[motifs/winter|Winter]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/grotesque|Grotesque]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/satire|Satire]]
-**Characters:** Satan
+**Characters:** [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

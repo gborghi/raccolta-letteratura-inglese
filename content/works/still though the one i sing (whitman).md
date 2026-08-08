@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Rebel
+**Archetypes:** [[archetypes/rebel|Rebel]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/identity|Identity]], [[concepts/reform|Reform]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 

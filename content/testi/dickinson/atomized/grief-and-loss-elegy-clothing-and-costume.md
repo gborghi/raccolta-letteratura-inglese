@@ -965,7 +965,7 @@ Through Haze of Burial —
 
 She sped as Petals of a [[motifs/rose|Rose]]  
 Offended by the [[motifs/wind|Wind]] —  
-A frail [[aristocrat|Aristocrat]] of [[motifs/time|Time]]  
+A frail Aristocrat of [[motifs/time|Time]]  
 Indemnity to find —  
 Leaving on [[concepts/nature|nature]] — a Default  
 As Cricket or as Bee —  
@@ -1021,7 +1021,7 @@ Some Disease had vext
 I beheld Her next  
 
 And a Company — our pleasure  
-To discourse [[Alone|alone]] —  
+To discourse alone —  
 Gracious now to me as any —  
 Gracious unto none —  
 
@@ -1214,7 +1214,7 @@ It only sweeter grows.
 'Tis not the swaying frame we miss,  
 It is the steadfast Heart,  
 That had it beat a thousand years,  
-With [[motifs/love|Love]] [[Alone|alone]] had bent,  
+With [[motifs/love|Love]] alone had bent,  
 Its fervor the electric Oar,  
 That bore it through the Tomb,  
 Ourselves, denied the privilege,  

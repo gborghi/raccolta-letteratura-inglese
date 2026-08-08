@@ -27,7 +27,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/book-of-nature|Book of Nature]]
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[concepts/nature|Nature]], [[motifs/stars|Stars]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/sublime|Sublime]]
 **Forms & Genres:** [[forms/hymn|Hymn]], [[forms/hexameter-verse|Hexameter Verse]], [[forms/translation|Translation]]

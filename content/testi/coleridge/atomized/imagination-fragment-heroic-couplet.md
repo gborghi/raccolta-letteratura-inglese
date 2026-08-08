@@ -92,7 +92,7 @@ No more shall deck thy pensive Pleasures sweet
 With wreaths of sober hue my evening seat!  
 Yet dear to [My] Fancy’s Eye thy varied scene  
 Of Wood, [[motifs/hill|Hill]], Dale and sparkling Brook between:   60  
-Yet sweet to [My] Fancy’s Ear the warbled [[Song|song]],  
+Yet sweet to [My] Fancy’s Ear the warbled song,  
 That soars on Morning’s wing thy fields among!  
 Scenes of my [[concepts/hope|Hope]]! the aching Eye ye leave,  
 Like those rich Hues that paint the clouds of Eve!  
@@ -133,7 +133,7 @@ My pensive Sara! thy soft cheek reclined
 Thus on mine arm, most soothing sweet it is  
 To sit beside our Cot, our Cot o’ergrown  
 With white-flower’d Jasmin, and the broad-leav’d Myrtle,  
-(Meet emblems they of [[innocence|Innocence]] and [[motifs/love|Love]]!)   5  
+(Meet emblems they of Innocence and [[motifs/love|Love]]!)   5  
 And watch the clouds, that late were rich with light.  
 Slow saddening round, and mark the star of eve  
 Serenely brilliant (such should Wisdom be)  
@@ -186,7 +186,7 @@ Meek Daughter in the family of [[characters/christ|Christ]]!
 [[motifs/well|Well]] hast thou said and holily disprais’d  
 These shapings of the unregenerate mind;   55  
 Bubbles that glitter as they rise and break  
-On vain [[philosophy|Philosophy]]’s aye-babbling [[motifs/spring|spring]].  
+On vain Philosophy’s aye-babbling [[motifs/spring|spring]].  
 For never guiltless may I speak of him,  
 The Incomprehensible! save when with awe  
 I praise him, and with [[concepts/faith|Faith]] that inly feels;   60  
@@ -224,7 +224,7 @@ I saw the train of the Departing Year!
 Starting from my silent sadness  
 Then with no unholy [[concepts/madness|madness]],   10  
 Ere yet the enter’d cloud foreclos’d my sight,  
-I rais’d the impetuous [[Song|song]], and solemnis’d his flight.  
+I rais’d the impetuous song, and solemnis’d his flight.  
 II  
 Hither, from the recent tomb,  
 From the [[motifs/prison|prison]]’s direr gloom,  
@@ -274,11 +274,11 @@ The exterminating Fiend is fled —
 (Foul her life, and dark her doom)  
 Mighty armies of the dead  
 [[motifs/dance|Dance]], like [[motifs/death|death]]-fires, round her tomb!  
-Then with prophetic [[Song|song]] relate,   60  
+Then with prophetic song relate,   60  
 Each some [[archetypes/tyrant|Tyrant]]-Murderer’s fate!  
 IV  
 Departing Year! ‘twas on no earthly shore  
-My [[motifs/soul|soul]] beheld thy Vision! Where [[Alone|alone]],  
+My [[motifs/soul|soul]] beheld thy Vision! Where alone,  
 Voiceless and stern, before the cloudy throne,  
 Aye [[motifs/memory|Memory]] sits: thy robe inscrib’d with gore,   65  
 With many an unimaginable groan  
@@ -291,7 +291,7 @@ The Spirit of the Earth made reverence meet,
 And stood up, beautiful, before the cloudy seat.  
 V  
 Throughout the blissful throng,  
-Hush’d were harp and [[Song|song]]:   75  
+Hush’d were harp and song:   75  
 Till wheeling round the throne the Lampads seven,  
 (The mystic Words of Heaven)  
 Permissive signal make:  
@@ -302,7 +302,7 @@ By the Earth’s unsolaced groaning,
 Seize thy terrors, Arm of might!  
 By Peace with proffer’d insult scared,  
 Masked Hate and envying Scorn!   85  
-By years of Havoc yet [[unborn]]!  
+By years of Havoc yet unborn!  
 And Hunger’s bosom to the [[motifs/frost|frost]]-winds bared!  
 But chief by Afric’s wrongs,  
 Strange, horrible, and foul!  
@@ -360,7 +360,7 @@ Mid thy herds and thy corn-fields secure thou hast stood,
 And join’d the wild yelling of Famine and [[motifs/blood|Blood]]!  
 The nations curse thee! They with eager wondering  
 Shall hear Destruction, like a vulture, scream!   140  
-Strange-eyed Destruction! who with many [[A Dream|a dream]]  
+Strange-eyed Destruction! who with many a dream  
 Of central fires through nether seas up-thundering  
 Soothes her fierce [[concepts/solitude|solitude]]; yet as she lies  
 By livid fount, or red volcanic stream,  
@@ -390,7 +390,7 @@ God’s Image, sister of the Seraphim.
 <span class="atom-split" data-atom="134_this_lime-tree_bower_my_prison" data-title="THIS LIME-TREE BOWER MY PRISON" data-chapter="" data-kind="intro"></span>
 
 
-ADDRESSED TO CHARLES [[motifs/lamb|LAMB]], OF THE INDIA [[house|HOUSE]], [[settings/london|LONDON]]  
+ADDRESSED TO CHARLES [[motifs/lamb|LAMB]], OF THE INDIA HOUSE, [[settings/london|LONDON]]  
 In the June of 1797 some long-expected friends paid a visit to the  
 author’s cottage; and on the morning of their arrival, he met with an  
 accident, which disabled him from walking during the whole [[motifs/time|time]] of their  
@@ -482,14 +482,14 @@ No sound is dissonant which tells of Life.
 <span class="atom-split" data-atom="159_kubla_khan" data-title="KUBLA KHAN" data-chapter="" data-kind="intro"></span>
 
 
-[[characters/kubla-khan|KUBLA KHAN]]: OR, A VISION IN [[A Dream|A DREAM]]. A [[forms/fragment|FRAGMENT]]  
+[[characters/kubla-khan|KUBLA KHAN]]: OR, A VISION IN A DREAM. A [[forms/fragment|FRAGMENT]]  
 The following [[forms/fragment|fragment]] is here published at the request  
 of a poet of great and deserved celebrity [Lord Byron], and,  
 as far as the Author’s own opinions are concerned, rather as  
 a psychological curiosity, than on the ground of any supposed  
 poetic merits.   5  
 In the [[motifs/summer|summer]] of the year 1797, the Author, then in ill  
-health, had retired to a lonely farm-[[house]] between Porlock  
+health, had retired to a lonely farm-house between Porlock  
 and Linton, on the Exmoor confines of Somerset and Devonshire.  
 In consequence of a slight indisposition, an anodyne  
 had been prescribed, from the effects of which he fell asleep   10  
@@ -577,7 +577,7 @@ It was an Abyssinian maid,
 And on her dulcimer she played,   40  
 Singing of Mount Abora.  
 Could I revive within me  
-Her symphony and [[Song|song]],  
+Her symphony and song,  
 To such a deep delight ‘twould win me,  
 That with music loud and long,   45  
 I would build that dome in air,  
@@ -597,7 +597,7 @@ And drunk the milk of Paradise.
 <span class="atom-split" data-atom="184_mahomet" data-title="MAHOMET" data-chapter="" data-kind="intro"></span>
 
 
-Utter the [[Song|song]], O my [[motifs/soul|soul]]! the flight and return of Mohammed,  
+Utter the song, O my [[motifs/soul|soul]]! the flight and return of Mohammed,  
 [[archetypes/prophet|Prophet]] and priest, who scatter’d abroad both evil and blessing,  
 Huge wasteful empires founded and hallow’d slow persecution,  
 [[motifs/soul|Soul]]-withering, but crush’d the blasphemous rites of the Pagan  
@@ -637,7 +637,7 @@ Phantoms of sublimity.
 
 
 TO WILLIAM WORDSWORTH
-This be the meed, that thy [[Song|song]] creates a thousand-fold echo!
+This be the meed, that thy song creates a thousand-fold echo!
 Sweet as the warble of woods, that awakes at the gale of the morning!
 List! the Hearts of the Pure, like caves in the ancient [[settings/mountains|mountains]]
 Deep, deep in the Bosom, and from the Bosom resound it,
@@ -699,7 +699,7 @@ Kayser! to whom, as to a second [[concepts/self|self]],
 [[concepts/nature|Nature]], or [[concepts/nature|Nature]]’s next-of-kin, the Elf,  
 Hight Genius, hath dispensed the happy skill  
 To cheer or soothe the parting friend’s ‘Alas!’  
-Turning the blank scroll to a [[Magic|magic]] glass,   5  
+Turning the blank scroll to a magic glass,   5  
 That makes the absent present at our will;  
 And to the shadowing of thy pencil gives  
 Such seeming substance, that it almost lives.  
@@ -836,7 +836,7 @@ That Fancy makes in the clouds, yea, as mute
 As the moonlight that sleeps on the steady vanes.  
 (or)  
 The cell of a departed anchoret,  
-His [[skeleton]] and flitting [[archetypes/ghost|ghost]] are there,  
+His skeleton and flitting [[archetypes/ghost|ghost]] are there,  
 Sole tenants —  
 And all the [[motifs/city|City]] silent as the [[motifs/moon|Moon]]  
 That steeps in quiet light the steady vanes  
@@ -879,7 +879,7 @@ Dec. 1797. First published from an MS. in 1893.
 FROM THE GERMAN  
 No mortal spirit yet had clomb so high  
 As Kepler — yet his Country saw him die  
-For very want! the Minds [[Alone|alone]] he fed,  
+For very want! the Minds alone he fed,  
 And so the Bodies left him without bread.  
 1799. First published in The Friend, Nov. 30, 1809 (1818, ii. 95;
 1850, ii. 69). First collected P. and D. W., 1877, ii. 374.  
@@ -1110,9 +1110,9 @@ First published from an MS. in 1893.
 Ø ¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯  
 ¯ Ø Ø, ¯ Ø  
 Ø ¯ Ø Ø, ¯ Ø etc.  
-[[songs|Songs]] of Shepherds and rustical Roundelays,  
+Songs of Shepherds and rustical Roundelays,  
 Forms of Fancies and whistled on Reeds,  
-[[songs|Songs]] to solace young Nymphs upon Holidays  
+Songs to solace young Nymphs upon Holidays  
 Are too unworthy for wonderful deeds —  
 Round about, hornéd  
 Lucinda they swarméd,  

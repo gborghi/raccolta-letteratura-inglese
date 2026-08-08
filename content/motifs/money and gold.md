@@ -72,60 +72,60 @@ tags:
 - [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 1024. So large my Will (Dickinson)
-- 1093. Because 'twas Riches I could own, (Dickinson)
-- 11. I never told the buried gold (Dickinson)
-- 1117. A Mine there is no Man would own (Dickinson)
-- 117. In rags mysterious as these (Dickinson)
-- 1178. My God — He sees thee — (Dickinson)
-- 1189. The Voice that stands for Floods to me (Dickinson)
-- 119. Talk with prudence to a Beggar (Dickinson)
-- 1207. He preached upon Breadth till it argued him narrow — (Dickinson)
-- 1249. The Stars are old, that stood for me — (Dickinson)
-- 125. For each ecstatic instant (Dickinson)
-- 1446. His Mind like Fabrics of the East (Dickinson)
-- 1466. One of the ones that Midas touched (Dickinson)
-- 181. I lost a World — the other day! (Dickinson)
-- 204. A slash of Blue — (Dickinson)
-- 223. I Came to buy a smile — today — (Dickinson)
-- 228. Blazing in Gold and quenching in Purple (Dickinson)
-- 23. I had a guinea golden — (Dickinson)
-- 234. You're right — the way is narrow — (Dickinson)
-- 289. I know some lonely Houses off the Road (Dickinson)
-- 299. Your Riches — taught me — Poverty (Dickinson)
-- 320. We play at Paste — (Dickinson)
-- 323. As if I asked a common Alms, (Dickinson)
-- 343. My Reward for Being, was This. (Dickinson)
-- 356. The Day that I was crowned (Dickinson)
-- 377. To lose one's faith — surpass (Dickinson)
-- 382. For Death — or rather (Dickinson)
-- 395. Reverse cannot befall (Dickinson)
-- 397. When Diamonds are a Legend, (Dickinson)
-- 400. A Tongue — to tell Him I am true! (Dickinson)
-- 406. Some — Work for Immortality — (Dickinson)
-- 424. Removed from Accident of Loss (Dickinson)
-- 427. I'll clutch — and clutch — (Dickinson)
-- 430. It would never be Common — more — I said — (Dickinson)
-- 454. It was given to me by the Gods — (Dickinson)
-- 466. 'Tis little I — could care for Pearls — (Dickinson)
-- 49. I never lost as much but twice, (Dickinson)
-- 523. Sweet — You forgot — but I remembered (Dickinson)
-- 54. If I should die, (Dickinson)
-- 543. I fear a Man of frugal Speech — (Dickinson)
-- 555. Trust in the Unexpected — (Dickinson)
-- 621. I asked no other thing — (Dickinson)
-- 651. So much Summer (Dickinson)
-- 655. Without this — there is nought — (Dickinson)
-- 659. That first Day, when you praised Me, Sweet, (Dickinson)
-- 697. I could bring You Jewels — had I a mind to — (Dickinson)
-- 709. Publication — is the Auction (Dickinson)
-- 737. The Moon was but a Chin of Gold (Dickinson)
-- 747. It dropped so low — in my Regard — (Dickinson)
-- 791. God gave a Loaf to every Bird — (Dickinson)
-- 801. I play at Riches — to appease (Dickinson)
-- 806. A Plated Life — diversified (Dickinson)
-- 843. I made slow Riches but my Gain (Dickinson)
-- 855. To own the Art within the Soul (Dickinson)
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1024_so_large_my_will|1024. So large my Will (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#1093_because_twas_riches_i_could_own|1093. Because 'twas Riches I could own, (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0011_i_never_told_the_buried_gold|11. I never told the buried gold (Dickinson)]]
+- [[testi/dickinson/atomized/rose-desire-value-and-scarcity#1117_a_mine_there_is_no_man_would_own|1117. A Mine there is no Man would own (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0117_in_rags_mysterious_as_these|117. In rags mysterious as these (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#1178_my_god_he_sees_thee|1178. My God — He sees thee — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1189_the_voice_that_stands_for_floods_to_me|1189. The Voice that stands for Floods to me (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0119_talk_with_prudence_to_a_beggar|119. Talk with prudence to a Beggar (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1207_he_preached_upon_breadth_till_it_argued_him_narrow|1207. He preached upon Breadth till it argued him narrow — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1249_the_stars_are_old_that_stood_for_me|1249. The Stars are old, that stood for me — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0125_for_each_ecstatic_instant|125. For each ecstatic instant (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#1446_his_mind_like_fabrics_of_the_east|1446. His Mind like Fabrics of the East (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1466_one_of_the_ones_that_midas_touched|1466. One of the ones that Midas touched (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0181_i_lost_a_world_the_other_day|181. I lost a World — the other day! (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0204_a_slash_of_blue|204. A slash of Blue — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0223_i_came_to_buy_a_smile_today|223. I Came to buy a smile — today — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0228_blazing_in_gold_and_quenching_in_purple|228. Blazing in Gold and quenching in Purple (Dickinson)]]
+- [[testi/dickinson/atomized/friendship-tears#0023_i_had_a_guinea_golden|23. I had a guinea golden — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0234_youre_right_the_way_is_narrow|234. You're right — the way is narrow — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0289_i_know_some_lonely_houses_off_the_road|289. I know some lonely Houses off the Road (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0299_your_riches_taught_me_poverty|299. Your Riches — taught me — Poverty (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0320_we_play_at_paste|320. We play at Paste — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0323_as_if_i_asked_a_common_alms|323. As if I asked a common Alms, (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0343_my_reward_for_being_was_this|343. My Reward for Being, was This. (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0356_the_day_that_i_was_crowned|356. The Day that I was crowned (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0377_to_lose_ones_faith_surpass|377. To lose one's faith — surpass (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0382_for_death_or_rather|382. For Death — or rather (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0395_reverse_cannot_befall|395. Reverse cannot befall (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0397_when_diamonds_are_a_legend|397. When Diamonds are a Legend, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0400_a_tongue_to_tell_him_i_am_true|400. A Tongue — to tell Him I am true! (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0406_some_work_for_immortality|406. Some — Work for Immortality — (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0424_removed_from_accident_of_loss|424. Removed from Accident of Loss (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0427_ill_clutch_and_clutch|427. I'll clutch — and clutch — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0430_it_would_never_be_common_more_i_said|430. It would never be Common — more — I said — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0454_it_was_given_to_me_by_the_gods|454. It was given to me by the Gods — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0466_tis_little_i_could_care_for_pearls|466. 'Tis little I — could care for Pearls — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0049_i_never_lost_as_much_but_twice|49. I never lost as much but twice, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0523_sweet_you_forgot_but_i_remembered|523. Sweet — You forgot — but I remembered (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0054_if_i_should_die|54. If I should die, (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0543_i_fear_a_man_of_frugal_speech|543. I fear a Man of frugal Speech — (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0555_trust_in_the_unexpected|555. Trust in the Unexpected — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0621_i_asked_no_other_thing|621. I asked no other thing — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0651_so_much_summer|651. So much Summer (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0655_without_this_there_is_nought|655. Without this — there is nought — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0659_that_first_day_when_you_praised_me_sweet|659. That first Day, when you praised Me, Sweet, (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0697_i_could_bring_you_jewels_had_i_a_mind_to|697. I could bring You Jewels — had I a mind to — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0709_publication_is_the_auction|709. Publication — is the Auction (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0737_the_moon_was_but_a_chin_of_gold|737. The Moon was but a Chin of Gold (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0747_it_dropped_so_low_in_my_regard|747. It dropped so low — in my Regard — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0791_god_gave_a_loaf_to_every_bird|791. God gave a Loaf to every Bird — (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0801_i_play_at_riches_to_appease|801. I play at Riches — to appease (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0806_a_plated_life_diversified|806. A Plated Life — diversified (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0843_i_made_slow_riches_but_my_gain|843. I made slow Riches but my Gain (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0855_to_own_the_art_within_the_soul|855. To own the Art within the Soul (Dickinson)]]
 - [[works/a-cooking-egg-(eliot)|A Cooking Egg (Eliot)]]
 - [[works/burbank-with-a-baedeker-bleistein-with-a-cigar-(eliot)|Burbank with a Baedeker Bleistein with a Cigar (Eliot)]]
 - [[works/vi-it-is-hard-for-those-who-have-never-known-persecution-(eliot)|VI It is hard for those who have never known persecution (Eliot)]]
@@ -145,19 +145,19 @@ tags:
 - [[works/the-literary-life-of-thingum-bob,-esq-(poe)|The Literary Life of Thingum Bob, Esq (Poe)]]
 - [[works/to----(poe)-(2)|To -- (Poe) (2)]]
 - [[works/von-kempelen-and-his-discovery-(poe)|Von Kempelen and his Discovery (Poe)]]
-- Sonnet 120 (Shakespeare)
-- Sonnet 134 (Shakespeare)
-- Sonnet 30 (Shakespeare)
-- Sonnet 33 (Shakespeare)
-- Sonnet 4 (Shakespeare)
-- Sonnet 48 (Shakespeare)
-- Sonnet 49 (Shakespeare)
-- Sonnet 52 (Shakespeare)
-- Sonnet 6 (Shakespeare)
-- Sonnet 75 (Shakespeare)
-- Sonnet 85 (Shakespeare)
-- Sonnet 87 (Shakespeare)
-- Sonnet 91 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_120|Sonnet 120 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_134|Sonnet 134 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_030|Sonnet 30 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_033|Sonnet 33 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_004|Sonnet 4 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_048|Sonnet 48 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_049|Sonnet 49 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_052|Sonnet 52 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_006|Sonnet 6 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_075|Sonnet 75 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_085|Sonnet 85 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_087|Sonnet 87 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_091|Sonnet 91 (Shakespeare)]]
 - [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
 - [[works/the-merchant-of-venice-(shakespeare)|THE MERCHANT OF VENICE (Shakespeare)]]
 - [[works/the-merry-wives-of-windsor-(shakespeare)|THE MERRY WIVES OF WINDSOR (Shakespeare)]]

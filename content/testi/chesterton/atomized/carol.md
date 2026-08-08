@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Una [[carol|Canzone]] di Natale  
+Una Canzone di Natale  
 
 Il [[characters/christ|Cristo]]-[[archetypes/child|bambino]] giaceva in grembo a Maria,  
 i suoi capelli erano come luce.  
@@ -47,7 +47,7 @@ Pubblicata anche in "The collected [[works/poems-(chesterton)|Poems]] of G.K.Che
 <span class="atom-split" data-atom="part--part_01" data-title="carol (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/desire,motif/fire,motif/flowers,motif/stars,character/christ"></span>
 
 
-A Christmas [[carol|Carol]]  
+A Christmas Carol  
 
 The [[characters/christ|Christ]]-[[archetypes/child|child]] lay on Mary's lap,  
 His hair was like a light.  
@@ -75,7 +75,7 @@ Also published in "The collected [[works/poems-(chesterton)|Poems]] of G.K.Chest
 
 <span class="qlang-split" data-lang="it"></span>
 
-Una [[carol|Canzone]] di Natale  
+Una Canzone di Natale  
 
 Il [[characters/christ|Cristo]]-[[archetypes/child|bambino]] giaceva in grembo a Maria,  
 i suoi capelli erano come luce.  

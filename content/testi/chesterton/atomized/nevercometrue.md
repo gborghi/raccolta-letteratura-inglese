@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Song|Canzone]]  
+Canzone  
 
 C'è un suono di flauti e di liuti stanotte  
 nell'isola di [[works/nevercometrue-(chesterton)|Nevercometrue]];  
@@ -28,7 +28,7 @@ con la donna che avresti potuto essere tu:
 sotto il mondo dove un uomo ricorda  
 più di quanto abbia mai saputo.  
 
-C'è un fragore di [[songs|canti]] nei gong stanotte,  
+C'è un fragore di canti nei gong stanotte,  
 nel [[motifs/garden|giardino]] di [[works/nevercometrue-(chesterton)|Nevercometrue]];  
 sotto gli alberi dei terribili [[motifs/flowers|fiori]]  
 che sbocciano quando la [[motifs/moon|luna]] è azzurra;  
@@ -57,7 +57,7 @@ With woman that might have been you:
 Under the world where a man remembers  
 More than he ever knew.  
 
-There's a noise of [[songs]] in the gongs tonight,  
+There's a noise of songs in the gongs tonight,  
 In the [[motifs/garden|garden]] of [[works/nevercometrue-(chesterton)|Nevercometrue]];  
 Under the trees of the terrible [[motifs/flowers|flowers]]  
 That bloom when the [[motifs/moon|moon]] is blue;  
@@ -73,7 +73,7 @@ G.K. Chesterton
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Song|Canzone]]  
+Canzone  
 
 C'è un suono di flauti e di liuti stanotte  
 nell'isola di [[works/nevercometrue-(chesterton)|Nevercometrue]];  
@@ -84,7 +84,7 @@ con la donna che avresti potuto essere tu:
 sotto il mondo dove un uomo ricorda  
 più di quanto abbia mai saputo.  
 
-C'è un fragore di [[songs|canti]] nei gong stanotte,  
+C'è un fragore di canti nei gong stanotte,  
 nel [[motifs/garden|giardino]] di [[works/nevercometrue-(chesterton)|Nevercometrue]];  
 sotto gli alberi dei terribili [[motifs/flowers|fiori]]  
 che sbocciano quando la [[motifs/moon|luna]] è azzurra;  

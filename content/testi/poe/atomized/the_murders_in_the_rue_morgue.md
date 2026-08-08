@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quale [[Song|canto]] cantavano le Sirene, o quale nome assunse [[characters/achilles|Achille]] quando si nascose.
+Quale canto cantavano le Sirene, o quale nome assunse [[characters/achilles|Achille]] quando si nascose.
 
 “Tra le donne… sebbene ci siano domande enigmatiche, non è impossibile…”
 
@@ -150,7 +150,7 @@ Analisi: Il miglior giocatore di scacchi del Cristianesimo potrebbe essere… po
 
 Più che il miglior giocatore di scacchi… ma anche una notevole abilità nel gioco del whist.
 
-Ciò implica la capacità di ottenere [[success|successo]] in tutte quelle situazioni più importanti.
+Ciò implica la capacità di ottenere successo in tutte quelle situazioni più importanti.
 
 Imprese in cui la mente lotta contro se stessa. Quando dico…
 
@@ -359,7 +359,7 @@ Non ammetteva visite. Infatti, la località in cui trascorrevamo la nostra pensi
 
 Avevano trascorso molti anni da quando Dupin aveva smesso di conoscere, o di essere conosciuto.
 
-A [[settings/paris|Parigi]]. Esistevamo soltanto in noi stessi, [[Alone|da soli]].
+A [[settings/paris|Parigi]]. Esistevamo soltanto in noi stessi, da soli.
 
 
 
@@ -422,7 +422,7 @@ Sembrava un lamento petulante, ma in realtà era pieno di riflessione e coerenza
 
 **Distinzione nell’enunciazione. Osservandolo in questi stati d’animo, io…**
 
-Spesso rifletteva in modo contemplativo sulla vecchia [[philosophy|filosofia]] della Dualità.
+Spesso rifletteva in modo contemplativo sulla vecchia filosofia della Dualità.
 
 [[motifs/soul|Anima]], e mi divertii con l’idea di un doppio Dupin, il.
 
@@ -432,7 +432,7 @@ Creativo e risoluto.
 
 Non si debba pensare, da quanto ho appena detto, che io sia…
 
-Descrivere qualsiasi mistero o scrivere qualsiasi [[Romance|romanzo]]. Quello che ho.
+Descrivere qualsiasi mistero o scrivere qualsiasi romanzo. Quello che ho.
 
 Il titolo descritto nel libro del francese era semplicemente il risultato di un’emozione intensa…
 
@@ -698,7 +698,7 @@ Gli abitanti del Quartiere St. Roch furono svegliati dal [[motifs/sleep|sonno]] 
 
 Una serie di urla terribili, che sembravano provenire da…
 
-Il quarto piano di una [[house|casa]] in rue Morgue, nota per trovarsi in.
+Il quarto piano di una casa in rue Morgue, nota per trovarsi in.
 
 Solo l’occupazione di Madame L’Espanaye e sua figlia.
 
@@ -717,7 +717,7 @@ I lamenti erano cessati; ma mentre il gruppo si affrettava verso la prima…
 Titolo:  
 Erano distinti e sembravano provenire dalla parte superiore…
 
-La [[house|casa]]. Quando si raggiunse il secondo piano, anche quei suoni.
+La casa. Quando si raggiunse il secondo piano, anche quei suoni.
 
 Silenzio assoluto  
 Tutto era immobile, il silenzio regnava sovrano… La festa era finita.
@@ -790,7 +790,7 @@ Frenato fino alla [[motifs/death|morte]].
 
 
 
-Dopo un'attenta ispezione di ogni parte della [[house|casa]],
+Dopo un'attenta ispezione di ogni parte della casa,
 
 Senza ulteriori scoperte, il gruppo proseguì il suo cammino verso una piccola…
 
@@ -843,7 +843,7 @@ Non si esprime nulla riguardo al loro modo o ai mezzi di vita… Si crede che…
 Titolo:  
 Madame L. che si dedicava alla divinazione per vivere… Si diceva che avesse…
 
-Il denaro era stato versato in anticipo. Quando lei ha chiamato, non ho mai incontrato nessuno nella [[house|casa]].
+Il denaro era stato versato in anticipo. Quando lei ha chiamato, non ho mai incontrato nessuno nella casa.
 
 Per i vestiti, o li portò a casa. Ero sicuro che non ne avessero altri.
 
@@ -861,11 +861,11 @@ L’Espanaye: quasi quattro anni… Nato nel quartiere stesso.
 
 E ha sempre vissuto lì. La defunta e sua figlia…
 
-Occupò la [[house|casa]] nella quale furono trovati i cadaveri, per più di.
+Occupò la casa nella quale furono trovati i cadaveri, per più di.
 
 “Sei anni… In passato era occupato da un gioielliere, il quale lo affittava ad altri.”
 
-Le stanze superiori appartenevano a diverse persone. Quella [[house|casa]] era di proprietà di.
+Le stanze superiori appartenevano a diverse persone. Quella casa era di proprietà di.
 
 Madame L.: Insoddisfatta dell’abuso delle strutture
 
@@ -889,7 +889,7 @@ Il medico lo visitò otto o dieci volte.
 
 Molte altre persone, i vicini, fornirono testimonianze dello stesso tenore.
 
-Nessuno veniva menzionato come persona che frequentasse quella [[house|casa]]; non se ne conosceva l'esistenza.
+Nessuno veniva menzionato come persona che frequentasse quella casa; non se ne conosceva l'esistenza.
 
 Se esistessero ancora legami vivi tra Madame L. e lei…
 
@@ -897,7 +897,7 @@ Figlia. Le persiane delle finestre anteriori venivano raramente aperte.
 
 Quelli in fondo erano sempre chiusi, ad eccezione di…
 
-Una grande stanza sul retro, al quarto piano. Quella [[house|casa]] era una bella [[house|casa]], non c’era nulla da dire.
+Una grande stanza sul retro, al quarto piano. Quella casa era una bella casa, non c’era nulla da dire.
 
 Molto vecchio.
 
@@ -905,7 +905,7 @@ Molto vecchio.
 
 “Isidore Musèt, gendarme”, dichiara di essere stato chiamato…
 
-Sono arrivato alla [[house|casa]] verso le tre di [[motifs/clock|mattina]] e ho trovato circa venti.
+Sono arrivato alla casa verso le tre di [[motifs/clock|mattina]] e ho trovato circa venti.
 
 O trenta persone all’ingresso, che cercavano disperatamente di essere ammesse.
 
@@ -947,7 +947,7 @@ Li ho visti ieri.
 
 “_Henri Duval_, un vicino e di professione fabbro d’argento, testimonia, ”
 
-che era uno dei primi ad essere entrati nella [[house|casa]].
+che era uno dei primi ad essere entrati nella casa.
 
 Conferma nel complesso il testimoneato di Musèt. Non appena…
 
@@ -980,7 +980,7 @@ uno dei due defunti.
 
 Testimonianza. Non parlando francese, fu interrogato tramite…
 
-Interprete. È originario di Amsterdam. Stava passando davanti alla [[house|casa]].
+Interprete. È originario di Amsterdam. Stava passando davanti alla casa.
 
 Il momento dei grida. Durarono diversi minuti, probabilmente.
 
@@ -1004,7 +1004,7 @@ La [[concepts/fear|paura]], proprio come la [[motifs/well|rabbia]], era intensa.
 
 Deloraine… È la più anziana dei Mignaud. Madame L’Espanaye ne aveva qualcosa da dire…
 
-Proprietà. Aveva aperto un conto presso la sua banca[[house|istituzione]].
+Proprietà. Aveva aperto un conto presso la sua bancaistituzione.
 
 La primavera di quell’anno, otto anni prima. Si recava lì spesso.
 
@@ -1037,7 +1037,7 @@ Via stretta a quell’[[motifs/time|ora]]. È una strada secondaria, molto desol
 
 “William Bird”, il sarto dichiara di essere stato uno dei partecipanti…
 
-Entrò nella [[house|casa]]. È un inglese. Ha vissuto a [[settings/paris|Parigi]] per due.
+Entrò nella casa. È un inglese. Ha vissuto a [[settings/paris|Parigi]] per due.
 
 Primi ad salire le scale…
 
@@ -1078,17 +1078,17 @@ La porta che conduceva dalla sala principale al corridoio era chiusa a chiave.
 
 Con la chiave all’interno. Una piccola stanza davanti…
 
-[[house|casa]], al quarto piano, all'inizio del corridoio, la porta era aperta.
+casa, al quarto piano, all'inizio del corridoio, la porta era aperta.
 
 La porta era socchiusa; questa stanza era piena di letti vecchi, scatole…
 
 E così via… Questi elementi furono rimossi con cura e successivamente esaminati attentamente.
 
-Non c'era nemmeno un centimetro di alcuna parte della [[house|casa]] che non fosse.
+Non c'era nemmeno un centimetro di alcuna parte della casa che non fosse.
 
 Fu cercato con attenzione; furono condotte ricerche su e giù per le ciminiere.
 
-La [[house|casa]] aveva quattro piani, oltre ai tetti a padiglione.
+La casa aveva quattro piani, oltre ai tetti a padiglione.
 
 La porta segreta sul tetto era fissata molto saldamente… non si muoveva affatto.
 
@@ -1108,7 +1108,7 @@ Si aprì con difficoltà.
 
 Obitorio. Originario della Spagna, fu uno dei partecipanti a quell’evento.
 
-La [[house|casa]]. Non è andata su per le scale. È nervosa, e.
+La casa. Non è andata su per le scale. È nervosa, e.
 
 Preoccupato per le conseguenze di un’agitazione… Ho sentito quelle voci.
 
@@ -1148,7 +1148,7 @@ Pennelli ampi e potenti, quelli utilizzati da chi si occupa di pulizia
 
 Camini. Queste spazzole venivano utilizzate su ogni canale fumario…
 
-[[house|casa]]. Non esiste alcun passaggio segreto attraverso cui qualcuno avrebbe potuto entrare.
+casa. Non esiste alcun passaggio segreto attraverso cui qualcuno avrebbe potuto entrare.
 
 Discese mentre il gruppo proseguiva su per le scale. Il [[concepts/body|corpo]] di.
 
@@ -1368,7 +1368,7 @@ Si trova tra la Rue Richelieu e la Rue St. Roch.
 Titolo:  
 Tardi pomeriggio, quando arrivammo lì… poiché questa zona si trova in una posizione particolare…
 
-A grande distanza da dove noi abitavamo. Quella [[house|casa]] era.
+A grande distanza da dove noi abitavamo. Quella casa era.
 
 Facilmente reperibile; poiché c’erano ancora molte persone che guardavano in su…
 
@@ -1481,7 +1481,7 @@ Non occorre nemmeno menzionarlo: sono stati sufficienti per paralizzare le autor
 Titolo:  
 Mettendo completamente in discussione l’affermata “acume” di…
 
-Agenti del [[government|governo]]. Sono caduti in un errore grave ma comune.
+Agenti del governo. Sono caduti in un errore grave ma comune.
 
 Titolo:  
 L’errore di confondere ciò che è insolito con ciò che è oscuro e complesso… Ma è proprio attraverso questo errore…
@@ -1955,7 +1955,7 @@ Porta con la metà inferiore in griglia o lavorata a motivi aperti
 
 In questo caso specifico, queste persiane hanno una lunghezza totale di tre piedi e mezzo.
 
-Ampi. Quando li vedemmo dal retro della [[house|casa]], erano.
+Ampi. Quando li vedemmo dal retro della casa, erano.
 
 Titolo:  
 Più o meno semi-aperti… in altre parole, erano distanziati correttamente l’uno dall’altro.
@@ -2004,7 +2004,7 @@ Avrebbe potuto anche arrampicarsi dentro la stanza da solo.
 
 “Desidero che teniate particolarmente presente che ho parlato di…”
 
-Un grado di attività _molto_ insolito, necessario per ottenere il [[success|successo]] in questo contesto.
+Un grado di attività _molto_ insolito, necessario per ottenere il successo in questo contesto.
 
 Un’impresa pericolosa e estremamente difficile… Il mio intento è mostrarvelo.
 
@@ -2098,7 +2098,7 @@ L’idea errata di “motivo”, nata nella mente degli…
 
 Polizia, sulla base di quella parte delle prove che riguardano i soldi
 
-Rivestito alla porta della [[house|casa]]. Coincidenze dieci volte più.
+Rivestito alla porta della casa. Coincidenze dieci volte più.
 
 Straordinario come questo… (la consegna del denaro e l’omicidio)
 
@@ -2517,7 +2517,7 @@ In quel momento sentimmo dei passi sulle scale.
 
 
 
-La porta d’ingresso della [[house|casa]] era stata lasciata aperta, e il visitatore.
+La porta d’ingresso della casa era stata lasciata aperta, e il visitatore.
 
 Era entrato senza suonare il campanello e si era avvicinato di qualche passo…
 
@@ -2765,7 +2765,7 @@ La strada dei morti: l’attenzione del fuggitivo fu attratta da una luce
 
 Rilucente dalla finestra aperta della camera di Madame L’Espanaye, dentro.
 
-La quarta storia della sua [[house|casa]]. Correndo verso l’edificio, essa.
+La quarta storia della sua casa. Correndo verso l’edificio, essa.
 
 Percepì l’asta di ferro per la protezione contro i fulmini; vi si arrampicò con una velocità inimmaginabile.
 
@@ -2791,7 +2791,7 @@ Lungo il percorso, dove poteva essere intercettato mentre scendeva.
 
 D'altra parte, c'erano molte ragioni per essere preoccupati riguardo a ciò che potesse accadere.
 
-farlo nella [[house|casa]]. Quest'ultima riflessione spinse l’uomo a continuare ancora.
+farlo nella casa. Quest'ultima riflessione spinse l’uomo a continuare ancora.
 
 Seguire il fuggitivo. Si sale su un parafulmine senza indugio.
 
@@ -2834,7 +2834,7 @@ Mentre il marinaio guardava all’interno, quell’animale gigantesco aveva già
 
 "L’Espanaye per i capelli, che erano sciolti perché lei li stava pettinando..."
 
-Era lì, e si passava la lametta rasoiata sul viso, in un’[[Imitation|imitazione]].
+Era lì, e si passava la lametta rasoiata sul viso, in un’imitazione.
 
 Movimenti di un barbiere… La figlia giaceva prosternata…
 
@@ -2960,7 +2960,7 @@ Passaggio (*).
 <span class="atom-split" data-atom="part--part_01" data-title="The Murders in the Rue Morgue (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/flag,motif/memory,motif/nature,motif/silence,motif/soul,motif/well,concept/doubt,concept/nature,concept/truth,character/achilles"></span>
 
 
-What [[Song|song]] the Syrens sang, or what name [[characters/achilles|Achilles]] assumed when he hid
+What song the Syrens sang, or what name [[characters/achilles|Achilles]] assumed when he hid
 
 himself among women, although puzzling questions, are not beyond
 
@@ -3090,7 +3090,7 @@ analysis. The best chess-player in Christendom _may_ be little
 
 more than the best player of chess; but proficiency in whist
 
-implies capacity for [[success]] in all those more important
+implies capacity for success in all those more important
 
 undertakings where mind struggles with mind. When I say
 
@@ -3145,7 +3145,7 @@ He notes every variation of face as the play progresses,
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quale [[Song|canto]] cantavano le Sirene, o quale nome assunse [[characters/achilles|Achille]] quando si nascose.
+Quale canto cantavano le Sirene, o quale nome assunse [[characters/achilles|Achille]] quando si nascose.
 
 “Tra le donne… sebbene ci siano domande enigmatiche, non è impossibile…”
 
@@ -3278,7 +3278,7 @@ Analisi: Il miglior giocatore di scacchi del Cristianesimo potrebbe essere… po
 
 Più che il miglior giocatore di scacchi… ma anche una notevole abilità nel gioco del whist.
 
-Ciò implica la capacità di ottenere [[success|successo]] in tutte quelle situazioni più importanti.
+Ciò implica la capacità di ottenere successo in tutte quelle situazioni più importanti.
 
 Imprese in cui la mente lotta contro se stessa. Quando dico…
 
@@ -3489,7 +3489,7 @@ been carefully kept a secret from my own former associates; and
 
 it had been many years since Dupin had ceased to know or be known
 
-in [[settings/paris|Paris]]. We existed within ourselves [[Alone|alone]].
+in [[settings/paris|Paris]]. We existed within ourselves alone.
 
 
 
@@ -3679,7 +3679,7 @@ Non ammetteva visite. Infatti, la località in cui trascorrevamo la nostra pensi
 
 Avevano trascorso molti anni da quando Dupin aveva smesso di conoscere, o di essere conosciuto.
 
-A [[settings/paris|Parigi]]. Esistevamo soltanto in noi stessi, [[Alone|da soli]].
+A [[settings/paris|Parigi]]. Esistevamo soltanto in noi stessi, da soli.
 
 
 
@@ -3747,7 +3747,7 @@ have sounded petulantly but for the deliberateness and entire
 
 distinctness of the enunciation. Observing him in these moods, I
 
-often dwelt meditatively upon the old [[philosophy]] of the Bi-Part
+often dwelt meditatively upon the old philosophy of the Bi-Part
 
 [[motifs/soul|Soul]], and amused myself with the fancy of a [[topoi/double|double]] Dupin—the
 
@@ -3757,7 +3757,7 @@ creative and the resolvent.
 
 Let it not be supposed, from what I have just said, that I am
 
-detailing any mystery, or penning any [[Romance|romance]]. What I have
+detailing any mystery, or penning any romance. What I have
 
 described in the Frenchman, was merely the result of an excited,
 
@@ -3964,7 +3964,7 @@ Sembrava un lamento petulante, ma in realtà era pieno di riflessione e coerenza
 
 **Distinzione nell’enunciazione. Osservandolo in questi stati d’animo, io…**
 
-Spesso rifletteva in modo contemplativo sulla vecchia [[philosophy|filosofia]] della Dualità.
+Spesso rifletteva in modo contemplativo sulla vecchia filosofia della Dualità.
 
 [[motifs/soul|Anima]], e mi divertii con l’idea di un doppio Dupin, il.
 
@@ -3974,7 +3974,7 @@ Creativo e risoluto.
 
 Non si debba pensare, da quanto ho appena detto, che io sia…
 
-Descrivere qualsiasi mistero o scrivere qualsiasi [[Romance|romanzo]]. Quello che ho.
+Descrivere qualsiasi mistero o scrivere qualsiasi romanzo. Quello che ho.
 
 Il titolo descritto nel libro del francese era semplicemente il risultato di un’emozione intensa…
 
@@ -4242,7 +4242,7 @@ inhabitants of the Quartier St. Roch were aroused from [[motifs/sleep|sleep]] by
 
 succession of terrific shrieks, issuing, apparently, from the
 
-fourth story of a [[house]] in the Rue Morgue, known to be in the
+fourth story of a house in the Rue Morgue, known to be in the
 
 sole occupancy of one Madame L’Espanaye, and her daughter,
 
@@ -4260,7 +4260,7 @@ flight of stairs, two or more rough voices in angry contention
 
 were distinguished and seemed to proceed from the upper part of
 
-the [[house]]. As the second landing was reached, these sounds, also,
+the house. As the second landing was reached, these sounds, also,
 
 had ceased and everything remained perfectly quiet. The party
 
@@ -4332,7 +4332,7 @@ throttled to [[motifs/death|death]].
 
 
 
-“After a thorough investigation of every portion of the [[house]],
+“After a thorough investigation of every portion of the house,
 
 without farther discovery, the party made its way into a small
 
@@ -4438,7 +4438,7 @@ Gli abitanti del Quartiere St. Roch furono svegliati dal [[motifs/sleep|sonno]] 
 
 Una serie di urla terribili, che sembravano provenire da…
 
-Il quarto piano di una [[house|casa]] in rue Morgue, nota per trovarsi in.
+Il quarto piano di una casa in rue Morgue, nota per trovarsi in.
 
 Solo l’occupazione di Madame L’Espanaye e sua figlia.
 
@@ -4457,7 +4457,7 @@ I lamenti erano cessati; ma mentre il gruppo si affrettava verso la prima…
 Titolo:  
 Erano distinti e sembravano provenire dalla parte superiore…
 
-La [[house|casa]]. Quando si raggiunse il secondo piano, anche quei suoni.
+La casa. Quando si raggiunse il secondo piano, anche quei suoni.
 
 Silenzio assoluto  
 Tutto era immobile, il silenzio regnava sovrano… La festa era finita.
@@ -4530,7 +4530,7 @@ Frenato fino alla [[motifs/death|morte]].
 
 
 
-Dopo un'attenta ispezione di ogni parte della [[house|casa]],
+Dopo un'attenta ispezione di ogni parte della casa,
 
 Senza ulteriori scoperte, il gruppo proseguì il suo cammino verso una piccola…
 
@@ -4587,7 +4587,7 @@ not speak in regard to their mode or means of living. Believed
 
 that Madame L. told fortunes for a living. Was reputed to have
 
-money put by. Never met any persons in the [[house]] when she called
+money put by. Never met any persons in the house when she called
 
 for the clothes or took them [[motifs/home|home]]. Was sure that they had no
 
@@ -4605,11 +4605,11 @@ L’Espanaye for nearly four years. Was born in the neighborhood,
 
 and has always resided there. The deceased and her daughter had
 
-occupied the [[house]] in which the corpses were found, for more than
+occupied the house in which the corpses were found, for more than
 
 six years. It was formerly occupied by a jeweller, who under-let
 
-the upper rooms to various persons. The [[house]] was the property of
+the upper rooms to various persons. The house was the property of
 
 Madame L. She became dissatisfied with the abuse of the premises
 
@@ -4633,7 +4633,7 @@ physician some eight or ten times.
 
 “Many other persons, neighbors, gave evidence to the same effect.
 
-No one was spoken of as frequenting the [[house]]. It was not known
+No one was spoken of as frequenting the house. It was not known
 
 whether there were any living connexions of Madame L. and her
 
@@ -4641,7 +4641,7 @@ daughter. The shutters of the front windows were seldom opened.
 
 Those in the rear were always closed, with the exception of the
 
-large back room, fourth story. The [[house]] was a good [[house]]—not
+large back room, fourth story. The house was a good house—not
 
 very old.
 
@@ -4649,7 +4649,7 @@ very old.
 
 “_Isidore Musèt_, _gendarme_, deposes that he was called to the
 
-[[house]] about three o’[[motifs/clock|clock]] in the morning, and found some twenty
+house about three o’[[motifs/clock|clock]] in the morning, and found some twenty
 
 or thirty persons at the gateway, endeavoring to gain admittance.
 
@@ -4689,9 +4689,9 @@ them yesterday.
 
 
 
-“_Henri Duval_, a neighbor, and by trade a silver-[[smith]], deposes
+“_Henri Duval_, a neighbor, and by trade a silver-smith, deposes
 
-that he was one of the party who first entered the [[house]].
+that he was one of the party who first entered the house.
 
 Corroborates the testimony of Musèt in general. As soon as they
 
@@ -4721,7 +4721,7 @@ either of the deceased.
 
 testimony. Not speaking French, was examined through an
 
-interpreter. Is a native of Amsterdam. Was passing the [[house]] at
+interpreter. Is a native of Amsterdam. Was passing the house at
 
 the [[motifs/time|time]] of the shrieks. They lasted for several minutes—probably
 
@@ -4785,7 +4785,7 @@ Non si esprime nulla riguardo al loro modo o ai mezzi di vita… Si crede che…
 Titolo:  
 Madame L. che si dedicava alla divinazione per vivere… Si diceva che avesse…
 
-Il denaro era stato versato in anticipo. Quando lei ha chiamato, non ho mai incontrato nessuno nella [[house|casa]].
+Il denaro era stato versato in anticipo. Quando lei ha chiamato, non ho mai incontrato nessuno nella casa.
 
 Per i vestiti, o li portò a casa. Ero sicuro che non ne avessero altri.
 
@@ -4803,11 +4803,11 @@ L’Espanaye: quasi quattro anni… Nato nel quartiere stesso.
 
 E ha sempre vissuto lì. La defunta e sua figlia…
 
-Occupò la [[house|casa]] nella quale furono trovati i cadaveri, per più di.
+Occupò la casa nella quale furono trovati i cadaveri, per più di.
 
 “Sei anni… In passato era occupato da un gioielliere, il quale lo affittava ad altri.”
 
-Le stanze superiori appartenevano a diverse persone. Quella [[house|casa]] era di proprietà di.
+Le stanze superiori appartenevano a diverse persone. Quella casa era di proprietà di.
 
 Madame L.: Insoddisfatta dell’abuso delle strutture
 
@@ -4831,7 +4831,7 @@ Il medico lo visitò otto o dieci volte.
 
 Molte altre persone, i vicini, fornirono testimonianze dello stesso tenore.
 
-Nessuno veniva menzionato come persona che frequentasse quella [[house|casa]]; non se ne conosceva l'esistenza.
+Nessuno veniva menzionato come persona che frequentasse quella casa; non se ne conosceva l'esistenza.
 
 Se esistessero ancora legami vivi tra Madame L. e lei…
 
@@ -4839,7 +4839,7 @@ Figlia. Le persiane delle finestre anteriori venivano raramente aperte.
 
 Quelli in fondo erano sempre chiusi, ad eccezione di…
 
-Una grande stanza sul retro, al quarto piano. Quella [[house|casa]] era una bella [[house|casa]], non c’era nulla da dire.
+Una grande stanza sul retro, al quarto piano. Quella casa era una bella casa, non c’era nulla da dire.
 
 Molto vecchio.
 
@@ -4847,7 +4847,7 @@ Molto vecchio.
 
 “Isidore Musèt, gendarme”, dichiara di essere stato chiamato…
 
-Sono arrivato alla [[house|casa]] verso le tre di [[motifs/clock|mattina]] e ho trovato circa venti.
+Sono arrivato alla casa verso le tre di [[motifs/clock|mattina]] e ho trovato circa venti.
 
 O trenta persone all’ingresso, che cercavano disperatamente di essere ammesse.
 
@@ -4889,7 +4889,7 @@ Li ho visti ieri.
 
 “_Henri Duval_, un vicino e di professione fabbro d’argento, testimonia, ”
 
-che era uno dei primi ad essere entrati nella [[house|casa]].
+che era uno dei primi ad essere entrati nella casa.
 
 Conferma nel complesso il testimoneato di Musèt. Non appena…
 
@@ -4922,7 +4922,7 @@ uno dei due defunti.
 
 Testimonianza. Non parlando francese, fu interrogato tramite…
 
-Interprete. È originario di Amsterdam. Stava passando davanti alla [[house|casa]].
+Interprete. È originario di Amsterdam. Stava passando davanti alla casa.
 
 Il momento dei grida. Durarono diversi minuti, probabilmente.
 
@@ -4951,7 +4951,7 @@ La [[concepts/fear|paura]], proprio come la [[motifs/well|rabbia]], era intensa.
 
 Deloraine. Is the elder Mignaud. Madame L’Espanaye had some
 
-property. Had opened an account with his banking [[house]] in the
+property. Had opened an account with his banking house in the
 
 [[motifs/spring|spring]] of the year—(eight years previously). Made frequent
 
@@ -4983,7 +4983,7 @@ street at the [[motifs/time|time]]. It is a by-street—very lonely.
 
 “_William Bird_, tailor deposes that he was one of the party who
 
-entered the [[house]]. Is an Englishman. Has lived in [[settings/paris|Paris]] two
+entered the house. Is an Englishman. Has lived in [[settings/paris|Paris]] two
 
 years. Was one of the first to ascend the stairs. Heard the
 
@@ -5023,17 +5023,17 @@ The door leading from the front room into the passage was locked,
 
 with the key on the inside. A small room in the front of the
 
-[[house]], on the fourth story, at the head of the passage was open,
+house, on the fourth story, at the head of the passage was open,
 
 the door being ajar. This room was crowded with old beds, boxes,
 
 and so forth. These were carefully removed and searched. There
 
-was not an inch of any portion of the [[house]] which was not
+was not an inch of any portion of the house which was not
 
 carefully searched. Sweeps were sent up and down the chimneys.
 
-The [[house]] was a four story one, with garrets (_mansardes._) A
+The house was a four story one, with garrets (_mansardes._) A
 
 trap-door on the roof was nailed down very securely—did not
 
@@ -5053,7 +5053,7 @@ opened with difficulty.
 
 Morgue. Is a native of Spain. Was one of the party who entered
 
-the [[house]]. Did not proceed up stairs. Is nervous, and was
+the house. Did not proceed up stairs. Is nervous, and was
 
 apprehensive of the consequences of agitation. Heard the voices
 
@@ -5093,7 +5093,7 @@ sweeping brushes, such as are employed by those who clean
 
 chimneys. These brushes were passed up and down every flue in the
 
-[[house]]. There is no back passage by which any one could have
+house. There is no back passage by which any one could have
 
 descended while the party proceeded up stairs. The [[concepts/body|body]] of
 
@@ -5142,7 +5142,7 @@ horribly mutilated. All the bones of the right leg and arm were
 
 Deloraine… È la più anziana dei Mignaud. Madame L’Espanaye ne aveva qualcosa da dire…
 
-Proprietà. Aveva aperto un conto presso la sua banca[[house|istituzione]].
+Proprietà. Aveva aperto un conto presso la sua bancaistituzione.
 
 La primavera di quell’anno, otto anni prima. Si recava lì spesso.
 
@@ -5175,7 +5175,7 @@ Via stretta a quell’[[motifs/time|ora]]. È una strada secondaria, molto desol
 
 “William Bird”, il sarto dichiara di essere stato uno dei partecipanti…
 
-Entrò nella [[house|casa]]. È un inglese. Ha vissuto a [[settings/paris|Parigi]] per due.
+Entrò nella casa. È un inglese. Ha vissuto a [[settings/paris|Parigi]] per due.
 
 Primi ad salire le scale…
 
@@ -5216,17 +5216,17 @@ La porta che conduceva dalla sala principale al corridoio era chiusa a chiave.
 
 Con la chiave all’interno. Una piccola stanza davanti…
 
-[[house|casa]], al quarto piano, all'inizio del corridoio, la porta era aperta.
+casa, al quarto piano, all'inizio del corridoio, la porta era aperta.
 
 La porta era socchiusa; questa stanza era piena di letti vecchi, scatole…
 
 E così via… Questi elementi furono rimossi con cura e successivamente esaminati attentamente.
 
-Non c'era nemmeno un centimetro di alcuna parte della [[house|casa]] che non fosse.
+Non c'era nemmeno un centimetro di alcuna parte della casa che non fosse.
 
 Fu cercato con attenzione; furono condotte ricerche su e giù per le ciminiere.
 
-La [[house|casa]] aveva quattro piani, oltre ai tetti a padiglione.
+La casa aveva quattro piani, oltre ai tetti a padiglione.
 
 La porta segreta sul tetto era fissata molto saldamente… non si muoveva affatto.
 
@@ -5246,7 +5246,7 @@ Si aprì con difficoltà.
 
 Obitorio. Originario della Spagna, fu uno dei partecipanti a quell’evento.
 
-La [[house|casa]]. Non è andata su per le scale. È nervosa, e.
+La casa. Non è andata su per le scale. È nervosa, e.
 
 Preoccupato per le conseguenze di un’agitazione… Ho sentito quelle voci.
 
@@ -5286,7 +5286,7 @@ Pennelli ampi e potenti, quelli utilizzati da chi si occupa di pulizia
 
 Camini. Queste spazzole venivano utilizzate su ogni canale fumario…
 
-[[house|casa]]. Non esiste alcun passaggio segreto attraverso cui qualcuno avrebbe potuto entrare.
+casa. Non esiste alcun passaggio segreto attraverso cui qualcuno avrebbe potuto entrare.
 
 Discese mentre il gruppo proseguiva su per le scale. Il [[concepts/body|corpo]] di.
 
@@ -5507,13 +5507,13 @@ intervene between the Rue Richelieu and the Rue St. Roch. It was
 
 late in the afternoon when we reached it, as this quarter is at a
 
-great distance from that in which we resided. The [[house]] was
+great distance from that in which we resided. The house was
 
 readily found; for there were still many persons gazing up at the
 
 closed shutters, with an objectless curiosity, from the opposite
 
-side of the way. It was an ordinary Parisian [[house]], with a
+side of the way. It was an ordinary Parisian house, with a
 
 gateway, on one side of which was a glazed watch-box, with a
 
@@ -5706,7 +5706,7 @@ Si trova tra la Rue Richelieu e la Rue St. Roch.
 Titolo:  
 Tardi pomeriggio, quando arrivammo lì… poiché questa zona si trova in una posizione particolare…
 
-A grande distanza da dove noi abitavamo. Quella [[house|casa]] era.
+A grande distanza da dove noi abitavamo. Quella casa era.
 
 Facilmente reperibile; poiché c’erano ancora molte persone che guardavano in su…
 
@@ -5729,7 +5729,7 @@ Costruzione: intanto Dupin esamina l’intero quartiere
 <span class="atom-split" data-atom="part--part_08" data-title="The Murders in the Rue Morgue (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/nature,motif/noon,motif/well,concept/body,concept/doubt,concept/fear,concept/hope,concept/nature,concept/self,concept/suicide,form/riddle"></span>
 
 
-[[motifs/well|well]] as the [[house]], with a minuteness of attention for which I
+[[motifs/well|well]] as the house, with a minuteness of attention for which I
 
 could see no possible object.
 
@@ -5821,7 +5821,7 @@ need not mention, have sufficed to paralyze the powers, by
 
 putting completely at fault the boasted _acumen_, of the
 
-[[government]] agents. They have fallen into the gross but common
+government agents. They have fallen into the gross but common
 
 error of confounding the unusual with the abstruse. But it is by
 
@@ -6023,7 +6023,7 @@ Non occorre nemmeno menzionarlo: sono stati sufficienti per paralizzare le autor
 Titolo:  
 Mettendo completamente in discussione l’affermata “acume” di…
 
-Agenti del [[government|governo]]. Sono caduti in un errore grave ma comune.
+Agenti del governo. Sono caduti in un errore grave ma comune.
 
 Titolo:  
 L’errore di confondere ciò che è insolito con ciò che è oscuro e complesso… Ma è proprio attraverso questo errore…
@@ -6690,7 +6690,7 @@ trellis—thus affording an excellent hold for the hands. In the
 
 present instance these shutters are fully three feet and a half
 
-broad. When we saw them from the rear of the [[house]], they were
+broad. When we saw them from the rear of the house, they were
 
 both about half open—that is to say, they stood off at right
 
@@ -6881,7 +6881,7 @@ Porta con la metà inferiore in griglia o lavorata a motivi aperti
 
 In questo caso specifico, queste persiane hanno una lunghezza totale di tre piedi e mezzo.
 
-Ampi. Quando li vedemmo dal retro della [[house|casa]], erano.
+Ampi. Quando li vedemmo dal retro della casa, erano.
 
 Titolo:  
 Più o meno semi-aperti… in altre parole, erano distanziati correttamente l’uno dall’altro.
@@ -6935,7 +6935,7 @@ might even have swung himself into the room.
 
 “I wish you to bear especially in mind that I have spoken of a
 
-_very_ unusual degree of activity as requisite to [[success]] in so
+_very_ unusual degree of activity as requisite to success in so
 
 hazardous and so difficult a feat. It is my design to show you,
 
@@ -7025,7 +7025,7 @@ the blundering idea of _motive_, engendered in the brains of the
 
 police by that portion of the evidence which speaks of money
 
-delivered at the door of the [[house]]. Coincidences ten times as
+delivered at the door of the house. Coincidences ten times as
 
 remarkable as this (the delivery of the money, and murder
 
@@ -7120,7 +7120,7 @@ Avrebbe potuto anche arrampicarsi dentro la stanza da solo.
 
 “Desidero che teniate particolarmente presente che ho parlato di…”
 
-Un grado di attività _molto_ insolito, necessario per ottenere il [[success|successo]] in questo contesto.
+Un grado di attività _molto_ insolito, necessario per ottenere il successo in questo contesto.
 
 Un’impresa pericolosa e estremamente difficile… Il mio intento è mostrarvelo.
 
@@ -7214,7 +7214,7 @@ L’idea errata di “motivo”, nata nella mente degli…
 
 Polizia, sulla base di quella parte delle prove che riguardano i soldi
 
-Rivestito alla porta della [[house|casa]]. Coincidenze dieci volte più.
+Rivestito alla porta della casa. Coincidenze dieci volte più.
 
 Straordinario come questo… (la consegna del denaro e l’omicidio)
 
@@ -7847,7 +7847,7 @@ nor show them until at a signal from myself.”
 
 
 
-The front door of the [[house]] had been left open, and the visitor
+The front door of the house had been left open, and the visitor
 
 had entered, without ringing, and advanced several steps upon the
 
@@ -8049,7 +8049,7 @@ In quel momento sentimmo dei passi sulle scale.
 
 
 
-La porta d’ingresso della [[house|casa]] era stata lasciata aperta, e il visitatore.
+La porta d’ingresso della casa era stata lasciata aperta, e il visitatore.
 
 Era entrato senza suonare il campanello e si era avvicinato di qualche passo…
 
@@ -8298,7 +8298,7 @@ the Rue Morgue, the fugitive’s attention was arrested by a light
 
 gleaming from the open [[motifs/window|window]] of Madame L’Espanaye’s chamber, in
 
-the fourth story of her [[house]]. Rushing to the building, it
+the fourth story of her house. Rushing to the building, it
 
 perceived the [[motifs/lightning|lightning]] rod, clambered up with inconceivable
 
@@ -8507,7 +8507,7 @@ La strada dei morti: l’attenzione del fuggitivo fu attratta da una luce
 
 Rilucente dalla finestra aperta della camera di Madame L’Espanaye, dentro.
 
-La quarta storia della sua [[house|casa]]. Correndo verso l’edificio, essa.
+La quarta storia della sua casa. Correndo verso l’edificio, essa.
 
 Percepì l’asta di ferro per la protezione contro i fulmini; vi si arrampicò con una velocità inimmaginabile.
 
@@ -8538,7 +8538,7 @@ by the rod, where it might be intercepted as it came down. On the
 
 other hand, there was much cause for anxiety as to what it might
 
-do in the [[house]]. This latter reflection urged the man still to
+do in the house. This latter reflection urged the man still to
 
 follow the fugitive. A [[motifs/lightning|lightning]] rod is ascended without
 
@@ -8580,7 +8580,7 @@ As the sailor looked in, the gigantic animal had seized Madame
 
 L’Espanaye by the hair, (which was loose, as she had been combing
 
-it,) and was flourishing the razor about her face, in [[Imitation|imitation]]
+it,) and was flourishing the razor about her face, in imitation
 
 of the motions of a barber. The daughter lay prostrate and
 
@@ -8723,7 +8723,7 @@ Lungo il percorso, dove poteva essere intercettato mentre scendeva.
 
 D'altra parte, c'erano molte ragioni per essere preoccupati riguardo a ciò che potesse accadere.
 
-farlo nella [[house|casa]]. Quest'ultima riflessione spinse l’uomo a continuare ancora.
+farlo nella casa. Quest'ultima riflessione spinse l’uomo a continuare ancora.
 
 Seguire il fuggitivo. Si sale su un parafulmine senza indugio.
 
@@ -8766,7 +8766,7 @@ Mentre il marinaio guardava all’interno, quell’animale gigantesco aveva già
 
 "L’Espanaye per i capelli, che erano sciolti perché lei li stava pettinando..."
 
-Era lì, e si passava la lametta rasoiata sul viso, in un’[[Imitation|imitazione]].
+Era lì, e si passava la lametta rasoiata sul viso, in un’imitazione.
 
 Movimenti di un barbiere… La figlia giaceva prosternata…
 

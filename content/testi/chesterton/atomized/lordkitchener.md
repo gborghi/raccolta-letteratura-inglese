@@ -113,13 +113,13 @@ about a god. He happened to be in France in the most tragic hour that
 
 France has ever known or, please God, will ever know. She was bearing
 
-[[Alone|alone]] the weight of that alien tyranny, of that hopeless and almost
+alone the weight of that alien tyranny, of that hopeless and almost
 
 lifeless violence, which the other nations have since found to be the
 
 worst of all the terrors which God tolerates in this world. She trod
 
-that winepress [[Alone|alone]]; and of the peoples there were none to help her.
+that winepress alone; and of the peoples there were none to help her.
 
 In 1870 the Prussian had already encircled [[settings/paris|Paris]], and General Chanzy
 
@@ -133,7 +133,7 @@ never be known. France was still something of an ideal of civilisation
 
 for many of the more generous English gentry. Prussia was never really
 
-an ideal for anybody, even the Prussians, and mere [[success]], which
+an ideal for anybody, even the Prussians, and mere success, which
 
 could not make her an ideal, had not yet calamitously made her a
 
@@ -239,7 +239,7 @@ in round numbers. But there was in him, parallel to this almost
 
 arithmetical passion, another quality which is, in a [[topoi/double|double]] sense, the
 
-secret of his life. For it was the cause of at least half his [[success]];
+secret of his life. For it was the cause of at least half his success;
 
 and yet he very successfully concealed it--especially from his
 
@@ -253,7 +253,7 @@ exceptionally a friend of Mahomedans. He had been first received in
 
 that land, so to speak, with a blow on the head with a club; he was
 
-destined to break the [[Sword|sword]] of the last Arab conqueror, to wreck his
+destined to break the sword of the last Arab conqueror, to wreck his
 
 holy [[motifs/city|city]] and treat all the religious traditions of it with a
 
@@ -321,7 +321,7 @@ immediately preceding the bombardment of Alexandria; and the problem
 
 with which his own personality became identified was not that of the
 
-[[government|Government]] of [[settings/egypt|Egypt]], but of the more barbaric power beyond, by which
+Government of [[settings/egypt|Egypt]], but of the more barbaric power beyond, by which
 
 [[settings/egypt|Egypt]], and any powers ruling it, came to be increasingly imperilled.
 
@@ -383,7 +383,7 @@ Empire on whose frontiers it hovered, and in spreading a reign of
 
 terror such as can seldom be organised except by civilisation. With
 
-Napoleonic suddenness and [[success]] the Mahdist hordes had fallen on the
+Napoleonic suddenness and success the Mahdist hordes had fallen on the
 
 army of Hicks Pasha, when it left its camp at Omdurman, on the Nile
 
@@ -421,13 +421,13 @@ his countrymen would have called moonshine, something perverse in his
 
 [[concepts/courage|courage]], something childish and beautiful in that perversity, marked
 
-him out as the man who walks to doom--the man who in a hundred [[Poems|poems]]
+him out as the man who walks to doom--the man who in a hundred poems
 
 or fables goes up to a [[motifs/city|city]] to be crucified. He had gone to Khartoum
 
 to arrange the withdrawal of the troops from the Soudan, the
 
-[[government|Government]] having decided, if possible, to live at peace with the new
+Government having decided, if possible, to live at peace with the new
 
 Mahdist dictatorship; and he went through the deserts almost as
 
@@ -497,7 +497,7 @@ across the [[motifs/desert|desert]], which the new and awful [[concepts/faith|fa
 
 Mudir of Dongola was on the point of joining the ever-victorious
 
-[[archetypes/prophet|Prophet]] of Omdurman. Kitchener, clad as an Arab, went out almost [[Alone|alone]]
+[[archetypes/prophet|Prophet]] of Omdurman. Kitchener, clad as an Arab, went out almost alone
 
 to speak with him. What passed, perhaps, we can never tell; but
 
@@ -547,7 +547,7 @@ hooter) as the Prussian soldiers obey a bugle. But it is no such
 
 trumpet that makes possible the [[concepts/resurrection|resurrection]] of the dead.
 
-The [[success]] of this second of the three converging designs of
+The success of this second of the three converging designs of
 
 Kitchener, the making of a new Egyptian army, was soon seen in the
 
@@ -593,7 +593,7 @@ was also the re-entrance of a territory which an instinct has led the
 
 English to call the Dark Continent even under its blazing [[motifs/noon|noon]]. There
 
-vast distances [[Alone|alone]] made a veil like that of darkness, and there the
+vast distances alone made a veil like that of darkness, and there the
 
 lives of Gordon and Hicks and hundreds more had been swallowed up in
 
@@ -641,7 +641,7 @@ fixed point of fact that Kitchener's next proceeding is seen to be
 
 supremely characteristic. He was so anxious to do one thing that he
 
-was cautious about doing it. He was more concerned to obtain a [[success]]
+was cautious about doing it. He was more concerned to obtain a success
 
 than to appear to deserve it; he did not want a moral victory, but a
 
@@ -653,7 +653,7 @@ advance on the Mahdi's host a minute faster than men could follow him
 
 building a railway. He created behind him a colossal causeway of
 
-communications, going out [[Alone|alone]] into wastes where there was and had
+communications, going out alone into wastes where there was and had
 
 been no other mortal trace or track. The engineering genius of
 
@@ -757,11 +757,11 @@ vegetables grown on the spot, a symbol of stable occupation. The
 
 story, if it be true, is admirably French; for it reveals at once the
 
-wit and the peasant. But the [[Humour|humour]] of the Englishman was worthily
+wit and the peasant. But the humour of the Englishman was worthily
 
-equal to the wit of the Frenchman; and it was [[Humour|humour]] of that sane sort
+equal to the wit of the Frenchman; and it was humour of that sane sort
 
-which we call good [[Humour|humour]]. Political papers in pacific England and
+which we call good humour. Political papers in pacific England and
 
 France raved and ranted over the crisis, responsible journals howled
 
@@ -819,7 +819,7 @@ pitting his heroes against each other in tournament, before they all
 
 rode together against the heathen pouring upon them out of [[settings/germany|Germany]].
 
-It is with that name of [[settings/germany|Germany]] that this mere [[skeleton]] of the facts
+It is with that name of [[settings/germany|Germany]] that this mere skeleton of the facts
 
 must end. After the South African War Kitchener had been made
 
@@ -869,7 +869,7 @@ stretch of years the comparative chivalry and nobility of his dead
 
 enemies of the Soudan, and to announce that in the heart of Europe, in
 
-learned academies and ordered [[government]] offices, there had appeared a
+learned academies and ordered government offices, there had appeared a
 
 lunacy so cruel and unclean that the maddest dervish dead in the
 
@@ -977,7 +977,7 @@ set himself to their organisation, consisted entirely of volunteers.
 
 It was not till long after the whole face of England had been
 
-transformed by this mobilisation that the [[government|Government]] resorted to
+transformed by this mobilisation that the Government resorted to
 
 compulsion to bring in a mere margin of men. Save for the personality
 
@@ -1029,9 +1029,9 @@ is the boast of the Christian and the civilised man--that he is free
 
 and flexible, yet always returns to his true position, like a tempered
 
-[[Sword|sword]]. Now too much of the eulogy on a man like Kitchener tended to
+sword. Now too much of the eulogy on a man like Kitchener tended to
 
-praise him not as a [[Sword|sword]] but as a poker. He happened to rise into his
+praise him not as a sword but as a poker. He happened to rise into his
 
 first fame at a [[motifs/time|time]] when much of the English Press and governing
 
@@ -1245,7 +1245,7 @@ must be added the fact that the Unions, already national institutions,
 
 had just lately been in a ferment with new and violent doctrines:
 
-Syndicalists had invoked them as the future seats of [[government]];
+Syndicalists had invoked them as the future seats of government;
 
 historical speculators had seen in them the return to the great
 
@@ -1357,7 +1357,7 @@ from India and [[settings/egypt|Egypt]] showed a certain power which is in nearl
 
 great men, but of which St. Paul has become the traditional type--the
 
-power of being a great [[convert]] as [[motifs/well|well]] as a great crusader. It is the
+power of being a great convert as [[motifs/well|well]] as a great crusader. It is the
 
 real power of re-forming an opinion, which is the very opposite of
 
@@ -1592,13 +1592,13 @@ attorno a un dio. Si trovò per caso in Francia nell'ora più tragica che
 
 la Francia abbia mai conosciuto o, piaccia a Dio, mai conoscerà. Ella portava
 
-[[Alone|da sola]] il peso di quella tirannia straniera, di quella violenza disperata e quasi
+da sola il peso di quella tirannia straniera, di quella violenza disperata e quasi
 
 esanime, che le altre nazioni hanno poi scoperto essere il
 
 peggiore di tutti i terrori che Dio tollera in questo mondo. Ella pigiò
 
-quel torchio [[Alone|da sola]]; e tra i popoli non ve n'era alcuno ad aiutarla.
+quel torchio da sola; e tra i popoli non ve n'era alcuno ad aiutarla.
 
 Nel 1870 il Prussiano aveva già accerchiato [[settings/paris|Parigi]], e il generale Chanzy
 
@@ -1612,7 +1612,7 @@ non si saprà mai. La Francia era ancora una sorta di ideale di civiltà
 
 per molti dei più generosi gentiluomini inglesi. La Prussia non fu mai davvero
 
-un ideale per nessuno, nemmeno per i Prussiani, e il mero [[success|successo]], che
+un ideale per nessuno, nemmeno per i Prussiani, e il mero successo, che
 
 non poteva farne un ideale, non ne aveva ancora calamitosamente fatto un
 
@@ -1630,7 +1630,7 @@ di essere inglese. Come Annibale fu consacrato nella fanciullezza alla guerra
 
 contro le aquile di Roma, Kitchener fu consacrato, quasi nella
 
-fanciullezza, alla guerra contro le aquile della [[settings/germany|Germania]]. Il [[Romance|Romanzesco]] venne a questo
+fanciullezza, alla guerra contro le aquile della [[settings/germany|Germania]]. Il Romanzesco venne a questo
 
 realista, per impulso o per caso, come un [[motifs/wind|vento]] dal di fuori,
 
@@ -1718,7 +1718,7 @@ in cifre tonde. Ma v'era in lui, parallela a questa quasi
 
 aritmetica passione, un'altra qualità che è, in un [[topoi/double|duplice]] senso, il
 
-segreto della sua vita. Poiché fu la causa di almeno metà del suo [[success|successo]];
+segreto della sua vita. Poiché fu la causa di almeno metà del suo successo;
 
 eppure egli la celò con gran successo--specialmente ai suoi
 
@@ -1732,7 +1732,7 @@ eccezionalmente un amico dei Maomettani. Era stato dapprima ricevuto in
 
 quella terra, per così dire, con un colpo di clava sulla testa; era
 
-destinato a spezzare la [[Sword|spada]] dell'ultimo conquistatore arabo, a devastare la sua
+destinato a spezzare la spada dell'ultimo conquistatore arabo, a devastare la sua
 
 sacra [[motifs/city|città]] e a trattare tutte le sue tradizioni religiose con una
 
@@ -1800,7 +1800,7 @@ immediatamente precedente il bombardamento di Alessandria; e il problema
 
 con cui la sua stessa personalità si identificò non fu quello del
 
-[[government|Governo]] dell'[[settings/egypt|Egitto]], ma del potere più barbarico al di là, dal quale
+Governo dell'[[settings/egypt|Egitto]], ma del potere più barbarico al di là, dal quale
 
 l'[[settings/egypt|Egitto]], e ogni potenza che lo governasse, veniva sempre più minacciato.
 
@@ -1862,7 +1862,7 @@ turco, sulle cui frontiere esso aleggiava, e a diffondere un regno di
 
 terrore quale di rado può essere organizzato se non dalla civiltà. Con
 
-napoleonica repentinità e [[success|successo]] le orde mahdiste erano piombate sull'
+napoleonica repentinità e successo le orde mahdiste erano piombate sull'
 
 esercito di Hicks Pascià, quando lasciò il suo campo a Omdurman, sul Nilo
 
@@ -1900,13 +1900,13 @@ i suoi connazionali avrebbero chiamato fantasticheria, qualcosa di perverso nel 
 
 [[concepts/courage|coraggio]], qualcosa di infantile e bello in quella perversità, lo segnavano
 
-come l'uomo che cammina verso la rovina--l'uomo che in cento [[Poems|poemi]]
+come l'uomo che cammina verso la rovina--l'uomo che in cento poemi
 
 o favole sale a una [[motifs/city|città]] per esservi crocifisso. Era andato a Khartum
 
 a disporre il ritiro delle truppe dal Sudan, avendo il
 
-[[government|Governo]] deciso, se possibile, di vivere in pace con la nuova
+Governo deciso, se possibile, di vivere in pace con la nuova
 
 dittatura mahdista; e attraversò i deserti quasi tanto
 
@@ -1976,7 +1976,7 @@ attraverso il [[motifs/desert|deserto]], che la nuova e tremenda [[concepts/fait
 
 Mudir di Dongola era sul punto di unirsi al sempre vittorioso
 
-[[archetypes/prophet|Profeta]] di Omdurman. Kitchener, vestito da Arabo, uscì quasi [[Alone|solo]]
+[[archetypes/prophet|Profeta]] di Omdurman. Kitchener, vestito da Arabo, uscì quasi solo
 
 per parlare con lui. Cosa passò, forse, non potremo mai dirlo; ma
 
@@ -2026,7 +2026,7 @@ fabbrica) come i soldati prussiani obbediscono a una tromba. Ma non è una tal
 
 tromba a rendere possibile la [[concepts/resurrection|resurrezione]] dei morti.
 
-Il [[success|successo]] di questo secondo dei tre convergenti disegni di
+Il successo di questo secondo dei tre convergenti disegni di
 
 Kitchener, la creazione di un nuovo esercito egiziano, si vide presto nella
 
@@ -2072,7 +2072,7 @@ anche il rientro in un territorio che un istinto ha spinto gli
 
 Inglesi a chiamare il Continente Nero persino sotto il suo fiammeggiante [[motifs/noon|Meriggio]]. Là
 
-le vaste distanze [[Alone|da sole]] facevano un velo come quello dell'oscurità, e là le
+le vaste distanze da sole facevano un velo come quello dell'oscurità, e là le
 
 vite di Gordon e Hicks e di centinaia d'altri erano state inghiottite in
 
@@ -2120,7 +2120,7 @@ fisso punto di fatto che il successivo procedere di Kitchener si vede essere
 
 supremamente caratteristico. Egli era tanto ansioso di fare una cosa che
 
-era cauto nel farla. Gli premeva più ottenere un [[success|successo]]
+era cauto nel farla. Gli premeva più ottenere un successo
 
 che sembrare di meritarlo; non voleva una vittoria morale, ma una
 
@@ -2132,7 +2132,7 @@ avanzare sull'esercito del Mahdi un minuto più veloce di quanto gli uomini pote
 
 costruendo una ferrovia. Creò dietro di sé una colossale via maestra di
 
-comunicazioni, spingendosi [[Alone|solo]] in lande dove non v'era e non v'era
+comunicazioni, spingendosi solo in lande dove non v'era e non v'era
 
 stata altra traccia o pista mortale. Il genio ingegneristico di
 
@@ -2236,11 +2236,11 @@ verdure coltivate sul posto, simbolo di stabile occupazione. La
 
 storia, se è vera, è mirabilmente francese; poiché rivela a un tempo lo
 
-spirito e il contadino. Ma lo [[Humour|spirito]] dell'Inglese fu degnamente
+spirito e il contadino. Ma lo spirito dell'Inglese fu degnamente
 
-pari all'arguzia del Francese; ed era [[Humour|umore]] di quel genere sano
+pari all'arguzia del Francese; ed era umore di quel genere sano
 
-che chiamiamo buon [[Humour|umore]]. Fogli politici nella pacifica Inghilterra e
+che chiamiamo buon umore. Fogli politici nella pacifica Inghilterra e
 
 Francia farneticavano e sbraitavano sulla crisi, giornali responsabili urlavano
 
@@ -2298,7 +2298,7 @@ mettesse i suoi eroi l'uno contro l'altro in torneo, prima che tutti
 
 cavalcassero insieme contro i pagani che si riversavano su di loro dalla [[settings/germany|Germania]].
 
-È con quel nome di [[settings/germany|Germania]] che questo mero [[skeleton|scheletro]] dei fatti
+È con quel nome di [[settings/germany|Germania]] che questo mero scheletro dei fatti
 
 deve finire. Dopo la Guerra sudafricana Kitchener era stato nominato
 
@@ -2348,7 +2348,7 @@ tratto degli anni la relativa cavalleria e nobiltà dei suoi morti
 
 nemici del Sudan, e per annunciare che nel cuore d'Europa, in
 
-dotte accademie e ordinati uffici di [[government|governo]], era apparsa una
+dotte accademie e ordinati uffici di governo, era apparsa una
 
 follia così crudele e immonda che il più folle derviscio morto nel
 
@@ -2456,7 +2456,7 @@ si dedicò alla loro organizzazione, consistevano interamente di volontari.
 
 Non fu che molto tempo dopo che l'intero volto dell'Inghilterra fu stato
 
-trasformato da questa mobilitazione che il [[government|Governo]] ricorse alla
+trasformato da questa mobilitazione che il Governo ricorse alla
 
 coscrizione per raccogliere un mero margine di uomini. Salvo per la personalità
 
@@ -2506,11 +2506,11 @@ il vanto del barbaro e quindi del Prussiano; il secondo
 
 è il vanto del Cristiano e dell'uomo civile--che egli è libero
 
-e flessibile, eppure ritorna sempre alla sua vera posizione, come una [[Sword|spada]]
+e flessibile, eppure ritorna sempre alla sua vera posizione, come una spada
 
 temprata. Ora troppa parte dell'elogio a un uomo come Kitchener tendeva a
 
-lodarlo non come una [[Sword|spada]] ma come un attizzatoio. Gli accadde di salire alla sua
+lodarlo non come una spada ma come un attizzatoio. Gli accadde di salire alla sua
 
 prima fama in un [[motifs/time|tempo]] in cui gran parte della Stampa e della classe dirigente
 
@@ -2724,7 +2724,7 @@ si deve aggiungere il fatto che i sindacati, già istituzioni nazionali,
 
 erano da poco in fermento per dottrine nuove e violente:
 
-i sindacalisti li avevano invocati come future sedi del [[government|governo]];
+i sindacalisti li avevano invocati come future sedi del governo;
 
 gli speculatori della storia vi avevano visto il ritorno alle grandi
 
@@ -2836,7 +2836,7 @@ d'India ed [[settings/egypt|Egitto]] mostrò un certo potere che è in quasi tut
 
 i grandi uomini, ma di cui san Paolo è divenuto il tipo tradizionale: il
 
-potere di essere un grande [[convert|convertito]] [[motifs/well|oltre che]] un grande crociato. È il
+potere di essere un grande convertito [[motifs/well|oltre che]] un grande crociato. È il
 
 vero potere di ri-formare un'opinione, che è l'esatto opposto di
 
@@ -3075,13 +3075,13 @@ about a god. He happened to be in France in the most tragic hour that
 
 France has ever known or, please God, will ever know. She was bearing
 
-[[Alone|alone]] the weight of that alien tyranny, of that hopeless and almost
+alone the weight of that alien tyranny, of that hopeless and almost
 
 lifeless violence, which the other nations have since found to be the
 
 worst of all the terrors which God tolerates in this world. She trod
 
-that winepress [[Alone|alone]]; and of the peoples there were none to help her.
+that winepress alone; and of the peoples there were none to help her.
 
 In 1870 the Prussian had already encircled [[settings/paris|Paris]], and General Chanzy
 
@@ -3095,7 +3095,7 @@ never be known. France was still something of an ideal of civilisation
 
 for many of the more generous English gentry. Prussia was never really
 
-an ideal for anybody, even the Prussians, and mere [[success]], which
+an ideal for anybody, even the Prussians, and mere success, which
 
 could not make her an ideal, had not yet calamitously made her a
 
@@ -3246,13 +3246,13 @@ attorno a un dio. Si trovò per caso in Francia nell'ora più tragica che
 
 la Francia abbia mai conosciuto o, piaccia a Dio, mai conoscerà. Ella portava
 
-[[Alone|da sola]] il peso di quella tirannia straniera, di quella violenza disperata e quasi
+da sola il peso di quella tirannia straniera, di quella violenza disperata e quasi
 
 esanime, che le altre nazioni hanno poi scoperto essere il
 
 peggiore di tutti i terrori che Dio tollera in questo mondo. Ella pigiò
 
-quel torchio [[Alone|da sola]]; e tra i popoli non ve n'era alcuno ad aiutarla.
+quel torchio da sola; e tra i popoli non ve n'era alcuno ad aiutarla.
 
 Nel 1870 il Prussiano aveva già accerchiato [[settings/paris|Parigi]], e il generale Chanzy
 
@@ -3266,7 +3266,7 @@ non si saprà mai. La Francia era ancora una sorta di ideale di civiltà
 
 per molti dei più generosi gentiluomini inglesi. La Prussia non fu mai davvero
 
-un ideale per nessuno, nemmeno per i Prussiani, e il mero [[success|successo]], che
+un ideale per nessuno, nemmeno per i Prussiani, e il mero successo, che
 
 non poteva farne un ideale, non ne aveva ancora calamitosamente fatto un
 
@@ -3284,7 +3284,7 @@ di essere inglese. Come Annibale fu consacrato nella fanciullezza alla guerra
 
 contro le aquile di Roma, Kitchener fu consacrato, quasi nella
 
-fanciullezza, alla guerra contro le aquile della [[settings/germany|Germania]]. Il [[Romance|Romanzesco]] venne a questo
+fanciullezza, alla guerra contro le aquile della [[settings/germany|Germania]]. Il Romanzesco venne a questo
 
 realista, per impulso o per caso, come un [[motifs/wind|vento]] dal di fuori,
 
@@ -3377,7 +3377,7 @@ in round numbers. But there was in him, parallel to this almost
 
 arithmetical passion, another quality which is, in a [[topoi/double|double]] sense, the
 
-secret of his life. For it was the cause of at least half his [[success]];
+secret of his life. For it was the cause of at least half his success;
 
 and yet he very successfully concealed it--especially from his
 
@@ -3391,7 +3391,7 @@ exceptionally a friend of Mahomedans. He had been first received in
 
 that land, so to speak, with a blow on the head with a club; he was
 
-destined to break the [[Sword|sword]] of the last Arab conqueror, to wreck his
+destined to break the sword of the last Arab conqueror, to wreck his
 
 holy [[motifs/city|city]] and treat all the religious traditions of it with a
 
@@ -3459,7 +3459,7 @@ immediately preceding the bombardment of Alexandria; and the problem
 
 with which his own personality became identified was not that of the
 
-[[government|Government]] of [[settings/egypt|Egypt]], but of the more barbaric power beyond, by which
+Government of [[settings/egypt|Egypt]], but of the more barbaric power beyond, by which
 
 [[settings/egypt|Egypt]], and any powers ruling it, came to be increasingly imperilled.
 
@@ -3554,7 +3554,7 @@ in cifre tonde. Ma v'era in lui, parallela a questa quasi
 
 aritmetica passione, un'altra qualità che è, in un [[topoi/double|duplice]] senso, il
 
-segreto della sua vita. Poiché fu la causa di almeno metà del suo [[success|successo]];
+segreto della sua vita. Poiché fu la causa di almeno metà del suo successo;
 
 eppure egli la celò con gran successo--specialmente ai suoi
 
@@ -3568,7 +3568,7 @@ eccezionalmente un amico dei Maomettani. Era stato dapprima ricevuto in
 
 quella terra, per così dire, con un colpo di clava sulla testa; era
 
-destinato a spezzare la [[Sword|spada]] dell'ultimo conquistatore arabo, a devastare la sua
+destinato a spezzare la spada dell'ultimo conquistatore arabo, a devastare la sua
 
 sacra [[motifs/city|città]] e a trattare tutte le sue tradizioni religiose con una
 
@@ -3636,7 +3636,7 @@ immediatamente precedente il bombardamento di Alessandria; e il problema
 
 con cui la sua stessa personalità si identificò non fu quello del
 
-[[government|Governo]] dell'[[settings/egypt|Egitto]], ma del potere più barbarico al di là, dal quale
+Governo dell'[[settings/egypt|Egitto]], ma del potere più barbarico al di là, dal quale
 
 l'[[settings/egypt|Egitto]], e ogni potenza che lo governasse, veniva sempre più minacciato.
 
@@ -3703,7 +3703,7 @@ Empire on whose frontiers it hovered, and in spreading a reign of
 
 terror such as can seldom be organised except by civilisation. With
 
-Napoleonic suddenness and [[success]] the Mahdist hordes had fallen on the
+Napoleonic suddenness and success the Mahdist hordes had fallen on the
 
 army of Hicks Pasha, when it left its camp at Omdurman, on the Nile
 
@@ -3741,13 +3741,13 @@ his countrymen would have called moonshine, something perverse in his
 
 [[concepts/courage|courage]], something childish and beautiful in that perversity, marked
 
-him out as the man who walks to doom--the man who in a hundred [[Poems|poems]]
+him out as the man who walks to doom--the man who in a hundred poems
 
 or fables goes up to a [[motifs/city|city]] to be crucified. He had gone to Khartoum
 
 to arrange the withdrawal of the troops from the Soudan, the
 
-[[government|Government]] having decided, if possible, to live at peace with the new
+Government having decided, if possible, to live at peace with the new
 
 Mahdist dictatorship; and he went through the deserts almost as
 
@@ -3817,7 +3817,7 @@ across the [[motifs/desert|desert]], which the new and awful [[concepts/faith|fa
 
 Mudir of Dongola was on the point of joining the ever-victorious
 
-[[archetypes/prophet|Prophet]] of Omdurman. Kitchener, clad as an Arab, went out almost [[Alone|alone]]
+[[archetypes/prophet|Prophet]] of Omdurman. Kitchener, clad as an Arab, went out almost alone
 
 to speak with him. What passed, perhaps, we can never tell; but
 
@@ -3876,7 +3876,7 @@ turco, sulle cui frontiere esso aleggiava, e a diffondere un regno di
 
 terrore quale di rado può essere organizzato se non dalla civiltà. Con
 
-napoleonica repentinità e [[success|successo]] le orde mahdiste erano piombate sull'
+napoleonica repentinità e successo le orde mahdiste erano piombate sull'
 
 esercito di Hicks Pascià, quando lasciò il suo campo a Omdurman, sul Nilo
 
@@ -3914,13 +3914,13 @@ i suoi connazionali avrebbero chiamato fantasticheria, qualcosa di perverso nel 
 
 [[concepts/courage|coraggio]], qualcosa di infantile e bello in quella perversità, lo segnavano
 
-come l'uomo che cammina verso la rovina--l'uomo che in cento [[Poems|poemi]]
+come l'uomo che cammina verso la rovina--l'uomo che in cento poemi
 
 o favole sale a una [[motifs/city|città]] per esservi crocifisso. Era andato a Khartum
 
 a disporre il ritiro delle truppe dal Sudan, avendo il
 
-[[government|Governo]] deciso, se possibile, di vivere in pace con la nuova
+Governo deciso, se possibile, di vivere in pace con la nuova
 
 dittatura mahdista; e attraversò i deserti quasi tanto
 
@@ -3990,7 +3990,7 @@ attraverso il [[motifs/desert|deserto]], che la nuova e tremenda [[concepts/fait
 
 Mudir di Dongola era sul punto di unirsi al sempre vittorioso
 
-[[archetypes/prophet|Profeta]] di Omdurman. Kitchener, vestito da Arabo, uscì quasi [[Alone|solo]]
+[[archetypes/prophet|Profeta]] di Omdurman. Kitchener, vestito da Arabo, uscì quasi solo
 
 per parlare con lui. Cosa passò, forse, non potremo mai dirlo; ma
 
@@ -4045,7 +4045,7 @@ hooter) as the Prussian soldiers obey a bugle. But it is no such
 
 trumpet that makes possible the [[concepts/resurrection|resurrection]] of the dead.
 
-The [[success]] of this second of the three converging designs of
+The success of this second of the three converging designs of
 
 Kitchener, the making of a new Egyptian army, was soon seen in the
 
@@ -4091,7 +4091,7 @@ was also the re-entrance of a territory which an instinct has led the
 
 English to call the Dark Continent even under its blazing [[motifs/noon|noon]]. There
 
-vast distances [[Alone|alone]] made a veil like that of darkness, and there the
+vast distances alone made a veil like that of darkness, and there the
 
 lives of Gordon and Hicks and hundreds more had been swallowed up in
 
@@ -4139,7 +4139,7 @@ fixed point of fact that Kitchener's next proceeding is seen to be
 
 supremely characteristic. He was so anxious to do one thing that he
 
-was cautious about doing it. He was more concerned to obtain a [[success]]
+was cautious about doing it. He was more concerned to obtain a success
 
 than to appear to deserve it; he did not want a moral victory, but a
 
@@ -4151,7 +4151,7 @@ advance on the Mahdi's host a minute faster than men could follow him
 
 building a railway. He created behind him a colossal causeway of
 
-communications, going out [[Alone|alone]] into wastes where there was and had
+communications, going out alone into wastes where there was and had
 
 been no other mortal trace or track. The engineering genius of
 
@@ -4216,7 +4216,7 @@ fabbrica) come i soldati prussiani obbediscono a una tromba. Ma non è una tal
 
 tromba a rendere possibile la [[concepts/resurrection|resurrezione]] dei morti.
 
-Il [[success|successo]] di questo secondo dei tre convergenti disegni di
+Il successo di questo secondo dei tre convergenti disegni di
 
 Kitchener, la creazione di un nuovo esercito egiziano, si vide presto nella
 
@@ -4262,7 +4262,7 @@ anche il rientro in un territorio che un istinto ha spinto gli
 
 Inglesi a chiamare il Continente Nero persino sotto il suo fiammeggiante [[motifs/noon|Meriggio]]. Là
 
-le vaste distanze [[Alone|da sole]] facevano un velo come quello dell'oscurità, e là le
+le vaste distanze da sole facevano un velo come quello dell'oscurità, e là le
 
 vite di Gordon e Hicks e di centinaia d'altri erano state inghiottite in
 
@@ -4310,7 +4310,7 @@ fisso punto di fatto che il successivo procedere di Kitchener si vede essere
 
 supremamente caratteristico. Egli era tanto ansioso di fare una cosa che
 
-era cauto nel farla. Gli premeva più ottenere un [[success|successo]]
+era cauto nel farla. Gli premeva più ottenere un successo
 
 che sembrare di meritarlo; non voleva una vittoria morale, ma una
 
@@ -4322,7 +4322,7 @@ avanzare sull'esercito del Mahdi un minuto più veloce di quanto gli uomini pote
 
 costruendo una ferrovia. Creò dietro di sé una colossale via maestra di
 
-comunicazioni, spingendosi [[Alone|solo]] in lande dove non v'era e non v'era
+comunicazioni, spingendosi solo in lande dove non v'era e non v'era
 
 stata altra traccia o pista mortale. Il genio ingegneristico di
 
@@ -4431,11 +4431,11 @@ vegetables grown on the spot, a symbol of stable occupation. The
 
 story, if it be true, is admirably French; for it reveals at once the
 
-wit and the peasant. But the [[Humour|humour]] of the Englishman was worthily
+wit and the peasant. But the humour of the Englishman was worthily
 
-equal to the wit of the Frenchman; and it was [[Humour|humour]] of that sane sort
+equal to the wit of the Frenchman; and it was humour of that sane sort
 
-which we call good [[Humour|humour]]. Political papers in pacific England and
+which we call good humour. Political papers in pacific England and
 
 France raved and ranted over the crisis, responsible journals howled
 
@@ -4493,7 +4493,7 @@ pitting his heroes against each other in tournament, before they all
 
 rode together against the heathen pouring upon them out of [[settings/germany|Germany]].
 
-It is with that name of [[settings/germany|Germany]] that this mere [[skeleton]] of the facts
+It is with that name of [[settings/germany|Germany]] that this mere skeleton of the facts
 
 must end. After the South African War Kitchener had been made
 
@@ -4606,11 +4606,11 @@ verdure coltivate sul posto, simbolo di stabile occupazione. La
 
 storia, se è vera, è mirabilmente francese; poiché rivela a un tempo lo
 
-spirito e il contadino. Ma lo [[Humour|spirito]] dell'Inglese fu degnamente
+spirito e il contadino. Ma lo spirito dell'Inglese fu degnamente
 
-pari all'arguzia del Francese; ed era [[Humour|umore]] di quel genere sano
+pari all'arguzia del Francese; ed era umore di quel genere sano
 
-che chiamiamo buon [[Humour|umore]]. Fogli politici nella pacifica Inghilterra e
+che chiamiamo buon umore. Fogli politici nella pacifica Inghilterra e
 
 Francia farneticavano e sbraitavano sulla crisi, giornali responsabili urlavano
 
@@ -4668,7 +4668,7 @@ mettesse i suoi eroi l'uno contro l'altro in torneo, prima che tutti
 
 cavalcassero insieme contro i pagani che si riversavano su di loro dalla [[settings/germany|Germania]].
 
-È con quel nome di [[settings/germany|Germania]] che questo mero [[skeleton|scheletro]] dei fatti
+È con quel nome di [[settings/germany|Germania]] che questo mero scheletro dei fatti
 
 deve finire. Dopo la Guerra sudafricana Kitchener era stato nominato
 
@@ -4723,7 +4723,7 @@ tratto degli anni la relativa cavalleria e nobiltà dei suoi morti
 
 enemies of the Soudan, and to announce that in the heart of Europe, in
 
-learned academies and ordered [[government]] offices, there had appeared a
+learned academies and ordered government offices, there had appeared a
 
 lunacy so cruel and unclean that the maddest dervish dead in the
 
@@ -4831,7 +4831,7 @@ set himself to their organisation, consisted entirely of volunteers.
 
 It was not till long after the whole face of England had been
 
-transformed by this mobilisation that the [[government|Government]] resorted to
+transformed by this mobilisation that the Government resorted to
 
 compulsion to bring in a mere margin of men. Save for the personality
 
@@ -4883,9 +4883,9 @@ is the boast of the Christian and the civilised man--that he is free
 
 and flexible, yet always returns to his true position, like a tempered
 
-[[Sword|sword]]. Now too much of the eulogy on a man like Kitchener tended to
+sword. Now too much of the eulogy on a man like Kitchener tended to
 
-praise him not as a [[Sword|sword]] but as a poker. He happened to rise into his
+praise him not as a sword but as a poker. He happened to rise into his
 
 first fame at a [[motifs/time|time]] when much of the English Press and governing
 
@@ -4898,7 +4898,7 @@ everything by a Bismarckian test of [[motifs/blood|blood]] and iron. It tended t
 
 nemici del Sudan, e per annunciare che nel cuore d'Europa, in
 
-dotte accademie e ordinati uffici di [[government|governo]], era apparsa una
+dotte accademie e ordinati uffici di governo, era apparsa una
 
 follia così crudele e immonda che il più folle derviscio morto nel
 
@@ -5006,7 +5006,7 @@ si dedicò alla loro organizzazione, consistevano interamente di volontari.
 
 Non fu che molto tempo dopo che l'intero volto dell'Inghilterra fu stato
 
-trasformato da questa mobilitazione che il [[government|Governo]] ricorse alla
+trasformato da questa mobilitazione che il Governo ricorse alla
 
 coscrizione per raccogliere un mero margine di uomini. Salvo per la personalità
 
@@ -5056,11 +5056,11 @@ il vanto del barbaro e quindi del Prussiano; il secondo
 
 è il vanto del Cristiano e dell'uomo civile--che egli è libero
 
-e flessibile, eppure ritorna sempre alla sua vera posizione, come una [[Sword|spada]]
+e flessibile, eppure ritorna sempre alla sua vera posizione, come una spada
 
 temprata. Ora troppa parte dell'elogio a un uomo come Kitchener tendeva a
 
-lodarlo non come una [[Sword|spada]] ma come un attizzatoio. Gli accadde di salire alla sua
+lodarlo non come una spada ma come un attizzatoio. Gli accadde di salire alla sua
 
 prima fama in un [[motifs/time|tempo]] in cui gran parte della Stampa e della classe dirigente
 
@@ -5459,7 +5459,7 @@ must be added the fact that the Unions, already national institutions,
 
 had just lately been in a ferment with new and violent doctrines:
 
-Syndicalists had invoked them as the future seats of [[government]];
+Syndicalists had invoked them as the future seats of government;
 
 historical speculators had seen in them the return to the great
 
@@ -5571,7 +5571,7 @@ from India and [[settings/egypt|Egypt]] showed a certain power which is in nearl
 
 great men, but of which St. Paul has become the traditional type--the
 
-power of being a great [[convert]] as [[motifs/well|well]] as a great crusader. It is the
+power of being a great convert as [[motifs/well|well]] as a great crusader. It is the
 
 real power of re-forming an opinion, which is the very opposite of
 
@@ -5634,7 +5634,7 @@ si deve aggiungere il fatto che i sindacati, già istituzioni nazionali,
 
 erano da poco in fermento per dottrine nuove e violente:
 
-i sindacalisti li avevano invocati come future sedi del [[government|governo]];
+i sindacalisti li avevano invocati come future sedi del governo;
 
 gli speculatori della storia vi avevano visto il ritorno alle grandi
 
@@ -5746,7 +5746,7 @@ d'India ed [[settings/egypt|Egitto]] mostrò un certo potere che è in quasi tut
 
 i grandi uomini, ma di cui san Paolo è divenuto il tipo tradizionale: il
 
-potere di essere un grande [[convert|convertito]] [[motifs/well|oltre che]] un grande crociato. È il
+potere di essere un grande convertito [[motifs/well|oltre che]] un grande crociato. È il
 
 vero potere di ri-formare un'opinione, che è l'esatto opposto di
 

@@ -87,13 +87,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/world-upside-down|World Upside Down]], [[topoi/theatrum-mundi|Theatrum Mundi]]
-**Archetypes:** Usurper, King, Avenger, Villain, Tyrant
+**Archetypes:** [[archetypes/usurper|Usurper]], [[archetypes/king|King]], [[archetypes/avenger|Avenger]], [[archetypes/villain|Villain]], [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/crown|Crown]], [[motifs/blood|Blood]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/white-and-red|White and Red]], [[motifs/rose|Rose]], [[motifs/death|Death]]
 **Themes & Concepts:** [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/ambition|Ambition]], [[concepts/revenge|Revenge]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/providence|Providence]]
 **Forms & Genres:** [[forms/history-play|History Play]], [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]]
 **Historical References:** [[historical-references/wars-of-the-roses|Wars of the Roses]], [[historical-references/medieval-england|Medieval England]]
 **Settings:** [[settings/battlefield|Battlefield]], [[settings/medieval-england-(2)|Medieval England (2)]]
-**Characters:** Henry VI, Queen Margaret, Duke of York, Edward IV, Richard III, Earl of Warwick, Clarence, Clifford
+**Characters:** [[characters/henry-vi|Henry VI]], [[characters/queen-margaret|Queen Margaret]], [[characters/duke-of-york|Duke of York]], [[characters/edward-iv|Edward IV]], [[characters/richard-iii|Richard III]], [[characters/earl-of-warwick|Earl of Warwick]], [[characters/clarence|Clarence]], [[characters/clifford|Clifford]]
 
 ## Testo integrale / Full text
 

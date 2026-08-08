@@ -45,12 +45,12 @@ tags:
 **Settings:** [[settings/inn|Inn]]
 
 **Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/open-road-homecoming|Open Road Homecoming]]
-**Archetypes:** Christ Figure
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]]
 **Motifs:** [[motifs/stars|Stars]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/home|Home]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/exile|Exile]], [[concepts/divine-love|Divine Love]], [[concepts/paradox|Paradox]], [[concepts/providence|Providence]], [[concepts/incarnation|Incarnation]]
 **Forms & Genres:** [[forms/hymn|Hymn]], [[forms/lyric|Lyric]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
-**Characters:** Christ, Virgin Mary
+**Characters:** [[characters/christ|Christ]], [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

@@ -112,9 +112,9 @@ tags:
 
 ## Connections
 
-**Archetypes:** King, Tyrant, Usurper, Martyr Saint, Common Man (2)
+**Archetypes:** [[archetypes/king|King]], [[archetypes/tyrant|Tyrant]], [[archetypes/usurper|Usurper]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Characters:** King Arthur, King Alfred (2), Thomas Becket, Sir Thomas More, Henry V, Henry VI, Henry VIII, Richard II, Richard III, King John, Julius Caesar, Cardinal Wolsey, Henry Bolingbroke, Edward III, [[historical-references/william-the-conqueror|William the Conqueror]], Henry II, Edward I, Charles I, [[historical-references/oliver-cromwell|Oliver Cromwell]], [[historical-references/napoleon|Napoleon]], Joan of Arc, Wat Tyler, [[historical-references/nelson|Nelson]], Wellington, Simon de Montfort, Bolingbroke (Henry St. John)
+**Characters:** [[characters/king-arthur|King Arthur]], [[characters/king-alfred-(2)|King Alfred (2)]], [[characters/thomas-becket|Thomas Becket]], [[characters/sir-thomas-more|Sir Thomas More]], [[characters/henry-v|Henry V]], [[characters/henry-vi|Henry VI]], [[characters/henry-viii|Henry VIII]], [[characters/richard-ii|Richard II]], [[characters/richard-iii|Richard III]], [[characters/king-john|King John]], [[characters/julius-caesar|Julius Caesar]], [[characters/cardinal-wolsey|Cardinal Wolsey]], [[characters/henry-bolingbroke|Henry Bolingbroke]], [[characters/edward-iii|Edward III]], [[historical-references/william-the-conqueror|William the Conqueror]], [[characters/henry-ii|Henry II]], [[characters/edward-i|Edward I]], [[characters/charles-i|Charles I]], [[historical-references/oliver-cromwell|Oliver Cromwell]], [[historical-references/napoleon|Napoleon]], [[characters/joan-of-arc|Joan of Arc]], [[characters/wat-tyler|Wat Tyler]], [[historical-references/nelson|Nelson]], [[characters/wellington|Wellington]], [[characters/simon-de-montfort|Simon de Montfort]], [[characters/bolingbroke-(henry-st.-john)|Bolingbroke (Henry St. John)]]
 
 **Topoi:** [[topoi/ages-of-the-world|Ages of the World]], [[topoi/golden-age|Golden Age]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/war-as-glory|War as Glory]]
 **Motifs:** [[motifs/crown|Crown]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/money-and-gold|Money and Gold]], [[motifs/ruins-the-abbey|Ruins the Abbey]]

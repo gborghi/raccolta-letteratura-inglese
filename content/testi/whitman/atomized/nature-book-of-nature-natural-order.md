@@ -91,16 +91,16 @@ In the freshness the forenoon air, in the far-stretching circuits
 and vistas again to peace restored,
 To the fiery fields emanative and the endless vistas beyond, to the
 South and the North,
-To the leaven’d soil of the general Western world to attest my [[songs]],
+To the leaven’d soil of the general Western world to attest my songs,
 To the Alleghanian hills and the tireless Mississippi,
 To the rocks I calling sing, and all the trees in the woods,
-To the plains of the [[Poems|poems]] of heroes, to the prairies spreading wide,
+To the plains of the poems of heroes, to the prairies spreading wide,
 To the far-off sea and the unseen winds, and the sane impalpable air;
 And responding they answer all, (but not in words,)
 The average earth, the witness of war and peace, acknowledges mutely,
 The prairie draws me close, as the father to bosom broad the son,
 The Northern ice and rain that began me nourish me to the end,
-But the hot sun of the South is to fully ripen my [[songs]].
+But the hot sun of the South is to fully ripen my songs.
 
 
 
@@ -125,12 +125,12 @@ Turning a verse for thee.
 O earth that hast no voice, confide to me a voice,
 O harvest of my lands--O boundless [[motifs/summer|summer]] growths,
 O lavish brown parturient earth--O infinite teeming womb,
-A [[Song|song]] to narrate thee.
+A song to narrate thee.
 
 2
 Ever upon this stage,
 Is acted God’s calm annual drama,
-Gorgeous processions, [[songs]] of [[motifs/birds|birds]],
+Gorgeous processions, songs of [[motifs/birds|birds]],
 Sunrise that fullest feeds and freshens most the [[motifs/soul|soul]],
 The heaving sea, the waves upon the shore, the musical, strong waves,
 The woods, the stalwart trees, the slender, tapering trees,
@@ -261,7 +261,7 @@ And the good green grass, that delicate miracle the ever-recurring grass.
 
 8
 Toil on heroes! harvest the products!
-Not [[Alone|alone]] on those warlike fields the Mother of All,
+Not alone on those warlike fields the Mother of All,
 With dilated form and lambent eyes watch’d you.
 
 Toil on heroes! toil [[motifs/well|well]]! handle the weapons [[motifs/well|well]]!
@@ -341,8 +341,8 @@ To glide with thee O [[motifs/soul|soul]], o’er all, in all, as a [[motifs/shi
 Gathering these hints, the preludes, the blue sky, the grass, the
 morning drops of dew,
 The lilac-scent, the bushes with dark green heart-shaped [[motifs/leaves|leaves]],
-Wood-violets, the little delicate pale blossoms called [[innocence]],
-Samples and sorts not for themselves [[Alone|alone]], but for their atmosphere,
+Wood-violets, the little delicate pale blossoms called innocence,
+Samples and sorts not for themselves alone, but for their atmosphere,
 To grace the bush I [[motifs/love|love]]--to sing with the [[motifs/birds|birds]],
 A warble for joy of returning in reminiscence.
 
@@ -495,7 +495,7 @@ The aspiring lilac bushes with profuse purple or white [[motifs/flowers|flowers]
 _Cluster: SANDS AT SEVENTY_  
 
 
-Not from successful [[motifs/love|love]] [[Alone|alone]],  
+Not from successful [[motifs/love|love]] alone,  
 Nor wealth, nor honor’d middle age, nor victories of politics or war;  
 But as life wanes, and all the turbulent passions calm,  
 As gorgeous, vapory, silent hues cover the evening sky,  
@@ -607,10 +607,10 @@ Eternal I rise impalpable out of the land and the bottomless sea,
 Upward to heaven, whence, vaguely form’d, altogether changed, and  
 yet the same,  
 I descend to lave the drouths, atomies, [[motifs/dust|dust]]-layers of the globe,  
-And all that in them without me were seeds only, latent, [[unborn]];  
+And all that in them without me were seeds only, latent, unborn;  
 And forever, by day and [[motifs/night|night]], I give back life to my own origin,  
 and make pure and beautify it;  
-(For [[Song|song]], issuing from its birth-place, after fulfilment, wandering,  
+(For song, issuing from its birth-place, after fulfilment, wandering,  
 Reck’d or unreck’d, duly with [[motifs/love|love]] returns.)  
 
 
@@ -639,7 +639,7 @@ delicate miracles of earth,
 Dandelions, clover, the emerald grass, the early scents and [[motifs/flowers|flowers]],  
 The arbutus under foot, the willow’s yellow-green, the blossoming  
 plum and cherry;  
-With these the robin, lark and thrush, singing their [[songs]]--the  
+With these the robin, lark and thrush, singing their songs--the  
 flitting bluebird;  
 For such the scenes the annual play brings on.  
 
@@ -678,7 +678,7 @@ _Cluster: GOOD-BYE MY FANCY_
 
 
 I [[concepts/doubt|doubt]] it not--then more, far more;  
-In each old [[Song|song]] bequeath’d--in every noble page or text,  
+In each old song bequeath’d--in every noble page or text,  
 (Different--something unreck’d before--some unsuspected author,)  
 In every object, mountain, tree, and star--in every birth and life,  
 As part of each--evolv’d from each--meaning, behind the ostent,  
@@ -700,7 +700,7 @@ _Cluster: GOOD-BYE MY FANCY_
 Ah, whispering, something again, unseen,  
 Where late this heated day thou enterest at my [[motifs/window|window]], door,  
 Thou, laving, tempering all, cool-freshing, gently vitalizing  
-Me, old, [[Alone|alone]], sick, weak-down, melted-worn with sweat;  
+Me, old, alone, sick, weak-down, melted-worn with sweat;  
 Thou, nestling, folding close and firm yet soft, companion better  
 than talk, book, art,  
 (Thou hast, O [[concepts/nature|Nature]]! elements! utterance to my heart beyond the  
@@ -736,7 +736,7 @@ _Cluster: GOOD-BYE MY FANCY_
 
 Sounds of the [[motifs/winter|winter]] too,  
 Sunshine upon the [[settings/mountains|mountains]]--many a distant strain  
-From cheery railroad train--from nearer field, barn, [[house]],  
+From cheery railroad train--from nearer field, barn, house,  
 The whispering air--even the mute crops, garner’d apples, corn,  
 Children’s and women’s tones--rhythm of many a farmer and of flail,  
 An old man’s garrulous lips among the rest, Think not we give out yet,  
@@ -759,7 +759,7 @@ When the full-grown poet came,
 Out spake pleased [[concepts/nature|Nature]] (the round impassive globe, with all its  
 shows of day and [[motifs/night|night]],) saying, He is mine;  
 But out spake too the [[motifs/soul|Soul]] of man, proud, jealous and unreconciled,  
-Nay he is mine [[Alone|alone]];  
+Nay he is mine alone;  
 --Then the full-grown poet stood between the two, and took each  
 by the hand;  
 And to-day and ever so stands, as blender, uniter, tightly holding hands,  
@@ -805,7 +805,7 @@ _Cluster: GOOD-BYE MY FANCY_
 
 Unseen buds, infinite, hidden [[motifs/well|well]],  
 Under the [[motifs/snow|snow]] and ice, under the darkness, in every square or cubic inch,  
-Germinal, exquisite, in delicate lace, microscopic, [[unborn]],  
+Germinal, exquisite, in delicate lace, microscopic, unborn,  
 Like babes in wombs, latent, folded, compact, sleeping;  
 Billions of billions, and trillions of trillions of them waiting,  
 (On earth and in the sea--the universe--the [[motifs/stars|stars]] there in the  

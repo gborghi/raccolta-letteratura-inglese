@@ -42,13 +42,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Villain, Martyr Saint, Innocent
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/innocent|Innocent]]
 **Motifs:** [[motifs/blood|Blood]], [[motifs/desire|Desire]], [[motifs/night|Night]], [[motifs/light-and-dark|Light and Dark]]
 **Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/honour|Honour]], [[concepts/guilt|Guilt]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/revenge|Revenge]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
 **Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/rhyme-royal|Rhyme Royal]]
 **Historical References:** [[historical-references/roman-history|Roman History]]
 **Settings:** [[settings/ancient-rome|Ancient Rome]]
-**Characters:** Lucrece, Tarquin, Collatine
+**Characters:** [[characters/lucrece|Lucrece]], [[characters/tarquin|Tarquin]], [[characters/collatine|Collatine]]
 
 ## Testo integrale / Full text
 

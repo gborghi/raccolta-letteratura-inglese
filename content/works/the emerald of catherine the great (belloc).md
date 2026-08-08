@@ -46,4 +46,4 @@ tags:
 **Motifs:** [[motifs/gems-jewels|Gems Jewels]], [[motifs/great-house|Great House]], [[motifs/money-and-gold|Money and Gold]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/england|England]], [[settings/russia|Russia]], [[settings/rural-england|Rural England]], [[settings/europe|Europe]]
-**Archetypes:** Self-Made Man
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]

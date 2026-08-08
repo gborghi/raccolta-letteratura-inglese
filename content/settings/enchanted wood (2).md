@@ -17,7 +17,7 @@ tags:
 - [[works/midsummer-nights-dream-(chesterton)|midsummer nights dream (Chesterton)]]
 - [[works/telegraph-poles-(chesterton)|telegraph-poles (Chesterton)]]
 - [[works/songs-of-the-pixies-(coleridge)|SONGS OF THE PIXIES (Coleridge)]]
-- 1441. These Fevered Days — to take them to the Forest (Dickinson)
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1441_these_fevered_days_to_take_them_to_the_forest|1441. These Fevered Days — to take them to the Forest (Dickinson)]]
 - [[works/an-extempore-(keats)|An Extempore (Keats)]]
 - [[works/ode-to-psyche-(keats)|ODE TO PSYCHE (Keats)]]
 - [[works/on-receiving-a-curious-shell,-and-a-copy-of-verses,-from-the-same-ladies-(keats)|ON RECEIVING A CURIOUS SHELL, AND A COPY OF VERSES, FROM THE SAME LADIES (Keats)]]

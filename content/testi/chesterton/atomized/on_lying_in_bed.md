@@ -37,7 +37,7 @@ possa essere destinato.
 
 Se non fosse per il bell'esperimento dello starsene a letto, non l'avrei forse mai
 scoperto.  Da anni andavo cercando qualche spazio bianco
-in una [[house|casa]] moderna su cui disegnare.  La carta è troppo piccola per un disegno
+in una casa moderna su cui disegnare.  La carta è troppo piccola per un disegno
 davvero allegorico; come dice Cyrano de Bergerac, "Il me faut des géants."
 Ma quando cercai di trovare questi begli spazi limpidi nelle stanze
 moderne quali sono quelle in cui tutti viviamo, restai di continuo deluso.
@@ -77,7 +77,7 @@ e delle cattedrali con un tripudio di angeli caduti o dèi vittoriosi.
 Sono sicuro che fu soltanto perché Michelangelo era intento
 all'antica e onorevole occupazione dello starsene a letto che egli mai
 si rese conto di come il soffitto della Cappella Sistina potesse essere fatto
-in una tremenda [[Imitation|imitazione]] di un dramma divino che poteva essere recitato
+in una tremenda imitazione di un dramma divino che poteva essere recitato
 soltanto nei cieli.
 
 Il tono comunemente assunto oggi verso la pratica dello starsene a letto
@@ -85,7 +85,7 @@ Il tono comunemente assunto oggi verso la pratica dello starsene a letto
 che paiono significare una sorta di decadenza, non ve n'è alcuno più minaccioso
 e pericoloso dell'esaltazione di questioni di condotta molto piccole e secondarie
 a spese di quelle molto grandi e primarie,
-a spese dei legami eterni e della tragica [[morality|moralità]] umana.
+a spese dei legami eterni e della tragica moralità umana.
 Se c'è una cosa peggiore del moderno indebolimento delle morali maggiori,
 è il moderno rafforzamento delle morali minori.  Così si considera
 più annientante accusare un uomo di cattivo gusto che di cattiva etica.
@@ -165,7 +165,7 @@ being put to.
 
 But for the beautiful experiment of lying in bed I might never have
 discovered it.  For years I have been looking for some blank spaces
-in a modern [[house]] to draw on.  Paper is much too small for any really
+in a modern house to draw on.  Paper is much too small for any really
 allegorical design; as Cyrano de Bergerac says, "Il me faut des geants."
 But when I tried to find these fine clear spaces in the modern
 rooms such as we all live in I was continually disappointed.
@@ -205,7 +205,7 @@ and cathedrals with a riot of fallen angels or victorious gods.
 I am sure that it was only because Michelangelo was engaged in
 the ancient and honorable occupation of lying in bed that he ever
 realized how the roof of the Sistine Chapel might be made into
-an awful [[Imitation|imitation]] of a divine drama that could only be acted
+an awful imitation of a divine drama that could only be acted
 in the heavens.
 
 The tone now commonly taken toward the practice of lying in bed
@@ -213,7 +213,7 @@ is hypocritical and unhealthy.  Of all the marks of modernity
 that seem to mean a kind of decadence, there is none more menacing
 and dangerous that the exaltation of very small and secondary
 matters of conduct at the expense of very great and primary ones,
-at the expense of eternal ties and tragic human [[morality]].
+at the expense of eternal ties and tragic human morality.
 If there is one thing worse that the modern weakening of major morals,
 it is the modern strengthening of minor morals.  Thus it is considered
 more withering to accuse a man of bad taste than of bad ethics.
@@ -252,7 +252,7 @@ possa essere destinato.
 
 Se non fosse per il bell'esperimento dello starsene a letto, non l'avrei forse mai
 scoperto.  Da anni andavo cercando qualche spazio bianco
-in una [[house|casa]] moderna su cui disegnare.  La carta è troppo piccola per un disegno
+in una casa moderna su cui disegnare.  La carta è troppo piccola per un disegno
 davvero allegorico; come dice Cyrano de Bergerac, "Il me faut des géants."
 Ma quando cercai di trovare questi begli spazi limpidi nelle stanze
 moderne quali sono quelle in cui tutti viviamo, restai di continuo deluso.
@@ -292,7 +292,7 @@ e delle cattedrali con un tripudio di angeli caduti o dèi vittoriosi.
 Sono sicuro che fu soltanto perché Michelangelo era intento
 all'antica e onorevole occupazione dello starsene a letto che egli mai
 si rese conto di come il soffitto della Cappella Sistina potesse essere fatto
-in una tremenda [[Imitation|imitazione]] di un dramma divino che poteva essere recitato
+in una tremenda imitazione di un dramma divino che poteva essere recitato
 soltanto nei cieli.
 
 Il tono comunemente assunto oggi verso la pratica dello starsene a letto
@@ -300,7 +300,7 @@ Il tono comunemente assunto oggi verso la pratica dello starsene a letto
 che paiono significare una sorta di decadenza, non ve n'è alcuno più minaccioso
 e pericoloso dell'esaltazione di questioni di condotta molto piccole e secondarie
 a spese di quelle molto grandi e primarie,
-a spese dei legami eterni e della tragica [[morality|moralità]] umana.
+a spese dei legami eterni e della tragica moralità umana.
 Se c'è una cosa peggiore del moderno indebolimento delle morali maggiori,
 è il moderno rafforzamento delle morali minori.  Così si considera
 più annientante accusare un uomo di cattivo gusto che di cattiva etica.

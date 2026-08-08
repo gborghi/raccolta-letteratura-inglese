@@ -55,11 +55,11 @@ tags:
 
 **Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/english-civil-war|English Civil War]], [[historical-references/druidic-paganism|Druidic Paganism]]
 
-**Archetypes:** Villain, King
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/king|King]]
 
 **Settings:** [[settings/rural-england|Rural England]]
 
-**Characters:** Lord Ivywood, King Charles II, Collingwood
+**Characters:** [[characters/lord-ivywood|Lord Ivywood]], [[characters/king-charles-ii|King Charles II]], [[characters/collingwood|Collingwood]]
 
 **Motifs:** [[concepts/nature|Nature]], [[motifs/blood|Blood]], [[motifs/seed-and-germination|Seed and Germination]], [[motifs/decay|Decay]], [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/distributism|Distributism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/natural-order|Natural Order]], [[concepts/regeneration|Regeneration]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]

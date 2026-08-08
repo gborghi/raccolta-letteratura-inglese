@@ -17,7 +17,7 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[songs|CANTI]] DELL'[[concepts/education|EDUCAZIONE]]  
+CANTI DELL'[[concepts/education|EDUCAZIONE]]  
 Gilbert Keith Chesterton  
 
 I. [[concepts/history|STORIA]]  
@@ -39,7 +39,7 @@ Benché i colli del Sussex siano brulli, siano brulli,
 e ampia sia la boscaglia del Sussex,  
 da Chichester fino a Chester  
 gli uomini videro cavalcare il Normanno;  
-gettò in aria la sua [[Sword|spada]] e cantò  
+gettò in aria la sua spada e cantò  
 al suono d'una specie di lieve chitarra;  
 fu tutto uguale, ché tutti diventammo  
 gli identici signorotti che siamo.  
@@ -98,7 +98,7 @@ dove certi nativi eran detti i Cavalieri di San Giovanni.
 
 Poi Cipro, e a oriente fino al Canale di Suez,  
 conquistato da Dizzy e dal suo compare Rothschild  
-con la [[Sword|Spada]] del Signore alla vecchia maniera inglese:  
+con la Spada del Signore alla vecchia maniera inglese:  
 ed è questo il significato del Giorno dell'Impero.  
 
 Le nostre importazioni principali giungon fino a Capo Horn;  
@@ -161,7 +161,7 @@ l'esaminatore o i suoi scrivani,
 dove puoi quadrare il cerchio o l'uomo che assegna i voti.  
 Dove ti nascondi in cantina e poi guardi dall'alto  
 i poeti che vivono nelle soffitte;  
-ché tutta la [[house|casa]] è sottosopra  
+ché tutta la casa è sottosopra  
 nella Matematica Superiore.
 
 
@@ -169,7 +169,7 @@ nella Matematica Superiore.
 <span class="atom-split" data-atom="part--part_01" data-title="songs (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/poison,motif/road,motif/water,concept/education,concept/freedom,concept/history,form/history,setting/cathedral"></span>
 
 
-[[songs|SONGS]] OF [[concepts/education|EDUCATION]]  
+SONGS OF [[concepts/education|EDUCATION]]  
 Gilbert Keith Chesterton  
 
 I. [[concepts/history|HISTORY]]  
@@ -191,7 +191,7 @@ Though Sussex hills are bare, are bare,
 And Sussex weald is wide,  
 From Chichester to Chester  
 Men saw the Norman ride;  
-He threw his [[Sword|sword]] in the air and sang  
+He threw his sword in the air and sang  
 To a sort of a light guitar;  
 It was all the same, for we all became  
 The identical nobs we are.  
@@ -313,13 +313,13 @@ The examiner or his clerks,
 Where you can square the circle or the man that gives the marks.  
 Where you hide in the cellar and then look down  
 On the poets that live in the attics;  
-For the whole of the [[house]] is upside down  
+For the whole of the house is upside down  
 In the Higher Mathematics.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[songs|CANTI]] DELL'[[concepts/education|EDUCAZIONE]]  
+CANTI DELL'[[concepts/education|EDUCAZIONE]]  
 Gilbert Keith Chesterton  
 
 I. [[concepts/history|STORIA]]  
@@ -341,7 +341,7 @@ Benché i colli del Sussex siano brulli, siano brulli,
 e ampia sia la boscaglia del Sussex,  
 da Chichester fino a Chester  
 gli uomini videro cavalcare il Normanno;  
-gettò in aria la sua [[Sword|spada]] e cantò  
+gettò in aria la sua spada e cantò  
 al suono d'una specie di lieve chitarra;  
 fu tutto uguale, ché tutti diventammo  
 gli identici signorotti che siamo.  
@@ -400,7 +400,7 @@ dove certi nativi eran detti i Cavalieri di San Giovanni.
 
 Poi Cipro, e a oriente fino al Canale di Suez,  
 conquistato da Dizzy e dal suo compare Rothschild  
-con la [[Sword|Spada]] del Signore alla vecchia maniera inglese:  
+con la Spada del Signore alla vecchia maniera inglese:  
 ed è questo il significato del Giorno dell'Impero.  
 
 Le nostre importazioni principali giungon fino a Capo Horn;  
@@ -463,5 +463,5 @@ l'esaminatore o i suoi scrivani,
 dove puoi quadrare il cerchio o l'uomo che assegna i voti.  
 Dove ti nascondi in cantina e poi guardi dall'alto  
 i poeti che vivono nelle soffitte;  
-ché tutta la [[house|casa]] è sottosopra  
+ché tutta la casa è sottosopra  
 nella Matematica Superiore.

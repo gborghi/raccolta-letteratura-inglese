@@ -8,7 +8,7 @@ tags:
 *Cluster* — **59 works**.
 
 ## Defining concepts
-[[motifs/eyes-and-sight|Eyes and Sight]] (37), [[concepts/beauty|Beauty]] (28), [[concepts/appearance-vs-reality|Appearance vs Reality]] (26), [[concepts/romantic-love|Romantic Love]] (22), [[forms/sonnet|Sonnet]] (21), [[forms/shakespearean-sonnet|Shakespearean Sonnet]] (19), [[concepts/deception|Deception]] (19), [[forms/lyric|Lyric]] (18), (Reputed) Fallen Woman (10), [[motifs/flowers|Flowers]] (8), [[concepts/grief-and-loss|Grief and Loss]] (7), Lover (7), [[concepts/identity|Identity]] (7), [[motifs/rose|Rose]] (7), [[motifs/concealment-hidden-identity|Concealment Hidden Identity]] (7)
+[[motifs/eyes-and-sight|Eyes and Sight]] (37), [[concepts/beauty|Beauty]] (28), [[concepts/appearance-vs-reality|Appearance vs Reality]] (26), [[concepts/romantic-love|Romantic Love]] (22), [[forms/sonnet|Sonnet]] (21), [[forms/shakespearean-sonnet|Shakespearean Sonnet]] (19), [[concepts/deception|Deception]] (19), [[forms/lyric|Lyric]] (18), [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]] (10), [[motifs/flowers|Flowers]] (8), [[concepts/grief-and-loss|Grief and Loss]] (7), [[archetypes/lover|Lover]] (7), [[concepts/identity|Identity]] (7), [[motifs/rose|Rose]] (7), [[motifs/concealment-hidden-identity|Concealment Hidden Identity]] (7)
 
 ## Works
 
@@ -16,18 +16,18 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1131. The Merchant of the Picturesque (Dickinson)
-- 1426. The pretty Rain from those sweet Eaves (Dickinson)
-- 1453. A Counterfeit — a Plated Person — (Dickinson)
-- 165. A wounded Deer — leaps highest — (Dickinson)
-- 175. I have never seen Volcanoes — (Dickinson)
-- 421. A Charm invests a face (Dickinson)
-- 451. The Outer — from the Inner (Dickinson)
-- 500. Within my Garden, rides a Bird (Dickinson)
-- 571. Must be a Woe — (Dickinson)
-- 627. The Tint I cannot take — is best — (Dickinson)
-- 747. It dropped so low — in my Regard — (Dickinson)
-- 752. So the Eyes accost — and sunder (Dickinson)
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#1131_the_merchant_of_the_picturesque|1131. The Merchant of the Picturesque (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#1426_the_pretty_rain_from_those_sweet_eaves|1426. The pretty Rain from those sweet Eaves (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#1453_a_counterfeit_a_plated_person|1453. A Counterfeit — a Plated Person — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0165_a_wounded_deer_leaps_highest|165. A wounded Deer — leaps highest — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0175_i_have_never_seen_volcanoes|175. I have never seen Volcanoes — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0421_a_charm_invests_a_face|421. A Charm invests a face (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0451_the_outer_from_the_inner|451. The Outer — from the Inner (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0500_within_my_garden_rides_a_bird|500. Within my Garden, rides a Bird (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0571_must_be_a_woe|571. Must be a Woe — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0627_the_tint_i_cannot_take_is_best|627. The Tint I cannot take — is best — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0747_it_dropped_so_low_in_my_regard|747. It dropped so low — in my Regard — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0752_so_the_eyes_accost_and_sunder|752. So the Eyes accost — and sunder (Dickinson)]]
 - [[works/a-lover’s-complaint-(shakespeare)|A Lover’s Complaint (Shakespeare)]]
 - [[works/a-valentine-(poe)|A Valentine (Poe)]]
 - [[works/alcaeus-to-sappho-(coleridge)|ALCAEUS TO SAPPHO (Coleridge)]]
@@ -38,25 +38,25 @@ tags:
 - [[works/much-ado-about-nothing-(shakespeare)|MUCH ADO ABOUT NOTHING (Shakespeare)]]
 - [[works/oh,-i-am-frighten’d-with-most-hateful-thoughts!-(keats)|Oh, I am frighten’d with most hateful thoughts! (Keats)]]
 - [[works/on-a-portrait-(eliot)|On a Portrait (Eliot)]]
-- Sonnet 113 (Shakespeare)
-- Sonnet 114 (Shakespeare)
-- Sonnet 121 (Shakespeare)
-- Sonnet 127 (Shakespeare)
-- Sonnet 130 (Shakespeare)
-- Sonnet 132 (Shakespeare)
-- Sonnet 137 (Shakespeare)
-- Sonnet 138 (Shakespeare)
-- Sonnet 142 (Shakespeare)
-- Sonnet 148 (Shakespeare)
-- Sonnet 150 (Shakespeare)
-- Sonnet 152 (Shakespeare)
-- Sonnet 20 (Shakespeare)
-- Sonnet 24 (Shakespeare)
-- Sonnet 67 (Shakespeare)
-- Sonnet 69 (Shakespeare)
-- Sonnet 83 (Shakespeare)
-- Sonnet 92 (Shakespeare)
-- Sonnet 93 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_113|Sonnet 113 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_114|Sonnet 114 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_121|Sonnet 121 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_127|Sonnet 127 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_130|Sonnet 130 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_132|Sonnet 132 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_137|Sonnet 137 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_138|Sonnet 138 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_142|Sonnet 142 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_148|Sonnet 148 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_150|Sonnet 150 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_152|Sonnet 152 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_020|Sonnet 20 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_024|Sonnet 24 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_067|Sonnet 67 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_069|Sonnet 69 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_083|Sonnet 83 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_092|Sonnet 92 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_093|Sonnet 93 (Shakespeare)]]
 - [[works/sonnet-written-in-answer-to-a-sonnet-ending-thus-(keats)|Sonnet Written in Answer to a Sonnet Ending thus (Keats)]]
 - [[works/spots-in-the-sun-(coleridge)|SPOTS IN THE SUN (Coleridge)]]
 - [[works/the-ballad-of-the-dark-ladié-(coleridge)|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]

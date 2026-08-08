@@ -49,9 +49,9 @@ tags:
 
 ## Connections
 
-**Archetypes:** Common Man (2)
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Characters:** Tilden, St. Thomas Aquinas
+**Characters:** [[characters/tilden|Tilden]], [[characters/st.-thomas-aquinas|St. Thomas Aquinas]]
 
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/truth|Truth]], [[concepts/paradox|Paradox]], [[concepts/common-man|Common Man]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/power-of-language|Power of Language]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/aphorism|Aphorism]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]

@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/city|City]], [[motifs/wheel|Wheel]]
 **Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]]
 

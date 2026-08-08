@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/stars|Stars]], [[motifs/cross|Cross]]
 **Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/martyrdom|Martyrdom]], [[concepts/war-and-its-cost|War and its Cost]]
 **Historical References:** [[historical-references/french-revolution|French Revolution]]

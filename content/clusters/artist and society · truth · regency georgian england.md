@@ -16,9 +16,9 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1129. Tell all the Truth but tell it slant — (Dickinson)
-- 1269. I worked for chaff and earning Wheat (Dickinson)
-- 780. The Truth — is stirless — (Dickinson)
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1129_tell_all_the_truth_but_tell_it_slant|1129. Tell all the Truth but tell it slant — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1269_i_worked_for_chaff_and_earning_wheat|1269. I worked for chaff and earning Wheat (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0780_the_truth_is_stirless|780. The Truth — is stirless — (Dickinson)]]
 - [[works/a-tombless-epitaph-(coleridge)|A TOMBLESS EPITAPH (Coleridge)]]
 - [[works/adaptations-(coleridge)|ADAPTATIONS (Coleridge)]]
 - [[works/addressed-to-haydon-(keats)|ADDRESSED TO HAYDON (Keats)]]

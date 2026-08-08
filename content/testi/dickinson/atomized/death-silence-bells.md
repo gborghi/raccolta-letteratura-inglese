@@ -200,7 +200,7 @@ Into the everlasting [[motifs/snow|snow]]?
 
 And "Jesus"! Where is Jesus gone?  
 They said that Jesus — always came —  
-Perhaps he doesn't know the [[house|House]] —  
+Perhaps he doesn't know the House —  
 This way, Jesus, Let him pass!  
 
 Somebody run to the great gate  
@@ -418,7 +418,7 @@ For the Rates — lie Here —
 <span class="atom-split" data-atom="0389_theres_been_a_death_in_the_opposite_house" data-title="389. There's been a Death, in the Opposite House," data-chapter="" data-kind="intro" data-tags="archetype/child,motif/death,motif/the_window,concept/mortality,concept/grief_and_loss,setting/new_england,cluster/death,cluster/silence,cluster/bells"></span>
 
 
-There's been a [[motifs/death|Death]], in the Opposite [[house|House]],  
+There's been a [[motifs/death|Death]], in the Opposite House,  
 As lately as Today —  
 I know it, by the numb look  
 Such Houses have — alway —  
@@ -434,13 +434,13 @@ They [[concepts/wonder|wonder]] if it died — on that —
 I used to — when a Boy —  
 
 The Minister — goes stiffly in —  
-As if the [[house|House]] were His —  
+As if the House were His —  
 And He owned all the Mourners — now —  
 And little Boys — besides —  
 
 And then the Milliner — and the Man  
 Of the Appalling Trade —  
-To take the measure of the [[house|House]] —  
+To take the measure of the House —  
 
 There'll be that Dark Parade —  
 
@@ -462,7 +462,7 @@ Enters — with a "You know Me — Sir"?
 
 Simple Salute — and certain Recognition —  
 Bold — were it Enemy — Brief — were it friend —  
-Dresses each [[house|House]] in Crape, and Icicle —  
+Dresses each House in Crape, and Icicle —  
 And carries one — out of it — to [[characters/god|God]] —
 
 
@@ -662,7 +662,7 @@ And Customs at "St. James"!
 <span class="atom-split" data-atom="0475_doom_is_the_house_without_the_door" data-title="475. Doom is the House without the Door —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/nature,concept/fate_and_free_will,concept/mortality,cluster/death,cluster/silence,cluster/bells"></span>
 
 
-Doom is the [[house|House]] without the [[motifs/door|Door]] —  
+Doom is the House without the [[motifs/door|Door]] —  
 'Tis entered from the [[motifs/sun|Sun]] —  
 And then the Ladder's thrown away,  
 Because Escape — is done —  
@@ -799,14 +799,14 @@ And only the waves reply.
 
 
 A first Mute Coming —  
-In the Stranger's [[house|House]] —  
+In the Stranger's House —  
 A first fair Going —  
 When [[The [[motifs/bells|Bells]]|the Bells]] rejoice —  
 
 A first Exchange — of  
 What hath mingled — been —  
 For Lot — exhibited to  
-[[concepts/faith|Faith]] — [[Alone|alone]] —
+[[concepts/faith|Faith]] — alone —
 
 
 
@@ -847,7 +847,7 @@ The Dews drew quivering and chill—
 For only Gossamer, my Gown—  
 My Tippet—only Tulle—  
 
-We paused before a [[house|House]] that seemed  
+We paused before a House that seemed  
 A Swelling of the Ground—  
 The Roof was scarcely visible—  
 The Cornice—in the Ground—  
@@ -865,7 +865,7 @@ Were toward [[concepts/eternity|Eternity]]—
 
 I meant to find Her when I came —  
 [[motifs/death|Death]] — had the same design —  
-But the [[success|Success]] — was His — it seems —  
+But the Success — was His — it seems —  
 And the Surrender — Mine —  
 
 I meant to tell Her how I longed  
@@ -941,7 +941,7 @@ The leaving [[motifs/love|Love]] behind.
 
 Not for itself, the [[motifs/dust|Dust]] is shy,  
 But, enemy, Beloved be  
-Thy Batteries [[divorce]].  
+Thy Batteries divorce.  
 Fight sternly in a Dying eye  
 Two Armies, [[motifs/love|Love]] and Certainty  
 And [[motifs/love|Love]] and the Reverse.
@@ -1019,7 +1019,7 @@ Bore [[motifs/death|Death]] from Passion
 All His East  
 He — sovereign as the [[motifs/sun|Sun]]  
 Resituated in the West  
-And the [[debate|Debate]] was done.
+And the Debate was done.
 
 
 
@@ -1123,7 +1123,7 @@ I find it to infer.
 
 
 It came at last but prompter [[motifs/death|Death]]  
-Had occupied the [[house|House]] —  
+Had occupied the House —  
 His pallid Furniture arranged  
 And his metallic Peace —  
 

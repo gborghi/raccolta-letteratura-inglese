@@ -30,7 +30,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/memento-mori|Memento Mori]]
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/death|Death]], [[motifs/sleep|Sleep]], [[motifs/grave|Grave]], [[motifs/love|Love]], [[motifs/flowers|Flowers]], [[motifs/water|Water]]
 **Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

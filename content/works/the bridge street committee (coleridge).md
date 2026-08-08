@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/reform|Reform]], [[concepts/social-injustice|Social Injustice]]
 **Forms & Genres:** [[forms/satire|Satire]]
 

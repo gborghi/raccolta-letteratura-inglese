@@ -26,11 +26,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/social-injustice|Social Injustice]], [[concepts/grotesque|Grotesque]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/good-vs-evil|Good vs Evil]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/satire|Satire]]
 **Historical References:** [[historical-references/bible|Bible]]
-**Characters:** Satan
+**Characters:** [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

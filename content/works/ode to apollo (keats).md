@@ -30,7 +30,7 @@ tags:
 **Themes & Concepts:** [[concepts/immortality-of-art-fame|Immortality of Art Fame]]
 **Forms & Genres:** [[forms/ode|Ode]]
 **Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/classical-antiquity|Classical Antiquity]]
-**Characters:** Apollo
+**Characters:** [[characters/apollo|Apollo]]
 
 ## Testo integrale / Full text
 

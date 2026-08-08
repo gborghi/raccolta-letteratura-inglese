@@ -28,7 +28,7 @@ tags:
 **Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/divine-love|Divine Love]]
 **Historical References:** [[historical-references/bible|Bible]]
 **Settings:** [[motifs/desert|Desert]]
-**Characters:** Virgin Mary
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

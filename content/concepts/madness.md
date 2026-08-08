@@ -38,19 +38,19 @@ tags:
 - [[works/the-madman-and-the-lethargist-(coleridge)-(2)|THE MADMAN AND THE LETHARGIST (Coleridge) (2)]]
 - [[works/the-old-man-of-the-alps-(coleridge)|THE OLD MAN OF THE ALPS (Coleridge)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
-- 1046. I've dropped my Brain — My Soul is numb — (Dickinson)
-- 1062. He scanned it — staggered — (Dickinson)
-- 1182. Remembrance has a Rear and Front — (Dickinson)
-- 1225. Its Hour with itself (Dickinson)
-- 1284. Had we our senses (Dickinson)
-- 1727. If ever the lid gets off my head (Dickinson)
-- 410. The first Day's Night had come — (Dickinson)
-- 435. Much Madness is divinest Sense — (Dickinson)
-- 512. The Soul has Bandaged moments — (Dickinson)
-- 556. The Brain, within its Groove (Dickinson)
-- 593. I think I was enchanted (Dickinson)
-- 642. Me from Myself — to banish — (Dickinson)
-- 670. One need not be a Chamber — to be Haunted — (Dickinson)
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1046_ive_dropped_my_brain_my_soul_is_numb|1046. I've dropped my Brain — My Soul is numb — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1062_he_scanned_it_staggered|1062. He scanned it — staggered — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#1182_remembrance_has_a_rear_and_front|1182. Remembrance has a Rear and Front — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1225_its_hour_with_itself|1225. Its Hour with itself (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1284_had_we_our_senses|1284. Had we our senses (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1727_if_ever_the_lid_gets_off_my_head|1727. If ever the lid gets off my head (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0410_the_first_days_night_had_come|410. The first Day's Night had come — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0435_much_madness_is_divinest_sense|435. Much Madness is divinest Sense — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0512_the_soul_has_bandaged_moments|512. The Soul has Bandaged moments — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0556_the_brain_within_its_groove|556. The Brain, within its Groove (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0593_i_think_i_was_enchanted|593. I think I was enchanted (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0642_me_from_myself_to_banish|642. Me from Myself — to banish — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0670_one_need_not_be_a_chamber_to_be_haunted|670. One need not be a Chamber — to be Haunted — (Dickinson)]]
 - [[works/lines-for-an-old-man-(eliot)|Lines for an Old Man (Eliot)]]
 - [[works/a-draught-of-sunshine-(keats)|A Draught of Sunshine (Keats)]]
 - [[works/lines-written-in-the-highlands-after-a-visit-to-burns’s-country-(keats)|Lines Written in the Highlands after a Visit to Burns’s Country (Keats)]]
@@ -67,8 +67,8 @@ tags:
 - [[works/the-tell-tale-heart-(poe)|The Tell-Tale Heart (Poe)]]
 - [[works/hamlet-(shakespeare)|HAMLET (Shakespeare)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
-- Sonnet 140 (Shakespeare)
-- Sonnet 147 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_140|Sonnet 140 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_147|Sonnet 147 (Shakespeare)]]
 - [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
 - [[works/the-history-of-king-lear---the-quarto-text-(shakespeare)|THE HISTORY OF KING LEAR - THE QUARTO TEXT (Shakespeare)]]
 - [[works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)|THE TRAGEDY OF KING LEAR - THE FOLIO TEXT (Shakespeare)]]

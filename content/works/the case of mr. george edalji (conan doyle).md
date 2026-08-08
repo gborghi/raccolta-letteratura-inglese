@@ -50,5 +50,5 @@ tags:
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/secrets|Secrets]], [[motifs/animals|Animals]]
 **Historical References:** [[historical-references/victorian-england|Victorian England]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/london|London]]
-**Characters:** Sir Arthur Conan Doyle
-**Archetypes:** Scapegoat, Outsider
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]]
+**Archetypes:** [[archetypes/scapegoat|Scapegoat]], [[archetypes/outsider|Outsider]]

@@ -20,11 +20,11 @@ tags:
 - [[works/thursday-(chesterton)|thursday (Chesterton)]]
 - [[works/a-child's-history-of-england-(dickens)|A Child's History of England (Dickens)]]
 - [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
-- 524. Departed — to the Judgment — (Dickinson)
-- 531. We dream — it is good we are dreaming — (Dickinson)
-- 658. Whole Gulfs — of Red, and Fleets — of Red — (Dickinson)
-- 664. Of all the Souls that stand create — (Dickinson)
-- 741. Drama's Vitallest Expression is the Common Day (Dickinson)
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0524_departed_to_the_judgment|524. Departed — to the Judgment — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0531_we_dream_it_is_good_we_are_dreaming|531. We dream — it is good we are dreaming — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0658_whole_gulfs_of_red_and_fleets_of_red|658. Whole Gulfs — of Red, and Fleets — of Red — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0664_of_all_the_souls_that_stand_create|664. Of all the Souls that stand create — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0741_dramas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
 - [[works/coriolan-(eliot)|Coriolan (Eliot)]]
 - [[works/gus-the-theatre-cat-(eliot)|Gus the Theatre Cat (Eliot)]]
 - [[works/the-conqueror-worm-(poe)|The Conqueror Worm (Poe)]]
@@ -38,8 +38,8 @@ tags:
 - [[works/julius-caesar-(shakespeare)|JULIUS CAESAR (Shakespeare)]]
 - [[works/richard-duke-of-york---(3-henry-vi)-(shakespeare)|RICHARD DUKE OF YORK - (3 HENRY VI) (Shakespeare)]]
 - [[works/richard-iii-(shakespeare)|RICHARD III (Shakespeare)]]
-- Sonnet 15 (Shakespeare)
-- Sonnet 23 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_015|Sonnet 15 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_023|Sonnet 23 (Shakespeare)]]
 - [[works/the-taming-of-the-shrew-(shakespeare)|THE TAMING OF THE SHREW (Shakespeare)]]
 - [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
 - [[works/broadway-(whitman)|Broadway (Whitman)]]

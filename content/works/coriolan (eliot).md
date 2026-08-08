@@ -32,7 +32,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
-**Archetypes:** Tyrant
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/dust|Dust]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/crown|Crown]], [[motifs/horse|Horse]]
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/satire-of-society|Satire of Society]], [[concepts/war-and-its-cost|War and its Cost]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/fragment|Fragment]]

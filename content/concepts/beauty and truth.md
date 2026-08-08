@@ -14,13 +14,13 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 449. I died for Beauty — but was scarce (Dickinson)
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0449_i_died_for_beauty_but_was_scarce|449. I died for Beauty — but was scarce (Dickinson)]]
 - [[works/ode-on-a-grecian-urn-(keats)|ODE ON A GRECIAN URN (Keats)]]
-- Sonnet 101 (Shakespeare)
-- Sonnet 105 (Shakespeare)
-- Sonnet 14 (Shakespeare)
-- Sonnet 21 (Shakespeare)
-- Sonnet 54 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_101|Sonnet 101 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_105|Sonnet 105 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_014|Sonnet 14 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_021|Sonnet 21 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_054|Sonnet 54 (Shakespeare)]]
 - [[works/various-poems-(shakespeare)|VARIOUS POEMS (Shakespeare)]]
 - [[works/the-critic-as-artist-(wilde)|The Critic as Artist (Wilde)]]
 - [[works/the-decay-of-lying-(wilde)|The Decay of Lying (Wilde)]]

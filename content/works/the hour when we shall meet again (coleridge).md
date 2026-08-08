@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/rose|Rose]], [[motifs/dawn|Dawn]]
 **Themes & Concepts:** [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

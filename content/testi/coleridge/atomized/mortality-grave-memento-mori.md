@@ -298,7 +298,7 @@ minute descriptions of natural objects and scenic effects. The
 concluding lines are illegible.  
 Poole, ‘Reply of Coleridge on my urging him to exert himself.’ First  
 collected in 1893.  
-following quotation from The Select Discourses by John [[smith|Smith]], 1660: —  
+following quotation from The Select Discourses by John Smith, 1660: —  
 ‘So the Sibyl was noted by Heraclitus as ¼±¹½¿¼s½ó ÃÄy¼±Ä¹ ³µ»±ÃÄp º±v  
 º±»»}À¹ÃÄ± Æ¸µ³³¿¼s½·, as one speaking ridiculous and unseemly speeches  
 with her furious mouth.’ The [[forms/fragment|fragment]] is misquoted and misunderstood:  
@@ -333,7 +333,7 @@ And in his mistress’ flame playing like a fly,   5
 Was turned to cinders by her eye:  
 Yes; and in [[motifs/death|death]], as life unblest,  
 To have ‘t exprest,  
-Even ashes of [[lovers]] find no rest.  
+Even ashes of lovers find no rest.  
 
 
 
@@ -346,8 +346,8 @@ In slender threads adown this glass,
 Were once the [[concepts/body|body]] of some swain,  
 Who lov’d too [[motifs/well|well]] and lov’d in vain,  
 And let one soft sigh heave thy breast,   5  
-That not in life [[Alone|alone]] unblest  
-E’en [[lovers]]’ ashes find no rest.  
+That not in life alone unblest  
+E’en lovers’ ashes find no rest.  
 First published in The Courier, August 30, 1811; included in Essays  
 on His Own Times, iii. 994. Now collected for the first [[motifs/time|time]].  
 The original is a [[forms/translation|translation]] of a Latin [[forms/epigram|Epigram]], ‘Horologium Pulvereum,  

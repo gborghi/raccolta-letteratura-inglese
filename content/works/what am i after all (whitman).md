@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/childhood|Childhood]]
 **Themes & Concepts:** [[concepts/self|Self]], [[concepts/identity|Identity]]
 **Forms & Genres:** [[forms/fragment|Fragment]]

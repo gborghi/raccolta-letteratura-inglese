@@ -54,7 +54,7 @@ Spesso udite insieme: il gemito nel sartiame,
 La minaccia e la carezza dell'onda che si rompe sull'[[motifs/water|acqua]],  
 Il rombo lontano tra i denti di granito,  
 E il lamentoso avvertimento dal promontorio che s'avvicina  
-Sono tutte [[Sea Voices|voci del mare]], e la boa gemente sull'onda  
+Sono tutte voci del mare, e la boa gemente sull'onda  
 Doppiata verso casa, e il gabbiano:  
 E sotto l'oppressione della nebbia silenziosa  
 La campana che rintocca  
@@ -151,7 +151,7 @@ O nella furia improvvisa, è ciò che sempre è stato.
 III  
 A volte mi [[concepts/wonder|domando]] se sia questo che Krishna intendeva —  
 Tra le altre cose — o un modo di dire la stessa cosa:  
-Che il futuro è una [[Song|canzone]] sbiadita, una [[motifs/rose|Rosa]] Regale o un rametto di lavanda  
+Che il futuro è una canzone sbiadita, una [[motifs/rose|Rosa]] Regale o un rametto di lavanda  
 Di malinconico rimpianto per quelli che non sono ancora qui a rimpiangere,  
 Pressato tra le gialle [[motifs/leaves|foglie]] di un libro che non è mai stato aperto.  
 E la via in su è la via in giù, la via avanti è la via indietro.  
@@ -303,7 +303,7 @@ Often together heard: the whine in the rigging,
 The menace and caress of wave that breaks on [[motifs/water|water]],  
 The distant rote in the granite teeth,  
 And the wailing warning from the approaching headland  
-Are all [[Sea Voices|sea voices]], and the heaving groaner  
+Are all sea voices, and the heaving groaner  
 Rounded homewards, and the seagull:  
 And under the oppression of the silent fog  
 The tolling bell  
@@ -358,7 +358,7 @@ Spesso udite insieme: il gemito nel sartiame,
 La minaccia e la carezza dell'onda che si rompe sull'[[motifs/water|acqua]],  
 Il rombo lontano tra i denti di granito,  
 E il lamentoso avvertimento dal promontorio che s'avvicina  
-Sono tutte [[Sea Voices|voci del mare]], e la boa gemente sull'onda  
+Sono tutte voci del mare, e la boa gemente sull'onda  
 Doppiata verso casa, e il gabbiano:  
 E sotto l'oppressione della nebbia silenziosa  
 La campana che rintocca  
@@ -546,7 +546,7 @@ O nella furia improvvisa, è ciò che sempre è stato.
 III  
 I sometimes [[concepts/wonder|wonder]] if that is what Krishna meant —  
 Among other things — or one way of putting the same thing:  
-That the future is a faded [[Song|song]], a Royal [[motifs/rose|Rose]] or a lavender spray  
+That the future is a faded song, a Royal [[motifs/rose|Rose]] or a lavender spray  
 Of wistful regret for those who are not yet here to regret,  
 Pressed between yellow [[motifs/leaves|leaves]] of a book that has never been opened.  
 And the way up is the way down, the way forward is the way back.  
@@ -598,7 +598,7 @@ But fare forward, voyagers.
 III  
 A volte mi [[concepts/wonder|domando]] se sia questo che Krishna intendeva —  
 Tra le altre cose — o un modo di dire la stessa cosa:  
-Che il futuro è una [[Song|canzone]] sbiadita, una [[motifs/rose|Rosa]] Regale o un rametto di lavanda  
+Che il futuro è una canzone sbiadita, una [[motifs/rose|Rosa]] Regale o un rametto di lavanda  
 Di malinconico rimpianto per quelli che non sono ancora qui a rimpiangere,  
 Pressato tra le gialle [[motifs/leaves|foglie]] di un libro che non è mai stato aperto.  
 E la via in su è la via in giù, la via avanti è la via indietro.  

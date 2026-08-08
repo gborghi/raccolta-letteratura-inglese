@@ -16,9 +16,9 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1226. The Popular Heart is a Cannon first — (Dickinson)
-- 166. I met a King this afternoon! (Dickinson)
-- 910. Experience is the Angled Road (Dickinson)
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1226_the_popular_heart_is_a_cannon_first|1226. The Popular Heart is a Cannon first — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0166_i_met_a_king_this_afternoon|166. I met a King this afternoon! (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0910_experience_is_the_angled_road|910. Experience is the Angled Road (Dickinson)]]
 - [[works/anti-puritan-(chesterton)|anti-puritan (Chesterton)]]
 - [[works/ascetic-(chesterton)|ascetic (Chesterton)]]
 - [[works/ballad-of-abbreviations-(chesterton)|Ballad Of Abbreviations (Chesterton)]]

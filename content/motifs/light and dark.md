@@ -64,52 +64,52 @@ tags:
 - [[works/little-dorrit-(dickens)|Little Dorrit (Dickens)]]
 - [[works/oliver-twist-(dickens)|Oliver Twist (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
-- 10. My wheel is in the dark! (Dickinson)
-- 1000. The Fingers of the Light (Dickinson)
-- 1018. Who saw no Sunrise cannot say (Dickinson)
-- 1039. I heard, as if I had no Ear (Dickinson)
-- 1105. Like Men and Women Shadows walk (Dickinson)
-- 1109. I fit for them — (Dickinson)
-- 1129. Tell all the Truth but tell it slant — (Dickinson)
-- 113. Our share of night to bear — (Dickinson)
-- 1171. On the World you colored (Dickinson)
-- 1173. The Lightning is a yellow Fork (Dickinson)
-- 1187. Oh Shadow on the Grass, (Dickinson)
-- 1390. These held their Wick above the West — (Dickinson)
-- 1397. It sounded as if the Streets were running (Dickinson)
-- 1468. A winged spark doth soar about — (Dickinson)
-- 152. The Sun kept stooping — stooping — low! (Dickinson)
-- 1525. He lived the Life of Ambush (Dickinson)
-- 158. Dying! Dying in the night! (Dickinson)
-- 1581. The farthest Thunder that I heard (Dickinson)
-- 1642. Red Sea, indeed! Talk not to me (Dickinson)
-- 1649. A Cap of Lead across the sky (Dickinson)
-- 1739. Some say goodnight — at night — (Dickinson)
-- 233. The Lamp burns sure — within — (Dickinson)
-- 236. If He dissolve — then — there is nothing — more — (Dickinson)
-- 290. Of Bronze — and Blaze — (Dickinson)
-- 295. Unto like Story — Trouble has enticed me — (Dickinson)
-- 297. It's like the Light — (Dickinson)
-- 347. When Night is almost done — (Dickinson)
-- 365. Dare you see a Soul at the White Heat (Dickinson)
-- 374. I went to Heaven — (Dickinson)
-- 419. We grow accustomed to the Dark — (Dickinson)
-- 425. Good Morning — Midnight — (Dickinson)
-- 446. I showed her Heights she never saw — (Dickinson)
-- 469. The Red — Blaze — is the Morning — (Dickinson)
-- 572. Delight — becomes pictorial — (Dickinson)
-- 638. To my small Hearth His fire came — (Dickinson)
-- 692. The Sun kept setting — setting — still (Dickinson)
-- 716. The Day undressed — Herself — (Dickinson)
-- 761. From Blank to Blank — (Dickinson)
-- 764. Presentiment — is that long Shadow — on the Lawn — (Dickinson)
-- 777. The Loneliness One dare not sound — (Dickinson)
-- 812. A Light exists in Spring (Dickinson)
-- 820. All Circumstances are the Frame (Dickinson)
-- 853. When One has given up One's life (Dickinson)
-- 854. Banish Air from Air — (Dickinson)
-- 862. Light is sufficient to itself — (Dickinson)
-- 972. Unfulfilled to Observation — (Dickinson)
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0010_my_wheel_is_in_the_dark|10. My wheel is in the dark! (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1000_the_fingers_of_the_light|1000. The Fingers of the Light (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1018_who_saw_no_sunrise_cannot_say|1018. Who saw no Sunrise cannot say (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1039_i_heard_as_if_i_had_no_ear|1039. I heard, as if I had no Ear (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1105_like_men_and_women_shadows_walk|1105. Like Men and Women Shadows walk (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#1109_i_fit_for_them|1109. I fit for them — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#1129_tell_all_the_truth_but_tell_it_slant|1129. Tell all the Truth but tell it slant — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0113_our_share_of_night_to_bear|113. Our share of night to bear — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1171_on_the_world_you_colored|1171. On the World you colored (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1173_the_lightning_is_a_yellow_fork|1173. The Lightning is a yellow Fork (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1187_oh_shadow_on_the_grass|1187. Oh Shadow on the Grass, (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1390_these_held_their_wick_above_the_west|1390. These held their Wick above the West — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1397_it_sounded_as_if_the_streets_were_running|1397. It sounded as if the Streets were running (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1468_a_winged_spark_doth_soar_about|1468. A winged spark doth soar about — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0152_the_sun_kept_stooping_stooping_low|152. The Sun kept stooping — stooping — low! (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1525_he_lived_the_life_of_ambush|1525. He lived the Life of Ambush (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0158_dying_dying_in_the_night|158. Dying! Dying in the night! (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1581_the_farthest_thunder_that_i_heard|1581. The farthest Thunder that I heard (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1642_red_sea_indeed_talk_not_to_me|1642. Red Sea, indeed! Talk not to me (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1649_a_cap_of_lead_across_the_sky|1649. A Cap of Lead across the sky (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1739_some_say_goodnight_at_night|1739. Some say goodnight — at night — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0233_the_lamp_burns_sure_within|233. The Lamp burns sure — within — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0236_if_he_dissolve_then_there_is_nothing_more|236. If He dissolve — then — there is nothing — more — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0290_of_bronze_and_blaze|290. Of Bronze — and Blaze — (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0295_unto_like_story_trouble_has_enticed_me|295. Unto like Story — Trouble has enticed me — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0297_its_like_the_light|297. It's like the Light — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0347_when_night_is_almost_done|347. When Night is almost done — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0365_dare_you_see_a_soul_at_the_white_heat|365. Dare you see a Soul at the White Heat (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0374_i_went_to_heaven|374. I went to Heaven — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0419_we_grow_accustomed_to_the_dark|419. We grow accustomed to the Dark — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0425_good_morning_midnight|425. Good Morning — Midnight — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0446_i_showed_her_heights_she_never_saw|446. I showed her Heights she never saw — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0469_the_red_blaze_is_the_morning|469. The Red — Blaze — is the Morning — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0572_delight_becomes_pictorial|572. Delight — becomes pictorial — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0638_to_my_small_hearth_his_fire_came|638. To my small Hearth His fire came — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0692_the_sun_kept_setting_setting_still|692. The Sun kept setting — setting — still (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0716_the_day_undressed_herself|716. The Day undressed — Herself — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0761_from_blank_to_blank|761. From Blank to Blank — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0764_presentiment_is_that_long_shadow_on_the_lawn|764. Presentiment — is that long Shadow — on the Lawn — (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0777_the_loneliness_one_dare_not_sound|777. The Loneliness One dare not sound — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0812_a_light_exists_in_spring|812. A Light exists in Spring (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0820_all_circumstances_are_the_frame|820. All Circumstances are the Frame (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0853_when_one_has_given_up_ones_life|853. When One has given up One's life (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0854_banish_air_from_air|854. Banish Air from Air — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0862_light_is_sufficient_to_itself|862. Light is sufficient to itself — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0972_unfulfilled_to_observation|972. Unfulfilled to Observation — (Dickinson)]]
 - [[works/choruses-from-‘the-rock’-1934-(eliot)|CHORUSES FROM ‘THE ROCK’ 1934 (Eliot)]]
 - [[works/the-hollow-men-1925-(eliot)|THE HOLLOW MEN 1925 (Eliot)]]
 - [[works/v-if-the-lost-word-is-lost,-if-the-spent-word-is-spent-(eliot)|V If the lost word is lost, if the spent word is spent (Eliot)]]
@@ -130,16 +130,16 @@ tags:
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
 - [[works/romeo-and-juliet-(shakespeare)|ROMEO AND JULIET (Shakespeare)]]
-- Sonnet 127 (Shakespeare)
-- Sonnet 131 (Shakespeare)
-- Sonnet 132 (Shakespeare)
-- Sonnet 144 (Shakespeare)
-- Sonnet 145 (Shakespeare)
-- Sonnet 147 (Shakespeare)
-- Sonnet 27 (Shakespeare)
-- Sonnet 28 (Shakespeare)
-- Sonnet 43 (Shakespeare)
-- Sonnet 73 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_127|Sonnet 127 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_131|Sonnet 131 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_132|Sonnet 132 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_144|Sonnet 144 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_145|Sonnet 145 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_147|Sonnet 147 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_027|Sonnet 27 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_028|Sonnet 28 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_043|Sonnet 43 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_073|Sonnet 73 (Shakespeare)]]
 - [[works/the-rape-of-lucrece-(shakespeare)|THE RAPE OF LUCRECE (Shakespeare)]]
 - [[works/a-prairie-sunset-(whitman)|A Prairie Sunset (Whitman)]]
 - [[works/after-the-dazzle-of-day-(whitman)|After the Dazzle of Day (Whitman)]]

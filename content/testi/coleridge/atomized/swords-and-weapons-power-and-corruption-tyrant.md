@@ -49,8 +49,8 @@ And Eloquence shall fearless glow.
 Yes! Liberty the [[motifs/soul|soul]] of Life shall reign,  
 Shall throb in every pulse, shall flow thro’ every vein!   30  
 VI  
-Shall France [[Alone|alone]] a Despot spurn?  
-Shall she [[Alone|alone]], O [[concepts/freedom|Freedom]], boast thy care?  
+Shall France alone a Despot spurn?  
+Shall she alone, O [[concepts/freedom|Freedom]], boast thy care?  
 Lo, round thy standard Belgia’s heroes burn,  
 Tho’ Power’s [[motifs/blood|blood]]-stain’d streamers [[motifs/fire|fire]] the air,  
 And wider yet thy influence spread,   35  
@@ -196,7 +196,7 @@ Both. Who bade you do ‘t?
 Slau.       The same! the same!
 Letters four do form his name.   25
 He let me loose, and cried Halloo!
-To him [[Alone|alone]] the praise is due.
+To him alone the praise is due.
 Fam. Thanks, sister, thanks! the men have bled,
 Their wives and their children faint for bread.
 I stood in a swampy field of battle;   30
@@ -215,7 +215,7 @@ Both. Who bade you do ‘t?
 Fam.        The same! the same!
 Letters four do form his name.
 He let me loose, and cried, Halloo!
-To him [[Alone|alone]] the praise is due.   45
+To him alone the praise is due.   45
 [[motifs/fire|Fire]]. Sisters! I from Ireland came!
 Hedge and corn-fields all on flame,
 I triumph’d o’er the setting sun!
@@ -228,7 +228,7 @@ With uncouth gallop through the [[motifs/night|night]],
 Scared by the red and noisy light!   55
 By the light of his own blazing cot
 Was many a naked [[archetypes/rebel|Rebel]] shot:
-The [[house]]-stream met the flame and hissed,
+The house-stream met the flame and hissed,
 While crash! fell in the roof, I wist,
 On some of those old bed-rid nurses,   60
 That deal in discontent and curses.
@@ -236,7 +236,7 @@ Both. Who bade you do’t?
 [[motifs/fire|Fire]].      The same! the same!
 Letters four do form his name.
 He let me loose, and cried Halloo!
-To him [[Alone|alone]] the praise is due.   65
+To him alone the praise is due.   65
 All. He let us loose, and cried Halloo!
 How shall we yield him [[concepts/honour|honour]] due?
 Fam. Wisdom comes with lack of food.
@@ -251,7 +251,7 @@ Ninety months he, by my troth!
 Hath richly catered for you both;
 And in an hour would you repay
 An eight years’ work? — Away! away!
-I [[Alone|alone]] am faithful! I   80
+I alone am faithful! I   80
 Cling to him everlastingly.
 1798.
 
@@ -288,7 +288,7 @@ Full ninety moons, he by my troth!
 Hath richly cater’d for you both!
 And in an hour would you repay
 An eight years’ debt? Away! away!
-I [[Alone|alone]] am faithful! I
+I alone am faithful! I
 Cling to him everlastingly.
 LABERIUS.
 M. P.
@@ -354,7 +354,7 @@ Where once the Austrian fell
 Beneath the shaft of Tell!  
 O Lady, nursed in pomp and pleasure!    5  
 Whence learn’d you that heroic measure?  
-Light as [[A Dream|a dream]] your days their circlets ran,  
+Light as a dream your days their circlets ran,  
 From all that teaches brotherhood to Man  
 Far, far removed! from want, from [[concepts/hope|hope]], from [[concepts/fear|fear]]!  
 Enchanting music lulled your infant ear,   10  
@@ -440,7 +440,7 @@ Thence learn’d you that heroic measure.
 
 
 SECRETARY OF STATE IN GREAT BRITAIN FOR FOREIGN AFFAIRS, AUDITOR OF THE  
-EXCHEQUER, A LORD OF TRADE, AN ELDER BROTHER OF TRINITY [[house|HOUSE]], ETC.  
+EXCHEQUER, A LORD OF TRADE, AN ELDER BROTHER OF TRINITY HOUSE, ETC.  
 My Lord! though your Lordship repel deviation  
 From forms long establish’d, yet with high consideration,  
 I plead for the [[concepts/honour|honour]] to [[concepts/hope|hope]] that no blame  
@@ -456,7 +456,7 @@ That your Lordship’s ungauntleted fingers need [[concepts/fear|fear]]
 An infection or burn! Believe me, ‘tis true,  
 With a scorn like another I look down on the crew  
 That bawl and hold up to the mob’s detestation   15  
-The most delicate wish for a silent [[Persuasion|persuasion]].  
+The most delicate wish for a silent persuasion.  
 A form long-establish’d these Terrorists call  
 Bribes, perjury, theft, and the devil and all!  
 And yet spite of all that the Moralist prates,  
@@ -494,7 +494,7 @@ Compell’d to drive on to the main point at once,   50
 What a plentiful vintage of initiations  
 Would Noble Lords lose in your Lordship’s orations.  
 My fancy transports me! As mute as a mouse,  
-And as fleet as a pigeon, I’m borne to the [[house]]  
+And as fleet as a pigeon, I’m borne to the house  
 Where all those who are Lords, from father to son,   55  
 Discuss the affairs of all those who are none.  
 I behold you, my Lord! of your feelings quite full,  
@@ -540,7 +540,7 @@ Unless all who must think are maintain’d all in [[motifs/silence|silence]].
 This printing, my Lord — but ‘tis useless to mention  
 What we both of us think—’twas a curséd invention,  
 And [[settings/germany|Germany]] might have been honestly prouder  
-Had she left it [[Alone|alone]], and found out only powder.   100  
+Had she left it alone, and found out only powder.   100  
 My Lord! when I think of our labours and cares  
 Who rule the Department of foreign affairs,  
 And how with their libels these journalists bore us,  
@@ -673,7 +673,7 @@ Where’er I find the Good, the True, the Fair,
 I ask no names — God’s spirit dwelleth there!  
 The unconfounded, undivided Three,  
 Each for itself, and all in each, to see  
-In man and [[concepts/nature|Nature]], is [[philosophy|Philosophy]].  
+In man and [[concepts/nature|Nature]], is Philosophy.  
 Undated. First published from an MS. in 1893.  
 A [[motifs/wind|wind]] that with Aurora hath abiding  
 Among the Arabian and the Persian Hills.  

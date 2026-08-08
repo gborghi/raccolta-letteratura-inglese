@@ -49,7 +49,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Pilgrim
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 
 **Settings:** [[motifs/desert|Desert]], [[settings/american-west|American West]]
 

@@ -26,7 +26,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Pilgrim
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]]
 **Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/poverty|Poverty]], [[concepts/humility|Humility]], [[concepts/social-injustice|Social Injustice]]
 **Forms & Genres:** [[forms/lyric|Lyric]]

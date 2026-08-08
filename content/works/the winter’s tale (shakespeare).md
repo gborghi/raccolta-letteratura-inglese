@@ -65,12 +65,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/pastoral-retreat|Pastoral Retreat]], [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/fortune's-wheel|Fortune's Wheel]]
-**Archetypes:** King, Tyrant, Innocent
+**Archetypes:** [[archetypes/king|King]], [[archetypes/tyrant|Tyrant]], [[archetypes/innocent|Innocent]]
 **Motifs:** [[motifs/seasons|Seasons]], [[motifs/winter|Winter]], [[motifs/flowers|Flowers]], [[motifs/time|Time]], [[motifs/mirror|Mirror]]
 **Themes & Concepts:** [[concepts/jealousy|Jealousy]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/conversion|Conversion]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
 **Forms & Genres:** [[forms/romance-play|Romance Play]], [[forms/tragicomedy|Tragicomedy]], [[forms/blank-verse|Blank Verse]]
 **Settings:** [[settings/pastoral-countryside|Pastoral Countryside]], [[settings/court|Court]]
-**Characters:** Leontes, Hermione, Perdita, Polixenes, Paulina, Florizel, Camillo, Autolycus
+**Characters:** [[characters/leontes|Leontes]], [[characters/hermione|Hermione]], [[characters/perdita|Perdita]], [[characters/polixenes|Polixenes]], [[characters/paulina|Paulina]], [[characters/florizel|Florizel]], [[characters/camillo|Camillo]], [[characters/autolycus|Autolycus]]
 
 ## Testo integrale / Full text
 

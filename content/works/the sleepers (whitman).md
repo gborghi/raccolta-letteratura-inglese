@@ -28,7 +28,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/night-journey-vision|Night Journey Vision]]
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/sleep|Sleep]], [[motifs/dreams|Dreams]], [[motifs/night|Night]], [[motifs/death|Death]], [[motifs/sea|Sea]]
 **Themes & Concepts:** [[concepts/self-knowledge|Self-Knowledge]], [[concepts/mortality|Mortality]], [[concepts/identity|Identity]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

@@ -18,10 +18,10 @@ tags:
 - [[works/last-hero-(chesterton)|last hero (Chesterton)]]
 - [[works/praise-of-dust-(chesterton)|praise of dust (Chesterton)]]
 - [[works/unborn-(chesterton)|unborn (Chesterton)]]
-- 1000. The Fingers of the Light (Dickinson)
-- 494. Going to Him! Happy letter! (Dickinson)
-- 964. Unto Me I do not know you — (Dickinson)
-- 976. Death is a Dialogue between (Dickinson)
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1000_the_fingers_of_the_light|1000. The Fingers of the Light (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0494_going_to_him_happy_letter|494. Going to Him! Happy letter! (Dickinson)]]
+- [[testi/dickinson/atomized/martyrdom-martyr-saint-cross#0964_unto_me_i_do_not_know_you|964. Unto Me I do not know you — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0976_death_is_a_dialogue_between|976. Death is a Dialogue between (Dickinson)]]
 - [[works/a-song-for-simeon-(eliot)|A Song for Simeon (Eliot)]]
 - [[works/ariel-poems-(eliot)|ARIEL POEMS (Eliot)]]
 - [[works/cat-morgan-introduces-himself-(eliot)|Cat Morgan Introduces Himself (Eliot)]]

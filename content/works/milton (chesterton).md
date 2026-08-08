@@ -57,11 +57,11 @@ tags:
 **Motifs:** [[motifs/stone-and-marble|Stone and Marble]], [[motifs/light-and-dark|Light and Dark]]
 
 **Topoi:** [[topoi/paradise-lost|Paradise Lost]]
-**Archetypes:** Satanic Figure
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
 **Themes & Concepts:** [[concepts/pride|Pride]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/democracy|Democracy]], [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/class-conflict|Class Conflict]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/reformation|Reformation]], [[historical-references/french-revolution|French Revolution]], [[historical-references/calvinism|Calvinism]]
-**Characters:** Satan, [[historical-references/milton|Milton]], Shakespeare, [[historical-references/oliver-cromwell|Oliver Cromwell]]
+**Characters:** [[characters/satan|Satan]], [[historical-references/milton|Milton]], [[characters/shakespeare|Shakespeare]], [[historical-references/oliver-cromwell|Oliver Cromwell]]
 
 ## Testo integrale / Full text
 

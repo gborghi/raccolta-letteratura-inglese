@@ -49,7 +49,7 @@ tags:
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[historical-references/bernard-shaw|Bernard Shaw]], Hilaire Belloc
+**Characters:** [[historical-references/bernard-shaw|Bernard Shaw]], [[characters/hilaire-belloc|Hilaire Belloc]]
 
 **Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/class-conflict|Class Conflict]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/reform|Reform]], [[concepts/common-man|Common Man]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/democracy|Democracy]], [[concepts/slavery|Slavery]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/labor-and-work|Labor and Work]], [[concepts/individualism|Individualism]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]

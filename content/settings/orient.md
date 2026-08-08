@@ -24,7 +24,7 @@ tags:
 - [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
 - [[works/kubla-khan-(coleridge)|KUBLA KHAN (Coleridge)]]
 - [[works/lewti-or-the-circassian-love-chaunt-(coleridge)|LEWTI OR THE CIRCASSIAN LOVE-CHAUNT (Coleridge)]]
-- 424. Removed from Accident of Loss (Dickinson)
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0424_removed_from_accident_of_loss|424. Removed from Accident of Loss (Dickinson)]]
 - [[works/journey-of-the-magi-(eliot)|Journey of the Magi (Eliot)]]
 - [[works/the-cap-and-bells-(keats)|The Cap and Bells (Keats)]]
 - [[works/four-beasts-in-one-the-homo-cameleopard-(poe)|Four Beasts in One-The Homo-Cameleopard (Poe)]]

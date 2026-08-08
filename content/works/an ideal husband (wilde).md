@@ -143,13 +143,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/double|Double]]
-**Archetypes:** Corrupt Official, Temptress, Villain, Trickster
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/temptress|Temptress]], [[archetypes/villain|Villain]], [[archetypes/trickster|Trickster]]
 **Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/city|City]], [[motifs/marriage|Marriage]]
 **Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/guilt|Guilt]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/ambition|Ambition]], [[concepts/grace-and-redemption|Grace and Redemption]]
 **Forms & Genres:** [[forms/comedy|Comedy]], [[forms/satire|Satire]], [[forms/epigram|Epigram]]
 **Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 **Settings:** [[settings/london|London]], [[settings/court|Court]]
-**Characters:** Sir Robert Chiltern, Lady Chiltern, Lord Goring, Mrs Cheveley, Lord Caversham, Mabel Chiltern
+**Characters:** [[characters/sir-robert-chiltern|Sir Robert Chiltern]], [[characters/lady-chiltern|Lady Chiltern]], [[characters/lord-goring|Lord Goring]], [[characters/mrs-cheveley|Mrs Cheveley]], [[characters/lord-caversham|Lord Caversham]], [[characters/mabel-chiltern|Mabel Chiltern]]
 
 ## Testo integrale / Full text
 

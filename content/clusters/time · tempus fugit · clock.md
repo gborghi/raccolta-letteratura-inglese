@@ -16,38 +16,38 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1056. There is a Zone whose even Years (Dickinson)
-- 1106. We do not know the time we lose — (Dickinson)
-- 1120. This slow Day moved along — (Dickinson)
-- 1184. The Days that we can spare (Dickinson)
-- 1236. Like Time's insidious wrinkle (Dickinson)
-- 1276. 'Twas later when the summer went (Dickinson)
-- 1444. A little Snow was here and there (Dickinson)
-- 1473. We talked with each other about each other (Dickinson)
-- 1507. The Pile of Years is not so high (Dickinson)
-- 1631. Oh Future! thou secreted peace (Dickinson)
-- 1656. Down Time's quaint stream (Dickinson)
-- 1738. Softened by Time's consummate plush, (Dickinson)
-- 345. Funny — to be a Century — (Dickinson)
-- 423. The Months have ends — the Years — a knot — (Dickinson)
-- 478. I had no time to Hate — (Dickinson)
-- 563. I could not prove the Years had feet — (Dickinson)
-- 624. Forever — is composed of Nows — (Dickinson)
-- 800. Two — were immortal twice — (Dickinson)
-- 802. Time feels so vast that were it not (Dickinson)
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1056_there_is_a_zone_whose_even_years|1056. There is a Zone whose even Years (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1106_we_do_not_know_the_time_we_lose|1106. We do not know the time we lose — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1120_this_slow_day_moved_along|1120. This slow Day moved along — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1184_the_days_that_we_can_spare|1184. The Days that we can spare (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1236_like_times_insidious_wrinkle|1236. Like Time's insidious wrinkle (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1276_twas_later_when_the_summer_went|1276. 'Twas later when the summer went (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1444_a_little_snow_was_here_and_there|1444. A little Snow was here and there (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1473_we_talked_with_each_other_about_each_other|1473. We talked with each other about each other (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1507_the_pile_of_years_is_not_so_high|1507. The Pile of Years is not so high (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1631_oh_future_thou_secreted_peace|1631. Oh Future! thou secreted peace (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1656_down_times_quaint_stream|1656. Down Time's quaint stream (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#1738_softened_by_times_consummate_plush|1738. Softened by Time's consummate plush, (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0345_funny_to_be_a_century|345. Funny — to be a Century — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0423_the_months_have_ends_the_years_a_knot|423. The Months have ends — the Years — a knot — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0478_i_had_no_time_to_hate|478. I had no time to Hate — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0563_i_could_not_prove_the_years_had_feet|563. I could not prove the Years had feet — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0624_forever_is_composed_of_nows|624. Forever — is composed of Nows — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0800_two_were_immortal_twice|800. Two — were immortal twice — (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0802_time_feels_so_vast_that_were_it_not|802. Time feels so vast that were it not (Dickinson)]]
 - [[works/a-lyric-‘if-time-and-space,-as-sages-say’-(eliot)|A Lyric ‘If Time and Space, as Sages say’ (Eliot)]]
 - [[works/five-finger-exercises-(eliot)|Five-Finger Exercises (Eliot)]]
 - [[works/inscription-for-a-time-piece-(coleridge)|INSCRIPTION FOR A TIME-PIECE (Coleridge)]]
 - [[works/limbo-(coleridge)|LIMBO (Coleridge)]]
 - [[works/quae-nocent-docent-(coleridge)|QUAE NOCENT DOCENT (Coleridge)]]
-- Sonnet 100 (Shakespeare)
-- Sonnet 104 (Shakespeare)
-- Sonnet 115 (Shakespeare)
-- Sonnet 12 (Shakespeare)
-- Sonnet 123 (Shakespeare)
-- Sonnet 2 (Shakespeare)
-- Sonnet 60 (Shakespeare)
-- Sonnet 63 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_100|Sonnet 100 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_104|Sonnet 104 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_115|Sonnet 115 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_012|Sonnet 12 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_123|Sonnet 123 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_002|Sonnet 2 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_060|Sonnet 60 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_063|Sonnet 63 (Shakespeare)]]
 - [[works/sonnet-to-john-hamilton-reynolds-(keats)|Sonnet to John Hamilton Reynolds (Keats)]]
 - [[works/the-bells-(poe)|The Bells (Poe)]]
 - [[works/the-masque-of-the-red-death-(poe)|The Masque of the Red Death (Poe)]]

@@ -40,7 +40,7 @@ tags:
 - [[works/nicholas-nickleby-(dickens)|Nicholas Nickleby (Dickens)]]
 - [[works/oliver-twist-(dickens)|Oliver Twist (Dickens)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
-- 139. Soul, Wilt thou toss again (Dickinson)
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0139_soul_wilt_thou_toss_again|139. Soul, Wilt thou toss again (Dickinson)]]
 - [[works/iv-there-are-those-who-would-build-the-temple-(eliot)|IV There are those who would build the Temple (Eliot)]]
 - [[works/murder-in-the-cathedral-(eliot)|MURDER IN THE CATHEDRAL (Eliot)]]
 - [[works/vii-in-the-beginning-god-created-the-world-(eliot)|VII In the beginning god created the world (Eliot)]]
@@ -50,7 +50,7 @@ tags:
 - [[works/william-wilson-(poe)|William Wilson (Poe)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
-- Sonnet 144 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_144|Sonnet 144 (Shakespeare)]]
 - [[works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)|THE TRAGEDY OF KING LEAR - THE FOLIO TEXT (Shakespeare)]]
 - [[works/chanting-the-square-deific-(whitman)|Chanting the Square Deific (Whitman)]]
 - [[works/roaming-in-thought-after-reading-hegel-(whitman)|Roaming in Thought After reading Hegel (Whitman)]]

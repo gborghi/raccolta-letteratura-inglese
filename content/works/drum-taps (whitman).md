@@ -33,7 +33,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Martyr Saint
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 **Motifs:** [[motifs/death|Death]], [[motifs/blood|Blood]], [[motifs/music-and-song|Music and Song]], [[motifs/journey|Journey]], [[motifs/comradeship-(2)|Comradeship (2)]]
 **Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/heroism|Heroism]], [[concepts/common-man|Common Man]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]], [[forms/elegy|Elegy]], [[forms/lyric|Lyric]]

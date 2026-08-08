@@ -22,7 +22,7 @@ The mere fact consciousness, these forms, the power of motion,
 The least insect or animal, the senses, eyesight, [[motifs/love|love]],  
 The first step I say awed me and pleas’d me so much,  
 I have hardly gone and hardly wish’d to go any farther,  
-But stop and loiter all the [[motifs/time|time]] to sing it in ecstatic [[songs]].  
+But stop and loiter all the [[motifs/time|time]] to sing it in ecstatic songs.  
 
 
 
@@ -44,7 +44,7 @@ I now suspect there is something fierce in you eligible to burst forth,
 For an athlete is enamour’d of me, and I of him,  
 But toward him there is something fierce and terrible in me eligible  
 to burst forth,  
-I dare not tell it in words, not even in these [[songs]].  
+I dare not tell it in words, not even in these songs.  
 
 
 
@@ -391,7 +391,7 @@ the untruth of a single second,
 I do not think it was made in six days, nor in ten thousand years,  
 nor ten billions of years,  
 Nor plann’d and built one thing after another as an architect plans  
-and builds a [[house]].  
+and builds a house.  
 
 I do not think seventy years is the [[motifs/time|time]] of a man or woman,  
 Nor that seventy millions of years is the [[motifs/time|time]] of a man or woman,  
@@ -557,7 +557,7 @@ Costless, vouchsafed to each, yet never man the owner,
 Which poets vainly seek to put in rhyme, historians in prose,  
 Which sculptor never chisel’d yet, nor painter painted,  
 Which vocalist never sung, nor orator nor actor ever utter’d,  
-Invoking here and now I challenge for my [[Song|song]].  
+Invoking here and now I challenge for my song.  
 
 Indifferently, ’mid public, private haunts, in [[concepts/solitude|solitude]],  
 Behind the mountain and the wood,  
@@ -602,7 +602,7 @@ And heaven at last for it.
 <span class="atom-split" data-atom="281_song_at_sunset" data-title="Song at Sunset" data-chapter="" data-kind="intro"></span>
 
 
-_Cluster: [[songs|SONGS]] OF PARTING_  
+_Cluster: SONGS OF PARTING_  
 
 
 Splendor of ended day floating and filling me,  
@@ -657,7 +657,7 @@ me and [[settings/america|America]]!
 I take your strong chords, intersperse them, and cheerfully pass  
 them forward.  
 
-I too [[carol]] the sun, usher’d or at [[motifs/noon|noon]], or as now, setting,  
+I too carol the sun, usher’d or at [[motifs/noon|noon]], or as now, setting,  
 I too throb to the brain and [[concepts/beauty|beauty]] of the earth and of all the  
 growths of the earth,  
 I too have felt the resistless call of myself.  
@@ -695,7 +695,7 @@ I still warble under you, if none else does, unmitigated adoration.
 _Cluster: GOOD-BYE MY FANCY_
 
 
-The soothing [[Sanity|sanity]] and blitheness of completion,
+The soothing sanity and blitheness of completion,
 The pomp and hurried contest-glare and rush are done;
 Now triumph! transformation! jubilate!
 
@@ -712,14 +712,14 @@ Now triumph! transformation! jubilate!
 _Cluster: GOOD-BYE MY FANCY_  
 
 
-An ancient [[Song|song]], reciting, ending,  
+An ancient song, reciting, ending,  
 Once gazing toward thee, Mother of All,  
 Musing, seeking themes fitted for thee,  
 Accept me, thou saidst, the elder ballads,  
 And name for me before thou goest each ancient poet.  
 
 (Of many debts incalculable,  
-Haply our New World’s chieftest debt is to old [[Poems|poems]].)  
+Haply our New World’s chieftest debt is to old poems.)  
 
 Ever so far back, preluding thee, [[settings/america|America]],  
 Old chants, Egyptian priests, and those of Ethiopia,  
@@ -756,14 +756,14 @@ _Cluster: GOOD-BYE MY FANCY_
 
 
 How dare one say it?  
-After the cycles, [[Poems|poems]], singers, plays,  
+After the cycles, poems, singers, plays,  
 Vaunted Ionia’s, India’s--Homer, Shakspere--the long, long times’  
 thick dotted roads, areas,  
 The shining clusters and the Milky Ways of [[motifs/stars|stars]]--[[concepts/nature|Nature]]’s pulses reap’d,  
 All retrospective passions, heroes, war, [[motifs/love|love]], adoration,  
 All ages’ plummets dropt to their utmost depths,  
 All human lives, throats, wishes, brains--all experiences’ utterance;  
-After the countless [[songs]], or long or short, all tongues, all lands,  
+After the countless songs, or long or short, all tongues, all lands,  
 Still something not yet told in poesy’s voice or print--something lacking,  
 (Who knows? the best yet unexpress’d and lacking.)  
 

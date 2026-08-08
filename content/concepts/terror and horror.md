@@ -24,43 +24,43 @@ tags:
 - [[works/the-pains-of-sleep-(coleridge)|THE PAINS OF SLEEP (Coleridge)]]
 - [[works/to-the-author-of-‘the-robbers’-(coleridge)|TO THE AUTHOR OF ‘THE ROBBERS’ (Coleridge)]]
 - [[works/translation-of-wrangham’s-‘hendecasyllabi-ad-bruntonam-e-granta-exituram’-kal.-oct.mdccxc-(coleridge)|TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ KAL. OCT.MDCCXC (Coleridge)]]
-- 1062. He scanned it — staggered — (Dickinson)
-- 1128. These are the Nights that Beetles love — (Dickinson)
-- 1225. Its Hour with itself (Dickinson)
-- 1397. It sounded as if the Streets were running (Dickinson)
-- 1419. It was a quiet seeming Day — (Dickinson)
-- 1593. There came a Wind like a Bugle — (Dickinson)
-- 1649. A Cap of Lead across the sky (Dickinson)
-- 1733. No man saw awe, nor to his house (Dickinson)
-- 1749. The waters chased him as he fled, (Dickinson)
-- 198. An awful Tempest mashed the air — (Dickinson)
-- 281. 'Tis so appalling — it exhilarates — (Dickinson)
-- 286. That after Horror — that 'twas us — (Dickinson)
-- 289. I know some lonely Houses off the Road (Dickinson)
-- 305. The difference between Despair (Dickinson)
-- 315. He fumbles at your Soul (Dickinson)
-- 338. I know that He exists. (Dickinson)
-- 378. I saw no Way — The Heavens were stitched — (Dickinson)
-- 390. It's coming — the postponeless Creature — (Dickinson)
-- 399. A House upon the Height — (Dickinson)
-- 410. The first Day's Night had come — (Dickinson)
-- 414. 'Twas like a Maelstrom, with a notch, (Dickinson)
-- 426. It don't sound so terrible — quite — as it did — (Dickinson)
-- 512. The Soul has Bandaged moments — (Dickinson)
-- 532. I tried to think a lonelier Thing (Dickinson)
-- 565. One Anguish — in a Crowd — (Dickinson)
-- 590. Did you ever stand in a Cavern's Mouth — (Dickinson)
-- 598. Three times — we parted — Breath — and I — (Dickinson)
-- 609. I Years had been from Home (Dickinson)
-- 614. In falling Timbers buried — (Dickinson)
-- 670. One need not be a Chamber — to be Haunted — (Dickinson)
-- 762. The Whole of it came not at once — (Dickinson)
-- 777. The Loneliness One dare not sound — (Dickinson)
-- 867. Escaping backward to perceive (Dickinson)
-- 879. Each Second is the last (Dickinson)
-- 889. Crisis is a Hair (Dickinson)
-- 971. Robbed by Death — but that was easy — (Dickinson)
-- 986. A narrow fellow in the grass (Dickinson)
+- [[testi/dickinson/atomized/terror-and-horror-madness#1062_he_scanned_it_staggered|1062. He scanned it — staggered — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1128_these_are_the_nights_that_beetles_love|1128. These are the Nights that Beetles love — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#1225_its_hour_with_itself|1225. Its Hour with itself (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1397_it_sounded_as_if_the_streets_were_running|1397. It sounded as if the Streets were running (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1419_it_was_a_quiet_seeming_day|1419. It was a quiet seeming Day — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1593_there_came_a_wind_like_a_bugle|1593. There came a Wind like a Bugle — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1649_a_cap_of_lead_across_the_sky|1649. A Cap of Lead across the sky (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1733_no_man_saw_awe_nor_to_his_house|1733. No man saw awe, nor to his house (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1749_the_waters_chased_him_as_he_fled|1749. The waters chased him as he fled, (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0198_an_awful_tempest_mashed_the_air|198. An awful Tempest mashed the air — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0281_tis_so_appalling_it_exhilarates|281. 'Tis so appalling — it exhilarates — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0286_that_after_horror_that_twas_us|286. That after Horror — that 'twas us — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0289_i_know_some_lonely_houses_off_the_road|289. I know some lonely Houses off the Road (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0305_the_difference_between_despair|305. The difference between Despair (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0315_he_fumbles_at_your_soul|315. He fumbles at your Soul (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0338_i_know_that_he_exists|338. I know that He exists. (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0378_i_saw_no_way_the_heavens_were_stitched|378. I saw no Way — The Heavens were stitched — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0390_its_coming_the_postponeless_creature|390. It's coming — the postponeless Creature — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0399_a_house_upon_the_height|399. A House upon the Height — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0410_the_first_days_night_had_come|410. The first Day's Night had come — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0414_twas_like_a_maelstrom_with_a_notch|414. 'Twas like a Maelstrom, with a notch, (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0426_it_dont_sound_so_terrible_quite_as_it_did|426. It don't sound so terrible — quite — as it did — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0512_the_soul_has_bandaged_moments|512. The Soul has Bandaged moments — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0532_i_tried_to_think_a_lonelier_thing|532. I tried to think a lonelier Thing (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0565_one_anguish_in_a_crowd|565. One Anguish — in a Crowd — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0590_did_you_ever_stand_in_a_caverns_mouth|590. Did you ever stand in a Cavern's Mouth — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0598_three_times_we_parted_breath_and_i|598. Three times — we parted — Breath — and I — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0609_i_years_had_been_from_home|609. I Years had been from Home (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0614_in_falling_timbers_buried|614. In falling Timbers buried — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0670_one_need_not_be_a_chamber_to_be_haunted|670. One need not be a Chamber — to be Haunted — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0762_the_whole_of_it_came_not_at_once|762. The Whole of it came not at once — (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0777_the_loneliness_one_dare_not_sound|777. The Loneliness One dare not sound — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0867_escaping_backward_to_perceive|867. Escaping backward to perceive (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0879_each_second_is_the_last|879. Each Second is the last (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0889_crisis_is_a_hair|889. Crisis is a Hair (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0971_robbed_by_death_but_that_was_easy|971. Robbed by Death — but that was easy — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0986_a_narrow_fellow_in_the_grass|986. A narrow fellow in the grass (Dickinson)]]
 - [[works/sweeney-agonistes-(eliot)|Sweeney Agonistes (Eliot)]]
 - [[works/the-death-of-saint-narcissus-(eliot)|The Death of Saint Narcissus (Eliot)]]
 - [[works/the-wind-sprang-up-at-four-o’clock-(eliot)|The wind sprang up at four o’clock (Eliot)]]

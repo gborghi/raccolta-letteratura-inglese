@@ -24,11 +24,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** Outsider
+**Archetypes:** [[archetypes/outsider|Outsider]]
 **Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/mortality|Mortality]], [[concepts/providence|Providence]]
 **Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]]
 **Settings:** [[settings/sea-(2)|Sea (2)]]
-**Characters:** Columbus
+**Characters:** [[characters/columbus|Columbus]]
 
 ## Testo integrale / Full text
 

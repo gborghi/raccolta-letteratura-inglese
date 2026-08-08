@@ -31,18 +31,18 @@ tags:
 - [[works/the-sigh-(coleridge)|THE SIGH (Coleridge)]]
 - [[works/to-the-rev.-george-coleridge-of-ottery-st.-mary,-devon-(coleridge)|TO THE REV. GEORGE COLERIDGE OF OTTERY ST. MARY, DEVON (Coleridge)]]
 - [[works/zapolya-a-christmas-tale-in-two-parts-(coleridge)|ZAPOLYA A CHRISTMAS TALE IN TWO PARTS (Coleridge)]]
-- 1010. Up Life's Hill with my little Bundle (Dickinson)
-- 1018. Who saw no Sunrise cannot say (Dickinson)
-- 1087. We miss a Kinsman more (Dickinson)
-- 1122. 'Tis my first night beneath the Sun (Dickinson)
-- 167. To learn the Transport by the Pain (Dickinson)
-- 492. Civilization — spurns — the Leopard! (Dickinson)
-- 609. I Years had been from Home (Dickinson)
-- 710. The Sunrise runs for Both — (Dickinson)
-- 719. A South Wind — has a pathos (Dickinson)
-- 725. Where Thou art — that — is Home — (Dickinson)
-- 821. Away from Home are some and I — (Dickinson)
-- 959. A loss of something ever felt I — (Dickinson)
+- [[testi/dickinson/atomized/faith-providence-divine-love#1010_up_lifes_hill_with_my_little_bundle|1010. Up Life's Hill with my little Bundle (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1018_who_saw_no_sunrise_cannot_say|1018. Who saw no Sunrise cannot say (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#1087_we_miss_a_kinsman_more|1087. We miss a Kinsman more (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1122_tis_my_first_night_beneath_the_sun|1122. 'Tis my first night beneath the Sun (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0167_to_learn_the_transport_by_the_pain|167. To learn the Transport by the Pain (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0492_civilization_spurns_the_leopard|492. Civilization — spurns — the Leopard! (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0609_i_years_had_been_from_home|609. I Years had been from Home (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0710_the_sunrise_runs_for_both|710. The Sunrise runs for Both — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0719_a_south_wind_has_a_pathos|719. A South Wind — has a pathos (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0725_where_thou_art_that_is_home|725. Where Thou art — that — is Home — (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0821_away_from_home_are_some_and_i|821. Away from Home are some and I — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0959_a_loss_of_something_ever_felt_i|959. A loss of something ever felt I — (Dickinson)]]
 - [[works/iv-who-walked-between-the-violet-and-the-violet-(eliot)|IV Who walked between the violet and the violet (Eliot)]]
 - [[works/to-the-indians-who-died-in-africa-(eliot)|To the Indians who Died in Africa (Eliot)]]
 - [[works/lines-to-fanny-(keats)|Lines to Fanny (Keats)]]
@@ -50,9 +50,9 @@ tags:
 - [[works/coriolanus-(shakespeare)|CORIOLANUS (Shakespeare)]]
 - [[works/cymbeline-(shakespeare)|CYMBELINE (Shakespeare)]]
 - [[works/sir-thomas-more-(shakespeare)|SIR THOMAS MORE (Shakespeare)]]
-- Sonnet 113 (Shakespeare)
-- Sonnet 97 (Shakespeare)
-- Sonnet 98 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_113|Sonnet 113 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_097|Sonnet 97 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_098|Sonnet 98 (Shakespeare)]]
 - [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
 - [[works/old-ireland-(whitman)|Old Ireland (Whitman)]]
 - [[works/the-refugees-(conan-doyle)|The Refugees (Conan Doyle)]]

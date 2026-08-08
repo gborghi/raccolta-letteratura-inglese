@@ -30,18 +30,18 @@ tags:
 - [[works/ortho14-(chesterton)|ortho14 (Chesterton)]]
 - [[works/devonshire-roads-(coleridge)|DEVONSHIRE ROADS (Coleridge)]]
 - [[works/the-blossoming-of-the-solitary-date-tree-(coleridge)|THE BLOSSOMING OF THE SOLITARY DATE-TREE (Coleridge)]]
-- 1119. Paradise is that old mansion (Dickinson)
-- 148. All overgrown by cunning moss, (Dickinson)
-- 1657. Eden is that old-fashioned House (Dickinson)
-- 168. If the foolish, call them flowers — (Dickinson)
-- 1740. Sweet is the swamp with its secrets, (Dickinson)
-- 176. I'm the little Heart's Ease ! (Dickinson)
-- 180. As if some little Arctic flower (Dickinson)
-- 213. Did the Harebell loose her girdle (Dickinson)
-- 413. I never felt at Home — Below —- (Dickinson)
-- 428. Taking up the fair Ideal, (Dickinson)
-- 503. Better — than Music! For I — who heard it — (Dickinson)
-- 959. A loss of something ever felt I — (Dickinson)
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1119_paradise_is_that_old_mansion|1119. Paradise is that old mansion (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0148_all_overgrown_by_cunning_moss|148. All overgrown by cunning moss, (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1657_eden_is_that_old-fashioned_house|1657. Eden is that old-fashioned House (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0168_if_the_foolish_call_them_flowers|168. If the foolish, call them flowers — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#1740_sweet_is_the_swamp_with_its_secrets|1740. Sweet is the swamp with its secrets, (Dickinson)]]
+- [[testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#0176_im_the_little_hearts_ease|176. I'm the little Heart's Ease ! (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0180_as_if_some_little_arctic_flower|180. As if some little Arctic flower (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0213_did_the_harebell_loose_her_girdle|213. Did the Harebell loose her girdle (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0413_i_never_felt_at_home_below_-|413. I never felt at Home — Below —- (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0428_taking_up_the_fair_ideal|428. Taking up the fair Ideal, (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0503_better_than_music_for_i_who_heard_it|503. Better — than Music! For I — who heard it — (Dickinson)]]
+- [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0959_a_loss_of_something_ever_felt_i|959. A loss of something ever felt I — (Dickinson)]]
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
 - [[works/the-fall-of-hyperion-(keats)|The Fall of Hyperion (Keats)]]
 - [[works/al-aaraaf-(poe)|Al Aaraaf (Poe)]]

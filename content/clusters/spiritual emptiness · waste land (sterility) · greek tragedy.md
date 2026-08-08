@@ -8,7 +8,7 @@ tags:
 *Cluster* — **12 works**.
 
 ## Defining concepts
-[[concepts/spiritual-emptiness|Spiritual Emptiness]] (8), [[concepts/waste-land-(sterility)|Waste Land (Sterility)]] (8), [[historical-references/greek-tragedy|Greek Tragedy]] (4), [[motifs/death|Death]] (4), [[settings/london|London]] (4), [[concepts/alienation|Alienation]] (3), [[forms/verse-drama|Verse Drama]] (3), [[forms/fragment|Fragment]] (3), Tiresias (3), [[motifs/stars|Stars]] (2), Sweeney (2), [[concepts/guilt|Guilt]] (2), [[concepts/terror-and-horror|Terror and Horror]] (2), [[motifs/dreams|Dreams]] (2), [[motifs/wine-and-drink|Wine and Drink]] (2)
+[[concepts/spiritual-emptiness|Spiritual Emptiness]] (8), [[concepts/waste-land-(sterility)|Waste Land (Sterility)]] (8), [[historical-references/greek-tragedy|Greek Tragedy]] (4), [[motifs/death|Death]] (4), [[settings/london|London]] (4), [[concepts/alienation|Alienation]] (3), [[forms/verse-drama|Verse Drama]] (3), [[forms/fragment|Fragment]] (3), [[characters/tiresias|Tiresias]] (3), [[motifs/stars|Stars]] (2), [[characters/sweeney|Sweeney]] (2), [[concepts/guilt|Guilt]] (2), [[concepts/terror-and-horror|Terror and Horror]] (2), [[motifs/dreams|Dreams]] (2), [[motifs/wine-and-drink|Wine and Drink]] (2)
 
 ## Works
 
@@ -16,7 +16,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 985. The Missing All — prevented Me (Dickinson)
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0985_the_missing_all_prevented_me|985. The Missing All — prevented Me (Dickinson)]]
 - [[works/gerontion-(eliot)|Gerontion (Eliot)]]
 - [[works/i.-the-burial-of-the-dead-(eliot)|I. The Burial of the Dead (Eliot)]]
 - [[works/iii.-the-fire-sermon-(eliot)|III. The Fire Sermon (Eliot)]]

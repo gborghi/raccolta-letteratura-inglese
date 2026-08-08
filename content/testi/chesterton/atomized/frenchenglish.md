@@ -58,7 +58,7 @@ Uno [[archetypes/fool|sciocco]] odii pure la Francia: se lo [[archetypes/fool|sc
 Egli di certo l'ammirerà, non solo per le cose che
 non sono lodevoli, ma addirittura per le cose che non ci sono.
 Ammirerà la grazia e l'[[concepts/indolence|indolenza]] del popolo più industrioso
-del mondo. Ammirerà il [[Romance|romanzesco]] e la fantasia del popolo più
+del mondo. Ammirerà il romanzesco e la fantasia del popolo più
 risolutamente rispettabile e ordinario del mondo.
 Questo errore l'inglese lo farà se ammira la Francia
 troppo in fretta; ma l'errore che egli fa sulla Francia sarà
@@ -104,10 +104,10 @@ Il padrone è la Vita, come essi vorrebbero goderla; e tra le gioie
 che [[motifs/desire|desiderano]] in lui non ve n'è alcuna che [[motifs/desire|desiderino]] più sinceramente
 di quella della generosità, del gettare danaro tra gli uomini, o,
 per usare la nobile parola medievale, largesse - la gioia della larghezza.
-Ecco perché un [[cabman|cocchiere]] vi dice che non siete un gentiluomo se gli date
+Ecco perché un cocchiere vi dice che non siete un gentiluomo se gli date
 la tariffa esatta.  Non solo la sua borsa, ma la sua [[motifs/soul|anima]] è ferita.
 Avete ferito il suo ideale.  Avete sfregiato la sua visione del
-perfetto [[aristocrat|aristocratico]].  Tutto ciò è davvero molto sottile ed elusivo;
+perfetto aristocratico.  Tutto ciò è davvero molto sottile ed elusivo;
 è molto difficile separare ciò che è mera servilità da
 ciò che è una sorta di nobiltà vicaria nell'[[motifs/love|amore]] inglese per un lord.
 E nessun francese potrebbe facilmente afferrarlo affatto.  Lo crederebbe
@@ -120,7 +120,7 @@ di grandi parchi, la stagionatura delle travi di quercia, il cupo arricchirsi
 del vino rosso nelle cantine e nelle locande, tutto l'ozio e la vita
 dell'Inghilterra attraverso molti secoli, per produrre alla fine il generoso
 e geniale frutto dello snobismo inglese.  E richiede batteria
-e barricata, [[songs|canti]] per le strade, e uomini cenciosi morti per un'idea,
+e barricata, canti per le strade, e uomini cenciosi morti per un'idea,
 per produrre e giustificare il terribile fiore dell'indecenza francese.
 
 Quando ero a [[settings/paris|Parigi]] poco [[motifs/time|tempo]] fa, andai con un amico
@@ -214,7 +214,7 @@ Let a [[archetypes/fool|fool]] hate France:  if the [[archetypes/fool|fool]] lov
 He will certainly admire it, not only for the things that are
 not creditable, but actually for the things that are not there.
 He will admire the grace and [[concepts/indolence|indolence]] of the most industrious people
-in the world.  He will admire the [[Romance|romance]] and fantasy of the most
+in the world.  He will admire the romance and fantasy of the most
 determinedly respectable and common-place people in the world.
 This mistake the Englishman will make if he admires France
 too hastily; but the mistake that he makes about France will be
@@ -273,7 +273,7 @@ Uno [[archetypes/fool|sciocco]] odii pure la Francia: se lo [[archetypes/fool|sc
 Egli di certo l'ammirerà, non solo per le cose che
 non sono lodevoli, ma addirittura per le cose che non ci sono.
 Ammirerà la grazia e l'[[concepts/indolence|indolenza]] del popolo più industrioso
-del mondo. Ammirerà il [[Romance|romanzesco]] e la fantasia del popolo più
+del mondo. Ammirerà il romanzesco e la fantasia del popolo più
 risolutamente rispettabile e ordinario del mondo.
 Questo errore l'inglese lo farà se ammira la Francia
 troppo in fretta; ma l'errore che egli fa sulla Francia sarà
@@ -324,10 +324,10 @@ The master is Life, as they would like to enjoy it; and among the joys
 they [[motifs/desire|desire]] in him there is none which they [[motifs/desire|desire]] more sincerely
 than that of generosity, of throwing money about among mankind, or,
 to use the noble mediaeval word, largesse - the joy of largeness.
-That is why a [[cabman]] tells you you are no gentleman if you give
+That is why a cabman tells you you are no gentleman if you give
 him his correct fare.  Not only his pocket, but his [[motifs/soul|soul]] is hurt.
 You have wounded his ideal.  You have defaced his vision of the
-perfect [[aristocrat]].  All this is really very subtle and elusive;
+perfect aristocrat.  All this is really very subtle and elusive;
 it is very difficult to separate what is mere slavishness from
 what is a sort of vicarious nobility in the English [[motifs/love|love]] of a lord.
 And no Frenchman could easily grasp it at all.  He would think it
@@ -340,7 +340,7 @@ of great parks, the seasoning of oaken beams, the dark enrichment
 of red wine in cellars and in inns, all the leisure and the life
 of England through many centuries, to produce at last the generous
 and genial fruit of English snobbishness.  And it requires battery
-and barricade, [[songs]] in the streets, and ragged men dead for an idea,
+and barricade, songs in the streets, and ragged men dead for an idea,
 to produce and justify the terrible flower of French indecency.
 
 
@@ -377,10 +377,10 @@ Il padrone è la Vita, come essi vorrebbero goderla; e tra le gioie
 che [[motifs/desire|desiderano]] in lui non ve n'è alcuna che [[motifs/desire|desiderino]] più sinceramente
 di quella della generosità, del gettare danaro tra gli uomini, o,
 per usare la nobile parola medievale, largesse - la gioia della larghezza.
-Ecco perché un [[cabman|cocchiere]] vi dice che non siete un gentiluomo se gli date
+Ecco perché un cocchiere vi dice che non siete un gentiluomo se gli date
 la tariffa esatta.  Non solo la sua borsa, ma la sua [[motifs/soul|anima]] è ferita.
 Avete ferito il suo ideale.  Avete sfregiato la sua visione del
-perfetto [[aristocrat|aristocratico]].  Tutto ciò è davvero molto sottile ed elusivo;
+perfetto aristocratico.  Tutto ciò è davvero molto sottile ed elusivo;
 è molto difficile separare ciò che è mera servilità da
 ciò che è una sorta di nobiltà vicaria nell'[[motifs/love|amore]] inglese per un lord.
 E nessun francese potrebbe facilmente afferrarlo affatto.  Lo crederebbe
@@ -393,7 +393,7 @@ di grandi parchi, la stagionatura delle travi di quercia, il cupo arricchirsi
 del vino rosso nelle cantine e nelle locande, tutto l'ozio e la vita
 dell'Inghilterra attraverso molti secoli, per produrre alla fine il generoso
 e geniale frutto dello snobismo inglese.  E richiede batteria
-e barricata, [[songs|canti]] per le strade, e uomini cenciosi morti per un'idea,
+e barricata, canti per le strade, e uomini cenciosi morti per un'idea,
 per produrre e giustificare il terribile fiore dell'indecenza francese.
 
 

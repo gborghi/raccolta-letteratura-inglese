@@ -38,7 +38,7 @@ tags:
 Raccolta tematica di 12 componimenti di Walt Whitman.
 
 - [[works/a-sight-in-camp-in-the-daybreak-gray-and-dim-(whitman)|A Sight in Camp in the Daybreak Gray and Dim]]
-- Abraham Lincoln, Born Feb. 12, 1809
+- [[testi/whitman/atomized/heroism-hero-last-stand#310_abraham_lincoln_born_feb_12_1809|Abraham Lincoln, Born Feb. 12, 1809]]
 - [[works/as-the-greek’s-signal-flame-(whitman)|As the Greek’s Signal Flame]]
 - [[works/death-of-general-grant-(whitman)|Death of General Grant]]
 - [[works/from-far-dakota’s-canyons-june-25,-1876-(whitman)|From Far Dakota’s Canyons  (June 25, 1876)]]

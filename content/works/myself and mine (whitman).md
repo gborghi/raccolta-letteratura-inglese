@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Self-Made Man
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
 **Themes & Concepts:** [[concepts/self|Self]], [[concepts/identity|Identity]], [[concepts/democracy|Democracy]], [[concepts/body|Body]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]
 

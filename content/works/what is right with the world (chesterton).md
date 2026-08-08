@@ -64,11 +64,11 @@ tags:
 
 **Historical References:** [[historical-references/dante|Dante]], [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/thomas-aquinas|Thomas Aquinas]]
 
-**Archetypes:** Common Man (2), Prophet
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/prophet|Prophet]]
 
 **Motifs:** [[concepts/nature|Nature]], [[motifs/prayer|Prayer]]
 
-**Characters:** Beatrice
+**Characters:** [[characters/beatrice|Beatrice]]
 
 **Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/joy|Joy]], [[concepts/common-man|Common Man]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/faith|Faith]], [[concepts/natural-order|Natural Order]], [[concepts/union|Union]], [[concepts/democracy|Democracy]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/reform|Reform]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/labor-and-work|Labor and Work]], [[concepts/distributism|Distributism]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]

@@ -86,13 +86,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/quest|Quest]], [[topoi/world-upside-down|World Upside Down]], [[topoi/combat-strife|Combat Strife]], [[topoi/locus-amoenus|Locus Amoenus]], [[topoi/last-stand|Last Stand]]
-**Archetypes:** Satanic Figure, Pilgrim, Fool, Rebel, Christ Figure, Lover, Wise Old Man Sage
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/pilgrim|Pilgrim]], [[archetypes/fool|Fool]], [[archetypes/rebel|Rebel]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/lover|Lover]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/cross|Cross]], [[motifs/fire|Fire]], [[motifs/sea|Sea]], [[motifs/journey|Journey]], [[motifs/madness-(2)|Madness (2)]], [[motifs/dreams|Dreams]], [[motifs/imprisonment-(2)|Imprisonment (2)]], [[motifs/garden|Garden]]
 **Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/faith|Faith]], [[concepts/doubt|Doubt]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/honour|Honour]], [[concepts/heroism|Heroism]], [[concepts/madness|Madness]], [[concepts/temptation|Temptation]], [[concepts/satire-of-society|Satire of Society]], [[concepts/fanaticism|Fanaticism]], [[concepts/friendship|Friendship]], [[concepts/romantic-love|Romantic Love]], [[concepts/reconciliation|Reconciliation]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/allegory|Allegory]], [[forms/satire|Satire]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/french-revolution|French Revolution]], [[historical-references/bible|Bible]]
 **Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/london|London]], [[settings/garden-(2)|Garden (2)]], [[motifs/ship|Ship]]
-**Characters:** Satan, Evan MacIan, James Turnbull, Lucifer, Father Michael, Madeleine Durand, Beatrice Drake, Count Gregory, Camille Bert, Cumberland Vane, Wilkinson, Doctor Hutton, Doctor Quayle
+**Characters:** [[characters/satan|Satan]], [[characters/evan-macian|Evan MacIan]], [[characters/james-turnbull|James Turnbull]], [[characters/lucifer|Lucifer]], [[characters/father-michael|Father Michael]], [[characters/madeleine-durand|Madeleine Durand]], [[characters/beatrice-drake|Beatrice Drake]], [[characters/count-gregory|Count Gregory]], [[characters/camille-bert|Camille Bert]], [[characters/cumberland-vane|Cumberland Vane]], [[characters/wilkinson|Wilkinson]], [[characters/doctor-hutton|Doctor Hutton]], [[characters/doctor-quayle|Doctor Quayle]]
 
 ## Testo integrale / Full text
 

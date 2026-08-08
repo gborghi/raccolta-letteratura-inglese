@@ -25,8 +25,8 @@ tags:
 - [[works/the-garden-of-boccaccio-(coleridge)|THE GARDEN OF BOCCACCIO (Coleridge)]]
 - [[works/to-a-young-friend-(coleridge)|TO A YOUNG FRIEND (Coleridge)]]
 - [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
-- 1441. These Fevered Days — to take them to the Forest (Dickinson)
-- 333. The Grass so little has to do — (Dickinson)
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1441_these_fevered_days_to_take_them_to_the_forest|1441. These Fevered Days — to take them to the Forest (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0333_the_grass_so_little_has_to_do|333. The Grass so little has to do — (Dickinson)]]
 - [[works/calidore-(keats)|CALIDORE (Keats)]]
 - [[works/i-stood-tip-toe-upon-a-little-hill-(keats)|I STOOD TIP-TOE UPON A LITTLE HILL (Keats)]]
 - [[works/imitation-of-spenser-(keats)|IMITATION OF SPENSER (Keats)]]

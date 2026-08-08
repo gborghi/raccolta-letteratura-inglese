@@ -26,7 +26,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]]
-**Archetypes:** Corrupt Official
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
 **Motifs:** [[motifs/night|Night]]
 **Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/democracy|Democracy]]
 

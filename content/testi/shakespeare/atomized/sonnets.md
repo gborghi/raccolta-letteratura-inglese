@@ -148,7 +148,7 @@ Then, beauteous niggard, why dost thou abuse
 The bounteous largess given thee to give?  
 Profitless usurer, why dost thou use  
 So great a sum of sums yet canst not live?  
-For having traffic with thyself [[Alone|alone]],  
+For having traffic with thyself alone,  
 Thou of thyself thy sweet [[concepts/self|self]] dost deceive.  
 Then how when [[concepts/nature|nature]] calls thee to be gone:  
 What acceptable audit canst thou leave?  
@@ -168,7 +168,7 @@ Perché dunque, avaro bellissimo, abusi
 della munifica larghezza a te data perché tu la doni?  
 Usuraio senza profitto, perché usi  
 sì gran somma di somme e non sai vivere?  
-Ché, trafficando con te stesso [[Alone|soltanto]],  
+Ché, trafficando con te stesso soltanto,  
 tu del tuo dolce [[concepts/self|sé]] defraudi te stesso.  
 E quando [[concepts/nature|natura]] ti chiamerà ad andartene,  
 quale accettabile bilancio potrai lasciare?  
@@ -321,7 +321,7 @@ Strikes each in each by mutual ordering,
 Resembling sire and [[archetypes/child|child]] and happy mother,  
 Who all in one one pleasing note do sing;  
 
-Whose speechless [[Song|song]], being many, seeming one,  
+Whose speechless song, being many, seeming one,  
 
 Sings this to thee: ‘Thou single wilt prove none.’  
 
@@ -341,7 +341,7 @@ vibra l'una nell'altra per mutuo ordine,
 simili a padre e [[archetypes/child|figlio]] e madre felice,  
 che tutti in uno una sola nota lieta cantano;  
 
-il cui [[Song|canto]] senza parole, essendo molti, parendo uno,  
+il cui canto senza parole, essendo molti, parendo uno,  
 
 ti canta questo: ‘Tu, solo, non sarai nessuno.’
 
@@ -528,7 +528,7 @@ So should that [[concepts/beauty|beauty]] which you hold in lease
 Find no determination; then you were  
 Yourself again after your [[concepts/self|self]]’s decease,  
 When your sweet issue your sweet form should bear.  
-Who lets so fair a [[house]] fall to [[motifs/decay|decay]],  
+Who lets so fair a house fall to [[motifs/decay|decay]],  
 Which husbandry in [[concepts/honour|honour]] might uphold  
 Against the stormy gusts of [[motifs/winter|winter]]’s day,  
 And barren rage of [[motifs/death|death]]’s eternal cold?  
@@ -548,7 +548,7 @@ Così quella [[concepts/beauty|bellezza]] che tenete in affitto
 non troverebbe termine; allora sareste  
 voi stesso ancora dopo la morte del vostro [[concepts/self|sé]],  
 quando la vostra dolce prole la vostra dolce forma portasse.  
-Chi lascia una sì bella [[house]] cadere in [[motifs/decay|rovina]],  
+Chi lascia una sì bella house cadere in [[motifs/decay|rovina]],  
 che buon governo in [[concepts/honour|onore]] potrebbe sostenere  
 contro le raffiche tempestose del giorno d'[[motifs/winter|inverno]]  
 e la sterile furia del freddo eterno della [[motifs/death|morte]]?  
@@ -573,7 +573,7 @@ By oft predict that I in heaven find;
 But from thine eyes my knowledge I derive,  
 And, constant [[motifs/stars|stars]], in them I read such art  
 As [[concepts/truth|truth]] and [[concepts/beauty|beauty]] shall together thrive  
-If from thyself to store thou wouldst [[convert]].  
+If from thyself to store thou wouldst convert.  
 
 Or else of thee this I prognosticate:  
 
@@ -593,7 +593,7 @@ per i molti presagi che in cielo io trovo;
 ma dai tuoi occhi il mio sapere derivo,  
 e, [[motifs/stars|stelle]] costanti, in essi leggo tale arte  
 che [[concepts/truth|verità]] e [[concepts/beauty|bellezza]] insieme prospereranno  
-se da te stesso a riserva tu ti volessi [[convert]].  
+se da te stesso a riserva tu ti volessi convert.  
 
 Altrimenti di te questo io pronostico:  
 
@@ -699,7 +699,7 @@ Such heavenly touches ne’er touched earthly faces.’
 So should my papers, yellowed with their age,  
 Be scorned, like old men of less [[concepts/truth|truth]] than tongue,  
 And your true rights be termed a poet’s rage  
-And stretched metre of an antique [[Song|song]].  
+And stretched metre of an antique song.  
 
 But were some [[archetypes/child|child]] of yours alive that [[motifs/time|time]],  
 
@@ -719,7 +719,7 @@ Tali tocchi celesti mai toccarono volti terreni.’
 Così le mie carte, ingiallite dalla loro età,  
 Sarebbero derise, come vecchi di minor [[concepts/truth|verità]] che lingua,  
 E i vostri veri diritti detti furore di poeta  
-E metro gonfiato di un’antica [[Song|canzone]].  
+E metro gonfiato di un’antica canzone.  
 
 Ma vivesse un [[archetypes/child|figlio]] vostro in quel [[motifs/time|tempo]],  
 
@@ -818,7 +818,7 @@ A woman’s face with [[concepts/nature|nature]]’s own hand painted
 Hast thou, the master-mistress of my passion;  
 A woman’s gentle heart, but not acquainted  
 With shifting change as is false women’s fashion;  
-An eye more bright than theirs, less false in [[rolling]],  
+An eye more bright than theirs, less false in rolling,  
 Gilding the object whereupon it gazeth;  
 A man in hue, all hues in his controlling,  
 Which steals men’s eyes and women’s souls amazeth.  
@@ -838,7 +838,7 @@ Un volto di donna dipinto dalla mano stessa della [[concepts/nature|natura]]
 Hai tu, signore-signora della mia passione;  
 Un gentile cuore di donna, ma non avvezzo  
 Al mutevole cambiare, com’è moda delle false donne;  
-Un occhio più luminoso del loro, meno falso nel [[rolling]],  
+Un occhio più luminoso del loro, meno falso nel rolling,  
 Che indora l’oggetto su cui si posa;  
 Un uomo nell’aspetto, che ogni aspetto domina,  
 Che ruba gli occhi degli uomini e stupisce le anime delle donne.  
@@ -1193,7 +1193,7 @@ e la [[motifs/night|notte]] ogni notte fa parer più forte la forza del dolore.
 
 
 When, in disgrace with fortune and men’s eyes,  
-I all [[Alone|alone]] beweep my outcast state,  
+I all alone beweep my outcast state,  
 And trouble deaf heaven with my bootless cries,  
 And look upon myself and curse my fate,  
 Wishing me like to one more rich in [[concepts/hope|hope]],  
@@ -1213,7 +1213,7 @@ That then I scorn to change my state with kings’.
 <span class="qlang-split" data-lang="it"></span>
 
 Quando, in disgrazia presso la fortuna e gli occhi degli uomini,  
-io tutto [[Alone|solo]] piango il mio stato di reietto,  
+io tutto solo piango il mio stato di reietto,  
 e turbo il cielo sordo con i miei vani gridi,  
 e guardo me stesso e maledico il mio destino,  
 bramando d’esser simile a uno più ricco di [[concepts/hope|speranza]],  
@@ -1285,9 +1285,9 @@ Hath dear religious [[motifs/love|love]] stol’n from mine eye
 As interest of the dead, which now appear  
 But things removed that hidden in thee lie!  
 Thou art the [[motifs/grave|grave]] where buried [[motifs/love|love]] doth live,  
-Hung with the trophies of my [[lovers]] gone,  
+Hung with the trophies of my lovers gone,  
 Who all their parts of me to thee did give:  
-That due of many now is thine [[Alone|alone]].  
+That due of many now is thine alone.  
 
 Their images I loved I view in thee,  
 
@@ -1305,9 +1305,9 @@ il caro religioso [[motifs/love|amore]] ha rubato al mio occhio
 come interesse dei morti, che ora appaiono  
 solo cose rimosse che nascoste in te giacciono!  
 Tu sei la [[motifs/grave|tomba]] dove l’[[motifs/love|amore]] sepolto vive,  
-adorna dei trofei dei miei [[lovers]] andati,  
+adorna dei trofei dei miei lovers andati,  
 che tutte le loro parti di me a te donarono:  
-quel che era dovuto a molti ora è tuo [[Alone|soltanto]].  
+quel che era dovuto a molti ora è tuo soltanto.  
 
 Le loro immagini che amai le vedo in te,  
 
@@ -1489,7 +1489,7 @@ di quel dolce ladro che amaramente mi deruba.
 Let me confess that we two must be twain  
 Although our undivided loves are one;  
 So shall those blots that do with me remain  
-Without thy help by me be borne [[Alone|alone]].  
+Without thy help by me be borne alone.  
 In our two loves there is but one respect,  
 Though in our lives a separable spite  
 Which, though it alter not [[motifs/love|love]]’s sole effect,  
@@ -1509,7 +1509,7 @@ As, thou being mine, mine is thy good report.
 Lascia ch’io confessi: noi due dobbiamo esser divisi,  
 benché i nostri indivisi amori siano uno;  
 così quelle macchie che con me rimangono  
-senza il tuo aiuto porterò da [[Alone|solo]].  
+senza il tuo aiuto porterò da solo.  
 Nei nostri due amori v’è un solo riguardo,  
 benché nelle nostre vite un dispetto ci separi  
 che, pur non mutando dell’[[motifs/love|amore]] l’unico effetto,  
@@ -1619,7 +1619,7 @@ And what is’t but mine own when I praise thee?
 Even for this let us divided live,  
 And our dear [[motifs/love|love]] lose name of single one,  
 That by this separation I may give  
-That due to thee which thou deserv’st [[Alone|alone]].  
+That due to thee which thou deserv’st alone.  
 O absence, what a torment wouldst thou prove  
 Were it not thy sour leisure gave sweet leave  
 To entertain the [[motifs/time|time]] with thoughts of [[motifs/love|love]],  
@@ -1639,7 +1639,7 @@ e che è, se non cosa mia, quando io lodo te?
 Anche per questo viviamo divisi,  
 e il nostro caro [[motifs/love|amore]] perda il nome di uno solo,  
 perché con questa separazione io possa dare  
-quel tributo a te che tu [[Alone|solo]] meriti.  
+quel tributo a te che tu solo meriti.  
 O assenza, quale tormento saresti  
 se il tuo acerbo ozio non desse dolce licenza  
 d’intrattenere il [[motifs/time|tempo]] con pensieri d’[[motifs/love|amore]],  
@@ -1753,7 +1753,7 @@ And both for my sake lay on me this [[motifs/cross|cross]].
 
 But here’s the joy: my friend and I are one.  
 
-Sweet flattery! Then she loves but me [[Alone|alone]].  
+Sweet flattery! Then she loves but me alone.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1773,7 +1773,7 @@ ed entrambi per amor mio mi pongono addosso questa [[motifs/cross|croce]].
 
 Ma ecco la gioia: il mio amico ed io siamo uno.  
 
-Dolce lusinga! Allora lei ama me [[Alone|soltanto]].
+Dolce lusinga! Allora lei ama me soltanto.
 
 
 
@@ -1870,7 +1870,7 @@ The first my thought, the other my [[motifs/desire|desire]],
 These present-absent with swift motion slide;  
 For when these quicker elements are gone  
 In tender embassy of [[motifs/love|love]] to thee,  
-My life, being made of four, with two [[Alone|alone]]  
+My life, being made of four, with two alone  
 Sinks down to [[motifs/death|death]], oppressed with [[concepts/melancholy|melancholy]],  
 Until life’s composition be recured  
 By those swift messengers returned from thee,  
@@ -1890,7 +1890,7 @@ il primo è il mio pensiero, l’altro il mio [[motifs/desire|desiderio]],
 questi, presenti-assenti, con moto rapido scivolano;  
 ché quando questi elementi più veloci sono andati  
 in tenera ambasciata d’[[motifs/love|amore]] a te,  
-la mia vita, fatta di quattro, con due [[Alone|soltanto]]  
+la mia vita, fatta di quattro, con due soltanto  
 sprofonda in [[motifs/death|morte]], oppressa di [[concepts/melancholy|malinconia]],  
 finché la composizione della vita non sia risanata  
 da quei rapidi messaggeri da te tornati,  
@@ -2290,7 +2290,7 @@ But you shall shine more bright in these contents
 Than unswept stone besmeared with sluttish [[motifs/time|time]].  
 When wasteful war shall statues overturn,  
 And broils root out the work of masonry,  
-Nor Mars his [[Sword|sword]] nor war’s quick [[motifs/fire|fire]] shall burn  
+Nor Mars his sword nor war’s quick [[motifs/fire|fire]] shall burn  
 The living record of your [[motifs/memory|memory]].  
 ’Gainst [[motifs/death|death]] and all oblivious enmity  
 Shall you pace forth; your praise shall still find room  
@@ -2299,7 +2299,7 @@ That wear this world out to the ending doom.
 
 So, till the judgement that yourself arise,  
 
-You live in this, and dwell in [[lovers]]’ eyes.  
+You live in this, and dwell in lovers’ eyes.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2310,7 +2310,7 @@ ma tu risplenderai più luminoso in questi versi
 che pietra non spazzata, imbrattata da sozzo [[motifs/time|tempo]].  
 Quando guerra devastatrice rovescerà le statue,  
 e tumulti sradicheranno l’opera dei muratori,  
-né la [[Sword|spada]] di Marte né il rapido [[motifs/fire|fuoco]] di guerra arderanno  
+né la spada di Marte né il rapido [[motifs/fire|fuoco]] di guerra arderanno  
 il vivo registro della tua [[motifs/memory|memoria]].  
 Contro la [[motifs/death|morte]] e ogni obliosa inimicizia  
 tu avanzerai; la tua lode troverà ancora spazio  
@@ -2319,7 +2319,7 @@ che consumerà questo mondo fino al giudizio estremo.
 
 Così, fino al giudizio in cui tu stesso sorgerai,  
 
-vivi in questo, e dimori negli occhi degli [[lovers]].
+vivi in questo, e dimori negli occhi degli lovers.
 
 
 
@@ -2761,7 +2761,7 @@ And captive good attending captain ill.
 
 Tired with all these, from these would I be gone,  
 
-Save that to die I leave my [[motifs/love|love]] [[Alone|alone]].  
+Save that to die I leave my [[motifs/love|love]] alone.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2781,7 +2781,7 @@ e il bene prigioniero servire il male capitano.
 
 Stanco di tutto questo, da questo vorrei andarmene,  
 
-se non che, morendo, lascio il mio [[motifs/love|amore]] [[Alone|solo]].
+se non che, morendo, lascio il mio [[motifs/love|amore]] solo.
 
 
 
@@ -2931,7 +2931,7 @@ To tie up envy, evermore enlarged.
 
 If some suspect of ill masked not thy show,  
 
-Then thou [[Alone|alone]] kingdoms of hearts shouldst owe.  
+Then thou alone kingdoms of hearts shouldst owe.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2951,7 +2951,7 @@ da legare l’invidia, sempre più dilagante.
 
 Se qualche sospetto di male non velasse la tua mostra,  
 
-allora tu [[Alone|solo]] regni di cuori possederesti.
+allora tu solo regni di cuori possederesti.
 
 
 
@@ -3132,7 +3132,7 @@ And for the peace of you I hold such strife
 As ’twixt a miser and his wealth is found:  
 Now proud as an enjoyer, and anon  
 Doubting the filching age will steal his treasure;  
-Now counting best to be with you [[Alone|alone]],  
+Now counting best to be with you alone,  
 Then bettered that the world may see my pleasure;  
 Sometime all full with feasting on your sight,  
 And by and by clean starved for a look;  
@@ -3152,7 +3152,7 @@ e per la pace che mi dai sostengo tale lotta
 qual si trova tra un avaro e la sua ricchezza:  
 ora fiero come chi gode, e subito dopo  
 temendo che l’epoca ladra gli rubi il tesoro;  
-ora stimando meglio starmene con te [[Alone|solo]],  
+ora stimando meglio starmene con te solo,  
 poi più pago che il mondo veda il mio piacere;  
 talora tutto sazio di banchettare della tua vista,  
 e poco dopo del tutto affamato d’uno sguardo;  
@@ -3282,8 +3282,8 @@ alta quanto dottrina la mia rozza ignoranza.
 <span class="atom-split" data-atom="sonnet_079" data-title="Sonnet 79" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/letters_writing,concept/the_artist_and_society,concept/jealousy,concept/beauty,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
-Whilst I [[Alone|alone]] did call upon thy aid  
-My verse [[Alone|alone]] had all thy gentle grace;  
+Whilst I alone did call upon thy aid  
+My verse alone had all thy gentle grace;  
 But now my gracious numbers are decayed,  
 And my sick muse doth give another place.  
 I grant, sweet [[motifs/love|love]], thy lovely argument  
@@ -3300,8 +3300,8 @@ Since what he owes thee thou thyself dost pay.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Finché io [[Alone|solo]] invocavo il tuo aiuto  
-il mio verso [[Alone|solo]] aveva tutta la tua gentile grazia;  
+Finché io solo invocavo il tuo aiuto  
+il mio verso solo aveva tutta la tua gentile grazia;  
 ma ora i miei graziosi metri sono decaduti,  
 e la mia musa malata cede ad altri il posto.  
 Concedo, dolce [[motifs/love|amore]], che il tuo leggiadro tema  
@@ -3475,7 +3475,7 @@ di quanta entrambi i vostri poeti sappiano in lode inventare.
 
 
 Who is it that says most which can say more  
-Than this rich praise: that you [[Alone|alone]] are you,  
+Than this rich praise: that you alone are you,  
 In whose confine immured is the store  
 Which should example where your equal grew?  
 Lean penury within that pen doth dwell  
@@ -3493,7 +3493,7 @@ Being fond on praise, which makes your praises worse.
 <span class="qlang-split" data-lang="it"></span>
 
 Chi è che dice il massimo, chi può dire di più  
-di questa ricca lode: che voi [[Alone|solo]] siete voi,  
+di questa ricca lode: che voi solo siete voi,  
 nel cui recinto è murato il tesoro  
 che dovrebbe mostrare dove crebbe il vostro eguale?  
 Magra penuria abita in quella penna  
@@ -3600,7 +3600,7 @@ Thyself thou gav’st, thy own worth then not knowing,
 Or me to whom thou gav’st it else mistaking;  
 So thy great gift, upon misprision growing,  
 Comes [[motifs/home|home]] again, on better judgement making.  
-Thus have I had thee as [[A Dream|a dream]] doth flatter:  
+Thus have I had thee as a dream doth flatter:  
 In [[motifs/sleep|sleep]] a [[archetypes/king|king]], but waking no such matter.  
 
 
@@ -3618,7 +3618,7 @@ Te stesso donasti, ignorando allora il tuo valore,
 o sbagliando su di me, cui lo donasti;  
 così il tuo gran dono, cresciuto su un errore,  
 ritorna a [[motifs/home|casa]], fatto miglior giudizio.  
-Così ti ho avuto come [[A Dream|un sogno]] lusinga:  
+Così ti ho avuto come un sogno lusinga:  
 nel [[motifs/sleep|sonno]] un [[archetypes/king|re]], ma al risveglio nulla di ciò.
 
 
@@ -3676,7 +3676,7 @@ Be absent from thy walks, and in my tongue
 Thy sweet beloved name no more shall dwell,  
 Lest I, too much profane, should do it wrong,  
 And haply of our old acquaintance tell.  
-For thee, against myself I’ll vow [[debate]];  
+For thee, against myself I’ll vow debate;  
 For I must ne’er [[motifs/love|love]] him whom thou dost hate.  
 
 
@@ -3694,7 +3694,7 @@ sarò assente dai tuoi passi, e sulla mia lingua
 il tuo dolce amato nome più non dimorerà,  
 perché io, troppo profano, non gli faccia torto,  
 e per caso non riveli la nostra antica conoscenza.  
-Per te, contro me stesso giurerò [[debate|contesa]];  
+Per te, contro me stesso giurerò contesa;  
 ché mai devo [[motifs/love|amare]] colui che tu odii.
 
 
@@ -3744,7 +3744,7 @@ Some glory in their birth, some in their skill,
 Some in their wealth, some in their [[concepts/body|body]]’s force,  
 Some in their garments (though new-fangled ill),  
 Some in their hawks and hounds, some in their [[motifs/horse|horse]],  
-And every [[Humour|humour]] hath his adjunct pleasure  
+And every humour hath his adjunct pleasure  
 Wherein it finds a joy above the rest.  
 But these particulars are not my measure;  
 All these I better in one general best.  
@@ -3752,7 +3752,7 @@ Thy [[motifs/love|love]] is better than high birth to me,
 Richer than wealth, prouder than garments’ cost,  
 Of more delight than hawks or horses be,  
 And having thee of all men’s [[concepts/pride|pride]] I boast,  
-Wretched in this [[Alone|alone]]: that thou mayst take  
+Wretched in this alone: that thou mayst take  
 All this away, and me most wretched make.  
 
 
@@ -3762,7 +3762,7 @@ Chi si gloria della nascita, chi dell’ingegno,
 chi della ricchezza, chi della forza del [[concepts/body|corpo]],  
 chi delle vesti (benché di goffa foggia nuova),  
 chi dei falchi e dei cani, chi del proprio [[motifs/horse|cavallo]],  
-e ogni [[Humour|umore]] ha il suo piacere congiunto  
+e ogni umore ha il suo piacere congiunto  
 in cui trova una gioia sopra tutte le altre.  
 Ma questi particolari non sono la mia misura;  
 tutti li supero in un solo bene supremo.  
@@ -3770,7 +3770,7 @@ Il tuo [[motifs/love|amore]] è per me meglio di alta nascita,
 più ricco della ricchezza, più fiero del costo delle vesti,  
 di più diletto che falchi o cavalli,  
 e avendo te, di ogni [[concepts/pride|orgoglio]] degli uomini mi vanto,  
-misero in questo [[Alone|soltanto]]: che tu puoi togliermi  
+misero in questo soltanto: che tu puoi togliermi  
 tutto questo, e rendermi il più misero.
 
 
@@ -3785,7 +3785,7 @@ For it depends upon that [[motifs/love|love]] of thine.
 Then need I not to [[concepts/fear|fear]] the worst of wrongs  
 When in the least of them my life hath end.  
 I see a better state to me belongs  
-Than that which on thy [[Humour|humour]] doth depend.  
+Than that which on thy humour doth depend.  
 Thou canst not vex me with inconstant mind,  
 Since that my life on thy revolt doth lie. 10  
 O, what a happy title do I find—  
@@ -3803,7 +3803,7 @@ poiché essa dipende da quell’[[motifs/love|amore]] tuo.
 Non devo dunque [[concepts/fear|temere]] il peggiore dei torti,  
 quando nel minimo di essi la mia vita ha fine.  
 Vedo che a me appartiene uno stato migliore  
-di quello che dal tuo [[Humour|umore]] dipende.  
+di quello che dal tuo umore dipende.  
 Non puoi tormentarmi con animo incostante,  
 poiché la mia vita sul tuo mutare giace. 10  
 O, quale felice titolo io trovo—  
@@ -4086,7 +4086,7 @@ che dolcezza o colore non t’avesse rubato.
 
 Where art thou, muse, that thou forget‘st so long  
 To speak of that which gives thee all thy might?  
-Spend’st thou thy fury on some worthless [[Song|song]],  
+Spend’st thou thy fury on some worthless song,  
 Dark‘ning thy power to lend base subjects light?  
 Return, forgetful muse, and straight redeem  
 In gentle numbers [[motifs/time|time]] so idly spent;  
@@ -4104,7 +4104,7 @@ So, thou prevene’st his scythe and crooked knife.
 
 Dove sei, musa, che dimentichi sì a lungo  
 di parlare di ciò che ti dà tutta la tua forza?  
-Spendi il tuo furore in qualche [[Song|canto]] senza valore,  
+Spendi il tuo furore in qualche canto senza valore,  
 oscurando il tuo potere per dar luce a vili soggetti?  
 Torna, musa immemore, e subito riscatta  
 in gentili versi il [[motifs/time|tempo]] sì oziosamente speso;  
@@ -4173,7 +4173,7 @@ Than when her mournful hymns did hush the [[motifs/night|night]],
 But that wild music burdens every bough,  
 And sweets grown common lose their dear delight.  
 Therefore like her I sometime hold my tongue,  
-Because I would not dull you with my [[Song|song]].  
+Because I would not dull you with my song.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4191,7 +4191,7 @@ di quando i suoi inni dolenti quietavano la [[motifs/night|notte]],
 ma quella musica selvaggia grava ogni ramo,  
 e le dolcezze fatte comuni perdono il caro diletto.  
 Perciò come lei talvolta trattengo la lingua,  
-perché non vorrei tediarvi col mio [[Song|canto]].
+perché non vorrei tediarvi col mio canto.
 
 
 
@@ -4276,7 +4276,7 @@ prima che tu nascessi, della [[concepts/beauty|bellezza]] l’[[motifs/summer|es
 
 Let not my [[motifs/love|love]] be called idolatry,  
 Nor my belovèd as an idol show,  
-Since all alike my [[songs]] and praises be  
+Since all alike my songs and praises be  
 To one, of one, still such, and ever so.  
 Kind is my [[motifs/love|love]] today, tomorrow kind,  
 Still constant in a wondrous excellence.  
@@ -4286,7 +4286,7 @@ One thing expressing, [[motifs/leaves|leaves]] out difference.
 ‘Fair, kind, and true’ varying to other words,  
 And in this change is my invention spent,  
 Three themes in one, which wondrous scope affords.  
-Fair, kind, and true have often lived [[Alone|alone]],  
+Fair, kind, and true have often lived alone,  
 Which three till now never kept seat in one.  
 
 
@@ -4294,7 +4294,7 @@ Which three till now never kept seat in one.
 
 Non sia chiamato idolatria il mio [[motifs/love|amore]],  
 né il mio amato appaia come un idolo,  
-poiché tutti uguali i miei [[songs|canti]] e le lodi sono  
+poiché tutti uguali i miei canti e le lodi sono  
 a uno, di uno, sempre tali, e sempre così.  
 Gentile è il mio [[motifs/love|amore]] oggi, domani gentile,  
 sempre costante in una mirabile eccellenza.  
@@ -4304,7 +4304,7 @@ una sola cosa esprimendo, [[motifs/leaves|tralascia]] la differenza.
 ‘Bello, gentile e vero’ variato in altre parole,  
 e in questo mutare è spesa la mia invenzione,  
 tre temi in uno, che mirabile campo offre.  
-Bello, gentile e vero han vissuto spesso [[Alone|soli]],  
+Bello, gentile e vero han vissuto spesso soli,  
 che tre fin ora mai sedettero in uno.
 
 
@@ -5006,7 +5006,7 @@ Under the blow of thrallèd discontent
 Whereto th’inviting [[motifs/time|time]] our fashion calls.  
 It fears not policy, that heretic  
 Which works on leases of short-numbered hours,  
-But all [[Alone|alone]] stands hugely politic,  
+But all alone stands hugely politic,  
 That it nor grows with heat nor drowns with showers.  
 To this I witness call the fools of [[motifs/time|time]],  
 Which die for goodness, who have lived for crime.  
@@ -5024,7 +5024,7 @@ sotto il colpo dello scontento in ceppi
 a cui l’adescante [[motifs/time|tempo]] il nostro costume chiama.  
 Non teme la politica, quell’eretica  
 che opera su affitti di ore contate,  
-ma tutto [[Alone|solo]] sta, immensamente accorto,  
+ma tutto solo sta, immensamente accorto,  
 ché non cresce col caldo né annega alle piogge.  
 Di ciò chiamo a testimoni i buffoni del [[motifs/time|tempo]],  
 che muoiono per il bene, vissuti per il crimine.
@@ -5075,7 +5075,7 @@ quanto più accusata, tanto meno sta in tuo potere.
 O thou my lovely boy, who in thy power  
 Dost hold [[motifs/time|time]]’s fickle glass, his sickle-hour;  
 Who hast by waning grown, and therein show‘st  
-Thy [[lovers]] withering as thy sweet [[concepts/self|self]] grow’st—  
+Thy lovers withering as thy sweet [[concepts/self|self]] grow’st—  
 If [[concepts/nature|nature]], sovereign mistress over wrack,  
 As thou goest onwards still will pluck thee back,  
 She keeps thee to this purpose: that her skill  
@@ -5091,7 +5091,7 @@ And her quietus is to render thee.
 O tu, mio bel fanciullo, che in tuo potere  
 tieni il volubile specchio del [[motifs/time|tempo]], la sua ora di falce;  
 che declinando sei cresciuto, e in ciò mostri  
-i tuoi [[lovers|amanti]] appassire mentre il tuo dolce [[concepts/self|io]] cresce—  
+i tuoi amanti appassire mentre il tuo dolce [[concepts/self|io]] cresce—  
 se [[concepts/nature|natura]], sovrana signora sulla rovina,  
 mentre tu avanzi ancora ti trarrà indietro,  
 ti serba a questo scopo: che la sua arte  
@@ -5193,7 +5193,7 @@ On purpose laid to make the taker mad;
 Mad in pursuit and in possession so,  
 Had, having, and in [[topoi/quest|quest]] to have, extreme;  
 A bliss in proof and proved, a very woe;  
-Before, a joy proposed; behind, [[A Dream|a dream]].  
+Before, a joy proposed; behind, a dream.  
 All this the world [[motifs/well|well]] knows, yet none knows [[motifs/well|well]]  
 To shun the heaven that leads men to this hell.  
 
@@ -5211,7 +5211,7 @@ Posta ad arte per rendere folle chi la prende;
 Folle nell’inseguire e nel possedere ugualmente,  
 Avuta, avendo, e in [[topoi/quest|cerca]] d’avere, estrema;  
 Beatitudine alla prova e, provata, vera sciagura;  
-Prima, una gioia promessa; dopo, [[A Dream|un sogno]].  
+Prima, una gioia promessa; dopo, un sogno.  
 Tutto ciò il mondo [[motifs/well|ben]] sa, ma nessuno sa [[motifs/well|bene]]  
 Fuggire il cielo che conduce gli uomini a questo inferno.
 
@@ -5265,7 +5265,7 @@ Thou art the fairest and most precious [[motifs/jewel|jewel]].
 Yet, in good [[concepts/faith|faith]], some say that thee behold  
 Thy face hath not the power to make [[motifs/love|love]] groan.  
 To say they err I dare not be so bold,  
-Although I swear it to myself [[Alone|alone]];  
+Although I swear it to myself alone;  
 And, to be sure that is not false I swear,  
 A thousand groans but thinking on thy face  
 One on another’s neck do witness bear  
@@ -5283,7 +5283,7 @@ Tu sei il più bello e prezioso [[motifs/jewel|gioiello]].
 Pure, in buona [[concepts/faith|fede]], alcuni che ti guardano  
 Dicono che il tuo volto non ha potere di far gemere [[motifs/love|amore]].  
 Dire che errano non oso esser tanto ardito,  
-Benché lo giuri a me stesso [[Alone|soltanto]];  
+Benché lo giuri a me stesso soltanto;  
 E, a prova che non è falso ciò che giuro,  
 Mille gemiti al solo pensare al tuo volto,  
 L’uno sul collo dell’altro, recano testimonianza  
@@ -5336,7 +5336,7 @@ E brutte tutte quelle cui manca il tuo colorito.
 
 Beshrew that heart that makes my heart to groan  
 For that deep wound it gives my friend and me!  
-Is’t not enough to torture me [[Alone|alone]],  
+Is’t not enough to torture me alone,  
 But slave to [[concepts/slavery|slavery]] my sweet‘st friend must be?  
 Me from myself thy cruel eye hath taken,  
 And my next [[concepts/self|self]] thou harder hast engrossed.  
@@ -5354,7 +5354,7 @@ Perforce am thine, and all that is in me.
 
 Maledetto quel cuore che fa gemere il mio cuore  
 Per la profonda ferita che dà al mio amico e a me!  
-Non basta torturare me [[Alone|soltanto]],  
+Non basta torturare me soltanto,  
 Ma schiavo di [[concepts/slavery|schiavitù]] dev’essere il mio più dolce amico?  
 Da me stesso il tuo occhio crudele m’ha rapito,  
 E del mio secondo [[concepts/self|io]] più duramente ti sei impossessata.  
@@ -5649,7 +5649,7 @@ Who in despite of view is pleased to dote.
 Nor are mine ears with thy tongue’s tune delighted,  
 Nor tender feeling to base touches prone;  
 Nor taste nor smell [[motifs/desire|desire]] to be invited  
-To any sensual feast with thee [[Alone|alone]];  
+To any sensual feast with thee alone;  
 But my five wits nor my five senses can  
 Dissuade one foolish heart from serving thee,  
 Who [[motifs/leaves|leaves]] unswayed the likeness of a man,  
@@ -5667,7 +5667,7 @@ e a dispetto della vista si compiace di adorare.
 Né le mie orecchie godono del tono della tua lingua,  
 né il tenero tatto è incline a bassi contatti;  
 né gusto né olfatto [[motifs/desire|desiderano]] essere invitati  
-ad alcun festino sensuale con te [[Alone|sola]];  
+ad alcun festino sensuale con te sola;  
 ma né le mie cinque facoltà né i cinque sensi possono  
 dissuadere un folle cuore dal servirti,  
 che [[motifs/leaves|lascia]] non governata la parvenza d’un uomo,  

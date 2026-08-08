@@ -30,7 +30,7 @@ tags:
 **Themes & Concepts:** [[concepts/nostalgia|Nostalgia]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
 **Historical References:** [[historical-references/medieval-england|Medieval England]]
-**Characters:** Robin Hood
+**Characters:** [[characters/robin-hood|Robin Hood]]
 
 ## Testo integrale / Full text
 

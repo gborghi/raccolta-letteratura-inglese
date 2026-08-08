@@ -17,7 +17,7 @@ tags:
 Tho’ no bold flights to thee belong;  
 And tho’ thy lays with conscious [[concepts/fear|fear]],  
 Shrink from Judgement’s eye severe,  
-Yet much I thank thee, Spirit of my [[Song|song]]!  
+Yet much I thank thee, Spirit of my song!  
 For, lovely Muse! thy sweet employ   5  
 Exalts my [[motifs/soul|soul]], refines my breast,  
 Gives each pure pleasure keener zest,  
@@ -71,7 +71,7 @@ Nor do I know a sweeter [[concepts/hope|Hope]] than this,
 That this sweet [[concepts/hope|Hope]], by judgment unreproved,  
 That our own Britain, our dear mother Isle,   25  
 May boast one Maid, a poetess indeed,  
-Great as th’ impassioned Lesbian, in sweet [[Song|song]],  
+Great as th’ impassioned Lesbian, in sweet song,  
 And O! of holier mind, and happier fate.  
 Matilda! I dare twine thy vernal wreath  
 Around the brows of patriot [[concepts/hope|Hope]]! But thou   30  
@@ -129,9 +129,9 @@ There issues from the fount of Hippocrene,
 But he had traced it upward to its source,   25  
 Through open glade, dark glen, and secret dell,  
 Knew the gay wild [[motifs/flowers|flowers]] on its banks, and culled  
-Its med’cinable herbs. Yea, oft [[Alone|alone]],  
+Its med’cinable herbs. Yea, oft alone,  
 Piercing the long-neglected holy [[motifs/cave|cave]],  
-The haunt obscure of old [[philosophy|Philosophy]],   30  
+The haunt obscure of old Philosophy,   30  
 He bade with lifted torch its starry walls  
 Sparkle, as erst they sparkled to the flame  
 Of odorous lamps tended by Saint and Sage.  
@@ -235,7 +235,7 @@ published in the Athenæum, August 20, 1892, and ‘Adaptations’, P.
 W., 1893, pp. 471-4. Most of these textual alterations or garblings
 were noted by H. N. Coleridge in an edition of The Friend published in
 1837; Mr. Campbell was the first to collect and include the mottoes and
-quotations in a sub-section of Coleridge’s Poetical Works. Three [[Poems|poems]],
+quotations in a sub-section of Coleridge’s Poetical Works. Three poems,
 (1) ‘An [[forms/elegy|Elegy]] Imitated from Akenside’, (2) ‘Farewell to [[motifs/love|Love]] ‘, (3)
 ‘Mutual Passion altered and modernized from an Old Poet’, may be
 reckoned as ‘Adaptations’. The first and third of these composite

@@ -56,13 +56,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/double|Double]], [[topoi/vanitas|Vanitas]], [[topoi/fall-from-innocence|Fall from Innocence]]
-**Archetypes:** Double Doppelganger, Outsider, Scapegoat, Tyrant
+**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/outsider|Outsider]], [[archetypes/scapegoat|Scapegoat]], [[archetypes/tyrant|Tyrant]]
 **Motifs:** [[motifs/mirror|Mirror]], [[motifs/rose|Rose]], [[motifs/flowers|Flowers]], [[motifs/death|Death]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/animals|Animals]], [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/grotesque|Grotesque]], [[concepts/beauty|Beauty]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/identity|Identity]], [[concepts/alienation|Alienation]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]
 **Historical References:** [[historical-references/reformation|Reformation]], [[historical-references/catholic-church|Catholic Church]]
 **Settings:** [[settings/court|Court]], [[settings/italy|Italy]], [[settings/europe|Europe]]
-**Characters:** Infanta, Dwarf, Don Pedro
+**Characters:** [[characters/infanta|Infanta]], [[characters/dwarf|Dwarf]], [[characters/don-pedro|Don Pedro]]
 
 ## Testo integrale / Full text
 

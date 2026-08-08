@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Lover
+**Archetypes:** [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]]
 **Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/romantic-love|Romantic Love]]
 **Forms & Genres:** [[forms/sonnet|Sonnet]]

@@ -51,4 +51,4 @@ tags:
 **Motifs:** [[motifs/journey|Journey]], [[motifs/ship|Ship]], [[motifs/money-and-gold|Money and Gold]], [[motifs/sea-and-voyage|Sea and Voyage]]
 **Historical References:** [[historical-references/british-empire|British Empire]]
 **Settings:** [[settings/africa|Africa]]
-**Archetypes:** Antihero, Trickster
+**Archetypes:** [[archetypes/antihero|Antihero]], [[archetypes/trickster|Trickster]]

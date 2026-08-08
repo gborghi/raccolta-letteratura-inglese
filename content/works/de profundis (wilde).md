@@ -61,12 +61,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/katabasis-descent|Katabasis Descent]], [[topoi/fall-from-innocence|Fall from Innocence]]
-**Archetypes:** Christ Figure, Martyr Saint, Outsider, Scapegoat
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/outsider|Outsider]], [[archetypes/scapegoat|Scapegoat]]
 **Motifs:** [[motifs/cross|Cross]], [[motifs/suffering-(2)|Suffering (2)]], [[motifs/prison|Prison]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]], [[motifs/seasons|Seasons]], [[motifs/money-and-gold|Money and Gold]]
 **Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/conversion|Conversion]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/melancholy|Melancholy]], [[concepts/guilt|Guilt]], [[concepts/faith|Faith]], [[concepts/individualism|Individualism]], [[concepts/beauty|Beauty]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/dante|Dante]], [[historical-references/greek-tragedy|Greek Tragedy]]
-**Characters:** Christ
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

@@ -27,9 +27,9 @@ tags:
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
 - [[works/hard-times-(dickens)|Hard Times (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]
-- 1482. 'Tis whiter than an Indian Pipe — (Dickinson)
-- 396. There is a Languor of the Life (Dickinson)
-- 547. I've seen a Dying Eye (Dickinson)
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#1482_tis_whiter_than_an_indian_pipe|1482. 'Tis whiter than an Indian Pipe — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0396_there_is_a_languor_of_the_life|396. There is a Languor of the Life (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0547_ive_seen_a_dying_eye|547. I've seen a Dying Eye (Dickinson)]]
 - [[works/a,-b,-c-(eliot)|A, B, C (Eliot)]]
 - [[works/iii-the-word-of-the-lord-came-unto-me,-saying-(eliot)|III The Word of the lord came unto me, saying (Eliot)]]
 - [[works/marina-(eliot)|Marina (Eliot)]]

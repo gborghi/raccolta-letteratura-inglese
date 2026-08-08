@@ -20,7 +20,7 @@ tags:
 (Apparve originariamente in «The Daily News», 16 ott. 1909,
 e in «Alarms and Discursions», NY: Dodd, Mead. 1911)
 
-L'[[nightmare|Incubo]]
+L'Incubo
 
 UN TRAMONTO di rame e d'oro si era appena disfatto e frantumato a occidente, e colori grigi strisciavano su ogni cosa in terra e in cielo; e cresceva anche un [[motifs/wind|vento]], un [[motifs/wind|vento]] che posava un dito freddo sulla carne e sullo spirito. I cespugli in fondo al mio [[motifs/garden|giardino]] cominciarono a bisbigliare come congiurati; e poi ad agitarsi come mani selvagge che fanno un segnale. Cercavo di leggere, all'ultima luce che moriva sul prato, un lungo poema del periodo decadente, un poema sugli antichi dèi di Babilonia e d'[[settings/egypt|Egitto]], sui loro templi fiammeggianti e osceni, sui loro volti crudeli e colossali.
 
@@ -29,13 +29,13 @@ gli Ebrei e fu spruzzato
 di vino fino ai fianchi, o Pasht che aveva verdi 
 berilli per occhi?"
 
-Leggevo questo poema perché dovevo recensirlo per il Daily News; eppure era autentica poesia, nel suo genere. Emanava davvero un'atmosfera, un fumo fragrante e soffocante che pareva provenire proprio dalla Schiavitù d'[[settings/egypt|Egitto]] o dal Fardello di Tiro. Non c'è molto in comune (grazie a Dio) tra il mio [[motifs/garden|giardino]] con la sua linea d'orizzonte inglese grigio-verde al di là, e queste folli visioni di palazzi dipinti, di enormi idoli senza testa e di mostruose solitudini di sabbia rossa o dorata. Nondimeno (come confessai a me stesso) in un simile crepuscolo tempestoso posso immaginare un tale sentore di [[motifs/death|morte]] e di [[concepts/fear|paura]]. Il tramonto in rovina somiglia davvero a uno dei loro templi in rovina: un cumulo infranto di marmo d'oro e verde. Una nera cosa sbattente si stacca da uno degli alberi cupi e svolazza verso un altro. Non so se sia gufo o pipistrello; potrei figurarmi che fosse un cherubino nero, un infernale cherubino delle tenebre, non con le ali di un uccello e la testa di un bimbo, ma con la testa di un folletto e le ali di un pipistrello. Penso che, se ci fosse luce a sufficienza, potrei sedermi qui e scrivere un raccontino del brivido assai apprezzabile, su come io risalii la [[motifs/road|strada]] tortuosa oltre la chiesa e incontrai Qualcosa — poniamo un cane, un cane con un occhio solo. Poi incontrerei un [[motifs/horse|cavallo]], forse, un [[motifs/horse|cavallo]] senza cavaliere; anche il [[motifs/horse|cavallo]] avrebbe un occhio solo. Poi il [[motifs/silence|silenzio]] disumano sarebbe rotto; incontrerei un uomo (devo dirlo, un uomo con un occhio solo?) che mi chiederebbe la via per la mia [[house|casa]]. O forse mi direbbe che è stata rasa al suolo dal fuoco. Penso che potrei raccontare un delizioso raccontino su queste falsariga. Oppure potrei sognare di arrampicarmi per sempre sugli alti alberi oscuri sopra di me. Sono così alti che mi pare che troverei in cima i nidi degli angeli; ma in questo stato d'animo sarebbero angeli oscuri e terribili; angeli della [[motifs/death|morte]].
+Leggevo questo poema perché dovevo recensirlo per il Daily News; eppure era autentica poesia, nel suo genere. Emanava davvero un'atmosfera, un fumo fragrante e soffocante che pareva provenire proprio dalla Schiavitù d'[[settings/egypt|Egitto]] o dal Fardello di Tiro. Non c'è molto in comune (grazie a Dio) tra il mio [[motifs/garden|giardino]] con la sua linea d'orizzonte inglese grigio-verde al di là, e queste folli visioni di palazzi dipinti, di enormi idoli senza testa e di mostruose solitudini di sabbia rossa o dorata. Nondimeno (come confessai a me stesso) in un simile crepuscolo tempestoso posso immaginare un tale sentore di [[motifs/death|morte]] e di [[concepts/fear|paura]]. Il tramonto in rovina somiglia davvero a uno dei loro templi in rovina: un cumulo infranto di marmo d'oro e verde. Una nera cosa sbattente si stacca da uno degli alberi cupi e svolazza verso un altro. Non so se sia gufo o pipistrello; potrei figurarmi che fosse un cherubino nero, un infernale cherubino delle tenebre, non con le ali di un uccello e la testa di un bimbo, ma con la testa di un folletto e le ali di un pipistrello. Penso che, se ci fosse luce a sufficienza, potrei sedermi qui e scrivere un raccontino del brivido assai apprezzabile, su come io risalii la [[motifs/road|strada]] tortuosa oltre la chiesa e incontrai Qualcosa — poniamo un cane, un cane con un occhio solo. Poi incontrerei un [[motifs/horse|cavallo]], forse, un [[motifs/horse|cavallo]] senza cavaliere; anche il [[motifs/horse|cavallo]] avrebbe un occhio solo. Poi il [[motifs/silence|silenzio]] disumano sarebbe rotto; incontrerei un uomo (devo dirlo, un uomo con un occhio solo?) che mi chiederebbe la via per la mia casa. O forse mi direbbe che è stata rasa al suolo dal fuoco. Penso che potrei raccontare un delizioso raccontino su queste falsariga. Oppure potrei sognare di arrampicarmi per sempre sugli alti alberi oscuri sopra di me. Sono così alti che mi pare che troverei in cima i nidi degli angeli; ma in questo stato d'animo sarebbero angeli oscuri e terribili; angeli della [[motifs/death|morte]].
 
 * * * *
 
-Solo che, vedete, questo stato d'animo è tutta fandonia. Non ci credo minimamente. Quell'universo con un occhio solo, con i suoi uomini e le sue bestie con un occhio solo, fu creato soltanto con un universale strizzar d'occhio. In cima agli alberi tragici non troverei il Nido dell'Angelo. Troverei soltanto il Nido della Cavalla; il nido sognante e divino non è lì. Nel Nido della Cavalla scoprirò quel fioco, enorme, opalescente uovo da cui si schiude l'[[nightmare|Incubo]]. Perché non c'è nulla di così delizioso quanto un [[nightmare|incubo]] — quando sai che è un [[nightmare|incubo]].
+Solo che, vedete, questo stato d'animo è tutta fandonia. Non ci credo minimamente. Quell'universo con un occhio solo, con i suoi uomini e le sue bestie con un occhio solo, fu creato soltanto con un universale strizzar d'occhio. In cima agli alberi tragici non troverei il Nido dell'Angelo. Troverei soltanto il Nido della Cavalla; il nido sognante e divino non è lì. Nel Nido della Cavalla scoprirò quel fioco, enorme, opalescente uovo da cui si schiude l'Incubo. Perché non c'è nulla di così delizioso quanto un incubo — quando sai che è un incubo.
 
-Questo è l'essenziale. Questa è la severa condizione imposta a tutti gli artisti che toccano questo lusso della [[concepts/fear|paura]]. Il terrore dev'essere fondamentalmente frivolo. La [[Sanity|Sanità]] mentale può giocare con la follia; ma alla follia non si deve permettere di giocare con la [[Sanity|sanità]] mentale. I poeti come quello che leggevo nel [[motifs/garden|giardino]] siano pure liberissimi di immaginare quali oltraggiose divinità e quali violenti paesaggi vogliono. Vaghino pure liberamente tra i loro pinnacoli e le loro prospettive d'oppio. Ma questi immensi dèi, queste alte città, sono giocattoli; non si deve permettere loro, neppure per un istante, di essere altro. L'uomo, [[archetypes/child|bambino]] gigantesco, deve giocare con Babilonia e Ninive, con Iside e con Astaroth. Sogni pure la Schiavitù d'[[settings/egypt|Egitto]], purché ne sia libero. Si carichi pure del Fardello di Tiro, purché sappia portarlo con leggerezza. Ma gli antichi dèi devono essere le sue bambole, non i suoi idoli. Le sue sacralità centrali, i suoi veri possessi, dovrebbero essere cristiani e semplici. E proprio come un [[archetypes/child|bambino]] terrebbe più caro un [[motifs/horse|cavallo]] di legno o una [[Sword|spada]] che è una semplice [[motifs/cross|croce]] di legno, così l'uomo, il gran [[archetypes/child|bambino]], deve tenere più care le antiche cose schiette della poesia e della pietà; quel [[motifs/horse|cavallo]] di legno che fu la [[forms/epic|epica]] fine di Ilio, o quella [[motifs/cross|croce]] di legno che redense e conquistò il mondo.
+Questo è l'essenziale. Questa è la severa condizione imposta a tutti gli artisti che toccano questo lusso della [[concepts/fear|paura]]. Il terrore dev'essere fondamentalmente frivolo. La Sanità mentale può giocare con la follia; ma alla follia non si deve permettere di giocare con la sanità mentale. I poeti come quello che leggevo nel [[motifs/garden|giardino]] siano pure liberissimi di immaginare quali oltraggiose divinità e quali violenti paesaggi vogliono. Vaghino pure liberamente tra i loro pinnacoli e le loro prospettive d'oppio. Ma questi immensi dèi, queste alte città, sono giocattoli; non si deve permettere loro, neppure per un istante, di essere altro. L'uomo, [[archetypes/child|bambino]] gigantesco, deve giocare con Babilonia e Ninive, con Iside e con Astaroth. Sogni pure la Schiavitù d'[[settings/egypt|Egitto]], purché ne sia libero. Si carichi pure del Fardello di Tiro, purché sappia portarlo con leggerezza. Ma gli antichi dèi devono essere le sue bambole, non i suoi idoli. Le sue sacralità centrali, i suoi veri possessi, dovrebbero essere cristiani e semplici. E proprio come un [[archetypes/child|bambino]] terrebbe più caro un [[motifs/horse|cavallo]] di legno o una spada che è una semplice [[motifs/cross|croce]] di legno, così l'uomo, il gran [[archetypes/child|bambino]], deve tenere più care le antiche cose schiette della poesia e della pietà; quel [[motifs/horse|cavallo]] di legno che fu la [[forms/epic|epica]] fine di Ilio, o quella [[motifs/cross|croce]] di legno che redense e conquistò il mondo.
 
 * * * *
 
@@ -59,14 +59,14 @@ si è commesso un grave errore di calcolo.
 
 * * * *
 
-Perciò non vedo nulla di male nel cavalcare con l'[[nightmare|Incubo]] questa [[motifs/night|notte]];
+Perciò non vedo nulla di male nel cavalcare con l'Incubo questa [[motifs/night|notte]];
 esso mi nitrisce dalle cime ondeggianti degli alberi e dal [[motifs/wind|vento]] ruggente;
 lo afferrerò e lo cavalcherò attraverso l'aria tremenda.
 Boschi ed erbacce del pari strappano alle radici nella tempesta montante,
 come se tutti volessero volare con noi oltre la [[motifs/moon|luna]], come quella folle,
 amorosa vacca il cui [[archetypes/child|figlio]] fu il [[motifs/moon|Vitello Lunare]]. Ci leveremo
 verso quell'infinito folle dove non c'è né su né giù, l'alto
-capovolgimento dei cieli.  Cavalcherò l'[[nightmare|Incubo]];
+capovolgimento dei cieli.  Cavalcherò l'Incubo;
 ma esso non cavalcherà me.
 
 --G.K.Chesterton
@@ -79,7 +79,7 @@ ma esso non cavalcherà me.
 (Originally appeared in "The Daily News", Oct. 16, 1909,
 and in "Alarms and Discursions", NY: Dodd, Mead. 1911)
 
-The [[nightmare|Nightmare]]
+The Nightmare
 
 A SUNSET of copper and gold had just broken down and gone
 to pieces in the west, and grey colours were crawling over
@@ -117,7 +117,7 @@ beyond the church and met Something-say a dog, a dog with one eye.
 Then I should meet a [[motifs/horse|horse]], perhaps, a [[motifs/horse|horse]] without a rider; the [[motifs/horse|horse]]
 also would have one eye.  Then the inhuman [[motifs/silence|silence]] would be broken;
 I should meet a man (need I say, a one-eyed man?) who would ask me the way
-to my own [[house]].  Or perhaps tell me that it was burnt to the ground.
+to my own house.  Or perhaps tell me that it was burnt to the ground.
 I think I could tell a very cosy little tale along some such lines.
 Or I might dream of climbing for ever the tall dark trees above me.
 They are so tall that I feel as if I should find at their tops the nests
@@ -132,13 +132,13 @@ was only created with one universal wink.  At the top of the tragic
 trees I should not find the Angel's Nest.  I should only find
 the Mare's Nest; the dreamy and divine nest is not there.
 In the Mare's Nest I shall discover that dim, enormous opalescent
-egg from which is hatched the [[nightmare|Nightmare]].  For there is nothing
-so delightful as a [[nightmare]]-when you know it is a [[nightmare]].
+egg from which is hatched the Nightmare.  For there is nothing
+so delightful as a nightmare-when you know it is a nightmare.
 
 That is the essential.  That is the stern condition laid upon
 all artists touching this luxury of [[concepts/fear|fear]].  The terror must
 be fundamentally frivolous.  [[works/sanity-(chesterton)|Sanity]] may play with insanity;
-but insanity must not be allowed to play with [[Sanity|sanity]].
+but insanity must not be allowed to play with sanity.
 Let such poets as the one I was reading in the [[motifs/garden|garden]],
 by all means, be free to imagine what outrageous deities
 and violent landscapes they like.  By all means let them
@@ -152,7 +152,7 @@ By all means let him take up the Burden of Tyre, so long as he can
 take it lightly.  But the old gods must be his dolls, not his idols.
 His central sanctities, his true possessions, should be Christian
 and simple.  And just as a [[archetypes/child|child]] would cherish most a wooden [[motifs/horse|horse]]
-or a [[Sword|sword]] that is a mere [[motifs/cross|cross]] of wood, so man, the great [[archetypes/child|child]],
+or a sword that is a mere [[motifs/cross|cross]] of wood, so man, the great [[archetypes/child|child]],
 must cherish most the old plain things of poetry and piety;
 that [[motifs/horse|horse]] of wood that was the [[forms/epic|epic]] end of Ilium, or that [[motifs/cross|cross]]
 of wood that redeemed and conquered the world.
@@ -183,7 +183,7 @@ of the appearance of a man.
 (Apparve originariamente in «The Daily News», 16 ott. 1909,
 e in «Alarms and Discursions», NY: Dodd, Mead. 1911)
 
-L'[[nightmare|Incubo]]
+L'Incubo
 
 UN TRAMONTO di rame e d'oro si era appena disfatto e frantumato a occidente, e colori grigi strisciavano su ogni cosa in terra e in cielo; e cresceva anche un [[motifs/wind|vento]], un [[motifs/wind|vento]] che posava un dito freddo sulla carne e sullo spirito. I cespugli in fondo al mio [[motifs/garden|giardino]] cominciarono a bisbigliare come congiurati; e poi ad agitarsi come mani selvagge che fanno un segnale. Cercavo di leggere, all'ultima luce che moriva sul prato, un lungo poema del periodo decadente, un poema sugli antichi dèi di Babilonia e d'[[settings/egypt|Egitto]], sui loro templi fiammeggianti e osceni, sui loro volti crudeli e colossali.
 
@@ -192,13 +192,13 @@ gli Ebrei e fu spruzzato
 di vino fino ai fianchi, o Pasht che aveva verdi 
 berilli per occhi?"
 
-Leggevo questo poema perché dovevo recensirlo per il Daily News; eppure era autentica poesia, nel suo genere. Emanava davvero un'atmosfera, un fumo fragrante e soffocante che pareva provenire proprio dalla Schiavitù d'[[settings/egypt|Egitto]] o dal Fardello di Tiro. Non c'è molto in comune (grazie a Dio) tra il mio [[motifs/garden|giardino]] con la sua linea d'orizzonte inglese grigio-verde al di là, e queste folli visioni di palazzi dipinti, di enormi idoli senza testa e di mostruose solitudini di sabbia rossa o dorata. Nondimeno (come confessai a me stesso) in un simile crepuscolo tempestoso posso immaginare un tale sentore di [[motifs/death|morte]] e di [[concepts/fear|paura]]. Il tramonto in rovina somiglia davvero a uno dei loro templi in rovina: un cumulo infranto di marmo d'oro e verde. Una nera cosa sbattente si stacca da uno degli alberi cupi e svolazza verso un altro. Non so se sia gufo o pipistrello; potrei figurarmi che fosse un cherubino nero, un infernale cherubino delle tenebre, non con le ali di un uccello e la testa di un bimbo, ma con la testa di un folletto e le ali di un pipistrello. Penso che, se ci fosse luce a sufficienza, potrei sedermi qui e scrivere un raccontino del brivido assai apprezzabile, su come io risalii la [[motifs/road|strada]] tortuosa oltre la chiesa e incontrai Qualcosa — poniamo un cane, un cane con un occhio solo. Poi incontrerei un [[motifs/horse|cavallo]], forse, un [[motifs/horse|cavallo]] senza cavaliere; anche il [[motifs/horse|cavallo]] avrebbe un occhio solo. Poi il [[motifs/silence|silenzio]] disumano sarebbe rotto; incontrerei un uomo (devo dirlo, un uomo con un occhio solo?) che mi chiederebbe la via per la mia [[house|casa]]. O forse mi direbbe che è stata rasa al suolo dal fuoco. Penso che potrei raccontare un delizioso raccontino su queste falsariga. Oppure potrei sognare di arrampicarmi per sempre sugli alti alberi oscuri sopra di me. Sono così alti che mi pare che troverei in cima i nidi degli angeli; ma in questo stato d'animo sarebbero angeli oscuri e terribili; angeli della [[motifs/death|morte]].
+Leggevo questo poema perché dovevo recensirlo per il Daily News; eppure era autentica poesia, nel suo genere. Emanava davvero un'atmosfera, un fumo fragrante e soffocante che pareva provenire proprio dalla Schiavitù d'[[settings/egypt|Egitto]] o dal Fardello di Tiro. Non c'è molto in comune (grazie a Dio) tra il mio [[motifs/garden|giardino]] con la sua linea d'orizzonte inglese grigio-verde al di là, e queste folli visioni di palazzi dipinti, di enormi idoli senza testa e di mostruose solitudini di sabbia rossa o dorata. Nondimeno (come confessai a me stesso) in un simile crepuscolo tempestoso posso immaginare un tale sentore di [[motifs/death|morte]] e di [[concepts/fear|paura]]. Il tramonto in rovina somiglia davvero a uno dei loro templi in rovina: un cumulo infranto di marmo d'oro e verde. Una nera cosa sbattente si stacca da uno degli alberi cupi e svolazza verso un altro. Non so se sia gufo o pipistrello; potrei figurarmi che fosse un cherubino nero, un infernale cherubino delle tenebre, non con le ali di un uccello e la testa di un bimbo, ma con la testa di un folletto e le ali di un pipistrello. Penso che, se ci fosse luce a sufficienza, potrei sedermi qui e scrivere un raccontino del brivido assai apprezzabile, su come io risalii la [[motifs/road|strada]] tortuosa oltre la chiesa e incontrai Qualcosa — poniamo un cane, un cane con un occhio solo. Poi incontrerei un [[motifs/horse|cavallo]], forse, un [[motifs/horse|cavallo]] senza cavaliere; anche il [[motifs/horse|cavallo]] avrebbe un occhio solo. Poi il [[motifs/silence|silenzio]] disumano sarebbe rotto; incontrerei un uomo (devo dirlo, un uomo con un occhio solo?) che mi chiederebbe la via per la mia casa. O forse mi direbbe che è stata rasa al suolo dal fuoco. Penso che potrei raccontare un delizioso raccontino su queste falsariga. Oppure potrei sognare di arrampicarmi per sempre sugli alti alberi oscuri sopra di me. Sono così alti che mi pare che troverei in cima i nidi degli angeli; ma in questo stato d'animo sarebbero angeli oscuri e terribili; angeli della [[motifs/death|morte]].
 
 * * * *
 
-Solo che, vedete, questo stato d'animo è tutta fandonia. Non ci credo minimamente. Quell'universo con un occhio solo, con i suoi uomini e le sue bestie con un occhio solo, fu creato soltanto con un universale strizzar d'occhio. In cima agli alberi tragici non troverei il Nido dell'Angelo. Troverei soltanto il Nido della Cavalla; il nido sognante e divino non è lì. Nel Nido della Cavalla scoprirò quel fioco, enorme, opalescente uovo da cui si schiude l'[[nightmare|Incubo]]. Perché non c'è nulla di così delizioso quanto un [[nightmare|incubo]] — quando sai che è un [[nightmare|incubo]].
+Solo che, vedete, questo stato d'animo è tutta fandonia. Non ci credo minimamente. Quell'universo con un occhio solo, con i suoi uomini e le sue bestie con un occhio solo, fu creato soltanto con un universale strizzar d'occhio. In cima agli alberi tragici non troverei il Nido dell'Angelo. Troverei soltanto il Nido della Cavalla; il nido sognante e divino non è lì. Nel Nido della Cavalla scoprirò quel fioco, enorme, opalescente uovo da cui si schiude l'Incubo. Perché non c'è nulla di così delizioso quanto un incubo — quando sai che è un incubo.
 
-Questo è l'essenziale. Questa è la severa condizione imposta a tutti gli artisti che toccano questo lusso della [[concepts/fear|paura]]. Il terrore dev'essere fondamentalmente frivolo. La [[Sanity|Sanità]] mentale può giocare con la follia; ma alla follia non si deve permettere di giocare con la [[Sanity|sanità]] mentale. I poeti come quello che leggevo nel [[motifs/garden|giardino]] siano pure liberissimi di immaginare quali oltraggiose divinità e quali violenti paesaggi vogliono. Vaghino pure liberamente tra i loro pinnacoli e le loro prospettive d'oppio. Ma questi immensi dèi, queste alte città, sono giocattoli; non si deve permettere loro, neppure per un istante, di essere altro. L'uomo, [[archetypes/child|bambino]] gigantesco, deve giocare con Babilonia e Ninive, con Iside e con Astaroth. Sogni pure la Schiavitù d'[[settings/egypt|Egitto]], purché ne sia libero. Si carichi pure del Fardello di Tiro, purché sappia portarlo con leggerezza. Ma gli antichi dèi devono essere le sue bambole, non i suoi idoli. Le sue sacralità centrali, i suoi veri possessi, dovrebbero essere cristiani e semplici. E proprio come un [[archetypes/child|bambino]] terrebbe più caro un [[motifs/horse|cavallo]] di legno o una [[Sword|spada]] che è una semplice [[motifs/cross|croce]] di legno, così l'uomo, il gran [[archetypes/child|bambino]], deve tenere più care le antiche cose schiette della poesia e della pietà; quel [[motifs/horse|cavallo]] di legno che fu la [[forms/epic|epica]] fine di Ilio, o quella [[motifs/cross|croce]] di legno che redense e conquistò il mondo.
+Questo è l'essenziale. Questa è la severa condizione imposta a tutti gli artisti che toccano questo lusso della [[concepts/fear|paura]]. Il terrore dev'essere fondamentalmente frivolo. La Sanità mentale può giocare con la follia; ma alla follia non si deve permettere di giocare con la sanità mentale. I poeti come quello che leggevo nel [[motifs/garden|giardino]] siano pure liberissimi di immaginare quali oltraggiose divinità e quali violenti paesaggi vogliono. Vaghino pure liberamente tra i loro pinnacoli e le loro prospettive d'oppio. Ma questi immensi dèi, queste alte città, sono giocattoli; non si deve permettere loro, neppure per un istante, di essere altro. L'uomo, [[archetypes/child|bambino]] gigantesco, deve giocare con Babilonia e Ninive, con Iside e con Astaroth. Sogni pure la Schiavitù d'[[settings/egypt|Egitto]], purché ne sia libero. Si carichi pure del Fardello di Tiro, purché sappia portarlo con leggerezza. Ma gli antichi dèi devono essere le sue bambole, non i suoi idoli. Le sue sacralità centrali, i suoi veri possessi, dovrebbero essere cristiani e semplici. E proprio come un [[archetypes/child|bambino]] terrebbe più caro un [[motifs/horse|cavallo]] di legno o una spada che è una semplice [[motifs/cross|croce]] di legno, così l'uomo, il gran [[archetypes/child|bambino]], deve tenere più care le antiche cose schiette della poesia e della pietà; quel [[motifs/horse|cavallo]] di legno che fu la [[forms/epic|epica]] fine di Ilio, o quella [[motifs/cross|croce]] di legno che redense e conquistò il mondo.
 
 * * * *
 
@@ -227,14 +227,14 @@ probably been made.
 
 * * * *
 
-Therefore I see no wrong in riding with the [[nightmare|Nightmare]] to-[[motifs/night|night]];
+Therefore I see no wrong in riding with the Nightmare to-[[motifs/night|night]];
 she whinnies to me from the rocking tree-tops and the roaring [[motifs/wind|wind]];
 I will catch her and ride her through the awful air.
 Woods and weeds are alike tugging at the roots in the rising tempest,
 as if all wished to fly with us over the [[motifs/moon|moon]], like that wild,
 amorous cow whose [[archetypes/child|child]] was the [[motifs/moon|Moon]]-Calf. We will rise to
 that mad infinite where there is neither up nor down, the high
-topsy-turveydom of the heavens.  I will ride on the [[nightmare|Nightmare]];
+topsy-turveydom of the heavens.  I will ride on the Nightmare;
 but she shall not ride on me.
 
 --G.K.Chesterton
@@ -260,14 +260,14 @@ si è commesso un grave errore di calcolo.
 
 * * * *
 
-Perciò non vedo nulla di male nel cavalcare con l'[[nightmare|Incubo]] questa [[motifs/night|notte]];
+Perciò non vedo nulla di male nel cavalcare con l'Incubo questa [[motifs/night|notte]];
 esso mi nitrisce dalle cime ondeggianti degli alberi e dal [[motifs/wind|vento]] ruggente;
 lo afferrerò e lo cavalcherò attraverso l'aria tremenda.
 Boschi ed erbacce del pari strappano alle radici nella tempesta montante,
 come se tutti volessero volare con noi oltre la [[motifs/moon|luna]], come quella folle,
 amorosa vacca il cui [[archetypes/child|figlio]] fu il [[motifs/moon|Vitello Lunare]]. Ci leveremo
 verso quell'infinito folle dove non c'è né su né giù, l'alto
-capovolgimento dei cieli.  Cavalcherò l'[[nightmare|Incubo]];
+capovolgimento dei cieli.  Cavalcherò l'Incubo;
 ma esso non cavalcherà me.
 
 --G.K.Chesterton

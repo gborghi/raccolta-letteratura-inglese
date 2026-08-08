@@ -41,7 +41,7 @@ Fa compagni l'uccisore e l'ucciso.
 
 L'[[archetypes/innocent|innocente]] brama delle creature non cadute  
 Lo muove a un orrore nascosto ma a nessuna letizia;  
-Una [[morality|moralità]] malriposta marcisce nelle radici inconsce,  
+Una moralità malriposta marcisce nelle radici inconsce,  
 La sua [[concepts/conscience|coscienza]] soffocata puzza per la verde terra.  
 Le cose verdi si spingono su come orribili lumache enormi,  
 Corni verdi e grossi, ciascuno levando un occhio sogghignante  
@@ -59,7 +59,7 @@ Passa l'ape, dorato ruffiano e mezzano.
 
 Egli dice: 'Non ho peccato; io scaglio la pietra',  
 E getta il suo sassolino contro il santuario,  
-Scaglia via peccato e pietra contro la [[house|casa]]  
+Scaglia via peccato e pietra contro la casa  
 La cui salute ha mutato in vino le acque della terra.  
 Il veleno di quella [[concepts/guilt|colpa]] ripudiata  
 Avvelena il mare e ogni flusso naturale  
@@ -97,7 +97,7 @@ Makes comrades of the slayer and the slain.
 
 The [[archetypes/innocent|innocent]] lust of the unfallen creatures  
 Moves him to hidden horror but no mirth;  
-Misplaced [[morality]] rots in the roots unconscious,  
+Misplaced morality rots in the roots unconscious,  
 His stifled [[concepts/conscience|conscience]] stinks through the green earth.  
 The green things thrust like horrible huge snails,  
 Horns green and gross, each lifting a leering eye  
@@ -115,7 +115,7 @@ A gilded pimp and pandar, goes the bee.
 
 He sayeth, 'I have no sin; I cast the stone',  
 And throws his little pebble at the shrine,  
-Casts sin and stone away against the [[house]]  
+Casts sin and stone away against the house  
 Whose health has turned earth's waters into wine.  
 The venom of that repudiated [[concepts/guilt|guilt]]  
 Poisons the sea and every natural flood  
@@ -151,7 +151,7 @@ Fa compagni l'uccisore e l'ucciso.
 
 L'[[archetypes/innocent|innocente]] brama delle creature non cadute  
 Lo muove a un orrore nascosto ma a nessuna letizia;  
-Una [[morality|moralità]] malriposta marcisce nelle radici inconsce,  
+Una moralità malriposta marcisce nelle radici inconsce,  
 La sua [[concepts/conscience|coscienza]] soffocata puzza per la verde terra.  
 Le cose verdi si spingono su come orribili lumache enormi,  
 Corni verdi e grossi, ciascuno levando un occhio sogghignante  
@@ -169,7 +169,7 @@ Passa l'ape, dorato ruffiano e mezzano.
 
 Egli dice: 'Non ho peccato; io scaglio la pietra',  
 E getta il suo sassolino contro il santuario,  
-Scaglia via peccato e pietra contro la [[house|casa]]  
+Scaglia via peccato e pietra contro la casa  
 La cui salute ha mutato in vino le acque della terra.  
 Il veleno di quella [[concepts/guilt|colpa]] ripudiata  
 Avvelena il mare e ogni flusso naturale  

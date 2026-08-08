@@ -34,4 +34,4 @@ tags:
 **Motifs:** [[motifs/flags-and-banners|Flags and Banners]], [[motifs/blood|Blood]]
 **Historical References:** [[historical-references/first-world-war|First World War]]
 **Settings:** [[settings/battlefield|Battlefield]]
-**Archetypes:** Hero, Martyr Saint
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/martyr-saint|Martyr Saint]]

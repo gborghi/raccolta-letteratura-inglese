@@ -297,7 +297,7 @@ Ora sapevo che la signora Adelaide Curtis, di Albany, era…
 
 La madre della moglie dell’[[archetypes/artist|artista]], ma poi ho osservato l’intero indirizzo.
 
-Come una sorta di [[Mystification|mistero]], pensato soprattutto per me stesso. L’ho inventato io stesso.
+Come una sorta di mistero, pensato soprattutto per me stesso. L’ho inventato io stesso.
 
 Attenti: la scatola e il suo contenuto non potrebbero mai essere recuperati…
 
@@ -391,7 +391,7 @@ Nel frattempo, tutti a bordo notarono che lui la evitava.
 
 Con il tono più tagliente possibile, per lo più si teneva zitto.
 
-[[Alone|Solo]] nella sua stanza da lavoro, dove, in realtà, si potrebbe dire che.
+Solo nella sua stanza da lavoro, dove, in realtà, si potrebbe dire che.
 
 Vivere insieme, lasciando sua moglie completamente libera di divertirsi.
 
@@ -435,11 +435,11 @@ Pensando a sua moglie, mi chiesi come potesse avere il cuore di farlo…
 
 Senza nemmeno l’ombra di una risata… Decisi di iniziare una serie.
 
-Di insinuazioni o allusioni sottili riguardo alla [[The Oblong Box|scatola oblunga]], proprio così.
+Di insinuazioni o allusioni sottili riguardo alla scatola oblunga, proprio così.
 
 Per fargli comprendere gradualmente che non ero affatto…
 
-Semplicemente una vittima, o un oggetto della sua piccola, piacevole [[Mystification|misteriosità]]. Io.
+Semplicemente una vittima, o un oggetto della sua piccola, piacevole misteriosità. Io.
 
 La prima osservazione fu effettuata aprendo una batteria munita di maschera. Dissi…
 
@@ -544,7 +544,7 @@ Tornarono indietro. Era evidente che fossero praticamente separati…
 
 Appartamenti separati: non c’è alcun [[concepts/doubt|dubbio]] riguardo all’idea di una sistemazione più permanente.
 
-[[divorce|divorzio]]; ed ecco, dopo tutto ciò che pensavo fosse il mistero.
+divorzio; ed ecco, dopo tutto ciò che pensavo fosse il mistero.
 
 fuori dalla zona riservata ai passeggeri di prima classe.
 
@@ -565,7 +565,7 @@ Con attenzione e impegno, alla fine riuscii perfettamente nel mio compito.
 Titolo:  
 I suoni prodotti dal loro significato…
 
-[[archetypes/artist|l’artista]], utilizzando un scalpello, iniziò ad aprire [[The Oblong Box|la scatola rettangolare]].
+[[archetypes/artist|l’artista]], utilizzando un scalpello, iniziò ad aprire la scatola rettangolare.
 
 Mazza… la quale, a quanto pare, era stata attutita o smorzata da qualcosa.
 
@@ -679,7 +679,7 @@ Teso… e al terzo giorno del colpo, verso le cinque…
 
 Il consiglio… Per un’ora o più, abbiamo cercato invano di liberarcene.
 
-A causa del prodigioso [[rolling|rollio]] della [[motifs/ship|navica]]; e, prima ancora di.
+A causa del prodigioso rollio della [[motifs/ship|navica]]; e, prima ancora di.
 
 Avevamo avuto successo; il falegname si avvicinò e annunciò: “Quattro piedi”.
 
@@ -835,7 +835,7 @@ Solo in questo modo potevamo considerarlo… fu visto emergere da…
 
 Compagno di viaggio… un percorso che si attraversa grazie alla forza dimostrata.
 
-Gigantesco com'era, trascinò a forza quella [[The Oblong Box|scatola allungata]]. Mentre noi la fissavamo.
+Gigantesco com'era, trascinò a forza quella scatola allungata. Mentre noi la fissavamo.
 
 Nella massima estensione della meraviglia, egli fece rapidamente diverse svolte.
 
@@ -1458,7 +1458,7 @@ Now, I was aware that Mrs. Adelaide Curtis, of Albany, was the
 
 [[archetypes/artist|artist]]’s wife’s mother,—but then I looked upon the whole address
 
-as a [[Mystification|mystification]], intended especially for myself. I made up my
+as a mystification, intended especially for myself. I made up my
 
 mind, of course, that the box and contents would never get
 
@@ -1552,7 +1552,7 @@ meantime, it was observed by all on board, that he avoided her in
 
 the most pointed manner, and, for the most part, shut himself up
 
-[[Alone|alone]] in his state-room, where, in fact, he might have been said
+alone in his state-room, where, in fact, he might have been said
 
 to live altogether, leaving his wife at full liberty to amuse
 
@@ -1646,7 +1646,7 @@ Ora sapevo che la signora Adelaide Curtis, di Albany, era…
 
 La madre della moglie dell’[[archetypes/artist|artista]], ma poi ho osservato l’intero indirizzo.
 
-Come una sorta di [[Mystification|mistero]], pensato soprattutto per me stesso. L’ho inventato io stesso.
+Come una sorta di mistero, pensato soprattutto per me stesso. L’ho inventato io stesso.
 
 Attenti: la scatola e il suo contenuto non potrebbero mai essere recuperati…
 
@@ -1740,7 +1740,7 @@ Nel frattempo, tutti a bordo notarono che lui la evitava.
 
 Con il tono più tagliente possibile, per lo più si teneva zitto.
 
-[[Alone|Solo]] nella sua stanza da lavoro, dove, in realtà, si potrebbe dire che.
+Solo nella sua stanza da lavoro, dove, in realtà, si potrebbe dire che.
 
 Vivere insieme, lasciando sua moglie completamente libera di divertirsi.
 
@@ -1789,11 +1789,11 @@ thought of his wife, I wondered that he could have heart to put
 
 on even the semblance of mirth. I determined to commence a series
 
-of covert insinuations, or innuendoes, about [[The Oblong Box|the oblong box]]—just
+of covert insinuations, or innuendoes, about the oblong box—just
 
 to let him perceive, gradually, that I was not altogether the
 
-butt, or victim, of his little bit of pleasant [[Mystification|mystification]]. My
+butt, or victim, of his little bit of pleasant mystification. My
 
 first observation was by way of opening a masked battery. I said
 
@@ -1897,7 +1897,7 @@ went back. That they were virtually separated was clear. They had
 
 separate apartments—no [[concepts/doubt|doubt]] in contemplation of a more permanent
 
-[[divorce]]; and here, after all I thought was the mystery of the
+divorce; and here, after all I thought was the mystery of the
 
 extra state-room.
 
@@ -1917,7 +1917,7 @@ thoughtful attention, I at length succeeded perfectly in
 
 translating their import. They were sounds occasioned by the
 
-[[archetypes/artist|artist]] in prying open [[The Oblong Box|the oblong box]], by means of a chisel and
+[[archetypes/artist|artist]] in prying open the oblong box, by means of a chisel and
 
 mallet—the latter being apparently muffled, or deadened, by some
 
@@ -1978,11 +1978,11 @@ Pensando a sua moglie, mi chiesi come potesse avere il cuore di farlo…
 
 Senza nemmeno l’ombra di una risata… Decisi di iniziare una serie.
 
-Di insinuazioni o allusioni sottili riguardo alla [[The Oblong Box|scatola oblunga]], proprio così.
+Di insinuazioni o allusioni sottili riguardo alla scatola oblunga, proprio così.
 
 Per fargli comprendere gradualmente che non ero affatto…
 
-Semplicemente una vittima, o un oggetto della sua piccola, piacevole [[Mystification|misteriosità]]. Io.
+Semplicemente una vittima, o un oggetto della sua piccola, piacevole misteriosità. Io.
 
 La prima osservazione fu effettuata aprendo una batteria munita di maschera. Dissi…
 
@@ -2087,7 +2087,7 @@ Tornarono indietro. Era evidente che fossero praticamente separati…
 
 Appartamenti separati: non c’è alcun [[concepts/doubt|dubbio]] riguardo all’idea di una sistemazione più permanente.
 
-[[divorce|divorzio]]; ed ecco, dopo tutto ciò che pensavo fosse il mistero.
+divorzio; ed ecco, dopo tutto ciò che pensavo fosse il mistero.
 
 fuori dalla zona riservata ai passeggeri di prima classe.
 
@@ -2108,7 +2108,7 @@ Con attenzione e impegno, alla fine riuscii perfettamente nel mio compito.
 Titolo:  
 I suoni prodotti dal loro significato…
 
-[[archetypes/artist|l’artista]], utilizzando un scalpello, iniziò ad aprire [[The Oblong Box|la scatola rettangolare]].
+[[archetypes/artist|l’artista]], utilizzando un scalpello, iniziò ad aprire la scatola rettangolare.
 
 Mazza… la quale, a quanto pare, era stata attutita o smorzata da qualcosa.
 
@@ -2165,7 +2165,7 @@ Hardy’s green tea. Just before [[motifs/dawn|dawn]], on each of the two nights
 
 which I speak, I distinctly heard Mr. Wyatt replace the lid upon
 
-[[The Oblong Box|the oblong box]], and force the nails into their old places by
+the oblong box, and force the nails into their old places by
 
 means of the muffled mallet. Having done this, he issued from his
 
@@ -2225,7 +2225,7 @@ afternoon, our mizzen-mast, in a heavy lurch to windward, went by
 
 the board. For an hour or more, we tried in vain to get rid of
 
-it, on account of the prodigious [[rolling]] of the [[motifs/ship|ship]]; and, before
+it, on account of the prodigious rolling of the [[motifs/ship|ship]]; and, before
 
 we had succeeded, the carpenter came aft and announced four feet
 
@@ -2426,7 +2426,7 @@ Teso… e al terzo giorno del colpo, verso le cinque…
 
 Il consiglio… Per un’ora o più, abbiamo cercato invano di liberarcene.
 
-A causa del prodigioso [[rolling|rollio]] della [[motifs/ship|navica]]; e, prima ancora di.
+A causa del prodigioso rollio della [[motifs/ship|navica]]; e, prima ancora di.
 
 Avevamo avuto successo; il falegname si avvicinò e annunciò: “Quattro piedi”.
 
@@ -2586,7 +2586,7 @@ as such only could we regard him) was seen to emerge from the
 
 companion—way, up which by dint of strength that appeared
 
-gigantic, he dragged, bodily, [[The Oblong Box|the oblong box]]. While we gazed in
+gigantic, he dragged, bodily, the oblong box. While we gazed in
 
 the extremity of astonishment, he passed, rapidly, several turns
 
@@ -2780,7 +2780,7 @@ Solo in questo modo potevamo considerarlo… fu visto emergere da…
 
 Compagno di viaggio… un percorso che si attraversa grazie alla forza dimostrata.
 
-Gigantesco com'era, trascinò a forza quella [[The Oblong Box|scatola allungata]]. Mentre noi la fissavamo.
+Gigantesco com'era, trascinò a forza quella scatola allungata. Mentre noi la fissavamo.
 
 Nella massima estensione della meraviglia, egli fece rapidamente diverse svolte.
 

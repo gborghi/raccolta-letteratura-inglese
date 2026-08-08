@@ -398,7 +398,7 @@ THE ONE THING NEEDFUL
 
 
 ‘NOW, what I want is, Facts.  Teach these boys and girls nothing but
-Facts.  Facts [[Alone|alone]] are wanted in life.  Plant nothing else, and root out
+Facts.  Facts alone are wanted in life.  Plant nothing else, and root out
 everything else.  You can only form the minds of reasoning [[motifs/animals|animals]] upon
 Facts: nothing else will ever be of any service to them.  This is the
 principle on which I bring up my own children, and this is the principle
@@ -542,7 +542,7 @@ of busy [[motifs/insects|insects]], put his knuckles to his freckled forehead, a
 again.
 
 The third gentleman now stepped forth.  A mighty man at cutting and
-drying, he was; a [[government]] officer; in his way (and in most other
+drying, he was; a government officer; in his way (and in most other
 people’s too), a professed pugilist; always in training, always with a
 system to force down the general throat like a bolus, always to be heard
 of at the bar of his little Public-office, ready to fight all England.
@@ -700,7 +700,7 @@ were all models.
 
 There were five young Gradgrinds, and they were models every one.  They
 had been lectured at, from their tenderest years; coursed, like little
-hares.  Almost as soon as they could run [[Alone|alone]], they had been made to run
+hares.  Almost as soon as they could run alone, they had been made to run
 to the lecture-room.  The first object with which they had an
 association, or of which they had a remembrance, was a large black board
 with a dry Ogre chalking ghastly white figures on it.
@@ -732,9 +732,9 @@ town—called Coketown in the present faithful guide-book.
 
 A very regular feature on the face of the country, Stone Lodge was.  Not
 the least disguise toned down or shaded off that uncompromising fact in
-the landscape.  A great square [[house]], with a heavy portico darkening the
+the landscape.  A great square house, with a heavy portico darkening the
 principal windows, as its master’s heavy brows overshadowed his eyes.  A
-calculated, cast up, balanced, and proved [[house]].  Six windows on this
+calculated, cast up, balanced, and proved house.  Six windows on this
 side of the door, six on that side; a total of twelve in this wing, a
 total of twelve in the other wing; four-and-twenty carried over to the
 back wings.  A lawn and [[motifs/garden|garden]] and an infant avenue, all ruled straight
@@ -792,7 +792,7 @@ hippo-comedietta of The Tailor’s [[motifs/journey|Journey]] to Brentford.’
 
 [[characters/thomas-gradgrind|Thomas Gradgrind]] took no heed of these trivialities of course, but passed
 on as a practical man ought to pass on, either brushing the noisy [[motifs/insects|insects]]
-from his thoughts, or consigning them to the [[house|House]] of Correction.  But,
+from his thoughts, or consigning them to the House of Correction.  But,
 the turning of the [[motifs/road|road]] took him by the back of the booth, and at the
 back of the booth a number of children were congregated in a number of
 stealthy attitudes, striving to peep in at the hidden glories of the
@@ -1052,7 +1052,7 @@ nonsense’ about her.  By nonsense he meant fancy; and truly it is
 probable she was as free from any alloy of that [[concepts/nature|nature]], as any human
 being not arrived at the perfection of an absolute idiot, ever was.
 
-The simple circumstance of being left [[Alone|alone]] with her husband and Mr.
+The simple circumstance of being left alone with her husband and Mr.
 Bounderby, was sufficient to stun this admirable lady again without
 collision between herself and any other fact.  So, she once more died
 away, and nobody minded her.
@@ -1091,7 +1091,7 @@ will be disappointed.  I hadn’t a refined bringing up.’
 his cavernous eyes on the [[motifs/fire|fire]], ‘whether any instructor or servant can
 have suggested anything?  Whether Louisa or Thomas can have been reading
 anything?  Whether, in spite of all precautions, any idle story-book can
-have got into the [[house]]?  Because, in minds that have been practically
+have got into the house?  Because, in minds that have been practically
 formed by rule and line, from the cradle upwards, this is so curious, so
 incomprehensible.’
 
@@ -1106,7 +1106,7 @@ look at his friend.
 ‘Now, stop a bit!’ cried Bounderby again.  ‘How did she come there?’
 
 ‘Why, the fact is, I saw the girl myself, for the first [[motifs/time|time]], only just
-now.  She specially applied here at the [[house]] to be admitted, as not
+now.  She specially applied here at the house to be admitted, as not
 regularly belonging to our town, and—yes, you are right, Bounderby, you
 are right.’
 
@@ -1159,7 +1159,7 @@ notwithstanding its book-cases and its cabinets and its variety of
 learned and philosophical appliances, had much of the genial aspect of a
 room devoted to hair-cutting.  Louisa languidly leaned upon the [[motifs/window|window]]
 looking out, without looking at anything, while young Thomas stood
-sniffing revengefully at the [[motifs/fire|fire]].  Adam [[smith|Smith]] and Malthus, two younger
+sniffing revengefully at the [[motifs/fire|fire]].  Adam Smith and Malthus, two younger
 Gradgrinds, were out at lecture in custody; and little Jane, after
 manufacturing a good deal of moist pipe-clay on her face with
 slate-pencil and [[motifs/tears|tears]], had fallen asleep over vulgar fractions.
@@ -1225,7 +1225,7 @@ bear to hear the place mentioned.  The rest of its features were
 voluntary, and they were these.
 
 You saw nothing in Coketown but what was severely workful.  If the
-members of a religious [[Persuasion|persuasion]] built a chapel there—as the members of
+members of a religious persuasion built a chapel there—as the members of
 eighteen religious persuasions had done—they made it a pious warehouse of
 red brick, with sometimes (but this is only in highly ornamental
 examples) a bell in a birdcage on the top of it.  The solitary exception
@@ -1258,7 +1258,7 @@ their own streets, where they lounged listlessly, gazing at all the
 church and chapel going, as at a thing with which they had no manner of
 concern.  Nor was it merely the stranger who noticed this, because there
 was a native organization in Coketown itself, whose members were to be
-heard of in the [[house|House]] of Commons every session, indignantly petitioning
+heard of in the House of Commons every session, indignantly petitioning
 for acts of parliament that should make these people religious by main
 force.  Then came the Teetotal Society, who complained that these same
 people _would_ get drunk, and showed in tabular statements that they did
@@ -1307,7 +1307,7 @@ deliberately set at nought?  That there was any Fancy in them demanding
 to be brought into healthy existence instead of struggling on in
 convulsions?  That exactly in the ratio as they worked long and
 monotonously, the craving grew within them for some physical relief—some
-relaxation, encouraging good [[Humour|humour]] and good spirits, and giving them a
+relaxation, encouraging good humour and good spirits, and giving them a
 vent—some recognized holiday, though it were but for an honest [[motifs/dance|dance]] to a
 stirring band of music—some occasional light pie in which even
 M’Choakumchild had no finger—which craving must and would be satisfied
@@ -1410,9 +1410,9 @@ in the arithmetic that balanced it, years ago.  He said, in what he meant
 for a reassuring tone, as they turned down a narrow [[motifs/road|road]], ‘And this is
 Pod’s End; is it, Jupe?’
 
-‘This is it, sir, and—if you wouldn’t mind, sir—this is the [[house]].’
+‘This is it, sir, and—if you wouldn’t mind, sir—this is the house.’
 
-She stopped, at twilight, at the door of a mean little public-[[house]], with
+She stopped, at twilight, at the door of a mean little public-house, with
 dim red lights in it.  As haggard and as shabby, as if, for want of
 custom, it had itself taken to drinking, and had gone the way all
 drunkards go, and was very near the end of it.
@@ -1434,7 +1434,7 @@ CHAPTER VI
 SLEARY’S HORSEMANSHIP
 
 
-THE name of the public-[[house]] was the Pegasus’s Arms.  The Pegasus’s legs
+THE name of the public-house was the Pegasus’s Arms.  The Pegasus’s legs
 might have been more to the purpose; but, underneath the winged [[motifs/horse|horse]]
 upon the sign-board, the Pegasus’s Arms was inscribed in Roman letters.
 Beneath that [[forms/inscription|inscription]] again, in a flowing scroll, the painter had
@@ -1494,7 +1494,7 @@ and back were as much too broad, as his legs were too short.  He was
 dressed in a Newmarket coat and tight-fitting trousers; wore a shawl
 round his neck; smelt of lamp-oil, straw, orange-peel, horses’ provender,
 and sawdust; and looked a most remarkable sort of Centaur, compounded of
-the stable and the play-[[house]].  Where the one began, and the other ended,
+the stable and the play-house.  Where the one began, and the other ended,
 nobody could have told with any precision.  This gentleman was mentioned
 in the bills of the day as Mr. E. W. B. Childers, so justly celebrated
 for his daring vaulting act as the Wild Huntsman of the North American
@@ -1741,12 +1741,12 @@ who did the fairy business when required.  The father of one of the
 families was in the habit of balancing the father of another of the
 families on the top of a great pole; the father of a third family often
 made a pyramid of both those fathers, with Master Kidderminster for the
-apex, and himself for the base; all the fathers could [[motifs/dance|dance]] upon [[rolling]]
+apex, and himself for the base; all the fathers could [[motifs/dance|dance]] upon rolling
 casks, stand upon bottles, catch knives and balls, twirl hand-basins,
 ride upon anything, jump over everything, and stick at nothing.  All the
 mothers could (and did) [[motifs/dance|dance]], upon the slack wire and the tight-rope,
 and perform rapid acts on bare-backed steeds; none of them were at all
-particular in respect of showing their legs; and one of them, [[Alone|alone]] in a
+particular in respect of showing their legs; and one of them, alone in a
 Greek chariot, drove six in hand into every town they came to.  They all
 assumed to be mighty rakish and knowing, they were not very tidy in their
 private dresses, they were not at all orderly in their domestic
@@ -1909,7 +1909,7 @@ should have no power of keeping you against his wish, and he would have
 no difficulty, at any [[motifs/time|time]], in finding Mr. [[characters/thomas-gradgrind|Thomas Gradgrind]] of Coketown.
 I am [[motifs/well|well]] known.’
 
-‘[[motifs/well|Well]] known,’ assented Mr. Sleary, [[rolling]] his loose eye.  ‘You’re one of
+‘[[motifs/well|Well]] known,’ assented Mr. Sleary, rolling his loose eye.  ‘You’re one of
 the thort, Thquire, that keepth a prethiouth thight of money out of the
 houthe.  But never mind that at prethent.’
 
@@ -1991,8 +1991,8 @@ I’ve got my living out of the horthe-riding all my life, I know; but I
 conthider that I lay down the philothophy of the thubject when I thay to
 you, Thquire, make the betht of uth: not the wurtht!’
 
-The Sleary [[philosophy]] was propounded as they went downstairs and the
-fixed eye of [[philosophy|Philosophy]]—and its [[rolling]] eye, too—soon lost the three
+The Sleary philosophy was propounded as they went downstairs and the
+fixed eye of Philosophy—and its rolling eye, too—soon lost the three
 figures and the basket in the darkness of the street.
 
 
@@ -2054,7 +2054,7 @@ circumstance, he brightened Mrs. Sparsit’s juvenile career with every
 possible advantage, and showered waggon-loads of early roses all over
 that lady’s path.  ‘And yet, sir,’ he would say, ‘how does it turn out
 after all?  Why here she is at a hundred a year (I give her a hundred,
-which she is pleased to term handsome), keeping the [[house]] of Josiah
+which she is pleased to term handsome), keeping the house of Josiah
 Bounderby of Coketown!’
 
 Nay, he made this foil of his so very widely known, that third parties
@@ -2065,7 +2065,7 @@ was a moral infection of clap-trap in him.  Strangers, modest enough
 elsewhere, started up at dinners in Coketown, and boasted, in quite a
 rampant way, of Bounderby.  They made him out to be the Royal arms, the
 [[concepts/union|Union]]-Jack, Magna Charta, John Bull, Habeas Corpus, the Bill of Rights,
-An Englishman’s [[house]] is his [[settings/castle|castle]], Church and State, and God save the
+An Englishman’s house is his [[settings/castle|castle]], Church and State, and God save the
 [[characters/queen|Queen]], all put together.  And as often (and it was very often) as an
 orator of this kind brought into his peroration,
 
@@ -2202,9 +2202,9 @@ her confusion unluckily omitted Mrs. Sparsit.  Observing this, the
 blustrous Bounderby had the following remarks to make:
 
 ‘Now, I tell you what, my girl.  The name of that lady by the teapot, is
-Mrs. Sparsit.  That lady acts as mistress of this [[house]], and she is a
+Mrs. Sparsit.  That lady acts as mistress of this house, and she is a
 highly connected lady.  Consequently, if ever you come again into any
-room in this [[house]], you will make a short stay in it if you don’t behave
+room in this house, you will make a short stay in it if you don’t behave
 towards that lady in your most respectful manner.  Now, I don’t care a
 button what you do to _me_, because I don’t affect to be anybody.  So far
 from having high connections I have no connections at all, and I come of
@@ -2223,11 +2223,11 @@ ma’am, I don’t allow of even oversights towards you.’
 with her State [[concepts/humility|humility]].  ‘It is not worth speaking of.’
 
 Sissy, who all this [[motifs/time|time]] had been faintly excusing herself with [[motifs/tears|tears]] in
-her eyes, was now waved over by the master of the [[house]] to Mr. Gradgrind.
+her eyes, was now waved over by the master of the house to Mr. Gradgrind.
 She stood looking intently at him, and Louisa stood coldly by, with her
 eyes upon the ground, while he proceeded thus:
 
-‘Jupe, I have made up my mind to take you into my [[house]]; and, when you
+‘Jupe, I have made up my mind to take you into my house; and, when you
 are not in attendance at the school, to employ you about Mrs. Gradgrind,
 who is rather an invalid.  I have explained to Miss Louisa—this is Miss
 Louisa—the miserable but natural end of your late career; and you are to
@@ -2360,7 +2360,7 @@ sister sat in the darker corner by the fireside, now looking at him, now
 looking at the bright sparks as they dropped upon the hearth.
 
 ‘As to me,’ said Tom, tumbling his hair all manner of ways with his sulky
-hands, ‘I am a [[donkey|Donkey]], that’s what _I_ am.  I am as obstinate as one, I
+hands, ‘I am a Donkey, that’s what _I_ am.  I am as obstinate as one, I
 am more stupid than one, I get as much pleasure as one, and I should like
 to kick like one.’
 
@@ -2731,12 +2731,12 @@ they very often wouldn’t laugh, and he used to come [[motifs/home|home]] despa
 Father’s not like most.  Those who didn’t know him as [[motifs/well|well]] as I do, and
 didn’t [[motifs/love|love]] him as dearly as I do, might believe he was not quite right.
 Sometimes they played tricks upon him; but they never knew how he felt
-them, and shrunk up, when he was [[Alone|alone]] with me.  He was far, far timider
+them, and shrunk up, when he was alone with me.  He was far, far timider
 than they thought!’
 
 ‘And you were his comfort through everything?’
 
-She nodded, with the [[motifs/tears|tears]] [[rolling]] down her face.  ‘I [[concepts/hope|hope]] so, and father
+She nodded, with the [[motifs/tears|tears]] rolling down her face.  ‘I [[concepts/hope|hope]] so, and father
 said I was.  It was because he grew so scared and trembling, and because
 he felt himself to be a poor, weak, ignorant, helpless man (those used to
 be his words), that he wanted me so much to know a great deal, and be
@@ -2895,7 +2895,7 @@ purpose, and the whole an unnatural family, shouldering, and trampling,
 and pressing one another to [[motifs/death|death]]; in the last close nook of this great
 exhausted receiver, where the chimneys, for want of air to make a
 draught, were built in an immense variety of stunted and crooked shapes,
-as though every [[house]] put out a sign of the kind of people who might be
+as though every house put out a sign of the kind of people who might be
 expected to be born in it; among the multitude of Coketown, generically
 called ‘the Hands,’—a race who would have found more favour with some
 people, if [[concepts/providence|Providence]] had seen fit to make them only hands, or, like the
@@ -2925,7 +2925,7 @@ himself.
 
 The lights in the great factories, which looked, when they were
 illuminated, like Fairy palaces—or the travellers by express-train said
-so—were all extinguished; and [[The Bells|the bells]] had rung for knocking off for the
+so—were all extinguished; and the bells had rung for knocking off for the
 [[motifs/night|night]], and had ceased again; and the Hands, men and women, boy and girl,
 were clattering [[motifs/home|home]].  Old Stephen was standing in the street, with the
 old sensation upon him which the stoppage of the machinery always
@@ -3003,7 +3003,7 @@ bright good law!  Better than some real ones.’
 an anxious glance at his face.  ‘Let the laws be.’
 
 ‘Yes,’ he said, with a slow nod or two.  ‘Let ’em be.  Let everything be.
-Let all sorts [[Alone|alone]].  ’Tis a muddle, and that’s aw.’
+Let all sorts alone.  ’Tis a muddle, and that’s aw.’
 
 ‘Always a muddle?’ said Rachael, with another gentle touch upon his arm,
 as if to recall him out of the thoughtfulness, in which he was biting the
@@ -3033,7 +3033,7 @@ When she was lost to his view, he pursued his homeward way, glancing up
 sometimes at the sky, where the clouds were sailing fast and wildly.
 But, they were broken now, and the rain had ceased, and the [[motifs/moon|moon]]
 shone,—looking down the high chimneys of Coketown on the deep furnaces
-below, and casting [[titanic|Titanic]] shadows of the steam-engines at rest, upon the
+below, and casting Titanic shadows of the steam-engines at rest, upon the
 walls where they were lodged.  The man seemed to have brightened with the
 [[motifs/night|night]], as he went on.
 
@@ -3148,7 +3148,7 @@ pavements.  The looms, and wheels, and Hands all out of gear for an hour.
 Stephen came out of the hot mill into the damp [[motifs/wind|wind]] and cold wet streets,
 haggard and worn.  He turned from his own class and his own quarter,
 taking nothing but a little bread as he walked along, towards the [[motifs/hill|hill]] on
-which his principal employer lived, in a red [[house]] with black outside
+which his principal employer lived, in a red house with black outside
 shutters, green inside blinds, a black street door, up two white steps,
 BOUNDERBY (in letters very like himself) upon a brazen plate, and a round
 brazen door-handle underneath it, like a brazen full-stop.
@@ -3198,7 +3198,7 @@ before swallowing it, and putting out his left hand.  Then, withdrawing
 his hand and swallowing his mouthful of chop, he said to Stephen:
 
 ‘Now you know, this good lady is a born lady, a high lady.  You are not
-to suppose because she keeps my [[house]] for me, that she hasn’t been very
+to suppose because she keeps my house for me, that she hasn’t been very
 high up the tree—ah, up at the top of the tree!  Now, if you have got
 anything to say that can’t be said before a born lady, this lady will
 leave the room.  If what you have got to say _can_ be said before a born
@@ -3375,7 +3375,7 @@ money.’
 
 ‘Why, you’d have to go to Doctors’ Commons with a suit, and you’d have to
 go to a [[settings/court|court]] of Common Law with a suit, and you’d have to go to the
-[[house|House]] of Lords with a suit, and you’d have to get an Act of Parliament to
+House of Lords with a suit, and you’d have to get an Act of Parliament to
 enable you to marry again, and it would cost you (if it was a case of
 very plain sailing), I suppose from a thousand to fifteen hundred pound,’
 said Mr. Bounderby.  ‘Perhaps twice the money.’
@@ -3462,7 +3462,7 @@ concentrated look with which we are familiar in the countenances of the
 deaf—the better to hear what she asked him.
 
 ‘Pray, sir,’ said the old woman, ‘didn’t I see you come out of that
-gentleman’s [[house]]?’ pointing back to Mr. Bounderby’s.  ‘I believe it was
+gentleman’s house?’ pointing back to Mr. Bounderby’s.  ‘I believe it was
 you, unless I have had the bad luck to mistake the person in following?’
 
 ‘Yes, missus,’ returned Stephen, ‘it were me.’
@@ -3491,7 +3491,7 @@ remembrance in his mind, as if he had more than once dreamed of some old
 woman like her.
 
 She walked along at his side, and, gently accommodating himself to her
-[[Humour|humour]], he said Coketown was a busy place, was it not?  To which she
+humour, he said Coketown was a busy place, was it not?  To which she
 answered ‘Eigh sure!  Dreadful busy!’  Then he said, she came from the
 country, he saw?  To which she answered in the affirmative.
 
@@ -3605,7 +3605,7 @@ was exhausted—but he little knew or cared what; and he wandered about in
 the chill rain, thinking and thinking, and brooding and brooding.
 
 No word of a new [[motifs/marriage|marriage]] had ever passed between them; but Rachael had
-taken great pity on him years ago, and to her [[Alone|alone]] he had opened his
+taken great pity on him years ago, and to her alone he had opened his
 closed heart all this [[motifs/time|time]], on the subject of his miseries; and he knew
 very [[motifs/well|well]] that if he were free to ask her, she would take him.  He
 thought of the [[motifs/home|home]] he might at that moment have been seeking with
@@ -3725,7 +3725,7 @@ eyes, could read what was printed on it in large letters.  He turned of a
 deadly hue, and a sudden horror seemed to fall upon him.
 
 ‘I will stay here, Stephen,’ said Rachael, quietly resuming her seat,
-‘till [[The Bells|the bells]] go Three.  ’Tis to be done again at three, and then she
+‘till the bells go Three.  ’Tis to be done again at three, and then she
 may be left till morning.’
 
 ‘But thy rest agen to-morrow’s work, my dear.’
@@ -3781,7 +3781,7 @@ his head upon that hand, could look towards Rachael.  Seen across the dim
 candle with his moistened eyes, she looked as if she had a glory shining
 round her head.  He could have believed she had.  He did believe it, as
 the noise without shook the [[motifs/window|window]], rattled at the door below, and went
-about the [[house]] clamouring and lamenting.
+about the house clamouring and lamenting.
 
 ‘When she gets better, Stephen, ’tis to be hoped she’ll leave thee to
 thyself again, and do thee no more hurt.  Anyways we will [[concepts/hope|hope]] so now.
@@ -3830,7 +3830,7 @@ it stood, if he drew the curious from places where he knew it to be
 secreted, and got them out into the streets, the very chimneys of the
 mills assumed that shape, and round them was the printed word.
 
-The [[motifs/wind|wind]] was blowing again, the rain was beating on the [[house]]-tops, and
+The [[motifs/wind|wind]] was blowing again, the rain was beating on the house-tops, and
 the larger spaces through which he had strayed contracted to the four
 walls of his room.  Saving that the [[motifs/fire|fire]] had died out, it was as his eyes
 had closed upon it.  Rachael seemed to have fallen into a doze, in the
@@ -3890,7 +3890,7 @@ Stephen broke out of his chair.  ‘Rachael, am I wakin’ or dreamin’ this
 dreadfo’ [[motifs/night|night]]?’
 
 ‘’Tis all [[motifs/well|well]], Stephen.  I have been asleep, myself.  ’Tis near three.
-Hush!  I hear [[The Bells|the bells]].’
+Hush!  I hear the bells.’
 
 The [[motifs/wind|wind]] brought the sounds of the church [[motifs/clock|clock]] to the [[motifs/window|window]].  They
 listened, and it struck three.  Stephen looked at her, saw how pale she
@@ -3914,7 +3914,7 @@ going out into the [[motifs/wind|wind]] and rain.
 ‘No, Stephen.  ’Tis but a minute, and I’m [[motifs/home|home]].’
 
 ‘Thou’rt not fearfo’;’ he said it in a low voice, as they went out at the
-door; ‘to leave me [[Alone|alone]] wi’ her!’
+door; ‘to leave me alone wi’ her!’
 
 As she looked at him, saying, ‘Stephen?’ he went down on his knee before
 her, on the poor mean stairs, and put an end of her shawl to his lips.
@@ -3997,7 +3997,7 @@ it, and there he stood in a long-tailed coat and a stiff shirt-collar.
 to go to Bounderby.’
 
 [[motifs/time|Time]], sticking to him, passed him on into Bounderby’s Bank, made him an
-inmate of Bounderby’s [[house]], necessitated the purchase of his first
+inmate of Bounderby’s house, necessitated the purchase of his first
 razor, and exercised him diligently in his calculations relative to
 number one.
 
@@ -4105,7 +4105,7 @@ his kindest manner, and said:
 She answered with the old, quick, searching look of the [[motifs/night|night]] when she
 was found at the Circus; then cast down her eyes.  ‘Yes, father.’
 
-‘My dear,’ said Mr. Gradgrind, ‘I must speak with you [[Alone|alone]] and
+‘My dear,’ said Mr. Gradgrind, ‘I must speak with you alone and
 seriously.  Come to me in my room after breakfast to-morrow, will you?’
 
 ‘Yes, father.’
@@ -4183,7 +4183,7 @@ door, whence the fires of Coketown could be seen, making the distance
 lurid.  She stood there, looking steadfastly towards them, and listening
 to his departing steps.  They retreated quickly, as glad to get away from
 Stone Lodge; and she stood there yet, when he was gone and all was quiet.
-It seemed as if, first in her own [[motifs/fire|fire]] within the [[house]], and then in the
+It seemed as if, first in her own [[motifs/fire|fire]] within the house, and then in the
 fiery haze without, she tried to discover what kind of woof Old [[motifs/time|Time]],
 that greatest and longest-established Spinner of all, would weave from
 the threads he had already spun into a woman.  But his factory is a
@@ -4226,7 +4226,7 @@ together.  You have been so [[motifs/well|well]] trained, and you do, I am happy
 so much justice to the [[concepts/education|education]] you have received, that I have perfect
 confidence in your good sense.  You are not impulsive, you are not
 romantic, you are accustomed to view everything from the strong
-dispassionate ground of reason and calculation.  From that ground [[Alone|alone]],
+dispassionate ground of reason and calculation.  From that ground alone,
 I know you will view and consider what I am going to communicate.’
 
 He waited, as if he would have been glad that she said something.  But
@@ -4455,7 +4455,7 @@ careful of me, that I never had a [[archetypes/child|child]]’s heart.  You hav
 with me, father, from my cradle to this hour, that I never had a [[archetypes/child|child]]’s
 belief or a [[archetypes/child|child]]’s [[concepts/fear|fear]].’
 
-Mr. Gradgrind was quite moved by his [[success]], and by this testimony to
+Mr. Gradgrind was quite moved by his success, and by this testimony to
 it.  ‘My dear Louisa,’ said he, ‘you abundantly repay my care.  Kiss me,
 my dear girl.’
 
@@ -4548,7 +4548,7 @@ he took the precaution of stepping into a chemist’s shop and buying a
 bottle of the very strongest smelling-salts.  ‘By George!’ said Mr.
 Bounderby, ‘if she takes it in the fainting way, I’ll have the skin off
 her nose, at all events!’  But, in spite of being thus forearmed, he
-entered his own [[house]] with anything but a courageous air; and appeared
+entered his own house with anything but a courageous air; and appeared
 before the object of his misgivings, like a dog who was conscious of
 coming direct from the pantry.
 
@@ -4785,7 +4785,7 @@ always make quite so much smoke.  Besides Mr. Bounderby’s gold spoon
 which was generally received in Coketown, another prevalent fiction was
 very popular there.  It took the form of a threat.  Whenever a Coketowner
 felt he was ill-used—that is to say, whenever he was not left entirely
-[[Alone|alone]], and it was proposed to hold him accountable for the consequences
+alone, and it was proposed to hold him accountable for the consequences
 of any of his acts—he was sure to come out with the awful menace, that he
 would ‘sooner pitch his property into the Atlantic.’  This had terrified
 the [[motifs/home|Home]] Secretary within an inch of his life, on several occasions.
@@ -4839,10 +4839,10 @@ Victim.  He had been married now a year; and Mrs. Sparsit had never
 released him from her determined pity a moment.
 
 The Bank offered no violence to the wholesome monotony of the town.  It
-was another red brick [[house]], with black outside shutters, green inside
+was another red brick house, with black outside shutters, green inside
 blinds, a black street-door up two white steps, a brazen door-plate, and
 a brazen door-handle full stop.  It was a size larger than Mr.
-Bounderby’s [[house]], as other houses were from a size to half-a-dozen sizes
+Bounderby’s house, as other houses were from a size to half-a-dozen sizes
 smaller; in all other particulars, it was strictly according to pattern.
 
 Mrs. Sparsit was conscious that by coming in the evening-tide among the
@@ -5009,7 +5009,7 @@ have received every acknowledgment of my social station, and every
 recognition of my family descent, that I could possibly expect.  More,
 far more.  Therefore, to my patron I will be scrupulously true.  And I do
 not consider, I will not consider, I cannot consider,’ said Mrs. Sparsit,
-with a most extensive stock on hand of [[concepts/honour|honour]] and [[morality]], ‘that I
+with a most extensive stock on hand of [[concepts/honour|honour]] and morality, ‘that I
 _should_ be scrupulously true, if I allowed names to be mentioned under
 this roof, that are unfortunately—most unfortunately—no [[concepts/doubt|doubt]] of
 that—connected with his.’
@@ -5311,10 +5311,10 @@ whether it was that her hand was out, she did no work that [[motifs/night|night]
 sat at the [[motifs/window|window]], when the sun began to sink behind the smoke; she sat
 there, when the smoke was burning red, when the colour faded from it,
 when darkness seemed to rise slowly out of the ground, and creep upward,
-upward, up to the [[house]]-tops, up the church steeple, up to the summits of
+upward, up to the house-tops, up the church steeple, up to the summits of
 the factory chimneys, up to the sky.  Without a candle in the room, Mrs.
 Sparsit sat at the [[motifs/window|window]], with her hands before her, not thinking much
-of the sounds of evening; the whooping of boys, the barking of [[dogs]], the
+of the sounds of evening; the whooping of boys, the barking of dogs, the
 rumbling of wheels, the steps and voices of passengers, the shrill street
 cries, the clogs upon the pavement when it was their hour for going by,
 the shutting-up of shop-shutters.  Not until the light porter announced
@@ -5322,7 +5322,7 @@ that her nocturnal sweetbread was ready, did Mrs. Sparsit arouse herself
 from her reverie, and convey her dense black eyebrows—by that [[motifs/time|time]]
 creased with meditation, as if they needed ironing out-up-stairs.
 
-‘O, you [[archetypes/fool|Fool]]!’ said Mrs. Sparsit, when she was [[Alone|alone]] at her supper.  Whom
+‘O, you [[archetypes/fool|Fool]]!’ said Mrs. Sparsit, when she was alone at her supper.  Whom
 she meant, she did not say; but she could scarcely have meant the
 sweetbread.
 
@@ -5344,14 +5344,14 @@ everything to be worth nothing, were equally ready for anything?
 Moreover, the healthy spirits who had mounted to this [[concepts/sublime|sublime]] height were
 attractive to many of the Gradgrind school.  They liked fine gentlemen;
 they pretended that they did not, but they did.  They became exhausted in
-[[Imitation|imitation]] of them; and they yaw-yawed in their speech like them; and they
+imitation of them; and they yaw-yawed in their speech like them; and they
 served out, with an enervated air, the little mouldy rations of political
 economy, on which they regaled their disciples.  There never before was
 seen on earth such a wonderful hybrid race as was thus produced.
 
 Among the fine gentlemen not regularly belonging to the Gradgrind school,
 there was one of a good family and a better appearance, with a happy turn
-of [[Humour|humour]] which had told immensely with the [[house|House]] of Commons on the
+of humour which had told immensely with the House of Commons on the
 occasion of his entertaining it with his (and the Board of Directors)
 view of a railway accident, in which the most careful officers ever
 known, employed by the most liberal managers ever heard of, assisted by
@@ -5360,8 +5360,8 @@ the best line ever constructed, had killed five people and wounded
 thirty-two, by a casualty without which the excellence of the whole
 system would have been positively incomplete.  Among the slain was a cow,
 and among the scattered articles unowned, a widow’s cap.  And the
-honourable member had so tickled the [[house|House]] (which has a delicate sense of
-[[Humour|humour]]) by putting the cap on the cow, that it became impatient of any
+honourable member had so tickled the House (which has a delicate sense of
+humour) by putting the cap on the cow, that it became impatient of any
 serious reference to the Coroner’s Inquest, and brought the railway off
 with Cheers and Laughter.
 
@@ -5484,10 +5484,10 @@ in manner.  Her features were handsome; but their natural play was so
 locked up, that it seemed impossible to guess at their genuine
 expression.  Utterly indifferent, perfectly [[concepts/self|self]]-reliant, never at a
 loss, and yet never at her ease, with her figure in company with them
-there, and her mind apparently quite [[Alone|alone]]—it was of no use ‘going in’
+there, and her mind apparently quite alone—it was of no use ‘going in’
 yet awhile to comprehend this girl, for she baffled all penetration.
 
-From the mistress of the [[house]], the visitor glanced to the [[house]] itself.
+From the mistress of the house, the visitor glanced to the house itself.
 There was no mute sign of a woman in the room.  No graceful little
 adornment, no fanciful little device, however trivial, anywhere expressed
 her influence.  Cheerless and comfortless, boastfully and doggedly rich,
@@ -5869,7 +5869,7 @@ though.  I say.  Yours is very good tobacco.  But it’s too mild.’
 
 He had another odd dream of being taken by a waiter through a mist,
 which, after giving him some trouble and difficulty, resolved itself into
-the main street, in which he stood [[Alone|alone]].  He then walked [[motifs/home|home]] pretty
+the main street, in which he stood alone.  He then walked [[motifs/home|home]] pretty
 easily, though not yet free from an impression of the presence and
 influence of his new friend—as if he were lounging somewhere in the air,
 in the same negligent attitude, regarding him with the same look.
@@ -6162,7 +6162,7 @@ although he knew that the prohibition did not yet formally extend to the
 women working in the factories, he found that some of them with whom he
 was acquainted were changed to him, and he feared to try others, and
 dreaded that Rachael might be even singled out from the rest if she were
-seen in his company.  So, he had been quite [[Alone|alone]] during the four days,
+seen in his company.  So, he had been quite alone during the four days,
 and had spoken to no one, when, as he was leaving his work at [[motifs/night|night]], a
 young man of a very light complexion accosted him in the street.
 
@@ -6178,7 +6178,7 @@ very light young man in question.
 Stephen answered ‘Yes,’ again.
 
 ‘I supposed so, from their all appearing to keep away from you.  Mr.
-Bounderby wants to speak to you.  You know his [[house]], don’t you?’
+Bounderby wants to speak to you.  You know his house, don’t you?’
 
 Stephen said ‘Yes,’ again.
 
@@ -6427,8 +6427,8 @@ could, above my powers—but I can tell him what I know will never do ’t.
 The strong hand will never do ’t.  Vict’ry and triumph will never do ’t.
 Agreeing fur to mak one side unnat’rally awlus and for ever right, and
 toother side unnat’rally awlus and for ever wrong, will never, never do
-’t.  Nor yet lettin [[Alone|alone]] will never do ’t.  Let thousands upon thousands
-[[Alone|alone]], aw leading the like lives and aw faw’en into the like muddle, and
+’t.  Nor yet lettin alone will never do ’t.  Let thousands upon thousands
+alone, aw leading the like lives and aw faw’en into the like muddle, and
 they will be as one, and yo will be as anoother, wi’ a black unpassable
 world betwixt yo, just as long or short a [[motifs/time|time]] as sich-like misery can
 last.  Not drawin nigh to fok, wi’ kindness and patience an’ cheery ways,
@@ -6491,11 +6491,11 @@ CHAPTER VI
 FADING AWAY
 
 
-IT was falling dark when Stephen came out of Mr. Bounderby’s [[house]].  The
+IT was falling dark when Stephen came out of Mr. Bounderby’s house.  The
 shadows of [[motifs/night|night]] had gathered so fast, that he did not look about him
 when he closed the door, but plodded straight along the street.  Nothing
 was further from his thoughts than the curious old woman he had
-encountered on his previous visit to the same [[house]], when he heard a step
+encountered on his previous visit to the same house, when he heard a step
 behind him that he knew, and turning, saw her in Rachael’s company.
 
 He saw Rachael first, as he had heard her only.
@@ -6514,13 +6514,13 @@ visiting [[motifs/time|time]] is later this year than usual, for I have been rat
 troubled with shortness of breath, and so put it off till the weather was
 fine and warm.  For the same reason I don’t make all my [[motifs/journey|journey]] in one
 day, but divide it into two days, and get a bed to-[[motifs/night|night]] at the
-Travellers’ Coffee [[house|House]] down by the railroad (a nice clean [[house]]), and
+Travellers’ Coffee House down by the railroad (a nice clean house), and
 go back Parliamentary, at six in the morning.  [[motifs/well|Well]], but what has this to
 do with this good lass, says you?  I’m going to tell you.  I have heard
 of Mr. Bounderby being married.  I read it in the paper, where it looked
 grand—oh, it looked fine!’ the old woman dwelt on it with strange
 enthusiasm: ‘and I want to see his wife.  I have never seen her yet.
-Now, if you’ll believe me, she hasn’t come out of that [[house]] since [[motifs/noon|noon]]
+Now, if you’ll believe me, she hasn’t come out of that house since [[motifs/noon|noon]]
 to-day.  So not to give her up too easily, I was waiting about, a little
 last bit more, when I passed close to this good lass two or three times;
 and her face being so friendly I spoke to her, and she spoke to me.
@@ -6594,7 +6594,7 @@ Rachael will coom then; and arterwards I’ll see thee safe t’ thy
 Travellers’ lodgin.  ’T may be long, Rachael, ere ever I ha th’ chance o’
 thy coompany agen.’
 
-They complied, and the three went on to the [[house]] where he lodged.  When
+They complied, and the three went on to the house where he lodged.  When
 they turned into a narrow street, Stephen glanced at his [[motifs/window|window]] with a
 dread that always haunted his desolate [[motifs/home|home]]; but it was open, as he had
 left it, and no one was there.  The evil spirit of his life had flitted
@@ -6891,7 +6891,7 @@ return by chance, or anybody else should come, that her cheerfulness was
 ended for that [[motifs/night|night]].  It was late too, to people who [[motifs/rose|rose]] early and
 worked hard; therefore the party broke up; and Stephen and Rachael
 escorted their mysterious acquaintance to the door of the Travellers’
-Coffee [[house|House]], where they parted from her.
+Coffee House, where they parted from her.
 
 They walked back together to the corner of the street where Rachael
 lived, and as they drew nearer and nearer to it, [[motifs/silence|silence]] crept upon them.
@@ -6932,7 +6932,7 @@ skeletons of schoolmasters, Commissioners of Fact, genteel and used-up
 infidels, gabblers of many little dog’s-eared creeds, the poor you will
 have always with you.  Cultivate in them, while there is yet [[motifs/time|time]], the
 utmost graces of the fancies and affections, to adorn their lives so much
-in need of ornament; or, in the day of your triumph, when [[Romance|romance]] is
+in need of ornament; or, in the day of your triumph, when romance is
 utterly driven out of their souls, and they and a bare existence stand
 face to face, Reality will take a wolfish turn, and make an end of you.
 
@@ -6946,7 +6946,7 @@ two first evenings; and nothing had happened there, good or bad.  That he
 might not be remiss in his part of the engagement, he resolved to wait
 full two hours, on this third and last [[motifs/night|night]].
 
-There was the lady who had once kept Mr. Bounderby’s [[house]], sitting at
+There was the lady who had once kept Mr. Bounderby’s house, sitting at
 the first-floor [[motifs/window|window]] as he had seen her before; and there was the light
 porter, sometimes talking with her there, and sometimes looking over the
 blind below which had BANK upon it, and sometimes coming to the door and
@@ -6997,7 +6997,7 @@ were sprinkled with a dirty powder, like untidy snuff-takers; by
 coal-[[motifs/dust|dust]] paths and many varieties of ugliness; Stephen got to the top of
 the [[motifs/hill|hill]], and looked back.
 
-Day was shining radiantly upon the town then, and [[The Bells|the bells]] were going
+Day was shining radiantly upon the town then, and the bells were going
 for the morning work.  Domestic fires were not yet lighted, and the high
 chimneys had the sky to themselves.  Puffing out their poisonous volumes,
 they would not be long in hiding it; but, for half an hour, some of the
@@ -7043,7 +7043,7 @@ startle her.  Where was the great difference between the two schools,
 when each chained her down to material realities, and inspired her with
 no [[concepts/faith|faith]] in anything else?  What was there in her [[motifs/soul|soul]] for James
 Harthouse to destroy, which [[characters/thomas-gradgrind|Thomas Gradgrind]] had nurtured there in its
-state of [[innocence]]!
+state of innocence!
 
 It was even the worse for her at this pass, that in her mind—implanted
 there before her eminently practical father began to form it—a struggling
@@ -7052,7 +7052,7 @@ heard of, constantly strove with doubts and resentments.  With doubts,
 because the [[concepts/aspiration|aspiration]] had been so laid waste in her youth.  With
 resentments, because of the wrong that had been done her, if it were
 indeed a whisper of the [[concepts/truth|truth]].  Upon a [[concepts/nature|nature]] long accustomed to
-[[concepts/self|self]]-suppression, thus torn and divided, the Harthouse [[philosophy]] came as
+[[concepts/self|self]]-suppression, thus torn and divided, the Harthouse philosophy came as
 a relief and justification.  Everything being hollow and worthless, she
 had missed nothing and sacrificed nothing.  What did it matter, she had
 said to her father, when he proposed her husband.  What did it matter,
@@ -7070,7 +7070,7 @@ he languidly wrote to his brother, the honourable and jocular member,
 that the Bounderbys were ‘great fun;’ and further, that the female
 Bounderby, instead of being the Gorgon he had expected, was young, and
 remarkably pretty.  After that, he wrote no more about them, and devoted
-his leisure chiefly to their [[house]].  He was very often in their [[house]], in
+his leisure chiefly to their house.  He was very often in their house, in
 his flittings and visitings about the Coketown district; and was much
 encouraged by Mr. Bounderby.  It was quite in Mr. Bounderby’s gusty way
 to boast to all his world that _he_ didn’t care about your highly
@@ -7087,7 +7087,7 @@ better and profounder part of her character was not within his scope of
 perception; for in natures, as in seas, depth answers unto depth; but he
 soon began to read the rest with a student’s eye.
 
-Mr. Bounderby had taken possession of a [[house]] and grounds, about fifteen
+Mr. Bounderby had taken possession of a house and grounds, about fifteen
 miles from the town, and accessible within a mile or two, by a railway
 striding on many arches over a wild country, undermined by deserted
 coal-shafts, and spotted at [[motifs/night|night]] by fires and black shapes of stationary
@@ -7150,10 +7150,10 @@ It was among the leafy shadows of this retirement, in the long sultry
 wondering when he first saw it, and to try if it would change for him.
 
 ‘Mrs. Bounderby, I esteem it a most fortunate accident that I find you
-[[Alone|alone]] here.  I have for some [[motifs/time|time]] had a particular wish to speak to you.’
+alone here.  I have for some [[motifs/time|time]] had a particular wish to speak to you.’
 
 It was not by any wonderful accident that he found her, the [[motifs/time|time]] of day
-being that at which she was always [[Alone|alone]], and the place being her
+being that at which she was always alone, and the place being her
 favourite resort.  It was an opening in a dark wood, where some felled
 trees lay, and where she would sit watching the fallen [[motifs/leaves|leaves]] of last
 year, as she had watched the falling ashes at [[motifs/home|home]].
@@ -7191,7 +7191,7 @@ incredulously and half gratefully.
 
 ‘If you had asked me when I first came here, I should have said no.  I
 must say now—even at the hazard of appearing to make a pretence, and of
-justly awakening your [[Incredulity|incredulity]]—yes.’
+justly awakening your incredulity—yes.’
 
 She made a slight movement, as if she were trying to speak, but could not
 find voice; at length she said, ‘Mr. Harthouse, I give you credit for
@@ -7333,7 +7333,7 @@ not being more sensible in every word, look, and act of his life, of the
 affection of his best friend; of the devotion of his best friend; of her
 unselfishness; of her sacrifice.  The return he makes her, within my
 observation, is a very poor one.  What she has done for him demands his
-constant [[motifs/love|love]] and gratitude, not his ill-[[Humour|humour]] and caprice.  Careless
+constant [[motifs/love|love]] and gratitude, not his ill-humour and caprice.  Careless
 fellow as I am, I am not so indifferent, Mrs. Bounderby, as to be
 regardless of this vice in your brother, or inclined to consider it a
 venial offence.’
@@ -7374,7 +7374,7 @@ pastime, and his colour changed.
 ‘Halloa!’ he stammered; ‘I didn’t know you were here.’
 
 ‘Whose name, Tom,’ said Mr. Harthouse, putting his hand upon his shoulder
-and turning him, so that they all three walked towards the [[house]]
+and turning him, so that they all three walked towards the house
 together, ‘have you been carving on the trees?’
 
 ‘Whose name?’ returned Tom.  ‘Oh!  You mean what girl’s name?’
@@ -7411,7 +7411,7 @@ the contrary, and I should do it again, if I had as good reason.
 However, never mind this now; it’s not very interesting to you, and I am
 sick of the subject.’
 
-They walked on to the [[house]], where Louisa quitted her visitor’s arm and
+They walked on to the house, where Louisa quitted her visitor’s arm and
 went in.  He stood looking after her, as she ascended the steps, and
 passed into the [[archetypes/shadow|shadow]] of the door; then put his hand upon her brother’s
 shoulder again, and invited him with a confidential nod to a walk in the
@@ -7605,7 +7605,7 @@ interest for him again.
 He got through the day as much (or as little) to his own satisfaction, as
 was to be expected under the fatiguing circumstances; and came riding
 back at six o’[[motifs/clock|clock]].  There was a sweep of some half-mile between the
-lodge and the [[house]], and he was riding along at a foot pace over the
+lodge and the house, and he was riding along at a foot pace over the
 smooth gravel, once Nickits’s, when Mr. Bounderby burst out of the
 shrubbery, with such violence as to make his [[motifs/horse|horse]] shy across the [[motifs/road|road]].
 
@@ -7726,7 +7726,7 @@ testimony.’
 
 ‘[[motifs/well|Well]]!’ said the exasperated Bounderby, ‘while he was snoring, _or_
 choking, _or_ Dutch-clocking, _or_ something _or_ other—being asleep—some
-fellows, somehow, whether previously concealed in the [[house]] or not
+fellows, somehow, whether previously concealed in the house or not
 remains to be seen, got to young Tom’s safe, forced it, and abstracted
 the contents.  Being then disturbed, they made off; letting themselves
 out at the main door, and [[topoi/double|double]]-locking it again (it was [[topoi/double|double]]-locked,
@@ -7764,7 +7764,7 @@ say to;’ here he violently exploded: ‘to a Hand being in it?’
 
 ‘Say Pool instead of Pot, sir,’ returned Bounderby, ‘and that’s the man.’
 
-Louisa faintly uttered some word of [[Incredulity|incredulity]] and surprise.
+Louisa faintly uttered some word of incredulity and surprise.
 
 ‘O yes!  I know!’ said Bounderby, immediately catching at the sound.  ‘I
 know!  I am used to that.  I know all about it.  They are the finest
@@ -7778,7 +7778,7 @@ taken to disseminate—and which some people really believed.
 
 ‘But I am acquainted with these chaps,’ said Bounderby.  ‘I can read ’em
 off, like books.  Mrs. Sparsit, ma’am, I appeal to you.  What warning did
-I give that fellow, the first [[motifs/time|time]] he set foot in the [[house]], when the
+I give that fellow, the first [[motifs/time|time]] he set foot in the house, when the
 express object of his visit was to know how he could knock Religion over,
 and floor the Established Church?  Mrs. Sparsit, in point of high
 connexions, you are on a level with the aristocracy,—did I say, or did I
@@ -7952,7 +7952,7 @@ the sort of thing you want, and ought to take, sir.’  And when Mr.
 Bounderby said, ‘Your health, ma’am!’ she answered with great feeling,
 ‘Thank you, sir.  The same to you, and happiness also.’  Finally, she
 wished him good [[motifs/night|night]], with great pathos; and Mr. Bounderby went to bed,
-with a maudlin [[Persuasion|persuasion]] that he had been crossed in something tender,
+with a maudlin persuasion that he had been crossed in something tender,
 though he could not, for his life, have mentioned what it was.
 
 Long after Louisa had undressed and lain down, she watched and waited for
@@ -7990,7 +7990,7 @@ me the [[concepts/truth|truth]]!’
 
 ‘I don’t know what you mean, Loo!’
 
-‘As you lie here [[Alone|alone]], my dear, in the [[concepts/melancholy|melancholy]] [[motifs/night|night]], so you must lie
+‘As you lie here alone, my dear, in the [[concepts/melancholy|melancholy]] [[motifs/night|night]], so you must lie
 somewhere one [[motifs/night|night]], when even I, if I am living then, shall have left
 you.  As I am here beside you, barefoot, unclothed, undistinguishable in
 darkness, so must I lie through all the [[motifs/night|night]] of my [[motifs/decay|decay]], until I am
@@ -8117,7 +8117,7 @@ stirrup, was so perfectly serene, that most observers would have been
 constrained to suppose her a dove, embodied by some freak of [[concepts/nature|nature]], in
 the earthly tabernacle of a bird of the hook-beaked order.
 
-She was a most wonderful woman for prowling about the [[house]].  How she got
+She was a most wonderful woman for prowling about the house.  How she got
 from story to story was a mystery beyond solution.  A lady so decorous in
 herself, and so highly connected, was not to be suspected of dropping
 over the banisters or sliding down them, yet her extraordinary facility
@@ -8263,11 +8263,11 @@ that she could not retrace them if she tried.  But whether she ever tried
 or no, lay hidden in her own closed heart.
 
 Mrs. Sparsit was so much affected on this particular occasion, that,
-assisting Mr. Bounderby to his hat after breakfast, and being then [[Alone|alone]]
+assisting Mr. Bounderby to his hat after breakfast, and being then alone
 with him in the hall, she imprinted a chaste kiss upon his hand, murmured
 ‘My benefactor!’ and retired, overwhelmed with grief.  Yet it is an
 indubitable fact, within the cognizance of this [[concepts/history|history]], that five
-minutes after he had left the [[house]] in the [[concepts/self|self]]-same hat, the same
+minutes after he had left the house in the [[concepts/self|self]]-same hat, the same
 descendant of the Scadgerses and connexion by matrimony of the Powlers,
 shook her right-hand mitten at his portrait, made a contemptuous grimace
 at that work of art, and said ‘Serve you right, you Noodle, and I am glad
@@ -8327,7 +8327,7 @@ the land where grapes are gathered from thorns, and figs from thistles.
 <span class="atom-split" data-atom="chapter_62--part_03" data-title="Hard Times — Chapter 9 (part 3)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/cross,motif/home,motif/night,motif/pain,motif/time,motif/water,motif/well,concept/hope,concept/truth,character/bottom"></span>
 
 
-She went, with a heavy, hardened kind of sorrow upon her, into the [[house]]
+She went, with a heavy, hardened kind of sorrow upon her, into the house
 and into her mother’s room.  Since the [[motifs/time|time]] of her leaving [[motifs/home|home]], Sissy
 had lived with the rest of the family on equal terms.  Sissy was at her
 mother’s side; and Jane, her sister, now ten or twelve years old, was in
@@ -8386,7 +8386,7 @@ of this approach.
 
 ‘Eh!  Yes, I always say so,’ Mrs. Gradgrind cried, with unexpected
 quickness.  ‘And that reminds me.  I—I want to speak to you, my dear.
-Sissy, my good girl, leave us [[Alone|alone]] a minute.’ Louisa had relinquished
+Sissy, my good girl, leave us alone a minute.’ Louisa had relinquished
 the hand: had thought that her sister’s was a better and brighter face
 than hers had ever been: had seen in it, not without a rising feeling of
 resentment, even in that place and at that [[motifs/time|time]], something of the
@@ -8394,7 +8394,7 @@ gentleness of the other face in the room; the sweet face with the
 trusting eyes, made paler than watching and sympathy made it, by the rich
 dark hair.
 
-Left [[Alone|alone]] with her mother, Louisa saw her lying with an awful lull upon
+Left alone with her mother, Louisa saw her lying with an awful lull upon
 her face, like one who was floating away upon some great [[motifs/water|water]], all
 resistance over, content to be carried down the stream.  She put the
 [[archetypes/shadow|shadow]] of a hand to her lips again, and recalled her.
@@ -8417,7 +8417,7 @@ connexion.
 
 ‘You learnt a great deal, Louisa, and so did your brother.  Ologies of
 all kinds from morning to [[motifs/night|night]].  If there is any Ology left, of any
-description, that has not been worn to rags in this [[house]], all I can say
+description, that has not been worn to rags in this house, all I can say
 is, I [[concepts/hope|hope]] I shall never hear its name.’
 
 ‘I can hear you, mother, when you have strength to go on.’  This, to keep
@@ -8473,7 +8473,7 @@ sweetbreads in [[concepts/solitude|solitude]], he said to her at the dinner-tabl
 before her departure, ‘I tell you what, ma’am; you shall come down here
 of a Saturday, while the fine weather lasts, and stay till Monday.’  To
 which Mrs. Sparsit returned, in effect, though not of the Mahomedan
-[[Persuasion|persuasion]]: ‘To hear is to obey.’
+persuasion: ‘To hear is to obey.’
 
 Now, Mrs. Sparsit was not a poetical woman; but she took an idea in the
 [[concepts/nature|nature]] of an allegorical fancy, into her head.  Much watching of Louisa,
@@ -8575,14 +8575,14 @@ your devoted friend, who knows something of several varieties of his
 excellent fellow-creatures—for excellent they are, I am quite ready to
 believe, in spite of such little foibles as always helping themselves to
 what they can get hold of.  This fellow talks.  [[motifs/well|Well]]; every fellow talks.
-He professes [[morality]].  [[motifs/well|Well]]; all sorts of humbugs profess [[morality]].
-From the [[house|House]] of Commons to the [[house|House]] of Correction, there is a general
-profession of [[morality]], except among our people; it really is that
+He professes morality.  [[motifs/well|Well]]; all sorts of humbugs profess morality.
+From the House of Commons to the House of Correction, there is a general
+profession of morality, except among our people; it really is that
 exception which makes our people quite reviving.  You saw and heard the
 case.  Here was one of the fluffy classes pulled up extremely short by my
 esteemed friend Mr. Bounderby—who, as we know, is not possessed of that
 delicacy which would soften so tight a hand.  The member of the fluffy
-classes was injured, exasperated, left the [[house]] grumbling, met somebody
+classes was injured, exasperated, left the house grumbling, met somebody
 who proposed to him to go in for some share in this Bank business, went
 in, put something in his pocket which had nothing in it before, and
 relieved his mind extremely.  Really he would have been an uncommon,
@@ -8648,7 +8648,7 @@ parliamentary duties.
 
 In the meantime, Mrs. Sparsit kept unwinking watch and ward.  Separated
 from her staircase, all the week, by the length of iron [[motifs/road|road]] dividing
-Coketown from the country [[house]], she yet maintained her cat-like
+Coketown from the country house, she yet maintained her cat-like
 observation of Louisa, through her husband, through her brother, through
 [[characters/james-harthouse|James Harthouse]], through the outsides of letters and packets, through
 everything animate and inanimate that at any [[motifs/time|time]] went near the stairs.
@@ -8684,7 +8684,7 @@ feeling sure that it will be quite so agreeable to Miss Gradgrind to
 receive me, as it ever is to your own munificent hospitality.  But you
 shall say no more, sir.  I will go, upon your invitation.’
 
-‘Why, when I invite you to my [[house]], ma’am,’ said Bounderby, opening his
+‘Why, when I invite you to my house, ma’am,’ said Bounderby, opening his
 eyes, ‘I should [[concepts/hope|hope]] you want no other invitation.’
 
 ‘No, indeed, sir,’ returned Mrs. Sparsit, ‘I should [[concepts/hope|hope]] not.  Say no
@@ -8741,7 +8741,7 @@ Tom?’
 
 ‘I have got an appointment with him to meet him in the evening at the
 station here,’ said Tom, ‘and I am going to dine with him afterwards, I
-believe.  He is not coming down to the country [[house]] for a week or so,
+believe.  He is not coming down to the country house for a week or so,
 being due somewhere else.  At least, he says so; but I shouldn’t [[concepts/wonder|wonder]]
 if he was to stop here over [[characters/sunday|Sunday]], and stray that way.’
 
@@ -8793,7 +8793,7 @@ starting from the dull office [[motifs/window|window]] whence she had watched hi
 ‘Harthouse is with his sister now!’
 
 It was the conception of an inspired moment, and she shot off with her
-utmost swiftness to work it out.  The station for the country [[house]] was
+utmost swiftness to work it out.  The station for the country house was
 at the opposite end of the town, the [[motifs/time|time]] was short, the [[motifs/road|road]] not easy;
 but she was so quick in pouncing on a disengaged coach, so quick in
 darting out of it, producing her money, seizing her ticket, and diving
@@ -8816,7 +8816,7 @@ crossing and recrossing her, and the reek of her own tread in the thick
 [[motifs/dust|dust]] that felt like velvet, were all Mrs. Sparsit heard or saw until she
 very softly closed a gate.
 
-She went up to the [[house]], keeping within the shrubbery, and went round
+She went up to the house, keeping within the shrubbery, and went round
 it, peeping between the [[motifs/leaves|leaves]] at the lower windows.  Most of them were
 open, as they usually were in such warm weather, but there were no lights
 yet, and all was silent.  She tried the [[motifs/garden|garden]] with no better effect.
@@ -8841,11 +8841,11 @@ Bending low among the dewy grass, Mrs. Sparsit advanced closer to them.
 She drew herself up, and stood behind a tree, like Robinson Crusoe in his
 ambuscade against the savages; so near to them that at a [[motifs/spring|spring]], and that
 no great one, she could have touched them both.  He was there secretly,
-and had not shown himself at the [[house]].  He had come on horseback, and
+and had not shown himself at the house.  He had come on horseback, and
 must have passed through the neighbouring fields; for his [[motifs/horse|horse]] was tied
 to the meadow side of the fence, within a few paces.
 
-‘My dearest [[motifs/love|love]],’ said he, ‘what could I do?  Knowing you were [[Alone|alone]],
+‘My dearest [[motifs/love|love]],’ said he, ‘what could I do?  Knowing you were alone,
 was it possible that I could stay away?’
 
 ‘You may hang your head, to make yourself the more attractive; _I_ don’t
@@ -8882,7 +8882,7 @@ They both started.  The listener started, guiltily, too; for she thought
 there was another listener among the trees.  It was only rain, beginning
 to fall fast, in heavy drops.
 
-‘Shall I ride up to the [[house]] a few minutes hence, innocently supposing
+‘Shall I ride up to the house a few minutes hence, innocently supposing
 that its master is at [[motifs/home|home]] and will be charmed to receive me?’
 
 
@@ -8904,7 +8904,7 @@ Mrs. Sparsit saw him detain her with his encircling arm, and heard him
 then and there, within her (Mrs. Sparsit’s) greedy hearing, tell her how
 he loved her, and how she was the stake for which he ardently desired to
 play away all that he had in life.  The objects he had lately pursued,
-turned worthless beside her; such [[success]] as was almost in his grasp, he
+turned worthless beside her; such success as was almost in his grasp, he
 flung away from him like the dirt it was, compared with her.  Its
 pursuit, nevertheless, if it kept him near her, or its [[concepts/renunciation|renunciation]] if it
 took him from her, or flight if she shared it, or secrecy if she
@@ -8915,7 +8915,7 @@ which he had thought himself incapable, whom she had received into her
 confidence, who was devoted to her and adored her.  All this, and more,
 in his hurry, and in hers, in the whirl of her own gratified malice, in
 the dread of being discovered, in the rapidly increasing noise of heavy
-rain among the [[motifs/leaves|leaves]], and a thunderstorm [[rolling]] up—Mrs. Sparsit
+rain among the [[motifs/leaves|leaves]], and a thunderstorm rolling up—Mrs. Sparsit
 received into her mind, set off with such an unavoidable halo of
 confusion and indistinctness, that when at length he climbed the fence
 and led his [[motifs/horse|horse]] away, she was not sure where they were to meet, or
@@ -8925,7 +8925,7 @@ But one of them yet remained in the darkness before her; and while she
 tracked that one she must be right.  ‘Oh, my dearest [[motifs/love|love]],’ thought Mrs.
 Sparsit, ‘you little think how [[motifs/well|well]] attended you are!’
 
-Mrs. Sparsit saw her out of the wood, and saw her enter the [[house]].  What
+Mrs. Sparsit saw her out of the wood, and saw her enter the house.  What
 to do next?  It rained now, in a sheet of [[motifs/water|water]].  Mrs. Sparsit’s white
 stockings were of many colours, green predominating; prickly things were
 in her shoes; caterpillars slung themselves, in hammocks of their own
@@ -8933,7 +8933,7 @@ making, from various parts of her dress; rills ran from her bonnet, and
 her Roman nose.  In such condition, Mrs. Sparsit stood hidden in the
 density of the shrubbery, considering what next?
 
-Lo, Louisa coming out of the [[house]]!  Hastily cloaked and muffled, and
+Lo, Louisa coming out of the house!  Hastily cloaked and muffled, and
 stealing away.  She elopes!  She falls from the lowermost stair, and is
 swallowed up in the gulf.
 
@@ -9019,8 +9019,8 @@ sometimes, as if he were rather remonstrating with the elements.  When it
 thundered very loudly, he glanced towards Coketown, having it in his mind
 that some of the tall chimneys might be struck by [[motifs/lightning|lightning]].
 
-The thunder was [[rolling]] into distance, and the rain was pouring down like
-a [[deluge]], when the door of his room opened.  He looked round the lamp
+The thunder was rolling into distance, and the rain was pouring down like
+a deluge, when the door of his room opened.  He looked round the lamp
 upon his table, and saw, with amazement, his eldest daughter.
 
 ‘Louisa!’
@@ -9057,7 +9057,7 @@ bloomed once, in this great wilderness here!’
 
 She struck herself with both her hands upon her bosom.
 
-‘If it had ever been here, its ashes [[Alone|alone]] would save me from the void in
+‘If it had ever been here, its ashes alone would save me from the void in
 which my whole life sinks.  I did not mean to say this; but, father, you
 remember the last [[motifs/time|time]] we conversed in this room?’
 
@@ -9183,7 +9183,7 @@ feelings long suppressed broke loose.
 himself my [[archetypes/lover|lover]].  This minute he expects me, for I could release myself
 of his presence by no other means.  I do not know that I am sorry, I do
 not know that I am ashamed, I do not know that I am degraded in my own
-esteem.  All that I know is, your [[philosophy]] and your teaching will not
+esteem.  All that I know is, your philosophy and your teaching will not
 save me.  Now, father, you have brought me to this.  Save me by some
 other means!’
 
@@ -9212,7 +9212,7 @@ ANOTHER THING NEEDFUL
 LOUISA awoke from a torpor, and her eyes languidly opened on her old bed
 at [[motifs/home|home]], and her old room.  It seemed, at first, as if all that had
 happened since the days when these objects were familiar to her were the
-shadows of [[A Dream|a dream]], but gradually, as the objects became more real to her
+shadows of a dream, but gradually, as the objects became more real to her
 sight, the events became more real to her mind.
 
 She could scarcely move her head for [[motifs/pain|pain]] and heaviness, her eyes were
@@ -9235,7 +9235,7 @@ hand, before she asked:
 
 ‘Because I found her here this morning.  She didn’t come to my bedside to
 wake me, as she always does; and I went to look for her.  She was not in
-her own room either; and I went looking for her all over the [[house]], until
+her own room either; and I went looking for her all over the house, until
 I found her here taking care of you and cooling your head.  Will you see
 father? Sissy said I was to tell him when you woke.’
 
@@ -9366,7 +9366,7 @@ it as her greatest blessing that she has avoided my way.’
 man to see you thus!  What avails it to me that you do not reproach me,
 if I so bitterly reproach myself!’  He bent his head, and spoke low to
 her.  ‘Louisa, I have a misgiving that some change may have been slowly
-working about me in this [[house]], by mere [[motifs/love|love]] and gratitude: that what the
+working about me in this house, by mere [[motifs/love|love]] and gratitude: that what the
 Head had left undone and could not do, the Heart may have been doing
 silently.  Can it be so?’
 
@@ -9460,7 +9460,7 @@ repel you?’
 
 ‘No!’
 
-In the [[innocence]] of her brave affection, and the brimming up of her old
+In the innocence of her brave affection, and the brimming up of her old
 devoted spirit, the once deserted girl shone like a beautiful light upon
 the darkness of the other.
 
@@ -9499,14 +9499,14 @@ greatest fury, charging the porter who kept watch with delinquency in
 withholding letters or messages that could not fail to have been
 entrusted to him, and demanding restitution on the spot.  The [[motifs/dawn|dawn]]
 coming, the morning coming, and the day coming, and neither message nor
-letter coming with either, he went down to the country [[house]].  There, the
+letter coming with either, he went down to the country house.  There, the
 report was, Mr. Bounderby away, and Mrs. Bounderby in town.  Left for
 town suddenly last evening.  Not even known to be gone until receipt of
 message, importing that her return was not to be expected for the
 present.
 
 In these circumstances he had nothing for it but to follow her to town.
-He went to the [[house]] in town.  Mrs. Bounderby not there.  He looked in at
+He went to the house in town.  Mrs. Bounderby not there.  He looked in at
 the Bank.  Mr. Bounderby away and Mrs. Sparsit away.  Mrs. Sparsit away?
 Who could have been reduced to sudden extremity for the company of that
 griffin!
@@ -9617,7 +9617,7 @@ him, or in any way disconcerted; she seemed to have her mind entirely
 preoccupied with the occasion of her visit, and to have substituted that
 consideration for herself.
 
-‘I speak to Mr. Harthouse?’ she said, when they were [[Alone|alone]].
+‘I speak to Mr. Harthouse?’ she said, when they were alone.
 
 ‘To Mr. Harthouse.’  He added in his mind, ‘And you speak to him with the
 most confiding eyes I ever saw, and the most earnest voice (though so
@@ -9631,7 +9631,7 @@ rely upon it, if you will tell me I may so far trust—’
 
 ‘You may, I assure you.’
 
-‘I am young, as you see; I am [[Alone|alone]], as you see.  In coming to you, sir,
+‘I am young, as you see; I am alone, as you see.  In coming to you, sir,
 I have no advice or encouragement beyond my own [[concepts/hope|hope]].’  He thought, ‘But
 that is very strong,’ as he followed the momentary upward glance of her
 eyes.  He thought besides, ‘This is a very odd beginning.  I don’t see
@@ -9825,7 +9825,7 @@ it, and her face beamed brightly.
 
 ‘You will permit me to say,’ continued Mr. [[characters/james-harthouse|James Harthouse]], ‘that I [[concepts/doubt|doubt]]
 if any other ambassador, or ambassadress, could have addressed me with
-the same [[success]].  I must not only regard myself as being in a very
+the same success.  I must not only regard myself as being in a very
 ridiculous position, but as being vanquished at all points.  Will you
 allow me the privilege of remembering my enemy’s name?’
 
@@ -9839,7 +9839,7 @@ allow me the privilege of remembering my enemy’s name?’
 
 ‘I am only a poor girl,’ returned Sissy.  ‘I was separated from my
 father—he was only a stroller—and taken pity on by Mr. Gradgrind.  I have
-lived in the [[house]] ever since.’
+lived in the house ever since.’
 
 She was gone.
 
@@ -9974,7 +9974,7 @@ that interview with the person of whom you speak, and whom I deeply
 regret to have been the means of introducing to you, Louisa hurried here,
 for protection.  I myself had not been at [[motifs/home|home]] many hours, when I
 received her—here, in this room.  She hurried by the train to town, she
-ran from town to this [[house]], through a raging [[motifs/storm|storm]], and presented
+ran from town to this house, through a raging [[motifs/storm|storm]], and presented
 herself before me in a state of distraction.  Of course, she has remained
 here ever since.  Let me entreat you, for your own sake and for hers, to
 be more quiet.’
@@ -10001,7 +10001,7 @@ pursue, will be to put your feet into the hottest [[motifs/water|water]] you can
 take a glass of scalding rum and butter after you get into bed.’  With
 these words, Mr. Bounderby extended his right hand to the weeping lady,
 and escorted her to the conveyance in question, shedding many plaintive
-sneezes by the way.  He soon returned [[Alone|alone]].
+sneezes by the way.  He soon returned alone.
 
 ‘Now, as you showed me in your face, [[characters/tom-gradgrind|Tom Gradgrind]], that you wanted to
 speak to me,’ he resumed, ‘here I am.  But, I am not in a very agreeable
@@ -10010,7 +10010,7 @@ and not considering that I am at any [[motifs/time|time]] as dutifully and submi
 treated by your daughter, as [[characters/josiah-bounderby|Josiah Bounderby]] of Coketown ought to be
 treated by his wife.  You have your opinion, I dare say; and I have mine,
 I know.  If you mean to say anything to me to-[[motifs/night|night]], that goes against
-this candid remark, you had better let it [[Alone|alone]].’
+this candid remark, you had better let it alone.’
 
 
 
@@ -10242,7 +10242,7 @@ knows of him, if I could be surprised by anything [[characters/tom-gradgrind|Tom
 after his making himself a party to sentimental humbug.  I have given you
 my decision, and I have got no more to say.  Good [[motifs/night|night]]!’
 
-So Mr. Bounderby went [[motifs/home|home]] to his town [[house]] to bed.  At five minutes
+So Mr. Bounderby went [[motifs/home|home]] to his town house to bed.  At five minutes
 past twelve o’[[motifs/clock|clock]] next day, he directed Mrs. Bounderby’s property to be
 carefully packed up and sent to [[characters/tom-gradgrind|Tom Gradgrind]]’s; advertised his country
 retreat for sale by private contract; and resumed a bachelor life.
@@ -10336,7 +10336,7 @@ with the mask torn from his features, he stands before us in all his
 native deformity, a What?  A thief!  A plunderer!  A proscribed fugitive,
 with a price upon his head; a fester and a wound upon the noble character
 of the Coketown operative!  Therefore, my band of brothers in a sacred
-bond, to which your children and your children’s children yet [[unborn]] have
+bond, to which your children and your children’s children yet unborn have
 set their infant hands and seals, I propose to you on the part of the
 United Aggregate Tribunal, ever watchful for your welfare, ever zealous
 for your benefit, that this meeting does Resolve: That [[characters/stephen-blackpool|Stephen Blackpool]],
@@ -10402,7 +10402,7 @@ Tom coughed again.
 Rachael cast her eyes proudly towards Mr. Bounderby, and said, ‘Will you
 make it known, young lady, where, and who was there?’
 
-‘I went to the [[house]] where [[characters/stephen-blackpool|Stephen Blackpool]] lodged, on the [[motifs/night|night]] of his
+‘I went to the house where [[characters/stephen-blackpool|Stephen Blackpool]] lodged, on the [[motifs/night|night]] of his
 discharge from his work, and I saw you there.  He was there too; and an
 old woman who did not speak, and whom I could scarcely see, stood in a
 dark corner.  My brother was with me.’
@@ -10549,7 +10549,7 @@ a little further into this.’
 Tom came out of his corner when Mr. Bounderby moved, moved with him, kept
 close to him, and went away with him.  The only parting salutation of
 which he delivered himself was a sulky ‘Good [[motifs/night|night]], father!’  With a
-brief speech, and a scowl at his sister, he left the [[house]].
+brief speech, and a scowl at his sister, he left the house.
 
 Since his sheet-anchor had come [[motifs/home|home]], Mr. Gradgrind had been sparing of
 speech.  He still sat silent, when Louisa mildly said:
@@ -10626,7 +10626,7 @@ when the suspected man was looked for, the whelp was at the station;
 offering to wager that he had made off before the arrival of those who
 were sent in [[topoi/quest|quest]] of him, and that he would not appear.
 
-The whelp was right.  The messengers returned [[Alone|alone]].  Rachael’s letter
+The whelp was right.  The messengers returned alone.  Rachael’s letter
 had gone, Rachael’s letter had been delivered.  [[characters/stephen-blackpool|Stephen Blackpool]] had
 decamped in that same hour; and no [[motifs/soul|soul]] knew more of him.  The only [[concepts/doubt|doubt]]
 in Coketown was, whether Rachael had written in good [[concepts/faith|faith]], believing
@@ -10762,14 +10762,14 @@ you for another week.  Will you go?’
 
 ‘Yes, dear.’
 
-They were by this [[motifs/time|time]] in the street where Mr. Bounderby’s [[house]] stood.
+They were by this [[motifs/time|time]] in the street where Mr. Bounderby’s house stood.
 The way to Sissy’s destination led them past the door, and they were
 going straight towards it.  Some train had newly arrived in Coketown,
 which had put a number of vehicles in motion, and scattered a
 considerable bustle about the town.  Several coaches were rattling before
 them and behind them as they approached Mr. Bounderby’s, and one of the
 latter drew up with such briskness as they were in the act of passing the
-[[house]], that they looked round involuntarily.  The bright gaslight over
+house, that they looked round involuntarily.  The bright gaslight over
 Mr. Bounderby’s steps showed them Mrs. Sparsit in the coach, in an
 ecstasy of excitement, struggling to open the door; Mrs. Sparsit seeing
 them at the same moment, called to them to stop.
@@ -10787,16 +10787,16 @@ to some one inside, ‘come out, or we’ll have you dragged out!’
 Hereupon, no other than the mysterious old woman descended.  Whom Mrs.
 Sparsit incontinently collared.
 
-‘Leave her [[Alone|alone]], everybody!’ cried Mrs. Sparsit, with great energy.
+‘Leave her alone, everybody!’ cried Mrs. Sparsit, with great energy.
 ‘Let nobody touch her.  She belongs to me.  Come in, ma’am!’ then said
 Mrs. Sparsit, reversing her former word of command.  ‘Come in, ma’am, or
 we’ll have you dragged in!’
 
 The spectacle of a matron of classical deportment, seizing an ancient
-woman by the throat, and hauling her into a dwelling-[[house]], would have
+woman by the throat, and hauling her into a dwelling-house, would have
 been under any circumstances, sufficient [[concepts/temptation|temptation]] to all true English
 stragglers so blest as to witness it, to force a way into that
-dwelling-[[house]] and see the matter out.  But when the phenomenon was
+dwelling-house and see the matter out.  But when the phenomenon was
 enhanced by the notoriety and mystery by this [[motifs/time|time]] associated all over
 the town with the Bank robbery, it would have lured the stragglers in,
 with an irresistible attraction, though the roof had been expected to
@@ -10868,7 +10868,7 @@ Bounderby.
 ‘My own boy!  She threatened me that if I resisted her, I should be
 brought by constables, and it was better to come quietly than make that
 stir in such a’—Mrs. Pegler glanced timidly but proudly round the
-walls—‘such a fine [[house]] as this.  Indeed, indeed, it is not my fault!
+walls—‘such a fine house as this.  Indeed, indeed, it is not my fault!
 My dear, noble, stately boy!  I have always lived quiet, and secret,
 Josiah, my dear.  I have never broken the condition once.  I have never
 said I was your mother.  I have admired you at a distance; and if I have
@@ -11140,7 +11140,7 @@ ran as she had never run before.
 Run, Sissy, run, in Heaven’s name!  Don’t stop for breath.  Run, run!
 Quickening herself by carrying such entreaties in her thoughts, she ran
 from field to field, and lane to lane, and place to place, as she had
-never run before; until she came to a shed by an engine-[[house]], where two
+never run before; until she came to a shed by an engine-house, where two
 men lay in the shade, asleep on straw.
 
 First to wake them, and next to tell them, all so wild and breathless as
@@ -11257,7 +11257,7 @@ free hand to a side pocket, in which he remembered to have some bread and
 meat (of which he had swallowed crumbs), and had likewise scooped up a
 little [[motifs/water|water]] in it now and then.  He had come straight away from his
 work, on being written to, and had walked the whole [[motifs/journey|journey]]; and was on
-his way to Mr. Bounderby’s country [[house]] after dark, when he fell.  He
+his way to Mr. Bounderby’s country house after dark, when he fell.  He
 was crossing that dangerous country at such a dangerous [[motifs/time|time]], because he
 was [[archetypes/innocent|innocent]] of what was laid to his charge, and couldn’t rest from
 coming the nearest way to deliver himself up.  The Old Hell Shaft, the
@@ -11319,7 +11319,7 @@ read, fro’ the men that works in pits, in which they ha’ pray’n and
 pray’n the lawmakers for [[characters/christ|Christ]]’s sake not to let their work be murder to
 ’em, but to spare ’em for th’ wives and children that they loves as [[motifs/well|well]]
 as gentlefok loves theirs.  When it were in work, it killed wi’out need;
-when ’tis let [[Alone|alone]], it kills wi’out need.  See how we die an’ no need,
+when ’tis let alone, it kills wi’out need.  See how we die an’ no need,
 one way an’ another—in a muddle—every day!’
 
 He faintly said it, without any anger against any one.  Merely as the
@@ -11513,7 +11513,7 @@ could not effect it.’
 
 ‘Sissy has effected it, father.’
 
-He raised his eyes to where she stood, like a good fairy in his [[house]],
+He raised his eyes to where she stood, like a good fairy in his house,
 and said in a tone of softened gratitude and grateful kindness, ‘It is
 always you, my [[archetypes/child|child]]!’
 
@@ -11547,7 +11547,7 @@ Bounderby himself, in a bullying vein of public zeal, might play a Roman
 
 
 part—it was consented that Sissy and Louisa should repair to the place in
-question, by a circuitous course, [[Alone|alone]]; and that the unhappy father,
+question, by a circuitous course, alone; and that the unhappy father,
 setting forth in an opposite direction, should get round to the same
 bourne by another and wider route.  It was further agreed that he should
 not present himself to Mr. Sleary, lest his intentions should be
@@ -11558,7 +11558,7 @@ and disgrace, of his father’s being at hand and of the purpose for which
 they had come.  When these arrangements had been [[motifs/well|well]] considered and were
 fully understood by all three, it was [[motifs/time|time]] to begin to carry them into
 execution.  Early in the afternoon, Mr. Gradgrind walked direct from his
-own [[house]] into the country, to be taken up on the line by which he was to
+own house into the country, to be taken up on the line by which he was to
 travel; and at [[motifs/night|night]] the remaining two set forth upon their different
 course, encouraged by not seeing any face they knew.
 
@@ -11572,7 +11572,7 @@ were smuggled into the town by all the back lanes where the pigs lived:
 which, although not a magnificent or even savoury approach, was, as is
 usual in such cases, the legitimate highway.
 
-The first thing they saw on entering the town was the [[skeleton]] of
+The first thing they saw on entering the town was the skeleton of
 Sleary’s Circus.  The company had departed for another town more than
 twenty miles off, and had opened there last [[motifs/night|night]].  The connection
 between the two places was by a hilly turnpike-[[motifs/road|road]], and the travelling
@@ -11620,14 +11620,14 @@ for the first instant, conveyed no more expression into his locomotive
 eye than into his fixed one.  The performance seemed a little long to
 Sissy and Louisa, particularly when it stopped to afford the Clown an
 opportunity of telling Mr. Sleary (who said ‘Indeed, sir!’ to all his
-observations in the calmest way, and with his eye on the [[house]]) about two
+observations in the calmest way, and with his eye on the house) about two
 legs sitting on three legs looking at one leg, when in came four legs,
 and laid hold of one leg, and up got two legs, caught hold of three legs,
 and threw ’em at four legs, who ran away with one leg.  For, although an
 ingenious [[forms/allegory|Allegory]] relating to a butcher, a three-legged stool, a dog,
 and a leg of mutton, this narrative consumed [[motifs/time|time]]; and they were in great
 suspense.  At last, however, little fair-haired Josephine made her
-curtsey amid great applause; and the Clown, left [[Alone|alone]] in the ring, had
+curtsey amid great applause; and the Clown, left alone in the ring, had
 just warmed himself, and said, ‘Now _I_’ll have a turn!’ when Sissy was
 touched on the shoulder, and beckoned out.
 
@@ -11668,7 +11668,7 @@ Overtheer and makin’ a fortun.’
 
 
 These various changes, Mr. Sleary, very short of breath now, related with
-great heartiness, and with a wonderful kind of [[innocence]], considering
+great heartiness, and with a wonderful kind of innocence, considering
 what a bleary and brandy-and-watery old veteran he was.  Afterwards he
 brought in Josephine, and E. W. B. Childers (rather deeply lined in the
 jaws by daylight), and the Little [[concepts/wonder|Wonder]] of Scholastic Equitation, and in
@@ -11930,7 +11930,7 @@ my eye upon him before that [[motifs/time|time]], for I knew his ways.  I have k
 observations to myself, but I have made them; and I have got ample proofs
 against him now, besides his running away, and besides his own
 confession, which I was just in [[motifs/time|time]] to overhear.  I had the pleasure of
-watching your [[house]] yesterday morning, and following you here.  I am
+watching your house yesterday morning, and following you here.  I am
 going to take young Mr. Tom back to Coketown, in order to deliver him
 over to Mr. Bounderby.  Sir, I have no [[concepts/doubt|doubt]] whatever that Mr. Bounderby
 will then promote me to young Mr. Tom’s situation.  And I wish to have
@@ -11967,7 +11967,7 @@ and pray you to give him the benefit of that remembrance.’
 manner, ‘to find you taking a position so untenable.  My schooling was
 paid for; it was a bargain; and when I came away, the bargain ended.’
 
-It was a fundamental principle of the Gradgrind [[philosophy]] that
+It was a fundamental principle of the Gradgrind philosophy that
 everything was to be paid for.  Nobody was ever on any account to give
 anybody anything, or render anybody help without purchase.  Gratitude was
 to be abolished, and the virtues springing from it were not to be.  Every
@@ -11988,7 +11988,7 @@ grounds I have mentioned, to take him back to Coketown.  If he was to
 resist, I should set up the cry of Stop thief!  But, he won’t resist, you
 may depend upon it.’
 
-Mr. Sleary, who with his mouth open and his [[rolling]] eye as immovably
+Mr. Sleary, who with his mouth open and his rolling eye as immovably
 jammed in his head as his fixed one, had listened to these doctrines with
 profound attention, here stepped forward.
 
@@ -12123,7 +12123,7 @@ dog come back to me.  Joth’phine and Childerth and me talked it over a
 long [[motifs/time|time]], whether I thould write or not.  But we agreed, “No.  There’th
 nothing comfortable to tell; why unthettle her mind, and make her
 unhappy?”  Tho, whether her father bathely detherted her; or whether he
-broke hith own heart [[Alone|alone]], rather than pull her down along with him;
+broke hith own heart alone, rather than pull her down along with him;
 never will be known, now, Thquire, till—no, not till we know how the
 dogth findth uth out!’
 
@@ -12333,7 +12333,7 @@ A working woman, christened Rachael, after a long illness once again
 appearing at the ringing of the Factory bell, and passing to and fro at
 the set hours, among the Coketown Hands; a woman of pensive [[concepts/beauty|beauty]],
 always dressed in black, but sweet-tempered and serene, and even
-cheerful; who, of all the people in the place, [[Alone|alone]] appeared to have
+cheerful; who, of all the people in the place, alone appeared to have
 compassion on a degraded, drunken wretch of her own sex, who was
 sometimes seen in the town secretly begging of her, and crying to her; a
 woman working, ever working, but content to do it, and preferring to do

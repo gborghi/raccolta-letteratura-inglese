@@ -23,7 +23,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Child
+**Archetypes:** [[archetypes/child|Child]]
 **Motifs:** [[motifs/childhood|Childhood]]
 **Themes & Concepts:** [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/joy|Joy]], [[concepts/innocence-and-experience|Innocence and Experience]]
 **Forms & Genres:** [[forms/lyric|Lyric]], [[forms/epigram|Epigram]]

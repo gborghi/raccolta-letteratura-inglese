@@ -105,14 +105,14 @@ evidentemente nel medesimo spirito con cui si redige una rivista di
 famiglia; poiché i medaglioni inclusi nel manoscritto erano opera della
 sorella Cassandra. L'intera cosa è piena di quella sorta di allegria che è
 sempre più alta in privato che in pubblico; come la gente ride più forte
-nella [[house|casa]] che nella strada. Molti dei suoi ammiratori non se lo
+nella casa che nella strada. Molti dei suoi ammiratori non se lo
 aspetterebbero, forse molti dei suoi ammiratori non ammirerebbero, la sorta
 di spasso che si trova nella lettera della giovane dama "i cui sentimenti
 erano troppo forti per il suo giudizio", e che osserva incidentalmente "Ho
 assassinato mio padre in un'epoca assai precoce della mia vita, da allora
 ho assassinato mia madre, e ora sto per assassinare mia sorella".
 Personalmente la trovo ammirevole; non la condotta, ma la confessione. Ma
-vi è molto più che ilarità nell'[[Humour|umorismo]], anche in questo stadio
+vi è molto più che ilarità nell'umorismo, anche in questo stadio
 della sua crescita. Vi è quasi dappertutto una certa nitidezza nel
 nonsenso. Vi è non poco della vera ironia austeniana. "Il nobile Giovinetto
 ci informò che il suo nome era Lindsay... per particolari ragioni, tuttavia,
@@ -190,7 +190,7 @@ dotato di un istinto superiore per l'intelligente critica della vita,
 è un interesse per la psicologia della vocazione artistica.
 Non dirò del temperamento artistico; perché nessuno ebbe mai meno
 di quella noiosa cosa comunemente così chiamata di quanto ne avesse Jane Austen.
-Ma se questo [[Alone|soltanto]] sarebbe una ragione per scoprire come cominciò il suo lavoro,
+Ma se questo soltanto sarebbe una ragione per scoprire come cominciò il suo lavoro,
 diventa ancor più pertinente quando abbiamo scoperto come cominciò davvero.
 Questa è qualcosa di più della scoperta di un documento;
 è la scoperta di un'ispirazione.  E quell'ispirazione era
@@ -405,14 +405,14 @@ evidently in much the same spirit in which people conduct
 a family magazine; for the medallions included in the manuscript
 were the work of her sister Cassandra.  The whole thing is full
 of the sort of high spirits that are always higher in private than
-in public; as people laugh louder in the [[house]] than in the street.
+in public; as people laugh louder in the house than in the street.
 Many of her admirers would not expect, perhaps many of her admirers
 would not admire, the sort of fun to be found in the letter of the young
 lady "whose feelings were too strong for her judgment," and who remarks
 incidentally "I murdered my father at a very early period of my life,
 I have since murdered my mother, and I am now going to murder my sister."
 Personally I think it admirable; not the conduct, but the confession.
-But there is much more than hilarity in the [[Humour|humour]], even at this
+But there is much more than hilarity in the humour, even at this
 stage of its growth.  There is almost everywhere a certain neatness
 in the nonsense.  There is not a little of the true Austen irony.
 "The noble Youth informed us that his name was Lindsay... for
@@ -494,14 +494,14 @@ evidentemente nel medesimo spirito con cui si redige una rivista di
 famiglia; poiché i medaglioni inclusi nel manoscritto erano opera della
 sorella Cassandra. L'intera cosa è piena di quella sorta di allegria che è
 sempre più alta in privato che in pubblico; come la gente ride più forte
-nella [[house|casa]] che nella strada. Molti dei suoi ammiratori non se lo
+nella casa che nella strada. Molti dei suoi ammiratori non se lo
 aspetterebbero, forse molti dei suoi ammiratori non ammirerebbero, la sorta
 di spasso che si trova nella lettera della giovane dama "i cui sentimenti
 erano troppo forti per il suo giudizio", e che osserva incidentalmente "Ho
 assassinato mio padre in un'epoca assai precoce della mia vita, da allora
 ho assassinato mia madre, e ora sto per assassinare mia sorella".
 Personalmente la trovo ammirevole; non la condotta, ma la confessione. Ma
-vi è molto più che ilarità nell'[[Humour|umorismo]], anche in questo stadio
+vi è molto più che ilarità nell'umorismo, anche in questo stadio
 della sua crescita. Vi è quasi dappertutto una certa nitidezza nel
 nonsenso. Vi è non poco della vera ironia austeniana. "Il nobile Giovinetto
 ci informò che il suo nome era Lindsay... per particolari ragioni, tuttavia,
@@ -584,7 +584,7 @@ is the first of the reasons that justify a study of her juvenile works;
 it is an interest in the psychology of the artistic vocation.
 I will not say of the artistic temperament; for nobody ever had less
 of the tiresome thing commonly so described than Jane Austen.
-But while this [[Alone|alone]] would be a reason for finding out how her work began,
+But while this alone would be a reason for finding out how her work began,
 it becomes yet more relevant when we have found out how it did begin.
 This is something more than the discovery of a document;
 it is the discovery of an inspiration.  And that inspiration was
@@ -636,7 +636,7 @@ dotato di un istinto superiore per l'intelligente critica della vita,
 è un interesse per la psicologia della vocazione artistica.
 Non dirò del temperamento artistico; perché nessuno ebbe mai meno
 di quella noiosa cosa comunemente così chiamata di quanto ne avesse Jane Austen.
-Ma se questo [[Alone|soltanto]] sarebbe una ragione per scoprire come cominciò il suo lavoro,
+Ma se questo soltanto sarebbe una ragione per scoprire come cominciò il suo lavoro,
 diventa ancor più pertinente quando abbiamo scoperto come cominciò davvero.
 Questa è qualcosa di più della scoperta di un documento;
 è la scoperta di un'ispirazione.  E quell'ispirazione era

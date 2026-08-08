@@ -25,20 +25,20 @@ tags:
 - [[works/imitated-from-ossian-(coleridge)|IMITATED FROM OSSIAN (Coleridge)]]
 - [[works/song-to-be-sung-by-the-lovers-of-all-the-noble-liquors-comprised-under-the-name-of-ale-(coleridge)|SONG TO BE SUNG BY THE LOVERS OF ALL THE NOBLE LIQUORS COMPRISED UNDER THE NAME OF ALE (Coleridge)]]
 - [[works/to-lesbia-(coleridge)|TO LESBIA (Coleridge)]]
-- 1. Awake ye muses nine, sing me a strain divine (Dickinson)
-- 1125. Oh Sumptuous moment (Dickinson)
-- 1154. A full fed Rose on meals of Tint (Dickinson)
-- 1427. To earn it by disdaining it (Dickinson)
-- 1506. Summer is shorter than any one — (Dickinson)
-- 1741. That it will never come again (Dickinson)
-- 1773. The Summer that we did not prize, (Dickinson)
-- 214. I taste a liquor never brewed (Dickinson)
-- 230. We — Bee and I — live by the quaffing — (Dickinson)
-- 3. Sic transit gloria mundi (Dickinson)
-- 340. Is Bliss then, such Abyss, (Dickinson)
-- 521. Endow the Living — with the Tears — (Dickinson)
-- 541. Some such Butterfly be seen (Dickinson)
-- 682. 'Twould ease — a Butterfly — (Dickinson)
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0001_awake_ye_muses_nine_sing_me_a_strain_divine|1. Awake ye muses nine, sing me a strain divine (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1125_oh_sumptuous_moment|1125. Oh Sumptuous moment (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#1154_a_full_fed_rose_on_meals_of_tint|1154. A full fed Rose on meals of Tint (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#1427_to_earn_it_by_disdaining_it|1427. To earn it by disdaining it (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1506_summer_is_shorter_than_any_one|1506. Summer is shorter than any one — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1741_that_it_will_never_come_again|1741. That it will never come again (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#1773_the_summer_that_we_did_not_prize|1773. The Summer that we did not prize, (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0214_i_taste_a_liquor_never_brewed|214. I taste a liquor never brewed (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0230_we_bee_and_i_live_by_the_quaffing|230. We — Bee and I — live by the quaffing — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0003_sic_transit_gloria_mundi|3. Sic transit gloria mundi (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0340_is_bliss_then_such_abyss|340. Is Bliss then, such Abyss, (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0521_endow_the_living_with_the_tears|521. Endow the Living — with the Tears — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0541_some_such_butterfly_be_seen|541. Some such Butterfly be seen (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem#0682_twould_ease_a_butterfly|682. 'Twould ease — a Butterfly — (Dickinson)]]
 - [[works/a-lyric-‘if-time-and-space,-as-sages-say’-(eliot)|A Lyric ‘If Time and Space, as Sages say’ (Eliot)]]
 - [[works/appendix-poems-written-in-early-youth-(eliot)|APPENDIX POEMS WRITTEN IN EARLY YOUTH (Eliot)]]
 - [[works/song-‘if-space-and-time,-as-sages-say’-(eliot)|Song ‘If space and time, as sages say’ (Eliot)]]

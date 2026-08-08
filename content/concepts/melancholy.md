@@ -66,93 +66,93 @@ tags:
 - [[works/w.-l.-bowles-(coleridge)|W. L. BOWLES (Coleridge)]]
 - [[works/work-without-hope-(coleridge)|WORK WITHOUT HOPE (Coleridge)]]
 - [[works/youth-and-age-(coleridge)|YOUTH AND AGE (Coleridge)]]
-- 1051. I cannot meet the Spring unmoved — (Dickinson)
-- 1113. There is strength in proving that it can be borne (Dickinson)
-- 1153. Through what transports of Patience (Dickinson)
-- 1168. As old as Woe — (Dickinson)
-- 1171. On the World you colored (Dickinson)
-- 119. Talk with prudence to a Beggar (Dickinson)
-- 1197. I should not dare to be so sad (Dickinson)
-- 121. As Watchers hang upon the East, (Dickinson)
-- 1243. Safe Despair it is that raves — (Dickinson)
-- 125. For each ecstatic instant (Dickinson)
-- 1261. A Word dropped careless on a Page (Dickinson)
-- 1264. This is the place they hoped before, (Dickinson)
-- 1271. September's Baccalaureate (Dickinson)
-- 1281. A stagnant pleasure like a Pool (Dickinson)
-- 1285. I know Suspense — it steps so terse (Dickinson)
-- 1290. The most pathetic thing I do (Dickinson)
-- 1299. Delight's Despair at setting (Dickinson)
-- 1304. Not with a Club, the Heart is broken (Dickinson)
-- 1420. One Joy of so much anguish (Dickinson)
-- 1495. The Thrill came slowly like a Boom for (Dickinson)
-- 1530. A Pang is more conspicuous in Spring (Dickinson)
-- 1612. The Auctioneer of Parting (Dickinson)
-- 1759. Which misses most, (Dickinson)
-- 1764. The saddest noise, the sweetest noise, (Dickinson)
-- 192. Poor little Heart! (Dickinson)
-- 223. I Came to buy a smile — today — (Dickinson)
-- 293. I got so I could take his name — (Dickinson)
-- 305. The difference between Despair (Dickinson)
-- 329. So glad we are — a Stranger'd deem (Dickinson)
-- 335. 'Tis not that Dying hurts us so — (Dickinson)
-- 341. After great pain, a formal feeling comes — (Dickinson)
-- 348. I dreaded that first Robin, so, (Dickinson)
-- 353. A happy lip — breaks sudden — (Dickinson)
-- 362. It struck me — every Day — (Dickinson)
-- 364. The Morning after Woe — (Dickinson)
-- 379. Rehearsal to Ourselves (Dickinson)
-- 396. There is a Languor of the Life (Dickinson)
-- 405. It might be lonelier (Dickinson)
-- 423. The Months have ends — the Years — a knot — (Dickinson)
-- 425. Good Morning — Midnight — (Dickinson)
-- 430. It would never be Common — more — I said — (Dickinson)
-- 458. Like eyes that looked on Wastes — (Dickinson)
-- 462. Why make it doubt — it hurts it so — (Dickinson)
-- 471. A Night — there lay the Days between — (Dickinson)
-- 477. No Man can compass a Despair — (Dickinson)
-- 510. It was not Death, for I stood up, (Dickinson)
-- 514. Her smile was shaped like other smiles — (Dickinson)
-- 522. Had I presumed to hope — (Dickinson)
-- 532. I tried to think a lonelier Thing (Dickinson)
-- 536. The Heart asks Pleasure — first — (Dickinson)
-- 561. I measure every Grief I meet (Dickinson)
-- 562. Conjecturing a Climate (Dickinson)
-- 565. One Anguish — in a Crowd — (Dickinson)
-- 572. Delight — becomes pictorial — (Dickinson)
-- 582. Inconceivably solemn! (Dickinson)
-- 584. It ceased to hurt me, though so slow (Dickinson)
-- 589. The Night was wide, and furnished scant (Dickinson)
-- 592. What care the Dead, for Chanticleer — (Dickinson)
-- 599. There is a pain — so utter — (Dickinson)
-- 604. Unto my Books — so good to turn — (Dickinson)
-- 618. At leisure is the Soul (Dickinson)
-- 626. Only God — detect the Sorrow — (Dickinson)
-- 627. The Tint I cannot take — is best — (Dickinson)
-- 637. The Child's faith is new — (Dickinson)
-- 650. Pain — has an Element of Blank — (Dickinson)
-- 660. 'Tis good — the looking back on Grief — (Dickinson)
-- 686. They say that Time assuages — (Dickinson)
-- 705. Suspense — is Hostiler than Death — (Dickinson)
-- 708. I sometimes drop it, for a Quick — (Dickinson)
-- 718. I meant to find Her when I came — (Dickinson)
-- 719. A South Wind — has a pathos (Dickinson)
-- 734. If He were living — dare I ask — (Dickinson)
-- 739. I many times thought Peace had come (Dickinson)
-- 743. The Birds reported from the South — (Dickinson)
-- 744. Remorse — is Memory — awake — (Dickinson)
-- 758. These — saw Visions — (Dickinson)
-- 761. From Blank to Blank — (Dickinson)
-- 768. When I hoped, I recollect (Dickinson)
-- 782. There is an arid Pleasure — (Dickinson)
-- 784. Bereaved of all, I went abroad — (Dickinson)
-- 786. Severer Service of myself (Dickinson)
-- 787. Such is the Force of Happiness — (Dickinson)
-- 83. Heart, not so heavy as mine (Dickinson)
-- 898. How happy I was if I could forget (Dickinson)
-- 963. A nearness to Tremendousness — (Dickinson)
-- 965. Denial — is the only fact (Dickinson)
-- 985. The Missing All — prevented Me (Dickinson)
+- [[testi/dickinson/atomized/seasons-winter-autumn#1051_i_cannot_meet_the_spring_unmoved|1051. I cannot meet the Spring unmoved — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1113_there_is_strength_in_proving_that_it_can_be_borne|1113. There is strength in proving that it can be borne (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1153_through_what_transports_of_patience|1153. Through what transports of Patience (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1168_as_old_as_woe|1168. As old as Woe — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1171_on_the_world_you_colored|1171. On the World you colored (Dickinson)]]
+- [[testi/dickinson/atomized/money-and-gold-poverty-imprisonment#0119_talk_with_prudence_to_a_beggar|119. Talk with prudence to a Beggar (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1197_i_should_not_dare_to_be_so_sad|1197. I should not dare to be so sad (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0121_as_watchers_hang_upon_the_east|121. As Watchers hang upon the East, (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1243_safe_despair_it_is_that_raves|1243. Safe Despair it is that raves — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0125_for_each_ecstatic_instant|125. For each ecstatic instant (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1261_a_word_dropped_careless_on_a_page|1261. A Word dropped careless on a Page (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1264_this_is_the_place_they_hoped_before|1264. This is the place they hoped before, (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#1271_septembers_baccalaureate|1271. September's Baccalaureate (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#1281_a_stagnant_pleasure_like_a_pool|1281. A stagnant pleasure like a Pool (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1285_i_know_suspense_it_steps_so_terse|1285. I know Suspense — it steps so terse (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1290_the_most_pathetic_thing_i_do|1290. The most pathetic thing I do (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1299_delights_despair_at_setting|1299. Delight's Despair at setting (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1304_not_with_a_club_the_heart_is_broken|1304. Not with a Club, the Heart is broken (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1420_one_joy_of_so_much_anguish|1420. One Joy of so much anguish (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1495_the_thrill_came_slowly_like_a_boom_for|1495. The Thrill came slowly like a Boom for (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1530_a_pang_is_more_conspicuous_in_spring|1530. A Pang is more conspicuous in Spring (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1612_the_auctioneer_of_parting|1612. The Auctioneer of Parting (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#1759_which_misses_most|1759. Which misses most, (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#1764_the_saddest_noise_the_sweetest_noise|1764. The saddest noise, the sweetest noise, (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0192_poor_little_heart|192. Poor little Heart! (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0223_i_came_to_buy_a_smile_today|223. I Came to buy a smile — today — (Dickinson)]]
+- [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#0293_i_got_so_i_could_take_his_name|293. I got so I could take his name — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0305_the_difference_between_despair|305. The difference between Despair (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0329_so_glad_we_are_a_strangerd_deem|329. So glad we are — a Stranger'd deem (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0335_tis_not_that_dying_hurts_us_so|335. 'Tis not that Dying hurts us so — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0341_after_great_pain_a_formal_feeling_comes|341. After great pain, a formal feeling comes — (Dickinson)]]
+- [[testi/dickinson/atomized/flowers-spring-garden#0348_i_dreaded_that_first_robin_so|348. I dreaded that first Robin, so, (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0353_a_happy_lip_breaks_sudden|353. A happy lip — breaks sudden — (Dickinson)]]
+- [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#0362_it_struck_me_every_day|362. It struck me — every Day — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0364_the_morning_after_woe|364. The Morning after Woe — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0379_rehearsal_to_ourselves|379. Rehearsal to Ourselves (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0396_there_is_a_languor_of_the_life|396. There is a Languor of the Life (Dickinson)]]
+- [[testi/dickinson/atomized/alienation-outsider-exile#0405_it_might_be_lonelier|405. It might be lonelier (Dickinson)]]
+- [[testi/dickinson/atomized/time-tempus-fugit-clock#0423_the_months_have_ends_the_years_a_knot|423. The Months have ends — the Years — a knot — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0425_good_morning_midnight|425. Good Morning — Midnight — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0430_it_would_never_be_common_more_i_said|430. It would never be Common — more — I said — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0458_like_eyes_that_looked_on_wastes|458. Like eyes that looked on Wastes — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0462_why_make_it_doubt_it_hurts_it_so|462. Why make it doubt — it hurts it so — (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#0471_a_night_there_lay_the_days_between|471. A Night — there lay the Days between — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0477_no_man_can_compass_a_despair|477. No Man can compass a Despair — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0510_it_was_not_death_for_i_stood_up|510. It was not Death, for I stood up, (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0514_her_smile_was_shaped_like_other_smiles|514. Her smile was shaped like other smiles — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0522_had_i_presumed_to_hope|522. Had I presumed to hope — (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0532_i_tried_to_think_a_lonelier_thing|532. I tried to think a lonelier Thing (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0536_the_heart_asks_pleasure_first|536. The Heart asks Pleasure — first — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0561_i_measure_every_grief_i_meet|561. I measure every Grief I meet (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0562_conjecturing_a_climate|562. Conjecturing a Climate (Dickinson)]]
+- [[testi/dickinson/atomized/terror-and-horror-madness#0565_one_anguish_in_a_crowd|565. One Anguish — in a Crowd — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0572_delight_becomes_pictorial|572. Delight — becomes pictorial — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0582_inconceivably_solemn|582. Inconceivably solemn! (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0584_it_ceased_to_hurt_me_though_so_slow|584. It ceased to hurt me, though so slow (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0589_the_night_was_wide_and_furnished_scant|589. The Night was wide, and furnished scant (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0592_what_care_the_dead_for_chanticleer|592. What care the Dead, for Chanticleer — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0599_there_is_a_pain_so_utter|599. There is a pain — so utter — (Dickinson)]]
+- [[testi/dickinson/atomized/imagination-fragment-heroic-couplet#0604_unto_my_books_so_good_to_turn|604. Unto my Books — so good to turn — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0618_at_leisure_is_the_soul|618. At leisure is the Soul (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0626_only_god_detect_the_sorrow|626. Only God — detect the Sorrow — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0627_the_tint_i_cannot_take_is_best|627. The Tint I cannot take — is best — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan#0637_the_childs_faith_is_new|637. The Child's faith is new — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0650_pain_has_an_element_of_blank|650. Pain — has an Element of Blank — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0660_tis_good_the_looking_back_on_grief|660. 'Tis good — the looking back on Grief — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0686_they_say_that_time_assuages|686. They say that Time assuages — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0705_suspense_is_hostiler_than_death|705. Suspense — is Hostiler than Death — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0708_i_sometimes_drop_it_for_a_quick|708. I sometimes drop it, for a Quick — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0718_i_meant_to_find_her_when_i_came|718. I meant to find Her when I came — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0719_a_south_wind_has_a_pathos|719. A South Wind — has a pathos (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0734_if_he_were_living_dare_i_ask|734. If He were living — dare I ask — (Dickinson)]]
+- [[testi/dickinson/atomized/sea-water#0739_i_many_times_thought_peace_had_come|739. I many times thought Peace had come (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0743_the_birds_reported_from_the_south|743. The Birds reported from the South — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0744_remorse_is_memory_awake|744. Remorse — is Memory — awake — (Dickinson)]]
+- [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0758_these_saw_visions|758. These — saw Visions — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0761_from_blank_to_blank|761. From Blank to Blank — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0768_when_i_hoped_i_recollect|768. When I hoped, I recollect (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0782_there_is_an_arid_pleasure|782. There is an arid Pleasure — (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0784_bereaved_of_all_i_went_abroad|784. Bereaved of all, I went abroad — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0786_severer_service_of_myself|786. Severer Service of myself (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0787_such_is_the_force_of_happiness|787. Such is the Force of Happiness — (Dickinson)]]
+- [[testi/dickinson/atomized/birds-music-and-song-nightingale#0083_heart_not_so_heavy_as_mine|83. Heart, not so heavy as mine (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0898_how_happy_i_was_if_i_could_forget|898. How happy I was if I could forget (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0963_a_nearness_to_tremendousness|963. A nearness to Tremendousness — (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0965_denial_is_the_only_fact|965. Denial — is the only fact (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0985_the_missing_all_prevented_me|985. The Missing All — prevented Me (Dickinson)]]
 - [[works/appendix-poems-written-in-early-youth-(eliot)|APPENDIX POEMS WRITTEN IN EARLY YOUTH (Eliot)]]
 - [[works/eyes-that-last-i-saw-in-tears-(eliot)|Eyes that last I saw in tears (Eliot)]]
 - [[works/spleen-(eliot)|Spleen (Eliot)]]
@@ -196,13 +196,13 @@ tags:
 - [[works/ulalume-(poe)|Ulalume (Poe)]]
 - [[works/as-you-like-it-(shakespeare)|AS YOU LIKE IT (Shakespeare)]]
 - [[works/hamlet-(shakespeare)|HAMLET (Shakespeare)]]
-- Sonnet 29 (Shakespeare)
-- Sonnet 30 (Shakespeare)
-- Sonnet 44 (Shakespeare)
-- Sonnet 45 (Shakespeare)
-- Sonnet 49 (Shakespeare)
-- Sonnet 50 (Shakespeare)
-- Sonnet 66 (Shakespeare)
+- [[testi/shakespeare/atomized/sonnets#sonnet_029|Sonnet 29 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_030|Sonnet 30 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_044|Sonnet 44 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_045|Sonnet 45 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_049|Sonnet 49 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_050|Sonnet 50 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_066|Sonnet 66 (Shakespeare)]]
 - [[works/twelfth-night-(shakespeare)|TWELFTH NIGHT (Shakespeare)]]
 - [[works/as-i-ebb’d-with-the-ocean-of-life-(whitman)|As I Ebb’d with the Ocean of Life (Whitman)]]
 - [[works/as-i-sit-writing-here-(whitman)|As I Sit Writing Here (Whitman)]]

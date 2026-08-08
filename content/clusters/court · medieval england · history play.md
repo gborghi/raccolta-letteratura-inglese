@@ -8,7 +8,7 @@ tags:
 *Cluster* — **8 works**.
 
 ## Defining concepts
-[[historical-references/medieval-england|Medieval England]] (7), [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]] (6), [[forms/history-play|History Play]] (6), [[forms/blank-verse|Blank Verse]] (6), King (5), [[motifs/crown|Crown]] (5), [[settings/court|Court]] (5), [[forms/verse-drama|Verse Drama]] (4), [[topoi/theatrum-mundi|Theatrum Mundi]] (3), [[concepts/honour|Honour]] (3), [[settings/battlefield|Battlefield]] (3), Rebel (3), [[concepts/conscience|Conscience]] (3), [[concepts/power-and-corruption|Power and Corruption]] (3), [[topoi/war-as-glory|War as Glory]] (2)
+[[historical-references/medieval-england|Medieval England]] (7), [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]] (6), [[forms/history-play|History Play]] (6), [[forms/blank-verse|Blank Verse]] (6), [[archetypes/king|King]] (5), [[motifs/crown|Crown]] (5), [[settings/court|Court]] (5), [[forms/verse-drama|Verse Drama]] (4), [[topoi/theatrum-mundi|Theatrum Mundi]] (3), [[concepts/honour|Honour]] (3), [[settings/battlefield|Battlefield]] (3), [[archetypes/rebel|Rebel]] (3), [[concepts/conscience|Conscience]] (3), [[concepts/power-and-corruption|Power and Corruption]] (3), [[topoi/war-as-glory|War as Glory]] (2)
 
 ## Works
 

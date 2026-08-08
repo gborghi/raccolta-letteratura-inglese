@@ -39,7 +39,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/last-stand|Last Stand]]
-**Archetypes:** King, Usurper, Tragic Hero
+**Archetypes:** [[archetypes/king|King]], [[archetypes/usurper|Usurper]], [[archetypes/tragic-hero|Tragic Hero]]
 **Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/horse|Horse]], [[motifs/crown|Crown]]
 **Themes & Concepts:** [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/honour|Honour]], [[concepts/pride|Pride]], [[concepts/ambition|Ambition]], [[concepts/fate-and-free-will|Fate and Free Will]]
 **Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/history-play|History Play]], [[forms/fragment|Fragment]], [[forms/blank-verse|Blank Verse]]

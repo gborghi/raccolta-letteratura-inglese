@@ -77,13 +77,13 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/world-upside-down|World Upside Down]], [[topoi/great-chain-of-being|Great Chain of Being]]
-**Archetypes:** Usurper, King, Rebel
+**Archetypes:** [[archetypes/usurper|Usurper]], [[archetypes/king|King]], [[archetypes/rebel|Rebel]]
 **Motifs:** [[motifs/crown|Crown]], [[motifs/blood|Blood]], [[motifs/supernatural|Supernatural]]
 **Themes & Concepts:** [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/ambition|Ambition]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/class-conflict|Class Conflict]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/deception|Deception]], [[concepts/economics|Economics]]
 **Forms & Genres:** [[forms/history-play|History Play]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
 **Historical References:** [[historical-references/wars-of-the-roses|Wars of the Roses]], [[historical-references/medieval-england|Medieval England]]
 **Settings:** [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/court|Court]]
-**Characters:** Henry VI, Queen Margaret, Duke of York, Duke of Gloucester, Cardinal Beaufort, Duke of Suffolk, Jack Cade, Eleanor
+**Characters:** [[characters/henry-vi|Henry VI]], [[characters/queen-margaret|Queen Margaret]], [[characters/duke-of-york|Duke of York]], [[characters/duke-of-gloucester|Duke of Gloucester]], [[characters/cardinal-beaufort|Cardinal Beaufort]], [[characters/duke-of-suffolk|Duke of Suffolk]], [[characters/jack-cade|Jack Cade]], [[characters/eleanor|Eleanor]]
 
 ## Testo integrale / Full text
 

@@ -31,12 +31,12 @@ tags:
 - [[works/love-(coleridge)|LOVE (Coleridge)]]
 - [[works/the-old-man-of-the-alps-(coleridge)|THE OLD MAN OF THE ALPS (Coleridge)]]
 - [[works/the-silver-thimble-(coleridge)|THE SILVER THIMBLE (Coleridge)]]
-- 1152. Tell as a Marksman — were forgotten (Dickinson)
-- 1167. Alone and in a Circumstance (Dickinson)
-- 166. I met a King this afternoon! (Dickinson)
-- 344. 'Twas the old — road — through pain — (Dickinson)
-- 678. Wolfe demanded during dying (Dickinson)
-- 754. My Life had stood — a Loaded Gun — (Dickinson)
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1152_tell_as_a_marksman_were_forgotten|1152. Tell as a Marksman — were forgotten (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#1167_alone_and_in_a_circumstance|1167. Alone and in a Circumstance (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0166_i_met_a_king_this_afternoon|166. I met a King this afternoon! (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0344_twas_the_old_road_through_pain|344. 'Twas the old — road — through pain — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0678_wolfe_demanded_during_dying|678. Wolfe demanded during dying (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0754_my_life_had_stood_a_loaded_gun|754. My Life had stood — a Loaded Gun — (Dickinson)]]
 - [[works/a-fable-for-feasters-(eliot)|A Fable for Feasters (Eliot)]]
 - [[works/growltiger’s-last-stand-(eliot)|Growltiger’s Last Stand (Eliot)]]
 - [[works/macavity-the-mystery-cat-(eliot)|Macavity the Mystery Cat (Eliot)]]

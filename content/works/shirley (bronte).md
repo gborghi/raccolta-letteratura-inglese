@@ -54,13 +54,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** Self-Made Man, Rebel
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/rebel|Rebel]]
 **Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/swords-and-weapons|Swords and Weapons]]
 **Themes & Concepts:** [[concepts/class-conflict|Class Conflict]], [[concepts/social-injustice|Social Injustice]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/reform|Reform]], [[concepts/poverty|Poverty]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/identity|Identity]], [[concepts/faith|Faith]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]], [[concepts/history|History]]
 **Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/historical-novel|Historical Novel]]
 **Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/christianity|Christianity]]
 **Settings:** [[settings/rural-england|Rural England]], [[settings/industrial-city|Industrial City]]
-**Characters:** Shirley Keeldar, Caroline Helstone, Robert Moore, Louis Moore, Mr Helstone, Mrs Pryor
+**Characters:** [[characters/shirley-keeldar|Shirley Keeldar]], [[characters/caroline-helstone|Caroline Helstone]], [[characters/robert-moore|Robert Moore]], [[characters/louis-moore|Louis Moore]], [[characters/mr-helstone|Mr Helstone]], [[characters/mrs-pryor|Mrs Pryor]]
 
 ## Testo integrale / Full text
 

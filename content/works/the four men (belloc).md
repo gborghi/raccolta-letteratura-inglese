@@ -96,5 +96,5 @@ tags:
 **Themes & Concepts:** [[concepts/nature|Nature]], [[concepts/nostalgia|Nostalgia]], [[concepts/friendship|Friendship]], [[concepts/comradeship|Comradeship]], [[concepts/mortality|Mortality]], [[concepts/transience|Transience]]
 **Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/home|Home]]
 **Settings:** [[settings/rural-england|Rural England]]
-**Archetypes:** Pilgrim, Common Man (2)
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/common-man-(2)|Common Man (2)]]
 **Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/ubi-sunt|Ubi Sunt]]

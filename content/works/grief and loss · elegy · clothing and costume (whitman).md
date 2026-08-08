@@ -45,7 +45,7 @@ Raccolta tematica di 22 componimenti di Walt Whitman.
 - [[works/crossing-brooklyn-ferry-(whitman)|Crossing Brooklyn Ferry]]
 - [[works/dirge-for-two-veterans-(whitman)|Dirge for Two Veterans]]
 - [[works/hush’d-be-the-camps-to-day-may-4,-1865-(whitman)|Hush’d Be the Camps To-Day (May 4, 1865]]
-- Memories
+- [[testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume#307_memories|Memories]]
 - [[works/my-picture-gallery-(whitman)|My Picture-Gallery]]
 - [[works/o-captain!-my-captain!-(whitman)|O Captain! My Captain!]]
 - [[works/o-magnet-south-(whitman)|O Magnet-South]]

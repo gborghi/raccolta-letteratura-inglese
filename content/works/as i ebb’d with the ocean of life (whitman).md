@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Great Mother
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 **Motifs:** [[motifs/sea|Sea]], [[motifs/autumn|Autumn]]
 **Themes & Concepts:** [[concepts/doubt|Doubt]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/identity|Identity]], [[concepts/melancholy|Melancholy]]
 **Forms & Genres:** [[forms/free-verse|Free Verse]]

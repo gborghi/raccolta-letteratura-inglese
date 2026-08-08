@@ -36,7 +36,7 @@ essere tradotte. E chiunque abbia mai tentato di tradurre qualcosa sa
 che vi è un continuo pericolo di una sorta di [[concepts/despair|disperazione]]; è tentato di dire
 che ciò che dev'essere tradotto è sempre ciò che non può essere tradotto.
 Dal punto di vista di chi sappia vederle dall'interno,
-ma vederle con lucidità, le cose migliori d'Inghilterra sono la poesia e l'[[Humour|umorismo]];
+ma vederle con lucidità, le cose migliori d'Inghilterra sono la poesia e l'umorismo;
 e accade che entrambe siano rinchiuse in una lingua.
 Il Continente può essere più cosmopolita, in parte perché i paesi
 continentali hanno prodotto capolavori in arti più cosmopolite.
@@ -46,7 +46,7 @@ E le altre due grandi culture dell'Europa occidentale sfuggono entrambe,
 in un certo senso, alla lingua, benché sfuggano, per così dire,
 agli estremi opposti, ossia alle estremità opposte; l'una all'estremo della ragione
 e l'altra all'estremo dell'emozione. La Francia ha influenzato e
-mutato tutte le nazioni con una [[logic|logica]] quasi astratta come la matematica;
+mutato tutte le nazioni con una logica quasi astratta come la matematica;
 e la [[settings/germany|Germania]] ha commosso tutte le nazioni con la potenza senza parole della musica.
 Ora, l'argomentazione scientifica può essere tradotta; e la musica non ha
 bisogno di essere tradotta. Ma una qualche lieve familiarità con la lingua
@@ -68,29 +68,29 @@ dello Stato assai di rado sono i veri organi organici del popolo.
 Fra tutti i popoli noi inglesi siamo forse il più puramente patriottico,
 forse patriottico in modo eccessivo e angusto, ma comunque tacitamente
 inclini a prendere la nazione come una sorta di religione o surrogato della religione.
-E tuttavia non abbiamo quasi una sola [[Song|canzone]] patriottica decorosa a nostro nome, e nulla
-di nulla in fatto di Inno Nazionale o di [[Song|canzone]] patriottica ufficiale
+E tuttavia non abbiamo quasi una sola canzone patriottica decorosa a nostro nome, e nulla
+di nulla in fatto di Inno Nazionale o di canzone patriottica ufficiale
 che alcuna delle nazioni che cantano o marciano tollererebbe
 per dieci versi. Se un qualche straniero intelligente volesse cogliere un barlume
 del [[concepts/paradox|paradosso]] che è il segreto degli inglesi, confronti egli
-il livello letterario stupefacentemente basso della [[Song|canzone]] patriottica da caffè-concerto,
+il livello letterario stupefacentemente basso della canzone patriottica da caffè-concerto,
 quella sullo sventolare la [[motifs/flag|bandiera]], con il livello letterario altissimo
-della [[Song|canzone]] domestica da caffè-concerto, quella sullo stendere il bucato.
-Come si è detto, la poesia e l'[[Humour|umorismo]] sono le buone fate d'Inghilterra;
+della canzone domestica da caffè-concerto, quella sullo stendere il bucato.
+Come si è detto, la poesia e l'umorismo sono le buone fate d'Inghilterra;
 e la poesia si può trovare nel [[motifs/garden|giardino]] anteriore del povero
-e l'[[Humour|umorismo]] nel suo cortile di dietro. Per un'altra bizzarra
-perversità noi [[Alone|soli]] conserviamo un Poeta Laureato, mentre abbiamo perso ogni contatto
+e l'umorismo nel suo cortile di dietro. Per un'altra bizzarra
+perversità noi soli conserviamo un Poeta Laureato, mentre abbiamo perso ogni contatto
 con quelle antiche tradizioni classiche o medievali che renderebbero
 assai più comprensibile al Continente l'idea di un'ode
 ufficiale, o di un bardo nazionale, o di un menestrello che canti dinanzi al [[archetypes/king|re]].
 Uno o due dei nostri migliori poeti sono stati Laureati, e una
-o due delle loro peggiori [[Poems|poesie]] sono state Odi da Poeta Laureato.
+o due delle loro peggiori poesie sono state Odi da Poeta Laureato.
 Ma il nostro poeta più grande in assoluto venne dal nulla, e assomiglia moltissimo al nostro
 massimo umorista; ché in tal senso tanto Shakespeare quanto Dickens
 furono poeti, e poeti venuti dal nulla e che al nulla per giunta andavano.
-Nessuno dei due si può ben concepire mentre entra al servizio del [[government|Governo]]
+Nessuno dei due si può ben concepire mentre entra al servizio del Governo
 e diventa la voce ufficiale dello Stato inglese.
-Mancava loro qualcosa di quella solidità classica che [[Alone|sola]]
+Mancava loro qualcosa di quella solidità classica che sola
 può dar dignità a un'istituzione del tutto collettiva come
 l'Académie Française o persino la Comédie Française. Anche quando talenti
 di quel tipo classico esistono fra noi, essi esistono in condizioni
@@ -144,7 +144,7 @@ il critico straniero non solo più fine ma persino più schizzinoso
 quello che talora sa apprezzare le nostre creazioni più rozze o più comiche.
 Spesso egli sa apprezzare ciò che noi non apprezziamo perché è troppo
 popolare per essere di moda. Vivo nel timore che qualche giudice europeo
-scopra il vigore delle nostre comiche [[songs|canzoni]] cockney, e le pubblichi,
+scopra il vigore delle nostre comiche canzoni cockney, e le pubblichi,
 come avremmo dovuto fare noi, in un volume di corredo al Golden Treasury.
 Comunque sia, è un indizio assai pratico sul metodo giusto in materia.
 Potremmo [[motifs/well|bene]] supporre, per esempio, che fra tutte le cose pensabili il [[works/pickwick-(chesterton)|Pickwick]]
@@ -274,7 +274,7 @@ il tipo di [[concepts/endurance|resistenza]] non è stato lo stoicismo, bensì p
 Potremmo dire che fu fin troppo tollerante, se non avesse la rara
 virtù di tollerare l'intollerabile. Ciò che ha veramente reso
 gli inglesi, a prescindere dalle mere adulazioni giornalistiche scioviniste,
-un [[success|successo]] nelle colonie e nelle campagne in paesi selvaggi,
+un successo nelle colonie e nelle campagne in paesi selvaggi,
 fu una certa comica accettazione dell'incongruo; una certa capacità,
 nel cockney o nello zoticone inglese, di continuare a essere assurdamente simile a
 sé stesso anche quando, secondo la formula rituale, non sa più dove si trovi.
@@ -284,7 +284,7 @@ del pieno statuto del cittadino e della piena esperienza ereditata
 che deriva dal restare radicati in civiltà assai antiche. Ma
 è forse la più umoristica e attraente di tutte le virtù nazionali;
 e gli uomini che conoscono davvero dall'interno le varie nazioni dell'umanità
-europea non hanno trovato nulla di più umano dell'ordinaria [[Song|canzone]]
+europea non hanno trovato nulla di più umano dell'ordinaria canzone
 comica inglese o delle chiacchiere dei Tommies nelle trincee.
 
 Nulla è più inglese del fatto che una brigata di compagni
@@ -302,7 +302,7 @@ essere chiamato prosaico; e l'uccello è invero timido come l'[[motifs/nightinga
 nel bosco oscuro di Keats o l'albatro che vola sui desolati
 mari di Coleridge. Dobbiamo soprattutto essere l'opposto del volgare,
 e perciò l'opposto del vanaglorioso, se davvero vogliamo trasmettere
-quanta [[concepts/freedom|libertà]], quanto [[Humour|umorismo]] e quanta [[concepts/greatness|grandezza]] di cuore si celino
+quanta [[concepts/freedom|libertà]], quanto umorismo e quanta [[concepts/greatness|grandezza]] di cuore si celino
 nel raccoglimento stesso dell'Inghilterra.
 
 
@@ -329,7 +329,7 @@ be translated.  And anybody who has ever tried to translate anything knows
 there is continual danger of a sort of [[concepts/despair|despair]]; he is tempted to say
 that what has to be translated is always what cannot be translated.
 From the standpoint of anyone who can see it from the inside,
-but see it sanely, the best things in England are poetry and [[Humour|humour]];
+but see it sanely, the best things in England are poetry and humour;
 and it so happens that they are both locked up in a language.
 The Continent can be more cosmopolitan, partly because Continental
 countries have produced masterpieces in more cosmopolitan arts.
@@ -339,7 +339,7 @@ And the other two great cultures of Western Europe both in some
 sense escape from language, though they escape, so to speak,
 at opposite ends or at opposite extremes; one at the extreme of reason
 and the other at the extreme of emotion.  France has affected and
-altered all nations by a [[logic]] almost as abstract as mathematics;
+altered all nations by a logic almost as abstract as mathematics;
 and [[settings/germany|Germany]] has moved all nations by the wordless might of music.
 Now scientific argument can be translated; and music does not need
 to be translated.  But some slight acquaintance with the tongue
@@ -361,29 +361,29 @@ of the State are very seldom the really organic organs of the people.
 Of all peoples we English are possibly the most purely patriotic,
 possibly excessively and narrowly patriotic, but anyhow tacitly
 taking the nation as a sort of religion or substitute for religion.
-And yet we have hardly a decent patriotic [[Song|song]] to our name, and nothing
+And yet we have hardly a decent patriotic song to our name, and nothing
 whatever in the way of a National Anthem or official patriotic
-[[Song|song]] that any of the singing or marching nations would tolerate
+song that any of the singing or marching nations would tolerate
 for ten lines.  If any intelligent foreigner would get a glimpse
 of the [[concepts/paradox|paradox]] that is the secret of the English, let him compare
-the astonishingly low literary level of the patriotic music-hall [[Song|song]],
+the astonishingly low literary level of the patriotic music-hall song,
 about waving the [[motifs/flag|flag]], with the exceedingly high literary level
-of the domestic music-hall [[Song|song]], about hanging out the washing.
-As has been said, poetry and [[Humour|humour]] are the good fairies of England;
+of the domestic music-hall song, about hanging out the washing.
+As has been said, poetry and humour are the good fairies of England;
 and the poetry may be found in the poor man's front-[[motifs/garden|garden]]
-and the [[Humour|humour]] in the poor man's backyard.  By another quaint
-perversity we [[Alone|alone]] retain a Poet Laureate, when we have lost touch
+and the humour in the poor man's backyard.  By another quaint
+perversity we alone retain a Poet Laureate, when we have lost touch
 with those ancient classical or medieval traditions which would make
 much more comprehensible to the Continent the idea of an official
 ode or a national bard or a minstrel singing before the [[archetypes/king|king]].
 One or two of our best poets have been Laureates, and one
-or two of their very worst [[Poems|poems]] have been Laureate Odes.
+or two of their very worst poems have been Laureate Odes.
 But our very best poet came from nowhere, and very much resembles our
 very greatest humorist; for in that sense both Shakespeare and Dickens
 were poets, and poets coming from nowhere and even going nowhere.
-Neither of them can be quite conceived as going into the [[government|Government]]
+Neither of them can be quite conceived as going into the Government
 service and becoming the official voice of the English State.
-They lacked something of that classic solidity which can [[Alone|alone]]
+They lacked something of that classic solidity which can alone
 give dignity to a completely collective institution like the
 French Academy or even the Comedie Francaise.  Even when talents
 of that classical type exist among us, they exist under conditions
@@ -417,7 +417,7 @@ essere tradotte. E chiunque abbia mai tentato di tradurre qualcosa sa
 che vi è un continuo pericolo di una sorta di [[concepts/despair|disperazione]]; è tentato di dire
 che ciò che dev'essere tradotto è sempre ciò che non può essere tradotto.
 Dal punto di vista di chi sappia vederle dall'interno,
-ma vederle con lucidità, le cose migliori d'Inghilterra sono la poesia e l'[[Humour|umorismo]];
+ma vederle con lucidità, le cose migliori d'Inghilterra sono la poesia e l'umorismo;
 e accade che entrambe siano rinchiuse in una lingua.
 Il Continente può essere più cosmopolita, in parte perché i paesi
 continentali hanno prodotto capolavori in arti più cosmopolite.
@@ -427,7 +427,7 @@ E le altre due grandi culture dell'Europa occidentale sfuggono entrambe,
 in un certo senso, alla lingua, benché sfuggano, per così dire,
 agli estremi opposti, ossia alle estremità opposte; l'una all'estremo della ragione
 e l'altra all'estremo dell'emozione. La Francia ha influenzato e
-mutato tutte le nazioni con una [[logic|logica]] quasi astratta come la matematica;
+mutato tutte le nazioni con una logica quasi astratta come la matematica;
 e la [[settings/germany|Germania]] ha commosso tutte le nazioni con la potenza senza parole della musica.
 Ora, l'argomentazione scientifica può essere tradotta; e la musica non ha
 bisogno di essere tradotta. Ma una qualche lieve familiarità con la lingua
@@ -449,29 +449,29 @@ dello Stato assai di rado sono i veri organi organici del popolo.
 Fra tutti i popoli noi inglesi siamo forse il più puramente patriottico,
 forse patriottico in modo eccessivo e angusto, ma comunque tacitamente
 inclini a prendere la nazione come una sorta di religione o surrogato della religione.
-E tuttavia non abbiamo quasi una sola [[Song|canzone]] patriottica decorosa a nostro nome, e nulla
-di nulla in fatto di Inno Nazionale o di [[Song|canzone]] patriottica ufficiale
+E tuttavia non abbiamo quasi una sola canzone patriottica decorosa a nostro nome, e nulla
+di nulla in fatto di Inno Nazionale o di canzone patriottica ufficiale
 che alcuna delle nazioni che cantano o marciano tollererebbe
 per dieci versi. Se un qualche straniero intelligente volesse cogliere un barlume
 del [[concepts/paradox|paradosso]] che è il segreto degli inglesi, confronti egli
-il livello letterario stupefacentemente basso della [[Song|canzone]] patriottica da caffè-concerto,
+il livello letterario stupefacentemente basso della canzone patriottica da caffè-concerto,
 quella sullo sventolare la [[motifs/flag|bandiera]], con il livello letterario altissimo
-della [[Song|canzone]] domestica da caffè-concerto, quella sullo stendere il bucato.
-Come si è detto, la poesia e l'[[Humour|umorismo]] sono le buone fate d'Inghilterra;
+della canzone domestica da caffè-concerto, quella sullo stendere il bucato.
+Come si è detto, la poesia e l'umorismo sono le buone fate d'Inghilterra;
 e la poesia si può trovare nel [[motifs/garden|giardino]] anteriore del povero
-e l'[[Humour|umorismo]] nel suo cortile di dietro. Per un'altra bizzarra
-perversità noi [[Alone|soli]] conserviamo un Poeta Laureato, mentre abbiamo perso ogni contatto
+e l'umorismo nel suo cortile di dietro. Per un'altra bizzarra
+perversità noi soli conserviamo un Poeta Laureato, mentre abbiamo perso ogni contatto
 con quelle antiche tradizioni classiche o medievali che renderebbero
 assai più comprensibile al Continente l'idea di un'ode
 ufficiale, o di un bardo nazionale, o di un menestrello che canti dinanzi al [[archetypes/king|re]].
 Uno o due dei nostri migliori poeti sono stati Laureati, e una
-o due delle loro peggiori [[Poems|poesie]] sono state Odi da Poeta Laureato.
+o due delle loro peggiori poesie sono state Odi da Poeta Laureato.
 Ma il nostro poeta più grande in assoluto venne dal nulla, e assomiglia moltissimo al nostro
 massimo umorista; ché in tal senso tanto Shakespeare quanto Dickens
 furono poeti, e poeti venuti dal nulla e che al nulla per giunta andavano.
-Nessuno dei due si può ben concepire mentre entra al servizio del [[government|Governo]]
+Nessuno dei due si può ben concepire mentre entra al servizio del Governo
 e diventa la voce ufficiale dello Stato inglese.
-Mancava loro qualcosa di quella solidità classica che [[Alone|sola]]
+Mancava loro qualcosa di quella solidità classica che sola
 può dar dignità a un'istituzione del tutto collettiva come
 l'Académie Française o persino la Comédie Française. Anche quando talenti
 di quel tipo classico esistono fra noi, essi esistono in condizioni
@@ -530,7 +530,7 @@ not only the finest but even the most fastidious foreign critic
 who can sometimes appreciate our coarsest or most comic creations.
 He can often appreciate what we do not appreciate because it is too
 popular to be fashionable.  I live in dread that some European judge
-will discover the vigour of our Cockney Comic [[songs|Songs]]; and publish them,
+will discover the vigour of our Cockney Comic Songs; and publish them,
 as we should have done, in a companion volume to the Golden Treasury.
 Anyhow, it is a very practical clue to the right method in the matter.
 We might [[motifs/well|well]] suppose, for instance, that of all thinkable things [[works/pickwick-(chesterton)|Pickwick]]
@@ -617,7 +617,7 @@ il critico straniero non solo più fine ma persino più schizzinoso
 quello che talora sa apprezzare le nostre creazioni più rozze o più comiche.
 Spesso egli sa apprezzare ciò che noi non apprezziamo perché è troppo
 popolare per essere di moda. Vivo nel timore che qualche giudice europeo
-scopra il vigore delle nostre comiche [[songs|canzoni]] cockney, e le pubblichi,
+scopra il vigore delle nostre comiche canzoni cockney, e le pubblichi,
 come avremmo dovuto fare noi, in un volume di corredo al Golden Treasury.
 Comunque sia, è un indizio assai pratico sul metodo giusto in materia.
 Potremmo [[motifs/well|bene]] supporre, per esempio, che fra tutte le cose pensabili il [[works/pickwick-(chesterton)|Pickwick]]
@@ -843,7 +843,7 @@ the type of [[concepts/endurance|endurance]] has not been stoicism but rather to
 We might say it was much too tolerant, if it had not the rare
 virtue of tolerating the intolerable.  What has really made
 the English, apart from mere jingo journalistic flatteries,
-a [[success]] in colonies and in campaigns in savage countries,
+a success in colonies and in campaigns in savage countries,
 was a certain comic acceptance of the incongruous; a certain capacity
 in the English Cockney or yokel of continuing to be absurdly like
 himself even when, in the ritual formula, he don't know where he are.
@@ -854,7 +854,7 @@ that comes of remaining rooted in very old civilizations.  But it
 is perhaps the most humorous and attractive of all national virtues;
 and men who really know from the inside the various nations of European
 humanity have found nothing more human than the ordinary English
-comic [[Song|song]] or the talk of the Tommies in the trenches.
+comic song or the talk of the Tommies in the trenches.
 
 Nothing is more English than the fact that a band of comrades
 are comic in their incongruity.  They differ and do not quarrel;
@@ -871,7 +871,7 @@ to be called prosaic; and the bird is indeed as shy as the [[motifs/nightingale|
 in the dark wood of Keats or the albatross flying over the desolate
 seas of Coleridge.  We must above all things be the reverse of vulgar,
 and therefore the reverse of vainglorious, if we are really to convey
-what [[concepts/freedom|freedom]], what [[Humour|humour]] and what [[concepts/greatness|greatness]] of heart are hidden
+what [[concepts/freedom|freedom]], what humour and what [[concepts/greatness|greatness]] of heart are hidden
 in the very seclusion of England.
 
 
@@ -882,7 +882,7 @@ il tipo di [[concepts/endurance|resistenza]] non è stato lo stoicismo, bensì p
 Potremmo dire che fu fin troppo tollerante, se non avesse la rara
 virtù di tollerare l'intollerabile. Ciò che ha veramente reso
 gli inglesi, a prescindere dalle mere adulazioni giornalistiche scioviniste,
-un [[success|successo]] nelle colonie e nelle campagne in paesi selvaggi,
+un successo nelle colonie e nelle campagne in paesi selvaggi,
 fu una certa comica accettazione dell'incongruo; una certa capacità,
 nel cockney o nello zoticone inglese, di continuare a essere assurdamente simile a
 sé stesso anche quando, secondo la formula rituale, non sa più dove si trovi.
@@ -892,7 +892,7 @@ del pieno statuto del cittadino e della piena esperienza ereditata
 che deriva dal restare radicati in civiltà assai antiche. Ma
 è forse la più umoristica e attraente di tutte le virtù nazionali;
 e gli uomini che conoscono davvero dall'interno le varie nazioni dell'umanità
-europea non hanno trovato nulla di più umano dell'ordinaria [[Song|canzone]]
+europea non hanno trovato nulla di più umano dell'ordinaria canzone
 comica inglese o delle chiacchiere dei Tommies nelle trincee.
 
 Nulla è più inglese del fatto che una brigata di compagni
@@ -910,5 +910,5 @@ essere chiamato prosaico; e l'uccello è invero timido come l'[[motifs/nightinga
 nel bosco oscuro di Keats o l'albatro che vola sui desolati
 mari di Coleridge. Dobbiamo soprattutto essere l'opposto del volgare,
 e perciò l'opposto del vanaglorioso, se davvero vogliamo trasmettere
-quanta [[concepts/freedom|libertà]], quanto [[Humour|umorismo]] e quanta [[concepts/greatness|grandezza]] di cuore si celino
+quanta [[concepts/freedom|libertà]], quanto umorismo e quanta [[concepts/greatness|grandezza]] di cuore si celino
 nel raccoglimento stesso dell'Inghilterra.

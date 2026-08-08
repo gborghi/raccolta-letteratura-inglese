@@ -16,8 +16,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- 1123. A great Hope fell (Dickinson)
-- 761. From Blank to Blank — (Dickinson)
-- 770. I lived on Dread — (Dickinson)
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1123_a_great_hope_fell|1123. A great Hope fell (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0761_from_blank_to_blank|761. From Blank to Blank — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0770_i_lived_on_dread|770. I lived on Dread — (Dickinson)]]
 
 </div>

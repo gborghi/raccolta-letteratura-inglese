@@ -116,7 +116,7 @@ Siamo lieti d'essere sparse, poco bene ci facemmo l'una all'altra,
 Sotto un albero nel fresco del giorno, con la benedizione della sabbia,  
 Dimenticando se stesse e l'una l'altra, unite  
 Nella quiete del [[motifs/desert|deserto]]. Questa è la terra che voi  
-Dividerete a sorte. E né divisione né [[unity|unità]]  
+Dividerete a sorte. E né divisione né unità  
 Importa. Questa è la terra. Abbiamo la nostra eredità.  
 
 III Alla prima svolta della seconda scala  
@@ -234,7 +234,7 @@ Dall'ampia [[motifs/window|finestra]] verso la riva di granito
 Le vele bianche ancora volano verso il mare, volando verso il mare  
 Ali intatte  
 E il cuore perduto s'irrigidisce e gioisce  
-Nel lillà perduto e nelle perdute [[Sea Voices|voci del mare]]  
+Nel lillà perduto e nelle perdute voci del mare  
 E il debole spirito si ridesta a [[archetypes/rebel|ribellarsi]]  
 Per la verga d'oro piegata e il perduto odore del mare  
 Si ridesta a ritrovare  
@@ -362,7 +362,7 @@ We are glad to be scattered, we did little good to each other,
 Under a tree in the cool of the day, with the blessing of sand,  
 Forgetting themselves and each other, united  
 In the quiet of the [[motifs/desert|desert]]. This is the land which ye  
-Shall divide by lot. And neither division nor [[unity]]  
+Shall divide by lot. And neither division nor unity  
 Matters. This is the land. We have our inheritance.  
 
 
@@ -471,7 +471,7 @@ We are glad to be scattered, we did little good to each other,
 Under a tree in the cool of the day, with the blessing of sand,  
 Forgetting themselves and each other, united  
 In the quiet of the [[motifs/desert|desert]]. This is the land which ye  
-Shall divide by lot. And neither division nor [[unity]]  
+Shall divide by lot. And neither division nor unity  
 Matters. This is the land. We have our inheritance.  
 
 III At the first turning of the second stair  
@@ -558,7 +558,7 @@ Siamo lieti d'essere sparse, poco bene ci facemmo l'una all'altra,
 Sotto un albero nel fresco del giorno, con la benedizione della sabbia,  
 Dimenticando se stesse e l'una l'altra, unite  
 Nella quiete del [[motifs/desert|deserto]]. Questa è la terra che voi  
-Dividerete a sorte. E né divisione né [[unity|unità]]  
+Dividerete a sorte. E né divisione né unità  
 Importa. Questa è la terra. Abbiamo la nostra eredità.
 
 
@@ -835,7 +835,7 @@ From the wide [[motifs/window|window]] towards the granite shore
 The white sails still fly seaward, seaward flying  
 Unbroken wings  
 And the lost heart stiffens and rejoices  
-In the lost lilac and the lost [[Sea Voices|sea voices]]  
+In the lost lilac and the lost sea voices  
 And the weak spirit quickens to [[archetypes/rebel|rebel]]  
 For the bent golden-rod and the lost sea smell  
 Quickens to recover  
@@ -920,7 +920,7 @@ From the wide [[motifs/window|window]] towards the granite shore
 The white sails still fly seaward, seaward flying  
 Unbroken wings  
 And the lost heart stiffens and rejoices  
-In the lost lilac and the lost [[Sea Voices|sea voices]]  
+In the lost lilac and the lost sea voices  
 And the weak spirit quickens to [[archetypes/rebel|rebel]]  
 For the bent golden-rod and the lost sea smell  
 Quickens to recover  
@@ -945,7 +945,7 @@ And spirit of the [[motifs/river|river]], spirit of the sea,
 Suffer me not to be separated  
 And let my cry come unto Thee.  
 
-[[characters/ariel|ARIEL]] [[Poems|POEMS]]  
+[[characters/ariel|ARIEL]] POEMS  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -962,7 +962,7 @@ Dall'ampia [[motifs/window|finestra]] verso la riva di granito
 Le vele bianche ancora volano verso il mare, volando verso il mare  
 Ali intatte  
 E il cuore perduto s'irrigidisce e gioisce  
-Nel lillà perduto e nelle perdute [[Sea Voices|voci del mare]]  
+Nel lillà perduto e nelle perdute voci del mare  
 E il debole spirito si ridesta a [[archetypes/rebel|ribellarsi]]  
 Per la verga d'oro piegata e il perduto odore del mare  
 Si ridesta a ritrovare  

@@ -44,12 +44,12 @@ tags:
 - [[works/to-the-rev.-george-coleridge-(coleridge)|TO THE REV. GEORGE COLERIDGE (Coleridge)]]
 - [[works/hard-times-(dickens)|Hard Times (Dickens)]]
 - [[works/nicholas-nickleby-(dickens)|Nicholas Nickleby (Dickens)]]
-- 1532. From all the Jails the Boys and Girls (Dickinson)
-- 320. We play at Paste — (Dickinson)
-- 433. Knows how to forget! (Dickinson)
-- 545. 'Tis One by One — the Father counts — (Dickinson)
-- 689. The Zeroes — taught us — Phosphorous — (Dickinson)
-- 769. One and One — are One — (Dickinson)
+- [[testi/dickinson/atomized/child-orphan#1532_from_all_the_jails_the_boys_and_girls|1532. From all the Jails the Boys and Girls (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0320_we_play_at_paste|320. We play at Paste — (Dickinson)]]
+- [[testi/dickinson/atomized/memory-and-time-memory-nostalgia#0433_knows_how_to_forget|433. Knows how to forget! (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love#0545_tis_one_by_one_the_father_counts|545. 'Tis One by One — the Father counts — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0689_the_zeroes_taught_us_phosphorous|689. The Zeroes — taught us — Phosphorous — (Dickinson)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0769_one_and_one_are_one|769. One and One — are One — (Dickinson)]]
 - [[works/at-graduation-1905-(eliot)|At Graduation 1905 (Eliot)]]
 - [[works/ode-(eliot)|Ode (Eliot)]]
 - [[works/spenserian-stanza-(keats)|Spenserian Stanza (Keats)]]

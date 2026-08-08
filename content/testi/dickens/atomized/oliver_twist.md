@@ -79,7 +79,7 @@ PERFORMED
 XXVII    ATONES FOR THE UNPOLITENESS OF A FORMER CHAPTER; WHICH
 DESERTED A LADY, MOST UNCEREMONIOUSLY
 XXVIII   LOOKS AFTER [[characters/oliver|OLIVER]], AND PROCEEDS WITH HIS ADVENTURES
-XXIX     HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE [[house|HOUSE]], TO
+XXIX     HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE HOUSE, TO
 WHICH [[characters/oliver|OLIVER]] RESORTED
 XXX      RELATES WHAT [[characters/oliver|OLIVER]]’S NEW VISITORS THOUGHT OF HIM
 XXXI     INVOLVES A CRITICAL POSITION
@@ -105,7 +105,7 @@ ALREADY ACQUAINTED, AND SHOWS HOW [[characters/monks|MONKS]] AND THE JEW LAID TH
 WORTHY HEADS TOGETHER
 XL       A STRANGE INTERVIEW, WHICH IS A SEQUEL TO THE LAST CHAMBER
 XLI      CONTAINING FRESH DISCOVERIES, AND SHOWING THAT SUPRISES, LIKE
-MISFORTUNES, SELDOM COME [[Alone|ALONE]]
+MISFORTUNES, SELDOM COME ALONE
 XLII     AN OLD ACQUAINTANCE OF [[characters/oliver|OLIVER]]’S, EXHIBITING DECIDED MARKS OF
 GENIUS, BECOMES A PUBLIC CHARACTER IN THE METROPOLIS
 XLIII    WHEREIN IS SHOWN HOW THE [[characters/artful-dodger|ARTFUL DODGER]] GOT INTO TROUBLE
@@ -267,7 +267,7 @@ course of treachery and [[concepts/deception|deception]]. He was brought up by h
 hungry and destitute situation of the infant [[archetypes/orphan|orphan]] was duly reported
 by the workhouse authorities to the parish authorities. The parish
 authorities inquired with dignity of the workhouse authorities, whether
-there was no female then domiciled in “the [[house]]” who was in a
+there was no female then domiciled in “the house” who was in a
 situation to impart to [[characters/oliver-twist|Oliver Twist]], the consolation and nourishment of
 which he stood in need. The workhouse authorities replied with
 [[concepts/humility|humility]], that there was not. Upon this, the parish authorities
@@ -295,7 +295,7 @@ demonstrated it so [[motifs/well|well]], that he had got his own [[motifs/horse|
 a day, and would unquestionably have rendered him a very spirited and
 rampacious animal on nothing at all, if he had not died,
 four-and-twenty hours before he was to have had his first comfortable
-bait of air. Unfortunately for the experimental [[philosophy]] of the
+bait of air. Unfortunately for the experimental philosophy of the
 female to whose protecting care [[characters/oliver-twist|Oliver Twist]] was delivered over, a
 similar result usually attended the operation of _her_ system; for at
 the very moment when the [[archetypes/child|child]] had contrived to exist upon the smallest
@@ -333,7 +333,7 @@ birth-day at all. Be this as it may, however, it _was_ his ninth
 birthday; and he was keeping it in the coal-cellar with a select party
 of two other young gentleman, who, after participating with him in a
 sound thrashing, had been locked up for atrociously presuming to be
-hungry, when Mrs. Mann, the good lady of the [[house]], was unexpectedly
+hungry, when Mrs. Mann, the good lady of the house, was unexpectedly
 startled by the apparition of Mr. Bumble, the beadle, striving to undo
 the wicket of the [[motifs/garden|garden]]-gate.
 
@@ -406,7 +406,7 @@ Mr. Bumble coughed.
 
 “What is it?” inquired the beadle.
 
-“Why, it’s what I’m obliged to keep a little of in the [[house]], to put
+“Why, it’s what I’m obliged to keep a little of in the house, to put
 into the blessed infants’ Daffy, when they ain’t [[motifs/well|well]], Mr. Bumble,”
 replied Mrs. Mann as she opened a corner cupboard, and took down a
 bottle and glass. “It’s gin. I’ll not deceive you, Mr. B. It’s gin.”
@@ -455,7 +455,7 @@ again, when we come to Z.”
 “[[motifs/well|Well]], [[motifs/well|well]],” said the beadle, evidently gratified with the compliment;
 “perhaps I may be. Perhaps I may be, Mrs. Mann.” He finished the
 gin-and-[[motifs/water|water]], and added, “[[characters/oliver|Oliver]] being now too old to remain here, the
-board have determined to have him back into the [[house]]. I have come out
+board have determined to have him back into the house. I have come out
 myself to take him there. So let me see him at once.”
 
 “I’ll fetch him directly,” said Mrs. Mann, leaving the room for that
@@ -597,14 +597,14 @@ mortar elysium, where it was all play and no work. “Oho!” said the
 board, looking very knowing; “we are the fellows to set this to rights;
 we’ll stop it all, in no [[motifs/time|time]].” So, they established the rule, that all
 poor people should have the alternative (for they would compel nobody,
-not they), of being starved by a gradual process in the [[house]], or by a
+not they), of being starved by a gradual process in the house, or by a
 quick one out of it. With this view, they contracted with the
 [[motifs/water|water]]-works to lay on an unlimited supply of [[motifs/water|water]]; and with a
 corn-factory to supply periodically small quantities of oatmeal; and
 issued three meals of thin gruel a day, with an onion twice a week, and
 half a roll of Sundays. They made a great many other wise and humane
 regulations, having reference to the ladies, which it is not necessary
-to repeat; kindly undertook to [[divorce]] poor married people, in
+to repeat; kindly undertook to divorce poor married people, in
 consequence of the great expense of a suit in Doctors’ Commons; and,
 instead of compelling a man to support his family, as they had
 theretofore done, took his family away from him, and made him a
@@ -774,20 +774,20 @@ of paying certain arrears of rent, for which his landlord had become
 rather pressing. Mr. Gamfield’s most sanguine estimate of his finances
 could not raise them within full five pounds of the desired amount;
 and, in a species of arithmetical desperation, he was alternately
-cudgelling his brains and his [[donkey]], when passing the workhouse, his
+cudgelling his brains and his donkey, when passing the workhouse, his
 eyes encountered the bill on the gate.
 
-“Wo—o!” said Mr. Gamfield to the [[donkey]].
+“Wo—o!” said Mr. Gamfield to the donkey.
 
-The [[donkey]] was in a state of profound abstraction: wondering, probably,
+The donkey was in a state of profound abstraction: wondering, probably,
 whether he was destined to be regaled with a cabbage-stalk or two when
 he had disposed of the two sacks of soot with which the little cart was
 laden; so, without noticing the word of command, he jogged onward.
 
-Mr. Gamfield growled a fierce imprecation on the [[donkey]] generally, but
+Mr. Gamfield growled a fierce imprecation on the donkey generally, but
 more particularly on his eyes; and, running after him, bestowed a blow
 on his head, which would inevitably have beaten in any skull but a
-[[donkey]]’s. Then, catching hold of the bridle, he gave his jaw a sharp
+donkey’s. Then, catching hold of the bridle, he gave his jaw a sharp
 wrench, by way of gentle reminder that he was not his own master; and
 by these means turned him round. He then gave him another blow on the
 head, just to stun him till he came back again. Having completed these
@@ -796,7 +796,7 @@ arrangements, he walked up to the gate, to read the bill.
 The gentleman with the white waistcoat was standing at the gate with
 his hands behind him, after having delivered himself of some profound
 sentiments in the board-room. Having witnessed the little dispute
-between Mr. Gamfield and the [[donkey]], he smiled joyously when that
+between Mr. Gamfield and the donkey, he smiled joyously when that
 person came up to read the bill, for he saw at once that Mr. Gamfield
 was exactly the sort of master [[characters/oliver-twist|Oliver Twist]] wanted. Mr. Gamfield
 smiled, too, as he perused the document; for five pounds was just the
@@ -818,7 +818,7 @@ good ’spectable chimbley-sweepin’ bisness,” said Mr. Gamfield, “I wants
 a ’prentis, and I am ready to take him.”
 
 “Walk in,” said the gentleman in the white waistcoat. Mr. Gamfield
-having lingered behind, to give the [[donkey]] another blow on the head,
+having lingered behind, to give the donkey another blow on the head,
 and another wrench of the jaw, as a caution not to run away in his
 absence, followed the gentleman with the white waistcoat into the room
 where [[characters/oliver|Oliver]] had first seen him.
@@ -849,7 +849,7 @@ explanation; but his mirth was speedily checked by a look from Mr.
 Limbkins. The board then proceeded to converse among themselves for a
 few minutes, but in so low a tone, that the words “saving of
 expenditure,” “looked [[motifs/well|well]] in the accounts,” “have a printed report
-published,” were [[Alone|alone]] audible. These only chanced to be heard, indeed,
+published,” were alone audible. These only chanced to be heard, indeed,
 on account of their being very frequently repeated with great emphasis.
 
 At length the whispering ceased; and the members of the board, having
@@ -1112,7 +1112,7 @@ LIFE
 In great families, when an advantageous place cannot be obtained,
 either in possession, reversion, remainder, or expectancy, for the
 young man who is growing up, it is a very general custom to send him to
-sea. The board, in [[Imitation|imitation]] of so wise and salutary an example, took
+sea. The board, in imitation of so wise and salutary an example, took
 counsel together on the expediency of shipping off [[characters/oliver-twist|Oliver Twist]], in
 some small trading vessel bound to a good unhealthy port. This
 suggested itself as the very best thing that could possibly be done
@@ -1178,7 +1178,7 @@ observations which the beadle had interrupted: “though I must say, Mr.
 Bumble, that I have to contend against one very great disadvantage:
 which is, that all the stout people go off the quickest. The people who
 have been better off, and have paid rates for many years, are the first
-to sink when they come into the [[house]]; and let me tell you, Mr. Bumble,
+to sink when they come into the house; and let me tell you, Mr. Bumble,
 that three or four inches over one’s calculation makes a great hole in
 one’s profits: especially when one has a family to provide for, sir.”
 
@@ -1234,7 +1234,7 @@ wretches.”
 
 “So they are,” said the undertaker.
 
-“They haven’t no more [[philosophy]] nor political economy about ’em than
+“They haven’t no more philosophy nor political economy about ’em than
 that,” said the beadle, snapping his fingers contemptuously.
 
 “No more they have,” acquiesced the undertaker.
@@ -1243,11 +1243,11 @@ that,” said the beadle, snapping his fingers contemptuously.
 
 “So do I,” rejoined the undertaker.
 
-“And I only wish we’d a jury of the independent sort, in the [[house]] for
+“And I only wish we’d a jury of the independent sort, in the house for
 a week or two,” said the beadle; “the rules and regulations of the
 board would soon bring their spirit down for ’em.”
 
-“Let ’em [[Alone|alone]] for that,” replied the undertaker. So saying, he smiled,
+“Let ’em alone for that,” replied the undertaker. So saying, he smiled,
 approvingly: to calm the rising wrath of the indignant parish officer.
 
 [[characters/mr-bumble|Mr Bumble]] lifted off his cocked hat; took a handkerchief from the
@@ -1275,7 +1275,7 @@ of a boy without putting too much food into him, he shall have him for
 a term of years, to do what he likes with.
 
 When little [[characters/oliver|Oliver]] was taken before “the gentlemen” that evening; and
-informed that he was to go, that [[motifs/night|night]], as general [[house]]-lad to a
+informed that he was to go, that [[motifs/night|night]], as general house-lad to a
 coffin-maker’s; and that if he complained of his situation, or ever
 came back to the parish again, he would be sent to sea, there to be
 drowned, or knocked on the head, as the case might be, he evinced so
@@ -1449,7 +1449,7 @@ recess beneath the counter in which his flock mattress was thrust,
 looked like a [[motifs/grave|grave]].
 
 Nor were these the only dismal feelings which depressed [[characters/oliver|Oliver]]. He was
-[[Alone|alone]] in a strange place; and we all know how chilled and desolate the
+alone in a strange place; and we all know how chilled and desolate the
 best of us will sometimes feel in such a situation. The boy had no
 friends to care for, or to care for him. The regret of no recent
 separation was fresh in his mind; the absence of no loved and
@@ -1495,7 +1495,7 @@ For a second or two, [[characters/oliver|Oliver]] glanced up the street, and dow
 and over the way: impressed with the belief that the unknown, who had
 addressed him through the key-hole, had walked a few paces off, to warm
 himself; for nobody did he see but a big [[concepts/charity|charity]]-boy, sitting on a post
-in front of the [[house]], eating a slice of bread and butter: which he cut
+in front of the house, eating a slice of bread and butter: which he cut
 into wedges, the size of his mouth, with a clasp-knife, and then
 consumed with great dexterity.
 
@@ -1527,7 +1527,7 @@ nose and yellow smalls.
 
 [[characters/oliver|Oliver]], having taken down the shutters, and broken a pane of glass in
 his effort to stagger away beneath the weight of the first one to a
-small [[settings/court|court]] at the side of the [[house]] in which they were kept during the
+small [[settings/court|court]] at the side of the house in which they were kept during the
 day, was graciously assisted by Noah: who having consoled him with the
 assurance that “he’d catch it,” condescended to help him. Mr.
 Sowerberry came down soon after. Shortly afterwards, Mrs. Sowerberry
@@ -1544,7 +1544,7 @@ hear?”
 “D’ye hear, Work’us?” said Noah Claypole.
 
 “Lor, Noah!” said Charlotte, “what a rum creature you are! Why don’t
-you let the boy [[Alone|alone]]?”
+you let the boy alone?”
 
 
 
@@ -1552,7 +1552,7 @@ you let the boy [[Alone|alone]]?”
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="Oliver Twist — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/love,motif/nature,motif/night,motif/secrets,motif/soul,motif/time,motif/well,concept/charity,concept/melancholy,concept/nature,character/oliver,character/oliver_twist"></span>
 
 
-“Let him [[Alone|alone]]!” said Noah. “Why everybody lets him [[Alone|alone]] enough, for
+“Let him alone!” said Noah. “Why everybody lets him alone enough, for
 the matter of that. Neither his father nor his mother will ever
 interfere with him. All his relations let him have his own way pretty
 [[motifs/well|well]]. Eh, Charlotte? He! he! he!”
@@ -1667,7 +1667,7 @@ much.”
 
 “We only heard of the family the [[motifs/night|night]] before last,” said the beadle;
 “and we shouldn’t have known anything about them, then, only a woman
-who lodges in the same [[house]] made an application to the porochial
+who lodges in the same house made an application to the porochial
 committee for them to send the porochial surgeon to see a woman as was
 very bad. He had gone out to dinner; but his ’prentice (which is a very
 clever lad) sent ’em some medicine in a blacking-bottle, offhand.”
@@ -1678,7 +1678,7 @@ clever lad) sent ’em some medicine in a blacking-bottle, offhand.”
 what’s the ungrateful behaviour of these rebels, sir? Why, the husband
 sends back word that the medicine won’t suit his wife’s complaint, and
 so she shan’t take it—says she shan’t take it, sir! Good, strong,
-wholesome medicine, as was given with great [[success]] to two Irish
+wholesome medicine, as was given with great success to two Irish
 labourers and a coal-heaver, only a week before—sent ’em for nothing,
 with a blackin’-bottle in,—and he sends back word that she shan’t take
 it, sir!”
@@ -1725,7 +1725,7 @@ professional mission.
 They walked on, for some [[motifs/time|time]], through the most crowded and densely
 inhabited part of the town; and then, striking down a narrow street
 more dirty and miserable than any they had yet passed through, paused
-to look for the [[house]] which was the object of their search. The houses
+to look for the house which was the object of their search. The houses
 on either side were high and large, but very old, and tenanted by
 people of the poorest class: as their neglected appearance would have
 sufficiently denoted, without the concurrent testimony afforded by the
@@ -1833,7 +1833,7 @@ disengaged himself from the old woman’s grasp; and, drawing [[characters/olive
 after him, hurried away.
 
 The next day, (the family having been meanwhile relieved with a
-half-quartern loaf and a piece of [[cheese]], left with them by Mr. Bumble
+half-quartern loaf and a piece of cheese, left with them by Mr. Bumble
 himself,) [[characters/oliver|Oliver]] and his master returned to the miserable abode; where
 Mr. Bumble had already arrived, accompanied by four men from the
 workhouse, who were to act as bearers. An old black cloak had been
@@ -1921,7 +1921,7 @@ RATHER ASTONISHES HIM
 The month’s trial over, [[characters/oliver|Oliver]] was formally apprenticed. It was a nice
 sickly season just at this [[motifs/time|time]]. In commercial phrase, coffins were
 looking up; and, in the course of a few weeks, [[characters/oliver|Oliver]] acquired a great
-deal of experience. The [[success]] of Mr. Sowerberry’s ingenious
+deal of experience. The success of Mr. Sowerberry’s ingenious
 speculation, exceeded even his most sanguine hopes. The oldest
 inhabitants recollected no period at which measles had been so
 prevalent, or so fatal to infant existence; and many were the mournful
@@ -2091,7 +2091,7 @@ wrists while this commiseration was bestowed upon him, and performed
 some affecting [[motifs/tears|tears]] and sniffs.
 
 “What’s to be done!” exclaimed Mrs. Sowerberry. “Your master’s not at
-[[motifs/home|home]]; there’s not a man in the [[house]], and he’ll kick that door down in
+[[motifs/home|home]]; there’s not a man in the house, and he’ll kick that door down in
 ten minutes.” [[characters/oliver|Oliver]]’s vigorous plunges against the bit of timber in
 question, rendered this occurance highly probable.
 
@@ -2306,7 +2306,7 @@ This flood of [[motifs/tears|tears]] left Mr. Sowerberry no alternative. If he h
 hesitated for one instant to punish [[characters/oliver|Oliver]] most severely, it must be
 quite clear to every experienced reader that he would have been,
 according to all precedents in disputes of matrimony established, a
-brute, an unnatural husband, an insulting creature, a base [[Imitation|imitation]] of
+brute, an unnatural husband, an insulting creature, a base imitation of
 a man, and various other agreeable characters too numerous for recital
 within the limits of this chapter. To do him justice, he was, as far as
 his power went—it was not very extensive—kindly disposed towards the
@@ -2321,7 +2321,7 @@ outside the door, by no means complimentary to the [[motifs/memory|memory]] of h
 mother, looked into the room, and, amidst the jeers and pointings of
 Noah and Charlotte, ordered him upstairs to his dismal bed.
 
-It was not until he was left [[Alone|alone]] in the [[motifs/silence|silence]] and stillness of the
+It was not until he was left alone in the [[motifs/silence|silence]] and stillness of the
 gloomy workshop of the undertaker, that [[characters/oliver|Oliver]] gave way to the feelings
 which the day’s treatment may be supposed likely to have awakened in a
 mere [[archetypes/child|child]]. He had listened to their taunts with a look of contempt; he
@@ -2365,7 +2365,7 @@ He had come a long way though, and should lose a great deal of [[motifs/time|tim
 doing so. Besides, it was so early that there was very little [[concepts/fear|fear]] of
 his being seen; so he walked on.
 
-He reached the [[house]]. There was no appearance of its inmates stirring
+He reached the house. There was no appearance of its inmates stirring
 at that early hour. [[characters/oliver|Oliver]] stopped, and peeped into the [[motifs/garden|garden]]. A [[archetypes/child|child]]
 was weeding one of the little beds; as he stopped, he raised his pale
 face and disclosed the features of one of his former companions. [[characters/oliver|Oliver]]
@@ -2454,7 +2454,7 @@ begged at the cottage-doors by the [[motifs/road|road]]-side. When the [[motifs/
 turned into a meadow; and, creeping close under a hay-rick, determined
 to lie there, till morning. He felt frightened at first, for the [[motifs/wind|wind]]
 moaned dismally over the empty fields, and he was cold and hungry, and
-more [[Alone|alone]] than he had ever felt before. Being very tired with his
+more alone than he had ever felt before. Being very tired with his
 walk, however, he soon fell asleep and forgot his troubles.
 
 He felt cold and stiff, when he got up next morning, and so hungry that
@@ -2484,7 +2484,7 @@ about the inn-yards, and look mournfully at every one who passed: a
 proceeding which generally terminated in the landlady’s ordering one of
 the post-boys who were lounging about, to drive that strange boy out of
 the place, for she was sure he had come to steal something. If he
-begged at a farmer’s [[house]], ten to one but they threatened to set the
+begged at a farmer’s house, ten to one but they threatened to set the
 dog on him; and when he showed his nose in a shop, they talked about
 the beadle—which brought [[characters/oliver|Oliver]]’s heart into his mouth,—very often the
 only thing he had there, for many hours together.
@@ -2493,7 +2493,7 @@ In fact, if it had not been for a good-hearted turnpike-man, and a
 benevolent old lady, [[characters/oliver|Oliver]]’s troubles would have been shortened by the
 very same process which had put an end to his mother’s; in other words,
 he would most assuredly have fallen dead upon the [[archetypes/king|king]]’s highway. But
-the turnpike-man gave him a meal of bread and [[cheese]]; and the old lady,
+the turnpike-man gave him a meal of bread and cheese; and the old lady,
 who had a shipwrecked grandson wandering barefoot in some distant part
 of the earth, took pity upon the poor [[archetypes/orphan|orphan]], and gave him what little
 she could afford—and more—with such kind and gentle words, and such
@@ -2520,7 +2520,7 @@ by; but none relieved him, or troubled themselves to inquire how he
 came there. He had no heart to beg. And there he sat.
 
 He had been crouching on the step for some [[motifs/time|time]]: wondering at the great
-number of public-houses (every other [[house]] in Barnet was a tavern,
+number of public-houses (every other house in Barnet was a tavern,
 large or small), gazing listlessly at the coaches as they passed
 through, and thinking how strange it seemed that they could do, with
 ease, in a few hours, what it had taken him a whole week of [[concepts/courage|courage]] and
@@ -2586,7 +2586,7 @@ and a half-quartern loaf, or, as he himself expressed it, “a fourpenny
 bran!” the ham being kept clean and preserved from [[motifs/dust|dust]], by the
 ingenious expedient of making a hole in the loaf by pulling out a
 portion of the crumb, and stuffing it therein. Taking the bread under
-his arm, the young gentleman turned into a small public-[[house]], and led
+his arm, the young gentleman turned into a small public-house, and led
 the way to a tap-room in the rear of the premises. Here, a pot of beer
 was brought in, by direction of the mysterious youth; and [[characters/oliver|Oliver]],
 falling to, at his new friend’s bidding, made a long and hearty meal,
@@ -2684,7 +2684,7 @@ or harmless errands.
 
 [[characters/oliver|Oliver]] was just considering whether he hadn’t better run away, when
 they reached the [[characters/bottom|bottom]] of the [[motifs/hill|hill]]. His conductor, catching him by the
-arm, pushed open the door of a [[house]] near Field Lane; and drawing him
+arm, pushed open the door of a house near Field Lane; and drawing him
 into the passage, closed it behind them.
 
 “Now, then!” cried a voice from below, in reply to a whistle from the
@@ -2813,7 +2813,7 @@ Dragging an old chair to the table, he sat down; and took from it a
 magnificent gold watch, sparkling with jewels.
 
 “Aha!” said the Jew, shrugging up his shoulders, and distorting every
-feature with a hideous grin. “Clever [[dogs]]! Clever [[dogs]]! Staunch to the
+feature with a hideous grin. “Clever dogs! Clever dogs! Staunch to the
 last! Never told the old parson where they were. Never poached upon old
 [[characters/fagin|Fagin]]! And why should they? It wouldn’t have loosened the knot, or kept
 the drop up, a minute longer. No, no, no! Fine fellows! Fine fellows!”
@@ -2829,7 +2829,7 @@ Having replaced these trinkets, the Jew took out another: so small that
 it lay in the palm of his hand. There seemed to be some very minute
 [[forms/inscription|inscription]] on it; for the Jew laid it flat upon the table, and shading
 it with his hand, pored over it, long and earnestly. At length he put
-it down, as if despairing of [[success]]; and, leaning back in his chair,
+it down, as if despairing of success; and, leaning back in his chair,
 muttered:
 
 “What a fine thing capital punishment is! Dead men never repent; dead
@@ -2973,7 +2973,7 @@ his trousers, a note-case in the other, and a watch in his waistcoat
 pocket, with a guard-chain round his neck, and sticking a mock diamond
 pin in his shirt: buttoned his coat tight round him, and putting his
 spectacle-case and handkerchief in his pockets, trotted up and down the
-room with a stick, in [[Imitation|imitation]] of the manner in which old gentlemen
+room with a stick, in imitation of the manner in which old gentlemen
 walk about the streets any hour in the day. Sometimes he stopped at the
 [[motifs/fire|fire]]-place, and sometimes at the door, making believe that he was
 staring with all his might into shop-windows. At such times, he would
@@ -3069,7 +3069,7 @@ earnestly entreating the old gentleman to allow him to go out to work
 with his two companions.
 
 [[characters/oliver|Oliver]] was rendered the more anxious to be actively employed, by what
-he had seen of the stern [[morality]] of the old gentleman’s character.
+he had seen of the stern morality of the old gentleman’s character.
 Whenever the Dodger or Charley Bates came [[motifs/home|home]] at [[motifs/night|night]], empty-handed,
 he would expatiate with great vehemence on the misery of idle and lazy
 habits; and would enforce upon them the necessity of an active life, by
@@ -3178,13 +3178,13 @@ he would have been prepared for this. Not being prepared, however, it
 alarmed him the more; so away he went like the [[motifs/wind|wind]], with the old
 gentleman and the two boys roaring and shouting behind him.
 
-“Stop thief! Stop thief!” There is a [[Magic|magic]] in the sound. The tradesman
+“Stop thief! Stop thief!” There is a magic in the sound. The tradesman
 [[motifs/leaves|leaves]] his counter, and the car-man his waggon; the butcher throws down
 his tray; the baker his basket; the milkman his pail; the errand-boy
 his parcels; the school-boy his marbles; the paviour his pickaxe; the
 [[archetypes/child|child]] his battledore. Away they run, pell-mell, helter-skelter,
 slap-dash: tearing, yelling, screaming, knocking down the passengers as
-they turn the corners, rousing up the [[dogs]], and astonishing the fowls:
+they turn the corners, rousing up the dogs, and astonishing the fowls:
 and streets, squares, and courts, re-echo with the sound.
 
 “Stop thief! Stop thief!” The cry is taken up by a hundred voices, and
@@ -3633,7 +3633,7 @@ FRIENDS.
 The coach rattled away, over nearly the same ground as that which
 [[characters/oliver|Oliver]] had traversed when he first entered [[settings/london|London]] in company with the
 Dodger; and, turning a different way when it reached the Angel at
-Islington, stopped at length before a neat [[house]], in a quiet shady
+Islington, stopped at length before a neat house, in a quiet shady
 street near Pentonville. Here, a bed was prepared, without loss of
 [[motifs/time|time]], in which Mr. Brownlow saw his young charge carefully and
 comfortably deposited; and here, he was tended with a kindness and
@@ -3764,7 +3764,7 @@ prayed to Heaven.
 
 
 Gradually, he fell into that deep tranquil [[motifs/sleep|sleep]] which ease from recent
-[[concepts/suffering|suffering]] [[Alone|alone]] imparts; that calm and peaceful rest which it is [[motifs/pain|pain]]
+[[concepts/suffering|suffering]] alone imparts; that calm and peaceful rest which it is [[motifs/pain|pain]]
 to wake from. Who, if this were [[motifs/death|death]], would be roused again to all the
 struggles and turmoils of life; to all its cares for the present; its
 anxieties for the future; more than all, its weary recollections of the
@@ -4144,7 +4144,7 @@ mischief when you come that. You know my name: out with it! I shan’t
 disgrace it when the [[motifs/time|time]] comes.”
 
 “[[motifs/well|Well]], [[motifs/well|well]], then—[[characters/bill-sikes|Bill Sikes]],” said the Jew, with abject [[concepts/humility|humility]]. “You
-seem out of [[Humour|humour]], Bill.”
+seem out of humour, Bill.”
 
 “Perhaps I am,” replied Sikes; “I should think you was rather out of
 sorts too, unless you mean as little harm when you throw pewter pots
@@ -4314,7 +4314,7 @@ wishing they was all like her!”
 While these, and many other encomiums, were being passed on the
 accomplished [[characters/nancy|Nancy]], that young lady made the best of her way to the
 police-office; whither, notwithstanding a little natural timidity
-consequent upon walking through the streets [[Alone|alone]] and unprotected, she
+consequent upon walking through the streets alone and unprotected, she
 arrived in perfect safety shortly afterwards.
 
 Entering by the back way, she tapped softly with the key at one of the
@@ -4332,7 +4332,7 @@ listened again. Still there was no reply: so she spoke.
 There was nobody inside but a miserable shoeless criminal, who had been
 taken up for playing the flute, and who, the offence against society
 having been clearly proved, had been very properly committed by Mr.
-Fang to the [[house|House]] of Correction for one month; with the appropriate and
+Fang to the House of Correction for one month; with the appropriate and
 amusing remark that since he had so much breath to spare, it would be
 more wholesomely expended on the treadmill than in a musical
 instrument. He made no answer: being occupied mentally bewailing the
@@ -4617,7 +4617,7 @@ servant, running upstairs, announced Mr. Grimwig.
 “Is he coming up?” inquired Mr. Brownlow.
 
 “Yes, sir,” replied the servant. “He asked if there were any muffins in
-the [[house]]; and, when I told him yes, he said he had come to tea.”
+the house; and, when I told him yes, he said he had come to tea.”
 
 Mr. Brownlow smiled; and, turning to [[characters/oliver|Oliver]], said that Mr. Grimwig was
 an old friend of his, and he must not mind his being a little rough in
@@ -4645,7 +4645,7 @@ orange-peel at arm’s length, exclaimed, in a growling, discontented
 voice,
 
 “Look here! do you see this! Isn’t it a most wonderful and
-extraordinary thing that I can’t call at a man’s [[house]] but I find a
+extraordinary thing that I can’t call at a man’s house but I find a
 piece of this poor surgeon’s friend on the staircase? I’ve been lamed
 with orange-peel once, and I know orange-peel will be my [[motifs/death|death]], or I’ll
 be content to eat my own head, sir!”
@@ -4762,7 +4762,7 @@ content to—and so forth.
 
 All this, Mr. Brownlow, although himself somewhat of an impetuous
 gentleman: knowing his friend’s peculiarities, bore with great good
-[[Humour|humour]]; as Mr. Grimwig, at tea, was graciously pleased to express his
+humour; as Mr. Grimwig, at tea, was graciously pleased to express his
 entire approval of the muffins, matters went on very smoothly; and
 [[characters/oliver|Oliver]], who made one of the party, began to feel more at his ease than
 he had yet done in the fierce old gentleman’s presence.
@@ -4772,7 +4772,7 @@ the life and adventures of [[characters/oliver-twist|Oliver Twist]]?” asked Gr
 Brownlow, at the conclusion of the meal; looking sideways at [[characters/oliver|Oliver]], as
 he resumed his subject.
 
-“Tomorrow morning,” replied Mr. Brownlow. “I would rather he was [[Alone|alone]]
+“Tomorrow morning,” replied Mr. Brownlow. “I would rather he was alone
 with me at the [[motifs/time|time]]. Come up to me tomorrow morning at ten o’[[motifs/clock|clock]], my
 dear.”
 
@@ -4879,7 +4879,7 @@ moment; and it was rendered stronger by his friend’s confident smile.
 “No,” he said, smiting the table with his fist, “I do not. The boy has
 a new suit of clothes on his back, a set of valuable books under his
 arm, and a five-pound note in his pocket. He’ll join his old friends
-the thieves, and laugh at you. If ever that boy returns to this [[house]],
+the thieves, and laugh at you. If ever that boy returns to this house,
 sir, I’ll eat my head.”
 
 With these words he drew his chair closer to the table; and there the
@@ -4908,7 +4908,7 @@ SHOWING HOW VERY FOND OF [[characters/oliver-twist|OLIVER TWIST]], THE MERRY OLD
 WERE
 
 
-In the obscure parlour of a low public-[[house]], in the filthiest part of
+In the obscure parlour of a low public-house, in the filthiest part of
 Little Saffron [[motifs/hill|Hill]]; a dark and gloomy den, where a flaring gas-light
 burnt all day in the [[motifs/winter|winter]]-[[motifs/time|time]]; and where no ray of sun ever shone in
 the [[motifs/summer|summer]]: there sat, brooding over a little pewter measure and a
@@ -4929,7 +4929,7 @@ from kicking an unoffending animal to allay them, is matter for
 argument and consideration. Whatever was the cause, the effect was a
 kick and a curse, bestowed upon the dog simultaneously.
 
-[[dogs|Dogs]] are not generally apt to [[concepts/revenge|revenge]] injuries inflicted upon them by
+Dogs are not generally apt to [[concepts/revenge|revenge]] injuries inflicted upon them by
 their masters; but Mr. Sikes’s dog, having faults of temper in common
 with his owner, and labouring, perhaps, at this moment, under a
 powerful sense of injury, made no more ado but at once fixed his teeth
@@ -4977,7 +4977,7 @@ wish you had been the dog, [[characters/fagin|Fagin]], half a minute ago.”
 
 “Why?” inquired the Jew with a forced smile.
 
-“’Cause the [[government]], as cares for the lives of such men as you, as
+“’Cause the government, as cares for the lives of such men as you, as
 haven’t half the pluck of curs, lets a man kill a dog how he likes,”
 replied Sikes, shutting up the knife with a very expressive look;
 “that’s why.”
@@ -5295,7 +5295,7 @@ looks to hold much the same position in society as Mr. Sikes himself.
 At length they turned into a very filthy narrow street, nearly full of
 old-clothes shops; the dog running forward, as if conscious that there
 was no further occasion for his keeping on guard, stopped before the
-door of a shop that was closed and apparently untenanted; the [[house]] was
+door of a shop that was closed and apparently untenanted; the house was
 in a ruinous condition, and on the door was nailed a board, intimating
 that it was to let: which looked as if it had hung there for many
 years.
@@ -5307,7 +5307,7 @@ They crossed to the opposite side of the street, and stood for a few
 moments under a lamp. A noise, as if a sash [[motifs/window|window]] were gently raised,
 was heard; and soon afterwards the door softly opened. Mr. Sikes then
 seized the terrified boy by the collar with very little ceremony; and
-all three were quickly inside the [[house]].
+all three were quickly inside the house.
 
 The passage was perfectly dark. They waited, while the person who had
 let them in, chained and barred the door.
@@ -5400,7 +5400,7 @@ Jew.
 “Fair, or not fair,” retorted Sikes, “hand over, I tell you! Do you
 think [[characters/nancy|Nancy]] and me has got nothing else to do with our precious [[motifs/time|time]]
 but to spend it in scouting arter, and kidnapping, every young boy as
-gets grabbed through you? Give it here, you avaricious old [[skeleton]],
+gets grabbed through you? Give it here, you avaricious old skeleton,
 give it here!”
 
 With this gentle remonstrance, Mr. Sikes plucked the note from between
@@ -5419,7 +5419,7 @@ lively sense of the ludicrous, fell into another ectasy, more
 boisterous than the first.
 
 “They belong to the old gentleman,” said [[characters/oliver|Oliver]], wringing his hands;
-“to the good, kind, old gentleman who took me into his [[house]], and had
+“to the good, kind, old gentleman who took me into his house, and had
 me nursed, when I was near dying of the fever. Oh, pray send them back;
 send him back the books and money. Keep me here all my life long; but
 pray, pray send them back. He’ll think I stole them; the old lady: all
@@ -5447,7 +5447,7 @@ enough.”
 spoken, as if he were bewildered, and could scarecely understand what
 passed; but when [[characters/bill-sikes|Bill Sikes]] concluded, he jumped suddenly to his feet,
 and tore wildly from the room: uttering shrieks for help, which made
-the bare old [[house]] echo to the roof.
+the bare old house echo to the roof.
 
 “Keep back the dog, Bill!” cried [[characters/nancy|Nancy]], springing before the door, and
 closing it, as the Jew and his two pupils darted out in pursuit. “Keep
@@ -5629,7 +5629,7 @@ received, of his whereabout.
 “Put off the smart ones,” said Charley, “and I’ll give ’em to [[characters/fagin|Fagin]] to
 take care of. What fun it is!”
 
-Poor [[characters/oliver|Oliver]] unwillingly complied. Master Bates [[rolling]] up the new
+Poor [[characters/oliver|Oliver]] unwillingly complied. Master Bates rolling up the new
 clothes under his arm, departed from the room, leaving [[characters/oliver|Oliver]] in the
 dark, and locking the door behind him.
 
@@ -5656,7 +5656,7 @@ present the tragic and the comic scenes, in as regular alternation, as
 the layers of red and white in a side of streaky bacon. The [[archetypes/hero|hero]] sinks
 upon his straw bed, weighed down by fetters and misfortunes; in the
 next scene, his faithful but unconscious squire regales the audience
-with a comic [[Song|song]]. We behold, with throbbing bosoms, the heroine in the
+with a comic song. We behold, with throbbing bosoms, the heroine in the
 grasp of a proud and ruthless baron: her virtue and her life alike in
 danger, drawing forth her dagger to preserve the one at the cost of the
 other; and just as our expectations are wrought up to the highest
@@ -5711,7 +5711,7 @@ pleasure, this is! Come into the parlour, sir, please.”
 The first sentence was addressed to Susan; and the exclamations of
 delight were uttered to Mr. Bumble: as the good lady unlocked the
 [[motifs/garden|garden]]-gate: and showed him, with great attention and respect, into the
-[[house]].
+house.
 
 “Mrs. Mann,” said Mr. Bumble; not sitting upon, or dropping himself
 into a seat, as any common jackanapes would: but letting himself
@@ -5839,7 +5839,7 @@ The [[archetypes/child|child]] meekly raised his eyes, and encountered those of 
 “Nothing, sir,” replied the [[archetypes/child|child]] faintly.
 
 “I should think not,” said Mrs. Mann, who had of course laughed very
-much at Mr. Bumble’s [[Humour|humour]].
+much at Mr. Bumble’s humour.
 
 “You want for nothing, I’m sure.”
 
@@ -5904,7 +5904,7 @@ declared, caused his teeth to chatter in his head, and made him feel
 quite uncomfortable; although he had a great-coat on.
 
 Having disposed of these evil-minded persons for the [[motifs/night|night]], Mr. Bumble
-sat himself down in the [[house]] at which the coach stopped; and took a
+sat himself down in the house at which the coach stopped; and took a
 temperate dinner of steaks, oyster sauce, and porter. Putting a glass
 of hot gin-and-[[motifs/water|water]] on the chimney-piece, he drew his chair to the
 [[motifs/fire|fire]]; and, with sundry moral reflections on the too-prevalent sin of
@@ -5923,7 +5923,7 @@ following advertisement.
 
 
 “Whereas a young boy, named [[characters/oliver-twist|Oliver Twist]], absconded, or was enticed, on
-[[thursday|Thursday]] evening last, from his [[motifs/home|home]], at Pentonville; and has not since
+Thursday evening last, from his [[motifs/home|home]], at Pentonville; and has not since
 been heard of. The above reward will be paid to any person who will
 give such information as will lead to the discovery of the said [[characters/oliver|Oliver]]
 Twist, or tend to throw any light upon his previous [[concepts/history|history]], in which
@@ -6017,7 +6017,7 @@ That he had, from his birth, displayed no better qualities than
 treachery, ingratitude, and malice. That he had terminated his brief
 career in the place of his birth, by making a sanguinary and cowardly
 attack on an unoffending lad, and running away in the [[motifs/night|night]]-[[motifs/time|time]] from
-his master’s [[house]]. In proof of his really being the person he
+his master’s house. In proof of his really being the person he
 represented himself, Mr. Bumble laid upon the table the papers he had
 brought to town. Folding his arms again, he then awaited Mr. Brownlow’s
 observations.
@@ -6138,7 +6138,7 @@ never failing to revert to his kind friends, and the opinion they must
 long ago have formed of him, were sad indeed.
 
 After the lapse of a week or so, the Jew left the room-door unlocked;
-and he was at liberty to wander about the [[house]].
+and he was at liberty to wander about the house.
 
 It was a very dirty place. The rooms upstairs had great high wooden
 chimney-pieces and large doors, with panelled walls and cornices to the
@@ -6167,7 +6167,7 @@ and out of this, [[characters/oliver|Oliver]] often gazed with a [[concepts/mela
 together; but nothing was to be descried from it but a confused and
 crowded mass of housetops, blackened chimneys, and gable-ends.
 Sometimes, indeed, a grizzly head might be seen, peering over the
-parapet-wall of a distant [[house]]; but it was quickly withdrawn again;
+parapet-wall of a distant house; but it was quickly withdrawn again;
 and as the [[motifs/window|window]] of [[characters/oliver|Oliver]]’s observatory was nailed down, and dimmed
 with the rain and smoke of years, it was as much as he could do to make
 out the forms of the different objects beyond, without making any
@@ -6204,7 +6204,7 @@ having taken them off, or the prospective misery of putting them on, to
 disturb his reflections; or whether it was the goodness of the tobacco
 that soothed the feelings of the Dodger, or the mildness of the beer
 that mollified his thoughts; he was evidently tinctured, for the nonce,
-with a spice of [[Romance|romance]] and enthusiasm, foreign to his general [[concepts/nature|nature]].
+with a spice of romance and enthusiasm, foreign to his general [[concepts/nature|nature]].
 He looked down on [[characters/oliver|Oliver]], with a thoughtful countenance, for a brief
 space; and then, raising his head, and heaving a gentle sigh, said,
 half in abstraction, and half to Master Bates:
@@ -6241,7 +6241,7 @@ wittles for a fortnight,” said the Dodger.
 
 “He’s a rum dog. Don’t he look fierce at any strange cove that laughs
 or sings when he’s in company!” pursued the Dodger. “Won’t he growl at
-all, when he hears a fiddle playing! And don’t he hate other [[dogs]] as
+all, when he hears a fiddle playing! And don’t he hate other dogs as
 ain’t of his breed! Oh, no!”
 
 “He’s an out-and-out Christian,” said Charley.
@@ -6414,10 +6414,10 @@ interest his hearers. These were, the great advantages of the trade,
 the proficiency of the Dodger, the amiability of Charley Bates, and the
 liberality of the Jew himself. At length these subjects displayed signs
 of being thoroughly exhausted; and Mr. Chitling did the same: for the
-[[house]] of correction becomes fatiguing after a week or two. Miss Betsy
+house of correction becomes fatiguing after a week or two. Miss Betsy
 accordingly withdrew; and left the party to their repose.
 
-From this day, [[characters/oliver|Oliver]] was seldom left [[Alone|alone]]; but was placed in almost
+From this day, [[characters/oliver|Oliver]] was seldom left alone; but was placed in almost
 constant communication with the two boys, who played the old game with
 the Jew every day: whether for their own improvement or [[characters/oliver|Oliver]]’s, Mr.
 [[characters/fagin|Fagin]] best knew. At other times the old man would tell them stories of
@@ -6450,7 +6450,7 @@ chained behind him; and having listened while the boys made all secure,
 and until their retreating footsteps were no longer audible, slunk down
 the street as quickly as he could.
 
-The [[house]] to which [[characters/oliver|Oliver]] had been conveyed, was in the neighborhood of
+The house to which [[characters/oliver|Oliver]] had been conveyed, was in the neighborhood of
 Whitechapel. The Jew stopped for an instant at the corner of the
 street; and, glancing suspiciously round, crossed the [[motifs/road|road]], and struck
 off in the direction of the Spitalfields.
@@ -6473,7 +6473,7 @@ The Jew was evidently too familiar with the ground he traversed to be
 at all bewildered, either by the darkness of the [[motifs/night|night]], or the
 intricacies of the way. He hurried through several alleys and streets,
 and at length turned into one, lighted only by a single lamp at the
-farther end. At the door of a [[house]] in this street, he knocked; having
+farther end. At the door of a house in this street, he knocked; having
 exchanged a few muttered words with the person who opened it, he walked
 upstairs.
 
@@ -6590,7 +6590,7 @@ told? I tell you that Toby Crackit has been hanging about the place for
 a fortnight, and he can’t get one of the servants in line.”
 
 “Do you mean to tell me, Bill,” said the Jew: softening as the other
-grew heated: “that neither of the two men in the [[house]] can be got
+grew heated: “that neither of the two men in the house can be got
 over?”
 
 “Yes, I do mean to tell you so,” replied Sikes. “The old lady has had
@@ -6837,7 +6837,7 @@ Toby Crackit.
 
 These preliminaries adjusted, Mr. Sikes proceeded to drink brandy at a
 furious rate, and to flourish the crowbar in an alarming manner;
-yelling forth, at the same [[motifs/time|time]], most unmusical snatches of [[Song|song]],
+yelling forth, at the same [[motifs/time|time]], most unmusical snatches of song,
 mingled with wild execrations. At length, in a fit of professional
 enthusiasm, he insisted upon producing his box of housebreaking tools:
 which he had no sooner stumbled in with, and opened for the purpose of
@@ -6983,7 +6983,7 @@ to such dreadful bloodshed as it made the flesh creep, and the limbs
 quail, to think of. The terrible descriptions were so real and vivid,
 that the sallow pages seemed to turn red with gore; and the words upon
 them, to be sounded in his ears, as if they were whispered, in hollow
-murmurs, by the [[Spirits of the Dead|spirits of the dead]].
+murmurs, by the spirits of the dead.
 
 In a paroxysm of [[concepts/fear|fear]], the boy closed the book, and thrust it from him.
 Then, falling upon his knees, he prayed Heaven to spare him from such
@@ -6992,7 +6992,7 @@ for crimes, so fearful and appalling. By degrees, he grew more calm,
 and besought, in a low and broken voice, that he might be rescued from
 his present dangers; and that if any aid were to be raised up for a
 poor outcast boy who had never known the [[motifs/love|love]] of friends or kindred, it
-might come to him now, when, desolate and deserted, he stood [[Alone|alone]] in
+might come to him now, when, desolate and deserted, he stood alone in
 the midst of wickedness and [[concepts/guilt|guilt]].
 
 He had concluded his [[motifs/prayer|prayer]], but still remained with his head buried in
@@ -7106,14 +7106,14 @@ without the delay of an instant.
 The girl still held [[characters/oliver|Oliver]] fast by the hand, and continued to pour into
 his ear, the warnings and assurances she had already imparted. All was
 so quick and hurried, that he had scarcely [[motifs/time|time]] to recollect where he
-was, or how he came there, when the carriage stopped at the [[house]] to
+was, or how he came there, when the carriage stopped at the house to
 which the Jew’s steps had been directed on the previous evening.
 
 For one brief moment, [[characters/oliver|Oliver]] cast a hurried glance along the empty
 street, and a cry for help hung upon his lips. But the girl’s voice was
 in his ear, beseeching him in such tones of agony to remember her, that
 he had not the heart to utter it. While he hesitated, the opportunity
-was gone; he was already in the [[house]], and the door was shut.
+was gone; he was already in the house, and the door was shut.
 
 “This way,” said the girl, releasing her hold for the first [[motifs/time|time]].
 “Bill!”
@@ -7205,7 +7205,7 @@ pleasant witticisms on the part of Mr. Sikes, founded upon the singular
 coincidence of “jemmies” being a can name, common to them, and also to
 an ingenious implement much used in his profession. Indeed, the worthy
 gentleman, stimulated perhaps by the immediate prospect of being on
-active service, was in great spirits and good [[Humour|humour]]; in proof whereof,
+active service, was in great spirits and good humour; in proof whereof,
 it may be here remarked, that he humourously drank all the beer at a
 draught, and did not utter, on a rough calculation, more than
 four-score oaths during the whole progress of the meal.
@@ -7215,7 +7215,7 @@ appetite for it—Mr. Sikes disposed of a couple of glasses of spirits
 and [[motifs/water|water]], and threw himself on the bed; ordering [[characters/nancy|Nancy]], with many
 imprecations in case of failure, to call him at five precisely. [[characters/oliver|Oliver]]
 stretched himself in his clothes, by command of the same authority, on
-a mattress upon the floor; and the girl, [[mending]] the [[motifs/fire|fire]], sat before
+a mattress upon the floor; and the girl, mending the [[motifs/fire|fire]], sat before
 it, in readiness to rouse them at the appointed [[motifs/time|time]].
 
 For a long [[motifs/time|time]] [[characters/oliver|Oliver]] lay awake, thinking it not impossible that [[characters/nancy|Nancy]]
@@ -7266,7 +7266,7 @@ kennels were overflowing. There was a faint glimmering of the coming
 day in the sky; but it rather aggravated than relieved the gloom of the
 scene: the sombre light only serving to pale that which the street
 lamps afforded, without shedding any warmer or brighter tints upon the
-wet [[house]]-tops, and dreary streets. There appeared to be nobody
+wet house-tops, and dreary streets. There appeared to be nobody
 stirring in that quarter of the town; the windows of the houses were
 all closely shut; and the streets through which they passed, were
 noiseless and empty.
@@ -7282,7 +7282,7 @@ public-houses, with gas-lights burning inside, were already open. By
 degrees, other shops began to be unclosed, and a few scattered people
 were met with. Then, came straggling groups of labourers going to their
 work; then, men and women with fish-baskets on their heads;
-[[donkey]]-carts laden with vegetables; chaise-carts filled with live-stock
+donkey-carts laden with vegetables; chaise-carts filled with live-stock
 or whole carcasses of meat; milk-women with pails; an unbroken
 concourse of people, trudging out with various supplies to the eastern
 suburbs of the town. As they approached the [[motifs/city|City]], the noise and traffic
@@ -7305,11 +7305,11 @@ the vacant space, were filled with sheep; tied up to posts by the
 gutter side were long lines of beasts and oxen, three or four deep.
 Countrymen, butchers, drovers, hawkers, boys, thieves, idlers, and
 vagabonds of every low grade, were mingled together in a mass; the
-whistling of drovers, the barking [[dogs]], the bellowing and plunging of
+whistling of drovers, the barking dogs, the bellowing and plunging of
 the oxen, the bleating of sheep, the grunting and squeaking of pigs,
 the cries of hawkers, the shouts, oaths, and quarrelling on all sides;
 the ringing of [[motifs/bells|bells]] and roar of voices, that issued from every
-public-[[house]]; the crowding, pushing, driving, beating, whooping and
+public-house; the crowding, pushing, driving, beating, whooping and
 yelling; the hideous and discordant dim that resounded from every
 corner of the market; and the unwashed, unshaven, squalid, and dirty
 figures constantly running to and fro, and bursting in and out of the
@@ -7330,7 +7330,7 @@ already, Lazy-legs!”
 
 Mr. Sikes accompanied this speech with a jerk at his little companion’s
 wrist; [[characters/oliver|Oliver]], quickening his pace into a kind of trot between a fast
-walk and a run, kept up with the rapid strides of the [[house]]-breaker as
+walk and a run, kept up with the rapid strides of the house-breaker as
 [[motifs/well|well]] as he could.
 
 They held their course at this rate, until they had passed Hyde Park
@@ -7359,7 +7359,7 @@ As they passed the different mile-stones, [[characters/oliver|Oliver]] wondered,
 more, where his companion meant to take him. Kensington, Hammersmith,
 Chiswick, Kew Bridge, Brentford, were all passed; and yet they went on
 as steadily as if they had only just begun their [[motifs/journey|journey]]. At length,
-they came to a public-[[house]] called the Coach and Horses; a little way
+they came to a public-house called the Coach and Horses; a little way
 beyond which, another [[motifs/road|road]] appeared to run off. And here, the cart
 stopped.
 
@@ -7386,14 +7386,14 @@ Sikes waited until he had fairly gone; and then, telling [[characters/oliver|Oli
 might look about him if he wanted, once again led him onward on his
 [[motifs/journey|journey]].
 
-They turned round to the left, a short way past the public-[[house]]; and
+They turned round to the left, a short way past the public-house; and
 then, taking a right-hand [[motifs/road|road]], walked on for a long [[motifs/time|time]]: passing many
 large gardens and gentlemen’s houses on both sides of the way, and
 stopping for nothing but a little beer, until they reached a town. Here
-against the wall of a [[house]], [[characters/oliver|Oliver]] saw written up in pretty large
+against the wall of a house, [[characters/oliver|Oliver]] saw written up in pretty large
 letters, “Hampton.” They lingered about, in the fields, for some hours.
 At length they came back into the town; and, turning into an old
-public-[[house]] with a defaced sign-board, ordered some dinner by the
+public-house with a defaced sign-board, ordered some dinner by the
 kitchen [[motifs/fire|fire]].
 
 The kitchen was an old, low-roofed room; with a great beam across the
@@ -7474,7 +7474,7 @@ objects in the gaunt trees, whose branches waved grimly to and fro, as
 if in some fantastic joy at the desolation of the scene.
 
 As they passed Sunbury Church, the [[motifs/clock|clock]] struck seven. There was a
-light in the ferry-[[house]] [[motifs/window|window]] opposite: which streamed across the
+light in the ferry-house [[motifs/window|window]] opposite: which streamed across the
 [[motifs/road|road]], and threw into more sombre [[archetypes/shadow|shadow]] a dark yew-tree with graves
 beneath it. There was a dull sound of falling [[motifs/water|water]] not far off; and
 the [[motifs/leaves|leaves]] of the old tree stirred gently in the [[motifs/night|night]] [[motifs/wind|wind]]. It seemed
@@ -7484,7 +7484,7 @@ Sunbury was passed through, and they came again into the lonely [[motifs/road|ro
 Two or three miles more, and the cart stopped. Sikes alighted, took
 [[characters/oliver|Oliver]] by the hand, and they once again walked on.
 
-They turned into no [[house]] at Shepperton, as the weary boy had expected;
+They turned into no house at Shepperton, as the weary boy had expected;
 but still kept walking on, in mud and darkness, through gloomy lanes
 and over cold open wastes, until they came within sight of the lights
 of a town at no great distance. On looking intently forward, [[characters/oliver|Oliver]] saw
@@ -7498,10 +7498,10 @@ turned suddenly down a bank upon the left.
 to this lonely place to murder me!”
 
 He was about to throw himself on the ground, and make one struggle for
-his young life, when he saw that they stood before a solitary [[house]]:
+his young life, when he saw that they stood before a solitary house:
 all ruinous and decayed. There was a [[motifs/window|window]] on each side of the
 dilapidated entrance; and one story above; but no light was visible.
-The [[house]] was dark, dismantled: and, to all appearance, uninhabited.
+The house was dark, dismantled: and, to all appearance, uninhabited.
 
 Sikes, with [[characters/oliver|Oliver]]’s hand still in his, softly approached the low
 porch, and raised the latch. The door yielded to the pressure, and they
@@ -7542,7 +7542,7 @@ room, as this interrogatory was put; and there issued, from a door on
 the right hand; first, a feeble candle: and next, the form of the same
 individual who has been heretofore described as labouring under the
 infirmity of speaking through his nose, and officiating as waiter at
-the public-[[house]] on Saffron [[motifs/hill|Hill]].
+the public-house on Saffron [[motifs/hill|Hill]].
 
 “Bister Sikes!” exclaimed Barney, with real or counterfeit joy; “cub
 id, sir; cub id.”
@@ -7598,13 +7598,13 @@ to the [[motifs/fire|fire]], sat with his aching head upon his hands, scarcely k
 where he was, or what was passing around him.
 
 “Here,” said Toby, as the young Jew placed some fragments of food, and
-a bottle upon the table, “[[success|Success]] to the crack!” He [[motifs/rose|rose]] to [[concepts/honour|honour]] the
+a bottle upon the table, “Success to the crack!” He [[motifs/rose|rose]] to [[concepts/honour|honour]] the
 toast; and, carefully depositing his empty pipe in a corner, advanced
 to the table, filled a glass with spirits, and drank off its contents.
 Mr. Sikes did the same.
 
 “A drain for the boy,” said Toby, half-filling a wine-glass. “Down with
-it, [[innocence]].”
+it, innocence.”
 
 “Indeed,” said [[characters/oliver|Oliver]], looking piteously up into the man’s face;
 “indeed, I—”
@@ -7680,7 +7680,7 @@ made all fast, rolled himself up as before, and was soon asleep again.
 It was now intensely dark. The fog was much heavier than it had been in
 the early part of the [[motifs/night|night]]; and the atmosphere was so damp, that,
 although no rain fell, [[characters/oliver|Oliver]]’s hair and eyebrows, within a few minutes
-after leaving the [[house]], had become stiff with the half-frozen moisture
+after leaving the house, had become stiff with the half-frozen moisture
 that was floating about. They crossed the bridge, and kept on towards
 the lights which he had seen before. They were at no great distance
 off; and, as they walked pretty briskly, they soon arrived at Chertsey.
@@ -7690,12 +7690,12 @@ way, tonight, to see us.”
 
 Toby acquiesced; and they hurried through the main street of the little
 town, which at that late hour was wholly deserted. A dim light shone at
-intervals from some bed-room [[motifs/window|window]]; and the hoarse barking of [[dogs]]
+intervals from some bed-room [[motifs/window|window]]; and the hoarse barking of dogs
 occasionally broke the [[motifs/silence|silence]] of the [[motifs/night|night]]. But there was nobody
 abroad. They had cleared the town, as the church-bell struck two.
 
 Quickening their pace, they turned up a [[motifs/road|road]] upon the left hand. After
-walking about a quarter of a mile, they stopped before a detached [[house]]
+walking about a quarter of a mile, they stopped before a detached house
 surrounded by a wall: to the top of which, Toby Crackit, scarcely
 pausing to take breath, climbed in a twinkling.
 
@@ -7704,7 +7704,7 @@ pausing to take breath, climbed in a twinkling.
 Before [[characters/oliver|Oliver]] had [[motifs/time|time]] to look round, Sikes had caught him under the
 arms; and in three or four seconds he and Toby were lying on the grass
 on the other side. Sikes followed directly. And they stole cautiously
-towards the [[house]].
+towards the house.
 
 And now, for the first [[motifs/time|time]], [[characters/oliver|Oliver]], [[motifs/well|well]]-nigh mad with grief and
 terror, saw that housebreaking and robbery, if not murder, were the
@@ -7723,7 +7723,7 @@ bright Angels that rest in Heaven, have [[concepts/mercy|mercy]] upon me!”
 
 The man to whom this appeal was made, swore a dreadful oath, and had
 cocked the [[characters/pistol|pistol]], when Toby, striking it from his grasp, placed his
-hand upon the boy’s mouth, and dragged him to the [[house]].
+hand upon the boy’s mouth, and dragged him to the house.
 
 “Hush!” cried the man; “it won’t answer here. Say another word, and
 I’ll do your business myself with a crack on the head. That makes no
@@ -7738,7 +7738,7 @@ noise. After some delay, and some assistance from Toby, the shutter to
 which he had referred, swung open on its hinges.
 
 It was a little lattice [[motifs/window|window]], about five feet and a half above the
-ground, at the back of the [[house]]: which belonged to a scullery, or
+ground, at the back of the house: which belonged to a scullery, or
 small brewing-place, at the end of the passage. The aperture was so
 small, that the inmates had probably not thought it worth while to
 defend it more securely; but it was large enough to admit a boy of
@@ -7856,7 +7856,7 @@ corresponding size, furnished with all necessary materials for the most
 grateful meal that matrons enjoy. In fact, Mrs. Corney was about to
 solace herself with a cup of tea. As she glanced from the table to the
 fireplace, where the smallest of all possible kettles was singing a
-small [[Song|song]] in a small voice, her inward satisfaction evidently
+small song in a small voice, her inward satisfaction evidently
 increased,—so much so, indeed, that Mrs. Corney smiled.
 
 “[[motifs/well|Well]]!” said the matron, leaning her elbow on the table, and looking
@@ -7915,7 +7915,7 @@ himself, shut it without permission.
 
 “Hard, indeed, ma’am,” replied the beadle. “Anti-porochial weather
 this, ma’am. We have given away, Mrs. Corney, we have given away a
-matter of twenty quartern loaves and a [[cheese]] and a half, this very
+matter of twenty quartern loaves and a cheese and a half, this very
 blessed afternoon; and yet them paupers are not contented.”
 
 “Of course not. When would they be, Mr. Bumble?” said the matron,
@@ -7923,10 +7923,10 @@ sipping her tea.
 
 “When, indeed, ma’am!” rejoined Mr. Bumble. “Why here’s one man that,
 in consideration of his wife and large family, has a quartern loaf and
-a good pound of [[cheese]], full weight. Is he grateful, ma’am? Is he
+a good pound of cheese, full weight. Is he grateful, ma’am? Is he
 grateful? Not a copper farthing’s worth of it! What does he do, ma’am,
 but ask for a few coals; if it’s only a pocket handkerchief full, he
-says! Coals! What would he do with coals? Toast his [[cheese]] with ’em and
+says! Coals! What would he do with coals? Toast his cheese with ’em and
 then come back for more. That’s the way with these people, ma’am; give
 ’em a apron full of coals today, and they’ll come back for another,
 the day after tomorrow, as brazen as alabaster.”
@@ -7975,7 +7975,7 @@ they don’t want; and then they get tired of coming.”
 “Yes. Betwixt you and me, ma’am,” returned Mr. Bumble, “that’s the
 great principle; and that’s the reason why, if you look at any cases
 that get into them owdacious newspapers, you’ll always observe that
-sick families have been relieved with slices of [[cheese]]. That’s the rule
+sick families have been relieved with slices of cheese. That’s the rule
 now, Mrs. Corney, all over the country. But, however,” said the beadle,
 stopping to unpack his bundle, “these are official [[motifs/secrets|secrets]], ma’am; not
 to be spoken of; except, as I may say, among the porochial officers,
@@ -8170,7 +8170,7 @@ matron’s room. Her [[concepts/body|body]] was bent by age; her limbs trembled 
 her face, distorted into a mumbling leer, resembled more the [[concepts/grotesque|grotesque]]
 shaping of some wild pencil, than the work of [[concepts/nature|Nature]]’s hand.
 
-Alas! How few of [[concepts/nature|Nature]]’s faces are left [[Alone|alone]] to gladden us with their
+Alas! How few of [[concepts/nature|Nature]]’s faces are left alone to gladden us with their
 [[concepts/beauty|beauty]]! The cares, and sorrows, and hungerings, of the world, change
 them as they change hearts; and it is only when those passions [[motifs/sleep|sleep]],
 and have lost their hold for ever, that the troubled clouds pass off,
@@ -8290,7 +8290,7 @@ wake again but once—and mind, mistress, that won’t be for long!”
 
 “Long or short,” said the matron, snappishly, “she won’t find me here
 when she does wake; take care, both of you, how you worry me again for
-nothing. It’s no part of my duty to see all the old women in the [[house]]
+nothing. It’s no part of my duty to see all the old women in the house
 die, and I won’t—that’s more. Mind that, you impudent old harridans. If
 you make a [[archetypes/fool|fool]] of me again, I’ll soon cure you, I warrant you!”
 
@@ -8327,7 +8327,7 @@ old ladies themselves.
 “Now listen to me,” said the dying woman aloud, as if making a great
 effort to revive one latent spark of energy. “In this very room—in this
 very bed—I once nursed a pretty young creetur’, that was brought into
-the [[house]] with her feet cut and bruised with walking, and all soiled
+the house with her feet cut and bruised with walking, and all soiled
 with [[motifs/dust|dust]] and [[motifs/blood|blood]]. She gave birth to a boy, and died. Let me
 think—what was the year again!”
 
@@ -8396,7 +8396,7 @@ carelessly away.
 
 The two crones, to all appearance, too busily occupied in the
 preparations for their dreadful duties to make any reply, were left
-[[Alone|alone]], hovering about the [[concepts/body|body]].
+alone, hovering about the [[concepts/body|body]].
 
 
 
@@ -8477,7 +8477,7 @@ morning, to win against the Dodger.”
 and have a telescope at each eye, and a opera-glass between your
 shoulders, if you want to come over him.”
 
-Mr. Dawkins received these handsome compliments with much [[philosophy]],
+Mr. Dawkins received these handsome compliments with much philosophy,
 and offered to cut any gentleman in company, for the first
 picture-card, at a shilling at a [[motifs/time|time]]. Nobody accepting the challenge,
 and his pipe being by this [[motifs/time|time]] smoked out, he proceeded to amuse
@@ -8577,7 +8577,7 @@ The bell was rung again, with some impatience, while the party were in
 darkness. After a short pause, the Dodger reappeared, and whispered
 [[characters/fagin|Fagin]] mysteriously.
 
-“What!” cried the Jew, “[[Alone|alone]]?”
+“What!” cried the Jew, “alone?”
 
 The Dodger nodded in the affirmative, and, shading the flame of the
 candle with his hand, gave Charley Bates a private intimation, in dumb
@@ -8665,7 +8665,7 @@ pointing to it. “What more?”
 
 “They fired and hit the boy. We cut over the fields at the back, with
 him between us—straight as the crow flies—through hedge and ditch. They
-gave chase. Damme! the whole country was awake, and the [[dogs]] upon us.”
+gave chase. Damme! the whole country was awake, and the dogs upon us.”
 
 “The boy!”
 
@@ -8676,7 +8676,7 @@ We parted company, and left the youngster lying in a ditch. Alive or
 dead, that’s all I know about him.”
 
 The Jew stopped to hear no more; but uttering a loud yell, and twining
-his hands in his hair, rushed from the room, and from the [[house]].
+his hands in his hair, rushed from the room, and from the house.
 
 
 
@@ -8762,7 +8762,7 @@ calling after him. “Stop! I don’t mind if I have a drop there with
 you!”
 
 But as the Jew, looking back, waved his hand to intimate that he
-preferred being [[Alone|alone]]; and, moreover, as the little man could not very
+preferred being alone; and, moreover, as the little man could not very
 easily disengage himself from the chair; the sign of the Cripples was,
 for a [[motifs/time|time]], bereft of the advantage of Mr. Lively’s presence. By the
 [[motifs/time|time]] he had got upon his legs, the Jew had disappeared; so Mr. Lively,
@@ -8773,7 +8773,7 @@ mistrust were plainly mingled, resumed his pipe with a [[motifs/grave|grave]] de
 
 The Three Cripples, or rather the Cripples; which was the sign by which
 the establishment was familiarly known to its patrons: was the
-public-[[house]] in which Mr. Sikes and his dog have already figured.
+public-house in which Mr. Sikes and his dog have already figured.
 Merely making a sign to a man at the bar, [[characters/fagin|Fagin]] walked straight
 upstairs, and opening the door of a room, and softly insinuating
 himself into the chamber, looked anxiously about: shading his eyes with
@@ -8796,7 +8796,7 @@ jingling piano in a remote corner.
 
 As [[characters/fagin|Fagin]] stepped softly in, the professional gentleman, running over
 the keys by way of prelude, occasioned a general cry of order for a
-[[Song|song]]; which having subsided, a young lady proceeded to entertain the
+song; which having subsided, a young lady proceeded to entertain the
 company with a ballad in four verses, between each of which the
 accompanyist played the melody all through, as loud as he could. When
 this was over, the chairman gave a sentiment, after which, the
@@ -8811,7 +8811,7 @@ duet, and sang it, with great applause.
 
 It was curious to observe some faces which stood out prominently from
 among the group. There was the chairman himself, (the landlord of the
-[[house]],) a coarse, rough, heavy built fellow, who, while the [[songs]] were
+house,) a coarse, rough, heavy built fellow, who, while the songs were
 proceeding, rolled his eyes hither and thither, and, seeming to give
 himself up to joviality, had an eye for everything that was done, and
 an ear for everything that was said—and sharp ones, too. Near him were
@@ -8849,7 +8849,7 @@ here?”
 stir till it’s all safe. Depend on it, they’re on the scent down there;
 and that if he moved, he’d blow upon the thing at once. He’s all right
 enough, Barney is, else I should have heard of him. I’ll pound it, that
-Barney’s managing properly. Let him [[Alone|alone]] for that.”
+Barney’s managing properly. Let him alone for that.”
 
 “Will _he_ be here tonight?” asked the Jew, laying the same emphasis
 on the pronoun as before.
@@ -8881,7 +8881,7 @@ back to the company, my dear, and tell them to lead merry lives—_while
 they last_. Ha! ha! ha!”
 
 The landlord reciprocated the old man’s laugh; and returned to his
-guests. The Jew was no sooner [[Alone|alone]], than his countenance resumed its
+guests. The Jew was no sooner alone, than his countenance resumed its
 former expression of anxiety and thought. After a brief reflection, he
 called a hack-cabriolet, and bade the man drive towards Bethnal Green.
 He dismissed him within some quarter of a mile of Mr. Sikes’s
@@ -8892,7 +8892,7 @@ deep play here, I shall have it out of you, my girl, cunning as you
 are.”
 
 She was in her room, the woman said. [[characters/fagin|Fagin]] crept softly upstairs, and
-entered it without any previous ceremony. The girl was [[Alone|alone]]; lying
+entered it without any previous ceremony. The girl was alone; lying
 with her head upon the table, and her hair straggling over it.
 
 “She has been drinking,” thought the Jew, cooly, “or perhaps she is
@@ -8944,7 +8944,7 @@ and all of you.”
 
 “Am I?” cried the girl bitterly. “It’s no fault of yours, if I am not!
 You’d never have me anything else, if you had your will, except
-now;—the [[Humour|humour]] doesn’t suit you, doesn’t it?”
+now;—the humour doesn’t suit you, doesn’t it?”
 
 “No!” rejoined the Jew, furiously. “It does not.”
 
@@ -9060,7 +9060,7 @@ come of it?”
 startled look on his companion.
 
 The Jew shook his head, and was about to reply, when the stranger,
-interrupting him, motioned to the [[house]], before which they had by this
+interrupting him, motioned to the house, before which they had by this
 [[motifs/time|time]] arrived: remarking, that he had better say what he had got to say,
 under cover: for his [[motifs/blood|blood]] was chilled with standing about so long, and
 the [[motifs/wind|wind]] blew through him.
@@ -9191,7 +9191,7 @@ The Jew released his hold, and they rushed tumultuously from the room.
 The candle, wasted by the draught, was standing where it had been
 placed. It showed them only the empty staircase, and their own white
 faces. They listened intently: a profound [[motifs/silence|silence]] reigned throughout
-the [[house]].
+the house.
 
 “It’s your fancy,” said the Jew, taking up the light and turning to his
 companion.
@@ -9207,7 +9207,7 @@ green damp hung upon the low walls; the tracks of the snail and slug
 glistened in the light of the candle; but all was still as [[motifs/death|death]].
 
 “What do you think now?” said the Jew, when they had regained the
-passage. “Besides ourselves, there’s not a creature in the [[house]] except
+passage. “Besides ourselves, there’s not a creature in the house except
 Toby and the boys; and they’re safe enough. See here!”
 
 As a proof of the fact, the Jew drew forth two keys from his pocket;
@@ -9391,7 +9391,7 @@ beadle, affectionately pressing her hand.
 
 “And candles,” replied Mrs. Corney, slightly returning the pressure.
 
-“Coals, candles, and [[house]]-rent free,” said Mr. Bumble. “Oh, Mrs.
+“Coals, candles, and house-rent free,” said Mr. Bumble. “Oh, Mrs.
 Corney, what an Angel you are!”
 
 The lady was not proof against this burst of feeling. She sank into Mr.
@@ -9581,7 +9581,7 @@ instant, to look back at his pursuers.
 
 There was little to be made out, in the mist and darkness; but the loud
 shouting of men vibrated through the air, and the barking of the
-neighbouring [[dogs]], roused by the sound of the alarm bell, resounded in
+neighbouring dogs, roused by the sound of the alarm bell, resounded in
 every direction.
 
 “Stop, you white-livered hound!” cried the robber, shouting after Toby
@@ -9604,7 +9604,7 @@ drawing a [[characters/pistol|pistol]] from his pocket. “Don’t play booty wi
 
 At this moment the noise grew louder. Sikes, again looking round, could
 discern that the men who had given chase were already climbing the gate
-of the field in which he stood; and that a couple of [[dogs]] were some
+of the field in which he stood; and that a couple of dogs were some
 paces in advance of them.
 
 “It’s all up, Bill!” cried Toby; “drop the kid, and show ’em your
@@ -9621,7 +9621,7 @@ high into the air, cleared it at a bound, and was gone.
 “Ho, ho, there!” cried a tremulous voice in the rear. “Pincher!
 Neptune! Come here, come here!”
 
-The [[dogs]], who, in common with their masters, seemed to have no
+The dogs, who, in common with their masters, seemed to have no
 particular relish for the sport in which they were engaged, readily
 answered to the command. Three men, who had by this [[motifs/time|time]] advanced some
 distance into the field, stopped to take counsel together.
@@ -9634,7 +9634,7 @@ shorter man; who was by no means of a slim figure, and who was very
 pale in the face, and very polite: as frightened men frequently are.
 
 “I shouldn’t wish to appear ill-mannered, gentlemen,” said the third,
-who had called the [[dogs]] back, “Mr. Giles ought to know.”
+who had called the dogs back, “Mr. Giles ought to know.”
 
 “Certainly,” replied the shorter man; “and whatever Mr. Giles says, it
 isn’t our place to contradict him. No, no, I know my sitiwation! Thank
@@ -9762,7 +9762,7 @@ mind. He seemed to be still walking between Sikes and Crackit, who were
 angrily disputing—for the very words they said, sounded in his ears;
 and when he caught his own attention, as it were, by making some
 violent effort to save himself from falling, he found that he was
-talking to them. Then, he was [[Alone|alone]] with Sikes, plodding on as on the
+talking to them. Then, he was alone with Sikes, plodding on as on the
 previous day; and as shadowy people passed them, he felt the robber’s
 grasp upon his wrist. Suddenly, he started back at the report of
 firearms; there [[motifs/rose|rose]] into the air, loud cries and shouts; lights
@@ -9776,19 +9776,19 @@ of gates, or through hedge-gaps as they came in his way, until he
 reached a [[motifs/road|road]]. Here the rain began to fall so heavily, that it roused
 him.
 
-He looked about, and saw that at no great distance there was a [[house]],
+He looked about, and saw that at no great distance there was a house,
 which perhaps he could reach. Pitying his condition, they might have
 compassion on him; and if they did not, it would be better, he thought,
 to die near human beings, than in the lonely open fields. He summoned
 up all his strength for one last trial, and bent his faltering steps
 towards it.
 
-As he drew nearer to this [[house]], a feeling come over him that he had
+As he drew nearer to this house, a feeling come over him that he had
 seen it before. He remembered nothing of its details; but the shape and
 aspect of the building seemed familiar to him.
 
 That [[motifs/garden|garden]] wall! On the grass inside, he had fallen on his knees last
-[[motifs/night|night]], and prayed the two men’s [[concepts/mercy|mercy]]. It was the very [[house]] they had
+[[motifs/night|night]], and prayed the two men’s [[concepts/mercy|mercy]]. It was the very house they had
 attempted to rob.
 
 [[characters/oliver|Oliver]] felt such [[concepts/fear|fear]] come over him when he recognised the place, that,
@@ -9843,7 +9843,7 @@ suggested Brittles.
 
 “It was, when _you_ heerd it, sir,” rejoined Mr. Giles; “but, at this
 [[motifs/time|time]], it had a busting sound. I turned down the clothes”; continued
-Giles, [[rolling]] back the table-cloth, “sat up in bed; and listened.”
+Giles, rolling back the table-cloth, “sat up in bed; and listened.”
 
 The cook and housemaid simultaneously ejaculated “Lor!” and drew their
 chairs closer together.
@@ -9919,12 +9919,12 @@ asleep.
 
 Brittles capitulated on these terms; and the party being somewhat
 re-assured by the discovery (made on throwing open the shutters) that
-it was now broad day, took their way upstairs; with the [[dogs]] in front.
+it was now broad day, took their way upstairs; with the dogs in front.
 The two women, who were afraid to stay below, brought up the rear. By
 the advice of Mr. Giles, they all talked very loud, to warn any
 evil-disposed person outside, that they were strong in numbers; and by
 a master-stoke of policy, originating in the brain of the same
-ingenious gentleman, the [[dogs]]’ tails were [[motifs/well|well]] pinched, in the hall, to
+ingenious gentleman, the dogs’ tails were [[motifs/well|well]] pinched, in the hall, to
 make them bark savagely.
 
 These precautions having been taken, Mr. Giles held on fast by the
@@ -10002,7 +10002,7 @@ solicitude of a woman.
 
 
 CHAPTER XXIX.
-HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE [[house|HOUSE]], TO WHICH
+HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE HOUSE, TO WHICH
 [[characters/oliver|OLIVER]] RESORTED
 
 
@@ -10036,7 +10036,7 @@ mild and gentle; so pure and beautiful; that earth seemed not her
 element, nor its rough creatures her fit companions. The very
 intelligence that shone in her deep blue eye, and was stamped upon her
 noble head, seemed scarcely of her age, or of the world; and yet the
-changing expression of sweetness and good [[Humour|humour]], the thousand lights
+changing expression of sweetness and good humour, the thousand lights
 that played about the face, and left no [[archetypes/shadow|shadow]] there; above all, the
 smile, the cheerful, happy smile, were made for [[motifs/home|Home]], and fireside
 peace and happiness.
@@ -10068,7 +10068,7 @@ boys,” said the young lady, smiling.
 Mr. Giles was apparently considering the propriety of indulging in a
 respectful smile himself, when a gig drove up to the [[motifs/garden|garden]]-gate: out
 of which there jumped a fat gentleman, who ran straight up to the door:
-and who, getting quickly into the [[house]] by some mysterious process,
+and who, getting quickly into the house by some mysterious process,
 burst into the room, and nearly overturned Mr. Giles and the
 breakfast-table together.
 
@@ -10120,7 +10120,7 @@ I’ll look in again, as I come down, Mrs. Maylie. That’s the little
 Talking all the way, he followed Mr. Giles upstairs; and while he is
 going upstairs, the reader may be informed, that Mr. Losberne, a
 surgeon in the neighbourhood, known through a circuit of ten miles
-round as “the doctor,” had grown fat, more from good-[[Humour|humour]] than from
+round as “the doctor,” had grown fat, more from good-humour than from
 good living: and was as kind and hearty, and withal as eccentric an old
 bachelor, as will be found in five times that space, by any explorer
 alive.
@@ -10228,7 +10228,7 @@ her?”
 
 “My dear young lady,” rejoined the surgeon, mournfully shaking his
 head; “crime, like [[motifs/death|death]], is not confined to the old and withered
-[[Alone|alone]]. The youngest and fairest are too often its chosen victims.”
+alone. The youngest and fairest are too often its chosen victims.”
 
 “But, can you—oh! can you really believe that this delicate boy has
 been the voluntary associate of the worst outcasts of society?” said
@@ -10356,7 +10356,7 @@ Giles. And finding nobody about the parlours, it occurred to him, that
 he could perhaps originate the proceedings with better effect in the
 kitchen; so into the kitchen he went.
 
-There were assembled, in that lower [[house]] of the domestic parliament,
+There were assembled, in that lower house of the domestic parliament,
 the women-servants, Mr. Brittles, Mr. Giles, the tinker (who had
 received a special invitation to regale himself for the remainder of
 the day, in consideration of his services), and the constable. The
@@ -10427,10 +10427,10 @@ doctor.
 violence; for he had finished his ale in a hurry, and some of it had
 gone the wrong way.
 
-“Here’s the [[house]] broken into,” said the doctor, “and a couple of men
+“Here’s the house broken into,” said the doctor, “and a couple of men
 catch one moment’s glimpse of a boy, in the midst of gunpowder smoke,
 and in all the distraction of alarm and darkness. Here’s a boy comes to
-that very same [[house]], next morning, and because he happens to have his
+that very same house, next morning, and because he happens to have his
 arm tied up, these men lay violent hands upon him—by doing which, they
 place his life in great danger—and swear he is the thief. Now, the
 question is, whether these men are justified by the fact; if not, in
@@ -10491,7 +10491,7 @@ the officer; “he’s in the gig, a-minding the prad. Have you got a coach
 Brittles replying in the affirmative, and pointing out the building,
 the portly man stepped back to the [[motifs/garden|garden]]-gate, and helped his
 companion to put up the gig: while Brittles lighted them, in a state of
-great admiration. This done, they returned to the [[house]], and, being
+great admiration. This done, they returned to the house, and, being
 shown into a parlour, took off their great-coats and hats, and showed
 like what they were.
 
@@ -10510,7 +10510,7 @@ This was addressed to Mr. Losberne, who now made his appearance; that
 gentleman, motioning Brittles to retire, brought in the two ladies, and
 shut the door.
 
-“This is the lady of the [[house]],” said Mr. Losberne, motioning towards
+“This is the lady of the house,” said Mr. Losberne, motioning towards
 Mrs. Maylie.
 
 Mr. Blathers made a bow. Being desired to sit down, he put his hat on
@@ -10547,7 +10547,7 @@ on?” said Blathers.
 
 “Nothing at all,” replied the doctor. “One of the frightened servants
 chose to take it into his head, that he had something to do with this
-attempt to break into the [[house]]; but it’s nonsense: sheer absurdity.”
+attempt to break into the house; but it’s nonsense: sheer absurdity.”
 
 “Wery easy disposed of, if it is,” remarked Duff.
 
@@ -10619,11 +10619,11 @@ Confound the fellows, they _will_ have the why and the wherefore, and
 will take nothing for granted. On his own showing, you see, he has been
 the companion of thieves for some [[motifs/time|time]] past; he has been carried to a
 police-officer, on a charge of picking a gentleman’s pocket; he has
-been taken away, forcibly, from that gentleman’s [[house]], to a place
+been taken away, forcibly, from that gentleman’s house, to a place
 which he cannot describe or point out, and of the situation of which he
 has not the remotest idea. He is brought down to Chertsey, by men who
 seem to have taken a violent fancy to him, whether he will or no; and
-is put through a [[motifs/window|window]] to rob a [[house]]; and then, just at the very
+is put through a [[motifs/window|window]] to rob a house; and then, just at the very
 moment when he is going to alarm the inmates, and so do the very thing
 that would set him all to rights, there rushes into the way, a
 blundering dog of a half-bred butler, and shoots him! As if on purpose
@@ -10732,7 +10732,7 @@ when Conkey was robbed of his money, though? What a start that was!
 Better than any [[forms/novel|novel]]-book _I_ ever see!”
 
 “What was that?” inquired [[motifs/rose|Rose]]: anxious to encourage any symptoms of
-good-[[Humour|humour]] in the unwelcome visitors.
+good-humour in the unwelcome visitors.
 
 “It was a robbery, miss, that hardly anybody would have been down
 upon,” said Blathers. “This here Conkey Chickweed—”
@@ -10747,7 +10747,7 @@ upon,” said Blathers. “This here Conkey Chickweed—”
 
 “Of course the lady knows that, don’t she?” demanded Mr. Blathers.
 “Always interrupting, you are, partner! This here Conkey Chickweed,
-miss, kept a public-[[house]] over Battlebridge way, and he had a cellar,
+miss, kept a public-house over Battlebridge way, and he had a cellar,
 where a good many young lords went to see cock-fighting, and
 badger-drawing, and that; and a wery intellectual manner the sports was
 conducted in, for I’ve seen ’em off’en. He warn’t one of the family, at
@@ -10771,15 +10771,15 @@ people was afraid he might be going to make away with himself. One day
 he came up to the office, all in a hurry, and had a private interview
 with the magistrate, who, after a deal of talk, rings the bell, and
 orders Jem Spyers in (Jem was a active officer), and tells him to go
-and assist Mr. Chickweed in apprehending the man as robbed his [[house]].
-‘I see him, Spyers,’ said Chickweed, ‘pass my [[house]] yesterday morning,’
+and assist Mr. Chickweed in apprehending the man as robbed his house.
+‘I see him, Spyers,’ said Chickweed, ‘pass my house yesterday morning,’
 ‘Why didn’t you up, and collar him!’ says Spyers. ‘I was so struck all
 of a heap, that you might have fractured my skull with a toothpick,’
 says the poor man; ‘but we’re sure to have him; for between ten and
 eleven o’[[motifs/clock|clock]] at [[motifs/night|night]] he passed again.’ Spyers no sooner heard this,
 than he put some clean linen and a comb, in his pocket, in case he
 should have to stop a day or two; and away he goes, and sets himself
-down at one of the public-[[house]] windows behind the little red curtain,
+down at one of the public-house windows behind the little red curtain,
 with his hat on, all ready to bolt out, at a moment’s notice. He was
 smoking his pipe here, late at [[motifs/night|night]], when all of a sudden Chickweed
 roars out, ‘Here he is! Stop thief! Murder!’ Jem Spyers dashes out; and
@@ -10789,7 +10789,7 @@ Spyers; on goes Chickweed; round turns the people; everybody roars out,
 mad. Spyers loses sight of him a minute as he turns a corner; shoots
 round; sees a little crowd; dives in; ‘Which is the man?’ ‘D—me!’ says
 Chickweed, ‘I’ve lost him again!’ It was a remarkable occurrence, but
-he warn’t to be seen nowhere, so they went back to the public-[[house]].
+he warn’t to be seen nowhere, so they went back to the public-house.
 Next morning, Spyers took his old place, and looked out, from behind
 the curtain, for a tall man with a black patch over his eye, till his
 own two eyes ached again. At last, he couldn’t help shutting ’em, to
@@ -10833,7 +10833,7 @@ recollect where he was, or what had been passing.
 “This,” said Mr. Losberne, speaking softly, but with great vehemence
 notwithstanding, “this is the lad, who, being accidently wounded by a
 [[motifs/spring|spring]]-gun in some boyish trespass on Mr. What-d’ ye-call-him’s
-grounds, at the back here, comes to the [[house]] for assistance this
+grounds, at the back here, comes to the house for assistance this
 morning, and is immediately laid hold of and maltreated, by that
 ingenious gentleman with the candle in his hand: who has placed his
 life in considerable danger, as I can professionally certify.”
@@ -10891,7 +10891,7 @@ Acting upon this suggestion, they adjourned to a neighbouring
 apartment, where Mr. Brittles, being called in, involved himself and
 his respected superior in such a wonderful maze of fresh contradictions
 and impossibilities, as tended to throw no particular light on
-anything, but the fact of his own strong [[Mystification|mystification]]; except, indeed,
+anything, but the fact of his own strong mystification; except, indeed,
 his declarations that he shouldn’t know the real boy, if he were put
 before him that instant; that he had only taken [[characters/oliver|Oliver]] to be he,
 because Mr. Giles had said he was; and that Mr. Giles had, five minutes
@@ -10908,7 +10908,7 @@ make a greater impression than on Mr. Giles himself; who, after
 labouring, for some hours, under the [[concepts/fear|fear]] of having mortally wounded a
 fellow-creature, eagerly caught at this new idea, and favoured it to
 the utmost. Finally, the officers, without troubling themselves very
-much about [[characters/oliver|Oliver]], left the Chertsey constable in the [[house]], and took
+much about [[characters/oliver|Oliver]], left the Chertsey constable in the house, and took
 up their rest for that [[motifs/night|night]] in the town; promising to return the next
 morning.
 
@@ -10921,7 +10921,7 @@ discovered sleeping under a haystack; which, although a great crime, is
 only punishable by [[concepts/imprisonment|imprisonment]], and is, in the merciful eye of the
 English law, and its comprehensive [[motifs/love|love]] of all the [[archetypes/king|King]]’s subjects,
 held to be no satisfactory proof, in the absence of all other evidence,
-that [[The Sleeper|the sleeper]], or sleepers, have committed burglary accompanied with
+that the sleeper, or sleepers, have committed burglary accompanied with
 violence, and have therefore rendered themselves liable to the
 punishment of [[motifs/death|death]]; Messrs. Blathers and Duff came back again, as wise
 as they went.
@@ -11023,12 +11023,12 @@ loud exclamation.
 bustle. “Do you see anything—hear anything—feel anything—eh?”
 
 “That, sir,” cried [[characters/oliver|Oliver]], pointing out of the carriage [[motifs/window|window]]. “That
-[[house]]!”
+house!”
 
 “Yes; [[motifs/well|well]], what of it? Stop coachman. Pull up here,” cried the doctor.
-“What of the [[house]], my man; eh?”
+“What of the house, my man; eh?”
 
-“The thieves—the [[house]] they took me to!” whispered [[characters/oliver|Oliver]].
+“The thieves—the house they took me to!” whispered [[characters/oliver|Oliver]].
 
 “The devil it is!” cried the doctor. “Hallo, there! let me out!”
 
@@ -11054,7 +11054,7 @@ it. Where’s Sikes, you thief?”
 The hump-backed man stared, as if in excess of amazement and
 indignation; then, twisting himself, dexterously, from the doctor’s
 grasp, growled forth a volley of horrid oaths, and retired into the
-[[house]]. Before he could shut the door, however, the doctor had passed
+house. Before he could shut the door, however, the doctor had passed
 into the parlour, without a word of parley.
 
 He looked anxiously round; not an article of furniture; not a vestige
@@ -11062,7 +11062,7 @@ of anything, animate or inanimate; not even the position of the
 cupboards; answered [[characters/oliver|Oliver]]’s description!
 
 “Now!” said the hump-backed man, who had watched him keenly, “what do
-you mean by coming into my [[house]], in this violent way? Do you want to
+you mean by coming into my house, in this violent way? Do you want to
 rob me, or to murder me? Which is it?”
 
 “Did you ever know a man come out to do either, in a chariot and pair,
@@ -11076,7 +11076,7 @@ parlour; which, like the first, bore no resemblance whatever to
 [[characters/oliver|Oliver]]’s account of it. “I shall find you out, some day, my friend.”
 
 “Will you?” sneered the ill-favoured cripple. “If you ever want me, I’m
-here. I haven’t lived here mad and all [[Alone|alone]], for five-and-twenty
+here. I haven’t lived here mad and all alone, for five-and-twenty
 years, to be scared by you. You shall pay for this; you shall pay for
 this.” And so saying, the mis-shapen little demon set up a yell, and
 danced upon the ground, as if wild with rage.
@@ -11137,10 +11137,10 @@ they were enabled to drive straight thither. When the coach turned into
 it, his heart beat so violently, that he could scarcely draw his
 breath.
 
-“Now, my boy, which [[house]] is it?” inquired Mr. Losberne.
+“Now, my boy, which house is it?” inquired Mr. Losberne.
 
 “That! That!” replied [[characters/oliver|Oliver]], pointing eagerly out of the [[motifs/window|window]]. “The
-white [[house]]. Oh! make haste! Pray make haste! I feel as if I should
+white house. Oh! make haste! Pray make haste! I feel as if I should
 die: it makes me tremble so.”
 
 “Come, come!” said the good doctor, patting him on the shoulder. “You
@@ -11150,16 +11150,16 @@ will see them directly, and they will be overjoyed to find you safe and
 “Oh! I [[concepts/hope|hope]] so!” cried [[characters/oliver|Oliver]]. “They were so good to me; so very, very
 good to me.”
 
-The coach rolled on. It stopped. No; that was the wrong [[house]]; the next
+The coach rolled on. It stopped. No; that was the wrong house; the next
 door. It went on a few paces, and stopped again. [[characters/oliver|Oliver]] looked up at
 the windows, with [[motifs/tears|tears]] of happy expectation coursing down his face.
 
-Alas! the white [[house]] was empty, and there was a bill in the [[motifs/window|window]].
+Alas! the white house was empty, and there was a bill in the [[motifs/window|window]].
 “To Let.”
 
 “Knock at the next door,” cried Mr. Losberne, taking [[characters/oliver|Oliver]]’s arm in
 his. “What has become of Mr. Brownlow, who used to live in the
-adjoining [[house]], do you know?”
+adjoining house, do you know?”
 
 The servant did not know; but would go and inquire. She presently
 returned, and said, that Mr. Brownlow had sold off his goods, and gone
@@ -11181,7 +11181,7 @@ him, pray, sir! Do see him!”
 
 “My poor boy, this is disappointment enough for one day,” said the
 doctor. “Quite enough for both of us. If we go to the book-stall
-keeper’s, we shall certainly find that he is dead, or has set his [[house]]
+keeper’s, we shall certainly find that he is dead, or has set his house
 on [[motifs/fire|fire]], or run away. No; [[motifs/home|home]] again straight!” And in obedience to the
 doctor’s impulse, [[motifs/home|home]] they went.
 
@@ -11201,11 +11201,11 @@ almost more than he could bear.
 The circumstance occasioned no alteration, however, in the behaviour of
 his benefactors. After another fortnight, when the fine warm weather
 had fairly begun, and every tree and flower was putting forth its young
-[[motifs/leaves|leaves]] and rich blossoms, they made preparations for quitting the [[house]]
+[[motifs/leaves|leaves]] and rich blossoms, they made preparations for quitting the house
 at Chertsey, for some months.
 
 Sending the plate, which had so excited [[characters/fagin|Fagin]]’s cupidity, to the
-banker’s; and leaving Giles and another servant in care of the [[house]],
+banker’s; and leaving Giles and another servant in care of the house,
 they departed to a cottage at some distance in the country, and took
 [[characters/oliver|Oliver]] with them.
 
@@ -11275,7 +11275,7 @@ wanted a flower that he could climb to reach, or had forgotten anything
 he could run to fetch: that he could never be quick enough about it.
 When it became quite dark, and they returned [[motifs/home|home]], the young lady would
 sit down to the piano, and play some pleasant air, or sing, in a low
-and gentle voice, some old [[Song|song]] which it pleased her aunt to hear.
+and gentle voice, some old song which it pleased her aunt to hear.
 There would be no candles lighted at such times as these; and [[characters/oliver|Oliver]]
 would sit by one of the windows, listening to the sweet music, in a
 perfect rapture.
@@ -11499,7 +11499,7 @@ his commission, and holding out his trembling hand for the letter.
 
 “No,” replied the old lady, giving it to him mechanically. [[characters/oliver|Oliver]]
 glanced at it, and saw that it was directed to Harry Maylie, Esquire,
-at some great lord’s [[house]] in the country; where, he could not make
+at some great lord’s house in the country; where, he could not make
 out.
 
 “Shall it go, ma’am?” asked [[characters/oliver|Oliver]], looking up, impatiently.
@@ -11519,7 +11519,7 @@ covered with [[motifs/dust|dust]], on the little market-place of the market-town
 
 Here he paused, and looked about for the inn. There were a white bank,
 and a red brewery, and a yellow town-hall; and in one corner there was
-a large [[house]], with all the wood about it painted green: before which
+a large house, with all the wood about it painted green: before which
 was the sign of “The George.” To this he hastened, as soon as it caught
 his eye.
 
@@ -11577,7 +11577,7 @@ advanced towards [[characters/oliver|Oliver]], as if with the intention of aimin
 him, but fell violently on the ground: writhing and foaming, in a fit.
 
 [[characters/oliver|Oliver]] gazed, for a moment, at the struggles of the madman (for such he
-supposed him to be); and then darted into the [[house]] for help. Having
+supposed him to be); and then darted into the house for help. Having
 seen him safely carried into the hotel, he turned his face homewards,
 running as fast as he could, to make up for lost [[motifs/time|time]]: and recalling
 with a great deal of astonishment and some [[concepts/fear|fear]], the extraordinary
@@ -11633,7 +11633,7 @@ fast. [[characters/oliver|Oliver]] crept away to the old churchyard, and sitting
 of the green mounds, wept and prayed for her, in [[motifs/silence|silence]].
 
 There was such peace and [[concepts/beauty|beauty]] in the scene; so much of brightness and
-mirth in the sunny landscape; such blithesome music in the [[songs]] of the
+mirth in the sunny landscape; such blithesome music in the songs of the
 [[motifs/summer|summer]] [[motifs/birds|birds]]; such [[concepts/freedom|freedom]] in the rapid flight of the rook, careering
 overhead; so much of life and joyousness in all; that, when the boy
 raised his aching eyes, and looked about, the thought instinctively
@@ -11853,7 +11853,7 @@ fleeting. Above all, I think” said the lady, fixing her eyes on her
 son’s face, “that if an enthusiastic, ardent, and ambitious man marry a
 wife on whose name there is a stain, which, though it originate in no
 fault of hers, may be visited by cold and sordid people upon her, and
-upon his children also: and, in exact proportion to his [[success]] in the
+upon his children also: and, in exact proportion to his success in the
 world, be cast in his teeth, and made the subject of sneers against
 him: he may, no matter how generous and good his [[concepts/nature|nature]], one day repent
 of the connection he formed in early life. And she may have the [[motifs/pain|pain]] of
@@ -11946,7 +11946,7 @@ doctor, when he had concluded.
 
 “Nothing particular, sir,” replied Mr. Giles, colouring up to the eyes.
 
-“Nor catching any thieves, nor identifying any [[house]]-breakers?” said
+“Nor catching any thieves, nor identifying any house-breakers?” said
 the doctor.
 
 “None at all, sir,” replied Mr. Giles, with much gravity.
@@ -11991,7 +11991,7 @@ great men commonly are.
 Above stairs, the remainder of the evening passed cheerfully away; for
 the doctor was in high spirits; and however fatigued or thoughtful
 Harry Maylie might have been at first, he was not proof against the
-worthy gentleman’s good [[Humour|humour]], which displayed itself in a great
+worthy gentleman’s good humour, which displayed itself in a great
 variety of sallies and professional recollections, and an abundance of
 small jokes, which struck [[characters/oliver|Oliver]] as being the drollest things he had
 ever heard, and caused him to laugh proportionately; to the evident
@@ -12008,7 +12008,7 @@ days. The [[motifs/birds|birds]] were once more hung out, to sing, in their old 
 and the sweetest wild [[motifs/flowers|flowers]] that could be found, were once more
 gathered to gladden [[motifs/rose|Rose]] with their [[concepts/beauty|beauty]]. The [[concepts/melancholy|melancholy]] which had
 seemed to the sad eyes of the anxious boy to hang, for days past, over
-every object, beautiful as all were, was dispelled by [[Magic|magic]]. The dew
+every object, beautiful as all were, was dispelled by magic. The dew
 seemed to sparkle more brightly on the green [[motifs/leaves|leaves]]; the air to rustle
 among them with a sweeter music; and the sky itself to look more blue
 and bright. Such is the influence which the condition of our own
@@ -12019,7 +12019,7 @@ their own jaundiced eyes and hearts. The real hues are delicate, and
 need a clearer vision.
 
 It is worthy of remark, and [[characters/oliver|Oliver]] did not fail to note it at the [[motifs/time|time]],
-that his morning expeditions were no longer made [[Alone|alone]]. Harry Maylie,
+that his morning expeditions were no longer made alone. Harry Maylie,
 after the very first morning when he met [[characters/oliver|Oliver]] coming laden [[motifs/home|home]], was
 seized with such a passion for [[motifs/flowers|flowers]], and displayed such a taste in
 their arrangement, as left his young companion far behind. If [[characters/oliver|Oliver]]
@@ -12046,7 +12046,7 @@ himself. It was while he was engaged in this pursuit, that he was
 greatly startled and distressed by a most unexpected occurrence.
 
 The little room in which he was accustomed to sit, when busy at his
-books, was on the ground-floor, at the back of the [[house]]. It was quite
+books, was on the ground-floor, at the back of the house. It was quite
 a cottage-room, with a lattice-[[motifs/window|window]]: around which were clusters of
 jessamine and honeysuckle, that crept over the casement, and filled the
 place with their delicious perfume. It looked into a [[motifs/garden|garden]], whence a
@@ -12090,7 +12090,7 @@ consciousness.
 his books were lying on the table before him; that the sweet air was
 stirring among the creeping plants outside. And yet he was asleep.
 Suddenly, the scene changed; the air became close and confined; and he
-thought, with a glow of terror, that he was in the Jew’s [[house]] again.
+thought, with a glow of terror, that he was in the Jew’s house again.
 There sat the hideous old man, in his accustomed corner, pointing at
 him, and whispering to another man, with his face averted, who sat
 beside him.
@@ -12134,9 +12134,9 @@ CONTAINING THE UNSATISFACTORY RESULT OF [[characters/oliver|OLIVER]]’S ADVENTU
 CONVERSATION OF SOME IMPORTANCE BETWEEN HARRY MAYLIE AND [[motifs/rose|ROSE]]
 
 
-When the inmates of the [[house]], attracted by [[characters/oliver|Oliver]]’s cries, hurried to
+When the inmates of the house, attracted by [[characters/oliver|Oliver]]’s cries, hurried to
 the spot from which they proceeded, they found him, pale and agitated,
-pointing in the direction of the meadows behind the [[house]], and scarcely
+pointing in the direction of the meadows behind the house, and scarcely
 able to articulate the words, “The Jew! the Jew!”
 
 Mr. Giles was at a loss to comprehend what this outcry meant; but Harry
@@ -12178,7 +12178,7 @@ have accomplished in so short a [[motifs/time|time]]. A thick wood skirted the
 meadow-land in another direction; but they could not have gained that
 covert for the same reason.
 
-“It must have been [[A Dream|a dream]], [[characters/oliver|Oliver]],” said Harry Maylie.
+“It must have been a dream, [[characters/oliver|Oliver]],” said Harry Maylie.
 
 “Oh no, indeed, sir,” replied [[characters/oliver|Oliver]], shuddering at the very
 recollection of the old wretch’s countenance; “I saw him too plainly
@@ -12223,7 +12223,7 @@ drinking, or loitering about; but Giles returned without any
 intelligence, calculated to dispel or lessen the mystery.
 
 On the next day, fresh search was made, and the inquiries renewed; but
-with no better [[success]]. On the day following, [[characters/oliver|Oliver]] and Mr. Maylie
+with no better success. On the day following, [[characters/oliver|Oliver]] and Mr. Maylie
 repaired to the market-town, in the [[concepts/hope|hope]] of seeing or hearing something
 of the men there; but this effort was equally fruitless. After a few
 days, the affair began to be forgotten, as most affairs are, when
@@ -12244,7 +12244,7 @@ these symptoms increased; and it became evident that something was in
 progress which affected the peace of the young lady, and of somebody
 else besides.
 
-At length, one morning, when [[motifs/rose|Rose]] was [[Alone|alone]] in the breakfast-parlour,
+At length, one morning, when [[motifs/rose|Rose]] was alone in the breakfast-parlour,
 Harry Maylie entered; and, with some hesitation, begged permission to
 speak with her for a few moments.
 
@@ -12399,7 +12399,7 @@ her who has so [[motifs/well|well]] supplied that mother’s place. In a word,�
 young lady, turning away, as her temporary firmness forsook her, “there
 is a stain upon my name, which the world visits on [[archetypes/innocent|innocent]] heads. I
 will carry it into no [[motifs/blood|blood]] but my own; and the reproach shall rest
-[[Alone|alone]] on me.”
+alone on me.”
 
 “One word more, [[motifs/rose|Rose]]. Dearest [[motifs/rose|Rose]]! one more!” cried Harry, throwing
 himself before her. “If I had been less—less fortunate, the world would
@@ -12672,7 +12672,7 @@ by the voice of his partner.
 
 “I am going to sit here, as long as I think proper, ma’am,” rejoined
 Mr. Bumble; “and although I was _not_ snoring, I shall snore, gape,
-sneeze, laugh, or cry, as the [[Humour|humour]] strikes me; such being my
+sneeze, laugh, or cry, as the humour strikes me; such being my
 prerogative.”
 
 “_Your_ prerogative!” sneered Mrs. Bumble, with ineffable contempt.
@@ -12765,7 +12765,7 @@ impressing the reader with a just sense of his qualifications for
 office.
 
 But, the measure of his degradation was not yet full. After making a
-tour of the [[house]], and thinking, for the first [[motifs/time|time]], that the poor-laws
+tour of the house, and thinking, for the first [[motifs/time|time]], that the poor-laws
 really were too hard on people; and that men who ran away from their
 wives, leaving them chargeable to the parish, ought, in justice to be
 visited with no punishment at all, but rather rewarded as meritorious
@@ -12804,7 +12804,7 @@ business is it of yours?”
 
 “I’ll tell you what, Mr. Bumble,” returned his lady. “We don’t want any
 of your interference. You’re a great deal too fond of poking your nose
-into things that don’t concern you, making everybody in the [[house]]
+into things that don’t concern you, making everybody in the house
 laugh, the moment your back is turned, and making yourself look like a
 [[archetypes/fool|fool]] every hour in the day. Be off; come!”
 
@@ -13195,7 +13195,7 @@ leading to another floor of warehouses above: when a bright flash of
 [[motifs/lightning|lightning]] streamed down the aperture, and a peal of thunder followed,
 which shook the crazy building to its centre.
 
-“Hear it!” he cried, shrinking back. “Hear it! [[rolling|Rolling]] and crashing on
+“Hear it!” he cried, shrinking back. “Hear it! Rolling and crashing on
 as if it echoed through a thousand caverns where the devils were hiding
 from it. I hate the sound!”
 
@@ -13283,9 +13283,9 @@ anything you or I know, who will tell strange tales at last!”
 “What if I pay it for nothing?” asked [[characters/monks|Monks]], hesitating.
 
 “You can easily take it away again,” replied the matron. “I am but a
-woman; [[Alone|alone]] here; and unprotected.”
+woman; alone here; and unprotected.”
 
-“Not [[Alone|alone]], my dear, nor unprotected, neither,” submitted Mr. Bumble,
+“Not alone, my dear, nor unprotected, neither,” submitted Mr. Bumble,
 in a voice tremulous with [[concepts/fear|fear]]: “_I_ am here, my dear. And besides,”
 said Mr. Bumble, his teeth chattering as he spoke, “Mr. [[characters/monks|Monks]] is too
 much of a gentleman to attempt any violence on porochial persons. Mr.
@@ -13321,7 +13321,7 @@ out twenty-five sovereigns on the table, and pushed them over to the
 woman.
 
 “Now,” he said, “gather them up; and when this cursed peal of thunder,
-which I feel is coming up to break over the [[house]]-top, is gone, let’s
+which I feel is coming up to break over the house-top, is gone, let’s
 hear your story.”
 
 
@@ -13341,13 +13341,13 @@ their countenances: which, encircled by the deepest gloom and darkness,
 looked ghastly in the extreme.
 
 “When this woman, that we called old Sally, died,” the matron began,
-“she and I were [[Alone|alone]].”
+“she and I were alone.”
 
 “Was there no one by?” asked [[characters/monks|Monks]], in the same hollow whisper; “No
 sick wretch or idiot in some other bed? No one who could hear, and
 might, by possibility, understand?”
 
-“Not a [[motifs/soul|soul]],” replied the woman; “we were [[Alone|alone]]. _I_ stood [[Alone|alone]] beside
+“Not a [[motifs/soul|soul]],” replied the woman; “we were alone. _I_ stood alone beside
 the [[concepts/body|body]] when [[motifs/death|death]] came over it.”
 
 “Good,” said [[characters/monks|Monks]], regarding her attentively. “Go on.”
@@ -13524,7 +13524,7 @@ nod with their mysterious acquaintance, the married couple emerged into
 the wet and darkness outside.
 
 They were no sooner gone, than [[characters/monks|Monks]], who appeared to entertain an
-invincible repugnance to being left [[Alone|alone]], called to a boy who had been
+invincible repugnance to being left alone, called to a boy who had been
 hidden somewhere below. Bidding him go first, and bear the light, he
 returned to the chamber he had just quitted.
 
@@ -13566,7 +13566,7 @@ improved by the cadaverous hue of illness, and the addition of a soiled
 nightcap, and a stiff, black beard of a week’s growth. The dog sat at
 the bedside: now eyeing his master with a wistful look, and now
 pricking his ears, and uttering a low growl as some noise in the
-street, or in the lower part of the [[house]], attracted his attention.
+street, or in the lower part of the house, attracted his attention.
 Seated by the [[motifs/window|window]], busily engaged in patching an old waistcoat which
 formed a portion of the robber’s ordinary dress, was a female: so pale
 and reduced with watching and privation, that there would have been
@@ -13782,7 +13782,7 @@ sure; and I’ll lie down and have a snooze while she’s gone.”
 After a great deal of haggling and squabbling, [[characters/fagin|Fagin]] beat down the
 amount of the required advance from five pounds to three pounds four
 and sixpence: protesting with many solemn asseverations that that would
-only leave him eighteen-pence to keep [[house]] with; Mr. Sikes sullenly
+only leave him eighteen-pence to keep house with; Mr. Sikes sullenly
 remarking that if he couldn’t get any more he must accompany him [[motifs/home|home]];
 with the Dodger and Master Bates put the eatables in the cupboard. The
 Jew then, taking leave of his affectionate friend, returned homeward,
@@ -13809,7 +13809,7 @@ to go.
 
 “Not a living leg,” answered Mr. Crackit, pulling up his collar; “it’s
 been as dull as swipes. You ought to stand something handsome, [[characters/fagin|Fagin]],
-to recompense me for keeping [[house]] so long. Damme, I’m as flat as a
+to recompense me for keeping house so long. Damme, I’m as flat as a
 juryman; and should have gone to [[motifs/sleep|sleep]], as fast as Newgate, if I hadn’t
 had the good natur’ to amuse this youngster. Horrid dull, I’m blessed
 if I an’t!”
@@ -13926,7 +13926,7 @@ companion to the second story.
 
 
 Before the sound of their footsteps had ceased to echo through the
-[[house]], the girl had slipped off her shoes; and drawing her gown loosely
+house, the girl had slipped off her shoes; and drawing her gown loosely
 over her head, and muffling her arms in it, stood at the door,
 listening with breathless interest. The moment the noise ceased, she
 glided from the room; ascended the stairs with incredible softness and
@@ -14067,7 +14067,7 @@ round, from [[motifs/time|time]] to [[motifs/time|time]], as if, despite the sle
 expected every moment to feel the pressure of Sikes’s heavy hand upon
 her shoulder; then, stooping softly over the bed, she kissed the
 robber’s lips; and then opening and closing the room-door with
-noiseless touch, hurried from the [[house]].
+noiseless touch, hurried from the house.
 
 A watchman was crying half-past nine, down a dark passage through which
 she had to pass, in gaining the main thoroughfare.
@@ -14097,7 +14097,7 @@ greater curiosity in the stragglers whom she hurried past. Some
 quickened their pace behind, as though to see whither she was hastening
 at such an unusual rate; and a few made head upon her, and looked back,
 surprised at her undiminished [[characters/speed|speed]]; but they fell off one by one; and
-when she neared her place of destination, she was [[Alone|alone]].
+when she neared her place of destination, she was alone.
 
 It was a family hotel in a quiet but handsome street near Hyde Park. As
 the brilliant light of the lamp which burnt before its door, guided her
@@ -14110,7 +14110,7 @@ towards the stairs.
 “Now, young woman!” said a smartly-dressed female, looking out from a
 door behind her, “who do you want here?”
 
-“A lady who is stopping in this [[house]],” answered the girl.
+“A lady who is stopping in this house,” answered the girl.
 
 “A lady!” was the reply, accompanied with a scornful look. “What lady?”
 
@@ -14159,7 +14159,7 @@ the man who had first appeared undertook its delivery.
 
 “What’s it to be?” said the man, with one foot on the stairs.
 
-“That a young woman earnestly asks to speak to Miss Maylie [[Alone|alone]],” said
+“That a young woman earnestly asks to speak to Miss Maylie alone,” said
 [[characters/nancy|Nancy]]; “and that if the lady will only hear the first word she has to
 say, she will know whether to hear her business, or to have her turned
 out of doors as an impostor.”
@@ -14213,7 +14213,7 @@ lowest and most debased creatures no less than of the high and
 fallen outcast of low haunts, the associate of the scourings of the
 jails and hulks, living within the [[archetypes/shadow|shadow]] of the gallows itself,—even
 this degraded being felt too proud to betray a feeble gleam of the
-womanly feeling which she thought a weakness, but which [[Alone|alone]] connected
+womanly feeling which she thought a weakness, but which alone connected
 her with that humanity, of which her wasting life had obliterated so
 many, many traces when a very [[archetypes/child|child]].
 
@@ -14251,7 +14251,7 @@ in case she should require it. “Why?”
 
 “Because,” said the girl, “I am about to put my life and the lives of
 others in your hands. I am the girl that dragged little [[characters/oliver|Oliver]] back to
-old [[characters/fagin|Fagin]]’s on the [[motifs/night|night]] he went out from the [[house]] in Pentonville.”
+old [[characters/fagin|Fagin]]’s on the [[motifs/night|night]] he went out from the house in Pentonville.”
 
 “You!” said [[characters/rose-maylie|Rose Maylie]].
 
@@ -14290,7 +14290,7 @@ by hearing him tell the place that I found you out.”
 
 “Then he goes by some other amongst us,” rejoined the girl, “which I
 more than thought before. Some [[motifs/time|time]] ago, and soon after [[characters/oliver|Oliver]] was put
-into your [[house]] on the [[motifs/night|night]] of the robbery, I—suspecting this
+into your house on the [[motifs/night|night]] of the robbery, I—suspecting this
 man—listened to a conversation held between him and [[characters/fagin|Fagin]] in the dark.
 I found out, from what I heard, that [[characters/monks|Monks]]—the man I asked you about,
 you know—”
@@ -14318,7 +14318,7 @@ upstairs, and I, wrapping myself up so that my [[archetypes/shadow|shadow]] woul
 me, again listened at the door. The first words I heard [[characters/monks|Monks]] say were
 these: ‘So the only proofs of the boy’s [[concepts/identity|identity]] lie at the [[characters/bottom|bottom]] of
 the [[motifs/river|river]], and the old hag that received them from the mother is
-rotting in her coffin.’ They laughed, and talked of his [[success]] in
+rotting in her coffin.’ They laughed, and talked of his success in
 doing this; and [[characters/monks|Monks]], talking on about the boy, and getting very wild,
 said that though he had got the young devil’s money safely now, he’d
 rather have had it the other way; for, what a game it would have been
@@ -14409,7 +14409,7 @@ resign every future [[concepts/hope|hope]], and the certainty of immediate rescu
 [[concepts/madness|madness]].”
 
 “I don’t know what it is,” answered the girl; “I only know that it is
-so, and not with me [[Alone|alone]], but with hundreds of others as bad and
+so, and not with me alone, but with hundreds of others as bad and
 wretched as myself. I must go back. Whether it is God’s wrath for the
 wrong I have done, I do not know; but I am drawn back to him through
 every [[concepts/suffering|suffering]] and ill usage; and I should be, I believe, if I knew
@@ -14434,7 +14434,7 @@ do not seek to know where these dreadful people live, but where will
 you be walking or passing at any settled period from this [[motifs/time|time]]?”
 
 “Will you promise me that you will have my secret strictly kept, and
-come [[Alone|alone]], or with the only other person that knows it; and that I
+come alone, or with the only other person that knows it; and that I
 shall not be watched or followed?” asked the girl.
 
 “I promise you solemnly,” answered [[motifs/rose|Rose]].
@@ -14493,7 +14493,7 @@ into a chair, and endeavoured to collect her wandering thoughts.
 
 CHAPTER XLI.
 CONTAINING FRESH DISCOVERIES, AND SHOWING THAT SUPRISES, LIKE
-MISFORTUNES, SELDOM COME [[Alone|ALONE]]
+MISFORTUNES, SELDOM COME ALONE
 
 
 Her situation was, indeed, one of no common trial and difficulty. While
@@ -14564,7 +14564,7 @@ have so often talked about.”
 “Where?” asked [[motifs/rose|Rose]].
 
 “Getting out of a coach,” replied [[characters/oliver|Oliver]], shedding [[motifs/tears|tears]] of delight,
-“and going into a [[house]]. I didn’t speak to him—I couldn’t speak to him,
+“and going into a house. I didn’t speak to him—I couldn’t speak to him,
 for he didn’t see me, and I trembled so, that I was not able to go up
 to him. But Giles asked, for me, whether he lived there, and they said
 he did. Look here,” said [[characters/oliver|Oliver]], opening a scrap of paper, “here it is;
@@ -14691,7 +14691,7 @@ me, has been considerably shaken.”
 
 [[motifs/rose|Rose]], who had had [[motifs/time|time]] to collect her thoughts, at once related, in a
 few natural words, all that had befallen [[characters/oliver|Oliver]] since he left Mr.
-Brownlow’s [[house]]; reserving [[characters/nancy|Nancy]]’s information for that gentleman’s
+Brownlow’s house; reserving [[characters/nancy|Nancy]]’s information for that gentleman’s
 private ear, and concluding with the assurance that his only sorrow,
 for some months past, had been not being able to meet with his former
 benefactor and friend.
@@ -14897,7 +14897,7 @@ Mr. Grimwig were accordingly added to the committee.
 
 “We stay in town, of course,” said Mrs. Maylie, “while there remains
 the slightest prospect of prosecuting this inquiry with a chance of
-[[success]]. I will spare neither trouble nor expense in behalf of the
+success. I will spare neither trouble nor expense in behalf of the
 object in which we are all so deeply interested, and I am content to
 remain here, if it be for twelve months, so long as you assure me that
 any [[concepts/hope|hope]] remains.”
@@ -14910,7 +14910,7 @@ deem it expedient to forestall them by telling my own story. Believe
 me, I make this request with good reason, for I might otherwise excite
 hopes destined never to be realised, and only increase difficulties and
 disappointments already quite numerous enough. Come! Supper has been
-announced, and young [[characters/oliver|Oliver]], who is all [[Alone|alone]] in the next room, will
+announced, and young [[characters/oliver|Oliver]], who is all alone in the next room, will
 have begun to think, by this [[motifs/time|time]], that we have wearied of his company,
 and entered into some dark conspiracy to thrust him forth upon the
 world.”
@@ -15003,11 +15003,11 @@ without any why or because either,” replied Mr. Claypole with dignity.
 “[[motifs/well|Well]], you needn’t be so [[motifs/cross|cross]],” said his companion.
 
 “A pretty thing it would be, wouldn’t it to go and stop at the very
-first public-[[house]] outside the town, so that Sowerberry, if he come up
+first public-house outside the town, so that Sowerberry, if he come up
 after us, might poke in his old nose, and have us taken back in a cart
 with handcuffs on,” said Mr. Claypole in a jeering tone. “No! I shall
 go and lose myself among the narrowest streets I can find, and not stop
-till we come to the very out-of-the-wayest [[house]] I can set eyes on.
+till we come to the very out-of-the-wayest house I can set eyes on.
 Cod, yer may thanks yer [[motifs/stars|stars]] I’ve got a head; for if we hadn’t gone,
 at first, the wrong [[motifs/road|road]] a purpose, and come back across country, yer’d
 have been locked up hard and fast a week ago, my lady. And serve yer
@@ -15033,7 +15033,7 @@ repose a blind and foolish confidence in anybody, it should be
 observed, in justice to that gentleman, that he had trusted Charlotte
 to this extent, in order that, if they were pursued, the money might be
 found on her: which would leave him an opportunity of asserting his
-[[innocence]] of any theft, and would greatly facilitate his chances of
+innocence of any theft, and would greatly facilitate his chances of
 escape. Of course, he entered at this juncture, into no explanation of
 his motives, and they walked on very lovingly together.
 
@@ -15049,7 +15049,7 @@ that improvement has left in the midst of [[settings/london|London]].
 
 Through these streets, Noah Claypole walked, dragging Charlotte after
 him; now stepping into the kennel to embrace at a glance the whole
-external character of some small public-[[house]]; now jogging on again, as
+external character of some small public-house; now jogging on again, as
 some fancied appearance induced him to believe it too public for his
 purpose. At length, he stopped in front of one, more humble in
 appearance and more dirty than any he had yet seen; and, having crossed
@@ -15064,13 +15064,13 @@ his intention of putting up there, for the [[motifs/night|night]].
 
 “So give us the bundle,” said Noah, unstrapping it from the woman’s
 shoulders, and slinging it over his own; “and don’t yer speak, except
-when yer spoke to. What’s the name of the [[house]]—t-h-r—three what?”
+when yer spoke to. What’s the name of the house—t-h-r—three what?”
 
 “Cripples,” said Charlotte.
 
 “Three Cripples,” repeated Noah, “and a very good sign too. Now, then!
 Keep close at my heels, and come along.” With these injunctions, he
-pushed the rattling door with his shoulder, and entered the [[house]],
+pushed the rattling door with his shoulder, and entered the house,
 followed by his companion.
 
 There was nobody in the bar but a young Jew, who, with his two elbows
@@ -15081,7 +15081,7 @@ If Noah had been attired in his [[concepts/charity|charity]]-boy’s dress, ther
 been some reason for the Jew opening his eyes so wide; but as he had
 discarded the coat and badge, and wore a short smock-frock over his
 leathers, there seemed no particular reason for his appearance exciting
-so much attention in a public-[[house]].
+so much attention in a public-house.
 
 “Is this the Three Cripples?” asked Noah.
 
@@ -15105,14 +15105,14 @@ travellers that they could be lodged that [[motifs/night|night]], and left the a
 couple to their refreshment.
 
 Now, this back-room was immediately behind the bar, and some steps
-lower, so that any person connected with the [[house]], undrawing a small
+lower, so that any person connected with the house, undrawing a small
 curtain which concealed a single pane of glass fixed in the wall of the
 last-named apartment, about five feet from its flooring, could not only
 look down upon any guests in the back-room without any great hazard of
 being observed (the glass being in a dark angle of the wall, between
 which and a large upright beam the observer had to thrust himself), but
 could, by applying his ear to the partition, ascertain with tolerable
-distinctness, their subject of conversation. The landlord of the [[house]]
+distinctness, their subject of conversation. The landlord of the house
 had not withdrawn his eye from this place of espial for five minutes,
 and Barney had only just returned from making the communication above
 related, when [[characters/fagin|Fagin]], in the course of his evening’s business, came into
@@ -15209,7 +15209,7 @@ sinking his voice to a confidential whisper; “and that’s the [[concepts/trut
 
 [[characters/fagin|Fagin]] followed up this remark by striking the side of his nose with his
 right forefinger,—a gesture which Noah attempted to imitate, though not
-with complete [[success]], in consequence of his own nose not being large
+with complete success, in consequence of his own nose not being large
 enough for the purpose. However, Mr. [[characters/fagin|Fagin]] seemed to interpret the
 endeavour as expressing a perfect coincidence with his opinion, and put
 about the liquor which Barney reappeared with, in a very friendly
@@ -15218,7 +15218,7 @@ manner.
 “Good stuff that,” observed Mr. Claypole, smacking his lips.
 
 “Dear!” said [[characters/fagin|Fagin]]. “A man need be always emptying a till, or a pocket,
-or a woman’s reticule, or a [[house]], or a mail-coach, or a bank, if he
+or a woman’s reticule, or a house, or a mail-coach, or a bank, if he
 drinks it regularly.”
 
 Mr. Claypole no sooner heard this extract from his own remarks than he
@@ -15241,7 +15241,7 @@ bundles. “I’m in that way myself, and I like you for it.”
 “In what way?” asked Mr. Claypole, a little recovering.
 
 “In that way of business,” rejoined [[characters/fagin|Fagin]]; “and so are the people of
-the [[house]]. You’ve hit the right nail upon the head, and are as safe
+the house. You’ve hit the right nail upon the head, and are as safe
 here as you could be. There is not a safer place in all this town than
 is the Cripples; that is, when I like to make it so. And I have taken a
 fancy to you and the young woman; so I’ve said the word, and you may
@@ -15430,7 +15430,7 @@ WHEREIN IS SHOWN HOW THE [[characters/artful-dodger|ARTFUL DODGER]] GOT INTO TRO
 
 “And so it was you that was your own friend, was it?” asked Mr.
 Claypole, otherwise Bolter, when, by virtue of the compact entered into
-between them, he had removed next day to [[characters/fagin|Fagin]]’s [[house]]. “Cod, I thought
+between them, he had removed next day to [[characters/fagin|Fagin]]’s house. “Cod, I thought
 as much last [[motifs/night|night]]!”
 
 “Every man’s his own friend, my dear,” replied [[characters/fagin|Fagin]], with his most
@@ -15446,7 +15446,7 @@ everybody but himself. Pooh! pooh! There ain’t such a thing in [[concepts/natu
 “There oughn’t to be, if there is,” replied Mr. Bolter.
 
 “That stands to reason. Some conjurers say that number three is the
-[[Magic|magic]] number, and some say number seven. It’s neither, my friend,
+magic number, and some say number seven. It’s neither, my friend,
 neither. It’s number one.”
 
 “Ha! ha!” cried Mr. Bolter. “Number one for ever.”
@@ -15654,7 +15654,7 @@ In fact, Mr. [[characters/fagin|Fagin]] had so [[motifs/well|well]] humoured his
 disposition, that Master Bates, who had at first been disposed to
 consider the imprisoned Dodger rather in the light of a victim, now
 looked upon him as the chief actor in a scene of most uncommon and
-exquisite [[Humour|humour]], and felt quite impatient for the arrival of the [[motifs/time|time]]
+exquisite humour, and felt quite impatient for the arrival of the [[motifs/time|time]]
 when his old companion should have so favourable an opportunity of
 displaying his abilities.
 
@@ -15731,7 +15731,7 @@ distance of Bow Street. Having described the precise situation of the
 office, and accompanied it with copious directions how he was to walk
 straight up the passage, and when he got into the side, and pull off
 his hat as he went into the room, Charley Bates bade him hurry on
-[[Alone|alone]], and promised to bide his return on the spot of their parting.
+alone, and promised to bide his return on the spot of their parting.
 
 Noah Claypole, or Morris Bolter as the reader pleases, punctually
 followed the directions he had received, which—Master Bates being
@@ -15776,7 +15776,7 @@ could be no other than the object of his visit.
 
 It was indeed Mr. Dawkins, who, shuffling into the office with the big
 coat sleeves tucked up as usual, his left hand in his pocket, and his
-hat in his right hand, preceded the jailer, with a [[rolling]] gait
+hat in his right hand, preceded the jailer, with a rolling gait
 altogether indescribable, and, taking his place in the dock, requested
 in an audible voice to know what he was placed in that ’ere disgraceful
 sitivation for.
@@ -15865,7 +15865,7 @@ young shaver?”
 
 “No,” replied the Dodger, “not here, for this ain’t the shop for
 justice: besides which, my attorney is a-breakfasting this morning with
-the Wice President of the [[house|House]] of Commons; but I shall have something
+the Wice President of the House of Commons; but I shall have something
 to say elsewhere, and so will he, and so will a wery numerous and
 ’spectable circle of acquaintance as’ll make them beaks wish they’d
 never been born, or that they’d got their footmen to hang ’em up to
@@ -15959,7 +15959,7 @@ for business this.”
 quite ready to be done.”
 
 “You’re right for once,” replied Sikes gruffly. “It is a pity, for I’m
-in the [[Humour|humour]] too.”
+in the humour too.”
 
 [[characters/fagin|Fagin]] sighed, and shook his head despondingly.
 
@@ -16147,7 +16147,7 @@ working within his brain. He had conceived the idea—not from what had
 just passed though that had tended to confirm him, but slowly and by
 degrees—that [[characters/nancy|Nancy]], wearied of the housebreaker’s brutality, had
 conceived an attachment for some new friend. Her altered manner, her
-repeated absences from [[motifs/home|home]] [[Alone|alone]], her comparative indifference to the
+repeated absences from [[motifs/home|home]] alone, her comparative indifference to the
 interests of the gang for which she had once been so zealous, and,
 added to these, her desperate impatience to leave [[motifs/home|home]] that [[motifs/night|night]] at a
 particular hour, all favoured the supposition, and rendered it, to him
@@ -16163,7 +16163,7 @@ off, she could never be safe from his fury, and that it would be surely
 wreaked—to the maiming of limbs, or perhaps the loss of life—on the
 object of her more recent fancy.
 
-“With a little [[Persuasion|persuasion]],” thought [[characters/fagin|Fagin]], “what more likely than that
+“With a little persuasion,” thought [[characters/fagin|Fagin]], “what more likely than that
 she would consent to [[motifs/poison|poison]] him? Women have done such things, and
 worse, to secure the same object before now. There would be the
 dangerous [[archetypes/villain|villain]]: the man I hate: gone; another secured in his place;
@@ -16171,7 +16171,7 @@ and my influence over the girl, with a knowledge of this crime to back
 it, unlimited.”
 
 These things passed through the mind of [[characters/fagin|Fagin]], during the short [[motifs/time|time]] he
-sat [[Alone|alone]], in the housebreaker’s room; and with them uppermost in his
+sat alone, in the housebreaker’s room; and with them uppermost in his
 thoughts, he had taken the opportunity afterwards afforded him, of
 sounding the girl in the broken hints he threw out at parting. There
 was no expression of surprise, no assumption of an inability to
@@ -16228,7 +16228,7 @@ young friend’s greediness from the very [[characters/bottom|bottom]] of his he
 monstrous slice of bread. “Where’s Charlotte?”
 
 “Out,” said [[characters/fagin|Fagin]]. “I sent her out this morning with the other young
-woman, because I wanted us to be [[Alone|alone]].”
+woman, because I wanted us to be alone.”
 
 “Oh!” said Noah. “I wish yer’d ordered her to make some buttered toast
 first. [[motifs/well|Well]]. Talk away. Yer won’t interrupt me.”
@@ -16249,7 +16249,7 @@ milk-can was a perfect masterpiece.”
 
 “Pretty [[motifs/well|well]], I think, for a beginner,” remarked Mr. Bolter
 complacently. “The pots I took off airy railings, and the milk-can was
-standing by itself outside a public-[[house]]. I thought it might get rusty
+standing by itself outside a public-house. I thought it might get rusty
 with the rain, or catch cold, yer know. Eh? Ha! ha! ha!”
 
 [[characters/fagin|Fagin]] affected to laugh very heartily; and Mr. Bolter having had his
@@ -16276,7 +16276,7 @@ to—”
 
 “Not to do anything, but to tell me where she goes, who she sees, and,
 if possible, what she says; to remember the street, if it is a street,
-or the [[house]], if it is a [[house]]; and to bring me back all the
+or the house, if it is a house; and to bring me back all the
 information you can.”
 
 “What’ll yer give me?” asked Noah, setting down his cup, and looking
@@ -16300,7 +16300,7 @@ are,” replied [[characters/fagin|Fagin]].
 “I see,” said Noah. “Just to have the pleasure of knowing them, if
 they’re respectable people, eh? Ha! ha! ha! I’m your man.”
 
-“I knew you would be,” cried [[characters/fagin|Fagin]], elated by the [[success]] of his
+“I knew you would be,” cried [[characters/fagin|Fagin]], elated by the success of his
 proposal.
 
 “Of course, of course,” replied Noah. “Where is she? Where am I to wait
@@ -16317,13 +16317,13 @@ with a disappointed face, and briefly intimated that it was not yet
 could not conceal. It was [[characters/sunday|Sunday]].
 
 “She goes abroad tonight,” said [[characters/fagin|Fagin]], “and on the right errand, I’m
-sure; for she has been [[Alone|alone]] all day, and the man she is afraid of will
+sure; for she has been alone all day, and the man she is afraid of will
 not be back much before daybreak. Come with me. Quick!”
 
 Noah started up without saying a word; for the Jew was in a state of
-such intense excitement that it infected him. They left the [[house]]
+such intense excitement that it infected him. They left the house
 stealthily, and hurrying through a labyrinth of streets, arrived at
-length before a public-[[house]], which Noah recognised as the same in
+length before a public-house, which Noah recognised as the same in
 which he had slept, on the [[motifs/night|night]] of his arrival in [[settings/london|London]].
 
 It was past eleven o’[[motifs/clock|clock]], and the door was closed. It opened softly
@@ -16483,7 +16483,7 @@ breathing, listened attentively.
 “This is far enough,” said a voice, which was evidently that of the
 gentleman. “I will not suffer the young lady to go any farther. Many
 people would have distrusted you too much to have come even so far, but
-you see I am willing to [[Humour|humour]] you.”
+you see I am willing to humour you.”
 
 
 
@@ -16491,8 +16491,8 @@ you see I am willing to [[Humour|humour]] you.”
 <span class="atom-split" data-atom="chapter_46--part_02" data-title="Oliver Twist — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/night,motif/rose,motif/time,motif/well,concept/beauty,concept/fear,concept/history,concept/hope,concept/imagination,concept/truth,form/history,character/fagin,character/monks,character/nancy,character/oliver,character/oliver_twist,character/sunday"></span>
 
 
-“To [[Humour|humour]] me!” cried the voice of the girl whom he had followed.
-“You’re considerate, indeed, sir. To [[Humour|humour]] me! [[motifs/well|Well]], [[motifs/well|well]], it’s no
+“To humour me!” cried the voice of the girl whom he had followed.
+“You’re considerate, indeed, sir. To humour me! [[motifs/well|Well]], [[motifs/well|well]], it’s no
 matter.”
 
 “Why, for what,” said the gentleman in a kinder tone, “for what purpose
@@ -16649,7 +16649,7 @@ girl after another interval of [[motifs/silence|silence]], “but I will take yo
 After receiving an assurance from both, that she might safely do so,
 she proceeded in a voice so low that it was often difficult for the
 listener to discover even the purport of what she said, to describe, by
-name and situation, the public-[[house]] whence she had been followed that
+name and situation, the public-house whence she had been followed that
 [[motifs/night|night]]. From the manner in which she occasionally paused, it appeared as
 if the gentleman were making some hasty notes of the information she
 communicated. When she had thoroughly explained the localities of the
@@ -16663,7 +16663,7 @@ her recollection.
 he has a lurking walk; and as he walks, constantly looks over his
 shoulder, first on one side, and then on the other. Don’t forget that,
 for his eyes are sunk in his head so much deeper than any other man’s,
-that you might almost tell him by that [[Alone|alone]]. His face is dark, like
+that you might almost tell him by that alone. His face is dark, like
 his hair and eyes; and, although he can’t be more than six or eight and
 twenty, withered and haggard. His lips are often discoloured and
 disfigured with the marks of teeth; for he has desperate fits, and
@@ -16674,7 +16674,7 @@ The gentleman replied, in a hurried manner, that he was not conscious
 of having done so, and begged her to proceed.
 
 “Part of this,” said the girl, “I have drawn out from other people at
-the [[house]] I tell you of, for I have only seen him twice, and both times
+the house I tell you of, for I have only seen him twice, and both times
 he was covered up in a large cloak. I think that’s all I can give you
 to know him by. Stay though,” she added. “Upon his throat: so high that
 you can see a part of it below his neckerchief when he turns his face:
@@ -16743,7 +16743,7 @@ I must go [[motifs/home|home]].”
 “[[motifs/home|Home]], lady,” rejoined the girl. “To such a [[motifs/home|home]] as I have raised for
 myself with the work of my whole life. Let us part. I shall be watched
 or seen. Go! Go! If I have done you any service all I ask is, that you
-leave me, and let me go my way [[Alone|alone]].”
+leave me, and let me go my way alone.”
 
 “It is useless,” said the gentleman, with a sigh. “We compromise her
 safety, perhaps, by staying here. We may have detained her longer than
@@ -16799,13 +16799,13 @@ vented the anguish of her heart in bitter [[motifs/tears|tears]].
 After a [[motifs/time|time]] she arose, and with feeble and tottering steps ascended
 the street. The astonished listener remained motionless on his post for
 some minutes afterwards, and having ascertained, with many cautious
-glances round him, that he was again [[Alone|alone]], crept slowly from his
+glances round him, that he was again alone, crept slowly from his
 hiding-place, and returned, stealthily and in the shade of the wall, in
 the same manner as he had descended.
 
 Peeping out, more than once, when he reached the top, to make sure that
 he was unobserved, Noah Claypole darted away at his utmost [[characters/speed|speed]], and
-made for the Jew’s [[house]] as fast as his legs would carry him.
+made for the Jew’s house as fast as his legs would carry him.
 
 
 
@@ -16952,7 +16952,7 @@ it.”
 serve them the same.”
 
 [[characters/fagin|Fagin]] looked hard at the robber; and, motioning him to be silent,
-stooped over the bed upon the floor, and shook [[The Sleeper|the sleeper]] to rouse
+stooped over the bed upon the floor, and shook the sleeper to rouse
 him. Sikes leant forward in his chair: looking on with his hands upon
 his knees, as if wondering much what all this questioning and
 preparation was to end in.
@@ -16964,7 +16964,7 @@ Bill.”
 
 “Wot d’ye mean?” asked Sikes, drawing back.
 
-[[characters/fagin|Fagin]] made no answer, but bending over [[The Sleeper|the sleeper]] again, hauled him
+[[characters/fagin|Fagin]] made no answer, but bending over the sleeper again, hauled him
 into a sitting posture. When his assumed name had been repeated several
 times, Noah rubbed his eyes, and, giving a heavy yawn, looked sleepily
 about him.
@@ -16975,7 +16975,7 @@ pointing to Sikes as he spoke.
 “Tell yer what?” asked the sleepy Noah, shaking himself pettishly.
 
 “That about— _Nancy_,” said [[characters/fagin|Fagin]], clutching Sikes by the wrist, as if
-to prevent his leaving the [[house]] before he had heard enough. “You
+to prevent his leaving the house before he had heard enough. “You
 followed her?”
 
 “Yes.”
@@ -16990,7 +16990,7 @@ followed her?”
 
 “A gentleman and a lady that she had gone to of her own accord before,
 who asked her to give up all her pals, and [[characters/monks|Monks]] first, which she
-did—and to describe him, which she did—and to tell her what [[house]] it
+did—and to describe him, which she did—and to tell her what house it
 was that we meet at, and go to, which she did—and where it could be
 best watched from, which she did—and what [[motifs/time|time]] the people went there,
 which she did. She did all this. She told it all every word without a
@@ -17154,7 +17154,7 @@ within wide [[settings/london|London]]’s bounds since [[motifs/night|night]] h
 worst. Of all the horrors that [[motifs/rose|rose]] with an ill scent upon the morning
 air, that was the foulest and most cruel.
 
-The sun—the bright sun, that brings back, not light [[Alone|alone]], but new
+The sun—the bright sun, that brings back, not light alone, but new
 life, and [[concepts/hope|hope]], and freshness to man—burst upon the crowded [[motifs/city|city]] in
 clear and radiant glory. Through costly-coloured glass and paper-mended
 [[motifs/window|window]], through [[settings/cathedral|cathedral]] dome and rotten crevice, it shed its equal
@@ -17185,7 +17185,7 @@ All this [[motifs/time|time]] he had, never once, turned his back upon the corps
 not for a moment. Such preparations completed, he moved, backward,
 towards the door: dragging the dog with him, lest he should soil his
 feet anew and carry out new evidence of the crime into the streets. He
-shut the door softly, locked it, took the key, and left the [[house]].
+shut the door softly, locked it, took the key, and left the house.
 
 He crossed over, and glanced up at the [[motifs/window|window]], to be sure that nothing
 was visible from the outside. There was the curtain still drawn, which
@@ -17233,12 +17233,12 @@ his course for Hatfield.
 It was nine o’[[motifs/clock|clock]] at [[motifs/night|night]], when the man, quite tired out, and the
 dog, limping and lame from the unaccustomed exercise, turned down the
 [[motifs/hill|hill]] by the church of the quiet village, and plodding along the little
-street, crept into a small public-[[house]], whose scanty light had guided
+street, crept into a small public-house, whose scanty light had guided
 them to the spot. There was a [[motifs/fire|fire]] in the tap-room, and some
 country-labourers were drinking before it.
 
 They made room for the stranger, but he sat down in the furthest
-corner, and ate and drank [[Alone|alone]], or rather with his dog: to whom he
+corner, and ate and drank alone, or rather with his dog: to whom he
 cast a morsel of food from [[motifs/time|time]] to [[motifs/time|time]].
 
 The conversation of the men assembled here, turned upon the
@@ -17262,7 +17262,7 @@ noisy entrance of a new comer.
 
 This was an antic fellow, half pedlar and half mountebank, who
 travelled about the country on foot to vend hones, strops, razors,
-washballs, harness-paste, medicine for [[dogs]] and horses, cheap
+washballs, harness-paste, medicine for dogs and horses, cheap
 perfumery, cosmetics, and such-like wares, which he carried in a case
 slung to his back. His entrance was the signal for various homely jokes
 with the countrymen, which slackened not until he had made his supper,
@@ -17311,7 +17311,7 @@ beer-stain, [[motifs/water|water]]-stain, paint-stain, pitch-stain, mud-stain, o
 [[motifs/blood|blood]]-stain—”
 
 The man got no further, for Sikes with a hideous imprecation overthrew
-the table, and tearing the hat from him, burst out of the [[house]].
+the table, and tearing the hat from him, burst out of the house.
 
 With the same perversity of feeling and irresolution that had fastened
 upon him, despite himself, all day, the murderer, finding that he was
@@ -17425,7 +17425,7 @@ of personal danger; and springing to his feet, rushed into the open
 air.
 
 The broad sky seemed on [[motifs/fire|fire]]. Rising into the air with showers of
-sparks, and [[rolling]] one above the other, were sheets of flame, lighting
+sparks, and rolling one above the other, were sheets of flame, lighting
 the atmosphere for miles round, and driving clouds of smoke in the
 direction where he stood. The shouts grew louder as new voices swelled
 the roar, and he could hear the cry of [[motifs/fire|Fire]]! mingled with the ringing
@@ -17537,7 +17537,7 @@ opened, a sturdy man got out of the coach and stationed himself on one
 side of the steps, while another man, who had been seated on the box,
 dismounted too, and stood upon the other side. At a sign from Mr.
 Brownlow, they helped out a third man, and taking him between them,
-hurried him into the [[house]]. This man was [[characters/monks|Monks]].
+hurried him into the house. This man was [[characters/monks|Monks]].
 
 They walked in the same manner up the stairs without speaking, and Mr.
 Brownlow, preceding them, led the way into a back-room. At the door of
@@ -17553,14 +17553,14 @@ of the police, and impeach him as a felon in my name.”
 
 “How dare you urge me to it, young man?” replied Mr. Brownlow,
 confronting him with a steady look. “Are you mad enough to leave this
-[[house]]? Unhand him. There, sir. You are free to go, and we to follow.
+house? Unhand him. There, sir. You are free to go, and we to follow.
 But I warn you, by all I hold most solemn and most sacred, that instant
 will have you apprehended on a charge of fraud and robbery. I am
 resolute and immoveable. If you are determined to be the same, your
 [[motifs/blood|blood]] be upon your own head!”
 
 “By what authority am I kidnapped in the street, and brought here by
-these [[dogs]]?” asked [[characters/monks|Monks]], looking from one to the other of the men who
+these dogs?” asked [[characters/monks|Monks]], looking from one to the other of the men who
 stood beside him.
 
 “By mine,” replied Mr. Brownlow. “Those persons are indemnified by me.
@@ -17604,7 +17604,7 @@ room, and, shrugging his shoulders, sat down.
 “Lock the door on the outside,” said Mr. Brownlow to the attendants,
 “and come when I ring.”
 
-The men obeyed, and the two were left [[Alone|alone]] together.
+The men obeyed, and the two were left alone together.
 
 “This is pretty treatment, sir,” said [[characters/monks|Monks]], throwing down his hat and
 cloak, “from my father’s oldest friend.”
@@ -17753,10 +17753,10 @@ portrait painted by himself—a likeness of this poor girl—which he did
 not wish to leave behind, and could not carry forward on his hasty
 [[motifs/journey|journey]]. He was worn by anxiety and remorse almost to a [[archetypes/shadow|shadow]]; talked
 in a wild, distracted way, of ruin and dishonour worked by himself;
-confided to me his intention to [[convert]] his whole property, at any
+confided to me his intention to convert his whole property, at any
 loss, into money, and, having settled on his wife and you a portion of
 his recent acquisition, to fly the country—I guessed too [[motifs/well|well]] he would
-not fly [[Alone|alone]]—and never see it more. Even from me, his old and early
+not fly alone—and never see it more. Even from me, his old and early
 friend, whose strong attachment had taken root in the earth that
 covered one most dear to both—even from me he withheld any more
 particular confession, promising to write and tell me all, and after
@@ -17792,7 +17792,7 @@ of vice and infamy—”
 long. I say by me—I see that your cunning associate suppressed my name,
 although for aught he knew, it would be quite strange to your ears.
 When he was rescued by me, then, and lay recovering from sickness in my
-[[house]], his strong resemblance to this picture I have spoken of, struck
+house, his strong resemblance to this picture I have spoken of, struck
 me with astonishment. Even when I first saw him in all his dirt and
 misery, there was a lingering expression in his face that came upon me
 like a glimpse of some old friend flashing on one in a vivid dream. I
@@ -17812,7 +17812,7 @@ to do it!”
 
 “We shall see,” returned the old gentleman with a searching glance. “I
 lost the boy, and no efforts of mine could recover him. Your mother
-being dead, I knew that you [[Alone|alone]] could solve the mystery if anybody
+being dead, I knew that you alone could solve the mystery if anybody
 could, and as when I had last heard of you you were on your own estate
 in the West Indies—whither, as you [[motifs/well|well]] know, you retired upon your
 mother’s [[motifs/death|death]] to escape the consequences of vicious courses here—I
@@ -17904,7 +17904,7 @@ some old haunt, and there seems little [[concepts/doubt|doubt]] that his master 
 or will be, there, under cover of the darkness. Spies are hovering
 about in every direction. I have spoken to the men who are charged with
 his capture, and they tell me he cannot escape. A reward of a hundred
-pounds is proclaimed by [[government|Government]] tonight.”
+pounds is proclaimed by Government tonight.”
 
 “I will give fifty more,” said Mr. Brownlow, “and proclaim it with my
 own lips upon the spot, if I can reach it. Where is Mr. Maylie?”
@@ -17970,7 +17970,7 @@ close, narrow, and muddy streets, thronged by the roughest and poorest
 of waterside people, and devoted to the traffic they may be supposed to
 occasion. The cheapest and least delicate provisions are heaped in the
 shops; the coarsest and commonest articles of wearing apparel dangle at
-the salesman’s door, and stream from the [[house]]-parapet and windows.
+the salesman’s door, and stream from the house-parapet and windows.
 Jostling with unemployed labourers of the lowest class,
 ballast-heavers, coal-whippers, brazen women, ragged children, and the
 raff and refuse of the [[motifs/river|river]], he makes his way with difficulty along,
@@ -17979,7 +17979,7 @@ branch off on the right and left, and deafened by the clash of
 ponderous waggons that bear great piles of merchandise from the stacks
 of warehouses that rise from every corner. Arriving, at length, in
 streets remoter and less-frequented than those through which he has
-passed, he walks beneath tottering [[house]]-fronts projecting over the
+passed, he walks beneath tottering house-fronts projecting over the
 pavement, dismantled walls that seem to totter as he passes, chimneys
 half crushed half hesitating to fall, windows guarded by rusty iron
 bars that [[motifs/time|time]] and dirt have almost eaten away, every imaginable sign
@@ -18018,9 +18018,9 @@ those who have the [[concepts/courage|courage]]; and there they live, and there 
 They must have powerful motives for a secret residence, or be reduced
 to a destitute condition indeed, who seek a refuge in Jacob’s Island.
 
-In an upper room of one of these houses—a detached [[house]] of fair size,
+In an upper room of one of these houses—a detached house of fair size,
 ruinous in other respects, but strongly defended at door and [[motifs/window|window]]: of
-which [[house]] the back commanded the ditch in manner already
+which house the back commanded the ditch in manner already
 described—there were assembled three men, who, regarding each other
 every now and then with looks expressive of perplexity and expectation,
 sat for some [[motifs/time|time]] in profound and gloomy [[motifs/silence|silence]]. One of these was Toby
@@ -18039,7 +18039,7 @@ here, my fine feller.”
 this,” replied Mr. Chitling, with a [[concepts/melancholy|melancholy]] air.
 
 “Why, look’e, young gentleman,” said Toby, “when a man keeps himself so
-very ex-clusive as I have done, and by that means has a snug [[house]] over
+very ex-clusive as I have done, and by that means has a snug house over
 his head with nobody a prying and smelling about it, it’s rather a
 startling thing to have the [[concepts/honour|honour]] of a wisit from a young gentleman
 (however respectable and pleasant a person he may be to play cards with
@@ -18127,7 +18127,7 @@ have come a long way.”
 “Where can he have come from!” exclaimed Toby. “He’s been to the other
 kens of course, and finding them filled with strangers come on here,
 where he’s been many a [[motifs/time|time]] and often. But where can he have come from
-first, and how comes he here [[Alone|alone]] without the other!”
+first, and how comes he here alone without the other!”
 
 “He”—(none of them called the murderer by his old name)—“He can’t have
 made away with himself. What do you think?” said Chitling.
@@ -18211,7 +18211,7 @@ you nothing to say to me?”
 
 There was an uneasy movement among them, but nobody spoke.
 
-“You that keep this [[house]],” said Sikes, turning his face to Crackit,
+“You that keep this house,” said Sikes, turning his face to Crackit,
 “do you mean to sell me, or to let me lie here till this hunt is over?”
 
 “You may stop here, if you think it safe,” returned the person
@@ -18317,7 +18317,7 @@ menacing the crowd. “Do your worst! I’ll cheat you yet!”
 
 Of all the terrific yells that ever fell on mortal ears, none could
 exceed the cry of the infuriated throng. Some shouted to those who were
-nearest to set the [[house]] on [[motifs/fire|fire]]; others roared to the officers to
+nearest to set the house on [[motifs/fire|fire]]; others roared to the officers to
 shoot him dead. Among them all, none showed such fury as the man on
 horseback, who, throwing himself out of the saddle, and bursting
 through the crowd as if he were parting [[motifs/water|water]], cried, beneath the
@@ -18348,13 +18348,13 @@ and kill myself.”
 
 The panic-stricken men pointed to where such articles were kept; the
 murderer, hastily selecting the longest and strongest cord, hurried up
-to the [[house]]-top.
+to the house-top.
 
-All the windows in the rear of the [[house]] had been long ago bricked up,
+All the windows in the rear of the house had been long ago bricked up,
 except one small trap in the room where the boy was locked, and that
 was too small even for the passage of his [[concepts/body|body]]. But, from this
 aperture, he had never ceased to call on those without, to guard the
-back; and thus, when the murderer emerged at last on the [[house]]-top by
+back; and thus, when the murderer emerged at last on the house-top by
 the door in the roof, a loud shout proclaimed the fact to those in
 front, who immediately began to pour round, pressing upon each other in
 an unbroken stream.
@@ -18380,7 +18380,7 @@ them up, and show them out in all their wrath and passion. The houses
 on the opposite side of the ditch had been entered by the mob; sashes
 were thrown up, or torn bodily out; there were tiers and tiers of faces
 in every [[motifs/window|window]]; cluster upon cluster of people clinging to every
-[[house]]-top. Each little bridge (and there were three in sight) bent
+house-top. Each little bridge (and there were three in sight) bent
 beneath the weight of the crowd upon it. Still the current poured on to
 find some nook or hole from which to vent their shouts, and only for an
 instant see the wretch.
@@ -18405,7 +18405,7 @@ the door, and look upon the criminal as the officers brought him out.
 The cries and shrieks of those who were pressed almost to suffocation,
 or trampled down and trodden under foot in the confusion, were
 dreadful; the narrow ways were completely blocked up; and at this [[motifs/time|time]],
-between the rush of some to regain the space in front of the [[house]], and
+between the rush of some to regain the space in front of the house, and
 the unavailing struggles of others to extricate themselves from the
 mass, the immediate attention was distracted from the murderer,
 although the universal eagerness for his capture was, if possible,
@@ -18419,7 +18419,7 @@ ditch, and, at the risk of being stifled, endeavouring to creep away in
 the darkness and confusion.
 
 Roused into new strength and energy, and stimulated by the noise within
-the [[house]] which announced that an entrance had really been effected, he
+the house which announced that an entrance had really been effected, he
 set his foot against the stack of chimneys, fastened one end of the
 rope tightly and firmly round it, and with the other made a strong
 running noose by the aid of his hands and teeth almost in a second. He
@@ -18468,7 +18468,7 @@ A PROPOSAL OF [[motifs/marriage|MARRIAGE]] WITH NO WORD OF SETTLEMENT OR PIN-MON
 
 The events narrated in the last chapter were yet but two days old, when
 [[characters/oliver|Oliver]] found himself, at three o’[[motifs/clock|clock]] in the afternoon, in a
-travelling-carriage [[rolling]] fast towards his native town. Mrs. Maylie,
+travelling-carriage rolling fast towards his native town. Mrs. Maylie,
 and [[motifs/rose|Rose]], and Mrs. Bedwin, and the good doctor were with him: and Mr.
 Brownlow followed in a post-chaise, accompanied by one other person
 whose name had not been mentioned.
@@ -18504,7 +18504,7 @@ without a friend to help him, or a roof to shelter his head.
 and pointing out at the carriage [[motifs/window|window]]; “that’s the stile I came over;
 there are the hedges I crept behind, for [[concepts/fear|fear]] any one should overtake
 me and force me back! Yonder is the path across the fields, leading to
-the old [[house]] where I was a little [[archetypes/child|child]]! Oh Dick, Dick, my dear old
+the old house where I was a little [[archetypes/child|child]]! Oh Dick, Dick, my dear old
 friend, if I could only see you now!”
 
 “You will see him soon,” replied [[motifs/rose|Rose]], gently taking his folded hands
@@ -18534,7 +18534,7 @@ as it used to be, only smaller and less imposing in appearance than he
 remembered it—there were all the [[motifs/well|well]]-known shops and houses, with
 almost every one of which he had some slight incident connected—there
 was Gamfield’s cart, the very cart he used to have, standing at the old
-public-[[house]] door—there was the workhouse, the dreary [[motifs/prison|prison]] of his
+public-house door—there was the workhouse, the dreary [[motifs/prison|prison]] of his
 youthful days, with its dismal windows frowning on the street—there was
 the same lean porter standing at the gate, at sight of whom [[characters/oliver|Oliver]]
 involuntarily shrunk back, and then laughed at himself for being so
@@ -18553,7 +18553,7 @@ and not offering to eat his head—no, not once; not even when he
 contradicted a very old postboy about the nearest [[motifs/road|road]] to [[settings/london|London]], and
 maintained he knew it best, though he had only come that way once, and
 that [[motifs/time|time]] fast asleep. There was dinner prepared, and there were
-bedrooms ready, and everything was arranged as if by [[Magic|magic]].
+bedrooms ready, and everything was arranged as if by magic.
 
 Notwithstanding all this, when the hurry of the first half-hour was
 over, the same [[motifs/silence|silence]] and constraint prevailed that had marked their
@@ -18716,7 +18716,7 @@ terrified group beside him, and explained that the Jew, who had been
 his old accomplice and confidant, had a large reward for keeping [[characters/oliver|Oliver]]
 ensnared: of which some part was to be given up, in the event of his
 being rescued: and that a dispute on this head had led to their visit
-to the country [[house]] for the purpose of identifying him.
+to the country house for the purpose of identifying him.
 
 “The locket and ring?” said Mr. Brownlow, turning to [[characters/monks|Monks]].
 
@@ -18920,7 +18920,7 @@ grief itself arose so softened, and clothed in such sweet and tender
 recollections, that it became a solemn pleasure, and lost all character
 of [[motifs/pain|pain]].
 
-They were a long, long [[motifs/time|time]] [[Alone|alone]]. A soft tap at the door, at length
+They were a long, long [[motifs/time|time]] alone. A soft tap at the door, at length
 announced that some one was without. [[characters/oliver|Oliver]] opened it, glided away, and
 gave place to Harry Maylie.
 
@@ -18979,7 +18979,7 @@ hopes, my wishes, prospects, feeling: every thought in life except my
 among a bustling crowd; no mingling with a world of malice and
 detraction, where the [[motifs/blood|blood]] is called into honest cheeks by aught but
 real disgrace and shame; but a [[motifs/home|home]]—a heart and [[motifs/home|home]]—yes, dearest [[motifs/rose|Rose]],
-and those, and those [[Alone|alone]], are all I have to offer.”
+and those, and those alone, are all I have to offer.”
 
 “What do you mean!” she faltered.
 
@@ -18997,7 +18997,7 @@ than all the hopes I have renounced, measured a thousandfold. This is
 my rank and station now, and here I lay it down!”
 
 
-“It’s a trying thing waiting supper for [[lovers]],” said Mr. Grimwig,
+“It’s a trying thing waiting supper for lovers,” said Mr. Grimwig,
 waking up, and pulling his pocket-handkerchief from over his head.
 
 [[concepts/truth|Truth]] to tell, the supper had been waiting a most unreasonable [[motifs/time|time]].
@@ -19151,7 +19151,7 @@ a few dim lamps, into the interior of the [[motifs/prison|prison]].
 
 Here, he was searched, that he might not have about him the means of
 anticipating the law; this ceremony performed, they led him to one of
-the condemned cells, and left him there—[[Alone|alone]].
+the condemned cells, and left him there—alone.
 
 He sat down on a stone bench opposite the door, which served for seat
 and bedstead; and casting his [[motifs/blood|blood]]-shot eyes upon the ground, tried to
@@ -19182,7 +19182,7 @@ At length, when his hands were raw with beating against the heavy door
 and walls, two men appeared: one bearing a candle, which he thrust into
 an iron candlestick fixed against the wall: the other dragging in a
 mattress on which to pass the [[motifs/night|night]]; for the prisoner was to be left
-[[Alone|alone]] no more.
+alone no more.
 
 Then came the [[motifs/night|night]]—dark, dismal, silent [[motifs/night|night]]. Other watchers are glad
 to hear this church-[[motifs/clock|clock]] strike, for they tell of life and coming day.
@@ -19195,7 +19195,7 @@ The day passed off. Day? There was no day; it was gone as soon as
 come—and [[motifs/night|night]] came on again; [[motifs/night|night]] so long, and yet so short; long in
 its dreadful [[motifs/silence|silence]], and short in its fleeting hours. At one [[motifs/time|time]] he
 raved and blasphemed; and at another howled and tore his hair.
-Venerable men of his own [[Persuasion|persuasion]] had come to pray beside him, but he
+Venerable men of his own persuasion had come to pray beside him, but he
 had driven them away with curses. They renewed their charitable
 efforts, and he beat them off.
 
@@ -19214,7 +19214,7 @@ with gasping mouth and burning skin, hurried to and fro, in such a
 paroxysm of [[concepts/fear|fear]] and wrath that even they—used to such sights—recoiled
 from him with horror. He grew so terrible, at last, in all the tortures
 of his evil [[concepts/conscience|conscience]], that one man could not bear to sit there,
-eyeing him [[Alone|alone]]; and so the two kept watch together.
+eyeing him alone; and so the two kept watch together.
 
 He cowered down upon his stone bed, and thought of the past. He had
 been wounded with some missiles from the crowd on the day of his
@@ -19263,7 +19263,7 @@ was to conduct them. “It’s not a sight for children, sir.”
 
 “It is not indeed, my friend,” rejoined Mr. Brownlow; “but my business
 with this man is intimately connected with him; and as this [[archetypes/child|child]] has
-seen him in the full career of his [[success]] and villainy, I think it as
+seen him in the full career of his success and villainy, I think it as
 [[motifs/well|well]]—even at the cost of some [[motifs/pain|pain]] and [[concepts/fear|fear]]—that he should see him
 now.”
 
@@ -19440,7 +19440,7 @@ under an attack of his old disorder, and died in [[motifs/prison|prison]]. As fa
 [[motifs/home|home]], died the chief remaining members of his friend [[characters/fagin|Fagin]]’s gang.
 
 Mr. Brownlow adopted [[characters/oliver|Oliver]] as his son. Removing with him and the old
-housekeeper to within a mile of the parsonage-[[house]], where his dear
+housekeeper to within a mile of the parsonage-house, where his dear
 friends resided, he gratified the only remaining wish of [[characters/oliver|Oliver]]’s warm
 and earnest heart, and thus linked together a little society, whose
 condition approached as nearly to one of perfect happiness as can ever
@@ -19475,7 +19475,7 @@ him on his old prophecy concerning [[characters/oliver|Oliver]], and to remind h
 [[motifs/night|night]] on which they sat with the watch between them, waiting his
 return; but Mr. Grimwig contends that he was right in the main, and, in
 proof thereof, remarks that [[characters/oliver|Oliver]] did not come back after all; which
-always calls forth a laugh on his side, and increases his good [[Humour|humour]].
+always calls forth a laugh on his side, and increases his good humour.
 
 Mr. Noah Claypole: receiving a free pardon from the [[motifs/crown|Crown]] in
 consequence of being admitted approver against [[characters/fagin|Fagin]]: and considering
@@ -19553,7 +19553,7 @@ attained.
 Within the altar of the old village church there stands a white marble
 tablet, which bears as yet but one word: “AGNES.” There is no coffin in
 that tomb; and may it be many, many years, before another name is
-placed above it! But, if the [[Spirits of the Dead|spirits of the Dead]] ever come back to
+placed above it! But, if the spirits of the Dead ever come back to
 earth, to visit spots hallowed by the [[motifs/love|love]]—the [[motifs/love|love]] beyond the [[motifs/grave|grave]]—of
 those whom they knew in life, I believe that the shade of Agnes
 sometimes hovers round that solemn nook. I believe it none the less

@@ -46,7 +46,7 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/unattainable-beloved|Unattainable Beloved]]
-**Archetypes:** Martyr Saint, Lover
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/lover|Lover]]
 **Motifs:** [[motifs/nightingale|Nightingale]], [[motifs/rose|Rose]], [[motifs/white-and-red|White and Red]], [[motifs/blood|Blood]], [[motifs/music-and-song|Music and Song]], [[motifs/love|Love]], [[motifs/death|Death]], [[motifs/moon|Moon]], [[motifs/garden|Garden]]
 **Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/romantic-love|Romantic Love]], [[concepts/martyrdom|Martyrdom]], [[concepts/artist-and-society|Artist and Society]], [[concepts/beauty-and-truth|Beauty and Truth]], [[concepts/satire-of-society|Satire of Society]]
 **Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]

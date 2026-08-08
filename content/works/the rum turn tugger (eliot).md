@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Trickster
+**Archetypes:** [[archetypes/trickster|Trickster]]
 **Motifs:** [[motifs/animals|Animals]]
 **Themes & Concepts:** [[concepts/joy|Joy]], [[concepts/identity|Identity]]
 **Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]]

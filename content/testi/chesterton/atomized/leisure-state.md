@@ -93,7 +93,7 @@ Molti degli idealisti riescono a concepire un'umanità oziosa soltanto
 come un'umanità ideale. Parlano come se nessun uomo potesse mai riposare
 finché non abbia raggiunto l'Utopia; o come se una vacanza davvero lunga
 fosse qualcosa come il paradiso, del tutto lontano e divino. La loro
-[[philosophy|filosofia]] sociale è quella del gioviale e umoristico
+filosofia sociale è quella del gioviale e umoristico
 epitaffio della donna delle pulizie, che era passata a non far nulla nei
 secoli dei secoli. Ma persino ora non è affatto certo che coloro che non
 sono donne delle pulizie diventino davvero più giovali e umoristici non
@@ -330,7 +330,7 @@ per il lavoro; dovremmo o non dovremmo pagare troppo per l'ozio?
 Many of the idealists can only conceive of an idle humanity as
 an ideal humanity.  They talk as if no man could ever rest until
 he reached Utopia; or as if a really long holiday were something
-like heaven, utterly distant and divine.  Their social [[philosophy]]
+like heaven, utterly distant and divine.  Their social philosophy
 is that of the hearty and humorous epitaph of the charwoman,
 who had gone on to do nothing for ever and ever.  But even now it
 is by no means certain that those who are not charwomen really become
@@ -412,7 +412,7 @@ Molti degli idealisti riescono a concepire un'umanità oziosa soltanto
 come un'umanità ideale. Parlano come se nessun uomo potesse mai riposare
 finché non abbia raggiunto l'Utopia; o come se una vacanza davvero lunga
 fosse qualcosa come il paradiso, del tutto lontano e divino. La loro
-[[philosophy|filosofia]] sociale è quella del gioviale e umoristico
+filosofia sociale è quella del gioviale e umoristico
 epitaffio della donna delle pulizie, che era passata a non far nulla nei
 secoli dei secoli. Ma persino ora non è affatto certo che coloro che non
 sono donne delle pulizie diventino davvero più giovali e umoristici non

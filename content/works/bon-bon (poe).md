@@ -52,12 +52,12 @@ tags:
 ## Connections
 
 **Topoi:** [[topoi/world-upside-down|World Upside Down]]
-**Archetypes:** Satanic Figure, Trickster
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/trickster|Trickster]]
 **Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/supernatural|Supernatural]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/book-reading|Book Reading]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
 **Themes & Concepts:** [[concepts/temptation|Temptation]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/pride|Pride]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/satire-of-society|Satire of Society]], [[concepts/grotesque|Grotesque]]
 **Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]]
 **Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]]
-**Characters:** Satan, Faust
+**Characters:** [[characters/satan|Satan]], [[characters/faust|Faust]]
 
 ## Testo integrale / Full text
 

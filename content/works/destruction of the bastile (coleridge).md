@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Archetypes:** Tyrant, Rebel
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/rebel|Rebel]]
 **Motifs:** [[motifs/storm|Storm]]
 **Themes & Concepts:** [[concepts/reform|Reform]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]]
 **Forms & Genres:** [[forms/ode|Ode]]

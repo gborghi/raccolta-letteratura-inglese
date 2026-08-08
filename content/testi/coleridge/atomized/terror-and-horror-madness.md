@@ -18,7 +18,7 @@ Within these wilds was Anna wont to rove
 While Harland told his [[motifs/love|love]] in many a sigh,  
 But stern on Harland roll’d her brother’s eye,  
 They fought, they fell — her brother and her [[motifs/love|love]]!  
-To [[motifs/death|Death]]’s dark [[house]] did grief-worn Anna haste,   5  
+To [[motifs/death|Death]]’s dark house did grief-worn Anna haste,   5  
 Yet here her pensive [[archetypes/ghost|ghost]] delights to stay;  
 Oft pouring on the winds the broken lay —  
 And hark, I hear her—’twas the passing blast.  
@@ -112,7 +112,7 @@ A chesnut spread its umbrage wide:
 A hermit or a monk the man might be;    5  
 But him I could not see:  
 And thus the music flow’d along,  
-In melody most like to old Sicilian [[Song|song]]:  
+In melody most like to old Sicilian song:  
 ‘There was a [[motifs/time|time]] when earth, and sea, and skies,  
 The bright green vale, and forest’s dark recess,   10  
 With all things, lay before mine eyes  
@@ -185,7 +185,7 @@ Seem’d living only when he snor’d.
 The Citizen enraged to see
 This fat Insensibility,
 Or, tir’d with solitary labour,
-Determin’d to [[convert]] his neighbour;   25
+Determin’d to convert his neighbour;   25
 So up he sprang and to ‘t he fell,
 Like devil piping hot from hell,
 With indefatigable fist
