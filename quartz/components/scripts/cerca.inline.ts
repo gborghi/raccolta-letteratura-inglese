@@ -342,7 +342,12 @@ async function init() {
       return
     }
 
-    let rows = selected.size > 0 ? data.filter(matches) : data.slice()
+    // Exclude knowledge-graph work notes (href starts with "works/"): they
+    // aggregate tags from their children and pollute faceted search (e.g. a
+    // Dickinson cluster note inherits both "letter" and "lyric" and surfaces
+    // in a form=letter query ahead of the actual letters).
+    let rows = (selected.size > 0 ? data.filter(matches) : data.slice())
+      .filter((r) => !r.href.startsWith("works/"))
     if (q) {
       const terms = q.split(/\s+/).filter(Boolean)
       rows = rows.filter((r) => {

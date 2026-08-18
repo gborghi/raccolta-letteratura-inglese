@@ -254,6 +254,14 @@ function build(reader: HTMLElement) {
 
   reader.replaceChildren(bar, tagsEl, shell, relatedEl)
 
+  // Poem collections: hide the chapter TOC sidebar — standalone poems don't form a
+  // sequential work, so the flat list adds noise, not navigation value.
+  const isPoems = reader.dataset.collection === "poems"
+  if (isPoems) {
+    shell.classList.add("no-toc")
+    tocBtn.style.display = "none"
+  }
+
   // ---- table of contents (grouped by chapter) ----
   const tocList = el("ul", "ar-toc-list")
   let curChap: string | null = null
