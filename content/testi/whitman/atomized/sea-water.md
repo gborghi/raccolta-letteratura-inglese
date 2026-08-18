@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/sea-water" data-author="Whitman" data-workhref="works/sea-·-water-(whitman)"></div>
 
 
+<<<<<<< HEAD
 Out of the Rolling Ocean the Crowd · Out of the Cradle Endlessly Rocking · The World below the Brine · After the Sea-Ship · As Consequent, Etc. · A Paumanok Picture · Paumanok · From Montauk Point · FANCIES AT NAVESINK · Old Salt Kossabone
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="033_out_of_the_rolling_ocean_the_crowd" data-title="Out of the Rolling Ocean the Crowd" data-chapter="" data-kind="intro"></span>
 
 

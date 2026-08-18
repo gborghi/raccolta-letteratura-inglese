@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/identity-free-verse-eternal-return" data-author="Whitman" data-workhref="works/identity-·-free-verse-·-eternal-return-(whitman)"></div>
 
 
+<<<<<<< HEAD
 One’s-Self I Sing · As I Ponder’d in Silence · To a Historian · Eidolons · For Him I Sing · When I Read the Book · Beginners · To a Certain Cantatrice · Me Imperturbe · Savantism · What Place Is Besieged? · Still Though the One I Sing · Shut Not Your Doors · Thou Reader · To the Garden the World · From Pent-Up Aching Rivers · I Sing the Body Electric · A Woman Waits for Me · Spontaneous Me · Ages and Ages Returning at Intervals · We Two, How Long We Were Fool’d · Native Moments · I Heard You Solemn-Sweet Pipes of the Organ · Facing West from California’s Shores · As Adam Early in the Morning · Not Heaving from My Ribb’d Breast Only · Are You the New Person Drawn Toward Me? · To a Stranger · Among the Multitude · That Shadow My Likeness · Song of the Answerer · A Song of Joys · Song of the Broad-Axe · Song of the Exposition · Song of the Redwood-Tree · A Song for Occupations · A Song of the Rolling Earth · Song of the Universal · To You · Myself and Mine · Year of Meteors [1859-60 · With Antecedents · A Broadway Pageant · As I Ebb’d with the Ocean of Life · Tears · A Hand-Mirror · Thoughts · O Me! O Life! · To a President · I Sit and Look Out · The Runner · Song of the Banner at Daybreak · Not Youth Pertains to Me · World Take Good Notice · By Blue Ontario’s Shore · There Was a Child Went Forth · Song of Prudence · Out from Behind This Mask [To Confront a Portrait] · You Felons on Trial in Courts · Laws for Creations · To a Pupil · Unfolded out of the Folds · What Am I After All · Kosmos · Tests · O Living Always, Always Dying · Excelsior · Mediums · These Carols · To Get the Final Lilt of Songs · Small the Theme of My Chant · Lingering Last Drops
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="001_one_s_self_i_sing" data-title="One’s-Self I Sing" data-chapter="" data-kind="intro"></span>
 
 

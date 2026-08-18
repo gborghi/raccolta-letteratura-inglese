@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/memory-and-time-memory-nostalgia" data-author="Eliot" data-workhref="works/memory-and-time-·-memory-·-nostalgia-(eliot)"></div>
 
 
+<<<<<<< HEAD
 Rhapsody on a Windy Night · Aunt Helen · Burbank with a Baedeker: Bleistein with a Cigar · Lune de Miel · Dans le Restaurant · Whispers of Immortality · Five-Finger Exercises · [A Lyric]: ‘If Time and Space, as Sages say’ · Song: ‘If space and time, as sages say’ · Song: ‘When we came home across the hill’ · Before Morning · Ode
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="005_rhapsody_on_a_windy_night" data-title="Rhapsody on a Windy Night" data-chapter="" data-kind="intro"></span>
 
 

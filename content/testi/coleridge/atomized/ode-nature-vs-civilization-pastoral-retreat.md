@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat" data-author="Coleridge" data-workhref="works/ode-·-nature-vs-civilization-·-pastoral-retreat-(coleridge)"></div>
 
 
+<<<<<<< HEAD
 EASTER HOLIDAYS · HAPPINESS · A WISH · TO DISAPPOINTMENT · SONGS OF THE PIXIES · TO THE NIGHTINGALE · COMPOSED WHILE CLIMBING THE LEFT ASCENT OF BROCKLEY COOMB, · REFLECTIONS ON HAVING LEFT A PLACE OF RETIREMENT · TO A YOUNG FRIEND · THE RAVEN · THE FOSTER-MOTHER’S TALE · LINES TO W. L.: WHILE HE SANG A SONG TO PURCELL’S MUSIC · FRANCE: AN ODE · NETHER STOWEY · THE VISIT OF THE GODS: IMITATED FROM SCHILLER · LINES COMPOSED IN A CONCERT-ROOM · HYMN TO THE EARTH · ODE TO TRANQUILLITY · DEJECTION: AN ODE · HYMN BEFORE SUN-RISE, IN THE VALE OF CHAMOUNI · INSCRIPTION FOR A FOUNTAIN ON A HEATH · TO NATURE · THE REPROOF AND REPLY · WORK WITHOUT HOPE · THE GARDEN OF BOCCACCIO · ON A VOLUNTEER SINGER · BARON GUELPH OF ADELSTAN. A FRAGMENT · STOLBERG: HYMNE AN DIE ERDE.
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="000_easter_holidays" data-title="EASTER HOLIDAYS" data-chapter="" data-kind="intro"></span>
 
 
@@ -64,54 +67,12 @@ Like Easter all the year.
 1787.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-STROFA 1ª  
-Salve! festosa Pasqua che rechi  
-l’avvicinarsi della [[motifs/spring|primavera]] dolcemente ridente,  
-quando la [[concepts/nature|Natura]] si veste di verde:  
-quando i cantori pennuti per il boschetto  
-con le bestie confessano il potere d’[[motifs/love|amore]]   5  
-e rallegrano tutta la scena.  
-STROFA 2ª  
-Ora i giovani caricano le diligenze che si sfasciano  
-e, sferragliando veloci per la [[motifs/road|strada]],  
-s’affrettano verso Greenwich:  
-mentre altri con remi sonanti fendono   10  
-la corrente del Tamigi che scorre placido,  
-tutti cantano il canto festivo.  
-STROFA 3ª  
-Con [[motifs/dance|danza]] gioiosa battono il suolo,  
-i loro gridi di gioia i colli rimandano  
-e colgono il festoso frastuono:   15  
-senza una lacrima, senza un sospiro  
-i loro istanti volano tutti in trasporti  
-finché la sera pone fine alle loro gioie.  
-STROFA 4ª  
-Ma poco pensano i loro cuori gioiosi  
-alle varie fitte della dura Sventura   20  
-che gli anni giovanili nascondono:  
-incuranti dell’Affanno dal sorriso amaro  
-che tutti gli uomini nascono per conoscere  
-e che essi stessi dovranno provare.  
-STROFA 5ª  
-Ma chi terrà i sentieri della Saggezza   25  
-e la Virtù salda che sdegna di piangere  
-sui mali in potere della Fortuna,  
-per la scena screziata di questa vita,  
-in tempeste furiose o in calma serena,  
-passerà lieto le sue ore.   30  
-STROFA 6ª  
-Finché salda Virtù gli guida la mente  
-troverà sempre la Contentezza nata dal cielo  
-che mai versa una lacrima:  
-senza riguardo ad alcuna marea  
-le sue ore scivoleranno via in beatitudine    35  
-come Pasqua tutto l’anno.  
-1787.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="032_happiness" data-title="HAPPINESS" data-chapter="" data-kind="intro"></span>
 
 
@@ -223,117 +184,12 @@ While [[concepts/faith|Faith]] proclaims “Thou shalt not die!”’   105
 1791.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Su scala ampia o ristretta l’Uomo  
-traccerà più felicemente il disegno della Vita?  
-Dimmi, fiorirà e appassirà là  
-dove prime spuntarono le sue gemme infantili;  
-o schizzerà in alto con forza librante,   5  
-tentando una via più ambiziosa?  
-Obbediente ora al comando della [[concepts/hope|Speranza]],  
-ordino a ogni umile desiderio di espandersi,  
-e belle e lucenti appaiono le prospettive della Vita.  
-Mentre la [[concepts/hope|Speranza]] dispiega il suo raggio confortante,   10  
-e i vividi colori della Fantasia fluiscono,  
-mentre l’Emulazione mi sta accanto,  
-Dea dall’occhio avido.  
-Col piede avanzato e il cuore ansioso  
-ora muovo verso la meta immaginata: —  15  
-Ah! perché la Ragione s’interpone  
-fra me e le mie gioie promesse!  
-Arresta il mio corso, [[motifs/chains|incatena]] la mia [[characters/speed|corsa]],  
-mentre così procedono le sue parole possenti: —  
-Ah! ascolta, Giovane, prima che sia troppo tardi,   20  
-quali mali possono attendere il tuo cammino!  
-Chinare il capo, piegare il ginocchio,  
-favorito della Servilità,  
-sospirare ai frequenti cipigli della bassa [[concepts/pride|Superbia]],  
-e spiare lo sguardo nell’occhio della Follia;   25  
-faticare intensamente, e faticare invano,  
-e sentire con quale vuota [[motifs/pain|pena]]  
-la pallida Delusione china il capo  
-sulla cara Attesa morta!  
-‘La scena è mutata e il vento della Fortuna   30  
-gonfierà ogni vela propizia.  
-Pure so [[motifs/well|bene]] che la ricchezza improvvisa  
-non diede mai felicità.  
-Quella ricchezza per cui non siamo nati  
-ci condanna al dolore o allo scherno.   35  
-Guarda quel gregge che a lungo aveva calcato  
-l’erba corta della zolla del Devon,  
-trasferito ai prati folti e grassi di [[characters/lincoln|Lincoln]],  
-e nella loro sorte sia [[concepts/fear|temuta]] la tua;  
-per ogni membro volano i contagi,   40  
-deformati e soffocati scoppiano e muoiono.  
-‘Quando il Lusso apre largo le braccia,  
-e sorridendo ti alletta a quelle lusinghe  
-il cui fascino mille confessano,  
-porterà la tua fronte il cipiglio stoico?   45  
-E quando ella porge la sua coppa  
-attorno a cui premono miriadi impazzite,  
-quale potere divino soccorre la tua [[motifs/soul|anima]]  
-perché tu la scagli a terra? —  
-No, tu berrai, e conoscerai   50  
-la sua beatitudine fugace, il suo affanno duraturo,  
-le sue gioie forsennate, che non conoscono misura,  
-e la rozza Gozzoviglia e il Piacere dipinto; —  
-finché (triste rovescio!) la vile Incantatrice  
-converte in cipigli il suo sorriso magico;    55  
-il suo corteo impaziente di distruggere  
-osserva il suo cipiglio con cupa gioia;  
-su di te con zanne d’arpia s’avventano  
-l’orrenda progenie della Malattia,  
-la gonfia Idropisia che ignora il Riposo,   60  
-e la Febbre vestita di scarlatto,  
-la Tisi che guida il carro funebre veloce,  
-e la Gotta che ulula la bestemmia frequente,  
-con l’Apoplessia dal capo pesante  
-che sicura mira il suo dardo di piombo.   65  
-‘Ma poniamo che le gioie della Vita ti fossero date pure,  
-a te, prediletto del Cielo:  
-dentro, fuori, fosse tutto salute —  
-pure che sono, anche così, Fama, Potere, Ricchezza,  
-se non suoni che variamente esprimono   70  
-ciò che è già tuo — la Felicità!  
-È tuo tenere il profondo colloquio  
-con tutti i famosi figli antichi;  
-e tuo il felice sogno da desto  
-mentre la [[concepts/hope|Speranza]] insegue un tema prediletto,   75  
-come spesso quando la [[motifs/night|Notte]] è distesa sul Cielo  
-tu passeggi intorno a questa sede materna,  
-dove lungi dallo splendore, lungi dal tumulto,  
-avvolta nel [[motifs/silence|silenzio]] dorme la Quiete spensierata.  
-È tuo parlare spesso con la Fantasia,   80  
-e tua la pacifica passeggiata serale;  
-e ciò che per te è più dolce —  
-il sole che tramonta, la Stella della Sera —  
-le tinte che vivono lungo il cielo,  
-e la [[motifs/moon|Luna]] che incontra il tuo occhio rapito,   85  
-dove spesso la lacrima grata sgorgherà,  
-cari silenziosi piaceri del Cuore!  
-Ah! Essere beato, ché il Cielo concederà  
-un amico con cui dividere le tue gioie semplici!  
-Ah! due volte beato, se l’[[motifs/love|Amore]] presterà   90  
-il suo influsso a compiere la tua gioia,  
-se per caso trovi una fanciulla leggiadra  
-che sappia leggere il tuo volto nella tua mente.  
-‘Un’altra benedizione richiede la tua cura: —  
-ancora una volta rivolgi al Cielo la [[motifs/prayer|preghiera]]:   95  
-per un’umile indipendenza prega  
-il genio custode del tuo cammino;  
-che (dicono i savi) nei giorni antichi  
-la mite Sufficienza generò alla Saggezza,  
-così scivolerà il tuo piccolo vascello   100  
-con brezza propizia giù per la corrente,  
-e la [[concepts/hope|Speranza]], se mai cominci a dolerti,  
-ti rammenterà qualche bel domani,  
-finché la [[motifs/death|Morte]] chiuderà il tuo occhio tranquillo  
-mentre la [[concepts/faith|Fede]] proclama “Tu non morrai!”’   105  
-1791.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="033_a_wish" data-title="A WISH" data-chapter="" data-kind="intro"></span>
 
 
@@ -357,29 +213,12 @@ Compose with icy hand!
 1792.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-SCRITTO NEL BOSCO DEL JESUS COLLEGE, 10 FEBB. 1792  
-Ecco! per il [[motifs/silence|silenzio]] fosco dei boschetti,  
-per valli irrigue e per verdi ritiri,  
-con languido mormorio striscia il placido ruscello  
-e si apre la sua via segreta.  
-Per un poco serpeggiando intorno ai campi natii   5  
-volge l’onda giocosa e piega il suo volo:  
-poi scorrendo giù con [[characters/speed|corsa]] ridestata  
-s’insena nel Profondo!  
-Così per il suo silenzioso tenore possa la mia Vita  
-spianare il suo mite corso, non ingombro di sordida ricchezza,   10  
-del pari ignaro di tempeste forensi  
-e della palma macchiata di [[motifs/blood|sangue]] della Gloria!  
-E quando la cupa Vecchiaia chiuderà il breve giorno della Vita,  
-sazio di svago e stanco delle sue fatiche,  
-possa così la [[motifs/death|Morte]] sonnolenta comporre le mie decorose membra   15  
-con gelida mano!  
-1792.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="035_to_disappointment" data-title="TO DISAPPOINTMENT" data-chapter="" data-kind="intro"></span>
 
 
@@ -418,44 +257,12 @@ Dare her slow return to mourn!
 1792.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Via! tu demone di cupo dominio,  
-che ami cavalcare su raffica che dissecca  
-sopra la [[concepts/pride|superbia]] d’aria della cara Illusione.  
-Spirito arcigno! Via! Lontano!  
-Dove l’Avarizia s’annida in sordida cella,   5  
-o la folle [[concepts/ambition|Ambizione]] costruisce il sogno,  
-o il Piacere trama l’empio disegno,  
-là dimora con la [[concepts/guilt|Colpa]] e la Follia!  
-Ma oh! quando la [[concepts/hope|Speranza]] sull’ala della Saggezza  
-profetica sussurra puro diletto,   10  
-sia lontano il tuo golpe cancrenoso,  
-Demone dal pungiglione avvelenato.  
-Affrettati dunque, Ninfa delle brezze balsamiche!  
-La [[motifs/prayer|preghiera]] del tuo poeta, dolce Maggio, ascolta!  
-Oh! poni mia madre e mia amica   15  
-fra le sue belle valli natie.  
-La Pace, che ascolta i canti dell’allodola dei boschi,  
-la Salute, che spira i più divini tesori,  
-le Ore ridenti e i Piaceri conviviali  
-attendono la mia amica nelle pianure di Cambria.   20  
-Là l’Affetto con raggio commisto  
-verserà a un tempo gli alti rapimenti  
-della Gioia filiale e materna;  
-affrettati dunque, delizioso Maggio!  
-E oh! sfioriscano pure i bei fiorellini della [[motifs/spring|Primavera]],   25  
-cessi l’[[motifs/summer|Estate]] di lavare le sue membra  
-nel fresco ruscello, [[motifs/grave|incida]] pure l’[[motifs/autumn|Autunno]]  
-il suo giallo sulla radura vestita di grano;  
-prima che, strappata al dolce ritiro,  
-ella cerchi di nuovo il mercato affollato:   30  
-né tu, mio cuore egoista, egoista,  
-osa dolerti del suo lento ritorno!  
-1792.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="042_songs_of_the_pixies" data-title="SONGS OF THE PIXIES" data-chapter="" data-kind="intro"></span>
 
 
@@ -591,141 +398,12 @@ Extract a Blush for [[motifs/love|Love]]!
 1793.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I Pixies, nella superstizione del Devonshire, sono una razza di esseri  
-invisibilmente piccoli, innocui o amici dell’uomo. A poca distanza  
-da un villaggio di quella contea, a mezza costa di una [[motifs/hill|collina]] coperta di bosco, vi è uno  
-scavo detto il Salotto dei Pixies. Le radici di vecchi alberi ne formano il  
-soffitto; e sui suoi fianchi stanno innumerevoli cifre, fra le quali l’autore  
-scoprì la propria e quelle dei suoi fratelli, incise dalla  
-mano della loro [[motifs/childhood|infanzia]]. Ai piedi della [[motifs/hill|collina]] scorre il [[motifs/river|fiume]] Otter.  
-In questo luogo l’Autore, durante i mesi d’[[motifs/summer|estate]] dell’anno 1793,  
-condusse una brigata di giovani dame; una delle quali, di statura elegantemente  
-minuta, e di carnagione scolorita eppure chiara, fu proclamata [[characters/queen|Regina]]  
-delle Fate. In tale occasione fu scritta la seguente Ode Irregolare.  
-I  
-Noi che i Pastori ignoranti chiamano  
-Pixies nel loro madrigale,  
-figli della Fantasia, qui dimoriamo:  
-benvenute, Dame, alla nostra cella.  
-Qui lo scricciolo dalla nota più soave   5  
-costruisce il nido e gorgheggia [[motifs/well|bene]];  
-qui il merlo sforza la gola;  
-benvenute, Dame, alla nostra cella.  
-II  
-Quando la [[motifs/moon|luna]] sbiadisce in ombroso pallore,  
-e la nube corre davanti alla raffica,   10  
-prima che il Mattino tutto ingemmato  
-abbia striato l’Oriente di luce rosata,  
-noi sorseggiamo le rugiade fragranti del fiore di ginestrone  
-vestiti di manti dai colori dell’arcobaleno;  
-o folleggiamo fra i barbagli guizzanti   15  
-al motivo dei tiri che tintinnano lontano,  
-mentre il gagliardo Lavoro, sprezzando il dolore,  
-dà alla Massaia un lieto buongiorno,  
-ed ella trotta lungo la [[motifs/road|strada]] consueta,  
-e cammina allegra al suo canto che rallegra.   20  
-III  
-Ma non la nostra ala sottile  
-bruciamo nella vampa del giorno,  
-quando il favorito dalle chiome di fuoco del Mezzogiorno  
-saetta il raggio fervente.  
-Sempre dal calore afoso   25  
-ci ritiriamo nella [[motifs/cave|caverna]]  
-sovrastata da enormi radici intrecciate  
-di trama selvaggia, annerite dall’età:  
-intorno a esse le edere legano il loro manto verde,  
-sotto il cui pallido fogliame   30  
-ventilati dalla brezza rada  
-ci ripariamo dalla furia meridiana del [[archetypes/tyrant|Tiranno]].  
-IV  
-Colà, mentre la folla mormorante  
-delle [[motifs/bees|api]] selvatiche ronza il suo canto sonnolento,  
-condotto dall’[[concepts/indolence|Indolenza]] e dalla Fantasia,    35  
-un giovane Bardo, ‘ignoto alla Fama’,  
-corteggia la [[characters/queen|Regina]] del Pensiero Solenne,  
-e leva la mite miseria d’un sospiro  
-guardando con occhio lacrimoso,  
-mentre intorno alla nostra grotta sabbiosa appaiono   40  
-più d’un nome rozzamente scolpito  
-caro alla [[motifs/memory|Memoria]] pensosa!  
-Tessendo [[motifs/dreams|sogni]] gai di tinta solare,  
-guizziamo davanti al suo sguardo:  
-sulla sua [[motifs/soul|anima]] acquietata spargiamo i nostri incanti blandi   45  
-e intrecciamo la ghirlanda futura intorno al suo capo.  
-V  
-Quando il carro fosco della Sera  
-[[motifs/crown|coronato]] della sua stella rugiadosa  
-s’insinua sul cielo che sbiadisce in volo d’ombra;  
-sulle [[motifs/leaves|foglie]] dei pioppi tremuli   50  
-tremiamo alla brezza  
-velati alla vista più grossa dell’occhio mortale.  
-O, forse, nell’ora visionaria,  
-lungo il nostro viale appartato di selvagge frasche,  
-ascoltiamo i discorsi del villano innamorato;   55  
-ci solleviamo coi sussulti del seno della fanciulla,  
-dove gli Amori dagli occhi giovani hanno nascosto il loro nido di tortore;  
-o guidiamo con potere che soggioga l’[[motifs/soul|anima]]  
-lo sguardo che dall’occhio mezzo confessante  
-saetta la tenera domanda o la molle risposta.   60  
-VI  
-O per i mistici riccioli della valle  
-guizziamo coi nostri piedi fatati in scherzo festoso;  
-o, coi sandali silenziosi, rendiamo più destra [[settings/court|corte]],  
-girando intorno allo Spirito della Brezza d’Occidente,  
-dove, stanco del suo gioco che carezza i fiori,   65  
-supino sonnecchia su una sponda di viole;  
-poi con musica bizzarra [[forms/hymn|inneggiamo]] al barbaglio che si parte  
-presso il ruscello solitario dell’Otter che persuade al [[motifs/sleep|sonno]];  
-o dove la sua onda con canto alto e inquieto  
-sbattuta sul canale roccioso spumeggia via;   70  
-o dove, spianate al riposo le sue acque d’argento,  
-l’[[archetypes/shadow|ombra]] dell’albero alto dorme sul suo petto.  
-VII  
-Via, tu che indugi, o Luce!  
-La Sera s’attrista in [[motifs/night|Notte]].  
-Madre di [[motifs/dreams|sogni]] selvaggiamente operanti! vediamo   75  
-le ore fosche, che ti stanno intorno  
-con occhi bassi (schiera ossequiosa!)  
-le loro vesti scure grondanti di rugiada pesante.  
-Maga dal trono d’ebano!  
-Il tuo potere i Pixies riconoscono,   80  
-quando intorno alla tua fronte corvina  
-ardono le rose lucenti del Cielo,  
-e nubi vestite di colori acquosi  
-fluttuano in lieve drappeggio sulla tua veste di zibellino:  
-nel [[motifs/time|tempo]] in cui la pallida [[motifs/moon|luna]] versa un giorno più soave   85  
-addolcendo i boschi sotto il suo raggio pensoso:  
-ché fra la luce tremula è nostro giocare,  
-sempre danzando alla cadenza del ruscello.  
-VIII  
-Benvenute, Dame, alla cella  
-dove dimorano gl’incolpevoli Pixies:   90  
-ma tu, dolce Ninfa, proclamata nostra [[characters/queen|Regina]] delle Fate,  
-con quale conveniente omaggio  
-saluteremo la tua presenza?  
-Ché ecco! al seguito dei tuoi passi si vedono  
-la graziosa Disinvoltura in stola senz’arte,    95  
-e la Purezza d’[[motifs/soul|anima]] vestita di bianco,  
-col piglio più mite dell’[[concepts/honour|Onore]];  
-l’Allegria dai capelli sciolti,  
-e la Pietà dagli occhi miti, eloquentemente bella,  
-le cui guance lacrimose sono care alla vista,   100  
-come goccia di [[motifs/snow|neve]] bagnata di rugiada.  
-IX  
-Fanciulla senza vanto! benché ora il pallido Giglio  
-adorni trasparente le tue miti bellezze;  
-pure prima che di nuovo lungo la valle imporporata,  
-la valle che s’imporpora e il boschetto abitato dagli elfi,   105  
-il giovane Zefiro getti a profusione i suoi freschi [[motifs/flowers|fiori]],  
-noi tingeremo di tinte più vive la tua guancia;  
-e, forse, dalla [[motifs/rose|Rosa]] che spira nettare  
-estrarremo un Rossore per l’[[motifs/love|Amore]]!  
-1793.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="099_to_the_nightingale" data-title="TO THE NIGHTINGALE" data-chapter="" data-kind="intro"></span>
 
 
@@ -762,42 +440,12 @@ She thrills me with the Husband’s promis’d name!
 1795.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sorella dei Poeti derelitti d’[[motifs/love|amore]], Filomela!  
-Quanti Bardi rinchiusi in soffitte di [[motifs/city|città]],  
-mentre alla loro [[motifs/window|finestra]] con occhio chino  
-notano il fioco raggio del lampione sul fango del rigagnolo,  
-e ascoltano il grido sonnolento delle Guardie   5  
-(quei rauchi Usignoli implumi del [[motifs/time|Tempo]]!),  
-quanti miseri Bardi invocano il tuo nome,  
-e quello di lei, [[characters/queen|Regina]] dal disco pieno che splende lassù.  
-Ma io ti odo davvero, e segno l’alto ramo,  
-nel cui mite fogliame indorato dalla [[motifs/moon|luna]] nascosta   10  
-tu gorgheggi tristi i tuoi canti che implorano pietà.  
-Oh! io ho  
-ascoltato, finché  
-la mia  
-operante  
-[[motifs/soul|anima]],  
-destata da quei canti a mille fantasie,  
-assorta ha cessato d’ascoltare! Perciò spesso  
-[[forms/hymn|inneggio]] al tuo nome: e con orgoglioso diletto   15  
-spesso ti dirò, Menestrello della [[motifs/moon|Luna]]!  
-‘Musicalissimo, [[concepts/melancholy|malinconico]]’ Uccello!  
-che tutte le tue molli diversità di tono,  
-benché assai più dolci delle arie deliziose  
-che vibrano dall’arpa d’una Dama dalle bianche braccia,   20  
-nel [[motifs/time|tempo]] in cui il languore d’un [[motifs/love|amore]] solitario  
-si scioglie nel suo occhio, e le solleva il petto di [[motifs/snow|neve]],  
-non sono dolci come la voce di lei,  
-la mia Sara — la più amata del genere umano!  
-quando, spirando la pura [[motifs/soul|anima]] della tenerezza,   25  
-mi fa fremere col nome promesso di Sposo!  
-1795.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="100_composed_while_climbing_the_left_ascent_of_brockley_coomb" data-title="COMPOSED WHILE CLIMBING THE LEFT ASCENT OF BROCKLEY COOMB," data-chapter="" data-kind="intro"></span>
 
 
@@ -820,28 +468,12 @@ Deep sighs my lonely heart: I drop the tear:   15
 Enchanting spot! O were my Sara here!  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-SOMERSETSHIRE, MAGGIO    1795  
-Con molte soste e occhio spesso rivolto indietro  
-salgo l’erta del Coomb: dolci cantori vicini  
-gorgheggiano nell’ombra la loro melodia silvestre:  
-lontano l’invariabile Cuculo blandisce il mio orecchio.  
-Su corrono i randagi trasaliti del gregge   5  
-che su verdi chiazze sopra i precipizi brucano:  
-dalle profonde fessure della roccia nuda  
-erompe il Tasso! Sotto i suoi rami verdecupi  
-(fra cui il biancospino mesce i suoi fiori bianchi)  
-dove larghe pietre lisce sporgono in sedili muscosi,   10  
-mi riposo: — e ora ho raggiunto il punto più alto.  
-Ah! quale lussureggiare di paesaggio incontra  
-il mio sguardo! Torri superbe, e Casupole a me più care,  
-Campi [[archetypes/shadow|ombreggiati]] d’olmi, e il Mare che chiude la veduta!  
-Profondo sospira il mio cuore solitario: verso la lacrima:   15  
-Luogo incantevole! Oh fosse qui la mia Sara!
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="107_reflections_on_having_left_a_place_of_retirement" data-title="REFLECTIONS ON HAVING LEFT A PLACE OF RETIREMENT" data-chapter="" data-kind="intro"></span>
 
 
@@ -921,85 +553,12 @@ It might be so — but the [[motifs/time|time]] is not yet.   70
 1795.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sermoni propriora. — ORAZIO.  
-Bassa era la nostra graziosa Casetta: la nostra [[motifs/rose|Rosa]] più alta  
-sbirciava alla [[motifs/window|finestra]] della camera. Potevamo udire  
-nel silenzioso [[motifs/noon|meriggio]], e a sera, e al primo mattino,  
-il fioco mormorio del Mare. All’aria aperta  
-i nostri Mirti fiorivano; e sul portico   5  
-folti Gelsomini s’attorcevano: il piccolo paesaggio intorno  
-era verde e boscoso, e rinfrescava l’occhio.  
-Era un luogo che ben si poteva chiamare  
-la Valle dell’Isolamento! Una volta vidi  
-(santificando con la quiete il suo giorno di Sabato)   10  
-un ricco figlio del Commercio passeggiare di là,  
-cittadino di Bristowa: mi parve che gli calmasse  
-la sete d’oro ozioso, e lo inducesse a meditare  
-con sentimenti più saggi: ché si fermò, e guardò  
-con una lieta tristezza, e volse lo sguardo tutt’intorno,   15  
-poi adocchiò la nostra Casetta, e guardò di nuovo intorno,  
-e sospirò, e disse che era un Luogo Benedetto.  
-E noi eravamo benedetti. Spesso con orecchio paziente,  
-ascoltando a lungo la nota dell’allodola invisibile  
-(invisibile, o forse per un attimo scorta   20  
-luccicare su ali di sole) con tono sussurrato  
-ho detto alla mia Amata: ‘Tale, dolce Fanciulla,  
-è il canto discreto della Felicità,  
-melodia ultraterrena! udita solo allora  
-quando l’[[motifs/soul|Anima]] cerca d’udire; quando tutto tace,   25  
-e il Cuore ascolta!’  
-Ma il [[motifs/time|tempo]], quando per la prima volta  
-da quella bassa Conca, su per il Monte sassoso,  
-salii con periglioso stento e raggiunsi la cima,  
-oh! che scena magnifica! Qui il monte brullo,  
-la nuda brulla montagna rada di pecore chiazzata;   30  
-nubi grigie, che ombrando macchiano i campi assolati;  
-e il [[motifs/river|fiume]], ora sovrastato da rocce cespugliose,  
-ora serpeggiante limpido e pieno, con rive nude;  
-e sedi, e prati, l’Abbazia e il bosco,  
-e casupole, e borghi, e la fioca guglia della [[motifs/city|città]];   35  
-là il Canale, le Isole e le vele bianche,  
-coste fioche, e colli come nubi, e l’Oceano senza sponde —  
-pareva Onnipresenza! Dio, pensai,  
-s’era là costruito un Tempio: il Mondo intero  
-pareva effigiato nella sua vasta circonferenza:   40  
-nessun desiderio profanò il mio cuore sopraffatto.  
-Ora benedetta! Era un lusso, — essere!  
-Ah! quieta Conca! cara Casetta, e Monte [[concepts/sublime|sublime]]!  
-Fui costretto a lasciarvi. Era giusto,  
-mentre i miei innumerevoli fratelli faticavano e sanguinavano,   45  
-che io sognassi via le ore affidatemi  
-su letti di petali di [[motifs/rose|rosa]], viziando il cuore codardo  
-con sentimenti troppo delicati per l’uso?  
-Dolce è la lacrima che dall’occhio di qualche Howard  
-cade sulla guancia di chi egli solleva da terra:   50  
-e chi mi fa del bene con volto impassibile  
-lo fa a metà: mi agghiaccia mentre mi aiuta,  
-mio benefattore, non mio fratello!  
-Pure anche questa, questa fredda beneficenza  
-lodala, lodala, o mia [[motifs/soul|Anima]]! ogni volta che scruti   55  
-la tribù pigra della Pietà tessitrice di visioni!  
-che sospirano per la Miseria, e schivano i Miseri,  
-nutrendo in qualche deliziosa [[concepts/solitude|solitudine]]  
-i loro amori indolenti e le loro delicate simpatie!  
-Io dunque vado, e unisco capo, cuore e mano,   60  
-attivo e saldo, a combattere la battaglia incruenta  
-della Scienza, della [[concepts/freedom|Libertà]] e della [[concepts/truth|Verità]] in [[characters/christ|Cristo]].  
-Pure spesso, quando dopo onorata fatica  
-riposa la mente stanca, e desta ama sognare,  
-il mio spirito tornerà a visitarti, cara Casetta!   65  
-il tuo Gelsomino e la tua [[motifs/rose|Rosa]] che sbircia alla [[motifs/window|finestra]],  
-e i Mirti che non temono la mite aria di mare.  
-E sospirerò teneri desideri — dolce Dimora!  
-Ah! nessuno ne avesse di più grandi! E tutti ne avessero di tali!  
-Potrebbe essere così — ma il [[motifs/time|tempo]] non è ancora venuto.   70  
-[[characters/speed|Affrettalo]], o Padre! Venga il tuo Regno!  
-1795.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="122_to_a_young_friend" data-title="TO A YOUNG FRIEND" data-chapter="" data-kind="intro"></span>
 
 
@@ -1085,91 +644,12 @@ Now may Heaven realise this vision bright!
 1796.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-PER LA SUA PROPOSTA DI ANDARE A VIVERE CON L’AUTORE  
-Composto nel  
-1796  
-Un monte, non faticoso e nudo e ripido,  
-ma una verde montagna variamente accumulata,  
-dove sulle rocce sporgenti strisciano molli muschi,  
-o licheni colorati piangono di lento stillicidio;  
-dove il cipresso e il tasso più cupo balzano selvaggi;   5  
-e, tra il mite scroscio del torrente d’[[motifs/summer|estate]],  
-[[motifs/dance|danzano]] ravvivati i grappoli rossi del sorbo;  
-sotto i cui rami, blandita da quei suoni quieti,  
-la calma Pensosità potrebbe meditare fino al [[motifs/sleep|sonno]];  
-finché forse trasalisca per qualche pecora lanosa,   10  
-che frusciando sulla rupe cespugliosa lassù  
-con belato [[concepts/melancholy|malinconico]] d’[[motifs/love|amore]] ansioso  
-chiede mite del suo [[motifs/lamb|agnello]] smarrito:  
-Una tale verde montagna sarebbe dolcissimo salire,  
-anche mentre il petto dolesse di [[concepts/loneliness|solitudine]] — 15  
-quanto più che dolce, se qualche caro amico benedicesse  
-l’avventurosa fatica, e su per il sentiero [[concepts/sublime|sublime]]  
-ora guidasse, ora seguisse: il lieto paesaggio intorno,  
-largo e più largo, crescendo senza confine!  
-Oh allora sarebbe soavissima simpatia notare   20  
-le bacche del sorbo mezzo sradicato  
-gocciolanti e lucenti; e ascoltare lo scroscio del torrente, —  
-sotto il cipresso, o il tasso più cupo,  
-seduti a proprio agio su qualche liscia roccia muscosa;  
-ora in [[motifs/silence|silenzio]] socievole, e ora a dischiudere   25  
-il cuore custodito; braccio allacciato a braccio amico,  
-salvo se l’uno, l’incanto ammaliante della sua musa  
-mormorando a fronte china, resti indietro a distanza inosservata;  
-finché alto sul capo appare l’amico che lo chiama,  
-e dalla fronte della rupe più alta   30  
-grida impaziente: ché forse là si erge  
-quel Pino ombroso le sue vecchie membra romantiche,  
-che ultimo tratterrà lo sguardo innamorato  
-visto dal basso, quando la sera oscura la valle,  
-tinta di giallo dalla ricca luce che si parte;   35  
-e forse, raccolta in qualche fessura senza sole,  
-una bella [[motifs/spring|sorgente]], le [[motifs/tears|lacrime]] raccolte della roccia,  
-dorme là al riparo, appena increspata dalla brezza!  
-Così insieme, lasciato il vano tumulto del mondo,  
-stesi sulla rupe, e [[archetypes/shadow|ombreggiati]] dal pino,   40  
-e chini sulla chiara deliziosa fonte,  
-ah! carissimo giovane! sarebbe sorte divina  
-ingannare i nostri meriggi in umore moraleggiante,  
-mentre i venti d’ovest ventilassero le nostre tempie madide di fatica:  
-poi scendere il declivio, sostando spesso, dal monte,   45  
-verso qualche casa solitaria, in qualche valle boscosa,  
-dove, sorridendo con occhio azzurro, la Beatitudine Domestica  
-dà a questo il bacio dello Sposo, a quello quello del Fratello!  
-Così rozzamente versato nel sapere allegorico,  
-il [[motifs/hill|Colle]] della Conoscenza tentai di tracciare;   50  
-quel [[motifs/hill|colle]] verdeggiante con molti luoghi di sosta,  
-e molti ruscelli, le cui acque canterine si versano  
-a rallegrare e fecondare le pianure soggette;  
-quel [[motifs/hill|colle]] con sorgenti segrete, e recessi mai calcati,  
-e molte zolle sante e benedette dalla fantasia    55  
-dove l’Ispirazione, i suoi canti più divini  
-sommessamente mormorando, giaceva; e sorgenti dalle  
-rigide sempreverdi della roccia (il cui fogliame disteso beffa  
-il suolo sterile del Bisogno, e i geli crudi dell’età,  
-e la folle rabbia della Bigotteria che invoca il [[motifs/fire|fuoco]]!)   60  
-O mite spirito schivo! noi saliremo,  
-confortando ed essendo confortati, questo bel [[motifs/hill|colle]] [[concepts/sublime|sublime]];  
-e dal mondo agitato sollevati in alto  
-(i cui rumori, fiocamente portati dal [[motifs/wind|vento]],  
-accorderanno la mente a quiete meditazioni,   65  
-e spesso forniranno il tema [[concepts/melancholy|malinconico]]),  
-là, mentre la veduta attraverso l’occhio che contempla  
-versa tutto il suo verde salubre sull’[[motifs/soul|anima]],  
-sorrideremo alla ricchezza, e impareremo a sorridere alla fama,  
-le nostre speranze, il nostro sapere e le nostre gioie le stesse,   70  
-come fontane vicine che ciascuna rispecchia il tutto:  
-poi, quando la mente avrà bevuto a sazietà di [[concepts/truth|verità]],  
-disciplineremo il cuore al puro diletto,  
-ravvivando la fiamma domestica della gioia sobria.  
-Quelli che io [[motifs/love|amo]] [[motifs/love|ameranno]] te, giovane [[concepts/honour|onorato]]!   75  
-Ora possa il Cielo realizzare questa visione lucente!  
-1796.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="128_the_raven" data-title="THE RAVEN" data-chapter="" data-kind="intro"></span>
 
 
@@ -1221,57 +701,12 @@ They had taken his all, and [[concepts/revenge|REVENGE]] IT WAS SWEET!
 1797.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-UN RACCONTO DI NATALE, NARRATO DA UNO SCOLARO AI SUOI FRATELLINI E SORELLINE  
-Sotto una vecchia quercia  
-stava di porci una gran compagnia,  
-che grugniva sgranocchiando le ghiande:  
-ché eran mature, e cadevano fitte fitte.  
-Poi trotterellarono via, ché il [[motifs/wind|vento]] si levò forte:   5  
-una ghianda lasciarono, e più non ne scorgevi.  
-Poi venne un Corvo, cui non piaceva tal follia:  
-apparteneva, dicevano, alla [[characters/witch|strega]] [[concepts/melancholy|Malinconia]]!  
-Più nero era del più nero giaietto,  
-volava basso nella pioggia, e non gli si bagnavan le penne.   10  
-Raccolse la ghianda e subito la sotterrò  
-sulla riva d’un [[motifs/river|fiume]] profondo e grande.  
-Dove andò poi il Corvo?  
-Andò in alto e in basso,  
-per [[motifs/hill|colle]], per valle, andò il Corvo nero.   15  
-Molti Autunni, molte Primavere  
-viaggiò con ali erranti:  
-molte Estati, molti Inverni —  
-non so dire metà delle sue avventure.  
-Alfine tornò, e con lui una Lei,   20  
-e la ghianda era cresciuta in un’alta quercia.  
-Si fecero un nido sul ramo più alto,  
-ed ebbero piccoli, ed erano assai felici.  
-Ma presto venne un Boscaiolo in veste di cuoio,  
-la fronte, come una tettoia, pendeva sugli occhi.   25  
-Aveva un’ascia in mano, non disse parola,  
-ma con più d’un ehm! e un colpo gagliardo,  
-alfine abbatté la quercia del povero Corvo.  
-I suoi piccoli furono uccisi, ché non poterono partire,  
-e la madre loro morì di cuore spezzato.   30  
-I rami dal tronco il Boscaiolo recise;  
-e lo fecero galleggiare giù per il corso del [[motifs/river|fiume]].  
-Lo segarono in assi, e la scorza gli strapparono,  
-e con quest’albero e altri fecero una buona [[motifs/ship|nave]].  
-La [[motifs/ship|nave]] fu varata; ma in vista della terra   35  
-sorse una tal [[motifs/storm|tempesta]] che nessuna [[motifs/ship|nave]] poteva reggere.  
-Urtò su uno scoglio, e le onde irruppero rapide:  
-girando e girando volò il corvo, e gracchiò alla raffica.  
-Udì l’ultimo urlo delle anime che perivano —  
-Guarda! guarda! sull’albero maestro l’[[motifs/water|acqua]] folle rotola!   40  
-Ben lieto fu il Corvo, e via se ne andò veloce,  
-e la [[motifs/death|Morte]] che tornava a [[motifs/home|casa]] su una nube incontrò,  
-e la ringraziò ancora e ancora di questo regalo:  
-gli avevano preso tutto, e la [[concepts/revenge|VENDETTA]] FU DOLCE!  
-1797.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="135_the_foster-mothers_tale" data-title="THE FOSTER-MOTHER’S TALE" data-chapter="" data-kind="intro"></span>
 
 
@@ -1365,99 +800,12 @@ He liv’d and died among the savage men.
 1797.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-UN [[forms/fragment|FRAMMENTO]] DRAMMATICO
-[Da Osorio, Atto IV. Il titolo e il testo sono qui stampati
-da Lyrical Ballads, 1798.]
-La Balia. Non vidi mai l’uomo che descrivi.
-[[characters/maria|Maria]]. È strano! parlava di te familiarmente
-come della Balia comune mia e di Alberto.
-La Balia. Benedizioni sull’uomo, chiunque egli sia,
-che unì i vostri nomi al mio! O mia dolce signora,   5
-ogni volta che penso a quei cari tempi
-quando voi due piccini stavate a sera
-ai due lati della mia seggiola, e mi facevate imparare
-tutto ciò che avevate appreso nel giorno; e come parlare
-in frasi gentili, e poi mi chiedevate di cantarvi — 10
-è più simile al cielo a venire che a ciò che è stato!
-[[characters/maria|Maria]]. O mia cara Madre! quello strano uomo mi ha lasciata
-turbata da fantasie più selvagge di quelle che la [[motifs/moon|luna]]
-genera nella fanciulla malata d’[[motifs/love|amore]] che la contempla,
-finché, persa in visione interiore, con occhio bagnato   15
-guarda senza vedere! — Ma quel passaggio, Madre!
-La Balia. Nessuno può udire? È un racconto pericoloso!
-[[characters/maria|Maria]]. Nessuno.
-La Balia. Me lo raccontò il padre di mio marito,
-il povero vecchio Leoni! — Gli angeli diano pace alla sua [[motifs/soul|anima]]!
-Era un boscaiolo, e sapeva abbattere e segare   20
-con braccio gagliardo. Conosci quell’enorme trave rotonda
-che regge il muro pericolante della vecchia Cappella?
-Sotto quell’albero, quando ancora era un albero,
-trovò un bimbo avvolto in muschi, foderati
-di barbe di cardo, e di quei fiocchetti di lana   25
-che pendono dai rovi. [[motifs/well|Ebbene]], se lo portò a [[motifs/home|casa]],
-e lo allevò a spese dell’allora Signore Velez.
-E così il bimbo crebbe come un bel ragazzo,
-un bel ragazzo, ma indocile assai —
-e non imparò mai una [[motifs/prayer|preghiera]], né sgranò un rosario,   30
-ma sapeva i nomi degli [[motifs/birds|uccelli]], e ne imitava le note,
-e fischiava, come fosse un uccello lui stesso:
-e per tutto l’[[motifs/autumn|autunno]] fu il suo unico gioco
-raccogliere i semi dei [[motifs/flowers|fiori]] selvatici, e piantarli
-con terra e [[motifs/water|acqua]], sui ceppi degli alberi.   35
-Un Frate, che raccoglieva erbe nel bosco,
-un uomo dai capelli grigi — amò questo fanciullo,
-il fanciullo amò lui — e, quando il Frate l’ammaestrò,
-presto seppe scrivere con la penna: e da quel [[motifs/time|tempo]]
-visse per lo più al Convento o al [[settings/castle|Castello]].   40
-Così divenne un giovane assai dotto.
-Ma oh! povero infelice! — lesse, e lesse, e lesse,
-finché il cervello gli si volse — e prima dei vent’anni
-ebbe pensieri illeciti su molte cose:
-e benché pregasse, non amò mai pregare   45
-con uomini santi, né in luogo santo —
-eppure il suo parlare era così molle e dolce,
-che il defunto Signore Velez non se ne stancava mai.
-E una volta, mentre presso il lato nord della Cappella
-stavano insieme, avvinti in profondo discorso,   50
-la terra si sollevò sotto di loro con tal gemito,
-che il muro vacillò, e [[motifs/well|quasi]] cadde
-dritto sulle loro teste. Il mio Signore fu preso da gran spavento;
-una febbre lo colse, e fece confessione
-di tutti i discorsi eretici e senza legge   55
-che avevano attirato quel castigo: così il giovane fu preso
-e gettato in quella fossa. Il padre di mio marito
-singhiozzò come un [[archetypes/child|bambino]] — quasi gli spezzò il cuore:
-e una volta, mentre lavorava nella cantina,
-udì distintamente una voce; era quella del giovane,   60
-che cantava un canto dolente di campi verdi,
-di quanto sarebbe dolce, su lago o selvaggia savana,
-cacciare per cibo, ed essere un uomo nudo,
-e vagare su e giù in libertà.
-Egli aveva sempre stravisto per il giovane, e ora   65
-il suo [[motifs/love|amore]] si fece disperato; e sfidando la [[motifs/death|morte]],
-aprì quel passaggio astuto che ho descritto:
-e il giovane fuggì.
-[[characters/maria|Maria]].     È un dolce racconto:
-tale da cullare nel [[motifs/sleep|sonno]] un [[archetypes/child|bimbo]] che ascolti,
-col visetto roseo imbrattato di [[motifs/tears|lacrime]] non asciugate. — 70
-E che ne fu di lui?
-La Balia. S’imbarcò
-con quegli arditi navigatori, che fecero scoperta
-di terre d’oro. Il fratello minore di Leoni
-andò del pari, e quando tornò in Spagna
-disse a Leoni che il povero giovane folle,   75
-poco dopo il loro arrivo in quel nuovo mondo,
-malgrado le sue dissuasioni, s’impadronì d’una barca,
-e tutto solo, salpò al silenzioso chiaro di luna
-su per un gran [[motifs/river|fiume]], grande come un mare,
-e non se ne seppe più nulla: ma si suppone   80
-che vivesse e morisse fra gli uomini selvaggi.
-1797.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="143_lines_to_w_l_while_he_sang_a_song_to_purcells_music" data-title="LINES TO W. L.: WHILE HE SANG A SONG TO PURCELL’S MUSIC" data-chapter="" data-kind="intro"></span>
 
 
@@ -1478,26 +826,12 @@ Mix with the blest, nor know that I had died!
 1797.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Finché la mia guancia giovane serba le sue tinte sane,  
-e ho molti amici che mi tengono caro,  
-L —— ! mi pare che non vorrei udire spesso  
-melodie come le tue, per non perdere  
-ogni [[motifs/memory|memoria]] dei torti e dell’acerba angoscia   5  
-per cui piangono i miei miseri fratelli!  
-Ma se sventure senza conforto dovessero intridere  
-il mio pane quotidiano di [[motifs/tears|lacrime]] e amarezza;  
-e se nell’attimo tremendo della [[motifs/death|Morte]] giacessi  
-senza volto amato al mio capezzale,   10  
-a fissare l’ultimo sguardo del mio occhio che si chiude,  
-mi pare che tali canti, spirati dal mio angelo guida,  
-mi farebbero scostare il calice dell’angoscia,  
-mescolarmi ai beati, e non sapere d’esser morto!  
-1797.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="147_france_an_ode" data-title="FRANCE: AN ODE" data-chapter="" data-kind="intro"></span>
 
 
@@ -1614,122 +948,12 @@ O Liberty! my spirit felt thee there.   105
 February, 1798.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I  
-O Nubi! che alte sopra me fluttuate e sostate,  
-la cui marcia senza sentiero nessun mortale può reggere!  
-O Onde dell’Oceano! che, dovunque rotoliate,  
-rendete omaggio solo a leggi eterne!  
-O Boschi! che ascoltate il canto degli [[motifs/birds|uccelli]] della [[motifs/night|notte]],   5  
-adagiati a mezzo del pendio liscio e periglioso,  
-salvo quando i vostri rami imperiosi, dondolando,  
-hanno fatto del [[motifs/wind|vento]] una musica solenne!  
-Dove, come uomo amato da Dio,  
-per tenebre mai calcate da boscaiolo,   10  
-quante volte, inseguendo fantasie sante,  
-serpeggiai la mia via lunare su erbe in fiore,  
-ispirato, oltre l’indovinare della follia,  
-da ogni forma rude e da ogni suono selvaggio e indomabile!  
-O voi Onde sonore! e o voi Foreste alte!   15  
-e o voi Nubi che alte sopra me vi libraste!  
-Tu Sole che sorgi! tu Cielo azzurro esultante!  
-Sì, ogni cosa che è e sarà libera!  
-Rendete per me testimonianza, dovunque siate,  
-con quale profonda venerazione ho sempre adorato   20  
-lo spirito della Libertà divinissima.  
-II  
-Quando la Francia nell’ira levò le sue membra gigantesche,  
-e con quel giuramento che percosse aria, terra e mare,  
-batté il forte piede e disse che sarebbe stata libera,  
-rendete per me testimonianza di come sperai e temetti!   25  
-Con quale gioia il mio alto rallegramento  
-cantai senza timore, in mezzo a una banda servile:  
-e quando, per travolgere la nazione disincantata,  
-come demoni schierati dalla bacchetta d’un mago,  
-i Monarchi mossero in giorno malvagio,   30  
-e la Britannia s’unì alla schiera funesta;  
-benché care le sue rive e l’oceano che le cinge,  
-benché molte amicizie, molti amori giovanili  
-avessero gonfiato il patrio sentimento  
-e gettato una luce magica su tutti i suoi colli e boschetti;   35  
-pure la mia voce, immutata, cantò sconfitta  
-a quanti sfidavano la lancia che abbatte il [[archetypes/tyrant|tiranno]],  
-e vergogna troppo a lungo differita e vana ritirata!  
-Ché mai, o Libertà, con mira parziale  
-oscurai la tua luce o soffocai la tua fiamma santa;   40  
-ma benedissi i peana della Francia liberata,  
-e chinai il capo e piansi al nome della Britannia.  
-III  
-‘E che importa,’ dissi, ‘se l’urlo sonoro della Bestemmia  
-lottò con quella dolce musica di liberazione!  
-se tutte le passioni fiere e ubriache tesserono   45  
-una [[motifs/dance|danza]] più selvaggia d’ogni sogno di forsennato!  
-O tempeste, che intorno all’Oriente nascente v’adunaste,  
-il Sole sorgeva, benché ne celaste la luce!’  
-E quando, a placare la mia [[motifs/soul|anima]] che sperava e tremava,  
-la dissonanza cessò, e tutto parve calmo e luminoso;   50  
-quando la Francia la sua fronte sfregiata e insanguinata  
-celò con folte ghirlande di gloria;  
-quando, avanzando insostenibile,  
-il suo braccio fece scherno dell’assalto del guerriero;  
-mentre, lanciando timidi sguardi di furore,   55  
-il tradimento domestico, schiacciato sotto il suo piede fatale,  
-si torceva come drago ferito nel suo sangue;  
-allora rimproverai i miei timori che non volevano fuggire;  
-‘E presto,’ dissi, ‘la Saggezza insegnerà il suo sapere  
-nelle basse capanne di quanti faticano e gemono!   60  
-e, vincendo con la sua felicità soltanto,  
-la Francia costringerà le nazioni a esser libere,  
-finché [[motifs/love|Amore]] e Gioia si guarderanno intorno, e chiameranno loro la Terra.’  
-IV  
-Perdonami, [[concepts/freedom|Libertà]]! oh perdona quei [[motifs/dreams|sogni]]!  
-Odo la tua voce, odo il tuo alto lamento,   65  
-mandato dalle gelide caverne della squallida Elvezia —  
-odo i tuoi gemiti sui suoi torrenti macchiati di [[motifs/blood|sangue]]!  
-Eroi, che per la vostra terra pacifica periste,  
-e voi che, fuggendo, macchiate le nevi dei vostri monti  
-di ferite sanguinanti; perdonatemi d’aver nutrito   70  
-un solo pensiero che benedicesse i vostri crudeli nemici!  
-Spargere rabbia e [[concepts/guilt|colpa]] traditrice  
-dove la Pace aveva costruito la sua gelosa [[motifs/home|casa]];  
-diseredare una stirpe patriota  
-di tutto ciò che rendeva sì care le loro selve tempestose;   75  
-e con spirito inespiabile  
-contaminare l’incruenta [[concepts/freedom|libertà]] del montanaro —  
-o Francia, che beffi il Cielo, adultera, cieca,  
-e patriota solo in perniciose insidie!  
-Son questi i tuoi vanti, Campione del genere umano?   80  
-Mescolarti ai Re nella bassa libidine del dominio,  
-urlare nella caccia, e dividere la preda assassina;  
-insultare il santuario della Libertà con spoglie  
-strappate a uomini liberi; tentare e tradire?  
-V  
-Il Sensuale e l’Oscuro si [[archetypes/rebel|ribellano]] invano,   85  
-schiavi per propria costrizione! In folle gioco  
-spezzano le loro manette e portano il nome  
-di [[concepts/freedom|Libertà]], inciso su una catena più pesante!  
-O Libertà! con sforzo senza frutto  
-ti ho inseguita per molte ore stanche;   90  
-ma tu né gonfi il canto del vincitore, né mai  
-spirasti la tua [[motifs/soul|anima]] in forme d’umano potere.  
-Da tutti egualmente, comunque ti lodino,  
-(né [[motifs/prayer|preghiera]] né nome vanaglorioso ti trattiene)  
-egualmente dai servi arpia dell’Arte Sacerdotale,   95  
-e dagli schiavi più osceni della Bestemmia fazionaria,  
-tu voli via sulle tue sottili ali,  
-guida dei venti senza casa, e compagna di gioco delle onde!  
-E là ti sentii! — sull’orlo di quella rupe marina,  
-i cui pini, appena percorsi dalla brezza lassù,   100  
-facevano un solo mormorio con la risacca lontana!  
-Sì, mentre stavo e guardavo, le tempie nude,  
-e scagliavo il mio essere per terra, mare e aria,  
-possedendo ogni cosa con [[motifs/love|amore]] intensissimo,  
-o Libertà! il mio spirito ti sentì là.   105  
-Febbraio 1798.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="154_nether_stowey" data-title="NETHER STOWEY" data-chapter="" data-kind="intro"></span>
 
 
@@ -1849,125 +1073,12 @@ Sweet [[motifs/nightingale|Nightingale]]! once more, my friends! farewell.   110
 1798.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-20 APRILE 1798. L’[[motifs/nightingale|USIGNOLO]]: [[forms/conversation-poem|POEMETTO DI CONVERSAZIONE]], APRILE 1798  
-Nessuna nube, nessuna reliquia del giorno tramontato  
-distingue l’Occidente, nessuna lunga sottile striscia  
-di luce imbronciata, nessuna oscura tinta tremula.  
-Vieni, ci riposeremo su questo vecchio ponte muscoso!  
-Vedi il barlume del ruscello sotto,   5  
-ma non odi mormorio: scorre silenzioso  
-sul suo molle letto di verzura. Tutto è quieto,  
-una [[motifs/night|notte]] balsamica! e benché le [[motifs/stars|stelle]] siano fioche,  
-pensiamo pure agli acquazzoni primaverili  
-che rallegrano la verde terra, e troveremo   10  
-un piacere nel fioco lume delle [[motifs/stars|stelle]].  
-E ascolta! l’[[motifs/nightingale|Usignolo]] comincia il suo canto,  
-‘Musicalissimo, [[concepts/melancholy|malinconico]]’ uccello!  
-Un uccello [[concepts/melancholy|malinconico]]? Oh! vano pensiero!  
-Nella [[concepts/nature|Natura]] non v’è nulla di [[concepts/melancholy|malinconico]].   15  
-Ma qualche uomo errante di [[motifs/night|notte]], il cui cuore fu trafitto  
-dal ricordo d’un grave torto,  
-o da lento malore, o da [[motifs/love|amore]] trascurato,  
-(e così, povero infelice, riempì ogni cosa di sé,  
-e fece che ogni suono gentile ripetesse la storia   20  
-del proprio dolore) egli, e quelli come lui,  
-chiamarono per primi queste note un canto [[concepts/melancholy|malinconico]].  
-E più d’un poeta fa eco al concetto;  
-poeta che è andato costruendo la rima  
-quando assai meglio avrebbe fatto a distendere le membra   25  
-presso un ruscello in muscosa conca boschiva,  
-al sole o al lume di [[motifs/moon|luna]], agli influssi  
-di forme e suoni ed elementi mutevoli  
-arrendendo tutto il suo spirito, del suo canto  
-e della sua fama immemore! così la sua fama   30  
-dividerebbe l’[[concepts/immortality|immortalità]] della [[concepts/nature|Natura]],  
-cosa veneranda! e così il suo canto  
-renderebbe più bella tutta la [[concepts/nature|Natura]], e sarebbe  
-esso stesso amato come la [[concepts/nature|Natura]]! Ma non sarà così;  
-e giovani e fanciulle poeticissimi,   35  
-che perdono i crepuscoli sempre più fondi della [[motifs/spring|primavera]]  
-in sale da ballo e teatri caldi, ancora  
-pieni di mite simpatia devono trarre i loro sospiri  
-sui canti di Filomela che implorano pietà.  
-Amico mio, e tu, Sorella nostra! noi abbiamo appreso   40  
-un diverso sapere: non possiamo così profanare  
-le dolci voci della [[concepts/nature|Natura]], sempre piene d’[[motifs/love|amore]]  
-e di letizia! È l’allegro [[motifs/nightingale|Usignolo]]  
-che addensa, e affretta, e precipita  
-con rapido fitto gorgheggio le sue note deliziose,   45  
-come temesse che una [[motifs/night|notte]] d’aprile  
-fosse per lui troppo breve a effondere  
-il suo canto d’[[motifs/love|amore]], e sgravare la sua [[motifs/soul|anima]] colma  
-di tutta la sua musica!  
-E io conosco un boschetto  
-di grande estensione, presso un [[settings/castle|castello]] enorme,   50  
-che il gran signore non abita; e così  
-questo boschetto è selvaggio di sottobosco intricato,  
-e i viali ordinati sono sconnessi, ed erba,  
-erba rada e ranuncoli del [[archetypes/king|re]] crescono nei sentieri.  
-Ma mai altrove in un solo luogo conobbi   55  
-tanti usignoli; e lungi e presso,  
-nel bosco e nel folto, per l’ampio boschetto,  
-rispondono e provocano il canto l’uno dell’altro,  
-con scaramucce e capricciosi passaggi,  
-e mormorii musicali e rapidi giug giug,   60  
-e un basso suono di zufolo più dolce di tutti —  
-agitando l’aria con tale armonia  
-che, se chiudessi gli occhi, potresti quasi  
-dimenticare che non è giorno! Su cespugli lunari,  
-le cui fogliette rugiadose sono appena semiaperte.   65  
-Potrai forse scorgerli sui ramoscelli,  
-i loro occhi lucenti, lucenti, occhi lucenti e pieni,  
-scintillanti, mentre più d’una lucciola nell’ombra  
-accende la sua torcia d’[[motifs/love|amore]].  
-Una Fanciulla gentilissima,  
-che dimora nella sua [[motifs/home|casa]] ospitale    70  
-presso il [[settings/castle|castello]], e a tarda sera  
-(proprio come una Dama votata e consacrata  
-a qualcosa più della [[concepts/nature|Natura]] nel boschetto)  
-scivola per i sentieri; conosce tutte le loro note,  
-quella gentile Fanciulla! e spesso, per lo spazio d’un attimo,   75  
-nel [[motifs/time|tempo]] in cui la [[motifs/moon|luna]] si perdeva dietro una nube,  
-ha udito una pausa di [[motifs/silence|silenzio]]; finché la [[motifs/moon|luna]],  
-emergendo, ha destato terra e cielo  
-con una sola sensazione, e quegli [[motifs/birds|uccelli]] desti  
-sono tutti esplosi in corale melodia,   80  
-come se una raffica improvvisa avesse d’un colpo percorso  
-cento arpe aeree! Ed ella ha osservato  
-più d’un [[motifs/nightingale|usignolo]] posarsi vertiginoso  
-su ramoscello fiorito ancora dondolante alla brezza,  
-e accordare a quel moto il suo canto lascivo   85  
-come Gioia brilla che barcolla scuotendo il capo.  
-Addio, o Cantore! fino a domani sera,  
-e voi, amici miei! addio, un breve addio!  
-Abbiamo indugiato a lungo e piacevolmente,  
-e ora alle nostre care case. — Ancora quel canto!   90  
-Ben volentieri mi tratterrebbe! Il mio caro bimbo,  
-che, incapace d’ogni suono articolato,  
-guasta ogni cosa con la sua balbuzie imitativa,  
-come poserebbe la mano accanto all’orecchio,  
-la manina, l’indice piccolo levato,   95  
-e ci direbbe d’ascoltare! E ritengo saggio  
-farne compagno di gioco della [[concepts/nature|Natura]]. Conosce [[motifs/well|bene]]  
-la stella della sera; e una volta, quando si destò  
-in umore angosciosissimo (qualche [[motifs/pain|dolore]] interno  
-aveva composto quella cosa strana, il sogno d’un lattante — )   100  
-mi affrettai con lui al nostro frutteto,  
-ed egli vide la [[motifs/moon|luna]], e, taciuto d’un tratto,  
-sospende i singhiozzi, e ride silenziosissimo,  
-mentre i suoi begli occhi, che nuotavano in [[motifs/tears|lacrime]] non cadute,  
-scintillavano nel giallo raggio di [[motifs/moon|luna]]! [[motifs/well|Ebbene]]! — 105  
-È racconto di padre: ma se il Cielo  
-mi darà vita, la sua [[motifs/childhood|infanzia]] crescerà  
-familiare con questi canti, perché con la [[motifs/night|notte]]  
-possa associare la gioia. — Ancora una volta, addio,  
-dolce [[motifs/nightingale|Usignolo]]! ancora una volta, amici miei! addio.   110  
-1798.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="169_the_visit_of_the_gods_imitated_from_schiller" data-title="THE VISIT OF THE GODS: IMITATED FROM SCHILLER" data-chapter="" data-kind="intro"></span>
 
 
@@ -2001,39 +1112,12 @@ Forbids me to die!
 ? 1799.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mai, credimi,  
-appaiono gli Immortali,  
-mai soli:  
-appena avevo accolto l’Ingannatore del Dolore,  
-Iacco! ed ecco entrare il Fanciullo Cupido il Sorridente;   5  
-ecco! Febo il Glorioso discende dal suo trono!  
-Avanzano, entrano fluttuando, tutti gli Olimpi!  
-Di Divinità si riempie la mia  
-sala terrestre!  
-Come vi renderò   10  
-il dovuto trattamento,  
-coro celeste?  
-Me piuttosto, ospiti lucenti, con le vostre ali che sollevano  
-portate in alto alle vostre case, ai vostri banchetti di letizia,  
-perché i tetti dell’Olimpo echeggino la mia lira!   15  
-Ah! saliamo! sulle loro ali sospingono in alto la mia [[motifs/soul|anima]]!  
-Oh datemi il nettare!  
-Oh riempitemi la coppa!  
-Dategli il nettare!  
-Versa per il poeta,   20  
-Ebe! versa libera!  
-Ravviva i suoi occhi di rugiada celeste,  
-perché non veda più lo Stige detestato,  
-e possa credersi uno di noi Dei!  
-Grazie, Ebe! lo tracanno! Io Peàn, grido!   25  
-Il vino degli Immortali  
-mi vieta di morire!  
-? 1799.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="180_lines_composed_in_a_concert-room" data-title="LINES COMPOSED IN A CONCERT-ROOM" data-chapter="" data-kind="intro"></span>
 
 
@@ -2080,52 +1164,12 @@ Murmur and music thin of sudden breeze.   40
 1799.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Né fredda né severa, o mia [[motifs/soul|anima]]! eppure detesto  
-queste Sale profumate, dove, a una folla vistosa,  
-la Meretrice superba solleva il petto disteso,  
-in intrichi di canto laborioso.  
-Costoro non sentono il genuino potere della Musica, né degnano   5  
-struggersi al lamento gorgheggiato di passione della [[concepts/nature|Natura]];  
-ma quando il canto trillato del cantore dal lungo fiato  
-erompe in uno strillo — restano a bocca aperta di stupore.  
-Ascolta! il cupo ronzio della [[concepts/vanity|Vanità]] e dell’Odio!  
-Sprezzante, eppure invidiosa, con ghigno che tortura [[concepts/self|sé stessa]],   10  
-la mia dama adocchia qualche fanciulla di stato più umile,  
-mentre il Capitano sfacciato, o il Prete più compassato,  
-le ciarla nell’orecchio scandali concordi.  
-Oh datemi, liberato da questa scena senza cuore,  
-d’udire il nostro vecchio Musico, cieco e canuto   15  
-(che, sporgendomi dalle braccia della mia [[characters/nurse|nutrice]], baciai),  
-suonare le sue arie scozzesi e le marce guerriere,  
-al chiaro di luna, nella balsamica [[motifs/night|notte]] d’[[motifs/summer|estate]],  
-mentre io [[motifs/dance|danzo]] fra il fieno sparso  
-con fanciulle allegre, i cui riccioli si scuotono nella luce.   20  
-O giace la sera purpurea sulla baia  
-del lago calmo e lucido, oh lasciate ch’io mi nasconda  
-non udito, non visto, dietro gli ontani,  
-ché intorno alle loro radici è legata la barca del pescatore,  
-sul cui sedile lindo [[characters/edmund|Edmondo]] si distende a suo agio,   25  
-e mentre la barca pigra ondeggia qua e là,  
-spira nel suo flauto arie tristi, così selvagge e lente,  
-che la sua stessa guancia è bagnata di quiete [[motifs/tears|lacrime]].  
-Ma oh, cara Anna! quando il [[motifs/wind|vento]] di mezzanotte corre,  
-e la raffica battendo sulla tettoia della casa esterna   30  
-fa che il gallo canti stridulo nel temporale,  
-udirti cantare qualche ballata piena d’affanno,  
-ballata del marinaio naufragato dalla [[motifs/ship|nave]], che galleggia morto,  
-che il suo stesso vero [[motifs/love|amore]] seppellì nelle sabbie!  
-Te, gentile donna, ché la tua voce rimisura   35  
-quali che siano i toni e i piaceri [[concepts/melancholy|malinconici]]  
-che le cose della [[concepts/nature|Natura]] emettono; [[motifs/birds|uccelli]] o alberi,  
-o gemito di burrasca oceanica in caverne d’alghe,  
-o dove l’erba rigida ondeggia fra l’erica,  
-mormorio e musica sottile di brezza improvvisa.   40  
-1799.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="183_hymn_to_the_earth" data-title="HYMN TO THE EARTH" data-chapter="" data-kind="intro"></span>
 
 
@@ -2185,65 +1229,12 @@ Wandered bleating in valleys, and warbled on blossoming branches.
 1799.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-IMITATO DALL’HYMNE AN DIE ERDE DI STOLBERG  
-ESAMETRI  
-Terra! tu madre d’innumerevoli figli, la [[characters/nurse|nutrice]] e la  
-madre,  
-Salve! o Dea, tre volte salve! Sii benedetta! e, benedicendo, [[forms/hymn|inneggio]]  
-a te!  
-Fuori, o dolci suoni, dalla mia arpa, e la mia voce fluttuerà sulle  
-vostre onde —  
-Librati in alto, o mia [[motifs/soul|anima]]! e reggi il mio canto sulle tue ali.  
-Percorrendo la valle con gli occhi — verdi prati e lago con  
-verde isola,   5  
-scuro nel suo bacino di roccia, e il nudo torrente che scorre in  
-chiarore,  
-fremente della tua [[concepts/beauty|bellezza]] e del tuo [[motifs/love|amore]] sul pendio boscoso del  
-monte,  
-qui, [[archetypes/great-mother|gran madre]], io giaccio, tuo [[archetypes/child|figlio]], col capo sul tuo seno!  
-Giocosi gli spiriti del [[motifs/noon|meriggio]], che correndo molli fra le tue chiome,  
-dea dai capelli verdi, mi ristorano; e ascolta! mentre s’affrettano o  
-indugiano,     10  
-riempiono la pausa della mia arpa, o la sostengono con mormorii musicali.  
-Nel mio essere tu mormori gioia, e tenerissima tristezza  
-spargi, come rugiada, sul mio cuore, finché la gioia e la  
-celeste tristezza  
-si effondono dal mio cuore in [[motifs/tears|lacrime]], e nell’[[forms/hymn|inno]] di  
-ringraziamento.  
-Terra! tu madre d’innumerevoli figli, la [[characters/nurse|nutrice]] e la  
-madre,     15  
-sorella tu delle [[motifs/stars|stelle]], e amata dal Sole, colui che rallegra!  
-Custode e amica della [[motifs/moon|luna]], o Terra, che le comete non scordano  
-mai,  
-sì, nella distanza incommensurabile [[motifs/wheel|girano]] intorno e di nuovo ti  
-vedono!  
-Inappassibile e giovane (e che importa se ultima nata del creato?)  
-sposa e consorte del Cielo, che ti guarda dall’alto innamorato!   20  
-Dimmi, misteriosa Terra! oh dimmi, [[archetypes/great-mother|gran madre]] e dea,  
-non fu [[motifs/well|bene]] per te allora, quando primamente il tuo grembo fu discinto,  
-il tuo grembo al Cielo generatore, il giorno che ti corteggiò e ti  
-conquistò!  
-Bello fu il tuo rossore, il più bello e il primo dei rossori del  
-mattino!  
-Profondo fu il brivido, o Terra! lo spasimo del tuo trattenere [[concepts/self|te stessa]]:   25  
-dentro ti sforzavi di fuggire, e cercavi te stessa nel tuo centro!  
-Ben più possente fu la gioia del tuo subitaneo rimbalzo; e subito  
-miriadi di miriadi di vite pullularono da quel possente abbraccio.  
-Tribù mille volte molteplici d’abitatori, spinte da mille volte molteplici  
-istinti,  
-riempirono, come un sogno, le larghe acque; i fiumi cantarono nei loro  
-alvei;   30  
-risero sulle loro rive i mari rauchi; l’oceano anelante  
-si gonfiò verso l’alto;  
-giovane vita muggì per i prati, i boschi e le echeggianti  
-[[settings/mountains|montagne]],  
-vagò belando nelle valli, e gorgheggiò su rami in fiore.  
-1799.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="201_ode_to_tranquillity" data-title="ODE TO TRANQUILLITY" data-chapter="" data-kind="intro"></span>
 
 
@@ -2283,45 +1274,12 @@ Too foolish for a tear, too wicked for a smile!
 1801.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Tranquillità! tu nome migliore  
-di tutta la famiglia della Fama!  
-Tu non lascerai mai la mia età matura  
-al basso intrigo, o alla rabbia fazionaria;  
-ché oh! cara [[archetypes/child|figlia]] della pensosa [[concepts/truth|Verità]],   5  
-a te diedi la mia prima giovinezza,  
-e lasciai la barca, e benedissi la riva salda,  
-prima che la tempesta [[motifs/rose|sorgesse]] e mi atterrisse col suo ruggito.  
-Chi tardi e indugiando cerca il tuo santuario,  
-su lui di rado, Potenza divina,  
-10  
-posa il tuo spirito! La Sazietà  
-e l’Accidia, povere contraffazioni di te,  
-beffano il mondano stanco. L’oziosa [[concepts/hope|Speranza]]  
-e la funesta Rimembranza s’intromettono,  
-a turbare i sonni febbrili della mente:   15  
-la bolla fluttua davanti, lo spettro incalza dietro.  
-Ma me la tua mano gentile guiderà  
-al mattino per il prato consueto;  
-e nel calore afoso dell’[[motifs/summer|estate]]  
-mi costruirà un sedile muscoso;   20  
-e quando la raffica d’[[motifs/autumn|Autunno]] si accalca,  
-e rompe le nubi indaffarate al chiaro di luna,  
-tu meglio d’ogni altra sai levare il pensiero, accordare il cuore,  
-lieve come le nubi indaffarate, calma come la [[motifs/moon|luna]] che scivola.  
-Il cuore che sente, l’[[motifs/soul|anima]] che cerca,   25  
-a te dedico tutto quanto!  
-E mentre dentro di me traccio  
-la [[concepts/greatness|grandezza]] di qualche stirpe futura,  
-in disparte con occhio d’eremita scruto  
-le opere presenti dell’uomo presente — 30  
-un traffico selvaggio e simile a sogno di [[motifs/blood|sangue]] e d’inganno,  
-troppo folle per una lacrima, troppo empio per un sorriso!  
-1801.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="205_dejection_an_ode" data-title="DEJECTION: AN ODE" data-chapter="" data-kind="intro"></span>
 
 
@@ -2481,165 +1439,12 @@ Thus mayest thou ever, evermore rejoice.
 1802.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-[SCRITTA IL 4 APRILE 1802]  
-Tardi, tardi ier sera vidi la [[motifs/moon|Luna]] nuova,  
-con la vecchia [[motifs/moon|Luna]] fra le braccia;  
-e [[concepts/fear|temo]], [[concepts/fear|temo]], mio caro Padrone,  
-che avremo una [[motifs/storm|tempesta]] mortale.  
-Ballata di Sir Patrick Spence.  
-I  
-[[motifs/well|Ebbene]]! Se fu esperto del tempo il Bardo che fece  
-la grande vecchia ballata di Sir Patrick Spence,  
-questa [[motifs/night|notte]], ora sì tranquilla, non se n’andrà  
-non destata da venti che esercitano un mestiere più affaccendato  
-di quelli che modellano lassù la nube in pigri fiocchi,   5  
-o della sorda corrente singhiozzante, che geme e raschia  
-sulle corde di questo liuto eolio,  
-che assai meglio sarebbe muto.  
-Ché ecco! la [[motifs/moon|Luna]] Nuova lucente d’[[motifs/winter|inverno]]!  
-e coperta di luce [[characters/phantom|fantasma]],   10  
-(di luce [[characters/phantom|fantasma]] fluttuante coperta,  
-ma orlata e cerchiata da un filo d’argento)  
-vedo la vecchia [[motifs/moon|Luna]] nel suo grembo, che predice  
-il sopraggiungere di pioggia e di raffiche di burrasca.  
-E oh! se anche ora la raffica si gonfiasse,   15  
-e l’obliquo acquazzone della [[motifs/night|notte]] battesse forte e rapido!  
-Quei suoni che spesso mi han sollevato, pur incutendomi soggezione,  
-e mandato fuori la mia [[motifs/soul|anima]],  
-potrebbero ora forse dare il loro impulso consueto,  
-potrebbero scuotere questo sordo [[motifs/pain|dolore]], e farlo muovere e vivere!   20  
-II  
-Un dolore senza fitta, vuoto, buio e tetro,  
-un dolore soffocato, sonnolento, senza passione,  
-che non trova sfogo naturale, né sollievo,  
-in parola, o sospiro, o lacrima —  
-o Signora! in questo umore smorto e senza cuore,   25  
-attratto ad altri pensieri da quel tordo laggiù,  
-per tutta questa lunga sera, così balsamica e serena,  
-sono stato a contemplare il cielo d’occidente,  
-e la sua tinta singolare di verde giallo:  
-e ancora contemplo — e con occhio quanto vuoto!   30  
-E quelle nubi sottili lassù, in fiocchi e sbarre,  
-che cedono il loro moto alle [[motifs/stars|stelle]];  
-quelle [[motifs/stars|stelle]], che scivolano dietro di esse o fra esse,  
-ora scintillanti, ora offuscate, ma sempre viste:  
-quella [[motifs/moon|Luna]] crescente, ferma come se crescesse   35  
-nel suo lago d’azzurro senza nubi e senza stelle;  
-li vedo tutti così eccellentemente belli,  
-vedo, non sento, quanto siano belli!  
-III  
-I miei spiriti vitali vengon meno;  
-e che possono giovare questi   40  
-a sollevare il peso soffocante dal mio petto?  
-Sarebbe vano sforzo,  
-anche se contemplassi in eterno  
-quella luce verde che indugia a occidente:  
-non posso [[concepts/hope|sperare]] di conquistare da forme esterne   45  
-la passione e la Vita, le cui fonti sono dentro.  
-IV  
-O Signora! non riceviamo che ciò che diamo,  
-e nella nostra vita soltanto vive la [[concepts/nature|Natura]]:  
-nostra è la sua veste nuziale, nostro il suo sudario!  
-E se vogliamo vedere qualcosa di più alto pregio   50  
-di quel mondo freddo e inanimato concesso  
-alla povera folla senza amore e sempre ansiosa,  
-ah! dalla [[motifs/soul|anima]] stessa deve uscire  
-una luce, una gloria, una bella nube luminosa  
-che avvolga la Terra —  55  
-e dalla [[motifs/soul|anima]] stessa dev’essere mandata  
-una voce dolce e possente, di sua propria nascita,  
-d’ogni dolce suono la vita e l’elemento!  
-V  
-O pura di cuore! non hai bisogno di chiedermi  
-che sia questa forte musica nell’[[motifs/soul|anima]]!   60  
-che cosa sia, e in che consista,  
-questa luce, questa gloria, questa bella nebbia luminosa,  
-questo potere bello e creatore di [[concepts/beauty|bellezza]].  
-La Gioia, virtuosa Signora! La Gioia che mai fu data,  
-se non ai puri, e nella loro ora più pura,   65  
-Vita, ed effluvio della Vita, insieme nube e acquazzone,  
-la Gioia, Signora, è lo spirito e la potenza  
-che, sposando a noi la [[concepts/nature|Natura]], ci dà in dote  
-una Terra nuova e un Cielo nuovo,  
-non sognati dal sensuale e dal superbo — 70  
-la Gioia è la dolce voce, la Gioia la nube luminosa —  
-noi in noi stessi gioiamo!  
-E di là fluisce tutto ciò che incanta l’orecchio o la vista,  
-tutte le melodie echi di quella voce,  
-tutti i colori un diffondersi di quella luce.   75  
-VI  
-Ci fu un [[motifs/time|tempo]] in cui, benché il mio sentiero fosse aspro,  
-questa gioia dentro me scherzava con l’angoscia,  
-e tutte le sventure erano solo come la materia  
-onde la Fantasia mi faceva [[motifs/dreams|sogni]] di felicità:  
-ché la [[concepts/hope|speranza]] cresceva intorno a me, come vite avvinghiante,   80  
-e frutti, e fogliame, non miei, parevano miei.  
-Ma ora le afflizioni mi piegano a terra:  
-né mi curo che mi rubino l’allegria;  
-ma oh! ogni visita  
-sospende ciò che la [[concepts/nature|natura]] mi diede alla nascita,   85  
-il mio spirito plasmatore d’[[concepts/imagination|Immaginazione]].  
-Ché non pensare a ciò che per forza devo sentire,  
-ma essere quieto e paziente, quanto posso;  
-e forse con astrusa ricerca sottrarre  
-alla mia stessa [[concepts/nature|natura]] tutto l’uomo naturale — 90  
-questa fu la mia sola risorsa, il mio unico piano:  
-finché ciò che si addice a una parte infetta il tutto,  
-ed è ormai quasi divenuto l’abito della mia [[motifs/soul|anima]].  
-VII  
-Via, pensieri vipera, che v’attorcigliate intorno alla mia mente,  
-oscuro sogno della Realtà!   95  
-Mi volgo da voi, e ascolto il [[motifs/wind|vento]],  
-che a lungo ha infuriato inosservato. Che urlo  
-d’agonia prolungato dalla tortura  
-mandò quel liuto! Tu [[motifs/wind|Vento]], che infuri là fuori,  
-nuda rupe, o laghetto montano, o albero folgorato,   100  
-o pineta dove boscaiolo mai salì,  
-o casa solitaria, a lungo ritenuta [[motifs/home|dimora]] delle streghe,  
-mi paiono strumenti più acconci per te,  
-folle Liutista! che in questo mese d’acquazzoni,  
-di giardini bruno-scuri, e di [[motifs/flowers|fiori]] che occhieggiano,   105  
-fai il Natale dei Diavoli, con canto peggiore che invernale,  
-fra i fiori, le gemme e le timorose [[motifs/leaves|foglie]].  
-Tu Attore, perfetto in ogni suono tragico!  
-tu Poeta possente, ardito fino alla frenesia!  
-Di che narri ora?   110  
-È dell’irrompere d’un esercito in rotta,  
-con gemiti, d’uomini calpestati, con ferite brucianti —  
-insieme gemono di [[motifs/pain|dolore]], e rabbrividiscono di freddo!  
-Ma zitto! v’è una pausa di [[motifs/silence|silenzio]] profondissimo!  
-E tutto quel rumore, come di folla che irrompe,   115  
-con gemiti e tremuli brividi — tutto è finito —  
-narra un altro racconto, con suoni meno cupi e sonori!  
-Un racconto di minor spavento,  
-e temperato di diletto,  
-come se Otway [[concepts/self|stesso]] avesse composto il tenero canto, — 120  
-è d’una piccola [[archetypes/child|bambina]]  
-su una landa solitaria,  
-non lungi da [[motifs/home|casa]], ma ha smarrito la via:  
-e ora geme sommessa in amaro dolore e [[concepts/fear|paura]],  
-e ora grida forte, e spera di farsi udire dalla madre.  
-VIII  
-È mezzanotte, ma poco penso al [[motifs/sleep|sonno]]:   126  
-di rado assai possa la mia amica tenere tali veglie!  
-Visitala, gentile [[motifs/sleep|Sonno]], con ali di guarigione,  
-e sia questa [[motifs/storm|tempesta]] solo un parto di montagna,  
-pendano tutte le [[motifs/stars|stelle]] lucenti sopra la sua dimora,   130  
-silenziose come se vegliassero la Terra dormiente!  
-Con cuore leggero possa levarsi,  
-gaia fantasia, occhi allegri,  
-la gioia le sollevi lo spirito, la gioia le accordi la voce;  
-per lei viva ogni cosa, da polo a polo,   135  
-la loro vita il vorticare della sua [[motifs/soul|anima]] viva!  
-O spirito semplice, guidato dall’alto,  
-cara Signora! amica più devota della mia scelta,  
-così possa tu sempre, sempre più gioire.  
-1802.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="209_hymn_before_sun-rise_in_the_vale_of_chamouni" data-title="HYMN BEFORE SUN-RISE, IN THE VALE OF CHAMOUNI" data-chapter="" data-kind="intro"></span>
 
 
@@ -2749,115 +1554,12 @@ Earth, with her thousand voices, praises GOD.   85
 1802.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Oltre ai Fiumi Arve e Arveiron, che hanno le loro sorgenti ai  
-piedi del Monte Bianco, cinque cospicui torrenti precipitano dai suoi fianchi; e  
-a pochi passi dai Ghiacciai la Gentiana Major cresce in immense  
-quantità, coi suoi ‘[[motifs/flowers|fiori]] del più amabile [liveliest Friend, 1809]  
-azzurro’.  
-Hai tu un incanto per arrestare la stella del mattino  
-nel suo corso ripido? Tanto a lungo sembra sostare  
-sul tuo calvo tremendo capo, o sovrano BIANCO,  
-l’Arve e l’Arveiron alla tua base  
-infuriano senza posa; ma tu, Forma tremendissima,   5  
-sorgi fuori dal tuo silenzioso mare di pini,  
-quanto silenziosamente! Intorno a te e sopra  
-profonda è l’aria e scura, sostanziale, nera,  
-massa d’ebano: mi pare che tu la trafigga,  
-come con un cuneo! Ma quando guardo di nuovo,   10  
-è la tua stessa calma [[motifs/home|dimora]], il tuo santuario di cristallo,  
-la tua abitazione dall’[[concepts/eternity|eternità]]!  
-O Monte tremendo e silente! ti contemplai,  
-finché tu, ancora presente al senso corporeo,  
-svanisti dal mio pensiero: rapito in [[motifs/prayer|preghiera]]   15  
-adorai l’Invisibile soltanto.  
-Pure, come dolce melodia che seduce,  
-sì dolce che non sappiamo di starla ascoltando,  
-tu, frattanto, ti fondevi col mio Pensiero,  
-sì, con la mia Vita e con la segreta gioia della Vita:   20  
-finché l’[[motifs/soul|Anima]] dilatante, rapita, trasfusa,  
-passando nella possente visione — là  
-come nella sua forma naturale, si gonfiò vasta fino al Cielo!  
-Destati, mia [[motifs/soul|anima]]! non solo passiva lode  
-tu devi! non soltanto queste [[motifs/tears|lacrime]] gonfie,   25  
-muti ringraziamenti ed estasi segreta! Destati,  
-voce di dolce canto! Destati, cuore mio, destati!  
-Verdi valli e rupi gelate, unitevi tutte al mio [[forms/hymn|Inno]].  
-Tu primo e sommo, unico sovrano della Valle!  
-o tu che lotti con le tenebre tutta la [[motifs/night|notte]],   30  
-e tutta la [[motifs/night|notte]] visitato da schiere di [[motifs/stars|stelle]],  
-sia quando salgono il cielo sia quando tramontano:  
-compagno della stella del mattino all’[[motifs/dawn|alba]],  
-tu stesso rosea stella della Terra, e dell’[[motifs/dawn|alba]]  
-araldo insieme: destati, oh destati, ed effondi lode!   35  
-Chi affondò i tuoi pilastri senza sole nel profondo della Terra?  
-Chi riempì il tuo volto di luce rosata?  
-Chi ti fece genitore di perpetui torrenti?  
-E voi, cinque torrenti selvaggi ferocemente lieti!  
-chi vi chiamò fuori dalla [[motifs/night|notte]] e dalla [[motifs/death|morte]] assoluta,   40  
-da caverne buie e gelate vi chiamò fuori,  
-giù per quelle rocce precipiti, nere, frastagliate,  
-per sempre infrante e per sempre le stesse?  
-Chi vi diede la vostra vita invulnerabile,  
-la vostra forza, la vostra [[characters/speed|velocità]], la vostra furia e la vostra gioia,   45  
-tuono incessante e schiuma eterna?  
-E chi comandò (e venne il [[motifs/silence|silenzio]]):  
-qui s’irrigidiscano i flutti, e abbiano riposo?  
-O Cascate di Ghiaccio! voi che dalla fronte del monte  
-giù per enormi burroni v’inclinate a precipizio — 50  
-torrenti, mi pare, che udirono una voce possente,  
-e s’arrestarono d’un tratto nel loro tuffo più folle!  
-Torrenti immoti! cateratte silenti!  
-Chi vi fece gloriose come le Porte del Cielo  
-sotto la [[motifs/moon|luna]] piena e tagliente? Chi ordinò al sole   55  
-di vestirvi d’arcobaleni? Chi, con [[motifs/flowers|fiori]] viventi  
-del più amabile azzurro, stese ghirlande ai vostri piedi? —  
-DIO!  
-che  
-i  
-torrenti, come  
-un  
-grido  
-di  
-nazioni,  
-rispondano! e le pianure di ghiaccio echeggino: DIO!  
-DIO!  
-cantate  
-voi  
-ruscelli dei prati  
-con  
-lieta  
-voce!    60  
-O pinete, coi vostri suoni molli e simili ad [[motifs/soul|anima]]!  
-E anch’essi hanno voce, quei cumuli di [[motifs/snow|neve]],  
-e nella loro caduta perigliosa tuoneranno: DIO!  
-O [[motifs/flowers|fiori]] viventi che orlate il [[motifs/frost|gelo]] eterno!  
-o capre selvatiche che folleggiate intorno al nido dell’aquila!   65  
-o aquile, compagne di gioco della [[motifs/storm|tempesta]] montana!  
-o folgori, tremende saette delle nubi!  
-o segni e prodigi dell’elemento!  
-Proclamate Dio, e riempite i colli di lode!  
-Anche tu, Monte canuto! con le tue vette che additano il cielo,  
-dai cui piedi spesso la valanga, non udita,   71  
-si scaglia in basso, scintillando per il puro sereno  
-nella profondità delle nubi, che ti velano il petto —  
-anche tu di nuovo, stupenda Montagna! tu  
-che, mentre alzo il capo, per un poco chinato   75  
-in adorazione, in su dalla tua base  
-viaggiando lento con occhi appannati e soffusi di [[motifs/tears|lacrime]],  
-solennemente sembri, come nube di vapore,  
-sorgere davanti a me — Sorgi, oh sorgi sempre,  
-sorgi come nube d’incenso dalla Terra!   80  
-Tu Spirito regale intronizzato fra i colli,  
-tu tremendo ambasciatore dalla Terra al Cielo,  
-Grande Gerarca! di’ tu al cielo silente,  
-e di’ alle [[motifs/stars|stelle]], e di’ a quel sole che sorge,  
-che la Terra, con le sue mille voci, loda DIO.   85  
-1802.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="212_inscription_for_a_fountain_on_a_heath" data-title="INSCRIPTION FOR A FOUNTAIN ON A HEATH" data-chapter="" data-kind="intro"></span>
 
 
@@ -2883,31 +1585,12 @@ Or passing gale or hum of murmuring [[motifs/bees|bees]]!
 1802.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Questo Sicomoro, spesso musicale d’[[motifs/bees|api]], —  
-tende come questa amarono i Patriarchi! Oh a lungo illesi  
-possano tutti i suoi rami annosi far volta  
-sul piccolo bacino rotondo, che questa pietra sporgente  
-mantiene puro dalle [[motifs/leaves|foglie]] che cadono! A lungo possa la [[motifs/spring|Sorgente]],   5  
-quieta come il respiro d’un bimbo che dorme,  
-mandare in alto acque fredde al viandante  
-con polso molle ed eguale! Né mai cessi  
-quel minuscolo cono di sabbia la sua [[motifs/dance|danza]] senza suono,  
-che sul [[characters/bottom|fondo]], come il Paggio d’una Fata,   10  
-altrettanto allegro e non più alto, danza sempre,  
-né increspa la liscia superficie della Fonte.  
-Qui è Crepuscolo e Frescura: qui è muschio,  
-un molle sedile, e un’ombra profonda e ampia.  
-Puoi faticare lontano e non trovare un secondo albero.   15  
-Bevi, [[archetypes/pilgrim|Pellegrino]], qui; qui riposa! e se il tuo cuore  
-è [[archetypes/innocent|innocente]], anche qui ristorerai  
-il tuo spirito, ascoltando qualche suono gentile,  
-o brezza che passa o ronzio d’[[motifs/bees|api]] mormoranti!  
-1802.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="257_to_nature" data-title="TO NATURE" data-chapter="" data-kind="intro"></span>
 
 
@@ -2928,26 +1611,12 @@ Even me, the priest of this poor sacrifice.
 ? 1820.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Può ben essere fantasia, quando io  
-[[forms/essay|tento]] di trarre da tutte le cose create  
-una gioia profonda, sentita, interiore che stretta s’aggrappa;  
-e di tracciare in [[motifs/leaves|foglie]] e [[motifs/flowers|fiori]] che intorno a me giacciono  
-lezioni d’[[motifs/love|amore]] e di pietà sincera.   5  
-Sia pure così; e se il vasto mondo risuona  
-in scherno di questa fede, ciò non mi reca  
-né [[concepts/fear|paura]], né dolore, né vana perplessità.  
-Così costruirò il mio altare nei campi,  
-e il cielo azzurro sarà la mia volta intagliata,   10  
-e la dolce fragranza che il fiore selvatico rende  
-sarà l’incenso che io renderò a Te,  
-Te solo Dio! e tu non disprezzerai  
-neppure me, sacerdote di questo povero sacrificio.  
-? 1820.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="265_the_reproof_and_reply" data-title="THE REPROOF AND REPLY" data-chapter="" data-kind="intro"></span>
 
 
@@ -3022,80 +1691,12 @@ The Eighth Commandment was not made for Bards!’”
 1823.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ovvero, l’Apologia del Ladro di Fiori, per un furto commesso nel [[motifs/garden|giardino]]  
-dei signori — —, la mattina di [[characters/sunday|domenica]] 25 maggio 1823, fra le ore  
-undici e dodici.  
-“Vergogna, signor Coleridge! — e siete proprio voi?  
-Infrangere due comandamenti? e per giunta nell’[[motifs/time|ora]] della messa!  
-Non avete udito, o avete udito invano,  
-il canto che registra nascita e parentela? —  
-confessioni stridule, che stridendo coprono i venditori di sgombri,   5  
-fresche dal patibolo — il giovane non ancora calato —  
-lettera all’innamorata — l’ultimo discorso del morente —  
-e tutto ciò non cominciò con la violazione del Sabato?  
-Voi, che ne sapevate di più! In pieno giorno,  
-entrare furtivo, uscire furtivo, e rubarci via i [[motifs/flowers|fiori]]?   10  
-Che vi ha preso? Ah! dolce giovane. [[concepts/fear|Temo]]  
-che il tizio con le corna e la coda vi fosse all’orecchio!”  
-Tali suoni di recente la fantasia accusatrice portò  
-dalla bella Chisholm al pensiero del Poeta.  
-Or udite la risposta del mite giovane parnasiano: — 15  
-un inchino — uno sguardo supplice — un occhio chino, —  
-e poi:  
-“Bella dama! un tipo visionario,  
-presso la vostra villa bianca e scintillante sul [[motifs/hill|colle]],  
-coi pensieri tutti librati intorno alla [[motifs/home|casa]] delle Muse,  
-da tempo è usanza del vostro Poeta vagare,  
-20  
-e più d’un mattino, sul suo senso incantato  
-sgorgava di là un fiume di musica sì ricco,  
-che si credette, mentre scorreva gorgheggiando,  
-presso la fonte canora dell’Elicona!  
-Ma quando, come a decidere la faccenda,   25  
-vide anche una Ninfa, in più d’un giro,  
-guidare il dolce rivo dalla sua urna sorgiva, —  
-dite, potete biasimare? — No! nessuno che vide e udì  
-potrebbe biasimare un bardo, se dentro così si commosse;  
-scorgendo una musa in ogni tratto fervente,   30  
-prese Mary H —— per Polinnia!  
-O forse, poiché accanto alla fanciulla stava  
-una forma più alta, vestita di stola nera,  
-se con pensiero pieno di rimpianto salutò in te,  
-Chisholm, la sua amica da tempo perduta, Melpomene!   35  
-Ma soprattutto di voi, molli gorgheggi, mi lagno!  
-Foste voi che dall’alveare del mio cervello  
-attiraste fuori le fantasie, una brigata bizzarra,  
-e [[characters/witch|stregaste]] l’aria con [[motifs/dreams|sogni]] rivoltati come guanti.  
-“Così tutto congiurò — ogni potere d’occhio e d’orecchio,   40  
-e questo mese gaio, l’incantatrice dell’anno,  
-a ingannare me poveretto (nessun mago, lo sa Dio!)  
-e Chisholm [[concepts/self|stessa]] complice nel complotto.  
-Potete dunque [[concepts/wonder|meravigliarvi]] se andai fuori strada?  
-Non i bardi soltanto, né gli innamorati folli quanto loro; — 45  
-tutta la [[concepts/nature|Natura]] [[motifs/dreams|sogna]] a occhi aperti nel mese di maggio.  
-E se colsi ‘ogni fiore che più dolce sboccia’, —  
-chi cammina nel [[motifs/sleep|sonno]] deve per forza seguire il naso.  
-“Così, avvezzo da tempo sul [[motifs/hill|colle]] bifido  
-a cogliere fiore e fiorellino a mio talento;   50  
-calco il labirinto del [[motifs/garden|giardino]] come terra di nessuno,  
-senza né legge comune né statuto in testa;  
-ché il mio proprio odorato, vista, fantasia, sentire,  
-con mano autocratica abrogano d’un colpo  
-cinque Atti del Parlamento contro il furto privato!   55  
-Eppure chi dispera di grazia da Chisholm?  
-Non c’è schioppo a [[motifs/spring|molla]] né tagliola in quel volto!  
-Guardi pure Mosè nero in viso, e [[characters/aaron|Aronne]] livido,  
-che sembrano non avere altro da fare:  
-ché Chisholm dice: ‘Povero giovane! non è che un randagio!   60  
-I cucchiai son tutti a posto? la gallina e i pulcini salvi?  
-[[motifs/well|Bene]], [[motifs/well|bene]], non perderà la nostra stima —  
-l’Ottavo Comandamento non fu fatto per i Bardi!’”  
-1823.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="268_work_without_hope" data-title="WORK WITHOUT HOPE" data-chapter="" data-kind="intro"></span>
 
 
@@ -3117,27 +1718,12 @@ And [[concepts/hope|Hope]] without an object cannot live.
 1825.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-VERSI COMPOSTI IL 21 FEBBRAIO 1825  
-Tutta la [[concepts/nature|Natura]] sembra all’opera. Le lumache lasciano la tana —  
-le [[motifs/bees|api]] si muovono — gli [[motifs/birds|uccelli]] sono in volo —  
-e l’[[motifs/winter|Inverno]] che sonnecchia all’aria aperta  
-porta sul volto sorridente un sogno di [[motifs/spring|Primavera]]!  
-E io frattanto, l’unica cosa non affaccendata,   5  
-non faccio miele, né m’accoppio, né costruisco, né canto.  
-Pure [[motifs/well|bene]] conosco le rive dove sbocciano gli amaranti,  
-ho seguito la fonte donde sgorgano ruscelli di nettare.  
-Sbocciate, o amaranti! sbocciate per chi vi pare,  
-per me non sbocciate! Scivolate via, ricchi ruscelli!   10  
-Con labbra non ravvivate, fronte senza ghirlanda, passeggio:  
-e volete sapere gl’incanti che assopiscono la mia [[motifs/soul|anima]]?  
-Il Lavoro senza [[concepts/hope|Speranza]] attinge nettare con un vaglio,  
-e la [[concepts/hope|Speranza]] senza un oggetto non può vivere.  
-1825.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="286_the_garden_of_boccaccio" data-title="THE GARDEN OF BOCCACCIO" data-chapter="" data-kind="intro"></span>
 
 
@@ -3253,121 +1839,12 @@ With that sly satyr peeping through the [[motifs/leaves|leaves]]!
 1828.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Or non è molto, in una di quelle ore stanchissime,  
-quando la vita par vuota d’ogni potere vitale,  
-umore tetro, che chi mai non l’ha conosciuto  
-benedica la sua sorte felice, sedevo solo;  
-e, per trarre sollievo da quell’incanto che intorpidisce,   5  
-chiamai il Passato per un pensiero di gioia o di pena.  
-Invano! privo del pari di pena e di gioia,  
-sedevo rannicchiato sul mio proprio vuoto!  
-E mentre osservavo il sordo dolore continuo,  
-che, dormendo tutto il resto, pareva solo a vegliare;   10  
-o Amica! da tempo usa ad accorgerti eppure a celare,  
-e a lenire col [[motifs/silence|silenzio]] ciò che le parole non guariscono,  
-vidi solo a metà quella tua mano quieta  
-posare sul mio scrittoio questo disegno squisito.  
-Il [[motifs/garden|Giardino]] del Boccaccio e la sua magia,   15  
-l’[[motifs/love|amore]], la letizia e la galanteria!  
-Un Idillio, caldo dello spirito del Boccaccio,  
-incorniciato nella silenziosa poesia della forma.  
-Come greggi giù per un’erta appena bagnata  
-che emergono da una nebbia: o come un fiume   20  
-di musica molle che non dissipa il [[motifs/sleep|sonno]],  
-ma getta in stampi più felici il sogno di chi dorme,  
-sfiorato da un occhio ozioso, con silenziosa potenza  
-il quadro s’insinuò nella mia vista interiore.  
-Un tepore tremulo strisciò a poco a poco sul mio petto,   25  
-come se il dito d’un bimbo mi toccasse il seno.  
-E a uno a uno (non so donde) furono recati  
-tutti gli spiriti di potenza che più avevano mosso il mio pensiero  
-nella fanciullezza senza io, sbalzata in un mondo nuovo  
-di [[concepts/wonder|meraviglia]], e persa nelle proprie fantasie;   30  
-o che incantarono la mia giovinezza, che, accesa dall’alto,  
-amò prima d’amare, e cercò una forma per l’[[motifs/love|amore]];  
-o prestarono lustro allo scrutare serio  
-della virilità, che medita che cosa e donde sia l’uomo!  
-Canto selvaggio degli Scaldi, che nelle caverne rose dal mare   35  
-ripetevano il loro incanto di guerra ai venti e alle onde;  
-o [[forms/hymn|inno]] fatale di quelle vergini profetiche,  
-che invocavano Hertha nelle radure profonde della foresta;  
-o lai di menestrello, che rallegrava il banchetto del barone;  
-o rima di pompa di [[motifs/city|città]], di monaco e prete,   40  
-giudice, sindaco, e molte corporazioni in lunga schiera,  
-che sfilano alla cattedrale nel giorno del gran santo:  
-e più d’un verso che cantavo a me stesso,  
-che destava la lacrima, eppure rubava via la fitta  
-di speranze, che lamentandole rinnovavo:   45  
-E infine, ora matrona, di contegno sobrio,  
-pure ancora raggiante e di splendore non terreno,  
-che come [[archetypes/child|fanciulla]] fatata la mia [[motifs/childhood|infanzia]] corteggiò  
-fin dall’[[motifs/dawn|alba]] del mio pensiero — la Filosofia;  
-benché allora inconsapevole di sé, perdio,   50  
-non portava altro nome che Poesia;  
-e, come dono dal cielo, in gioia piena di vita,  
-appena lasciato il ginocchio d’una madre,  
-ciarlava e giocava con uccello e fiore e pietra,  
-come con compagni elfici [[motifs/well|ben]] noti,   55  
-e la vita rivelata all’innocenza soltanto.  
-Grazie, gentile [[archetypes/artist|artista]]! ora posso discernere  
-la tua bella creazione con occhio padrone,  
-e tutto desto! E ora sto in sguardo fisso,  
-ora vago per l’Eden della tua mano;   60  
-lodo le verdi arcate, sulla fontana chiara  
-vedo ombre a [[forms/fragment|frammenti]] dei cervi che passano;  
-e con quella ninfa servizievole mi chino  
-ad attingere il cristallo dalla sua pozza inquieta.  
-Non vedo più! io stesso sono là,    65  
-seggo sull’erba del suolo, e divido il banchetto.  
-Sono io che sfioro le corde di quel liuto che echeggia d’[[motifs/love|amore]],  
-e contemplo la fanciulla che, contemplando, canta:  
-o mi fermo ad ascoltare le [[motifs/bells|campane]] tintinnanti  
-dall’alta torre, e penso che là ella dimora.  
-Dell’[[motifs/soul|anima]] del vecchio Boccaccio mi sento posseduto,   71  
-e respiro un’aria simile a vita, che mi gonfia il petto.  
-Fulgore del mondo, o tu un tempo libera,  
-e sempre bella, rara terra di cortesia!  
-O Firenze! coi campi e i colli toscani   75  
-e il famoso Arno, nutrito di tutti i loro rivi;  
-tu stella più lucente della lucente d’astri [[settings/italy|Italia]]!  
-Ricca, ornata, popolosa, — tuoi tutti i tesori,  
-il grano d’oro, l’olivo e la vite.  
-Belle città, ville gagliarde, castelli antichi,   80  
-e foreste, dove accanto al suo covo frondoso  
-il cinghiale arcigno ha udito il corno lontano,  
-e affila le zanne contro il pruno nodoso;  
-palazzo palladiano con le sue sale istoriate;  
-fontane, dove l’[[motifs/love|Amore]] giace ascoltandone le cadute;   85  
-giardini, dove il ponte lancia la sua arcata aerea,  
-e la [[concepts/nature|Natura]] fa la sua felice [[motifs/home|casa]] con l’uomo;  
-dove più d’un fiore splendido è nutrito a dovere  
-dal suo proprio rivo, sulla sua propria aiuola trapunta,  
-e inghirlanda l’urna di marmo, o china il capo,   90  
-piagnona per finta, che a velo scostato  
-piange gemme liquide, i doni dell’[[motifs/dawn|alba]]; —  
-tuoi tutti i diletti, e ogni musa è tua;  
-e più di tutto, l’abbraccio e l’intreccio  
-di tutti con tutti in gaia e scintillante [[motifs/dance|danza]]!   95  
-Fra dèi di Grecia e guerrieri di romanzo,  
-ecco! siede il Boccaccio, dispiegando sulle ginocchia  
-il rotolo ritrovato del vecchio Meonide;  
-ma dalla piega del mantello, e presso il cuore,  
-occhieggia il Sacro Libro d’Ovidio della dolce fitta d’[[motifs/love|Amore]]!   100  
-O saggio che tutto godi e tutto fondi,  
-a lungo sia mio meditare la tua pagina labirintica,  
-dove, mezzo celati, l’occhio della fantasia vede  
-fauni, ninfe e santi alati, tutti benigni alla tua musa!  
-Ancora nel tuo [[motifs/garden|giardino]] lasciami spiare i loro scherzi,   105  
-e vedere, in veste di Diana, fra i filari  
-delle viti ordinate, qualche fanciulla che mezzo crede  
-ai fuochi vestali, di cui il suo [[archetypes/lover|amante]] si duole,  
-con quel satiro furbo che sbircia fra le [[motifs/leaves|foglie]]!  
-1828.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="327_on_a_volunteer_singer" data-title="ON A VOLUNTEER SINGER" data-chapter="" data-kind="intro"></span>
 
 
@@ -3377,15 +1854,12 @@ First published in An. Anth., 1800. Included in Keepsake, 1829, p.
 277; Essays, &c., 1850, ii. 988. First collected in 1834.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I cigni cantano prima di morire — non sarebbe cosa cattiva  
-che certe persone morissero prima di cantare.  
-Pubblicato per la prima volta in An. Anth., 1800. Incluso in Keepsake, 1829, p.  
-277; Essays, &c., 1850, ii. 988. Raccolto per la prima volta nel 1834.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="398_baron_guelph_of_adelstan_a_fragment" data-title="BARON GUELPH OF ADELSTAN. A FRAGMENT" data-chapter="" data-kind="intro"></span>
 
 
@@ -3413,33 +1887,12 @@ Nor endless —
 Undated. Now first published from an MS.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Per sempre nel mondo della Fama  
-viviamo e pure restiamo gli stessi:  
-le nubi possono intercettare i nostri raggi,  
-o Terre [[motifs/desert|deserte]] riflettere il nostro fulgore.  
-Cominciò il bel Mese di Maggio,  
-e tutto era Allegria e Svago,  
-quando il Barone Guelph di Adelstan  
-prese congedo e lasciò la [[settings/court|Corte]].  
-Lontano da Feste e Ricevimenti e Opera  
-abbandonò la città affollata,  
-e mutò la bacchetta e la stella d’oro  
-nella [[motifs/crown|Corona]] e nel Vincastro del Pastore.  
-La rete annodata di luce e ombra  
-sotto l’albero in gemma  
-gli fece giaciglio diurno più dolce  
-che Divano e Baldacchino.  
-In boschetto o viottolo, secondo che Scelta o Caso  
-lo guidasse, era veduto;  
-e a sera s’univa alla [[motifs/dance|danza]] del villaggio  
-sul prato del villaggio.  
-Né senza fine —  
-Senza data. Ora pubblicato per la prima volta da un MS.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="444_stolberg_hymne_an_die_erde" data-title="STOLBERG: HYMNE AN DIE ERDE." data-chapter="" data-kind="intro"></span>
 
 
@@ -3471,35 +1924,3 @@ Irrte blökend im Thal, und sang in blühenden Stauden.   25
 The German original is printed in the Notes to P. W., 1893, p. 615.  
 L  
 [Vide ante, p. 376]  
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Erde, du Mutter zahlloser Kinder, Mutter und Amme!  
-Sei mir gegrüsst! Sei mir gesegnet im Feiergesange!  
-Sieh, O Mutter, hier lieg’ ich an deinen schwellenden Brüsten!  
-Lieg’, O Grüngelockte, von deinem wallenden Haupthaar  
-Sanft umsäuselt und sanft geküsst von thauenden Lüften!   5  
-Ach, du säuselst Wonne mir zu, und thauest mir Wehmuth  
-In das Herz, dass Wehmuth und Wonn’ aus schmelzender Seele  
-Sich in Thränen und Dank und heiligen Liedern ergiessen!  
-Erde, du Mutter zahlloser Kinder, Mutter und Amme!  
-Schwester der allesfreuenden Sonne, des freundlichen Mondes   10  
-Und der strahlenden Stern’, und flammenbeschweiften Kometen,  
-Eine der jüngsten Töchter der allgebärenden Schöpfung,  
-Immer blühendes Weib des segenträufelnden Himmels!  
-Sprich, O Erde, wie war dir als du am ersten der Tage  
-Deinen heiligen Schooss dem buhlenden Himmel enthülltest?   15  
-Dein Erröthen war die erste der Morgenröthen,  
-Als er im blendenden Bette von weichen schwellenden Wolken  
-Deine gürtende Binde mit siegender Stärke dir löste!  
-Schauer durchbebten die stille Natur und tausend und tausend  
-Leben keimten empor aus der mächtigen Liebesumarmung.   20  
-Freudig begrüssten die Fluthen des Meeres neuer Bewohner  
-Mannigfaltige Schaaren; es staunte der werdende Wallfisch  
-Ueber die steigenden Ströme die seiner Nasen entbrausten;  
-Junges Leben durchbrüllte die Auen, die Wälder, die Berge,  
-Irrte blökend im Thal, und sang in blühenden Stauden.   25  
-L’originale tedesco è stampato nelle Note a P. W., 1893, p. 615.  
-L  
-[Vedi sopra, p. 376]

@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/seasons-winter-autumn--letters" data-author="Dickinson" data-workhref="works/seasons-·-winter-·-autumn-(dickinson)" data-collection="letters"></div>
 
 
+<<<<<<< HEAD
 To Mr. William Austin Dickinson, Saturday Morn · To Mr. William Austin Dickinson, Friday Morning · To Mrs. Anthon · To Mrs. Anthon · To Dr. J. G. Holland, and Mrs. Holland · To Mr. Samuel Bowlers and Mrs. Bowles, August, 1862 · To Mr. Samuel Bowlers and Mrs. Bowles · To the Misses, Autumn, 1863 · To Miss Maria Whitney · To Mrs. Joseph Sweetser, Autumn, 1879?
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="william_austin_dickinson_saturday_morn" data-title="To Mr. William Austin Dickinson, Saturday Morn" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,topos/tempus_fugit,motif/home,motif/fire,motif/autumn,concept/loneliness,concept/desire_and_longing,concept/transience,form/letter,cluster/seasons,cluster/winter,cluster/autumn"></span>
 
 
@@ -24,12 +27,15 @@ DEAR AUSTIN.—I've been trying to think this morning how many weeks it was sinc
 I [[concepts/hope|hope]] this year in Boston will not impair your health, and I [[concepts/hope|hope]] you will be as happy as you used to. be before. I don't [[concepts/wonder|wonder]] it makes you sober to leave this blessed air —if it were in my power I would on every morning transmit its purest breaths fragrant and cool to you. How I wish you could have it—a thousand little winds waft it to me this morning, fragrant with forest [[motifs/leaves|leaves]] and bright autumnal berries. I would be willing to give you my portion for to-day, and take the salt [[motifs/sea|sea]]'s breath in its bright, bounding stead. . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Austin, stamattina ho cercato di calcolare quante settimane fossero trascorse da quando te ne sei andato. Ma non riesco a farlo con precisione; mi sembra che sia passato un tempo infinito da quando sei tornato a scuola. Ho provato a contare i giorni degli anni, le settimane di decine di anni. Ma non riuscendo a misurare il tempo in minuti, non so proprio cosa pensare di queste grandi discrepanze tra le ore reali e quelle che “sembrano” trascorrere. Forse anche a te sembra un periodo lungo da quando sei tornato a Boston. Vorrei tanto che restassi qui e non te ne andassi mai più. Tutto è così tranquillo qui: le nuvole sono fredde e grigie. Penso che presto pioverà. Oh, quanto mi sento sola. Quella sera, mentre tornavi a Boston, faceva molto vento; ci siamo preoccupate molto per te, sperando che non ti raffreddassi. Il nostro fuoco ardeva così felicemente. Non ho potuto fare a meno di pensare a quanti erano qui e a quanti invece erano lontani. Quella lunga sera, ho desiderato tantissimo che la porta si aprisse e tu entrassi. La “casa” è una cosa sacra: nulla di dubbi o sfiducia può entrare nei suoi portali benedetti. Questo sentimento diventa sempre più forte man mano che il mondo continua a cambiare, e una persona dopo l’altra abbandona coloro in cui riponevamo la nostra fiducia. Qui, sembra davvero esistere un angolo di Eden che nessun peccato può distruggere completamente. Anche se è più piccolo e forse meno bello del resto del mondo, è comunque più bello e luminoso di tutto ciò che c’è là fuori.
 
 Spero che quest’anno a Boston non influisca negativamente sulla tua salute, e spero che tu sia felice come lo eri prima. Non mi meraviglio che lasciare quest’aria benedetta ti renda più sobrio: se fosse in mio potere, ogni mattina ti invierei i suoi respiri più puri, profumati e freschi. Quanto vorrei che tu potesseli avere. Questa mattina mille piccoli venti me li portano, profumati di foglie di foresta e frutti autunnali. Sarei disposto a darti la mia parte per oggi, e ad assumere al loro posto il respiro fresco e vivace del mare.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_friday_morning" data-title="To Mr. William Austin Dickinson, Friday Morning" data-chapter="" data-kind="intro" data-tags="archetype/ghost,motif/home,motif/autumn,motif/frost,motif/the_garden,motif/ghosts,concept/loneliness,concept/desire_and_longing,concept/immortality_divine,form/letter,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -42,6 +48,7 @@ Before next Tuesday—oh, before the coming stage, will I not brighten and brush
 You will find the blue hills, Austin, with the autumnal shadows silently sleeping on them, and there will be a glory lingering round the day, so you'll know [[motifs/autumn|autumn]] has been here; and the setting [[motifs/sun|sun]] will tell you, if you don't get [[motifs/home|home]] till evening. . . . I thank you for such a long [[forms/letter|letter]], and yet if I might choose, the next should be a longer. I think a [[forms/letter|letter]] just about three days long would make me happier than any other kind of one, if you please,—dated at Boston, but thanks be to our Father you may conclude it here. Everything has changed since my other [[forms/letter|letter]],—the doors are shut this morning, and all the kitchen wall is covered with chilly flies who are trying to warm themselves, —poor things, they do not understand that there are no [[motifs/summer|summer]] mornings remaining to them and me, and they have a bewildered air which is really very droll, didn't one feel sorry for them. You would say 'twas a gloomy morning if you were sitting here,—the [[motifs/frost|frost]] has been severe, and the few lingering [[motifs/leaves|leaves]] seem anxious to be going, and wrap their faded cloaks more closely about them as if to shield them from the chilly northeast [[motifs/wind|wind]]. The earth looks like some poor old lady who by dint of pains has bloomed e'en till now, yet in a forgetful moment a few silver hairs from out her cap come stealing, and she tucks them back so hastily and thinks nobody sees. The cows are going to pasture, and little boys with their hands in their pockets are whistling to try to keep warm. Don't think that the sky will frown so the day when you come [[motifs/home|home]]! She will smile and look happy, and be full of sunshine then, and even should she frown upon her [[archetypes/child|child]] returning, there is another sky, ever serene and fair, and there is another sunshine, though it be darkness there; never mind faded forests, Austin, never mind silent fields—here is a little forest, whose leaf is ever green; here is a brighter [[motifs/garden|garden]], where not a [[motifs/frost|frost]] has been; in its unfading [[motifs/flowers|flowers]] I hear the bright bee hum; prithee, my brother, into my [[motifs/garden|garden]] come!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 , La colazione è così calda, e Pussy canta qui vicino, anche la teiera sembra cantare, come se volesse vedere chi dei due canta più forte. Ho tanta paura che Kitty venga picchiata. Eppure un’[[archetypes/shadow|ombra]] cade sulla mia immagine mattutina. Dove è finito quel giovane così coraggioso, il più valoroso tra noi? C’è un posto vuoto qui. Spettri seduti nella tua sedia, che di tanto in tanto spingono papà con i loro gomiti lunghi e ossuti. Vorrei che fossi qui, caro Austin. La [[motifs/dust|polvere]] si accumula sul comò nella tua stanza deserta, e ragni allegri e frivoli tessono le loro tele negli angoli. Non vado lì dopo il tramonto, se posso evitarlo. Il crepuscolo sembra fermarsi lì. Ho paura. E se proprio devo andare, corro con tutte le mie forze, senza mai guardarmi indietro. Perché so chi vedrei.
@@ -50,6 +57,8 @@ Prima del prossimo martedì, oh, prima di quella fase imminente, non illuminerò
 
 Troverai quelle colline azzurre, Austin, con le ombre autunnali che vi riposano silenziosamente sopra; ci sarà una luce splendente che perdura per tutto il giorno, così saprai che l’[[motifs/autumn|autunno]] è già arrivato. E il tramonto del [[motifs/sun|sole]] te lo dirà, se non tornerai a [[motifs/home|casa]] fino alla sera. Grazie per questa lunga [[forms/letter|lettera]]; se potessi scegliere, la prossima sarebbe ancora più lunga. Penso che una lettera di circa tre giorni mi renderebbe molto più felice di qualsiasi altra. Vorrei che fosse datata da Boston, ma grazie a nostro Padre puoi anche scriverla qui. Tutto è cambiato da quando ti ho scritto l’ultima volta: stamattina le porte sono chiuse, e tutta la parete della cucina è coperta di mosche che cercano di riscaldarsi. Povere creature. Non capiscono che non ci saranno più mattine estive né per loro né per me. Hanno un’aria confusa. Che commovente. Diresti che sia una mattina triste, se fossi qui. La [[motifs/frost|brina]] è intensa; le poche foglie rimaste sembrano ansiose di andarsene, avvolgendo i loro vestiti sbiaditi più strettamente, come per proteggersi dal freddo vento del nord-est. La terra sembra una povera vecchia signora che, nonostante le difficoltà, è riuscita a fiorire fino ad ora. Ma in un momento di distrazione, qualche ciocca bianca dei suoi capelli “scivola” fuori. Lei la nasconde in fretta, pensando che nessuno se ne accorga. Le mucche stanno andando al pascolo; i bambini, con le mani in tasca, fischiano per scaldarsi. Non pensare che il cielo si rabbui quando arriverai a [[motifs/home|casa]]! Lei sorriderà, sembrerà felice. E anche se fosse triste per il tuo ritorno, c’è sempre un altro cielo, sereno e bello. C’è sempre un’altra luce. Anche se là fuori regna l’oscurità. Non pensare alle foreste appassite, Austin. Non pensare ai campi silenziosi. Qui c’è una piccola foresta i cui alberi sono sempre verdi. Qui c’è un giardino più luminoso, dove non è mai arrivata la [[motifs/frost|brina]]. Nei suoi fiori eterni sento il ronzio delle api. Per favore, mio fratello. Vieni nel mio [[motifs/garden|giardino]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_anthon" data-title="To Mrs. Anthon" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/autumn,motif/frost,motif/seed_and_germination,motif/nature,concept/metamorphosis,concept/transience,concept/the_natural_order,form/lyric,form/letter,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -58,10 +67,13 @@ Troverai quelle colline azzurre, Austin, con le ombre autunnali che vi riposano 
 There are two ripenings, one of sight, Whose forces spheric [[motifs/wind|wind]], Until the velvet product Drops spicy to the ground. A homelier maturing, A process in the burr That teeth of frosts alone disclose On far October air.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ci sono due tipi di maturazione: uno visivo, il cui processo è guidato dal vento circolare, fino a quando il frutto morbido e vellutato cade a terra. L’altro tipo di maturazione avviene in modo più lento e silenzioso, un processo che solo i gelidi venti d’ottobre riescono a rivelare.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_anthon" data-title="To Mrs. Anthon" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,motif/flowers,motif/death,concept/grief_and_loss,concept/friendship,concept/transience,form/lyric,form/letter,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -72,12 +84,15 @@ On the occasion of another friend's departure from Amherst after a visit, Emily'
 We'll pass without a parting, So to spare Certificate of absence, Deeming where I left her I could find her If I tried. This way I keep from missing Those who died.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 All’occasione della partenza di un altro amico da Amherst al termine di una visita, l’addio di Emily si concretizzò nelle seguenti parole, accompagnate da un bocciolo di oleandro legato con un nastro nero:
 
 Passeremo senza addii; così, per evitare di dover compilare un certificato di assenza, posso pensare che, da dove l’ho lasciata, riuscirò a trovarla se ci proverò. In questo modo evito di sentirmi in colpa per coloro che sono morti.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/autumn,motif/seasons,concept/transience,form/letter,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -86,10 +101,13 @@ Passeremo senza addii; così, per evitare di dover compilare un certificato di a
 P. S. The bobolinks have gone.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 P.S. I bobolink se ne sono andati.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_august_1862" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, August, 1862" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/autumn,motif/summer,motif/seasons,motif/flowers,motif/bees,motif/animals,concept/friendship,concept/longing,concept/grief_and_loss,concept/patience_and_waiting,form/letter,histref/american_civil_war,setting/the_sea,setting/new_england,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -116,6 +134,7 @@ A soldier called, a morning ago, and asked for a nosegay to take to battle. I su
 How sweet it must be to one to come [[motifs/home|home]], whose [[motifs/home|home]] is in so many houses, and every heart a “best room.” I mean you, Mr. Bowles. . . . Have not the clovers names to the [[motifs/bees|bees]]?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro signor Bowles, —Vinnie sta facendo affari con un venditore di stoviglie di latta: compra per me vasi d’acqua in cui piantare gerani, così quando tornerete a casa la prossima [[motifs/winter|inverno]], potrete farlo. Inoltre, lei è andata a combattere in guerra.
@@ -138,6 +157,8 @@ Un soldato ha chiamato stamattina mattina e ha chiesto un mazzo di fiori da port
 
 Quanto deve essere dolce per qualcuno tornare a [[motifs/home|casa]], quando la propria [[motifs/home|casa]] si trova in molte diverse dimore, e ogni cuore rappresenta una “stanza migliore”. Intendo dire voi, signor Bowles. Non hanno forse i trifogli dei nomi per le [[motifs/bees|api]]?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/autumn,motif/the_hill,concept/transience,concept/wonder,form/lyric,form/letter,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -146,10 +167,13 @@ Quanto deve essere dolce per qualcuno tornare a [[motifs/home|casa]], quando la 
 While asters On the [[motifs/hill|hill]] Their everlasting fashions set, And covenant gentians frill!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mentre i gigli di campo sul [[motifs/hill|colline]] mantengono le loro forme eternamente immutate, e i fiori della pianura si adornano di volantini.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_autumn_1863" data-title="To the Misses, Autumn, 1863" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/flowers,motif/birds,motif/frost,motif/leaves,motif/home,concept/friendship,concept/longing,concept/communication_and_isolation,concept/memory,form/letter,histref/the_bible,character/noah,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -168,6 +192,7 @@ L——goes to Sunderland, Wednesday, for a minute or two; [[motifs/leaves|leave
 Grateful for little notes, and shall ask for longer when my [[motifs/birds|birds]] locate. Would it were here. Three sisters are prettier than one. . . . Tabby is a continual shrine, and her jaunty ribbons put me in mind of fingers far out at [[motifs/sea|sea]]. F——'s admonition made me laugh and cry too. In the hugest haste, and the engine waiting.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 , Dovrei essere folle di [[concepts/joy|gioia]] nel vedere i miei piccoli amati. Scrivere di loro non è altrettanto dolce come vedere i loro due volti: sembrano così lontani, eppure sono stati lontani da me per due settimane, due settimane piene di desiderio e incertezza. Ora inizio a [[concepts/doubt|dubitare]] che siano mai arrivati davvero.
@@ -182,6 +207,8 @@ L——va a Sunderland mercoledì, per un minuto o due; [[motifs/leaves|parte]] 
 
 Sono grato per questi piccoli messaggi; chiederò di riceverne di più non appena i miei [[motifs/birds|uccelli]] saranno stati individuati. Vorrei che fossero qui. Tre sorelle sono più belle di una. Tabby è davvero un vero tesoro, e i suoi nastri vivaci mi fanno pensare a dita lontane, laggiù nel [[motifs/sea|mare]]. L’ammonizione di F——mi ha fatto ridere e piangere allo stesso tempo. Con la massima urgenza, mentre il motore aspetta.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/garden,motif/flowers,motif/seasons,motif/autumn,motif/seed_and_germination,motif/grass,concept/death,concept/grief_and_loss,concept/transience,form/letter,setting/a_garden,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -196,6 +223,7 @@ This sweet [[motifs/garden|garden]], with its whiffs of long ago, needs only bor
 In different mood from the cheerful letters to Mr. Bowles are these more sombre ones to Mr. Clark. Begun by association through the [[motifs/death|death]] of a mutual friend, they continued to be tinged with the sadness of other and following deaths, until his own, when letters to his brother took their place until almost her own flitting.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 E il vecchio [[motifs/garden|giardino]] è ancora pieno di profumi e colori estivi. Le sue aiuole piene di iris dai mille colori fioriscono sotto il sole primaverile, mentre crocus e narcisi spuntano tra l’erba fresca sotto gli alberi di mele; una grande magnolia apre i suoi boccioli rosa verso il cielo azzurro, e i rododendri rossi illuminano angoli ombrosi e verdi.
@@ -206,6 +234,8 @@ Questo delizioso [[motifs/garden|giardino]], con i suoi profumi di tempi lontani
 
 A differenza delle lettere allegre indirizzate al signor Bowles, queste altre, più cupe, destinate al signor Clark, nascono da un legame condiviso legato alla [[motifs/death|morte]] di un amico comune. Continuano ad essere intrise della tristezza causata da altre morti successive, fino a quella del signor Clark stesso; dopo quel momento, le lettere iniziano a rivolgersi a suo fratello, fino alla scomparsa anche di quest’ultimo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_joseph_sweetser_autumn_1879" data-title="To Mrs. Joseph Sweetser, Autumn, 1879?" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,motif/garden,motif/flowers,motif/autumn,motif/stars,concept/transience,concept/grief_and_loss,concept/mortality,concept/friendship,form/letter,histref/the_bible,setting/a_garden,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -224,6 +254,7 @@ Mother has had a weary cold, and suffers much from neuralgia since the changing 
 The ravens must “cry,” to be ministered to; she need only sigh. . . . Perhaps it is quite the [[motifs/home|home]] it was when you last beheld it. I [[concepts/hope|hope]] your few are safe, and your [[motifs/flowers|flowers]] encouraging.
 
 News of your sultans and yourself would be equally lovely, when you feel inclined. Blossoms have their leisures.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -241,3 +272,5 @@ Mia madre ha avuto un brutto raffreddore e soffre molto di nevralgia a causa dei
 I corvi devono “gridare” per essere accuditi; lei ha bisogno soltanto di sospirare. Forse è proprio quella stessa [[motifs/home|casa]] che era l’ultima volta che l’hai vista. Spero che i tuoi pochi cari siano al sicuro, e che i tuoi [[motifs/flowers|fiori]] siano rigogliosi.
 
 Le notizie dei vostri sultani e di voi stesso sarebbero altrettanto piacevoli, quando ne avrete voglia. I fiori hanno anche loro i loro momenti di relax.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

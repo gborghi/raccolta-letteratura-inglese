@@ -45,6 +45,7 @@ When the waiter brought us our coffee and cigarettes I reminded Gerald of his pr
 ‘Do you really think so?’
 ‘I am sure of it,’ I replied.
 He took out the morocco case, opened it, and looked at the photograph.  ‘I [[concepts/wonder|wonder]]?’ he said at last.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -75,3 +76,5 @@ Il giorno seguente arrivai a Park Lane puntuale all’ora prevista, ma il maggio
 “Davvero lo pensi?”  
 “Ne sono sicuro,” ho risposto.  
 Ha tirato fuori la scatola di marocchino, l’ha aperta e ha guardato la fotografia. “Mi chiedo, ” ha detto infine.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

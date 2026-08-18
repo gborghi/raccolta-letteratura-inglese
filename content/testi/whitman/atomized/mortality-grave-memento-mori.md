@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/mortality-grave-memento-mori" data-author="Whitman" data-workhref="works/mortality-·-grave-·-memento-mori-(whitman)"></div>
 
 
+<<<<<<< HEAD
 Youth, Day, Old Age and Night · Beautiful Women · Hast Never Come to Thee an Hour · To Old Age · This Dust Was Once the Man · This Compost · Thought · Of Him I Love Day and Night · As If a Phantom Caress’d Me · Quicksand Years · Thought · As I Watch the Ploughman Ploughing · Pensive and Faltering · The Mystic Trumpeter · Spain, 1873-74 · As the Time Draws Nigh · Pensive on Her Dead Gazing · The Sobbing of the Bells [Midnight, Sept. 19-20, 1881] · Portals · To Those Who’ve Fail’d · Queries to My Seventieth Year · Red Jacket (From Aloft) · Yonnondio · Life and Death · While Not the Past Forgetting · Apparitions · A Voice from Death · Mirages · L. of G.’s Purport
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="093_youth_day_old_age_and_night" data-title="Youth, Day, Old Age and Night" data-chapter="" data-kind="intro"></span>
 
 

@@ -206,6 +206,7 @@ ERNEST.  You have told me many strange things to-[[motifs/night|night]], Gilber
 GILBERT.  Yes: I am a dreamer.  For a dreamer is one who can only find his way by moonlight, and his punishment is that he sees the [[motifs/dawn|dawn]] before the rest of the world.
 ERNEST.  His punishment?
 GILBERT.  And his reward.  But, see, it is [[motifs/dawn|dawn]] already.  Draw back the curtains and open the windows wide.  How cool the morning air is!  Piccadilly lies at our feet like a long riband of silver.  A faint purple mist hangs over the Park, and the shadows of the white houses are purple.  It is too late to [[motifs/sleep|sleep]].  Let us go down to Covent [[motifs/garden|Garden]] and look at the roses.  Come!  I am tired of thought.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -411,3 +412,5 @@ ERNEST: Mi hai raccontato molte cose strane, Gilbert, di notte. Mi hai detto che
 GILBERT: Sì, sono un sognatore. Perché un sognatore è colui che può trovare la strada solo alla luce della luna. E la sua punizione è vedere l’alba prima di tutti gli altri.  
 ERNEST: La sua punizione?  
 GILBERT: E anche la sua ricompensa. Ma guarda. È già giorno! Tira indietro le tende e apri bene le finestre. Che fresco c’è nell’aria mattutina! Piccadilly si estende davanti a noi come un lungo nastro d’argento. Una leggera nebbia viola avvolge il Parco, e le ombre delle case bianche sembrano di colore viola. È troppo tardi per dormire. Andiamo al Covent Garden a guardare i rossi. Vieni. Ne ho abbastanza dei pensieri.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

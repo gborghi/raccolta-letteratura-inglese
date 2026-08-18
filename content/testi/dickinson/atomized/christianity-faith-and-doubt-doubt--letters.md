@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/christianity-faith-and-doubt-doubt--letters" data-author="Dickinson" data-workhref="works/christianity-·-faith-and-doubt-·-doubt-(dickinson)" data-collection="letters"></div>
 
 
+<<<<<<< HEAD
 To the Misses, September, 1870 · To Mrs. Edward Tuckerman, December, 1881 · To Mrs. Edward Tuckerman, April, 1885 · To Mrs. F.S. Cooper, 1880 · To Mr. Theodore Holland, 1885
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_misses_september_1870" data-title="To the Misses, September, 1870" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/autumn,motif/secrets,concept/friendship,concept/faith_and_doubt,concept/immortality_divine,concept/doubt,form/letter,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
 
 
@@ -30,6 +33,7 @@ The “pussum” is found. “Two dollars reward” would return John Franklin. 
 Nearly October, sisters! No one can keep a sumach and keep a secret too. That was my “pipe” F——found in the woods.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Piccole sorelle. Vorrei che foste con me, non esattamente qui, ma in quelle dolci dimore che la mente ama immaginare. Esistono davvero o no? Crediamo di sì, ma come possiamo saperlo con certezza? “La luce che mai è apparsa sul [[motifs/sea|mare]] né sulla terra” potrebbe benissimo esistere.
@@ -42,6 +46,8 @@ Il “pussum” è stato trovato. Una ricompensa di “due dollari” potrebbe f
 
 Quasi ottobre, sorelle. Nessuno può tenere un albero di sumacchino e mantenere un segreto allo stesso tempo. Quella era la mia “pipa”, trovata nel bosco.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_edward_tuckerman_december_1881" data-title="To Mrs. Edward Tuckerman, December, 1881" data-chapter="" data-kind="intro" data-tags="topos/temptation,concept/faith,concept/doubt,concept/fear,concept/the_unseen,form/letter,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -52,12 +58,15 @@ DEAR FRIEND,—Vinnie asked me if I had any message for you, and while I was pic
 Not seeing, still we know, Not knowing, guess; Not guessing, smile and hide And half caress, And quake and turn away; Seraphic [[concepts/fear|fear]]! Is Eden's innuendo “If you dare”?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, — Vinnie mi ha chiesto se avessi qualche messaggio per te, e mentre lo stavo pensando, tu sei scappato via.
 
 Non vedendo, eppure sappiamo. Non sapendo, indovinare; Non indovinando, sorridere e nascondersi. E accarezzare appena, Tremare e allontanarsi. Quel timore serafico. È forse l’allusione di Eden: “Se osi, ”?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_edward_tuckerman_april_1885" data-title="To Mrs. Edward Tuckerman, April, 1885" data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/birds,concept/friendship,concept/resurrection,concept/longing,form/lyric,form/letter,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -70,6 +79,7 @@ Morning without you is a dwindled [[motifs/dawn|dawn]].
 Quickened toward all celestial things by crows I heard this morning, accept a loving caw from a
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —vogliamo che ti svegli. La Pasqua è arrivata e se n’è andata.
@@ -78,6 +88,8 @@ Una mattina senza di te è una alba privata della sua luce.
 
 Mentre questa mattina ascoltavo i corvi che acceleravano il loro volo verso tutte le cose celesti, accetta con affetto questo richiamo d’amore da parte di.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fs_cooper_1880" data-title="To Mrs. F.S. Cooper, 1880" data-chapter="" data-kind="intro" data-tags="concept/suffering,concept/friendship,concept/doubt,concept/pain,form/letter,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -88,20 +100,26 @@ Is sickness pathos or infamy?
 While you forget to decide, please confirm this trifle.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La malattia è un segno di patos o di disonore?
 
 Mentre ti dimentichi di decidere, per favore conferma questa piccolezza.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="theodore_holland_1885" data-title="To Mr. Theodore Holland, 1885" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/silence,motif/death,concept/faith,concept/doubt,concept/faith_and_doubt,form/letter,histref/the_bible,histref/ancient_rome,character/thomas,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
 
 
 . . . If you saw a bullet hit a bird, and he told you he wasn't shot, you might weep at his courtesy, but you would certainly [[concepts/doubt|doubt]] his word. Thomas's [[concepts/faith|faith]] in anatomy was stronger than his [[concepts/faith|faith]] in [[concepts/faith|faith]]. . . . Vesuvius don't talk—Ætna don't. One of them said a syllable, a thousand years ago, and Pompeii heard it and hid forever. She couldn't look the world in the face afterward, I suppose. Bashful Pompeii! . . .
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 . Se vedeste una pallottola colpire un uccello e quell’uccello vi dicesse di non essere stato colpito, forse piangereste per la sua gentilezza, ma di certo [[concepts/doubt|dubitereste]] delle sue parole. La [[concepts/faith|fede]] di Thomas nell’anatomia era più forte della sua [[concepts/faith|)fede]] in qualsiasi altra cosa. Il Vesuvio non parla; l’Etna non parla. Uno di loro pronunciò una sillaba mille anni fa, e Pompei la sentì, e si nascose per sempre. Immagino che dopo non potesse più affrontare il mondo. La timida Pompei.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

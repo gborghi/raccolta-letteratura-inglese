@@ -122,6 +122,7 @@ But nobody heard him, not even the two little boys, for they were sound asleep.
 Then all that was left of him was the stick, and this fell down on the back of a Goose who was taking a walk by the side of the ditch.
 “Good heavens!” cried the Goose. “It is going to rain sticks;” and she rushed into the [[motifs/water|water]].
 “I knew I should create a great sensation,” gasped the Rocket, and he went out.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -234,3 +235,5 @@ Ma nessuno lo sentì, nemmeno i due ragazzini, perché dormivano profondamente.
 Poi tutto ciò che restò di lui fu il bastone, e questo cadde sulla schiena di un’Oca che stava passeggiando lungo il fosso.
 “Santo cielo!” gridò l’Oca. “Sta per piovere bastoni;” e si precipitò nell’[[motifs/water|acqua]].
 “Sapevo che avrei creato una grande sensazione,” ansimò il Razzo, e si spense.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

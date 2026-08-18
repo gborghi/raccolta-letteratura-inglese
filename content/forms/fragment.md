@@ -51,6 +51,10 @@ tags:
 - [[works/phantom-(coleridge)|PHANTOM (Coleridge)]]
 - [[works/reason-(coleridge)|REASON (Coleridge)]]
 - [[works/snow-drop.-(coleridge)|SNOW DROP. (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/the-ballad-of-the-dark-ladié-(coleridge)|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/the-foster-mother’s-tale-(coleridge)|THE FOSTER-MOTHER’S TALE (Coleridge)]]
 - [[works/the-happy-husband-(coleridge)|THE HAPPY HUSBAND (Coleridge)]]
 - [[works/the-netherlands-(coleridge)|THE NETHERLANDS (Coleridge)]]

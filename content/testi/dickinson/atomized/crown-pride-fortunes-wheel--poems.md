@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/crown-pride-fortunes-wheel--poems" data-author="Dickinson" data-workhref="works/crown-·-pride-·-fortune's-wheel-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 103. I have a King, who does not speak — · 283. A Mien to move a Queen — · 349. I had the Glory — that will do — · 356. The Day that I was crowned · 373. I'm saying every day · 385. Smiling back from Coronation · 427. I'll clutch — and clutch — · 551. There is a Shame of Nobleness — · 700. You've seen Balloons set — Haven't You? · 704. No matter — now — Sweet — · 713. Fame of Myself, to justify, · 803. Who Court obtain within Himself · 1232. The Clover's simple Fame · 1427. To earn it by disdaining it
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="have_a_king_who_does_not_speak" data-title="103. I have a King, who does not speak —" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/dreams,motif/bells,concept/faith_and_doubt,concept/fate_and_free_will,form/lyric,histref/christianity,character/christ,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
 
 
@@ -41,6 +44,7 @@ For my will goes the other way,
 And it were perjury!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ho un [[archetypes/king|Re]], che non parla —  
@@ -64,6 +68,8 @@ E ometto di pregare
 Perché la mia volontà va dall'altra parte,  
 E sarebbe spergiuro!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="mien_to_move_a_queen" data-title="283. A Mien to move a Queen —" data-chapter="" data-kind="intro" data-tags="archetype/king,archetype/child,motif/birds,motif/crown,concept/identity,form/lyric,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -99,6 +105,7 @@ And so Men Compromise
 And just — revere —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Contegno da muovere una [[characters/queen|Regina]] —  
@@ -130,6 +137,8 @@ Troppo distante — per farsi cara —
 E così gli Uomini Scendono a patti  
 E soltanto — venerano —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="had_the_glory_that_will_do" data-title="349. I had the Glory — that will do —" data-chapter="" data-kind="intro" data-tags="motif/time,concept/honour,concept/joy,concept/ambition,concept/memory_and_time,form/epigram,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -144,6 +153,7 @@ Deforming — Dwindling — Gulfing up —
 [[motifs/time|Time]]'s possibility.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ebbi la Gloria — questo basta —  
@@ -154,6 +164,8 @@ La prima forma della Beatitudine
 Deformando — Scemando — Inghiottendo —  
 La possibilità del [[motifs/time|Tempo]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_day_that_i_was_crowned" data-title="356. The Day that I was crowned" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/crown,motif/money_gold,concept/identity,concept/grace_and_redemption,concept/kingship_and_legitimacy,concept/self_and_soul,form/lyric,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -180,6 +192,7 @@ That was the Witness for the Grace —
 'Twas even that 'twas Mine —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Giorno in cui fui incoronata  
@@ -202,6 +215,8 @@ Per Me — superava la [[motifs/crown|Corona]]
 Che era il Testimone della Grazia —  
 Fu proprio il fatto che fosse Mia —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_saying_every_day" data-title="373. I'm saying every day" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,archetype/king,motif/crown,motif/clothing,concept/ambition,setting/the_court,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -250,6 +265,7 @@ Summoned — unexpectedly —
 To Exeter —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vado dicendo ogni giorno  
@@ -294,6 +310,8 @@ Che i Campagnoli — portano —
 Convocati — inaspettatamente —  
 A Exeter —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="iling_back_from_coronation" data-title="385. Smiling back from Coronation" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,motif/crown,concept/pride,concept/immortality,concept/the_common_man,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -315,6 +333,7 @@ Stimulated — by the Contrast —
 Unto Misery —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sorridere indietro dall'Incoronazione  
@@ -332,6 +351,8 @@ Di quanti siano —
 Spinti — dal Contrasto —  
 Alla Miseria —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="l_clutch_and_clutch" data-title="427. I'll clutch — and clutch —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/stars,motif/crown,concept/ambition,concept/desire,concept/pride,setting/the_court,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -366,6 +387,7 @@ Lest Skies impeach a wealth so wonderful —
 And banish me —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Afferrerò — e afferrerò —  
@@ -396,6 +418,8 @@ Ancora a mostrare — quanto ricca vado —
 Che i Cieli non accusino ricchezza sì mirabile —  
 E non mi bandiscano —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_is_a_shame_of_nobleness" data-title="551. There is a Shame of Nobleness —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/honour,concept/pride,concept/humility,concept/grace_and_redemption,form/epigram,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -412,6 +436,7 @@ One More — "Ye Blessed" — to be told —
 But that's — Behind the [[motifs/grave|Grave]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 C'è una Vergogna di Nobiltà —  
@@ -424,6 +449,8 @@ Riconosciuta — dai Coraggiosi —
 Una Ancora — "Voi Benedetti" — da sentirsi dire —  
 Ma quella è — Oltre la [[motifs/grave|Tomba]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="uve_seen_balloons_set_havent_you" data-title="700. You've seen Balloons set — Haven't You?" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,archetype/tragic_hero,motif/death,motif/the_sea,motif/birds,motif/blood,concept/ambition,concept/pride,concept/mortality,concept/transience,form/lyric,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -455,6 +482,7 @@ And Clerks in Counting Rooms
 Observe — "'Twas only a Balloon" —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Avete visto Palloni tramontare — Non è vero?  
@@ -482,6 +510,8 @@ La [[motifs/dust|Polvere]] nelle Strade — si posa —
 E gli Impiegati nelle Stanze dei Conti  
 Osservano — "Era soltanto un Pallone" —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_matter_now_sweet" data-title="704. No matter — now — Sweet —" data-chapter="" data-kind="intro" data-tags="motif/crown,motif/clothing,concept/unrequited_love,concept/pride,concept/identity,concept/immortality_of_art,form/lyric,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -508,6 +538,7 @@ Won't you wish you'd smiled — just —
 Me upon?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non importa — ora — Dolce —  
@@ -530,6 +561,8 @@ Di' — Dolce — allora
 Non vorrai aver sorriso — appena —  
 A me?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_of_myself_to_justify" data-title="713. Fame of Myself, to justify," data-chapter="" data-kind="intro" data-tags="motif/crown,concept/identity,concept/self_and_soul,concept/pride,concept/the_artist_and_society,form/lyric,form/epigram,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -546,6 +579,7 @@ This were an Honor honorless —
 A futile Diadem —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fama di Me stessa, a giustificare,  
@@ -558,6 +592,8 @@ Il mio Nome sia per il resto Supremo —
 Questo sarebbe un Onore senza onore —  
 Un futile Diadema —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_court_obtain_within_himself" data-title="803. Who Court obtain within Himself" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/crown,concept/self_sufficiency,concept/self_and_soul,form/aphorism,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -575,6 +611,7 @@ To Him who doth continual
 Conspire against His Own
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chi [[settings/court|Corte]] ottiene dentro di Sé  
@@ -588,6 +625,8 @@ E Chi può aggiungere una [[motifs/crown|Corona]]
 A Colui che di continuo  
 Cospira contro la Propria
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_clovers_simple_fame" data-title="1232. The Clover's simple Fame" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,concept/humility,concept/pride,concept/ambition,form/aphorism,form/lyric,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -603,6 +642,7 @@ The Daisy that has looked behind
 Has compromised its power —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La semplice Fama del Trifoglio  
@@ -614,6 +654,8 @@ E ciò degrada il Fiore —
 La Margherita che si è guardata indietro  
 Ha compromesso il suo potere —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_earn_it_by_disdaining_it" data-title="1427. To earn it by disdaining it" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/flowers,concept/ambition,concept/honour,concept/pride,form/lyric,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -628,6 +670,7 @@ So let us gather — every Day —
 The Aggregate of  
 Life's Bouquet  
 Be Honor and not shame —
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -641,3 +684,5 @@ Raccogliamo dunque — ogni Giorno —
 La Somma del  
 Bouquet della Vita  
 Sia Onore e non vergogna —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

@@ -75,6 +75,10 @@ tags:
 - [[works/nonsense-sapphics-(coleridge)|NONSENSE SAPPHICS (Coleridge)]]
 - [[works/occasioned-by-the-former-(coleridge)|OCCASIONED BY THE FORMER (Coleridge)]]
 - [[works/occasioned-by-the-last-(coleridge)|OCCASIONED BY THE LAST (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/on-a-late-marriage-between-an-old-maid-and-french-petit-maître-(coleridge)|ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/on-a-reader-of-his-own-verses-(coleridge)|ON A READER OF HIS OWN VERSES (Coleridge)]]
 - [[works/on-a-report-of-a-minister’s-death-(coleridge)|ON A REPORT OF A MINISTER’S DEATH (Coleridge)]]
 - [[works/on-a-ruined-house-in-a-romantic-country-(coleridge)|ON A RUINED HOUSE IN A ROMANTIC COUNTRY (Coleridge)]]

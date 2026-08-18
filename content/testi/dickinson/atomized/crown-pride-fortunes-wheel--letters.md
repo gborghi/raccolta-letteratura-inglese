@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/crown-pride-fortunes-wheel--letters" data-author="Dickinson" data-workhref="works/crown-·-pride-·-fortune's-wheel-(dickinson)" data-collection="letters"></div>
 
 
+<<<<<<< HEAD
 To Dr. J. G. Holland, and Mrs. Holland, Tuesday Evening · To the Misses, April, 1875 · To Miss Maria Whitney · To Mrs. Henry Hills, January, 1883
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_tuesday_evening" data-title="To Dr. J. G. Holland, and Mrs. Holland, Tuesday Evening" data-chapter="" data-kind="intro" data-tags="motif/prayer,motif/bells,motif/birds,motif/bees,motif/letters_writing,concept/friendship,concept/faith_and_doubt,concept/longing,concept/immortality_divine,form/letter,histref/the_bible,setting/new_england,character/matthew,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
 
 
@@ -40,6 +43,7 @@ Vinnie and I talked of you as we sewed, this afternoon. I said—“how far they
 Heaven is large—is it not? Life is short too, isn't it? Then when one is done, is there not another, and—and—then if [[characters/god|God]] is willing, we are neighbors then. Vinnie and mother send their [[motifs/love|love]]. Mine too is here. My [[forms/letter|letter]] as a bee, goes laden. Please [[motifs/love|love]] us and remember us. Please write us very soon, and tell us how you are. . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro dottor e signora Holland, cara Minnie. Fa freddo di notte, ma il pensiero di voi mi riscalda tanto che mi sento come se fossi accanto al fuoco, e non ho più freddo affatto. Mi piace scrivervi: mi dà una sensazione di festa nel cuore e fa suonare le “campane” della gioia. Se le preghiere avessero risposte, voi sareste tutti qui con me questa notte. Ma non trovo nulla; batto alla porta, ma nessuno apre. Chissà se [[characters/god|Dio]] è giusto. Comunque, presumo che lo sia. Dev’essere stato solo un errore di Matthew.
@@ -62,6 +66,8 @@ Questo pomeriggio, mentre cucivamo, Vinnie e io abbiamo parlato di te. Ho detto:
 
 Il cielo è vasto, non è vero? Anche la vita è breve, non è così? Quindi, quando una fine arriva, ce n’è un’altra. E se [[characters/god|Dio]] lo vuole, allora saremo vicini. Vinnie e mia madre inviano il loro [[motifs/love|affetto]]; anche il mio è con voi. La mia [[forms/letter|lettera]], come una ape, porta con sé tanti sentimenti. Per favore, [[motifs/love|amateci]] e ricordatevi di noi. Scriveteci presto, diteci come state.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_april_1875" data-title="To the Misses, April, 1875" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/humility,concept/nationalism_and_patriotism,form/letter,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -72,12 +78,15 @@ I have only a buttercup to offer for the centennial, as an “embattled farmer�
 Begging you not to smile at my limited meadows, I am modestly
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Per il centenario ho solo un ranuncolo da offrire; dopotutto, come “contadino che ha lottato”, non mi resta molto [[motifs/time|tempo]].
 
 “Per favore, non sorridete delle mie ‘limitate praterie’… Sono semplicemente modesto…”
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/sleep,motif/flowers,concept/beauty,concept/wonder,form/letter,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -86,10 +95,13 @@ Per il centenario ho solo un ranuncolo da offrire; dopotutto, come “contadino 
 DEAR FRIENDS,—Had I not known I was not asleep, I should have feared I dreamed, so blissful was their [[concepts/beauty|beauty]], but day and they demurred. . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cari amici, —se non avessi saputo di non essere addormentato, avrei temuto di stare sognando. Quanto era beata la loro [[concepts/beauty|bellezza]]! Ma è arrivato il giorno, e loro hanno rifiutato.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_henry_hills_january_1883" data-title="To Mrs. Henry Hills, January, 1883" data-chapter="" data-kind="intro" data-tags="motif/dreams,concept/beauty,concept/inexpressibility,concept/wonder,form/aphorism,form/letter,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
@@ -98,6 +110,7 @@ Cari amici, —se non avessi saputo di non essere addormentato, avrei temuto di 
 DEAR FRIEND,—We often say “how beautiful!” But when we mean it, we can mean no more.
 
 A dream personified.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -105,3 +118,5 @@ A dream personified.
 Caro amico, —spesso diciamo “che bello!”, ma quando lo diciamo davvero, non possiamo intendere nulla di più.
 
 Un sogno personificato.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

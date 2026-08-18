@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan--letters" data-author="Dickinson" data-workhref="works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(dickinson)" data-collection="letters"></div>
 
 
+<<<<<<< HEAD
 To Mr. William Austin Dickinson, Thursday Morn · To Mr. William Austin Dickinson, Tuesday Evening · To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Saturday Morn · To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Valentine Week, 1850 · To Mrs. Ford · To Mrs. Anthon, 1864 · To Dr. J. G. Holland, and Mrs. Holland, Saturday Eve · To Dr. J. G. Holland, and Mrs. Holland · To Mr. Samuel Bowlers and Mrs. Bowles · To Mr. Samuel Bowlers and Mrs. Bowles, Wednesday · To Mr. Samuel Bowlers and Mrs. Bowles, 1873 · To Mr. Thomas Wentworth Higginson · To Mr. Thomas Wentworth Higginson, Acknowledging a photograph, 1876 · To Mr. Thomas Wentworth Higginson · To the Rev. Perez D. Cowan, October 26, 1870 · To Miss Maria Whitney, August 19, 1885 · To Mrs. Edward Tuckerman, 1880 · To Mrs. F.S. Cooper · To Mr. Theodore Holland
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="william_austin_dickinson_thursday_morn" data-title="To Mr. William Austin Dickinson, Thursday Morn" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/home,motif/fire,motif/letters_writing,motif/rose,concept/loneliness,concept/nostalgia,concept/desire_and_longing,concept/hope,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
@@ -30,6 +33,7 @@ I suppose you have written a few and received a quantity of valentines this week
 Your injunction to pile on the wood has not been unheeded, for we have been obliged to obey it to keep from freezing up. . . . We cannot have much more cold weather, I am sure, for [[motifs/spring|spring]] is near. . . . Professor Smith preached here last Sabbath, and such sermons I never heard in my life. We were all charmed with him, and dreaded to have him close. . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mio caro Austin, —forse potresti pensare, data la data della mia lettera, che io abbia molto tempo libero e possa fare ciò che desidero anche nel pomeriggio. Ma una delle nostre insegnanti, che aveva un appuntamento, è stata visitata inaspettatamente ieri pomeriggio dal suo fidanzato; quindi è andata a casa sua per presentarglielo e probabilmente sarà assente fino a sabato. Poiché io le faccio lezione in uno degli studi, la sua assenza mi lascia un po’ di tempo libero per scrivere.
@@ -42,6 +46,8 @@ Immagino che questa settimana tu abbia scritto diversi biglietti di San Valentin
 
 Il vostro ordine di accumulare più legna non è stato ignorato; abbiamo dovuto obbedire per non congelare. Sono sicuro che il freddo non durerà ancora a lungo, perché la [[motifs/spring|primavera]] è vicina. Il professor Smith ha tenuto una predica qui lo scorso sabato; sermoni del genere non ne avevo mai ascoltati in vita mia. Siamo tutti stati affascinati da lui, e al contempo temevamo che si avvicinasse troppo a noi.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_tuesday_evening" data-title="To Mr. William Austin Dickinson, Tuesday Evening" data-chapter="" data-kind="intro" data-tags="motif/home,motif/the_journey,motif/dust,concept/loneliness,concept/desire_and_longing,concept/nature_vs_civilization,form/letter,setting/new_england,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -54,6 +60,7 @@ Vinnie and I came safely, and met with no mishap—the bouquet was not withered 
 The route and the cars seemed strangely—there were no boys with fruit, there were no boys with pamphlets; one fearful little fellow ventured into the car with what appeared to be publications and tracts; he offered them to no one, and no one inquired for them, and he seemed greatly relieved that no one wanted to buy them. . . . Mother sends much [[motifs/love|love]], and Vinnie.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Siamo tornati a [[motifs/home|casa]], caro Austin. Qui è molto solitario. Ho cercato di decidere quale fosse la scelta migliore: restare a casa con i genitori e il paese, oppure vivere in città tra fumo e polvere, insieme all’unica persona che posso considerare mio fratello. Le bilance non pendono del tutto equilibratamente, ma per quanto ne so, la decisione è a tuo favore. La gente qui si sente molto più sola ora che noi non ci siamo. Dicono che avessero l’impressione che fossimo insieme mentre eravamo via e che saremmo tornati insieme. Le sorelle, lasciate da sole, sembrano molto tristi. Hanno avuto molti amici che sono venuti a trovarle. Mia madre non è mai stata così impegnata come quando eravamo via: con le piante, i polli e gli amici che venivano a farle visita, era davvero così occupata da non sapere cosa fare.
@@ -62,6 +69,8 @@ Vinnie ed io siamo arrivati sani e salvi, senza alcun incidente: il mazzo di fio
 
 Il percorso e i treni sembravano strani: non c'erano ragazzi con la frutta, né ragazzi con volantini; un piccolo ragazzo spaventato osò salire sul treno con delle pubblicazioni e dei foglietti; non li offrì a nessuno, nessuno ne chiese, e sembrò molto sollevato che nessuno volesse comprarli. La mamma manda tanto [[motifs/love|affetto]], e anche Vinnie.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss_saturday_morn" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Saturday Morn" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/snow,motif/winter,motif/letters_writing,concept/friendship,concept/longing,concept/communication_and_isolation,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -72,12 +81,15 @@ It has been a long week, dear Emily, for I have not seen your face, but I have c
 Did Mr. D——give you a message from me? He promised to be faithful, but I don't suppose divines think earthly loves of much consequence. My [[motifs/flowers|flowers]] come in my stead to-day, dear Emily. I [[concepts/hope|hope]] you will [[motifs/love|love]] to see them, and whatever word of [[motifs/love|love]] or welcome kindly you would extend to me, “do even so to them.” They are small, but so full of meaning if they only mean the half of what I bid them.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È stata una settimana lunga, cara Emily. Non ho visto il tuo viso, ma ho cercato di pensare molto a te, il che mi ha aiutato ad accettare la tua assenza per tutto questo tempo. Volevo venire da te più volte, ma prima iniziava a nevicare, poi i sentieri diventavano bagnati, e poi qualche amico passava a trovarmi. Prima che me ne rendessi conto, il breve pomeriggio era già finito.
 
 Il signor D——vi ha portato un messaggio da parte mia? Ha promesso di essere fedele, ma suppongo che i profeti non ritengano le passioni terrene molto importanti. Oggi, al mio posto, ci sono le mie [[motifs/flowers|fiori]], cara Emily. Spero che vi piaccia vederle, e che possiate riservare loro lo stesso affetto e la stessa accoglienza che avreste riservato a me. Sono piccole, ma pienissime di significato. Se solo potessero trasmettere anche solo metà di ciò che desidero.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss_valentine_week_1850" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Valentine Week, 1850" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,archetype/lover,archetype/damsel,motif/marriage,motif/love,motif/bees,motif/flowers,motif/moon,motif/wind,concept/love_romantic,concept/marriage_and_fidelity,concept/procreation,concept/solitude,form/lyric,form/letter,character/adam,character/eve,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -166,6 +178,7 @@ And bid the world Goodmorrow, and go to glory [[motifs/home|home]]!
 Valentines seemed ever near the thoughts of the young people of this generation, and another clever one, written by Emily in 1852, somehow found its way into The Republican, probably through some friend. It was originally sent to Mr. William Howland.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "Awake, o Muse, canta per me una melodia divina."
@@ -250,6 +263,8 @@ E saluta il mondo con un “Buongiorno”, e torna alla gloria della tua [[motif
 
 I giorni di San Valentino sembravano sempre presenti nei pensieri dei giovani di questa generazione; un altro articolo intelligente, scritto da Emily nel 1852, finì in qualche modo su “The Republican”, probabilmente tramite un amico. In origine era stato inviato a Mr. William Howland.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_ford" data-title="To Mrs. Ford" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/letters_writing,motif/love,concept/friendship,concept/loneliness,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -258,10 +273,13 @@ I giorni di San Valentino sembravano sempre presenti nei pensieri dei giovani di
 I thank you for writing me, one precious little “forget-me-not” to bloom along my way. But one little one is lonely —pray send it a blue-eyed mate, that it be not alone. Here is [[motifs/love|love]] from mother and father and Vinnie and me. . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Grazie per avermi scritto, sei un prezioso “forget-me-not” che fiorisce lungo il mio cammino. Ma un singolo fiore è solo. Prega, mandagli un compagno con occhi blu, così non sarà più solo. Ecco l’[[motifs/love|amore]] di mamma e papà, e anche di Vinnie e me.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_anthon_1864" data-title="To Mrs. Anthon, 1864" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/home,motif/flowers,motif/rose,concept/friendship,concept/longing,concept/endurance,concept/wonder_and_gratitude,form/letter,histref/the_bible,setting/new_england,character/elijah,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -284,6 +302,7 @@ Emily wants to be [[motifs/well|well]]—if any one alive wants to get [[motifs/
 Give my [[motifs/love|love]] to father and mother and Austin. Tell Margaret I remember her, and [[concepts/hope|hope]] [[characters/richard|Richard]] is [[motifs/well|well]]. . . . How I wish I could rest all those who are tired for me.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Vinny,  
@@ -303,6 +322,8 @@ Emily vuole stare bene. Se c’è qualcuno ancora vivo che desideri stare meglio
 
 Dà il mio [[motifs/love|amore]] a padre e madre e ad Austin. Digli a Margaret che mi ricordo di lei, e spero che [[characters/richard|Richard]] stia bene. Quanto vorrei poter riposare tutti coloro che si stanno prendendo cura di me.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_saturday_eve" data-title="To Dr. J. G. Holland, and Mrs. Holland, Saturday Eve" data-chapter="" data-kind="intro" data-tags="motif/snow,motif/birds,motif/flowers,motif/home,motif/light_and_dark,concept/friendship,concept/joy,concept/hope,form/letter,setting/new_england,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -321,6 +342,7 @@ The “new house”! [[characters/god|God]] bless it! You will leave the “maid
 [[motifs/love|Love]] and remember
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vengo a fiocchi, caro dottor Holland, perché in verità nevica, e come cigni discendenti, qui una penna e là una penna, e poi d'un tratto una piuma, giungono i luminosi abitanti della bianca [[motifs/home|dimora]].
@@ -335,6 +357,8 @@ La “nuova casa”! [[characters/god|Dio]] la benedica! Vi lascerete alle spall
 
 [[motifs/love|Amate]] e ricordate
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/friendship,concept/communication_and_isolation,concept/longing,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -343,10 +367,13 @@ La “nuova casa”! [[characters/god|Dio]] la benedica! Vi lascerete alle spall
 Probably about 1861 came this brilliant, yet half pathetic, arraignment of the friends who had not written when Emily expected to hear. Who could resist such a plea?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Probabilmente intorno al 1861 arrivò questa brillante, ma al contempo un po’ patetica, accusa rivolta agli amici che non avevano scritto quando Emily si aspettava di ricevere loro notizie. Chi avrebbe potuto resistere a una tale supplica?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/love,concept/friendship,concept/communication_and_isolation,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -355,10 +382,13 @@ Probabilmente intorno al 1861 arrivò questa brillante, ma al contempo un po’ 
 Vinnie hallos from the world of [[motifs/night|night]]-caps, “don't forget her [[motifs/love|love]].”
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vinnie saluta dal mondo delle [[motifs/night|tute notturne]]: “Non dimenticate il suo [[motifs/love|amore]]”.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_wednesday" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Wednesday" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/letters_writing,concept/friendship,concept/communication_and_isolation,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -369,12 +399,15 @@ Dear Mr. Bowles's note, of itself a blossom, came only to-[[motifs/night|night]]
 I am glad it lingered, for each was all the heart could hold.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La nota del caro signor Bowles, in sé un fiore, arrivò soltanto di [[motifs/night|notte]].
 
 Sono felice che sia rimasto, perché ogni singolo di essi rappresentava tutto ciò che il cuore poteva contenere.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_1873" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, 1873" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/food_feasting,motif/seasons,concept/friendship,concept/wonder,concept/the_unattainable,concept/immortality,form/letter,histref/the_orient,setting/the_orient,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -395,6 +428,7 @@ In your own beautiful words—for the voice is the palace of all of us,—
 “Near, but remote.”
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, è stato davvero delizioso rivederti. Un’esperienza che rende possibili tutte le [[motifs/seasons|stagioni]] e permette di esprimere ogni tipo di capriccio.
@@ -411,6 +445,8 @@ Con le tue stesse parole incantevoli… perché la voce è il palazzo di tutti n
 
 "Vicino, ma lontano."
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="archetype/mentor,motif/summer,motif/home,concept/friendship,concept/patience_and_waiting,concept/education,form/letter,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -431,6 +467,7 @@ If I still entreat you to teach me, are you much displeased? I will be patient, 
 Except the smaller size No lives are round. These hurry to a sphere And show and end. The larger slower grow And later hang; The summers of Hesperides Are long.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, — chi veniva compreso dal mio cane non poteva sfuggire agli occhi degli altri.
@@ -447,6 +484,8 @@ Se continuo a supplicarti di insegnarmi, ti dispiace molto? Sarò paziente, cost
 
 Ad eccezione delle dimensioni più piccole, nessuna vita ha una forma perfettamente rotonda. Queste forme si sviluppano rapidamente fino a assumere la forma di una sfera, per poi esaurirsi e terminare il loro ciclo vitale. Le forme più grandi, invece, crescono più lentamente e rimangono sospese nell’aria più a lungo; le “estati” delle Hesperidi, in questo caso, sono davvero lunghe.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson_acknowledging_a_photogra" data-title="To Mr. Thomas Wentworth Higginson, Acknowledging a photograph, 1876" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/flowers,motif/summer,motif/home,concept/friendship,concept/joy,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -471,6 +510,7 @@ My brother and sister speak of you, and covet your remembrance, and perhaps you 
 [[motifs/summer|Summer]] laid her supple glove In its sylvan drawer— Wheresoe'er, or was she The demand of awe?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, — a parte la tua visita, non conosco dono più grande; anzi, in un certo senso, supera tutti gli altri, poiché è permanente.
@@ -491,6 +531,8 @@ Mio fratello e mia sorella parlano di voi e desiderano che venga ricordato il vo
 
 [[motifs/summer|Estate]] mise il suo guanto flessibile nel cassetto tra gli alberi. Ovunque si trovasse, o forse era proprio lei a suscitare quell’ammirazione reverenziale?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="motif/prayer,motif/snow,concept/friendship,concept/longing,concept/solitude,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -503,6 +545,7 @@ Must I lose the friend that saved my life without inquiring why? Affection grope
 That every bliss we know or guess hourly befall him, is his scholar's [[motifs/prayer|prayer]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dopo un intervallo di [[motifs/silence|silenzio]], arrivò questa [[forms/letter|lettera]] nello stesso anno:—
@@ -511,6 +554,8 @@ Devo perdere l’amico che mi ha salvato la vita senza nemmeno chiedere il motiv
 
 Che ogni felicità che conosciamo o immaginiamo gli accada ogni ora, è la preghiera del suo studioso.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_rev_perez_d_cowan_october_26_1870" data-title="To the Rev. Perez D. Cowan, October 26, 1870" data-chapter="" data-kind="intro" data-tags="motif/home,motif/marriage,concept/friendship,concept/joy,concept/marriage_and_fidelity,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -525,6 +570,7 @@ I shall like to take it.
 [[motifs/home|Home]] is the definition of [[characters/god|God]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Peter, —È davvero una notizia meravigliosa. Sono orgoglioso della tua felicità. A Peter, e a chi appartiene a Peter, posso offrire entrambe le mie mani in segno di affetto. La gioia non ha rivali, quindi è sempre la cosa più preziosa.
@@ -535,6 +581,8 @@ Vorrei prenderlo.
 
 [[motifs/home|Casa]] è la definizione stessa di [[characters/god|Dio]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney_august_19_1885" data-title="To Miss Maria Whitney, August 19, 1885" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/letters_writing,concept/friendship,concept/communication_and_isolation,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -547,6 +595,7 @@ That your loved confederate and yourself are in ceaseless peace is my happy [[co
 The sweet-peas you hallowed stand in carmine sheaves. Would that you could plunder them.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —posso chiederti un favore così sacro? Potresti scrivere e inviare una lettera all’amica di mio amico, la signora Jackson? Non conosco l’indirizzo del signor Jackson e desidero scrivergli.
@@ -555,6 +604,8 @@ Che il vostro caro alleato e voi stessi si trovino in una pace perpetua è la mi
 
 I piselli dolci, raccolti in ghirlande di colore rosso, sembrano così deliziosi. Vorrei tanto poterli raccogliere tutti.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_edward_tuckerman_1880" data-title="To Mrs. Edward Tuckerman, 1880" data-chapter="" data-kind="intro" data-tags="motif/love,concept/love_romantic,concept/truth,concept/paradox,concept/doubt,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -563,10 +614,13 @@ I piselli dolci, raccolti in ghirlande di colore rosso, sembrano così deliziosi
 [[motifs/love|Love]] is done when [[motifs/love|love]]'s begun, Sages say. But have sages known? [[concepts/truth|Truth]] adjourn your boon Without day.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Gli saggi dicono che l’[[motifs/love|Amore]] finisca non appena inizia. Ma hanno davvero gli saggi conosciuto la [[concepts/truth|Verità]]? Lascia che il tuo dono si attardi, senza alcun limite di tempo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fs_cooper" data-title="To Mrs. F.S. Cooper" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,concept/love_divine,concept/love_romantic,concept/immortality_divine,form/letter,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -575,10 +629,13 @@ Gli saggi dicono che l’[[motifs/love|Amore]] finisca non appena inizia. Ma han
 “Give me thine heart” is too peremptory a courtship for earth, however irresistible in Heaven.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 “Dammi il tuo cuore” è un modo troppo imperioso di corteggiare sulla Terra, anche se irresistibile in Cielo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="theodore_holland" data-title="To Mr. Theodore Holland" data-chapter="" data-kind="intro" data-tags="topos/the_sublime_in_nature,motif/stars,motif/the_book,motif/the_sea,concept/wonder,concept/beauty,concept/faith,concept/inexpressibility,form/letter,histref/the_bible,character/peter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -591,6 +648,7 @@ But excuse me—I know but little. Please tell me how it might seem to you.
 How vast is the chastisement of [[concepts/beauty|beauty]], given us by our Maker! A word is inundation, when it comes from the [[motifs/sea|sea]].
 
 Peter took the marine walk at the great risk.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -602,3 +660,5 @@ Ma scusate, so poco. Per favore, ditemi come potrebbe sembrarvi.
 Quanto è vasta la punizione inflitta alla [[concepts/beauty|bellezza]] da parte del nostro Creatore! Una parola diventa un’inondazione quando proviene dal [[motifs/sea|mare]].
 
 Peter percorse il sentiero lungo il mare, a grande rischio.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

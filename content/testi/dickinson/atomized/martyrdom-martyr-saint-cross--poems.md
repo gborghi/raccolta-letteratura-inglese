@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/martyrdom-martyr-saint-cross--poems" data-author="Dickinson" data-workhref="works/martyrdom-·-martyr-saint-·-cross-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 85. "They have not chosen me," he said, · 217. Savior! I've no one else to tell — · 295. Unto like Story — Trouble has enticed me — · 313. I should have been too glad, I see — · 317. Just so — Jesus — raps — · 325. Of Tribulation, these are They, · 474. They put Us far apart — · 488. Myself was formed — a Carpenter — · 497. He strained my faith — · 502. At least — to pray — is left — is left — · 527. To put this World down, like a Bundle — · 549. That I did always love · 553. One Crucifixion is recorded — only — · 554. The Black Berry — wears a Thorn in his side — · 573. The Test of Love — is Death — · 698. Life — is what we make of it — · 792. Through the strait pass of suffering — · 964. "Unto Me?" I do not know you — · 1109. I fit for them — · 1487. The Savior must have been · 1574. No ladder needs the bird but skies · 1736. Proud of my broken heart, since thou didst break it,
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="ey_have_not_chosen_me_he_said" data-title="85. &quot;They have not chosen me,&quot; he said," data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,concept/faith,concept/alienation,form/lyric,histref/the_bible,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
 
 
@@ -30,6 +33,7 @@ Sovereign! Know a Daisy
 They dishonor shared!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "Non mi hanno scelto," disse,  
@@ -42,6 +46,8 @@ Ma poiché Gesù osò —
 Sovrano! Sappi che una Margherita  
 Il loro disonore condivise!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="vior_ive_no_one_else_to_tell" data-title="217. Savior! I've no one else to tell —" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/faith,concept/love_divine,concept/humility,form/lyric,histref/christianity,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -61,6 +67,7 @@ Yet — strangest — heavier since it went —
 Is it too large for you?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Salvatore! Non ho nessun altro a cui dirlo —  
@@ -76,6 +83,8 @@ Finché il mio si fece troppo pesante —
 Eppure — stranissimo — più pesante da che è andato —  
 È troppo grande per te?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="to_like_story_trouble_has_enticed_me" data-title="295. Unto like Story — Trouble has enticed me —" data-chapter="" data-kind="intro" data-tags="archetype/martyr,archetype/rebel,motif/the_cross,motif/light_and_dark,concept/martyrdom,concept/heroism,form/lyric,histref/christianity,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -109,6 +118,7 @@ Beckoning — Etruscan invitation —
 Toward Light —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 A simile Storia — l'Affanno mi ha attratta —  
@@ -138,6 +148,8 @@ Addestrati a splendore —
 Accennando — Etrusco invito —  
 Verso la Luce —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="should_have_been_too_glad_i_see" data-title="313. I should have been too glad, I see —" data-chapter="" data-kind="intro" data-tags="motif/the_cross,concept/grace_and_redemption,concept/faith,concept/martyrdom,form/lyric,histref/the_bible,histref/christianity,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -171,6 +183,7 @@ Endear the Coast — beyond!
 "[[concepts/faith|Faith]]" bleats — to understand!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sarei stata troppo lieta, vedo —  
@@ -200,6 +213,8 @@ Sono i Mendicanti — che i Banchetti san definire —
 È l'Arsura — che vivifica il Vino —  
 La "[[concepts/faith|Fede]]" bela — per capire!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="st_so_jesus_raps" data-title="317. Just so — Jesus — raps —" data-chapter="" data-kind="intro" data-tags="motif/the_window,concept/love_divine,concept/grace_and_redemption,concept/self_and_soul,concept/faith,form/lyric,histref/christianity,histref/the_bible,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -218,6 +233,7 @@ Patient — upon the steps — until then —
 Hears! I am knocking — low at thee.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Proprio così — Gesù — bussa —  
@@ -232,6 +248,8 @@ Sarà ampio [[motifs/time|tempo]] per — me —
 Paziente — sugli scalini — fino ad allora —  
 Ode! Sto bussando — sommessa a te.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_tribulation_these_are_they" data-title="325. Of Tribulation, these are They," data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/white_and_red,motif/clothing,motif/the_road,concept/martyrdom,concept/grace_and_redemption,concept/immortality,concept/heroism,form/lyric,histref/the_bible,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -258,6 +276,7 @@ But we — stood whispering in the House —
 And all we said — was "Saved"!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Della Tribolazione, questi sono Essi,  
@@ -280,6 +299,8 @@ Quando la [[motifs/night|Night]] divorò la [[motifs/road|Road]] —
 Ma noi — stavamo sussurrando nella Casa —  
 E tutto ciò che dicemmo — fu "Salvi"!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ey_put_us_far_apart" data-title="474. They put Us far apart —" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/eyes_sight,motif/swords_weapons,concept/martyrdom,concept/marriage_and_fidelity,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -316,6 +337,7 @@ Each other's Face — was all the Disc
 Each other's setting — saw —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ci posero lontani —  
@@ -348,6 +370,8 @@ Del Paradiso — consapevoli —
 Il Viso l'uno dell'altro — era tutto il Disco  
 Il tramonto l'uno dell'altro — vide —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="self_was_formed_a_carpenter" data-title="488. Myself was formed — a Carpenter —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,concept/the_artist_and_society,concept/identity,concept/faith,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -369,6 +393,7 @@ Against the Man — persuaded —
 We — Temples build — I said —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Io fui formata — Falegname —  
@@ -386,6 +411,8 @@ Il Banco, dove avevamo faticato —
 Contro l'Uomo — persuasero —  
 Noi — Templi costruiamo — dissi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_strained_my_faith" data-title="497. He strained my faith —" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/faith_and_doubt,concept/martyrdom,concept/doubt,histref/the_bible,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -412,6 +439,7 @@ Jesus — it's your little "John"!
 Don't you know — me?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ha teso la mia [[concepts/faith|fede]] —  
@@ -434,6 +462,8 @@ Il suo dolce [[concepts/forgiveness|perdono]] —
 Gesù — è il tuo piccolo "John"!  
 Non conosci — me?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_least_to_pray_is_left_is_left" data-title="502. At least — to pray — is left — is left —" data-chapter="" data-kind="intro" data-tags="motif/storm,concept/faith,concept/doubt,concept/alienation,histref/the_bible,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -450,6 +480,7 @@ Say, Jesus [[characters/christ|Christ]] of Nazareth —
 Hast thou no Arm for Me?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Almeno — pregare — resta — resta —  
@@ -462,6 +493,8 @@ E il Maelstrom, nel [[motifs/sea|Mare]] —
 Di', Gesù [[characters/christ|Cristo]] di Nazareth —  
 Non hai un Braccio per Me?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_put_this_world_down_like_a_bundle" data-title="527. To put this World down, like a Bundle —" data-chapter="" data-kind="intro" data-tags="topos/contemptus_mundi,motif/the_cross,motif/bread_and_wine_eucharist,motif/white_and_red,concept/martyrdom,histref/the_bible,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -487,6 +520,7 @@ With the Brand of the Gentile Drinker
 Who indorsed the Cup —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Posare questo Mondo, come un Fardello —  
@@ -508,6 +542,8 @@ Patente, ogni goccia,
 Col Marchio del Bevitore Gentile  
 Che avallò il Calice —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_i_did_always_love" data-title="549. That I did always love" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/the_cross,concept/love_romantic,concept/immortality,concept/love_divine,histref/the_bible,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -529,6 +565,7 @@ Nothing to show
 But Calvary —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che io abbia sempre [[motifs/love|amato]]  
@@ -546,6 +583,8 @@ Allora non ho
 Nulla da mostrare  
 Se non il Calvario —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_crucifixion_is_recorded_only" data-title="553. One Crucifixion is recorded — only —" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,motif/the_cross,concept/martyrdom,concept/grief_and_loss,concept/faith,histref/the_bible,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -572,6 +611,7 @@ There's newer — nearer Crucifixion
 Than That —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Crocifissione è registrata — soltanto —  
@@ -594,6 +634,8 @@ Eppure —
 C'è più nuova — più vicina Crocifissione  
 Di Quella —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_black_berry_wears_a_thorn_in_his_side" data-title="554. The Black Berry — wears a Thorn in his side —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,archetype/christ_figure,motif/nature,motif/the_cross,concept/martyrdom,concept/grief_and_loss,concept/heroism,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -617,6 +659,7 @@ A little further reaches — instead —
 Brave Black Berry —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 —  
@@ -636,6 +679,8 @@ Questa Dolente — verso il Cielo
 Un poco più oltre si protende — invece —  
 Coraggiosa Mora —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_test_of_love_is_death" data-title="573. The Test of Love — is Death —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/the_cross,motif/dust,concept/love_divine,concept/martyrdom,concept/love_romantic,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -657,6 +702,7 @@ Last — Least —
 The [[motifs/cross|Cross]]' — Request —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Prova dell'[[motifs/love|Amore]] — è la [[motifs/death|Morte]] —  
@@ -674,6 +720,8 @@ E trascura — la [[motifs/dust|Polvere]] —
 Ultima — Minima —  
 Della [[motifs/cross|Croce]] — la Richiesta —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="fe_is_what_we_make_of_it" data-title="698. Life — is what we make of it —" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,motif/the_journey,concept/faith,concept/immortality,concept/mortality,concept/grace_and_redemption,concept/love_divine,form/lyric,histref/christianity,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -700,6 +748,7 @@ Base must be the Coward
 Dare not venture — now —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Vita — è ciò che ne facciamo —  
@@ -722,6 +771,8 @@ Tenero Pioniere —
 Vile dev'essere il Codardo  
 Che non osa avventurarsi — ora —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rough_the_strait_pass_of_suffering" data-title="792. Through the strait pass of suffering —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,archetype/martyr,motif/stars,concept/martyrdom,concept/faith,concept/suffering,concept/grace_and_redemption,form/lyric,form/hymn,histref/christianity,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -743,6 +794,7 @@ The Needle — to the North Degree —
 Wades — so — thro' polar Air!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Attraverso lo stretto passo della [[concepts/suffering|sofferenza]] —  
@@ -760,6 +812,8 @@ La loro Attesa — serena —
 L'Ago — verso il Grado Nord —  
 Avanza — così — per l'Aria polare!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="to_me_i_do_not_know_you" data-title="964. &quot;Unto Me?&quot; I do not know you —" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,concept/grace_and_redemption,concept/love_divine,concept/faith,concept/humility,form/dramatic_monologue,histref/the_bible,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -783,6 +837,7 @@ Is esteemed in Heaven the Chiefest —
 Occupy my House" —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "A Me?" Io non ti conosco —  
@@ -802,6 +857,8 @@ Sono piccola — "Il Minimo
 È stimato in Cielo il Sommo —  
 Occupa la mia Casa" —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="fit_for_them" data-title="1109. I fit for them —" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/light_and_dark,concept/martyrdom,concept/humility,form/lyric,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -818,6 +875,7 @@ If not I had
 The transport of the Aim —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi preparo per loro —  
@@ -830,6 +888,8 @@ Un cibo più puro per loro, se riesco,
 Se no, avevo avuto  
 Il rapimento della Meta —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_savior_must_have_been" data-title="1487. The Savior must have been" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,concept/grace_and_redemption,concept/humility,histref/christianity,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -846,6 +906,7 @@ Was leveled, but for that 'twould be
 A rugged billion [[characters/miles|Miles]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Salvatore dev'essere stato  
@@ -858,6 +919,8 @@ Da quando Lui ed io eravamo Ragazzi
 Fu spianata, ma se no sarebbe  
 Un aspro miliardo di [[characters/miles|Miglia]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_ladder_needs_the_bird_but_skies" data-title="1574. No ladder needs the bird but skies" data-chapter="" data-kind="intro" data-tags="motif/birds,concept/freedom,concept/faith,concept/grace_and_redemption,form/lyric,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -873,6 +936,7 @@ As Jesus says of Him,
 That wafts the cherubim.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nessuna scala occorre all'uccello se non cieli  
@@ -884,6 +948,8 @@ Come Gesù dice di Sé,
 "Venite a me" la metà  
 Che sospinge i cherubini.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="oud_of_my_broken_heart_since_thou_didst_break_it" data-title="1736. Proud of my broken heart, since thou didst break it," data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/christ_figure,motif/the_cross,motif/wine_and_drink,concept/unrequited_love,concept/martyrdom,form/lyric,histref/christianity,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -902,6 +968,7 @@ Was the strong cup of anguish brewed for the Nazarene
 
 Thou can'st not pierce [[concepts/tradition|tradition]] with the peerless puncture,  
 See! I usurped thy crucifix to honor mine!
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -919,3 +986,5 @@ Fu la forte coppa d'angoscia versata per il Nazareno
 
 Tu non puoi trafiggere la [[concepts/tradition|tradizione]] con l'impareggiabile puntura,  
 Vedi! Usurpai il tuo crocifisso per onorare il mio!
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

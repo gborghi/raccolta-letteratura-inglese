@@ -45,6 +45,7 @@ I shall observe your precept, though I don't understand it, always.
 I marked a line in one verse, because I met it after I made it, and never consciously touch a paint mixed by another person. I do not let go it, because, it is mine.
 
 Have you the portrait of Mrs. Browning? Persons sent me three. If you had none, will you have mine?
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -80,3 +81,5 @@ Osserverò sempre il tuo precetto, anche se non lo capisco.
 Ho segnato una linea in un verso, perché l’ho incontrata dopo averla creata; non tocco mai consapevolmente colori mescolati da altre persone. Non li lascio andare, perché appartengono a me.
 
 Avete il ritratto della signora Browning? Qualcuno mi ne ha inviati tre. Se non ne avete nessuno, vorreste prendere il mio?
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

@@ -39,6 +39,10 @@ tags:
 - [[works/lines-to-a-comic-author,-on-an-abusive-review-(coleridge)|LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW (Coleridge)]]
 - [[works/love’s-labour’s-won---a-brief-account-(shakespeare)|LOVE’S LABOUR’S WON - A BRIEF ACCOUNT (Shakespeare)]]
 - [[works/midsummer-nights-dream-(chesterton)|midsummer nights dream (Chesterton)]]
+<<<<<<< HEAD
+=======
+- [[works/mélange-adultère-de-tout-(eliot)|Mélange Adultère de Tout (Eliot)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/not-a-critic-—-but-a-judge-(coleridge)|NOT A CRITIC — BUT A JUDGE (Coleridge)]]
 - [[works/notes-by-professor-saintsbury-(coleridge)|NOTES BY PROFESSOR SAINTSBURY (Coleridge)]]
 - [[works/on-evil-euphemisms-(chesterton)|on evil euphemisms (Chesterton)]]

@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/sea-water--poems" data-author="Dickinson" data-workhref="works/sea-·-water-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 4. On this wondrous sea · 30. Adrift! A little boat adrift! · 52. Whether my bark went down at sea — · 76. Exultation is the going · 107. 'Twas such a little — little boat · 201. Two swimmers wrestled on the spar — · 466. 'Tis little I — could care for Pearls — · 490. To One denied the drink · 520. I started Early — Took my Dog — · 693. Shells from the Coast mistaking — · 695. As if the Sea should part · 723. It tossed — and tossed — · 739. I many times thought Peace had come · 867. Escaping backward to perceive · 875. I stepped from Plank to Plank · 904. Had I not This, or This, I said, · 1113. There is strength in proving that it can be borne · 1198. A soft Sea washed around the House · 1210. The Sea said "Come" to the Brook — · 1263. There is no Frigate like a Book · 1281. A stagnant pleasure like a Pool · 1604. We send the Wave to find the Wave — · 1749. The waters chased him as he fled,
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_this_wondrous_sea" data-title="4. On this wondrous sea" data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/the_sea,motif/a_ship,motif/storm,concept/immortality,concept/faith,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
 
 
@@ -36,6 +39,7 @@ Land Ho! [[concepts/eternity|Eternity]]!
 Ashore at last!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Scrivi! Compagno, scrivi!  
@@ -54,6 +58,8 @@ Là io ti piloto -
 Terra in vista! [[concepts/eternity|Eternità]]!  
 A riva finalmente!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rift_a_little_boat_adrift" data-title="30. Adrift! A little boat adrift!" data-chapter="" data-kind="intro" data-tags="motif/a_ship,motif/the_sea,motif/storm,motif/night,concept/mortality,concept/grace_and_redemption,form/allegory,cluster/sea,cluster/water"></span>
@@ -76,6 +82,7 @@ Retrimmed its masts — redecked its sails —
 And shot — exultant on!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Alla deriva! Una piccola barca alla deriva!  
@@ -94,6 +101,8 @@ Una piccola barca — sfinita dalle burrasche —
 Rialzò gli alberi — rifece le vele —  
 E filò — esultante avanti!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ether_my_bark_went_down_at_sea" data-title="52. Whether my bark went down at sea —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/mortality,concept/doubt,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -110,6 +119,7 @@ This is the errand of the eye
 Out upon the bay.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se la mia barca affondò in [[motifs/sea|mare]],  
@@ -122,6 +132,8 @@ Ella sia oggi trattenuta, —
 Questa è la missione dell'occhio  
 Là fuori sulla baia.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ultation_is_the_going" data-title="76. Exultation is the going" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/immortality,concept/joy,concept/self_and_soul,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -138,6 +150,7 @@ The divine intoxication
 Of the first league out from land?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Esultanza è l'andare  
@@ -150,6 +163,8 @@ Può il marinaio comprendere
 La divina ebbrezza  
 Della prima lega via da terra?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="as_such_a_little_little_boat" data-title="107. 'Twas such a little — little boat" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/water,motif/the_journey,concept/mortality,concept/transience,form/allegory,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -166,6 +181,7 @@ Nor ever guessed the stately sails
 My little craft was lost!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Era una così piccola — piccola barca  
@@ -178,6 +194,8 @@ che la leccò via dalla Costa —
 né mai sospettarono le vele maestose  
 che il mio piccolo scafo era perduto!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_swimmers_wrestled_on_the_spar" data-title="201. Two swimmers wrestled on the spar —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/death,motif/eyes_sight,motif/dawn,concept/mortality,concept/doubt,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -194,6 +212,7 @@ With eyes in [[motifs/death|death]] still begging raised,
 And hands beseeching thrown.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Due nuotatori lottarono sul pennone  
@@ -206,6 +225,8 @@ Portato sulle acque,
 Con occhi levati che in [[motifs/death|morte]] ancora imploravano,  
 E mani gettate in supplica.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_little_i_could_care_for_pearls" data-title="466. 'Tis little I — could care for Pearls —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/the_sea,concept/self_and_soul,concept/joy,cluster/sea,cluster/water"></span>
@@ -222,6 +243,7 @@ A Diadem to fit a Dome —
 Continual upon me —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Poco potrei — curarmi di Perle —  
@@ -234,6 +256,8 @@ O di Diamanti — quando ho
 Un Diadema a misura di Cupola —  
 Continuo su di me —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_one_denied_the_drink" data-title="490. To One denied the drink" data-chapter="" data-kind="intro" data-tags="motif/water,motif/desire,concept/grief_and_loss,concept/unrequited_love,cluster/sea,cluster/water"></span>
@@ -250,6 +274,7 @@ Remind Him, would it not, somewhat
 Of His condemned lip?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 A Chi è negato di bere  
@@ -262,6 +287,8 @@ E fargli udire il gocciolìo
 Gli rammenterebbe, non è vero, un poco  
 Il Suo labbro condannato?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="started_early_took_my_dog" data-title="520. I started Early — Took my Dog —" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/the_sea,motif/desire,motif/water,setting/the_sea,character/death_personified,cluster/sea,cluster/water"></span>
@@ -298,6 +325,7 @@ And bowing — with a Mighty look —
 At me — The [[motifs/sea|Sea]] withdrew —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Uscii di Buonora — Presi il mio Cane —  
@@ -330,6 +358,8 @@ Nessuno che Lui paresse conoscere —
 E inchinandosi — con uno Sguardo Possente —  
 Verso di me — il [[motifs/sea|Mare]] si ritirò —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ells_from_the_coast_mistaking" data-title="693. Shells from the Coast mistaking —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/love_romantic,concept/memory_and_time,concept/beauty,concept/appearance_vs_reality,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -346,6 +376,7 @@ Therefore — the Pearl responded —
 My Period begin
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Conchiglie dalla Costa scambiando —  
@@ -358,6 +389,8 @@ Il mio bisogno di Te — sia compiuto —
 Perciò — rispose la Perla —  
 La mia Epoca cominci
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_if_the_sea_should_part" data-title="695. As if the Sea should part" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/immortality,concept/the_sublime,concept/faith,concept/wonder_and_gratitude,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -374,6 +407,7 @@ Themselves the Verge of Seas to be —
 [[concepts/eternity|Eternity]] — is Those —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come se il [[motifs/sea|Mare]] si aprisse  
@@ -386,6 +420,8 @@ Non visitati da Rive —
 Essi stessi Orlo di Mari a venire —  
 [[concepts/eternity|Eternità]] — è Quelli —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_tossed_and_tossed" data-title="723. It tossed — and tossed —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/storm,motif/a_ship,motif/death,concept/mortality,concept/the_natural_order,concept/grief_and_loss,form/lyric,form/allegory,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -407,6 +443,7 @@ The Ocean's Heart too smooth — too Blue —
 To break for You —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sbandava — e sbandava —  
@@ -424,6 +461,8 @@ A Ciurma e a Te —
 Il Cuore dell'Oceano troppo liscio — troppo Azzurro —  
 Per spezzarsi per Te —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="many_times_thought_peace_had_come" data-title="739. I many times thought Peace had come" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/a_ship,concept/disillusionment,concept/melancholy,concept/grief_and_loss,concept/desire,form/lyric,cluster/sea,cluster/water"></span>
@@ -440,6 +479,7 @@ How many the fictitious Shores —
 Before the Harbor be —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Molte volte pensai che la Pace fosse giunta  
@@ -452,6 +492,8 @@ Senza speranza quanto me —
 Quante le Rive fittizie —  
 Prima che il Porto sia —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="caping_backward_to_perceive" data-title="867. Escaping backward to perceive" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/the_sublime,concept/terror_and_horror,concept/faith,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -468,6 +510,7 @@ Our undermining feet to meet
 Instructs to the Divine.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fuggendo all'indietro per scorgere  
@@ -480,6 +523,8 @@ Ritraendosi accecati in giù
 A incontrare i nostri piedi che franano  
 Ammaestra al Divino.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="stepped_from_plank_to_plank" data-title="875. I stepped from Plank to Plank" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/the_sea,motif/stars,concept/endurance,concept/fate_and_free_will,form/lyric,cluster/sea,cluster/water"></span>
@@ -496,6 +541,7 @@ This gave me that precarious Gait
 Some call Experience.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Passavo di Asse in Asse  
@@ -508,6 +554,8 @@ Sarebbe stato il mio pollice finale —
 Questo mi diede quell'Andatura precaria  
 Che alcuni chiamano Esperienza.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_i_not_this_or_this_i_said" data-title="904. Had I not This, or This, I said," data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/endurance,concept/grief_and_loss,concept/desire,concept/self_and_soul,form/lyric,cluster/sea,cluster/water"></span>
@@ -534,6 +582,7 @@ To feed upon the Retrograde —
 Enfeebles — the Advance —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non avessi Questo, o Questo, dissi,  
@@ -556,6 +605,8 @@ Proporzionata alla Sorte —
 Nutrirsi del Regresso —  
 Infiacchisce — l'Avanzata —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_is_strength_in_proving_that_it_can_be_borne" data-title="1113. There is strength in proving that it can be borne" data-chapter="" data-kind="intro" data-tags="motif/a_ship,motif/the_sea,concept/endurance,concept/melancholy,form/fragment,cluster/sea,cluster/water"></span>
@@ -571,6 +622,7 @@ The [[motifs/ship|ship]] might be of satin had it not to fight —
 To walk on seas requires cedar Feet
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 SOPPORTATO  
@@ -582,6 +634,8 @@ Se non a reggere
 La [[motifs/ship|nave]] potrebbe esser di raso se non dovesse lottare —  
 Camminare sui mari richiede Piedi di cedro
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="soft_sea_washed_around_the_house" data-title="1198. A soft Sea washed around the House" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/nature,motif/seasons,concept/joy,concept/imagination,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -597,6 +651,7 @@ And an entire universe
 For the delighted crew.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un morbido [[motifs/sea|Mare]] lavava intorno alla Casa  
@@ -608,6 +663,8 @@ Ché Timoniere era l'Ape
 E un universo intero  
 Per l'equipaggio deliziato.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sea_said_come_to_the_brook" data-title="1210. The Sea said &quot;Come&quot; to the Brook —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/river,motif/water,concept/identity,form/allegory,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -624,6 +681,7 @@ You cherished" — "Learned Waters —
 Wisdom is stale to Me" —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/sea|Mare]] disse "Vieni" al Ruscello —  
@@ -636,6 +694,8 @@ Il [[motifs/sea|Mare]] disse "Io sono colui
 Che amavi" — "Acque Dotte —  
 La Saggezza è stantia per Me" —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_is_no_frigate_like_a_book" data-title="1263. There is no Frigate like a Book" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/the_journey,motif/the_sea,motif/horse,concept/imagination,concept/self_and_soul,concept/joy,form/lyric,form/epigram,cluster/sea,cluster/water"></span>
@@ -651,6 +711,7 @@ How frugal is the Chariot
 That bears the Human [[motifs/soul|soul]]
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non c'è Fregata come un Libro  
@@ -662,6 +723,8 @@ Senza oppressione di Pedaggio—
 Com'è frugale il Carro  
 Che porta l'[[motifs/soul|anima]] Umana
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="stagnant_pleasure_like_a_pool" data-title="1281. A stagnant pleasure like a Pool" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/water,concept/joy,concept/melancholy,concept/transience,concept/paradox,form/lyric,cluster/sea,cluster/water"></span>
@@ -678,6 +741,7 @@ Yet even this shall rouse itself
 When freshets come along.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un piacere stagnante come una Pozza  
@@ -690,6 +754,8 @@ Delle Ombre che scendono
 Eppure anch'esso si ridesterà  
 Quando giungeranno le piene.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_send_the_wave_to_find_the_wave" data-title="1604. We send the Wave to find the Wave —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/water,concept/paradox,concept/love_romantic,concept/fate_and_free_will,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -704,6 +770,7 @@ Soever made in vain,
 The sagest [[motifs/time|time]] to dam the [[motifs/sea|sea]] is when the [[motifs/sea|sea]] is gone —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mandiamo l'Onda a cercare l'Onda —  
@@ -714,6 +781,8 @@ Facciamo ancora la savia distinzione,
 Per quanto fatta invano,  
 Il [[motifs/time|tempo]] più saggio per arginare il [[motifs/sea|mare]] è quando il [[motifs/sea|mare]] è andato —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_waters_chased_him_as_he_fled" data-title="1749. The waters chased him as he fled," data-chapter="" data-kind="intro" data-tags="motif/water,motif/the_sea,motif/death,concept/terror_and_horror,concept/mortality,form/ballad,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -729,6 +798,7 @@ For every palate in the Year" —
 To this revolting bliss  
 The object floating at his side  
 Made no distinct reply.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -743,3 +813,5 @@ Per ogni palato dell'Anno" —
 A questa ripugnante beatitudine  
 L'oggetto che fluttuava al suo fianco  
 Non diede risposta distinta.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

@@ -41,6 +41,10 @@ tags:
 - [[works/phantom-or-fact-a-dialogue-in-verse-(coleridge)|PHANTOM OR FACT A DIALOGUE IN VERSE (Coleridge)]]
 - [[works/something-childish,-but-very-natural-(coleridge)|SOMETHING CHILDISH, BUT VERY NATURAL (Coleridge)]]
 - [[works/sonnet-composed-on-a-journey-homeward;-the-author-having-received-intelligence-(coleridge)|SONNET COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/the-complaint-of-ninathóma-from-the-same-(coleridge)|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/the-day-dream-from-an-emigrant-to-his-absent-wife-(coleridge)|THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE (Coleridge)]]
 - [[works/the-gentle-look-(coleridge)|THE GENTLE LOOK (Coleridge)]]
 - [[works/the-pains-of-sleep-(coleridge)|THE PAINS OF SLEEP (Coleridge)]]

@@ -33,6 +33,10 @@ tags:
 - [[works/profuse-kindness-(coleridge)|PROFUSE KINDNESS (Coleridge)]]
 - [[works/sonnet-(coleridge)-(2)|SONNET (Coleridge) (2)]]
 - [[works/the-alternative-(coleridge)|THE ALTERNATIVE (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/the-ballad-of-the-dark-ladié-(coleridge)|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/the-blossoming-of-the-solitary-date-tree-(coleridge)|THE BLOSSOMING OF THE SOLITARY DATE-TREE (Coleridge)]]
 - [[works/the-hour-glass-(coleridge)|THE HOUR-GLASS (Coleridge)]]
 - [[works/the-mad-monk-(coleridge)|THE MAD MONK (Coleridge)]]

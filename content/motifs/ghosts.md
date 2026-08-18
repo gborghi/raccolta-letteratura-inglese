@@ -30,6 +30,7 @@ tags:
 - [[works/inscription-for-a-time-piece-(coleridge)|INSCRIPTION FOR A TIME-PIECE (Coleridge)]]
 - [[works/limbo-(coleridge)|LIMBO (Coleridge)]]
 - [[works/remorse-(coleridge)|REMORSE (Coleridge)]]
+- [[works/the-complaint-of-ninathóma-from-the-same-(coleridge)|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
 - [[works/a-christmas-carol-(dickens)|A Christmas Carol (Dickens)]]
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]

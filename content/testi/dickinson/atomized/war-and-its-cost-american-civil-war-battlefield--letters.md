@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--letters" data-author="Dickinson" data-workhref="works/war-and-its-cost-·-american-civil-war-·-battlefield-(dickinson)" data-collection="letters"></div>
 
 
+<<<<<<< HEAD
 To the Misses, April, 1862 · To the Misses, About May 30, 1863 · To the Misses, 1881
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_misses_april_1862" data-title="To the Misses, April, 1862" data-chapter="" data-kind="intro" data-tags="archetype/martyr,archetype/hero,motif/death,motif/flowers,motif/swords_weapons,motif/the_grave,concept/death,concept/grief_and_loss,concept/war_and_its_cost,concept/heroism,form/letter,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
 
 
@@ -28,6 +31,7 @@ The bed on which he came was enclosed in a large casket shut entirely, and cover
 So our part in Frazer is done, but you must come next [[motifs/summer|summer]], and we will mind ourselves of this young crusader —too brave that he could [[concepts/fear|fear]] to die. We will play his tunes—maybe he can hear them; we will try to comfort his broken-hearted Ella, who, as the clergyman said, “gave him peculiar confidence.”. . . Austin is stunned completely. Let us [[motifs/love|love]] better, children, it's most that's left to do.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cari bambini, —avete fatto molto per me; è almeno questo che posso fare: raccontarvi della nobile figura di Frazer, che è morto a Newbern. Il suo grande cuore è stato distrutto da una pallottola.
@@ -38,6 +42,8 @@ Il letto su cui giunse era racchiuso in un grande feretro completamente chiuso, 
 
 So che il nostro compito in “Frazer” è finito, ma dovete venire il prossimo [[motifs/summer|estate]], e ci occuperemo di questo giovane crociato, troppo coraggioso per poter  temere la morte. Suoneremo le sue canzoni; forse lui riuscirà a sentirle. Cercheremo anche di consolare sua Ella, il cui cuore è spezzato. Come ha detto il prete, “lei gli aveva un'affetto particolare”. Austin è completamente sbalordito. Amiamo di più, bambini. Questo è ciò che ci resta da fare.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_about_may_30_1863" data-title="To the Misses, About May 30, 1863" data-chapter="" data-kind="intro" data-tags="archetype/orphan,motif/death,motif/night,motif/fire,motif/birds,motif/home,concept/death,concept/fear,concept/friendship,concept/paradox,form/letter,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -54,6 +60,7 @@ Jennie Hitchcock's mother was buried yesterday, so there is one [[archetypes/orp
 Life is [[motifs/death|death]] we're lengthy at, [[motifs/death|Death]] the hinge to life.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ho detto che sarei venuto “entro un giorno”. Emily non fallisce mai, tranne per una ragione particolare. Lo sai, caro L———.
@@ -66,6 +73,8 @@ Ieri è stata sepolta la madre di Jennie Hitchcock; quindi c’è un altro [[arc
 
 La vita è la [[motifs/death|morte]] che viviamo per un lungo periodo; la [[motifs/death|morte]], invece, è l’elemento che collega la vita stessa.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_1881" data-title="To the Misses, 1881" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/fire,motif/bells,motif/snow,motif/seed_and_germination,motif/night,motif/death,concept/death,concept/creativity_and_artistic_labor,concept/friendship,concept/fate_and_free_will,concept/transience,form/letter,setting/new_england,character/thoreau,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -86,6 +95,7 @@ It is startling to think that the lips, which are keepers of thoughts so magical
 We never know we go—when we are going We jest and shut the [[motifs/door|door]]— Fate following behind us bolts it And we accost no more.
 
 I give you my parting [[motifs/love|love]].
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -105,3 +115,5 @@ Le belle parole che L——chiese erano queste: il genio è l’accensione dell�
 Non sappiamo mai quando partiremo; mentre ci prepariamo per andare, scherziamo e chiudiamo la [[motifs/door|porta]]. Ma il Fato, che ci segue da vicino, la chiude a chiave, e poi non possiamo più comunicare con il mondo esterno.
 
 Ti dono il mio amore d’addio.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

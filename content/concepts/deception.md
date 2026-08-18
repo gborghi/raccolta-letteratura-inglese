@@ -57,6 +57,10 @@ tags:
 - [[works/remorse-(coleridge)|REMORSE (Coleridge)]]
 - [[works/talleyrand-to-lord-grenville-(coleridge)|TALLEYRAND TO LORD GRENVILLE (Coleridge)]]
 - [[works/talleyrand,-minister-of-foreign-affairs-at-paris,-to-lord-grenville-(coleridge)|TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/the-ballad-of-the-dark-ladié-(coleridge)|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/the-compliment-qualified-(coleridge)|THE COMPLIMENT QUALIFIED (Coleridge)]]
 - [[works/the-death-of-wallenstein-(coleridge)|THE DEATH OF WALLENSTEIN (Coleridge)]]
 - [[works/the-fall-of-robespierre-(coleridge)|THE FALL OF ROBESPIERRE (Coleridge)]]

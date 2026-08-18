@@ -21,6 +21,10 @@ tags:
 - [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
 - [[works/christabel-(coleridge)|CHRISTABEL (Coleridge)]]
 - [[works/remorse-(coleridge)|REMORSE (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/the-ballad-of-the-dark-ladié-(coleridge)|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/calidore-(keats)|CALIDORE (Keats)]]
 - [[works/otho-the-great-(keats)|Otho the Great (Keats)]]
 - [[works/the-eve-of-st.-agnes-(keats)|THE EVE OF ST. AGNES (Keats)]]

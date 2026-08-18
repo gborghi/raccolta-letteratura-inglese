@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/melancholy-suffering-pain-and-suffering--poems" data-author="Dickinson" data-workhref="works/melancholy-·-suffering-·-pain-and-suffering-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 305. The difference between Despair · 341. After great pain, a formal feeling comes — · 379. Rehearsal to Ourselves · 396. There is a Languor of the Life · 458. Like eyes that looked on Wastes — · 477. No Man can compass a Despair — · 510. It was not Death, for I stood up, · 514. Her smile was shaped like other smiles — · 522. Had I presumed to hope — · 536. The Heart asks Pleasure — first — · 561. I measure every Grief I meet · 572. Delight — becomes pictorial — · 582. Inconceivably solemn! · 584. It ceased to hurt me, though so slow · 588. I cried at Pity — not at Pain — · 589. The Night was wide, and furnished scant · 599. There is a pain — so utter — · 612. It would have starved a Gnat — · 614. In falling Timbers buried — · 618. At leisure is the Soul · 650. Pain — has an Element of Blank — · 705. Suspense — is Hostiler than Death — · 708. I sometimes drop it, for a Quick — · 761. From Blank to Blank — · 762. The Whole of it came not at once — · 770. I lived on Dread — · 786. Severer Service of myself · 963. A nearness to Tremendousness — · 971. Robbed by Death — but that was easy — · 979. This Merit hath the worst — · 985. The Missing All — prevented Me · 1046. I've dropped my Brain — My Soul is numb — · 1049. Pain has but one Acquaintance · 1123. A great Hope fell · 1243. Safe Despair it is that raves — · 1285. I know Suspense — it steps so terse · 1299. Delight's Despair at setting
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="e_difference_between_despair" data-title="305. The difference between Despair" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/the_sea,concept/melancholy,concept/terror_and_horror,concept/self_and_soul,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
 
 
@@ -30,6 +33,7 @@ Upon the Forehead of a Bust —
 That knows — it cannot see —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La differenza tra [[concepts/despair|Disperazione]]  
@@ -42,6 +46,8 @@ Appagata come l'Occhio
 Sulla Fronte di un Busto —  
 Che sa — di non poter vedere —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ter_great_pain_a_formal_feeling_comes" data-title="341. After great pain, a formal feeling comes —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,motif/winter,motif/memory,concept/grief_and_loss,concept/melancholy,concept/self_and_soul,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -64,6 +70,7 @@ As Freezing persons, recollect the [[motifs/snow|Snow]] —
 First — Chill — then Stupor — then the letting go —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dopo una grande [[motifs/pain|pena]], viene un sentire formale —  
@@ -82,6 +89,8 @@ Ricordata, se le si sopravvive,
 Come gli Assiderati, rammentano la [[motifs/snow|Neve]] —  
 Prima — il Freddo — poi lo Stupore — poi il lasciare andare —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="hearsal_to_ourselves" data-title="379. Rehearsal to Ourselves" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,motif/memory,concept/grief_and_loss,concept/pain,concept/melancholy,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -98,6 +107,7 @@ The Dirk Commemorate — Itself
 Remind Us that we died.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Prova a Noi stessi  
@@ -110,6 +120,8 @@ Perché Noi [[motifs/love|amiamo]] la Ferita
 Il Pugnale Commemora — Esso stesso  
 Ci Ricorda che siamo morti.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_is_a_languor_of_the_life" data-title="396. There is a Languor of the Life" data-chapter="" data-kind="intro" data-tags="motif/death,motif/fog_and_smoke,concept/pain,concept/mortality,concept/melancholy,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -136,6 +148,7 @@ Has ministered before Him —
 There's no Vitality.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 C'è un Languore della Vita  
@@ -158,6 +171,8 @@ Un Più Possente di Lui —
 Ha officiato prima di Lui —  
 Non c'è Vitalità.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ke_eyes_that_looked_on_wastes" data-title="458. Like eyes that looked on Wastes —" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/night,concept/melancholy,concept/spiritual_emptiness,concept/unrequited_love,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -184,6 +199,7 @@ Without the Other — Therefore —
 We perish — tho' We reign —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come occhi che fissarono Deserti —  
@@ -206,6 +222,8 @@ Nessuna sarebbe [[characters/queen|Regina]]
 Senza l'Altra — Perciò —  
 Periamo — pur regnando —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_man_can_compass_a_despair" data-title="477. No Man can compass a Despair —" data-chapter="" data-kind="intro" data-tags="motif/the_road,motif/the_journey,concept/melancholy,concept/providence,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -227,6 +245,7 @@ His ignorance — the Angel
 That pilot Him along —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nessun Uomo può percorrere una [[concepts/despair|Disperazione]] —  
@@ -244,6 +263,8 @@ La cui — è appena cominciata —
 La sua ignoranza — l'Angelo  
 Che Lo pilota lungo la via —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_was_not_death_for_i_stood_up" data-title="510. It was not Death, for I stood up," data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_clock,concept/melancholy,concept/order_vs_chaos,concept/alienation,concept/self_and_soul,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -280,6 +301,7 @@ Or even a Report of Land —
 To justify — [[concepts/despair|Despair]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non era [[motifs/death|Morte]], perché stavo in piedi,  
@@ -312,6 +334,8 @@ Senza una Possibilità, o Pennone —
 O anche solo un Annuncio di Terra —  
 A giustificare — [[concepts/despair|la Disperazione]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_smile_was_shaped_like_other_smiles" data-title="514. Her smile was shaped like other smiles —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/masks_disguise,concept/appearance_vs_reality,concept/melancholy,concept/grief_and_loss,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -327,6 +351,7 @@ Convulsive, while the Music broke —
 Like Beads — among the Bog —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il suo sorriso aveva forma d'altri sorrisi —  
@@ -338,6 +363,8 @@ E s'aggrappasse al Ramoscello,
 Convulso, mentre la Musica si spezzava —  
 Come Perline — nella Palude —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_i_presumed_to_hope" data-title="522. Had I presumed to hope —" data-chapter="" data-kind="intro" data-tags="concept/melancholy,concept/grief_and_loss,concept/honour,concept/grace_and_redemption,concept/unrequited_love,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -364,6 +391,7 @@ Till He be justified by [[motifs/death|Death]] —
 This — is the Second Gain —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Avessi presunto di [[concepts/hope|sperare]] —  
@@ -386,6 +414,8 @@ Ché Quello nessun Uomo ottiene
 Finché non sia giustificato dalla [[motifs/death|Morte]] —  
 Questo — è il Secondo Guadagno —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_heart_asks_pleasure_first" data-title="536. The Heart asks Pleasure — first —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/sleep,concept/mortality,concept/grief_and_loss,concept/melancholy,concept/providence,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -402,6 +432,7 @@ The will of its Inquisitor,
 The [[concepts/liberty|liberty]] to die.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il cuore chiede il piacere prima,  
@@ -414,6 +445,8 @@ E poi, se tale fosse
 Il volere del suo Inquisitore,  
 La [[concepts/liberty|libertà]] di morire.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="measure_every_grief_i_meet" data-title="561. I measure every Grief I meet" data-chapter="" data-kind="intro" data-tags="motif/the_cross,motif/eyes_sight,concept/grief_and_loss,concept/melancholy,concept/mortality,concept/martyrdom,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -472,6 +505,7 @@ Still fascinated to presume
 That Some — are like My Own —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Misuro ogni Dolore che incontro  
@@ -526,6 +560,8 @@ E come per lo più si portano —
 Ancora affascinata a presumere  
 Che Alcune — siano come la Mia —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="light_becomes_pictorial" data-title="572. Delight — becomes pictorial —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/light_and_dark,concept/beauty,concept/paradox,concept/melancholy,form/epigram,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -542,6 +578,7 @@ Approached — the Amber flits — a little —
 And That's — the Skies —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Delizia — si fa pittorica —  
@@ -554,6 +591,8 @@ Nell'Ambra — giace —
 Avvicinata — l'Ambra guizza — un poco —  
 E Quelli — sono i Cieli —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="conceivably_solemn" data-title="582. Inconceivably solemn!" data-chapter="" data-kind="intro" data-tags="concept/the_sublime,concept/pain,concept/melancholy,concept/imagination,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -579,6 +618,7 @@ Winces with delight
 Are Drums too near —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Inconcepibilmente solenne!  
@@ -600,6 +640,8 @@ Ma l'Orecchio fine
 Trasale di delizia  
 Se i Tamburi sono troppo vicini —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_ceased_to_hurt_me_though_so_slow" data-title="584. It ceased to hurt me, though so slow" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/pain,concept/suffering,concept/memory_and_time,concept/melancholy,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -625,6 +667,7 @@ Except, whereas 'twas Wilderness —
 It's better — almost Peace —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cessò di farmi male, ma così piano  
@@ -646,6 +689,8 @@ Né cosa lo consolò, saprei rintracciare —
 Se non che, dov'era Deserto —  
 Ora è meglio — quasi Pace —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cried_at_pity_not_at_pain" data-title="588. I cried at Pity — not at Pain —" data-chapter="" data-kind="intro" data-tags="concept/pain,concept/poverty,concept/alienation,concept/grief_and_loss,concept/suffering,concept/mortality,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -682,6 +727,7 @@ Have sobbed ourselves almost to [[motifs/sleep|sleep]],
 Our only Lullaby —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Piansi per la Pietà — non per il [[motifs/pain|Dolore]] —  
@@ -714,6 +760,8 @@ Proprio quando la [[motifs/grave|Tomba]] ed io —
 Ci siamo singhiozzate quasi fino al [[motifs/sleep|sonno]],  
 Nostra unica Ninnananna —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_night_was_wide_and_furnished_scant" data-title="589. The Night was wide, and furnished scant" data-chapter="" data-kind="intro" data-tags="concept/alienation,concept/desire_and_longing,concept/melancholy,concept/nostalgia,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -745,6 +793,7 @@ Unto the Sofa opposite —
 The Sleet — than May, no Thee —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/night|Notte]] era vasta, e arredata scarna  
@@ -772,6 +821,8 @@ Quanto più gradevole — disse lei
 Al Sofà di fronte —  
 Il Nevischio — che Maggio, senza Te —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_is_a_pain_so_utter" data-title="599. There is a pain — so utter —" data-chapter="" data-kind="intro" data-tags="concept/pain,concept/suffering,concept/melancholy,concept/self_and_soul,concept/memory_and_time,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -787,6 +838,7 @@ Goes safely — where an open eye —
 Would drop Him — Bone by Bone.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 C'è un [[motifs/pain|dolore]] — così assoluto —  
@@ -798,6 +850,8 @@ Come chi dentro un Deliquio —
 Va sicuro — dove un occhio aperto —  
 Lo farebbe cadere — Osso per Osso.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_would_have_starved_a_gnat" data-title="612. It would have starved a Gnat —" data-chapter="" data-kind="intro" data-tags="concept/suffering,concept/poverty,concept/alienation,concept/pain,concept/desire_and_longing,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -824,6 +878,7 @@ To gad my little Being out —
 And not begin — again —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Avrebbe affamato un Moscerino —  
@@ -846,6 +901,8 @@ sul Vetro della [[motifs/window|Finestra]]
 di sbattere via il mio piccolo Essere —  
 e non ricominciare — di nuovo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_falling_timbers_buried" data-title="614. In falling Timbers buried —" data-chapter="" data-kind="intro" data-tags="concept/mortality,concept/suffering,concept/grace_and_redemption,concept/terror_and_horror,concept/paradox,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -872,6 +929,7 @@ But there is no Gratitude
 Like the Grace — of [[motifs/death|Death]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sepolto in Travi crollate —  
@@ -894,6 +952,8 @@ Molte Cose — sono infruttuose —
 Ma non c'è Gratitudine  
 Come la Grazia — della [[motifs/death|Morte]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_leisure_is_the_soul" data-title="618. At leisure is the Soul" data-chapter="" data-kind="intro" data-tags="motif/childhood,concept/grief_and_loss,concept/self_and_soul,concept/suffering,concept/melancholy,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -910,6 +970,7 @@ Or humblest Patchwork — Children do —
 To Help its Vacant Hands —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 In ozio è l'[[motifs/soul|Anima]]  
@@ -922,6 +983,8 @@ Ma solo il disporre Spilli —
 O il più umile Rattoppo — da Bambini —  
 Per Aiutare le sue Mani Vuote —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="in_has_an_element_of_blank" data-title="650. Pain — has an Element of Blank —" data-chapter="" data-kind="intro" data-tags="motif/pain,motif/time,concept/suffering,concept/melancholy,concept/memory_and_time,concept/self_and_soul,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -938,6 +1001,7 @@ Its Past — enlightened to perceive
 New Periods — of [[motifs/pain|Pain]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/pain|Dolore]] — ha un Elemento di Vuoto —  
@@ -950,6 +1014,8 @@ I suoi regni Infiniti contengono
 Il suo Passato — illuminato a percepire  
 Nuovi Periodi — di [[motifs/pain|Dolore]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="spense_is_hostiler_than_death" data-title="705. Suspense — is Hostiler than Death —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,concept/mortality,concept/immortality,concept/melancholy,form/lyric,form/epigram,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -966,6 +1032,7 @@ Annihilation — plated fresh
 With [[concepts/immortality|Immortality]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Attesa — è più Ostile della [[motifs/death|Morte]] —  
@@ -978,6 +1045,8 @@ Ma solo di nuovo per morire —
 Annientamento — placcato a nuovo  
 D'[[concepts/immortality|Immortalità]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="sometimes_drop_it_for_a_quick" data-title="708. I sometimes drop it, for a Quick —" data-chapter="" data-kind="intro" data-tags="motif/madness,motif/death,motif/the_sea,concept/melancholy,concept/mortality,concept/grief_and_loss,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1004,6 +1073,7 @@ The Sailor doesn't know the Stroke -
 Until He's past the [[motifs/pain|Pain]] -
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lo lascio a volte, per un Attimo —  
@@ -1026,6 +1096,8 @@ Divora la Fragile Linea -
 Il Marinaio non sa il Colpo -  
 Finché non è oltre il [[motifs/pain|Dolore]] -
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="om_blank_to_blank" data-title="761. From Blank to Blank —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,motif/the_journey,motif/light_and_dark,concept/despair,concept/alienation,concept/melancholy,concept/suffering,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1044,6 +1116,7 @@ I shut my eyes — and groped as [[motifs/well|well]]
 'Twas lighter — to be Blind —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Da Vuoto a Vuoto —  
@@ -1058,6 +1131,8 @@ Indefinito dischiuso —
 Chiusi gli occhi — e brancolai [[motifs/well|ugualmente]]  
 Era più chiaro — esser Cieca —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_whole_of_it_came_not_at_once" data-title="762. The Whole of it came not at once —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/animals,concept/suffering,concept/mortality,concept/terror_and_horror,concept/paradox,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1079,6 +1154,7 @@ Than dying half — then rallying
 For consciouser Eclipse —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Tutto non venne in una volta —  
@@ -1096,6 +1172,8 @@ Più contenti se in una volta —
 Che morire a metà — poi riaversi  
 Per più consapevole Eclissi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="lived_on_dread" data-title="770. I lived on Dread —" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/fear,concept/despair,concept/self_and_soul,concept/paradox,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1113,6 +1191,7 @@ To go without the Sceptre's aid
 Were Challenging [[concepts/despair|Despair]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vivevo di Terrore —  
@@ -1126,6 +1205,8 @@ Una [[concepts/fear|Paura]] la incalza dove
 Andare senza l'aiuto dello Scettro  
 Sarebbe Sfidare la [[concepts/despair|Disperazione]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="verer_service_of_myself" data-title="786. Severer Service of myself" data-chapter="" data-kind="intro" data-tags="motif/death,motif/night,motif/memory,concept/grief_and_loss,concept/suffering,concept/mortality,concept/melancholy,concept/despair,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1162,6 +1243,7 @@ Is [[concepts/nature|Nature]]'s only Pharmacy
 For Being's Malady —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Più Severo Servizio di me stessa  
@@ -1194,6 +1276,8 @@ L'alternativa di morire
 È l'unica Farmacia della [[concepts/nature|Natura]]  
 Per il Male dell'Essere —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="nearness_to_tremendousness" data-title="963. A nearness to Tremendousness —" data-chapter="" data-kind="intro" data-tags="concept/suffering,concept/the_sublime,concept/melancholy,concept/paradox,concept/self_and_soul,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1210,6 +1294,7 @@ In Acres — Its Location
 Is Illocality —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una vicinanza alla Tremendità —  
@@ -1222,6 +1307,8 @@ L'Afflizione non può stare
 In Acri — la Sua Sede  
 È Illocalità —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="bbed_by_death_but_that_was_easy" data-title="971. Robbed by Death — but that was easy —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/eyes_sight,concept/grief_and_loss,concept/suffering,concept/terror_and_horror,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1248,6 +1335,7 @@ Then — seesawing — coolly — on it —
 Trying if it split —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Derubata dalla [[motifs/death|Morte]] — ma fu facile —  
@@ -1270,6 +1358,8 @@ Sull'esito d'un Capello —
 Poi — in altalena — fredda — vi oscilla —  
 Provando se si spezzi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_merit_hath_the_worst" data-title="979. This Merit hath the worst —" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/suffering,concept/fate_and_free_will,concept/paradox,form/epigram,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1286,6 +1376,7 @@ The Deer attracts no further
 Than it resists — the Hound —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questo Merito ha il peggio —  
@@ -1298,6 +1389,8 @@ E guardarsi intorno al sicuro —
 Il Cervo non attrae più in là  
 Di quanto resiste — il Segugio —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_missing_all_prevented_me" data-title="985. The Missing All — prevented Me" data-chapter="" data-kind="intro" data-tags="motif/sun,concept/grief_and_loss,concept/spiritual_emptiness,concept/alienation,concept/melancholy,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1313,6 +1406,7 @@ Could lift my Forehead from my work
 For Curiosity.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Mancare Tutto — Mi impedì  
@@ -1324,6 +1418,8 @@ Non era così grande che Io
 Potessi alzare la Fronte dal mio lavoro  
 Per Curiosità.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_dropped_my_brain_my_soul_is_numb" data-title="1046. I've dropped my Brain — My Soul is numb —" data-chapter="" data-kind="intro" data-tags="motif/stone,concept/madness,concept/suffering,concept/self_and_soul,concept/immortality,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1355,6 +1451,7 @@ And every limit a Decade —
 I'll shiver, satisfied.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ho lasciato cadere il Cervello — La mia [[motifs/soul|Anima]] è intorpidita —  
@@ -1382,6 +1479,8 @@ Pur Secoli più in là,
 E ogni limite un Decennio —  
 Rabbrividirò, soddisfatta.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="in_has_but_one_acquaintance" data-title="1049. Pain has but one Acquaintance" data-chapter="" data-kind="intro" data-tags="motif/death,concept/suffering,concept/mortality,form/epigram,character/death_personified,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1398,6 +1497,7 @@ By just a Second's right —
 And then absconds from Sight.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[motifs/pain|Il Dolore]] non ha che una Conoscenza  
@@ -1410,6 +1510,8 @@ Per il diritto d'un solo Secondo —
 La [[motifs/death|Morte]] teneramente Lo assiste  
 E poi si dilegua dalla Vista.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="great_hope_fell" data-title="1123. A great Hope fell" data-chapter="" data-kind="intro" data-tags="motif/a_ship,motif/the_sea,concept/despair,concept/grief_and_loss,concept/the_inner_life,concept/disillusionment,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1437,6 +1539,7 @@ Until the tender Carpenter
 Perpetual nail it down —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una grande [[concepts/hope|Speranza]] cadde  
@@ -1460,6 +1563,8 @@ Che si apriva al [[motifs/sun|sole]]
 Finché il tenero Falegname  
 Perpetuo non lo inchiodi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="fe_despair_it_is_that_raves" data-title="1243. Safe Despair it is that raves —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/melancholy,concept/grief_and_loss,concept/self_and_soul,concept/paradox,form/aphorism,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1476,6 +1581,7 @@ In the Front of Trouble —
 Nor is Dying [[topoi/double|double]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sicura [[concepts/despair|Disperazione]] è quella che delira —  
@@ -1488,6 +1594,8 @@ Al Fronte del Tormento —
 L'[[motifs/love|Amore]] è uno, non aggregato —  
 Né il Morire è [[topoi/double|doppio]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="know_suspense_it_steps_so_terse" data-title="1285. I know Suspense — it steps so terse" data-chapter="" data-kind="intro" data-tags="motif/the_window,motif/horse,concept/melancholy,concept/identity,concept/grief_and_loss,concept/paradox,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1504,6 +1612,7 @@ And mention to my Horses
 The need is not of me —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Conosco l'Attesa — incede così brusca  
@@ -1516,6 +1625,8 @@ Benché da poco io scorga
 E dica ai miei Cavalli  
 Il bisogno non è di me —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="lights_despair_at_setting" data-title="1299. Delight's Despair at setting" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/desire,motif/sun,concept/joy,concept/melancholy,concept/paradox,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1530,6 +1641,7 @@ Enchantment's Perihelion
 Mistaken oft has been  
 For the Authentic orbit  
 Of its Anterior [[motifs/sun|Sun]].
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1543,3 +1655,5 @@ Il Perielio dell'Incanto
 Spesso è stato scambiato  
 Per l'orbita Autentica  
 Del suo [[motifs/sun|Sole]] Anteriore.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

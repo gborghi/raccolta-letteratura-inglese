@@ -15,7 +15,10 @@ tags:
 
 
 Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moors and the Inquisition, in which Ordonio's jealous attempt to murder his brother Alvar is undone when the disguised Alvar returns and stages a sorcerous conjuration to awaken his brother's conscience. It centres on guilt, remorse, revenge, and the supernatural.
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -60,6 +63,7 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | ALVAR | Voices at a distance!<br>Let us away! |
 | *(didascalia)* | Exeunt. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -96,6 +100,8 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | *(didascalia)* | Entrambi restano in ascolto. |  
 | ALVAR | Voci in lontananza!<br>Via di qui! |  
 | *(didascalia)* | Escono. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -220,6 +226,7 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | ALVAR | 'Tis strange! It cannot be! my Lord Ordonio!<br>Her Lord Ordonio! Nay, I will not do it!<br>I cursed him once — and one curse is enough!<br>How sad she looked, and pale! but not like [[concepts/guilt\|guilt]] —<br>And her calm tones — sweet as a song of [[concepts/mercy\|mercy]]!<br>If the bad spirit retain'd his angel's voice,<br>Hell scarce were Hell. And why not [[archetypes/innocent\|innocent]]?<br>Who meant to murder me, might [[motifs/well\|well]] cheat her?<br>But ere she married him, he had stained her [[concepts/honour\|honour]];<br>Ah! there I am hampered. What if this were a lie<br>Framed by the assassin? Who should tell it him,<br>If it were [[concepts/truth\|truth]]? Ordonio would not tell him.<br>Yet why one lie? all else, I know, was [[concepts/truth\|truth]].<br>No start, no [[concepts/jealousy\|jealousy]] of stirring [[concepts/conscience\|conscience]]!<br>And she referred to me — fondly, methought!<br>Could she walk here if she had been a traitress?<br>Here where we played together in our [[motifs/childhood\|childhood]]?<br>Here where we plighted vows? where her cold cheek<br>Received my last kiss, when with suppressed feelings<br>She had fainted in my arms? It cannot be!<br>'Tis not in [[concepts/nature\|nature]]! I will die believing,<br>That I shall meet her where no evil is,<br>No treachery, no cup dashed from the lips.<br>I'll haunt this scene no more! live she in peace!<br>Her husband — aye her husband! May this angel<br>New mould his canker'd heart! Assist me, heaven,<br>That I may pray for my poor guilty brother! |
 | *(didascalia)* | alone. Exit. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -340,6 +347,8 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | *(didascalia)* | Escono TERESA e ALHADRA. |  
 | ALVAR | È strano! non può essere! il mio signore Ordonio!<br>Il suo signore Ordonio! No, non lo farò!<br>Una volta l'ho maledetto — e una maledizione basta!<br>Com'era triste, e pallida! ma non come la [[concepts/guilt\|colpa]] —<br>e i suoi toni calmi — dolci come un canto di [[concepts/mercy\|misericordia]]!<br>Se il cattivo spirito serbasse la sua voce d'angelo,<br>l'Inferno appena sarebbe Inferno. E perché non [[archetypes/innocent\|innocente]]?<br>Chi voleva uccidermi, non poteva [[motifs/well\|bene]] ingannare anche lei?<br>Ma prima ch'ella lo sposasse, egli ne macchiò l'[[concepts/honour\|onore]];<br>ah! qui son legato. E se questa fosse una menzogna<br>ordita dall'assassino? Chi gliel'avrebbe detta,<br>se fosse [[concepts/truth\|verità]]? Ordonio non gliel'avrebbe detta.<br>Pure, perché una sola menzogna? tutto il resto, lo so, era [[concepts/truth\|verità]].<br>Nessun trasalire, nessuna [[concepts/jealousy\|gelosia]] di [[concepts/conscience\|coscienza]] che si desti!<br>E parlò di me — con tenerezza, mi parve!<br>Potrebbe camminare qui, se fosse stata traditrice?<br>qui dove giocammo insieme nella nostra [[motifs/childhood\|infanzia]]?<br>qui dove ci scambiammo i voti? dove la sua fredda guancia<br>ricevette il mio ultimo bacio, quando con sentimenti repressi<br>era svenuta fra le mie braccia? Non può essere!<br>Non è nella [[concepts/nature\|natura]]! Morrò credendo<br>ch'io la ritroverò dove non v'è male,<br>né tradimento, né coppa strappata alle labbra.<br>Non infesterò più questo luogo! viva ella in pace!<br>Suo marito — sì, suo marito! Possa quest'angelo<br>rifondere il suo cuore incancrenito! Assistimi, cielo,<br>ch'io possa pregare per il mio povero fratello colpevole! |  
 | *(didascalia)* | solo. Esce. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -420,6 +429,7 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | ORDONIO | I shall not fail to find it. |
 | *(didascalia)* | [Exeunt ORDONIO and ISIDORE. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -496,6 +506,8 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | ISIDORE | Tre passi su per il [[motifs/hill\|colle]], un sorbo montano<br>stende i suoi rami più bassi e i grappoli scarlatti<br>sul vecchio tetto di paglia. |  
 | ORDONIO | Non mancherò di trovarla. |  
 | *(didascalia)* | [Escono ORDONIO e ISIDORE. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -575,6 +587,7 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | *(didascalia)* | Exit ORDONIO. |
 | ALVAR | (alone, indignantly flings the purse away and gazes passionately at the portrait) And I did curse thee!<br>At midnight! on my knees! and I believed<br>Thee perjur'd, thee a traitress! thee dishonour'd!<br>O blind and credulous [[archetypes/fool\|fool]]! O [[concepts/guilt\|guilt]] of folly!<br>Should not thy inarticulate fondnesses,<br>Thy infant loves — should not thy maiden vows<br>Have come upon my heart? And this sweet Image<br>Tied round my neck with many a chaste endearment,<br>And thrilling hands, that made me weep and tremble —<br>Ah, coward dupe! to yield it to the miscreant,<br>Who spake pollution of thee! barter for life<br>This farewell pledge, which with impassioned vow<br>I had sworn that I would grasp — ev'n in my [[motifs/death\|Death]]-pang!<br>I am unworthy of thy [[motifs/love\|love]], Teresa,<br>Of that unearthly smile upon those lips,<br>Which ever smiled on me! Yet do not scorn me —<br>I lisp'd thy name, ere I had learnt my mother's.<br>Dear portrait! rescued from a traitor's keeping,<br>I will not now profane thee, holy image,<br>To a dark trick. That worst bad man shall find<br>A picture, which will wake the hell within him,<br>And rouse a fiery whirlwind in his [[concepts/conscience\|conscience]]. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -650,6 +663,8 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | ORDONIO | Fino al prossimo incontro, addio! |  
 | *(didascalia)* | Esce ORDONIO. |  
 | ALVAR | (solo, getta via sdegnato la borsa e contempla appassionatamente il ritratto) E io ti maledissi!<br>A mezzanotte! in ginocchio! e ti credevo<br>spergiura, traditrice! ti credevo disonorata!<br>O cieco e credulo [[archetypes/fool\|folle]]! O [[concepts/guilt\|colpa]] di follia!<br>Non dovevano le tue inarticolate tenerezze,<br>i tuoi amori infantili — non dovevano i tuoi voti di fanciulla<br>tornarmi sopra il cuore? E questa dolce Immagine<br>legatami al collo con tante caste carezze,<br>e con mani fremebonde, che mi facevano piangere e tremare —<br>ah, vile ingannato! cederla al miscredente<br>che di te parlava contaminazione! barattare per la vita<br>questo pegno d'addio, che con voto appassionato<br>avevo giurato che avrei stretto — anche nello spasimo della [[motifs/death\|Morte]]!<br>Non son degno del tuo [[motifs/love\|amore]], Teresa,<br>di quel sorriso ultraterreno su quelle labbra<br>che sempre a me sorrisero! Pure non sdegnarmi —<br>balbettai il tuo nome, prima d'aver appreso quello di mia madre.<br>Caro ritratto! sottratto alla custodia d'un traditore,<br>non ti profanerò ora, santa immagine,<br>per un oscuro inganno. Quel pessimo uomo troverà<br>un dipinto che gli desterà l'inferno dentro,<br>e susciterà un turbine di fuoco nella sua [[concepts/conscience\|coscienza]]. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -695,6 +710,7 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | ORDONIO | (recovering himself as from stupor, to Servants) Why haste you not? Off with him to the dungeon! |
 | *(didascalia)* | All rush out in tumult. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -736,6 +752,8 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | MONVIEDRO | Prima afferrate il mago! non lasciate che parli!<br>I santi giudici dell'[[historical-references/inquisition\|Inquisizione]]<br>udranno le sue prime parole. — Impallidite, signor Valdez?<br>Prova palese abbiamo qui di turpissima stregoneria.<br>V'è una segreta sotto questo [[settings/castle\|castello]],<br>e se [[concepts/hope\|sperate]] in una mite interpretazione,<br>consegnatene all'istante le chiavi e la custodia. |  
 | ORDONIO | (riavendosi come da uno stupore, ai servi) Perché non v'affrettate? Via con lui nella segreta! |  
 | *(didascalia)* | Tutti escono precipitosamente in tumulto. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -820,6 +838,7 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | ORDONIO | A rim of the sun lies yet upon the sea,<br>And now 'tis gone! All shall be done to-[[motifs/night\|night]]. |
 | *(didascalia)* | Exit. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -900,6 +919,8 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | *(didascalia)* | Guarda attraverso la [[motifs/window\|finestra]] laterale. |  
 | ORDONIO | Un orlo di sole giace ancora sul mare,<br>e ora è sparito! Tutto sarà compiuto questa [[motifs/night\|notte]]. |  
 | *(didascalia)* | Esce. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -970,6 +991,7 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | ORDONIO | I have hurl'd him down the chasm! treason for treason.<br>He dreamt of it: henceforward let him [[motifs/sleep\|sleep]],<br>A dreamless [[motifs/sleep\|sleep]], from which no wife can wake him.<br>His dream too is made out — Now for his friend. |
 | *(didascalia)* | Exit ORDONIO. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1036,6 +1058,8 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | *(didascalia)* | Combattono, ORDONIO disarma ISIDORE, e nel disarmarlo ne scaglia la spada su per quell'anfratto davanti al quale stavano. ISIDORE si precipita nell'anfratto con la sua torcia, ORDONIO lo segue; un alto grido di «Traditore! [[archetypes/monster\|Mostro]]!» s'ode dalla caverna, e in un attimo ORDONIO ritorna solo. |  
 | ORDONIO | L'ho scagliato giù nell'abisso! tradimento per tradimento.<br>Ne aveva sognato: d'ora innanzi ch'egli [[motifs/sleep\|dorma]],<br>un [[motifs/sleep\|sonno]] senza sogni, dal quale nessuna moglie può destarlo.<br>Anche il suo sogno s'è avverato — Ora tocca al suo amico. |  
 | *(didascalia)* | Esce ORDONIO. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1067,6 +1091,7 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | TERESA | And this majestic Moor, seems he not one<br>Who oft and long communing with my Alvar<br>Hath drunk in kindred lustre from his presence,<br>And guides me to him with reflected light?<br>What if in yon dark dungeon coward treachery<br>Be groping for him with envenomed poniard —<br>Hence, womanish fears, traitors to [[motifs/love\|love]] and duty —<br>I'll free him. |
 | *(didascalia)* | [Exit TERESA. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1094,6 +1119,8 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | *(didascalia)* | [Una pausa. |  
 | TERESA | E questo maestoso Moro, non par egli uno<br>che spesso e a lungo conversando col mio Alvar<br>n'abbia bevuto dalla presenza un affine splendore,<br>e mi guidi a lui con luce riflessa?<br>E se in quella buia segreta vile tradimento<br>lo va cercando a tastoni con pugnale avvelenato —<br>Via, femminei timori, traditori dell'[[motifs/love\|amore]] e del dovere —<br>Lo libererò. |  
 | *(didascalia)* | [Esce TERESA. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1134,6 +1161,7 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | ALL | Away! away! |
 | *(didascalia)* | She rushes off, all following her. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1170,6 +1198,8 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | ALHADRA | Guardai giù in fondo al baratro —<br>la vista m'era arrestata da uno sporgente [[forms/fragment\|frammento]]:<br>ed era macchiato di [[motifs/blood\|sangue]]. Allora per la prima volta gridai,<br>mi bruciarono le pupille, il cervello m'arse come [[motifs/fire\|fuoco]],<br>e tutte le gocce pendenti dalla volta madida<br>si mutarono in [[motifs/blood\|sangue]] — le vidi mutarsi in [[motifs/blood\|sangue]]!<br>E già mi gettavo furiosa giù nell'abisso,<br>quando sull'orlo opposto vidi la sua spada,<br>e diceva: Vendetta! — Maledetta la mia lingua!<br>La [[motifs/moon\|luna]] s'è mossa in Cielo, e io son qui,<br>ed egli non ha avuto vendetta! Isidoro!<br>Spirito d'Isidoro! il tuo assassino vive!<br>Via! via! |  
 | TUTTI | Via! via! |  
 | *(didascalia)* | Esce di corsa, tutti la seguono. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1313,6 +1343,7 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | SELMA | My husband's father told it me,<br>Poor old Sesina — angels rest his [[motifs/soul\|soul]];<br>He was a woodman, and could fell and saw<br>With lusty arm. You know that huge round beam<br>Which props the hanging wall of the old chapel?<br>Beneath that tree, while yet it was a tree,<br>He found a baby wrapt in mosses, lined<br>With thistle-beards, and such small locks of wool<br>As hang on brambles. [[motifs/well\|Well]], he brought him [[motifs/home\|home]],<br>And reared him at the then Lord Valdez' cost.<br>And so the babe grew up a pretty boy,<br>A pretty boy, but most unteachable ——<br>And never learn'd a [[motifs/prayer\|prayer]], nor told a bead,<br>But knew the names of [[motifs/birds\|birds]], and mocked their notes,<br>And whistled, as he were a bird himself.<br>And all the [[motifs/autumn\|autumn]] 'twas his only play<br>To gather seeds of wild [[motifs/flowers\|flowers]], and to plant them<br>With earth and [[motifs/water\|water]] on the stumps of trees.<br>A Friar, who gathered simples in the wood,<br>A grey-haired man, he loved this little boy:<br>The boy loved him, and, when the friar taught him,<br>He soon could write with the pen; and from that [[motifs/time\|time]]<br>Lived chiefly at the convent or the [[settings/castle\|castle]].<br>So he became a rare and learned youth:<br>But O! poor wretch! he read, and read, and read,<br>Till his brain turned; and ere his twentieth year<br>He had unlawful thoughts of many things:<br>And though he prayed, he never loved to pray<br>With holy men, nor in a holy place.<br>But yet his speech, it was so soft and sweet,<br>The late Lord Valdez ne'er was wearied with him.<br>And once, as by the north side of the chapel<br>They stood together chained in deep discourse,<br>The earth heaved under them with such a groan,<br>That the wall tottered, and had [[motifs/well\|well]] nigh fallen<br>Right on their heads. My Lord was sorely frightened;<br>A fever seized him, and he made confession<br>Of all the heretical and lawless talk<br>Which brought this judgment: so the youth was seized,<br>And cast into that hole. My husband's father<br>Sobbed like a [[archetypes/child\|child]] — it almost broke his heart:<br>And once he was working near this dungeon,<br>He heard a voice distinctly; 'twas the youth's,<br>Who sung a doleful song about green fields,<br>How sweet it were on lake or wide savanna<br>To hunt for food, and be a naked man,<br>And wander up and down at liberty.<br>He always doted on the youth, and now<br>His [[motifs/love\|love]] grew desperate; and defying [[motifs/death\|death]],<br>He made that cunning entrance I described,<br>And the young man escaped. |
 | TERESA | 'Tis a sweet tale:<br>Such as would lull a listening [[archetypes/child\|child]] to [[motifs/sleep\|sleep]],<br>His rosy face besoiled with unwiped [[motifs/tears\|tears]].<br>And what became of him? |
 | SELMA | He went on shipboard<br>With those bold voyagers who made discovery<br>Of golden lands. Sesina's younger brother<br>Went likewise, and when he returned to Spain,<br>He told Sesina, that the poor mad youth,<br>Soon after they arrived in that new world,<br>In spite of his dissuasion, seized a boat,<br>And all alone set sail by silent moonlight<br>Up a great [[motifs/river\|river]], great as any sea,<br>And ne'er was heard of more: but 'tis supposed,<br>He lived and died among the savage men. |
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1454,3 +1485,5 @@ La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persec
 | SELMA | Me lo raccontò il padre di mio marito,<br>il povero vecchio Sesina — gli angeli riposino la sua [[motifs/soul\|anima]];<br>era un boscaiolo, e sapeva abbattere e segare<br>con braccio gagliardo. Conoscete quell'enorme trave rotonda<br>che puntella il muro pendente della vecchia cappella?<br>Sotto quell'albero, quand'era ancora un albero,<br>trovò un bimbo avvolto nei muschi, foderato<br>di barbe di cardo, e di quei fiocchetti di lana<br>che restano ai rovi. [[motifs/well\|Ebbene]], se lo portò a [[motifs/home\|casa]],<br>e lo allevò a spese dell'allora signore Valdez.<br>E così il bimbo crebbe, un bel fanciullo,<br>un bel fanciullo, ma indocile all'estremo ——<br>e mai imparò una [[motifs/prayer\|preghiera]], né sgranò un rosario,<br>ma sapeva i nomi degli [[motifs/birds\|uccelli]], e ne imitava le note,<br>e fischiava, come fosse un uccello egli stesso.<br>E per tutto l'[[motifs/autumn\|autunno]] era il suo unico gioco<br>raccogliere semi di [[motifs/flowers\|fiori]] selvatici, e piantarli<br>con terra e [[motifs/water\|acqua]] sui ceppi degli alberi.<br>Un Frate, che raccoglieva erbe semplici nel bosco,<br>un uomo dai capelli grigi, amò questo piccolo:<br>il fanciullo amò lui, e, quando il frate gl'insegnò,<br>seppe presto scrivere con la penna; e da quel [[motifs/time\|tempo]]<br>visse per lo più al convento o al [[settings/castle\|castello]].<br>Così divenne un giovane raro e dotto:<br>ma oh! poveretto! lesse, e lesse, e lesse,<br>finché il cervello gli si volse; e prima del ventesimo anno<br>aveva pensieri illeciti intorno a molte cose:<br>e benché pregasse, mai gli piacque pregare<br>con uomini santi, né in un luogo santo.<br>Eppure il suo parlare era tanto molle e dolce,<br>che il defunto signore Valdez mai se ne stancava.<br>E una volta, mentre presso il lato nord della cappella<br>stavano insieme avvinti in profondo discorso,<br>la terra si sollevò sotto di loro con tal gemito,<br>che il muro vacillò, e per [[motifs/well\|poco]] non cadde<br>proprio sulle loro teste. Il mio Signore n'ebbe gran spavento;<br>una febbre lo prese, ed egli fece confessione<br>di tutti i discorsi eretici e senza legge<br>che avevano tratto quel giudizio: così il giovane fu preso<br>e gettato in quella buca. Il padre di mio marito<br>singhiozzò come un [[archetypes/child\|bambino]] — quasi gli si spezzò il cuore:<br>e una volta che lavorava presso questa segreta,<br>udì distintamente una voce; era quella del giovane,<br>che cantava un dolente canto di verdi campagne,<br>e come fosse dolce su un lago o su ampia savana<br>cacciare per cibo, ed essere un uomo nudo,<br>e vagare su e giù in libertà.<br>Egli aveva sempre stravisto per quel giovane, e ora<br>il suo [[motifs/love\|amore]] si fece disperato; e sfidando la [[motifs/death\|morte]],<br>praticò quell'accorta entrata che ho descritto,<br>e il giovane fuggì. |  
 | TERESA | È un dolce racconto:<br>tale da cullare un [[archetypes/child\|bambino]] in ascolto fino al [[motifs/sleep\|sonno]],<br>il roseo viso sporco di [[motifs/tears\|lacrime]] non asciugate.<br>E che ne fu di lui? |  
 | SELMA | S'imbarcò<br>con quegli arditi navigatori che scoprirono<br>le terre d'oro. Il fratello minore di Sesina<br>andò anch'egli, e quando tornò in Spagna<br>disse a Sesina che il povero giovane folle,<br>poco dopo il loro arrivo in quel nuovo mondo,<br>malgrado le sue dissuasioni, prese una barca,<br>e tutto solo salpò al silenzioso chiaro di luna<br>su per un gran [[motifs/river\|fiume]], grande quanto un mare,<br>e mai più se ne seppe: ma si suppone<br>che sia vissuto e morto fra gli uomini selvaggi. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

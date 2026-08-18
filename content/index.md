@@ -40,7 +40,11 @@ title: English Literature — A Knowledge Graph
       <div class="hp-stat"><span class="hp-stat-k">Authors</span><span class="hp-stat-v">15</span></div>
       <div class="hp-stat"><span class="hp-stat-k">Reading units</span><span class="hp-stat-v">15,776</span></div>
       <div class="hp-stat"><span class="hp-stat-k">Concept notes</span><span class="hp-stat-v">2,032</span></div>
+<<<<<<< HEAD
       <div class="hp-stat"><span class="hp-stat-k">Bilingual pages</span><span class="hp-stat-v">13,148</span></div>
+=======
+      <div class="hp-stat"><span class="hp-stat-k">Bilingual pages</span><span class="hp-stat-v">10,387</span></div>
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
     </div>
     <p class="hp-plate-note">Italian translations go up chapter by chapter, alongside the English — never in place of it.</p>
   </aside>

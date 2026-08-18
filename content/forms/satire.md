@@ -118,6 +118,10 @@ tags:
 - [[works/ninety-eight-(coleridge)|NINETY-EIGHT (Coleridge)]]
 - [[works/occasioned-by-the-former-(coleridge)|OCCASIONED BY THE FORMER (Coleridge)]]
 - [[works/occasioned-by-the-last-(coleridge)|OCCASIONED BY THE LAST (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/on-a-late-marriage-between-an-old-maid-and-french-petit-maître-(coleridge)|ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/on-a-report-of-a-minister’s-death-(coleridge)|ON A REPORT OF A MINISTER’S DEATH (Coleridge)]]
 - [[works/on-a-volunteer-singer-(coleridge)|ON A VOLUNTEER SINGER (Coleridge)]]
 - [[works/on-an-amorous-doctor-(coleridge)|ON AN AMOROUS DOCTOR (Coleridge)]]
@@ -160,6 +164,10 @@ tags:
 - [[works/five-finger-exercises-(eliot)|Five-Finger Exercises (Eliot)]]
 - [[works/le-directeur-(eliot)|Le Directeur (Eliot)]]
 - [[works/mr.-eliot’s-sunday-morning-service-(eliot)|Mr. Eliot’s Sunday Morning Service (Eliot)]]
+<<<<<<< HEAD
+=======
+- [[works/mélange-adultère-de-tout-(eliot)|Mélange Adultère de Tout (Eliot)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/the-hippopotamus-(eliot)|The Hippopotamus (Eliot)]]
 - [[works/a-party-of-lovers-(keats)|A Party of Lovers (Keats)]]
 - [[works/folly’s-song-(keats)|Folly’s Song (Keats)]]

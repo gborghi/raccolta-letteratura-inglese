@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/child-orphan--poems" data-author="Dickinson" data-workhref="works/child-·-orphan-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 196. We don't cry — Tim and I, · 218. Is it true, dear Sue? · 227. Teach Him — When He makes the names — · 231. God permits industrious Angels — · 454. It was given to me by the Gods — · 467. We do not play on Graves — · 568. We learned the Whole of Love — · 637. The Child's faith is new — · 687. I'll send the feather from my Hat! · 717. The Beggar Lad — dies early — · 728. Let Us play Yesterday — · 763. He told a homely tale · 1020. Trudging to Eden, looking backward, · 1185. A little Dog that wags his tail · 1201. So I pull my Stockings off · 1532. From all the Jails the Boys and Girls · 1603. The going from a world we know
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_dont_cry_tim_and_i" data-title="196. We don't cry — Tim and I," data-chapter="" data-kind="intro" data-tags="archetype/child,motif/death,concept/grief_and_loss,concept/friendship,concept/faith,concept/childhood_and_growth,form/lyric,cluster/child,cluster/orphan"></span>
 
 
@@ -57,6 +60,7 @@ Take us simultaneous — Lord —
 I — "Tim" — and Me!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non piangiamo — Tim ed io,  
@@ -96,6 +100,8 @@ Tim — era — così — timido?
 Prendici simultanei — Signore —  
 Io — "Tim" — e Me!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_it_true_dear_sue" data-title="218. Is it true, dear Sue?" data-chapter="" data-kind="intro" data-tags="archetype/child,concept/friendship,concept/joy,concept/childhood_and_growth,form/lyric,cluster/child,cluster/orphan"></span>
@@ -114,6 +120,7 @@ To "Toby's" fist —
 Hist! Whist! I'd come!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È vero, cara Sue?  
@@ -128,6 +135,8 @@ O fissarlo saldo
 Al pugno di "Toby" —  
 Zitti! Piano! Verrei!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ach_him_when_he_makes_the_names" data-title="227. Teach Him — When He makes the names —" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,concept/love_romantic,concept/unrequited_love,form/lyric,histref/the_bible,cluster/child,cluster/orphan"></span>
@@ -144,6 +153,7 @@ As should sound —
 Some like "Emily."
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Insegnagli — Quando compone i nomi —  
@@ -156,6 +166,8 @@ Che suoni —
 "Non ci vietate" —  
 Qualcosa come "Emily."
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_permits_industrious_angels" data-title="231. God permits industrious Angels —" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,motif/the_supernatural,motif/sun,concept/grief_and_loss,concept/faith,form/lyric,cluster/child,cluster/orphan"></span>
@@ -171,6 +183,7 @@ I missed mine — how dreary — Marbles —
 After playing [[motifs/crown|Crown]]!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[characters/god|Dio]] permette ad Angeli industriosi —  
@@ -182,6 +195,8 @@ Al Tramontare del [[motifs/sun|Sole]] —
 Mi mancò il mio — che tristezza — le Biglie —  
 Dopo aver giocato alla [[motifs/crown|Corona]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_was_given_to_me_by_the_gods" data-title="454. It was given to me by the Gods —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/childhood,concept/identity,concept/childhood_and_growth,concept/self_and_soul,cluster/child,cluster/orphan"></span>
@@ -205,6 +220,7 @@ And Gold to own — in solid Bars —
 The Difference — made me bold —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi fu dato dagli Dei —  
@@ -224,6 +240,8 @@ A prendere il nome dell'Oro —
 E Oro possedere — in Lingotti massicci —  
 La Differenza — mi fece audace —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_do_not_play_on_graves" data-title="467. We do not play on Graves —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/childhood,motif/flowers,concept/grief_and_loss,concept/innocence_and_experience,cluster/child,cluster/orphan"></span>
@@ -245,6 +263,7 @@ Just looking round to see how far
 It is — Occasionally —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non giochiamo sulle Tombe —  
@@ -262,6 +281,8 @@ Come Nemici — via —
 Solo volgendoci a guardare quanto  
 Sia lontano — Ogni tanto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_learned_the_whole_of_love" data-title="568. We learned the Whole of Love —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/the_book,motif/childhood,concept/love_romantic,concept/truth,concept/innocence_and_experience,histref/the_bible,cluster/child,cluster/orphan"></span>
@@ -283,6 +304,7 @@ Alas, that Wisdom is so large —
 And [[concepts/truth|Truth]] — so manifold!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Imparammo il Tutto dell'[[motifs/love|Amore]] —  
@@ -300,6 +322,8 @@ Ciò che Nessuno dei due — comprendeva —
 Ahimè, che la Saggezza è così vasta —  
 E la [[concepts/truth|Verità]] — così molteplice!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_childs_faith_is_new" data-title="637. The Child's faith is new —" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/child,archetype/innocent,motif/childhood,motif/dawn,concept/innocence_and_experience,concept/faith_and_doubt,concept/childhood_and_growth,concept/faith,concept/melancholy,form/lyric,cluster/child,cluster/orphan"></span>
@@ -333,6 +357,7 @@ Men — to anticipate
 Instead of Kings —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Del [[archetypes/child|Bambino]] la [[concepts/faith|fede]] è nuova —  
@@ -362,6 +387,8 @@ Dolorosa — quanto certa —
 Uomini — a prevedere  
 Invece di Re —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="l_send_the_feather_from_my_hat" data-title="687. I'll send the feather from my Hat!" data-chapter="" data-kind="intro" data-tags="motif/childhood,motif/clothing,concept/mercy,concept/faith,concept/nostalgia,concept/childhood_and_growth,form/lyric,cluster/child,cluster/orphan"></span>
@@ -375,6 +402,7 @@ Confronting eyes long — comforted —
 Blisters the Adamant!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Manderò la piuma del mio Cappello!  
@@ -384,6 +412,8 @@ Come ninnolo — portato da [[archetypes/child|Bimba]] sbiadita —
 Affrontando occhi a lungo — consolati —  
 Piaga l'Adamante!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_beggar_lad_dies_early" data-title="717. The Beggar Lad — dies early —" data-chapter="" data-kind="intro" data-tags="archetype/orphan,archetype/child,motif/death,concept/poverty,concept/social_injustice,concept/grace_and_redemption,concept/mortality,concept/faith,form/lyric,character/christ,cluster/child,cluster/orphan"></span>
@@ -410,6 +440,7 @@ To Him whom never Ragged — Coat
 Did supplicate in vain —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Ragazzo Mendicante — muore presto —  
@@ -432,6 +463,8 @@ Levate adoranti — esse —
 A Colui che mai Cenciosa — Veste  
 Supplicò invano —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="t_us_play_yesterday" data-title="728. Let Us play Yesterday —" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/child,motif/childhood,motif/birds,motif/dawn,concept/innocence_and_experience,concept/childhood_and_growth,concept/nostalgia,concept/faith,form/lyric,cluster/child,cluster/orphan"></span>
@@ -485,6 +518,7 @@ Take not my [[concepts/liberty|Liberty]]
 Away from Me —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Giochiamo a Ieri —  
@@ -534,6 +568,8 @@ Come del Libero —
 Non togliere la mia [[concepts/liberty|Libertà]]  
 Via da Me —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_told_a_homely_tale" data-title="763. He told a homely tale" data-chapter="" data-kind="intro" data-tags="archetype/orphan,archetype/child,motif/birds,motif/the_grave,motif/the_sea,concept/childhood_and_growth,concept/grief_and_loss,concept/grace_and_redemption,concept/the_common_man,form/lyric,cluster/child,cluster/orphan"></span>
@@ -560,6 +596,7 @@ Have missed a Barefoot Citizen —
 I've ransomed it — alive —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Raccontò una storia semplice  
@@ -582,6 +619,8 @@ O Comunità di sopra
 Hanno perduto un Cittadino Scalzo —  
 Io l'ho riscattato — vivo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="udging_to_eden_looking_backward" data-title="1020. Trudging to Eden, looking backward," data-chapter="" data-kind="intro" data-tags="archetype/child,archetype/orphan,motif/the_journey,concept/immortality,concept/grief_and_loss,form/lyric,histref/christianity,cluster/child,cluster/orphan"></span>
@@ -598,6 +637,7 @@ I couldn't weep — for so many smiling
 New Acquaintance — this Baby made —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Arrancando verso l'Eden, guardando indietro,  
@@ -610,6 +650,8 @@ e che non sembrava impaurito?
 Non potei piangere — ché tante sorridenti  
 nuove Conoscenze — questo Bimbo fece —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="little_dog_that_wags_his_tail" data-title="1185. A little Dog that wags his tail" data-chapter="" data-kind="intro" data-tags="archetype/child,archetype/innocent,motif/animals,motif/childhood,concept/joy,concept/innocence_and_experience,form/lyric,cluster/child,cluster/orphan"></span>
@@ -636,6 +678,7 @@ But not to make a "bit of noise"
 Beseech each little Boy —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un piccolo Cane che scodinzola  
@@ -658,6 +701,8 @@ Che né compiacciono né giocano
 Ma di non fare "un po' di rumore"  
 Supplicano ogni piccolo Bimbo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_i_pull_my_stockings_off" data-title="1201. So I pull my Stockings off" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,motif/water,concept/faith_and_doubt,concept/innocence_and_experience,form/lyric,histref/the_bible,cluster/child,cluster/orphan"></span>
@@ -674,6 +719,7 @@ And perhaps he didn't
 Ananias wasn't —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Così mi sfilo le Calze  
@@ -686,6 +732,8 @@ E forse non ci andò
 [[characters/moses|Mosè]] non fu trattato con giustizia —  
 Anania nemmeno —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="om_all_the_jails_the_boys_and_girls" data-title="1532. From all the Jails the Boys and Girls" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,concept/joy,concept/freedom,concept/education,form/lyric,cluster/child,cluster/orphan"></span>
@@ -702,6 +750,7 @@ Alas — that Frowns should lie in wait
 For such a Foe as this —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Da tutte le Prigioni i Ragazzi e le Ragazze  
@@ -714,6 +763,8 @@ Una Folla di solida Beatitudine —
 Ahimè — che Cipigli stiano in agguato  
 Per un Nemico come questo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_going_from_a_world_we_know" data-title="1603. The going from a world we know" data-chapter="" data-kind="intro" data-tags="topos/night_journey,archetype/child,motif/death,motif/childhood,concept/mortality,concept/doubt,cluster/child,cluster/orphan"></span>
@@ -727,6 +778,7 @@ Behind the [[motifs/hill|hill]] is sorcery
 And everything unknown,  
 But will the secret compensate  
 For climbing it alone?
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -739,3 +791,5 @@ Dietro la [[motifs/hill|collina]] è stregoneria
 E ogni cosa ignota,  
 Ma il segreto compenserà  
 Lo scalarla da solo?
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

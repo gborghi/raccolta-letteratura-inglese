@@ -34,6 +34,7 @@ By Couriers within —
 Their going — is not —  
 For they've never gone —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -51,6 +52,8 @@ Il loro Venire, si può conoscere
 Da Corrieri interiori —  
 Il loro andare — no —  
 Perché non se ne sono mai andati —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -72,6 +75,7 @@ No other neighbor — did —
 And what it was — we never lisped —  
 Because He — never told —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -89,6 +93,8 @@ Il cui destino — Congettura conobbe —
 Nessun altro vicino — lo seppe —  
 E cosa fosse — mai lo sussurrammo —  
 Perché Lui — mai lo disse —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -120,6 +126,7 @@ That person that I was —
 And this One — do not feel the same —  
 Could it be [[concepts/madness|Madness]] — this?
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -147,6 +154,8 @@ E Qualcosa è strano — dentro —
 Quella persona che ero —  
 E questa — non si sentono uguali —  
 Potrebbe essere [[concepts/madness|Follia]] — questa?
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -162,6 +171,7 @@ Assent, and you are sane ;
 Demur, — you're straightway dangerous,  
 And handled with a chain.
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -173,6 +183,8 @@ Che in questo, come in tutto, prevale.
 Assenti, e sei savio ;  
 Obietta, — e sei subito pericoloso,  
 E trattato con una catena.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -209,6 +221,7 @@ And staples, in the [[works/song-(poe)|Song]],
 The Horror welcomes her, again,  
 These, are not brayed of Tongue —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -241,6 +254,8 @@ E graffe, nel Canto,
 
 L'Orrore la riaccoglie, ancora,  
 Queste, non son cose sbraitate da Lingua —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -271,6 +286,7 @@ Such Luxury — it grew —
 That as Myself — could pity Him —  
 Perhaps he — pitied me —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -297,6 +313,8 @@ Quasi mi sforzai di stringergli la Mano,
 Tale Lusso — divenne —  
 Che come Io — potevo compatire Lui —  
 Forse lui — compativa me —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -313,6 +331,7 @@ When Floods have slit the Hills —
 And scooped a Turnpike for Themselves —  
 And trodden out the Mills —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -325,6 +344,8 @@ Ricondurre indietro una Corrente —
 Quando le Piene hanno fenduto le Colline —  
 E scavato per Sé una Strada Maestra —  
 E calpestato via i Mulini —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -351,6 +372,7 @@ To that Repealless thing —
 A Being — impotent to end —  
 When once it has begun —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -373,6 +395,8 @@ Eppure potrebbero — in rapporto
 A quella cosa Irrevocabile —  
 Un Essere — impotente a finire —  
 Una volta che è cominciato —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -399,6 +423,7 @@ As cool as Satyr's Drums —
 If you remember, and were saved —  
 It's liker so — it seems —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -421,6 +446,8 @@ Improvvisando nel tuo orecchio
 Freddo come Tamburi di Satiro —  
 Se ricordi, e fosti salvato —  
 È più simile a così — sembra —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -457,6 +484,7 @@ As cautiously as Glass
 And held my ears, and like a Thief  
 Fled gasping from the House —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -489,6 +517,8 @@ Poi ritrassi le Dita
 cauta come Vetro  
 e mi tappai le orecchie, e come un Ladro  
 fuggii ansante dalla Casa —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -522,6 +552,7 @@ He bolts the [[motifs/door|Door]] —
 O'erlooking a superior spectre —  
 Or More —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -551,6 +582,8 @@ Il [[concepts/body|Corpo]] — prende in prestito un Revolver —
 Egli sbarra la [[motifs/door|Porta]] —  
 Trascurando uno spettro superiore —  
 O Più —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -582,6 +615,7 @@ Do He dwell — or Nay — know I —
 But Instinct esteem Him  
 [[concepts/immortality|Immortality]] —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -609,6 +643,8 @@ Né se Egli visiti Altri —
 O dimori — o No — io so —  
 Ma l'Istinto Lo stima  
 [[concepts/immortality|Immortalità]] —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -625,6 +661,7 @@ No treason it can [[concepts/fear|fear]] —
 Itself — its Sovereign — of itself  
 The [[motifs/soul|Soul]] should stand in Awe —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -637,6 +674,8 @@ Sicura contro i suoi —
 Nessun tradimento può [[concepts/fear|temere]] —  
 Se stessa — suo Sovrano — di se stessa  
 L'[[motifs/soul|Anima]] dovrebbe stare in Soggezione —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -654,6 +693,7 @@ Groped backward at Himself
 Caressed a Trigger absently  
 And wandered out of Life.
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -667,6 +707,8 @@ Brancolò in alto, per vedere se [[characters/god|Dio]] era là —
 Brancolò all'indietro verso Se stesso  
 Carezzò un Grilletto distrattamente  
 E vagò fuori dalla Vita.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -683,6 +725,7 @@ The Cellars of the [[motifs/soul|Soul]] —
 Thank [[characters/god|God]] the loudest Place he made  
 Is licensed to be still.
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -695,6 +738,8 @@ Il Carico Sotterraneo
 Le Cantine dell'[[motifs/soul|Anima]] —  
 Grazie a [[characters/god|Dio]] il Luogo più fragoroso che fece  
 Ha licenza di tacere.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -711,6 +756,7 @@ How [[motifs/well|well]] that we are Blind —
 We could not look upon the Earth —  
 So utterly unmoved —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -723,6 +769,8 @@ Avessimo gli occhi senza la Testa —
 Che [[motifs/well|bene]] che siamo Ciechi —  
 Non potremmo guardare la Terra —  
 Così del tutto impassibili —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -759,6 +807,7 @@ Is helped by the regret
 That those who know her, know her less  
 The nearer her they get.
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -791,6 +840,8 @@ Compatire quelli che non la conoscono
 È soccorso dal rimpianto  
 Che chi la conosce, la conosce meno  
 Quanto più le si fa vicino.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -813,6 +864,7 @@ The bravest die
 As ignorant of their resumption  
 As you or I —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -831,6 +883,8 @@ Il saggio non può congetturare
 I più coraggiosi muoiono  
 Ignari della loro ripresa  
 Quanto te o me —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -847,6 +901,7 @@ It is a faded Meat —
 Anger as soon as fed is dead —  
 'Tis starving makes it fat —
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -859,6 +914,8 @@ Sia rapido — la Vivanda fugge —
 È una Carne sbiadita —  
 L'Ira appena nutrita è morta —  
 È il digiuno che la fa grassa —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -874,6 +931,7 @@ And the world — if the world be looking on —
 Will see how far from [[motifs/home|home]]  
 It is possible for sense to live  
 The [[motifs/soul|soul]] there — all the [[motifs/time|time]].
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -887,3 +945,5 @@ E il mondo — se il mondo sta a guardare —
 vedrà quanto lontano da [[motifs/home|casa]]  
 è possibile per il senno vivere  
 l'[[motifs/soul|anima]] là — per tutto il [[motifs/time|tempo]].
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

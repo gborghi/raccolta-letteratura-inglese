@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/mortality-grave-memento-mori--poems" data-author="Dickinson" data-workhref="works/mortality-·-grave-·-memento-mori-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 3. Sic transit gloria mundi · 18. The Gentian weaves her fringes — · 32. When Roses cease to bloom, Sir, · 51. I often passed the village · 54. If I should die, · 69. Low at my problem bending, · 75. She died at play, · 98. One dignity delays for all — · 115. What Inn is this · 141. Some, too fragile for winter winds · 153. Dust is the only Secret — · 171. Wait till the Majesty of Death · 187. How many times these low feet staggered — · 216. Safe in their alabaster chambers · 360. Death sets a Thing significant · 411. The Color of the Grave is Green — · 414. 'Twas like a Maelstrom, with a notch, · 449. I died for Beauty — but was scarce · 457. Sweet — safe — Houses — · 479. She dealt her pretty words like Blades — · 496. As far from pity, as complaint — · 539. The Province of the Saved · 547. I've seen a Dying Eye · 559. It knew no Medicine — · 583. A Toad, can die of Light — · 586. We talked as Girls do — · 592. What care the Dead, for Chanticleer — · 598. Three times — we parted — Breath — and I — · 610. You'll find — it when you try to die — · 622. To know just how He suffered — would be dear — · 671. She dwelleth in the Ground — · 692. The Sun kept setting — setting — still · 715. The World — feels Dusty · 731. "I want" — it pleaded — All its life — · 784. Bereaved of all, I went abroad — · 813. This quiet Dust was Gentleman and Ladies · 853. When One has given up One's life · 856. There is a finished feeling · 858. This Chasm, Sweet, upon my life · 874. They won't frown always — some sweet Day · 876. It was a Grave, yet bore no Stone · 879. Each Second is the last · 889. Crisis is a Hair · 892. Who occupies this House? · 906. The Admirations — and Contempts — of time — · 908. 'Tis Sunrise — Little Maid — Hast Thou · 911. Too little way the House must lie · 960. As plan for Noon and plan for Night · 990. Not all die early, dying young — · 1024. So large my Will · 1037. Here, where the Daisies fit my Head · 1063. Ashes denote that Fire was — · 1086. What Twigs We held by — · 1112. That this should feel the need of Death · 1147. After a hundred years · 1154. A full fed Rose on meals of Tint · 1183. Step lightly on this narrow spot — · 1188. 'Twas fighting for his Life he was — · 1221. Some we see no more, Tenements of Wonder · 1256. Not any higher stands the Grave · 1272. So proud she was to die · 1288. Lain in Nature — so suffice us · 1310. The Notice that is called the Spring · 1384. Praise it — 'tis dead — · 1396. She laid her docile Crescent down · 1428. Water makes many Beds · 1462. We knew not that we were to live — · 1490. The Face in evanescence lain · 1503. More than the Grave is closed to me — · 1527. Oh give it Motion — deck it sweet · 1588. This Me — that walks and works — must die, · 1632. So give me back to Death — · 1633. Still own thee — still thou art · 1652. Advance is Life's condition · 1665. I know of people in the Grave · 1743. The grave my little cottage is, · 1752. This docile one inter
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="c_transit_gloria_mundi" data-title="3. Sic transit gloria mundi" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,topos/memento_mori,topos/carpe_diem,topos/the_sleeper_awakes,concept/mortality,concept/heroism,form/lyric,histref/classical_antiquity,histref/the_bible,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
 
 
@@ -109,6 +112,7 @@ Then farewell Tuscarora
 And farewell Sir, to thee.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[topoi/sic-transit-gloria-mundi|Sic transit gloria mundi]]  
@@ -200,6 +204,8 @@ Sarà consolazione
 Allora addio Tuscarora  
 E addio Signore, a te.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_gentian_weaves_her_fringes" data-title="18. The Gentian weaves her fringes —" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/bees,motif/flowers,motif/white_and_red,concept/mortality,concept/faith,form/elegy,histref/christianity,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -228,6 +234,7 @@ And of the Butterfly —
 And of the Breeze — Amen!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Genziana tesse le sue frange —  
@@ -252,6 +259,8 @@ Nel nome dell'Ape —
 E della Farfalla —  
 E della Brezza — Amen!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_roses_cease_to_bloom_sir" data-title="32. When Roses cease to bloom, Sir," data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/rose,motif/flowers,motif/the_grave,concept/mortality,concept/transience,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -267,6 +276,7 @@ Will idle lie — in Auburn —
 Then take my [[motifs/flowers|flowers]] — pray!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando le Rose cesseranno di fiorire, Signore,  
@@ -278,6 +288,8 @@ In questo giorno d'[[motifs/summer|Summer]]
 Giacerà oziosa — in Auburn —  
 Allora prendi i miei [[motifs/flowers|fiori]] — ti prego!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="often_passed_the_village" data-title="51. I often passed the village" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/childhood,concept/mortality,concept/grief_and_loss,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -306,6 +318,7 @@ Cry "it's I," "take Dollie,"
 And I will enfold!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Passavo spesso il villaggio  
@@ -330,6 +343,8 @@ Sotto la zolla,
 Grida "sono io," "prendi Dollie,"  
 E io ti avvolgerò!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_i_should_die" data-title="54. If I should die," data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/nature,motif/the_grave,concept/mortality,concept/paradox,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -355,6 +370,7 @@ That gentlemen so sprightly
 Conduct the pleasing scene!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se io dovessi morire,  
@@ -376,6 +392,8 @@ E mantiene serena l'[[motifs/soul|anima]] —
 Che signori così brillanti  
 Conducano la piacevole scena!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_at_my_problem_bending" data-title="69. Low at my problem bending," data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/mortality,concept/immortality,concept/doubt,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -392,6 +410,7 @@ Wherefore, my baffled fingers
 Thy perplexity?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 China sul mio problema,  
@@ -404,6 +423,8 @@ Le mie cifre sfilano via.
 Perché mai, mie dita sconcertate  
 La Tua perplessità?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_died_at_play" data-title="75. She died at play," data-chapter="" data-kind="intro" data-tags="motif/death,motif/ghosts,motif/childhood,motif/the_supernatural,concept/innocence_and_experience,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -421,6 +442,7 @@ Her vestments as the silver fleece —
 Her countenance as spray.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Morì giocando,  
@@ -434,6 +456,8 @@ Ieri, e Oggi,
 Le sue vesti come il vello d'argento —  
 Il suo volto come spuma.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_dignity_delays_for_all" data-title="98. One dignity delays for all —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,archetype/king,motif/death,motif/crown,motif/bells,motif/clothing,concept/mortality,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -460,6 +484,7 @@ Present our meek escutcheon,
 And claim the rank to die !
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una dignità attende tutti,  
@@ -482,6 +507,8 @@ Quando semplici tu ed io
 Presentiamo il nostro umile stemma,  
 E reclamiamo il rango di morire !
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_inn_is_this" data-title="115. What Inn is this" data-chapter="" data-kind="intro" data-tags="motif/the_inn_tavern,motif/the_grave,motif/the_supernatural,concept/mortality,concept/the_uncanny,form/lyric,setting/an_inn,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -499,6 +526,7 @@ Necromancer! Landlord!
 Who are these below?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che [[settings/inn|Inn]] è questa  
@@ -512,6 +540,8 @@ Nessun Boccale colmo trabocca —
 Negromante! Oste!  
 Chi sono costoro qui sotto?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_too_fragile_for_winter_winds" data-title="141. Some, too fragile for winter winds" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,archetype/child,motif/the_grave,motif/death,motif/winter,motif/birds,motif/lamb,concept/mortality,concept/grief_and_loss,concept/providence,form/elegy,form/lyric,histref/the_bible,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -533,6 +563,7 @@ Sparrow, unnoticed by the Father —
 Lambs for whom [[motifs/time|time]] had not a fold.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Alcuni, troppo fragili per i venti d'[[motifs/winter|inverno]]  
@@ -550,6 +581,8 @@ Presto invecchiati, e spesso freddi,
 Passero, inosservato dal Padre —  
 Agnelli per cui il [[motifs/time|tempo]] non ebbe ovile.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="st_is_the_only_secret" data-title="153. Dust is the only Secret —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/dust,motif/death,motif/birds,concept/mortality,concept/faith,form/lyric,form/riddle,character/death_personified,character/christ,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -576,6 +609,7 @@ Robin after Robin
 Smuggled to Rest!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/dust|Polvere]] è il solo Segreto —  
@@ -598,6 +632,8 @@ Costruisce, come un Uccello, anche!
 Pettirosso dopo Pettirosso  
 Trafugato al Riposo!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="it_till_the_majesty_of_death" data-title="171. Wait till the Majesty of Death" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,topos/memento_mori,motif/death,motif/dust,motif/crown,motif/clothing,concept/mortality,concept/the_common_man,concept/faith,form/lyric,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -624,6 +660,7 @@ Since that My Lord, "the Lord of Lords"
 Receives unblushingly!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Aspetta che la Maestà della [[motifs/death|Morte]]  
@@ -646,6 +683,8 @@ A così Modesta Creta
 Poiché quel Mio Signore, "il Signore dei Signori"  
 Riceve senza arrossire!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_many_times_these_low_feet_staggered" data-title="187. How many times these low feet staggered —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,motif/the_window,motif/flowers,concept/mortality,concept/transience,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -667,6 +706,7 @@ Fearless — the cobweb swings from the ceiling —
 Indolent Housewife — in Daisies — lain!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quante volte questi umili piedi vacillarono —  
@@ -684,6 +724,8 @@ Ardito — splende il [[motifs/sun|sole]] attraverso il vetro lentigginoso —
 Impavida — la ragnatela oscilla dal soffitto —  
 Indolente Massaia — fra le Margherite — distesa!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="fe_in_their_alabaster_chambers" data-title="216. Safe in their alabaster chambers" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,topos/memento_mori,motif/the_grave,motif/death,motif/sleep,concept/mortality,concept/immortality,concept/transience,concept/faith,form/hymn,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -708,6 +750,7 @@ Diadems drop and Doges surrender,
 Soundless as dots on a disk of [[motifs/snow|snow]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Al sicuro nelle loro Camere d'Alabastro —  
@@ -728,6 +771,8 @@ I mondi scavano i loro archi, e i firmamenti remano,
 Cadono i Diademi e i Dogi si arrendono,  
 Silenziosi come punti su un disco di [[motifs/snow|neve]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ath_sets_a_thing_significant" data-title="360. Death sets a Thing significant" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/memory,motif/the_book,motif/dust,concept/grief_and_loss,concept/memory_and_time,form/elegy,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -759,6 +804,7 @@ Obliterate the Etchings
 Too Costly for Repairs.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/death|Morte]] rende una Cosa significante  
@@ -786,6 +832,8 @@ Perché [[motifs/tears|Lacrime]] che interrompono
 Cancellano le Incisioni  
 Troppo Costose da Riparare.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_color_of_the_grave_is_green" data-title="411. The Color of the Grave is Green —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,motif/death,motif/winter,motif/flowers,concept/mortality,concept/grief_and_loss,concept/memory_and_time,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -822,6 +870,7 @@ When that you met it with before —
 The Ferret — cannot find —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Colore della [[motifs/grave|Tomba]] è Verde —  
@@ -854,6 +903,8 @@ Legato a una Cuffia —
 Quando colui su cui prima lo incontravi —  
 Il Furetto — non sa trovare —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="as_like_a_maelstrom_with_a_notch" data-title="414. 'Twas like a Maelstrom, with a notch," data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/dreams,motif/the_supernatural,motif/death,motif/the_wheel,concept/terror_and_horror,concept/mortality,concept/providence,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -891,6 +942,7 @@ Which Anguish was the utterest — then —
 To perish, or to live?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Era come un Maelstrom, con una tacca,  
@@ -924,6 +976,8 @@ Una Creatura ansimò "Grazia"!
 Quale Angoscia fu la più estrema — allora —  
 Perire, o vivere?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="died_for_beauty_but_was_scarce" data-title="449. I died for Beauty — but was scarce" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/the_grave,motif/death,concept/beauty_and_truth,concept/beauty,concept/truth,concept/mortality,concept/martyrdom,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -945,6 +999,7 @@ Until the moss had reached our lips,
 And covered up our names.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Morii per la [[concepts/beauty|bellezza]], ma ero appena  
@@ -962,6 +1017,8 @@ Parlammo tra le stanze,
 Finché il muschio ci raggiunse le labbra,  
 E ricoprì i nostri nomi.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="eet_safe_houses" data-title="457. Sweet — safe — Houses —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,concept/mortality,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -989,6 +1046,7 @@ Any — for the Press of Smiling —
 Interrupt — to die —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dolci — sicure — Case —  
@@ -1012,6 +1070,8 @@ Perché essi — non si [[concepts/wonder|chiedano]] Perché —
 Qualcuno — nella Calca dei Sorrisi —  
 S'interrompa — per morire —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_dealt_her_pretty_words_like_blades" data-title="479. She dealt her pretty words like Blades —" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,motif/death,concept/mortality,concept/grief_and_loss,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1033,6 +1093,7 @@ The Film upon the eye
 Just locking up — to Die.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dispensava le sue graziose parole come Lame —  
@@ -1050,6 +1111,8 @@ Il Velo sopra l'occhio
 Vecchia Usanza della [[concepts/mortality|Mortalità]] —  
 Solo serrarsi — per Morire.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_far_from_pity_as_complaint" data-title="496. As far from pity, as complaint —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,motif/animals,motif/nature,concept/mortality,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1071,6 +1134,7 @@ While Color's Revelations break —
 And blaze — the Butterflies!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lontana dalla pietà, come il lamento —  
@@ -1088,6 +1152,8 @@ Come muta giace la Danzatrice —
 Mentre irrompono le Rivelazioni del Colore —  
 E avvampano — le Farfalle!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_province_of_the_saved" data-title="539. The Province of the Saved" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/grace_and_redemption,concept/grief_and_loss,concept/mortality,concept/self_and_soul,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1109,6 +1175,7 @@ Mistake Defeat for [[motifs/death|Death]] — Each [[motifs/time|time]] —
 Till acclimated — to —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Provincia dei Salvati  
@@ -1126,6 +1193,8 @@ Per Quelli che, nuovi al fallire —
 Scambiano la Sconfitta per [[motifs/death|Morte]] — Ogni [[motifs/time|volta]] —  
 Finché acclimatati — a —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_seen_a_dying_eye" data-title="547. I've seen a Dying Eye" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/eyes_sight,motif/fog_and_smoke,concept/mortality,concept/doubt,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1141,6 +1210,7 @@ Without disclosing what it be,
 'T were blessed to have seen.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ho visto un occhio morente  
@@ -1152,6 +1222,8 @@ E poi venire saldato,
 Senza svelare che cosa fosse,  
 Che benedetto sarebbe stato vedere.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_knew_no_medicine" data-title="559. It knew no Medicine —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/flowers,concept/mortality,concept/the_sublime,concept/grace_and_redemption,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1178,6 +1250,7 @@ And sickened — ever afterward
 For Somewhat that it saw?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non conosceva Medicina —  
@@ -1200,6 +1273,8 @@ La Temerità — s'accostò —
 E si ammalò — per sempre poi  
 Per un Qualcosa che vide?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="toad_can_die_of_light" data-title="583. A Toad, can die of Light —" data-chapter="" data-kind="intro" data-tags="concept/mortality,concept/humility,concept/paradox,concept/self_and_soul,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1220,6 +1295,7 @@ Bare Rhine —
 Which Ruby's mine?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Rospo, può morire di Luce —  
@@ -1236,6 +1312,8 @@ Nudo di Fiasco — Nudo di Botte —
 Puro Reno —  
 Quale Rubino è mio?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_talked_as_girls_do" data-title="586. We talked as Girls do —" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/mortality,concept/grief_and_loss,concept/childhood_and_growth,concept/transience,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1262,6 +1340,7 @@ But Heaven made both, impossible
 Before another [[motifs/night|night]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Parlavamo come fanno le Ragazze —  
@@ -1284,6 +1363,8 @@ Di volerci care, e di scriverci
 Ma il Cielo rese entrambi, impossibili  
 Prima di un'altra [[motifs/night|notte]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_care_the_dead_for_chanticleer" data-title="592. What care the Dead, for Chanticleer —" data-chapter="" data-kind="intro" data-tags="concept/mortality,concept/transience,concept/grief_and_loss,concept/melancholy,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1320,6 +1401,7 @@ And put a Stone to keep it Warm —
 Give Spices — unto Men —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che importa ai Morti, di Chanticleer —  
@@ -1352,6 +1434,8 @@ Deporrebbe in una Pietra
 E metterebbe una Pietra a tenerla Calda —  
 Darebbe Spezie — agli Uomini —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ree_times_we_parted_breath_and_i" data-title="598. Three times — we parted — Breath — and I —" data-chapter="" data-kind="intro" data-tags="concept/mortality,concept/terror_and_horror,concept/immortality,concept/suffering,concept/self_and_soul,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1380,6 +1464,7 @@ Then Sunrise kissed my Chrysalis —
 And I stood up — and lived —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 —  
@@ -1404,6 +1489,8 @@ I Venti — come Bimbi — si acquietarono —
 Poi l'Alba baciò la mia Crisalide —  
 E mi levai — e vissi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ull_find_it_when_you_try_to_die" data-title="610. You'll find — it when you try to die —" data-chapter="" data-kind="intro" data-tags="concept/mortality,concept/grief_and_loss,concept/memory_and_time,concept/immortality,concept/nostalgia,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1430,6 +1517,7 @@ To stay behind — with just the Toys
 We bought — to ease their place —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lo scoprirai — quando cercherai di morire —  
@@ -1452,6 +1540,8 @@ che pare Grazia troppo vile
 restare indietro — con i soli Balocchi  
 che comprammo — per lenire il loro posto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_know_just_how_he_suffered_would_be_dear" data-title="622. To know just how He suffered — would be dear —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/eyes_sight,motif/sun,concept/mortality,concept/grief_and_loss,concept/immortality,concept/faith_and_doubt,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1493,6 +1583,7 @@ Till [[motifs/love|love]] that was, and [[motifs/love|love]] too blest to be,
 Meet—and the junction be [[concepts/eternity|Eternity]]?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 CARO —  
@@ -1530,6 +1621,8 @@ Quanto cosciente la coscienza possa crescere,
 Finché l'[[motifs/love|amore]] che fu, e l'[[motifs/love|amore]] troppo beato per essere,  
 S'incontrino—e la giunzione sia l'[[concepts/eternity|Eternità]]?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_dwelleth_in_the_ground" data-title="671. She dwelleth in the Ground —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/death,motif/flowers,concept/mortality,concept/grief_and_loss,concept/beauty,form/lyric,form/elegy,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1546,6 +1639,7 @@ The Firmament's — To Pluck Her —
 And fetch Her Thee — be mine —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ella dimora nella Terra —  
@@ -1558,6 +1652,8 @@ E Bellezza — e Fama —
 Del Firmamento — il Coglierla —  
 E portarla a Te — sia mio —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sun_kept_setting_setting_still" data-title="692. The Sun kept setting — setting — still" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/light_and_dark,motif/sun,concept/mortality,concept/immortality,concept/transience,concept/faith,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1584,6 +1680,7 @@ I could see it now —
 I'm not afraid to know —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/sun|Sole]] seguitava a tramontare — tramontare — eppure  
@@ -1606,6 +1703,8 @@ Potevo vederla ora —
 È Morire — ciò che sto facendo — ma  
 Non ho paura di saperlo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_world_feels_dusty" data-title="715. The World — feels Dusty" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/dust,motif/death,motif/water,concept/mortality,concept/transience,concept/grief_and_loss,concept/friendship,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1627,6 +1726,7 @@ And Hybla Balms —
 Dews of Thessaly, to fetch —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Mondo — sembra Polveroso  
@@ -1644,6 +1744,8 @@ Quando verrà la tua Sete —
 E i Balsami di Ibla —  
 Rugiade di Tessaglia, a recare —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="want_it_pleaded_all_its_life" data-title="731. &quot;I want&quot; — it pleaded — All its life —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/desire,concept/mortality,concept/grief_and_loss,concept/immortality,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1660,6 +1762,7 @@ The lips had placed as with a "Please"
 Toward [[concepts/eternity|Eternity]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "Io voglio" — implorò — Tutta la sua vita —  
@@ -1672,6 +1775,8 @@ Quel singolo — fermo sospiro —
 Che le labbra avevano posto come un "Per favore"  
 Verso l'[[concepts/eternity|Eternità]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="reaved_of_all_i_went_abroad" data-title="784. Bereaved of all, I went abroad —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/death,motif/the_sea,motif/memory,concept/grief_and_loss,concept/mortality,concept/memory_and_time,concept/melancholy,form/lyric,form/elegy,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1698,6 +1803,7 @@ The [[motifs/grave|Grave]] — was finished — but the Spade
 Remained in [[motifs/memory|Memory]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Orbata di tutto, andai lontano —  
@@ -1720,6 +1826,8 @@ Di macerarne via la forma —
 La [[motifs/grave|Tomba]] — era compiuta — ma la Vanga  
 Restò nella [[motifs/memory|Memoria]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_quiet_dust_was_gentleman_and_ladies" data-title="813. This quiet Dust was Gentleman and Ladies" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,topos/ubi_sunt,motif/dust,motif/the_grave,motif/seasons,concept/mortality,concept/transience,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1736,6 +1844,7 @@ Exists an Oriental Circuit
 Then cease, like these —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questa quieta [[motifs/dust|Polvere]] fu Gentiluomini e Dame  
@@ -1748,6 +1857,8 @@ Dove Fioritura e [[motifs/bees|Api]]
 Esiste un Circuito Orientale  
 Poi cessano, come questi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_one_has_given_up_ones_life" data-title="853. When One has given up One's life" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/sun,concept/mortality,concept/grief_and_loss,concept/transience,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1764,6 +1875,7 @@ As scarcely as the Iodine
 Upon the Cataract.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando Uno ha ceduto la propria vita  
@@ -1776,6 +1888,8 @@ Restano nel Suo rimpianto
 Appena quanto lo Iodio  
 Sulla Cateratta.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_is_a_finished_feeling" data-title="856. There is a finished feeling" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,concept/mortality,concept/immortality,form/lyric,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1792,6 +1906,7 @@ And the Eternal function
 Enabled to infer.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 C'è un sentimento di compiuto  
@@ -1804,6 +1919,8 @@ Più preciso ciò che siamo
 E l'Eterna funzione  
 Dato ci è inferire.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_chasm_sweet_upon_my_life" data-title="858. This Chasm, Sweet, upon my life" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/dawn,concept/despair,concept/mortality,concept/love_romantic,form/lyric,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1835,6 +1952,7 @@ A Life quite ready to depart
 Can harass me no more —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questo Baratro, Dolcezza, sopra la mia vita  
@@ -1862,6 +1980,8 @@ Il mio Sepolcro — prima che
 Una Vita ben pronta a partire  
 Possa tormentarmi mai più —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ey_wont_frown_always_some_sweet_day" data-title="874. They won't frown always — some sweet Day" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/winter,concept/mortality,concept/grief_and_loss,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1878,6 +1998,7 @@ Who cannot thank Them for the Ice
 That filled the lisping full.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non saranno accigliati per sempre — un dolce Giorno  
@@ -1890,6 +2011,8 @@ A chiamare la piccola Bimba
 Che non può ringraziarLi per il Gelo  
 Che colmò del tutto il balbettio.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_was_a_grave_yet_bore_no_stone" data-title="876. It was a Grave, yet bore no Stone" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/rose,concept/mortality,concept/alienation,concept/grace_and_redemption,form/elegy,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1911,6 +2034,7 @@ A [[motifs/rose|Rose]] upon its Ridge to sow
 Or take away a Briar.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Era una [[motifs/grave|Tomba]], eppur non recava Pietra  
@@ -1928,6 +2052,8 @@ Negato il piccolo [[motifs/desire|desiderio]]
 Di seminare una [[motifs/rose|Rosa]] sul suo Colmo  
 O di togliere un Rovo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ch_second_is_the_last" data-title="879. Each Second is the last" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/death,motif/time,concept/mortality,concept/terror_and_horror,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1944,6 +2070,7 @@ Than perish from the Chance's list
 Before the Perishing!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ogni Secondo è l'ultimo  
@@ -1956,6 +2083,8 @@ Quanto più terribile cosa
 Che perire dalla lista della Possibilità  
 Prima del Perire!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="isis_is_a_hair" data-title="889. Crisis is a Hair" data-chapter="" data-kind="intro" data-tags="motif/death,concept/mortality,concept/immortality,concept/terror_and_horror,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1982,6 +2111,7 @@ That secures [[concepts/eternity|Eternity]]
 From presenting — Here —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Crisi è un Capello  
@@ -2004,6 +2134,8 @@ Che regola il Capello
 Che trattiene l'[[concepts/eternity|Eternità]]  
 Dal presentarsi — Qui —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_occupies_this_house" data-title="892. Who occupies this House?" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/ghosts,concept/mortality,concept/immortality,form/lyric,setting/new_england,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2052,6 +2184,7 @@ A Stranger He must be —
 Are mostly so — to me.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chi occupa questa Casa?  
@@ -2096,6 +2229,8 @@ Un Estraneo dev'essere —
 Le Conoscenze dell'[[concepts/eternity|Eternità]]  
 Lo sono per lo più — per me.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_admirations_and_contempts_of_time" data-title="906. The Admirations — and Contempts — of time —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,motif/eyes_sight,concept/mortality,concept/memory_and_time,concept/immortality,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2122,6 +2257,7 @@ And forward —
 Toward the [[characters/god|God]] of Him —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[motifs/time|TEMPO]] —  
@@ -2144,6 +2280,8 @@ Indietro — verso il [[motifs/time|Tempo]] —
 E avanti —  
 Verso il [[characters/god|Dio]] di Lui —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_sunrise_little_maid_hast_thou" data-title="908. 'Tis Sunrise — Little Maid — Hast Thou" data-chapter="" data-kind="intro" data-tags="archetype/innocent,motif/dawn,motif/flowers,concept/mortality,concept/grief_and_loss,form/elegy,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2167,6 +2305,7 @@ Dissuade thee, if I could not, Sweet,
 I might have aided — thee —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È l'Alba — Piccola Fanciulla — Non hai Tu  
@@ -2186,6 +2325,8 @@ Il tuo piccolo Piano di Morire —
 Dissuaderti, se non avessi potuto, Dolce,  
 Avrei potuto aiutare — te —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_little_way_the_house_must_lie" data-title="911. Too little way the House must lie" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,concept/mortality,concept/self_and_soul,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2202,6 +2343,7 @@ Each Consciousness must emigrate
 And lose its neighbor once —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 A troppo breve via la Casa deve stare  
@@ -2214,6 +2356,8 @@ Troppo imminente la sorte —
 Ogni Coscienza deve emigrare  
 E perdere il suo vicino una volta —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_plan_for_noon_and_plan_for_night" data-title="960. As plan for Noon and plan for Night" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,concept/mortality,concept/paradox,concept/love_romantic,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2230,6 +2374,7 @@ Makes effort at conclusion
 Assisted faint of [[motifs/love|Love]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come piano per [[motifs/noon|Mezzogiorno]] e piano per [[motifs/night|Notte]]  
@@ -2242,6 +2387,8 @@ Il Piede sulla [[motifs/grave|Tomba]]
 Fa sforzo di conclusione  
 Assistito fioco d'[[motifs/love|Amore]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="t_all_die_early_dying_young" data-title="990. Not all die early, dying young —" data-chapter="" data-kind="intro" data-tags="motif/time,motif/death,concept/mortality,concept/fate_and_free_will,concept/paradox,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2258,6 +2405,7 @@ Of Junior of Fourscore — 'twas Act
 Not Period — that died.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non tutti muoiono presto, morendo giovani —  
@@ -2270,6 +2418,8 @@ In piena statura — al fianco
 D'un Giovane d'Ottant'anni — fu l'Atto  
 Non il Periodo — a morire.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_large_my_will" data-title="1024. So large my Will" data-chapter="" data-kind="intro" data-tags="topos/vanitas,topos/contemptus_mundi,motif/money_gold,concept/immortality,concept/humility,concept/transience,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2296,6 +2446,7 @@ At our Conceit
 In purchasing.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Così grande la mia Volontà  
@@ -2318,6 +2469,8 @@ che noi ci [[concepts/wonder|stupiamo]] allora
 della nostra Presunzione  
 nel comprare.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="re_where_the_daisies_fit_my_head" data-title="1037. Here, where the Daisies fit my Head" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/flowers,concept/mortality,concept/grief_and_loss,form/lyric,setting/the_grave,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2339,6 +2492,7 @@ A single Bloom we constitute
 Departed, or at [[motifs/home|Home]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Qui, dove le Margherite si adattano al mio Capo  
@@ -2356,6 +2510,8 @@ Divenute per Distanze —
 Un solo Bocciolo costituiamo  
 Partite, o a [[motifs/home|Casa]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="hes_denote_that_fire_was" data-title="1063. Ashes denote that Fire was —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/fire,motif/dust,concept/mortality,concept/memory_and_time,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2372,6 +2528,7 @@ Only the Chemist can disclose
 Into what Carbonates.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ceneri denotano che [[motifs/fire|Fuoco]] fu —  
@@ -2384,6 +2541,8 @@ E poi si consolida
 Solo il Chimico può svelare  
 In quali Carbonati.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_twigs_we_held_by" data-title="1086. What Twigs We held by —" data-chapter="" data-kind="intro" data-tags="topos/vanitas,topos/contemptus_mundi,motif/river,motif/clothing,concept/transience,concept/immortality,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2410,6 +2569,7 @@ How dimmer than a [[characters/saturn|Saturn]]'s Bar
 The Things esteemed, for Things that are!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 A che Rametti Ci reggevamo —  
@@ -2432,6 +2592,8 @@ I Dischi che appagavano la Nostra Vista —
 Quanto più fiochi della Fascia di un [[characters/saturn|Saturno]]  
 Le Cose stimate, rispetto alle Cose che sono!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_this_should_feel_the_need_of_death" data-title="1112. That this should feel the need of Death" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,concept/mortality,concept/paradox,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2448,6 +2610,7 @@ The small must die, as [[motifs/well|well]] as He —
 Oh the Audacity —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che questo senta il bisogno della [[motifs/death|Morte]]  
@@ -2460,6 +2623,8 @@ Nella sua semplicità
 Il piccolo deve morire, [[motifs/well|così]] come Lui —  
 Oh l'Audacia —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ter_a_hundred_years" data-title="1147. After a hundred years" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,topos/memento_mori,motif/the_grave,motif/death,motif/memory,motif/ruins,concept/transience,concept/memory_and_time,concept/mortality,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2481,6 +2646,7 @@ Instinct picking up the Key
 Dropped by [[motifs/memory|memory]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dopo cent'anni  
@@ -2498,6 +2664,8 @@ Ricordano la via —
 L'Istinto raccoglie la Chiave  
 Caduta alla [[motifs/memory|memoria]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="full_fed_rose_on_meals_of_tint" data-title="1154. A full fed Rose on meals of Tint" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/vanitas,motif/rose,motif/flowers,concept/transience,concept/mortality,concept/beauty,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2513,6 +2681,7 @@ Submitting for our unknown sake
 To be esteemed no more —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una [[motifs/rose|Rosa]] ben nutrita a pasti di Tinta  
@@ -2524,6 +2693,8 @@ Se stessa, adorata prima
 Che si sottomette per il nostro ignoto bene  
 A non essere stimata più —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ep_lightly_on_this_narrow_spot" data-title="1183. Step lightly on this narrow spot —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/the_grave,motif/death,motif/swords_weapons,concept/heroism,concept/immortality,form/elegy,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2540,6 +2711,7 @@ Or [[motifs/flag|Flag]] subsist or Fame export
 Her deathless Syllable.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cammina lieve su questo angusto luogo —  
@@ -2552,6 +2724,8 @@ Fin dove dimora il Cannone
 O sussiste [[motifs/flag|Bandiera]] o la Fama esporta  
 La sua immortale Sillaba.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="as_fighting_for_his_life_he_was" data-title="1188. 'Twas fighting for his Life he was —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/swords_weapons,concept/mortality,concept/self_and_soul,concept/war_and_its_cost,concept/heroism,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2568,6 +2742,7 @@ In that Campaign inscrutable
 Of the Interior.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Era per la sua Vita che lottava —  
@@ -2580,6 +2755,8 @@ Non c'è una seconda Guerra
 In quella Campagna imperscrutabile  
 Dell'Interiore.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_we_see_no_more_tenements_of_wonder" data-title="1221. Some we see no more, Tenements of Wonder" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,motif/dust,concept/immortality,concept/the_sublime,concept/faith_and_doubt,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2597,6 +2774,7 @@ Adequate as Drums
 To enlist the Tomb.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Alcuni non li vediamo più, Dimore di [[concepts/wonder|Meraviglia]]  
@@ -2610,6 +2788,8 @@ Capace come la [[motifs/dust|Polvere]] di armarne il volto
 Adeguata come Tamburi  
 Ad arruolare la Tomba.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="t_any_higher_stands_the_grave" data-title="1256. Not any higher stands the Grave" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,topos/sic_transit_gloria_mundi,archetype/king,motif/the_grave,motif/death,motif/crown,concept/mortality,concept/the_common_man,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2626,6 +2806,7 @@ Propitiate this Democrat
 A [[motifs/summer|Summer]]'s Afternoon —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non più alta sta la [[motifs/grave|Tomba]]  
@@ -2638,6 +2819,8 @@ Il Mendicante e la sua [[characters/queen|Regina]]
 Propiziate questo Democratico  
 Un Pomeriggio d'[[motifs/summer|Estate]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_proud_she_was_to_die" data-title="1272. So proud she was to die" data-chapter="" data-kind="intro" data-tags="motif/death,concept/mortality,concept/pride,concept/jealousy,concept/grief_and_loss,concept/immortality,form/elegy,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2653,6 +2836,7 @@ Immediately — that Anguish stooped
 Almost to [[concepts/jealousy|Jealousy]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Così fiera era di morire  
@@ -2664,6 +2848,8 @@ Dove nessuno di noi sarebbe stato
 Subito — che l'Angoscia si chinò  
 Quasi fino alla [[concepts/jealousy|Gelosia]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="in_in_nature_so_suffice_us" data-title="1288. Lain in Nature — so suffice us" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,motif/death,motif/nature,motif/flowers,concept/mortality,concept/grief_and_loss,form/elegy,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2680,6 +2866,7 @@ Pasted by the simple [[motifs/summer|summer]]
 On the Longed for Dead
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Deposti in [[concepts/nature|Natura]] — così ci basti  
@@ -2692,6 +2879,8 @@ Non può smuovere una zolla
 Incollata dalla semplice [[motifs/summer|estate]]  
 Sui Morti Sospirati
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_notice_that_is_called_the_spring" data-title="1310. The Notice that is called the Spring" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/spring,motif/seasons,motif/flowers,motif/birds,motif/death,concept/mortality,concept/transience,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2708,6 +2897,7 @@ Our salary the longest Day
 Is nothing but a Bier.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Annuncio che si chiama [[motifs/spring|Primavera]]  
@@ -2720,6 +2910,8 @@ Gli [[motifs/birds|Uccelli]] innamorano la Cura —
 Il nostro salario il Giorno più lungo  
 Non è nient'altro che un Feretro.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="aise_it_tis_dead" data-title="1384. Praise it — 'tis dead —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/dust,concept/mortality,concept/transience,form/elegy,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2736,6 +2928,7 @@ Remitted — since it flitted it
 In recusance august.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lodatelo — è morto —  
@@ -2748,6 +2941,8 @@ Nelle Delizie della [[motifs/dust|Polvere]] —
 Rimesso — da che lo fuggì  
 In augusta recusanza.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_laid_her_docile_crescent_down" data-title="1396. She laid her docile Crescent down" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,motif/memory,motif/mutability,concept/mortality,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2764,6 +2959,7 @@ It shames the Constancy that fled
 Before its emblem flew —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lei depose la sua docile Falce  
@@ -2776,6 +2972,8 @@ La Stele che mai seppe —
 Fa vergognare la Costanza fuggita  
 Prima che il suo emblema volasse —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ter_makes_many_beds" data-title="1428. Water makes many Beds" data-chapter="" data-kind="intro" data-tags="motif/water,motif/death,motif/the_grave,motif/the_sea,motif/sleep,concept/mortality,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2791,6 +2989,7 @@ Whose Amplitude no end invades —
 Whose Axis never comes.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'[[motifs/water|Acqua]] fa molti Letti  
@@ -2802,6 +3001,8 @@ In Stanze ondulanti
 La cui Ampiezza nessuna fine invade —  
 Il cui Asse mai giunge.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_knew_not_that_we_were_to_live" data-title="1462. We knew not that we were to live —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/clothing,concept/mortality,concept/faith,concept/providence,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2817,6 +3018,7 @@ By his intrusion, [[characters/god|God]] is known —
 It is the same with Life —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non sapevamo che avremmo vissuto —  
@@ -2828,6 +3030,8 @@ Finché non ci chiedono di toglierlo —
 Dalla sua intrusione si conosce [[characters/god|Dio]] —  
 Lo stesso è della Vita —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_face_in_evanescence_lain" data-title="1490. The Face in evanescence lain" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/mortality,concept/transience,concept/grief_and_loss,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2842,6 +3046,7 @@ Dissenting to enamor us
 Of Detriment divine?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Volto in evanescenza adagiato  
@@ -2852,6 +3057,8 @@ O è la confidente lucentezza
 Che dissente dal farci innamorare  
 Del Detrimento divino?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="re_than_the_grave_is_closed_to_me" data-title="1503. More than the Grave is closed to me —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/mortality,concept/grief_and_loss,concept/doubt,concept/spiritual_emptiness,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2865,6 +3072,7 @@ The Crash of nothing, yet of all —
 How similar appears —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Più che la [[motifs/grave|Tomba]] mi è chiusa —  
@@ -2874,6 +3082,8 @@ Non mi aggrappo a nulla finché cado —
 Lo Schianto di niente, eppure di tutto —  
 Come simile appare —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_give_it_motion_deck_it_sweet" data-title="1527. Oh give it Motion — deck it sweet" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/dust,motif/the_grave,concept/mortality,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2889,6 +3099,7 @@ Than with this horizontal one
 That will not lift its Hat —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Oh dagli Moto — adornalo dolce  
@@ -2900,6 +3111,8 @@ Più in confidenza con quella
 Che con questo orizzontale  
 Che non solleverà il Cappello —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_me_that_walks_and_works_must_die" data-title="1588. This Me — that walks and works — must die," data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,concept/mortality,concept/fate_and_free_will,concept/self_and_soul,concept/identity,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2917,6 +3130,7 @@ Not even a Prognostic's push
 Can make a Dent thereon —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 MORIRE,  
@@ -2930,6 +3144,8 @@ Prima che nascesse la mia mente
 Che nemmeno la spinta d'un Pronostico  
 Può farvi un'Ammaccatura —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_give_me_back_to_death" data-title="1632. So give me back to Death —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,concept/grief_and_loss,concept/love_romantic,concept/unrequited_love,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2945,6 +3161,7 @@ Its size is all that Hell can guess —
 And all that Heaven was —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Rendimi dunque alla [[motifs/death|Morte]] —  
@@ -2956,6 +3173,8 @@ E ne stimo la misura —
 La sua misura è tutto ciò che l'Inferno può congetturare —  
 E tutto ciò che il Cielo era —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ill_own_thee_still_thou_art" data-title="1633. Still own thee — still thou art" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,motif/the_sea,concept/grief_and_loss,concept/mortality,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -2972,6 +3191,7 @@ Before thou dost exude away
 In the recallless [[motifs/sea|sea]]?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ancora ti possiedo — ancora tu sei  
@@ -2984,6 +3204,8 @@ Quale risposta strapparti
 Prima che tu trasudi via  
 Nel [[motifs/sea|mare]] senza richiamo?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="vance_is_lifes_condition" data-title="1652. Advance is Life's condition" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/immortality,concept/mortality,concept/faith_and_doubt,form/aphorism,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -3000,6 +3222,7 @@ Is better we consider
 Than not exist at all —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Avanzare è condizione della Vita  
@@ -3012,6 +3235,8 @@ Un'Esistenza con un muro
 È meglio consideriamo  
 Che non esistere affatto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="know_of_people_in_the_grave" data-title="1665. I know of people in the Grave" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/death,concept/grief_and_loss,concept/wonder_and_gratitude,concept/mortality,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -3028,6 +3253,7 @@ My right to walk upon the Earth
 If they this moment had.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 So di gente nella [[motifs/grave|Tomba]]  
@@ -3040,6 +3266,8 @@ e gonfia l'atto più esiguo —
 Il mio diritto di camminare sulla Terra  
 se loro questo istante avessero.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_grave_my_little_cottage_is" data-title="1743. The grave my little cottage is," data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/death,concept/immortality,concept/love_romantic,concept/faith,concept/marriage_and_fidelity,form/hymn,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -3056,6 +3284,7 @@ Till everlasting life unite
 In strong society.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/grave|tomba]] è il mio piccolo cottage,  
@@ -3068,6 +3297,8 @@ Un ciclo, può darsi,
 Finché vita eterna non unisca  
 In salda società.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_docile_one_inter" data-title="1752. This docile one inter" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,motif/death,concept/grief_and_loss,concept/transience,form/elegy,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -3082,6 +3313,7 @@ On her departing span
 No wilderness remain  
 As dauntless in the House of [[motifs/death|Death]]  
 As if it were her own —
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3095,3 +3327,5 @@ Sul suo arco che si congeda
 Nessun deserto rimanga  
 Impavida nella Casa della [[motifs/death|Death]]  
 Come se fosse la sua —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

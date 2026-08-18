@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan--poems" data-author="Dickinson" data-workhref="works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 1. Awake ye muses nine, sing me a strain divine · 20. Distrustful of the Gentian — · 31. Summer for thee, grant I may be · 47. Heart! We will forget him! · 84. Her breast is fit for pearls, · 106. The Daisy follows soft the Sun — · 109. By a flower — By a letter — · 156. You love me — you are sure — · 186. What shall I do — it whimpers so — · 190. He was weak, and I was strong — then — · 199. I'm "wife" — I've finished that — · 207. Tho' I get home how late — how late — · 208. The Rose did caper on her cheek — · 223. I Came to buy a smile — today — · 224. I've nothing else — to bring, You know — · 284. The Drop, that wrestles in the Sea — · 293. I got so I could take his name — · 296. One Year ago — jots what? · 299. Your Riches — taught me — Poverty · 300. "Morning" — means "Milking" — to the Farmer — · 303. The Soul selects her own Society — · 322. There came a Day at Summer's full, · 336. The face I carry with me — last — · 339. I tend my flowers for thee — · 351. I felt my life with both my hands · 368. How sick — to wait — in any place — but thine — · 387. The sweetest Heresy received · 394. 'Twas Love — not me — · 398. I had not minded — Walls — · 400. A Tongue — to tell Him I am true! · 429. The Moon is distant from the Sea — · 438. Forget! The lady with the Amulet · 440. 'Tis customary as we part · 446. I showed her Heights she never saw — · 452. The Malay — took the Pearl — · 453. Love — thou art high — · 464. The power to be true to You, · 493. The World — stands — solemner — to me — · 494. Going to Him! Happy letter! · 498. I envy Seas, whereon He rides — · 504. You know that Portrait in the Moon — · 523. Sweet — You forgot — but I remembered · 535. She's happy, with a new Content — · 537. Me prove it now — Whoever doubt · 570. I could die — to know — · 580. I gave myself to Him — · 587. Empty my Heart, of Thee — · 611. I see thee better — in the Dark — · 617. Don't put up my Thread and Needle — · 621. I asked no other thing — · 625. 'Twas a long Parting — but the time · 631. Ourselves were wed one summer — dear — · 635. I think the longest Hour of all · 636. The Way I read a Letter's — this — · 640. I cannot live with You — · 643. I could suffice for Him, I knew — · 644. You left me — Sire — two Legacies — · 646. I think to Live — may be a Bliss · 647. A little Road — not made of Man — · 648. Promise This — When You be Dying — · 651. So much Summer · 655. Without this — there is nought — · 659. That first Day, when you praised Me, Sweet, · 663. Again — his voice is at the door — · 664. Of all the Souls that stand create — · 673. The Love a Life can show Below · 697. I could bring You Jewels — had I a mind to — · 725. Where Thou art — that — is Home — · 727. Precious to Me — She still shall be — · 732. She rose to His Requirement — dropt · 738. You said that I "was Great" — one Day — · 745. Renunciation — is a piercing Virtue — · 788. Joy to have merited the Pain — · 851. When the Astronomer stops seeking · 869. Because the Bee may blameless hum · 881. I've none to tell me to but Thee · 907. Till Death — is narrow Loving — · 961. Wert Thou but ill — that I might show thee · 966. All forgot for recollecting · 973. 'Twas awkward, but it fitted me — · 1013. Too scanty 'twas to die for you, · 1053. It was a quiet way — · 1072. Title divine — is mine! · 1150. How many schemes may die · 1160. He is alive, this morning — · 1187. Oh Shadow on the Grass, · 1189. The Voice that stands for Floods to me · 1219. Now I knew I lost her — · 1224. Like Trains of Cars on Tracks of Plush · 1229. Because He loves Her · 1231. Somewhere upon the general Earth · 1237. My Heart ran so to thee · 1247. To pile like Thunder to its close · 1249. The Stars are old, that stood for me — · 1257. Dominion lasts until obtained — · 1290. The most pathetic thing I do · 1297. Go slow, my soul, to feed thyself · 1314. When a Lover is a Beggar · 1386. Summer — we all have seen — · 1398. I have no Life but this — · 1438. Behold this little Bane — · 1440. The healed Heart shows its shallow scar · 1449. I thought the Train would never come — · 1476. His voice decrepit was with Joy — · 1496. All that I do · 1529. 'Tis Seasons since the Dimpled War · 1542. Come show thy Durham Breast · 1560. To be forgot by thee · 1579. It would not know if it were spurned, · 1643. Extol thee — could I? Then I will · 1664. I did not reach Thee · 1731. Love can do all but raise the Dead · 1737. Rearrange a "Wife's" affection! · 1754. To lose thee — sweeter than to gain · 1760. Elysium is as far as to · 1771. How fleet — how indiscreet an one —
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="ake_ye_muses_nine_sing_me_a_strain_divine" data-title="1. Awake ye muses nine, sing me a strain divine" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,archetype/lover,motif/nature,concept/love_romantic,concept/marriage_and_fidelity,form/lyric,histref/classical_antiquity,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
@@ -64,6 +67,7 @@ And bring the fife, and trumpet, and beat upon the drum —
 And bid the world Goodmorrow, and go to glory [[motifs/home|home]]!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Destatevi muse nove, cantatemi un canto divino,  
@@ -110,6 +114,8 @@ E dalle ciò che chiede, [[motifs/jewel|gioiello]], o uccello, o fiore —
 E porta il piffero, e la tromba, e batti sul tamburo —  
 E dai al mondo il Buongiorno, e vattene in gloria a [[motifs/home|casa]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="strustful_of_the_gentian" data-title="20. Distrustful of the Gentian —" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/winter,motif/bees,concept/mortality,concept/faith,concept/guilt,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -134,6 +140,7 @@ Hangs so distant Heaven —
 To a hand below.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Diffidente della Genziana —  
@@ -154,6 +161,8 @@ A Occhi che si vanno Chiudendo —
 Pende così distante il Cielo —  
 A una mano quaggiù.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="mmer_for_thee_grant_i_may_be" data-title="31. Summer for thee, grant I may be" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/birds,motif/the_grave,concept/love_romantic,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -171,6 +180,7 @@ Anemone -
 Thy flower - forevermore!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[motifs/summer|Summer]] per te, concedi ch'io sia  
@@ -184,6 +194,8 @@ Ti prego coglimi -
 Anemone -  
 Tuo fiore - per sempre!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="art_we_will_forget_him" data-title="47. Heart! We will forget him!" data-chapter="" data-kind="intro" data-tags="motif/love,motif/memory,concept/unrequited_love,concept/grief_and_loss,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -200,6 +212,7 @@ Haste! lest while you're lagging
 I remember him!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cuore! Lo dimenticheremo!  
@@ -212,6 +225,8 @@ Che io possa subito cominciare!
 Presto! ché mentre tu indugi  
 Io lo ricordi!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_breast_is_fit_for_pearls" data-title="84. Her breast is fit for pearls," data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/love,motif/birds,concept/love_romantic,concept/humility,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -227,6 +242,7 @@ Sweet of twigs and twine
 My perennial nest.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il suo petto è degno di perle,  
@@ -238,6 +254,8 @@ Io — un Passero — vi costruisco
 Dolce di rametti e spago  
 Il mio nido perenne.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_daisy_follows_soft_the_sun" data-title="106. The Daisy follows soft the Sun —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,topos/the_unattainable_beloved,archetype/lover,motif/flowers,motif/sun,concept/love_romantic,concept/love_divine,form/allegory,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -258,6 +276,7 @@ The peace, the flight, the amethyst,
 [[motifs/night|Night]]'s possibility !
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La margherita segue dolce il [[motifs/sun|sole]],  
@@ -274,6 +293,8 @@ Innamorati dell'occidente che si congeda,
 la pace, il volo, l'ametista,  
 la possibilità della [[motifs/night|Night]] !
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_a_flower_by_a_letter" data-title="109. By a flower — By a letter —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/flowers,motif/letters_writing,motif/fire,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -290,6 +311,7 @@ Never mind the sooty faces
 Tugging at the Forge!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Con un fiore — Con una [[forms/letter|lettera]] —  
@@ -302,6 +324,8 @@ Non badare al Riposo!
 Non badare ai volti fuligginosi  
 che faticano alla Fucina!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="u_love_me_you_are_sure" data-title="156. You love me — you are sure —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/dawn,motif/the_window,concept/love_romantic,concept/doubt,concept/grief_and_loss,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -330,6 +354,7 @@ Over this [[motifs/pain|pain]] of mine —
 You sting — again!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tu mi [[motifs/love|ami]] — ne sei certa —  
@@ -354,6 +379,8 @@ Che quando — cresciuto un piccolo ottuso Balsamo —
 Sopra questo mio [[motifs/pain|dolore]] —  
 Tu pungi — ancora!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_shall_i_do_it_whimpers_so" data-title="186. What shall I do — it whimpers so —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/animals,concept/love_romantic,concept/unrequited_love,concept/self_and_soul,concept/desire,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -377,6 +404,7 @@ Tell Carlo —
 He'll tell me!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che farò — uggiola tanto —  
@@ -396,6 +424,8 @@ Verrà?
 Dillo a Carlo —  
 Lui lo dirà a me!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_was_weak_and_i_was_strong_then" data-title="190. He was weak, and I was strong — then —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/the_journey,motif/death,motif/dawn,concept/love_romantic,concept/grief_and_loss,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -417,6 +447,7 @@ He strove — and I strove — too —
 We didn't do it — tho'!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lui era debole, e io ero forte — allora —  
@@ -434,6 +465,8 @@ Nessuno — era il più forte — ormai —
 Lui lottò — e lottai — anch'io —  
 Ma non ci riuscimmo — però!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_wife_ive_finished_that" data-title="199. I'm &quot;wife&quot; — I've finished that —" data-chapter="" data-kind="intro" data-tags="motif/marriage,concept/marriage_and_fidelity,concept/identity,concept/childhood_and_growth,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -455,6 +488,7 @@ But why compare?
 I'm "Wife"! Stop there!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sono "moglie" — ho finito quello —  
@@ -472,6 +506,8 @@ Quell'altra specie — era [[motifs/pain|pena]] —
 Ma perché confrontare?  
 Sono "Moglie"! Basta lì!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_i_get_home_how_late_how_late" data-title="207. Tho' I get home how late — how late —" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/fire,motif/night,concept/joy,concept/immortality,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -493,6 +529,7 @@ And what itself, will say to me —
 Beguiles the Centuries of way!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Benché io giunga a [[motifs/home|casa]] tardi — così tardi —  
@@ -510,6 +547,8 @@ A [[concepts/wonder|domandarsi]] che cosa io stessa dirò,
 E che cosa essa, dirà a me —  
 Inganna i Secoli di cammino!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_rose_did_caper_on_her_cheek" data-title="208. The Rose did caper on her cheek —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/rose,motif/white_and_red,motif/the_clock,concept/love_romantic,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -536,6 +575,7 @@ Till those two troubled — little Clocks
 Ticked softly into one.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/rose|Rosa]] scorrazzava sulla sua guancia —  
@@ -558,6 +598,8 @@ Sull'immortale melodia —
 Finché quei due turbati — piccoli Orologi  
 Ticchettarono piano in uno solo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="came_to_buy_a_smile_today" data-title="223. I Came to buy a smile — today —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/stars,concept/love_romantic,concept/unrequited_love,concept/melancholy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -579,6 +621,7 @@ And Topaz — like the star!
 Say — may I have it — Sir?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Venni a comprare un sorriso — oggi —  
@@ -596,6 +639,8 @@ E Topazi — come la stella!
 Sarebbe "un Affare" per un Ebreo!  
 Dite — posso averlo — Signore?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_nothing_else_to_bring_you_know" data-title="224. I've nothing else — to bring, You know —" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,concept/love_romantic,concept/humility,concept/marriage_and_fidelity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -612,6 +657,7 @@ Then — maybe, it would puzzle us
 To find our way [[motifs/home|Home]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non ho nient'altro — da portare, Lo sai —  
@@ -624,6 +670,8 @@ Se non fosse che potrebbero non venire —
 Allora — forse, ci confonderebbe  
 Trovare la via di [[motifs/home|Casa]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_drop_that_wrestles_in_the_sea" data-title="284. The Drop, that wrestles in the Sea —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/the_sea,concept/love_romantic,concept/self_and_soul,concept/identity,form/lyric,histref/greek_mythology,setting/the_sea,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -642,6 +690,7 @@ But she, forgetting Amphitrite —
 Pleads — "Me"?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Goccia, che lotta nel [[motifs/sea|Mare]] —  
@@ -656,6 +705,8 @@ L'Oceano — sorride — alla sua Presunzione —
 Ma lei, scordando Anfitrite —  
 Implora — "Me"?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="got_so_i_could_take_his_name" data-title="293. I got so I could take his name —" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/grief_and_loss,concept/unrequited_love,concept/doubt,concept/faith,concept/melancholy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -697,6 +748,7 @@ As Misery —
 Itself, too vast, for interrupting — more —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Arrivai a poter dire il suo nome —  
@@ -734,6 +786,8 @@ Di un affare così minuto
 Come la Miseria —  
 Essa stessa, troppo vasta, per interrompere — ancora —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_year_ago_jots_what" data-title="296. One Year ago — jots what?" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,motif/food_feasting,concept/grief_and_loss,concept/love_romantic,concept/memory_and_time,concept/childhood_and_growth,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -784,6 +838,7 @@ Let me — choose!
 Ah, Sir, None!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Anno fa — annota cosa?  
@@ -830,6 +885,8 @@ Un — Compleanno ancora — o Dieci?
 Lascia — ch'io scelga!  
 Ah, Signore, Nessuno!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ur_riches_taught_me_poverty" data-title="299. Your Riches — taught me — Poverty" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/money_gold,concept/love_romantic,concept/unrequited_love,concept/poverty,concept/grief_and_loss,concept/childhood_and_growth,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -878,6 +935,7 @@ That slipped my simple fingers through —
 While just a Girl at School.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le tue Ricchezze — mi insegnarono — la [[concepts/poverty|Povertà]].  
@@ -922,6 +980,8 @@ E stimare la Perla —
 Che scivolò via tra le mie semplici dita —  
 Quand'ero solo una Fanciulla a Scuola.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rning_means_milking_to_the_farmer" data-title="300. &quot;Morning&quot; — means &quot;Milking&quot; — to the Farmer —" data-chapter="" data-kind="intro" data-tags="motif/dawn,concept/identity,concept/faith,concept/love_romantic,form/lyric,histref/the_bible,setting/rural_england,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -942,6 +1002,7 @@ Faint-going Lives — Their Lapse from Sighing —
 [[concepts/faith|Faith]] — The Experiment of Our Lord
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 CONTADINO —  
@@ -958,6 +1019,8 @@ I Mondi — un Diluvio —
 Le Vite che si spengono — il loro Cessare dal Sospirare —  
 La [[concepts/faith|Fede]] — l'Esperimento di Nostro Signore
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_soul_selects_her_own_society" data-title="303. The Soul selects her own Society —" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/the_window,concept/self_and_soul,concept/alienation,concept/identity,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -979,6 +1042,7 @@ Then — close the Valves of her attention —
 Like Stone —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'[[motifs/soul|Anima]] sceglie la propria Società —  
@@ -996,6 +1060,8 @@ Scegliere Uno —
 Poi — chiudere le Valve della sua attenzione —  
 Come Pietra —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_came_a_day_at_summers_full" data-title="322. There came a Day at Summer's full," data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/bread_and_wine_eucharist,motif/the_cross,motif/marriage,motif/lamb,motif/summer,concept/love_romantic,concept/immortality,form/lyric,histref/the_bible,character/christ,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1039,6 +1105,7 @@ To that new [[motifs/marriage|Marriage]],
 Justified — through Calvaries of [[motifs/love|Love]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Venne un Giorno nel pieno dell'[[motifs/summer|Summer]],  
@@ -1078,6 +1145,8 @@ Deposta — alfine, la [[motifs/grave|Grave]] —
 A quel nuovo [[motifs/marriage|Marriage]],  
 Giustificati — attraverso Calvari d'[[motifs/love|Love]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_face_i_carry_with_me_last" data-title="336. The face I carry with me — last —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/crown,motif/death,motif/the_supernatural,concept/immortality,concept/love_romantic,form/lyric,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1104,6 +1173,7 @@ As one that bore her Master's name —
 Sufficient Royalty!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il volto che porto con me — ultimo —  
@@ -1126,6 +1196,8 @@ Verso un cielo in ammirazione —
 Come colei che portò il nome del suo Maestro —  
 Regalità sufficiente!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="tend_my_flowers_for_thee" data-title="339. I tend my flowers for thee —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,archetype/lover,motif/flowers,motif/garden,motif/desire,motif/rose,concept/unrequited_love,concept/marriage_and_fidelity,form/lyric,setting/a_garden,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1164,6 +1236,7 @@ Thy Daisy —
 Draped for thee!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Curo i miei [[motifs/flowers|fiori]] per te —  
@@ -1198,6 +1271,8 @@ Con che modestia — sempre —
 La tua Margherita —  
 Ammantata per te!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="felt_my_life_with_both_my_hands" data-title="351. I felt my life with both my hands" data-chapter="" data-kind="intro" data-tags="motif/the_mirror,motif/eyes_sight,concept/identity,concept/self_and_soul,concept/doubt,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1224,6 +1299,7 @@ But we might learn to like the Heaven,
 As [[motifs/well|well]] as our Old [[motifs/home|Home]]!"
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tastai la mia vita con entrambe le mani  
@@ -1246,6 +1322,8 @@ Quello — era un [[motifs/time|tempo]] di prima —
 Ma potremmo imparare ad amare il Cielo,  
 Così [[motifs/well|bene]] come la nostra Vecchia [[motifs/home|Casa]]!"
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_sick_to_wait_in_any_place_but_thine" data-title="368. How sick — to wait — in any place — but thine —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/love,motif/the_sea,motif/storm,concept/love_romantic,concept/marriage_and_fidelity,form/lyric,setting/a_ship,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1269,6 +1347,7 @@ Rather than the "spicy isles —"
 And thou — not there —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 IL TUO —  
@@ -1288,6 +1367,8 @@ Nostro sia il Carico — scaricato — qui —
 Piuttosto che le "isole delle spezie —"  
 E tu — non là —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sweetest_heresy_received" data-title="387. The sweetest Heresy received" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,concept/love_romantic,concept/marriage_and_fidelity,concept/conversion,concept/faith,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1304,6 +1385,7 @@ The Grace so unavoidable —
 To fail — is Infidel —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La più dolce Eresia ricevuta  
@@ -1316,6 +1398,8 @@ Il Rituale — così piccolo —
 La Grazia così inevitabile —  
 Mancare — è da Infedele —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="as_love_not_me" data-title="394. 'Twas Love — not me —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/double_doppelganger,motif/love,concept/guilt,concept/martyrdom,concept/justice,form/lyric,character/christ,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1337,6 +1421,7 @@ Which was the Guilty Sake —
 'Twas [[motifs/love|Love]]'s — Now Strike!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fu [[motifs/love|Amore]] — non io —  
@@ -1354,6 +1439,8 @@ Noi Due — parevamo sì uguali —
 Quale fosse il Reo Motivo —  
 Fu d'[[motifs/love|Amore]] — Ora Colpisci!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="had_not_minded_walls" data-title="398. I had not minded — Walls —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/love,motif/serpent_snake,motif/eyes_sight,concept/unrequited_love,concept/alienation,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1380,6 +1467,7 @@ But every Mesh — a Citadel —
 And Dragons — in the Crease —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non mi sarebbero importati — i Muri —  
@@ -1402,6 +1490,8 @@ Sul volto della Dama —
 Ma ogni Maglia — una Cittadella —  
 E Draghi — nella Piega —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="tongue_to_tell_him_i_am_true" data-title="400. A Tongue — to tell Him I am true!" data-chapter="" data-kind="intro" data-tags="motif/love,motif/money_gold,motif/the_road,concept/marriage_and_fidelity,concept/love_romantic,concept/truth,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1446,6 +1536,7 @@ Then — look for me. Be sure you say —
 Least Figure — on the [[motifs/road|Road]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Lingua — per dirGli che son fedele!  
@@ -1486,6 +1577,8 @@ E la Deità concluderà —
 Allora — cercami. Bada di dire —  
 Minima Figura — sulla [[motifs/road|Strada]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_moon_is_distant_from_the_sea" data-title="429. The Moon is distant from the Sea —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/moon,motif/the_sea,motif/eyes_sight,concept/love_romantic,concept/marriage_and_fidelity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1507,6 +1600,7 @@ Obedient to the least command
 Thine eye impose on me —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/moon|Moon]] è distante dal [[motifs/sea|Sea]] —  
@@ -1524,6 +1618,8 @@ E mio — il distante [[motifs/sea|Sea]] —
 Obbediente al minimo comando  
 Che il tuo occhio m'imponga —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rget_the_lady_with_the_amulet" data-title="438. Forget! The lady with the Amulet" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/rose,motif/river,motif/the_grave,concept/marriage_and_fidelity,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1549,6 +1645,7 @@ And Other — went to turn the Mill —
 I'll do thy Will —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dimenticare! La dama con l'Amuleto  
@@ -1570,6 +1667,8 @@ Mentre un Altro — andava a colmare il [[motifs/sea|Mare]] —
 E un Altro — andava a girare il Mulino —  
 Io farò il tuo Volere —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_customary_as_we_part" data-title="440. 'Tis customary as we part" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/memory,motif/flowers,concept/love_romantic,concept/faith,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1586,6 +1685,7 @@ Presents me with a single Curl
 Of her Electric Hair —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È costume, quando ci separiamo,  
@@ -1598,6 +1698,8 @@ La Clematide — in viaggio per lontano —
 Mi dona un unico Ricciolo  
 Della sua Chioma Elettrica —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="showed_her_heights_she_never_saw" data-title="446. I showed her Heights she never saw —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/night,motif/light_and_dark,concept/unrequited_love,concept/love_romantic,concept/renunciation,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1617,6 +1719,7 @@ The larger, as her face withdrew —
 And could she, further, "No"?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le mostrai Vette che mai vide —  
@@ -1632,6 +1735,8 @@ Una Luce, per lei, solenne arse,
 Più grande, mentre il suo volto arretrava —  
 E poteva lei, ancora, dir "No"?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_malay_took_the_pearl" data-title="452. The Malay — took the Pearl —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/the_sea,motif/desire,concept/unrequited_love,concept/love_romantic,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1659,6 +1764,7 @@ To gain, or be undone —
 Alike to Him — One —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Malese — prese la Perla —  
@@ -1682,6 +1788,8 @@ Che io — lo bramavo — anch'io —
 Vincerlo, o esserne disfatto —  
 Per Lui uguale — Uno —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ve_thou_art_high" data-title="453. Love — thou art high —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,motif/sun,concept/the_sublime,concept/love_divine,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1709,6 +1817,7 @@ Nicknamed by [[characters/god|God]] —
 [[concepts/eternity|Eternity]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[motifs/love|Amore]] — tu sei alto —  
@@ -1732,6 +1841,8 @@ La Beatitudine — sarebbe una Stranezza — senza te —
 Soprannominata da [[characters/god|Dio]] —  
 [[concepts/eternity|Eternità]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_power_to_be_true_to_you" data-title="464. The power to be true to You," data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,concept/marriage_and_fidelity,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1748,6 +1859,7 @@ Whose invitation — Yours reduced
 Until it showed too small —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il potere di esserTi fedele,  
@@ -1760,6 +1872,8 @@ Lui stesso — superare il Cielo —
 Il cui invito — il Tuo ridusse  
 Finché parve troppo piccolo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_world_stands_solemner_to_me" data-title="493. The World — stands — solemner — to me —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,concept/marriage_and_fidelity,concept/wonder_and_gratitude,concept/humility,concept/self_and_soul,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1785,6 +1899,7 @@ Too beautiful — for Shape to prove —
 Or posture — to redeem!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 —  
@@ -1806,6 +1921,8 @@ Aveva stimato il Sogno —
 Troppo bello — perché Forma lo provi —  
 O posa — lo riscatti!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ing_to_him_happy_letter" data-title="494. Going to Him! Happy letter!" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/letters_writing,motif/desire,motif/the_clock,motif/silence,concept/love_romantic,form/dramatic_monologue,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1840,6 +1957,7 @@ Until tomorrow — Happy [[forms/letter|letter]]!
 Gesture Coquette — and shake your Head!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vai da Lui! Felice [[forms/letter|lettera]]!  
@@ -1870,6 +1988,8 @@ Ma — se Lui chiede dove sei nascosta
 Fino a domani — Felice [[forms/letter|lettera]]!  
 Fa' un gesto da Civetta — e scuoti il Capo!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="envy_seas_whereon_he_rides" data-title="498. I envy Seas, whereon He rides —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,archetype/lover,motif/desire,motif/sun_noon,concept/unrequited_love,concept/jealousy,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1906,6 +2026,7 @@ Lest [[motifs/noon|Noon]] in Everlasting [[motifs/night|Night]] —
 Drop Gabriel — and Me —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Invidio i Mari, su cui Egli va —  
@@ -1938,6 +2059,8 @@ E abrogate — la mia Ape —
 Che il [[motifs/noon|Mezzogiorno]] in Eterna [[motifs/night|Notte]] —  
 Non lasci cadere Gabriele — e Me —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="u_know_that_portrait_in_the_moon" data-title="504. You know that Portrait in the Moon —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,archetype/lover,motif/moon,motif/memory,concept/love_romantic,form/lyric,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1964,6 +2087,7 @@ That's easier — than the other film
 That glazes Holiday —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Conosci quel Ritratto nella [[motifs/moon|Luna]] —  
@@ -1986,6 +2110,8 @@ Ti tagliano via da Me —
 È più facile — dell'altro velo  
 Che appanna la Festa —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="eet_you_forgot_but_i_remembered" data-title="523. Sweet — You forgot — but I remembered" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/memory,motif/money_gold,concept/unrequited_love,concept/marriage_and_fidelity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2007,6 +2133,7 @@ Just to be Poor — for Barefoot Vision
 You — Sweet — Shut me out —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dolce — Tu dimenticasti — ma io ricordai  
@@ -2024,6 +2151,8 @@ Per un Cuore così Sommo —
 Solo per esser Povera — per la Visione Scalza  
 Tu — Dolce — mi hai Chiusa fuori —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="es_happy_with_a_new_content" data-title="535. She's happy, with a new Content —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/marriage,concept/joy,concept/humility,concept/love_divine,concept/marriage_and_fidelity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2040,6 +2169,7 @@ That Heaven permit so meek as her —
 To such a Fate — to Minister.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lei è felice, d'un nuovo Appagamento —  
@@ -2052,6 +2182,8 @@ Per Cause beate — Più di tutto
 Che il Cielo permetta a una mite come lei —  
 A un tale Fato — di Ministrare.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_prove_it_now_whoever_doubt" data-title="537. Me prove it now — Whoever doubt" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/river,motif/the_sea,motif/death,concept/love_romantic,concept/mortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2078,6 +2210,7 @@ Swept by my searching eyes — the last —
 Themselves were quick — with Thee!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Io provarlo ora — Chiunque [[concepts/doubt|dubiti]]  
@@ -2100,6 +2233,8 @@ Ricorda — quando il [[motifs/sea|Mare]]
 Passò sui miei occhi in cerca — gli ultimi —  
 Essi erano vivi — di Te!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="could_die_to_know" data-title="570. I could die — to know —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/the_city,motif/the_window,concept/unrequited_love,concept/love_romantic,concept/alienation,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2120,6 +2255,7 @@ Possibly, this moment —
 While I — dream — Here —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Potrei morire — per sapere —  
@@ -2136,6 +2272,8 @@ Alla Piazza stessa — dove passa il Suo piede —
 Forse, in questo istante —  
 Mentre io — sogno — Qui —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="gave_myself_to_him" data-title="580. I gave myself to Him —" data-chapter="" data-kind="intro" data-tags="concept/love_romantic,concept/marriage_and_fidelity,concept/self_and_soul,concept/paradox,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2162,6 +2300,7 @@ Sweet Debt of Life — Each [[motifs/night|Night]] to owe —
 Insolvent — every [[motifs/noon|Noon]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi diedi a Lui —  
@@ -2184,6 +2323,8 @@ Alcuni — lo trovarono — Mutuo Guadagno —
 Dolce Debito di Vita — da dovere ogni [[motifs/night|Notte]] —  
 Insolvente — ogni [[motifs/noon|Mezzogiorno]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="pty_my_heart_of_thee" data-title="587. Empty my Heart, of Thee —" data-chapter="" data-kind="intro" data-tags="concept/love_romantic,concept/identity,concept/self_and_soul,concept/desire_and_longing,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2207,6 +2348,7 @@ The Heavens stripped —
 [[concepts/eternity|Eternity]]'s vast pocket, picked —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Svuota il mio Cuore, di Te —  
@@ -2226,6 +2368,8 @@ Te — allora — niente me —
 I Cieli spogliati —  
 La vasta tasca dell'[[concepts/eternity|Eternità]], borseggiata —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="see_thee_better_in_the_dark" data-title="611. I see thee better — in the Dark —" data-chapter="" data-kind="intro" data-tags="concept/love_romantic,concept/paradox,concept/immortality,concept/desire_and_longing,concept/mortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2252,6 +2396,7 @@ It deem it be — Continually —
 At the Meridian?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ti vedo meglio — nel Buio —  
@@ -2274,6 +2419,8 @@ per Quelli il cui Buio — ha un sì — eccelso [[motifs/sun|Sole]] —
 da stimare che sia — di Continuo —  
 al Meridiano?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="nt_put_up_my_thread_and_needle" data-title="617. Don't put up my Thread and Needle —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/dreams,motif/sleep,motif/crown,concept/suffering,concept/self_and_soul,concept/longing,concept/mortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2305,6 +2452,7 @@ Closer — so I — at my sleeping —
 Still surmise I stitch —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non riporre il mio Filo e Ago —  
@@ -2332,6 +2480,8 @@ Porta la cucitura che ho mancato —
 Più vicino — così io — nel mio sonno —  
 Creda ancora di cucire —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="asked_no_other_thing" data-title="621. I asked no other thing —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/unrequited_love,concept/longing,concept/fate_and_free_will,concept/faith_and_doubt,form/allegory,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2348,6 +2498,7 @@ Without a glance my way :
 That we can show to-day ?"
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non chiesi altra cosa.  
@@ -2360,6 +2511,8 @@ Senza uno sguardo verso di me :
 "Ma, signora, non c'è nient'altro  
 Che possiamo mostrarvi quest'oggi ?"
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="as_a_long_parting_but_the_time" data-title="625. 'Twas a long Parting — but the time" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/death,motif/marriage,motif/eyes_sight,concept/love_romantic,concept/immortality,concept/love_divine,concept/faith,form/lyric,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2386,6 +2539,7 @@ And Cherubim — and Seraphim —
 The unobtrusive Guest —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fu un lungo Distacco — ma il [[motifs/time|tempo]]  
@@ -2408,6 +2562,8 @@ Un Paradiso — l'Anfitrione —
 E Cherubini — e Serafini —  
 L'Ospite discreto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rselves_were_wed_one_summer_dear" data-title="631. Ourselves were wed one summer — dear —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/death,motif/marriage,motif/seasons,motif/garden,motif/crown,concept/grief_and_loss,concept/love_romantic,concept/mortality,concept/transience,form/elegy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2434,6 +2590,7 @@ And yet, one [[motifs/summer|Summer]], we were Queens —
 But You — were crowned in June —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Noi ci sposammo una [[motifs/summer|estate]] — cara —  
@@ -2456,6 +2613,8 @@ Ché il mio — nei Geli — fu seminato —
 Eppure, una [[motifs/summer|Estate]], fummo Regine —  
 Ma Tu — fosti incoronata in Giugno —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="think_the_longest_hour_of_all" data-title="635. I think the longest Hour of all" data-chapter="" data-kind="intro" data-tags="motif/time,motif/the_clock,motif/music_and_song,concept/longing,concept/memory_and_time,concept/love_romantic,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2482,6 +2641,7 @@ Take up my little Violin —
 And further North — remove.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Credo che l'Ora più lunga di tutte  
@@ -2504,6 +2664,8 @@ Benché servizio fosse, d'[[motifs/love|Amore]] —
 Prendo il mio piccolo Violino —  
 E più a Nord — mi ritiro.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_way_i_read_a_letters_this" data-title="636. The Way I read a Letter's — this —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/letters_writing,concept/love_romantic,concept/longing,concept/identity,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2530,6 +2692,7 @@ And sigh for lack of Heaven — but not
 The Heaven [[characters/god|God]] bestow —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Modo in cui leggo una [[forms/letter|Lettera]] — è questo —  
@@ -2552,6 +2715,8 @@ Per nessuno che Voi — conosciate —
 E sospiro per mancanza di Cielo — ma non  
 Il Cielo che [[characters/god|Dio]] concede —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cannot_live_with_you" data-title="640. I cannot live with You —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,topos/love_as_religion,archetype/lover,motif/death,motif/the_grave,motif/the_cross,concept/unrequited_love,concept/love_romantic,concept/faith,concept/alienation,concept/grief_and_loss,form/lyric,character/christ,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2622,6 +2787,7 @@ And that White Sustenance —
 [[concepts/despair|Despair]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non posso vivere con Te —  
@@ -2688,6 +2854,8 @@ Che Oceani sono — e [[motifs/prayer|Preghiera]] —
 E quel Bianco Sostentamento —  
 La [[concepts/despair|Disperazione]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="could_suffice_for_him_i_knew" data-title="643. I could suffice for Him, I knew —" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/the_sea,motif/sun,concept/love_romantic,concept/self_and_soul,concept/fate_and_free_will,concept/faith,concept/the_sublime,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2714,6 +2882,7 @@ Herself adjust Her Tides — unto —
 Could I — do else — with Mine?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Potevo bastare a Lui, sapevo —  
@@ -2736,6 +2905,8 @@ Il Moto della [[motifs/moon|Luna]] —
 Ella stessa aggiusta le Sue Maree — verso —  
 Potevo Io — fare altro — con le Mie?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="u_left_me_sire_two_legacies" data-title="644. You left me — Sire — two Legacies —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/love_romantic,concept/grief_and_loss,concept/suffering,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2752,6 +2923,7 @@ Between [[concepts/eternity|Eternity]] and [[motifs/time|Time]] —
 Your Consciousness — and Me —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi lasciasti — Sire — due Legati —  
@@ -2764,6 +2936,8 @@ Capaci come il [[motifs/sea|Mare]] —
 Tra l'[[concepts/eternity|Eternità]] e il [[motifs/time|Tempo]] —  
 La Tua Coscienza — e Me —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="think_to_live_may_be_a_bliss" data-title="646. I think to Live — may be a Bliss" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/sun,motif/the_sea,concept/joy,concept/imagination,concept/longing,concept/self_and_soul,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2807,6 +2981,7 @@ Had all my Life but been Mistake
 Just rectified — in Thee
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Penso che Vivere — possa essere una Beatitudine  
@@ -2846,6 +3021,8 @@ Che Abbondanza — sarebbe —
 Fosse stata tutta la mia Vita solo Errore  
 Appena rettificato — in Te
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="little_road_not_made_of_man" data-title="647. A little Road — not made of Man —" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_road,motif/the_journey,motif/nature,concept/longing,concept/nature_vs_civilization,concept/the_natural_order,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2862,6 +3039,7 @@ I only sigh,—no vehicle
 Bears me along that way.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una piccola [[motifs/road|strada]] non fatta d'uomo,  
@@ -2874,6 +3052,8 @@ Questo io non so dire ;
 Sospiro soltanto,—nessun veicolo  
 Mi porta per quella via.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="omise_this_when_you_be_dying" data-title="648. Promise This — When You be Dying —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/death,motif/the_grave,motif/eyes_sight,concept/love_romantic,concept/grief_and_loss,concept/faith,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2923,6 +3103,7 @@ Had I not been
 Most enough — denied?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Prometti Questo — Quando Tu sia Morente —  
@@ -2968,6 +3149,8 @@ Per il Mio Cielo —
 Non ero forse stata  
 Più che abbastanza — negata?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_much_summer" data-title="651. So much Summer" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/birds,motif/money_gold,concept/humility,concept/wonder_and_gratitude,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2987,6 +3170,7 @@ A Robin's Larder
 Would suffice to stow —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tanta [[motifs/summer|Estate]]  
@@ -3002,6 +3186,8 @@ Che una Briciola Mia
 La Dispensa d'un Pettirosso  
 Basterebbe a colmare —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thout_this_there_is_nought" data-title="655. Without this — there is nought —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/the_sea,motif/money_gold,concept/love_romantic,concept/wonder_and_gratitude,concept/longing,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3023,6 +3209,7 @@ My Heart to subdivide —
 And not reduce — the Gold —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Senza questo — non v'è nulla —  
@@ -3040,6 +3227,8 @@ Di suddividere il mio Cuore —
 Avrebbe ingrandito — la Gratitudine —  
 E non ridotto — l'Oro —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_first_day_when_you_praised_me_sweet" data-title="659. That first Day, when you praised Me, Sweet," data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/money_gold,motif/memory,concept/love_romantic,concept/memory_and_time,concept/joy,concept/identity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3056,6 +3245,7 @@ The Minor One — that gleamed behind —
 And Vaster — of the World's.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quel primo Giorno, quando lodasti Me, Dolce,  
@@ -3068,6 +3258,8 @@ Fra Ori Divergenti —
 Il Minore — che brillava dietro —  
 E il più Vasto — del Mondo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ain_his_voice_is_at_the_door" data-title="663. Again — his voice is at the door —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/flowers,motif/moon,motif/blood,concept/love_romantic,concept/unrequited_love,concept/self_and_soul,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3112,6 +3304,7 @@ But He must count the drops — himself —
 My price for every stain!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di nuovo — la sua voce è alla [[motifs/door|porta]] —  
@@ -3152,6 +3345,8 @@ La porpora — nella mia Vena —
 Ma Lui deve contare le gocce — da sé —  
 Il mio prezzo per ogni macchia!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_all_the_souls_that_stand_create" data-title="664. Of all the Souls that stand create —" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,archetype/lover,motif/dust,concept/love_romantic,concept/self_and_soul,concept/immortality,concept/appearance_vs_reality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3171,6 +3366,7 @@ Behold the Atom — I preferred —
 To all the lists of Clay!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di tutte le Anime che stanno create —  
@@ -3186,6 +3382,8 @@ E le Nebbie — sono scolpite via,
 Ecco l'Atomo — che preferii —  
 A tutte le liste d'Argilla!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_love_a_life_can_show_below" data-title="673. The Love a Life can show Below" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/sun,motif/music_and_song,concept/love_divine,concept/the_sublime,concept/beauty,concept/love_romantic,form/lyric,histref/christianity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3211,6 +3409,7 @@ Returns — suggests — convicts — enchants —
 Then — flings in Paradise —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'[[motifs/love|Amore]] che una Vita può mostrare Quaggiù  
@@ -3232,6 +3431,8 @@ Guizza — riluce — prova — si dissolve —
 Ritorna — suggerisce — condanna — incanta —  
 Poi — scaglia in Paradiso —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="could_bring_you_jewels_had_i_a_mind_to" data-title="697. I could bring You Jewels — had I a mind to —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/money_gold,motif/nature,concept/love_romantic,concept/beauty,concept/nature_vs_civilization,concept/humility,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3253,6 +3454,7 @@ Dower itself — for Bobadilo —
 Better — Could I bring?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Potrei portarTi Gioielli — se ne avessi voglia —  
@@ -3270,6 +3472,8 @@ E il suo Dondolìo di Smeraldo —
 Dote essa stessa — per Bobadilo —  
 Di meglio — potrei portare?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_thou_art_that_is_home" data-title="725. Where Thou art — that — is Home —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,concept/love_romantic,concept/love_divine,concept/desire,concept/exile,form/lyric,histref/christianity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3293,6 +3497,7 @@ What Thou dost not — [[concepts/despair|Despair]] —
 Tho' Gabriel — praise me — Sire —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dove Tu sei — quello — è [[motifs/home|Casa]] —  
@@ -3312,6 +3517,8 @@ Benché Schiere di Spezie — remino —
 Ciò che Tu non fai — [[concepts/despair|Disperazione]] —  
 Benché Gabriele — mi lodi — Sire —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ecious_to_me_she_still_shall_be" data-title="727. Precious to Me — She still shall be —" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,motif/memory,concept/love_romantic,concept/humility,concept/unrequited_love,concept/identity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3336,6 +3543,7 @@ When [[motifs/summer|Summer]]'s Everlasting Dower —
 Confronts the dazzled Bee.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Preziosa per Me — Ella ancora sarà —  
@@ -3356,6 +3564,8 @@ Ricordata — come il fiore della Modista
 Quando la Dote Perenne dell'[[motifs/summer|Estate]] —  
 Affronta l'Ape abbagliata.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_rose_to_his_requirement_dropt" data-title="732. She rose to His Requirement — dropt" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/marriage_and_fidelity,concept/identity,concept/self_denial,concept/alienation,concept/childhood_and_growth,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3377,6 +3587,7 @@ But only to Himself — be known
 The Fathoms they abide —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ella [[motifs/rose|si levò]] alla Sua Esigenza — depose  
@@ -3394,6 +3605,8 @@ Sviluppa Perla, e Alga,
 Ma solo a Lui — sian note  
 Le Profondità in cui dimorano —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="u_said_that_i_was_great_one_day" data-title="738. You said that I &quot;was Great&quot; — one Day —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/animals,concept/love_romantic,concept/identity,concept/self_denial,concept/humility,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3422,6 +3635,7 @@ With just this Stipulus —
 I suit Thee —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dicesti che io "ero Grande" — un Giorno —  
@@ -3446,6 +3660,8 @@ O altra cosa — se altra cosa vi sia —
 Con questa sola Stipula —  
 Che io m'addica a Te —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="nunciation_is_a_piercing_virtue" data-title="745. Renunciation — is a piercing Virtue —" data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/eyes_sight,motif/sun,concept/self_denial,concept/faith,concept/desire,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3469,6 +3685,7 @@ Make that appear —
 Smaller — that Covered Vision — Here —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[concepts/renunciation|Rinuncia]] — è una [[concepts/virtue|Virtù]] pungente —  
@@ -3488,6 +3705,8 @@ Quando più vasta funzione —
 Faccia apparire —  
 Più piccola — quella Visione Coperta — Qui —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="y_to_have_merited_the_pain" data-title="788. Joy to have merited the Pain —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/eyes_sight,motif/dawn,concept/love_romantic,concept/suffering,concept/immortality,concept/memory_and_time,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3524,6 +3743,7 @@ And Haunting actualize — to last
 At least — [[concepts/eternity|Eternity]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[concepts/joy|Gioia]] d'aver meritato la [[motifs/pain|Pena]] —  
@@ -3556,6 +3776,8 @@ La sua ultima Decade,
 E l'Ossessione s'avveri — per durare  
 Almeno — l'[[concepts/eternity|Eternità]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_the_astronomer_stops_seeking" data-title="851. When the Astronomer stops seeking" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/the_sea,concept/marriage_and_fidelity,concept/faith,form/epigram,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3572,6 +3794,7 @@ It will be amply early
 To ask what treason means.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando l'Astronomo cessa di cercare  
@@ -3584,6 +3807,8 @@ Il Marinaio dubitando si volge —
 Sarà ampiamente presto  
 Chiedere che cosa significhi tradimento.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cause_the_bee_may_blameless_hum" data-title="869. Because the Bee may blameless hum" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/flowers,motif/birds,motif/nature,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3605,6 +3830,7 @@ That Bee to ride, or Flower of Furze
 I that way worship Thee.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Perché l'Ape può ronzare senza colpa  
@@ -3622,6 +3848,8 @@ O Petali, o una Dote di Ronzio
 Quell'Ape da cavalcare, o Fiore di Ginestra  
 Io in quel modo Ti adoro.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_none_to_tell_me_to_but_thee" data-title="881. I've none to tell me to but Thee" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/unrequited_love,concept/grief_and_loss,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3643,6 +3871,7 @@ Unto the lips it eddied through —
 So — overtaking Thee —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non ho nessuno a cui dirmi se non Te  
@@ -3660,6 +3889,8 @@ Che io la Risposta possa inseguire
 Fino alle labbra per cui vorticò —  
 Così — raggiungendoTi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ll_death_is_narrow_loving" data-title="907. Till Death — is narrow Loving —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,concept/love_romantic,concept/grief_and_loss,concept/mortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3681,6 +3912,7 @@ Delight of [[concepts/nature|Nature]] — abdicate —
 Exhibit [[motifs/love|Love]] — somewhat —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fino alla [[motifs/death|Morte]] — è angusto Amare —  
@@ -3698,6 +3930,8 @@ Te stessa, al Suo inseguimento
 Delizia della [[concepts/nature|Natura]] — abdichi —  
 Esibisca [[motifs/love|Amore]] — un poco —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rt_thou_but_ill_that_i_might_show_thee" data-title="961. Wert Thou but ill — that I might show thee" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,topos/the_unattainable_beloved,archetype/lover,archetype/martyr,concept/love_romantic,concept/unrequited_love,concept/marriage_and_fidelity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3729,6 +3963,7 @@ The first — Sweet, proved I, ere I saw thee —
 For Life — be [[motifs/love|Love]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fossi Tu solo malato — che io potessi mostrarti  
@@ -3756,6 +3991,8 @@ Morire — o vivere —
 Il primo — Dolce, provai, prima di vederti —  
 Perché la Vita — sia [[motifs/love|Amore]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="l_forgot_for_recollecting" data-title="966. All forgot for recollecting" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/the_sea,concept/love_romantic,concept/marriage_and_fidelity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3782,6 +4019,7 @@ Prove — me — Sweet — if I regret it —
 Prove Myself — of Thee —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tutto dimenticato per ricordare  
@@ -3804,6 +4042,8 @@ Nel tuo più audace [[motifs/sea|Mare]] —
 Prova — mi — Dolce — se me ne pento —  
 Prova Me stessa — di Te —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="as_awkward_but_it_fitted_me" data-title="973. 'Twas awkward, but it fitted me —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/sun,motif/birds,concept/marriage_and_fidelity,concept/love_romantic,concept/grief_and_loss,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3825,6 +4065,7 @@ For technicality of [[motifs/death|Death]] —
 Omitted in the Lease —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Era goffo, ma mi si adattava —  
@@ -3842,6 +4083,8 @@ Al suo posto stabilito —
 Per un cavillo della [[motifs/death|Morte]] —  
 Omesso nel Contratto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_scanty_twas_to_die_for_you" data-title="1013. Too scanty 'twas to die for you," data-chapter="" data-kind="intro" data-tags="archetype/martyr,concept/love_romantic,concept/mortality,concept/paradox,form/lyric,histref/classical_antiquity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3858,6 +4101,7 @@ The dying multifold — without
 The Respite to be dead.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Troppo poco era morire per te,  
@@ -3870,6 +4114,8 @@ Ma il vivere, questo include
 Il morire moltiplicato — senza  
 La Tregua d'essere morti.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_was_a_quiet_way" data-title="1053. It was a quiet way —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/the_journey,motif/dawn,concept/love_romantic,concept/joy,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3897,6 +4143,7 @@ But Sunrise stopped upon the place
 And fastened it in [[motifs/dawn|Dawn]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fu un modo quieto —  
@@ -3920,6 +4167,8 @@ Non era [[motifs/night|Notte]] né Mattino —
 Ma il Sorgere del Sole si fermò sul luogo  
 E lo fissò nell'[[motifs/dawn|Alba]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="tle_divine_is_mine" data-title="1072. Title divine — is mine!" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,topos/the_unattainable_beloved,motif/crown,motif/the_cross,concept/marriage_and_fidelity,concept/martyrdom,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3942,6 +4191,7 @@ Stroking the Melody —
 Is this — the way?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Titolo divino — è mio!  
@@ -3960,6 +4210,8 @@ Triplice Vittoria
 Carezzando la Melodia —  
 È questa — la via?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_many_schemes_may_die" data-title="1150. How many schemes may die" data-chapter="" data-kind="intro" data-tags="motif/time,motif/horse,concept/fate_and_free_will,concept/grief_and_loss,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3980,6 +4232,7 @@ Some unsuspecting [[motifs/horse|Horse]] was tied
 Surveying his [[concepts/despair|Despair]]
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quanti disegni possono morire  
@@ -3996,6 +4249,8 @@ Dovevano esserci gare
 Un ignaro [[motifs/horse|Cavallo]] stava legato  
 A contemplare la sua [[concepts/despair|Disperazione]]
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_is_alive_this_morning" data-title="1160. He is alive, this morning —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/love,motif/birds,motif/flowers,motif/dawn,concept/love_romantic,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4011,6 +4266,7 @@ Him — to regale — Me — Only —
 Motion, and am dumb.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È vivo, questo mattino —  
@@ -4022,6 +4278,8 @@ Aggiungono una Briciola d'Ambra
 Lui — per allietare — Io — Soltanto —  
 Mi muovo, e resto muta.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_shadow_on_the_grass" data-title="1187. Oh Shadow on the Grass," data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,archetype/lover,motif/light_and_dark,concept/unrequited_love,concept/love_romantic,concept/doubt,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4037,6 +4295,7 @@ Some other thou wilt consecrate —
 Oh Unelected Face —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Oh [[archetypes/shadow|Shadow]] sull'Erba,  
@@ -4048,6 +4307,8 @@ Mentre indugio a indovinare
 Qualche altro consacrerai —  
 Oh Volto Non Eletto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_voice_that_stands_for_floods_to_me" data-title="1189. The Voice that stands for Floods to me" data-chapter="" data-kind="intro" data-tags="motif/water,motif/money_gold,concept/love_romantic,concept/appearance_vs_reality,concept/identity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4064,6 +4325,7 @@ By other Financiers be deemed
 Exclusive Property!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Voce che vale Diluvi per me  
@@ -4076,6 +4338,8 @@ Che ciò che per me è Somma
 Da altri Finanzieri sia stimato  
 Esclusiva Proprietà!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_i_knew_i_lost_her" data-title="1219. Now I knew I lost her —" data-chapter="" data-kind="intro" data-tags="motif/love,concept/grief_and_loss,concept/alienation,concept/love_romantic,concept/unrequited_love,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4106,6 +4370,7 @@ But the Restitution
 Of Idolatry.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ora sapevo d'averla perduta —  
@@ -4132,6 +4397,8 @@ O per la [[concepts/family|Famiglia]]
 Ma la Restituzione  
 Dell'Idolatria.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ke_trains_of_cars_on_tracks_of_plush" data-title="1224. Like Trains of Cars on Tracks of Plush" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/animals,motif/flowers,motif/nature,motif/swords_weapons,motif/desire,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4148,6 +4415,7 @@ While He, victorious tilts away
 To vanquish other Blooms.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come Convogli di Vagoni su Rotaie di Felpa  
@@ -4160,6 +4428,8 @@ Ne consuma la Cavalleria —
 Mentre Lui, vittorioso volge altrove la giostra  
 A vincere altre Corolle.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cause_he_loves_her" data-title="1229. Because He loves Her" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,topos/love_as_religion,archetype/lover,motif/love,motif/wind,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4181,6 +4451,7 @@ But nearer to adore
 That makes our trying poor.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Perché Egli La ama  
@@ -4198,6 +4469,8 @@ Ma per adorare più da presso
 È la lontana sufficienza della Gloria  
 Che rende povero il nostro tentare.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="mewhere_upon_the_general_earth" data-title="1231. Somewhere upon the general Earth" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/seasons,concept/immortality,concept/love_romantic,concept/faith,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4219,6 +4492,7 @@ Oh [[characters/god|God]] of Width, do not for us
 Curtail [[concepts/eternity|Eternity]]!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 In qualche luogo sulla Terra universale  
@@ -4236,6 +4510,8 @@ Un'altra Data di Te —
 Oh [[characters/god|Dio]] di Vastità, non ci volere  
 Accorciare l'[[concepts/eternity|Eternità]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_heart_ran_so_to_thee" data-title="1237. My Heart ran so to thee" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,motif/desire,concept/love_romantic,concept/love_divine,form/lyric,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4261,6 +4537,7 @@ Basking in Bethleem
 Ere I be there —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il mio Cuore corse tanto a te  
@@ -4282,6 +4559,8 @@ Che vanta il mio Premio —
 Crogiolandosi in Betlemme  
 Prima ch'io vi sia —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_pile_like_thunder_to_its_close" data-title="1247. To pile like Thunder to its close" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/poet_as_prophet,motif/love,concept/the_sublime,concept/imagination,concept/immortality_of_art,form/lyric,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4298,6 +4577,7 @@ Experience either and consume —
 For None see [[characters/god|God]] and live —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Accumularsi come Tuono fino alla fine  
@@ -4310,6 +4590,8 @@ Noi proviamo entrambi e nessuno —
 Sperimentane uno e ti consumi —  
 Ché Nessuno vede [[characters/god|Dio]] e vive —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_stars_are_old_that_stood_for_me" data-title="1249. The Stars are old, that stood for me —" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,topos/the_unattainable_beloved,motif/stars,motif/money_gold,concept/unrequited_love,concept/paradox,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4326,6 +4608,7 @@ But vanquished her with my defeat
 'Twas Victory was slain.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le [[motifs/stars|Stelle]] sono antiche, che stavano per me —  
@@ -4338,6 +4621,8 @@ Il suo infinito sdegno
 Ma la vinsi con la mia disfatta  
 Fu la Vittoria a esser uccisa.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="minion_lasts_until_obtained" data-title="1257. Dominion lasts until obtained —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/marriage,concept/transience,concept/power_and_corruption,concept/immortality,concept/paradox,form/aphorism,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4354,6 +4639,7 @@ These are the Brides of permanence
 Supplanting me and you.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Dominio dura finché ottenuto —  
@@ -4366,6 +4652,8 @@ Note soltanto alla [[motifs/dew|Rugiada]] —
 Queste son le Spose della permanenza  
 Che soppiantano me e te.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_most_pathetic_thing_i_do" data-title="1290. The most pathetic thing I do" data-chapter="" data-kind="intro" data-tags="motif/love,concept/grief_and_loss,concept/love_romantic,concept/unrequited_love,concept/appearance_vs_reality,concept/melancholy,form/lyric,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4381,6 +4669,7 @@ I wish I had not broken it —
 Goliah — so would you —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La cosa più patetica che faccio  
@@ -4392,6 +4681,8 @@ Che tu sapevi non era vero
 Vorrei non averlo spezzato —  
 Golia — anche tu lo vorresti —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_slow_my_soul_to_feed_thyself" data-title="1297. Go slow, my soul, to feed thyself" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/death,motif/horse,concept/self_and_soul,concept/love_romantic,concept/grace_and_redemption,form/lyric,character/death_personified,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4407,6 +4698,7 @@ Go boldly — for thou paid'st his price
 Redemption — for a Kiss —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Va' lenta, [[motifs/soul|anima]] mia, a nutrirti  
@@ -4418,6 +4710,8 @@ Ti giudicasse in errore —
 Va' ardita — ché pagasti il suo prezzo  
 Redenzione — per un Bacio —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_a_lover_is_a_beggar" data-title="1314. When a Lover is a Beggar" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,topos/world_upside_down,archetype/lover,motif/love,motif/bread_and_wine_eucharist,concept/love_romantic,concept/paradox,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4434,6 +4728,7 @@ Bread of Heaven resents bestowal
 Like an obloquy —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando un [[archetypes/lover|Amante]] è un Mendicante  
@@ -4446,6 +4741,8 @@ Oh disparità —
 Il Pane del Cielo si risente del dono  
 Come di un obbrobrio —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="mmer_we_all_have_seen" data-title="1386. Summer — we all have seen —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,topos/love_as_religion,motif/nature,motif/seasons,motif/moon,concept/the_sublime,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4467,6 +4764,7 @@ Unknown as to an Ecstasy
 The Embryo endowed —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[motifs/summer|Estate]] — tutti l'abbiamo vista —  
@@ -4484,6 +4782,8 @@ L'Opulenza conferita —
 Ignota come a un'Estasi  
 L'Embrione dotato —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="have_no_life_but_this" data-title="1398. I have no Life but this —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,motif/death,concept/love_romantic,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4500,6 +4800,7 @@ Except through this extent —
 The Realm of you —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non ho Vita se non questa —  
@@ -4512,6 +4813,8 @@ Né Azione nuova —
 Se non attraverso questa distesa —  
 Il Regno di te —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="hold_this_little_bane" data-title="1438. Behold this little Bane —" data-chapter="" data-kind="intro" data-tags="motif/love,concept/love_romantic,concept/paradox,concept/grief_and_loss,form/epigram,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4528,6 +4831,7 @@ Not elsewhere — if in Paradise
 Its Tantamount be found —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ecco questo piccolo Flagello —  
@@ -4540,6 +4844,8 @@ Possederne è Ferita —
 Non altrove — se non in Paradiso  
 Se ne trova l'Equivalente —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_healed_heart_shows_its_shallow_scar" data-title="1440. The healed Heart shows its shallow scar" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/marriage_and_fidelity,concept/mortality,concept/paradox,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4555,6 +4861,7 @@ More genuine were Perfidy
 Than such Fidelity.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Cuore guarito mostra la sua lieve cicatrice  
@@ -4566,6 +4873,8 @@ Andarsene per la sua via convalescente
 Più genuina sarebbe Perfidia  
 Di tale Fedeltà.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thought_the_train_would_never_come" data-title="1449. I thought the Train would never come —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/spring,motif/birds,concept/love_romantic,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4585,6 +4894,7 @@ For miseries so halcyon
 The happiness atone —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Pensavo che il Treno non venisse mai —  
@@ -4600,6 +4910,8 @@ Per esser più saggia troppo presto —
 Ché miserie così alcionie  
 La felicità le espia —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_voice_decrepit_was_with_joy" data-title="1476. His voice decrepit was with Joy —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/love,concept/love_romantic,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4615,6 +4927,7 @@ Or Terror — that do decorate
 This livid interview —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La voce di lui decrepita era di [[concepts/joy|Gioia]] —  
@@ -4626,6 +4939,8 @@ Che un momento fa gorgogliavano di Letizia —
 O Terrore — ciò che decora  
 Questo livido colloquio —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="l_that_i_do" data-title="1496. All that I do" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/marriage,motif/eyes_sight,concept/love_divine,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4644,6 +4959,7 @@ What omnipresence lies in wait
 For her to be a Bride
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tutto ciò che faccio  
@@ -4658,6 +4974,8 @@ Dove egli non presieda
 Quale onnipresenza sta in agguato  
 Perché ella sia Sposa
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_seasons_since_the_dimpled_war" data-title="1529. 'Tis Seasons since the Dimpled War" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/swords_weapons,motif/love,concept/love_romantic,concept/paradox,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4673,6 +4991,7 @@ Without a Formula we fought
 Each was to each the Pink Redoubt —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Son [[motifs/seasons|Stagioni]] dalla Guerra delle Fossette  
@@ -4684,6 +5003,8 @@ Così modesto e così vano —
 Senza una Formula combattemmo  
 Ognuno era per l'altro il Roseo Ridotto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_show_thy_durham_breast" data-title="1542. Come show thy Durham Breast" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/marriage,motif/nature,motif/white_and_red,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4703,6 +5024,7 @@ Is our propensity
 The Day ensuing —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vieni mostra il tuo Petto di Durham  
@@ -4718,6 +5040,8 @@ Ché così volar via
 È la nostra propensione  
 Il Giorno che segue —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_be_forgot_by_thee" data-title="1560. To be forgot by thee" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/memory,concept/unrequited_love,concept/love_romantic,concept/paradox,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4737,6 +5061,7 @@ Worthy to be forgot
 Is my renown
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Essere da te dimenticata  
@@ -4752,6 +5077,8 @@ Per esser ricordata che —
 Degna d'essere dimenticata  
 È la mia fama
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_would_not_know_if_it_were_spurned" data-title="1579. It would not know if it were spurned," data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/flowers,concept/unrequited_love,concept/innocence_and_experience,concept/paradox,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4768,6 +5095,7 @@ That it is not a [[archetypes/cavalier|Cavalier]],
 To dare and perish there?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non saprebbe se fosse respinto,  
@@ -4780,6 +5108,8 @@ Ma non può forse [[concepts/despair|disperare]]
 Di non essere un [[archetypes/cavalier|Cavaliere]],  
 Da osare e perirvi?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="tol_thee_could_i_then_i_will" data-title="1643. Extol thee — could I? Then I will" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,topos/inexpressibility,archetype/lover,concept/love_romantic,concept/love_divine,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4796,6 +5126,7 @@ Partaking thee a guaranty
 Of [[concepts/immortality|immortality]]
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Esaltarti — potrei? Allora lo farò  
@@ -4808,6 +5139,8 @@ Che siamo del cielo
 Prender parte di te una garanzia  
 D'[[concepts/immortality|immortalità]]
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="did_not_reach_thee" data-title="1664. I did not reach Thee" data-chapter="" data-kind="intro" data-tags="topos/the_quest,topos/the_unattainable_beloved,motif/the_journey,motif/the_sea,concept/love_romantic,concept/unrequited_love,form/allegory,character/death_personified,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4855,6 +5188,7 @@ Now [[motifs/death|Death]] usurps my Premium
 And gets the look at Thee.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non Ti ho raggiunto  
@@ -4898,6 +5232,8 @@ due deserti e il [[motifs/sea|mare]]!
 Ora la [[motifs/death|Morte]] usurpa il mio Premio  
 e ottiene lo sguardo su di Te.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ve_can_do_all_but_raise_the_dead" data-title="1731. Love can do all but raise the Dead" data-chapter="" data-kind="intro" data-tags="motif/love,motif/death,concept/love_romantic,concept/grief_and_loss,concept/mortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4914,6 +5250,7 @@ And so abets the shining Fleet
 Till it is out of gaze.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'[[motifs/love|Amore]] può tutto tranne risuscitare i Morti  
@@ -4926,6 +5263,8 @@ e affamato e deve pascolare
 e così asseconda la Flotta splendente  
 finché non è fuori dallo sguardo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="arrange_a_wifes_affection" data-title="1737. Rearrange a &quot;Wife's&quot; affection!" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/martyr,motif/crown,motif/the_cross,motif/the_grave,concept/martyrdom,concept/unrequited_love,concept/marriage_and_fidelity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4957,6 +5296,7 @@ Till the Day its Weary Keeper
 Leads it through the [[motifs/grave|Grave]] to thee.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Riordina l'affetto di una "Moglie"!  
@@ -4984,6 +5324,8 @@ Non fuggirà mai
 Fino al Giorno in cui la sua Stanca Custode  
 Lo condurrà attraverso la [[motifs/grave|Tomba]] a te.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_lose_thee_sweeter_than_to_gain" data-title="1754. To lose thee — sweeter than to gain" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,concept/love_romantic,concept/paradox,concept/grief_and_loss,concept/unrequited_love,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5000,6 +5342,7 @@ Without the sterile perquisite,
 No Caspian could be.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Perderti — più dolce che guadagnare  
@@ -5012,6 +5355,8 @@ L'altro suo regno di [[motifs/sea|mare]].
 Senza lo sterile appannaggio,  
 Nessun Caspio potrebbe esistere.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ysium_is_as_far_as_to" data-title="1760. Elysium is as far as to" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/love_romantic,concept/paradox,form/lyric,histref/greek_mythology,setting/the_underworld,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5028,6 +5373,7 @@ The accent of a coming Foot —
 The opening of a [[motifs/door|Door]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Elisio è distante quanto  
@@ -5040,6 +5386,8 @@ Che può così sopportare
 L'accento d'un Piede che viene —  
 L'aprirsi d'una [[motifs/door|Porta]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_fleet_how_indiscreet_an_one" data-title="1771. How fleet — how indiscreet an one —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,motif/letters_writing,concept/love_romantic,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5052,6 +5400,7 @@ How fleet - how indiscreet an one -
 how always wrong is [[motifs/love|Love]] -  
 The joyful little Deity  
 We are not scourged to serve -
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5063,3 +5412,5 @@ Come fugace - come indiscreto un essere -
 come sempre in errore è l'[[motifs/love|Amore]] -  
 La gioiosa piccola Deità  
 Che non siamo flagellati a servire -
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

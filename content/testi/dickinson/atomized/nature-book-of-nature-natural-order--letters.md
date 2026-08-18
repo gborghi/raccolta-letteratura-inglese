@@ -11,21 +11,27 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/nature-book-of-nature-natural-order--letters" data-author="Dickinson" data-workhref="works/nature-·-book-of-nature-·-natural-order-(dickinson)" data-collection="letters"></div>
 
 
+<<<<<<< HEAD
 To Mr. William Austin Dickinson, Monday Morning, 5 o'c. · To Mr. William Austin Dickinson, Sunday Night · To Mr. William Austin Dickinson, March 17, 1854 · To Mr. Samuel Bowlers and Mrs. Bowles, 1869? · To the Misses, February, 1862 · To the Misses, November · To the Rev. J. L. Jenkins and Mrs. Jenkins, Autumn, 187— · To Mrs. F.S. Cooper · To the Misses, March, 1886
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="william_austin_dickinson_monday_morning_5_oc" data-title="To Mr. William Austin Dickinson, Monday Morning, 5 o'c." data-chapter="" data-kind="intro" data-tags="topos/the_sublime_in_nature,motif/storm,motif/birds,motif/dew,motif/wind,motif/dust,motif/the_city,concept/wonder,concept/nature_vs_civilization,concept/joy,form/letter,setting/new_england,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
 
 
 DEAR AUSTIN,—. . . Vinnie will tell you all the news, so I will take a little place to describe a thunder-shower which occurred yesterday afternoon,—the very first of the season. Father and Vinnie were at meeting, mother asleep in her room, and I at work by my [[motifs/window|window]] on a “Lyceum lecture.” The air was really scorching, the [[motifs/sun|sun]] red and hot, and you know just how the [[motifs/birds|birds]] sing before a thunderstorm, a sort of hurried and agitated song—pretty soon it began to thunder, and the great “cream-colored heads” peeped out of their windows. Then came the [[motifs/wind|wind]] and [[motifs/rain|rain]], and I hurried around the house to shut all the doors and windows. I wish you had seen it come, so cool and so refreshing—and everything glistening from it as with a golden [[motifs/dew|dew]]—I thought of you all the [[motifs/time|time]]. This morning is fair and delightful. You will awake in [[motifs/dust|dust]], and with it the ceaseless din of the untiring [[motifs/city|city]]. Wouldn't you change your dwelling for my palace in the [[motifs/dew|dew]]? Good-by for now. I shall see you soon.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Austin, —. Vinnie ti racconterà tutte le novità, quindi mi limiterò a descriverti una tempesta di tuoni che è avvenuta ieri pomeriggio: la prima della stagione. Papà e Vinnie erano a una riunione, mamma dormiva nella sua stanza, e io lavoravo vicino alla finestra a scrivere un “discorso per il Lyceum”. L’aria era davvero afosa, il sole rosso e ardente. Sai bene come cantano gli uccelli prima di una tempesta: una sorta di canto affrettato e agitato. Poco dopo iniziarono i tuoni, e le grandi “teste color crema” degli uccelli spuntarono fuori dalle finestre. Poi arrivò il vento e la pioggia; corsi in giro per chiudere tutte le porte e le finestre. Vorrei tanto che fossi stato lì a vederla arrivare: così fresca, così rinfrescante. Tutto brillava come se fosse coperto da una rugiada dorata. Non ho fatto altro che pensarti tutto il tempo. Questa mattina fa bello; ti sveglierai nella polvere e nel frastuono incessante della città. Non vorresti cambiare casa con il mio palazzo, immerso nella rugiada? Addio per ora. Ci vediamo presto.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_sunday_night" data-title="To Mr. William Austin Dickinson, Sunday Night" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/fire,motif/garden,motif/wind,motif/horse,motif/home,concept/communication_and_isolation,concept/heroism_courage,concept/wonder_and_gratitude,concept/joy,form/letter,setting/new_england,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -46,6 +52,7 @@ Yesterday there was a [[motifs/fire|fire]]. At about three in the afternoon Mr. 
 There is nothing of moment now which I can find to tell you, except a case of measles in Hartford. . . . Good-by, Sir. Fare you [[motifs/well|well]]. My benison to your school.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Meglio che non torni  a casa. Dico che la legge ti prenderà in custodia: un discepolo della legge viene infatti catturato dalla stessa legge e condannato a una punizione adeguata. Una scena adatta agli angeli, o meglio, agli arcangeli, che, essendo un po’ più in alto, sembrerebbero avere un “vantaggio” dal punto di vista della visione, “Ma almeno ti trovi abbastanza a tuo agio, vero?”. E sei sordo, muto, e finito in un manicomio, dove persone come te imparano a tenere la bocca chiusa?
@@ -62,6 +69,8 @@ Ieri c'è stato un [[motifs/fire|incendio]]. Verso le tre del pomeriggio, il fie
 
 Al momento non c’è nulla di particolare da dirvi, tranne che a Hartford si è verificato un caso di morbillo. Addio, signore. Spero che stiate bene. Vi invio i miei auguri per la vostra scuola.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_march_17_1854" data-title="To Mr. William Austin Dickinson, March 17, 1854" data-chapter="" data-kind="intro" data-tags="topos/the_sublime_in_nature,motif/lightning,motif/wind,motif/winter,motif/birds,motif/spring,concept/wonder,concept/solitude,form/letter,setting/new_england,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -76,6 +85,7 @@ Since supper it lightens frequently. In the south you can see the [[motifs/light
 There is to be a party at Professor Haven's tomorrow [[motifs/night|night]], for married people merely. Celibacy excludes me and my sister. Father and mother are invited. Mother will go. . . . Mother and Vinnie send [[motifs/love|love]]. They are both getting ready for Washington. Take care of yourself.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . Da quando sei tornato a Cambridge, il tempo è stato meraviglioso: ogni [[motifs/noon|pomeriggio]] la temperatura si aggira tra i 60 e i 70 gradi sopra lo zero, e l’aria è piena di [[motifs/birds|uccelli]].
@@ -86,6 +96,8 @@ Dalla cena in poi il cielo si schiarisce spesso. Nel sud si possono vedere i [[m
 
 Domani [[motifs/night|notte]] ci sarà una festa a casa del Professor Haven, ma solo per le persone sposate. La castità mi esclude, così come mia sorella. I nostri genitori sono stati invitati e andranno. Mamma e Vinnie mandano i loro [[motifs/love|baci]]. Entrambi si stanno preparando per partire per Washington. Prenditi cura di te.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_1869" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, 1869?" data-chapter="" data-kind="intro" data-tags="motif/dust,motif/death,concept/faith_and_doubt,concept/immortality,concept/mortality,concept/friendship,form/letter,histref/christianity,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -96,12 +108,15 @@ DEAR FRIEND,—You have the most triumphant face out of Paradise, probably becau
 Ourselves we do inter with sweet derision the channel of the [[motifs/dust|dust]]; who once achieves, invalidates the balm of that religion, that doubts as fervently as it believes.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, hai il viso più trionfante di tutto il Paradiso. Probabilmente perché ci sei sempre, invece di esserci soltanto alla fine.
 
 Noi stessi usiamo una dolce ironia per manipolare il “canale della polvere”; chi una volta raggiunge quel livello, rende inefficace il “balsamo” di quella religione: essa dubita con la stessa intensità con cui crede.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_february_1862" data-title="To the Misses, February, 1862" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/winter,motif/spring,motif/summer,motif/disease_contagion,concept/death,concept/endurance,concept/friendship,concept/hope,form/letter,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -110,10 +125,13 @@ Noi stessi usiamo una dolce ironia per manipolare il “canale della polvere”;
 DEAR F——,—I [[concepts/fear|fear]] you are getting as driven as Vinnie. We consider her standard for superhuman effort erroneously applied. Dear L——remembers the basket Vinnie “never got to.” But we must blame with lenience. Poor Vinnie has been very sick, and so have we all, and I feared one day our little brothers would see us no more, but [[characters/god|God]] was not so hard. Now health looks so beautiful, the tritest “How do you do” is living with meaning. No [[concepts/doubt|doubt]] you “heard a bird,” but which route did he take? Hasn't reached here yet. Are you sure it wasn't a “down brakes”? Best of ears will blunder! Unless he come by the first of April, I sha'n't countenance him. We have had fatal weather—thermometer two below zero all day, without a word of apology. [[motifs/summer|Summer]] was always dear, but such a kiss as she'll get from me if I ever see her again, will make her cry, I know. . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro F——, temo che tu stia diventando così ossessionato come Vinnie. Riteniamo che lo standard di sforzo sovrumano che lei rappresenta venga applicato in modo errato. Caro L——, ricordi quella palla da basket che Vinnie “non è mai riuscita a prendere”? Ma dobbiamo essere indulgenti. Povera Vinnie è stata molto malata, e lo siamo stati tutti; temevo che un giorno i nostri fratellini non ci vedessero più, ma [[characters/god|Dio]] non è stato così crudele. Ora che la salute sembra tornare, anche il più banale “Come stai?” assume un significato profondo. Non dubito che tu abbia “sentito un uccello”, ma quale strada ha preso? Non è ancora arrivato qui. Sei sicuro che non si trattasse di un errore? Anche le orecchie più acute a volte sbagliano. A meno che non arrivi entro il primo aprile, non gli darò retta. Abbiamo avuto condizioni meteorologiche terribili: il termometro è stato sotto lo zero per tutto il giorno, senza nemmeno una scusa. [[motifs/summer|Estate]] era sempre stata molto cara per noi, ma un bacio come quello che le darò se mai la rivedrò la farà piangere, ne sono sicuro.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_november" data-title="To the Misses, November" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/nature,motif/stars,motif/dawn,motif/childhood,concept/wonder_and_gratitude,concept/beauty,concept/friendship,concept/memory,form/letter,histref/the_bible,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -128,6 +146,7 @@ Trusty as the [[motifs/stars|stars]] Who quit their shining working . Prompt as 
 [[motifs/love|Love]] for the cousin sisters, and the lovely alien. . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . Oh quella amata vite di nocciolo che non mi veniva consegnata finché le sue steli non diventavano di un bel colore marrone chiaro; anche se amavo ogni singolo stelo, robusto come se fosse appena stato raccolto nel bosco. Sembrava una frangia di nastri dorati unita a frange più sobrie. Una vera e propria magia, per la mia mente felice.
@@ -138,6 +157,8 @@ Fedeli come le [[motifs/stars|stelle]] che hanno cessato di brillare. Pronti com
 
 [[motifs/love|Amore]] per le cugine e per quella adorabile aliena.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_rev_j_l_jenkins_and_mrs_jenkins_autumn_187" data-title="To the Rev. J. L. Jenkins and Mrs. Jenkins, Autumn, 187—" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/leaves,motif/autumn,motif/bees,motif/the_butterfly,motif/seasons,concept/friendship,concept/jealousy,concept/longing,concept/transience,concept/hope,form/letter,histref/the_bible,character/saul,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -162,6 +183,7 @@ The red [[motifs/leaves|leaves]] take the green [[motifs/leaves|leaves]]' place,
 These are sticks of rowen for your stove. It was chopped by [[motifs/bees|bees]], and butterflies piled it, Saturday afternoons.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Signor e Signora Pastore, — La signora Holland ci ha resi felici e allo stesso tempo tristi, raccontandoci dei vostri successi.
@@ -182,6 +204,8 @@ Le foglie rosse sostituiscono quelle verdi, e il paesaggio cambia aspetto. Andia
 
 Queste sono stecche di roven per il vostro camino. Sono state tagliate dalle [[motifs/bees|Api]] e le farfalle le hanno accumulate, nei pomeriggi di sabato.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fs_cooper" data-title="To Mrs. F.S. Cooper" data-chapter="" data-kind="intro" data-tags="motif/bees,motif/insects,concept/humility,concept/wonder_and_gratitude,form/aphorism,form/letter,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -190,10 +214,13 @@ Queste sono stecche di roven per il vostro camino. Sono state tagliate dalle [[m
 The founders of honey have no names.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I fondatori del miele non hanno nomi.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_march_1886" data-title="To the Misses, March, 1886" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/birds,motif/home,motif/winter,concept/friendship,concept/endurance,concept/hope,concept/suffering,form/letter,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -206,6 +233,7 @@ Do you keep musk, as you used to, like Mrs. Morene of Mexico? Or cassia carnatio
 Are you reading and [[motifs/well|well]], and the W——s near and warm? When you see Mrs. French and Dan give them a tear from us.
 
 Vinnie would have written, but could not leave my side. Maggie gives her [[motifs/love|love]]. Mine more sweetly still.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -217,3 +245,5 @@ Tieni ancora il muschio, come facevi una volta, come la signora Morene del Messi
 Stai leggendo bene, e il tempo è caldo e piacevole? Quando vedi la signora French e Dan, dì loro che li pensiamo con affetto.
 
 Vinnie avrebbe voluto scriverlo, ma non poteva lasciarmi. Maggie dona il suo [[motifs/love|amore]]; il mio, ancora più dolce.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

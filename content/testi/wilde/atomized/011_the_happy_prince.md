@@ -103,6 +103,7 @@ Then they melted the statue in a furnace, and the Mayor held a meeting of the Co
 “What a strange thing!” said the overseer of the workmen at the foundry. “This broken lead heart will not melt in the furnace. We must throw it away.” So they threw it on a [[motifs/dust|dust]]-heap where the dead [[motifs/swallow|Swallow]] was also lying.
 “Bring me the two most precious things in the [[motifs/city|city]],” said God to one of His Angels; and the Angel brought Him the leaden heart and the dead bird.
 “You have rightly chosen,” said God, “for in my [[motifs/garden|garden]] of Paradise this little bird shall sing for evermore, and in my [[motifs/city|city]] of gold the Happy Prince shall praise me.”
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -196,3 +197,5 @@ Poi fusero la statua in una fornace, e il Sindaco tenne un’adunanza del Consig
 “Che cosa strana!” disse il caposquadra degli operai alla fonderia. “Questo cuore di piombo spezzato non vuole fondersi nella fornace. Dobbiamo buttarlo via.” Così lo gettarono su un mucchio di [[motifs/dust|polvere]] dove giaceva anche la [[motifs/swallow|Rondine]] morta.
 “Portami le due cose più preziose della [[motifs/city|città]],” disse Dio a uno dei Suoi Angeli; e l’Angelo Gli portò il cuore di piombo e l’uccello morto.
 “Hai scelto bene,” disse Dio, “perché nel mio [[motifs/garden|giardino]] del Paradiso questo piccolo uccello canterà per sempre, e nella mia [[motifs/city|città]] d’oro il Principe Felice mi loderà.”
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

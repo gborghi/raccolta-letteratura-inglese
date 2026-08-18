@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume--poems" data-author="Dickinson" data-workhref="works/grief-and-loss-·-elegy-·-clothing-and-costume-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 27. Morns like these — we parted — · 29. If those I loved were lost · 39. It did not surprise me — · 43. Could live — did live — · 49. I never lost as much but twice, · 78. A poor — torn heart — a tattered heart — · 88. As by the dead we love to sit, · 104. Where I have lost, I softer tread — · 145. This heart that broke so long — · 148. All overgrown by cunning moss, · 149. She went as quiet as the Dew · 150. She died — this was the way she died. · 154. Except to Heaven, she is nought. · 181. I lost a World — the other day! · 205. I should not dare to leave my friend, · 236. If He dissolve — then — there is nothing — more — · 312. Her — "last Poems" — · 372. I know lives, I could miss · 388. Take your Heaven further on — · 430. It would never be Common — more — I said — · 443. I tie my Hat — I crease my Shawl — · 482. We Cover Thee — Sweet Face — · 485. To make One's Toilette — after Death · 509. If anybody's friend be dead · 521. Endow the Living — with the Tears — · 567. He gave away his Life — · 577. If I may have it, when it's dead, · 596. When I was small, a Woman died — · 607. Of nearness to her sundered Things · 645. Bereavement in their death to feel · 649. Her Sweet turn to leave the Homestead · 660. 'Tis good — the looking back on Grief — · 665. Dropped into the Ether Acre — · 734. If He were living — dare I ask — · 758. These — saw Visions — · 795. Her final Summer was it — · 890. From Us She wandered now a Year, · 900. What did They do since I saw Them? · 901. Sweet, to have had them lost · 962. Midsummer, was it, when They died — · 991. She sped as Petals of a Rose · 999. Superfluous were the Sun · 1044. A Sickness of this World it most occasions · 1061. Three Weeks passed since I had seen Her — · 1100. The last Night that She lived · 1130. That odd old man is dead a year — · 1153. Through what transports of Patience · 1197. I should not dare to be so sad · 1217. Fortitude incarnate · 1277. While we were fearing it, it came — · 1524. A faded Boy — in sallow Clothes · 1530. A Pang is more conspicuous in Spring · 1562. Her Losses make our Gains ashamed — · 1597. 'Tis not the swaying frame we miss, · 1732. My life closed twice before its close — · 1742. The distance that the dead have gone · 1759. Which misses most,
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="rns_like_these_we_parted" data-title="27. Morns like these — we parted —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/death,motif/dawn,concept/grief_and_loss,concept/immortality,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
 
 
@@ -33,6 +36,7 @@ Quick! a sharper rustling!
 And this linnet flew!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mattini come questi - ci separammo  
@@ -48,6 +52,8 @@ Qualcuno tirò le imposte -
 Presto! un fruscio più netto!  
 E questo fanello volò!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_those_i_loved_were_lost" data-title="29. If those I loved were lost" data-chapter="" data-kind="intro" data-tags="motif/bells,motif/flowers,concept/love_romantic,concept/grief_and_loss,form/riddle,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -64,6 +70,7 @@ Philip when bewildered -
 bore his [[forms/riddle|riddle]] in -
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se quelli che amavo fossero perduti,  
@@ -76,6 +83,8 @@ la Margherita mi spingerebbe -
 Philip quando smarrito -  
 portò dentro il suo [[forms/riddle|enigma]] -
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_did_not_surprise_me" data-title="39. It did not surprise me —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/the_grave,concept/grief_and_loss,concept/mortality,concept/love_romantic,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -102,6 +111,7 @@ There were just such coffin
 In the heart instead?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non mi sorprese —  
@@ -124,6 +134,8 @@ E che, e se davvero
 Ci fosse proprio tale bara  
 Nel cuore invece?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="uld_live_did_live" data-title="43. Could live — did live —" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/a_ship,concept/faith,concept/mortality,concept/immortality,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -146,6 +158,7 @@ We who saw the launching
 Never sailed the Bay!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Poteva vivere — visse —  
@@ -164,6 +177,8 @@ Fra noi non oggi —
 Noi che vedemmo il varo  
 Mai salpammo la Baia!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="never_lost_as_much_but_twice" data-title="49. I never lost as much but twice," data-chapter="" data-kind="intro" data-tags="motif/death,motif/money_gold,concept/grief_and_loss,concept/providence,concept/faith_and_doubt,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -180,6 +195,7 @@ Burglar, banker, father,
 I am poor once more !
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non ho mai perso tanto se non due volte,  
@@ -192,6 +208,8 @@ Rimborsarono la mia scorta.
 Ladro, banchiere, padre,  
 Sono povera ancora una volta !
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="poor_torn_heart_a_tattered_heart" data-title="78. A poor — torn heart — a tattered heart —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_sea,motif/night,concept/grief_and_loss,concept/grace_and_redemption,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -216,6 +234,7 @@ Do the blue havens by the hand
 Lead the wandering Sails.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un povero — lacero cuore — un cuore a brandelli —  
@@ -236,6 +255,8 @@ Là — raccolte dalle burrasche —
 I porti azzurri per mano  
 Guidano le Vele erranti.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_by_the_dead_we_love_to_sit" data-title="88. As by the dead we love to sit," data-chapter="" data-kind="intro" data-tags="motif/death,concept/grief_and_loss,concept/paradox,concept/memory_and_time,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -252,6 +273,7 @@ Vast — in its fading ration
 To our penurious eyes!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come presso i morti [[motifs/love|amiamo]] sedere,  
@@ -264,6 +286,8 @@ Stimiamo il nostro tesoro
 Vasto — nella sua razione che svanisce  
 Ai nostri occhi avari!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_i_have_lost_i_softer_tread" data-title="104. Where I have lost, I softer tread —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/flowers,motif/clothing,concept/grief_and_loss,concept/mortality,concept/immortality,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -289,6 +313,7 @@ Went [[motifs/home|home]] a century ago
 Next Bliss!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dove ho perduto, cammino più lieve —  
@@ -310,6 +335,8 @@ Che vestita in stormi di purissima [[motifs/snow|neve]]
 Andò a [[motifs/home|casa]] un secolo fa  
 Accanto alla Beatitudine!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_heart_that_broke_so_long" data-title="145. This heart that broke so long —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/birds,motif/stars,motif/animals,concept/mortality,concept/grief_and_loss,concept/faith_and_doubt,concept/suffering_and_pain,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -326,6 +353,7 @@ Nor any schoolboy rob the nest
 Tenderness builded there.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questo cuore che sì a lungo si spezzò —  
@@ -338,6 +366,8 @@ Che palpitò ansante, qui —
 Né alcuno scolaro depredare il nido  
 Che Tenerezza vi costruì.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="l_overgrown_by_cunning_moss" data-title="148. All overgrown by cunning moss," data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,motif/the_grave,concept/history,concept/mortality,concept/immortality,concept/grace_and_redemption,concept/suffering_and_pain,concept/the_artist_and_society,form/elegy,histref/christianity,histref/the_bible,histref/classical_antiquity,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -359,6 +389,7 @@ Oh what an afternoon for Heaven,
 When "Bronte" entered there!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tutta ricoperta di muschio astuto,  
@@ -376,6 +407,8 @@ Sul suo orecchio perplesso —
 Oh che pomeriggio per il Cielo,  
 Quando "Bronte" vi entrò!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_went_as_quiet_as_the_dew" data-title="149. She went as quiet as the Dew" data-chapter="" data-kind="intro" data-tags="motif/death,motif/flowers,motif/stars,motif/nature,concept/mortality,concept/grief_and_loss,concept/doubt,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -392,6 +425,7 @@ Less skilful than Leverrier
 It's sorer to believe!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se ne andò quieta come la [[motifs/dew|rugiada]]  
@@ -404,6 +438,8 @@ Dalla sera della mia [[motifs/summer|estate]] ;
 Meno abile di Leverrier  
 È più doloroso da credere!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_died_this_was_the_way_she_died" data-title="150. She died — this was the way she died." data-chapter="" data-kind="intro" data-tags="motif/death,motif/sun,motif/clothing,concept/mortality,concept/immortality,concept/grief_and_loss,concept/faith,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -419,6 +455,7 @@ Since I could never find her
 Upon the mortal side.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Morì — fu così che morì.  
@@ -430,6 +467,8 @@ Gli Angeli devono aver scorto,
 Poiché non potei mai trovarla  
 Dal lato mortale.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cept_to_heaven_she_is_nought" data-title="154. Except to Heaven, she is nought." data-chapter="" data-kind="intro" data-tags="topos/vanitas,archetype/innocent,motif/flowers,motif/nature,concept/grief_and_loss,concept/humility,concept/mortality,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -451,6 +490,7 @@ And somebody has lost the face
 That made Existence — [[motifs/home|Home]]!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tranne che al Cielo, lei è nulla.  
@@ -468,6 +508,8 @@ Pure toglietela dal Prato
 E qualcuno ha perduto il volto  
 Che faceva dell'Esistenza — [[motifs/home|Casa]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="lost_a_world_the_other_day" data-title="181. I lost a World — the other day!" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/money_gold,motif/eyes_sight,concept/grief_and_loss,concept/humility,concept/self_and_soul,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -484,6 +526,7 @@ Of more Esteem than Ducats —
 Oh find it — Sir — for me!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ho perso un Mondo — l'altro giorno!  
@@ -496,6 +539,8 @@ Eppure — al mio frugale Occhio,
 Di più Pregio che Ducati —  
 Oh trovatelo — Signore — per me!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="should_not_dare_to_leave_my_friend" data-title="205. I should not dare to leave my friend," data-chapter="" data-kind="intro" data-tags="motif/death,motif/eyes_sight,concept/friendship,concept/grief_and_loss,concept/marriage_and_fidelity,concept/faith,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -522,6 +567,7 @@ Were useless as next morning's [[motifs/sun|sun]] —
 Where midnight frosts — had lain!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non oserei lasciare il mio amico,  
@@ -544,6 +590,8 @@ Ché spezzarsi allora — ché spezzarsi allora —
 Sarebbe inutile come il [[motifs/sun|sole]] del mattino dopo —  
 Dove i geli di mezzanotte — s'erano posati!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_he_dissolve_then_there_is_nothing_more" data-title="236. If He dissolve — then — there is nothing — more —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/light_and_dark,motif/stars,motif/blood,concept/grief_and_loss,concept/love_romantic,form/lyric,histref/the_bible,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -570,6 +618,7 @@ His little Spaniel — tell Him!
 Will He heed?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 PIÙ —  
@@ -592,6 +641,8 @@ Sta stillando — rossa —
 Il Suo piccolo Spaniel — diteGlielo!  
 Darà ascolto?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_last_poems" data-title="312. Her — &quot;last Poems&quot; —" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/birds,motif/the_grave,concept/grief_and_loss,concept/immortality_of_art,concept/the_artist_and_society,form/elegy,setting/europe,setting/italy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -618,6 +669,7 @@ What, and if, Ourself a Bridegroom —
 Put Her down — in [[settings/italy|Italy]]?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le sue — "ultime Poesie" —  
@@ -640,6 +692,8 @@ Soffochiamo — con facile pena —
 Che, e se, Noi stessi uno Sposo —  
 La deponemmo — in [[settings/italy|Italia]]?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="know_lives_i_could_miss" data-title="372. I know lives, I could miss" data-chapter="" data-kind="intro" data-tags="motif/love,concept/friendship,concept/grief_and_loss,concept/immortality,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -656,6 +710,7 @@ The first — a Gnat's Horizon
 Could easily outgrow —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Conosco vite, di cui farei a meno  
@@ -668,6 +723,8 @@ A stento riempirebbero un Due —
 Le prime — l'Orizzonte d'un Moscerino  
 Potrebbe facilmente oltrepassare —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ke_your_heaven_further_on" data-title="388. Take your Heaven further on —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/clothing,concept/immortality_divine,concept/grief_and_loss,concept/mortality,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -687,6 +744,7 @@ Dressed to meet You —
 See — in White!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Porta il tuo Cielo più lontano —  
@@ -702,6 +760,8 @@ Di questo Sofferente cortese —
 Vestito per incontrarti —  
 Guarda — di Bianco!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_would_never_be_common_more_i_said" data-title="430. It would never be Common — more — I said —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/clothing,motif/birds,concept/joy,concept/grief_and_loss,concept/disillusionment,concept/melancholy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -753,6 +813,7 @@ But where my moment of Brocade —
 My — drop — of India?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 —  
@@ -800,6 +861,8 @@ La Veste che un tempo indossavo —
 Ma dov'è il mio istante di Broccato —  
 La mia — goccia — d'India?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="tie_my_hat_i_crease_my_shawl" data-title="443. I tie my Hat — I crease my Shawl —" data-chapter="" data-kind="intro" data-tags="motif/masks_disguise,motif/clothing,concept/grief_and_loss,concept/identity,concept/appearance_vs_reality,concept/self_and_soul,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -844,6 +907,7 @@ With scrupulous exactness —
 To hold our Senses — on —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lego il mio Cappello — piego il mio Scialle —  
@@ -884,6 +948,8 @@ Benché il Premio della vita — sia finito —
 Con scrupolosa esattezza —  
 Per tenere i nostri Sensi — accesi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_cover_thee_sweet_face" data-title="482. We Cover Thee — Sweet Face —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,motif/love,concept/grief_and_loss,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -904,6 +970,7 @@ Augmented — Sweet — a Hundred fold —
 If Thou would'st take it — now —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ti Copriamo — Dolce Volto —  
@@ -920,6 +987,8 @@ Che ci Contentammo di mostrare —
 Accresciuto — Dolce — di Cento volte —  
 Se Tu volessi prenderlo — ora —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_make_ones_toilette_after_death" data-title="485. To make One's Toilette — after Death" data-chapter="" data-kind="intro" data-tags="motif/death,motif/clothing,concept/grief_and_loss,histref/the_bible,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -936,6 +1005,7 @@ When eyes that fondled it are wrenched
 By Decalogues — away —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Farsi la Toletta — dopo che la [[motifs/death|Morte]]  
@@ -948,6 +1018,8 @@ E fare gaio il Corpetto —
 Quando gli occhi che lo vezzeggiavano son strappati  
 Dai Decaloghi — via —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_anybodys_friend_be_dead" data-title="509. If anybody's friend be dead" data-chapter="" data-kind="intro" data-tags="motif/death,motif/memory,motif/the_grave,motif/clothing,concept/grief_and_loss,concept/mortality,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -984,6 +1056,7 @@ Past what Ourself can estimate —
 That — makes the Quick of Woe!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se l'amico di qualcuno è morto  
@@ -1016,6 +1089,8 @@ Oltre Colloquio, e [[motifs/vow|Voto]] —
 Oltre ciò che Noi stessi possiamo stimare —  
 Questo — fa il Vivo del Dolore!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="dow_the_living_with_the_tears" data-title="521. Endow the Living — with the Tears —" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/death,concept/grief_and_loss,concept/friendship,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1032,6 +1107,7 @@ Till They — the Cherishing deny —
 With [[motifs/death|Death]]'s Ethereal Scorn —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dota i Viventi — delle [[motifs/tears|Lacrime]] —  
@@ -1044,6 +1120,8 @@ Cui l'Affetto fu negato
 Finché Loro — l'Affetto negano —  
 Con l'Etereo Sdegno della [[motifs/death|Morte]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_gave_away_his_life" data-title="567. He gave away his Life —" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,motif/death,motif/flowers,concept/martyrdom,concept/grief_and_loss,concept/immortality,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1070,6 +1148,7 @@ And when We turned to note the Growth —
 Broke — perfect — from the Pod —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Diede via la sua Vita —  
@@ -1092,6 +1171,8 @@ Semplicemente scavalcò il Bocciolo —
 E quando Ci voltammo a osservare la Crescita —  
 Eruppe — perfetto — dal Baccello —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_i_may_have_it_when_its_dead" data-title="577. If I may have it, when it's dead," data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/love_romantic,concept/mortality,concept/immortality,concept/desire_and_longing,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1136,6 +1217,7 @@ Forgive me, if to stroke thy [[motifs/frost|frost]]
 Outvisions Paradise!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se potrò averlo, quando sarà morto,  
@@ -1176,6 +1258,8 @@ Per la Brama di guardarTi —
 Perdonami, se accarezzare il tuo [[motifs/frost|gelo]]  
 Supera in visione il Paradiso!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_i_was_small_a_woman_died" data-title="596. When I was small, a Woman died —" data-chapter="" data-kind="intro" data-tags="concept/war_and_its_cost,concept/heroism,concept/mortality,concept/grief_and_loss,concept/immortality,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1207,6 +1291,7 @@ For Braveries, remote as this
 In Scarlet Maryland —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quand'ero piccola, una Donna morì —  
@@ -1234,6 +1319,8 @@ Perpetui prorompono lassù
 Per Prodezze, remote come questa  
 Nello Scarlatto Maryland —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_nearness_to_her_sundered_things" data-title="607. Of nearness to her sundered Things" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/memory_and_time,concept/mortality,concept/immortality,concept/nostalgia,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1265,6 +1352,7 @@ And 'twas they, and not ourself
 That mourned.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Della vicinanza alle sue Cose recise  
@@ -1292,6 +1380,8 @@ Loro — fossero solo rimasti finché non li raggiungiamo —
 e fossero loro, e non noi  
 a portare il lutto.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="reavement_in_their_death_to_feel" data-title="645. Bereavement in their death to feel" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,concept/grief_and_loss,concept/mortality,concept/self_and_soul,concept/immortality,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1313,6 +1403,7 @@ In dying — 'tis as if Our Souls
 Absconded — suddenly —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lutto nella loro [[motifs/death|morte]] sentire  
@@ -1330,6 +1421,8 @@ Tale Presenza porta via
 Morendo — è come se le Nostre Anime  
 Fossero fuggite — d'improvviso —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_sweet_turn_to_leave_the_homestead" data-title="649. Her Sweet turn to leave the Homestead" data-chapter="" data-kind="intro" data-tags="archetype/damsel,motif/death,motif/marriage,motif/flowers,motif/the_sea,concept/mortality,concept/grief_and_loss,concept/immortality,concept/faith,form/elegy,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1373,6 +1466,7 @@ He — must have achieved in person
 Equal Paradise —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Suo Dolce turno di lasciare la Dimora  
@@ -1412,6 +1506,8 @@ Che oscura il Suo volto —
 Egli — deve avere raggiunto in persona  
 Eguale Paradiso —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_good_the_looking_back_on_grief" data-title="660. 'Tis good — the looking back on Grief —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/the_sea,motif/seasons,concept/grief_and_loss,concept/memory_and_time,concept/transience,concept/melancholy,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1433,6 +1529,7 @@ Exceeds its Unremembered Drop —
 They're [[motifs/water|Water]] — equally —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È bene — il guardare indietro al Dolore —  
@@ -1450,6 +1547,8 @@ Sia più grande — Come il [[motifs/sea|Mare]]
 Eccede la sua Goccia Scordata —  
 Sono [[motifs/water|Acqua]] — ugualmente —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="opped_into_the_ether_acre" data-title="665. Dropped into the Ether Acre —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,motif/clothing,motif/marriage,motif/the_journey,concept/mortality,concept/immortality,concept/paradox,concept/transience,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1466,6 +1565,7 @@ Baggage a strapped Pearl —
 Riding to meet the Earl —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caduta nell'Acro d'Etere —  
@@ -1478,6 +1578,8 @@ Per Bagaglio una Perla legata —
 [[motifs/journey|Viaggio]] di Piuma — e Frusta di Diamante —  
 Cavalcando incontro al Conte —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_he_were_living_dare_i_ask" data-title="734. If He were living — dare I ask —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,concept/grief_and_loss,concept/mortality,concept/memory_and_time,concept/melancholy,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1504,6 +1606,7 @@ In face of the Suspense —
 My Life just holds the Trench —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se Egli fosse vivo — oserei chiedere —  
@@ -1526,6 +1629,8 @@ In faccia all'Attesa —
 "Fu sepolto" — "Sepolto"! "Lui!"  
 La mia Vita regge appena la Trincea —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ese_saw_visions" data-title="758. These — saw Visions —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/eyes_sight,concept/grief_and_loss,concept/mortality,concept/immortality,concept/melancholy,form/lyric,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1550,6 +1655,7 @@ Paradise — the only Palace
 Fit for Her reception — now —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questi — videro Visioni —  
@@ -1570,6 +1676,8 @@ Perla — per Calza — Perla per Scarpa —
 Paradiso — il solo Palazzo  
 Degno della Sua accoglienza — ora —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_final_summer_was_it" data-title="795. Her final Summer was it —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/seasons,concept/mortality,concept/grief_and_loss,concept/transience,form/elegy,character/death_personified,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1596,6 +1704,7 @@ So busy was she — finishing —
 So leisurely — were We —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Sua ultima [[motifs/summer|Estate]] fu —  
@@ -1618,6 +1727,8 @@ Giaceva l'Indaffarata Cara —
 Così occupata era — a finire —  
 Così placidi — eravamo Noi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="om_us_she_wandered_now_a_year" data-title="890. From Us She wandered now a Year," data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/seasons,concept/grief_and_loss,concept/mortality,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1634,6 +1745,7 @@ We only know what [[motifs/time|time]] of Year
 We took the Mystery.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Da Noi Ella errò ormai da un Anno,  
@@ -1646,6 +1758,8 @@ Ignari dobbiamo restare —
 Sappiamo solo in che [[motifs/time|tempo]] dell'Anno  
 Prendemmo il Mistero.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_did_they_do_since_i_saw_them" data-title="900. What did They do since I saw Them?" data-chapter="" data-kind="intro" data-tags="motif/death,concept/grief_and_loss,concept/immortality,form/lyric,histref/christianity,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1672,6 +1786,7 @@ Would I restore my Booty
 To that Bold Person, [[characters/god|God]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che fecero Loro da quando Li vidi?  
@@ -1694,6 +1809,8 @@ E offrissero una Ricompensa
 Renderei il mio Bottino  
 A quella Persona Ardita, [[characters/god|Dio]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="eet_to_have_had_them_lost" data-title="901. Sweet, to have had them lost" data-chapter="" data-kind="intro" data-tags="motif/death,concept/grief_and_loss,concept/grace_and_redemption,concept/immortality,form/lyric,histref/christianity,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1711,6 +1828,7 @@ Those that [[motifs/rose|rose]] to go —
 Then thought of Us, and stayed.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dolce, averli avuti perduti  
@@ -1724,6 +1842,8 @@ Poi preziosi
 Quelli che si [[motifs/rose|levarono]] per andare —  
 Poi pensarono a Noi, e restarono.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="dsummer_was_it_when_they_died" data-title="962. Midsummer, was it, when They died —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/seasons,motif/summer,motif/death,concept/mortality,concept/transience,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1740,6 +1860,7 @@ When These — leaned unto Perfectness —
 Through Haze of Burial —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mezza estate, era, quando Morirono —  
@@ -1752,6 +1873,8 @@ Prima del Correggiato imminente —
 Quando Questi — s'inclinarono alla Perfezione —  
 Attraverso Foschia di Sepoltura —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sped_as_petals_of_a_rose" data-title="991. She sped as Petals of a Rose" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/rose,motif/flowers,motif/wind,concept/grief_and_loss,concept/transience,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1767,6 +1890,7 @@ But Andes in the Bosoms where
 She had begun to lie —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ella fuggì come Petali di [[motifs/rose|Rosa]]  
@@ -1778,6 +1902,8 @@ Come Grillo o come Ape —
 Ma Ande nei Petti dove  
 Aveva iniziato a giacere —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="perfluous_were_the_sun" data-title="999. Superfluous were the Sun" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/stars,concept/grief_and_loss,concept/immortality_of_art,concept/faith,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1799,6 +1925,7 @@ As [[motifs/stars|Stars]] that drop anonymous
 From an abundant sky.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Superfluo sarebbe il [[motifs/sun|Sole]]  
@@ -1816,6 +1943,8 @@ I nostri Periodi possono giacere
 Come [[motifs/stars|Stelle]] che cadono anonime  
 Da un cielo abbondante.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="sickness_of_this_world_it_most_occasions" data-title="1044. A Sickness of this World it most occasions" data-chapter="" data-kind="intro" data-tags="topos/contemptus_mundi,concept/grief_and_loss,concept/mortality,concept/alienation,concept/faith,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1832,6 +1961,7 @@ Themselves forsake — contented,
 For Deity.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Malessere di questo Mondo per lo più cagiona  
@@ -1844,6 +1974,8 @@ Un Mondo debba essere
 Che Essi abbandonano — contenti,  
 Per la Deità.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ree_weeks_passed_since_i_had_seen_her" data-title="1061. Three Weeks passed since I had seen Her —" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/grief_and_loss,concept/mortality,form/elegy,form/riddle,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1865,6 +1997,7 @@ Of the Separated Parties
 Which be out of sight?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tre Settimane passate da che L'avevo vista —  
@@ -1882,6 +2015,8 @@ Alla [[motifs/night|notte]] della Parrocchia —
 Delle Parti Separate  
 Quale sarà fuori di vista?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_last_night_that_she_lived" data-title="1100. The last Night that She lived" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/night,concept/mortality,concept/grief_and_loss,concept/faith_and_doubt,form/elegy,form/hymn,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1917,6 +2052,7 @@ And then an awful leisure was,
 Our [[concepts/faith|faith]] to regulate.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'ultima [[motifs/night|notte]] che lei visse,  
@@ -1948,6 +2084,8 @@ E sollevammo eretto il capo;
 E poi vi fu un ozio tremendo,  
 La nostra [[concepts/faith|fede]] da regolare.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_odd_old_man_is_dead_a_year" data-title="1130. That odd old man is dead a year —" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/blood,concept/mortality,concept/memory_and_time,concept/grief_and_loss,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -1969,6 +2107,7 @@ Achievement contemplating thee —
 Feels transitive and cool.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quel vecchio strano è morto da un anno —  
@@ -1986,6 +2125,8 @@ E consumata spenta!
 Il Compimento contemplandoti —  
 Si sente transitorio e freddo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rough_what_transports_of_patience" data-title="1153. Through what transports of Patience" data-chapter="" data-kind="intro" data-tags="motif/death,concept/grief_and_loss,concept/unrequited_love,concept/melancholy,concept/mortality,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2001,6 +2142,7 @@ Thy privilege of dying
 Abbreviate me this —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Attraverso quali trasporti di Pazienza  
@@ -2012,6 +2154,8 @@ Vinsi tanto vicino a questo
 Il tuo privilegio di morire  
 Abbreviami questo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="should_not_dare_to_be_so_sad" data-title="1197. I should not dare to be so sad" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/melancholy,concept/paradox,concept/self_and_soul,concept/faith_and_doubt,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2028,6 +2172,7 @@ The Giant at the other side
 Begin to perish now.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non oserei essere così triste  
@@ -2040,6 +2185,8 @@ E noi che mai vedemmo
 Il Gigante dall'altro lato  
 Cominciamo ora a perire.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rtitude_incarnate" data-title="1217. Fortitude incarnate" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/death,motif/the_grave,concept/mortality,concept/heroism,form/elegy,setting/the_sea,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2061,6 +2208,7 @@ Suit me at a venture
 Better than the Tombs
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fortezza incarnata  
@@ -2078,6 +2226,8 @@ Le tue tumultuose Stanze
 Mi si confanno all'azzardo  
 Meglio delle Tombe
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ile_we_were_fearing_it_it_came" data-title="1277. While we were fearing it, it came —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/clothing,concept/mortality,concept/grief_and_loss,concept/paradox,concept/fate_and_free_will,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2099,6 +2249,7 @@ Is Terribler than wearing it
 A whole existence through.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mentre lo temevamo, venne —  
@@ -2116,6 +2267,8 @@ Il Mattino in cui è nuovo
 È più Terribile che indossarlo  
 Per un'intera esistenza.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="faded_boy_in_sallow_clothes" data-title="1524. A faded Boy — in sallow Clothes" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/death,motif/animals,concept/grief_and_loss,concept/transience,form/elegy,form/lyric,setting/pastoral_countryside,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2132,6 +2285,7 @@ Remanded to a Ballad's Barn
 Or Clover's Retrospect —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Ragazzo sbiadito — in Abiti giallastri  
@@ -2144,6 +2298,8 @@ Le Mucche che pascevano e ringraziavano
 Rimandate a un Fienile di Ballata  
 O alla Retrospettiva del Trifoglio —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="pang_is_more_conspicuous_in_spring" data-title="1530. A Pang is more conspicuous in Spring" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/birds,motif/the_grave,concept/grief_and_loss,concept/grace_and_redemption,concept/melancholy,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2159,6 +2315,7 @@ Why, [[concepts/resurrection|Resurrection]] had to wait
 Till they had moved a Stone —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Fitta è più cospicua in [[motifs/spring|Primavera]]  
@@ -2170,6 +2327,8 @@ Chi si cura del Canto di un Uccello Azzurro —
 Ebbene, la [[concepts/resurrection|Resurrezione]] dovette attendere  
 Che avessero smosso una Pietra —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_losses_make_our_gains_ashamed" data-title="1562. Her Losses make our Gains ashamed —" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/honour,concept/paradox,concept/humility,form/elegy,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2185,6 +2344,7 @@ In vain to punish Honey —
 It only sweeter grows.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le sue Perdite fanno vergognare i nostri Guadagni —  
@@ -2196,6 +2356,8 @@ Come ogni Facchino sa —
 Vano punire il Miele —  
 Non fa che crescere più dolce.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_not_the_swaying_frame_we_miss" data-title="1597. 'Tis not the swaying frame we miss," data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,motif/love,concept/grief_and_loss,concept/love_romantic,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2211,6 +2373,7 @@ Ourselves, denied the privilege,
 Consolelessly presume —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non è l'ondeggiante forma che ci manca,  
@@ -2222,6 +2385,8 @@ Che lo portò attraverso la Tomba,
 Noi, negato il privilegio,  
 Sconsolatamente presumiamo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_life_closed_twice_before_its_close" data-title="1732. My life closed twice before its close —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,concept/grief_and_loss,concept/immortality,concept/paradox,concept/faith_and_doubt,form/hymn,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2238,6 +2403,7 @@ Parting is all we know of heaven,
 And all we need of hell.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La mia vita si chiuse due volte prima della sua chiusura—  
@@ -2250,6 +2416,8 @@ Come questi che due volte accaddero.
 Separarsi è tutto ciò che sappiamo del cielo,  
 E tutto ciò che ci occorre dell'inferno.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_distance_that_the_dead_have_gone" data-title="1742. The distance that the dead have gone" data-chapter="" data-kind="intro" data-tags="motif/death,motif/memory,concept/grief_and_loss,concept/mortality,concept/memory_and_time,form/elegy,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2266,6 +2434,7 @@ So intimate have we become
 With their dear retrospect.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La distanza che i morti han percorso  
@@ -2278,6 +2447,8 @@ Più che a metà sospettiamo,
 Così intimi siamo divenuti  
 Del loro caro sguardo a ritroso.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ich_misses_most" data-title="1759. Which misses most," data-chapter="" data-kind="intro" data-tags="motif/death,motif/sleep,concept/grief_and_loss,concept/melancholy,form/lyric,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
@@ -2295,6 +2466,7 @@ Or that that went to [[motifs/sleep|sleep]]
 
 With "if I could" endeavoring  
 Without the strength to shape?
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2311,3 +2483,5 @@ O quello che andò a [[motifs/sleep|dormire]]
 
 Con "se potessi" sforzandosi  
 Senza la forza di dar forma?
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

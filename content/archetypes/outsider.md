@@ -63,6 +63,10 @@ tags:
 - [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume--poems#om_us_she_wandered_now_a_year|890. From Us She wandered now a Year, (Dickinson)]]
 - [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence--poems#loss_of_something_ever_felt_i|959. A loss of something ever felt I — (Dickinson)]]
 - [[works/cat-morgan-introduces-himself-(eliot)|Cat Morgan Introduces Himself (Eliot)]]
+<<<<<<< HEAD
+=======
+- [[works/mélange-adultère-de-tout-(eliot)|Mélange Adultère de Tout (Eliot)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/sweeney-agonistes-(eliot)|Sweeney Agonistes (Eliot)]]
 - [[works/the-family-reunion-(eliot)|THE FAMILY REUNION (Eliot)]]
 - [[works/meg-merrilies-(keats)|Meg Merrilies (Keats)]]

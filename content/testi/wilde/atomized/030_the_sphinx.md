@@ -188,6 +188,7 @@ False Sphinx! False Sphinx! By reedy Styx old Charon, leaning on his oar,
 Waits for my coin. Go thou before, and leave me to my crucifix,  
 Whose pallid burden, sick with [[motifs/pain|pain]], watches the world with wearied eyes,  
 And weeps for every [[motifs/soul|soul]] that dies, and weeps for every [[motifs/soul|soul]] in vain.  
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -366,3 +367,5 @@ Falsa Sfinge! Falsa Sfinge! Presso lo Stige canneggiato il vecchio Caronte, appo
 attende la mia moneta. Va’ tu innanzi, e lasciami al mio crocifisso,  
 il cui pallido fardello, malato di [[motifs/pain|dolore]], guarda il mondo con occhi stanchi,  
 e piange per ogni [[motifs/soul|anima]] che muore, e piange invano per ogni [[motifs/soul|anima]].
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/paradox-food-and-feasting-aphorism--letters" data-author="Dickinson" data-workhref="works/paradox-·-food-and-feasting-·-aphorism-(dickinson)" data-collection="letters"></div>
 
 
+<<<<<<< HEAD
 To Mrs. A. P. Strong, AMHERST, May 7, 1850 · To Mr. William Austin Dickinson, Monday Morn · To Mr. William Austin Dickinson, Sunday Evening · To Mr. William Austin Dickinson, Sunday Evening · To Mr. William Austin Dickinson, Sunday Afternoon · To Mr. William Austin Dickinson · To Mr. Samuel Bowlers and Mrs. Bowles, January, 1862 · To Mr. Samuel Bowlers and Mrs. Bowles, Saturday · To the Misses · To the Misses, January, 1882 · To Mr. C. H. Clark, April 18, 1883 · To Mrs. F.S. Cooper, 1885? · To the Rev. F. F. Emerson, 1881? · To Mr. and Mrs. George Montague · To Mr. and Mrs. George Montague
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_a_p_strong_amherst_may_7_1850" data-title="To Mrs. A. P. Strong, AMHERST, May 7, 1850" data-chapter="" data-kind="intro" data-tags="topos/temptation,motif/food_feasting,motif/dreams,motif/prayer,motif/home,concept/temptation,concept/suffering,concept/faith,concept/self_sacrifice,concept/friendship,concept/patience_and_waiting,form/letter,histref/the_bible,setting/new_england,character/satan,character/jesus,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
 
 
@@ -38,6 +41,7 @@ It's Friday, my dear A., and that in another week, yet my mission is unfulfilled
 Don't be afraid of my imprecations—they never did any one harm, and they make me feel so cool, and so very much more comfortable! . . . I presume you are loving your mother, and loving the stranger and wanderer—visiting the poor and afflicted, and reaping whole fields of blessings—save me a little sheaf, only a very little one! Remember and care for me sometimes, and scatter a fragrant flower in this wilderness life of mine by writing me, and by not forgetting, and by lingering longer in [[motifs/prayer|prayer]], that the Father may bless one more!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 CARA RICORDATA,—Le circostanze in cui ti scrivo questa mattina sono a un tempo gloriose, afflittive e benefiche,—gloriose nei fini, afflittive nei mezzi, e benefiche, confido, in entrambi. Due pani gemelli sono appena venuti al mondo sotto i miei auspici,—bei figlioli, il ritratto della madre; ed ecco, mia cara amica, la gloria.
@@ -58,6 +62,8 @@ Che faremo, mia cara, quando la prova crescerà sempre di più, quando la fioca,
 
 Non aver paura delle mie imprecazioni—non hanno mai fatto male a nessuno, e mi fanno sentire così fresca, e tanto più a mio agio! . . . Presumo che tu stia amando tua madre, e amando lo straniero e il viandante—visitando i poveri e gli afflitti, e mietendo interi campi di benedizioni—serbami un piccolo covone, uno piccolissimo soltanto! Ricordati di me e abbi cura di me qualche volta, e spargi un fiore odoroso in questa mia vita di deserto scrivendomi, e non dimenticandomi, e indugiando più a lungo nella [[motifs/prayer|preghiera]], perché il Padre benedica un'anima di più!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_monday_morn" data-title="To Mr. William Austin Dickinson, Monday Morn" data-chapter="" data-kind="intro" data-tags="motif/home,motif/letters_writing,concept/desire_and_longing,concept/patience_and_waiting,concept/loneliness,form/letter,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -66,11 +72,14 @@ Non aver paura delle mie imprecazioni—non hanno mai fatto male a nessuno, e mi
 MY DEAR AUSTIN,—I received a [[forms/letter|letter]] from [[motifs/home|home]] on Saturday by Mr. G—S—, and father wrote in it that he intended to send for cousin Emily and myself on Saturday of this week to spend the Sabbath at [[motifs/home|home]]. I went to Miss Whitman, after receiving the [[forms/letter|letter]], and asked her if we could go if you decided to come for us. She seemed stunned by my request, and could not find utterance to an answer for some [[motifs/time|time]]. At length she said, “Did you not know it was contrary to the rules of the Seminary to ask to be absent on the Sabbath?” I told her I did not. She then took a Catalogue from her table, and showed me the law in full at the last part of it. She closed by saying that we could not go, and I returned to my room without farther ado. So you see I shall be deprived of the pleasure of a visit [[motifs/home|home]], and you that of seeing me, if I may have the presumption to call it a pleasure! The teachers are not willing to let the girls go [[motifs/home|home]] this term as it is the last one, and as I have only nine weeks more to spend here, we had better be contented to obey the commands. We shall only be the more glad to see one another after a longer absence, that will be all. I was highly edified with your imaginative note to me, and think your flights of fancy indeed wonderful at your age! When are you coming to see me—it would be very pleasant to us to receive a visit from your highness if you can be absent from [[motifs/home|home]] long enough for such a purpose. . . . I can't write longer.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mio caro Austin,  
 Sabato ho ricevuto una lettera da casa inviata dal signor G—S—; mio padre scriveva che intendeva far venire me e la cugina Emily a casa per trascorrere il Sabato insieme. Dopo aver ricevuto la lettera, sono andata dalla signorina Whitman e le ho chiesto se potessimo andare, nel caso tu decidessi di venirci a prendere. Sembra che sia rimasta sorpresa dalla mia richiesta e non è riuscita subito a rispondere; alla fine ha detto: “Non sapevi che chiedere di assentarsi durante il Sabato va contro le regole del seminario?” Le ho risposto di no. Allora ha preso un catalogo dal suo tavolo e mi ha mostrato chiaramente la regola in questione. Alla fine ha detto che non potevamo andare, quindi sono tornata nella mia stanza senza aggiungere altro. Quindi, non potrò godermi il piacere di una visita a casa, e nemmeno tu potrai vedermi, se posso permettermi di considerarlo un piacere! Gli insegnanti non vogliono che le ragazze tornino a casa questo semestre, poiché è l’ultimo; dato che mi restano solo nove settimane qui, dovremmo accontentarci di obbedire alle regole. Sarà ancora più bello rivederci dopo una lunga assenza. Questo è tutto. La tua lettera piena di fantasia mi ha molto ispirata; penso davvero che i tuoi sogni e le tue immaginazioni siano meravigliosi per la tua età! Quando verrai a trovarmi? Sarebbe molto piacevole ricevere una tua visita, se riuscirai a prenderti un po’ di tempo libero da casa. Non posso scrivere oltre.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_sunday_evening" data-title="To Mr. William Austin Dickinson, Sunday Evening" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/home,motif/the_grave,motif/insects,concept/loneliness,concept/temptation,concept/vanitas,form/letter,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -81,12 +90,15 @@ Sabato ho ricevuto una lettera da casa inviata dal signor G—S—; mio padre sc
 You importune me for news; I am very sorry to say “[[concepts/vanity|Vanity]] of vanities” there's no such thing as news—it is almost [[motifs/time|time]] for the cholera, and then things will take a start! . . . All of the folks send [[motifs/love|love]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 , Sono contento che tu sia così soddisfatto. Anzi, sono contento che non tu sia eccessivamente entusiasta. Non vorrei che i luoghi stranieri assumessero l’aspetto sereno e accogliente di “casa”. Siamo davvero preoccupati per quei ragazzi. Spero che tu non intenda punirli o allontanarli. Trovarsi così vicino alle proprietà del dottor Webster può facilmente suscitare tentazioni. Il paese è ancora in uno stato di caos, e le misure severe menzionate avranno sicuramente un effetto positivo nel risvegliare la gente. A proposito di sveglie. A che ora si alzano di solito gli abitanti delle città, soprattutto i giovani. E ancora di più gli insegnanti? Mi mancano le mattine trascorse nel mio “dipartimento”. Sono davvero dispiaciuto di non avere nessuno con cui svegliarmi. La tua stanza sembra davvero molto solitaria. Non mi piace entrarci. Ogni volta che ci passo vicino, ho l’impulso di suonare il flauto. Come si legge, i bambini piccoli hanno questa abitudine nei cimiteri. Appena troverò un po’ di tempo, comincerò ad allevare grilli. Il loro canto acuto potrà aiutare a dissipare la tristezza. Cresceranno meglio se li trasplanterò?
 
 Mi importunate per avere notizie; mi dispiace molto dover dire che “[[concepts/vanity|Vanità]] delle vanità”, non esistono davvero notizie. È quasi arrivato il momento della colera, e allora le cose inizieranno davvero a cambiare. Tutti mandano il loro [[motifs/love|affetto]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_sunday_evening" data-title="To Mr. William Austin Dickinson, Sunday Evening" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,archetype/king,motif/home,motif/summer,motif/crown,concept/loneliness,concept/desire_and_longing,concept/imagination,form/letter,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -99,6 +111,7 @@ We are having a pleasant [[motifs/summer|summer]]—without one of the five it i
 Our apples are ripening fast. I am fully convinced that with your approbation they will not only pick themselves, but arrange one another in baskets and present themselves to be eaten.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . Oh, quanto vorrei poter vedere il tuo mondo e i suoi piccoli regni. Vorrei anche vedere quel [[archetypes/king|re]]. Straniero! Era mio fratello! Immagino dei bambini di varie età: alcuni vestiti di blu, altri di grigio. Li metto tutti seduti sui banchi nella “aula della mia mente”. Poi li obbligo a muovere le labbra o sussurrare. Ti dono l’[[concepts/authority|autorità]] per punire e far rispettare la legge. Ti chiamo “Rabbi, Maestro”. E l’immagine è completa! Sarebbe davvero divertente se Vinnie ed io venissimo da voi come “comitato”. Ci divertiremmo un mondo a far temere quei cinquanta bambini. Qualsiasi esempio di disciplina che incontrassimo sarebbe per noi una vera delizia. Mi piacerebbe molto sapere come gestisci le cose: se il governo sia basato su regole precise e venga applicato con coerenza, o se si ricorra alla violenza quando necessario. Se si utilizzano soltanto leggi rigorose, oppure anche bastoni e pietre. Immagino che la tua autorità abbia come limite la loro stessa vita. Penso che tu debba essere stanco di scuola, dell’insegnamento, e di questo caldo terribile. Vorrei davvero che fossi qui, con noi, nella scuola di Endicott. Ogni volta che andiamo in carrozza con la nostra bellissima [[concepts/family|famiglia]], pensiamo che “se i desideri fossero cavalli”, noi quattro “poveracci” potremmo viaggiare liberamente. Ora godremo di tutto al massimo. Ma averti di nuovo [[motifs/home|a casa]] sarebbe come rivivere.
@@ -107,6 +120,8 @@ Stiamo trascorrendo una piacevole [[motifs/summer|estate]]. Ma senza uno di quei
 
 Le nostre mele stanno maturando molto velocemente. Sono assolutamente convinto che, con il tuo permesso, non solo si raccoglieranno da sole, ma si disporranno anche nelle ceste da sole, pronte per essere mangiate.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_sunday_afternoon" data-title="To Mr. William Austin Dickinson, Sunday Afternoon" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,motif/tears,concept/loneliness,concept/grief_and_loss,concept/desire_and_longing,form/letter,character/red_riding_hood,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -127,6 +142,7 @@ We miss you now and always. When [[characters/god|God]] bestows but three, and o
 I wish you could have some cherries—if there was any way we would send you a basket of them—they are very large and delicious, and are just ripening now. Little Austin Grout comes every day to pick them, and mother takes great comfort in calling him by name, from vague association with her departed boy. Austin, to tell the [[concepts/truth|truth]], it is very still and lonely—I do wish you were here. . . . The railroad is “a-workin'.” My [[motifs/love|love]] to all my friends. I am on my way downstairs to put the tea-kettle boiling—writing and taking tea cannot sympathize. If you forget me now, your right hand shall its cunning.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di nuovo al mio vecchio posto, caro Austin. E sono felice come una [[characters/queen|regina]] nel sapere che, mentre parlo, coloro che [[motifs/love|amo]] stanno ascoltando. Sono ancora più felice se riesco a renderli felici.
@@ -143,6 +159,8 @@ Ci manchi ora e per sempre. Quando [[characters/god|Dio]] dona soltanto tre cose
 
 Vorrei che potessi avere delle ciliegie, se ci fosse qualche modo per farti inviare un cestino pieno, te ne manderemmo sicuramente uno: sono molto grandi e deliziose, e proprio ora stanno maturando. Il piccolo Austin Grout viene ogni giorno a raccoglierle, e mia madre trova grande conforto nel chiamarlo per nome, forse perché quel nome le ricorda il suo figlio scomparso. Austin, a dire la verità, qui è molto tranquillo e solitario. Vorrei davvero che fossi qui con me. La ferrovia è in costruzione. Mio amore a tutti i miei amici. Sto per scendere a preparare il tè. Scrivere e bere tè non possono certo alleviare la solitudine. Se ora dovessi dimenticarti, almeno la tua mano destra continuerà a funzionare.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson" data-title="To Mr. William Austin Dickinson" data-chapter="" data-kind="intro" data-tags="motif/home,motif/clothing,concept/communication_and_isolation,concept/charity,form/letter,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -151,10 +169,13 @@ Vorrei che potessi avere delle ciliegie, se ci fosse qualche modo per farti invi
 . . . Mother sends her [[motifs/love|love]] and your waistcoat, thinking you'll like the one, and quite likely need the other.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . La madre invia il suo [[motifs/love|affetto]] e il tuo gilet, pensando che ti piacerà l’uno e che probabilmente avrai bisogno dell’altro.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_january_1862" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, January, 1862" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/pain,motif/night,motif/letters_writing,motif/tears,concept/friendship,concept/suffering,concept/grief_and_loss,concept/hope,concept/patience_and_waiting,form/letter,setting/new_england,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -173,6 +194,7 @@ That page is fullest, though.
 Vinnie sends her [[motifs/love|love]]. I think father and mother care a great deal for you, and [[concepts/hope|hope]] you may be [[motifs/well|well]]. When you tire with [[motifs/pain|pain]], to know that eyes would cloud, in Amherst —might that comfort, some?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —Sei disposto? Sono così lontano dalla terra. Forse un giorno di sabato sarà il mio turno di offrirti questa coppa. Il vino, quanto solenne e significativo!
@@ -187,6 +209,8 @@ Tuttavia, quella pagina è la più ricca di contenuti.
 
 Vinnie le invia il suo [[motifs/love|amore]]. Penso che padre e madre tengano molto a te e [[concepts/hope|sperino]] che tu stia bene. Quando ti sentirai stanca a causa del [[motifs/pain|dolore]], sapere che ci sono persone a Amherst pronte ad aiutarti, potrebbe consolarti, no?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_saturday" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Saturday" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/animals,motif/home,concept/friendship,concept/charity,form/letter,setting/new_england,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -197,12 +221,15 @@ Mother never asked a favor of Mr. Bowles before—that he accept from her the li
 “Sweet apples,” she exhorts me, with an occasional Baldwin for Mary and the squirrels.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mamma non aveva mai chiesto un favore al signor Bowles prima, che accettasse da lei quel piccolo barile di mele.
 
 “Mele dolci, ”, mi esorta lei, aggiungendo di tanto in tanto qualche riferimento a Baldwin, Mary e i scoiattoli.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/home,concept/friendship,concept/faith,concept/charity,concept/hope,form/letter,histref/the_bible,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -217,6 +244,7 @@ To know of your homes is comforting. I trust they are both peace. [[motifs/home|
 Tell us when you are happy, but be sure and tell us when you are sad, for Emily's heart is the edifice where the “wicked cease from troubling.”
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . Grazie, caro, per la rapidità che è il frutto di una richiesta ben formulata, e per la precisione: una nuova regola rappresenta infatti un’opportunità. Il pane è risultato delizioso, e le proporzioni sono così belle, così precise come quelle di una formula farmaceutica, “Ricordo proprio un farmacista, ” Mamma e Vinnie pensano che sia il più buono che abbiano mai assaggiato, e Maggie ne parla con grande entusiasmo.
@@ -227,6 +255,8 @@ Sapere di essere in un luogo sicuro è rassicurante. Spero che entrambi i vostri
 
 Dicci quando sei felice, ma assicurati di dirci anche quando sei triste, perché il cuore di Emily è quel rifugio dove i “malvagi smettono di causare dolore”.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_january_1882" data-title="To the Misses, January, 1882" data-chapter="" data-kind="intro" data-tags="motif/insects,motif/home,motif/time,concept/endurance,concept/charity,concept/friendship,concept/patience_and_waiting,form/letter,histref/the_bible,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -235,10 +265,13 @@ Dicci quando sei felice, ma assicurati di dirci anche quando sei triste, perché
 I have only a moment, exiles, but you shall have the largest half. Mother's dear little wants so engross the [[motifs/time|time]], —to read to her, to fan her, to tell her health will come to-morrow, to explain to her why the grasshopper is a burden, because he is not so new a grasshopper as he was, —this is so ensuing, I hardly have said “Good-morning, mother,” when I hear myself saying “Mother, good-[[motifs/night|night]].”
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ho solo un momento, esiliati, ma avrete la metà più grande. Le piccole cose care di nostra madre occupano così tanto il [[motifs/time|tempo]]: leggerle, rinfrescarla con un ventaglio, dirle che starà meglio domani, spiegarle perché la cavalletta rappresenta un “peso”. Tutto questo succede così in fretta che appena dico “Buongiorno, madre”, mi ritrovo già a dire “Madre, buonanotte”.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="c_h_clark_april_18_1883" data-title="To Mr. C. H. Clark, April 18, 1883" data-chapter="" data-kind="intro" data-tags="motif/suffering,concept/friendship,concept/suffering,concept/hope,concept/patience_and_waiting,form/letter,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -249,12 +282,15 @@ DEAR FRIEND,—Would it be possible you would excuse me if I once more inquire f
 With the trust that your own is impairless, and that [[concepts/fear|fear]] for your brother has not too much depressed you, please accept the solicitude of myself and my sister.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, — sarebbe possibile che tu mi scusassi se chiedessi ancora una volta della salute di quel fratello che la nostra amicizia ha reso sacro per noi?
 
 Con la fiducia che la tua salute sia intatta e che la [[concepts/fear|paura]] per tuo fratello non ti abbia troppo depresso, per favore accetta le nostre premure, quelle di me e di mia sorella.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fs_cooper_1885" data-title="To Mrs. F.S. Cooper, 1885?" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/endurance,concept/hope,concept/humility,form/letter,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -263,10 +299,13 @@ Con la fiducia che la tua salute sia intatta e che la [[concepts/fear|paura]] pe
 DEAR FRIEND,—Is not the sweet resentment of friends that we are not strong, more inspiriting even than the strength itself?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, — non è forse il dolce rammarico che proviamo nel constatare di non essere abbastanza forti un motivo ancora più motivante della forza stessa?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_rev_f_f_emerson_1881" data-title="To the Rev. F. F. Emerson, 1881?" data-chapter="" data-kind="intro" data-tags="motif/disease_contagion,concept/charity,concept/friendship,concept/hope,form/letter,histref/christianity,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -275,10 +314,13 @@ Caro amico, — non è forse il dolce rammarico che proviamo nel constatare di n
 Should Mr. Emerson ever become ill and idle, mother hopes his clergyman will be as delicately thoughtful of him as he has been of her.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se mai il signor Emerson dovesse ammalarsi e diventare inattivo, mia madre spera che il suo pastore si prenda cura di lui con la stessa attenzione e premura che ha sempre dimostrato per lei.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="and_mrs_george_montague" data-title="To Mr. and Mrs. George Montague" data-chapter="" data-kind="intro" data-tags="motif/disease_contagion,motif/seasons,concept/friendship,concept/hope,concept/charity,form/letter,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -289,20 +331,26 @@ We trust the dear friend is convalescing.
 These loveliest of days are certainly with that design.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Speriamo che il caro amico stia riprendendosi.
 
 Questi giorni davvero meravigliosi sono sicuramente frutto di quel progetto.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="and_mrs_george_montague" data-title="To Mr. and Mrs. George Montague" data-chapter="" data-kind="intro" data-tags="concept/charity,concept/justice,concept/faith,concept/conscience,form/aphorism,form/letter,histref/the_bible,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
 
 
 DEAR COUSIN,—The “Golden Rule” is so lovely, it needs no police to enforce it.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Caro cugino, —La “Regola d’Oro” è così bella che non ha bisogno di nessuna polizia per essere rispettata.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

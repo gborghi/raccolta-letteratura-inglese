@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/wonder-and-gratitude-sublime-storm--poems" data-author="Dickinson" data-workhref="works/wonder-and-gratitude-·-sublime-·-storm-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 65. I can't tell you — but you feel it — · 122. A something in a summer's Day · 124. In lands I never saw — they say · 128. Bring me the sunset in a cup, · 155. The Murmur of a Bee · 198. An awful Tempest mashed the air — · 290. Of Bronze — and Blaze — · 297. It's like the Light — · 315. He fumbles at your Soul · 323. As if I asked a common Alms, · 362. It struck me — every Day — · 416. A Murmur in the Trees — to note — · 552. An ignorance a Sunset · 585. I like to see it lap the Miles — · 595. Like Mighty Foot Lights — burned the Red · 606. The Trees like Tassels — hit — and swung — · 629. I watched the Moon around the House · 630. The Lightning playeth — all the while — · 666. Ah, Teneriffe! · 757. The Mountains — grow unnoticed — · 794. A Drop Fell on the Apple Tree — · 824. The Wind begun to knead the Grass — · 974. The Soul's distinct connection · 989. Gratitude — is not the mention · 1048. Reportless Subjects, to the Quick · 1104. The Crickets sang · 1128. These are the Nights that Beetles love — · 1134. The Wind took up the Northern Things · 1172. The Clouds their Backs together laid · 1397. It sounded as if the Streets were running · 1419. It was a quiet seeming Day — · 1452. Your thoughts don't have words every day · 1482. 'Tis whiter than an Indian Pipe — · 1581. The farthest Thunder that I heard · 1593. There came a Wind like a Bugle — · 1617. To try to speak, and miss the way · 1642. "Red Sea," indeed! Talk not to me · 1649. A Cap of Lead across the sky
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="cant_tell_you_but_you_feel_it" data-title="65. I can't tell you — but you feel it —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/spring,concept/the_sublime,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
 
 
@@ -45,6 +48,7 @@ To sublimer Recitation
 Are prepared to go!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non so dirtelo — ma tu lo senti —  
@@ -72,6 +76,8 @@ Col quale i Bambini lenti
 A più sublime Recitazione  
 Sono preparati ad andare!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="something_in_a_summers_day" data-title="122. A something in a summer's Day" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/seasons,motif/sun,concept/the_sublime,concept/joy,concept/inexpressibility_of_beauty,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -107,6 +113,7 @@ And I meet, coming thro' the dews
 Another [[motifs/summer|summer]]'s Day!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un qualcosa in un Giorno d'[[motifs/summer|estate]]  
@@ -138,6 +145,8 @@ Concludono gaia la [[concepts/wonder|meraviglia]] —
 E incontro, venendo tra le rugiade  
 Un altro Giorno d'[[motifs/summer|estate]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_lands_i_never_saw_they_say" data-title="124. In lands I never saw — they say" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,concept/the_sublime,concept/humility,concept/immortality,form/riddle,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -154,6 +163,7 @@ Which, Sir, are you and which am I
 Upon an August day?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 In terre che mai vidi — dicono  
@@ -166,6 +176,8 @@ Una Miriade di Margherite gioca —
 Quale, Signore, siete voi e quale sono io  
 In un giorno d'Agosto?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ing_me_the_sunset_in_a_cup" data-title="128. Bring me the sunset in a cup," data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/nature,motif/animals,concept/wonder_and_gratitude,concept/the_sublime,concept/self_and_soul,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -200,6 +212,7 @@ With implements to fly away,
 Passing Pomposity?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Portami il tramonto in una tazza,  
@@ -230,6 +243,8 @@ Chi mi farà uscire un giorno di gala
 Con strumenti per volare via,  
 Oltrepassando la Pomposità?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_murmur_of_a_bee" data-title="155. The Murmur of a Bee" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/book_of_nature,motif/nature,motif/dawn,concept/wonder_and_gratitude,concept/faith,concept/the_sublime,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -254,6 +269,7 @@ If any ask me how —
 Must tell!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Mormorio di un'Ape  
@@ -274,6 +290,8 @@ Se qualcuno mi chiede come —
 L'[[archetypes/artist|Artista]] — che mi disegnò così —  
 Deve dirlo!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_awful_tempest_mashed_the_air" data-title="198. An awful Tempest mashed the air —" data-chapter="" data-kind="intro" data-tags="archetype/monster,motif/storm,motif/nature,motif/the_supernatural,motif/dawn,concept/terror_and_horror,concept/the_sublime,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -296,6 +314,7 @@ Turned slowly to his native coast —
 And peace — was Paradise!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un'orrenda Tempesta schiacciò l'aria —  
@@ -314,6 +333,8 @@ Gli occhi spenti del [[archetypes/monster|Mostro]]
 Si volsero lenti alla costa natia —  
 E la pace — era Paradiso!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_bronze_and_blaze" data-title="290. Of Bronze — and Blaze —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/light_and_dark,motif/nature,motif/the_grave,concept/the_sublime,concept/mortality,concept/transience,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -341,6 +362,7 @@ An [[settings/island|Island]] in dishonored Grass —
 Whom none but Beetles — know.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di Bronzo — e di Vampa —  
@@ -364,6 +386,8 @@ Quando io, sarò da gran tempo,
 Un'[[settings/island|Isola]] nell'Erba disonorata —  
 Che nessuno se non gli Scarabei — conosce.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_like_the_light" data-title="297. It's like the Light —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/light_and_dark,motif/music_and_song,motif/nature,concept/joy,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -385,6 +409,7 @@ And the Everlasting Clocks —
 Chime — [[motifs/noon|Noon]]!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È come la Luce —  
@@ -402,6 +427,8 @@ Migliore — quando è finito —
 E gli Orologi Eterni —  
 Rintoccano — [[motifs/noon|Mezzogiorno]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fumbles_at_your_soul" data-title="315. He fumbles at your Soul" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/storm,motif/wind,concept/the_sublime,concept/terror_and_horror,concept/self_and_soul,concept/love_divine,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -424,6 +451,7 @@ When Winds take Forests in the Paws —
 The Universe — is still —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Egli brancica alla tua [[motifs/soul|Anima]]  
@@ -442,6 +470,8 @@ Che scotenna la tua nuda [[motifs/soul|Anima]] —
 Quando i Venti prendono le Foreste nelle Zampe —  
 L'Universo — è immoto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_if_i_asked_a_common_alms" data-title="323. As if I asked a common Alms," data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/money_gold,motif/sun,concept/wonder_and_gratitude,concept/grace_and_redemption,concept/poverty,form/lyric,form/epigram,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -457,6 +487,7 @@ And it sh'd lift it's purple dikes
 And flood me with the [[motifs/dawn|Dawn]]!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come se chiedessi una comune elemosina -  
@@ -468,6 +499,8 @@ Avesse per me un mattino?
 E quello alzasse le sue dighe di porpora  
 E m'inondasse di [[motifs/dawn|Dawn]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_struck_me_every_day" data-title="362. It struck me — every Day —" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/fire,motif/dreams,motif/time,motif/nature,concept/grief_and_loss,concept/melancholy,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -489,6 +522,7 @@ But [[concepts/nature|Nature]] lost the Date of This —
 And left it in the Sky —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi colpiva — ogni Giorno —  
@@ -506,6 +540,8 @@ La più Folle — la più svelta a passare —
 Ma la [[concepts/nature|Natura]] perse la Data di Questa —  
 E la lasciò nel Cielo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="murmur_in_the_trees_to_note" data-title="416. A Murmur in the Trees — to note —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/book_of_nature,motif/the_supernatural,motif/nature,motif/birds,motif/stars,motif/the_road,concept/wonder_and_gratitude,concept/imagination,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -537,6 +573,7 @@ So go your Way — and I'll go Mine —
 No [[concepts/fear|fear]] you'll miss the [[motifs/road|Road]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Mormorio tra gli Alberi — da notare —  
@@ -564,6 +601,8 @@ Come potrei infrangere la Mia Parola?
 Va' per la tua Via — io andrò per la Mia —  
 Nessun [[concepts/fear|timore]] che tu perda la [[motifs/road|Strada]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_ignorance_a_sunset" data-title="552. An ignorance a Sunset" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/eyes_sight,concept/the_sublime,concept/wonder_and_gratitude,concept/immortality,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -586,6 +625,7 @@ In [[concepts/immortality|Immortality]] —
 An angel is everywhere
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un'ignoranza un Tramonto  
@@ -604,6 +644,8 @@ Trasaliamo — come colti
 In [[concepts/immortality|Immortalità]] —  
 Un angelo è ovunque
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="like_to_see_it_lap_the_miles" data-title="585. I like to see it lap the Miles —" data-chapter="" data-kind="intro" data-tags="concept/wonder_and_gratitude,concept/the_natural_order,concept/imagination,concept/nature_vs_civilization,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -631,6 +673,7 @@ Stop — docile and omnipotent
 At its own [[settings/stable|stable]] [[motifs/door|door]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi piace vederlo lambire le [[characters/miles|Miglia]] —  
@@ -654,6 +697,8 @@ Poi — puntuale come una Stella
 Fermarsi — docile e onnipotente  
 Alla propria [[settings/stable|stalla]], alla [[motifs/door|porta]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ke_mighty_foot_lights_burned_the_red" data-title="595. Like Mighty Foot Lights — burned the Red" data-chapter="" data-kind="intro" data-tags="concept/the_sublime,concept/wonder_and_gratitude,concept/the_natural_order,concept/imagination,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -670,6 +715,7 @@ Enabled by his Royal Dress —
 Myself distinguished [[characters/god|God]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come Possenti Luci di Ribalta — ardeva il Rosso  
@@ -682,6 +728,8 @@ Mentre il più Insigne — della Folla —
 Reso palese dalla sua Veste Regale —  
 Io stessa distinsi [[characters/god|Dio]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_trees_like_tassels_hit_and_swung" data-title="606. The Trees like Tassels — hit — and swung —" data-chapter="" data-kind="intro" data-tags="concept/the_natural_order,concept/wonder_and_gratitude,concept/imagination,concept/the_sublime,concept/transience,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -725,6 +773,7 @@ Vandyke's Delineation
 Of [[concepts/nature|Nature]]'s — [[motifs/summer|Summer]] Day!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Gli Alberi come Nappe — battevano — e oscillavano —  
@@ -764,6 +813,8 @@ Com'è misera — per chi vede —
 La Delineazione di Vandyke  
 Della [[concepts/nature|Natura]] — nel Giorno d'[[motifs/summer|Estate]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="watched_the_moon_around_the_house" data-title="629. I watched the Moon around the House" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/moon,motif/nature,motif/the_window,motif/flowers,concept/the_sublime,concept/mortality,concept/alienation,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -817,6 +868,7 @@ To follow her superior [[motifs/road|Road]] —
 Or its advantage — Blue —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Osservai la [[motifs/moon|Luna]] intorno alla Casa  
@@ -866,6 +918,8 @@ Io troppo in basso ormai
 Per seguire la sua [[motifs/road|Strada]] superiore —  
 O il suo vantaggio — Azzurro —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_lightning_playeth_all_the_while" data-title="630. The Lightning playeth — all the while —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/lightning,motif/storm,motif/nature,concept/the_sublime,concept/faith_and_doubt,concept/faith,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -887,6 +941,7 @@ Nor We so much as check our speech —
 Nor stop to [[motifs/cross|cross]] Ourselves —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/lightning|Lampo]] giuoca — tutto il tempo —  
@@ -904,6 +959,8 @@ Continuo — con le Notizie —
 Né Noi sospendiamo neppure il discorso —  
 Né sostiamo a [[motifs/cross|segnarci]] la fronte —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_teneriffe" data-title="666. Ah, Teneriffe!" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/nature,motif/sun,motif/swords_weapons,concept/the_sublime,concept/wonder_and_gratitude,concept/beauty,concept/humility,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -923,6 +980,7 @@ Ah, Teneriffe!
 I'm kneeling — still —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ah, Teneriffe!  
@@ -938,6 +996,8 @@ Incurante — ugualmente — di pompa — o congedo
 Ah, Teneriffe!  
 Io m'inginocchio — ancora —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_mountains_grow_unnoticed" data-title="757. The Mountains — grow unnoticed —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/sun,concept/the_sublime,concept/the_natural_order,concept/humility,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -954,6 +1014,7 @@ Looks long — and last — and golden —
 For fellowship — at [[motifs/night|night]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le [[settings/mountains|Montagne]] — crescono inosservate —  
@@ -966,6 +1027,8 @@ Il [[motifs/sun|Sole]] — con puro diletto
 Guarda a lungo — e ultimo — e dorato —  
 In cerca di compagnia — a [[motifs/night|notte]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="drop_fell_on_the_apple_tree" data-title="794. A Drop Fell on the Apple Tree —" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/storm,motif/river,motif/the_sea,motif/birds,motif/sun,concept/joy,concept/beauty,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -992,6 +1055,7 @@ Then [[settings/orient|Orient]] showed a single [[motifs/flag|Flag]],
 And signed the Fete away —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Goccia Cadde sul [[motifs/tree|Melo]] —  
@@ -1014,6 +1078,8 @@ E li bagnarono nella Gioia —
 Poi l'[[settings/orient|Oriente]] mostrò una sola [[motifs/flag|Bandiera]],  
 E congedò la Festa —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_wind_begun_to_knead_the_grass" data-title="824. The Wind begun to knead the Grass —" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/wind,motif/nature,motif/dust,concept/the_sublime,concept/providence,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1041,6 +1107,7 @@ But overlooked my Father's House —
 Just Quartering a [[motifs/tree|Tree]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/wind|Vento]] prese a impastare l'Erba —  
@@ -1064,6 +1131,8 @@ Le Acque Naufragarono il Cielo —
 Ma trascurarono la Casa di mio Padre —  
 Squartando appena un [[motifs/tree|Albero]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_souls_distinct_connection" data-title="974. The Soul's distinct connection" data-chapter="" data-kind="intro" data-tags="motif/lightning,concept/self_and_soul,concept/immortality,concept/the_sublime,concept/suffering,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1080,6 +1149,7 @@ Not yet suspected — but for Flash —
 And Click — and Suddenness.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il distinto legame dell'[[motifs/soul|Anima]]  
@@ -1092,6 +1162,8 @@ Esibisce Distese di Luogo —
 Non ancora sospettate — se non per il Guizzo —  
 E lo Scatto — e la Subitaneità.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="atitude_is_not_the_mention" data-title="989. Gratitude — is not the mention" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/silence,motif/the_sea,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1108,6 +1180,7 @@ Proves it there's no [[motifs/sea|Sea]], or rather
 A remoter Bed?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Gratitudine — non è la menzione  
@@ -1120,6 +1193,8 @@ A Sagola e Scandaglio
 Prova che non v'è [[motifs/sea|Mare]], o piuttosto  
 Un più remoto Fondo?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="portless_subjects_to_the_quick" data-title="1048. Reportless Subjects, to the Quick" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,concept/alienation,concept/perception_and_consciousness,concept/the_artist_and_society,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1136,6 +1211,7 @@ But like an Oriental Tale
 To others, fabulous —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Soggetti senza resoconto, al Vivo  
@@ -1148,6 +1224,8 @@ Suscettivo — stimolo —
 Ma come un Racconto Orientale  
 Per gli altri, favolosi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_crickets_sang" data-title="1104. The Crickets sang" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/night,motif/insects,motif/dew,motif/music_and_song,concept/the_sublime,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1169,6 +1247,7 @@ A Peace, as Hemispheres at [[motifs/home|Home]]
 And so the [[motifs/night|Night]] became.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cantarono i Grilli  
@@ -1186,6 +1265,8 @@ Una Saggezza, senza Volto, né Nome,
 Una Pace, come Emisferi a [[motifs/home|Casa]]  
 E così si fece la [[motifs/night|Notte]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ese_are_the_nights_that_beetles_love" data-title="1128. These are the Nights that Beetles love —" data-chapter="" data-kind="intro" data-tags="motif/insects,motif/night,motif/childhood,concept/the_grotesque,concept/terror_and_horror,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1209,6 +1290,7 @@ Supplied by Entomology
 With its remaining charm —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Queste sono le Notti che i Coleotteri [[motifs/love|amano]] —  
@@ -1228,6 +1310,8 @@ Senza discreto allarme —
 Fornito dall'Entomologia  
 Con il suo residuo incanto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_wind_took_up_the_northern_things" data-title="1134. The Wind took up the Northern Things" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/wind,motif/birds,concept/the_sublime,concept/order_vs_chaos,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1254,6 +1338,7 @@ How intimate, a Tempest past
 The Transport of the Bird —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/wind|Vento]] raccolse le Cose del Nord  
@@ -1276,6 +1361,8 @@ Il Giorno là fuori si udì —
 Com'è intimo, passata una Tempesta  
 Il Trasporto dell'Uccello —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_clouds_their_backs_together_laid" data-title="1172. The Clouds their Backs together laid" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/nature,motif/wind,motif/the_grave,motif/fire,concept/the_sublime,concept/mortality,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1292,6 +1379,7 @@ Where [[concepts/nature|Nature]]'s Temper cannot reach
 Nor vengance ever comes
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le Nuvole unirono le loro Schiene  
@@ -1304,6 +1392,8 @@ Che bello stare nelle Tombe
 Dove l'Ira della [[concepts/nature|Natura]] non giunge  
 Né vendetta arriva mai
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_sounded_as_if_the_streets_were_running" data-title="1397. It sounded as if the Streets were running" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/nature,motif/light_and_dark,concept/the_sublime,concept/terror_and_horror,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1320,6 +1410,7 @@ To see if [[motifs/time|Time]] was there —
 Mixing fresher Air.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Pareva che le Strade corressero  
@@ -1332,6 +1423,8 @@ Per vedere se il [[motifs/time|Tempo]] c'era ancora —
 La [[concepts/nature|Natura]] era in un Grembiule d'Opale,  
 A mescolare Aria più fresca.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_was_a_quiet_seeming_day" data-title="1419. It was a quiet seeming Day —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/sun,concept/terror_and_horror,concept/the_sublime,concept/appearance_vs_reality,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1352,6 +1445,7 @@ As those that Dissolution saw
 The Poppy in the Cloud
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Era un Giorno all'apparenza quieto —  
@@ -1368,6 +1462,8 @@ Comprendemmo dallo Sgomento
 Come chi vide la Dissoluzione  
 Il Papavero nella Nuvola
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ur_thoughts_dont_have_words_every_day" data-title="1452. Your thoughts don't have words every day" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/bread_and_wine_eucharist,concept/imagination,concept/transience,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1383,6 +1479,7 @@ You cannot comprehend its price
 Nor its infrequency
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I tuoi pensieri non hanno parole ogni giorno  
@@ -1394,6 +1491,8 @@ Così facile a essere
 Che non puoi comprenderne il prezzo  
 Né la sua infrequenza
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_whiter_than_an_indian_pipe" data-title="1482. 'Tis whiter than an Indian Pipe —" data-chapter="" data-kind="intro" data-tags="motif/fog_and_smoke,motif/white_and_red,concept/mortality,concept/the_uncanny,concept/self_and_soul,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1413,6 +1512,7 @@ Each one of us shall be —
 It be not [[forms/tragedy|Tragedy]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È più bianco d'una Pipa Indiana —  
@@ -1428,6 +1528,8 @@ Ciascuno di noi sarà —
 È Dramma — se Ipotesi  
 Non sia [[forms/tragedy|Tragedia]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_farthest_thunder_that_i_heard" data-title="1581. The farthest Thunder that I heard" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/fire,motif/light_and_dark,concept/the_sublime,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1455,6 +1557,7 @@ How Life's reverberation
 Its Explanation found —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Tuono più lontano che udii  
@@ -1478,6 +1581,8 @@ Uno Schianto senza Suono,
 Come il riverbero della Vita  
 Trovò la sua Spiegazione —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_came_a_wind_like_a_bugle" data-title="1593. There came a Wind like a Bugle —" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/wind,motif/nature,motif/bells,concept/the_sublime,concept/terror_and_horror,concept/the_natural_order,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1502,6 +1607,7 @@ And much can go,
 And yet abide the World!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Venne un [[motifs/wind|Vento]] come una Tromba —  
@@ -1522,6 +1628,8 @@ Quanto può venire
 E quanto andare,  
 E il Mondo tuttavia rimane!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_try_to_speak_and_miss_the_way" data-title="1617. To try to speak, and miss the way" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,archetype/rebel,motif/clothing,concept/self_and_soul,concept/wonder_and_gratitude,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1538,6 +1646,7 @@ Not subjugate, the Mutineer
 Whose title is "the [[motifs/soul|Soul]]."
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tentare di parlare, e smarrire la via  
@@ -1550,6 +1659,8 @@ L'aiuterebbe a celare,
 Non a soggiogare, l'Ammutinato  
 Il cui titolo è "l'[[motifs/soul|Anima]]."
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_sea_indeed_talk_not_to_me" data-title="1642. &quot;Red Sea,&quot; indeed! Talk not to me" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/light_and_dark,concept/the_sublime,concept/wonder_and_gratitude,histref/the_bible,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1568,6 +1679,7 @@ What Exultation in the Woe —
 What Wine in the fatigue!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "[[motifs/sea|Mar]] Rosso," davvero! Non parlarmi  
@@ -1582,6 +1694,8 @@ Che la Terra sia così grande —
 Quale Esultanza nel Dolore —  
 Quale Vino nella fatica!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cap_of_lead_across_the_sky" data-title="1649. A Cap of Lead across the sky" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/winter,motif/light_and_dark,concept/the_sublime,concept/terror_and_horror,concept/doubt,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1596,6 +1710,7 @@ A Chill came up as from a shaft
 Our [[motifs/noon|noon]] became a [[motifs/well|well]]  
 A Thunder [[motifs/storm|storm]] combines the charms  
 Of [[motifs/winter|Winter]] and of Hell.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1609,3 +1724,5 @@ Un Gelo salì come da un cunicolo
 Il nostro [[motifs/noon|mezzogiorno]] divenne un [[motifs/well|pozzo]]  
 Una [[motifs/storm|tempesta]] di Tuono combina gli incanti  
 Dell'[[motifs/winter|Inverno]] e dell'Inferno.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

@@ -33,6 +33,10 @@ tags:
 - [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan--poems#little_road_not_made_of_man|647. A little Road — not made of Man — (Dickinson)]]
 - [[testi/dickinson/atomized/joy-animals-comic-verse-song--poems#uld_i_but_ride_indefinite|661. Could I but ride indefinite (Dickinson)]]
 - [[works/at-graduation-1905-(eliot)|At Graduation 1905 (Eliot)]]
+<<<<<<< HEAD
+=======
+- [[works/mélange-adultère-de-tout-(eliot)|Mélange Adultère de Tout (Eliot)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/a-song-about-myself-(keats)|A Song About Myself (Keats)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_109|Sonnet 109 (Shakespeare)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_117|Sonnet 117 (Shakespeare)]]

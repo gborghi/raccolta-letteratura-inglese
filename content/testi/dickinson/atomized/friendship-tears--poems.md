@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/friendship-tears--poems" data-author="Dickinson" data-workhref="works/friendship-·-tears-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 14. One Sister have I in our house, · 23. I had a guinea golden — · 118. My friend attacks my friend! · 222. When Katie walks, this simple pair accompany her side, · 1156. Lest any doubt that we are glad that they were born Today · 1568. To see her is a Picture —
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="e_sister_have_i_in_our_house" data-title="14. One Sister have I in our house," data-chapter="" data-kind="intro" data-tags="motif/birds,motif/stars,concept/friendship,concept/love_romantic,concept/memory_and_time,concept/childhood_and_growth,form/lyric,cluster/friendship,cluster/tears"></span>
 
 
@@ -55,6 +58,7 @@ From out the wide [[motifs/night|night]]'s numbers -
 Sue - forevermore!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Sorella ho nella nostra casa -  
@@ -92,6 +96,8 @@ Scelsi quest'unica stella
 Fra le schiere della vasta [[motifs/night|notte]] -  
 Sue - per sempre!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="had_a_guinea_golden" data-title="23. I had a guinea golden —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/birds,motif/stars,concept/grief_and_loss,concept/friendship,concept/nostalgia,form/lyric,cluster/friendship,cluster/tears"></span>
@@ -140,6 +146,7 @@ And he no consolation
 Beneath the [[motifs/sun|sun]] may find.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Avevo una ghinea dorata -  
@@ -184,6 +191,8 @@ S'impadronisca della sua mente -
 E che egli nessuna consolazione  
 Sotto il [[motifs/sun|sole]] possa trovare.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_friend_attacks_my_friend" data-title="118. My friend attacks my friend!" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/friendship,concept/war_and_its_cost,concept/paradox,form/epigram,cluster/friendship,cluster/tears"></span>
@@ -199,6 +208,7 @@ I think I'd shoot the human race
 And then to glory run!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il mio amico attacca il mio amico!  
@@ -210,6 +220,8 @@ Avessi un possente fucile
 Credo che sparerei al genere umano  
 E poi correrei alla gloria!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_katie_walks_this_simple_pair_accompany_her_side" data-title="222. When Katie walks, this simple pair accompany her side," data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/marriage_and_fidelity,concept/love_romantic,concept/faith,form/lyric,cluster/friendship,cluster/tears"></span>
@@ -223,6 +235,7 @@ When Katie kneels, their loving hands still clasp her pious knee —
 Ah! Katie! Smile at Fortune, with two so knit to thee!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 IL SUO FIANCO,  
@@ -232,6 +245,8 @@ Quando Katie corre instancabile la seguono sulla [[motifs/road|strada]],
 Quando Katie s'inginocchia, le loro mani amorose stringono ancora il suo pio ginocchio —  
 Ah! Katie! Sorridi alla Fortuna, con due a te così uniti!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="st_any_doubt_that_we_are_glad_that_they_were_born_today" data-title="1156. Lest any doubt that we are glad that they were born Today" data-chapter="" data-kind="intro" data-tags="concept/immortality,concept/friendship,concept/wonder_and_gratitude,form/epigram,form/lyric,cluster/friendship,cluster/tears"></span>
@@ -244,6 +259,7 @@ Whose having lived is held by us in noble Holiday
 Without the date, like Consciousness or [[concepts/immortality|Immortality]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 NACQUERO OGGI  
@@ -252,6 +268,8 @@ Perché nessuno [[concepts/doubt|dubiti]] che siamo lieti che siano nati Oggi
 Il cui esser vissuti noi serbiamo in nobile Festa  
 Senza la data, come la Coscienza o l'[[concepts/immortality|Immortalità]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_see_her_is_a_picture" data-title="1568. To see her is a Picture —" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/sun,concept/friendship,concept/love_romantic,concept/beauty,form/lyric,cluster/friendship,cluster/tears"></span>
@@ -265,6 +283,7 @@ To know her not — Affliction —
 To own her for a Friend  
 A warmth as near as if the [[motifs/sun|Sun]]  
 Were shining in your Hand.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -277,3 +296,5 @@ Non conoscerla — Afflizione —
 Averla per Amica  
 Un calore così vicino come se il [[motifs/sun|Sole]]  
 Splendesse nella tua Mano.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

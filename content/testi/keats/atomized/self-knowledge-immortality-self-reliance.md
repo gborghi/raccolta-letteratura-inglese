@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/self-knowledge-immortality-self-reliance" data-author="Keats" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(keats)"></div>
 
 
+<<<<<<< HEAD
 ODE ON A GRECIAN URN · ODE · Ode to Apollo · Sonnet: As from the darkening gloom a silver dove · Sonnet Written in Disgust of Vulgar Superstition · Lines On Seeing a Lock of Milton’s Hair · Sonnet on Sitting Down to Read King Lear Once Again · A Song About Myself · Sonnet Written upon the Top of Ben Nevis · The Eve of Saint Mark
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="033_ode_on_a_grecian_urn" data-title="ODE ON A GRECIAN URN" data-chapter="" data-kind="intro"></span>
 
 

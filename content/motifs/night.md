@@ -19,6 +19,10 @@ tags:
 - [[works/childsnow-(chesterton)|childsnow (Chesterton)]]
 - [[works/midsummer-nights-dream-(chesterton)|midsummer nights dream (Chesterton)]]
 - [[works/inside-the-coach-(coleridge)|INSIDE THE COACH (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/milesisches-mährchen-(coleridge)|MILESISCHES MÄHRCHEN (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/mrs.-siddons-(coleridge)|MRS. SIDDONS (Coleridge)]]
 - [[works/nonsense-verses-(coleridge)|NONSENSE VERSES (Coleridge)]]
 - [[works/o!-i-have-wak’d-at-midnight,-and-have-wept-(coleridge)|O! I HAVE WAK’D AT MIDNIGHT, AND HAVE WEPT (Coleridge)]]

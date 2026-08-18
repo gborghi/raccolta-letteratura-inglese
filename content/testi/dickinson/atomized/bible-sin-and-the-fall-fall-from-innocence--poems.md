@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence--poems" data-author="Dickinson" data-workhref="works/bible-·-sin-and-the-fall-·-fall-from-innocence-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 41. I robbed the Woods — · 48. Once more, my now bewildered Dove · 59. A little East of Jordan, · 62. "Sown in dishonor"! · 168. If the foolish, call them "flowers" — · 203. He forgot — and I — remembered — · 213. Did the Harebell loose her girdle · 428. Taking up the fair Ideal, · 503. Better — than Music! For I — who heard it — · 672. The Future — never spoke — · 894. Of Consciousness, her awful Mate · 959. A loss of something ever felt I — · 1119. Paradise is that old mansion · 1166. Of Paul and Silas it is said · 1195. What we see we know somewhat · 1216. A Deed knocks first at Thought · 1239. Risk is the Hair that holds the Tun · 1254. Elijah's Wagon knew no thill · 1412. Shame is the shawl of Pink · 1459. Belshazzar had a Letter — · 1479. The Devil — had he fidelity · 1492. "And with what body do they come?" — · 1545. The Bible is an antique Volume — · 1598. Who is it seeks my Pillow Nights — · 1657. Eden is that old-fashioned House · 1733. No man saw awe, nor to his house · 1740. Sweet is the swamp with its secrets,
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="robbed_the_woods" data-title="41. I robbed the Woods —" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/guilt,concept/nature_vs_civilization,concept/conscience,form/lyric,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
 
 
@@ -29,6 +32,7 @@ What will the solemn Hemlock —
 What will the Oak [[motifs/tree|tree]] say?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Derubai i Boschi —  
@@ -40,6 +44,8 @@ Scrutai curiosa i loro gingilli — afferrai — portai via —
 Che dirà il solenne Abete —  
 Che dirà l'[[motifs/tree|albero]] di Quercia?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ce_more_my_now_bewildered_dove" data-title="48. Once more, my now bewildered Dove" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/the_sea,concept/faith,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -56,6 +62,7 @@ The Patriarch's bird returned,
 There may yet be land
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ancora una volta, la mia Colomba ora smarrita  
@@ -68,6 +75,8 @@ Tornò l'uccello del Patriarca,
 [[concepts/courage|Coraggio]]! Mia prode Columba!  
 Terra ancora può esserci
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="little_east_of_jordan" data-title="59. A little East of Jordan," data-chapter="" data-kind="intro" data-tags="topos/the_quest,concept/faith,concept/grace_and_redemption,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -94,6 +103,7 @@ And the bewildered Gymnast
 Found he had worsted [[characters/god|God]]!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un poco a Est del Giordano,  
@@ -116,6 +126,8 @@ Oltre i Colli di "Peniel",
 E lo sbigottito Ginnasta  
 Scoprì d'aver battuto [[characters/god|God]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="wn_in_dishonor" data-title="62. &quot;Sown in dishonor&quot;!" data-chapter="" data-kind="intro" data-tags="concept/immortality,concept/faith_and_doubt,concept/grace_and_redemption,form/epigram,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -134,6 +146,7 @@ Corinthians 1. 15. narrates
 A Circumstance or two!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "Seminato nel disonore"!  
@@ -148,6 +161,8 @@ L'Apostolo è di traverso!
 Corinzi 1. 15. narra  
 Una Circostanza o due!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_the_foolish_call_them_flowers" data-title="168. If the foolish, call them &quot;flowers&quot; —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,topos/paradise_lost,motif/flowers,motif/stars,concept/faith,concept/humility,concept/immortality,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -179,6 +194,7 @@ Grant that we may stand,
 At that grand "Right hand"!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se gli stolti, li chiamano "[[motifs/flowers|fiori]]" —  
@@ -206,6 +222,8 @@ Concedi che possiamo stare,
 [[motifs/stars|Stelle]], fra Galassie profonde —  
 A quella grande "Destra"!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_forgot_and_i_remembered" data-title="203. He forgot — and I — remembered —" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/guilt,concept/love_romantic,form/lyric,histref/the_bible,histref/christianity,character/christ,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -222,6 +240,7 @@ Jesus merely "looked" at Peter —
 Could I do aught else — to Thee?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lui dimenticò — e io — ricordai —  
@@ -234,6 +253,8 @@ Che "si scaldavano" al "[[motifs/fire|fuoco]] del Tempio."
 Gesù soltanto "guardò" Pietro —  
 Potrei fare altro — verso Te?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_the_harebell_loose_her_girdle" data-title="213. Did the Harebell loose her girdle" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,topos/fall_from_innocence,motif/flowers,motif/animals,concept/love_romantic,concept/lust,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -250,6 +271,7 @@ Would the Eden be an Eden,
 Or the Earl — an Earl?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sciogliesse la Campanula la sua cintura  
@@ -262,6 +284,8 @@ Il suo fossato di perla —
 Sarebbe l'Eden un Eden,  
 O il Conte — un Conte?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="king_up_the_fair_ideal" data-title="428. Taking up the fair Ideal," data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,topos/paradise_lost,motif/crown,concept/sin_and_the_fall,concept/disillusionment,concept/grace_and_redemption,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -287,6 +311,7 @@ Transfigured — mended —
 Meet us — with a smile —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sollevando il bell'Ideale,  
@@ -308,6 +333,8 @@ Macchie — tutte lavate —
 Trasfigurate — risanate —  
 Ci vengono incontro — con un sorriso —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="tter_than_music_for_i_who_heard_it" data-title="503. Better — than Music! For I — who heard it —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/paradise_lost,topos/fall_from_innocence,motif/music_and_song,concept/sin_and_the_fall,concept/the_sublime,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -346,6 +373,7 @@ Humming — until my faint Rehearsal —
 Drop into tune — around the Throne —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 —  
@@ -380,6 +408,8 @@ Canticchiando — per promessa — quando sola —
 Canticchiando — finché la mia fioca Prova —  
 Non cada in tono — intorno al Trono —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_future_never_spoke" data-title="672. The Future — never spoke —" data-chapter="" data-kind="intro" data-tags="motif/time,motif/silence,concept/fate_and_free_will,concept/providence,concept/mortality,concept/memory_and_time,form/lyric,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -401,6 +431,7 @@ His Office — but to execute
 Fate's — Telegram — to Him —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Futuro — mai parlò —  
@@ -418,6 +449,8 @@ La Dote — come la Condanna —
 Suo Ufficio — solo eseguire  
 Del Fato — il Telegramma — a Lui —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_consciousness_her_awful_mate" data-title="894. Of Consciousness, her awful Mate" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/conscience,concept/self_and_soul,concept/guilt,form/lyric,histref/christianity,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -434,6 +467,7 @@ What triple Lenses burn upon
 The Escapade from [[characters/god|God]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Della Coscienza, sua tremenda Compagna  
@@ -446,6 +480,8 @@ E scarsa è per Lui la Folla —
 Quali triple Lenti ardono sopra  
 La Fuga da [[characters/god|Dio]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="loss_of_something_ever_felt_i" data-title="959. A loss of something ever felt I —" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,topos/fall_from_innocence,archetype/outcast_wanderer,motif/childhood,concept/grief_and_loss,concept/exile,concept/faith,form/lyric,histref/christianity,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -472,6 +508,7 @@ That I am looking oppositely
 For the site of the Kingdom of Heaven —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una perdita di qualcosa sempre sentii —  
@@ -494,6 +531,8 @@ Tocca la mia Fronte di tanto in tanto
 Che io stia guardando dalla parte opposta  
 Al sito del Regno dei Cieli —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="radise_is_that_old_mansion" data-title="1119. Paradise is that old mansion" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,motif/the_house,concept/sin_and_the_fall,concept/transience,form/epigram,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -508,6 +547,7 @@ Adam taught her Thrift
 Bankrupt once through his excesses —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Paradiso è quell'antica dimora  
@@ -518,6 +558,8 @@ La Beatitudine è frugale delle sue Locazioni
 Adamo le insegnò la Parsimonia  
 Fallita una volta per gli eccessi di lui —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_paul_and_silas_it_is_said" data-title="1166. Of Paul and Silas it is said" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/providence,concept/immortality,form/lyric,form/hymn,histref/the_bible,histref/christianity,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -534,6 +576,7 @@ The staple must be optional
 That an Immortal binds.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di Paolo e Sila si racconta  
@@ -546,6 +589,8 @@ Alle nostre Menti assalite —
 Facoltativo dev'essere il ferro  
 Che un Immortale avvince.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_we_see_we_know_somewhat" data-title="1195. What we see we know somewhat" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,motif/eyes_sight,concept/truth,concept/doubt,concept/sin_and_the_fall,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -562,6 +607,7 @@ Transport's doubtful Dividend
 Patented by Adam.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ciò che vediamo lo sappiamo alquanto  
@@ -574,6 +620,8 @@ Purché io possa scassinarle —
 Del Trasporto il dubbio Dividendo  
 Brevettato da Adamo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="deed_knocks_first_at_thought" data-title="1216. A Deed knocks first at Thought" data-chapter="" data-kind="intro" data-tags="concept/conscience,concept/self_and_soul,concept/fate_and_free_will,concept/providence,form/aphorism,form/lyric,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -590,6 +638,7 @@ That only to the ear of [[characters/god|God]]
 Its Doom is audible —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un'Azione bussa prima al Pensiero  
@@ -602,6 +651,8 @@ O vien sepolta così immota
 Che solo all'orecchio di [[characters/god|Dio]]  
 La sua Condanna è udibile —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="sk_is_the_hair_that_holds_the_tun" data-title="1239. Risk is the Hair that holds the Tun" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/temptation,concept/fate_and_free_will,concept/deception,form/allegory,form/lyric,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -623,6 +674,7 @@ Persuasive as Perdition,
 Decoys its Traveller.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Rischio è il Crine che regge la Botte  
@@ -640,6 +692,8 @@ Mentre quel Crine ingannevole
 Persuasivo come la Perdizione,  
 Adesca il suo Viaggiatore.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ijahs_wagon_knew_no_thill" data-title="1254. Elijah's Wagon knew no thill" data-chapter="" data-kind="intro" data-tags="archetype/prophet,motif/horse,motif/the_wheel,concept/faith,concept/the_sublime,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -656,6 +710,7 @@ Who justified Elijah
 In feats inscrutable —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Carro di Elia non conobbe timone  
@@ -668,6 +723,8 @@ Spira con lui la perizia
 Che giustificò Elia  
 In gesta imperscrutabili —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ame_is_the_shawl_of_pink" data-title="1412. Shame is the shawl of Pink" data-chapter="" data-kind="intro" data-tags="motif/clothing,concept/guilt,concept/conscience,concept/self_and_soul,form/epigram,form/lyric,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -683,6 +740,7 @@ Repugnant to her probity —
 Shame is the tint divine.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Vergogna è lo scialle di Rosa  
@@ -694,6 +752,8 @@ Quando sospinta su una scena
 Ripugnante alla sua probità —  
 La Vergogna è la tinta divina.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="lshazzar_had_a_letter" data-title="1459. Belshazzar had a Letter —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/letters_writing,concept/sin_and_the_fall,concept/conscience,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -709,6 +769,7 @@ Can read without its glasses
 On [[concepts/revelation|revelation]]'s wall.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Baldassarre ebbe una [[forms/letter|lettera]], —  
@@ -720,6 +781,8 @@ Che la [[concepts/conscience|coscienza]] di noi tutti
 Può leggere senza occhiali  
 Sul muro della [[concepts/revelation|rivelazione]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_devil_had_he_fidelity" data-title="1479. The Devil — had he fidelity" data-chapter="" data-kind="intro" data-tags="archetype/satanic_figure,concept/paradox,concept/sin_and_the_fall,form/epigram,character/satan,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -735,6 +798,7 @@ The Devil — without question
 Were thoroughly divine
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Diavolo — avesse fedeltà  
@@ -746,6 +810,8 @@ Cui se soltanto rinunciasse
 Il Diavolo — senza questione  
 Sarebbe interamente divino
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_with_what_body_do_they_come" data-title="1492. &quot;And with what body do they come?&quot; —" data-chapter="" data-kind="intro" data-tags="concept/immortality,concept/faith,concept/joy,histref/the_bible,character/christ,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -762,6 +828,7 @@ Paul knew the Man that knew the News —
 He passed through Bethlehem —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "E con quale [[concepts/body|corpo]] vengono?" —  
@@ -774,6 +841,8 @@ Sapere che sono loro!
 Paolo conobbe l'Uomo che conobbe la Novella —  
 Egli passò per Betlemme —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_bible_is_an_antique_volume" data-title="1545. The Bible is an antique Volume —" data-chapter="" data-kind="intro" data-tags="motif/the_book,concept/history,concept/satire_of_society,concept/faith_and_doubt,concept/sin_and_the_fall,form/satire,form/lyric,histref/the_bible,histref/greek_mythology,histref/christianity,character/satan,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -797,6 +866,7 @@ Orpheus' Sermon captivated —
 It did not condemn —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[historical-references/bible|Bibbia]] è un Volume antico —  
@@ -816,6 +886,8 @@ Verrebbero tutti i Ragazzi —
 Il Sermone di Orfeo incantava —  
 Non condannava —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_is_it_seeks_my_pillow_nights" data-title="1598. Who is it seeks my Pillow Nights —" data-chapter="" data-kind="intro" data-tags="motif/night,motif/childhood,concept/conscience,concept/guilt,concept/faith_and_doubt,histref/puritanism,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -832,6 +904,7 @@ Upon my wincing Head —
 The Phosphorous of [[characters/god|God]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chi cerca il mio Guanciale la Notte —  
@@ -844,6 +917,8 @@ Sul mio Capo che trasale —
 "Tutti" i Furfanti "avranno la loro parte in" cosa —  
 Il Fosforo di [[characters/god|Dio]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_is_that_old-fashioned_house" data-title="1657. Eden is that old-fashioned House" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,topos/fall_from_innocence,concept/nostalgia,concept/innocence_and_experience,histref/the_bible,setting/a_garden,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -860,6 +935,7 @@ Unconscious our returning,
 But discover it no more.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Eden è quella Casa all'antica  
@@ -872,6 +948,8 @@ in cui uscimmo indolenti dalla [[motifs/door|Porta]] —
 Ignari del nostro ritorno,  
 ma non la ritroviamo più.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_man_saw_awe_nor_to_his_house" data-title="1733. No man saw awe, nor to his house" data-chapter="" data-kind="intro" data-tags="archetype/prophet,concept/the_sublime,concept/faith,concept/terror_and_horror,concept/mortality,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -898,6 +976,7 @@ That very physiognomy
 I am convinced was this.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nessun uomo vide lo sgomento, né nella sua casa  
@@ -920,6 +999,8 @@ Da compiersi ora.
 Quella stessa fisionomia  
 Sono convinta fosse questa.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="eet_is_the_swamp_with_its_secrets" data-title="1740. Sweet is the swamp with its secrets," data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,topos/paradise_lost,motif/serpent_snake,motif/nature,motif/childhood,concept/sin_and_the_fall,concept/innocence_and_experience,form/lyric,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -934,6 +1015,7 @@ At that enthralling gallop
 That only [[motifs/childhood|childhood]] knows.  
 A snake is [[motifs/summer|summer]]'s treason,  
 And guile is where it goes.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -947,3 +1029,5 @@ A quel galoppo travolgente
 Che solo l'[[motifs/childhood|infanzia]] conosce.  
 Una serpe è il tradimento dell'[[motifs/summer|estate]],  
 E inganno è là dove va.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

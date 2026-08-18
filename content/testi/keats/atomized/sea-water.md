@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/sea-water" data-author="Keats" data-workhref="works/sea-·-water-(keats)"></div>
 
 
+<<<<<<< HEAD
 ON FIRST LOOKING INTO CHAPMAN’S HOMER · ODE TO A NIGHTINGALE · Sonnet to Byron · Sonnet to Spenser · To Haydon · Sonnet on a Picture of Leander · Sonnet on the Sea · Sonnet to Ailsa Rock
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="022_on_first_looking_into_chapmans_homer" data-title="ON FIRST LOOKING INTO CHAPMAN’S HOMER" data-chapter="" data-kind="intro"></span>
 
 

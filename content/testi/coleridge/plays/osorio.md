@@ -15,7 +15,10 @@ tags:
 
 
 Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villainous brother Osorio plots his returned brother Albert's death to seize his love and lands; a verse tragedy of fratricide, guilt, remorse, revenge and the Inquisition.
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -143,6 +146,7 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | ALBERT | *(alone.)* ‘Tis strange! it cannot be! my Lord Osorio!<br>Her Lord Osorio! Nay, I will not do it.<br>I curs’d him once, and one curse is enough.<br>How sad she look’d and pale! but not like [[concepts/guilt\|guilt]],<br>And her calm tones — sweet as a song of [[concepts/mercy\|mercy]]!<br>If the bad spirit retain’d his angel’s voice,<br>Hell scarce were hell. And why not [[archetypes/innocent\|innocent]]?<br>Who meant to murder me might [[motifs/well\|well]] cheat her.<br>But ere she married him, he had stain’d her [[concepts/honour\|honour]].<br>Ah! there I am hamper’d. What if this were a lie<br>Fram’d by the assassin? who should tell it him<br>If it were [[concepts/truth\|truth]]? Osorio would not tell him.<br>Yet why one lie? All else, I know, was [[concepts/truth\|truth]].<br>No start! no [[concepts/jealousy\|jealousy]] of stirring [[concepts/conscience\|conscience]]!<br>And she referr’d to me — fondly, methought!<br>Could she walk here, if that she were a traitress?<br>Here where we play’d together in our [[motifs/childhood\|childhood]]?<br>Here where we plighted vows? Where her cold cheek<br>Received my last kiss, when with suppress’d feelings<br>She had fainted in my arms? It cannot be!<br>‘Tis not in [[concepts/nature\|nature]]! I will die, believing<br>That I shall meet her where no evil is,<br>No treachery, no cup dash’d from the lips!<br>I’ll haunt this scene no more — live she in peace!<br>Her husband — ay, her husband! May this Angel<br>New-mould his canker’d heart! Assist me, Heaven!<br>That I may pray for my poor guilty brother! |
 | *(didascalia)* | END OF ACT THE FIRST. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -262,6 +266,8 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | *(didascalia)* | *(Escono [[characters/maria\|MARIA]] e ALHADRA.)* |  
 | ALBERT | *(solo.)* È strano! non può essere! il mio signor Osorio!<br>Il suo signor Osorio! No, non lo farò.<br>Una volta lo maledissi, e una maledizione basta.<br>Come appariva mesta e pallida! ma non come [[concepts/guilt\|colpa]],<br>e le sue calme note — dolci come un canto di [[concepts/mercy\|misericordia]]!<br>Se lo spirito malvagio serbasse la sua voce d'angelo,<br>l'inferno appena sarebbe inferno. E perché non [[archetypes/innocent\|innocente]]?<br>Chi voleva uccidermi poteva [[motifs/well\|ben]] ingannare lei.<br>Ma prima ch'ella lo sposasse, egli le aveva macchiato l'[[concepts/honour\|onore]].<br>Ah! qui son preso al laccio. E se fosse una menzogna<br>ordita dall'assassino? chi gliel'avrebbe detta<br>se fosse [[concepts/truth\|verità]]? Osorio non gliel'avrebbe detta.<br>Eppure perché una sola menzogna? Tutto il resto, lo so, era [[concepts/truth\|verità]].<br>Nessun sussulto! nessuna [[concepts/jealousy\|gelosia]] di [[concepts/conscience\|coscienza]] agitata!<br>Ed ella ha parlato di me — con tenerezza, mi parve!<br>Potrebbe camminare qui, se fosse una traditrice?<br>Qui dove giocavamo insieme nella nostra [[motifs/childhood\|infanzia]]?<br>Qui dove ci scambiammo i voti? Dove la sua guancia fredda<br>ricevette il mio ultimo bacio, quando con sentimenti repressi<br>era svenuta fra le mie braccia? Non può essere!<br>Non è nella [[concepts/nature\|natura]]! Morrò, credendo<br>ch'io la incontrerò dove non è male,<br>non tradimento, non coppa strappata dalle labbra!<br>Non infesterò più questo luogo — viva ella in pace!<br>Suo marito — sì, suo marito! Possa quest'Angelo<br>rifondergli il cuore incancrenito! Assistimi, Cielo!<br>ch'io possa pregare per il mio povero fratello colpevole! |  
 | *(didascalia)* | FINE DELL'ATTO PRIMO. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -334,6 +340,7 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | OSORIO | I shall not fail to find it. |
 | *(didascalia)* | *(Exit OSORIO. [[characters/ferdinand\|FERDINAND]] goes into his house. Scene changes.)* |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -402,6 +409,8 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | [[characters/ferdinand\|Ferdinand]] | Non potete sbagliare. È una piccola valle verde<br>murata tutt'intorno da alti colli digradanti,<br>e dalla forma i nostri contadini a ragione la chiamano<br>la Culla del Gigante. C'è un lago nel mezzo,<br>e intorno alle sponde alto bosco, che sporge in rami<br>e fa crescere una sorta di foresta fatata<br>giù nell'[[motifs/water\|acqua]]. All'estremità più lontana<br>una gracile cateratta cade sul lago;<br>e là (curioso spettacolo) ne vedete l'[[archetypes/shadow\|ombra]]<br>arricciarsi per sempre, come una ghirlanda di fumo,<br>su per il fogliame di quegli alberi fatati.<br>La sua capanna è di fronte — non potete mancarla.<br>Tre passi più su per il [[motifs/hill\|colle]] un sorbo montano<br>stende i rami più bassi e i grappoli scarlatti<br>sopra il nuovo tetto di paglia. |  
 | OSORIO | Non mancherò di trovarla. |  
 | *(didascalia)* | *(Esce OSORIO. [[characters/ferdinand\|FERDINAND]] entra nella sua casa. La scena cambia.)* |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -485,6 +494,7 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | ALBERT | *(gazing at the portrait.)* Dear image! rescued from a traitor’s keeping,<br>I will not now prophane thee, holy image!<br>To a dark trick! That worst bad man shall find<br>A picture which shall wake the hell within him,<br>And rouse a fiery whirlwind in his [[concepts/conscience\|conscience]]! |
 | *(didascalia)* | END OF ACT THE SECOND. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -564,6 +574,8 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | *(didascalia)* | *(MAURICE esce.)* |  
 | ALBERT | *(contemplando il ritratto.)* Cara immagine! strappata alla custodia d'un traditore,<br>non ti profanerò ora, immagine santa!<br>per un oscuro inganno! Quel pessimo uomo troverà<br>un quadro che gli desterà l'inferno dentro,<br>e susciterà un turbine di fuoco nella sua [[concepts/conscience\|coscienza]]! |  
 | *(didascalia)* | FINE DELL'ATTO SECONDO. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -667,6 +679,7 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | OSORIO | *(alone.)* The tongue can’t stir when the mouth is fill’d with mould.<br>A little earth stops up most eloquent mouths,<br>And a square stone with a few pious texts<br>Cut neatly on it, keeps the earth down tight. |
 | *(didascalia)* | Scene changes to the space before the [[settings/castle\|castle]]. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -766,6 +779,8 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | OSORIO | *(con voce borbottante.)* La caverna — sì — la caverna.<br>Non può mancare di trovarla. *(Al servo.)*<br>Dove vai?<br>Devi consegnare a questo [[characters/ferdinand\|Ferdinand]]<br>una lettera. Aspetta finché l'abbia scritta. *(Esce il servo.)* |  
 | OSORIO | *(solo.)* La lingua non si muove quando la bocca è colma di terra.<br>Un po' di terriccio tura le bocche più eloquenti,<br>e una pietra squadrata con qualche pio versetto<br>inciso netto sopra, tiene la terra ben ferma. |  
 | *(didascalia)* | La scena cambia allo spiazzo davanti al [[settings/castle\|castello]]. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -795,6 +810,7 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | OSORIO | *(alone.)* ‘The stranger, that lives nigh, still picking weeds.’<br>And this was his friend, his crony, his twin-brother!<br>O! I am green, a very simple stripling —<br>The wise men of this world make nothing of me.<br>By Heaven, ‘twas [[motifs/well\|well]] contrived! And I, forsooth,<br>I was to cut my throat in [[concepts/honour\|honour]] of [[concepts/conscience\|conscience]].<br>And this tall wizard — ho! — he was to pass<br>For Albert’s friend! He hath a trick of his manner.<br>He was to tune his voice to honey’d sadness,<br>And win her to a transfer of her [[motifs/love\|love]]<br>By lamentable tales of her dear Albert,<br>And his dear Albert! Yea, she would have lov’d him.<br>He, that can sigh out in a woman’s ear<br>Sad recollections of her perish’d [[archetypes/lover\|lover]],<br>And sob and smile with veering sympathy,<br>And, now and then, as if by accident,<br>Pass his mouth close enough to touch her cheek<br>With timid lip, he takes the [[archetypes/lover\|lover]]’s place,<br>He takes his place, for certain! Dusky rogue,<br>Were it not sport to whimper with thy mistress,<br>Then steal away and roll upon my [[motifs/grave\|grave]],<br>Till thy sides shook with laughter? [[motifs/blood\|Blood]]! [[motifs/blood\|blood]]! [[motifs/blood\|blood]]!<br>They want thy [[motifs/blood\|blood]]! thy [[motifs/blood\|blood]], Osorio! |
 | *(didascalia)* | [END OF ACT THE THIRD.] |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -820,6 +836,8 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | FRANCESCO | Signore! andrò in [[characters/speed\|fretta]], farò rapido ritorno,<br>e umilmente vi riconsegnerò le chiavi. *(Esce FRANCESCO.)* |  
 | OSORIO | *(solo.)* 'Lo straniero, che abita qui presso, sempre a cogliere erbe.'<br>E questi era il suo amico, il suo compagno, il suo fratello gemello!<br>Oh! son verde, un giovinetto assai semplice —<br>i savi di questo mondo non fanno conto di me.<br>Per il Cielo, fu [[motifs/well\|ben]] congegnato! E io, per giunta,<br>dovevo sgozzarmi in [[concepts/honour\|onore]] della [[concepts/conscience\|coscienza]].<br>E questo mago dall'alta statura — ohé! — doveva passare<br>per amico d'Albert! Ne ha un che nel portamento.<br>Doveva accordare la voce a una tristezza melata,<br>e conquistarla a trasferire il suo [[motifs/love\|amore]]<br>con racconti lamentosi del suo caro Albert,<br>e del suo caro Albert! Sì, ella l'avrebbe amato.<br>Chi sa sospirare all'orecchio d'una donna<br>tristi memorie del suo [[archetypes/lover\|amante]] perduto,<br>e singhiozzare e sorridere con simpatia mutevole,<br>e, di quando in quando, come per caso,<br>accostare la bocca abbastanza da sfiorarle la guancia<br>con timido labbro, costui prende il posto dell'[[archetypes/lover\|amante]],<br>lo prende di certo! Furfante bruno,<br>non sarebbe uno spasso frignare con la tua signora,<br>poi svignartela e rotolarti sulla mia [[motifs/grave\|tomba]],<br>finché i fianchi ti scuota il riso? [[motifs/blood\|Sangue]]! [[motifs/blood\|sangue]]! [[motifs/blood\|sangue]]!<br>Vogliono il tuo [[motifs/blood\|sangue]]! il tuo [[motifs/blood\|sangue]], Osorio! |  
 | *(didascalia)* | [FINE DELL'ATTO TERZO.] |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -900,6 +918,7 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | *(didascalia)* | *(Exit.)* |
 | *(didascalia)* | SCENE changes to the [[settings/court\|court]] before the [[settings/castle\|Castle]] of VELEZ. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -976,6 +995,8 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | OSORIO | Ecco — questa fu fortuna! Nessuna macchia di sangue, nessun [[concepts/body\|corpo]] morto!<br>Anche il suo sogno s'è avverato. Ora all'amico suo. |  
 | *(didascalia)* | *(Esce.)* |  
 | *(didascalia)* | La SCENA cambia nella [[settings/court\|corte]] davanti al [[settings/castle\|Castello]] di VELEZ. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1032,6 +1053,7 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | VELEZ | *(alone.)* I do want solace, but not such as thine!<br>The [[motifs/moon\|moon]] is high in heaven, and my eyes ache,<br>But not with [[motifs/sleep\|sleep]]. [[motifs/well\|Well]] — it is ever so.<br>A [[archetypes/child\|child]], a [[archetypes/child\|child]] is born! and the fond heart<br>Dances! and yet the childless are most happy. |
 | *(didascalia)* | SCENE changes to the [[settings/mountains\|mountains]] by moonlight. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1084,6 +1106,8 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | VELEZ | Sia così, buon padre! *(Esce FRANCESCO.)* |  
 | VELEZ | *(solo.)* Ho bisogno di conforto, ma non del tuo!<br>La [[motifs/moon\|luna]] è alta in cielo, e gli occhi mi dolgono,<br>ma non di [[motifs/sleep\|sonno]]. [[motifs/well\|Ebbene]] — è sempre così.<br>Un [[archetypes/child\|figlio]], un [[archetypes/child\|figlio]] è nato! e il cuore amoroso<br>danza! eppure i senza figli sono i più felici. |  
 | *(didascalia)* | La SCENA cambia ai [[settings/mountains\|monti]] al chiaro di luna. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1137,6 +1161,7 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | ALHADRA | I look’d far down the pit.<br>My sight was bounded by a jutting [[forms/fragment\|fragment]],<br>And it was stain’d with [[motifs/blood\|blood]]! Then first I shriek’d!<br>My eyeballs burnt! my brain grew hot as [[motifs/fire\|fire]]!<br>And all the hanging drops of the wet roof<br>Turn’d into [[motifs/blood\|blood]]. I saw them turn to [[motifs/blood\|blood]]!<br>And I was leaping wildly down the chasm<br>When on the further brink I saw his sword,<br>And it said, Vengeance! Curses on my tongue!<br>The [[motifs/moon\|moon]] hath moved in heaven, and I am here,<br>And he hath not had vengeance! [[characters/ferdinand\|Ferdinand]]!<br>Spirit of [[characters/ferdinand\|Ferdinand]]! thy murderer lives!<br>Away! away! *(She rushes off, all following.)* |
 | *(didascalia)* | END OF THE FOURTH ACT |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1186,6 +1211,8 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | NAOMI | Presto! andiamo! |  
 | ALHADRA | Guardai giù, lontano, nella fossa.<br>La vista m'era chiusa da un [[forms/fragment\|frammento]] sporgente,<br>ed era macchiato di [[motifs/blood\|sangue]]! Allora per la prima volta gridai!<br>Mi bruciarono le pupille! il cervello mi si fece [[motifs/fire\|fuoco]]!<br>E tutte le gocce pendule dalla volta umida<br>si mutarono in [[motifs/blood\|sangue]]. Le vidi farsi [[motifs/blood\|sangue]]!<br>E già mi gettavo furiosa giù nell'abisso<br>quando sull'orlo opposto vidi la sua spada,<br>e diceva: Vendetta! Maledetta la mia lingua!<br>La [[motifs/moon\|luna]] s'è mossa in cielo, e io son qui,<br>ed egli non ha avuto vendetta! [[characters/ferdinand\|Ferdinand]]!<br>Spirito di [[characters/ferdinand\|Ferdinand]]! il tuo assassino vive!<br>Via! via! *(Si precipita fuori, tutti seguendola.)* |  
 | *(didascalia)* | FINE DELL'ATTO QUARTO |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1240,6 +1267,7 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | ALHADRA | Scatter yourselves, take each a separate way,<br>And move in [[motifs/silence\|silence]] to the house of Velez. *(Exeunt.)* |
 | *(didascalia)* | SCENE. — A Dungeon. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1290,6 +1318,8 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | MAURICE | Non è così, ricordatelo, amici miei!<br>I vili sono crudeli, e i crudeli vili. |  
 | ALHADRA | Disperdetevi, prenda ciascuno una via diversa,<br>e movete in [[motifs/silence\|silenzio]] alla casa di Velez. *(Escono.)* |  
 | *(didascalia)* | SCENA. — Una Segreta. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1379,6 +1409,7 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | *(didascalia)* | *(The Moors gather round him in a crowd, and pass off the stage.)* |
 | ALHADRA | I thank thee, Heaven! thou hast ordain’d it wisely,<br>That still extremes bring their own cure. That point<br>In misery which makes the oppressed man<br>Regardless of his own life, makes him too<br>Lord of the oppressor’s! Knew I an hundred men<br>Despairing, but not palsied by [[concepts/despair\|despair]],<br>This arm should shake the kingdoms of this world;<br>The deep foundations of iniquity<br>Should sink away, earth groaning from beneath them;<br>The strong holds of the cruel men should fall,<br>Their temples and their mountainous towers should fall;<br>Till desolation seem’d a beautiful thing,<br>And all that were and had the spirit of life<br>Sang a new song to him who had gone forth<br>Conquering and still to conquer! |
 | *(didascalia)* | THE END |
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1466,3 +1497,5 @@ La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'e
 | *(didascalia)* | *(I Mori gli si stringono intorno in folla, ed escono di scena.)* |  
 | ALHADRA | Ti ringrazio, Cielo! saggiamente hai ordinato<br>che gli estremi portino sempre il proprio rimedio. Quel punto<br>della miseria che fa l'uomo oppresso<br>incurante della propria vita, lo fa anche<br>signore di quella dell'oppressore! Conoscessi cento uomini<br>disperati, ma non paralizzati dalla [[concepts/despair\|disperazione]],<br>questo braccio scuoterebbe i regni di questo mondo;<br>le fondamenta profonde dell'iniquità<br>sprofonderebbero, gemendo la terra sotto di esse;<br>cadrebbero le roccaforti degli uomini crudeli,<br>cadrebbero i loro templi e le loro torri montuose;<br>finché la desolazione parrebbe cosa bella,<br>e quanto esisteva e aveva spirito di vita<br>canterebbe un canto nuovo a colui ch'era uscito<br>vincendo e ancora per vincere! |  
 | *(didascalia)* | LA FINE |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

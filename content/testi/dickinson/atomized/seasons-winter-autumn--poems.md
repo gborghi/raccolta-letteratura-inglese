@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/seasons-winter-autumn--poems" data-author="Dickinson" data-workhref="works/seasons-·-winter-·-autumn-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 12. The morns are meeker than they were — · 99. New feet within my garden go — · 130. These are the days when Birds come back — · 131. Besides the Autumn poets sing · 221. It can't be "Summer"! · 311. It sifts from Leaden Sieves — · 332. There are two Ripenings — one — of sight — · 342. It will be Summer — eventually. · 403. The Winters are so short — · 442. God made a little Gentian — · 445. 'Twas just this time, last year, I died. · 511. If you were coming in the Fall, · 562. Conjecturing a Climate · 574. My first well Day — since many ill — · 656. The name — of it — is "Autumn" — · 743. The Birds reported from the South — · 768. When I hoped, I recollect · 846. Twice had Summer her fair Verdure · 1025. The Products of my Farm are these · 1051. I cannot meet the Spring unmoved — · 1068. Further in Summer than the Birds · 1115. The murmuring of Bees, has ceased · 1140. The Day grew small, surrounded tight · 1191. The pungent atom in the Air · 1252. Like Brooms of Steel · 1271. September's Baccalaureate · 1422. Summer has two Beginnings — · 1424. The Gentian has a parched Corolla — · 1471. Their Barricade against the Sky · 1498. Glass was the Street — in tinsel Peril · 1635. The Jay his Castanet has struck · 1756. 'Twas here my summer paused · 1762. Were natural mortal lady
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="e_morns_are_meeker_than_they_were" data-title="12. The morns are meeker than they were —" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/seasons,motif/nature,motif/rose,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
 
 
@@ -30,6 +33,7 @@ Lest I sh'd seem old fashioned
 I'll put a trinket on!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le mattine sono più miti di un tempo -  
@@ -42,6 +46,8 @@ Il campo - una veste scarlatta -
 Perché io non sembri fuori moda  
 Mi metterò un monile!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_feet_within_my_garden_go" data-title="99. New feet within my garden go —" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/garden,motif/seasons,motif/spring,motif/sleep,motif/birds,concept/mortality,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -58,6 +64,7 @@ And still the pensive [[motifs/spring|spring]] returns,
 And still the punctual [[motifs/snow|snow]] !
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nuovi piedi nel mio [[motifs/garden|giardino]] vanno,  
@@ -70,6 +77,8 @@ Nuovi stanchi nel [[motifs/sleep|sonno]] di sotto ;
 E ancora la pensosa [[motifs/spring|primavera]] ritorna,  
 E ancora la puntuale [[motifs/snow|neve]] !
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ese_are_the_days_when_birds_come_back" data-title="130. These are the days when Birds come back —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/autumn,motif/seasons,motif/bread_and_wine_eucharist,concept/transience,concept/faith,form/lyric,histref/christianity,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -100,6 +109,7 @@ They consecrated bread to take
 And thine immortal wine!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questi sono i giorni in cui gli [[motifs/birds|Uccelli]] tornano —  
@@ -126,6 +136,8 @@ I tuoi sacri emblemi condividere —
 Il tuo pane consacrato prendere  
 E il tuo vino immortale!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="sides_the_autumn_poets_sing" data-title="131. Besides the Autumn poets sing" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/seasons,motif/winter,motif/animals,concept/transience,concept/providence,concept/humility,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -152,6 +164,7 @@ Grant me, Oh Lord, a sunny mind —
 Thy windy will to bear!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Oltre l'[[motifs/autumn|Autunno]] i poeti cantano  
@@ -174,6 +187,8 @@ I miei sentimenti a condividere —
 Concedimi, O Signore, una mente soleggiata —  
 La Tua ventosa volontà da sopportare!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_cant_be_summer" data-title="221. It can't be &quot;Summer&quot;!" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/death,motif/winter,motif/white_and_red,concept/mortality,concept/paradox,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -191,6 +206,7 @@ So Sunset shuts my question down
 With Cuffs of Chrysolite!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non può essere "[[motifs/summer|Estate]]"!  
@@ -204,6 +220,8 @@ I Morti andranno in Bianco —
 Così il Tramonto chiude la mia domanda  
 Con Polsini di Crisolito!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_sifts_from_leaden_sieves" data-title="311. It sifts from Leaden Sieves —" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/nature,motif/ghosts,motif/seasons,concept/transience,form/lyric,form/riddle,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -235,6 +253,7 @@ Then stills its Artisans — like [[motifs/ghosts|Ghosts]] —
 Denying they have been —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Setaccia da Crivelli di Piombo —  
@@ -262,6 +281,8 @@ Come Caviglie di una [[characters/queen|Regina]] —
 Poi acquieta i suoi Artigiani — come [[motifs/ghosts|Spettri]] —  
 Negando che siano mai stati —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_are_two_ripenings_one_of_sight" data-title="332. There are two Ripenings — one — of sight —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/autumn,motif/nature,motif/seasons,concept/innocence_and_experience,concept/transience,form/epigram,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -277,6 +298,7 @@ That teeth of Frosts alone disclose
 In far October Air.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ci sono due Maturazioni — una — di vista —  
@@ -288,6 +310,8 @@ Un processo dentro il Riccio —
 Che denti di Geli soltanto dischiudono  
 Nella lontana Aria d'Ottobre.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_will_be_summer_eventually" data-title="342. It will be Summer — eventually." data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/seasons,motif/summer,motif/flowers,motif/rose,motif/winter,motif/bread_and_wine_eucharist,concept/the_natural_order,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -319,6 +343,7 @@ Or Priests — adjust the Symbols —
 When Sacrament — is done —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sarà [[motifs/summer|Estate]] — prima o poi.  
@@ -346,6 +371,8 @@ Come le Donne — fanno — con la Veste —
 O i Sacerdoti — ricompongono i Simboli —  
 Quando il Sacramento — è compiuto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_winters_are_so_short" data-title="403. The Winters are so short —" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/winter,motif/birds,motif/water,concept/doubt,histref/the_bible,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -372,6 +399,7 @@ But Ararat's a Legend — now —
 And no one credits Noah —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Gli Inverni sono così brevi —  
@@ -394,6 +422,8 @@ E spazzò via il Mondo —
 Ma l'Ararat è una Leggenda — ormai —  
 E nessuno crede a Noè —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_made_a_little_gentian" data-title="442. God made a little Gentian —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/rose,motif/autumn,motif/seasons,concept/humility,concept/faith,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -415,6 +445,7 @@ Until the North — invoke it —
 Creator — Shall I — bloom?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[characters/god|Dio]] fece una piccola Genziana —  
@@ -432,6 +463,8 @@ Il Tirio non sarebbe giunto
 Finché il Nord — non lo invochi —  
 Creatore — Io — fiorirò?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="as_just_this_time_last_year_i_died" data-title="445. 'Twas just this time, last year, I died." data-chapter="" data-kind="intro" data-tags="archetype/ghost,motif/death,motif/autumn,motif/seasons,motif/childhood,concept/immortality,concept/nostalgia,setting/new_england,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -468,6 +501,7 @@ How just this [[motifs/time|time]], some perfect year —
 Themself, should come to me —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fu proprio in questo [[motifs/time|tempo]], l'anno scorso, che morii.  
@@ -500,6 +534,8 @@ E così, pensai all'inverso,
 Come proprio in questo [[motifs/time|tempo]], in qualche anno perfetto —  
 Loro stessi, verrebbero da me —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_you_were_coming_in_the_fall" data-title="511. If you were coming in the Fall," data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/time,motif/seasons,motif/autumn,concept/unrequited_love,concept/love_romantic,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -530,6 +566,7 @@ It goads me, like the goblin bee,
 That will not state its sting.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se tu venissi in autunno,  
@@ -556,6 +593,8 @@ Dell'ala incerta del [[motifs/time|tempo]],
 Mi pungola, come l'ape folletto,  
 Che non dichiara il suo pungiglione.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="njecturing_a_climate" data-title="562. Conjecturing a Climate" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/seasons,motif/sun,concept/melancholy,concept/imagination,concept/nostalgia,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -572,6 +611,7 @@ Not obviated of Degree —
 Nor erased — of Latitude —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Congetturare un Clima  
@@ -584,6 +624,8 @@ Per palliare un Freddo —
 Non ovviato di Grado —  
 Né cancellato — di Latitudine —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_first_well_day_since_many_ill" data-title="574. My first well Day — since many ill —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/autumn,motif/seasons,motif/flowers,motif/the_grave,concept/grief_and_loss,concept/transience,concept/mortality,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -627,6 +669,7 @@ One earns by measuring the [[motifs/grave|Grave]] —
 Then — measuring the [[motifs/sun|Sun]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il mio primo Giorno [[motifs/well|sano]] — dopo tanti infermi —  
@@ -666,6 +709,8 @@ O quel Guadagno Etereo
 Che si merita misurando la [[motifs/grave|Tomba]] —  
 Poi — misurando il [[motifs/sun|Sole]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_name_of_it_is_autumn" data-title="656. The name — of it — is &quot;Autumn&quot; —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/autumn,motif/seasons,motif/blood,motif/rose,motif/nature,concept/mortality,concept/transience,concept/beauty,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -687,6 +732,7 @@ Then — eddies like a [[motifs/rose|Rose]] — away —
 Upon Vermilion Wheels —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il nome — di ciò — è "[[motifs/autumn|Autunno]]" —  
@@ -704,6 +750,8 @@ Raccoglie Pozze rubiconde —
 Poi — mulina come una [[motifs/rose|Rosa]] — via —  
 Su Ruote Vermiglie —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_birds_reported_from_the_south" data-title="743. The Birds reported from the South —" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/autumn,motif/birds,motif/flowers,motif/nature,concept/grief_and_loss,concept/melancholy,concept/alienation,concept/the_natural_order,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -740,6 +788,7 @@ Our Contract
 A Wiser [[concepts/sympathy|Sympathy]]
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Gli [[motifs/birds|Uccelli]] riferirono dal Sud —  
@@ -772,6 +821,8 @@ Io non La interrogai mai —
 Il Nostro Contratto  
 Una più Saggia [[concepts/sympathy|Compassione]]
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_i_hoped_i_recollect" data-title="768. When I hoped, I recollect" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/winter,motif/the_window,motif/night,motif/birds,concept/hope,concept/despair,concept/melancholy,concept/memory_and_time,concept/fear,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -807,6 +858,7 @@ And put out her eye —
 [[motifs/memory|Memory]] and I —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando speravo, ricordo  
@@ -838,6 +890,8 @@ E le spenga l'occhio —
 La [[concepts/nature|Natura]] esiti — dinanzi  
 Alla [[motifs/memory|Memoria]] e a me —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ice_had_summer_her_fair_verdure" data-title="846. Twice had Summer her fair Verdure" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/seasons,motif/winter,motif/autumn,motif/birds,motif/time,concept/grief_and_loss,form/elegy,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -854,6 +908,7 @@ Bounteous prepared —
 For thy wandering Bird?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Due volte l'[[motifs/summer|Estate]] il suo bel Verde  
@@ -866,6 +921,8 @@ Generosa preparò —
 [[concepts/nature|Natura]], non avevi Tu una Bacca  
 Per il tuo Uccello errante?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_products_of_my_farm_are_these" data-title="1025. The Products of my Farm are these" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/seasons,motif/winter,motif/food_feasting,concept/the_artist_and_society,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -882,6 +939,7 @@ We just reverse the Zodiac
 And fetch the Acres in.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I Prodotti della mia Fattoria son questi  
@@ -894,6 +952,8 @@ ché quando i Geli cominciano
 noi solo invertiamo lo Zodiaco  
 e portiamo dentro gli Acri.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cannot_meet_the_spring_unmoved" data-title="1051. I cannot meet the Spring unmoved —" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/seasons,motif/nature,concept/melancholy,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -910,6 +970,7 @@ And as she vanishes, Remorse
 I saw no more of Her.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non posso incontrare la [[motifs/spring|Primavera]] impassibile —  
@@ -922,6 +983,8 @@ Con qualcosa in Lei nascosto —
 E come svanisce, Rimorso  
 Non vidi più nulla di Lei.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rther_in_summer_than_the_birds" data-title="1068. Further in Summer than the Birds" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/animals,motif/seasons,concept/transience,concept/grace_and_redemption,concept/beauty,form/elegy,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -965,6 +1028,7 @@ The Cricket is Her utmost
 Of [[forms/elegy|Elegy]], to Me -
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Più addentro nell'[[motifs/summer|Estate]] che gli [[motifs/birds|Uccelli]] -  
@@ -1004,6 +1068,8 @@ E Testimone per il Suo [[motifs/sea|Mare]] -
 Il Grillo è il Suo estremo  
 Di [[forms/elegy|Elegia]], per Me -
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_murmuring_of_bees_has_ceased" data-title="1115. The murmuring of Bees, has ceased" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/seasons,motif/autumn,motif/insects,concept/transience,form/lyric,histref/the_bible,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1027,6 +1093,7 @@ More intimate with us become
 Than Persons, that we know.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il mormorio delle [[motifs/bees|Api]], è cessato  
@@ -1046,6 +1113,8 @@ E pensieri che non mostreremo
 Ci divengono più intimi  
 Delle Persone, che conosciamo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_day_grew_small_surrounded_tight" data-title="1140. The Day grew small, surrounded tight" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/nature,motif/seasons,motif/autumn,motif/winter,motif/night,motif/wind,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1061,6 +1130,7 @@ November hung his Granite Hat
 Upon a nail of Plush —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Giorno si fece piccolo, serrato stretto  
@@ -1072,6 +1142,8 @@ Le [[motifs/leaves|Foglie]] ottennero congedo —
 Novembre appese il suo Cappello di Granito  
 A un chiodo di Felpa —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_pungent_atom_in_the_air" data-title="1191. The pungent atom in the Air" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/autumn,motif/seasons,motif/mutability,concept/transience,concept/grief_and_loss,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1088,6 +1160,7 @@ As Limit of Dominion
 Or Dams — of Ecstasy —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il pungente atomo nell'Aria  
@@ -1100,6 +1173,8 @@ Siamo noi altrettanto certi
 Quanto del Limite del Dominio  
 O delle Dighe — dell'Estasi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ke_brooms_of_steel" data-title="1252. Like Brooms of Steel" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/seasons,motif/wind,motif/silence,motif/nature,motif/horse,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1118,6 +1193,7 @@ The Apple in the Cellar snug
 Was all the one that played.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come Scope d'Acciaio  
@@ -1132,6 +1208,8 @@ Il suo ampio — arrancante Destriero
 La Mela nella Cantina al riparo  
 Era la sola che giocava.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ptembers_baccalaureate" data-title="1271. September's Baccalaureate" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/book_of_nature,motif/autumn,motif/seasons,motif/wind,motif/animals,concept/melancholy,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1148,6 +1226,7 @@ That makes the Heart put up its Fun
 And turn Philosopher.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Baccalaureato di Settembre  
@@ -1160,6 +1239,8 @@ Un'Insinuazione riarsa
 Che fa al Cuore riporre il suo Svago  
 E volgersi Filosofo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="mmer_has_two_beginnings" data-title="1422. Summer has two Beginnings —" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/seasons,motif/autumn,motif/death,concept/transience,concept/immortality,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1181,6 +1262,7 @@ Forever is deciduous
 Except to those who die —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'[[motifs/summer|Estate]] ha due Inizi —  
@@ -1198,6 +1280,8 @@ Per sempre — fino a Maggio —
 Per sempre è deciduo  
 Tranne per quelli che muoiono —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_gentian_has_a_parched_corolla" data-title="1424. The Gentian has a parched Corolla —" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/autumn,motif/nature,motif/seasons,concept/the_natural_order,concept/truth,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1224,6 +1308,7 @@ Fidelity is gain
 Creation is o'er —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Genziana ha una Corolla riarsa —  
@@ -1246,6 +1331,8 @@ Questa [[concepts/truth|Verità]] renda cara —
 Fedeltà è guadagno  
 La Creazione è finita —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="eir_barricade_against_the_sky" data-title="1471. Their Barricade against the Sky" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/seasons,motif/decay,motif/nature,concept/war_and_its_cost,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1267,6 +1354,7 @@ The Wound that was not Wound nor Scar
 But Holidays of War
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La loro Barricata contro il Cielo  
@@ -1284,6 +1372,8 @@ Quel Massacro d'Aria —
 La Ferita che non fu Ferita né Cicatrice  
 Ma Feste di Guerra
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ass_was_the_street_in_tinsel_peril" data-title="1498. Glass was the Street — in tinsel Peril" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/childhood,motif/memory,concept/nostalgia,concept/memory_and_time,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1300,6 +1390,7 @@ It is the Past's supreme italic
 Makes this Present mean —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vetro era la Strada — in Periglio di lustrini  
@@ -1312,6 +1403,8 @@ Accentuate e svanite
 È il corsivo supremo del Passato  
 Che fa meschino questo Presente —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_jay_his_castanet_has_struck" data-title="1635. The Jay his Castanet has struck" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/autumn,motif/winter,motif/seasons,motif/nature,concept/the_natural_order,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1328,6 +1421,7 @@ The Cricket drops a sable line
 No more from yours at present
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Ghiandaia ha battuto la sua Nacchera  
@@ -1340,6 +1434,8 @@ Il suo Loto è una castagna
 Il Grillo cala una riga di zibellino  
 Nient'altro dal vostro al momento
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="as_here_my_summer_paused" data-title="1756. 'Twas here my summer paused" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/seasons,concept/grief_and_loss,concept/transience,concept/love_romantic,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1356,6 +1452,7 @@ Go manacle your icicle
 Against your Tropic Bride.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fu qui che la mia [[motifs/summer|estate]] si fermò  
@@ -1368,6 +1465,8 @@ Con l'[[motifs/winter|inverno]] dimorare
 Va' ad ammanettare il tuo ghiacciolo  
 Contro la tua Sposa Tropicale.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="re_natural_mortal_lady" data-title="1762. Were natural mortal lady" data-chapter="" data-kind="intro" data-tags="motif/seasons,concept/mortality,concept/the_natural_order,concept/beauty,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1387,6 +1486,7 @@ To make some trifle fairer
 That was too fair before —  
 Enchanting by remaining,  
 And by departure more.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1405,3 +1505,5 @@ Per fare più bello qualche nonnulla
 Che era già troppo bello —  
 Incantevole nel restare,  
 E nel partire ancor di più.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

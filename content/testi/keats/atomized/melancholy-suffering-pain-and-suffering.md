@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/melancholy-suffering-pain-and-suffering" data-author="Keats" data-workhref="works/melancholy-·-suffering-·-pain-and-suffering-(keats)"></div>
 
 
+<<<<<<< HEAD
 TO HOPE · THE EVE OF ST. AGNES · On Death · Sonnet to Chatterton · Faery Songs · Meg Merrilies · Staffa · A Prophecy: to George Keats in America · Song: I had a dove and the sweet dove died · Sonnet: Why did I laugh tonight? No voice will tell · Lines to Fanny · Lines Supposed to Have Been Addressed to Fanny Brawne · Bright star! would I were steadfast as thou art
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="006_to_hope" data-title="TO HOPE" data-chapter="" data-kind="intro"></span>
 
 

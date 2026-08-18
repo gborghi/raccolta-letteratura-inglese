@@ -35,6 +35,10 @@ tags:
 - [[works/la-belle-dame-sans-merci-(keats)|La Belle Dame Sans Merci (Keats)]]
 - [[works/lady-susan-(austen)|Lady Susan (Austen)]]
 - [[works/lamia-(keats)|Lamia (Keats)]]
+<<<<<<< HEAD
+=======
+- [[works/milesisches-mährchen-(coleridge)|MILESISCHES MÄHRCHEN (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/o-hymen!-o-hymenee!-(whitman)|O Hymen! O Hymenee! (Whitman)]]
 - [[works/o-you-whom-i-often-and-silently-come-(whitman)|O You Whom I Often and Silently Come (Whitman)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_128|Sonnet 128 (Shakespeare)]]

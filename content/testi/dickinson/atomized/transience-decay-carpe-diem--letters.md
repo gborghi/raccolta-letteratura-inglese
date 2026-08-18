@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/transience-decay-carpe-diem--letters" data-author="Dickinson" data-workhref="works/transience-·-decay-·-carpe-diem-(dickinson)" data-collection="letters"></div>
 
 
+<<<<<<< HEAD
 To Mrs. Ford, Wednesday Eve · To the Misses, 1872 · To the Misses, 1880
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_ford_wednesday_eve" data-title="To Mrs. Ford, Wednesday Eve" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,motif/birds,motif/the_butterfly,motif/marriage,motif/tears,motif/memory,concept/grief_and_loss,concept/marriage_and_fidelity,concept/friendship,concept/transience,concept/loneliness,form/letter,histref/the_bible,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
 
 
@@ -36,6 +39,7 @@ Mother and Vinnie send their [[motifs/love|love]], and [[concepts/hope|hope]] yo
 Kiss me, dear Emily, and remember me if you will, with much respect, to your husband. Will you write me sometime?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Titolo:  
@@ -57,6 +61,8 @@ Mamma e Vinnie vi inviano il loro [[motifs/love|amore]] e la loro [[concepts/hop
 
 Baciami, cara Emily, e se vuoi, ricordami con tanto rispetto a tuo marito. Mi scriverai mai?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_1872" data-title="To the Misses, 1872" data-chapter="" data-kind="intro" data-tags="motif/death,motif/bells,motif/memory,concept/friendship,concept/grief_and_loss,concept/memory,concept/transience,form/letter,histref/american_civil_war,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -73,6 +79,7 @@ Oh! Cruel Paradise! We have a chime of [[motifs/bells|bells]] given for brave Fr
 “We conquered, but Bozzaris fell.” That sentence always chokes me.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vorrei ringraziarti, caro, per i dolci che mi mandi ogni anno. Anche se non ricevo mai risposta, non ho alcuna [[forms/letter|lettera]] dai morti, eppure li amo ancora di più ogni giorno. Nessuna parte della mente è permanente. Questo può sorprendere coloro che sono felici, ma aiuta coloro che sono tristi.
@@ -85,6 +92,8 @@ Oh! Crudele Paradiso. Per il coraggioso Frazer è stata suonata una sequenza di 
 
 “Abbiamo vinto, ma Bozzaris è caduto.” Quella frase mi stringe sempre il cuore.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_1880" data-title="To the Misses, 1880" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/stars,motif/summer,motif/rose,motif/bees,motif/animals,concept/love_divine,concept/faith,concept/guilt,concept/transience,form/letter,character/macbeth,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -99,6 +108,7 @@ When [[characters/macbeth|Macbeth]] asked the physician what could be done for h
 . . . The slips of the last [[motifs/rose|rose]] of [[motifs/summer|summer]] repose in kindred soil with waning [[motifs/bees|bees]] for mates. How softly [[motifs/summer|summer]] shuts, without the creaking of a [[motifs/door|door]], abroad for evermore.
 
 . . . Vinnie has also added a [[archetypes/pilgrim|pilgrim]] kitten to her flock, which besides being jet black, is, I think, a lineal descendant of the “beautiful hearse [[motifs/horse|horse]]” recommended to Austin.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -112,3 +122,5 @@ Quando [[characters/macbeth|Macbeth]] chiese al medico cosa si potesse fare per 
 . I petali dell’ultima [[motifs/rose|rosa]] di [[motifs/summer|estate]] riposano in terra simile, insieme alle api che ormai declinano in numero. Con quanta dolcezza [[motifs/summer|estate]] si chiude, senza il cigolio di una [[motifs/door|porta]], per sempre.
 
 , Vinnie ha anche aggiunto un gattino[[archetypes/pilgrim|pellegrino]] al suo branco; oltre ad essere di colore nero lucido, credo sia un discendente diretto del “bellissimo cavallo da funerale” consigliato ad Austin.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

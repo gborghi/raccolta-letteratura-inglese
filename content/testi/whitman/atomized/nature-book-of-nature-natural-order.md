@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/nature-book-of-nature-natural-order" data-author="Whitman" data-workhref="works/nature-·-book-of-nature-·-natural-order-(whitman)"></div>
 
 
+<<<<<<< HEAD
 The Prairie-Grass Dividing · Germs · A Farm Picture · To the Leaven’d Soil They Trod · The Return of the Heroes · Warble for Lilac-Time · All Is Truth · By Broad Potomac’s Shore · Spirit That Form’d This Scene · The First Dandelion · Out of May’s Shows Selected · Halcyon Days · With Husky-Haughty Lips, O Sea! · Continuities · The Calming Thought of All · The Voice of the Rain · Soon Shall the Winter’s Foil Be Here · You Lingering Sparse Leaves of Me · Shakspere-Bacon’s Cipher · To the Sun-Set Breeze · Sounds of the Winter · When the Full-Grown Poet Came · Grand Is the Seen · Unseen Buds
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="063_the_prairie_grass_dividing" data-title="The Prairie-Grass Dividing" data-chapter="" data-kind="intro"></span>
 
 

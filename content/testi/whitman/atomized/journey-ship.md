@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/journey-ship" data-author="Whitman" data-workhref="works/journey-·-ship-(whitman)"></div>
 
 
+<<<<<<< HEAD
 In Cabin’d Ships at Sea · The Ship Starting · Song of the Open Road · Aboard at a Ship’s Helm · Song for All Seas, All Ships · To Rich Givers · Gliding O’er all · City of Ships · Not the Pilot · An Old Man’s Thought of School · Passage to India · Prayer of Columbus · What Ship Puzzled at Sea · Joy, Shipmate, Joy! · The Untold Want · Now Finale to the Shore · Twenty Years · The Dismantled Ship · After the Supper and Talk · Sail out for Good, Eidolon Yacht! · Old Age’s Ship & Crafty Death’s · A Persian Lesson
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="003_in_cabin_d_ships_at_sea" data-title="In Cabin’d Ships at Sea" data-chapter="" data-kind="intro"></span>
 
 

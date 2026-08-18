@@ -55,6 +55,38 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_01(cf-2)" data-title="A Woman of No Importance — Act 1 [1]" data-chapter="" data-kind="intro"></span>
+<<<<<<< HEAD
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | SCENE<br>Lawn in front of the terrace at Hunstanton. |
+| *(didascalia)* | [SIR JOHN and LADY CAROLINE PONTEFRACT, MISS WORSLEY, on chairs under large yew tree.] |
+| LADY CAROLINE | I believe this is the first English country house you have stayed at, Miss Worsley? |
+| HESTER | Yes, Lady Caroline. |
+| LADY CAROLINE | You have no country houses, I am told, in [[settings/america\|America]]? |
+| HESTER | We have not many. |
+| LADY CAROLINE | Have you any country? What we should call country? |
+| HESTER | [Smiling.] We have the largest country in the world, Lady Caroline. They used to tell us at school that some of our states are as big as France and England put together. |
+| LADY CAROLINE | Ah! you must find it very draughty, I should fancy. [To SIR JOHN.] John, you should have your muffler. What is the use of my always knitting mufflers for you if you won’t wear them? |
+| SIR JOHN | I am quite warm, Caroline, I assure you. |
+| LADY CAROLINE | I think not, John. [[motifs/well\|Well]], you couldn’t come to a more charming place than this, Miss Worsley, though the house is excessively damp, quite unpardonably damp, and dear [[characters/lady-hunstanton\|Lady Hunstanton]] is sometimes a little lax about the people she asks down here. [To SIR JOHN.] Jane mixes too much. [[characters/lord-illingworth\|Lord Illingworth]], of course, is a man of high distinction. It is a privilege to meet him. And that member of Parliament, Mr. Kettle - |
+| SIR JOHN | Kelvil, my [[motifs/love\|love]], Kelvil. |
+| LADY CAROLINE | He must be quite respectable. One has never heard his name before in the whole course of one’s life, which speaks volumes for a man, nowadays. But Mrs. Allonby is hardly a very suitable person. |
+| HESTER | I dislike Mrs. Allonby. I dislike her more than I can say. |
+| LADY CAROLINE | I am not sure, Miss Worsley, that foreigners like yourself should cultivate likes or dislikes about the people they are invited to meet. Mrs. Allonby is very [[motifs/well\|well]] born. She is a niece of Lord Brancaster’s. It is said, of course, that she ran away twice before she was married. But you know how unfair people often are. I myself don’t believe she ran away more than once. |
+| HESTER | Mr. Arbuthnot is very charming. |
+| LADY CAROLINE | Ah, yes! the young man who has a post in a bank. [[characters/lady-hunstanton\|Lady Hunstanton]] is most kind in asking him here, and [[characters/lord-illingworth\|Lord Illingworth]] seems to have taken quite a fancy to him. I am not sure, however, that Jane is right in taking him out of his position. In my young days, Miss Worsley, one never met any one in society who worked for their living. It was not considered the thing. |
+| HESTER | In [[settings/america\|America]] those are the people we respect most. |
+| LADY CAROLINE | I have no [[concepts/doubt\|doubt]] of it. |
+| HESTER | Mr. Arbuthnot has a beautiful [[concepts/nature\|nature]]! He is so simple, so sincere. He has one of the most beautiful natures I have ever come across. It is a privilege to meet HIM. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--part_01" data-title="A Woman of No Importance — Act 1 [1]" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/well,concept/doubt,concept/nature,histref/america,setting/america,character/lady_hunstanton,character/lord_illingworth"></span>
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 | Speaker | Line |
@@ -110,31 +142,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | HESTER | Mr. Arbuthnot has a beautiful [[concepts/nature\|nature]]! He is so simple, so sincere. He has one of the most beautiful natures I have ever come across. It is a privilege to meet HIM. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | SCENA<br>Prato davanti alla terrazza di Hunstanton. |
-| *(didascalia)* | [SIR JOHN e LADY CAROLINE PONTEFRACT, MISS WORSLEY, seduti su sedie sotto un grande tasso.] |
-| LADY CAROLINE | Credo che questa sia la prima casa di campagna inglese in cui soggiorna, Miss Worsley. |
-| HESTER | Sì, Lady Caroline. |
-| LADY CAROLINE | In [[settings/america\|America]] non avete case di campagna, mi dicono. |
-| HESTER | Non molte. |
-| LADY CAROLINE | Avete una campagna? Quel che noi chiameremmo campagna? |
-| HESTER | [Sorridendo.] Abbiamo il paese più grande del mondo, Lady Caroline. A scuola ci insegnavano che alcuni dei nostri stati sono grandi quanto la Francia e l’Inghilterra messe insieme. |
-| LADY CAROLINE | Ah! Dev’esserci molta corrente, immagino. [A SIR JOHN.] John, dovresti metterti la sciarpa. A che serve che io ti lavori sciarpe a maglia in continuazione, se poi non le porti? |
-| SIR JOHN | Ho abbastanza caldo, Caroline, te l’assicuro. |
-| LADY CAROLINE | Non direi, John. [[motifs/well\|Del resto]], non poteva capitare in un luogo più incantevole di questo, Miss Worsley, benché la casa sia oltremodo umida, imperdonabilmente umida, e la cara [[characters/lady-hunstanton\|Lady Hunstanton]] sia talvolta un po’ larga di manica sulle persone che invita quaggiù. [A SIR JOHN.] Jane frequenta troppa gente d’ogni sorta. [[characters/lord-illingworth\|Lord Illingworth]], s’intende, è uomo di grande distinzione. È un privilegio conoscerlo. E quel deputato, il signor Kettle - |
-| SIR JOHN | Kelvil, [[motifs/love\|amore]] mio, Kelvil. |
-| LADY CAROLINE | Dev’essere del tutto rispettabile. Nessuno ha mai sentito il suo nome in tutta la vita, il che oggigiorno dice molto a favore di un uomo. Ma la signora Allonby non è certo una persona molto adatta. |
-| HESTER | La signora Allonby non mi piace. Non mi piace più di quanto sappia dire. |
-| LADY CAROLINE | Non sono certa, Miss Worsley, che una straniera come lei debba coltivare simpatie o antipatie riguardo alle persone che è invitata a conoscere. La signora Allonby è di ottimi [[motifs/well\|natali]]. È nipote di Lord Brancaster. Si dice, naturalmente, che sia fuggita due volte prima di sposarsi. Ma sa quanto la gente sia spesso ingiusta. Io per parte mia non credo che sia fuggita più di una volta. |
-| HESTER | Il signor Arbuthnot è molto affascinante. |
-| LADY CAROLINE | Ah, sì! Il giovanotto che ha un impiego in banca. [[characters/lady-hunstanton\|Lady Hunstanton]] è gentilissima a invitarlo qui, e [[characters/lord-illingworth\|Lord Illingworth]] pare essersene proprio invaghito. Non sono sicura, però, che Jane faccia bene a toglierlo dalla sua condizione. Ai miei tempi, Miss Worsley, in società non s’incontrava mai nessuno che lavorasse per vivere. Non era considerato conveniente. |
-| HESTER | In [[settings/america\|America]] sono proprio quelle le persone che rispettiamo di più. |
-| LADY CAROLINE | Non ne ho alcun [[concepts/doubt\|dubbio]]. |
-| HESTER | Il signor Arbuthnot ha una bellissima [[concepts/nature\|natura]]! È così semplice, così sincero. Ha una delle nature più belle in cui mi sia mai imbattuta. È un privilegio conoscere LUI. |
-
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_02" data-title="A Woman of No Importance — Act 1 [2]" data-chapter="part 02" data-kind="excerpt" data-tags="motif/night,concept/friendship,concept/hope,character/gerald_arbuthnot,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -165,32 +172,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | You are too nervous, Caroline. Believe me, you are too nervous. Besides, [[characters/lord-illingworth\|Lord Illingworth]] may marry any day. I was in hopes he would have married lady Kelso. But I believe he said her family was too large. Or was it her feet? I forget which. I regret it very much. She was made to be an ambassador’s wife. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| LADY CAROLINE | Non è usanza in Inghilterra, Miss Worsley, che una signorina parli con tanto entusiasmo di una persona dell’altro sesso. Le inglesi nascondono i propri sentimenti fino a dopo il matrimonio. Allora sì che li mostrano. |
-| HESTER | In Inghilterra non ammettete che possa esistere [[concepts/friendship\|amicizia]] fra un giovane e una ragazza? |
-| *(didascalia)* | [Entra [[characters/lady-hunstanton\|LADY HUNSTANTON]], seguita da un Valletto con scialli e un cuscino.] |
-| LADY CAROLINE | Lo riteniamo assai sconsigliabile. Jane, stavo giusto dicendo che bella compagnia ci hai invitato a conoscere. Hai uno straordinario talento nello scegliere. È un vero dono. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Cara Caroline, che gentile! Credo che ci accordiamo tutti molto bene. E [[concepts/hope\|spero]] che la nostra deliziosa ospite americana porti con sé un piacevole ricordo della nostra vita di campagna inglese. [Al Valletto.] Il cuscino, lì, Francis. E il mio scialle. Quello di Shetland. Prendi quello di Shetland. [Il Valletto esce a prendere lo scialle.] |
-| *(didascalia)* | [Entra [[characters/gerald-arbuthnot\|GERALD ARBUTHNOT]].] |
-| GERALD | [[characters/lady-hunstanton\|Lady Hunstanton]], ho una notizia bellissima da darle. Lord<br>Illingworth mi ha appena offerto di prendermi come segretario. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Suo segretario? È davvero una bella notizia, Gerald. Significa un avvenire brillantissimo che l’aspetta. La sua cara madre ne sarà felicissima. Devo proprio cercare di indurla a venire quassù [[motifs/night\|stasera]]. Crede che verrebbe, Gerald? So quanto sia difficile farle mettere piede fuori di casa. |
-| GERALD | Oh! Sono certo che verrebbe, [[characters/lady-hunstanton\|Lady Hunstanton]], se sapesse che<br>[[characters/lord-illingworth\|Lord Illingworth]] mi ha fatto una simile offerta. |
-| *(didascalia)* | [Entra il Valletto con lo scialle.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Le scriverò per raccontarglielo e la pregherò di venire a conoscerlo. [Al Valletto.] Aspetta un momento, Francis. [Scrive una lettera.] |
-| LADY CAROLINE | È un esordio davvero straordinario per un uomo giovane come lei, signor Arbuthnot. |
-| GERALD | Lo è davvero, Lady Caroline. Confido di sapermene mostrare degno. |
-| LADY CAROLINE | Lo spero anch’io. |
-| GERALD | [A HESTER.] LEI non si è ancora congratulata con me, Miss<br>Worsley. |
-| HESTER | Ne è molto contento? |
-| GERALD | Certo che lo sono. Significa tutto per me: cose che prima erano fuori dalla portata della [[concepts/hope\|speranza]] ora forse rientrano nella portata della [[concepts/hope\|speranza]]. |
-| HESTER | Nulla dovrebbe essere fuori dalla portata della [[concepts/hope\|speranza]]. La vita è [[concepts/hope\|speranza]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ho l’impressione, Caroline, che [[characters/lord-illingworth\|Lord Illingworth]] miri alla diplomazia. Ho sentito dire che gli hanno offerto Vienna. Ma potrebbe non essere vero. |
-| LADY CAROLINE | Non credo che l’Inghilterra debba essere rappresentata all’estero da un uomo non sposato, Jane. Potrebbe dar luogo a complicazioni. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Sei troppo apprensiva, Caroline. Credimi, sei troppo apprensiva. Del resto [[characters/lord-illingworth\|Lord Illingworth]] potrebbe sposarsi da un giorno all’altro. Speravo che avrebbe sposato lady Kelso. Ma pare abbia detto che la famiglia di lei era troppo numerosa. O erano i piedi? Non ricordo quale delle due. Me ne dispiace molto. Era fatta per essere moglie d’ambasciatore. |
-
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_03" data-title="A Woman of No Importance — Act 1 [3]" data-chapter="part 03" data-kind="excerpt" data-tags="motif/time,motif/well,concept/hope,concept/wonder,character/eleanor,character/gerald_arbuthnot,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -219,31 +200,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | I assure you, dear, that the country has not that effect at all. Why, it was from Melthorpe, which is only two miles from here, that Lady Belton eloped with Lord Fethersdale. I remember the occurrence perfectly. Poor Lord Belton died three days afterwards of joy, or gout. I forget which. We had a large party staying here at the [[motifs/time\|time]], so we were all very much interested in the whole affair. |
 | MRS | ALLONBY. I think to elope is cowardly. It’s running away from danger. And danger has become so rare in modern life. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| LADY CAROLINE | Ha di certo una straordinaria facoltà di ricordare i nomi delle persone e di dimenticarne i volti. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Beh]], è cosa naturalissima, Caroline, non trovi? [Al Valletto.] Di’ a Henry di aspettare la risposta. Ho scritto due righe alla sua cara madre, Gerald, per darle la bella notizia e per dirle che deve assolutamente venire a cena. |
-| *(didascalia)* | [Il Valletto esce.] |
-| GERALD | È estremamente gentile da parte sua, [[characters/lady-hunstanton\|Lady Hunstanton]]. [A<br>HESTER.] Vuol venire a fare due passi, Miss Worsley? |
-| HESTER | Volentieri. [Esce con GERALD.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Sono molto lieta della fortuna toccata a [[characters/gerald-arbuthnot\|Gerald Arbuthnot]]. È a tutti gli effetti un mio PROTETTO. E mi fa particolarmente piacere che [[characters/lord-illingworth\|Lord Illingworth]] abbia fatto l’offerta di sua iniziativa, senza che io suggerissi nulla. A nessuno piace che gli si chiedano favori. Ricordo che la povera Charlotte Pagden si rese assai impopolare per un’intera stagione, perché aveva una governante francese che voleva raccomandare a tutti. |
-| LADY CAROLINE | L’ho vista, quella governante, Jane. Lady Pagden me la mandò. Fu prima che [[characters/eleanor\|Eleanor]] debuttasse in società. Era di gran lunga troppo avvenente per stare in una casa rispettabile. Non mi [[concepts/wonder\|stupisce]] che Lady Pagden avesse tanta fretta di sbarazzarsene. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, questo spiega tutto. |
-| LADY CAROLINE | John, l’erba è troppo umida per te. Faresti bene ad andare a metterti subito le soprascarpe. |
-| SIR JOHN | Sto benissimo, Caroline, te l’assicuro. |
-| LADY CAROLINE | Devi concedermi di essere io il miglior giudice in proposito,<br>John. Ti prego, fa’ come ti dico. |
-| *(didascalia)* | [SIR JOHN si alza ed esce.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Lo vizi, Caroline, lo vizi davvero! |
-| *(didascalia)* | [Entrano MRS. ALLONBY e LADY STUTFIELD.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [A MRS. ALLONBY.] [[motifs/well\|Allora]], cara, [[concepts/hope\|spero]] che il parco le piaccia. Si dice che sia [[motifs/well\|ben]] alberato. |
-| MRS | ALLONBY. Gli alberi sono meravigliosi, [[characters/lady-hunstanton\|Lady Hunstanton]]. |
-| LADY STUTFIELD | Davvero, davvero meravigliosi. |
-| MRS | ALLONBY. Eppure, chissà perché, sono certa che se vivessi in campagna per sei mesi diventerei così poco raffinata che nessuno mi degnerebbe della minima attenzione. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Le assicuro, cara, che la campagna non ha affatto quell’effetto. Ma se fu proprio da Melthorpe, che dista due sole miglia da qui, che Lady Belton fuggì con Lord Fethersdale. Ricordo perfettamente il fatto. Il povero Lord Belton morì tre giorni dopo, di gioia o di gotta. Non ricordo quale delle due. In quel [[motifs/time\|periodo]] avevamo qui una grande compagnia di ospiti, sicché la faccenda ci interessò tutti moltissimo. |
-| MRS | ALLONBY. Trovo che fuggire sia da vigliacchi. Vuol dire scappare dal pericolo. E il pericolo è diventato così raro nella vita moderna. |
 
 
 
@@ -281,38 +237,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | *(didascalia)* | [Enter [[characters/lord-illingworth\|LORD ILLINGWORTH]].] |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| LADY CAROLINE | Per quanto mi è dato capire, le giovani donne d’oggi sembrano aver fatto dello scherzare col [[motifs/fire\|fuoco]] l’unico scopo della loro esistenza. |
-| MRS | ALLONBY. L’unico vantaggio di scherzare col [[motifs/fire\|fuoco]], Lady Caroline, è che non ci si scotta neppure. Sono quelli che non sanno giocarci a finire inceneriti. |
-| LADY STUTFIELD | Sì, lo vedo. È molto, molto istruttivo. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Non so come andrebbe avanti il mondo con una teoria simile, cara signora Allonby. |
-| LADY STUTFIELD | Ah! Il mondo è stato fatto per gli uomini e non per le donne. |
-| MRS | ALLONBY. Oh, non dica così, Lady Stutfield. Il nostro [[motifs/time\|tempo]] è assai più piacevole del loro. A noi sono proibite molte più cose che a loro. |
-| LADY STUTFIELD | Sì, è verissimo, verissimo. Non ci avevo pensato. |
-| *(didascalia)* | [Entrano SIR JOHN e MR. KELVIL.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Allora]], signor Kelvil, ha sbrigato il suo lavoro? |
-| KELVIL | Ho finito di scrivere per oggi, [[characters/lady-hunstanton\|Lady Hunstanton]]. È stato un compito arduo. Le richieste che gravano sul [[motifs/time\|tempo]] di un uomo pubblico sono oggigiorno gravosissime, davvero gravosissime. E non credo che trovino adeguato riconoscimento. |
-| LADY CAROLINE | John, ti sei messo le soprascarpe? |
-| SIR JOHN | Sì, [[motifs/love\|amore]] mio. |
-| LADY CAROLINE | Credo faresti meglio a venire qui, John. È più riparato. |
-| SIR JOHN | Sto benissimo, Caroline. |
-| LADY CAROLINE | Non direi, John. Faresti meglio a sederti accanto a me. |
-| *(didascalia)* | [SIR JOHN si alza e attraversa la scena.] |
-| LADY STUTFIELD | E di che cosa ha scritto stamattina,<br>signor Kelvil? |
-| KELVIL | Del solito argomento, Lady Stutfield. Della Purezza. |
-| LADY STUTFIELD | Dev’essere una cosa molto, molto interessante di cui scrivere. |
-| KELVIL | È l’unico tema di vera importanza nazionale, oggigiorno, Lady Stutfield. Mi propongo di parlarne ai miei elettori prima che il Parlamento si riunisca. Trovo che le classi più povere di questo paese manifestano un marcato [[motifs/desire\|desiderio]] di uno standard etico più elevato. |
-| LADY STUTFIELD | Che cosa molto, molto graziosa da parte loro. |
-| LADY CAROLINE | È favorevole alla partecipazione delle donne alla politica,<br>signor Kettle? |
-| SIR JOHN | Kelvil, [[motifs/love\|amore]] mio, Kelvil. |
-| KELVIL | La crescente influenza delle donne è l’unica cosa rassicurante della nostra vita politica, Lady Caroline. Le donne stanno sempre dalla parte della moralità, pubblica e privata. |
-| LADY STUTFIELD | È così, così gratificante sentirglielo dire. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, sì! - le qualità morali nelle donne - ecco la cosa importante. Temo, Caroline, che il caro [[characters/lord-illingworth\|Lord Illingworth]] non tenga in conto le qualità morali delle donne quanto dovrebbe. |
-| *(didascalia)* | [Entra [[characters/lord-illingworth\|LORD ILLINGWORTH]].] |
-
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_05" data-title="A Woman of No Importance — Act 1 [5]" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/orphan,motif/well,concept/reform,setting/paris,character/gerald_arbuthnot,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -340,29 +264,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Indeed? And when bad Americans die, where do they go to? |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| LADY STUTFIELD | Il mondo dice che [[characters/lord-illingworth\|Lord Illingworth]] è molto, molto malvagio. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ma quale mondo lo dice, Lady Stutfield? Dev’essere l’altro mondo. Con questo io sono in ottimi rapporti. [Si siede accanto a MRS. ALLONBY.] |
-| LADY STUTFIELD | Tutti quelli che conosco dicono che lei è molto, molto malvagio. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È assolutamente mostruoso il modo in cui la gente va in giro, di questi tempi, a dire alle nostre spalle cose che sono del tutto e interamente vere. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Il caro [[characters/lord-illingworth\|Lord Illingworth]] è un caso disperato, Lady Stutfield. Ho rinunciato a tentare di [[concepts/reform\|riformarlo]]. Ci vorrebbe una Società per Azioni con un Consiglio d’Amministrazione e un Segretario stipendiato. Ma il segretario lei ce l’ha già, [[characters/lord-illingworth\|Lord Illingworth]], non è vero? [[characters/gerald-arbuthnot\|Gerald Arbuthnot]] ci ha raccontato della sua fortuna; è davvero gentilissimo da parte sua. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Oh, non dica così, [[characters/lady-hunstanton\|Lady Hunstanton]]. Gentile è una parola spaventosa. Il giovane Arbuthnot mi è piaciuto molto fin dal momento in cui l’ho conosciuto, e mi sarà di notevole aiuto in una certa impresa che sono tanto sciocco da meditare. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | È un giovane ammirevole. E sua madre è una delle mie amiche più care. È appena andato a passeggio con la nostra graziosa americana. È molto graziosa, non è vero? |
-| LADY CAROLINE | Fin troppo graziosa. Queste ragazze americane si portano via tutti i buoni partiti. Perché non se ne stanno nel loro paese? Ci ripetono sempre che è il Paradiso delle donne. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Lo è, Lady Caroline. Ed è appunto per questo che, come Eva, hanno tanta smania di uscirne. |
-| LADY CAROLINE | Chi sono i genitori di Miss Worsley? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Le donne americane sono mirabilmente abili nel nascondere i propri genitori. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mio caro [[characters/lord-illingworth\|Lord Illingworth]], che cosa vuol dire? Miss Worsley, Caroline, è [[archetypes/orphan\|orfana]]. Suo padre era un ricchissimo milionario o filantropo, o entrambe le cose, credo, che ospitò mio figlio con grande cordialità quando questi visitò Boston. Non so come abbia fatto i suoi soldi, in origine. |
-| KELVIL | Immagino con le mercerie americane. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Che cosa sono le mercerie americane? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | I romanzi americani. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Che cosa singolare! . . . [[motifs/well\|Comunque sia]], da qualunque fonte provenga la sua grande fortuna, io ho grande stima di Miss Worsley. Si veste straordinariamente [[motifs/well\|bene]]. Tutti gli americani si vestono [[motifs/well\|bene]]. Comprano i loro abiti a [[settings/paris\|Parigi]]. |
-| MRS | ALLONBY. Si dice, [[characters/lady-hunstanton\|Lady Hunstanton]], che quando gli americani buoni muoiono vanno a [[settings/paris\|Parigi]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Davvero? E quando muoiono gli americani cattivi, dove vanno? |
-
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_06" data-title="A Woman of No Importance — Act 1 [6]" data-chapter="part 06" data-kind="excerpt" data-tags="motif/childhood,motif/love,motif/winter,concept/beauty,concept/slavery,concept/wonder,histref/america,setting/america,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -387,27 +288,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY CAROLINE | I am not at all in favour of amusements for the poor, Jane. Blankets and coals are sufficient. There is too much [[motifs/love\|love]] of pleasure amongst the upper classes as it is. Health is what we want in modern life. The tone is not healthy, not healthy at all. |
 | KELVIL | You are quite right, Lady Caroline. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Oh, vanno in [[settings/america\|America]]. |
-| KELVIL | Temo che lei non apprezzi l’[[settings/america\|America]], [[characters/lord-illingworth\|Lord Illingworth]]. È un paese assai notevole, specie se si considera la sua giovinezza. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | La giovinezza dell’[[settings/america\|America]] è la loro tradizione più antica. Va avanti ormai da trecento anni. A sentirli parlare si direbbe che siano alla prima [[motifs/childhood\|infanzia]]. Quanto a civiltà, sono alla seconda. |
-| KELVIL | C’è indubbiamente moltissima corruzione nella<br>politica americana. Suppongo che alluda a questo? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [[concepts/wonder\|Chi lo sa]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | La politica versa in tristi condizioni dappertutto, mi dicono. Di certo è così in Inghilterra. Il caro signor Cardew sta rovinando il paese. Mi [[concepts/wonder\|stupisce]] che la signora Cardew glielo permetta. Sono sicura, [[characters/lord-illingworth\|Lord Illingworth]], che lei non pensa che si debba concedere il voto alle persone senza istruzione. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Penso che siano le uniche a cui lo si dovrebbe concedere. |
-| KELVIL | Non prende dunque posizione nella politica moderna, Lord<br>Illingworth? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non si dovrebbe mai prendere posizione in nulla, signor Kelvil. Prendere posizione è l’inizio della sincerità, poco dopo segue la serietà, e l’essere umano diventa una noia. Del resto la Camera dei Comuni fa in verità pochissimo danno. Non si può rendere buona la gente con un decreto del Parlamento: è già qualcosa. |
-| KELVIL | Non può negare che la Camera dei Comuni abbia sempre mostrato grande partecipazione alle sofferenze dei poveri. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È il suo vizio particolare. È il vizio particolare del secolo. Si dovrebbe partecipare alla gioia, alla [[concepts/beauty\|bellezza]], al colore della vita. Meno si parla delle piaghe della vita, meglio è, signor Kelvil. |
-| KELVIL | Eppure il nostro East End è un problema molto importante. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Proprio così. È il problema della [[concepts/slavery\|schiavitù]]. E cerchiamo di risolverlo divertendo gli schiavi. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Certamente si può fare molto con divertimenti a buon mercato, come dice lei, [[characters/lord-illingworth\|Lord Illingworth]]. Il caro dottor Daubeny, il nostro rettore qui, offre, con l’aiuto dei suoi curati, svaghi davvero ammirevoli ai poveri durante l’[[motifs/winter\|inverno]]. E molto bene si può fare per mezzo di una lanterna magica, o di un missionario, o di qualche altro spasso popolare del genere. |
-| LADY CAROLINE | Non sono affatto favorevole ai divertimenti per i poveri, Jane. Coperte e carbone bastano. C’è già troppo [[motifs/love\|amore]] per il piacere fra le classi alte. Nella vita moderna quel che ci vuole è la salute. Il tono non è sano, non è sano per nulla. |
-| KELVIL | Ha perfettamente ragione, Lady Caroline. |
 
 
 
@@ -441,35 +321,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY STUTFIELD | Do you really, really think, Lady Caroline, that one should believe evil of every one? |
 | LADY CAROLINE | I think it is much safer to do so, Lady Stutfield. Until, of course, people are found out to be good. But that requires a great deal of investigation nowadays. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| LADY CAROLINE | Credo di avere ragione di solito. |
-| MRS | ALLONBY. Orribile parola, ‘salute’. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | La parola più sciocca della nostra lingua, e si conosce fin troppo [[motifs/well\|bene]] l’idea popolare di salute. Il gentiluomo di campagna inglese che galoppa dietro a una volpe: l’indicibile in caccia dell’immangiabile. |
-| KELVIL | Posso chiederle, [[characters/lord-illingworth\|Lord Illingworth]], se considera la Camera dei<br>Lord un’istituzione migliore della Camera dei Comuni? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Un’istituzione molto migliore, naturalmente. Noi della Camera dei Lord non siamo mai in contatto con l’opinione pubblica. Questo fa di noi un [[concepts/body\|corpo]] civile. |
-| KELVIL | Dice sul serio nel sostenere una simile opinione? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Del tutto sul serio, signor Kelvil. [A MRS. ALLONBY.] Che abitudine volgare, quella che ha la gente al giorno d’oggi, di chiederti, dopo che le hai regalato un’idea, se parli sul serio o no. Nulla è serio tranne la passione. L’intelletto non è cosa seria, e non lo è mai stato. È uno strumento su cui si suona, ecco tutto. L’unica forma seria d’intelletto che io conosca è l’intelletto britannico. E sull’intelletto britannico gli analfabeti battono il tamburo. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Che cosa va dicendo, [[characters/lord-illingworth\|Lord Illingworth]], a proposito del tamburo? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Parlavo semplicemente con la signora Allonby degli articoli di fondo dei giornali di [[settings/london\|Londra]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ma lei crede a tutto ciò che si scrive sui giornali? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Sì. Al giorno d’oggi accade soltanto ciò che è illeggibile. [Si alza con MRS. ALLONBY.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Se ne va, signora Allonby? |
-| MRS | ALLONBY. Solo fino alla serra. [[characters/lord-illingworth\|Lord Illingworth]] mi ha detto stamattina che là dentro c’è un’orchidea bella come i sette peccati capitali. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara, [[concepts/hope\|spero]] che non ci sia nulla del genere. Parlerò senz’altro col giardiniere. |
-| *(didascalia)* | [Escono MRS. ALLONBY e [[characters/lord-illingworth\|LORD ILLINGWORTH]].] |
-| LADY CAROLINE | Tipo notevole, la signora Allonby. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Talvolta si lascia scappare la sua lingua brillante. |
-| LADY CAROLINE | È l’unica cosa, Jane, che la signora Allonby si lascia scappare? |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Lo [[concepts/hope\|spero]] proprio, Caroline, te lo assicuro. |
-| *(didascalia)* | [Entra LORD ALFRED.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Caro Lord Alfred, si unisca a noi. [LORD ALFRED si siede accanto a LADY<br>STUTFIELD.] |
-| LADY CAROLINE | Tu credi al bene di chiunque, Jane. È un grave difetto. |
-| LADY STUTFIELD | Pensa davvero, davvero, Lady Caroline, che si debba credere al male di chiunque? |
-| LADY CAROLINE | Penso che sia molto più prudente, Lady Stutfield. Fino a quando, naturalmente, non si scopra che qualcuno è buono. Ma oggigiorno ciò richiede moltissime indagini. |
 
 
 
@@ -513,44 +364,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, here is a letter, Caroline, from dear Mrs. Arbuthnot. She won’t dine. I am so sorry. But she will come in the evening. I am very pleased indeed. She is one of the sweetest of women. Writes a beautiful hand, too, so large, so firm. [Hands letter to LADY CAROLINE.] |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| LADY STUTFIELD | Però c’è tanta maldicenza cattiva nella vita moderna. |
-| LADY CAROLINE | [[characters/lord-illingworth\|Lord Illingworth]] mi osservava ieri [[motifs/night\|sera]] a cena che alla base di ogni scandalo c’è una certezza assolutamente immorale. |
-| KELVIL | [[characters/lord-illingworth\|Lord Illingworth]] è, s’intende, un uomo brillantissimo, ma mi sembra privo di quella nobile [[concepts/faith\|fede]] nella nobiltà e nella purezza della vita che è tanto importante in questo secolo. |
-| LADY STUTFIELD | Sì, molto, molto importante, non è vero? |
-| KELVIL | Mi dà l’impressione di un uomo che non apprezza la [[concepts/beauty\|bellezza]] della nostra vita [[motifs/home\|domestica]] inglese. Direi che è contaminato da idee straniere in materia. |
-| LADY STUTFIELD | Non c’è nulla, nulla come la [[concepts/beauty\|bellezza]] della vita [[motifs/home\|domestica]], non è vero? |
-| KELVIL | È il pilastro del nostro sistema morale in Inghilterra, Lady<br>Stutfield. Senza di essa diventeremmo come i nostri vicini. |
-| LADY STUTFIELD | Sarebbe così, così triste, non è vero? |
-| KELVIL | Temo, inoltre, che [[characters/lord-illingworth\|Lord Illingworth]] consideri la donna semplicemente un giocattolo. Ora, io non ho mai considerato la donna un giocattolo. La donna è la compagna intellettuale dell’uomo nella vita pubblica come in quella privata. Senza di lei dimenticheremmo i veri ideali. [Si siede accanto a LADY STUTFIELD.] |
-| LADY STUTFIELD | Sono così, così contenta di sentirglielo dire. |
-| LADY CAROLINE | Lei è sposato, signor Kettle? |
-| SIR JOHN | Kelvil, cara, Kelvil. |
-| KELVIL | Sono sposato, Lady Caroline. |
-| LADY CAROLINE | Famiglia? |
-| KELVIL | Sì. |
-| LADY CAROLINE | Quanti? |
-| KELVIL | Otto. |
-| *(didascalia)* | [LADY STUTFIELD rivolge la sua attenzione a LORD ALFRED.] |
-| LADY CAROLINE | La signora Kettle e i bambini sono al mare, suppongo? [SIR JOHN scrolla le spalle.] |
-| KELVIL | Mia moglie è al mare con i bambini, Lady<br>Caroline. |
-| LADY CAROLINE | Li raggiungerà più avanti, senza [[concepts/doubt\|dubbio]]? |
-| KELVIL | Se i miei impegni pubblici me lo consentiranno. |
-| LADY CAROLINE | La sua vita pubblica dev’essere una grande fonte di soddisfazione per la signora Kettle. |
-| SIR JOHN | Kelvil, [[motifs/love\|amore]] mio, Kelvil. |
-| LADY STUTFIELD | [A LORD ALFRED.] Come sono molto, molto affascinanti quelle sue sigarette col bocchino dorato, Lord Alfred. |
-| LORD ALFRED | Sono terribilmente costose. Posso permettermele solo quando sono indebitato. |
-| LADY STUTFIELD | Dev’essere terribilmente, terribilmente penoso avere debiti. |
-| LORD ALFRED | Al giorno d’oggi bisogna pure avere un’occupazione. Se non avessi i miei debiti non avrei nulla a cui pensare. Tutti i tipi che conosco sono indebitati. |
-| LADY STUTFIELD | Ma le persone a cui deve il denaro non le danno un grande, grande fastidio? |
-| *(didascalia)* | [Entra il Valletto.] |
-| LORD ALFRED | Oh, no: scrivono loro; io no. |
-| LADY STUTFIELD | Che cosa molto, molto strana. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, ecco una lettera, Caroline, della cara signora Arbuthnot. Non verrà a cena. Mi dispiace tanto. Ma verrà in serata. Ne sono davvero contenta. È una delle donne più dolci che ci siano. E ha anche una bella calligrafia, così ampia, così ferma. [Porge la lettera a LADY CAROLINE.] |
-
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_09" data-title="A Woman of No Importance — Act 1 [9]" data-chapter="part 09" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/time,concept/hope,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -584,36 +397,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | [[characters/lord-illingworth\|Lord Illingworth]], every one has been congratulating me, [[characters/lady-hunstanton\|Lady Hunstanton]] and Lady Caroline, and . . . every one. I [[concepts/hope\|hope]] I shall make a good secretary. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | You will be the pattern secretary, Gerald. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| LADY CAROLINE | [Osservandola.] Un po’ povera di femminilità,<br>Jane. La femminilità è la qualità che più ammiro nelle donne. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [Riprende la lettera e la posa sul tavolo.] Oh! È molto femminile, Caroline, e anche tanto buona. Dovresti sentire che cosa dice di lei l’Arcidiacono. La considera il suo braccio destro nella parrocchia. [Il Valletto le parla.] Nel Salotto Giallo. Entriamo tutti? Lady Stutfield, andiamo a prendere il tè? |
-| LADY STUTFIELD | Volentieri, [[characters/lady-hunstanton\|Lady Hunstanton]]. [Si alzano e si avviano per uscire. SIR JOHN si offre di portare il mantello di LADY STUTFIELD.] |
-| LADY CAROLINE | John! Se lasciassi che a occuparsi del mantello di<br>Lady Stutfield sia tuo nipote, potresti aiutare me col cestino da lavoro. |
-| *(didascalia)* | [Entrano [[characters/lord-illingworth\|LORD ILLINGWORTH]] e MRS. ALLONBY.] |
-| SIR JOHN | Certamente, [[motifs/love\|amore]] mio. [Escono.] |
-| MRS | ALLONBY. Curioso: le donne brutte sono sempre gelose dei loro mariti, le belle non lo sono mai! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Le donne belle non ne hanno mai il [[motifs/time\|tempo]]. Sono sempre troppo occupate a essere gelose dei mariti altrui. |
-| MRS | ALLONBY. Avrei pensato che, col [[motifs/time\|tempo]], Lady Caroline si fosse stancata dell’ansia coniugale! Sir John è il suo quarto! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Tanto [[motifs/marriage\|matrimonio]] non dona di certo. Vent’anni di romanticismo riducono una donna a una rovina; ma vent’anni di [[motifs/marriage\|matrimonio]] la trasformano in qualcosa come un edificio pubblico. |
-| MRS | ALLONBY. Vent’anni di romanticismo! Esiste una cosa simile? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non ai giorni nostri. Le donne sono diventate troppo brillanti. Nulla guasta una storia d’amore quanto il senso dell’umorismo nella donna. |
-| MRS | ALLONBY. O la sua mancanza nell’uomo. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ha perfettamente ragione. In un Tempio tutti dovrebbero essere seri, tranne la cosa che vi si adora. |
-| MRS | ALLONBY. E quella dovrebbe essere l’uomo? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Le donne s’inginocchiano con tanta grazia; gli uomini no. |
-| MRS | ALLONBY. Sta pensando a Lady Stutfield! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Le assicuro che non penso a Lady<br>Stutfield da un quarto d’ora buono. |
-| MRS | ALLONBY. È davvero un tale mistero? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È più di un mistero: è uno stato d’animo. |
-| MRS | ALLONBY. Gli stati d’animo non durano. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È il loro fascino principale. |
-| *(didascalia)* | [Entrano HESTER e GERALD.] |
-| GERALD | [[characters/lord-illingworth\|Lord Illingworth]], tutti si sono congratulati con me, [[characters/lady-hunstanton\|Lady Hunstanton]] e Lady Caroline, e . . . tutti quanti. [[concepts/hope\|Spero]] che sarò un buon segretario. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Sarà il segretario esemplare, Gerald. |
 
 
 
@@ -657,45 +440,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | What do you think she’d do if I kissed her? |
 | MRS | ALLONBY. Either marry you, or strike you across the face with her glove. What would you do if she struck you across the face with her glove? |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | [Gli parla.] |
-| MRS | ALLONBY. Le piace la vita di campagna, Miss Worsley? |
-| HESTER | Moltissimo, davvero. |
-| MRS | ALLONBY. Non prova [[concepts/longing\|nostalgia]] di un pranzo mondano a [[settings/london\|Londra]]? |
-| HESTER | I pranzi mondani di [[settings/london\|Londra]] non mi piacciono. |
-| MRS | ALLONBY. Io li adoro. Le persone intelligenti non ascoltano mai, e quelle stupide non parlano mai. |
-| HESTER | Io credo che le persone stupide parlino moltissimo. |
-| MRS | ALLONBY. Ah, io non ascolto mai! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Mio caro ragazzo, se lei non mi piacesse non le avrei fatto quell’offerta. È proprio perché mi piace tanto che voglio averla con me. |
-| *(didascalia)* | [Esce HESTER con GERALD.] |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ragazzo delizioso, [[characters/gerald-arbuthnot\|Gerald Arbuthnot]]! |
-| MRS | ALLONBY. È molto simpatico; davvero molto simpatico. Ma la signorina americana non la sopporto. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Perché? |
-| MRS | ALLONBY. Ieri mi ha detto, e per giunta a voce ben alta, che ha soltanto diciotto anni. È stato oltremodo seccante. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non ci si deve mai fidare di una donna che confessa la propria età vera. Una donna capace di dire questo è capace di dire qualunque cosa. |
-| MRS | ALLONBY. E per di più è una puritana - |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ah, questo è imperdonabile. Non mi dispiace che le donne brutte siano puritane. È l’unica scusa che hanno per essere brutte. Ma lei è decisamente graziosa. L’ammiro immensamente. [Guarda fisso MRS. ALLONBY.] |
-| MRS | ALLONBY. Che uomo profondamente cattivo dev’essere! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che cosa chiama lei un uomo cattivo? |
-| MRS | ALLONBY. Il genere d’uomo che ammira l’innocenza. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | E una donna cattiva? |
-| MRS | ALLONBY. Oh! Il genere di donna di cui un uomo non si stanca mai. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È severa - con se stessa. |
-| MRS | ALLONBY. Ci definisca come sesso. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Sfingi senza [[motifs/secrets\|segreti]]. |
-| MRS | ALLONBY. Vi rientrano anche le donne puritane? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Sa una cosa? Io non credo che le donne puritane esistano. Non credo che al mondo ci sia una donna che non si sentirebbe un poco lusingata se le si facesse [[motifs/love\|la corte]]. È questo che rende le donne così irresistibilmente adorabili. |
-| MRS | ALLONBY. Lei crede che al mondo non ci sia donna che rifiuterebbe di essere baciata? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Pochissime. |
-| MRS | ALLONBY. Miss Worsley non si lascerebbe baciare da lei. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ne è sicura? |
-| MRS | ALLONBY. Sicurissima. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che cosa crede che farebbe, se la baciassi? |
-| MRS | ALLONBY. O la sposerebbe, o le tirerebbe un guanto in faccia. Lei che cosa farebbe, se le tirasse un guanto in faccia? |
 
 
 
@@ -742,47 +486,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | I adore simple pleasures. They are the last refuge of the complex. But, if you wish, let us stay here. Yes, let us stay here. The Book of Life begins with a man and a woman in a [[motifs/garden\|garden]]. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Me ne [[motifs/love\|innamorerei]], probabilmente. |
-| MRS | ALLONBY. Allora è una fortuna che non abbia intenzione di baciarla! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È una sfida? |
-| MRS | ALLONBY. È una freccia scoccata in aria. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non sa che riesco sempre in tutto ciò<br>che tento? |
-| MRS | ALLONBY. Mi dispiace sentirlo. Noi donne adoriamo i falliti.<br>Si appoggiano a noi. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Voi venerate i vincenti. Vi ci aggrappate. |
-| MRS | ALLONBY. Siamo gli allori che ne coprono la calvizie. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | E hanno sempre bisogno di voi, tranne che nel momento del trionfo. |
-| MRS | ALLONBY. È allora che diventano privi d’interesse. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Come sa essere provocante! [Pausa.] |
-| MRS | ALLONBY. [[characters/lord-illingworth\|Lord Illingworth]], c’è una cosa per cui le vorrò sempre bene. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Una sola? E io ho tante cattive qualità. |
-| MRS | ALLONBY. Ah, non se ne inorgoglisca troppo. Potrebbe perderle invecchiando. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non ho alcuna intenzione d’invecchiare. L’[[motifs/soul\|anima]] nasce vecchia e ringiovanisce. È questa la [[forms/comedy\|commedia]] della vita. |
-| MRS | ALLONBY. E il [[concepts/body\|corpo]] nasce giovane e invecchia. È questa la [[forms/tragedy\|tragedia]] della vita. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | E qualche volta anche la sua [[forms/comedy\|commedia]]. Ma qual è la misteriosa ragione per cui mi vorrà sempre bene? |
-| MRS | ALLONBY. È che lei non mi ha mai fatto [[motifs/love\|la corte]]. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non ho mai fatto altro. |
-| MRS | ALLONBY. Davvero? Non me n’ero accorta. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che fortuna! Avrebbe potuto essere una [[forms/tragedy\|tragedia]] per entrambi. |
-| MRS | ALLONBY. Saremmo sopravvissuti tutti e due. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Oggigiorno si sopravvive a tutto, tranne che alla [[motifs/death\|morte]], e ci si fa perdonare qualunque cosa, tranne una buona reputazione. |
-| MRS | ALLONBY. Ha mai provato una buona reputazione? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È una delle molte seccature a cui non sono mai stato sottoposto. |
-| MRS | ALLONBY. Potrebbe arrivare. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Perché mi minaccia? |
-| MRS | ALLONBY. Glielo dirò quando avrà baciato la puritana. |
-| *(didascalia)* | [Entra il Valletto.] |
-| FRANCIS | Il tè è servito nel Salotto Giallo, milord. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Dica a sua signoria che stiamo arrivando. |
-| FRANCIS | Sì, milord. |
-| *(didascalia)* | [Esce.] |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Andiamo a prendere il tè? |
-| MRS | ALLONBY. Le piacciono piaceri tanto semplici? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Adoro i piaceri semplici. Sono l’ultimo rifugio dei complicati. Ma, se preferisce, restiamo qui. Sì, restiamo qui. Il Libro della Vita comincia con un uomo e una donna in un [[motifs/garden\|giardino]]. |
-
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_12" data-title="A Woman of No Importance — Act 1 [12]" data-chapter="part 12" data-kind="excerpt" data-tags="character/lord_illingworth"></span>
@@ -799,19 +502,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ALLONBY. Who? |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Oh! no one. No one in particular. A woman of no importance. [Throws letter down, and passes up the steps of the terrace with MRS. ALLONBY. They smile at each other.]<br>ACT DROP. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ALLONBY. E finisce con le Rivelazioni. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Tira di scherma divinamente. Ma il bottone del suo fioretto è saltato via. |
-| MRS | ALLONBY. Mi resta la maschera. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Rende i suoi occhi più belli. |
-| MRS | ALLONBY. Grazie. Andiamo. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [Vede la lettera di MRS. ARBUTHNOT sul tavolo, la prende e ne osserva la busta.] Che calligrafia curiosa! Mi ricorda la calligrafia di una donna che conoscevo anni fa. |
-| MRS | ALLONBY. Chi? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Oh! Nessuno. Nessuno in particolare. Una donna di nessuna importanza. [Getta via la lettera e sale i gradini della terrazza con MRS. ALLONBY. Si sorridono a vicenda.]<br>CALA IL SIPARIO. |
 
 
 
@@ -845,34 +535,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY STUTFIELD | Oh, I think one can always know at once whether a man has [[motifs/home\|home]] claims upon his life or not. I have noticed a very, very sad expression in the eyes of so many married men. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | SCENA<br>Salotto a Hunstanton, dopo cena, lampade accese. Porta a sinistra, verso il centro.<br>Porta a destra, verso il centro. |
-| *(didascalia)* | [Le signore sedute sui divani.] |
-| MRS | ALLONBY. Che conforto esserci liberate degli uomini per un poco! |
-| LADY STUTFIELD | Sì; gli uomini ci perseguitano spaventosamente, non è vero? |
-| MRS | ALLONBY. Ci perseguitano? Magari lo facessero. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara! |
-| MRS | ALLONBY. La cosa seccante è che quei disgraziati sanno essere perfettamente felici senza di noi. Ecco perché ritengo dovere di ogni donna non lasciarli mai soli un solo istante, tranne in questa breve tregua dopo cena; senza la quale, credo, noi povere donne saremmo ridotte a pure ombre. |
-| *(didascalia)* | [Entrano i Domestici col caffè.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ridotte a ombre, cara? |
-| MRS | ALLONBY. Sì, [[characters/lady-hunstanton\|Lady Hunstanton]]. È una tale fatica tenere gli uomini all’altezza. Cercano sempre di sfuggirci. |
-| LADY STUTFIELD | A me pare che siamo noi a cercare sempre di sfuggire a loro. Gli uomini sono così, così senza cuore. Conoscono il loro potere e se ne servono. |
-| LADY CAROLINE | [Prende il caffè dal Domestico.] Che sciocchezze, tutte queste storie sugli uomini! Quel che bisogna fare è tenere gli uomini al posto che spetta loro. |
-| MRS | ALLONBY. E qual è il posto che spetta loro, Lady Caroline? |
-| LADY CAROLINE | Badare alle proprie mogli, signora Allonby. |
-| MRS | ALLONBY. [Prende il caffè dal Domestico.] Davvero? E se non sono sposati? |
-| LADY CAROLINE | Se non sono sposati, dovrebbero cercarsi una moglie di cui badare. È assolutamente scandaloso il numero di scapoli che circolano in società. Si dovrebbe approvare una legge che li obblighi tutti a sposarsi entro dodici mesi. |
-| LADY STUTFIELD | [Rifiuta il caffè.] Ma se sono [[motifs/love\|innamorati]] di qualcuna che, magari, è legata a un altro? |
-| LADY CAROLINE | In tal caso, Lady Stutfield, andrebbero maritati entro una settimana a una ragazza bruttina e rispettabile, per insegnar loro a non mettere le mani sulla proprietà altrui. |
-| MRS | ALLONBY. Non credo che si dovrebbe mai parlare di noi come della proprietà altrui. Tutti gli uomini sono proprietà delle donne sposate. È l’unica vera definizione di che cosa sia davvero la proprietà delle donne sposate. Ma noi non apparteniamo a nessuno. |
-| LADY STUTFIELD | Oh, sono così, così contenta di sentirglielo dire. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ma credi davvero, cara Caroline, che la legge migliorerebbe in qualche modo le cose? Mi dicono che, oggigiorno, tutti gli uomini sposati vivono da scapoli e tutti gli scapoli da uomini sposati. |
-| MRS | ALLONBY. Io di certo non distinguo mai gli uni dagli altri. |
-| LADY STUTFIELD | Oh, io credo che si capisca sempre subito se un uomo ha o non ha vincoli [[motifs/home\|domestici]] nella propria vita. Ho notato un’espressione molto, molto triste negli occhi di tanti uomini sposati. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_02" data-title="A Woman of No Importance — Act 2 [2]" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,motif/time,motif/well,concept/hope,concept/wonder,character/lady_hunstanton"></span>
@@ -903,32 +565,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY STUTFIELD | Yes; men’s good temper shows they are not so sensitive as we are, not so finely strung. It makes a great barrier often between husband and wife, does it not? But I would so much like to know what was the wrong thing Mr. Allonby did. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ALLONBY. Ah, io ho notato soltanto che sono orribilmente noiosi quando sono buoni mariti, e abominevolmente presuntuosi quando non lo sono. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Beh]], suppongo che il tipo del marito sia completamente cambiato dai tempi della mia giovinezza, ma devo pur dire che il povero caro Hunstanton era la più deliziosa delle creature, e buono come il pane. |
-| MRS | ALLONBY. Ah, mio marito è una specie di pagherò; sono stanca di vederlo presentarsi alla scadenza. |
-| LADY CAROLINE | Ma lo rinnova di [[motifs/time\|tanto]] in [[motifs/time\|tanto]], non è vero? |
-| MRS | ALLONBY. Oh no, Lady Caroline. Finora ho avuto un marito solo. Suppongo che lei mi consideri una perfetta dilettante. |
-| LADY CAROLINE | Con le sue idee sulla vita, mi [[concepts/wonder\|stupisce]] che si sia sposata del tutto. |
-| MRS | ALLONBY. Anche a me. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara [[archetypes/child\|figliola]], io credo che lei sia in realtà molto felice nella sua vita coniugale, ma che le piaccia nascondere agli altri la propria felicità. |
-| MRS | ALLONBY. Le assicuro che su Ernest mi sono orribilmente ingannata. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Oh, [[concepts/hope\|spero]] di no, cara. Conoscevo piuttosto [[motifs/well\|bene]] sua madre. Era una Stratton, Caroline, una delle figlie di Lord Crowland |
-| LADY CAROLINE | Victoria Stratton? La ricordo perfettamente. Una donna sciocca, coi capelli chiari e senza mento. |
-| MRS | ALLONBY. Ah, Ernest il mento ce l’ha. Ha un mento fortissimo, un mento quadrato. Il mento di Ernest è fin troppo quadrato. |
-| LADY STUTFIELD | Ma crede davvero che il mento di un uomo possa essere troppo quadrato? Io penso che un uomo debba apparire molto, molto forte, e che il suo mento debba essere proprio, proprio quadrato. |
-| MRS | ALLONBY. Allora dovrebbe assolutamente conoscere Ernest, Lady Stutfield. È giusto avvertirla in anticipo che non ha alcuna conversazione. |
-| LADY STUTFIELD | Adoro gli uomini silenziosi. |
-| MRS | ALLONBY. Oh, Ernest non è silenzioso. Parla tutto il [[motifs/time\|tempo]].<br>Ma non ha alcuna conversazione. Di che cosa parli non lo so.<br>Non lo ascolto da anni. |
-| LADY STUTFIELD | Non l’ha dunque mai perdonato? Che tristezza! Ma tutta la vita è molto, molto triste, non è vero? |
-| MRS | ALLONBY. La vita, Lady Stutfield, è semplicemente un MAUVAIS QUART<br>D’HEURE composto di momenti squisiti. |
-| LADY STUTFIELD | Sì, i momenti ci sono, certamente. Ma è stata una cosa molto, molto grave quella che il signor Allonby ha fatto? Si è arrabbiato con lei e le ha detto qualcosa di scortese o di vero? |
-| MRS | ALLONBY. Oh cara, no. Ernest è invariabilmente calmo. È una delle ragioni per cui mi dà sempre sui nervi. Nulla è tanto irritante quanto la calma. C’è qualcosa di positivamente brutale nel buon carattere della maggior parte degli uomini moderni. Mi [[concepts/wonder\|stupisce]] che noi donne lo sopportiamo tanto [[motifs/well\|bene]]. |
-| LADY STUTFIELD | Sì; il buon carattere degli uomini dimostra che non sono sensibili come noi, non così finemente accordati. Spesso ciò crea una grande barriera fra marito e moglie, non è vero? Ma mi piacerebbe tanto sapere quale fu la cosa grave che il signor Allonby fece. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_03" data-title="A Woman of No Importance — Act 2 [3]" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/time,motif/well,concept/history,concept/vanity,form/history,character/lady_hunstanton"></span>
@@ -955,28 +591,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY STUTFIELD | Yes, the common sense of husbands is certainly most, most trying. Do tell me your conception of the Ideal Husband. I think it would be so very, very helpful. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ALLONBY. [[motifs/well\|Ebbene]], glielo dirò, se mi promette solennemente di raccontarlo a tutti gli altri. |
-| LADY STUTFIELD | Grazie, grazie. Mi farò un dovere di ripeterlo. |
-| MRS | ALLONBY. Quando Ernest e io eravamo fidanzati, mi giurò recisamente, in ginocchio, che non aveva mai amato nessun’altra in tutto il corso della sua vita. A quel [[motifs/time\|tempo]] ero molto giovane, e dunque non gli credetti, va da sé. Purtroppo, però, non feci indagini di alcun genere finché non fui sposata da quattro o cinque mesi. Scoprii allora che ciò che mi aveva detto era perfettamente vero. E una cosa simile rende un uomo assolutamente privo d’interesse. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara! |
-| MRS | ALLONBY. Gli uomini vogliono sempre essere il primo [[motifs/love\|amore]] di una donna. È la loro goffa [[concepts/vanity\|vanità]]. Noi donne abbiamo un istinto più sottile in queste cose. Ciò che ci piace è essere l’ultima storia d’amore di un uomo. |
-| LADY STUTFIELD | Capisco che cosa intende. È molto, molto bello. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara [[archetypes/child\|figliola]], non vorrà dirmi che non perdona suo marito perché non ha mai amato nessun’altra? Hai mai sentito una cosa simile, Caroline? Sono davvero sorpresa. |
-| LADY CAROLINE | Oh, le donne hanno ricevuto un’istruzione così elevata, Jane, che oggigiorno nulla dovrebbe sorprenderci, tranne i matrimoni felici. A quanto pare stanno diventando notevolmente rari. |
-| MRS | ALLONBY. Oh, sono del tutto fuori moda. |
-| LADY STUTFIELD | Tranne che nelle classi medie, mi hanno detto. |
-| MRS | ALLONBY. Tipico delle classi medie! |
-| LADY STUTFIELD | Sì - non è vero? - tipicissimo. |
-| LADY CAROLINE | Se ciò che ci racconta delle classi medie è vero, Lady Stutfield, torna molto a loro merito. È assai da deplorare che nel nostro ceto la moglie sia con tanta ostinazione frivola, evidentemente convinta che sia questa la cosa giusta da essere. È a ciò che attribuisco l’infelicità di tanti matrimoni che tutti conosciamo in società. |
-| MRS | ALLONBY. Sa una cosa, Lady Caroline? Non credo che la frivolezza della moglie c’entri mai qualcosa. Oggigiorno i matrimoni sono rovinati più dal buon senso del marito che da qualsiasi altra cosa. Come si può pretendere che una donna sia felice con un uomo che si ostina a trattarla come se fosse un essere perfettamente razionale? |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara! |
-| MRS | ALLONBY. L’uomo, il povero, goffo, fidato, necessario uomo appartiene a un sesso che è razionale da milioni e milioni di anni. Non ci può far nulla. Ce l’ha nella razza. La [[concepts/history\|Storia]] della Donna è ben diversa. Noi siamo sempre state pittoresche proteste contro la semplice esistenza del buon senso. Ne vedemmo i pericoli fin dall’inizio. |
-| LADY STUTFIELD | Sì, il buon senso dei mariti è certamente molto, molto penoso. Mi dica, la prego, come concepisce lei il Marito Ideale. Credo che sarebbe così, così utile. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_04" data-title="A Woman of No Importance — Act 2 [4]" data-chapter="part 04" data-kind="excerpt" data-tags="character/lady_hunstanton"></span>
@@ -995,20 +609,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | LADY CAROLINE | As far as I can see, he is to do nothing but pay bills and compliments. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ALLONBY. Il Marito Ideale? Una cosa simile non può esistere.<br>È l’istituzione a essere sbagliata. |
-| LADY STUTFIELD | L’Uomo Ideale, allora, nei suoi rapporti con NOI. |
-| LADY CAROLINE | Sarebbe probabilmente estremamente realistico. |
-| MRS | CAROLINE. L’Uomo Ideale! Oh, l’Uomo Ideale dovrebbe parlarci come se fossimo dee, e trattarci come se fossimo bambine. Dovrebbe rifiutare tutte le nostre richieste serie e soddisfare ogni nostro capriccio. Dovrebbe incoraggiarci ad avere ghiribizzi e proibirci di avere missioni. Dovrebbe sempre dire molto più di quel che pensa, e sempre pensare molto più di quel che dice. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ma come potrebbe fare entrambe le cose, cara? |
-| MRS | ALLONBY. Non dovrebbe mai sparlare delle altre belle donne. Mostrerebbe che non ha gusto, o farebbe sospettare che ne abbia troppo. No; dovrebbe dirne bene di tutte, ma aggiungere che, chissà perché, non lo attraggono. |
-| LADY STUTFIELD | Sì, è sempre molto, molto piacevole sentirlo dire delle altre donne. |
-| MRS | ALLONBY. Se gli facciamo una domanda su qualunque cosa, dovrebbe darci una risposta che parli tutta di noi. Dovrebbe invariabilmente lodarci per le qualità che sa benissimo che non abbiamo. Ma dovrebbe essere spietato, del tutto spietato, nel rimproverarci le virtù che non ci siamo mai sognate di possedere. Non dovrebbe mai credere che sappiamo a che cosa servono le cose utili. Sarebbe imperdonabile. Ma dovrebbe ricoprirci di tutto ciò che non desideriamo. |
-| LADY CAROLINE | Per quel che vedo, non deve fare altro che pagare conti e fare complimenti. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_05" data-title="A Woman of No Importance — Act 2 [5]" data-chapter="part 05" data-kind="excerpt" data-tags="motif/time"></span>
@@ -1018,12 +618,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 |---|---|
 | MRS | ALLONBY. He should persistently compromise us in public, and treat us with absolute respect when we are alone. And yet he should be always ready to have a perfectly terrible scene, whenever we want one, and to become miserable, absolutely miserable, at a moment’s notice, and to overwhelm us with just reproaches in less than twenty minutes, and to be positively violent at the end of half an hour, and to leave us for ever at a quarter to eight, when we have to go and dress for dinner. And when, after that, one has seen him for really the last [[motifs/time\|time]], and he has refused to take back the little things he has given one, and promised never to communicate with one again, or to write one any foolish letters, he should be perfectly broken-hearted, and telegraph to one all day long, and send one little notes every half-hour by a private hansom, and dine quite alone at the club, so that every one should know how unhappy he was. And after a whole dreadful week, during which one has gone about everywhere with one’s husband, just to show how absolutely lonely one was, he may be given a third last parting, in the evening, and then, if his conduct has been quite irreproachable, and one has behaved really badly to him, he should be allowed to admit that he has been entirely in the wrong, and when he has admitted that, it becomes a woman’s duty to forgive, and one can do it all over again from the beginning, with variations. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ALLONBY. Dovrebbe compromettere ostinatamente la nostra reputazione in pubblico, e trattarci con assoluto rispetto quando siamo sole. E tuttavia dovrebbe essere sempre pronto a farci una scena perfettamente terribile ogni volta che ne desideriamo una, e a diventare infelice, assolutamente infelice, da un momento all’altro, e a sommergerci di giusti rimproveri in meno di venti minuti, e a mostrarsi positivamente violento sul finire della mezz’ora, e a lasciarci per sempre alle otto meno un quarto, quando dobbiamo andare a vestirci per la cena. E quando, dopo tutto ciò, lo si è visto davvero per l’ultima [[motifs/time\|volta]], e lui ha rifiutato di riprendersi i piccoli doni che ci ha fatto, e ha promesso di non mettersi mai più in contatto con noi, né di scriverci lettere sciocche, dovrebbe avere il cuore perfettamente spezzato, e telegrafarci tutto il giorno, e mandarci bigliettini ogni mezz’ora con una carrozza privata, e cenare tutto solo al circolo, così che tutti sappiano quanto era infelice. E dopo un’intera settimana spaventosa, durante la quale si è andate dappertutto in compagnia del proprio marito, giusto per mostrare quanto si era assolutamente sole, gli si può concedere un terzo ultimo addio, di sera; e allora, se la sua condotta è stata del tutto irreprensibile e noi ci siamo comportate davvero male con lui, gli si dovrebbe permettere di ammettere che ha avuto interamente torto; e quando l’ha ammesso, diventa dovere di una donna perdonare, e si può ricominciare tutto da capo, con variazioni. |
 
 
 
@@ -1056,33 +650,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | What a sensible system, and I dare say quite pleasant too. I am afraid in England we have too many artificial social barriers. We don’t see as much as we should of the middle and lower classes. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Come è brillante, mia cara! Non pensa una sola parola di quel che dice. |
-| LADY STUTFIELD | Grazie, grazie. È stato proprio, proprio incantevole. Devo cercare di ricordarmelo tutto. Ci sono tanti particolari che sono molto, molto importanti. |
-| LADY CAROLINE | Ma non ci ha ancora detto quale debba essere la ricompensa dell’<br>Uomo Ideale. |
-| MRS | ALLONBY. La sua ricompensa? Oh, un’attesa infinita. È più che sufficiente per lui. |
-| LADY STUTFIELD | Ma gli uomini sono così terribilmente, terribilmente esigenti, non è vero? |
-| MRS | ALLONBY. Non importa. Non ci si deve mai arrendere. |
-| LADY STUTFIELD | Nemmeno all’Uomo Ideale? |
-| MRS | ALLONBY. A lui meno che mai. A meno, naturalmente, che non si voglia stancarsene. |
-| LADY STUTFIELD | Oh! . . . sì. Capisco. È molto, molto utile. Crede, signora Allonby, che incontrerò mai l’Uomo Ideale? O ce n’è più d’uno? |
-| MRS | ALLONBY. A [[settings/london\|Londra]] ce ne sono esattamente quattro, Lady Stutfield. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Oh, mia cara! |
-| MRS | ALLONBY. [Avvicinandosi a lei.] Che cosa è successo? Me lo dica.<br>[[characters/lady-hunstanton\|LADY HUNSTANTON]] [a bassa voce] Avevo completamente dimenticato che la signorina americana è rimasta nella stanza per tutto il [[motifs/time\|tempo]]. Temo che un po’ di questi discorsi brillanti possano averla un poco scandalizzata. |
-| MRS | ALLONBY. Ah, le farà tanto bene! |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[concepts/hope\|Speriamo]] che non abbia capito molto. Credo che farei bene ad andare a parlarle. [Si alza e attraversa la scena verso [[characters/hester-worsley\|HESTER WORSLEY]].] [[motifs/well\|Allora]], cara Miss Worsley. [Sedendosi accanto a lei.] Come è stata quieta nel suo bel cantuccio per tutto questo [[motifs/time\|tempo]]! Suppongo che abbia letto un libro. Ci sono tanti libri qui in biblioteca. |
-| HESTER | No, ho ascoltato la conversazione. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Non deve credere a tutto ciò che è stato detto, sa, cara. |
-| HESTER | Non ne ho creduto nulla |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Fa benissimo, cara. |
-| *(didascalia)* | [Proseguendo.] Non potevo credere che delle donne potessero davvero avere sulla vita le idee che ho udito [[motifs/night\|stasera]] da alcune delle sue ospiti. [Pausa imbarazzata.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mi dicono che in [[settings/america\|America]] avete una società tanto piacevole.<br>In certi luoghi proprio come la nostra, mi scriveva mio figlio. |
-| HESTER | Ci sono cricche in [[settings/america\|America]] come altrove, [[characters/lady-hunstanton\|Lady Hunstanton]]. Ma la vera società americana è fatta semplicemente di tutte le donne buone e di tutti gli uomini buoni che abbiamo nel nostro paese. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Che sistema assennato, e oserei dire anche molto piacevole. Temo che in Inghilterra abbiamo troppe barriere sociali artificiali. Non frequentiamo le classi medie e basse quanto dovremmo. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_07" data-title="A Woman of No Importance — Act 2 [7]" data-chapter="part 07" data-kind="excerpt" data-tags="motif/summer,histref/america,setting/america,character/lady_hunstanton"></span>
@@ -1100,19 +667,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | What is that, dear? Ah, yes, an iron Exhibition, is it not, at that place that has the curious name? |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| HESTER | In [[settings/america\|America]] non abbiamo classi basse. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Davvero? Che disposizione stranissima! |
-| MRS | ALLONBY. Di che cosa va parlando quella terribile ragazza? |
-| LADY STUTFIELD | È penosamente naturale, non è vero? |
-| LADY CAROLINE | Ci sono moltissime cose che non avete in [[settings/america\|America]], mi dicono, Miss Worsley. Si dice che non abbiate rovine né curiosità. |
-| MRS | ALLONBY. [A LADY STUTFIELD.] Che sciocchezza! Hanno le loro madri e le loro maniere. |
-| HESTER | L’aristocrazia inglese ci fornisce le curiosità, Lady Caroline. Ce la spediscono ogni [[motifs/summer\|estate]], regolarmente, sui piroscafi, e ci chiedono in moglie il giorno dopo lo sbarco. Quanto alle rovine, noi stiamo cercando di costruire qualcosa che duri più a lungo del mattone o della pietra. [Si alza per prendere il ventaglio dal tavolo.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Che cosa, cara? Ah, sì, un’Esposizione del ferro, non è vero, in quel posto dal nome così curioso? |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_08" data-title="A Woman of No Importance — Act 2 [8]" data-chapter="part 08" data-kind="excerpt" data-tags="motif/love,concept/beauty,concept/doubt,concept/self_sacrifice,character/lady_hunstanton"></span>
@@ -1122,12 +676,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 |---|---|
 | HESTER | [Standing by table.] We are trying to build up life, [[characters/lady-hunstanton\|Lady Hunstanton]], on a better, truer, purer basis than life rests on here. This sounds strange to you all, no [[concepts/doubt\|doubt]]. How could it sound other than strange? You rich people in England, you don’t know how you are living. How could you know? You shut out from your society the gentle and the good. You laugh at the simple and the pure. Living, as you all do, on others and by them, you sneer at [[concepts/self-sacrifice\|self-sacrifice]], and if you throw bread to the poor, it is merely to keep them quiet for a season. With all your pomp and wealth and art you don’t know how to live - you don’t even know that. You [[motifs/love\|love]] the [[concepts/beauty\|beauty]] that you can see and touch and handle, the [[concepts/beauty\|beauty]] that you can destroy, and do destroy, but of the unseen [[concepts/beauty\|beauty]] of life, of the unseen [[concepts/beauty\|beauty]] of a higher life, you know nothing. You have lost life’s secret. Oh, your English society seems to me shallow, selfish, foolish. It has blinded its eyes, and stopped its ears. It lies like a leper in purple. It sits like a dead thing smeared with gold. It is all wrong, all wrong. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| HESTER | [In piedi accanto al tavolo.] Stiamo cercando di costruire la vita, [[characters/lady-hunstanton\|Lady Hunstanton]], su basi migliori, più vere, più pure di quelle su cui poggia la vita qui. Vi suonerà strano a tutti, senza [[concepts/doubt\|dubbio]]. E come potrebbe suonare altrimenti che strano? Voi ricchi d’Inghilterra non sapete come state vivendo. E come potreste saperlo? Escludete dalla vostra società i miti e i buoni. Ridete dei semplici e dei puri. Vivendo, come fate tutti, sugli altri e per mezzo degli altri, sogghignate al [[concepts/self-sacrifice\|sacrificio di sé]], e se gettate del pane ai poveri è soltanto per tenerli tranquilli per una stagione. Con tutta la vostra pompa, la vostra ricchezza e la vostra arte non sapete vivere: non sapete neppure questo. Voi [[motifs/love\|amate]] la [[concepts/beauty\|bellezza]] che potete vedere e toccare e maneggiare, la [[concepts/beauty\|bellezza]] che potete distruggere, e che distruggete, ma della [[concepts/beauty\|bellezza]] invisibile della vita, della [[concepts/beauty\|bellezza]] invisibile di una vita più alta, non sapete nulla. Avete perduto il segreto della vita. Oh, la vostra società inglese mi pare superficiale, egoista, sciocca. Si è accecata gli occhi e turate le orecchie. Giace come un lebbroso vestito di porpora. Siede come una cosa morta spalmata d’oro. È tutto sbagliato, tutto sbagliato. |
 
 
 
@@ -1149,23 +697,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | HESTER | I am afraid you think I spoke too strongly, Lady<br>Hunstanton. But there are some things in England - |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | My dear young lady, there was a great deal of [[concepts/truth\|truth]], I dare say, in what you said, and you looked very pretty while you said it, which is much more important, [[characters/lord-illingworth\|Lord Illingworth]] would tell us. The only point where I thought you were a little hard was about Lady Caroline’s brother, about poor Lord Henry. He is really such good company. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| LADY STUTFIELD | Non credo che si debbano sapere queste cose. Non è molto, molto piacevole, non è vero? |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara Miss Worsley, credevo che la società inglese le piacesse tanto. Vi ha avuto un tale successo. Ed è stata tanto ammirata dalle persone migliori. Ho proprio dimenticato che cosa disse di lei Lord Henry Weston - ma era un grandissimo complimento, e lei sa che autorità sia in fatto di [[concepts/beauty\|bellezza]]. |
-| HESTER | Lord Henry Weston! Me lo ricordo, [[characters/lady-hunstanton\|Lady Hunstanton]]. Un uomo con un sorriso odioso e un passato odioso. Lo invitano dappertutto. Nessun pranzo è completo senza di lui. E che ne è di coloro che sono stati rovinati da lui? Sono reiette. Sono senza nome. Se le incontraste per strada girereste la testa dall’altra parte. Non mi lamento della loro punizione. Che tutte le donne che hanno peccato siano punite. |
-| *(didascalia)* | [MRS. ARBUTHNOT entra dalla terrazza sul fondo, in mantello e con un velo di pizzo sul capo. Ode le ultime parole e trasale.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara signorina! |
-| HESTER | È giusto che siano punite, ma non siano le sole a soffrire. Se un uomo e una donna hanno peccato, che vadano entrambi nel [[motifs/desert\|deserto]] ad [[motifs/love\|amarsi]] o a odiarsi laggiù. Che siano marchiati entrambi. Imprimete pure un segno su ciascuno, se volete, ma non punite l’uno e lasciate andare libero l’altro. Non abbiate una legge per gli uomini e un’altra per le donne. In Inghilterra siete ingiusti verso le donne. E finché non riterrete infamia in un uomo ciò che è vergogna in una donna, sarete sempre ingiusti, e il Bene, quella colonna di [[motifs/fire\|fuoco]], e il Male, quella colonna di nube, si faranno oscuri ai vostri occhi, o non si vedranno affatto, o, se pur visti, non saranno considerati |
-| LADY CAROLINE | Potrei, cara Miss Worsley, giacché è in piedi, chiederle il mio cotone che sta proprio dietro di lei? Grazie. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara signora Arbuthnot! Sono così contenta che sia venuta. Ma non l’ho sentita annunciare. |
-| MRS | ALLONBY. Oh, sono entrata direttamente dalla terrazza, Lady<br>Hunstanton, così com’ero. Non mi aveva detto che aveva ospiti. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Non ospiti. Solo poche persone che alloggiano in casa e che deve assolutamente conoscere. Permetta. [Cerca di aiutarla. Suona il campanello.] Caroline, questa è la signora Arbuthnot, una delle mie amiche più care. Lady Caroline Pontefract, Lady Stutfield, la signora Allonby, e la mia giovane amica americana, Miss Worsley, che stava giusto spiegandoci quanto siamo malvagi. |
-| HESTER | Temo che lei pensi che io abbia parlato con troppa durezza, Lady<br>Hunstanton. Ma ci sono certe cose in Inghilterra - |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara signorina, c’era molta [[concepts/truth\|verità]], oserei dire, in quel che ha detto, ed era molto graziosa mentre lo diceva, il che è assai più importante, direbbe [[characters/lord-illingworth\|Lord Illingworth]]. L’unico punto in cui mi è parsa un po’ dura riguardava il fratello di Lady Caroline, il povero Lord Henry. È davvero una compagnia tanto piacevole. |
 
 
 
@@ -1193,28 +724,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, yes. That would be the last Earl but one. He was a very curious man. He wanted to marry beneath him. Or wouldn’t, I believe. There was some scandal about it. The present [[characters/lord-illingworth\|Lord Illingworth]] is quite different. He is very distinguished. He does - [[motifs/well\|well]], he does nothing, which I am afraid our pretty American visitor here thinks very wrong of anybody, and I don’t know that he cares much for the subjects in which you are so interested, dear Mrs. Arbuthnot. Do you think, Caroline, that [[characters/lord-illingworth\|Lord Illingworth]] is interested in the Housing of the Poor? |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | [Entra il Valletto.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Prendi le cose della signora Arbuthnot. |
-| *(didascalia)* | [Esce il Valletto con gli indumenti.] |
-| HESTER | Lady Caroline, non avevo idea che fosse suo fratello. Mi dispiace per il [[motifs/pain\|dolore]] che devo averle causato - io - |
-| LADY CAROLINE | Mia cara Miss Worsley, l’unica parte del suo piccolo discorso, se così posso chiamarlo, con cui sono stata pienamente d’accordo era proprio quella su mio fratello. Nulla che lei potesse dire sarebbe troppo severo per lui. Considero Henry un infame, un infame assoluto. Ma devo pur dire, come osservavi tu, Jane, che è una compagnia eccellente, e che ha uno dei migliori cuochi di [[settings/london\|Londra]]; e dopo un buon pranzo si può perdonare chiunque, perfino i propri parenti.<br>[[characters/lady-hunstanton\|LADY HUNSTANTON]] [a MISS WORSLEY] Su, venga, cara, e faccia amicizia con la signora Arbuthnot. È una di quelle persone buone, dolci e semplici che, a suo dire, noi non ammettiamo mai in società. Mi dispiace dire che la signora Arbuthnot viene da me molto di rado. Ma non è colpa mia. |
-| MRS | ALLONBY. Che noia che gli uomini si trattengano così a lungo dopo cena! Scommetto che stanno dicendo di noi le cose più spaventose. |
-| LADY STUTFIELD | Lo crede davvero? |
-| MRS | ALLONBY. Ne ero certa. |
-| LADY STUTFIELD | Che cosa molto, molto odiosa da parte loro! Andiamo sulla terrazza? |
-| MRS | ALLONBY. Oh, qualunque cosa pur di scappare dalle vedove nobili e dalle sciattone. [Si alza e va con LADY STUTFIELD alla porta di sinistra.] Andiamo solo a guardare le [[motifs/stars\|stelle]], [[characters/lady-hunstanton\|Lady Hunstanton]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ne troverete moltissime, cara, moltissime.<br>Ma non prendete freddo. [A MRS. ARBUTHNOT.] Ci mancherà tanto<br>Gerald, cara signora Arbuthnot. |
-| MRS | ARBUTHNOT. Ma [[characters/lord-illingworth\|Lord Illingworth]] si è davvero offerto di prendere<br>Gerald come segretario? |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Oh, sì! È stato incantevole in proposito. Ha la più alta opinione possibile del suo ragazzo. Lei non conosce [[characters/lord-illingworth\|Lord Illingworth]], mi pare, cara. |
-| MRS | ARBUTHNOT. Non l’ho mai incontrato. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Lo conoscerà di nome, senza [[concepts/doubt\|dubbio]]? |
-| MRS | ARBUTHNOT. Temo di no. Vivo tanto fuori dal mondo, e vedo così poche persone. Ricordo di aver sentito parlare anni fa di un vecchio [[characters/lord-illingworth\|Lord Illingworth]] che viveva nello Yorkshire, mi pare. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, sì. Dev’essere il penultimo Conte. Era un uomo molto curioso. Voleva sposare al di sotto del suo rango. O non volle, credo. Ci fu uno scandalo, in proposito. L’attuale [[characters/lord-illingworth\|Lord Illingworth]] è tutt’altra cosa. È molto distinto. Fa - [[motifs/well\|beh]], non fa nulla, il che temo che la nostra graziosa ospite americana giudichi molto riprovevole in chiunque; e non so se gli importi molto degli argomenti a cui lei si interessa tanto, cara signora Arbuthnot. Credi, Caroline, che [[characters/lord-illingworth\|Lord Illingworth]] si interessi degli Alloggi per i Poveri? |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_11" data-title="A Woman of No Importance — Act 2 [11]" data-chapter="part 11" data-kind="excerpt" data-tags="motif/time,setting/court,setting/london,character/arthur,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -1235,23 +744,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. [[characters/lady-hunstanton\|Lady Hunstanton]], I want to speak to Gerald at once. Might I see him? Can he be sent for? |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Certainly, dear. I will send one of the servants into the dining-room to fetch him. I don’t know what keeps the gentlemen so long. [Rings bell.] When I knew [[characters/lord-illingworth\|Lord Illingworth]] first as plain George Harford, he was simply a very brilliant young man about town, with not a penny of money except what poor dear Lady Cecilia gave him. She was quite devoted to him. Chiefly, I fancy, because he was on bad terms with his father. Oh, here is the dear Archdeacon. [To Servant.] It doesn’t matter.<br>[Enter SIR JOHN and DOCTOR DAUBENY. SIR JOHN goes over to LADY<br>STUTFIELD, DOCTOR DAUBENY to [[characters/lady-hunstanton\|LADY HUNSTANTON]].]<br>THE ARCHDEACON. [[characters/lord-illingworth\|Lord Illingworth]] has been most entertaining. I have never enjoyed myself more. [Sees MRS. ARBUTHNOT.] Ah, Mrs. Arbuthnot. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| LADY CAROLINE | Immagino per nulla, Jane. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Abbiamo tutti gusti diversi, non è vero? Ma [[characters/lord-illingworth\|Lord Illingworth]] occupa una posizione altissima, e non c’è nulla che non potrebbe ottenere, se solo si decidesse a chiederlo. Certo, è ancora relativamente giovane, ed è entrato in possesso del titolo soltanto da - quanto è esattamente, Caroline, da quando [[characters/lord-illingworth\|Lord Illingworth]] è succeduto? |
-| LADY CAROLINE | Circa quattro anni, credo, Jane. So che fu lo stesso anno in cui mio fratello ebbe il suo ultimo scandalo sui giornali della sera. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, ricordo. Sarà stato circa quattro anni fa. Naturalmente c’erano moltissime persone fra l’attuale [[characters/lord-illingworth\|Lord Illingworth]] e il titolo, signora Arbuthnot. C’era - chi c’era, Caroline? |
-| LADY CAROLINE | C’era il bambino della povera Margaret. Ricordi quanto desiderava un maschio, e maschio fu, ma morì; e suo marito morì poco dopo, e lei sposò quasi subito uno dei figli di Lord Ascot, il quale, mi dicono, la picchia. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, è di famiglia, cara, è di famiglia. E c’era anche, ricordo, un ecclesiastico che voleva essere un pazzo, o un pazzo che voleva essere ecclesiastico, non ricordo quale dei due; ma so che la [[settings/court\|Corte]] di Cancelleria indagò sulla faccenda e stabilì che era perfettamente sano di mente. E lo vidi in seguito dal povero Lord Plumstead con la paglia fra i capelli, o qualcosa di molto strano addosso. Non riesco a ricordare che cosa. Rimpiango spesso, Lady Caroline, che la cara Lady Cecilia non abbia vissuto abbastanza per veder suo figlio ottenere il titolo. |
-| MRS | ARBUTHNOT. Lady Cecilia? |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | La madre di [[characters/lord-illingworth\|Lord Illingworth]], cara signora Arbuthnot, era una delle graziose figlie della Duchessa di Jerningham, e sposò Sir Thomas Harford, che a quel [[motifs/time\|tempo]] non fu considerato un ottimo partito per lei, benché lo dicessero l’uomo più bello di [[settings/london\|Londra]]. Li conoscevo tutti intimamente, e anche i due figli, [[characters/arthur\|Arthur]] e George. |
-| MRS | ARBUTHNOT. Fu il figlio maggiore a succedere, naturalmente,<br>[[characters/lady-hunstanton\|Lady Hunstanton]]? |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | No, cara, morì durante una caccia. O<br>fu pescando, Caroline? Non ricordo. Ma a George toccò<br>tutto. Gli dico sempre che nessun figlio cadetto ha mai avuto<br>una fortuna pari alla sua. |
-| MRS | ARBUTHNOT. [[characters/lady-hunstanton\|Lady Hunstanton]], ho bisogno di parlare a Gerald immediatamente. Potrei vederlo? Si può mandarlo a chiamare? |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Certamente, cara. Manderò uno dei domestici in sala da pranzo a cercarlo. Non so che cosa trattenga i signori così a lungo. [Suona il campanello.] Quando conobbi [[characters/lord-illingworth\|Lord Illingworth]], che allora era il semplice George Harford, era soltanto un giovane brillantissimo che viveva in società, senza un soldo tranne quelli che gli dava la povera cara Lady Cecilia. Gli era davvero devota. Soprattutto, immagino, perché lui era in cattivi rapporti col padre. Oh, ecco il caro Arcidiacono. [Al Domestico.] Non importa.<br>[Entrano SIR JOHN e il DOTTOR DAUBENY. SIR JOHN si dirige verso LADY<br>STUTFIELD, il DOTTOR DAUBENY verso [[characters/lady-hunstanton\|LADY HUNSTANTON]].]<br>L’ARCIDIACONO. [[characters/lord-illingworth\|Lord Illingworth]] è stato oltremodo divertente. Non mi sono mai divertito tanto. [Vede MRS. ARBUTHNOT.] Ah, signora Arbuthnot. |
 
 
 
@@ -1284,33 +776,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | What a delightful mood you are in to-[[motifs/night\|night]]! [Turns round and goes across with GERALD to MRS. ARBUTHNOT. When he sees her, he starts back in [[concepts/wonder\|wonder]]. Then slowly his eyes turn towards GERALD.] |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [Al DOTTOR DAUBENY.] Vede che alla fine sono riuscita a far venire<br>da me la signora Arbuthnot.<br>L’ARCIDIACONO. È un grande [[concepts/honour\|onore]], [[characters/lady-hunstanton\|Lady Hunstanton]]. La signora<br>Daubeny sarà molto gelosa di lei. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, mi dispiace tanto che la signora Daubeny non sia potuta venire con lei [[motifs/night\|stasera]]. Emicrania, come al solito, suppongo.<br>L’ARCIDIACONO. Sì, [[characters/lady-hunstanton\|Lady Hunstanton]]; una vera martire. Ma è più felice quando è sola. È più felice sola. |
-| *(didascalia)* | [Al marito.] John! [SIR JOHN raggiunge la moglie. Il DOTTOR DAUBENY parla con [[characters/lady-hunstanton\|LADY HUNSTANTON]] e MRS. ARBUTHNOT.] |
-| *(didascalia)* | [MRS. ARBUTHNOT osserva [[characters/lord-illingworth\|LORD ILLINGWORTH]] per tutto il [[motifs/time\|tempo]]. Egli ha attraversato la stanza senza accorgersi di lei, e si avvicina a MRS. ALLONBY, che insieme a LADY STUTFIELD sta presso la porta guardando verso la terrazza.] |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Come sta la donna più affascinante del mondo? |
-| MRS | ALLONBY. [Prendendo per mano LADY STUTFIELD.] Stiamo entrambe [[motifs/well\|bene]], grazie, [[characters/lord-illingworth\|Lord Illingworth]]. Ma che poco [[motifs/time\|tempo]] è rimasto in sala da pranzo! Sembra che ce ne siamo andate solo un istante fa. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Mi annoiavo a [[motifs/death\|morte]]. Non ho aperto bocca per tutto il [[motifs/time\|tempo]]. [[concepts/longing\|Smaniavo]] letteralmente di raggiungervi. |
-| MRS | ALLONBY. Avrebbe dovuto. La ragazza americana ci ha fatto una conferenza. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Davvero? Tutti gli americani fanno conferenze, mi pare. Suppongo dipenda dal loro clima. Su che cosa verteva la conferenza? |
-| MRS | ALLONBY. Oh, sul [[historical-references/puritanism\|puritanesimo]], naturalmente. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ho intenzione di convertirla, non è vero? Quanto tempo mi dà? |
-| MRS | ALLONBY. Una settimana. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Una settimana è più che sufficiente. |
-| *(didascalia)* | [Entrano GERALD e LORD ALFRED.] |
-| GERALD | [Andando verso MRS. ARBUTHNOT.] Cara madre! |
-| MRS | ARBUTHNOT. Gerald, non mi sento affatto [[motifs/well\|bene]]. Accompagnami a [[motifs/home\|casa]],<br>Gerald. Non sarei dovuta venire. |
-| GERALD | Mi dispiace tanto, madre. Certamente. Ma prima devi conoscere Lord<br>Illingworth. [Attraversa la stanza.] |
-| MRS | ARBUTHNOT. Non [[motifs/night\|stasera]], Gerald. |
-| GERALD | [[characters/lord-illingworth\|Lord Illingworth]], desidero tanto che lei conosca mia madre. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Con grandissimo piacere. [A MRS. ALLONBY.] Torno fra un istante. Le madri altrui mi annoiano sempre a [[motifs/death\|morte]]. Tutte le donne finiscono col somigliare alle loro madri. È questa la loro [[forms/tragedy\|tragedia]]. |
-| MRS | ALLONBY. Nessun uomo lo fa. È questa la sua. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che umore delizioso ha [[motifs/night\|stasera]]! [Si volta e attraversa la stanza con GERALD verso MRS. ARBUTHNOT. Quando la vede, indietreggia [[concepts/wonder\|stupefatto]]. Poi lentamente gli occhi gli si volgono verso GERALD.] |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_13" data-title="A Woman of No Importance — Act 2 [13]" data-chapter="part 13" data-kind="excerpt" data-tags="motif/home,concept/hope,setting/oxford,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -1336,28 +801,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Caroline, shall we all make a move to the music- room? Miss Worsley is going to play. You’ll come too, dear Mrs. Arbuthnot, won’t you? You don’t know what a treat is in store for you. [To DOCTOR DAUBENY.] I must really take Miss Worsley down some afternoon to the rectory. I should so much like dear Mrs. Daubeny to hear her on the violin. Ah, I forgot. Dear Mrs. Daubeny’s hearing is a little defective, is it not?<br>THE ARCHDEACON. Her deafness is a great privation to her. She can’t even hear my sermons now. She reads them at [[motifs/home\|home]]. But she has many resources in herself, many resources. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | She reads a good deal, I suppose?<br>THE ARCHDEACON. Just the very largest print. The eyesight is rapidly going. But she’s never morbid, never morbid. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| GERALD | Madre, questi è [[characters/lord-illingworth\|Lord Illingworth]], che si è offerto di prendermi come segretario particolare. [MRS. ARBUTHNOT s’inchina freddamente.] È un’occasione meravigliosa per me, non è vero? [[concepts/hope\|Spero]] soltanto che non resti deluso di me, ecco tutto. Ringrazierai [[characters/lord-illingworth\|Lord Illingworth]], madre, non è vero? |
-| MRS | ARBUTHNOT. [[characters/lord-illingworth\|Lord Illingworth]] è molto buono, ne sono certa, a interessarsi a te per il momento. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [Posando la mano sulla spalla di GERALD.] Oh,<br>Gerald e io siamo già grandi amici, signora . . . Arbuthnot. |
-| MRS | ARBUTHNOT. Non ci può essere nulla in comune fra lei e mio figlio, [[characters/lord-illingworth\|Lord Illingworth]]. |
-| GERALD | Cara madre, come puoi dire una cosa simile? Certo che [[characters/lord-illingworth\|Lord Illingworth]] è terribilmente intelligente e tutto il resto. Non c’è nulla che [[characters/lord-illingworth\|Lord Illingworth]] non sappia. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Mio caro ragazzo! |
-| GERALD | Ne sa di vita più di chiunque io abbia mai conosciuto. Mi sento un terribile buono a nulla quando sono con lei, [[characters/lord-illingworth\|Lord Illingworth]]. Certo, ho avuto così pochi vantaggi. Non sono stato a Eton o a [[settings/oxford\|Oxford]] come gli altri ragazzi. Ma a [[characters/lord-illingworth\|Lord Illingworth]] pare che non importi. È stato terribilmente buono con me, madre. |
-| MRS | ARBUTHNOT. [[characters/lord-illingworth\|Lord Illingworth]] potrebbe cambiare idea. Potrebbe non volerti davvero come segretario. |
-| GERALD | Madre! |
-| MRS | ARBUTHNOT. Devi ricordare, come hai detto tu stesso, che hai avuto ben pochi vantaggi. |
-| MRS | ALLONBY. [[characters/lord-illingworth\|Lord Illingworth]], vorrei parlarle un momento. Venga qui. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Vuole scusarmi, signora Arbuthnot? Su, non lasci che la sua incantevole madre sollevi altre difficoltà, Gerald. La cosa è del tutto decisa, non è vero? |
-| GERALD | [[concepts/hope\|Lo spero]]. [[[characters/lord-illingworth\|LORD ILLINGWORTH]] attraversa la stanza verso MRS.<br>ARBUTHNOT.] |
-| MRS | ALLONBY. Credevo che non si sarebbe mai staccato dalla signora in velluto nero. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È straordinariamente bella. [Guarda MRS.<br>ARBUTHNOT.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Caroline, ci spostiamo tutti nella sala della musica? Miss Worsley suonerà. Verrà anche lei, cara signora Arbuthnot, non è vero? Non sa che delizia l’aspetta. [Al DOTTOR DAUBENY.] Devo proprio portare Miss Worsley al presbiterio, un pomeriggio. Mi piacerebbe tanto che la cara signora Daubeny la sentisse al violino. Ah, dimenticavo. L’udito della cara signora Daubeny è un po’ difettoso, non è vero?<br>L’ARCIDIACONO. La sordità è per lei una grande privazione. Ora non riesce più a sentire nemmeno i miei sermoni. Li legge a [[motifs/home\|casa]]. Ma ha molte risorse in se stessa, molte risorse. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Legge molto, suppongo?<br>L’ARCIDIACONO. Soltanto i caratteri più grandi. La vista se ne va rapidamente. Ma non è mai cupa, mai cupa. |
 
 
 
@@ -1387,30 +830,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. When a man is old enough to do wrong he should be old enough to do right also. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| GERALD | [A [[characters/lord-illingworth\|LORD ILLINGWORTH]].] Parli con mia madre, [[characters/lord-illingworth\|Lord Illingworth]], prima di andare nella sala della musica. Le pare, chissà perché, che lei non intenda davvero ciò che mi ha detto. |
-| MRS | ALLONBY. Non viene? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Fra pochi istanti. [[characters/lady-hunstanton\|Lady Hunstanton]], se la signora Arbuthnot me lo permette, vorrei dirle due parole, e vi raggiungeremo più tardi. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, certamente. Avrà molte cose da dirle, e lei avrà molte cose per cui ringraziarla. Non a ogni figlio capita un’offerta simile, signora Arbuthnot. Ma so che lei lo apprezza, cara. |
-| LADY CAROLINE | John! |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Su, non trattenga troppo a lungo la signora Arbuthnot, Lord<br>Illingworth. Non possiamo farne a meno. |
-| *(didascalia)* | [Esce seguendo gli altri ospiti. Si ode un violino dalla sala della musica.] |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Dunque quello è nostro figlio, Rachel! [[motifs/well\|Ebbene]], ne sono molto fiero. È un Harford in ogni fibra. A proposito, perché Arbuthnot, Rachel? |
-| MRS | ARBUTHNOT. Un nome vale l’altro, quando non si ha diritto ad alcun nome. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Immagino di sì - ma perché Gerald? |
-| MRS | ARBUTHNOT. Dal nome di un uomo a cui spezzai il cuore: da mio padre. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [[motifs/well\|Ebbene]], Rachel, ciò che è passato è passato. Tutto quel che ho da dire adesso è che sono molto, molto contento del nostro ragazzo. Il mondo lo conoscerà semplicemente come il mio segretario particolare, ma per me sarà qualcosa di molto vicino e di molto caro. È strano, Rachel: la mia vita mi pareva del tutto compiuta. Non lo era. Le mancava qualcosa, le mancava un figlio. Ora ho trovato mio figlio, e sono lieto di averlo trovato. |
-| MRS | ARBUTHNOT. Non hai alcun diritto di reclamarlo, né lui né la più piccola parte di lui. Il ragazzo è interamente mio, e mio resterà. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Mia cara Rachel, l’hai avuto tutto per te per più di vent’anni. Perché non lasciarlo un poco a me, adesso? È mio quanto tuo. |
-| MRS | ARBUTHNOT. Parli del [[archetypes/child\|figlio]] che hai abbandonato? Del [[archetypes/child\|figlio]] che, per quanto ti riguardava, avrebbe potuto morire di fame e di stenti? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Dimentichi, Rachel, che fosti tu a lasciare me. Non fui io a lasciare te. |
-| MRS | ARBUTHNOT. Ti lasciai perché rifiutasti di dare un nome al [[archetypes/child\|bambino]]. Prima che mio figlio nascesse, ti supplicai di sposarmi. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Allora non avevo aspettative. E d’altronde,<br>Rachel, non ero molto più vecchio di te. Avevo appena ventidue anni.<br>Ne avevo ventuno, credo, quando tutto cominciò nel<br>[[motifs/garden\|giardino]] di tuo padre. |
-| MRS | ARBUTHNOT. Quando un uomo è abbastanza grande per fare il male, dovrebbe essere abbastanza grande anche per fare il bene. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_15" data-title="A Woman of No Importance — Act 2 [15]" data-chapter="part 15" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/time,concept/longing,concept/suffering,setting/paris,character/lord_illingworth"></span>
@@ -1432,24 +851,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. He was not discontented till he met you. You have made him so. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Of course, I made him so. Discontent is the first step in the progress of a man or a nation. But I did not leave him with a mere [[concepts/longing\|longing]] for things he could not get. No, I made him a charming offer. He jumped at it, I need hardly say. Any young man would. And now, simply because it turns out that I am the boy’s own father and he my own son, you propose practically to ruin his career. That is to say, if I were a perfect stranger, you would allow Gerald to go away with me, but as he is my own flesh and [[motifs/blood\|blood]] you won’t. How utterly illogical you are! |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Mia cara Rachel, le generalità intellettuali sono sempre interessanti, ma le generalità in fatto di morale non significano assolutamente nulla. Quanto a dire che ho lasciato morire di fame nostro [[archetypes/child\|figlio]], questo, s’intende, è falso e sciocco. Mia madre ti offrì seicento sterline l’anno. Ma tu non volesti accettare nulla. Semplicemente scomparisti, e ti portasti via il [[archetypes/child\|bambino]]. |
-| MRS | ARBUTHNOT. Non avrei accettato un soldo da lei. Tuo padre era diverso. Ti disse, in mia presenza, quando eravamo a [[settings/paris\|Parigi]], che era tuo dovere sposarmi. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Oh, il dovere è ciò che si pretende dagli altri, non ciò che si fa in prima persona. Certo, subivo l’influenza di mia madre. La subiscono tutti gli uomini, da giovani. |
-| MRS | ARBUTHNOT. Sono lieta di sentirtelo dire. Gerald non partirà certamente con te. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che sciocchezza, Rachel! |
-| MRS | ARBUTHNOT. Credi che permetterei a mio figlio - |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | NOSTRO figlio. |
-| MRS | ARBUTHNOT. A mio figlio [[[characters/lord-illingworth\|LORD ILLINGWORTH]] scrolla le spalle] - di partire con l’uomo che mi ha guastato la giovinezza, che mi ha rovinato la vita, che ha contaminato ogni istante dei miei giorni? Tu non ti rendi conto di che cosa sia stato il mio passato in fatto di [[concepts/suffering\|sofferenza]] e di vergogna. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Mia cara Rachel, devo dirti francamente che ritengo<br>l’avvenire di Gerald considerevolmente più importante del tuo passato. |
-| MRS | ARBUTHNOT. Gerald non può separare il suo avvenire dal mio passato. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È esattamente ciò che dovrebbe fare. È esattamente ciò che tu dovresti aiutarlo a fare. Che donna tipica sei! Parli con sentimento, e per tutto il [[motifs/time\|tempo]] sei profondamente egoista. Ma non facciamo scene. Rachel, voglio che tu guardi a questa faccenda dal punto di vista del buon senso, dal punto di vista di ciò che è meglio per nostro figlio, lasciando fuori te e me. Che cos’è nostro figlio attualmente? Un impiegato mal pagato in una piccola banca di provincia, in una cittadina inglese di terz’ordine. Se immagini che sia del tutto felice in una simile posizione, ti sbagli. È profondamente scontento. |
-| MRS | ARBUTHNOT. Non era scontento prima di conoscerti. Sei stato tu a renderlo tale. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Certo che sono stato io. Lo scontento è il primo passo nel progresso di un uomo o di una nazione. Ma non l’ho lasciato con un semplice [[concepts/longing\|desiderio]] di cose che non poteva ottenere. No, gli ho fatto un’offerta incantevole. L’ha afferrata al volo, va da sé. Qualunque giovane lo farebbe. E adesso, semplicemente perché si scopre che io sono il padre del ragazzo e lui è mio figlio, tu ti proponi praticamente di rovinargli la carriera. Vale a dire: se io fossi un perfetto estraneo, lasceresti che Gerald partisse con me, ma poiché è la mia stessa carne e il mio stesso [[motifs/blood\|sangue]], non vuoi. Come sei totalmente illogica! |
 
 
 
@@ -1477,28 +878,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | I don’t wish to seem to interfere for a moment, Mrs. Arbuthnot, but as far as your last objection is concerned, I surely am the best judge. And I can only tell you that your son has all the qualifications I had hoped for. He has more, in fact, than I had even thought of. Far more. [MRS. ARBUTHNOT remains silent.] Have you any other reason, Mrs. Arbuthnot, why you don’t wish your son to accept this post? |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. Non gli permetterò di andare. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | E come potrai impedirlo? Che scusa potrai dargli per fargli rifiutare un’offerta come la mia? Non gli dirò in che rapporti sto con lui, va da sé. Ma tu non oserai dirglielo. Lo sai. Guarda come l’hai allevato. |
-| MRS | ARBUTHNOT. L’ho allevato perché fosse un uomo buono. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Appunto. E qual è il risultato? L’hai educato a essere il tuo giudice, se mai ti scoprirà. E sarà per te un giudice amaro e ingiusto. Non illuderti, Rachel. I figli cominciano con l’amare i genitori. Col [[motifs/time\|tempo]] li giudicano. Di rado, se mai accade, li perdonano. |
-| MRS | ARBUTHNOT. George, non portarmi via mio figlio. Ho avuto vent’anni di dolore, e ho avuto una cosa sola che mi [[motifs/love\|amasse]], una cosa sola da [[motifs/love\|amare]]. Tu hai avuto una vita di gioia, di piacere e di successo. Sei stato perfettamente felice, non hai mai pensato a noi. Non c’era ragione, secondo le tue idee sulla vita, perché tu ci ricordassi affatto. L’averci incontrati è stato un puro caso, un caso orribile. Dimenticalo. Non venire adesso a derubarmi di . . . di tutto ciò che ho al mondo. Tu sei così ricco d’altre cose. Lasciami la piccola vigna della mia vita; lasciami il [[motifs/garden\|giardino]] cintato e il [[motifs/well\|pozzo]] d’[[motifs/water\|acqua]]; l’[[motifs/lamb\|agnella]] che Dio mi mandò, per pietà o per ira, oh! lasciami quella. George, non portarmi via Gerald. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Rachel, in questo momento tu non sei necessaria alla carriera di Gerald; lo sono io. Non c’è altro da dire in proposito. |
-| MRS | ARBUTHNOT. Non lo lascerò andare. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ecco Gerald. Ha diritto di decidere da sé. |
-| *(didascalia)* | [Entra GERALD.] |
-| GERALD | [[motifs/well\|Allora]], cara madre, [[concepts/hope\|spero]] che tu abbia sistemato ogni cosa con<br>[[characters/lord-illingworth\|Lord Illingworth]]? |
-| MRS | ARBUTHNOT. No, Gerald. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | A sua madre pare non piaccia che lei venga con me, chissà per quale ragione. |
-| GERALD | Perché, madre? |
-| MRS | ARBUTHNOT. Credevo che fossi perfettamente felice qui con me,<br>Gerald. Non sapevo che avessi tanta smania di lasciarmi. |
-| GERALD | Madre, come puoi parlare così? Certo che sono stato felice con te. Ma un uomo non può restare per sempre con sua madre. Nessun ragazzo lo fa. Voglio farmi una posizione, fare qualcosa. Credevo che saresti stata fiera di vedermi segretario di [[characters/lord-illingworth\|Lord Illingworth]]. |
-| MRS | ARBUTHNOT. Non credo che tu saresti adatto come segretario particolare di [[characters/lord-illingworth\|Lord Illingworth]]. Non ne hai i requisiti. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non vorrei parere che m’intrometto neppure per un istante, signora Arbuthnot, ma per quanto riguarda la sua ultima obiezione, il miglior giudice sono io di certo. E posso solo dirle che suo figlio possiede tutti i requisiti che speravo. Ne ha di più, in verità, di quanti avessi persino immaginato. Molti di più. [MRS. ARBUTHNOT resta in silenzio.] Ha qualche altra ragione, signora Arbuthnot, per non desiderare che suo figlio accetti questo posto? |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_17" data-title="A Woman of No Importance — Act 2 [17]" data-chapter="part 17" data-kind="excerpt" data-tags="character/lord_illingworth"></span>
@@ -1515,19 +894,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | *(didascalia)* | [Exit with GERALD. MRS. ARBUTHNOT is left alone. She stands immobile with a look of unutterable sorrow on her face.] |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | ACT DROP |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| GERALD | Ce l’hai, madre? Rispondi, ti prego. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Se ce l’ha, signora Arbuthnot, la dica, la dica, la prego. Qui siamo del tutto soli. Qualunque cosa sia, non occorre che io dica che non la ripeterò. |
-| GERALD | Madre? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Se desidera restare sola con suo figlio, mi ritiro. Può darsi che abbia qualche altra ragione che non desidera farmi udire. |
-| MRS | ARBUTHNOT. Non ho altra ragione. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Allora, mio caro ragazzo, possiamo considerare la cosa decisa. Venga, andiamo a fumare insieme una sigaretta sulla terrazza. E lei, signora Arbuthnot, mi permetta di dirle che ritengo che abbia agito molto, molto saggiamente. |
-| *(didascalia)* | [Esce con GERALD. MRS. ARBUTHNOT resta sola. Sta immobile, con un’espressione di dolore indicibile sul volto.] |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | CALA IL SIPARIO |
 
 
 
@@ -1556,29 +922,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | [Slowly.] I suppose there is. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | SCENA<br>La Galleria dei Quadri a Hunstanton. Porta in fondo che dà sulla terrazza. |
-| *(didascalia)* | [[[characters/lord-illingworth\|LORD ILLINGWORTH]] e GERALD, a destra al centro. [[characters/lord-illingworth\|LORD ILLINGWORTH]] sdraiato su un divano. GERALD su una sedia.] |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Donna di grandissimo buon senso, sua madre, Gerald.<br>Sapevo che alla fine si sarebbe arresa. |
-| GERALD | Mia madre è terribilmente scrupolosa, [[characters/lord-illingworth\|Lord Illingworth]], e<br>so che non mi ritiene abbastanza istruito per farle da segretario.<br>E ha perfettamente ragione. A scuola ero di una pigrizia spaventosa,<br>e oggi non passerei un esame nemmeno per salvarmi la vita. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Mio caro Gerald, gli esami non hanno il minimo valore. Se un uomo è un gentiluomo, sa già abbastanza; e se non è un gentiluomo, tutto ciò che sa gli fa male. |
-| GERALD | Ma io ignoro tutto del mondo, [[characters/lord-illingworth\|Lord Illingworth]]. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non abbia timore, Gerald. Ricordi che ha dalla sua parte la cosa più meravigliosa del mondo: la giovinezza! Non c’è nulla come la giovinezza. Gli uomini di mezza età sono ipotecati alla Vita. I vecchi stanno nel ripostiglio della vita. Ma la giovinezza è il Signore della Vita. Alla giovinezza un regno sta in attesa. Ognuno nasce [[archetypes/king\|re]], e i più muoiono in [[concepts/exile\|esilio]], come i più fra i re. Per riconquistare la mia giovinezza, Gerald, non c’è nulla che non farei - tranne fare moto, alzarmi presto, o rendermi un membro utile della comunità. |
-| GERALD | Ma lei non si definisce vecchio, [[characters/lord-illingworth\|Lord Illingworth]]? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Sono abbastanza vecchio da poter essere suo padre, Gerald. |
-| GERALD | Non ricordo mio padre; è morto anni fa. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Così mi ha detto [[characters/lady-hunstanton\|Lady Hunstanton]]. |
-| GERALD | È molto curioso: mia madre non mi parla mai di mio padre. Qualche volta penso che debba aver sposato un uomo di condizione inferiore alla sua. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [Trasalisce leggermente.] Davvero? [Si avvicina e posa la mano sulla spalla di GERALD.] Le è mancato non avere un padre, immagino, Gerald? |
-| GERALD | Oh, no; mia madre è stata così buona con me. Nessuno ha mai avuto una madre come la mia. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ne sono più che certo. Eppure immagino che le madri, in generale, non capiscano davvero i loro figli. Non si rendano conto, voglio dire, che un figlio ha delle ambizioni, un [[motifs/desire\|desiderio]] di vedere la vita, di farsi un nome. Dopo tutto, Gerald, non si può pretendere che lei passi l’intera esistenza in un buco come Wrockley, no? |
-| GERALD | Oh, no! Sarebbe spaventoso! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | L’[[motifs/love\|amore]] di una madre è commovente, certo, ma è spesso curiosamente egoista. Voglio dire: c’è dentro una buona dose di egoismo. |
-| GERALD | [Lentamente.] Suppongo di sì. |
-
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_02" data-title="A Woman of No Importance — Act 3 [2]" data-chapter="part 02" data-kind="excerpt" data-tags="motif/well,form/tragedy,setting/london,character/lord_illingworth"></span>
@@ -1602,26 +945,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | It is very difficult to understand women, is it not? |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | You should never try to understand them. Women are pictures. Men are problems. If you want to know what a woman really means - which, by the way, is always a dangerous thing to do - look at her, don’t listen to her. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Sua madre è una donna assolutamente buona. Ma le donne buone hanno vedute così limitate sulla vita, il loro orizzonte è così stretto, i loro interessi così meschini, non è vero? |
-| GERALD | Certo, si appassionano terribilmente a cose che a noi importano poco. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Immagino che sua madre sia molto religiosa, e cose del genere. |
-| GERALD | Oh, sì, è sempre in chiesa. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ah! non è moderna; ed essere moderni è l’unica cosa che valga la pena d’essere, oggigiorno. Lei vuole essere moderno, non è vero, Gerald? Vuole conoscere la vita com’è realmente. Non lasciarsi mettere a tacere con vecchie teorie sulla vita. [[motifs/well\|Del resto]], quel che deve fare adesso è semplicemente rendersi adatto alla migliore società. Un uomo che sappia dominare una tavola di [[settings/london\|Londra]] può dominare il mondo. Il futuro appartiene al dandy. Saranno gli squisiti a governare. |
-| GERALD | Mi piacerebbe moltissimo vestire cose belle, ma mi hanno sempre detto che un uomo non deve pensare troppo ai propri abiti. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | La gente, oggigiorno, è così assolutamente superficiale da non comprendere la filosofia del superficiale. A proposito, Gerald, dovrebbe imparare ad annodare meglio la cravatta. Il sentimento va [[motifs/well\|benissimo]] per l’occhiello. Ma per una cravatta la cosa essenziale è lo stile. Una cravatta [[motifs/well\|ben]] annodata è il primo passo serio nella vita. |
-| GERALD | [Ridendo.] Forse riuscirò a imparare ad annodare una cravatta, [[characters/lord-illingworth\|Lord Illingworth]], ma non riuscirò mai a parlare come parla lei. Io non so parlare. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Oh! parli a ogni donna come se l’amasse, e a ogni uomo come se la annoiasse, e alla fine della sua prima stagione avrà fama di possedere il più perfetto tatto mondano. |
-| GERALD | Ma è molto difficile entrare in società, non è vero? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Per entrare nella migliore società, oggigiorno, bisogna o sfamare la gente, o divertirla, o scandalizzarla - tutto qui! |
-| GERALD | Immagino che la società sia meravigliosamente deliziosa! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Esservi dentro è soltanto una noia. Ma restarne fuori è semplicemente una [[forms/tragedy\|tragedia]]. La società è una cosa necessaria. Nessun uomo ottiene un vero successo a questo mondo se non ha le donne a sostenerlo, e sono le donne a governare la società. Se non ha le donne dalla sua parte, lei è bell’e finito. Potrebbe [[motifs/well\|benissimo]] farsi senz’altro avvocato, o agente di cambio, o giornalista. |
-| GERALD | È molto difficile capire le donne, non è vero? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non deve mai provare a capirle. Le donne sono quadri. Gli uomini sono problemi. Se vuole sapere che cosa una donna intenda davvero - il che, fra parentesi, è sempre pericoloso - la guardi, non la ascolti. |
 
 
 
@@ -1654,33 +977,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | That is my family name. You should study the Peerage, Gerald. It is the one book a young man about town should know thoroughly, and it is the best thing in fiction the English have ever done. And now, Gerald, you are going into a perfectly new life with me, and I want you to know how to live. [MRS. ARBUTHNOT appears on terrace behind.] For the world has been made by fools that wise men should live in it! |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| GERALD | Ma le donne sono terribilmente intelligenti, non è vero? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Bisogna sempre dirglielo. Ma per il filosofo, mio caro Gerald, le donne rappresentano il trionfo della materia sullo spirito - così come gli uomini rappresentano il trionfo dello spirito sulla morale. |
-| GERALD | E allora come possono le donne avere tanto potere quanto lei dice che ne abbiano? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | La [[concepts/history\|storia]] delle donne è la [[concepts/history\|storia]] della peggior forma di tirannia che il mondo abbia mai conosciuto. La tirannia dei deboli sui forti. È l’unica tirannia che duri. |
-| GERALD | Ma le donne non esercitano un’influenza raffinatrice? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Nulla raffina se non l’intelletto. |
-| GERALD | Eppure ci sono molti tipi diversi di donne, non è vero? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Soltanto due tipi, in società: le scialbe e le dipinte. |
-| GERALD | Ma in società ci sono donne buone, non è vero? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Fin troppe. |
-| GERALD | Ma lei pensa che le donne non dovrebbero essere buone? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non bisogna mai dirglielo: diventerebbero tutte buone all’istante. Le donne sono un sesso affascinantemente ostinato. Ogni donna è una [[archetypes/rebel\|ribelle]], e di solito in selvaggia rivolta contro sé stessa. |
-| GERALD | Lei non si è mai sposato, [[characters/lord-illingworth\|Lord Illingworth]], non è vero? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Gli uomini si sposano perché sono stanchi; le donne perché sono curiose. Entrambi restano delusi. |
-| GERALD | Ma non crede che si possa essere felici, da sposati? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Perfettamente felici. Ma la felicità di un uomo sposato, mio caro Gerald, dipende dalle persone che non ha sposato. |
-| GERALD | Ma se si è [[motifs/love\|innamorati]]? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Bisognerebbe essere sempre [[motifs/love\|innamorati]]. È questa la ragione per cui non ci si dovrebbe mai sposare. |
-| GERALD | L’[[motifs/love\|amore]] è una cosa meravigliosa, non è vero? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Quando si è [[motifs/love\|innamorati]] si comincia con l’ingannare sé stessi. E si finisce con l’ingannare gli altri. È ciò che il mondo chiama una storia d’amore. Ma una vera GRANDE PASSION è cosa relativamente rara, oggigiorno. È il privilegio di chi non ha nulla da fare. È l’unica utilità delle classi oziose in un paese, e l’unica spiegazione possibile di noi Harford. |
-| GERALD | Harford, [[characters/lord-illingworth\|Lord Illingworth]]? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È il mio nome di famiglia. Dovrebbe studiare il Peerage, Gerald. È l’unico libro che un giovane elegante debba conoscere a fondo, ed è la miglior opera di fantasia che gli inglesi abbiano mai prodotto. E ora, Gerald, lei sta per entrare con me in una vita del tutto nuova, e voglio che sappia vivere. [MRS. ARBUTHNOT compare sulla terrazza, in fondo.] Perché il mondo è stato fatto dagli sciocchi affinché i saggi vi potessero abitare! |
-
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_04" data-title="A Woman of No Importance — Act 3 [4]" data-chapter="part 04" data-kind="excerpt" data-tags="motif/well,concept/education,form/comedy,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -1700,22 +996,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah! that quite does for me. I haven’t a word to say. You and I, dear Mrs. Arbuthnot, are behind the age. We can’t follow [[characters/lord-illingworth\|Lord Illingworth]]. Too much care was taken with our [[concepts/education\|education]], I am afraid. To have been [[motifs/well\|well]] brought up is a great drawback nowadays. It shuts one out from so much. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | [Entrano da sinistra al centro [[characters/lady-hunstanton\|LADY HUNSTANTON]] e il DOTTOR DAUBENY.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah! eccola qui, caro [[characters/lord-illingworth\|Lord Illingworth]]. [[motifs/well\|Beh]], suppongo che abbia spiegato al nostro giovane amico Gerald quali saranno i suoi nuovi doveri, e che gli abbia dato una gran quantità di buoni consigli davanti a una piacevole sigaretta. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Gli ho dato i migliori consigli, Lady<br>Hunstanton, e le migliori sigarette. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mi dispiace tanto di non essere stata qui ad ascoltarla, ma suppongo di essere ormai troppo vecchia per imparare. Tranne che da lei, caro Arcidiacono, quando è sul suo bel pulpito. Ma allora so sempre in anticipo che cosa dirà, e dunque non mi allarmo. [Vede MRS. ARBUTHNOT.] Ah! cara signora Arbuthnot, venga a unirsi a noi. Venga, cara. [Entra MRS. ARBUTHNOT.] Gerald ha avuto una lunghissima conversazione con [[characters/lord-illingworth\|Lord Illingworth]]; sono certa che deve sentirsi molto lusingata per il modo piacevole in cui tutto si è risolto per lui. Sediamoci. [Si siedono.] E il suo bel ricamo, come procede? |
-| MRS | ARBUTHNOT. Sono sempre al lavoro, [[characters/lady-hunstanton\|Lady Hunstanton]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Anche la signora Daubeny ricama un poco, non è vero?<br>L’ARCIDIACONO. Un tempo era abilissima con l’ago, una vera Dorcas. Ma la gotta le ha storpiato non poco le dita. Non tocca il telaio da ricamo da nove o dieci anni. Ma ha molti altri svaghi. Si interessa moltissimo alla propria salute. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah! è sempre una piacevole distrazione, non è vero?<br>Ora, di che cosa sta parlando, [[characters/lord-illingworth\|Lord Illingworth]]? Ce lo dica. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ero sul punto di spiegare a Gerald che il mondo ha sempre riso delle proprie tragedie, essendo questo l’unico modo in cui è riuscito a sopportarle. E che, di conseguenza, tutto ciò che il mondo ha preso sul serio appartiene al versante della [[forms/comedy\|commedia]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ecco, ora ho perso il fondo. Mi succede sempre quando [[characters/lord-illingworth\|Lord Illingworth]] dice qualcosa. E la Società Umanitaria è quanto mai negligente: non mi ripescano mai. Mi lasciano affondare. Ho la vaga idea, caro [[characters/lord-illingworth\|Lord Illingworth]], che lei stia sempre dalla parte dei peccatori, e so che io cerco sempre di stare dalla parte dei santi, ma più in là di così non arrivo. E dopo tutto, potrebbe essere soltanto la fantasia di una persona che annega. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | L’unica differenza fra il santo e il peccatore è che ogni santo ha un passato, e ogni peccatore ha un futuro. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah! questo mi finisce del tutto. Non ho una parola da dire. Lei e io, cara signora Arbuthnot, siamo indietro rispetto ai tempi. Non riusciamo a star dietro a [[characters/lord-illingworth\|Lord Illingworth]]. Si è avuta troppa cura della nostra [[concepts/education\|educazione]], temo. Essere state allevate [[motifs/well\|bene]] è un grande svantaggio, oggigiorno: ci esclude da tante cose. |
 
 
 
@@ -1748,33 +1028,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Well]], it is very gratifying, dear Archdeacon, is it not, to find that Human [[concepts/nature\|Nature]] is permanently one. - On the whole, the world is the same world, is it not? |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. Mi dispiacerebbe seguire [[characters/lord-illingworth\|Lord Illingworth]] in una qualsiasi delle sue opinioni. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ha perfettamente ragione, cara. |
-| *(didascalia)* | [GERALD alza le spalle e guarda con irritazione verso la madre. Entra LADY CAROLINE.] |
-| LADY CAROLINE | Jane, hai visto John da qualche parte? |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Non stare in pena per lui, cara. È<br>con Lady Stutfield; li ho visti qualche [[motifs/time\|tempo]] fa, nel Salotto<br>Giallo. Sembrano felicissimi insieme. Non te ne andrai mica,<br>Caroline? Ti prego, siediti. |
-| LADY CAROLINE | Credo sia meglio che vada a occuparmi di John. |
-| *(didascalia)* | [Esce LADY CAROLINE.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Non conviene prestare tanta attenzione agli uomini. E Caroline non ha davvero nulla di cui preoccuparsi. Lady Stutfield è molto comprensiva. È comprensiva verso una cosa esattamente quanto lo è verso un’altra. Una bella [[concepts/nature\|natura]]. |
-| *(didascalia)* | [Entrano SIR JOHN e MRS. ALLONBY.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah! ecco Sir John! E anche con la signora Allonby! Suppongo che fosse la signora Allonby quella con cui l’ho visto. Sir John, Caroline la cercava dappertutto. |
-| MRS | ALLONBY. L’abbiamo aspettata nella Sala della Musica, cara<br>[[characters/lady-hunstanton\|Lady Hunstanton]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah! la Sala della Musica, naturalmente. Credevo fosse il Salotto Giallo; la mia [[motifs/memory\|memoria]] si sta facendo così difettosa. [All’ARCIDIACONO.] La signora Daubeny ha una [[motifs/memory\|memoria]] meravigliosa, non è vero?<br>L’ARCIDIACONO. Un tempo era davvero notevole per la sua [[motifs/memory\|memoria]], ma dopo l’ultimo attacco ricorda soprattutto gli avvenimenti della sua prima [[motifs/childhood\|infanzia]]. Trova però un gran piacere in queste rievocazioni, un gran piacere. |
-| *(didascalia)* | [Entrano LADY STUTFIELD e MR. KELVIL.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah! cara Lady Stutfield! E di che cosa le stava parlando il signor Kelvil? |
-| LADY STUTFIELD | Di bimetallismo, se ricordo [[motifs/well\|bene]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Bimetallismo! È proprio un bell’argomento?<br>Comunque, so che oggigiorno si discute di tutto con grandissima libertà.<br>E di che cosa le ha parlato Sir John, cara signora Allonby? |
-| MRS | ALLONBY. Della Patagonia. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Davvero? Che argomento remoto! Ma molto istruttivo, non ho alcun [[concepts/doubt\|dubbio]]. |
-| MRS | ALLONBY. È stato interessantissimo sul tema della Patagonia. Pare che i selvaggi abbiano esattamente le stesse vedute delle persone colte su quasi ogni argomento. Sono straordinariamente avanzati. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | E che cosa fanno? |
-| MRS | ALLONBY. A quanto pare, tutto. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Ebbene]], è molto consolante, caro Arcidiacono, non è vero, scoprire che la [[concepts/nature\|Natura]] Umana è immutabilmente una sola. - Nel complesso, il mondo è sempre lo stesso mondo, non è vero? |
-
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_06" data-title="A Woman of No Importance — Act 3 [6]" data-chapter="part 06" data-kind="excerpt" data-tags="motif/love,motif/nature,concept/doubt,concept/hope,concept/nature,concept/temptation,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -1805,32 +1058,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | All thought is immoral. Its very essence is destruction. If you think of anything, you kill it. Nothing survives being thought of. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Il mondo si divide semplicemente in due classi - quelli che credono all’incredibile, come il pubblico - e quelli che compiono l’improbabile - |
-| MRS | ALLONBY. Come lei? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Sì; stupisco continuamente me stesso. È l’unica cosa che renda la vita degna d’essere vissuta. |
-| LADY STUTFIELD | E che cosa ha fatto, di recente, che la stupisca? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ho scoperto ogni sorta di belle qualità nella mia stessa [[concepts/nature\|natura]]. |
-| MRS | ALLONBY. Ah! non diventi perfetto tutto in una volta. Lo faccia per gradi! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non ho la minima intenzione di diventare perfetto. O almeno, [[concepts/hope\|spero]] di no. Sarebbe assai scomodo. Le donne ci [[motifs/love\|amano]] per i nostri difetti. Se ne abbiamo abbastanza, ci perdonano tutto, perfino i nostri intelletti giganteschi. |
-| MRS | ALLONBY. È prematuro chiederci di perdonare l’analisi. Noi perdoniamo l’adorazione; ed è già tutto quel che ci si debba aspettare da noi. |
-| *(didascalia)* | [Entra LORD ALFRED. Si unisce a LADY STUTFIELD.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah! noi donne dovremmo perdonare tutto, non è vero, cara signora Arbuthnot? Sono certa che in questo è d’accordo con me. |
-| MRS | ARBUTHNOT. Non lo sono, [[characters/lady-hunstanton\|Lady Hunstanton]]. Credo che vi siano molte cose che le donne non dovrebbero mai perdonare. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Che genere di cose? |
-| MRS | ARBUTHNOT. La rovina della vita di un’altra donna. |
-| *(didascalia)* | [Si allontana lentamente verso il fondo della scena.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah! quelle sono cose molto tristi, non c’è [[concepts/doubt\|dubbio]], ma credo che esistano istituti ammirevoli dove le persone di quel genere vengono assistite e redente; e penso che, nel complesso, il segreto della vita sia prendere le cose molto, molto alla leggera. |
-| MRS | ALLONBY. Il segreto della vita è non provare mai un’emozione che sia sconveniente. |
-| LADY STUTFIELD | Il segreto della vita è saper apprezzare il piacere di essere terribilmente, terribilmente ingannate. |
-| KELVIL | Il segreto della vita è resistere alla [[concepts/temptation\|tentazione]], Lady<br>Stutfield. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non c’è nessun segreto della vita. Lo scopo della vita, se ne ha uno, è semplicemente andare sempre in cerca di tentazioni. Non ce ne sono affatto abbastanza. A volte passo un’intera giornata senza imbattermi in una sola. È addirittura spaventoso. Rende così inquieti riguardo al futuro. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [Agita il ventaglio verso di lui.] Non so come sia, caro [[characters/lord-illingworth\|Lord Illingworth]], ma tutto ciò che ha detto oggi mi pare eccessivamente immorale. È stato interessantissimo ascoltarla. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ogni pensiero è immorale. La sua essenza stessa è la distruzione. Se pensate a una cosa, la uccidete. Nulla sopravvive all’essere pensato. |
-
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_07" data-title="A Woman of No Importance — Act 3 [7]" data-chapter="part 07" data-kind="excerpt" data-tags="motif/love,motif/memory,motif/moon,motif/night,motif/well,concept/doubt,concept/hope,concept/truth,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -1859,31 +1086,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Do, my dear boy. [Moves towards with MRS.<br>ALLONBY and GERALD.] |
 | *(didascalia)* | [LADY CAROLINE enters, looks rapidly round and goes off in opposite direction to that taken by SIR JOHN and LADY STUTFIELD.] |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Non ne capisco una parola, [[characters/lord-illingworth\|Lord Illingworth]]. Ma non ho [[concepts/doubt\|dubbio]] che sia tutto verissimo. Personalmente, ho ben poco da rimproverarmi in fatto di pensiero. Non credo che le donne debbano pensare troppo. Le donne dovrebbero pensare con moderazione, come dovrebbero fare ogni cosa con moderazione. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | La moderazione è cosa fatale, [[characters/lady-hunstanton\|Lady Hunstanton]].<br>Nulla riesce quanto l’eccesso. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[concepts/hope\|Spero]] che me ne ricorderò. Suona come una massima ammirevole. Ma comincio a dimenticare ogni cosa. È una gran disgrazia. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È una delle sue qualità più affascinanti, [[characters/lady-hunstanton\|Lady Hunstanton]]. Nessuna donna dovrebbe avere [[motifs/memory\|memoria]]. La [[motifs/memory\|memoria]] in una donna è l’inizio della sciatteria. Dal cappellino di una donna si capisce sempre se abbia [[motifs/memory\|memoria]] o no. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Com’è affascinante, caro [[characters/lord-illingworth\|Lord Illingworth]]. Lei scopre sempre che il difetto più vistoso di una persona è la sua virtù più importante. Ha le vedute più consolanti sulla vita. |
-| *(didascalia)* | [Entra FARQUHAR.] |
-| FARQUHAR | La carrozza del dottor Daubeny! |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mio caro Arcidiacono! Sono appena le dieci e mezza.<br>L’ARCIDIACONO. [Alzandosi.] Temo di dover andare, [[characters/lady-hunstanton\|Lady Hunstanton]].<br>Il martedì è sempre una delle notti peggiori della signora Daubeny. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [Alzandosi.] [[motifs/well\|Allora]] non la tratterrò lontano da lei. [Va con lui verso la porta.] Ho detto a Farquhar di mettere un paio di pernici nella carrozza. Forse alla signora Daubeny andranno a genio.<br>L’ARCIDIACONO. È molto gentile da parte sua, ma la signora Daubeny non tocca più cibi solidi. Vive esclusivamente di gelatine. Ma è meravigliosamente allegra, meravigliosamente allegra. Non ha nulla di cui lamentarsi. |
-| *(didascalia)* | [Esce con [[characters/lady-hunstanton\|LADY HUNSTANTON]].] |
-| MRS | ALLONBY. [Si avvicina a [[characters/lord-illingworth\|LORD ILLINGWORTH]].] C’è una bella [[motifs/moon\|luna]] questa [[motifs/night\|notte]]. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Andiamo a guardarla. Guardare qualcosa d’incostante è cosa deliziosa, oggigiorno. |
-| MRS | ALLONBY. Ha il suo specchio. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È scortese. Non fa che mostrarmi le rughe. |
-| MRS | ALLONBY. Il mio è più educato. Non mi dice mai la [[concepts/truth\|verità]]. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Allora è [[motifs/love\|innamorato]] di lei. |
-| *(didascalia)* | [Escono SIR JOHN, LADY STUTFIELD, MR. KELVIL e LORD ALFRED.] |
-| GERALD | [A [[characters/lord-illingworth\|LORD ILLINGWORTH]]] Posso venire anch’io? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Venga pure, mio caro ragazzo. [Si avvia verso con MRS.<br>ALLONBY e GERALD.] |
-| *(didascalia)* | [LADY CAROLINE entra, si guarda rapidamente intorno ed esce nella direzione opposta a quella presa da SIR JOHN e LADY STUTFIELD.] |
 
 
 
@@ -1926,43 +1128,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. Don’t trouble, Miss Worsley, I can wait. It is of no consequence. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. Gerald! |
-| GERALD | Che c’è, madre! |
-| *(didascalia)* | [Esce [[characters/lord-illingworth\|LORD ILLINGWORTH]] con MRS. ALLONBY.] |
-| MRS | ARBUTHNOT. Si fa tardi. Andiamo a [[motifs/home\|casa]]. |
-| GERALD | Mia cara madre. Aspettiamo ancora un poco. [[characters/lord-illingworth\|Lord Illingworth]] è così delizioso; e a proposito, madre, ho una gran sorpresa per te. Partiamo per l’India alla fine di questo mese. |
-| MRS | ARBUTHNOT. Andiamo a [[motifs/home\|casa]]. |
-| GERALD | Se lo vuoi davvero, certo, madre; ma prima devo dire addio a [[characters/lord-illingworth\|Lord Illingworth]]. Torno fra cinque minuti. [Esce.] |
-| MRS | ARBUTHNOT. Che mi lasci, se così vuole, ma non con lui - non con lui! Non potrei sopportarlo. [Cammina su e giù.] |
-| *(didascalia)* | [Entra HESTER.] |
-| HESTER | Che [[motifs/night\|notte]] incantevole, signora Arbuthnot. |
-| MRS | ARBUTHNOT. Davvero? |
-| HESTER | Signora Arbuthnot, vorrei che ci lasciasse diventare amiche. Lei è così diversa dalle altre donne qui. Quando è entrata in salotto questa sera, in qualche modo ha portato con sé il senso di ciò che nella vita è buono e puro. Sono stata sciocca. Ci sono cose che è giusto dire, ma che si possono dire nel [[motifs/time\|momento]] sbagliato e alle persone sbagliate. |
-| MRS | ARBUTHNOT. Ho udito ciò che ha detto. Sono d’accordo, Miss<br>Worsley. |
-| HESTER | Non sapevo che l’avesse udito. Ma sapevo che sarebbe stata d’accordo con me. Una donna che ha peccato deve essere punita, non è vero? |
-| MRS | ARBUTHNOT. Sì. |
-| HESTER | Non le si dovrebbe permettere di entrare nella società degli uomini e delle donne dabbene? |
-| MRS | ARBUTHNOT. Non le si dovrebbe permettere. |
-| HESTER | E l’uomo dovrebbe essere punito allo stesso modo? |
-| MRS | ARBUTHNOT. Allo stesso modo. E i figli, se ci sono figli, allo stesso modo anch’essi? |
-| HESTER | Sì, è giusto che le colpe dei padri ricadano sui figli. È una legge giusta. È la legge di Dio. |
-| MRS | ARBUTHNOT. È una delle terribili leggi di Dio. |
-| *(didascalia)* | [Si allontana verso il camino.] |
-| HESTER | La affligge che suo figlio la lasci, signora<br>Arbuthnot? |
-| MRS | ARBUTHNOT. Sì. |
-| HESTER | Le piace che parta con [[characters/lord-illingworth\|Lord Illingworth]]? Certo, c’è la posizione, non c’è [[concepts/doubt\|dubbio]], e il denaro; ma posizione e denaro non sono tutto, non è vero? |
-| MRS | ARBUTHNOT. Non sono nulla; portano infelicità. |
-| HESTER | Allora perché lascia andare suo figlio con lui? |
-| MRS | ARBUTHNOT. È lui a volerlo. |
-| HESTER | Ma se glielo chiedesse resterebbe, non è vero? |
-| MRS | ARBUTHNOT. Ha messo il cuore in questa partenza. |
-| HESTER | Non potrebbe rifiutarle nulla. Le vuole troppo bene. Gli chieda di restare. Lasci che glielo mandi qui. È sulla terrazza in questo momento con [[characters/lord-illingworth\|Lord Illingworth]]. Li ho sentiti ridere insieme mentre attraversavo la Sala della Musica. |
-| MRS | ARBUTHNOT. Non si disturbi, Miss Worsley, posso aspettare. Non ha importanza. |
-
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_09" data-title="A Woman of No Importance — Act 3 [9]" data-chapter="part 09" data-kind="excerpt" data-tags="motif/night,motif/time,character/lord_illingworth"></span>
@@ -1984,23 +1149,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. Gerald, don’t go away with [[characters/lord-illingworth\|Lord Illingworth]]. I implore you not to. Gerald, I beg you! |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| HESTER | No, gli dirò che lo vuole. Glielo chieda - glielo chieda di restare. |
-| *(didascalia)* | [Esce HESTER.] |
-| MRS | ARBUTHNOT. Non verrà - so che non verrà. |
-| *(didascalia)* | [Entra LADY CAROLINE. Si guarda intorno ansiosamente. Entra GERALD.] |
-| LADY CAROLINE | Signor Arbuthnot, posso chiederle se Sir John si trova sulla terrazza? |
-| GERALD | No, Lady Caroline, non è sulla terrazza. |
-| LADY CAROLINE | È molto curioso. È [[motifs/time\|ora]] che si ritiri. |
-| *(didascalia)* | [Esce LADY CAROLINE.] |
-| GERALD | Cara madre, temo di averti fatto aspettare. Me n’ero completamente dimenticato. Sono così felice questa [[motifs/night\|notte]], madre; non sono mai stato così felice. |
-| MRS | ARBUTHNOT. Alla prospettiva di partire? |
-| GERALD | Non metterla così, madre. Certo che mi dispiace lasciarti. Sei la miglior madre del mondo intero. Ma dopo tutto, come dice [[characters/lord-illingworth\|Lord Illingworth]], è impossibile vivere in un posto come Wrockley. A te non pesa. Ma io sono ambizioso; voglio qualcosa di più. Voglio farmi una carriera. Voglio fare qualcosa che ti renda fiera di me, e [[characters/lord-illingworth\|Lord Illingworth]] mi aiuterà. Farà tutto per me. |
-| MRS | ARBUTHNOT. Gerald, non andartene con [[characters/lord-illingworth\|Lord Illingworth]]. Ti supplico di non farlo. Gerald, te ne prego! |
-
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_10" data-title="A Woman of No Importance — Act 3 [10]" data-chapter="part 10" data-kind="excerpt" data-tags="motif/love,character/hester_worsley,character/lord_illingworth"></span>
@@ -2010,12 +1158,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 |---|---|
 | GERALD | Mother, how changeable you are! You don’t seem to know your own mind for a single moment. An hour and a half ago in the Drawing-room you agreed to the whole thing; now you turn round and make objections, and try to force me to give up my one chance in life. Yes, my one chance. You don’t suppose that men like [[characters/lord-illingworth\|Lord Illingworth]] are to be found every day, do you, mother? It is very strange that when I have had such a wonderful piece of good luck, the one person to put difficulties in my way should be my own mother. Besides, you know, mother, I [[motifs/love\|love]] [[characters/hester-worsley\|Hester Worsley]]. Who could help loving her? I [[motifs/love\|love]] her more than I have ever told you, far more. And if I had a position, if I had prospects, I could - I could ask her to - Don’t you understand now, mother, what it means to me to be [[characters/lord-illingworth\|Lord Illingworth]]’s secretary? To start like that is to find a career ready for one - before one - waiting for one. If I were [[characters/lord-illingworth\|Lord Illingworth]]’s secretary I could ask Hester to be my wife. As a wretched bank clerk with a hundred a year it would be an impertinence. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| GERALD | Madre, come sei mutevole! Non sembri sapere quel che vuoi per un solo istante. Un’ora e mezza fa, in salotto, eri d’accordo su tutto; ora ti volti e sollevi obiezioni, e cerchi di costringermi a rinunciare alla mia sola occasione nella vita. Sì, la mia sola occasione. Non crederai che uomini come [[characters/lord-illingworth\|Lord Illingworth]] si trovino tutti i giorni, vero, madre? È molto strano che, proprio quando mi è capitata una fortuna così straordinaria, l’unica persona a mettermi difficoltà sulla strada debba essere mia madre. E poi, sai, madre, io [[motifs/love\|amo]] [[characters/hester-worsley\|Hester Worsley]]. Chi potrebbe non amarla? La [[motifs/love\|amo]] più di quanto ti abbia mai detto, molto di più. E se avessi una posizione, se avessi delle prospettive, potrei - potrei chiederle di - Non capisci adesso, madre, che cosa significhi per me essere il segretario di [[characters/lord-illingworth\|Lord Illingworth]]? Cominciare così vuol dire trovarsi una carriera già pronta - davanti a sé - che aspetta. Se fossi il segretario di [[characters/lord-illingworth\|Lord Illingworth]] potrei chiedere a Hester di diventare mia moglie. Da miserabile impiegato di banca con cento sterline l’anno sarebbe un’impertinenza. |
 
 
 
@@ -2044,29 +1186,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | Mother, tell me what [[characters/lord-illingworth\|Lord Illingworth]] did? If he did anything shameful, I will not go away with him. Surely you know me [[motifs/well\|well]] enough for that? |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. [[concepts/fear\|Temo]] che tu non debba nutrire speranze su Miss Worsley. Conosco le sue vedute sulla vita. Me le ha appena esposte. [Pausa.] |
-| GERALD | Allora mi resta almeno la mia [[concepts/ambition\|ambizione]]. È già qualcosa - sono contento di avere almeno quella! Tu hai sempre cercato di schiacciare la mia [[concepts/ambition\|ambizione]], madre - non è vero? Mi hai detto che il mondo è un luogo malvagio, che il successo non vale la pena, che la società è superficiale, e tutte cose del genere - [[motifs/well\|ebbene]], io non ci credo, madre. Io penso che il mondo debba essere delizioso. Penso che la società debba essere squisita. Penso che il successo sia cosa che vale la pena avere. Ti sei sbagliata in tutto ciò che mi hai insegnato, madre, completamente sbagliata. [[characters/lord-illingworth\|Lord Illingworth]] è un uomo arrivato. È un uomo alla moda. È un uomo che vive nel mondo e per il mondo. [[motifs/well\|Ebbene]], darei qualunque cosa per essere proprio come [[characters/lord-illingworth\|Lord Illingworth]]. |
-| MRS | ARBUTHNOT. Preferirei vederti morto. |
-| GERALD | Madre, che cos’hai contro [[characters/lord-illingworth\|Lord Illingworth]]? Dimmelo - dimmelo apertamente. Che cos’è? |
-| MRS | ARBUTHNOT. È un uomo cattivo. |
-| GERALD | Cattivo in che senso? Non capisco che cosa intendi. |
-| MRS | ARBUTHNOT. Te lo dirò. |
-| GERALD | Immagino che tu lo giudichi cattivo perché non crede alle stesse cose in cui credi tu. [[motifs/well\|Del resto]], gli uomini sono diversi dalle donne, madre. È naturale che abbiano vedute diverse. |
-| MRS | ARBUTHNOT. Non è ciò in cui [[characters/lord-illingworth\|Lord Illingworth]] crede, o ciò in cui non crede, a renderlo cattivo. È ciò che egli è. |
-| GERALD | Madre, è qualcosa che sai di lui? Qualcosa che sai davvero? |
-| MRS | ARBUTHNOT. È qualcosa che so. |
-| GERALD | Qualcosa di cui sei del tutto certa? |
-| MRS | ARBUTHNOT. Del tutto certa. |
-| GERALD | Da quanto tempo lo sai? |
-| MRS | ARBUTHNOT. Da vent’anni. |
-| GERALD | È leale risalire a vent’anni fa nella carriera di un uomo?<br>E che cosa abbiamo io o tu a che fare con la giovinezza di [[characters/lord-illingworth\|Lord Illingworth]]?<br>Che ce ne importa? |
-| MRS | ARBUTHNOT. Ciò che quest’uomo è stato, lo è ora, e lo sarà sempre. |
-| GERALD | Madre, dimmi che cosa fece [[characters/lord-illingworth\|Lord Illingworth]]. Se ha fatto qualcosa di vergognoso, non partirò con lui. Mi conosci pur abbastanza [[motifs/well\|bene]] da saperlo, no? |
-
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_12" data-title="A Woman of No Importance — Act 3 [12]" data-chapter="part 12" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/fire,motif/love,motif/marriage,motif/sleep,motif/soul,motif/time,character/lord_illingworth"></span>
@@ -2076,12 +1195,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 |---|---|
 | MRS | ARBUTHNOT. Gerald, come near to me. Quite close to me, as you used to do when you were a little boy, when you were mother’s own boy. [GERALD sits down betide his mother. She runs her fingers through his hair, and strokes his hands.] Gerald, there was a girl once, she was very young, she was little over eighteen at the [[motifs/time\|time]]. George Harford - that was [[characters/lord-illingworth\|Lord Illingworth]]’s name then - George Harford met her. She knew nothing about life. He - knew everything. He made this girl [[motifs/love\|love]] him. He made her [[motifs/love\|love]] him so much that she left her father’s house with him one morning. She loved him so much, and he had promised to marry her! He had solemnly promised to marry her, and she had believed him. She was very young, and - and ignorant of what life really is. But he put the [[motifs/marriage\|marriage]] off from week to week, and month to month. - She trusted in him all the while. She loved him. - Before her [[archetypes/child\|child]] was born - for she had a [[archetypes/child\|child]] - she implored him for the [[archetypes/child\|child]]’s sake to marry her, that the [[archetypes/child\|child]] might have a name, that her sin might not be visited on the [[archetypes/child\|child]], who was [[archetypes/innocent\|innocent]]. He refused. After the [[archetypes/child\|child]] was born she left him, taking the [[archetypes/child\|child]] away, and her life was ruined, and her [[motifs/soul\|soul]] ruined, and all that was sweet, and good, and pure in her ruined also. She suffered terribly - she suffers now. She will always suffer. For her there is no joy, no peace, no atonement. She is a woman who drags a chain like a guilty thing. She is a woman who wears a mask, like a thing that is a leper. The [[motifs/fire\|fire]] cannot purify her. The waters cannot quench her anguish. Nothing can heal her! no anodyne can give her [[motifs/sleep\|sleep]]! no poppies forgetfulness! She is lost! She is a lost [[motifs/soul\|soul]]! - That is why I call [[characters/lord-illingworth\|Lord Illingworth]] a bad man. That is why I don’t want my boy to be with him. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. Gerald, vieni vicino a me. Proprio accanto a me, come facevi da bambino, quando eri il bambino della tua mamma. [GERALD si siede accanto alla madre. Lei gli passa le dita fra i capelli e gli accarezza le mani.] Gerald, c’era una volta una ragazza; era molto giovane, aveva poco più di diciotto anni a quel [[motifs/time\|tempo]]. George Harford - questo era allora il nome di [[characters/lord-illingworth\|Lord Illingworth]] - George Harford la incontrò. Lei non sapeva nulla della vita. Lui - sapeva tutto. Fece sì che quella ragazza lo [[motifs/love\|amasse]]. La fece [[motifs/love\|innamorare]] tanto che una mattina lasciò con lui la casa di suo padre. Lo amava tanto, e lui le aveva promesso di sposarla! Le aveva solennemente promesso di sposarla, e lei gli aveva creduto. Era molto giovane, e - e ignorava che cosa sia davvero la vita. Ma lui rimandò il [[motifs/marriage\|matrimonio]] di settimana in settimana, di mese in mese. - Lei intanto continuava a fidarsi di lui. Lo amava. - Prima che nascesse il suo [[archetypes/child\|bambino]] - perché ebbe un [[archetypes/child\|bambino]] - lo implorò, per amore del [[archetypes/child\|bambino]], di sposarla, perché il [[archetypes/child\|bambino]] avesse un nome, perché il suo peccato non ricadesse sul [[archetypes/child\|bambino]], che era [[archetypes/innocent\|innocente]]. Lui rifiutò. Dopo che il [[archetypes/child\|bambino]] fu nato lei lo lasciò, portando via il [[archetypes/child\|bambino]]; e la sua vita fu rovinata, e la sua [[motifs/soul\|anima]] rovinata, e rovinato anche tutto ciò che in lei era dolce, e buono, e puro. Ha sofferto terribilmente - soffre ancora. Soffrirà sempre. Per lei non c’è gioia, non c’è pace, non c’è espiazione. È una donna che trascina una catena come una colpevole. È una donna che porta una maschera, come una cosa lebbrosa. Il [[motifs/fire\|fuoco]] non può purificarla. Le acque non possono spegnere la sua angoscia. Nulla può guarirla! nessun anodino può darle il [[motifs/sleep\|sonno]]! nessun papavero l’oblio! È perduta! È un’[[motifs/soul\|anima]] perduta! - Ecco perché chiamo [[characters/lord-illingworth\|Lord Illingworth]] un uomo cattivo. Ecco perché non voglio che il mio ragazzo stia con lui. |
 
 
 
@@ -2106,26 +1219,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | *(didascalia)* | [GERALD clutches his mother’s hands and looks into her face. She sinks slowly on the ground in shame. HESTER steals towards the door. [[characters/lord-illingworth\|LORD ILLINGWORTH]] frowns and bites his lip. After a [[motifs/time\|time]] GERALD raises his mother up, puts his am round her, and leads her from the room.] |
 | MRS | ACT DROP |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| GERALD | Mia cara madre, tutto ciò suona molto tragico, naturalmente. Ma oserei dire che la ragazza fosse colpevole tanto quanto lo era [[characters/lord-illingworth\|Lord Illingworth]]. - Dopo tutto, una ragazza davvero perbene, una ragazza con un minimo di buoni sentimenti, se ne andrebbe di [[motifs/home\|casa]] con un uomo che non ha sposato, per vivere con lui come sua moglie? Nessuna ragazza perbene lo farebbe. |
-| MRS | ARBUTHNOT. [Dopo una pausa.] Gerald, ritiro tutte le mie obiezioni. Sei libero di partire con [[characters/lord-illingworth\|Lord Illingworth]], quando e dove vorrai. |
-| GERALD | Cara madre, sapevo che non ti saresti messa sulla mia strada. Sei la donna migliore che Dio abbia mai fatto. E quanto a [[characters/lord-illingworth\|Lord Illingworth]], non credo che sia capace di nulla d’infame o di vile. Non riesco a crederlo di lui - non ci riesco. |
-| *(didascalia)* | [Da fuori.] Mi lasci andare! Mi lasci andare! [Entra HESTER in preda al terrore, corre verso GERALD e si getta fra le sue braccia.] |
-| HESTER | Oh! mi salvi - mi salvi da lui! |
-| GERALD | Da chi? |
-| HESTER | Mi ha insultata! Insultata orribilmente! Mi salvi! |
-| GERALD | Chi? Chi ha osato - ?<br>[[[characters/lord-illingworth\|LORD ILLINGWORTH]] entra dal fondo della scena. HESTER si stacca dalle<br>braccia di GERALD e lo addita.]<br>GERALD [È del tutto fuori di sé dalla collera e dall’indignazione.] [[characters/lord-illingworth\|Lord Illingworth]], lei ha insultato la cosa più pura che sia sulla terra di Dio, una cosa pura quanto mia madre. Ha insultato la donna che [[motifs/love\|amo]] più di ogni altra al mondo insieme a mia madre. Com’è vero che c’è un Dio in Cielo, io la ucciderò! |
-| MRS | ARBUTHNOT. [Attraversando di corsa la scena e afferrandolo] No! no! |
-| GERALD | [Respingendola.] Non trattenermi, madre. Non trattenermi - lo ucciderò! |
-| MRS | ARBUTHNOT. Gerald! |
-| GERALD | Lasciami andare, ti dico! |
-| MRS | ARBUTHNOT. Fermati, Gerald, fermati! È tuo padre! |
-| *(didascalia)* | [GERALD stringe le mani della madre e la guarda in viso. Lei si accascia lentamente a terra per la vergogna. HESTER sgattaiola verso la porta. [[characters/lord-illingworth\|LORD ILLINGWORTH]] aggrotta le sopracciglia e si morde il labbro. Dopo qualche [[motifs/time\|tempo]] GERALD rialza la madre, le cinge le spalle col braccio e la conduce fuori dalla stanza.] |
-| MRS | CALA IL SIPARIO |
 
 
 
@@ -2156,31 +1249,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Well]], there IS a good deal to be said for blushing, if one can do it at the proper moment. Poor dear Hunstanton used to tell me I didn’t blush nearly often enough. But then he was so very particular. He wouldn’t let me know any of his men friends, except those who were over seventy, like poor Lord Ashton: who afterwards, by the way, was brought into the Divorce [[settings/court\|Court]]. A most unfortunate case. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | SCENA<br>Salottino in casa della signora Arbuthnot. Ampia [[motifs/window\|portafinestra]] aperta in fondo, che dà sul [[motifs/garden\|giardino]]. Porte a destra e a sinistra, verso il centro. |
-| *(didascalia)* | [[[characters/gerald-arbuthnot\|GERALD ARBUTHNOT]] scrive al tavolo.] |
-| *(didascalia)* | [Entra ALICE da destra al centro, seguita da [[characters/lady-hunstanton\|LADY HUNSTANTON]] e MRS. ALLONBY.] |
-| ALICE | [[characters/lady-hunstanton\|Lady Hunstanton]] e la signora Allonby. |
-| *(didascalia)* | [Esce da sinistra al centro.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Buongiorno, Gerald. |
-| GERALD | [Alzandosi.] Buongiorno, [[characters/lady-hunstanton\|Lady Hunstanton]]. Buongiorno,<br>signora Allonby. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [Sedendosi.] Siamo venute a chiedere della sua cara madre, Gerald. [[concepts/hope\|Spero]] che stia meglio? |
-| GERALD | Mia madre non è ancora scesa, [[characters/lady-hunstanton\|Lady Hunstanton]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ah, temo che il caldo di ieri [[motifs/night\|notte]] sia stato troppo per lei. Credo che ci fosse temporale nell’aria. O forse è stata la musica. La musica rende così romantici - o per lo meno dà sempre sui nervi. |
-| MRS | ALLONBY. Oggigiorno è la stessa cosa. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Sono così contenta di non capire che cosa intenda, cara. Temo che intenda qualcosa di sconveniente. Ah, vedo che sta esaminando il grazioso salottino della signora Arbuthnot. Non è bello e all’antica? |
-| MRS | ALLONBY. [Passando in rassegna la stanza con la lorgnette.] Ha proprio l’aria della felice [[motifs/home\|casa]] inglese. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | È proprio la parola, cara; la descrive esattamente. Si sente la buona influenza di sua madre in ogni cosa di cui si circonda, Gerald. |
-| MRS | ALLONBY. [[characters/lord-illingworth\|Lord Illingworth]] dice che ogni influenza è cattiva, ma che una buona influenza è la peggiore del mondo. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Quando [[characters/lord-illingworth\|Lord Illingworth]] conoscerà meglio la signora Arbuthnot cambierà idea. Devo assolutamente portarlo qui. |
-| MRS | ALLONBY. Mi piacerebbe vedere [[characters/lord-illingworth\|Lord Illingworth]] in una felice<br>[[motifs/home\|casa]] inglese. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Gli farebbe un gran bene, cara. Oggigiorno la maggior parte delle donne di [[settings/london\|Londra]] pare arredi le proprie stanze soltanto con orchidee, stranieri e romanzi francesi. Qui invece abbiamo la stanza di una dolce santa. [[motifs/flowers\|Fiori]] freschi e naturali, libri che non scandalizzano, quadri che si possono guardare senza arrossire. |
-| MRS | ALLONBY. Ma a me piace arrossire. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Beh]], c’È molto da dire a favore dell’arrossire, se si sa farlo al momento giusto. Il povero caro Hunstanton mi diceva sempre che non arrossivo abbastanza spesso. Ma d’altronde era così esigente. Non mi lasciava conoscere nessuno dei suoi amici, tranne quelli che avevano passato i settanta, come il povero Lord Ashton: il quale, fra parentesi, finì poi davanti al [[settings/court\|Tribunale]] dei Divorzi. Un caso quanto mai increscioso. |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_02" data-title="A Woman of No Importance — Act 4 [2]" data-chapter="part 02" data-kind="excerpt" data-tags="motif/love,motif/night,motif/well,concept/honour,concept/hope,character/lady_hunstanton,character/lord_illingworth"></span>
@@ -2209,31 +1277,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | I am afraid not this afternoon, [[characters/lady-hunstanton\|Lady Hunstanton]]. |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Well]], to-morrow, then. Ah, if you had a father, Gerald, he wouldn’t let you waste your life here. He would send you off with [[characters/lord-illingworth\|Lord Illingworth]] at once. But mothers are so weak. They give up to their sons in everything. We are all heart, all heart. Come, dear, I must call at the rectory and inquire for Mrs. Daubeny, who, I am afraid, is far from [[motifs/well\|well]]. It is wonderful how the Archdeacon bears up, quite wonderful. He is the most sympathetic of husbands. Quite a model. Good-bye, Gerald, give my fondest [[motifs/love\|love]] to your mother. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ALLONBY. Io vado matta per gli uomini oltre i settanta. Offrono sempre la devozione di tutta una vita. Trovo che settanta sia l’età ideale per un uomo. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | È assolutamente incorreggibile, Gerald, non è vero? A proposito, Gerald, [[concepts/hope\|spero]] che la sua cara madre verrà a trovarmi più spesso, d’ora in poi. Lei e [[characters/lord-illingworth\|Lord Illingworth]] partite quasi subito, non è così? |
-| GERALD | Ho rinunciato al proposito di fare da segretario a [[characters/lord-illingworth\|Lord Illingworth]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ma non è possibile, Gerald! Sarebbe quanto mai imprudente da parte sua. Quale ragione può averne? |
-| GERALD | Non credo che sarei adatto al posto. |
-| MRS | ALLONBY. Vorrei che [[characters/lord-illingworth\|Lord Illingworth]] chiedesse a me di fargli da segretaria. Ma dice che non sono abbastanza seria. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara, non deve proprio parlare così in questa casa. La signora Arbuthnot non sa nulla della società perversa in cui viviamo tutti quanti. Non vuole entrarci. È troppo buona. Considero un grande [[concepts/honour\|onore]] che ieri [[motifs/night\|sera]] sia venuta da me. Ha dato al ricevimento un’autentica atmosfera di rispettabilità. |
-| MRS | ALLONBY. Ah, dev’essere stato quello che lei ha preso per temporale nell’aria. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Mia cara, come può dire una cosa simile? Non c’è la minima somiglianza fra le due cose. Ma davvero, Gerald, che cosa intende con non essere adatto? |
-| GERALD | Le vedute di [[characters/lord-illingworth\|Lord Illingworth]] sulla vita e le mie sono troppo diverse. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Ma, mio caro Gerald, alla sua età non dovrebbe avere vedute di alcun genere sulla vita. Sono del tutto fuori luogo. In questa faccenda deve lasciarsi guidare dagli altri. [[characters/lord-illingworth\|Lord Illingworth]] le ha fatto l’offerta più lusinghiera, e viaggiando con lui vedrebbe il mondo - o almeno quella parte di mondo che convenga guardare - sotto i migliori auspici possibili, e sarebbe ospite di tutte le persone giuste, il che è tanto importante in questo momento solenne della sua carriera. |
-| GERALD | Non voglio vedere il mondo: ne ho visto abbastanza. |
-| MRS | ALLONBY. [[concepts/hope\|Spero]] che non pensi di aver esaurito la vita, signor Arbuthnot. Quando un uomo lo dice, si capisce che è la vita ad aver esaurito lui. |
-| GERALD | Non desidero lasciare mia madre. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Suvvia, Gerald, questa è pura pigrizia da parte sua. Non lasciare sua madre! Se io fossi sua madre insisterei perché partisse. |
-| *(didascalia)* | [Entra ALICE da sinistra al centro.] |
-| ALICE | I saluti della signora Arbuthnot, milady, ma ha un forte mal di testa e non può ricevere nessuno questa mattina. [Esce a destra al centro.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [Alzandosi.] Un forte mal di testa! Mi dispiace tanto! Forse potrà portarla su a Hunstanton questo pomeriggio, se starà meglio, Gerald. |
-| GERALD | Temo di no, questo pomeriggio, [[characters/lady-hunstanton\|Lady Hunstanton]]. |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [[motifs/well\|Allora]] domani. Ah, se avesse un padre, Gerald, non le lascerebbe sprecare qui la vita. La manderebbe via con [[characters/lord-illingworth\|Lord Illingworth]] all’istante. Ma le madri sono così deboli. Cedono ai figli in tutto. Siamo tutte cuore, tutte cuore. Venga, cara, devo passare dalla canonica a chiedere della signora Daubeny, la quale, temo, è tutt’altro che [[motifs/well\|bene]]. È meraviglioso come l’Arcidiacono resista, davvero meraviglioso. È il più premuroso dei mariti. Un vero modello. Arrivederci, Gerald, porti il mio più affettuoso [[motifs/love\|saluto]] a sua madre. |
 
 
 
@@ -2272,39 +1315,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | But you don’t understand: it is for your sake I am talking, not for mine. This [[motifs/marriage\|marriage]], this necessary [[motifs/marriage\|marriage]], this [[motifs/marriage\|marriage]] which for obvious reasons must inevitably take place, will not help me, will not give me a name that will be really, rightly mine to bear. But surely it will be something for you, that you, my mother, should, however late, become the wife of the man who is my father. Will not that be something? |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ALLONBY. Arrivederci, signor Arbuthnot. |
-| GERALD | Arrivederci. |
-| *(didascalia)* | [Escono [[characters/lady-hunstanton\|LADY HUNSTANTON]] e MRS. ALLONBY. GERALD si siede e rilegge la propria lettera.] |
-| GERALD | Con che nome posso firmare? Io, che non ho diritto ad alcun nome. [Firma, mette la lettera nella busta, scrive l’indirizzo e sta per sigillarla, quando la porta a sinistra al centro si apre ed entra MRS. ARBUTHNOT. GERALD posa la ceralacca. Madre e figlio si guardano.] |
-| [[characters/lady-hunstanton\|LADY HUNSTANTON]] | [Dalla [[motifs/window\|portafinestra]] in fondo.] Ancora arrivederci, Gerald. Prendiamo la scorciatoia attraverso il suo grazioso [[motifs/garden\|giardino]]. E si ricordi del mio consiglio: parta subito con [[characters/lord-illingworth\|Lord Illingworth]]. |
-| MRS | ALLONBY. AU REVOIR, signor Arbuthnot. Mi raccomando, mi porti qualcosa di bello dai suoi viaggi - non uno scialle indiano - per nessuna ragione uno scialle indiano. |
-| *(didascalia)* | [Escono.] |
-| GERALD | Madre, gli ho appena scritto. |
-| MRS | ARBUTHNOT. A chi? |
-| GERALD | A mio padre. Gli ho scritto di venire qui alle quattro in [[motifs/clock\|punto]] questo pomeriggio. |
-| MRS | ARBUTHNOT. Non verrà qui. Non [[motifs/cross\|varcherà]] la soglia della mia casa. |
-| GERALD | Deve venire. |
-| MRS | ARBUTHNOT. Gerald, se te ne vai con [[characters/lord-illingworth\|Lord Illingworth]], vattene subito. Vattene prima che questo mi uccida: ma non chiedermi d’incontrarlo. |
-| GERALD | Madre, non capisci. Nulla al mondo mi indurrebbe ad andarmene con [[characters/lord-illingworth\|Lord Illingworth]], o a lasciare te. Mi conosci pur abbastanza [[motifs/well\|bene]] per saperlo. No: gli ho scritto per dirgli - |
-| MRS | ARBUTHNOT. Che cosa puoi avere da dirgli? |
-| GERALD | Non indovini, madre, che cosa ho scritto in questa lettera? |
-| MRS | ARBUTHNOT. No. |
-| GERALD | Madre, certo che puoi indovinarlo. Pensa, pensa a ciò che si deve fare, ora, subito, nel giro di pochi giorni. |
-| MRS | ARBUTHNOT. Non c’è nulla da fare. |
-| GERALD | Ho scritto a [[characters/lord-illingworth\|Lord Illingworth]] per dirgli che deve sposarti. |
-| MRS | ARBUTHNOT. Sposarmi? |
-| GERALD | Madre, lo costringerò a farlo. Il torto che ti è stato fatto deve essere riparato. Bisogna che vi sia espiazione. La giustizia sarà lenta, madre, ma alla fine arriva. Fra pochi giorni sarai la legittima moglie di [[characters/lord-illingworth\|Lord Illingworth]]. |
-| MRS | ARBUTHNOT. Ma, Gerald - |
-| GERALD | Insisterò perché lo faccia. Glielo farò fare: non oserà rifiutare. |
-| MRS | ARBUTHNOT. Ma, Gerald, sono io a rifiutare. Non sposerò<br>[[characters/lord-illingworth\|Lord Illingworth]]. |
-| GERALD | Non sposarlo? Madre! |
-| MRS | ARBUTHNOT. Non lo sposerò. |
-| GERALD | Ma tu non capisci: parlo per te, non per me. Questo [[motifs/marriage\|matrimonio]], questo [[motifs/marriage\|matrimonio]] necessario, questo [[motifs/marriage\|matrimonio]] che per ovvie ragioni deve inevitabilmente aver luogo, non aiuterà me, non mi darà un nome che sia davvero, di diritto, mio da portare. Ma sarà pur qualcosa per te, che tu, mia madre, per quanto tardi, diventi la moglie dell’uomo che è mio padre. Non sarà qualcosa? |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_04" data-title="A Woman of No Importance — Act 4 [4]" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/marriage,motif/night,motif/well,concept/history,concept/hope,form/history,character/lord_illingworth"></span>
@@ -2329,26 +1339,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | Mother, you believe in religion, and you brought me up to believe in it also. [[motifs/well\|Well]], surely your religion, the religion that you taught me when I was a boy, mother, must tell you that I am right. You know it, you feel it. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. Non lo sposerò. |
-| GERALD | Madre, devi. |
-| MRS | ARBUTHNOT. Non lo farò. Tu parli di espiazione per un torto commesso. Quale espiazione può essermi resa? Non c’è espiazione possibile. Io sono disonorata: lui no. Ecco tutto. È la solita [[concepts/history\|storia]] di un uomo e di una donna, come accade di solito, come accade sempre. E la fine è la fine consueta. La donna soffre. L’uomo se ne va libero. |
-| GERALD | Non so se sia questa la fine consueta, madre: [[concepts/hope\|spero]] di no. Ma la tua vita, in ogni caso, non finirà così. Quell’uomo darà tutta la riparazione possibile. Non basta. Non cancella il passato, lo so bene. Ma almeno rende migliore il futuro, migliore per te, madre. |
-| MRS | ARBUTHNOT. Mi rifiuto di sposare [[characters/lord-illingworth\|Lord Illingworth]]. |
-| GERALD | Se venisse lui stesso da te e ti chiedesse di essere sua moglie, gli daresti una risposta diversa. Ricorda che è mio padre. |
-| MRS | ARBUTHNOT. Se venisse lui stesso, cosa che non farà, la mia risposta sarebbe la stessa. Ricorda che io sono tua madre. |
-| GERALD | Madre, mi rendi tutto terribilmente difficile parlando così; e non riesco a capire perché non voglia guardare a questa faccenda dal giusto punto di vista, dall’unico punto di vista possibile. È per togliere l’amarezza dalla tua vita, per togliere l’[[archetypes/shadow\|ombra]] che pesa sul tuo nome, che questo [[motifs/marriage\|matrimonio]] deve aver luogo. Non c’è alternativa: e dopo il [[motifs/marriage\|matrimonio]] tu e io potremo andarcene insieme. Ma prima il [[motifs/marriage\|matrimonio]] deve aver luogo. È un dovere che hai non soltanto verso te stessa, ma verso tutte le altre donne - sì: verso tutte le altre donne del mondo, perché non ne tradisca altre. |
-| MRS | ARBUTHNOT. Non devo nulla alle altre donne. Non ce n’è una che mi aiuti. Non c’è una sola donna al mondo da cui potrei andare a cercare pietà, se volessi accettarla, o comprensione, se riuscissi a ottenerla. Le donne sono dure le une con le altre. Quella ragazza, ieri [[motifs/night\|sera]], per quanto buona sia, è fuggita dalla stanza come se io fossi una cosa contaminata. E aveva ragione. Io sono una cosa contaminata. Ma i torti che ho subito sono miei, e li porterò da sola. Devo portarli da sola. Che cosa hanno a che fare con me le donne che non hanno peccato, o io con loro? Non ci comprendiamo a vicenda. |
-| *(didascalia)* | [Entra HESTER in fondo.] |
-| GERALD | Ti supplico di fare ciò che ti chiedo. |
-| MRS | ARBUTHNOT. Quale figlio ha mai chiesto a sua madre un sacrificio così orrendo? Nessuno. |
-| GERALD | Quale madre ha mai rifiutato di sposare il padre del proprio [[archetypes/child\|figlio]]? Nessuna. |
-| MRS | ARBUTHNOT. Lascia allora che io sia la prima. Non lo farò. |
-| GERALD | Madre, tu credi nella religione, e hai cresciuto anche me perché ci credessi. [[motifs/well\|Ebbene]], di certo la tua religione, la religione che mi hai insegnato quand’ero bambino, madre, deve dirti che ho ragione. Lo sai, lo senti. |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_05" data-title="A Woman of No Importance — Act 4 [5]" data-chapter="part 05" data-kind="excerpt" data-tags="motif/love,motif/marriage,concept/honour,concept/truth"></span>
@@ -2358,12 +1348,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 |---|---|
 | MRS | ARBUTHNOT. I do not know it. I do not feel it, nor will I ever stand before God’s altar and ask God’s blessing on so hideous a mockery as a [[motifs/marriage\|marriage]] between me and George Harford. I will not say the words the Church bids us to say. I will not say them. I dare not. How could I swear to [[motifs/love\|love]] the man I loathe, to [[concepts/honour\|honour]] him who wrought you dishonour, to obey him who, in his mastery, made me to sin? No: [[motifs/marriage\|marriage]] is a sacrament for those who [[motifs/love\|love]] each other. It is not for such as him, or such as me. Gerald, to save you from the world’s sneers and taunts I have lied to the world. For twenty years I have lied to the world. I could not tell the world the [[concepts/truth\|truth]]. Who can, ever? But not for my own sake will I lie to God, and in God’s presence. No, Gerald, no ceremony, Church-hallowed or State-made, shall ever bind me to George Harford. It may be that I am too bound to him already, who, robbing me, yet left me richer, so that in the mire of my life I found the pearl of price, or what I thought would be so. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. Non lo so. Non lo sento, né mai starò davanti all’altare di Dio a invocare la benedizione di Dio su una beffa così orrenda come un [[motifs/marriage\|matrimonio]] fra me e George Harford. Non dirò le parole che la Chiesa ci comanda di dire. Non le dirò. Non oso. Come potrei giurare di [[motifs/love\|amare]] l’uomo che aborro, di [[concepts/honour\|onorare]] colui che ti ha coperto di disonore, di obbedire a colui che, col suo dominio, mi fece peccare? No: il [[motifs/marriage\|matrimonio]] è un sacramento per coloro che si [[motifs/love\|amano]]. Non è per uno come lui, o per una come me. Gerald, per salvarti dai sogghigni e dagli scherni del mondo ho mentito al mondo. Per vent’anni ho mentito al mondo. Non potevo dire al mondo la [[concepts/truth\|verità]]. Chi mai lo può? Ma per me stessa non mentirò a Dio, e alla presenza di Dio. No, Gerald, nessuna cerimonia, consacrata dalla Chiesa o istituita dallo Stato, mi legherà mai a George Harford. Può darsi che io sia già fin troppo legata a lui, il quale, derubandomi, mi lasciò tuttavia più ricca, sicché nel fango della mia vita trovai la perla di gran prezzo, o ciò che credevo tale. |
 
 
 
@@ -2375,12 +1359,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | GERALD | I don’t understand you now. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| GERALD | Adesso non ti capisco. |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_07" data-title="A Woman of No Importance — Act 4 [7]" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/love,motif/night,motif/pain,motif/soul,motif/time,motif/winter,concept/body"></span>
@@ -2390,12 +1368,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 |---|---|
 | MRS | ARBUTHNOT. Men don’t understand what mothers are. I am no different from other women except in the wrong done me and the wrong I did, and my very heavy punishments and great disgrace. And yet, to bear you I had to look on [[motifs/death\|death]]. To nurture you I had to wrestle with it. [[motifs/death\|Death]] fought with me for you. All women have to fight with [[motifs/death\|death]] to keep their children. [[motifs/death\|Death]], being childless, wants our children from us. Gerald, when you were naked I clothed you, when you were hungry I gave you food. [[motifs/night\|Night]] and day all that long [[motifs/winter\|winter]] I tended you. No office is too mean, no care too lowly for the thing we women [[motifs/love\|love]] - and oh! how I loved YOU. Not Hannah, Samuel more. And you needed [[motifs/love\|love]], for you were weakly, and only [[motifs/love\|love]] could have kept you alive. Only [[motifs/love\|love]] can keep any one alive. And boys are careless often and without thinking give [[motifs/pain\|pain]], and we always fancy that when they come to man’s estate and know us better they will repay us. But it is not so. The world draws them from our side, and they make friends with whom they are happier than they are with us, and have amusements from which we are barred, and interests that are not ours: and they are unjust to us often, for when they find life bitter they blame us for it, and when they find it sweet we do not taste its sweetness with them . . . You made many friends and went into their houses and were glad with them, and I, knowing my secret, did not dare to follow, but stayed at [[motifs/home\|home]] and closed the door, shut out the sun and sat in darkness. What should I have done in honest households? My past was ever with me. . . . And you thought I didn’t care for the pleasant things of life. I tell you I longed for them, but did not dare to touch them, feeling I had no right. You thought I was happier working amongst the poor. That was my mission, you imagined. It was not, but where else was I to go? The sick do not ask if the hand that smooths their pillow is pure, nor the dying care if the lips that touch their brow have known the kiss of sin. It was you I thought of all the [[motifs/time\|time]]; I gave to them the [[motifs/love\|love]] you did not need: lavished on them a [[motifs/love\|love]] that was not theirs . . . And you thought I spent too much of my [[motifs/time\|time]] in going to Church, and in Church duties. But where else could I turn? God’s house is the only house where sinners are made welcome, and you were always in my heart, Gerald, too much in my heart. For, though day after day, at morn or evensong, I have knelt in God’s house, I have never repented of my sin. How could I repent of my sin when you, my [[motifs/love\|love]], were its fruit! Even now that you are bitter to me I cannot repent. I do not. You are more to me than innocence. I would rather be your mother - oh! much rather! - than have been always pure . . . Oh, don’t you see? don’t you understand? It is my dishonour that has made you so dear to me. It is my disgrace that has bound you so closely to me. It is the price I paid for you - the price of [[motifs/soul\|soul]] and [[concepts/body\|body]] - that makes me [[motifs/love\|love]] you as I do. Oh, don’t ask me to do this horrible thing. [[archetypes/child\|Child]] of my shame, be still the [[archetypes/child\|child]] of my shame! |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. Gli uomini non capiscono che cosa siano le madri. Non sono diversa dalle altre donne se non per il torto che mi è stato fatto e per il torto che ho commesso, e per le mie pene gravissime e la mia grande vergogna. Eppure, per darti alla luce dovetti guardare in faccia la [[motifs/death\|morte]]. Per allevarti dovetti lottare con essa. La [[motifs/death\|Morte]] combatté con me per averti. Tutte le donne devono lottare con la [[motifs/death\|morte]] per conservare i propri figli. La [[motifs/death\|Morte]], che non ha figli, vuole da noi i nostri figli. Gerald, quando eri nudo ti ho vestito, quando avevi fame ti ho dato da mangiare. [[motifs/night\|Notte]] e giorno, per tutto quel lungo [[motifs/winter\|inverno]], ti ho vegliato. Nessun compito è troppo umile, nessuna cura troppo bassa per la creatura che noi donne [[motifs/love\|amiamo]] - e oh! quanto ho amato TE. Non più Anna il suo Samuele. E tu avevi bisogno d’[[motifs/love\|amore]], perché eri gracile, e solo l’[[motifs/love\|amore]] poteva tenerti in vita. Solo l’[[motifs/love\|amore]] può tenere qualcuno in vita. E i ragazzi sono spesso sbadati e senza pensarci fanno [[motifs/pain\|male]], e noi immaginiamo sempre che quando saranno uomini fatti e ci conosceranno meglio ci ricompenseranno. Ma non è così. Il mondo li allontana dal nostro fianco, e si fanno amici con cui sono più felici che con noi, e hanno svaghi da cui siamo escluse, e interessi che non sono i nostri: e spesso sono ingiusti con noi, perché quando trovano amara la vita ne danno la colpa a noi, e quando la trovano dolce non ne assaporiamo con loro la dolcezza . . . Tu ti facesti molti amici e andasti nelle loro case e con loro fosti lieto, e io, conoscendo il mio segreto, non osai seguirti, ma rimasi a [[motifs/home\|casa]] e chiusi la porta, escludendo il sole, e sedetti nel buio. Che cosa avrei fatto in famiglie oneste? Il mio passato era sempre con me. . . . E tu credevi che non m’importasse delle cose piacevoli della vita. Ti dico che le desideravo, ma non osavo toccarle, sentendo di non averne diritto. Credevi che fossi più felice a lavorare fra i poveri. Quella era la mia missione, immaginavi. Non lo era, ma dove altro potevo andare? I malati non chiedono se la mano che liscia il loro guanciale sia pura, né ai morenti importa se le labbra che sfiorano la loro fronte abbiano conosciuto il bacio del peccato. Eri tu che avevo in mente per tutto il [[motifs/time\|tempo]]; a loro davo l’[[motifs/love\|amore]] di cui tu non avevi bisogno: prodigavo a loro un [[motifs/love\|amore]] che non era il loro . . . E tu credevi che passassi troppo del mio [[motifs/time\|tempo]] ad andare in chiesa e nei doveri di chiesa. Ma dove altro potevo rivolgermi? La casa di Dio è l’unica casa in cui i peccatori siano accolti, e tu eri sempre nel mio cuore, Gerald, troppo nel mio cuore. Perché, sebbene giorno dopo giorno, al mattino o al vespro, mi sia inginocchiata nella casa di Dio, non mi sono mai pentita del mio peccato. Come potevo pentirmi del mio peccato, quando tu, [[motifs/love\|amore]] mio, ne eri il frutto! Anche ora che sei duro con me non posso pentirmi. Non me ne pento. Tu sei per me più dell’innocenza. Preferirei essere tua madre - oh! molto di più! - che essere stata sempre pura . . . Oh, non vedi? non capisci? È il mio disonore che ti ha reso così caro a me. È la mia vergogna che ti ha legato a me così strettamente. È il prezzo che ho pagato per te - il prezzo dell’[[motifs/soul\|anima]] e del [[concepts/body\|corpo]] - a farmi [[motifs/love\|amare]] come ti amo. Oh, non chiedermi di fare questa cosa orribile. [[archetypes/child\|Figlio]] della mia vergogna, resta il [[archetypes/child\|figlio]] della mia vergogna! |
 
 
 
@@ -2427,32 +1399,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. But we are very poor. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| GERALD | Madre, non sapevo che mi amassi tanto. E sarò per te un figlio migliore di quanto sia stato. E tu e io non dovremo mai lasciarci . . . ma, madre . . . non posso farci nulla . . . devi diventare la moglie di mio padre. Devi sposarlo. È il tuo dovere. |
-| HESTER | [Accorrendo e abbracciando MRS. ARBUTHNOT.] No, no; non lo farà. Quello sarebbe vero disonore, il primo che lei abbia mai conosciuto. Quella sarebbe vera vergogna: la prima a toccarla. Lo lasci e venga con me. Ci sono altri paesi oltre l’Inghilterra . . . Oh! altri paesi oltre il mare, terre migliori, più sagge e meno ingiuste. Il mondo è molto ampio e molto grande. |
-| MRS | ARBUTHNOT. No, non per me. Per me il mondo si è ristretto all’ampiezza di un palmo, e dove cammino ci sono spine. |
-| HESTER | Non sarà così. Troveremo da qualche parte valli verdi e acque fresche, e se piangeremo, [[motifs/well\|ebbene]], piangeremo insieme. Non lo abbiamo forse amato entrambe? |
-| GERALD | Hester! |
-| HESTER | [Respingendolo con un gesto.] No, no! Lei non può [[motifs/love\|amare]] me, se non [[motifs/love\|ama]] anche sua madre. Non può [[concepts/honour\|onorare]] me, se non è lei la più santa ai suoi occhi. In lei tutta la femminilità è martirizzata. Non lei sola, ma tutte noi siamo ferite nella sua casa. |
-| GERALD | Hester, Hester, che cosa devo fare? |
-| HESTER | Rispetta l’uomo che è suo padre? |
-| GERALD | Rispettarlo? Lo disprezzo! È infame. |
-| HESTER | La ringrazio per avermi salvata da lui ieri [[motifs/night\|sera]]. |
-| GERALD | Ah, non è nulla. Morirei per salvarla. Ma non mi dice che cosa devo fare adesso! |
-| HESTER | Non l’ho forse ringraziata per aver salvato ME? |
-| GERALD | Ma che cosa dovrei fare? |
-| HESTER | Lo chieda al suo cuore, non al mio. Io non ho mai avuto una madre da salvare, o da disonorare. |
-| MRS | ARBUTHNOT. È duro - è duro. Lasciatemi andare. |
-| GERALD | [Corre e s’inginocchia accanto alla madre.] Madre, perdonami: la colpa è stata mia. |
-| MRS | ARBUTHNOT. Non baciarmi le mani: sono fredde. Il mio cuore è freddo: qualcosa lo ha spezzato.<br>HESTER, Ah, non dica così. I cuori vivono d’essere feriti. Il piacere può mutare un cuore in pietra, la ricchezza può renderlo insensibile, ma il dolore - oh, il dolore non può spezzarlo. E poi, quali dolori ha adesso? Ma se in questo momento lei gli è più cara che mai, per quanto CARA gli sia SEMPRE stata, e oh! quanto cara gli È STATA da sempre. Ah! sia buona con lui. |
-| GERALD | Tu sei mia madre e mio padre insieme. Non ho bisogno di un secondo genitore. È per te che ho parlato, per te soltanto. Oh, di’ qualcosa, madre. Ho forse trovato un [[motifs/love\|amore]] solo per perderne un altro? Non dirmi questo. Oh madre, sei crudele. [Si alza e si getta singhiozzando su un divano.] |
-| MRS | ARBUTHNOT. [A HESTER.] Ma ha davvero trovato un altro [[motifs/love\|amore]]? |
-| HESTER | Sa bene che l’ho sempre amato. |
-| MRS | ARBUTHNOT. Ma siamo molto poveri. |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_09" data-title="A Woman of No Importance — Act 4 [9]" data-chapter="part 09" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/love,motif/night,motif/well,character/lord_illingworth"></span>
@@ -2482,31 +1428,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | We won’t discuss that at present. What is of importance to-day, as yesterday, is still our son. I am extremely fond of him, as you know, and odd though it may seem to you, I admired his conduct last [[motifs/night\|night]] immensely. He took up the cudgels for that pretty prude with wonderful promptitude. He is just what I should have liked a son of mine to be. Except that no son of mine should ever take the side of the Puritans: that is always an error. Now, what I propose is this. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| HESTER | Chi è amato, è forse povero? Oh, nessuno. Io odio la mia ricchezza.<br>È un fardello. Che lo divida con me. |
-| MRS | ARBUTHNOT. Ma siamo disonorati. Siamo fra i reietti. Gerald è senza nome. Le colpe dei padri devono ricadere sui figli. È legge di Dio. |
-| HESTER | Mi sbagliavo. La legge di Dio è soltanto [[motifs/love\|Amore]]. |
-| MRS | ARBUTHNOT. [Si alza e, prendendo HESTER per mano, si avvicina lentamente al punto in cui GERALD giace sul divano col capo affondato tra le mani. Lo tocca ed egli alza lo sguardo.] Gerald, non posso darti un padre, ma ti ho portato una moglie. |
-| GERALD | Madre, non sono degno né di lei né di te. |
-| MRS | ARBUTHNOT. Se lei viene per prima, allora sei degno. E quando sarai lontano, Gerald . . . con . . . lei - oh, pensa a me qualche volta. Non dimenticarmi. E quando preghi, prega per me. Bisognerebbe pregare quando si è più felici, e tu sarai felice, Gerald. |
-| HESTER | Oh, non penserà di lasciarci? |
-| GERALD | Madre, non ci lascerai? |
-| MRS | ARBUTHNOT. Potrei coprirvi di vergogna! |
-| GERALD | Madre! |
-| MRS | ARBUTHNOT. Per un poco, allora: e se me lo permettete, sempre vicino a voi. |
-| HESTER | [A MRS. ARBUTHNOT.] Venga fuori con noi in [[motifs/garden\|giardino]]. |
-| MRS | ARBUTHNOT. Più tardi, più tardi. [Escono HESTER e GERALD. MRS. ARBUTHNOT si dirige verso la porta a sinistra al centro. Si ferma davanti allo specchio sopra il camino e vi si guarda. Entra ALICE da destra al centro.] |
-| ALICE | Un signore per lei, signora. |
-| MRS | ARBUTHNOT. Dica che non sono in [[motifs/home\|casa]]. Mostrami il biglietto. [Prende il biglietto dal vassoio e lo guarda.] Dica che non lo riceverò.<br>[[[characters/lord-illingworth\|LORD ILLINGWORTH]] entra. MRS. ARBUTHNOT lo vede nello specchio e trasale, ma non si volta. Esce ALICE.] Che cosa puoi avere da dirmi oggi, George Harford? Non puoi avere nulla da dirmi. Devi lasciare questa casa. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Rachel, Gerald ormai sa tutto di te e di me, e dunque bisogna venire a un accordo che convenga a tutti e tre. Ti assicuro che troverà in me il più affascinante e generoso dei padri. |
-| MRS | ARBUTHNOT. Mio figlio può entrare da un momento all’altro. Ieri [[motifs/night\|notte]] ti ho salvato. Potrei non essere in grado di salvarti una seconda volta. Mio figlio sente il mio disonore in modo profondo, terribilmente profondo. Ti prego, vattene. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [Sedendosi.] Ieri [[motifs/night\|notte]] è stata straordinariamente sfortunata. Quella sciocca puritana che fa una scena solo perché volevo baciarla. Che male c’è in un bacio? |
-| MRS | ARBUTHNOT. [Voltandosi.] Un bacio può rovinare una vita umana,<br>George Harford. Io lo so. Lo so anche troppo [[motifs/well\|bene]]. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non discutiamone adesso. Ciò che conta oggi, come ieri, è pur sempre nostro figlio. Gli sono molto affezionato, come sai, e per quanto possa sembrarti strano, ho ammirato immensamente la sua condotta di ieri [[motifs/night\|notte]]. Ha impugnato le armi per quella graziosa educanda con mirabile prontezza. È esattamente come avrei voluto che fosse un figlio mio. Salvo che nessun figlio mio dovrebbe mai schierarsi con i puritani: è sempre un errore. Ora, ecco che cosa propongo. |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_10" data-title="A Woman of No Importance — Act 4 [10]" data-chapter="part 10" data-kind="excerpt" data-tags="archetype/fool,motif/garden,motif/love,motif/time,motif/well,motif/window,character/lord_illingworth"></span>
@@ -2531,27 +1452,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. I was too weak once. It is [[motifs/well\|well]] for me that I have changed. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | I was very young at the [[motifs/time\|time]]. We men know life too early. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. [[characters/lord-illingworth\|Lord Illingworth]], nessuna tua proposta mi interessa. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Secondo le nostre ridicole leggi inglesi non posso legittimare Gerald. Ma posso lasciargli i miei beni. Illingworth è vincolato al maggiorascato, naturalmente, ma è una noiosa caserma. Può avere Ashby, che è molto più graziosa, Harborough, che ha la migliore riserva di caccia del nord dell’Inghilterra, e la casa di St. James Square. Che altro può desiderare un gentiluomo a questo mondo? |
-| MRS | ARBUTHNOT. Nient’altro, ne sono certa. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Quanto al titolo, un titolo è davvero piuttosto una seccatura in questi tempi democratici. Come George Harford avevo tutto ciò che volevo. Adesso ho soltanto tutto ciò che vogliono gli altri, il che è molto meno piacevole. [[motifs/well\|Dunque]], la mia proposta è questa. |
-| MRS | ARBUTHNOT. Ti ho detto che non mi interessa, e ti prego di andartene. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Il ragazzo starà con te sei mesi all’anno, e con me gli altri sei. È perfettamente equo, non è vero? Potrai avere l’assegno che vorrai, e vivere dove ti piace. Quanto al tuo passato, nessuno ne sa nulla tranne me e Gerald. C’è la puritana, s’intende, la puritana in mussola bianca, ma lei non conta. Non potrebbe raccontare la storia senza spiegare che si opponeva a essere baciata, non ti pare? E tutte le donne la giudicherebbero una [[archetypes/fool\|sciocca]] e gli uomini una noiosa. E non devi temere che Gerald non sia il mio erede. Inutile dirti che non ho la minima intenzione di sposarmi. |
-| MRS | ARBUTHNOT. Arrivi troppo tardi. Mio figlio non ha bisogno di te.<br>Non sei necessario. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che cosa vuoi dire, Rachel? |
-| MRS | ARBUTHNOT. Che non sei necessario alla carriera di Gerald. Non gli occorri. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non ti capisco. |
-| MRS | ARBUTHNOT. Guarda nel [[motifs/garden\|giardino]]. [[[characters/lord-illingworth\|LORD ILLINGWORTH]] si alza e va verso la [[motifs/window\|finestra]].] Faresti meglio a non farti vedere da loro: porti ricordi sgradevoli. [[[characters/lord-illingworth\|LORD ILLINGWORTH]] guarda fuori e trasale.] Lei lo ama. Si [[motifs/love\|amano]]. Siamo al sicuro da te, e ce ne andiamo. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Dove? |
-| MRS | ARBUTHNOT. Non te lo diremo, e se ci troverai non ti riconosceremo. Sembri sorpreso. Quale accoglienza ti aspetteresti dalla fanciulla di cui hai tentato di macchiare le labbra, dal ragazzo la cui vita hai coperto di vergogna, dalla madre il cui disonore viene da te? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Sei diventata dura, Rachel. |
-| MRS | ARBUTHNOT. Un tempo fui troppo debole. È un [[motifs/well\|bene]] per me essere cambiata. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | A quel [[motifs/time\|tempo]] ero molto giovane. Noi uomini conosciamo la vita troppo presto. |
 
 
 
@@ -2587,36 +1487,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. You are right. We women live by our emotions and for them. By our passions, and for them, if you will. I have two passions, [[characters/lord-illingworth\|Lord Illingworth]]: my [[motifs/love\|love]] of him, my hate of you. You cannot kill those. They feed each other. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. E noi donne conosciamo la vita troppo tardi. È questa la differenza fra gli uomini e le donne. [Una pausa.] |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Rachel, voglio mio figlio. Il mio denaro forse ormai non gli serve. Forse io non gli servo, ma voglio mio figlio. Riuniscici, Rachel. Puoi farlo, se vuoi. [Vede la lettera sul tavolo.] |
-| MRS | ARBUTHNOT. Nella vita del mio ragazzo non c’è posto per te. TU non lo interessi. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | E allora perché mi scrive? |
-| MRS | ARBUTHNOT. Che cosa vuoi dire? |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che lettera è questa? [Prende la lettera.] |
-| MRS | ARBUTHNOT. Quella - non è nulla. Dammela. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È indirizzata a ME. |
-| MRS | ARBUTHNOT. Non devi aprirla. Ti proibisco di aprirla. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | E di pugno di Gerald. |
-| MRS | ARBUTHNOT. Non doveva essere spedita. È una lettera che ti ha scritto stamattina, prima di vedermi. Ma adesso è pentito di averla scritta, profondamente pentito. Non devi aprirla. Dammela. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Mi appartiene. [La apre, si siede e la legge lentamente. MRS. ARBUTHNOT lo osserva per tutto il [[motifs/time\|tempo]].] Immagino che tu abbia letto questa lettera, Rachel? |
-| MRS | ARBUTHNOT. No. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Sai che cosa c’è scritto? |
-| MRS | ARBUTHNOT. Sì! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non ammetto neppure per un istante che il ragazzo abbia ragione in ciò che dice. Non ammetto che sia un mio dovere sposarti. Lo nego del tutto. Ma per riavere mio figlio sono pronto - sì, sono pronto a sposarti, Rachel - e a trattarti sempre con la deferenza e il rispetto dovuti a mia moglie. Ti sposerò appena vorrai. Ti do la mia parola d’[[concepts/honour\|onore]]. |
-| MRS | ARBUTHNOT. Quella promessa me l’hai già fatta una volta, e l’hai infranta. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Adesso la manterrò. E questo ti mostrerà che<br>[[motifs/love\|amo]] mio figlio, almeno quanto lo [[motifs/love\|ami]] tu. Perché sposandoti,<br>Rachel, dovrò rinunciare a certe ambizioni.<br>Ambizioni alte, per giunta, se mai un’[[concepts/ambition\|ambizione]] è alta. |
-| MRS | ARBUTHNOT. Rifiuto di sposarti, [[characters/lord-illingworth\|Lord Illingworth]]. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Parli sul serio? |
-| MRS | ARBUTHNOT. Sì. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Dimmi le tue ragioni, ti prego. Mi interesserebbero enormemente. |
-| MRS | ARBUTHNOT. Le ho già spiegate a mio figlio. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Immagino fossero intensamente sentimentali, no? Voi donne vivete delle vostre emozioni e per esse. Non avete una filosofia della vita. |
-| MRS | ARBUTHNOT. Hai ragione. Noi donne viviamo delle nostre emozioni e per esse. Delle nostre passioni, e per esse, se preferisci. Io ho due passioni, [[characters/lord-illingworth\|Lord Illingworth]]: il mio [[motifs/love\|amore]] per lui, il mio odio per te. Non puoi ucciderle. Si nutrono a vicenda. |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_12" data-title="A Woman of No Importance — Act 4 [12]" data-chapter="part 12" data-kind="excerpt" data-tags="archetype/child,motif/leaves,motif/love,motif/night,motif/time,motif/well,motif/window,concept/hope,form/tragedy,character/lord_illingworth"></span>
@@ -2648,33 +1518,6 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | *(didascalia)* | [MRS. ARBUTHNOT snatches up glove and strikes [[characters/lord-illingworth\|LORD ILLINGWORTH]] across the face with it. [[characters/lord-illingworth\|LORD ILLINGWORTH]] starts. He is dazed by the insult of his punishment. Then he controls himself, and goes to [[motifs/window\|window]] and looks out at his son. Sighs and [[motifs/leaves\|leaves]] the room.] |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che razza di [[motifs/love\|amore]] è quello che ha bisogno dell’odio per fratello? |
-| MRS | ARBUTHNOT. È la specie di [[motifs/love\|amore]] che porto a Gerald. Ti sembra terribile? [[motifs/well\|Ebbene]], è terribile. Ogni [[motifs/love\|amore]] è terribile. Ogni [[motifs/love\|amore]] è una [[forms/tragedy\|tragedia]]. Un tempo ti ho amato, [[characters/lord-illingworth\|Lord Illingworth]]. Oh, che [[forms/tragedy\|tragedia]] per una donna averti amato! |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Dunque rifiuti davvero di sposarmi? |
-| MRS | ARBUTHNOT. Sì. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Perché mi odi? |
-| MRS | ARBUTHNOT. Sì. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | E mio figlio mi odia quanto me ne odi tu? |
-| MRS | ARBUTHNOT. No. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Ne sono lieto, Rachel. |
-| MRS | ARBUTHNOT. Ti disprezza soltanto. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che peccato! Che peccato per lui, intendo. |
-| MRS | ARBUTHNOT. Non illuderti, George. I figli cominciano con l’amare i genitori. Dopo un po’ di [[motifs/time\|tempo]] li giudicano. Raramente, se mai, li perdonano. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [Rilegge la lettera, molto lentamente.] Posso chiederti con quali argomenti hai convinto il ragazzo che ha scritto questa lettera, questa bella, appassionata lettera, che non dovevi sposare suo padre, il padre di tuo [[archetypes/child\|figlio]]? |
-| MRS | ARBUTHNOT. Non sono stata io a farglielo capire. È stata un’altra. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Quale persona FIN-DE-SIÈCLE? |
-| MRS | ARBUTHNOT. La puritana, [[characters/lord-illingworth\|Lord Illingworth]]. [Una pausa.] |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [Ha un sussulto, poi si alza lentamente e va al tavolo dove sono il suo cappello e i suoi guanti. MRS. ARBUTHNOT è in piedi accanto al tavolo. Egli prende uno dei guanti e comincia a infilarlo.] Non c’è dunque molto da fare per me qui, Rachel? |
-| MRS | ARBUTHNOT. Nulla. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È un addio, dunque? |
-| MRS | ARBUTHNOT. Per sempre, [[concepts/hope\|spero]], questa [[motifs/time\|volta]], [[characters/lord-illingworth\|Lord Illingworth]]. |
-| [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che curioso! In questo momento hai esattamente l’aria che avevi la [[motifs/night\|notte]] in cui mi lasciasti, vent’anni fa. Hai proprio la stessa espressione sulle labbra. Parola mia, Rachel, nessuna donna mi ha mai amato come mi amasti tu. Ma se ti donasti a me come un fiore, perché ne facessi ciò che volevo. Eri il più grazioso dei balocchi, il più affascinante dei piccoli romanzi . . . [Tira fuori l’orologio.] Le due meno un quarto! Devo tornarmene a Hunstanton. Non credo che ti rivedrò laggiù. Mi dispiace, davvero. È stata un’esperienza divertente incontrare fra gente del proprio rango, e per giunta trattata con tutta serietà, la propria amante, e il proprio - |
-| *(didascalia)* | [MRS. ARBUTHNOT afferra il guanto e con esso colpisce [[characters/lord-illingworth\|LORD ILLINGWORTH]] in pieno viso. [[characters/lord-illingworth\|LORD ILLINGWORTH]] trasale. È stordito dall’oltraggio del suo castigo. Poi si domina, va alla [[motifs/window\|finestra]] e guarda fuori il figlio. Sospira ed [[motifs/leaves\|esce]] dalla stanza.] |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_13" data-title="A Woman of No Importance — Act 4 [13]" data-chapter="part 13" data-kind="excerpt" data-tags="motif/garden,motif/well,character/lord_illingworth"></span>
@@ -2692,19 +1535,3 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | *(didascalia)* | [They move towards the door leading into [[motifs/garden\|garden]] with their arms round each other’s waists. GERALD goes to table L.C. for his hat. On turning round he sees [[characters/lord-illingworth\|LORD ILLINGWORTH]]’S glove lying on the floor, and picks it up.] |
 | GERALD | Hallo, mother, whose glove is this? You have had a visitor. Who was it? |
 | MRS | ARBUTHNOT. [Turning round.] Oh! no one. No one in particular. A man of no importance.<br>CURTAIN |
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |
-|---|---|
-| MRS | ARBUTHNOT. [Cade singhiozzando sul divano.] L’avrebbe detto. L’avrebbe detto. |
-| *(didascalia)* | [Entrano GERALD e HESTER dal [[motifs/garden\|giardino]].] |
-| GERALD | [[motifs/well\|Allora]], cara madre. Alla fine non sei uscita. Così siamo venuti noi a prenderti. Madre, non avrai pianto? [Si inginocchia accanto a lei.] |
-| MRS | ARBUTHNOT. Ragazzo mio! Ragazzo mio! Ragazzo mio! [Passandogli le dita fra i capelli.] |
-| HESTER | [Avvicinandosi.] Ma ora ha due figli. Mi lascerà essere sua figlia? |
-| MRS | ARBUTHNOT. [Alzando lo sguardo.] Mi sceglieresti come madre? |
-| HESTER | Lei fra tutte le donne che ho conosciuto. |
-| *(didascalia)* | [Si avviano verso la porta che dà sul [[motifs/garden\|giardino]] tenendosi a vicenda per la vita. GERALD va al tavolo a sinistra al centro a prendere il cappello. Voltandosi vede il guanto di [[characters/lord-illingworth\|LORD ILLINGWORTH]] a terra, e lo raccoglie.] |
-| GERALD | Ehi, madre, di chi è questo guanto? Hai avuto una visita. Chi era? |
-| MRS | ARBUTHNOT. [Voltandosi.] Oh! nessuno. Nessuno in particolare. Un uomo di nessuna importanza.<br>SIPARIO |

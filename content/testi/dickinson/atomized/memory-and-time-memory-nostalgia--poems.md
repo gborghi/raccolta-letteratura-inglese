@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/memory-and-time-memory-nostalgia--poems" data-author="Dickinson" data-workhref="works/memory-and-time-·-memory-·-nostalgia-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 33. If recollecting were forgetting, · 136. Have you got a Brook in your little heart, · 169. In Ebon Box, when years have flown · 302. Like Some Old fashioned Miracle · 367. Over and over, like a Tune — · 433. Knows how to forget! · 686. They say that "Time assuages" — · 701. A Thought went up my mind today — · 719. A South Wind — has a pathos · 744. Remorse — is Memory — awake — · 814. One Day is there of the Series · 895. A Cloud withdrew from the Sky · 898. How happy I was if I could forget · 902. The first Day that I was a Life · 995. This was in the White of the Year — · 1133. The Snow that never drifts — · 1182. Remembrance has a Rear and Front — · 1196. To make Routine a Stimulus · 1253. Had this one Day not been. · 1273. That sacred Closet when you sweep — · 1464. One thing of it we borrow · 1508. You cannot make Remembrance grow · 1628. A Drunkard cannot meet a Cork · 1753. Through those old Grounds of memory,
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_recollecting_were_forgetting" data-title="33. If recollecting were forgetting," data-chapter="" data-kind="intro" data-tags="motif/memory,concept/paradox,concept/memory_and_time,concept/grief_and_loss,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
 
 
@@ -29,6 +32,7 @@ How very blithe the maiden
 Who gathered these today!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Oh se ricordare fosse dimenticare -  
@@ -40,6 +44,8 @@ E far cordoglio fosse gaio,
 Che gioconda la fanciulla  
 Che colse questi oggi!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ve_you_got_a_brook_in_your_little_heart" data-title="136. Have you got a Brook in your little heart," data-chapter="" data-kind="intro" data-tags="motif/river,motif/water,motif/flowers,motif/seasons,concept/self_and_soul,concept/transience,form/allegory,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -66,6 +72,7 @@ Beware, lest this little brook of life
 Some burning [[motifs/noon|noon]] go dry !
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Hai un ruscello nel tuo piccolo cuore,  
@@ -88,6 +95,8 @@ Quando i prati giacciono riarsi,
 Bada, che questo piccolo ruscello di vita  
 In qualche [[motifs/noon|mezzogiorno]] ardente non si secchi !
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_ebon_box_when_years_have_flown" data-title="169. In Ebon Box, when years have flown" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/memory,motif/letters_writing,motif/dust,motif/flowers,motif/wine_and_drink,concept/memory_and_time,concept/nostalgia,concept/transience,concept/grief_and_loss,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -119,6 +128,7 @@ As if the little Ebon Box
 Were none of our affair!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 In Cofanetto d'Ebano, quando gli anni saranno volati  
@@ -146,6 +156,8 @@ E tornare alle proprie cure —
 Come se il piccolo Cofanetto d'Ebano  
 Non fosse affar nostro!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ke_some_old_fashioned_miracle" data-title="302. Like Some Old fashioned Miracle" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/memory,motif/music_and_song,motif/dreams,concept/transience,concept/nostalgia,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -172,6 +184,7 @@ The Violin in Baize replaced —
 And Ear — and Heaven — numb —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come un Qualche Miracolo all'Antica  
@@ -194,6 +207,8 @@ Quando l'Orchestra è muta —
 Il Violino riposto nel suo Panno —  
 E Orecchio — e Cielo — attoniti —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="er_and_over_like_a_tune" data-title="367. Over and over, like a Tune —" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/music_and_song,concept/immortality_divine,concept/nostalgia,histref/the_bible,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -210,6 +225,7 @@ But for the Justified Processions
 At the Lord's Right hand.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sempre e ancora, come una Melodia —  
@@ -222,6 +238,8 @@ Cadenze troppo grandi
 Se non per le Processioni Giustificate  
 Alla Destra del Signore.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ows_how_to_forget" data-title="433. Knows how to forget!" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/the_book,concept/grief_and_loss,concept/memory_and_time,concept/education,histref/the_bible,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -258,6 +276,7 @@ Rabbi of the Wise Book
 Don't you know?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sa come dimenticare!  
@@ -290,6 +309,8 @@ Deve avere un Brevetto.
 Rabbino del Libro Sapiente  
 Tu non lo sai?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ey_say_that_time_assuages" data-title="686. They say that &quot;Time assuages&quot; —" data-chapter="" data-kind="intro" data-tags="motif/time,concept/grief_and_loss,concept/memory_and_time,concept/melancholy,concept/paradox,form/lyric,form/epigram,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -306,6 +327,7 @@ If such it prove, it prove too
 There was no Malady —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dicono che "il [[motifs/time|Tempo]] mitiga" —  
@@ -318,6 +340,8 @@ Ma non un Rimedio —
 Se tale si dimostra, dimostra anche  
 Che non c'era Malattia —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thought_went_up_my_mind_today" data-title="701. A Thought went up my mind today —" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/memory,concept/memory_and_time,concept/inexpressibility,concept/self_and_soul,concept/identity,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -339,6 +363,7 @@ It just reminded me — 'twas all —
 And came my way no more —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Pensiero mi salì alla mente oggi —  
@@ -356,6 +381,8 @@ Ho già incontrato quella Cosa —
 Mi ha soltanto rammentato — ecco tutto —  
 E non venne più sulla mia via —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="south_wind_has_a_pathos" data-title="719. A South Wind — has a pathos" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/the_sea,concept/nostalgia,concept/melancholy,concept/exile,concept/desire,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -372,6 +399,7 @@ The fairer — for the farness —
 And for the foreignhood.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un [[motifs/wind|Vento]] del Sud — ha un pathos  
@@ -384,6 +412,8 @@ E molto non compreso —
 Più bello — per la lontananza —  
 E per la forestierità.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="morse_is_memory_awake" data-title="744. Remorse — is Memory — awake —" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/the_window,concept/guilt,concept/conscience,concept/memory_and_time,concept/melancholy,form/lyric,form/epigram,histref/christianity,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -405,6 +435,7 @@ For 't is his institution,---
 The complement of hell.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il rimorso è [[motifs/memory|memoria]] desta,  
@@ -422,6 +453,8 @@ Che nemmeno [[characters/god|Dio]] può sanare;
 Poiché è sua istituzione,---  
 Il complemento dell'inferno.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_day_is_there_of_the_series" data-title="814. One Day is there of the Series" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/grief_and_loss,concept/nostalgia,concept/memory_and_time,form/lyric,histref/new_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -448,6 +481,7 @@ Unto Such, were such Assembly
 'Twere Thanksgiving Day.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Giorno v'è della Serie  
@@ -470,6 +504,8 @@ Increspò alcun [[motifs/sea|Mare]],
 Per Costoro, fosse tale Assemblea  
 Sarebbe Giorno del Ringraziamento.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cloud_withdrew_from_the_sky" data-title="895. A Cloud withdrew from the Sky" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/grief_and_loss,concept/the_sublime,concept/memory_and_time,form/lyric,histref/christianity,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -491,6 +527,7 @@ Till I am firm in Heaven
 Is my intention now.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Nuvola si ritirò dal Cielo  
@@ -508,6 +545,8 @@ Con un'occhiata e un Inchino
 Finché non sia salda in Cielo  
 È il mio proposito ora.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_happy_i_was_if_i_could_forget" data-title="898. How happy I was if I could forget" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/memory,motif/autumn,concept/grief_and_loss,concept/nostalgia,concept/melancholy,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -524,6 +563,7 @@ Lose my way like a little [[archetypes/child|Child]]
 And perish of the cold.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Com'ero felice se potessi dimenticare  
@@ -536,6 +576,8 @@ Finché io che ero quasi ardita
 Smarrisco la via come un piccolo [[archetypes/child|Bimbo]]  
 E perisco di freddo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_first_day_that_i_was_a_life" data-title="902. The first Day that I was a Life" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/identity,concept/mortality,concept/memory_and_time,concept/self_and_soul,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -562,6 +604,7 @@ That — I cannot say —
 Question [[motifs/memory|Memory]]!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il primo Giorno che fui una Vita  
@@ -584,6 +627,8 @@ Questo — non so dire —
 "Quale scelgono Loro"?  
 Interroga la [[motifs/memory|Memoria]]!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_was_in_the_white_of_the_year" data-title="995. This was in the White of the Year —" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/winter,motif/flowers,concept/memory_and_time,concept/nostalgia,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -600,6 +645,7 @@ Retrospection is Prospect's half,
 Sometimes, almost more.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questo fu nel Bianco dell'Anno —  
@@ -612,6 +658,8 @@ O se pure sia — davanti —
 La Retrospezione è metà del Prospetto,  
 Talvolta, quasi più.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_snow_that_never_drifts" data-title="1133. The Snow that never drifts —" data-chapter="" data-kind="intro" data-tags="motif/snow,motif/winter,motif/memory,concept/transience,concept/memory_and_time,concept/paradox,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -638,6 +686,7 @@ We buy with contrast — Pang is good
 As near as [[motifs/memory|memory]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/snow|Neve]] che mai s'ammucchia —  
@@ -660,6 +709,8 @@ Il Valore non potrebbe darsi —
 Compriamo col contrasto — la Fitta è buona  
 Quanto le è vicina la [[motifs/memory|memoria]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="membrance_has_a_rear_and_front" data-title="1182. Remembrance has a Rear and Front —" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/animals,concept/memory_and_time,concept/self_and_soul,concept/madness,form/allegory,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -676,6 +727,7 @@ Look to it by its Fathoms
 Ourselves be not pursued —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Rimembranza ha un Retro e una Facciata —  
@@ -688,6 +740,8 @@ Che mai Muratore posò —
 Bada ai suoi Abissi  
 Che noi stessi non siamo inseguiti —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_make_routine_a_stimulus" data-title="1196. To make Routine a Stimulus" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/transience,concept/grace_and_redemption,concept/memory_and_time,concept/paradox,form/aphorism,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -703,6 +757,7 @@ Departed with the Torment
 Become, alas, more fair —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fare della Routine uno Stimolo  
@@ -714,6 +769,8 @@ Quel potere di riparare
 Partito con il Tormento  
 Divenuto, ahimè, più bello —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_this_one_day_not_been" data-title="1253. Had this one Day not been." data-chapter="" data-kind="intro" data-tags="motif/love,motif/memory,concept/grief_and_loss,concept/transience,concept/memory_and_time,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -730,6 +787,7 @@ Had it the stricken privilege,
 It cherishes before.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non fosse stato questo unico Giorno.  
@@ -742,6 +800,8 @@ Ciò che Perdita stimerebbe più
 Se avesse lo straziato privilegio,  
 Esso lo predilige prima.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_sacred_closet_when_you_sweep" data-title="1273. That sacred Closet when you sweep —" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/dust,motif/silence,concept/memory_and_time,concept/identity,concept/nostalgia,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -763,6 +823,7 @@ You cannot supersede itself
 But it can [[motifs/silence|silence]] you —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quel sacro Ripostiglio quando lo spazzi —  
@@ -780,6 +841,8 @@ Incontestata — lasciala giacere —
 Tu non puoi soppiantarla  
 Ma essa ti può [[motifs/silence|zittire]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_thing_of_it_we_borrow" data-title="1464. One thing of it we borrow" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/grief_and_loss,concept/transience,concept/memory_and_time,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -795,6 +858,7 @@ The Anguish of the Avarice
 Defrays the Dross of it —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una cosa ne prendiamo in prestito  
@@ -806,6 +870,8 @@ Il potere di dimenticare —
 L'Angoscia dell'Avarizia  
 Ne ripaga la Scoria —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="u_cannot_make_remembrance_grow" data-title="1508. You cannot make Remembrance grow" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/garden,motif/flowers,concept/memory_and_time,concept/grief_and_loss,form/lyric,form/aphorism,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -825,6 +891,7 @@ Its Iron Buds will sprout anew
 However overthrown —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non puoi far crescere la Rimembranza  
@@ -840,6 +907,8 @@ Quando una volta sarà cresciuta —
 Le sue Gemme di Ferro germoglieranno di nuovo  
 Per quanto rovesciata —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="drunkard_cannot_meet_a_cork" data-title="1628. A Drunkard cannot meet a Cork" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,motif/memory,motif/winter,concept/joy,concept/memory_and_time,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -859,6 +928,7 @@ Your connoisseur in Liquours
 Consults the Bumble Bee —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Ubriacone non può incontrare un Tappo  
@@ -874,6 +944,8 @@ E più ancora nella [[concepts/joy|gioia]] —
 Il vostro intenditore di Liquori  
 Consulta il Bombo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rough_those_old_grounds_of_memory" data-title="1753. Through those old Grounds of memory," data-chapter="" data-kind="intro" data-tags="motif/memory,motif/wine_and_drink,motif/sun,concept/memory_and_time,concept/nostalgia,concept/temptation,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -895,6 +967,7 @@ Alloys our firmer moments
 With that severest gold  
 Convenient to the [[concepts/longing|longing]]  
 But otherwise withheld.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -915,3 +988,5 @@ Adultera i nostri momenti più saldi
 Con quell'oro severissimo  
 Concesso al [[concepts/longing|desiderio]]  
 Ma altrimenti negato.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/self-knowledge-immortality-self-reliance" data-author="Whitman" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(whitman)"></div>
 
 
+<<<<<<< HEAD
 Poets to Come · Roots and Leaves Themselves Alone · Trickle Drops · Perfections · Roaming in Thought [After reading Hegel] · Visor’d · Locations and Times · As Toilsome I Wander’d Virginia’s Woods · How Solemn As One by One [Washington City, 1865] · The City Dead-House · Unnamed Land · To a Common Prostitute · To Think of Time · Darest Thou Now O Soul · Chanting the Square Deific · A Noiseless Patient Spider · To One Shortly to Die · The Last Invocation · Faces · Ah Poverties, Wincings, and Sulky Retreats · Weave in, My Hardy Life · My Legacy · As They Draw to a Close · So Long! · A Font of Type · Life · Stronger Lessons · Not Meagre, Latent Boughs Alone · Now Precedent Songs, Farewell · Long, Long Hence · Good-Bye My Fancy!
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="022_poets_to_come" data-title="Poets to Come" data-chapter="" data-kind="intro"></span>
 
 

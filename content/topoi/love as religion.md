@@ -19,6 +19,10 @@ tags:
 - [[works/to-frances-(chesterton)|to-frances (Chesterton)]]
 - [[works/alla-sua-amica-(coleridge)|ALLA SUA AMICA (Coleridge)]]
 - [[works/love’s-sanctuary-(coleridge)|LOVE’S SANCTUARY (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/milesisches-mährchen-(coleridge)|MILESISCHES MÄHRCHEN (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/the-rose-(coleridge)|THE ROSE (Coleridge)]]
 - [[works/to-asra-(coleridge)|TO ASRA (Coleridge)]]
 - [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan--poems#_was_a_quiet_way|1053. It was a quiet way — (Dickinson)]]

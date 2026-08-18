@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience" data-author="Coleridge" data-workhref="works/maturation-and-growth-·-childhood-·-innocence-and-experience-(coleridge)"></div>
 
 
+<<<<<<< HEAD
 SONNET: ON QUITTING SCHOOL FOR COLLEGE · TO AN INFANT · SONNET: TO A FRIEND WHO ASKED, HOW I FELT WHEN THE NURSE FIRST PRESENTED MY INFANT TO ME · ON THE CHRISTENING OF A FRIEND’S CHILD · FROST AT MIDNIGHT · A CHILD’S EVENING PRAYER · METRICAL FEET · TO BABY BATES · TO A CHILD
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="030_sonnet_on_quitting_school_for_college" data-title="SONNET: ON QUITTING SCHOOL FOR COLLEGE" data-chapter="" data-kind="intro"></span>
 
 
@@ -36,26 +39,12 @@ Mingled its [[motifs/tears|tears]] with hers — my widow’d Parent lorn.
 1791.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Addio, scene paterne! un triste addio!  
-A voi il mio cuore grato ancora teneramente s'aggrappa,  
-benché, svolazzando intorno sulle ali brunite della Fantasia,  
-la [[concepts/hope|Speranza]] ami narrare le sue storie di Gioia futura.  
-Addio, addio, voi pallidi chiostri tanto amati!   5  
-Ah! tornassero di nuovo quei giorni felici,  
-quando sotto le vostre arcate, libero d'ogni macchia,  
-udivo parlare di [[concepts/guilt|colpa]] e [[concepts/wonder|stupivo]] del racconto!  
-Cari ritrovi! dove spesso cantai i miei semplici canti,  
-ascoltando intanto l'eco dei miei passi,   10  
-indugiando vi lascio, con una fitta grande  
-quanto quando un tempo la mia piangente [[motifs/childhood|fanciullezza]], strappata  
-da precoce dolore dalla mia sede natia,  
-mescolò le sue [[motifs/tears|lacrime]] con quelle di lei — la mia Madre vedova e sola.  
-1791.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="096_to_an_infant" data-title="TO AN INFANT" data-chapter="" data-kind="intro"></span>
 
 
@@ -88,38 +77,12 @@ Meek [[characters/nurse|nurse]] of souls through their long Infancy!
 1795.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ah! cessa le tue [[motifs/tears|lacrime]] e i singhiozzi, mia piccola Vita!  
-Non feci che toglierti il coltello aperto:  
-qualche gioco più sicuro presto fermerà il tuo occhio,  
-e muterà in pronto riso questo pianto stizzoso!  
-Povero inciampatore sulla rocciosa costa del Dolore,   5  
-istruito dalla [[motifs/pain|Pena]] a conoscere ogni fonte di [[motifs/pain|pena]]!  
-Del pari il frutto nutriente e il [[motifs/fire|fuoco]] che brucia  
-destano la tua presa avida e il giovane [[motifs/desire|desiderio]];  
-del pari il Bene e il Male offendono la tua vista,  
-e destano il senso tempestoso d'uno stridulo Spavento!   10  
-Non istruito, eppure saggio! fra tutti i tuoi brevi allarmi  
-stretto ti aggrappi alle braccia di tua Madre,  
-annidando il visino in quel seno affettuoso  
-i cui ansiosi sussulti ti cullano al riposo!  
-Miniatura vivente dell'Uomo! mi fai sospirare — 15  
-un Bimbo sei tu — e una tal Cosa sono io!  
-Pronto all'ira e altrettanto presto placato,  
-per inezie in lutto e da inezie contentato,  
-spezzo lo [[motifs/mirror|specchio]] dell'[[concepts/friendship|Amicizia]] con un colpo stizzoso,  
-pure afferro i carboni di [[motifs/fire|fuoco]] che ardono sull'altare del Piacere!   20  
-O tu che allevi con celeste intento  
-il futuro Serafino nella mia mortale figura,  
-tre volte santa [[concepts/faith|Fede]]! quali spine io incontri  
-mentre barcollo innanzi con piedi inesperti,  
-lascia ch'io tenda le braccia e mi aggrappi a te,   25  
-mite [[characters/nurse|nutrice]] delle anime per la loro lunga Infanzia!  
-1795.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="120_sonnet_to_a_friend_who_asked_how_i_felt_when_the_nurse_first_presented_my_infant" data-title="SONNET: TO A FRIEND WHO ASKED, HOW I FELT WHEN THE NURSE FIRST PRESENTED MY INFANT TO ME" data-chapter="" data-kind="intro"></span>
 
 
@@ -140,26 +103,12 @@ And dearer was the mother for the [[archetypes/child|child]].
 1796.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Charles! il mio cuore lento fu solo triste, quando per la prima volta  
-scrutai quel volto di debole infanzia:  
-ché fioco irruppe nel mio spirito pensoso  
-tutto ciò che ero stato, e tutto ciò che mio [[archetypes/child|figlio]] poteva essere!  
-Ma quando lo vidi in braccio a sua madre,   5  
-e attaccato al suo seno (mentre lei  
-si chinava sui suoi lineamenti con un sorriso in lacrime),  
-allora fui scosso e intenerito, e caldissimo  
-impressi un bacio di padre: e tutto distolto  
-dal ricordo oscuro e dal [[concepts/fear|timore]] presago,   10  
-mi parve di veder apparire una forma d'angelo —  
-ed era proprio la tua, amata mite donna!  
-Così per amore della madre il [[archetypes/child|bambino]] mi fu caro,  
-e più cara mi fu la madre per il [[archetypes/child|bambino]].  
-1796.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="132_on_the_christening_of_a_friends_child" data-title="ON THE CHRISTENING OF A FRIEND’S CHILD" data-chapter="" data-kind="intro"></span>
 
 
@@ -206,52 +155,12 @@ Another and the same!   40
 1797.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Oggi posta tra i fedeli  
-e nutrita di manna battesimale,  
-o tu ornata del titolo materno,  
-carissima Anna della cara Anna!  
-Mentre altri ti augurano saggia e bella,   5  
-fanciulla di fama immacolata,  
-io esalerò questa più compendiosa [[motifs/prayer|preghiera]] —  
-che tu possa meritare il tuo nome!  
-Il nome di tua madre, potente incanto,  
-che ordina alle Virtù d'accorrere   10  
-da mistico boschetto e cella viva,  
-svelate all'occhio della Fantasia;  
-mite Quiete senza offesa;  
-Contentezza in gonnella di panno casalingo;  
-vero [[motifs/love|Amore]]; e l'Innocenza del vero [[motifs/love|Amore]],   15  
-bianco Fiore del Mirto!  
-Compagne del tuo nome, dolce [[archetypes/child|Bimba]]!  
-possa tu conquistare queste Virtù;  
-con volto così eloquentemente mite  
-da dire che dimorano dentro.   20  
-Così, quando il conto dei suoi giorni sarà tutto volato via,  
-e tua madre mancherà quaggiù;  
-quando il Cielo alfine reclamerà il suo  
-e gli Angeli rapiranno la loro Sorella;  
-qualche amico dal capo canuto, forse,   25  
-potrà fissarti col fiato mozzo;  
-e spesso, in momentanea estasi,  
-dimenticare lo scempio della [[motifs/death|morte]].  
-Così pure ho guardato una bella [[motifs/rose|rosa]]  
-nell'[[concepts/pride|orgoglio]] gonfio d'[[motifs/summer|estate]];   30  
-né notai il bocciolo che, verde e rozzo,  
-faceva capolino al fianco della [[motifs/rose|rosa]].  
-Avvenne che ripassassi di là  
-nell'ora estrema dell'[[motifs/autumn|Autunno]],  
-e stupito vidi il medesimo ramoscello   35  
-ricco del medesimo fiore.  
-Ah tenero inganno! il rozzo bocciolo verde,  
-simile per forma, posto, nome,  
-era fiorito dove fiorì il suo ceppo genitore,  
-altro e il medesimo!   40  
-1797.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="146_frost_at_midnight" data-title="FROST AT MIDNIGHT" data-chapter="" data-kind="intro"></span>
 
 
@@ -333,87 +242,12 @@ Quietly shining to the quiet [[motifs/moon|Moon]].
 February, 1798.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il [[motifs/frost|Gelo]] compie il suo ministero segreto,  
-non aiutato da alcun [[motifs/wind|vento]]. Il grido del gufetto  
-venne forte — e ascolta, di nuovo! forte come prima.  
-Gli abitanti del mio casolare, tutti a riposo,  
-mi hanno lasciato a quella [[concepts/solitude|solitudine]] che si addice   5  
-a più astruse meditazioni: salvo che al mio fianco  
-il mio bimbo in culla dorme in pace.  
-È calma davvero! così calma che turba  
-e molesta la meditazione col suo strano  
-ed estremo silenzio. Mare, [[motifs/hill|colle]] e bosco,   10  
-questo popoloso villaggio! Mare, e [[motifs/hill|colle]], e bosco,  
-con tutti gli innumerevoli andirivieni della vita,  
-inudibili come [[motifs/dreams|sogni]]! La sottile fiamma azzurra  
-giace sul mio [[motifs/fire|fuoco]] consumato, e non tremola;  
-solo quella pellicola, che palpitava sulla grata,   15  
-palpita ancora là, unica cosa inquieta.  
-Mi pare che il suo moto in questo silenzio della [[concepts/nature|natura]]  
-le dia fioche affinità con me che vivo,  
-facendone una forma di compagnia,  
-i cui deboli battiti e capricci lo Spirito ozioso   20  
-interpreta secondo i propri umori, ovunque  
-cercando eco o [[motifs/mirror|specchio]] di sé stesso,  
-e fa del Pensiero un giocattolo.  
-Ma oh! quante volte,  
-quante volte, a scuola, con mente credulissima,  
-presaga, ho fissato le sbarre,   25  
-per guardare quello straniero palpitante! e altrettanto spesso,  
-con le palpebre non chiuse, già avevo sognato  
-il mio dolce luogo natale, e il vecchio campanile,  
-le cui [[motifs/bells|campane]], unica musica del povero, suonarono  
-da mattina a sera, per tutto il caldo giorno di Fiera,   30  
-così dolcemente che mi commossero e mi ossessionarono  
-con un piacere selvaggio, cadendo sul mio orecchio  
-proprio come suoni articolati di cose future!  
-Così fissavo, finché le cose consolanti che sognavo  
-mi cullavano al [[motifs/sleep|sonno]], e il [[motifs/sleep|sonno]] prolungava i miei [[motifs/dreams|sogni]]!   35  
-E così rimuginavo tutta la mattina seguente,  
-soggiogato dal volto severo del precettore, l'occhio  
-fisso con finto studio sul mio libro che nuotava:  
-salvo che, se la porta si socchiudeva, rubavo  
-un'occhiata frettolosa, e sempre il cuore mi balzava,   40  
-ché sempre speravo di vedere il volto dello straniero,  
-compaesano, o zia, o sorella più amata,  
-mia compagna di giochi quando entrambi vestivamo uguale!  
-Caro Bimbo, che dormi in culla al mio fianco,  
-il cui dolce respiro, udito in questa calma profonda,   45  
-colma i vuoti sparsi  
-e le pause momentanee del pensiero!  
-Mio bimbo così bello! mi fa fremere il cuore  
-di tenera letizia, guardarti così,  
-e pensare che tu apprenderai ben altra dottrina,   50  
-e in ben altre scene! Ché io fui allevato  
-nella grande [[motifs/city|città]], rinchiuso fra chiostri oscuri,  
-e nulla vidi di bello se non il cielo e le [[motifs/stars|stelle]].  
-Ma tu, mio bimbo, vagherai come una brezza  
-per laghi e rive sabbiose, sotto le rupi   55  
-d'antica montagna, e sotto le nubi,  
-che nella loro mole raffigurano e laghi e rive  
-e rupi montane: così vedrai e udrai  
-le forme amabili e i suoni intelligibili  
-di quel linguaggio eterno che il tuo Dio   60  
-pronuncia, il quale dall'[[concepts/eternity|eternità]] insegna  
-sé stesso in tutto, e tutte le cose in sé.  
-Grande Maestro universale! egli plasmerà  
-il tuo spirito, e col dare gli farà chiedere.  
-Perciò tutte le [[motifs/seasons|stagioni]] ti saranno dolci,   65  
-sia che l'[[motifs/summer|estate]] rivesta la terra intera  
-di verde, sia che il pettirosso si posi e canti  
-tra i ciuffi di [[motifs/snow|neve]] sul ramo spoglio  
-del melo muscoso, mentre il vicino tetto di paglia  
-fuma al disgelo del sole; sia che le gocce della gronda cadano   70  
-udite solo nelle pause della raffica,  
-o che il ministero segreto del [[motifs/frost|gelo]]  
-le sospenda in silenziosi ghiaccioli,  
-che quieti brillano alla quieta [[motifs/moon|Luna]].  
-Febbraio 1798.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="229_a_childs_evening_prayer" data-title="A CHILD’S EVENING PRAYER" data-chapter="" data-kind="intro"></span>
 
 
@@ -436,28 +270,12 @@ Awake to thy eternal day! Amen.
 1806.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Prima di posare le membra sul mio letto,  
-Dio mi conceda grazia di dire le mie preghiere:  
-o Dio! conserva la mia cara madre  
-in forza e salute per molti anni;  
-e, oh! conserva anche mio padre,   5  
-e ch'io gli renda la dovuta riverenza;  
-e ch'io impieghi i miei pensieri migliori  
-a essere [[concepts/hope|speranza]] e gioia dei miei genitori;  
-e oh! conserva entrambi i miei fratelli  
-dalle male azioni e dall'accidia,   10  
-e possiamo sempre [[motifs/love|amarci]] l'un l'altro,  
-i nostri amici, nostro padre e nostra madre:  
-e ancora, o Signore, dammi  
-un cuore [[archetypes/innocent|innocente]] e grato,  
-affinché dopo il mio grande [[motifs/sleep|sonno]] io possa   15  
-destarmi al tuo giorno eterno! Amen.  
-1806.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="230_metrical_feet" data-title="METRICAL FEET" data-chapter="" data-kind="intro"></span>
 
 
@@ -484,32 +302,12 @@ See a man who so loves you as your fond S. T. COLERIDGE.
 1806.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-LEZIONE PER UN RAGAZZO  
-TrMche tr+ps frOm lMng tO shMrt;  
-From long to long in solemn sort  
-SlMw SpMnde stlks; strMng fo^ot! yet ill able  
-vr tO cMme mp w-th Dctyl tr-s3llbl.  
-,mb-cs mrch frOm shMrt tO lMng; — 5  
-W-th le^ap nd bo^und th sw-ft npæsts thrMng;  
-One syllable long, with one short at each side,  
-mph+brchys hstes w-th sttely stride; —  
-F+rst nd lst b-ng lMng, m+ddl shMrt, Amph-mcer  
-Str+kes h-s thkndr+ng ho^ofs l+ke pro^ud h+gh-brd Rcer.   10  
-Se Derwent sarà [[archetypes/innocent|innocente]], saldo e saggio,  
-e si diletterà delle cose della terra, dell'[[motifs/water|acqua]] e dei cieli;  
-con tenero calore in cuore, e questi metri per mostrarlo,  
-con sano senno nel cervello, Derwent potrà farsi poeta, —  
-potrà [[motifs/crown|coronarlo]] di fama, e gli guadagnerà di certo l'[[motifs/love|amore]]   15  
-del padre suo in terra e del Padre suo lassù.  
-Mio caro, caro [[archetypes/child|figlio]]!  
-Se tu potessi stare sullo Skiddaw, da tutto il suo crinale non  
-vedresti un uomo che t'ami quanto il tuo affezionato S. T. COLERIDGE.  
-1806.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="376_to_baby_bates" data-title="TO BABY BATES" data-chapter="" data-kind="intro"></span>
 
 
@@ -536,32 +334,12 @@ See a letter to Mrs. Bates from S. T. C. dated Jan. 23, 1829. N. and
 Q. 4th Series, i. 469.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Tu vieni da oltre le acque,  
-dalla famosa terra di Columbia,  
-e hai figli e figlie,  
-e denaro a comando.  
-Ma io vivo in un'isola,  
-Gran Bretagna è il suo nome,  
-senza denaro per comprar terra,  
-tanto più è la vergogna.  
-Ma siamo tutti figli  
-d'un solo grande Dio d'[[motifs/love|Amore]],  
-la cui [[concepts/mercy|misericordia]], come una gora di mulino,  
-trabocca dall'alto.  
-Ninna nanna, ninna nanna,  
-confetti e leccornie,  
-chiudi il tuo occhietto che spia,  
-bella Piccola B —— s.  
-Prima raccolta nel 1893. ‘Baby Bates’ era la figlia di Joshua Bates, uno  
-dei donatori della Boston Library. Suo padre e sua madre passarono un anno  
-(1828-1829) a Highgate, ‘vicino alla casa del dott. e della sig.ra Gillman.’  
-Vedi una lettera di S. T. C. alla sig.ra Bates datata 23 gen. 1829. N. and  
-Q. 4th Series, i. 469.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="377_to_a_child" data-title="TO A CHILD" data-chapter="" data-kind="intro"></span>
 
 
@@ -574,16 +352,3 @@ If she’ll laugh, skip and jump,
 And not be Miss Glump!  
 1834. First published in Athenæum, Jan. 28, 1888. First collected
 1893.  
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Piccola Miss Fanny,  
-così cubica e accorta,  
-con occhi azzurri e scarpe azzurre —  
-la [[characters/queen|Regina]] dei Blu!  
-La bimba più cara che ci sia al mondo —  
-se riderà, saltellerà e salterà,  
-e non farà la signorina Muso Lungo!  
-1834. Pubblicato per la prima volta in Athenæum, 28 gen. 1888. Prima raccolta
-nel 1893.

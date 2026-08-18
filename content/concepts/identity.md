@@ -120,6 +120,10 @@ tags:
 - [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#od_to_hide_and_hear_em_hunt|842. Good to hide, and hear 'em hunt! (Dickinson)]]
 - [[testi/dickinson/atomized/memory-and-time-memory-nostalgia--poems#e_first_day_that_i_was_a_life|902. The first Day that I was a Life (Dickinson)]]
 - [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism--poems#_who_in_himself_believes|969. He who in Himself believes — (Dickinson)]]
+<<<<<<< HEAD
+=======
+- [[works/mélange-adultère-de-tout-(eliot)|Mélange Adultère de Tout (Eliot)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/old-possum’s-book-of-practical-cats-(eliot)|OLD POSSUM’S BOOK OF PRACTICAL CATS (Eliot)]]
 - [[works/the-ad-dressing-of-cats-(eliot)|The Ad-dressing of Cats (Eliot)]]
 - [[works/the-cocktail-party-(eliot)|THE COCKTAIL PARTY (Eliot)]]

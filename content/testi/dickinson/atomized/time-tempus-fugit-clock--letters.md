@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/time-tempus-fugit-clock--letters" data-author="Dickinson" data-workhref="works/time-·-tempus-fugit-·-clock-(dickinson)" data-collection="letters"></div>
 
 
+<<<<<<< HEAD
 To Mrs. A. P. Strong, AMHERST, Feb. 23, 1845 · To Mrs. A. P. Strong, Thursday, Sept. 26, 1845 · To Mrs. A. P. Strong, AMHERST, Jan. 12, 1846 · To Mrs. A. P. Strong, Friday Eve [summer], 1846 · To Mrs. A. P. Strong · To Mr. William Austin Dickinson · To Mr. Samuel Bowlers and Mrs. Bowles, 1874 · To Miss Maria Whitney, October, 1883
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_a_p_strong_amherst_feb_23_1845" data-title="To Mrs. A. P. Strong, AMHERST, Feb. 23, 1845" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/frost,motif/birds,motif/stars,motif/letters_writing,motif/time,concept/friendship,concept/conscience,concept/transience,concept/memory,form/letter,setting/new_england,character/plato,character/socrates,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
 
 
@@ -26,6 +29,7 @@ DEAR A.,—After receiving the smitings of [[concepts/conscience|conscience]] fo
 I wish you would come and make me a long visit. If you will, I will entertain you to the best of my abilities, which you know are neither few nor small. Why can't you persuade your father and mother to let you come here to school next term, and keep me company, as I am going? Miss——-, I presume you can guess who I mean, is going to finish her [[concepts/education|education]] next [[motifs/summer|summer]]. The finishing stroke is to be put on at Newton. She will then have learned all that we poor foot-travellers are toiling up the [[motifs/hill|hill]] of knowledge to acquire. Wonderful thought! Her [[motifs/horse|horse]] has carried her along so swiftly that she has nearly gained the summit, and we. are plodding along on foot after her. [[motifs/well|Well]] said and sufficient this. We'll finish an [[concepts/education|education]] sometime, won't we? You may then be [[characters/plato|Plato]], and I will be [[characters/socrates|Socrates]], provided you won't be wiser than I am. [[characters/lavinia|Lavinia]] just now interrupted my flow of thought by saying give my [[motifs/love|love]] to A. I presume you will be glad to have some one break off this epistle. All the girls send much [[motifs/love|love]] to you. And please accept a large share for yourself.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro A., dopo aver subito per molto tempo le rimproveri della mia [[concepts/conscience|coscienza]], sono finalmente riuscito a soffocare la voce di quel fedele “guardiano” promettendoti una lunga [[forms/letter|lettera]]; quindi lascia tutto e preparati ad affrontare un “assedio” duraturo sotto forma di un mucchio di [[concepts/nonsense|sciocchezze]] da parte del tuo amico E.
@@ -34,6 +38,8 @@ Caro A., dopo aver subito per molto tempo le rimproveri della mia [[concepts/con
 
 Vorrei tanto che tu venissi a trovarmi per un lungo soggiorno. Se lo farai, ti intratterrò nel miglior modo possibile, come sai sono ben capaci di fare. Perché non riesci a convincere i tuoi genitori a lasciarti venire qui a scuola il prossimo semestre, così da farmi compagnia mentre vado anch’io? Signorina, immagino tu sappia a chi mi riferisco: lei concluderà la sua [[concepts/education|istruzione]] il prossimo [[motifs/summer|estate]]. L’ultimo passo della sua formazione avverrà a Newton. Allora avrà imparato tutto ciò che noi poveri viaggiatori abbiamo faticosamente appreso lungo la “collina del sapere”. Che idea meravigliosa! Il suo [[motifs/horse|cavallo]] l’ha portata così velocemente che è quasi arrivata in cima, mentre noi continuiamo a procedere a piedi dietro di lei. Bene, basta così. Un giorno anche noi concluderemo la nostra [[concepts/education|istruzione]], vero? Allora tu potrai essere il [[characters/plato|Platone]] e io il [[characters/socrates|Socrate]], purché tu non diventi più saggio di me. Poco fa [[characters/lavinia|Lavinia]] mi ha interrotto, chiedendomi di inviarti il mio [[motifs/love|affetto]]. Immagino che sarai felice se qualcuno interrompe questa lettera. Tutte le ragazze ti mandano tanto [[motifs/love|affetto]]; per favore accettane anche una grande parte per te stesso.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_a_p_strong_thursday_sept_26_1845" data-title="To Mrs. A. P. Strong, Thursday, Sept. 26, 1845" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/flowers,motif/autumn,motif/frost,motif/the_clock,motif/letters_writing,concept/friendship,concept/transience,concept/faith,concept/memory,form/letter,histref/the_bible,setting/new_england,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
@@ -42,6 +48,7 @@ Vorrei tanto che tu venissi a trovarmi per un lungo soggiorno. Se lo farai, ti i
 DEAREST A.,—As I just glanced at the [[motifs/clock|clock]] and saw how smoothly the little hands glide over the surface, I could scarcely believe that those selfsame little hands had eloped with so many of my precious moments since I received your affectionate [[forms/letter|letter]], and it was still harder for me to believe that I, who am always boasting of being so faithful a correspondent, should have been guilty of negligence in so long delaying to answer it. . . . I am very glad to hear that you are better than you have been, and I [[concepts/hope|hope]] in future disease will not be as neighborly as he has been heretofore to either of us. I long to see you, dear A., and speak with you face to face; but so long as a bodily interview is denied us, we must make letters answer, though it is hard for friends to be separated. I really believe you would have been frightened to have heard me scold when Sabra informed me that you had decided not to visit Amherst this fall. But as I could find no one upon whom to vent my spleen for your decision, I thought it best to be calm, and therefore have at length resigned myself to my cruel fate, though with not a very good grace. I think you do [[motifs/well|well]] to inquire whether anything has been heard from H. I really don't know what has become of her, unless procrastination has carried her off. I think that must be the case. I think you have given quite a [[forms/novel|novel]] description of the wedding. Are you quite sure Mr. F., the minister, told them to stand up and he would tie them in a great bow-knot? But I beg pardon for speaking so lightly of so solemn a ceremony. You asked me in your [[forms/letter|letter]] if I did not think you partial in your admiration of Miss [[characters/helen|Helen]] H., ditto Mrs. P. I answer, Not in the least. She was universally beloved in Amherst. She made us quite a visit in June, and we regretted more than ever that she was going where we could not see her as often as we had been accustomed. She seemed very happy in her prospects, and seemed to think distance nothing in comparison to a [[motifs/home|home]] with the one of her choice. I [[concepts/hope|hope]] she will be happy, and of course she will. I wished much to see her once more, but was denied the privilege. . . . You asked me if I was attending school now. I am not. Mother thinks me not able to confine myself to school this term. She had rather I would exercise, and I can assure you I get plenty of that article by staying at [[motifs/home|home]]. I am going to learn to make bread to-morrow. So you may imagine me with my sleeves rolled up, mixing flour, milk, saleratus, etc., with a deal of grace. I advise you if you don't know how to make the staff of life to learn with dispatch. I think I could keep house very comfortably if I knew how to cook. But as long as I don't, my knowledge of housekeeping is about of as much use as [[concepts/faith|faith]] without works, which you know we are told is dead. Excuse my quoting from Scripture, dear A., for it was so handy in this case I couldn't get along very [[motifs/well|well]] without it. Since I wrote you last, the [[motifs/summer|summer]] is past and gone, and [[motifs/autumn|autumn]] with the sere and yellow leaf is already upon us. I never knew the [[motifs/time|time]] to pass so swiftly, it seems to me, as the past [[motifs/summer|summer]]. I really think some one must have oiled his chariot wheels, for I don't recollect of hearing him pass, and I am sure I should if something had not prevented his chariot wheels from creaking as usual. But I will not expatiate upon him any longer, for I know it is wicked to trifle with so revered a personage, and I [[concepts/fear|fear]] he will make me a call in person to inquire as to the remarks which I have made concerning him. Therefore I will let him alone for the present. . . . How are you getting on with your music? [[motifs/well|Well]], I [[concepts/hope|hope]] and trust. I am taking lessons and am getting along very [[motifs/well|well]], and now I have a piano, I am very happy. I feel much honored at having even a doll named for me. I believe I shall have to give it a silver cup, as that is the custom among old ladies when a [[archetypes/child|child]] is named for them. . . . Have you any [[motifs/flowers|flowers]] now? I have had a beautiful flower-[[motifs/garden|garden]] this [[motifs/summer|summer]]; but they are nearly gone now. It is very cold to-[[motifs/night|night]], and I mean to pick the prettiest ones before I go to bed, and cheat Jack [[motifs/frost|Frost]] of so many of the treasures he calculates to rob to-[[motifs/night|night]]. Won't it be a capital idea to put him at defiance, for once at least, if no more? I would [[motifs/love|love]] to send you a bouquet if I had an opportunity, and you could press it and write under it, The last [[motifs/flowers|flowers]] of [[motifs/summer|summer]]. Wouldn't it be poetical, and you know that is what young ladies aim to be now-a-days. . . . I expect I have altered a good deal since I have seen you, dear A. I have grown tall a good deal, and wear my golden tresses done up in a net-cap. Modesty, you know, forbids me to mention whether my personal appearance has altered. I leave that for others to judge. But my [word omitted] has not changed, nor will it in [[motifs/time|time]] to come. I shall always remain the same old sixpence. . . . I can say no more now, as it is after ten, and everybody has gone to bed but me. Don't forget your affectionate friend,
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Carissima A.,  
@@ -52,6 +59,8 @@ Penso che sia una buona idea da parte tua chiedere notizie di H. Davvero non so 
 Mi hai chiesto se sto ancora frequentando la scuola. No. Mia madre pensa che quest’anno non sia in grado di dedicarmi agli studi. Preferisce che faccia esercizio fisico. E posso assicurarti che ne faccio abbastanza restando a [[motifs/home|casa]]. Domani imparerò a fare il pane. Quindi puoi immaginarmi con le maniche arrotolate, mescolando farina, latte, sale, ecc, con notevole abilità. Ti consiglio di imparare anche tu a cucinare, se non lo sai già. Penso che potrei gestire la casa molto bene se sapessi cucinare. Ma finché non lo so, le mie conoscenze in materia di casalinghezza sono praticamente inutili. Proprio come la [[concepts/faith|fede]] senza azioni concrethe. Come sappiamo, quest’ultima è considerata “morta”.
 Scusa se cito le Scritture, cara A., perché in questo caso sono state davvero molto utili. Da quando ti ho scritto l’ultima volta, l’[[motifs/summer|estate]] è già passata, e l’[[motifs/autumn|autunno]], con le sue serate fresche e le foglie gialle, è ormai arrivato. Non avrei mai immaginato che il tempo passasse così in fretta. Penso proprio che qualcuno abbia “untato i cerchi della sua carrozza”, perché non ricordo di averlo sentito passare. E sono sicura che me ne sarei accorta, se i suoi cerchi non avessero fatto il solito rumore. Ma non voglio parlare troppo di lui. So che è sbagliato prendersi gioco di una persona così rispettabile. E temo che possa chiamarmi personalmente per sapere cosa ho detto su di lui. Quindi, per ora, lo lascio in pace. Come va con la tua musica? Spero bene. Sto prendendo lezioni e sto facendo grandi progressi. Ora che ho un pianoforte, sono davvero felice. Mi sento molto onorata anche solo perché una bambola è stata chiamata come me. Credo che dovrò regalarle una tazza d’argento. È la tradizione delle vecchie signore, quando una bambina viene chiamata come loro. Hai qualche fiore adesso? Quest’estate ho avuto un bellissimo giardino pieno di fiori. Ma ora sono quasi tutti appassiti. Fa molto freddo di notte. Intendo raccogliere i fiori più belli prima di andare a letto, per impedire a Jack Frost di rubarne tanti. Non sarebbe un’ottima idea sfidarlo, almeno una volta? Mi piacerebbe tantissimo mandarti un mazzo di fiori, se ne avessi l’opportunità. Potresti metterlo sotto e scrivere sopra: “Gli ultimi fiori dell’estate”. Non sarebbe poetico? E sai bene che è proprio questo che le ragazze moderne cercano di essere oggi. Immagino di essere cambiata molto da quando ti ho vista, cara A. Sono cresciuta parecchio in altezza. E ora i miei capelli dorati sono raccolti in una reticella. La modestia mi impedisce di dire se il mio aspetto esteriore sia cambiato. Lascio che siano gli altri a giudicare. Ma il mio [testo omesso] non è cambiato, e non cambierà mai. Sarò sempre la solita vecchia me. Non posso dire altro. Ormai sono le dieci. Tutti sono andati a letto tranne me. Non dimenticarti della tua affezionata amica.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_a_p_strong_amherst_jan_12_1846" data-title="To Mrs. A. P. Strong, AMHERST, Jan. 12, 1846" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/death,motif/music_and_song,motif/letters_writing,motif/time,concept/friendship,concept/transience,concept/death,concept/faith,form/letter,histref/the_bible,setting/new_england,character/eve,character/adam,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
@@ -64,6 +73,7 @@ Haven't we had delightful weather for a week or two? It seems as if Old [[motifs
 Have you heard a word from H. M. or S. T.? I consider them lost sheep. I send them a paper every week on Monday, but I never get one in return. I am almost a mind to take a hand-car and go around to hunt them up. I can't think that they have forgotten us, and I know of no reason unless they are sick why they should delay so long to show any signs of remembrance. Do write me soon a very long [[forms/letter|letter]], and tell me all about your school and yourself too.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mia cara A.,  
@@ -73,6 +83,8 @@ Non abbiamo avuto tempo meraviglioso per una settimana o due? Sembra che il vecc
 
 Hai ricevuto notizie da H. M. o da S. T.? Li considero pecore smarrite. Gli mando una lettera ogni lunedì, ma non ricevo mai risposta. Sto quasi pensando di prendere un carro e andare a cercarli personalmente. Non riesco a credere che ci abbiano dimenticati; non vedo alcun motivo per cui dovrebbero trascorrere così tanto tempo senza darci notizie. Scrivimi presto una lunga lettera, e raccontami tutto di scuola e di te stesso.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_a_p_strong_friday_eve_summer_1846" data-title="To Mrs. A. P. Strong, Friday Eve [summer], 1846" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/letters_writing,motif/dreams,motif/time,concept/friendship,concept/transience,concept/aspiration,concept/hope,form/letter,setting/new_england,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
@@ -83,12 +95,15 @@ MY DEAR A.,—Though it is a long [[motifs/time|time]] since I received your aff
 It seems to me that [[motifs/time|time]] has never flown so swiftly with me as it has the last [[motifs/spring|spring]]. I have been busy every minute, and not only so, but hurried all the [[motifs/time|time]]. So you may imagine that I have not had a spare moment, much though my heart has longed for it, to commune with an absent friend. . . . I presume you will be wondering by this [[motifs/time|time]] what I am doing to be in so much haste as I have declared myself to be. [[motifs/well|Well]], I will tell you. I am fitting to go to South Hadley Seminary, and expect if my health is good to enter that institution a year from next fall. Are you not astonished to hear such news? You cannot imagine how much I am anticipating in entering there. It has been in my thought by day, and my [[motifs/dreams|dreams]] by [[motifs/night|night]], ever since I heard of South Hadley Seminary. I [[concepts/fear|fear]] I am anticipating too much, and that some freak of fortune may overturn all my airy schemes for future happiness. But it is my [[concepts/nature|nature]] always to anticipate more than I realize. . . . Have you not heard that Miss Adams—dear Miss Adams—is here this term? Oh, you cannot imagine how natural it seems to see her happy face in school once more. But it needs Harriet, Sarah, and your own dear [[concepts/self|self]] to complete the ancient picture. I [[concepts/hope|hope]] we shall get you all back before Miss Adams goes away again. Have you yet heard a word from that prodigal,—H.? . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mia cara A., anche se è trascorso molto tempo da quando ho ricevuto la tua affettuosa lettera, so che, una volta spiegati i motivi del mio ritardo, mi perdonerai volentieri e dimenticherai tutte le offese passate.
 
 Mi sembra che il [[motifs/time|tempo]] non abbia mai trascorso così velocemente per me come nell’ultima [[motifs/spring|primavera]]. Sono stato occupato ogni minuto, e non solo: ho sempre avuto fretta. Quindi potete immaginare che non abbia avuto un attimo libero, nonostante il mio cuore desiderasse ardentemente farlo, per comunicare con un amico lontano. Immagino che a questo punto vi stiate chiedendo cosa sto facendo per essere così impegnato. Beh, ve lo dirò: sto preparandomi ad andare al South Hadley Seminary e spero di potervi entrare entro l’autunno prossimo, se la mia salute sarà buona. Non siete sorpresi da questa notizia? Non potete nemmeno immaginare quanto io aspetti con impazienza quel momento. Da quando ho sentito parlare del South Hadley Seminary, non faccio che pensarci di giorno e sognarlo di notte. Temo di sperare troppo. Forse qualche imprevisto rovinerà tutti i miei piani per il futuro. Ma è nella mia natura aspettarmi sempre più di quanto io possa realmente realizzare. Non avete sentito dire che la cara Miss Adams è qui questo semestre? Oh, non potete immaginare quanto sia bello rivedere il suo viso felice a scuola. Ma ci mancano ancora Harriet, Sarah, e voi stessi. Spero di riuscire a riavervi tutti indietro prima che Miss Adams se ne vada di nuovo. Avete avuto notizie di quel figlio prodigo. H.?.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_a_p_strong" data-title="To Mrs. A. P. Strong" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/death,motif/memory,motif/music_and_song,motif/letters_writing,concept/friendship,concept/nostalgia,concept/memory,concept/death,form/letter,setting/new_england,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
@@ -99,12 +114,15 @@ Numerous postscripts are appended, as usually:—
 I have really suffered from the heat the last week. I think it remarkable that we should have such weather in September. There were over one hundred deaths in Boston last week, a great many of them owing to the heat. Mr. Taylor, our old teacher, was in Amherst at Commencement [[motifs/time|time]]. Oh, I do [[motifs/love|love]] Mr. Taylor. It seems so like old times to meet Miss Adams and Mr. Taylor together again. I could hardly refrain from singing, “Auld Lang Syne.” It seemed so very à propos. Have you forgotten the memorable ride we all took with Mr. Taylor, “Long, long ago”? . . . Austin entered college last Commencement. Only think! I have a brother who has the honor to be a Freshman! Will you not promise me that you will come to Commencement when he graduates? Do! Please! I have altered very much since you were here. I am now very tall, and wear long dresses nearly. Do you believe we shall know each other when we meet? Don't forget to write soon.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Numerose postille vengono aggiunte, come di consueto…
 
 Ho davvero sofferto molto a causa del caldo la scorsa settimana. Penso sia strano che faccia questo tempo a settembre. A Boston sono morte più di cento persone la scorsa settimana, molte a causa del caldo. Il signor Taylor, il nostro vecchio insegnante, era ad Amherst durante la cerimonia di laurea. Oh, quanto amo il signor Taylor! Rivedere insieme la signorina Adams e il signor Taylor è come tornare ai tempi passati. Non ho quasi potuto trattenermi dal cantare “Auld Lang Syne”: sembrava davvero appropriato. Hai dimenticato quel viaggio indimenticabile che abbiamo fatto tutti insieme con il signor Taylor, “tanto tempo fa”. Austin è entrato all’università durante l’ultima cerimonia di laurea. Pensaci! Ho un fratello che ha l’onore di essere uno studente del primo anno. Promettimi che verrai alla cerimonia di laurea quando si diplomerà, per favore? Sono cambiata molto da quando sei stato qui: ora sono molto alta e quasi sempre indosso abiti lunghi. Credi che riconosceremo l’una l’altra quando ci incontreremo? Non dimenticarti di scrivere presto.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson" data-title="To Mr. William Austin Dickinson" data-chapter="" data-kind="intro" data-tags="motif/home,motif/the_clock,motif/time,concept/desire_and_longing,concept/transience,form/letter,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
@@ -113,10 +131,13 @@ Ho davvero sofferto molto a causa del caldo la scorsa settimana. Penso sia stran
 Only think, you are coming Saturday! I don't know why it is that it's always [[characters/sunday|Sunday]] immediately you get [[motifs/home|home]]. I will arrange it differently. If it wasn't twelve o'[[motifs/clock|clock]] I would stay longer.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Pensa solo: arrivi sabato! Non so perché ogni volta che torni a casa sia sempre domenica. Organizzerò tutto diversamente. Se non fossero le dodici, resterei più a lungo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_1874" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, 1874" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/the_journey_of_life,motif/autumn,motif/summer,motif/seasons,concept/transience,concept/mortality,concept/memory_and_time,concept/nostalgia,form/lyric,form/letter,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
@@ -131,6 +152,7 @@ And almost count it an affront The presence to concede Of one however lovely, no
 So we evade the charge of years, One, one attempting shy The circumvention of the shaft Of life's declivity.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —il foglio di carta si muove troppo, quindi non riesco a scrivervi il mio nome; per questo vi mando invece il ritratto di vostro padre.
@@ -141,6 +163,8 @@ E quasi considerarlo un affronto il fatto di dover ammettere la presenza di qual
 
 Quindi evitiamo il peso degli anni, Uno dopo l’altro, cercando timidamente di eludere la discesa del corso della vita.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney_october_1883" data-title="To Miss Maria Whitney, October, 1883" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/the_clock,motif/time,concept/transience,concept/paradox,form/lyric,form/letter,histref/the_bible,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
@@ -151,6 +175,7 @@ DEAR FRIEND,—
 The [[motifs/clock|clock]] strikes one that just struck two— Some schism in the sum; A sorcerer from Genesis Has wrecked the pendulum.
 
 With warmest congratulation,
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -160,3 +185,5 @@ Caro amico, —
 L’[[motifs/clock|orologio]] suona le una, quando appena ha suonato le due. Qualche discrepanza nel calcolo. Un mago delle origini ha distrutto il pendolo.
 
 Con i più calorosi auguri di congratulazioni,
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

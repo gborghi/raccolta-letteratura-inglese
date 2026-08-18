@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/christianity-faith-and-doubt-doubt--poems" data-author="Dickinson" data-workhref="works/christianity-·-faith-and-doubt-·-doubt-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 101. Will there really be a "Morning"? · 121. As Watchers hang upon the East, · 127. "Houses" — so the Wise Men tell me — · 178. I cautious, scanned my little life — · 338. I know that He exists. · 376. Of Course — I prayed — · 413. I never felt at Home — Below —- · 437. Prayer is the little implement · 460. I know where Wells grow — Droughtless Wells — · 462. Why make it doubt — it hurts it so — · 476. I meant to have but modest needs — · 489. We pray — to Heaven — · 501. This World is not Conclusion. · 508. I'm ceded — I've stopped being Theirs — · 564. My period had come for Prayer — · 576. I prayed, at first, a little Girl, · 597. It always felt to me — a wrong · 600. It troubled me as once I was — · 690. Victory comes late — · 696. Their Height in Heaven comforts not — · 835. Nature and God — I neither knew · 861. Split the Lark — and you'll find the Music — · 965. Denial — is the only fact · 1012. Which is best? Heaven — · 1076. Just Once! Oh least Request! · 1080. When they come back — if Blossoms do — · 1258. Who were "the Father and the Son" · 1408. The Fact that Earth is Heaven — · 1413. Sweet Skepticism of the Heart — · 1417. How Human Nature dotes · 1461. "Heavenly Father" — take to thee · 1551. Those — dying then, · 1601. Of God we ask one favor, · 1751. There comes an hour when begging stops,
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="ll_there_really_be_a_morning" data-title="101. Will there really be a &quot;Morning&quot;?" data-chapter="" data-kind="intro" data-tags="archetype/child,archetype/pilgrim,motif/dawn,motif/birds,concept/faith_and_doubt,concept/immortality,concept/doubt,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
 
 
@@ -35,6 +38,7 @@ Please to tell a little [[archetypes/pilgrim|Pilgrim]]
 Where the place called "Morning" lies!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ci sarà davvero un "Mattino"?  
@@ -52,6 +56,8 @@ Oh qualche Saggio dai cieli!
 Vi prego dite a una piccola [[archetypes/pilgrim|Pellegrina]]  
 Dove giace il luogo detto "Mattino"!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_watchers_hang_upon_the_east" data-title="121. As Watchers hang upon the East," data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/food_feasting,concept/immortality,concept/faith_and_doubt,concept/melancholy,concept/poverty,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -72,6 +78,7 @@ Those thirsty lips to flagons pressed,
 Heaven to us, if true.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come Vedette sospese all'Oriente,  
@@ -88,6 +95,8 @@ Quel Mendicante, quando Ospite onorato,
 Quelle labbra assetate premute ai boccali,  
 Il Cielo per noi, se vero.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="uses_so_the_wise_men_tell_me" data-title="127. &quot;Houses&quot; — so the Wise Men tell me —" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/storm,concept/faith_and_doubt,concept/immortality,concept/doubt,form/lyric,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -104,6 +113,7 @@ Could the Children find the way there —
 Some, would even trudge tonight!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "Case" — così mi dicono i Saggi —  
@@ -116,6 +126,8 @@ Io non lo conosco; costruite ben salde!
 Potessero i Bambini trovarne la via —  
 Alcuni, arrancherebbero fin stanotte!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cautious_scanned_my_little_life" data-title="178. I cautious, scanned my little life —" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/winter,motif/wind,concept/doubt,concept/grief_and_loss,concept/providence,concept/faith_and_doubt,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -147,6 +159,7 @@ Art thou within the little Barn
 [[motifs/love|Love]] provided Thee?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cauta, scrutai la mia piccola vita —  
@@ -174,6 +187,8 @@ Come va, Cuori, con Te?
 Sei tu dentro il piccolo Granaio  
 Che l'[[motifs/love|Amore]] Ti provvide?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="know_that_he_exists" data-title="338. I know that He exists." data-chapter="" data-kind="intro" data-tags="motif/death,motif/silence,motif/masks_disguise,concept/faith_and_doubt,concept/doubt,concept/terror_and_horror,form/lyric,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -200,6 +215,7 @@ Would not the jest —
 Have crawled too far!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 So che Egli esiste.  
@@ -222,6 +238,8 @@ Troppo costoso!
 Non si sarebbe lo scherzo —  
 Trascinato troppo oltre!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_course_i_prayed" data-title="376. Of Course — I prayed —" data-chapter="" data-kind="intro" data-tags="motif/birds,concept/doubt,concept/faith_and_doubt,concept/despair,concept/providence,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -240,6 +258,7 @@ Merry, and Nought, and gay, and numb —
 Than this smart Misery.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Certo — pregai —  
@@ -254,6 +273,8 @@ Lasciarmi nella Tomba dell'Atomo —
 Allegra, e Nulla, e gaia, e intorpidita —  
 Che questa acuta Sofferenza.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="never_felt_at_home_below_-" data-title="413. I never felt at Home — Below —-" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,archetype/rebel,concept/faith_and_doubt,concept/alienation,concept/doubt,concept/satire_of_society,histref/christianity,histref/puritanism,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -280,6 +301,7 @@ From Him — and Holy [[archetypes/ghost|Ghost]] — and All —
 But there's the "Judgement Day"!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non mi sono mai sentita a [[motifs/home|Casa]] — Quaggiù —-  
@@ -302,6 +324,8 @@ Io scapperei via
 Da Lui — e dallo [[archetypes/ghost|Spirito]] Santo — e da Tutto —  
 Ma c'è il "Giorno del Giudizio"!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ayer_is_the_little_implement" data-title="437. Prayer is the little implement" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/doubt,concept/faith_and_doubt,concept/self_and_soul,form/epigram,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -318,6 +342,7 @@ This sums the Apparatus
 Comprised in [[motifs/prayer|Prayer]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/prayer|Preghiera]] è il piccolo strumento  
@@ -330,6 +355,8 @@ Se poi Egli ode —
 Questo riassume l'Apparato  
 Compreso nella [[motifs/prayer|Preghiera]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="know_where_wells_grow_droughtless_wells" data-title="460. I know where Wells grow — Droughtless Wells —" data-chapter="" data-kind="intro" data-tags="motif/water,motif/the_book,concept/faith_and_doubt,concept/doubt,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -363,6 +390,7 @@ I think a little [[motifs/well|Well]] — like Mine —
 Dearer to understand —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 POZZI —  
@@ -392,6 +420,8 @@ Quelle Acque suonano così grandiose —
 Credo che un piccolo [[motifs/well|Pozzo]] — come il Mio —  
 Sia più caro da comprendere —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="y_make_it_doubt_it_hurts_it_so" data-title="462. Why make it doubt — it hurts it so —" data-chapter="" data-kind="intro" data-tags="motif/love,concept/doubt,concept/melancholy,concept/unrequited_love,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -412,6 +442,7 @@ Nor ever turn to tell me why —
 Oh, Master, This is Misery —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Perché farlo [[concepts/doubt|dubitare]] — gli fa così male —  
@@ -428,6 +459,8 @@ Ed Essi non si ricordino più di me —
 Né mai si voltino a dirmi perché —  
 Oh, Maestro, Questa è Miseria —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="meant_to_have_but_modest_needs" data-title="476. I meant to have but modest needs —" data-chapter="" data-kind="intro" data-tags="concept/faith_and_doubt,concept/disillusionment,concept/doubt,concept/satire_of_society,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -470,6 +503,7 @@ As Children — swindled for the first
 All Swindlers — be — infer —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Intendevo avere solo modesti bisogni —  
@@ -508,6 +542,8 @@ Con Aria sospettosa —
 Come Bambini — truffati per la prima volta  
 Tutti Truffatori — siano — inferiscono —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_pray_to_heaven" data-title="489. We pray — to Heaven —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/faith_and_doubt,concept/immortality,concept/doubt,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -528,6 +564,7 @@ But State — Endowal — Focus —
 Where — Omnipresence — fly?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Preghiamo — il Cielo —  
@@ -544,6 +581,8 @@ Non c'è Geografia —
 Ma Stato — Dote — Fuoco —  
 Dove — l'Onnipresenza — vola?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_world_is_not_conclusion" data-title="501. This World is not Conclusion." data-chapter="" data-kind="intro" data-tags="concept/faith_and_doubt,concept/immortality,concept/doubt,concept/faith,concept/immortality_of_soul,histref/christianity,character/christ,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -571,6 +610,7 @@ Narcotics cannot still the Tooth
 That nibbles at the [[motifs/soul|soul]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questo Mondo non è Conclusione.  
@@ -594,6 +634,8 @@ Forti Alleluia rimbombano —
 I Narcotici non placano il Dente  
 Che rosicchia l'[[motifs/soul|anima]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_ceded_ive_stopped_being_theirs" data-title="508. I'm ceded — I've stopped being Theirs —" data-chapter="" data-kind="intro" data-tags="motif/crown,motif/childhood,concept/identity,concept/conversion,concept/self_and_soul,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -622,6 +664,7 @@ With Will to choose, or to reject,
 And I choose, just a [[motifs/crown|Crown]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sono ceduta — Ho smesso d'essere Loro —  
@@ -646,6 +689,8 @@ Ma questa [[motifs/time|volta]] — Adeguata — Eretta,
 Con Volontà di scegliere, o di rifiutare,  
 E io scelgo, solo una [[motifs/crown|Corona]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_period_had_come_for_prayer" data-title="564. My period had come for Prayer —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,motif/silence,concept/faith_and_doubt,concept/the_sublime,concept/wonder_and_gratitude,concept/doubt,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -677,6 +722,7 @@ But awed beyond my errand —
 I worshipped — did not "pray" —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Era giunto il mio tempo per la [[motifs/prayer|Preghiera]] —  
@@ -704,6 +750,8 @@ La Creazione si fermò — per Me —
 Ma intimorita oltre la mia missione —  
 Adorai — non "pregai" —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="prayed_at_first_a_little_girl" data-title="576. I prayed, at first, a little Girl," data-chapter="" data-kind="intro" data-tags="concept/faith,concept/doubt,concept/faith_and_doubt,concept/childhood_and_growth,concept/self_and_soul,concept/providence,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -736,6 +784,7 @@ It takes me all the while to poise —
 And then — it doesn't stay —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Pregavo, all'inizio, Bambina,  
@@ -764,6 +813,8 @@ Che trabocca così spesso, ora,
 Che mi ci vuole tutto il tempo a librarla —  
 E poi — non resta ferma —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_always_felt_to_me_a_wrong" data-title="597. It always felt to me — a wrong" data-chapter="" data-kind="intro" data-tags="concept/justice,concept/faith_and_doubt,concept/doubt,concept/providence,concept/grief_and_loss,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -800,6 +851,7 @@ Old Man on Nebo! Late as this —
 My justice bleeds — for Thee!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi è sempre parso — un torto  
@@ -832,6 +884,8 @@ Fu poco — Ma Gli diede titolo — a vedere —
 Vecchio sul Nebo! Tardi com'è —  
 La mia giustizia sanguina — per Te!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_troubled_me_as_once_i_was" data-title="600. It troubled me as once I was —" data-chapter="" data-kind="intro" data-tags="concept/doubt,concept/faith_and_doubt,concept/wonder_and_gratitude,concept/childhood_and_growth,concept/the_natural_order,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -858,6 +912,7 @@ Why Heaven did not break away —
 And tumble — Blue — on me —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi turbava poiché un tempo ero —  
@@ -880,6 +935,8 @@ Ciò che più aspro — mi confondeva —
 Perché il Cielo non si staccasse —  
 E rovinasse — Azzurro — su di me —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ctory_comes_late" data-title="690. Victory comes late —" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/birds,concept/doubt,concept/poverty,concept/providence,concept/faith_and_doubt,concept/grief_and_loss,form/lyric,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -901,6 +958,7 @@ The Eagle's Golden Breakfast strangles — Them —
 Who of little [[motifs/love|Love]] — know how to starve —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Vittoria arriva tardi —  
@@ -918,6 +976,8 @@ La Colazione d'Oro dell'Aquila strozza — Loro —
 [[characters/god|Dio]] mantenga il Suo Giuramento ai Passeri —  
 Che di poco [[motifs/love|Amore]] — sanno morire di fame —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="eir_height_in_heaven_comforts_not" data-title="696. Their Height in Heaven comforts not —" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/doubt,concept/faith_and_doubt,concept/immortality,concept/humility,concept/alienation,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -944,6 +1004,7 @@ This timid life of Evidence
 Keeps pleading — "I don't know."
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La loro Altezza in Cielo non consola —  
@@ -966,6 +1027,8 @@ Che per quanto veri si mostrino —
 Questa timida vita di Evidenza  
 Seguita a supplicare — "Non so."
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ture_and_god_i_neither_knew" data-title="835. Nature and God — I neither knew" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/stars,concept/faith_and_doubt,concept/identity,concept/secrecy_and_concealment,form/epigram,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -982,6 +1045,7 @@ As Herschel's private interest
 Or Mercury's affair —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[concepts/nature|Natura]] e [[characters/god|Dio]] — io non conoscevo  
@@ -994,6 +1058,8 @@ Il mio Segreto sicuro
 Quanto il privato interesse di Herschel  
 O la faccenda di Mercurio —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="lit_the_lark_and_youll_find_the_music" data-title="861. Split the Lark — and you'll find the Music —" data-chapter="" data-kind="intro" data-tags="motif/nightingale,motif/music_and_song,motif/blood,concept/faith_and_doubt,concept/doubt,form/lyric,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1010,6 +1076,7 @@ Scarlet Experiment! Sceptic Thomas!
 Now, do you [[concepts/doubt|doubt]] that your Bird was true?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Squarcia l'Allodola — e troverai la Musica —  
@@ -1022,6 +1089,8 @@ Zampillo dopo Zampillo, riservato a te —
 Scarlatto Esperimento! Scettico Tommaso!  
 Ora, [[concepts/doubt|dubiti]] che il tuo Uccello fosse vero?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="nial_is_the_only_fact" data-title="965. Denial — is the only fact" data-chapter="" data-kind="intro" data-tags="concept/doubt,concept/spiritual_emptiness,concept/grief_and_loss,concept/faith_and_doubt,concept/melancholy,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1038,6 +1107,7 @@ What Comfort was it Wisdom — was —
 The spoiler of Our [[motifs/home|Home]]?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Diniego — è il solo fatto  
@@ -1050,6 +1120,8 @@ Senza Delizia, né Raggio —
 Che Conforto fu che la Saggezza — fosse —  
 La predatrice della nostra [[motifs/home|Casa]]?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ich_is_best_heaven" data-title="1012. Which is best? Heaven —" data-chapter="" data-kind="intro" data-tags="concept/faith_and_doubt,concept/immortality,concept/doubt,concept/paradox,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1067,6 +1139,7 @@ Or may not
 Too late to choose again.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quale è meglio? Il Cielo —  
@@ -1080,6 +1153,8 @@ Che il "Cespuglio" può darmi
 O può non darmi  
 Troppo tardi per scegliere di nuovo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="st_once_oh_least_request" data-title="1076. Just Once! Oh least Request!" data-chapter="" data-kind="intro" data-tags="concept/doubt,concept/grace_and_redemption,concept/faith_and_doubt,concept/suffering,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1096,6 +1171,7 @@ As down His Heaven dropt remote
 "Just Once" Sweet Deity?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Solo Una Volta! Oh minima Richiesta!  
@@ -1108,6 +1184,8 @@ Coscienza di un sospiro
 Mentre giù dal Suo Cielo cadeva remoto  
 "Solo Una Volta" Dolce Deità?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_they_come_back_if_blossoms_do" data-title="1080. When they come back — if Blossoms do —" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/spring,motif/flowers,concept/transience,concept/doubt,concept/mortality,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1134,6 +1212,7 @@ Tomorrow, but if I am there
 I take back all I say —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando tornano — se i Fiori tornano —  
@@ -1156,6 +1235,8 @@ Quale Parte — si possa essere
 Domani, ma se io ci sono  
 Ritiro tutto ciò che dico —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_were_the_father_and_the_son" data-title="1258. Who were &quot;the Father and the Son&quot;" data-chapter="" data-kind="intro" data-tags="motif/childhood,concept/faith_and_doubt,concept/innocence_and_experience,concept/immortality,form/lyric,histref/christianity,histref/puritanism,character/christ,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1192,6 +1273,7 @@ We shall have shunned until ashamed
 To own the Miracle —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chi erano "il Padre e il Figlio"  
@@ -1224,6 +1306,8 @@ Evento ineffabile —
 L'avremo evitato fino a vergognarci  
 Di riconoscere il Miracolo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_fact_that_earth_is_heaven" data-title="1408. The Fact that Earth is Heaven —" data-chapter="" data-kind="intro" data-tags="concept/faith_and_doubt,concept/paradox,concept/doubt,concept/immortality,form/epigram,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1239,6 +1323,7 @@ But that it would affront us
 To dwell in such a place —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Fatto che la Terra sia Cielo —  
@@ -1250,6 +1335,8 @@ Che non è per noi
 Ma che ci offenderebbe  
 Dimorare in un simile luogo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="eet_skepticism_of_the_heart" data-title="1413. Sweet Skepticism of the Heart —" data-chapter="" data-kind="intro" data-tags="motif/desire,concept/faith_and_doubt,concept/doubt,concept/truth,concept/negative_capability,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1265,6 +1352,7 @@ Compared with the delicious throe
 Of transport thrilled with [[concepts/fear|Fear]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dolce Scetticismo del Cuore —  
@@ -1276,6 +1364,8 @@ Perché la Certezza non sia arida
 A paragone del delizioso spasimo  
 Del trasporto fremente di [[concepts/fear|Paura]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_human_nature_dotes" data-title="1417. How Human Nature dotes" data-chapter="" data-kind="intro" data-tags="motif/desire,concept/immortality,concept/faith_and_doubt,concept/doubt,concept/negative_capability,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1298,6 +1388,7 @@ Go we anywhere
 Creation after this?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come l'Umana [[concepts/nature|Natura]] si strugge  
@@ -1316,6 +1407,8 @@ Dove andiamo —
 Andiamo noi in alcun luogo  
 Della Creazione dopo questa?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="avenly_father_take_to_thee" data-title="1461. &quot;Heavenly Father&quot; — take to thee" data-chapter="" data-kind="intro" data-tags="motif/dust,concept/doubt,concept/sin_and_the_fall,concept/paradox,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1331,6 +1424,7 @@ We apologize to thee
 For thine own Duplicity —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "Padre Celeste" — prendi a te  
@@ -1342,6 +1436,8 @@ Più rispettoso — "Noi siamo [[motifs/dust|Polvere]]" —
 Ci scusiamo con te  
 Della tua stessa Doppiezza —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ose_dying_then" data-title="1551. Those — dying then," data-chapter="" data-kind="intro" data-tags="motif/death,concept/faith_and_doubt,concept/spiritual_emptiness,concept/doubt,concept/disillusionment,form/epigram,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1359,6 +1455,7 @@ Better an ignis fatuus
 Than no illume at all —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quelli — morendo allora,  
@@ -1372,6 +1469,8 @@ Rende il Contegno piccolo —
 Meglio un ignis fatuus  
 Che nessun lume affatto —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_god_we_ask_one_favor" data-title="1601. Of God we ask one favor," data-chapter="" data-kind="intro" data-tags="concept/faith_and_doubt,concept/guilt,concept/grace_and_redemption,concept/paradox,concept/doubt,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1387,6 +1486,7 @@ We reprimand the Happiness
 That too competes with Heaven.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 A [[characters/god|Dio]] chiediamo un favore,  
@@ -1398,6 +1498,8 @@ Dentro una magica [[motifs/prison|Prigione]]
 Rimproveriamo la Felicità  
 Che anch'essa compete col Cielo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_comes_an_hour_when_begging_stops" data-title="1751. There comes an hour when begging stops," data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/faith_and_doubt,concept/doubt,concept/grief_and_loss,form/lyric,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1409,6 +1511,7 @@ Perceive their [[motifs/prayer|prayer]] is vain.
 "Thou shalt not" is a kinder sword  
 Than from a disappointing [[characters/god|God]]  
 "Disciple, call again."
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1419,3 +1522,5 @@ Avvertono che la loro [[motifs/prayer|prayer]] è vana.
 "Tu non devi" è spada più gentile  
 Che da un [[characters/god|God]] che delude  
 "Discepolo, torna a chiedere."
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

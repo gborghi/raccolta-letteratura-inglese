@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence--letters" data-author="Dickinson" data-workhref="works/bible-·-sin-and-the-fall-·-fall-from-innocence-(dickinson)" data-collection="letters"></div>
 
 
+<<<<<<< HEAD
 To Mrs. A. P. Strong, MT. HOLYOKE FEMALE SEMINARY, Jan. 17, 1848 · To Mrs. A. P. Strong, Sunday Evening · To Mr. William Austin Dickinson, Sunday Afternoon · To Mrs. Anthon · To Dr. J. G. Holland, and Mrs. Holland, 1859 · To Mr. Samuel Bowlers and Mrs. Bowles, August, 1861 · To Mr. Samuel Bowlers and Mrs. Bowles, Spring, 1878 · To the Misses · To the Misses, Winter, 1873 · To the Misses, March, 1873 · To the Misses · To Mrs. Edward Tuckerman, July, 1878 · To Mrs. F.S. Cooper · To Mrs. Jameson · To Professor J. K. Chickering · To Dr. and Mrs. Field, 1884?
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_a_p_strong_mt_holyoke_female_semina" data-title="To Mrs. A. P. Strong, MT. HOLYOKE FEMALE SEMINARY, Jan. 17, 1848" data-chapter="" data-kind="intro" data-tags="motif/home,motif/storm,motif/the_window,motif/the_journey,concept/friendship,concept/faith,concept/loneliness,concept/joy,form/letter,setting/new_england,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
 
 
@@ -28,6 +31,7 @@ You will probably think me foolish thus to give you an inventory of my [[motifs/
 Our term closes this week on Thursday, and Friday I [[concepts/hope|hope]] to see [[motifs/home|home]] and friends once more. I have studied hard this term, and aside from my delight at going [[motifs/home|home]], there is a sweetness in approaching rest to me. This term is the longest in the year, and I would not wish to live it over again, I can assure you. I [[motifs/love|love]] this Seminary, and all the teachers are bound strongly to my heart by ties of affection. There are many sweet girls here, and dearly do I [[motifs/love|love]] some new faces, but I have not yet found the place of a few dear ones filled, nor would I wish it to be here. I am now studying Silliman's Chemistry and Cutter's Physiology, in both of which I am much interested. We finish Physiology before this term closes, and are to be examined in it at the [[motifs/spring|spring]] examinations, about five weeks after the commencement of the next term. I already begin to dread that [[motifs/time|time]], for an examination in Mount Holyoke Seminary is rather more public than in our old academy, and a failure would be more disgraceful then, I opine; but I [[concepts/hope|hope]], to use my father's own words, “that I shall not disgrace myself.” What are you studying now? You did not mention that item in your last letters to me, and consequently I am quite in the dark as regards your progress in those affairs. All I can say is, that I [[concepts/hope|hope]] you will not leave poor me far behind. . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mia cara A., la tua lettera di benvenuto mi è arrivata alla vigilia del mio ritorno a casa, e non c’è bisogno di dire quanto fossi felice. Siamo tornati tutti a casa mercoledì, prima del Ringraziamento; era una giornata tempestosa, ma la tempesta non doveva ostacolarci, quindi abbiamo cercato di godercela al meglio e di mantenere un’atmosfera allegra. Molte ragazze sono partite molto presto al mattino per arrivare a casa lo stesso giorno; quando ci siamo sedute a tavola per la colazione, sembrava davvero triste vedere così tante posti vuoti. Dopo colazione, poiché non eravamo obbligate a rispettare tutte le regole familiari, alcune di noi ci siamo riunite vicino a una finestra nel corridoio per aspettare i nostri amici, che aspettavamo con impazienza. Nessuna mattina della mia vita è trascorsa così lentamente. Alla fine, quasi esausta, ho visto arrivare una carrozza in lontananza: sicuramente dentro c’era Austin. Tu, che sei stata via per tanto tempo, puoi facilmente immaginare la mia gioia. Non riderai di certo quando ti racconterò come sono corsa giù per le scale, rischiando quasi di spaventare a morte mio fratello. In un attimo tutto è stato pronto; io ed Emily, insieme al cocchiere, siamo partite verso casa. La pioggia cadeva a scrosci e il vento ululava intorno alle montagne; i ruscelli, pieni d’acqua, scorrevano velocemente lungo i loro corsi. Ma nulla ci ha fermate: abbiamo continuato ad andare avanti, e presto ho visto apparire davanti ai miei occhi gli edifici universitari e la guglia della nostra venerabile chiesa.
@@ -38,6 +42,8 @@ Probabilmente penserete che sia sciocco da parte mia condividere con voi un reso
 
 Il nostro semestre termina questa settimana di giovedì, e venerdì spero di rivedere a casa i miei familiari e amici. Ho studiato molto duramente in questo semestre, e oltre alla gioia di tornare a casa, sento anche il desiderio di riposarmi dopo tanta fatica. Questo è il semestre più lungo dell’anno, e vi assicuro che non lo vorrei rivivere. Amo molto questo seminario, e tutti gli insegnanti mi sono molto cari per i legami d’affetto che ci uniscono. Ci sono molte ragazze qui, e adoro davvero alcune nuove facce, ma non ho ancora trovato qualcuno che possa prendere il posto di alcuni amici molto cari, e in realtà non vorrei nemmeno trovarlo qui. Attualmente sto studiando Chimica di Silliman e Fisiologia di Cutter; entrambi gli argomenti mi interessano molto. Concluderemo lo studio della Fisiologia prima che il semestre termini, e faremo l’esame in primavera, circa cinque settimane dopo l’inizio del prossimo semestre. Già adesso inizio a temere quel momento: un esame al Mount Holyoke Seminary è molto più pubblico rispetto a quello della nostra vecchia accademia, e ritengo che un fallimento sarebbe ancora più imbarazzante. Ma spero, per usare le parole di mio padre, “di non vergognarmi”. E tu, cosa stai studiando adesso? Non ne hai parlato nelle tue ultime lettere, quindi non so affatto come procedano i tuoi studi in questi argomenti. Tutto quello che posso dire è, spero che tu non mi lasci troppo indietro.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_a_p_strong_sunday_evening" data-title="To Mrs. A. P. Strong, Sunday Evening" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/snow,motif/memory,motif/letters_writing,concept/friendship,concept/faith,concept/longing,concept/memory,form/letter,histref/the_bible,setting/new_england,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -54,6 +60,7 @@ Notwithstanding your faithlessness I should have come to see you, but for that f
 . . . Shall I have a [[forms/letter|letter]] soon—oh, may I very soon, for “some days are dark and dreary, and the [[motifs/wind|wind]] is never weary.”
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mia molto cara A., mi piace sedermi qui da sola e scriverti una lettera; se la tua gioia nel leggerla sarà uguale o maggiore, o addirittura minore della mia nel scriverla, per me diventa un problema davvero importante. Farò appello a tutte le mie forze per risolverlo. Anche se ho molte ragioni di essere grata, amica mia assente, non posso sperare che tu sia altrettanto felice; ma spero con tutto il cuore che tu lo sia ugualmente. Oh, so bene che lo sarai, se i ricordi della scuola sono ancora vividi e preziosi! Come ti ho detto, oggi è domenica, quindi mi trovo limitata nella scelta degli argomenti da trattare: essendo piuttosto vanitosa, tendo naturalmente a parlare di cose mondane che sicuramente ti rattristerebbero. Ma sono ancora più costretta al rispetto delle regole, poiché in giorni come questi resto sempre a casa e non ho l’opportunità di riflettere su grandi verità. Considerando tutto ciò, cara A., il tuo cuore gentile sarà comprensivo, perdonerà tutte quelle parole vuote e sentimenti insoddisfacenti che abbiamo appena menzionato. Mi rallegro nel pensiero che esiste un argomento adatto a ogni luogo e momento: certamente non può interferire nell’ora più inappropriata per qualsiasi altro pensiero o sentimento. E oggi, qualunque sia la sua santità, sono sicura che non farò nulla che possa rompere i legami che ci uniscono. Parlerò delle cose che ci tengono uniti, e il ricordo di te, e del momento in cui ci siamo viste l’ultima volta, diventerà per me qualcosa di sacro. Ho molti ricordi e pensieri che, in qualche modo strano, ti riguardano. Se vuoi, possiamo considerarli come una vite di fantasie: tu, cara A., sei come il tronco d’olmo su cui questa pianta cresce; su ogni robusto ramo si arrampica un sottile germoglio pieno di fede, fiducia e sacra speranza. Possano anche i nostri cuori fare lo stesso, per quanto lontani possiamo essere l’uno dall’altro. Poiché quella fede che “vince su tutto” ci riunirà sempre.
@@ -66,6 +73,8 @@ Nonostante la tua infedeltà, avrei voluto venire a trovarti, ma a causa di quel
 
 . Riceverò presto una [[forms/letter|lettera]]? Oh, spero proprio di sì, perché “alcuni giorni sono bui e tristi, e il [[motifs/wind|vento]] non si stanca mai”.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_sunday_afternoon" data-title="To Mr. William Austin Dickinson, Sunday Afternoon" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/music_and_song,motif/horse,motif/the_journey,concept/faith,concept/joy,concept/exile,form/letter,histref/the_bible,setting/new_england,character/abraham,character/jove,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -80,6 +89,7 @@ Herself and not her music was what we seemed to [[motifs/love|love]] —she has 
 About our coming to Boston—we think we shall probably come—we want to see our friends, yourself and Aunt L.'s [[concepts/family|family]]. We don't care a fig for the Museum, the stillness, or Jennie Lind. . . . [[motifs/love|Love]] from us all.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sono appena tornato dalla chiesa, sono molto sudato e stanco. La nostra chiesa sta crescendo in modo interessante; Zion alza la testa. Ho sentito commenti che alludono a [[settings/jerusalem|Gerusalemme]]. Oggi non mi sento libero di dire altro!
@@ -90,6 +100,8 @@ Era lei stessa, e non la sua musica, che sembravamo amare davvero. Nei suoi occh
 
 Riguardo al nostro arrivo a Boston – pensiamo che probabilmente verremo – vogliamo vedere i nostri amici, voi e la famiglia di zia L. Non ci interessa affatto il museo, la tranquillità o Jennie Lind. Un saluto affettuoso da parte di tutti noi.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_anthon" data-title="To Mrs. Anthon" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/flowers,motif/memory,concept/friendship,concept/faith,concept/longing,concept/memory_and_time,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -108,6 +120,7 @@ Do you find plenty of food at [[motifs/home|home]]? Famine is unpleasant.
 It is too late for frogs—or what pleases me better, dear, not quite early enough! The pools were full of you for a brief period, but that brief period blew away, leaving me with many stems, and but a few foliage! Gentlemen here have a way of plucking the tops of the trees, and putting the fields in their cellars annually, which in point of taste is execrable, and would they please omit, I should have fine vegetation and foliage all the year round, and never a [[motifs/winter|winter]] month. Insanity to the sane seems so unnecessary —but I am only one, and they are “four and forty,” which little affair of numbers [[motifs/leaves|leaves]] me impotent. Aside from this, dear Katie, inducements to visit Amherst are as they were—I am pleasantly located in the deep [[motifs/sea|sea]], but [[motifs/love|love]] will row you out, if her hands are strong, and don't wait till I land, for I'm going ashore on the other side.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 KATIE, — L’anno scorso, a questa stessa [[motifs/time|ora]], non mi mancavi affatto, ma le circostanze sono cambiate. Ora ricordo con profondo affetto il tuo colore nero, e spero che i miei colori siano per te delle tonalità particolarmente care.
@@ -122,6 +135,8 @@ Trovi abbastanza cibo a [[motifs/home|casa]]? La fame è davvero sgradevole.
 
 È troppo tardi per le rane, o, per dirla in modo più piacevole a me, cara, non ancora abbastanza presto! Per un breve periodo, gli stagni erano pieni di rane, ma quel breve periodo è passato, lasciandomi con molti steli e pochissima foglia. Gli uomini qui hanno l’abitudine di tagliare le cime degli alberi e di mettere i campi nei loro “cellari” ogni anno; questo, dal punto di vista del gusto, è davvero orribile. Se solo potessero smettere con questa pratica, avrei una bella vegetazione e foglie tutto l’anno, senza mai dover affrontare il [[motifs/winter|inverno]]! Per chi è sano di mente, queste cose sembrano del tutto inutili, ma io sono solo uno, mentre loro sono “quarantaquattro”; questo piccolo aspetto numerico mi lascia impotente. A parte questo, cara Katie, le ragioni per venire ad Amherst rimangono le stesse di sempre: mi trovo in una posizione piacevole, nel profondo [[motifs/sea|mare]], ma l’[[motifs/love|amore]] potrebbe portarti da me, se solo le sue mani siano forti. E non aspettare che io attracchi: approderò dall’altra parte.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_1859" data-title="To Dr. J. G. Holland, and Mrs. Holland, 1859" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/prayer,motif/childhood,concept/faith,concept/joy,concept/friendship,concept/procreation,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -136,6 +151,7 @@ I pray for the tenants of that holy chamber, the wrestler, and the wrestled for.
 Saviour keep them all!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che [[characters/god|Dio]] vi benedica, cara signora Holland! L’ho letto sul giornale.
@@ -146,6 +162,8 @@ Prego per gli inquilini di quella sacra stanza, per il lottatore e per ciò per 
 
 Salvatore, proteggili tutti!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_august_1861" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, August, 1861" data-chapter="" data-kind="intro" data-tags="motif/garden,motif/flowers,motif/summer,motif/the_sea,motif/birds,motif/the_butterfly,motif/river,concept/faith_and_doubt,concept/friendship,concept/longing,concept/faith,form/letter,histref/american_civil_war,histref/the_orient,histref/christianity,setting/a_garden,setting/new_england,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -176,6 +194,7 @@ The waves are very big, but every one that covers you, covers us, too.
 Dear Mary, you can't see us, but we are close at your side. May we comfort you?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 MARY, —Non ti ricordo da molto tempo. Mi ricordo di te, alcune volte. Vorrei sapere se mi hai ancora presente. Il [[concepts/doubt|dubbio]], come la zanzara, ronza intorno alla mia [[concepts/faith|fede]]. Siamo tutti umani, Mary, finché non diventiamo divini. Per alcuni questo è lontano; per altri, invece, è vicino quanto quella signora che bussa alla [[motifs/door|porta]]. Forse è proprio questo a spaventarci. Dico che andrò io stesso. Attraverserò il [[motifs/river|fiume]], scalerò la recinzione. Ora sono al cancello, Mary. Ora sono nel corridoio. Ora guardo dritto negli occhi il tuo cuore!
@@ -202,6 +221,8 @@ Le onde sono molto alte, ma ognuna che ti copre, ci copre anche noi.
 
 Cara Mary, non ci puoi vedere, ma siamo vicini a te. Possiamo consolarti?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_spring_1878" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Spring, 1878" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,motif/home,motif/the_soul,concept/grief_and_loss,concept/immortality_divine,concept/faith,concept/self_sacrifice,form/letter,histref/christianity,histref/the_bible,character/jesus,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -220,6 +241,7 @@ He is without [[concepts/doubt|doubt]] with my father. Thank you for thinking of
 Mother is growing better, though she cannot stand, and has not the power to raise her head for a glass of [[motifs/water|water]]. She thanks you for being sorry, and speaks of you with [[motifs/love|love]]. . . . Your timid “for his sake,” recalls that sheltering passage, “for his sake who loved us, and gave himself to die for us.”
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se non avessi mai parlato con nessuno, caro mio, non ti rimprovererebbero, ma penserebbero a te con più dolcezza, come a qualcuno che ha sofferto troppo per poter parlare. Dimenticarti sarebbe impossibile, se non ti avessimo mai visto; perché tu eri colui per cui piangiamo finché abbiamo coscienza. Poiché lui stesso era l’Eden, ora è con l’Eden, perché non possiamo diventare ciò che non siamo stati.
@@ -234,6 +256,8 @@ Non ha alcun [[concepts/doubt|dubbio]] riguardo a mio padre. Grazie per aver pen
 
 Mamma sta migliorando, anche se non riesce a stare in piedi e non ha la forza di alzare la testa nemmeno per bere un bicchiere d’[[motifs/water|acqua]]. Ti ringrazia per le tue premure e parla di te con [[motifs/love|amore]]. Il tuo timido “per il suo bene” ricorda quel passaggio in cui si diceva: “Per colui che ci ha amato e si è sacrificato per noi”.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/love,motif/childhood,concept/friendship,concept/joy,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -242,10 +266,13 @@ Mamma sta migliorando, anche se non riesce a stare in piedi e non ha la forza di
 DEAR CHILDREN,—When I think of your little faces I feel as the band does before it makes its first shout. . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cari bambini, —quando penso ai vostri piccoli volti, mi sento come la banda prima di emettere il suo primo suono.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_winter_1873" data-title="To the Misses, Winter, 1873" data-chapter="" data-kind="intro" data-tags="motif/the_soul,motif/winter,motif/love,motif/clothing,concept/friendship,concept/self_and_soul,concept/the_unseen,concept/immortality_divine,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -258,6 +285,7 @@ I cannot see my [[motifs/soul|soul]], but know 'tis there, Nor ever saw his hous
 [[motifs/love|Love]] for the glad if you know them, for the sad if they know you.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . So di amare i miei amici; lo sento dentro di me, in un luogo dove né il blu né il nero possono raggiungere, dove nemmeno le dita riescono ad arrivare. So che è proprio l’amore per loro a causarmi quel dolore nella gola, molte volte al giorno, quando i venti diventano più dolci del solito, o quando una nuvola diversa fa sì che il mio cervello si allontani da “casa”.
@@ -266,6 +294,8 @@ Non riesco a vedere la mia [[motifs/soul|'anima]], ma so che è lì; Non ho mai 
 
 [[motifs/love|Amore]] che rende felici coloro che lo conoscono, e tristi coloro che ti conoscono.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_march_1873" data-title="To the Misses, March, 1873" data-chapter="" data-kind="intro" data-tags="motif/snow,motif/wind,motif/the_window,concept/providence,concept/endurance,concept/faith,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -274,10 +304,13 @@ Non riesco a vedere la mia [[motifs/soul|'anima]], ma so che è lì; Non ho mai 
 . . . I open my [[motifs/window|window]], and it fills the chamber with white dirt. I think [[characters/god|God]] must be dusting; and the [[motifs/wind|wind]] blows so I expect to read in The Republican “Cautionary signals for Amherst,” or “No ships ventured out from Phoenix Row.” . . . Life is so rotatory that the wilderness falls to each, sometime. It is safe to remember that. . . .
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . Apro la mia [[motifs/window|finestra]], e la stanza si riempie di polvere bianca. Penso che [[characters/god|Dio]] stia pulendo; il [[motifs/wind|vento]] soffia forte, quindi probabilmente leggerò su “The Republican” articoli come “Segnali d’allarme per Amherst” o “Nessuna nave si è avventurata fuori da Phoenix Row”. La vita è così ciclica che, a volte, anche il deserto finisce sotto il dominio di qualcuno. È importante ricordarlo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/bells,motif/the_sea,motif/water,concept/friendship,concept/longing,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -288,12 +321,15 @@ Non riesco a vedere la mia [[motifs/soul|'anima]], ma so che è lì; Non ho mai 
 We send the wave to find the wave, An errand so divine The messenger enamored too, Forgetting to return, We make the sage decision still Soever made in vain, The only [[motifs/time|time]] to dam the [[motifs/sea|sea]] Is when the [[motifs/sea|sea]] is gone.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . Forse il suono delle vecchie [[motifs/bells|campane]] potrebbe svegliare i bambini.
 
 Inviiamo un’onda alla ricerca di un’altra onda. Un compito così divino che anche il messaggero ne rimase incantato, dimenticando di tornare indietro. Prendiamo comunque la decisione saggia. Anche se spesso è inutile. L’unico momento in cui si può arginare il [[motifs/sea|mare]] è quando esso non c’è più.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_edward_tuckerman_july_1878" data-title="To Mrs. Edward Tuckerman, July, 1878" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/dew,motif/the_butterfly,concept/the_supernatural,concept/joy,concept/faith,form/letter,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -306,6 +342,7 @@ The [[historical-references/bible|Bible]] portentously says “that which is spi
 Go not too near a house of [[motifs/rose|rose]], The depredation of a breeze Or inundation of a [[motifs/dew|dew]] Alarm its walls away; Nor try to tie the butterfly, Nor climb the bars of ecstasy, In insecurity to lie Is [[concepts/joy|joy]]'s insuring quality.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sarebbe saggio sottoporre un'intervista con un fantasma a un test ancora più rigoroso?
@@ -314,6 +351,8 @@ La [[historical-references/bible|Bibbia]] afferma in modo profetico: “Ciò che
 
 Non avvicinarti troppo a una casa di [[motifs/rose|rose]]; il soffio della brezza o l’innondazione del [[motifs/dew|rugiado]] possono distruggere le sue mura; né tentare di catturare la farfalla, né scalare le sbarre dell’estasi. Giacere in insicurezza è proprio ciò che garantisce la vera qualità della [[concepts/joy|gioia]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fs_cooper" data-title="To Mrs. F.S. Cooper" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/freedom_and_liberty,concept/nature_vs_civilization,concept/solitude,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -328,6 +367,7 @@ has always meant the woods to me.
 I trust is your own.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 “Mia patria… appartiene a te.”
@@ -338,6 +378,8 @@ Per me, “foresta” ha sempre significato proprio i boschi.
 
 Confido che sia tua.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_jameson" data-title="To Mrs. Jameson" data-chapter="" data-kind="intro" data-tags="motif/tears,concept/providence,concept/faith,concept/friendship,form/letter,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -348,12 +390,15 @@ How dare a tear intrude on so sweet a cheek?
 Gentlest of neighbors, recall the “sparrows” and the great Logician.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come osa una lacrima intromettersi su una guancia così dolce?
 
 Più gentili tra i vicini, ricordatevi dei “passeri” e del grande Logico.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="fessor_j_k_chickering" data-title="To Professor J. K. Chickering" data-chapter="" data-kind="intro" data-tags="motif/silence,concept/fear,concept/joy,concept/solitude,concept/inexpressibility,concept/faith,form/lyric,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -364,12 +409,15 @@ DEAR FRIEND,—I had hoped to see you, but have no grace to talk, and my own wor
 We shun it ere it comes, Afraid of [[concepts/joy|joy]], Then sue it to delay, And lest it fly Beguile it more and more. May not this be, Old suitor Heaven, Like our dismay at thee?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —avrei voluto vederti, ma non ho il coraggio di parlare; inoltre, le mie stesse parole mi gelano e mi bruciano dentro, tanto che la temperatura delle emozioni altrui rappresenta per me una sorta di timore reverenziale.
 
 Lo evitiamo prima ancora che arrivi, temendo la [[concepts/joy|gioia]]; poi cerchiamo di ritardarne l’arrivo, e per impedirgli di “volare via”, lo inganniamo sempre di più. Non è forse questo, o vecchio cielo, proprio come il nostro timore nei tuoi confronti?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="and_mrs_field_1884" data-title="To Dr. and Mrs. Field, 1884?" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,topos/fall_from_innocence,motif/flowers,motif/the_garden,concept/sin_and_the_fall,concept/friendship,form/letter,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -380,6 +428,7 @@ Expulsion from Eden grows indistinct in the presence of [[motifs/flowers|flowers
 Beaconsfield says “the [[motifs/time|time]] has now come when it must be decided forever, who possesses the great gates to India.”
 
 I think it must be my neighbor.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -389,3 +438,5 @@ L’espulsione dall’Eden diventa meno evidente di fronte a tali fiori così be
 Beaconsfield afferma: “È giunto il momento in cui deve essere deciso per sempre chi possieda i grandi porti d’accesso all’India.”
 
 Penso che debba essere il mio vicino.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

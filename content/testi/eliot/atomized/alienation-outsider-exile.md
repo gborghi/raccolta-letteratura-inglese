@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/alienation-outsider-exile" data-author="Eliot" data-workhref="works/alienation-·-outsider-·-exile-(eliot)"></div>
 
 
+<<<<<<< HEAD
 The Love Song of J. Alfred Prufrock · Portrait of a Lady · Preludes · Morning at the Window · Hysteria · Gerontion · Sweeney Among the Nightingales · Marina · Eyes that last I saw in tears · Lines for an Old Man · To the Indians who Died in Africa · Spleen · V, W, X
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="002_the_love_song_of_j_alfred_prufrock" data-title="The Love Song of J. Alfred Prufrock" data-chapter="" data-kind="intro"></span>
 
 

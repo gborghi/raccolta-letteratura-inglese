@@ -72,6 +72,7 @@ But the little [[characters/dwarf|Dwarf]] never moved.
 ‘But why will he not [[motifs/dance|dance]] again?’ asked the [[characters/infanta|Infanta]], laughing.
 ‘Because his heart is broken,’ answered the Chamberlain.
 And the [[characters/infanta|Infanta]] frowned, and her dainty [[motifs/rose|rose]]-leaf lips curled in pretty disdain.  ‘For the future let those who come to play with me have no hearts,’ she cried, and she ran out into the [[motifs/garden|garden]].
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -132,3 +133,5 @@ Ma il piccolo [[characters/dwarf|nani]] non si mosse mai.
 “Ma perché non potrà più danzare?” chiese l’[[characters/infanta|Infanta]] ridendo.  
 “Perché il suo cuore è spezzato,” rispose il Ciambellano.  
 L’[[characters/infanta|Infanta]] fece la faccia scura; le sue delicate labbra a forma di petalo di rosa si incurvarono in un’espressione di disprezzo. “Da ora in poi, che coloro che vengono a giocare con me non abbiano cuore, ” gridò, e corse via nel [[motifs/garden|giardino]].
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

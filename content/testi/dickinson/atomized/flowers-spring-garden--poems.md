@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/flowers-spring-garden--poems" data-author="Dickinson" data-workhref="works/flowers-·-spring-·-garden-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 2. There is another sky · 17. Baffled for just a day or two — · 22. All these my banners be. · 50. I haven't told my garden yet — · 64. Some Rainbow — coming from the Fair! · 74. A Lady red — amid the Hill · 81. We should not mind so small a flower — · 82. Whose cheek is this? · 90. Within my reach! · 91. So bashful when I spied her! · 94. Angels, in the early morning · 95. My nosegays are for Captives — · 100. A science — so the Savants say, · 133. As Children bid the Guest "Good Night" · 134. Perhaps you'd like to buy a flower, · 137. Flowers — Well — if anybody · 140. An altered look about the hills — · 142. Whose are the little beds, I asked · 180. As if some little Arctic flower · 191. The Skies can't keep their secret! · 206. The Flower must not blame the Bee — · 348. I dreaded that first Robin, so, · 380. There is a flower that Bees prefer — · 404. How many Flowers fail in Wood — · 667. Bloom upon the Mountain — stated — · 805. This Bauble was preferred of Bees — · 812. A Light exists in Spring · 977. Besides this May · 1035. Bee! I'm expecting you! · 1058. Bloom — is Result — to meet a Flower · 1213. We like March. · 1404. March is the Month of Expectation. · 1465. Before you thought of Spring · 1519. The Dandelion's pallid tube · 1526. His oriental heresies
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="ere_is_another_sky" data-title="2. There is another sky" data-chapter="" data-kind="intro" data-tags="motif/garden,motif/flowers,motif/bees,concept/friendship,concept/immortality,form/lyric,setting/a_garden,cluster/flowers,cluster/spring,cluster/garden"></span>
 
 
@@ -35,6 +38,7 @@ prithee, my Brother,
 into my [[motifs/garden|garden]] come!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 c'è un altro cielo  
@@ -52,6 +56,8 @@ odo la chiara ape ronzare,
 ti prego, Fratello mio,  
 nel mio [[motifs/garden|giardino]] vieni!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ffled_for_just_a_day_or_two" data-title="17. Baffled for just a day or two —" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/nature,concept/wonder_and_gratitude,form/lyric,setting/a_garden,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -67,6 +73,7 @@ Surely, such a country
 I was never in!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sconcertata per un giorno o due soltanto —  
@@ -78,6 +85,8 @@ Lei annuisce, e tutto ha inizio —
 Certo, in un tale paese  
 Non ero stata mai!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="l_these_my_banners_be" data-title="22. All these my banners be." data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/spring,motif/the_grave,concept/joy,concept/immortality,form/lyric,setting/a_garden,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -108,6 +117,7 @@ To him who keeps an Orchis' heart —
 The swamps are pink with June.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tutti questi i miei vessilli siano.  
@@ -134,6 +144,8 @@ Cantiamolo sommessi —
 A chi serba un cuore d'Orchidea —  
 Le paludi sono rosa di Giugno.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="havent_told_my_garden_yet" data-title="50. I haven't told my garden yet —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/garden,motif/nature,concept/mortality,form/lyric,setting/a_garden,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -160,6 +172,7 @@ Hint that within the [[forms/riddle|Riddle]]
 One will walk today —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non l'ho ancora detto al mio [[motifs/garden|giardino]] —  
@@ -182,6 +195,8 @@ Né distratta per via
 Accennare che dentro l'[[forms/riddle|Enigma]]  
 Qualcuno camminerà oggi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_rainbow_coming_from_the_fair" data-title="64. Some Rainbow — coming from the Fair!" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/nature,motif/seasons,motif/birds,concept/wonder_and_gratitude,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -216,6 +231,7 @@ The children of whose turbaned seas —
 Or what Circassian Land?
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Qualche Arcobaleno — che viene dalla Fiera!  
@@ -246,6 +262,8 @@ Guardate! Di chi sono queste Moltitudini?
 I figli di quali mari turbantati —  
 O di quale Terra Circassa?
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="lady_red_amid_the_hill" data-title="74. A Lady red — amid the Hill" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/flowers,motif/white_and_red,concept/immortality,concept/wonder_and_gratitude,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -272,6 +290,7 @@ As if the "[[concepts/resurrection|Resurrection]]"
 Were nothing very strange!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Dama rossa — fra la [[motifs/hill|Collina]]  
@@ -294,6 +313,8 @@ Com'è noncurante la Siepe!
 Come se la "[[concepts/resurrection|Resurrezione]]"  
 Non fosse nulla di molto strano!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_should_not_mind_so_small_a_flower" data-title="81. We should not mind so small a flower —" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/garden,concept/faith,concept/grief_and_loss,concept/immortality,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -315,6 +336,7 @@ The Bobolinks around the throne
 And Dandelions gold.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non dovremmo badare a un fiore così piccolo —  
@@ -332,6 +354,8 @@ Per [[concepts/faith|fede]] può chiaro scorgere
 I Bobolink attorno al trono  
 E i Denti di leone d'oro.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ose_cheek_is_this" data-title="82. Whose cheek is this?" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/death,motif/birds,motif/stars,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -350,6 +374,7 @@ And which the pall
 My scrutiny deceives.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di chi è questa guancia?  
@@ -364,6 +389,8 @@ Ma quale la guancia —
 E quale il drappo  
 Il mio scrutinio inganna.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thin_my_reach" data-title="90. Within my reach!" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/grief_and_loss,concept/desire,concept/nostalgia,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -380,6 +407,7 @@ Too late for striving fingers
 That passed, an hour ago.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 A portata di mano !  
@@ -392,6 +420,8 @@ Nei campi giacciono basse ;
 Troppo tardi per dita anelanti  
 Che passarono, un'ora fa.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_bashful_when_i_spied_her" data-title="91. So bashful when I spied her!" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,motif/desire,concept/desire,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -413,6 +443,7 @@ Many will doubtless ask me,
 But I shall never tell !
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Così timida quando la scorsi,  
@@ -430,6 +461,8 @@ Per chi tradii il vallone,
 Molti senza dubbio mi chiederanno,  
 Ma io non lo dirò mai !
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="gels_in_the_early_morning" data-title="94. Angels, in the early morning" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/nature,motif/dawn,motif/the_supernatural,concept/the_natural_order,form/lyric,histref/christianity,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -446,6 +479,7 @@ Stooping, plucking, sighing, flying ;
 Parched the [[motifs/flowers|flowers]] they bear along.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Angeli nel primo mattino  
@@ -458,6 +492,8 @@ Si posson vedere fra le sabbie,
 Chini, coglienti, sospiranti, in volo ;  
 Riarsi i [[motifs/flowers|fiori]] che portano con sé.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_nosegays_are_for_captives" data-title="95. My nosegays are for Captives —" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/flowers,concept/immortality,concept/grief_and_loss,concept/poverty,form/lyric,histref/christianity,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -474,6 +510,7 @@ They bear no other errand,
 And I, no other [[motifs/prayer|prayer]].
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I miei mazzolini sono per i Prigionieri —  
@@ -486,6 +523,8 @@ Del mattino e della brughiera,
 Non recano altro messaggio,  
 E io, nessun'altra [[motifs/prayer|preghiera]].
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="science_so_the_savants_say" data-title="100. A science — so the Savants say," data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/winter,motif/animals,concept/immortality,concept/the_natural_order,concept/faith,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -506,6 +545,7 @@ Of [[motifs/rose|Rose]] and Lily, manifold,
 And countless Butterfly!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una scienza — così dicono i Sapienti,  
@@ -522,6 +562,8 @@ Sta rappresentante in oro
 Di [[motifs/rose|Rosa]] e Giglio, moltiplicati,  
 E d'innumerevole Farfalla!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_children_bid_the_guest_good_night" data-title="133. As Children bid the Guest &quot;Good Night&quot;" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/childhood,motif/sleep,motif/dawn,concept/the_natural_order,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -538,6 +580,7 @@ My [[motifs/flowers|flowers]] from a hundred cribs
 Will peep, and prance again.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come bimbi che danno all'ospite la buona-[[motifs/night|notte]],  
@@ -550,6 +593,8 @@ Allegri perché è mattino,
 I miei [[motifs/flowers|fiori]] da cento culle  
 Faranno capolino, e danzeranno ancora.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rhaps_youd_like_to_buy_a_flower" data-title="134. Perhaps you'd like to buy a flower," data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/spring,motif/animals,motif/seasons,motif/wine_and_drink,concept/the_natural_order,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -569,6 +614,7 @@ Why, I will lend until just then,
 But not an hour more!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Forse vorresti comprare un fiore ?  
@@ -584,6 +630,8 @@ Non attingano il loro hock e sherry,
 Ebbene, presterò fino ad allora,  
 Ma non un'ora di più!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="owers_well_if_anybody" data-title="137. Flowers — Well — if anybody" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/animals,concept/joy,concept/inexpressibility_of_beauty,concept/beauty,concept/paradox,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -606,6 +654,7 @@ Have a system of aesthetics —
 Far superior to mine.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[motifs/flowers|Fiori]] — [[motifs/well|Ebbene]] — se qualcuno  
@@ -624,6 +673,8 @@ In crociera lungo la linea purpurea —
 Hanno un sistema di estetica —  
 Di gran lunga superiore al mio.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_altered_look_about_the_hills" data-title="140. An altered look about the hills —" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,topos/book_of_nature,motif/nature,motif/spring,motif/seasons,motif/birds,concept/grace_and_redemption,concept/wonder_and_gratitude,form/lyric,histref/the_bible,setting/new_england,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -647,6 +698,7 @@ And Nicodemus' Mystery
 Receives its annual reply!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Uno sguardo mutato sui colli —  
@@ -666,6 +718,8 @@ Uno sguardo furtivo che conosci [[motifs/well|bene]] —
 E il Mistero di Nicodemo  
 Riceve la sua annuale risposta!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ose_are_the_little_beds_i_asked" data-title="142. Whose are the little beds, I asked" data-chapter="" data-kind="intro" data-tags="topos/the_sleeper_awakes,topos/eternal_return,archetype/great_mother,motif/flowers,motif/nature,motif/spring,motif/sleep,concept/the_natural_order,form/lyric,form/ballad,setting/a_garden,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -709,6 +763,7 @@ The Bumble [[motifs/bees|bees]] will wake them
 When April woods are red.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di chi sono i piccoli letti, chiesi  
@@ -748,6 +803,8 @@ Poi volgendosi da loro reverente —
 Le [[motifs/bees|api]] ronzanti li desteranno  
 Quando i boschi d'Aprile saranno rossi.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_if_some_little_arctic_flower" data-title="180. As if some little Arctic flower" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,motif/flowers,motif/nature,motif/sun,motif/birds,motif/the_journey,concept/wonder_and_gratitude,concept/the_natural_order,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -767,6 +824,7 @@ What then? Why nothing,
 Only, your inference therefrom!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come se un piccolo fiore Artico  
@@ -782,6 +840,8 @@ Nell'Eden, vagando entrasse —
 E poi? Ebbene nulla,  
 Solo, la vostra inferenza da ciò!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_skies_cant_keep_their_secret" data-title="191. The Skies can't keep their secret!" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/seasons,motif/spring,motif/flowers,motif/birds,concept/faith,concept/wonder_and_gratitude,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -808,6 +868,7 @@ Know what the Sapphire Fellows, do,
 In your new-fashioned world!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I Cieli non sanno tenere il loro segreto!  
@@ -830,6 +891,8 @@ Non vorrei — se potessi,
 Sapere cosa fanno i Compagni di Zaffiro,  
 Nel tuo mondo di nuova foggia!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_flower_must_not_blame_the_bee" data-title="206. The Flower must not blame the Bee —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/animals,concept/love_romantic,concept/unrequited_love,form/epigram,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -844,6 +907,7 @@ Mistress is "not at [[motifs/home|home]]" — to say —
 To people — any more!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Fiore non deve biasimare l'Ape —  
@@ -854,6 +918,8 @@ Ma insegni al Valletto di Vevay —
 "La Padrona non è in [[motifs/home|casa]]" — a dire —  
 Alla gente — mai più!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="dreaded_that_first_robin_so" data-title="348. I dreaded that first Robin, so," data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/spring,motif/birds,motif/flowers,motif/music_and_song,motif/the_cross,concept/grief_and_loss,concept/melancholy,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -897,6 +963,7 @@ Lift, in bereaved acknowledgment
 Of their unthinking Drums —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Temevo tanto quel primo Pettirosso,  
@@ -936,6 +1003,8 @@ E io, i miei Pennacchi infantili,
 Sollevo, in luttuoso riconoscimento  
 Dei loro Tamburi inconsapevoli —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_is_a_flower_that_bees_prefer" data-title="380. There is a flower that Bees prefer —" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,motif/autumn,concept/the_common_man,concept/heroism,concept/mortality,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -984,6 +1053,7 @@ Nor even of Defeat — aware —
 What cancelled by the [[motifs/frost|Frost]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 C'è un fiore che le [[motifs/bees|Api]] preferiscono —  
@@ -1028,6 +1098,8 @@ Ad arrendersi — ultima —
 Né pur della Sconfitta — consapevole —  
 Quando cancellata dal [[motifs/frost|Gelo]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_many_flowers_fail_in_wood" data-title="404. How many Flowers fail in Wood —" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,concept/beauty,concept/mortality,concept/transience,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1044,6 +1116,7 @@ Unconscious of the Scarlet Freight —
 It bear to Other Eyes —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quanti [[motifs/flowers|Fiori]] appassiscono nel Bosco —  
@@ -1056,6 +1129,8 @@ Sulla Brezza più vicina —
 Inconsapevoli del Carico Scarlatto —  
 Che porta ad Altri Occhi —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="oom_upon_the_mountain_stated" data-title="667. Bloom upon the Mountain — stated —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/flowers,motif/nature,concept/transience,concept/beauty,concept/the_sublime,concept/the_natural_order,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1087,6 +1162,7 @@ Indicating, by no Muscle —
 The Experience —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fioritura sulla Montagna — dichiarata —  
@@ -1114,6 +1190,8 @@ Adatta il Suo Volto —
 Senza indicare, con Muscolo alcuno —  
 L'Esperienza —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_bauble_was_preferred_of_bees" data-title="805. This Bauble was preferred of Bees —" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,motif/animals,concept/beauty,concept/self_sufficiency,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1130,6 +1208,7 @@ Who only knew of Universe —
 It had created Her.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questo Gingillo fu prediletto dalle [[motifs/bees|Api]] —  
@@ -1142,6 +1221,8 @@ Fu [[motifs/summer|Estate]] per una Schiera
 Che dell'Universo sapeva solo —  
 Che aveva creato Lei.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="light_exists_in_spring" data-title="812. A Light exists in Spring" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/spring,motif/seasons,motif/light_and_dark,concept/transience,concept/grief_and_loss,concept/the_sublime,concept/nature_vs_civilization,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1173,6 +1254,7 @@ As Trade had suddenly encroached
 Upon a Sacrament.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Luce esiste in [[motifs/spring|Primavera]]  
@@ -1200,6 +1282,8 @@ Che tocca il nostro Appagamento
 Come se il Commercio d'improvviso avesse invaso  
 Un Sacramento.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="sides_this_may" data-title="977. Besides this May" data-chapter="" data-kind="intro" data-tags="motif/spring,concept/immortality,concept/faith,concept/wonder_and_gratitude,form/lyric,histref/christianity,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1218,6 +1302,7 @@ Where Saints, and our plain going Neighbor
 Keep May!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Oltre questo Maggio  
@@ -1232,6 +1317,8 @@ Sia una [[concepts/nature|Natura]]
 Dove i Santi, e il nostro semplice Vicino  
 Serbano il Maggio!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_im_expecting_you" data-title="1035. Bee! I'm expecting you!" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/spring,motif/letters_writing,motif/birds,concept/joy,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1253,6 +1340,7 @@ Or better, be with me —
 Yours, Fly.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ape! Ti sto aspettando!  
@@ -1270,6 +1358,8 @@ Il diciassette; Rispondi
 O meglio, vieni da me —  
 Tua, la Mosca.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="oom_is_result_to_meet_a_flower" data-title="1058. Bloom — is Result — to meet a Flower" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/nature,motif/animals,concept/the_natural_order,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1296,6 +1386,7 @@ To be a Flower, is profound
 Responsibility —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Fioritura — è Risultato — incontrare un Fiore  
@@ -1318,6 +1409,8 @@ Che L'attende quel Giorno —
 Essere un Fiore, è profonda  
 Responsabilità —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_like_march" data-title="1213. We like March." data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/spring,motif/nature,motif/birds,motif/sun,concept/joy,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1354,6 +1447,7 @@ With the Blue [[motifs/birds|Birds]] buccaneering
 On his British sky —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ci piace Marzo.  
@@ -1386,6 +1480,8 @@ Audace sarebbe morire
 Con gli [[motifs/birds|Uccelli]] Azzurri corsari  
 Sul suo cielo Britannico —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rch_is_the_month_of_expectation" data-title="1404. March is the Month of Expectation." data-chapter="" data-kind="intro" data-tags="motif/spring,motif/seasons,motif/nature,concept/joy,concept/innocence_and_experience,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1401,6 +1497,7 @@ Betrays us, as his first Betrothal
 Betrays a Boy.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Marzo è il Mese dell'Attesa.  
@@ -1412,6 +1509,8 @@ Ma una pomposa [[concepts/joy|Gioia]]
 Ci tradisce, come il primo Fidanzamento  
 Tradisce un Ragazzo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="fore_you_thought_of_spring" data-title="1465. Before you thought of Spring" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/birds,motif/music_and_song,motif/seasons,concept/joy,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1435,6 +1534,7 @@ And shouts for [[concepts/joy|joy]] to Nobody
 But his seraphic [[concepts/self|self]] —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Prima che pensassi alla [[motifs/spring|Primavera]]  
@@ -1454,6 +1554,8 @@ Senza una sola Foglia
 E grida di [[concepts/joy|gioia]] a Nessuno  
 Se non al suo serafico [[concepts/self|sé]] —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_dandelions_pallid_tube" data-title="1519. The Dandelion's pallid tube" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/flowers,motif/spring,motif/winter,motif/the_grave,concept/grace_and_redemption,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1470,6 +1572,7 @@ The Proclamation of the Suns
 That sepulture is o'er.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il pallido tubo del Dente di Leone  
@@ -1482,6 +1585,8 @@ E poi un Fiore che grida, —
 Il Proclama dei Soli  
 Che la sepoltura è finita.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_oriental_heresies" data-title="1526. His oriental heresies" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/flowers,motif/nature,motif/death,concept/joy,form/lyric,cluster/flowers,cluster/spring,cluster/garden"></span>
@@ -1496,6 +1601,7 @@ Fatigued at last, a Clover plain
 Allures his jaded eye  
 That lowly Breast where Butterflies  
 Have felt it meet to die —
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1509,3 +1615,5 @@ Affaticato infine, un semplice Trifoglio
 Alletta il suo occhio spossato  
 Quel Petto umile dove le Farfalle  
 Hanno stimato giusto morire —
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

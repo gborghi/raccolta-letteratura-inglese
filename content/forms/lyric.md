@@ -92,6 +92,10 @@ tags:
 - [[works/sentimental-(coleridge)|SENTIMENTAL (Coleridge)]]
 - [[works/snow-drop.-(coleridge)|SNOW DROP. (Coleridge)]]
 - [[works/something-childish,-but-very-natural-(coleridge)|SOMETHING CHILDISH, BUT VERY NATURAL (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/the-complaint-of-ninathóma-from-the-same-(coleridge)|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/the-happy-husband-(coleridge)|THE HAPPY HUSBAND (Coleridge)]]
 - [[works/the-hour-when-we-shall-meet-again-(coleridge)|THE HOUR WHEN WE SHALL MEET AGAIN (Coleridge)]]
 - [[works/the-keepsake-(coleridge)|THE KEEPSAKE (Coleridge)]]

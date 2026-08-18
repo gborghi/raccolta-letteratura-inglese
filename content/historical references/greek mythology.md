@@ -41,6 +41,10 @@ tags:
 - [[works/lines-to-a-comic-author,-on-an-abusive-review-(coleridge)|LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW (Coleridge)]]
 - [[works/lines-on-an-autumnal-evening-(coleridge)|LINES ON AN AUTUMNAL EVENING (Coleridge)]]
 - [[works/love,-hope,-and-patience-in-education-(coleridge)|LOVE, HOPE, AND PATIENCE IN EDUCATION (Coleridge)]]
+<<<<<<< HEAD
+=======
+- [[works/milesisches-mährchen-(coleridge)|MILESISCHES MÄHRCHEN (Coleridge)]]
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/nonsense-(coleridge)-(2)|NONSENSE (Coleridge) (2)]]
 - [[works/on-an-amorous-doctor-(coleridge)|ON AN AMOROUS DOCTOR (Coleridge)]]
 - [[works/psyche-(coleridge)|PSYCHE (Coleridge)]]

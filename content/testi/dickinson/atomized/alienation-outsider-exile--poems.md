@@ -11,11 +11,14 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/alienation-outsider-exile--poems" data-author="Dickinson" data-workhref="works/alienation-·-outsider-·-exile-(dickinson)" data-collection="poems"></div>
 
 
+<<<<<<< HEAD
 288. I'm Nobody! Who are you? · 378. I saw no Way — The Heavens were stitched — · 405. It might be lonelier · 486. I was the slightest in the House — · 492. Civilization — spurns — the Leopard! · 579. I had been hungry, all the Years — · 652. A Prison gets to be a friend — · 746. Never for Society · 777. The Loneliness One dare not sound — · 821. Away from Home are some and I — · 1060. Air has no Residence, no Neighbor, · 1087. We miss a Kinsman more · 1089. Myself can read the Telegrams · 1116. There is another Loneliness · 1275. The Spider as an Artist · 1645. The Ditch is dear to the Drunken man
 
 
 
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_nobody_who_are_you" data-title="288. I'm Nobody! Who are you?" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/animals,concept/identity,concept/alienation,concept/satire_of_society,form/lyric,form/epigram,cluster/alienation,cluster/outsider,cluster/exile"></span>
 
 
@@ -30,6 +33,7 @@ To tell one's name — the livelong June —
 To an admiring Bog!
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Io sono Nessuno! Tu chi sei?  
@@ -42,6 +46,8 @@ Che cosa pubblica — come una Rana —
 Dire il proprio nome — per tutto giugno —  
 A un Pantano in ammirazione!
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="saw_no_way_the_heavens_were_stitched" data-title="378. I saw no Way — The Heavens were stitched —" data-chapter="" data-kind="intro" data-tags="motif/stars,concept/alienation,concept/the_sublime,concept/terror_and_horror,concept/doubt,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -60,6 +66,7 @@ Went out upon Circumference —
 Beyond the Dip of Bell —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 —  
@@ -74,6 +81,8 @@ Un Puntino sopra una Sfera —
 Uscii sulla Circonferenza —  
 Oltre il Rintocco di Campana —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_might_be_lonelier" data-title="405. It might be lonelier" data-chapter="" data-kind="intro" data-tags="motif/bread_and_wine_eucharist,concept/alienation,concept/pain,concept/hope,concept/melancholy,concept/self_and_soul,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -100,6 +109,7 @@ Than gain — My Blue Peninsula —
 To perish — of Delight —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Potrebbe essere più solo  
@@ -122,6 +132,8 @@ Fallire — con la Terra in Vista —
 Che guadagnare — la mia Azzurra Penisola —  
 Perire — di Delizia —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="was_the_slightest_in_the_house" data-title="486. I was the slightest in the House —" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/death,concept/humility,concept/alienation,concept/identity,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -149,6 +161,7 @@ Were going — I had often thought
 How noteless — I could die —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ero la più minuta della Casa —  
@@ -172,6 +185,8 @@ E qualcuno ch'io conoscessi
 Vi andasse — avevo spesso pensato  
 Come senza nota — potessi morire —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="vilization_spurns_the_leopard" data-title="492. Civilization — spurns — the Leopard!" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/animals,concept/nature_vs_civilization,concept/exile,concept/nostalgia,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -193,6 +208,7 @@ Cannot be stifled — with Narcotic —
 Nor suppressed — with Balm —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Civiltà — sdegna — il Leopardo!  
@@ -210,6 +226,8 @@ Memorie — di Palma —
 Non si soffocano — con Narcotico —  
 Né si placano — con Balsamo —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="had_been_hungry_all_the_years" data-title="579. I had been hungry, all the Years —" data-chapter="" data-kind="intro" data-tags="concept/desire_and_longing,concept/poverty,concept/alienation,concept/renunciation,concept/transience,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -241,6 +259,7 @@ Of Persons outside Windows —
 The Entering — takes away —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Avevo avuto fame, tutti gli Anni —  
@@ -268,6 +287,8 @@ Che la Fame — era un modo
 Delle Persone fuori dalle Finestre —  
 L'Entrare — la porta via —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="prison_gets_to_be_a_friend" data-title="652. A Prison gets to be a friend —" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/imprisonment,motif/memory,motif/dreams,concept/resignation,concept/alienation,concept/self_and_soul,concept/suffering,concept/childhood_and_growth,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -316,6 +337,7 @@ Too wide for any [[motifs/night|Night]] but Heaven —
 If That — indeed — redeem —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una [[motifs/prison|Prigione]] arriva a essere amica —  
@@ -360,6 +382,8 @@ Evitata — come un Sogno —
 Troppo vasta per ogni [[motifs/night|Notte]] tranne il Cielo —  
 Se Quello — davvero — redime —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ver_for_society" data-title="746. Never for Society" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/solitude,concept/self_and_soul,concept/identity,concept/alienation,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -380,6 +404,7 @@ Neither introduction
 Need You — unto Him —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mai per la Società  
@@ -396,6 +421,8 @@ O [[forms/hymn|Inno]] Biscaglino —
 Né presentazione  
 Ti occorre — presso di Lui —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_loneliness_one_dare_not_sound" data-title="777. The Loneliness One dare not sound —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/light_and_dark,concept/loneliness,concept/terror_and_horror,concept/self_and_soul,concept/alienation,concept/the_uncanny,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -422,6 +449,7 @@ Its Caverns and its Corridors
 Illuminate — or seal —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[concepts/loneliness|Solitudine]] che Non si osa sondare —  
@@ -444,6 +472,8 @@ Il Creatore dell'[[motifs/soul|anima]]
 Le sue Caverne e i suoi Corridoi  
 Illumini — o sigilli —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ay_from_home_are_some_and_i" data-title="821. Away from Home are some and I —" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/home,motif/childhood,concept/exile,concept/alienation,concept/childhood_and_growth,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -460,6 +490,7 @@ As Children, who remain in Face
 The more their Feet retire.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lontani da [[motifs/home|Casa]] sono alcuni ed io —  
@@ -472,6 +503,8 @@ Noi — a fatica — acquisiamo
 Come Bambini, che restano nel Volto  
 Quanto più i loro Piedi si ritirano.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_has_no_residence_no_neighbor" data-title="1060. Air has no Residence, no Neighbor," data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/the_inn_tavern,concept/self_and_soul,concept/mortality,concept/alienation,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -488,6 +521,7 @@ Later than Light thy Consciousness accost me
 Till it depart, persuading Mine —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Aria non ha Residenza, né Vicino,  
@@ -500,6 +534,8 @@ Oste essenziale, nella fioca, gemente [[settings/inn|Locanda]] della Vita,
 Più tardi della Luce la tua Coscienza mi accosta  
 Finché non parte, persuadendo la Mia —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_miss_a_kinsman_more" data-title="1087. We miss a Kinsman more" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/exile,concept/paradox,concept/grief_and_loss,concept/unrequited_love,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -516,6 +552,7 @@ Till We, who smiled at Pyrenees —
 Of Parishes, complain.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Congiunto ci manca più  
@@ -528,6 +565,8 @@ Infligge una [[motifs/pain|pena]] più pungente,
 Finché Noi, che sorridemmo ai Pirenei —  
 Di Parrocchie, ci lagniamo.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="self_can_read_the_telegrams" data-title="1089. Myself can read the Telegrams" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/solitude,concept/the_inner_life,concept/paradox,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -544,6 +583,7 @@ In Counties have begun.
 But sweeter so — than none.
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Io stessa so leggere i Telegrammi  
@@ -556,6 +596,8 @@ Nelle Contee son cominciate.
 Son Notizie nulle come il niente,  
 Ma più dolci così — che nessuna.
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_is_another_loneliness" data-title="1116. There is another Loneliness" data-chapter="" data-kind="intro" data-tags="concept/solitude,concept/the_inner_life,concept/paradox,concept/alienation,form/epigram,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -572,6 +614,7 @@ Is richer than could be revealed
 By mortal numeral —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 C'è un'altra [[concepts/loneliness|Solitudine]]  
@@ -584,6 +627,8 @@ E colui al quale accade
 È più ricco di quanto potrebbe svelare  
 Un numerale mortale —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_spider_as_an_artist" data-title="1275. The Spider as an Artist" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,archetype/artist,archetype/outcast_wanderer,motif/animals,concept/the_artist_and_society,concept/beauty,concept/alienation,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -600,6 +645,7 @@ Neglected Son of Genius
 I take thee by the Hand —
 
 
+<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Ragno come [[archetypes/artist|Artista]]  
@@ -612,6 +658,8 @@ Per tutta una Terra Cristiana —
 Figlio negletto del Genio  
 Ti prendo per la Mano —
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_ditch_is_dear_to_the_drunken_man" data-title="1645. The Ditch is dear to the Drunken man" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/wine_and_drink,concept/alienation,concept/appearance_vs_reality,concept/paradox,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -625,6 +673,7 @@ In her disheveled Sanctity —
 Above him is the sky —  
 Oblivion bending over him  
 And Honor leagues away.
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -637,3 +686,5 @@ Nella sua scarmigliata Santità —
 Sopra di lui è il cielo —  
 L'Oblio che si china su di lui  
 E l'Onore a leghe di distanza.
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

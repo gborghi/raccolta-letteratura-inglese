@@ -15,7 +15,10 @@ tags:
 
 
 Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thirty Years' War: the general Wallenstein's growing rebellion against his Emperor, with intrigue, ambition, loyalty and fate; a historical verse tragedy.
+<<<<<<< HEAD
 
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -60,6 +63,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | ILLO | No more!<br>Yonder I see our worthy friend approaching<br>With the Lieutenant-General, Piccolomini. |
 | BUTLER | I [[concepts/fear\|fear]] we shall not go hence as we came. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -96,6 +100,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | ISOLANI *(nello stesso [[motifs/time\|tempo]] di Butler, e con voce affrettata)* | Saremmo rovinati, tutti quanti! |  
 | ILLO | Basta così!<br>Là vedo avvicinarsi il nostro degno amico<br>col Luogotenente Generale, Piccolomini. |  
 | BUTLER | [[concepts/fear\|Temo]] che non ce n'andremo di qui come siamo venuti. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -156,6 +162,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | ILLO | You'll not forget, that yet ere [[motifs/noon\|noon]] we meet<br>The noble Envoy at the General's palace. |
 | *(didascalia)* | [Exeunt all but QUESTENBERG and OCTAVIO. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -212,6 +219,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [A OCTAVIO. |  
 | ILLO | Non dimenticherete che prima di [[motifs/noon\|mezzogiorno]] incontriamo<br>il nobile inviato al palazzo del generale. |  
 | *(didascalia)* | [Escono tutti tranne QUESTENBERG e OCTAVIO. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -243,6 +252,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | OCTAVIO | I must venture it.<br>Hush! — There he comes! |
 | *(didascalia)* | [Before 1] Questenberg (with signs of aversion and astonishment).<br>1817, 1828, 1829.<br>Questenberg (walking up and down in evident disquiet). Friend, &c.<br>1817, 1828, 1829. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -270,6 +280,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | QUESTENBERG | Mio onorato amico! altissima stima ho<br>del colonnello Piccolomini — pure — se ——<br>riflettete un poco —— |  
 | OCTAVIO | Devo rischiare.<br>Zitto! — Eccolo che viene! |  
 | *(didascalia)* | [Prima di 1] Questenberg (con segni di avversione e stupore).<br>1817, 1828, 1829.<br>Questenberg (passeggiando su e giù in evidente inquietudine). Amico, ecc.<br>1817, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -305,6 +317,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | MAX | Where lies the fault but on you in Vienna?<br>I will deal openly with you, Questenberg.<br>Just now, as first I saw you standing here,<br>(I'll own it to you freely) indignation<br>Crowded and pressed my inmost [[motifs/soul\|soul]] together.<br>'Tis ye that hinder peace, ye! — and the warrior,<br>It is the warrior that must force it from you.<br>Ye fret the General's life out, blacken him,<br>Hold him up as a [[archetypes/rebel\|rebel]], and Heaven knows<br>What else still worse, because he spares the Saxons,<br>And tries to awaken confidence in the enemy;<br>Which yet 's the only way to peace: for if<br>War intermit not during war, how then<br>And whence can peace come? — Your own plagues fall on you!<br>Even as I [[motifs/love\|love]] what's virtuous, hate I you.<br>And here make I this vow, here pledge myself;<br>My [[motifs/blood\|blood]] shall spurt out for this Wallenstein,<br>And my heart drain off, drop by drop, ere ye<br>Shall revel and [[motifs/dance\|dance]] jubilee o'er his ruin. |
 | *(didascalia)* | Exit. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -336,6 +349,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | QUESTENBERG | Oh! che voi parliate<br>d'un così lontano, lontano [[motifs/time\|tempo]], e non<br>del domani, non di questo oggi. |  
 | MAX | Dov'è la colpa se non su voi a Vienna?<br>Sarò aperto con voi, Questenberg.<br>Or ora, come vi vidi la prima volta qui,<br>(ve lo confesso francamente) l'indignazione<br>mi serrò e mi strinse l'intima [[motifs/soul\|anima]].<br>Siete voi che impedite la pace, voi! — e il guerriero,<br>è il guerriero che deve strapparvela.<br>Voi logorate la vita del Generale, lo denigrate,<br>lo additate come [[archetypes/rebel\|ribelle]], e il Cielo sa<br>che altro ancor peggio, perché risparmia i Sassoni,<br>e tenta di destare fiducia nel nemico;<br>che pure è la sola via alla pace: ché se<br>la guerra non s'interrompe durante la guerra, come<br>e donde può venire la pace? — Ricadano su voi i vostri flagelli!<br>Quanto [[motifs/love\|amo]] ciò che è virtuoso, tanto odio voi.<br>E qui faccio questo voto, qui m'impegno:<br>il mio [[motifs/blood\|sangue]] sprizzerà per questo Wallenstein,<br>e il mio cuore si vuoterà, goccia a goccia, prima che voi<br>gozzovigliate e [[motifs/dance\|danziate]] il giubileo sulla sua rovina. |  
 | *(didascalia)* | Esce. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -362,6 +377,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | OCTAVIO | Come! — to the Duke's. 'Tis close upon the hour<br>Which he appointed you for audience. Come!<br>A curse, a threefold curse, upon this [[motifs/journey\|journey]]! |
 | *(didascalia)* | [He leads QUESTENBERG off. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -384,6 +400,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | QUESTENBERG | Ma che cosa è troppo tardi? Riflettete, amico mio,<br>che mi parlate per enigmi assoluti. |  
 | OCTAVIO | Venite! — dal Duca. È vicina l'ora<br>che v'ha fissato per l'udienza. Venite!<br>Maledetto, tre volte maledetto questo [[motifs/journey\|viaggio]]! |  
 | *(didascalia)* | [Conduce via QUESTENBERG. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -413,6 +431,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [They hurry off. SENI follows slowly. A page brings the staff of command on a red cushion, and places it on the table near the DUKE'S chair. They are announced from without, and the wings of the door fly open. |
 | *(didascalia)* | [Before 15] Seni (with gravity). 1800, 1828, 1829. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -438,6 +457,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | SECONDO SERVO | Là! Fuori dalla porta laterale. |  
 | *(didascalia)* | [Escono in fretta. SENI li segue lentamente. Un paggio porta il bastone del comando su un cuscino rosso, e lo posa sul tavolo presso la sedia del DUCA. Sono annunciati da fuori, e i battenti della porta si spalancano. |  
 | *(didascalia)* | [Prima di 15] Seni (con gravità). 1800, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -485,6 +506,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | Talk they?<br>O! they force, they thrust me<br>With violence, against my own will, onward! |
 | DUCHESS | O! if there yet be [[motifs/time\|time]], my husband! if<br>By giving way and by submission, this<br>Can be averted — my dear lord, give way!<br>Win down your proud heart to it! Tell that heart<br>It is your sovereign lord, your Emperor<br>Before whom you retreat. O let no longer<br>Low tricking malice blacken your good meaning<br>With abhorred venomous glosses. Stand you up<br>Shielded and helm'd and weapon'd with the [[concepts/truth\|truth]],<br>And drive before you into uttermost shame<br>These slanderous liars! Few firm friends have we —<br>You know it! — The swift growth of our good fortune<br>It hath but set us up, a mark for hatred.<br>What are we, if the sovereign's grace and favour<br>Stand not before us? |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -528,6 +550,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | *(Wallenstein attraversa la stanza a gran passi in violenta agitazione.)* |  
 | WALLENSTEIN | Parlano?<br>Oh! mi forzano, mi spingono<br>con violenza, contro il mio stesso volere, innanzi! |  
 | DUCHESSA | Oh! se v'è ancora [[motifs/time\|tempo]], marito mio! se<br>col cedere e col sottomettersi, questo<br>può essere stornato — mio caro signore, cedete!<br>Piegate a ciò il vostro cuore superbo! Dite a quel cuore<br>ch'è il vostro sovrano signore, il vostro Imperatore<br>dinanzi a cui vi ritraete. Oh, non lasciate più<br>che la bassa malizia ingannatrice annerisca il vostro buon intento<br>con odiose glosse velenose. Levatevi in piedi<br>scudato ed elmato e armato della [[concepts/truth\|verità]],<br>e cacciate innanzi a voi nell'ultima vergogna<br>questi calunniosi bugiardi! Pochi amici saldi abbiamo —<br>lo sapete! — Il rapido crescere della nostra fortuna<br>non ha fatto che erigerci a bersaglio dell'odio.<br>Che siamo noi, se la grazia e il favore del sovrano<br>non stanno innanzi a noi? |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -547,6 +571,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | The voice of my [[archetypes/child\|child]]!<br>[Then after a pause.<br>I was indignant at my destiny<br>That it denied me a man-[[archetypes/child\|child]] to be<br>Heir of my name and of my prosperous fortune,<br>And re-illume my soon extinguished being<br>In a proud line of princes.<br>I wronged my destiny. Here upon this head<br>So lovely in its maiden bloom will I<br>Let fall the garland of a life of war,<br>Nor deem it lost, if only I can wreath it<br>Transmitted to a regal ornament,<br>Around these beauteous brows. |
 | *(didascalia)* | [He clasps her in his arms as PICCOLOMINI enters.<br>[Observing the countenance of the Duchess. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -562,6 +587,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | THEKLA | Oh sì, sì, madre!<br>Al primo sguardo! — Mio padre non è mutato.<br>La figura che mi sta davanti non smentisce<br>nessun tratto dell'immagine che è vissuta<br>tanto a lungo dentro di me! |  
 | WALLENSTEIN | La voce della mia [[archetypes/child\|figlia]]!<br>[Poi dopo una pausa.<br>M'ero sdegnato col mio destino<br>perché mi negò un [[archetypes/child\|figlio]] maschio che fosse<br>erede del mio nome e della mia prospera fortuna,<br>e riaccendesse il mio essere presto spento<br>in una fiera stirpe di principi.<br>Feci torto al mio destino. Qui su questo capo<br>così leggiadro nel suo fiore verginale io voglio<br>lasciar cadere la ghirlanda di una vita di guerra,<br>né la stimerò perduta, se solo potrò intrecciarla,<br>mutata in regale ornamento,<br>intorno a queste belle tempie. |  
 | *(didascalia)* | [La stringe fra le braccia mentre entra PICCOLOMINI.<br>[Osservando il volto della Duchessa. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -587,6 +614,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [He grasps the hand of the DUCHESS with still increasing warmth. |
 | *(didascalia)* | [Before 38] Countess (who during this [[motifs/time\|time]] has been anxiously watching the Duke, and remarks that he is lost in thought over the letters). 1800, 1828, 1829. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -608,6 +636,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | Max, contiamo di vedervi all'adunanza. |  
 | *(didascalia)* | [Stringe la mano della DUCHESSA con calore sempre crescente. |  
 | *(didascalia)* | [Prima del 38] Contessa (che durante questo [[motifs/time\|tempo]] ha osservato con ansia il Duca, e nota ch'egli è assorto sulle lettere). 1800, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -635,6 +665,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | So hast thou always played thy game with us. |
 | *(didascalia)* | [Enter ILLO. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -658,6 +689,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | E donde sai tu<br>ch'io non lo stia gabbando al servizio dell'Imperatore?<br>Donde sai che non stia gabbando tutti voi?<br>Mi conosci tu così [[motifs/well\|bene]]? Quando ti feci io<br>l'intendente dei miei segreti disegni?<br>Non mi risulta d'aver mai aperto<br>a te i miei pensieri più intimi. L'Imperatore, è vero,<br>m'ha trattato male; e se volessi,<br>potrei ripagarlo con interesse usuraio<br>del male che m'ha fatto. Mi diletta<br>conoscere la mia potenza; ma se poi l'userò,<br>di questo avrei creduto che tu non sapessi parlare<br>più saviamente dei tuoi pari. |  
 | TERTSKY | Così hai sempre giocato la tua partita con noi. |  
 | *(didascalia)* | [Entra ILLO. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -702,6 +735,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | PAGE *(entering)* | My Lords, the Generals. |
 | WALLENSTEIN | Let them come in. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -742,6 +776,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | Le costellazioni celesti non fanno soltanto<br>il giorno e le notti, l'[[motifs/summer\|estate]] e la [[motifs/spring\|primavera]], non soltanto<br>significano al contadino le [[motifs/seasons\|stagioni]]<br>della semina e della messe. L'azione umana,<br>anch'essa è semenza di contingenze,<br>sparsa sull'oscura terra del futuro<br>nella speranza di conciliarsi le potenze del fato.<br>Onde ci conviene cercare il [[motifs/time\|tempo]] della semina,<br>osservare gli [[motifs/stars\|astri]], sceglierne le ore propizie,<br>e seguire con occhio indagatore le case celesti,<br>se il nemico della crescita e del prosperare<br>non si nasconda, maligno, nel suo cantuccio.<br>Perciò concedimi il mio [[motifs/time\|tempo]]. Intanto<br>fa' tu la tua parte. Non so ancora dire<br>che cosa farò — solo, cedere non voglio.<br>E deporre non mi deporranno. Su questi punti<br>puoi contare. |  
 | PAGGIO *(entrando)* | Miei Signori, i Generali. |  
 | WALLENSTEIN | Fateli entrare. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -819,6 +855,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | There! the Field-Marshal knows our will. |
 | *(didascalia)* | [Exit. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -892,6 +929,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | KOLATTO | Vivremo con te, moriremo con te. |  
 | WALLENSTEIN | Ecco! il Feldmaresciallo conosce la nostra volontà. |  
 | *(didascalia)* | [Esce. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -916,6 +955,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | A secret. Hush! she comes. |
 | *(didascalia)* | [Exit ILLO. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -936,6 +976,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | ILLO | Sì! Sì!<br>Ho visto la tua Signora sorridere con tanta astuzia.<br>Che c'è nel [[motifs/wind\|vento]]? |  
 | TERTSKY | Un segreto. Zitto! eccola che viene. |  
 | *(didascalia)* | [Esce ILLO. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -961,6 +1003,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | COUNTESS | A truce with your precautions! |
 | *(didascalia)* | [Exeunt TERTSKY and ILLO. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -982,6 +1025,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | Subito! Subito!   [Alla CONTESSA.<br>E non lasciarlo<br>restar qui troppo a lungo. Potrebbe destar sospetto<br>nel vecchio —— |  
 | CONTESSA | Tregua alle tue cautele! |  
 | *(didascalia)* | [Escono TERTSKY e ILLO. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1017,6 +1062,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | COUNTESS | Why, yes! When in the instant after you<br>I stepped into the room, and found my niece there,<br>What she in this first moment of the heart<br>Ta'en with surprise — |
 | MAX | [[motifs/well\|Well]]? |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1048,6 +1094,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | MAX | Il vostro segreto? |  
 | CONTESSA | Ma sì! Quando un istante dopo di voi<br>entrai nella stanza, e vi trovai mia nipote,<br>ciò che ella in quel primo moto del cuore<br>colta di sorpresa — |  
 | MAX | [[motifs/well\|Ebbene]]? |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1094,6 +1142,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | COUNTESS | What was that?<br>Did you hear nothing? Seem'd, as if I heard<br>Tumult and larum in the banquet-room. |
 | *(didascalia)* | [Exit COUNTESS. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1136,6 +1185,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | MAX | Oh, se la spada potesse conquistarla! |  
 | CONTESSA | Che è stato?<br>Non avete udito nulla? Parve, come se udissi<br>tumulto e allarme nella sala del banchetto. |  
 | *(didascalia)* | [Esce la CONTESSA. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1163,6 +1214,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | MAX | O! shall we e'er be happy? |
 | THEKLA | Are we not happy now? Art thou not mine?<br>Am I not thine? There lives within my [[motifs/soul\|soul]]<br>A lofty [[concepts/courage\|courage]]—'tis [[motifs/love\|love]] gives it me!<br>I ought to be less open — ought to hide<br>My heart more from thee — so decorum dictates:<br>But where in this place could'st thou seek for [[concepts/truth\|truth]],<br>If in my mouth thou did'st not find it? |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1186,6 +1238,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | THEKLA | Seguitemi!<br>Non riponiamo troppa [[concepts/faith\|fede]] negli uomini.<br>Questi Tertsky — resteremo loro grati<br>d'ogni cortesia, ma non ci fideremo oltre<br>quanto meritano; — e in tutto il resto affidiamoci ——<br>ai nostri cuori! |  
 | MAX | Oh! saremo mai felici? |  
 | THEKLA | Non siamo felici ora? Non sei tu mio?<br>Non sono io tua? Vive dentro la mia [[motifs/soul\|anima]]<br>un alto [[concepts/courage\|coraggio]]—è l'[[motifs/love\|amore]] che me lo dà!<br>Dovrei essere meno aperta — dovrei celarti<br>di più il mio cuore — così detta il decoro:<br>ma dove in questo luogo potresti cercare [[concepts/truth\|verità]],<br>se sulla mia bocca non la trovassi? |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1221,6 +1275,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | The text of [[motifs/lamb\|Lamb]]'s version as printed in Works, 1818, i. 42 is as<br>follows:<br>BALLAD.<br>FROM THE GERMAN.<br>The clouds are blackening, the storms threatening,<br>And ever the forest maketh a moan:<br>Billows are breaking, the [[archetypes/damsel\|damsel]]'s heart aching,<br>Thus by herself she singeth alone,<br>Weeping right plenteously.<br>The world is empty, the heart is dead surely,<br>In this world plainly all seemeth amiss:<br>To thy breast, holy one, take now thy little one,<br>I have had earnest of all earth's bliss<br>Living most lovingly. |
 | *(didascalia)* | [[motifs/spring\|Spring]], 1800.<br>The latest, &c.       [They not appearing to attend to what she says,<br>she steps between them.<br>1800, 1828, 1829. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1252,6 +1307,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | Non posso non aggiungere qui un'imitazione di questa canzone, della quale l'autore<br>del Racconto di Rosamond Gray e Blind Margaret mi ha fatto dono, e<br>che mi pare abbia colto la maniera più felice delle nostre antiche<br>ballate.<br>Le nubi s'annerano, le tempeste minacciano,<br>la caverna mormora, il bosco verde geme;<br>i flutti si frangono, il cuore della [[archetypes/damsel\|fanciulla]] duole,<br>così nella buia [[motifs/night\|notte]] ella canta sola,<br>l'occhio errante verso l'alto:<br>Il mondo è vuoto, il cuore è morto di certo,<br>in questo mondo tutto pare andar male;<br>al tuo cielo, o Santo, prendi a [[motifs/home\|casa]] la tua piccola,<br>ho partecipato d'ogni gioia terrena,<br>e vivendo e amando. |  
 | *(didascalia)* | Il testo della versione di [[motifs/lamb\|Lamb]], quale è stampato in Works, 1818, i. 42, è il<br>seguente:<br>BALLATA.<br>DAL TEDESCO.<br>Le nubi s'anneriscono, le tempeste minacciano,<br>e sempre la foresta leva un lamento:<br>i flutti si frangono, il cuore della [[archetypes/damsel\|fanciulla]] duole,<br>così da sé medesima ella canta solitaria,<br>piangendo a dirotto.<br>Il mondo è vuoto, il cuore è morto di certo,<br>in questo mondo tutto pare andar male:<br>al tuo seno, o santo, prendi ora la tua piccola,<br>ho avuto caparra d'ogni gioia terrena<br>vivendo con tutto l'amore. |  
 | *(didascalia)* | [[motifs/spring\|Primavera]], 1800.<br>L'ultimo, ecc.       [Non sembrando essi badare a ciò che ella dice,<br>ella si pone fra loro.<br>1800, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1302,6 +1359,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | THEKLA | O when a house is doomed in [[motifs/fire\|fire]] to perish,<br>Many a dark heaven drives his clouds together,<br>Yea, shoots his lightnings down from sunny heights,<br>Flames burst from out the subterraneous chasms,<br>And fiends and angels mingling in their fury,<br>Sling [[motifs/fire\|fire]]-brands at the burning edifice. |
 | *(didascalia)* | [Exit THEKLA. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1348,6 +1406,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [La musica dalla sala del banchetto si fa più forte. |  
 | THEKLA | Oh, quando una casa è destinata a perire nel [[motifs/fire\|fuoco]],<br>più d'un cielo oscuro sospinge insieme le sue nubi,<br>sì, scaglia i suoi fulmini giù da altezze soleggiate,<br>fiamme erompono dalle voragini sotterranee,<br>e demoni e angeli confusi nella loro furia<br>lanciano tizzi di [[motifs/fire\|fuoco]] contro l'edificio in fiamme. |  
 | *(didascalia)* | [Esce THEKLA. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1372,6 +1432,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | ISOLANI *(drawing Max along)* | Come, Max. |
 | *(didascalia)* | Both seat themselves at their table. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1392,6 +1453,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | No, lasciate che aspetti la fine del pasto. |  
 | ISOLANI *(trascinando via Max)* | Vieni, Max. |  
 | *(didascalia)* | Entrambi siedono alla loro tavola. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1407,6 +1470,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | Right! lay it yonder, and away with this —<br>It has performed its business — to the [[motifs/fire\|fire]] with it — |
 | *(didascalia)* | NEUMANN lays the copy on the table and steps back again to the side-table. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1418,6 +1482,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | NEUMANN | L'ho ricopiata<br>lettera per lettera, riga per riga; nessun occhio<br>vi scoprirebbe mai altra differenza,<br>se non la sola omissione di quel comma,<br>secondo l'ordine di Vostra Eccellenza. |  
 | TERTSKY | Bene! Posala là, e via con questa —<br>ha compiuto il suo ufficio — al [[motifs/fire\|fuoco]] con essa — |  
 | *(didascalia)* | NEUMANN posa la copia sul tavolo e torna indietro al tavolino. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1435,6 +1501,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | And Butler? |
 | ILLO | How goes it there? Hush! |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1448,6 +1515,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | ILLO | Oh, cordialissimi,<br>sono cordialissimi al disegno. Li abbiamo.<br>Ed è pure come avevo predetto. Già<br>si parla non soltanto di mantenere<br>il Duca nella sua carica. 'Poiché una volta per tutte<br>siamo uniti e unanimi, perché no,'<br>dice Montecuculi, 'sì, perché non avanti,<br>e dettare condizioni all'Imperatore<br>là nella sua stessa Vienna?' Credimi, Conte,<br>se non fosse per questi Piccolomini,<br>ci saremmo potuti risparmiare l'inganno. |  
 | TERTSKY | E Butler? |  
 | ILLO | Come va laggiù? Zitto! |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1475,6 +1544,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | Where is the master of the cellar? Ho!<br>Let the best wines come up. Ho! cheerly, boy!<br>Luck comes to-day, so give her hearty welcome. |
 | *(didascalia)* | [Exeunt, each to his table. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1498,6 +1568,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | BUTLER | Assicuratevi voi lo Spagnolo e l'Italiano —<br>io vi farò da garante per lo Scozzese Lesly.<br>Venite! alla compagnia! |  
 | TERTSKY | Dov'è il maestro di cantina? Olà!<br>Si portino su i vini migliori. Olà! allegro, ragazzo!<br>Oggi viene la fortuna: le si faccia cordiale accoglienza. |  
 | *(didascalia)* | [Escono, ciascuno alla propria tavola. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1550,6 +1622,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | MASTER OF THE CELLAR | The Lieutenant-General stands up. — Be on the watch. — Now! They break up. — Off, and move back the forms. |
 | *(didascalia)* | [They rise at all the tables, the Servants hurry off the front of the stage to the tables; part of the guests come forward.] |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1598,6 +1671,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [TERTSKY entra in fretta, porta via la carta, e chiede a un Servo penna e inchiostro, e va in fondo alla scena.] |  
 | MAESTRO DI CANTINA | Il Luogotenente Generale si alza. — State all'erta. — Ora! Si sciolgono. — Via, e spostate indietro le panche. |  
 | *(didascalia)* | [Si alzano a tutte le tavole, i Servi si affrettano via dal proscenio verso le tavole; parte degli ospiti si fa avanti.] |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1646,6 +1721,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | BUTLER | Your obliged humble servant, my Lord Lieutenant-General! |
 | *(didascalia)* | The paper comes to BUTLER, who goes to the table to subscribe it. The front of the stage is vacant, so that both the PICCOLOMINIS, each on the side where he had been from the commencement of the scene, are now conspicuous. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1690,6 +1766,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | OCTAVIO | Siete straniero qui—soltanto ieri siete arrivato — ignorate gli usi e i modi del luogo. È un posto miserabile — lo so, alla nostra età si ama star comodi e tranquilli — E se cambiaste alloggio? — Venite, siate mio ospite. (BUTLER fa un profondo inchino.) Ma via, senza complimenti! — Per un amico come voi mi resta ancora un cantuccio. |  
 | BUTLER | Vostro obbligato umile servitore, signor Luogotenente Generale! |  
 | *(didascalia)* | La carta giunge a BUTLER, che va alla tavola per sottoscriverla. Il proscenio resta vuoto, sicché entrambi i PICCOLOMINI, ciascuno dal lato in cui si trovava fin dall'inizio della scena, ora spiccano in vista. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1719,6 +1797,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | ISOLANI | (pointing to Max). Look! that is your man, that statue there, who has had neither eye, ear, nor tongue for us the whole evening. |
 | *(didascalia)* | [MAX receives the paper from TERTSKY, which he looks upon vacantly. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1744,6 +1823,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | Un solo Piccolomini ha firmato. |  
 | ISOLANI | (additando Max). Guarda! ecco il tuo uomo, quella statua là, che per tutta la sera non ha avuto per noi né occhio, né orecchio, né lingua. |  
 | *(didascalia)* | [MAX riceve da TERTSKY il foglio, e lo guarda con occhio assente. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1802,6 +1883,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | MAX | *(rushes on him suddenly and disarms him, then to Count Tertsky)* Take him off to bed. |
 | *(didascalia)* | [MAX [[motifs/leaves\|leaves]] the stage. ILLO cursing and raving is held back by some of the Officers, and amidst a universal confusion the curtain drops. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1856,6 +1938,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | OCTAVIO, TERTSKY, BUTLER | *(tutti insieme)* Giù la spada! |  
 | MAX | *(gli si avventa addosso all'improvviso e lo disarma, poi al Conte Tertsky)* Portatelo a letto. |  
 | *(didascalia)* | [MAX [[motifs/leaves\|lascia]] la scena. ILLO, imprecando e infuriando, è trattenuto da alcuni Ufficiali, e tra una confusione universale cala il sipario. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1956,6 +2040,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | OCTAVIO | I will await it. |
 | *(didascalia)* | Act III, Scene I. A Chamber, &c. . . . It is [[motifs/night\|Night]]. Octavio, &c. 1800, 1828, 1829.<br>[Before 12] Octavio (goes up to him and embraces him). 1800, 1828, 1829.<br>[After 56] [Fixing his eye steadfastly on his son's face. 1800, 1828, 1829.<br>[After 57] [Max attempts to answer but hesitates, and casts his eyes to the ground, embarrassed. Octavio, after a pause. 1800, 1828, 1829.<br>Angel, a curious misprint perpetuated in the new edition. [MS. note by Derwent Coleridge.]<br>[Before 168] Max (in excessive agitation). 1800, 1828, 1829.<br>[Before 330] Max (with enthusiasm). 1800, 1828, 1829.<br>[After 330] [Moderates his voice and manner. 1800, 1828, 1829. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2052,6 +2137,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | MAX | Il tuo giudizio può errare; il mio cuore no.<br>Queste ragioni spiegherebbero il tuo spirito o il mio;<br>ma non spiegano Friedland — io ho [[concepts/faith\|fede]]:<br>ché come lega le sue sorti alle [[motifs/stars\|stelle]],<br>così le somiglia in corsi segreti,<br>mirabili, sempre inesplicabili!<br>Credimi, gli fanno torto. Tutto si scioglierà.<br>Questi fumi, d'un tratto, s'accenderanno in fiamma —<br>gli orli di questa nube nera e tempestosa<br>s'illumineranno all'improvviso, e vedremo<br>l'Inaccessibile uscirne fuori in splendore. |  
 | OCTAVIO | L'attenderò. |  
 | *(didascalia)* | Atto III, Scena I. Una stanza, ecc. . . . È [[motifs/night\|Notte]]. Ottavio, ecc. 1800, 1828, 1829.<br>[Prima di 12] Ottavio (gli si accosta e l'abbraccia). 1800, 1828, 1829.<br>[Dopo 56] [Fissando l'occhio con fermezza sul volto del figlio. 1800, 1828, 1829.<br>[Dopo 57] [Max tenta di rispondere ma esita, e abbassa gli occhi a terra, imbarazzato. Ottavio, dopo una pausa. 1800, 1828, 1829.<br>Angel, un curioso refuso perpetuato nella nuova edizione. [Nota ms. di Derwent Coleridge.]<br>[Prima di 168] Max (in eccessiva agitazione). 1800, 1828, 1829.<br>[Prima di 330] Max (con entusiasmo). 1800, 1828, 1829.<br>[Dopo 330] [Modera la voce e il contegno. 1800, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2097,6 +2184,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [Exit Cornet. |
 | *(didascalia)* | [Before 10] Octavio (eagerly). 1800, 1828, 1829. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2138,6 +2226,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | OCTAVIO | Andate, riposate le membra, e tenetevi celato.<br>Ritengo probabile che ancor prima di sera<br>io vi spedisca. Lo scioglimento<br>di questa faccenda s'avvicina: prima che il giorno,<br>che pure ora albeggia nel cielo,<br>prima che questo giorno fatale tramonti, la sorte<br>che deve decidere il nostro destino sarà tratta. |  
 | *(didascalia)* | [Esce l'Alfiere. |  
 | *(didascalia)* | [Prima del 10] Octavio (con foga). 1800, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2162,6 +2252,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [Before 6] Octavio (alarmed). 1800, 1828, 1829. |
 | *(didascalia)* | [Before 7] Max (returning). 1800, 1828, 1829. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2182,6 +2273,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [Prima del 3] Max (che per tutta la scena precedente è stato in una violenta e visibile lotta di sentimenti, alla fine trasale come chi ha preso una decisione). 1800, 1828, 1829. |  
 | *(didascalia)* | [Prima del 6] Octavio (allarmato). 1800, 1828, 1829. |  
 | *(didascalia)* | [Prima del 7] Max (tornando indietro). 1800, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2209,6 +2302,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | (enters) Hast thou already heard it? He is taken.<br>Galas has given him up to the Emperor. |
 | *(didascalia)* | [SENI draws off the black table, and exit. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2232,6 +2326,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [Mentre SENI apre le porte a TERTSKY, WALLENSTEIN tira il sipario davanti alle figure. |  
 | TERTSKY | (entra) L'hai già saputo? È stato preso.<br>Galas lo ha consegnato all'Imperatore. |  
 | *(didascalia)* | [SENI porta via il tavolo nero, ed esce. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2246,6 +2342,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | Nay, not Sesina? — Say, No! I entreat<br>thee. |
 | TERTSKY | All on his [[motifs/road\|road]] for Regenspurg to the Swede<br>He was plunged down upon by Galas' agent,<br>Who had been long in ambush, lurking for him.<br>There must have been found on him my whole packet<br>To Thur, to Kinsky, to Oxenstirn, to Arnheim:<br>All this is in their hands; they have now an insight<br>Into the whole — our measures, and our motives. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2256,6 +2353,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | L'uomo che conosce i nostri [[motifs/secrets\|segreti]], che conosce ogni<br>trattativa con lo Svedese e col Sassone,<br>per le cui mani ogni cosa è passata — |  
 | WALLENSTEIN | No, non Sesina? — Di' di no! te ne<br>supplico. |  
 | TERTSKY | Proprio sulla [[motifs/road\|strada]] di Regenspurg, verso lo Svedese,<br>gli è piombato addosso l'agente di Galas,<br>che da lungo stava in agguato, appostato per lui.<br>Gli si dev'essere trovato addosso tutto il mio plico<br>per Thur, per Kinsky, per Oxenstirn, per Arnheim:<br>tutto ciò è nelle loro mani; ora hanno gli occhi<br>dentro ogni cosa — i nostri provvedimenti e i nostri moventi. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2298,6 +2397,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | ILLO | First hear him only,<br>And after weigh it. |
 | *(didascalia)* | [Exeunt TERTSKY and ILLO.] |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2336,6 +2436,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | Ferma!<br>Ferma ancora un poco. Mi ha colto<br>tutto di sorpresa, — m'è piombato addosso troppo in fretta;<br>è cosa affatto [[forms/novel\|nuova]], che un accidente,<br>col suo oscuro dominio e la sua cieca opera,<br>debba trascinarmi via con sé. |  
 | ILLO | Prima ascoltalo soltanto,<br>e poi ponderalo. |  
 | *(didascalia)* | [Escono TERTSKY e ILLO.] |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2354,6 +2456,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [After 50] [Pauses again. 1800, 1828, 1829. |
 | *(didascalia)* | [After 62] [Paces in agitation through the chamber, then pauses, and, after the pause, breaks out again into audible soliloquy. 1800, 1828, 1829. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2368,6 +2471,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [Dopo 25] [Si ferma e resta in profondo pensiero. 1800, 1828, 1829. |  
 | *(didascalia)* | [Dopo 50] [Si ferma di nuovo. 1800, 1828, 1829. |  
 | *(didascalia)* | [Dopo 62] [Cammina agitato per la stanza, poi si ferma, e, dopo la pausa, prorompe di nuovo in soliloquio udibile. 1800, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2438,6 +2543,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WRANGEL | Ay! but think of this too,<br>That sudden action only can procure it<br>Success — think first of this, your Highness. |
 | *(didascalia)* | [Exit WRANGEL. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2504,6 +2610,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | Mi incalzate duramente. Una misura come questa<br>vuol essere meditata. |  
 | WRANGEL | Sì! ma pensate anche a questo:<br>che solo un'azione subitanea può procurarle<br>successo — pensate prima a questo, Altezza. |  
 | *(didascalia)* | [Esce WRANGEL. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2523,6 +2631,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | To live upon the [[concepts/mercy\|mercy]] of these Swedes!<br>Of these proud-hearted Swedes! I could not bear it. |
 | ILLO | Goest thou as fugitive, as mendicant?<br>Bringest thou not more to them than thou receivest? |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2538,6 +2647,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | No, ma riflettete, Duca. |  
 | WALLENSTEIN | Vivere alla [[concepts/mercy\|mercé]] di questi Svedesi!<br>Di questi Svedesi dal cuore superbo! Non potrei sopportarlo. |  
 | ILLO | Vai tu come fuggiasco, come mendicante?<br>Non porti loro più di quanto da loro ricevi? |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2597,6 +2708,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | No exultation — woman, triumph not!<br>For jealous are the Powers of Destiny.<br>Joy premature, and shouts ere victory,<br>Incroach upon their rights and privileges.<br>We sow the seed, and they the growth determine. |
 | *(didascalia)* | [While he is making his exit the curtain drops. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2652,6 +2764,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [Alla CONTESSA. |  
 | WALLENSTEIN | Nessuna esultanza — donna, non trionfare!<br>Ché gelose sono le Potenze del Destino.<br>Gioia precoce, e grida prima della vittoria,<br>usurpano i loro diritti e privilegi.<br>Noi seminiamo il seme, ed esse decidono la crescita. |  
 | *(didascalia)* | [Mentre egli esce, cala il sipario. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2666,6 +2780,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | WALLENSTEIN | Now go, Octavio.<br>This [[motifs/night\|night]] must thou be off, take my own horses:<br>Him here I keep with me — make short farewell —<br>Trust me, I think we all shall meet again<br>In joy and thriving fortunes. |
 | OCTAVIO | *(to his son.)* I shall see you<br>Yet ere I go. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2676,6 +2791,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | Entra MAX PICCOLOMINI. |  
 | WALLENSTEIN | Or va', Octavio.<br>Questa [[motifs/night\|notte]] devi partire, prendi i miei cavalli:<br>costui trattengo qui con me — breve sia il commiato —<br>credimi, penso che tutti c'incontreremo ancora<br>in gioia e in prospere fortune. |  
 | OCTAVIO | *(al figlio.)* Ti rivedrò<br>ancora, prima ch'io parta. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2713,6 +2830,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [After 128] WALLENSTEIN betrays a sudden agitation. 1800, 1828, 1829. |
 | *(didascalia)* | [After 148] MAX stands as convulsed, with a gesture and countenance expressing the most intense anguish. 1800, 1828, 1829. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2746,6 +2864,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | MAX lo lascia bruscamente. WALLENSTEIN, trasalito e sopraffatto, continua a guardarlo allontanarsi, ed è ancora in questa posa quando entra TERTSKY. |  
 | *(didascalia)* | [Dopo il 128] WALLENSTEIN tradisce un'improvvisa agitazione. 1800, 1828, 1829. |  
 | *(didascalia)* | [Dopo il 148] MAX sta come in convulsione, con un gesto e un volto che esprimono l'angoscia più intensa. 1800, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2790,6 +2910,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | ILLO | And he shall never stir from here alive. |
 | WALLENSTEIN | Are ye not like the women, who for ever<br>Only recur to their first word, although<br>One had been talking reason by the hour?<br>Know, that the human being's thoughts and deeds<br>Are not, like ocean billows, blindly moved.<br>The inner world, his microcosmus, is<br>The deep shaft, out of which they [[motifs/spring\|spring]] eternally.<br>They grow by certain laws, like the tree's fruit —<br>No juggling chance can metamorphose them.<br>Have I the human kernel first examined?<br>Then I know, too, the future will and action. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2830,6 +2951,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | TERTSKY | Questo è il mio conforto — Max resta nostro ostaggio. |  
 | ILLO | E di qui non si muoverà mai vivo. |  
 | WALLENSTEIN | Non siete voi come le donne, che in eterno<br>solo ritornano alla loro prima parola, benché<br>si sia ragionato con loro per ore intere?<br>Sappiate che i pensieri e le opere dell'essere umano<br>non son mossi alla cieca, come i flutti dell'oceano.<br>Il mondo interno, il suo microcosmo, è<br>il pozzo profondo, onde essi eternamente [[motifs/spring\|sgorgano]].<br>Crescono per leggi certe, come il frutto dell'albero —<br>nessun caso giocoliere può trasformarli.<br>Ho io prima esaminato il nocciolo umano?<br>Allora conosco anche la volontà e l'atto futuri. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2883,6 +3006,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | OCTAVIO | You need not be uneasy on that score.<br>That has succeeded. Fortune favour us<br>With all the others only but as much! |
 | *(didascalia)* | [Before 2] Octavio (with an air of mystery). 1800, 1828, 1829.<br>[Before 3] Isolani (assuming the same air of mystery). 1800, 1828, 1829.<br>[Before 32] Isolani (stammering). 1800, 1828, 1829. |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2932,6 +3056,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [Esce. |  
 | OCTAVIO | Non occorre che v'inquietiate per questo.<br>Quello è riuscito. Che la fortuna ci favorisca<br>con tutti gli altri soltanto altrettanto! |  
 | *(didascalia)* | [Prima del 2] Octavio (con aria di mistero). 1800, 1828, 1829.<br>[Prima del 3] Isolani (assumendo la stessa aria di mistero). 1800, 1828, 1829.<br>[Prima del 32] Isolani (balbettando). 1800, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3010,6 +3136,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [Exit Servant. |
 | OCTAVIO | 'Be sure, make haste! Your faithful Isolan.'<br>— O that I had but left this town behind me.<br>To split upon a rock so near the haven! —<br>Away! This is no longer a safe place for me!<br>Where can my son be tarrying? |
 
+<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -3084,6 +3211,8 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | SERVO | Uno sconosciuto l'ha lasciata, ed è andato via.<br>I cavalli del Principe-Duca vi attendono di sotto. |  
 | *(didascalia)* | [Esce il Servo. |  
 | OCTAVIO | «Mi raccomando, affrettatevi! Il vostro fedele Isolan».<br>— Oh, avessi già lasciato dietro di me questa città.<br>Spezzarsi su uno scoglio sì presso al porto! —<br>Via! Questo non è più un luogo sicuro per me!<br>Dove mai può indugiare mio figlio? |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3133,6 +3262,7 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [Before 19] Max (rises and contemplates his father with looks of suspicion). 1800, 1828, 1829. |
 | *(didascalia)* | [Before 41] Octavio (more urgently). 1800, 1828, 1829. |
 | *(didascalia)* | [Before 62] Octavio (trembling, and losing all [[concepts/self\|self]]-command). 1800, 1828, 1829. |
+<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3180,3 +3310,5 @@ Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambien
 | *(didascalia)* | [Prima del 19] Max (si alza e contempla il padre con sguardi di sospetto). 1800, 1828, 1829. |  
 | *(didascalia)* | [Prima del 41] Octavio (con maggiore insistenza). 1800, 1828, 1829. |  
 | *(didascalia)* | [Prima del 62] Octavio (tremando, e perdendo ogni dominio di [[concepts/self\|sé]]). 1800, 1828, 1829. |
+=======
+>>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
