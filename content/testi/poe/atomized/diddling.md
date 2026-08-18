@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="diddling" data-title="Diddling" data-chapter="" data-kind="intro"></span>
 
-# [[works/diddling-(poe)|Diddling]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

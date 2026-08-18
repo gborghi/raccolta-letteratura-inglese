@@ -17,9 +17,9 @@ tags:
 <div class="concept-works-fallback">
 
 - [[testi/dickinson/atomized/terror-and-horror-madness#1509_mine_enemy_is_growing_old|1509. Mine Enemy is growing old — (Dickinson)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#144_179_8_fire_famine_and_slaughter|179 8 FIRE, FAMINE, AND SLAUGHTER (Coleridge)]]
+- [[works/179-8-fire,-famine,-and-slaughter-(coleridge)|179 8 FIRE, FAMINE, AND SLAUGHTER (Coleridge)]]
 - [[works/a-florentine-tragedy-(wilde)|A Florentine Tragedy (Wilde)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#145_famine|FAMINE. (Coleridge)]]
+- [[works/famine.-(coleridge)|FAMINE. (Coleridge)]]
 - [[works/hop-frog-(poe)|Hop-Frog (Poe)]]
 - [[works/i-(coleridge)|I (Coleridge)]]
 - [[works/osorio-(coleridge)|OSORIO (Coleridge)]]

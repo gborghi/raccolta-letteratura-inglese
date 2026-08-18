@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="010_the_portrait_of_mr_w_h" data-title="The Portrait of Mr. W. H." data-chapter="" data-kind="intro"></span>
 
-# The Portrait of Mr. W. H.
+
 
 <span class="qlang-split" data-lang="it"></span>
 

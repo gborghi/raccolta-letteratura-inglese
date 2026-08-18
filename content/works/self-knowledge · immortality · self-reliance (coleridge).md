@@ -37,20 +37,20 @@ tags:
 
 Raccolta tematica di 14 componimenti di Samuel Taylor Coleridge.
 
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#036_a_fragment_found_in_a_lecture-room|A FRAGMENT FOUND IN A LECTURE-ROOM]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#421_donne_eclogue_on_unworthy_wisdom|DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#253_human_life|HUMAN LIFE]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#428_musophilus|MUSOPHILUS]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#247_natures_answer|NATURE’S ANSWER]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#419_of_humane_learning|OF HUMANE LEARNING]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#369_on_donnes_poem_to_a_flea|ON DONNE’S POEM ‘TO A FLEA]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#236_psyche|PSYCHE]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#298_self-knowledge|SELF-KNOWLEDGE]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#420_sir_john_davies_on_the_immortality_of_the_soul|SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#199_snow_drop|SNOW DROP.]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#218_the_pains_of_sleep|THE PAINS OF SLEEP]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#198_the_snow-drop|THE SNOW-DROP]]
-- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#105_to_the_author_of_poems|TO THE AUTHOR OF POEMS]]
+- [[works/a-fragment-found-in-a-lecture-room-(coleridge)|A FRAGMENT FOUND IN A LECTURE-ROOM]]
+- [[works/donne-eclogue.-‘on-unworthy-wisdom-(coleridge)|DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM]]
+- [[works/human-life-(coleridge)|HUMAN LIFE]]
+- [[works/musophilus-(coleridge)|MUSOPHILUS]]
+- [[works/nature’s-answer-(coleridge)|NATURE’S ANSWER]]
+- [[works/of-humane-learning-(coleridge)|OF HUMANE LEARNING]]
+- [[works/on-donne’s-poem-‘to-a-flea-(coleridge)|ON DONNE’S POEM ‘TO A FLEA]]
+- [[works/psyche-(coleridge)|PSYCHE]]
+- [[works/self-knowledge-(coleridge)|SELF-KNOWLEDGE]]
+- [[works/sir-john-davies-on-the-immortality-of-the-soul-(coleridge)|SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL]]
+- [[works/snow-drop.-(coleridge)|SNOW DROP.]]
+- [[works/the-pains-of-sleep-(coleridge)|THE PAINS OF SLEEP]]
+- [[works/the-snow-drop-(coleridge)|THE SNOW-DROP]]
+- [[works/to-the-author-of-poems-(coleridge)|TO THE AUTHOR OF POEMS]]
 
 ## Testo / Text
 

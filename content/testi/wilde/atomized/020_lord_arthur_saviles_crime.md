@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="020_lord_arthur_saviles_crime" data-title="Lord Arthur Savile's Crime" data-chapter="" data-kind="intro"></span>
 
-# [[characters/lord-arthur-savile|Lord Arthur Savile]]'s Crime
+
 
 <span class="qlang-split" data-lang="it"></span>
 

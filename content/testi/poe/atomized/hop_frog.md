@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="hop_frog" data-title="Hop-Frog" data-chapter="" data-kind="intro"></span>
 
-# [[works/hop-frog-(poe)|Hop-Frog]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

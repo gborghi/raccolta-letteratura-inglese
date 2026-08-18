@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/alienation-outsider-exile" data-author="Eliot" data-workhref="works/alienation-·-outsider-·-exile-(eliot)"></div>
 
 
-<span class="atom-split" data-atom="002_the_love_song_of_j_alfred_prufrock" data-title="The Love Song of J. Alfred Prufrock" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,archetype/antihero,motif/time,motif/fog_and_smoke,motif/the_sea,concept/alienation,concept/disillusionment,concept/self_and_soul,form/dramatic_monologue,form/free_verse,histref/dante,setting/the_modern_metropolis,character/hamlet,character/j_alfred_prufrock,cluster/alienation,cluster/outsider,cluster/exile"></span>
+The Love Song of J. Alfred Prufrock · Portrait of a Lady · Preludes · Morning at the Window · Hysteria · Gerontion · Sweeney Among the Nightingales · Marina · Eyes that last I saw in tears · Lines for an Old Man · To the Indians who Died in Africa · Spleen · V, W, X
+
+
+
+
+<span class="atom-split" data-atom="002_the_love_song_of_j_alfred_prufrock" data-title="The Love Song of J. Alfred Prufrock" data-chapter="" data-kind="intro"></span>
 
 
 The [[motifs/love|Love]] [[works/song-(poe)|Song]] of [[characters/j.-alfred-prufrock|J. Alfred Prufrock]]  
@@ -311,7 +316,7 @@ finché voci umane ci destano, e anneghiamo.
 
 
 
-<span class="atom-split" data-atom="003_portrait_of_a_lady" data-title="Portrait of a Lady" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/seasons,motif/death,concept/alienation,concept/love_romantic,concept/appearance_vs_reality,concept/satire_of_society,form/dramatic_monologue,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="003_portrait_of_a_lady" data-title="Portrait of a Lady" data-chapter="" data-kind="intro"></span>
 
 
 Portrait of a Lady  
@@ -589,7 +594,7 @@ e avrei io il diritto di sorridere?
 
 
 
-<span class="atom-split" data-atom="004_preludes" data-title="Preludes" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/fog_and_smoke,motif/night,concept/spiritual_emptiness,concept/self_and_soul,form/lyric,setting/the_modern_metropolis,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="004_preludes" data-title="Preludes" data-chapter="" data-kind="intro"></span>
 
 
 Preludes  
@@ -717,7 +722,7 @@ che raccolgono legna nei terreni vuoti.
 
 
 
-<span class="atom-split" data-atom="006_morning_at_the_window" data-title="Morning at the Window" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/fog_and_smoke,motif/the_window,concept/alienation,form/lyric,setting/the_modern_metropolis,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="006_morning_at_the_window" data-title="Morning at the Window" data-chapter="" data-kind="intro"></span>
 
 
 Morning at the [[motifs/window|Window]]  
@@ -747,7 +752,7 @@ e svanisce lungo il livello dei tetti.
 
 
 
-<span class="atom-split" data-atom="011_hysteria" data-title="Hysteria" data-chapter="" data-kind="intro" data-tags="motif/madness,concept/the_grotesque,concept/lust,concept/alienation,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="011_hysteria" data-title="Hysteria" data-chapter="" data-kind="intro"></span>
 
 
 Hysteria  
@@ -761,7 +766,7 @@ Mentre lei rideva, mi accorsi d’essere coinvolto nel suo riso e di farne parte
 
 
 
-<span class="atom-split" data-atom="015_gerontion" data-title="Gerontion" data-chapter="" data-kind="intro" data-tags="motif/decay,motif/dust,motif/wind,motif/the_mirror,concept/spiritual_emptiness,concept/faith_and_doubt,concept/memory_and_time,form/dramatic_monologue,histref/the_first_world_war,character/christ,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="015_gerontion" data-title="Gerontion" data-chapter="" data-kind="intro"></span>
 
 
 Gerontion  
@@ -929,7 +934,7 @@ pensieri di un cervello arido in una stagione arida.
 
 
 
-<span class="atom-split" data-atom="026_sweeney_among_the_nightingales" data-title="Sweeney Among the Nightingales" data-chapter="" data-kind="intro" data-tags="archetype/antihero,motif/nightingale,motif/death,motif/stars,motif/moon,concept/the_grotesque,histref/greek_tragedy,character/sweeney,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="026_sweeney_among_the_nightingales" data-title="Sweeney Among the Nightingales" data-chapter="" data-kind="intro"></span>
 
 
 [[characters/sweeney|Sweeney]] Among the Nightingales  
@@ -1025,7 +1030,7 @@ a macchiare il rigido sudario disonorato.
 
 
 
-<span class="atom-split" data-atom="046_marina" data-title="Marina" data-chapter="" data-kind="intro" data-tags="topos/the_sleeper_awakes,motif/the_sea,motif/water,motif/fog_and_smoke,motif/birds,motif/death,concept/grace_and_redemption,concept/wonder_and_gratitude,concept/memory_and_time,form/lyric,histref/classical_antiquity,setting/a_ship,setting/the_sea,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="046_marina" data-title="Marina" data-chapter="" data-kind="intro"></span>
 
 
 [[characters/marina|Marina]]  
@@ -1111,7 +1116,7 @@ mia figlia.
 
 
 
-<span class="atom-split" data-atom="052_eyes_that_last_i_saw_in_tears" data-title="Eyes that last I saw in tears" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/eyes_sight,motif/death,motif/dreams,concept/grief_and_loss,concept/memory_and_time,concept/melancholy,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="052_eyes_that_last_i_saw_in_tears" data-title="Eyes that last I saw in tears" data-chapter="" data-kind="intro"></span>
 
 
 Eyes that last I saw in [[motifs/tears|tears]]  
@@ -1153,7 +1158,7 @@ e ci tengono in derisione.
 
 
 
-<span class="atom-split" data-atom="056_lines_for_an_old_man" data-title="Lines for an Old Man" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/blood,motif/madness,concept/self_and_soul,concept/madness,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="056_lines_for_an_old_man" data-title="Lines for an Old Man" data-chapter="" data-kind="intro"></span>
 
 
 Lines for an Old Man  
@@ -1193,7 +1198,7 @@ Dimmi se non sono contento!
 
 
 
-<span class="atom-split" data-atom="076_to_the_indians_who_died_in_africa" data-title="To the Indians who Died in Africa" data-chapter="" data-kind="intro" data-tags="motif/death,motif/dust,concept/war_and_its_cost,concept/exile,concept/heroism,form/elegy,histref/the_first_world_war,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="076_to_the_indians_who_died_in_africa" data-title="To the Indians who Died in Africa" data-chapter="" data-kind="intro"></span>
 
 
 To the Indians who Died in Africa  
@@ -1255,7 +1260,7 @@ sappiamo, fino al giudizio dopo la [[motifs/death|morte]],
 
 
 
-<span class="atom-split" data-atom="113_spleen" data-title="Spleen" data-chapter="" data-kind="intro" data-tags="motif/the_city,concept/melancholy,concept/spiritual_emptiness,concept/alienation,concept/satire_of_society,concept/faith,form/lyric,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="113_spleen" data-title="Spleen" data-chapter="" data-kind="intro"></span>
 
 
 Spleen  
@@ -1299,7 +1304,7 @@ puntigliosa di cravatta e d’abito
 
 
 
-<span class="atom-split" data-atom="123_v_w_x" data-title="V, W, X" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/death,concept/spiritual_emptiness,concept/the_waste_land,cluster/alienation,cluster/outsider,cluster/exile"></span>
+<span class="atom-split" data-atom="123_v_w_x" data-title="V, W, X" data-chapter="" data-kind="intro"></span>
 
 
 We are the hollow men 1  

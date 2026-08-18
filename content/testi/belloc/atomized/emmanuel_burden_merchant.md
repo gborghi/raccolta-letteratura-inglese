@@ -119,7 +119,7 @@ ENDNOTES.
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XII
+# CAPITOLO XII
 
 Il frontespizio originale: Un ritratto schizzato di Emmanuel Burden, realizzato da [[characters/g.-k.-chesterton|G. K. Chesterton]].
 
@@ -179,11 +179,11 @@ Per il grande Dio che ci ama
 
 “Li ha creati tutti e li ama.”
 
-Coleridge
+# Coleridge
 
 O parole del genere.
 
-Chelsea, 1904
+# Chelsea, 1904
 
 Note finali.
 
@@ -231,7 +231,7 @@ As is so often mysteriously the case with even numerous families, the name of th
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO I
+# CAPITOLO I
 
 È sorprendente, e anche un po’ triste, constatare quanto poche persone conoscano il signor Burden, che è recentemente morto nella sua residenza di Avonmore, al numero 37 di Alexandrovna Road, a Upper Norwood. Per tutta la sua vita, egli è stato una figura la cui influenza, sebbene indiretta, è stata considerevole; un uomo certamente influente nella politica estera di questo paese, e che ha avuto un impatto ancora più profondo sulla sua struttura sociale.
 
@@ -369,7 +369,7 @@ Sarebbe ingiusto insistere su queste piccole incomodità. Il rispetto dovuto agl
 
 Occorre ben poco spazio per descrivere la vita che il signor Burden ha condotto dopo questa rivoluzione nelle sue fortune; infatti lo scopo di queste poche pagine è piuttosto quello di registrare l’impressione lasciata dalla sua recente scomparsa e di fornire qualche informazione sul suo carattere, piuttosto che descrivere in dettaglio la storia della sua vita.
 
-La signora Burden a quarantatré anni… da una miniatura
+#La signora Burden a quarantatré anni… da una miniatura
 
 I tre bambini, Ermyntrude, Cosmo e Gwynnys, furono educati secondo quelle eccellenti tradizioni che la famiglia aveva ereditato per ben tre generazioni di agi e rispettabilità; ma il signor Burden e sua moglie ritenevano giustamente che l’aumento costante della loro fortuna (che attribuivano naturalmente alla propria notevole capacità, ma che forse era dovuto più allo sviluppo dell’industria moderna) permettesse loro di avere delle legittime ambizioni per il futuro dei loro figli.
 
@@ -393,7 +393,7 @@ Dopo aver descritto così le sorti delle due figlie, è mio dovere indicare, anc
 
 Signora Burden
 
-Un'interpretazione di Miss M’Kee, da tempo governante nella famiglia
+#Un'interpretazione di Miss M’Kee, da tempo governante nella famiglia
 
 Cosmo non aveva mai goduto di una salute tale come quella delle sue sorelle. I primi mesi della sua vita erano stati compromessi dall’uso di un alimento artificiale inadatto alla nutrizione dei neonati, ma che veniva onestamente consigliato dal vecchio medico di famiglia, il quale aveva tale fiducia nelle sue virtù da trarne profitto attraverso la sua vendita. Uno degli effetti di questo alimento fu quello di far sì che il bambino crescesse molto più grande e pesante del dovuto per la sua età; questa caratteristica fisica gli rimase per tutta la vita. Tuttavia, tale alimentazione indebolì anche il suo cuore e compromise permanentemente la sua digestione. Per queste ragioni, da ragazzo sviluppò un temperamento nervoso e irritabile; i suoi genitori ritennero imprudente cercare di correggerlo. Dopo aver frequentato una eccellente scuola pubblica inglese, questi difetti scomparvero nel suo comportamento generale e si manifestavano soltanto occasionalmente nelle tensioni inevitabili che caratterizzano la vita domestica; all’estero, invece, furono sostituiti da una certa indolenza e indecisione nel modo di comportarsi, caratteristiche molto più gradevoli rispetto alla irritabilità che in precedenza causava tanta preoccupazione e dolore nella sua famiglia.
 
@@ -465,7 +465,7 @@ Coloro i cui interessi per il signor Burden sono stati sufficientemente forti da
 
 Perché il signor Harbury non solo conosceva Cosmo, ma aveva anche cercato di approfondire la sua conoscenza di lui; e tra tutte le persone che Cosmo conosceva, non c’era nessuno, forse tranne lui stesso, che non capisse quale onore e quale strumento prezioso potesse rappresentare una tale amicizia.
 
-COSMO BURDEN
+# COSMO BURDEN
 
 Dalla sola fotografia che riesce a rappresentare adeguatamente la tristezza contenuta, ma permanente, nei suoi tratti.
 
@@ -513,7 +513,7 @@ He recalled them as she spoke. He could find nothing in them to warrant so extra
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO II
+# CAPITOLO II
 
 È assolutamente impossibile attribuire una grande catastrofe a una sola causa. È persino difficile individuare il filo più importante tra quelli molti che contribuiscono a tessere un destino. Forse è proprio perché lo conoscevo così bene e sono stato così scioccato dalla sua recente morte, che trovo questa difficoltà particolarmente evidente nel caso del signor Burden.
 
@@ -683,7 +683,7 @@ Era una sua caratteristica nervosa, abbastanza comune nelle nostre università, 
 
 “Cosa beve, signor Capes?”, chiese Cosmo.
 
-Mr Capes
+# Mr Capes
 
 (Un studio statistico realizzato per i curatori di “[[settings/england|Inghilterra rurale]]”. Nessun altro ritratto fu possibile ottenere.)
 
@@ -773,7 +773,7 @@ Era un uomo silenzioso. Quella modestia che rappresenta il principale fascino de
 
 Uomini di questo stampo non possono fare a meno di influenzare in ogni modo il destino della nostra Razza; la natura delle loro attività non è facile da definire, ma è evidente e benefica. Il suo potere certamente non derivava semplicemente dalla ricchezza – anzi, la fortuna del signor Harbury, proveniente da una rispettabile famiglia clericale levantina, non poteva superare le centocinquantamila sterline – ma dal suo piacevole ambiente domestico, situato a breve distanza dall’Università, egli esercitava un’influenza positiva attraverso venti diversi ambiti della vita imperiale.
 
-Signor Harbury
+# Signor Harbury
 
 Gli organi di stampa più seri, dal “Times” a “M.M.M.” (Money Makes Money), lo consideravano un esperto in questioni imperiali; lasciava [[settings/england|Inghilterra]] circa tre volte all’anno per l’Africa o il Vicino Oriente; aveva tenuto lezioni sulla fauna di Socotra; era amico e, in un certo senso, collegamento tra quei diversissimi tipi di amministratori, soldati e finanziatori che insieme contribuivano a costruire qualcosa che il mondo non aveva più visto da quando Roma era caduta. Due uomini che avrebbero potuto sospettarsi o disprezzarsi a vicenda – ad esempio, un ufficiale generale piuttosto rigido ma onesto e uno speculatore brillante e audace – erano entrambi amici di Mr Harbury. Quest’ultimo sapeva come sfruttare al meglio le qualità di ciascuno per il bene comune di [[settings/england|Inghilterra]]. Lord Hayshott, un uomo che per natura disprezzava il mondo finanziario; Sir Jules Barraud, del Canadian Copper Syndicate e dell’Anglo-French Quick-silver Group; Henry Borsan di Leeds; Mrs Warberton, che forse aveva più influenza in Africa Orientale Britannica di qualsiasi altra donna bianca, tutti erano in debito con lui per i suoi servizi e la sua amicizia. Ancora più significativo è il fatto che fu proprio Mr Harbury a far notare a Mr Barnett tutto ciò che l’Università rappresentava per l’Impero; come, attraverso l’Università, l’Impero potesse essere meglio preparato alle sue imprese future. E credo – nessuno può provarlo – che sia stata proprio l’idea delle borse di studio commerciali ideata da Mr Harbury, e non da Mr Barnett. Se in quel momento Mr Barnett era ospite del rettore dell’Università di Barnabas, fu Mr Harbury ad avergli presentato quel nuovo mondo.
 
@@ -893,7 +893,7 @@ Il signor Harbury voleva ridere, ma aveva un'espressione seria. “Quanto costa,
 
 “Ah… Non importa, purché sia fuori portata, comunque.”
 
-Mr Harbury fu deciso
+# Mr Harbury fu deciso
 
 “Non ha mai senso menzionare la parola ‘denaro’ se non si parlano di somme precise,” disse. Il signor Harbury sapeva bene di cosa stava parlando, e l’esitazione di Cosmo iniziò a svanire: esitò per un momento, mentre il signor Harbury rimase immobile, proprio come fanno i pescatori sopra acque scure e lisce al tramonto.
 
@@ -1127,7 +1127,7 @@ After Basingstoke’s great effort, several travellers appeared in succession in
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO III
+# CAPITOLO III
 
 Il delta del M’Korio si trova, come suggerisce il suo nome, alla foce del fiume M’Korio.
 
@@ -1151,11 +1151,11 @@ Molti di noi possono ancora ricordare il suo arrivo in Europa, la sua supplica a
 
 La fine di questo grande uomo è meno conosciuta. Anni dopo, quando sfortunate speculazioni avevano dissipato la sua considerevole fortuna, tornò a Gambetta, ma vi tornò soltanto per morire. La sua vita era stata sprecata. I preziosi giacimenti di petrolio su cui aveva riposto tutte le sue speranze erano ormai in mano a una compagnia straniera. Il suo cuore si spezzò. È sepolto in un campo appena fuori dai confini di Gambetta, sotto un bellissimo monumento con l’iscrizione semplice:
 
-C. M. Basingstoke
+# C. M. Basingstoke
 
 Nato a Beatrice, N.S.W., il 6 luglio 1841
 
-Educato al Mason’s Orphans’ College di Clapham
+# Educato al Mason’s Orphans’ College di Clapham
 
 Morì il 6 gennaio 1895.
 
@@ -1409,7 +1409,7 @@ O giocare il ruolo del più meschino…
 
 Ma quel piccolo seme di una buona azione…
 
-Non dire mai…
+# Non dire mai…
 
 Non ricordo nulla oltre all’ultima parola: “cuore”.
 
@@ -1453,7 +1453,7 @@ Mr Burden’s dissociation from the underlying philosophy of his time went deepe
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO IV
+# CAPITOLO IV
 
 In ogni tragedia legata all’età avanzata, emerge quel rafforzamento delle caratteristiche personali che rappresenta la maledizione dell’invecchiamento.
 
@@ -1627,7 +1627,7 @@ ENDNOTES.
 
 Il signor Powler era stato tra i primi a riconoscere i vantaggi di invertire la nostra politica fiscale. Già nel 1898, subito dopo aver conseguito la laurea, aveva scritto un argomento persuasivo a favore della protezione doganale, che gli valse il titolo di Fellow. Era povero, e tutto il potenziale del suo genio avrebbe potuto andare sprecato per molti anni se il signor Barnett non lo avesse nominato redattore di “The Review”, poco prima dello scoppio della guerra in Sudafrica. Nessuno ignora l’effetto di quella nomina.
 
-Il redattore di “Il Dotttrinario”
+# Il redattore di “Il Dotttrinario”
 
 (Mentre sembrava impegnato a leggere il suo articolo – “Le cause del nostro successo in Sudafrica” – davanti alla Royal Society)
 
@@ -1697,7 +1697,7 @@ Nay more, Lord Benthorpe himself, as Cosmo discovered with astonishment and plea
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO V
+# CAPITOLO V
 
 Nei primi mesi dopo il suo successo negli esami universitari, Cosmo condusse una vita che avrebbe dovuto rappresentare un’adeguata introduzione alla posizione che suo padre aveva riservato per lui.
 
@@ -1939,7 +1939,7 @@ Morì nel febbraio del 1887, all’età di soli quarantuno anni, tre mesi e due 
 
 La sua fine, sebbene offuscata dai più gravi disturbi nervosi, fu consolata e illuminata dalla presenza di due persone di cui sarebbe ignobile non menzionarle nemmeno brevemente in questo resoconto: il signor Warner, lo studioso amabile a cui (in qualità di suo ex tutore) Lord Benthorpe aveva concesso l’usufrutto della tenuta di Great Monckton, proprio alle porte del parco; e sua moglie, la signora Warner, la cui meravigliosa piccola opera, “Ore di guarigione”, aiutò lo spirito dell’ultima contessa morente a lasciare questa terra per il cielo.
 
-Lord Benthorpe: il salvatore dell’Impero
+#Lord Benthorpe: il salvatore dell’Impero
 
 Si è osservato che la difficoltà nel pronunciare correttamente le sillabe aspirate presenti nel titolo di quest'opera spirituale rivelava la mancanza di esperienza di chi l'aveva scritto nell'arte della scrittura. Non sono in grado di giudicare questa critica; tuttavia, se è fondata, posso almeno sottolineare la meraviglia di una fede capace di compensare qualsiasi ignoranza riguardo alla semplice tecnica di composizione, e di conferire a un testo scritto da uno sperimentato letterato una qualità così elevata.
 
@@ -2021,7 +2021,7 @@ It was late in the evening at Avonmore: the fire lit in fitful glimpses the eigh
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VI
+# CAPITOLO VI
 
 COSMO conosceva troppo bene il carattere di suo padre; inoltre, essendo un figlio estremamente devoto, non avrebbe mai osato sorprendere il signor Burden sollevando argomenti su cui si poteva presumere che il mercante avesse una conoscenza molto più approfondita della sua.
 
@@ -2437,7 +2437,7 @@ Per non sembrare troppo insistente su qualcosa che, dopotutto, non era altro che
 
 Per quanto riguarda il budino, non ho alcun ricordo al riguardo; inoltre, non c’è molta occasione di menzionare il formaggio.
 
-La figura in ritirata della signora Warner
+# La figura in ritirata della signora Warner
 
 Tuttavia, non devo tralasciare di lodare il gesto con cui Lord Benthorpe aprì la porta, né quello con cui Mrs Warner lo ricompensò mentre entrava nel salotto alle sue spalle. Mentre lei usciva dalla stanza, Mr Burden, osservando la sua figura che si allontanava, non poté fare a meno di ammirare la semplice grazia, l’assoluta assenza di affettazione e, al contempo, la meravigliosa dignità del suo portamento. Quell’impressione fu ulteriormente rafforzata non solo dall’errore che aveva inizialmente commesso riguardo al suo rango sociale, ma anche dal caratteristico abito che indossava: di un brillante verde elettrico, simile a quello che illumina le ali di certi coleotteri tropicali.
 
@@ -2451,7 +2451,7 @@ Fu alle prime ore di mezzanotte che la signora Warner li lasciò; il signor Burd
 
 Espose con grande sincerità i suoi dubbi e le sue speranze riguardo al futuro del suo commercio in Africa; disse apertamente a Lord Benthorpe quanto fossero di gran lunga superiori le opportunità di un politico rispetto a quelle di un mercante nel determinare il probabile futuro di una regione come il M’Korio, e chiese consiglio nei termini più chiari possibili.
 
-Il ruolo fondamentale degli uomini d’affari per l’impero di Lord Benthorpe
+#Il ruolo fondamentale degli uomini d’affari per l’impero di Lord Benthorpe
 
 La risposta di Lord Benthorpe lo sorprese così tanto che all’inizio non ne comprese l’enorme importanza. In sostanza, Lord Benthorpe stesso da tempo cercava una fonte simile di informazioni e, stranamente, aveva deciso di rivolgersi a Mr Burden.
 
@@ -2515,7 +2515,7 @@ Such was Mr Barnett during these rare flashes which his friends already knew, an
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VII
+# CAPITOLO VII
 
 L’origine e l’educazione di Lord Benthorpe, di cui i miei lettori hanno già ricevuto notizie, gli impedivano di agire con fretta nelle sue ulteriori trattative con il signor Burden. La sua lunga esperienza amministrativa in Oriente, di cui questi documenti hanno già reso familiare la razza anglo-sassone, gli impediva altresì di lasciare i suoi soci e amici all’oscuro delle opinioni del signor Burden per troppo tempo. Scrisse immediatamente al signor Barnett dopo la partenza di quest’ultimo da Placton, e fu molto soddisfatto di scoprire, nella risposta ricevuta, che il “Costruttore dell’Impero” non era così immerso nei suoi sogni da dimenticare che un certo ritardo nelle questioni finanziarie rappresenta una caratteristica tipica delle persone di buona famiglia. Infatti, il signor Barnett suggerì che trascorressero alcune settimane prima di riprendere l’argomento.
 
@@ -2865,7 +2865,7 @@ Lo disse con quella determinazione e semplicità tipiche di uomini del suo gener
 
 Poi, come fanno coloro che sono più saggi dei loro compagni nel campo di discussione che stanno affrontando, aggiunse un esempio improvviso.
 
-“Ricordi il prestito per l’irrigazione del Tibet?”
+# “Ricordi il prestito per l’irrigazione del Tibet?”
 
 Lord Benthorpe lo guardò e annuì, più per cortesia che per altro motivo, perché in realtà non ne aveva mai sentito parlare.
 
@@ -2885,7 +2885,7 @@ Lord Benthorpe era quasi agitato.
 
 “Non si può fare affari in quel modo”, e poi li chiuse di nuovo.
 
-Il signor Burden pensò di parlare, e lo fece, mescolando buon senso e rispetto per se stesso:
+# Il signor Burden pensò di parlare, e lo fece, mescolando buon senso e rispetto per se stesso:
 
 “Sarò felice di attenermi a qualsiasi decisione prendiate voi signori. Ero certamente preparato, ora o in futuro, ad accettare una somma molto più alta. Ma naturalmente mi atterrò alla prudenza di Lord Benthorpe; e al giudizio di tutti voi, signori, al giudizio di tutti voi.”
 
@@ -2945,7 +2945,7 @@ Lord Benthorpe raccontò, con un po’ troppa prolissità, una storia riguardant
 
 Per quasi un'ora il loro discorso si concentrò su quelle cose che rendono felice una razza conquistatrice; e se ho descritto con tanta lunghezza e dettaglio la scena del loro primo incontro, è solo per il desiderio che ogni membro di questa razza, che possa leggere queste pagine, sappia in quale atmosfera vennero prese le decisioni cruciali della loro storia.
 
-Il signor Burden si offre di pagare qualsiasi somma sia necessaria
+# Il signor Burden si offre di pagare qualsiasi somma sia necessaria
 
 L’interesse dei presenti diminuì. Lord Benthorpe aveva ripetuto la stessa frase due o tre volte; il signor Harbury non aveva parlato per quasi otto minuti, quando finalmente il signor Barnett concluse quella fase della discussione. Si alzò con l’aria di un uomo colmo di energia creativa, uno che aveva portato a termine un compito lungo e finalmente riuscito; il signor Harbury si alzò invece come un atleta pronto ad affrontare nuove sfide, eretto e flessibile. Lord Benthorpe si alzò, come fanno i politici, con aria stanca e muovendosi a scaglioni del corpo; il signor Burden, invece, si alzò come fanno i commercianti, con un po’ di trambusto: si strofinò le mani e di tanto in tanto tirò su il cappotto.
 
@@ -3009,7 +3009,7 @@ A further proof of Mr Barnett’s self-abnegation, and of the absence of all fin
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VIII
+# CAPITOLO VIII
 
 Il reverendo Charles Gapworthy, B.A., un tempo membro e cappellano dell’ostello St Lazarus Hys Hostel a Bermondsey, nel Sudest di Londra, ci dice nel suo libro “Economia Politica per le Scuole” (capitolo ii, “Capitale”, p. 28) che “la forza economica risiede, in ultima analisi, non nell’accumulo materiale, ma in una certa capacità di previsione audace da parte dell’intelligenza umana”. Questa verità rappresenta soltanto un altro esempio del potere che risiede in ciò che, nel nostro paese, chiamiamo “la virtù cristiana della Speranza”.
 
@@ -3033,7 +3033,7 @@ Per una felice coincidenza, sembrava che stessa la forza delle cose agisse a suo
 
 Gli uomini influenzati dal signor Barnett in nessun modo; quelli che non lo avevano mai incontrato furono conquistati dalla fiamma del suo genio.
 
-Il cannone a cono sferra il suo attacco cavalleresco sull’incarnazione
+#Il cannone a cono sferra il suo attacco cavalleresco sull’incarnazione
 
 (Un ritratto realizzato dal giornalista di “Christendom”, che lo ha chiamato “Il cannone a cono all’azione”).
 
@@ -3099,7 +3099,7 @@ One thing had given Mr Barnett real hope; and that was Mr Burden’s attitude to
 
 Il successo del villaggio M’Korio all’Earl’s Court, anche se proveniente da ambienti plebei, rappresentava comunque un vero indicatore dei sentimenti popolari. Il luogo era sempre affollato durante tutta la stagione; il capo del villaggio, un magnifico Basuto di nome Issachar, riceveva una pensione da parte di un entusiasta ammiratore che preferiva rimanere anonimo.
 
-Dottor Mohl
+# Dottor Mohl
 
 Dalla pittura a olio presentata all’Università di Dorpott da Sua Maestà Guglielmo II, Imperatore e Re.
 
@@ -3363,7 +3363,7 @@ Naturale come fosse per un uomo del genere esitare su un argomento del genere, i
 
 Il signor Abbott rispose che il signor Burden poteva “chiedere tutto quello che voleva”, e aggiunse, con una disinvolta allegria: “Qualunque cosa tu intenda fare, segui il mio consiglio, e non farla”. Rise fragorosamente, come è abitudine di queste persone, per la propria battuta spiritosa; si soffiò il naso con un rumore sonoro, tirò fuori una pipa, la riempì con del tabacco nero davvero sorprendente, l’accese e disse:
 
-"Dai fuori tutto, ragazzo mio… Liberatela!"
+#"Dai fuori tutto, ragazzo mio… Liberatela!"
 
 Era passato un po' di tempo da quando il signor Burden aveva subito un simile approccio; e non si può negare che fosse piuttosto infastidito. Forse lo mostrò nel tono della sua voce. Comunque, disse abbastanza rapidamente:
 
@@ -3487,7 +3487,7 @@ When he had done this, Mr Barnett said, with increasing wakefulness, and a kind 
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO IX
+# CAPITOLO IX
 
 Il signor Barnett non si alzò.
 
@@ -3525,7 +3525,7 @@ La parte più giovane e attiva della mente di Cosmo, sebbene meno sviluppata, ve
 
 “Padre,” disse Cosmo rapidamente, “sapete quanto siano pochi gli uomini a [[settings/london|Londra]] che conoscano davvero un argomento a fondo; il signor Abbott conosce davvero bene la materia del Delta. Questo è il punto principale. Ma non sono sicuro che il signor Barnett capisca completamente, ”
 
-Mr Barnett, perfettamente a casa sua
+# Mr Barnett, perfettamente a casa sua
 
 Il signor Barnett sorrise e borbottò qualcosa; lo stava seguendo, ma in modo poco chiaro.
 
@@ -3661,7 +3661,7 @@ Gli uffici nuovi si trovavano in Broad Street. La loro posizione l’ho descritt
 
 Il portiere della società immobiliare M’Korio’s Delta Development Co.
 
-Un gruppo di persone
+#Un gruppo di persone
 
 Quest'uomo era un protestante svedese; alto esattamente sei piedi e sette pollici, aveva i capelli di colore biancastro, gli occhi di un blu sbiadito, il viso pallido e giallastro. Per quanto riguarda l'intelligenza, sebbene non fosse scarseggiante, la sua riflessione era tale da adattarsi perfettamente alle caratteristiche del suo lavoro; inoltre, nemmeno le lunghe ore trascorse sotto lo sguardo del pubblico all’ingresso principale riuscivano a stancare la fermezza della sua mente. Orgoglioso della propria uniforme, soddisfatto dello stipendio, con modi e dimensioni imponenti, rappresentava una ulteriore e definitiva dimostrazione dell’intuizione di Mr Barnett riguardo a quegli elementi che contribuiscono al successo delle energie di una nazione imperiale.
 
@@ -3871,7 +3871,7 @@ On the 19th the allotment was declared. On the morning of the 21st, though no sa
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO X
+# CAPITOLO X
 
 Esiste un mandato che incarica le nazioni elette di governare sulla terra in qualità di viceré della Divinità. Questo mandato è stato trasmesso a popoli così separati dal punto di vista del tempo e delle usanze da rendere difficile percepire la loro unità essenziale; tuttavia, tale unità esiste davvero. Il processo attraverso il quale si raggiunge il dominio viene chiamato con nomi diversi: sono i nomi, e non gli eventi stessi, a ingannarci; sono soltanto i nomi a creare un’illusoria sensazione di cambiamento. Inizialmente, forse, si trattava di una vaga lealtà verso la tribù, delle incursioni e degli insediamenti; successivamente, è emerso l’intenso amore per una [[motifs/city|città]] e i suoi dèi, la difesa vittoriosa, l’espansione, la conquista e l’organizzazione di territori al di là dei confini. Karl Unterwassen inverte quest’ordine; si tratta comunque di un dettaglio di scarsa importanza.
 
@@ -4135,7 +4135,7 @@ Era la sua teoria – una teoria che fino ad allora lo aveva guidato in questo s
 
 “E poi, la banda ha iniziato a suonare!!” (ogni aggettivo veniva cambiato). “Oh Signore, ” (battendo sul tavolo), “se solo non fossi suo figlio! E se solo non ti conoscessi da quando eri ancora quel piccolo, piagnucoloso ragazzino. Ti scaglierei fuori da questa finestra; lo farei davvero! Da questa piccola finestra laterale. Questa sporca, piccola finestra laterale. Comunque sia, non farò altro che buttarti giù dalle scale!”
 
-E poi la banda ha suonato
+# E poi la banda ha suonato
 
 Verso la fine di questo straordinario discorso, la voce del signor Abbott – potente per volume, sonora e profonda come il tuono, minacciosa in ogni suo suono – scuoteva le pareti della vecchia stanza; nei nuovi uffici lussuosi, i impiegati si ritraevano spaventati, anche se non erano nuovi a simili scene.
 
@@ -4193,7 +4193,7 @@ When an agreement had thus been reached, they all three re-entered the room. Cos
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XI
+# CAPITOLO XI
 
 Non stava affatto bene al signor Burden. Gli uomini inglesi forti, anche in età avanzata, non soffrono fisicamente a causa di semplici turbamenti mentali. Si trattava puramente di una coincidenza: i suoi sciocchi dubbi si erano mescolati con qualche problema fisico più serio. Ma, qualunque ne fosse la causa, in quei giorni caldi che seguirono la visita segreta di Cosmo nell’ufficio di Abbott, non stava affatto bene al signor Burden.
 
@@ -4687,7 +4687,7 @@ Mr Burden, with a troubled look, and with eyebrows drawn together and upwards, l
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XII
+# CAPITOLO XII
 
 Il signor Burden stava al bancone, dove piccoli listelli di bronzo lucido si riflettevano nel legno levigato. Aspettava un'obbedienza immediata; ma il suo aspetto in quel momento non faceva certo intuire la sua ricchezza o il suo rango sociale.
 
@@ -4695,7 +4695,7 @@ Il signor Burden stava in piedi al bancone, appoggiandoci entrambe le mani, in a
 
 “Mr Burden gli disse…”
 
-Voglio vedere il signor Abbott.
+# Voglio vedere il signor Abbott.
 
 Con estrema negligenza, il giovane impiegato spinse oltre il bancone un modulo su cui era stampato: —
 
@@ -4813,7 +4813,7 @@ Then Mr Burden, power bubbling up within him in spite of his age, in spite of hi
 
 <span class="qlang-split" data-lang="it"></span>
 
-Girò lentamente la testa; si mosse nervosamente sui piedi, e poi ricominciò…
+# Girò lentamente la testa; si mosse nervosamente sui piedi, e poi ricominciò…
 
 “Signori. Ho riflettuto. Ci sono alcune questioni. Non ne parlo spesso, ma ci sono comunque delle cose che potrebbero essere risolte senza danneggiarci né nessun altro. E naturalmente comprendo appieno la situazione.” Tentò di sorridere, ma non ci riuscì. “Sono un uomo di mondo, signori; capisco perfettamente la situazione. So che potrebbe trattarsi di un piccolo sacrificio. Penso che tutti voi saranno d’accordo con me nel ritenere che questa questione debba essere risolta.”
 
@@ -4943,9 +4943,9 @@ Il signor Harbury, il cui giudizio in queste questioni ho sempre fiducia, e che 
 
 Forse sentiva davvero la presenza di una folla: le forze schierate di questo nuovo mondo che si riversavano contro di lui; parlava come se stesse rivolgendosi a molte persone.
 
-Il signor Burden nel suo ultimo e sfortunato accesso di passione
+# Il signor Burden nel suo ultimo e sfortunato accesso di passione
 
-Da uno schizzo gentilmente fornito dal signor Harbury
+#Da uno schizzo gentilmente fornito dal signor Harbury
 
 “Posso distruggerlo! Posso distruggere te, i tuoi preziosi azionisti, e il Duca, e tutto quanto! Posso spiegare perché l’ho fatto! Eh? Oh, mio Dio! E lo pubblicherò io stesso. Se non lo pubblicano sui vostri maledetti giornali, lo affigerò ovunque; coprirò tutta la città con esso; farò apparire i vostri nomi in evidenza, tutti quanti i vostri nomi: quelli che nascondete, e quelli che avete avuto e poi perso, truffatori, ladri, spazzatura!”
 
@@ -5111,11 +5111,11 @@ Il signor Burden aprì gli occhi: sapeva di essere sveglio; vedeva chiaramente i
 
 La solitudine lo colpì all'improvviso, sopraffacendolo; onda dopo onda di vastità crescente, i confini si allontanavano sempre di più, diventando infinitamente lontani con ogni battito più debole delle tempie. Poi calò il buio. E l’Infinito in cui sprofondò era pieno di quell’antico Terrore che non ha nome tra gli uomini viventi: perché era arrivato il momento del suo passaggio.
 
-Sanctus Fortis, Sanctus Deus
+# Sanctus Fortis, Sanctus Deus
 
 Dai abissi dell’oscurità ti offro l’oro.
 
-Miserere, Judex Meus
+# Miserere, Judex Meus
 
 
 

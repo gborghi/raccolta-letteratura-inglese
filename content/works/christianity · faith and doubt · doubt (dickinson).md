@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mr. Theodore Holland, 1885](/testi/dickinson/atomized/christianity-faith-and-doubt-doubt#l0511_mr_theodore_holland_1885)
+- [To Mr. Theodore Holland, 1885](/testi/dickinson/atomized/christianity-faith-and-doubt-doubt--letters#theodore_holland_1885)
 

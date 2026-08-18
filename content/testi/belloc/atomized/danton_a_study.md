@@ -103,25 +103,25 @@ CAPITOLO VIII. [[characters/robespierre|ROBESPIERRE]]
 
 Appendice
 
-Note sui cordaiere
+# Note sui cordaiere
 
-II. Note su alcune località menzionate in questo libro
+# II. Note su alcune località menzionate in questo libro
 
 III. Note sulla presunta corruzione di Danton
 
 IV. Note sulla responsabilità di Danton per i massacri di settembre
 
-V. Brevi memorie di A. R. C. de St. Albin
+# V. Brevi memorie di A. R. C. de St. Albin
 
 VI. Estratti da documenti
 
 VII. Estratti da documenti
 
-VIII. Catalogo della biblioteca di Danton
+# VIII. Catalogo della biblioteca di Danton
 
-Estratti dal memoriale scritto nel 1846 dai figli di Danton
+# Estratti dal memoriale scritto nel 1846 dai figli di Danton
 
-Appunti di Topino-Lebrun, giurato del tribunale rivoluzionario
+# Appunti di Topino-Lebrun, giurato del tribunale rivoluzionario
 
 XI. RAPPORTO DEL PRIMO COMITATO PER LA SECURITÀ Pubblica SULLA Condizione Generale della Repubblica, letto da Barrère alla Convenzione mercoledì 29 maggio 1793
 
@@ -129,7 +129,7 @@ Note finali.
 
 TO
 
-Anthony Henley
+# Anthony Henley
 
 Prefazione
 
@@ -251,7 +251,7 @@ It is this which necessitates and moulds the Revolution. The privileged men, the
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO I. LA RIVOLUZIONE
+# CAPITOLO I. LA RIVOLUZIONE
 
 Prima di scrivere la biografia di Danton in inglese, è necessario fare tre cose: innanzitutto, assumere una posizione chiara riguardo all’intero movimento rivoluzionario; in secondo luogo, spiegare, nella misura del possibile, la forma che esso ha assunto in [[settings/france|Francia]]; infine, mostrare quale fosse il ruolo di Danton nell’evolversi degli eventi, la natura della sua personalità e gli effetti delle sue brevi azioni. Questo triplo compito è indispensabile per un libro che, altrimenti, sarebbe soltanto una serie di eventi confusi e spesso privi di significato.
 
@@ -789,7 +789,7 @@ As to fortune, we do not accurately know the amount of the family income during 
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO II. LA GIOVANNEZZA DI DANTON
+# CAPITOLO II. LA GIOVANNEZZA DI DANTON
 
 Nel prossimo capitolo cercherò di raccontare tutto ciò che si conosce sui primi trent’anni della vita di Danton. Le nostre conoscenze su questo periodo della sua carriera sono estremamente scarse. Si basano su ricerche approfondite, ma condotte soltanto nella seconda metà di questo secolo; e temo che i pochi materiali disponibili non verranno mai significativamente integrati. Ogni anno rende il compito sempre più difficile, e un secolo intero ha reso insuperabile il divario che Michelet, Bougeart e persino il dottor Robinet sono riusciti a colmare grazie alle testimonianze di persone ancora vive.
 
@@ -1037,7 +1037,7 @@ There is one matter in these pre-revolutionary months which is of no very great 
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO III. DANTON ALLA GILDA DEI MACELLAI
+# CAPITOLO III. DANTON ALLA GILDA DEI MACELLAI
 
 Un uomo che è destinato in qualsiasi momento a rappresentare le principali energie di una nazione, soprattutto un uomo che non solo le rappresenterà ma le guiderà, deve, per sua natura, seguire i metodi nazionali nel suo cammino verso il potere.
 
@@ -1593,7 +1593,7 @@ Let me recapitulate and define the problem which, as it seems to me, can be solv
 
 <span class="qlang-split" data-lang="it"></span>
 
-Capitolo IV: La caduta della monarchia
+# Capitolo IV: La caduta della monarchia
 
 Ho considerato il cambiamento amministrativo avvenuto nell’estate del 1790 come un punto di svolta nella carriera di Danton: quell’evento segnò la conclusione del primo capitolo della sua attività politica e l’inizio di una nuova fase. Lasciate che vi spieghi i motivi per cui ho deciso di effettuare questa divisione in momenti in cui non ci sono stati episodi significativi legati a conflitti armati, decisioni politiche o dibattiti pubblici.
 
@@ -1915,9 +1915,9 @@ Danton entrò a far parte di questa società proprio nel momento in cui questi c
 
 "Monsieur Danton,"
 
-Lasciate perdere quell’aspetto minaccioso…
+# Lasciate perdere quell’aspetto minaccioso…
 
-Monsieur Danton
+# Monsieur Danton
 
 “Vi prenderanno per dei demoni.”85
 
@@ -2317,7 +2317,7 @@ Danton went to Arcis and settled an income on his mother in case of his death, c
 
 “Rilasciato presso la nostra sede di Coblentz, il 28 luglio.”
 
-Charles William Ferdinand
+# Charles William Ferdinand
 
 “Duca di Brunswick-Lüneburg”.
 
@@ -2391,7 +2391,7 @@ The second division stretches from the meeting of the Convention to the death of
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO V. LA REPUBBLICA – 10 agosto 1792 – 5 aprile 1793
+# CAPITOLO V. LA REPUBBLICA – 10 agosto 1792 – 5 aprile 1793
 
 Il 10 agosto non rappresenta, nella storia della Rivoluzione, semplicemente un punto di svolta o un nuovo inizio; è piuttosto un cataclisma, il cui prima e dopo sono completamente diversi. Si può paragonarlo alla furia dell’Atlantico, che “in una terribile giornata e notte” spazzò via l’antica civiltà, come descritto nelle leggende. È come uno di quei “fossati” geologici che formano le grandi scarpate interne; leggerne o scriverne è come trovarsi sul bordo dell’Auvergne. Avete appena attraversato un altopiano vulcanico, che si eleva lentamente e diventa sempre più desolato: vi trovate ora a guardare giù, da migliaia di piedi di altezza, sulla vasta pianura della Limagne.
 
@@ -2845,7 +2845,7 @@ All government since that time in France has been its heir. It was the Committee
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VI. IL TERRORE
+# CAPITOLO VI. IL TERRORE
 
 Dal 6 aprile 1793, a partire dall’atto descritto alla fine del capitolo precedente, abbiamo qualcosa di nuovo nel corso della Rivoluzione: finalmente è stata istituita un’organizzazione concreta.
 
@@ -3231,7 +3231,7 @@ In the morning of the 12th Germinal the Convention met, and each man looked at h
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VII. LA MORTE DI DANTON
+# CAPITOLO VII. LA MORTE DI DANTON
 
 Di notte, la polizia armata si recò in Place du Commerce; una parte della pattuglia posizionò i suoi fucili alle uscite della strada, mentre l’altra entrò nell’edificio.
 
@@ -3435,7 +3435,7 @@ Secondo le prove fornite da un curioso reperto, sappiamo che il Comitato temeva 
 
 D'altra parte…
 
-"Ottenere le firme di quattro persone su questo documento."
+#"Ottenere le firme di quattro persone su questo documento."
 
 Finalmente, il memorandum viene firmato anche da un’altra persona…
 
@@ -3689,9 +3689,9 @@ Fabre, che aveva ben compreso quanto questa complessità fosse onnipresente – 
 
 "#Quando Danton, Desmoulins e D’Eglantine..."
 
-Portati nel mondo senza essere visti
+# Portati nel mondo senza essere visti
 
-Charon, quel cittadino equo e giusto
+# Charon, quel cittadino equo e giusto
 
 Diedero il resto del denaro a questi distinti signori.
 
@@ -4261,7 +4261,7 @@ Ma non c'era alcuna voce, nessun ordine. Il terribile rumore dei passi della Gua
 
 Appendice
 
-Note sui cordaiere
+# Note sui cordaiere
 
 Il luogo un tempo occupato dai Cordelieri è tra i più interessanti di [[settings/paris|Parigi]], e è importante descrivere la sua storia e ricostruire il suo aspetto in modo più dettagliato di quanto sia stato possibile fare nel testo.
 
@@ -4369,7 +4369,7 @@ As to the furniture of the little apartment, it may be described as follows: —
 
 Infine, per vedere l’edificio così come lo vedeva Danton, bisogna immaginare un luogo semi-deserto, ricco ma poco frequentato, simile a certi vecchi ostelli legali che un tempo sorgevano a Londra: vecchi muri che spuntavano qua e là tra case costruite un secolo prima; un insieme disordinato di edifici, giardini e abitazioni private, irrimediabilmente mescolati tra loro; mentre in un corridoio stretto e buio si trovava l’Aula, che rappresentava ancora la parte meglio conservata dell’università, e con la quale soltanto il nome di Danton è associato.
 
-II. Note su alcune località menzionate in questo libro
+# II. Note su alcune località menzionate in questo libro
 
 Potrebbe essere interessante, per coloro che desiderano studiare in modo approfondito la storia personale di Danton, sapere dove si trovino a Parigi, nell’epoca moderna, i luoghi con cui egli è stato personalmente legato, come menzionati in questo libro.
 
@@ -4671,7 +4671,7 @@ Di gran lunga il più importante tra i documenti qui stampati è l’ultimo: il 
 
 Ad ogni documento è stato allegato un breve prefazione al fine di spiegarne l’origine e di menzionare le fonti (se esistono) in cui esso può essere trovato.
 
-V. Brevi memorie di A. R. C. de St. Albin
+# V. Brevi memorie di A. R. C. de St. Albin
 
 Questo memoir fu pubblicato per la prima volta come articolo su “Critique Française” il 15 marzo 1864. Fu lo stesso autore a farlo uscire in quella forma; e, sebbene appaia settant’anni dopo la morte di Danton, non è affatto privo di importanza. De St. Albin, meglio conosciuto con il suo nome di battesimo Rousselin, ebbe alcuni contatti personali con Danton (sebbene all’epoca fosse solo un ragazzo) e visse fino a un’età avanzata. Inoltre, mantenne rapporti con la famiglia di Danton anche dopo il periodo rivoluzionario. Queste circostanze rendono la sua testimonianza decisiva su tutti gli argomenti non controversi e particolarmente preziosa su molti altri.
 
@@ -4977,7 +4977,7 @@ Vengono mostrati il prezzo pagato per la proprietà di Danton presso i Consigli 
 
 I tre documenti da cui cito di seguito sono di estrema importanza per uno studio approfondito su Danton, poiché forniscono la maggior parte delle informazioni riguardanti il ruolo che svolgeva nei Consigli del Re e ci permettono di comprendere la sua situazione finanziaria nei primi anni della Rivoluzione.
 
-Tre in numero…
+# Tre in numero…
 
 (a) L’atto di vendita con il quale Danton acquisì la carica da Monsieur Huet de Paisy. Questo atto fu scoperto dal dottor Robinet (da cui ho tratto tutti i documenti citati nel suo “Vie Privée de Danton”) negli uffici di un avvocato parigino, Monsieur Faiseau-Jaranne della Rue Vivienne. Questo signore era il diretto successore, nell’esercizio della sua professione, di Monsieur Dosfant che aveva redatto l’atto settant’anni prima.
 
@@ -5369,11 +5369,11 @@ In una piccola stanza che si affaccia su un cortile interno (evidentemente utili
 
 160
 
-In una piccola stanzetta… Tre valigie vuote e un letto
+# In una piccola stanzetta… Tre valigie vuote e un letto
 
 16
 
-In due piccole stanze adiacenti: arredi (per lo più riposti)
+# In due piccole stanze adiacenti: arredi (per lo più riposti)
 
 214
 
@@ -5387,11 +5387,11 @@ Abbigliamento, ogni singolo articolo incluso
 
 925
 
-Placca con diverse regali di nozze, contrassegnati dalle iniziali
+# Placca con diverse regali di nozze, contrassegnati dalle iniziali
 
 291
 
-Coltelli e forchette, tranne che il piatto
+# Coltelli e forchette, tranne che il piatto
 
 20
 
@@ -6509,7 +6509,7 @@ It is not a precise historical document, such as are the official reports, recei
 
 <span class="qlang-split" data-lang="it"></span>
 
-Estratti dal memoriale scritto nel 1846 dai figli di Danton
+# Estratti dal memoriale scritto nel 1846 dai figli di Danton
 
 Questo memoir fu scritto dai figli di Danton. Entrambi lo sopravvissero: il primo per cinquantacinque anni, l’altro per sessantaquattro (1849, 1858). La loro fortuna fu restituita loro dalla Repubblica due anni dopo la morte del padre (13 aprile 1796). Il loro tutore, Charpentier (il nonno materno), morì nel 1804; in seguito furono accolti dalla madre di Danton, Madame Recordain, che ancora viveva ad Arcis. Lei morì nell’ottobre del 1813, anno in cui il più giovane raggiunse la maggiore età. I due vendettero la maggior parte delle terre su cui era investita la fortuna di Danton e sembra che investirono il capitale in una delle nuove fabbriche sorte dopo la pace. Nel 1832 erano soci e direttori di un stabilimento per la filatura del cotone ad Arcis, che gestirono fino alla loro morte. Purtroppo non lasciarono figli maschi in vita.
 
@@ -6615,7 +6615,7 @@ Dall’ultima acquisizione del 8 novembre 1791 fino alla sua morte, Danton non e
 
 Ecco dunque ciò che lasciò Danton.
 
-“(1ᵒ) La ferme de Nuisement (venduta da noi il 23 luglio 1813)”
+# “(1ᵒ) La ferme de Nuisement (venduta da noi il 23 luglio 1813)”
 
 “(2ᵒ) Una modesta e vecchia casa ad Arcis, con la sua dependenza; il tutto comprendeva soltanto 9 acri, 3 pertinenze, 14 campi (o meglio 4 ettari, 23 ari, 24 centiares), esattamente come il 13 aprile 1791, quando la acquistò da Mademoiselle Piot; tuttavia, a seguito di ulteriori acquisizioni, la superficie totale aumentò a 17 acri, 3 pertinenze, 52 campi (ovvero 786 ari, 23 centiares).”
 
@@ -6711,7 +6711,7 @@ Au président, qui lui demande ses nom, prénoms, âge et domicile, il répond: 
 
 Danton.
 
-Appunti di Topino-Lebrun, giurato del tribunale rivoluzionario
+# Appunti di Topino-Lebrun, giurato del tribunale rivoluzionario
 
 L’interesse di queste note è il seguente: rappresentano l’unica testimonianza letterale del processo che abbiamo a disposizione. Ci sono ovviamente i resoconti ufficiali (soprattutto quello di Coffinhal), su cui si basa in gran parte il racconto contenuto nel libro di M. Wallon, “Tribunal Révolutionnaire”; ma queste note approssimative e piuttosto disordinate, scritte male e con abbreviazioni, furono trascritte senza pregiudizi, così come venivano pronunciate dall’accusato stesso. Topino-Lebrun, il pittore, all’epoca aveva trentuno anni ed era certamente un fervente sostenitore dei Montagnardi; esitò a condannare Danton, ma fu sopraffatto dai suoi compagni, soprattutto dal suo amico e maestro David.
 
@@ -6785,7 +6785,7 @@ Je nie et prouve le contraire. Ce fut Marat qui m’envoya un porte feuille et l
 
 Séance del 14 Germinal (13 aprile).
 
-[Westermann ha chiesto di essere esaminato, ma il giudice ha dichiarato che si trattava di “una formalità inutile”.]
+# [Westermann ha chiesto di essere esaminato, ma il giudice ha dichiarato che si trattava di “una formalità inutile”.]
 
 Danton: “Tuttavia, siamo qui soltanto per rispettare le formalità.”
 
@@ -7037,11 +7037,11 @@ Del ruolo importante che questo rapporto ha svolto nella complessa storia della 
 
 La lettura del rapporto viene menzionata nel “Moniteur” del 31 maggio, ma, contrariamente al loro solito, non è stata pubblicata a causa della sua notevole lunghezza. Sembra che sia stata letta nel pomeriggio, tra le due e le quattro, poco prima che la proposta di Cambon venisse messa ai voti. Vi presento i passaggi più importanti, che rappresentano circa metà della lunghezza totale del documento.
 
-Nazione della Convenzione
+#Nazione della Convenzione
 
-Rapporto Generale
+# Rapporto Generale
 
-Sur
+#Sur
 
 Lo stato della Repubblica Francese
 
@@ -7050,7 +7050,7 @@ Deciso in nome del Comitato di Salute Pubblica, nella seduta del…
 
 Mercoledì 29 maggio, il secondo anno della Repubblica:
 
-Par Barrère
+# Par Barrère
 
 Titolo:  
 Deputato del dipartimento delle Alte Pirenei
@@ -7906,7 +7906,7 @@ Il lavoro di questo comitato richiederebbe soltanto una settimana, e l’assembl
 
 Anche questo lavoro sarebbe utile, soprattutto se in seguito l’assemblea desiderasse approfondire i dettagli.
 
-(1ᵒ) Perché ciò porterebbe a una migliore organizzazione delle discussioni;
+# (1ᵒ) Perché ciò porterebbe a una migliore organizzazione delle discussioni;
 
 (2ᵒ) Perché si dovrebbe sempre disporre di un mezzo per accelerare il lavoro, qualora circostanze imperative lo richiedessero. È sulla base di questa semplice idea che vi proponiamo di dichiarare che la Convenzione incarichi una commissione composta da cinque dei suoi membri, affiancati al comitato di salut pubblico, di presentarle nel più breve tempo possibile un piano costituzionale limitato esclusivamente agli articoli che è necessario rendere irrevocabili dalle assemblee legislative, al fine di garantire alla Repubblica la sua unità, indivisibilità e libertà, e al popolo l’esercizio di tutti i suoi diritti.
 
@@ -8088,7 +8088,7 @@ Discorso del 13 agosto 1793. Pubblicato sul “Moniteur” dell’15 agosto.
 
 17 Danton, Uomo di Stato, p. 29.
 
-Note di Courtois de l’Aube nel “Desmoulins” di Clarétie
+# Note di Courtois de l’Aube nel “Desmoulins” di Clarétie
 
 19 Danton, Uomo di Stato, p. 30.
 
@@ -8176,7 +8176,7 @@ Il 60 novembre e il 14 dicembre.
 
 61 contro 31 rispetto a 20 (Aulard, tratto dal “Journal de la Cour et de la Ville”, p. 518).
 
-62 Danton, Uomo di Stato, pp. 256 e seguenti. Firmato “d’Anton”.
+# 62 Danton, Uomo di Stato, pp. 256 e seguenti. Firmato “d’Anton”.
 
 63 Danton, il suo amico Legendre, Testulat, Sableé e Guintin. Diverse fonti hanno indicato che l’elezione di Danton avvenne nel settembre 1789 e non nel gennaio 1790; questo errore deriva probabilmente dal fatto che si è seguita l’elenco pubblicato da Godard nel 1790, il quale però portava la dicitura “Membri del Comune eletti a partire da settembre 1789”.
 
@@ -8638,13 +8638,13 @@ Il testo originale lo ho tratto da Clarétie, il quale cita P. A. Lecomte, “Me
 
 "Quando giunsero sulle rive del Flegetonte..."
 
-Camille Desmoulins, D’Eglantine e Danton
+# Camille Desmoulins, D’Eglantine e Danton
 
 Pagarono per attraversare quel fiume temibile
 
 Il battelliere Caronte (cittadino equo)
 
-Tre passeggeri che desideravano essere affidati alle sue cure
+# Tre passeggeri che desideravano essere affidati alle sue cure
 
 L’eccedenza dell’imposta applicata agli esseri umani.
 

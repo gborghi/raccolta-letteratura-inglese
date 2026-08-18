@@ -129,7 +129,7 @@ But I digress....
 
 <span class="qlang-split" data-lang="it"></span>
 
-Alla partenza
+# Alla partenza
 
 Personalmente, dovrei chiamarlo “Alzare l’ancora”, ma l’ho sempre visto stampato come “Mettere l’ancora”; e se è così stampato, bisogna accettarlo. Dopotutto, effettivamente si tratta di “mettere l’ancora”.
 
@@ -175,7 +175,7 @@ Every word I have written of him is true.
 
 <span class="qlang-split" data-lang="it"></span>
 
-La veglia di Capodanno
+#La veglia di Capodanno
 
 Nel reggimento in cui ho prestato servizio c'era un uomo di nome Frocot, famoso tra i suoi compagni perché aveva visto i Morti; un'esperienza che, sebbene comune tra gli scozzesi, è rara tra i francesi, una nazione sorella. Questo Frocot non sapeva né leggere né scrivere, ma era anche l’uomo più forte che avessi mai conosciuto. Era molto basso e estremamente robusto; poteva rompere una moneta con le mani. Tuttavia, questa forza, sebbene apprezzata dai giovani, veniva considerata di poco conto rispetto alla sua capacità di percepire cose invisibili. Anche se gli altri, essendo contadini, ridevano di lui, in cuor loro credevano profondamente in ciò che diceva. Ci fu chiarito che una notte di gennaio, durante una tempesta di neve, era riuscito a vedere e sentire i Morti: entrò nella nostra baracca e mi svegliò perché aveva sentito il rumore di uno sperone allentato. I nostri speroni non erano fissati come quelli degli ufficiali; erano incollati direttamente alla suola delle scarpe, e se un chiodo si allentava, lo sperone produceva un rumore inequivocabile. C’era un sergente il cui sperone si era allentato la notte prima della sua [[motifs/death|morte]]; al mattino, mentre tornava dal servizio di guardia, si suicidò. Tra i soldati si diceva che a volte, di notte, mentre si faceva la guardia nelle stalle, e ci si trovava soli accanto alla lanterna (con i tre compagni addormentati nei paglierini delle stalle vuote), il sangue si fermava nel corpo e la pelle si tendeva al suono di uno sperone allentato che strisciava nell’oscurità. Ma sebbene molte persone avessero sentito questa storia, e alcune avessero cercato di trovarne prove, io non conoscevo nessuno che l’avesse veramente vissuta, tranne quel Frocot quella notte. Ricordo che si trovava ai piedi del mio letto, con la sua lanterna, svegliandomi dal sonno profondo causato dalla stanchezza; indossava il suo solito mantello blu scuro da soldato e mi fissava con occhi terribili. Indubbiamente aveva visto e sentito qualcosa. Ma se fosse stato un’immaginazione nata dentro di lui, o se invece fosse stata una visione proveniente dall’esterno, influenzata da qualche forza misteriosa, è impossibile dirlo. Era un uomo rude e povero; veniva dalla Foresta delle Ardenne.
 
@@ -243,7 +243,7 @@ I do not write vainly. It is a profound thing.
 
 <span class="qlang-split" data-lang="it"></span>
 
-sui formaggi
+# sui formaggi
 
 Se l’antichità fosse davvero il criterio per misurare la nobiltà, come molti affermano e nessuno nega (ad eccezione di quelle famiglie che adottano lo slogan “Sola Virtus Nobilitas”, il quale potrebbe significare che la virtù è l’unica fonte di nobiltà, oppure – attenzione – che la nobiltà stessa è l’unica virtù; in ogni caso, queste famiglie negano che la nobiltà possa essere verificata attraverso il trascorrere del tempo), allora, il formaggio sarebbe davvero una cosa molto nobile.
 
@@ -700,7 +700,7 @@ Aspettavo, non direi che con impazienza, che se ne andasse, quando un dio o un d
 
 “Cosa intendi dire?”, risposi.
 
-Cosa faresti per cercare di far sì che questa questione venga presa in considerazione e discussa?
+#Cosa faresti per cercare di far sì che questa questione venga presa in considerazione e discussa?
 
 Poi fu il mio turno, e glielo lasciai fare.
 
@@ -798,7 +798,7 @@ I have often thought when I have heard men blaming the story of England or her p
 
 <span class="qlang-split" data-lang="it"></span>
 
-Le viste d’Inghilterra
+# Le viste d’Inghilterra
 
 L’INGHILTERRA è un paese con dei confini e un nucleo centrale. È un paese molto piccolo rispetto al numero di persone che vi vivono, ma estremamente affascinante per chi lo visita a piedi o in barca da un luogo all’altro. Considerando il ruolo che ha avuto nella formazione del mondo, potrebbe essere giustamente paragonato a una gemma: molto piccola, molto preziosa e quasi possibile tenere in mano. La bellezza fisica dell’Inghilterra si apprezza attraverso la contemplazione dei suoi paesaggi.
 
@@ -944,7 +944,7 @@ Well, the Victorians, and notably this man of whose power of the pencil I am spe
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'eredità dell'umorismo
+# L'eredità dell'umorismo
 
 Esistono alcune verità che sembrano invecchiare quasi non appena vengono scoperte, e questo semplicemente perché sono così sorprendentemente vere che le persone finiscono per sentirsi come se le conoscessero da tutta la vita; una di queste verità è quella su cui, negli ultimi cinque anni, uno dopo l’altro, numerosi autori hanno insistito, fino a quando non è diventata una banalità assoluta il fatto che le nazioni spesso non conoscono nemmeno le proprie qualità intrinseche. Quello che è più profondo, ciò che caratterizza davvero una comunità, proprio come i gusti o i colori distinguono le cose – queste cose una nazione difficilmente le conosce da sola, se non vengono indicate da un estraneo o da qualcuno che osserva dall’interno. Non può conoscerle, perché non si può descrivere l’atmosfera stessa in cui si vive. Tali caratteristiche sono universali e quindi sfuggono all’attenzione. Ora, se questo vale per qualsiasi nazione, è particolarmente vero per l’Inghilterra. E al popolo inglese occorre ricordarlo continuamente: non tanto le specifiche caratteristiche nazionali che possiede – poiché per queste non esiste un nome preciso – ma piuttosto quali ne sono le manifestazioni concrethe; ad esempio, la spontaneità nella creatività, la passione per il misterioso nella poesia e nelle arti, l’eccezionale abilità nell’uso dei colori a olio, di cui forse gli inglesi sono i soli in Europa. E soprattutto, l’elemento principale, quello che costituisce la vera essenza dell’anima inglese: l’umorismo.
 
@@ -1104,7 +1104,7 @@ In aid of this last feature in historical judgment there is nothing of such perm
 
 <span class="qlang-split" data-lang="it"></span>
 
-Su prove storiche
+# Su prove storiche
 
 L’ultimo libro pubblicato sulla figura dell’ultimo Delfino di [[settings/france|Francia]] mi ha fatto riflettere su ciò che, a mio parere, rappresenti la principale scienza pratica attraverso la quale gli uomini moderni possano garantirsi la sicurezza. Intendo dire la scienza della storia: in questa disciplina, quasi tutto dipende dalla corretta valutazione delle prove, poiché uno dei problemi più importanti che si presentano allo studioso di storia oggi è proprio stabilire se il Delfino sia sopravvissuto o meno alla sua prigionia nel Tempio.
 
@@ -1296,7 +1296,7 @@ There was a few pence change, but I did not want it. The person who sold me the 
 
 <span class="qlang-split" data-lang="it"></span>
 
-San Patrizio
+# San Patrizio
 
 Se c'è una cosa in cui le persone che non sono cattoliche hanno commesso più errori rispetto ad altre nelle questioni intellettuali della vita, è proprio la concezione di un’“Personalità”. Sono confuse riguardo a questo concetto quando si riferisce a se stesse, lo fraintendono quando affrontano i problemi della società, e ne hanno una comprensione molto debole quando considerano (se mai lo fanno) la natura di Dio Onnipotente.
 
@@ -1430,7 +1430,7 @@ Or again, if he wants to know what the Romans really knew or said they knew abou
 
 <span class="qlang-split" data-lang="it"></span>
 
-Sulla lettura della storia
+# Sulla lettura della storia
 
 All’inizio di questo breve articolo, lasciate che presenti al lettore due fatti. Nessuno dei due può essere contestato, ed è proprio per questo che li definisco fatti e li metto in primo piano prima di iniziare a esporre le mie teorie.
 
@@ -1632,7 +1632,7 @@ On October 15 the relieving force, 50,000 strong, attacked the Austrian covering
 
 <span class="qlang-split" data-lang="it"></span>
 
-Sul declino del libro: [in particolare del libro storico]
+# Sul declino del libro: [in particolare del libro storico]
 
 È un'interessante speculazione su quali possano essere i motivi per cui questo libro abbia perso la sua precedente posizione in questo paese. Non si tratta solo di una speculazione interessante, ma anche di qualcosa che riguarda una questione fondamentale. Infatti, se le persone prendono l’abitudine di trascurare i veri libri all’interno di una civiltà antica e tradizionale, l’inaccuratezza dei loro giudizi e le illusioni a cui saranno soggette aumenteranno inevitabilmente.
 
@@ -1692,7 +1692,7 @@ Now, if the rich man has no temptation by way of popular fame, and the poor man 
 
 Ci sono qui cinque grandi errori positivi in sei righe: i francesi non erano 50.000; l’attacco del 15° non avvenne a Wattignies, ma a Dourlers; Wattignies non fu conquistata e fu persa tre volte; lo scontro del 15° fu meno intenso sulla destra (più intenso a sinistra e di gran lunga più intenso al centro); nessuno – nemmeno il minimo novellino – si aspettava che Coburg tornasse il 17°. Dopotutto, aveva già attraversato il Sambre in tutti i punti il giorno prima! Per quanto riguarda gli errori negativi, o cioè gli errori di omissione, sono gravissimi; il principale è che la vittoria fu ottenuta il secondo giorno, il 16°, di cui non viene fatta alcuna menzione.
 
-Contrasta ora una frase del genere con quella che segue: —
+# Contrasta ora una frase del genere con quella che segue: —
 
 Il 15 ottobre, le forze di rincalzo, composte da 42.000 uomini, attaccarono il centro austriaco a Dourlers e sferrarono anche attacchi sui fianchi nemici; poiché l’assalto a Dourlers (un villaggio che era stato preso e perso tre volte) fallì, il giorno seguente, il 16 ottobre, fu attaccato l’estremo sinistro della posizione nemica a Wattignies, che venne conquistato. Il nemico, trovandosi così accerchiato, fu costretto a ritirarsi e Maubeuge fu liberata lo stesso pomeriggio.
 
@@ -1788,7 +1788,7 @@ The immediate future will show that the stream of French excellence in this depa
 
 <span class="qlang-split" data-lang="it"></span>
 
-José María de Heredia
+# José María de Heredia
 
 I francesi hanno un’espressione: “la beauté du verbe”, con cui intendono indicare qualcosa che risiede nel suono e nell’ordinamento delle parole, e che completa ciò che tali parole avrebbero semplicemente il compito di esprimere. È evidente che non si possa dare una definizione precisa di questa “bellezza”, ma è altrettanto chiaro che senza di essa le lettere stesse non esisterebbero. Non possiamo spiegare come essa emerga, tuttavia questo processo ci è familiare in tutto ciò che facciamo quando cerchiamo di realizzare un impulso verso il bene. Non si tratta dell’integrazione di molte piccole cose, ma di una serie infinita di elementi infinitesimamente piccoli: è così che si creano il gesto perfetto, la linea perfetta, l’intonazione perfetta e la frase perfetta. Allo stesso modo, tutte le cose significative sono frutto di questo processo: ogni tono della voce, ogni disposizione del paesaggio o delle note musicali che ci fanno scoprire qualcosa di più profondo. Ma quando si afferma che questa “bellezza” è particolarmente evidente nell’espressione perfetta, ciò significa che, talvolta e raramente, tale integrazione raggiunge una forma stabile e sufficiente: la mente ne è soddisfatta, senza desiderare di più; se desidera godere ulteriormente del piacere che questa perfezione le ha procurato, non cerca di prolungarlo o svilupparlo, ma si accontenta di attendere un po’ e di tornarci sopra, consapevole di possedere qui un tesoro destinato a durare per sempre.
 
@@ -1838,7 +1838,7 @@ The phenomenon was brief. It lasted little more than a hundred years, but it tra
 
 <span class="qlang-split" data-lang="it"></span>
 
-Normandia e i Normanni
+# Normandia e i Normanni
 
 Non si può comprendere davvero un paese se non si conosce la natura delle sue suddivisioni territoriali. In qualche modo difficile da comprendere, impossibile da definire, eppure estremamente evidente, ciascuna delle grandi entità nazionali che compongono il Cristianesimo è a sua volta un insieme di molte regioni le cui differenze e interazioni conferiscono loro una vita collettiva. Nessuno potrebbe comprendere il passato dell’Inghilterra senza cogliere il carattere specifico delle sue contee: il Lancashire, isolato a est dai Pennini e a sud dalle zone paludose, con l’unica via d’accesso naturale rappresentata dal porto di Stockport; il Sussex, che in passato fu un bispittato e un regno; il Kent, il Devon, le lagune dell’Anglia Orientale. Nessuno potrebbe (o riesce) a comprendere l’Inghilterra moderna se non riconoscesse che le sue suddivisioni sono ormai rappresentate dalle grandi città industriali, e se non cogliesse lo spirito specifico di ciascun gruppo di queste città – con Londra isolata nel sud, come elemento negativo rispetto alle altre.
 
@@ -2068,7 +2068,7 @@ How was it lost, this great main road of Europe, this marching road of the legio
 
 L’incompetenza o l’avarizia dei politici avevano vanificato i sforzi dei soldati; non c’è da meravigliarsi quindi che gli ultimi veterani di Harold, che si ritirarono in disperazione in impenetrabili fortezze come Ely, Arthur’s Seat e Pudsey, fossero registrati come persone che digrignavano i denti e versavano lacrime di indignazione leggendo le notizie provenienti dalla capitale. A Crécy avrebbero finalmente trovato la loro vendetta.
 
-Le strade romane della Piccardia
+# Le strade romane della Piccardia
 
 Se a un uomo si chiedesse dove, sulla mappa, si possano trovare le tracce più evidenti di Roma e i ricordi legati a essa, e dove si possano scoprire più facilmente, in pochi giorni a piedi, le fondamenta su cui ancora poggia la nostra civiltà, potrebbe trovarsi imbarazzato nella risposta, a seconda della sua conoscenza della storia e dell’Europa. Potrebbe dire che una settimana lungo la muraglia, da Tyne a Solway, rappresenterebbe la soluzione; oppure che una settimana tra le grandi città romane della Provenza, con i loro archi trionfali, le vaste arene e le pietre romaniche presenti ovunque: nei vecchi moli, nei ponti in rovina, persino sul selciato delle strade che ancora oggi utilizzano, e nelle colonne delle chiese moderne.
 
@@ -2368,7 +2368,7 @@ Infine, c’è un test concreto per dimostrare che tutto questo gergo riguardant
 
 Se anche dopo aver letto queste mie parole magistrali continuate a soffrire di questa illusione, ebbene, esiste un modo drastico per curarvene: diventare soldato. Prendete lo shilling che vi viene dato e vivete in una caserma per un anno; poi potrete comprare la vostra libertà. Non disprezzerete mai più il pubblico. E forse c’è ancora un modo migliore: circumnavigare l’Africa meridionale. Ma fate attenzione che i vostri amici vi inviino abbastanza denaro per poter tornare a Valparaiso in condizioni confortevoli; non vorrei mai che il mio peggior nemico facesse il viaggio di ritorno nello stesso modo in cui è arrivato.
 
-Sui primi passi
+# Sui primi passi
 
 Sempre nella mia mente sto pianificando nuovi tipi di guide turistiche. O, per meglio dire, nuove funzionalità da includere nelle guide.
 
@@ -2522,7 +2522,7 @@ Ce ne sono molti altri che ricordo. Quelli di cui ho scritto altrove mi vergogno
 
 Poi c'era un altro uomo che viaggiava con me da Birmingham; mi ha dato in mano alcuni opuscoli e voleva chiedermi sei penny per ciascuno a Paddington. Ma se dovessi parlare anche solo di questi pochi casi, finirei per esagerare.
 
-Sulle sorgenti dei fiumi
+# Sulle sorgenti dei fiumi
 
 Esistono alcune usanze umane la cui persistenza dona un piacere infinito. Quando l’atmosfera prevalente nelle società è contraria a esse, queste usanze rimangono nascoste sotto le “piastrelle” della società stessa, ma non muoiono mai; e quando una decadenza del pedantismo, del dispotismo o di qualsiasi altra influenza negativa e disumana permette loro di riemergere, eccole ricomparire.
 
@@ -2596,7 +2596,7 @@ Il fiume Severn, il fiume Wye e un terzo fiume di scarso rilievo – o almeno im
 
 In Europa esiste una sorgente che viene gestita in modo appropriato, dove la religione, grazie alle sorgenti dei fiumi, può svilupparsi liberamente, ed è proprio questa la sorgente della Senna. Questa sorgente si trova sul lato settentrionale delle colline che i francesi chiamano “Colline d’Oro”, in una regione di pascoli e foreste, molto in alto sopra il resto del mondo e scarsamente popolata. Il fiume Senna appare lì in modo quasi miracoloso, sgorgando da una grotta; sopra questa grotta i parigini hanno eretto una statua votiva. E c’è ancora un’altra di quelle centinaia di migliaia di cose che nessuno conosce.
 
-Su un errore
+# Su un errore
 
 Esiste un’idea elusiva che è passata per la mente della maggior parte di noi man mano che invecchiavamo e imparavamo sempre più cose. È un’idea estremamente difficile da esprimere in termini precisi; è molto complicato formularla in modo che non sembri assurda. Eppure si tratta di un’idea molto utile: se potesse essere realizzata, avrebbe un valore pratico enorme. Si tratta dell’idea di un “Dizionario dell’Ignoranza e degli Errori”.
 
@@ -2660,7 +2660,7 @@ L’intero “oggetto” in questione, una volta ricevuto il suo titolo sacro e 
 
 Una volta fatto ciò, passiamo al terzo step del nostro percorso verso la correzione dell’errore. Facciamo sì che l’idolo “parli”. Ovviamente, essendo solo un idolo, dice sciocchezze. Ma grazie ai passaggi precedenti di cui abbiamo appena parlato, dobbiamo credere a quelle sciocchezze. E infatti le crediamo. Ed è così, penso, che l’errore viene generalmente corretto.
 
-Un esempio già fornito nel titolo gerarchico “Scienza”.
+# Un esempio già fornito nel titolo gerarchico “Scienza”.
 
 È stato solo qualche giorno fa che ho preso un giornale settimanale nel quale un signore discuteva di fantasmi: cioè delle presunte apparizioni di vivi e morti, dei morti, sì, ma morti davvero; e dei vivi, anche se assenti.
 
@@ -2848,7 +2848,7 @@ As though to give some substance to the flattering cheat, there is one kind of f
 
 Questo vizio ha come effetto più ridicolo la creazione di un intero mondo di fantasmi; quando uno Stato è giunto a tal punto che la paura civica diventa qualcosa di del tutto normale tra i suoi cittadini, allora li vedrete impallidire dal terrore davanti a semplici parole scritte o a accuse sussurrate. La bancarotta, anche quando non possiedono nulla; persino l’ostilità delle donne. Sotto questa influenza, gli usurai detengono il potere maggiore, seguiti dai ricattatori di ogni sorta, e poi da quegli eccentrici che possono esprimersi in modo impulsivo o estremo. Coloro che hanno meno potere nel declino di uno Stato sono i sacerdoti, i soldati, le madri di molti figli, gli amanti di una sola donna, e i santi.
 
-Sulla grandezza del passato
+# Sulla grandezza del passato
 
 Si trova nel nord-est della [[settings/france|Francia]], vicino al confine belga e a portata di cannone dal famoso campo di battaglia di Malplaquet: una piccola città chiamata Bavai. Ne ho già parlato in altri luoghi.
 
@@ -2970,23 +2970,23 @@ The white horse meanwhile slouched; Bavai grew somewhat nearer as we sat in sile
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un tale incidente non può mai colpire l’anima
+# Un tale incidente non può mai colpire l’anima
 
 Qui, senza materia, si vedono cose immortali lassù in alto.
 
 * * *
 
-Vela saigement, coloro la cui fantasia...
+# Vela saigement, coloro la cui fantasia...
 
 Serata religiosa e devota verso Dio
 
-Sempre realizzeranno qualche grande poesia
+# Sempre realizzeranno qualche grande poesia
 
 E sopra il loro nome non avrà luogo la Parca.
 
 Ma la questione non è ancora stata decisa.
 
-Il Duca di Malplaquet
+# Il Duca di Malplaquet
 
 Sul campo di battaglia di Malplaquet, in quel luogo di guerra, incontrai un uomo.
 
@@ -3392,7 +3392,7 @@ Beh, allora, supponiamo che vi troviate all’estero, o anche in qualche altra p
 
 Esattamente tre giorni fa ho avuto l’occasione di percorrere quella linea ferroviaria che è la più frequentata d’Europa: ero in viaggio d’affari, non per divertimento, ma nel corso del viaggio ho avuto due giorni liberi e ho fatto ciò che consiglierei a chiunque altro in una situazione simile.
 
-In treno verso nessun posto
+# In treno verso nessun posto
 
 Prima di tutto guardai la mappa e vidi dove, più vicino a me, si trovava un quadrilatero privo di ferrovie. Questa formula, per individuare un quadrilatero privo di ferrovie, è davvero molto utile per chi cerca un altro mondo. Poi scelsi casualmente una piccola stazione di campagna sulla linea principale; decisi di recarmi lì e camminare senza meta verso ovest, fino a raggiungere l’altra estremità del quadrilatero. Non avevo fatto alcun piano, nemmeno riguardo alle ore del giorno.
 
@@ -3446,7 +3446,7 @@ Ma ormai era quasi mezzanotte, e quando arrivai in questo villaggio ricordai com
 
 Il giorno dopo presi quel piccolo tram a vapore e lo portai via da quel luogo; poi continuai il mio viaggio, lasciando che fosse Dio a decidere dove mi avrebbe condotto. Fino a quando il paesaggio non cambiò: la ferrovia leggera si inoltrò in una valle incantevole, e vedendo una città situata lì dentro, scesi, pagai il biglietto e visitai la città. In quel luogo andai in chiesa, poiché era ancora mattina presto. Uscendo dalla chiesa, ebbi un’argomentazione con un lavoratore riguardo alla religione; credo di essere stato io a vincere quella discussione. Poi proseguii verso nord e entrai in una foresta di dimensioni enormi: si estendeva per chilometri e i alberi erano più alti di qualsiasi cosa avessi visto al di fuori della California. Era una foresta incantata: il sole filtrava attraverso uno strato di silenzio, tra le foglie, e ovunque regnava il silenzio. Trascorsi l’intera giornata in quella foresta, muovendomi lentamente verso ovest. Fino a quando, proprio nel suo cuore, incontrai un uomo angosciato: era di mezza età, basso, intelligente, grasso e stanco. Mi disse.
 
-Hai notato qualche segno particolare sugli alberi? Un segno bianco con il numero 90?
+# Hai notato qualche segno particolare sugli alberi? Un segno bianco con il numero 90?
 
 “No,” dissi. “Ci sono dei cinghiali in questa foresta?”
 
@@ -3750,7 +3750,7 @@ Erano passati dieci anni dall'ultima volta che l'avevo visto. Potrebbero trascor
 
 “No, non il tuo desiderio,” mi disse quella voce interiore, “ma la sua realizzazione, nella quale avresti perso quel desiderio stesso.” E quando ricevetti questa risposta, naturalmente – come fanno tutti quando ascoltano tali voci interiori – iniziai a riflettere con rimorso; ero pronto, se qualche editore onesto fosse passato da quelle parti, ad accettare un’offerta appropriata all’occasione, ad esempio, scrivere almeno cinque volumi sulla Natura del Rimorso: il suo dolore mortale, la sua dolcezza amara, il suo potere di mantenere vive nell’uomo le pure passioni dell’anima, i suoi legami con l’immortalità. Ma nel bosco non c’erano editori; quell’offerta non arrivò mai. Quel momento fu perso. Quei cinque volumi probabilmente non verranno mai scritti. In loro vece vi offro questo, che potete prendere o lasciare. Ma prima di concludere, permettetemi di citare alcune parole molto nobili legate a quella grande locanda chiamata “Il Grifone”, la cui origine risale a un luogo lontano, nella città di March, nella regione dei laghi.
 
-Inghilterra, mio desiderio… cosa non mi hai rifiutato?
+#Inghilterra, mio desiderio… cosa non mi hai rifiutato?
 
 La fine del mondo
 

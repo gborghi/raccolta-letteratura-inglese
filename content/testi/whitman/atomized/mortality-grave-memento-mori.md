@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/mortality-grave-memento-mori" data-author="Whitman" data-workhref="works/mortality-·-grave-·-memento-mori-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="093_youth_day_old_age_and_night" data-title="Youth, Day, Old Age and Night" data-chapter="" data-kind="intro" data-tags="motif/night,motif/sun,motif/seasons,concept/transience,form/free_verse,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+Youth, Day, Old Age and Night · Beautiful Women · Hast Never Come to Thee an Hour · To Old Age · This Dust Was Once the Man · This Compost · Thought · Of Him I Love Day and Night · As If a Phantom Caress’d Me · Quicksand Years · Thought · As I Watch the Ploughman Ploughing · Pensive and Faltering · The Mystic Trumpeter · Spain, 1873-74 · As the Time Draws Nigh · Pensive on Her Dead Gazing · The Sobbing of the Bells [Midnight, Sept. 19-20, 1881] · Portals · To Those Who’ve Fail’d · Queries to My Seventieth Year · Red Jacket (From Aloft) · Yonnondio · Life and Death · While Not the Past Forgetting · Apparitions · A Voice from Death · Mirages · L. of G.’s Purport
+
+
+
+
+<span class="atom-split" data-atom="093_youth_day_old_age_and_night" data-title="Youth, Day, Old Age and Night" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -29,17 +34,6 @@ restoring darkness.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Gioventù, grande, appassionata, amorevole, gioventù piena di grazia, forza, fascino.
-Sai che la vecchiaia potrebbe arrivare dopo di te con ugual grazia,  
-forza, fascino?  
-
-Giorno pieno e splendente, giorno di un sole immenso, azione,  
-[[concepts/ambition|ambizione]], risate;  
-La [[motifs/night|notte]] arriva subito dopo, con milioni di “soli”, il [[motifs/sleep|sonno]] e  
-il ritorno dell’oscurità.
-
 
 
 <span class="atom-split" data-atom="130_beautiful_women" data-title="Beautiful Women" data-chapter="" data-kind="intro" data-tags="cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -56,17 +50,9 @@ The young are beautiful--but the old are more beautiful than the young.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_
 
 
-Le donne sedono o si muovono avanti e indietro; alcune sono anziane, altre giovani.  
-Le giovani sono belle, ma le anziane lo sono ancora di più delle giovani.
-
-
-
-<span class="atom-split" data-atom="136_hast_never_come_to_thee_an_hour" data-title="Hast Never Come to Thee an Hour" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/money_gold,concept/vanitas,concept/love_divine,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="136_hast_never_come_to_thee_an_hour" data-title="Hast Never Come to Thee an Hour" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -82,16 +68,6 @@ To utter nothingness?
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_  
-
-
-Non ti è mai capitato, in un momento qualsiasi,  
-di ricevere un improvviso bagliore divino che faccia scoppiare tutte queste “bolle” – mode, ricchezza.
-Tutti questi ambiziosi obiettivi: libri, politica, arte, amori.
-Per poi ritrovarsi di fronte al nulla?
 
 
 
@@ -109,16 +85,9 @@ it pours in the great sea.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_
 
 
-Vedo in te quell’estuario che si allarga e si diffonde maestosamente mentre si immette nel grande mare.
-
-
-
-<span class="atom-split" data-atom="188_this_dust_was_once_the_man" data-title="This Dust Was Once the Man" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,archetype/martyr,motif/dust,concept/mortality,concept/nationalism_and_patriotism,form/epigram,form/elegy,character/abraham_lincoln,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="188_this_dust_was_once_the_man" data-title="This Dust Was Once the Man" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: MEMORIES OF PRESIDENT LINCOLN_  
@@ -134,18 +103,9 @@ Was saved the [[concepts/union|Union]] of these States.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Questa [[motifs/dust|polvere]] un tempo era un uomo.
-
-_Cluster: Memorie del Presidente Lincoln_  
 
 
-Questo [[motifs/dust|polvere]] un tempo apparteneva a quell’uomo: gentile, semplice, giusto e risoluto. Sotto la sua guida attenta, contro il crimine più orribile mai conosciuto nella [[concepts/history|storia]] di qualsiasi paese o epoca, fu salvata l’[[concepts/union|Unione]] di questi Stati.
-
-
-
-<span class="atom-split" data-atom="196_this_compost" data-title="This Compost" data-chapter="" data-kind="intro" data-tags="motif/decay,motif/death,motif/nature,motif/spring,motif/the_grave,concept/regeneration,concept/mortality,concept/the_body,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="196_this_compost" data-title="This Compost" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -222,55 +182,9 @@ from them at last.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
 
 
-Qualcosa mi spaventa proprio nel luogo in cui pensavo di essere al sicuro;  
-mi allontano dai boschi tranquilli che amavo.
-Ora non andrò più a passeggiare nei prati,  
-non toglierò i vestiti dal mio [[concepts/body|corpo]] per incontrare il mio [[archetypes/lover|amante]] vicino al mare.
-Non toccherò la mia pelle con la terra, né con la pelle di un altro essere umano, per rinnovarmi.
-
-O come può essere che la stessa terra non si contamini?  
-Come puoi esistere tu, germoglio della [[motifs/spring|primavera]]?  
-Come puoi donare salute tu, questo [[motifs/blood|sangue]] fatto di erbe, radici, frutteti, cereali?  
-Non vi vengono continuamente gettati dentro cadaveri infetti?  
-Ogni continente, non è forse costantemente sommerso da morte e decomposizione?
-
-Dove hai gettato via i loro cadaveri?  
-Quei ubriaconi e golosi di tante generazioni.
-Dove hai fatto sparire tutto quel liquido putrido e quella carne in decomposizione?  
-Oggi non ne vedo traccia su di te. Forse mi sbaglio.
-Farò passare il mio aratro, confonderò la terra con la mia zappa.
-Sono sicuro che scoprirò qualche resto di quella carne putrida.
-
-Ecco questo compost! Guardatelo bene. Forse ogni acaro è stato un tempo parte di una persona malata. Eppure, eccolo lì: l’erba della primavera copre le praterie, i fagioli spuntano silenziosamente dal terreno nel giardino, il bulbo dell’aglio cresce verso l’alto, i boccioli di mela si raggruppano sui rami. La “resurrezione” del grano appare dai suoi sepolcri con un aspetto pallido; i colori si risvegliano sugli alberi di salice e gelso. Gli uccelli maschi cantano al mattino e alla sera, mentre quelli femminili stanno nei loro nidi. I pulcini escono dalle uova, i nuovi nati degli animali compaiono: il vitello nasce dalla mucca, il puledro dal cavallo. Dalla sua piccola collina spuntano fedelmente le foglie verdi scure della patata; dalla sua collina emerge anche il gambo giallo del mais. I lillà fioriscono nei cortili. La crescita estiva è innocente e sprezzante rispetto a tutti quegli strati di morte e decomposizione.
-
-Che meravigliosa “chimica”.
-Che i venti davvero non siano contagiosi,  
-Che questa trasparenza verde del mare, che mi segue con tanta tenerezza,  
-non rappresenti alcun pericolo;  
-che sia sicuro lasciare che le sue onde accarezzino il mio corpo nudo con le loro lingue.
-Che nessuna febbre possa derivarne, né alcun danno.
-Che tutto sia sempre pulito e innocuo.
-Che la bevanda fresca proveniente dal pozzo abbia un sapore delizioso.
-Che i mirtilli siano così saporiti e succosi.
-Che i frutti dell’albero di mele, dell’arancio, i meloni, gli uva, i peschi, le prugne, nessuno di loro possa avvelenarmi.
-Che sdraiandomi sull’erba non contragga alcuna malattia.
-Anche se probabilmente ogni stelo d’erba nasce da qualcosa che un tempo era fonte di infezioni.
-
-Ora sono terrorizzato dalla Terra: è così calma e paziente.
-Cresce cose così dolci da corruzioni così terribili;  
-Diventa innocua e pura sul proprio asse, nonostante infinite sequenze di cadaveri malati.
-Estrae venti così deliziosi da un’atmosfera così fetida.
-Rinnova con sforzi apparentemente casuali i suoi raccolti annuali, abbondanti e lussuosi.
-Dona agli uomini materiali divini. E infine accetta anche gli scarti che questi lasciano dopo di sé.
-
-
-
-<span class="atom-split" data-atom="210_thought" data-title="Thought" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/money_gold,motif/decay,concept/satire_of_society,concept/self_and_soul,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="210_thought" data-title="Thought" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -295,24 +209,9 @@ And often to me they are sad, hasty, unwaked sonnambules walking the dusk.)
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
 
 
-Di persone che hanno raggiunto posizioni elevate, cerimonie, ricchezza, borse di studio e simili;  
-per me tutto ciò che queste persone hanno ottenuto svanisce davanti a loro,  
-tranne quanto possa giovare ai loro corpi e alle loro anime;  
-spesso mi appaiono emaciate e nude;  
-spesso ognuna di loro deride le altre, o se stessa;  
-il nucleo della vita, cioè la felicità, in esse è pieno di marciume e putrefazione;  
-spesso queste persone attraversano inconsapevolmente le vere realtà della vita, dirigendosi verso illusioni;  
-spesso sono vive soltanto secondo ciò che la tradizione o l’abitudine impongono loro, ma nient’altro;  
-spesso sono tristi, affrettate, come sonnambuli che camminano nella penombra.
-
-
-
-<span class="atom-split" data-atom="238_of_him_i_love_day_and_night" data-title="Of Him I Love Day and Night" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,motif/dreams,concept/grief_and_loss,concept/mortality,form/elegy,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="238_of_him_i_love_day_and_night" data-title="Of Him I Love Day and Night" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
@@ -342,16 +241,9 @@ Or if it be distributed to the winds I shall be satisfied.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_  
 
 
-Di lui io [[motifs/love|amo]] giorno e [[motifs/night|notte]]; sognai che fosse morto. Sognai di essere andato dove lo avevano sepolto. Lo [[motifs/love|amavo]], ma non era lì. Sognai di cercarlo tra tutti i luoghi di sepoltura. Scoprii che ogni posto era un cimitero. Le case piene di vita erano ugualmente piene di [[motifs/death|)morte]]. Questa casa, ora. Le strade, il traffico, i luoghi di divertimento. Chicago, Boston, Filadelfia. Erano tutti pieni di morti quanto di vivi. Anzi, molto più pieni di morti che di vivi. Quello che ho sognato lo racconterò a chiunque, in ogni momento. Ora sono legato a ciò che ho sognato. E ora sono disposto a ignorare i luoghi di sepoltura. Anche se i ricordi dei morti venissero messi ovunque, anche nella stanza dove mangio o dormo. Sarei soddisfatto. Se il corpo di chiunque io [[motifs/love|ami]], o il mio stesso corpo, venisse ridotto in polvere e gettato in mare. Sarei soddisfatto. O se venisse disperso tra i venti. Sarei ancora soddisfatto.
-
-
-
-<span class="atom-split" data-atom="240_as_if_a_phantom_caress_d_me" data-title="As If a Phantom Caress’d Me" data-chapter="" data-kind="intro" data-tags="motif/ghosts,motif/the_sea,motif/the_supernatural,concept/grief_and_loss,concept/love_romantic,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="240_as_if_a_phantom_caress_d_me" data-title="As If a Phantom Caress’d Me" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_
@@ -370,22 +262,9 @@ And those appear that are hateful to me and mock me.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_
 
 
-Come se un [[characters/phantom|fantasma]] mi accarezzasse,  
-pensai di non essere solamente mentre camminavo qui sulla riva;  
-ma colui che credevo fosse con me, ora che cammino ancora lungo la riva.
-colui che amavo e che mi accarezzava.
-Mentre mi appoggio e guardo attraverso quella luce tremolante,  
-lui è completamente scomparso.  
-E ora appaiono solo coloro che mi odiano e si prendono gioco di me.
-
-
-
-<span class="atom-split" data-atom="242_quicksand_years" data-title="Quicksand Years" data-chapter="" data-kind="intro" data-tags="motif/time,concept/self_and_soul,concept/identity,concept/transience,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="242_quicksand_years" data-title="Quicksand Years" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
@@ -403,18 +282,6 @@ When shows break up what but One’s-[[concepts/self|Self]] is sure?
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_  
-
-
-Anni di sabbia mobile che mi trascinano chissà dove;  
-I vostri piani, le vostre politiche falliscono, i confini svaniscono, le cose materiali si prendono gioco di me e mi sfuggono.
-Solo il tema che canto, quell’anima grande e potente, non mi sfugge mai.  
-Il proprio [[concepts/self|io]] non deve mai arrendersi: quella è l’unica cosa certa.
-Tra politiche, vittorie, battaglie, la vita, cosa rimane alla fine?  
-Quando tutto finisce, che cosa resta se non il proprio [[concepts/self|io]]?
 
 
 
@@ -448,18 +315,9 @@ Is only matter triumphant?
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_
 
 
-Mentre sono seduto con gli altri a un grande banchetto, all’improvviso, mentre suona la musica, nella mia mente – da dove provenga non lo so – appare l’immagine spettrale di una nave naufragata in mare: alcune navi che salpano dal porto con bandiere sventolanti e baci al vento. E poi più nulla. Appaiono anche immagini legate al destino del Presidente, alla scienza marina sviluppata nel corso di cinquanta generazioni sulla costa nord-orientale. All’affondamento della nave a vapore Arctic. Alle donne pallide e maestose radunate sul ponte, in attesa di quel momento che si avvicina sempre di più. Oh, quel momento!
-
-Un enorme singhiozzo, alcune bolle d’aria, la schiuma bianca che si spruzza in alto, e poi quelle donne se ne vanno. Affondano lì, mentre quel liquido freddo e senza passione continua a scorrere. E ora io mi chiedo: quelle donne sono davvero sparite? Le anime vengono davvero annegate e distrutte in questo modo? È davvero solo la materia a trionfare?
-
-
-
-<span class="atom-split" data-atom="251_as_i_watch_the_ploughman_ploughing" data-title="As I Watch the Ploughman Ploughing" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/seasons,motif/death,concept/mortality,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="251_as_i_watch_the_ploughman_ploughing" data-title="As I Watch the Ploughman Ploughing" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
@@ -474,16 +332,6 @@ I saw there too, O life and [[motifs/death|death]], your analogies;
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_  
-
-
-Mentre osservavo il contadino che arava,  
-o il seminatore che seminava nei campi, o il mietitore che raccoglieva i frutti del lavoro,  
-vidi anche lì, oh vita e [[motifs/death|morte]], le vostre analogie;  
-(Vita, la vita è il lavoro agricolo, e [[motifs/death|morte]] è la raccolta dei risultati di quel lavoro.)
 
 
 
@@ -504,20 +352,9 @@ And I the apparition, I the spectre.)
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_
 
 
-Pensieroso e incerto,
-scrivo queste parole dei Morti,
-poiché i Morti sono i Viventi,
-(sperabilmente gli unici veramente viventi, gli unici reali,
-e io, solo un’apparizione, solo uno spettro).
-
-
-
-<span class="atom-split" data-atom="257_the_mystic_trumpeter" data-title="The Mystic Trumpeter" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/ghost,motif/music_and_song,motif/ghosts,concept/love_romantic,concept/war_and_its_cost,concept/joy,histref/the_grail_legend,histref/the_crusades,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="257_the_mystic_trumpeter" data-title="The Mystic Trumpeter" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -637,110 +474,9 @@ Joy! joy! all over joy!
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: DALLA [[motifs/noon|MATTINA]] ALLA NOTTE STELLATA_.
 
 
-1  
-Ascoltate: un qualche strano musicista, un suonatore misterioso,  
-si muove invisibile nell’aria, suonando melodie capricciose durante la [[motifs/night|notte]].
-
-Ti sento suonare il trombone; ascoltando attentamente, catturo le tue note:  
-A volte si riversano intorno a me come una tempesta, vorticose e potenti;  
-Altre volte sono basse, soffocate, o semplicemente perdute nella distanza.
-
-2  
-Come entità senza forma che si avvicina, forse in te risuona  
-la voce di qualche compositore defunto; forse la tua vita meditativa  
-è stata colmata da aspirazioni elevate, da ideali ancora incompiuti.
-Onde musicali, oceani sonori che si agitano caoticamente.
-Quel fantasma estatico, chinandosi vicino a me, fa risuonare la tua cornetta.
-I suoi suoni non raggiungono le orecchie di nessuno, se non le mie.
-Me li dona liberamente, affinché io possa tradurli.
-
-3  
-Soffia il trombettista con forza e chiarezza, ti seguo;  
-Mentre ascolto la tua melodia fluida, serena e gioiosa,  
-Il mondo frenetico, le strade, il rumore delle ore diurne si allontanano.
-Una pace sacra scende su di me come rugiada.  
-Cammino nella fresca notte, percorrendo i sentieri del Paradiso;  
-Inalo l’aroma dell’erba, dell’aria umida e dei fiori di rosa.
-La tua canzone risveglia il mio spirito intorpidito; tu mi liberi, mi invii a galleggiare e a rilassarmi sul lago del cielo.
-
-4  
-Suona di nuovo, trombettiere! E per i miei occhi sensuali,  
-Ripresenta quegli antichi spettacoli, mostra il mondo feudale.
-
-Che incanto esercita la tua musica! Mi fai rivivere davanti agli occhi
-dame e cavalieri ormai defunti; i baroni si trovano nelle sale dei loro castelli,
-i menestrelli cantano ancora;
-cavaliere armati partono per redimere ingiustizie, alcuni alla ricerca del Santo Graal;
-vedo i tornei, vedo i contendenti avvolti in pesanti armature,
-seduti su maestosi cavalli da battaglia;
-ascolto gli urli, il rumore dei colpi e dello sferramento di armi;
-vedo le tumultuose armate dei Crociati. Ascolta: come risuonano i cimbali!
-Ecco, là dove i [[characters/monks|monaci]] marciano in testa, portando alta la [[motifs/cross|croce]].
-
-5  
-Suona ancora, trombettista! E per la tua melodia,  
-prendi ora quel tema che tutto avvolge, il solvente e l’elemento che dà forma,  
-l’[[motifs/love|Amore]], quel battito vitale di ogni cosa, quella forza che sostiene e allo stesso tempo provoca dolore.
-Il cuore dell’uomo e della donna è tutto per l’[[motifs/love|amore]];  
-nessun altro tema se non l’[[motifs/love|amore]] – quel legame che unisce, avvolge e diffonde in ogni direzione.
-
-O quanto i fantasmi immortali mi circondano!  
-Vedo l’immenso alambicco che lavora incessantemente; vedo e conosco le fiamme che riscaldano il mondo,  
-il bagliore, il rossore, i cuori che battono forte degli amanti. Alcuni così felici e beati, altri invece silenziosi, oscuri, vicini alla [[motifs/death|morte]].  
-[[motifs/love|Amore]]: è tutto ciò che esiste per gli amanti; l’[[motifs/love|amore]] che deride il tempo e lo spazio.
-[[motifs/love|Amore]], che è giorno e [[motifs/night|notte]]; l’[[motifs/love|amore]], che è sole, luna e stelle.
-[[motifs/love|Amore]], che è rosso sangue, sontuoso, profumato di essenze deliziose.
-Nessun altro termine se non quello di [[motifs/love|amore]]; nessun altro pensiero se non quello dell’[[motifs/love|amore]].
-
-6  
-Suona ancora, trombettiere, evoca i segnali di allarme della guerra.
-
-Rapido come la tua magia, un brivido si diffonde nell’aria, simile al rombo lontano del tuono;  
-Ecco, dove gli uomini armati si affrettano, tra le nuvole di [[motifs/dust|polvere]], il bagliore delle baionette.
-Vedo i cannonieri dal viso sporco, noto i lampi rossi tra il fumo, sento lo scoppio delle armi;  
-Non è solo la guerra, la tua terribile musica, o selvaggio musicista, porta con sé ogni immagine di [[concepts/fear|paura]].
-Gli atti dei briganti spietati, le rapine, gli omicidi, sento le grida d’aiuto!  
-Vedo navi che affondano in mare, vedo sul ponte e sotto coperta scene terribili.
-
-7  
-O trombettista, credo di essere io stesso lo strumento che tu suoni;  
-tu fai sciogliere il mio cuore, il mio cervello, li muovi, li guidi, li trasformi a tuo piacimento.  
-E ora le tue note tetre diffondono oscurità in me;  
-ti porti via ogni luce gioiosa, ogni [[concepts/hope|speranza]].
-Vedo gli schiavi, i rovesciati, coloro che soffrono e sono oppressi su tutta la terra;  
-sento l’umiliazione e la vergogna infinita della mia razza, tutto questo diventa mio.  
-Anche le vendette dell’umanità, gli errori di secoli, le faide e l’odio appartengono ormai a me.
-Sconfitta totale mi colpisce, tutto perduto, il nemico trionfa.
-(Tuttavia, tra le rovine, la [[concepts/pride|Orgoglio]] gigantesca rimane in piedi, immutata fino alla fine, la [[concepts/endurance|Resilienza]], la determinazione, sempre lì.)
-
-
-Ora, trombettiere del mio destino finale,  
-concedimi una melodia più elevata di qualsiasi altra mai esistita;  
-canta per la mia [[motifs/soul|'anima]], rinnova la sua fede ormai languida e la sua speranza;  
-risveglia in me quella debole fede, donami una visione del futuro,  
-fammi conoscere, almeno per una volta, le sue profezie e la sua gioia.
-
-Canto gioioso, esultante, che raggiunge il suo apice!  
-Nelle tue note c’è un vigore che trascende quello della terra;  
-Marcie di vittoria, uomini liberati, il conquistatore finalmente raggiunto.
-Inni al Dio universale, cantati dall’uomo universale, tutta gioia!  
-Una razza rinata appare, un mondo perfetto, tutta gioia!  
-Donne e uomini, nella saggezza, nell’innocenza e nella salute, tutta gioia!  
-Feste gioiose, risate e festeggiamenti pieni di felicità!  
-Guerra, dolore, sofferenza, scomparsi, la terra purificata, solo gioia rimane!  
-L’oceano è colmo di gioia, l’atmosfera intera è un’unica fonte di felicità!  
-Gioia! Gioia nella libertà, nel culto, nell’amore, gioia nell’estasi della vita!  
-Basta semplicemente esistere, basta respirare.
-Gioia! Gioia ovunque!
-
-
-
-<span class="atom-split" data-atom="268_spain_1873_74" data-title="Spain, 1873-74" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,motif/ruins,motif/crown,motif/swords_weapons,concept/democracy,form/ode,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="268_spain_1873_74" data-title="Spain, 1873-74" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_  
@@ -767,28 +503,9 @@ Thou waitest there as everywhere thy [[motifs/time|time]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: DALLA [[motifs/noon|MATTINA]] ALLA NOTTE STELLATA_.  
 
 
-Dalla oscurità delle nuvole più dense,  
-dai relitti feudali e dagli scheletri accumulati dei re,  
-da quei vecchi resti dell’Europa intera – quelle rovine, quelle cattedrali distrutte, i palazzi in rovina, le tombe dei preti –  
-ecco che emergono i tratti della [[concepts/freedom|Libertà]], freschi e intatti; lo stesso volto immortale appare davanti a noi.
-(Un’immagine del volto di tua Madre, Columbia.
-Un bagliore significativo, simile alla lama di una _spada.
-Che splende verso di te.)  
-
-Né pensare che ti abbiamo dimenticata, o madre mia;  
-Sei rimasta nascosta così a lungo. Torneranno forse le nuvole a coprirti di nuovo?  
-Ah, ma ora sei apparsa davanti a noi. Ti riconosciamo,  
-Ci hai dato una prova concreta: quel breve istante in cui ci sei apparsa.
-Aspetti lì, proprio come ovunque il tuo [[motifs/time|tempo]] ti attenda.
-
-
-
-<span class="atom-split" data-atom="277_as_the_time_draws_nigh" data-title="As the Time Draws Nigh" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/death,concept/mortality,concept/self_and_soul,setting/america,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="277_as_the_time_draws_nigh" data-title="As the Time Draws Nigh" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SONGS OF PARTING_
@@ -812,23 +529,9 @@ O [[motifs/soul|soul]], we have positively appear’d--that is enough.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: CANZONI DI ADDIO
 
 
-Man mano che [[motifs/time|il tempo]] si avvicina, una nuvola oscura cala su di me;
-Un terrore ignoto mi avvolge nella sua ombra.
-
-Me ne andrò, attraverserò alcuni Stati per un po’, ma non so dove né per quanto tempo. Forse, un giorno o una [[motifs/night|notte]], mentre canto, la mia voce smetterà improvvisamente di risuonare.
-
-Oh libro, oh canti! Tutto ciò non dovrebbe forse significare soltanto questo?  
-Dobbiamo davvero raggiungere appena questo inizio di noi stessi? – Eppure basta, oh [[motifs/soul|'anima]];  
-Oh [[motifs/soul|'anima]], siamo effettivamente apparsi. Questo è sufficiente.
-
-
-
-<span class="atom-split" data-atom="284_pensive_on_her_dead_gazing" data-title="Pensive on Her Dead Gazing" data-chapter="" data-kind="intro" data-tags="motif/death,motif/nature,motif/grass,motif/blood,concept/war_and_its_cost,concept/immortality,form/elegy,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="284_pensive_on_her_dead_gazing" data-title="Pensive on Her Dead Gazing" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SONGS OF PARTING_  
@@ -863,29 +566,9 @@ Exhale them perennial sweet [[motifs/death|death]], years, centuries hence.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: CANZONI DI ADDIO  
 
 
-Riflettendo sul suo sguardo morto, udii la Madre di Tutti.
-Disperata davanti ai corpi dilaniati, davanti alle forme che coprivano i campi di battaglia.
-(Mentre l’ultima arma taceva, ma il profumo del fumo di polvere aleggiava ancora, )  
-Chiamava la sua terra con voce dolente, mentre camminava tra quei corpi.
-“Assorbi loro bene, o mia terra, ”, gridava. “Non perdere i miei figli. Non perdere nemmeno un atomo di loro, ”  
-Fiumi, assorbi loro bene; prendete il loro prezioso sangue.
-Luoghi, aria, tutto ciò che esiste nel suolo e nella natura, profondità dei fiumi, pendii delle montagne, foreste dove il sangue dei miei cari bambini ha tinto di rosso la terra.
-Alberi, nelle vostre radici, tramandate tutto ciò alle generazioni future.
-I corpi dei miei giovani, il loro prezioso sangue, teneteli per me con fedeltà, e restituiteli a me tra molti anni.
-In essenze invisibili, in odori di erba e terra, tra secoli.
-Nel vento che soffia dai campi di battaglia, ridate-mi i miei cari, i miei eroi immortali.
-Esalateli tra secoli, date loro il vostro respiro, che nessun atomo venga perso.
-Oh anni, oh tombe, oh aria e terra, oh i miei morti, un profumo dolce.
-Esalateli per sempre, in un dolce abbraccio della morte, tra anni, tra secoli.
-
-
-
-<span class="atom-split" data-atom="286_the_sobbing_of_the_bells_midnight_sept_19_20_1881" data-title="The Sobbing of the Bells [Midnight, Sept. 19-20, 1881]" data-chapter="" data-kind="intro" data-tags="motif/bells,motif/death,concept/grief_and_loss,concept/nationalism_and_patriotism,form/elegy,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="286_the_sobbing_of_the_bells_midnight_sept_19_20_1881" data-title="The Sobbing of the Bells [Midnight, Sept. 19-20, 1881]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SONGS OF PARTING_  
@@ -904,17 +587,6 @@ Those heart-beats of a Nation in the [[motifs/night|night]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: CANZONI DI ADDIO  
-
-
-Il pianto delle campane, le notizie improvvisse di morte ovunque;  
-Coloro che dormivano si svegliano, il popolo entra in movimento;  
-(Loro conoscono bene quel messaggio nell’oscurità;  
-Rispondono nel profondo del loro cuore, nella loro mente, a quelle tristi eco, )  
-Il suono appassionato delle campane risuona da una città all’altra, unendo i battiti di un popolo nella notte.
-
 
 
 <span class="atom-split" data-atom="290_portals" data-title="Portals" data-chapter="" data-kind="intro" data-tags="cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -931,17 +603,9 @@ And what are those of life but for [[motifs/death|Death]]?
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: CANZONI DI ADDIO
 
 
-Cosa sono quelle cose che, pur essendo conosciute, devono ancora salire e entrare nell’Ignoto?  
-E cosa sono quelle cose della vita se non in vista della [[motifs/death|Morte]]?
-
-
-
-<span class="atom-split" data-atom="297_to_those_who_ve_fail_d" data-title="To Those Who’ve Fail’d" data-chapter="" data-kind="intro" data-tags="motif/death,motif/fire,concept/heroism,concept/grief_and_loss,form/elegy,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="297_to_those_who_ve_fail_d" data-title="To Those Who’ve Fail’d" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -962,21 +626,9 @@ Quench’d by an early [[motifs/death|death]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-A coloro che hanno fallito nella loro vasta aspirazione,  
-ai soldati sconosciuti caduti in battaglia,  
-agli ingegneri calmi e devoti, ai viaggiatori troppo appassionati, ai piloti delle loro navi.
-A molte canzoni nobili e dipinti rimasti ignorati. Erigerei un monumento incoronato di allori,  
-alto, molto alto rispetto agli altri. A tutti coloro che sono stati strappati alla vita prima del loro tempo,  
-posseduti da uno strano spirito di passione, spenti da una morte prematura.
-
-
-
-<span class="atom-split" data-atom="303_queries_to_my_seventieth_year" data-title="Queries to My Seventieth Year" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_supernatural,concept/mortality,concept/memory_and_time,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="303_queries_to_my_seventieth_year" data-title="Queries to My Seventieth Year" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -994,21 +646,9 @@ Dull, parrot-like and old, with crack’d voice harping, screeching?
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-Avvicinandomi, avvicinandomi sempre di più, con curiosità.
-O spettro pallido e incerto: porti vita o [[motifs/death|morte]]?  
-Forza, debolezza, cecità, ancora paralisi, ancora sofferenza maggiore?  
-Oppure cieli sereni e sole splendente? Riuscirai a muovere queste acque?  
-O forse mi porterai via per sempre. Lasciandomi qui, come sono ora:  
-Stanco, monotono, vecchio, con una voce roca che continua a ripetere le stesse cose, stridula e senza senso.
-
-
-
-<span class="atom-split" data-atom="317_red_jacket_from_aloft" data-title="Red Jacket (From Aloft)" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,archetype/ghost,archetype/outcast_wanderer,motif/ghosts,motif/the_supernatural,motif/nature,concept/nostalgia,form/lyric,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="317_red_jacket_from_aloft" data-title="Red Jacket (From Aloft)" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1029,23 +669,9 @@ Like one of Ossian’s [[motifs/ghosts|ghosts]] looks down.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-Di fronte a questa scena, a questo spettacolo,  
-oggi tutto si è arreso alla moda, allo studio, alla ricchezza;  
-(né, per caso, soltanto per capriccio, – alcuni frammenti di significato profondo, )  
-Forse, lassù in alto, tra le forme miste delle nuvole distanti,  
-come un vecchio albero, una roccia o una scogliera commossa dalla propria “anima”,  
-nasce una figura umana maestosa: indossa una camicia da cacciatore, impugna un fucile;  
-un sorriso, a metà ironico, increspa le sue labbra “fantasma”;  
-sembra uno degli “spiriti” descritti da Ossian che guarda giù.
-
-
-
-<span class="atom-split" data-atom="325_yonnondio" data-title="Yonnondio" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,topos/sic_transit_gloria_mundi,archetype/outcast_wanderer,motif/ghosts,concept/transience,concept/grief_and_loss,form/elegy,histref/american_west,setting/the_american_west,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="325_yonnondio" data-title="Yonnondio" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1072,20 +698,6 @@ Then blank and gone and still, and utterly lost.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Una canzone, un poema a sé stante. La parola stessa diventa una [[forms/dirge|lamentazione]];  
-Tra le lande selvagge, le rocce, la [[motifs/storm|tempesta]] e la fredda [[motifs/night|notte]],  
-le sillabe evocano per me scene nebbiose e strane.
-Yonnondio. Vedo, lontano a ovest o a nord, una valle senza confini, con pianure e montagne oscure;  
-Vedo schiere di forti capi, stregoni e guerrieri che passano come nuvole di [[motifs/ghosts|fantasmi]], scomparendo nel crepuscolo.
-(Nessuna immagine, nessun poema, nessuna parola può trasmetterne l’essenza al futuro, )  
-Yonnondio! Scompaiono senza confini. Oggi lascia il posto a domani; città, fattorie, fabbriche svaniscono.
-Un suono cupo e potente, una parola straziante risuona per un momento nell’aria. Poi tutto scompare, nel silenzio totale.
-
 
 
 <span class="atom-split" data-atom="332_life_and_death" data-title="Life and Death" data-chapter="" data-kind="intro" data-tags="cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -1104,19 +716,9 @@ To ours to-day--and we pass on the same.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_
 
 
-Quei due vecchi e semplici problemi si intrecciavano sempre;
-vicini a [[motifs/home|casa]], elusivi, presenti, enigmatici, oggetto di riflessione e dibattito.
-Con ogni nuova generazione rimanevano irrisolti, continuando ad essere tramandati.
-Fino ai giorni nostri, e anche noi continuiamo a trasmetterli.
-
-
-
-<span class="atom-split" data-atom="335_while_not_the_past_forgetting" data-title="While Not the Past Forgetting" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/rose,concept/war_and_its_cost,concept/grief_and_loss,concept/mercy,concept/nationalism_and_patriotism,form/elegy,histref/american_civil_war,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="335_while_not_the_past_forgetting" data-title="While Not the Past Forgetting" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1133,18 +735,6 @@ Wreaths of roses and branches of palm.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Anche se non si tratta di dimenticare il passato,  
-almeno oggi le contese sono completamente cessate; la pace e la fraternità sono tornate a regnare.  
-In segno di reciproco riconoscimento, le nostre mani, settentrionali e meridionali,  
-posano sui sepolcri di tutti i soldati caduti, sia del Nord che del Sud.  
-(E non solo per il passato, ma anche per dare un significato al futuro.)  
-Ghirlande di rose e rami di palma.
 
 
 
@@ -1164,19 +754,9 @@ non-realities.)
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_
 
 
-Una nebbia vaga avvolgeva metà delle pagine:  
-(A volte, per l’[[motifs/soul|'anima]], è così strano e chiaro  
-che tutte queste cose “solidi” non siano in realtà che apparizioni, concetti,  
-non-realtà.)
-
-
-
-<span class="atom-split" data-atom="372_a_voice_from_death" data-title="A Voice from Death" data-chapter="" data-kind="intro" data-tags="motif/death,motif/water,motif/storm,concept/mortality,concept/providence,concept/self_and_cosmos,form/ode,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="372_a_voice_from_death" data-title="A Voice from Death" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1240,58 +820,9 @@ In which and upon which we float, and every one of us is buoy’d.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
 
 
-Una voce proveniente da [[motifs/death|Morte]], solenne e strana, con tutta la sua forza e potenza.
-Con un colpo improvviso e indescrivibile: città sommerse, migliaia di esseri umani uccisi.
-Il lavoro di anni, i beni, le abitazioni, le fabbriche, le strade, i ponti d’ferro, tutto distrutto in un istante.
-Eppure la vita continua.
-(Nel mezzo di tutto questo caos, tra i detriti che si muovono velocemente e disordinatamente.
-Una donna sofferente viene salvata. Un bambino nasce sano e salvo, )  
-
-Anche se vengo annunciato con orrore e dolore,  
-tra inondazioni torrenziali, [[motifs/fire|fuoco]] e distruzione totale causata dagli elementi,  
-questa voce così solenne e strana, anch’io sono un messaggero della Divinità.  
-
-Sì, [[motifs/death|Morte]], chiniamo il capo davanti a te, copriamo i nostri occhi per te;  
-piangiamo i vecchi, i giovani che sono stati strappati prematuramente alla vita,  
-le belle donne, gli uomini forti, i buoni, i capaci.
-Le famiglie distrutte, i mariti e le mogli perduti. Il fabbro sommerso nella sua fucina.
-I corpi nelle acque inondate e nel fango.
-Migliaia di persone radunate intorno alle loro tombe. E migliaia altre che non sono mai state trovate o sepolte.  
-
-Poi, dopo aver sepolto i morti e pianto per loro,  
-(fedeli a loro, che fossero stati trovati o no, senza dimenticare il passato, riflettendo nuovamente su tutto),  
-arriva un giorno, un momento fugace, un’ora. E persino [[settings/america|America]] stessa si piega in segno di rispetto,  
-in silenzio, sottomessa.  
-
-Guerra, [[motifs/death|morte]], catastrofi del genere. [[settings/america|America]],  
-Rifletti bene nel tuo cuore orgoglioso e prospero.  
-
-Anche mentre canto, ecco: fuori dalla [[motifs/death|morte]], e dal fango e dalla melma,  
-i fiori sbocciano rapidamente; compassione, aiuto, [[motifs/love|amore]],  
-dal Nord al Sud, dall’Ovest all’Est, persino oltre i mari,  
-i loro cuori ferventi e le loro mani spingono l’umanità ad aiutarsi a vicenda;  
-e tutto ciò nasce da un semplice pensiero e da una semplice lezione.  
-
-O Globo eterno e instancabile, che attraversi lo Spazio e l’Aria!  
-O acque che ci circondano da ogni parte!  
-O tu che esisti in tutta la nostra vita e nella nostra morte, sia nell’azione che nel sonno!  
-O leggi invisibili che permeano tutto ciò che esiste!  
-O forza immensa, universale, incessante, che domina su tutto!  
-Tu, tu che tieni l’Umanità tra le tue mani, come un giocattolo effimero.
-Come sarebbe mai possibile dimenticarti!  
-
-Perché anch'io ho dimenticato,  
-avvolto in queste piccole forze del progresso: politica, cultura, ricchezza, invenzioni, civiltà.
-Ho perso la consapevolezza del vostro potere silenzioso e costante; voi, forze potenti ed elementari, su cui e dentro cui fluttuiamo tutti noi.
-
-
-
-<span class="atom-split" data-atom="375_mirages" data-title="Mirages" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/memory,motif/dawn,motif/death,concept/appearance_vs_reality,concept/the_uncanny,form/free_verse,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="375_mirages" data-title="Mirages" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1321,31 +852,9 @@ Or plainly there to the left on the [[motifs/hill|hill]]-tops.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
 
 
-Più esperienze e scene strane di quanto si possa immaginare;  
-Spesso, soprattutto dopo l’alba o prima del tramonto;  
-A volte in primavera, più spesso in autunno, con tempo perfettamente sereno,  
-Visibili chiaramente.
-Campi lontani o vicini, le affollate strade delle città e i negozi.
-Che ci crediate o no, che lo attribuiate a qualcosa o meno, è tutto vero;  
-Anche il mio compagno potrebbe raccontarvi le stesse cose. Ne abbiamo parlato molte volte.  
-Persone, scene, [[motifs/animals|animali]], alberi, colori. Tutto così chiaro e evidente.
-Fattorie, cortili di case, sentieri bordati di piante, lillà negli angoli.
-Matrimoni in chiesa, cene di ringraziamento, ritorni di figli lontani da casa.
-Cerimonie funebri tristi, madri e figlie vestite a lutto.
-Processi in tribunale, giuria e giudice, l’imputato nel banco degli imputati.
-Concorrenze, battaglie, folle, ponti, moli.
-Di tanto in tanto, volti segnati dal dolore o dalla gioia.
-Potrei riconoscerli anche ora, se li vedessi di nuovo.
-Mi sono stati mostrati. Proprio lì, all’orizzonte. O chiaramente a sinistra, sulla cima della collina.
-
-
-
-<span class="atom-split" data-atom="376_l_of_g_s_purport" data-title="L. of G.’s Purport" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/death,concept/mortality,concept/immortality,concept/the_artist_and_society,form/free_verse,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="376_l_of_g_s_purport" data-title="L. of G.’s Purport" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1371,25 +880,3 @@ Draws sometimes close to me, as face to face.
 
 
 
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Non per escludere, separare o individuare i mali dalle loro formidabili masse (anche solo per esporli),  
-ma per aggiungere, fondere, completare, estendere, e celebrare ciò che è immortale e buono.  
-Maestosa questa canzone, nelle sue parole e nel suo ambito,  
-in grado di abbracciare vaste dimensioni dello spazio e del [[motifs/time|tempo]],  
-l’evoluzione, la crescita cumulativa, le generazioni che seguono.  
-
-Iniziato nella maturità e portato avanti con costanza,  
-vagando, osservando, indugiando su tutto, guerra, pace, giorno e [[motifs/night|notte]],  
-assorbendone ogni aspetto,  
-senza mai abbandonare il mio compito nemmeno per un breve istante,  
-lo termino ora, nella malattia, nella [[concepts/poverty|povertà]] e nell’età avanzata.  
-
-Canto della vita, ma pensa bene anche alla [[motifs/death|morte]]:
-Oggi, l’ombra sinistra della [[motifs/death|morte]] segue i miei passi, la mia figura seduta. Da anni ormai,
-A volte si avvicina a me, quasi faccia a faccia.

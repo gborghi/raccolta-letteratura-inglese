@@ -14,8 +14,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#007_the_nose|THE NOSE (Coleridge)]]
-- [[testi/dickinson/atomized/sun-light-and-dark-fire#1132_the_smouldering_embers_blush|1132. The smouldering embers blush — (Dickinson)]]
+- [[works/the-nose-(coleridge)|THE NOSE (Coleridge)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire--poems#e_smouldering_embers_blush|1132. The smouldering embers blush — (Dickinson)]]
 - [[works/hyperion-(keats)|Hyperion (Keats)]]
 
 </div>

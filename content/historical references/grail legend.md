@@ -18,7 +18,7 @@ tags:
 - [[works/notes-on-the-waste-land-(eliot)|Notes on the Waste Land (Eliot)]]
 - [[works/the-waste-land-1922-(eliot)|THE WASTE LAND 1922 (Eliot)]]
 - [[works/v.-what-the-thunder-said-(eliot)|V. What the Thunder said (Eliot)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#257_the_mystic_trumpeter|The Mystic Trumpeter (Whitman)]]
+- [[works/the-mystic-trumpeter-(whitman)|The Mystic Trumpeter (Whitman)]]
 
 </div>
 

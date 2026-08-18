@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/satire-of-society-epigram-satire" data-author="Keats" data-workhref="works/satire-of-society-·-epigram-·-satire-(keats)"></div>
 
 
-<span class="atom-split" data-atom="024_addressed_to_haydon" data-title="ADDRESSED TO HAYDON" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/the_artist_and_society,concept/friendship,concept/heroism,form/sonnet,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+ADDRESSED TO HAYDON · Sonnet: Before he went to feed with owls and bats · On Oxford A Parody · Modern Love · Folly’s Song · The Gadfly · Sonnet on Hearing the Bagpipe and · Ben Nevis - a Dialogue · Ode on Indolence · A Party of Lovers
+
+
+
+
+<span class="atom-split" data-atom="024_addressed_to_haydon" data-title="ADDRESSED TO HAYDON" data-chapter="" data-kind="intro"></span>
 
 
 Highmindedness, a [[concepts/jealousy|jealousy]] for good,  
@@ -30,26 +35,9 @@ Unnumber’d souls breathe out a still applause,
   Proud to behold him in his country’s eye.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Altezza d’animo, una [[concepts/jealousy|gelosia]] del bene,  
-  un amore benigno per la fama del grande,  
-  dimora qua e là fra gente senza nome,  
-in vicoli fetidi e in boschi senza sentiero:  
-e dove crediamo la [[concepts/truth|verità]] meno intesa,  
-  spesso si trova una “unicità di scopo”  
-  che dovrebbe atterrire, in vergogna incappucciata,  
-una razza pietosa, mercantessa di denaro.  
-Com’è gloriosa questa passione per la causa  
-  del genio fermo, che si affanna con valore!  
-E quando un campione saldo, inflessibile, sgomenta  
-  l’Invidia e la Malizia fin dentro il porcile natio?  
-Anime innumerevoli esalano un applauso silenzioso,  
-  fiere di vederlo sotto lo sguardo del suo paese.
 
 
-
-<span class="atom-split" data-atom="056_sonnet_before_he_went_to_feed_with_owls_and_bats" data-title="Sonnet: Before he went to feed with owls and bats" data-chapter="" data-kind="intro" data-tags="archetype/king,archetype/prophet,motif/dreams,motif/animals,concept/satire_of_society,concept/madness,form/sonnet,form/satire,histref/the_bible,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="056_sonnet_before_he_went_to_feed_with_owls_and_bats" data-title="Sonnet: Before he went to feed with owls and bats" data-chapter="" data-kind="intro"></span>
 
 
 Before he went to feed with owls and bats  
@@ -69,27 +57,9 @@ Can make the lying lips turn pale of hue
 By belching out ‘ye are that head of gold.’  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Prima di andare a pascere con gufi e pipistrelli  
-Nabucodonosor fece un brutto sogno,  
-peggiore di quello d’una massaia quando crede la sua panna  
-diventata una naumachia per topi e ratti.  
-Atterrito, mandò a chiamare quel ‘buon [[archetypes/king|Re]] dei Gatti’  
-il giovane Daniele, che presto gli cavò la trave  
-dall’occhio, e disse che non stimava  
-lo scettro più d’una paglia - i suoi cuscini, vecchi zerbini.  
-Un orrido incubo press’a poco simile  
-ha infestato di recente una brigata assai variopinta,  
-10  
-per lo più zucconi e merciai - ci si dice  
-che un Daniele qualunque, fosse pure un beone,  
-sa far impallidire le labbra bugiarde  
-ruttando ‘voi siete quella testa d’oro.’
 
 
-
-<span class="atom-split" data-atom="067_on_oxford_a_parody" data-title="On Oxford A Parody" data-chapter="" data-kind="intro" data-tags="motif/ruins,motif/bells,motif/food_feasting,concept/satire_of_society,form/parody,form/satire,setting/oxford,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="067_on_oxford_a_parody" data-title="On Oxford A Parody" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -117,35 +87,9 @@ Short is the benison, -
 Then each on a leg or thigh fastens.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I  
-Il gotico ha un’aria solenne,  
-la nuda colonna dorica  
-regge un vecchio Vescovo e il Pastorale;  
-l’arco che si sgretola,  
-ombreggiato da un larice,  
-sta porta a porta con Wilson il Calzettaio.  
-
-II  
-Vicè - cioè, a turno, -  
-sui volti pallidi porta lutto  
-il tocco nero a nappa e il cappello comune;  
-il ragazzo della cantoria canta,  
-la campana del campanile suona,  
-e quanto al Cancelliere - dominat.  
-
-III  
-Ci sono alberi in quantità,  
-e agi in quantità,  
-e in quantità grassi cervi per i parroci:  
-e quando è selvaggina,  
-breve è la benedizione, -  
-poi ognuno azzanna una coscia o un cosciotto.
 
 
-
-<span class="atom-split" data-atom="069_modern_love" data-title="Modern Love" data-chapter="" data-kind="intro" data-tags="archetype/femme_fatale,motif/money_gold,concept/satire_of_society,concept/love_romantic,concept/appearance_vs_reality,form/satire,histref/ancient_rome,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="069_modern_love" data-title="Modern Love" data-chapter="" data-kind="intro"></span>
 
 
 And what is [[motifs/love|love]]? It is a doll dress’d up  
@@ -167,29 +111,9 @@ The [[characters/queen|Queen]] of [[settings/egypt|Egypt]] melted, and I’ll sa
 That ye may [[motifs/love|love]] in spite of beaver hats.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-E che cos’è l’[[motifs/love|amore]]? È una bambola agghindata  
-perché l’ozio la vezzeggi, la [[characters/nurse|nutra]] e la culli;  
-una cosa di molli nomi impropri, tanto divina  
-che la sciocca gioventù crede di farsi  
-divina amando, e séguita così  
-a sbadigliare e a spasimare per un’intera [[motifs/summer|estate]],  
-finché il pettine della Signorina diventa un diadema di perle  
-e i comuni stivaletti Wellington si fanno stivali di [[characters/romeo|Romeo]];  
-allora [[characters/cleopatra|Cleopatra]] abita al numero sette,  
-e Antonio risiede in Brunswick Square.  
-Sciocchi! se alte passioni hanno scaldato il mondo,  
-se Regine e Soldati hanno giocato forte per dei cuori,  
-non è ragione perché simili agonie  
-siano più comuni del crescere delle erbacce.  
-Sciocchi! rifatemi intera quella perla pesante  
-che la [[characters/queen|Regina]] d’[[settings/egypt|Egitto]] sciolse, e dirò  
-che potete [[motifs/love|amare]] a dispetto dei cappelli di castoro.
 
 
-
-<span class="atom-split" data-atom="086_follys_song" data-title="Folly’s Song" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/food_feasting,concept/satire_of_society,concept/joy,form/song,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="086_follys_song" data-title="Folly’s Song" data-chapter="" data-kind="intro"></span>
 
 
 When wedding fiddles are a-playing,  
@@ -216,34 +140,9 @@ Huzza for folly O!
 ...  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quando i violini delle nozze strimpellano,  
-urrà per la follia, oh!  
-
-E quando le fanciulle vanno a coglier maggio,  
-urrà per la follia, oh!  
-Quando un secchio di latte si rovescia,  
-urrà per la follia, oh!  
-e i panni restano nel bagnato,  
-urrà per la follia, oh!  
-Quando la botte viene spillata,  
-urrà per la follia, oh!  
-Quando Kate Eyebrow tiene carrozza,  
-urrà per la follia, oh!  
-Quando il porco è troppo arrostito,  
-urrà per la follia, oh!  
-e il formaggio troppo abbrustolito,  
-urrà per la follia, oh!  
-Quando Sir Snap è dal suo avvocato,  
-urrà per la follia, oh!  
-e Miss Chip ha baciato il segatore,  
-urrà per la follia, oh!  
-...
 
 
-
-<span class="atom-split" data-atom="105_the_gadfly" data-title="The Gadfly" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/animals,concept/satire_of_society,form/satire,form/song,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="105_the_gadfly" data-title="The Gadfly" data-chapter="" data-kind="intro"></span>
 
 
 From a Letter to Tom Keats  
@@ -333,97 +232,9 @@ I I leave ‘withouten wordes mo’
 The Gadfly’s little sting.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Da una lettera a Tom Keats  
-
-I  
-Voi tutti, brava gente, che portate rancore  
-a una qualsiasi cosa viva,  
-aprite gli orecchi e fermate il passo  
-mentre io canto stizzito.  
-
-II  
-Il Tafano m’ha punto di brutto -  
-oh, che non punga mai voi!  
-Ma di seccatori orrendi ne abbiamo tanti  
-che può pungere fino al livido.  
-
-III  
-C’è qui qualcuno con una vecchia Cavalla grigia  
-che di gambe ne ha in tutto tre?  
-Oh, applicatelo alle sue nude Natiche  
-e correrà subito su quattro.  
-
-IV  
-C’è qui qualcuno con una causa d’Avvocato  
-del Millesettecentoquarantatré?  
-Prendete il naso dell’Avvocato e mettetecelo sopra  
-e ne vedrete la fine.  
-
-V  
-C’è un Uomo in Parlamento  
-rimasto senza parole nel discorso?  
-Oh, che il vicino gli faccia uno strappo  
-e gliene infili uno nei calzoni.  
-
-VI  
-O Lowther, quanto meglio avresti  
-figurato l’altro giorno  
-quando alla gente facesti un inchino  
-e non avevi altro da dire  
-
-VII  
-se un Tafano fortunato avesse preso  
-il suo posto....  
-e t’avesse dato un po’ di [[motifs/pain|pena]]  
-per salvarti da una peggiore.  
-
-VIII  
-Sarebbe stato meglio di Southey,  
-meglio del signor D — ,  
-meglio anche di Wordsworth, credo,  
-meglio del signor V — ,  
-
-IX  
-Perdonatemi, vi prego, brava gente tutta,  
-se così divago -  
-in ispirito, certo, avevo una chiamata -  
-e ora tiro avanti.  
-
-X  
-C’è qui qualcuno con una bella figliola  
-troppo ghiotta di romanzi,  
-troppo pronta a [[motifs/love|innamorarsi]] degli affanni  
-e degli affascinanti signor Lovel,  
-
-XI  
-oh, mettete un Tafano su quella cosa  
-che tiene così bianca e sfrontata -  
-voglio dire il dito da anello,  
-e le farà venire una verruca.  
-
-XII  
-C’è qui qualcuno con una pia consorte  
-che sette volte al giorno  
-sgrida come il [[archetypes/king|Re]] Davide pregava, per gabbare  
-e averla vinta a modo suo, santamente -  
-
-XIII  
-oh, che la piccola puntura d’un Tafano  
-persuada la sua sacra lingua  
-che i rumori sono cosa comune.  
-Ma che la sua campana ha suonato.  
-
-XIV  
-E poiché questo è il summum bo-  
-num d’ogni conquista,  
-lascio ‘sanza più parole’  
-la piccola puntura del Tafano.
 
 
-
-<span class="atom-split" data-atom="106_sonnet_on_hearing_the_bagpipe_and" data-title="Sonnet on Hearing the Bagpipe and" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/satire_of_society,form/sonnet,form/satire,setting/scotland,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="106_sonnet_on_hearing_the_bagpipe_and" data-title="Sonnet on Hearing the Bagpipe and" data-chapter="" data-kind="intro"></span>
 
 
 Seeing ‘The Stranger’ Played at Inverary  
@@ -443,27 +254,9 @@ Alas! I could not choose. Ah! my poor heart.
 Mum chance art thou with both oblig’d to part.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-vedendo rappresentato ‘Lo Straniero’ a Inverary  
-Di recente due leccornie mi furono poste dinanzi  
-dolci, sante, pure, sacre e [[archetypes/innocent|innocenti]],  
-dalla nona sfera benignamente mandate  
-perché gli Dèi conoscessero il mio gusto particolare:  
-prima la molle Cornamusa si dolse con zelante fretta,  
-poi lo Straniero, col capo chino sul petto,  
-sospirò; di nuovo dolente andò la pietosa Cornamusa,  
-di nuovo lo Straniero sprecò sospiri freschi.  
-O Cornamusa, tu mi rubasti il cuore -  
-o Straniero, tu strappasti d’incanto i miei nervi alla Piva - 10  
-o Cornamusa, tu riaffermasti il tuo dominio -  
-di nuovo tu, Straniero, mi desti nuovo allarme -  
-Ahimè! non potevo scegliere. Ah! povero cuore mio.  
-Muto e sbigottito, da entrambi ti tocca separarti.
 
 
-
-<span class="atom-split" data-atom="109_ben_nevis_-_a_dialogue" data-title="Ben Nevis - a Dialogue" data-chapter="" data-kind="intro" data-tags="topos/the_sleeper_awakes,motif/the_supernatural,concept/the_grotesque,concept/lust,concept/satire_of_society,setting/scotland,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="109_ben_nevis_-_a_dialogue" data-title="Ben Nevis - a Dialogue" data-chapter="" data-kind="intro"></span>
 
 
 [Persons: MRS CAMERON and BEN NEVIS]  
@@ -560,104 +353,9 @@ Safe on the lowly ground she bless’d her fate
 That fainting fit was not delayed too late.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-[Personaggi: MRS CAMERON e BEN NEVIS]  
-
-MRS CAMERON  
-Sulla mia vita, Sir Nevis, sono piccata  
-d’aver tanto ansimato, arrancato e sudato  
-per fare [[concepts/honour|onore]] alla vostra vecchia zucca pelata,  
-e ora di starvi seduta sopra solo per prender fiato,  
-senza che mi paghiate un solo complimento.  
-Ahimè, è così con tutti: quando il nostro intento  
-è chiaro, e sotto gli occhi di tutto il Genere umano  
-noi belle mostriamo una preferenza, troppo cieche!  
-voi gentiluomini subito voltate la coda -  
-oh, lasciate dunque ch’io pianga il mio infelice destino!  
-10  
-Ingrato pelatone, non ho forse disdegnato  
-le valli amene - non ho forse, testa matta,  
-abbandonato tutti i miei sottaceti e le conserve,  
-e anche la credenza delle porcellane - con nervi miserabili  
-per giunta - dimmi, misero ingrato, non ho forse  
-lasciato la mia poltrona imbottita e il pentolino del decotto?  
-È vero, calli non ne avevo - no! grazie ai fati,  
-il mio calzolaio è sempre stato il signor Bates.  
-E se non il signor Bates, ebbene, non sono vecchia!  
-Ancora muto, ingrato Nevis - ancora così freddo!  
-20  
-
-Qui la Signora prese dell’altro whisky e ne stava portando ancora alle  
-labbra quando lo scagliò a terra, perché la montagna cominciò a  
-brontolare - e continuò per qualche minuto, prima che così cominciasse,  
-
-BEN NEVIS  
-Quale piagnucoloso pezzo di lingua e di bocca osa così  
-turbare il mio sopore di mille anni?  
-Da altrettanto tempo il mio [[motifs/sleep|sonno]] è stato sicuro -  
-e non sopporterò d’essere svegliato a questo modo.  
-Oh [[motifs/pain|pena]] - ché dal primo strido dell’aquila  
-ho fatto un dannato, maledetto brutto sogno,  
-un incubo di sicuro. Come, Madama, eravate voi?  
-Non può essere! I miei vecchi occhi non dicono il vero!  
-Red-Crag, i miei occhiali! Ora lasciate che veda!  
-Santi Numi, Signora, come diamine  
-30  
-siete arrivata quassù? Oh, mi si spaccano i fianchi!  
-Farò un terremoto —  
-Dolce Nevis, non tremare, ché per quanto io [[motifs/love|ami]]  
-il vostro onesto volto sopra ogni cosa,  
-in verità non vorrei essere trasportata  
-così addentro nel vostro seno - una fanciulla gentile  
-non ama un trattamento troppo rude, gentile Signore —  
-vi prego, calmatevi, non tremate né vi muovete,  
-nemmeno una pietra, o mi verranno le convulsioni -  
-Devo - voglio - non m’imbatto in simili bocconcini -  
-40  
-non incontro creature così dolci ogni giorno -  
-per la mia vecchia berretta da [[motifs/night|notte]], berretta notte e dì,  
-devo avere un bacio dolce - devo e voglio!  
-Red-Crag! - Come, Madama, potete dunque pentirvi  
-di tutta la fatica e del vigore che avete speso  
-per vedere Ben Nevis e toccargli il naso?  
-Red-Crag, dico! Oh, devo averli vicini!  
-Red-Crag, sotto il mio alluce più lontano giace  
-una vena di zolfo - va’, caro Red-Crag, va’ -  
-e sfregaci contro il tuo dorso di selce - muoviti!  
-50  
-Cara Madama, devo baciarvi, in [[concepts/faith|fede]] mia, devo!  
-Devo abbracciarvi col mio più caro gusto!  
-Testa di legno, mi senti - Testa di legno,” glielo farò sentire -  
-sotto il tallone settentrionale della mia gamba orientale giace  
-una [[motifs/cave|caverna]] di giovani draghi di terra - [[motifs/well|bene]], ragazzo mio,  
-vacci svelto e completa così la mia gioia;  
-prendi un fascio dei pini più grandi  
-e quando il sole splende del fosforo più feroce  
-[[motifs/fire|incendiali]] e ficcali nel nido dei draghi,  
-allora i draghi friggeranno e sfrigoleranno al meglio  
-60  
-finché diecimila, ora non più grossi  
-di poveri alligatori - povere cose d’una spanna -  
-gonfieranno ciascuno a venti volte la mole  
-d’una balena del nord - e allora, al tenero premio -  
-il momento, allora - ché allora Red-Crag sfregherà  
-il suo dorso di selce - e io bacerò e stringerò  
-e premerò il mio delicato bocconcino al petto.  
-Testa di legno, spicciati!  
-O Muse, piangete il resto -  
-la signora svenne ed egli la credette morta,  
-così si tirò di nuovo le nuvole intorno al capo  
-70  
-
-e tornò a [[motifs/sleep|dormire]] - presto lei fu destata  
-dai suoi servi atterriti - il giorno dopo, alloggiata  
-al sicuro sulla terra bassa, benedisse la sua sorte  
-che quello svenimento non fosse tardato troppo.
 
 
-
-<span class="atom-split" data-atom="119_ode_on_indolence" data-title="Ode on Indolence" data-chapter="" data-kind="intro" data-tags="motif/masks_disguise,concept/indolence,concept/the_artist_and_society,concept/ambition,concept/love_romantic,form/ode,histref/greek_mythology,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="119_ode_on_indolence" data-title="Ode on Indolence" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -734,84 +432,9 @@ Vanish, ye Phantoms! from my idle spright,
 Into the clouds, and never more return!  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I  
-Non faticano, né filano.  
-Un mattino mi apparvero tre figure,  
-col collo chino, le mani congiunte, di profilo;  
-e l’una dietro l’altra avanzavano serene,  
-in placidi sandali, ornate di bianche vesti;  
-passarono, come figure su un’urna di marmo  
-quando la si gira per vederne l’altro lato;  
-tornarono; come quando l’urna ancora una volta  
-è girata, e le ombre viste per prime ritornano;  
-ed erano estranee a me, come può accadere  
-coi vasi, a chi è versato nella scienza di Fidia.  
-
-II  
-Com’è, o Ombre, che non vi riconobbi?  
-Come giungeste velate in maschera così silenziosa?  
-Era un tacito complotto ben travestito  
-per involarvi e lasciare senza un compito  
-i miei giorni oziosi? Matura era l’ora sonnolenta;  
-la beata nube d’[[motifs/summer|estiva]] [[concepts/indolence|indolenza]]  
-intorpidiva i miei occhi; il polso si faceva sempre più fioco;  
-il [[motifs/pain|Dolore]] non aveva pungiglione, né fiore la ghirlanda del piacere:  
-oh, perché non vi dissolveste, lasciando il mio senso  
-libero d’ogni assillo tranne - il nulla?  
-
-III  
-Una terza [[motifs/time|volta]] passarono, e passando volsero  
-ciascuna il viso un momento verso di me;  
-poi svanirono, e ardevo di seguirle  
-e spasimavo per delle ali, perché le conoscevo tutte e tre;  
-la prima era una bella Fanciulla, e [[motifs/love|Amore]] il suo nome;  
-la seconda era l’[[concepts/ambition|Ambizione]], pallida di guancia,  
-e sempre vigile con l’occhio affaticato;  
-l’ultima, che [[motifs/love|amo]] tanto più quanto più biasimo  
-le si ammucchia addosso, vergine indocilissima, -  
-la riconobbi: era la mia demone, Poesia.  
-
-IV  
-Svanirono, e, in verità, volevo delle ali:  
-oh follia! Che cos’è l’[[motifs/love|amore]]! e dov’è?  
-E quanto a quella povera [[concepts/ambition|Ambizione]]! scaturisce  
-dal breve accesso di febbre d’un piccolo cuore d’uomo;  
-quanto a Poesia! - no, - non ha una gioia, -  
-almeno per me, - dolce quanto i sonnolenti meriggi  
-e le sere intrise di [[concepts/indolence|indolenza]] mielata;  
-oh, avere un’età così riparata dal fastidio  
-da non sapere mai come mutino le lune,  
-né udire la voce dell’indaffarato buonsenso!  
-
-V  
-E ancora una volta passarono; - ahimè! perché?  
-Il mio [[motifs/sleep|sonno]] era stato ricamato di [[motifs/dreams|sogni]] fiochi;  
-la mia [[motifs/soul|anima]] era stata un prato cosparso  
-di [[motifs/flowers|fiori]], d’ombre inquiete e di raggi confusi:  
-il mattino era nuvoloso, ma non cadde pioggia,  
-benché alle sue palpebre pendessero le dolci [[motifs/tears|lacrime]] di maggio;  
-la finestra aperta premeva contro una vite dalle foglie nuove,  
-lasciava entrare il tepore in boccio e il canto del tordo;  
-o Ombre! era il [[motifs/time|momento]] di dire addio!  
-Sulle vostre vesti non era caduta una sola [[motifs/tears|lacrima]] mia.  
-
-VI  
-E dunque, o tre [[motifs/ghosts|Fantasmi]], addio! Non potete sollevare  
-il mio capo adagiato al fresco nell’erba fiorita;  
-ché non vorrei essere nutrito di lodi,  
-un [[motifs/lamb|agnellino]] domestico in una farsa sentimentale!  
-Svanite dolcemente dai miei occhi, e siate ancora  
-figure da [[forms/masque|mascherata]] sull’urna sognante;  
-addio! Ho ancora visioni per la [[motifs/night|notte]],  
-e per il giorno c’è scorta di visioni tenui;  
-svanite, o Fantasmi, dal mio spirito ozioso,  
-nelle nuvole, e non tornate mai più!
 
 
-
-<span class="atom-split" data-atom="132_a_party_of_lovers" data-title="A Party of Lovers" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/satire_of_society,concept/love_romantic,form/satire,form/narrative_poem,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="132_a_party_of_lovers" data-title="A Party of Lovers" data-chapter="" data-kind="intro"></span>
 
 
 ‘A few Nonsense Verses’ sent in a Letter to George Keats  
@@ -842,35 +465,3 @@ O O pardon me. I’m absent now and then.
 Where might my tailor live? I say again  
 I I cannot tell, let me no more be teased ;  
 He lives in Wapping, might live where he pleased.  
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-‘Alcuni versi senza senso’ inviati in una lettera a George Keats  
-
-Pensosi siedono, e volgono gli occhi languidi,  
-sbocconcellano il pane tostato e raffreddano il tè coi sospiri ;  
-oppure dimenticano lo scopo della [[motifs/night|serata]],  
-dimenticano il tè, dimenticano l’appetito.  
-Guarda, siedono a braccia [[motifs/cross|incrociate]] - ah! brigata felice,  
-il [[motifs/fire|fuoco]] si sta spegnendo e nessuno suona  
-per il carbone, e perciò Betty non porta carbone.  
-C’è una mosca nel bricco del latte. Deve morire  
-circondata da una società umanitaria?  
-No, no; ecco, il signor Werter prende il cucchiaio,  
-10  
-lo immerge, tuffa il manico, ed ecco! presto  
-la piccola randagia, salvata da oscuri pericoli,  
-traccia sul vassoio del tè una lunga scia bagnata.  
-
-[[characters/romeo|Romeo]]! Àlzati, prendi lo smoccolatoio per il manico,  
-c’è un grosso cavolfiore in ogni candela.  
-Un sudario - ahimè! devo andarmene  
-al n. 7, appena oltre l’allegra rotonda.’  
-Ahimè, amico mio, la vostra giacca cade molto [[motifs/well|bene]] ;  
-dove abiterà il vostro sarto? Non posso dirlo.  
-Oh, perdonatemi. Ogni tanto sono distratto.  
-20  
-Dove abiterebbe il mio sarto? Lo ripeto,  
-non posso dirlo, non mi si stuzzichi più ;  
-abita a Wapping, potrebbe abitare dove gli pare.

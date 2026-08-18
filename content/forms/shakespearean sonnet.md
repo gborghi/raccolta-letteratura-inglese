@@ -14,7 +14,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#075_sonnet_when_i_have_fears_that_i_may_cease_to_be|Sonnet When I have fears that I may cease to be (Keats)]]
+- [[works/sonnet-when-i-have-fears-that-i-may-cease-to-be-(keats)|Sonnet When I have fears that I may cease to be (Keats)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_001|Sonnet 1 (Shakespeare)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_010|Sonnet 10 (Shakespeare)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_100|Sonnet 100 (Shakespeare)]]

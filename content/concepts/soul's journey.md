@@ -14,9 +14,9 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#245_a_noiseless_patient_spider|A Noiseless Patient Spider (Whitman)]]
-- [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#235_darest_thou_now_o_soul|Darest Thou Now O Soul (Whitman)]]
-- [[testi/whitman/atomized/journey-ship#230_passage_to_india|Passage to India (Whitman)]]
+- [[works/a-noiseless-patient-spider-(whitman)|A Noiseless Patient Spider (Whitman)]]
+- [[works/darest-thou-now-o-soul-(whitman)|Darest Thou Now O Soul (Whitman)]]
+- [[works/passage-to-india-(whitman)|Passage to India (Whitman)]]
 
 </div>
 

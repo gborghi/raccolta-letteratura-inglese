@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/joy-animals-comic-verse-song" data-author="Coleridge" data-workhref="works/joy-·-animals-·-comic-verse-song-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="005_julia" data-title="JULIA" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/love_romantic,concept/marriage_and_fidelity,concept/grief_and_loss,form/mock_epic,form/heroic_couplet,form/satire,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+JULIA · DEVONSHIRE ROADS · DOMESTIC PEACE · THE OLD MAN OF THE ALPS · TO A YOUNG LADY · RECANTATION · THE DEVIL’S THOUGHTS · LETTER, JULY 19, 1802. · ANSWER TO A CHILD’S QUESTION · AN ANGEL VISITANT · HUNTING SONG · THE DELINQUENT TRAVELLERS · TO T. POOLE: AN INVITATION · SONG TO BE SUNG BY THE LOVERS OF ALL THE NOBLE LIQUORS COMPRISED UNDER THE NAME OF ALE · DRINKING VERSUS THINKING · SCHILLER · SUSETTE
+
+
+
+
+<span class="atom-split" data-atom="005_julia" data-title="JULIA" data-chapter="" data-kind="intro"></span>
 
 
 IN [[characters/christ|CHRIST]]’S HOSPITAL BOOK  
@@ -93,7 +98,7 @@ perse a un tempo l’[[archetypes/lover|Amante]] e il Cagnolino.
 
 
 
-<span class="atom-split" data-atom="028_devonshire_roads" data-title="DEVONSHIRE ROADS" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,motif/the_road,motif/the_journey,form/parody,form/ode,setting/rural_england,character/satan,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="028_devonshire_roads" data-title="DEVONSHIRE ROADS" data-chapter="" data-kind="intro"></span>
 
 
 The indignant Bard composed this furious ode,  
@@ -153,7 +158,7 @@ posarsi su di te, dannata Palude!
 
 
 
-<span class="atom-split" data-atom="073_domestic_peace" data-title="DOMESTIC PEACE" data-chapter="" data-kind="intro" data-tags="topos/beatus_ille,topos/pastoral_retreat,motif/memory,motif/bells,concept/joy,form/song,histref/the_french_revolution,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="073_domestic_peace" data-title="DOMESTIC PEACE" data-chapter="" data-kind="intro"></span>
 
 
 FROM ‘THE FALL OF ROBESPIERRE’, ACT I, L. 210  
@@ -195,7 +200,7 @@ la [[motifs/memory|Memoria]], [[motifs/spring|fonte]] intima di gioia.
 
 
 
-<span class="atom-split" data-atom="150_the_old_man_of_the_alps" data-title="THE OLD MAN OF THE ALPS" data-chapter="" data-kind="intro" data-tags="motif/storm,concept/grief_and_loss,concept/war_and_its_cost,concept/madness,concept/faith,concept/love_romantic,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="150_the_old_man_of_the_alps" data-title="THE OLD MAN OF THE ALPS" data-chapter="" data-kind="intro"></span>
 
 
 Stranger! whose eyes a look of pity shew,  
@@ -483,7 +488,7 @@ NICIAS ERYTHRAEUS.
 
 
 
-<span class="atom-split" data-atom="151_to_a_young_lady" data-title="TO A YOUNG LADY" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/birds,concept/joy,concept/mortality,concept/faith,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="151_to_a_young_lady" data-title="TO A YOUNG LADY" data-chapter="" data-kind="intro"></span>
 
 
 [MISS [[characters/lavinia|LAVINIA]] POOLE] ON HER RECOVERY FROM A FEVER  
@@ -537,7 +542,7 @@ e il Cielo ne trabocca!   20
 
 
 
-<span class="atom-split" data-atom="160_recantation" data-title="RECANTATION" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,motif/madness,motif/animals,concept/satire_of_society,concept/madness,concept/power_and_corruption,form/ballad,form/fable,form/satire,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="160_recantation" data-title="RECANTATION" data-chapter="" data-kind="intro"></span>
 
 
 ILLUSTRATED IN THE STORY OF THE MAD OX
@@ -845,7 +850,7 @@ e Sheridan ha ritrattato!’
 
 
 
-<span class="atom-split" data-atom="179_the_devils_thoughts" data-title="THE DEVIL’S THOUGHTS" data-chapter="" data-kind="intro" data-tags="archetype/satanic_figure,concept/satire_of_society,concept/social_injustice,concept/the_grotesque,concept/power_and_corruption,concept/good_vs_evil,form/ballad,form/satire,histref/the_bible,character/satan,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="179_the_devils_thoughts" data-title="THE DEVIL’S THOUGHTS" data-chapter="" data-kind="intro"></span>
 
 
 From his brimstone bed at break of day  
@@ -1029,7 +1034,7 @@ che fosse la conflagrazione generale.   70
 
 
 
-<span class="atom-split" data-atom="206_letter_july_19_1802" data-title="LETTER, JULY 19, 1802." data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,concept/joy,concept/friendship,concept/self_and_soul,form/fragment,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="206_letter_july_19_1802" data-title="LETTER, JULY 19, 1802." data-chapter="" data-kind="intro"></span>
 
 
 And sing his lofty song and teach me to rejoice!  
@@ -1071,7 +1076,7 @@ dei versi 75 sgg.]
 
 
 
-<span class="atom-split" data-atom="215_answer_to_a_childs_question" data-title="ANSWER TO A CHILD’S QUESTION" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/spring,motif/seasons,concept/love_romantic,concept/joy,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="215_answer_to_a_childs_question" data-title="ANSWER TO A CHILD’S QUESTION" data-chapter="" data-kind="intro"></span>
 
 
 Do you ask what the [[motifs/birds|birds]] say? The Sparrow, the Dove,  
@@ -1103,7 +1108,7 @@ che canta, e canta; e per sempre canta —
 
 
 
-<span class="atom-split" data-atom="233_an_angel_visitant" data-title="AN ANGEL VISITANT" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/nature,concept/love_romantic,concept/joy,form/fragment,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="233_an_angel_visitant" data-title="AN ANGEL VISITANT" data-chapter="" data-kind="intro"></span>
 
 
 Within these circling hollies woodbine-clad —  
@@ -1125,7 +1130,7 @@ ché qui, [[motifs/love|amore]] mio, sei tu, e qui son io!
 
 
 
-<span class="atom-split" data-atom="255_hunting_song" data-title="HUNTING SONG" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/nature,motif/animals,concept/the_common_man,form/song,setting/pastoral_countryside,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="255_hunting_song" data-title="HUNTING SONG" data-chapter="" data-kind="intro"></span>
 
 
 FROM ZAPOLYA  
@@ -1171,7 +1176,7 @@ a cacciare il lupo nei boschi quest’oggi.
 
 
 
-<span class="atom-split" data-atom="267_the_delinquent_travellers" data-title="THE DELINQUENT TRAVELLERS" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_journey,motif/the_road,motif/money_gold,motif/the_sea,concept/satire_of_society,concept/critique_of_progress,form/satire,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="267_the_delinquent_travellers" data-title="THE DELINQUENT TRAVELLERS" data-chapter="" data-kind="intro"></span>
 
 
 Some are [[motifs/home|home]]-sick — some two or three,  
@@ -1437,7 +1442,7 @@ sono i vostri Viaggiatori Delinquenti!
 
 
 
-<span class="atom-split" data-atom="364_to_t_poole_an_invitation" data-title="TO T. POOLE: AN INVITATION" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/friendship,concept/joy,concept/the_common_man,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="364_to_t_poole_an_invitation" data-title="TO T. POOLE: AN INVITATION" data-chapter="" data-kind="intro"></span>
 
 
 Plucking [[motifs/flowers|flowers]] from the Galaxy  
@@ -1499,7 +1504,7 @@ Friends, 1888, i. 211.
 
 
 
-<span class="atom-split" data-atom="365_song_to_be_sung_by_the_lovers_of_all_the_noble_liquors_comprised_under_the_name" data-title="SONG TO BE SUNG BY THE LOVERS OF ALL THE NOBLE LIQUORS COMPRISED UNDER THE NAME OF ALE" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/wine_and_drink,concept/joy,form/song,histref/greek_mythology,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="365_song_to_be_sung_by_the_lovers_of_all_the_noble_liquors_comprised_under_the_name" data-title="SONG TO BE SUNG BY THE LOVERS OF ALL THE NOBLE LIQUORS COMPRISED UNDER THE NAME OF ALE" data-chapter="" data-kind="intro"></span>
 
 
 A.  
@@ -1539,7 +1544,7 @@ Essays, &c., iii. 995-6. Prima raccolta P. and D. W., 1877, ii.
 
 
 
-<span class="atom-split" data-atom="366_drinking_versus_thinking" data-title="DRINKING VERSUS THINKING" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/wine_and_drink,concept/satire_of_society,concept/joy,form/song,histref/greek_mythology,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="366_drinking_versus_thinking" data-title="DRINKING VERSUS THINKING" data-chapter="" data-kind="intro"></span>
 
 
 OR, A SONG AGAINST THE NEW PHILOSOPHY  
@@ -1593,7 +1598,7 @@ Essays, &c., iii. 966-7. Prima raccolta P. and D. W., 1877, ii.
 
 
 
-<span class="atom-split" data-atom="438_schiller" data-title="SCHILLER" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/joy,concept/immortality,form/ode,histref/greek_mythology,histref/classical_antiquity,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="438_schiller" data-title="SCHILLER" data-chapter="" data-kind="intro"></span>
 
 
 DITHYRAMBE  
@@ -1671,7 +1676,7 @@ F
 
 
 
-<span class="atom-split" data-atom="440_susette" data-title="SUSETTE" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/river,motif/water,concept/love_romantic,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="440_susette" data-title="SUSETTE" data-chapter="" data-kind="intro"></span>
 
 
 assise dans la barque.  

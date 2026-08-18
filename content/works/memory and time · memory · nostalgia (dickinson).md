@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mr. C. H. Clark, April 5, 1886](/testi/dickinson/atomized/memory-and-time-memory-nostalgia#l0534_mr_c_h_clark_april_5_1886)
+- [To Mr. C. H. Clark, April 5, 1886](/testi/dickinson/atomized/memory-and-time-memory-nostalgia--letters#c_h_clark_april_5_1886)
 

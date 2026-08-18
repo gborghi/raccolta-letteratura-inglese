@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. Currier, April 10, 1886](/testi/dickinson/atomized/mortality-grave-memento-mori#l0535_mrs_currier_april_10_1886)
+- [To Mrs. Currier, April 10, 1886](/testi/dickinson/atomized/mortality-grave-memento-mori--letters#_currier_april_10_1886)
 

@@ -38,16 +38,16 @@ tags:
 
 Raccolta tematica di 10 componimenti di Samuel Taylor Coleridge.
 
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#149_argument_1|ARGUMENT.]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#086_koskiusko|KOSKIUSKO]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#112_literal_translation|LITERAL TRANSLATION.]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#352_motto_for_a_transparency|MOTTO FOR A TRANSPARENCY]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#148_original_poetry|ORIGINAL POETRY.]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#176_the_british_striplings_war-song_imitated_from_stolberg|THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#094_to_earl_stanhope|TO EARL STANHOPE]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#093_to_lord_stanhope|TO LORD STANHOPE]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#082_to_the_honourable_mr_erskine|TO THE HONOURABLE MR. ERSKINE]]
-- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#116_verses_addressed_to_j_horne_tooke_and_the_company_who_met_on_june_28th_1796|VERSES: ADDRESSED TO J. HORNE TOOKE AND THE COMPANY WHO MET ON JUNE 28TH, 1796,]]
+- [[works/argument.-(coleridge)|ARGUMENT.]]
+- [[works/koskiusko-(coleridge)|KOSKIUSKO]]
+- [[works/literal-translation.-(coleridge)|LITERAL TRANSLATION.]]
+- [[works/motto-for-a-transparency-(coleridge)|MOTTO FOR A TRANSPARENCY]]
+- [[works/original-poetry.-(coleridge)|ORIGINAL POETRY.]]
+- [[works/the-british-stripling’s-war-song-imitated-from-stolberg-(coleridge)|THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG]]
+- [[works/to-earl-stanhope-(coleridge)|TO EARL STANHOPE]]
+- [[works/to-lord-stanhope-(coleridge)|TO LORD STANHOPE]]
+- [[works/to-the-honourable-mr.-erskine-(coleridge)|TO THE HONOURABLE MR. ERSKINE]]
+- [[works/verses-addressed-to-j.-horne-tooke-and-the-company-who-met-on-june-28th,-1796,-(coleridge)|VERSES: ADDRESSED TO J. HORNE TOOKE AND THE COMPANY WHO MET ON JUNE 28TH, 1796,]]
 
 ## Testo / Text
 

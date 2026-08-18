@@ -16,17 +16,17 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0985_the_missing_all_prevented_me|985. The Missing All — prevented Me (Dickinson)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#015_gerontion|Gerontion (Eliot)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering--poems#e_missing_all_prevented_me|985. The Missing All — prevented Me (Dickinson)]]
+- [[works/gerontion-(eliot)|Gerontion (Eliot)]]
 - [[works/i.-the-burial-of-the-dead-(eliot)|I. The Burial of the Dead (Eliot)]]
 - [[works/iii.-the-fire-sermon-(eliot)|III. The Fire Sermon (Eliot)]]
 - [[works/notes-on-the-waste-land-(eliot)|Notes on the Waste Land (Eliot)]]
 - [[works/sweeney-agonistes-(eliot)|Sweeney Agonistes (Eliot)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#026_sweeney_among_the_nightingales|Sweeney Among the Nightingales (Eliot)]]
+- [[works/sweeney-among-the-nightingales-(eliot)|Sweeney Among the Nightingales (Eliot)]]
 - [[works/the-cocktail-party-(eliot)|THE COCKTAIL PARTY (Eliot)]]
 - [[works/the-hollow-men-1925-(eliot)|THE HOLLOW MEN 1925 (Eliot)]]
 - [[works/the-waste-land-1922-(eliot)|THE WASTE LAND 1922 (Eliot)]]
 - [[works/unfinished-poems-(eliot)|UNFINISHED POEMS (Eliot)]]
-- [[testi/eliot/atomized/alienation-outsider-exile#123_v_w_x|V, W, X (Eliot)]]
+- [[works/v,-w,-x-(eliot)|V, W, X (Eliot)]]
 
 </div>

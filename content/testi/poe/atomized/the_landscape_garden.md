@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_landscape_garden" data-title="The Landscape Garden" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-landscape-garden-(poe)|The Landscape Garden]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

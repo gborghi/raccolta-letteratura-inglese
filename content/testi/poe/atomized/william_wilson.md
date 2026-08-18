@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="william_wilson" data-title="William Wilson" data-chapter="" data-kind="intro"></span>
 
-# [[characters/william-wilson|William Wilson]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

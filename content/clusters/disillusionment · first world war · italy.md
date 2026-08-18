@@ -16,9 +16,9 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1264_this_is_the_place_they_hoped_before|1264. This is the place they hoped before, (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#1293_the_things_we_thought_that_we_should_do|1293. The things we thought that we should do (Dickinson)]]
-- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0472_except_the_heaven_had_come_so_near|472. Except the Heaven had come so near — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#is_is_the_place_they_hoped_before|1264. This is the place they hoped before, (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#e_things_we_thought_that_we_should_do|1293. The things we thought that we should do (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#cept_the_heaven_had_come_so_near|472. Except the Heaven had come so near — (Dickinson)]]
 - [[works/occasional-verses-(eliot)|OCCASIONAL VERSES (Eliot)]]
 
 </div>

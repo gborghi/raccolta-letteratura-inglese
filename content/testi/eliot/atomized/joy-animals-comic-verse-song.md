@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/joy-animals-comic-verse-song" data-author="Eliot" data-workhref="works/joy-·-animals-·-comic-verse-song-(eliot)"></div>
 
 
-<span class="atom-split" data-atom="080_the_naming_of_cats" data-title="The Naming of Cats" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/animals,concept/identity,concept/joy,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+The Naming of Cats · The Old Gumbie Cat · Growltiger’s Last Stand · The Rum Turn Tugger · The Song of the Jellicles · Mungojerrie and Rumpelteazer · Old Deuteronomy · Of the Awefull Battle of the Pekes and the Pollicles · Mr. Mistoffelees · Macavity: the Mystery Cat · Gus: the Theatre Cat · Bustopher Jones: the Cat About Town · Skimbleshanks: the Railway Cat · The Ad-dressing of Cats · Cat Morgan Introduces Himself · A Fable for Feasters · Song: ‘The moonflower opens to the moth’
+
+
+
+
+<span class="atom-split" data-atom="080_the_naming_of_cats" data-title="The Naming of Cats" data-chapter="" data-kind="intro"></span>
 
 
 The Naming of Cats  
@@ -93,7 +98,7 @@ profondo e imperscrutabile singolare Nome.
 
 
 
-<span class="atom-split" data-atom="081_the_old_gumbie_cat" data-title="The Old Gumbie Cat" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/music_and_song,motif/food_feasting,concept/joy,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="081_the_old_gumbie_cat" data-title="The Old Gumbie Cat" data-chapter="" data-kind="intro"></span>
 
 
 The Old Gumbie Cat  
@@ -191,7 +196,7 @@ da cui dipendono, a quanto pare, le case [[motifs/well|ben]] ordinate.
 
 
 
-<span class="atom-split" data-atom="082_growltigers_last_stand" data-title="Growltiger’s Last Stand" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,archetype/villain,motif/animals,motif/the_sea,motif/swords_weapons,form/mock_epic,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="082_growltigers_last_stand" data-title="Growltiger’s Last Stand" data-chapter="" data-kind="intro"></span>
 
 
 Growltiger’s [[topoi/last-stand|Last Stand]]  
@@ -339,7 +344,7 @@ e un giorno di festa fu ordinato a Bangkok.
 
 
 
-<span class="atom-split" data-atom="083_the_rum_turn_tugger" data-title="The Rum Turn Tugger" data-chapter="" data-kind="intro" data-tags="archetype/trickster,motif/animals,concept/joy,concept/identity,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="083_the_rum_turn_tugger" data-title="The Rum Turn Tugger" data-chapter="" data-kind="intro"></span>
 
 
 The Rum Turn Tugger  
@@ -429,7 +434,7 @@ Sì, il Rum Tum Tugger è un Gatto Curioso —
 
 
 
-<span class="atom-split" data-atom="084_the_song_of_the_jellicles" data-title="The Song of the Jellicles" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/moon,motif/night,motif/dance_of_death,concept/joy,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="084_the_song_of_the_jellicles" data-title="The Song of the Jellicles" data-chapter="" data-kind="intro"></span>
 
 
 The [[works/song-(poe)|Song]] of the Jellicles  
@@ -525,7 +530,7 @@ per la [[motifs/moon|Luna]] Jellicle e il Ballo Jellicle.
 
 
 
-<span class="atom-split" data-atom="085_mungojerrie_and_rumpelteazer" data-title="Mungojerrie and Rumpelteazer" data-chapter="" data-kind="intro" data-tags="archetype/trickster,motif/animals,motif/the_city,concept/joy,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="085_mungojerrie_and_rumpelteazer" data-title="Mungojerrie and Rumpelteazer" data-chapter="" data-kind="intro"></span>
 
 
 Mungojerrie and Rumpelteazer  
@@ -653,7 +658,7 @@ Era Mungojerrie! E Rumpelteazer!’ — E non c’è proprio nulla
 
 
 
-<span class="atom-split" data-atom="086_old_deuteronomy" data-title="Old Deuteronomy" data-chapter="" data-kind="intro" data-tags="archetype/wise_old_man,motif/animals,concept/joy,form/narrative_poem,histref/victorian_england,setting/rural_england,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="086_old_deuteronomy" data-title="Old Deuteronomy" data-chapter="" data-kind="intro"></span>
 
 
 Old Deuteronomy  
@@ -767,7 +772,7 @@ e stare attento al Vecchio Deuteronomio!’
 
 
 
-<span class="atom-split" data-atom="087_of_the_awefull_battle_of_the_pekes_and_the_pollicles" data-title="Of the Awefull Battle of the Pekes and the Pollicles" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,motif/animals,motif/the_city,concept/joy,form/mock_epic,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="087_of_the_awefull_battle_of_the_pekes_and_the_pollicles" data-title="Of the Awefull Battle of the Pekes and the Pollicles" data-chapter="" data-kind="intro"></span>
 
 
 Of the Awefull Battle of the Pekes and the Pollicles  
@@ -915,7 +920,7 @@ non ne era rimasto uno solo per la strada.
 
 
 
-<span class="atom-split" data-atom="088_mr_mistoffelees" data-title="Mr. Mistoffelees" data-chapter="" data-kind="intro" data-tags="archetype/trickster,motif/animals,motif/the_supernatural,concept/joy,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="088_mr_mistoffelees" data-title="Mr. Mistoffelees" data-chapter="" data-kind="intro"></span>
 
 
 Mr. Mistoffelees  
@@ -1071,7 +1076,7 @@ tirò fuori sette gattini proprio da un cappello!
 
 
 
-<span class="atom-split" data-atom="089_macavity_the_mystery_cat" data-title="Macavity: the Mystery Cat" data-chapter="" data-kind="intro" data-tags="archetype/villain,archetype/detective,motif/animals,concept/rationcination_detection,concept/satire_of_society,form/narrative_poem,character/macavity,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="089_macavity_the_mystery_cat" data-title="Macavity: the Mystery Cat" data-chapter="" data-kind="intro"></span>
 
 
 [[characters/macavity|Macavity]]: the Mystery Cat  
@@ -1199,7 +1204,7 @@ si limita a dirigere le loro operazioni: il Napoleone del Delitto!
 
 
 
-<span class="atom-split" data-atom="090_gus_the_theatre_cat" data-title="Gus: the Theatre Cat" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,motif/animals,motif/masks_disguise,concept/nostalgia,form/dramatic_monologue,histref/victorian_england,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="090_gus_the_theatre_cat" data-title="Gus: the Theatre Cat" data-chapter="" data-kind="intro"></span>
 
 
 Gus: the Theatre Cat  
@@ -1321,7 +1326,7 @@ come Firefrorefiddle, il Demonio della Brughiera.’
 
 
 
-<span class="atom-split" data-atom="091_bustopher_jones_the_cat_about_town" data-title="Bustopher Jones: the Cat About Town" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/food_feasting,motif/the_inn_tavern,concept/satire_of_society,concept/joy,form/song,setting/london,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="091_bustopher_jones_the_cat_about_town" data-title="Bustopher Jones: the Cat About Town" data-chapter="" data-kind="intro"></span>
 
 
 Bustopher [[characters/jones|Jones]]: the Cat About Town  
@@ -1433,7 +1438,7 @@ finché Bustopher [[characters/jones|Jones]] porta le ghette bianche!
 
 
 
-<span class="atom-split" data-atom="092_skimbleshanks_the_railway_cat" data-title="Skimbleshanks: the Railway Cat" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/the_journey,motif/night,concept/joy,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="092_skimbleshanks_the_railway_cat" data-title="Skimbleshanks: the Railway Cat" data-chapter="" data-kind="intro"></span>
 
 
 Skimbleshanks: the Railway Cat  
@@ -1577,7 +1582,7 @@ ché Skimbleshanks vi aiuterà a scendere!
 
 
 
-<span class="atom-split" data-atom="093_the_ad-dressing_of_cats" data-title="The Ad-dressing of Cats" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/joy,concept/satire_of_society,concept/identity,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="093_the_ad-dressing_of_cats" data-title="The Ad-dressing of Cats" data-chapter="" data-kind="intro"></span>
 
 
 The Ad-dressing of Cats  
@@ -1747,7 +1752,7 @@ ed ecco come ci si RI-VOLGE A UN GATTO.
 
 
 
-<span class="atom-split" data-atom="094_cat_morgan_introduces_himself" data-title="Cat Morgan Introduces Himself" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/animals,motif/the_sea,concept/joy,form/dramatic_monologue,setting/london,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="094_cat_morgan_introduces_himself" data-title="Cat Morgan Introduces Himself" data-chapter="" data-kind="intro"></span>
 
 
 Cat Morgan Introduces Himself  
@@ -1801,7 +1806,7 @@ Ve risparmiate [[motifs/time|tempo]], e ve risparmiate fatica
 
 
 
-<span class="atom-split" data-atom="102_a_fable_for_feasters" data-title="A Fable for Feasters" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/wine_and_drink,motif/ghosts,motif/the_supernatural,motif/ruins,concept/satire_of_society,form/mock_epic,form/ottava_rima,form/narrative_poem,form/satire,histref/medieval_england,histref/christianity,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="102_a_fable_for_feasters" data-title="A Fable for Feasters" data-chapter="" data-kind="intro"></span>
 
 
 A [[forms/fable|Fable]] for Feasters  
@@ -2009,7 +2014,7 @@ Di spiriti da quel [[motifs/time|tempo]] in poi fecero a meno,
 
 
 
-<span class="atom-split" data-atom="110_song_the_moonflower_opens_to_the_moth" data-title="Song: ‘The moonflower opens to the moth’" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/white_and_red,motif/the_sea,motif/night,concept/love_romantic,concept/lust,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
+<span class="atom-split" data-atom="110_song_the_moonflower_opens_to_the_moth" data-title="Song: ‘The moonflower opens to the moth’" data-chapter="" data-kind="intro"></span>
 
 
 [[works/song-(poe)|Song]]: ‘The moonflower opens to the moth’  

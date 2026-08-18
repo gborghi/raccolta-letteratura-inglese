@@ -30,11 +30,6 @@ tags:
 > [!abstract] 
 > Whitman's Civil War letters and hospital memoranda from Washington DC, recording his nursing of wounded and dying soldiers and the human cost of the war. The text centers on death, suffering, comradeship, and the dignity of the common soldier, written in plain epistolary autobiographical prose.
 
-## Capitoli / Chapters
-
-- [story edifices, sometimes ranged along in a row, with their heads to](/testi/whitman/atomized/the_wound_dresser#story_01_story_edifices_sometimes_ranged_along_in)
-- [He remained very sick--vomiting much every day, frequent diarrhoea,](/testi/whitman/atomized/the_wound_dresser#story_02_he_remained_very_sick_vomiting_much_ever)
-
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">76.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.1</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 

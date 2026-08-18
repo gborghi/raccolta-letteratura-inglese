@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/stars-night-military-camp" data-author="Whitman" data-workhref="works/stars-·-night-·-military-camp-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="107_on_the_beach_at_night" data-title="On the Beach at Night" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,motif/childhood,motif/the_sea,concept/immortality,concept/mortality,form/free_verse,cluster/stars,cluster/night,cluster/military_camp"></span>
+On the Beach at Night · On the Beach at Night Alone · When I Heard the Learn’d Astronomer · Bivouac on a Mountain Side · By the Bivouac’s Fitful Flame · Vigil Strange I Kept on the Field One Night · Look Down Fair Moon · Reconciliation · The Torch · The Sleepers · Whispers of Heavenly Death · Night on the Prairies · Thou Orb Aloft Full-Dazzling · A Clear Midnight · After the Dazzle of Day · A Prairie Sunset · Twilight · An Evening Lull · Old Age’s Lambent Peaks · MY 71st Year
+
+
+
+
+<span class="atom-split" data-atom="107_on_the_beach_at_night" data-title="On the Beach at Night" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -64,52 +69,9 @@ Or the radiant sisters the Pleiades.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: SEA-DRIFT_  
 
 
-Sulla spiaggia, di [[motifs/night|notte]],  
-c’è una [[archetypes/child|bambina]] con suo padre,  
-che guarda verso est, il cielo autunnale.  
-
-Attraverso l’oscurità,  
-mentre le nuvole scure si diffondono rapide nel cielo,  
-il grande e maestoso pianeta Giove sale calmo e solenne;  
-vicino a lui, appena un po’ più in alto,  
-galleggiano le delicate Pleiadi.  
-
-Dalla spiaggia, il [[archetypes/child|bambino]] tenendo per mano suo padre;  
-Quei nuvoli funebri che si avvicinano vittoriosi, pronti a divorare tutto.
-Noi osserviamo in silenzio e piangiamo.  
-
-Non piangere, [[archetypes/child|bambino]],  
-non piangere, mio caro.
-Con questi baci lascerò che le tue lacrime scompaiano;  
-le nuvole minacciose non trionferanno a lungo,  
-non possiederanno il cielo per molto tempo. Divorano soltanto le stelle,  
-solo in apparenza.
-Jupiter riapparirà. Abbi pazienza, aspetta ancora una notte.
-Le Pleiadi sorgeranno di nuovo.
-Sono immortali. Tutte quelle stelle, dorate e argentee, risplenderanno ancora.
-Le grandi stelle e le piccole. Risplenderanno ancora. Sopravvivono.
-I vasti soli immortali e le lune eternamente pensierose. Riacquisteranno il loro splendore.  
-
-Allora, caro [[archetypes/child|bambino]], piangi solo per Giove?  
-Pensi davvero che sia l’unico a seppellire le [[motifs/stars|stelle]]?  
-
-C’è qualcosa.
-(Mentre con le mie labbra ti accarezzo e sussurro,  
-ti do la prima indicazione, il problema e gli indizi necessari, )  
-C’è qualcosa di ancora più immortale delle [[motifs/stars|stelle]].
-(Molti i sepolcri, molti i giorni e le notti che passano, )  
-C’è qualcosa che durerà più a lungo persino del luminoso Giove,  
-più a lungo del sole o di qualsiasi satellite in rotazione,  
-o delle splendide Pleiadi.
-
-
-
-<span class="atom-split" data-atom="109_on_the_beach_at_night_alone" data-title="On the Beach at Night Alone" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/stars,motif/night,concept/self_and_soul,concept/the_sublime,concept/immortality,form/free_verse,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="109_on_the_beach_at_night_alone" data-title="On the Beach at Night Alone" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -138,28 +100,9 @@ And shall forever span them and compactly hold and enclose them.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: SEA-DRIFT_  
 
 
-Sulla spiaggia, di [[motifs/night|notte]], da solo,  
-mentre la vecchia madre canta la sua voce roca avanti e indietro,  
-osservando le brillanti [[motifs/stars|stelle]] che splendono nel cielo, penso alle infinite possibilità dell’universo e al futuro.  
-
-Un'immensa somiglianza unisce tutte le cose:  
-tutte le sfere, grandi e piccole, i soli, le lune, i pianeti;  
-tutte le distanze spaziali, per quanto ampie;  
-tutti gli intervalli di [[motifs/time|tempo]]; tutte le forme inanimate;  
-tutte le anime, tutti i corpi viventi, per quanto diversi o situati in mondi diversi;  
-tutti i processi fisici (gassosi, acquatici, vegetali, minerali); gli animali, le nazioni, i colori, le civiltà, le lingue;  
-tutte le identità che sono esistite o potranno esistere su questo o qualsiasi altro pianeta;  
-tutti i momenti della vita e della morte, il passato, il presente, il futuro.
-Questa immensa somiglianza li abbraccia tutti, li ha sempre abbracciati e li abbraccerà per sempre, tenendoli uniti in un insieme armonioso.
-
-
-
-<span class="atom-split" data-atom="119_when_i_heard_the_learn_d_astronomer" data-title="When I Heard the Learn’d Astronomer" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,motif/silence,concept/wonder_and_gratitude,concept/nature_vs_civilization,form/free_verse,form/lyric,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="119_when_i_heard_the_learn_d_astronomer" data-title="When I Heard the Learn’d Astronomer" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -180,23 +123,9 @@ Look’d up in perfect [[motifs/silence|silence]] at the [[motifs/stars|stars]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_  
 
 
-Quando ascoltavo quell’astronomo erudito,  
-quando le prove e i calcoli erano disposti davanti a me in colonne,  
-quando mi venivano mostrati gli schemi e i diagrammi da analizzare, sommare, dividere e misurare.
-Mentre seduto ascoltavo il suo discorso, accolto da molti applausi nell’aula di lezione,  
-in poco tempo mi sentivo stanco e malato.
-Allora mi alzavo e me ne andavo da solo,  
-nella notte umida e misteriosa, e, da un momento all’altro,  
-alzavo lo sguardo, in perfetto [[motifs/silence|silenzio]], verso le stelle.
-
-
-
-<span class="atom-split" data-atom="152_bivouac_on_a_mountain_side" data-title="Bivouac on a Mountain Side" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,motif/fire,motif/nature,concept/war_and_its_cost,setting/the_military_camp,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="152_bivouac_on_a_mountain_side" data-title="Bivouac on a Mountain Side" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -217,22 +146,9 @@ breaking out, the eternal [[motifs/stars|stars]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Ora vedo davanti a me un esercito in movimento che si ferma;  
-sotto di esso si estende una fertile valle, con granghi e orti rigogliosi dell’[[motifs/summer|estate]];  
-dietro di loro, i versanti terrazzati di una montagna, scoscesi e imponenti in alcuni punti;  
-interrotti da rocce, cedri che si aggrappano al terreno e forme alte e sfocate.
-Molti falò sono sparsi in lontananza; alcuni si trovano in cima alla montagna.  
-Le ombre di uomini e cavalli si muovono, ingrandite dalla distanza.
-E sopra tutto il cielo, il cielo! Lontano, irraggiungibile, punteggiato dalle eternhe [[motifs/stars|stelle]].
-
-
-
-<span class="atom-split" data-atom="154_by_the_bivouac_s_fitful_flame" data-title="By the Bivouac’s Fitful Flame" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/night,motif/silence,motif/memory,concept/mortality,setting/the_military_camp,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="154_by_the_bivouac_s_fitful_flame" data-title="By the Bivouac’s Fitful Flame" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -257,17 +173,9 @@ By the bivouac’s fitful flame.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Al chiarore incostante del fuoco da bivacco,  
-una processione si snoda intorno a me: solenne, dolce e lenta. Ma prima di tutto noto le tende dell’esercito addormentato, i contorni sfumati dei campi e dei boschi, l’oscurità illuminata dai punti luminosi del fuoco acceso, il silenzio. Come un fantasma, di tanto in tanto appare una figura che si muove. Gli arbusti e gli alberi sembrano osservarmi di nascosto. Mentre il vento porta con sé pensieri. Oh, teneri e meravigliosi pensieri. Di vita e morte, di casa, del passato, delle persone amate. E di quelle lontane. Una processione solenne e lenta. Lì, mentre siedo a terra, al chiarore incostante del fuoco da bivacco.
-
-
-
-<span class="atom-split" data-atom="156_vigil_strange_i_kept_on_the_field_one_night" data-title="Vigil Strange I Kept on the Field One Night" data-chapter="" data-kind="intro" data-tags="motif/death,motif/night,motif/the_grave,motif/dawn,concept/comradeship,concept/grief_and_loss,concept/immortality,form/elegy,setting/the_battlefield,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="156_vigil_strange_i_kept_on_the_field_one_night" data-title="Vigil Strange I Kept on the Field One Night" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -315,41 +223,9 @@ And buried him where he fell.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_  
 
 
-Quella [[motifs/night|notte]], rimasi in veglia sul campo di battaglia;  
-quando tu, mio figlio e mio compagno, cadesti al mio fianco,  
-ti guardai una sola volta. E i tuoi occhi mi restituirono uno sguardo  
-che non dimenticherò mai.  
-Il tuo braccio toccò il mio, mentre giacevi a terra.
-Poi continuai nella battaglia, in quella battaglia cruenta e disperata.
-Fino a tarda [[motifs/night|notte]], tornai sul luogo.
-Ti trovai morto, caro compagno. Il tuo corpo, figlio mio, privo di quel bacio che non avrebbe mai più ricevuto sulla terra.
-Esposi il tuo viso alla luce delle stelle. La notte era fresca e tranquilla.
-Rimasi lì a lungo, in veglia. Il campo di battaglia si estendeva intorno a me.
-Una veglia strana, dolce, nella silenziosa notte profumata.
-Ma non versai una lacrima. Non emisi nemmeno un sospiro.
-Rimasi a guardarti per molto tempo. Poi mi sedetti accanto a te, appoggiando il mento sulle mani.
-Trascorsi ore dolci, immortali, mistiche, con te, caro compagno.
-Nessuna lacrima, nessuna parola.
-Una veglia di [[motifs/silence|silenzio]], [[motifs/love|amore]] e [[motifs/death|morte]], per te, mio figlio e mio soldato.
-Mentre le stelle continuavano a splendere nel cielo, nuove stelle sorgevano all’orizzonte.
-Una veglia finale, per te, coraggioso ragazzo, (Non sono riuscito a salvarti. La tua morte è stata troppo rapida, )  
-Ti ho amato fedelmente, e mi sono preso cura di te mentre eri vivo. Penso che ci rincontreremo sicuramente.
-Fino all’ultima ora della [[motifs/night|notte]]. Proprio quando spuntava l’[[motifs/dawn|alba]], avvolsi il tuo corpo nel plaid e lo sistemai con cura.
-Lo coprii bene, sotto la testa e ai piedi.
-E lì, sotto il sole nascente, ti seppellii nel tuo semplice tumulo.
-Conclusi così la mia strana veglia, quella veglia nella notte buia e silenziosa del campo di battaglia.
-Una veglia per un ragazzo che non avrebbe mai più ricevuto quel bacio, per un compagno ucciso troppo presto, una veglia che non dimenticherò mai.
-Mentre il giorno si schiariva, mi alzai dal terreno freddo e avvolsi di nuovo il mio soldato nel plaid.
-Lo seppellii dove era caduto.
-
-
-
-<span class="atom-split" data-atom="174_look_down_fair_moon" data-title="Look Down Fair Moon" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/death,motif/night,concept/grief_and_loss,concept/war_and_its_cost,setting/the_battlefield,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="174_look_down_fair_moon" data-title="Look Down Fair Moon" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -365,19 +241,9 @@ Pour down your unstinted nimbus sacred [[motifs/moon|moon]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_  
 
 
-Guarda giù, bella [[motifs/moon|luna]], e inonda questa scena con la tua luce;  
-Versa dolcemente le tue acque su quei volti orribili, gonfi e violacei;  
-Su quei morti distesi a pancia in su, con le braccia aperte.
-Versa su di loro tutta la tua luce sacra, [[motifs/moon|luna]].
-
-
-
-<span class="atom-split" data-atom="175_reconciliation" data-title="Reconciliation" data-chapter="" data-kind="intro" data-tags="motif/death,motif/night,concept/reconciliation,concept/grief_and_loss,concept/mercy,concept/war_and_its_cost,concept/love_divine,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="175_reconciliation" data-title="Reconciliation" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -397,20 +263,9 @@ Bend down and touch lightly with my lips the white face in the coffin.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Parola dopo parola, bella come il cielo;  
-bellissima al punto che la guerra e tutte le sue azioni di carneficina debbano, col tempo, essere completamente dimenticate;  
-che le mani delle sorelle [[motifs/death|Morte]] e [[motifs/night|Notte]] lavino incessantemente e dolcemente questo mondo solido, ancora e ancora.
-Perché il mio nemico è morto; un uomo divino come me è morto.  
-Lo guardo: giace pallido e immobile nella bara. Mi avvicino, mi chino e con le labbra tocco quel viso bianco.
-
-
-
-<span class="atom-split" data-atom="220_the_torch" data-title="The Torch" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/night,motif/water,motif/light_and_dark,form/fragment,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="220_the_torch" data-title="The Torch" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_  
@@ -427,16 +282,9 @@ Bearing a torch ablaze at the prow.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_  
 
 
-Sulla mia costa nord-occidentale, nel cuore della [[motifs/night|notte]], un gruppo di pescatori sta osservando; sul lago che si estende davanti a loro, altri stanno pescando salmoni con le lance. La canoa, una silhouette scura e indistinta, si muove attraverso l’oscura superficie dell’acqua, con una torcia accesa alla prua.
-
-
-
-<span class="atom-split" data-atom="232_the_sleepers" data-title="The Sleepers" data-chapter="" data-kind="intro" data-tags="topos/night_journey,archetype/great_mother,motif/sleep,motif/dreams,motif/night,motif/death,motif/the_sea,concept/self_and_soul,concept/mortality,concept/identity,form/free_verse,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="232_the_sleepers" data-title="The Sleepers" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -751,241 +599,9 @@ I will duly pass the day O my mother, and duly return to you.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-1  
-Vago per tutta la [[motifs/night|notte]] nella mia visione,  
-Camminando con passi leggeri, velocemente e silenziosamente avanzando e fermandomi,  
-Incurvandomi con gli occhi aperti sopra i occhi chiusi dei dormienti,  
-Vagando e confuso, perso in me stesso, disordinato, contraddittorio.
-Fermandomi, guardando, curvandomi, e poi ancora fermandomi.  
-
-Quanto sono solenni mentre giacciono lì, distesi e immobili.
-Quanto respirano silenziosamente, quei piccoli bambini nelle loro culla.  
-
-I tratti orribili di chi è annoiato, i volti pallidi dei cadaveri, i visi lividi degli ubriachi, i volti grigi e malati degli onanisti, i corpi dilaniati sui campi di battaglia, i pazzi nelle loro stanze con porte robuste, gli “idioti sacri”, i neonati che emergono dalle porte, e i moribondi che escono anch’essi dalle porte. La [[motifs/night|notte]] li avvolge tutti e li inghiotte.  
-
-La coppia sposata dorme serenamente nel loro letto: lui con la mano sulla coscia della moglie, lei con la mano sulla coscia del marito. Le sorelle dormono amorevolmente una accanto all’altra nel loro letto; gli uomini dormono anch’essi amorevolmente uno accanto all’altro nel loro letto. E la madre dorme con il suo piccolo [[archetypes/child|bambino]], avvolto con cura.  
-
-Il cieco dorme, e così il sordo e muto;  
-il prigioniero dorme bene in prigione, il figlio fuggito dorme anch'egli;  
-l’assassino che sarà impiccato domani, come dorme?  
-E la vittima dell’omicidio, come dorme?  
-
-La donna che ama senza essere ricambiata dorme,  
-l’uomo che ama senza essere ricambiato dorme,  
-il capo di chi guadagna soldi, che ha pianificato tutto il giorno, dorme anch’egli,  
-e le nature furiose e traditrici, tutte, tutte dormono.  
-
-Mi trovo nel buio, con gli occhi bassi, accanto al peggiore [[concepts/suffering|sofferimento]] e alla più inquieta delle persone; passo le mani su di loro dolcemente, a pochi centimetri da loro. L’inquietudine continua, ma loro riescono a dormire, sebbene irregolarmente.  
-
-Ora attraverso l’oscurità, nuovi esseri appaiono;  
-la terra si allontana da me, immergendosi nella [[motifs/night|notte]];  
-ho visto che è bella, e vedo anche che ciò che non è la terra è altrettanto bello.  
-
-Vado da un letto all’altro; dormo accanto agli altri dormienti, uno dopo l’altro. Nel mio sogno, vivo tutti i sogni degli altri sognatori. E divento loro.  
-
-Sono una [[motifs/dance|danza]], mi muovo velocemente in cerchio! Questo ritmo mi fa girare senza sosta!  
-
-Sono colui che ride sempre. È la nuova luna e il crepuscolo;  
-vedo i nascondigli delle delizie, vedo gli agili [[motifs/ghosts|fantasmi]] ovunque si guardi;  
-nascosti ancora e ancora, in profondità nella terra e nel mare. E là dove non c’è né terra né mare.  
-
-Beh, svolgono davvero il loro lavoro quei “divini” lavoratori ambulanti.
-Solo da me non possono nascondere nulla, e comunque non lo farebbero se potessero.
-Penso di essere il loro capo. E inoltre mi trattano come un animale domestico.
-Mi circondano, mi guidano, corrono avanti quando cammino.
-Alzano i loro “ingegnosi” veli per indicarmi la strada con braccia tese.
-E poi riprendono il cammino.
-Avanti andiamo. Una allegra banda di furfanti, tra risate, musica e bandiere che sventolano gioiosamente!  
-
-Sono l’attore, l’attrice, l’elettore, il politico;  
-l’esule e l’[[concepts/exile|esiliato]], il criminale che si trovava in quella stanza;  
-colui che è stato famoso e colui che diventerà famoso dopo oggi;  
-il balbuziente, la persona di bell’aspetto, quella magra o debole.  
-
-Sono io quella che si è adornata e si è sistemata i capelli con ansia;  
-il mio innamorato, che era in ritardo, è finalmente arrivato, ed è già buio.  
-
-Duplicati te stesso e accogli me nell’oscurità.
-Accogli anche me e il mio [[archetypes/lover|amante]]; lui non mi lascerà andare senza di lui.  
-
-Mi avvolgo su di te come su un letto, mi arrendo al crepuscolo.  
-
-Colui che chiamo risponde a me e prende il posto del mio [[archetypes/lover|amante]];  
-Si alza con me, in silenzio, dal letto.  
-
-Ombra, sei più gentile del mio [[archetypes/lover|amante]]; la sua pelle era sudata e ansimante.
-Percepisco ancora quella umidità calda che mi ha lasciato.  
-
-Le mie mani sono aperte; le estendo in tutte le direzioni,  
-per cercare di raggiungere quella riva oscura verso cui tu stai viaggiando.  
-
-Stai attenta, oscurità. Cosa è stato che mi ha toccato?  
-Pensavo che il mio [[archetypes/lover|amante]] se ne fosse andato; altrimenti l’oscurità e lui sono la stessa cosa.
-Sento il battito del suo cuore. Lo seguo. E poi scompaio.  
-
-2  
-Scendo lungo il mio percorso occidentale; i miei muscoli sono flaccidi,  
-Il profumo e la giovinezza scorrono attraverso di me, e io ne sono l’eco.  
-
-Il mio viso è giallo e pieno di rughe, invece di quello della vecchia donna;  
-siedo su una sedia con il sedile di paglia e rammendo con cura le calze di mio nipote.  
-
-Sono anch'io io, la vedova insonne che guarda fuori nella mezzanotte invernale;  
-vedo i bagliori della luce stellare sulla terra gelida e pallida.  
-
-Vedo un lenzuolo, e io sono quel lenzuolo; avvolgo un [[concepts/body|-corpo]] e mi sdraio nella bara.  
-È buio qui sottoterra. Non c’è malvagità né [[motifs/pain|dolore]]; tutto è, vuoto, per qualche motivo.  
-
-(A mio parere, tutto ciò che è alla luce e nell’aria dovrebbe essere felice; chiunque non si trovi nella sua bara o nelle tenebre della [[motifs/grave|tomba]], sappia che ne ha abbastanza.)  
-
-3  
-Vedo un bellissimo e gigantesco nuotatore che nuota nudo tra i vortici del mare;  
-i suoi capelli castani gli ricadono ordinatamente intorno alla testa; muove le braccia con coraggio, spinge il proprio corpo con le gambe.
-Vedo il suo corpo bianco, i suoi occhi indomabili.
-Odio quei vortici impetuosi che potrebbero farlo schiantare contro le rocce.  
-
-Cosa state facendo, voi onde rossastre e malvagie?  
-Ucciderete quel coraggioso gigante? Lo ucciderete nel pieno della sua mezza età?  
-
-Con costanza e determinazione lotta;  
-viene colpito, maltrattato, ma resiste finché le sue forze lo permettono;  
-le onde tumultuose sono macchiate del suo [[motifs/blood|sangue]]; lo trascinano via, lo rotolano, lo scagliano contro le rocce.
-Il suo bellissimo [[concepts/body|-corpo]] viene spinto avanti dalle correnti vorticose, continuamente danneggiato.
-In un attimo, il corpo coraggioso scompare dalla vista.  
-
-4  
-Mi giro, ma non riesco a liberarmi;  
-Confuso, leggo un passato, poi un altro, ma intorno c’è ancora l’oscurità.  
-
-La spiaggia è tagliata dal gelido e violento [[motifs/wind|vento]]; si sentono i suoni delle cannonate;  
-la tempesta si placa, la [[motifs/moon|luna]] appare, vacillante tra le nuvole di neve.  
-
-Guardo dove la [[motifs/ship|nave]] si dirige senza speranza, sento il rumore del suo impatto, sento i lamenti di disperazione, che diventano sempre più deboli.  
-
-Non posso fare nulla con le mie dita tremanti;  
-posso solo correre verso l’oceano e lasciare che mi inzuppi e mi congeli completamente.  
-
-Cerco insieme alla folla; nessuno dei membri del gruppo è sopravvissuto vivo fino a noi.  
-Al mattino aiuto a raccogliere i morti e ad allinearli in file in un fienile.  
-
-5  
-Ora, riguardo ai giorni più lontani della guerra, alla sconfitta di Brooklyn.
-Washington si trova all’interno delle linee difensive, in cima alle colline fortificate, circondato da un gruppo di ufficiali.  
-Il suo viso è freddo e umido; non riesce a trattenere le lacrime che scorrono giù.  
-Continua a sollevare il bicchiere davanti ai suoi occhi. Il colore delle sue guance è pallido.  
-Vede la strage dei valorosi soldati del Sud, affidatigli dai loro genitori.  
-
-Finalmente, quando la pace viene dichiarata,  
-si trova nella stanza dell’antica taverna; i soldati tanto amati  
-passano tutti davanti a lui.  
-Gli ufficiali, senza parole e lentamente, si avvicinano uno dopo l’altro.  
-Il comandante li abbraccia e li bacia sulla guancia,  
-baciando delicatamente quelle guance umide una dopo l’altra; poi stringe loro la mano  
-e saluta l’esercito.  
-
-Ora, ciò che mia madre mi raccontò un giorno mentre cenavamo insieme. Quando era ancora una ragazza quasi adulta e viveva a [[motifs/home|casa]] con i suoi genitori nella vecchia tenuta di famiglia.  
-
-Una donna indiana rossa venne una mattina a colazione alla vecchia fattoria;  
-sulla schiena portava un mazzo di giunchi per fare i sedili delle sedie,  
-i suoi capelli, lisci, lucidi, folti e neri, le coprivano metà del viso;  
-il suo passo era leggero ed elastico, e la sua voce suonava incantevole quando parlava.  
-
-Mia madre guardava la sconosciuta con gioia e meraviglia; osservava la freschezza del suo viso elegante, le sue membra snelle e flessibili. Più la guardava, più l’amava. Mai prima d’allora aveva visto una tale bellezza e purezza. La fece sedere su un banco accanto al camino, le preparò da mangiare. Non aveva lavoro da darle, ma le offrì il suo affetto e la sua attenzione.  
-
-La donna rossa rimase lì per tutto il pomeriggio; verso metà pomeriggio se ne andò.  
-Oh, mia madre non voleva che se ne andasse. Per tutta la settimana pensava a lei, la aspettava per molti mesi. Si ricordava di lei in tanti [[motifs/winter|,inverni]] e tanti [[motifs/summer|'estati]].
-Ma quella donna rossa non tornò mai più, e nessuno ne seppe più nulla.  
-
-7  
-Un’espressione della tenerezza estiva, un contatto con qualcosa di invisibile, un amore per la luce e per l’aria.
-Sono geloso e sommerso da affetto.
-E anch’io andrò a vagabondare insieme alla luce e all’aria.  
-
-O [[motifs/love|amore]] e [[motifs/summer|estate]], voi siete nei sogni e dentro di me;  
-[[motifs/autumn|autunno]] e [[motifs/winter|inverno]] sono anch'essi nei sogni: il contadino lavora con diligenza,  
-le greggi e i raccolti aumentano, i granai si riempiono.  
-
-Gli elementi si fondono nella [[motifs/night|notte]], le navi cambiano rotta nei [[motifs/dreams|sogni]];  
-Il marinaio naviga, l’[[concepts/exile|esiliato]] torna a [[motifs/home|casa]];  
-Il fuggitivo ritorna illeso, l’immigrato è di nuovo lì, dopo mesi e anni.
-Il povero irlandese vive nella semplice casa della sua [[motifs/childhood|infanzia]], tra vicini e volti familiari;  
-Lo accolgono con calore. Lui è di nuovo a piedi. E dimentica di essere diventato ricco.
-Il olandese viaggia verso la sua [[motifs/home|casa]]; lo scozzese e il gallese fanno lo stesso. Anche il nativo del Mediterraneo torna a casa.
-In ogni porto d’Inghilterra, Francia, Spagna, entrano navi piene fino all’orlo.
-Lo svizzero si dirige verso le sue montagne; il prussiano segue la sua strada, lo ungherese la sua. E anche il polacco.
-Il svedese torna a casa, così come il danese e il norvegese.  
-
-Quelli che tornano a casa e quelli che partono verso lontano,  
-il bel nuotatore perduto nel buio della notte, il noioso, l’autoerotista, la donna che ama invano, colui che guadagna denaro,  
-l’attore e l’attrice, coloro che hanno già terminato le loro parti e quelli che aspettano ancora di iniziarle,  
-il ragazzo affettuoso, il marito e la moglie, l’elettore, il candidato eletto e quello che non lo è stato,  
-i grandi già conosciuti e i grandi che nasceranno in qualsiasi momento futuro,  
-colui che balbetta, il malato, colui dalla forma perfetta, il semplice cittadino comune,  
-il criminale che stava sul banco degli imputati, il giudice che lo ha condannato, gli avvocati eloquenti, la giuria, il pubblico,  
-colui che ride e colui che piange, il ballerino, la vedova di mezzanotte, la donna selvaggia.
-Il malato tubercoloso, l’affetto da rosolia, l’idiota, colui che subisce ingiustizie.
-Gli antipodi, e tutti coloro che si trovano tra questi due estremi nell’oscurità.
-Giuro: ora sono tutti uguali. Nessuno è migliore degli altri.  
-La notte e il sonno li hanno resi simili, e li hanno riportati all’equilibrio.  
-
-Giuro che sono tutte bellissime;  
-Ogni cosa che dorme è bella, tutto ciò che si vede nella luce fioca è bello.
-La parte più selvaggia e cruenta è finita, ed ora regna la pace.  
-
-La pace è sempre bella;  
-il mito del cielo rappresenta la pace e la [[motifs/night|notte]].  
-
-Il mito del cielo indica l’[[motifs/soul|'anima]];  
-l’anima è sempre bella: a volte appare di più, a volte di meno;  
-viene o rimane indietro.
-Proviene dal suo incantevole [[motifs/garden|"giardino]], si guarda con piacere e avvolge il mondo intero.  
-I genitali devono essere perfetti e puliti; l’utero deve essere integro e ben formato.  
-La testa deve essere ben proporzionata e dritta; gli intestini e le articolazioni devono anch’essi essere in armonia con il resto del corpo.  
-
-L’[[motifs/soul|'anima]] è sempre bella;  
-l’universo è nel giusto ordine, ogni cosa è al suo posto;  
-ciò che è già arrivato è al suo posto, e ciò che attende lo sarà anch’esso;  
-il cranio distorto aspetta, il sangue acquoso o marcio aspetta.
-Il [[archetypes/child|bambino]] del goloso o del lussurioso aspetta a lungo, così come quello del ubriaco.
-Gli addormentati che sono vissuti e morti aspettano; quelli molto avanti andranno avanti a turno,  
-e quelli molto indietro arriveranno a turno.
-Le differenze non diminuiranno, ma si uniranno.
-Ora si stanno già unendo.  
-
-8  
-I dormienti sono molto belli mentre giacciono nudi;  
-si estendono mano nella mano su tutta la terra, da est a ovest, mentre giacciono nudi;  
-gli asiatici e gli africani stanno mano nella mano, così come gli europei e gli americani;  
-coloro che sanno e coloro che non sanno stanno mano nella mano, così come uomini e donne;  
-il braccio nudo della ragazza si incrocia sul petto nudo del suo [[archetypes/lover|amante]]; si stringono l’uno all’altro senza desiderio; le sue labbra sfiorano il suo collo;  
-il padre tiene tra le braccia suo figlio, sia che sia adulto che ancora bambino, con un amore infinito; e anche il figlio tiene il padre tra le sue braccia con un amore infinito;  
-i capelli bianchi della madre brillano sul polso bianco della figlia;  
-il respiro del ragazzo si unisce a quello dell’uomo; l’amico abbraccia l’amico senza armi;  
-lo studioso bacia il maestro e il maestro bacia lo studioso; ciò che è stato sbagliato viene corretto;  
-la voce dello schiavo si unisce a quella del padrone, e il padrone saluta lo schiavo;  
-il criminale esce dalla [[motifs/prison|prigione]], il pazzo diventa sano di mente, il [[concepts/suffering|dolore]] delle persone malate viene alleviato;  
-le sudorazioni e le febbri cessano; la gola che era malata diventa sana; i polmoni dei malati di tubercolosi riprendono a funzionare normalmente; la testa del povero sofferente è finalmente libera;  
-le articolazioni dei reumatici si muovono con facilità, più facilmente che mai;  
-i passaggi ostruiti si aprono; i paralizzati diventano agili;  
-quelli che erano gonfi, convulsi o soffocati ritrovano la loro normalità;  
-superano l’effetto rigeneratore della [[motifs/night|notte]] e le trasformazioni che avvengono durante la [[motifs/night|notte]], e si risvegliano.  
-
-Anch'io passo attraverso la [[motifs/night|notte]],  
-mi allontano per un po', o [[motifs/night|notte]], ma poi torno da te e ti [[motifs/love|amo]] di nuovo.  
-
-Perché dovrei avere paura di affidarmi a te?  
-Non ho paura; tu mi hai cresciuto bene,  
-Amo la vita piena e ricca, ma non ti abbandonerò mai,  
-Non so da dove vengo né dove andrò con te,  
-Ma so che sono venuto bene, e andrò bene.  
-
-Mi fermerò solo per una [[motifs/time|volta]] durante la [[motifs/night|notte]] e mi alzerò in tempo; passerò correttamente la giornata, o mia madre, e tornerò da te senza ritardo.
 
 
-
-<span class="atom-split" data-atom="236_whispers_of_heavenly_death" data-title="Whispers of Heavenly Death" data-chapter="" data-kind="intro" data-tags="motif/death,motif/night,motif/stars,motif/river,concept/immortality,concept/self_and_soul,form/lyric,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="236_whispers_of_heavenly_death" data-title="Whispers of Heavenly Death" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
@@ -1011,29 +627,9 @@ Some [[motifs/soul|soul]] is passing over.)
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_  
 
 
-Sento mormorare sussurri riguardanti la [[motifs/death|morte]] celeste,  
-chiacchiere sommesse della [[motifs/night|notte]], cori sibilanti.
-Passi che salgono dolcemente, brezze mistiche che soffiano leggere e silenziose.
-Increspature di fiumi invisibili, onde di un flusso incessante.
-(O forse è il suono delle [[motifs/tears|lacrime]]? Le acque infinite delle lacrime umane, )  
-
-Vedo, semplicemente guardo verso il cielo: grandi masse di nuvole  
-si muovono lentamente, silenziosamente si espandono e si mescolano;  
-a volte, una stella lontana, semidimmerita e triste,  
-appare e scompare.  
-
-Piuttosto che un parto ordinario, una nascita solenne e immortale.
-Alle frontiere dell’oscurità, invisibile agli occhi umani,  
-Alcuna [[motifs/soul|'anima]] sta attraversando quel confine.
-
-
-
-<span class="atom-split" data-atom="248_night_on_the_prairies" data-title="Night on the Prairies" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,motif/death,concept/immortality,concept/the_sublime,concept/self_and_soul,setting/the_american_frontier,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="248_night_on_the_prairies" data-title="Night on the Prairies" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_
@@ -1071,32 +667,9 @@ I see that I am to wait for what will be exhibited by [[motifs/death|death]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_
 
 
-[[motifs/night|Notte]] nelle praterie,  
-la cena è finita, il [[motifs/fire|fuoco]] sul terreno brucia lentamente;  
-gli emigranti stanchi dormono avvolti nei loro copriletti;  
-io cammino da solo. Mi fermo e guardo le [[motifs/stars|stelle]], che ora mi sembrano  
-mai essere state così belle prima d’ora.
-
-Ora assorbo l’[[concepts/immortality|immortalità]] e la pace;  
-ammiro l’[[motifs/death|morte]] e metto alla prova le mie ipotesi.
-
-Quanto è abbondante! Quanto è spirituale! Quanto è essenziale!  
-Lo stesso vecchio uomo e la stessa [[motifs/soul|'anima]]; le stesse antiche aspirazioni, lo stesso contenuto interno.
-
-Stavo pensando a quanto fosse splendido quel giorno, finché non vidi ciò che quella “notte” mostrava; stavo pensando che questo mondo fosse sufficiente, finché intorno a me non apparvero, in silenzio, innumerevoli altri mondi.
-
-Ora che grandi pensieri sullo spazio e sull’[[concepts/eternity|eternità]] mi riempiono la mente, mi misurerò in base a essi. E ora, avendo preso coscienza delle vite di altri mondi che hanno raggiunto lo stesso livello dello sviluppo della Terra, o che sono ancora in attesa di arrivarci, o che hanno addirittura superato il nostro stadio evolutivo, da questo momento in poi non li ignorerò più, proprio come non ignoro la mia vita, né quelle delle creature terrestri che hanno raggiunto lo stesso livello del mio popolo, o che ne sono ancora lontane.
-
-Ora capisco che la vita non può mostrarmi tutto, proprio come il giorno non può; capisco quindi che devo attendere ciò che sarà rivelato dalla [[motifs/death|morte]].
-
-
-
-<span class="atom-split" data-atom="255_thou_orb_aloft_full_dazzling" data-title="Thou Orb Aloft Full-Dazzling" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/nature,motif/seasons,concept/wonder_and_gratitude,form/ode,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="255_thou_orb_aloft_full_dazzling" data-title="Thou Orb Aloft Full-Dazzling" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_  
@@ -1142,45 +715,9 @@ Prepare my starry nights.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: DALLA [[motifs/noon|MATTINA]] ALLA NOTTE STELLATA_.  
 
 
-O globo splendente lassù nel cielo! Oh caldo mezzogiorno d’ottobre.
-Inonda di luce abbagliante la sabbia grigia della spiaggia,  
-Il mare vicino rimbomba con suoni sinuosi, e in lontananza si vedono onde e schiuma;  
-Strisce brune, ombre e un blu che si estende all’orizzonte.
-O sole splendente del mezzogiorno! A te dedico le mie parole più affettuose.  
-
-Ascoltami, illustre!  
-Il tuo [[archetypes/lover|amante]] ti ama, perché da sempre ti ho amato,  
-Proprio come quel bambino che si riscaldava al sole, o quel ragazzo felice e solitario accanto a un ruscello; i tuoi raggi, così lontani ma così toccanti,  
-Sia per l’uomo maturo, sia per il giovane o il vecchio. Ora ti rivolgo la mia preghiera.  
-
-(Non puoi ingannarmi con il tuo silenzio;  
-so che davanti all’uomo giusto tutta la [[concepts/nature|Natura]] si sottomette;  
-anche se non risponde a parole, i cieli, gli alberi ascoltano la sua voce. E tu, o Sole,  
-le tue convulsioni, le tue improvvisi scatti di fiamme gigantesche.
-Le comprendo, conosco bene quelle fiamme, quei fenomeni.)  
-
-Tu che con calore e luce fecondi,  
-su innumerevoli campi, su terre e acque del Nord e del Sud,  
-lungo il corso infinito del Mississippi, sulle praterie erbose del Texas,  
-nei boschi del Canada,  
-su tutto il globo che si volge verso di te, splendente nello spazio,  
-tu che avvolgi imparzialmente ogni cosa, non solo continenti e mari,  
-tu che doni così generosamente uva, erbacce e piccoli fiori selvatici,  
-versa su di me e su di te anche un raggio fugace dei tuoi innumerevoli splendori,  
-e illumina questi canti.  
-
-Non solo devi esercitare il tuo fascino sottile e la tua forza su di loro,  
-ma prepara anche l’“pomeriggio tardo” della mia vita, prepara le mie ombre che si allungano,  
-prepara le mie notti stellate.
-
-
-
-<span class="atom-split" data-atom="276_a_clear_midnight" data-title="A Clear Midnight" data-chapter="" data-kind="intro" data-tags="motif/night,motif/death,motif/stars,motif/sleep,concept/self_and_soul,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="276_a_clear_midnight" data-title="A Clear Midnight" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -1197,16 +734,9 @@ lovest best,
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: DALLA [[motifs/noon|MATTINA]] ALLA NOTTE STELLATA_.
 
 
-Questa è l’ora tua, o [[motifs/soul|Anima]]: il tuo libero volo verso ciò che non può essere espresso a parole. Lontano dai libri, lontano dall’arte; il giorno è finito, la lezione è compiuta. Emergi completamente, in silenzio, contemplando, riflettendo su quegli argomenti che ami di più. [[motifs/night|Notte]], [[motifs/sleep|sogno]], [[motifs/death|morte]] e le [[motifs/stars|stelle]].
-
-
-
-<span class="atom-split" data-atom="309_after_the_dazzle_of_day" data-title="After the Dazzle of Day" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,motif/light_and_dark,motif/silence,motif/music_and_song,concept/self_and_soul,form/lyric,form/fragment,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="309_after_the_dazzle_of_day" data-title="After the Dazzle of Day" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1222,19 +752,9 @@ Silent, athwart my [[motifs/soul|soul]], moves the symphony true.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-Dopo che lo splendore del giorno è svanito,  
-Solo l’oscura, profonda [[motifs/night|notte]] mostra alle mie occhi le [[motifs/stars|stelle]];  
-Dopo il fragore maestoso dell’organo, o del [[characters/chorus|coro]], o di un’orchestra perfetta,  
-In silenzio, attraverso la mia [[motifs/soul|'anima]], si muove la vera sinfonia.
-
-
-
-<span class="atom-split" data-atom="338_a_prairie_sunset" data-title="A Prairie Sunset" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/nature,motif/light_and_dark,concept/beauty,concept/the_sublime,form/lyric,setting/the_american_west,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="338_a_prairie_sunset" data-title="A Prairie Sunset" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1252,17 +772,6 @@ Pure luminous color fighting the silent shadows to the last.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Oro, marrone scuro e viola, argento abbagliante, smeraldo, colore fulvo.
-Tutta l’ampia vastità della terra e la molteplice forza della [[concepts/nature|Natura]] sono state per una volta dedicate ai colori;  
-La luce, l’atmosfera che questi colori emanano, colori finora sconosciuti.
-Nessun limite, nessun confine. Non solo il cielo occidentale, ma anche l’alto meridiano. Nord, Sud, tutto.
-Colori puri e luminosi che combattono le ombre silenziose fino all’ultimo istante.
 
 
 
@@ -1282,16 +791,6 @@ A haze--nirwana--rest and [[motifs/night|night]]--oblivion.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_
-
-
-Le morbide e voluttuose tonalità opache,
-il sole appena tramontato, la luce vivace ormai svanita. Anch’io presto sarò
-svanito anch’io.
-Una nebbia, il nirvana, riposo e [[motifs/night|notte]], oblio.
-
 
 
 <span class="atom-split" data-atom="348_an_evening_lull" data-title="An Evening Lull" data-chapter="" data-kind="intro" data-tags="cluster/stars,cluster/night,cluster/military_camp"></span>
@@ -1310,16 +809,9 @@ Three hours of peace and soothing rest of brain.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_
 
 
-Dopo una settimana di angoscia fisica, inquietudine e [[motifs/pain|dolore]], nonché calore febbrile, verso la fine della giornata arriva una calma e un riposo tranquillo; tre ore di pace e sollievo per il cervello.
-
-
-
-<span class="atom-split" data-atom="349_old_age_s_lambent_peaks" data-title="Old Age’s Lambent Peaks" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/light_and_dark,motif/fire,concept/mortality,concept/wonder_and_gratitude,form/free_verse,form/lyric,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="349_old_age_s_lambent_peaks" data-title="Old Age’s Lambent Peaks" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1340,23 +832,9 @@ The lights indeed from them--old age’s lambent peaks.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-Il tocco delle fiamme – il luminoso [[motifs/fire|fuoco]] – quell’ultimo sguardo elevato,  
-sul [[motifs/city|città]], sulla passione, sul mare; sulle praterie, sulle montagne, sui boschi. La stessa terra,  
-con i suoi toni aerei, diversi, mutevoli, nel crepuscolo che avanza;  
-oggetti, gruppi, prospettive, volti, ricordi.
-La vista più serena: il cielo dorato, chiaro e vasto.
-Tutto questo fa parte dell’atmosfera, dei punti di vista, delle situazioni da cui osserviamo;  
-tutto ciò viene rivelato da essi, in modo unico. Forse il meglio di tutto ciò non era mai stato notato prima.
-Le luci, infatti, provengono da loro, come le vette luminose dell’età avanzata.
-
-
-
-<span class="atom-split" data-atom="355_my_71st_year" data-title="MY 71st Year" data-chapter="" data-kind="intro" data-tags="motif/night,concept/mortality,concept/memory_and_time,concept/grief_and_loss,concept/faith,form/free_verse,histref/american_civil_war,cluster/stars,cluster/night,cluster/military_camp"></span>
+<span class="atom-split" data-atom="355_my_71st_year" data-title="MY 71st Year" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1375,17 +853,3 @@ Reporting yet, saluting yet the Officer over all.
 
 
 
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Dopo aver superato trenta e dieci difficoltà,  
-con tutte le loro opportunità, i cambiamenti, le perdite, i dolori,  
-la morte dei miei genitori, le incertezze della mia vita, le molte passioni intense che ho vissuto, la guerra del ’63 e del ’43.
-Come un vecchio soldato ferito, dopo una lunga, calda e estenuante marcia, o forse dopo una battaglia,  
-oggi, al crepuscolo, zoppicando, rispondo all’appello della compagnia. Qui,  
-con voce forte,  
-continuo a riferire, e continuo a salutare l’Ufficiale che comanda tutti noi.

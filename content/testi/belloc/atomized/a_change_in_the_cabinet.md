@@ -89,7 +89,7 @@ The Wardenship of the Court of Dowry carried with it something regal in that gre
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO I
+# CAPITOLO I
 
 Sir – o, per essere più precisi, il Nobile Sir T. Charles Repton, Bart., M.V.O., O.M., Sovrintendente della Corte dei Dote, un uomo ormai oltre la mezza età ma ancora pieno di energia e impegno, stava pranzando nella sua casa: una grande residenza che si affacciava su Hyde Park dal lato nord, situata vicino all’angolo di Edgware Road, e quindi distante almeno cento metri dalla posizione indicata sulla mappa che segnava il luogo dove un tempo sorgeva la vecchia forca permanente di Tyburn.
 
@@ -185,7 +185,7 @@ Bene, allora, alle nove e mezza di quel giorno di marzo del 1915, Charles Repton
 
 Il maggiordomo arrivò.
 
-"Vado a pranzo."
+#"Vado a pranzo."
 
 “Sì, signor Charles.”
 
@@ -281,7 +281,7 @@ He was of good birth, and doubtless had he possessed a secure and flowing fortun
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO II
+# CAPITOLO II
 
 Si ammetterà generalmente che un fiume sotterraneo che scorre con grande forza attraverso una regione costantemente infuocata debba, per sua natura, rappresentare una base estremamente instabile per qualsiasi grande struttura in muratura; il pericolo legato alla costruzione su un simile terreno diventa ancora più evidente se i materiali utilizzati non vengono adeguatamente consolidati, a causa della mancanza di professionalità da parte di un appaltatore indifferente al giudizio della propria coscienza.
 
@@ -523,7 +523,7 @@ His daughter with filial gaiety assured him that she had waited his orders, to w
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO III
+# CAPITOLO III
 
 Tardi, quella sera di martedì, Ole Man Benson salì a bordo del Louis XV. Rosewood Express de Luxe mentre questo lasciava la stazione ferroviaria di Chicago della M.N. & C.: era diretto alla sua proprietà in montagna, nell’Idaho, e nella privacy della sua cabina, Ole Man Benson si addormentò.
 
@@ -547,7 +547,7 @@ Lontano, a [[settings/london|Londra]] (Inghilterra), George Mulross Demaine non 
 
 Oh! no. Ole Man Benson proseguì verso New York, ebbe alcune interviste con certe persone, assunse determinati farmaci, seguì un certo trattamento e, come sperava, gettò le basi per un altro piano. Solo il 30 marzo, una settimana dopo l’episodio che ho descritto, Theocritus dettò una breve nota alla sua figlia, che qui trascrivo:
 
-Se non viene consegnato, per favore restituirlo.
+# Se non viene consegnato, per favore restituirlo.
 
 Titolo: Entro tre giorni…
 
@@ -773,7 +773,7 @@ For his colleague Bingham added to a native idiocy of solid texture and formidab
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO IV
+# CAPITOLO IV
 
 Charles Repton, con i suoi interessi finanziari così diversificati, non sapeva nulla dei Popocatapetl e gliene importava ancora meno.
 
@@ -1005,7 +1005,7 @@ He, poor fellow, saw in all this nothing but that eternity of bad luck to which 
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO V
+# CAPITOLO V
 
 La casa dei Petherington, verso cui Mary Smith si diresse la sera del 12 aprile, illuminata dalle due graziose luci elettriche della sua auto – una su ciascun lato del viso – era una delle centinaia di case simili che si trovano a [[settings/london|Londra]], un enorme cubo marrone situato nel mezzo di Grosvenor Square.
 
@@ -1021,7 +1021,7 @@ Un estraneo avrebbe potuto pensare che avesse pochi amici; procedeva così lenta
 
 Dolly conosceva bene Mary Smith e si rassegnò ad affrontare quella sofferenza. Non era certo venuta lì quella notte per niente. Si avvicinò a lui in meno di mezzo minuto, dopo averlo individuato tra la folla di persone ricche, e lo portò via silenziosamente. Lo fece sedere su una grande sedia situata in un angolo appartato, dove la luce era soffusa. Approfittando di un fragoroso rumore prodotto dall’orchestra – che, rispetto ai successi precedenti, sembrava davvero poco impressionante – gridò:
 
-Quando farai il tuo prossimo passo?
+#Quando farai il tuo prossimo passo?
 
 Il Primo Ministro la pregò di non parlare di lavoro. Poi, in modo piuttosto contraddittorio, aggiunse, indebolendo il proprio tono: “Perché vuoi saperlo?”
 
@@ -1159,7 +1159,7 @@ During the eighteenth century the fixed yearly salary of £2000 hereditarily enj
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VI
+# CAPITOLO VI
 
 La Pasqua, come coloro che sopravvissero avranno modo di sapere, arrivò presto nel 1915: per essere precisi, il 4 aprile. Ole Man Benson era tornato l’11; il 12 Mary aveva visto Dolly; e la settimana dopo il ritorno di Ole Man Benson in queste terre, la settimana dopo che aveva comunicato quella notizia importante ma alquanto deprimente alla giovane famiglia, la settimana dopo che Mary e Dolly si erano incontrate dai Petherington, fu proprio quella settimana che il Parlamento riunì dopo la pausa estiva, la terza settimana di aprile.
 
@@ -1187,7 +1187,7 @@ La Corte della Dote, con la sua stessa esistenza e ancora di più forse con le f
 
 Fu istituito originariamente per giudicare cause che rientravano nella giurisdizione di quella Regina Madre del Medioevo a cui il poeta Gray fa un’allusione così commovente nelle sue straordinarie righe.
 
-Lupa mannara di Francia con zanne implacabili
+#Lupa mannara di Francia con zanne implacabili
 
 “Strappando le viscere”, ecc.
 
@@ -1725,7 +1725,7 @@ The mood was of no long duration. She could have wished it had been longer. He s
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VII
+# CAPITOLO VII
 
 Charles Repton non aveva mai trascorso nessun fine settimana; era rimasto sempre a [[settings/london|Londra]].
 
@@ -2077,7 +2077,7 @@ Yet again his mood changed and he burst into an explosion of laughter as he reme
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VIII
+# CAPITOLO VIII
 
 Sir Charles Repton camminava a grandi passi per Whitehall. Il lavoro di quella giornata era stato intenso, soprattutto nelle ore successive a quella conversazione mattutina, e lui ne soffriva.
 
@@ -2451,7 +2451,7 @@ The driver, now convinced that he had to do with something quite out of the ordi
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO IX
+# CAPITOLO IX
 
 Quando Sir Charles Repton si svegliò quella mattina di martedì, si sentì meglio di quanto non si fosse mai sentito da quando aveva perso la sua giovinezza. C'era qualcosa di leggero nell’aria intorno a lui, e nella sua mente una mancanza di preoccupazioni e di conflitti che all’epoca non riuscì a spiegare, ma che forse, in modo vago, attribuì alla purezza dell’aria e alla bellezza di quella giornata.
 
@@ -2553,7 +2553,7 @@ Quando arrivò il momento di parlare, si alzò in piedi, forse un po’ troppo r
 
 Certamente era un gesto calcolato per attirare la loro attenzione, se non per convincerli; le prime parole che gridò nella sala furono proprio queste:
 
-“Perché siamo qui?”
+# “Perché siamo qui?”
 
 Dopo quella domanda retorica, pronunciata con un urlo che avrebbe riempito la più grande stazione ferroviaria di [[settings/london|Londra]], la ripeté con un tono leggermente più basso, strinse i pugni e li batté con forza sul tavolo, rispondendo come se stesse emettendo una sentenza definitiva:
 
@@ -2941,7 +2941,7 @@ Alas, for the various locutions of various ranks in our society! he did turn sha
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO X
+# CAPITOLO X
 
 L’espressione “intossicato di piacere”, troppo comune nella nostra letteratura, descriverebbe in modo assai impreciso lo stato d’animo di George Mulross Demaine quando uscì dalla stanza del Primo Ministro quella notte di lunedì.
 
@@ -3295,7 +3295,7 @@ Era questa la persona su cui dipendevano le speranze di Demaine per un rapido re
 
 Il Capitano Higgins tirò fuori un foglio grande, dall'aspetto ufficiale, diviso in diversi riquadri misteriosi, ciascuno intitolato da una dicitura stampata, e disse brevemente, senza alzare lo sguardo e con la penna pronta a scrivere:
 
-“Nome?”
+# “Nome?”
 
 “Demaine,” disse George, con tutta la dignità che riuscì a racimolare… “Ma…”
 
@@ -3567,7 +3567,7 @@ The Prime Minister almost forced him down into the chair from which he had risen
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XI
+# CAPITOLO XI
 
 Quel martedì pomeriggio del 2 giugno, mentre George Mulross Demaine galleggiava lungo il fiume nella sua cella, Dolly sedeva immobile a Downing Street, con le acque della disperazione alle sue labbra.
 
@@ -4067,7 +4067,7 @@ Il Primo Ministro emise un gemito.
 
 “Il pranzo non è niente di che,” disse Edward.
 
-Perché no?
+# Perché no?
 
 I giornali serali vengono stampati la mattina.
 
@@ -4221,7 +4221,7 @@ Evans trascorse circa trenta secondi a guardare il pavimento.
 
 Evans si avvicinò alla finestra, guardò fuori nella strada della [[motifs/city|Città]] e disse, senza mostrare il viso:
 
-“Il signor Price è un membro molto apprezzato del nostro gruppo.”
+# “Il signor Price è un membro molto apprezzato del nostro gruppo.”
 
 Alla parola “proprietario”, il signor Price cambiò colore. Tuttavia, Evans non intendeva il proprietario del signor Price, ma semplicemente il proprietario della Luna.
 
@@ -4379,7 +4379,7 @@ A voice came bawling down from above, ordering him to tumble up with the prisone
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XII
+# CAPITOLO XII
 
 “Oh Libertà!” esclama il poeta bulgaro Machinchose in un bellissimo apostrofo, troppo poco conosciuto in questo paese, “Oh Libertà”, ecc.
 
@@ -5251,11 +5251,11 @@ Sia nella tattica che nella strategia esiste una disposizione conosciuta come of
 
 “Sì,” disse Dimmy.
 
-Hai fame?
+# Hai fame?
 
 “Sì,” disse Dimmy.
 
-Hai sete?
+# Hai sete?
 
 “Sono molto stanco,” disse Dimmy.
 
@@ -5335,7 +5335,7 @@ A thousand horrid thoughts! Found dead? Found wandering and imbecile? Found —�
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIII
+# CAPITOLO XIII
 
 Per tutto quel caldo pomeriggio e fino all’inizio del tramonto, George Mulross dormì profondamente; dormì come se fosse morto, a Parham.
 
@@ -5503,7 +5503,7 @@ Rimasero seduti insieme in silenzio per un momento. Il Primo Ministro, come era 
 
 Erano abbastanza chiari.
 
-Il ministro perduto ritrovato
+# Il ministro perduto ritrovato
 
 Disse la cosa più dignitosa.
 
@@ -5833,7 +5833,7 @@ Si cenarono insieme a Richmond, quella cittadina suburbana a cui erano arrivati 
 
 “Non lo so”, disse George, “non me ne sono accorto”.
 
-Edward provò un altro approccio. “C’erano case intorno ad esso?”
+#Edward provò un altro approccio. “C’erano case intorno ad esso?”
 
 “Sì, moltissimi,” disse George, “moltissimi. C'erano allori, molte colonne di lampioni a gas, e anche un tram. Oh, era davvero un posto terribile!”
 
@@ -5841,7 +5841,7 @@ Allora Evans capì: nella sua mente c'era il Giardino di [[settings/england|Ingh
 
 “Come facevi a sapere che ero entrato in Cannon Street?”, chiese George con gli occhi spalancati, come un bambino che vede la carta segnalata in segreto uscire dal mazzo.
 
-"Non importa… Perché sei andato in Liverpool Street?"
+#"Non importa… Perché sei andato in Liverpool Street?"
 
 “William mi ha detto di farlo,” rispose semplicemente George.
 
@@ -5927,7 +5927,7 @@ Another attack of pain in the head seized him and passed. She sat doggedly, and 
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIV
+# CAPITOLO XIV
 
 Per tutta la notte, Sir Charles Repton dormì agitato e inquieto; per tutta la notte sua fedele moglie Maria rimase sveglia a vegliarlo. Non osava affidarsi a una infermiera qualificata, né a nessun membro della famiglia. Mentre dormiva, mormorava cose strane riguardo al governo di [[settings/england|Inghilterra]] e ancora più strane riguardo ai suoi stessi piani finanziari.
 
@@ -6063,7 +6063,7 @@ La didascalia era particolare; recitava:
 
 Alla Nobile Onorabilità.
 
-A, davvero
+# A, davvero
 
 La signora C. Repton, M.V.O.
 
@@ -6483,7 +6483,7 @@ Dolly came in nervously and shook hands with him.
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XV
+# CAPITOLO XV
 
 Era venerdì mattina, il 5 giugno 1915: il giovane e popolare Primo Ministro era impegnato nella Cerimonia di Insediamento dei Guardiani della Corte del Dote.
 
@@ -7053,7 +7053,7 @@ Mary Smith era quasi infastidita, ma in un’occasione del genere lo perdonò.
 
 A nord del Parco, per due ore consecutive, Lord Repton di Giggleswick aveva dormito serenamente.
 
-Sulle funzioni pseudologiche della ganglia di Caryll
+# Sulle funzioni pseudologiche della ganglia di Caryll
 
 Un opuscolo
 
@@ -7147,14 +7147,14 @@ Note finali.
 
 2 Lo fece.
 
-3... una debole madre dell’oceano
+# 3... una debole madre dell’oceano
 
 “Con abiti fatti di fuoco, il poeta danzò.”
 
 Titolo:  
 {Greco: … mega sthenos Ôkeanoio}
 
-L'antica legge e il nuovo diritto
+# L'antica legge e il nuovo diritto
 
 Mi riferisco a Mr. Bulge, sia come attore che come autore. Amen.
 

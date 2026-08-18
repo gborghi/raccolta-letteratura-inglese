@@ -15,7 +15,7 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/the-ballad-of-the-white-horse-(chesterton)|The Ballad of the White Horse (Chesterton)]]
-- [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#286_the_garden_of_boccaccio|THE GARDEN OF BOCCACCIO (Coleridge)]]
+- [[works/the-garden-of-boccaccio-(coleridge)|THE GARDEN OF BOCCACCIO (Coleridge)]]
 
 </div>
 

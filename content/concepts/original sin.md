@@ -22,7 +22,7 @@ tags:
 - [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
 - [[works/st-francis-(chesterton)|St Francis (Chesterton)]]
 - [[works/ortho14-(chesterton)|ortho14 (Chesterton)]]
-- [[testi/coleridge/atomized/faith-providence-divine-love#360_epitaph_of_the_present_year_on_the_monument_of_thomas_fuller|EPITAPH OF THE PRESENT YEAR ON THE MONUMENT OF THOMAS FULLER (Coleridge)]]
+- [[works/epitaph-of-the-present-year-on-the-monument-of-thomas-fuller-(coleridge)|EPITAPH OF THE PRESENT YEAR ON THE MONUMENT OF THOMAS FULLER (Coleridge)]]
 - [[works/the-mind-of-the-maker-(sayers)|The Mind of the Maker (Sayers)]]
 
 </div>

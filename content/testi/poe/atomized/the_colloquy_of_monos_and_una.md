@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_colloquy_of_monos_and_una" data-title="The Colloquy of Monos and Una" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-colloquy-of-monos-and-una-(poe)|The Colloquy of Monos and Una]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_murders_in_the_rue_morgue" data-title="The Murders in the Rue Morgue" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-murders-in-the-rue-morgue-(poe)|The Murders in the Rue Morgue]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

@@ -19,10 +19,10 @@ tags:
 - [[works/1-henry-iv-(shakespeare)|1 HENRY IV (Shakespeare)]]
 - [[works/2-henry-iv-(shakespeare)|2 HENRY IV (Shakespeare)]]
 - [[works/all-is-true---(henry-viii)-(shakespeare)|ALL IS TRUE - (HENRY VIII) (Shakespeare)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#002_calidore|CALIDORE (Keats)]]
+- [[works/calidore-(keats)|CALIDORE (Keats)]]
 - [[works/edward-iii-(shakespeare)|EDWARD III (Shakespeare)]]
 - [[works/henry-v-(shakespeare)|HENRY V (Shakespeare)]]
 - [[works/sir-thomas-more-(shakespeare)|SIR THOMAS MORE (Shakespeare)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#001_specimen_of_an_induction_to_a_poem|SPECIMEN OF AN INDUCTION TO A POEM (Keats)]]
+- [[works/specimen-of-an-induction-to-a-poem-(keats)|SPECIMEN OF AN INDUCTION TO A POEM (Keats)]]
 
 </div>

@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_facts_in_the_case_of_m_valdemar" data-title="The Facts in the Case of M. Valdemar" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-facts-in-the-case-of-m.-valdemar-(poe)|The Facts in the Case of M. Valdemar]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

@@ -36,6 +36,10 @@ tags:
 > [!abstract] 
 > Tragic narrative poem in rhyme royal: Tarquin's rape of the chaste Roman matron Lucrece, her grief and suicide, and the political revolution it triggers. Central themes: lust, honour and chastity, guilt, justice and the fall of tyranny.
 
+## Testo / Text
+
+- [THE RAPE OF LUCRECE](/testi/shakespeare/poems/the_rape_of_lucrece#intro)
+
 ## Connections
 
 **Archetypes:** [[archetypes/villain|Villain]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/innocent|Innocent]]

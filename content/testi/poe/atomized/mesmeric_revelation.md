@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="mesmeric_revelation" data-title="Mesmeric Revelation" data-chapter="" data-kind="intro"></span>
 
-# [[works/mesmeric-revelation-(poe)|Mesmeric Revelation]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

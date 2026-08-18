@@ -21,6 +21,10 @@ tags:
 > [!abstract] 
 > Scholarly account of Shakespeare's lost comedy, attested by Francis Meres (1598) and a 1603 bookseller's fragment. As a comedy paired with Love's Labour's Lost it implies themes of romantic love and the fortunes of courtship; the account itself concerns textual transmission and the canon.
 
+## Testo / Text
+
+- [LOVE’S LABOUR’S WON - A BRIEF ACCOUNT](/testi/shakespeare/poems/loves_labours_won#intro)
+
 ## Connections
 
 **Motifs:** [[motifs/book-reading|Book Reading]]

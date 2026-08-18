@@ -16,9 +16,9 @@ tags:
 
 - [[works/poems-(chesterton)|Poems (Chesterton)]]
 - [[works/to-belloc-(chesterton)|to-belloc (Chesterton)]]
-- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#161_hexameters|HEXAMETERS (Coleridge)]]
-- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#189_talleyrand_minister_of_foreign_affairs_at_paris_to_lord_grenville|TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE (Coleridge)]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#208_to_matilda_betham_from_a_stranger|TO MATILDA BETHAM FROM A STRANGER (Coleridge)]]
+- [[works/hexameters-(coleridge)|HEXAMETERS (Coleridge)]]
+- [[works/talleyrand,-minister-of-foreign-affairs-at-paris,-to-lord-grenville-(coleridge)|TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE (Coleridge)]]
+- [[works/to-matilda-betham-from-a-stranger-(coleridge)|TO MATILDA BETHAM FROM A STRANGER (Coleridge)]]
 
 </div>
 

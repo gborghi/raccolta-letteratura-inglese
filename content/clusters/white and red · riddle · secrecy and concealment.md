@@ -16,12 +16,12 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0015_the_guest_is_gold_and_crimson|15. The Guest is gold and crimson — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0173_a_fuzzy_fellow_without_feet|173. A fuzzy fellow, without feet, (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0658_whole_gulfs_of_red_and_fleets_of_red|658. Whole Gulfs — of Red, and Fleets — of Red — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0793_grief_is_a_mouse|793. Grief is a Mouse — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0842_good_to_hide_and_hear_em_hunt|842. Good to hide, and hear 'em hunt! (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0854_banish_air_from_air|854. Banish Air from Air — (Dickinson)]]
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0986_a_narrow_fellow_in_the_grass|986. A narrow fellow in the grass (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#e_guest_is_gold_and_crimson|15. The Guest is gold and crimson — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#fuzzy_fellow_without_feet|173. A fuzzy fellow, without feet, (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#ole_gulfs_of_red_and_fleets_of_red|658. Whole Gulfs — of Red, and Fleets — of Red — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#ief_is_a_mouse|793. Grief is a Mouse — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#od_to_hide_and_hear_em_hunt|842. Good to hide, and hear 'em hunt! (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#nish_air_from_air|854. Banish Air from Air — (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#narrow_fellow_in_the_grass|986. A narrow fellow in the grass (Dickinson)]]
 
 </div>

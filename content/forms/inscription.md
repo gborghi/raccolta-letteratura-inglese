@@ -15,7 +15,7 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/for-a-war-memorial-(chesterton)|For a War Memorial (Chesterton)]]
-- [[testi/coleridge/atomized/mortality-grave-memento-mori#194_inscription_for_a_seat_by_the_road_side_half-way_up_a_steep_hill_facing_south|INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH (Coleridge)]]
+- [[works/inscription-for-a-seat-by-the-road-side-half-way-up-a-steep-hill-facing-south-(coleridge)|INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH (Coleridge)]]
 
 </div>
 

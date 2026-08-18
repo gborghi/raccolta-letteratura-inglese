@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Miss Maria Whitney](/testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#l0329_miss_maria_whitney)
+- [To Miss Maria Whitney](/testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--letters#s_maria_whitney)
 

@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="how_to_write_a_blackwood_article" data-title="How to Write a Blackwood Article" data-chapter="" data-kind="intro"></span>
 
-# [[works/how-to-write-a-blackwood-article-(poe)|How to Write a Blackwood Article]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/wonder-and-gratitude-sublime-storm" data-author="Coleridge" data-workhref="works/wonder-and-gratitude-·-sublime-·-storm-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="001_dura_navis" data-title="DURA NAVIS" data-chapter="" data-kind="intro" data-tags="topos/beatus_ille,motif/the_sea,motif/storm,motif/blood,concept/war_and_its_cost,concept/marriage_and_fidelity,form/sonnet,setting/the_sea,setting/a_ship,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+DURA NAVIS · THE NOSE · TO THE AUTHOR OF ‘THE ROBBERS’ · LA FAYETTE · ON A CATARACT FROM A CAVERN NEAR THE SUMMIT OF A MOUNTAIN PRECIPICE: STROPHE · LINES WRITTEN IN THE ALBUM AT ELBINGERODE, IN THE HARTZ FOREST · A THOUGHT SUGGESTED BY A VIEW OF SADDLEBACK IN CUMBERLAND · A STRANGER MINSTREL · ON REVISITING THE SEA-SHORE AFTER LONG ABSENCE, UNDER STRONG MEDICAL RECOMMENDATION NOT TO BATHE · A SUNSET · TO A LADY WITH FALCONER’S SHIPWRECK · REFLECTION ON THE ABOVE · POEM UPON NOTHING · TO CAPTAIN FINDLAY · THE NETHERLANDS · SCHILLER: DER EPISCHE HEXAMETER · STOLBERG: ON A CATARACT · FRIEDERIKE BRUN: CHAMOUNY BEYM SONNENAUFGANGE
+
+
+
+
+<span class="atom-split" data-atom="001_dura_navis" data-title="DURA NAVIS" data-chapter="" data-kind="intro"></span>
 
 
 To tempt the dangerous deep, too venturous youth,  
@@ -151,7 +156,7 @@ e indorerà di raggi lucentissimi la sera della tua Vita.
 
 
 
-<span class="atom-split" data-atom="007_the_nose" data-title="THE NOSE" data-chapter="" data-kind="intro" data-tags="motif/fire,concept/the_grotesque,form/parody,form/ode,form/mock_epic,histref/greek_mythology,character/prometheus,character/satan,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="007_the_nose" data-title="THE NOSE" data-chapter="" data-kind="intro"></span>
 
 
 Ye souls unus’d to lofty verse  
@@ -243,7 +248,7 @@ perisco nella vampa mentre la vampa ammiro.   40
 
 
 
-<span class="atom-split" data-atom="075_to_the_author_of_the_robbers" data-title="TO THE AUTHOR OF ‘THE ROBBERS’" data-chapter="" data-kind="intro" data-tags="motif/storm,concept/the_sublime,concept/terror_and_horror,concept/the_artist_and_society,concept/the_grotesque,form/sonnet,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="075_to_the_author_of_the_robbers" data-title="TO THE AUTHOR OF ‘THE ROBBERS’" data-chapter="" data-kind="intro"></span>
 
 
 Schiller! that hour I would have wish’d to die,  
@@ -283,7 +288,7 @@ poi piangerei forte in una selvaggia estasi!
 
 
 
-<span class="atom-split" data-atom="085_la_fayette" data-title="LA FAYETTE" data-chapter="" data-kind="intro" data-tags="topos/dawn_parting_alba,motif/birds,motif/dawn,concept/liberty,concept/heroism,form/sonnet,histref/the_french_revolution,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="085_la_fayette" data-title="LA FAYETTE" data-chapter="" data-kind="intro"></span>
 
 
 As when far off the warbled strains are heard  
@@ -323,7 +328,7 @@ e gli spettri della [[concepts/slavery|Schiavitù]] stridono e svaniscono al rag
 
 
 
-<span class="atom-split" data-atom="166_on_a_cataract_from_a_cavern_near_the_summit_of_a_mountain_precipice_strophe" data-title="ON A CATARACT FROM A CAVERN NEAR THE SUMMIT OF A MOUNTAIN PRECIPICE: STROPHE" data-chapter="" data-kind="intro" data-tags="topos/the_sublime_in_nature,motif/water,motif/nature,concept/the_sublime,concept/wonder_and_gratitude,form/ode,form/fragment,setting/the_mountains,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="166_on_a_cataract_from_a_cavern_near_the_summit_of_a_mountain_precipice_strophe" data-title="ON A CATARACT FROM A CAVERN NEAR THE SUMMIT OF A MOUNTAIN PRECIPICE: STROPHE" data-chapter="" data-kind="intro"></span>
 
 
 Unperishing youth!  
@@ -367,7 +372,7 @@ possa nascere in un santo crepuscolo!
 
 
 
-<span class="atom-split" data-atom="175_lines_written_in_the_album_at_elbingerode_in_the_hartz_forest" data-title="LINES WRITTEN IN THE ALBUM AT ELBINGERODE, IN THE HARTZ FOREST" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,concept/the_sublime,concept/nostalgia,concept/nationalism_and_patriotism,concept/faith,concept/exile,form/blank_verse,setting/the_mountains,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="175_lines_written_in_the_album_at_elbingerode_in_the_hartz_forest" data-title="LINES WRITTEN IN THE ALBUM AT ELBINGERODE, IN THE HARTZ FOREST" data-chapter="" data-kind="intro"></span>
 
 
 I stood on Brocken’s sovran height, and saw  
@@ -459,7 +464,7 @@ Egli stesso nostro Padre, e il Mondo nostra [[motifs/home|Casa]].
 
 
 
-<span class="atom-split" data-atom="192_a_thought_suggested_by_a_view_of_saddleback_in_cumberland" data-title="A THOUGHT SUGGESTED BY A VIEW OF SADDLEBACK IN CUMBERLAND" data-chapter="" data-kind="intro" data-tags="topos/the_sublime_in_nature,motif/nature,motif/storm,motif/wind,concept/the_sublime,form/lyric,setting/the_mountains,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="192_a_thought_suggested_by_a_view_of_saddleback_in_cumberland" data-title="A THOUGHT SUGGESTED BY A VIEW OF SADDLEBACK IN CUMBERLAND" data-chapter="" data-kind="intro"></span>
 
 
 On stern Blencartha’s perilous height  
@@ -489,7 +494,7 @@ Le cose che cercano la terra, che pieno di rumore e tumulto!
 
 
 
-<span class="atom-split" data-atom="195_a_stranger_minstrel" data-title="A STRANGER MINSTREL" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/music_and_song,motif/nature,concept/immortality_of_art,concept/the_sublime,concept/the_artist_and_society,form/lyric,setting/the_mountains,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="195_a_stranger_minstrel" data-title="A STRANGER MINSTREL" data-chapter="" data-kind="intro"></span>
 
 
 WRITTEN TO MRS. ROBINSON, A FEW WEEKS BEFORE HER [[motifs/death|DEATH]]  
@@ -647,7 +652,7 @@ Novembre 1800.
 
 
 
-<span class="atom-split" data-atom="200_on_revisiting_the_sea-shore_after_long_absence_under_strong_medical_recommendati" data-title="ON REVISITING THE SEA-SHORE AFTER LONG ABSENCE, UNDER STRONG MEDICAL RECOMMENDATION NOT TO BATHE" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/memory,concept/joy,concept/faith,concept/wonder_and_gratitude,form/ode,form/lyric,setting/the_sea,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="200_on_revisiting_the_sea-shore_after_long_absence_under_strong_medical_recommendati" data-title="ON REVISITING THE SEA-SHORE AFTER LONG ABSENCE, UNDER STRONG MEDICAL RECOMMENDATION NOT TO BATHE" data-chapter="" data-kind="intro"></span>
 
 
 God be with thee, gladsome Ocean!  
@@ -707,7 +712,7 @@ Agosto 1801.
 
 
 
-<span class="atom-split" data-atom="224_a_sunset" data-title="A SUNSET" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/nature,motif/wind,concept/transience,concept/the_sublime,form/fragment,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="224_a_sunset" data-title="A SUNSET" data-chapter="" data-kind="intro"></span>
 
 
 Upon the mountain’s edge with light touch resting,  
@@ -745,7 +750,7 @@ e profonda la caverna della fonte mormora.
 
 
 
-<span class="atom-split" data-atom="252_to_a_lady_with_falconers_shipwreck" data-title="TO A LADY WITH FALCONER’S SHIPWRECK" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/storm,motif/memory,concept/friendship,concept/grief_and_loss,form/lyric,setting/the_sea,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="252_to_a_lady_with_falconers_shipwreck" data-title="TO A LADY WITH FALCONER’S SHIPWRECK" data-chapter="" data-kind="intro"></span>
 
 
 Ah! not by Cam or Isis, famous streams,  
@@ -813,7 +818,7 @@ una lacrima per Falconer, ti ricorderai di me.
 
 
 
-<span class="atom-split" data-atom="277_reflection_on_the_above" data-title="REFLECTION ON THE ABOVE" data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/light_and_dark,concept/faith_and_doubt,concept/conscience,concept/martyrdom,concept/critique_of_progress,histref/the_reformation,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="277_reflection_on_the_above" data-title="REFLECTION ON THE ABOVE" data-chapter="" data-kind="intro"></span>
 
 
 Lynx amid moles! had I stood by thy bed,   5  
@@ -887,7 +892,7 @@ le nebbie e i vapori dipinti del nostro Mattino.   35
 
 
 
-<span class="atom-split" data-atom="355_poem_upon_nothing" data-title="POEM UPON NOTHING" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,concept/paradox,concept/beauty,form/epigram,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="355_poem_upon_nothing" data-title="POEM UPON NOTHING" data-chapter="" data-kind="intro"></span>
 
 
 On nothing, Fanny, shall I write?  
@@ -915,7 +920,7 @@ Ora raccolta per la prima [[motifs/time|volta]].
 
 
 
-<span class="atom-split" data-atom="368_to_captain_findlay" data-title="TO CAPTAIN FINDLAY" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/wind,motif/the_journey,concept/joy,form/song,setting/a_ship,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="368_to_captain_findlay" data-title="TO CAPTAIN FINDLAY" data-chapter="" data-kind="intro"></span>
 
 
 When the squalls were flitting and fleering  
@@ -971,7 +976,7 @@ a vedere.’ ‘[[motifs/well|Ebbene]], abbiamo finalmente un [[motifs/wind|vent
 
 
 
-<span class="atom-split" data-atom="392_the_netherlands" data-title="THE NETHERLANDS" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/water,motif/nature,motif/fog_and_smoke,form/fragment,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="392_the_netherlands" data-title="THE NETHERLANDS" data-chapter="" data-kind="intro"></span>
 
 
 [[motifs/water|Water]] and windmills, greenness, Islets green; —  
@@ -997,7 +1002,7 @@ Giugno 1828. Ora pubblicata per la prima volta da un MS.
 
 
 
-<span class="atom-split" data-atom="434_schiller_der_epische_hexameter" data-title="SCHILLER: DER EPISCHE HEXAMETER" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/water,concept/imagination,concept/immortality_of_art,form/epigram,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="434_schiller_der_epische_hexameter" data-title="SCHILLER: DER EPISCHE HEXAMETER" data-chapter="" data-kind="intro"></span>
 
 
 Schwindelnd trägt er dich fort auf rastlos strömenden Wogen;  
@@ -1023,7 +1028,7 @@ C
 
 
 
-<span class="atom-split" data-atom="435_stolberg_on_a_cataract" data-title="STOLBERG: ON A CATARACT" data-chapter="" data-kind="intro" data-tags="motif/water,motif/nature,motif/sun,concept/the_sublime,concept/wonder_and_gratitude,form/hymn,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="435_stolberg_on_a_cataract" data-title="STOLBERG: ON A CATARACT" data-chapter="" data-kind="intro"></span>
 
 
 Unsterblicher Jüngling!  
@@ -1061,7 +1066,7 @@ D
 
 
 
-<span class="atom-split" data-atom="445_friederike_brun_chamouny_beym_sonnenaufgange" data-title="FRIEDERIKE BRUN: CHAMOUNY BEYM SONNENAUFGANGE" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/dawn,concept/the_sublime,concept/wonder_and_gratitude,concept/faith,form/ode,setting/the_mountains,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
+<span class="atom-split" data-atom="445_friederike_brun_chamouny_beym_sonnenaufgange" data-title="FRIEDERIKE BRUN: CHAMOUNY BEYM SONNENAUFGANGE" data-chapter="" data-kind="intro"></span>
 
 
 (Nach Klopstock.)  

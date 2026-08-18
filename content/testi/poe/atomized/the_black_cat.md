@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_black_cat" data-title="The Black Cat" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-black-cat-(poe)|The Black Cat]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

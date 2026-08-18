@@ -16,18 +16,18 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1515_the_things_that_never_can_come_back_are_several|1515. The Things that never can come back, are several — (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#1659_fame_is_a_fickle_food|1659. Fame is a fickle food (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#0534_we_see_comparatively|534. We see — Comparatively — (Dickinson)]]
-- [[testi/dickinson/atomized/transience-decay-carpe-diem#0981_as_sleigh_bells_seem_in_summer|981. As Sleigh Bells seem in summer (Dickinson)]]
-- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#016_burbank_with_a_baedeker_bleistein_with_a_cigar|Burbank with a Baedeker Bleistein with a Cigar (Eliot)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem--poems#e_things_that_never_can_come_back_are_several|1515. The Things that never can come back, are several — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem--poems#me_is_a_fickle_food|1659. Fame is a fickle food (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem--poems#_see_comparatively|534. We see — Comparatively — (Dickinson)]]
+- [[testi/dickinson/atomized/transience-decay-carpe-diem--poems#_sleigh_bells_seem_in_summer|981. As Sleigh Bells seem in summer (Dickinson)]]
+- [[works/burbank-with-a-baedeker-bleistein-with-a-cigar-(eliot)|Burbank with a Baedeker Bleistein with a Cigar (Eliot)]]
 - [[works/for-a-war-memorial-(chesterton)|For a War Memorial (Chesterton)]]
-- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#021_lune_de_miel|Lune de Miel (Eliot)]]
-- [[testi/keats/atomized/seasons-winter-autumn#061_on_seeing_the_elgin_marbles|On Seeing the Elgin Marbles (Keats)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#268_spain_1873_74|Spain, 1873-74 (Whitman)]]
+- [[works/lune-de-miel-(eliot)|Lune de Miel (Eliot)]]
+- [[works/on-seeing-the-elgin-marbles-(keats)|On Seeing the Elgin Marbles (Keats)]]
+- [[works/spain,-1873-74-(whitman)|Spain, 1873-74 (Whitman)]]
 - [[works/the-coliseum-(poe)|The Coliseum (Poe)]]
-- [[testi/coleridge/atomized/transience-decay-carpe-diem#259_the_knights_tomb|THE KNIGHT’S TOMB (Coleridge)]]
+- [[works/the-knight’s-tomb-(coleridge)|THE KNIGHT’S TOMB (Coleridge)]]
 - [[works/towers-of-time-(chesterton)|towers-of-time (Chesterton)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#325_yonnondio|Yonnondio (Whitman)]]
+- [[works/yonnondio-(whitman)|Yonnondio (Whitman)]]
 
 </div>

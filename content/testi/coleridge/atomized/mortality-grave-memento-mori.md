@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/mortality-grave-memento-mori" data-author="Coleridge" data-workhref="works/mortality-·-grave-·-memento-mori-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="010_life" data-title="LIFE" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/river,motif/the_journey,motif/death,concept/immortality,form/sonnet,setting/rural_england,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+LIFE · MORIENS SUPERSTITI · TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH · ON AN INFANT WHICH DIED BEFORE BAPTISM · INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH · WHAT IS LIFE? · EPITAPH ON AN INFANT · EPITAPHIUM TESTAMENTARIUM · EPITAPH · ON AN INSIGNIFICANT · EPITAPH ON MAJOR DIEMAN · EPITAPH ON A BAD MAN · A HINT TO PREMIERS AND FIRST CONSULS · ANOTHER VERSION. · UNDERWOODS · THE HOUR-GLASS
+
+
+
+
+<span class="atom-split" data-atom="010_life" data-title="LIFE" data-chapter="" data-kind="intro"></span>
 
 
 As late I [[motifs/journey|journey]]’d o’er the extensive plain  
@@ -51,7 +56,7 @@ e il pensiero sospeso giacerà nella beata estasi del Rapimento.
 
 
 
-<span class="atom-split" data-atom="060_moriens_superstiti" data-title="MORIENS SUPERSTITI" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/bells,concept/mortality,concept/grief_and_loss,concept/faith,form/lyric,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="060_moriens_superstiti" data-title="MORIENS SUPERSTITI" data-chapter="" data-kind="intro"></span>
 
 
 The hour-bell sounds, and I must go;  
@@ -93,7 +98,7 @@ Ahimè! lascio una vita di piacere.
 
 
 
-<span class="atom-split" data-atom="133_translation_of_a_latin_inscription_by_the_rev_w_l_bowles_in_nether-stowey_church" data-title="TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,concept/mortality,concept/grief_and_loss,concept/faith,form/elegy,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="133_translation_of_a_latin_inscription_by_the_rev_w_l_bowles_in_nether-stowey_church" data-title="TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH" data-chapter="" data-kind="intro"></span>
 
 
 Depart in joy from this world’s noise and strife  
@@ -133,7 +138,7 @@ Naturæ et tremulâ dicere Voce, Vale!’]
 
 
 
-<span class="atom-split" data-atom="172_on_an_infant_which_died_before_baptism" data-title="ON AN INFANT WHICH DIED BEFORE BAPTISM" data-chapter="" data-kind="intro" data-tags="archetype/innocent,motif/death,concept/mortality,concept/grace_and_redemption,concept/faith,form/epigram,form/elegy,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="172_on_an_infant_which_died_before_baptism" data-title="ON AN INFANT WHICH DIED BEFORE BAPTISM" data-chapter="" data-kind="intro"></span>
 
 
 ‘Be, rather than be called, a [[archetypes/child|child]] of God,’  
@@ -157,7 +162,7 @@ Possessore, non Erede.
 
 
 
-<span class="atom-split" data-atom="194_inscription_for_a_seat_by_the_road_side_half-way_up_a_steep_hill_facing_south" data-title="INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_road,motif/sleep,concept/mortality,concept/poverty,concept/the_common_man,concept/grace_and_redemption,form/inscription,form/blank_verse,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="194_inscription_for_a_seat_by_the_road_side_half-way_up_a_steep_hill_facing_south" data-title="INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH" data-chapter="" data-kind="intro"></span>
 
 
 Thou who in youthful vigour rich, and light  
@@ -251,7 +256,7 @@ poi destarsi in Cielo, e trovare il sogno tutto vero.
 
 
 
-<span class="atom-split" data-atom="225_what_is_life" data-title="WHAT IS LIFE?" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/mortality,concept/self_and_soul,concept/transience,concept/doubt,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="225_what_is_life" data-title="WHAT IS LIFE?" data-chapter="" data-kind="intro"></span>
 
 
 Resembles life what once was deem’d of light,  
@@ -279,7 +284,7 @@ un abbraccio di guerra fra vita e [[motifs/death|morte]] in lotta?
 
 
 
-<span class="atom-split" data-atom="241_epitaph_on_an_infant_1" data-title="EPITAPH ON AN INFANT" data-chapter="" data-kind="intro" data-tags="motif/death,motif/childhood,motif/sleep,concept/mortality,concept/innocence_and_experience,concept/grief_and_loss,form/elegy,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="241_epitaph_on_an_infant_1" data-title="EPITAPH ON AN INFANT" data-chapter="" data-kind="intro"></span>
 
 
 Its balmy lips the infant blest  
@@ -307,7 +312,7 @@ che la [[motifs/death|Morte]] cantò per [[motifs/sleep|addormentarlo]] con una 
 
 
 
-<span class="atom-split" data-atom="278_epitaphium_testamentarium" data-title="EPITAPHIUM TESTAMENTARIUM" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,concept/mortality,concept/grace_and_redemption,concept/love_romantic,form/epigram,character/christ,character/death_personified,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="278_epitaphium_testamentarium" data-title="EPITAPHIUM TESTAMENTARIUM" data-chapter="" data-kind="intro"></span>
 
 
 ¤x Ä¿æ £¤—£• Ä¿æ À¹¸±½¿æÂ Epitaphium testamentarium ±PÄy³Á±Æ¿½.  
@@ -337,7 +342,7 @@ l'assenza dell'[[motifs/love|amore]] che pure vorrebbe mostrare.
 
 
 
-<span class="atom-split" data-atom="304_epitaph" data-title="EPITAPH" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,concept/grace_and_redemption,concept/mortality,concept/faith,form/epigram,character/christ,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="304_epitaph" data-title="EPITAPH" data-chapter="" data-kind="intro"></span>
 
 
 Stop, Christian passer-by! — Stop, [[archetypes/child|child]] of God,  
@@ -365,7 +370,7 @@ chiese, e sperò, per [[characters/christ|Cristo]]. Fa' tu lo stesso!
 
 
 
-<span class="atom-split" data-atom="310_on_an_insignificant" data-title="ON AN INSIGNIFICANT" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/dust,motif/the_grave,concept/economics,concept/the_grotesque,concept/money_and_avarice,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="310_on_an_insignificant" data-title="ON AN INSIGNIFICANT" data-chapter="" data-kind="intro"></span>
 
 
 No doleful faces here, no sighing —  
@@ -405,7 +410,7 @@ Grab. ‘Welch tötender Gestank hier, wo Lukrin begraben.’
 
 
 
-<span class="atom-split" data-atom="329_epitaph_on_major_dieman" data-title="EPITAPH ON MAJOR DIEMAN" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,concept/mortality,concept/satire_of_society,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="329_epitaph_on_major_dieman" data-title="EPITAPH ON MAJOR DIEMAN" data-chapter="" data-kind="intro"></span>
 
 
 Know thou who walks’t by, Man! that wrapp’d up in lead, man,  
@@ -425,7 +430,7 @@ andatasene l'[[motifs/soul|anima]], non è ormai che Caporale, mera cosa corpora
 
 
 
-<span class="atom-split" data-atom="331_epitaph_on_a_bad_man" data-title="EPITAPH ON A BAD MAN" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,concept/mortality,concept/doubt,concept/conscience,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="331_epitaph_on_a_bad_man" data-title="EPITAPH ON A BAD MAN" data-chapter="" data-kind="intro"></span>
 
 
 Of him that in this gorgeous tomb doth lie,  
@@ -471,7 +476,7 @@ morì come chi non osò [[concepts/hope|sperare]] di vivere.
 
 
 
-<span class="atom-split" data-atom="339_a_hint_to_premiers_and_first_consuls" data-title="A HINT TO PREMIERS AND FIRST CONSULS" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,concept/mortality,concept/power_and_corruption,concept/justice,concept/transience,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="339_a_hint_to_premiers_and_first_consuls" data-title="A HINT TO PREMIERS AND FIRST CONSULS" data-chapter="" data-kind="intro"></span>
 
 
 FROM AN OLD [[forms/tragedy|TRAGEDY]], VIZ. [[characters/agatha|AGATHA]] TO [[archetypes/king|KING]] ARCHELAUS  
@@ -505,7 +510,7 @@ Pubblicato per la prima volta in Morning Post, 2 ott. 1802.
 
 
 
-<span class="atom-split" data-atom="399_another_version" data-title="ANOTHER VERSION." data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/the_grave,concept/mortality,concept/grief_and_loss,form/fragment,form/elegy,histref/ancient_greece,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="399_another_version" data-title="ANOTHER VERSION." data-chapter="" data-kind="intro"></span>
 
 
 O’er her piled [[motifs/grave|grave]] the gale of evening sighs,  
@@ -575,7 +580,7 @@ S. T. C. con libri di una biblioteca circolante.
 
 
 
-<span class="atom-split" data-atom="424_underwoods" data-title="UNDERWOODS" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/memento_mori,motif/the_clock,motif/dust,motif/fire,concept/mortality,concept/love_romantic,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="424_underwoods" data-title="UNDERWOODS" data-chapter="" data-kind="intro"></span>
 
 
 No. VI. THE HOUR-GLASS.  
@@ -605,7 +610,7 @@ anche le ceneri degli amanti non trovano riposo.
 
 
 
-<span class="atom-split" data-atom="425_the_hour-glass" data-title="THE HOUR-GLASS" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/memento_mori,motif/the_clock,motif/dust,concept/mortality,concept/unrequited_love,form/epigram,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
+<span class="atom-split" data-atom="425_the_hour-glass" data-title="THE HOUR-GLASS" data-chapter="" data-kind="intro"></span>
 
 
 O think, fair maid! these sands that pass  

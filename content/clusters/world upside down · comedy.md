@@ -18,7 +18,7 @@ tags:
 
 - [[works/a-woman-of-no-importance-(wilde)|A Woman of No Importance (Wilde)]]
 - [[works/lady-windermere's-fan-(wilde)|Lady Windermere's Fan (Wilde)]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#190_reversals|Reversals (Whitman)]]
+- [[works/reversals-(whitman)|Reversals (Whitman)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_066|Sonnet 66 (Shakespeare)]]
 - [[works/the-devil-in-the-belfry-(poe)|The Devil in the Belfry (Poe)]]
 - [[works/the-importance-of-being-earnest-(wilde)|The Importance of Being Earnest (Wilde)]]

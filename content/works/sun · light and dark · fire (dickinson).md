@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. Todd, 1884](/testi/dickinson/atomized/sun-light-and-dark-fire#l0529_mrs_todd_1884)
+- [To Mrs. Todd, 1884](/testi/dickinson/atomized/sun-light-and-dark-fire--letters#_todd_1884)
 

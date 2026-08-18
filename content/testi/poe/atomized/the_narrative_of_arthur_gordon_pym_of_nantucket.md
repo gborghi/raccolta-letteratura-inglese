@@ -892,6 +892,15 @@ felt himself sinking beneath its influence.
 
 
 
+
+
+
+
+
+
+
+
+
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/home,motif/memory,motif/night,motif/tears,motif/time,motif/well,concept/deception,concept/despair,concept/imagination,concept/longing,concept/melancholy,concept/suffering,character/ariel"></span>
 
 

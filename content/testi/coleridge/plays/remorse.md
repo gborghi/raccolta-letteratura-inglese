@@ -17,6 +17,10 @@ tags:
 Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moors and the Inquisition, in which Ordonio's jealous attempt to murder his brother Alvar is undone when the disguised Alvar returns and stages a sorcerous conjuration to awaken his brother's conscience. It centres on guilt, remorse, revenge, and the supernatural.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La tragedia gotica in versi di Coleridge, ambientata in Spagna durante la persecuzione dei Mori e l'Inquisizione, vede il tentato omicidio per gelosia di Ordonio ai danni del fratello Alvar sventato dal ritorno di Alvar travestito, che ricorre a un sortilegio per destare la coscienza del fratello. L'opera s'incentra sulla colpa, sul rimorso, sulla vendetta e sul soprannaturale.
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1" data-title="REMORSE — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/innocent,motif/cave,motif/dawn,motif/death,motif/night,motif/poison,motif/sleep,motif/soul,motif/tears,motif/well,concept/conscience,concept/exile,concept/faith,concept/guilt,concept/hope,concept/imprisonment,concept/melancholy,concept/truth,setting/mountains"></span>

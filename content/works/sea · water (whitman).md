@@ -37,16 +37,16 @@ tags:
 
 Raccolta tematica di 10 componimenti di Walt Whitman.
 
-- [[testi/whitman/atomized/sea-water#254_a_paumanok_picture|A Paumanok Picture]]
-- [[testi/whitman/atomized/sea-water#112_after_the_sea_ship|After the Sea-Ship]]
-- [[testi/whitman/atomized/sea-water#191_as_consequent_etc|As Consequent, Etc.]]
-- [[testi/whitman/atomized/sea-water#313_fancies_at_navesink|FANCIES AT NAVESINK]]
-- [[testi/whitman/atomized/sea-water#296_from_montauk_point|From Montauk Point]]
-- [[testi/whitman/atomized/sea-water#322_old_salt_kossabone|Old Salt Kossabone]]
-- [[testi/whitman/atomized/sea-water#102_out_of_the_cradle_endlessly_rocking|Out of the Cradle Endlessly Rocking]]
-- [[testi/whitman/atomized/sea-water#033_out_of_the_rolling_ocean_the_crowd|Out of the Rolling Ocean the Crowd]]
-- [[testi/whitman/atomized/sea-water#295_paumanok|Paumanok]]
-- [[testi/whitman/atomized/sea-water#108_the_world_below_the_brine|The World below the Brine]]
+- [[works/a-paumanok-picture-(whitman)|A Paumanok Picture]]
+- [[works/after-the-sea-ship-(whitman)|After the Sea-Ship]]
+- [[works/as-consequent,-etc.-(whitman)|As Consequent, Etc.]]
+- [[works/fancies-at-navesink-(whitman)|FANCIES AT NAVESINK]]
+- [[works/from-montauk-point-(whitman)|From Montauk Point]]
+- [[works/old-salt-kossabone-(whitman)|Old Salt Kossabone]]
+- [[works/out-of-the-cradle-endlessly-rocking-(whitman)|Out of the Cradle Endlessly Rocking]]
+- [[works/out-of-the-rolling-ocean-the-crowd-(whitman)|Out of the Rolling Ocean the Crowd]]
+- [[works/paumanok-(whitman)|Paumanok]]
+- [[works/the-world-below-the-brine-(whitman)|The World below the Brine]]
 
 ## Testo / Text
 

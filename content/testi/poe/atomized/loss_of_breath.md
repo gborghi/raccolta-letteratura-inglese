@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="loss_of_breath" data-title="Loss of Breath" data-chapter="" data-kind="intro"></span>
 
-# [[works/loss-of-breath-(poe)|Loss of Breath]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

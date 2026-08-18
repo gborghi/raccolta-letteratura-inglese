@@ -30,9 +30,14 @@ tags:
 > [!abstract] 
 > A nonfiction case-study essay on a real Victorian murder: a sensitive, unworldly young man, jilted by his fiancee Mary Groves under family pressure, stabs her to death during a final meeting and calmly confesses, provoking a legal debate over his sanity. Doyle uses the letters and trial record to examine the psychology of the 'passionate criminal' driven by disappointed love rather than greed.
 
-## Testo / Text
+## Capitoli / Chapters
 
-- [THE LOVE AFFAIR OF GEORGE VINCENT PARKER](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#the_love_affair_of_george_vincent_parker)
+- [Volume 1](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_01)
+- [Volume 2](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_02)
+- [Volume 3](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_03)
+- [Volume 4](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_04)
+- [Volume 5](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_05)
+- [Volume 6](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_06)
 
 ## Connections
 

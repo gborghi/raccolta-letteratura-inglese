@@ -31,6 +31,1275 @@ The scene is laid in [[settings/london|London]]
 
 ### Atto 1, Scena 1
 
+<span class="qlang-split" data-lang="it"></span>
+
+THE COCKTAIL PARTY
+Persons
+[[characters/edward-chamberlayne|EDWARD CHAMBERLAYNE]]
+[[characters/julia|JULIA]] (MRS. SHUTTLETHWAITE)
+
+
+[[characters/celia-coplestone|CELIA COPLESTONE]]
+ALEXANDER MACCOLGIE GIBBS
+PETER QUILPE
+AN UNIDENTIFIED GUEST, later identified as [[characters/sir-henry-harcourt-reilly|SIR HENRY HARCOURT-REILLY]]
+[[characters/lavinia-chamberlayne|LAVINIA CHAMBERLAYNE]]
+A [[characters/nurse|NURSE]]-SECRETARY
+TWO CATERER’S MEN
+The scene is laid in [[settings/london|London]]
+
+### Atto 1, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Il salotto dell'appartamento [[settings/london\|londinese]] dei Chamberlayne. Prima sera. [[characters/edward-chamberlayne\|EDWARD CHAMBERLAYNE]], [[characters/julia\|JULIA]] SHUTTLETHWAITE, [[characters/celia-coplestone\|CELIA COPLESTONE]], PETER QUILPE, ALEXANDER MACCOLGIE GIBBS, e un OSPITE NON IDENTIFICATO. |  
+| ALEX | Non hai capito affatto il punto, [[characters/julia\|Julia]]:<br><br><br>Non c'erano tigri. Questo era il punto. |  
+| [[characters/julia\|JULIA]] | E allora che ci facevate, su un albero:<br><br><br>Tu e il Maharaja? |  
+| ALEX | Mia cara [[characters/julia\|Julia]]!<br><br><br>È perfettamente inutile. Non hai ascoltato. |  
+| PETER | Dovrai raccontarcelo daccapo, Alex. |  
+| ALEX | Non racconto mai due volte la stessa storia. |  
+| [[characters/julia\|JULIA]] | Ma sto ancora aspettando di sapere che cosa è successo.<br><br><br>So che era cominciata come una storia di tigri. |  
+| ALEX | Ho detto che non c'erano tigri. |  
+| [[characters/celia\|CELIA]] | Oh, smettetela di bisticciare,<br><br><br>Tutti e due. Tocca a te, [[characters/julia\|Julia]].<br>Raccontaci quella storia che hai raccontato l'altro giorno, di Lady Klootz e della torta nuziale. |  
+| PETER | E di come il maggiordomo la trovò in dispensa, a sciacquarsi la bocca con lo champagne.<br><br><br>Mi piace quella storia. |  
+| [[characters/celia\|CELIA]] | [[motifs/love\|Adoro]] quella storia. |  
+| ALEX | Non mi stanco mai di sentire quella storia. |  
+| [[characters/julia\|JULIA]] | [[motifs/well\|Bene]], pare che la conosciate tutti. |  
+| [[characters/celia\|CELIA]] | La conosciamo tutti?<br><br><br>Ma non ci stanchiamo mai di sentirtela raccontare.<br><br><br>Non credo che qui tutti la conoscano.<br>[All'OSPITE NON IDENTIFICATO] Lei non la conosce, vero? |  
+| OSPITE NON IDENTIFICATO | No, non l'ho mai sentita. |  
+| [[characters/celia\|CELIA]] | Ecco un nuovo ascoltatore per te, [[characters/julia\|Julia]];<br>E non credo che Edward la conosca. |  
+| EDWARD | Può darsi che l'abbia sentita, ma non la ricordo. |  
+| [[characters/celia\|CELIA]] | E [[characters/julia\|Julia]] è l'unica persona che sappia raccontarla.<br><br><br>È così brava a imitare. |  
+| [[characters/julia\|JULIA]] | Sono brava a imitare? |  
+| PETER | Sei brava a imitare. Non ti sfugge mai nulla. |  
+| ALEX | Non le sfugge mai nulla, a meno che non voglia. |  
+| [[characters/celia\|CELIA]] | Specialmente l'accento lituano. |  
+| [[characters/julia\|JULIA]] | Lituano? Lady Klootz? |  
+| PETER | Credevo fosse belga. |  
+| ALEX | Suo padre apparteneva a una famiglia baltica —<br><br><br>Una delle più antiche famiglie baltiche<br><br><br>Con un ramo in Svezia e uno in [[settings/denmark\|Danimarca]].<br>C'erano parecchie figlie assai graziose:<br>Mi [[concepts/wonder\|domando]] che ne sia stato di loro. |  
+| [[characters/julia\|JULIA]] | Lady Klootz era graziosissima, un [[motifs/time\|tempo]].<br><br><br>Che vita conduceva! Le dicevo sempre: «Greta!<br>Hai troppa vitalità». Ma si divertiva.<br>[All'OSPITE NON IDENTIFICATO] Conosceva Lady Klootz? |  
+| OSPITE NON IDENTIFICATO | No, non l'ho mai incontrata. |  
+| [[characters/celia\|CELIA]] | Va' avanti con la storia della torta nuziale. |  
+| [[characters/julia\|JULIA]] | [[motifs/well\|Beh]], ma in realtà non è una storia mia.<br><br><br>L'ho sentita per la prima volta da Delia Verinder<br>Che era là quando accadde.<br>[All'OSPITE NON IDENTIFICATO] Conosce Delia Verinder? |  
+| OSPITE NON IDENTIFICATO | No, non la conosco. |  
+| [[characters/julia\|JULIA]] | [[motifs/well\|Beh]], non si è mai troppo prudenti<br><br><br>Prima di raccontare una storia. |  
+| ALEX | Delia Verinder?<br><br><br>Era quella che aveva tre fratelli? |  
+| [[characters/julia\|JULIA]] | Quanti fratelli? Due, credo. |  
+| ALEX | No, erano tre, ma il terzo non lo conoscerai:<br><br><br>Lo tenevano piuttosto nascosto. |  
+| [[characters/julia\|JULIA]] | Oh, intendi quello. |  
+| ALEX | Era deficiente. |  
+| [[characters/julia\|JULIA]] | Oh, non deficiente:<br><br><br>Era soltanto innocuo. |  
+| ALEX | [[motifs/well\|Beh]] allora, innocuo. |  
+| [[characters/julia\|JULIA]] | Era bravissimo a riparare gli orologi;<br><br><br>E aveva un udito notevole —<br>L'unico uomo che abbia mai incontrato capace di udire il grido dei pipistrelli. |  
+| PETER | Udire il grido dei pipistrelli? |  
+| [[characters/julia\|JULIA]] | Poteva udire il grido dei pipistrelli. |  
+| [[characters/celia\|CELIA]] | Ma come fai a sapere che poteva udire il grido dei pipistrelli? |  
+| [[characters/julia\|JULIA]] | Perché lo diceva lui. E io gli credevo. |  
+| [[characters/celia\|CELIA]] | Ma se era così… innocuo, come potevi credergli?<br><br><br>Potrebbe averlo immaginato. |  
+| [[characters/julia\|JULIA]] | Mia cara [[characters/celia\|Celia]],<br><br><br>Non c'è bisogno che tu sia così scettica. Una volta ci stetti<br>Nel loro [[settings/castle\|castello]] del Nord. Come soffriva!<br>Dovettero trovargli un'isola<br>Dove non ci fossero pipistrelli. |  
+| ALEX | Ed è ancora là?<br><br><br>[[characters/julia\|Julia]] è davvero una miniera d'informazioni. |  
+| [[characters/celia\|CELIA]] | Non c'è molto che [[characters/julia\|Julia]] non sappia. |  
+| PETER | Va' avanti con la storia della torta nuziale. |  
+| *(didascalia)* | [EDWARD [[motifs/leaves\|lascia]] la stanza] |  
+| [[characters/julia\|JULIA]] | No, aspetteremo che Edward torni nella stanza.<br><br><br>Ora voglio rilassarmi. Ci sono altri cocktail? |  
+| PETER | Ma va' avanti. Tanto Edward non stava ascoltando. |  
+| [[characters/julia\|JULIA]] | No, non stava ascoltando, ma è una tale fatica —<br><br><br>Edward senza [[characters/lavinia\|Lavinia]]! È proprio impossibile!<br>Lasciare a me il compito di mandare avanti le cose.<br>Che padrone di casa! E niente di commestibile!<br>L'unica ragione d'un cocktail party<br>Per una vecchia golosa come me<br>È un bel bocconcino. Bere posso [[motifs/home\|a casa]]. |  
+| *(didascalia)* | [EDWARD torna con un vassoio] |  
+| [[characters/julia\|JULIA]] | Edward, dammi un'altra di quelle olive deliziose.<br>Che cos'è? Patatine? No, non le sopporto.<br>[[motifs/well\|Dunque]], avevo cominciato a parlarvi di Lady Klootz.<br>Fu alle nozze dei Vincewell. Oh, tanti anni fa!<br>[All'OSPITE NON IDENTIFICATO] Conosceva i Vincewell? |  
+| OSPITE NON IDENTIFICATO | No, non conosco i Vincewell. |  
+| [[characters/julia\|JULIA]] | Oh, ora sono morti tutti e due. Ma volevo saperlo.<br><br><br>Se fossero stati amici suoi, non potrei raccontare la storia. |  
+| PETER | Erano i genitori di Tony Vincewell? |  
+| [[characters/julia\|JULIA]] | Sì. Tony fu il prodotto, ma non la soluzione.<br><br><br>Non fece che rendere la situazione più difficile.<br>Conosci Tony Vincewell? L'hai conosciuto a [[settings/oxford\|Oxford]]? |  
+| PETER | No, non l'ho mai conosciuto a [[settings/oxford\|Oxford]]:<br><br><br>L'ho incontrato l'anno scorso in California. |  
+| [[characters/julia\|JULIA]] | Ho sempre desiderato andare in California.<br><br><br>Raccontaci che cosa facevi in California. |  
+| [[characters/celia\|CELIA]] | Girava un film. |  
+| PETER | Cercavo di girare un film. |  
+| [[characters/julia\|JULIA]] | Oh, che film era? Mi [[concepts/wonder\|domando]] se l'ho visto. |  
+| PETER | No, non può averlo visto. In effetti<br><br><br>Non fu mai prodotto. Un film lo fecero<br>Ma usarono un'altra sceneggiatura. |  
+| [[characters/julia\|JULIA]] | Non quella che avevi scritto tu? |  
+| PETER | Non quella che avevo scritto io:<br><br><br>Ma ho trascorso un [[motifs/time\|tempo]] assai piacevole. |  
+| [[characters/celia\|CELIA]] | Va' avanti con la storia della torta nuziale. |  
+| [[characters/julia\|JULIA]] | Edward, siediti un momento.<br><br><br>So che sei sempre il perfetto padrone di casa,<br>Ma prova a far finta d'essere un altro ospite<br>Alla festa di [[characters/lavinia\|Lavinia]]. Ci sono tante domande<br>Che voglio farti. È un'occasione d'oro<br>Ora che [[characters/lavinia\|Lavinia]] è via. Ho sempre detto:<br>«Se solo potessi avere Edward da solo<br>E fare una conversazione davvero seria!»<br><br><br>L'ho detto a [[characters/lavinia\|Lavinia]]. Era d'accordo con me.<br>Ha detto: «Vorrei che tu ci provassi». E questa è la prima [[motifs/time\|volta]]<br>Che ti vedo senza [[characters/lavinia\|Lavinia]]<br>Tranne quella [[motifs/time\|volta]] che restò chiusa nel gabinetto<br>E non riusciva a uscire. So che cosa stai pensando!<br>So che mi credi una vecchia sciocca<br>Ma parlo davvero sul serio. [[characters/lavinia\|Lavinia]] mi prende sul serio.<br>Credo sia questa la ragione per cui è andata via —<br>Perché io potessi farti parlare. Forse è in dispensa<br>Ad ascoltare tutto quel che diciamo! |  
+| EDWARD | No, non è in dispensa. |  
+| [[characters/celia\|CELIA]] | Starà via per un po' di [[motifs/time\|tempo]], Edward? |  
+| EDWARD | Non lo so davvero, finché non avrò sue notizie.<br><br><br>Se la zia è molto malata, può restare via un bel po' di [[motifs/time\|tempo]]. |  
+| [[characters/celia\|CELIA]] | E come farai mentre è via? |  
+| EDWARD | Non lo so davvero. Potrei andarmene via anch'io. |  
+| [[characters/celia\|CELIA]] | Andartene via anche tu! |  
+| [[characters/julia\|JULIA]] | Hai una zia anche tu? |  
+| EDWARD | No, non ho nessuna zia. Ma potrei andarmene. |  
+| [[characters/celia\|CELIA]] | Ma, Edward… che cosa stavo per dire?<br><br><br>È terribile per le vecchie signore sole in campagna,<br>E quasi impossibile trovare un'[[characters/nurse\|infermiera]]. |  
+| [[characters/julia\|JULIA]] | È la sua zia Laura? |  
+| EDWARD | No; un'altra zia<br><br><br>Che non conosceresti. La sorella di sua madre<br>E piuttosto una reclusa. |  
+| [[characters/julia\|JULIA]] | La sua zia prediletta? |  
+| EDWARD | La nipote prediletta della zia. Ed è piuttosto difficile.<br><br><br>Quando è malata, pretende assolutamente [[characters/lavinia\|Lavinia]]. |  
+| [[characters/julia\|JULIA]] | Non ho mai sentito che fosse malata, prima d'ora. |  
+| EDWARD | No, è sempre fortissima. Ecco perché, quando è malata,<br><br><br>Le viene il panico. |  
+| [[characters/julia\|JULIA]] | E manda a chiamare [[characters/lavinia\|Lavinia]].<br><br><br>Capisco perfettamente. Ci sono prospettive? |  
+| EDWARD | No, credo che abbia investito tutto in un vitalizio. |  
+| [[characters/julia\|JULIA]] | Allora è molto altruista da parte di [[characters/lavinia\|Lavinia]]<br><br><br>Eppure molto da lei. Ma davvero, Edward,<br>[[characters/lavinia\|Lavinia]] potrebbe restare via per settimane,<br>O tornare e poi essere richiamata via di nuovo.<br>Le conosco queste vecchie coriacee —<br>Ne sono una anch'io. Mi pare di sapere<br>Tutto di quella zia dell'Hampshire. |  
+| EDWARD | Hampshire? |  
+| [[characters/julia\|JULIA]] | Non hai detto Hampshire? |  
+| EDWARD | No, non ho detto Hampshire. |  
+| [[characters/julia\|JULIA]] | Hai detto Hampstead? |  
+| EDWARD | No, non ho detto Hampstead. |  
+| [[characters/julia\|JULIA]] | Ma da qualche parte dovrà pur vivere. |  
+| EDWARD | Vive nell'Essex. |  
+| [[characters/julia\|JULIA]] | Da qualche parte vicino a Colchester? [[characters/lavinia\|Lavinia]] adora le ostriche. |  
+| EDWARD | No. Nel profondo dell'Essex. |  
+| [[characters/julia\|JULIA]] | [[motifs/well\|Bene]], non ci ficcheremo il naso.<br><br><br>Hai l'indirizzo, e il numero di telefono?<br>Potrei fare un salto a trovare [[characters/lavinia\|Lavinia]]<br>Andando in Cornovaglia. Ma siamo ragionevoli:<br>Ora devi lasciarmi fare la tua zia zitella —<br><br><br>Che vive di vitalizio, s'intende.<br>Ti farò cenare da solo con me<br>Venerdì, e parlarmi di tutto. |  
+| EDWARD | Di tutto? |  
+| [[characters/julia\|JULIA]] | Oh, sai che cosa intendo.<br><br><br>Le prossime elezioni. E i [[motifs/secrets\|segreti]] delle tue cause. |  
+| EDWARD | La maggior parte dei miei [[motifs/secrets\|segreti]] è del tutto priva d'interesse. |  
+| [[characters/julia\|JULIA]] | [[motifs/well\|Bene]], non scapperai. Ceni con me venerdì.<br><br><br>Ho già scelto le persone che devi conoscere. |  
+| EDWARD | Ma mi avevi chiesto di cenare con te da solo. |  
+| [[characters/julia\|JULIA]] | Sì, da solo!<br><br><br>Senza [[characters/lavinia\|Lavinia]]! Le altre persone ti piaceranno —<br>Ma devi parlare con me. Dunque è tutto stabilito.<br>E ora devo andare. |  
+| EDWARD | Devi proprio andare? |  
+| PETER | Ma non racconterai la storia di Lady Klootz? |  
+| [[characters/julia\|JULIA]] | Quale Lady Klootz? |  
+| [[characters/celia\|CELIA]] | E la torta nuziale. |  
+| [[characters/julia\|JULIA]] | Torta nuziale? Non ero alle sue nozze.<br><br><br>Edward, è stata una serata deliziosa:<br>Le patatine erano davvero eccellenti.<br>Ora vediamo. Ho preso tutto?<br>È una festa così bella, mi dispiace lasciarla.<br>È una festa così bella, vorrei ripeterla.<br>Perché non venite tutti a cena venerdì?<br><br><br>No, temo che la mia buona signora Batten<br>Mi darebbe le dimissioni. E ora devo andare. |  
+| ALEX | Temo che dovrei andare anch'io. |  
+| PETER | [[characters/celia\|Celia]] —<br><br><br>Posso accompagnarti a piedi? |  
+| [[characters/celia\|CELIA]] | No, mi dispiace, Peter;<br><br><br>Devo prendere un taxi. |  
+| [[characters/julia\|JULIA]] | Vieni con me, Peter:<br><br><br>Puoi trovarmi un taxi, e poi ti lascio per strada.<br><br><br>Ti aspetto venerdì, Edward. E [[characters/celia\|Celia]] —<br>Devo vederti prestissimo. Ora non andatevene tutti<br>Solo perché me ne vado io. Arrivederci, Edward. |  
+| EDWARD | Arrivederci, [[characters/julia\|Julia]]. |  
+| *(didascalia)* | [Escono [[characters/julia\|JULIA]] e PETER] |  
+| [[characters/celia\|CELIA]] | Arrivederci, Edward.<br><br><br>Ti vedrò presto? |  
+| EDWARD | Forse. Non lo so. |  
+| [[characters/celia\|CELIA]] | Forse non lo sai? Molto [[motifs/well\|bene]], arrivederci. |  
+| EDWARD | Arrivederci, [[characters/celia\|Celia]]. |  
+| ALEX | Arrivederci, Edward. [[concepts/hope\|Spero]] proprio<br><br><br>Che avrai notizie migliori della zia di [[characters/lavinia\|Lavinia]]. |  
+| EDWARD | Oh… sì… grazie. Arrivederci, Alex,<br><br><br>Sei stato gentile a venire. |  
+| *(didascalia)* | [Escono ALEX e [[characters/celia\|CELIA]]] |  
+| EDWARD | [All'OSPITE NON IDENTIFICATO] Non se ne vada ancora.<br><br><br>Non se ne vada ancora. Finiremo i cocktail.<br>O preferisce del whisky? |  
+| OSPITE NON IDENTIFICATO | Gin. |  
+| EDWARD | Ci metto qualcosa? |  
+| OSPITE NON IDENTIFICATO | Un goccio d'[[motifs/water\|acqua]]. |  
+| EDWARD | Voglio scusarmi per questa serata.<br><br><br>Il fatto è che avevo cercato di rimandare questa festa:<br>Questi erano solo quelli che non ho potuto disdire<br>Perché non sono riuscito a raggiungerli in [[motifs/time\|tempo]];<br>E non sapevo che sarebbe venuto anche lei.<br><br><br>Credevo che [[characters/lavinia\|Lavinia]] mi avesse detto i nomi<br>Di tutte le persone che diceva d'aver invitato.<br>Ma è solo quella terribile vecchia che contava —<br>Chiunque altro non mi sarebbe importato, |  
+| *(didascalia)* | [Suona il campanello. EDWARD va alla porta, dicendo:] |  
+| EDWARD | Ma lei salta sempre fuori quando meno la si desidera. |  
+| *(didascalia)* | [Apre la porta] |  
+| EDWARD | [[characters/julia\|Julia]]! |  
+| *(didascalia)* | [Entra [[characters/julia\|JULIA]]] |  
+| [[characters/julia\|JULIA]] | Edward! Che fortuna che piova!<br><br><br>Mi ha fatto ricordare l'ombrello,<br>Ed eccolo lì! Ora che cosa complottate voi due?<br>Che gran fortuna che fosse il mio ombrello,<br>E non quello di Alexander — lui è così curioso!<br><br><br>Ma io non ficco mai il naso negli affari altrui.<br><br><br>[[motifs/well\|Bene]], arrivederci di nuovo. Finalmente me ne vado. |  
+| *(didascalia)* | [Esce] |  
+| EDWARD | Mi scusi. Temo di non conoscere il suo nome. |  
+| OSPITE NON IDENTIFICATO | Dovrei andarmene. |  
+| EDWARD | Non se ne vada ancora.<br><br><br>Ho un gran bisogno di parlare con qualcuno;<br>Ed è più facile parlare con una persona che non si conosce.<br>Il fatto è che [[characters/lavinia\|Lavinia]] mi ha lasciato. |  
+| OSPITE NON IDENTIFICATO | Sua moglie l'ha lasciata? |  
+| EDWARD | Senza preavviso, naturalmente;<br><br><br>Proprio quando aveva organizzato un cocktail party.<br>Era già andata via quando sono rientrato, oggi pomeriggio.<br>Ha lasciato un biglietto per dire che mi lasciava;<br>Ma non so dove sia andata. |  
+| OSPITE NON IDENTIFICATO | Questa è un'occasione.<br><br><br>Posso prendere un altro bicchiere? |  
+| EDWARD | Whisky? |  
+| OSPITE NON IDENTIFICATO | Gin. |  
+| EDWARD | Ci metto qualcosa? |  
+| OSPITE NON IDENTIFICATO | Nient'altro che [[motifs/water\|acqua]].<br><br><br>E raccomando a lei la stessa ricetta…<br>Mi lasci prepararla, se permette…<br>Forte… ma la sorseggi lentamente… e la beva seduto.<br>Respiri a fondo, e assuma una posizione rilassata.<br>Ecco fatto. Ora qualche domanda.<br>Sposato da quanto? |  
+| EDWARD | Cinque anni. |  
+| OSPITE NON IDENTIFICATO | Figli? |  
+| EDWARD | Nessuno. |  
+| OSPITE NON IDENTIFICATO | Allora guardi il lato buono.<br><br><br>Dice di non sapere dove sia andata? |  
+| EDWARD | No, non lo so. |  
+| OSPITE NON IDENTIFICATO | Sa chi è l'uomo? |  
+| EDWARD | Non c'era nessun altro uomo —<br><br><br>Nessuno che io sappia. |  
+| OSPITE NON IDENTIFICATO | O un'altra donna<br><br><br>Di cui credesse d'aver motivo d'essere gelosa? |  
+| EDWARD | Non aveva nulla da lamentare nella mia condotta. |  
+| OSPITE NON IDENTIFICATO | Allora senza [[concepts/doubt\|dubbio]] è tutto per il meglio.<br><br><br>Con un altro uomo, potrebbe aver commesso un errore<br>E voler tornare da lei. Se un'altra donna,<br>Potrebbe decidere d'essere indulgente<br>E guadagnarci un vantaggio. Se non c'è un'altra donna<br>Né un altro uomo, allora la ragione può essere più profonda<br>E lei ha motivo di [[concepts/hope\|sperare]] che non torni affatto.<br>Se un altro uomo, lei vorrebbe risposarsi<br>Per provare al mondo che qualcuno la desiderava;<br>Se un'altra donna, forse dovrebbe sposarla —<br>Potrebbe perfino immaginare di volerla sposare. |  
+| EDWARD | Ma io voglio indietro mia moglie. |  
+| OSPITE NON IDENTIFICATO | È la reazione naturale.<br><br><br>È imbarazzante, e scomodo.<br>Era scomodo, dover mentire in proposito<br>Perché non si può dire la [[concepts/truth\|verità]] al telefono.<br>Tutto ciò richiederà [[motifs/time\|tempo]] che lei non può [[motifs/well\|bene]] permettersi;<br>Ma le sottopongo… |  
+| EDWARD | Non mi sottoponga nulla. |  
+| OSPITE NON IDENTIFICATO | Allora suggerisco… |  
+| EDWARD | E per favore non suggerisca.<br><br><br>Ho usato spesso questi termini interrogando i testimoni,<br>Perciò non mi piacciono. Posso sottoporle io una cosa?<br><br><br>So d'aver provocato io questa conversazione:<br>Ma non so chi lei sia. Non è ciò che mi aspettavo.<br>Volevo solo alleggerirmi la mente<br>Dicendo a qualcuno ciò che tenevo nascosto.<br>Non credo di voler sapere chi lei sia;<br>Ma, allo stesso [[motifs/time\|tempo]], a meno che lei non conosca mia moglie<br>Assai meglio di quanto pensassi, o a meno che non sappia<br>Di noi assai più di quanto appaia —<br>Trovo le sue congetture piuttosto offensive. |  
+| OSPITE NON IDENTIFICATO | La conosco tanto [[motifs/well\|bene]] quanto conosco sua moglie;<br><br><br>E sapevo che tutto ciò che voleva era il lusso<br>Di una confidenza intima a uno sconosciuto.<br>Mi lasci dunque restare lo sconosciuto.<br>Ma le dico questo: avvicinare lo sconosciuto<br>È invitare l'inatteso, liberare una forza nuova,<br>O far uscire il genio dalla bottiglia.<br>È mettere in moto una catena di eventi<br>Fuori dal suo controllo. Perciò mi lasci continuare.<br>Dirò dunque che lei prova un certo sollievo<br>Di cui non è consapevole. Le verrà lentamente:<br>Quando si sveglia al mattino, quando va a letto la [[motifs/night\|notte]],<br>Che comincia a godere della sua indipendenza;<br>Trovando la sua vita sempre più comoda<br>Senza la critica costante, la paziente fraintenditrice<br>Che ordina la vita un po' meglio di quanto le piaccia,<br>Che preferisce amici non proprio uguali ai suoi,<br>O che fa sì che i suoi amici preferiscano sua moglie a lei;<br>E, rivoltando e rivoltando il passato,<br>Si [[concepts/wonder\|stupirà]] soltanto d'averlo sopportato tanto a lungo.<br>E forse a tratti si sentirà un poco geloso<br>Che sia stata sua moglie a vederlo per prima, e ad avere il [[concepts/courage\|coraggio]] di romperlo —<br>Assicurandosi così un vantaggio permanente. |  
+| EDWARD | Potrebbe andare così, eppure… |  
+| OSPITE NON IDENTIFICATO | Sta per dire che l'[[motifs/love\|ama]]? |  
+| EDWARD | Ma no, credevo che ci dessimo per scontati a vicenda.<br><br><br>Non ho mai pensato che sarei stato più felice<br>Con un'altra persona. Perché parlare d'[[motifs/love\|amore]]?<br>Eravamo abituati l'uno all'altra. Perciò il suo andarsene<br>Da un momento all'altro, senza spiegazioni,<br>Solo un biglietto per dire che era partita<br>E non sarebbe tornata — [[motifs/well\|beh]], non riesco a capirlo.<br>A nessuno piace restare con un mistero:<br>È così… incompiuto. |  
+| OSPITE NON IDENTIFICATO | Sì, è incompiuto;<br><br><br>E a nessuno piace restare con un mistero.<br>Ma c'è di più. C'è una perdita di personalità;<br>O meglio, lei ha perso il contatto con la persona<br>Che credeva d'essere. Non si sente più del tutto umano.<br>È improvvisamente ridotto allo stato d'oggetto —<br>Un oggetto vivente, ma non più una persona.<br>Accade di continuo, perché si è un oggetto<br>Altrettanto [[motifs/well\|bene]] quanto una persona. Ma ce ne dimentichiamo<br>Il più in fretta possibile. Quando ci si è vestiti per una festa<br>E si scendono le scale, con tutto ciò che ci circonda<br>Disposto a sostenerci nel ruolo che abbiamo scelto,<br>Allora talvolta, quando si giunge al gradino [[characters/bottom\|più basso]]<br>C'è un gradino in più di quanti i piedi ne aspettassero<br>E si scende con uno scossone. Solo per un istante<br>Si fa l'esperienza d'essere un oggetto<br>Alla [[concepts/mercy\|mercé]] di una scala malevola.<br>Oppure, si prenda un'operazione chirurgica.<br>Nel consulto col medico e col chirurgo,<br>Nell'andare a letto nella [[motifs/home\|casa]] di cura,<br>Nel parlare con la caposala, si è ancora il soggetto,<br>Il centro della realtà. Ma, distesi sul tavolo,<br>Si è un mobile in un'officina di riparazioni<br>Per quanti lo circondano, gli attori mascherati;<br>Tutto ciò che resta di lei è il suo [[concepts/body\|corpo]]<br>E l'«io» si ritira. Posso riempire di nuovo? |  
+| EDWARD | Oh, mi scusi. Che cosa stava bevendo?<br><br><br>Whisky? |  
+| OSPITE NON IDENTIFICATO | Gin. |  
+| EDWARD | Qualcosa insieme? |  
+| OSPITE NON IDENTIFICATO | [[motifs/water\|Acqua]]. |  
+| EDWARD | A che cosa porta tutto questo? |  
+| OSPITE NON IDENTIFICATO | A scoprire<br><br><br>Che cosa lei è veramente. Che cosa sente veramente.<br>Che cosa è veramente in mezzo agli altri.<br>Per la maggior parte del [[motifs/time\|tempo]] ci diamo per scontati,<br>Come dobbiamo, e viviamo di una piccola conoscenza<br>Di noi quali eravamo. Chi è lei adesso?<br>Non lo sa più di quanto lo sappia io,<br>Anzi piuttosto meno. Non è che un insieme<br>Di risposte obsolete. L'unica cosa da fare<br>È non far nulla. Aspettare. |  
+| EDWARD | Aspettare!<br><br><br>Ma aspettare è l'unica cosa impossibile.<br>E poi, non vede che mi rende ridicolo? |  
+| OSPITE NON IDENTIFICATO | Non le farà alcun male trovarsi ridicolo.<br><br><br>Si rassegni a essere lo [[archetypes/fool\|sciocco]] che è.<br>È il miglior consiglio che possa darle. |  
+| EDWARD | Ma come posso aspettare, non sapendo che cosa aspetto?<br><br><br>Dirò ai miei amici: «Mia moglie è andata via»?<br>E loro rispondono «Dove?» e io dico «Non lo so»;<br>E loro dicono: «Ma quando tornerà?»<br>E io replico: «Non so se torni affatto».<br><br><br>E chiedono: «Ma che cosa hai intenzione di fare?»<br>E io rispondo: «Nulla». Mi crederanno pazzo<br>O semplicemente spregevole. |  
+| OSPITE NON IDENTIFICATO | Tanto meglio.<br><br><br>Scoprirà di sopravvivere all'umiliazione.<br>Ed è un'esperienza di valore incalcolabile. |  
+| EDWARD | Basta! Ammetto che molto di quel che ha detto<br><br><br>È abbastanza vero. Ma non è tutto.<br>Da quando l'ho vista stamattina a colazione<br>Non ricordo più com'è fatta mia moglie.<br>Non sono affatto sicuro che saprei descriverla<br>Se dovessi chiedere alla polizia di cercarla.<br>Di sicuro non so che cosa indossasse<br>L'ultima volta che l'ho vista. Eppure la rivoglio.<br>E devo riaverla, per scoprire che cosa è accaduto<br><br><br>Durante i cinque anni che siamo stati sposati.<br>Devo scoprire chi è lei, per scoprire chi sono io.<br>E a che serve tutta la sua analisi<br>Se devo restare per sempre perduto nel buio? |  
+| OSPITE NON IDENTIFICATO | Non c'è certo alcuno scopo nel restare al buio<br><br><br>Se non quanto basta a sgombrare la mente<br>Dall'illusione d'essere mai stati nella luce.<br>Il fatto che lei non sappia dare una ragione per volerla<br>È la miglior ragione per credere che la voglia. |  
+| EDWARD | Voglio rivederla — qui. |  
+| OSPITE NON IDENTIFICATO | La rivedrà — qui. |  
+| EDWARD | Vuol dire che sa dov'è? |  
+| OSPITE NON IDENTIFICATO | Quella domanda non merita il disturbo d'una risposta.<br><br><br>Ma se la riporto, dev'essere a una condizione:<br>Che lei prometta di non farle domande<br>Su dove sia stata. |  
+| EDWARD | Non gliene farò.<br><br><br>Eppure — mi pare — quando abbiamo cominciato a parlare<br>Non ero sicuro di volerla; e ora la voglio.<br>La voglio davvero? O è soltanto un suo suggerimento? |  
+| OSPITE NON IDENTIFICATO | Non lo sappiamo ancora. Fra ventiquattr'ore<br><br><br>Verrà da lei qui. Lei sarà qui ad accoglierla. |  
+| *(didascalia)* | [Suona il campanello] |  
+| EDWARD | Devo andare ad aprire. |  
+| *(didascalia)* | [EDWARD va alla porta] |  
+| EDWARD |                                                          Sei di nuovo tu, [[characters/julia\|Julia]]! |  
+| *(didascalia)* | [Entrano [[characters/julia\|JULIA]] e PETER] |  
+| [[characters/julia\|JULIA]] | Edward, sono così contenta di trovarti.<br><br><br>Sai, devo aver lasciato qui i miei occhiali,<br>E senza non ci vedo proprio nulla.<br>Ho trascinato Peter per tutta la città<br>A cercarli in ogni posto dove sono stata.<br>Li ha trovati qualcuno? Si capisce se sono i miei —<br>Una specie di montatura di plastica —<br>Temo di non ricordarne il colore,<br>Ma li riconoscerei, perché manca una lente.<br>OSPITE NON IDENTIFICATO [Canta].<br>Mentre bevevo gin e [[motifs/water\|acqua]],<br>Ed essendo io Riley l'Orbo,<br>Chi entrò se non la figlia dell'oste<br>E mi prese il cuore per intero.<br>Manterrà il nostro appuntamento? |  
+| EDWARD | Lo manterrò.<br><br><br>OSPITE NON IDENTIFICATO [Canta].<br>Turulù turulì,<br>Che cos'ha Riley l'Orbo? |  
+| *(didascalia)* | [Esce] |  
+| [[characters/julia\|JULIA]] | Edward, chi è quell'uomo tremendo?<br><br><br>Non sono mai stata così insultata in vita mia.<br>È stata una gran fortuna aver lasciato gli occhiali:<br>Questa sì che la chiamo un'avventura!<br><br><br>Raccontami di lui. Avete bevuto insieme!<br><br><br>Ecco dunque il genere di amici che frequenti<br>Quando [[characters/lavinia\|Lavinia]] è fuori dai piedi! Chi è? |  
+| EDWARD | Non lo so. |  
+| [[characters/julia\|JULIA]] | Non lo sai? |  
+| EDWARD | Non l'avevo mai visto in vita mia. |  
+| [[characters/julia\|JULIA]] | Ma come è arrivato qui? |  
+| EDWARD | Non ne ho idea. |  
+| [[characters/julia\|JULIA]] | Non lo sai! E come si chiama?<br><br><br>Gli ho sentito dire che si chiamava Riley? |  
+| EDWARD | Non so il suo nome. |  
+| [[characters/julia\|JULIA]] | Non sai il suo nome? |  
+| EDWARD | Ti dico che non ho idea di chi sia<br><br><br>Né di come sia arrivato qui. |  
+| [[characters/julia\|JULIA]] | Ma di che cosa avete parlato<br><br><br>O avete cantato canzoni tutto il [[motifs/time\|tempo]]?<br>C'è decisamente troppo mistero<br>In questa casa oggi. |  
+| EDWARD | Mi dispiace molto. |  
+| [[characters/julia\|JULIA]] | No, mi [[motifs/love\|piace]] da matti. Ma questo mi ricorda<br><br><br>I miei occhiali. È quello il mistero più grande.<br>Peter! Perché non li cerchi?<br>Guarda sul caminetto. Dov'ero seduta?<br>Rovista in [[characters/bottom\|fondo]] a quel divano —<br>No, questa poltrona. Guarda sotto il cuscino. |  
+| EDWARD | Sei proprio sicura che non siano nella tua borsa? |  
+| [[characters/julia\|JULIA]] | Ma no, certo che no: è lì che li tengo.<br><br><br>Oh, eccoli qui! Grazie, Edward;<br>Sei stato davvero molto in gamba;<br>Senza di te non li avrei mai trovati.<br>La prossima [[motifs/time\|volta]] che perdo qualcosa, Edward,<br><br><br>Verrò dritta da te, invece che da sant'Antonio.<br>E ora devo volare. Ho lasciato il taxi ad aspettare.<br>Andiamo, Peter. |  
+| PETER | [[concepts/hope\|Spero]] che non ti dispiaccia<br><br><br>Se non vengo con te, [[characters/julia\|Julia]]. Tornando<br>Mi sono ricordato una cosa che dovevo dire a Edward… |  
+| [[characters/julia\|JULIA]] | Oh, riguardo a [[characters/lavinia\|Lavinia]]? |  
+| PETER | No, non riguardo a [[characters/lavinia\|Lavinia]].<br><br><br>È una cosa su cui voglio consultarlo,<br>E potrei farlo adesso. |  
+| [[characters/julia\|JULIA]] | Ma certo che non mi dispiace. |  
+| PETER | [[motifs/well\|Bene]], almeno devi lasciarmi accompagnarti giù in ascensore. |  
+| [[characters/julia\|JULIA]] | No, tu resta a parlare con Edward. Non sono ancora inetta.<br><br><br>E poi, mi piace manovrare la [[motifs/machine\|macchina]] da me —<br>In ascensore posso meditare. Arrivederci allora.<br>E grazie — a tutti e due — molte grazie. |  
+| *(didascalia)* | [Esce] |  
+| PETER | [[concepts/hope\|Spero]] di non disturbarti, Edward. |  
+| EDWARD | Pare che sia già stato disturbato;<br><br><br>E avrei preferito piuttosto restare solo.<br>Ma di che si tratta? |  
+| PETER | Ho bisogno del tuo aiuto.<br><br><br>Stavo per telefonare e cercare di vederti più tardi;<br>Ma questa mi è parsa un'occasione. |  
+| EDWARD | E qual è il tuo guaio? |  
+| PETER | Stasera ho sentito che non ce la facevo più.<br><br><br>Quella festa orribile! Scusami, Edward;<br>Naturalmente era davvero una festa bellissima<br>Per tutti tranne che per me. E non è stata colpa tua.<br>Non credo che tu ti sia accorto della situazione. |  
+| EDWARD | Mi è parso di notare una cosa o due;<br><br><br>Ma non pretendo d'essermi accorto di tutto. |  
+| PETER | Oh, sono molto contento che tu non abbia notato:<br><br><br>Devo essermi comportato meglio di quanto credessi.<br>Se non hai notato tu, non credo l'abbiano fatto gli altri,<br>Anche se ho piuttosto paura di [[characters/julia\|Julia]] Shuttlethwaite. |  
+| EDWARD | [[characters/julia\|Julia]] è certamente osservatrice,<br><br><br>Ma credo che avesse in testa qualche altra faccenda. |  
+| PETER | Si tratta di [[characters/celia\|Celia]]. Di me e di [[characters/celia\|Celia]]. |  
+| EDWARD | Ma via, che cosa potrebbe esserci fra te e [[characters/celia\|Celia]]?<br><br><br>Avete qualcosa in comune, secondo te? |  
+| PETER | Mi pareva che avessimo moltissimo in comune.<br><br><br>Siamo tutti e due artisti. |  
+| EDWARD | Non ci avevo mai pensato.<br><br><br>Quali arti pratichi? |  
+| PETER | Non avrai visto il mio [[forms/novel\|romanzo]],<br><br><br>Anche se ebbe recensioni molto buone.<br>Ma è più il cinema che interessa a tutti e due. |  
+| EDWARD | Un comune interesse per le immagini in movimento<br><br><br>Avvicina spesso i giovani. |  
+| PETER | Ora sei soltanto sarcastico:<br><br><br>[[characters/celia\|Celia]] s'interessava all'arte del film. |  
+| EDWARD | Come possibile professione? |  
+| PETER | Potrebbe farne una professione;<br><br><br>Anche se aveva la sua poesia. |  
+| EDWARD | Sì, ho visto le sue poesie —<br><br><br>Interessanti se s'è interessati a [[characters/celia\|Celia]].<br>A parte, s'intende, il loro merito letterario<br>Che non pretendo di giudicare. |  
+| PETER | [[motifs/well\|Beh]], io posso giudicarlo,<br><br><br>E lo trovo molto buono. Ma non è questo il punto.<br>Il punto è che credevo avessimo moltissimo in comune<br>E credo lo pensasse anche lei. |  
+| EDWARD | Come sei arrivato a conoscerla? |  
+| *(didascalia)* | [Entra ALEX] |  
+| ALEX | Ah, eccoti qui, Edward! Sai perché sono passato? |  
+| EDWARD | Vorrei sapere prima come sei entrato, Alex. |  
+| ALEX | Ma sono arrivato e ho trovato la porta aperta<br><br><br>E così ho pensato d'infilarmi e vedere se c'era qualcuno con te. |  
+| PETER | Dev'essere stata [[characters/julia\|Julia]] a lasciarla aperta. |  
+| EDWARD | Non importa;<br><br><br>Purché la chiudiate tutti e due quando uscite. |  
+| ALEX | Ah, ma tu vieni con me, Edward.<br><br><br>Ho pensato: Edward stasera sarà tutto solo,<br>E so che detesta passare una serata solo,<br>Perciò verrai fuori a cenare con me. |  
+| EDWARD | È molto premuroso da parte tua, Alex, davvero;<br><br><br>Ma preferirei restare solo, stasera. |  
+| ALEX | Ma devi pur cenare. Esci?<br><br><br>C'è qualcuno qui a prepararti la cena? |  
+| EDWARD | No, non mi servirà molto, e me la preparo da me. |  
+| ALEX | Ah, in tal caso so che cosa farò.<br><br><br>Ti farò una piccola sorpresa:<br>Sai, sono un cuoco piuttosto famoso.<br>Vado dritto in cucina adesso<br>E ti preparerò una bella cenetta<br>Che potrai consumare solo. E poi ti lasceremo.<br>Intanto tu e Peter potete continuare a parlare<br>E io non vi disturberò. |  
+| EDWARD | Mio caro Alex,<br><br><br>In dispensa non ci sarà nulla degno della tua cucina.<br>Non se ne parla nemmeno. |  
+| ALEX | Ah, ma è proprio quello il mio dono speciale —<br><br><br>Confezionare un pasto squisito con nulla.<br>Bastano gli avanzi che hai. L'ho imparato in Oriente.<br>Con una manciata di riso e un po' di pesce secco<br>So fare una mezza dozzina di piatti. Non dire una parola.<br>Comincio subito. |  
+| *(didascalia)* | [Esce verso la cucina] |  
+| EDWARD | [[motifs/well\|Dunque]], dov'eri rimasto? |  
+| PETER | Mi hai chiesto come sono arrivato a conoscere [[characters/celia\|Celia]].<br><br><br>L'ho incontrata qui, circa un anno fa. |  
+| EDWARD | A uno dei giovedì dilettanteschi di [[characters/lavinia\|Lavinia]]? |  
+| PETER | Un giovedì. Perché dici dilettantesco? |  
+| EDWARD | I tentativi di [[characters/lavinia\|Lavinia]] di aprire un salotto,<br><br><br>Dove io intrattenevo gli ospiti minori<br>E mi occupavo degli spostati, gli errori di [[characters/lavinia\|Lavinia]].<br>Ma tu eri uno dei successi minori<br>Per un [[motifs/time\|po']] almeno. |  
+| PETER | Non direi questo.<br><br><br>Ma [[characters/lavinia\|Lavinia]] fu di una gentilezza straordinaria con me<br>E le devo moltissimo. E poi conobbi [[characters/celia\|Celia]].<br>Era diversa da qualunque ragazza avessi mai conosciuto<br>E non facile da avvicinare, in quell'occasione. |  
+| EDWARD | La vedevi spesso?<br><br><br>VOCE DI ALEX. Edward, hai una pentola a [[topoi/double\|bagnomaria]]? |  
+| EDWARD | Immagino che ci debba essere una pentola a [[topoi/double\|bagnomaria]]:<br><br><br>Non ce n'è una in ogni cucina?<br>VOCE DI ALEX.                                 Non riesco a trovarla.<br><br><br>Ecco un'altra sorpresa svanita. Devo pensarne un'altra. |  
+| PETER | Non molto spesso.<br><br><br>E quando la vedevo, non avevo occasione di parlarle. |  
+| EDWARD | Tu e [[characters/celia\|Celia]] eravate invitati per scopi diversi.<br><br><br>La tua parte era d'essere una delle scoperte di [[characters/lavinia\|Lavinia]];<br>Quella di [[characters/celia\|Celia]], di fornire mondanità e moda.<br>[[characters/lavinia\|Lavinia]] ha sempre avuto l'[[concepts/ambition\|ambizione]]<br>D'affermarsi in due mondi insieme —<br>Ma doveva essere lei stessa il legame fra i due.<br>Ecco perché, credo, i suoi giovedì furono un fallimento. |  
+| PETER | Parli come se tutto fosse finito. |  
+| EDWARD | Oh no, no, tutto resta incompiuto.<br><br><br>Ma non mi hai detto come sei arrivato a conoscere [[characters/celia\|Celia]]. |  
+| PETER | La rividi qualche giorno dopo<br><br><br>Sola a un concerto. E io ero solo.<br>Sono sempre andato ai concerti solo —<br>Dapprima perché non conoscevo nessuno con cui andarci,<br>E poi scoprii che preferivo andarci solo.<br>Ma una ragazza come [[characters/celia\|Celia]], parve stranissimo,<br>Perché la consideravo soltanto un nome<br>In una rubrica mondana, trovarla lì sola.<br>Comunque, attaccammo discorso<br>E scoprii che andava ai concerti sola<br>E a guardare i quadri. Così ci incontravamo spesso<br>Allo stesso modo, e a volte ci andavamo insieme.<br>Ed essere con [[characters/celia\|Celia]] era qualcosa di diverso<br>Dalla compagnia o dalla [[concepts/solitude\|solitudine]]. E a volte prendevamo il tè<br>E una volta o due cenammo insieme. |  
+| EDWARD | E dopo di allora<br><br><br>Ti presentò mai alla sua famiglia<br>O a qualcuno dei suoi amici? |  
+| PETER | No, ma una volta o due me ne parlò<br><br><br>E della loro mancanza d'interessi intellettuali. |  
+| EDWARD | E che cosa accadde dopo? |  
+| PETER | Oh, non accadde nulla.<br><br><br>Ma pensavo che tenesse davvero a me.<br>Ed ero così felice quando stavamo insieme —<br>Così… appagato, così… in pace: non so esprimerlo;<br>Non avevo mai immaginato una felicità così quieta.<br>Avevo conosciuto solo l'eccitazione, il delirio,<br>Il [[motifs/desire\|desiderio]] di possesso. Non era affatto così.<br>Era qualcosa di stranissimo. C'era una tale… tranquillità… |  
+| EDWARD | E che cosa ha interrotto questa interessante relazione? |  
+| *(didascalia)* | [Entra ALEX in maniche di camicia e con un grembiule] |  
+| ALEX | Edward, non trovo il curry in polvere. |  
+| EDWARD | Non c'è curry in polvere. [[characters/lavinia\|Lavinia]] detesta il curry. |  
+| ALEX | Ecco un'altra sorpresa svanita, allora. Devo pensarci.<br><br><br>Non mi aspettavo di trovare dei manghi,<br>Ma sul curry in polvere contavo. |  
+| *(didascalia)* | [Esce] |  
+| PETER | È esattamente ciò che voglio sapere.<br><br><br>È semplicemente sbiadita — dentro qualche altra immagine —<br>Come una dissolvenza. Non vuole vedermi;<br>Trova scuse, non molto plausibili,<br>E quando la vedo, sembra assorta<br>In qualche segreta eccitazione che non posso condividere. |  
+| EDWARD | Credi che abbia semplicemente perso interesse per te? |  
+| PETER | La metti proprio male. Io la vedo diversamente.<br><br><br>Non è il suo interesse per me che mi manca —<br><br><br>Ma quei momenti in cui pareva che condividessimo una percezione,<br>Un sentimento, un'esperienza indefinibile<br>In cui eravamo entrambi inconsapevoli di noi stessi.<br>Nei tuoi termini, forse, ha perso interesse per me. |  
+| EDWARD | È tutto normalissimo. Se solo tu sapessi<br><br><br>Quanto sei fortunato. Fra poco<br>Questa sarebbe diventata una relazione qualunque<br>Come tutte le altre. Al raffreddarsi della febbre<br>Avresti scoperto che lei era un'altra donna<br>E che tu eri un altro uomo. Mi congratulo con te<br>Per una fuga tempestiva. |  
+| PETER | Preferirei che mi fossero risparmiate<br><br><br>Le tue congratulazioni. Dovevo parlare con qualcuno.<br>E ti ho raccontato di qualcosa di reale —<br>La mia prima esperienza della realtà<br>E forse è l'ultima. E tu non capisci. |  
+| EDWARD | Mio caro Peter, ti ho soltanto detto<br><br><br>Che cosa ti sarebbe accaduto con [[characters/celia\|Celia]]<br>Nel giro d'altri sei mesi di [[motifs/time\|tempo]]. Ecco tutto.<br>Puoi prenderlo o lasciarlo. |  
+| PETER | Ma che cosa devo fare? |  
+| EDWARD | Nulla. Aspetta. Torna in California. |  
+| PETER | Ma devo vedere [[characters/celia\|Celia]]. |  
+| EDWARD | Sarà la stessa [[characters/celia\|Celia]]?<br><br><br>Meglio accontentarsi della [[characters/celia\|Celia]] che ricordi.<br>Ricordi! Ti dico che è già un [[motifs/memory\|ricordo]]. |  
+| PETER | Ma devo vedere [[characters/celia\|Celia]] almeno per farmi dire da lei<br><br><br>Che cosa è accaduto, nei suoi termini. Finché non lo saprò<br>Non conoscerò la [[concepts/truth\|verità]] neppure sul [[motifs/memory\|ricordo]].<br>Condividevamo davvero quegli interessi? Sentivamo davvero lo stesso<br><br><br>Quando udivamo certa musica? O guardavamo certi quadri?<br><br><br>C'era qualcosa di reale. Ma qual è la realtà… |  
+| *(didascalia)* | [Squilla il telefono] |  
+| EDWARD | Mi scusi un momento. |  
+| *(didascalia)* | [Al telefono] |  
+| EDWARD |                                                        Pronto!… Non posso parlare adesso…<br>Sì, c'è… [[motifs/well\|Bene]], allora ti richiamo<br>Appena posso.<br>[A PETER] Scusami. Dicevi? |  
+| PETER | Dicevo: qual è la realtà<br><br><br>D'un'esperienza fra due persone irreali?<br>Se solo posso tenermi stretto il [[motifs/memory\|ricordo]]<br>Potrò sopportare qualunque futuro. Ma devo scoprire<br>La [[concepts/truth\|verità]] sul passato, per amore del [[motifs/memory\|ricordo]]. |  
+| EDWARD | Non c'è [[motifs/memory\|ricordo]] che tu possa avvolgere nella canfora<br><br><br>Senza che le tarme ci entrino. Dunque vuoi vedere [[characters/celia\|Celia]].<br>Non so perché mi stia prendendo tutto questo disturbo<br>Per proteggerti dallo [[archetypes/fool\|sciocco]] che sei.<br>Che cosa vuoi che faccia? |  
+| PETER | Vedi [[characters/celia\|Celia]] per me.<br><br><br>Tu la conosci in un modo diverso dal mio<br>E sei molto più vecchio. |  
+| EDWARD | Molto più vecchio? |  
+| PETER | Sì, sono certo che darebbe ascolto a te<br><br><br>Come a qualcuno disinteressato. |  
+| EDWARD | [[motifs/well\|Bene]], vedrò [[characters/celia\|Celia]]. |  
+| PETER | Grazie, Edward. Sei molto buono. |  
+| *(didascalia)* | [Entra ALEX, con la giacca indosso] |  
+| ALEX | Oh, Edward! Ti ho preparato una tale delizia!<br><br><br>Credo davvero che fra tutti i miei trionfi<br>Questo sia il più grande. Fare qualcosa dal nulla!<br>Mai, nemmeno viaggiando in Albania,<br>Ho ricavato una cena simile da così pochi materiali<br>Come quelli che ho trovato nel tuo frigorifero. Ma naturalmente<br>Ho avuto la fortuna di trovare una mezza dozzina d'uova. |  
+| EDWARD | Come! Hai usato tutte quelle uova! La zia di [[characters/lavinia\|Lavinia]]<br><br><br>Le ha appena mandate dalla campagna. |  
+| ALEX | Ah, dunque la zia<br><br><br>Esiste davvero. Una prova sostanziosa. |  
+| EDWARD | No, no… voglio dire, questa è un'altra zia. |  
+| ALEX | Capisco. La zia vera. Ma mi sarai grato.<br><br><br>Ci sono pochissimi contadini in Montenegro<br>Che possano avere il piatto che mangerai, di questi tempi. |  
+| EDWARD | Ma la mia colazione? |  
+| ALEX | Non preoccuparti della colazione.<br><br><br>Tutto ciò che ti occorre è una tazza di caffè nero<br>E un po' di pane tostato. L'ho lasciato a sobbollire.<br>Non lasciarlo più d'altri dieci minuti.<br>Ora vado, e mi porto via Peter. |  
+| PETER | Edward, ti ho rubato troppo [[motifs/time\|tempo]],<br><br><br>E tu vuoi restare solo. Porta i miei [[motifs/love\|saluti]] a [[characters/lavinia\|Lavinia]]<br>Quando torna… ma, se non ti dispiace,<br>Preferirei che non le dicessi ciò che ti ho detto. |  
+| EDWARD | Non dirò nulla di tutto questo a [[characters/lavinia\|Lavinia]]. |  
+| PETER | Grazie, Edward. Buona [[motifs/night\|notte]]. |  
+| EDWARD | Buona [[motifs/night\|notte]], Peter,<br><br><br>E buona [[motifs/night\|notte]], Alex. Oh, e se non vi dispiace,<br>Chiudete la porta uscendo, in modo che scatti. |  
+| ALEX | Ricorda, Edward, non più di dieci minuti, Venti minuti, e la mia opera sarà rovinata. |  
+| *(didascalia)* | [Escono ALEX e PETER] |  
+| *(didascalia)* | [EDWARD prende il telefono e compone un numero] |  
+| EDWARD | C'è la signorina [[characters/celia-coplestone\|Celia Coplestone]]? … Quanto tempo fa? …<br><br><br>No, non importa.<br>SIPARIO |
+
+### Atto 1, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | La stessa stanza: un quarto d'ora più tardi. EDWARD è solo e fa un solitario. Suona il campanello, e lui va ad aprire.<br>VOCE DI [[characters/celia\|CELIA]]. È solo? |  
+| *(didascalia)* | [EDWARD torna con [[characters/celia\|CELIA]]] |  
+| EDWARD | [[characters/celia\|Celia]]! Perché sei tornata?<br><br><br>Ti avevo detto che avrei telefonato appena potevo:<br>E ho provato a cercarti poco fa. |  
+| [[characters/celia\|CELIA]] | Se per caso ci fosse stato qualcuno con te<br><br><br>Avrei detto che ero tornata per il mio ombrello…<br>Devo dire che non sembri molto contento di vedermi.<br>Edward, io capisco che cosa è accaduto<br>Ma non riuscivo a capire il tuo tono al telefono.<br>Non sembravi tu. Così ho sentito che dovevo vederti.<br>Dimmi che va tutto bene, e poi me ne vado. |  
+| EDWARD | Ma come puoi dire che capisci che cosa è accaduto?<br><br><br>Io non so che cosa sia accaduto, né che cosa accadrà;<br><br><br>E per cercare di capirlo, voglio restare solo. |  
+| [[characters/celia\|CELIA]] | Avrei pensato che fosse semplicissimo.<br><br><br>[[characters/lavinia\|Lavinia]] ti ha lasciato. |  
+| EDWARD | Sì, questa era la situazione.<br><br><br>Immagino fosse abbastanza evidente a tutti. |  
+| [[characters/celia\|CELIA]] | Era evidente che la zia era una pura invenzione<br><br><br>Improvvisata lì per lì, e neppure delle migliori.<br>Avresti dovuto prepararti qualcosa di meglio, per [[characters/julia\|Julia]];<br>Ma non ha davvero importanza. Lo sapranno abbastanza presto.<br>Non risolve questo tutte le nostre difficoltà? |  
+| EDWARD | Non ha fatto che portare alla luce le vere difficoltà. |  
+| [[characters/celia\|CELIA]] | Ma di certo sono soltanto temporanee.<br><br><br>Sai che avevo accettato la situazione<br>Perché un divorzio avrebbe rovinato la tua carriera;<br>E pensavamo che [[characters/lavinia\|Lavinia]] non avrebbe mai voluto lasciarti.<br>Non vorrai attenerti a quella sciocca convenzione<br>Per cui dev'essere sempre il marito a farsi divorziare?<br>E se lei sceglie di dartene i motivi… |  
+| EDWARD | Capisco. Ma non è affatto così.<br><br><br>[[characters/lavinia\|Lavinia]] sta per tornare. |  
+| [[characters/celia\|CELIA]] | [[characters/lavinia\|Lavinia]] sta per tornare!<br><br><br>Vuoi dire che ci ha teso una trappola? |  
+| EDWARD | No. Se c'è una trappola, ci siamo dentro tutti,<br><br><br>Ce la siamo tesa da noi. Ma non so<br>Che genere di trappola sia. |  
+| [[characters/celia\|CELIA]] | E allora che cosa è accaduto? |  
+| *(didascalia)* | [Squilla il telefono] |  
+| EDWARD | Al diavolo il telefono. Immagino di dover rispondere.<br><br><br>Pronto… oh, ciao!… No. Voglio dire sì, Alex;<br>Sì, certo… era meraviglioso.<br>Non ho mai assaggiato nulla di simile…<br>Sì, è molto interessante. Ma mi domandavo soltanto<br>Se non fosse piuttosto indigesto?…<br>Oh, no, Alex, non portarmi del formaggio;<br>Ho un po' di formaggio… No, non norvegese;<br>Ma non voglio davvero formaggio… Pantofola come?…<br>Oh, dalla Jugoslavia… prugne e alcol?<br>No, davvero, Alex, non voglio nulla.<br>Sono stanchissimo. Grazie infinite, Alex.<br>Buona [[motifs/night\|notte]]. |  
+| [[characters/celia\|CELIA]] | Che diamine era tutto questo? |  
+| EDWARD | Era Alex. |  
+| [[characters/celia\|CELIA]] | Lo so che era Alex.<br><br><br>Ma di che cosa parlava? |  
+| EDWARD | Me n'ero del tutto dimenticato.<br><br><br>Si è intrufolato qui, poco fa,<br>E ha insistito per cucinarmi qualcosa per cena;<br>E ha detto che dovevo mangiarla entro dieci minuti.<br>Immagino che stia ancora cuocendo. |  
+| [[characters/celia\|CELIA]] | Immagini che stia ancora cuocendo!<br><br><br>Mi pareva di sentire un odore particolare:<br>Certo che sta ancora cuocendo — o facendo qualcosa.<br>Devo andare a investigare. |  
+| *(didascalia)* | [Fa per uscire dalla stanza] |  
+| EDWARD | Per amor del cielo, non disturbarti! |  
+| *(didascalia)* | [Esce [[characters/celia\|CELIA]]] |  
+| EDWARD | E se venisse qualcuno e ti trovasse in cucina? |  
+| *(didascalia)* | [EDWARD si avvicina al tavolo e ispeziona il suo solitario. Sposta una carta. Il campanello suona ripetutamente. Rientra [[characters/celia\|CELIA]], con un grembiule.] |  
+| [[characters/celia\|CELIA]] | Faresti meglio ad aprire la porta, Edward.<br><br><br>È la cosa migliore da fare. Non perdere la testa.<br>Vedi, l'ombrello l'ho lasciato davvero;<br>E dirò che ti ho trovato qui affamato e indifeso<br>E che ho dovuto fare qualcosa. Comunque, io resto<br>E non ho intenzione di nascondermi. |  
+| *(didascalia)* | [Torna in cucina. Il campanello suona di nuovo. EDWARD va alla porta d'ingresso, e lo si sente dire:] |  
+| [[characters/celia\|CELIA]] |  [[characters/julia\|Julia]]!<br>Per che cosa sei tornata? |  
+| *(didascalia)* | [Entra [[characters/julia\|JULIA]]] |  
+| [[characters/julia\|JULIA]] | Ho avuto un'ispirazione! |  
+| *(didascalia)* | [Entra [[characters/celia\|CELIA]] con una casseruola] |  
+| [[characters/celia\|CELIA]] | Edward, è rovinato! |  
+| EDWARD | Che bella cosa. |  
+| [[characters/celia\|CELIA]] | Ma ha rovinato anche la casseruola. |  
+| EDWARD | E una mezza dozzina d'uova:<br><br><br>Ne volevo uno per colazione. Un uovo sodo.<br>È l'unica cosa che so cucinare. |  
+| [[characters/julia\|JULIA]] | [[characters/celia\|Celia]]! Vedo che hai avuto la stessa ispirazione<br><br><br>Che ho avuto io. Edward dev'essere nutrito.<br>È sotto una tale tensione. Dobbiamo tenergli su le forze.<br>Edward! Non ti rendi conto di quanto sei fortunato<br>Ad avere due Buoni Samaritani? Non ne avevo mai sentito parlare prima. |  
+| EDWARD | L'uomo che cadde tra i ladroni fu più fortunato di me:<br><br><br>Lui fu lasciato in una locanda. |  
+| [[characters/julia\|JULIA]] | Edward, che ingratitudine.<br><br><br>Che cosa c'è in quella casseruola? |  
+| [[characters/celia\|CELIA]] | Nessuno lo sa. |  
+| EDWARD | È qualcosa che Alex è venuto a prepararmi.<br><br><br>Ha voluto farlo a tutti i costi. Tre Buoni Samaritani.<br><br><br>Me n'ero completamente dimenticato. |  
+| [[characters/julia\|JULIA]] | Ma non devi toccarlo. |  
+| EDWARD | Certo che non lo toccherò. |  
+| [[characters/julia\|JULIA]] | Mia cara, avrei dovuto avvertirti:<br><br><br>Tutto ciò che prepara Alex è assolutamente letale.<br>Potrei raccontare certe storie di gente che ha avvelenato.<br>Ora, mia cara, dammi quel grembiule<br>E vediamo che cosa so fare io. Tu resta a parlare con Edward. |  
+| *(didascalia)* | [Esce [[characters/julia\|JULIA]]] |  
+| [[characters/celia\|CELIA]] | Ma che cosa è accaduto, Edward? Che cosa è accaduto? |  
+| EDWARD | [[characters/lavinia\|Lavinia]] sta per tornare, credo. |  
+| [[characters/celia\|CELIA]] | Credi! Non lo sai? |  
+| EDWARD | No, ma lo ritengo. Quell'uomo che era qui — |  
+| [[characters/celia\|CELIA]] | Sì, chi era quell'uomo? Mi faceva piuttosto paura;<br><br><br>Ha una specie di potere. |  
+| EDWARD | Non so chi sia.<br><br><br>Ma ho parlato un po' con lui, quando voi altri ve n'eravate andati,<br>E ha detto che avrebbe riportato [[characters/lavinia\|Lavinia]], domani. |  
+| [[characters/celia\|CELIA]] | Ma perché quell'uomo dovrebbe volerla riportare —<br><br><br>A meno che non sia il Diavolo! Potrei crederlo. |  
+| EDWARD | Perché gliel'ho chiesto io. |  
+| [[characters/celia\|CELIA]] | Perché gliel'hai chiesto tu!<br><br><br>Allora dev'essere il Diavolo! Deve averti stregato.<br><br><br>Come ti ha convinto a volerla indietro? |  
+| *(didascalia)* | [Dalla cucina si sente un botto] |  
+| EDWARD | Che diavolo è stato? |  
+| *(didascalia)* | [Rientra [[characters/julia\|JULIA]], col grembiule, con un vassoio e tre bicchieri] |  
+| [[characters/julia\|JULIA]] | Ho avuto un'ispirazione!<br><br><br>In questa casa non c'è nulla di commestibile:<br>Ho cercato dappertutto. Ma ho trovato dello champagne —<br>Solo una mezza bottiglia, per la verità,<br>E naturalmente non è fresco. Ma è così ristoratore;<br>E ho pensato: abbiamo tutti bisogno d'un tonico<br>Dopo questo disastro. Ora propongo un brindisi.<br>Indovinate alla salute di chi lo propongo? |  
+| EDWARD | No, non ci riesco. Ma non brinderò a quella di Alex. |  
+| [[characters/julia\|JULIA]] | Oh, non è quella di Alex. Su, vi propongo<br><br><br>La zia di [[characters/lavinia\|Lavinia]]! Avreste potuto indovinarlo.<br>EDWARD e [[characters/celia\|CELIA]]. La zia di [[characters/lavinia\|Lavinia]]. |  
+| [[characters/julia\|JULIA]] | Ora, la prossima domanda<br><br><br>È: che cosa si fa. È semplicissimo.<br>È troppo tardi, o troppo presto, per andare al ristorante.<br>Dovete venire tutti e due a [[motifs/home\|casa]] mia. |  
+| EDWARD | No, mi dispiace, [[characters/julia\|Julia]].<br><br><br>Sono troppo stanco per uscire, e non ho affatto fame.<br>Prenderò qualche biscotto. |  
+| [[characters/julia\|JULIA]] | Ma tu, [[characters/celia\|Celia]]?<br><br><br>Devi venire a fare una cenetta leggera con me —<br>Qualcosa di molto leggero. |  
+| [[characters/celia\|CELIA]] | Grazie, [[characters/julia\|Julia]].<br><br><br>Credo che verrò, se posso raggiungerti<br>Fra una decina di minuti? Prima d'andare, c'è una cosa<br>Che voglio dire a Edward. |  
+| [[characters/julia\|JULIA]] | Riguardo a [[characters/lavinia\|Lavinia]]?<br><br><br>[[motifs/well\|Bene]], allora vieni presto. E prendi un taxi.<br>Sai, hai proprio l'aria d'essere affamata.<br>Buona [[motifs/night\|notte]], Edward. |  
+| *(didascalia)* | [Esce [[characters/julia\|JULIA]]] |  
+| [[characters/celia\|CELIA]] | [[motifs/well\|Dunque]], come ti ha convinto? |  
+| EDWARD | Come mi ha convinto? Mi ha convinto?<br><br><br>Ho l'impressione chiarissima<br>Che cercasse di convincermi che era tutto per il meglio<br>Che [[characters/lavinia\|Lavinia]] se ne fosse andata; che dovessi esserne grato.<br>Eppure l'effetto di tutto il suo ragionare<br>Fu di farmi vedere che la rivolevo. |  
+| [[characters/celia\|CELIA]] | Ecco il metodo del Diavolo! Dunque rivuoi [[characters/lavinia\|Lavinia]]!<br><br><br>[[characters/lavinia\|Lavinia]]! Dunque l'unica cosa che ti sta a cuore<br>È evitare una rottura — qualunque cosa sgradevole!<br>No, non può essere questo. Non voglio pensare che sia questo.<br>Credo sia soltanto un momento di resa<br>Alla stanchezza. E al panico. Non sai affrontare il fastidio. |  
+| EDWARD | No, non è questo. Non è soltanto questo. |  
+| [[characters/celia\|CELIA]] | Non può essere semplicemente una questione di [[concepts/vanity\|vanità]]:<br><br><br>Che tu creda che il mondo riderà di te<br>Perché tua moglie ti ha lasciato per un altro uomo?<br>Rimedierò presto a questo, Edward,<br>Quando sarai libero. |  
+| EDWARD | No, non è questo.<br><br><br>E tutte queste ragioni me le ha suggerite<br>L'uomo che chiamo Riley — benché non si chiami Riley;<br>Era solo un nome in una canzone che cantava… |  
+| [[characters/celia\|CELIA]] | Ti ha cantato una canzone su un uomo di nome Riley!<br><br><br>Davvero, Edward, credo che tu sia pazzo —<br>Voglio dire, sei sull'orlo d'un esaurimento nervoso.<br>Edward, se me ne vado adesso<br>Mi prometti d'andare da un grandissimo dottore<br>Di cui ho sentito parlare — e si chiama Reilly! |  
+| EDWARD | Ci vorrebbe qualcuno più grande del più grande dottore<br><br><br>Per guarire questo male. |  
+| [[characters/celia\|CELIA]] | Edward, se me ne vado adesso,<br><br><br>Mi assicuri che va tutto bene,<br>Che non intendi riprenderti [[characters/lavinia\|Lavinia]]<br>E che intendi davvero conquistare la tua [[concepts/freedom\|libertà]],<br>E che fra noi va tutto bene?<br>È tutto ciò che conta. Davvero, Edward,<br>Se questo è a posto, tutto il resto lo sarà,<br>Te lo prometto. |  
+| EDWARD | No, [[characters/celia\|Celia]].<br><br><br>È stato meraviglioso, e te ne sono molto grato,<br>E credo che tu sia una persona rarissima.<br>Ma era troppo tardi. E avrei dovuto sapere<br>Che non era leale verso di te. |  
+| [[characters/celia\|CELIA]] | Non era leale verso di me!<br><br><br>Puoi startene lì a parlare d'essere leale verso di me! |  
+| EDWARD | Se non fosse per la partenza di [[characters/lavinia\|Lavinia]], tutto questo non sarebbe mai sorto.<br><br><br>Che futuro avevi mai pensato che potesse esserci? |  
+| [[characters/celia\|CELIA]] | Che cosa avevo pensato che potesse essere il futuro?<br><br><br>Ho abbandonato il futuro prima ancora di cominciare,<br>E dopo di allora ho vissuto in un presente<br>Dove il [[motifs/time\|tempo]] non aveva senso, un mondo tutto nostro,<br>Dove la parola «felicità» aveva un altro significato<br>O così pareva. |  
+| EDWARD | Ho sentito parlare di quell'esperienza. |  
+| [[characters/celia\|CELIA]] | Un sogno. Ci sono stata felice fino a oggi,<br><br><br>E poi, quando [[characters/julia\|Julia]] ha chiesto di [[characters/lavinia\|Lavinia]]<br>E mi si è affacciato che [[characters/lavinia\|Lavinia]] ti aveva lasciato<br>E che saresti stato libero — allora ho scoperto d'un tratto<br>Che il sogno non bastava; che volevo qualcosa di più<br><br><br>E ho aspettato, e volevo correre a dirtelo.<br>Forse il sogno era meglio. Sembrava la vera realtà,<br>E se questa è realtà, somiglia molto a un sogno.<br>Forse ero io che tradivo il mio stesso sogno<br>Per tutto il tempo; e scoprire che volevo<br>Questo mondo [[motifs/well\|oltre]] a quello… [[motifs/well\|beh]], è umiliante. |  
+| EDWARD | Non c'è ragione per cui tu debba sentirti umiliata… |  
+| [[characters/celia\|CELIA]] | Oh, non credere di potermi umiliare!<br><br><br>L'umiliazione — è qualcosa che mi sono fatta da me.<br>Non sono neppure sicura che tu sembri abbastanza reale<br>Da umiliarmi. Immagino che la maggior parte delle donne<br>Si sentirebbe degradata a scoprire che un uomo<br>Con cui credeva d'aver condiviso qualcosa di meraviglioso<br>Le aveva prese soltanto come uno svago passeggero.<br>Oh, oso dire che ingannavi te stesso:<br>Ma è stato questo, senza alcun [[concepts/doubt\|dubbio]]. |  
+| EDWARD | Non ti ho presa come uno svago passeggero!<br><br><br>Se vuoi parlare di svaghi passeggeri<br>Come hai preso tu Peter? |  
+| [[characters/celia\|CELIA]] | Peter? Peter chi? |  
+| EDWARD | Peter Quilpe, che era qui stasera. Viveva in un sogno<br><br><br>E ora è semplicemente infelice e smarrito. |  
+| [[characters/celia\|CELIA]] | Non so proprio di che cosa tu stia parlando.<br><br><br>Edward, questo è davvero un sotterfugio troppo grossolano<br>Per giustificarti. Non c'è mai stato nulla<br>Fra me e Peter. |  
+| EDWARD | Non c'è stato? Lui lo credeva.<br><br><br>È tornato qui stasera per parlarmene. |  
+| [[characters/celia\|CELIA]] | Ma questo è ridicolo! Non ho mai dato a Peter<br><br><br>Alcun motivo di supporre che tenessi a lui.<br>Pensavo che avesse talento; vedevo che era solo;<br>Pensavo di poterlo aiutare. Lo portavo ai concerti.<br>Ma poi, via via che faceva altre conoscenze,<br>L'ho trovato meno interessante, e piuttosto presuntuoso.<br>Ma perché parliamo di Peter? Tutto ciò che conta<br>È che tu credi di volere [[characters/lavinia\|Lavinia]].<br>E se sei quel genere di persona —<br>[[motifs/well\|Bene]], allora è meglio che tu l'abbia. |  
+| EDWARD | Non è così.<br><br><br>Non è che io provi [[motifs/love\|amore]] per [[characters/lavinia\|Lavinia]].<br>Non credo d'aver mai provato davvero [[motifs/love\|amore]] per lei.<br>Se ho mai conosciuto l'[[motifs/love\|amore]] — e credo di sì —<br>Non ho mai provato [[motifs/love\|amore]] per nessuna che non fossi tu,<br>E forse lo sono ancora. Ma questo non può continuare.<br>Non sarebbe mai potuta essere… una cosa duratura:<br>Tu devi avere un uomo… più vicino alla tua età. |  
+| [[characters/celia\|CELIA]] | Non credo m'importi dei tuoi consigli, Edward:<br><br><br>Non hai più diritto d'interessarti<br>Ormai, al mio futuro. [[concepts/hope\|Spero]] soltanto che tu sia capace<br><br><br>Di badare al tuo. Ma se non provi [[motifs/love\|amore]]<br>E non hai mai provato [[motifs/love\|amore]] per [[characters/lavinia\|Lavinia]],<br>Che cosa vuoi, allora? |  
+| EDWARD | Non ne sono sicuro.<br><br><br>L'unica cosa di cui sono relativamente certo<br>È che soltanto da stamattina<br>Ho incontrato me stesso come un uomo di mezza età<br>Che comincia a sapere che cosa sia sentirsi vecchio.<br>È quello il momento peggiore, quando senti d'aver perduto<br>Il [[motifs/desire\|desiderio]] di tutto ciò che era più desiderabile,<br>Prima d'accontentarti di ciò che puoi [[motifs/desire\|desiderare]];<br>Prima di sapere che cosa resti da desiderare;<br>E continui ad augurarti di poter [[motifs/desire\|desiderare]]<br>Ciò che il [[motifs/desire\|desiderio]] si è lasciato dietro. Ma tu non puoi capire.<br>Come potresti capire che cosa sia sentirsi vecchio? |  
+| [[characters/celia\|CELIA]] | Ma io voglio capirti. Potrei capire.<br><br><br>E, Edward, ti prego di credere che qualunque cosa accada<br>Non ti detesterò. Proverò soltanto pena per te.<br>È solo me stessa che rischio di detestare.<br>Ma quale sarà la tua vita? Non sopporto di pensarci.<br>Oh, Edward! Puoi essere felice con [[characters/lavinia\|Lavinia]]? |  
+| EDWARD | No — non felice: o, se c'è una qualche felicità,<br><br><br>Soltanto la felicità di sapere<br>Che l'infelicità non si nutre della rovina della bellezza,<br>Che il tedio non è il residuo dell'estasi.<br>Vedo che la mia vita fu decisa molto tempo fa<br>E che lo sforzo di sfuggirle<br>È soltanto una finzione, la pretesa<br>Che ciò che è, non sia, o possa mutare.<br>L'[[concepts/self\|io]] che sa dire «voglio questo — o voglio quello» —<br>L'[[concepts/self\|io]] che vuole — è una creatura debole;<br>Alla fine deve venire a patti<br>Con l'ostinato, il più duro [[concepts/self\|io]]; che non parla,<br>Che non discorre mai, che non sa argomentare;<br>E che in certi uomini può essere il custode —<br><br><br>Ma in uomini come me, l'ottuso, l'implacabile,<br>L'indomabile spirito della mediocrità.<br>L'[[concepts/self\|io]] volente può ordire il disastro<br>Di questa società non voluta — ma può prosperare soltanto<br>Nella sottomissione al dominio del socio più forte. |  
+| [[characters/celia\|CELIA]] | Non sono certa, Edward, di capirti;<br><br><br>Eppure capisco come mai prima d'ora.<br>Credo — sono convinta — che tu stia essendo te stesso<br>Come non lo sei mai stato prima, con me.<br>Due volte sei cambiato mentre ti guardavo.<br>Guardavo il tuo viso: e credevo di conoscerne<br>E amarne ogni contorno; e mentre guardavo<br>Si è disseccato, come se avessi scartato una mummia.<br>Ascoltavo la tua voce, che mi aveva sempre fatto fremere,<br>E si è fatta un'altra voce — no, non una voce:<br>Ciò che udivo era soltanto il rumore d'un insetto,<br>Arido, interminabile, senza senso, disumano —<br>Avresti potuto produrlo sfregando le zampe —<br>O come fanno le cavallette. Ho guardato,<br>E ho teso l'orecchio al tuo cuore, al tuo [[motifs/blood\|sangue]];<br>E ho visto soltanto uno scarabeo grande come un uomo<br>Che non ha dentro nulla più di ciò che esce<br>Quando calpesti uno scarabeo. |  
+| EDWARD | Forse è questo che sono.<br><br><br>Calpestami, se ti va. |  
+| [[characters/celia\|CELIA]] | No, non ti calpesterò.<br><br><br>Non è questo che sei. È soltanto ciò che restava<br>Di ciò che avevo creduto che tu fossi. Vedo un'altra persona,<br>Ti vedo come una persona che non avevo mai visto prima.<br>L'uomo che vedevo prima era soltanto una proiezione —<br>Ora lo capisco — di qualcosa che volevo —<br>No, non volevo — qualcosa a cui aspiravo —<br><br><br>Qualcosa che desideravo disperatamente esistesse.<br>Da qualche parte deve accadere — ma che cos'è, e dov'è?<br>Edward, vedo che semplicemente mi servivo di te.<br>E ti chiedo di perdonarmi. |  
+| EDWARD | Tu… chiedi a me di perdonarti! |  
+| [[characters/celia\|CELIA]] | Sì, per due cose. Primo… |  
+| *(didascalia)* | [Squilla il telefono] |  
+| EDWARD | Al diavolo il telefono.<br><br><br>Immagino sia meglio rispondere. |  
+| [[characters/celia\|CELIA]] | Sì, meglio rispondere. |  
+| EDWARD | Pronto!… Oh, [[characters/julia\|Julia]]: che c'è adesso?<br><br><br>Di nuovo i tuoi occhiali… dove li hai lasciati?<br>O dobbiamo… devo mettermi a cercarli dappertutto?<br>Hai guardato nella borsa?… [[motifs/well\|Bene]], non mordermi la testa…<br>Sei sicura, in cucina? Accanto alla bottiglia di champagne?<br>Ne sei proprio sicura?… Molto [[motifs/well\|bene]], resta in linea se vuoi;<br>Noi… io li cercherò. |  
+| [[characters/celia\|CELIA]] | Sì, cercali tu.<br><br><br>Io non entrerò mai più nella tua cucina. |  
+| *(didascalia)* | [Esce EDWARD. Torna con gli occhiali e una bottiglia] |  
+| EDWARD | Per una volta aveva ragione. |  
+| [[characters/celia\|CELIA]] | Ha sempre ragione.<br><br><br>Ma perché portare una bottiglia di champagne vuota? |  
+| EDWARD | Non è vuota. Sarà un po' sgasato —<br><br><br>Ma perché ha detto che era una mezza bottiglia?<br>È una delle mie migliori: e mezze bottiglie non ne ho.<br>[[motifs/well\|Bene]], speravo che bevessi un ultimo bicchiere con me. |  
+| [[characters/celia\|CELIA]] | A che cosa dovremmo brindare? |  
+| EDWARD | A chi brinderemo? |  
+| [[characters/celia\|CELIA]] | Ai Custodi. |  
+| EDWARD | Ai Custodi? |  
+| [[characters/celia\|CELIA]] | Ai Custodi. Sei stato tu a parlare di custodi. |  
+| *(didascalia)* | [Bevono] |  
+| [[characters/celia\|CELIA]] | Può darsi che perfino [[characters/julia\|Julia]] sia un custode.<br>Forse è lei il mio custode. Dammi gli occhiali.<br><br><br>Buona [[motifs/night\|notte]], Edward. |  
+| EDWARD | Buona [[motifs/night\|notte]]… [[characters/celia\|Celia]]. |  
+| *(didascalia)* | [Esce [[characters/celia\|CELIA]]] |  
+| EDWARD |                                                                      Oh! |  
+| *(didascalia)* | [Afferra il ricevitore] |  
+| EDWARD | Pronto, [[characters/julia\|Julia]]! sei lì?…<br>[[motifs/well\|Bene]], mi dispiace terribilmente d'averti fatta aspettare;<br>Ma noi… ho dovuto cercarli… No, li ho trovati.<br>… Sì, te li porta lei adesso… Buona [[motifs/night\|notte]].<br>SIPARIO |
+
+### Atto 1, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | La stessa stanza: tardo pomeriggio del giorno dopo. EDWARD solo. Va ad aprire la porta. |  
+| EDWARD | Oh… buonasera. |  
+| *(didascalia)* | [Entra l'OSPITE NON IDENTIFICATO] |  
+| OSPITE NON IDENTIFICATO | Buonasera, signor Chamberlayne. |  
+| EDWARD | [[motifs/well\|Bene]]. Posso offrirle del gin e [[motifs/water\|acqua]]? |  
+| OSPITE NON IDENTIFICATO | No, grazie. Questa è un'altra occasione. |  
+| EDWARD | Deduco che, essendo venuto solo,<br><br><br>Non abbia avuto successo. |  
+| OSPITE NON IDENTIFICATO | Niente affatto.<br><br><br>Sono venuto a ricordarle che lei ha preso una decisione. |  
+| EDWARD | Pensa forse che io possa aver cambiato idea? |  
+| OSPITE NON IDENTIFICATO | No. Non sarà pronto a cambiare idea<br><br><br>Finché non si sarà rimesso dall'aver preso una decisione.<br>No. Sono venuto a dirle che cambierà idea,<br>Ma che non avrà importanza. Sarà troppo tardi. |  
+| EDWARD | Ho quasi voglia di cambiare idea adesso<br><br><br>Per mostrarle che sono libero di cambiarla. |  
+| OSPITE NON IDENTIFICATO | Cambierà idea, ma non è libero.<br><br><br>Il suo momento di [[concepts/freedom\|libertà]] è stato ieri.<br>Lei ha preso una decisione. Ha messo in moto<br>Forze nella sua vita e nella vita d'altri<br>Che non si possono invertire. Questa è una considerazione.<br>E un'altra è questa: è cosa grave<br>Richiamare qualcuno dai morti. |  
+| EDWARD | Dai morti?<br><br><br>Quella figura retorica è alquanto… drammatica,<br>Dato che è stato solo ieri che mia moglie mi ha lasciato. |  
+| OSPITE NON IDENTIFICATO | Ah, ma noi moriamo l'uno all'altro ogni giorno.<br><br><br>Ciò che sappiamo delle altre persone<br>È soltanto il nostro [[motifs/memory\|ricordo]] dei momenti<br>Durante i quali le conoscemmo. E da allora sono cambiate.<br><br><br>Fingere che esse e noi siamo gli stessi<br>È una convenzione sociale utile e comoda<br>Che a volte va infranta. Dobbiamo anche ricordare<br>Che a ogni incontro incontriamo uno straniero. |  
+| EDWARD | Dunque vuole che accolga mia moglie come una straniera?<br><br><br>Non sarà facile. |  
+| OSPITE NON IDENTIFICATO | È molto difficile.<br><br><br>Ma è forse ancora più difficile<br>Mantenere la finzione di non essere stranieri.<br>Gli affettuosi [[motifs/ghosts\|fantasmi]]: la nonna,<br>Il vivace zio scapolo alla festa di Natale,<br>La bambinaia adorata — coloro che avvolsero<br>I suoi anni d'[[motifs/childhood\|infanzia]] in conforto, allegria, sicurezza —<br>Se tornassero, non sarebbe imbarazzante?<br>Che cosa direbbe loro, o loro a lei<br>Dopo i primi dieci minuti? Le riuscirebbe difficile<br>Trattarli da stranieri, ma ancora più difficile<br>Fingere di non essere stranieri l'uno all'altro. |  
+| EDWARD | Non può certo aspettarsi che io cancelli<br><br><br>Gli ultimi cinque anni. |  
+| OSPITE NON IDENTIFICATO | Non le chiedo di dimenticare nulla.<br><br><br>Cercare di dimenticare è cercare di nascondere. |  
+| EDWARD | Ci sono certamente cose che vorrei dimenticare. |  
+| OSPITE NON IDENTIFICATO | E anche persone. Ma non deve dimenticarle.<br><br><br>Deve affrontarle tutte, ma incontrarle da stranieri. |  
+| EDWARD | Allora anch'io dovrò essere uno straniero. |  
+| OSPITE NON IDENTIFICATO | E [[motifs/well\|altrettanto]] a se stesso. Ma ricordi,<br><br><br>Quando vedrà sua moglie, non dovrà fare domande<br>Né dare spiegazioni. Lo stesso ho detto a lei.<br>Non strangolatevi a vicenda con ricordi annodati.<br>Ora me ne vado. |  
+| EDWARD | Si fermi! Tornerà con lei? |  
+| OSPITE NON IDENTIFICATO | No, non verrò con lei. |  
+| EDWARD | Non so perché,<br><br><br>Ma credo che mi piacerebbe che fosse lei a portarla. |  
+| OSPITE NON IDENTIFICATO | Sì, lo so. E per ragioni precise<br>Che non sono disposto a spiegarle<br>Devo chiederle di non parlare di me con lei;<br>E lei non le farà parola di me. |  
+| EDWARD | Lo prometto. |  
+| OSPITE NON IDENTIFICATO | E ora deve attendere i suoi visitatori. |  
+| EDWARD | Visitatori? Quali visitatori? |  
+| OSPITE NON IDENTIFICATO | Chiunque venga. Gli stranieri.<br><br><br>Quanto a me, prenderò la precauzione<br>D'uscire dalla scala di servizio. |  
+| EDWARD | Posso farle una domanda? |  
+| OSPITE NON IDENTIFICATO | Può farla. |  
+| EDWARD | Chi è lei? |  
+| OSPITE NON IDENTIFICATO | Anch'io sono uno straniero. |  
+| *(didascalia)* | [Esce. Una pausa. EDWARD si muove inquieto per la stanza. Suona il campanello, e lui va alla porta d'ingresso.] |  
+| EDWARD | [[characters/celia\|Celia]]! |  
+| [[characters/celia\|CELIA]] | È arrivata [[characters/lavinia\|Lavinia]]? |  
+| EDWARD | [[characters/celia\|Celia]]! Perché sei venuta?<br><br><br>Aspetto [[characters/lavinia\|Lavinia]] da un momento all'altro.<br>Non devi essere qui. Perché sei venuta qui? |  
+| [[characters/celia\|CELIA]] | Perché me l'ha chiesto [[characters/lavinia\|Lavinia]]. |  
+| EDWARD | Perché te l'ha chiesto [[characters/lavinia\|Lavinia]]! |  
+| [[characters/celia\|CELIA]] | [[motifs/well\|Beh]], non direttamente. [[characters/julia\|Julia]] ha ricevuto un telegramma<br><br><br>Che le chiedeva di venire, e di portare me con sé.<br>[[characters/julia\|Julia]] si è attardata, e mi ha mandata avanti. |  
+| EDWARD | Sembra stranissimo. E non da [[characters/lavinia\|Lavinia]].<br><br><br>Immagino non ci sia altro da fare che aspettare.<br>Non ti siedi? |  
+| [[characters/celia\|CELIA]] | Grazie. |  
+| *(didascalia)* | [Pausa] |  
+| EDWARD | Oh, mio Dio, di che cosa parleremo?<br><br><br>Non possiamo restare qui in [[motifs/silence\|silenzio]]. |  
+| [[characters/celia\|CELIA]] | Oh, io sì.<br><br><br>Solo a guardarti. Edward, perdona la mia risata.<br>Hai l'aria d'un ragazzino mandato a chiamare<br>Nello studio del preside; e non del tutto sicuro<br>Di che cosa l'abbiano scoperto. Non ti avevo mai visto così.<br>È davvero una situazione ridicola. |  
+| EDWARD | Temo di non vederne il lato comico. |  
+| [[characters/celia\|CELIA]] | Non sto ridendo di te davvero, Edward.<br>Ieri non avrei potuto ridere di nulla;<br>Ma in ventiquattr'ore ho imparato molto.<br>Non è stata un'esperienza molto piacevole.<br>Oh, sono contenta d'essere venuta!<br>Finalmente riesco a vederti come un essere umano.<br>Non puoi vedere anche me così, e riderne? |  
+| EDWARD | Vorrei poterlo fare. Vorrei capire qualcosa.<br><br><br>Sono completamente al buio. |  
+| [[characters/celia\|CELIA]] | Ma è tutto così semplice.<br><br><br>Non vedi che… |  
+| *(didascalia)* | [Suona il campanello] |  
+| EDWARD | Ecco [[characters/lavinia\|Lavinia]]. |  
+| *(didascalia)* | [Va alla porta d'ingresso] |  
+| EDWARD |                                                             Peter! |  
+| *(didascalia)* | [Entra PETER] |  
+| PETER | Dov'è [[characters/lavinia\|Lavinia]]? |  
+| EDWARD | Non dirmi che [[characters/lavinia\|Lavinia]]<br><br><br>Ti ha mandato un telegramma… |  
+| PETER | No, non a me,<br><br><br>Ma ad Alex. Gli ha detto di venire qui<br>E di portarmi con sé. Sarà qui fra un minuto.<br>[[characters/celia\|Celia]]! Hai avuto notizie anche tu da [[characters/lavinia\|Lavinia]]?<br>O sto interrompendo? |  
+| [[characters/celia\|CELIA]] | L'ho appena spiegato a Edward —<br><br><br>Anch'io sono arrivata in questo momento —<br>Che ha telegrafato a [[characters/julia\|Julia]] di venire e di portarmi con sé. |  
+| EDWARD | Mi [[concepts/wonder\|domando]] chi altro [[characters/lavinia\|Lavinia]] abbia invitato. |  
+| PETER | Ma io ho avuto l'impressione che [[characters/lavinia\|Lavinia]] intendesse<br><br><br>Rifare oggi il cocktail party di ieri.<br>Perciò non credo che sua zia possa essere morta. |  
+| EDWARD | Quale zia? |  
+| PETER | La zia di cui ci hai parlato.<br><br><br>Ma Edward — ricordi la nostra conversazione di ieri? |  
+| EDWARD | Certamente. |  
+| PETER | [[concepts/hope\|Spero]] che tu non abbia fatto nulla in proposito. |  
+| EDWARD | No, non ho fatto nulla. |  
+| PETER | Ne sono contentissimo.<br><br><br>Perché ho cambiato idea. Voglio dire, ho deciso<br>Che è tutto inutile. Vado in California. |  
+| [[characters/celia\|CELIA]] | Vai in California! |  
+| PETER | Sì, ho un nuovo lavoro. |  
+| EDWARD | E com'è successo, in una notte? |  
+| PETER | Ma è un tale con cui Alex mi ha messo in contatto<br><br><br>E stamattina abbiamo definito tutto.<br>Alex è una persona meravigliosa da conoscere,<br>Perché, vedi, conosce tutti, dappertutto.<br>Perciò in realtà sono venuto per dirvi addio. |  
+| [[characters/celia\|CELIA]] | [[motifs/well\|Bene]], Peter, ne sono terribilmente contenta, per te,<br><br><br>Anche se naturalmente noi… io sentirò la tua mancanza;<br>Sai quanto contassi su di te per i concerti,<br>E le mostre di pittura — più di quanto immaginassi.<br>È stato bello, no? Ma ora avrai l'occasione,<br><br><br>[[concepts/hope\|Spero]], di realizzare le tue ambizioni.<br>Mi mancherai. |  
+| PETER | È gentile da parte tua dirlo;<br><br><br>Ma troverai qualcuno di meglio con cui andare in giro. |  
+| [[characters/celia\|CELIA]] | Non credo che andrò più ai concerti.<br><br><br>Vado via anch'io. |  
+| *(didascalia)* | [[[characters/lavinia\|LAVINIA]] entra da sé con la chiave] |  
+| PETER | Vai all'estero? |  
+| [[characters/celia\|CELIA]] | Non lo so. Forse. |  
+| EDWARD | Ve ne andate tutti e due! |  
+| *(didascalia)* | [Entra [[characters/lavinia\|LAVINIA]]] |  
+| [[characters/lavinia\|LAVINIA]] | Chi se ne va? [[motifs/well\|Toh]], [[characters/celia\|Celia]]. [[motifs/well\|Toh]], Peter.<br><br><br>Non mi aspettavo di trovare nessuno di voi due qui.<br>PETER e [[characters/celia\|CELIA]]. Ma il telegramma! |  
+| [[characters/lavinia\|LAVINIA]] | Quale telegramma? |  
+| [[characters/celia\|CELIA]] | Quello che hai mandato a [[characters/julia\|Julia]]. |  
+| PETER | E quello che hai mandato ad Alex. |  
+| [[characters/lavinia\|LAVINIA]] | Non so di che cosa parliate.<br><br><br>Edward, hai mandato tu dei telegrammi? |  
+| EDWARD | Certo che non ho mandato nessun telegramma. |  
+| [[characters/lavinia\|LAVINIA]] | Questa è una delle birichinate di [[characters/julia\|Julia]].<br><br><br>E lei viene? |  
+| PETER | Sì, e Alex. |  
+| [[characters/lavinia\|LAVINIA]] | Allora chiederò a loro una spiegazione.<br><br><br>Intanto, immagino che [[motifs/well\|tanto]] valga sederci.<br>Di che cosa parliamo? |  
+| EDWARD | Peter va in [[settings/america\|America]]. |  
+| PETER | Sì, e ti avrei telefonato domani<br>E sarei passato a salutarti prima di partire. |  
+| [[characters/lavinia\|LAVINIA]] | E va via anche [[characters/celia\|Celia]]? È questo che ho sentito?<br><br><br>Mi congratulo con tutti e due. A Hollywood, naturalmente?<br>Che emozione per te, [[characters/celia\|Celia]]! Ora avrai l'occasione,<br>Finalmente, di realizzare le tue ambizioni.<br>Andate insieme? |  
+| PETER | Non andiamo insieme.<br><br><br>[[characters/celia\|Celia]] ci ha detto che andava via,<br>Ma non so dove. |  
+| [[characters/lavinia\|LAVINIA]] | Non sai dove?<br><br><br>E sai dove vai tu, almeno? |  
+| PETER | Sì, certo, vado in California. |  
+| [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Bene]], [[characters/celia\|Celia]], perché non vai in California?<br><br><br>Tutti dicono che il clima è meraviglioso:<br>Chi ci va non vuole più andarsene. |  
+| [[characters/celia\|CELIA]] | [[characters/lavinia\|Lavinia]], credo di capire riguardo a Peter… |  
+| [[characters/lavinia\|LAVINIA]] | Non ne ho alcun [[concepts/doubt\|dubbio]]. |  
+| [[characters/celia\|CELIA]] | E perché se ne va… |  
+| [[characters/lavinia\|LAVINIA]] | Non ne [[concepts/doubt\|dubito]] nemmeno. |  
+| [[characters/celia\|CELIA]] | E credo che faccia bene ad andare. |  
+| [[characters/lavinia\|LAVINIA]] | Oh, dunque glielo hai consigliato tu? |  
+| PETER | Lei non ne sapeva nulla. |  
+| [[characters/celia\|CELIA]] | Ma ora che forse me ne vado — chissà dove —<br><br><br>Vorrei dirti addio — da amiche. |  
+| [[characters/lavinia\|LAVINIA]] | Ma via, [[characters/celia\|Celia]], non siamo sempre state amiche?<br><br><br>Ti credevo una delle mie amiche più care —<br>Almeno, nella misura in cui una ragazza può essere amica<br><br><br>D'una donna tanto più vecchia di lei. |  
+| [[characters/celia\|CELIA]] | [[characters/lavinia\|Lavinia]],<br><br><br>Non liquidarmi così. Forse non ti rivedrò più.<br>Quello che voglio dire è questo: vorrei che mi ricordassi<br>Come qualcuno che desidera che tu ed Edward siate felici. |  
+| [[characters/lavinia\|LAVINIA]] | Sei molto gentile, ma molto misteriosa.<br><br><br>Sono certa che ce la caveremo in qualche modo, grazie,<br>Come abbiamo fatto in passato. |  
+| [[characters/celia\|CELIA]] | Oh, non come in passato! |  
+| *(didascalia)* | [Suona il campanello, ed EDWARD va ad aprire] |  
+| [[characters/celia\|CELIA]] | Oh, temo che tutto questo suoni piuttosto sciocco!<br>Ma… |  
+| *(didascalia)* | [EDWARD rientra con [[characters/julia\|JULIA]]] |  
+| [[characters/julia\|JULIA]] | Eccoti qua, [[characters/lavinia\|Lavinia]]! Scusa il ritardo.<br><br><br>Ma il tuo telegramma è stato un po' inatteso.<br>Ho lasciato tutto per venire. E come sta la cara zia? |  
+| [[characters/lavinia\|LAVINIA]] | Per quanto ne so, sta benissimo, grazie [[motifs/well\|tante]]. |  
+| [[characters/julia\|JULIA]] | Dev'essersi ripresa in modo meraviglioso.<br><br><br>Me lo sono detta quando ho ricevuto il tuo telegramma. |  
+| [[characters/lavinia\|LAVINIA]] | Ma da dove, se posso chiedere, è stato spedito questo telegramma? |  
+| [[characters/julia\|JULIA]] | Ma dall'Essex, naturalmente. |  
+| [[characters/lavinia\|LAVINIA]] | E perché dall'Essex? |  
+| [[characters/julia\|JULIA]] | Perché sei stata nell'Essex. |  
+| [[characters/lavinia\|LAVINIA]] | Perché sono stata nell'Essex! |  
+| [[characters/julia\|JULIA]] | [[characters/lavinia\|Lavinia]]! Non dirmi che hai avuto un vuoto di [[motifs/memory\|memoria]]!<br><br><br>Allora questo spiega la zia — e il telegramma. |  
+| [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Bene]], forse ero nell'Essex. Davvero non lo so. |  
+| [[characters/julia\|JULIA]] | Non sai dov'eri? [[characters/lavinia\|Lavinia]]!<br><br><br>Non dirmi che sei stata rapita! Raccontaci<br>Sono elettrizzata… |  
+| *(didascalia)* | [Suona il campanello. EDWARD va ad aprire. Entra ALEX] |  
+| ALEX | È arrivata [[characters/lavinia\|Lavinia]]? |  
+| EDWARD | Sì. |  
+| ALEX | Bentornata, [[characters/lavinia\|Lavinia]]!<br><br><br>Quando ho ricevuto il tuo telegramma… |  
+| [[characters/lavinia\|LAVINIA]] | Da dove? |  
+| ALEX | Dedham. |  
+| [[characters/lavinia\|LAVINIA]] | Dedham è nell'Essex. Dunque veniva da Dedham.<br><br><br>Edward, hai amici a Dedham? |  
+| EDWARD | No, non ho conoscenze a Dedham. |  
+| [[characters/julia\|JULIA]] | [[motifs/well\|Bene]], è tutto deliziosamente misterioso. |  
+| ALEX | Ma qual è il mistero? |  
+| [[characters/julia\|JULIA]] | Alex, non essere curioso.<br><br><br>[[characters/lavinia\|Lavinia]] ha avuto un vuoto di [[motifs/memory\|memoria]],<br>E così, naturalmente, ci ha mandato dei telegrammi:<br>E ora non credo che ci voglia davvero.<br>Vedo bene che è tutta sfinita<br>Dopo l'ansia per la zia —<br>Che, sarai contento di sapere, si è del tutto ristabilita, Alex —<br>E dopo quel lungo [[motifs/journey\|viaggio]] sulla vecchia Great Eastern,<br>Ad aspettare agli scambi. E immagino sia affamata. |  
+| ALEX | Ah, in tal caso so che cosa farò… |  
+| [[characters/julia\|JULIA]] | No, Alex.<br>Dobbiamo lasciarli soli, e far riposare [[characters/lavinia\|Lavinia]].<br>Ora torniamo tutti a casa mia. Peter, chiama un taxi. |  
+| *(didascalia)* | [Esce PETER] |  
+| [[characters/julia\|JULIA]] | Faremo un cocktail party a casa mia oggi. |  
+| [[characters/celia\|CELIA]] | [[motifs/well\|Bene]], io vado. Arrivederci, [[characters/lavinia\|Lavinia]].<br><br><br>Arrivederci, Edward. |  
+| EDWARD | Arrivederci, [[characters/celia\|Celia]]. |  
+| [[characters/celia\|CELIA]] | Arrivederci, [[characters/lavinia\|Lavinia]]. |  
+| [[characters/lavinia\|LAVINIA]] | Arrivederci, [[characters/celia\|Celia]]. |  
+| *(didascalia)* | [Esce [[characters/celia\|CELIA]]] |  
+| [[characters/julia\|JULIA]] | E ora, Alex, io e te dovremmo andare. |  
+| EDWARD | Sei sicura di non aver lasciato nulla, [[characters/julia\|Julia]]? |  
+| [[characters/julia\|JULIA]] | Lasciato nulla? Oh, vuoi dire i miei occhiali.<br><br><br>No, sono qui. E poi non mi servono.<br>Stasera non torno più. |  
+| [[characters/lavinia\|LAVINIA]] | Ferma! Voglio che tu mi spieghi il telegramma. |  
+| [[characters/julia\|JULIA]] | Spiegare il telegramma? Che ne dici, Alex? |  
+| ALEX | No, [[characters/julia\|Julia]], il telegramma non lo possiamo spiegare. |  
+| [[characters/lavinia\|LAVINIA]] | Sono certa che potresti spiegare il telegramma.<br><br><br>Non so perché. Ma mi pare che ieri<br>Io abbia avviato una [[motifs/machine\|macchina]], che continua a funzionare,<br>E non riesco a fermarla; no, non è come una [[motifs/machine\|macchina]] —<br>O se è una [[motifs/machine\|macchina]], è un altro a farla andare.<br>Ma chi? Qualcuno interferisce sempre…<br>Non mi sento libera… eppure sono stata io ad avviarla… |  
+| [[characters/julia\|JULIA]] | Alex, credi che potremmo spiegare qualcosa? |  
+| ALEX | Credo di no, [[characters/julia\|Julia]]. Deve scoprirlo da sé:<br><br><br>È l'unico modo. |  
+| [[characters/julia\|JULIA]] | Come hai ragione!<br><br><br>[[motifs/well\|Bene]], cari miei, ci vedremo prestissimo. |  
+| EDWARD | Quando ti vedremo? |  
+| [[characters/julia\|JULIA]] | Ho detto che mi vedrete?<br><br><br>Arrivederci. Credo… di non aver lasciato nulla. |  
+| *(didascalia)* | [Entra PETER] |  
+| PETER | Ho trovato un taxi, [[characters/julia\|Julia]]. |  
+| [[characters/julia\|JULIA]] | Splendido! Arrivederci! |  
+| *(didascalia)* | [Escono [[characters/julia\|JULIA]], ALEX e PETER] |  
+| [[characters/lavinia\|LAVINIA]] | Devo dire che non sembri molto contento di vedermi. |  
+| EDWARD | Non posso dire d'aver avuto molte occasioni<br><br><br>Di sembrare alcunché. Ma naturalmente sono contento di vederti. |  
+| [[characters/lavinia\|LAVINIA]] | Sì, è stata una cosa sciocca da dire.<br><br><br>Da collegiale. Come [[characters/celia\|Celia]]. Non so perché l'ho detto.<br>[[motifs/well\|Bene]], eccomi qua. |  
+| EDWARD | Non devo fare domande. |  
+| [[characters/lavinia\|LAVINIA]] | E so che non devo dare spiegazioni. |  
+| EDWARD | E io non devo dare spiegazioni. |  
+| [[characters/lavinia\|LAVINIA]] | E io non devo fare domande. Eppure… perché no? |  
+| EDWARD | Non so perché no. E allora di che cosa parliamo? |  
+| [[characters/lavinia\|LAVINIA]] | C'è una cosa che devo sapere, a causa degli altri<br><br><br>E di come regolarmi con loro. Riguarda quella festa.<br>Immagino non crederai che me n'ero completamente dimenticata!<br>Ti ho lasciato in un bell'impiccio. Che cosa hai fatto?<br>Me ne sono ricordata solo dopo essere partita. |  
+| EDWARD | Ho telefonato a tutti quelli che sapevo dovessero venire<br><br><br>Ma non ho raggiunto tutti. E così alcuni sono venuti. |  
+| [[characters/lavinia\|LAVINIA]] | Chi è venuto? |  
+| EDWARD | Proprio quelli che erano qui stasera… |  
+| [[characters/lavinia\|LAVINIA]] | Curioso. |  
+| EDWARD | …e un altro. Non so chi fosse,<br><br><br>Ma tu dovresti saperlo. |  
+| [[characters/lavinia\|LAVINIA]] | Sì, credo di saperlo.<br><br><br>Ma [[characters/julia\|Julia]] mi lascia perplessa. Quella donna è il diavolo.<br>Sa per istinto quando sta per accadere qualcosa.<br>Fidati che non si perde una sola situazione imbarazzante!<br>E che cosa hai raccontato loro? |  
+| EDWARD | Ho inventato una zia<br><br><br>Che stava male in campagna, e ti aveva mandata a chiamare. |  
+| [[characters/lavinia\|LAVINIA]] | Davvero, Edward! Avresti fatto meglio a dire la [[concepts/truth\|verità]]:<br><br><br>Nulla meno della [[concepts/truth\|verità]] avrebbe potuto ingannare [[characters/julia\|Julia]].<br>Ma come mai la zia è venuta ad abitare nell'Essex? |  
+| EDWARD | [[characters/julia\|Julia]] mi ha costretto a farla abitare da qualche parte. |  
+| [[characters/lavinia\|LAVINIA]] | Capisco. Dunque [[characters/julia\|Julia]] l'ha fatta abitare nell'Essex;<br><br><br>E ha fatto arrivare i telegrammi dall'Essex.<br>[[motifs/well\|Bene]], dovrò dire a [[characters/julia\|Julia]] la [[concepts/truth\|verità]].<br>D'ora in poi dirò sempre la [[concepts/truth\|verità]].<br>Abbiamo sprecato tanto [[motifs/time\|tempo]] a mentire. |  
+| EDWARD | Non capisco bene che cosa tu intenda. |  
+| [[characters/lavinia\|LAVINIA]] | Oh, Edward!<br><br><br>Il punto è che, da quando sono stata via,<br>Vedo d'averti preso troppo sul serio.<br>E ora vedo quanto sei assurdo. |  
+| EDWARD | È una conclusione molto seria<br><br><br>A cui essere giunta in… quante? … trentadue ore. |  
+| [[characters/lavinia\|LAVINIA]] | Sì, una scoperta importantissima,<br><br><br>Scoprire d'aver passato cinque anni della tua vita<br>Con un uomo privo del senso dell'umorismo;<br>E che l'effetto su di me è stato<br>Che ho perso ogni senso dell'umorismo io stessa.<br>Ecco che cosa è venuto dal cederti sempre. |  
+| EDWARD | Non sapevo che tu mi avessi sempre ceduto.<br><br><br>A me è parso ben diverso. Già che siamo in argomento,<br>Credevo che fossi io ad aver ceduto a te. |  
+| [[characters/lavinia\|LAVINIA]] | So che cosa intendi per cederti:<br><br><br>Intendi lasciare a me tutte le decisioni pratiche<br>Che avresti dovuto prendere tu. Ricordo —<br>Oh, avrei dovuto capire quel che si preparava —<br>Quando progettavamo il viaggio di nozze,<br>Non riuscivo a farti dire dove volessi andare… |  
+| EDWARD | Ma volevo che fossi tu a prendere quella decisione. |  
+| [[characters/lavinia\|LAVINIA]] | Ma come potevo dire dove volevo andare<br><br><br>Se prima non proponevi tu qualche altro luogo?<br>E ricordo che alla fine, per disperazione,<br>Dissi: «Immagino che per te sia lo stesso andare a Peacehaven» —<br>E tu dicesti: «Per me va bene». |  
+| EDWARD | Certo che andava bene.<br><br><br>Lo intendevo come un complimento. |  
+| [[characters/lavinia\|LAVINIA]] | Lo intendevi come un complimento!<br><br><br>Ed eri così pieno di riguardi, dicevano;<br>E credevi d'essere altruista. Era soltanto passività;<br>Volevi soltanto essere sorretto, incoraggiato…. |  
+| EDWARD | Incoraggiato? A che cosa? |  
+| [[characters/lavinia\|LAVINIA]] | A pensare [[motifs/well\|bene]] di te stesso.<br><br><br>Sai che fui io a farti lavorare al foro… |  
+| EDWARD | Mi assillavi perché non avevo abbastanza lavoro<br><br><br>E dicevi che dovevo conoscere più gente:<br>Ma quando le cause cominciarono ad arrivare —<br>E non arrivavano attraverso nessuno dei tuoi amici —<br><br><br>D'un tratto trovasti scomodo<br>Che fossi sempre troppo occupato o troppo stanco<br>Per esserti utile in società… |  
+| [[characters/lavinia\|LAVINIA]] | Non mi sono mai lamentata. |  
+| EDWARD | No; ed era perfettamente esasperante,<br><br><br>Il modo in cui non ti lamentavi… |  
+| [[characters/lavinia\|LAVINIA]] | Eri tu a lamentarti<br><br><br>Di non vedere che procuratori e clienti… |  
+| EDWARD | E tu non sei mai stata molto comprensiva. |  
+| [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Beh]], ma qualcosa ho cercato di fare.<br><br><br>Fu per questo che mi presi tanta pena<br>D'organizzare quei giovedì, per darti la possibilità<br>Di parlare con gente intellettuale… |  
+| EDWARD | Mi avresti dato all'incirca la stessa occasione<br><br><br>Se mi avessi assunto come maggiordomo:<br>Qualcuno dei tuoi ospiti mi avrà creduto il maggiordomo. |  
+| [[characters/lavinia\|LAVINIA]] | E in parecchie occasioni, quando doveva venire qualcuno<br><br><br>Che tenevo particolarmente a farti conoscere,<br>Arrivavi soltanto quando quello se ne stava andando. |  
+| EDWARD | [[motifs/well\|Bene]], almeno non possono avermi creduto il maggiordomo. |  
+| [[characters/lavinia\|LAVINIA]] | Tutto ciò che tentavo non faceva che peggiorare le cose,<br><br><br>E nel momento in cui ti si offriva ciò che volevi<br>Ne volevi un altro. Ti tratterò in modo molto diverso<br>D'ora in avanti. |  
+| EDWARD | Grazie dell'avvertimento. Ma dimmi,<br><br><br>Se è così che mi vedi, perché sei tornata? |  
+| [[characters/lavinia\|LAVINIA]] | Francamente, non lo so. Ero stata avvertita del pericolo,<br><br><br>Eppure qualcosa, o qualcuno, mi ha costretta a venire.<br>E tu perché mi volevi? |  
+| EDWARD | Non lo so neppure io.<br><br><br>Dici che cercavi d'«incoraggiarmi»:<br>E allora perché mi facevi sempre sentire insignificante?<br>Può darsi che non sapessi quale vita volessi,<br>Ma non era la vita che tu avevi scelto per me.<br>Volevi che tuo marito avesse successo,<br>Volevi che io fornissi uno sfondo pubblico<br>Alla tua vita pubblica. Volevi essere una padrona di casa<br>Per la quale la mia carriera fosse un sostegno.<br>[[motifs/well\|Bene]], ho cercato d'essere accomodante. Ma, in futuro,<br>Mi comporterò, te l'assicuro, in modo molto diverso. |  
+| [[characters/lavinia\|LAVINIA]] | Bravo! Edward. Questo sorprende.<br><br><br>Ora, chi può averti insegnato a ribattere così? |  
+| EDWARD | Ho avuto abbastanza umiliazioni<br>Ultimamente, da giungere al punto<br>In cui l'umiliazione cessa di umiliare.<br>Si arriva al punto in cui si cessa di sentire<br>E allora si dice quel che si pensa. |  
+| [[characters/lavinia\|LAVINIA]] | Sarà una novità<br><br><br>Scoprire che hai un pensiero da dire.<br>Comunque sia, sono disposta a prenderti come sei. |  
+| EDWARD | Vuoi dire che sei disposta a prendermi<br><br><br>Come ero, o come credi che io sia.<br>Ma che cosa credi che io sia? |  
+| [[characters/lavinia\|LAVINIA]] | Oh, quello che sei sempre stato.<br><br><br>Quanto a me, sono una persona piuttosto diversa<br>Che tu devi imparare a conoscere. |  
+| EDWARD | Molto interessante:<br><br><br>Ma sembri dare per scontato d'essere tu la sola a cambiare —<br>Anche se finora non l'ho trovato un cambiamento in meglio.<br>Ma non ti viene in mente che forse<br>Anch'io possa essere cambiato? |  
+| [[characters/lavinia\|LAVINIA]] | Oh, Edward, quando eri bambino,<br><br><br>Sono certa che ti facevi sempre misurare<br>Per dimostrare quanto eri cresciuto dalle vacanze precedenti.<br>Sei sempre stato intensamente occupato di te stesso;<br>E se gli altri crescono, [[motifs/well\|beh]], vuoi crescere anche tu.<br>In che modo saresti cambiato? |  
+| EDWARD | Il cambiamento che viene<br><br><br>Dal vedersi con gli occhi degli altri. |  
+| [[characters/lavinia\|LAVINIA]] | Dev'essere stato sconvolgente per te.<br><br><br>Ma non importa, presto ti passerà<br>E ti troverai un'altra piccola parte da recitare,<br>Con un'altra faccia, per ingannare la gente. |  
+| EDWARD | Una delle cose più esasperanti di te<br><br><br>È sempre stata la tua perfetta sicurezza<br>Di capirmi meglio di quanto io capissi me stesso. |  
+| [[characters/lavinia\|LAVINIA]] | E la cosa più esasperante di te<br><br><br>È sempre stata la tua placida convinzione<br>Che non valessi la pena d'essere capita. |  
+| EDWARD | Eccoci dunque daccapo. Di nuovo nella trappola,<br><br><br>Con una sola differenza, forse — possiamo azzuffarci,<br><br><br>Invece di starcene ciascuno nel proprio angolo della gabbia.<br>[[motifs/well\|Beh]], è un modo migliore di passare la serata<br>Che ascoltare il grammofono. |  
+| [[characters/lavinia\|LAVINIA]] | Abbiamo ottimi dischi;<br><br><br>Ma ho sempre sospettato che tu detestassi davvero la musica<br>E che il grammofono fosse soltanto la tua via di fuga<br>Dal parlare con me quando dovevamo restare soli. |  
+| EDWARD | Mi sono spesso chiesto perché mi hai sposato. |  
+| [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Beh]], eri davvero piuttosto attraente, sai;<br><br><br>E continuavi a dire che provavi [[motifs/love\|amore]] per me —<br><br><br>Credo che cercassi di persuaderti che era vero.<br>Mi pareva d'essere sempre sul punto d'una qualche esperienza meravigliosa<br>E poi non accadeva mai. Ora mi [[concepts/wonder\|domando]]<br>Come tu abbia potuto credere di provare [[motifs/love\|amore]] per me. |  
+| EDWARD | Tutti mi dicevano che era così;<br><br><br>E mi dicevano quanto [[motifs/well\|bene]] fossimo assortiti. |  
+| [[characters/lavinia\|LAVINIA]] | Peccato che tu non avessi un'opinione tua.<br><br><br>Oh, Edward, vorrei essere buona con te —<br>O se questo è impossibile, almeno essere odiosa con te —<br>Qualunque cosa fuorché nulla, che è tutto ciò che sembri volere da me.<br>Ma mi fai pena… |  
+| EDWARD | Non dire che ti faccio pena!<br><br><br>Ne ho abbastanza di gente cui faccio pena. |  
+| [[characters/lavinia\|LAVINIA]] | Sì, perché non potranno mai farti tanta pena<br><br><br>Quanta te ne fai tu stesso. Ed è duro da sopportare.<br>Pensavo che potesse esserci una via d'uscita per te<br>Se me ne fossi andata. Pensavo che se io fossi morta<br>Per te, io che per te ero stata soltanto un [[archetypes/ghost\|fantasma]],<br>Tu avresti potuto ritrovare la [[motifs/road\|strada]] del ritorno<br>A un [[motifs/time\|tempo]] in cui eri reale — perché devi essere stato reale<br>In un [[motifs/time\|tempo]] o nell'altro, prima ancora di conoscermi:<br>Forse soltanto quando eri [[archetypes/child\|bambino]]. |  
+| EDWARD | Non voglio che tu ti renda responsabile di me:<br><br><br>È soltanto un'altra forma di disprezzo.<br>E non voglio che tu mi spieghi a me stesso.<br>Stai ancora cercando d'inventarmi una personalità<br>Che non farà che tenermi lontano da me stesso. |  
+| [[characters/lavinia\|LAVINIA]] | Stai complicando ciò che in realtà è semplicissimo.<br><br><br>Ma c'è un punto che vedo chiaramente:<br>Non dobbiamo ricadere nel genere di vita che conducevamo<br>Fino a ieri mattina. |  
+| EDWARD | C'era una porta<br><br><br>E non riuscivo ad aprirla. Non riuscivo a toccare la maniglia.<br>Perché non potevo uscire dalla mia [[motifs/prison\|prigione]]?<br>Che cos'è l'inferno? L'inferno è se stessi,<br>L'inferno è solitudine, le altre figure che vi stanno<br>Semplici proiezioni. Non c'è nulla da cui fuggire<br>E nulla verso cui fuggire. Si è sempre soli. |  
+| [[characters/lavinia\|LAVINIA]] | Edward, di che cosa stai parlando?<br><br><br>Parli a te stesso. Potresti, per un momento,<br>Pensare a me? |  
+| EDWARD | È stato soltanto ieri<br><br><br>Che è avvenuta la dannazione. E ora devo conviverci<br>Giorno per giorno, ora per ora, nei secoli dei secoli. |  
+| [[characters/lavinia\|LAVINIA]] | Credo che tu sia sull'orlo d'un esaurimento nervoso! |  
+| EDWARD | Non dirlo! |  
+| [[characters/lavinia\|LAVINIA]] | Devo dirlo.<br><br><br>Conosco… un dottore che credo potrebbe aiutarti. |  
+| EDWARD | Se andrò da un dottore, lo sceglierò io;<br><br><br>Non ne prenderò uno scelto da te. Come faccio a sapere<br>Che non lo vedresti prima tu, per raccontargli tutto di me<br>Dal tuo punto di vista? Ma non ho bisogno d'un dottore.<br><br><br>Sono semplicemente all'inferno. Dove non ci sono dottori —<br>O almeno, non in veste professionale. |  
+| [[characters/lavinia\|LAVINIA]] | Si può essere pratici anche all'inferno:<br><br><br>E sai che io sono molto più pratica di te. |  
+| EDWARD | Ormai dovrei sapere che cosa consideri pratico.<br><br><br>Pratica! Ricordo che, in viaggio di nozze,<br>Avvolgevi sempre tutto nella carta velina<br>E poi dovevi scartare tutto daccapo<br>Per trovare quello che ti serviva. E non sono mai riuscito a insegnarti<br>Come si rimette il tappo su un tubetto di dentifricio. |  
+| [[characters/lavinia\|LAVINIA]] | Molto [[motifs/well\|bene]], allora, non cercherò d'insistere.<br><br><br>Sei troppo diviso per sapere che cosa vuoi.<br>Ma, essendo diviso, tenderai al compromesso,<br>E il tuo genere di compromesso sarà quello di sempre. |  
+| EDWARD | Non mi capisci. Non l'ho detto chiaramente<br><br><br>Che in futuro mi troverai una persona diversa? |  
+| [[characters/lavinia\|LAVINIA]] | Davvero. E la differenza non ha nulla a che fare<br><br><br>Con [[characters/celia\|Celia]] che parte per la California? |  
+| EDWARD | [[characters/celia\|Celia]]? Che parte per la California? |  
+| [[characters/lavinia\|LAVINIA]] | Sì, con Peter.<br><br><br>Davvero, Edward, se fossi umano<br>Scoppieresti a ridere. Ma non lo farai. |  
+| EDWARD | O Dio, o Dio, se potessi tornare a ieri<br><br><br>Prima di credere d'aver preso una decisione.<br>Quale demonio ha lasciato la porta socchiusa<br>Perché entrassero questi dubbi? E poi sei tornata tu,<br>L'angelo della distruzione — proprio come sentivo di certo.<br>In un attimo, al tuo tocco, non resta che rovina.<br>O Dio, che cosa ho fatto? Il pitone. La piovra.<br>Devo alla fine diventare ciò che tu vorresti farmi? |  
+| [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Bene]], Edward, poiché non riesco a farti ridere,<br><br><br>E poiché non riesco a convincerti a vedere un dottore,<br>Per ora non posso farci altro.<br>Dovrei andare a dare un'occhiata in cucina.<br>So che ci sono delle uova. Ma dobbiamo uscire a cena.<br>Intanto, il mio bagaglio è nell'ingresso al pianterreno:<br>Vuoi dire al portiere di portarmelo su?<br>SIPARIO |
+
+### Atto 2, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Lo studio di [[characters/sir-henry-harcourt-reilly\|SIR HENRY HARCOURT-REILLY]] a [[settings/london\|Londra]]. Mattino: diverse settimane dopo. SIR HENRY solo alla sua scrivania. Preme un pulsante elettrico. Entra l’[[characters/nurse\|INFERMIERA]]-SEGRETARIA, con l’agenda degli appuntamenti. |  
+| REILLY | Riguardo a quei tre appuntamenti di stamattina, signorina Barraway:<br><br><br>vorrei ripassare ancora una volta le mie istruzioni.<br>Capisce, naturalmente, che è importante<br>evitare qualsiasi incontro? |  
+| [[characters/nurse\|INFERMIERA]]-SEGRETARIA | L’ha detto chiaramente, Sir Henry:<br><br><br>il primo appuntamento alle undici in [[motifs/clock\|punto]].<br>Va fatto accomodare nella saletta d’attesa;<br>e lei lo riceverà quasi subito. |  
+| REILLY | Lo riceverò subito. E il secondo? |  
+| [[characters/nurse\|INFERMIERA]]-SEGRETARIA | La seconda va fatta accomodare nell’altra stanza<br><br><br>come al solito. Arriva alle undici e un quarto;<br>ma lei può farla attendere. |  
+| REILLY | O può darsi che sia lei a far attendere me;<br><br><br>ma credo che sarà puntuale. |  
+| [[characters/nurse\|INFERMIERA]]-SEGRETARIA | Le telefono<br><br><br>nell’istante in cui arriva. La lascio lì<br>finché lei non suona tre volte. |  
+| REILLY | E la terza paziente? |  
+| [[characters/nurse\|INFERMIERA]]-SEGRETARIA | La terza va fatta accomodare nella stanza piccola;<br><br><br>e non devo avvertirla che è arrivata.<br>Poi, quando lei suona, accompagno fuori gli altri;<br>e solo dopo che avranno lasciato la casa…. |  
+| REILLY | Esatto, signorina Barraway. Per ora è tutto. |  
+| [[characters/nurse\|INFERMIERA]]-SEGRETARIA | C’è il signor Gibbs, Sir Henry. |  
+| REILLY | Lo faccia entrare subito. |  
+| *(didascalia)* | [Esce l’[[characters/nurse\|INFERMIERA]]-SEGRETARIA] |  
+| *(didascalia)* | [ALEX entra quasi subito] |  
+| ALEX | Quando è l’appuntamento di Chamberlayne? |  
+| REILLY | Alle undici in [[motifs/clock\|punto]],<br><br><br>l’ora convenzionale. Non abbiamo molto [[motifs/time\|tempo]].<br>Dimmi ora, hai avuto qualche difficoltà<br>a convincerlo che ero io l’uomo per il suo caso? |  
+| ALEX | Difficoltà? No! Era solo impaziente<br><br><br>di dover aspettare quattro giorni per l’appuntamento. |  
+| REILLY | Era necessario rinviare il suo appuntamento<br><br><br>per abbassargli le resistenze. Ma quel che intendo è:<br>si fida del tuo giudizio? |  
+| ALEX | Sì, ciecamente.<br><br><br>Non che mi consideri molto intelligente,<br>ma pensa che io sia [[motifs/well\|bene]] informato: il tipo di persona<br>che conosce il medico giusto, [[motifs/well\|come]] i negozi giusti.<br><br><br>Del resto, era pronto a consultare qualunque medico<br>raccomandato da chiunque tranne che da sua moglie. |  
+| REILLY | Le avevo già fatto capire<br><br><br>che non doveva fargli il mio nome. |  
+| ALEX | Con la tua solita preveggenza. Ora è tutto trionfante<br><br><br>perché crede di averla battuta sul tempo.<br>E quando l’avrai mandato in un sanatorio<br>dove lei non possa raggiungerlo — allora, è convinto,<br>lei sarà molto pentita. Si gode la sua malattia. |  
+| REILLY | La malattia gli offre un [[topoi/double\|doppio]] vantaggio:<br><br><br>fuggire da sé stesso — e aver la meglio sulla moglie. |  
+| ALEX | Non fuggire da lei? |  
+| REILLY | Non vuole fuggire da lei. |  
+| ALEX | Alloggia al suo club. |  
+| REILLY | Sì, è di là che ha scritto. |  
+| *(didascalia)* | [Squilla il telefono di casa] |  
+| REILLY | Pronto! Sì, lo faccia salire. |  
+| ALEX | Avrai una mattinata intensa!<br><br><br>Esco dalla scala di servizio<br>e torno quando se ne saranno andati. |  
+| REILLY | Sì, quando se ne saranno andati. |  
+| *(didascalia)* | [Esce ALEX dalla porta laterale] |  
+| *(didascalia)* | [EDWARD viene fatto entrare dall’[[characters/nurse\|INFERMIERA]]-SEGRETARIA] |  
+| EDWARD | [[characters/sir-henry-harcourt-reilly\|Sir Henry Harcourt-Reilly]] — |  
+| *(didascalia)* | [Si ferma e fissa REILLY] |  
+| EDWARD | REILLY [senza alzare gli occhi dalle sue carte]. Buongiorno, signor Chamberlayne.<br><br><br>Prego, si accomodi. Non la tratterrò un istante.<br>— Dunque, signor Chamberlayne? |  
+| EDWARD | Mi era passato per la mente,<br><br><br>prima di varcare la porta, che lei potesse essere la stessa persona:<br>ma l’ho scacciato come l’ennesimo sintomo.<br>[[motifs/well\|Beh]], avrei dovuto guardarmi dal venire qui<br>su raccomandazione di un uomo che non la conosceva.<br>Eppure Alex è così persuasivo. E i suoi consigli<br>sui negozi sono sempre stati soddisfacenti.<br>Le chiedo scusa. Ma è uno sbadato.<br><br><br>Vorrei sapere… ma a che serve!<br>Suppongo che [[motifs/well\|tanto varrebbe]] andarmene subito. |  
+| REILLY | No. La prego, si sieda, signor Chamberlayne.<br><br><br>Non se ne andrà, dunque [[motifs/well\|tanto vale]] che si sieda.<br>Stava per fare una domanda. |  
+| EDWARD | Quando venne nel mio appartamento<br><br><br>era stato invitato da mia moglie come ospite,<br>come supponevo? … O fu lei a mandarla? |  
+| REILLY | Non posso dire di essere stato invitato;<br><br><br>e la signora Chamberlayne non sapeva che sarei venuto.<br>Ma sapevo che lei sarebbe stato lì, e chi avrei trovato con lei. |  
+| EDWARD | Ma aveva visto mia moglie? |  
+| REILLY | Oh sì, l’avevo vista. |  
+| EDWARD | Allora questa è una trappola! |  
+| REILLY | Non chiamiamola trappola.<br><br><br>Ma se è una trappola, allora non può sfuggirle:<br>e dunque… [[motifs/well\|tanto vale]] che si sieda.<br>Credo che troverà comoda quella poltrona. |  
+| EDWARD | Lei sapeva,<br><br><br>prima che cominciassi a raccontarle, che cosa era accaduto? |  
+| REILLY | È così, è così. Ma ogni cosa a suo [[motifs/time\|tempo]].<br><br><br>Lasciamo da parte quella domanda per ora.<br>Mi parli prima delle difficoltà<br>sulle quali desidera il mio parere professionale. |  
+| EDWARD | Non sta a me rimproverarle di aver riportato indietro mia moglie,<br><br><br>suppongo. Sembrava che cercasse di persuadermi<br>che stavo meglio senza di lei. Ma non si rendeva conto<br>che non ero in condizione di prendere una decisione? |  
+| REILLY | Se non avessi riportato indietro sua moglie, signor Chamberlayne,<br><br><br>crede che le cose andrebbero meglio — adesso? |  
+| EDWARD | Non so, davvero. Difficilmente potrebbero andar peggio. |  
+| REILLY | Potrebbero andar molto peggio. Poteva rovinare tre vite<br><br><br>con la sua indecisione. Ora sono soltanto due —<br>e ha ancora la possibilità di riscattarle dalla rovina. |  
+| EDWARD | Lei parla come se io fossi capace di agire:<br><br><br>se lo fossi, non avrei bisogno di consultare lei<br>né nessun altro. Sono venuto qui come paziente.<br>Se il mio caso non le interessa, posso andare altrove. |  
+| REILLY | Ha motivo di credere di essere molto malato? |  
+| EDWARD | Avrei pensato che un medico potesse vederlo da sé.<br><br><br>O almeno che si informasse sui sintomi.<br>Due persone mi hanno consigliato di recente,<br>quasi con le stesse parole, di vedere un medico.<br>Hanno detto — di nuovo, quasi con le stesse parole —<br>che ero sull’orlo di un esaurimento nervoso.<br>Allora io stesso non lo sapevo — ma se loro lo vedevano<br>avrei pensato che un medico potesse vederlo. |  
+| REILLY | «Esaurimento nervoso» è un termine che non uso mai:<br><br><br>può significare quasi tutto. |  
+| EDWARD | E da allora mi sono reso conto<br><br><br>che il mio è un caso davvero insolito. |  
+| REILLY | Ogni caso è unico, e assai simile agli altri. |  
+| EDWARD | Esiste un sanatorio dove lei manda pazienti<br><br><br>come me, sotto la sua osservazione personale? |  
+| REILLY | Lei è molto impetuoso, signor Chamberlayne.<br><br><br>Esistono diverse specie di sanatori<br>per diverse specie di pazienti. E vi sono anche pazienti<br>per i quali un sanatorio è il luogo peggiore possibile.<br>Dobbiamo prima scoprire che cosa non va in lei<br>prima di decidere che cosa fare di lei. |  
+| EDWARD | [[concepts/doubt\|Dubito]] che lei abbia mai avuto un caso come il mio:<br><br><br>ho cessato di credere alla mia stessa personalità. |  
+| REILLY | Oh, povero me; è grave. Un male comunissimo.<br><br><br>Diffusissimo, davvero. |  
+| EDWARD | Ricordo, nella mia [[motifs/childhood\|infanzia]]… |  
+| REILLY | Comincio sempre dalla situazione immediata<br><br><br>e poi risalgo indietro quanto trovo necessario.<br>Vede, i suoi ricordi d’[[motifs/childhood\|infanzia]] —<br>intendo, nel suo stato d’animo attuale —<br>sarebbero in gran parte fittizi; e quanto ai suoi [[motifs/dreams\|sogni]],<br>lei produrrebbe [[motifs/dreams\|sogni]] stupefacenti, per compiacermi.<br>Potrei farle sognare qualunque sogno le suggerissi,<br>e non servirebbe che a lusingare la sua [[concepts/vanity\|vanità]]<br>col temporaneo stimolo di sentirsi interessante. |  
+| EDWARD | Ma io sono ossessionato dal pensiero della mia insignificanza. |  
+| REILLY | Precisamente. E io potrei farla sentire importante,<br><br><br>e lei immaginerebbe che fosse una cura meravigliosa;<br>e proseguirebbe, facendo tutto il male<br>che è in suo potere — finché non venisse la rovina.<br>Metà del male che si fa in questo mondo<br>è dovuta a gente che vuole sentirsi importante.<br>Non intendono far male — ma il male non li interessa.<br><br><br>Oppure non lo vedono, o lo giustificano<br>perché sono assorbiti nella lotta senza fine<br>per pensare [[motifs/well\|bene]] di sé. |  
+| EDWARD | Se sono così<br><br><br>devo aver fatto moltissimo male. |  
+| REILLY | Oh, non tanto quanto le piacerebbe credere:<br><br><br>solo, diciamo, entro la sua modesta capacità.<br>Provi a spiegarmi che cosa è successo da quando l’ho lasciata. |  
+| EDWARD | Ora capisco perché volevo che mia moglie tornasse.<br><br><br>Era per ciò che lei aveva fatto di me.<br>Non eravamo tornati soli da un quarto d’ora<br>che già sentivo, e ancor più acutamente —<br>anzi, acutamente, forse, per la prima [[motifs/time\|volta]],<br>tutta l’oppressione, l’irrealtà<br>della parte che mi aveva sempre imposto<br>con quella forza ostinata, inconsapevole, subumana<br>che certe donne hanno. Senza di lei, era il vuoto.<br>Quando credetti che mi avesse lasciato, cominciai a dissolvermi,<br>a cessare d’esistere. Ecco che cosa mi aveva fatto!<br>Non posso vivere con lei — ora è intollerabile;<br>non posso vivere senza di lei, perché mi ha reso incapace<br>di avere un’esistenza mia.<br>Ecco che cosa mi ha fatto in cinque anni insieme!<br>Ha reso il mondo un luogo in cui non posso vivere<br>se non alle sue condizioni. Devo restare solo,<br>ma non nello stesso mondo. Perciò voglio che mi metta<br>nel suo sanatorio. Potrei restarci solo? |  
+| *(didascalia)* | Squilla il telefono di [casa] |  
+| EDWARD | REILLY [al telefono]. Sì.<br><br><br>[A EDWARD] Sì, potrebbe restarci solo. |  
+| EDWARD | Mi [[concepts/wonder\|domando]]<br><br><br>se lei abbia capito una parola di quel che ho detto. |  
+| REILLY | Deve avere pazienza con me, signor Chamberlayne:<br><br><br>imparo molto solo osservandola,<br>e lasciandola parlare quanto le piace,<br>e prendendo nota di ciò che non dice. |  
+| EDWARD | Una volta ho provato l’estremo del [[motifs/pain\|dolore]] fisico,<br><br><br>e ora so che esiste una [[concepts/suffering\|sofferenza]] peggiore.<br>È sorprendente, se si avesse il [[motifs/time\|tempo]] di sorprendersi:<br>non ho paura della [[motifs/death\|morte]] del [[concepts/body\|corpo]],<br>ma questa [[motifs/death\|morte]] è terrificante. La [[motifs/death\|morte]] dello spirito —<br>può capire ciò che soffro? |  
+| REILLY | Capisco ciò che intende. |  
+| EDWARD | Non posso più agire per me stesso.<br><br><br>Venire da lei — è stata l’ultima decisione<br>che sono stato capace di prendere. Sono nelle sue mani.<br>Non posso assumermi altre responsabilità. |  
+| REILLY | Molti pazienti vengono con quella convinzione. |  
+| EDWARD | E ora mi manderà al sanatorio? |  
+| REILLY | Non ha altro da dirmi? |  
+| EDWARD | Che altro posso dirle?<br><br><br>Non voleva sentire della mia prima [[concepts/history\|storia]]. |  
+| REILLY | No, non volevo sentire della sua prima [[concepts/history\|storia]]. |  
+| EDWARD | E allora mi manderà al sanatorio?<br><br><br>Non posso tornare a [[motifs/home\|casa]]. E al mio club<br>non lasciano tenere una stanza per più di sette giorni;<br>non ho il [[concepts/courage\|coraggio]] di andare in albergo,<br>e per giunta mi servono altre camicie — può far sì che mia moglie<br>mi mandi le mie cose: tutto ciò di cui avrò bisogno.<br>Ma naturalmente non deve dirle dove sono.<br>È lontano il viaggio? |  
+| REILLY | Si potrebbe dire, un lungo [[motifs/journey\|viaggio]].<br><br><br>Ma prima di curare un paziente come lei<br>ho bisogno di sapere su di lui molto di più<br>di quanto il paziente stesso possa sempre dirmi.<br>Anzi, accade spesso che i miei pazienti<br>siano soltanto frammenti di una situazione intera<br>che devo esplorare. Il paziente singolo,<br>malato per conto suo, è piuttosto l’eccezione.<br>Ho avuto di recente un’altra paziente<br>la cui situazione è molto simile alla sua. |  
+| *(didascalia)* | [Preme tre volte il campanello sulla scrivania] |  
+| REILLY | Deve accettare una procedura piuttosto insolita:<br>mi propongo di presentarle l’altra paziente. |  
+| EDWARD | Che cosa intende? Chi è quest’altra paziente?<br><br><br>Considero questa una condotta assai poco professionale —<br>non discuterò il mio caso davanti a un’altra paziente. |  
+| REILLY | Al contrario. È l’unico modo<br><br><br>in cui lo si possa discutere. Lei non mi ha detto nulla.<br>Ne ha avuto l’occasione, e ha detto abbastanza<br>per convincermi che si è costruito il suo caso,<br>per così dire, strada facendo. Un avvocato<br>dovrebbe conoscere la propria causa prima di entrare in [[settings/court\|tribunale]]. |  
+| EDWARD | Sono almeno libero di andarmene. E mi propongo di farlo.<br><br><br>Ho deciso. Andrò in albergo. |  
+| REILLY | È proprio perché lei non è libero, signor Chamberlayne,<br><br><br>che è venuto da me. Tocca a me darle questo —<br>la sua [[concepts/freedom\|libertà]]. È affar mio. |  
+| *(didascalia)* | [[[characters/lavinia\|LAVINIA]] viene fatta entrare dall’[[characters/nurse\|INFERMIERA]]-SEGRETARIA] |  
+| REILLY | Ma ecco l’altra paziente. |  
+| EDWARD | [[characters/lavinia\|Lavinia]]! |  
+| [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Ebbene]], Sir Henry!<br><br><br>Ho detto che sarei venuta a parlare di mio marito:<br>non ho detto che ero pronta a incontrarlo. |  
+| EDWARD | E io non mi aspettavo di incontrare te, [[characters/lavinia\|Lavinia]].<br><br><br>Questo lo chiamo un tiro assai disonorevole. |  
+| REILLY | L’onestà prima dell’[[concepts/honour\|onore]], signor Chamberlayne.<br><br><br>Si siedano, prego, tutti e due. Signora Chamberlayne,<br>suo marito desidera entrare in un sanatorio,<br>e questa è una questione che naturalmente la riguarda. |  
+| EDWARD | Non andrò in nessun sanatorio.<br><br><br>Vado in albergo. E ti chiederò, [[characters/lavinia\|Lavinia]],<br>di avere la bontà di mandarmi qualche vestito. |  
+| [[characters/lavinia\|LAVINIA]] | Oh, in quale albergo? |  
+| EDWARD | Non lo so — voglio dire,<br><br><br>questo non ti riguarda. |  
+| [[characters/lavinia\|LAVINIA]] | In tal caso, Edward,<br><br><br>non credo che i tuoi vestiti riguardino me.<br>[A REILLY] Presumo che lo manderà nello stesso sanatorio<br><br><br>in cui mandò me? [[motifs/well\|Beh]], ne ha più bisogno di quanto ne avessi io. |  
+| REILLY | Sono lieto che lei abbia cominciato a vederla così —<br><br><br>almeno, per il momento. Ma, signora Chamberlayne,<br>lei non ha mai visitato il mio sanatorio. |  
+| [[characters/lavinia\|LAVINIA]] | Che cosa intende? Chiesi di esservi mandata<br><br><br>e lei mi ci portò. Se quello non era un sanatorio<br>che cos’era? |  
+| REILLY | Una specie di albergo. Un ritiro<br><br><br>per gente che immagina di aver bisogno di una tregua<br>dalla vita di ogni giorno. Tornano rinfrancati;<br>e se credono che sia un sanatorio<br>questa è buona ragione per non mandarveli.<br>Chi ha bisogno del mio genere di sanatorio<br>non si lascia ingannare facilmente. |  
+| [[characters/lavinia\|LAVINIA]] | Lei è un diavolo<br><br><br>o soltanto un pazzo burlone? |  
+| EDWARD | Propendo per la seconda spiegazione<br><br><br>senza la qualifica di «pazzo».<br>Perché mai dovresti andare tu in un sanatorio?<br><br><br>Non ho mai conosciuto in vita mia nessuno<br>con meno complicazioni mentali di te;<br>sei più solida di una… corazzata. È questo che mi ha fatto impazzire.<br>Sono io quello che ha bisogno di un sanatorio —<br>ma non ci andrò. |  
+| REILLY | Ha ragione, signor Chamberlayne.<br><br><br>Lei non è un caso per il mio sanatorio:<br>è troppo malato. |  
+| EDWARD | Troppo malato?<br><br><br>Allora andrò ad ammalarmi in una pensione di periferia. |  
+| [[characters/lavinia\|LAVINIA]] | Non farebbe affatto per te, Edward. Io conosco un albergo<br><br><br>nella New Forest… |  
+| EDWARD | Come ti somiglia, [[characters/lavinia\|Lavinia]].<br><br><br>Tu conosci sempre qualcosa di meglio. |  
+| [[characters/lavinia\|LAVINIA]] | È solo che ho una mente più pratica<br><br><br>della tua, Edward. Lo sai bene. |  
+| EDWARD | Solo perché me l’hai ripetuto tante volte.<br><br><br>Vorrei vederti compilare una dichiarazione dei redditi. |  
+| [[characters/lavinia\|LAVINIA]] | Non essere sciocco, Edward. Quando dico pratica,<br><br><br>intendo pratica nelle cose che contano davvero. |  
+| REILLY | Posso interrompere questa interessante discussione?<br><br><br>Dico che siete entrambi troppo malati. Vi sono più sintomi<br>che devono presentarsi insieme, e in grado marcato,<br>perché un paziente sia ammesso al mio sanatorio:<br><br><br>e uno di essi è una mente onesta.<br>È una delle cause della loro [[concepts/suffering\|sofferenza]]. |  
+| [[characters/lavinia\|LAVINIA]] | Nessuno può dire che mio marito abbia una mente onesta. |  
+| EDWARD | E io non potrei dirlo onestamente di te, [[characters/lavinia\|Lavinia]]. |  
+| REILLY | Mi congratulo con entrambi per la vostra perspicacia.<br><br><br>La comprensione così affettuosa che avete l’uno dell’altra<br>vi preparerà ad apprezzare ciò che devo dirvi.<br>Non mi occupo del volgare imbroglione,<br>né di chi è insuperabilmente, innocentemente ottuso:<br>i miei pazienti come voi sono coloro che ingannano [[concepts/self\|sé stessi]],<br>prendendosi pene infinite, esaurendo le proprie energie,<br>e senza mai riuscirvi del tutto. Avete entrambi finto<br>di consultare me; entrambi, avete cercato di impormi<br>la vostra diagnosi, e di prescrivere la vostra cura.<br>Ma quando ci si mette in mani come le mie<br>si cede molto più di quanto si volesse.<br>Questa è la conseguenza del tentare di mentirmi. |  
+| [[characters/lavinia\|LAVINIA]] | Non sono venuta qui per essere insultata. |  
+| REILLY | Lei è giunta là dove la parola «insulto» non ha significato;<br><br><br>e deve rassegnarsi. Tutto ciò che mi avete detto —<br>entrambi — era abbastanza vero: avete descritto i vostri sentimenti —<br>o alcuni di essi — omettendo i fatti importanti.<br>Prendo prima suo marito.<br>[A EDWARD]                               Lei mi mentiva<br><br><br>nascondendo la sua relazione con la signorina Coplestone. |  
+| EDWARD | Questo è mostruoso! Mia moglie non ne sapeva nulla. |  
+| [[characters/lavinia\|LAVINIA]] | Ma davvero, Edward! Anche se fossi stata cieca<br><br><br>c’era gente in abbondanza per farmelo sapere.<br>Mi [[concepts/wonder\|domando]] se ci fosse qualcuno che non lo sapeva. |  
+| REILLY | Ce n’era uno, in effetti. Ma lei, signora Chamberlayne,<br><br><br>ha cercato di farmi credere che fosse stata questa scoperta<br>a precipitare quello che ha chiamato il suo esaurimento nervoso. |  
+| [[characters/lavinia\|LAVINIA]] | Ma è vero! Ero completamente prostrata;<br><br><br>anche se mi sono in parte ripresa. |  
+| REILLY | Certamente, era completamente prostrata,<br><br><br>e certamente si è in qualche misura ripresa.<br>Ma ha omesso di dire che la causa della sua angoscia<br>era la defezione del suo [[archetypes/lover\|amante]] — che all’improvviso,<br>per la prima [[motifs/time\|volta]] in vita sua, si accese d’[[motifs/love\|amore]] per qualcuno,<br>e per qualcuno di cui lei aveva ragione d’essere gelosa. |  
+| EDWARD | Ma davvero, [[characters/lavinia\|Lavinia]]! Questo è molto interessante.<br><br><br>Pare che tu sia stata molto più abile di me<br>nel nascondere. Ora mi [[concepts/wonder\|domando]] chi possa essere stato. |  
+| [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Beh]], glielo dica pure, se vuole. |  
+| REILLY | Un giovanotto di nome Peter. |  
+| EDWARD | Peter? Peter chi? |  
+| REILLY | Il signor Peter Quilpe<br><br><br>era un ospite frequente. |  
+| EDWARD | Peter Quilpe.<br><br><br>Peter Quilpe! Ma davvero, [[characters/lavinia\|Lavinia]]!<br>Mi congratulo. Non avresti potuto scegliere<br>nessuno che avessi meno probabilità di sospettare.<br>E poi venne da me a confidarsi a proposito di [[characters/celia\|Celia]]!<br><br><br>Non ho mai sentito nulla di così assolutamente ridicolo:<br>questa è la miglior burla che sia mai accaduta. |  
+| [[characters/lavinia\|LAVINIA]] | Non sapevo che avessi un tale senso dell’umorismo. |  
+| REILLY | È il primo sintomo più promettente. |  
+| [[characters/lavinia\|LAVINIA]] | Come ha saputo tutto questo? |  
+| REILLY | Questo non posso rivelarlo.<br><br><br>Ho un mio metodo per raccogliere informazioni<br>sui miei pazienti. Non deve chiedermi di svelarlo —<br>è questione di etichetta professionale. |  
+| [[characters/lavinia\|LAVINIA]] | Non ho notato molta etichetta professionale<br><br><br>nel suo comportamento di oggi. |  
+| REILLY | Osservazione [[motifs/well\|ben]] posta.<br><br><br>Ma mi permetta di notare che le mie rivelazioni<br>su ciascuno di voi, all’altro,<br>non hanno riguardato nulla di ciò che mi avete confidato.<br>Le informazioni che ho scambiato fra voi<br>le ho ottenute tutte da fonti esterne.<br>Signora Chamberlayne, quando venne da me due mesi fa<br>non mi soddisfaceva la sua spiegazione<br>degli evidenti sintomi di tensione emotiva<br>e così feci delle indagini. |  
+| EDWARD | Fu due mesi fa<br><br><br>che cominciò il tuo esaurimento! e io non me ne accorsi mai. |  
+| [[characters/lavinia\|LAVINIA]] | Tu non ti accorgeresti di nulla. Non ti sei mai accorto di me. |  
+| REILLY | Ora, voglio far notare a entrambi<br><br><br>quanto avete in comune. Anzi, ritengo<br>che siate eccezionalmente [[motifs/well\|ben]] assortiti.<br>Signor Chamberlayne, quando credette che sua moglie l’avesse lasciata,<br>scoprì, con sorpresa e costernazione,<br>di non essere davvero [[motifs/love\|innamorato]] della signorina Coplestone… |  
+| [[characters/lavinia\|LAVINIA]] | Mio marito non è mai stato [[motifs/love\|innamorato]] di nessuno. |  
+| REILLY | E non era disposto al minimo sacrificio<br><br><br>per lei. Questo ferì la sua [[concepts/vanity\|vanità]].<br>Le piaceva pensarsi come un [[archetypes/lover\|amante]] appassionato.<br>Poi comprese ciò che sua moglie ha giustamente osservato,<br>che non era mai stato [[motifs/love\|innamorato]] di nessuno;<br>il che le fece sospettare di essere incapace<br>di amare. Per gli uomini di un certo tipo<br>il sospetto di essere incapaci di amare<br>turba la stima di [[concepts/self\|sé]]<br>quanto, negli uomini più rozzi, la [[concepts/fear\|paura]] dell’impotenza. |  
+| [[characters/lavinia\|LAVINIA]] | Sei di cuore freddo, Edward. |  
+| REILLY | Così dice lei, signora Chamberlayne.<br><br><br>E ora passiamo al suo lato del problema.<br>Quando scoprì che il suo giovane amico<br>(pur sapendo, in cuor suo, che non era [[motifs/love\|innamorato]] di lei,<br><br><br>ed essendo sempre umiliata dalla consapevolezza<br><br><br>di averlo costretto in quella posizione) —<br>quando, dico, scoprì che il suo giovane amico<br>si era davvero [[motifs/love\|innamorato]] della signorina Coplestone,<br>le occorse un po’ di [[motifs/time\|tempo]], non ho [[concepts/doubt\|dubbi]],<br>prima di ammetterlo. Benché forse lo sapesse<br>prima di lui. Fingeva con sé stessa,<br>sospetto, e finché poté,<br>che egli mirasse a una distinzione sociale più alta<br>dell’[[concepts/honour\|onore]] conferito dall’essere il suo [[archetypes/lover\|amante]].<br><br><br>Quando dovette affrontare il fatto che i suoi sentimenti per lei<br>erano diversi da quelli che lei aveva mai suscitato in lui —<br>fu uno shock. Aveva voluto essere amata;<br>era giunta a vedere che nessuno l’aveva mai amata.<br>Poi cominciò a [[concepts/fear\|temere]] che nessuno potesse [[motifs/love\|amarla]]. |  
+| EDWARD | Comincio a provare molta pena per te, [[characters/lavinia\|Lavinia]].<br><br><br>Sai, sei davvero eccezionalmente inamabile,<br>e non ho mai saputo bene perché. Credevo fosse colpa mia. |  
+| REILLY | E ora cominciate a vedere, [[concepts/hope\|spero]],<br><br><br>quanto avete in comune. Il medesimo isolamento.<br>Un uomo che si scopre incapace di amare<br>e una donna che scopre che nessun uomo può [[motifs/love\|amarla]]. |  
+| [[characters/lavinia\|LAVINIA]] | Mi pare che ciò che abbiamo in comune<br><br><br>possa bastare a farci detestare l’un l’altro. |  
+| REILLY | Vedetelo piuttosto come il vincolo che vi tiene uniti.<br><br><br>Finché eravate ancora in stato di cecità,<br>lei poteva sempre dire: «non saprebbe [[motifs/love\|amare]] nessuna donna»;<br><br><br>lei poteva sempre dire: «nessun uomo saprebbe [[motifs/love\|amarla]]».<br><br><br>Potevate accusarvi a vicenda delle vostre stesse colpe,<br>ed evitare così di capirvi l’un l’altro.<br>Ora, non vi resta che rovesciare le proposizioni<br>e metterle insieme. |  
+| [[characters/lavinia\|LAVINIA]] | È possibile? |  
+| REILLY | Se avessi mandato l’uno o l’altra al sanatorio<br><br><br>nello stato in cui siete venuti da me — vi dico questo:<br>sarebbe stato un orrore oltre ogni vostra immaginazione,<br>perché sareste rimasti con ciò che vi eravate portati:<br>l’[[archetypes/shadow\|ombra]] di desideri di desideri. Preda<br>dei demoni che giungono alla pienezza del loro potere<br>quando vi hanno tutti per sé. |  
+| [[characters/lavinia\|LAVINIA]] | E allora che possiamo fare<br><br><br>se non possiamo andare né indietro né avanti? Edward!<br>Che possiamo fare? |  
+| REILLY | Ha risposto lei stessa alla sua domanda,<br><br><br>benché non conosca il senso di ciò che ha detto. |  
+| EDWARD | [[characters/lavinia\|Lavinia]], dobbiamo far buon viso a cattivo gioco.<br><br><br>È questo che intende. |  
+| REILLY | Quando scoprirà, signor Chamberlayne,<br><br><br>che far buon viso a cattivo gioco è tutto ciò che ciascuno di noi ne fa —<br>tranne, naturalmente, i santi — come quelli che vanno<br>al sanatorio — dimenticherà questa frase,<br>e dimenticandola muterà la condizione. |  
+| [[characters/lavinia\|LAVINIA]] | Edward, c’è quell’albergo nella New Forest<br><br><br>se vuoi andarci. Il proprietario<br>che l’ha appena rilevato è un amico di Alex.<br>Potrei accompagnarti, e poi lasciarti là<br>se vuoi restare solo… |  
+| EDWARD | Ma non posso andarmene!<br><br><br>Ho una causa che si apre lunedì prossimo. |  
+| [[characters/lavinia\|LAVINIA]] | Allora ti fermerai al club? |  
+| EDWARD | No, non me lo permettono.<br><br><br>Devo andarmene domani — ma come sapevi<br>che alloggiavo al club? |  
+| [[characters/lavinia\|LAVINIA]] | Ma davvero, Edward!<br><br><br>Ho un certo senso di responsabilità.<br><br><br>Stavo per lasciarti là qualche camicia. |  
+| EDWARD | Mi pare che [[motifs/well\|tanto varrebbe]] tornare a [[motifs/home\|casa]]. |  
+| [[characters/lavinia\|LAVINIA]] | Allora possiamo dividere un taxi, e risparmiare.<br><br><br>Edward, hai altro da chiedergli<br>prima di andare? |  
+| EDWARD | Sì, ho qualcosa.<br><br><br>Ma è difficile dirlo. |  
+| [[characters/lavinia\|LAVINIA]] | Ma vorrei che lo dicessi.<br><br><br>Almeno, c’è qualcosa che vorrei tu chiedessi. |  
+| EDWARD | Riguarda il futuro di… degli altri.<br><br><br>Non voglio costruire sulle rovine altrui. |  
+| [[characters/lavinia\|LAVINIA]] | Esattamente. E anch’io ho una domanda.<br><br><br>Sir Henry, fu lei a mandare quei telegrammi? |  
+| REILLY | Credo che sbrigherò prima il problema di suo marito.<br><br><br>[A EDWARD] Il suo compito non è mondare la sua [[concepts/conscience\|coscienza]]<br><br><br>ma imparare a portare i pesi che gravano sulla sua [[concepts/conscience\|coscienza]].<br>Del futuro degli altri lei non deve occuparsi. |  
+| [[characters/lavinia\|LAVINIA]] | Credo che abbia risposto anche alla mia domanda.<br><br><br>Dovevano dircelo loro stessi, che avevano preso la loro decisione. |  
+| EDWARD | Ha altro da dirci, Sir Henry? |  
+| REILLY | No. Non in questa veste. |  
+| *(didascalia)* | [EDWARD tira fuori il libretto degli assegni. REILLY alza la mano] |  
+| REILLY | La mia segretaria le manderà la parcella.<br>Andate in pace. E operate la vostra salvezza con diligenza. |  
+| *(didascalia)* | [Escono EDWARD e [[characters/lavinia\|LAVINIA]]] |  
+| *(didascalia)* | [REILLY va al divano e vi si sdraia. Squilla il telefono di casa. Si alza e risponde.] |  
+| REILLY | Sì? … Sì. Entra pure. |  
+| *(didascalia)* | [Entra [[characters/julia\|JULIA]] dalla porta laterale] |  
+| REILLY |                                                        Sta aspettando di sotto. |  
+| [[characters/julia\|JULIA]] | Lo so, Henry. L’ho portata qui io stessa. |  
+| REILLY | Ah sì? Non le hai fatto sapere che vedevi prima me? |  
+| [[characters/julia\|JULIA]] | Certo che no. L’ho lasciata alla porta<br><br><br>e ho proseguito in taxi, dietro l’angolo;<br>ho atteso un istante, e sono sgusciata dentro dal retro.<br>Sono venuta solo per dirti che sono certa che è pronta<br>a prendere una decisione. |  
+| REILLY | Era riluttante?<br><br><br>È per questo che l’hai accompagnata? |  
+| [[characters/julia\|JULIA]] | Oh no, non riluttante:<br><br><br>soltanto timorosa. Non riesce a credere<br>che tu la prenda sul serio. |  
+| REILLY | Non è cosa rara. |  
+| [[characters/julia\|JULIA]] | O che meriti di essere presa sul serio. |  
+| REILLY | Questa è cosa rarissima. |  
+| [[characters/julia\|JULIA]] | Henry, alzati.<br><br><br>Non puoi essere così stanco. Aspetterò nella stanza accanto,<br>e tornerò quando lei se ne sarà andata. |  
+| REILLY | Sì, quando se ne sarà andata. |  
+| [[characters/julia\|JULIA]] | Ci sarà Alex? |  
+| REILLY | Sì, ci sarà. |  
+| *(didascalia)* | [Esce [[characters/julia\|JULIA]] dalla porta laterale] |  
+| *(didascalia)* | [REILLY preme il pulsante. L’[[characters/nurse\|INFERMIERA]]-SEGRETARIA fa entrare [[characters/celia\|CELIA]]] |  
+| REILLY | Signorina [[characters/celia-coplestone\|Celia Coplestone]]? … Non vuole sedersi?<br><br><br>Credo che lei sia amica della signora Shuttlethwaite. |  
+| [[characters/celia\|CELIA]] | Sì, è stata [[characters/julia\|Julia]]… la signora Shuttlethwaite<br><br><br>a consigliarmi di venire da lei. — Ma l’ho già incontrata,<br>non è vero, da qualche parte? … Oh, ma certo.<br>Solo che non sapevo… |  
+| REILLY | Non c’è nulla che lei debba sapere.<br><br><br>Ero là su richiesta della signora Shuttlethwaite. |  
+| [[characters/celia\|CELIA]] | Questo lo rende ancora più sconcertante. Comunque,<br><br><br>non voglio farle perdere [[motifs/time\|tempo]]. E ho un gran timore<br>che lei pensi che glielo stia facendo perdere lo stesso.<br>Suppongo che la maggior parte della gente, quando viene da lei,<br>sia palesemente malata, o sappia dare buone ragioni<br>per volerla vedere. [[motifs/well\|Beh]], io non so darne.<br>Sono venuta solo per disperazione. E non mi offenderò<br>se lei mi dirà semplicemente di andarmene. |  
+| REILLY | La maggior parte dei miei pazienti comincia, signorina Coplestone,<br><br><br>col dirmi esattamente che cosa ha,<br>e che cosa io debba farci. Sono certissimi<br>di aver avuto un esaurimento nervoso — così lo chiamano —<br>e di solito pensano che la colpa sia di qualcun altro. |  
+| [[characters/celia\|CELIA]] | Io almeno non ho nessuno da incolpare se non me stessa. |  
+| REILLY | E dopo di ciò, il prologo della mia cura<br><br><br>è cercare di mostrar loro che si sbagliano<br>sulla [[concepts/nature\|natura]] della loro malattia, e portarli a vedere<br>che non è così interessante come avevano immaginato.<br>Quando arrivo a tanto, c’è qualcosa da fare. |  
+| [[characters/celia\|CELIA]] | [[motifs/well\|Beh]], non posso pretendere che il mio guaio sia interessante;<br><br><br>ma non comincerò così. Mi sento perfettamente [[motifs/well\|bene]].<br>Potrei condurre una vita attiva — se ci fosse qualcosa per cui operare;<br>non immagino di essere perseguitata;<br>non odo voci, non ho deliri —<br>salvo che il mondo in cui vivo mi sembra tutto un delirio!<br>Ma non dovrei prima raccontarle le circostanze?<br>Avevo dimenticato che lei non sa nulla di me;<br>e con quello che ho passato in queste ultime settimane,<br>davo in qualche modo per scontato di non dovermi spiegare. |  
+| REILLY | So già abbastanza di lei per il momento:<br><br><br>provi prima a descrivere il suo stato d’animo attuale. |  
+| [[characters/celia\|CELIA]] | [[motifs/well\|Beh]], ci sono due cose che non riesco a capire,<br><br><br>e che lei potrebbe considerare sintomi. Ma prima devo dirle<br>che vorrei davvero pensare che ci sia qualcosa che non va in me —<br><br><br>perché, se non c’è, allora c’è qualcosa che non va,<br>o almeno di molto diverso da quel che sembrava,<br>nel mondo stesso — e questo è molto più spaventoso!<br>Sarebbe terribile. Perciò preferirei credere<br>che ci sia qualcosa che non va in me, e che si possa raddrizzare.<br>Farei qualunque cosa lei mi dicesse, per tornare alla normalità. |  
+| REILLY | Dobbiamo scoprire chi è lei, prima di decidere<br><br><br>che cosa sia la normalità. Dice che le cose sono due:<br><br><br>qual è la prima? |  
+| [[characters/celia\|CELIA]] | Una consapevolezza della [[concepts/solitude\|solitudine]].<br><br><br>Ma detto così suona piatto. Non intendo semplicemente<br>che ci sia stato un crollo: benché ci sia stato davvero.<br>Non è semplicemente la fine di un’illusione<br>nel modo consueto, o l’essere piantata.<br>Certo, è qualcosa che accade di continuo<br>a ogni sorta di gente, e se ne rimettono<br>più o meno, o almeno tirano avanti.<br>No. Voglio dire che ciò che è accaduto mi ha resa consapevole<br>che sono sempre stata sola. Che si è sempre soli.<br>Non semplicemente la fine di una relazione,<br>e nemmeno semplicemente lo scoprire che non è mai esistita —<br>ma una rivelazione sul mio rapporto<br>con tutti quanti. Sa una cosa —<br><br><br>non sembra più valere la pena di parlare con nessuno! |  
+| REILLY | E i suoi genitori? |  
+| [[characters/celia\|CELIA]] | Oh, vivono in campagna,<br><br><br>ora che non possono più permettersi un alloggio in città.<br>È già tanto se riescono a mandare avanti la casa di campagna:<br>ma è in famiglia da tanto tempo che non la lasceranno. |  
+| REILLY | E lei vive a [[settings/london\|Londra]]? |  
+| [[characters/celia\|CELIA]] | Divido un appartamento<br><br><br>con una cugina: ma per ora è all’estero,<br>e la mia famiglia vuole che scenda a stare da loro.<br>Ma proprio non me la sento. |  
+| REILLY | Dunque non vuole vedere nessuno? |  
+| [[characters/celia\|CELIA]] | No… non è che io voglia restare sola,<br><br><br>ma che tutti sono soli — o almeno così mi pare.<br>Fanno rumori, e credono di parlarsi fra loro;<br>fanno smorfie, e credono di capirsi fra loro.<br>E sono certa che non è vero. È un delirio, questo? |  
+| REILLY | Da un delirio bisogna far ritorno.<br><br><br>Vi sono altri stati d’animo, che prendiamo per delirio,<br>ma che dobbiamo accettare e da cui dobbiamo ripartire.<br>E il secondo sintomo? |  
+| [[characters/celia\|CELIA]] | Questo è ancora più strano.<br><br><br>Suona ridicolo — ma l’unica parola che riesco<br>a trovarvi è: un senso di peccato. |  
+| REILLY | Lei soffre di un senso di peccato, signorina Coplestone?<br><br><br>Questo è quanto mai insolito. |  
+| [[characters/celia\|CELIA]] | A me pareva anormale. |  
+| REILLY | Dobbiamo ancora trovare che cosa sarebbe normale<br>per lei, prima di usare il termine «anormale».<br><br><br>Mi dica che cosa intende per senso di peccato. |  
+| [[characters/celia\|CELIA]] | È molto più facile dirle che cosa non intendo:<br><br><br>non intendo il peccato nel senso comune. |  
+| REILLY | E qual è, a suo parere, il senso comune? |  
+| [[characters/celia\|CELIA]] | [[motifs/well\|Beh]]… suppongo sia l’essere immorali —<br><br><br>e io non mi sento come se fossi stata immorale:<br>anzi, la gente che si giudica immorale non è forse<br>proprio quella che diciamo priva di senso morale?<br>Non ho mai notato che l’immoralità<br>fosse accompagnata da un senso di peccato:<br>almeno, non mi è mai capitato di vederlo.<br>Suppongo sia malvagio ferire gli altri<br>se si sa di ferirli. Io non ho ferito lei.<br>Non le stavo togliendo nulla —<br>nulla che lei volesse. Posso essere stata una [[archetypes/fool\|sciocca]]:<br>ma non mi dispiace affatto essere stata una [[archetypes/fool\|sciocca]]. |  
+| REILLY | E qual è il punto di vista della sua famiglia? |  
+| [[characters/celia\|CELIA]] | [[motifs/well\|Beh]], la mia educazione è stata piuttosto convenzionale —<br><br><br>mi era sempre stato insegnato a non credere al peccato.<br>Oh, non voglio dire che se ne parlasse mai!<br>Ma qualunque cosa sbagliata, dal nostro punto di vista,<br>era o cattiva forma, o roba psicologica.<br>E la cattiva forma portava sempre al disastro<br>perché la gente che si conosceva la disapprovava.<br>Io, per conto mio, non mi curo molto della forma —<br>ma quando tutto è cattiva forma, o storture mentali,<br>o diventi tu cattiva forma, e smetti di curartene,<br>oppure, se te ne curi, devi essere una storta. |  
+| REILLY | E dunque suppone di avere ciò che chiama una «storta»? |  
+| [[characters/celia\|CELIA]] | Ma tutto sembrava così giusto, in quel [[motifs/time\|momento]]!<br><br><br>Ci ho pensato e ripensato;<br>ora vedo che era tutto uno sbaglio:<br>ma non vedo perché gli sbagli debbano far sentire peccatori!<br>Eppure non riesco a trovare altra parola.<br>Dev’essere una specie di allucinazione;<br>e tuttavia, nello stesso [[motifs/time\|tempo]], mi spaventa il [[concepts/fear\|timore]]<br>che sia più reale di qualunque cosa in cui abbia creduto. |  
+| REILLY | Che cosa è più reale di qualunque cosa in cui abbia creduto? |  
+| [[characters/celia\|CELIA]] | Non è il sentimento di qualcosa che io abbia fatto,<br>da cui potrei allontanarmi, o di qualcosa in me<br>di cui potrei liberarmi — ma di vuoto, di mancanza<br>verso qualcuno, o qualcosa, fuori di me;<br>e sento che devo… espiare — è questa la parola?<br><br><br>Si può curare un paziente per un simile stato d’animo? |  
+| REILLY | Che cosa credeva fossero i suoi rapporti con quest’uomo? |  
+| [[characters/celia\|CELIA]] | Oh, l’aveva indovinato, allora? Che abilità la sua.<br><br><br>No, forse l’ho reso ovvio io. Non ha bisogno di sapere<br>di lui, vero? |  
+| REILLY | No. |  
+| [[characters/celia\|CELIA]] | Forse sono solo un caso tipico. |  
+| REILLY | Ci sono tipi diversi. Alcuni più rari di altri. |  
+| [[characters/celia\|CELIA]] | Oh, credevo di dargli tanto!<br><br><br>E lui a me — e il dare e il prendere<br>sembravano così giusti: non in termini di calcolo<br>di ciò che era bene per le persone che eravamo state<br>ma per la persona nuova, noi. Se potessi sentire<br><br><br>come sentivo allora, anche adesso mi parrebbe giusto.<br>E poi scoprii che eravamo soltanto estranei<br>e che non c’era stato né dare né prendere<br>ma che ci eravamo semplicemente serviti l’uno dell’altra,<br>ciascuno per il proprio scopo. È orribile. Possiamo [[motifs/love\|amare]] soltanto<br>qualcosa creato dalla nostra stessa [[concepts/imagination\|immaginazione]]?<br>Siamo tutti, in realtà, incapaci d’amore e non amabili?<br>Allora si è soli, e se si è soli<br><br><br>allora l’[[archetypes/lover\|amante]] e l’amato sono ugualmente irreali<br>e il sognatore non è più reale dei suoi [[motifs/dreams\|sogni]]. |  
+| REILLY | E quest’uomo. Che cosa le sembra ora? |  
+| [[characters/celia\|CELIA]] | Come un [[archetypes/child\|bambino]] che si è smarrito in una foresta<br><br><br>giocando con un compagno immaginario<br>e d’un tratto scopre di essere soltanto un [[archetypes/child\|bambino]]<br>perduto in una foresta, che vuole tornare a [[motifs/home\|casa]]. |  
+| REILLY | La compassione può essere già un indizio<br><br><br>per trovare da sé la via d’uscita dalla foresta. |  
+| [[characters/celia\|CELIA]] | Ma anche se troverò l’uscita dalla foresta<br><br><br>mi resterà l’inconsolabile [[motifs/memory\|ricordo]]<br>del tesoro che ero entrata nella foresta a cercare<br>e che non trovai mai, e che non c’era<br>e forse non è in nessun luogo? Ma se in nessun luogo,<br>perché mi sento colpevole di non averlo trovato? |  
+| REILLY | La disillusione può divenire essa stessa un’illusione<br><br><br>se ci si adagia in essa. |  
+| [[characters/celia\|CELIA]] | Non so discutere.<br><br><br>Non è che tema di essere ferita di nuovo:<br>nulla ormai può ferire né guarire.<br>A tratti ho pensato che l’estasi sia reale<br>benché coloro che la provano possano non avere realtà.<br>Poiché ciò che è accaduto si ricorda come un sogno<br>in cui si è esaltati dall’intensità dell’amare<br>nello spirito, una vibrazione di delizia<br>senza [[motifs/desire\|desiderio]], perché il [[motifs/desire\|desiderio]] è compiuto<br>nella delizia dell’amare. Uno stato che non si conosce<br>da svegli. Ma che cosa, o chi amassi,<br>o che cosa in me amasse, non lo so.<br>E se tutto ciò è privo di senso, voglio essere guarita<br>dalla brama di qualcosa che non riesco a trovare<br>e dalla vergogna di non trovarlo mai.<br>Può guarirmi? |  
+| REILLY | La condizione è curabile.<br><br><br>Ma la forma della cura dev’essere una sua scelta:<br>io non posso scegliere per lei. Se è questo che desidera,<br>posso riconciliarla con la condizione umana,<br>la condizione alla quale alcuni, giunti lontano quanto lei,<br>sono riusciti a tornare. Possono ricordare<br>la visione che hanno avuto, ma cessano di rimpiangerla,<br>si reggono sulla comune routine,<br>imparano a evitare l’attesa eccessiva,<br>diventano tolleranti verso sé stessi e verso gli altri,<br>dando e prendendo, nei gesti consueti,<br>ciò che c’è da dare e da prendere. Non si lagnano;<br>si accontentano del mattino che separa<br>e della sera che riunisce<br>per chiacchiere casuali davanti al [[motifs/fire\|fuoco]]<br>due persone che sanno di non capirsi,<br>generando figli che non capiscono<br>e che non li capiranno mai. |  
+| [[characters/celia\|CELIA]] | È questa la vita migliore? |  
+| REILLY | È una buona vita. Anche se non saprà quanto buona<br><br><br>finché non giungerà alla fine. Ma non vorrà nient’altro,<br>e l’altra vita sarà soltanto come un libro<br>letto una volta, e perduto. In un mondo di follia,<br>violenza, stupidità, [[concepts/greed\|avidità]]… è una buona vita. |  
+| [[characters/celia\|CELIA]] | So che dovrei essere capace di accettarlo<br><br><br>se potessi ancora averlo. Eppure mi [[motifs/leaves\|lascia]] fredda.<br>Forse è solo una parte della mia malattia,<br>ma sento che sarebbe una specie di resa —<br>no, non una resa — piuttosto un tradimento.<br>Vede, credo di aver avuto davvero la visione di qualcosa<br>anche se non so che cosa sia. Non voglio dimenticarla.<br>Voglio viverci dentro. Potrei fare a meno di tutto,<br>sopportare qualunque cosa, pur di custodirla.<br>Anzi, credo che sarebbe davvero disonesto<br>per me, ora, cercare di farmi una vita con qualcuno!<br><br><br>Non potrei dare a nessuno quella specie d’[[motifs/love\|amore]] —<br>vorrei poterlo — che appartiene a quella vita.<br>Oh, temo che questo suoni come un delirio!<br>O solo come cattivo umore… eppure,<br>se non c’è altra via… allora mi sento senza speranza. |  
+| REILLY | C’è un’altra via, se lei ne ha il [[concepts/courage\|coraggio]].<br><br><br>La prima ho potuto descriverla in termini familiari<br>perché lei l’ha veduta, come tutti l’abbiamo veduta,<br>illustrata, più o meno, nelle vite di chi ci sta intorno.<br>La seconda è ignota, e perciò richiede [[concepts/faith\|fede]] —<br>quella specie di [[concepts/faith\|fede]] che nasce dalla [[concepts/despair\|disperazione]].<br>La meta non si può descrivere;<br>lei saprà pochissimo finché non vi giungerà;<br>[[motifs/journey\|viaggerà]] alla cieca. Ma la via conduce al possesso<br>di ciò che lei ha cercato nel luogo sbagliato. |  
+| [[characters/celia\|CELIA]] | Suona come ciò che voglio. Ma qual è il mio dovere? |  
+| REILLY | Qualunque via lei scelga prescriverà il proprio dovere. |  
+| [[characters/celia\|CELIA]] | Quale via è migliore? |  
+| REILLY | Nessuna delle due è migliore.<br><br><br>Entrambe sono necessarie. È necessario anche<br>scegliere fra le due. |  
+| [[characters/celia\|CELIA]] | Allora scelgo la seconda. |  
+| REILLY | È un [[motifs/journey\|viaggio]] terrificante. |  
+| [[characters/celia\|CELIA]] | Non ho paura,<br><br><br>ma gioia. Suppongo che sia una via solitaria? |  
+| REILLY | Non più solitaria dell’altra. Ma chi prende l’altra<br>può dimenticare la propria [[concepts/loneliness\|solitudine]]. Lei non dimenticherà la sua.<br>Ciascuna via significa [[concepts/loneliness\|solitudine]] — e comunione.<br>Entrambe evitano la desolazione ultima<br>della [[concepts/solitude\|solitudine]] nel mondo fantasmatico<br>dell’[[concepts/imagination\|immaginazione]], che rimescola memorie e desideri. |  
+| [[characters/celia\|CELIA]] | È l’inferno in cui sono stata. |  
+| REILLY | Non è l’inferno<br><br><br>finché non si diventa incapaci di ogni altra cosa.<br>Ora — si sente proprio sicura? |  
+| [[characters/celia\|CELIA]] | Voglio la sua seconda via.<br><br><br>E dunque che devo fare? |  
+| REILLY | Andrà al sanatorio. |  
+| [[characters/celia\|CELIA]] | Oh, che caduta! Ho conosciuto persone<br><br><br>che sono state al suo sanatorio, e sono tornate —<br>non voglio dire che non ne fossero molto migliorate —<br>è per questo che sono venuta da lei. Ma sono tornate…<br>[[motifs/well\|Beh]]… voglio dire… alla vita di ogni giorno. |  
+| REILLY | Vero. Ma gli amici che lei ha in mente<br><br><br>non possono essere stati in questo sanatorio.<br>Sto molto attento a chi vi mando:<br>quelli che vi vanno non tornano come tornarono costoro. |  
+| [[characters/celia\|CELIA]] | Sembra una [[motifs/prison\|prigione]]. Ma non possono restarci tutti!<br><br><br>Voglio dire, il posto sarebbe troppo affollato. |  
+| REILLY | Non molti vi vanno. Ma ho detto che non tornano<br><br><br>nel senso in cui tornarono i suoi amici.<br>Non ho detto che vi restano. |  
+| [[characters/celia\|CELIA]] | Che ne è di loro? |  
+| REILLY | Scelgono, signorina Coplestone. Nulla è loro imposto.<br><br><br>Alcuni tornano, in senso fisico;<br>nessuno scompare. Conducono vite molto attive,<br>assai spesso, nel mondo. |  
+| [[characters/celia\|CELIA]] | Fra quanto mi ci manderà? |  
+| REILLY | Fra quanto sarà pronta? |  
+| [[characters/celia\|CELIA]] | Stasera, per le nove in [[motifs/clock\|punto]]. |  
+| REILLY | Vada a [[motifs/home\|casa]], allora, e faccia i suoi preparativi.<br><br><br>Ecco l’indirizzo da dare ai suoi amici; |  
+| *(didascalia)* | [Scrive su un foglietto] |  
+| REILLY | È meglio che avverta subito la sua famiglia.<br>Manderò un’auto a prenderla alle nove in [[motifs/clock\|punto]]. |  
+| [[characters/celia\|CELIA]] | Che cosa devo portare con me? |  
+| REILLY | Nulla.<br><br><br>Tutto ciò che le occorre le sarà fornito,<br>e non avrà spese al sanatorio. |  
+| [[characters/celia\|CELIA]] | Non so minimamente che cosa sto facendo<br><br><br>né perché lo faccio. Non c’è altro da fare:<br>questa è l’unica ragione. |  
+| REILLY | È la ragione migliore. |  
+| [[characters/celia\|CELIA]] | Ma so che sono io ad aver preso la decisione:<br><br><br>devo dirglielo. Oh, quasi dimenticavo —<br>posso chiederle qual è il suo onorario? |  
+| REILLY | Ho detto alla mia segretaria<br><br><br>che non c’è onorario. |  
+| [[characters/celia\|CELIA]] | Ma… |  
+| REILLY | Per un caso come il suo<br><br><br>non c’è onorario. |  
+| *(didascalia)* | [Preme il pulsante] |  
+| [[characters/celia\|CELIA]] | È stato molto gentile. |  
+| REILLY | Va’ in pace, figlia mia.<br><br><br>Opera la tua salvezza con diligenza. |  
+| *(didascalia)* | [L’[[[characters/nurse\|INFERMIERA]]-SEGRETARIA compare alla porta. Esce [[characters/celia\|CELIA]]. REILLY compone un numero al telefono di casa.] |  
+| REILLY | REILLY [al telefono]. È finita. Ora puoi entrare. |  
+| *(didascalia)* | [Entra [[characters/julia\|JULIA]] dalla porta laterale] |  
+| REILLY | Andrà lontano, quella. |  
+| [[characters/julia\|JULIA]] | Molto lontano, credo.<br><br><br>Non hai bisogno di dirmelo. L’ho saputo fin dall’inizio. |  
+| REILLY | Sono gli altri che mi preoccupano. |  
+| [[characters/julia\|JULIA]] | Sciocchezze, Henry, li terrò d’occhio io. |  
+| REILLY | Rimandarli indietro: a che cosa devono tornare?<br><br><br>Al cibo stantio che ammuffisce in dispensa,<br>ai pensieri stantii che ammuffiscono nelle loro menti.<br>Ciascuno incapace di nascondere la propria meschinità<br>a sé stesso, perché è nota all’altro.<br>Non è la coscienza del tradimento reciproco<br>ma la coscienza che l’altro ne comprende il movente —<br>[[motifs/mirror\|specchio]] contro [[motifs/mirror\|specchio]], che riflette [[concepts/vanity\|vanità]].<br>Ho corso un grande rischio. |  
+| [[characters/julia\|JULIA]] | Dobbiamo sempre correre rischi.<br><br><br>È il nostro destino. Poiché metti in dubbio la decisione,<br>quale possibile alternativa riesci a immaginare? |  
+| REILLY | Nessuna. |  
+| [[characters/julia\|JULIA]] | E [[motifs/well\|bene]], allora. Dobbiamo correre il rischio.<br><br><br>Tutto ciò che potevamo fare era dar loro l’occasione.<br>E ora, quando sono nudi fino all’anima<br>e possono scegliere se indossare abiti convenienti<br>o infilarsi in fretta in nuovi travestimenti,<br>hanno, per la prima [[motifs/time\|volta]], un luogo da cui partire.<br>Oh, certo, potrebbero anche ammazzarsi a vicenda!<br>Ma non credo che lo faranno. Vedremo.<br>È il pensiero di [[characters/celia\|Celia]] che mi pesa sull’animo. |  
+| REILLY | Di [[characters/celia\|Celia]]? |  
+| [[characters/julia\|JULIA]] | Di [[characters/celia\|Celia]]. |  
+| REILLY | Ma quando ho detto poco fa<br><br><br>che sarebbe andata lontano, eri d’accordo con me. |  
+| [[characters/julia\|JULIA]] | Oh sì, andrà lontano. E sappiamo dove sta andando.<br><br><br>Ma che sappiamo dei terrori del [[motifs/journey\|viaggio]]?<br>Tu e io non conosciamo il processo per cui l’umano viene<br>trasumanato: che sappiamo<br>della specie di [[concepts/suffering\|sofferenza]] che devono subire<br>sulla via dell’illuminazione? |  
+| REILLY | Si spaventerà<br><br><br>alla prima apparizione degli spiriti proiettati? |  
+| [[characters/julia\|JULIA]] | Henry, tu semplicemente non capisci l’innocenza.<br><br><br>Non avrà paura di nulla; non saprà nemmeno<br>che vi sia là qualcosa di cui aver paura.<br>È troppo umile. Passerà fra le colline che rimbrottano,<br>per la valle della derisione, come un [[archetypes/child\|bambino]] mandato a fare una commissione<br>con ardore e pazienza. Eppure dovrà soffrire. |  
+| REILLY | Quando esprimo fiducia in qualcosa<br><br><br>tu sollevi sempre dubbi; quando sono in apprensione<br>allora non vedi ragione che per la fiducia. |  
+| [[characters/julia\|JULIA]] | È uno dei modi in cui ti sono tanto utile.<br><br><br>Dovresti essermene grato. |  
+| REILLY | E quando dico a una come lei<br><br><br>«Opera la tua salvezza con diligenza», non capisco<br>ciò che io stesso sto dicendo. |  
+| [[characters/julia\|JULIA]] | Devi accettare i tuoi limiti.<br><br><br>— Ma quanto ancora ci farà aspettare Alex? |  
+| REILLY | Dovrebbe essere già qui. Parlo con la signorina Barraway. |  
+| *(didascalia)* | [Solleva il telefono di casa] |  
+| REILLY | Signorina Barraway, quando il signor Gibbs arriva…<br>Oh, benissimo.<br>[A [[characters/julia\|JULIA]]] Sta salendo. |  
+| *(didascalia)* | [Al telefono] |  
+| REILLY | Può portare il vassoio adesso, signorina Barraway. |  
+| *(didascalia)* | [Entra ALEX] |  
+| ALEX | [[motifs/well\|Ebbene]]! [[motifs/well\|Ebbene]]! e come è andata? |  
+| [[characters/julia\|JULIA]] | Tutto è in ordine. |  
+| ALEX | I Chamberlayne hanno scelto? |  
+| REILLY | Accettano il loro destino. |  
+| ALEX | E lei ha fatto la sua scelta? |  
+| REILLY | Sarà prelevata stasera. |  
+| *(didascalia)* | [Entra l’[[[characters/nurse\|INFERMIERA]]-SEGRETARIA con un vassoio, una caraffa e tre bicchieri, ed esce. REILLY versa da bere.] |  
+| REILLY | E ora siamo pronti a procedere alla libagione. |  
+| ALEX | Le parole per l’edificazione del focolare. |  
+| *(didascalia)* | [Alzano i bicchieri] |  
+| REILLY | Che edifichino il focolare<br><br><br>sotto la protezione delle [[motifs/stars\|stelle]]. |  
+| ALEX | Che pongano una sedia da ciascun lato. |  
+| [[characters/julia\|JULIA]] | Che i santi vegliino sul tetto,<br><br><br>che la [[motifs/moon\|luna]] stessa influenzi il letto. |  
+| *(didascalia)* | [Bevono] |  
+| ALEX | Le parole per coloro che si mettono in [[motifs/journey\|viaggio]]. |  
+| REILLY | Protettore dei viandanti<br><br><br>benedici la [[motifs/road\|strada]]. |  
+| ALEX | Veglia su di lei nel [[motifs/desert\|deserto]].<br><br><br>Veglia su di lei sulla montagna.<br>Veglia su di lei nel labirinto.<br>Veglia su di lei presso le sabbie mobili. |  
+| [[characters/julia\|JULIA]] | Proteggila dalle Voci<br>proteggila dalle Visioni<br>proteggila nel tumulto<br>proteggila nel [[motifs/silence\|silenzio]]. |  
+| *(didascalia)* | [Bevono] |  
+| REILLY | Ce n’è uno per il quale le parole non possono essere dette. |  
+| ALEX | Non possono ancora essere dette. |  
+| [[characters/julia\|JULIA]] | Intendi Peter Quilpe. |  
+| REILLY | Non è ancora giunto là dove le parole hanno valore. |  
+| [[characters/julia\|JULIA]] | Le diremo mai? |  
+| ALEX | Altri, forse, le diranno.<br><br><br>Sai, ho conoscenze — perfino in California.<br>SIPARIO |
+
+### Atto 3, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Il salotto dell’appartamento londinese dei Chamberlayne, a [[settings/london\|Londra]]. Due anni dopo. Un tardo pomeriggio di luglio. Un ADDETTO AL BUFFET sta apparecchiando il tavolo del rinfresco. Entra [[characters/lavinia\|LAVINIA]] dalla porta laterale.<br>ADDETTO AL BUFFET. Ha altri ordini per noi, signora? |  
+| [[characters/lavinia\|LAVINIA]] | Potrebbe portare dentro il carrello con i bicchieri<br><br><br>e lasciarli pronti.<br>ADDETTO AL BUFFET.              Benissimo, signora. |  
+| *(didascalia)* | [Esce. [[characters/lavinia\|LAVINIA]] osserva la stanza con occhio critico e sposta una coppa di [[motifs/flowers\|fiori]].] |  
+| *(didascalia)* | [Rientra l’ADDETTO AL BUFFET con il carrello] |  
+| [[characters/lavinia\|LAVINIA]] | Là, in quell’angolo. È il posto più comodo;<br><br><br>si può entrare e uscire. Le serve qualcosa<br>che non trovi in cucina?<br>ADDETTO AL BUFFET.                                  Niente, signora.<br><br><br>Le occorre altro? |  
+| [[characters/lavinia\|LAVINIA]] | Niente altro, credo, fino alle sei e mezza. |  
+| *(didascalia)* | [Esce l’ADDETTO AL BUFFET] |  
+| *(didascalia)* | [EDWARD entra da sé dalla porta d’ingresso] |  
+| EDWARD | Sono in [[motifs/time\|tempo]], credo. [[concepts/hope\|Spero]] che tu non ti sia preoccupata. |  
+| [[characters/lavinia\|LAVINIA]] | Oh no. In effetti ho telefonato al tuo studio,<br><br><br>e il tuo impiegato mi ha detto che eri già uscito.<br>Ma ti telefonavo solo per rassicurarti…<br>EDWARD [sorridendo]. Che non eri scappata via? |  
+| [[characters/lavinia\|LAVINIA]] | Ora, Edward, non è giusto!<br><br><br>Sai bene che abbiamo dato parecchi ricevimenti<br><br><br>in questi due anni. E io c’ero sempre.<br><br><br>[[concepts/hope\|Spero]] che tu non sia troppo stanco. |  
+| EDWARD | Oh no, una giornata tranquilla.<br><br><br>Due consulti con dei procuratori<br>su casi del tutto lineari. Sei tu che dovresti essere stanca. |  
+| [[characters/lavinia\|LAVINIA]] | Non sono ancora stanca. Ma so che sarò contenta<br><br><br>quando sarà tutto finito. |  
+| EDWARD | Mi piace il vestito che porti:<br>sono contento che tu abbia messo quello. |  
+| [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Beh]], Edward!<br><br><br>Lo sai che è la prima [[motifs/time\|volta]] che mi fai un complimento<br>prima di un ricevimento? Ed è proprio allora che ce n’è bisogno. |  
+| EDWARD | [[motifs/well\|Beh]], te lo meriti. — Abbiamo invitato troppa gente. |  
+| [[characters/lavinia\|LAVINIA]] | È vero, hanno accettato molti più<br><br><br>di quanti pensassimo volessero venire. Ma che ci puoi fare?<br>Di solito ce n’è un mucchio che non hanno voglia di venire<br>ma che si offenderebbero a morte lo stesso<br>a sapere che abbiamo dato un ricevimento senza invitarli. |  
+| EDWARD | Forse avremmo dovuto organizzare due ricevimenti<br><br><br>invece di uno. |  
+| [[characters/lavinia\|LAVINIA]] | Non funziona mai.<br><br><br>Chiunque sia invitato all’uno o all’altro<br>sospetta che quello fosse il più importante. |  
+| EDWARD | È vero. Hai una mente molto pratica. |  
+| [[characters/lavinia\|LAVINIA]] | Ma sai, non credo che tu debba preoccuparti:<br><br><br>non verranno tutti, di quelli che hanno accettato.<br>Ricordi che dicevamo: «possiamo invitarne venti di più<br>perché tanto andranno dai Gunning invece che da noi».|  
+| EDWARD | Lo so, è quello che dicemmo al [[motifs/time\|momento]];<br><br><br>ma avevo dimenticato com’erano i ricevimenti dai Gunning.<br>I loro ospiti riceveranno appena quanto basta a farli venire sete;<br>arriveranno da noi più tardi, ruggendo per un bicchiere.<br>[[motifs/well\|Beh]], [[concepts/hope\|speriamo]] che quelli che vengono da noi presto<br>proseguano poi dai Gunning,<br>per far posto a quelli che arrivano dai Gunning. |  
+| [[characters/lavinia\|LAVINIA]] | E se c’è troppa calca, non riusciranno ad arrivare ai cocktail,<br><br><br>e il cameriere non riuscirà a girare col vassoio,<br>così se ne andranno di nuovo. Comunque, a quel punto<br>non c’è proprio nulla che tu possa farci:<br>e a tutti piace farsi vedere a un ricevimento<br>dove c’è chiunque altro, per mostrare di essere stati invitati.<br>È questo che ne fa un successo. È dritto quel quadro? |  
+| EDWARD | Sì, è dritto. |  
+| [[characters/lavinia\|LAVINIA]] | No, non lo è. Raddrizzalo, per favore. |  
+| EDWARD | È dritto adesso? |  
+| [[characters/lavinia\|LAVINIA]] | Troppo a sinistra. |  
+| EDWARD | E così com’è? |  
+| [[characters/lavinia\|LAVINIA]] | No, intendevo a destra.<br><br><br>Così può andare. Sono troppo stanca per starci dietro. |  
+| EDWARD | Quando se ne saranno andati tutti, berremo dello champagne,<br><br><br>noi due soli. Ora sdraiati, [[characters/lavinia\|Lavinia]].<br>Non verrà nessuno per almeno mezz’ora;<br>perciò stenditi pure. |  
+| [[characters/lavinia\|LAVINIA]] | Devi sederti accanto a me,<br><br><br>così potrò rilassarmi. |  
+| EDWARD | Questo è il momento più bello<br><br><br>di tutto il ricevimento. |  
+| [[characters/lavinia\|LAVINIA]] | Oh no, Edward.<br><br><br>Il momento più bello è quello in cui finisce;<br>e poi ricordare che è la fine della stagione<br>e che non ci saranno più ricevimenti. |  
+| EDWARD | E niente più comitati. |  
+| [[characters/lavinia\|LAVINIA]] | Possiamo partire presto? |  
+| EDWARD | Entro la fine della prossima settimana<br><br><br>sarò del tutto libero. |  
+| [[characters/lavinia\|LAVINIA]] | E potremo essere soli.<br><br><br>[[motifs/love\|Amo]] quella casa proprio perché è così isolata. |  
+| EDWARD | Per questo l’abbiamo presa. E sono davvero grato<br><br><br>di avere quella scusa per non vedere gente;<br>e tu adesso hai proprio bisogno di riposo. |  
+| *(didascalia)* | [Suona il campanello] |  
+| [[characters/lavinia\|LAVINIA]] | Oh, che noia!<br><br><br>Chi mai può venire così presto? Non riesco proprio ad alzarmi.<br><br><br>ADDETTO AL BUFFET. La signora Shuttlethwaite! |  
+| [[characters/lavinia\|LAVINIA]] | Oh, è [[characters/julia\|Julia]]! |  
+| *(didascalia)* | [Entra [[characters/julia\|JULIA]]] |  
+| [[characters/julia\|JULIA]] | [[motifs/well\|Ebbene]], care mie, eccomi qua!<br><br><br>Pare che vi abbia colti letteralmente nel sonnellino!<br><br><br>So di essere troppo in anticipo; ma il fatto è, cari miei,<br>che devo poi andare al ricevimento dei Gunning —<br>e sapete che cosa offrono da mangiare e da bere!<br><br><br>E ho dovuto saltare il tè, e ho una fame da lupi<br>e muoio di sete. Che cosa può fare Parkinson per me?<br>Oh sì, lo so che questo è un ricevimento Parkinson;<br>ho riconosciuto uno dei loro uomini alla porta —<br>un vecchio amico, in effetti. Ma dimenticavo!<br>Ho una sorpresa: ho portato Alex con me!<br>È tornato solo stamattina da chissà dove —<br>una delle sue misteriose spedizioni,<br>e adesso lo convinceremo a raccontarci tutto.<br>Ma dov’è finito? |  
+| *(didascalia)* | [Entra ALEX] |  
+| EDWARD | [[motifs/well\|Ebbene]], Alex!<br><br><br>Da dove diavolo salti fuori? |  
+| ALEX | Da dove diavolo? Dall’Oriente. Da Kinkanja —<br><br><br>un’isola di cui non avrete mai sentito parlare<br>finora. Tornato stamattina. Ho saputo del vostro ricevimento<br>e, pensando che poteste partire per la campagna,<br>mi son detto: non devo perdere l’occasione<br>di vedere Edward e [[characters/lavinia\|Lavinia]]. |  
+| [[characters/lavinia\|LAVINIA]] | Come stai, Alex? |  
+| ALEX | Ho provato a raggiungervi al telefono<br><br><br>dopo pranzo, ma la mia segretaria non è riuscita a prendere la linea.<br>Non importa, ho detto — a me stesso, non a lei —<br>non importa: l’ospite inatteso<br>è quello a cui si fa l’accoglienza più calorosa.<br>Li conosco abbastanza [[motifs/well\|bene]] per saperlo. |  
+| [[characters/julia\|JULIA]] | Ma raccontaci, Alex.<br><br><br>Che cosa facevi in quello strano posto —<br>come si chiama? |  
+| ALEX | Kinkanja. |  
+| [[characters/julia\|JULIA]] | E che cosa facevi<br><br><br>a Kinkanja? Eri in visita da qualche sultano?<br>Cacciavi le tigri? |  
+| ALEX | Non ci sono tigri, [[characters/julia\|Julia]],<br><br><br>a Kinkanja. E non ci sono sultani.<br>Sono stato ospite del Governatore.<br>In tre siamo andati in giro per un’ispezione<br>delle condizioni locali. |  
+| [[characters/julia\|JULIA]] | Riguardo a che cosa? Le noccioline? |  
+| ALEX | Hai indovinato più di quanto credi.<br><br><br>No, non le noccioline. Ma c’entravano le scimmie —<br>anche se se le scimmie siano il nocciolo del problema<br>o soltanto un sintomo, non saprei dirlo.<br>Di sicuro le scimmie sono diventate il pretesto<br>di un malcontento generale fra gli indigeni. |  
+| EDWARD | Ma come fanno le scimmie a creare malcontento? |  
+| ALEX | Tanto per cominciare, le scimmie sono molto distruttive… |  
+| [[characters/julia\|JULIA]] | Non c’è bisogno che mi dica quanto le scimmie siano distruttive.<br><br><br>Non dimenticherò mai la scimmia di Mary Mallington,<br>l’orribile bestiaccia — mi rubò il biglietto per Mentone<br>e dovetti viaggiare su un treno lentissimo<br>e in cuccetta. Lei si arrabbiò moltissimo<br><br><br>quando le dissi che quella creatura andava soppressa. |  
+| [[characters/lavinia\|LAVINIA]] | Ma non possono sterminarle, queste scimmie,<br><br><br>se sono un flagello? |  
+| ALEX | Purtroppo<br><br><br>la maggioranza degli indigeni è pagana:<br>tengono queste scimmie in singolare venerazione<br>e non vogliono che siano uccise. Così danno la colpa al Governo<br>per i danni che le scimmie fanno. |  
+| EDWARD | Non mi pare ragionevole. |  
+| ALEX | Non è ragionevole,<br><br><br>ma è tipico. E non è il peggio.<br>Alcune tribù sono convertite al cristianesimo<br>e, naturalmente, la vedono diversamente.<br>Le scimmie le catturano. E se le mangiano.<br>Le scimmie giovani sono squisite:<br>le ho cucinate io stesso… |  
+| EDWARD | E qualcuno le ha mangiate,<br><br><br>quando le hai cucinate? |  
+| ALEX | Oh sì, certamente.<br><br><br>Ho inventato per gli indigeni parecchie ricette nuove.<br>Ma vedete, fra il mangiare le scimmie<br>e il proteggere i raccolti dalle scimmie<br>gli indigeni cristiani prosperano oltre misura:<br>e questo crea attrito fra loro e gli altri.<br>Ed è questo il vero problema. [[concepts/hope\|Spero]] di non annoiarvi. |  
+| EDWARD | Niente affatto: siamo ansiosi di conoscere la soluzione. |  
+| ALEX | Non sono sicuro che esista una soluzione.<br><br><br>Ma neppure questo ci porta al cuore della faccenda.<br>Ci sono anche agitatori stranieri<br>che soffiano sul fuoco… |  
+| [[characters/lavinia\|LAVINIA]] | Perché non li espellete? |  
+| ALEX | Sono cittadini di uno Stato vicino e amico<br><br><br>che abbiamo appena riconosciuto. Vedi, [[characters/lavinia\|Lavinia]],<br>sono acque molto profonde. |  
+| EDWARD | E gli agitatori,<br><br><br>come agitano? |  
+| ALEX | Convincendo i pagani<br><br><br>che il massacro delle scimmie ha attirato su di loro una maledizione<br>che può essere tolta solo massacrando i cristiani.<br>Hanno perfino persuaso alcuni dei convertiti —<br>che, dopo tutto, preferiscono non essere massacrati —<br>a ricadere nel paganesimo. Così, invece di mangiare scimmie<br>mangiano cristiani. |  
+| [[characters/julia\|JULIA]] | Che hanno mangiato scimmie. |  
+| ALEX | L’indigeno non è, [[concepts/fear\|temo]], molto logico. |  
+| [[characters/julia\|JULIA]] | Mi chiedevo dove ci portassi, con le tue scimmie.<br><br><br>Pensavo che avrei fatto conversazione a cena su quelle scimmie:<br>ma non si può far conversazione a cena sui cristiani mangiati —<br>nemmeno fra i pagani! |  
+| ALEX | Non con la storia intera. |  
+| EDWARD | E qualcuno dei residenti inglesi è stato assassinato? |  
+| ALEX | Sì, ma di solito non se li mangiano.<br><br><br>Quando quella gente ha finito con un europeo,<br>di regola non è più commestibile. |  
+| EDWARD | E che cosa ha concluso la vostra commissione? |  
+| ALEX | Abbiamo appena stilato una relazione provvisoria. |  
+| EDWARD | Sarà resa pubblica? |  
+| ALEX | Per ora non può esserlo:<br><br><br>ci sono troppe complicazioni internazionali.<br>Prima o poi ci sarà forse una pubblicazione ufficiale. |  
+| EDWARD | Ma quando? |  
+| ALEX | Fra un anno o due. |  
+| EDWARD | E intanto? |  
+| ALEX | Intanto le scimmie si moltiplicano. |  
+| [[characters/lavinia\|LAVINIA]] | E i cristiani? |  
+| ALEX | Ah, i cristiani! Ecco, credo di dovervi dire<br><br><br>di una persona che conoscete — o conoscevate… |  
+| [[characters/julia\|JULIA]] | Edward!<br><br><br>Qualcuno dev’essere passato sulla mia [[motifs/grave\|tomba]]:<br>ho un tale freddo. Dammi un po’ di gin.<br>Non un cocktail. Sto gelando — in luglio!<br>ADDETTO AL BUFFET. Il signor Quilpe! |  
+| EDWARD | E ora chi… |  
+| *(didascalia)* | [Entra PETER] |  
+| EDWARD |                                                                     Ma guarda, è Peter! |  
+| [[characters/lavinia\|LAVINIA]] | Peter! |  
+| PETER | Salve a tutti! |  
+| [[characters/lavinia\|LAVINIA]] | Quando sei arrivato? |  
+| PETER | Sono volato da [[settings/new-york\|New York]] ieri [[motifs/night\|notte]] —<br><br><br>ho lasciato Los Angeles tre giorni fa.<br>Oggi a pranzo ho visto Sheila Paisley<br>e mi ha detto che davate un ricevimento —<br>lei arriva più tardi, dopo i Gunning —<br>così mi son detto: devo proprio piombarvi in casa:<br>è la mia unica occasione di vedere Edward e [[characters/lavinia\|Lavinia]].<br>Sono qui solo per una settimana, capite,<br>e stasera scendo in campagna in macchina,<br>perciò sapevo che non vi sarebbe spiaciuto vedermi arrivare così presto.<br>Sembrano secoli da quando vi ho visti l’ultima volta!<br>E tu come stai, Alex? E la cara vecchia [[characters/julia\|Julia]]! |  
+| [[characters/lavinia\|LAVINIA]] | Dunque arrivi proprio da [[settings/new-york\|New York]]. |  
+| PETER | Sì, da [[settings/new-york\|New York]].<br><br><br>I Bologolomsky mi hanno accompagnato alla partenza.<br>Ricordate la principessa Bologolomsky<br>dei vecchi tempi? Abbiamo cenato insieme l’altra [[motifs/night\|notte]]<br>al Saffron Monkey. È quello il locale che va, adesso. |  
+| ALEX | Che strano. Le mie scimmie sono color zafferano. |  
+| PETER | Le tue scimmie, Alex? Ho sempre detto<br><br><br>che Alex conosceva tutti. Ma non sapevo<br>che conoscesse anche delle scimmie. |  
+| [[characters/julia\|JULIA]] | Ma dacci le tue notizie;<br><br><br>dacci le tue notizie dal mondo, Peter.<br>Noi conduciamo una vita così quieta, qui a [[settings/london\|Londra]]. |  
+| PETER | Ti è sempre piaciuto prendere in giro, [[characters/julia\|Julia]]:<br><br><br>ma sapete tutti che lavoro per la Pan-Am-Eagle, no? |  
+| EDWARD | No. Dicci un po’, che cos’è la Pan-Am-Eagle? |  
+| PETER | Dovete proprio aver vissuto una vita quieta!<br><br><br>Non andate al cinema? |  
+| [[characters/lavinia\|LAVINIA]] | Ogni tanto. |  
+| PETER | Alex lo sa.<br><br><br>Hai visto il mio ultimo film, Alex? |  
+| ALEX | Ne ero al corrente, ma non l’ho visto.<br><br><br>A Kinkanja non c’è cinema. |  
+| PETER | Kinkanja? E dov’è? Non hanno film?<br><br><br>La Pan-Am-Eagle deve occuparsene.<br>Forse sarebbe un buon posto per girarne uno.<br>— Alex sa tutto della Pan-Am-Eagle:<br>è stato lui a presentarmi al grande Bela. |  
+| [[characters/julia\|JULIA]] | E chi è il grande Bela? |  
+| PETER | Ma come, Bela Szogody —<br><br><br>è il mio capo. Credevo che tutti conoscessero il suo nome. |  
+| [[characters/julia\|JULIA]] | È lui la tua conoscenza in California, Alex? |  
+| ALEX | Sì, ci siamo resi qualche favore a vicenda. |  
+| PETER | [[motifs/well\|Beh]], è stato Bela a mandarmi qui<br><br><br>solo per una settimana. E ho le mani piene.<br>Stasera scendo a Boltwell. |  
+| [[characters/julia\|JULIA]] | Ospite del Duca? |  
+| PETER | E per rendergli un buon servizio.<br><br><br>Stiamo girando un film sulla vita inglese<br>e vogliamo usare Boltwell. |  
+| [[characters/julia\|JULIA]] | Ma credevo che Boltwell<br><br><br>fosse in condizioni molto malandate. |  
+| PETER | Esatto. Lo è. Ed è proprio per questo che ci interessa.<br><br><br>La più decrepita dimora nobiliare d’Inghilterra!<br>Almeno fra quelle ancora abitate.<br>Abbiamo fatto venire una squadra di esperti<br>a studiare il [[motifs/decay\|degrado]], per poterlo riprodurre.<br>Poi costruiremo un altro Boltwell in California. |  
+| [[characters/julia\|JULIA]] | Ma qual è la tua posizione, Peter?<br><br><br>Sei diventato un esperto di case in rovina? |  
+| PETER | Oh, niente affatto! Ho scritto io la sceneggiatura di questo film,<br><br><br>e Bela ne è molto soddisfatto.<br>Ha pensato che dovessi vedere il Boltwell originale;<br>e poi ha pensato che, essendo inglese,<br>dovrei sapere come trattare un duca.<br>Oltre a questo, abbiamo il direttore del casting:<br>cerca certe facce tipicamente inglesi —<br>solo per le parti minori, s’intende —<br>e io lo aiuterò a decidere quali facce siano tipiche. |  
+| [[characters/julia\|JULIA]] | Peter, mi è venuta un’idea meravigliosa!<br><br><br>Ho sempre desiderato andare in California:<br>non potresti convincere il tuo direttore del casting<br>a portarci tutti laggiù? Siamo tutti tipicissimi. |  
+| PETER | No, temo…<br><br><br>ADDETTO AL BUFFET.               [[characters/sir-henry-harcourt-reilly\|Sir Henry Harcourt-Reilly]]! |  
+| [[characters/julia\|JULIA]] | Oh, dimenticavo! Avevo un’altra sorpresa per voi. |  
+| *(didascalia)* | [Entra REILLY] |  
+| [[characters/julia\|JULIA]] | Voglio presentarvi [[characters/sir-henry-harcourt-reilly\|Sir Henry Harcourt-Reilly]] — |  
+| EDWARD | Siamo lieti di vederlo. Ma ci siamo già conosciuti. |  
+| [[characters/julia\|JULIA]] | Allora, se lo conoscete già, non ne avrete paura.<br><br><br>Sapete, all’inizio io ne avevo paura:<br>ha un’aria così severa… |  
+| REILLY | Mia cara [[characters/julia\|Julia]],<br><br><br>mi sta facendo una pessima presentazione —<br>ammesso che una presentazione fosse necessaria. |  
+| [[characters/julia\|JULIA]] | Mio caro Henry, lei mi sta interrompendo. |  
+| [[characters/lavinia\|LAVINIA]] | Se riesce a interrompere [[characters/julia\|Julia]], Sir Henry,<br><br><br>è l’ospite perfetto che aspettavamo. |  
+| REILLY | Non mi sognerei mai di provare a interrompere [[characters/julia\|Julia]]… |  
+| [[characters/julia\|JULIA]] | Ma state interrompendo tutti e due! |  
+| REILLY | E ora chi sta interrompendo? |  
+| [[characters/julia\|JULIA]] | [[motifs/well\|Beh]], non dovreste interrompere le mie interruzioni:<br><br><br>è molto peggio che interrompere e basta.<br>Adesso mi gira proprio la testa. Devo bere un cocktail. |  
+| EDWARD | [A REILLY]. E lei prenderà un cocktail? |  
+| REILLY | Potrei avere un bicchiere d’[[motifs/water\|acqua]]? |  
+| EDWARD | Con qualcosa dentro? |  
+| REILLY | Niente, grazie. |  
+| [[characters/lavinia\|LAVINIA]] | Posso presentarle il signor Peter Quilpe?<br><br><br>[[characters/sir-henry-harcourt-reilly\|Sir Henry Harcourt-Reilly]]. Peter è un vecchio amico<br>di mio marito e mio. Oh, dimenticavo — |  
+| *(didascalia)* | [Voltandosi verso ALEX] |  
+| [[characters/lavinia\|LAVINIA]] | Davo per scontato che vi conosceste —<br>e non so perché. Il signor MacColgie Gibbs. |  
+| ALEX | Ma certo, sì, ci siamo già incontrati. |  
+| REILLY | In diverse commissioni. |  
+| [[characters/julia\|JULIA]] | Stavamo facendo una conversazione tanto interessante.<br><br><br>Peter è appena arrivato dalla California,<br>dove è qualcosa di molto importante nel cinema.<br>Sta girando un film sulla vita inglese<br>e troverà una parte per tutti noi. Pensate un po’! |  
+| PETER | Ma, [[characters/julia\|Julia]], stavo appunto per spiegare —<br><br><br>temo di non poter trovare una parte per nessuno<br>in questo film — non è compito mio;<br><br><br>e non è così che si fa. |  
+| [[characters/julia\|JULIA]] | Ma, Peter,<br><br><br>se porti Boltwell in California<br>perché non puoi portare anche me? |  
+| PETER | Non portiamo Boltwell.<br><br><br>Ne ricostruiamo uno. |  
+| [[characters/julia\|JULIA]] | Molto [[motifs/well\|bene]], allora:<br><br><br>perché non ricostruire me? Costa molto meno.<br><br><br>Oh, povera me, vedo che sei deciso a non prendermi:<br>e così addio alle mie speranze di vedere la California. |  
+| PETER | Sai bene che non verresti mai, anche se ti invitassimo.<br><br><br>Ma c’è una persona di cui volevo chiedervi,<br>una che desiderava davvero entrare nel cinema,<br>e ho sempre pensato che potesse avere successo<br>se solo ne avesse avuto l’occasione. È [[characters/celia-coplestone\|Celia Coplestone]].<br>L’ha sempre voluto. E adesso potrei aiutarla.<br>Ho già parlato di lei a Bela<br>e voglio presentarla al nostro direttore del casting.<br>Ho un’idea per un altro film.<br>Sapete dirmi dov’è? Non sono riuscito a trovarla<br>sull’elenco del telefono. |  
+| [[characters/julia\|JULIA]] | Non sull’elenco,<br><br><br>né su nessun elenco. Puoi dirglielo adesso, Alex. |  
+| [[characters/lavinia\|LAVINIA]] | Che cosa vuol dire [[characters/julia\|Julia]]? |  
+| ALEX | Stavo per parlare di lei<br><br><br>quando sei entrato, Peter. Temo che tu non possa avere [[characters/celia\|Celia]]. |  
+| PETER | Oh… È sposata? |  
+| ALEX | Non sposata, ma morta. |  
+| [[characters/lavinia\|LAVINIA]] | [[characters/celia\|Celia]]? |  
+| ALEX | Morta. |  
+| PETER | Morta. Questo toglie il [[characters/bottom\|fondo]] a ogni cosa. |  
+| EDWARD | [[characters/celia\|Celia]] morta. |  
+| [[characters/julia\|JULIA]] | Faresti meglio a raccontarglielo, Alex,<br><br><br>quello che riporti da Kinkanja. |  
+| [[characters/lavinia\|LAVINIA]] | Kinkanja? E che cosa faceva [[characters/celia\|Celia]] a Kinkanja?<br><br><br>Avevamo saputo che era entrata in qualche ordine infermieristico… |  
+| ALEX | Era entrata in un ordine. Un ordine molto austero.<br><br><br>E poiché aveva già esperienza di assistenza ai malati… |  
+| [[characters/lavinia\|LAVINIA]] | Sì, era stata una V.A.D. Me ne ricordo. |  
+| ALEX | Fu destinata a Kinkanja,<br><br><br>dove ci sono varie malattie endemiche<br>oltre, naturalmente, a quelle portate dagli europei,<br>e dove le condizioni favoriscono la peste. |  
+| EDWARD | Continua. |  
+| ALEX | Pare che fossero in tre —<br><br><br>tre suore in quella stazione, in un villaggio cristiano;<br>e metà degli indigeni moriva di pestilenza.<br>Devono aver lavorato senza tregua per settimane. |  
+| EDWARD | E poi? |  
+| ALEX | E poi scoppiò l’insurrezione<br><br><br>fra i pagani, quella di cui vi parlavo.<br>Ne erano al corrente, ma non vollero abbandonare gli indigeni morenti.<br>Alla fine due di loro riuscirono a fuggire:<br>una morì nella giungla, e l’altra<br>non sarà mai più in grado di condurre una vita normale.<br>Ma [[characters/celia-coplestone\|Celia Coplestone]] fu catturata.<br>Quando i nostri arrivarono, interrogarono gli abitanti del villaggio —<br>quelli sopravvissuti. E allora trovarono il suo [[concepts/body\|corpo]],<br>o almeno ne trovarono le tracce. |  
+| EDWARD | Ma prima di allora… |  
+| ALEX | Era difficile dirlo.<br><br><br>Ma da quel che sappiamo delle usanze del luogo<br>parrebbe che sia stata crocifissa<br>vicinissimo a un [[motifs/hill\|formicaio]]. |  
+| [[characters/lavinia\|LAVINIA]] | Ma [[characters/celia\|Celia]]!… Proprio lei, fra tutti… |  
+| EDWARD | E tutto per una manciata di indigeni appestati<br><br><br>che sarebbero morti comunque. |  
+| ALEX | Sì, i malati morirono comunque;<br><br><br>essendo infetti di peste, non furono mangiati. |  
+| [[characters/lavinia\|LAVINIA]] | Oh, Edward, mi dispiace tanto — che cosa fiacca da dire!<br><br><br>Ma tu capisci che cosa intendo. |  
+| EDWARD | E tu sai che cosa sto pensando. |  
+| PETER | Io non capisco affatto. Ma d’altronde sono stato via<br><br><br>due anni, e non so che cosa sia successo<br>a [[characters/celia\|Celia]], in questi due anni.<br>Due anni! A pensare a [[characters/celia\|Celia]]. |  
+| EDWARD | È lo spreco che mi indigna. |  
+| PETER | Tu ne sai più di me:<br><br><br>per me è tutto il resto a essere uno spreco.<br>Due anni! Ed era tutto uno sbaglio.<br>[[characters/julia\|Julia]]! Perché non dici niente? |  
+| [[characters/julia\|JULIA]] | Le hai dato quei due anni, come meglio potevi. |  
+| PETER | Quando ha… intrapreso questa strada? |  
+| [[characters/julia\|JULIA]] | Due anni fa. |  
+| PETER | Due anni fa! Ho cercato di dimenticarla,<br><br><br>finché non ho cominciato a credermi un successo<br>e ad avere un po’ più di fiducia in [[concepts/self\|me stesso]];<br>e allora ho ricominciato a pensare a lei. Sempre di più.<br>All’inizio non volevo sapere nulla di [[characters/celia\|Celia]]<br>e perciò non chiedevo mai. Poi volevo sapere<br>e non osavo chiedere. Mi ci è voluto tutto il mio [[concepts/courage\|coraggio]]<br>per chiedervi di lei poco fa; ma non avrei mai immaginato<br>una cosa simile. Suppongo di non averla conosciuta,<br>di non averla capita. Non capisco niente. |  
+| REILLY | Lei capisce il suo métier, signor Quilpe —<br><br><br>che è il massimo che nessuno di noi possa chiedere. |  
+| PETER | E che métier! Ho cercato di crederci<br><br><br>per poter credere in me stesso.<br>Pensavo di avere idee capaci di fare una rivoluzione<br>nel cinema, che nessuno avrebbe potuto ignorare —<br>ed eccomi qua, a girare un film di second’ordine!<br>Ma pensavo che avrebbe portato a qualcosa di meglio,<br>e sembrava possibile, finché [[characters/celia\|Celia]] era viva.<br>Lo volevo, ci credevo, per [[characters/celia\|Celia]].<br>E, certo, volevo fare qualcosa per [[characters/celia\|Celia]] —<br>ma quello che contava era che [[characters/celia\|Celia]] fosse viva.<br>E adesso non vale più niente. [[characters/celia\|Celia]] non è viva. |  
+| [[characters/lavinia\|LAVINIA]] | No, non è tutto senza valore, Peter. Hai appena cominciato.<br><br><br>Voglio dire, questo ti porta soltanto al punto<br>da cui devi cominciare. Dicevi poco fa<br><br><br>di non aver mai conosciuto [[characters/celia\|Celia]]. Nessuno di noi la conosceva.<br>Ciò di cui hai vissuto è un’immagine di [[characters/celia\|Celia]]<br>che ti sei costruito da te, per i tuoi bisogni.<br>Peter, ti prego, non pensare che io sia cattiva… |  
+| PETER | No, non penso che tu sia cattiva, [[characters/lavinia\|Lavinia]];<br><br><br>e so che hai ragione. |  
+| [[characters/lavinia\|LAVINIA]] | E forse quello che ho detto<br><br><br>sembrerà meno crudele se riuscirò a farti capire<br>che in realtà parlavo di me stessa. |  
+| EDWARD | [[characters/lavinia\|Lavinia]] ha ragione. È da qui che si parte.<br><br><br>Se adesso scopri, Peter, cose su te stesso<br>che non ti va di guardare in faccia: [[motifs/well\|beh]], ricorda soltanto<br>che certi uomini devono imparare cose ben peggiori<br>su se stessi, e le imparano più tardi,<br>quando è più difficile riprendersi e ricominciare.<br>Per te non è così duro. Tu sei buono per natura. |  
+| PETER | Scusatemi. Non credo di aver afferrato<br><br><br>tutto quello che avete detto. Ma vi sono grato lo stesso.<br>Sapete, per tutto il [[motifs/time\|tempo]] che avete parlato,<br>un solo pensiero mi girava e rigirava in testa —<br>che mi sono interessato soltanto a me stesso:<br>e questo non basta per [[characters/celia\|Celia]]. |  
+| [[characters/julia\|JULIA]] | Devi aver imparato a guardare la gente, Peter,<br><br><br>quando la guardi con l’occhio del cinema:<br>cioè quando non sei preso da te stesso<br>ma sei soltanto un occhio. Un giorno arriverai a pensare a [[characters/celia\|Celia]]<br>così. E allora la capirai<br>e sarai riconciliato, e felice nel pensiero di lei. |  
+| [[characters/lavinia\|LAVINIA]] | Sir Henry, c’è una cosa che voglio dirle.<br><br><br>Mentre Alex ci raccontava che cosa era accaduto a [[characters/celia\|Celia]]<br>io guardavo il suo volto. E dall’espressione sembrava<br>che il modo in cui è morta non la turbasse,<br>né il fatto che sia morta perché non ha voluto abbandonare<br>pochi indigeni morenti. |  
+| REILLY | Chi lo sa, signora Chamberlayne,<br><br><br>quale differenza abbia fatto per gli indigeni che morivano<br>o per lo stato d’animo in cui sono morti? |  
+| [[characters/lavinia\|LAVINIA]] | Sono disposta a concederlo. Quello che mi ha colpita, però,<br><br><br>è che il suo volto non mostrava né sorpresa né orrore<br>per il modo in cui è morta. Non so se la conoscesse.<br>Sospetto di sì. In ogni caso sapeva di lei.<br><br><br>Eppure mi è parso che la sua espressione fosse di… soddisfazione! |  
+| REILLY | Signora Chamberlayne, o io sono molto trasparente<br><br><br>oppure lei è molto perspicace. |  
+| [[characters/julia\|JULIA]] | Oh, Henry!<br><br><br>[[characters/lavinia\|Lavinia]] è molto più osservatrice di quanto lei creda.<br>Credo che l’abbia messa con le spalle al muro. |  
+| REILLY | Descrive la situazione con esattezza, [[characters/julia\|Julia]].<br><br><br>Le dispiace se cito dei versi, signora Chamberlayne? |  
+| [[characters/lavinia\|LAVINIA]] | Oh no, mi [[motifs/love\|piacerebbe]] molto sentirla recitare dei versi… |  
+| [[characters/julia\|JULIA]] | Ha segnato un punto, Henry. |  
+| [[characters/lavinia\|LAVINIA]] | …se rispondono alla mia domanda. |  
+| REILLY | Prima che Babilonia fosse [[motifs/dust\|polvere]]<br>il mago Zoroastro, o mia morta [[archetypes/child\|creatura]],<br>incontrò la propria immagine che passeggiava nel [[motifs/garden\|giardino]].<br>Quell’apparizione, solo fra gli uomini, egli vide.<br>Ché sappi: vi sono due mondi, di vita e di [[motifs/death\|morte]]:<br>l’uno è quello che tu contempli; ma l’altro<br>sta sotto la [[motifs/grave\|tomba]], dove abitano<br>le ombre di tutte le forme che pensano e vivono<br>finché la [[motifs/death\|morte]] le unisca e più non si separino!<br>Quando incontrai per la prima volta la signorina Coplestone, in questa stanza,<br>vidi l’immagine, ritta dietro la sua sedia,<br>di una [[characters/celia-coplestone\|Celia Coplestone]] il cui volto mostrava lo stupore<br>dei primi cinque minuti dopo una [[motifs/death\|morte]] violenta.<br>Se questo mette a dura prova la sua credulità, signora Chamberlayne,<br>le chiedo soltanto di accogliere l’ipotesi<br>che un’intuizione improvvisa, in certe menti,<br>tenda a esprimersi subito in un’immagine.<br>A me capita, a volte. Era dunque evidente<br>che avevo davanti una donna condannata a [[motifs/death\|morte]].<br>Quello era il suo destino. L’unica domanda,<br>allora, era: che genere di [[motifs/death\|morte]]? Non potevo saperlo;<br><br><br>perché spettava a lei scegliere la via della vita<br>che conduce alla [[motifs/death\|morte]] e, senza conoscerne la fine,<br>scegliere pure la forma della [[motifs/death\|morte]]. Sappiamo quale [[motifs/death\|morte]] ha scelto.<br>Io non sapevo che sarebbe morta in questo modo;<br>lei non lo sapeva. Perciò tutto quello che potevo fare<br><br><br>era guidarla nella via della preparazione.<br>Quella via, che lei accettò, portava a questa [[motifs/death\|morte]].<br>E se questa non è una [[motifs/death\|morte]] felice, quale [[motifs/death\|morte]] lo è? |  
+| EDWARD | Vuol dire che, avendo scelto questa forma di [[motifs/death\|morte]],<br><br><br>non ha sofferto come soffrono le persone comuni? |  
+| REILLY | Non è affatto ciò che intendo. Semmai il contrario.<br><br><br>Direi che ha sofferto tutto quello che dovremmo soffrire<br>in [[concepts/fear\|paura]] e [[motifs/pain\|dolore]] e ribrezzo — tutto questo insieme —<br>e nella riluttanza del [[concepts/body\|corpo]] a diventare una cosa.<br>Direi che ha sofferto di più, perché più consapevole<br>di noi altri. Ha pagato il prezzo più alto<br>in [[concepts/suffering\|sofferenza]]. Anche questo fa parte del disegno. |  
+| [[characters/lavinia\|LAVINIA]] | Forse aveva attraversato un’agonia più grande, prima.<br><br><br>Voglio dire — non so nulla dei suoi ultimi due anni. |  
+| REILLY | Questo mostra una certa penetrazione da parte sua, signora Chamberlayne;<br><br><br>ma un’esperienza simile si può soltanto adombrare<br>in miti e immagini. Per parlarne<br>ricorriamo alle tenebre, ai labirinti, ai terrori del Minotauro.<br>Ma quel mondo non prende il posto di questo.<br>Immagina forse che il Santo nel [[motifs/desert\|deserto]],<br>col male spirituale sempre alle spalle,<br>soffrisse meno di noi per la fame, l’umidità, le intemperie,<br>i disturbi intestinali e la [[concepts/fear\|paura]] dei leoni,<br>il freddo della [[motifs/night\|notte]] e la calura del giorno? |  
+| EDWARD | Ma se questo era giusto — se era giusto per [[characters/celia\|Celia]] —<br><br><br>allora dev’esserci qualcos’altro di terribilmente sbagliato,<br>e noi altri siamo in qualche modo implicati in quello sbaglio.<br>Dovrei parlare solo per me. Sono certo di esserlo io. |  
+| REILLY | Mi lasci liberare la sua mente da un ostacolo:<br><br><br>deve cercare di staccarsi da ciò che ancora sente<br>come una sua responsabilità. |  
+| EDWARD | Non riesco a evitare la sensazione<br><br><br>che, in qualche modo, la mia responsabilità<br>sia maggiore di quella di un branco di selvaggi mezzi impazziti. |  
+| [[characters/lavinia\|LAVINIA]] | Oh, Edward, lo sapevo! Sapevo che cosa stavi pensando!<br><br><br>Non ti aiuta sapere che anch’io mi sento colpevole? |  
+| REILLY | Se fossimo tutti giudicati secondo le conseguenze<br><br><br>di ogni nostra parola e azione, al di là dell’intenzione<br>e al di là della nostra limitata comprensione<br>di noi stessi e degli altri, saremmo tutti condannati.<br>Signora Chamberlayne, spesso devo prendere una decisione<br>che può significare guarigione o rovina per un paziente —<br>e a volte ho preso la decisione sbagliata.<br>Quanto alla signorina Coplestone: poiché ritenete la sua [[motifs/death\|morte]] uno spreco<br>date la colpa a voi stessi, e poiché date la colpa a voi stessi<br>pensate che la sua vita sia stata sprecata. È stata trionfale.<br>Ma io non sono più responsabile del trionfo —<br>e sono responsabile della sua [[motifs/death\|morte]] tanto quanto voi. |  
+| [[characters/lavinia\|LAVINIA]] | Eppure so che continuerò a incolparmi<br><br><br>di essere stata così cattiva con lei… così maligna.<br>Continuerò a vederla nel momento<br>in cui ci disse addio, due anni fa. |  
+| EDWARD | La tua responsabilità è nulla rispetto alla mia, [[characters/lavinia\|Lavinia]]. |  
+| [[characters/lavinia\|LAVINIA]] | Non ne sono così sicura. Se avessi capito te,<br><br><br>forse non avrei frainteso [[characters/celia\|Celia]]. |  
+| REILLY | Dovrete convivere con questi ricordi e trasformarli<br><br><br>in qualcosa di nuovo. Solo accettando<br>il passato ne muterete il significato. |  
+| [[characters/julia\|JULIA]] | Henry, credo che sia [[motifs/time\|tempo]] che dica qualcosa anch’io:<br><br><br>ognuno fa una scelta, dell’uno o dell’altro genere,<br>e poi deve accettarne le conseguenze. [[characters/celia\|Celia]] scelse<br>una via la cui conseguenza fu Kinkanja.<br>Peter ha scelto una via che lo porta a Boltwell:<br>e là deve andare… |  
+| PETER | Capisco che cosa vuoi dire.<br><br><br>Vorrei non doverlo fare. Ma la macchina starà aspettando,<br>e gli esperti — quasi me n’ero dimenticato.<br>Mi rendo conto che non posso tirarmene fuori —<br>e che altro potrei fare? |  
+| ALEX | È il tuo film.<br><br><br>E so che Bela se ne aspetta grandi cose. |  
+| PETER | Allora vado. |  
+| EDWARD | Ti rivedremo, Peter,<br><br><br>prima che tu lasci l’Inghilterra? |  
+| [[characters/lavinia\|LAVINIA]] | Cerca di venire a trovarci.<br><br><br>Sai, credo che farebbe bene a tutti noi —<br>a te e a me e a Edward… parlare di [[characters/celia\|Celia]]. |  
+| PETER | Grazie mille. Ma non questa [[motifs/time\|volta]] —<br><br><br>proprio non riuscirò. |  
+| EDWARD | Ma alla tua prossima visita? |  
+| PETER | La prossima [[motifs/time\|volta]] che vengo in Inghilterra, ve lo prometto.<br><br><br>Ho davvero una gran voglia di rivedervi entrambi.<br>Addio, [[characters/julia\|Julia]]. Addio, Alex. Addio, Sir Henry.             [Esce] |  
+| [[characters/julia\|JULIA]] | …E ora la conseguenza della scelta dei Chamberlayne<br><br><br>è un cocktail party. Devono essere pronti ad affrontarlo.<br>I loro ospiti possono arrivare da un momento all’altro. |  
+| REILLY | [[characters/julia\|Julia]], lei ha ragione. Ed è giusto anche<br><br><br>che i Chamberlayne diano ora un ricevimento. |  
+| [[characters/lavinia\|LAVINIA]] | E io sto pensando, da questi ultimi cinque minuti,<br><br><br>a come potrò affrontare i miei ospiti. Vorrei che fosse già finito.<br>Voglio dire… sono contenta che siate venuti… sono contenta che Alex ce l’abbia detto…<br>e Peter doveva saperlo… |  
+| EDWARD | Adesso credo di capire… |  
+| [[characters/lavinia\|LAVINIA]] | Allora [[concepts/hope\|spero]] che me lo spiegherai! |  
+| EDWARD | Oh, non è molto<br><br><br>quello che capisco finora! Ma Sir Henry ha detto,<br>mi pare, che ogni momento è un nuovo inizio;<br>e [[characters/julia\|Julia]], che vivere è soltanto continuare;<br>e in qualche modo le due idee sembrano combaciare. |  
+| [[characters/lavinia\|LAVINIA]] | Ma lo stesso… non ho voglia di vedere questa gente. |  
+| REILLY | È il fardello che le è stato assegnato. E quanto al ricevimento,<br><br><br>sono certo che sarà un successo. |  
+| [[characters/julia\|JULIA]] | E io credo, Henry,<br><br><br>che dovremmo andarcene prima che il ricevimento cominci.<br>Se la caveranno meglio senza di noi. Anche tu, Alex. |  
+| [[characters/lavinia\|LAVINIA]] | Non vogliamo che ve ne andiate! |  
+| ALEX | Abbiamo un altro impegno. |  
+| REILLY | E in quell’occasione non sarò inatteso. |  
+| [[characters/julia\|JULIA]] | Su, Henry. Su, Alex. Andiamo dai Gunning. |  
+| *(didascalia)* | [Escono [[characters/julia\|JULIA]], REILLY e ALEX] |  
+| [[characters/lavinia\|LAVINIA]] | Edward, come sto? |  
+| EDWARD | Molto [[motifs/well\|bene]].<br><br><br>Direi quasi: mai stata meglio. Ma stai sempre al tuo meglio. |  
+| [[characters/lavinia\|LAVINIA]] | Oh, Edward, così rovini tutto. Nessuna donna può credere<br><br><br>di essere sempre al suo meglio. Sei piuttosto trasparente,<br>sai, quando cerchi di tirarmi su.<br>Dire che sto sempre al meglio può solo voler dire il peggio. |  
+| EDWARD | Non imparerò mai a fare un complimento. |  
+| [[characters/lavinia\|LAVINIA]] | Quello che avresti dovuto fare era ammirare il mio vestito. |  
+| EDWARD | Ma ti ho già detto quanto mi piace. |  
+| [[characters/lavinia\|LAVINIA]] | Ma da allora sono successe tante cose. E poi,<br><br><br>a volte fa piacere sentirsi fare due volte lo stesso complimento. |  
+| EDWARD | E adesso al ricevimento. |  
+| [[characters/lavinia\|LAVINIA]] | Adesso al ricevimento. |  
+| EDWARD | Sarà presto finito. |  
+| [[characters/lavinia\|LAVINIA]] | Vorrei che cominciasse. |  
+| EDWARD | Ecco il campanello. |  
+| [[characters/lavinia\|LAVINIA]] | Oh, che gioia. È cominciato.<br><br><br>SIPARIO<br>La melodia di One-eyed Riley (pagina 137), trascritta sotto dettatura dell’autore dalla signorina Mary Trevelyan.<br><br><br>Gli interpreti della prima rappresentazione<br>al<br>Festival di Edimburgo,<br>22–27 agosto 1949<br><br><br>Regia di E. MARTIN BROWNE<br>Scene di ANTHONY HOLLAND<br>Produzione di SHEREK PLAYERS LTD.<br>in collaborazione con THE ARTS COUNCIL<br><br>IL SEGRETARIO PRIVATO<br>Personaggi<br>[[characters/sir-claude-mulhammer\|SIR CLAUDE MULHAMMER]]<br>EGGERSON<br>[[characters/colby-simpkins\|COLBY SIMPKINS]]<br>B. KAGHAN<br>LUCASTA ANGEL<br>LADY ELIZABETH MULHAMMER |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1" data-title="The Cocktail Party — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/fool,motif/desire,motif/home,motif/leaves,motif/love,motif/machine,motif/memory,motif/night,motif/secrets,motif/time,motif/water,motif/well,concept/ambition,concept/body,concept/courage,concept/doubt,concept/hope,concept/mercy,concept/solitude,concept/truth,concept/wonder,form/novel,setting/castle,setting/denmark,setting/london,setting/oxford,character/bottom,character/celia,character/celia_coplestone,character/edward_chamberlayne,character/julia,character/lavinia,character/nurse"></span>

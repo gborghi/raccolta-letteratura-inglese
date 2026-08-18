@@ -16,10 +16,10 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#0741_dramas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
+- [[testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems#amas_vitallest_expression_is_the_common_day|741. Drama's Vitallest Expression is the Common Day (Dickinson)]]
 - [[works/an-ideal-husband-(wilde)|An Ideal Husband (Wilde)]]
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#320_broadway|Broadway (Whitman)]]
+- [[works/broadway-(whitman)|Broadway (Whitman)]]
 - [[works/choruses-from-‘the-rock’-1934-(eliot)|CHORUSES FROM ‘THE ROCK’ 1934 (Eliot)]]
 - [[works/cockneys-(chesterton)|cockneys (Chesterton)]]
 - [[works/improbable-story-(chesterton)|improbable story (Chesterton)]]
@@ -29,9 +29,9 @@ tags:
 - [[works/oldsong-(chesterton)|oldsong (Chesterton)]]
 - [[works/our-mutual-friend-(dickens)|Our Mutual Friend (Dickens)]]
 - [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#212_sparkles_from_the_wheel|Sparkles from the Wheel (Whitman)]]
-- [[testi/coleridge/atomized/satire-of-society-epigram-satire#188_talleyrand_to_lord_grenville|TALLEYRAND TO LORD GRENVILLE (Coleridge)]]
+- [[works/sparkles-from-the-wheel-(whitman)|Sparkles from the Wheel (Whitman)]]
+- [[works/talleyrand-to-lord-grenville-(coleridge)|TALLEYRAND TO LORD GRENVILLE (Coleridge)]]
 - [[works/the-angry-street-(chesterton)|The Angry Street (Chesterton)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#141_to_the_states_to_identify_the_16th_17th_or_18th_presidentiad|To The States To Identify the 16th, 17th, or 18th Presidentiad (Whitman)]]
+- [[works/to-the-states-to-identify-the-16th,-17th,-or-18th-presidentiad-(whitman)|To The States To Identify the 16th, 17th, or 18th Presidentiad (Whitman)]]
 
 </div>

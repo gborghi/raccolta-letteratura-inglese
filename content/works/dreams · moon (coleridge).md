@@ -37,18 +37,18 @@ tags:
 
 Raccolta tematica di 12 componimenti di Samuel Taylor Coleridge.
 
-- [[testi/coleridge/atomized/dreams-moon#214_a_day-dream|A DAY-DREAM]]
-- [[testi/coleridge/atomized/dreams-moon#441_des_knaben_wunderhorn|DES KNABEN WUNDERHORN]]
-- [[testi/coleridge/atomized/dreams-moon#347_epitaph_on_himself|EPITAPH: ON HIMSELF]]
-- [[testi/coleridge/atomized/dreams-moon#344_on_the_curious_circumstance|ON THE CURIOUS CIRCUMSTANCE]]
-- [[testi/coleridge/atomized/dreams-moon#382_over_my_cottage|OVER MY COTTAGE]]
-- [[testi/coleridge/atomized/dreams-moon#223_phantom|PHANTOM]]
-- [[testi/coleridge/atomized/dreams-moon#293_phantom_or_fact_a_dialogue_in_verse|PHANTOM OR FACT: A DIALOGUE IN VERSE]]
-- [[testi/coleridge/atomized/dreams-moon#173_something_childish_but_very_natural|SOMETHING CHILDISH, BUT VERY NATURAL]]
-- [[testi/coleridge/atomized/dreams-moon#003_sonnet_to_the_autumnal_moon|SONNET: TO THE AUTUMNAL MOON]]
-- [[testi/coleridge/atomized/dreams-moon#216_the_day-dream_from_an_emigrant_to_his_absent_wife|THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE]]
-- [[testi/coleridge/atomized/dreams-moon#250_the_night-scene|THE NIGHT-SCENE]]
-- [[testi/coleridge/atomized/dreams-moon#015_to_the_evening_star|TO THE EVENING STAR]]
+- [[works/a-day-dream-(coleridge)|A DAY-DREAM]]
+- [[works/des-knaben-wunderhorn-(coleridge)|DES KNABEN WUNDERHORN]]
+- [[works/epitaph-on-himself-(coleridge)|EPITAPH: ON HIMSELF]]
+- [[works/on-the-curious-circumstance-(coleridge)|ON THE CURIOUS CIRCUMSTANCE]]
+- [[works/over-my-cottage-(coleridge)|OVER MY COTTAGE]]
+- [[works/phantom-(coleridge)|PHANTOM]]
+- [[works/phantom-or-fact-a-dialogue-in-verse-(coleridge)|PHANTOM OR FACT: A DIALOGUE IN VERSE]]
+- [[works/something-childish,-but-very-natural-(coleridge)|SOMETHING CHILDISH, BUT VERY NATURAL]]
+- [[works/sonnet-to-the-autumnal-moon-(coleridge)|SONNET: TO THE AUTUMNAL MOON]]
+- [[works/the-day-dream-from-an-emigrant-to-his-absent-wife-(coleridge)|THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE]]
+- [[works/the-night-scene-(coleridge)|THE NIGHT-SCENE]]
+- [[works/to-the-evening-star-(coleridge)|TO THE EVENING STAR]]
 
 ## Testo / Text
 

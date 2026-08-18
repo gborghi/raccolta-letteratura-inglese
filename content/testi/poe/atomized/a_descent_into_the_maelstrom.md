@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="a_descent_into_the_maelstrom" data-title="A Descent Into the Maelstrom" data-chapter="" data-kind="intro"></span>
 
-# [[works/a-descent-into-the-maelstrom-(poe)|A Descent Into the Maelstrom]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

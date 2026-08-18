@@ -18,8 +18,8 @@ tags:
 - [[works/incredulity-(chesterton)|Incredulity (Chesterton)]]
 - [[works/whatisawinamerica-(chesterton)|WhatISawInAmerica (Chesterton)]]
 - [[works/wild-ducks-(chesterton)|Wild Ducks (Chesterton)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#320_broadway|Broadway (Whitman)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#260_mannahatta|Mannahatta (Whitman)]]
+- [[works/broadway-(whitman)|Broadway (Whitman)]]
+- [[works/mannahatta-(whitman)|Mannahatta (Whitman)]]
 - [[works/the-hedge-and-the-horse-(belloc)|The Hedge and the Horse (Belloc)]]
 
 </div>

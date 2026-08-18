@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/satire-of-society-epigram-satire" data-author="Eliot" data-workhref="works/satire-of-society-·-epigram-·-satire-(eliot)"></div>
 
 
-<span class="atom-split" data-atom="007_the_boston_evening_transcript" data-title="The Boston Evening Transcript" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/time,concept/satire_of_society,form/epigram,histref/new_england,setting/new_england,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+The Boston Evening Transcript · Cousin Nancy · Mr. Apollinax · A Cooking Egg · Le Directeur · Mélange Adultère de Tout · The Hippopotamus · Coriolan · Landscapes · Defence of the Islands · Y, Z
+
+
+
+
+<span class="atom-split" data-atom="007_the_boston_evening_transcript" data-title="The Boston Evening Transcript" data-chapter="" data-kind="intro"></span>
 
 
 The Boston Evening Transcript  
@@ -41,7 +46,7 @@ e dico: ‘Cugina Harriet, ecco il Boston Evening Transcript.’
 
 
 
-<span class="atom-split" data-atom="009_cousin_nancy" data-title="Cousin Nancy" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/critique_of_progress,concept/faith_and_doubt,form/epigram,histref/new_england,setting/new_england,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="009_cousin_nancy" data-title="Cousin Nancy" data-chapter="" data-kind="intro"></span>
 
 
 Cousin [[characters/nancy|Nancy]]  
@@ -79,7 +84,7 @@ l’esercito dell’inalterabile legge.
 
 
 
-<span class="atom-split" data-atom="010_mr_apollinax" data-title="Mr. Apollinax" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/desire,concept/satire_of_society,concept/the_grotesque,histref/greek_mythology,histref/new_england,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="010_mr_apollinax" data-title="Mr. Apollinax" data-chapter="" data-kind="intro"></span>
 
 
 Mr. Apollinax
@@ -137,7 +142,7 @@ ricordo una fetta di limone, e un amaretto morsicato.
 
 
 
-<span class="atom-split" data-atom="018_a_cooking_egg" data-title="A Cooking Egg" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/food_feasting,concept/disillusionment,concept/nostalgia,concept/satire_of_society,concept/innocence_and_experience,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="018_a_cooking_egg" data-title="A Cooking Egg" data-chapter="" data-kind="intro"></span>
 
 
 A Cooking Egg  
@@ -231,7 +236,7 @@ si accasciano in cento A.B.C.
 
 
 
-<span class="atom-split" data-atom="019_le_directeur" data-title="Le Directeur" data-chapter="" data-kind="intro" data-tags="motif/river,concept/satire_of_society,concept/poverty,concept/social_injustice,form/satire,setting/london,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="019_le_directeur" data-title="Le Directeur" data-chapter="" data-kind="intro"></span>
 
 
 Le Directeur  
@@ -287,7 +292,7 @@ e crepa d’amore.
 
 
 
-<span class="atom-split" data-atom="020_mélange_adultère_de_tout" data-title="Mélange Adultère de Tout" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,archetype/outcast_wanderer,motif/masks_disguise,concept/identity,concept/the_artist_and_society,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="020_mélange_adultère_de_tout" data-title="Mélange Adultère de Tout" data-chapter="" data-kind="intro"></span>
 
 
 Mélange Adultère de Tout  
@@ -379,7 +384,7 @@ nelle sue pietre frananti la forma precisa di Bisanzio.
 
 
 
-<span class="atom-split" data-atom="022_the_hippopotamus" data-title="The Hippopotamus" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/lamb,concept/satire_of_society,concept/faith_and_doubt,form/satire,histref/christianity,histref/the_bible,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="022_the_hippopotamus" data-title="The Hippopotamus" data-chapter="" data-kind="intro"></span>
 
 
 The Hippopotamus  
@@ -467,7 +472,7 @@ avvolta nell’antica nebbia miasmatica.
 
 
 
-<span class="atom-split" data-atom="050_coriolan" data-title="Coriolan" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,topos/sic_transit_gloria_mundi,archetype/tyrant,motif/dust,motif/swords_weapons,motif/crown,motif/horse,concept/power_and_corruption,concept/spiritual_emptiness,concept/satire_of_society,concept/war_and_its_cost,form/verse_drama,form/fragment,histref/ancient_rome,setting/ancient_rome,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="050_coriolan" data-title="Coriolan" data-chapter="" data-kind="intro"></span>
 
 
 Coriolan
@@ -739,7 +744,7 @@ DIMETTITI DIMETTITI DIMETTITI
 
 
 
-<span class="atom-split" data-atom="055_landscapes" data-title="Landscapes" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/nature,motif/birds,motif/seasons,motif/river,motif/decay,concept/memory_and_time,concept/faith,form/lyric,histref/new_england,setting/new_england,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="055_landscapes" data-title="Landscapes" data-chapter="" data-kind="intro"></span>
 
 
 Landscapes  
@@ -885,7 +890,7 @@ La chiacchierata è finita.
 
 
 
-<span class="atom-split" data-atom="074_defence_of_the_islands" data-title="Defence of the Islands" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/death,motif/the_sea,concept/war_and_its_cost,concept/nationalism_and_patriotism,concept/heroism,form/free_verse,histref/the_first_world_war,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="074_defence_of_the_islands" data-title="Defence of the Islands" data-chapter="" data-kind="intro"></span>
 
 
 Defence of the Islands  
@@ -947,7 +952,7 @@ le nostre posizioni, in obbedienza agli ordini.
 
 
 
-<span class="atom-split" data-atom="124_y_z" data-title="Y, Z" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/animals,concept/the_artist_and_society,form/nonfiction,form/biography,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
+<span class="atom-split" data-atom="124_y_z" data-title="Y, Z" data-chapter="" data-kind="intro"></span>
 
 
 You ought to know Mr. Mistoffelees! 1

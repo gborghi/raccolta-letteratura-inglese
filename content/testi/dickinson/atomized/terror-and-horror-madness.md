@@ -11,6 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/terror-and-horror-madness" data-author="Dickinson" data-workhref="works/terror-and-horror-·-madness-(dickinson)"></div>
 
 
+298. Alone, I cannot be — · 399. A House upon the Height — · 410. The first Day's Night had come — · 435. Much Madness is divinest Sense — · 512. The Soul has Bandaged moments — · 532. I tried to think a lonelier Thing · 556. The Brain, within its Groove · 565. One Anguish — in a Crowd — · 590. Did you ever stand in a Cavern's Mouth — · 609. I Years had been from Home · 670. One need not be a Chamber — to be Haunted — · 679. Conscious am I in my Chamber, · 683. The Soul unto itself · 1062. He scanned it — staggered — · 1225. Its Hour with itself · 1284. Had we our senses · 1400. What mystery pervades a well! · 1497. Facts by our side are never sudden · 1509. Mine Enemy is growing old — · 1727. If ever the lid gets off my head
+
+
+
+
 <span class="atom-split" data-atom="0298_alone_i_cannot_be" data-title="298. Alone, I cannot be —" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/ghosts,concept/imagination,concept/self_and_soul,concept/alienation,form/lyric,cluster/terror_and_horror,cluster/madness"></span>
 
 

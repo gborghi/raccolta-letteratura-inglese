@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mr. Thomas Wentworth Higginson](/testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight#l0268_mr_thomas_wentworth_higginson)
+- [To Mr. Thomas Wentworth Higginson](/testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--letters#thomas_wentworth_higginson)
 

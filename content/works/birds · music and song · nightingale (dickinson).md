@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. Todd](/testi/dickinson/atomized/birds-music-and-song-nightingale#l0528_mrs_todd)
+- [To Mrs. Todd](/testi/dickinson/atomized/birds-music-and-song-nightingale--letters#_todd)
 

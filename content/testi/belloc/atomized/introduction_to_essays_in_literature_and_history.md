@@ -183,7 +183,7 @@ The contrary might be objected by some foreign observer, or by some one who had 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Saggi di letteratura e storia di James Anthony Froude
+# Saggi di letteratura e storia di James Anthony Froude
 
 Introduzione
 

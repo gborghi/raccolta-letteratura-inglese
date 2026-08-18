@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_literary_life_of_thingum_bob_esq" data-title="The Literary Life of Thingum Bob, Esq" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-literary-life-of-thingum-bob,-esq-(poe)|The Literary Life of Thingum Bob, Esq]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

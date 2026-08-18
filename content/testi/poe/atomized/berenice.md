@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="berenice" data-title="Berenice" data-chapter="" data-kind="intro"></span>
 
-# [[works/berenice-(poe)|Berenice]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

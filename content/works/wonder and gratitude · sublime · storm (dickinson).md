@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. Edward Tuckerman, January, 1884](/testi/dickinson/atomized/wonder-and-gratitude-sublime-storm#l0410_mrs_edward_tuckerman_january_1884)
+- [To Mrs. Edward Tuckerman, January, 1884](/testi/dickinson/atomized/wonder-and-gratitude-sublime-storm--letters#_edward_tuckerman_january_1884)
 

@@ -14,12 +14,12 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#002_calidore|CALIDORE (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#004_on_receiving_a_curious_shell_and_a_copy_of_verses_from_the_same_ladies|ON RECEIVING A CURIOUS SHELL, AND A COPY OF VERSES, FROM THE SAME LADIES (Keats)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#001_specimen_of_an_induction_to_a_poem|SPECIMEN OF AN INDUCTION TO A POEM (Keats)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#031_the_eve_of_st_agnes|THE EVE OF ST. AGNES (Keats)]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#005_to|TO (Keats)]]
-- [[testi/keats/atomized/imagination-fragment-heroic-couplet#010_to_my_brother_george|TO MY BROTHER GEORGE (Keats)]]
+- [[works/calidore-(keats)|CALIDORE (Keats)]]
+- [[works/on-receiving-a-curious-shell,-and-a-copy-of-verses,-from-the-same-ladies-(keats)|ON RECEIVING A CURIOUS SHELL, AND A COPY OF VERSES, FROM THE SAME LADIES (Keats)]]
+- [[works/specimen-of-an-induction-to-a-poem-(keats)|SPECIMEN OF AN INDUCTION TO A POEM (Keats)]]
+- [[works/the-eve-of-st.-agnes-(keats)|THE EVE OF ST. AGNES (Keats)]]
+- [[works/to-(keats)|TO (Keats)]]
+- [[works/to-my-brother-george-(keats)|TO MY BROTHER GEORGE (Keats)]]
 - [[works/sir-nigel-(conan-doyle)|Sir Nigel (Conan Doyle)]]
 - [[works/the-romance-of-tristan-and-iseult-(belloc)|The Romance of Tristan and Iseult (Belloc)]]
 

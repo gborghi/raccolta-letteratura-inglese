@@ -32,7 +32,7 @@ tags:
 - [[works/intro-pilgrims-progress-(chesterton)|intro-pilgrims-progress (Chesterton)]]
 - [[works/to-frances-(chesterton)|to-frances (Chesterton)]]
 - [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#124_y_z|Y, Z (Eliot)]]
+- [[works/y,-z-(eliot)|Y, Z (Eliot)]]
 - [[works/pen,-pencil-and-poison-(wilde)|Pen, Pencil and Poison (Wilde)]]
 - [[works/memories-and-adventures-(conan-doyle)|Memories and Adventures (Conan Doyle)]]
 - [[works/the-history-of-spiritualism,-volume-i-(conan-doyle)|The History of Spiritualism, Volume I (Conan Doyle)]]

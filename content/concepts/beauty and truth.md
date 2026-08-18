@@ -14,8 +14,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0449_i_died_for_beauty_but_was_scarce|449. I died for Beauty — but was scarce (Dickinson)]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#033_ode_on_a_grecian_urn|ODE ON A GRECIAN URN (Keats)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori--poems#died_for_beauty_but_was_scarce|449. I died for Beauty — but was scarce (Dickinson)]]
+- [[works/ode-on-a-grecian-urn-(keats)|ODE ON A GRECIAN URN (Keats)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_101|Sonnet 101 (Shakespeare)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_105|Sonnet 105 (Shakespeare)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_014|Sonnet 14 (Shakespeare)]]

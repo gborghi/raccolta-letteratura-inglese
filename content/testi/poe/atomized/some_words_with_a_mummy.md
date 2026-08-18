@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="some_words_with_a_mummy" data-title="Some Words with a Mummy" data-chapter="" data-kind="intro"></span>
 
-# [[works/some-words-with-a-mummy-(poe)|Some Words with a Mummy]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

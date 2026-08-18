@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. Todd, March 21, 1885](/testi/dickinson/atomized/friendship-tears#l0530_mrs_todd_march_21_1885)
+- [To Mrs. Todd, March 21, 1885](/testi/dickinson/atomized/friendship-tears--letters#_todd_march_21_1885)
 

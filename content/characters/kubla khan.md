@@ -14,7 +14,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#159_kubla_khan|KUBLA KHAN (Coleridge)]]
+- [[works/kubla-khan-(coleridge)|KUBLA KHAN (Coleridge)]]
 
 </div>
 

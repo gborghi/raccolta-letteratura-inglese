@@ -12,7 +12,7 @@ tags:
 
 <span class="atom-split" data-atom="the_poetic_principle" data-title="The Poetic Principle" data-chapter="" data-kind="intro"></span>
 
-# The Poetic Principle
+
 
 <span class="qlang-split" data-lang="it"></span>
 

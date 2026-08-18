@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/friendship-tears" data-author="Coleridge" data-workhref="works/friendship-·-tears-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="017_on_a_lady_weeping" data-title="ON A LADY WEEPING" data-chapter="" data-kind="intro" data-tags="motif/tears,motif/birds,motif/spring,concept/love_romantic,concept/friendship,form/lyric,cluster/friendship,cluster/tears"></span>
+ON A LADY WEEPING · TO A FRIEND · TO A FRIEND: [CHARLES LAMB] WHO HAD DECLARED HIS INTENTION OF WRITING NO MORE POETRY · AN ODE TO THE RAIN · DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE · PONDERE NON NUMERO · LINES TO THOMAS POOLE · PROFUSE KINDNESS · THE THREE SORTS OF FRIENDS
+
+
+
+
+<span class="atom-split" data-atom="017_on_a_lady_weeping" data-title="ON A LADY WEEPING" data-chapter="" data-kind="intro"></span>
 
 
 IMITATION FROM THE LATIN OF NICOLAUS ARCHIUS  
@@ -53,7 +58,7 @@ e svolazza nella rugiada che lo nutre.
 
 
 
-<span class="atom-split" data-atom="079_to_a_friend" data-title="TO A FRIEND" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/friendship,concept/grief_and_loss,concept/melancholy,form/blank_verse,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="079_to_a_friend" data-title="TO A FRIEND" data-chapter="" data-kind="intro"></span>
 
 
 CHARLES [[motifs/lamb|LAMB]]  
@@ -101,7 +106,7 @@ che pur dall'occhio dell'[[concepts/friendship|Amicizia]] si ritraggono vergogno
 
 
 
-<span class="atom-split" data-atom="124_to_a_friend_charles_lamb_who_had_declared_his_intention_of_writing_no_more_poetr" data-title="TO A FRIEND: [CHARLES LAMB] WHO HAD DECLARED HIS INTENTION OF WRITING NO MORE POETRY" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/the_artist_and_society,form/blank_verse,histref/greek_mythology,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="124_to_a_friend_charles_lamb_who_had_declared_his_intention_of_writing_no_more_poetr" data-title="TO A FRIEND: [CHARLES LAMB] WHO HAD DECLARED HIS INTENTION OF WRITING NO MORE POETRY" data-chapter="" data-kind="intro"></span>
 
 
 Dear Charles! whilst yet thou wert a babe, I ween  
@@ -189,7 +194,7 @@ l'illustre fronte della Nobiltà di Scozia!
 
 
 
-<span class="atom-split" data-atom="213_an_ode_to_the_rain" data-title="AN ODE TO THE RAIN" data-chapter="" data-kind="intro" data-tags="motif/water,concept/friendship,concept/satire_of_society,concept/joy,form/ode,form/satire,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="213_an_ode_to_the_rain" data-title="AN ODE TO THE RAIN" data-chapter="" data-kind="intro"></span>
 
 
 COMPOSED BEFORE DAYLIGHT, ON THE MORNING APPOINTED FOR THE DEPARTURE OF A VERY WORTHY, BUT NOT VERY PLEASANT VISITOR, WHOM IT WAS FEARED THERAIN MIGHT DETAIN  
@@ -351,7 +356,7 @@ vattene, cara Pioggia! vattene via.
 
 
 
-<span class="atom-split" data-atom="274_duty_surviving_self-love_the_only_sure_friend_of_declining_life" data-title="DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/friendship,concept/transience,concept/humility,concept/melancholy,form/lyric,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="274_duty_surviving_self-love_the_only_sure_friend_of_declining_life" data-title="DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE" data-chapter="" data-kind="intro"></span>
 
 
 A SOLILOQUY  
@@ -393,7 +398,7 @@ perché per te non sono quel che erano.
 
 
 
-<span class="atom-split" data-atom="335_pondere_non_numero" data-title="PONDERE NON NUMERO" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/paradox,form/epigram,histref/classical_antiquity,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="335_pondere_non_numero" data-title="PONDERE NON NUMERO" data-chapter="" data-kind="intro"></span>
 
 
 Friends should be weigh’d, not told; who boasts to have won  
@@ -419,7 +424,7 @@ Cfr. anche Logan, Libro II, n. 30.
 
 
 
-<span class="atom-split" data-atom="362_lines_to_thomas_poole" data-title="LINES TO THOMAS POOLE" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/fire,concept/friendship,concept/joy,concept/truth,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="362_lines_to_thomas_poole" data-title="LINES TO THOMAS POOLE" data-chapter="" data-kind="intro"></span>
 
 
 [Quoted in a letter from Coleridge to John Thelwall, dated  
@@ -469,7 +474,7 @@ col mio stesso riso soffocavo il mio stesso spirito.
 
 
 
-<span class="atom-split" data-atom="394_profuse_kindness" data-title="PROFUSE KINDNESS" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/unrequited_love,concept/grief_and_loss,concept/alienation,form/epigram,histref/ancient_greece,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="394_profuse_kindness" data-title="PROFUSE KINDNESS" data-chapter="" data-kind="intro"></span>
 
 
 uÀ¹¿¹ ¿P´r 4Ã±Ã¹½ EÃó À»s¿½ À»s¿½ %¼¹ÃÅ Àq½Ä¿Â.  
@@ -513,7 +518,7 @@ vergati su un risguardo del Tom. II delle Poesie di Benedetto Menzini,
 
 
 
-<span class="atom-split" data-atom="396_the_three_sorts_of_friends" data-title="THE THREE SORTS OF FRIENDS" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/love_romantic,concept/beauty,concept/childhood_and_growth,form/epigram,cluster/friendship,cluster/tears"></span>
+<span class="atom-split" data-atom="396_the_three_sorts_of_friends" data-title="THE THREE SORTS OF FRIENDS" data-chapter="" data-kind="intro"></span>
 
 
 Though friendships differ endless in degree,  

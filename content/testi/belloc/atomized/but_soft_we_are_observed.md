@@ -87,13 +87,13 @@ Very welcome therefore in the ears of the Manager of the T. and J. was his emplo
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO X
+# CAPITOLO X
 
 Epilogo
 
 Il frontespizio originale
 
-Capitolo I
+# Capitolo I
 
 Potete ben chiamarlo “Capitolo 1”; infatti è il primo capitolo di cui parlerò. Non temete: non vi tratterrà a lungo.
 
@@ -427,7 +427,7 @@ There was a doubtful tradition that old Mr. Mallard had come from England in his
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO II
+# CAPITOLO II
 
 Mentre la nave “Zelanda” procedeva verso est attraverso l’Atlantico calmo, Richard Mallard valutò la sua situazione. La sua situazione era questa: stava finalmente allontanandosi a tutta velocità per iniziare una vita tranquilla. Aveva conosciuto momenti di pace. Anzi, proprio perché tutto era troppo tranquillo, aveva deciso di lasciarli. Ma pochi giorni dopo essere partito da casa, ogni desiderio di emozioni intense era svanito dentro di lui.
 
@@ -545,9 +545,9 @@ Un gentiluomo vivace che aveva già esaminato l’elenco delle navi da crociera 
 
 Ma la mattina seguente, mentre prendeva il suo giornale al tavolo della colazione, scoprì ancora di più sul mondo. Rimase sbalordito davanti a titoli enormi; il meno sorprendente di tutti era:
 
-Si rifiutò di essere intervistato
+# Si rifiutò di essere intervistato
 
-New Orleans Near Hell: Mallard Claims
+#New Orleans Near Hell: Mallard Claims
 
 MALLARD MILLIONS VINCE NELLE LOTTERIE STATUNITENSE.
 
@@ -557,9 +557,9 @@ C'era una grande fotografia scattata in quel momento, che lo ritraeva mentre sce
 
 Non riuscì a mangiare la colazione. Con la semplicità del suo cuore, andò immediatamente negli uffici di quella rivista scandalosa e vi protestò con forza contro un simile abuso della libertà.
 
-Ottenne la sua ricompensa. L’edizione serale riportava un titolo molto più largo…
+# Ottenne la sua ricompensa. L’edizione serale riportava un titolo molto più largo…
 
-Più chiacchiere tra i mallardi
+#Più chiacchiere tra i mallardi
 
 Questa volta non c'era nessuna fotografia, ma una caricatura destinata a far ridere migliaia di persone, e allo stesso tempo a far arrossire di rabbia la vittima sfortunata.
 
@@ -643,7 +643,7 @@ Era l’Agente Incaricato della Distribuzione della Sezione M: quella organizzat
 
 E questo era ciò che stava scrivendo, nella cara e familiare lingua inglese dei suoi anni da ragazza. Quel messaggio non sarebbe mai arrivato a destinazione, non sarebbe mai stato inviato “Nell’Altro Senso”.
 
-Cara N.G.,
+# Cara N.G.,
 
 “Ha attraversato il confine tra la British Columbia e lo stato di Washington, il 10 maggio, senza documenti regolari. Deve aver ottenuto dei documenti falsificati da qualche parte. Si è registrato con il nome Davis quando si è fermato a Omaha, e con il nome Hackenschmidt a Chicago. Ha preso il posto numero 136 sul battello Zeeland, usando il nome Richard Mallard. A.M.B.2 mi ha inviato un messaggio in codice; dovrebbe sbarcare a Southampton intorno al 12 maggio. Dite loro di mettersi in contatto con lui lì senza fallo.”
 
@@ -653,9 +653,9 @@ La bella, sebbene anziana, Ethel (Giva) sospirò soddisfatta. C’era una ricomp
 
 “Toto Much Better Sends You Love, Miriam”
 
-Che anche i più piccoli bambini possono decifrare…
+# Che anche i più piccoli bambini possono decifrare…
 
-Richard Mallard Bert 136 Zeeland
+# Richard Mallard Bert 136 Zeeland
 
 A.M.B.2
 
@@ -839,7 +839,7 @@ He had opened the subject of Mallard’s approaching landing with the remark tha
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO III
+# CAPITOLO III
 
 Il Segretario di Stato per gli Affari Interni aveva ricevuto, attraverso due distinti canali gerarchici, notizie sui progressi di Richard Mallard nell’attraversare l’Atlantico. Per il Governo, sono orgoglioso di dire, è stato possibile individuare il Centro di Distribuzione a un prezzo molto ragionevole; e sebbene le informazioni su quell’uomo fossero state inviate regolarmente ai Governi Alleati, lo sono state fatto un po’ più tardi rispetto a quanto avveniva con quella che ancora oggi viene definita, con una bella espressione, “La Corte di San Giacomo”. E dopotutto, cosa importava? Richard Mallard, l’agente della West Irania, stava comunque atterrando per primo su queste coste; quindi, naturalmente, le opportunità sarebbero spettate a noi. Ci sarebbe stato tutto il tempo necessario per fare i preparativi all’estero.
 
@@ -1033,7 +1033,7 @@ He sank back for a long repose, occupying as master that small domain of which h
 
 “Sì, e per favore mettete l’etichetta con il nome di un hotel di [[settings/new-york|New York]]. No, aspetta un attimo. Me ne sono dimenticato. Sì, dirò che ero malato sulla barca. No, non funzionerà.” Pensò per un momento. “Basta mettere un’etichetta di un hotel di Parigi. Ne avete molte, vero?”
 
-“Abbastanza… Quale hotel?”
+# “Abbastanza… Quale hotel?”
 
 “Ah, il Ritz, ”, disse il signor Palmer sbadigliando. “Tutti hanno sentito parlare del Ritz, ”, e rise allegramente. “Farò rispedire la borsa.”
 
@@ -1171,7 +1171,7 @@ Parlava troppo velocemente e sembrava senza fiato per la corsa; Richard Mallard,
 
 “No, non esattamente,” disse Richard.
 
-Appena arrivato dalla Francia… Sono sbarcato a Cherbourg.
+#Appena arrivato dalla Francia… Sono sbarcato a Cherbourg.
 
 “Non ti ho visto.”
 
@@ -1277,7 +1277,7 @@ Now that she had occupied the Foreign Office for eight years (five under the lat
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO IV
+# CAPITOLO IV
 
 Lady Caroline Balcombe, per tradizione della sua nobile famiglia (era di origine Baugh di Woolstone), era legata al partito anarchico; suo padre stesso ne era stato una sorta di secondo leader a metà del ventesimo secolo. In effetti, tutta quella stirpe di persone dotate di talento ereditario aveva sempre mostrato una tendenza verso un'interpretazione più democratica degli affari pubblici.
 
@@ -1629,7 +1629,7 @@ Si sedette, appoggiandosi allo schienale di una profonda sedia di pelle, disatti
 
 “Sì, ah, l’Inghilterra,” mormorò il suo superiore, “l’Inghilterra. Beh, signor Mallard, deve ricordare che è proprio questo clima a averci resi ciò che siamo. Comunque, posso assicurarglielo: è stato proprio questo clima a rendermi ciò che sono. Ricordo bene mio caro padre, quando mi portò per la prima volta a Roma nel ’35, o forse era il ’36? No, il ’35. Ricordo esattamente la data perché quell’anno si tenne il Terzo Congresso Universale della Pace, ” Si interruppe bruscamente.
 
-Correva senza sosta… e continuò bruscamente.
+#Correva senza sosta… e continuò bruscamente.
 
 “Bene, signor Mallard, mi scuserà se vado subito al dunque, vero?”
 
@@ -1753,7 +1753,7 @@ Il Ministro dell’Interno fece un gesto con la mano.
 
 “Beh, in ogni caso, supponiamo per ipotesi che tu sia qui per negoziare.”
 
-“Negoziare cosa?”
+# “Negoziare cosa?”
 
 “Ora, ora,” rispose il Segretario dell’Interno. “Certo, apprezzo pienamente il vostro diritto di rimanere reticenti; anzi, signor Mallard, ne comprendo perfettamente le ragioni. Al vostro posto, assumerei esattamente lo stesso atteggiamento. Ma potreste anche essere franco con me. Queste cose vengono quasi sempre fatte da terzi, poiché nessuno ne sa più di voi. Ci è stato detto che avete il potere di avviare delle trattative – quelle verbali – e tutto ciò che voglio sapere è l’entità di tali poteri. Solo allora saprò cosa fare e cosa dire ai miei colleghi. Sono stato chiaro?”
 
@@ -1877,7 +1877,7 @@ Mr. Chinny was on a Toff Stunt. He was on the Toff Stunt at the Titanic Hotel an
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO V
+# CAPITOLO V
 
 Il segretario di casa salì di nuovo al piano di sopra, nella sala da pranzo piena di oscurità. Trovò Mallard molto a disagio, quasi incapace di sapere cosa dire o fare: la nipote e suo marito cercavano a turno di rassicurarlo, ma fallivano miseramente.
 
@@ -2235,7 +2235,7 @@ Nel suo sguardo c'era determinazione mentre lo faceva. Sarebbe stata una Guardia
 
 “Una controconcessione è senz’altro la soluzione migliore, non credi?” suggerì Delavere. “È esattamente ciò che hanno fatto nel caso Dagon: quando lui ottenne la concessione per i viaggi marittimi a beneficio del nostro popolo, noi permettemmo alla sua banca e a Budapest di gestire l’operazione legata alla silvicoltura.”
 
-Hai scoperto con quali aziende è collegato?
+# Hai scoperto con quali aziende è collegato?
 
 “Non ancora,” rispose il segretario. “Potrebbe non essere apertamente collegato a nulla. Nel sistema degli Annihilationisti, come sapete, alle società private non è permesso operare. Probabilmente scopriremo che la maggior parte dei suoi fondi privati si trova nei fondi britannici. Questi asiatici sanno bene dove nasconderli. Dovrò prima scoprire chi sono i mediatori, per capire quale interesse abbia in qualsiasi società o banca nostra, o in qualsiasi gruppo continentale o americano.”
 
@@ -2469,7 +2469,7 @@ Lord Delisport knew all that. His mighty intelligence had concluded that the mat
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VI
+# CAPITOLO VI
 
 La mattina seguente all’episodio in cui Richard Mallard aveva avuto la sua piccola “avventura” con la polizia, sia sotto il velo che apertamente, proprio nell’istante della sua splendida assoluzione, Lord Delisport – imperatore, proprietario di un giornale e marchese – camminava avanti e indietro nel suo ufficio, immerso in profonde riflessioni. È un’abitudine ormai troppo rara tra gli uomini del suo alto rango; ma se vi dico che stava pensando al denaro, allora capirete meglio sia lui che me.
 
@@ -3007,7 +3007,7 @@ Richard Mallard told them all, and particularly the landlady, that he meant to g
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VII
+# CAPITOLO VII
 
 Nel suo letto scomodo, Richard Mallard aveva scoperto ciò che i giovani non dovrebbero mai conoscere. Non si trattava semplicemente di una notte insonne, come quelle che aveva già trascorso in precedenza. Era un’insonnia totale. Giaceva agitato, nella disperazione, fissando l’oscurità totale intorno a sé.
 
@@ -3021,7 +3021,7 @@ Comunque, il giorno dopo avrebbe potuto riposare. Il giorno dopo tutto sarebbe f
 
 Aveva raggiunto quel luogo con l’intenzione di ammirare i paesaggi, come fanno tutti; aveva pianificato di visitare prima i laghi, poi le Highlands e infine Stratford-on-Avon. Aveva letto attentamente le opere di Wordsworth a bordo della nave; possedeva anche le mappe, e aveva persino annotato il nome dell’ostello in cui avrebbe soggiornato: “Black Horse”. Secondo la guida turistica, era proprio lì che Wordsworth aveva scritto quella poesia immortale, che inizia con un suono potente come quello di una tromba.
 
-"Non andrò a Windermere oggi."
+#"Non andrò a Windermere oggi."
 
 “Domani sarà più conveniente.”
 
@@ -3253,13 +3253,13 @@ The over-anxious and much-too-careful face, which was trying to understand his o
 
 Il cielo si vendica dell'arroganza dei ricchi e aiuta i poveri! Non che il detective A fosse povero, ma sembrava povero, ed è proprio questo che bastava. E poiché era già buio, il cielo fu ingannato: aveva “aiutato” il detective A, basandosi soltanto sull’aspetto povero che questi presentava. Aveva appreso tutto ciò che voleva sapere. Quella notte, il detective B e la sua preda si trovavano all’hotel Clan Tarroch. Tornò nel suo taxi, ormai avvolto nell’oscurità, e aspettò finché l’auto troppo ricca davanti a lui non riprese a muoversi. Aspettò fino a quando i suoi fari non scomparvero dietro l’angolo. Solo allora fece accendere il taxi al conducente e, prima di salire, chiese: “Che cos’è il Clan Tarroch?”
 
-Solo l’hotel.
+# Solo l’hotel.
 
 "Nient'altro?"
 
 “Ecco la suocera di mia moglie, se volete saperlo.”
 
-Darà ospitalità?
+# Darà ospitalità?
 
 “Lo farà.”
 
@@ -3635,7 +3635,7 @@ She lost not a moment. She tackled her miserable colleague, Harry Hardham, and m
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VIII
+# CAPITOLO VIII
 
 Il vescovo di Shoreham ha osservato con acume nelle sue riflessioni che uno dei motivi per cui tutto qui viene svolto meglio rispetto ai paesi stranieri è l’abitudine al tempo libero, comune a tutte le classi della società. “In ogni ceto, dal nobile al povero” (tali sono le parole eloquenti di Sua Signoria) “le ore dedicate al lavoro sono strettamente limitate, mentre quelle riservate al divertimento sono più lunghe. Feste frequenti e prolungate sono la regola generale. Ed è per questo che portiamo a termine i nostri compiti con vivacità e precisione che rappresentano una vera fonte di invidia per i nostri rivali.”
 
@@ -3645,7 +3645,7 @@ Mallard se n'era andato giovedì mattina. Ora era lunedì pomeriggio, all’ora 
 
 Verso la fine dell’elenco c'era la parola contrassegnata con una stella: “Irania”. Sì! A proposito. Mary Bullar se ne ricordò.
 
-Hai visto di nuovo quel tizio che si chiama Mallard?
+# Hai visto di nuovo quel tizio che si chiama Mallard?
 
 “Da quando te ne ho parlato l’ultima volta…”
 
@@ -3971,7 +3971,7 @@ Gli tese le mani verso di lui; il suo viso si avvicinò al suo. Per un terribile
 
 Nella sua stanza, rifugiandosi come un coniglio braccato, Richard Mallard tremava. Sentiva dentro di sé una confusa miscela di terrore: qualche orribile destino di cui gli era stato detto, una donna pazza che minacciava chissà cosa, spie dappertutto. E in quel momento, mentre era ancora immobile con gli occhi sbarrati, sentì due frasi pronunciate sotto la sua finestra. La prima apparteneva a Worsing:
 
-"Non perdere mai il contatto. Seguilo quando se ne va e riferisci tutto."
+#"Non perdere mai il contatto. Seguilo quando se ne va e riferisci tutto."
 
 Il secondo, oh! Cuore consapevole, oh! Terrore premonitore. Era davvero la voce di quella persona liscia, affascinante, rispettabile. E stava rispondendo.
 
@@ -4283,7 +4283,7 @@ Who or what John Bart might be Richard Mallard could not tell. But that was the 
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO IX
+# CAPITOLO IX
 
 Nella città di Stratford-on-Avon, quattro uomini stanchi e esasperati per una notte trascorsa in treno e per i cambi di treni a orari insoliti si riunirono nel salone dell’hotel “Swan of Avon”, il nuovo ed elegante albergo il cui design rifletteva le 12 sue piani sull’acqua del fiume storico. Si stavano rilassando con dei cocktail; loro erano il Detective A, il Detective B, il Detective C e il Detective D.
 
@@ -4681,7 +4681,7 @@ Callingham enjoyed her excitement. He had spent three hours confirming and recon
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO X
+# CAPITOLO X
 
 Da quel solitario picco di roccia sulla riva del Labrador, nel primo capitolo, non si scorgeva alcuna vela amica, nessuna nave britannica piena di valorosi marinai. Non riuscì nemmeno a individuare, attraverso il telescopio con cui scrutava l’orizzonte, quel simbolo benedetto della libertà che solitamente si trova sulla bandiera delle navi. Al contrario, la sua salvezza arrivò in un altro modo: una lanterna lampeggiò davanti ai suoi occhi sotto la tenda di tela dove giaceva esausto dopo dieci giorni di veglia ininterrotta; uno dei membri del gruppo che tornava dalla civiltà lo svegliò con il tacco della sua scarpa. Non si trattava certo di una salvezza romantica, ma era pur sempre una salvezza. E lui aveva già visto abbastanza della vita per accettarla così com’era.
 
@@ -4831,13 +4831,13 @@ Caroline Balcombe allungò la mano verso i suoi libri di riferimento e cercò le
 
 Cinque minuti dopo entrò nella grande stanza di Downing Street dove il suo capo era seduto da solo alla massiccia scrivania, con la testa appoggiata sulla mano, quasi addormentato a causa della lunga veglia. Caroline Balcombe entrò, chiuse attentamente la porta alle sue spalle, spostò una sedia vicina per coprire il buco della serratura, guardò il Primo Ministro attraverso la sua lorgnette e pronunciò queste parole indimenticabili:
 
-"Mary, sei una sciocca!"
+#"Mary, sei una sciocca!"
 
 “Cosa?” disse Mary Bullar, completamente sveglia, e si appoggiò all’indietro sulla sedia.
 
 “Un idiota, ho detto… Un idiota. Sei un idiota, Mary… Hai scelto la persona sbagliata!”
 
-"Ho preso quello sbagliato..."
+#"Ho preso quello sbagliato..."
 
 “Sì,” continuò Caroline Balcombe, approfittando della sorpresa generale e aggiungendo le sue argomentazioni. “L’uomo sbagliato. Avete tutti perso tempo in una ricerca inutile. Solo io l’ho visto davvero,” proseguì, sempre più animata. “Lo avevo detto fin dall’inizio. Avevo dei sospetti sin dall’inizio. Ho sempre pensato che non potesse essere innocente. Non era Mallard l’uomo giusto, vero?”
 

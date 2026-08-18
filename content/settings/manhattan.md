@@ -14,9 +14,9 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/whitman/atomized/journey-ship#149_city_of_ships|City of Ships (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#142_first_o_songs_for_a_prelude|First O Songs for a Prelude (Whitman)]]
-- [[testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield#164_give_me_the_splendid_silent_sun|Give Me the Splendid Silent Sun (Whitman)]]
+- [[works/city-of-ships-(whitman)|City of Ships (Whitman)]]
+- [[works/first-o-songs-for-a-prelude-(whitman)|First O Songs for a Prelude (Whitman)]]
+- [[works/give-me-the-splendid-silent-sun-(whitman)|Give Me the Splendid Silent Sun (Whitman)]]
 
 </div>
 

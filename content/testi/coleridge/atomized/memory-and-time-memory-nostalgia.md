@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/memory-and-time-memory-nostalgia" data-author="Coleridge" data-workhref="works/memory-and-time-·-memory-·-nostalgia-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="031_absence_a_farewell_ode_on_quitting_school_for_jesus_college_cambridge" data-title="ABSENCE: A FAREWELL ODE ON QUITTING SCHOOL FOR JESUS COLLEGE, CAMBRIDGE" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,motif/moon,motif/river,concept/nostalgia,concept/memory_and_time,concept/education,form/ode,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+ABSENCE: A FAREWELL ODE ON QUITTING SCHOOL FOR JESUS COLLEGE, CAMBRIDGE · SONNET: TO THE RIVER OTTER · LINES: ON AN AUTUMNAL EVENING · LINES: TO A BEAUTIFUL SPRING IN A VILLAGE · OF BALIOL COLLEGE, OXFORD, AUTHOR OF THE ‘RETROSPECT’, AND OTHER POEMS · RECOLLECTIONS OF LOVE · YOUTH AND AGE · ASSOCIATION OF IDEAS · GOETHE
+
+
+
+
+<span class="atom-split" data-atom="031_absence_a_farewell_ode_on_quitting_school_for_jesus_college_cambridge" data-title="ABSENCE: A FAREWELL ODE ON QUITTING SCHOOL FOR JESUS COLLEGE, CAMBRIDGE" data-chapter="" data-kind="intro"></span>
 
 
 Where graced with many a classic spoil  
@@ -71,7 +76,7 @@ benediciamo la Vagabonda della [[motifs/night|Notte]].
 
 
 
-<span class="atom-split" data-atom="046_sonnet_to_the_river_otter" data-title="SONNET: TO THE RIVER OTTER" data-chapter="" data-kind="intro" data-tags="motif/river,motif/childhood,motif/memory,motif/water,concept/nostalgia,concept/memory_and_time,concept/childhood_and_growth,form/sonnet,setting/rural_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="046_sonnet_to_the_river_otter" data-title="SONNET: TO THE RIVER OTTER" data-chapter="" data-kind="intro"></span>
 
 
 Dear native Brook! wild Streamlet of the West!  
@@ -111,7 +116,7 @@ ah, foss'io ancora una volta un [[archetypes/child|Fanciullo]] spensierato!
 
 
 
-<span class="atom-split" data-atom="048_lines_on_an_autumnal_evening" data-title="LINES: ON AN AUTUMNAL EVENING" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/memory,motif/nature,motif/river,concept/imagination,concept/love_romantic,concept/nostalgia,form/lyric,histref/greek_mythology,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="048_lines_on_an_autumnal_evening" data-title="LINES: ON AN AUTUMNAL EVENING" data-chapter="" data-kind="intro"></span>
 
 
 O thou wild Fancy, check thy wing! No more  
@@ -331,7 +336,7 @@ finché gelida e umida discenda la [[motifs/night|notte]] senza luna
 
 
 
-<span class="atom-split" data-atom="055_lines_to_a_beautiful_spring_in_a_village" data-title="LINES: TO A BEAUTIFUL SPRING IN A VILLAGE" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/water,motif/river,motif/memory,motif/mutability,concept/nostalgia,form/lyric,setting/pastoral_countryside,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="055_lines_to_a_beautiful_spring_in_a_village" data-title="LINES: TO A BEAUTIFUL SPRING IN A VILLAGE" data-chapter="" data-kind="intro"></span>
 
 
 Once more! sweet Stream! with slow foot wandering near,  
@@ -407,7 +412,7 @@ o sulla rupe scabra prorompe e schiuma via!
 
 
 
-<span class="atom-split" data-atom="091_of_baliol_college_oxford_author_of_the_retrospect_and_other_poems" data-title="OF BALIOL COLLEGE, OXFORD, AUTHOR OF THE ‘RETROSPECT’, AND OTHER POEMS" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/memory_and_time,concept/nostalgia,concept/friendship,concept/the_artist_and_society,form/sonnet,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="091_of_baliol_college_oxford_author_of_the_retrospect_and_other_poems" data-title="OF BALIOL COLLEGE, OXFORD, AUTHOR OF THE ‘RETROSPECT’, AND OTHER POEMS" data-chapter="" data-kind="intro"></span>
 
 
 SOUTHEY! thy  
@@ -457,7 +462,7 @@ l'Arcobaleno riflesso su un ruscello di salici.
 
 
 
-<span class="atom-split" data-atom="234_recollections_of_love" data-title="RECOLLECTIONS OF LOVE" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/river,motif/nature,motif/birds,concept/love_romantic,concept/memory_and_time,concept/nostalgia,form/lyric,setting/rural_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="234_recollections_of_love" data-title="RECOLLECTIONS OF LOVE" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -541,7 +546,7 @@ caro canto di sottofondo nell'ora del clamore.    30
 
 
 
-<span class="atom-split" data-atom="264_youth_and_age" data-title="YOUTH AND AGE" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/flowers,motif/masks_disguise,motif/bells,concept/transience,concept/nostalgia,concept/melancholy,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="264_youth_and_age" data-title="YOUTH AND AGE" data-chapter="" data-kind="intro"></span>
 
 
 Verse, a breeze mid blossoms straying,  
@@ -651,7 +656,7 @@ e racconta la facezia senza il sorriso.
 
 
 
-<span class="atom-split" data-atom="373_association_of_ideas" data-title="ASSOCIATION OF IDEAS" data-chapter="" data-kind="intro" data-tags="motif/winter,concept/memory_and_time,concept/satire_of_society,concept/marriage_and_fidelity,form/epigram,histref/napoleonic_wars,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="373_association_of_ideas" data-title="ASSOCIATION OF IDEAS" data-chapter="" data-kind="intro"></span>
 
 
 I. — By Likeness  
@@ -713,7 +718,7 @@ la disfatta di Napoleone e la caduta di Snipkin.
 
 
 
-<span class="atom-split" data-atom="439_goethe" data-title="GOETHE" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/nostalgia,concept/exile,concept/love_romantic,form/song,setting/europe,setting/italy,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="439_goethe" data-title="GOETHE" data-chapter="" data-kind="intro"></span>
 
 
 Wilhelm Meister, Bk. III, Cap. 1. — Sämmtliche Werke, 1860, iii, p.  

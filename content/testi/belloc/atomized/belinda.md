@@ -1114,13 +1114,13 @@ The fields told the same story; on the one hand sat plenitude upon a clean soil,
 
 <span class="qlang-split" data-lang="it"></span>
 
-Indice
+# Indice
 
 I
 
 II
 
-III
+# III
 
 IV
 
@@ -1128,9 +1128,9 @@ V
 
 VI
 
-VII
+# VII
 
-VIII
+# VIII
 
 IX
 
@@ -1138,7 +1138,7 @@ X
 
 TO
 
-L'eros di Keir
+# L'eros di Keir
 
 I
 
@@ -1360,7 +1360,7 @@ Mentre parlava, si udirono dalla cupola di rame verde sopra gli stabili i suoni 
 
 La distanza da percorrere era soltanto un quarto di miglio. Camminava con facilità al fianco dei suoi passi un po’ più veloci. Entrambi sapevano che il giorno dopo, a mezzogiorno, si sarebbero ritrovati di nuovo vicino al ruscello. Nessuno dei due guardò l’altro; nessuno parlò. Così siamo nella giovinezza, che è il paradiso dei nostri giorni. Ma quando arrivarono alla porta di ferro e dovettero separarsi, lei si fermò, si girò e sollevò, o almeno tentò di sollevare, la sua mano destra. Lui osò toccarla per un istante. Si guardarono negli occhi, e il mondo cambiò. Lui girò sui tacchi e se ne andò. Nell’ombra fresca della vegetazione rigogliosa, mentre lei si affrettava verso l’erba illuminata dal sole e la grande casa che si trovava oltre, l’aria, la sua anima, erano musica; tutta la sua esistenza era pervasa da beatitudine.
 
-III
+# III
 
 Belinda corse subito nello studio di suo padre, dove lo trovò in piedi davanti al tavolo centrale, con un bicchiere di sherry marrone e tre biscotti davanti a sé: era sua abitudine consumare quel rinfrescante proprio a quell’ora del giorno. Accanto a lui c’era il signor Carter, il maggiordomo, con cui stava discutendo delle questioni relative alla tenuta. Non appena entrò la figlia, il padre congedò il maggiordomo, ricordandogli con un sorriso affascinante che era giunto il momento di esaminare i registri domestici e occuparsi dell’organizzazione della cena e dell’accoglienza degli ospiti.
 
@@ -2206,7 +2206,7 @@ I domestici di quella famiglia ridotta si scambiavano commenti, con voci timide 
 
 Ecco cos'è la gioventù: irresponsabile verso se stessa e gli altri, fonte di costante preoccupazione per gli anziani, ma animata da passioni primordiali.
 
-VII
+# VII
 
 Il giorno seguente la sua partenza, nella fresca mattina dopo un riposo in una locanda lungo la strada, Horatio fermò il suo cavallo sulla cima di un prato erboso, da dove poteva ammirare i distretti di Wiltshire e Somerset stendersi a ovest, lontano sotto di lui. Si girò nella sella per osservare, da quella distanza tra le colline nebbiose, i luoghi della sua infanzia. Quanto familiari gli sembravano quei boschi lontani, quelle cime che avevano rappresentato la sua casa. Eppure quanto erano cambiati! Il sole appena sorto illuminava quella vista con un tenue velo di luce fresca e uniforme. Ma invano! Per un’ora, quelle colline, quei valli, quei boschi avevano brillato illuminati dal nome sacro di Belinda. Ora la loro gloria era svanita; non erano più nulla. La fiamma della lanterna si era spenta; i campi, gli alberi, erano tutti estranei e vuoti.
 
@@ -2510,7 +2510,7 @@ Ma alle sue parole la sua compagna reagì in modo improvviso. Trasalì con un su
 
 Ma mentre camminava, l’Inesorabile aveva già distrutto la corda della vita che era in lei. Era lontana e molto giovane; il suo primo periodo di primavera era tornato: aveva diciotto anni. Erano i tempi antichi, prima che la Rivoluzione rovinasse la dignità del mondo. Si trovava nel giardino di sua madre, nella sua casa inglese, mentre il limpido fiume Tamigi scorreva accanto a lei. L’unione nobile che le era stata destinata era stata annunciata: quel nobile straniero, così evidente nel servizio del re francese, aveva chiesto la sua mano ai suoi genitori, e questi avevano accolto con favore un tale matrimonio. Accanto a lei c’era un giovane soldato del suo stesso popolo che la guardava in silenzio, implorante. Ma lei aveva capito troppo tardi che il suo volto le sarebbe rimasto per sempre.
 
-VIII
+# VIII
 
 Sir Robert, durante le sue attività legali nella capitale, era sempre più preoccupato, così come sua cugina Miss Hackman, a causa delle lettere occasionalmente ricevute da casa. Non vedeva l’ora di tornare. Infatti, Miss Curll, che si dedicava con impegno sia alle attività di corrispondenza che ad altre mansioni, non riusciva a nascondergli quanto fosse lenta la guarigione di Belinda. Anzi, da alcune frasi caute e circostanziate, Sir Robert aveva capito che sua figlia, invece di migliorare, stava peggiorando sempre di più nella malattia che lo aveva così profondamente preoccupato.
 
@@ -3242,9 +3242,9 @@ Quella sera, davanti a uno spinetto che, con la sua forma antica, adornava elega
 
 Madame la Marquise
 
-Il vostro piede è davvero ben fatto
+# Il vostro piede è davvero ben fatto
 
-"La tua taglia è perfetta."
+#"La tua taglia è perfetta."
 
 E il vostro braccio perfetto.
 
@@ -3253,7 +3253,7 @@ Ma pensa ancora, mia bella…
 Titolo:  
 Forse in questo stesso istante…
 
-La nostra grande Isabella
+# La nostra grande Isabella
 
 Tornerà dal convento!
 
@@ -3277,11 +3277,11 @@ Torna dal reggimento.
 
 E nel finale, il messaggio morale emerge attraverso la riconciliazione.
 
-La tua figura mi sembra familiare…
+# La tua figura mi sembra familiare…
 
 Marchese, a diciotto anni!
 
-Je crois voir ton allure
+# Je crois voir ton allure
 
 Marchese, nella tua primavera!
 

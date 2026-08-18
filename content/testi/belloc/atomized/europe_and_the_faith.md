@@ -79,7 +79,7 @@ The second I deliberately choose as an example particular and narrow: an especia
 
 <span class="qlang-split" data-lang="it"></span>
 
-Introduzione: La coscienza cattolica della storia
+# Introduzione: La coscienza cattolica della storia
 
 Dico la “coscienza” cattolica della storia, intendo con “coscienza” una conoscenza profonda, basata sull’identità tra il soggetto che conosce e l’oggetto conosciuto: un’intuizione di ciò che è realmente essenziale a quella realtà. Non dico “l’aspetto cattolico della storia”. Questo discorso sugli “aspetti” è moderno, e quindi rappresenta una fase di declino culturale; è falso, e quindi effimero. Non mi abbasserò a usarlo. Preferisco onorare la verità e affermare che non esiste alcun “aspetto cattolico” della storia europea. Esistono invece un aspetto protestante, uno ebraico, uno musulmano, uno giapponese, e così via. Tutti questi punti di vista osservano l’Europa dall’esterno; il cattolicesimo, invece, la vede dall’interno. Non esiste quindi alcun “aspetto cattolico” della storia europea, proprio come non esiste un “aspetto umano” dell’uomo stesso.
 
@@ -93,7 +93,7 @@ Ebbene, lo stesso vale per noi che appartengiamo alla [[concepts/faith|>Fede]] e
 
 Il cattolico porta nella storia – quando dico “storia” in queste pagine intendo la storia del Cristianesimo – una forma di autoconoscenza. Così come un uomo, nel confessionale, si accusa di ciò che sa essere vero e di ciò che gli altri non possono giudicare, allo stesso modo il cattolico, parlando della civiltà europea unita, quando la biasima, lo fa sulla base di motivi e azioni che sono propri suoi; egli stesso avrebbe potuto compiere quelle stesse cose. La sua condanna non è relativa, ma assolutamente corretta. Così come un uomo può testimoniare sui propri motivi, anche il cattolico può smascherare concezioni ingiuste, irrilevanti o ignoranti riguardo alla storia europea; poiché lui conosce esattamente perché e come essa si è sviluppata. Gli altri, non essendo cattolici, guardano alla storia d’Europa da un punto di vista esterno, come estranei; devono affrontare qualcosa che loro si presenta in modo parziale e disconnesso, attraverso i suoi soli fenomeni. Il cattolico, invece, la vede nel suo insieme, dal suo centro, nella sua essenza stessa.
 
-Ancora una volta: la Chiesa è l’Europa, e l’Europa è la Chiesa
+# Ancora una volta: la Chiesa è l’Europa, e l’Europa è la Chiesa
 
 Chiesa.
 
@@ -350,7 +350,7 @@ Tuttavia, l’Europa sopravvisse. Nel rinascere che seguì quel periodo oscuro �
 
 I problemi, il terrore religioso, le follie del XV secolo: per lui sono le malattie di un unico corpo, l’Europa, che ha bisogno di cure mediche.
 
-Il ritardo nella somministrazione del farmaco ha causato dei problemi…
+#Il ritardo nella somministrazione del farmaco ha causato dei problemi…
 
 Un organo europeo durante la [[historical-references/reformation|Riforma]].
 
@@ -518,7 +518,7 @@ The old Mediterranean world out of which the Empire grew had consisted (before t
 
 <span class="qlang-split" data-lang="it"></span>
 
-Dall’Eufrate alle Highlands scozzesi, dal Mare del Nord…
+# Dall’Eufrate alle Highlands scozzesi, dal Mare del Nord…
 
 Il Sahara e il Nilo Medio: tutto faceva parte di uno stesso Stato.
 
@@ -812,7 +812,7 @@ Qualche parola sulla costituzione della Chiesa. Tutti coloro che hanno una forma
 
 La concezione che la [[historical-references/catholic-church|Chiesa Cattolica]] aveva di sé stessa all’inizio del III secolo può forse essere compresa meglio osservando che, se utilizziamo il termine “Cristianesimo”, ci muoviamo in modo anacronistico. “Cristianesimo” è un concetto nato dopo la [[historical-references/reformation|Riforma]]; indica un’opinione, una teoria, un punto di vista o un’idea. I cristiani dell’epoca di cui parlo, invece, non possedevano tale concezione: anzi, erano legati alla sua antitesi. Essi credevano in un organismo religioso strutturato, istituito per uno scopo preciso, disciplinato secondo regole specifiche e caratterizzato da dottrine concrete e definite. Nei primi tre secoli si poteva parlare di stoicismo, epicureismo o neoplatonismo, ma non di “Cristianesimo”. Infatti, nessuno è mai stato così ignorante o anacronistico da utilizzare tali termini in quel contesto. Tuttavia, l’espressione attuale “Cristianesimo”, usata dai moderni per indicare la Chiesa cristiana del III secolo, equivale intellettualmente a concetti storicamente errati e mai esistiti realmente.
 
-Ecco un esempio per chiarire ciò che intendo:
+# Ecco un esempio per chiarire ciò che intendo:
 
 Quattro uomini si troveranno in una casa privata a Cartagine, come ospiti di un quinto uomo, nell’anno 225. Sono tutti persone colte; conoscono entrambe le lingue, greca e latina, sono lettori assidui e interessati ai problemi e alle soluzioni parziali del loro tempo scettico. Uno di loro si proclamerà materialista e troverà un altro che concorda con lui: non esiste un Dio personale; alcuni doveri morali devono essere riconosciuti dagli uomini per motivi utilitaristici, e così via. Trova quindi sostegno nelle sue idee.
 
@@ -927,7 +927,7 @@ Ho scelto appositamente questo momento, perché è proprio in questo periodo che
 
 Così abbiamo Giustino Martire… Aveva almeno sessant’anni in più di…
 
-Tertulliano. Era così vicino alla Crocifissione quanto la mia generazione lo è…
+# Tertulliano. Era così vicino alla Crocifissione quanto la mia generazione lo è…
 
 Il disegno di legge sulla riforma, e ci ha fornito una descrizione completa della Messa.
 
@@ -1179,7 +1179,7 @@ Un uomo può avere una preferenza, in quanto protestante o semplicemente come ab
 
 La validità di tutto il piano dipende dalla nostra risposta a questa domanda.
 
-Qual fu la caduta dell’Impero Romano?
+#Qual fu la caduta dell’Impero Romano?
 
 Se si trattasse di una conquista come quella che abbiamo appena ipotizzato, e di una conquista motivata da ragioni umane del genere descritto, allora questa vecchia corrente anti-cattolica, anche se non potesse mantenere le sue esagerazioni (ad esempio, non potrebbe collegare le istituzioni rappresentative ai barbari tedeschi), sarebbe comunque sostanzialmente vera.
 
@@ -1611,7 +1611,7 @@ Diamo un’occhiata.
 
 Per consegnare i suoi documenti nella Capitale, verrà indirizzato al “Palatium”.
 
-Questa parola non significa “Palazzo”.
+#Questa parola non significa “Palazzo”.
 
 Quando oggi parliamo di “palazzo”, intendiamo la residenza del sovrano effettivo o nominale di uno stato monarchico. Parliamo quindi di Buckingham Palace, St. James’ Palace, il Palazzo di Madrid, e così via.
 
@@ -1681,7 +1681,7 @@ Non si deve nemmeno per un istante immaginare che il Re emettesse leggi o decret
 
 Per quanto riguarda il secondo punto, notiamo il cambiamento di titolo. L’[[concepts/authority|'autorità]] di.
 
-Palatium è un Re; non un Legato, né un Governatore, né una persona inviata da…
+# Palatium è un Re; non un Legato, né un Governatore, né una persona inviata da…
 
 Un imperatore, non un uomo nominato direttamente e necessariamente da lui, ma un “Rex”.
 
@@ -1727,7 +1727,7 @@ In questo senso, “A Rex” era spesso un soggetto di poco rilievo…
 
 L’Imperatore… o l’imperatore: l’Imperatore, come ricordiamo, è…
 
-Comandante in capo dell’esercito romano, sull’istituzione del quale si basava l’intera struttura militare romana
+## Comandante in capo dell’esercito romano, sull’istituzione del quale si basava l’intera struttura militare romana
 
 Stati, imperi o civiltà avevano dipinto da così tanti secoli.
 
@@ -1929,7 +1929,7 @@ Ma una parte di una provincia subì un cambiamento limitato e locale – ma sign
 
 Questa striscia di terra eccezionale costituiva la fascia costiera orientale della provincia della Britannia; e ciò che dobbiamo chiederci ora è: “Cosa accadde in Britannia mentre il resto dell’Impero stava subendo trasformazioni, dopo il crollo del potere centrale imperiale?” Se non riusciremo a rispondere a questa domanda, non saremo in grado di avere una vera comprensione della continuità dell’Europa, né dei pericoli iniziali che, nonostante tutto, hanno permesso a tale continuità di sopravvivere.
 
-Cosa è accaduto in Gran Bretagna?
+# Cosa è accaduto in Gran Bretagna?
 
 
 
@@ -2067,7 +2067,7 @@ He speaks only of a handful of these auxiliaries, three boatloads; but he is so 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Le prove
+# Le prove
 
 Quando dobbiamo affrontare un vuoto nella storia (e sebbene nessun vuoto nella storia dell’Europa occidentale sia così stranamente “vuoto” come questo, esistono molti piccoli vuoti che ci permettono di ragionare attraverso le loro analogie), lo storico dispone di due metodi per colmarlo. Il primo consiste nello studio di rari documenti contemporanei in grado di illustrare quel periodo; il secondo consiste nell’analizzare ciò che è accaduto in altri luoghi nelle stesse circostanze, o ancora meglio – quando possibile – nell’esaminare esempi di situazioni simili verificatesi in contesti analoghi nello stesso momento. Esiste però anche un terzo aspetto: entrambi questi metodi devono essere sottoposti al criterio del buon senso in modo più rigoroso e assoluto rispetto alle prove relative a periodi storici più completi. Perché quando si dispone di prove sufficienti, anche riguardo a eventi straordinari, bisogna ammetterne la veridicità; ma quando le prove sono scarse, entra in gioco l’ipotesi, e il buon senso diventa lo strumento per correggerla.
 
@@ -2317,7 +2317,7 @@ The kinglet who could gather his men from a day’s march round his court in the
 
 Ora utilizziamo questo metodo delle limitazioni per questioni meno ovvie e chiediamoci, innanzitutto, quali fossero i confini tra questi due principali gruppi di regioni confuse e in conflitto; in secondo luogo, fino a che punto ciascun gruppo fosse coerente; in terzo luogo, cosa fosse sopravvissuto in ciascun gruppo dell’antico ordine; e, infine, quali novità fossero emerse nel corso di questi duecento o duecentocinquanta anni. [Nota: Duecentocinquant’anni dal momento ultimo in cui vi furono prove della presenza romana, ovvero la visita di San Germano nel 447 fino all’arrivo di Sant’Agostino esattamente 150 anni dopo (597); quasi duecento anni dalla ritirata dell’esercito romano d’invasione fino all’arrivo di Sant’Agostino (410-597).]
 
-Considerando questi quattro punti uno per uno…
+# Considerando questi quattro punti uno per uno…
 
 (1) Più all’interno, a una distanza superiore a un giorno di marcia dal mare o dagli estuari dei fiumi, non abbiamo prove dell’insediamento dei pirati né della formazione da parte loro di governi locali. È impossibile delimitare con precisione i confini in un simile caos, ma sappiamo che la maggior parte della contea di Kent e la costa del Sussex, così come l’intera area entro la portata delle incursioni di Southampton Water e dell’Hampshire Avon, la parte marittima dell’East Anglia e del Lincolnshire, nonché, per quanto possiamo giudicare, l’East Riding of Yorkshire, Durham, almeno la parte costiera del Northumberland e i Lothians, erano sotto il dominio di numerosi piccoli re pagani i cui corti utilizzavano una miscela di parole tedesche e latine chiamata “dialetti teutonici”.
 
@@ -2719,7 +2719,7 @@ Proprio nel momento in cui la Gran Bretagna veniva finalmente riconquistata per 
 
 Anche la Gallia fu minacciata: un esercito musulmano invase il suo cuore, molto oltre Poitiers, a metà strada da Tours. Fortunatamente fu sconfitto; tuttavia, le guarnigioni musulmane continuarono a resistere nelle regioni meridionali, lungo i margini settentrionali dei Pirenei e lungo la costa della Narbona e della Provenza.
 
-Il Sud Italia fu invaso e parzialmente occupato. Le isole…
+#Il Sud Italia fu invaso e parzialmente occupato. Le isole…
 
 Il Mediterraneo cadde.
 
@@ -2899,7 +2899,7 @@ La leggenda, come ho detto, offuscava la storia reale e fissa. Le radici tribali
 
 Ogni volta che una grande civiltà doveva risorgere dal terreno dell’Età Buia, era certo che prima si manifestasse un’organizzazione completa della Chiesa sotto la guida di un Papa di eccezionale vigore; in seguito, quel Papa o i suoi successori, all’interno di questa [[concepts/tradition|tradizione]], entravano in conflitto con le nuove autorità civili. Ogni volta che un governo centrale doveva riaffiorare, in qualsiasi forma fosse, iniziava inevitabilmente uno scontro tra i nuovi sovrani e l’organizzazione clericale che si era così rafforzata durante l’Età Buia.
 
-Ora l’Europa, come sappiamo, si è risvegliata dal suo lungo sonno. Il XI secolo fu il momento del suo risveglio. Tre grandi forze – la personalità di San Gregorio VII, l’apparizione (grazie a un felice caso di leggera mescolanza di sangue: un tocco di sangue scandinavo aggiunto alla razza francese) della razza normanna, e infine le [[historical-references/crusades|Crociate]] – estrassero dall’oscurità l’enorme vigore del primo Medioevo. Queste forze diedero vita a una civiltà intensa e attiva; una civiltà che fu senza dubbio la più alta e la migliore conosciuta dalla nostra razza, in armonia con gli istinti dell’uomo europeo, che ne realizzava pienamente la natura, donandogli quella felicità che è lo scopo finale della vita umana.
+Ora l’Europa, come sappiamo, si è risvegliata dal suo lungo sonno. Il XI secolo fu il momento del suo risveglio. Tre grandi forze – la personalità di San Gregorio VII, l’apparizione (grazie a un felice caso di leggera mescolanza di sangue: un tocco di sangue scandinavo aggiunto alla razza francese) della razza normanna, e infine le [[historical-references/crusades|Crociate]] – estrassero dall’oscurità l’enorme vigore del Medioevo初期. Queste forze diedero vita a una civiltà intensa e attiva; una civiltà che fu senza dubbio la più alta e la migliore conosciuta dalla nostra razza, in armonia con gli istinti dell’uomo europeo, che ne realizzava pienamente la natura, donandogli quella felicità che è lo scopo finale della vita umana.
 
 Come sappiamo anche noi, l’Europa, durante questo grande periodo dell’Medioevo e dopo quattrocento anni di notevole vitalità, stava raggiungendo livelli ancora più elevati quando subì un disastro irreparabile.
 
@@ -3431,7 +3431,7 @@ Now let this peculiar fate of the two islands to the north and west of the Conti
 
 <span class="qlang-split" data-lang="it"></span>
 
-IX. La defezione della Gran Bretagna
+# IX. La defezione della Gran Bretagna
 
 Una cosa spicca nel destino dell’Europa moderna: la profonda scissione causata dalla [[historical-references/reformation|Riforma]]. Una sola ragione ha reso quella ferita (che era quasi mortale) così profonda e duratura: il fallimento di un’unica antica provincia della civiltà nel mantenere la [[concepts/faith|>Fede]]. Quella provincia di cui scrivo io: la Britannia.
 
@@ -3687,7 +3687,7 @@ The isolation of the soul means a loss of corporate sustenance; of the sane bala
 
 <span class="qlang-split" data-lang="it"></span>
 
-X. Conclusione
+# X. Conclusione
 
 Il grande effetto della [[historical-references/reformation|Riforma]] fu l’isolamento dell’anima.
 

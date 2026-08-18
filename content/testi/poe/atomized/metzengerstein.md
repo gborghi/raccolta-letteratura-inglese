@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="metzengerstein" data-title="Metzengerstein" data-chapter="" data-kind="intro"></span>
 
-# [[works/metzengerstein-(poe)|Metzengerstein]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

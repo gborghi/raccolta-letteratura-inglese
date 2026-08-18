@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume" data-author="Coleridge" data-workhref="works/grief-and-loss-·-elegy-·-clothing-and-costume-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="012_monody_on_the_death_of_chatterton" data-title="MONODY ON THE DEATH OF CHATTERTON" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/death,concept/grief_and_loss,concept/the_artist_and_society,concept/poverty,concept/social_injustice,concept/melancholy,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+MONODY ON THE DEATH OF CHATTERTON · PAIN · ON RECEIVING AN ACCOUNT THAT HIS ONLY SISTER’S DEATH WAS INEVITABLE · ON SEEING A YOUTH AFFECTIONATELY WELCOMED BY A SISTER · THE GENTLE LOOK · THE DEATH OF THE STARLING · ELEGY IMITATED FROM ONE OF AKENSIDE’S BLANK-VERSE INSCRIPTIONS · THE OUTCAST · LINES ON A FRIEND WHO DIED OF A FRENZY FEVER INDUCED BY CALUMNIOUS REPORTS · PRIESTLEY · TO THE REV. W. L. BOWLES · SONNET · TO THE REV. GEORGE COLERIDGE OF OTTERY ST. MARY, DEVON · HEXAMETERS · HOME-SICK · TO TWO SISTERS: [MARY MORGAN AND CHARLOTTE BRENT] · ISRAEL’S LAMENT · HOMELESS · LOVE’S APPARITION AND EVANISHMENT: AN ALLEGORIC ROMANCE · DE PROFUNDIS CLAMAVI · THE POETASTER · MARK AKENSIDE
+
+
+
+
+<span class="atom-split" data-atom="012_monody_on_the_death_of_chatterton" data-title="MONODY ON THE DEATH OF CHATTERTON" data-chapter="" data-kind="intro"></span>
 
 
 FIRST VERSION, IN [[characters/christ|CHRIST]]’S HOSPITAL BOOK — 1790  
@@ -209,7 +214,7 @@ E di librarmi oltre le tempeste con occhio eretto ed esultante!   90
 
 
 
-<span class="atom-split" data-atom="016_pain" data-title="PAIN" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/music_and_song,concept/melancholy,concept/mortality,concept/transience,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="016_pain" data-title="PAIN" data-chapter="" data-kind="intro"></span>
 
 
 Once could the Morn’s first beams, the healthful breeze,  
@@ -249,7 +254,7 @@ Prima che il polso selvaggio pulsasse angoscia per la [[motifs/night|notte]]!
 
 
 
-<span class="atom-split" data-atom="020_on_receiving_an_account_that_his_only_sisters_death_was_inevitable" data-title="ON RECEIVING AN ACCOUNT THAT HIS ONLY SISTER’S DEATH WAS INEVITABLE" data-chapter="" data-kind="intro" data-tags="motif/death,concept/grief_and_loss,concept/mortality,concept/alienation,concept/melancholy,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="020_on_receiving_an_account_that_his_only_sisters_death_was_inevitable" data-title="ON RECEIVING AN ACCOUNT THAT HIS ONLY SISTER’S DEATH WAS INEVITABLE" data-chapter="" data-kind="intro"></span>
 
 
 The tear which mourn’d a brother’s fate scarce dry —  
@@ -289,7 +294,7 @@ Meglio morire, che vivere e non essere amato!
 
 
 
-<span class="atom-split" data-atom="021_on_seeing_a_youth_affectionately_welcomed_by_a_sister" data-title="ON SEEING A YOUTH AFFECTIONATELY WELCOMED BY A SISTER" data-chapter="" data-kind="intro" data-tags="motif/death,motif/memory,motif/the_grave,concept/grief_and_loss,concept/melancholy,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="021_on_seeing_a_youth_affectionately_welcomed_by_a_sister" data-title="ON SEEING A YOUTH AFFECTIONATELY WELCOMED BY A SISTER" data-chapter="" data-kind="intro"></span>
 
 
 I too a sister had! too cruel [[motifs/death|Death]]!  
@@ -329,7 +334,7 @@ Ché la Vita era miseria, e la [[motifs/grave|Tomba]] è Pace!
 
 
 
-<span class="atom-split" data-atom="045_the_gentle_look" data-title="THE GENTLE LOOK" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/flowers,concept/grief_and_loss,concept/melancholy,concept/nostalgia,concept/hope,concept/transience,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="045_the_gentle_look" data-title="THE GENTLE LOOK" data-chapter="" data-kind="intro"></span>
 
 
 Thou gentle Look, that didst my [[motifs/soul|soul]] beguile,  
@@ -369,7 +374,7 @@ Come il vivido Arcobaleno su un ruscello di salici.
 
 
 
-<span class="atom-split" data-atom="059_the_death_of_the_starling" data-title="THE DEATH OF THE STARLING" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/death,concept/grief_and_loss,form/elegy,histref/ancient_rome,histref/greek_mythology,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="059_the_death_of_the_starling" data-title="THE DEATH OF THE STARLING" data-chapter="" data-kind="intro"></span>
 
 
 Lugete, O Veneres, Cupidinesque. — CATULLUS.  
@@ -403,7 +408,7 @@ Lievemente carezzan l’ala irrigidita.   10
 
 
 
-<span class="atom-split" data-atom="070_elegy_imitated_from_one_of_akensides_blank-verse_inscriptions" data-title="ELEGY IMITATED FROM ONE OF AKENSIDE’S BLANK-VERSE INSCRIPTIONS" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/death,concept/unrequited_love,concept/guilt,concept/conscience,concept/grief_and_loss,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="070_elegy_imitated_from_one_of_akensides_blank-verse_inscriptions" data-title="ELEGY IMITATED FROM ONE OF AKENSIDE’S BLANK-VERSE INSCRIPTIONS" data-chapter="" data-kind="intro"></span>
 
 
 Near the lone pile with ivy overspread,  
@@ -463,7 +468,7 @@ Che le Ricchezze non possono pagare [[motifs/love|Amore]] né [[concepts/truth|V
 
 
 
-<span class="atom-split" data-atom="072_the_outcast" data-title="THE OUTCAST" data-chapter="" data-kind="intro" data-tags="archetype/fallen_woman,archetype/outcast_wanderer,concept/social_injustice,concept/mercy,concept/alienation,concept/poverty,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="072_the_outcast" data-title="THE OUTCAST" data-chapter="" data-kind="intro"></span>
 
 
 Pale Roamer through the [[motifs/night|night]]! thou poor Forlorn!  
@@ -503,7 +508,7 @@ Egli, il gran Consolatore che regna lassù!
 
 
 
-<span class="atom-split" data-atom="078_lines_on_a_friend_who_died_of_a_frenzy_fever_induced_by_calumnious_reports" data-title="LINES ON A FRIEND WHO DIED OF A FRENZY FEVER INDUCED BY CALUMNIOUS REPORTS" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/madness,motif/death,concept/grief_and_loss,concept/friendship,concept/madness,concept/social_injustice,form/elegy,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="078_lines_on_a_friend_who_died_of_a_frenzy_fever_induced_by_calumnious_reports" data-title="LINES ON A FRIEND WHO DIED OF A FRENZY FEVER INDUCED BY CALUMNIOUS REPORTS" data-chapter="" data-kind="intro"></span>
 
 
 [[characters/edmund|Edmund]]! thy [[motifs/grave|grave]] with aching eye I scan,  
@@ -615,7 +620,7 @@ E volentieri [[motifs/sleep|dormirei]], pur con una zolla per guanciale!   50
 
 
 
-<span class="atom-split" data-atom="084_priestley" data-title="PRIESTLEY" data-chapter="" data-kind="intro" data-tags="archetype/prophet,concept/liberty,concept/reform,concept/justice,concept/exile,concept/faith,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="084_priestley" data-title="PRIESTLEY" data-chapter="" data-kind="intro"></span>
 
 
 Though rous’d by that dark Vizir Riot rude  
@@ -655,7 +660,7 @@ Per sorridere con tenerezza al Figlio che la contempla!
 
 
 
-<span class="atom-split" data-atom="088_to_the_rev_w_l_bowles" data-title="TO THE REV. W. L. BOWLES" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/the_artist_and_society,concept/imagination,concept/melancholy,concept/friendship,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="088_to_the_rev_w_l_bowles" data-title="TO THE REV. W. L. BOWLES" data-chapter="" data-kind="intro"></span>
 
 
 FIRST VERSION, PRINTED IN ‘MORNING CHRONICLE’, DECEMBER 26, 1794  
@@ -697,7 +702,7 @@ VIII
 
 
 
-<span class="atom-split" data-atom="121_sonnet" data-title="SONNET" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,concept/grief_and_loss,concept/friendship,concept/faith,form/sonnet,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="121_sonnet" data-title="SONNET" data-chapter="" data-kind="intro"></span>
 
 
 [TO CHARLES LLOYD]  
@@ -739,7 +744,7 @@ Piange con non fuggevole [[motifs/love|amore]] l’Amico Attempato.
 
 
 
-<span class="atom-split" data-atom="131_to_the_rev_george_coleridge_of_ottery_st_mary_devon" data-title="TO THE REV. GEORGE COLERIDGE OF OTTERY ST. MARY, DEVON" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,concept/friendship,concept/alienation,concept/exile,concept/providence,form/blank_verse,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="131_to_the_rev_george_coleridge_of_ottery_st_mary_devon" data-title="TO THE REV. GEORGE COLERIDGE OF OTTERY ST. MARY, DEVON" data-chapter="" data-kind="intro"></span>
 
 
 With some [[works/poems-(chesterton)|Poems]]  
@@ -909,7 +914,7 @@ NETHER-STOWEY, SOMERSET, 26 maggio 1797.
 
 
 
-<span class="atom-split" data-atom="161_hexameters" data-title="HEXAMETERS" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/grief_and_loss,concept/melancholy,concept/exile,form/hexameter_verse,form/verse_epistle,setting/europe,setting/germany,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="161_hexameters" data-title="HEXAMETERS" data-chapter="" data-kind="intro"></span>
 
 
 William, my teacher, my friend! dear William and dear Dorothea!
@@ -1013,7 +1018,7 @@ Avete tutto l’uno nell’altra; ma io sono solo, e vi voglio!
 
 
 
-<span class="atom-split" data-atom="174_home-sick" data-title="HOME-SICK" data-chapter="" data-kind="intro" data-tags="motif/wind,concept/exile,concept/nostalgia,concept/nationalism_and_patriotism,concept/marriage_and_fidelity,form/lyric,setting/europe,setting/germany,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="174_home-sick" data-title="HOME-SICK" data-chapter="" data-kind="intro"></span>
 
 
 WRITTEN IN [[settings/germany|GERMANY]]  
@@ -1059,7 +1064,7 @@ Tu brezza che giochi sulla riva d’Albione!
 
 
 
-<span class="atom-split" data-atom="235_to_two_sisters_mary_morgan_and_charlotte_brent" data-title="TO TWO SISTERS: [MARY MORGAN AND CHARLOTTE BRENT]" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/memory,motif/winter,concept/grief_and_loss,concept/memory_and_time,concept/alienation,concept/friendship,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="235_to_two_sisters_mary_morgan_and_charlotte_brent" data-title="TO TWO SISTERS: [MARY MORGAN AND CHARLOTTE BRENT]" data-chapter="" data-kind="intro"></span>
 
 
 A WANDERER’S FAREWELL  
@@ -1179,7 +1184,7 @@ E splendere nell’occhio, di tutto il resto del mondo.
 
 
 
-<span class="atom-split" data-atom="261_israels_lament" data-title="ISRAEL’S LAMENT" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/flowers,concept/grief_and_loss,concept/mortality,concept/faith,concept/providence,form/elegy,histref/the_bible,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="261_israels_lament" data-title="ISRAEL’S LAMENT" data-chapter="" data-kind="intro"></span>
 
 
 ‘A Hebrew [[forms/dirge|Dirge]], chaunted in the Great Synagogue, St. James’s Place,  
@@ -1313,7 +1318,7 @@ Sii tu il loro Consolatore, o Dio!
 
 
 
-<span class="atom-split" data-atom="275_homeless" data-title="HOMELESS" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/exile,concept/alienation,concept/melancholy,form/lyric,histref/christianity,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="275_homeless" data-title="HOMELESS" data-chapter="" data-kind="intro"></span>
 
 
 ‘O! Christmas Day, Oh! happy day!  
@@ -1341,7 +1346,7 @@ Il desolato di cuore.
 
 
 
-<span class="atom-split" data-atom="300_loves_apparition_and_evanishment_an_allegoric_romance" data-title="LOVE’S APPARITION AND EVANISHMENT: AN ALLEGORIC ROMANCE" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,archetype/lover,motif/garden,motif/ruins,motif/flowers,concept/melancholy,concept/unrequited_love,concept/grief_and_loss,form/allegory,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="300_loves_apparition_and_evanishment_an_allegoric_romance" data-title="LOVE’S APPARITION AND EVANISHMENT: AN ALLEGORIC ROMANCE" data-chapter="" data-kind="intro"></span>
 
 
 Like a lone Arab, old and blind,  
@@ -1407,7 +1412,7 @@ Da far morire di nuovo la [[concepts/hope|Speranza]].
 
 
 
-<span class="atom-split" data-atom="385_de_profundis_clamavi" data-title="DE PROFUNDIS CLAMAVI" data-chapter="" data-kind="intro" data-tags="motif/death,motif/winter,concept/melancholy,concept/mortality,concept/love_romantic,concept/self_and_soul,form/fragment,histref/eastern_religion,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="385_de_profundis_clamavi" data-title="DE PROFUNDIS CLAMAVI" data-chapter="" data-kind="intro"></span>
 
 
 Come, come thou bleak December [[motifs/wind|wind]],  
@@ -1539,7 +1544,7 @@ Con note come di chi lima l’ottone.
 
 
 
-<span class="atom-split" data-atom="426_the_poetaster" data-title="THE POETASTER" data-chapter="" data-kind="intro" data-tags="motif/death,concept/grief_and_loss,concept/love_romantic,form/fragment,form/verse_drama,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="426_the_poetaster" data-title="THE POETASTER" data-chapter="" data-kind="intro"></span>
 
 
 Act I, Scene 1.
@@ -1591,7 +1596,7 @@ Ristampata come [[forms/fragment|Fragment]] No. 59, P. W., 1893, p. 460.
 
 
 
-<span class="atom-split" data-atom="430_mark_akenside" data-title="MARK AKENSIDE" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/unrequited_love,concept/pride,concept/grief_and_loss,concept/providence,form/elegy,form/blank_verse,setting/pastoral_countryside,cluster/grief_and_loss,cluster/elegy,cluster/clothing_and_costume"></span>
+<span class="atom-split" data-atom="430_mark_akenside" data-title="MARK AKENSIDE" data-chapter="" data-kind="intro"></span>
 
 
 [[forms/blank-verse|BLANK VERSE]] INSCRIPTIONS  

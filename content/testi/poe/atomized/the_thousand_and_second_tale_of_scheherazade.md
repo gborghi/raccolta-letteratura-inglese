@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_thousand_and_second_tale_of_scheherazade" data-title="The Thousand-And-Second Tale of Scheherazade" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-thousand-and-second-tale-of-scheherazade-(poe)|The Thousand-And-Second Tale of Scheherazade]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

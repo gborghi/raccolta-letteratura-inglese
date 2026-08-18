@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat" data-author="Coleridge" data-workhref="works/ode-·-nature-vs-civilization-·-pastoral-retreat-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="000_easter_holidays" data-title="EASTER HOLIDAYS" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,motif/spring,motif/seasons,motif/nature,concept/joy,form/ode,histref/christianity,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+EASTER HOLIDAYS · HAPPINESS · A WISH · TO DISAPPOINTMENT · SONGS OF THE PIXIES · TO THE NIGHTINGALE · COMPOSED WHILE CLIMBING THE LEFT ASCENT OF BROCKLEY COOMB, · REFLECTIONS ON HAVING LEFT A PLACE OF RETIREMENT · TO A YOUNG FRIEND · THE RAVEN · THE FOSTER-MOTHER’S TALE · LINES TO W. L.: WHILE HE SANG A SONG TO PURCELL’S MUSIC · FRANCE: AN ODE · NETHER STOWEY · THE VISIT OF THE GODS: IMITATED FROM SCHILLER · LINES COMPOSED IN A CONCERT-ROOM · HYMN TO THE EARTH · ODE TO TRANQUILLITY · DEJECTION: AN ODE · HYMN BEFORE SUN-RISE, IN THE VALE OF CHAMOUNI · INSCRIPTION FOR A FOUNTAIN ON A HEATH · TO NATURE · THE REPROOF AND REPLY · WORK WITHOUT HOPE · THE GARDEN OF BOCCACCIO · ON A VOLUNTEER SINGER · BARON GUELPH OF ADELSTAN. A FRAGMENT · STOLBERG: HYMNE AN DIE ERDE.
+
+
+
+
+<span class="atom-split" data-atom="000_easter_holidays" data-title="EASTER HOLIDAYS" data-chapter="" data-kind="intro"></span>
 
 
 VERSE 1ST  
@@ -107,7 +112,7 @@ come Pasqua tutto l’anno.
 
 
 
-<span class="atom-split" data-atom="032_happiness" data-title="HAPPINESS" data-chapter="" data-kind="intro" data-tags="topos/beatus_ille,motif/money_gold,concept/ambition,concept/humility,concept/temptation,concept/friendship,concept/joy,form/ode,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="032_happiness" data-title="HAPPINESS" data-chapter="" data-kind="intro"></span>
 
 
 On wide or narrow scale shall Man  
@@ -329,7 +334,7 @@ mentre la [[concepts/faith|Fede]] proclama “Tu non morrai!”’   105
 
 
 
-<span class="atom-split" data-atom="033_a_wish" data-title="A WISH" data-chapter="" data-kind="intro" data-tags="topos/beatus_ille,topos/pastoral_retreat,motif/river,motif/death,concept/humility,concept/war_and_its_cost,form/blank_verse,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="033_a_wish" data-title="A WISH" data-chapter="" data-kind="intro"></span>
 
 
 WRITTEN IN JESUS WOOD, FEB. 10, 1792  
@@ -375,7 +380,7 @@ con gelida mano!
 
 
 
-<span class="atom-split" data-atom="035_to_disappointment" data-title="TO DISAPPOINTMENT" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/seasons,motif/spring,concept/melancholy,concept/ambition,concept/joy,form/ode,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="035_to_disappointment" data-title="TO DISAPPOINTMENT" data-chapter="" data-kind="intro"></span>
 
 
 Hence! thou fiend of gloomy sway,  
@@ -451,7 +456,7 @@ osa dolerti del suo lento ritorno!
 
 
 
-<span class="atom-split" data-atom="042_songs_of_the_pixies" data-title="SONGS OF THE PIXIES" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,topos/poet_as_prophet,motif/the_supernatural,motif/nature,motif/river,motif/moon,motif/night,motif/memory,concept/imagination,form/ode,setting/an_enchanted_wood,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="042_songs_of_the_pixies" data-title="SONGS OF THE PIXIES" data-chapter="" data-kind="intro"></span>
 
 
 The Pixies, in the superstition of Devonshire, are a race of beings  
@@ -721,7 +726,7 @@ estrarremo un Rossore per l’[[motifs/love|Amore]]!
 
 
 
-<span class="atom-split" data-atom="099_to_the_nightingale" data-title="TO THE NIGHTINGALE" data-chapter="" data-kind="intro" data-tags="motif/nightingale,motif/music_and_song,motif/moon,concept/melancholy,concept/love_romantic,form/lyric,histref/greek_mythology,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="099_to_the_nightingale" data-title="TO THE NIGHTINGALE" data-chapter="" data-kind="intro"></span>
 
 
 Sister of [[motifs/love|love]]-lorn Poets, Philomel!  
@@ -793,7 +798,7 @@ mi fa fremere col nome promesso di Sposo!
 
 
 
-<span class="atom-split" data-atom="100_composed_while_climbing_the_left_ascent_of_brockley_coomb" data-title="COMPOSED WHILE CLIMBING THE LEFT ASCENT OF BROCKLEY COOMB," data-chapter="" data-kind="intro" data-tags="motif/nature,motif/birds,concept/the_sublime,concept/love_romantic,form/sonnet,setting/pastoral_countryside,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="100_composed_while_climbing_the_left_ascent_of_brockley_coomb" data-title="COMPOSED WHILE CLIMBING THE LEFT ASCENT OF BROCKLEY COOMB," data-chapter="" data-kind="intro"></span>
 
 
 SOMERSETSHIRE, MAY    1795  
@@ -837,7 +842,7 @@ Luogo incantevole! Oh fosse qui la mia Sara!
 
 
 
-<span class="atom-split" data-atom="107_reflections_on_having_left_a_place_of_retirement" data-title="REFLECTIONS ON HAVING LEFT A PLACE OF RETIREMENT" data-chapter="" data-kind="intro" data-tags="topos/beatus_ille,topos/pastoral_retreat,topos/book_of_nature,motif/the_sea,motif/rose,concept/nature_vs_civilization,concept/faith,concept/social_injustice,form/conversation_poem,form/blank_verse,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="107_reflections_on_having_left_a_place_of_retirement" data-title="REFLECTIONS ON HAVING LEFT A PLACE OF RETIREMENT" data-chapter="" data-kind="intro"></span>
 
 
 Sermoni propriora. — HOR.  
@@ -995,7 +1000,7 @@ Potrebbe essere così — ma il [[motifs/time|tempo]] non è ancora venuto.   70
 
 
 
-<span class="atom-split" data-atom="122_to_a_young_friend" data-title="TO A YOUNG FRIEND" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,topos/locus_amoenus,motif/nature,concept/friendship,concept/joy,form/blank_verse,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="122_to_a_young_friend" data-title="TO A YOUNG FRIEND" data-chapter="" data-kind="intro"></span>
 
 
 ON HIS PROPOSING TO DOMESTICATE WITH THE AUTHOR  
@@ -1165,7 +1170,7 @@ Ora possa il Cielo realizzare questa visione lucente!
 
 
 
-<span class="atom-split" data-atom="128_the_raven" data-title="THE RAVEN" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/death,motif/the_sea,motif/storm,concept/revenge,form/ballad,character/death_personified,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="128_the_raven" data-title="THE RAVEN" data-chapter="" data-kind="intro"></span>
 
 
 A CHRISTMAS TALE, TOLD BY A SCHOOL-BOY TO HIS LITTLE BROTHERS AND SISTERS  
@@ -1267,7 +1272,7 @@ gli avevano preso tutto, e la [[concepts/revenge|VENDETTA]] FU DOLCE!
 
 
 
-<span class="atom-split" data-atom="135_the_foster-mothers_tale" data-title="THE FOSTER-MOTHER’S TALE" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,concept/nature_vs_civilization,concept/liberty,concept/madness,form/verse_drama,form/fragment,setting/a_ship,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="135_the_foster-mothers_tale" data-title="THE FOSTER-MOTHER’S TALE" data-chapter="" data-kind="intro"></span>
 
 
 A DRAMATIC [[forms/fragment|FRAGMENT]]
@@ -1453,7 +1458,7 @@ che vivesse e morisse fra gli uomini selvaggi.
 
 
 
-<span class="atom-split" data-atom="143_lines_to_w_l_while_he_sang_a_song_to_purcells_music" data-title="LINES TO W. L.: WHILE HE SANG A SONG TO PURCELL’S MUSIC" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/mortality,concept/friendship,concept/melancholy,form/sonnet,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="143_lines_to_w_l_while_he_sang_a_song_to_purcells_music" data-title="LINES TO W. L.: WHILE HE SANG A SONG TO PURCELL’S MUSIC" data-chapter="" data-kind="intro"></span>
 
 
 While my young cheek retains its healthful hues,  
@@ -1493,7 +1498,7 @@ mescolarmi ai beati, e non sapere d’esser morto!
 
 
 
-<span class="atom-split" data-atom="147_france_an_ode" data-title="FRANCE: AN ODE" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/liberty,concept/disillusionment,concept/the_sublime,concept/nationalism_and_patriotism,form/ode,histref/the_french_revolution,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="147_france_an_ode" data-title="FRANCE: AN ODE" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -1725,7 +1730,7 @@ Febbraio 1798.
 
 
 
-<span class="atom-split" data-atom="154_nether_stowey" data-title="NETHER STOWEY" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nightingale,motif/nature,concept/joy,concept/melancholy,concept/childhood_and_growth,form/blank_verse,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="154_nether_stowey" data-title="NETHER STOWEY" data-chapter="" data-kind="intro"></span>
 
 
 APRIL 20, 1798. THE [[motifs/nightingale|NIGHTINGALE]]: A [[forms/conversation-poem|CONVERSATION POEM]], APRIL, 1798  
@@ -1963,7 +1968,7 @@ dolce [[motifs/nightingale|Usignolo]]! ancora una volta, amici miei! addio.   11
 
 
 
-<span class="atom-split" data-atom="169_the_visit_of_the_gods_imitated_from_schiller" data-title="THE VISIT OF THE GODS: IMITATED FROM SCHILLER" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/wine_and_drink,concept/immortality,concept/imagination,concept/joy,form/ode,form/translation,histref/greek_mythology,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="169_the_visit_of_the_gods_imitated_from_schiller" data-title="THE VISIT OF THE GODS: IMITATED FROM SCHILLER" data-chapter="" data-kind="intro"></span>
 
 
 Never, believe me,  
@@ -2029,7 +2034,7 @@ mi vieta di morire!
 
 
 
-<span class="atom-split" data-atom="180_lines_composed_in_a_concert-room" data-title="LINES COMPOSED IN A CONCERT-ROOM" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/memory,motif/nature,motif/the_sea,concept/satire_of_society,concept/nature_vs_civilization,concept/the_common_man,form/lyric,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="180_lines_composed_in_a_concert-room" data-title="LINES COMPOSED IN A CONCERT-ROOM" data-chapter="" data-kind="intro"></span>
 
 
 Nor cold, nor stern, my [[motifs/soul|soul]]! yet I detest  
@@ -2121,7 +2126,7 @@ mormorio e musica sottile di brezza improvvisa.   40
 
 
 
-<span class="atom-split" data-atom="183_hymn_to_the_earth" data-title="HYMN TO THE EARTH" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,archetype/great_mother,motif/nature,motif/stars,motif/the_sea,concept/wonder_and_gratitude,concept/the_sublime,form/hymn,form/hexameter_verse,form/translation,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="183_hymn_to_the_earth" data-title="HYMN TO THE EARTH" data-chapter="" data-kind="intro"></span>
 
 
 IMITATED FROM STOLBERG’S HYMNE AN DIE ERDE  
@@ -2239,7 +2244,7 @@ vagò belando nelle valli, e gorgheggiò su rami in fiore.
 
 
 
-<span class="atom-split" data-atom="201_ode_to_tranquillity" data-title="ODE TO TRANQUILLITY" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,topos/beatus_ille,motif/moon,motif/autumn,concept/satire_of_society,concept/war_and_its_cost,concept/nature_vs_civilization,form/ode,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="201_ode_to_tranquillity" data-title="ODE TO TRANQUILLITY" data-chapter="" data-kind="intro"></span>
 
 
 Tranquillity! thou better name  
@@ -2317,7 +2322,7 @@ troppo folle per una lacrima, troppo empio per un sorriso!
 
 
 
-<span class="atom-split" data-atom="205_dejection_an_ode" data-title="DEJECTION: AN ODE" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/wind,motif/moon,motif/stars,motif/music_and_song,concept/melancholy,concept/imagination,concept/joy,concept/alienation,concept/the_natural_order,concept/self_and_soul,form/ode,histref/the_romantic_movement,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="205_dejection_an_ode" data-title="DEJECTION: AN ODE" data-chapter="" data-kind="intro"></span>
 
 
 [WRITTEN APRIL 4, 1802]  
@@ -2635,7 +2640,7 @@ così possa tu sempre, sempre più gioire.
 
 
 
-<span class="atom-split" data-atom="209_hymn_before_sun-rise_in_the_vale_of_chamouni" data-title="HYMN BEFORE SUN-RISE, IN THE VALE OF CHAMOUNI" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/dawn,motif/stars,motif/sun,motif/water,concept/the_sublime,concept/faith,concept/wonder_and_gratitude,concept/love_divine,form/hymn,histref/christianity,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="209_hymn_before_sun-rise_in_the_vale_of_chamouni" data-title="HYMN BEFORE SUN-RISE, IN THE VALE OF CHAMOUNI" data-chapter="" data-kind="intro"></span>
 
 
 Besides the Rivers, Arve and Arveiron, which have their sources in the  
@@ -2853,7 +2858,7 @@ che la Terra, con le sue mille voci, loda DIO.   85
 
 
 
-<span class="atom-split" data-atom="212_inscription_for_a_fountain_on_a_heath" data-title="INSCRIPTION FOR A FOUNTAIN ON A HEATH" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,topos/pastoral_retreat,archetype/pilgrim,motif/water,motif/nature,concept/innocence_and_experience,setting/pastoral_countryside,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="212_inscription_for_a_fountain_on_a_heath" data-title="INSCRIPTION FOR A FOUNTAIN ON A HEATH" data-chapter="" data-kind="intro"></span>
 
 
 This Sycamore, oft musical with [[motifs/bees|bees]], —  
@@ -2903,7 +2908,7 @@ o brezza che passa o ronzio d’[[motifs/bees|api]] mormoranti!
 
 
 
-<span class="atom-split" data-atom="257_to_nature" data-title="TO NATURE" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/flowers,concept/faith,concept/wonder_and_gratitude,concept/humility,form/sonnet,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="257_to_nature" data-title="TO NATURE" data-chapter="" data-kind="intro"></span>
 
 
 It may indeed be phantasy, when I  
@@ -2943,7 +2948,7 @@ neppure me, sacerdote di questo povero sacrificio.
 
 
 
-<span class="atom-split" data-atom="265_the_reproof_and_reply" data-title="THE REPROOF AND REPLY" data-chapter="" data-kind="intro" data-tags="motif/garden,motif/flowers,motif/spring,concept/imagination,form/satire,histref/greek_mythology,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="265_the_reproof_and_reply" data-title="THE REPROOF AND REPLY" data-chapter="" data-kind="intro"></span>
 
 
 Or, The Flower-Thief’s Apology, for a robbery committed in Mr. and Mrs.  
@@ -3091,7 +3096,7 @@ l’Ottavo Comandamento non fu fatto per i Bardi!’”
 
 
 
-<span class="atom-split" data-atom="268_work_without_hope" data-title="WORK WITHOUT HOPE" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/spring,motif/winter,motif/flowers,concept/melancholy,concept/creative_sterility,concept/disillusionment,concept/alienation,form/sonnet,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="268_work_without_hope" data-title="WORK WITHOUT HOPE" data-chapter="" data-kind="intro"></span>
 
 
 LINES COMPOSED 21ST FEBRUARY 1825  
@@ -3133,7 +3138,7 @@ e la [[concepts/hope|Speranza]] senza un oggetto non può vivere.
 
 
 
-<span class="atom-split" data-atom="286_the_garden_of_boccaccio" data-title="THE GARDEN OF BOCCACCIO" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,topos/pastoral_retreat,motif/memory,motif/garden,motif/childhood,concept/history,concept/imagination,concept/melancholy,concept/love_romantic,histref/the_renaissance,histref/greek_mythology,histref/norse_myth,setting/europe,setting/italy,setting/a_garden,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="286_the_garden_of_boccaccio" data-title="THE GARDEN OF BOCCACCIO" data-chapter="" data-kind="intro"></span>
 
 
 Or late, in one of those most weary hours,  
@@ -3363,7 +3368,7 @@ con quel satiro furbo che sbircia fra le [[motifs/leaves|foglie]]!
 
 
 
-<span class="atom-split" data-atom="327_on_a_volunteer_singer" data-title="ON A VOLUNTEER SINGER" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/birds,concept/satire_of_society,form/epigram,form/satire,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="327_on_a_volunteer_singer" data-title="ON A VOLUNTEER SINGER" data-chapter="" data-kind="intro"></span>
 
 
 Swans sing before they die—’twere no bad thing  
@@ -3381,7 +3386,7 @@ Pubblicato per la prima volta in An. Anth., 1800. Incluso in Keepsake, 1829, p.
 
 
 
-<span class="atom-split" data-atom="398_baron_guelph_of_adelstan_a_fragment" data-title="BARON GUELPH OF ADELSTAN. A FRAGMENT" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/spring,form/ballad,form/narrative_poem,setting/the_court,setting/pastoral_countryside,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="398_baron_guelph_of_adelstan_a_fragment" data-title="BARON GUELPH OF ADELSTAN. A FRAGMENT" data-chapter="" data-kind="intro"></span>
 
 
 For ever in the world of Fame  
@@ -3435,7 +3440,7 @@ Senza data. Ora pubblicato per la prima volta da un MS.
 
 
 
-<span class="atom-split" data-atom="444_stolberg_hymne_an_die_erde" data-title="STOLBERG: HYMNE AN DIE ERDE." data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/nature,motif/the_sea,concept/the_sublime,concept/wonder_and_gratitude,concept/the_natural_order,form/hymn,cluster/ode,cluster/nature_vs_civilization,cluster/pastoral_retreat"></span>
+<span class="atom-split" data-atom="444_stolberg_hymne_an_die_erde" data-title="STOLBERG: HYMNE AN DIE ERDE." data-chapter="" data-kind="intro"></span>
 
 
 Erde, du Mutter zahlloser Kinder, Mutter und Amme!  

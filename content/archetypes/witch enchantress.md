@@ -15,7 +15,7 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/sword-(chesterton)|Sword (Chesterton)]]
-- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#108_circes_palace|Circe’s Palace (Eliot)]]
+- [[works/circe’s-palace-(eliot)|Circe’s Palace (Eliot)]]
 - [[works/cymbeline-(shakespeare)|CYMBELINE (Shakespeare)]]
 - [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
 - [[works/the-fisherman-and-his-soul-(wilde)|The Fisherman and his Soul (Wilde)]]

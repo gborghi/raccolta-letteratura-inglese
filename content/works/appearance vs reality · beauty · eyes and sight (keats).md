@@ -37,13 +37,13 @@ tags:
 
 Raccolta tematica di 7 componimenti di John Keats.
 
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#087_oh_i_am_frightend_with_most_hateful_thoughts|Oh, I am frighten’d with most hateful thoughts!]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#076_sharing_eves_apple|Sharing Eve’s Apple]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#080_sonnet_written_in_answer_to_a_sonnet_ending_thus|Sonnet Written in Answer to a Sonnet Ending thus:]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#116_sonnet_to_sleep|Sonnet to Sleep]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#005_to|TO * * * *]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#017_to_g_a_w|To G. A. W]]
-- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#051_to_the_ladies_who_saw_me_crownd|To the Ladies who Saw Me Crown’d]]
+- [[works/oh,-i-am-frighten’d-with-most-hateful-thoughts!-(keats)|Oh, I am frighten’d with most hateful thoughts!]]
+- [[works/sharing-eve’s-apple-(keats)|Sharing Eve’s Apple]]
+- [[works/sonnet-written-in-answer-to-a-sonnet-ending-thus-(keats)|Sonnet Written in Answer to a Sonnet Ending thus:]]
+- [[works/sonnet-to-sleep-(keats)|Sonnet to Sleep]]
+- [[works/to-(keats)|TO * * * *]]
+- [[works/to-g.-a.-w-(keats)|To G. A. W]]
+- [[works/to-the-ladies-who-saw-me-crown’d-(keats)|To the Ladies who Saw Me Crown’d]]
 
 ## Testo / Text
 

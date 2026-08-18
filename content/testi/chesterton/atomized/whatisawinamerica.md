@@ -21344,7 +21344,7 @@ for something that walked nameless but enormous in the modern world, a
 
 shaft of light and a stroke of [[motifs/lightning|lightning]]. That comes from [[settings/america|America]] and
 
-belongs to the world, as much as '[[works/the-raven-(poe)|The Raven]]' or _The Scarlet Letter_ or
+belongs to the world, as much as '[[works/the-raven-(coleridge)|The Raven]]' or _The Scarlet Letter_ or
 
 the novels of Henry James belong to the world. In fact, I can imagine
 
@@ -21513,7 +21513,7 @@ per qualcosa che camminava senza nome ma enorme nel mondo moderno, un
 
 fascio di luce e un colpo di [[motifs/lightning|fulmine]]. Viene dall'[[settings/america|America]] e
 
-appartiene al mondo, tanto quanto '[[works/the-raven-(poe)|The Raven]]' o _The Scarlet Letter_ o
+appartiene al mondo, tanto quanto '[[works/the-raven-(coleridge)|The Raven]]' o _The Scarlet Letter_ o
 
 i romanzi di Henry James appartengono al mondo. Anzi, posso immaginare
 

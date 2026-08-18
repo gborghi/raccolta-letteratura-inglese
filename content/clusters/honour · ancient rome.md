@@ -16,8 +16,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0349_i_had_the_glory_that_will_do|349. I had the Glory — that will do — (Dickinson)]]
-- [[testi/dickinson/atomized/crown-pride-fortunes-wheel#0551_there_is_a_shame_of_nobleness|551. There is a Shame of Nobleness — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel--poems#had_the_glory_that_will_do|349. I had the Glory — that will do — (Dickinson)]]
+- [[testi/dickinson/atomized/crown-pride-fortunes-wheel--poems#ere_is_a_shame_of_nobleness|551. There is a Shame of Nobleness — (Dickinson)]]
 - [[works/antony-and-cleopatra-(shakespeare)|ANTONY AND CLEOPATRA (Shakespeare)]]
 - [[works/coriolanus-(shakespeare)|CORIOLANUS (Shakespeare)]]
 - [[works/julius-caesar-(shakespeare)|JULIUS CAESAR (Shakespeare)]]

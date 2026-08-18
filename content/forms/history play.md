@@ -16,7 +16,7 @@ tags:
 
 - [[works/robert-browning-(chesterton)|Robert Browning (Chesterton)]]
 - [[works/the-fall-of-robespierre-(coleridge)|THE FALL OF ROBESPIERRE (Coleridge)]]
-- [[testi/keats/atomized/crown-pride-fortunes-wheel#144_king_stephen|King Stephen (Keats)]]
+- [[works/king-stephen-(keats)|King Stephen (Keats)]]
 - [[works/1-henry-iv-(shakespeare)|1 HENRY IV (Shakespeare)]]
 - [[works/2-henry-iv-(shakespeare)|2 HENRY IV (Shakespeare)]]
 - [[works/all-is-true---(henry-viii)-(shakespeare)|ALL IS TRUE - (HENRY VIII) (Shakespeare)]]

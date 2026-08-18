@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_gold_bug" data-title="The Gold-Bug" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-gold-bug-(poe)|The Gold-Bug]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

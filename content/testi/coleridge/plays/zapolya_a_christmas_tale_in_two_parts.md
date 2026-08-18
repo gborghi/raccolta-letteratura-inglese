@@ -17,6 +17,10 @@ tags:
 Coleridge's romance verse-drama in blank verse, modelled on Shakespeare's Winter's Tale: a usurper (Emerick) seizes the throne of Illyria, the rightful queen and infant heir are driven into exile, and after twenty years legitimacy is restored. Central themes are kingship and legitimacy, usurpation, fate and providence, exile, and the restoration of the natural order.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'inverno* di Shakespeare: un usurpatore (Emerick) s'impadronisce del trono d'Illiria, la legittima regina e l'erede infante vengono costretti all'esilio, e dopo vent'anni la legittimità è ristabilita. Temi centrali sono il regno e la legittimità, l'usurpazione, il fato e la provvidenza, l'esilio e il ristabilimento dell'ordine naturale.
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1" data-title="ZAPOLYA — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/king,archetype/lover,archetype/monster,archetype/orphan,archetype/prophet,archetype/rebel,archetype/shadow,archetype/tyrant,archetype/usurper,archetype/villain,motif/blood,motif/city,motif/death,motif/decay,motif/fire,motif/flag,motif/frost,motif/grave,motif/home,motif/leaves,motif/love,motif/moon,motif/nature,motif/pain,motif/prayer,motif/road,motif/rose,motif/silence,motif/soul,motif/storm,motif/tears,motif/time,motif/well,concept/body,concept/conscience,concept/courage,concept/despair,concept/faith,concept/fear,concept/freedom,concept/guilt,concept/honour,concept/hope,concept/mercy,concept/nature,concept/self,concept/truth,concept/wonder,setting/court,setting/mountains,character/brutus,character/queen,character/speed"></span>

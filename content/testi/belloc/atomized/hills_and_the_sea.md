@@ -173,7 +173,7 @@ TO
 
 L'altro uomo
 
-Il signor Philip Kershaw
+# Il signor Philip Kershaw
 
 C'erano una volta due uomini. Erano uomini di forza e nobili natali. Erano giovani, intolleranti e in ottima forma fisica. Se esistesse per gli esseri umani, come esiste per i cani, un tribunale che valutasse l’eccellenza; se ci fossero giudici incaricati di valutare le qualità umane e giurie che assegnassero premi per la virilità, la forza fisica e altre virtù, senza dubbio questi due uomini avrebbero vinto le medaglie d’oro e d’argento. Erano davvero uomini eccezionali.
 
@@ -207,7 +207,7 @@ Ecco che ora mi chiedete i loro nomi. I loro nomi! Perché? Si sono dati centina
 
 “Mi chiamo URSUS, e questo è il mio bastone DREADNOUGHT: che le persone della Valle abbiano paura!”
 
-E allora l’altro si tagliò un bastone ancora più grosso e gridò con una voce ancora più forte:
+#E allora l’altro si tagliò un bastone ancora più grosso e gridò con una voce ancora più forte:
 
 “Mi chiamo TAURO, e questo è il mio bastone CRACK-SKULL: che tremino coloro che vivono nelle valli!”
 
@@ -455,7 +455,7 @@ I shall saunter in one of the towns of the plain, St. Girons or another, along t
 
 <span class="qlang-split" data-lang="it"></span>
 
-Su “le lettere”
+#Su “le lettere”
 
 Un “Mail” è un luogo dove gli alberi sono piantati in modo ordinato per formare vialetti; sotto di essi viene sparsa sabbia e ghiaia; l’intero complesso, ad eccezione di un lato, è circondato da mura in muratura grigia, solida e finemente lavorata; su quel lato, forti pilastri di pietra sostengono catene pesanti che bloccano l’ingresso. Un “Mail” impiega circa duecento anni per raggiungere la sua piena maturità, rimane perfetto per altri cento anni, e poi, chissà, inizia a decadere. Tuttavia, né il momento esatto in cui questo processo ha inizio né la durata del suo declino sono ancora noti con certezza; infatti, tutti i “Mails” conosciuti risalgono almeno al XVII secolo, e la maggior parte di essi fu costruita durante l’epoca della giovinezza di Carlo II e della maturità di Luigi XIV. O forse mi sbaglio? Non erano questi due uomini più o meno della stessa età?
 
@@ -517,7 +517,7 @@ There was complete silence from that moment till the dawn, and the second of the
 
 <span class="qlang-split" data-lang="it"></span>
 
-La colonia dei Pirenei
+# La colonia dei Pirenei
 
 Intrappolato tra due delle più grandi colline d’Europa – colline quasi altrettanto alte dell’Etna, le cui vaste basi coprono metà di una contea – si trova, nei Pirenei spagnoli, un piccolo paese. Viene menzionato molto raramente nei libri e probabilmente visitato ancora più di rado. Dei tre uomini che nella mia vita hanno pronunciato il suo nome, solo due ne hanno scritto, e soltanto uno l’ha realmente visto. Eppure vederlo significa imparare centinaia di cose.
 
@@ -589,7 +589,7 @@ Or words to that effect. And to think that you can get to a place like that for 
 
 <span class="qlang-split" data-lang="it"></span>
 
-DELFT
+# DELFT
 
 Delft è la città più incantevole del mondo. È una di quelle città ordinate e compattate: curata nei dettagli, piccola, ben organizzata e autonoma. Una donna di mezza età, attenta al proprio abbigliamento, ordinata e con una bellezza sobria. Una donna del genere, mentre si reca in chiesa una domenica mattina, non potrebbe essere più piacevole da vedere di Delft. Si trova sull’orlo della monotonia, ma rimane comunque unica; ha uno stile preciso, ma racchiude in sé secoli di storia e attività umana. C’è una perfetta armonia tra i vari colori, eppure l’impressione che questa città lascia è quella di un ambiente unito, caldo e generoso. Se vi trovaste improvvisamente a Delft, capireste subito che i vasti e rigogliosi prati dell’Olanda la circondano. L’aria, le case e le abitudini della gente qui sono infatti influenzate direttamente da quei campi.
 
@@ -647,7 +647,7 @@ Up the gorge then we went, my companion and I; the day fell as we marched, and t
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'ala di Dalua
+# L'ala di Dalua
 
 C'era un tempo, e non così lontano, in cui quei due uomini, con il loro genio, avevano rivelato loro una parte d’Europa nella quale si promettevano sorprese e delizie maggiori di qualsiasi altra.
 
@@ -795,7 +795,7 @@ Here and there a man who really knows his subject and who disdains the market of
 
 <span class="qlang-split" data-lang="it"></span>
 
-Sulle ali di Elia
+# Sulle ali di Elia
 
 Esistono due modi attraverso i quali un uomo può acquisire qualsiasi tipo di conoscenza o trarre beneficio, e questo vale soprattutto per i viaggi.
 
@@ -941,7 +941,7 @@ This road was made by the French kings when their influence had crept so far sou
 
 <span class="qlang-split" data-lang="it"></span>
 
-L’ostello della Margaride
+# L’ostello della Margaride
 
 Qualsiasi cosa, pur mantenendo le proprie proporzioni e forma, se progettata su una scala molto maggiore o molto minore rispetto a quella della nostra esperienza quotidiana, produce nell’uomo un effetto di fantasia.
 
@@ -1537,7 +1537,7 @@ And yet ... what is that in me which makes me regret the Griffin, the real Griff
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il Grifone
+# Il Grifone
 
 Un esperto mi disse una volta a Ealing che nessuna locanda poteva competere con il Griffin, una locanda del Fenland. “È dipinta di verde”, disse, “e si trova nella città di March. Se volete assaggiare i piatti del Griffin, dovete recarvi in quella città e chiedere informazioni sulla locanda; molti, infatti, che potrebbero non aver mai sentito parlare di March, sicuramente conoscono il Griffin.”
 
@@ -1655,7 +1655,7 @@ In the process things had passed which would seem to you incredible if I wrote t
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il primo giorno di marcia
+# Il primo giorno di marcia
 
 Ricordo molto bene quella primavera trascorsa dieci anni fa in Lorena. La ricordo meglio di qualsiasi altra primavera, perché davanti a me si presentò uno di quei momenti intensi di emozione che, nell’adolescenza, sembrano rappresentare la vetta del mondo. Stavamo per andare in campeggio.
 
@@ -1829,7 +1829,7 @@ The sand and the mud commingle. The mud takes on little tufts of salt grass bare
 
 <span class="qlang-split" data-lang="it"></span>
 
-La diga marina di Wash
+#La diga marina di Wash
 
 La città di Wisbeach assomiglia molto alla città di Boston. Si trova su un fiume molto stretto e tortuoso, il cui livello dell’acqua aumenta e diminuisce notevolmente a causa delle maree; i lati del fiume sono inoltre ricoperti da rive di legno viscido. Proprio come a Boston, anche qui le barche non possono girare; se entrano con la prua rivolta verso l’interno, devono uscire con la poppa rivolta all’esterno, proprio come fanno le api di Mevagissey. Un porto davvero scomodo da utilizzare.
 
@@ -1989,7 +1989,7 @@ I began by saying that this wide basin of land, with its strong people and its i
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il Cerdagne
+# Il Cerdagne
 
 Esiste una parte d’Europa di cui al momento la maggior parte delle persone non ha mai sentito parlare, ma che tra pochi anni tutti conosceranno; quindi vale davvero la pena raccontarne com’è oggi, prima che venga cambiata. Si chiama Cerdagne. È una valle molto ampia, che si estende tra colline le cui altezze sono così incredibili – o almeno, il loro aspetto di altezza è così incredibile – che, se dipinte con precisione, nessuno crederà che siano reali. Infatti, conosco un uomo che le ha dipinte esattamente com’erano, e coloro che hanno visto il quadro hanno detto che era fantastico e al di fuori della natura, simile ai disegni di Turner. Ma quelli che erano stati con lui e avevano visto il posto hanno detto che in qualche modo non era riuscito a catturare appieno l’effetto delle altezze circostanti.
 
@@ -2147,7 +2147,7 @@ So having come round to the Ouse again, and to the edge of the Fens at Lynn, I w
 
 <span class="qlang-split" data-lang="it"></span>
 
-Lynn
+# Lynn
 
 Ogni uomo che arriva a Lynn percepisce, dentro di sé, l’antichità e il fascino di quella città; soprattutto se giunge, come ho fatto io in primavera, provenendo da chilometri e chilometri di desolazione, di erba ondulata e dal fragore del [[motifs/wind|vento]]. Dopo quella mattina in cui si è sentiti come un piccolo punto su un immenso orizzonte, con il vento che non soffiava soltanto sopra di sé – come accade di solito – ma intorno a sé, proprio come avviene in mare; dopo aver assorbito quella particolare solitudine che caratterizza una costa indefinita e desolata, le strade strette, variegate e disordinate del porto fanno risaltare le creazioni dell’uomo e evidenziano la sua presenza.
 
@@ -2391,7 +2391,7 @@ The star Jupiter shone brightly just above my wake, and over Selsey Bill, throug
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il ruscello Looe
+# Il ruscello Looe
 
 Della complessità del mare, di come sia vario e di come si mescoli con l’uomo, potendo ampliarlo o perfezionarlo, sarebbe molto allettante scrivere; ma se si iniziasse a farlo, ci si troverebbe immersi e sommersi nella metafisica, che mai ha portato beneficio né all’uomo né agli animali. Infatti, nessuno può mangiare o bere la metafisica, né trarne alcun nutrimento; essa non possiede movimento né colore, non provoca gioia né dolore; non può essere descritta né ascoltata, ed è troppo “sottile” per poter essere esplorata. Lasciando quindi da parte tutte queste considerazioni generali – anche se continuano a tormentarmi e tentarmi – posso almeno affrontare poco a poco, immagine dopo immagine, quel mare che è sempre presente nella mia mente, e lasciare che coloro che vogliono ne traggano le filosofie che desiderano. La prima cosa che vorrei descrivere è un luogo chiamato Looe Stream: l’altro giorno ho navigato per la prima volta su quella barca, notando molte cose. Quando San Wilfrid attraversò quelle lande desolate e quei boschi chiamati Foresta di Anderida, che si estendevano lungo le colline del Surrey, e dove c’era una lunga strada romana abbandonata, insieme a numerose piccole fattorie e insediamenti primitivi (questo accadeva duemila anni fa), arrivò infine in una pianura costiera. Lì incontrò un tipo di inglese più selvaggio degli altri, anche se, per quanto ne so, nessuno di loro era particolarmente raffinato o felice. Da questi “inglesi” discendono i nobili abitanti del Sussex.
 
@@ -2407,7 +2407,7 @@ Andò dal loro Re – che probabilmente viveva a Chichester, o forse a Bramber �
 
 “St. Wilfrid, allora, con tono di disprezzo ripeté…”
 
-Perché non costruisci reti?
+#Perché non costruisci reti?
 
 E spiegò l’uso delle reti a tutta la Corte, predicando, per così dire, un sermone sulle reti davanti a loro, introducendo abilmente San Pietro e quella grande rete che vengono appesa fuori dalla sua tomba a Roma nel giorno della sua festa, il 29 giugno. Il Re e la sua Corte costruirono una rete e la gettarono in mare; ne estrassero così una grande quantità di pesci. Furono così soddisfatti che dissero a San Wilfrid che avrebbero fatto qualsiasi cosa chiedesse. Lui li battezzò e loro lo nominarono il loro primo vescovo; egli si stabilì a Selsey, e da allora il popolo del Sussex ha continuato a progredire costantemente in ogni campo del bene, fino a diventare oggi di gran lunga il popolo più nobile e migliore di tutto il mondo.
 
@@ -2495,7 +2495,7 @@ Carlo il Re e la sua baronia.
 
 Questo era il luogo. E qualsiasi uomo che ancora possa crederci (so che un simile dibattito è puramente accademico), qualsiasi uomo che ancora possa ritenere che la canzone di Roland sia stata una leggenda settentrionale, farebbe meglio a venire in questo luogo e “bevere” le montagne stesse. Perché chiunque oggi.
 
-"Alti sono i monti, imponenti e avvolti nella nebbia..."
+#"Alti sono i monti, imponenti e avvolti nella nebbia..."
 
 Nelle profondità, i corsi d’acqua scorrono con fragore.
 
@@ -2541,7 +2541,7 @@ Here, then, was the proper end of a long cruise. It was springtime, and the seas
 
 <span class="qlang-split" data-lang="it"></span>
 
-La pendenza della terra
+# La pendenza della terra
 
 Viviamo per un periodo di tempo molto breve. Forse non prima di aver raggiunto la metà della nostra vita, ma comunque molto presto, scopriamo l’immensità del patrimonio che ci è stato lasciato in eredità. Pensiamo all’Inghilterra: quante persone, vorrei sapere, hanno scoperto prima dei trent’anni quali tesori si nascondono nel suo ambiente naturale? L’Inghilterra ci arricchisce sia interiormente che esteriormente; i suoi campi permettono alla mente di esplorare le origini più sottili delle cose: il delicato bagliore degli insetti, i riflessi della luce sulle foglie d’erba. I suoi cieli, invece, conducono la mente verso regioni infinite, dove sembra possibile espandersi e riempire ogni spazio, nonostante le dimensioni immensità che ci circondano.
 
@@ -2561,7 +2561,7 @@ Il Mostro apparve chiaramente davanti a me. Ero certo che avrei potuto costruire
 
 Ecco dunque la giusta fine di un lungo viaggio in mare. Era primavera, e stagione di lavoro sulla terraferma. Me lo aveva detto anche il vento incoraggiante. Mentre continuavo a dirigermi verso ovest, ricordando i compiti che mi aspettavano sulla terra, le vele erano ancora piene; le corde e le tende tese si sforzavano di mantenere la loro posizione. E quel leggero rumore prodotto dall’acqua che si frantumava contro lo scafo continuava a risuonare lungo il bordo della nave. E così, la [[motifs/ship|nave]] proseguì il suo viaggio.
 
-[In greco: “Nella presenza di calore e luce, la pace è il dono più grande”]
+# [In greco: “Nella presenza di calore e luce, la pace è il dono più grande”]
 
 [In greco: “Sire porfuro, grande tra gli uomini, giovane nel cuore.”]
 
@@ -2595,7 +2595,7 @@ Yet it is the mountain which very many men who have hardly heard its name have b
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il Canigou
+# Il Canigou
 
 Un uomo potrebbe chiedersi cosa renda famose alcune delle più grandi meraviglie del mondo e cosa invece le tenga nascoste. Questo è particolarmente interessante nel caso delle [[settings/mountains|montagne]]. Infatti, non c’è dubbio che esista un fascino moderno legato alle montagne che potrebbe non durare nel tempo, ma che nella nostra generazione è quasi altrettanto intenso quanto lo era in quella dei nostri padri. L’emozione suscitata dall’enorme altezza e da quel qualcosa di unico e ispiratore che distingue una montagna da una collina ha lasciato un segno profondo nella mente moderna. Eppure, in Europa esistono alcune delle visioni più straordinarie di questo tipo che, per i viaggiatori, rimangono spesso ignorate o sottovalutate.
 
@@ -2867,7 +2867,7 @@ In questo modo, quando riuscii a recuperare quell’arte dopo tanti anni, attrav
 
 Il figlio alto dei Sette Venti
 
-Arrivò cavalcando da Hither-hythe
+# Arrivò cavalcando da Hither-hythe
 
 E i suoi zoccoli di cavallo (ricorderete sicuramente) calpestarono la folla creando un varco tra essa; e la sua spada, (come sapete, )
 
@@ -2975,7 +2975,7 @@ And so did I. But as they brought me beer and bacon at evening, and I toasted th
 
 <span class="qlang-split" data-lang="it"></span>
 
-La strada romana
+# La strada romana
 
 L’altro giorno (era mercoledì e l’aria era molto pura), mentre mi dirigevo verso il bosco, entrai nella stalla e lì vidi il mio cavallo Monster fermo da solo, a fissare il nulla. E quando pensai quanto fosse vergognoso godersi il piacere del bosco lasciando il proprio cavallo indifeso a casa, gli misi la sella e uscii con lui, percorrendo esattamente la strada che avevo intenzione di percorrere da solo. Così andammo insieme lungo il sentiero sotto il Bosco del Nord, fino al bordo della foresta; poi prendemmo il sentiero verde a destra, perché volevo andare a vedere quella strada romana.
 
@@ -3195,7 +3195,7 @@ If ever again we have a religion in the South Country, we will have a temple to 
 
 <span class="qlang-split" data-lang="it"></span>
 
-La valle dei Rother
+#La valle dei Rother
 
 In quella parte d’Inghilterra che viene giustamente chiamata il suo Eden – quel centro di tutte le cose buone e dimora degli uomini felici, la contea del Sussex – esiste, dico io, in quella nobile contea, una valle che descriverò per vostro maggior piacere. So infatti che è troppo gelosamente protetta perché qualche estraneo possa visitarla facilmente; sono anche certo che la vostra presenza renderà quel luogo ancora più delizioso. Si tratta della valle del fiume Rother, quel sacro e rigoglioso corso d’acqua situato tra le colline e la foresta.
 
@@ -3643,7 +3643,7 @@ Anyhow, this stable yet stands; and in none does the horse, Monster, take a grea
 
 <span class="qlang-split" data-lang="it"></span>
 
-Al segno del leone
+# Al segno del leone
 
 Era tardi; il giorno stava già calando quando arrivai, montato sul mio cavallo Monster, su un rilievo del terreno. Camminavamo ad andatura lenta, perché avevamo percorso una lunga distanza fin dall’alba e ora ci trovavamo sulla strada sterrata; inoltre, la collina, sebbene dolce, si estendeva per un lungo tratto. Dalla sua cima vidi davanti a me, proprio come l’avevo visto centinaia di volte, l’intera foresta.
 
@@ -3731,7 +3731,7 @@ Questa fantasia, per quanto tenue, non ebbe nemmeno il tempo di scomparire, quan
 
 Ma lui rispose: “No; non è così che si può raggiungere lo scopo di cui parli. E quella sete, che sicuramente è divina, non può essere saziata da alcun corso d’acqua che possiamo trovare viaggiando, nemmeno dai piccoli fiumi che scorrono qui sotto le valli delle nostre case.”
 
-Me stesso: “Beh, allora, qual è la fine?”
+#Me stesso: “Beh, allora, qual è la fine?”
 
 LUI: “A volte l’ho visto chiaramente: quando quella ricerca delusa terminava, tutto quel viaggio si rivelava soltanto l’inizio di un’avventura ancora più grande; avrei dovuto dirigermi verso un altro luogo, dove ogni senso sarebbe stato appagato e dove la paura della mutazione avrebbe trovato pace.”
 
@@ -3771,7 +3771,7 @@ IO: “Sì, certamente; ma sebbene i desideri siano la prova più forte della ve
 
 Lui: “Eppure tutte queste cose non esisterebbero se non fosse per la mente che le riceve; e come possiamo essere certi di quali siano i canali necessari per la mente? Non potrebbe forse la mente espandersi all’infinito? E tu, poiché rifiuti la mia ipotesi su ciò che ci è riservato, dimmi: qual è la Fine che raggiungeremo?”
 
-Me stesso: “Per la salvezza della fede, non posso dirlo.”
+#Me stesso: “Per la salvezza della fede, non posso dirlo.”
 
 Poi continuò dicendo: “Ho riflettuto su queste questioni per troppo tempo, quindi nessuna contraddizione tra un'esperienza e un'altra può influenzare il mio modo di pensare. So bene che un'indagine approfondita e attenta su qualsiasi argomento può portare a conclusioni opposte; ma, da parte mia, aspetto con fiducia che, nel corso di quella vecchiaia ormai vicina, quando essa finirà, troverò al di là di essa cose simili a quelle che ho conosciuto. Tutto ciò che godo qui è della stessa natura; e se la vita di un uomo dovesse alla fine privarsi di queste cose, allora usare il termine ‘eterno’ sarebbe una falsità o una metafora.”
 

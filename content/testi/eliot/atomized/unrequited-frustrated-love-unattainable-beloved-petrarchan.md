@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan" data-author="Eliot" data-workhref="works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(eliot)"></div>
 
 
-<span class="atom-split" data-atom="012_conversation_galante" data-title="Conversation Galante" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/moon,motif/music_and_song,concept/love_romantic,concept/alienation,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+Conversation Galante · La Figlia Che Piange · Sweeney Erect · The wind sprang up at four o’clock · To Walter de la Mare · A Dedication to my Wife · Circe’s Palace · On a Portrait · Nocturne · Humouresque
+
+
+
+
+<span class="atom-split" data-atom="012_conversation_galante" data-title="Conversation Galante" data-chapter="" data-kind="intro"></span>
 
 
 Conversation Galante  
@@ -59,7 +64,7 @@ a confutare d’un colpo la nostra folle poetica —’
 
 
 
-<span class="atom-split" data-atom="013_la_figlia_che_piange" data-title="La Figlia Che Piange" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/flowers,motif/autumn,concept/grief_and_loss,concept/love_romantic,concept/imagination,setting/a_garden,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="013_la_figlia_che_piange" data-title="La Figlia Che Piange" data-chapter="" data-kind="intro"></span>
 
 
 La Figlia Che Piange  
@@ -125,7 +130,7 @@ la mezzanotte turbata e il riposo del [[motifs/noon|meriggio]].
 
 
 
-<span class="atom-split" data-atom="017_sweeney_erect" data-title="Sweeney Erect" data-chapter="" data-kind="intro" data-tags="archetype/antihero,motif/madness,motif/the_sea,concept/the_grotesque,concept/lust,histref/greek_mythology,character/sweeney,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="017_sweeney_erect" data-title="Sweeney Erect" data-chapter="" data-kind="intro"></span>
 
 
 [[characters/sweeney|Sweeney]] Erect  
@@ -237,7 +242,7 @@ portando sale volatile
 
 
 
-<span class="atom-split" data-atom="053_the_wind_sprang_up_at_four_oclock" data-title="The wind sprang up at four o’clock" data-chapter="" data-kind="intro" data-tags="motif/death,motif/wind,motif/river,motif/bells,motif/dreams,motif/swords_weapons,concept/terror_and_horror,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="053_the_wind_sprang_up_at_four_oclock" data-title="The wind sprang up at four o’clock" data-chapter="" data-kind="intro"></span>
 
 
 The [[motifs/wind|wind]] sprang up at four o’[[motifs/clock|clock]]  
@@ -273,7 +278,7 @@ i cavalieri tartari scuotono le lance.
 
 
 
-<span class="atom-split" data-atom="077_to_walter_de_la_mare" data-title="To Walter de la Mare" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/ghosts,motif/dreams,motif/the_supernatural,motif/childhood,concept/the_uncanny,concept/immortality_of_art,form/terza_rima,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="077_to_walter_de_la_mare" data-title="To Walter de la Mare" data-chapter="" data-kind="intro"></span>
 
 
 To Walter de la Mare  
@@ -357,7 +362,7 @@ l’inesplicabile mistero del suono.
 
 
 
-<span class="atom-split" data-atom="078_a_dedication_to_my_wife" data-title="A Dedication to my Wife" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/garden,concept/love_romantic,concept/marriage_and_fidelity,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="078_a_dedication_to_my_wife" data-title="A Dedication to my Wife" data-chapter="" data-kind="intro"></span>
 
 
 A Dedication to my Wife  
@@ -393,7 +398,7 @@ queste sono parole private rivolte a te in pubblico.
 
 
 
-<span class="atom-split" data-atom="108_circes_palace" data-title="Circe’s Palace" data-chapter="" data-kind="intro" data-tags="archetype/witch,archetype/temptress,motif/garden,motif/flowers,motif/animals,motif/serpent_snake,concept/temptation,concept/the_grotesque,form/lyric,histref/greek_mythology,setting/a_garden,character/odysseus,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="108_circes_palace" data-title="Circe’s Palace" data-chapter="" data-kind="intro"></span>
 
 
 Circe’s Palace  
@@ -433,7 +438,7 @@ di uomini che conoscemmo molto tempo fa.
 
 
 
-<span class="atom-split" data-atom="109_on_a_portrait" data-title="On a Portrait" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/eyes_sight,motif/birds,motif/the_city,concept/beauty,concept/appearance_vs_reality,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="109_on_a_portrait" data-title="On a Portrait" data-chapter="" data-kind="intro"></span>
 
 
 On a Portrait  
@@ -473,7 +478,7 @@ la osserva con occhio paziente e curioso.
 
 
 
-<span class="atom-split" data-atom="111_nocturne" data-title="Nocturne" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/blood,motif/night,concept/love_romantic,concept/disillusionment,concept/satire_of_society,form/sonnet,form/parody,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="111_nocturne" data-title="Nocturne" data-chapter="" data-kind="intro"></span>
 
 
 Nocturne  
@@ -517,7 +522,7 @@ mentre le lettrici sono tutte annegate in [[motifs/tears|lacrime]]: —
 
 
 
-<span class="atom-split" data-atom="112_humouresque" data-title="Humouresque" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/masks_disguise,motif/moon,concept/alienation,concept/spiritual_emptiness,form/lyric,form/elegy,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="112_humouresque" data-title="Humouresque" data-chapter="" data-kind="intro"></span>
 
 
 Humouresque  

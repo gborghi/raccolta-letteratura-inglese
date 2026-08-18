@@ -37,17 +37,17 @@ tags:
 
 Raccolta tematica di 11 componimenti di T. S. Eliot.
 
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#018_a_cooking_egg|A Cooking Egg]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#050_coriolan|Coriolan]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#009_cousin_nancy|Cousin Nancy]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#074_defence_of_the_islands|Defence of the Islands]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#055_landscapes|Landscapes]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#019_le_directeur|Le Directeur]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#020_mélange_adultère_de_tout|Mélange Adultère de Tout]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#010_mr_apollinax|Mr. Apollinax]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#007_the_boston_evening_transcript|The Boston Evening Transcript]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#022_the_hippopotamus|The Hippopotamus]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#124_y_z|Y, Z]]
+- [[works/a-cooking-egg-(eliot)|A Cooking Egg]]
+- [[works/coriolan-(eliot)|Coriolan]]
+- [[works/cousin-nancy-(eliot)|Cousin Nancy]]
+- [[works/defence-of-the-islands-(eliot)|Defence of the Islands]]
+- [[works/landscapes-(eliot)|Landscapes]]
+- [[works/le-directeur-(eliot)|Le Directeur]]
+- [[works/mélange-adultère-de-tout-(eliot)|Mélange Adultère de Tout]]
+- [[works/mr.-apollinax-(eliot)|Mr. Apollinax]]
+- [[works/the-boston-evening-transcript-(eliot)|The Boston Evening Transcript]]
+- [[works/the-hippopotamus-(eliot)|The Hippopotamus]]
+- [[works/y,-z-(eliot)|Y, Z]]
 
 ## Testo / Text
 

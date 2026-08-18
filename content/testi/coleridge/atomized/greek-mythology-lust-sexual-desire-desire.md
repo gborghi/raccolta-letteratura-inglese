@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire" data-author="Coleridge" data-workhref="works/greek-mythology-·-lust-sexual-desire-·-desire-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="034_an_ode_in_the_manner_of_anacreon" data-title="AN ODE IN THE MANNER OF ANACREON" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/rose,motif/wine_and_drink,concept/love_romantic,form/ode,form/lyric,histref/classical_antiquity,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+AN ODE IN THE MANNER OF ANACREON · KISSES · IMITATED FROM THE WELSH · THE KISS · TO MISS BRUNTON · THE SILVER THIMBLE · CATULLIAN HENDECASYLLABLES · JEUX D’ESPRIT: MY GODMOTHER’S BEARD · THE WILLS OF THE WISP · MILESISCHES MÄHRCHEN · ALLA SUA AMICA
+
+
+
+
+<span class="atom-split" data-atom="034_an_ode_in_the_manner_of_anacreon" data-title="AN ODE IN THE MANNER OF ANACREON" data-chapter="" data-kind="intro"></span>
 
 
 As late, in wreaths, gay [[motifs/flowers|flowers]] I bound,  
@@ -39,7 +44,7 @@ sbattere le ali dentro il mio petto!
 
 
 
-<span class="atom-split" data-atom="044_kisses" data-title="KISSES" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/love,concept/love_romantic,concept/lust,concept/joy,form/lyric,histref/greek_mythology,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="044_kisses" data-title="KISSES" data-chapter="" data-kind="intro"></span>
 
 
 Cupid, if storying Legends tell aright,  
@@ -87,7 +92,7 @@ e alitò il resto sulle labbra più belle di Sara.
 
 
 
-<span class="atom-split" data-atom="054_imitated_from_the_welsh" data-title="IMITATED FROM THE WELSH" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/fire,motif/love,concept/love_romantic,form/epigram,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="054_imitated_from_the_welsh" data-title="IMITATED FROM THE WELSH" data-chapter="" data-kind="intro"></span>
 
 
 If while my passion I impart,  
@@ -115,7 +120,7 @@ che vorrebbe scoprire.
 
 
 
-<span class="atom-split" data-atom="063_the_kiss" data-title="THE KISS" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/rose,motif/wind,motif/flowers,concept/love_romantic,concept/lust,form/lyric,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="063_the_kiss" data-title="THE KISS" data-chapter="" data-kind="intro"></span>
 
 
 One kiss, dear Maid! I said and sigh’d —  
@@ -185,7 +190,7 @@ la dolce violenza della Gioia.
 
 
 
-<span class="atom-split" data-atom="066_to_miss_brunton" data-title="TO MISS BRUNTON" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,concept/beauty,concept/joy,form/lyric,histref/greek_mythology,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="066_to_miss_brunton" data-title="TO MISS BRUNTON" data-chapter="" data-kind="intro"></span>
 
 
 WITH THE PRECEDING [[forms/translation|TRANSLATION]]  
@@ -223,7 +228,7 @@ anch'io ho la mia Brunton.’
 
 
 
-<span class="atom-split" data-atom="106_the_silver_thimble" data-title="THE SILVER THIMBLE" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,concept/friendship,form/narrative_poem,histref/greek_mythology,histref/classical_antiquity,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="106_the_silver_thimble" data-title="THE SILVER THIMBLE" data-chapter="" data-kind="intro"></span>
 
 
 THE PRODUCTION OF A YOUNG LADY, ADDRESSED TO THE AUTHOR OF THE POEMS ALLUDED TO IN THE PRECEDING EPISTLE  
@@ -373,7 +378,7 @@ SARA.
 
 
 
-<span class="atom-split" data-atom="163_catullian_hendecasyllables" data-title="CATULLIAN HENDECASYLLABLES" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/desire,motif/the_sea,motif/moon,motif/rose,concept/love_romantic,form/lyric,histref/greek_mythology,histref/classical_antiquity,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="163_catullian_hendecasyllables" data-title="CATULLIAN HENDECASYLLABLES" data-chapter="" data-kind="intro"></span>
 
 
 Hear, my belovéd, an old Milesian story! —  
@@ -419,7 +424,7 @@ rabbrividendo d'estasi, le cadeva sul seno.
 
 
 
-<span class="atom-split" data-atom="361_jeux_desprit_my_godmothers_beard" data-title="JEUX D’ESPRIT: MY GODMOTHER’S BEARD" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/lust,concept/pride,form/epigram,histref/greek_mythology,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="361_jeux_desprit_my_godmothers_beard" data-title="JEUX D’ESPRIT: MY GODMOTHER’S BEARD" data-chapter="" data-kind="intro"></span>
 
 
 So great the charms of Mrs. Mundy,  
@@ -471,7 +476,7 @@ o al 1831. Prima raccolti nei [[works/poems-(chesterton)|Poems]] di Coleridge, 1
 
 
 
-<span class="atom-split" data-atom="367_the_wills_of_the_wisp" data-title="THE WILLS OF THE WISP" data-chapter="" data-kind="intro" data-tags="archetype/femme_fatale,motif/the_supernatural,motif/light_and_dark,concept/deception,concept/love_romantic,form/lyric,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="367_the_wills_of_the_wisp" data-title="THE WILLS OF THE WISP" data-chapter="" data-kind="intro"></span>
 
 
 A SAPPHIC  
@@ -505,7 +510,7 @@ and D. W., 1877, ii. 169.
 
 
 
-<span class="atom-split" data-atom="433_milesisches_mährchen" data-title="MILESISCHES MÄHRCHEN" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/the_sea,motif/night,motif/rose,concept/love_romantic,histref/greek_mythology,histref/classical_antiquity,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="433_milesisches_mährchen" data-title="MILESISCHES MÄHRCHEN" data-chapter="" data-kind="intro"></span>
 
 
 Ein milesisches Mährchen, Adonide:  
@@ -557,7 +562,7 @@ B
 
 
 
-<span class="atom-split" data-atom="446_alla_sua_amica" data-title="ALLA SUA AMICA" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/fire,motif/eyes_sight,concept/lust,concept/sin_and_the_fall,concept/love_romantic,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
+<span class="atom-split" data-atom="446_alla_sua_amica" data-title="ALLA SUA AMICA" data-chapter="" data-kind="intro"></span>
 
 
 Sonetto.  

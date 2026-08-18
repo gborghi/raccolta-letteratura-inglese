@@ -17,6 +17,10 @@ tags:
 A historic closet drama by Coleridge and Southey on the fall of Robespierre, dramatizing tyranny, conspiracy, the rhetoric of Liberty, ambition and the bloody self-consuming course of the French Revolution.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un dramma di lettura storico di Coleridge e Southey sulla caduta di Robespierre, che drammatizza la tirannia, la congiura, la retorica della Libertà, l'ambizione e il sanguinoso corso autodistruttivo della Rivoluzione francese.
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1" data-title="THE FALL OF ROBESPIERRE — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/monster,archetype/rebel,archetype/tyrant,archetype/villain,motif/bells,motif/blood,motif/death,motif/dreams,motif/love,motif/machine,motif/memory,motif/pain,motif/poison,motif/sleep,motif/soul,motif/spring,motif/storm,motif/tears,motif/time,motif/well,concept/ambition,concept/conscience,concept/courage,concept/fear,concept/freedom,concept/friendship,concept/greatness,concept/guilt,concept/mercy,concept/poverty,concept/pride,concept/revenge,concept/self,concept/sublime,concept/truth,concept/union,setting/paris,character/adonis,character/bottom,character/brutus,character/nurse"></span>

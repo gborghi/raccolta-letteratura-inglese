@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="021_the_canterville_ghost" data-title="The Canterville Ghost" data-chapter="" data-kind="intro"></span>
 
-# The Canterville [[archetypes/ghost|Ghost]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

@@ -32,9 +32,9 @@ tags:
 - [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
 - [[works/ortho14-(chesterton)|ortho14 (Chesterton)]]
 - [[works/rash-vows-(chesterton)|rash vows (Chesterton)]]
-- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#065_viii_o_father_we_welcome_your_words|VIII O Father we welcome your words (Eliot)]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#229_proud_music_of_the_storm|Proud Music of the Storm (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#257_the_mystic_trumpeter|The Mystic Trumpeter (Whitman)]]
+- [[works/viii-o-father-we-welcome-your-words-(eliot)|VIII O Father we welcome your words (Eliot)]]
+- [[works/proud-music-of-the-storm-(whitman)|Proud Music of the Storm (Whitman)]]
+- [[works/the-mystic-trumpeter-(whitman)|The Mystic Trumpeter (Whitman)]]
 - [[works/europe-and-the-faith-(belloc)|Europe and the Faith (Belloc)]]
 - [[works/the-book-of-the-bayeux-tapestry-(belloc)|The Book of the Bayeux Tapestry (Belloc)]]
 

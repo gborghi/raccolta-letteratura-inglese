@@ -37,13 +37,13 @@ tags:
 
 Raccolta tematica di 7 componimenti di Samuel Taylor Coleridge.
 
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#237_a_tombless_epitaph|A TOMBLESS EPITAPH]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#417_adaptations|ADAPTATIONS]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#283_lines_to_a_comic_author_on_an_abusive_review|LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#384_not_a_critic_but_a_judge|NOT A CRITIC — BUT A JUDGE]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#411_notes_by_professor_saintsbury|NOTES BY PROFESSOR SAINTSBURY]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#208_to_matilda_betham_from_a_stranger|TO MATILDA BETHAM FROM A STRANGER]]
-- [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#008_to_the_muse|TO THE MUSE]]
+- [[works/a-tombless-epitaph-(coleridge)|A TOMBLESS EPITAPH]]
+- [[works/adaptations-(coleridge)|ADAPTATIONS]]
+- [[works/lines-to-a-comic-author,-on-an-abusive-review-(coleridge)|LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW]]
+- [[works/not-a-critic-—-but-a-judge-(coleridge)|NOT A CRITIC — BUT A JUDGE]]
+- [[works/notes-by-professor-saintsbury-(coleridge)|NOTES BY PROFESSOR SAINTSBURY]]
+- [[works/to-matilda-betham-from-a-stranger-(coleridge)|TO MATILDA BETHAM FROM A STRANGER]]
+- [[works/to-the-muse-(coleridge)|TO THE MUSE]]
 
 ## Testo / Text
 

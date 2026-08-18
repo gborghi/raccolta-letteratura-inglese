@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england" data-author="Coleridge" data-workhref="works/artist-and-society-·-truth-·-regency-georgian-england-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="008_to_the_muse" data-title="TO THE MUSE" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,concept/imagination,concept/the_artist_and_society,concept/satire_of_society,concept/joy,form/lyric,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+TO THE MUSE · TO MATILDA BETHAM FROM A STRANGER · A TOMBLESS EPITAPH · LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW · NOT A CRITIC — BUT A JUDGE · NOTES BY PROFESSOR SAINTSBURY · ADAPTATIONS
+
+
+
+
+<span class="atom-split" data-atom="008_to_the_muse" data-title="TO THE MUSE" data-chapter="" data-kind="intro"></span>
 
 
 Tho’ no bold flights to thee belong;  
@@ -51,7 +56,7 @@ le cui tinte gaiamente cangianti si trastullano al sole.
 
 
 
-<span class="atom-split" data-atom="208_to_matilda_betham_from_a_stranger" data-title="TO MATILDA BETHAM FROM A STRANGER" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/nightingale,concept/the_artist_and_society,concept/truth,concept/imagination,form/epistle,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="208_to_matilda_betham_from_a_stranger" data-title="TO MATILDA BETHAM FROM A STRANGER" data-chapter="" data-kind="intro"></span>
 
 
 [‘One of our most celebrated poets, who had, I was told, picked out and  
@@ -179,7 +184,7 @@ e dell'esultanza persino in cuori stranieri?
 
 
 
-<span class="atom-split" data-atom="237_a_tombless_epitaph" data-title="A TOMBLESS EPITAPH" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,concept/truth,concept/the_artist_and_society,concept/satire_of_society,concept/nostalgia,form/elegy,histref/greek_mythology,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="237_a_tombless_epitaph" data-title="A TOMBLESS EPITAPH" data-chapter="" data-kind="intro"></span>
 
 
 ‘Tis true, Idoloclastes Satyrane!  
@@ -271,7 +276,7 @@ pensoso, con quiete [[motifs/tears|lacrime]] sulla guancia.   40
 
 
 
-<span class="atom-split" data-atom="283_lines_to_a_comic_author_on_an_abusive_review" data-title="LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW" data-chapter="" data-kind="intro" data-tags="archetype/fool,concept/the_artist_and_society,concept/satire_of_society,form/satire,histref/classical_antiquity,histref/greek_mythology,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="283_lines_to_a_comic_author_on_an_abusive_review" data-title="LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW" data-chapter="" data-kind="intro"></span>
 
 
 What though the chilly wide-mouth’d quacking [[characters/chorus|chorus]]  
@@ -317,7 +322,7 @@ No! ridi, e di' ad alta voce, in tono giulivo:
 
 
 
-<span class="atom-split" data-atom="384_not_a_critic_but_a_judge" data-title="NOT A CRITIC — BUT A JUDGE" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,concept/revenge,concept/justice,form/nonfiction,form/epigram,form/literary_criticism,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="384_not_a_critic_but_a_judge" data-title="NOT A CRITIC — BUT A JUDGE" data-chapter="" data-kind="intro"></span>
 
 
 Whom should I choose for my Judge? the earnest, impersonal reader,
@@ -343,7 +348,7 @@ Marzo 1806. Pubblicato per la prima volta da un ms. nel 1893.
 
 
 
-<span class="atom-split" data-atom="411_notes_by_professor_saintsbury" data-title="NOTES BY PROFESSOR SAINTSBURY" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,form/nonfiction,form/literary_criticism,form/essay,form/pindaric_ode,histref/the_romantic_movement,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="411_notes_by_professor_saintsbury" data-title="NOTES BY PROFESSOR SAINTSBURY" data-chapter="" data-kind="intro"></span>
 
 
 1. I think most ears would take these as anapaestic throughout. But the
@@ -411,7 +416,7 @@ T. C. doveva sempre essere.
 
 
 
-<span class="atom-split" data-atom="417_adaptations" data-title="ADAPTATIONS" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,concept/the_artist_and_society,concept/love_romantic,form/nonfiction,form/literary_criticism,form/essay,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
+<span class="atom-split" data-atom="417_adaptations" data-title="ADAPTATIONS" data-chapter="" data-kind="intro"></span>
 
 
 For a critical study of Coleridge’s alterations in the text of the

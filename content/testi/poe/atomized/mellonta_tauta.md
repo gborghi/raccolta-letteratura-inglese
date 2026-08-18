@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="mellonta_tauta" data-title="Mellonta Tauta" data-chapter="" data-kind="intro"></span>
 
-# [[works/mellonta-tauta-(poe)|Mellonta Tauta]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

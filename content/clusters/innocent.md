@@ -16,8 +16,8 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/child-orphan#1185_a_little_dog_that_wags_his_tail|1185. A little Dog that wags his tail (Dickinson)]]
-- [[testi/dickinson/atomized/child-orphan#0637_the_childs_faith_is_new|637. The Child's faith is new — (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan--poems#little_dog_that_wags_his_tail|1185. A little Dog that wags his tail (Dickinson)]]
+- [[testi/dickinson/atomized/child-orphan--poems#e_childs_faith_is_new|637. The Child's faith is new — (Dickinson)]]
 - [[works/the-old-curiosity-shop-(dickens)|The Old Curiosity Shop (Dickens)]]
 
 </div>

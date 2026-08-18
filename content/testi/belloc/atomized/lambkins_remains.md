@@ -1827,7 +1827,7 @@ To break the worst of fortune’s rub?
 
 <span class="qlang-split" data-lang="it"></span>
 
-Indice
+# Indice
 
 Dedica
 
@@ -1835,15 +1835,15 @@ ODE DEDICATA.
 
 Prefazione
 
-I. Introducitive
+# I. Introducitive
 
-II. Lambkin’s Newdigate
+# II. Lambkin’s Newdigate
 
-III. Alcune osservazioni sullo stile prosastico di Lambkin
+# III. Alcune osservazioni sullo stile prosastico di Lambkin
 
 IV. Saggio di Lambkin sul “successo”
 
-V. Lambkin sul sonno
+# V. Lambkin sul sonno
 
 VI. I consigli di Lambkin ai nuovi studenti
 
@@ -1851,9 +1851,9 @@ VII. La lezione di Lambkin sul “diritto”
 
 VIII. La corrispondenza speciale di Lambkin
 
-IX. L’allocuzione di Lambkin alla Lega del Progresso
+# IX. L’allocuzione di Lambkin alla Lega del Progresso
 
-Il leader di Lambkin
+# Il leader di Lambkin
 
 XI. I commenti di Lambkin sulla fine del semestre
 
@@ -1861,9 +1861,9 @@ XII. L’articolo di Lambkin sul angolo nord-occidentale della pavimentazione in
 
 XIII. Il sermone di Lambkin.
 
-XIV. La lettera aperta di Lambkin ai chierici
+# XIV. La lettera aperta di Lambkin ai chierici
 
-XV. La lettera di Lambkin a un amico francese
+# XV. La lettera di Lambkin a un amico francese
 
 XVI. Intervista con il signor Lambkin.
 
@@ -1884,29 +1884,29 @@ to
 
 Dedicato
 
-Questo libro
+#Questo libro
 
-E nulla mi fermerà
+#E nulla mi fermerà
 
 Il mio scopo.
 
 ODE DEDICATA.
 
-Scrivere con tutta la mia forza
+#Scrivere con tutta la mia forza
 
-In declino da tempo…
+#In declino da tempo…
 
 Una ballata di enorme lunghezza…
 
 Alcune parti di cui sarà necessario fornire spiegazioni.1
 
-Perché (a differenza della maggior parte degli uomini)
+#Perché (a differenza della maggior parte degli uomini)
 
 Chi scrive per la fama e per gli scopi pubblici…
 
-Una penna sciolta e fluida
+# Una penna sciolta e fluida
 
-Di miei amici intimi
+# Di miei amici intimi
 
 Per nessuno, nel nostro lungo declino…
 
@@ -1916,9 +1916,9 @@ Avevo amici così piacevoli come i miei…
 
 O li amava almeno la metà di quanto li amassi io.
 
-Il matricolato si avvia lentamente lungo il viale principale
+# Il matricolato si avvia lentamente lungo il viale principale
 
-Folle d’amore per tutto ciò che vede
+# Folle d’amore per tutto ciò che vede
 
 Nota il cielo sereno di ottobre…
 
@@ -1932,7 +1932,7 @@ L’insegnamento privato era una vera e propria vergogna.
 
 Un credo che non è altro che una mascherata, pieno di vuote parole e privo di vita reale?
 
-Può essere proprio qui che zio Paul…
+#Può essere proprio qui che zio Paul…
 
 Guidato da un eccessivo cupore…
 
@@ -1952,19 +1952,19 @@ Che curioso! Che grande sorpresa.
 
 Più di quelli di loro… intendo, più di quelli dello zio Paul.
 
-Ha risvegliato il sonno della loro decadenza
+#Ha risvegliato il sonno della loro decadenza
 
 E i loro antichi muri furono adornati di luce.
 
 “O, cari e intrepidi ragazzi di un tempo…”
 
-Che i vostri nomi fossero incisi qui…
+# Che i vostri nomi fossero incisi qui…
 
 Per tutto il mondo, in francobolli d’oro…
 
 Per poterli leggere e rispettarli.
 
-Chi lo creò e me lo tramandò
+# Chi lo creò e me lo tramandò
 
 Questo [[settings/oxford|Oxford]] dell’ampio mondo.
 
@@ -1980,11 +1980,11 @@ I loro nomi privati erano… 3
 
 Il loro club si chiamava “Republican”.
 
-Dove giacciono sulle loro rive di luce
+# Dove giacciono sulle loro rive di luce
 
-Le felici colline del Cielo tra loro
+# Le felici colline del Cielo tra loro
 
-Gli dèi che dominano il cielo del mattino
+#Gli dèi che dominano il cielo del mattino
 
 Non sono più giovani, né più sereni
 
@@ -1996,9 +1996,9 @@ E in questa terra sgradevole…
 
 Per fondare l’Abbazia di Telemo.
 
-Abbiamo mantenuto il piano rabelaesco:4
+# Abbiamo mantenuto il piano rabelaesco:4
 
-I delicati chiostri ricevettero la nostra dignità
+#I delicati chiostri ricevettero la nostra dignità
 
 Con la legge naturale e i diritti dell’uomo
 
@@ -2012,9 +2012,9 @@ Titolo: Erano principalmente scritti privati nostri.
 
 Abbiamo mantenuto una scuola e ci siamo insegnati da soli.
 
-Insegnammo l’arte di scrivere
+#Insegnammo l’arte di scrivere
 
-Uomini che ancora vorremmo soffocare…
+# Uomini che ancora vorremmo soffocare…
 
 E dove trovare il sangue dei re
 
@@ -2022,7 +2022,7 @@ Solo mezzo scellino a bottiglia.
 
 Eheu, fugaci, postumi!
 
-Un vecchio detto ormai obsoleto
+#Un vecchio detto ormai obsoleto
 
 Il mio mantello di sogni è stato rubato.
 
@@ -2032,7 +2032,7 @@ La ricchezza della giovinezza… l’abbiamo spesa bene.
 
 E in modo dignitoso, come pochi riescono a fare.
 
-È andato perduto? Non lo so…
+#È andato perduto? Non lo so…
 
 E inoltre, dubito che tu sia in grado di farlo.
 
@@ -2057,7 +2057,7 @@ Dicono… e sono felice che lo dicano.
 
 È così; e potrebbe anche essere così.
 
-Potrebbe essere proprio il contrario
+# Potrebbe essere proprio il contrario
 
 Non posso dirlo con certezza… Ma una cosa so:
 
@@ -2071,7 +2071,7 @@ Ma c'è la risata e l'amore degli amici.
 
 Ma qualcosa si assottiglia… oh, miei compagni!
 
-Qualcosa inganna il cuore e poi passa…
+# Qualcosa inganna il cuore e poi passa…
 
 E Tom… che voleva scuotere via gli anni.
 
@@ -2079,7 +2079,7 @@ E Tom… che voleva scuotere via gli anni.
 
 E Lui, il Pastore del Gregge
 
-"Tenere i birmanesi sotto controllo"...
+#"Tenere i birmanesi sotto controllo"...
 
 Un esiliato su una roccia desolata
 
@@ -2095,17 +2095,17 @@ Ma non è riuscito a realizzarlo.
 
 Non nemmeno questa strana città
 
-Ha mai reso un’amicizia più solida?
+# Ha mai reso un’amicizia più solida?
 
 Ma… uno è sposato, un altro se n’è andato…
 
 Uno è un Don, e l’altro si trova in Birmania.
 
-E oh… quei giorni, quei giorni…
+# E oh… quei giorni, quei giorni…
 
-Quando tutti e quattro se ne andarono insieme:
+# Quando tutti e quattro se ne andarono insieme:
 
-L’infinita profondità della nebbia estiva
+# L’infinita profondità della nebbia estiva
 
 Il fragoroso orgoglio del clima autunnale!
 
@@ -2119,7 +2119,7 @@ Nei piccoli moli di pietra di Yarnton.
 
 Ma mi siederò accanto al fuoco.
 
-E mi porto la mano davanti agli occhi
+# E mi porto la mano davanti agli occhi
 
 E seguire, per soddisfare il desiderio del mio cuore…
 
@@ -2138,21 +2138,21 @@ La tenera Evenlode che…
 
 Le sue praterie tacciono per ascoltare quel suono
 
-Delle acque che si mescolano nelle frenate
+# Delle acque che si mescolano nelle frenate
 
 E lega il mio cuore alla terra inglese.
 
 Un bel fiume, tutto solo…
 
-Rimane tra le colline… e tiene stretto qualcosa
+#Rimane tra le colline… e tiene stretto qualcosa
 
 Cento piccole città di pietra
 
 Dimenticato nelle lande occidentali.
 
-Osso di dubio (sebbene ci siano forze più malvagie)
+# Osso di dubio (sebbene ci siano forze più malvagie)
 
-"Dominate i nostri troni… e anche le menti più semplici."
+#"Dominate i nostri troni… e anche le menti più semplici."
 
 Bevono vini peggiori dei nostri.
 
@@ -2166,23 +2166,23 @@ Ancora canta per un brindisi immortale.
 
 Le avventure disastrose del mugnaio.
 
-I vasti mari sono appena separati…
+#I vasti mari sono appena separati…
 
 Per coloro che sono così presi da tale convinzione…
 
-Eravamo? Allora, per Dio, siamo ancora…
+#Eravamo? Allora, per Dio, siamo ancora…
 
 Ordine! Chiamo il club alla riunione!
 
-Tu conservi ancora quella canzone che abbiamo scelto insieme
+# Tu conservi ancora quella canzone che abbiamo scelto insieme
 
 E come si alza, inciampa e osserva intorno?
 
-Conservi ancora quel ricordo sacro
+# Conservi ancora quel ricordo sacro
 
 Repubblicani? Repubblicani?
 
-Come venivano scagliate quelle parole…
+# Come venivano scagliate quelle parole…
 
 Per sfuggire al peggio della sfortuna?
 
@@ -2228,9 +2228,9 @@ The world knows nothing of its greatest men! Josiah Lambkin! from whatever Cypre
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un brindisi per il mondo intero
+# Un brindisi per il mondo intero
 
-Bevilo, signori: il Club.
+# Bevilo, signori: il Club.
 
 Prefazione
 
@@ -2254,7 +2254,7 @@ Burford College
 
 P.S. — Nel corso di questo lavoro ho consultato il “Liddell and Scott’s Larger Greek Lexicon”, il “Smith’s Dictionary of Antiquities”, il “Skeats’ Etymological Dictionary”, il “Le Dictionnaire Franco-Anglais, et Anglo-Français” di Boileau, i “Curtis’ English Synonyms”, il “Buffle on Punctuation” e molte altre fonti, le quali verranno menzionate nel testo.
 
-I. Introducitive
+# I. Introducitive
 
 Senza il minimo rimorso o pentimento, mi appresto a curare gli scarsi saggi, sermoni e discorsi inediti del mio caro amico scomparso, il signor Lambkin. Al contrario, provo la sensazione che il mio compito sia quello che risponde agli interessi più fondamentali di tutto il popolo inglese; man mano che il lavoro prendeva forma sotto le mie mani, ho avuto l’impressione di adempiere, con la dovuta umiltà, a un dovere nobile e importante. Ricordo che Lambkin stesso, in una delle ultime conversazioni che abbiamo avuto, disse con quella schiettezza che lo caratterizzava: “Il mondo non conosce i suoi più grandi uomini”. Questo commento profondo sugli affari umani fu, devo ammetterlo, scaturito da un errore presente sul [[settings/oxford|Oxford Herald]] riguardante me: il mio nome era stato scritto male in una descrizione di un evento pubblico. Anche se ne fui profondamente offeso, ho preferito, per un sentimento che spero sia comune a tutti noi, non fare alcuna menzione a quell’insulto.
 
@@ -2452,7 +2452,7 @@ Infatti, le sue opinioni politiche rappresentavano forse il tratto più notevole
 
 Nella delicata questione delle controversie religiose, sono i suoi stessi scritti a doverlo descrivere; inoltre, non intendo affrontare qui una questione che non ha assunto un'importanza pubblica significativa se non dopo la sua morte. Forse posso dire almeno questo: era un cristiano sincero nel vero senso della parola, non legato a formule ristrette, ma che seguiva con la massima attenzione il sistema di Seneca, arricchito dalle meditazioni di Marco Aurelio; tuttavia, non arrivò mai al punto di tentare di mettere in pratica ciò che quel estremo stoico aveva teorizzato.
 
-Né un ritualista né un seguace della Chiesa Bassa, esprimeva la propria posizione attraverso un silenzio profondo e significativo. Queste parole gli sfuggirono soltanto in un’unica occasione. Riflettiamoci bene su di esse nelle discussioni turbolente di oggi: “Medio tutissimus ibis.”
+Né un ritualista né un seguace della Chiesa低教会派, esprimeva la propria posizione attraverso un silenzio profondo e significativo. Queste parole gli sfuggirono soltanto in un’unica occasione. Riflettiamoci bene su di esse nelle discussioni turbolente di oggi: “Medio tutissimus ibis.”
 
 La sua erudizione e il suo sapere, così profondi nelle lingue morte, venivano applicati con straordinaria abilità e gusto nella scelta che faceva degli autori moderni.
 
@@ -2460,11 +2460,11 @@ Era ignorante di italiano, ma assai versato nei classici francesi, che leggeva a
 
 Ecco l’uomo, ecco il gentiluomo: il vero “Hglaford”, il moderno “Godgebidden Eorldemanthingancanning”; i suoi pensieri più intimi verranno rivelati nelle pagine che seguono.
 
-II. Lambkin’s Newdigate
+# II. Lambkin’s Newdigate
 
 Poema scritto per il “Newdigate Prize” in versi inglesi
 
-Il signor J. A. Lambkin del Burford College
+# Il signor J. A. Lambkin del Burford College
 
 Nota: — I concorrenti sono tenuti a utilizzare esclusivamente i pentametri giambici eroici in rima, ma è consentita l’aggiunta di testi lirici.
 
@@ -2480,9 +2480,9 @@ I benefici conferiti dalla Scienza, li esalto.
 
 Il suo tema: la luce elettrica e i suoi benefici
 
-Sotto la gentile guida degli esaminatori
+# Sotto la gentile guida degli esaminatori
 
-Solo ne scrivo quando sono collegati a qualcos’altro
+#Solo ne scrivo quando sono collegati a qualcos’altro
 
 Titolo:  
 Con i vantaggi offerti dalla luce elettrica…
@@ -2491,26 +2491,26 @@ Ci dona qualcosa; soprattutto di notte.
 
 Questi sono i miei temi; su di essi sorgerà la mia canzone.
 
-La mia testa orgogliosa toccherà il cielo
+# La mia testa orgogliosa toccherà il cielo
 
 E lacrime d’amore disperato bagnano gli occhi della fanciulla.
 
-Seconda Invocazione alla Musa
+# Seconda Invocazione alla Musa
 
 Scendi, o Musa, dalla tua divina dimora.
 
-Osney
+# Osney
 
 A Osney, sulla strada delle Sette Ponti;
 
-Sotto l’ombra solitaria di Osney
+#Sotto l’ombra solitaria di Osney
 
 La maggior parte della lampada elettrica è già stata prodotta.
 
 Titolo:  
 Ecco le opere; da qui inizia il corso attuale degli eventi.
 
-Quale… (così recita il prospetto aziendale)
+# Quale… (così recita il prospetto aziendale)
 
 Titolo:  
 Il potere delle opere lì
@@ -2519,15 +2519,15 @@ Titolo: Fornisce agli iscritti informazioni orarie per orario
 
 Non meno di sedicimila candele di potenza,13
 
-Tutti a mille volt… (È essenziale)
+# Tutti a mille volt… (È essenziale)
 
-Mantenere il livello attuale a questo alto potenziale
+# Mantenere il livello attuale a questo alto potenziale
 
 Nonostante le notevoli spese.
 
 Statistiche su di loro
 
-L’energia sviluppata rappresenta…
+# L’energia sviluppata rappresenta…
 
 In termini di piedotoni, le forze unite…
 
@@ -2539,18 +2539,18 @@ Tagliare via le adorabili ali del leggero Pegaso?
 
 Domande poetiche o retoriche
 
-Statistiche puramente statistiche… possono forse risultare sgradevoli all’orecchio?
+# Statistiche puramente statistiche… possono forse risultare sgradevoli all’orecchio?
 
 Quelle pantaloni accentuano chiaramente il tono melodioso di Lyric, vero?
 
-Devo descrivere il complesso Dynamo?
+# Devo descrivere il complesso Dynamo?
 
 O scrivere qualcosa sul suo commutatore? No!
 
 Titolo:  
 Il tema cambia
 
-Verso campi più felici conduco la mia penna libera e spensierata
+# Verso campi più felici conduco la mia penna libera e spensierata
 
 Lo studio approfondito dell’umanità riguarda gli esseri umani stessi.
 
@@ -2752,11 +2752,11 @@ The nervous strain of so much anxiety about his literary work wearied both mind 
 
 Terza Invocazione alla Musa
 
-Risvegliati, mia Musa! Raffigura questa piacevole scena
+# Risvegliati, mia Musa! Raffigura questa piacevole scena
 
 Questo ci porta nel luogo in cui producono la luce elettrica.
 
-Una fotografia dell’elettricista
+# Una fotografia dell’elettricista
 
 Ecco il elettricista dove si trova…
 
@@ -2784,21 +2784,21 @@ Un contatto casuale… un movimento imprudente di una mano…
 
 I Terminali – un lampo – un suono simile a “Zip!”
 
-Un odore di combustione riempie l’aria sorpresa…
+# Un odore di combustione riempie l’aria sorpresa…
 
 L’elettricista non c’è più!
 
-Cambia argomento
+# Cambia argomento
 
 Ma torniamo, con un vero disprezzo artistico…
 
 Da fatti funebri e da visioni desolate
 
-Nato da Erebo e dalla notte più oscura.14
+# Nato da Erebo e dalla notte più oscura.14
 
 Quarta Invocazione alla Musa
 
-Risvegliati, Musa! e canta con accenti ricchi e vibranti
+# Risvegliati, Musa! e canta con accenti ricchi e vibranti
 
 Titolo:  
 I processi interessanti attraverso i quali…
@@ -2809,7 +2809,7 @@ Questi sono i miei temi; su di essi modulo la mia canzone.
 
 Descrizione del metodo mediante il quale viene utilizzato il Corrente
 
-Incapsulato nel legno o nella malta porosa
+# Incapsulato nel legno o nella malta porosa
 
 Attraverso fili di rame spessi due millimetri
 
@@ -2822,7 +2822,7 @@ Qui si può operare con grande abilità critica
 
 La seguente domanda: “Che cos’è l’elettricità?”
 
-Difficoltà nel determinare la natura dell’elettricità
+# Difficoltà nel determinare la natura dell’elettricità
 
 “Attività molecolare”, dicono alcuni.
 
@@ -2838,7 +2838,7 @@ Si trasforma in calore e luce attraverso la sua forza latente:
 
 Conservazione dell’energia. Dimostrazioni di ciò: non sono necessari esperimenti
 
-Non c’è bisogno di un pedante sul podio dell’oratore
+# Non c’è bisogno di un pedante sul podio dell’oratore
 
 Per dimostrare che lì sono presenti luce e calore.
 
@@ -2846,21 +2846,21 @@ Il globo di vetro a forma di pera… capisco.
 
 Fa troppo caldo per poter toccare qualcosa con le mani.
 
-Mentre, come è evidente anche al più semplice osservatore…
+# Mentre, come è evidente anche al più semplice osservatore…
 
 Il filamento di carbonio è molto luminoso.
 
-Dubbi sul sistema municipale, ma…
+# Dubbi sul sistema municipale, ma…
 
 Per quanto riguarda le luci che pendono per la città…
 
 Alcuni li lodano molto, altri li criticano aspramente.
 
-Questo sistema (chiamato tecnicamente “arco”)
+#Questo sistema (chiamato tecnicamente “arco”)
 
 Rende alcuni passaggi troppo leggeri, altri troppo cupi.
 
-Nessuno in casa
+# Nessuno in casa
 
 Ma nella casa, i raggi dolci e costanti…
 
@@ -2876,9 +2876,9 @@ Lontano da qualche angolo remoto della stanza
 
 La lampada ad incandescenza scaccia l’oscurità.
 
-Vantaggi della stampa in grandi dimensioni
+# Vantaggi della stampa in grandi dimensioni
 
-E con la maggiore richiesta di stampa, non c’è nemmeno bisogno di provare
+#E con la maggiore richiesta di stampa, non c’è nemmeno bisogno di provare
 
 Le capacità visive di qualsiasi giovane occhio pieno di vigore.
 
@@ -2894,21 +2894,21 @@ La vita è una valle: i suoi sentieri sono oscuri e accidentati.
 
 Solo perché non sappiamo abbastanza.
 
-Quando la scienza ha scoperto qualcosa di ancora più grande
+# Quando la scienza ha scoperto qualcosa di ancora più grande
 
 Saremo più felici di quanto fossimo prima.
 
-Perorazione nello spirito del resto della poesia
+# Perorazione nello spirito del resto della poesia
 
-Evviva, Britannia, padrona dei mari azzurri!
+# Evviva, Britannia, padrona dei mari azzurri!
 
 Diecimila flotte ti assalgono invano!
 
-Salve! Potente madre dei coraggiosi e liberi.
+# Salve! Potente madre dei coraggiosi e liberi.
 
 Quel ritmo sconfisse Napoleone, e mi diede alla luce!
 
-Colui che può avvolgersi nel suo manto decorato di simboli
+#Colui che può avvolgersi nel suo manto decorato di simboli
 
 Un quarto del globo abitabile.
 
@@ -2918,15 +2918,15 @@ Come imponenti colline resistono ai mari tempestosi.
 
 Avvertimento per la Gran Bretagna
 
-Tu sei una comunità cristiana… Eppure
+# Tu sei una comunità cristiana… Eppure
 
-Non essere del tutto ingrato… né dimenticare
+# Non essere del tutto ingrato… né dimenticare
 
 Come esulti nella potenza imperiale…
 
 I benefici della luce elettrica.
 
-III. Alcune osservazioni sullo stile prosastico di Lambkin
+# III. Alcune osservazioni sullo stile prosastico di Lambkin
 
 Nessun altro risultato ottenuto dal mio caro amico ha avuto un effetto maggiore dell’articolo in inglese che presentò all’esame. Il fatto che un giovane così giovane, e cresciuto in un ambiente del genere, fosse riuscito a scrivere un simile articolo era già sufficientemente notevole; ma il fatto che il suo lavoro dimostrasse una tale padronanza nella struttura, un equilibrio così delicato tra le idee e una conoscenza così vasta (nel vero senso della parola), unita a una comprensione sorprendente del carattere umano e della psicologia contemporanea, era davvero motivo di ammirazione. Fu proprio per questo che il allora direttore di Burford commentò: “Se queste cose” (disse l’anziano ma eminente religioso), “se queste cose vengono realizzate in un ambiente ancora poco maturo, cosa si potrà mai realizzare in futuro?”
 
@@ -3008,7 +3008,7 @@ Ma devo concludere, altrimenti rischierei di essere accusato di cadere in una re
 
 IV. Saggio di Lambkin sul “successo”
 
-Sul “successo”: le sue cause e i suoi risultati
+# Sul “successo”: le sue cause e i suoi risultati
 
 Difficoltà dell’argomento
 
@@ -3086,7 +3086,7 @@ Seconda difficoltà ancora maggiore
 
 Ma se il problema è complesso a causa della grande varietà dei diversi tipi di Successo, cosa dovremmo dire allora del disturbo introdotto da un nuovo aspetto della questione, al quale stiamo per fare riferimento? Ahimè. Un aspetto così diffuso nelle sue conseguenze, così importante e così pieno di minacce per tutta la filosofia, così carico di presagi e così pericoloso per l’umanità stessa, che esitiamo persino a menzionarlo! Il Successo non è sempre davvero Successo: il Fallimento è anch’esso un aspetto del Successo, e viceversa. Questo apparente paradosso si rivelerà vero se lo consideriamo attentamente. Infatti, in ogni caso, il “Successo” implica necessariamente il “Fallimento” o la “Non-riuscita” di ciò che gli è opposto o correlato. Quindi, se scommettiamo dieci sterline con un nostro amico, il nostro “Successo” diventa il suo “Fallimento”, e viceversa. Inoltre, se desideriamo fallire in qualcosa (ad esempio, chiunque vorrebbe evitare di essere impiccato, ), allora riuscire significa fallire, e fallire significa riuscire. Il nostro “successo” fallimentare diventerebbe un vero fallimento se si verificasse un risultato disastroso! E notate che lo stesso atto, non questo o quell’altro, ma ESATTAMENTE LO STESSO, può essere considerato un atto “di successo” o “di fallimento”, a seconda del modo in cui lo osserviamo. Quindi il Successo non solo può essere Fallimento, ma DEVE esserlo. E le due categorie su cui avevamo costruito tante speranze sono ormai scomparse per sempre!
 
-Considerazioni solenni derivanti da ciò
+# Considerazioni solenni derivanti da ciò
 
 Che pensiero terribile! Una cosa può essere allo stesso tempo sé stessa e non sé stessa, anzi, il proprio opposto! La mente vacilla; la debole vista umana, che si affaccia sul vasto abisso dell’infinito metafisico, si perde in un grido di pietà e trema ai confini dell’invisibile. Quante visioni di orrore e follia potrebbero attendere l’anima troppo audace che osa bussare alle Porte del Silenzio. Impariamo dall’Incomprensibile quanto sia piccolo e debole l’uomo!
 
@@ -3094,7 +3094,7 @@ Un punto di vista più ottimista
 
 Ma sarebbe indegno di un filosofo abbandonare i propri sforzi a causa di qualche ostacolo iniziale. La grande mano del Tempo ci incita sempre ad “andare avanti”; e anche se non riusciamo a scoprire l’Assoluto entro i limiti di questo saggio, possiamo risorgere dalle ceneri delle nostre lacrime per raggiungere cose migliori e più felici.
 
-Il principio di una soluzione
+# Il principio di una soluzione
 
 Sembra che ci stia illuminando una luce. Non arriveremo alla piena comprensione della realtà, ma vedremo “in modo vago e indiretto” ciò che, alla fine del nostro percorso di evoluzione, potrebbe forse essere rivelato più chiaramente a noi. È evidente che abbiamo sempre trattato di concetti relativi. Non possiamo comprendere come cose apparentemente assolute, come il fallimento o la vittoria, possano in realtà avere un carattere relativo; non riusciamo infatti a immaginare l’intero quadro nel quale Successo e Fallimento, positività e negatività, sì e no, verità e menzogne sono soltanto le lucide facce di un diamante indossato dal dito di qualcuno importante e ricco.
 
@@ -3104,7 +3104,7 @@ In quel momento suonò la campanella e i documenti dovevano essere consegnati im
 
 “Nessun tempo a disposizione. Avevo intenzione di fornire esempi: successo, ambito accademico, acrobazie, agricoltura, aristocrazia, bacilli, anche esempi legati alle culture yaroslavi, zenobidi, ecc. Ho esaminato casi storici, la visione di Biggar, l’unità, la coscienza universale, Amphodunissa, 22 settembre.”
 
-V. Lambkin sul sonno
+# V. Lambkin sul sonno
 
 [Questo piccolo capolavoro fu scritto per la grande monografia sull’“Essere”, che Lambkin non ebbe mai il tempo di completare. Tuttavia, fu incluso nel suo piccolo volume di saggi intitolato “Rictus Almae Matris”. Le attente note a piè di pagina, l’ampia quantità di informazioni e l’accuratezza accademica dell’intero lavoro rappresentano un esempio – ahimè, l’unico – di ciò che la sua opera completa avrebbe potuto essere se fosse stata portata a termine. È senz’altro un esempio ammirevole del suo stile negli anni più maturi.]
 
@@ -3292,7 +3292,7 @@ Dei risultati derivanti dalle lezioni del signor Lambkin, i più significativi e
 
 Un'idea più o meno simile mi fu espressa anche dal Vescovo di Humbury: circa un anno fa, si avvicinò a me nel salone con uno sguardo particolare negli occhi e, quando menzionai il nome di Lambkin, disse improvvisamente, come se lottasse con un'emozione: “Lambkin, non teneva lezioni nel vostro salone sull’Etica?” “Alcune sì,” risposi, “alcune nel salone stesso, altre nella Aula di Lezioni n. 2.” Il Vescovo non disse nulla, ma nei suoi occhi si leggevano molti pensieri e ricordi. Non possiamo forse – conoscendo le difficoltà del Vescovo in materia di fede e la sua vittoria finale – attribuire una parte di questa influenza progressiva e benefica al mio caro amico?
 
-Sul “diritto”
+# Sul “diritto”
 
 [Lezione V di un corso composto da otto lezioni, tenuta nel semestre autunnale del 1878.]
 
@@ -3434,7 +3434,7 @@ Sono felice di poter dire che la questione è stata risolta in modo soddisfacent
 
 Le Lettere
 
-S.S. Borgia, Gravesend
+# S.S. Borgia, Gravesend
 
 Domenica 27 settembre 1873
 
@@ -3522,7 +3522,7 @@ Leghorn, 5 ottobre 1873.
 
 Ecco la fine di tutto. Non ho più nulla da dire. Ritengo che il pubblico non abbia bisogno dei miei servizi, e che l’Inghilterra abbia subito una sconfitta disastrosa. La flotta si è ritirata dall’Apulia. L’Inghilterra – che la posterità lo ricordi – non possiede nemmeno un pollice di terra in tutta la penisola italiana. Beh, siamo stati sconfitti e dobbiamo aspettare il momento giusto; ma voglio dire una cosa: se quel giovane arrogante, il Primo Ufficiale, pensa che la sua famiglia possa proteggerlo, si sbaglia. La stampa è un potere enorme, e mai così grande come quando (come in Inghilterra) professori universitari o le classi superiori scrivono per i giornali, e quando il segreto delle loro identità permette a talento e posizione di esercitare tutto il loro peso.
 
-IX. L’allocuzione di Lambkin alla Lega del Progresso
+# IX. L’allocuzione di Lambkin alla Lega del Progresso
 
 TUTTI RAMINERANNO quell’importante incontro delle “Higher Spinsters” del 1868: un gruppo fino ad allora interamente volontario nella sua organizzazione, che si era impegnato a portare nelle case dei poveri e degli sfortunati ciò che caratterizza i quartieri residenziali delle nostre grandi città. Se oggi Whitechapel è più degradata di quanto non lo fosse trent’anni fa, non dobbiamo trascurare del tutto gli sforzi compiuti in passato dalle “Higher Spinsters”. Ognuna di loro ha lavorato con impegno nel proprio ambito, e anche dopo la morte non vi furono divisioni tra di loro.
 
@@ -3584,7 +3584,7 @@ Dopo la loro partenza, il signor Large entrò nella stanza di Lambkin con una bu
 
 In realtà non era affatto così. Quando Lambkin aprì la scatola (dopo aver aspettato con grande cortesia che il suo visitatore lasciasse la stanza), vi trovò soltanto cinque sterline. Ma notate ciò che segue: Lambkin non ne parlò mai con nessuno, né criticò in alcun modo le future azioni di Large, tranne nei casi in cui riteneva che il suo collega fosse davvero colpevole. Nel corso degli anni in cui continuarono a incontrarsi, la moderazione e il rispetto di sé di Lambkin lo evitarono dall’usare armi ignobili, sia quelle della parola che quelle della penna. Fu una lezione di ironia da gentiluomo vedere mio amico assumere un posto superiore a quello di Large alla tavola durante quei giorni difficili che seguirono.
 
-L’indirizzo
+# L’indirizzo
 
 Carissimi amici,
 
@@ -3646,7 +3646,7 @@ In the past term (I think I can answer for some of you) a much deeper meaning ha
 
 Allora andate avanti! Ancora una volta vi dico: andate avanti! Il momento è vicino in cui l’Inghilterra comprenderà che le vostre richieste di rispetto, riconoscimento e remunerazione sono uguali alle nostre. Lo ripeto: andate avanti, e quando riuscirete a far cambiare opinione alla maggior parte delle famiglie, allora davvero trasformerete il mondo! Perché senza la mente, l’intelligenza umana non è nulla.
 
-Il leader di Lambkin
+# Il leader di Lambkin
 
 Il signor Solomon era sempre determinato a mantenere il livello di qualità del “Sunday Englishman”. “Lo dobbiamo” – diceva – “prima di tutto al pubblico che ne trae beneficio, e poi a noi stessi, poiché questo ci garantisce una circolazione sempre maggiore”. Con “noi stessi” si riferiva agli azionisti, poiché il “Sunday Englishman” era una società a responsabilità limitata le cui azioni (di cui il signor Solomon possedeva la maggioranza) venivano distribuite all’interno della famiglia; persino il più piccolo bambino di due anni riceveva una quota dalle sue genitori, che lo trattavano con affetto e generosità.
 
@@ -3917,7 +3917,7 @@ Ma ho detto abbastanza. Devo concludere. L’amore per la fama, che è stato bel
 
 (A questo punto, il signor Lambkin lasciò improvvisamente il pulpito.)
 
-XIV. La lettera aperta di Lambkin ai chierici
+# XIV. La lettera aperta di Lambkin ai chierici
 
 Il clamore suscitato dal famoso consiglio del signor Lambkin all’arcidiacono Burfle sarà ricordato da tutti i miei lettori. Tuttavia, egli non pubblicò quella lettera (come erroneamente si ritiene in “Great Dead Men of the Period”),72 senza averla prima attentamente discussa e riflettuta. Personalmente non lo esortai a renderla pubblica: ritenevo che fosse imprudente farlo. Ma si potrebbe quasi dire che il signor Large abbia insistito su questo punto durante la lunga conversazione che ebbe con Josiah sull’argomento. Dopo che Lambkin se ne fu andato, ebbi l’ardire di andare a trovarlo di nuovo, ma quella lettera fatale era già stata inviata e il giorno seguente apparve su “The Times”, “The Echo” e altri giornali, per non menzionare “The Englishman’s Anchor”. Non intendo accusare il signor Large di alcuna intenzione maliziosa o di voler ingannare deliberatamente qualcuno, ma temo che (essendo una persona non impulsiva) il suo consiglio derivasse da una grave e calcolata mancanza di giudizio.
 
@@ -3935,7 +3935,7 @@ Lettera aperta
 
 Burford. Vigilia di San Giovanni, 1876.
 
-Mio caro Burfle,
+# Mio caro Burfle,
 
 
 
@@ -3987,11 +3987,11 @@ Non esiste alcun modo per evitare una tale catastrofe?
 
 Certamente sì. Esiste una strada su cui entrambi possono viaggiare, un luogo dove tutti possono incontrarsi. Intendo dire le scarpe da ginnastica (preferibilmente quelle in tessuto con i lacci elastici). Molti dei nostri chierici le indossano già. Non offendono nessuna delle due parti, soddisfano, o dovrebbero soddisfare, entrambe; e per quanto mi riguarda, vi vedo uno di quei compromessi su cui si fonda la nostra grandezza. Diamo quindi il via a non essere né pecore né capre in questa questione. È molto meglio, davvero molto meglio, ammettere un po’ di “timidezza” nella nostra “capricciosità”, o (se i nostri estremisti lo vogliono così) un po’ di “capricciosità” nella nostra “timidezza”: è meglio, dico io, unirsi sotto lo stesso stendardo e vivere in pace, piuttosto che mettere a rischio i nostri principi più cari e amati per una semplice disputa su questioni secondarie. Perché, dopotutto, cosa è essenziale per noi? Non le scarpe, penso, ma la rettitudine. La rettitudine può manifestarsi attraverso le scarpe; è giusto e buono che sia così. Ma vedere la rettitudine nelle scarpe stesse significa cadere nel grossolano materialismo del Medioevo, dimenticando il nostro diritto innato e i valori fondamentali della nostra fede.
 
-Tuo (caro Burfle), con tutto il mio affetto
+# Tuo (caro Burfle), con tutto il mio affetto
 
 Josiah Lambkin.
 
-XV. La lettera di Lambkin a un amico francese
+# XV. La lettera di Lambkin a un amico francese
 
 L’interesse di Lambkin per il Continente era profondo e duraturo. Conosceva bene la parte occidentale di questa parte del globo grazie a un costante viaggiare che lo portava attraverso la rotta Calais-Basilea, passando di notte per il San Gottardo, fino alle storiche pianure dell’Italia. Fu a Milano che scrisse la sua “Grammatica anglo-sassone ridotta”, e ad Assisi corresse le bozze del suo articolo sul valore degli avena come alimento umano. Tutti ricorderanno l’abominevole atto di violenza avvenuto a Napoli, dove fu pugnalato da un cocchiere in segno di vendetta per la sua nobile e disinteressata protezione di un povero cavallo da calesa; insomma, l’Italia è piena dei suoi ricordi legati ai viaggi, e nessun nome è più noto ai membri del Club della Villa Marinoni.
 
@@ -4167,7 +4167,7 @@ Ma non pensate che io intenda spiegarlo.
 
 In larga misura… Credetemi.
 
-Farvi soffrire un po’…
+# Farvi soffrire un po’…
 
 E se non mi piaci, lasciami andare.
 
@@ -4177,7 +4177,7 @@ E soprattutto non potete lamentarvi…
 
 Recensori, il cui mestiere è…
 
-Sforzarsi con tutte le proprie forze
+#Sforzarsi con tutte le proprie forze
 
 Biografie di signore single.
 
@@ -4189,7 +4189,7 @@ Il piano ha dimenticato… (Non so come.)
 
 “Forse era il refettorio a riempirlo…”
 
-Inserire una cappella… e ora?
+#Inserire una cappella… e ora?
 
 Stiamo ipotecando il resto per costruirlo.
 
@@ -4331,11 +4331,11 @@ Il signor Lambkin mi ha assicurato che il suo signore aveva mantenuto queste rel
 
 11 Il signor Punt, il signor Howl e il signor Grewcock, – ahimè, ora tutti defunti.
 
-12: Una raffinata interpretazione di “Sublimi feriam sidera vertice”.
+# 12: Una raffinata interpretazione di “Sublimi feriam sidera vertice”.
 
 13 Ai Giudici Esaminatori. Questi fatti (della cui accuratezza garantisco) mi sono stati forniti da un Direttore.
 
-14 Un ricordo di Milton: “È necessario imparare anche dall’avversario”.
+# 14 Un ricordo di Milton: “È necessario imparare anche dall’avversario”.
 
 15. Lambkin mi disse di pentirsi di questa riga, che era stata scritta per motivi legati alla rima. Avrebbe volentieri sostituita quella riga, ma fino all’ultimo giorno della sua vita non riuscì a trovarne nessuna alternativa.
 
@@ -4343,7 +4343,7 @@ Questa aneddota si trova nel mio libro “Cinquanta anni di conoscenze casuali�
 
 Nel giugno del 1881, quando un suo allievo gli chiese decisamente di definire la Felicità, Lambkin rifiutò categoricamente: anzi, il suo odio per le definizioni era così noto che tra i giovani studiosi più irrequieti gli venne affibbiato con bonarietà il soprannome di “il Lento”.
 
-18 il centro
+# 18 il centro
 
 Questo fu il primo esempio storico della conoscenza di Lamkin dell’ebraico: una competenza che in seguito utilizzò in modo estensivo nella sua critica al falso Giovanni.
 
@@ -4351,9 +4351,9 @@ Questo fu il primo esempio storico della conoscenza di Lamkin dell’ebraico: un
 
 21.umoristico.
 
-22 Il manoscritto è quasi indecifrabile
+# 22 Il manoscritto è quasi indecifrabile
 
-23 La parola stessa “dormante” deriva dal latino, che significa “addormentato”.
+# 23 La parola stessa “dormante” deriva dal latino, che significa “addormentato”.
 
 Conoscevo il Professore M’O negli anni Sessanta. Era un scozzese affascinante e colto, con una perfetta padronanza della lingua inglese.
 

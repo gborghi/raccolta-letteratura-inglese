@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. Joseph Sweetser, Autumn, 1879?](/testi/dickinson/atomized/seasons-winter-autumn#l0484_mrs_joseph_sweetser_autumn_1879)
+- [To Mrs. Joseph Sweetser, Autumn, 1879?](/testi/dickinson/atomized/seasons-winter-autumn--letters#_joseph_sweetser_autumn_1879)
 

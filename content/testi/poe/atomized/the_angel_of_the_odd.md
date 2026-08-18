@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_angel_of_the_odd" data-title="The Angel of the Odd" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-angel-of-the-odd-(poe)|The Angel of the Odd]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/transience-decay-carpe-diem" data-author="Coleridge" data-workhref="works/transience-·-decay-·-carpe-diem-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="006_quae_nocent_docent" data-title="QUAE NOCENT DOCENT" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/time,concept/education,concept/nostalgia,concept/conscience,form/ode,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+QUAE NOCENT DOCENT · ON BALA HILL · IMITATIONS: AD LYRAM · AD LYRAM. · TO LESBIA · THE FADED FLOWER · VER PERPETUUM · ON OBSERVING A BLOSSOM ON THE FIRST OF FEBRUARY 1796 · TO A PRIMROSE · FROM ZAPOLYA · LIMBO · THE KNIGHT’S TOMB · INSCRIPTION FOR A TIME-PIECE · LETTER TO SIR HENRY GOODYERE
+
+
+
+
+<span class="atom-split" data-atom="006_quae_nocent_docent" data-title="QUAE NOCENT DOCENT" data-chapter="" data-kind="intro"></span>
 
 
 IN [[characters/christ|CHRIST]]’S HOSPITAL BOOK  
@@ -63,7 +68,7 @@ ma la saggia Esperienza viene solo con gli anni.
 
 
 
-<span class="atom-split" data-atom="052_on_bala_hill" data-title="ON BALA HILL" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,archetype/pilgrim,motif/the_journey,motif/autumn,motif/mutability,concept/hope,concept/transience,form/sonnet,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="052_on_bala_hill" data-title="ON BALA HILL" data-chapter="" data-kind="intro"></span>
 
 
 With many a weary step at length I gain  
@@ -103,7 +108,7 @@ e piacevole è la via che sta dinanzi.
 
 
 
-<span class="atom-split" data-atom="056_imitations_ad_lyram" data-title="IMITATIONS: AD LYRAM" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/music_and_song,motif/storm,motif/wind,concept/transience,form/ode,histref/classical_antiquity,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="056_imitations_ad_lyram" data-title="IMITATIONS: AD LYRAM" data-chapter="" data-kind="intro"></span>
 
 
 (CASIMIR, BOOK II. ODE 3)  
@@ -149,7 +154,7 @@ a capofitto, sempre in volo.
 
 
 
-<span class="atom-split" data-atom="057_ad_lyram" data-title="AD LYRAM." data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/music_and_song,motif/storm,concept/transience,form/ode,histref/classical_antiquity,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="057_ad_lyram" data-title="AD LYRAM." data-chapter="" data-kind="intro"></span>
 
 
 Sonori buxi Filia sutilis,  
@@ -189,7 +194,7 @@ Titolo] [[works/song-(poe)|Song]]. [Nota. Imitata da Casimiro.] MS. E.
 
 
 
-<span class="atom-split" data-atom="058_to_lesbia" data-title="TO LESBIA" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/tempus_fugit,motif/sun,motif/night,motif/desire,concept/mortality,concept/love_romantic,form/lyric,histref/ancient_rome,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="058_to_lesbia" data-title="TO LESBIA" data-chapter="" data-kind="intro"></span>
 
 
 Vivamus, mea Lesbia, atque amemus.  
@@ -241,7 +246,7 @@ che non potranno mai più essere mie!
 
 
 
-<span class="atom-split" data-atom="071_the_faded_flower" data-title="THE FADED FLOWER" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/fallen_woman,motif/flowers,motif/decay,motif/the_grave,concept/transience,concept/melancholy,form/sonnet,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="071_the_faded_flower" data-title="THE FADED FLOWER" data-chapter="" data-kind="intro"></span>
 
 
 Ungrateful he, who pluck’d thee from thy stalk,  
@@ -281,7 +286,7 @@ gustò le sue dolcezze primaverili, ma gustò per distruggere!’
 
 
 
-<span class="atom-split" data-atom="113_ver_perpetuum" data-title="VER PERPETUUM" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/spring,motif/flowers,concept/transience,concept/immortality,form/fragment,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="113_ver_perpetuum" data-title="VER PERPETUUM" data-chapter="" data-kind="intro"></span>
 
 
 [[forms/fragment|FRAGMENT]] FROM AN UNPUBLISHED POEM.  
@@ -315,7 +320,7 @@ riparati da quelle nubi e nutriti da quegli acquazzoni!   10
 
 
 
-<span class="atom-split" data-atom="114_on_observing_a_blossom_on_the_first_of_february_1796" data-title="ON OBSERVING A BLOSSOM ON THE FIRST OF FEBRUARY 1796" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/winter,concept/transience,concept/mortality,concept/the_artist_and_society,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="114_on_observing_a_blossom_on_the_first_of_february_1796" data-title="ON OBSERVING A BLOSSOM ON THE FIRST OF FEBRUARY 1796" data-chapter="" data-kind="intro"></span>
 
 
 Sweet flower! that peeping from thy russet stem  
@@ -379,7 +384,7 @@ suonate con destrezza su uno strumento dal tono soave.
 
 
 
-<span class="atom-split" data-atom="115_to_a_primrose" data-title="TO A PRIMROSE" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/spring,motif/seasons,concept/transience,concept/melancholy,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="115_to_a_primrose" data-title="TO A PRIMROSE" data-chapter="" data-kind="intro"></span>
 
 
 THE FIRST SEEN IN THE SEASON  
@@ -439,7 +444,7 @@ le gioie in piena fioritura e lo sgargiante fiore del Piacere.   20
 
 
 
-<span class="atom-split" data-atom="254_from_zapolya" data-title="FROM ZAPOLYA" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/tempus_fugit,motif/birds,motif/spring,concept/transience,concept/love_romantic,form/song,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="254_from_zapolya" data-title="FROM ZAPOLYA" data-chapter="" data-kind="intro"></span>
 
 
 A Sunny shaft did I behold,  
@@ -483,7 +488,7 @@ Oggi! oggi!’
 
 
 
-<span class="atom-split" data-atom="258_limbo" data-title="LIMBO" data-chapter="" data-kind="intro" data-tags="motif/time,motif/ghosts,motif/moon,motif/the_clock,concept/mortality,concept/the_grotesque,concept/terror_and_horror,setting/the_underworld,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="258_limbo" data-title="LIMBO" data-chapter="" data-kind="intro"></span>
 
 
 The sole true Something — This! In Limbo’s Den  
@@ -571,7 +576,7 @@ una [[concepts/fear|paura]] — uno stato futuro; — è Negazione positiva!
 
 
 
-<span class="atom-split" data-atom="259_the_knights_tomb" data-title="THE KNIGHT’S TOMB" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,topos/tempus_fugit,motif/the_grave,motif/dust,motif/swords_weapons,concept/mortality,concept/transience,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="259_the_knights_tomb" data-title="THE KNIGHT’S TOMB" data-chapter="" data-kind="intro"></span>
 
 
 Where is the [[motifs/grave|grave]] of Sir [[characters/arthur|Arthur]] O’Kellyn?  
@@ -605,7 +610,7 @@ la sua [[motifs/soul|anima]] è coi santi, confido.
 
 
 
-<span class="atom-split" data-atom="359_inscription_for_a_time-piece" data-title="INSCRIPTION FOR A TIME-PIECE" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/time,motif/the_clock,motif/ghosts,motif/silence,motif/eyes_sight,concept/transience,form/epigram,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="359_inscription_for_a_time-piece" data-title="INSCRIPTION FOR A TIME-PIECE" data-chapter="" data-kind="intro"></span>
 
 
 Now! It is gone — Our brief hours travel post,  
@@ -659,7 +664,7 @@ Ora pubblicata per la prima volta da un MS. del British Museum.
 
 
 
-<span class="atom-split" data-atom="422_letter_to_sir_henry_goodyere" data-title="LETTER TO SIR HENRY GOODYERE" data-chapter="" data-kind="intro" data-tags="topos/seven_ages_of_man,motif/sun,motif/light_and_dark,concept/mortality,concept/self_and_soul,concept/transience,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
+<span class="atom-split" data-atom="422_letter_to_sir_henry_goodyere" data-title="LETTER TO SIR HENRY GOODYERE" data-chapter="" data-kind="intro"></span>
 
 
 Stanzas II, III, IV, and a few words from Stanza V, are prefixed as the  

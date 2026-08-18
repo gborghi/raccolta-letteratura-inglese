@@ -14,10 +14,10 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/whitman/atomized/heroism-hero-last-stand#158_a_sight_in_camp_in_the_daybreak_gray_and_dim|A Sight in Camp in the Daybreak Gray and Dim (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#152_bivouac_on_a_mountain_side|Bivouac on a Mountain Side (Whitman)]]
-- [[testi/whitman/atomized/stars-night-military-camp#154_by_the_bivouac_s_fitful_flame|By the Bivouac’s Fitful Flame (Whitman)]]
-- [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#173_o_tan_faced_prairie_boy|O Tan-Faced Prairie-Boy (Whitman)]]
+- [[works/a-sight-in-camp-in-the-daybreak-gray-and-dim-(whitman)|A Sight in Camp in the Daybreak Gray and Dim (Whitman)]]
+- [[works/bivouac-on-a-mountain-side-(whitman)|Bivouac on a Mountain Side (Whitman)]]
+- [[works/by-the-bivouac’s-fitful-flame-(whitman)|By the Bivouac’s Fitful Flame (Whitman)]]
+- [[works/o-tan-faced-prairie-boy-(whitman)|O Tan-Faced Prairie-Boy (Whitman)]]
 - [[works/a-glimpse-of-the-army-(conan-doyle)|A Glimpse of the Army (Conan Doyle)]]
 - [[works/six-british-battles-(belloc)|Six British Battles (Belloc)]]
 

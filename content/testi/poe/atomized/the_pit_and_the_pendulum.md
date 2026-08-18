@@ -12,7 +12,7 @@ tags:
 
 <span class="atom-split" data-atom="the_pit_and_the_pendulum" data-title="The Pit and the Pendulum" data-chapter="" data-kind="intro"></span>
 
-# The Pit and the Pendulum
+
 
 <span class="qlang-split" data-lang="it"></span>
 

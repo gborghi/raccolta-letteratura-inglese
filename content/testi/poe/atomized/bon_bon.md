@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="bon_bon" data-title="Bon-Bon" data-chapter="" data-kind="intro"></span>
 
-# [[works/bon-bon-(poe)|Bon-Bon]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

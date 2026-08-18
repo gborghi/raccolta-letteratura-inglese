@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political" data-author="Coleridge" data-workhref="works/nationalism-and-patriotism-·-democracy-·-liberty-political-freedom-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="082_to_the_honourable_mr_erskine" data-title="TO THE HONOURABLE MR. ERSKINE" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/sun,concept/liberty,concept/immortality_of_art,concept/heroism,form/sonnet,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+TO THE HONOURABLE MR. ERSKINE · KOSKIUSKO · TO LORD STANHOPE · TO EARL STANHOPE · LITERAL TRANSLATION. · VERSES: ADDRESSED TO J. HORNE TOOKE AND THE COMPANY WHO MET ON JUNE 28TH, 1796, · ORIGINAL POETRY. · ARGUMENT. · THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG · MOTTO FOR A TRANSPARENCY
+
+
+
+
+<span class="atom-split" data-atom="082_to_the_honourable_mr_erskine" data-title="TO THE HONOURABLE MR. ERSKINE" data-chapter="" data-kind="intro"></span>
 
 
 When British [[concepts/freedom|Freedom]] for an happier land  
@@ -51,7 +56,7 @@ arde ancora l'ampio Cielo del suo diffuso incendio.
 
 
 
-<span class="atom-split" data-atom="086_koskiusko" data-title="KOSKIUSKO" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,motif/death,concept/liberty,concept/war_and_its_cost,concept/grief_and_loss,concept/heroism,form/sonnet,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="086_koskiusko" data-title="KOSKIUSKO" data-chapter="" data-kind="intro"></span>
 
 
 O what a loud and fearful shriek was there,  
@@ -91,7 +96,7 @@ per pura ostinazione, e per malata [[concepts/despair|disperazione]] dell'[[moti
 
 
 
-<span class="atom-split" data-atom="093_to_lord_stanhope" data-title="TO LORD STANHOPE" data-chapter="" data-kind="intro" data-tags="motif/sun,concept/liberty,concept/nationalism_and_patriotism,concept/heroism,concept/power_and_corruption,form/sonnet,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="093_to_lord_stanhope" data-title="TO LORD STANHOPE" data-chapter="" data-kind="intro"></span>
 
 
 ON READING HIS LATE PROTEST IN THE HOUSE OF LORDS  
@@ -137,7 +142,7 @@ UNO DEL POPOLO.
 
 
 
-<span class="atom-split" data-atom="094_to_earl_stanhope" data-title="TO EARL STANHOPE" data-chapter="" data-kind="intro" data-tags="archetype/rebel,concept/liberty,concept/nationalism_and_patriotism,concept/faith,form/sonnet,histref/the_bible,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="094_to_earl_stanhope" data-title="TO EARL STANHOPE" data-chapter="" data-kind="intro"></span>
 
 
 Not, STANHOPE! with the Patriot’s doubtful name  
@@ -177,7 +182,7 @@ Campione della [[concepts/freedom|Libertà]] e del suo Dio, rallegrati!
 
 
 
-<span class="atom-split" data-atom="112_literal_translation" data-title="LITERAL TRANSLATION." data-chapter="" data-kind="intro" data-tags="archetype/hero,motif/death,concept/liberty,concept/war_and_its_cost,concept/providence,form/fragment,form/allegory,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="112_literal_translation" data-title="LITERAL TRANSLATION." data-chapter="" data-kind="intro"></span>
 
 
 Leaving the gates of Darkness, O [[motifs/death|Death]]! hasten thou to a Race yoked to  
@@ -523,7 +528,7 @@ Per i vv. 470-74 vide ante var. dei vv. 130 sgg.
 
 
 
-<span class="atom-split" data-atom="116_verses_addressed_to_j_horne_tooke_and_the_company_who_met_on_june_28th_1796" data-title="VERSES: ADDRESSED TO J. HORNE TOOKE AND THE COMPANY WHO MET ON JUNE 28TH, 1796," data-chapter="" data-kind="intro" data-tags="motif/dawn,concept/liberty,concept/reform,concept/power_and_corruption,concept/social_injustice,form/lyric,histref/ancient_rome,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="116_verses_addressed_to_j_horne_tooke_and_the_company_who_met_on_june_28th_1796" data-title="VERSES: ADDRESSED TO J. HORNE TOOKE AND THE COMPANY WHO MET ON JUNE 28TH, 1796," data-chapter="" data-kind="intro"></span>
 
 
 TO CELEBRATE HIS POLL AT THE WESTMINSTER ELECTION  
@@ -641,7 +646,7 @@ non ai Tiranni ma alla Tirannia!
 
 
 
-<span class="atom-split" data-atom="148_original_poetry" data-title="ORIGINAL POETRY." data-chapter="" data-kind="intro" data-tags="concept/liberty,concept/disillusionment,concept/war_and_its_cost,form/ode,histref/the_french_revolution,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="148_original_poetry" data-title="ORIGINAL POETRY." data-chapter="" data-kind="intro"></span>
 
 
 The following excellent Ode will be in unison with the feelings of every  
@@ -695,7 +700,7 @@ copia corretta.
 
 
 
-<span class="atom-split" data-atom="149_argument_1" data-title="ARGUMENT." data-chapter="" data-kind="intro" data-tags="motif/nature,concept/liberty,concept/disillusionment,concept/faith,histref/the_french_revolution,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="149_argument_1" data-title="ARGUMENT." data-chapter="" data-kind="intro"></span>
 
 
 ‘First Stanza. An invocation to those objects in [[concepts/nature|Nature]] the
@@ -783,7 +788,7 @@ Vivere fra i venti e covare sulle onde
 
 
 
-<span class="atom-split" data-atom="176_the_british_striplings_war-song_imitated_from_stolberg" data-title="THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/swords_weapons,motif/childhood,concept/heroism,concept/nationalism_and_patriotism,concept/war_and_its_cost,form/song,form/translation,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="176_the_british_striplings_war-song_imitated_from_stolberg" data-title="THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG" data-chapter="" data-kind="intro"></span>
 
 
 Yes, noble old Warrior! this heart has beat high,  
@@ -851,7 +856,7 @@ e anch'io combatterò come combatterono i miei avi!
 
 
 
-<span class="atom-split" data-atom="352_motto_for_a_transparency" data-title="MOTTO FOR A TRANSPARENCY" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/animals,concept/war_and_its_cost,concept/nationalism_and_patriotism,form/epigram,histref/napoleonic_wars,cluster/nationalism_and_patriotism,cluster/democracy,cluster/liberty_political_freedom"></span>
+<span class="atom-split" data-atom="352_motto_for_a_transparency" data-title="MOTTO FOR A TRANSPARENCY" data-chapter="" data-kind="intro"></span>
 
 
 DESIGNED BY WASHINGTON ALLSTON AND EXHIBITED AT BRISTOL ON ‘PROCLAMATION DAY’ — June 29, 1814.  

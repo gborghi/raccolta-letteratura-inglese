@@ -172,6 +172,15 @@ A. G. PYM.
 
 
 
+
+
+
+
+
+
+
+
+
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/hill,motif/home,motif/moon,motif/night,motif/sleep,motif/time,motif/water,motif/well,motif/wind,character/ariel,character/arthur"></span>
 
 

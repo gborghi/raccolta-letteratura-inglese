@@ -15,6 +15,10 @@ tags:
 
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Una Tragedia fiorentina
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_01" data-title="A Florentine Tragedy — Act 1 [1]" data-chapter="part 01" data-kind="excerpt" data-tags="motif/garden,motif/moon,motif/night,motif/stars,concept/beauty,concept/honour,concept/loneliness,form/fragment,form/tragedy,form/translation,character/bianca,character/diana,character/guido_bardi,character/simone"></span>

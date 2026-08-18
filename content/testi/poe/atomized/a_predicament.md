@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="a_predicament" data-title="A Predicament" data-chapter="" data-kind="intro"></span>
 
-# [[works/a-predicament-(poe)|A Predicament]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

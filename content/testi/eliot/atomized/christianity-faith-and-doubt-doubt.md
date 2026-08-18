@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/christianity-faith-and-doubt-doubt" data-author="Eliot" data-workhref="works/christianity-·-faith-and-doubt-·-doubt-(eliot)"></div>
 
 
-<span class="atom-split" data-atom="025_mr_eliots_sunday_morning_service" data-title="Mr. Eliot’s Sunday Morning Service" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/faith_and_doubt,form/satire,histref/christianity,histref/the_bible,character/christ,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+Mr. Eliot’s Sunday Morning Service · Journey of the Magi · A Song for Simeon · II Thus your fathers were made · III The Word of the lord came unto me, saying · IV There are those who would build the Temple · V O Lord, deliver me from the man of excellent intention and impure heart · VI It is hard for those who have never known persecution · VII In the beginning god created the world · VIII O Father we welcome your words · IX Son of Man, behold with thine eyes, and hear with thine ears · X You have seen the house built, you have seen it adorned · The Death of Saint Narcissus
+
+
+
+
+<span class="atom-split" data-atom="025_mr_eliots_sunday_morning_service" data-title="Mr. Eliot’s Sunday Morning Service" data-chapter="" data-kind="intro"></span>
 
 
 Mr. Eliot’s [[characters/sunday|Sunday]] Morning Service  
@@ -93,7 +98,7 @@ sono controversi, polimati.
 
 
 
-<span class="atom-split" data-atom="043_journey_of_the_magi" data-title="Journey of the Magi" data-chapter="" data-kind="intro" data-tags="topos/the_quest,topos/night_journey,archetype/pilgrim,motif/the_journey,motif/winter,motif/death,motif/the_inn_tavern,motif/horse,motif/the_cross,concept/conversion,concept/faith,concept/paradox,form/dramatic_monologue,histref/the_bible,setting/the_orient,character/christ,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="043_journey_of_the_magi" data-title="Journey of the Magi" data-chapter="" data-kind="intro"></span>
 
 
 [[motifs/journey|Journey]] of the Magi  
@@ -195,7 +200,7 @@ Sarei lieto d’un’altra [[motifs/death|morte]].
 
 
 
-<span class="atom-split" data-atom="044_a_song_for_simeon" data-title="A Song for Simeon" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,archetype/wise_old_man,motif/death,motif/dust,motif/wind,motif/winter,motif/swords_weapons,concept/faith,concept/grace_and_redemption,concept/mortality,concept/martyrdom,form/dramatic_monologue,histref/the_bible,character/christ,character/the_virgin_mary,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="044_a_song_for_simeon" data-title="A Song for Simeon" data-chapter="" data-kind="intro"></span>
 
 
 A [[works/song-(poe)|Song]] for Simeon  
@@ -283,7 +288,7 @@ avendo veduto la tua salvezza.
 
 
 
-<span class="atom-split" data-atom="059_ii_thus_your_fathers_were_made" data-title="II Thus your fathers were made" data-chapter="" data-kind="intro" data-tags="motif/ruins,concept/faith,concept/social_injustice,concept/love_divine,concept/critique_of_progress,form/free_verse,histref/the_bible,character/christ,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="059_ii_thus_your_fathers_were_made" data-title="II Thus your fathers were made" data-chapter="" data-kind="intro"></span>
 
 
 II Thus your fathers were made  
@@ -497,7 +502,7 @@ che il [[motifs/fire|fuoco]] non si spenga nella fucina.
 
 
 
-<span class="atom-split" data-atom="060_iii_the_word_of_the_lord_came_unto_me_saying" data-title="III The Word of the lord came unto me, saying" data-chapter="" data-kind="intro" data-tags="archetype/prophet,motif/fog_and_smoke,concept/faith,concept/critique_of_progress,concept/satire_of_society,concept/spiritual_emptiness,form/free_verse,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="060_iii_the_word_of_the_lord_came_unto_me_saying" data-title="III The Word of the lord came unto me, saying" data-chapter="" data-kind="intro"></span>
 
 
 III The Word of the lord came unto me, saying  
@@ -689,7 +694,7 @@ per essere riempita d’un guazzabuglio di giornali della [[characters/sunday|Do
 
 
 
-<span class="atom-split" data-atom="061_iv_there_are_those_who_would_build_the_temple" data-title="IV There are those who would build the Temple" data-chapter="" data-kind="intro" data-tags="archetype/prophet,motif/ruins,motif/swords_weapons,motif/fire,concept/faith,concept/good_vs_evil,form/free_verse,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="061_iv_there_are_those_who_would_build_the_temple" data-title="IV There are those who would build the Temple" data-chapter="" data-kind="intro"></span>
 
 
 IV There are those who would build the Temple  
@@ -739,7 +744,7 @@ con la spada in una mano e la cazzuola nell’altra.
 
 
 
-<span class="atom-split" data-atom="062_v_o_lord_deliver_me_from_the_man_of_excellent_intention_and_impure_heart" data-title="V O Lord, deliver me from the man of excellent intention and impure heart" data-chapter="" data-kind="intro" data-tags="motif/serpent_snake,motif/silence,concept/humility,concept/conscience,concept/sin_and_the_fall,concept/faith,form/free_verse,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="062_v_o_lord_deliver_me_from_the_man_of_excellent_intention_and_impure_heart" data-title="V O Lord, deliver me from the man of excellent intention and impure heart" data-chapter="" data-kind="intro"></span>
 
 
 V O Lord, deliver me from the man of excellent intention and impure heart  
@@ -813,7 +818,7 @@ Ma siamo circondati da serpi e da cani: perciò alcuni devono faticare, e altri 
 
 
 
-<span class="atom-split" data-atom="063_vi_it_is_hard_for_those_who_have_never_known_persecution" data-title="VI It is hard for those who have never known persecution" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/lion,concept/faith,concept/faith_and_doubt,concept/satire_of_society,concept/sin_and_the_fall,form/free_verse,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="063_vi_it_is_hard_for_those_who_have_never_known_persecution" data-title="VI It is hard for those who have never known persecution" data-chapter="" data-kind="intro"></span>
 
 
 VI It is hard for those who have never known persecution  
@@ -897,7 +902,7 @@ dobbiamo prima costruire il Tempio.
 
 
 
-<span class="atom-split" data-atom="064_vii_in_the_beginning_god_created_the_world" data-title="VII In the beginning god created the world" data-chapter="" data-kind="intro" data-tags="topos/the_ages_of_the_world,motif/light_and_dark,motif/wind,concept/faith,concept/providence,concept/good_vs_evil,form/free_verse,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="064_vii_in_the_beginning_god_created_the_world" data-title="VII In the beginning god created the world" data-chapter="" data-kind="intro"></span>
 
 
 VII In the beginning god created the world  
@@ -1103,7 +1108,7 @@ tutti gli dèi tranne l’Usura, la Lussuria e il Potere.
 
 
 
-<span class="atom-split" data-atom="065_viii_o_father_we_welcome_your_words" data-title="VIII O Father we welcome your words" data-chapter="" data-kind="intro" data-tags="motif/blood,concept/faith,concept/martyrdom,concept/war_and_its_cost,concept/temptation,form/free_verse,histref/the_crusades,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="065_viii_o_father_we_welcome_your_words" data-title="VIII O Father we welcome your words" data-chapter="" data-kind="intro"></span>
 
 
 VIII O Father we welcome your words  
@@ -1213,7 +1218,7 @@ O DIO, aiutaci.
 
 
 
-<span class="atom-split" data-atom="066_ix_son_of_man_behold_with_thine_eyes_and_hear_with_thine_ears" data-title="IX Son of Man, behold with thine eyes, and hear with thine ears" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/horse,concept/faith,concept/the_artist_and_society,concept/joy,concept/pride,form/free_verse,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="066_ix_son_of_man_behold_with_thine_eyes_and_hear_with_thine_ears" data-title="IX Son of Man, behold with thine eyes, and hear with thine ears" data-chapter="" data-kind="intro"></span>
 
 
 IX Son of Man, behold with thine eyes, and hear with thine ears  
@@ -1345,7 +1350,7 @@ il visibile richiamo della Luce Invisibile.
 
 
 
-<span class="atom-split" data-atom="067_x_you_have_seen_the_house_built_you_have_seen_it_adorned" data-title="X You have seen the house built, you have seen it adorned" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/serpent_snake,motif/the_window,concept/faith,concept/good_vs_evil,concept/temptation,form/hymn,form/free_verse,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="067_x_you_have_seen_the_house_built_you_have_seen_it_adorned" data-title="X You have seen the house built, you have seen it adorned" data-chapter="" data-kind="intro"></span>
 
 
 X You have seen the house built, you have seen it adorned  
@@ -1481,7 +1486,7 @@ O Luce Invisibile, Ti rendiamo grazie per la Tua grande gloria!
 
 
 
-<span class="atom-split" data-atom="115_the_death_of_saint_narcissus" data-title="The Death of Saint Narcissus" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/blood,motif/white_and_red,motif/the_sea,concept/martyrdom,concept/pride,concept/self_and_soul,concept/faith,concept/the_waste_land,concept/terror_and_horror,form/free_verse,histref/christianity,character/christ,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
+<span class="atom-split" data-atom="115_the_death_of_saint_narcissus" data-title="The Death of Saint Narcissus" data-chapter="" data-kind="intro"></span>
 
 
 The [[motifs/death|Death]] of Saint Narcissus  

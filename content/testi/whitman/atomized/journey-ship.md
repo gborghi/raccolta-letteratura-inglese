@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/journey-ship" data-author="Whitman" data-workhref="works/journey-·-ship-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="003_in_cabin_d_ships_at_sea" data-title="In Cabin’d Ships at Sea" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_sea,motif/the_journey,motif/the_book,form/free_verse,setting/a_ship,cluster/journey,cluster/ship"></span>
+In Cabin’d Ships at Sea · The Ship Starting · Song of the Open Road · Aboard at a Ship’s Helm · Song for All Seas, All Ships · To Rich Givers · Gliding O’er all · City of Ships · Not the Pilot · An Old Man’s Thought of School · Passage to India · Prayer of Columbus · What Ship Puzzled at Sea · Joy, Shipmate, Joy! · The Untold Want · Now Finale to the Shore · Twenty Years · The Dismantled Ship · After the Supper and Talk · Sail out for Good, Eidolon Yacht! · Old Age’s Ship & Crafty Death’s · A Persian Lesson
+
+
+
+
+<span class="atom-split" data-atom="003_in_cabin_d_ships_at_sea" data-title="In Cabin’d Ships at Sea" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -54,46 +59,9 @@ This song for mariners and all their ships.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: ISCRIZIONI_  
 
 
-Su navi con cabine in mare,  
-l'azzurro sconfinato che da ogni lato si dilata,  
-con venti fischianti e musica delle onde, le grandi onde imperiose,  
-o qualche barca solitaria sospesa sul denso mare,  
-dove gioiosa e piena di [[concepts/faith|fede]], spiegando bianche vele,  
-fende l'etere tra lo scintillio e la spuma del giorno, o sotto  
-molte stelle nella [[motifs/night|notte]],  
-da marinai giovani e vecchi sarò forse letto, io, reminiscenza della terra,  
-in pieno accordo finalmente.  
-
-Qui sono i nostri pensieri, pensieri di naviganti,  
-qui non appare la terra, la terra ferma, soltanto, potranno allora dire,  
-il cielo qui s'inarca sopra, sentiamo sotto i piedi il ponte ondeggiante,  
-sentiamo la lunga pulsazione, flusso e riflusso di moto senza fine,  
-i toni di un mistero invisibile, i vaghi e vasti richiami del  
-mondo salmastro, le sillabe che scorrono liquide,  
-il profumo, il debole cigolio del sartiame, il ritmo [[concepts/melancholy|malinconico]],  
-la vista sconfinata e l'orizzonte lontano e fioco, tutto è qui,  
-e questo è il poema dell'oceano.  
-
-Non vacillare dunque, o libro, compi il tuo destino,  
-tu non reminiscenza della sola terra,  
-tu pure barca solitaria che fende l'etere, diretta non so  
-dove, eppure sempre piena di [[concepts/faith|fede]],  
-compagna d'ogni [[motifs/ship|nave]] che salpa, salpa anche tu!  
-Reca loro ripiegato il mio [[motifs/love|amore]], (cari marinai, per voi lo ripiego  
-qui in ogni foglia;)  
-[[characters/speed|Vola]], mio libro! spiega le tue bianche vele, mia piccola barca, attraverso le  
-onde imperiose,  
-canta, naviga, porta oltre l'azzurro sconfinato da me a ogni mare,  
-questo canto per i marinai e tutte le loro navi.
-
-
-
-<span class="atom-split" data-atom="017_the_ship_starting" data-title="The Ship Starting" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_sea,motif/the_journey,form/free_verse,form/lyric,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="017_the_ship_starting" data-title="The Ship Starting" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -111,20 +79,9 @@ They surround the [[motifs/ship|ship]] with shining curving motions and foam.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: ISCRIZIONI_  
 
 
-Il mare senza confini,  
-sul suo dorso una [[motifs/ship|nave]] si avvia, spiega tutte le vele, anche quelle lunari.  
-La bandiera sventola alta mentre la nave procede con maestosa eleganza;  
-al di sotto, onde gelose la inseguono,  
-circondandola con movimenti sinuosi e schiuma scintillante.
-
-
-
-<span class="atom-split" data-atom="083_song_of_the_open_road" data-title="Song of the Open Road" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,archetype/outcast_wanderer,motif/the_road,motif/the_journey,concept/self_and_soul,concept/comradeship,concept/democracy,form/free_verse,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="083_song_of_the_open_road" data-title="Song of the Open Road" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -489,291 +446,9 @@ Shall we stick by each other as long as we live?
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-1  
-Con passo leggero e spirito libero mi avvio sulla vasta [[motifs/road|strada]],  
-Sano, libero, il mondo intero davanti a me,  
-Il lungo sentiero marrone che conduce ovunque io decida di andare.  
-
-Da ora in poi non chiederò più la fortuna: io stesso sono la fortuna.  
-Da ora in poi non piangerò più, non rimanderò più nulla, non avrò bisogno di nulla.  
-Basta con le lamentele, le biblioteche, le critiche petulanti.
-Forte e soddisfatto, percorrerò la strada aperta.  
-
-La terra, così com'è, è più che sufficiente;  
-non desidero che le costellazioni siano più vicine.
-So che sono perfettamente al loro posto,  
-so che sono sufficienti per coloro a cui appartengono.  
-
-(Sono ancora qui a portare con me questi vecchi e “deliziosi” fardelli;  
-Li porto con me, uomini e donne, ovunque vada;  
-Giuro che è impossibile per me liberarmene.
-Sono pieno di loro, e li riempirò a mia volta.)  
-
-2  
-Mentre percorro questa strada e guardo intorno, credo che non siate tutti quelli che ci sono qui.
-Credo che ci sia molto di ciò che non si vede ancora.  
-
-Ecco la profonda lezione dell’accettazione: né preferenze né rifiuti.  
-Il nero con la sua testa lanosa, il criminale, il malato, l’analfabeta, a nessuno viene negato nulla.  
-La nascita, la corsa verso il medico, i passi incerti del mendicante, le risate del gruppo di operai.
-Il giovane fuggito, la carrozza del ricco, lo sciocco, la coppia che fugge insieme.
-Il mercante mattutino, la bara, il trasloco dei mobili in città, il ritorno dalla città.
-Tutto passa. Anch’io passo. Qualsiasi cosa passi, nulla può essere vietato.  
-Tutti vengono accettati. E tutti saranno cari per me.  
-
-3  
-Tu sei l’aria che mi permette di respirare e parlare;  
-tu sei ciò che dà forma ai miei pensieri attraverso la diffusione del suono;  
-tu sei la luce che avvolge me e tutte le cose con raggi delicati ed equilibrati;  
-tu sei anche quei sentieri formatisi nel terreno irregolare lungo i bordi delle strade.
-Credo che tu nasconda in te esistenze invisibili; sei davvero molto prezioso per me.  
-
-Voi segnate i viali delle città! le solide banchine ai loro bordi!  
-I traghetti, le assi e i pali dei moli, i lati rivestiti di legno, le navi lontane.
-Le file di case, le facciate con finestre aperte, i tetti.
-I portici e gli ingressi, le grondaie e le ringhiere di ferro.
-Le finestre, la cui trasparenza potrebbe rivelare così tanto.
-Le porte, i gradini che salgono, gli archi.
-Le pietre grigie dei marciapiedi interminabili, i passaggi calpestati.
-Da tutto ciò che vi ha toccato, credo che abbiate tratto qualcosa per voi stessi, e ora vorreste condividerlo segretamente anche con me.  
-Dai vivi e dai morti avete popolato le vostre superfici inanimate, e gli spiriti che vi abitano potrebbero diventare evidenti e amichevoli nei miei confronti.  
-
-4  
-La terra si espande da entrambi i lati;  
-L’immagine appare vivida, ogni dettaglio illuminato al meglio;  
-La musica arriva esattamente dove è desiderata e si ferma lì dove non lo è.  
-La voce allegra della folla nelle strade, il sentimento gioioso e fresco che pervade le vie.  
-
-O autostrada su cui viaggio, mi dici forse di non lasciarmi?  
-Mi dici forse di non tentare nulla, se mi lasci, sei perduto?  
-Mi dici forse che sono già pronto, che ho accettato tutto senza proteste.
-E quindi devo rimanere con te?  
-
-Oh, pubblica [[motifs/road|strada]], dico ancora una volta che non ho paura di lasciarti, ma ti [[motifs/love|amo]];  
-tu esprimi meglio ciò che sono io stesso;  
-per me sarai molto di più della mia poesia.  
-
-Penso che le imprese eroiche siano tutte nate all’aperto, così come tutti i poemi liberi. Penso che potrei fermarmi qui e compiere miracoli; penso che qualsiasi cosa incontri lungo la strada ti piacerà, e chiunque mi veda mi amerà. Penso che chiunque mi incontri debba essere felice.  
-
-5  
-Da questo momento mi impongo di liberarmi da ogni limite e barriera immaginaria,  
-di andare dove desidero, di essere il mio unico padrone assoluto,  
-di ascoltare gli altri, di considerare attentamente ciò che dicono,  
-di fermarmi, di riflettere, di accettare, di contemplare.
-Con dolcezza, ma con una volontà inconfutabile, mi libero da tutto ciò  
-che potrebbe trattenermi.  
-
-Inalo grandi boccate di spazio;  
-l’est e l’ovest sono miei, così come il nord e il sud.  
-
-Sono più grande, migliore di quanto pensassi;  
-non sapevo che in me ci fosse così tanta bontà.  
-
-Tutto mi sembra bellissimo;  
-posso ripetere queste parole agli uomini e alle donne.  
-Hai fatto tanto bene per me.
-Anch’io farei lo stesso per te.  
-Mentre cammino, recluterò persone sia per me che per te;  
-mi disperderò tra gli uomini e le donne lungo il mio cammino.  
-Porterò con me una nuova gioia e un nuovo spirito di entusiasmo.
-Chi mi rifiuta non mi disturberà;  
-chi mi accetta sarà benedetto e mi benedirà a sua volta.  
-
-Ora, anche se apparissero mille uomini perfetti, non mi sorprenderebbe;  
-Ora, anche se apparissero mille donne di bell’aspetto, non mi stupirei affatto.  
-
-Ora comprendo il segreto per diventare le migliori persone:  
-è crescere all’aperto e mangiare, e [[motifs/sleep|dormire]] insieme alla terra.  
-
-Qui ha spazio un grande atto personale;  
-un atto del genere conquista i cuori di tutta l’umanità;  
-la sua forza e la sua volontà sovrastano le leggi, deridono qualsiasi autorità e qualsiasi argomentazione contraria ad esso.  
-
-Ecco il test della saggezza:  
-La saggezza non viene veramente messa alla prova nelle scuole;  
-Non può essere trasmessa da chi la possiede a chi non la possiede;  
-È qualcosa che appartiene all’[[motifs/soul|'anima]], non è soggetta a dimostrazioni, ma è essa stessa la propria dimostrazione;  
-Si applica a tutte le fasi, gli oggetti, le qualità e si accontenta di ciò che esiste;  
-È la certezza della realtà e dell’[[concepts/immortality|immortalità]] delle cose, nonché l’eccellenza stessa delle cose;  
-C’è qualcosa, nel semplice osservare le cose, che le fa emergere dall’[[motifs/soul|'anima]].  
-
-Ora riconsidero filosofie e religioni:  
-forse sono efficaci nelle aule di lezione, ma non necessariamente sotto i vasti cieli, lungo i paesaggi e lungo le correnti d’acqua.  
-
-Ecco la realizzazione:  
-Ecco un uomo che, riflettendo, scopre ciò che ha dentro di sé.
-Il passato, il futuro, la maestosità, l’[[motifs/love|amore]]. Se questi concetti sono privi di te, allora anche tu sei privo di loro.  
-
-Solo il nucleo di ogni oggetto è realmente nutriente;  
-Dove si trova colui che, per te e per me, strappa via le bucce?  
-Dove si trova colui che, per te e per me, svela le strategie e i “impacchi” nascosti?  
-
-Ecco la capacità di attirare l’attenzione degli altri: non è qualcosa che si possa creare artificialmente, ma arriva naturalmente quando è necessario;  
-Sai cosa significa essere amati dagli sconosciuti?  
-Conosci quelle persone che ti guardano in modo particolare?  
-
-7  
-Ecco l’efflusso dell’anima.
-L’efflusso dell’anima proviene dall’interno, attraverso porte nascoste;  
-continua a suscitare domande.
-Perché esistono questi desideri? Perché queste pensieri nell’oscurità?  
-Perché ci sono uomini e donne che, pur trovandosi vicino a me, fanno sì che il sole riscaldi il mio sangue?  
-Perché, quando se ne vanno, i simboli della mia gioia perdono ogni vitalità?  
-Perché ci sono alberi sotto cui non cammino mai, eppure grandi pensieri scendono su di me?  
-(Credo che in quegli alberi, durante l’inverno e l’estate, rimangano appesi e continuino a “dare frutto” ogni volta che passo, )  
-Cos’è ciò che scambio improvvisamente con gli sconosciuti?  
-Cos’è ciò che condivido con il conducente mentre viaggio al suo fianco?  
-Cos’è ciò che avviene quando, camminando lungo la riva, osservo un pescatore che tira su le sue reti, e mi fermo a guardare?  
-Che cosa mi rende libero di ricevere il loro affetto, e che cosa li rende liberi di donarmelo?  
-
-8  
-Il flusso dell’[[motifs/soul|'anima]] è la felicità; ecco la felicità.
-Penso che pervada l’aria aperta, pronta in ogni momento.
-Ora scorre verso di noi; siamo davvero colmi di essa.  
-
-Ecco emergere quel carattere fluido e avvincente:  
-il carattere fluido e avvincente rappresenta la freschezza e la dolcezza dell’uomo e della donna;  
-(le erbe del mattino, infatti, non germogliano ogni giorno più fresche e dolci dalle proprie radici di quanto non lo facciano continuamente.)  
-
-Verso quel carattere fluido e affettuoso si sprigiona il sudore dell’[[motifs/love|amore]] di giovani e anziani; da esso deriva un fascino che irride l’[[concepts/beauty|bellezza]] e i successi mondani; verso di esso si eleva il tremante desiderio di contatto.  
-
-9  
-Andiamo! Chiunque tu sia, vieni con me in viaggio!  
-Viaggiando con me troverai qualcosa che non stanca mai.  
-
-La terra non si stanca mai;  
-la terra è ruvida, silenziosa, incomprensibile all’inizio. La [Natura] è anch’essa ruvida e incomprensibile all’inizio.  
-Non scoraggiarti, continua. Ci sono cose divine ben nascoste,  
-te lo giuro: ci sono cose divine più belle di quanto le parole possano descrivere.  
-
-Andiamo! Non dobbiamo fermarci qui;  
-per quanto dolci siano questi tesori nascosti, per quanto comoda sia questa dimora,  
-non possiamo rimanere qui.  
-Per quanto protetta sia questa baia e per quanto calme siano queste acque,  
-non dobbiamo ancorarci qui.  
-Per quanto gradita sia l’ospitalità che ci circonda,  
-è permesso riceverla, ma solo per un breve momento.  
-
-10  
-Andiamo! Le tentazioni saranno ancora maggiori,  
-Voleremo attraverso mari sconosciuti e selvaggi,  
-Andremo dove soffiano i venti, onde si schiantano,  
-E le veliere yankee sfrecceranno a pieno vapore.  
-
-Andiamo! Con potere, libertà, la terra, gli elementi.
-Salute, sfida, gioia, autostima, curiosità.
-Andiamo! Lontano da tutte le formule!  
-Lontano dalle vostre formule, o preti dagli occhi spietati e materialisti.  
-
-Il cadavere in decomposizione blocca il passaggio; la sepoltura non può più attendere.  
-
-Andiamo! Ma state attenti.
-Colui che viaggia con me ha bisogno del miglior [[motifs/blood|sangue]], della forza fisica, della [[concepts/endurance|resistenza]];  
-Nessuno può partecipare alla prova se non possiede coraggio e salute.  
-Non venite qui se avete già speso il meglio di voi stessi.
-Solo coloro che sono in buona forma fisica e mentalmente decisi possono entrare.
-Nessuna persona malata, nessun bevitore di alcolici o colpita da malattie veneree è ammessa qui.  
-
-Io e i miei non convinciamo con argomentazioni, metafore o rime;  
-convinciamo con la nostra presenza.  
-
-11  
-Ascolta! Sarò onesto con te:  
-Non ti offro quelle ricompense liscie e tradizionali, ma qualcosa di nuovo e, “ruvido”.  
-Questi sono i giorni che devono accaderti:  
-Non accumulerai ricchezze; darai via generosamente tutto ciò che guadagnerai o otterrai.  
-Appena arriverai nella [[motifs/city|città]] a cui sei destinato, non avrai nemmeno il tempo di rilassarti che sarai chiamato via da una forza irresistibile.
-Sarai oggetto di sorrisi ironici e derisioni da parte di coloro che rimarranno indietro.  
-A qualsiasi invito dell’[[motifs/love|amore]] risponderai soltanto con baci appassionati d’addio.
-Non permetterai mai a nessuno di afferrarti.  
-
-12  
-Andiamo! Seguiamo quei grandi compagni e unisciamoci a loro!  
-Anche loro sono sulla [[motifs/road|strada]]. Sono uomini veloci e maestosi, donne straordinarie.
-Godono sia delle calme che delle tempeste del mare, navigano su molte navi, percorrono lunghe distanze di terra.
-Hanno vissuto in molti paesi lontani, abitato dimore remote. Hanno fiducia negli uomini e nelle donne, osservano le città, lavorano da soli. Si soffermano ad ammirare i ciuffi d’erba, i fiori, le conchiglie sulla riva. Ballano alle nozze, baciano le spose, aiutano con tenerezza i bambini, li portano in grembo. Sono soldati nelle rivolte, assistono ai funerali, abbassano i coperchi delle bare. Viaggiano attraverso le stagioni, gli anni. Gli anni, uno dopo l’altro, che emergono da quelli precedenti. Viaggiano insieme a se stessi, nelle diverse fasi della loro vita: dall’infanzia ancora inespressa, alla gioventù, all’età adulta barbata e matura, alla donna piena, incomparabile, serena. E infine all’anticaiaia, maestosa, che si estende con l’immensità dell’universo. Un’anticaiaia libera, che si fonde con la deliziosa libertà della morte.  
-
-13  
-Andiamo! Verso ciò che è infinito, così come era senza inizio,  
-Verso molte prove, giorni di fatica e notti di riposo,  
-Per fondere tutto nel viaggio verso cui tendiamo, nei giorni e nelle notti che seguono.
-Di nuovo per unirli all’inizio di nuovi viaggi ancora più grandi,  
-Per non vedere nulla se non ciò che possiamo raggiungere e superare,  
-Per non concepire alcun [[motifs/time|tempo]], per quanto lontano, se non ciò che possiamo raggiungere e superare.
-Per non guardare alcuna [[motifs/road|strada]] se non quella che si estende davanti a noi, per quanto lunga sia.
-Per non vedere alcuna entità, né divina né umana, se non noi stessi che vi andiamo.
-Per non considerare nulla come proprietà nostra, se non ciò che possiamo possedere, godendone tutto senza fatica né acquisto, assaporandone ogni singola parte.
-Per prendere il meglio della fattoria del contadino, della lussuosa villa del ricco, delle benedizioni di una coppia felicemente sposata, dei frutti degli orti e dei fiori dei giardini.
-Per utilizzare tutto ciò che incontriamo lungo il cammino nelle città.
-Per portare con noi edifici e strade ovunque andiamo.
-Per raccogliere i pensieri delle persone, i loro sentimenti.
-Per prendere i nostri amanti con noi in questo viaggio. Poiché tutto ciò che lasciamo alle nostre spalle appartiene anche a loro.
-Per considerare l’universo stesso come una strada, molte strade. Strade per le anime in viaggio verso la verità.  
-
-Tutte le componenti che contribuiscono al progresso delle anime,  
-tutta la religione, tutte le cose concrete, le arti, i governi, tutto ciò che esisteva o esiste  
-su questo pianeta o su qualsiasi altro, finisce per essere relegato in angoli nascosti  
-di fronte al cammino delle anime lungo le grandi vie dell’universo.  
-
-Del progresso delle anime degli uomini e delle donne lungo i grandi sentieri dell’universo, ogni altro tipo di progresso ne rappresenta il simbolo necessario e la sua sostanza fondamentale.  
-
-Per sempre vivi, per sempre avanti.
-Maestosi, solenni, tristi, ritirati, confusi, pazzi, turbolenti, deboli.
-Insoddisfatti. Disperati, orgogliosi, appassionati, malati. Accettati dagli uomini, rifiutati dagli uomini.
-Loro vanno! Loro vanno. So che vanno, ma non so dove vadano.
-So solo che vanno verso il meglio. Verso qualcosa di grande.  
-
-Chiunque tu sia, vieni fuori! Che tu sia uomo o donna, vieni fuori!  
-Non puoi continuare a dormire e indugiare lì dentro la casa, anche se l’hai costruita tu,  
-o anche se è stata costruita per te.  
-
-Fuori dalla oscura prigionia! fuori dietro lo schermo!  
-È inutile protestare; so tutto e lo rivelerò.  
-
-Ecco: attraverso di te, come attraverso gli altri,  
-attraverso le risate, i balli, i pasti, le cene delle persone,  
-dietro quegli abiti e quei ornamenti, dietro quei volti lavati e curatissimi,  
-esiste un odio segreto, silenzioso, e [[concepts/despair|disperazione]].  
-
-Nessun marito, nessuna moglie, nessun amico disposto ad ascoltare la sua confessione;  
-Un altro [[concepts/self|io]], una copia di tutti quanti, si aggira furtivamente e nasconde tutto ciò che è.
-Senza forma, senza parole, per le strade delle città; educato e indifferente nei salotti.
-Nei vagoni ferroviari, sulle navi a vapore, nelle assemblee pubbliche.
-Nelle case degli uomini e delle donne, ai tavoli, nelle camere da letto, ovunque.
-Abbigliato con cura, con un sorriso sul volto, con un portamento eretto. Ma sotto le costole c’è la [[motifs/death|morte]], e sotto il cranio l’inferno.
-Sotto i vestiti eleganti e i guanti, sotto i nastri e i fiori artificiali.
-Mantenendo le apparenze, senza pronunciare una parola su di sé stesso. Parlando sempre di qualcos’altro, mai di se stesso.  
-
-14  
-Andiamo! attraverso lotte e guerre!  
-L’obiettivo che è stato fissato non può essere annullato.  
-
-Hanno avuto successo le lotte del passato?  
-Cosa è realmente riuscito a ottenere: te stesso, la tua nazione, la [[concepts/nature|Natura]]?  
-Ora capiscimi bene: nell’essenza stessa delle cose c’è il fatto che, da qualsiasi realizzazione del successo, qualcosa emergerà inevitabilmente, rendendo necessaria una lotta ancora più grande.  
-
-Il mio appello è un appello alla battaglia; nutro una ribellione attiva.  
-Chi viene con me deve essere ben armato; chi viene con me affronta spesso privazioni, povertà e nemici furiosi, oltre a tradimenti.  
-
-15  
-Andiamo! La [[motifs/road|strada]] è davanti a noi!  
-È sicura, l’ho provata personalmente, i miei piedi l’hanno percorsa senza problemi. Non indugiare!  
-Lascia che il foglio resti sul tavolo, ancora non scritto, e il libro sugli scaffali, ancora chiuso.  
-Lascia che gli attrezzi rimangano nel laboratorio, che i soldi non vengano guadagnati.
-Lascia che la scuola continui a esistere. Non ascoltare le lamentele dell’insegnante.
-Lascia che il predicatore continui a predicare dal suo pulpito, che l’avvocato continui a difendere in tribunale, e che il giudice continui a applicare la legge.  
-
-Amico mio, ti do la mia mano!  
-Ti do il mio [[motifs/love|amore]], più prezioso del denaro,  
-Ti do me stesso, prima di qualsiasi predica o legge;  
-Mi darai anche tu te stesso? Verrai con me in questo viaggio?  
-Resteremo insieme per tutta la vita?
 
 
-
-<span class="atom-split" data-atom="106_aboard_at_a_ship_s_helm" data-title="Aboard at a Ship’s Helm" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/the_journey,motif/bells,concept/self_and_soul,form/free_verse,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="106_aboard_at_a_ship_s_helm" data-title="Aboard at a Ship’s Helm" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -801,32 +476,9 @@ But O the [[motifs/ship|ship]], the immortal [[motifs/ship|ship]]! O [[motifs/sh
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-A bordo, al timone di una [[motifs/ship|Nave]].
-
-_Cluster: SEA-DRIFT_  
 
 
-Al timone di una [[motifs/ship|nave]],  
-un giovane timoniere la guidava con cura.  
-
-Attraverso la nebbia, sulla riva del mare, risuona tristemente  
-una campana dell’oceano. O forse una campana d’allarme, scossa dalle onde.  
-
-O davvero dai un ottimo avviso: il tuo suono risuona lungo le scogliere marine,  
-Risuona, risuona, per avvertire le [[motifs/ship|navi]] di evitare i luoghi pericolosi.  
-
-Poiché tu, o timoniere, sei sempre all’erta e presti attenzione a quegli avvertimenti,  
-le prue si girano, la carica pesante della [[motifs/ship|nave]] cambia rotta e si allontana velocemente sotto le sue vele grigie;  
-la bella e nobile [[motifs/ship|nave]], con tutto il suo prezioso carico, prosegue felice e al sicuro.  
-
-Ma oh, quella [[motifs/ship|nave]], quell’immortale [[motifs/ship|nave]]! Oh, quella [[motifs/ship|nave]] a bordo della [[motifs/ship|nave]].
-La [[motifs/ship|nave]] del [[concepts/body|corpo]], la [[motifs/ship|nave]] dell’[[motifs/soul|'anima]], che viaggia, che viaggia, che viaggia.
-
-
-
-<span class="atom-split" data-atom="110_song_for_all_seas_all_ships" data-title="Song for All Seas, All Ships" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/heroism,concept/comradeship,concept/immortality,form/free_verse,form/song,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="110_song_for_all_seas_all_ships" data-title="Song for All Seas, All Ships" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SEA-DRIFT_  
@@ -870,42 +522,9 @@ All seas, all ships.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: SEA-DRIFT_  
 
 
-1  
-Oggi un breve e semplice canto,  
-Di navi che navigano sui mari, ognuna con la propria [[motifs/flag|bandiera]] o il proprio segnale distintivo,  
-Di eroi sconosciuti a bordo di quelle navi. Di onde che si estendono per chilometri,  
-Di schizzi d’acqua e di venti che soffiano forte,  
-E da tutto ciò nasce un inno dedicato ai marinai di tutte le nazioni,  
-Irregolare, come il movimento delle onde.  
-
-Di capitani di mare giovani o anziani, dei loro compagni d’equipaggio e di tutti quegli audaci marinai,  
-di quei pochi, davvero selezionati, taciturni, che il destino non può mai sorprendere né la [[motifs/death|morte]] spaventare.
-Scelti con cura, senza rumore, da te, oceano antico; scelti da te, tu che selezioni e valorizzi le migliori qualità nel corso del tempo, tu che unisci le nazioni.
-Allattati da te, vecchio e possente “nutrice” degli oceani, tu stesso incarnato in loro. Indomabili, selvaggi come te.  
-
-Sempre gli eroi, sia sull’[[motifs/water|acqua]] che sulla terra, appaiono uno o due alla volta;  
-Sempre la razza viene conservata e mai perduta, anche se rara, abbastanza da garantire la continuità della discendenza.  
-
-2  
-Mostrate pure le vostre bandiere nazionali!  
-Mostrate chiaramente, come sempre, i vari segnali utilizzati sulle navi!  
-Ma riservate forse per voi stessi e per l’anima dell’uomo  
-una bandiera speciale tra tutte le altre.
-Un simbolo spirituale che rappresenti tutte le nazioni,  
-l’emblema dell’uomo vittorioso sulla morte,  
-un segno di coraggio per tutti i capitani e i marinai intrepidi.
-E per coloro che hanno dato la vita nel compiere il loro dovere.
-Un vessillo universale, che ondeggia silenziosamente in ogni momento,  
-sopra tutti i marinai valorosi, su tutti i mari, su tutte le navi.
-
-
-
-<span class="atom-split" data-atom="124_to_rich_givers" data-title="To Rich Givers" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,topos/poet_as_prophet,motif/money_gold,concept/the_artist_and_society,concept/the_self,form/free_verse,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="124_to_rich_givers" data-title="To Rich Givers" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -924,16 +543,6 @@ the universe.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_  
-
-
-Quello che mi date lo accetto con gioia:  
-un po’ di cibo, una capanna e un [[motifs/garden|giardino]], un po’ di denaro. Mentre incontro i miei poemi,  
-un alloggio e la colazione per un viaggiatore durante il suo [[motifs/journey|viaggio]] attraverso gli Stati. Perché dovrei vergognarmi di possedere tali doni? Perché dovrei farne pubblicità?  
-Perché io stesso non sono colui che non dona nulla agli uomini e alle donne. Io dono a ogni uomo e donna l’accesso a tutti i doni dell’universo.
 
 
 
@@ -954,20 +563,9 @@ The voyage of the [[motifs/soul|soul]]--not life alone,
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_
 
 
-Planando su tutto, attraverso tutto,  
-attraverso la [[concepts/nature|Natura]], il [[motifs/time|Tempo]] e lo [[motifs/ship|Spazio]],  
-come una [[motifs/ship|nave]] che avanza sulle acque,  
-il viaggio dell’[[motifs/soul|'anima]], non solo la vita;  
-parlerò anche della [[motifs/death|Morte]], di molte morti.
-
-
-
-<span class="atom-split" data-atom="149_city_of_ships" data-title="City of Ships" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/a_ship,motif/the_sea,concept/war_and_its_cost,concept/nationalism_and_patriotism,setting/manhattan,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="149_city_of_ships" data-title="City of Ships" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -997,33 +595,9 @@ War, red war is my song through your streets, O [[motifs/city|city]]!
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-[[motifs/city|Città]] di navi!
-(Oh le navi nere! Oh le navi feroci!
-Oh i bei piroscafi e velieri dalla prua aguzza!)
-[[motifs/city|Città]] del mondo! (ché tutte le stirpi son qui,
-tutte le terre della terra qui recano il loro tributo;)
-[[motifs/city|Città]] del mare! [[motifs/city|città]] di maree frettolose e scintillanti!
-[[motifs/city|Città]] le cui maree festose di continuo irrompono o si ritraggono, turbinando dentro e
-fuori con gorghi e spuma!
-[[motifs/city|Città]] di moli e magazzini--[[motifs/city|città]] di alte facciate di marmo e ferro!
-Superba e appassionata [[motifs/city|città]]--focosa, folle, stravagante [[motifs/city|città]]!
-[[motifs/spring|Balza]] su, o [[motifs/city|città]]--non per la pace soltanto, ma sii davvero te stessa, guerriera!
-Non [[concepts/fear|temere]]--non sottometterti ad altro modello che al tuo, o [[motifs/city|città]]!
-Guardami--incarnami come io ti ho incarnata!
-Nulla ho respinto di quanto mi offristi--chi tu adottasti io ho adottato,
-buono o cattivo mai t'interrogo--tutto [[motifs/love|amo]]--nulla condanno,
-canto e celebro tutto ciò che è tuo--ma pace non più,
-in pace cantai la pace, ma ora il tamburo di guerra è mio,
-guerra, rossa guerra è il mio canto per le tue strade, o [[motifs/city|città]]!
-
-
-
-<span class="atom-split" data-atom="160_not_the_pilot" data-title="Not the Pilot" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,topos/immortality_through_verse,motif/a_ship,motif/the_journey,concept/nationalism_and_patriotism,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="160_not_the_pilot" data-title="Not the Pilot" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -1043,16 +617,9 @@ For a battle-call, rousing to arms if need be, years, centuries hence.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Né il pilota si è impegnato con tutte le sue forze per far sbarcare la sua [[motifs/ship|nave]] in porto, nonostante sia stato respinto molte volte e abbia incontrato innumerevoli difficoltà; né il viaggiatore che penetra nell’entroterra, attraverso deserti aridi, nevi gelide e fiumi pieni d’acqua, continua la sua strada fino a raggiungere la destinazione. Più di quanto io abbia mai impegnato me stesso, sia che le mie azioni siano state ascoltate o ignorate, nel comporre un piano per questi Stati, nel lanciare un appello alle armi se necessario, anche tra anni o secoli.
-
-
-
-<span class="atom-split" data-atom="223_an_old_man_s_thought_of_school" data-title="An Old Man’s Thought of School" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/dawn,concept/education,concept/childhood_and_growth,concept/self_and_soul,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="223_an_old_man_s_thought_of_school" data-title="An Old Man’s Thought of School" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/autumn|AUTUMN]] RIVULETS_
@@ -1091,39 +658,9 @@ To girlhood, boyhood look, the teacher and the school.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
-
-Per l’inaugurazione di una scuola pubblica, Camden, New Jersey, 1874
-
-I pensieri di un vecchio sulla scuola,  
-i ricordi d’infanzia che il vecchio raccoglie, insieme a fiori che la stessa giovinezza non può più possedere.
-
-Ora solo ora ti conosco,  
-Oh bei cieli aurorali, oh rugiada mattutina sull’erba!
-
-E questi occhi scintillanti che vedo,  
-questi tesori di significati mistici, queste giovani vite.
-Si stanno preparando, si stanno equipaggiando come una flotta di navi, navi immortali,  
-che presto salperanno attraverso i mari infiniti,  
-nella traversata dell’[[motifs/soul|'anima]].
-
-Solo molti ragazzi e ragazze?  
-Solo noiose lezioni di ortografia, scrittura e crittografia?  
-Solo una scuola pubblica?
-
-Ah, molto di più, infinitamente di più.  
-(Proprio come George Fox gridò il suo monito: “È davvero questa pila di mattoni e malta, questi pavimenti morti, queste finestre, queste ringhiere ciò che chiamate chiesa? Perché questa non è affatto una chiesa. La chiesa sono le anime viventi, sempre vive.”)
-
-E tu, [[settings/america|America]],  
-non sei ancora stato messo di fronte alle vere conseguenze del tuo presente?  
-Le luci e le ombre del tuo futuro, bene o male?  
-Rifletti su quegli anni dell’infanzia, dell’adolescenza, sull’insegnante, sulla scuola.
 
 
-
-<span class="atom-split" data-atom="230_passage_to_india" data-title="Passage to India" data-chapter="" data-kind="intro" data-tags="topos/the_quest,topos/poet_as_prophet,motif/the_journey,motif/the_sea,concept/the_soul_journey,concept/faith,concept/critique_of_progress,form/ode,histref/eastern_religion,histref/the_industrial_revolution,setting/the_orient,character/columbus,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="230_passage_to_india" data-title="Passage to India" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -1459,300 +996,9 @@ O farther, farther, farther sail!
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-1  
-Cantando i giorni della mia vita,  
-Cantando le grandi imprese del presente,  
-Cantando gli straordinari risultati degli ingegneri,  
-I nostri meravigli moderni – che persino l’antico e maestoso Canale di Suez sembra superare.
-Nel Vecchio Mondo, il canale di Suez nel Oriente;  
-Nel Nuovo Mondo, le vaste ferrovie che lo attraversano;  
-I mari collegati da reti elettriche silenziose ma efficaci.
-Tuttavia, prima di ogni cosa, è sempre la voce del Passato a risuonare, o [[motifs/soul|'anima]] mia.
-Il Passato! Il Passato! Il Passato!  
-
-Il Passato, quella oscura e insondabile rievocazione!  
-Quel abisso pieno di dormienti e ombre.
-Il Passato, quell’infinita [[concepts/greatness|grandezza]] del passato!  
-Perché, in fondo, il Presente non è forse che una conseguenza del Passato?  
-(Proprio come un proiettile, formato e lanciato, continua la sua corsa oltre una certa linea.
-Così anche il Presente, completamente formato, viene spinto dal Passato.)  
-
-2  
-Passeggia, o [[motifs/soul|'anima]], verso l’India!  
-Spiega i miti asiatici, quelle favole primitive.  
-
-Né tu, singolo, con le verità orgogliose del mondo,  
-né tu, singolo, con i fatti della scienza moderna;  
-ma i miti e le favole dell’antichità, le leggende dell’Asia e dell’Africa,  
-i raggi lontani dello spirito, i sogni inesplorati,  
-le bibbie e le leggende profonde,  
-le audaci invenzioni dei poeti, le religioni antiche.
-O templi più belli dei gigli illuminati dal sole nascente!  
-O favole che sfidano ciò che è conosciuto, che eludono la presa della conoscenza,  
-che si elevano verso il cielo.
-Voi torri alte e abbaglianti, coronate di fiori rossi come rose, lucide d’oro!  
-Torri di favole, create dall’immortalità dei sogni umani.
-Anche voi sono benvenuti, proprio come tutti gli altri!  
-Anche di voi canto con gioia.  
-
-Viaggio verso l’India!  
-O [[motifs/soul|'anima]], non vedi forse il disegno di Dio fin dall’inizio?  
-La terra deve essere unita in un’unica rete,  
-Le razze devono sposarsi tra loro,  
-Gli oceani devono essere attraversati per avvicinare ciò che è lontano,  
-Tutti i territori devono essere fusi insieme.  
-
-Un nuovo modo di adorare canto io,  
-Voi capitani, viaggiatori, esploratori, è vostro,  
-Voi ingegneri, architetti, meccanici, è vostro,  
-Voi, non solo per il commercio o il trasporto,  
-Ma nel nome di Dio, e per amor vostro, o [[motifs/soul|'anima]] mia.  
-
-3  
-Passaggio per l’India!  
-Lo [[motifs/soul|'anima]] tua è rappresentata da due scene:  
-In una vedo il canale di Suez aperto e inaugurato;  
-Vedo la processione delle navi a vapore, con l’Imperatrice Engenie in testa;  
-Dalla coperta noto quel paesaggio strano, quel cielo limpido, quella sabbia piatta in lontananza.
-Supero rapidamente quei gruppi pittoreschi, quegli operai radunati, quelle gigantesche macchine per lo dragaggio.  
-
-Ancora una volta, diverso, (ma tutto tuo, o [[motifs/soul|'anima]] mia, ugualmente tuo, )  
-Vedo sul mio stesso continente la ferrovia transpacifica che supera ogni ostacolo;  
-vedo treni ininterrotti che si snodano lungo il fiume Platte, trasportando merci e passeggeri;  
-ascolto il rumore delle locomotive, il loro ruggito, il suono stridulo dei fischietti a vapore;  
-le eco di tutto ciò risuonano tra i paesaggi più maestosi del mondo.
-Attraverso le pianure di Laramie, noto le rocce dalle forme grottesche, i rilievi scoscesi;  
-vedo i fiori di larkspur e le cipolle selvatiche, i deserti aridi e privi di colore.
-Lontano, o immediatamente sopra di me, si ergono le grandi montagne; vedo il fiume Wind, le montagne Wahsatch, la montagna Monument e Eagle’s Nest; supero il Promontory, risalgo le catene montuose delle Nevadas.
-Esamino la maestosa montagna Elk e i suoi versanti tortuosi; vedo la catena montuosa Humboldt, attraverso la valle e oltre il fiume.
-Vedo le acque limpide del lago Tahoe, le foreste di pini imponenti.
-Oppure, attraversando il grande deserto, le pianure alcaline, scorgo miraggi incantevoli di acque e praterie.
-Tutto ciò, insieme alle migliaia di chilometri di strade che collegano l’Oceano Orientale a quello Occidentale.
-La [[motifs/road|strada]] tra Europa e Asia.  
-
-(Ah, Genovese, il tuo sogno! Il tuo sogno!  
-Centinaia di anni dopo che sarai sepolto nella tua [[motifs/grave|tomba]],  
-la riva che hai scoperto confermerà il tuo sogno.)  
-
-4  
-Passaggio per l’India!  
-Lottate di molti capitani, storie di molti marinai morti.
-Queste immagini invadono il mio spirito, si diffondono intorno a me,  
-Come nuvole e piccole nuvole nel cielo inaccessibile.  
-
-Nel corso di tutta la [[concepts/history|storia]], lungo le pendici.
-Come un ruscello che scorre, a volte scomparendo sotto la superficie, a volte riemergendo.
-Un flusso incessante di pensieri, una sequenza varia e continua. Ecco, [[motifs/soul|'anima]]: davanti ai tuoi occhi, essa si manifesta.
-I piani, i viaggi, le spedizioni. Di nuovo Vasco de Gama parte in mare; di nuovo si acquisiscono conoscenze, si inventano strumenti utili per la navigazione. Si scoprono nuove terre, nascono nuove nazioni. Tu, [[settings/america|America]], sei nata. Per uno scopo immenso, l’uomo compie il suo lungo percorso di crescita. E infine, tu completi l’intera vastità del mondo.  
-
-5  
-O vaste distese, che si estendono nello spazio,  
-coperte interamente da potenza e [[concepts/beauty|bellezza]] visibili,  
-con l’alternanza di luce e giorno, e dell’oscurità spirituale che le popola,  
-incommensurabili processioni di sole, [[motifs/moon|luna]] e innumerevoli [[motifs/stars|stelle]] sopra di voi,  
-sotto di voi, la varietà di erbe, acque, [[motifs/animals|animali]], montagne, alberi.
-Con uno scopo inscruttabile, forse un’intenzione profetica nascosta.
-Ora finalmente sembra che il mio pensiero inizi a comprendervi.  
-
-Dai giardini dell’Asia, discendendo in cerchi radianti,  
-appaiono Adamo ed Eva, e poi la loro miriade di discendenti;  
-vagano, anelano, sono curiosi, con esplorazioni incessanti;  
-pone domande, si sentono confusi, privi di forma, febbrili, con cuori mai soddisfatti;  
-e sempre risuona quella triste domanda: “Perché l’anima non è mai appagata?”,  
-e, verso dove, o vita beffarda?  
-
-Ah, chi potrà consolare questi bambini febbricitanti?  
-Chi potrà giustificare queste esplorazioni inquiete?  
-Chi conosce il segreto di questa terra indifferente?  
-Come possiamo legarla a noi. Che cos’è questa [[concepts/nature|Natura]] così distante eppure così “antinaturale”?  
-Che significato ha questa terra per i nostri sentimenti? (Una terra senza vita, priva di un battito che risponda ai nostri desideri.
-Una terra fredda, il luogo delle tombe.)  
-
-Tuttavia, che l’[[motifs/soul|'anima]] sia certa che la prima intenzione rimanga e verrà realizzata; forse proprio ora è arrivato il momento giusto.  
-
-Dopo che tutti i mari saranno stati attraversati (poiché sembra già che lo siano stati),  
-dopo che i grandi capitani e ingegneri avranno compiuto il loro lavoro,  
-dopo che gli nobili inventori, gli scienziati, il chimico, il geologo, l’etnologo avranno terminato le loro ricerche,  
-infine arriverà il poeta degno di quel nome,  
-il vero figlio di Dio, che verrà cantando le sue canzoni.  
-
-Allora non solo le vostre azioni, o viaggiatori, o scienziati e inventori, saranno giustificate;  
-tutti questi cuori, come quelli di bambini angosciati, saranno placati;  
-ogni affetto riceverà una risposta piena; i segreti verranno rivelati;  
-tutte queste separazioni e distanze saranno colmate e unite tra loro;  
-tutta la terra, questa fredda, indifferente, silenziosa terra, sarà completamente giustificata;  
-la divina Trinità verrà gloriosamente realizzata e unificata dal vero figlio di Dio, il poeta.
-(Lui davvero supererà le difficoltà e conquisterà le montagne; egli raddoppierà il Capo della Buona Speranza per uno scopo preciso, )  
-La Natura e l’Uomo non saranno più separati o dispersi: il vero figlio di Dio li unirà definitivamente.  
-
-6  
-Anno davanti al cui portale si apre tutto il mondo!  
-Anno in cui un grande scopo è stato realizzato!  
-Anno in cui continenti, climi e oceani si sono uniti!  
-(Né più soltanto un doge di [[settings/venice|Venezia]] che sposa l’Adriatico, )  
-Oh anno, vedo in te il vasto globo terrestre che dona e riceve tutto:  
-Europa unita ad Asia, Africa unite a loro, e tutte insieme al Nuovo Mondo.
-Le terre, le geografie, danzano davanti a te, indossando ghirlande di festa,  
-Come spose e sposi tenendosi per mano.  
-
-Viaggio in India!  
-Aree fresche provenienti dal lontano Caucaso, la culla tranquilla dell’umanità;  
-Il fiume Eufrate scorre, e il passato ritorna a brillare.  
-
-Lo [[motifs/soul|'anima]], ripensando al passato,  
-quei luoghi antichi, i più popolosi e ricchi della terra,  
-i fiumi Indo e Gange e i loro numerosi affluenti.
-(Oggi cammino lungo le coste dell’[[settings/america|America]] e tutto ritorna davanti ai miei occhi, )  
-La storia di Alessandro, morto improvvisamente durante le sue guerre;  
-da un lato la Cina, dall’altro la Persia e l’Arabia;  
-a sud i grandi mari e la baia del Bengala.
-Le letterature che si sono sviluppate in quei luoghi, gli epici immensi, le religioni, le caste.
-Il vecchio Brahma, il tenero e giovane Buddha.
-Gli imperi centrali e meridionali e tutto ciò che apparteneva loro.
-Le guerre di Tamerlano, il regno di Aurangzebe.
-I commercianti, i governanti, gli esploratori. Musulmani, Veneziani, Bizantini, Arabi, Portoghesi.
-I primi viaggiatori famosi: Marco Polo, il moro Batutà.
-Dubbie da risolvere, mappe ancora sconosciute, spazi vuoti da riempire.
-Il passo dell’uomo incessante, le mani mai ferme.
-Tu stesso, o [[motifs/soul|anima]] che non accetti alcuna sfida.  
-
-I navigatori medievali si ergono davanti a me;  
-il mondo del 1492, con il suo spirito di avventura appena risvegliato;  
-qualcosa che nella umanità sta crescendo, come la linfa della terra in primavera.
-Lo splendore al tramonto della cavalleria, che svanisce.  
-
-E chi sei tu, o ombra triste?  
-Gigantesco, visionario, tu stesso un visionario,  
-Con membra maestose e occhi pieni di luce devota,  
-Che con ogni tuo sguardo diffondi un mondo d’oro,  
-Arricchendolo di colori splendidi.  
-
-Come principale attore teatrale,  
-scende fino ai piedi del palco per interpretare una grande scena;  
-dominando tutti gli altri, vedo il Capitano in persona:  
-un esempio di [[concepts/history|storia]] piena di [[concepts/courage|coraggio]], azione e [[concepts/faith|fede]].  
-Ecco che parte da Palos alla guida della sua piccola flotta;  
-ecco il suo viaggio, il suo ritorno, la sua grande fama.
-Ma poi arrivano le sfortune: calunnie, prigionia, catene.
-Ecco la sua disperazione, la [[concepts/poverty|povertà]], la [[motifs/death|morte]].  
-
-(Curioso nel corso del tempo, osservo gli sforzi degli eroi;  
-È lungo l’attesa? Amara la calunnia, la povertà, la morte?  
-Il seme giace ignorato per secoli nella terra. Ma al momento giusto,  
-Nella notte, germoglia, fiorisce,  
-E riempie la terra di utilità e bellezza.)  
-
-7  
-Un vero passaggio, o [[motifs/soul|'anima]], verso il pensiero primordiale;  
-Non solo terre e mari, ma la tua stessa freschezza pura;  
-La giovane maturità dei germogli e dei fiori.
-Verso regni di bibbie in via di formarsi.  
-
-O [[motifs/soul|'anima]], inarrestabile nel tuo corso,  
-io con te e tu con me.
-Inizia la tua circumnavigazione del mondo,  
-il viaggio dell’uomo verso il ritorno della sua mente,  
-verso il paradiso primordiale della ragione,  
-indietro, ancora indietro, alla nascita della saggezza,  
-alle intuizioni [[archetypes/innocent|innocenti]],  
-di nuovo, in armonia con la bella creazione.  
-
-8  
-O non possiamo più aspettare,  
-Anche noi prendiamo la [[motifs/ship|navica]] della nostra [[motifs/soul|'anima]],  
-Elieti, ci lanciamo verso mari senza confini,  
-Senza paura delle sponde sconosciute, navigando tra onde di estasi,  
-Tra i venti che soffiano, (tu mi stringi a te, io ti stringo a me, o [[motifs/soul|'anima]], )  
-Cantiamo liberamente, intonando la nostra canta di Dio,  
-Elevando il nostro inno alla scoperta e alla gioia.  
-
-Con risate e molti baci,  
-(Che gli altri disprezzino, che piangano per i peccati, il rimorso, l’umiliazione, )  
-Oh [[motifs/soul|'anima]], tu mi compiaci, io ti compiaccio.  
-
-Ah, più di qualsiasi prete, anche noi, o [[motifs/soul|'anima]], crediamo in Dio,  
-ma con il mistero di Dio non osiamo indugiare.  
-
-O [[motifs/soul|'anima]], se mi compiaci, io ti seguirò:  
-Navigando su questi mari, o salendo sulle colline, o svegliandomi nella [[motifs/night|notte]],  
-I miei pensieri – silenziosi pensieri sull’[[motifs/time|Tempo]], lo Spazio e la [[motifs/death|Morte]] – scorrono come acque che fluiscono;  
-Conducimi davvero attraverso regioni infinite,  
-Dove respiro il tuo stesso aria, dove ascolto le tue stesse onde che mi accarezzano;  
-Bagnami, o Dio, nella tua essenza; io e la mia [[motifs/soul|anima]] desideriamo raggiungere i confini della tua potenza.  
-
-O Tu che sei trascendente,  
-Innomato, che costitui la fibra stessa della vita e il respiro,  
-Luce della luce, che genera universi interi. Tu, loro centro.
-Tu, ancora più potente, centro di ciò che è vero, buono, amorevole.
-Tu, fonte morale e spirituale, sorgente dell’affetto, riserva inesauribile di vita.
-(O anima mia pensierosa, oh sete insaziabile, non attendi forse lì qualcuno che possa completarti?)  
-Tu, pulsazione vitale, motore delle [[motifs/stars|stelle]], dei soli, dei sistemi celesti.
-Che, ruotando in armonia e ordine, attraversano le vastità informi dello spazio.
-Come potrei pensare, respirare, parlare, se non potessi inviare da me stesso messaggi a quegli universi superiori?  
-
-Rapidamente mi ritraggo al pensiero di Dio,  
-della [[concepts/nature|Natura]] e delle sue meraviglie, del [[motifs/time|Tempo]], dello [[motifs/death|Spazio]] e della [[motifs/soul|Morte]];  
-ma quando mi volto verso di te, o [[motifs/time|'anima]], tu che sei il vero Me,  
-vedo che tu domini con dolcezza tutti questi elementi:  
-domini il [[motifs/death|Tempo]], sorridi serenamente alla Morte  
-e riempi, ampli i vasti spazi dello Spazio.  
-
-Più grandi delle [[motifs/stars|stelle]] o dei soli,  
-tu, o [[motifs/soul|'anima]], intraprendi il tuo viaggio;  
-quale [[motifs/love|amore]], se non il tuo e il nostro, potrebbe essere ancora più grande?  
-Quali aspirazioni, quali desideri potrebbero superare i tuoi e i nostri, o [[motifs/soul|'anima]]?  
-Quali sogni di perfezione, di purezza, di forza?  
-Quale gioiosa disponibilità a rinunciare a tutto per gli altri?  
-A soffrire per gli altri?  
-
-[[motifs/soul|Anima]], pensa con anticipazione a quel momento in cui, giunto al termine del tuo viaggio, avrai attraversato tutti i mari, superato tutte le difficoltà; circondato e protetto da Dio, avrai raggiunto il tuo scopo. Allora, pieno di [[concepts/friendship|amicizia]] e di un amore completo, troverai il tuo Fratello Maggiore. E il più giovane si scioglierà in lacrime di gioia tra le sue braccia.  
-
-9  
-Un viaggio che va oltre l’India.
-Hai davvero le ali pronte per tali lunghe voli?  
-O [[motifs/soul|'anima]], intraprendi davvero viaggi del genere?  
-Ti diverti forse su acque del genere?  
-Risuoni forse più profondamente del sanscrito e delle Vedi?  
-Allora, lascia che il tuo potenziale si liberi completamente.  
-
-Passaggio verso di voi, verso le vostre rive, o antichi e terribili enigmi!  
-Passaggio verso di voi, verso il dominio che esercitate, o problemi insidiosi e mortali!  
-Voi, coperti dai resti di scheletri che, in vita, non riuscirono mai ad arrivare fino a voi.  
-
-Passaggio verso luoghi ben oltre l’India.
-O segreto della terra e del cielo.
-A voi, o acque del mare, o ruscelli e fiumi sinuosi.
-A voi, o foreste e campi, o forti [[settings/mountains|montagne]] della mia terra.
-A voi, o praterie, o rocce grigie.
-O rosso dell’alba, o nuvole, o pioggia e neve.
-O giorno e [[motifs/night|notte]], passaggio verso di voi!  
 
 
-O sole, o luna e tutte le vostre stelle! Sirio e Giove.
-Un passaggio vi viene offerto!  
-
-“Passaggio immediato! Il [[motifs/blood|sangue]] brucia nelle mie vene. Via, o [[motifs/soul|'anima]] mia! Alziamo l’ancora subito!”  
-
-Tagliate i cavi di ormeggio, tirate fuori tutte le vele!  
-Non siamo forse stati qui, immobili come alberi piantati nel terreno, per abbastanza tempo?  
-Non abbiamo forse strisciato qui, mangiando e bevendo come semplici bestie, per abbastanza tempo?  
-Non ci siamo forse accecati e storditi con i libri, per abbastanza tempo?  
-
-Partite dunque, dirigetevi soltanto verso le acque profonde,  
-O imprudente [[motifs/soul|'anima]], esplorando insieme, io con te e tu con me,  
-Poiché siamo destinati a luoghi dove nessun navigatore ha mai osato andare,  
-E rischieremo la [[motifs/ship|nave]], noi stessi e tutto ciò che abbiamo.  
-
-Oh mia nobile e coraggiosa [[motifs/soul|'anima]]!  
-Oh, navigare sempre più lontano.
-Oh gioia audace, ma sicura. Non sono forse tutti questi mari i “marini” di Dio?  
-Oh, navigare ancora, sempre più lontano.
-
-
-
-<span class="atom-split" data-atom="231_prayer_of_columbus" data-title="Prayer of Columbus" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,concept/faith,concept/faith_and_doubt,concept/mortality,concept/providence,form/dramatic_monologue,setting/the_sea,character/columbus,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="231_prayer_of_columbus" data-title="Prayer of Columbus" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -1840,87 +1086,9 @@ And anthems in new tongues I hear saluting me.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un vecchio distrutto, devastato,  
-gettato su questa spiaggia selvaggia, lontano, molto lontano da [[motifs/home|casa]],  
-intrappolato tra il mare e sopracciglia scure e ribelli, dodici mesi tristi e solitari;  
-dolorante, rigido per tanti lavori faticosi, malato, quasi alla [[motifs/death|morte]].
-Proseguo lungo la riva dell’isola,  
-esprimendo il mio cuore pesante.  
-
-Sono troppo pieno di dolore!  
-Forse non vivrò un altro giorno;  
-Non riesco a riposare, o Dio. Non posso mangiare, bere né [[motifs/sleep|dormire]],  
-Fino a quando non potrò nuovamente presentare la mia [[motifs/prayer|preghiera]] davanti a Te,  
-Rinascere in Te, immergermi ancora una volta in Te, comunicare con Te,  
-Riferirti ancora una volta le mie condizioni.  
-
-Conosci tutti i miei anni, la mia vita,  
-la mia lunga e intensa esistenza dedicata al lavoro, non solo all’adorazione;  
-conosci le preghiere e le veglie della mia giovinezza,  
-conosci le meditazioni solenni e visionarie dell’età adulta;  
-conosci come, fin dall’inizio, abbia dedicato tutto ciò che avrei avuto in futuro a Te;  
-conosci che, con l’avanzare degli anni, ho rafforzato tutti quei voti e li ho rispettati rigorosamente;  
-conosci che non ho mai perso, né la [[concepts/faith|fede]], né l’estasi verso di Te;  
-in catene, imprigionato, nella disonore, senza mai lamentarmi,  
-ho accettato tutto ciò che mi è stato dato da Te, come qualcosa che giustamente mi spettava.  
-
-Tutti i miei progetti sono stati ispirati da Te;  
-Le mie speculazioni e i miei piani sono nati e continuano nel pensiero di Te;  
-Navigo nelle profondità o viaggio sulla terra per Te;  
-Le mie intenzioni, gli scopi e le aspirazioni appartengono a Te; i risultati, invece, li lascio a Te.  
-
-O sono certo che siano davvero venuti da Te:  
-quell’impulso, quell’ardore, quella volontà invincibile,  
-quel potente comando interiore, più forte delle parole.
-Un messaggio dal Cielo che mi sussurra anche nel [[motifs/sleep|sonno]].
-Tutto ciò mi ha spinto avanti.  
-
-Con il mio sforzo e con i risultati ottenuti finora,  
-ho fatto sì che le terre più antiche della Terra venissero domate e quelle inesplorate fossero liberate;  
-ho fatto sì che gli emisferi venissero completati e collegati, unendo il conosciuto all’ignoto.  
-
-La fine, non la conosco; tutto dipende da Te.  
-Che sia grande o piccolo, non lo so. Forse quei vasti campi, quelle terre.
-Forse quella sterpa umana, brutale e senza limiti. Lì potrebbe crescere,  
-diventare qualcosa di degno di Te: conoscenza, saggezza.
-Forse le spade che conosco potrebbero trasformarsi in strumenti di pace.
-Forse quella maledetta [[motifs/cross|croce]], la croce morta d’Europa, potrebbe lì germogliare e fiorire.  
-
-Un ultimo sforzo. Il mio altare è questa desolata sabbia;  
-O Dio, tu che hai illuminato la mia vita,  
-Con un raggio di luce – stabile, ineffabile, donatomi da Te –  
-Luce rara e indescrivibile, che illumina ogni cosa.
-Al di là di ogni segno, descrizione, lingua.
-Per questo, O Dio, sia questa la mia ultima parola. In ginocchio, vecchio, povero e paralizzato, ti ringrazio.  
-
-Il mio destino è vicino;  
-le nuvole già si addensano intorno a me;  
-il viaggio è interrotto, la rotta è incerta.
-Rinuncio alle mie “navi” a Te.  
-
-Le mie mani, i miei arti diventano insensibili;  
-Il mio cervello è tormentato, confuso.
-Lasciate che questi vecchi “legni” si spezzino, io non mi separerò da Voi;  
-Mi aggrapperò forte a Voi, o Dio, anche se le onde mi colpiscono con forza.
-Voi, almeno Voi, lo so con certezza.  
-
-Parlo forse con i pensieri di quel [[archetypes/prophet|profeta]], o sto semplicemente delirando?  
-Cosa so io della vita? Cosa so di me stesso?  
-Non conosco nemmeno il mio lavoro, né passato né presente.
-Solo vaghe supposizioni, sempre in continuo cambiamento, si presentano davanti a me.
-Mondi nuovi e migliori, il loro nascere, mi deridono, mi confondono.  
-
-E queste cose che vedo all’improvviso, cosa significano?  
-Come se qualche miracolo, qualche mano divina avesse aperto i miei occhi.
-Forme vaste e sfumate sorridono nell’aria e nel cielo;  
-In lontananza, innumerevoli navi navigano sulle onde.
-E inni, in lingue sconosciute, sembrano salutarmi.
 
 
-
-<span class="atom-split" data-atom="244_what_ship_puzzled_at_sea" data-title="What Ship Puzzled at Sea" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/the_journey,concept/self_and_soul,form/epigram,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="244_what_ship_puzzled_at_sea" data-title="What Ship Puzzled at Sea" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: WHISPERS OF HEAVENLY DEATH_  
@@ -1937,20 +1105,9 @@ Whom, in a little boat, putting off and rowing, I hailing you offer.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_  
 
 
-Quale [[motifs/ship|nave]] si perde nel mare senza sapere come orientarsi?  
-O quale, entrando nel porto, evita le barriere e segue il canale con precisione,  
-come farebbe un pilota esperto?  
-Ecco, marinaio! ecco la tua [[motifs/ship|nave]]. Prendi a bordo il pilota più perfetto:  
-me stesso, che in una piccola barca ti invito ad accogliere.
-
-
-
-<span class="atom-split" data-atom="288_joy_shipmate_joy" data-title="Joy, Shipmate, Joy!" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_sea,motif/a_ship,motif/the_journey,concept/joy,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="288_joy_shipmate_joy" data-title="Joy, Shipmate, Joy!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SONGS OF PARTING_  
@@ -1969,19 +1126,6 @@ Joy, shipmate, joy.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: CANZONI DI ADDIO  
-
-
-Joy, compagno di viaggio, Joy!  
-(Rallegrato la mia [[motifs/soul|'anima]] alla [[motifs/death|morte]], piango, )  
-La nostra vita è finita, ma ne inizia un'altra;  
-L’ancora lunga e pesante viene finalmente levata.
-La [[motifs/ship|nave]] è libera, finalmente parte!  
-Viaggia veloce lontano dalla riva.
-Joy, compagno di viaggio, joy.
-
 
 
 <span class="atom-split" data-atom="289_the_untold_want" data-title="The Untold Want" data-chapter="" data-kind="intro" data-tags="cluster/journey,cluster/ship"></span>
@@ -1998,17 +1142,9 @@ Now voyager sail thou forth to seek and find.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: CANZONI DI ADDIO
 
 
-Il desiderio inespresso che la vita e la terra non hanno mai soddisfatto,  
-Ora viaggia, viaggiatore, per cercare e trovarlo.
-
-
-
-<span class="atom-split" data-atom="292_now_finale_to_the_shore" data-title="Now Finale to the Shore" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_sea,motif/a_ship,motif/the_journey,concept/mortality,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="292_now_finale_to_the_shore" data-title="Now Finale to the Shore" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SONGS OF PARTING_  
@@ -2030,23 +1166,9 @@ Depart upon thy endless cruise old Sailor.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: CANZONI DI ADDIO  
 
 
-Ora è il momento di raggiungere la riva,  
-Ora è il momento di mettere piede sulla terra e dire addio alla vita.
-Ora il Voyager parte; molte cose ancora ti attendono.
-Spesso hai sfidato i mari, navigando con cautela, studiando le carte nautiche.
-Ma ora segui il desiderio segreto che custodisci nel cuore.
-Abbraccia i tuoi amici, lascia tutto in ordine.
-Non tornerai più al porto, né alle corde di ormeggio.
-Parti, dunque, per la tua eterna avventura. Vecchio marinaio.
-
-
-
-<span class="atom-split" data-atom="339_twenty_years" data-title="Twenty Years" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/the_sea,motif/the_journey,motif/mutability,concept/memory_and_time,concept/nostalgia,form/narrative_poem,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="339_twenty_years" data-title="Twenty Years" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -2072,28 +1194,9 @@ Dress’d in its russet suit of good Scotch cloth:
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-Sul vecchio molo, sulla sabbia, mi siedo a chiacchierare con un nuovo arrivato:  
-Lui era partito come ragazzo apprendista e poi è salpato via,  
-spinto da una decisione improvvisa e decisa.
-Da allora, vent’anni sono passati, mentre lui continuava il suo viaggio intorno al mondo.
-Ora è tornato:  
-Com’è cambiato questo posto, tutti i vecchi punti di riferimento sono scomparsi, i suoi genitori sono morti.
-(Sì, è tornato per stabilirsi definitivamente, ha un sacco pieno d’oro, nessun altro posto gli andrebbe bene se non questo, )  
-La piccola barca che lo aveva portato via dalla nave ora è legata lì vicino.
-Ascolto il rumore delle onde, il movimento instabile della chiglia sulla sabbia.
-Vedo il suo equipaggiamento da marinaio, il sacco di tela, la grande scatola rivestita di rame.
-Esamino il suo viso, abbronzato e barbuto, il suo corpo robusto e forte.
-È vestito con un abito di buona stoffa scozzese.
-(E allora, qual è la storia di quei vent’anni? E cosa ci riserva il futuro?)
-
-
-
-<span class="atom-split" data-atom="346_the_dismantled_ship" data-title="The Dismantled Ship" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/decay,motif/the_sea,concept/mortality,concept/transience,form/lyric,setting/a_ship,setting/the_sea,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="346_the_dismantled_ship" data-title="The Dismantled Ship" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -2111,21 +1214,9 @@ Lies rusting, mouldering.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-In qualche laguna inutilizzata, in qualche baia senza nome,  
-sulle acque lente e desolate, ancorata vicino alla riva,  
-c’è un vecchio [[motifs/ship|navio]] senza alberi, grigio e malandato,  
-inabile ormai a navigare. Dopo aver viaggiato liberamente in tutti i mari del mondo,  
-è stato finalmente tirato in secco e fissato con cavi robusti;  
-giace lì, arrugginito e in decomposizione.
-
-
-
-<span class="atom-split" data-atom="350_after_the_supper_and_talk" data-title="After the Supper and Talk" data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/death,motif/the_journey,motif/night,concept/mortality,concept/friendship,form/free_verse,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="350_after_the_supper_and_talk" data-title="After the Supper and Talk" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -2151,28 +1242,9 @@ Garrulous to the very last.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-Dopo la cena e le chiacchiere, dopo che la giornata è finita,  
-come un amico tra gli amici, il suo ultimo addio si prolunga ancora;  
-“Addio, addio”, ripetono le sue labbra piene di emozione.
-È così difficile per lui lasciare andare quelle mani. Non si incontreranno più mai,  
-non ci sarà più condivisione di dolore e gioia, né tra vecchi e giovani.
-Un lungo [[motifs/journey|viaggio]] lo aspetta, un viaggio dal quale non tornerà mai indietro.
-Evita, ritarda il momento dell’addio, cerca in tutti i modi di posticipare l’ultima parola da dire.
-Anche quando si avvicina alla porta d’uscita, tenta invano di richiamarlo indietro.
-Anche mentre scende gli scalini, cerca disperatamente di guadagnare un altro minuto.
-Le ombre della notte si fanno sempre più dense.
-I saluti, i messaggi diventano sempre più rari. Il volto e la figura di colui che se ne va svaniscono nella penombra.
-Tra poco scomparirà per sempre nell’oscurità. Che riluttanza, ah, quanto riluttanza nel separarsi!  
-Parla ancora, fino all’ultimo istante.
-
-
-
-<span class="atom-split" data-atom="351_sail_out_for_good_eidolon_yacht" data-title="Sail out for Good, Eidolon Yacht!" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/the_journey,motif/a_ship,concept/mortality,concept/self_and_soul,concept/immortality,form/free_verse,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="351_sail_out_for_good_eidolon_yacht" data-title="Sail out for Good, Eidolon Yacht!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -2193,24 +1265,9 @@ Sail out for good, eidolon yacht of me!
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
 
 
-Alzate l'ancora in fretta!  
-Sollevate la vela maestra e la vela di trinchetto – dirigetevi avanti,  
-O piccola barca a scafo bianco, ora vi muovete davvero su acque profonde.
-(Non la chiamerò il nostro ultimo viaggio,  
-Ma piuttosto l’inizio e l’ingresso sicuro verso ciò che è più vero, migliore, più maturo, )  
-Partite, lasciate questa terra solida – non tornerete mai più su queste rive.
-Ora inizierà per sempre il nostro viaggio infinito e libero,  
-Rifiutando tutti i porti, i mari, le catene, le forze di gravità che abbiamo già provato.
-Partite per sempre, o yacht ideale del mio spirito!
-
-
-
-<span class="atom-split" data-atom="359_old_age_s_ship_crafty_death_s" data-title="Old Age’s Ship &amp; Crafty Death’s" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,motif/the_sea,motif/a_ship,concept/mortality,concept/heroism,form/free_verse,setting/a_ship,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="359_old_age_s_ship_crafty_death_s" data-title="Old Age’s Ship &amp; Crafty Death’s" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -2231,22 +1288,9 @@ As we take to the open--take to the deepest, freest waters.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
 
 
-Dai confini orientali e occidentali dell’orizzonte,  
-due imponenti navi ci sorprendono alle spalle.
-Ma noi sfideremo il loro corso in un vero e proprio duello marittimo!  
-(Le nostre gioie derivano proprio dalle battaglie e dalle avventure pericolose, )  
-Oggi, la vecchia nave dovrà mostrare tutta la sua forza.
-Ammainiamo le vele maggiori, i pennoni reali.
-E sfidiamoli apertamente, in mare aperto, nelle acque più profonde e libere.
-
-
-
-<span class="atom-split" data-atom="373_a_persian_lesson" data-title="A Persian Lesson" data-chapter="" data-kind="intro" data-tags="motif/garden,motif/rose,concept/self_and_cosmos,concept/love_divine,concept/faith,form/dramatic_monologue,histref/eastern_religion,setting/a_garden,setting/the_orient,cluster/journey,cluster/ship"></span>
+<span class="atom-split" data-atom="373_a_persian_lesson" data-title="A Persian Lesson" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -2276,30 +1320,3 @@ Latent the same in subject and in object, without one exception.”
 
 
 
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Per la sua ultima e più importante lezione, il sufi barbuto grigio,  
-nel fresco profumo della mattina, all’aperto,  
-sul pendio di un rigoglioso giardino persiano pieno di rose,  
-sotto un antico castagno i cui rami si estendevano ampiamente,  
-parlò ai giovani sacerdoti e studenti.  
-
-“Finalmente, miei figli. Per avvolgere ogni parola, ogni parte di tutto ciò che esiste,  
-Allah è tutto: è immanente in ogni vita e in ogni oggetto.  
-Forse si trova a molte distanze, ma Allah, Allah, Allah è sempre lì.”  
-
-“Ha vagabondato lontano questo animale smarrito? Qual è il motivo per cui tutto è così misteriosamente nascosto?  
-Vuoi scandire i segreti celati sotto l’oceano inquieto del mondo intero?  
-Riesci a comprendere quella insoddisfazione, quell’impulso che anima ogni vita;  
-Quella forza che non si ferma mai, che non scompare mai del tutto. Quella necessità invisibile  
-che è presente in ogni seme?”  
-
-“È il desiderio fondamentale presente in ogni atomo:  
-spesso inconscio, spesso malvagio, destinato al declino.
-Tornare alla propria fonte divina e origine, per quanto lontane possano essere;  
-questo desiderio è latente sia nel soggetto che nell’oggetto, senza alcuna eccezione.”

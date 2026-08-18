@@ -15,7 +15,7 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/oak-(chesterton)|oak (Chesterton)]]
-- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection#0804_no_notice_gave_she_but_a_change|804. No Notice gave She, but a Change — (Dickinson)]]
+- [[testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems#_notice_gave_she_but_a_change|804. No Notice gave She, but a Change — (Dickinson)]]
 
 </div>
 

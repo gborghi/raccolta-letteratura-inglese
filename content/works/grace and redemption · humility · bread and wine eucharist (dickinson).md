@@ -39,5 +39,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mr. Thomas Niles](/testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist#l0500_mr_thomas_niles)
+- [To Mr. Thomas Niles](/testi/dickinson/atomized/grace-and-redemption-humility-bread-and-wine-eucharist--letters#thomas_niles)
 

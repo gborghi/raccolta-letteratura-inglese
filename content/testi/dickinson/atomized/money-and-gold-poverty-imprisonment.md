@@ -11,6 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/money-and-gold-poverty-imprisonment" data-author="Dickinson" data-workhref="works/money-and-gold-·-poverty-·-imprisonment-(dickinson)"></div>
 
 
+117. In rags mysterious as these · 119. Talk with prudence to a Beggar · 234. You're right — "the way is narrow" — · 395. Reverse cannot befall · 543. I fear a Man of frugal Speech — · 709. Publication — is the Auction · 801. I play at Riches — to appease · 1093. Because 'twas Riches I could own, · 1446. His Mind like Fabrics of the East · 1640. Take all away from me, but leave me Ecstasy,
+
+
+
+
 <span class="atom-split" data-atom="0117_in_rags_mysterious_as_these" data-title="117. In rags mysterious as these" data-chapter="" data-kind="intro" data-tags="motif/clothing,motif/money_gold,concept/appearance_vs_reality,concept/humility,concept/poverty,concept/paradox,form/lyric,cluster/money_and_gold,cluster/poverty,cluster/imprisonment"></span>
 
 

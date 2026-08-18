@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. F.S. Cooper](/testi/dickinson/atomized/joy-animals-comic-verse-song#l0434_mrs_fs_cooper)
+- [To Mrs. F.S. Cooper](/testi/dickinson/atomized/joy-animals-comic-verse-song--letters#_fs_cooper)
 

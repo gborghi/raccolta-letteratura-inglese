@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield" data-author="Whitman" data-workhref="works/war-and-its-cost-·-american-civil-war-·-battlefield-(whitman)"></div>
 
 
-<span class="atom-split" data-atom="006_to_thee_old_cause" data-title="To Thee Old Cause" data-chapter="" data-kind="intro" data-tags="motif/the_book,concept/democracy,concept/war_and_its_cost,concept/immortality,form/free_verse,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+To Thee Old Cause · France [the 18th Year of these States · Europe [The 72d and 73d Years of These States] · First O Songs for a Prelude · Eighteen Sixty-One · Beat! Beat! Drums! · Virginia--The West · An Army Corps on the March · A March in the Ranks Hard-Prest, and the Road Unknown · The Wound-Dresser · Give Me the Splendid Silent Sun · The Artilleryman’s Vision · As I Lay with My Head in Your Lap Camerado · To a Certain Civilian · Lo, Victress on the Peaks · Spirit Whose Work Is Done [Washington City, 1865] · Adieu to a Soldier · Old War-Dreams · Ashes of Soldiers · Camps of Green · The Bravest Soldiers · The Wallabout Martyrs · True Conquerors · The Dying Veteran · To the Pending Year · Interpolation Sounds
+
+
+
+
+<span class="atom-split" data-atom="006_to_thee_old_cause" data-title="To Thee Old Cause" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: INSCRIPTIONS_  
@@ -44,34 +49,9 @@ Around the idea of thee.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: ISCRIZIONI_  
 
 
-A te, antica causa!  
-Tu, causa incomparabile, appassionata e giusta;  
-tu, idea severa, spietata ma dolce.
-Immortale attraverso i secoli, le razze, le terre.
-Dopo una guerra strana e triste, una grande guerra per te.
-(Credo che tutte le guerre, nel corso del [[motifs/time|tempo]], siano state combattute, e sempre lo saranno, per te, )  
-Questi canti sono per te, la tua eterna marcia verso il successo.  
-
-(Una guerra, o soldati, non solo per se stessi; molto di più, in realtà, aspetta silenziosamente dietro le quinte, pronto a intervenire in questo libro.)  
-
-O tu, sfera tra molte sfere!  
-O tu, principio ribollente; tu, germe nascosto e ben custodito! Tu, centro di tutto!  
-Attorno all’idea tua ruota la guerra,  
-Con tutta la sua furia e il suo tumultuoso susseguirsi di cause,  
-(E con risultati immensi che dureranno tremila anni, )  
-Questi versi sono per te; il mio libro e la guerra sono una cosa sola.  
-Io e ciò che è mio siamo fusi nel suo spirito,  
-Poiché la lotta stessa dipende da te.
-Come una [[motifs/wheel|Ruota]] che gira attorno al proprio asse, questo libro, inconsapevolmente, ruota attorno all’idea tua.
-
-
-
-<span class="atom-split" data-atom="097_france_the_18th_year_of_these_states" data-title="France [the 18th Year of these States" data-chapter="" data-kind="intro" data-tags="motif/blood,concept/democracy,concept/revenge,concept/war_and_its_cost,form/free_verse,histref/the_french_revolution,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="097_france_the_18th_year_of_these_states" data-title="France [the 18th Year of these States" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: [[motifs/birds|BIRDS]] OF PASSAGE_  
@@ -123,47 +103,9 @@ I will yet sing a song for you ma femme.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/birds|Uccelli migratori]]_  
 
 
-Un grande anno e un luogo meraviglioso.
-Ma un grido di nascita stridente e disarmonioso, che raggiunge il cuore della madre più profondamente di qualsiasi altro prima d’ora.  
-
-Camminavo lungo le rive del mio mare orientale;  
-udivo, oltre le onde, quella voce tenue;  
-vedevo il divino bambino che, svegliato, piangeva disperatamente,  
-tra il ruggito dei cannoni, le maledizioni, gli urli e il crollo degli edifici.
-Non ero così sconvolto dal sangue che scorreva lungo i canali di scolo,  
-né dai singoli cadaveri, né da quelli ammucchiati, né da quelli portati via dalle carri.
-Non ero così disperato di fronte alle battaglie della [[motifs/death|morte]],  
-né così scioccato dal continuo fuoco delle armi.  
-
-Pallido, silenzioso, severo. Cosa avrei potuto dire di fronte a quella punizione accumulatasi nel corso del tempo?  
-Avrei potuto desiderare che l’umanità fosse diversa?  
-Avrei potuto sperare che le persone fossero fatte di legno e pietra?  
-O forse che non esistesse giustizia nel destino né nel [[motifs/time|tempo]]?  
-
-O Libertà! O compagna mia.
-Anche qui ci sono il fuoco, le palle di cannone e l’ascia, pronte all’uso in caso di necessità;  
-Anche qui, sebbene da tempo nascoste, non possono mai essere distrutte;  
-Anche qui potrebbero finalmente risorgere, portando morte ed estasi.
-Anche qui chiedono il pagamento completo dei loro debiti di vendetta.  
-
-Pertanto firmo questo saluto oltre il mare;  
-non nego quel terribile “nascere” e “battezzarsi” nel sangue.
-Ma ricorda quella piccola voce che ho sentito piangere, e aspetta con perfetta fiducia, per quanto tempo ci vorrà.  
-Da oggi in poi, con tristezza ma determinazione, difenderò questa causa, per tutte le terre.
-Inviò queste parole a [[settings/paris|Parigi]] con il mio [[motifs/love|amore]]; penso che alcuni cantautori lì le capiranno.
-Perché credo che in Francia esista ancora musica nascosta, una musica potente.
-Già sento il rumore degli strumenti: presto sovrasteranno tutto ciò che potrebbe disturbarli.
-Penso che il vento d’est mi porti una marcia trionfale e libera. Arriva fino a me, mi riempie di gioia. Correrò a tradurla in parole, per giustificarla.
-Canterò ancora una canzone per te, mia moglie.
-
-
-
-<span class="atom-split" data-atom="114_europe_the_72d_and_73d_years_of_these_states" data-title="Europe [The 72d and 73d Years of These States]" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,motif/serpent_snake,motif/the_grave,concept/martyrdom,concept/democracy,concept/power_and_corruption,form/free_verse,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="114_europe_the_72d_and_73d_years_of_these_states" data-title="Europe [The 72d and 73d Years of These States]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: BY THE ROADSIDE_  
@@ -234,65 +176,9 @@ He will soon return, his messengers come anon.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_  
 
 
-All'improvviso, uscì dal suo buio e sonnolento rifugio, il covo degli schiavi;  
-come [[motifs/lightning|fulmine]], si precipitò fuori, quasi spaventato da se stesso;  
-i suoi piedi calpestarono cenere e stracci, le sue mani afferrarono saldamente  
-i colli dei re.  
-
-Oh [[concepts/hope|speranza]] e [[concepts/faith|fede]].
-Oh questi ultimi momenti della vita dei patrioti esiliati.
-Oh tanti cuori sofferenti.
-Tornate indietro a questo giorno e rinnovatevi.  
-
-E voi, pagati per profanare il Popolo, voi bugiardi, ascoltate bene!  
-Non per le innumerevoli sofferenze, gli omicidi, i desideri lussuriosi.
-Ma per i furti commessi nelle corti, sotto mille forme diverse; per aver sottratto ai poveri il loro guadagno, con l’inganno e la frode.
-Per le molte promesse fatte dalle labbra reali, poi infrante e derise nel momento stesso in cui venivano violate.  
-
-Allora, non fu per tutte queste ragioni che i colpi furono inferti nell’ambito della [[concepts/revenge|vendetta]],  
-né le teste dei nobili caddero;  
-il Popolo disprezzò la ferocia dei re.  
-
-Ma la dolcezza della [[concepts/mercy|misericordia]] portò a una distruzione amara; i monarchi spaventati tornarono, ognuno con il proprio seguito: boia, prete, esattore delle tasse, soldato, avvocato, nobile, carceriere e adulatori.  
-
-Eppure, dietro tutta quella attività furtiva e oscura, c’era una figura.
-Vaga come la [[motifs/night|notte]], avvolta per intero in pieghe scarlatte, che coprivano testa, petto e corpo.
-Il suo volto e i suoi occhi erano invisibili; dalle sue vesti si poteva vedere soltanto questo: un dito piegato, puntato in alto sopra la sua testa, come se fosse la testa di un serpente.  
-
-Nel frattempo, i cadaveri giacciono nelle tombe appena scavate, corpi insanguinati di giovani uomini;  
-la corda della forca pende pesantemente, le pallottole dei principi volano nell’aria;  
-gli esseri al potere ridono ad alta voce.
-E tutte queste cose portano frutti, e questi frutti sono buoni.  
-
-Quei corpi di giovani uomini,  
-quei martiri appesi alle forche, quei cuori trafitti dal piombo grigio.
-Freddi e immobili in apparenza, ma in realtà vivono altrove, con una vitalità intatta.  
-
-Vivono tra altri giovani uomini, o re.
-Vivono ancora tra fratelli pronti a sfidarvi;  
-Sono stati purificati dalla [[motifs/death|morte]], sono stati insegnati e elevati.  
-
-Nessuna tomba dei caduti per la [[concepts/freedom|libertà]] rimane silenziosa; piuttosto, da esse nasce seme per la [[concepts/freedom|libertà]],  
-che a sua volta produce altro seme,  
-il quale i venti portano lontano e seminano di nuovo,  
-mentre piogge e nevi lo nutrono.  
-
-Nessun spirito senza corpo può far scattare le armi dei tiranni;  
-ma esso si aggira invisibilmente sulla terra, sussurrando, consigliando, avvertendo.
-Libertà, che gli altri possano [[concepts/despair|disperare]] di te. Io, mai.  
-
-La casa è chiusa? Il padrone è via?  
-Tuttavia, rimani pronto, non stancarti di vigilare;  
-Tornerà presto, i suoi messaggeri arriveranno a breve.
-
-
-
-<span class="atom-split" data-atom="142_first_o_songs_for_a_prelude" data-title="First O Songs for a Prelude" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/drums_and_bugles,motif/the_city,motif/swords_weapons,concept/war_and_its_cost,concept/nationalism_and_patriotism,form/free_verse,histref/american_civil_war,setting/manhattan,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="142_first_o_songs_for_a_prelude" data-title="First O Songs for a Prelude" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -385,53 +271,9 @@ But now you smile with joy exulting old Mannahatta.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_  
 
 
-Primi canti come preludio;  
-Leggermente suonano sulle corde tese della [[concepts/pride|orgoglio]] e della gioia nella mia [[motifs/city|città]];  
-Come guidò tutti verso le armi, come diede il segnale.
-Come, con movimenti agili e senza attendere un istante, si lanciò in battaglia!  
-(O meravigliosa! Oh [[settings/manhattan|Manhattan]], mia, incomparabile.
-Oh tu più forte nell’ora del pericolo, nella crisi. Oh più fedele dell’acciaio!)  
-Come ti slanciasti. Come gettasti via i vestiti della pace con indifferenza.
-Come la tua dolce musica d’opera cambiò, e al suo posto si udirono il tamburo e la tromba.
-Come guidasti tutti verso la guerra, (Che sarà il nostro preludio: canti di soldati, )  
-Oh, come i rintocchi dei tamburi di [[settings/manhattan|Manhattan]] guidarono tutti!  
-
-Per quarant'anni, nella mia [[motifs/city|città]], ho visto soldati sfilare;  
-per quarant'anni è stato uno spettacolo continuo. Finché, all'improvviso, la signora di questa città affollata e turbolenta,  
-insonne tra le sue navi, i suoi palazzi, la sua inestimabile ricchezza,  
-con i suoi milioni di bambini intorno a lei,  
-a mezzanotte, alla notizia proveniente dal sud,  
-impazzita, colpì con forza il selciato.  
-
-Colpito da una scossa elettrica, lo sopportò durante la [[motifs/night|notte]];  
-Fino a quando, con un ronzio minaccioso, il nostro alveare, all’alba, ne riversò le miriadi.  
-
-Dalle case e dai laboratori, attraverso tutte le porte,  
-si riversarono in massa; ed ecco, [[settings/manhattan|Manhattan]] si armava.  
-
-Alla chiamata dei tamburi, i giovani si armano in fretta; gli artigiani prendono in mano scalpelli, levigatrici e martelli per unirsi alla lotta. L’avvocato lascia lo studio, il giudice abbandona la corte, il conducente abbandona il carro per correre in battaglia. Gli uomini si radunano ovunque per armarsi; i nuovi reclute, persino i ragazzi, imparano a indossare l’equipaggiamento militare sotto la guida degli anziani. All’aperto e all’interno delle case, il lampeggiare dei fucili riempie l’aria. Le tende bianche si dispiegano nei campi, le sentinelle armate montano la guardia; al sorgere del sole e al tramonto i cannoni rimbombano. Ogni giorno arrivano nuovi reggimenti che attraversano la città per imbarcarsi dai moli. Che bell’aspetto hanno mentre avanzano verso il fiume, sudati e con le armi in spalla! Come li amo. Vorrei abbracciarli tutti, con i loro volti bruni e i vestiti coperti di polvere. Il sangue della città è pronto alla battaglia; ovunque si sentono grida di entusiasmo, bandiere sventolate sui tetti delle chiese e sugli edifici pubblici. Addii commoventi: madri che baciano i loro figli. L’entusiasmo della folla è incontenibile; l’artiglieria, silenziosa ma minacciosa, viene portata in battaglia. Tutti i preparativi sono completati; non si tratta più di una semplice parata. Guerra! Una corsa all’armamento sta per iniziare. Nessuno vuole voltarsi indietro. Guerra! Che duri settimane, mesi o anni. La gente è pronta ad affrontarla.  
-
-Mannahatta, marchia, ed è “O” per cantarlo bene!  
-È “O” per una vita virile nel campo.  
-
-E l’artiglieria robusta,  
-le canne brillanti come l’oro, opere destinate a giganti, per servire efficacemente.
-Smontatela! (Non più utilizzate soltanto negli ultimi quarant’anni per saluti o cortesie superficiali;  
-Ora è necessario aggiungere qualcosa di più, oltre alla polvere da sparo e alle stoppe.)  
-
-E tu, signora delle navi, tu Mannahatta,  
-vecchia matrona di questa orgogliosa, amichevole e turbolenta [[motifs/city|città]],  
-spesso, in tempi di pace e prosperità, eri pensierosa o aggrottavi la fronte in segreto tra tutti i tuoi figli;  
-ma ora sorridi con gioia, esultante come l’antica Mannahatta.
-
-
-
-<span class="atom-split" data-atom="143_eighteen_sixty_one" data-title="Eighteen Sixty-One" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/war_and_its_cost,concept/nationalism_and_patriotism,concept/the_common_man,form/ode,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="143_eighteen_sixty_one" data-title="Eighteen Sixty-One" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -466,16 +308,9 @@ I repeat you, hurrying, crashing, sad, distracted year.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_  
 
 
-Anno di lotta. Non per te versi delicati o poesie d’amore sentimentali; non tu, come qualche pallido poetucolo seduto alla scrivania che mormora dolcemente le sue rime. Ma tu, uomo forte e deciso, vestito di blu, che avanzi con il fucile in spalla, con un corpo robusto, un viso e delle mani abbronzate, con un coltello alla cintura. Ti ho sentito gridare ad alta voce; la tua voce potente risuonava attraverso i continenti. La tua voce mascolina. Tra le grandi città di [[settings/manhattan|Manhattan]], ti ho visto come uno dei lavoratori, uno degli abitanti di quella città. O camminando a grandi passi attraverso le praterie dell’Illinois e dell’Indiana, attraversando rapidamente l’Ovest con passo deciso. O scendendo dalle grandi montagne, lungo i laghi o in Pennsylvania. O sul ponte di una nave lungo il fiume [[motifs/river|Ohio]]. O verso sud, lungo i fiumi Tennessee e Cumberland. A Chattanooga, sulla cima della montagna. Ho visto il tuo passo deciso, le tue membra forti e vestite di blu, armato fino ai denti. Anno di determinazione. Anno che, improvvisamente, risuona attraverso i cannoni. Te lo ripeto: anno veloce, cupo, pieno di lotta.
-
-
-
-<span class="atom-split" data-atom="144_beat_beat_drums" data-title="Beat! Beat! Drums!" data-chapter="" data-kind="intro" data-tags="motif/drums_and_bugles,motif/music_and_song,motif/death,concept/war_and_its_cost,concept/grief_and_loss,form/song,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="144_beat_beat_drums" data-title="Beat! Beat! Drums!" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -515,38 +350,9 @@ So strong you thump O terrible drums--so loud you bugles blow.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_  
 
 
-Batte! batte! i tamburi! – soffia! le trombe! soffia!  
-Attraverso le finestre, attraverso le porte, irrompono come una forza spietata,  
-Nella solenne chiesa, dispersano la congregazione;  
-Nella scuola, dove lo studente studia.
-Non lasciate in pace lo sposo: ora non deve provare alcuna felicità con sua moglie;  
-Né il tranquillo contadino può godere di pace, mentre ara i suoi campi o raccoglie il suo grano.
-Così feroci suonano i vostri tamburi, così stridenti soffiano le vostre trombe.  
-
-Batte! batte! i tamburi, soffiate! le trombe! soffiate!  
-Sopra il traffico delle città, sopra il rumore delle ruote per strada;  
-Nelle case, sono pronti i letti per chi dorme di [[motifs/night|notte]]? No, nessuno dormirà in quei letti.
-Le trattative dei commercianti di giorno, gli agenti e gli speculatori, continueranno?  
-I parlanti parleranno ancora? Il cantante proverà a cantare?  
-L’avvocato si alzerà nel [[settings/court|tribunale]] per esporre la sua causa davanti al giudice?  
-Allora, battete i tamburi più velocemente, soffiate le trombe ancora più forte.  
-
-Batte! batte! i tamburi! – soffia! le trombe! soffia!  
-Non ci siano trattative, né pause per spiegazioni;  
-Non badare ai timidi, né al pianto né alle preghiere;  
-Non ascoltare l’anziano che supplica il giovane;  
-Né la voce del bambino, né le suppliche della madre.
-Fai tremare persino i supporti su cui giacciono i morti in attesa delle bare.
-Così forti siano i tuoi colpi, o terribili tamburi, così sonori le tue trombe!
-
-
-
-<span class="atom-split" data-atom="148_virginia_the_west" data-title="Virginia--The West" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/swords_weapons,concept/the_union,concept/war_and_its_cost,form/allegory,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="148_virginia_the_west" data-title="Virginia--The West" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -573,26 +379,9 @@ For you provided me Washington--and now these also.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Il nobile signore caduto in giorni di male,
-lo vidi con la mano alzata, minacciosa, brandendo un coltello;
-(i ricordi del passato erano dimenticati, l’[[motifs/love|amore]] e l’[[concepts/faith|fede]] erano perduti, )
-Quel pazzo puntò il coltello contro la Madre di Tutti.
-
-Il nobile figlio, con passi veloci e forti, avanzava; lo vidi uscire dalla terra delle praterie, dalle acque dell’Ohio e dell’Indiana, per andare in soccorso di quel gigante coraggioso. I suoi numerosi discendenti, vestiti di blu e con i loro fucili fedeli sulle spalle, si affrettavano verso di lui.
-
-Allora la Madre di Tutti, con voce calma, disse:  
-“A voi ribelli, perché lottate contro di me e cercate di togliermi la vita?  
-Se siete voi stessi a proteggermi per sempre.
-Voi mi avete dato Washington, e ora anche questi.”
-
-
-
-<span class="atom-split" data-atom="153_an_army_corps_on_the_march" data-title="An Army Corps on the March" data-chapter="" data-kind="intro" data-tags="motif/dust,motif/horse,concept/war_and_its_cost,form/free_verse,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="153_an_army_corps_on_the_march" data-title="An Army Corps on the March" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -612,19 +401,9 @@ As the army corps advances.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_  
 
 
-Con la sua formazione di soldati leggeri in avanguardia,  
-a volte il suono di un singolo colpo che risuona come uno schiaffo, altre volte una raffica disordinata.
-Le fitte formazioni avanzano senza sosta; gli uomini, coperti di polvere, si muovono in colonne seguendo le ondulazioni del terreno.  
-L’artiglieria è disseminata lungo la strada; i carri rimbombano, i cavalli sudano, mentre l’esercito continua ad avanzare.
-
-
-
-<span class="atom-split" data-atom="157_a_march_in_the_ranks_hard_prest_and_the_road_unknown" data-title="A March in the Ranks Hard-Prest, and the Road Unknown" data-chapter="" data-kind="intro" data-tags="motif/blood,motif/death,motif/night,motif/fire,motif/the_road,concept/war_and_its_cost,concept/terror_and_horror,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="157_a_march_in_the_ranks_hard_prest_and_the_road_unknown" data-title="A March in the Ranks Hard-Prest, and the Road Unknown" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -669,16 +448,9 @@ The unknown [[motifs/road|road]] still marching.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Un marciare tra le file, con passi frettolosi e una strada sconosciuta davanti a noi; un percorso attraverso una fitta foresta, con i nostri passi soffocati nell’oscurità. Il nostro esercito subisce gravi perdite, e i pochi sopravvissuti si ritirano. Solo dopo mezzanotte intravediamo le luci di un edificio poco illuminato. Arriviamo in una radura nel bosco e ci fermiamo davanti a quell’edificio: è una vecchia chiesa, ora trasformata in un ospedale improvvisato. Entrando, per un attimo vedo qualcosa che supera ogni immagine e ogni poesia mai scritta. Ombre di un nero profondo, illuminate solo da candele e lampade in movimento. E da una grande torcia con fiamma rossa intensa e dense nuvole di fumo. Intravedo gruppi di persone distese a terra; ai miei piedi c’è un giovane soldato, ferito gravemente all’addome. Fermo temporaneamente la fuoriuscita di sangue. Il viso del ragazzo è pallido come un giglio. Prima di andarmene, osservo ancora una volta tutta la scena: volti, posture indescrivibili. La maggior parte di loro è morta. I chirurghi operano, gli assistenti reggono le lampade; c’è l’odore dell’etere e del sangue. La folla. Quella folla di figure sanguinanti. Anche il cortile esterno è pieno di persone: alcune sdraiate a terra, altre su assi o barelle. Alcune soffrono in preda agli spasmi della morte. Di tanto in tanto si sentono urla o grida; i medici danno ordini concisi. Il luccichio degli strumenti metallici riflette la luce delle torce. Riprendo il mio cammino, continuo a marciare nell’oscurità. Lungo quella strada sconosciuta. Sempre avanti.
-
-
-
-<span class="atom-split" data-atom="162_the_wound_dresser" data-title="The Wound-Dresser" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/blood,motif/death,concept/war_and_its_cost,concept/grief_and_loss,concept/comradeship,concept/memory_and_time,concept/love_divine,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="162_the_wound_dresser" data-title="The Wound-Dresser" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -776,87 +548,9 @@ Many a soldier’s kiss dwells on these bearded lips.)
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-1  
-Un vecchio, curvo e incerto, arrivo tra volti sconosciuti;  
-Gli anni, guardando indietro, riprendono vita davanti ai bambini.
-Vieni a raccontarci, vecchio: di come gli uomini e le donne mi amassero un tempo.
-(Avevo voglia di gridare all’allarme, di incitare a una guerra senza pietà.
-Ma presto le mie dita mi tradirono; il mio viso si afflosciò. E mi arresi, )  
-Tra molti anni, di queste scene, di queste passioni furiose, di questi eventi.
-Di eroi incomparabili, (Uno schieramento era davvero così coraggioso? L’altro altrettanto, )  
-Ora testimonia ancora una volta. Descrivi le più potenti armate della terra.
-Quegli eserciti così rapidi, così meravigliosi. Cosa hai visto, per potercelo raccontare?  
-Cosa ti rimane, oggi, più profondamente nel cuore? Di quelle paure inquietanti.
-Di quegli scontri cruenti, di quelle battaglie disperate. Cosa ricordi con maggiore intensità?
-
-2  
-O fanciulle e giovani che io amo e che mi amano,  
-Quello che chiedete dei miei giorni, le vostre parole li descrivono in modo così strano e improvviso.
-Arrivo come un soldato all’erta, dopo una lunga marcia, coperto di sudore e polvere;  
-Arrivo nel momento giusto, mi getto nella battaglia, grido forte durante l’assalto vittorioso.
-Entro nelle fortezze conquistate, ma ecco, come un fiume che scorre veloce, tutto svanisce.
-Passo oltre e tutto scompare. Non mi soffermo sui pericoli né sulle gioie dei soldati.
-(Tutti e due li ricordo bene: molte difficoltà, poche gioie, ma ero comunque soddisfatto.)
-
-Ma nel [[motifs/silence|silenzio]], nelle proiezioni dei [[motifs/dreams|sogni]],  
-mentre il mondo del guadagno, dell’apparenza e della gioia continua a esistere,  
-ciò che è finito viene presto dimenticato; le onde cancellano ogni traccia sulla sabbia.  
-Con ginocchia tremanti rientro in quei luoghi, (Mentre tu, lassù, chiunque tu sia, seguimi in silenzio e mantieni il cuore forte.)
-
-Con le bende, l’[[motifs/water|acqua]] e la spugna in mano,  
-Vado subito da coloro che sono feriti,  
-Lì dove giacciono a terra dopo la battaglia,  
-Dove il loro prezioso [[motifs/blood|sangue]] imbruna l’erba del suolo.
-O forse nelle file delle tende ospedaliere, o all’interno degli edifici medici.
-Vado lungo le file di letti, uno dopo l’altro; non ne tralascio nessuno.  
-Un assistente mi segue, portando un vassoio e un secchio per i rifiuti.
-Quel secchio presto si riempirà di stracci insanguinati e sangue; poi verrà svuotato e riempito di nuovo.
-
-Proseguo il mio cammino, mi fermo;
-Con ginocchia tremanti e mano ferma curo le ferite;
-Sono deciso in ogni momento. Il dolore è intenso, ma inevitabile.
-Qualcuno mi guarda con occhi supplicanti. Povero ragazzo! Non ti conoscevo mai,
-Ma penso che non potrei rifiutare di morire per te, se questo potesse salvarti.
-
-3  
-Avanti, avanti procedo, (Apro le porte del [[motifs/time|tempo]]; apro le porte degli ospedali!)  
-Vesto quella testa frantumata; (Povera mano folle, non strappare via il bendaggio, )  
-Esamino il collo di quel soldato della cavalleria, con la pallottola che lo attraversa da parte a parte.
-Il respiro è affannoso; l’occhio è già completamente vitreo. Eppure la vita continua a lottare disperatamente.
-(Vieni, dolce [[motifs/death|morte]], convincimi, o bella [[motifs/death|morte]]. Vieni in [[concepts/mercy|misericordia]], presto, )
-
-Dalla parte amputata del braccio, dalla mano recisa,  
-rimuovo i filamenti di sangue coagulato, eliminate le croste, lavo via ogni traccia di materia e di [[motifs/blood|sangue]].  
-Sul cuscino, il soldato si piega in avanti, con il collo curvo e la testa appoggiata al fianco;  
-ha gli occhi chiusi, il viso pallido. Non osa guardare quella parte del suo corpo insanguinata.
-E ancora non l’ha mai fatto.
-
-Curo una ferita sul fianco, profonda, molto profonda.
-Ma dopo un giorno o due, vedo il corpo tutto consumato e indebolito.
-E quel volto di colore giallo-bluastro.
-
-Vesto la spalla perforata, il piede ferito da una pallottola; pulisco quella parte infetta da cancrena, così disgustosa, così offensiva. Mentre l’assistente sta in piedi dietro di me, tenendo il vassoio e il secchio.
-
-Sono fedele; non tradisco mai.  
-La gamba fratturata, il ginocchio, la ferita all’addome.
-Tutti questi dolori li curo con mani indifferenti, (ma nel profondo del mio cuore arde una [[motifs/fire|fiamma]], una fiamma ardente.)
-
-4  
-Così, nel [[motifs/silence|silenzio]], nelle proiezioni dei sogni,  
-Tornando indietro, riprendendo il mio cammino, attraverso gli ospedali.
-Con mani dolci e rassicuranti lenisco il dolore e le ferite di chi soffre.  
-Rimango accanto a coloro che non riescono a dormire per tutta la lunga [[motifs/night|notte]]; alcuni sono così giovani, altri soffrono tanto.
-Ricordo quelle esperienze, dolci e tristi allo stesso tempo.
-(Molti soldati hanno avvolto questo collo con le loro braccia amorevoli; molti baci di soldati sono rimasti su queste labbra barbute.)
-
-
-
-<span class="atom-split" data-atom="164_give_me_the_splendid_silent_sun" data-title="Give Me the Splendid Silent Sun" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/nature,motif/the_city,motif/drums_and_bugles,concept/nature_vs_civilization,concept/war_and_its_cost,setting/manhattan,setting/pastoral_countryside,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="164_give_me_the_splendid_silent_sun" data-title="Give Me the Splendid Silent Sun" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -926,59 +620,9 @@ the sight of the wounded,)
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-1  
-Dammi il splendido sole silenzioso con tutti i suoi raggi abbaglianti,  
-dammi i frutti autunnali maturi e rossi dell’orto,  
-dammi un campo dove cresce l’erba incolta,  
-dammi un albero, dammi la vite rampicante,  
-dammi mais fresco e grano, dammi animali tranquilli che insegnino la contentezza,  
-dammi notti perfettamente silenziose, come quelle delle alte pianure a ovest del Mississippi; io allora alzerò lo sguardo verso le stelle,  
-dammi un giardino profumato all’alba, pieno di bellissime fioriture, dove poter camminare in pace,  
-dammi per matrimonio una donna dal respiro dolce, di cui non mi stancherei mai,  
-dammi un bambino perfetto, dammi una vita domestica tranquilla, lontana dal rumore del mondo,  
-dammi la possibilità di cantare canzoni spontanee, in solitudine, solo per le mie orecchie,  
-dammi la solitudine, dammi la Natura. Dammi ancora, oh Natura, la tua purezza primordiale!
-
-Questi che insistono nel chiederli, stanchi di un'eccitazione incessante e tormentati dalle guerre,  
-questi che continuano a cercarli senza sosta, i loro lamenti emergono dal profondo del mio cuore.
-Eppure, nonostante continui a chiederli, io rimango fedele alla mia [[motifs/city|città]]:  
-giorno dopo giorno, anno dopo anno, cammino per le sue strade.
-Tu mi tieni prigioniero per un certo [[motifs/time|tempo]], rifiutando di lasciarmi andare.
-Eppure mi doni tutto ciò che desidero: mi arricchi la [[motifs/soul|'anima]], mi offri volti infiniti.
-(O ahimè, vedo ciò da cui cercavo di fuggire: proprio ciò che ho sempre desiderato ora si rivolta contro di me, sovvertendo i miei stessi desideri.
-Vedo la mia [[motifs/soul|'anima]] calpestare ciò per cui ha lottato, )
-
-2  
-Mantieni il tuo splendido sole silenzioso,  
-mantieni i tuoi boschi, o [Natura, e i luoghi tranquilli vicino ai boschi,  
-mantieni i tuoi campi di trifoglio e timo, i tuoi campi di mais e gli orti,  
-mantieni quei campi di grano saraceno fioriti dove ronzano le api di settembre;  
-dammi volti e strade, dammi questi fantasmi incessanti ed infiniti lungo i marciapiedi!  
-Dammi occhi senza fine, dammi donne, compagni e amanti a migliaia!  
-Lasciami vedere sempre qualcosa di nuovo, lasciami tenere per mano persone nuove ogni giorno!  
-Dammi spettacoli del genere, dammi le strade di [[settings/manhattan|Manhattan]]!  
-Dammi Broadway, con i soldati che marciano, dammi il suono delle trombe e dei tamburi!  
-(I soldati, in compagnie o reggimenti: alcuni partono, rossi in viso e spensierati;  
-altri, al termine del loro servizio, tornano con file assottigliate, giovani, ma già molto vecchi, stanchi, marciando senza badare a nulla, )  
-Dammi le rive e i moli bordati da navi nere!  
-Oh, tutto questo per me. Oh, una vita intensa, piena di varietà e soddisfazioni!  
-La vita del teatro, dei bar, degli enormi hotel, per me!  
-Il salone della nave a vapore, le gite affollate, le processioni illuminate dalle torce!  
-La folla densa diretta verso la guerra, con i carri militari che seguono;  
-persone infinite, che scorrono via, con voci forti, passioni intense, spettacoli grandiosi.
-Le strade di [[settings/manhattan|Manhattan]], con il loro ritmo potente, i tamburi che rimbombano.
-Il coro incessante e rumoroso, lo sferragliare delle armi, (anche la vista dei feriti, )  
-La folla di [[settings/manhattan|Manhattan]], con il suo canto musicale tumultuoso!  
-Volti e occhi di [[characters/chorus|Manhattan]], per sempre miei.
-
-
-
-<span class="atom-split" data-atom="168_the_artilleryman_s_vision" data-title="The Artilleryman’s Vision" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/night,motif/fog_and_smoke,concept/war_and_its_cost,concept/terror_and_horror,concept/memory_and_time,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="168_the_artilleryman_s_vision" data-title="The Artilleryman’s Vision" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -1030,38 +674,9 @@ And bombs bursting in air, and at [[motifs/night|night]] the vari-color’d rock
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Mentre mia moglie dorme al mio fianco, e le guerre da tempo sono finite,  
-mentre la mia testa riposa sul cuscino a casa, mentre passa la mezzanotte silenziosa.
-Attraverso il silenzio, attraverso l’oscurità, sento, proprio sento.
-il respiro del mio bambino.  
-Lì nella stanza, mentre mi sveglio dal sonno, questa visione si impone su di me:  
-Lo scontro inizia, irreale nella fantasia. Gli assalitori avanzano con cautela.
-Sento i suoni delle munizioni che esplodono. I proiettili dei fucili. Le bombe che lasciano nuvole bianche nell’aria.
-I cannoni ruggiscono mentre passano. Il fruscio del vento tra gli alberi.
-Tutte le scene della battaglia riemergono davanti ai miei occhi: il fragore, il fumo, l’orgoglio degli uomini.
-Il comandante del cannone regola la mira e seleziona il momento giusto per sparare.
-Dopo il colpo, si sposta di lato per osservare l’effetto.
-Da un’altra parte, sento il grido di un reggimento che attacca. Il giovane colonnello guida i suoi uomini con la spada sguainata.
-Vedo le ferite aperte dai proiettili nemici. Che vengono rapidamente riparate.
-Respiro il fumo soffocante. Le nuvole scure nascondono tutto.
-Poi, per qualche secondo, un silenzio strano. Nessun colpo da entrambe le parti.
-Poi il caos ricomincia, più forte che mai. Grida, ordini degli ufficiali.
-Da qualche parte lontana sul campo, il vento porta fino a me un applauso. Un successo speciale.
-E sempre il suono dei cannoni, vicini o lontani. Che risveglia in me una gioia selvaggia, antica.
-E sempre l’infanteria che si sposta rapidamente, le batterie che si muovono.
-Non presto attenzione ai caduti, ai feriti. Alcuni si ritirano zoppicando.
-Sporcizia, calore, fretta. Aiutanti di campo che corrono avanti e indietro.
-Il rumore delle armi leggere. Il suono d’allarme dei fucili.
-E bombe che esplodono nell’aria. E, di notte, i razzi colorati.
-
-
-
-<span class="atom-split" data-atom="177_as_i_lay_with_my_head_in_your_lap_camerado" data-title="As I Lay with My Head in Your Lap Camerado" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,archetype/rebel,motif/swords_weapons,concept/comradeship,concept/doubt,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="177_as_i_lay_with_my_head_in_your_lap_camerado" data-title="As I Lay with My Head in Your Lap Camerado" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -1089,23 +704,9 @@ Or whether we shall be victorious, or utterly quell’d and defeated.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Mentre giaccio con la testa sulle tue ginocchia, caro amico,  
-riprendo a confessare ciò che ti ho detto quella notte, all’aperto.
-So di essere inquieto e di rendere inquieti anche gli altri; so che le mie parole sono armi pericolose, piene di morte.  
-Affronto la pace, la sicurezza e tutte le leggi stabilite, solo per sovvertirle.  
-Sono ancora più risoluto ora che tutti mi hanno rifiutato, piuttosto che se tutti mi avessero accettato.
-Non ascolto né considero alcuna avvertenza, nessuna maggioranza, né il ridicolo altrui.  
-La minaccia di ciò che si chiama inferno non significa nulla per me; l’attrattiva di ciò che si chiama paradiso non significa nulla per me.
-Caro amico, confesso di averti spinto ad andare avanti con me, e ancora ti spingo, senza la minima idea di quale sia la nostra destinazione, né se saremo vittoriosi o completamente sconfitti.
-
-
-
-<span class="atom-split" data-atom="179_to_a_certain_civilian" data-title="To a Certain Civilian" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/death,concept/war_and_its_cost,concept/the_artist_and_society,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="179_to_a_certain_civilian" data-title="To a Certain Civilian" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_  
@@ -1129,22 +730,9 @@ For I lull nobody, and you will never understand me.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_  
 
 
-Mi hai chiesto versi dolci e melodiosi da me?  
-Hai cercato quei versi pacifici e tranquilli tipici di un civile?  
-Hai trovato ciò che cantavo, qualcosa che allora sembrava così difficile da comprendere?  
-Perché allora non cantavo per te, affinché potessi seguirmi, capirmi, né ora lo faccio;  
-(Sono nato dalla stessa fonte della guerra; il rimbombo dei tamburi è per me musica dolce. Amo profondamente la marziale melodia del lutto, con quel suono lento e convulso che accompagna i funerali degli ufficiali.)  
-Ma a uno come te, che importanza ha un poeta come me? Lascia quindi le mie opere, e cerca conforto in ciò che puoi comprendere, nelle melodie del pianoforte.
-Perché io non consolo nessuno, e tu non mi capirai mai.
-
-
-
-<span class="atom-split" data-atom="180_lo_victress_on_the_peaks" data-title="Lo, Victress on the Peaks" data-chapter="" data-kind="intro" data-tags="motif/blood,motif/death,concept/liberty,concept/war_and_its_cost,concept/grief_and_loss,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="180_lo_victress_on_the_peaks" data-title="Lo, Victress on the Peaks" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -1166,24 +754,9 @@ And psalms of the dead.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Oh, Vittoriosa sulle vette,  
-lì dove con sguardo maestoso contempli il mondo –  
-quel mondo, O Libertà, che in vano ha cospirato contro di te –  
-dopo aver frustrato tutte le sue insidie, dominante e circondata dal sole abbagliante,  
-ti mostri ora intatta, nella tua immortalità e bellezza.  
-In queste ore supreme,  
-non ti offro poesie orgogliose, né versi estasiati di maestria;  
-ma un mazzo che racchiude l’oscurità della [[motifs/night|notte]] e le ferite stillanti sangue,  
-insieme ai salmi dei morti.
-
-
-
-<span class="atom-split" data-atom="181_spirit_whose_work_is_done_washington_city_1865" data-title="Spirit Whose Work Is Done [Washington City, 1865]" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/swords_weapons,motif/the_supernatural,concept/war_and_its_cost,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="181_spirit_whose_work_is_done_washington_city_1865" data-title="Spirit Whose Work Is Done [Washington City, 1865]" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -1218,35 +791,9 @@ Let them identify you to the future in these songs.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Spirito il cui compito è ormai terminato, spirito delle ore più terribili!  
-Prima di lasciarmi, svaniscano dai miei occhi le tue foreste di baionette;  
-spirito dei timori e dei dubbi più cupi, ma sempre incrollabile nel tuo cammino,  
-continuando ad avanzare senza esitazione.
-spirito di molti giorni solenni e scene spietate, spirito elettrico,  
-che con voce sommessa, attraverso questa guerra ormai conclusa,  
-come un fantasma instancabile si muove.
-risvegliando la terra con il soffio del fuoco, mentre tu batti il tamburo.
-Ora, mentre il suono del tamburo risuona vuoto e cupo intorno a me,  
-mentre le tue schiere immortali tornano dalle battaglie.
-mentre i fucili dei giovani pendono ancora dalle loro spalle.
-mentre vedo quelle baionette pronte all’uso.
-mentre quelle file di baionette, intere foreste di esse, appaiono in lontananza, si avvicinano e poi passano via, tornando a casa.
-muovendosi con movimento regolare, oscillando da una parte all’altra.
-sollevandosi e abbassandosi uniformemente al ritmo dei passi.
-spirito di quegli istanti che un tempo conoscevo, tutti pieni di frenesia e sangue, ma il giorno dopo pallidi come la [[motifs/death|morte]].
-tocca le mie labbra prima di andartene, premile forte.
-lasciami i tuoi impulsi di rabbia, lasciali a me, riempimi di onde convulse.
-lascia che brucino e scottino nelle mie parole, quando te ne sarai andato.
-lascia che ti identifichino nel futuro, attraverso queste canti.
-
-
-
-<span class="atom-split" data-atom="182_adieu_to_a_soldier" data-title="Adieu to a Soldier" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_road,concept/comradeship,concept/war_and_its_cost,concept/heroism,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="182_adieu_to_a_soldier" data-title="Adieu to a Soldier" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: DRUM-TAPS_
@@ -1275,32 +822,9 @@ To fiercer, weightier battles give expression.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
 
 
-Addio, o soldato.
-Tu, che hai vissuto quelle dure campagne militari,  
-Le marce rapide, la vita nel campo,  
-Le aspre battaglie, le lunghe manovre strategiche.
-Battaglie cruenti, emozioni forti e terribili.
-Tu, simbolo di coraggio e virilità.
-Il tempo stesso scorre attraverso di te.
-E tutti quanti, come te, siamo stati invasi dall’essenza della guerra.
-
-Addio caro compagno,  
-La tua missione è stata compiuta, ma io, più incline alla guerra,  
-Io e questa mia “anima ribelle”,  
-Siamo ancora impegnati in battaglia,  
-Su strade sconosciute, circondati da nemici in agguato,  
-Dopo molte sconfitte dure e molte crisi.
-Sempre avanzando, sempre combattendo.
-Ecco qui: per dare vita a battaglie ancora più feroci e decisive.
-
-
-
-<span class="atom-split" data-atom="271_old_war_dreams" data-title="Old War-Dreams" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/death,motif/memory,concept/war_and_its_cost,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="271_old_war_dreams" data-title="Old War-Dreams" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: FROM [[motifs/noon|NOON]] TO STARRY NIGHT_
@@ -1329,29 +853,9 @@ I dream, I dream, I dream.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: DALLA [[motifs/noon|MATTINA]] ALLA NOTTE STELLATA_.
 
 
-Nel mezzo della notte, nel sonno di molti volti angosciati,
-nello sguardo di chi è stato mortalmente ferito (in quel volto indescrivibile),
-nei morti distesi a terra con le braccia aperte,
-sogno, sogno, sogno.
-
-Di scene della [Natura, di campi e [[settings/mountains|montagne]];  
-di cieli così incantevoli dopo una [[motifs/storm|tempesta]], e di notte la [[motifs/moon|luna]] così straordinariamente luminosa,  
-che splende dolcemente su di noi mentre scaviamo le trincee e raccogliamo i materiali.
-Sogno, sogno, sogno.
-
-Da molto tempo sono passati quei volti, quelle trincee, quei campi.
-Là, tra il massacro, procedevo con una calma indifferente, o allontanandomi dai caduti,  
-continuavo la mia strada nel corso del [[motifs/time|tempo]]. Ma ora, di notte, sogno ancora quelle loro figure.
-Sogno, sogno, sogno.
-
-
-
-<span class="atom-split" data-atom="279_ashes_of_soldiers" data-title="Ashes of Soldiers" data-chapter="" data-kind="intro" data-tags="motif/ghosts,motif/comradeship,motif/death,concept/war_and_its_cost,concept/immortality,form/elegy,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="279_ashes_of_soldiers" data-title="Ashes of Soldiers" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SONGS OF PARTING_  
@@ -1418,69 +922,9 @@ For the ashes of all dead soldiers South or North.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: CANZONI DI ADDIO  
 
 
-Ceneri di soldati, del Sud o del Nord.
-Mentre rifletto e mormoro tra me una preghiera,  
-La guerra riprende; ancora una volta vedo le vostre figure,  
-E ancora una volta osservo l’avanzata delle armate.  
-
-Silenziosi come nebbie e vapori,  
-salgono dalle loro tombe nelle trincee,  
-dai cimiteri di tutta la Virginia e del Tennessee,  
-da ogni angolo della bussola, fuori da innumerevoli sepolture.
-In nuvole fluttuanti, in miriadi, o a gruppi di due, tre, o anche singolarmente,  
-viene loro.
-E si radunano silenziosamente intorno a me.  
-
-O trombettieri, ora non suonate alcuna nota;  
-non alla testa della mia cavalleria che sfilata su cavalli veloci,  
-con le sciabole sguainate e scintillanti, i fucili accanto alle gambe, (ah,  
-mie valorosi cavalieri!  
-Miei belli cavalieri dal viso abbronzato. Che vita, che gioia, che [[concepts/pride|orgoglio]],  
-anche tra tutti i pericoli, )  
-
-Né voi suonatori di tamburi, né al risveglio all’[[motifs/dawn|'alba]],  
-né il lungo rullo che allarma il campo, né nemmeno il battito sommesso per i funerali.
-Niente da parte vostra questa volta, o suonatori di tamburi che portate i miei tamburi da guerra.  
-
-Ma a parte questi luoghi, i mercati della ricchezza e le affollate passeggiate,  
-ammetto intorno a me compagni invisibili agli occhi degli altri, silenziosi.
-I caduti, riscattati dalla morte, sembrano vivi di nuovo; la [[motifs/dust|polvere]] e i detriti stesso appaiono animati.
-Canto questa preghiera della mia silenziosa [[motifs/soul|'anima]] in nome di tutti i soldati caduti.  
-
-Voci così pallide, occhi meravigliosi. Miei carissimi, avvicinatevi ancora di più,  
-avvicinatevi, ma non parlate.  
-
-Fantasmi di innumerevoli perduti,  
-invisibili agli occhi degli altri, diventano ora i miei compagni;  
-mi seguono ovunque, e non mi abbandonano finché sono in vita.  
-
-Dolci sono le guance fiorite dei vivi, dolci sono le voci melodiose che risuonano.
-Ma ancora più dolci, ah, molto più dolci, sono i morti con i loro occhi silenziosi.  
-
-Cari compagni, tutto è finito e ormai passato,  
-ma l’[[motifs/love|amore]] non è finito. E quale amore, o compagni!  
-Il profumo dei campi di battaglia si eleva, sovrapponendosi all’odore della morte.  
-
-Perciò profuma la mia canzone, o [[motifs/love|amore]], immortale [[motifs/love|amore]];  
-Dammi il potere di lavare i ricordi di tutti i soldati caduti;  
-Avvolgili, imbalsamarli, coprirli tutti con un tenero [[concepts/pride|orgoglio]].  
-
-Profumo che renda tutto puro e sano,  
-Che trasformi queste ceneri in nutrimento e fioritura;  
-O [[motifs/love|amore]], risolvi ogni problema, rendi tutto fruttuoso con la tua ultima “chimica”.  
-
-Dammi una fonte inesauribile, trasformami in una sorgente.
-Che io esali amore ovunque vada, come una rugiada fresca e persistente.
-Per le ceneri di tutti i soldati caduti, sia a sud che a nord.
-
-
-
-<span class="atom-split" data-atom="285_camps_of_green" data-title="Camps of Green" data-chapter="" data-kind="intro" data-tags="motif/death,motif/sleep,motif/comradeship,motif/grass,concept/war_and_its_cost,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="285_camps_of_green" data-title="Camps of Green" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SONGS OF PARTING_
@@ -1525,36 +969,6 @@ Nor drummer to beat the morning drum.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: CANZONI DI ADDIO
-
-
-Né soli quei campi di vecchi compagni d’armi, bianchi come la neve;
-quando, dopo una lunga marcia, ci avviciniamo all’obiettivo,
-con i piedi doloranti e stanchi, non appena scende la notte ci fermiamo.
-Alcuni di noi, troppo esausti per portare fucile e zaino, si addormentano sul posto;
-altri montano le piccole tende; i fuochi si accendono e iniziano a brillare.
-Posti di guardia vengono allestiti attorno al campo, pronti ad intervenire nel buio;
-si stabilisce un segnale d’identificazione per garantire la sicurezza.
-Fino a quando, all’alba, il suono dei tamburi ci sveglia; ci alziamo riposati,
-la notte e il sonno sono ormai alle spalle, e riprendiamo il nostro [[motifs/journey|viaggio]], o andiamo incontro alla battaglia.
-
-Quei campi di tende verdi,  
-che nei giorni di pace continuano ad essere riempiti, e così anche nei giorni di guerra,  
-da un esercito misterioso, (È forse già stato inviato avanti? O si ferma soltanto per un momento,  
-finché non arrivi la [[motifs/night|notte]] e il [sogno?, )
-
-Ora, in quei campi verdi, nelle loro tende sparse per il mondo,  
-nei genitori, nei bambini, negli uomini, nelle donne, nei vecchi e nei giovani,  
-che dormono sotto il sole, sotto la luna, sereni e silenziosi.
-Ecco il vasto accampamento di tutti, dei corpi militari e dei generali,  
-del Presidente che sovrintende a tutti loro.
-E di ciascuno di noi, soldati. E di tutti coloro che hanno combattuto al nostro fianco.  
-(Lì, senza odio, ci incontriamo tutti.)
-
-Poiché al momento noi soldati ci accampiamo anch'essi nei nostri luoghi, nei campi verdi per il bivacco, non abbiamo bisogno di predisporre avamposti, né di inviare messaggi per i segnali di riconoscimento, né di un tamburino che suoni la tromba del mattino.
-
 
 
 <span class="atom-split" data-atom="299_the_bravest_soldiers" data-title="The Bravest Soldiers" data-chapter="" data-kind="intro" data-tags="cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -1572,17 +986,9 @@ But the bravest press’d to the front and fell, unnamed, unknown.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_
 
 
-Coraggiosi, davvero coraggiosi furono quegli soldati (oggi tanto onorati) che sopravvissero alla battaglia;  
-ma i più coraggiosi si misero in prima linea e caddero, senza nome, sconosciuti.
-
-
-
-<span class="atom-split" data-atom="304_the_wallabout_martyrs" data-title="The Wallabout Martyrs" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/dust,motif/the_grave,concept/nationalism_and_patriotism,concept/war_and_its_cost,form/epigram,form/free_verse,histref/american_civil_war,histref/classical_antiquity,character/odysseus,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="304_the_wallabout_martyrs" data-title="The Wallabout Martyrs" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1599,20 +1005,9 @@ The stepping stones to thee to-day and here, [[settings/america|America]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-Più grande della [[motifs/memory|memoria]] di [[characters/achilles|Achille]] o di [[characters/ulysses|Ulisse]],  
-molto più, di gran lunga, rispetto alla tomba di Alessandro,  
-quei carri pieni di vecchie ceneri funebri, scaglie e ossa marce.
-Un tempo uomini viventi – un tempo animati da [[concepts/courage|coraggio]], [[concepts/aspiration|aspirazioni]], forza.
-Tutto ciò oggi rappresenta per te una strada verso il successo, [[settings/america|America]].
-
-
-
-<span class="atom-split" data-atom="328_true_conquerors" data-title="True Conquerors" data-chapter="" data-kind="intro" data-tags="archetype/wise_old_man,motif/the_sea,motif/swords_weapons,concept/heroism,concept/the_common_man,concept/war_and_its_cost,form/epigram,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="328_true_conquerors" data-title="True Conquerors" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1631,22 +1026,9 @@ True conquerors o’er all the rest.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-Vecchi contadini, viaggiatori, operai (non importa quanto storpi o curvi);  
-vecchi marinai, sopravvissuti a molte pericolose traversate, tempeste e naufragi;  
-vecchi soldati, reduci da campagne militari, con tutte le loro ferite, sconfitte e cicatrici.
-Sono abbastanza quelli che sono riusciti a sopravvivere, coloro la cui vita è stata un percorso inarrestabile!  
-Usciti dalle loro lotte, dalle loro prove, dai loro combattimenti, sono stati capaci di emergere da tutto ciò.
-In quella solitudine,  
-sono i veri conquistatori su tutti gli altri.
-
-
-
-<span class="atom-split" data-atom="336_the_dying_veteran" data-title="The Dying Veteran" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/swords_weapons,motif/fire,concept/war_and_its_cost,concept/mortality,concept/nostalgia,form/dramatic_monologue,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="336_the_dying_veteran" data-title="The Dying Veteran" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: SANDS AT SEVENTY_  
@@ -1677,33 +1059,9 @@ Give me my old wild battle-life again!”
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
 
 
-In mezzo a questi giorni di ordine, tranquillità e prosperità,  
-in mezzo alle canzoni attuali che parlano di bellezza, pace e decoro,  
-risorgono i ricordi, (forse vi offenderà,  
-ma l’ho sentita da ragazzo); più di una generazione fa.
-Un vecchio selvaggio strano, un guerriero che aveva combattuto sotto Washington stesso,  
-grande, coraggioso, pulito, dal sangue caldo, poco loquace, piuttosto incline al misticismo.
-aveva combattuto nelle file dell’esercito rivoluzionario; aveva combattuto bene.
-Giaceva morente, figli, figlie, chierici lo assistevano con affetto,  
-attenzionando attentamente alle sue parole sommesse e difficili da comprendere:  
-“Lasciatemi tornare ai giorni della mia guerra.
-Alle scene di battaglia, alla formazione delle truppe,  
-ai ricognitori che andavano avanti.
-Ai cannoni, all’artiglieria spietata.
-Ai messaggeri che portavano gli ordini.
-Ai feriti, ai caduti, al calore, all’ansia.
-Al profumo intenso, al fumo, al rumore assordante.
-Lasciate perdere la vostra vita di pace, le vostre gioie tranquille!  
-Restituitemi la mia vecchia vita selvaggia e combattiva, ”
-
-
-
-<span class="atom-split" data-atom="360_to_the_pending_year" data-title="To the Pending Year" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/swords_weapons,concept/memory_and_time,concept/satire_of_society,concept/conscience,form/free_verse,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="360_to_the_pending_year" data-title="To the Pending Year" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1723,23 +1081,9 @@ Crouch low thy neck to eleemosynary gifts.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
 
 
-Non ho forse una parola armata da offrirti, un messaggio breve ma deciso?  
-(Ho davvero combattuto e vinto questa battaglia?) Non è rimasto alcun “colpo”  
-per tutte le tue affettazioni, i tuoi sussurri, il tuo disprezzo, tutta la tua stupidità?  
-E nemmeno per me stesso, il mio stesso spirito ribelle che è in te?  
-
-Giù, giù, nobile gola, anche se ti soffoca;  
-la tua barba e la tua fronte nobile finiscono nel canale di scolo;  
-inginocchiati, il tuo collo deve accettare doni pietosi.
-
-
-
-<span class="atom-split" data-atom="364_interpolation_sounds" data-title="Interpolation Sounds" data-chapter="" data-kind="intro" data-tags="motif/death,motif/swords_weapons,motif/music_and_song,concept/war_and_its_cost,form/free_verse,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="364_interpolation_sounds" data-title="Interpolation Sounds" data-chapter="" data-kind="intro"></span>
 
 
 _Cluster: GOOD-BYE MY FANCY_  
@@ -1762,19 +1106,3 @@ The sound of horses’ hoofs departing--saddles, arms, accoutrements.
 
 
 
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Attraverso tutto il rito funebre,  
-l’organo e la solenne cerimonia, il sermone, i preti che si inchinavano.
-Per me, tuttavia, quelle scene sembravano interruzioni inappropriate rispetto al contesto generale.  
-Piuttosto, nella mia mente echeggiavano il rumore improvviso delle battaglie, i suoni cupi e violenti della guerra.
-Il grido del ricognitore che chiamava all’attacco, il generale che montava a cavallo con i suoi aiutanti intorno a lui.
-La notizia appena ricevuta, l’ordine impartito immediatamente.
-Lo sparo dei fucili, il rimbombo dei cannoni, gli uomini che uscivano di corsa dalle loro tende.
-Il clangore della cavalleria, la rapidità con cui si formavano le schiere. Quel suono sottile della tromba.
-Il rumore degli zoccoli dei cavalli che si allontanavano. Selle, armi, equipaggiamenti.

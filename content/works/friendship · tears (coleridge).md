@@ -37,15 +37,15 @@ tags:
 
 Raccolta tematica di 9 componimenti di Samuel Taylor Coleridge.
 
-- [[testi/coleridge/atomized/friendship-tears#213_an_ode_to_the_rain|AN ODE TO THE RAIN]]
-- [[testi/coleridge/atomized/friendship-tears#274_duty_surviving_self-love_the_only_sure_friend_of_declining_life|DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE]]
-- [[testi/coleridge/atomized/friendship-tears#362_lines_to_thomas_poole|LINES TO THOMAS POOLE]]
-- [[testi/coleridge/atomized/friendship-tears#017_on_a_lady_weeping|ON A LADY WEEPING]]
-- [[testi/coleridge/atomized/friendship-tears#335_pondere_non_numero|PONDERE NON NUMERO]]
-- [[testi/coleridge/atomized/friendship-tears#394_profuse_kindness|PROFUSE KINDNESS]]
-- [[testi/coleridge/atomized/friendship-tears#396_the_three_sorts_of_friends|THE THREE SORTS OF FRIENDS]]
-- [[testi/coleridge/atomized/friendship-tears#079_to_a_friend|TO A FRIEND]]
-- [[testi/coleridge/atomized/friendship-tears#124_to_a_friend_charles_lamb_who_had_declared_his_intention_of_writing_no_more_poetr|TO A FRIEND: (CHARLES LAMB) WHO HAD DECLARED HIS INTENTION OF WRITING NO MORE POETRY]]
+- [[works/an-ode-to-the-rain-(coleridge)|AN ODE TO THE RAIN]]
+- [[works/duty-surviving-self-love-the-only-sure-friend-of-declining-life-(coleridge)|DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE]]
+- [[works/lines-to-thomas-poole-(coleridge)|LINES TO THOMAS POOLE]]
+- [[works/on-a-lady-weeping-(coleridge)|ON A LADY WEEPING]]
+- [[works/pondere-non-numero-(coleridge)|PONDERE NON NUMERO]]
+- [[works/profuse-kindness-(coleridge)|PROFUSE KINDNESS]]
+- [[works/the-three-sorts-of-friends-(coleridge)|THE THREE SORTS OF FRIENDS]]
+- [[works/to-a-friend-(coleridge)|TO A FRIEND]]
+- [[works/to-a-friend-charles-lamb-who-had-declared-his-intention-of-writing-no-more-poetry-(coleridge)|TO A FRIEND: (CHARLES LAMB) WHO HAD DECLARED HIS INTENTION OF WRITING NO MORE POETRY]]
 
 ## Testo / Text
 

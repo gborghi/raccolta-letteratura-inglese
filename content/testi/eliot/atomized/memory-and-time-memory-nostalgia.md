@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/memory-and-time-memory-nostalgia" data-author="Eliot" data-workhref="works/memory-and-time-·-memory-·-nostalgia-(eliot)"></div>
 
 
-<span class="atom-split" data-atom="005_rhapsody_on_a_windy_night" data-title="Rhapsody on a Windy Night" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/moon,motif/night,motif/the_city,motif/decay,concept/memory_and_time,concept/spiritual_emptiness,setting/the_modern_metropolis,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+Rhapsody on a Windy Night · Aunt Helen · Burbank with a Baedeker: Bleistein with a Cigar · Lune de Miel · Dans le Restaurant · Whispers of Immortality · Five-Finger Exercises · [A Lyric]: ‘If Time and Space, as Sages say’ · Song: ‘If space and time, as sages say’ · Song: ‘When we came home across the hill’ · Before Morning · Ode
+
+
+
+
+<span class="atom-split" data-atom="005_rhapsody_on_a_windy_night" data-title="Rhapsody on a Windy Night" data-chapter="" data-kind="intro"></span>
 
 
 Rhapsody on a Windy [[motifs/night|Night]]  
@@ -179,7 +184,7 @@ L’ultimo giro del coltello.
 
 
 
-<span class="atom-split" data-atom="008_aunt_helen" data-title="Aunt Helen" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_clock,concept/satire_of_society,concept/mortality,form/epigram,histref/new_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="008_aunt_helen" data-title="Aunt Helen" data-chapter="" data-kind="intro"></span>
 
 
 Aunt [[characters/helen|Helen]]  
@@ -217,7 +222,7 @@ lei che era sempre stata così attenta mentre la padrona viveva.
 
 
 
-<span class="atom-split" data-atom="016_burbank_with_a_baedeker_bleistein_with_a_cigar" data-title="Burbank with a Baedeker: Bleistein with a Cigar" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,motif/ruins,motif/money_gold,motif/decay,concept/satire_of_society,setting/europe,setting/venice,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="016_burbank_with_a_baedeker_bleistein_with_a_cigar" data-title="Burbank with a Baedeker: Bleistein with a Cigar" data-chapter="" data-kind="intro"></span>
 
 
 Burbank with a Baedeker:  
@@ -301,7 +306,7 @@ pensava Burbank, meditando
 
 
 
-<span class="atom-split" data-atom="021_lune_de_miel" data-title="Lune de Miel" data-chapter="" data-kind="intro" data-tags="motif/decay,motif/ruins,concept/marriage_and_fidelity,concept/immortality_of_art,concept/the_grotesque,setting/europe,setting/italy,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="021_lune_de_miel" data-title="Lune de Miel" data-chapter="" data-kind="intro"></span>
 
 
 Lune de Miel  
@@ -349,7 +354,7 @@ nelle sue pietre frananti la forma precisa di Bisanzio.
 
 
 
-<span class="atom-split" data-atom="023_dans_le_restaurant" data-title="Dans le Restaurant" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/death,motif/the_sea,concept/lust,concept/the_grotesque,concept/innocence_and_experience,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="023_dans_le_restaurant" data-title="Dans le Restaurant" data-chapter="" data-kind="intro"></span>
 
 
 Dans le Restaurant  
@@ -423,7 +428,7 @@ eppure, fu un tempo un bell’uomo, d’alta statura.
 
 
 
-<span class="atom-split" data-atom="024_whispers_of_immortality" data-title="Whispers of Immortality" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,motif/desire,concept/mortality,concept/lust,histref/the_renaissance,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="024_whispers_of_immortality" data-title="Whispers of Immortality" data-chapter="" data-kind="intro"></span>
 
 
 Whispers of [[concepts/immortality|Immortality]]  
@@ -501,7 +506,7 @@ per tenere calda la nostra metafisica.
 
 
 
-<span class="atom-split" data-atom="054_five-finger_exercises" data-title="Five-Finger Exercises" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,topos/tempus_fugit,motif/animals,motif/dust,motif/bread_and_wine_eucharist,motif/time,concept/satire_of_society,form/satire,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="054_five-finger_exercises" data-title="Five-Finger Exercises" data-chapter="" data-kind="intro"></span>
 
 
 Five-Finger Exercises  
@@ -679,7 +684,7 @@ Com’è sgradevole incontrare Mr. Eliot!
 
 
 
-<span class="atom-split" data-atom="103_a_lyric_if_time_and_space_as_sages_say" data-title="[A Lyric]: ‘If Time and Space, as Sages say’" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/tempus_fugit,motif/flowers,motif/time,concept/transience,concept/love_romantic,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="103_a_lyric_if_time_and_space_as_sages_say" data-title="[A Lyric]: ‘If Time and Space, as Sages say’" data-chapter="" data-kind="intro"></span>
 
 
 [A [[forms/lyric|Lyric]]]: ‘If [[motifs/time|Time]] and Space, as Sages say’  
@@ -723,7 +728,7 @@ e benché i nostri giorni d’[[motifs/love|amore]] siano pochi
 
 
 
-<span class="atom-split" data-atom="104_song_if_space_and_time_as_sages_say" data-title="Song: ‘If space and time, as sages say’" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/tempus_fugit,motif/flowers,motif/decay,concept/transience,concept/love_romantic,form/song,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="104_song_if_space_and_time_as_sages_say" data-title="Song: ‘If space and time, as sages say’" data-chapter="" data-kind="intro"></span>
 
 
 [[works/song-(poe)|Song]]: ‘If space and [[motifs/time|time]], as sages say’  
@@ -767,7 +772,7 @@ e benché i [[motifs/flowers|fiori]] della vita siano pochi
 
 
 
-<span class="atom-split" data-atom="106_song_when_we_came_home_across_the_hill" data-title="Song: ‘When we came home across the hill’" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/decay,motif/nature,concept/transience,concept/love_romantic,form/song,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="106_song_when_we_came_home_across_the_hill" data-title="Song: ‘When we came home across the hill’" data-chapter="" data-kind="intro"></span>
 
 
 [[works/song-(poe)|Song]]: ‘When we came [[motifs/home|home]] across the [[motifs/hill|hill]]’  
@@ -795,7 +800,7 @@ erano sfiorite, e le [[motifs/leaves|foglie]] erano brune.
 
 
 
-<span class="atom-split" data-atom="107_before_morning" data-title="Before Morning" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/flowers,motif/decay,motif/dawn,concept/transience,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="107_before_morning" data-title="Before Morning" data-chapter="" data-kind="intro"></span>
 
 
 Before Morning  
@@ -823,7 +828,7 @@ fragranza di fioritura e fragranza di [[motifs/decay|sfacelo]],
 
 
 
-<span class="atom-split" data-atom="114_ode" data-title="Ode" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/education,concept/nostalgia,concept/memory_and_time,form/ode,setting/new_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
+<span class="atom-split" data-atom="114_ode" data-title="Ode" data-chapter="" data-kind="intro"></span>
 
 
 Ode  

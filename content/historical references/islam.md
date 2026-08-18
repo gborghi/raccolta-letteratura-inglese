@@ -32,7 +32,7 @@ tags:
 - [[works/misc-(chesterton)|misc (Chesterton)]]
 - [[works/ortho14-(chesterton)|ortho14 (Chesterton)]]
 - [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
-- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#184_mahomet|MAHOMET (Coleridge)]]
+- [[works/mahomet-(coleridge)|MAHOMET (Coleridge)]]
 
 </div>
 

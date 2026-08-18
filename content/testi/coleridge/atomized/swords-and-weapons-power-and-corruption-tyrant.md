@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant" data-author="Coleridge" data-workhref="works/swords-and-weapons-·-power-and-corruption-·-tyrant-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="009_destruction_of_the_bastile" data-title="DESTRUCTION OF THE BASTILE" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,archetype/rebel,motif/storm,concept/reform,concept/power_and_corruption,concept/nationalism_and_patriotism,form/ode,histref/the_french_revolution,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+DESTRUCTION OF THE BASTILE · TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION · LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER · ODE TO THE DEPARTING YEAR · 179 8 FIRE, FAMINE, AND SLAUGHTER · FAMINE. · TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG · ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE · TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE · FRAGMENT OF AN ODE ON NAPOLEON · TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC · NAPOLEON · METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE · FULKE GREVILLE: LORD BROOKE · SAMUEL DANIEL · STOLBERG
+
+
+
+
+<span class="atom-split" data-atom="009_destruction_of_the_bastile" data-title="DESTRUCTION OF THE BASTILE" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -113,7 +118,7 @@ prima sempre fra le prime e più libera fra le libere!   40
 
 
 
-<span class="atom-split" data-atom="064_to_a_young_lady_with_a_poem_on_the_french_revolution" data-title="TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,motif/chains,concept/reform,concept/war_and_its_cost,concept/power_and_corruption,concept/beauty,form/lyric,histref/the_french_revolution,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="064_to_a_young_lady_with_a_poem_on_the_french_revolution" data-title="TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION" data-chapter="" data-kind="intro"></span>
 
 
 Much on my early youth I [[motifs/love|love]] to dwell,  
@@ -213,7 +218,7 @@ Settembre 1794.
 
 
 
-<span class="atom-split" data-atom="095_lines_to_a_friend_in_answer_to_a_melancholy_letter" data-title="LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,archetype/tyrant,motif/time,concept/melancholy,concept/friendship,concept/power_and_corruption,form/lyric,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="095_lines_to_a_friend_in_answer_to_a_melancholy_letter" data-title="LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER" data-chapter="" data-kind="intro"></span>
 
 
 Away, those cloudy looks, that labouring sigh,  
@@ -273,7 +278,7 @@ barattare per cibo i gioielli della sua [[motifs/crown|corona]].
 
 
 
-<span class="atom-split" data-atom="125_ode_to_the_departing_year" data-title="ODE TO THE DEPARTING YEAR" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/blood,concept/war_and_its_cost,concept/providence,concept/nationalism_and_patriotism,form/pindaric_ode,histref/the_french_revolution,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="125_ode_to_the_departing_year" data-title="ODE TO THE DEPARTING YEAR" data-chapter="" data-kind="intro"></span>
 
 
 8¿z 0¿{, b b º±ºq.  
@@ -297,7 +302,7 @@ Eschilo, Agam. 1173-75; 1199-1200.
 
 
 
-<span class="atom-split" data-atom="144_179_8_fire_famine_and_slaughter" data-title="179 8 FIRE, FAMINE, AND SLAUGHTER" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/blood,concept/war_and_its_cost,concept/power_and_corruption,concept/satire_of_society,form/verse_drama,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="144_179_8_fire_famine_and_slaughter" data-title="179 8 FIRE, FAMINE, AND SLAUGHTER" data-chapter="" data-kind="intro"></span>
 
 
 A WAR ECLOGUE
@@ -485,7 +490,7 @@ mi aggrappo a lui eternamente.
 
 
 
-<span class="atom-split" data-atom="145_famine" data-title="FAMINE." data-chapter="" data-kind="intro" data-tags="motif/blood,concept/war_and_its_cost,concept/power_and_corruption,form/fragment,form/verse_drama,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="145_famine" data-title="FAMINE." data-chapter="" data-kind="intro"></span>
 
 
 Then
@@ -559,7 +564,7 @@ M. P.
 
 
 
-<span class="atom-split" data-atom="168_tells_birth-place_imitated_from_stolberg" data-title="TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG" data-chapter="" data-kind="intro" data-tags="archetype/hero,archetype/child,motif/nature,concept/heroism,concept/freedom_and_liberty,concept/faith,form/hymn,form/translation,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="168_tells_birth-place_imitated_from_stolberg" data-title="TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -641,7 +646,7 @@ della [[concepts/slavery|Schiavitù]] —— che egli spezzò!
 
 
 
-<span class="atom-split" data-atom="186_ode_to_georgiana_duchess_of_devonshire" data-title="ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,archetype/hero,concept/economics,concept/freedom_and_liberty,concept/class_conflict,concept/social_injustice,concept/poverty,concept/heroism,form/ode,form/pindaric_ode,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="186_ode_to_georgiana_duchess_of_devonshire" data-title="ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE" data-chapter="" data-kind="intro"></span>
 
 
 ON THE TWENTY-FOURTH STANZA IN HER ‘PASSAGE OVER MOUNT GOTHARD’  
@@ -829,7 +834,7 @@ Di là apprendesti quella misura eroica.
 
 
 
-<span class="atom-split" data-atom="189_talleyrand_minister_of_foreign_affairs_at_paris_to_lord_grenville" data-title="TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE" data-chapter="" data-kind="intro" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/power_and_corruption,concept/deception,form/satire,form/verse_epistle,form/heroic_couplet,histref/napoleonic_wars,histref/the_french_revolution,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="189_talleyrand_minister_of_foreign_affairs_at_paris_to_lord_grenville" data-title="TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE" data-chapter="" data-kind="intro"></span>
 
 
 SECRETARY OF STATE IN GREAT BRITAIN FOR FOREIGN AFFAIRS, AUDITOR OF THE  
@@ -1073,7 +1078,7 @@ di far sosta, e riprendere il resto domani.
 
 
 
-<span class="atom-split" data-atom="386_fragment_of_an_ode_on_napoleon" data-title="FRAGMENT OF AN ODE ON NAPOLEON" data-chapter="" data-kind="intro" data-tags="topos/katabasis_descent,archetype/tyrant,concept/power_and_corruption,concept/love_romantic,form/ode,form/fragment,histref/greek_mythology,histref/napoleonic_wars,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="386_fragment_of_an_ode_on_napoleon" data-title="FRAGMENT OF AN ODE ON NAPOLEON" data-chapter="" data-kind="intro"></span>
 
 
 O’erhung with yew, midway the Muses mount  
@@ -1169,7 +1174,7 @@ Carissima! me, pensiero di lui a te tanto caro!
 
 
 
-<span class="atom-split" data-atom="388_translation_of_the_first_strophe_of_pindars_second_olympic" data-title="TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,concept/heroism,concept/faith_and_doubt,form/pindaric_ode,histref/ancient_greece,histref/greek_mythology,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="388_translation_of_the_first_strophe_of_pindars_second_olympic" data-title="TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC" data-chapter="" data-kind="intro"></span>
 
 
 ‘As nearly as possible word for word.’  
@@ -1235,7 +1240,7 @@ getta sulla sottile nebbia dell’incerto futuro.
 
 
 
-<span class="atom-split" data-atom="395_napoleon" data-title="NAPOLEON" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,motif/sun,concept/power_and_corruption,concept/conscience,concept/grief_and_loss,concept/love_divine,form/fragment,histref/napoleonic_wars,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="395_napoleon" data-title="NAPOLEON" data-chapter="" data-kind="intro"></span>
 
 
 The Sun with gentle beams his rage disguises,  
@@ -1341,7 +1346,7 @@ raccolta P. and D. W., 1877, ii. 373.
 
 
 
-<span class="atom-split" data-atom="400_metrical_experiment_an_experiment_for_a_metre" data-title="METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,motif/wine_and_drink,motif/stars,concept/power_and_corruption,form/fragment,form/ode,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="400_metrical_experiment_an_experiment_for_a_metre" data-title="METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE" data-chapter="" data-kind="intro"></span>
 
 
 I heard a voice pealing loud triumph to-day:  
@@ -1385,7 +1390,7 @@ per la sua profondità, per la sua altezza, la [[concepts/nature|Natura]] giura 
 
 
 
-<span class="atom-split" data-atom="418_fulke_greville_lord_brooke" data-title="FULKE GREVILLE: LORD BROOKE" data-chapter="" data-kind="intro" data-tags="topos/vanitas,topos/contemptus_mundi,archetype/tyrant,concept/pride,concept/power_and_corruption,concept/faith,form/epigram,histref/napoleonic_wars,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="418_fulke_greville_lord_brooke" data-title="FULKE GREVILLE: LORD BROOKE" data-chapter="" data-kind="intro"></span>
 
 
 God and the World they worship still together,  
@@ -1489,7 +1494,7 @@ Athenæum, 25 aprile 1903, p. 531.
 
 
 
-<span class="atom-split" data-atom="427_samuel_daniel" data-title="SAMUEL DANIEL" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/justice,concept/kingship_and_legitimacy,concept/order_vs_chaos,concept/war_and_its_cost,histref/king_alfred,character/king_alfred,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="427_samuel_daniel" data-title="SAMUEL DANIEL" data-chapter="" data-kind="intro"></span>
 
 
 EPISTLE TO SIR THOMAS EGERTON, KNIGHT  
@@ -1605,7 +1610,7 @@ Coleridge nel 1837.
 
 
 
-<span class="atom-split" data-atom="436_stolberg" data-title="STOLBERG" data-chapter="" data-kind="intro" data-tags="archetype/hero,archetype/rebel,motif/blood,concept/nationalism_and_patriotism,concept/heroism,concept/providence,form/ballad,cluster/swords_and_weapons,cluster/power_and_corruption,cluster/tyrant"></span>
+<span class="atom-split" data-atom="436_stolberg" data-title="STOLBERG" data-chapter="" data-kind="intro"></span>
 
 
 BEI WILHELM TELLS GEBURTSSTÄTTE IM KANTON URI  

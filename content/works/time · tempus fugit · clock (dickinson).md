@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Miss Maria Whitney, October, 1883](/testi/dickinson/atomized/time-tempus-fugit-clock#l0334_miss_maria_whitney_october_1883)
+- [To Miss Maria Whitney, October, 1883](/testi/dickinson/atomized/time-tempus-fugit-clock--letters#s_maria_whitney_october_1883)
 

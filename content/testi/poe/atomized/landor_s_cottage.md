@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="landor_s_cottage" data-title="Landor's Cottage" data-chapter="" data-kind="intro"></span>
 
-# [[works/landor's-cottage-(poe)|Landor's Cottage]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

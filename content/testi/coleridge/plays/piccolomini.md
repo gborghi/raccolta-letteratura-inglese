@@ -17,6 +17,10 @@ tags:
 Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thirty Years' War: the general Wallenstein's growing rebellion against his Emperor, with intrigue, ambition, loyalty and fate; a historical verse tragedy.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Traduzione in versi sciolti di Coleridge del *Wallenstein* I di Schiller, ambientata nella Guerra dei Trent'anni: la crescente ribellione del generale Wallenstein contro il suo Imperatore, con intrighi, ambizione, lealtà e fato; una tragedia storica in versi.
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1" data-title="THE PICCOLOMINI — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/hero,motif/home,motif/horse,motif/noon,motif/time,motif/well,concept/fear,concept/honour,concept/hope"></span>

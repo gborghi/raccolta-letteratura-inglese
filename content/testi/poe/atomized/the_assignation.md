@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_assignation" data-title="The Assignation" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-assignation-(poe)|The Assignation]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

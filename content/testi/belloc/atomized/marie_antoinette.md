@@ -99,7 +99,7 @@ The business, then, of this book is not to recount from yet another aspect that 
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XX. WATTIGNIES
+# CAPITOLO XX. WATTIGNIES
 
 Prefazione agli appendici
 
@@ -161,7 +161,7 @@ Their religion indeed they preserved. The attempt to force upon the French doctr
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO I. LA RIVOLUZIONE DIPLOMATICA
+# CAPITOLO I. LA RIVOLUZIONE DIPLOMATICA
 
 L’Europa, che porta in sé il destino di tutto il mondo, conduce una vita che si contrappone a quella di tutte le altre regioni; questa vita, infatti, sebbene intensa, è inesauribile. Pertanto, nella sua storia unitaria esiste una duplice funzione: da un lato, quella di preservare la tradizione e i valori antichi; dall’altro, quella di cambiare continuamente, non attraverso la semplice imitazione di modelli stranieri, ma in modo creativo e interno. Solo l’Europa, tra tutti i gruppi umani, è in grado di trasformarsi incessantemente.
 
@@ -345,7 +345,7 @@ In tale stato d’animo prese in carico l’Ambasciata austriaca a [[settings/pa
 
 [[characters/maria-theresa|Maria Teresa]]
 
-Dalla tappezzeria ritratta per Maria Antonietta e recentemente restaurata
+# Dalla tappezzeria ritratta per Maria Antonietta e recentemente restaurata
 
 A Versailles
 
@@ -441,7 +441,7 @@ By All-Hallow’een the heralds had accomplished their mission, the Court had re
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO II. NASCITA E INFANZIA
+# CAPITOLO II. NASCITA E INFANZIA
 
 Dal 2 novembre 1755 all’autunno del 1768
 
@@ -697,7 +697,7 @@ To such a character was presented an exuberant child, growing rapidly, vivacious
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO III. I MATRIMONI
+#CAPITOLO III. I MATRIMONI
 
 I rapporti quindicinali dalla [[settings/france|Francia]] arrivavano solitamente a Vienna tutti insieme, in un unico pacco e affidati allo stesso corriere. L’Imperatrice riceveva così contemporaneamente le lettere di Mercy, la corrispondenza ufficiale, forse anche una nota di un amico, nonché quelle molto rare provenienti dalla famiglia reale. Nello stesso lotto che portò a suo figlio quella decisiva lettera di Luigi XV, quindi, nello stesso giorno in cui finalmente poté essere certa del futuro di sua figlia, arrivò anche il solito rapporto segreto di Mercy. Questo documento conteneva una frase troppo insignificante per attirare la sua attenzione; menzionava solo la voce di un’ nuova intrighetta: il Re mostrava interesse per una donna di umili origini che gli era vicina; un interesse che poteva diventare permanente. Questa notizia fu immediatamente dimenticata da [[characters/maria-theresa|Maria Teresa]]; si trattava semplicemente di un dettaglio che le passò di mente. Forse ricordò il nome di quella donna: “Du Barry”.
 
@@ -943,7 +943,7 @@ The official limit of [[settings/paris|Paris]] upon the west — in those days �
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO IV. IL DU BARRY
+#CAPITOLO IV. IL DU BARRY
 
 La presenza della Du Barry alla Corte di Versailles, il fatto che questa presenza precedesse l’arrivo della bambina austriaca, che fu per la prima volta ammessa pubblicamente durante la prima apparizione ufficiale della Delfina, e che i quattro anni del suo insegnamento furono oscurati dalla nuova favorita reale, rappresentarono il disastro iniziale e irreparabile nella vita di Maria Antonietta. Questo influenzò profondamente la sua visione del paese e della famiglia con cui ora doveva interagire; colpì duramente il popolo che avrebbe cercato di governare; offuscò, distorse e deviò la sua percezione della [[settings/france|Francia]] in un momento dell’adolescenza in cui questa visione è più acuta e i giudizi formatisi su di essa diventano più permanenti. Tutta la tragedia della Regina fu determinata da questo primo, insignificante e licenzioso influsso di quella donna.
 
@@ -1061,9 +1061,9 @@ She knew now what this official place was which the Favourite held. Her disgust 
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO V. LA DOPPIANA
+## CAPITOLO V. LA DOPPIANA
 
-Mercoledì 16 maggio 1770 – Martedì 10 maggio 1774
+# Mercoledì 16 maggio 1770 – Martedì 10 maggio 1774
 
 Quando il finto matrimonio fu finito e la notte trascorse, e quando, con l’alba di giovedì, iniziò quella lunga routine che avrebbe dovuto diventare la sua vita, la bambina poté osservare, con meno eccitazione e meno illusioni, la natura di quel nuovo mondo. La sua vivacità non diminuì, ma il suo spirito assunse immediatamente un atteggiamento di attenta osservazione verso quelle emozioni e convenzioni le cui dinamiche generali lei non riusciva affatto a comprendere. Ogni giorno, gli eventi che si svolgevano davanti ai suoi occhi la turbavano profondamente; solo la loro ripetizione le permise di abituarvisi gradualmente.
 
@@ -1415,7 +1415,7 @@ Now that conjecture was, as the future showed, erroneous. A very careful, scepti
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VI. I TRE ANNI
+#CAPITOLO VI. I TRE ANNI
 
 Martedì 10 maggio 1774 fino a Domenica di Pasqua, 19 aprile 1778
 
@@ -2217,7 +2217,7 @@ All these things she had forgotten before the winter closed upon her and her hou
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VII. I BAMBINI
+#CAPITOLO VII. I BAMBINI
 
 Domenica di Pasqua, 19 aprile 1778, fino a lunedì, 22 ottobre 1781
 
@@ -2491,7 +2491,7 @@ All men are chafed, and that perpetually, by what they know of their own defects
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO VIII. FIGARO
+# CAPITOLO VIII. FIGARO
 
 Lunedì 22 ottobre 1781 – 27 aprile 1784
 
@@ -2873,7 +2873,7 @@ He in his turn wrote — constantly. To the letters the La Motte showed him — 
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO IX. IL COLLIER DI DIAMETRI
+# CAPITOLO IX. IL COLLIER DI DIAMETRI
 
 Dal 27 aprile 1784 al 15 agosto 1785
 
@@ -3047,13 +3047,13 @@ Her undue influence over the King and the councils of the King was another legen
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ritratto in busto del Duca di Normandia, secondo Delfino
+# Ritratto in busto del Duca di Normandia, secondo Delfino
 
 A volte chiamato Luigi XVII, morì nel tempio
 
-Questa statua fu distrutta durante il crollo del palazzo
+#Questa statua fu distrutta durante il crollo del palazzo
 
-Recuperato e ripristinato recentemente a Versailles
+# Recuperato e ripristinato recentemente a Versailles
 
 Il nome La Motte era ormai noto – solo tra la gente comune e non alla Corte – per colui che poteva fare molto. Bassange, attraverso un amico, venne a sapere dei La Motte, in particolare di Madame de La Motte. Inviò l’amico a verificare se fosse possibile vendere quel suo costoso collare in quella zona. Madame de La Motte rispose saggiamente che avrebbe dovuto vedere personalmente i gioielli, uno o due giorni dopo Natale. Li esaminò e li tenne con sé per tre settimane. Il 21 gennaio 1785 – una data già menzionata in questa storia e che tornerà ad apparire – le inviarono un messaggio: la Regina avrebbe acquistato i gioielli, ma (come al solito) un “nobile importante” avrebbe agito da intermediario. Il 24 gennaio, a pieno giorno, quel nobile si presentò per concludere l’accordo. Quell’atto insignificante, in seguito, avrebbe avuto conseguenze enormi. Fu il Cardinale de Rohan ad intervenire: esaminò i gioielli, negoziò e concordò quattro pagamenti di 16.000 sterline ciascuno, da effettuare ogni sei mesi, con la prima rata prevista per il 1° agosto. Richiese inoltre che i gioielli venissero consegnati entro il 1° febbraio. Quel giorno stesso, i gioiellieri portarono i preziosi nel suo grandioso palazzo nel Marais; lui, allora, rivelò loro chi fosse il vero acquirente: la Regina stessa.
 
@@ -3203,9 +3203,9 @@ Madame de La Motte was arrested three days after the Cardinal, in the early hour
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO X. I PERSONAGGI NOTABILI
+# CAPITOLO X. I PERSONAGGI NOTABILI
 
-Dal 15 agosto 1785 all’8 agosto 1788
+# Dal 15 agosto 1785 all’8 agosto 1788
 
 Per la Regina, la decisione di mandare il Cardinale al processo rappresentava un atto definitivo. La cosa era stata fatta, e, in realtà, quasi completata.
 
@@ -3455,7 +3455,7 @@ I Notabili non avevano fatto nulla, e lo stesso Loménie procedette più o meno 
 
 I Notabili se n'erano andati; ma per registrare tali decreti era necessaria l'approvazione di un potere paragonabile a quello del Trono – come abbiamo visto nel caso di Turgot. L’organo permanente di consiglieri legali del Principe, un concetto vecchio quanto Roma e moralmente in continuità con l’Impero, l’organo che aveva già esaminato il caso di Rohan, il Parlamento, sostenendo l’assenza di un bilancio regolare e di una discussione pubblica, rifiutò di registrare tali decreti. Entro tre mesi dall’insediamento di Loménie de Brienne, il Parlamento, in sessione, partì dal famoso gioco di parole di Sabattier per affermare che nessuna imposta permanente poteva essere riscossa sul popolo senza l’invito e il consenso degli Stati Generali.
 
-8. “Chiedete lo stato delle entrate… Questi sono i bilanci generali di cui abbiamo bisogno.”
+# 8. “Chiedete lo stato delle entrate… Questi sono i bilanci generali di cui abbiamo bisogno.”
 
 Il lettore dovrebbe soffermarsi su quella frase.
 
@@ -3605,9 +3605,9 @@ There is a third kind, and to this third kind Marie Antoinette belonged — as m
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XI. LA BASTILIA
+#CAPITOLO XI. LA BASTILIA
 
-8 agosto 1788 – 30 settembre 1789
+# 8 agosto 1788 – 30 settembre 1789
 
 La decisione era stata presa. Con l’insediamento degli Stati Generali, la [[settings/france|Francia]] sembrava rinascere. Era arrivato l’autunno del 1788. Fersen era al fianco della Regina.
 

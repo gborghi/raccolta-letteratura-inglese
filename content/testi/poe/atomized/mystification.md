@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="mystification" data-title="Mystification" data-chapter="" data-kind="intro"></span>
 
-# [[works/mystification-(poe)|Mystification]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

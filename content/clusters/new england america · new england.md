@@ -16,11 +16,11 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#1407_a_field_of_stubble_lying_sere|1407. A Field of Stubble, lying sere (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0215_what_is_paradise|215. What is — Paradise — (Dickinson)]]
-- [[testi/dickinson/atomized/nature-book-of-nature-natural-order#0285_the_robins_my_criterion_for_tune|285. The Robin's my Criterion for Tune — (Dickinson)]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#009_cousin_nancy|Cousin Nancy (Eliot)]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#055_landscapes|Landscapes (Eliot)]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#007_the_boston_evening_transcript|The Boston Evening Transcript (Eliot)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order--poems#field_of_stubble_lying_sere|1407. A Field of Stubble, lying sere (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order--poems#at_is_paradise|215. What is — Paradise — (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order--poems#e_robins_my_criterion_for_tune|285. The Robin's my Criterion for Tune — (Dickinson)]]
+- [[works/cousin-nancy-(eliot)|Cousin Nancy (Eliot)]]
+- [[works/landscapes-(eliot)|Landscapes (Eliot)]]
+- [[works/the-boston-evening-transcript-(eliot)|The Boston Evening Transcript (Eliot)]]
 
 </div>

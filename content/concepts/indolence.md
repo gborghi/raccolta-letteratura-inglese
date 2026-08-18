@@ -16,7 +16,7 @@ tags:
 
 - [[works/artist-(chesterton)|artist (Chesterton)]]
 - [[works/on-lying-in-bed-(chesterton)|On Lying In Bed (Chesterton)]]
-- [[testi/keats/atomized/satire-of-society-epigram-satire#119_ode_on_indolence|Ode on Indolence (Keats)]]
+- [[works/ode-on-indolence-(keats)|Ode on Indolence (Keats)]]
 
 </div>
 

@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mrs. F.S. Cooper](/testi/dickinson/atomized/alienation-outsider-exile#l0429_mrs_fs_cooper)
+- [To Mrs. F.S. Cooper](/testi/dickinson/atomized/alienation-outsider-exile--letters#_fs_cooper)
 

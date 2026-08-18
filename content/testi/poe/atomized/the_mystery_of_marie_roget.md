@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_mystery_of_marie_roget" data-title="The Mystery of Marie Roget" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-mystery-of-marie-roget-(poe)|The Mystery of Marie Roget]]
+
 
 
 

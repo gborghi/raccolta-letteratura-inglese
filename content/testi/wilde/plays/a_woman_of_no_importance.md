@@ -1,5 +1,5 @@
 ---
-title: "A Woman of No Importance"
+title: "A Woman of No Importance — Act 1 [1]"
 author: "Wilde"
 unitType: work
 parentWork: "works/a-woman-of-no-importance-(wilde)"
@@ -50,6 +50,35 @@ PLACE: The Shires.
 The action of the play takes place within twenty-four hours.
 
 The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the first actor to play the part of [[characters/lord-illingworth|Lord Illingworth]].
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--part_01(cf-2)" data-title="A Woman of No Importance — Act 1 [1]" data-chapter="" data-kind="intro"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | SCENE<br>Lawn in front of the terrace at Hunstanton. |
+| *(didascalia)* | [SIR JOHN and LADY CAROLINE PONTEFRACT, MISS WORSLEY, on chairs under large yew tree.] |
+| LADY CAROLINE | I believe this is the first English country house you have stayed at, Miss Worsley? |
+| HESTER | Yes, Lady Caroline. |
+| LADY CAROLINE | You have no country houses, I am told, in [[settings/america\|America]]? |
+| HESTER | We have not many. |
+| LADY CAROLINE | Have you any country? What we should call country? |
+| HESTER | [Smiling.] We have the largest country in the world, Lady Caroline. They used to tell us at school that some of our states are as big as France and England put together. |
+| LADY CAROLINE | Ah! you must find it very draughty, I should fancy. [To SIR JOHN.] John, you should have your muffler. What is the use of my always knitting mufflers for you if you won’t wear them? |
+| SIR JOHN | I am quite warm, Caroline, I assure you. |
+| LADY CAROLINE | I think not, John. [[motifs/well\|Well]], you couldn’t come to a more charming place than this, Miss Worsley, though the house is excessively damp, quite unpardonably damp, and dear [[characters/lady-hunstanton\|Lady Hunstanton]] is sometimes a little lax about the people she asks down here. [To SIR JOHN.] Jane mixes too much. [[characters/lord-illingworth\|Lord Illingworth]], of course, is a man of high distinction. It is a privilege to meet him. And that member of Parliament, Mr. Kettle - |
+| SIR JOHN | Kelvil, my [[motifs/love\|love]], Kelvil. |
+| LADY CAROLINE | He must be quite respectable. One has never heard his name before in the whole course of one’s life, which speaks volumes for a man, nowadays. But Mrs. Allonby is hardly a very suitable person. |
+| HESTER | I dislike Mrs. Allonby. I dislike her more than I can say. |
+| LADY CAROLINE | I am not sure, Miss Worsley, that foreigners like yourself should cultivate likes or dislikes about the people they are invited to meet. Mrs. Allonby is very [[motifs/well\|well]] born. She is a niece of Lord Brancaster’s. It is said, of course, that she ran away twice before she was married. But you know how unfair people often are. I myself don’t believe she ran away more than once. |
+| HESTER | Mr. Arbuthnot is very charming. |
+| LADY CAROLINE | Ah, yes! the young man who has a post in a bank. [[characters/lady-hunstanton\|Lady Hunstanton]] is most kind in asking him here, and [[characters/lord-illingworth\|Lord Illingworth]] seems to have taken quite a fancy to him. I am not sure, however, that Jane is right in taking him out of his position. In my young days, Miss Worsley, one never met any one in society who worked for their living. It was not considered the thing. |
+| HESTER | In [[settings/america\|America]] those are the people we respect most. |
+| LADY CAROLINE | I have no [[concepts/doubt\|doubt]] of it. |
+| HESTER | Mr. Arbuthnot has a beautiful [[concepts/nature\|nature]]! He is so simple, so sincere. He has one of the most beautiful natures I have ever come across. It is a privilege to meet HIM. |
 
 
 

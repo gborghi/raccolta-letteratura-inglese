@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_bravoes_of_market_drayton" data-title="THE BRAVOES OF MARKET-DRAYTON" data-chapter="" data-kind="intro"></span>
 
-# THE BRAVOES OF MARKET-DRAYTON
+
 
 <span class="qlang-split" data-lang="it"></span>
 

@@ -12,7 +12,7 @@ tags:
 
 <span class="atom-split" data-atom="the_oblong_box" data-title="The Oblong Box" data-chapter="" data-kind="intro"></span>
 
-# The Oblong Box
+
 
 <span class="qlang-split" data-lang="it"></span>
 

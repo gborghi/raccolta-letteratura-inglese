@@ -37,19 +37,19 @@ tags:
 
 Raccolta tematica di 13 componimenti di Walt Whitman.
 
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#145_from_paumanok_starting_i_fly_like_a_bird|From Paumanok Starting I Fly Like a Bird]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#225_italian_music_in_dakota|Italian Music in Dakota]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#302_my_canary_bird|My Canary Bird]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#319_of_that_blithe_throat_of_thine|Of That Blithe Throat of Thine]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#032_one_hour_to_madness_and_joy|One Hour to Madness and Joy]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#229_proud_music_of_the_storm|Proud Music of the Storm]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#190_reversals|Reversals]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#243_that_music_always_round_me|That Music Always Round Me]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#125_the_dalliance_of_the_eagles|The Dalliance of the Eagles]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#222_the_ox_tamer|The Ox-Tamer]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#105_to_the_man_of_war_bird|To the Man-of-War-Bird]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#204_vocalism|Vocalism]]
-- [[testi/whitman/atomized/birds-music-and-song-nightingale#224_wandering_at_morn|Wandering at Morn]]
+- [[works/from-paumanok-starting-i-fly-like-a-bird-(whitman)|From Paumanok Starting I Fly Like a Bird]]
+- [[works/italian-music-in-dakota-(whitman)|Italian Music in Dakota]]
+- [[works/my-canary-bird-(whitman)|My Canary Bird]]
+- [[works/of-that-blithe-throat-of-thine-(whitman)|Of That Blithe Throat of Thine]]
+- [[works/one-hour-to-madness-and-joy-(whitman)|One Hour to Madness and Joy]]
+- [[works/proud-music-of-the-storm-(whitman)|Proud Music of the Storm]]
+- [[works/reversals-(whitman)|Reversals]]
+- [[works/that-music-always-round-me-(whitman)|That Music Always Round Me]]
+- [[works/the-dalliance-of-the-eagles-(whitman)|The Dalliance of the Eagles]]
+- [[works/the-ox-tamer-(whitman)|The Ox-Tamer]]
+- [[works/to-the-man-of-war-bird-(whitman)|To the Man-of-War-Bird]]
+- [[works/vocalism-(whitman)|Vocalism]]
+- [[works/wandering-at-morn-(whitman)|Wandering at Morn]]
 
 ## Testo / Text
 

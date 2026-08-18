@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_man_of_the_crowd" data-title="The Man of the Crowd" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-man-of-the-crowd-(poe)|The Man of the Crowd]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

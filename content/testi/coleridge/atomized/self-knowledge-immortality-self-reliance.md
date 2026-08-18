@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/self-knowledge-immortality-self-reliance" data-author="Coleridge" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="036_a_fragment_found_in_a_lecture-room" data-title="A FRAGMENT FOUND IN A LECTURE-ROOM" data-chapter="" data-kind="intro" data-tags="motif/river,concept/education,concept/imagination,form/fragment,form/satire,histref/greek_mythology,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+A FRAGMENT FOUND IN A LECTURE-ROOM · TO THE AUTHOR OF POEMS · THE SNOW-DROP · SNOW DROP. · THE PAINS OF SLEEP · PSYCHE · NATURE’S ANSWER · HUMAN LIFE · SELF-KNOWLEDGE · ON DONNE’S POEM ‘TO A FLEA · OF HUMANE LEARNING · SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL · DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM · MUSOPHILUS
+
+
+
+
+<span class="atom-split" data-atom="036_a_fragment_found_in_a_lecture-room" data-title="A FRAGMENT FOUND IN A LECTURE-ROOM" data-chapter="" data-kind="intro"></span>
 
 
 Where deep in mud Cam rolls his slumbrous stream,  
@@ -53,7 +58,7 @@ poi sbadiglia propizia un sorriso gelido. . . .
 
 
 
-<span class="atom-split" data-atom="105_to_the_author_of_poems" data-title="TO THE AUTHOR OF POEMS" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/nature,concept/the_artist_and_society,concept/immortality_of_art,form/lyric,form/allegory,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="105_to_the_author_of_poems" data-title="TO THE AUTHOR OF POEMS" data-chapter="" data-kind="intro"></span>
 
 
 JOSEPH COTTLE PUBLISHED ANONYMOUSLY AT BRISTOL IN SEPTEMBER 1795  
@@ -157,7 +162,7 @@ di frutti e [[motifs/flowers|fiori]] ella carica il suolo onorato dalla tempesta
 
 
 
-<span class="atom-split" data-atom="198_the_snow-drop" data-title="THE SNOW-DROP" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/flowers,motif/winter,motif/the_supernatural,motif/music_and_song,concept/immortality_of_art,concept/transience,form/lyric,histref/greek_mythology,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="198_the_snow-drop" data-title="THE SNOW-DROP" data-chapter="" data-kind="intro"></span>
 
 
 1  
@@ -313,7 +318,7 @@ coi barlumi tornanti della Giovinezza.
 
 
 
-<span class="atom-split" data-atom="199_snow_drop" data-title="SNOW DROP." data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/flowers,motif/winter,concept/immortality_of_art,concept/transience,form/lyric,form/fragment,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="199_snow_drop" data-title="SNOW DROP." data-chapter="" data-kind="intro"></span>
 
 
 To the Editor of the Morning Post.  
@@ -427,7 +432,7 @@ MS. cancellato.
 
 
 
-<span class="atom-split" data-atom="218_the_pains_of_sleep" data-title="THE PAINS OF SLEEP" data-chapter="" data-kind="intro" data-tags="motif/sleep,motif/dreams,motif/prayer,concept/guilt,concept/conscience,concept/terror_and_horror,concept/faith,concept/sin_and_the_fall,concept/grace_and_redemption,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="218_the_pains_of_sleep" data-title="THE PAINS OF SLEEP" data-chapter="" data-kind="intro"></span>
 
 
 Ere on my bed my limbs I lay,  
@@ -543,7 +548,7 @@ e chi [[motifs/love|amo]], lo [[motifs/love|amo]] davvero.
 
 
 
-<span class="atom-split" data-atom="236_psyche" data-title="PSYCHE" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/self_and_soul,concept/mortality,concept/immortality,form/epigram,histref/greek_mythology,histref/classical_antiquity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="236_psyche" data-title="PSYCHE" data-chapter="" data-kind="intro"></span>
 
 
 The butterfly the ancient Grecians made  
@@ -569,7 +574,7 @@ e deformare e uccidere le cose di cui ci nutriamo.
 
 
 
-<span class="atom-split" data-atom="247_natures_answer" data-title="NATURE’S ANSWER" data-chapter="" data-kind="intro" data-tags="concept/conscience,concept/guilt,concept/innocence_and_experience,concept/sin_and_the_fall,concept/mortality,concept/disillusionment,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="247_natures_answer" data-title="NATURE’S ANSWER" data-chapter="" data-kind="intro"></span>
 
 
 Is’t returned, as ‘twas sent? Is’t no worse for the wear?   5  
@@ -595,7 +600,7 @@ Poi muori — se osi morire!
 
 
 
-<span class="atom-split" data-atom="253_human_life" data-title="HUMAN LIFE" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/ghosts,concept/mortality,concept/immortality,concept/self_and_soul,concept/doubt,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="253_human_life" data-title="HUMAN LIFE" data-chapter="" data-kind="intro"></span>
 
 
 -ON THE DENIAL OF [[concepts/immortality|IMMORTALITY]]  
@@ -667,7 +672,7 @@ l’essere del tuo essere è contraddizione.
 
 
 
-<span class="atom-split" data-atom="298_self-knowledge" data-title="SELF-KNOWLEDGE" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/identity,concept/humility,concept/mortality,concept/faith,histref/classical_antiquity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="298_self-knowledge" data-title="SELF-KNOWLEDGE" data-chapter="" data-kind="intro"></span>
 
 
 E coelo descendit ³½ö¸¹ Ãµ±ÅÄy½. — JUVENAL, xi. 27.  
@@ -701,7 +706,7 @@ ignora te stesso, e sfòrzati di conoscere il tuo Dio!   10
 
 
 
-<span class="atom-split" data-atom="369_on_donnes_poem_to_a_flea" data-title="ON DONNE’S POEM ‘TO A FLEA" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/animals,concept/satire_of_society,concept/immortality_of_art,concept/identity,form/parody,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="369_on_donnes_poem_to_a_flea" data-title="ON DONNE’S POEM ‘TO A FLEA" data-chapter="" data-kind="intro"></span>
 
 
 Be proud as Spaniards! Leap for [[concepts/pride|pride]] ye Fleas!  
@@ -851,7 +856,7 @@ raccolta in P. and D. W., 1877, ii. 370.
 
 
 
-<span class="atom-split" data-atom="419_of_humane_learning" data-title="OF HUMANE LEARNING" data-chapter="" data-kind="intro" data-tags="concept/education,concept/faith,concept/truth,concept/justice,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="419_of_humane_learning" data-title="OF HUMANE LEARNING" data-chapter="" data-kind="intro"></span>
 
 
 STANZA CLX  
@@ -887,7 +892,7 @@ La [[concepts/faith|Fede]] vive solo dove la [[concepts/faith|fede]] genera.
 
 
 
-<span class="atom-split" data-atom="420_sir_john_davies_on_the_immortality_of_the_soul" data-title="SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL" data-chapter="" data-kind="intro" data-tags="motif/fire,concept/self_and_soul,concept/immortality,concept/imagination,concept/faith,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="420_sir_john_davies_on_the_immortality_of_the_soul" data-title="SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL" data-chapter="" data-kind="intro"></span>
 
 
 (Sect. iv. Stanzas 12-14.)  
@@ -945,7 +950,7 @@ alterazione fu notata per la prima volta nel 1847.
 
 
 
-<span class="atom-split" data-atom="421_donne_eclogue_on_unworthy_wisdom" data-title="DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,topos/contemptus_mundi,motif/the_book,concept/faith,form/fragment,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="421_donne_eclogue_on_unworthy_wisdom" data-title="DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM" data-chapter="" data-kind="intro"></span>
 
 
 So reclused Hermits oftentimes do know  
@@ -977,7 +982,7 @@ curata da H. N. Coleridge nel 1837.
 
 
 
-<span class="atom-split" data-atom="428_musophilus" data-title="MUSOPHILUS" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/letters_writing,motif/the_book,concept/immortality_of_art,concept/education,concept/order_vs_chaos,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="428_musophilus" data-title="MUSOPHILUS" data-chapter="" data-kind="intro"></span>
 
 
 STANZA CXLVII.  

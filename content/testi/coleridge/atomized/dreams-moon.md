@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/dreams-moon" data-author="Coleridge" data-workhref="works/dreams-·-moon-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="003_sonnet_to_the_autumnal_moon" data-title="SONNET: TO THE AUTUMNAL MOON" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/night,motif/light_and_dark,motif/autumn,concept/melancholy,concept/imagination,form/sonnet,cluster/dreams,cluster/moon"></span>
+SONNET: TO THE AUTUMNAL MOON · TO THE EVENING STAR · SOMETHING CHILDISH, BUT VERY NATURAL · A DAY-DREAM · THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE · PHANTOM · THE NIGHT-SCENE · PHANTOM OR FACT: A DIALOGUE IN VERSE · ON THE CURIOUS CIRCUMSTANCE · EPITAPH: ON HIMSELF · OVER MY COTTAGE · DES KNABEN WUNDERHORN
+
+
+
+
+<span class="atom-split" data-atom="003_sonnet_to_the_autumnal_moon" data-title="SONNET: TO THE AUTUMNAL MOON" data-chapter="" data-kind="intro"></span>
 
 
 Mild Splendour of the various-vested [[motifs/night|Night]]!  
@@ -51,7 +56,7 @@ veleggia, come meteora che s’accende nel volo.
 
 
 
-<span class="atom-split" data-atom="015_to_the_evening_star" data-title="TO THE EVENING STAR" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,concept/love_romantic,concept/immortality,concept/beauty,form/sonnet,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="015_to_the_evening_star" data-title="TO THE EVENING STAR" data-chapter="" data-kind="intro"></span>
 
 
 O meek attendant of Sol’s setting blaze,  
@@ -91,7 +96,7 @@ il suo spirito al tuo orbe fraterno, o Stella benigna!
 
 
 
-<span class="atom-split" data-atom="173_something_childish_but_very_natural" data-title="SOMETHING CHILDISH, BUT VERY NATURAL" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/sleep,motif/birds,concept/love_romantic,concept/exile,form/lyric,setting/europe,setting/germany,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="173_something_childish_but_very_natural" data-title="SOMETHING CHILDISH, BUT VERY NATURAL" data-chapter="" data-kind="intro"></span>
 
 
 WRITTEN IN [[settings/germany|GERMANY]]  
@@ -135,7 +140,7 @@ e si séguita a [[motifs/dreams|sognare]].    15
 
 
 
-<span class="atom-split" data-atom="214_a_day-dream" data-title="A DAY-DREAM" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/garden,motif/rose,motif/moon,motif/fire,concept/love_romantic,concept/imagination,concept/memory_and_time,form/lyric,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="214_a_day-dream" data-title="A DAY-DREAM" data-chapter="" data-kind="intro"></span>
 
 
 My eyes make pictures, when they are shut:  
@@ -219,7 +224,7 @@ mormoratelo fra voi, o due donne amate!
 
 
 
-<span class="atom-split" data-atom="216_the_day-dream_from_an_emigrant_to_his_absent_wife" data-title="THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/childhood,concept/love_romantic,concept/exile,concept/marriage_and_fidelity,concept/grief_and_loss,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="216_the_day-dream_from_an_emigrant_to_his_absent_wife" data-title="THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE" data-chapter="" data-kind="intro"></span>
 
 
 If thou wert here, these [[motifs/tears|tears]] were [[motifs/tears|tears]] of light!  
@@ -291,7 +296,7 @@ Lo benedissi, tentai di ridere, e mi misi a piangere!   30
 
 
 
-<span class="atom-split" data-atom="223_phantom" data-title="PHANTOM" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/light_and_dark,concept/self_and_soul,concept/love_romantic,concept/imagination,form/fragment,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="223_phantom" data-title="PHANTOM" data-chapter="" data-kind="intro"></span>
 
 
 All look and likeness caught from earth,  
@@ -319,7 +324,7 @@ splendeva visibilmente attraverso il suo [[concepts/body|corpo]].
 
 
 
-<span class="atom-split" data-atom="250_the_night-scene" data-title="THE NIGHT-SCENE" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/garden,motif/night,motif/stars,motif/serpent_snake,concept/love_romantic,concept/the_sublime,form/blank_verse,form/verse_drama,form/fragment,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="250_the_night-scene" data-title="THE NIGHT-SCENE" data-chapter="" data-kind="intro"></span>
 
 
 A DRAMATIC [[forms/fragment|FRAGMENT]]
@@ -517,7 +522,7 @@ e serpi pigre strisciano sulle rovine spianate!
 
 
 
-<span class="atom-split" data-atom="293_phantom_or_fact_a_dialogue_in_verse" data-title="PHANTOM OR FACT: A DIALOGUE IN VERSE" data-chapter="" data-kind="intro" data-tags="topos/the_double,motif/dreams,motif/sleep,concept/appearance_vs_reality,concept/love_romantic,concept/identity,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="293_phantom_or_fact_a_dialogue_in_verse" data-title="PHANTOM OR FACT: A DIALOGUE IN VERSE" data-chapter="" data-kind="intro"></span>
 
 
 AUTHOR  
@@ -575,7 +580,7 @@ ed è una cronaca dal sogno della vita.   20
 
 
 
-<span class="atom-split" data-atom="344_on_the_curious_circumstance" data-title="ON THE CURIOUS CIRCUMSTANCE" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/moon,concept/satire_of_society,concept/marriage_and_fidelity,form/epigram,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="344_on_the_curious_circumstance" data-title="ON THE CURIOUS CIRCUMSTANCE" data-chapter="" data-kind="intro"></span>
 
 
 THAT IN THE GERMAN LANGUAGE THE SUN IS FEMININE, AND THE [[motifs/moon|MOON]] IS MASCULINE  
@@ -631,7 +636,7 @@ Wie der gehörnt wir Männer sein.’
 
 
 
-<span class="atom-split" data-atom="347_epitaph_on_himself" data-title="EPITAPH: ON HIMSELF" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/sleep,motif/dreams,concept/mortality,concept/identity,form/epigram,setting/an_inn,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="347_epitaph_on_himself" data-title="EPITAPH: ON HIMSELF" data-chapter="" data-kind="intro"></span>
 
 
 Here sleeps at length poor Col., and without screaming —  
@@ -657,7 +662,7 @@ Reminiscences di Cottle, 1848, p. 467. Prima raccolto nel 1893.
 
 
 
-<span class="atom-split" data-atom="382_over_my_cottage" data-title="OVER MY COTTAGE" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/moon,motif/dreams,concept/love_romantic,concept/grief_and_loss,concept/mortality,form/fragment,form/epigram,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="382_over_my_cottage" data-title="OVER MY COTTAGE" data-chapter="" data-kind="intro"></span>
 
 
 The Pleasures sport beneath the thatch;  
@@ -765,7 +770,7 @@ essa stessa un sole terreno di puro, intensissimo bianco.
 
 
 
-<span class="atom-split" data-atom="441_des_knaben_wunderhorn" data-title="DES KNABEN WUNDERHORN" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/dreams,motif/sleep,concept/love_romantic,concept/grief_and_loss,form/song,cluster/dreams,cluster/moon"></span>
+<span class="atom-split" data-atom="441_des_knaben_wunderhorn" data-title="DES KNABEN WUNDERHORN" data-chapter="" data-kind="intro"></span>
 
 
 Wenn ich ein Vöglein wär  

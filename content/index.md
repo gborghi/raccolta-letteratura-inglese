@@ -7,7 +7,7 @@ title: English Literature — A Knowledge Graph
   <div class="hp-rule-thin"></div>
   <div class="hp-nameplate">
     <span class="hp-wordmark"><span class="hp-wm-title">English Literature</span><span class="hp-wm-bar"></span><span class="hp-wm-sub">a knowledge graph</span></span>
-    <span class="hp-mast-stats">3,661 works · 15 authors · 15,770 excerpts</span>
+    <span class="hp-mast-stats">3,661 works · 15 authors · 15,776 excerpts</span>
   </div>
   <div class="hp-rule-double"><span></span><span></span></div>
   <nav class="hp-nav" aria-label="Sections">
@@ -38,9 +38,9 @@ title: English Literature — A Knowledge Graph
     <div class="hp-stats">
       <div class="hp-stat"><span class="hp-stat-k">Works</span><span class="hp-stat-v">3,661</span></div>
       <div class="hp-stat"><span class="hp-stat-k">Authors</span><span class="hp-stat-v">15</span></div>
-      <div class="hp-stat"><span class="hp-stat-k">Reading units</span><span class="hp-stat-v">15,770</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Reading units</span><span class="hp-stat-v">15,776</span></div>
       <div class="hp-stat"><span class="hp-stat-k">Concept notes</span><span class="hp-stat-v">2,032</span></div>
-      <div class="hp-stat"><span class="hp-stat-k">Bilingual pages</span><span class="hp-stat-v">21,413</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Bilingual pages</span><span class="hp-stat-v">13,148</span></div>
     </div>
     <p class="hp-plate-note">Italian translations go up chapter by chapter, alongside the English — never in place of it.</p>
   </aside>
@@ -50,9 +50,9 @@ title: English Literature — A Knowledge Graph
 
 <div class="hp-axes"><a class="hp-axis" href="topoi/"><span class="hp-axis-em"><img src="static/wheel/axis-topoi.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Topoi</span><span class="hp-axis-n">45</span></span><span class="hp-axis-gloss">recurring situations</span></span></a><a class="hp-axis" href="archetypes/"><span class="hp-axis-em"><img src="static/wheel/axis-archetipi.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Archetypes</span><span class="hp-axis-n">52</span></span><span class="hp-axis-gloss">universal figures</span></span></a><a class="hp-axis" href="motifs/"><span class="hp-axis-em"><img src="static/wheel/axis-motivi.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Motifs</span><span class="hp-axis-n">157</span></span><span class="hp-axis-gloss">images that return</span></span></a><a class="hp-axis" href="concepts/"><span class="hp-axis-em"><img src="static/wheel/axis-concetti.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Concepts</span><span class="hp-axis-n">289</span></span><span class="hp-axis-gloss">themes and ideas</span></span></a><a class="hp-axis" href="forms/"><span class="hp-axis-em"><img src="static/wheel/axis-forme.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Forms</span><span class="hp-axis-n">76</span></span><span class="hp-axis-gloss">genres and metres</span></span></a><a class="hp-axis" href="historical-references/"><span class="hp-axis-em"><img src="static/wheel/axis-storia.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Historical References</span><span class="hp-axis-n">143</span></span><span class="hp-axis-gloss">history in the text</span></span></a><a class="hp-axis" href="settings/"><span class="hp-axis-em"><img src="static/wheel/axis-ambientazioni.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Settings</span><span class="hp-axis-n">68</span></span><span class="hp-axis-gloss">places and landscapes</span></span></a><a class="hp-axis" href="characters/"><span class="hp-axis-em"><img src="static/wheel/axis-personaggi.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Characters</span><span class="hp-axis-n">1202</span></span><span class="hp-axis-gloss">who recurs</span></span></a></div>
 
-<div class="hp-sec"><h2>Thematic families</h2><span class="hp-sec-note">15 of 106 · the constellations that cross authors</span></div>
+<div class="hp-sec"><h2>Thematic families</h2><span class="hp-sec-note">15 of 107 · the constellations that cross authors</span></div>
 
-<div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="106 in all"></div>
+<div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="107 in all"></div>
 
 <div class="hp-sec"><h2>Fifteen voices</h2><span class="hp-sec-note">click an emblem to enter an author's work</span></div>
 

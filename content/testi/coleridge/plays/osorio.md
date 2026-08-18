@@ -17,6 +17,10 @@ tags:
 Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villainous brother Osorio plots his returned brother Albert's death to seize his love and lands; a verse tragedy of fratricide, guilt, remorse, revenge and the Inquisition.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La tragedia di Coleridge (in seguito 'Rimorso'), ambientata nella Granada dell'epoca inquisitoria: il fratello scellerato Osorio trama la morte del fratello ritornato Alberto per usurparne l'amore e i possedimenti; una tragedia in versi di fratricidio, colpa, rimorso, vendetta e Inquisizione.
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1" data-title="OSORIO — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/innocent,archetype/lover,archetype/prophet,archetype/rebel,archetype/shadow,motif/blood,motif/childhood,motif/death,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/grave,motif/hill,motif/home,motif/leaves,motif/lightning,motif/lion,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/prison,motif/rose,motif/ship,motif/sleep,motif/soul,motif/spring,motif/storm,motif/tears,motif/time,motif/well,concept/body,concept/conscience,concept/courage,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/honour,concept/hope,concept/imprisonment,concept/jealousy,concept/mercy,concept/nature,concept/revenge,concept/self,concept/truth,histref/inquisition,setting/castle,setting/mountains,setting/ship,character/ferdinand,character/maria,character/phantom"></span>

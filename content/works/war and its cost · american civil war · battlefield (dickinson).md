@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To the Misses, 1881](/testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#l0253_the_misses_1881)
+- [To the Misses, 1881](/testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--letters#_misses_1881)
 

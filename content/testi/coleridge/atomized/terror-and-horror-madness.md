@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/terror-and-horror-madness" data-author="Coleridge" data-workhref="works/terror-and-horror-·-madness-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="014_anna_and_harland" data-title="ANNA AND HARLAND" data-chapter="" data-kind="intro" data-tags="archetype/ghost,motif/ghosts,motif/the_grave,motif/memory,concept/love_romantic,concept/grief_and_loss,form/sonnet,form/narrative_poem,cluster/terror_and_horror,cluster/madness"></span>
+ANNA AND HARLAND · THE COMPLAINT OF NINATHÓMA:FROM THE SAME · MRS. SIDDONS · SONNET: COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE · THE MAD MONK · THE MADMAN AND THE LETHARGIST · A DUNGEON
+
+
+
+
+<span class="atom-split" data-atom="014_anna_and_harland" data-title="ANNA AND HARLAND" data-chapter="" data-kind="intro"></span>
 
 
 Within these wilds was Anna wont to rove  
@@ -51,7 +56,7 @@ come il luminoso e bell'arco del Cielo riflesso nel ruscello.
 
 
 
-<span class="atom-split" data-atom="041_the_complaint_of_ninathómafrom_the_same" data-title="THE COMPLAINT OF NINATHÓMA:FROM THE SAME" data-chapter="" data-kind="intro" data-tags="archetype/ghost,motif/the_sea,motif/ghosts,motif/dreams,motif/storm,concept/grief_and_loss,concept/melancholy,form/lyric,setting/the_sea,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="041_the_complaint_of_ninathómafrom_the_same" data-title="THE COMPLAINT OF NINATHÓMA:FROM THE SAME" data-chapter="" data-kind="intro"></span>
 
 
 How long will ye round me be swelling,  
@@ -95,7 +100,7 @@ d'ululare per la mia caverna di [[motifs/night|notte]].
 
 
 
-<span class="atom-split" data-atom="089_mrs_siddons" data-title="MRS. SIDDONS" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/childhood,motif/night,concept/terror_and_horror,concept/the_sublime,form/sonnet,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="089_mrs_siddons" data-title="MRS. SIDDONS" data-chapter="" data-kind="intro"></span>
 
 
 As when a [[archetypes/child|child]] on some long [[motifs/winter|Winter]]’s [[motifs/night|night]]  
@@ -135,7 +140,7 @@ così tu, SIDDONS, mi struggi il triste cuore!
 
 
 
-<span class="atom-split" data-atom="119_sonnet_composed_on_a_journey_homeward_the_author_having_received_intelligence" data-title="SONNET: COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE" data-chapter="" data-kind="intro" data-tags="motif/dreams,concept/the_uncanny,concept/self_and_soul,concept/childhood_and_growth,form/sonnet,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="119_sonnet_composed_on_a_journey_homeward_the_author_having_received_intelligence" data-title="SONNET: COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE" data-chapter="" data-kind="intro"></span>
 
 
 OF THE BIRTH OF A SON, SEPT. 20,    1796  
@@ -177,7 +182,7 @@ mentre noi piangevamo invano sulla tua piccola bara!
 
 
 
-<span class="atom-split" data-atom="193_the_mad_monk" data-title="THE MAD MONK" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/madness,motif/blood,motif/the_grave,concept/madness,concept/guilt,concept/grief_and_loss,concept/unrequited_love,form/ballad,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="193_the_mad_monk" data-title="THE MAD MONK" data-chapter="" data-kind="intro"></span>
 
 
 I heard a voice from Etna’s side;  
@@ -283,7 +288,7 @@ giù per la foresta proseguii il mio cammino.
 
 
 
-<span class="atom-split" data-atom="239_the_madman_and_the_lethargist" data-title="THE MADMAN AND THE LETHARGIST" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/madness,concept/madness,concept/satire_of_society,concept/doubt,form/fable,form/satire,histref/the_french_revolution,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="239_the_madman_and_the_lethargist" data-title="THE MADMAN AND THE LETHARGIST" data-chapter="" data-kind="intro"></span>
 
 
 AN EXAMPLE
@@ -387,7 +392,7 @@ là dove l'Arte siede in vuota [[concepts/despair|disperazione]].’
 
 
 
-<span class="atom-split" data-atom="379_a_dungeon" data-title="A DUNGEON" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/moon,motif/winter,motif/the_grave,motif/madness,motif/animals,concept/madness,concept/melancholy,form/fragment,cluster/terror_and_horror,cluster/madness"></span>
+<span class="atom-split" data-atom="379_a_dungeon" data-title="A DUNGEON" data-chapter="" data-kind="intro"></span>
 
 
 In darkness I remain’d — the neighb’ring [[motifs/clock|clock]]  

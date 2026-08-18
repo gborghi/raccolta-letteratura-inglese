@@ -237,7 +237,7 @@ Riassumiamo dunque questa prima e fondamentale parte del nostro argomento, espri
 
 Quindi scriviamo due formule:
 
-La ricchezza non è fatta di cose, ma dei valori economici che ad esse sono attribuiti.
+# La ricchezza non è fatta di cose, ma dei valori economici che ad esse sono attribuiti.
 
 2. =Per gli scopi dello studio economico, la ricchezza significa ESCLUSIVAMENTE valori di scambio: cioè valori con i quali altri valori verranno scambiati.=
 
@@ -383,7 +383,7 @@ stock of wheat both for sowing and for eating.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Le tre cose necessarie alla produzione della ricchezza
+#Le tre cose necessarie alla produzione della ricchezza
 
 Noterete che tutti gli esseri viventi intorno a voi sono impegnati nel cambiare le cose che li circondano, passandole da uno stato in cui sono meno utili a uno stato in cui lo sono di più per loro stessi.
 
@@ -646,7 +646,7 @@ Ora riassumiamo, con alcune formule, ciò che abbiamo imparato finora.
 
 1. =Per la produzione di ricchezza sono necessarie tre cose: (a) le forze naturali, (b) l’energia umana e (c) un accumulo di ricchezze prodotto in passato e utilizzato nella produzione futura.=
 
-2. Per brevità, questi tre vengono chiamati: (a) Terra, (b) Lavoro, (c) Capitale.
+# 2. Per brevità, questi tre vengono chiamati: (a) Terra, (b) Lavoro, (c) Capitale.
 
 3. L’ultimo elemento, quello maiuscolo, (a) dipende dallo scopo intenzionale dell’utente nel suo utilizzo, (b) viene consumato durante il processo di produzione e (c) rappresenta sempre il risultato di un’operazione di salvataggio.
 
@@ -957,7 +957,7 @@ not do that he would die.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Le tre parti della ricchezza prodotta
+# Le tre parti della ricchezza prodotta
 
 Ora passiamo a quella parte dell’[[concepts/economics|Economia]] che ha l’effetto più significativo sulla società umana, e la cui comprensione è essenziale per una politica saggia. Non si tratta di un concetto difficile da comprendere; l’unica difficoltà consiste nel mantenere chiara nella propria mente la distinzione tra ciò che viene definito “legge economica”, ovvero i risultati inevitabili della produzione di ricchezza, e la “legge morale”, cioè le questioni legate al giusto e allo sbagliato nella distribuzione e nell’uso della ricchezza.
 
@@ -1988,7 +1988,7 @@ name: “That which is current” from the Latin for “running.” That which
 
 <span class="qlang-split" data-lang="it"></span>
 
-Denaro
+#Denaro
 
 Quando le persone iniziano a scambiare beni uno contro l’altro tramite baratto, subito si rendono conto che esiste un ostacolo significativo in questo tipo di commercio; almeno, lo scoprono non appena il numero delle parti coinvolte supera le due. L’ostacolo consiste nel fatto che la persona con cui stanno negoziando potrebbe non desiderare proprio l’oggetto che hanno da offrire in quel momento, ma qualcos’altro che invece possiede una terza parte assente dalla transazione.
 
@@ -3154,7 +3154,7 @@ literature ever made.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Lo Stato Servile
+#Lo Stato Servile
 
 Lo Stato Servile è quello che si trovava ovunque tra i nostri antenati; è lo Stato Servile in cui tutti noi europei vivevamo quando eravamo pagani, due migliaia di anni fa. Ad esempio: nell’antica Italia pagana prima che diventasse cristiana, o nell’antica Grecia pagana – entrambe le migliori nazioni del loro tempo e, come sapete, le origini della nostra stessa civiltà – la maggior parte delle persone che si vedevano lavorare erano schiavi, e al di sopra degli schiavi c’erano i proprietari: gli uomini liberi.
 
@@ -3298,7 +3298,7 @@ position of chance advantage?
 
 <span class="qlang-split" data-lang="it"></span>
 
-Lo Stato Capitalista
+# Lo Stato Capitalista
 
 Lo Stato Capitalista è quello in cui, sebbene tutti gli uomini siano liberi (cioè nessuno è costretto dalla legge a lavorare per altri, né a sostentare altri), pochi proprietari di terra e capitale fanno lavorare per sé la grande maggioranza delle persone che possiedono poco o nulla e ricevono uno stipendio soltanto per sopravvivere: in altre parole, solo una parte della ricchezza prodotta viene loro attribuita; il resto va come affitto e profitto ai proprietari.
 
@@ -3627,13 +3627,13 @@ distributed.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Lo Stato Distributivo
+# Lo Stato Distributivo
 
 Uno stato sociale in cui le famiglie che lo compongono sono, in un numero determinato, proprietarie della terra e dei mezzi di produzione, così come gli stessi individui sono i soggetti umani che utilizzano tali mezzi per produrre ricchezza, è probabilmente lo stato sociale più antico e certamente il più diffuso tra tutti. Si tratta di uno stato che si trova in tutto l’Oriente, in tutta l’Asia e in tutti gli stati primitivi conosciuti. È lo stato verso cui le persone tendono a tornare, di solito, dopo essere finite in altri tipi di società; anche lo stato schiavistico, che abbiamo descritto in precedenza, è molto vicino a questo ideale, in quanto adatta alla natura umana. Infatti sappiamo che lo stato schiavistico è esistito per secoli, in modo normale e stabile, nel passato pagano.
 
 Il motivo per cui gli uomini adottano comunemente questa forma di società distributiva e tendono a tornarvi se possibile è che, agli occhi della maggior parte di loro, i vantaggi che essa offre sembrano essere superiori ai suoi svantaggi.
 
-Questi sono i vantaggi:
+# Questi sono i vantaggi:
 
 Dona [[concepts/freedom|libertà]], cioè la possibilità di esprimere liberamente la propria volontà. Una [[concepts/family|>famiglia]] che possiede i mezzi di produzione – la cui forma più semplice è la proprietà della terra, degli strumenti e del capitale necessari per lavorarla – non può essere controllata da altri. Certo, i diversi produttori si specializzano e, attraverso lo scambio, diventano più o meno interdipendenti l’uno dall’altro; tuttavia, ciascuno di loro può comunque vivere “per conto proprio”: in caso necessario, può resistere alle pressioni esercitate da altri. Può dire: “Se non accettate il mio surplus al posto del vostro, sarò più povero; ma almeno potrò sopravvivere”.
 
@@ -4686,7 +4686,7 @@ Dai esempi come questo si dovrebbe poter capire chiaramente quanto sia vero che 
 
 Oggi abbiamo un esempio eccellente, anche se piccolo, da analizzare in [[settings/england|Inghilterra]]. Il popolo inglese deve inviare all’estero, ogni anno, circa 4 sterline di merci per famiglia: si tratta di carne di maiale, cioè pancetta, prosciutti e simili. Non c’è alcun motivo per cui debbano farlo; potrebbero allevare i maiali nelle loro stesse fattorie senza assumere nessuno dalle fabbriche e utilizzare queste merci prodotte in proprio. Il motivo per cui ci troviamo in questa situazione riguardo alla carne di maiale è che la nostra agricoltura si trova generalmente in uno stato così disastroso che le persone non si sforzano nemmeno di allevare abbastanza maiali. Quindi, questo è un caso concreto: solo degli esperimenti potrebbero dimostrare se la protezione tariffaria sia vantaggiosa o meno in questo contesto.
 
-Protezione dovrebbe manifestarsi nel dire:--
+# Protezione dovrebbe manifestarsi nel dire:--
 
 “Qualsiasi carne di maiale proveniente dall’estero deve pagare una determinata somma a libbra nei porti al momento dell’ingresso.” Ciò aumenterebbe leggermente il prezzo della carne di maiale in [[settings/england|Inghilterra]]. Se tale aumento fosse tale da far sì che ogni famiglia inglese dovesse spendere in media 2 sterline in più, e se, allo stesso tempo, questo aumento dei prezzi stimolasse gli agricoltori a allevare un numero sufficiente di maiali e ad impegnarsi adeguatamente per mantenere una produzione stabile, allora il patrimonio complessivo della comunità aumenterebbe di 2 sterline per famiglia. Anche se il prezzo dovesse salire fino a raggiungere le 3 sterline e 10 scellini a famiglia in media, ciò sarebbe comunque vantaggioso per la nazione, _a condizione che tale aumento dei prezzi stimolasse effettivamente gli agricoltori ad allevare un numero sufficiente di maiali, senza ridurre la produzione di altri prodotti_. Tuttavia, se, nonostante l’aumento delle tasse a carico della comunità, la produzione di maiali nel paese non fosse sufficiente a soddisfare la domanda del mercato, allora la politica di protezione dell’allevamento dei maiali risulterebbe perdente.
 
@@ -5461,7 +5461,7 @@ pays millions a year to [[settings/america|America]].
 
 <span class="qlang-split" data-lang="it"></span>
 
-Prestiti nazionali e tassazione
+# Prestiti nazionali e tassazione
 
 Ogni paese, per poter svolgere le proprie funzioni pubbliche, deve riscuotere tasse dai propri cittadini; queste tasse, sebbene esigite in denaro, si traducono naturalmente in beni, ovvero in valori economici legati a oggetti materiali.
 
@@ -5630,7 +5630,7 @@ L'imposta indiretta si manifesta sotto forma di tasse riscosse sul produttore di
 
 Gli uomini più saggi che hanno discusso su come dovrebbero essere riscossi i tributi hanno stabilito quattro regole che, purtroppo, nessun governo ha rispettato come avrebbe dovuto. Vale la pena conoscerle, perché costituiscono una guida per capire quale dovrebbe essere l’efficacia di un sistema fiscale equo e funzionale.
 
-Queste sono le regole:--
+# Queste sono le regole:--
 
 1. Una tassa dovrebbe essere calcolata in modo che possa essere pagata il più facilmente possibile.
 
@@ -6614,7 +6614,7 @@ Se si osserva l’usura generata dalla Grande Guerra, si nota che questo tipo di
 
 I tedeschi l’hanno ridotto, a causa dell’inflazione, praticamente a nulla; il che, in realtà, equivale a rinnegare completamente quel debito.
 
-Quello che osserviamo in una panoramica generale è questo:--
+# Quello che osserviamo in una panoramica generale è questo:--
 
 L'usura è sbagliata sia dal punto di vista morale che per la società, _perché rappresenta la richiesta di un aumento della ricchezza che in realtà non esiste affatto_. È come cercare di ottenere qualcosa da ciò che non contiene nulla che possa essere utilizzato per pagarlo.
 
@@ -6755,7 +6755,7 @@ the country.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Immaginari economici
+# Immaginari economici
 
 Concluderò con un argomento piuttosto difficile su cui ho esitato a decidere se includerlo o meno in questo libro. Se vi sembra troppo complicato, potete tranquillamente ometterlo; ma se, mentre lo leggete, riuscite a comprenderlo, vale la pena approfondirlo, perché è davvero innovativo (non lo troverete in nessun altro libro) e molto utile per comprendere certi problemi difficili che sono sorti nella nostra società moderna e che oggi rappresentano un vero pericolo. Questo argomento è ciò che io chiamo “Immaginari Economici”.
 

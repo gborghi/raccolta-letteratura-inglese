@@ -33,6 +33,10 @@ tags:
 > [!abstract] 
 > Ovidian erotic narrative poem in sixains: the goddess Venus's failed seduction of the chaste youth Adonis, who is killed by a boar. Central themes: desire and lust, the unattainable beloved, beauty, mortality and transience.
 
+## Testo / Text
+
+- [VENUS AND ADONIS](/testi/shakespeare/poems/venus_and_adonis#intro)
+
 ## Connections
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/carpe-diem|Carpe Diem]]

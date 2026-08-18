@@ -272,7 +272,7 @@ Era evidente che una situazione del genere non potesse durare. Una nazione così
 
 Ecco lo stato d’animo della Germania, ecco l’illusione futile che ha portato a questa guerra. A sua disposizione aveva, come vedremo in seguito, il numero; e, sostenuta da questa superiorità numerica, contava sulla vittoria.
 
-Conflitto generato dal contrasto di questo atteggiamento tedesco
+# Conflitto generato dal contrasto di questo atteggiamento tedesco
 
 oppure Will insieme alle volontà delle altre nazioni.
 
@@ -1360,7 +1360,7 @@ Il fatto che la Russia disponesse di scarse infrastrutture ferroviarie e pratica
 
 Se quindi questi erano i vari svantaggi che le condizioni geografiche avevano imposto agli Alleati, quali erano i vantaggi corrispondenti?
 
-Erano considerevoli, e possono essere elencati così: —
+# Erano considerevoli, e possono essere elencati così: —
 
 Gli Alleati occidentali si trovavano tra i loro nemici e l’oceano. Se fossero riusciti a mantenere la superiorità navale grazie alle grandi dimensioni ed efficienza della Flotta britannica, nonché al potenziamento derivante dalla sua collaborazione con quella francese, avrebbero potuto almeno mettere in difficoltà il nemico, e forse anche costringerlo alla carenza di alcuni materiali essenziali per la guerra. Tuttavia, non sarebbe stato possibile ridurre il nemico alla fame, poiché i suoi territori, purché non devastati, avrebbero potuto garantire autonomia nella produzione di tali risorse. Anche il nitrato necessario per gli esplosivi, così come ferro e carbone in quantità illimitate, potevano essere reperiti nel paese stesso. Ma le materie prime per l’abbigliamento, il cotone per gli esplosivi, il rame per i proiettili, le cartucce e gli strumenti elettrici, l’antimonio per la tempratura del piombo utilizzato nei proiettili leggeri, in parte anche il petrolio per aerei e automobili, nonché la gomma naturale per pneumatici e altre componenti meccaniche, dovevano essere importate dall’estero. Era probabile che fosse possibile ottenere una parte di queste risorse grazie all’intermediazione dei neutri; tuttavia, le flotte alleate in Occidente avrebbero sicuramente monitorato attentamente l’entità delle importazioni neutrali, cercando, con ogni mezzo e con successi alterni, di impedire che tali merci raggiungessero la Germania e l’Austria. Soprattutto nelle fasi finali della guerra, gli Alleati occidentali non avrebbero certo permesso a Italia, Svizzera, Olanda e Scandinavia di fungere da canali aperti per il rifornimento del Reich tedesco. Sebbene avessero dovuto agire con cautela e mantenere la pace con le nazioni il cui commercio veniva così ostacolato e in qualche modo controllato, gli Alleati occidentali avrebbero comunque potuto, in misura maggiore o minore, creare difficoltà al nemico in questi ambiti.
 
@@ -1644,11 +1644,11 @@ Quando passiamo al secondo fattore – quello delle munizioni – scopriamo qual
 
 Nel primo periodo della guerra, il nemico disponeva, se possibile, di una superiorità ancora maggiore in termini di munizioni rispetto al numero degli uomini a sua disposizione. Questa superiorità derivava da due motivi principali: innanzitutto, come vedremo nelle prossime pagine, le sue teorie riguardanti numerosi aspetti militari erano ben fondate; in secondo luogo, aveva deciso di intraprendere la guerra nel momento che lui stesso aveva scelto, dopo tre anni di preparativi intensi e per lo più segreti.
 
-Per quanto riguarda il primo punto…
+# Per quanto riguarda il primo punto…
 
 Possiamo prendere come esempio concreto di queste teorie della guerra l’uso, da parte dei nemici, dell’artiglieria pesante – e in particolare del potere delle moderne munizioni ad alto esplosivo e degli obici pesanti – per distruggere rapidamente le fortificazioni permanenti e avere un effetto concreto sul campo di battaglia, soprattutto nella preparazione di un assalto, aspetto che le teorie militari degli Alleati avevano erroneamente sottovalutato. Questo è solo uno dei tanti esempi; esso può servire da modello per gli altri casi, e verrà trattato più approfonditamente nella prossima sezione. I tedeschi, in misura maggiore rispetto agli austriaci, prepararono una quantità di munizioni pesanti molto superiore a quella dei loro avversari, e entrarono nel conflitto dotati di pezzi d’artiglieria di calibro e numero ben superiori a quelli disponibili per gli avversari all’inizio della campagna.
 
-Per quanto riguarda il secondo punto: —
+# Per quanto riguarda il secondo punto: —
 
 Nessuna nazione pacifica, nessuna nazione che non progetti di dichiarare guerra nel momento che ritiene opportuno, dovrebbe conservare armamenti che potrebbero diventare obsoleti, né utilizzare risorse pubbliche per scopi che essa considera più importanti. Tali nazioni, per usare una metafora appropriata, si “assicurano” contro la guerra a un costo che ritengono ragionevole. Ma se qualche governo in Europa agisce in modo anarchico sotto il profilo morale e propone, pur professando pace, di dichiarare guerra in un momento scelto da sé stesso, avrà ovviamente un vantaggio schiacciante in questo senso: l’energia e i fondi che dedica esclusivamente alla preparazione bellica non potranno essere sprecati; inoltre, se la sua aggressione improvvisa non viene programmata troppo in anticipo, non correrà il rischio di dover affrontare un nemico armato con strumenti ormai obsoleti.
 
@@ -1810,7 +1810,7 @@ Innanzitutto, poiché le più grandi obici capaci di muoversi e di essere utiliz
 
 Schizzo 20.
 
-Ciò che ha modificato tutto questo negli ultimi anni è…
+# Ciò che ha modificato tutto questo negli ultimi anni è…
 
 Innanzitutto, il successo nell’introduzione sul campo di obici molto grandi: questi, pur lanciando i loro proiettili su una distanza estremamente lunga, lo fanno con notevole precisione. Gli austriaci hanno prodotto obici con un calibro compreso tra 11 e 12 pollici; nonostante la loro enorme dimensione, possono essere spostati sul campo e sparati da qualsiasi terreno abbastanza stabile. I tedeschi probabilmente hanno creato obici con un calibro superiore ai 16 pollici, che presumibilmente possono essere spostati soltanto su rotaie. Tuttavia, il calibro di 11 pollici era già più che sufficiente per modificare completamente le condizioni precedenti dello scontro. Bisogna ricordare che la potenza di un cannone aumenta in modo proporzionale al cubo del suo calibro: un obice da 12 pollici non è soltanto il doppio più potente di uno da 6 pollici, ma addirittura otto volte più potente. Ora gli obici potevano sparare da distanze enormi; la loro gittata era molto maggiore, e avevano molte più possibilità di trovare ripari adeguati per evitare di essere visti. Inoltre, se rischiavano di essere scoperti, avevano maggiori opportunità di fuggire; inoltre, le probabilità che i cannoni delle fortezze riuscissero a distruggerli erano notevolmente ridotte.
 

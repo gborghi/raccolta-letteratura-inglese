@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="never_bet_the_devil_your_head" data-title="Never Bet the Devil your Head" data-chapter="" data-kind="intro"></span>
 
-# [[works/never-bet-the-devil-your-head-(poe)|Never Bet the Devil your Head]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_business_man" data-title="The Business Man" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-business-man-(poe)|The Business Man]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

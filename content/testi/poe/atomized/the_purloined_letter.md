@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_purloined_letter" data-title="The Purloined Letter" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-purloined-letter-(poe)|The Purloined Letter]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

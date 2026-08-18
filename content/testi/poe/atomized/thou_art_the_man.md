@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="thou_art_the_man" data-title="Thou Art the Man" data-chapter="" data-kind="intro"></span>
 
-# [[works/thou-art-the-man-(poe)|Thou Art the Man]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

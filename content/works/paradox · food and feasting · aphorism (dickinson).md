@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Mr. and Mrs. George Montague](/testi/dickinson/atomized/paradox-food-and-feasting-aphorism#l0478_mr_and_mrs_george_montague)
+- [To Mr. and Mrs. George Montague](/testi/dickinson/atomized/paradox-food-and-feasting-aphorism--letters#and_mrs_george_montague)
 

@@ -28,6 +28,7 @@ With Illustrations by B. B.
 
 
 
+
 <span class="atom-split" data-atom="story_01_dedication" data-title="A Moral Alphabet — DEDICATION." data-chapter="DEDICATION" data-kind="story"></span>
 
 
@@ -407,7 +408,7 @@ A
 Titolo:  
 Significa…
 
-Archibald che non mentiva mai
+# Archibald che non mentiva mai
 
 E ho vinto questo bellissimo libro come premio.
 
@@ -450,11 +451,11 @@ Lavarsi i capelli e i denti e dire la verità.
 
 La lettera “B” sta per “Bear”.
 
-Quando si vedono gli orsi
+# Quando si vedono gli orsi
 
 Avvicinandosi in lontananza…
 
-Decidi subito tra…
+# Decidi subito tra…
 
 Ritirata e Resistenza Armata.
 
@@ -470,7 +471,7 @@ Un’altra persona si girò e fuggì.
 
 Corse con tutte le sue forze.
 
-L’orso era più veloce dell’uomo,
+Il熊跑得比人快。
 
 E lo superò di un metro.
 
@@ -488,7 +489,7 @@ Un giudice indiano trascorre notti insonni.
 
 Morale.
 
-Questa creatura, sebbene disgustosa e orribile…
+# Questa creatura, sebbene disgustosa e orribile…
 
 Non trasmette alcun valore morale degno di essere ricordato.
 
@@ -496,7 +497,7 @@ D
 
 Il Terribile
 
-Dinotherium he
+# Dinotherium he
 
 Dovrà dare il meglio di sé per D.
 
@@ -518,19 +519,19 @@ Erano erbivori, proprio come una mucca.
 
 Quindi avrebbe dovuto desiderare di passare oltre.
 
-Lunghe notti tranquille sull’erba
+# Lunghe notti tranquille sull’erba
 
-Ma essendo pazzo, quella bestia preferì…
+# Ma essendo pazzo, quella bestia preferì…
 
-Nidificare tra i rami, come un uccello. [A]
+# Nidificare tra i rami, come un uccello. [A]
 
 Una creatura più pesante di una balena
 
-A colpo d’occhio, è impossibile non notarlo
+# A colpo d’occhio, è impossibile non notarlo
 
-Soffrire terribilmente quando scivolò
+#Soffrire terribilmente quando scivolò
 
-E cadde a terra
+# E cadde a terra
 
 (com’era solito fare).
 
@@ -540,13 +541,13 @@ Tutti separati. E che gli vada bene così.
 
 Morale.
 
-Se sei nato per camminare sulla terra…
+# Se sei nato per camminare sulla terra…
 
 Rimani lì; non perdere tempo in sciocchezze.
 
 [A]
 
-Abbiamo buone ragioni per supporre
+# Abbiamo buone ragioni per supporre
 
 Lo fece usando le sue dita dei piedi simili a artigli.
 
@@ -559,13 +560,13 @@ Uovo.
 
 Morale.
 
-Il messaggio morale di questo versetto
+# Il messaggio morale di questo versetto
 
 Applicabile ai giovani. Sia conciso.
 
 F
 
-Per un
+#Per un
 
 Famiglia che fa una passeggiata
 
@@ -581,7 +582,7 @@ Di un tipo che difficilmente mi attirerebbe…
 
 Anche se il mio appetito va oltre ogni credibile limite.
 
-C’è marmellata, birra al ginepro, pane tostato con burro…
+# C’è marmellata, birra al ginepro, pane tostato con burro…
 
 Con una gamba di montone fredda e limonata calda
 
@@ -593,9 +594,9 @@ Morale.
 
 Una rispettabile famiglia va in vacanza
 
-Un argomento su cui potrei soffermarmi…
+#Un argomento su cui potrei soffermarmi…
 
-Contiene tutte le morali che siano mai esistite
+# Contiene tutte le morali che siano mai esistite
 
 E serve anche da esempio.
 
@@ -610,7 +611,7 @@ Sono corna lunghe, affilate e ricurve, e buon senso.
 
 Anche i “Hardy Boers” la pronunciano sbagliata.
 
-Quante volte, in una bella giornata autunnale…
+# Quante volte, in una bella giornata autunnale…
 
 “I pioi abitanti di Pretoria dicono…”
 
@@ -629,7 +630,7 @@ Bambino, se hai un nome strano…
 
 Ricorda di essere grato anche per queste cose.
 
-H era un…
+# H era un…
 
 Il cavaliere che andò al raduno
 
@@ -641,11 +642,11 @@ Per essersi rifiutato di nominarlo Maestro dei Cacciatori.
 
 Scatenò allora una rabbia così terribile…
 
-Vendette il suo stallone e salì sul palco
+# Vendette il suo stallone e salì sul palco
 
 E ottenne tutto il successo che un uomo possa desiderare
 
-Nella creazione di quella parte…
+# Nella creazione di quella parte…
 
 “Lo scudiero d’antica lingua inglese”.
 
@@ -664,9 +665,9 @@ Deve mangiare la sua cena per terra.
 
 Morale.
 
-La morale nascosta in queste deliziose frasi
+# La morale nascosta in queste deliziose frasi
 
-Vivere a basso costo è una ricompensa in sé.
+#Vivere a basso costo è una ricompensa in sé.
 
 J
 
@@ -683,7 +684,7 @@ Il collezionista delle tasse chiamò di nuovo, ma lui…
 
 Fu accolto con scherzi e battute.
 
-Quando James fu portato davanti al giudice erudito
+# Quando James fu portato davanti al giudice erudito
 
 “Chi gli ha tenuto lezione?”, sussurrò ad alta voce, “È stato Fudge!”
 
@@ -691,9 +692,9 @@ Il giudice fu colto di sorpresa dalla sua solita calma.
 
 He
 
-Colpì con il palmo la scrivania davanti a sé
+# Colpì con il palmo la scrivania davanti a sé
 
-E ruggì con toni tale da far tremare anche il più coraggioso degli uccelli.
+#E ruggì con toni tale da far tremare anche il più coraggioso degli uccelli.
 
 “J sta per James, ma anche per prigione.”
 
@@ -705,7 +706,7 @@ Morale.
 
 Il destino di James è tipico e rappresentativo…
 
-Quanta poca misericordia si possa aspettare dalle persone
+# Quanta poca misericordia si possa aspettare dalle persone
 
 Chi non pagherà le tasse… (tranne quei…)
 
@@ -715,21 +716,21 @@ K
 
 Per il Klondike, una terra d’oro
 
-Dove gli inverni sono spesso eccessivamente freddi
+# Dove gli inverni sono spesso eccessivamente freddi
 
 Ove ogni mattina il prato è coperto di brina…
 
 E il pattinaggio continua per anni interi.
 
-Può davvero il clima sconfiggere la tenacia umana?
+#Può davvero il clima sconfiggere la tenacia umana?
 
 Dei Figli dell’Ovest? Nemmeno per sogno! Assolutamente no!
 
-Quando il tempo diventa freddo, i coraggiosi Pionieri...
+# Quando il tempo diventa freddo, i coraggiosi Pionieri...
 
-Metti due paia di calze e copri loro le orecchie
+# Metti due paia di calze e copri loro le orecchie
 
-Vagare per le desolate valli dell’Hyperborea
+# Vagare per le desolate valli dell’Hyperborea
 
 Con un enorme insieme di secchi e bacche;
 
@@ -739,15 +740,15 @@ Con zappe, martelli, picconi, forche e spade.
 
 Ci sono persone che suscitano una gioia travolgente
 
-Niente altro che secchi di terra…
+# Niente altro che secchi di terra…
 
-Mentre coloro che hanno poche ragioni per farlo si divertono un mondo
+#Mentre coloro che hanno poche ragioni per farlo si divertono un mondo
 
 Cercando di rubare a coloro che non hanno nulla.
 
 A volte, la ricompensa che ricevono per i loro sforzi…
 
-Trovare vene d’oro così allettanti…
+# Trovare vene d’oro così allettanti…
 
 O, una galleria che viene scavata per chilometri nel sottosuolo…
 
@@ -1155,7 +1156,7 @@ I split the difference and use the two.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ci portano l’oro quando terminano il loro lavoro
+# Ci portano l’oro quando terminano il loro lavoro
 
 E noi, dopo averli ringraziati gentilmente, lo spendiamo.
 
@@ -1169,7 +1170,7 @@ L
 
 Una signora di età avanzata
 
-Chi guidava la sua carrozza con sei persone a bordo?
+# Chi guidava la sua carrozza con sei persone a bordo?
 
 Con un paio di valletti, un cocchiere e un paggio
 
@@ -1177,17 +1178,17 @@ Tutti quanti erano semplici operai qualificati.
 
 Se l’allenatore scappasse, o venisse investito da un carretto…
 
-Incappati in collisioni e intralci
+# Incappati in collisioni e intralci
 
 La Pagina… con una cortesia rara per la sua età.
 
-Salterebbero a terra con grida entusiastiche
+# Salterebbero a terra con grida entusiastiche
 
 Mentre il valletto placava le sue legittime paure…
 
 E il cocchiere rimase seduto saldamente sul suo sedile.
 
-"Di notte, mentre si riunivano attorno a una deliziosa cena..."
+#"Di notte, mentre si riunivano attorno a una deliziosa cena..."
 
 A turno, avrebbero osservato…
 
@@ -1197,7 +1198,7 @@ A turno, avrebbero osservato…
 
 Ma forse, il più commovente di tutti questi piaceri…
 
-Era destinato ad immergersi in un sogno estatico
+# Era destinato ad immergersi in un sogno estatico
 
 Quando parlava con loro in modo gentile nelle sere di sabato…
 
@@ -1213,17 +1214,17 @@ Ognuno di loro aveva una “Lodge” alla fine dei propri sentieri.
 
 E li lasciò con cento anni in più.
 
-Ricorda di essere adeguatamente infastidito da questo
+# Ricorda di essere adeguatamente infastidito da questo
 
-Quando gli editori dei giornali dicono…
+# Quando gli editori dei giornali dicono…
 
-Il tipo di società descritto nel testo
+# Il tipo di società descritto nel testo
 
 “Sta scomparendo rapidamente.”
 
 M
 
-Un milionario che sedeva al tavolo
+# Un milionario che sedeva al tavolo
 
 E mangiava così…
 
@@ -1235,17 +1236,17 @@ Visse in povertà e morì di gotta.
 
 Morale.
 
-Mostro disgustoso! Fate attenzione
+# Mostro disgustoso! Fate attenzione
 
-Quando, in futuro, diventerai un milionario
+# Quando, in futuro, diventerai un milionario
 
-Rialzarsi da tavola sentendosi ancora in grado di…
+#Rialzarsi da tavola sentendosi ancora in grado di…
 
 Prendi qualcosa in più, così non ti ammalerai davvero.
 
 N
 
-Il fratello minore di Maria
+#Il fratello minore di Maria
 
 Chi, camminando in una direzione, scelse invece di guardare nell'altra.
 
@@ -1253,29 +1254,29 @@ In Blandford Square – una zona affollata della città –
 
 Due persone su un tandem lo hanno fatto cadere;
 
-Dove ciò avviene
+# Dove ciò avviene
 
-Una macchina a motore, con un grido d’avvertimento
+# Una macchina a motore, con un grido d’avvertimento
 
 Lo investì in pieno e lo ribaltò completamente…
 
-I danni che ne ha tratto
+#I danni che ne ha tratto
 
 Gli garantì una vita di agi e comfort culturati.
 
 Morale.
 
-La legge ti protegge. Segui la tua strada tranquilla.
+#La legge ti protegge. Segui la tua strada tranquilla.
 
 L’Altro Uomo deve sempre pagare.
 
 O
 
-Oxford: la nobile e salutare sede
+# Oxford: la nobile e salutare sede
 
 Dello studio! Del ritiro accademico!
 
-"La Tana della Mia Mezza Età! La Macchia del Paludismo"
+#"La Tana della Mia Mezza Età! La Macchia del Paludismo"
 
 Quale popolo la chiama “medievale” (sebbene non lo sia)?
 
@@ -1288,9 +1289,9 @@ E funge da sorta di piega o penna.
 
 In quale luogo si possono radunare molti uomini dotti?
 
-Se solo potessi scrivere metà di ciò che sanno loro…
+# Se solo potessi scrivere metà di ciò che sanno loro…
 
-Non esaurirebbe mai lo spazio riservato alla lettera “O”.
+# Non esaurirebbe mai lo spazio riservato alla lettera “O”.
 
 E, poiché il mio libro non deve essere troppo lungo…
 
@@ -1312,7 +1313,7 @@ Come ho già detto, “stand” significa “maiale”.
 
 Un cugino di secondo grado del Grande Cinghiale Selvaggio.
 
-Ma i maiali sono civili, mentre gli enormi cinghiali selvatici…
+Ma i maiali sono civili, mentre i巨大i cinghiali selvatici…
 
 Vivere selvaggiamente, in modo casuale, all’aperto…
 
@@ -1320,9 +1321,9 @@ E, con il loro sprezzo grossolano per i cibi raffinati…
 
 Si nutrono di tartufi, che trovano nei boschi.
 
-Non così il maiale coltivato, che si sente…
+#Non così il maiale coltivato, che si sente…
 
-La necessità di diversi piatti nei suoi pasti
+#La necessità di diversi piatti nei suoi pasti
 
 Titolo:  
 Ma si crede erroneamente che non abbia importanza…
@@ -1349,7 +1350,7 @@ Con marmellata e piccoli pezzetti di torta.
 
 Morale.
 
-Che stupidaggine! Come può la chinina…
+# Che stupidaggine! Come può la chinina…
 
 Rimpiazzare i bagni freddi e l’igiene uditiva?
 
@@ -1357,9 +1358,9 @@ R
 
 Il Recensore
 
-Rivedendo il mio libro
+# Rivedendo il mio libro
 
-A cui non aveva affatto intenzione di dare un’occhiata
+#A cui non aveva affatto intenzione di dare un’occhiata
 
 Ma le prime stesse righe di “A” erano già sufficienti
 
@@ -1377,7 +1378,7 @@ In termini di lodi estreme, ma ben meritate.
 
 “E spargile per tutto il pavimento della nursery.”
 
-Alcune restrizioni potrebbero essere necessarie per la versificazione
+#Alcune restrizioni potrebbero essere necessarie per la versificazione
 
 “Se non fosse per il suo straordinario ingegno… mentre quelle immagini…”
 
@@ -1413,7 +1414,7 @@ Appaiono così comuni negli stemmi araldici.
 
 E che fortuna per le nostre fattorie in declino…
 
-Se i dirigenti dei circhi, con ricchezze inestimabili…
+# Se i dirigenti dei circhi, con ricchezze inestimabili…
 
 Prenderei le mucche anche a metà del loro peso in oro!
 
@@ -1440,7 +1441,7 @@ U
 
 Per l’Albero Upas
 
-Un flagello che distrugge tutto
+# Un flagello che distrugge tutto
 
 Quelli che tirano i capelli alle loro sorelle e litigano.
 
@@ -1448,7 +1449,7 @@ Ma oh… la bontà! Essi vagano indomiti, senza timore.
 
 E (come l’Artista Sottile l’ha raffigurato)
 
-Trascorri le ore dorate giocando all’ombra sua. [B]
+# Trascorri le ore dorate giocando all’ombra sua. [B]
 
 Morale.
 
@@ -1473,13 +1474,13 @@ Chi riempie le armate del mondo di paura.
 
 Morale.
 
-Cercare insieme, con volontariato, per mettere da parte…
+#Cercare insieme, con volontariato, per mettere da parte…
 
 La vuota pompa della vanità militare.
 
 W
 
-La mia piccola vittima… lascia che ti disturbi
+#La mia piccola vittima… lascia che ti disturbi
 
 Per concentrare la tua mente attiva su W.
 
@@ -1487,9 +1488,9 @@ Il coleottero d'acqua qui insegnerà
 
 Un sermone ben al di là della tua portata:
 
-Colpisce tutti alla sprovvista
+# Colpisce tutti alla sprovvista
 
-Scivolando sulla superficie dell’acqua
+# Scivolando sulla superficie dell’acqua
 
 Con facilità, velocità e grazia.
 
@@ -1510,7 +1511,7 @@ Un uomo adulto che compone una rima su “X”.
 
 Morale.
 
-Questi versi insegnano a un bambino intelligente come trovare…
+# Questi versi insegnano a un bambino intelligente come trovare…
 
 Scusate se fa tutto ciò che desidera.
 
@@ -1533,19 +1534,19 @@ Scoprirete che ciò che io e Lui abbiamo detto è vero.
 
 Morale.
 
-Eccellenza giovanile come insegnamento per l’arguzia moderna
+# Eccellenza giovanile come insegnamento per l’arguzia moderna
 
 Prima essere giovani, e poi vantarsene.
 
 Z
 
-Per questo Zébu, che (come tutti i Zebú) [C]
+# Per questo Zébu, che (come tutti i Zebú) [C]
 
 È considerato divino dai devoti indù.
 
 Morale.
 
-Idolatria, come ben sapete…
+# Idolatria, come ben sapete…
 
 “È assolutamente riprovevole… Ma ecco.”
 

@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan" data-author="Coleridge" data-workhref="works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="002_nil_pejus_est_caelibe_vitæ" data-title="NIL PEJUS EST CAELIBE VITÆ" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/death,motif/the_grave,concept/marriage_and_fidelity,concept/love_romantic,concept/friendship,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+NIL PEJUS EST CAELIBE VITÆ · GENEVIEVE · A LOVER’S COMPLAINT TO HIS MISTRESS · WITH FIELDING’S ‘AMELIA’ · IMITATED FROM OSSIAN · THE ROSE · THE SIGH · ON A DISCOVERY MADE TOO LATE · SONNETS ON EMINENT CHARACTERS · PITT · TO RICHARD BRINSLEY SHERIDAN, ESQ. · TO THE REV. W. J. HORT: WHILE TEACHING A YOUNG LADY SOME SONG-TUNES ON HIS FLUTE · LINES IN THE MANNER OF SPENSER · THE HOUR WHEN WE SHALL MEET AGAIN · ON A LATE CONNUBIAL RUPTURE IN HIGH LIFE · LEWTI OR THE CIRCASSIAN LOVE-CHAUNT · FROM THE GERMAN · WATER BALLAD · NAMES · PHILADELPHIA · WESTPHALIAN SONG · LOVE · THE KEEPSAKE · TO ASRA · LOVE’S SANCTUARY · THE PICTURE OR THE LOVER’S RESOLUTION · THE HAPPY HUSBAND · THE EXCHANGE · SEPARATION · FAREWELL TO LOVE · THE VISIONARY HOPE · REASON FOR LOVE’S BLINDNESS · FIRST ADVENT OF LOVE · CONSTANCY TO AN IDEAL OBJECT · TO MARY PRIDHAM · ALICE DU CLOS OR THE FORKED TONGUE · LOVE’S BURIAL-PLACE · LOVE AND FRIENDSHIP OPPOSITE · NOT AT HOME · SENTIMENTAL · THE ALTERNATIVE · BEN JONSON: A NYMPH’S PASSION
+
+
+
+
+<span class="atom-split" data-atom="002_nil_pejus_est_caelibe_vitæ" data-title="NIL PEJUS EST CAELIBE VITÆ" data-chapter="" data-kind="intro"></span>
 
 
 IN [[characters/christ|CHRIST]]’S HOSPITAL BOOK  
@@ -67,7 +72,7 @@ a mostrare che l’uomo sì beato respirò un giorno l’aria vitale.
 
 
 
-<span class="atom-split" data-atom="019_genevieve" data-title="GENEVIEVE" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/stars,concept/love_romantic,concept/beauty,form/lyric,form/song,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="019_genevieve" data-title="GENEVIEVE" data-chapter="" data-kind="intro"></span>
 
 
 Maid of my [[motifs/love|Love]], sweet Genevieve!  
@@ -107,7 +112,7 @@ e perciò t’[[motifs/love|amo]], dolce Genevieve!
 
 
 
-<span class="atom-split" data-atom="037_a_lovers_complaint_to_his_mistress" data-title="A LOVER’S COMPLAINT TO HIS MISTRESS" data-chapter="" data-kind="intro" data-tags="archetype/femme_fatale,motif/the_sea,motif/money_gold,concept/unrequited_love,concept/deception,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="037_a_lovers_complaint_to_his_mistress" data-title="A LOVER’S COMPLAINT TO HIS MISTRESS" data-chapter="" data-kind="intro"></span>
 
 
 WHO DESERTED HIM IN [[topoi/quest|QUEST]] OF A MORE WEALTHY HUSBAND IN THE EAST INDIES  
@@ -145,7 +150,7 @@ e l’infido Oceano sorridere — ma per ingannare!
 
 
 
-<span class="atom-split" data-atom="038_with_fieldings_amelia" data-title="WITH FIELDING’S ‘AMELIA’" data-chapter="" data-kind="intro" data-tags="motif/the_book,concept/marriage_and_fidelity,concept/imagination,concept/the_common_man,concept/love_romantic,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="038_with_fieldings_amelia" data-title="WITH FIELDING’S ‘AMELIA’" data-chapter="" data-kind="intro"></span>
 
 
 Virtues and Woes alike too great for man  
@@ -185,7 +190,7 @@ in tutto fuorché nei dolori sarà fatta d’Amelie!
 
 
 
-<span class="atom-split" data-atom="040_imitated_from_ossian" data-title="IMITATED FROM OSSIAN" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/flowers,motif/wind,motif/river,motif/moon,concept/transience,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="040_imitated_from_ossian" data-title="IMITATED FROM OSSIAN" data-chapter="" data-kind="intro"></span>
 
 
 The stream with languid murmur creeps,  
@@ -237,7 +242,7 @@ nell’ora notturna del Sonno.   20
 
 
 
-<span class="atom-split" data-atom="043_the_rose" data-title="THE ROSE" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/rose,motif/flowers,motif/garden,concept/love_romantic,concept/beauty,form/lyric,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="043_the_rose" data-title="THE ROSE" data-chapter="" data-kind="intro"></span>
 
 
 As late each flower that sweetest blows  
@@ -297,7 +302,7 @@ io fisserò qui il mio impero.’
 
 
 
-<span class="atom-split" data-atom="062_the_sigh" data-title="THE SIGH" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,motif/the_sea,concept/love_romantic,concept/melancholy,concept/grief_and_loss,concept/exile,concept/unrequited_love,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="062_the_sigh" data-title="THE SIGH" data-chapter="" data-kind="intro"></span>
 
 
 When Youth his faery reign began  
@@ -357,7 +362,7 @@ ancora, Mary! ancora sospiro per te.
 
 
 
-<span class="atom-split" data-atom="074_on_a_discovery_made_too_late" data-title="ON A DISCOVERY MADE TOO LATE" data-chapter="" data-kind="intro" data-tags="motif/madness,concept/jealousy,concept/grief_and_loss,concept/madness,concept/hope,concept/unrequited_love,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="074_on_a_discovery_made_too_late" data-title="ON A DISCOVERY MADE TOO LATE" data-chapter="" data-kind="intro"></span>
 
 
 Thou bleedest, my poor Heart! and thy distress  
@@ -397,7 +402,7 @@ che pallido e malaticcio langue sul suo seno!
 
 
 
-<span class="atom-split" data-atom="081_sonnets_on_eminent_characters" data-title="SONNETS ON EMINENT CHARACTERS" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,concept/nationalism_and_patriotism,concept/satire_of_society,form/sonnet_sequence,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="081_sonnets_on_eminent_characters" data-title="SONNETS ON EMINENT CHARACTERS" data-chapter="" data-kind="intro"></span>
 
 
 CONTRIBUTED TO THE ‘MORNING CHRONICLE’ IN DECEMBER 1794 AND JANUARY 1795  
@@ -423,7 +428,7 @@ I
 
 
 
-<span class="atom-split" data-atom="087_pitt" data-title="PITT" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,motif/the_cross,concept/power_and_corruption,concept/deception,concept/liberty,form/sonnet,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="087_pitt" data-title="PITT" data-chapter="" data-kind="intro"></span>
 
 
 Not always should the Tear’s ambrosial dew  
@@ -463,7 +468,7 @@ e scaglia i suoi fulmini con mano più fiera!
 
 
 
-<span class="atom-split" data-atom="092_to_richard_brinsley_sheridan_esq" data-title="TO RICHARD BRINSLEY SHERIDAN, ESQ." data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/the_artist_and_society,concept/nationalism_and_patriotism,concept/deception,form/sonnet,histref/classical_antiquity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="092_to_richard_brinsley_sheridan_esq" data-title="TO RICHARD BRINSLEY SHERIDAN, ESQ." data-chapter="" data-kind="intro"></span>
 
 
 It was some Spirit, SHERIDAN! that breath’d  
@@ -503,7 +508,7 @@ come un tempo quel Demone più antico sotto la spada del gran [[characters/micha
 
 
 
-<span class="atom-split" data-atom="097_to_the_rev_w_j_hort_while_teaching_a_young_lady_some_song-tunes_on_his_flute" data-title="TO THE REV. W. J. HORT: WHILE TEACHING A YOUNG LADY SOME SONG-TUNES ON HIS FLUTE" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/music_and_song,motif/memory,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="097_to_the_rev_w_j_hort_while_teaching_a_young_lady_some_song-tunes_on_his_flute" data-title="TO THE REV. W. J. HORT: WHILE TEACHING A YOUNG LADY SOME SONG-TUNES ON HIS FLUTE" data-chapter="" data-kind="intro"></span>
 
 
 I  
@@ -573,7 +578,7 @@ e io ti ringrazierò con una lacrima rapita.
 
 
 
-<span class="atom-split" data-atom="101_lines_in_the_manner_of_spenser" data-title="LINES IN THE MANNER OF SPENSER" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/dreams,motif/sleep,concept/love_romantic,concept/imagination,form/spenserian_stanza,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="101_lines_in_the_manner_of_spenser" data-title="LINES IN THE MANNER OF SPENSER" data-chapter="" data-kind="intro"></span>
 
 
 O Peace, that on a lilied bank dost [[motifs/love|love]]  
@@ -675,7 +680,7 @@ teneramente scordai. Troppo tardi mi destai, e sospirai —
 
 
 
-<span class="atom-split" data-atom="102_the_hour_when_we_shall_meet_again" data-title="THE HOUR WHEN WE SHALL MEET AGAIN" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/rose,motif/dawn,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="102_the_hour_when_we_shall_meet_again" data-title="THE HOUR WHEN WE SHALL MEET AGAIN" data-chapter="" data-kind="intro"></span>
 
 
 (Composed during Illness, and in Absence.)  
@@ -725,7 +730,7 @@ la sua pietosa Signora piange, e piangendo risana!
 
 
 
-<span class="atom-split" data-atom="117_on_a_late_connubial_rupture_in_high_life" data-title="ON A LATE CONNUBIAL RUPTURE IN HIGH LIFE" data-chapter="" data-kind="intro" data-tags="motif/rose,concept/marriage_and_fidelity,concept/grief_and_loss,concept/power_and_corruption,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="117_on_a_late_connubial_rupture_in_high_life" data-title="ON A LATE CONNUBIAL RUPTURE IN HIGH LIFE" data-chapter="" data-kind="intro"></span>
 
 
 [PRINCE AND PRINCESS OF WALES]  
@@ -779,7 +784,7 @@ come due lucide gocce di rugiada che s’incontrano in un fiore.   20
 
 
 
-<span class="atom-split" data-atom="152_lewti_or_the_circassian_love-chaunt" data-title="LEWTI OR THE CIRCASSIAN LOVE-CHAUNT" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/moon,motif/nightingale,concept/unrequited_love,concept/love_romantic,form/song,setting/the_orient,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="152_lewti_or_the_circassian_love-chaunt" data-title="LEWTI OR THE CIRCASSIAN LOVE-CHAUNT" data-chapter="" data-kind="intro"></span>
 
 
 At midnight by the stream I roved,  
@@ -957,7 +962,7 @@ Domani Lewti potrà esser benigna.
 
 
 
-<span class="atom-split" data-atom="170_from_the_german" data-title="FROM THE GERMAN" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/nature,motif/the_journey,concept/nostalgia,form/lyric,form/translation,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="170_from_the_german" data-title="FROM THE GERMAN" data-chapter="" data-kind="intro"></span>
 
 
 Know’st thou the land where the pale citrons grow,  
@@ -981,7 +986,7 @@ Laggiù con te, oh, laggiù vorrei andare!
 
 
 
-<span class="atom-split" data-atom="171_water_ballad" data-title="WATER BALLAD" data-chapter="" data-kind="intro" data-tags="motif/river,motif/the_journey,motif/water,concept/love_romantic,concept/marriage_and_fidelity,form/song,form/translation,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="171_water_ballad" data-title="WATER BALLAD" data-chapter="" data-kind="intro"></span>
 
 
 FROM THE FRENCH  
@@ -1043,7 +1048,7 @@ per sempre al mio fianco.’
 
 
 
-<span class="atom-split" data-atom="177_names" data-title="NAMES" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/love,concept/love_romantic,form/epigram,form/translation,histref/classical_antiquity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="177_names" data-title="NAMES" data-chapter="" data-kind="intro"></span>
 
 
 [FROM LESSING]  
@@ -1081,7 +1086,7 @@ solo, solo chiamami Tua.’
 
 
 
-<span class="atom-split" data-atom="178_philadelphia" data-title="PHILADELPHIA" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/love,concept/love_romantic,form/epigram,form/translation,histref/classical_antiquity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="178_philadelphia" data-title="PHILADELPHIA" data-chapter="" data-kind="intro"></span>
 
 
 in  
@@ -1147,7 +1152,7 @@ P. R.
 
 
 
-<span class="atom-split" data-atom="181_westphalian_song" data-title="WESTPHALIAN SONG" data-chapter="" data-kind="intro" data-tags="motif/death,motif/love,concept/love_romantic,concept/deception,form/song,form/translation,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="181_westphalian_song" data-title="WESTPHALIAN SONG" data-chapter="" data-kind="intro"></span>
 
 
 [The following is an almost literal [[forms/translation|translation]] of a very old and very  
@@ -1183,7 +1188,7 @@ di’, vengo domani.
 
 
 
-<span class="atom-split" data-atom="185_love" data-title="LOVE" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,archetype/lover,motif/music_and_song,motif/ruins,motif/moon,concept/love_romantic,concept/unrequited_love,concept/madness,form/ballad,form/narrative_poem,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="185_love" data-title="LOVE" data-chapter="" data-kind="intro"></span>
 
 
 All thoughts, all passions, all delights,  
@@ -1387,7 +1392,7 @@ la mia lucente e bellissima Sposa.
 
 
 
-<span class="atom-split" data-atom="191_the_keepsake" data-title="THE KEEPSAKE" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/rose,motif/seasons,motif/memory,concept/love_romantic,concept/marriage_and_fidelity,concept/transience,form/blank_verse,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="191_the_keepsake" data-title="THE KEEPSAKE" data-chapter="" data-kind="intro"></span>
 
 
 The tedded hay, the first fruits of the soil,  
@@ -1477,7 +1482,7 @@ e non avrebbe portato d’allora altro nome che il mio!
 
 
 
-<span class="atom-split" data-atom="202_to_asra" data-title="TO ASRA" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/water,motif/spring,concept/love_romantic,concept/joy,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="202_to_asra" data-title="TO ASRA" data-chapter="" data-kind="intro"></span>
 
 
 Are there two things, of all which men possess,  
@@ -1517,7 +1522,7 @@ la tua sorte, penso, sarebbe il Cielo, la tua età, l’[[concepts/eternity|Eter
 
 
 
-<span class="atom-split" data-atom="204_loves_sanctuary" data-title="LOVE’S SANCTUARY" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,concept/love_romantic,concept/love_divine,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="204_loves_sanctuary" data-title="LOVE’S SANCTUARY" data-chapter="" data-kind="intro"></span>
 
 
 This yearning heart ([[motifs/love|Love]]! witness what I say)  
@@ -1539,7 +1544,7 @@ come santi Sacerdoti, che non osano pensare male.
 
 
 
-<span class="atom-split" data-atom="207_the_picture_or_the_lovers_resolution" data-title="THE PICTURE OR THE LOVER’S RESOLUTION" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,topos/pastoral_retreat,archetype/outcast_wanderer,motif/the_mirror,motif/water,motif/nature,motif/serpent_snake,concept/love_romantic,concept/unrequited_love,concept/imagination,concept/appearance_vs_reality,form/blank_verse,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="207_the_picture_or_the_lovers_resolution" data-title="THE PICTURE OR THE LOVER’S RESOLUTION" data-chapter="" data-kind="intro"></span>
 
 
 Through weeds and thorns, and matted underwood  
@@ -1925,7 +1930,7 @@ e posso esserle guida per tutto il lungo bosco.
 
 
 
-<span class="atom-split" data-atom="217_the_happy_husband" data-title="THE HAPPY HUSBAND" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/love_romantic,concept/marriage_and_fidelity,concept/joy,form/fragment,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="217_the_happy_husband" data-title="THE HAPPY HUSBAND" data-chapter="" data-kind="intro"></span>
 
 
 A [[forms/fragment|FRAGMENT]]  
@@ -1987,7 +1992,7 @@ che pare, e pure non può essere, maggiore!
 
 
 
-<span class="atom-split" data-atom="219_the_exchange" data-title="THE EXCHANGE" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/nature,concept/love_romantic,concept/joy,form/song,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="219_the_exchange" data-title="THE EXCHANGE" data-chapter="" data-kind="intro"></span>
 
 
 We pledged our hearts, my [[motifs/love|love]] and I, —  
@@ -2015,7 +2020,7 @@ Avevamo scambiato i cuori davvero.
 
 
 
-<span class="atom-split" data-atom="227_separation" data-title="SEPARATION" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/swords_weapons,concept/love_romantic,concept/grief_and_loss,concept/appearance_vs_reality,form/song,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="227_separation" data-title="SEPARATION" data-chapter="" data-kind="intro"></span>
 
 
 A sworded man whose trade is [[motifs/blood|blood]],  
@@ -2079,7 +2084,7 @@ non mezzo bastante per separarmi da Te!
 
 
 
-<span class="atom-split" data-atom="231_farewell_to_love" data-title="FAREWELL TO LOVE" data-chapter="" data-kind="intro" data-tags="archetype/lover,concept/love_romantic,concept/disillusionment,concept/imagination,concept/melancholy,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="231_farewell_to_love" data-title="FAREWELL TO LOVE" data-chapter="" data-kind="intro"></span>
 
 
 Farewell, sweet [[motifs/love|Love]]! yet blame you not my [[concepts/truth|truth]];  
@@ -2119,7 +2124,7 @@ con pensieri che mi piacciono meno, e meno mi tradiscono.
 
 
 
-<span class="atom-split" data-atom="240_the_visionary_hope" data-title="THE VISIONARY HOPE" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/sleep,concept/melancholy,concept/unrequited_love,concept/grief_and_loss,concept/alienation,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="240_the_visionary_hope" data-title="THE VISIONARY HOPE" data-chapter="" data-kind="intro"></span>
 
 
 Sad lot, to have no [[concepts/hope|Hope]]! Though lowly kneeling  
@@ -2187,7 +2192,7 @@ tal forza ch’egli benedirebbe le sue pene e vivrebbe.
 
 
 
-<span class="atom-split" data-atom="245_reason_for_loves_blindness" data-title="REASON FOR LOVE’S BLINDNESS" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/eyes_sight,concept/love_romantic,concept/appearance_vs_reality,concept/truth,form/epigram,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="245_reason_for_loves_blindness" data-title="REASON FOR LOVE’S BLINDNESS" data-chapter="" data-kind="intro"></span>
 
 
 I have heard of reasons manifold  
@@ -2215,7 +2220,7 @@ lo vede col cuore.
 
 
 
-<span class="atom-split" data-atom="266_first_advent_of_love" data-title="FIRST ADVENT OF LOVE" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/wind,concept/love_romantic,concept/innocence_and_experience,form/lyric,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="266_first_advent_of_love" data-title="FIRST ADVENT OF LOVE" data-chapter="" data-kind="intro"></span>
 
 
 O fair is [[motifs/love|Love]]’s first [[concepts/hope|hope]] to gentle mind!  
@@ -2239,7 +2244,7 @@ l’incontra con la fronte levata, e sospende la mietitura.
 
 
 
-<span class="atom-split" data-atom="272_constancy_to_an_ideal_object" data-title="CONSTANCY TO AN IDEAL OBJECT" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/storm,concept/imagination,concept/unrequited_love,concept/transience,concept/exile,concept/self_and_soul,concept/disillusionment,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="272_constancy_to_an_ideal_object" data-title="CONSTANCY TO AN IDEAL OBJECT" data-chapter="" data-kind="intro"></span>
 
 
 Since all that beat about in [[concepts/nature|Nature]]’s range,  
@@ -2315,7 +2320,7 @@ né sa che è lui a fare l’[[archetypes/shadow|ombra]] che insegue!
 
 
 
-<span class="atom-split" data-atom="280_to_mary_pridham" data-title="TO MARY PRIDHAM" data-chapter="" data-kind="intro" data-tags="concept/love_romantic,concept/marriage_and_fidelity,concept/joy,concept/friendship,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="280_to_mary_pridham" data-title="TO MARY PRIDHAM" data-chapter="" data-kind="intro"></span>
 
 
 AFTERWARDS MRS. DERWENT COLERIDGE  
@@ -2355,7 +2360,7 @@ S. T. COLERIDGE.
 
 
 
-<span class="atom-split" data-atom="281_alice_du_clos_or_the_forked_tongue" data-title="ALICE DU CLOS OR THE FORKED TONGUE" data-chapter="" data-kind="intro" data-tags="archetype/innocent,archetype/villain,motif/blood,motif/dawn,motif/swords_weapons,motif/horse,concept/deception,concept/jealousy,concept/innocence_and_experience,form/ballad,form/narrative_poem,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="281_alice_du_clos_or_the_forked_tongue" data-title="ALICE DU CLOS OR THE FORKED TONGUE" data-chapter="" data-kind="intro"></span>
 
 
 A BALLAD  
@@ -2759,7 +2764,7 @@ giace sanguinante sulla radura.
 
 
 
-<span class="atom-split" data-atom="282_loves_burial-place" data-title="LOVE’S BURIAL-PLACE" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/unrequited_love,concept/transience,concept/melancholy,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="282_loves_burial-place" data-title="LOVE’S BURIAL-PLACE" data-chapter="" data-kind="intro"></span>
 
 
 Lady. If [[motifs/love|Love]] be dead —  
@@ -2793,7 +2798,7 @@ e morì infine di Consunzione.’
 
 
 
-<span class="atom-split" data-atom="291_love_and_friendship_opposite" data-title="LOVE AND FRIENDSHIP OPPOSITE" data-chapter="" data-kind="intro" data-tags="archetype/lover,concept/love_romantic,concept/friendship,concept/unrequited_love,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="291_love_and_friendship_opposite" data-title="LOVE AND FRIENDSHIP OPPOSITE" data-chapter="" data-kind="intro"></span>
 
 
 Her attachment may differ from yours in degree,  
@@ -2821,7 +2826,7 @@ dovrete abbassare il vostro al suo.
 
 
 
-<span class="atom-split" data-atom="292_not_at_home" data-title="NOT AT HOME" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/sleep,concept/love_romantic,concept/jealousy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="292_not_at_home" data-title="NOT AT HOME" data-chapter="" data-kind="intro"></span>
 
 
 That [[concepts/jealousy|Jealousy]] may rule a mind  
@@ -2857,7 +2862,7 @@ e proprio ora non si può vedere.
 
 
 
-<span class="atom-split" data-atom="356_sentimental" data-title="SENTIMENTAL" data-chapter="" data-kind="intro" data-tags="motif/rose,concept/satire_of_society,concept/love_romantic,form/parody,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="356_sentimental" data-title="SENTIMENTAL" data-chapter="" data-kind="intro"></span>
 
 
 The [[motifs/rose|rose]] that blushes like the morn,  
@@ -2899,7 +2904,7 @@ per la prima volta in P. and D. W., 1877, ii. 373.
 
 
 
-<span class="atom-split" data-atom="358_the_alternative" data-title="THE ALTERNATIVE" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/unrequited_love,concept/love_romantic,concept/satire_of_society,form/epigram,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="358_the_alternative" data-title="THE ALTERNATIVE" data-chapter="" data-kind="intro"></span>
 
 
 This way or that, ye Powers above me!  
@@ -2933,7 +2938,7 @@ per la prima volta nel 1893.
 
 
 
-<span class="atom-split" data-atom="423_ben_jonson_a_nymphs_passion" data-title="BEN JONSON: A NYMPH’S PASSION" data-chapter="" data-kind="intro" data-tags="motif/love,motif/eyes_sight,motif/flowers,concept/love_romantic,concept/jealousy,form/lyric,form/song,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
+<span class="atom-split" data-atom="423_ben_jonson_a_nymphs_passion" data-title="BEN JONSON: A NYMPH’S PASSION" data-chapter="" data-kind="intro"></span>
 
 
 I [[motifs/love|love]], and he loves me again,  

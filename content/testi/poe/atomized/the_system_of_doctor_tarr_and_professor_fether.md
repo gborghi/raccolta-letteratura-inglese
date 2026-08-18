@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_system_of_doctor_tarr_and_professor_fether" data-title="The System of Doctor Tarr and Professor Fether" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-system-of-doctor-tarr-and-professor-fether-(poe)|The System of Doctor Tarr and Professor Fether]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

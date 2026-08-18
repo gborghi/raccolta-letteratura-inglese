@@ -16,13 +16,13 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/dickinson/atomized/mortality-grave-memento-mori#0075_she_died_at_play|75. She died at play, (Dickinson)]]
-- [[testi/coleridge/atomized/terror-and-horror-madness#014_anna_and_harland|ANNA AND HARLAND (Coleridge)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#240_as_if_a_phantom_caress_d_me|As If a Phantom Caress’d Me (Whitman)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#317_red_jacket_from_aloft|Red Jacket (From Aloft) (Whitman)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori--poems#e_died_at_play|75. She died at play, (Dickinson)]]
+- [[works/anna-and-harland-(coleridge)|ANNA AND HARLAND (Coleridge)]]
+- [[works/as-if-a-phantom-caress’d-me-(whitman)|As If a Phantom Caress’d Me (Whitman)]]
+- [[works/red-jacket-(from-aloft)-(whitman)|Red Jacket (From Aloft) (Whitman)]]
 - [[works/shop-of-ghosts-(chesterton)|shop-of-ghosts (Chesterton)]]
 - [[works/the-canterville-ghost-(wilde)|The Canterville Ghost (Wilde)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#257_the_mystic_trumpeter|The Mystic Trumpeter (Whitman)]]
+- [[works/the-mystic-trumpeter-(whitman)|The Mystic Trumpeter (Whitman)]]
 - [[works/wuthering-heights-(bronte)|Wuthering Heights (Bronte)]]
 
 </div>

@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight" data-author="Coleridge" data-workhref="works/appearance-vs-reality-·-beauty-·-eyes-and-sight-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="065_translation_of_wranghams_hendecasyllabi_ad_bruntonam_e_granta_exituram_kal_octmd" data-title="TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ [KAL. OCT.MDCCXC]" data-chapter="" data-kind="intro" data-tags="concept/the_artist_and_society,concept/beauty,concept/grief_and_loss,concept/terror_and_horror,form/lyric,histref/greek_mythology,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ [KAL. OCT.MDCCXC] · BURKE · TO AN UNFORTUNATE WOMAN AT THE THEATRE · TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE · THE BALLAD OF THE DARK LADIÉ · ALCAEUS TO SAPPHO · THE TWO FOUNTS · GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY · TO ONE WHO PUBLISHED IN PRINT · SPOTS IN THE SUN · AN EXPERIMENT FOR A METRE
+
+
+
+
+<span class="atom-split" data-atom="065_translation_of_wranghams_hendecasyllabi_ad_bruntonam_e_granta_exituram_kal_octmd" data-title="TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ [KAL. OCT.MDCCXC]" data-chapter="" data-kind="intro"></span>
 
 
 Maid of unboastful charms! whom white-robed [[concepts/truth|Truth]]  
@@ -91,7 +96,7 @@ incantevole ministra di virtuoso dolore!
 
 
 
-<span class="atom-split" data-atom="083_burke" data-title="BURKE" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,concept/liberty,concept/deception,concept/power_and_corruption,concept/grief_and_loss,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="083_burke" data-title="BURKE" data-chapter="" data-kind="intro"></span>
 
 
 As late I lay in Slumber’s shadowy vale,  
@@ -131,7 +136,7 @@ così potrei stringerti con gioia di Madre!’
 
 
 
-<span class="atom-split" data-atom="129_to_an_unfortunate_woman_at_the_theatre" data-title="TO AN UNFORTUNATE WOMAN AT THE THEATRE" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/fallen_woman,motif/birds,concept/melancholy,concept/innocence_and_experience,concept/deception,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="129_to_an_unfortunate_woman_at_the_theatre" data-title="TO AN UNFORTUNATE WOMAN AT THE THEATRE" data-chapter="" data-kind="intro"></span>
 
 
 Maiden, that with sullen brow  
@@ -207,7 +212,7 @@ e s'immergerà in luce celeste.
 
 
 
-<span class="atom-split" data-atom="130_to_an_unfortunate_woman_whom_the_author_had_known_in_the_days_of_her_innocence" data-title="TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/fallen_woman,motif/flowers,concept/innocence_and_experience,concept/deception,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="130_to_an_unfortunate_woman_whom_the_author_had_known_in_the_days_of_her_innocence" data-title="TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE" data-chapter="" data-kind="intro"></span>
 
 
 Myrtle-leaf that, ill besped,  
@@ -251,7 +256,7 @@ gettata ad appassire, a marcire e morire.
 
 
 
-<span class="atom-split" data-atom="158_the_ballad_of_the_dark_ladié" data-title="THE BALLAD OF THE DARK LADIÉ" data-chapter="" data-kind="intro" data-tags="archetype/fallen_woman,concept/unrequited_love,concept/deception,concept/love_romantic,form/ballad,form/fragment,setting/the_castle,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="158_the_ballad_of_the_dark_ladié" data-title="THE BALLAD OF THE DARK LADIÉ" data-chapter="" data-kind="intro"></span>
 
 
 A [[forms/fragment|FRAGMENT]]  
@@ -389,7 +394,7 @@ e le damigelle nuziali arrossenti.   60
 
 
 
-<span class="atom-split" data-atom="196_alcaeus_to_sappho" data-title="ALCAEUS TO SAPPHO" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/eyes_sight,motif/white_and_red,concept/love_romantic,concept/beauty,form/lyric,histref/classical_antiquity,histref/ancient_greece,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="196_alcaeus_to_sappho" data-title="ALCAEUS TO SAPPHO" data-chapter="" data-kind="intro"></span>
 
 
 How sweet, when crimson colours dart  
@@ -441,7 +446,7 @@ il volto più bello della terra!   20
 
 
 
-<span class="atom-split" data-atom="271_the_two_founts" data-title="THE TWO FOUNTS" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/water,motif/flowers,concept/beauty,concept/grief_and_loss,concept/sin_and_the_fall,concept/friendship,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="271_the_two_founts" data-title="THE TWO FOUNTS" data-chapter="" data-kind="intro"></span>
 
 
 STANZAS ADDRESSED TO A LADY ON HER RECOVERY WITH UNBLEMISHED LOOKS, FROM A SEVERE ATTACK OF [[motifs/pain|PAIN]]  
@@ -551,7 +556,7 @@ Ammassa per te il [[motifs/pain|dolore]] che non vuoi dare!
 
 
 
-<span class="atom-split" data-atom="290_grove_highgate_song_on_hearing_a_song_in_praise_of_a_ladys_beauty" data-title="GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/eyes_sight,motif/flowers,concept/love_romantic,concept/beauty,form/song,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="290_grove_highgate_song_on_hearing_a_song_in_praise_of_a_ladys_beauty" data-title="GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY" data-chapter="" data-kind="intro"></span>
 
 
 AUGUST 1829  
@@ -577,7 +582,7 @@ Keepsake, 1830.
 
 
 
-<span class="atom-split" data-atom="337_to_one_who_published_in_print" data-title="TO ONE WHO PUBLISHED IN PRINT" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/letters_writing,concept/satire_of_society,concept/friendship,concept/deception,form/epigram,histref/greek_mythology,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="337_to_one_who_published_in_print" data-title="TO ONE WHO PUBLISHED IN PRINT" data-chapter="" data-kind="intro"></span>
 
 
 WHAT HAD BEEN ENTRUSTED TO HIM BY MY FIRESIDE  
@@ -651,7 +656,7 @@ Weil er vergebens hofft auf was nicht kann geschehn?’
 
 
 
-<span class="atom-split" data-atom="345_spots_in_the_sun" data-title="SPOTS IN THE SUN" data-chapter="" data-kind="intro" data-tags="motif/sun,concept/satire_of_society,concept/faith_and_doubt,concept/appearance_vs_reality,concept/lust,form/epigram,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="345_spots_in_the_sun" data-title="SPOTS IN THE SUN" data-chapter="" data-kind="intro"></span>
 
 
 My father confessor is strict and holy,  
@@ -697,7 +702,7 @@ Pubblicato per la prima volta nel Morning Post, 11 ott. 1802.
 
 
 
-<span class="atom-split" data-atom="406_an_experiment_for_a_metre" data-title="AN EXPERIMENT FOR A METRE" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/love_romantic,concept/beauty,form/fragment,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
+<span class="atom-split" data-atom="406_an_experiment_for_a_metre" data-title="AN EXPERIMENT FOR A METRE" data-chapter="" data-kind="intro"></span>
 
 
 Ø Ø ¯, Ø Ø ¯  

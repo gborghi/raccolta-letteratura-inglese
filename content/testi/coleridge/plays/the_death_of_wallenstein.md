@@ -17,6 +17,10 @@ tags:
 Coleridge's blank-verse translation of Schiller's historical tragedy in five acts, dramatizing the imperial general Wallenstein's treason against the Emperor, his betrayal by trusted officers, and his assassination. Its central matter is ambition, fate (Wallenstein's trust in his star), political power and corruption, and the cost of war.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller in cinque atti, che drammatizza il tradimento del generale imperiale Wallenstein contro l'Imperatore, il tradimento da parte dei suoi ufficiali di fiducia e il suo assassinio. Materia centrale ne sono l'ambizione, il fato (la fiducia di Wallenstein nella sua stella), il potere politico e la corruzione, e il prezzo della guerra.
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/time"></span>

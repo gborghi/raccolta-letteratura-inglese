@@ -205,9 +205,9 @@ Dedica
 
 TO
 
-F.Y. Eccles
+# F.Y. Eccles
 
-Mio caro Eccles
+#Mio caro Eccles
 
 So che mi permetterete di rivolgervi questi saggi, i quali rappresentano piuttosto il frutto della vostra erudizione che del mio entusiasmo.
 
@@ -379,13 +379,13 @@ La loro storia è come quei manoscritti che, più di ogni altra cosa, amavano e 
 
 Ecco l’intera linea di discendenza; ma guardate questo Valois: in lui si riscontrano tutte le qualità della sua razza, temperate da una tristezza permanente che lo rende mite e gentile, non pieno di speranza, ma ancora capace di apprezzare la [[concepts/beauty|bellezza]]; inoltre, possedeva una carità che nessun altro Valois aveva mai avuto. Meno appassionato, quindi molto meno ansioso e efficace della maggior parte dei suoi simili, tuttavia in lui non si manifestò mai il segno della follia, né la crudeltà che ne consegue, né quella forma di lusso sterile tipica dei suoi antenati. Tutti i Valois erano poeti nel loro genere; la sua vita, con ogni suo evento, lo spingeva a scrivere. A quindici anni fu unito in matrimonio a quella adorabile fanciulla che Riccardo II aveva tenuto tra le braccia a Windsor, mentre partiva con tutto lo sfarzo per l’Irlanda. Tre anni dopo, quando il loro matrimonio divenne effettivo, lei morì durante il parto. E credo proprio che sia a lei che scrisse in prigione quella ballata la cui conclusione suona così.
 
-Dio sopra ogni sovrano signore
+# Dio sopra ogni sovrano signore
 
 Ordinatemi con grazia e dolcezza
 
-De l'âme d'elle, tantôt...
+# De l'âme d'elle, tantôt...
 
-Non sia troppo lunga
+# Non sia troppo lunga
 
 In preda solo a preoccupazioni e dolore.
 
@@ -403,11 +403,11 @@ Infatti, fu considerato un testo medievale e completamente dimenticato per trece
 
 Il verso è pieno di allegorie; è ripetitivo; potrebbe stancare chi si sofferma sul sapore di quel triste quindicesimo secolo, quando la mente umana era oppressa e solo i ricchi potevano esprimersi con le loro parole insignificanti; un estraneo, in particolare, potrebbe trovarlo privo di significato, ma il suo giudizio sarebbe errato. Carlo d’Orléans possedeva una nota completamente nuova e originale che, dopo di lui, non ha mai più perso di efficacia, anzi è cresciuta in intensità e maestosità fino a riempire l’intero coro della Pleiade: quella nota lirica dell’espressione personale diretta. Forse furono le guerre a farla nascere in lui; il ritmo delle canzoni militari era ancora spontaneo.
 
-Nobile Duca di Lorena, avete grande fama
+# Nobile Duca di Lorena, avete grande fama
 
-La vostra fama si diffonde oltre le montagne
+# La vostra fama si diffonde oltre le montagne
 
-Et voi e i vostri uomini d’armi, e tutti i vostri compagni
+# Et voi e i vostri uomini d’armi, e tutti i vostri compagni
 
 Al primo colpo che sferrano, abbattono i castelli.
 
@@ -417,17 +417,17 @@ Qualunque ne fosse la causa, questa spontaneità e freschezza caratterizzano l�
 
 La primavera e la sicurezza, l’equilibrio di queste cose leggere le trasformano in uno stormo di uccelli.
 
-Che direttamente è…
+# Che direttamente è…
 
 Dio, che bel modo ha di guardarla!
 
 Aggraziata, gentile e bella.
 
-O questo…
+#O questo…
 
 Il giorno dopo il primo maggio
 
-"Nel mio letto, mentre dormivo..."
+#"Nel mio letto, mentre dormivo..."
 
 Al sorgere del giorno iniziai a sognare.
 
@@ -651,20 +651,20 @@ Quella malinconia si rivelerà presto una qualità permanente nella poesia, prop
 
 La lamentela.
 
-"Las! Mort chi ti ha reso così audace..."
+#"Las! Mort chi ti ha reso così audace..."
 
 Titolo:  
 Prendere in sposa la nobile principessa
 
-Qui era il mio rifugio, oh vita mia…
+# Qui era il mio rifugio, oh vita mia…
 
 Il mio bene, il mio piacere, la mia ricchezza!
 
 “Poiché hai preso la mia padrona…”
 
-Il mio principe è anche il mio servo
+# Il mio principe è anche il mio servo
 
-Car j'ayme mieulx prouchainement
+# Car j'ayme mieulx prouchainement
 
 Titolo:  
 Morire piuttosto che soffrire in eterno tormento
@@ -676,17 +676,17 @@ Era completamente priva di ogni bene.
 
 E in pieno fiore della giovinezza!
 
-Che Dio ti maledica
+# Che Dio ti maledica
 
 Morte falsa, terra di crudeltà!
 
-Se le avessi prese in vecchiaia
+# Se le avessi prese in vecchiaia
 
 Non ci fu mai troppa severità…
 
-Prendila in fretta
+# Prendila in fretta
 
-Et m’as laissié piteusement
+# Et m’as laissié piteusement
 
 In dolore, sofferenza e angoscia.
 
@@ -694,36 +694,36 @@ Ahimè, sono solo, senza compagnia!
 
 Addio, mia signora, addio per sempre!
 
-O è il nostro amore che se n’è andato…
+# O è il nostro amore che se n’è andato…
 
 Titolo:  
 "Non versare troppo, te lo prometto."
 
-Molti sono i modi per pregare
+# Molti sono i modi per pregare
 
 "Morte vous serviray de cueur"
 
 Senza dimenticare assolutamente nessuno.
 
-Spesso ve ne pentirete
+# Spesso ve ne pentirete
 
 In dolore, sofferenza e angoscia.
 
 CONCLUSIONE.
 
-Dio, sovrano Signore su ogni cosa
+# Dio, sovrano Signore su ogni cosa
 
 Ordinatemi, per grazia e dolcezza…
 
-De l’âme d’elle, tant…
+# De l’âme d’elle, tant…
 
-Non sia troppo lunga
+# Non sia troppo lunga
 
 In dolore, sofferenza e angoscia.
 
 I due rondelli della [[motifs/spring|Primavera]].
 
-Il 41° e il 43° dei “Rondò”
+# Il 41° e il 43° dei “Rondò”
 
 Questi due poemi in forma di rondeau, dei quali possiamo anche presumere, sebbene molto vagamente, che siano stati scritti in Inghilterra (poiché seguono lo stile delle sue opere precedenti), sono di gran lunga i più famosi tra le molte cose che ha scritto; e a ragione, poiché possiedono tutte queste qualità.
 
@@ -740,15 +740,15 @@ I due rondelli della primavera.
 Titolo:  
 Sono arrivati i quattro guardiani dell’estate
 
-"Arredare la propria dimora"
+#"Arredare la propria dimora"
 
 “E hanno fatto tendere i loro tappeti…”
 
 Tessuti fatti di fiori e verdure.
 
-In piedi su un tappeto velluto
+# In piedi su un tappeto velluto
 
-Erba verde che copre la campagna
+# Erba verde che copre la campagna
 
 Titolo:  
 Sono arrivati i fornitori di Esté
@@ -757,27 +757,27 @@ Per arredare la sua dimora.
 
 Cuori di noia, pensieri malinconici…
 
-Grazie al cielo, sono sani e belli;
+# Grazie al cielo, sono sani e belli;
 
-"Andatevene, prendetevi il vostro tempo..."
+#"Andatevene, prendetevi il vostro tempo..."
 
-Non rimarrete più qui
+# Non rimarrete più qui
 
 I furiere di Esté sono arrivati.
 
-I tempi hanno lasciato il loro mantello
+# I tempi hanno lasciato il loro mantello
 
-Di vento, di freddo e di pioggia
+# Di vento, di freddo e di pioggia
 
-Si è vestito di nebbia
+# Si è vestito di nebbia
 
 Di sole splendente, chiaro e bello.
 
 Non c’è bestia né uccello…
 
-Cosa canta o grida nel suo gergo…
+# Cosa canta o grida nel suo gergo…
 
-I tempi hanno lasciato il loro mantello
+# I tempi hanno lasciato il loro mantello
 
 Vento freddo e pioggia.
 
@@ -804,7 +804,7 @@ Tuttavia, fu scritto in un momento successivo della sua vita; chi fosse lei, o s
 
 Il suo amore al mattino.
 
-Che bello da guardare
+# Che bello da guardare
 
 La graziosa, buona e bella ragazza!
 
@@ -817,16 +817,16 @@ Qui si potrebbe smettere di parlarne.
 
 La sua bellezza si rinnova sempre.
 
-Che bella donna da guardare…
+# Che bella donna da guardare…
 
 Quella gentile, buona e bella.
 
-"Da una parte o dall'altra del mare..."
+#"Da una parte o dall'altra del mare..."
 
 Titolo:  
 Né signora né damigella
 
-Che sia in tutti i beni perfetta così…
+# Che sia in tutti i beni perfetta così…
 
 Pensarci è solo un sogno.
 
@@ -921,33 +921,33 @@ L’addio.
 Titolo:  
 Salve, compagni tutti!
 
-Dove sono ora queste povere anime
+# Dove sono ora queste povere anime
 
 Titolo:  
 "Dite loro che con piacere lo farò"
 
-"Con te, ma non posso esserci."
+#"Con te, ma non posso esserci."
 
 A Vecchiaia, che mi ha affidato questa responsabilità.
 
 Titolo:  
 Nei tempi passati, una gioventù così bella
 
-Me governoit; las! o n’y suis-je moi-même
+# Me governoit; las! o n’y suis-je moi-même
 
-Per Dio, che io possa essere perdonato…
+# Per Dio, che io possa essere perdonato…
 
 Titolo: Salutate tutta la compagnia per me
 
-Dove sono ora queste povere anime
+# Dove sono ora queste povere anime
 
 E dì loro che con piacere lo farei.
 
-Amanti fummo, o forse ancora lo siamo…
+# Amanti fummo, o forse ancora lo siamo…
 
 E a [[settings/paris|Parigi]] si conduce una vita molto piacevole.
 
-Addio, bei tempi… non vi rivedrò più.
+# Addio, bei tempi… non vi rivedrò più.
 
 Ben legato con una stretta cintura di cuoio.
 
@@ -1106,11 +1106,11 @@ Le donne morte.
 Titolo:  
 "Dìci a me, in quale paese..."
 
-La bella flora della Roma antica
+# La bella flora della Roma antica
 
 Archipiada, ne Thaïs
 
-Qui fu la sua cugina germana
+# Qui fu la sua cugina germana
 
 Titolo:  
 “Echo, che risuona quando si batte sulla mano”
@@ -1121,9 +1121,9 @@ Qui la bellezza è qualcosa di più che umano?
 
 Ma dove sono finite le nevi di un tempo?
 
-Dove si trova la molto saggia Hellois?
+# Dove si trova la molto saggia Hellois?
 
-Per chi fu castrato e poi monaco
+# Per chi fu castrato e poi monaco
 
 Pierre Esbaillart a Saint-Denis?
 
@@ -1139,17 +1139,17 @@ Qui comanda quel Buridan
 
 Ma dove sono finite le nevi di un tempo,!
 
-La Regina Bianca come un giglio
+# La Regina Bianca come un giglio
 
-Qui cantava a voce di serena;
+# Qui cantava a voce di serena;
 
-Berte con il grande piede, Bietris, Allis
+# Berte con il grande piede, Bietris, Allis
 
-Haremburgis qui tint le Maine
+# Haremburgis qui tint le Maine
 
-Et Jehanne, la bonne Lorraine
+# Et Jehanne, la bonne Lorraine
 
-In Rouen gli Inglesi appiccarono il fuoco;
+#In Rouen gli Inglesi appiccarono il fuoco;
 
 Dove sono, O Vergine Sovrana?
 
@@ -1160,7 +1160,7 @@ CONCLUSIONE.
 Titolo:  
 Principe, non indagare mai…
 
-Dove sono, quest’anno…
+# Dove sono, quest’anno…
 
 “Che rimanga questo precetto nella vostra memoria…”
 
@@ -1447,15 +1447,15 @@ LXXV.
 Titolo:  
 Primo amore… ma un amore povero
 
-A la benoiste Trinité
+# A la benoiste Trinité
 
-Et la commande à Nostre Dame
+# Et la commande à Nostre Dame
 
-Camera della Divinità
+# Camera della Divinità
 
-Priante tutta la carità
+# Priante tutta la carità
 
-I nove degni ordini del cielo
+# I nove degni ordini del cielo
 
 Titolo:  
 Che cosa possa significare questo dono ricevuto
@@ -1467,13 +1467,13 @@ LXXVI.
 Titolo:  
 “Dono e lascio il mio corpo”
 
-Alla nostra grande madre, la Terra;
+# Alla nostra grande madre, la Terra;
 
-I vers non troveranno molta sostanza in questo testo…
+# I vers non troveranno molta sostanza in questo testo…
 
 La lunga guerra gli ha fatto molto soffrire la fame.
 
-O che possa essere liberato da grandi errori…
+# O che possa essere liberato da grandi errori…
 
 Dove si è vinto in terra, si torna in terra.
 
@@ -1483,19 +1483,19 @@ Volontieri tornano al loro posto…
 
 LXXVII.
 
-Item, et à mon plus que père
+# Item, et à mon plus que père
 
 Maestro Guillaume de Villon
 
-Qui m’esté a plus doulx que mere
+# Qui m’esté a plus doulx que mere
 
-Bambino cresciuto nella catena
+# Bambino cresciuto nella catena
 
-Degeté m’a de maint boullon
+# Degeté m’a de maint boullon
 
-Et di cestuy pas ne s’esjoye
+# Et di cestuy pas ne s’esjoye
 
-Et lui lo chiede in ginocchio
+# Et lui lo chiede in ginocchio
 
 Non lascia che rimanga tutta quella gioia.
 
@@ -1504,18 +1504,18 @@ LXXVIII.
 Titolo:  
 Gli dono la mia libreria
 
-Et le Roman du Pet au Diable
+# Et le Roman du Pet au Diable
 
-Quale maestro Guy Tabarie
+# Quale maestro Guy Tabarie
 
 Qui ci sono uomini davvero grandi.
 
-Sotto un tavolo
+# Sotto un tavolo
 
 Titolo:  
 Per quanto sia fatto in modo rude…
 
-La materia esterna è molto notevole
+# La materia esterna è molto notevole
 
 Quella cosa rimedia a tutti i mali causati.
 
@@ -1524,14 +1524,14 @@ LXXIX.
 Titolo:  
 Donne per mia povera madre
 
-Per salutare la nostra Signora
+# Per salutare la nostra Signora
 
 Titolo:  
 Per me, solo dolore amaro
 
-Dio lo sa, e molta tristezza…
+# Dio lo sa, e molta tristezza…
 
-Un altro castello non ha fortezze
+# Un altro castello non ha fortezze
 
 Titolo:  
 Dove il corpo e l’anima si ritrovano
@@ -1563,18 +1563,18 @@ In secondo luogo, l’effetto processionale e curioso derivante dal metro e dall
 
 La ballata della nostra signora.
 
-Dame des Cieux, regina della terra
+# Dame des Cieux, regina della terra
 
-Imperatrice delle paludi infernali
+# Imperatrice delle paludi infernali
 
 Titolo:  
 Ricevete me, la vostra umile cristiana…
 
-Que cosa nasconde il vostro silenzio
+# Que cosa nasconde il vostro silenzio
 
 Nonostante nulla abbia mai valore.
 
-I vostri beni, mia signora e mia padrona
+# I vostri beni, mia signora e mia padrona
 
 “Sono troppo grandi per essere così peccaminosa…”
 
@@ -1586,13 +1586,13 @@ In queste terre ho voluto vivere e morire
 
 “Vostro figlio dice che io appartengo a lui…”
 
-De luy soyent mes pechiez aboluz
+# De luy soyent mes pechiez aboluz
 
 Perdona me, come per l’egiziana…
 
 O come fece con il chierico Teofilo
 
-Quale di queste fu per te considerata definitiva e irrevocabile?
+# Quale di queste fu per te considerata definitiva e irrevocabile?
 
 Per quanto grandi fossero le promesse fatte al Diavolo.
 
@@ -1604,41 +1604,41 @@ I sacramenti che vengono celebrati durante la messa.
 
 In queste condizioni, ho voluto vivere e morire.
 
-Donna, sono una misera e anziana
+# Donna, sono una misera e anziana
 
-Nessuno lo sa; nessuna lettera è stata letta.
+# Nessuno lo sa; nessuna lettera è stata letta.
 
 Titolo:  
 Nel monastero di cui faccio parte della parrocchia
 
-Paradiso sfumato, dove risuonano arpe e luci
+# Paradiso sfumato, dove risuonano arpe e luci
 
-Un inferno dove i corpi vengono bruciati
+# Un inferno dove i corpi vengono bruciati
 
 Uno mi fa paura, l’altro mi dà gioia e felicità.
 
 Titolo:  
 La gioia che mi hai dato, o alta Dea…
 
-Il rifugio dove tutti i peccatori devono ricorrere
+# Il rifugio dove tutti i peccatori devono ricorrere
 
 Comblez de Foy non sembrava mai perdere le forze.
 
 In queste condizioni, ho voluto vivere e morire.
 
-Addio
+# Addio
 
-Voi che foste, nobile vergine, principessa…
+# Voi che foste, nobile vergine, principessa…
 
 Gesù regnante. Qui non c’è mai fine né sosta.
 
-Le Tout Puissant, approfittando della nostra debolezza
+# Le Tout Puissant, approfittando della nostra debolezza
 
-"Venne dal cielo per salvarci."
+#"Venne dal cielo per salvarci."
 
 Dedicò la sua adorabile giovinezza alla morte.
 
-Il nostro Signore è così come lo confessiamo
+# Il nostro Signore è così come lo confessiamo
 
 In queste condizioni, ho voluto vivere e morire.
 
@@ -1672,7 +1672,7 @@ Alfonce, re d’Aragona
 
 Il nobile Duca di Bourbon
 
-Et Artus, il Duca di Bretagna
+# Et Artus, il Duca di Bretagna
 
 E Carlo Settimo, il Buono?.
 
@@ -1707,7 +1707,7 @@ Chi resiste alla morte non può essere sconfitto
 
 Trovò delle provviste.
 
-Ancora una domanda…
+# Ancora una domanda…
 
 Lancelot, il re della bellezza
 
@@ -1815,24 +1815,24 @@ Non c’è da meravigliarsi che, con il passare del tempo, sempre più persone i
 
 RONDONE.
 
-Riposo eterno, dona alle donne…
+# Riposo eterno, dona alle donne…
 
-Luce e chiarezza eterna
+# Luce e chiarezza eterna
 
 Titolo:  
 Né piatti né ciotole valorosi qui…
 
 Non ne ebbe mai, nessun cervello capace di comprenderlo.
 
-Il futuro, capo, barba e sopracciglio
+# Il futuro, capo, barba e sopracciglio
 
 Come un cetriolo che si raccoglie o si pela.
 
 Riposo eterno, donne dai capelli neri.
 
-Rigore lo manda in esilio
+# Rigore lo manda in esilio
 
-Lo colpì sul sedere con una pelle…
+# Lo colpì sul sedere con una pelle…
 
 Nonostante dica “Chiamo in aiuto!”
 
@@ -1988,15 +1988,15 @@ Aveva iniziato a corteggiarla molto tempo fa.
 
 In tempi lontani, un treno d’amore dominava…
 
-"Qui sans grand art et dons se démenoit,""
+#"Qui sans grand art et dons se démenoit,""
 
-Se un mazzo di fiori rappresentasse un amore profondo
+# Se un mazzo di fiori rappresentasse un amore profondo
 
 Si era dato tutta la terra rotonda…
 
 Perché si prendeva solo il cuore.
 
-Et se, per caso, ci fosse modo di godere…
+# Et se, per caso, ci fosse modo di godere…
 
 Sapete davvero bene come ci si comportava all’epoca?
 
@@ -2004,15 +2004,15 @@ Venti anni, trent’anni… il tempo passa lentamente.
 
 Ai bei tempi antichi.
 
-Perduto ciò che l’amore comandava
+# Perduto ciò che l’amore comandava
 
 Si sentivano solo lacrime false, solo cambiamenti apparenti.
 
-"Qui voudrait donc que pour aimer je m'abandonne?"
+#"Qui voudrait donc que pour aimer je m'abandonne?"
 
-Il difetto sta nel fatto che l’amore venga sempre ricostruito
+# Il difetto sta nel fatto che l’amore venga sempre ricostruito
 
-Et qu’on la meine ainsi qu’on la menait
+# Et qu’on la meine ainsi qu’on la menait
 
 Ai bei tempi antichi.
 
@@ -2260,11 +2260,11 @@ IF IT BE true that words create for themselves a special atmosphere, and that th
 
 Il fatto che pensasse “come un sudista”, come ho sempre sostenuto e come dimostrerò con un altro esempio, diventa ancora più probabile considerando il valore che attribuisce alla vocale “e” femminile. Il meraviglioso ritmo di questo poema si ottiene soltanto dando alla vocale “e” femminile il valore di una sillaba prolungata.
 
-L'effetto
+# L'effetto
 
-Est faict
+# Est faict
 
-La bella
+# La bella
 
 “Pucel-le”, ecc.
 
@@ -2276,15 +2276,15 @@ Natale.
 
 Una pastorella gentile
 
-Un taglialegna nel giardino
+# Un taglialegna nel giardino
 
 Il giocatore di bili
 
 Si scambiavano parole, per farla breve…
 
-Roger
+# Roger
 
-Bergier
+# Bergier
 
 Legière
 
@@ -2296,21 +2296,21 @@ Cantiamo Noè, Noè, Noè.
 
 Ti ricordi ancora del profeta?
 
-Qui nous dit cas de si hault faict
+# Qui nous dit cas de si hault faict
 
-Una vergine perfetta
+# Una vergine perfetta
 
 Un bambino perfetto,?
 
-L’effetto
+# L’effetto
 
-Est faict
+# Est faict
 
 La bella
 
 Pucelle
 
-Un figlio del cielo promesso…
+# Un figlio del cielo promesso…
 
 Cantiamo Noè, Noè, Noè.
 
@@ -2333,7 +2333,7 @@ I nostri creditori, che non si curano delle poesie…
 
 “La sorella del Re ha fatto questo per me.”
 
-Quando credevano che fossi in grande debito
+# Quando credevano che fossi in grande debito
 
 Mi hanno chiamato signore a gran voce…
 
@@ -2341,7 +2341,7 @@ Mi hanno chiamato signore a gran voce…
 
 Mi hanno promesso che non solo mi aspetteranno…
 
-"Ancora in prestito, giuro come mercante, ancora..."
+#"Ancora in prestito, giuro come mercante, ancora..."
 
 E ho promesso, lo giuro su Clément, di prenderla.
 
@@ -2349,13 +2349,13 @@ E ho promesso, lo giuro su Clément, di prenderla.
 
 Fino a inseguirmi fino alla morte…
 
-Ho solo descritto le tue armi…
+# Ho solo descritto le tue armi…
 
 Un vero, quando lo prendi, morde forte!
 
 Ancora oggi il rimorso per quel crimine mi tormenta.
 
-Che cosa ne penserai tu?
+# Che cosa ne penserai tu?
 
 Titolo:  
 "Mais de nous deux, le diable emport..."
@@ -2379,30 +2379,30 @@ Vi do…
 
 Buongiorno.
 
-Le Séjour
+# Le Séjour
 
 È prigione.
 
 Guérison
 
-Recopritevi
+# Recopritevi
 
 Titolo:  
 Poi aprite…
 
 Vostre porte
 
-Et qu'on sorte
+# Et qu'on sorte
 
-Abbigliamento
+# Abbigliamento
 
-Car Clément
+# Car Clément
 
 Ve le manda.
 
 Va, friande
 
-De ta bouche
+# De ta bouche
 
 Titolo:  
 Qui si dorme
@@ -2414,20 +2414,20 @@ Per mangiare
 
 Confetture;
 
-Se tu resisti
+# Se tu resisti
 
 Troppo malato
 
 Titolo:  
 Colore sbiadito
 
-Tu prenderai
+# Tu prenderai
 
-Et perdras
+# Et perdras
 
 L’embonpoint.
 
-Dieu te doint
+# Dieu te doint
 
 "Santé bonne"
 
@@ -2457,13 +2457,13 @@ Sono grida e canti della Serpetta…
 
 O serpillette, o la serpillonnette…
 
-"La vignaletta è piantata proprio accanto a te."
+#"La vignaletta è piantata proprio accanto a te."
 
 I buoni vini, ogni anno, ci sono sempre!
 
-Il dio Vulcano, fabbro degli dei supremi
+# Il dio Vulcano, fabbro degli dei supremi
 
-"Forgia per il cielo quella lancia affilata..."
+#"Forgia per il cielo quella lancia affilata..."
 
 Titolo:  
 Di acciaio temprato nel buon vino invecchiato
@@ -2472,20 +2472,20 @@ Per poter tagliare meglio e essere più coraggiosa.
 
 "Bacchus la loda e dice che è bellissima"
 
-Et convenante à Noé le bonhomme
+# Et convenante à Noé le bonhomme
 
 Taglia la vigna nella stagione giusta.
 
 "Bacchus, allora, indossava un cappello di vite..."
 
-E arrivò per benedire la vigna;
+#E arrivò per benedire la vigna;
 
 Titolo:  
 Con i suoi flaconi, Silénus mi seguiva.
 
-Chi bevve dritto come una linea
+#Chi bevve dritto come una linea
 
-Poi inizia a saltellare su e giù, facendosi una grossa palla di fango…
+# Poi inizia a saltellare su e giù, facendosi una grossa palla di fango…
 
 Il suo naso era rosso come il fuoco.
 
@@ -2657,17 +2657,17 @@ Il suo modo di esprimersi è ammirevole: la sua gentilezza, perseveranza e cresc
 
 Dialogo con le nove sorelle.
 
-Ronsard: Per aver amato troppo la vostra banda disuguale…
+# Ronsard: Per aver amato troppo la vostra banda disuguale…
 
-Muse, qui sfidate il tempo…
+# Muse, qui sfidate il tempo…
 
-Occhi pieni di lacrime, viso pallido e stanco
+# Occhi pieni di lacrime, viso pallido e stanco
 
 Le chef sono grigie e calve, eppure ho solo trent’anni.
 
 Muse… Nel cuore della notte, che incessantemente vaga sul mare.
 
-Le Teint Noir Appartient… Il Soldato Non È Bello
+# Le Teint Noir Appartient… Il Soldato Non È Bello
 
 "Nessuno è completamente polvere; chi piega il petto..."
 
@@ -2685,35 +2685,35 @@ Muse… Vivendo, godrete di una gloria immensa.
 
 "Poi, quando sarai morto, il tuo nome fiorirà"
 
-Il tempo, secolo dopo secolo, ricorderà di voi.
+# Il tempo, secolo dopo secolo, ricorderà di voi.
 
 Solo i vostri corpi andranno in decomposizione nella tomba.
 
-Ronsard. O i nobili amanti! Che servizio resero all’antico Omero
+# Ronsard. O i nobili amanti! Che servizio resero all’antico Omero
 
-Quando non resta più nulla, sotto quella tomba, laggiù…
+# Quando non resta più nulla, sotto quella tomba, laggiù…
 
-Senza più testa, né braccia, né gambe intere
+# Senza più testa, né braccia, né gambe intere
 
 O diventa un fiorista, o non lo sarà affatto!
 
-Muse… Siete stato ingannato. Il corpo sotto la lama
+# Muse… Siete stato ingannato. Il corpo sotto la lama
 
 Pourry non sente più nulla, né gliene importa più.
 
-Un tale incidente non può mai ferire davvero l’anima
+# Un tale incidente non può mai ferire davvero l’anima
 
 Qui, senza materia, si vedono cose immortali lassù in alto.
 
-Ronsard. Bene! Allora vi seguirò con un approccio piacevole…
+# Ronsard. Bene! Allora vi seguirò con un approccio piacevole…
 
-Sconfitto nell’intrusione nello studio
+# Sconfitto nell’intrusione nello studio
 
-E fu solo al termine della successiva generazione…
+# E fu solo al termine della successiva generazione…
 
 Non mi rimproverare affatto per aver vissuto.
 
-Muse: coloro la cui fantasia…
+# Muse: coloro la cui fantasia…
 
 
 
@@ -2868,48 +2868,48 @@ Non c’è bisogno di appunti, poiché questi grandi nomi: Gargantua, Panurgo e 
 
 L’epitaffio su Rabelais.
 
-Qui riposa un morto in decomposizione
+# Qui riposa un morto in decomposizione
 
-La natura genera qualcosa
+# La natura genera qualcosa
 
-Et se la génération...
+# Et se la génération...
 
-Corruzione e potere
+# Corruzione e potere
 
-Una vigna prenderà vita
+# Una vigna prenderà vita
 
-Il buon Rabelais che beveva
+# Il buon Rabelais che beveva
 
 Sempre, durante la sua vita…
 
-Si mette le braccia nelle maniche di me stesso
+# Si mette le braccia nelle maniche di me stesso
 
-Et se couchoit tout plat à bas
+# Et se couchoit tout plat à bas
 
 Titolo:  
 Sul limoio tra le tazze
 
-Tra le ciotole unte
+# Tra le ciotole unte
 
-Cantava la grande mazza
+# Cantava la grande mazza
 
-La giumenta di Gargantua
+# La giumenta di Gargantua
 
-Le Grand Panurge e il Gioco
+# Le Grand Panurge e il Gioco
 
-I pappagalli sbalorditi
+# I pappagalli sbalorditi
 
-Le loro leggi, i loro costumi e le loro dimore
+# Le loro leggi, i loro costumi e le loro dimore
 
 E Fratello Jean delle Antonneure.
 
 E dalle battaglie di Espisteme.
 
-"Ma la morte che non beveva"
+#"Ma la morte che non beveva"
 
-Tira i bevitori di questo mondo
+# Tira i bevitori di questo mondo
 
-Et ora fa bere dalle onde
+# Et ora fa bere dalle onde
 
 Lungo il grande fiume Acheronte.
 
@@ -2935,19 +2935,19 @@ Stamattina qui era tutto aperto…
 Titolo:  
 Veste di porpora al sole
 
-Un punto perso in questa serata
+# Un punto perso in questa serata
 
-I pieghe del suo abito porpora
+# I pieghe del suo abito porpora
 
-Il suo incarnato è simile al vostro
+# Il suo incarnato è simile al vostro
 
-"Ahimè! Guardate come in così poco spazio..."
+#"Ahimè! Guardate come in così poco spazio..."
 
 "Mignonne, ella ha la posizione migliore."
 
 Ahimè! Ahimè, le tue bellezze sono andate perdute.
 
-O visione terribile della natura
+# O visione terribile della natura
 
 Poiché un tale fiore non dura a lungo…
 
@@ -2956,9 +2956,9 @@ Dalla mattina fino alla sera.
 Titolo:  
 Se mi credi, cara…
 
-Mentre la vostra età fiorisce
+# Mentre la vostra età fiorisce
 
-Una novità ancora più verde
+# Una novità ancora più verde
 
 "Cuillez, Cuillez vostre jeunesse":
 
@@ -3081,28 +3081,28 @@ Ecco due di loro. Uno, il secondo, il più famoso; l’altro, il primo, quasi sc
 
 A questo personaggio, il secondo verso aggiunge un vivido elemento emotivo che gli ha conferito una fama particolare. Anche la gente comune ha sentito parlare di questo sonetto, che viene cantato su una melodia incantevole. Possiede inoltre quella semplicità formale che spesso porta a una reputazione duratura nella poesia: il sestetto è ben separato dall’ottava, e il culmine del testo è chiaramente evidenziato. Ronsard, però, era troppo accademico (e questo gli causava spesso difficoltà) per raggiungere tale semplicità; solo quando, sotto l’influenza di una passione intensa o di un’allegria spontanea, riusciva a ottenerla, scriveva versi che sarebbero rimasti per sempre nella storia della letteratura.
 
-Per sempre, di secolo in secolo… vive.
+# Per sempre, di secolo in secolo… vive.
 
 L’amicizia perfetta che Ronsard provava.
 
 "I Sonetti per Helène."
 
-XLII
+# XLII
 
-"Le lunghe notti invernali, quando la Luna è silenziosa"...
+#"Le lunghe notti invernali, quando la Luna è silenziosa"...
 
-Gira lentamente il suo carro intorno a tutto
+#Gira lentamente il suo carro intorno a tutto
 
-Dove il gallo canta tardi, annuncia l’arrivo del giorno
+# Dove il gallo canta tardi, annuncia l’arrivo del giorno
 
-Dove la notte sembra un anno per l’anima preoccupata:
+# Dove la notte sembra un anno per l’anima preoccupata:
 
 Titolo:  
 Morirei di noia senza la tua forma incerta…
 
-Qui vient par une feinte alleger mon amour
+# Qui vient par une feinte alleger mon amour
 
-Nuda tra le mie braccia
+# Nuda tra le mie braccia
 
 Mi fuma dolcemente una sigaretta, con un sorriso ingannevole.
 
@@ -3110,7 +3110,7 @@ Mi fuma dolcemente una sigaretta, con un sorriso ingannevole.
 
 Di giocare si tratta, per divertirsi in totale privacy.
 
-"Accanto alla sua morte mi addormento, vicino a lui riposo."
+#"Accanto alla sua morte mi addormento, vicino a lui riposo."
 
 "Niente mi è stato rifiutato… Così, il buon sonno."
 
@@ -3118,29 +3118,29 @@ Abusi per il falso amore, preoccupazioni inutili.
 
 Abusare dell’amore non è affatto una cosa negativa.
 
-XLIII
+# XLIII
 
-Quando sarai molto vecchia, alla luce di una candela...
+# Quando sarai molto vecchia, alla luce di una candela...
 
-Seduta accanto al fuoco, a districare e filare…
+# Seduta accanto al fuoco, a districare e filare…
 
-"Cantando le mie parole, meravigliandoti di me"...
+#"Cantando le mie parole, meravigliandoti di me"...
 
 Ronsard mi celebrava quando ero bella.
 
-Quando nessuna serva ascolterà tale notizia
+# Quando nessuna serva ascolterà tale notizia
 
-Desiderio sotto il lavoro, a metà sonno
+# Desiderio sotto il lavoro, a metà sonno
 
-"Qui au bruit de mon nom ne s’aille resveillant..."
+#"Qui au bruit de mon nom ne s’aille resveillant..."
 
 Benedicendo il vostro nome, fonte di lode eterna.
 
-Sarò sotto terra e un fantasma senza ossa
+# Sarò sotto terra e un fantasma senza ossa
 
 Nelle ombre oscure troverò il mio riposo.
 
-Seduta in un angolo della casa una sera…
+# Seduta in un angolo della casa una sera…
 
 Rimpiango il mio amore e il vostro orgoglioso disprezzo.
 
@@ -3246,9 +3246,9 @@ Guydent segue il sentiero dei più anziani.
 
 O ancora…
 
-Divin Ronsard, con il suo arco a sette corde
+# Divin Ronsard, con il suo arco a sette corde
 
-Tira per primo verso il bersaglio della memoria
+# Tira per primo verso il bersaglio della memoria
 
 Le ali piegate della gloria francese.
 
@@ -3260,27 +3260,27 @@ Du Bellay era secondo; tuttavia, quando diventerà ben conosciuto in questo paes
 
 Pertanto, con uno spirito che tutti gli inglesi comprenderanno, una leggerezza quasi sarcastica si celava dietro le profondità del suo dolore; la tenerezza che provava per il proprio ambiente domestico si manifestava nelle cose legate alla tranquillità: i suoi libri e gli animali. Citerò in seguito gli epitaffi che scrisse per il suo cane e per il suo gatto, quel cantore di cose sublimi e perdute.
 
-Del cane che…
+#Del cane che…
 
-Sempre seguendo tutti
+# Sempre seguendo tutti
 
 A volte andava avanti.
 
-Fai sapere quali feste si terranno
+# Fai sapere quali feste si terranno
 
 Di un allegro movimento di testa.
 
-E di colui dice, imitando abilmente Catullo, che egli…
+#E di colui dice, imitando abilmente Catullo, che egli…
 
-Ora per me…
+# Ora per me…
 
-Parmi queste pianure ombrose
+# Parmi queste pianure ombrose
 
 Niente ritorna mai verso di noi.
 
-O della gatta che era…
+#O della gatta che era…
 
-Per caso
+# Per caso
 
 Il più bello capolavoro della natura
 
@@ -3444,27 +3444,27 @@ Estratti dall’“Antichità di Roma”.
 
 Della serie “OF THE HIGH” che Roma chiese a Du Bellay durante quel amaro esilio diplomatico, ho scelto questi tre sonetti, perché sembrano i più adatti a esprimere la maestosità e il cupore che lo assediavano. È difficile scegliere in una serie di versi così armoniosi ed elevati, ma forse l’ultimo, “Telle que dans son char la Berecynthienne”, è davvero il più meraviglioso. Solo l’immagine di Roma, raffigurata come madre degli Dei nel suo carro, avrebbe reso questo sonetto immortale. Du Bellay aggiunge, a questa semplice rappresentazione visiva, un susseguirsi di parole che sembrano tuoni in lontane colline nelle serate estive: quelle parole si accumulano e si intensificano fino alla fine. Mentre le scriveva, probabilmente non immaginava quanto fosse grande ciò che stava creando. Questo sonetto possiede tutte le caratteristiche di una poesia che diventa ancora più significativa con il passare del tempo, e sembra superare persino le intenzioni dell’autore stesso.
 
-L'antichità di Roma
+# L'antichità di Roma
 
 III.
 
 Nuovo venuto che cerca Roma… dentro Roma stessa.
 
-Niente di Roma si vede a Roma
+# Niente di Roma si vede a Roma
 
-Quei vecchi palazzi, quei vecchi archi che vedi...
+# Quei vecchi palazzi, quei vecchi archi che vedi...
 
 E questi vecchi muri, è ciò che Roma viene chiamata.
 
-Quell’orgoglio, quella rovina… e come
+# Quell’orgoglio, quella rovina… e come
 
-Le Mondo Governato dalle Sue Leggi
+# Le Mondo Governato dalle Sue Leggi
 
-Dare tutto, a volte anche se stesso
+# Dare tutto, a volte anche se stesso
 
 E divenne preda del tempo, che tutto consuma.
 
-Il solo monumento di Roma è…
+# Il solo monumento di Roma è…
 
 E solo Roma ha vinto davvero.
 
@@ -3480,26 +3480,26 @@ IV.
 
 “Le stelle brillavano sopra la sua testa…”
 
-Con un pied su Teti, l’altro sotto l’Aurora
+# Con un pied su Teti, l’altro sotto l’Aurora
 
-Con una mano sulla Scure, e l’altra sul More
+# Con una mano sulla Scure, e l’altra sul More
 
-La circonferenza della terra e del cielo
+# La circonferenza della terra e del cielo
 
-Juppiter, spaventato… se solo continuasse ad avvicinarsi
+#Juppiter, spaventato… se solo continuasse ad avvicinarsi
 
-Che l’orgoglio dei Ganesi si rialzi ancora
+# Che l’orgoglio dei Ganesi si rialzi ancora
 
-L’assalto sotto queste montagne, queste sette montagne che formano un cerchio…
+# L’assalto sotto queste montagne, queste sette montagne che formano un cerchio…
 
 Tomba della grandezza che il cielo minaccia di distruggere.
 
-Il lutto più grande è quello che si porta sul capo durante le feste di Saturno
+# Il lutto più grande è quello che si porta sul capo durante le feste di Saturno
 
 Titolo:  
 Sopra lo stomaco si trova il Quirinale
 
-Sul ventre piantò l’antico Palatino
+# Sul ventre piantò l’antico Palatino
 
 Titolo:  
 La nebbia sulla mano destra raggiunge l’altezza celeste…
@@ -3517,7 +3517,7 @@ Come nella sua Carriera la Berecintia
 Titolo:  
 Circondata da torri, e felice di possederle
 
-Tanti dèi sono stati generati… E così si manifestava
+# Tanti dèi sono stati generati… E così si manifestava
 
 In tempi più felici, questa antica città…
 
@@ -3527,7 +3527,7 @@ Queste città un tempo erano più grandi della Frigia…
 Titolo:  
 Ricco di bambini e dal quale deriva il potere
 
-Sopprimi i poteri del Mondo, e non si potrà più tornare indietro
+# Sopprimi i poteri del Mondo, e non si potrà più tornare indietro
 
 Simile alla sua grandezza, sebbene non proprio la stessa.
 
@@ -3537,7 +3537,7 @@ Solo Roma poteva far tremare Roma…
 
 “Anche l’ordinanza fatale non lo aveva permesso…”
 
-Un altro potere umano, così audace…
+# Un altro potere umano, così audace…
 
 Titolo:  
 Se ti vanti di poter eguagliare colei che un tempo fu sua pari…
@@ -3556,7 +3556,7 @@ Il sonetto dell'esilio.
 
 Oro, come un agnello che chiama la sua nutrice…
 
-Riempio di tuo nome le caverne e i boschi
+# Riempio di tuo nome le caverne e i boschi
 
 Titolo:  
 Se mai mi hai considerato tuo figlio…
@@ -3567,14 +3567,14 @@ O crudele, ora dimmi cosa ne farai di me.
 
 Ma nessuno, tranne Echo, risponde alla mia voce.
 
-Tra i lupi crudeli vago nella pianura
+# Tra i lupi crudeli vago nella pianura
 
 Titolo:  
 Percepisco arrivare l’inverno… e con esso il suo freddo respiro.
 
 Un terribile brivido fa rizzare la mia pelle.
 
-"Altri tuoi agnelli non mancano certo di pascolo..."
+#"Altri tuoi agnelli non mancano certo di pascolo..."
 
 Non temono il lupo, il vento, né il freddo;
 
@@ -3582,7 +3582,7 @@ Eppure, sono forse il peggiore di tutti.
 
 Il sonetto “Felici coloro che sono come Odisseo”.
 
-Il trentunesimo dei “rimpianti”.
+#Il trentunesimo dei “rimpianti”.
 
 Era una grande casa grigia, circondata da un fossato; accanto ad essa c'era una città, ma non lontano si estendevano i boschi, e la casa sorgeva su terreni accidentati. La dimora signorile di Liré, la sua casa. Fu lì che Du Bellay scrisse questo sonetto, il più nobile e forse anche l’ultimo dei suoi sonetti. Quel dolore che era sempre presente nella sua vita – sebbene a volte inosservato –, che aveva segnato le sue ultime sfortune e lo aveva tormentato fino al punto di farlo gridare. Lì quel dolore assunse una forma finale, estremamente nobile: qualcosa di molto più alto della semplice malinconia, di molto più maestoso del rimpianto. Du Bellay si rivolse alla sua proprietà. Al simbolo della sua famiglia. A un tetto che, in origine, era stato una fonte di responsabilità per lui e che alla fine lo aveva schiacciato. Ma lo fece con affetto. Se si può usare una parola così semplice per parlare di un grande poeta. Il lato “gentiluomo” in lui ricordava il riposo ancestrale.
 
@@ -3899,14 +3899,14 @@ Quando rivedrò, ahimè, il mio piccolo villaggio…
 
 "Fumer la cheminée: et en quelle saison"
 
-Rivedrò mai il cortile della mia povera casa?
+#Rivedrò mai il cortile della mia povera casa?
 
 Qui ho una provincia, e molti vantaggi in più?
 
 Titolo:  
 Mi piace di più il soggiorno che hanno creato i miei antenati
 
-Quei maestosi palazzi romani…
+# Quei maestosi palazzi romani…
 
 “Più della dura pietra mi piace la sottile ardesia…”
 
@@ -3930,35 +3930,35 @@ Troppo leggere per voi
 Titolo:  
 Qui di queste antiche viaggiatrici
 
-Volate per il mondo
+# Volate per il mondo
 
-Et d’un sifflant murmure
+# Et d’un sifflant murmure
 
 L’ombra delle piante verdi
 
-Dolcemente spezzati
+# Dolcemente spezzati
 
 Offro queste violette.
 
-Ces lis e queste fioriture
+# Ces lis e queste fioriture
 
-E queste rose qui…
+# E queste rose qui…
 
-Ces vermeillettes roses
+# Ces vermeillettes roses
 
 Appena sbocciato…
 
 E anche questi boccioli.
 
-De vostre doulce haleine
+# De vostre doulce haleine
 
-Eventi imprevisti in questa pianura
+# Eventi imprevisti in questa pianura
 
-Eventualità di questo soggiorno
+# Eventualità di questo soggiorno
 
-Mentre io mi affanno…
+# Mentre io mi affanno…
 
-Il mio grano che andrà via
+# Il mio grano che andrà via
 
 Al calore del giorno.
 
@@ -3972,13 +3972,13 @@ Vorrei avere abbastanza spazio per stampare entrambi questi “threnodie” nell
 
 Il cane.
 
-Dessous ceste motte verte
+# Dessous ceste motte verte
 
-De Lis et Roses Couverte
+# De Lis et Roses Couverte
 
-Gist le petit Peloton
+# Gist le petit Peloton
 
-De qui la folle peluria
+# De qui la folle peluria
 
 Titolo:  
 Scalpato da una piuma bianca
@@ -3988,15 +3988,15 @@ Le cosce, i fianchi e il sedere.
 Titolo:  
 Esercizio ordinario
 
-"Abbaia e muggisce senza sosta"...
+#"Abbaia e muggisce senza sosta"...
 
 Correre su e giù
 
-Centomila esbasi
+# Centomila esbasi
 
 "Tutti stranieri e feroci",
 
-Solo guerra contro le mosche
+# Solo guerra contro le mosche
 
 Qui gli infliggevano molti tormenti.
 
@@ -4005,105 +4005,105 @@ Il gruppo di destra
 
 Li rispondevano allo stesso modo…
 
-Sulle orecchie…
+# Sulle orecchie…
 
-Finemente il aguignoit
+# Finemente il aguignoit
 
-Quando qualcuno mi afferrasse per il polso…
+# Quando qualcuno mi afferrasse per il polso…
 
 Con agilità consumata
 
-"La mosca infelice"...
+#"La mosca infelice"...
 
-Chiudi bene a chiave dentro
+# Chiudi bene a chiave dentro
 
-Far concordare le sue densità
+#Far concordare le sue densità
 
-Peloton lo accarezzava
+# Peloton lo accarezzava
 
-Coloro che conosceva
+# Coloro che conosceva
 
-Non avrebbe voluto farsi vedere
+# Non avrebbe voluto farsi vedere
 
 Con un’altra mano che non quella del suo maestro…
 
-Seguendo sempre la stessa strada…
+# Seguendo sempre la stessa strada…
 
 A volte camminava avanti.
 
-Fai sì che si conoscano quelle feste
+# Fai sì che si conoscano quelle feste
 
 Con un semplice movimento della testa.
 
-Mon Dieu, che piacere era…
+# Mon Dieu, che piacere era…
 
-Quando Peloton si grattava
+# Quando Peloton si grattava
 
-Fai tintinnare la sua campanella
+# Fai tintinnare la sua campanella
 
 Con quella testa a foglia!
 
-Quel piacere, quando Peloton
+# Quel piacere, quando Peloton
 
-Cammino su un bastone
+# Cammino su un bastone
 
-Avvolta in un piccolo panno
+# Avvolta in un piccolo panno
 
-Seduto come un piccolo scimmione
+# Seduto come un piccolo scimmione
 
-Se avesse un piccolo amante…
+# Se avesse un piccolo amante…
 
 Con l’aria di una giovane dama.
 
-"Ma che dolce tempo trascorriamo..."
+#"Ma che dolce tempo trascorriamo..."
 
 Non dura molto…
 
-Car la mort ayant déjà...
+# Car la mort ayant déjà...
 
 Sul filo della nostra vita
 
-Inviato verso Plutone
+# Inviato verso Plutone
 
 Nostro piccolo pelotone
 
 Titolo:  
 Ora qui si compie…
 
-Tra queste ombrose pianure
+# Tra queste ombrose pianure
 
 Niente ritorna mai verso di noi.
 
 Il gatto
 
-Perché sono così confuso
+#Perché sono così confuso
 
 Titolo:  
 Non è per aver perso…
 
 I miei anelli, il mio argento, la mia ricchezza…
 
-Perché mai è così?
+# Perché mai è così?
 
 Titolo:  
 Quello che ho perso da tre giorni
 
 I miei tesori, il mio piacere, i miei amori…
 
-Et quoy? ô Souvenance greve
+# Et quoy? ô Souvenance greve
 
 Titolo:  
 “Per un soffio il mio cuore esplode…”
 
-Quando ne parlo o quando ne scrivo:
+# Quando ne parlo o quando ne scrivo:
 
 “È Belaud, il mio piccolo gatto grigio…”
 
-Elogiati ora, ma chissà cosa accadrà in futuro…
+# Elogiati ora, ma chissà cosa accadrà in futuro…
 
 Il più bello capolavoro della natura
 
-Mai parlare di gatti…
+# Mai parlare di gatti…
 
 Titolo:  
 Era Belaud… la morte tra i ratti
@@ -4116,31 +4116,31 @@ Non lodare mai una bellezza così grande…
 Titolo:  
 Mio Dio, che noia…
 
-Quando quel Belaud si girava e rigirava
+# Quando quel Belaud si girava e rigirava
 
 Stupidi che girano intorno a una palla!
 
-Quell’immensa soddisfazione, quando quella testa sciocca…
+# Quell’immensa soddisfazione, quando quella testa sciocca…
 
-"La coda di Suyvant in mille giri"
+#"La coda di Suyvant in mille giri"
 
 Di un volano che imitava il movimento della corsa.
 
-O quando seduti sul dorso
+# O quando seduti sul dorso
 
-Si faceva una giarrettiera
+# Si faceva una giarrettiera
 
-Et mostrant l’estomaco velu
+# Et mostrant l’estomaco velu
 
-De panne blanche crespelu
+# De panne blanche crespelu
 
 “Sembra proprio che quel viso fosse molto bello…”
 
 Qualche dottore della Sorbona!
 
-O quando allora che lo animavamo…
+# O quando allora che lo animavamo…
 
-Con un paio di colpi di zampe combatteva
+# Con un paio di colpi di zampe combatteva
 
 E poi sfogò la sua rabbia
 
@@ -4148,19 +4148,19 @@ All'improvviso, tutto ciò che gli veniva offerto divenne prezioso per lui.
 
 “Belaud estoit mon cher mignon”
 
-Il mio compagno era ammirato da tutti
+# Il mio compagno era ammirato da tutti
 
-In camera da letto, sul letto, alla tavola
+# In camera da letto, sul letto, alla tavola
 
-Più facile da apprezzare
+# Più facile da apprezzare
 
-Un piccolo cane goloso
+# Un piccolo cane goloso
 
-Non gridava mai di notte
+# Non gridava mai di notte
 
 Come quei terribili grossi marcioni…
 
-Urla terribili e lunghi miagolii
+# Urla terribili e lunghi miagolii
 
 Aussi le petit mitouard
 
@@ -4170,19 +4170,19 @@ E a Belaud, che sfortuna.
 
 De Belaud ha perso la gara.
 
-Que plaise à Dieu, petit Belon
+# Que plaise à Dieu, petit Belon
 
-Qui j’eusse l’esprit assez bon
+# Qui j’eusse l’esprit assez bon
 
-Potere in un bel modo
+# Potere in un bel modo
 
-Descrivere la tua grazia gentile
+# Descrivere la tua grazia gentile
 
-Un verso tanto grazioso quanto te…
+# Un verso tanto grazioso quanto te…
 
-"Belaud, je te promets ma foy,""
+#"Belaud, je te promets ma foy,""
 
-Finché vivrai sulla terra
+# Finché vivrai sulla terra
 
 I gatti faranno guerra ai topi.
 
@@ -4286,9 +4286,9 @@ Nessuno riuscirà a comprendere Malherbe, se si limita ad ascoltare parlare di c
 
 Del suo intenso conservatorismo, della sua vivacità, del suo amore per le armi e della sua tenacia nel percepire la realtà, Racan ci offre nella sua biografia un ritratto ammirevole. Poco prima di morire, suo figlio fu ucciso in un duello; lui, all’età di settantadue anni, desiderava ardentemente uccidere il proprio avversario. “Giocare d’azzardo”, disse, “i miei pochi anni di vita contro l’oro dei suoi venticinque anni”. Aveva spirito e odiava profondamente, odiava gli uomini anche dopo la [[motifs/death|morte]].
 
-Qui, con una spettacolare e ridicola ostentazione
+# Qui, con una spettacolare e ridicola ostentazione
 
-Sepolto dall’eccesso
+# Sepolto dall’eccesso
 
 Mentre tutti i suoi conoscenti lo deridevano e lo insultavano…
 
@@ -4537,24 +4537,24 @@ ODE A LUIGI XIII.
 
 Fai cantare in sacrificio al demone della [[settings/france|Francia]]
 
-Fronti troppo elevati di queste anime dell’inferno
+# Fronti troppo elevati di queste anime dell’inferno
 
-Non risparmia nulla contro di loro, per la nostra liberazione
+#Non risparmia nulla contro di loro, per la nostra liberazione
 
 Né fuoco né ferro.
 
-A sufficienza dei loro complotti, la malizia infida
+# A sufficienza dei loro complotti, la malizia infida
 
-Nutre il disordine e la sedizione
+# Nutre il disordine e la sedizione
 
 Titolo:  
 Lascia da parte il nome di Giusto, o dimostra la tua giustizia
 
 Come punizione per loro.
 
-Le centième décembre a les plaines ternies
+# Le centième décembre a les plaines ternies
 
-Et il centesimo aprile le ha dipinte di fiori
+# Et il centesimo aprile le ha dipinte di fiori
 
 Da quando tra di noi sono comparse le loro crudeli abitudini…
 
@@ -4562,9 +4562,9 @@ Causano solo lacrime.
 
 "Nelle furie di tutti i secoli dei tuoi antenati..."
 
-I mostri più oscuri hanno mai compiuto qualcosa?
+#I mostri più oscuri hanno mai compiuto qualcosa?
 
-L’indifferenza di questi cuori velenosi
+# L’indifferenza di questi cuori velenosi
 
 Lo rinnovi ogni volta che lo usi?
 
@@ -4576,33 +4576,33 @@ Qui oggi sono tante città deserte…
 
 Perché tanta rabbia?
 
-"Marcha, distruggili, annienta la loro progenie."
+#"Marcha, distruggili, annienta la loro progenie."
 
-Fino alla loro fine, il tuo grande sdegno…
+# Fino alla loro fine, il tuo grande sdegno…
 
 Senza mai ascoltare né pietà né clemenza
 
 Qui ti parla per loro.
 
-Tutte le altre morti non meritano né onore né ricordo.
+# Tutte le altre morti non meritano né onore né ricordo.
 
-Queste sole irradiano una luce splendente
+# Queste sole irradiano una luce splendente
 
-Qui faits revivre l’homme, et le met de la barque
+# Qui faits revivre l’homme, et le met de la barque
 
 Al tavolo degli dei.
 
 Sonetto sulla [[motifs/death|morte]] di suo figlio.
 
-"Che mio figlio abbia perso il suo corpo mortale..."
+#"Che mio figlio abbia perso il suo corpo mortale..."
 
-Quel figlio così coraggioso… che amavo tanto
+# Quel figlio così coraggioso… che amavo tanto
 
-Non lo attribuisco mai alle ingiustizie del destino
+# Non lo attribuisco mai alle ingiustizie del destino
 
 Poiché terminare nella condizione umana è qualcosa di naturale.
 
-"Più di due predoni... l'infaida sorpresa"
+#"Più di due predoni... l'infaida sorpresa"
 
 Morì in modo tragico.
 
@@ -4612,13 +4612,13 @@ E tutti i miei sentimenti sono in accordo con lei.
 
 “O mon Dieu, mon Sauveur, puisque, par la raison…”
 
-I tormenti del mio cuore, senza rimedio…
+# I tormenti del mio cuore, senza rimedio…
 
 Il desiderio di vendetta è un desiderio legittimo.
 
-Rafforza la mia forza con il tuo sostegno
+# Rafforza la mia forza con il tuo sostegno
 
-Per favore, giustizia… e anche i colpevoli
+# Per favore, giustizia… e anche i colpevoli
 
 Siamo figli di quei carnefici che ti hanno crocifisso.
 
@@ -4630,19 +4630,19 @@ Almeno un verso (il quarto) è davvero famoso, anche se la sua ripetizione conti
 
 Quello che è certo è che, sia poesia o meno, esse esprimono in modo ammirevole lo spirito della sua penna e il suo effetto straordinario. Esse rappresentano la fase classica del [[historical-references/renaissance|Rinascimento]] francese con la stessa forza e rigore delle grandi mura di pietra che iniziavano a sorgere durante la ricostruzione di [[settings/paris|Parigi]]. È proprio per questa qualità che le ho pubblicate qui, utilizzandole come espressione definitiva di quella lunga, gloriosa e incerta fase nella storia della letteratura europea.
 
-La consolazione di Du Perrier
+#La consolazione di Du Perrier
 
 Il tuo dolore, Du Perrier, sarà quindi eterno?
 
 E i discorsi tristi
 
-Che cosa ti fa pensare all’amicizia paterna
+# Che cosa ti fa pensare all’amicizia paterna
 
 Si continuerà sempre ad aumentarli?
 
-Le sfortuna di tua figlia nella tomba
+# Le sfortuna di tua figlia nella tomba
 
-Per una morte comune
+# Per una morte comune
 
 Titolo:  
 “È forse un labirinto in cui la tua ragione si perde?”
@@ -4652,7 +4652,7 @@ Non si trova più?
 Titolo:  
 So quali delizie riempivano la sua infanzia…
 
-Non ho mai iniziato…
+# Non ho mai iniziato…
 
 Amico offensivo, lascia che ti allevi il dolore…
 
@@ -4660,15 +4660,15 @@ Con il suo disprezzo.
 
 Ma era di quel mondo in cui esistono le cose più belle…
 
-Destini più tragici ancora
+# Destini più tragici ancora
 
 E la [[motifs/rose|rosa]] ha vissuto ciò che vivono le rose.
 
 Lo spazio di una mattina.
 
-Quando così fosse, secondo la tua preghiera…
+# Quando così fosse, secondo la tua preghiera…
 
-Avrebbe potuto ottenere
+# Avrebbe potuto ottenere
 
 Con i capelli bianchi, ha concluso la sua carriera.
 
@@ -4677,7 +4677,7 @@ Cosa sarebbe potuto accadere?
 Titolo:  
 "Pensi che, diventata più anziana, in quel regno celeste..."
 
-Lei avrebbe ricevuto un’accoglienza più calorosa…
+# Lei avrebbe ricevuto un’accoglienza più calorosa…
 
 O forse avesse percepito meno quella polvere funesta…
 
@@ -4686,39 +4686,39 @@ E i versi sulla bara?
 Titolo:  
 Di me, già due volte colpito da un simile fulmine
 
-Imprigionato da me stesso
+#Imprigionato da me stesso
 
-Et deux fois la raison m’a si bien fait résoudre
+# Et deux fois la raison m’a si bien fait résoudre
 
 Non me lo ricordo più.
 
-Non che mi dispiaccia che la tomba esista
+# Non che mi dispiaccia che la tomba esista
 
 Ciò che mi fu così caro…
 
-Un incidente senza rimedio
+# Un incidente senza rimedio
 
 Non c’è bisogno di cercare altrove.
 
 La Morte con rigore senza eguali:
 
-Che un bel giovane la preghi…
+# Che un bel giovane la preghi…
 
-Si è così crudele da tapparsi le orecchie
+# Si è così crudele da tapparsi le orecchie
 
 E lascia che gridino.
 
-Le povero nella sua capanna, coperta di paglia
+# Le povero nella sua capanna, coperta di paglia
 
 Soggetto alle sue leggi.
 
-La guardia che veglia alle porte del Louvre
+# La guardia che veglia alle porte del Louvre
 
 Non difendiamo affatto i nostri re.
 
-Mormorare contro di lei e perdere la pazienza
+# Mormorare contro di lei e perdere la pazienza
 
-Non è il momento giusto;
+# Non è il momento giusto;
 
 Titolo:  
 Volere ciò che Dio vuole è l’unica vera scienza

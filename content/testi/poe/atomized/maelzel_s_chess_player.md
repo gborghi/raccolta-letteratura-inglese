@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="maelzel_s_chess_player" data-title="Maelzel's Chess-Player" data-chapter="" data-kind="intro"></span>
 
-# [[works/maelzel's-chess-player-(poe)|Maelzel's Chess-Player]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

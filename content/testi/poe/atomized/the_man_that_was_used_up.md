@@ -13,7 +13,7 @@ tags:
 
 <span class="atom-split" data-atom="the_man_that_was_used_up" data-title="The Man That Was Used Up" data-chapter="" data-kind="intro"></span>
 
-# [[works/the-man-that-was-used-up-(poe)|The Man That Was Used Up]]
+
 
 <span class="qlang-split" data-lang="it"></span>
 

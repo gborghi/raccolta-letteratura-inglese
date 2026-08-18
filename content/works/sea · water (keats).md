@@ -37,14 +37,14 @@ tags:
 
 Raccolta tematica di 8 componimenti di John Keats.
 
-- [[testi/keats/atomized/sea-water#032_ode_to_a_nightingale|ODE TO A NIGHTINGALE]]
-- [[testi/keats/atomized/sea-water#022_on_first_looking_into_chapmans_homer|ON FIRST LOOKING INTO CHAPMAN’S HOMER]]
-- [[testi/keats/atomized/sea-water#062_sonnet_on_a_picture_of_leander|Sonnet on a Picture of Leander]]
-- [[testi/keats/atomized/sea-water#065_sonnet_on_the_sea|Sonnet on the Sea]]
-- [[testi/keats/atomized/sea-water#102_sonnet_to_ailsa_rock|Sonnet to Ailsa Rock]]
-- [[testi/keats/atomized/sea-water#045_sonnet_to_byron|Sonnet to Byron]]
-- [[testi/keats/atomized/sea-water#047_sonnet_to_spenser|Sonnet to Spenser]]
-- [[testi/keats/atomized/sea-water#060_to_haydon|To Haydon]]
+- [[works/ode-to-a-nightingale-(keats)|ODE TO A NIGHTINGALE]]
+- [[works/on-first-looking-into-chapman’s-homer-(keats)|ON FIRST LOOKING INTO CHAPMAN’S HOMER]]
+- [[works/sonnet-on-a-picture-of-leander-(keats)|Sonnet on a Picture of Leander]]
+- [[works/sonnet-on-the-sea-(keats)|Sonnet on the Sea]]
+- [[works/sonnet-to-ailsa-rock-(keats)|Sonnet to Ailsa Rock]]
+- [[works/sonnet-to-byron-(keats)|Sonnet to Byron]]
+- [[works/sonnet-to-spenser-(keats)|Sonnet to Spenser]]
+- [[works/to-haydon-(keats)|To Haydon]]
 
 ## Testo / Text
 

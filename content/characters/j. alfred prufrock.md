@@ -14,7 +14,7 @@ tags:
 
 <div class="concept-works-fallback">
 
-- [[testi/eliot/atomized/alienation-outsider-exile#002_the_love_song_of_j_alfred_prufrock|The Love Song of J. Alfred Prufrock (Eliot)]]
+- [[works/the-love-song-of-j.-alfred-prufrock-(eliot)|The Love Song of J. Alfred Prufrock (Eliot)]]
 
 </div>
 

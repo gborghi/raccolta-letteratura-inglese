@@ -17,7 +17,7 @@ tags:
 - [[works/whatisawinamerica-(chesterton)|WhatISawInAmerica (Chesterton)]]
 - [[works/divorce-(chesterton)|divorce (Chesterton)]]
 - [[works/ortho14-(chesterton)|ortho14 (Chesterton)]]
-- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#178_delicate_cluster|Delicate Cluster (Whitman)]]
+- [[works/delicate-cluster-(whitman)|Delicate Cluster (Whitman)]]
 - [[works/the-green-flag-and-other-stories-(conan-doyle)|The Green Flag and Other Stories (Conan Doyle)]]
 - [[works/more-peers-(belloc)|More Peers (Belloc)]]
 - [[works/the-book-of-the-bayeux-tapestry-(belloc)|The Book of the Bayeux Tapestry (Belloc)]]

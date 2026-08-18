@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/self-knowledge-immortality-self-reliance" data-author="Keats" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(keats)"></div>
 
 
-<span class="atom-split" data-atom="033_ode_on_a_grecian_urn" data-title="ODE ON A GRECIAN URN" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/silence,concept/beauty_and_truth,concept/immortality_of_art,concept/transience,concept/beauty,concept/truth,concept/love_romantic,concept/paradox,form/ode,histref/classical_antiquity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+ODE ON A GRECIAN URN · ODE · Ode to Apollo · Sonnet: As from the darkening gloom a silver dove · Sonnet Written in Disgust of Vulgar Superstition · Lines On Seeing a Lock of Milton’s Hair · Sonnet on Sitting Down to Read King Lear Once Again · A Song About Myself · Sonnet Written upon the Top of Ben Nevis · The Eve of Saint Mark
+
+
+
+
+<span class="atom-split" data-atom="033_ode_on_a_grecian_urn" data-title="ODE ON A GRECIAN URN" data-chapter="" data-kind="intro"></span>
 
 
 Thou still unravish’d bride of quietness,  
@@ -72,68 +77,9 @@ Ye know on earth, and all ye need to know.  50
 The original manuscript  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Tu, ancora inviolata sposa della quiete,  
-tu, [[archetypes/child|figlia]] adottiva del [[motifs/silence|silenzio]] e del lento [[motifs/time|tempo]],  
-storica silvestre, che sai così narrare  
-una fiorita favola più dolce del nostro verso:  
-quale leggenda orlata di foglie ti aleggia intorno alla forma,  
-di dèi o di mortali, o degli uni e degli altri,  
-in Tempe o nelle valli d'Arcadia?  
-Che uomini son questi, o che dèi? Che vergini ritrose?  
-Quale folle inseguimento? Quale lotta per fuggire?  
-Quali flauti e timpani? Quale selvaggia estasi? 10  
-
-Dolci sono le melodie udite, ma quelle non udite  
-sono più dolci; perciò, o tenui flauti, suonate ancora;  
-non all'orecchio sensuale, ma, più care,  
-suonate allo spirito canzoni senza suono:  
-Bel giovane, sotto gli alberi, tu non puoi lasciare  
-il tuo canto, né mai quegli alberi saranno spogli;  
-Ardito [[archetypes/lover|amante]], mai, mai potrai baciare,  
-per quanto tu sia presso alla meta--eppure, non dolerti;  
-lei non può appassire, anche se non hai la tua gioia,  
-per sempre tu [[motifs/love|amerai]], e lei sarà bella!  20  
-
-Ah, felici, felici rami! che non potete perdere  
-le vostre [[motifs/leaves|foglie]], né mai dire addio alla [[motifs/spring|Primavera]];  
-e, felice suonatore, instancabile,  
-che per sempre moduli canti per sempre nuovi;  
-Più felice [[motifs/love|amore]]! più felice, felice [[motifs/love|amore]]!  
-per sempre caldo e ancora da godere,  
-per sempre ansante, e per sempre giovane;  
-ben più alto di ogni passione umana che respira,  
-che [[motifs/leaves|lascia]] un cuore colmo di tristezza e sazio,  
-una fronte che brucia, e una lingua riarsa.  30  
-
-Chi sono questi che vengono al sacrificio?  
-A quale verde altare, o misterioso sacerdote,  
-conduci quella giovenca che mugge verso i cieli,  
-e i fianchi tutti di seta ornati di ghirlande?  
-Quale piccola città presso il [[motifs/river|fiume]] o la riva del mare,  
-o eretta sul monte con la sua pacifica cittadella,  
-s'è vuotata di questa gente, in questo pio mattino?  
-E, piccola città, le tue strade per sempre  
-resteranno mute; e non un'[[motifs/soul|anima]] a dire  
-perché sei deserta, potrà mai tornare.  40  
-
-O forma attica! Bella movenza! con intreccio  
-di uomini e di vergini di marmo cesellati,  
-con rami di foresta e l'erba calpestata;  
-tu, forma silenziosa, ci strappi al pensiero  
-come fa l'[[concepts/eternity|eternità]]: Fredda Pastorale!  
-Quando la vecchiaia avrà consunto questa generazione,  
-tu resterai, in mezzo ad altro dolore  
-che non il nostro, amica dell'uomo, cui dici:  
-“[[concepts/beauty|Bellezza]] è [[concepts/truth|verità]], [[concepts/truth|verità]] [[concepts/beauty|bellezza]]”--questo è tutto  
-ciò che sapete in terra, e tutto ciò che vi occorre sapere.  50  
-
-Il manoscritto originale
 
 
-
-<span class="atom-split" data-atom="036_ode" data-title="ODE" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/music_and_song,concept/immortality,form/ode,histref/classical_antiquity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="036_ode" data-title="ODE" data-chapter="" data-kind="intro"></span>
 
 
 Bards of Passion and of Mirth,  
@@ -180,54 +126,9 @@ Ye have souls in heaven too,
 [[topoi/double|Double]]-lived in regions new!  40  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Bardi della Passione e dell'Allegria,  
-avete lasciato le vostre anime sulla terra!  
-Avete anime anche in cielo,  
-di [[topoi/double|doppia]] vita in regioni nuove?  
-Sì, e quelle del cielo conversano  
-con le sfere del sole e della [[motifs/moon|luna]];  
-col fragore di fontane mirabili,  
-e col colloquio di voci tonanti;  
-col sussurro degli alberi del cielo  
-e fra loro, in molle agio,  10  
-sedute su prati elisi  
-brucati solo dai cerbiatti di Diana,  
-sotto la tenda di grandi [[motifs/bells|campanule]] azzurre,  
-dove le margherite odorano di [[motifs/rose|rosa]],  
-e la [[motifs/rose|rosa]] stessa possiede  
-un profumo che sulla terra non esiste;  
-dove l'[[motifs/nightingale|usignolo]] canta  
-non cosa insensata, rapita nel sogno,  
-ma divina, melodiosa [[concepts/truth|verità]];  
-levigati numeri filosofici;  20  
-racconti e auree storie  
-del cielo e dei suoi misteri.  
-
-Così vivete lassù, e poi  
-sulla terra vivete di nuovo;  
-e le anime che vi lasciaste dietro  
-ci insegnano, quaggiù, la via per trovarvi,  
-là dove le vostre altre anime gioiscono,  
-mai assopite, mai sazie.  
-Qui, le vostre anime nate in terra parlano ancora  
-ai mortali, della loro breve settimana; 30  
-delle loro pene e dei loro diletti;  
-delle loro passioni e dei loro rancori;  
-della loro gloria e della loro vergogna;  
-di ciò che dà forza e di ciò che mutila.  
-Così ci insegnate, ogni giorno,  
-la Saggezza, benché fuggiti lontano.  
-
-Bardi della Passione e dell'Allegria,  
-avete lasciato le vostre anime sulla terra!  
-Avete anime anche in cielo,  
-di [[topoi/double|doppia]] vita in regioni nuove!  40
 
 
-
-<span class="atom-split" data-atom="048_ode_to_apollo" data-title="Ode to Apollo" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,topos/poet_as_prophet,motif/music_and_song,motif/fire,concept/immortality_of_art,form/ode,histref/greek_mythology,histref/classical_antiquity,character/apollo,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="048_ode_to_apollo" data-title="Ode to Apollo" data-chapter="" data-kind="intro"></span>
 
 
 In thy western halls of gold  
@@ -286,66 +187,9 @@ And charm the ear of evening fair,
 From thee, great God of Bards, receive their heavenly birth.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Nelle tue occidentali sale d'oro,  
-quando siedi nella tua maestà,  
-i Bardi, che un tempo sublimi narrarono  
-gesta eroiche, e cantarono il destino,  
-con fervore afferrano le loro lire adamantine,  
-le cui corde sono raggi solidi, e scintillano fuochi radiosi.  
-
-Qui Omero con le sue braccia nerborute  
-percuote l'arpa vibrante della guerra,  
-e riscalda perfino lo splendore d'occidente,  
-mentre le trombe risuonano lontano:  10  
-ma, ciò che desta la più intensa meraviglia,  
-la sua [[motifs/soul|anima]] guarda fuori da occhi rinnovati.  
-
-Poi, per l'ampio tuo Tempio, melodioso si gonfia  
-il dolce maestoso suono della lira di Marone:  
-l'[[motifs/soul|anima]] rapita si sofferma su ogni accento, -  
-estatica si sofferma, - senza osare respirare,  
-mentre egli narra il dolore intorno a un rogo funebre.  
-
-È allora di nuovo un [[motifs/silence|silenzio]] tremendo;  
-in attesa stanno le sfere;  
-senza fiato i pari coronati d'alloro,  20  
-né si muovono, finché non cessa l'alto canto,  
-né si muovono finché i tuoni armoniosi di [[historical-references/milton|Milton]] non tacciono,  
-e lasciano ancora una volta in pace i cieli rapiti.  
-
-Tu comandi a Shakespeare di agitare la mano,  
-e rapide [[motifs/spring|balzano]] avanti  
-le Passioni - schiera tremenda -  
-e ciascuna fa vibrare la corda  
-che meglio s'accorda al suo [[archetypes/tyrant|tirannico]] umore,  
-mentre dalle labbra del loro Signore si riversano le parole ispiratrici.  
-
-Una tromba d'argento soffia Spenser,  30  
-e, mentre le sue note marziali fuggono nel [[motifs/silence|silenzio]],  
-da un verginale [[characters/chorus|coro]] fluisce  
-un [[forms/hymn|inno]] in lode dell'immacolata Castità.  
-È quiete! Selvaggi gorgheggi dalla lira eolia  
-spirano dolcemente incanto, e tremando si spengono.  
-
-Poi gli ardenti versi del tuo Tasso  
-fluttuano per l'aria compiaciuta,  
-chiamando i giovani dai sonni oziosi,  
-destandoli dalla tana del Piacere: -  
-poi sulle corde le sue dita si muovono lievi,  40  
-e sciolgono l'[[motifs/soul|anima]] in pietà e in [[motifs/love|amore]].  
-
-Ma quando Tu ti unisci alle Nove,  
-e tutte le potenze del canto si congiungono,  
-noi ascoltiamo quaggiù sulla terra:  
-i suoni morenti che riempiono l'aria,  
-e incantano l'orecchio della bella sera,  
-da te, gran Dio dei Bardi, ricevono la loro celeste nascita.
 
 
-
-<span class="atom-split" data-atom="053_sonnet_as_from_the_darkening_gloom_a_silver_dove" data-title="Sonnet: As from the darkening gloom a silver dove" data-chapter="" data-kind="intro" data-tags="motif/death,motif/birds,motif/light_and_dark,concept/immortality,concept/faith,concept/self_and_soul,form/sonnet,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="053_sonnet_as_from_the_darkening_gloom_a_silver_dove" data-title="Sonnet: As from the darkening gloom a silver dove" data-chapter="" data-kind="intro"></span>
 
 
 As from the darkening gloom a silver dove  
@@ -365,27 +209,9 @@ On holy message sent - What pleasures higher?
 Wherefore does any grief our joy impair?  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Come dall'ombra che s'addensa una colomba d'argento  
-s'innalza, e si lancia nella luce d'oriente,  
-su ali che nulla muove se non puro diletto,  
-così è fuggita la tua [[motifs/soul|anima]] nei regni superni,  
-regioni di pace e d'eterno [[motifs/love|amore]];  
-dove spiriti felici, [[motifs/crown|coronati]] di lucenti cerchi  
-di raggio stellare, e gloriosamente adornati,  
-gustano l'alta gioia che solo i beati possono provare.  
-Là tu o ti unisci al coro immortale  
-in melodie che perfino il cielo splendido  
-10  
-colmano di più alta beatitudine, o, al [[motifs/desire|desiderio]]  
-del Padre onnipotente, fendi l'aria  
-mandata in santo messaggio - Quali gioie più alte?  
-Perché dunque un dolore guasta la nostra letizia?
 
 
-
-<span class="atom-split" data-atom="057_sonnet_written_in_disgust_of_vulgar_superstition" data-title="Sonnet Written in Disgust of Vulgar Superstition" data-chapter="" data-kind="intro" data-tags="motif/bells,motif/the_grave,motif/flowers,concept/faith_and_doubt,concept/satire_of_society,concept/transience,form/sonnet,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="057_sonnet_written_in_disgust_of_vulgar_superstition" data-title="Sonnet Written in Disgust of Vulgar Superstition" data-chapter="" data-kind="intro"></span>
 
 
 The church [[motifs/bells|bells]] toll a [[concepts/melancholy|melancholy]] round,  
@@ -405,27 +231,9 @@ Into oblivion; - that fresh [[motifs/flowers|flowers]] will grow,
 And many glories of immortal stamp.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Le [[motifs/bells|campane]] della chiesa battono un giro [[concepts/melancholy|malinconico]],  
-chiamando la gente a non so quali altre preghiere,  
-a un'altra tetraggine, ad affanni più spaventosi,  
-ad ascoltare ancora l'orrido suono del sermone.  
-Certo la mente dell'uomo è strettamente avvinta  
-in qualche nero incantesimo; poiché ciascuno si [[motifs/tears|strappa]]  
-dalle gioie del focolare, e dalle arie lidie,  
-e dall'alto conversare di quelli [[motifs/crown|coronati]] di gloria.  
-Ancora, ancora battono, e sentirei un'umida oppressione, -  
-un gelo come di tomba, se non sapessi  
-10  
-che stanno morendo come una lampada consumata;  
-che questo è il loro sospirare, il gemere prima d'andarsene  
-nell'oblio; - che nuovi [[motifs/flowers|fiori]] cresceranno,  
-e molte glorie d'immortale conio.
 
 
-
-<span class="atom-split" data-atom="073_lines_on_seeing_a_lock_of_miltons_hair" data-title="Lines On Seeing a Lock of Milton’s Hair" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/music_and_song,motif/stars,concept/immortality_of_art,concept/ambition,concept/beauty,form/ode,histref/the_renaissance,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="073_lines_on_seeing_a_lock_of_miltons_hair" data-title="Lines On Seeing a Lock of Milton’s Hair" data-chapter="" data-kind="intro"></span>
 
 
 Chief of organic numbers!  
@@ -477,59 +285,9 @@ Yet, at the moment, temperate was my [[motifs/blood|blood]].
 I thought I had beheld it from the flood.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sommo dei numeri organici!  
-Antico Dotto delle Sfere!  
-Il tuo spirito mai non dorme,  
-ma rulla intorno ai nostri orecchi,  
-per sempre, e per sempre!  
-Oh, quale folle impresa  
-compie colui  
-che al tuo sacro e nobilitato feretro  
-vorrebbe offrire un olocausto di verso  
-e di melodia.  
-10  
-
-Come suoni verso il cielo,  
-vivo Tempio di dolce fragore,  
-e districhi la Discordia,  
-dando al Diletto gioie nuove,  
-e al Piacere ali più nobili!  
-Oh, dove sono i tuoi domini?  
-Porgi l'orecchio  
-
-a un giovane giuramento delio, - sì, per la tua [[motifs/soul|anima]].  
-Per tutto ciò che dalle tue labbra mortali rotolò,  
-e per il nocciolo del tuo terreno [[motifs/love|amore]],  
-la [[concepts/beauty|Bellezza]], nelle cose della terra e nelle cose superne,  
-io giuro!  
-
-Quando ogni foggia puerile  
-sarà svanita dal mio verso,  
-allora io, incanutito nella passione,  
-lascerò a un [[motifs/time|tempo]] futuro  
-inno e armonia  
-di te, e delle tue opere, e della tua vita;  
-ma vano è ora l'ardere e il contendere,  
-vane le fitte, finché non sarò colmo e maturo  
-d'antica Filosofia,  
-e folle di barlumi del futuro!  
-
-Per molti anni la mia offerta dovrà tacere;  
-quando parlerò, penserò a quest'ora,  
-perché sento la fronte calda e infuocata,  
-anche solo al più umile vassallo del tuo potere, -  
-una ciocca dei tuoi capelli splendenti, —  
-Improvvisa venne,  
-e trasalii, quando colsi il tuo nome  
-accostato così alla sprovvista;  
-eppure, in quell'attimo, calmo era il mio [[motifs/blood|sangue]].  
-Credetti d'averlo visto fin dal diluvio.
 
 
-
-<span class="atom-split" data-atom="074_sonnet_on_sitting_down_to_read_king_lear_once_again" data-title="Sonnet on Sitting Down to Read King Lear Once Again" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/fire,motif/the_book,motif/birds,concept/imagination,concept/grief_and_loss,form/sonnet,histref/greek_mythology,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="074_sonnet_on_sitting_down_to_read_king_lear_once_again" data-title="Sonnet on Sitting Down to Read King Lear Once Again" data-chapter="" data-kind="intro"></span>
 
 
 O golden tongued [[works/romance-(poe)|Romance]], with serene lute!  
@@ -549,27 +307,9 @@ But, when I am consumed in the [[motifs/fire|fire]],
 Give me new Phoenix wings’ to fly at my [[motifs/desire|desire]].  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-O Romanzo dalla lingua d'oro, dal liuto sereno!  
-Sirena dalle belle piume, [[characters/queen|Regina]] del lontano!  
-cessa di far melodie in questo giorno d'inverno,  
-chiudi le tue antiche pagine, e taci:  
-Addio! ché, ancora una volta, la fiera contesa  
-tra la dannazione e l'argilla appassionata  
-devo attraversare bruciando; ancora umilmente assaggiare  
-l'agrodolce di questo frutto shakespeariano:  
-Sommo Poeta! e voi, nubi d'Albione,  
-generatrici del nostro profondo eterno tema!  
-10  
-quando avrò attraversato l'antica foresta di querce,  
-non lasciate ch'io vaghi in un sogno sterile,  
-ma, quando sarò consumato nel [[motifs/fire|fuoco]],  
-datemi nuove ali di Fenice per volare a mio [[motifs/desire|desiderio]].
 
 
-
-<span class="atom-split" data-atom="100_a_song_about_myself" data-title="A Song About Myself" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/childhood,motif/the_journey,concept/childhood_and_growth,concept/wonder_and_gratitude,form/song,setting/scotland,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="100_a_song_about_myself" data-title="A Song About Myself" data-chapter="" data-kind="intro"></span>
 
 
 From a Letter to Fanny Keats  
@@ -701,139 +441,9 @@ He ran away to Scotland
     Shoes and he [[concepts/wonder|wonder]]'d.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Da una lettera a Fanny Keats  
-
-I.  
-C'era un ragazzo birichino,  
-  un ragazzo birichino era,  
-non voleva star fermo a [[motifs/home|casa]],  
-  quieto non sapeva stare-  
-    Prese  
-    nel suo zaino  
-    un libro  
-    pieno di vocali  
-    e una camicia  
-    con certi asciugamani,  
-    un berretto leggero  
-    per berretto da [[motifs/night|notte]],  
-    una spazzola per capelli,  
-    un pettine idem,  
-    calze nuove  
-    ché le vecchie  
-    si sarebbero rotte, oh!  
-    Questo zaino  
-    stretto alla schiena  
-    se lo inchiodò addosso  
-  e seguì il suo naso  
-    verso il nord,  
-    verso il nord,  
-  e seguì il suo naso  
-    verso il nord.  
-
-II.  
-C'era un ragazzo birichino  
-  e un ragazzo birichino era,  
-ché altro non voleva fare  
-  che scarabocchiare poesia-  
-    Prese  
-    un calamaio  
-    in una mano  
-    e una penna  
-    grossa come dieci  
-    nell'altra,  
-    e via  
-    in un trambusto  
-    corse  
-    verso i [[settings/mountains|monti]]  
-    e le fontane  
-    e i fantasmi  
-    e i pali  
-    e le streghe  
-    e i fossi  
-    e scrisse  
-    col cappotto  
-    quando il tempo  
-    era freddo,  
-    per [[concepts/fear|paura]] della gotta,  
-    e senza  
-    quando il tempo  
-    era caldo-  
-    Oh che incanto  
-    quando si sceglie  
-  di seguire il proprio naso  
-    verso il nord,  
-    verso il nord,  
-  di seguire il proprio naso  
-    verso il nord!  
-
-III.  
-C'era un ragazzo birichino  
-  e un ragazzo birichino era,  
-teneva pesciolini  
-  in tre mastelli da bucato  
-    a dispetto  
-    della potenza  
-    della serva  
-    né aveva paura  
-    della sua buona Nonna-  
-    Spesso  
-    in gran baccano  
-    si alzava presto  
-    e andava  
-    in un modo o nell'altro  
-    al ruscello  
-    e portava a [[motifs/home|casa]]  
-    lo scazzone,  
-    lo spinarello  
-    non troppo grasso,  
-    vaironi piccoli  
-    come il dito  
-    d'un guanto,  
-    non più grandi  
-    della misura  
-    dei bei  
-    piccoli ditini  
-    d'un bimbetto-  
-    Oh, e faceva  
-    era il suo mestiere  
-  di pesci un bel pasticcio  
-    un pasticcio-  
-    un pasticcio  
-  di pesci un bel pasticcio  
-    un pasticcio!  
-
-IV.  
-C'era un ragazzo birichino,  
-  e un ragazzo birichino era,  
-scappò via in Scozia  
-  per veder la gente-  
-    Là trovò  
-    che il suolo  
-    era duro uguale,  
-    che una iarda  
-    era lunga uguale,  
-    che una canzone  
-    era allegra uguale,  
-    che una ciliegia  
-    era rossa uguale,  
-    che il piombo  
-    era pesante uguale,  
-    che ottantina  
-    faceva ottanta,  
-    che una porta  
-    era di legno uguale  
-    come in Inghilterra-  
-  Così restò lì nelle sue scarpe  
-    e si [[concepts/wonder|stupì]],  
-    si [[concepts/wonder|stupì]],  
-  restò nelle sue  
-    scarpe e si [[concepts/wonder|stupì]].
 
 
-
-<span class="atom-split" data-atom="108_sonnet_written_upon_the_top_of_ben_nevis" data-title="Sonnet Written upon the Top of Ben Nevis" data-chapter="" data-kind="intro" data-tags="motif/fog_and_smoke,concept/the_sublime,concept/doubt,concept/self_and_soul,form/sonnet,setting/scotland,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="108_sonnet_written_upon_the_top_of_ben_nevis" data-title="Sonnet Written upon the Top of Ben Nevis" data-chapter="" data-kind="intro"></span>
 
 
 Read me a lesson, Muse, and speak it loud  
@@ -853,27 +463,9 @@ Is mist and crag, not only on this height,
 But in the world of thought and mental might!  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Leggimi una lezione, Musa, e dilla forte  
-sulla cima del Nevis, cieca nella nebbia!  
-Guardo giù nei baratri, e un sudario  
-di vapore li nasconde, - proprio altrettanto, io so,  
-l'umanità conosce dell'inferno; guardo in alto,  
-e c'è nebbia cupa, - proprio altrettanto  
-l'umanità sa dire del cielo; nebbia si stende  
-davanti alla terra, sotto di me, - proprio così,  
-proprio così vaga è la vista che l'uomo ha di sé!  
-Ecco le pietre scoscese sotto i miei piedi, -  
-10  
-questo soltanto so, che, povero folletto insensato,  
-le calpesto, - che tutto ciò che l'occhio incontra  
-è nebbia e roccia, non solo su quest'altezza,  
-ma nel mondo del pensiero e della potenza mentale!
 
 
-
-<span class="atom-split" data-atom="114_the_eve_of_saint_mark" data-title="The Eve of Saint Mark" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/bells,motif/the_supernatural,concept/faith,concept/martyrdom,form/narrative_poem,histref/the_bible,setting/medieval_england,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="114_the_eve_of_saint_mark" data-title="The Eve of Saint Mark" data-chapter="" data-kind="intro"></span>
 
 
 Upon a Sabbath-day it fell;  
@@ -1009,140 +601,3 @@ Upon the fervent [[concepts/martyrdom|martyrdom]];
 Then lastly to his holy shrine,  
 Exalt amid the tapers’ shine  
 At [[settings/venice|Venice]], -  
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Accadde in un giorno di festa;  
-due volte santa era la campana festiva,  
-che chiamava la gente alla [[motifs/prayer|preghiera]] della sera;  
-le strade della [[motifs/city|città]] erano nette e belle  
-per il salubre lavacro delle piogge d'aprile;  
-e, sui vetri della [[motifs/window|finestra]] a ponente,  
-il gelido tramonto narrava fioco  
-di verdi valli acerbe e fredde,  
-della siepe verde, spinosa e senza fiori,  
-di fiumi rinnovati dal carice di [[motifs/spring|primavera]],  10  
-di primule presso ruscelli riparati,  
-e di margherite sui colli intirizziti.  
-Due volte santa era la campana festiva:  
-le strade silenziose erano [[motifs/well|ben]] gremite  
-di compagnie compassate e pie,  
-calde ancora dei loro oratori accanto al fuoco;  
-che movevano, con aria compostissima,  
-al canto della sera e alla [[motifs/prayer|preghiera]] dei vespri.  
-Ogni portico ad arco, e ogni basso ingresso,  
-era colmo di gente paziente e lenta,  
-20  
-con sussurri zittiti, e piedi strascicati,  
-mentre suonava l'organo, forte e dolce.  
-
-Le campane avevano taciuto, le preghiere erano iniziate.  
-E Bertha non aveva ancora finito a metà  
-un curioso volume, rattoppato e lacero,  
-che tutto il giorno, dal primo mattino,  
-le aveva tenuto prigionieri gli occhi,  
-fra i suoi ricami d'oro;  
-l'aveva confusa con mille cose, -  
-le [[motifs/stars|stelle]] del Cielo, e ali d'angeli.  
-30  
-martiri in una vampa di fuoco,  
-santi d'azzurro in raggi d'argento,  
-il pettorale di Mosè, e i sette  
-candelabri che Giovanni vide in Cielo.  
-Il [[motifs/lion|Leone]] alato di San Marco,  
-e l'Arca dell'Alleanza,  
-coi suoi molti misteri,  
-cherubini e topi d'oro.  
-
-Bertha era una fanciulla bella,  
-che abitava nell'antica piazza del Duomo;  
-40  
-dal suo focolare poteva vedere,  
-di sbieco, la sua ricca antichità,  
-fino al muro del [[motifs/garden|giardino]] del Vescovo;  
-dove sicomori e olmi altissimi,  
-carichi di foglie, avevano superato la foresta,  
-mai morsi da acuto [[motifs/wind|vento]] di tramontana,  
-tanto li riparava la possente mole.  
-Bertha si alzò, e lesse un poco,  
-con la fronte contro il vetro della [[motifs/window|finestra]].  
-Ancora tentò, e poi ancora,  
-50  
-finché la sera crepuscolare la lasciò al buio  
-sulla leggenda di San Marco.  
-Dalla gala di lino pieghettata, fine e sottile,  
-sollevò il mento morbido e caldo,  
-col collo indolenzito e gli occhi annebbiati,  
-e stordita da sante immagini.  
-
-Tutto era tenebra, e tutto silenzio,  
-e di tanto in tanto il passo quieto  
-di qualcuno che tornava tardi a casa,  
-oltre la risonante porta del Duomo.  
-60  
-
-Le taccole clamorose, che tutto il giorno  
-giocano sopra le cime degli alberi e le torri,  
-a coppia a coppia erano andate a dormire,  
-ciascuna nel suo antico nido del campanile,  
-dove cadono nel sonno per tempo,  
-alla musica dei sonnolenti rintocchi.  
-
-Tutto era silenzio, tutto era tenebra,  
-fuori e nella stanza domestica:  
-si sedette, povera [[motifs/soul|anima]] ingannata!  
-e accese una lampada dal carbone tetro;  
-70  
-si chinò avanti, coi capelli lucenti che ricadevano  
-e il libro obliquo, in pieno contro il bagliore.  
-La sua [[archetypes/shadow|ombra]], in inquieta foggia,  
-aleggiava intorno, di misura gigantesca,  
-sulla trave del soffitto e sul vecchio seggio di quercia,  
-sulla gabbia del pappagallo, e sul quadrato del pannello;  
-e sul caldo paravento angolato d'[[motifs/winter|inverno]],  
-sul quale si vedevano molti mostri,  
-dette colombe del Siam, topi di Lima,  
-e [[motifs/birds|uccelli]] del Paradiso senza zampe,  
-80  
-l'ara, e il tenero bengalino,  
-e il gatto d'Angora dal pelo di seta.  
-Senza stancarsi leggeva, la sua [[archetypes/shadow|ombra]] ancora  
-incombeva intorno, come volesse riempire  
-la stanza di forme e di ombre selvagge,  
-come se una spettrale [[characters/queen|regina]] di picche  
-fosse venuta a schernirla alle spalle,  
-e a [[motifs/dance|danzare]], e a scuotere le sue vesti nere.  
-Senza stancarsi leggeva la pagina della leggenda,  
-del santo Marco, dalla giovinezza alla vecchiaia,  
-90  
-per terra, per mare, in pagane [[motifs/chains|catene]],  
-esultante per le sue molte pene.  
-Talvolta il dotto eremita,  
-con stella d'oro, o lucente pugnale,  
-rimandava a pie poesie  
-scritte nel più minuto corsivo di penna di corvo  
-sotto il testo; e così la rima  
-veniva distribuita di [[motifs/time|tempo]] in [[motifs/time|tempo]]:  
-- ‘Anco ei scrive dei sogni,
-che gli uomini hanno prima di destarsi in beatitudine,  100  
-quando i loro amici li credono avvinti  
-in sudario increspato assai sotto terra;  
-e come un piccolo [[archetypes/child|fanciullo]] possa essere  
-santo pria della sua natività,  
-se la madre (Dio la benedica!)  
-si tenga in solitudine,  
-e baci devota la santa croce.  
-Dell'[[motifs/love|amore]] di Dio, e della forza di Satana, -  
-egli scrive; e di molte altre cose ancora:  
-di siffatte cose io non posso dire.  110  
-Ma debbo narrare in verità  
-alquanto di Santa Cecilia,  
-e sopra tutto ciò ch'egli attesta  
-della vita e della morte di San Marco:’  
-
-Alfine le sue palpebre costanti giungono  
-al fervido [[concepts/martyrdom|martirio]];  
-poi infine al suo santo reliquiario,  
-esaltato tra il lume dei ceri  
-a [[settings/venice|Venezia]], -

@@ -28,14 +28,14 @@ tags:
 - [[testi/dickinson/atomized/terror-and-horror-madness#0683_the_soul_unto_itself|683. The Soul unto itself (Dickinson)]]
 - [[works/christabel-(coleridge)|CHRISTABEL (Coleridge)]]
 - [[works/metzengerstein-(poe)|Metzengerstein (Poe)]]
-- [[testi/whitman/atomized/mortality-grave-memento-mori#375_mirages|Mirages (Whitman)]]
-- [[testi/coleridge/atomized/terror-and-horror-madness#119_sonnet_composed_on_a_journey_homeward_the_author_having_received_intelligence|SONNET COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE (Coleridge)]]
-- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#107_staffa|Staffa (Keats)]]
+- [[works/mirages-(whitman)|Mirages (Whitman)]]
+- [[works/sonnet-composed-on-a-journey-homeward;-the-author-having-received-intelligence-(coleridge)|SONNET COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE (Coleridge)]]
+- [[works/staffa-(keats)|Staffa (Keats)]]
 - [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
 - [[works/the-fall-of-the-house-of-usher-(poe)|The Fall of the House of Usher (Poe)]]
 - [[works/the-picture-of-dorian-gray-(wilde)|The Picture of Dorian Gray (Wilde)]]
 - [[works/the-three-graves-(coleridge)|THE THREE GRAVES (Coleridge)]]
-- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#077_to_walter_de_la_mare|To Walter de la Mare (Eliot)]]
+- [[works/to-walter-de-la-mare-(eliot)|To Walter de la Mare (Eliot)]]
 - [[works/william-wilson-(poe)|William Wilson (Poe)]]
 
 </div>

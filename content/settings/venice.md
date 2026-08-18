@@ -17,7 +17,7 @@ tags:
 - [[works/fancies-versis-fads-(chesterton)|Fancies Versis Fads (Chesterton)]]
 - [[works/gkc-all-is-grist-(chesterton)|GKC All is Grist (Chesterton)]]
 - [[works/robert-browning-(chesterton)|Robert Browning (Chesterton)]]
-- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#016_burbank_with_a_baedeker_bleistein_with_a_cigar|Burbank with a Baedeker Bleistein with a Cigar (Eliot)]]
+- [[works/burbank-with-a-baedeker-bleistein-with-a-cigar-(eliot)|Burbank with a Baedeker Bleistein with a Cigar (Eliot)]]
 - [[works/the-assignation-(poe)|The Assignation (Poe)]]
 - [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
 - [[works/the-merchant-of-venice-(shakespeare)|THE MERCHANT OF VENICE (Shakespeare)]]

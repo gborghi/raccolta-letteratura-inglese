@@ -36,8 +36,6 @@ tags:
   - character/the_child
   - character/milton
 ---
-<div class="qlang-switch" data-default="en"></div>
-
 
 *by Sayers*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
@@ -72,36 +70,3 @@ tags:
 **Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/christianity|Christianity]], [[historical-references/renaissance|Renaissance]], [[historical-references/reformation|Reformation]]
 **Settings:** [[settings/oxford|Oxford]]
 **Characters:** [[archetypes/the-student|The Student]], [[archetypes/the-teacher|The Teacher]], [[archetypes/child|Child]], [[historical-references/milton|Milton]]
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-*by Sayers*  ·  **Cluster:** Classical Education · The Trivium · Critique Of Progress
-
-> [!abstract] 
-> In questa conferenza tenuta a Oxford nel 1947, Sayers sostiene che la scuola moderna insegna una moltitudine di "materie" ma non insegna ai ragazzi a pensare, lasciandoli indifesi di fronte alla propaganda, alla pubblicità e alle argomentazioni sciatte. Il suo rimedio è far rivivere il Trivio medievale—Grammatica, Dialettica e Retorica—quali veri strumenti dell'apprendimento, facendo corrispondere ciascuno a una fase naturale dello sviluppo del bambino (l'età del Pappagallo, l'età Impertinente e l'età Poetica). L'unico fine dell'educazione, insiste, è insegnare alle persone a imparare da sé, così che ogni materia diventi una porta aperta.
-
-## Testo / Text
-
-- [The Lost Tools of Learning](/testi/sayers/atomized/the_lost_tools_of_learning#the_lost_tools_of_learning)
-
-## Parti / Parts
-
-- [Part 1](/testi/sayers/atomized/the_lost_tools_of_learning#part--part_01)
-- [Part 2](/testi/sayers/atomized/the_lost_tools_of_learning#part--part_02)
-- [Part 3](/testi/sayers/atomized/the_lost_tools_of_learning#part--part_03)
-- [Part 4](/testi/sayers/atomized/the_lost_tools_of_learning#part--part_04)
-- [Part 5](/testi/sayers/atomized/the_lost_tools_of_learning#part--part_05)
-- [Part 6](/testi/sayers/atomized/the_lost_tools_of_learning#part--part_06)
-- [Part 7](/testi/sayers/atomized/the_lost_tools_of_learning#part--part_07)
-- [Part 8](/testi/sayers/atomized/the_lost_tools_of_learning#part--part_08)
-
-## Connections
-
-**Archetypes:** [[archetypes/child|Child]], [[archetypes/mentor|Mentor]]
-**Motifs:** [[motifs/the-book|The Book]], [[motifs/machine|Machine]]
-**Themes & Concepts:** [[concepts/education|Education]], [[concepts/classical-education|Classical Education]], [[concepts/the-trivium|The Trivium]], [[concepts/childhood-and-growth|Childhood And Growth]], [[concepts/critique-of-progress|Critique Of Progress]], [[concepts/truth|Truth]], [[concepts/imagination|Imagination]], [[concepts/liberty|Liberty]], [[concepts/reform|Reform]], [[concepts/creativity|Creativity]], [[concepts/faith|Faith]]
-**Forms:** [[forms/essay|Essay]]
-**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/christianity|Christianity]], The Renaissance, The Reformation
-**Settings:** [[settings/oxford|Oxford]]
-**Characters:** [[archetypes/the-student|The Student]], [[archetypes/the-teacher|The Teacher]], The Child, [[historical-references/milton|Milton]]

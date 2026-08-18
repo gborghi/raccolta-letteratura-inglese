@@ -15,6 +15,10 @@ tags:
 
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_01" data-title="Salome — Act 1 [1]" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet,archetype/shadow,motif/mirror,motif/moon,motif/night,motif/rose,character/herod_antipas,character/herodias,character/iokanaan,character/salome,character/young_syrian"></span>

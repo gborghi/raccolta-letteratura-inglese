@@ -38,5 +38,5 @@ tags:
 
 ## Testo / Text
 
-- [To Dr. and Mrs. Field, 1884?](/testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#l0505_dr_and_mrs_field_1884)
+- [To Dr. and Mrs. Field, 1884?](/testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence--letters#and_mrs_field_1884)
 

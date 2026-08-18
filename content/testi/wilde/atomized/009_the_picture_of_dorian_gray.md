@@ -1567,7 +1567,7 @@ Entrando, videro appeso al muro un magnifico ritratto del loro padrone, così co
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="The Picture of Dorian Gray — Preface" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/artist,motif/well,concept/beauty,concept/hope,character/caliban,character/dorian_gray"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="The Picture of Dorian Gray — Chapter 20" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/artist,motif/well,concept/beauty,concept/hope,character/caliban,character/dorian_gray"></span>
 
 
 CHAPTER 20

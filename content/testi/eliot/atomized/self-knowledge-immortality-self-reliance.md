@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/self-knowledge-immortality-self-reliance" data-author="Eliot" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(eliot)"></div>
 
 
-<span class="atom-split" data-atom="045_animula" data-title="Animula" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,motif/the_window,motif/dreams,concept/childhood_and_growth,concept/innocence_and_experience,concept/self_and_soul,concept/mortality,concept/faith,form/free_verse,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+Animula · The Cultivation of Christmas Trees · I The Eagle soars in the summit of Heaven · A Note on War Poetry · [At Graduation 1905] · A, B, C · G, H, I · J, K, L · M, N, O · P, Q, R · S, T, U
+
+
+
+
+<span class="atom-split" data-atom="045_animula" data-title="Animula" data-chapter="" data-kind="intro"></span>
 
 
 Animula  
@@ -97,7 +102,7 @@ pregate per noi ora e nell’ora della nostra nascita.
 
 
 
-<span class="atom-split" data-atom="047_the_cultivation_of_christmas_trees" data-title="The Cultivation of Christmas Trees" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,archetype/child,motif/childhood,motif/fire,motif/memory,concept/wonder_and_gratitude,concept/faith,concept/joy,concept/childhood_and_growth,form/free_verse,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="047_the_cultivation_of_christmas_trees" data-title="The Cultivation of Christmas Trees" data-chapter="" data-kind="intro"></span>
 
 
 The Cultivation of Christmas Trees  
@@ -177,7 +182,7 @@ e la prima venuta la seconda venuta.
 
 
 
-<span class="atom-split" data-atom="058_i_the_eagle_soars_in_the_summit_of_heaven" data-title="I The Eagle soars in the summit of Heaven" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/dust,motif/the_city,motif/seasons,motif/birds,concept/faith,concept/spiritual_emptiness,concept/critique_of_progress,form/free_verse,histref/christianity,setting/london,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="058_i_the_eagle_soars_in_the_summit_of_heaven" data-title="I The Eagle soars in the summit of Heaven" data-chapter="" data-kind="intro"></span>
 
 
 I The Eagle soars in the summit of Heaven  
@@ -461,7 +466,7 @@ ciascun uomo al suo lavoro.
 
 
 
-<span class="atom-split" data-atom="075_a_note_on_war_poetry" data-title="A Note on War Poetry" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,concept/war_and_its_cost,concept/the_artist_and_society,concept/immortality_of_art,form/free_verse,histref/the_first_world_war,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="075_a_note_on_war_poetry" data-title="A Note on War Poetry" data-chapter="" data-kind="intro"></span>
 
 
 A Note on War Poetry  
@@ -529,7 +534,7 @@ può essere affermata in versi.
 
 
 
-<span class="atom-split" data-atom="105_at_graduation_1905" data-title="[At Graduation 1905]" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_sea,motif/the_journey,concept/education,concept/memory_and_time,concept/critique_of_progress,concept/nostalgia,form/ode,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="105_at_graduation_1905" data-title="[At Graduation 1905]" data-chapter="" data-kind="intro"></span>
 
 
 [At Graduation 1905]  
@@ -737,7 +742,7 @@ Exeunt omnes, con un ultimo ‘addio’.
 
 
 
-<span class="atom-split" data-atom="116_a_b_c" data-title="A, B, C" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/fog_and_smoke,concept/memory_and_time,concept/spiritual_emptiness,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="116_a_b_c" data-title="A, B, C" data-chapter="" data-kind="intro"></span>
 
 
 INDEX OF FIRST LINES OF POEMS  
@@ -777,7 +782,7 @@ Vieni sotto l’[[archetypes/shadow|ombra]] di questa roccia grigia 1
 
 
 
-<span class="atom-split" data-atom="118_g_h_i" data-title="G, H, I" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/animals,concept/memory_and_time,concept/mortality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="118_g_h_i" data-title="G, H, I" data-chapter="" data-kind="intro"></span>
 
 
 Growltiger was a Bravo Cat, who travelled on a barge 1  
@@ -815,7 +820,7 @@ Nel mio principio è la mia fine. In successione 1
 
 
 
-<span class="atom-split" data-atom="119_j_k_l" data-title="J, K, L" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/animals,motif/the_journey,concept/alienation,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="119_j_k_l" data-title="J, K, L" data-chapter="" data-kind="intro"></span>
 
 
 Jellicle Cats are black and white 1  
@@ -837,7 +842,7 @@ Signore, i giacinti romani fioriscono nelle ciotole e 1
 
 
 
-<span class="atom-split" data-atom="120_m_n_o" data-title="M, N, O" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/animals,motif/the_sea,concept/memory_and_time,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="120_m_n_o" data-title="M, N, O" data-chapter="" data-kind="intro"></span>
 
 
 [[characters/macavity|Macavity]]’s a Mystery Cat: he’s called the Hidden Paw 1  
@@ -869,7 +874,7 @@ Una delle mie marionette è morta 1
 
 
 
-<span class="atom-split" data-atom="121_p_q_r" data-title="P, Q, R" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/the_sea,concept/love_romantic,concept/satire_of_society,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="121_p_q_r" data-title="P, Q, R" data-chapter="" data-kind="intro"></span>
 
 
 Paint me a cavernous waste shore 1  
@@ -889,7 +894,7 @@ Polifiloprogenitivo 1
 
 
 
-<span class="atom-split" data-atom="122_s_t_u" data-title="S, T, U" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/winter,concept/memory_and_time,concept/mortality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
+<span class="atom-split" data-atom="122_s_t_u" data-title="S, T, U" data-chapter="" data-kind="intro"></span>
 
 
 Standing upon the shore of all we know 1  

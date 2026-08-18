@@ -26,6 +26,915 @@ MRS. GUZZARD
 
 ### Atto 1, Scena 1
 
+<span class="qlang-split" data-lang="it"></span>
+
+THE CONFIDENTIAL CLERK
+Characters
+[[characters/sir-claude-mulhammer|SIR CLAUDE MULHAMMER]]
+EGGERSON
+[[characters/colby-simpkins|COLBY SIMPKINS]]
+B. KAGHAN
+LUCASTA ANGEL
+LADY ELIZABETH MULHAMMER
+MRS. GUZZARD
+
+### Atto 1, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Lo studio degli affari al primo piano, da [[characters/sir-claude-mulhammer\|SIR CLAUDE MULHAMMER]], a [[settings/london\|Londra]], in casa sua. Primo pomeriggio. SIR CLAUDE scrive alla scrivania. Entra EGGERSON. |  
+| SIR CLAUDE | Ah, eccola, Eggerson! Puntuale come sempre.<br><br><br>Mi dispiace doverla far salire fino a [[settings/london\|Londra]],<br>da Joshua Park, per una commissione simile.<br>Ma sa che mia moglie non vorrebbe che ad accoglierla<br>a Northolt ci fosse altri che lei. E non potevo mandare Colby.<br>Non è questo il modo di preparare il loro primo incontro,<br>al suo ritorno dalla Svizzera. |  
+| EGGERSON | Impossibile, Sir Claude!<br><br><br>Una situazione delicatissima —<br>il suo primo incontro con il signor Simpkins.<br>Ma ero contento della scusa per venire a [[settings/london\|Londra]]:<br>ho passato la mattinata a far compere! Attrezzi da giardinaggio.<br>Quante cose servono per un [[motifs/garden\|giardino]]!<br>E ho pensato: è il momento giusto per comprare attrezzi nuovi,<br>così da non perdere un istante alla fine dell’[[motifs/winter\|inverno]].<br>E ho trovato una stoffa intonata per la signora E.,<br>che desiderava da un pezzo. Sarà contenta.<br><br><br>Poi ho pranzato al magazzino — hanno un ristorante;<br>un ottimo pranzo, e a buon mercato, per i tempi che corrono.<br>Ma dov’è il signor Simpkins? Sarà qui? |  
+| SIR CLAUDE | Stamattina ho dovuto mandarlo alla [[motifs/city\|City]],<br><br><br>ma tornerà, [[concepts/hope\|spero]], prima che lei parta. |  
+| EGGERSON | E come se la cava? A meraviglia, ne sono certo,<br><br><br>dato che non ho più saputo nulla dall’ultima [[motifs/time\|volta]] che sono venuto. |  
+| SIR CLAUDE | [[motifs/well\|Beh]], naturalmente, Eggerson, lei è insostituibile… |  
+| EGGERSON | Oh, Sir Claude, non dovrebbe dirlo!<br><br><br>Il signor Simpkins è molto più qualificato di quanto fossi io<br>per essere il suo segretario privato.<br>Stava prendendo le misure, e in fretta,<br>nel [[motifs/time\|tempo]] in cui abbiamo lavorato insieme.<br>Tutto ciò che gli serve è fiducia. |  
+| SIR CLAUDE | Ed esperienza.<br><br><br>Con un giovane è necessario qualche assestamento.<br>Ma mi pare che stia afferrando il meccanismo,<br>e credo che cominci a prenderci un vivo interesse. |  
+| EGGERSON | E sta superando la sua delusione?<br><br><br>Naturalmente non gliene ho mai parlato:<br>è solo quello che mi ha detto lei. |  
+| SIR CLAUDE | Riguardo alla sua musica.<br><br><br>Sì, credo di sì. Capisco che cosa prova.<br>È come me, Eggerson. La stessa delusione<br>in forma diversa. Non dimenticherà<br>che la sua grande [[concepts/ambition\|ambizione]] era di fare l’organista,<br>proprio come io non posso dimenticare… non importa.<br>La cosa importante era trovare qualcos’altro<br>che potesse fare, e fare [[motifs/well\|bene]]. E credo che l’abbia trovato,<br>proprio come feci io. Gli parlerò di me.<br>Ma finora l’ho lasciato a se stesso:<br>ho pensato che si sarebbe adattato più in fretta a questa vita<br>se avessimo cominciato su un piano puramente d’affari. |  
+| EGGERSON | Senza [[concepts/doubt\|dubbio]] è la cosa migliore. Mentre vive ancora<br><br><br>dalla zia a Teddington, e viene su ogni giorno,<br>proprio come facevo io. E l’appartamentino nella corte?<br>Fra quanto sarà pronto per lui? |  
+| SIR CLAUDE | Devono ancora finire le pareti. E poi va ammobiliato.<br><br><br>Sto cercando di trovargli un pianoforte davvero buono. |  
+| EGGERSON | Un pianoforte? Sì, sono certo che si sentirà a [[motifs/home\|casa]]<br><br><br>quando avrà un pianoforte. Lei pensa a tutto.<br>Ma se posso permettermi un suggerimento: le cassette da [[motifs/window\|finestra]]!<br>Ha mostrato tanto interesse per il mio [[motifs/garden\|giardino]]<br>che credo dovrebbe avere le cassette da [[motifs/window\|finestra]].<br>Un giorno vorrà un [[motifs/garden\|giardino]] tutto suo. E sì, una vaschetta per gli uccelli! |  
+| SIR CLAUDE | Una vaschetta per gli uccelli? Nella corte? A che scopo? |  
+| EGGERSON | Mi ha detto che gli piace molto osservare gli uccelli. |  
+| SIR CLAUDE | Ma non ci saranno [[motifs/birds\|uccelli]] — nessuno che valga la pena osservare. |  
+| EGGERSON | Non saprei, Sir Claude. Proprio l’altro giorno<br><br><br>ho letto una lettera sul Times sugli [[motifs/birds\|uccelli]] selvatici avvistati a [[settings/london\|Londra]]:<br><br><br>e sono certo che, se qualcuno li troverà, sarà il signor Simpkins. |  
+| SIR CLAUDE | [[motifs/well\|Bene]], lasciamo perdere per ora. Dato che abbiamo un po’ di [[motifs/time\|tempo]]<br><br><br>prima che lei parta per Northolt — l’automobile sarà pronta —<br>pensiamo a che cosa dirà a Lady Elizabeth,<br>tornando dall’aeroporto, a proposito di Colby.<br>Credo che dovrebbe avvertirla<br>di chi incontrerà al suo arrivo. |  
+| EGGERSON | Come vorrebbe che affrontassi l’argomento? |  
+| SIR CLAUDE | Naturalmente sa che lei desiderava ritirarsi,<br><br><br>dato che ne abbiamo discusso a proposito della sua sostituzione.<br>Ma sa bene che lo considera — [[motifs/well\|beh]], a tutti gli effetti<br>uno di famiglia. |  
+| EGGERSON | È un grande complimento. |  
+| SIR CLAUDE | E [[motifs/well\|ben]] meritato; ma piuttosto scomodo<br><br><br>quando si tratta di nominare un successore.<br>Rende molto difficile sostituirla.<br>Ritiene di dover avere voce nella scelta;<br>e per di più è convinta che lei, più di chiunque altro,<br>sappia giudicare il carattere meglio di me. |  
+| EGGERSON | Oh, non direi, Sir Claude!<br><br><br>Ha troppo rispetto per il suo genio negli affari.<br>Ma è vero che crede di avere ciò che chiama «guida». |  
+| SIR CLAUDE | La guida. È peggio che credere nel proprio giudizio:<br><br><br>su quello si potrebbe discutere. Con la guida non si discute.<br>Ma se dovesse sembrare perplessa, o seccata<br>del fatto che ho fatto la nomina durante la sua assenza,<br>dica che lei ha dovuto lasciare per ordine del medico.<br>Si è sempre preoccupata della sua salute,<br>perciò sarà comprensiva. E quanto a Colby —<br>dica che il signor Simpkins aveva ottime referenze,<br>e dica che ho dovuto decidere in fretta<br>perché aveva un’altra offerta molto allettante.<br>Qualcosa del genere. Non ci si dilunghi troppo.<br>E [[concepts/hope\|spero]] proprio che le piaccia subito:<br>se sarà così, finirà di sicuro per credere<br>di averlo scelto lei stessa. A proposito, non dimentichi<br>di farle sapere che è molto musicale.<br>Potrà portarlo ai concerti. Ma non esageri! |  
+| EGGERSON | Me ne ricorderò. La musica. |  
+| SIR CLAUDE | E a proposito,<br>quanto le ha detto in realtà di lei?<br>Ricorda, le ho chiesto di prepararlo un poco;<br>ci sono cose che lei saprebbe dire meglio di me,<br>e modi in cui potrebbe rassicurarlo<br>meglio di me. Con lei è più a suo agio<br>che con me. |  
+| EGGERSON | Oh, non deve dirlo!<br><br><br>Anche se ho fatto del mio meglio per guadagnarmi la sua fiducia.<br>Le ho accennato al suo interesse per la Luce dall’Oriente. |  
+| SIR CLAUDE | E l’Apocalisse? E la Sapienza di Atlantide? |  
+| EGGERSON | [[motifs/well\|Beh]], a dire il [[concepts/truth\|vero]], Sir Claude, ho solo sfiorato questi argomenti:<br><br><br>sono troppo profondi per me. E ho pensato: il signor Simpkins<br>è molto istruito. Comincerà presto ad afferrarli.<br>No, non gli ho detto molto di Lady Elizabeth.<br>Ma c’è una cosa che vorrei sapere —<br>se non le dispiace — prima di andare a incontrarla.<br>Fra quanto intende… spiegare il signor Simpkins?<br><br><br>Regolarizzare la sua posizione in famiglia?<br>Mi disse che era questa la sua intenzione finale. |  
+| SIR CLAUDE | Quando — o addirittura se — rivelerò la sua [[concepts/identity\|identità]]<br><br><br>dipende da come lei lo prenderà. Questo pomeriggio<br>saprà soltanto che lei si è finalmente ritirato<br>e che ha un giovane successore,<br>un certo signor [[characters/colby-simpkins\|Colby Simpkins]]. |  
+| EGGERSON | Semplicemente il signor Simpkins. |  
+| SIR CLAUDE | Le ragioni per farlo cominciare durante la sua assenza<br><br><br>sono chiarissime. Ma oltre a quel punto<br>non le ho ancora esposto i miei piani.<br>Il motivo per cui non le ho mai parlato di lui,<br>il motivo per cui lo incontrerà come semplice signor Simpkins,<br>è che lei ha un forte istinto materno… |  
+| EGGERSON | Me ne rendo conto. |  
+| SIR CLAUDE | Che è stato sempre frustrato. |  
+| EGGERSON | Sono certo che è stato un dolore per entrambi<br><br><br>non aver mai avuto figli. |  
+| SIR CLAUDE | Non peggiore, Eggerson,<br><br><br>di quello suo e di sua moglie, per aver avuto un figlio<br>caduto in guerra, e la sua [[motifs/grave\|tomba]] ignota. |  
+| EGGERSON | E lei sta pensando senza [[concepts/doubt\|dubbio]] che Lady Elizabeth<br><br><br>sarebbe richiamata al [[archetypes/child\|figlio]] che ha perduto. |  
+| SIR CLAUDE | In tutt’altro modo, sì. Si potrebbe dire smarrito,<br>dato che il padre è morto e non c’è modo di rintracciarlo.<br>Sì, pensavo al suo [[archetypes/child\|figlio]] scomparso:<br>date le circostanze, questo potrebbe renderla gelosa.<br>Ho spiegato tutto questo a Colby — al signor Simpkins. |  
+| EGGERSON | Capisco che cosa intende. |  
+| SIR CLAUDE | Prima deve affezionarsi a lui:<br><br><br>e allora, Eggerson, non dispero<br>che, nella convinzione che sia [[archetypes/orphan\|orfano]],<br>voglia che lo adottiamo. |  
+| EGGERSON | Adottarlo! Sì, davvero,<br><br><br>quella sarebbe la soluzione. Sì, addirittura ideale. |  
+| SIR CLAUDE | Sono lieto che concordi. Il suo appoggio sarà utile. |  
+| EGGERSON | Sarò felicissimo di raccomandarlo. |  
+| SIR CLAUDE | Non deve esagerare! Ma la sua approvazione conta.<br><br><br>Sa bene che tiene in altissimo conto il suo parere. |  
+| EGGERSON | [[motifs/well\|Beh]], credo che una volta o due, forse…<br><br><br>Ma temo che lei sopravvaluti la mia influenza.<br>Non sono mai riuscito a farle piacere la signorina Angel;<br>si distrae ogni volta che la nomino. |  
+| SIR CLAUDE | Ma di Lucasta — la signorina Angel — sapeva fin dall’inizio.<br><br><br>Quella era una difficoltà. E ce ne sono altre.<br>Tanto per cominciare, sono tutte e due donne. |  
+| EGGERSON | Vero. |  
+| SIR CLAUDE | Ma non credo che badi molto alla signorina Angel.<br><br><br>Semplicemente non la vede. E la signorina Angel<br>si sposerà presto, immagino. |  
+| EGGERSON | Lo [[concepts/hope\|spero]] anch’io. Una sistemazione quanto mai adatta.<br><br><br>Ma mi dica una cosa: se si arrivasse al punto<br>in cui Lady Elizabeth volesse adottarlo —<br>una soluzione ammirevole — che cosa seguirebbe?<br>Le farebbe sapere, allora, che il signor Simpkins<br>è in realtà suo figlio? |  
+| SIR CLAUDE | È lì che brancolo nel buio.<br><br><br>Non riesco proprio a immaginare quale sarebbe la sua reazione.<br>C’è molto che non capisco di mia moglie.<br>C’è sempre qualcosa che si ignora<br>di chiunque, per quanto [[motifs/well\|bene]] lo si conosca;<br>e può essere qualcosa della massima importanza.<br>È quando sei sicuro di capire una persona<br>che rischi di sbagliare su di lei nel modo peggiore.<br>A dire il vero, c’è molto che non so<br>di lei, Eggerson, benché abbiamo lavorato insieme<br>per quasi trent’anni. |  
+| EGGERSON | Quasi trentuno.<br><br><br>Ma ora che me lo mette così bene,<br>devo ammettere che c’è molto che non capisco<br><br><br>di mia moglie. |  
+| SIR CLAUDE | E altrettanto<br><br><br>lei non sa di lei. E altrettanto<br>lei non sa di me — di questo non sono così sicuro!<br>La mia regola è ricordare che non capisco nessuno,<br>ma d’altra parte non essere mai sicuro<br>che gli altri non capiscano me — molto meglio<br>di quanto mi farebbe piacere pensare, forse. |  
+| EGGERSON | E devo dedurne<br><br><br>che non è sicuro di capire nemmeno il signor Simpkins? |  
+| SIR CLAUDE | Un richiamo opportuno. Forse dovrà ripetermelo.<br><br><br>Ma ormai dovrebbe essere tornato. E allora la lascio.<br>Devo telefonare ad Amsterdam, e forse a [[settings/paris\|Parigi]].<br>Ma quando lei tornerà con Lady Elizabeth<br>sarò pronto ad aspettarvi per presentarlo. |  
+| *(didascalia)* | [Entra [[characters/colby-simpkins\|COLBY SIMPKINS]] con una cartella] |  
+| SIR CLAUDE | Ah, Colby, stavo appunto dicendo a Eggerson<br><br><br>che era [[motifs/time\|ora]] che tornasse. La mattinata è andata bene? |  
+| COLBY | Ho quel che voleva, Sir Claude. Buon pomeriggio,<br><br><br>signor Eggerson. Temevo di non trovarla più. |  
+| EGGERSON | Parto fra mezz’ora, signor Simpkins. |  
+| SIR CLAUDE | Ora vi lascio. Ma quando Eggerson tornerà<br><br><br>con Lady Elizabeth, vi raggiungerò. |  
+| *(didascalia)* | [Esce SIR CLAUDE] |  
+| COLBY | Sono contento che non debba andarsene subito.<br><br><br>Sono piuttosto nervoso per questo incontro.<br>Mi ha detto pochissimo di Lady Elizabeth,<br>e Sir Claude stesso non mi ha detto molto:<br>così non ho idea di come dovrei comportarmi.<br>B. Kaghan mi ha raccontato qualcosa di lei,<br>ma è piuttosto allarmante. |  
+| EGGERSON | Il signor Kaghan è prevenuto.<br><br><br>Non è mai andato d’accordo con Lady Elizabeth.<br>Non gli dia retta. Capisce Sir Claude,<br>e a Sir Claude è sempre stato molto riconoscente,<br>come è giusto che sia. Sir Claude lo scelse<br>e gli diede l’avvio. E lui ne ha tratto il massimo —<br>questo glielo riconosco. Un esempio incoraggiante<br>per lei, signor Simpkins. Sarà una potenza nella [[motifs/city\|City]]!<br>E ha un cuore d’oro. Ma, senza girarci intorno,<br>è un diamante piuttosto grezzo. Modi assai disinvolti;<br>e Lady Elizabeth non gli ha mai preso simpatia.<br>Ma lei, signor Simpkins, è tutt’altra cosa. |  
+| COLBY | Non capisco perché dovrebbe essere così diverso.<br><br><br>B. Kaghan mi piace. L’ho trovato molto disponibile<br>e ottima compagnia anche fuori dagli affari. |  
+| EGGERSON | Oh sì, il signor Kaghan è ottima compagnia.<br><br><br>A volte mi fa ridere. E io non rido facilmente.<br>È un bel tipo di spiritoso. Anzi, la signora E.<br>a volte mi dice: «Eggerson, perché non mi fai ridere<br>come faceva B. Kaghan?» L’ha visto una volta sola;<br>ma sa che cosa fece? Cominciò a chiamarla Muriel —<br>nei primi dieci minuti! Io ero inorridito.<br>Ma a lei in realtà piacque. Muriel è il suo nome.<br><br><br>Ha un certo modo con le signore, sa.<br>Ma con Lady Elizabeth non ha avuto altrettanto successo.<br>Una volta lei lo definì «senza distinzione»;<br>ma con lei, come dicevo, sarà tutt’altra cosa.<br>Vedrà subito che lei è un uomo di cultura;<br>e poi lei è molto musicale. |  
+| COLBY | Grazie dell’avvertimento! |  
+| EGGERSON | Perciò, se non le dispiace, accennerò subito<br><br><br>al fatto che lei è un musicista. |  
+| COLBY | Starò in guardia. |  
+| EGGERSON | La sua musica sarà di certo una gran risorsa<br><br><br>con Lady Elizabeth. Gliela invidio.<br>Io ho sempre cantato nel nostro coro parrocchiale<br>e alla funzione dei canti natalizi. Ma vorrei essere musicale. |  
+| COLBY | Continuo a non sentirmi molto [[motifs/well\|ben]] preparato a incontrarla. |  
+| *(didascalia)* | [Un bussare fragoroso. Entra B. KAGHAN] |  
+| *(didascalia)* | Entra B. Kaghan. Ciao Colby! |  
+| KAGHAN | E ciao Eggers! Sono contento di trovarla qui.<br>È una fortuna per Colby. |  
+| EGGERSON | E perché mai, signor Kaghan? |  
+| KAGHAN | Perché c’è Lucasta con me! La solita catastrofe.<br><br><br>È venuta a scucire un po’ di contante dalla cassa.<br>In bancarotta di nuovo! Così ho pensato di portarla<br>e di salire avanti io, per attutire il colpo a Colby.<br>Ma dato che c’è lei, Eggers, posso rilassarmi.<br>Mi godrò la partita dalla linea laterale. |  
+| *(didascalia)* | [Entra LUCASTA ANGEL] |  
+| LUCASTA | Eggy, ho perso il posto! |  
+| EGGERSON | Di nuovo, signorina Angel? |  
+| LUCASTA | Sì, di nuovo! E gli sta bene! |  
+| EGGERSON | È stata, presumo, ostinatamente in ritardo. |  
+| LUCASTA | Si sbaglia, Eggy. È pura ingiustizia.<br><br><br>Per due mesi ho archiviato quelle carte<br>che nessuno voleva mai — almeno, fino a ieri.<br>Poi, giusto per sfortuna, il capo volle una lettera<br>e io non riuscii a trovarla. E allora si insospettì<br>e chiese cose che di sicuro non gli servivano —<br>solo per far dispetto! E non ne trovai neanche una.<br>Ma sono tutte archiviate da qualche parte, ne sono certa, quindi che problema c’è?<br>Ma chi è questo, Eggy? È [[characters/colby-simpkins\|Colby Simpkins]]?<br>Presentatemelo, l’uno o l’altro di voi. |  
+| EGGERSON | Il signor Simpkins, la signorina Angel. Come sa, signorina Angel,<br><br><br>il signor Simpkins ha preso il mio posto. |  
+| LUCASTA | E sa che io sono uno dei suoi compiti?<br><br><br>L’ha preparato a prendersi cura anche di me?<br><br><br>Lo sapeva, Colby? Io sono Lucasta.<br>Solo Eggy mi chiama signorina Angel,<br>tanto per infastidirmi. Non trova<br>che Lucasta mi si addica di più? |  
+| COLBY | Sono certo che le si addicono entrambi. |  
+| LUCASTA | Snobbata di nuovo! Immagino di essermela cercata.<br><br><br>Ecco che cosa comporta la maledizione di un nome come Angel.<br>Sto pensando di cambiarlo. Ma, Colby,<br>lo sa che sono una delle sue responsabilità? |  
+| COLBY | No, temo di non saperlo. |  
+| EGGERSON | Non deve cederle, signor Simpkins.<br>Io non lo faccio mai. Dico sempre<br>che se si dà alla signorina Angel un dito<br>lei si prende un’elle. |  
+| LUCASTA | Elle come Lucasta.<br><br><br>Continui, Eggy. Non gli dia retta, Colby.<br>Colby, lei è sposato? |  
+| COLBY | No, non sono sposato. |  
+| LUCASTA | Allora non mi dispiace farmi vedere con lei in pubblico.<br><br><br>Può portarmi fuori a cena. Una ragazza che lavora come me<br>ha spesso una gran fame — vivendo con un’inezia —<br>a cuocersi una salsiccia sul fornello a gas… |  
+| EGGERSON | Non deve credere a una sola parola di quel che dice. |  
+| LUCASTA | Il signor Simpkins crederà a tutto quello che dico,<br><br><br>signor Eggerson. E so che sarà gentile con me<br><br><br>quando lei sarà fuori dai piedi. Perché non lo lascia parlare?<br>Eggy in fondo è quasi umano, Colby.<br>È solo che ha un terrore folle della signora Eggerson;<br>ecco perché non mi ha mai invitata a pranzo. |  
+| EGGERSON | Lasciamo fuori la signora Eggerson da tutto questo, signorina Angel. |  
+| LUCASTA | È quello che dice sempre, Colby,<br><br><br>quando nomino la signora Eggerson. Abbocca ogni volta.<br>B.! Che cosa hai raccontato di me a Colby? |  
+| KAGHAN | È inutile raccontare di te a chicchessia:<br><br><br>nessuno crederebbe alla tua esistenza<br>finché non ti incontra. Colby vacilla ancora.<br>Sarà una mia responsabilità,<br>come tuo fidanzato, proteggere Colby da te.<br>Ma prima affrontiamo la crisi finanziaria. |  
+| LUCASTA | Sì, Eggy, vuole dare lei la triste notizia a Claude?<br><br><br>Intanto, dovrà saccheggiare la cassa per me. Muoio di fame. |  
+| KAGHAN | Le ho appena offerto il pranzo. Il problema con Lucasta<br><br><br>è come tenerla sfamata fra un pasto e l’altro. |  
+| LUCASTA | B., sei una bestia. Ho un appetito piccolissimo.<br><br><br>Ma il punto è che sono senza un soldo. |  
+| KAGHAN | Ha avuto una settimana di stipendio in luogo del preavviso. |  
+| LUCASTA | B., ricordati che sei mio fidanzato solo in prova.<br><br><br>Posso avere un po’ di denaro, Eggy? |  
+| EGGERSON | Non sono più io a occuparmene<br><br><br>e quell’incombenza non è passata al signor Simpkins:<br><br><br>Sir Claude intende trattare queste faccende di persona.<br>Dovrà chiedere a Sir Claude. Ma gliene parlerò io<br>al ritorno da Northolt. |  
+| LUCASTA | Va a incontrare Lizzie? |  
+| EGGERSON | Vado a incontrare Lady Elizabeth a Northolt. |  
+| LUCASTA | [[motifs/well\|Beh]], non ho intenzione di essere sulla scena quando arriva. |  
+| KAGHAN | E io non ho intenzione di lasciarti con Colby.<br><br><br>Ne ha avuto abbastanza per un giorno solo. Segui il mio consiglio, Colby.<br>Non concedere mai a Lucasta il minimo vantaggio<br>o lei lo sfrutterà. Con lei bisogna essere duri;<br>è dura come i chiodi. Ora te la tolgo dai piedi.<br>Ti farò vedere come si fa. Andiamo, Lucasta,<br>farò le cose in grande e ti porterò fuori a prendere il tè. |  
+| LUCASTA | Muoio dalla voglia del tè. La tensione di questa crisi<br><br><br>è stata troppo per me. Un’altra [[motifs/time\|volta]], Colby.<br>La chiamerò, e mi lascerò portare fuori a pranzo. |  
+| *(didascalia)* | [Esce LUCASTA] |  
+| KAGHAN | Con calma, Colby. Ci farai l’abitudine. |  
+| *(didascalia)* | [Esce KAGHAN] |  
+| COLBY | Egg… Signor Eggerson! |  
+| EGGERSON | Sì, signor Simpkins? |  
+| COLBY | Lei mi sembra sano di mente. E credo di esserlo anch’io. |  
+| EGGERSON | Non ho [[concepts/doubt\|dubbi]] né sull’uno né sull’altro punto, nessunissimo. |  
+| COLBY | E anche B. Kaghan mi è sempre parso sano di mente. |  
+| EGGERSON | Lo definirei il ritratto stesso della sanità mentale. |  
+| COLBY | Ma di sicuro non mi aveva avvertito riguardo alla signorina Angel.<br><br><br>Come la mettiamo con lei? |  
+| EGGERSON | Oh, la signorina Angel.<br><br><br>È piuttosto sventata. Ma ha buon cuore. |  
+| COLBY | Ma davvero si rivolge a [[characters/sir-claude-mulhammer\|Sir Claude Mulhammer]]<br><br><br>chiamandolo Claude? In faccia? |  
+| EGGERSON | Proprio così. |  
+| COLBY | E chiama Lady Elizabeth «Lizzie»? |  
+| EGGERSON | [[motifs/well\|Beh]], non in sua presenza. Non quando c’ero io.<br><br><br>No, non credo che lo farebbe. Ma la chiama Lizzie,<br>a volte, parlando con Sir Claude. E sa una cosa?<br>Credo che a lui la faccenda diverta. |  
+| COLBY | [[motifs/well\|Beh]], forse divertirà anche me.<br><br><br>Ma mi ha fatto girare la testa — tutti quei nomi di battesimo<br>la prima [[motifs/time\|volta]] che l’ho incontrata. Non ci sono abituato. |  
+| EGGERSON | Ci farà presto l’abitudine. Chiamerà me Eggers<br><br><br>prima di accorgersene! |  
+| COLBY | Non me ne [[concepts/wonder\|stupirei]].<br><br><br>Ci sono quasi arrivato, poco fa.<br>Allora sarei stato certo di aver perso la ragione:<br>la sua influenza è addirittura spaventosa.<br>Ma mi parli di Lu… della signorina Angel:<br>che rapporto ha con questa casa? |  
+| EGGERSON | [[motifs/well\|Beh]]. Una specie di rapporto fiduciario.<br><br><br>No, non credo che sia proprio il termine giusto.<br>Non ha denaro suo, come avrà intuito;<br>ma credo che suo padre fosse amico di Sir Claude,<br>e lui si è assunto la responsabilità di lei.<br>In ogni caso si è comportato da padre —<br>un uomo molto generoso, Sir Claude.<br>A dire il [[concepts/truth\|vero]], lei è una specie di spina nel suo fianco:<br>perde sempre il posto, perché non sa tenerselo.<br>Lui le passa un assegno — davvero più che adeguato,<br>anche se lei è sempre indebitata. Ma non deve preoccuparsi<br>per lei, signor Simpkins. Sposerà il signor Kaghan<br>alla fine. È un uomo che ottiene ciò che vuole,<br>e credo che sappia tenerla a bada. Se qualcuno può. |  
+| COLBY | Ma è probabile che sia una seccatura? |  
+| EGGERSON | Non se non le si dà corda.<br><br><br>Io non gliel’ho mai data. |  
+| COLBY | Ma lei ha la signora Eggerson. |  
+| EGGERSON | Sì, è una gran protezione. E ho il mio [[motifs/garden\|giardino]]<br><br><br>a proteggermi dalla signora E. È la mia battuta. |  
+| COLBY | [[motifs/well\|Beh]], non ho mai conosciuto nessuno come la signorina Angel. |  
+| EGGERSON | Ci farà l’abitudine, signor Simpkins.<br><br><br>Il [[motifs/time\|tempo]] fa miracoli, è quel che dico sempre.<br>Ma non credo che dovrà vederla molto:<br>quella responsabilità non pesa sulle sue spalle.<br>Lady Elizabeth, invece, è un altro discorso. |  
+| COLBY | Almeno non credo che Lady Elizabeth<br><br><br>possa essere insolita quanto la signorina Angel. |  
+| EGGERSON | Oh sì, signor Simpkins, molto più insolita. |  
+| COLBY | Oh! |  
+| EGGERSON | [[motifs/well\|Beh]], come le dicevo, lei è davvero una gran dama,<br><br><br>una grande dame, come dicono i francesi.<br>È questo che Sir Claude ammira in lei.<br>Una volta mi disse, in un momento di confidenza —<br>era appena tornato da un pranzo ufficiale —<br>«Eggerson», disse, «volevo una signora,<br>e sono perfettamente soddisfatto dell’affare».<br>È vero, naturalmente, che le sue parentele<br>a volte sono state utili. Ma lui non ci pensò:<br>non è di animo meschino — anche se nulla gli sfugge.<br>E che cuore generoso! È piuttosto socialista.<br>Io, per parte mia, sono un conservatore convinto. |  
+| COLBY | Ma Lady Elizabeth è molto insolita<br><br><br>anche per altri versi, oltre che per essere una gran dama? |  
+| EGGERSON | Ma sì, certo, devo ammettere che lo è.<br><br><br>Quasi tutte le sue stranezze sono del tutto innocue.<br>Ci farà presto l’abitudine. È quel che disse Sir Claude:<br>«Assecondala, Eggerson», disse, «assecondala».<br>Ma c’è un tratto che credo di aver già sfiorato:<br>è molto distratta. |  
+| COLBY | [[concepts/hope\|Spero]] che non intenda<br><br><br>che ha dei vuoti di [[motifs/memory\|memoria]]. |  
+| EGGERSON | Non intendevo questo.<br><br><br>No. Non ha molta [[motifs/memory\|memoria]] da perdere,<br>anche se a volte ricorda quando meno te lo aspetti.<br>Ma dimentica le cose. E le piace viaggiare,<br>soprattutto per la salute. E quando è all’estero<br>è capace di comprare una casa. E poi se ne va<br>e se ne dimentica del tutto. Può essere complicato<br>e molto costoso. Ne ho vissute delle belle!<br>Ricordo che tanto tempo fa dicevo alla signora E.,<br>quando avevamo comprato la nostra casa a Joshua Park<br>(con un mutuo, s’intende): «ora che ci siamo sistemati<br>tutto il viaggiare che voglio è arrivare alla [[motifs/city\|City]]<br><br><br>e tornare a Joshua Park la sera,<br>e una volta l’anno la vacanza a Dawlish».<br>E pensare che era solo l’inizio dei miei viaggi!<br>È stato un privilegio davvero insolito<br>vedere tanta Europa quanta ne ho vista,<br>tirando Lady Elizabeth fuori dai suoi guai. |  
+| COLBY | Forse non arriverà nemmeno con questo aereo. |  
+| EGGERSON | Oh, potrebbe succedere. A volte si perde,<br>o perde il biglietto, o perfino il passaporto.<br>Ma non attraversiamo i ponti<br>prima di arrivarci. È quel che dico sempre.<br><br><br>E sono certo che le piacerà. È una tale signora!<br><br><br>E per di più ha buon cuore. |  
+| COLBY | Sembra che tutti abbiano buon cuore.<br><br><br>Ma c’è una cosa in cui credo, signor Eggerson:<br>che lei abbia un cuore gentile. E sono convinto<br><br><br>che riesca sempre a pensare il meglio di chiunque. |  
+| EGGERSON | Vedrà che ho ragione, glielo assicuro. |  
+| *(didascalia)* | [Entra SIR CLAUDE] |  
+| SIR CLAUDE | Ehilà! Ancora qui? È [[motifs/time\|ora]] che parta. |  
+| EGGERSON | Sto andando. C’è un sacco di [[motifs/time\|tempo]]. |  
+| *(didascalia)* | [Guarda l’orologio] |  
+| EGGERSON | Arriverò all’aeroporto con qualche minuto d’anticipo,<br>e poi c’è la dogana. Le porterà via un po’ di [[motifs/time\|tempo]],<br>per quel che so io.<br>Voce di LADY ELIZABETH MULHAMMER da fuori.* Apra quella valigia, voglio prenderne una cosa.<br><br><br>Scarti quello — è una bottiglia di medicinale.<br>Ora, Parkman, vuole darla all’autista?<br>Mi dice che soffre di catarro cronico. |  
+| SIR CLAUDE | Ehilà! Che cos’è? |  
+| *(didascalia)* | [Apre la porta sul pianerottolo e ascolta] |  
+| SIR CLAUDE | È qui, Eggerson! È la sua voce.<br>Dov’è? Oh, è uscita di nuovo. |  
+| *(didascalia)* | [Va alla [[motifs/window\|finestra]] e guarda giù in strada] |  
+| SIR CLAUDE | Sta conversando con il tassista.<br>Di che cosa possono parlare? Sta entrando!<br>Voce di LADY ELIZABETH MULHAMMER da fuori.* No, [[characters/gertrude\|Gertrude]], non ho pranzato,<br><br><br>e non ne voglio ora. Mi porti solo del tè.<br>Niente insieme. No, dimenticavo:<br>non ha ancora imparato a fare il tè come si deve.<br>Una tazza di caffè nero. Sir Claude è in [[motifs/home\|casa]]?<br>Parlerò prima con lui. |  
+| SIR CLAUDE | Santo cielo, Eggerson, che cosa può essere successo? |  
+| EGGERSON | È assolutamente straordinario. Mi lasci scendere a riceverla. |  
+| SIR CLAUDE | Dove dovremmo essere? Che cosa dovremmo fare?<br><br><br>EGGERSON [sulla porta aperta]. Sta parlando con la cameriera. Sta salendo. |  
+| SIR CLAUDE | Colby, si sieda alla scrivania e prenda in mano delle carte.<br><br><br>Dobbiamo sembrare immersi negli affari. |  
+| *(didascalia)* | [Entra LADY ELIZABETH MULHAMMER] |  
+| SIR CLAUDE | EGGERSON e SIR CLAUDE [insieme]. Lady Elizabeth!<br><br><br>Elizabeth! |  
+| SIR CLAUDE | Che diamine è successo? |  
+| EGGERSON | Lady Elizabeth! Questa sì che è una sorpresa. |  
+| LADY ELIZABETH | Che cosa c’è di sorprendente, Eggerson? Sono arrivata, tutto qui. |  
+| EGGERSON | Stavo giusto partendo per Northolt a incontrarla. |  
+| LADY ELIZABETH | È stato molto premuroso da parte sua, Eggerson,<br><br><br>ma del tutto inutile. E poi<br>non sono venuta in aereo. Sono arrivata a Victoria. |  
+| SIR CLAUDE | Vuoi dire che hai cambiato il biglietto? |  
+| EGGERSON | Sì, come ha fatto a cambiare il biglietto? |  
+| LADY ELIZABETH | Sono andata all’agenzia e me l’hanno cambiato.<br><br><br>Non capisco perché siate tutti e due così sorpresi.<br>Sapete che sono una viaggiatrice espertissima. |  
+| SIR CLAUDE | Oh sì, certo che lo sappiamo, Elizabeth.<br><br><br>Ma perché hai cambiato programma? |  
+| LADY ELIZABETH | Per via di Mildred Deverell.<br><br><br>Ha fatto la cura insieme a me<br>e non può viaggiare in aereo — dice che le dà il mal di mare;<br>così abbiamo preso il treno di [[motifs/night\|notte]] e attraversato la Manica.<br>Ma chi è questo giovanotto? Il suo viso mi è familiare. |  
+| SIR CLAUDE | Questo giovanotto è il successore di Eggerson.<br><br><br>Sai che Eggerson aveva intenzione di ritirarsi… |  
+| EGGERSON | Per ordine del medico, Lady Elizabeth:<br><br><br>il dottore è stato molto perentorio… |  
+| SIR CLAUDE | Il signor Simpkins aveva referenze fortissime… |  
+| EGGERSON | E nello stesso [[motifs/time\|tempo]] aveva un’altra offerta allettante:<br><br><br>così abbiamo dovuto decidere in fretta. |  
+| SIR CLAUDE | Non volevo disturbarti, durante la tua cura… |  
+| EGGERSON | E il signor Simpkins è molto più qualificato<br><br><br>di me a fare il segretario privato.<br>Per di più, è molto musicale. |  
+| LADY ELIZABETH | Musicale?<br><br><br>Non è questo il giovanotto che ho intervistato io<br>e raccomandato a Sir Claude? Ma certo che è lui.<br>Ricordo di aver detto: «Ha una bell’aura».<br>Ricordo l’aura delle persone quasi meglio dei loro volti.<br>Come ha detto che si chiama? |  
+| SIR CLAUDE | [[characters/colby-simpkins\|Colby Simpkins]].<br><br><br>LADY ELIZABETH [contando sulle dita]. Tredici lettere. È molto di buon auspicio —<br><br><br>al contrario di quel che pensa la maggior parte della gente.<br>Lei dovrebbe essere artistico. Ma ha l’aria piuttosto gracile.<br>Devo darle delle lezioni sull’arte della salute.<br>Dov’è la sua [[motifs/home\|casa]], signor Colby? |  
+| COLBY | Simpkins. |  
+| EGGERSON | Il signor [[characters/colby-simpkins\|Colby Simpkins]]. |  
+| LADY ELIZABETH | Preferisco Colby.<br><br><br>Dove abita? |  
+| SIR CLAUDE | La sua [[motifs/home\|casa]] è fuori [[settings/london\|Londra]].<br><br><br>Ma lo voglio più a portata di mano —<br>sai che seccatura è stata per Eggerson —<br>perciò sto facendo rimettere a nuovo l’appartamentino nella corte. |  
+| LADY ELIZABETH | Ma tutto nei colori sbagliati, ne sono certa. Mio marito<br><br><br>non comprende l’importanza del colore<br>per la nostra vita spirituale, signor Colby.<br>E nemmeno, mi duole dirlo, Eggerson.<br>Che colore avete scelto, voi due? |  
+| SIR CLAUDE | Pensavo che un giallo primula sarebbe stato allegro. |  
+| LADY ELIZABETH | Proprio come immaginavo. Un giallo primula<br><br><br>sarebbe assolutamente nefasto per il signor Colby.<br>Gli serve un malva chiaro. Me ne occuperò io.<br>Ma non oggi. Ora vado a riposare.<br>In un vagone letto è del tutto impossibile<br>trovare la propria ora di quiete. Un’ora di quiete al giorno<br>è essenziale, dice il dottor Rebmann. |  
+| SIR CLAUDE | Rebmann? Credevo si trattasse di un dottor Leroux. |  
+| LADY ELIZABETH | Il dottor Leroux è a Losanna.<br><br><br>Io sono stata a Zurigo, dal dottor Rebmann. |  
+| SIR CLAUDE | Ma dovevi andare dal dottor Leroux<br><br><br>a Losanna. Che cosa ti ha fatto andare a Zurigo? |  
+| LADY ELIZABETH | Ecco, ero appena arrivata a Losanna<br><br><br>che chi ti incontro se non Mildred Deverell.<br>Andava a Zurigo. E mi disse: «Vieni a Zurigo!<br>C’è un dottore meraviglioso che insegna il controllo della mente».<br>Così proseguii per Zurigo. |  
+| SIR CLAUDE | Così proseguisti per Zurigo.<br><br><br>Ma credevo che il dottore di Losanna insegnasse il controllo della mente. |  
+| LADY ELIZABETH | No, Claude, lui insegna soltanto il controllo del pensiero.<br><br><br>Il controllo della mente è tutt’altra faccenda:<br>è più avanzato. Ma te ne ho scritto per filo e per segno. |  
+| SIR CLAUDE | È vero, mi hai mandato delle cartoline da Zurigo;<br><br><br>ma sai che non riesco a decifrare la tua calligrafia.<br>Mi piace ricevere le cartoline, giusto per sapere dove sei<br>leggendo il timbro postale. |  
+| LADY ELIZABETH | Ma Claude, sono contenta di vedere<br><br><br>che hai seguito il mio consiglio. |  
+| SIR CLAUDE | Il tuo consiglio? Riguardo a che cosa? |  
+| LADY ELIZABETH | Di assumere il signor Colby. Sono davvero costernata!<br><br><br>Non è il primo segno che ho notato<br>del cedimento della tua [[motifs/memory\|memoria]]. Devo persuaderti<br>a fare un ciclo di cure dal dottor Rebmann —<br>no, al tuo stadio, credo, dal dottor Leroux.<br>Non ricordi? Dissi prima di partire:<br>«Fidati per una volta della mia guida e assumi quel giovanotto».<br>[[motifs/well\|Ebbene]], quello era il signor Colby. |  
+| SIR CLAUDE | Oh, capisco.<br><br><br>Sì, adesso comincio a ricordare.<br>Devo aver agito seguendo la tua guida. |  
+| LADY ELIZABETH | Devo spiegarle, signor Colby,<br><br><br>che dovrò dividerla con mio marito.<br>Domani prenderà il tè con me,<br>e allora le parlerò dei miei comitati.<br>Ora devo andare a riposare. |  
+| SIR CLAUDE | Sì, va’ a riposare.<br><br><br>Io sono nel mezzo di certi affari col signor… |  
+| LADY ELIZABETH | Colby! |  
+| *(didascalia)* | [Esce LADY ELIZABETH] |  
+| SIR CLAUDE | È andata davvero a cambiarsi il biglietto da sola.<br><br><br>È qualcosa di inaudito. |  
+| EGGERSON | Straordinario, vero! |  
+| SIR CLAUDE | Se è questo che il dottore di Zurigo ha fatto per lei,<br><br><br>gli do il massimo dei voti. [[motifs/well\|Beh]], Eggerson,<br>pare che l’abbia fatta salire a [[settings/london\|Londra]] per niente. |  
+| EGGERSON | Oh, non per niente! Non me lo sarei perso.<br><br><br>E poi, come le dicevo, ho fatto qualche compera.<br>Ma è meglio che vada. Signor Simpkins —<br>se dovesse capitare qualcosa di imprevisto<br><br><br>e lei si trovasse spiazzato, mi chiami al telefono.<br>Se non sono in casa, sarò fuori in [[motifs/garden\|giardino]].<br>E farò un salto in città in qualunque giorno, se ha bisogno di me.<br>Anzi, la signora E. ha detto: «Vorrei che ci telefonasse!<br>Sono certa che ha una voce molto raffinata». |  
+| COLBY | Grazie mille, lo farò. È rassicurante<br><br><br>sapere di averla sempre alle spalle<br>se mi caccio nei guai. Ma [[concepts/hope\|spero]]<br>di non doverla disturbare spesso. |  
+| EGGERSON | Oh, e dimenticavo… La signora E. continua a dire:<br><br><br>«Perché non lo inviti a cena una [[characters/sunday\|domenica]]?»<br>Ma io dico: «Non possiamo chiedergli di venire<br>fin quaggiù a Joshua Park, in questa [[motifs/time\|stagione]]!»<br>E ho detto: «Pensiamoci in [[motifs/spring\|primavera]],<br>quando il [[motifs/garden\|giardino]] sarà davvero un piacere da vedere».<br>[[motifs/well\|Bene]], vado. |  
+| SIR CLAUDE | Arrivederci, e grazie, Eggerson. |  
+| EGGERSON | Buona giornata, Sir Claude. Buona giornata, signor Simpkins. |  
+| *(didascalia)* | [Esce EGGERSON] |  
+| SIR CLAUDE | [[motifs/well\|Bene]], Colby! Finora l’ho chiamata signor Simpkins<br><br><br>in pubblico, per prudenza.<br>Come avevamo stabilito. Ma dopo due mesi —<br>e dato che mia moglie insiste nel chiamarla signor Colby —<br>comincerò a chiamarla Colby davanti a tutti. |  
+| COLBY | Sono certo che sarà più facile per entrambi. |  
+| SIR CLAUDE | Il suo arrivo improvviso è stato molto sconcertante:<br><br><br>come avrà capito, una cosa simile non era mai accaduta.<br>Così l’incontro non è andato proprio come avevo previsto;<br>eppure credo che sia stato tutto per il meglio.<br>È andato molto [[motifs/well\|bene]]. È evidentissimo<br>che le ha preso subito simpatia. |  
+| COLBY | Ha davvero creduto<br><br><br>di avermi già visto? |  
+| SIR CLAUDE | Impossibile dirlo.<br><br><br>Il punto è che ha preso una cotta per lei<br>e perciò l’accampa come cosa sua. È molto soddisfacente.<br>Ha dato per scontato che lei debba avere l’appartamento —<br>domani sarà certa di averlo proposto lei.<br>Perciò sono abbastanza fiducioso che, presto,<br>potremo mettere le cose su basi permanenti. |  
+| COLBY | Devo confessare che, fino a questo punto,<br><br><br>non sono riuscito a sentirmi molto tranquillo.<br>E quel che lei ha in mente mi sembra ancora<br>come costruire la mia vita su un [[concepts/deception\|inganno]].<br>Crede davvero che Lady Elizabeth<br>possa mai accettarmi come se fossi suo figlio? |  
+| SIR CLAUDE | Come se fosse suo figlio? Se arriverà a pensare a lei<br><br><br>come al tipo d’uomo che sarebbe stato suo figlio —<br>e credo che lo farà: sebbene io sia perfettamente convinto<br>che suo figlio sarebbe stato una persona di tutt’altro tipo —<br><br><br>allora lei diventerà suo figlio, ai suoi occhi. È fatta così.<br><br><br>Anzi, non mi sorprenderebbe se arrivasse a credere<br>che lei è davvero suo figlio, invece che mio.<br>Ha sempre vissuto in un mondo di finzione,<br>e il meglio che si possa fare è guidare le sue illusioni<br>nella direzione giusta. |  
+| COLBY | Non mi pare del tutto onesto.<br><br><br>Se dobbiamo tutti vivere in un mondo di finzione,<br>è un bene per noi? O una gentilezza verso di lei? |  
+| SIR CLAUDE | Se non si ha la forza di imporre alla vita le proprie condizioni,<br><br><br>bisogna accettare quelle che essa offre.<br>Ma mi dica prima — ho una ragione per chiederlo —<br>le piace il suo lavoro? Non lo trova sgradevole?<br>Non sto cambiando argomento: ci sto tornando.<br>Sa che l’ho lasciata deliberatamente solo,<br>e finora abbiamo discusso solo di affari correnti,<br>pensando che le sarebbe stato più facile<br>cominciare con un rapporto piuttosto formale<br>nell’adattarsi a una situazione nuova. |  
+| COLBY | Le sono molto grato di questo:<br><br><br>è davvero una situazione nuova e strana,<br>e nulla di essa mi è ancora reale. |  
+| SIR CLAUDE | Ma ora voglio che sia diverso. È curioso, Colby.<br><br><br>Non mi ero reso conto, finché lei non è entrato qui con me,<br>che ci conosciamo a malapena. |  
+| COLBY | Immagino che non ce ne sia stata l’occasione. |  
+| SIR CLAUDE | Quando lei era [[archetypes/child\|bambino]], apparteneva a sua zia,<br><br><br>o almeno così me lo faceva sentire lei. Non l’ho mai visto solo.<br>E poi, quando vi mandai tutti e due in Canada<br>durante la guerra — forse fu un errore,<br>anche se sembrava avere vantaggi così evidenti<br>che al [[motifs/time\|momento]] non ebbi dubbi — sono cinque anni;<br>e poi la sua scuola, e il servizio militare,<br>e poi il suo assorbimento nella musica… |  
+| COLBY | Aveva cominciato chiedendomi come trovo questo lavoro. |  
+| SIR CLAUDE | Sì, come lo trova? |  
+| COLBY | In un certo senso, esaltante.<br><br><br>Scoprire che c’è qualcosa che so fare<br>e così remoto dai miei interessi di prima.<br>Mi dà, in un certo senso, una specie di fiducia in [[concepts/self\|me stesso]]<br>che non ho mai avuto. Eppure al [[motifs/time\|tempo]] stesso<br>è piuttosto inquietante. Non intendo il lavoro:<br>intendo, riguardo a me stesso. Come se stessi diventando<br>una persona diversa. Proprio come, immagino,<br>quando si impara a parlare correntemente una lingua straniera,<br>tanto da poterci pensare — ci si sente<br>una persona un po’ diversa mentre la si parla.<br>Non sono affatto sicuro che mi piaccia l’altra persona<br>che sento di stare diventando — benché mi affascini.<br>Eppure di [[motifs/time\|tempo]] in [[motifs/time\|tempo]], quando meno me l’aspetto,<br>quando la mente si sgombra e si svuota, camminando per strada<br>o svegliandomi nella [[motifs/night\|notte]], allora la persona di prima,<br>quella che ero, torna a prendere possesso di me:<br>e sono di nuovo l’organista deluso,<br>e per un attimo la cosa che non so fare,<br>l’arte in cui non potrei mai eccellere,<br>mi pare l’unica cosa che valga la pena di fare, l’unica cosa<br>che io voglia fare. Devo combattere quella persona. |  
+| SIR CLAUDE | Capisco quel che sta dicendo<br><br><br>molto meglio di quanto lei creda. È la mia stessa esperienza<br>che lei sta ripetendo. |  
+| COLBY | La sua esperienza? |  
+| SIR CLAUDE | Sì, io non volevo fare il finanziere. |  
+| COLBY | Che cosa voleva fare? |  
+| SIR CLAUDE | Volevo fare il ceramista. |  
+| COLBY | Il ceramista! |  
+| SIR CLAUDE | Il ceramista. Quando ero ragazzo<br><br><br>amavo dar forma alle cose. Amavo la forma e il colore<br>e amavo la materia che il ceramista maneggia.<br>Quasi tutti pensano che uno scultore o un pittore<br>sia qualcosa di più eccellente di un ceramista.<br>Quasi tutti pensano alla ceramica o alla porcellana<br>come a semplice uso, o decorazione —<br>in entrambi i casi, un’arte inferiore.<br>Per me non sono né «uso» né «decorazione» —<br>cioè decorazione come sfondo del vivere;<br>per me sono la vita stessa. Stare fra tali cose,<br>se è una fuga, è una fuga dentro il vivere,<br>fuga da un mondo sordido verso un mondo puro.<br>La scultura e la pittura — ne ho dei bei pezzi —<br>ma non hanno quella… lontananza che ho sempre desiderato.<br>Voglio un mondo dove la forma sia la realtà,<br>di cui il sostanziale non è che l’[[archetypes/shadow\|ombra]].<br>È strano. Non ne ho mai parlato con nessuno.<br>Mai fino ad ora. Prova anche lei qualcosa di simile<br>quando è solo con la sua musica? |  
+| COLBY | Esattamente lo stesso.<br><br><br>Per tutto il [[motifs/time\|tempo]] che ha parlato, ho tradotto<br>in termini di musica. Ma posso chiederle:<br>con questa passione per… la ceramica, come è successo<br>che non ne ha fatto la sua professione? |  
+| SIR CLAUDE | Le pressioni della famiglia, in primo luogo.<br><br><br>Mio padre — suo nonno — costruì questa azienda<br>partendo dal nulla. Era la sua passione.<br><br><br>La amava con la stessa devozione<br>che io davo all’argilla, e a ciò che se ne poteva ricavare —<br>a ciò che speravo di ricavarne. Credevo di disprezzarlo<br>quando ero giovane. Eppure ne avevo soggezione.<br>Mi sbagliavo, in entrambe le cose. Detestavo questo mestiere<br>finché non cominciai a sentirci la mia forza.<br>Quella vita mi cambiò, come sta cambiando lei:<br>comincia come una specie di finzione<br>e il fingere la rende reale.<br>Non è tutta la storia. Mio padre sapeva che lo odiavo:<br>e questo fu un dolore per lui. Sapeva, ne sono certo,<br>che per lungo [[motifs/time\|tempo]] coltivai un rimprovero segreto:<br>ma dopo la sua [[motifs/death\|morte]], e allora era troppo tardi,<br>capii che aveva ragione. E per tutta la vita<br>ho espiato. Verso un padre morto,<br>che aveva sempre avuto ragione. Non l’ho mai capito.<br>Ero troppo giovane. E quando fui abbastanza maturo<br>per capirlo, lui non c’era più. |  
+| COLBY | Non ha ancora spiegato perché arrivò a pensare<br><br><br>che suo padre avesse avuto ragione. |  
+| SIR CLAUDE | Perché arrivai a capire<br><br><br>che non sarei mai diventato un ceramista di prim’ordine.<br>Non l’avevo dentro. È strano, no,<br>che un uomo possa avere una passione divorante<br>per qualcosa di cui gli manca la capacità?<br>Si potrebbe dire che un uomo abbia la vocazione<br>di essere un ceramista di second’ordine? Di essere, nel migliore dei casi,<br>un abile copista, posseduto dalla brama<br>di creare, quando si è del tutto privi di creatività?<br>Non credo. Perché arrivai a vedere<br>di aver sempre saputo, nei momenti segreti,<br>che non l’avevo dentro. Ci sono occasioni<br>in cui vengo rapito — una persona diversa,<br>trasfigurata nella visione di qualche meravigliosa creazione,<br>e sento ciò che dev’essere stato il sentire di chi la fece.<br>Ma nulla di ciò che ho fatto mi ha mai dato quella contentezza —<br><br><br>quello stato di estenuazione assoluta e di pace<br>che viene dal morire per dare vita a qualcosa…<br>Intendo che lei abbia un buon pianoforte. Il migliore.<br>E quando sarà solo al suo pianoforte, la sera,<br>credo che varcherà la porta segreta<br>ed entrerà nel mondo reale, come faccio io, a volte. |  
+| COLBY | In verità, mentre lei parlava, ho sentito<br><br><br>che erano i miei sentimenti quelli che esprimeva,<br>benché il mezzo sia diverso. So<br>che non sarei mai diventato un grande organista,<br>come aspiravo a essere. Non sono un esecutore;<br>sono soltanto un’[[archetypes/shadow\|ombra]] dei grandi compositori.<br>Sempre, quando suono per me,<br>sento la musica che avrei voluto scrivere,<br>come il compositore la sentì quando gli venne;<br>ma quando suonavo davanti ad altri<br>ero sempre consapevole che ciò che udivano<br><br><br>non era ciò che odo io quando suono per me.<br>Ciò che odo è la musica di un grande musicista,<br>ciò che odono loro è un’esecuzione inferiore.<br>Così ho rinunciato a suonare per gli altri:<br>sono felice solo quando suono per me. |  
+| SIR CLAUDE | Suonerà per sé. E quanto a me,<br><br><br>tengo i miei pezzi in una stanza privata.<br>Non è che non voglia che nessuno li veda!<br>Ma quando sono solo, e guardo a lungo una cosa sola,<br>a volte provo quel senso di identificazione<br>con chi l’ha fatta, di cui parlavo — un’estasi straziante<br>che rende la vita sopportabile. È tutto ciò che ho.<br>Immagino che prenda il posto della religione:<br>proprio come le indagini di mia moglie<br>in quella che lei chiama la vita dello spirito<br>sono una specie di surrogato della religione.<br>Suppongo che le persone davvero religiose —<br>non ne ho mai conosciute — sappiano trovare una qualche unità.<br>Poi ci sono anche gli uomini di genio.<br>Ce ne sono altri, mi pare, che nel migliore dei casi devono vivere<br>in due mondi — ciascuno una specie di finzione.<br>Siamo lei e io. Un giorno, forse,<br>le mostrerò la mia collezione. |  
+| COLBY | Grazie. |  
+| SIR CLAUDE | E forse, col [[motifs/time\|tempo]], mi lascerà sentire come suona.<br><br><br>Non ne parlerò più. Aspetterò che me lo chieda lei.<br>Capisce adesso che cosa intendevo quando parlavo<br>di accettare le condizioni che la vita le impone,<br>fino al punto di accettare… la finzione? |  
+| COLBY | Credo di sì. Almeno, la capisco meglio<br><br><br>imparando a capire le condizioni<br>che la vita ha imposto a lei. Ma… qualcosa in me<br>si ribella ad accettare condizioni simili.<br>Sarebbe tutto molto più semplice se lei non fosse mio padre!<br><br><br>Mi ha colpito quel che ha detto poco fa,<br>quando ha parlato di non aver mai capito suo padre<br>finché non fu troppo tardi. E ha parlato di espiazione.<br>Perfino il suo non riuscire a capirlo,<br>di cui ha parlato — anche quello era un rapporto<br>di padre e figlio. Dev’essere una cosa frequente.<br>E la riconciliazione, dopo la sua [[motifs/death\|morte]],<br>che porta a compimento il rapporto. Lei è sempre stato suo figlio<br>e lui è ancora suo padre. Vorrei soltanto<br>avere qualcosa da espiare!<br>C’è qualcosa che manca, fra lei e me,<br>e che lei ha avuto, e ha, e sempre avrà, con suo padre.<br>Comincio a vedere come l’ho sempre pensata —<br>come una specie di protettore, un generoso benefattore:<br>più come un mecenate che come un padre —<br>il padre che è mancato negli anni dell’[[motifs/childhood\|infanzia]].<br>Quegli anni se ne sono andati per sempre. Gli anni vuoti.<br>Oh, mi dispiace terribilmente dire questo;<br>ma serve a spiegare quel che ho detto poco fa<br>sul ribellarmi alle condizioni<br>che la vita ha imposto. |  
+| SIR CLAUDE | È colpa mia.<br><br><br>Ho sempre voluto evitare gli errori<br>che mio padre fece con me. Eppure mi pare<br>di aver commesso un errore più grande del suo. |  
+| COLBY | So che le sto facendo male e so<br><br><br>che mi odio per il male che le faccio. |  
+| SIR CLAUDE | Non deve pensarci. |  
+| COLBY | Le sono molto grato di tutto quello che ha fatto per me;<br><br><br>e voglio fare del mio meglio per giustificare la sua bontà<br>con il lavoro che faccio. |  
+| SIR CLAUDE | Come mio segretario privato. |  
+| COLBY | Il lavoro che faccio mi interessa davvero<br><br><br>e ne desidero altro. Non voglio che la mia posizione<br>sia, in nessun modo, una finzione. |  
+| SIR CLAUDE | Non lo sarà. Intanto dobbiamo semplicemente aspettare di sapere<br><br><br>quali nuove condizioni la vita ci imporrà.<br>Proprio quando crediamo di aver saldato il conto<br>la vita ce ne presenta uno nuovo, più difficile da pagare.<br>— Ora vado a sedermi un poco con le mie porcellane. |  
+| COLBY | Mi scusi, ma devo ricordarle:<br><br><br>ha quella riunione nella [[motifs/city\|City]]<br>domani mattina. Mi aveva chiesto di preparare<br>certe cifre per lei. Le ho qui. |  
+| SIR CLAUDE | Molto dipende da mia moglie. Sia paziente con lei, Colby.<br><br><br>— Oh sì, quella riunione. Dobbiamo passare in rassegna le cifre.<br>SIPARIO |
+
+### Atto 2, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | L’appartamentino nella corte, qualche settimana dopo. COLBY è seduto al pianoforte; LUCASTA in poltrona. Al levarsi del sipario si odono le ultime battute di un pezzo di musica. |  
+| LUCASTA | Credo che tu suoni terribilmente [[motifs/well\|bene]], Colby —<br><br><br>non che il mio parere conti qualcosa:<br><br><br>lo sai. Ma vorrei imparare qualcosa di musica.<br>Vorrei che m’insegnassi ad apprezzarla. |  
+| COLBY | Non credo che ti servirà molto insegnamento;<br><br><br>non a questo stadio, almeno. Tutto ciò che ti serve all’inizio<br>è ascoltare più musica. E scoprire che cosa ti piace.<br>Quando saprai che cosa ti piace, e comincerai a conoscerlo [[motifs/well\|bene]],<br>allora vorrai imparare la sua struttura<br>e le varie forme, e i diversi modi di eseguirla. |  
+| LUCASTA | Ma se mi piacessero solo le cose sbagliate? |  
+| COLBY | No, sono sicuro che preferirai quelle giuste, quando le sentirai.<br><br><br>Ti ho fatto una prova. Parecchi dei pezzi<br>che ti ho appena suonato erano di seconda scelta,<br>e non ti sono piaciuti. Ti sono piaciuti quelli giusti. |  
+| LUCASTA | Colby, non sapevo che fossi così astuto!<br><br><br>Dunque le cose che mi sono piaciute erano quelle giuste?<br>Eppure sono terribilmente ignorante. Ci credi<br>che non sono mai stata a un concerto in vita mia?<br>Vado agli spettacoli solo quando qualcuno mi invita,<br>e nessuno mi ha mai invitata a un concerto.<br>All’Opera ci sono stata, certo, parecchie volte,<br>ma temo di non aver mai davvero ascoltato la musica:<br>mi piaceva solo andarci — per vedere gli altri,<br>e per farmi vedere! E perché ti senti tagliata fuori<br>se non vai mai all’Opera, in stagione.<br>Anche se mi sono sempre sentita tagliata fuori. E ti rendi conto<br>che nessuno ha mai suonato per me prima d’ora? |  
+| COLBY | E questa è la prima [[motifs/time\|volta]] che io suono per qualcuno… |  
+| LUCASTA | Non fare l’impostore. Lo sai che mi hai detto<br><br><br>che il pianoforte è stato consegnato solo questa settimana<br>e che l’hai fatto accordare ieri. Comunque, sono lusingata<br>di essere la tua prima visitatrice in questo appartamento<br>e la prima a sentirti suonare questo pianoforte. |  
+| COLBY | Non è questo che intendevo. Intendo che non ho suonato<br><br><br>per nessuno da quando sono giunto alla conclusione<br>che non sarei mai diventato un musicista. |  
+| LUCASTA | Ti è pesato, allora, suonare per me? |  
+| COLBY | A dire il vero, credo di aver suonato meglio.<br><br><br>Non riesco a decidermi a suonare per gli altri,<br>e quando sono solo non riesco a dimenticare<br>che suono soltanto per me stesso.<br>Ma con te non era né [[concepts/solitude\|solitudine]] né… gli altri. |  
+| LUCASTA | Sono contenta di non essere «gli altri». Suonerai ancora per me<br><br><br>e m’insegnerai la musica? |  
+| COLBY | Sì, certo che lo farò.<br><br><br>Ma sono sicuro che quando imparerai qualcosa di musica —<br>e non ci vorrà molto — e sentirai dei bravi esecutori,<br>ti accorgerai in fretta di quanto io suoni male. |  
+| LUCASTA | Davvero, Colby, quante difficoltà sollevi!<br><br><br>Ma che ne diresti di portarmi a un concerto? |  
+| COLBY | Proprio l’altro giorno ti ho invitata… |  
+| LUCASTA | Ad andare a vedere quella commedia musicale americana! |  
+| COLBY | [[motifs/well\|Beh]], ti avevo sentita dire che volevi vederla. |  
+| LUCASTA | Ma non con te! |  
+| COLBY | L’hai messo bene in chiaro.<br><br><br>Ma perché non con me? |  
+| LUCASTA | Perché a te non piacciono —<br><br><br>le commedie musicali americane. Credi che sia un complimento<br>invitare una donna a qualcosa che a lei piacerebbe<br>quando lei sa che a te non piacerebbe? Non è un complimento:<br><br><br>è soltanto… degnarsi. Ma se mi inviti<br>a qualcosa che piace a te — quello sì è un complimento.<br><br><br>Vuol dire che vuoi educarmi. |  
+| COLBY | Ma non sapevo<br><br><br>che tu volessi essere educata. |  
+| LUCASTA | Non lo sapevo nemmeno io.<br><br><br>Ma volevo che tu volessi educarmi;<br>e ora comincio a credere che lo voglia anch’io. |  
+| COLBY | [[motifs/well\|Bene]], allora t’invito al prossimo concerto… |  
+| LUCASTA | Al prossimo a cui vuoi andare tu. |  
+| COLBY | E forse mi lascerai raccontarti prima<br><br><br>del programma — o delle cose che voglio sentire.<br>Ti suonerò i temi, così li riconoscerai.<br>Meglio ancora, ti farò sentire i dischi al grammofono. |  
+| LUCASTA | Preferirei che mi suonassi tu qualche brano, spiegandomelo.<br><br><br>Cominceremo subito la mia [[concepts/education\|educazione]]. |  
+| COLBY | Sospetto che sia tu a educare me. |  
+| LUCASTA | Colby, sei davvero pieno di sorprese!<br><br><br>Non ho mai conosciuto un uomo ignorante come te<br>e che pure sapesse tante cose che non sospetteresti.<br>Forse è per questo che mi piaci. |  
+| COLBY | Non è proprio quella la ragione. |  
+| LUCASTA | Oh, dunque credi che tu mi piaccia?<br><br><br>Non sapevo che fossi così presuntuoso. |  
+| COLBY | No, non è presunzione — la ragione a cui penso.<br><br><br>È qualcosa di molto semplice. |  
+| LUCASTA | Allora vorrei che me lo dicessi.<br><br><br>Perché io non lo so. |  
+| COLBY | La prima [[motifs/time\|volta]] che ci siamo incontrati<br><br><br>ti sforzavi molto di dare un’impressione falsa.<br>E poi ti sei accorta di non esserci riuscita. |  
+| LUCASTA | Ah, dunque cercavo di dare un’impressione falsa?<br><br><br>Che genere d’impressione cercavo di dare? |  
+| COLBY | Questo in fondo non importa. Ma, per qualche ragione,<br><br><br>pensavi che io mi sarei fatto comunque un’impressione falsa.<br>Preferivi che fosse una di tua creazione<br>piuttosto che aspettare di vedere che cosa succedeva.<br>[[concepts/hope\|Spero]] che non ti dispiaccia: so che suona impertinente. |  
+| LUCASTA | [[motifs/well\|Beh]], c’è una cosa che non hai ancora imparato,<br><br><br>ed è accorgerti di quando fai un complimento.<br>Quello era un complimento. E molto abile. |  
+| COLBY | Ammetto che all’inizio ero molto disorientato<br><br><br>da te… e da B. |  
+| LUCASTA | Oh, da me… e da B. |  
+| COLBY | Solo più tardi,<br><br><br>dopo averti vista parecchie volte,<br>ho deciso che quella era solo la tua forma di [[concepts/self\|autodifesa]]. |  
+| LUCASTA | Che cosa ti ha fatto pensare che fosse [[concepts/self\|autodifesa]]? |  
+| COLBY | Perché non sapevi aspettare di vedere che cosa succedeva.<br><br><br>Hai paura di ciò che accadrebbe se lasciassi le cose a se stesse.<br>Salti — perché hai paura di essere spinta.<br>Credo che tu sia coraggiosa — e credo che tu sia spaventata.<br>Forse sei stata ferita gravemente, in qualche [[motifs/time\|momento]].<br>O almeno può esserci stato qualcosa nella tua vita<br>che ti ha derubata di ogni senso di sicurezza. |  
+| LUCASTA | E sono certa che tu ce l’hai — il senso di sicurezza. |  
+| COLBY | No, non l’ho nemmeno io. |  
+| LUCASTA | Ecco, non ti credo.<br><br><br>Che cosa pensavo fino ad ora? Oh, è strano, no,<br>che man mano che si conosce meglio una persona<br>la si trovi per certi versi molto simile a sé,<br>in modi inattesi. E poi si cominciano<br>a scoprire differenze dentro la somiglianza.<br>Tu potrai sentirti insicuro, per certi versi —<br><br><br>ma la tua insicurezza non ha nulla a che fare con la mia. |  
+| COLBY | In che cosa è diversa? |  
+| LUCASTA | È difficile da spiegare.<br><br><br>Forse è qualcosa che la tua musica rappresenta.<br>Una cosa la so. Quando mi raccontasti per la prima volta<br>che disastro fu nella tua vita<br>scoprire che non saresti mai stato un buon musicista —<br>certo, non so se avessi ragione.<br><br><br>Per quel che ne so, puoi esserti sbagliato,<br>e forse potresti essere un grandissimo musicista:<br>ma non è questo il punto. Tu ne eri convinto;<br>e sentivi che la tua vita era crollata<br>e che dovevi imparare a fare qualcosa di diverso.<br>E così hai fatto domanda per il posto di Eggerson,<br>e hai deciso di darti agli affari<br>e di diventare uno come Claude… o come B. Mi dispiaceva,<br>mi dispiaceva molto per te. Ammiravo il tuo [[concepts/courage\|coraggio]]<br>nel guardare in faccia i fatti — o i fatti come li vedevi tu.<br>Eppure, per tutto quel [[motifs/time\|tempo]], scoprivo di invidiarti<br><br><br>e non sapevo perché! E adesso credo di saperlo.<br>È terribile per un uomo dover rinunciare<br>a una carriera su cui ha messo il cuore, ne sono certa:<br>ma tu hai perduto soltanto il mondo esteriore:<br>ti resta il tuo mondo interiore — un mondo più reale.<br>Ecco perché sei diverso da tutti noi:<br>hai il tuo [[motifs/garden\|giardino]] segreto, in cui puoi ritirarti<br>chiudendoti il cancello alle spalle. |  
+| COLBY | E chiudermi il cancello alle spalle?<br><br><br>Sei sicura di non avere anche tu il tuo [[motifs/garden\|giardino]] segreto<br>da qualche parte, se solo riuscissi a trovarlo? |  
+| LUCASTA | Se riuscissi a trovarlo!<br><br><br>No, il mio unico [[motifs/garden\|giardino]] è… una piazza pubblica sudicia<br>in un quartiere squallido di [[settings/london\|Londra]] — come quella dove abitavo<br>per un [[motifs/time\|tempo]], con mia madre. Non ho [[motifs/garden\|giardino]].<br>Faccio fatica perfino a sentirmi una persona:<br>nient’altro che un pezzetto di materia viva<br>che galleggia sulla superficie del Regent’s Canal.<br>Che galleggia, ecco. |  
+| COLBY | Sei eccome una persona.<br><br><br>Sono certo che c’è un [[motifs/garden\|giardino]] da qualche parte anche per te —<br>per chiunque lo desideri quanto lo desideri tu. |  
+| LUCASTA | E il tuo [[motifs/garden\|giardino]] è un [[motifs/garden\|giardino]]<br><br><br>in cui odi una musica che nessun altro potrebbe udire,<br>e i [[motifs/flowers\|fiori]] hanno un profumo che nessun altro potrebbe sentire. |  
+| COLBY | Forse hai ragione, fino a un certo punto.<br><br><br>Eppure, sai, non mi è del tutto reale —<br>benché mi sia reale quanto… questo mondo.<br>Ma è proprio questo il guaio. Sembrano non avere legame.<br>Giro la chiave, varco il cancello,<br>ed eccomi lì… solo, nel mio «[[motifs/garden\|giardino]]».<br>Solo, ecco il punto. Per questo non è reale.<br>Sai, io credo che il [[motifs/garden\|giardino]] di Eggerson<br>sia più reale del mio. |  
+| LUCASTA | Il [[motifs/garden\|giardino]] di Eggerson?<br><br><br>Che cosa ti fa pensare a Eggerson — proprio a lui? |  
+| COLBY | [[motifs/well\|Beh]], lui si ritira nel suo [[motifs/garden\|giardino]] — alla lettera,<br><br><br>e anche nello stesso senso in cui io mi ritiro nel mio.<br>Ma lì non si sente solo. E quando ne esce<br>ha zucchine, o barbabietole, o piselli… per la signora Eggerson. |  
+| LUCASTA | Ti stai burlando di me? |  
+| COLBY | Sono serissimo.<br><br><br>Voglio dire: il mio [[motifs/garden\|giardino]] non mi è meno irreale<br>del mondo fuori di esso. Se hai due vite<br>che non hanno assolutamente nulla a che fare l’una con l’altra —<br>[[motifs/well\|beh]], sono irreali entrambe. Ma per Eggerson<br>il suo [[motifs/garden\|giardino]] è parte di un unico mondo. |  
+| LUCASTA | Ma tu che cosa vuoi? |  
+| COLBY | Non essere solo là dentro.<br><br><br>Se fossi religioso, Dio passeggerebbe nel mio [[motifs/garden\|giardino]]<br>e questo renderebbe reale il mondo di fuori<br>e accettabile, credo. |  
+| LUCASTA | Suoni terribilmente religioso.<br><br><br>Non c’è altro modo di rendertelo reale? |  
+| COLBY | È semplicemente il fatto di essere solo là dentro<br><br><br>che lo rende irreale. |  
+| LUCASTA | Non può entrarci nessun altro? |  
+| COLBY | Non si può fare spedendo inviti:<br><br><br>dovrebbero semplicemente venire. E io non li vedrei arrivare.<br>Non udirei aprirsi il cancello.<br>Sarebbero semplicemente… lì, all’improvviso,<br>inaspettatamente. Camminando lungo un viale<br>mi accorgerei che qualcuno cammina con me.<br>È l’unico modo che trovo per dirlo. |  
+| LUCASTA | Quanta paura si ha… di essere feriti! |  
+| COLBY | Non è la ferita che darebbe fastidio,<br><br><br>ma il senso di desolazione che viene dopo. |  
+| LUCASTA | Capisco che cosa intendi. Allora i [[motifs/flowers\|fiori]] appassirebbero<br><br><br>e la musica si fermerebbe. E i muri sarebbero abbattuti.<br>E ti ritroveresti in una zona devastata —<br>un cratere di bomba… erbacce… una piazza pubblica sudicia.<br>Ma non riesco a immaginare che accada a te.<br>Mi sembri così sicuro. Non solo nella tua musica —<br>quella ne è solo l’espressione. Non mi sembri<br>aver bisogno di nessuno. |  
+| COLBY | È del tutto falso. |  
+| LUCASTA | Ma tu hai qualcos’altro, che io non ho:<br><br><br>qualcosa di cui la musica è un… simbolo.<br>Vorrei davvero capire la musica,<br>non per poterne parlare,<br>ma… in parte per goderla… e per ciò che rappresenta.<br>Sai, sono un po’ gelosa della tua musica!<br>Quando la vedo come un mezzo di contatto con un mondo<br>più reale di qualsiasi mondo in cui io abbia mai vissuto.<br><br><br>E vorrei capire te. |  
+| COLBY | Credo che tu già lo faccia,<br><br><br>meglio di… altre persone. E io voglio capire te.<br>Ma si arriva mai a capire qualcuno? |  
+| LUCASTA | Trovo che tu sia molto scoraggiante:<br><br><br>lo fai apposta? |  
+| COLBY | Non è questo che intendevo.<br><br><br>Intendevo che non c’è una fine nel capire una persona.<br>Tutto ciò che si può fare è capirla meglio,<br>starle dietro; così che, quando l’altro cambia,<br>tu possa capire il cambiamento appena avviene,<br>anche se non avresti potuto prevederlo. |  
+| LUCASTA | Credo di stare cambiando.<br><br><br>Sono cambiata parecchio nelle ultime due ore. |  
+| COLBY | E credo di stare cambiando anch’io. Ma forse ciò che chiamiamo cambiamento… |  
+| LUCASTA | È capire meglio ciò che si è davvero.<br><br><br>E la ragione per cui questo accade, forse… |  
+| COLBY | È che si comincia a capire un’altra persona. |  
+| LUCASTA | Oh Colby, ora che cominciamo a capirci,<br><br><br>vorrei che tu sapessi un po’ di più di me.<br>Te lo sarai chiesto. |  
+| COLBY | Me lo sarò chiesto?<br><br><br>No, non me lo sono chiesto. È tutto un mondo strano<br>per me, sai, quello in cui mi ritrovo.<br>Ma se intendi chiedermi delle tue… origini:<br>no. Sono stato curioso di sapere che cosa sei,<br>non chi sei, nel senso comune.<br>È questo che intendi? Ti ho semplicemente accettata. |  
+| LUCASTA | Oh, è meraviglioso essere accettati!<br><br><br>Nessuno mi ha mai «semplicemente accettata» prima.<br>Certo, i fatti non contano, in un certo senso.<br>Ma ora che siamo arrivati a questo punto — tanto [[motifs/well\|vale]] che tu li conosca. |  
+| COLBY | Ti direi volentieri tutto di me;<br><br><br>ma tu sai già quasi tutto quel che c’è da dire,<br>o da ciò che ti ho detto io<br>o da ciò che ho detto a B.; o da Sir Claude. |  
+| LUCASTA | Claude non mi ha detto nulla di te;<br><br><br>non mi dice granché. E quanto a B. —<br>preferisco di gran lunga sentirlo da te. |  
+| COLBY | C’è solo una cosa che non posso dirti.<br><br><br>Almeno, non ancora. Non mi è permesso dirla.<br>E riguarda i miei genitori. |  
+| LUCASTA | Oh, capisco.<br><br><br>[[motifs/well\|Beh]], non credo che abbia importanza.<br>Ma io posso dirti tutto dei miei genitori:<br><br><br>anzi, ho intenzione di farlo. |  
+| COLBY | Ha importanza nemmeno quello? |  
+| LUCASTA | In un certo senso sì. Poco fa<br><br><br>hai detto, molto acutamente, che quando ci siamo conosciuti<br>hai capito che cercavo di dare un’impressione falsa.<br>Ora voglio dirti perché cercavo di farlo.<br>E con gli altri mi è sempre riuscito:<br>ho preso l’abitudine di dare quell’impressione.<br>È lì che B. mi è stato di grande aiuto —<br>alimenta quell’impressione. Ci crede a metà.<br>Ma sa tutto di me, e sa<br>che quello che certi uomini hanno pensato di me non era vero. |  
+| COLBY | Che cosa non era vero? |  
+| LUCASTA | Che fossi l’amante di Claude —<br><br><br>o che lo fossi stata, e fossi stata rifilata a B. |  
+| COLBY | Non ho mai pensato una cosa simile! |  
+| LUCASTA | Non hai mai pensato una cosa simile!<br><br><br>Non sono molti gli uomini che non l’avrebbero pensato.<br>Di B. non so. È molto generoso.<br>Non credo che gli sarebbe importato. Ma è anche molto acuto;<br>e ha indovinato la [[concepts/truth\|verità]] fin dal primo istante. |  
+| COLBY | Ma che cosa c’è da sapere? |  
+| LUCASTA | Riderai quando te lo dirò:<br><br><br>sono soltanto la figlia di Claude. |  
+| COLBY | Sua figlia! |  
+| LUCASTA | Sua figlia. Oh, è una storia sordida.<br><br><br>Odiavo mia madre. Non ho mai capito<br>come Claude avesse potuto amarla. Oh, quell’[[motifs/childhood\|infanzia]] —<br>sempre in pensioni squallide<br>e sempre sbattuti fuori quando i vicini si lamentavano.<br>Oh, certo, Claude le dava del denaro, un assegno regolare;<br>ma non avrebbe fatto differenza quanto le desse:<br>era sempre speso prima della fine del trimestre<br>in gin e scommesse, immagino.<br>E sapevo come integrava le sue entrate<br>quando mi mandavano fuori. Sono stata chiusa in un armadio!<br>Avevo solo otto anni<br>quando morì per un’«overdose accidentale».<br>Allora Claude mi prese con sé. Fu una fortuna.<br>Ma ero abbastanza grande da ricordare… troppo. |  
+| COLBY | Sei la figlia di Claude! |  
+| LUCASTA | Oh, non c’è [[concepts/doubt\|dubbio]].<br><br><br>Sono certa che avrebbe voluto che ce ne fosse. È stato buono con me<br>a modo suo. Ma per lui sono sempre il ricordo<br>di qualcosa che preferirebbe dimenticare. |  
+| *(didascalia)* | [Una pausa] |  
+| LUCASTA | Ma perché non dici niente? Sei scandalizzato? |  
+| COLBY | Scandalizzato? No. Sì. Non capisci.<br><br><br>Voglio spiegarti. Ma non posso, non ancora.<br>Oh, perché sono mai entrato in questa casa!<br>Lucasta… |  
+| LUCASTA | Vedo fin troppo [[motifs/well\|bene]] che sei scandalizzato.<br><br><br>Dovresti vederti la faccia! Sono delusa.<br>Immagino sia tutto qui. Credo che tu sia più scandalizzato<br>di quanto lo saresti se ti avessi detto di essere l’amante di Claude.<br><br><br>Claude si è sempre vergognato di me:<br>ora ti vergogni tu di me. Pensavo che avresti capito.<br><br><br>Non sai che cosa vuol dire essere una bastarda<br>e non essere voluta da nessuno. So perché sei scandalizzato:<br>Claude mi ha semplicemente accettata come una voce di debito<br>fissa nel suo conto di cassa. Io non mi piaccio.<br>Non mi piace la persona che mi sono costretta a essere;<br>e tu mi piacevi perché neanche a te piaceva quella persona,<br>e credevo che saresti arrivato a vedermi come il tipo di persona vera<br>che voglio essere. Che so di essere.<br>Era una cosa nuova per me. Immagino di essermi sentita lusingata.<br>E pensavo: ora, forse, se qualcun altro mi vede<br>come sono davvero, potrei diventare me stessa. |  
+| COLBY | Oh Lucasta, non sono scandalizzato. Non da te,<br><br><br>non da nulla di ciò che pensi. Riguarda me stesso. |  
+| LUCASTA | Te stesso, già! Il tuo prezioso [[concepts/self\|io]]!<br><br><br>Perché non ti chiudi in quel [[motifs/garden\|giardino]]<br>dove ti piace stare solo con te stesso?<br>O forse pensi che farebbe male alle tue prospettive<br>ora che sei il cocco di Claude.<br>Forse ti adotterà, e ti farà suo erede<br>e tu sposerai un’altra Lady Elizabeth.<br>Ma in tal caso, Colby, dovrai accettarmi<br>come tua sorella! Anche se sono una scugnizza… |  
+| COLBY | Non devi usare parole simili! Non sai quanto fanno male. |  
+| LUCASTA | Potrei usare parole molto più forti,<br><br><br>e lo farò, se mi va. Oh, scusami:<br>immagino sia mia madre che riemerge in me.<br>Sai, Colby, sono davvero delusa.<br>Ero certa, quando ti ho raccontato tutto,<br>che non te ne sarebbe importato nulla. Che forse ti sarei dispiaciuta.<br>Ma ora non voglio che tu provi pena per me, grazie.<br>Anzi, avevo pensato di dirtelo prima,<br>e ho rimandato, giusto per il gusto di farlo:<br>pensavo: quando glielo dirò, sarà così bello<br>tutto in un istante. E adesso non c’è niente,<br>proprio niente. È molto peggio di prima.<br>Proprio quando credi di essere sul punto di liberarti<br>dalla [[concepts/loneliness\|solitudine]], ecco che la [[concepts/loneliness\|solitudine]] ti piomba addosso;<br>quando credi di uscirne, ci sprofondi di più,<br>e capisci finalmente che non c’è via di scampo.<br>[[motifs/well\|Beh]], me ne vado. |  
+| COLBY | Non devi ancora andartene!<br><br><br>C’è qualcos’altro che voglio spiegarti,<br>e ora lo farò. Sto infrangendo una promessa. Ma… |  
+| LUCASTA | Non credo che ci sia niente da spiegare<br><br><br>che possa spiegare via qualcosa. Non dimenticherò<br>mai quello sguardo sulla tua faccia<br>quando ti ho parlato di Claude e di mia madre.<br>Sarò anche una bastarda, ma ho un po’ di [[concepts/self\|amor proprio]].<br>[[motifs/well\|Beh]], c’è sempre B. Credo che adesso<br>comincio proprio ad apprezzare B. |  
+| COLBY | Lucasta, aspetta! |  
+| *(didascalia)* | [Entra B. KAGHAN] |  
+| *(didascalia)* | Entra B. Kaghan. |  
+| KAGHAN | A vedere il nuovo appartamento. Ed ecco Lucasta.<br>Lo sapevo che l’avrei trovata qui per prima!<br>Fidatevi dell’intuito di Kaghan! Sono il tuo angelo custode,<br>Colby, per proteggerti da Lucasta. |  
+| LUCASTA | Per il momento sei il mio angelo custode, B.<br><br><br>Devi portarmi fuori a cena. E muoio dalla voglia di bere qualcosa. |  
+| KAGHAN | L’avevo detto a Colby: non imparare mai a preparare i cocktail,<br><br><br>se non vuoi che le donne ti piombino sempre in casa.<br>E fra due tigri mangiatrici d’uomini<br>come te e Lizzie, gli ci vuole protezione. |  
+| LUCASTA | Colby non ha bisogno del tuo racket di protezione,<br><br><br>almeno per quel che mi riguarda, B. E quanto a Lizzie,<br>è meglio che tu non le capiti fra i piedi quando è a caccia.<br><br><br>Ma tutto quel che conta adesso è che ho fame,<br>e tu devi offrirmi un’ottima cena. |  
+| KAGHAN | Sarai sfamata. Tutto a suo [[motifs/time\|tempo]].<br><br><br>Sono venuto a ispezionare il nuovo alloggio da scapolo<br>e ad augurare fortuna a Colby. Io sono sempre stato fortunato,<br>e porto sempre fortuna agli altri. |  
+| COLBY | Gradite un bicchiere di sherry? |  
+| KAGHAN | Sì, prendo un bicchiere di sherry,<br><br><br>per brindare al successo dell’appartamento. Anche Lucasta:<br>molto meglio dei cocktail per te, Lucasta. |  
+| LUCASTA | Sai che lo sherry non mi piace. |  
+| KAGHAN | Devi berlo lo stesso,<br><br><br>a Colby e a una felice vita da scapolo!<br>Che dipende, naturalmente, dall’impedire a Lizzie<br>di ficcare sempre il naso. Sii fermo con lei, Colby;<br>rivendica il tuo diritto a un po’ di intimità.<br>Adesso è il momento della fermezza. Non lasciarle [[motifs/cross\|varcare]] la soglia. |  
+| LUCASTA | Come se tu non ne avessi paura quanto gli altri! |  
+| KAGHAN | [[motifs/well\|Beh]], almeno sono sempre riuscito a sfuggirle. |  
+| LUCASTA | Solo perché non ha mai avuto voglia di inseguirti. |  
+| KAGHAN | Sì, ho fatto una cattiva impressione fin dall’inizio:<br><br><br>vidi che era necessario. Temo che Colby<br>abbia fatto una buona impressione; e dovrà scontarla.<br>— Devo dire che mi piace come ha fatto sistemare il posto. |  
+| COLBY | È stata Lady Elizabeth a scegliere la decorazione. |  
+| KAGHAN | Allora non sono sicuro che mi piaccia. Devi cambiare i colori.<br><br><br>È tutto un po’ troppo smorto. Ti serve qualcosa di più vivace.<br>Ma per il resto sembra piuttosto comodo.<br>Se io stessi al calduccio come Colby, Lucasta,<br>non avrei mai pensato di cambiare stato. |  
+| LUCASTA | Sei sempre libero di ripensarci. |  
+| KAGHAN | Il [[motifs/marriage\|matrimonio]] è una scommessa. Ma io sono uno scommettitore nato<br><br><br>e ci ho messo la camicia… no, non è proprio l’espressione giusta —<br>Lucasta è la speculazione più eccitante<br>in cui abbia mai pensato di investire.<br>Colby è più prudente. Sai, Colby,<br>tu e io dovremmo metterci in affari insieme.<br>Io indovino bene. Ma a volte indovino male.<br>Prendo decisioni sull’onda del momento,<br>ma tu non faresti mai un salto nel buio;<br>tu mi terresti sui binari. |  
+| COLBY | Sono sciocchezze.<br><br><br>Fai solo finta di essere uno scommettitore.<br>Hai la testa a posto come chiunque altro,<br>e non ti immischi mai in niente di rischioso.<br>Ti piace far credere agli altri<br>di essere un giocatore. Non credo che tu scommetta mai<br>su qualcosa che non sia una certezza. |  
+| KAGHAN | [[motifs/well\|Beh]], c’è del vero in questo. Sai, Lucasta,<br><br><br>Colby è un buon giudice del carattere. |  
+| LUCASTA | Dovresti essere tu stesso un giudice migliore<br><br><br>del carattere, prima di dire una cosa simile di Colby. |  
+| KAGHAN | Oh, sono un buon giudice. Ecco, ti dico la differenza<br><br><br>fra noi due e Colby. Tu e io —<br>l’unica cosa che vogliamo è la sicurezza<br><br><br>e la rispettabilità! Colby, invece,<br>della rispettabilità non gliene importa davvero —<br>ci è nato e cresciuto. Io no, Colby.<br>Lo sai che sono stato un trovatello? Non lo sapevi!<br>Mai avuto genitori. Adottato e basta, dal nulla.<br>Ecco perché voglio essere una potenza nella [[motifs/city\|City]],<br>nei consigli di tutte le società più solide:<br>perché non ho origini — nessuna origine.<br>È una delle cose che mi piacciono di Lucasta:<br>lei non mi disprezza. |  
+| LUCASTA | Nessuno potrebbe disprezzarti.<br><br><br>E, cosa più importante, tu non disprezzi me. |  
+| KAGHAN | Nessuno potrebbe disprezzarti, Lucasta;<br><br><br>e vogliamo le stesse cose. Ma quanto a Colby,<br>è il tipo che potrebbe mollare tutto<br>e andare a vivere su un’isola [[motifs/desert\|deserta]].<br>Ma [[concepts/hope\|spero]] che non lo farai. Ci servi dove sei. |  
+| COLBY | Comincio a credere che tu abbia un intuito piuttosto acuto<br><br><br>per cose che non hanno nulla a che fare con gli affari. |  
+| KAGHAN | E tu hai una testa solidissima per gli affari.<br><br><br>Forse sei un finanziere migliore di me!<br>Ecco perché dovremmo metterci in affari insieme. |  
+| LUCASTA | Siete bravissimi tutti e due a fare complimenti;<br><br><br>ma io ho fatto notare che ho fame. |  
+| KAGHAN | Non puoi già volere la cena.<br><br><br>Sono solo le sei in [[motifs/clock\|punto]]. Non possiamo cenare prima delle otto;<br>non in un ristorante che ti piaccia.<br><br><br>— Tanto per cambiare, parliamo di Lucasta.<br>LUCASTA [alzandosi]. Se volete discutere di me… |  
+| *(didascalia)* | [Un colpo alla porta. Entra LADY ELIZABETH] |  
+| LADY ELIZABETH | Oh, buonasera.<br><br><br>Buonasera, signor Kaghan. Buonasera, Lucasta.<br>Siete appena arrivati o state andando via? |  
+| LUCASTA | Stiamo per andare via, Lady Elizabeth. |  
+| LADY ELIZABETH | Sono venuta a dare un’occhiata all’appartamento<br><br><br>ora che si è trasferito. Perché non si può dire<br>se uno schema di decorazione<br>sia giusto finché il luogo non è stato abitato<br><br><br>dalla persona per cui è stato pensato.<br>Perciò devo vederla qui dentro. Diceva che stavate andando via? |  
+| KAGHAN | Usciamo a cena. Lucasta ha molta fame. |  
+| LADY ELIZABETH | Fame? Alle sei in [[motifs/clock\|punto]]? Dove cenerete?<br><br><br>Oh, lo so. È l’occasione per provare quel Ristorante delle Erbe<br>che le avevo consigliato. Potete cenare presto:<br>quasi tutti i loro clienti cenano alle sei e mezza.<br>Fanno le insalate più deliziose!<br>E le avevo detto, signor Kaghan, che lei è il tipo di persona<br>che ha bisogno di mangiare moltissima insalata.<br>Ricorda, le feci prendere nota dell’indirizzo;<br>e non credo che ci sia ancora andato. |  
+| KAGHAN | Ma no, in effetti non ci sono andato.<br><br><br>Avevo sempre intenzione di farlo. Ci andiamo, Lucasta? |  
+| LUCASTA | Ho una tale fame che mangerei perfino un’insalata di erbe. |  
+| LADY ELIZABETH | Così va bene. Faccia solo il mio nome, signor Kaghan,<br><br><br>e chieda il tavolo nell’angolo a sinistra:<br>ha la cameriera migliore. Buona [[motifs/night\|notte]]. |  
+| LUCASTA | Buona [[motifs/night\|notte]]. |  
+| KAGHAN | E grazie mille. Dà sempre ottimi consigli. |  
+| *(didascalia)* | [Escono KAGHAN e LUCASTA] |  
+| LADY ELIZABETH | Quei giovani erano qui su appuntamento?<br><br><br>O sono capitati all’improvviso? |  
+| COLBY | Avevo invitato Lucasta. Mi aveva chiesto di suonare per lei. |  
+| LADY ELIZABETH | La chiama Lucasta? I giovani d’oggi<br><br><br>sembrano aver abbandonato del tutto l’uso dei cognomi.<br>Ma, Colby, [[concepts/hope\|spero]] che non le dispiaccia un piccolo consiglio.<br>Temevo fosse possibile che lei diventasse troppo amico<br>del signor Kaghan e della signorina Angel.<br>Vedo che ha vissuto una vita piuttosto protetta,<br>e ho notato che le riservano molte attenzioni.<br>Vede, lei è per entrambi una specie di curiosità —<br>non è il genere di persona<br>che incontrano di solito nel loro ambiente.<br>Perciò è naturale che vogliano prenderla sotto la loro ala.<br>Posso parlare più liberamente, essendo una persona anziana. |  
+| COLBY | Ma, Lady Elizabeth… |  
+| LADY ELIZABETH | [[motifs/well\|Beh]], più anziana di lei,<br><br><br>e molto più esperta delle vie del mondo. |  
+| COLBY | Ma, Lady Elizabeth, che cosa le rimprovera?<br><br><br>Sono entrambi intelligenti… e gentili. |  
+| LADY ELIZABETH | Oh, non dico che non siano intelligenti e gentili.<br><br><br>Non insinuo nulla di malevolo:<br>ma sono piuttosto mondani e materialisti,<br>e… [[motifs/well\|beh]], piuttosto volgari. Non sono affatto il suo genere. |  
+| COLBY | Non li chiamerei volgari. Forse sono volgare anch’io.<br><br><br>Ma quale, secondo lei, è il mio genere?<br><br><br>Io non lo so. E mi piacerebbe saperlo. |  
+| LADY ELIZABETH | In primo luogo dovrebbe frequentare gente di buona famiglia.<br><br><br>Mi dissi, quando la vidi la prima volta:<br>«È molto [[motifs/well\|ben]] nato». Non sapevo nulla di lei,<br>ma non c’è bisogno di sapere, se si sa che cosa sia la buona nascita.<br>E, in secondo luogo, le serve una società intellettuale.<br>Ecco che già questo restringe le sue conoscenze:<br>perché, ed è sorprendente, le persone [[motifs/well\|ben]] nate<br>a volte sono tutt’altro che intellettuali;<br>e — cosa meno sorprendente — le persone intellettuali<br>sono spesso mal nate. Ma non è tutto.<br>Le servono persone intellettuali e [[motifs/well\|ben]] nate<br>e dotate di spiritualità — ed è la cosa più rara. |  
+| COLBY | Questo ridurrebbe le mie conoscenze a un numero piccolissimo,<br><br><br>e non so dove trovarle. |  
+| LADY ELIZABETH | Si possono trovare.<br><br><br>Ma ero venuta a dare un’occhiata all’appartamento<br>per vedere se lo schema di colori le si addicesse davvero.<br>Credo di sì. Le pareti; e le tende;<br>e quasi tutti i mobili. Ma quella scrivania!<br>Da dove viene quella scrivania? |  
+| COLBY | È una scrivania da ufficio. Me l’ha procurata Sir Claude.<br><br><br>Gli dissi che mi serviva una scrivania in camera:<br>vede, farò buona parte del mio lavoro qui. |  
+| LADY ELIZABETH | E che cos’è quell’oggetto coperto che ci sta sopra?<br><br><br>Non mi dica che è una macchina da scrivere. |  
+| COLBY | È una macchina da scrivere.<br><br><br>Ho già cominciato a lavorare qui. In questo momento<br>sto lavorando a una relazione societaria. |  
+| LADY ELIZABETH | Non avevo messo in conto relazioni e macchine da scrivere<br><br><br>quando ho progettato questa stanza. |  
+| COLBY | È il tipo di stanza che volevo.<br><br><br>LADY ELIZABETH [alzandosi]. E vedo una fotografia in una cornice d’argento.<br><br><br>Temo che dovrò istruirla, Colby.<br>I ritratti fotografici — anche in cornice d’argento —<br>sono troppo intimi per il salotto.<br>Posso toglierla? Certamente la sua camera da letto<br>è il posto giusto per i ricordi fotografici. |  
+| *(didascalia)* | [Si siede, tenendo in mano il ritratto] |  
+| COLBY | Che cosa stavo per dire? Oh, ecco.<br>Lei crede nella reincarnazione? |  
+| COLBY | No, non ci credo. Cioè, non ci ho mai pensato. |  
+| LADY ELIZABETH | Non posso dire di crederci.<br><br><br>Ci ho creduto per un [[motifs/time\|periodo]]. Ho studiato la dottrina.<br>Ma stavo per dire: se ci credessi<br><br><br>direi che ci siamo già conosciuti<br>in qualche incarnazione precedente. — È sua madre, questa? |  
+| COLBY | No, quella è mia zia. Non ho mai conosciuto mia madre.<br><br><br>Morì quando io nacqui. |  
+| LADY ELIZABETH | Morì quando lei nacque.<br><br><br>Ha altri parenti stretti? Fratelli o sorelle? |  
+| COLBY | Né fratelli né sorelle. No. Quanto agli altri parenti,<br><br><br>non ne ho mai conosciuto nessuno, da [[archetypes/child\|bambino]].<br>Immagino di non essermi mai interessato… ai parenti. |  
+| LADY ELIZABETH | Non voleva conoscere i suoi parenti!<br><br><br>Capisco esattamente come si sentiva.<br>Quanto detestavo i miei genitori! Avevo un’istitutrice;<br>parecchie, anzi. E le detestavo tutte.<br>È stato allevato da un’istitutrice? |  
+| COLBY | No. Da mia zia. |  
+| LADY ELIZABETH | E la detestava? No, certo che no.<br><br><br>O non ne terrebbe il ritratto. Se non ha mai conosciuto i suoi genitori…<br>ma suo padre era vivo? |  
+| COLBY | Non ho mai conosciuto mio padre. |  
+| LADY ELIZABETH | Allora, se non ha mai avuto un’istitutrice,<br><br><br>e se non ha mai conosciuto nessuno dei suoi genitori,<br>non può capire che cosa sia davvero il detestare.<br>Eppure dobbiamo avere qualche somiglianza di origini. |  
+| COLBY | Ma lei aveva dei genitori. E senza [[concepts/doubt\|dubbio]] molti parenti. |  
+| LADY ELIZABETH | Oh, sciami di parenti! E che gente sgradevole!<br><br><br>Mi vedevo come una colomba in un nido d’aquile.<br>Erano così carnivori. Sempre a uccidere qualcosa e a mangiarsela.<br>Eppure la nostra [[motifs/childhood\|infanzia]] dev’essere stata simile.<br>Queste sono solo differenze superficiali:<br>lei dev’essere stato un [[archetypes/child\|bambino]] solo, non avendo parenti —<br>né fratelli né sorelle — e io ero sola<br>perché erano tanti — e così poco affini.<br>Mi facevano sentire un’esclusa. Eppure erano così banali.<br>Sa, Colby, quando ero [[archetypes/child\|bambina]]<br>avevo tre ossessioni, e non l’ho mai detto a nessuno.<br>Mi [[concepts/wonder\|chiedo]] se lei avesse le stesse ossessioni. |  
+| COLBY | Quali erano? |  
+| LADY ELIZABETH | La prima era che io fossi bruttissima<br><br><br>e non lo sapessi. Poi, che fossi debole di mente<br>e non lo sapessi. Infine,<br>che fossi una trovatella e non lo sapessi.<br>Naturalmente ero terrorizzata di essere brutta<br>e di essere debole di mente: benché la mia famiglia me lo facesse credere.<br>Ma sa, in realtà mi piaceva credere<br><br><br>di essere una trovatella — o dovrei dire «una scambiata»? |  
+| COLBY | Non so quale delle due intenda. |  
+| LADY ELIZABETH | Comunque sia,<br><br><br>non volevo appartenere a quel mondo. Mi rifiutavo di credere<br>che mio padre potesse essere un conte qualunque!<br>E non riuscivo a credere che mia madre fosse mia madre.<br><br><br>Erano fantasticherie sciocche. Ero una ragazzina sciocca<br>e molto romantica. Ma dimostra<br>quanto mi sentissi diversa.<br>E poi mi diedi alla Sapienza dell’Oriente<br>e credetti, per un po’, nella reincarnazione.<br>Quello sembrava spiegare tutto. Adesso non ci credo più.<br>Fu solo una fase. Ma rendeva tutto così semplice!<br>Poter pensare che i propri genitori terreni<br>sono soltanto il mezzo di cui dobbiamo servirci<br>per reincarnarci. E che la vera ascendenza<br>sono le nostre esistenze precedenti. Certo, c’è qualcosa in noi,<br>in tutti noi, che non è solo eredità,<br>ma qualcosa di unico. Qualcosa che siamo stati<br>dall’[[concepts/eternity\|eternità]]. Qualcosa… che viene diritto da Dio.<br>Questo vuol dire che siamo più vicini a Dio che a chiunque altro.<br>— Dove viveva, da [[archetypes/child\|bambino]]? |  
+| COLBY | A Teddington. |  
+| LADY ELIZABETH | Teddington? In quale contea? |  
+| COLBY | È vicinissimo a [[settings/london\|Londra]]. |  
+| LADY ELIZABETH | Eppure è cresciuto, come me, in campagna.<br><br><br>Teddington. Mi pare di averne sentito parlare.<br>Era una casa grande? |  
+| COLBY | No, piccolissima. |  
+| LADY ELIZABETH | Ma aveva sua zia. Ed era devota a lei,<br><br><br>non ho alcun [[concepts/doubt\|dubbio]]. Come si chiama sua zia?<br>Si chiama Simpkins? |  
+| COLBY | No, è una zia acquisita.<br><br><br>Una vedova. Si chiama signora Guzzard. |  
+| LADY ELIZABETH | Guzzard? Ha detto Guzzard? Un nome insolito.<br><br><br>Guzzard, ha detto? Quel nome mi dice qualcosa.<br>Sì. Guzzard. È il nome che cercavo da tanto! |  
+| COLBY | Può darsi che le sia capitato di incontrarlo prima;<br><br><br>benché, come dice lei, sia un nome raro.<br>Non può aver conosciuto mia zia. |  
+| LADY ELIZABETH | No. Non ho mai conosciuto… sua zia.<br><br><br>Ma il nome mi è familiare. Quanti anni ha, Colby? |  
+| COLBY | Venticinque. |  
+| LADY ELIZABETH | Venticinque. Che ne è stato di suo padre? |  
+| COLBY | [[motifs/well\|Beh]]… non ho avuto un padre.<br><br><br>Vede… ero un [[archetypes/child\|figlio]] illegittimo. |  
+| LADY ELIZABETH | Ah sì. Un [[archetypes/child\|figlio]] illegittimo.<br><br><br>Così l’unica parente che ha conosciuto<br>era la signora Guzzard. E l’ha sempre chiamata «zia»? |  
+| COLBY | E perché no? Era mia zia. |  
+| LADY ELIZABETH | E quanto a sua madre —<br><br><br>la sorella della signora Guzzard, immagino… |  
+| COLBY | Sua sorella — il che fa della signora Guzzard mia zia. |  
+| LADY ELIZABETH | Ed è proprio sicuro che la sorella della signora Guzzard —<br><br><br>quella che dice essere sua madre — fosse davvero sua madre? |  
+| COLBY | Ma come, Lady Elizabeth! Perché dovrei [[concepts/doubt\|dubitarne]]?<br><br><br>Non è il genere di storia che mia zia inventerebbe. |  
+| LADY ELIZABETH | Non se è davvero sua zia. La signora Guzzard<br><br><br>e il signor Guzzard — hanno avuto figli? |  
+| COLBY | Non hanno avuto figli propri.<br><br><br>Cioè, ne avevano avuto uno, un bambino<br>morto quand’io ero ancora piccolissimo.<br>Non me lo ricordo. Me ne hanno parlato.<br>Ma non posso fare a meno di chiedermi perché la interessi tanto:<br>non c’è nulla di molto interessante nelle mie origini —<br>glielo assicuro. |  
+| LADY ELIZABETH | Potrebbe essere più interessante<br><br><br>di quanto lei creda. Colby… |  
+| *(didascalia)* | [Un colpo alla porta] |  
+| LADY ELIZABETH |                                                          Chi è? |  
+| *(didascalia)* | [Entra SIR CLAUDE] |  
+| SIR CLAUDE | Elizabeth! Mi hanno detto che eri qui con Colby.<br><br><br>Così sono venuto invece di telefonare,<br>giusto per dargli questi appunti. Sono appunti per il mio discorso<br>al banchetto della Corporazione dei Ceramisti. |  
+| COLBY | È domani [[motifs/night\|sera]], credo. |  
+| SIR CLAUDE | Sì, è domani.<br>Ma sa che dovrò avere il discorso scritto per esteso<br>e poi impararlo a memoria. Non posso usare appunti:<br>deve suonare spontaneo. Ho buttato giù qualche titolo.<br>Veda un po’ se riesce a svilupparmeli<br>con qualche frase a effetto. Dovrebbe durare una decina di minuti.<br>E poi domani lo rivedremo insieme.<br>COLBY [guardando gli appunti].                 Ci proverò. |  
+| SIR CLAUDE | È proprio in casi come questo, Elizabeth,<br><br><br>che Colby può essermi di aiuto più di Eggerson.<br>Non avrei potuto chiedere a Eggerson di scrivermi un discorso.<br>Oh, a proposito, Colby, come va il pianoforte? |  
+| COLBY | È un pianoforte meraviglioso. Non ho mai suonato<br><br><br>su uno strumento simile. È troppo bello per me. |  
+| SIR CLAUDE | Le serve un buon pianoforte. Suonerà tanto meglio. |  
+| LADY ELIZABETH | Claude! |  
+| SIR CLAUDE | Che c’è, Elizabeth? |  
+| LADY ELIZABETH | Ho appena fatto una scoperta strabiliante!<br><br><br>Tutto grazie a un nome — e all’intuizione.<br>Ma sarà provata. La [[concepts/truth\|verità]] è venuta a galla.<br>È Colby. Colby è il mio [[archetypes/child\|figlio]] perduto! |  
+| SIR CLAUDE | Come? Tuo [[archetypes/child\|figlio]], Elizabeth? Che diamine te lo fa pensare? |  
+| LADY ELIZABETH | Devo vedere questa signora Guzzard. Devo affrontarla.<br><br><br>Non può assolutamente essere una coincidenza.<br>Sembra incredibile, non è vero, Claude?<br>Eppure sarebbe ancora più incredibile<br>se fosse soltanto una coincidenza.<br>Forse non dovrei ancora crederci,<br>forse è sbagliato da parte mia esserne così certa,<br>ma pare che la [[concepts/providence\|Provvidenza]] te l’abbia ricondotto,<br>e che tu, Claude, ed Eggerson ne siate stati gli strumenti.<br>Devo aver ragione. Claude, dimmi che ho ragione. |  
+| SIR CLAUDE | Ma Elizabeth, che cosa ti ha portata a credere<br><br><br>che Colby sia tuo figlio? |  
+| LADY ELIZABETH | Oh, dimenticavo,<br><br><br>nell’eccitazione: sei arrivato proprio nell’istante<br>in cui la [[concepts/truth\|verità]] mi si è rivelata. La signora Guzzard!<br>Claude, Colby è stato allevato da una signora Guzzard. |  
+| SIR CLAUDE | Lo so. Ma perché questo dovrebbe farne tuo figlio? |  
+| LADY ELIZABETH | È il nome che ho cercato per tutti questi anni —<br>quello, e l’altro nome, Teddington:<br><br><br>la signora Guzzard di Teddington. Era tutto ciò che sapevo.<br>Poi Tony fu ucciso, come sai, in Africa,<br>e io persi il nome. La signora Guzzard. |  
+| SIR CLAUDE | Comincio ora a ricostruire il tutto.<br><br><br>Hai interrogato Colby sulla sua famiglia… |  
+| LADY ELIZABETH | E quando ha nominato Teddington c’è stata una debole eco —<br><br><br>e poi la signora Guzzard! Dev’essere vero. |  
+| SIR CLAUDE | È certamente una coincidenza notevole —<br><br><br>ammesso che sia una coincidenza. Ma temo, Elizabeth,<br>che quel che è accaduto sia questo: rimuginando sul passato,<br>hai cominciato a pensare a Colby come a ciò che sarebbe stato tuo figlio,<br>e poi hai cominciato a vederlo come tuo figlio,<br>e poi — qualunque nome avessi sentito ti sarebbe parso quello giusto. |  
+| LADY ELIZABETH | Oh Claude, come puoi essere così scettico!<br><br><br>Dobbiamo vedere questa signora Guzzard e farle confessare. |  
+| SIR CLAUDE | Mi dispiace, Elizabeth. Se la signora Guzzard verrà<br><br><br>a fare la sua confessione, sarà molto diversa<br>da quel che tu ti aspetti. Temo, Colby,<br>che mi tocchi farle sapere la [[concepts/truth\|verità]]. |  
+| COLBY | Mi pare… che non ci sia nulla —<br><br><br>assolutamente nulla — che io possa dire al riguardo.<br>Devo lasciarlo a lei. |  
+| SIR CLAUDE | Avrei dovuto dirtelo un giorno o l’altro.<br><br><br>Ho sempre detestato tenerti nascosta una cosa simile.<br>Vedo ora che tanto [[motifs/well\|valeva]] dirtelo prima,<br>ma avevo sperato — e ora sembra un pensiero sciocco…<br>Quel che accade somiglia tanto a ciò che si era progettato,<br>e insieme è una tale parodia di tutti i propri piani —<br>avevo sperato che ti affezionassi a Colby,<br>e che potesse prendere il posto del tuo [[archetypes/child\|figlio]],<br>se prima lo avessi conosciuto — e che volessi adottarlo. |  
+| LADY ELIZABETH | Ma certo che voglio adottarlo, Claude!<br><br><br>Cioè, ammesso che sia permesso adottare il proprio [[archetypes/child\|figlio]]. |  
+| SIR CLAUDE | Non è questo che intendevo. Elizabeth,<br><br><br>Colby è mio figlio. |  
+| LADY ELIZABETH | Del tutto impossibile, Claude!<br><br><br>Hai una figlia. Ora vuoi un figlio. |  
+| SIR CLAUDE | Non vorrei mai portarti via tuo figlio.<br>Forse hai un figlio. Ma non è Colby.<br>Avrei dovuto dirtelo anni fa.<br>Ti parlai di Lucasta, e tu mi parlasti<br>della tua… disgrazia. E quasi ti parlai<br>di Colby. Non lo feci. Per una ragione così sciocca.<br>Assurda a dirsi ora. Un [[archetypes/child\|figlio]] per uno —<br>sembrava abbastanza equo — anche se il tuo era andato perduto,<br>e il mio non potevo perderlo. Ma se ne avessi avuto un altro<br>temevo che tu pensassi: «e quanti altri?»<br>Avresti potuto sospettare un numero qualsiasi di figli!<br>Ora sembra [[concepts/grotesque\|grottesco]]. Ma mi influenzò.<br>E poi trovai una ragione migliore per tacere.<br>Vidi quanto desiderassi un figlio tuo,<br>e pensai: aspetterò che abbiamo figli nostri<br><br><br>e allora glielo dirò. E non arrivarono mai.<br>E ora rimpiango amaramente quella decisione.<br>Avrei dovuto dirti che avevo un figlio. |  
+| LADY ELIZABETH | Ma perché pensi che Colby sia tuo figlio? |  
+| SIR CLAUDE | Colby è il figlio della sorella della signora Guzzard,<br><br><br>che morì quando lui nacque. La signora Guzzard lo allevò,<br>e io provvidi alla sua [[concepts/education\|educazione]].<br>L’ho visto crescere. E la signora Guzzard<br>sa che è mio figlio. |  
+| LADY ELIZABETH | Ma tu dov’eri, Claude,<br><br><br>quando Colby nacque? |  
+| SIR CLAUDE | Dov’ero? In Canada.<br><br><br>Mio padre mi aveva mandato in giro d’affari<br>per conoscere i suoi investimenti oltremare. |  
+| LADY ELIZABETH | Allora come sai che la sorella ebbe un [[archetypes/child\|figlio]]?<br><br><br>Forse la signora Guzzard inventò la storia… |  
+| SIR CLAUDE | Perché avrebbe dovuto inventarla? Il [[archetypes/child\|figlio]] era atteso. |  
+| LADY ELIZABETH | Per ottenere denaro da te, forse.<br><br><br>No, non dovrei dirlo. Ma si trovò un [[archetypes/child\|figlio]]<br>fra le mani. Il padre era morto<br>e non le avevano mai detto il nome della madre;<br>e la madre aveva dimenticato il nome della signora Guzzard,<br>e la madre ero io e il [[archetypes/child\|figlio]] era Colby;<br>e la signora Guzzard pensò che tu saresti stato felice<br>di credere di avere un figlio, e che ti saresti comportato [[motifs/well\|bene]] con lui —<br>perché tu tenevi a quella ragazza, no? |  
+| SIR CLAUDE | Sì, ci tenevo. Moltissimo. Non avevo mai<br><br><br>conosciuto l’[[motifs/love\|amore]] prima. |  
+| LADY ELIZABETH | Molto [[motifs/well\|bene]], allora.<br><br><br>È così che dev’essere andata.<br>Oh, Claude, lo sai che sono un po’ debole di testa<br>anche se cerco di essere intelligente. Cerca di aiutarmi. |  
+| SIR CLAUDE | Poteva essere andata così. Ma sono certo che non è così. |  
+| LADY ELIZABETH | Oh, Colby, il suo istinto non le dice nulla? |  
+| SIR CLAUDE | Sì, ci dica tutto quel che ha in mente.<br><br><br>So che questa situazione dev’essere un’angoscia<br>per lei più ancora che per… noi. |  
+| COLBY | Vorrei solo che fosse un’angoscia più acuta:<br><br><br>non so se durante questa conversazione abbia [[concepts/suffering\|sofferto]] o no.<br>Mi sento soltanto… intorpidito.<br>Se c’è angoscia, è parte di un’angoscia totale<br>che non riesco ancora a cominciare a sentire. Sono semplicemente indifferente.<br>E per tutto il [[motifs/time\|tempo]] che avete parlato<br>non ho fatto che pensare: «Che importanza ha<br>di chi io sia figlio?» Voi non capite<br>che quando si è vissuti senza genitori, da [[archetypes/child\|bambini]],<br>resta un vuoto che non può mai essere colmato. Mai.<br>Vi voglio bene a entrambi, potrei perfino arrivare ad [[motifs/love\|amarvi]] —<br>ma come amici… amici più anziani. Nessuno dei due come genitore.<br>Mi dispiace. Ma è per questo che dico che non mi importa<br>quale di voi due sia il mio genitore. |  
+| LADY ELIZABETH | Ma una madre, Colby, non è cosa diversa?<br><br><br>Fra madre e figlio dovrebbe esserci sempre un legame,<br>per quanto a lungo si siano perduti l’una l’altro. |  
+| COLBY | No, Lady Elizabeth. La posizione è la stessa,<br><br><br>o più crudele. Supponiamo che io sia suo figlio.<br>Allora è soltanto un fatto. Meglio non sapere<br>che sapere il fatto e sapere che non significa nulla.<br>Al [[motifs/time\|tempo]] in cui nacqui, lei avrebbe potuto essere mia madre,<br>ma scelse di non esserlo. Non gliene faccio colpa:<br>Dio me ne guardi! ma dobbiamo accettarne le conseguenze.<br>Al [[motifs/time\|tempo]] in cui nacqui, il suo essere mia madre —<br>se lei è mia madre — era un fatto vivo.<br>Ora è un fatto morto, e dai fatti morti<br>nulla di vivo può [[motifs/spring\|germogliare]]. Ora è troppo tardi.<br>Non ho mai desiderato un genitore fino ad ora —<br>non ci ho mai pensato. Ora mi avete fatto pensare,<br>e vorrei aver potuto avere un padre e una madre. |  
+| LADY ELIZABETH | Fermo, Colby! Mi è venuta un’idea.<br><br><br>Claude! Non voglio toglierti<br>il figlio che credevi tuo. E da quel che hai detto so<br>che preferiresti che fosse nostro anziché soltanto tuo.<br>Perché fare altre indagini?<br>Consideriamolo come nostro figlio:<br><br><br>non sarà la stessa cosa che avevamo desiderato —<br>ma per certi versi sarà meglio! E impedirà a entrambi<br>di avanzare pretese irragionevoli su di lei, Colby.<br>È una buona idea! Perché non dovremmo essere felici,<br>tutti quanti? Già adesso, Claude,<br>mi sembra che questo ci abbia avvicinati. |  
+| SIR CLAUDE | Sarei contento di un accordo simile;<br><br><br>e in fondo non è così lontano da quel che avevo pensato.<br>Potrebbe accettarci entrambi in quel modo, Colby? |  
+| COLBY | Posso solo dire quel che sento in questo momento:<br><br><br>eppure credo che sentirò sempre lo stesso. |  
+| SIR CLAUDE | [[motifs/well\|Ebbene]]? |  
+| COLBY | Sarebbe più facile, credo,<br><br><br>accettarvi entrambi al posto dei genitori<br>se nessuno dei due potesse esserlo. Se fosse pura finzione —<br>si può vivere di una finzione — ma non di una tale mescolanza<br>di finzione e realtà. Già è stato duro,<br>per me che non ho mai conosciuto i sentimenti di un figlio,<br>essere conteso fra due genitori.<br>Ma se seguissimo il suo suggerimento,<br>lo so, lo so che sarei sempre perseguitato<br>dai miserabili [[motifs/ghosts\|fantasmi]] degli altri genitori!<br>È già abbastanza strano avere due genitori —<br>ma io ne avrei quattro! E gli altri?<br>Dovrei vivere con quei [[motifs/ghosts\|fantasmi]], l’uno indignato<br>di essere stato frodato della sua paternità — o maternità —<br>l’altro indignato per l’imputazione<br>di una falsa paternità. Entrambi derisi. |  
+| SIR CLAUDE | Ma allora che cosa vuole, Colby? Che cosa vuole?<br><br><br>Pensi al futuro. Quando si sposerà<br>vorrà dei genitori, per amore dei suoi figli. |  
+| COLBY | Stasera non sento di voler mai sposarmi.<br>Può darsi che lei abbia ragione. Non posso tenerne conto.<br>Ma ora voglio sapere di chi sono figlio. |  
+| SIR CLAUDE | Allora la prima cosa è: dobbiamo vedere la signora Guzzard. |  
+| LADY ELIZABETH | Oh Claude! Mi dispiace terribilmente per te.<br><br><br>Credo che se avessi saputo della tua… illusione<br>non ti avrei mai disingannato. |  
+| SIR CLAUDE | E quanto a me,<br><br><br>se avessi potuto sapere che cosa sarebbe accaduto,<br>ti avrei ceduto Colby volentieri.<br>Ma dobbiamo vedere la signora Guzzard. Farò in modo di portarla qui. |  
+| LADY ELIZABETH | E credo che faresti [[motifs/well\|bene]] a far venire anche Eggerson.<br><br><br>SIR CLAUDE [alzandosi]. Oh, certo, Eggerson! Lui sa tutto.<br><br><br>Non diciamo altro stasera. Ora, Colby,<br>riesce a trovare qualche consolazione al pianoforte? |  
+| COLBY | Non credo che stasera il pianoforte mi aiuterebbe:<br><br><br>in questo momento non vorrei mai più toccarlo.<br>Ma c’è un’altra ragione. Devo ricordarle<br>il suo discorso per la Corporazione dei Ceramisti<br>di domani [[motifs/night\|sera]]. Devo mettermici al lavoro. |  
+| SIR CLAUDE | Domani [[motifs/night\|sera]]. Devo proprio andare a quel banchetto<br><br><br>domani [[motifs/night\|sera]]? |  
+| COLBY | Guardavo i suoi appunti —<br><br><br>prima che lei mi coinvolgesse nella conversazione —<br>e ho trovato un appunto che non ho capito.<br>«Tono di reminiscenza.» Non posso svilupparlo<br>se non mi dice — reminiscenza di che cosa? |  
+| SIR CLAUDE | Reminiscenza di che cosa? Reminiscenza di che cosa?<br><br><br>«Stasera mi sento in un tono di reminiscenza» —<br>ah sì. Per dire qualcosa delle mie prime ambizioni<br>di fare il ceramista. Non che i membri<br>della Corporazione dei Ceramisti sappiano alcunché<br>di ceramica… o di qualsiasi altra arte.<br>No, non credo che sarò in tono di reminiscenza.<br>[[motifs/cross\|Cancelli]] quel punto. Mi ricorderebbe soltanto<br>cose che stupirebbero la Corporazione dei Ceramisti<br>se dicessi loro che cosa stavo davvero ricordando.<br>Vieni, Elizabeth. |  
+| LADY ELIZABETH | Mio povero Claude! |  
+| *(didascalia)* | [Escono SIR CLAUDE e LADY ELIZABETH] |  
+| LADY ELIZABETH | SIPARIO |
+
+### Atto 3, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Lo studio degli affari, come nell’Atto I. Parecchie mattine dopo. SIR CLAUDE sta spostando le sedie. Entra LADY ELIZABETH. |  
+| LADY ELIZABETH | Claude, che cosa stai facendo? |  
+| SIR CLAUDE | Sistemo i posti.<br><br><br>È importante, quando si ha un incontro difficile,<br>decidere in anticipo la disposizione delle sedute.<br>Non credo che tu e io dovremmo stare vicini.<br>Vuoi sederti là, accanto alla scrivania? |  
+| LADY ELIZABETH | Dall’altra parte, con la luce alle spalle:<br><br><br>ma non ti siederai tu stesso alla scrivania? |  
+| SIR CLAUDE | No, sarebbe troppo formale. Ho pensato che fosse meglio<br><br><br>mettere lì Eggerson, dietro la scrivania.<br>Vedi, voglio che faccia da presidente. |  
+| LADY ELIZABETH | È una buona idea. |  
+| SIR CLAUDE | D’altra parte,<br><br><br>non dobbiamo sembrare due avvocati<br>pronti a fare il [[motifs/cross\|controinterrogatorio]] a un testimone.<br>È tutto molto delicato. Non vogliamo cominciare<br>offendendo la signora Guzzard. Per questo ho pensato<br>che fosse Eggerson a porre le prime domande.<br>È bravissimo ad avvicinare un argomento<br>per vie traverse. Ma dove la facciamo sedere? |  
+| LADY ELIZABETH | Là, con la luce in pieno su di lei:<br><br><br>voglio poterle osservare l’espressione. |  
+| SIR CLAUDE | Ma non su questa sedia! Le ci vuole una poltrona… |  
+| LADY ELIZABETH | Non così bassa. Quella lasciala nell’angolo<br><br><br>per Colby. Non vorrà stare in vista,<br>povero ragazzo! |  
+| SIR CLAUDE | Dopotutto è stato lui a insistere<br><br><br>su questa… indagine. Ma forse hai ragione. |  
+| LADY ELIZABETH | Claude, ci ho pensato e ripensato —<br>per tutta la [[motifs/night\|notte]]. Non ho quasi chiuso occhio.<br>Vorrei che Colby, in qualche modo, risultasse tuo figlio<br><br><br>invece che mio. Davvero, lo vorrei!<br>Sarebbe molto più giusto. Se è mio —<br>come sono certa che sia — allora tu non hai mai avuto un figlio;<br>mentre, se fosse tuo… potrebbe pur sempre prendere il posto<br>di mio figlio: e così sarebbe nostro figlio.<br><br><br>Povera me, che cosa voglio? Vorrei che fosse mio,<br>ma che tu credessi che è tuo!<br>Perciò [[concepts/hope\|spero]] che la signora Guzzard dica che è tuo figlio<br>e che io non debba crederle. Io non credo nei fatti.<br>Tu sì. È questa la differenza fra noi. |  
+| SIR CLAUDE | Non ne sono così sicuro. Ho cercato di credere nei fatti;<br><br><br>e ho sempre agito come se ci credessi.<br>Pensavo che fossero i fatti a cui credeva mio padre;<br>pensavo che ciò che gli stava a cuore fossero il potere e la ricchezza;<br>e poi arrivai a vedere che quel che io avevo interpretato<br>in quel modo era per lui qualcos’altro —<br><br><br>un’idea, un’ispirazione. Ciò che voleva trasmettermi<br>era quell’idea, quell’ispirazione,<br>che per lui era la vita. Per me fu un peso.<br>Un’ispirazione non si comunica<br>così, per forza di volontà. Lui fu un grande finanziere —<br>e io sono soltanto un finanziere di successo.<br>Forse sarei stato più fedele all’ispirazione di mio padre<br>se avessi fatto ciò che volevo fare. |  
+| LADY ELIZABETH | Non mi hai mai parlato così prima d’ora!<br><br><br>Perché non l’hai fatto? Non credo di capire<br>e so che tu pensi che io non capisca nulla,<br>e forse non capisco. Ma vorrei che mi parlassi<br>qualche volta come se capissi,<br>e forse arriverei a capire meglio.<br>Che cosa volevi fare? |  
+| SIR CLAUDE | Il ceramista.<br><br><br>Non ridere. |  
+| LADY ELIZABETH | Non sto ridendo. Pensavo soltanto<br><br><br>com’è strano aver vissuto con te tutti questi anni<br>e adesso mi dici che ti sarebbe piaciuto fare il ceramista!<br>Vuoi dire davvero, fabbricare brocche e vasi<br>come quelli della tua collezione? |  
+| SIR CLAUDE | È proprio quel che intendo. |  
+| LADY ELIZABETH | Ma mi sarebbe piaciuto tanto che tu facessi il ceramista!<br><br><br>Perché non me l’hai mai detto? |  
+| SIR CLAUDE | Non credevo<br><br><br>che ti avrebbe interessato. Anzi, di più.<br>Davo per scontato che ciò che volevi<br>fosse un marito importante. Pensavo che mi avresti disprezzato<br>se avessi saputo che cosa desideravo davvero essere. |  
+| LADY ELIZABETH | E io davo per scontato che non t’interessasse<br><br><br>nulla al di fuori degli affari finanziari;<br>e che ti servissi di me soprattutto come padrona di casa.<br>È un grave errore, ne sono convinta,<br>per due sposi dare qualcosa per scontato. |  
+| SIR CLAUDE | È stata un’osservazione molto intelligente.<br><br><br>Forse ho dato troppe cose per scontate<br>su di te, Elizabeth. Che cosa volevi tu? |  
+| LADY ELIZABETH | Ispirare un [[archetypes/artist\|artista]]. Non ridere. |  
+| SIR CLAUDE | Non sto ridendo.<br><br><br>Dunque ciò che volevi era ispirare un [[archetypes/artist\|artista]]! |  
+| LADY ELIZABETH | O ispirare un poeta. Credevo che Tony fosse un poeta.<br><br><br>Perché mi scriveva poesie. Ed era così bello.<br>Adesso so che i poeti non hanno l’aria dei poeti:<br>e i finanzieri, a quanto pare, non hanno l’aria dei ceramisti —<br>è questo che intendo? Mi sto confondendo.<br>Credevo di sfuggire, con Tony, a un mondo che detestavo —<br>e poi, troppo tardi, scoprii<br>che apparteneva proprio al mondo da cui volevo fuggire.<br>Era così banale! Volevo dimenticarlo,<br>e così, immagino, volevo dimenticare<br>Colby. Ma Colby è un [[archetypes/artist\|artista]]. |  
+| SIR CLAUDE | Un musicista.<br><br><br>Io sono un artigiano deluso,<br>e Colby è un compositore deluso.<br>Sarei stato un ceramista di second’ordine,<br>e lui sarebbe stato un organista di second’ordine.<br>Abbiamo scelto entrambi… l’obbedienza ai fatti. |  
+| LADY ELIZABETH | Credo che fosse proprio quello che cercavo di fare io.<br><br><br>È molto strano, Claude, ma questa è la prima [[motifs/time\|volta]]<br>che parlo con te senza sentirmi stupidissima.<br>Mi hai sempre fatto sentire che non valeva la pena parlarmi. |  
+| SIR CLAUDE | E tu mi hai sempre fatto sentire che i tuoi interessi<br><br><br>erano troppo profondi perché io potessi discuterne:<br><br><br>le cure per la salute. E l’arte moderna — purché fosse moderna —<br>e le danze dei dervisci. |  
+| LADY ELIZABETH | Le danze dei dervisci!<br><br><br>Davvero, Claude, come sei assurdo!<br>Non che non ci sia molto da imparare,<br>non ne [[concepts/doubt\|dubito]], dai rituali dei dervisci.<br>Ma non importa che cosa ci dirà la signora Guzzard,<br>se basterà a soddisfare Colby. Qualunque cosa accada<br>sarà nostro figlio. |  
+| *(didascalia)* | [Un colpo alla porta. Entra EGGERSON] |  
+| SIR CLAUDE | Buongiorno, Eggerson. |  
+| EGGERSON | Buongiorno, Sir Claude. E Lady Elizabeth! |  
+| SIR CLAUDE | Mi dispiace, Eggerson, di averla fatta salire a [[settings/london\|Londra]]<br><br><br>con così poco preavviso. |  
+| EGGERSON | Non dica così, Sir Claude.<br><br><br>È vero, di questi tempi non ho molte occasioni per venire;<br>ma la signora E. vorrebbe che salissi più spesso!<br>Non sono tutte così, le signore? Prima si lamentava<br>perché stavo a [[settings/london\|Londra]] cinque o sei giorni la settimana:<br>e adesso dice: «Stai diventando un vero campagnolo!<br>Stai perdendo il contatto con la vita pubblica».<br>Il fatto è che le manca il contatto con [[settings/london\|Londra]],<br>anche se non lo ammette. Le mancano le mie notizie<br>quando tornavo a [[motifs/home\|casa]] la sera. E le ultime edizioni<br>dei giornali che compravo a Liverpool Street.<br>Ma ho tanto da fare, a Joshua Park —<br>oltre al [[motifs/garden\|giardino]] — che non ho un momento libero.<br>E ormai, davvero, a [[settings/london\|Londra]] mi sento del tutto perduto.<br>Ogni [[motifs/time\|volta]] che vengo noto che il traffico<br>è peggiorato ancora. |  
+| SIR CLAUDE | Sì, peggiora sempre. |  
+| LADY ELIZABETH | — [[concepts/hope\|Spero]] che la signora Eggerson stia [[motifs/well\|bene]]. |  
+| EGGERSON | Abbastanza [[motifs/well\|bene]].<br><br><br>È sempre giù di morale in questa stagione,<br>quando ci avviciniamo all’anniversario. |  
+| SIR CLAUDE | L’anniversario? Della [[motifs/death\|morte]] di suo figlio? |  
+| EGGERSON | Del giorno in cui ne avemmo notizia. Non ne parliamo spesso;<br>eppure so che cos’ha in mente, giorni prima.<br>Ma eccomi qui a parlare di noi!<br>E abbiamo faccende più importanti, immagino. |  
+| SIR CLAUDE | Eggerson, aspetto la signora Guzzard. |  
+| EGGERSON | Davvero! La signora Guzzard! E perché mai l’aspettiamo? |  
+| SIR CLAUDE | Le ho chiesto io di venire. Lady Elizabeth<br><br><br>è certa di conoscere il nome della signora Guzzard. |  
+| LADY ELIZABETH | La signora Guzzard, di Teddington. |  
+| EGGERSON | Ah, davvero!<br><br><br>Non avrei mai immaginato che quel nome le fosse noto. |  
+| SIR CLAUDE | Aveva interrogato Colby su di sé,<br><br><br>e lui ha fatto il nome di sua zia, la signora Guzzard.<br>Adesso è convinta che la signora Guzzard<br>di Teddington sia il nome della persona<br>a cui fu affidato il suo [[archetypes/child\|figlio]]. |  
+| EGGERSON | Che coincidenza straordinaria! |  
+| SIR CLAUDE | È proprio questo,<br><br><br>a meno che non si sbagli… |  
+| LADY ELIZABETH | Ma insomma, Claude! |  
+| SIR CLAUDE | E ne ha concluso che il suo [[archetypes/child\|figlio]] debba essere Colby,<br><br><br>così le ho detto la [[concepts/truth\|verità]]. Ma non riesce a crederci. |  
+| LADY ELIZABETH | Claude, non è del tutto esatto. Lasciami spiegare.<br><br><br>Sono convinta che Sir Claude si sbagli,<br>o che sia stato ingannato, e che Colby sia mio figlio.<br>Ne sono sicura. Ma non voglio saperlo:<br>sono perfettamente contenta di lasciare le cose come stanno,<br>così da poterlo considerare nostro figlio. |  
+| SIR CLAUDE | Questo è perfettamente esatto. È Colby<br><br><br>che non si accontenta di questa soluzione.<br>Lui pretende i fatti. Ed è per questo<br>che ho chiesto alla signora Guzzard di venire. Lei non lo sa. |  
+| EGGERSON | Una posizione naturale, per il signor Simpkins,<br><br><br>se posso dirlo. Certo, potremmo scoprire<br>un’altra signora Guzzard… |  
+| LADY ELIZABETH | Due signore Guzzard? |  
+| EGGERSON | Concordo, è un nome rarissimo,<br><br><br>ma sono accadute cose più strane. |  
+| LADY ELIZABETH | E tutt’e due a Teddington? |  
+| EGGERSON | Concordo, sarebbe sorprendentissimo.<br><br><br>E allo stesso indirizzo? |  
+| LADY ELIZABETH | L’indirizzo non lo so.<br><br><br>La signora Guzzard di Teddington, è tutto quel che so,<br>e su questo potrei giurare. |  
+| EGGERSON | Sembra davvero improbabile<br><br><br>che ci siano due signore Guzzard a Teddington.<br>Ma ammettendo, per il momento, una sola signora Guzzard,<br>non potrebbero esserci stati due bambini? |  
+| LADY ELIZABETH | Due bambini, Eggerson? |  
+| EGGERSON | Suggerivo soltanto<br><br><br>che forse la signora Guzzard faceva professione<br>di… occuparsi dei figli degli altri.<br>In un certo senso, è cosa perfettamente rispettabile. |  
+| SIR CLAUDE | Sta insinuando che tenesse un allevamento di neonati.<br><br><br>È del tutto improbabile, ai nostri giorni.<br>E poi me ne sarei accorto. Visitavo la sua casa<br>spesso. Non ho mai visto più di un bambino. |  
+| EGGERSON | Potrebbe averne preso un altro<br><br><br>come sistemazione provvisoria —<br>a condizioni adeguate. Ma se fece così,<br>dobbiamo domandare che ne fu dell’altro. |  
+| SIR CLAUDE | Ma questo bambino era Colby. |  
+| LADY ELIZABETH | Certo che era Colby. |  
+| SIR CLAUDE | Ma Eggerson, non può davvero chiedermi di credere<br><br><br>che prese due bambini e li scambiò. |  
+| LADY ELIZABETH | Sembra proprio quel che è successo. E ora dobbiamo scoprire<br><br><br>che ne è stato del tuo [[archetypes/child\|figlio]], Claude. |  
+| SIR CLAUDE | Che ne è stato di mio [[archetypes/child\|figlio]]!<br><br><br>La madre di mio [[archetypes/child\|figlio]] era la sorella della signora Guzzard.<br><br><br>Lei non l’avrebbe ceduto. È il tuo [[archetypes/child\|figlio]], Elizabeth,<br><br><br>quello che dobbiamo cercare di rintracciare. |  
+| EGGERSON | Se c’era un altro [[archetypes/child\|bambino]],<br><br><br>allora dobbiamo cercare di rintracciarlo. Certamente, Sir Claude:<br>il primo passo dev’essere interrogare la signora Guzzard. |  
+| SIR CLAUDE | Ed è per questo che siamo qui. Sarà qui a momenti.<br><br><br>E quando arriverà chiamerò Colby.<br>Volevo lei qui per primo, per spiegarle la situazione:<br>e ho pensato che mi piacerebbe che conducesse lei la riunione.<br>Vuole sedersi alla scrivania? |  
+| EGGERSON | Se lo desidera, Sir Claude.<br><br><br>Mi sento più a mio agio quando sono dietro una scrivania:<br>è una seconda [[concepts/nature\|natura]]. |  
+| SIR CLAUDE | E le esponga il caso.<br><br><br>Non le lasci credere che io abbia dubbi:<br><br><br>lei pone le domande per conto di mia moglie. |  
+| EGGERSON | Ho capito, Sir Claude: ho capito perfettamente. |  
+| *(didascalia)* | [Un colpo alla porta] |  
+| SIR CLAUDE | Santo cielo, è già qui! [[motifs/well\|Beh]]… Avanti! |  
+| *(didascalia)* | [Entra LUCASTA] |  
+| LUCASTA | È una riunione? Ero venuta a parlare con Colby.<br><br><br>Scusate. |  
+| SIR CLAUDE | Colby verrà.<br><br><br>Ma tu non c’entri in questa riunione, Lucasta.<br>Non può aspettare un’altra [[motifs/time\|volta]]? |  
+| LUCASTA | Ero venuta a chiedere scusa<br><br><br>a Colby. Non importa. Sarà per un’altra [[motifs/time\|volta]].<br>Oh, sono contenta che tu sia qui, Eggy! Sei un tale sostegno.<br>A ogni modo ho un annuncio da fare,<br>e tanto [[motifs/well\|vale]] farlo adesso. Se mi ascoltate. |  
+| SIR CLAUDE | Certo che ti ascolto. Ma abbiamo poco [[motifs/time\|tempo]]. |  
+| LUCASTA | Non ci vorrà molto [[motifs/time\|tempo]]. Sposo B. |  
+| SIR CLAUDE | Sposi B.! Ma credevo che fosse tutto deciso. |  
+| LUCASTA | Sì, certo, Claude. Tu credevi che tutto fosse deciso.<br><br><br>Il guaio era proprio quello. Rendevi così evidente<br>che sarebbe stata la soluzione ideale<br>dal tuo punto di vista. Per levarmi dai piedi.<br>Oh, lo so quanto ti sono sempre pesata!<br>E non ti ho reso le cose facili. Non ci ho provato.<br>E sapere che volevi che sposassi B.<br>mi rendeva decisa a non farlo. Solo per farti dispetto,<br>direi. Fu per questo che m’interessai<br>a Colby. Perché tu lo credevi troppo buono per me. |  
+| SIR CLAUDE | A Colby! |  
+| LUCASTA | Perché no? È perfettamente naturale.<br><br><br>Ma sono grata a Colby. Se non fosse per Colby<br>non sarei mai arrivata ad apprezzare B. |  
+| SIR CLAUDE | Ma Colby! Lucasta, se lo avessi sospettato<br><br><br>ti avrei spiegato tutto. Colby è tuo fratello. |  
+| EGGERSON | Fratellastro, signorina Angel. |  
+| SIR CLAUDE | Sì, fratellastro. |  
+| LUCASTA | Che cosa vuoi dire? |  
+| SIR CLAUDE | Colby è mio figlio. |  
+| LADY ELIZABETH | Questo è ciò che crede Sir Claude. Claude, lascia spiegare a me. |  
+| SIR CLAUDE | No, spiego io. C’è stato un malinteso.<br><br><br>Mia moglie crede che Colby sia suo figlio.<br><br><br>È questa la ragione dell’incontro di oggi.<br>Aspettiamo la signora Guzzard — la zia di Colby. |  
+| LUCASTA | La zia di Colby? Mi fai girare la testa. |  
+| SIR CLAUDE | Avrei dovuto chiarirti le cose<br><br><br>all’[[motifs/time\|epoca]] in cui lui arrivò qui. Ma non mi fidavo<br>che sapessi tenere un segreto. C’erano ragioni<br>che non esistono più. Ma avrei dovuto dirtelo. |  
+| LUCASTA | [[motifs/well\|Beh]], io non capisco. Quel che capisco<br><br><br>è il comportamento di Colby. Se lo sapeva. |  
+| SIR CLAUDE | Lo sapeva. |  
+| LUCASTA | Perché non me l’ha detto? Forse stava per farlo.<br><br><br>Comunque, sapevo che c’era stato un equivoco.<br><br><br>Non avete la minima idea di che cosa sto parlando!<br>Ma se sapeva di essere tuo figlio<br>dev’essere rimasto di sasso quando gli dissi che ero tua figlia!<br>Ero venuta a ringraziarlo per lo scossone che mi aveva dato.<br>Mi ha fatto vedere che cosa volevo davvero.<br>B. mi fa sentire al sicuro. Ed è questo che voglio.<br>E in un modo o nell’altro, io ho qualcosa da dargli —<br>qualcosa di cui lui ha bisogno. Colby non ha bisogno di me,<br>non ha bisogno di nessuno. È affascinante,<br>ma non ci si può contare. Ha un mondo suo,<br>e potrebbe svanirci dentro da un momento all’altro —<br>proprio nel momento in cui ne avessi più bisogno!<br>E nemmeno lui dipende dagli altri.<br>B. ha bisogno di me. La vita l’ha ferito, come ha ferito me,<br>e possiamo aiutarci a vicenda. Oh, lo so che tu lo vedi<br>solo come un uomo d’affari. Come vedevi me<br>solo come una seccatura. Siamo fatti l’uno per l’altra:<br>lo pensavi anche tu, Claude, ma per le ragioni sbagliate,<br>e questo mi allontanava. Perciò sono grata a Colby. |  
+| SIR CLAUDE | Non so che cosa sia successo, ma nondimeno<br>sono certo che tu abbia preso la decisione giusta. |  
+| LUCASTA | Ma le ragioni per cui lo pensi sono quelle sbagliate. |  
+| LADY ELIZABETH | E anch’io sono certa, Lucasta, che tu abbia deciso saggiamente. |  
+| LUCASTA | E so [[motifs/well\|benissimo]] perché lo pensa:<br><br><br>pensa che siamo fatti l’uno per l’altra perché siamo entrambi volgari.<br><br><br>B. sa che lei lo considera volgare. E allora fa finta<br>di esserlo moltissimo, perché sa che lei lo pensa.<br>Ci avete assegnato le parti. E abbiamo dimostrato di saperle recitare. |  
+| LADY ELIZABETH | Non credo che dovresti dire questo, Lucasta;<br><br><br>sono sempre stata una persona di idee liberali —<br>è per questo che non sono mai andata d’accordo con la mia famiglia. |  
+| LUCASTA | [[motifs/well\|Beh]], io non sono una persona di idee liberali.<br><br><br>Sono convenzionalissima. E non me ne vergogno. |  
+| SIR CLAUDE | Forse hai ragione. Non sono sicuro di nulla.<br><br><br>Forse, come dici, ho frainteso B.,<br>e non ho mai creduto di capire te;<br><br><br>e certamente non riesco a capire Colby. |  
+| LADY ELIZABETH | Ma tu e io, Claude, possiamo capirci,<br><br><br>per quanto tardi sia. E forse questo ci aiuterà<br>a capire gli altri. Lo [[concepts/hope\|spero]].<br>Lucasta, ti considero una… figliastra;<br>e sarò felice di accogliere il signor Kaghan come genero. |  
+| LUCASTA | Grazie. Sono sicura che lo apprezzerà.<br>Ma questo mi ricorda: sta aspettando di sotto.<br>Non credo che ci vogliate alla vostra riunione. |  
+| EGGERSON | Permettete. Posso avanzare una proposta?<br><br><br>Ma prima di tutto devo cogliere l’occasione<br>per augurare alla signorina Angel ogni felicità.<br>E sono certo che sarà felice. Il signor Kaghan<br>è uno dei giovani più promettenti della [[motifs/city\|City]],<br>e ha un cuore d’oro. Come lei, signorina Angel.<br>Abbiamo questo colloquio importantissimo,<br>ma sono certo che vogliamo salutare la felice coppia.<br>È tutto in famiglia. Perché non lasciarli aspettare di sotto<br>e farli tornare dopo che la signora Guzzard se ne sarà andata? |  
+| SIR CLAUDE | Non è una cattiva idea. Se Colby è d’accordo. |  
+| LUCASTA | Mi fido di te, Eggy. E voglio fare pace con lui. |  
+| SIR CLAUDE | Lo chiamiamo subito. |  
+| *(didascalia)* | [Allunga la mano verso il telefono] |  
+| *(didascalia)* | [Un colpo. Entra COLBY] |  
+| COLBY | Sono arrivato troppo presto?<br><br><br>Temo di essermi spazientito ad aspettare. |  
+| LUCASTA | Colby! Non sono venuta a interrompere la vostra riunione.<br><br><br>Mi hanno detto di che si tratta. Ma ero venuta proprio per te.<br>Sono venuta a chiederti scusa per come mi sono comportata<br>l’altro pomeriggio. |  
+| COLBY | Chiedermi scusa? |  
+| SIR CLAUDE | Le ho detto tutto. |  
+| COLBY | Ma perché dovresti chiedermi scusa? |  
+| LUCASTA | Oh, perché ho capito<br><br><br>di aver certamente frainteso la tua reazione.<br>Non sarebbe stato da te — come credevo che fosse.<br>Sei troppo… distaccato per restare mai scandalizzato<br>nel modo in cui credevo che fossi. Mi vergognavo<br>di ciò che ti stavo raccontando, e perciò mi aspettavo<br>proprio quello che credetti di ricevere. Ma non riuscivo a crederci!<br>Non è da te disprezzare la gente:<br>non t’importa abbastanza. |  
+| COLBY | Non m’importa abbastanza? |  
+| LUCASTA | No. O sei al di sopra di ogni interesse,<br><br><br>oppure sei insensibile — non intendo poco sensibile!<br>Ma sei terribilmente freddo. O altrimenti hai un [[motifs/fire\|fuoco]]<br>che ti scalda, e che non è lo stesso [[motifs/fire\|fuoco]]<br>che scalda gli altri. O sei un egoista<br>o qualcosa di così diverso da tutti noi<br>che non possiamo giudicarti. Sei fatto così, Colby. |  
+| COLBY | Sono fatto così, dici? Io semplicemente non lo so.<br><br><br>Forse mi conosci meglio di quanto mi conosca io.<br>Ma ora che sai che cosa sono… |  
+| LUCASTA | Chi sei,<br><br><br>nel senso che mi hanno detto che sei mio fratello;<br>il che rende più difficile sapere che cosa sei.<br><br><br>Può darsi che non ci sia nessuno più difficile da capire<br>di un fratello… |  
+| COLBY | O di una sorella… |  
+| LUCASTA | La cosa difficile<br><br><br>è riconoscere i limiti della propria comprensione.<br>Può darsi che la comprensione, da fratello a sorella,<br>venga col [[motifs/time\|tempo]]. Forse, un giorno,<br>arriveremo a capirci. E ad accettare il fatto<br>che non ci siamo necessari l’uno all’altra<br>nel modo in cui avremmo potuto esserlo. Ma in un modo diverso<br>che si rivela col [[motifs/time\|tempo]]. E forse — chi lo sa? —<br>potremmo diventarci più necessari l’uno all’altra,<br>da fratello e sorella, di quanto avremmo potuto esserlo<br>in qualsiasi altra forma di rapporto. |  
+| COLBY | Voglio che tu sia felice. |  
+| LUCASTA | Sarò felice,<br><br><br>se mi accetterai come sorella<br>per la felicità che quel rapporto potrà darci<br>fra venti o trenta o quarant’anni di [[motifs/time\|tempo]].<br>Sarò felice. Sposerò B.<br>So che B. ti piace. |  
+| COLBY | Gli voglio molto bene;<br><br><br>e sono contento al pensiero che sarà mio cognato.<br>Avrò bisogno di te, di tutti e due, Lucasta! |  
+| LUCASTA | Significheremo qualcosa per te. Ma tu non hai bisogno di nessuno. |  
+| EGGERSON | E ora posso interrompere, signorina Angel?<br><br><br>Perché lei e il signor Kaghan non aspettano di sotto<br>e non ci raggiungono quando questo colloquio sarà finito?<br>Sono certo che il signor Simpkins concorderà con la proposta. |  
+| COLBY | Certo che li vorrei qui… Non può salire B. adesso? |  
+| EGGERSON | Meglio aspettare dopo. |  
+| SIR CLAUDE | Giustissimo, Eggerson. |  
+| LUCASTA | Addio, Colby. |  
+| COLBY | Perché dici addio? |  
+| LUCASTA | Addio al Colby che Lucasta conosceva,<br><br><br>e addio alla Lucasta che Colby conosceva.<br>Da allora siamo cambiati: come dicevi tu, cambiamo sempre.<br>Quando tornerò saremo fratello e sorella —<br>o almeno lo [[concepts/hope\|spero]]. Sì, in ogni caso,<br>addio, Colby. |  
+| *(didascalia)* | [Esce LUCASTA] |  
+| COLBY | Addio, allora, Lucasta. |  
+| EGGERSON | E ora, fra quanto aspettiamo la signora Guzzard?<br><br><br>SIR CLAUDE [guardando l’orologio]. Dovrebbe essere già qui! È sorprendente,<br><br><br>non mi ero accorto di come passava il [[motifs/time\|tempo]],<br>con la visita inattesa di Lucasta.<br>Dovrebbe essere qui. Non sarebbe da lei<br>arrivare in ritardo a un appuntamento. Me lo faceva sempre notare<br>quando andavo io da lei in ritardo. |  
+| *(didascalia)* | [Entra LUCASTA] |  
+| LUCASTA | Scusate se torno. È un anticlimax.<br><br><br>Ma pare che non ci sia nessuno ad aprire la porta.<br>Ho appena fatto entrare una persona. È la signora Guzzard<br>che aspettavate. Ha un’aria piuttosto temibile. |  
+| SIR CLAUDE | È il giorno libero di Parkman. Ma la cameriera dov’è? |  
+| LUCASTA | Mi è parso di sentire qualcuno cantare in dispensa. |  
+| LADY ELIZABETH | Oh, dimenticavo. È l’ora di raccoglimento di [[characters/gertrude\|Gertrude]].<br><br><br>Le ho dato delle lezioni di raccoglimento.<br>Ma non dovrebbe cantare. |  
+| LUCASTA | [[motifs/well\|Beh]], che faccio? |  
+| EGGERSON | Lasci che scenda io a spiegare alla signora Guzzard<br><br><br>e poi la accompagni su. |  
+| SIR CLAUDE | No, la voglio qui, Eggerson.<br><br><br>Vuoi accompagnarla su tu, Lucasta? |  
+| LUCASTA | Lo farò fare a B. |  
+| *(didascalia)* | [Esce LUCASTA] |  
+| SIR CLAUDE | Vorrei che tu organizzassi meglio gli [[motifs/time\|orari]] della servitù.<br><br><br>È un inizio davvero sfortunato. |  
+| LADY ELIZABETH | Ha fatto progressi, sotto la mia guida;<br><br><br>ma non avrebbe dovuto cantare. |  
+| SIR CLAUDE | [[motifs/well\|Bene]], siamo pronti? |  
+| *(didascalia)* | [Un colpo discreto. Entra KAGHAN, accompagnando MRS. GUZZARD. Esce KAGHAN] |  
+| SIR CLAUDE | Buongiorno, signora Guzzard. Devo scusarmi:<br>temo che ci sia stata una certa incompetenza domestica.<br>Avrebbero dovuto annunciarla. |  
+| MRS | GUZZARD.                                  Credo di essere stata puntuale.<br><br><br>Ma non mi è pesato affatto aspettare, Sir Claude.<br>So che lei è sempre molto occupato. |  
+| SIR CLAUDE | Anzitutto, mi permetta di presentarle mia moglie.<br><br><br>Lady Elizabeth Mulhammer. |  
+| LADY ELIZABETH | Buongiorno, signora Guzzard.<br><br><br>Lei non mi conosce, ma io so di lei:<br>abbiamo più cose in comune di quanto lei immagini. |  
+| MRS | GUZZARD. Suppone che intenda Colby? |  
+| LADY ELIZABETH | Sì. A che fare con Colby. |  
+| SIR CLAUDE | Elizabeth, sai che dobbiamo lasciarlo fare a Eggerson.<br>Questo è il signor Eggerson, signora Guzzard:<br>il mio segretario privato. Vale a dire<br>il predecessore di Colby, che si è ritirato di recente.<br>Ora vive… in campagna. Ma conosce tutta la storia:<br>ha goduto della mia fiducia — e posso dire, è mio amico —<br>da moltissimi anni. Perciò gli ho chiesto di essere presente.<br>[[concepts/hope\|Spero]] che non le dispiaccia. |  
+| MRS | GUZZARD.                  Perché dovrebbe dispiacermi?<br><br><br>Ho sentito parlare del signor Eggerson da Colby.<br>Sono lietissima di fare la sua conoscenza. |  
+| SIR CLAUDE | E ho pensato che potesse… condurre lui la riunione:<br><br><br>è l’[[motifs/soul\|anima]] stessa del tatto e della discrezione. |  
+| MRS | GUZZARD. Certamente, Sir Claude, se è questo che desidera.<br><br><br>Ma l’argomento di questo incontro —<br>che riguarda Colby, suppongo — è dunque così riservato? |  
+| EGGERSON | Sì, è proprio così che lo definirei, signora Guzzard.<br><br><br>Devo intendere, Sir Claude, che apra io la discussione? |  
+| SIR CLAUDE | Se vuole, Eggerson. |  
+| EGGERSON | Allora cominciamo.<br><br><br>La questione riguarda, come lei ha supposto, il signor Simpkins.<br>Riguarda inoltre un problema di paternità. |  
+| LADY ELIZABETH | O di maternità. |  
+| SIR CLAUDE | Non interrompere, Elizabeth. |  
+| MRS | GUZZARD. Non la seguo. |  
+| EGGERSON | Le cose stanno così, signora Guzzard.<br><br><br>Solo di recente Lady Elizabeth<br>ha sentito nominare il suo nome dal signor Simpkins.<br>L’hanno colpita il suo nome e il fatto che lei viva a Teddington.<br>E ora dobbiamo tornare indietro di molti anni:<br>[[motifs/well\|beh]], non poi tanti anni — quando si arriva alla mia età<br>il passato e il futuro sembrano entrambi brevissimi —<br>ma abbastanza indietro perché la domanda sia possibile.<br>Lady Elizabeth, prima del suo [[motifs/marriage\|matrimonio]],<br>ebbe un [[archetypes/child\|figlio]]… |  
+| LADY ELIZABETH | Un maschio. |  
+| EGGERSON | Ebbe un figlio<br><br><br>che non poté, date le circostanze, riconoscere.<br>Accade non di rado, signora Guzzard. |  
+| MRS | GUZZARD. Ne sono consapevole. So che accade. |  
+| EGGERSON | — Del quale si prese cura il padre.<br>Vale a dire: fu affidato alle cure<br>di una madre adottiva fino a nuovo avviso.<br>Purtroppo il padre morì all’improvviso… |  
+| LADY ELIZABETH | Fu travolto. Da un rinoceronte<br><br><br>in Tanganica. |  
+| SIR CLAUDE | Non è pertinente.<br><br><br>Lascia fare a Eggerson. |  
+| EGGERSON | Il padre morì all’estero.<br><br><br>Lady Elizabeth non conosceva il nome della signora<br>che aveva preso il [[archetypes/child\|bambino]]. O meglio, l’aveva dimenticato.<br>Non era, in ogni caso, in una posizione<br>tale da poter avviare delle ricerche.<br>Così, per molti anni, è rimasta senza un indizio<br>fino all’altro giorno. Questo figlio, signora Guzzard,<br>se è vivo, dev’essere ormai un uomo fatto.<br>Credo che lei non abbia avuto figli suoi;<br>ma sono certo che può capire. |  
+| MRS | GUZZARD.                                  Posso capire.<br><br><br>Ho avuto un [[archetypes/child\|figlio]], e l’ho perduto. Non nel modo<br>in cui è andato perduto il [[archetypes/child\|figlio]] di Lady Elizabeth.<br>[[concepts/hope\|Speriamo]] che il figlio le sia restituito. |  
+| EGGERSON | È esattamente ciò a cui miriamo.<br><br><br>Abbiamo un indizio — o quello che sembra un indizio.<br>Per questo Sir Claude le ha chiesto di essere presente. |  
+| MRS | GUZZARD. Pensate che io possa esservi d’aiuto? |  
+| EGGERSON | Sembra appena possibile. Pochi giorni fa,<br><br><br>come ho detto, Lady Elizabeth ha appreso il suo nome;<br>e quel nome le è parso familiare. |  
+| MRS | GUZZARD. Davvero? Non è un nome molto comune. |  
+| EGGERSON | È proprio questo che l’ha colpita. La signora Guzzard<br><br><br>di Teddington! Lady Elizabeth è convinta<br>che fosse a una signora Guzzard di Teddington<br>che venne affidato il suo [[archetypes/child\|figlio]] appena nato.<br>Certo, potrebbe sbagliarsi su Teddington… |  
+| LADY ELIZABETH | Non mi sbaglio su Teddington. |  
+| EGGERSON | Suggerivo soltanto, Lady Elizabeth,<br><br><br>che ci sono altri luoghi il cui nome suona come Teddington,<br>ma non molti nomi che suonino come Guzzard —<br>o se ce ne sono, sono altrettanto rari.<br>Ma, signora Guzzard, è qui che può aiutarci —<br>conosce lei qualche altra signora Guzzard? |  
+| MRS | GUZZARD.                                             Nessuna. |  
+| EGGERSON | Intendo dire, né a Teddington né altrove?<br><br><br>Ora devo farle una domanda più delicata:<br>ha mai, in qualche [[motifs/time\|momento]], preso in casa un [[archetypes/child\|bambino]] —<br>un [[archetypes/child\|bambino]], voglio dire, di genitori a lei ignoti —<br>a tali condizioni? |  
+| MRS | GUZZARD.                Sì, presi in casa un [[archetypes/child\|bambino]].<br><br><br>Mio marito e io eravamo senza figli… a quel [[motifs/time\|tempo]],<br>e molto poveri. Offriva due vantaggi. |  
+| EGGERSON | E conosceva il nome del padre<br><br><br>o quello della madre? |  
+| MRS | GUZZARD.         Non mi dissero né l’uno né l’altro.<br><br><br>Mi fecero capire che il [[archetypes/child\|bambino]] era molto [[motifs/well\|ben]] imparentato:<br>altrimenti non l’avrei preso.<br>Ma me lo portò una terza persona,<br>tramite la quale venivano fatti i pagamenti mensili. |  
+| EGGERSON | Le condizioni erano soddisfacenti? |  
+| MRS | GUZZARD.                                            Molto soddisfacenti —<br><br><br>finché, s’intende, il denaro arrivava. |  
+| EGGERSON | I pagamenti cessarono? |  
+| MRS | GUZZARD.                                                     Di colpo. |  
+| LADY ELIZABETH | Dev’essere stato quando Tony ebbe l’incidente. |  
+| MRS | GUZZARD. Mi fu comunicato che il padre era morto<br><br><br>senza fare testamento. |  
+| LADY ELIZABETH | Era molto sbadato. |  
+| MRS | GUZZARD. E che gli eredi non riconoscevano alcuna responsabilità.<br><br><br>La madre, suppongo, avrebbe potuto ottenere un provvedimento<br>se avesse potuto stabilire la paternità;<br>ma io non sapevo chi fosse! Che potevo fare? |  
+| LADY ELIZABETH | Oh, Claude, vedi? Capisci, Colby? |  
+| SIR CLAUDE | Non essere ancora così certa, Elizabeth. |  
+| LADY ELIZABETH | Non c’è alcun [[concepts/doubt\|dubbio]].<br><br><br>Colby è mio figlio. |  
+| MRS | GUZZARD.        Suo figlio, Lady Elizabeth?<br><br><br>Sta insinuando che io abbia tenuto un [[archetypes/child\|figlio]] suo<br>ingannando Sir Claude col far credere che fosse il suo? |  
+| SIR CLAUDE | È proprio questo il punto. Mia moglie si è convinta<br><br><br>che Colby sia suo figlio. Io so che è mio figlio.<br>E le ho chiesto di venire qui perché possa dirglielo. |  
+| EGGERSON | Non lo prenda come un’allusione personale,<br><br><br>signora Guzzard. Tutt’altro. Deve avere indulgenza<br>per una madre che ha [[concepts/hope\|sperato]] contro ogni speranza<br>di ritrovare il figlio. Si metta nei suoi panni.<br>Se lei avesse perduto suo figlio, in modo simile,<br>non si aggrapperebbe a qualsiasi fuscello<br>che offrisse una [[concepts/hope\|speranza]] di ritrovarlo? |  
+| MRS | GUZZARD.                                  Forse sì. |  
+| LADY ELIZABETH | Nella mia mente non c’è l’[[archetypes/shadow\|ombra]] di un [[concepts/doubt\|dubbio]].<br><br><br>Mi stupisce che lei, Eggerson, con la sua formazione giuridica,<br>parli di fuscelli! Colby è mio figlio. |  
+| MRS | GUZZARD. Date le circostanze, ignoro quell’osservazione. |  
+| EGGERSON | Posso versare una goccia d’olio su queste acque agitate?<br><br><br>Affrontiamo la questione da un altro lato,<br>e chiediamo alla signora Guzzard che ne fu del [[archetypes/child\|bambino]]<br>che prese in casa, e che potrebbe essere quello di Lady Elizabeth. |  
+| SIR CLAUDE | È una proposta molto sensata, Eggerson.<br><br><br>Un soffio di buonsenso. Grazie di questo. |  
+| MRS | GUZZARD. Ce ne separammo. Un bambino delizioso.<br><br><br>Fui felice di tenerlo finché i pagamenti arrivavano;<br>ma non potevamo permetterci di adottare il [[archetypes/child\|bambino]],<br>né di continuare a tenerlo, quando i pagamenti cessarono. |  
+| EGGERSON | E come se ne liberò? |  
+| MRS | GUZZARD.                                                  Avevamo dei vicini<br><br><br>senza figli, e ansiosi di adottare un [[archetypes/child\|bambino]].<br>Se n’erano invaghiti. Così l’adottarono.<br>Poi lasciarono Teddington e li perdemmo di vista. |  
+| EGGERSON | Ma ne conosce il nome? |  
+| MRS | GUZZARD.                                       Sì, ne conosco il nome:<br><br><br>come il mio, un nome piuttosto insolito.<br>Forse sarebbe possibile rintracciarli.<br>Il nome era Kaghan. |  
+| SIR CLAUDE | Si chiamavano Kaghan! |  
+| MRS | GUZZARD. K-A-G-H-A-N. Un nome strano.<br><br><br>Erano ottime persone. Non conformisti. |  
+| EGGERSON | E il [[archetypes/child\|bambino]], suppongo, aveva un nome di battesimo? |  
+| MRS | GUZZARD. Nulla indicava che il [[archetypes/child\|bambino]] fosse stato battezzato<br><br><br>quando venne da noi; ma non potevamo esserne certi.<br>Mio marito era scrupoloso in queste cose,<br>e così gli facemmo impartire il battesimo condizionato. |  
+| EGGERSON | Che nome gli deste? |  
+| MRS | GUZZARD.                                             Chiamammo il [[archetypes/child\|bambino]] Barnaba. |  
+| LADY ELIZABETH | Barnaba? Non c’è mai stato un nome simile<br><br><br>nella mia famiglia. Né, ne sono certa, in quella di suo padre.<br>Ma come mai fu chiamato Colby? |  
+| SIR CLAUDE | Ma, Elizabeth, non è Colby!<br><br><br>Non vedi chi è? |  
+| MRS | GUZZARD.                    Il nome lo scelse mio marito.<br><br><br>Ci eravamo sposati nella chiesa di San Barnaba. |  
+| COLBY | Barnaba Kaghan. È lui il cuginetto<br><br><br>che morì? Non ricordi, zia Sarah,<br>quando trovai un sonaglio e un campanellino,<br>e tu mi dicesti che avevo avuto un cuginetto<br>che era morto? |  
+| MRS | GUZZARD.      Sì, Colby, è ciò che ti dissi. |  
+| LADY ELIZABETH | Dunque il mio [[archetypes/child\|figlio]] è vivo. Ne ero sicura.<br><br><br>Ma credo che Colby sia Barnaba. |  
+| SIR CLAUDE | No, Elizabeth, Barnaba è Barnaba.<br><br><br>Devo spiegarle questo, signora Guzzard.<br>Ho un giovane collega molto promettente —<br>anzi, il giovanotto che l’ha accompagnata su —<br>che si chiama Barnaba Kaghan. |  
+| LADY ELIZABETH | Barnaba? |  
+| SIR CLAUDE | Sì, Elizabeth. A volte deve firmare col nome per esteso.<br><br><br>Ma quel nome non gli piace, per qualche ragione;<br>così lo chiamiamo B. |  
+| MRS | GUZZARD.         Un nome ottimo.<br><br><br>Dovrebbe esserne fiero. |  
+| LADY ELIZABETH | Quanti anni ha questo Barnaba? |  
+| SIR CLAUDE | Ventotto, credo. |  
+| MRS | GUZZARD.                                          Dovrebbe averne ventotto. |  
+| LADY ELIZABETH | Allora devo aver sbagliato i conti. |  
+| SIR CLAUDE | Questo non mi sorprenderebbe. |  
+| LADY ELIZABETH | Sì, che anno era?<br><br><br>Mi sto confondendo tanto. Con Colby che è Barnaba —<br>voglio dire, che non è Barnaba. E il signor Kaghan<br>che è Barnaba. Immagino che mi ci abituerò. |  
+| COLBY | Ma lui aspetta di sotto! Non è questo il momento<br>perché io lo faccia salire? E anche Lucasta? |  
+| EGGERSON | Ottima proposta, signor Simpkins. |  
+| *(didascalia)* | [Esce COLBY] |  
+| EGGERSON | E ora, se lei è d’accordo, Lady Elizabeth,<br><br><br>possiamo interrogare il signor Kaghan sui suoi genitori;<br>e se il signore e la signora Kaghan sono ancora vivi<br>la signora Guzzard dovrebbe poterli identificare. |  
+| LADY ELIZABETH | E questo proverà che il signor Kaghan —<br><br><br>questo signor Kaghan — è mio figlio? |  
+| EGGERSON | Crea una probabilità intrinseca —<br><br><br>se è questa l’espressione giusta. |  
+| SIR CLAUDE | Credo, Elizabeth,<br><br><br>che tu abbia ritrovato tuo figlio. |  
+| EGGERSON | Salvo conferma. |  
+| LADY ELIZABETH | E salvo la mia capacità di adattarmici. |  
+| *(didascalia)* | [Rientra COLBY, con KAGHAN e LUCASTA] |  
+| COLBY | Ho detto loro di prepararsi a una sorpresa. |  
+| LADY ELIZABETH | Barnaba! Il suo nome è Barnaba? |  
+| KAGHAN | Ma sì, è così. Gliel’ha detto lei, Sir Claude? |  
+| SIR CLAUDE | No, B. È stata la signora Guzzard a rivelarlo.<br><br><br>Questo è il signor Barnaba Kaghan —<br>la signora Guzzard. E… mia figlia Lucasta. |  
+| KAGHAN | Ma come faceva la signora Guzzard a sapere il mio nome? |  
+| MRS | GUZZARD. Il signore e la signora Alfred Kaghan erano i suoi genitori? |  
+| KAGHAN | Sì. Lo sono. I miei genitori adottivi. |  
+| MRS | GUZZARD. E vissero, un [[motifs/time\|tempo]], a Teddington? |  
+| KAGHAN | Credo di sì. Ma perché le interessa? |  
+| MRS | GUZZARD. Lady Elizabeth, credo che questo sia suo figlio.<br><br><br>Se è così, sono discolpata dal suo ingiusto sospetto. |  
+| EGGERSON | Signor Kaghan, i suoi genitori adottivi sono vivi? |  
+| KAGHAN | Nel [[characters/kent\|Kent]]. Volevano ritirarsi in campagna.<br><br><br>Così trovai loro un posticino vicino a Sevenoaks<br>dove tengono le [[motifs/bees\|api]]. Ma perché me lo chiede? |  
+| LADY ELIZABETH | Perché, Barnaba, pare che lei sia mio figlio. |  
+| EGGERSON | Vorrà ottenere conferma<br><br><br>di questa interessante scoperta, signor Kaghan,<br>mettendo i suoi genitori adottivi in contatto<br>con la signora Guzzard. Tocca a loro confermare<br>di averla presa, da [[archetypes/child\|bambino]], dalla signora Guzzard,<br>alla quale, a quanto pare, lei era stato affidato dapprima. |  
+| KAGHAN | Non so proprio quale emozione registrare… |  
+| LUCASTA | Non hai più bisogno di parlare quella lingua:<br><br><br>di’ semplicemente che sei imbarazzato. |  
+| KAGHAN | [[motifs/well\|Beh]], sono imbarazzato.<br><br><br>Se Lady Elizabeth è mia madre… |  
+| LADY ELIZABETH | Non c’è il minimo [[concepts/doubt\|dubbio]] al riguardo, Barnaba.<br><br><br>Sono sua madre. |  
+| KAGHAN | Ma chi era mio padre? |  
+| LADY ELIZABETH | Morì all’improvviso. Per un incidente fatale,<br><br><br>quando lei era piccolissimo. Ecco perché fu adottato. |  
+| KAGHAN | Ma che cosa faceva? Era un finanziere? |  
+| LADY ELIZABETH | Non era portato per i numeri. Il suo talento per gli affari<br><br><br>le viene, suppongo, dal lato mio della famiglia.<br>Ma era in un reggimento ottimo —<br>per un po’ di [[motifs/time\|tempo]], almeno. |  
+| KAGHAN | [[motifs/well\|Beh]], dovrò abituarmici.<br><br><br>Ma vorrei sapere come devo rivolgermi a lei,<br>Lady Elizabeth. Sono sempre stato abituato<br>a considerare la signora Kaghan come mia madre. |  
+| LADY ELIZABETH | Allora, per evitare ogni pericolo di confusione,<br><br><br>può chiamarmi zia Elizabeth. |  
+| KAGHAN | Certamente più facile. |  
+| LADY ELIZABETH | E vorrò conoscerli.<br><br><br>Claude, dobbiamo invitare i Kaghan a cena. |  
+| SIR CLAUDE | Ma certo, Elizabeth. |  
+| KAGHAN | Ma, Lady Elizabeth —<br><br><br>voglio dire, zia Elizabeth: se la chiamo zia Elizabeth,<br>le dispiacerebbe molto chiamarmi… semplicemente «B»? |  
+| LADY ELIZABETH | Certamente, se lo preferisce, Barnaba. |  
+| LUCASTA | Perché non ti piace il nome di Barnaba? |  
+| KAGHAN | Non voglio che la gente mi chiami «Barney» —<br><br><br>Barney Kaghan! Kaghan va benissimo.<br>Ma Barney Kaghan — suona un po’ pacchiano:<br>non farebbe la giusta impressione nella [[motifs/city\|City]]. |  
+| LUCASTA | Quando sarai consigliere comunale, sarai Sir Barney Kaghan! |  
+| LADY ELIZABETH | E sono contentissima che annunciate il vostro fidanzamento.<br><br><br>Lucasta, mi occuperò io del tuo matrimonio. |  
+| LUCASTA | Avevamo pensato di sposarci in tutta discrezione<br><br><br>in un municipio. |  
+| LADY ELIZABETH | Dovete sposarvi in chiesa. |  
+| MRS | GUZZARD. Sono lieta di sentirglielo dire, Lady Elizabeth.<br><br><br>Ma è soddisfatta? |  
+| LADY ELIZABETH | Soddisfatta? Di che cosa? |  
+| MRS | GUZZARD. Che i suoi sospetti su di me fossero del tutto infondati. |  
+| LADY ELIZABETH | Oh, signora Guzzard, non avevo alcun sospetto!<br><br><br>Pensavo che ci fosse stata una confusione — tutto qui. |  
+| MRS | GUZZARD. Temevo che nella sua mente ci fosse una confusione<br><br><br>fra il significato di confusione e quello di impostura. |  
+| SIR CLAUDE | Non credo che ci sia più alcuna confusione:<br><br><br>sono certo che mia moglie è perfettamente convinta;<br>e la… madre del signor Kaghan, ne sono sicuro, lo confermerà. |  
+| MRS | GUZZARD. Questo è nel mio interesse quanto in quello di chiunque altro.<br><br><br>Ma sua moglie si dirà soddisfatta,<br>quando avrà le prove che i Kaghan forniranno,<br>di riconoscere Barnaba Kaghan come suo figlio?<br>[a LADY ELIZABETH] È contenta di averlo come figlio? |  
+| SIR CLAUDE | Mi pare una domanda strana, signora Guzzard. |  
+| MRS | GUZZARD. Sono stata chiamata qui a rispondere a domande strane —<br><br><br>e ora tocca a me farle.<br>Vorrei esaudire i desideri di tutti. |  
+| LADY ELIZABETH | Oh, certo… Sì, sono sicura… Sarò felicissima. |  
+| MRS | GUZZARD. Lei desiderava suo figlio, e ora ha suo figlio.<br><br><br>Tutti noi dobbiamo adattarci<br>al desiderio che ci viene esaudito. Può essere un processo doloroso,<br>lo so bene. E lei, Barnaba Kaghan,<br>è soddisfatto di scoprirsi figlio<br>di Lady Elizabeth Mulhammer? |  
+| KAGHAN | È molto meglio che essere un trovatello —<br><br><br>se saprò esserne all’altezza. E… sì, certo,<br>se riuscirò a metterla a posto con i miei genitori.<br>Ci sono affezionato, sa. |  
+| LADY ELIZABETH | Ci penserò io, Barnaba. |  
+| KAGHAN | B. — se non le dispiace, zia Elizabeth. |  
+| LADY ELIZABETH | B. — e sono certa che diventeremo grandi amici. |  
+| EGGERSON | Sono certo che non desideriamo altro. |  
+| MRS | GUZZARD. I desideri, una volta realizzati, a volte si rivoltano<br><br><br>contro chi li ha formulati.<br>[a LADY ELIZABETH e KAGHAN] Non con voi, credo.<br>[a LUCASTA] Né, per quanto posso giudicare, con lei.<br><br><br>Forse lei è qui la più saggia fra chi ha desiderato:<br>non le chiederò se è soddisfatta<br>di essere la moglie di Barnaba Kaghan,<br>la nuora di Lady Elizabeth,<br>e la figlia di [[characters/sir-claude-mulhammer\|Sir Claude Mulhammer]]. |  
+| SIR CLAUDE | Questo riguarda me — che lei sia soddisfatta<br><br><br>di essere mia figlia. |  
+| MRS | GUZZARD.            E ora, Colby,<br><br><br>devo chiederti: hai avuto ciò che desideravi? |  
+| SIR CLAUDE | Colby voleva soltanto essere certo della [[concepts/truth\|verità]]. |  
+| COLBY | È una domanda molto strana, zia Sarah:<br><br><br>alla quale posso dare solo una risposta strana.<br>Sir Claude ha ragione: volevo conoscere la [[concepts/truth\|verità]].<br>Quale essa sia, non importa. Tutto ciò che volevo era liberarmi<br>dall’assillo di sapere che c’è un fatto<br>che non si conosce. Ma il fatto in sé<br>è irrilevante, una volta che lo si conosce. |  
+| MRS | GUZZARD. Non avevi una preferenza? Fra un padre e una madre? |  
+| COLBY | Non ho mai avuto né padre né madre —<br><br><br>per B. è diverso. Lui ha avuto i genitori adottivi,<br>e così può permettersi un altro legame.<br>Lasciate mia madre riposare in pace. Quanto a un padre —<br>io ho l’idea di un padre.<br>Mi è venuta proprio ora. Vorrei un padre<br>che non ho mai conosciuto e che non potrei conoscere adesso,<br>perché sarebbe morto prima che io nascessi<br>o prima che potessi ricordarlo; che potrei conoscere<br>soltanto per sentito dire, per documenti —<br>la storia della sua vita, del suo successo o del suo fallimento…<br>forse più del suo fallimento che del suo successo —<br>per gli oggetti che gli appartennero, e per fotografie sbiadite<br>in cui cercherei di decifrare una somiglianza;<br>la cui immagine potrei creare nella mia mente<br>per vivere con quell’immagine. Un uomo comune<br>la cui vita io potessi in qualche modo perpetuare<br>essendo la persona che lui avrebbe voluto essere<br>e facendo le cose che lui aveva desiderato fare. |  
+| MRS | GUZZARD. Di chi vorresti essere figlio, Colby:<br>di Sir Claude — o di qualche altro uomo,<br>oscuro e silenzioso? Un uomo morto, Colby.<br>Sta’ attento a ciò che dici. |  
+| COLBY | Di un uomo morto e oscuro. |  
+| MRS | GUZZARD. Avrai il tuo desiderio. E quando avrai il tuo desiderio<br><br><br>dovrai venire a patti con esso. Avrai un padre<br>morto, e a te sconosciuto. |  
+| SIR CLAUDE | Che cosa vuol dire? |  
+| MRS | GUZZARD. Colby non è suo figlio, Sir Claude. |  
+| COLBY | Chi era mio padre, allora? |  
+| MRS | GUZZARD.                                 Herbert Guzzard.<br><br><br>Sei figlio di un musicista deluso. |  
+| COLBY | E chi era mia madre? |  
+| MRS | GUZZARD.                                 Lascia riposare in pace tua madre.<br><br><br>Ero io tua madre; ma scelsi di essere tua zia.<br><br><br>Così puoi avere ciò che desideri, e non avere madre. |  
+| SIR CLAUDE | Signora Guzzard, questo è perfettamente incredibile!<br><br><br>Non può aver portato avanti un simile [[concepts/deception\|inganno]]<br>per tutti questi anni. E perché avrebbe dovuto ingannarmi? |  
+| EGGERSON | Signora Guzzard, può comprovare questa dichiarazione? |  
+| MRS | GUZZARD. Registrazione di nascita. A Herbert e Sarah Guzzard,<br><br><br>un figlio. |  
+| EGGERSON | E che ne è di sua sorella e del suo [[archetypes/child\|figlio]]? |  
+| MRS | GUZZARD. Registrazione di [[motifs/death\|morte]]. Il [[archetypes/child\|bambino]] non nacque mai. |  
+| SIR CLAUDE | Non ci credo. Semplicemente non posso crederci.<br><br><br>Signora Guzzard, lei sta inventando questa finzione<br>in risposta a ciò che Colby ha detto di volere. |  
+| EGGERSON | Esaminerò io stesso i registri, Sir Claude.<br><br><br>Non che [[concepts/doubt\|dubitiamo]] della sua parola, signora Guzzard:<br>ma in una faccenda di tale estrema importanza<br>capirà la necessità di una conferma esatta. |  
+| MRS | GUZZARD. Lo capisco, signor Eggerson. Molto [[motifs/well\|bene]]. |  
+| SIR CLAUDE | Io non ci crederò. Non crederò a quei registri.<br><br><br>Pretende di aver portato avanti un [[concepts/deception\|inganno]]<br>per venticinque anni? È del tutto impossibile. |  
+| MRS | GUZZARD. Non avevo intenzione di ingannarla, Sir Claude,<br><br><br>finché non si ingannò da sé. Quando lei andò in Canada<br>mia sorella scoprì che aspettava un [[archetypes/child\|bambino]]:<br>questo è vero. Anch’io ne aspettavo uno.<br>Questo lei non lo sapeva. Non la riguardava.<br>Come ho appena detto, mia sorella morì<br>prima che il [[archetypes/child\|bambino]] potesse nascere. Lei era lontanissimo;<br>le mandai un messaggio, che non le giunse mai.<br>Al suo ritorno venne subito da me;<br>e mi trovai a dover essere io a darle la notizia.<br>Lei vide il [[archetypes/child\|bambino]]. Diede per scontato che fosse suo;<br>ed era così contento che, in quel momento, mi trattenni<br>dal disingannarla. E poi pensai — perché no?<br>Anche mio marito era morto. Ero rimasta poverissima.<br>Se le avessi lasciato credere che il [[archetypes/child\|bambino]] era suo,<br>mio figlio avrebbe avuto assicurato un avvio decoroso nella vita —<br>questo lo sapevo. E l’avrebbe reso così felice!<br>Se avessi detto che il [[archetypes/child\|bambino]] era mio, che avvenire avrebbe avuto?<br>E poi mi spaventai di ciò che avevo fatto.<br>Benché non avessi mai detto «questo [[archetypes/child\|bambino]] è suo»,<br>temevo che mi chiedesse il certificato di nascita.<br>Non me lo chiese mai. E così andò avanti. |  
+| SIR CLAUDE | È orribilmente plausibile. Ma non può essere vero. |  
+| MRS | GUZZARD. Consideri, Sir Claude. Le direi tutto questo<br><br><br>se non fosse vero? Dicendole la [[concepts/truth\|verità]]<br>sacrifico le mie ambizioni per Colby.<br>Sacrifico anche il mio sacrificio di prima.<br>Questo è ancora più grande del sacrificio che feci<br>quando la lasciai rivendicarlo. Le sembra cosa da poco<br>per me vedere l’[[concepts/ambition\|ambizione]] della mia vita ridotta a nulla?<br>Quando rinunciai al mio posto di madre di Colby<br>rinunciai a qualcosa che non avrei mai potuto riavere.<br>Non capisce che questa rivelazione<br>spinge il coltello più a fondo e lo rigira nella piaga?<br>Avrei preferito di gran lunga che i fatti fossero altri. |  
+| COLBY | Ti credo. Devo crederti:<br><br><br>questo mi dà la [[concepts/freedom\|libertà]]. |  
+| SIR CLAUDE | Ma, Colby —<br><br><br>se questo fosse vero — certo che non può essere vero! —<br>ma vedo che lei ci crede. Vuole crederci.<br>[[motifs/well\|Bene]], allora ci creda. Ma non lasci che questo cambi<br>i nostri rapporti. O, forse, in meglio?<br>Forse saremo più felici insieme se lei penserà<br>che io non sono suo padre. L’accetterò.<br>Purché lei resti con me. Non farà alcuna differenza<br>per i miei progetti sul suo avvenire. |  
+| COLBY | Grazie, Sir Claude.<br><br><br>Lei è un uomo molto generoso. Ma ora che so chi era mio padre<br>devo seguire mio padre — così da poter arrivare a conoscerlo. |  
+| SIR CLAUDE | Che cosa vuol dire? |  
+| COLBY | Voglio fare l’organista.<br><br><br>Non importa il successo —<br>prima ho mirato troppo in alto — oltre le mie capacità.<br>Credevo di non voler fare l’organista<br>quando scoprii di non avere alcuna possibilità di arrivare in cima —<br>cioè di diventare l’organista di una [[settings/cathedral\|cattedrale]].<br>Ma mio padre fu un organista senza successo. |  
+| MRS | GUZZARD. Dovresti dire, Colby, non molto fortunato. |  
+| COLBY | E io desidero seguire mio padre. |  
+| SIR CLAUDE | Ma, Colby:<br><br><br>non ricorda una conversazione che avemmo —<br>tanto tempo fa! — quando ci confidammo le nostre ambizioni<br>e la nostra delusione? E lei descrisse ciò che provava<br>cominciando a imparare le vie degli affari;<br>l’esaltazione di scoprire che sapeva trattare<br>materie che avrebbe creduto tanto estranee;<br>e il modo in cui sentiva di star cambiando?<br>Quella conversazione mi avrebbe convinto,<br>senza nessun’altra prova, che lei era mio figlio,<br>perché descriveva esattamente la mia esperienza.<br>Non significa nulla per lei l’esperienza che abbiamo condiviso?<br>Il cielo lo sa — e lei lo sa — che non ho posto alcun ostacolo<br>sulla via delle sue ambizioni musicali —<br>se solo fosse stato in grado di realizzarle.<br>Creda pure, se vuole, che io non sono suo padre:<br>l’accetterò. Non avanzo pretese su di lei —<br>tranne la pretesa della nostra somiglianza reciproca.<br>Abbiamo attraversato la stessa [[concepts/disillusionment\|disillusione]]:<br>voglio che ne traiamo il meglio, insieme. |  
+| COLBY | No, Sir Claude. Mi duole ferirla<br><br><br>come la sto ferendo. Ma è cosa molto diversa.<br>Finché credevo che lei fosse mio padre<br>mi accontentavo di avere avuto le stesse ambizioni<br>e di accettarne allo stesso modo il fallimento.<br>Lei aveva suo padre davanti a sé, come modello;<br>conosceva la sua eredità. Ora io conosco la mia. |  
+| SIR CLAUDE | Non le chiederò mai di considerarmi un padre;<br><br><br>tutto ciò che le chiedo è di considerarmi un amico. |  
+| COLBY | Ma lei continuerebbe a pensarmi come suo figlio.<br><br><br>Non può esistere un rapporto di padre e figlio<br>se non funziona nei due sensi. Che lei mi consideri —<br>come farebbe — suo figlio, quando io non potrei pensare a lei<br>come a mio padre: se accettassi questo<br>sarei colpevole verso di lei. Le voglio troppo bene.<br>Lei è diventato un uomo senza illusioni<br>su di sé, e senza ambizioni.<br>Ora che io ho abbandonato le mie illusioni e le mie ambizioni<br><br><br>non resta che l’[[motifs/love\|amore]]. Ma non su false premesse:<br>ecco perché devo lasciarla. |  
+| SIR CLAUDE | Eggerson!<br><br><br>Non riesce a persuaderlo? |  
+| LADY ELIZABETH | Sì. Povero il mio Claude!<br><br><br>Cerchi di aiutarlo, Eggerson. |  
+| EGGERSON | Non oserei.<br><br><br>Il signor Simpkins è un uomo che sa quel che vuole.<br>È vero, signor Simpkins, che ciò che [[motifs/desire\|desidera]]<br>è diventare organista di qualche chiesa parrocchiale? |  
+| COLBY | È questo che voglio. Se qualcuno mi prenderà. |  
+| EGGERSON | Se è così, mi capita di sapere di un posto vacante<br><br><br>proprio nella mia parrocchia, a Joshua Park —<br>se le andasse. L’organista che avevamo<br>è morto due mesi fa. Ne stiamo cercando un altro. |  
+| COLBY | Crede che accetterebbero di mettermi alla prova? |  
+| EGGERSON | Metterla alla prova? Ne sono certo.<br><br><br>Pare che i buoni organisti non abbiano voglia di venire a Joshua Park. |  
+| COLBY | Ma le ho detto che non sono un organista molto bravo! |  
+| EGGERSON | Non dica così, signor Simpkins, finché non avrà provato il nostro organo! |  
+| COLBY | [[motifs/well\|Beh]], se riuscisse a indurli a provarmi… |  
+| EGGERSON | Il Consiglio parrocchiale ne sarà felicissimo,<br><br><br>e io ho una certa influenza. Sono il fabbriciere del Vicario. |  
+| COLBY | Vorrei fare domanda. |  
+| EGGERSON | Lo stipendio è modesto —<br><br><br>modestissimo, temo. Non basta per viverci.<br>Dovremo pensare ad altri modi<br>di integrare il reddito. Lezioni di pianoforte? —<br>come misura provvisoria; perché, signor Simpkins —<br>[[concepts/hope\|spero]] che non lo prenda come un’impertinenza —<br>non la vedo passare tutta la vita come organista.<br>Credo che arriverà a scoprire di avere un’altra vocazione.<br>Abbiamo lavorato insieme ogni giorno, sa,<br>per un bel po’ di [[motifs/time\|tempo]], e l’ho osservata da vicino.<br>Signor Simpkins! Penserà a studiare per prendere gli ordini.<br>E le resterà la musica. Ma sì, signor Simpkins,<br>Joshua Park potrebbe essere solo un trampolino<br>verso un posto di precentore! E un canonicato! |  
+| COLBY | [[motifs/cross\|Attraverseremo]] quel ponte quando ci arriveremo, Eggers.<br><br><br>Oh, mi scusi… |  
+| EGGERSON | Non si scusi: sono felicissimo.<br><br><br>E a proposito, un punto pratico:<br>se accettasse il posto, vorrà orientarsi un po’<br>a Joshua Park prima di scegliere un alloggio;<br>noi abbiamo una stanza libera. Saremmo felicissimi<br>se volesse fermarsi da noi finché non si sia sistemato. |  
+| COLBY | Ne sarei davvero lietissimo — se la signora Eggerson fosse d’accordo. |  
+| EGGERSON | Non ci sarà nessuno più contento della signora E.;<br><br><br>di questo posso assicurarla. |  
+| MRS | GUZZARD.                    Signor Eggerson,<br><br><br>non posso vedere le cose come lei,<br>essendo stata io stessa moglie di un organista;<br>ma anche lei, credo, ha avuto un desiderio esaudito.<br>— Credo che questo colloquio possa ormai considerarsi chiuso.<br>Se vuole scusarmi, Sir Claude… |  
+| SIR CLAUDE | Scusarla? Sì. |  
+| MRS | GUZZARD. Tornerò a Teddington. Colby,<br><br><br>vuoi chiamarmi un taxi per andare a Waterloo? |  
+| COLBY | Chiamarti un taxi? Sì, zia Sarah;<br><br><br>ma dovrei accompagnarti a [[motifs/home\|casa]]. |  
+| MRS | GUZZARD.                         A [[motifs/home\|casa]]? Solo fino a un taxi.<br><br><br>Le dispiace se mi congedo, Sir Claude?<br>Qui non servo più. |  
+| *(didascalia)* | [Esce COLBY] |  
+| SIR CLAUDE | Dispiacermi? E che cosa mi dispiace ormai? |  
+| MRS | GUZZARD. Allora le dico addio. Avete avuto tutti ciò che desideravate,<br><br><br>in una forma o nell’altra. Lei e io, Sir Claude,<br>avemmo i nostri desideri venticinque anni fa;<br><br><br>ma non ci accorgemmo, quando li avemmo,<br>che nel contratto c’era una clausola di scadenza a [[motifs/time\|termine]]. |  
+| SIR CLAUDE | Che cosa? Ah. Addio, signora Guzzard. |  
+| *(didascalia)* | [Esce MRS. GUZZARD] |  
+| SIR CLAUDE | Che è successo? Se ne sono andati? Colby torna? |  
+| LADY ELIZABETH | Povero il mio Claude! |  
+| *(didascalia)* | [LUCASTA attraversa la scena verso SIR CLAUDE e si inginocchia accanto a lui] |  
+| KAGHAN | Sa, Claude, credo che abbiamo fatto tutti lo stesso errore —<br><br><br>tutti tranne Eggers… |  
+| EGGERSON | Io, signor Kaghan? |  
+| KAGHAN | Volevamo che Colby fosse qualcosa che non era. |  
+| LADY ELIZABETH | Immagino che valga per te e per me, Claude.<br><br><br>Fra il non sapere che cosa gli altri vogliono da noi<br>e il non sapere che cosa dobbiamo chiedere agli altri,<br>si fanno degli errori! Ma intendo fare meglio.<br>Claude, dobbiamo cercare di capire i nostri figli. |  
+| KAGHAN | E a noi piacerebbe capire voi…<br><br><br>voglio dire, includo tutti e due,<br>Claude… e zia Elizabeth.<br>Sa, Claude, sia Lucasta sia io<br>vorremmo significare qualcosa per lei… se ce lo permettesse;<br>e ci prenderemmo la responsabilità di significarlo davvero. |  
+| *(didascalia)* | [LUCASTA cinge SIR CLAUDE con le braccia] |  
+| SIR CLAUDE | Non lasciarmi, Lucasta.<br><br><br>Eggerson! Le crede davvero? |  
+| *(didascalia)* | [EGGERSON annuisce] |  
+| SIR CLAUDE | SIPARIO<br>Gli interpreti della prima rappresentazione al<br>Festival di Edimburgo<br>25 agosto – 5 settembre 1953<br><br><br>[[characters/sir-claude-mulhammer\|Sir Claude Mulhammer]]<br>PAUL ROGERS<br>Eggerson<br>ALAN WEBB<br>[[characters/colby-simpkins\|Colby Simpkins]]<br>DENHOLM ELLIOTT<br>B. Kaghan<br>PETER [[characters/jones\|JONES]]<br>Lucasta Angel<br>MARGARET LEIGHTON<br>Lady Elizabeth Mulhammer<br>ISABEL JEANS<br>Mrs. Guzzard<br>ALISON LEGGATT<br>Produzione di HENRY SHEREK<br>Regia di E. MARTIN BROWNE<br>Scene di HUTCHINSON SCOTT<br>* Le parole di Lady Elizabeth fuori scena non sono destinate a essere udite distintamente dal pubblico in teatro.<br><br>IL GRANDE STATISTA<br>A MIA MOGLIE<br>a cui devo la gioia balzante<br>che ravviva i miei sensi nel tempo della veglia<br>e il ritmo che governa il riposo del nostro tempo del sonno,<br>il respiro all’unisono<br>degli amanti…<br>che pensano gli stessi pensieri senza bisogno di parole<br>e balbettano le stesse parole senza bisogno di senso:<br>a te dedico questo libro, per restituire come posso<br>con parole una piccola parte di ciò che tu mi hai dato.<br>Le parole dicono ciò che dicono, ma alcune hanno un senso ulteriore<br>per te e per me soltanto.<br>Personaggi<br>[[characters/monica-claverton-ferry\|MONICA CLAVERTON-FERRY]]<br>CHARLES HEMINGTON<br>LAMBERT<br>[[characters/lord-claverton\|LORD CLAVERTON]]<br>[[characters/federico-gomez\|FEDERICO GOMEZ]] |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1" data-title="The Confidential Clerk — Act I" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/orphan,archetype/shadow,motif/birds,motif/childhood,motif/city,motif/death,motif/garden,motif/grave,motif/home,motif/memory,motif/night,motif/spring,motif/time,motif/well,motif/window,motif/winter,concept/ambition,concept/deception,concept/doubt,concept/hope,concept/identity,concept/self,concept/truth,concept/wonder,setting/london,setting/paris,character/colby_simpkins,character/gertrude,character/sir_claude_mulhammer,character/sunday"></span>

@@ -11,7 +11,12 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/imagination-fragment-heroic-couplet" data-author="Coleridge" data-workhref="works/imagination-·-fragment-·-heroic-couplet-(coleridge)"></div>
 
 
-<span class="atom-split" data-atom="013_an_invocation" data-title="AN INVOCATION" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,concept/imagination,concept/the_artist_and_society,concept/joy,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+AN INVOCATION · FIRST DRAFT: AN EFFUSION AT EVENING · MELANCHOLY · THE EOLIAN HARP · ARGUMENT · THIS LIME-TREE BOWER MY PRISON · KUBLA KHAN · MAHOMET · APOLOGIA PRO VITA SUA · AD VILMUM AXIOLOGUM · FANCY IN NUBIBUS OR THE POET IN THE CLOUDS · REASON · TO THE YOUNG ARTIST: KAYSER OF KASERWERTH · FRAGMENTS FROM A NOTEBOOK · FRAGMENTS · A BECK IN WINTER · EPIGRAM ON KEPLER · TRANSLATION OF A FRAGMENT OF HERACLITUS · A SIMILE · TROCHAICS · IAMBICS · NONSENSE · A PLAINTIVE MOVEMENT · NONSENSE VERSES · EXPERIMENTS IN METRE
+
+
+
+
+<span class="atom-split" data-atom="013_an_invocation" data-title="AN INVOCATION" data-chapter="" data-kind="intro"></span>
 
 
 Sweet Muse! companion of my every hour!  
@@ -39,7 +44,7 @@ Spandi sui miei Lineamenti un rossore di Gioia!
 
 
 
-<span class="atom-split" data-atom="047_first_draft_an_effusion_at_evening" data-title="FIRST DRAFT: AN EFFUSION AT EVENING" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/nature,motif/storm,motif/river,concept/imagination,concept/love_romantic,concept/hope,concept/the_sublime,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="047_first_draft_an_effusion_at_evening" data-title="FIRST DRAFT: AN EFFUSION AT EVENING" data-chapter="" data-kind="intro"></span>
 
 
 WRITTEN IN AUGUST, 1792  
@@ -191,7 +196,7 @@ Finché gelida e umida la [[motifs/night|Notte]] senza luna discenda!
 
 
 
-<span class="atom-split" data-atom="076_melancholy" data-title="MELANCHOLY" data-chapter="" data-kind="intro" data-tags="motif/ruins,motif/dreams,motif/sleep,concept/melancholy,concept/the_grotesque,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="076_melancholy" data-title="MELANCHOLY" data-chapter="" data-kind="intro"></span>
 
 
 A [[forms/fragment|FRAGMENT]]  
@@ -227,7 +232,7 @@ Strano era il sogno ——
 
 
 
-<span class="atom-split" data-atom="104_the_eolian_harp" data-title="THE EOLIAN HARP" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/music_and_song,motif/wind,motif/light_in_sound,motif/nature,concept/the_one_life,concept/imagination,concept/faith_and_doubt,concept/love_romantic,form/conversation_poem,form/blank_verse,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="104_the_eolian_harp" data-title="THE EOLIAN HARP" data-chapter="" data-kind="intro"></span>
 
 
 COMPOSED AT CLEVEDON, SOMERSETSHIRE  
@@ -371,7 +376,7 @@ Pace, e questa Casetta, e te, Fanciulla [[concepts/honour|onorata]] dal cuore!
 
 
 
-<span class="atom-split" data-atom="126_argument" data-title="ARGUMENT" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/blood,concept/providence,concept/war_and_its_cost,concept/nationalism_and_patriotism,form/pindaric_ode,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="126_argument" data-title="ARGUMENT" data-chapter="" data-kind="intro"></span>
 
 
 The Ode commences with an address to the Divine [[concepts/providence|Providence]] that  
@@ -743,7 +748,7 @@ L’Immagine di Dio, sorella dei Serafini.
 
 
 
-<span class="atom-split" data-atom="134_this_lime-tree_bower_my_prison" data-title="THIS LIME-TREE BOWER MY PRISON" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/birds,concept/imagination,concept/friendship,concept/joy,form/blank_verse,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="134_this_lime-tree_bower_my_prison" data-title="THIS LIME-TREE BOWER MY PRISON" data-chapter="" data-kind="intro"></span>
 
 
 ADDRESSED TO CHARLES [[motifs/lamb|LAMB]], OF THE INDIA HOUSE, [[settings/london|LONDON]]  
@@ -923,7 +928,7 @@ Nessun suono è dissonante che parli di Vita.
 
 
 
-<span class="atom-split" data-atom="159_kubla_khan" data-title="KUBLA KHAN" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/dreams,motif/river,motif/garden,motif/the_supernatural,concept/imagination,concept/the_sublime,form/fragment,setting/the_orient,character/kubla_khan,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="159_kubla_khan" data-title="KUBLA KHAN" data-chapter="" data-kind="intro"></span>
 
 
 [[characters/kubla-khan|KUBLA KHAN]]: OR, A VISION IN A DREAM. A [[forms/fragment|FRAGMENT]]  
@@ -1149,7 +1154,7 @@ E ha bevuto il latte del Paradiso.
 
 
 
-<span class="atom-split" data-atom="184_mahomet" data-title="MAHOMET" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,archetype/hero,motif/river,concept/faith,concept/good_vs_evil,concept/power_and_corruption,form/hexameter_verse,form/fragment,histref/islam,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="184_mahomet" data-title="MAHOMET" data-chapter="" data-kind="intro"></span>
 
 
 Utter the song, O my [[motifs/soul|soul]]! the flight and return of Mohammed,  
@@ -1191,7 +1196,7 @@ Precipita diviso tutto — tutto precipitando impetuoso avanti.
 
 
 
-<span class="atom-split" data-atom="190_apologia_pro_vita_sua" data-title="APOLOGIA PRO VITA SUA" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/eyes_sight,motif/fire,concept/imagination,concept/the_sublime,concept/the_artist_and_society,form/epigram,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="190_apologia_pro_vita_sua" data-title="APOLOGIA PRO VITA SUA" data-chapter="" data-kind="intro"></span>
 
 
 The poet in his lone yet genial hour  
@@ -1219,7 +1224,7 @@ Fantasmi di sublimità.
 
 
 
-<span class="atom-split" data-atom="220_ad_vilmum_axiologum" data-title="AD VILMUM AXIOLOGUM" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,topos/immortality_through_verse,archetype/prophet,motif/music_and_song,concept/immortality_of_art,concept/the_artist_and_society,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="220_ad_vilmum_axiologum" data-title="AD VILMUM AXIOLOGUM" data-chapter="" data-kind="intro"></span>
 
 
 TO WILLIAM WORDSWORTH
@@ -1251,7 +1256,7 @@ L’[[motifs/love|Amore]] è lo Spirito della Vita, e la Musica la Vita dello Sp
 
 
 
-<span class="atom-split" data-atom="262_fancy_in_nubibus_or_the_poet_in_the_clouds" data-title="FANCY IN NUBIBUS OR THE POET IN THE CLOUDS" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,motif/the_sea,concept/imagination,concept/wonder_and_gratitude,form/sonnet,histref/greek_mythology,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="262_fancy_in_nubibus_or_the_poet_in_the_clouds" data-title="FANCY IN NUBIBUS OR THE POET IN THE CLOUDS" data-chapter="" data-kind="intro"></span>
 
 
 O! it is pleasant, with a heart at ease,  
@@ -1291,7 +1296,7 @@ Sorgere al gonfiarsi del mare pieno di voci.
 
 
 
-<span class="atom-split" data-atom="297_reason" data-title="REASON" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/faith,concept/truth,form/fragment,histref/dante,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="297_reason" data-title="REASON" data-chapter="" data-kind="intro"></span>
 
 
 [‘Finally, what is Reason? You have often asked me: and this  
@@ -1325,7 +1330,7 @@ Ciò che vedresti, se l’avessi scosso.’
 
 
 
-<span class="atom-split" data-atom="302_to_the_young_artist_kayser_of_kaserwerth" data-title="TO THE YOUNG ARTIST: KAYSER OF KASERWERTH" data-chapter="" data-kind="intro" data-tags="motif/the_mirror,concept/the_artist_and_society,concept/imagination,concept/immortality_of_art,concept/friendship,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="302_to_the_young_artist_kayser_of_kaserwerth" data-title="TO THE YOUNG ARTIST: KAYSER OF KASERWERTH" data-chapter="" data-kind="intro"></span>
 
 
 Kayser! to whom, as to a second [[concepts/self|self]],  
@@ -1367,7 +1372,7 @@ Sii saggio! sii felice! e non dimenticarmi.
 
 
 
-<span class="atom-split" data-atom="378_fragments_from_a_notebook" data-title="FRAGMENTS FROM A NOTEBOOK" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/music_and_song,motif/birds,motif/the_sea,motif/flowers,motif/death,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="378_fragments_from_a_notebook" data-title="FRAGMENTS FROM A NOTEBOOK" data-chapter="" data-kind="intro"></span>
 
 
 Circa 1796-   98  
@@ -1499,7 +1504,7 @@ Pubblicati per la prima volta in Notizbuch, 1896, p. 350.
 
 
 
-<span class="atom-split" data-atom="381_fragments" data-title="FRAGMENTS" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/birds,motif/the_sea,motif/flowers,concept/mortality,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="381_fragments" data-title="FRAGMENTS" data-chapter="" data-kind="intro"></span>
 
 
 O’er the raised earth the gales of evening sigh;  
@@ -1537,7 +1542,7 @@ from a Notebook.
 
 
 
-<span class="atom-split" data-atom="383_a_beck_in_winter" data-title="A BECK IN WINTER" data-chapter="" data-kind="intro" data-tags="motif/river,motif/winter,motif/nature,motif/the_city,motif/silence,motif/stars,concept/love_romantic,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="383_a_beck_in_winter" data-title="A BECK IN WINTER" data-chapter="" data-kind="intro"></span>
 
 
 Over the broad, the shallow, rapid stream,  
@@ -1671,7 +1676,7 @@ Dic. 1797. Pubblicati per la prima volta da un MS. nel 1893.
 
 
 
-<span class="atom-split" data-atom="387_epigram_on_kepler" data-title="EPIGRAM ON KEPLER" data-chapter="" data-kind="intro" data-tags="concept/melancholy,concept/grief_and_loss,concept/the_artist_and_society,concept/imagination,concept/social_injustice,form/epigram,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="387_epigram_on_kepler" data-title="EPIGRAM ON KEPLER" data-chapter="" data-kind="intro"></span>
 
 
 FROM THE GERMAN  
@@ -1841,7 +1846,7 @@ raccolto 1893.
 
 
 
-<span class="atom-split" data-atom="389_translation_of_a_fragment_of_heraclitus" data-title="TRANSLATION OF A FRAGMENT OF HERACLITUS" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,concept/truth,form/fragment,histref/ancient_greece,histref/greek_mythology,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="389_translation_of_a_fragment_of_heraclitus" data-title="TRANSLATION OF A FRAGMENT OF HERACLITUS" data-chapter="" data-kind="intro"></span>
 
 
 Not hers  
@@ -1875,7 +1880,7 @@ ii. 27. Prima raccolti 1893.
 
 
 
-<span class="atom-split" data-atom="397_a_simile" data-title="A SIMILE" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/animals,motif/music_and_song,concept/love_romantic,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="397_a_simile" data-title="A SIMILE" data-chapter="" data-kind="intro"></span>
 
 
 As the shy hind, the soft-eyed gentle Brute  
@@ -1903,7 +1908,7 @@ Non datata. Ora pubblicata per la prima volta da un MS.
 
 
 
-<span class="atom-split" data-atom="401_trochaics" data-title="TROCHAICS" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/music_and_song,concept/heroism,concept/love_romantic,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="401_trochaics" data-title="TROCHAICS" data-chapter="" data-kind="intro"></span>
 
 
 Thus she said, and, all around,  
@@ -1927,7 +1932,7 @@ Benvenuti, benvenuti, a dispetto di [[motifs/pain|pena]] e dolore,
 
 
 
-<span class="atom-split" data-atom="403_iambics" data-title="IAMBICS" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/light_and_dark,motif/fire,form/fragment,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="403_iambics" data-title="IAMBICS" data-chapter="" data-kind="intro"></span>
 
 
 No cold shall thee benumb,  
@@ -1951,7 +1956,7 @@ La mia Penna ti darà licenza d’esser muta d’ora in poi.
 
 
 
-<span class="atom-split" data-atom="404_nonsense" data-title="NONSENSE" data-chapter="" data-kind="intro" data-tags="motif/death,concept/heroism,form/fragment,form/song,histref/eastern_religion,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="404_nonsense" data-title="NONSENSE" data-chapter="" data-kind="intro"></span>
 
 
 Sing impassionate [[motifs/soul|Soul]]! of Mohammed the complicate story:  
@@ -1975,7 +1980,7 @@ Ora pubblicati per la prima volta da un MS.
 
 
 
-<span class="atom-split" data-atom="405_a_plaintive_movement" data-title="A PLAINTIVE MOVEMENT" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/the_grave,motif/music_and_song,concept/melancholy,form/fragment,form/song,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="405_a_plaintive_movement" data-title="A PLAINTIVE MOVEMENT" data-chapter="" data-kind="intro"></span>
 
 
 Go little Pipe! for ever I must leave thee,  
@@ -2011,7 +2016,7 @@ Ora pubblicati per la prima volta da un MS.
 
 
 
-<span class="atom-split" data-atom="407_nonsense_verses" data-title="NONSENSE VERSES" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/fire,motif/night,concept/joy,form/fragment,form/song,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="407_nonsense_verses" data-title="NONSENSE VERSES" data-chapter="" data-kind="intro"></span>
 
 
 [AN EXPERIMENT FOR A METRE]  
@@ -2057,7 +2062,7 @@ Ora pubblicati per la prima volta da un MS.
 
 
 
-<span class="atom-split" data-atom="409_experiments_in_metre" data-title="EXPERIMENTS IN METRE" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/river,concept/melancholy,concept/unrequited_love,form/fragment,form/song,histref/greek_mythology,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
+<span class="atom-split" data-atom="409_experiments_in_metre" data-title="EXPERIMENTS IN METRE" data-chapter="" data-kind="intro"></span>
 
 
 There in some darksome shade  

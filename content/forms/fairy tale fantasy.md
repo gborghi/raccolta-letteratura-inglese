@@ -24,7 +24,7 @@ tags:
 - [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
 - [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
-- [[testi/keats/atomized/joy-animals-comic-verse-song#122_an_extempore|An Extempore (Keats)]]
+- [[works/an-extempore-(keats)|An Extempore (Keats)]]
 - [[works/the-birthday-of-the-infanta-(wilde)|The Birthday of the Infanta (Wilde)]]
 - [[works/the-devoted-friend-(wilde)|The Devoted Friend (Wilde)]]
 - [[works/the-fisherman-and-his-soul-(wilde)|The Fisherman and his Soul (Wilde)]]

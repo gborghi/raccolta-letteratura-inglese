@@ -28,6 +28,10 @@ tags:
 > [!abstract] 
 > An editorial prose account of the lost play Cardenio, attributed to Shakespeare and Fletcher and based on a Don Quixote episode; it summarizes a tragicomedy of rape, betrayed friendship, a disguised wronged heroine, madness for revenge, repentance and reconciliation.
 
+## Testo / Text
+
+- [CARDENIO - A BRIEF ACCOUNT](/testi/shakespeare/poems/cardenio#intro)
+
 ## Connections
 
 **Archetypes:** [[archetypes/lover|Lover]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/villain|Villain]]
