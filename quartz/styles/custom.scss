@@ -1361,6 +1361,16 @@ ul.tags {
   display: grid;
   grid-template-columns: 230px minmax(0, 1fr);
   gap: 1.4rem;
+  // Poem collections (atomRouter tags the shell with .no-toc when
+  // data-collection="poems"): hide the reader TOC sidebar. The atoms are
+  // standalone poems — browsing by prev/next is enough; a flat chapter list
+  // adds noise.
+  &.no-toc {
+    grid-template-columns: 1fr;
+    .ar-toc {
+      display: none;
+    }
+  }
 }
 .ar-toc {
   align-self: start;
@@ -2208,6 +2218,25 @@ footer li:has(> a[href="/intelligenza-artificiale"]) > a {
 // it in the display cut. On the home page the sidebar copy is the redundant
 // one — and it links to the page we are already on.
 body[data-slug="index"] .page-title {
+  display: none;
+}
+
+// The wordmark already carries the full site title, so the Quartz
+// article-title H1 right above it says the same thing a second time.
+body[data-slug="index"] .article-title {
+  display: none;
+}
+
+// hp-mast-stats ("3,661 works · 15 authors · 15,770 excerpts")
+// repeats the five-stat hp-stats block rendered just below it.
+body[data-slug="index"] .hp-mast-stats {
+  display: none;
+}
+
+// Reading pages: the atom-reader component renders the work title from
+// data-title attributes, so the Quartz article-title H1 above it is a
+// duplicate. Only reading pages (testi/*) carry an atom-reader.
+body[data-slug^="testi/"] .article-title {
   display: none;
 }
 

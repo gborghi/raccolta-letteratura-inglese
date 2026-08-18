@@ -75,6 +75,26 @@ export function buildFullIndex(rawIndex) {
     for (const w of counts.keys()) df.set(w, (df.get(w) || 0) + 1)
   }
 
+  // pass 1.5: collect each work's child-atom titles. In SPA mode a poem/prose
+  // cluster is ONE work page whose own 180-char excerpt + top-N TF-IDF terms cover
+  // only its opening titles; the rest of its poems/chapters live as `work#atom`
+  // fragments, so a poem's title words ("grief", "measure") never reach the work's
+  // searchable content and the default (tier 0) search misses them even though the
+  // works table finds them. Attach the full list of child titles to the work as a
+  // separate `atomTitles` string — NOT folded into TF-IDF `terms`, where common title
+  // words are out-ranked by corpus-wide distinctive body words — and let consumers
+  // append it verbatim to the searchable content at every tier + on mobile.
+  const atomTitles = new Map() // workSlug -> [child title, ...]
+  for (const slug of slugs) {
+    const hash = slug.indexOf("#")
+    if (hash < 0) continue
+    const workSlug = slug.slice(0, hash)
+    const title = (rawIndex[slug] && rawIndex[slug].title) || ""
+    if (!title) continue
+    if (!atomTitles.has(workSlug)) atomTitles.set(workSlug, [])
+    atomTitles.get(workSlug).push(title)
+  }
+
   // pass 2: rank terms by tf-idf, cap at MASTER_CAP
   const out = {}
   for (const slug of slugs) {
@@ -87,6 +107,7 @@ export function buildFullIndex(rawIndex) {
       scored.push([w, c * idf])
     }
     scored.sort((a, b) => b[1] - a[1])
+    const titles = atomTitles.get(slug)
     out[slug] = {
       title: it.title,
       slug: it.slug ?? slug,
@@ -94,6 +115,7 @@ export function buildFullIndex(rawIndex) {
       links: it.links || [],
       terms: scored.slice(0, MASTER_CAP),
       snippet: snippets.get(slug) || "",
+      ...(titles && titles.length ? { atomTitles: titles.join(" ") } : {}),
     }
   }
   return out
@@ -125,7 +147,8 @@ export function projectToTarget(
       // output size is unchanged). This projector is retired from main() in the shard
       // build but stays exported + unit-tested.
       const snip = (d.snippet || "").slice(0, 160)
-      entry.content = snip ? `${snip} ${termStr}` : termStr
+      const titles = d.atomTitles || ""
+      entry.content = [snip, termStr, titles].filter(Boolean).join(" ")
       out[slug] = entry
     }
     return out

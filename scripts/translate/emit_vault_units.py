@@ -21,7 +21,7 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 DATA = os.path.join(ROOT, "data")
 PAGE_STORE = os.path.join(DATA, "translations_pages.jsonl")
 VAULT_AUTHORS = os.path.abspath(os.path.join(ROOT, "..", "VaultEnglish", "Authors"))
-SUBS = ("Atomized", "Plays", "Long")
+SUBS = ("Atomized", "Plays", "Long", "Poems")
 FM_RE = re.compile(r"^---\r?\n(.*?)\r?\n---\r?\n?(.*)$", re.S)
 H1_RE = re.compile(r"^([ \t]*\r?\n)*[ \t]*#[ \t]+[^\n]*\r?\n")
 

@@ -1,6 +1,7 @@
 // Pure helpers for the tiered depth search (searchDepth.inline.ts). Kept separate so
 // they can be unit-tested without a DOM. Shard entries use compact keys to save bytes:
-// s=slug t=title g=tags l=links c=content.
+// s=slug t=title g=tags c=content. (`l`/links is dropped — the search client never reads
+// it; the graph + backlinks read links from contentIndex.json instead.)
 
 export type Entry = { s: string; t?: string; g?: string[]; l?: string[]; c: string }
 export type Doc = {
@@ -63,8 +64,8 @@ export function stopHint(stop: number): string {
 }
 
 // Insertion-ordered union: FlexSearch (exact/prefix) hits first, MiniSearch (fuzzy)
-// fills the remainder. Deduped, capped at `limit`.
-export function mergeResults(flexIds: string[], fuzzyIds: string[], limit: number): string[] {
+// fills the remainder. Deduped, no hard limit — caller decides how many to take.
+export function mergeResults(flexIds: string[], fuzzyIds: string[]): string[] {
   const out: string[] = []
   const seen = new Set<string>()
   for (const id of [...flexIds, ...fuzzyIds]) {
@@ -72,7 +73,6 @@ export function mergeResults(flexIds: string[], fuzzyIds: string[], limit: numbe
       seen.add(id)
       out.push(id)
     }
-    if (out.length >= limit) break
   }
   return out
 }

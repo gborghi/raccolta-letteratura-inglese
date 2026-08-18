@@ -23,7 +23,10 @@ let reading = 0,
   works = 0
 for (const m of manifest) {
   const idLower = m.srcBase.toLowerCase()
-  const newUrl = `testi/dickinson/atomized/${m.finalSlug}#${idLower}`
+  // Split clusters: poems → <cluster>--poems, letters → <cluster>--letters
+  const clusterSlug =
+    m.kind === "poem" ? `${m.finalSlug}--poems` : m.kind === "letter" ? `${m.finalSlug}--letters` : m.finalSlug
+  const newUrl = `testi/dickinson/atomized/${clusterSlug}#${idLower}`
   // 1. old reading page (every atom had one)
   map[`testi/dickinson/atomized/${idLower}`] = newUrl
   reading++

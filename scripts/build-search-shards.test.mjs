@@ -1,6 +1,6 @@
 import test from "node:test"
 import assert from "node:assert/strict"
-import { buildShards, contentFor, chunkBySize, isHiddenSlug } from "./build-search-shards.mjs"
+import { buildShards, contentFor, chunkBySize, isHiddenSlug, authorOf } from "./build-search-shards.mjs"
 
 const master = {
   "works/w1": {
@@ -69,13 +69,14 @@ test("contentFor slices snippet + top-n terms", () => {
   assert.ok(!/\bterm30\b/.test(c))
 })
 
-test("t0 = works/concepts only, top30/160; excludes '#' atoms", () => {
+test("t0 = works/concepts only, top30/160; excludes '#' atoms; no dead links", () => {
   const { t0 } = buildShards(master)
   const slugs = t0.entries.map((e) => e.s)
   assert.ok(slugs.includes("works/w1"))
   assert.ok(!slugs.some((s) => s.includes("#")))
   const e = t0.entries.find((e) => e.s === "works/w1")
-  assert.deepEqual(Object.keys(e).sort(), ["c", "g", "l", "s", "t"])
+  assert.deepEqual(Object.keys(e).sort(), ["c", "g", "s", "t"])
+  assert.ok(!("l" in e), "t0 must drop the dead `l` (links) field")
   assert.ok(e.c.includes("term29") && !/\bterm30\b/.test(e.c))
 })
 
@@ -87,21 +88,60 @@ test("t1 delta = works, {s,c} only, top150/400 (superset of t0)", () => {
   assert.equal(e.c.slice(0, 400), "s".repeat(400))
 })
 
-test("t2 = atom entries only, full shape, top80", () => {
+test("t2 = atom entries only, full shape, top80 (no dead links)", () => {
   const { t2 } = buildShards(master)
   assert.equal(t2.entries.length, 1)
   const e = t2.entries[0]
   assert.equal(e.s, "testi/w1#a2")
-  assert.deepEqual(e.l, ["works/w1"])
+  assert.deepEqual(Object.keys(e).sort(), ["c", "g", "s", "t"])
+  assert.ok(!("l" in e), "t2 must drop the dead `l` (links) field")
   assert.ok(e.c.includes("av79") && !/\bav80\b/.test(e.c))
 })
 
-test("t3 delta = WORKS ONLY, {s,c}, top500/700 (atoms not re-shipped)", () => {
+test("contentFor appends the doc's own title (atom-side fix for empty-content atoms)", () => {
+  const atom = { title: "Milton", snippet: "", terms: [], tags: [], links: [] }
+  const c = contentFor(atom, 80, 400)
+  assert.ok(c.toLowerCase().includes("milton"))
+})
+
+test("authorOf extracts the author from a testi/<author>/… slug", () => {
+  assert.equal(authorOf("testi/chesterton/atomized/milton#milton"), "chesterton")
+  assert.equal(authorOf("testi/conan_doyle/atomized/the_parasite#the_parasite"), "conan doyle")
+  assert.equal(authorOf("works/w1"), "") // non-testi slug -> no author
+  assert.equal(authorOf("testi/w1#a2"), "w1") // bare two-segment test slug
+})
+
+test("an empty-content single-word atom still ships ≥2 words in t2 (title + author)", () => {
+  const local = {
+    "testi/chesterton/atomized/milton#milton": {
+      title: "Milton",
+      slug: "testi/chesterton/atomized/milton#milton",
+      tags: [],
+      links: ["testi/chesterton/atomized/milton"],
+      snippet: "",
+      terms: [],
+    },
+  }
+  const { t2 } = buildShards(local)
+  assert.equal(t2.entries.length, 1)
+  const c = t2.entries[0].c
+  const words = c.toLowerCase().match(/[a-z][a-z0-9']*/g) || []
+  assert.ok(words.length >= 2, `expected ≥2 words, got ${words.length}: ${c}`)
+  assert.ok(c.toLowerCase().includes("milton"))
+  assert.ok(c.toLowerCase().includes("chesterton"))
+})
+
+test("t3 = Max delta: works AND atoms at full depth, {s,c} only", () => {
   const { t3 } = buildShards(master)
   const w = t3.entries.find((e) => e.s === "works/w1")
   assert.ok(w.c.includes("term499"))
   assert.equal(w.c.slice(0, 700), "s".repeat(700))
-  assert.ok(!t3.entries.some((e) => e.s.includes("#"))) // atoms excluded
+  assert.deepEqual(Object.keys(w).sort(), ["c", "s"])
+  const a = t3.entries.find((e) => e.s === "testi/w1#a2")
+  assert.ok(a, "t3 must also ship the atom at full depth")
+  assert.deepEqual(Object.keys(a).sort(), ["c", "s"])
+  assert.ok(a.c.includes("av499"), "Max atoms carry all 500 ranked terms, not just 80")
+  assert.ok(a.c.includes("av79"))
 })
 
 test("navigation shells (index, brani, 404, per-tag pages) are in no tier", () => {
