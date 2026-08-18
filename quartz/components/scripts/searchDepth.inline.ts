@@ -12,7 +12,7 @@ import FlexSearch from "flexsearch"
 import MiniSearch from "minisearch"
 import { Doc, Entry, mergeTier, clampStop, STOP_LABELS, stopHint } from "./searchDepth"
 
-const NUM_RESULTS = 8
+// No hard limit: show ALL matching results with a max-height + scroll for usability.
 // Pull a WIDE candidate pool from FlexSearch, then re-rank it ourselves (see search()).
 // FlexSearch's built-in order for a common term returns whatever it resolves first — with
 // ~19k atoms and a term like "disgrace" in ~190 of them, the late-indexed entries (all of
@@ -59,7 +59,7 @@ async function fetchJson(file: string): Promise<any> {
 }
 
 // Merge one shard file into `store` ONLY (no indexing here — the index is (re)built
-// separately in setDepth). Handles the t2 {buckets:[…]} manifest by fetching each bucket.
+// separately in setDepth). Handles the t2/t3 {buckets:[…]} manifests by fetching each bucket.
 async function mergeFile(file: string): Promise<void> {
   const j = await fetchJson(file)
   if (!j) return
@@ -230,17 +230,9 @@ function search(q: string): Doc[] {
     .map((d) => ({ d: d as Doc, s: scoreDoc(d as Doc, tokens) }))
     .filter((x) => x.s >= 0)
     .sort((a, b) => b.s - a.s)
-  // Take the page, collapsing multi-part splits of the same section so results stay diverse.
-  const out: Doc[] = []
-  const usedSection = new Set<string>()
-  for (const { d } of ranked) {
-    const k = sectionKey(d.slug)
-    if (usedSection.has(k)) continue
-    usedSection.add(k)
-    out.push(d)
-    if (out.length >= NUM_RESULTS) break
-  }
-  return out
+  // Return all results (collapsed per section), letting the UI handle display with scroll.
+  // Duplicate results across sections are already removed by `usedSection`.
+  return ranked.map((x) => x.d)
 }
 
 function hitHref(d: Doc): string {
@@ -272,12 +264,16 @@ function ensureUI(): void {
     <div class="sd-inner" role="dialog" aria-modal="true" aria-label="Search">
       <input class="sd-input" type="text" placeholder="Search the corpus…" aria-label="Search" autocomplete="off" />
       <div class="sd-slider-wrap"></div>
-      <ul class="sd-results" role="listbox"></ul>
+      <div class="sd-results-container" role="listbox"></div>
     </div>`
   document.body.appendChild(modal)
 
   const input = modal.querySelector(".sd-input") as HTMLInputElement
-  const results = modal.querySelector(".sd-results") as HTMLUListElement
+  const resultsContainer = modal.querySelector(".sd-results-container") as HTMLElement
+  // Apply max-height + scrollbar to the results container
+  resultsContainer.style.maxHeight = "400px"
+  resultsContainer.style.overflowY = "auto"
+  resultsContainer.style.width = "100%"
   const wrap = modal.querySelector(".sd-slider-wrap") as HTMLElement
 
   // --- depth slider ---
@@ -297,12 +293,13 @@ function ensureUI(): void {
 
   const render = () => {
     const hits = search(input.value)
-    results.innerHTML = hits
+    // Render results directly into the scrollable container
+    resultsContainer.innerHTML = hits
       .map(
         (d) =>
-          `<li role="option"><a class="sd-hit" href="${esc(hitHref(d))}"><span class="sd-hit-title">${esc(
+          `<div role="option" style="padding: 6px 12px;"><a class="sd-hit" href="${esc(hitHref(d))}"><span class="sd-hit-title">${esc(
             d.title || d.slug,
-          )}</span></a></li>`,
+          )}</span></a></div>`,
       )
       .join("")
   }
@@ -344,7 +341,7 @@ function ensureUI(): void {
   modal.addEventListener("click", (e) => {
     if (e.target === modal) close()
   })
-  results.addEventListener("click", close) // navigate then dismiss
+  resultsContainer.addEventListener("click", close) // navigate then dismiss
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") close()
     if (
