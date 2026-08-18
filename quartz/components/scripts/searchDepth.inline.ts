@@ -12,8 +12,7 @@ import FlexSearch from "flexsearch"
 import MiniSearch from "minisearch"
 import { Doc, Entry, mergeTier, clampStop, STOP_LABELS, stopHint } from "./searchDepth"
 
-// No hard limit: show ALL matching results with a max-height + scroll for usability.
-// Pull a WIDE candidate pool from FlexSearch, then re-rank it ourselves (see search()).
+const NUM_RESULTS = 20
 // FlexSearch's built-in order for a common term returns whatever it resolves first — with
 // ~19k atoms and a term like "disgrace" in ~190 of them, the late-indexed entries (all of
 // Shakespeare sorts last) never made the old 8-result cut, so e.g. Sonnet 29 was invisible.
@@ -230,9 +229,17 @@ function search(q: string): Doc[] {
     .map((d) => ({ d: d as Doc, s: scoreDoc(d as Doc, tokens) }))
     .filter((x) => x.s >= 0)
     .sort((a, b) => b.s - a.s)
-  // Return all results (collapsed per section), letting the UI handle display with scroll.
-  // Duplicate results across sections are already removed by `usedSection`.
-  return ranked.map((x) => x.d)
+  // Return up to NUM_RESULTS, collapsed per section.
+  const out: Doc[] = []
+  const usedSection = new Set<string>()
+  for (const { d } of ranked) {
+    const k = sectionKey(d.slug)
+    if (usedSection.has(k)) continue
+    usedSection.add(k)
+    out.push(d)
+    if (out.length >= NUM_RESULTS) break
+  }
+  return out
 }
 
 function hitHref(d: Doc): string {
@@ -264,16 +271,12 @@ function ensureUI(): void {
     <div class="sd-inner" role="dialog" aria-modal="true" aria-label="Search">
       <input class="sd-input" type="text" placeholder="Search the corpus…" aria-label="Search" autocomplete="off" />
       <div class="sd-slider-wrap"></div>
-      <div class="sd-results-container" role="listbox"></div>
+      <ul class="sd-results" role="listbox"></ul>
     </div>`
   document.body.appendChild(modal)
 
   const input = modal.querySelector(".sd-input") as HTMLInputElement
-  const resultsContainer = modal.querySelector(".sd-results-container") as HTMLElement
-  // Apply max-height + scrollbar to the results container
-  resultsContainer.style.maxHeight = "400px"
-  resultsContainer.style.overflowY = "auto"
-  resultsContainer.style.width = "100%"
+  const results = modal.querySelector(".sd-results") as HTMLUListElement
   const wrap = modal.querySelector(".sd-slider-wrap") as HTMLElement
 
   // --- depth slider ---
@@ -293,13 +296,12 @@ function ensureUI(): void {
 
   const render = () => {
     const hits = search(input.value)
-    // Render results directly into the scrollable container
-    resultsContainer.innerHTML = hits
+    results.innerHTML = hits
       .map(
         (d) =>
-          `<div role="option" style="padding: 6px 12px;"><a class="sd-hit" href="${esc(hitHref(d))}"><span class="sd-hit-title">${esc(
+          `<li role="option"><a class="sd-hit" href="${esc(hitHref(d))}"><span class="sd-hit-title">${esc(
             d.title || d.slug,
-          )}</span></a></div>`,
+          )}</span></a></li>`,
       )
       .join("")
   }
@@ -341,7 +343,7 @@ function ensureUI(): void {
   modal.addEventListener("click", (e) => {
     if (e.target === modal) close()
   })
-  resultsContainer.addEventListener("click", close) // navigate then dismiss
+  results.addEventListener("click", close) // navigate then dismiss
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") close()
     if (

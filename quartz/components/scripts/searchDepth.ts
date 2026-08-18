@@ -64,8 +64,8 @@ export function stopHint(stop: number): string {
 }
 
 // Insertion-ordered union: FlexSearch (exact/prefix) hits first, MiniSearch (fuzzy)
-// fills the remainder. Deduped, no hard limit — caller decides how many to take.
-export function mergeResults(flexIds: string[], fuzzyIds: string[]): string[] {
+// fills the remainder. Deduped, capped at `limit`.
+export function mergeResults(flexIds: string[], fuzzyIds: string[], limit: number): string[] {
   const out: string[] = []
   const seen = new Set<string>()
   for (const id of [...flexIds, ...fuzzyIds]) {
@@ -73,6 +73,7 @@ export function mergeResults(flexIds: string[], fuzzyIds: string[]): string[] {
       seen.add(id)
       out.push(id)
     }
+    if (out.length >= limit) break
   }
   return out
 }
