@@ -1230,6 +1230,36 @@ ul.tags {
 .sd-hit-title {
   font-weight: 600;
 }
+.sd-hit-author {
+  color: var(--darkgray);
+  font-size: 0.85em;
+  margin-left: 0.4em;
+}
+.sd-pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.6rem;
+  border-top: 1px solid var(--lightgray);
+  font-size: 0.9em;
+  color: var(--darkgray);
+}
+.sd-pagination button {
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 7px;
+  background: var(--light);
+  color: var(--dark);
+  cursor: pointer;
+}
+.sd-pagination button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+.sd-pagination .sd-pag-prev {
+  margin-right: 0.4rem;
+}
 
 /* ---- Reading-page SPA (atomRouter.inline.ts) ------------------------------- */
 .atom-reader {

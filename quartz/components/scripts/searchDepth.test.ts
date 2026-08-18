@@ -7,6 +7,7 @@ import {
   STOP_LABELS,
   stopHint,
   mergeResults,
+  authorForDoc,
 } from "./searchDepth"
 
 test("entryToDoc maps compact keys", () => {
@@ -46,4 +47,25 @@ test("labels + hints exist for 4 stops", () => {
 
 test("mergeResults: flex first, fuzzy fills, deduped, capped", () => {
   assert.deepEqual(mergeResults(["a", "b"], ["b", "c", "d"], 3), ["a", "b", "c"])
+})
+
+test("authorForDoc: prefers the author/<name> tag and prettifies it", () => {
+  const d = entryToDoc({ s: "testi/austen/atomized/emma", t: "Emma", g: ["author/austen"], c: "" })
+  assert.equal(authorForDoc(d), "Austen")
+})
+
+test("authorForDoc: falls back to the testi/<author>/… slug for atoms", () => {
+  const d = entryToDoc({ s: "testi/belloc/atomized/x#chapter_1", t: "Chapter 1", g: [], c: "" })
+  assert.equal(authorForDoc(d), "Belloc")
+})
+
+test("authorForDoc: prettifies underscored multi-word authors and returns empty otherwise", () => {
+  assert.equal(
+    authorForDoc(entryToDoc({ s: "testi/conan_doyle/atomized/x", t: "X", g: [], c: "" })),
+    "Conan Doyle",
+  )
+  assert.equal(
+    authorForDoc(entryToDoc({ s: "concepts/identity", t: "Identity", g: [], c: "" })),
+    "",
+  )
 })

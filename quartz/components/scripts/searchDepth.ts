@@ -52,6 +52,30 @@ export function clampStop(stop: number, isMobile: boolean): number {
   return s
 }
 
+// Author display name for a result. Works carry an `author/<name>` tag; atom entries
+// don't, so fall back to the author segment of `testi/<author>/…` slugs. Both use the
+// underscored vault form ("conan_doyle"), which is prettified for display.
+const AUTHOR_FIXUP: Record<string, string> = { conan_doyle: "Conan Doyle" }
+export function authorForDoc(d: Doc): string {
+  const fromTag = (d.tags || []).find((t) => t.startsWith("author/"))
+  const raw = fromTag ? fromTag.slice("author/".length) : authorFromSlug(d.slug)
+  if (!raw) return ""
+  if (AUTHOR_FIXUP[raw]) return AUTHOR_FIXUP[raw]
+  return raw
+    .split("_")
+    .filter(Boolean)
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(" ")
+}
+
+function authorFromSlug(slug: string): string {
+  const seg = String(slug || "")
+    .split("#")[0]
+    .split("/")
+  if (seg[0] !== "testi" || !seg[1]) return ""
+  return seg[1]
+}
+
 export const STOP_LABELS = ["Fast", "Standard", "Deep", "Max"] as const
 
 export function stopHint(stop: number): string {

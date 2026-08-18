@@ -10,9 +10,17 @@
 // plugin is disabled in quartz.config.yaml.
 import FlexSearch from "flexsearch"
 import MiniSearch from "minisearch"
-import { Doc, Entry, mergeTier, clampStop, STOP_LABELS, stopHint } from "./searchDepth"
+import {
+  Doc,
+  Entry,
+  mergeTier,
+  clampStop,
+  STOP_LABELS,
+  stopHint,
+  authorForDoc,
+} from "./searchDepth"
 
-const NUM_RESULTS = 20
+// Paginated results: show up to RESULTS_PER_PAGE on screen, with prev/next controls.
 // FlexSearch's built-in order for a common term returns whatever it resolves first — with
 // ~19k atoms and a term like "disgrace" in ~190 of them, the late-indexed entries (all of
 // Shakespeare sorts last) never made the old 8-result cut, so e.g. Sonnet 29 was invisible.
@@ -21,6 +29,7 @@ const CANDIDATE_LIMIT = 250
 // Building a deeper index means adding up to ~18k docs to a FRESH FlexSearch index (see
 // setDepth). Do it in batches with a yield between them so the build never blocks the tab.
 const BUILD_CHUNK = 400
+const RESULTS_PER_PAGE = 20
 
 const store = new Map<string, Doc>() // every doc ever fetched, accumulated across tiers
 let index: any = null // the ACTIVE FlexSearch index that search() queries
@@ -229,7 +238,8 @@ function search(q: string): Doc[] {
     .map((d) => ({ d: d as Doc, s: scoreDoc(d as Doc, tokens) }))
     .filter((x) => x.s >= 0)
     .sort((a, b) => b.s - a.s)
-  // Return up to NUM_RESULTS, collapsed per section.
+  // Return all results (no hard limit), collapsed per section.
+  // Caller will slice by page using RESULTS_PER_PAGE.
   const out: Doc[] = []
   const usedSection = new Set<string>()
   for (const { d } of ranked) {
@@ -237,7 +247,6 @@ function search(q: string): Doc[] {
     if (usedSection.has(k)) continue
     usedSection.add(k)
     out.push(d)
-    if (out.length >= NUM_RESULTS) break
   }
   return out
 }
@@ -271,12 +280,14 @@ function ensureUI(): void {
     <div class="sd-inner" role="dialog" aria-modal="true" aria-label="Search">
       <input class="sd-input" type="text" placeholder="Search the corpus…" aria-label="Search" autocomplete="off" />
       <div class="sd-slider-wrap"></div>
-      <ul class="sd-results" role="listbox"></ul>
+      <div class="sd-results-container"></div>
+      <div class="sd-pagination"></div>
     </div>`
   document.body.appendChild(modal)
 
   const input = modal.querySelector(".sd-input") as HTMLInputElement
-  const results = modal.querySelector(".sd-results") as HTMLUListElement
+  const resultsContainer = modal.querySelector(".sd-results-container") as HTMLElement
+  const paginationContainer = modal.querySelector(".sd-pagination") as HTMLElement
   const wrap = modal.querySelector(".sd-slider-wrap") as HTMLElement
 
   // --- depth slider ---
@@ -294,22 +305,43 @@ function ensureUI(): void {
   }
   paint()
 
+  let currentPage = 0
+  let currentHits: Doc[] = []
+
   const render = () => {
-    const hits = search(input.value)
-    results.innerHTML = hits
-      .map(
-        (d) =>
-          `<li role="option"><a class="sd-hit" href="${esc(hitHref(d))}"><span class="sd-hit-title">${esc(
-            d.title || d.slug,
-          )}</span></a></li>`,
-      )
-      .join("")
+    currentHits = search(input.value)
+    const totalPages = Math.max(1, Math.ceil(currentHits.length / RESULTS_PER_PAGE))
+    const start = currentPage * RESULTS_PER_PAGE
+    const pageHits = currentHits.slice(start, start + RESULTS_PER_PAGE)
+
+    // Render the current page as a standard results list, each hit with its author.
+    resultsContainer.innerHTML = `<ul class="sd-results" role="listbox">${pageHits
+      .map((d) => {
+        const author = authorForDoc(d)
+        return `<li role="option"><a class="sd-hit" href="${esc(hitHref(d))}"><span class="sd-hit-title">${esc(
+          d.title || d.slug,
+        )}</span>${author ? `<span class="sd-hit-author">by ${esc(author)}</span>` : ""}</a></li>`
+      })
+      .join("")}</ul>`
+
+    // Render explicit pagination controls.
+    const prevDisabled = currentPage === 0
+    const nextDisabled = currentPage >= totalPages - 1
+    paginationContainer.innerHTML = `
+      <div class="sd-pagination">
+        <span class="sd-pagination-count">Showing ${Math.min(start + 1, currentHits.length)}-${Math.min(start + RESULTS_PER_PAGE, currentHits.length)} of ${currentHits.length}</span>
+        <div>
+          <button class="sd-pag-prev" ${prevDisabled ? "disabled" : ""}>Prev</button>
+          <button class="sd-pag-next" ${nextDisabled ? "disabled" : ""}>Next</button>
+        </div>
+      </div>`
   }
 
   slider.addEventListener("change", () => {
     const want = clampStop(+slider.value, isMobile())
     slider.value = String(want)
     paint()
+    currentPage = 0
     render() // keep search working on the CURRENT index while the new one builds
     if (want !== activeStop) {
       spin.hidden = false // non-blocking indicator; search stays usable during the build
@@ -320,15 +352,32 @@ function ensureUI(): void {
     }
   })
 
+  // Pagination controls
+  paginationContainer.addEventListener("click", (e) => {
+    const target = e.target as HTMLElement
+    if (target.matches(".sd-pag-prev") && currentPage > 0) {
+      currentPage--
+      render()
+    } else if (
+      target.matches(".sd-pag-next") &&
+      currentPage < Math.ceil(currentHits.length / RESULTS_PER_PAGE) - 1
+    ) {
+      currentPage++
+      render()
+    }
+  })
+
   let t: number | undefined
   input.addEventListener("input", () => {
     clearTimeout(t)
+    currentPage = 0
     t = window.setTimeout(render, 90)
   })
 
   const open = () => {
     modal.classList.add("active")
     document.documentElement.style.overflow = "hidden"
+    currentPage = 0
     input.focus() // never blocks: the slimmest index is built in the background at init
   }
 
@@ -343,7 +392,7 @@ function ensureUI(): void {
   modal.addEventListener("click", (e) => {
     if (e.target === modal) close()
   })
-  results.addEventListener("click", close) // navigate then dismiss
+  resultsContainer.addEventListener("click", close) // navigate then dismiss
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") close()
     if (
