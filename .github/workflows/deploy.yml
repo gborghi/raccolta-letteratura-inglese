@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -88,3 +89,41 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # Primary host. Must NOT reuse the GH Pages artifact: that job rewrites baseUrl
+  # to the /raccolta-letteratura-inglese subpath and would 404 on Pages.dev.
+  cloudflare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dependencies
+        run: npm ci
+      - name: Restore Quartz plugins
+        run: npx quartz plugin restore
+      - name: Build Quartz (Cloudflare baseUrl from git)
+        run: npx quartz build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=14336"
+      - name: Inject atom search entries
+        run: node scripts/inject-atom-search.mjs
+      - name: Compress desktop index + build TF-IDF master
+        run: node scripts/compress-search-index.mjs
+        env:
+          NODE_OPTIONS: "--max-old-space-size=8192"
+      - name: Build mobile index
+        run: node scripts/make-mobile-index.mjs
+      - name: Build tiered search shards
+        run: node scripts/build-search-shards.mjs
+      - name: Slim tags index page
+        run: node scripts/gen-tags-table.mjs public
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: "88534a293fdf2c50b43a2fecdb0b59ed"
+          command: pages deploy public --project-name letteratura-inglese --branch main
