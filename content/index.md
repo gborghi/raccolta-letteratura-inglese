@@ -1,5 +1,7 @@
 ---
 title: English Literature — A Knowledge Graph
+description: A connected reading of the English canon. Works, themes, motifs and forms, linked together.
+socialDescription: A connected reading of the English canon. Works, themes, motifs and forms, linked together.
 ---
 
 <div class="hp-mast">
