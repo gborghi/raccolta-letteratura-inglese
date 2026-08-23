@@ -1,5 +1,6 @@
-// Renders the static index.json into a sortable, paginated, text-filterable table
-// of literary works. Powers the #opere-table div on the Works page, and also any
+// Renders the static index files (sharded A-M, N-Z) into a sortable,
+// paginated, text-filterable table of literary works.
+// Powers the #opere-table div on the Works page, and also any
 // #opere-table[data-author] / [data-cluster] scoped variants.
 
 import {
@@ -14,6 +15,7 @@ import {
   cefr,
   cefrRank,
 } from "./qtable"
+import { fieldsMatchQuery } from "./searchDepth"
 
 const KW_FILE = "works_kw.json"
 
@@ -44,8 +46,12 @@ interface Work {
 let cache: Work[] | null = null
 async function loadData(prefix: string): Promise<Work[]> {
   if (cache) return cache
-  const res = await fetch(prefix + "static/index.json")
-  cache = (await res.json()) as Work[]
+  // Load both shards in parallel (A-M and N-Z authors) and merge
+  const [shardM, shardZ] = await Promise.all([
+    fetch(prefix + "static/index_a_m.json").then((r) => r.json()).catch(() => [] as Work[]),
+    fetch(prefix + "static/index_n_z.json").then((r) => r.json()).catch(() => [] as Work[]),
+  ])
+  cache = [...shardM, ...shardZ] as Work[]
   return cache
 }
 
@@ -134,19 +140,15 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   }
 
   function filtered(): Work[] {
-    const q = filter.toLowerCase()
+    const q = filter
     return rows
       .filter((r) => {
-        if (!q) return true
+        if (!q.trim()) return true
         if (mode === "content") {
           const kw = kwCached(KW_FILE)?.[r.href]
-          return kw ? kw.includes(q) : false
+          return fieldsMatchQuery([kw, r.title, r.author, r.cluster], q, "and")
         }
-        return (
-          r.title.toLowerCase().includes(q) ||
-          r.author.toLowerCase().includes(q) ||
-          r.cluster.toLowerCase().includes(q)
-        )
+        return fieldsMatchQuery([r.title, r.author, r.cluster], q, "and")
       })
       .sort(cmp)
   }

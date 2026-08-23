@@ -12,6 +12,7 @@ import {
   makePageSizeSelect,
   renderPager,
 } from "./qtable"
+import { fieldsMatchQuery } from "./searchDepth"
 
 const KW_FILE = "excerpts_kw.json"
 
@@ -103,21 +104,15 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
   }
 
   function filtered(): Excerpt[] {
-    const q = filter.toLowerCase()
-    const qa = human(q)
+    const q = filter
     return rows
       .filter((r) => {
-        if (!q) return true
+        if (!q.trim()) return true
         if (mode === "content") {
           const kw = kwCached(KW_FILE)?.[r.href]
-          return kw ? kw.includes(q) : false
+          return fieldsMatchQuery([kw, r.title, r.work, human(r.author), r.unitType], q, "and")
         }
-        return (
-          r.title.toLowerCase().includes(q) ||
-          r.work.toLowerCase().includes(q) ||
-          human(r.author).toLowerCase().includes(qa) ||
-          r.unitType.toLowerCase().includes(q)
-        )
+        return fieldsMatchQuery([r.title, r.work, human(r.author), r.unitType], q, "and")
       })
       .sort(cmp)
   }
