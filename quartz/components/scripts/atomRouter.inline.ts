@@ -165,9 +165,10 @@ function tagChip(t: string, bp: string): HTMLElement {
 }
 function leafLabel(a: Atom): string {
   let s = chapterOf(a.title)
-  if (a.chapter && s.startsWith(a.chapter)) {
+  const chap = displayChapter(a)
+  if (chap && s.toLowerCase().startsWith(chap.toLowerCase())) {
     s = s
-      .slice(a.chapter.length)
+      .slice(chap.length)
       .replace(/^[\s—–-]+/, "")
       .trim()
     if (!s || /^[\s.,;:!?—–-]*$/.test(s)) s = chapterOf(a.title) || a.title
@@ -188,6 +189,15 @@ function isStubAtom(a: Atom): boolean {
 function literaryChapter(a: Atom): number | null {
   const m = (a.title || "").match(/Chapter\s+(\d+)\b/i)
   return m ? Number(m[1]) : null
+}
+
+/** TOC/crumb heading: literary Chapter N from the title, not the folder data-chapter. */
+function displayChapter(a: Atom): string {
+  const n = literaryChapter(a)
+  if (n != null) return `Chapter ${n}`
+  const p = (a.title || "").match(/\bPart\s+(\d+)\b/i)
+  if (p) return `Part ${p[1]}`
+  return a.chapter || ""
 }
 
 function build(reader: HTMLElement) {
@@ -298,7 +308,7 @@ function build(reader: HTMLElement) {
   for (const a of atoms) {
     if (isStubAtom(a)) continue
     const label = a.kind === "intro" ? a.title || "Inizio" : a.title
-    if (a.kind === "intro" || !a.chapter) {
+    if (a.kind === "intro" || !displayChapter(a)) {
       const li = el("li", "ar-toc-top")
       const link = el("a", "ar-toc-link", label)
       link.href = `#${a.id}`
@@ -309,10 +319,11 @@ function build(reader: HTMLElement) {
       curUl = null
       continue
     }
-    if (a.chapter !== curChap) {
-      curChap = a.chapter
+    const chapName = displayChapter(a)
+    if (chapName !== curChap) {
+      curChap = chapName
       const li = el("li", "ar-toc-chap")
-      li.append(el("span", "ar-toc-chaplabel", a.chapter))
+      li.append(el("span", "ar-toc-chaplabel", chapName))
       curUl = el("ul")
       li.append(curUl)
       tocList.append(li)
@@ -346,10 +357,11 @@ function build(reader: HTMLElement) {
     // crumb + counter: chapter in bold, then the leaf only when it adds info
     const pos = idx(a.id) + 1
     const leaf = a.kind === "intro" ? a.title || "Inizio" : leafLabel(a)
-    const showLeaf = !a.chapter || leaf !== a.chapter
+    const chap = displayChapter(a)
+    const showLeaf = !chap || leaf !== chap
     crumb.innerHTML =
-      (a.chapter ? `<b>${a.chapter}</b>` : "") +
-      (a.chapter && showLeaf ? " &middot; " : "") +
+      (chap ? `<b>${chap}</b>` : "") +
+      (chap && showLeaf ? " &middot; " : "") +
       (showLeaf ? leaf : "") +
       ` <span class="ar-count">${pos} / ${order.length}</span>`
     // leaf tag chips: rebuilt fresh every render() call (same pattern as relatedEl
