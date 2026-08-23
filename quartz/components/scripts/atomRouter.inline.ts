@@ -170,13 +170,24 @@ function leafLabel(a: Atom): string {
       .slice(a.chapter.length)
       .replace(/^[\s—–-]+/, "")
       .trim()
-    // A single-leaf story atom's title is often just the chapter name + trailing
-    // punctuation (e.g. Gutenberg "THE GULLY OF BLUEMANSDYKE."), so slicing the
-    // period-less chapter prefix can leave a bare "." — punctuation/whitespace-only,
-    // not caught by an empty check. Fall back to the full label in that case too.
     if (!s || /^[\s.,;:!?—–-]*$/.test(s)) s = chapterOf(a.title) || a.title
   }
   return s.replace(/^\((?:part|parte)\s*(\d+)\)$/i, "Parte $1")
+}
+
+/** Part-title / CONTENTS-only atoms (Chesterton CharlesDickens Chapter_08 etc.). */
+function isStubAtom(a: Atom): boolean {
+  const label = (chapterOf(a.title) || a.title || "").trim()
+  if (/^Part\s+\d+$/i.test(label)) return true
+  const words = a.en.map((n) => n.textContent || "").join(" ")
+  const t = words.replace(/\s+/g, " ").trim()
+  if (t.length < 280 && /PART\s+(ONE|TWO)|^\s*CONTENTS\b/i.test(t)) return true
+  return false
+}
+
+function literaryChapter(a: Atom): number | null {
+  const m = (a.title || "").match(/Chapter\s+(\d+)\b/i)
+  return m ? Number(m[1]) : null
 }
 
 function build(reader: HTMLElement) {
@@ -194,8 +205,26 @@ function build(reader: HTMLElement) {
   for (const m of markerNodes) m.parentNode?.removeChild(m)
   for (const a of atoms) for (const n of [...a.en, ...a.it]) n.parentNode?.removeChild(n)
 
-  const order = atoms.map((a) => a.id)
+  const order = atoms.filter((a) => !isStubAtom(a)).map((a) => a.id)
   const byId = new Map(atoms.map((a) => [a.id, a]))
+  function resolveHash(raw: string): string {
+    const m = raw.match(/^chapter_0*(\d+)$/)
+    if (m) {
+      const n = Number(m[1])
+      const hit = order.find((id) => {
+        const a = byId.get(id)
+        return a ? literaryChapter(a) === n : false
+      })
+      if (hit) return hit
+    }
+    if (!byId.has(raw) || isStubAtom(byId.get(raw)!)) {
+      const leaf = order.find((o) => o.startsWith(`${raw}--`))
+      if (leaf) return leaf
+      if (order.includes(raw)) return raw
+      return order[0]
+    }
+    return raw
+  }
   let lang: "en" | "it" = anyIt && localStorage.getItem(LANG_KEY) === "it" ? "it" : "en"
 
   // per-atom "Capitoli correlati" (#17): keyed by workSlug#atomId. Loaded async; a
@@ -267,6 +296,7 @@ function build(reader: HTMLElement) {
   let curChap: string | null = null
   let curUl: HTMLUListElement | null = null
   for (const a of atoms) {
+    if (isStubAtom(a)) continue
     const label = a.kind === "intro" ? a.title || "Inizio" : a.title
     if (a.kind === "intro" || !a.chapter) {
       const li = el("li", "ar-toc-top")
@@ -379,11 +409,7 @@ function build(reader: HTMLElement) {
     window.scrollTo(0, 0)
   }
   function go(id: string, push: boolean) {
-    if (!byId.has(id)) {
-      // a chapter/aggregate id (e.g. #chapter_01 from a related card, a wikilink to a
-      // whole chapter, or the 404 redirect): land on that chapter's first leaf.
-      id = order.find((o) => o.startsWith(`${id}--`)) || order[0]
-    }
+    id = resolveHash(id)
     render(id)
     if (push && location.hash.slice(1) !== id) history.pushState(null, "", `#${id}`)
     shell.classList.remove("toc-open")
