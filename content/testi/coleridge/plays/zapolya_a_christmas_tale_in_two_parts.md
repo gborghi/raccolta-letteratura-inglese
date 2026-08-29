@@ -15,10 +15,7 @@ tags:
 
 
 Coleridge's romance verse-drama in blank verse, modelled on Shakespeare's Winter's Tale: a usurper (Emerick) seizes the throne of Illyria, the rightful queen and infant heir are driven into exile, and after twenty years legitimacy is restored. Central themes are kingship and legitimacy, usurpation, fate and providence, exile, and the restoration of the natural order.
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -156,7 +153,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | CHEF RAGOZZI | Haste, madam! Let me take this precious burden!<br>[He kneels as he takes the [[archetypes/child\|child]]. |
 | ZAPOLYA | Take him! And if we be pursued, I charge thee,<br>Flee thou and leave me! Flee and save thy [[archetypes/king\|king]]!<br>[Then as going off, she looks back on the palace.<br>Thou [[archetypes/tyrant\|tyrant]]’s den, be called no more a palace!<br>The [[archetypes/orphan\|orphan]]’s angel at the throne of heaven<br>Stands up against thee, and there hover o’er thee<br>A [[characters/queen\|Queen]]’s, a Mother’s, and a Widow’s curse.<br>Henceforth a dragon’s haunt, [[concepts/fear\|fear]] and suspicion<br>Stand sentry at thy portals! [[concepts/faith\|Faith]] and [[concepts/honour\|honour]],<br>Driven from the throne, shall leave the attainted nation:<br>And, for the iniquity that houses in thee,<br>False glory, thirst of [[motifs/blood\|blood]], and lust of rapine,<br>(Fateful conjunction of malignant planets)<br>Shall shoot their blastments on the land. The fathers<br>Henceforth shall have no joy in their young men,<br>And when they cry: Lo! a male [[archetypes/child\|child]] is born!<br>The mother shall make answer with a groan.<br>For bloody usurpation, like a vulture,<br>Shall clog its beak within Illyria’s heart.<br>Remorseless slaves of a remorseless [[archetypes/tyrant\|tyrant]],<br>They shall be mocked with sounds of liberty,<br>And liberty shall be proclaimed alone<br>To thee, O [[motifs/fire\|Fire]]! O Pestilence! O [[works/sword-(chesterton)\|Sword]]!<br>Till Vengeance hath her fill. — And thou, snatched hence,<br>Poor friendless fugitive! with mother’s wailing,<br>Offspring of Royal Andreas, shalt return,<br>With trump and timbrel-clang, and popular shout,<br>In triumph to the palace of thy fathers!    [Exeunt. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -286,8 +282,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | ZAPOLYA | Un breve istante,<br>che pregando per la forza io abbia forza. Questo bimbo,<br>l'occhio del Cielo è su di lui, e la sua innocenza<br>è, come d'un [[archetypes/prophet\|profeta]] la [[motifs/prayer\|preghiera]], forte e vittoriosa!<br>Per te, caro bimbo, m'invase il pensiero ispirato,<br>quando [[motifs/rose\|sorse]] il forte clamore, e tutto il palazzo<br>si vuotò — (cercavano la mia vita, Ragozzi!)<br>Come rapida [[archetypes/shadow\|ombra]] scivolando, mi feci strada<br>alla camera deserta del mio signore. —  [Poi all'infante.<br>E tu baciasti le labbra esanimi di tuo padre,<br>e nella tua mano inerme, dolce dormiente,<br>stringi ancora il sigillo della tua regalità.<br>Mentre toglievo il sigillo, il braccio pesante<br>cadde di traverso dal giaciglio, e il dito rigido<br>pareva indicare i miei piedi. Cielo provvido!<br>Ecco, stavo sopra la porta segreta,<br>che, per una lunga discesa dove ogni suono perisce,<br>conduceva fuori oltre il palazzo. [[motifs/well\|Bene]] la conoscevo ——<br>ma non l'aveva costruita Andreas! Egli non era [[archetypes/tyrant\|tiranno]]! |  
 | CAPO RAGOZZI | Presto, signora! Lasciate ch'io prenda questo prezioso peso!<br>[S'inginocchia mentre prende il [[archetypes/child\|bambino]]. |  
 | ZAPOLYA | Prendilo! E se saremo inseguiti, te lo comando,<br>fuggi tu e lasciami! Fuggi e salva il tuo [[archetypes/king\|re]]!<br>[Poi, mentre esce, si volge a guardare il palazzo.<br>Tu, covo di [[archetypes/tyrant\|tiranno]], non sia più chiamato palazzo!<br>L'angelo dell'[[archetypes/orphan\|orfano]] al trono del cielo<br>s'erge contro di te, e sopra di te aleggiano<br>la maledizione d'una [[characters/queen\|Regina]], d'una Madre e d'una Vedova.<br>D'ora innanzi covo di draghi: [[concepts/fear\|paura]] e sospetto<br>montino la guardia ai tuoi portali! [[concepts/faith\|Fede]] e [[concepts/honour\|onore]],<br>cacciati dal trono, lasceranno la nazione infamata:<br>e, per l'iniquità che alberga in te,<br>falsa gloria, sete di [[motifs/blood\|sangue]] e libidine di rapina<br>(fatale congiunzione di pianeti maligni)<br>scaglieranno i loro veleni sul paese. I padri<br>d'ora innanzi non avranno gioia dei loro giovani,<br>e quando grideranno: Ecco! è nato un [[archetypes/child\|figlio]] maschio!<br>la madre risponderà con un gemito.<br>Ché l'usurpazione sanguinaria, come un avvoltoio,<br>impiastrerà il suo becco dentro il cuore d'Illiria.<br>Schiavi spietati d'uno spietato [[archetypes/tyrant\|tiranno]],<br>saranno beffati con suoni di libertà,<br>e libertà sarà proclamata solo<br>a te, o [[motifs/fire\|Fuoco]]! o Pestilenza! o Spada!<br>finché la Vendetta non sia sazia. — E tu, strappato di qui,<br>povero fuggiasco senza amici! col pianto della madre,<br>prole del regale Andreas, ritornerai,<br>con squillo di trombe e fragore di timpani, e grido di popolo,<br>in trionfo al palazzo dei tuoi padri!    [Escono. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -472,7 +466,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | LORD RUDOLPH | (aside). Lewd, ingrate [[archetypes/tyrant\|tyrant]]! Yes, I will announce thee. |
 | EMERICK | Now onward all.       [Exeunt attendants.<br>A fair one, by my [[concepts/faith\|faith]]!<br>If her face rival but her gait and stature,<br>My good friend Casimir had his reasons too.<br>‘Her tender health, her vow of strict retirement,<br>Made early in the convent — His word pledged—’<br>All fictions, all! fictions of [[concepts/jealousy\|jealousy]].<br>[[motifs/well\|Well]]! If the mountain move not to the [[archetypes/prophet\|prophet]],<br>The [[archetypes/prophet\|prophet]] must to the mountain! In this Laska<br>There’s somewhat of the knave mixed up with dolt.<br>Through the transparence of the [[archetypes/fool\|fool]], methought,<br>I saw (as I could lay my finger on it)<br>The crocodile’s eye, that peered up from the [[characters/bottom\|bottom]].<br>This knave may do us service. Hot [[concepts/ambition\|ambition]]<br>Won me the husband. Now let [[concepts/vanity\|vanity]]<br>And the resentment for a forced seclusion<br>Decoy the wife! Let him be deemed the aggressor<br>Whose cunning and distrust began the game!    [Exit. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -653,8 +646,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | EMERICK | Uhm, messer siniscalco!<br>Mi onora questa improvvisa confidenza.<br>Fa' strada.   [a Laska, poi a Rudolph.<br>Signor Rudolph, annunciate voi il nostro arrivo.<br>Salutate da parte mia la bella Sarolta, e pregatela<br>d'essere nostra gentile ospite. Badate, aggiungete<br>quanto ci duole che affari di stato<br>ci abbiano costretti a ritardare il ritorno del suo signore. |  
 | SIGNOR RUDOLPH | (a parte). Lascivo, ingrato [[archetypes/tyrant\|tiranno]]! Sì, ti annuncerò. |  
 | EMERICK | Ora avanti tutti.       [Escono i seguaci.<br>Una bella, sulla mia [[concepts/faith\|fede]]!<br>Se il suo viso solo rivaleggia col portamento e la statura,<br>anche il mio buon amico Casimir aveva le sue ragioni.<br>«La sua salute delicata, il suo voto di stretto ritiro,<br>fatto per tempo nel convento — la sua parola impegnata—»<br>tutte finzioni, tutte! finzioni di [[concepts/jealousy\|gelosia]].<br>[[motifs/well\|Bene]]! Se la montagna non va al [[archetypes/prophet\|profeta]],<br>il [[archetypes/prophet\|profeta]] deve andare alla montagna! In questo Laska<br>c'è un po' del furfante mescolato all'idiota.<br>Attraverso la trasparenza dello [[archetypes/fool\|sciocco]], mi parve<br>di vedere (come se potessi posarvi il dito)<br>l'occhio del coccodrillo, che occhieggiava dal [[characters/bottom\|fondo]].<br>Questo furfante può renderci servizio. La calda [[concepts/ambition\|ambizione]]<br>mi guadagnò il marito. Ora lascia che la [[concepts/vanity\|vanità]]<br>e il risentimento per una reclusione forzata<br>adeschino la moglie! Sia ritenuto aggressore<br>colui la cui astuzia e diffidenza cominciarono il gioco!    [Esce. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -741,7 +732,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | BETHLEN | A sweeter voice! — A voice of [[motifs/love\|love]] and pity!<br>Was it the softened echo of mine own?<br>Sad echo! but the [[concepts/hope\|hope]] it kill’d was sickly,<br>And ere it died it had been mourned as dead!<br>One other [[concepts/hope\|hope]] yet lives within my [[motifs/soul\|soul]]:<br>Quick let me ask! — while yet this stifling [[concepts/fear\|fear]],<br>This stop of the heart, [[motifs/leaves\|leaves]] utterance! — Are — are these<br>The sole remains of her that gave me life?<br>Have I a mother?     [ZAPOLYA rushes out to embrace him.<br>Ha! |
 | ZAPOLYA | My son! my son!<br>A wretched — Oh no, no! a blest — a happy mother!<br>[They embrace. KIUPRILI and GLYCINE come forward and the curtain drops. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -824,8 +814,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | ZAPOLYA | (invisibile).    Un fanciullo senza padre! |  
 | BETHLEN | Una voce più dolce! — Una voce d'[[motifs/love\|amore]] e di pietà!<br>Era l'eco addolcita della mia?<br>Triste eco! ma la [[concepts/hope\|speranza]] ch'essa uccise era malata,<br>e prima di morire era già stata pianta per morta!<br>Un'altra [[concepts/hope\|speranza]] vive ancora nella mia [[motifs/soul\|anima]]:<br>presto, ch'io chieda! — mentre ancora questa soffocante [[concepts/fear\|paura]],<br>questo arresto del cuore, [[motifs/leaves\|lascia]] la parola! — Sono — sono questi<br>i soli resti di colei che mi diede la vita?<br>Ho io una madre?     [ZAPOLYA si precipita fuori ad abbracciarlo.<br>Ah! |  
 | ZAPOLYA | Figlio mio! figlio mio!<br>Una misera — oh no, no! una benedetta — una felice madre!<br>[Si abbracciano. KIUPRILI e GLYCINE vengono avanti e cala il sipario. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -945,7 +933,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | SAROLTA | My lord! my husband! look whose sword lies yonder!<br>It is Kiuprili’s, Casimir; ‘tis thy father’s!<br>And wielded by a stripling’s arm, it baffled,<br>Yea, fell like Heaven’s own lightnings on that [[characters/tarquin\|Tarquin]]. |
 | CASIMIR | Hush! hush!<br>I had detected ere I left the [[motifs/city\|city]]<br>The [[archetypes/tyrant\|tyrant]]’s curst intent. Lewd, damnéd ingrate!<br>For him did I bring down a father’s curse!<br>Swift, swift must be our means! To-morrow’s sun<br>Sets on his fate or mine! O blest Sarolta!<br>No other [[motifs/prayer\|prayer]], late penitent, dare I offer,<br>But that thy spotless virtues may prevail<br>O’er Casimir’s crimes, and dread Kiuprili’s curse!<br>[Exeunt. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1061,8 +1048,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | EMERICK | Domani cacciamo nella vostra foresta d'altura:<br>tu (a Casimir) ci accompagnerai: e allora spiegherai<br>questo arrivo improvviso e fortunatissimo.<br>[Esce EMERICK; restano CASIMIR e SAROLTA. |  
 | SAROLTA | Mio signore! marito mio! guarda di chi è la spada che giace là!<br>È di Kiuprili, Casimir; è di tuo padre!<br>E impugnata dal braccio d'un giovinetto, sconfisse,<br>anzi, cadde come la folgore del Cielo su quel [[characters/tarquin\|Tarquinio]]. |  
 | CASIMIR | Zitta! zitta!<br>Avevo scoperto, prima di lasciare la [[motifs/city\|città]],<br>il maledetto intento del [[archetypes/tyrant\|tiranno]]. Lascivo, dannato ingrato!<br>Per lui feci scendere su di me la maledizione d'un padre!<br>Rapidi, rapidi devono essere i nostri mezzi! Il sole di domani<br>tramonta sul suo destino o sul mio! O benedetta Sarolta!<br>Nessun'altra [[motifs/prayer\|preghiera]], tardo penitente, oso offrire,<br>se non che le tue immacolate virtù prevalgano<br>sui delitti di Casimir, e sulla tremenda maledizione di Kiuprili!<br>[Escono. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1189,7 +1174,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | RUDOLPH | So perish tyrants! so end usurpation! |
 | CASIMIR | Bear hence the [[concepts/body\|body]], and move slowly on!<br>One moment ——<br>Devoted to a joy, that bears no witness,<br>I follow you, and we will greet our countrymen<br>With the two best and fullest gifts of heaven —<br>A [[archetypes/tyrant\|tyrant]] fallen, a patriot chief restored!<br>[CASIMIR enters the Cavern. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1312,8 +1296,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | CASIMIR | Rallegratevi, Illiri! l'[[archetypes/usurper\|usurpatore]] è caduto. |  
 | RUDOLPH | Così periscano i tiranni! così finisca l'usurpazione! |  
 | CASIMIR | Portate via il [[concepts/body\|corpo]], e avanzate lentamente!<br>Un solo istante ——<br>consacrato a una gioia che non vuole testimoni,<br>e vi seguo, e saluteremo i nostri compatrioti<br>coi due doni migliori e più pieni del cielo —<br>un [[archetypes/tyrant\|tiranno]] caduto, un capo patriota restituito!<br>[CASIMIR entra nella Caverna. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1343,7 +1325,6 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | CASIMIR | Chef Ragozzi!<br>O shame upon my head! I would have given her<br>To a base slave! |
 | ZAPOLYA | Heaven overruled thy purpose,<br>And sent an angel to thy house to guard her!<br>Thou precious bark! freighted with all our treasures!<br>The sports of tempests, and yet ne’er the victim,<br>How many may claim salvage in thee! Take her, son!<br>A [[characters/queen\|queen]] that brings with her a richer dowry<br>Than [[settings/orient\|orient]] kings can give! |
 | SAROLTA | A banquet waits! —<br>On this auspicious day, for some few hours<br>I claim to be your hostess. Scenes so awful<br>With flashing light, force wisdom on us all!<br>E’en women at the distaff hence may see,<br>That bad men may [[archetypes/rebel\|rebel]], but ne’er be free;<br>May whisper, when the waves of faction foam,<br>None [[motifs/love\|love]] their country, but who [[motifs/love\|love]] their [[motifs/home\|home]]:<br>For [[concepts/freedom\|freedom]] can with those alone abide,<br>Who wear the golden chain, with honest [[concepts/pride\|pride]],<br>Of [[motifs/love\|love]] and duty, at their own [[motifs/fire\|fire]]-side:<br>While mad [[concepts/ambition\|ambition]] ever doth caress<br>Its own sure fate, in its own restlessness! |
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1371,5 +1352,3 @@ Il dramma romanzesco in versi sciolti di Coleridge, modellato su *Il racconto d'
 | CASIMIR | Il capo Ragozzi!<br>Oh vergogna sul mio capo! L'avrei data<br>a un vile servo! |  
 | ZAPOLYA | Il cielo mutò il tuo disegno,<br>e mandò un angelo alla tua casa a custodirla!<br>Tu preziosa barca! carica d'ogni nostro tesoro!<br>trastullo delle tempeste, e non però mai vittima,<br>quanti possono vantare in te un salvataggio! Prendila, figlio!<br>Una [[characters/queen\|regina]] che reca con sé una dote più ricca<br>di quanta re d'[[settings/orient\|oriente]] ne possano dare! |  
 | SAROLTA | Un banchetto v'attende! —<br>In questo giorno propizio, per poche ore<br>reclamo d'esservi ospite. Scene sì tremende,<br>con luce folgorante, impongono a tutti saggezza!<br>Anche le donne alla conocchia da ciò vedranno<br>che i malvagi possono [[archetypes/rebel\|ribellarsi]], ma mai esser liberi;<br>e sussurreranno, quando l'onda della fazione spuma,<br>che nessuno [[motifs/love\|ama]] la patria, se non chi [[motifs/love\|ama]] la sua [[motifs/home\|casa]]:<br>ché la [[concepts/freedom\|libertà]] con quelli soli può dimorare<br>che portano l'aurea catena, con onesto [[concepts/pride\|orgoglio]],<br>d'[[motifs/love\|amore]] e di dovere, al proprio [[motifs/fire\|focolare]]:<br>mentre la folle [[concepts/ambition\|ambizione]] sempre accarezza<br>la propria sorte certa, nella propria inquietudine! |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

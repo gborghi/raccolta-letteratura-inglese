@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/friendship-tears" data-author="Keats" data-workhref="works/friendship-·-tears-(keats)"></div>
 
 
-<<<<<<< HEAD
 TO SOME LADIES · IMITATION OF SPENSER · TO GEORGE FELTON MATHEW · TO CHARLES COWDEN CLARKE · TO MY BROTHERS · KEEN, FITFUL GUSTS ARE WHISP’RING HERE AND THERE · Acrostic · Spenserian Stanza · Spenserian Stanzas on Charles Armitage Brown
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="003_to_some_ladies" data-title="TO SOME LADIES" data-chapter="" data-kind="intro"></span>
 
 

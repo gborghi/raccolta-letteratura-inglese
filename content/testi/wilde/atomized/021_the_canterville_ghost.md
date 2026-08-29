@@ -14,7 +14,6 @@ tags:
 <span class="atom-split" data-atom="021_the_canterville_ghost" data-title="The Canterville Ghost" data-chapter="" data-kind="intro"></span>
 
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -137,8 +136,6 @@ Il Duca si alzò e baciò sua moglie con affetto.
 “L’hai sempre avuto, Cecil, ”  
 “E un giorno lo racconterai anche ai nostri figli, vero?”  
 Virginia arrossì.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -166,7 +163,6 @@ The old woman smiled, and answered in the same low, mysterious voice, ‘It is t
 ‘Charge it to her like breakages,’ answered the Minister; ‘she won’t faint after that’; and in a few moments Mrs. Umney certainly came to.  There was no [[concepts/doubt|doubt]], however, that she was extremely upset, and she sternly warned Mr. Otis to beware of some trouble coming to the house.
 ‘I have seen things with my own eyes, sir,’ she said, ‘that would make any Christian’s hair stand on end, and many and many a [[motifs/night|night]] I have not closed my eyes in [[motifs/sleep|sleep]] for the awful things that are done here.’  Mr. Otis, however, and his wife warmly assured the honest [[motifs/soul|soul]] that they were not afraid of [[motifs/ghosts|ghosts]], and, after invoking the blessings of [[concepts/providence|Providence]] on her new master and mistress, and making arrangements for an increase of salary, the old housekeeper tottered off to her own room.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -189,8 +185,6 @@ La vecchia donna sorrise e rispose con lo stesso tono misterioso: “È il [[mot
 “Mio caro Hiram,” esclamò la signora Otis, “cosa possiamo fare con una donna che sviene così facilmente?”  
 “Consideratelo un danno. Non sverrà più dopo questo, ” rispose il ministro. In pochi istanti, la signora Umney riprese i sensi. Ma era chiaramente molto scossa. E avvertì severamente il signor Otis di fare attenzione a eventuali problemi che potessero verificarsi in quella casa.
 “Ho visto cose con i miei occhi, signore,” disse lei, “che farebbero drizzare i capelli in testa a qualsiasi cristiano; molte, molte notti non sono riuscita a dormire a causa delle terribili cose che avvengono qui.” Tuttavia, il signor Otis e sua moglie la rassicurarono calorosamente che non avevano paura dei [[motifs/ghosts|fantasmi]], e dopo aver invocato le benedizioni della [[concepts/providence|Provvidenza]] per i suoi nuovi padroni e aver concordato un aumento dello stipendio, la vecchia domestica si ritirò nella sua stanza.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -204,7 +198,6 @@ The day had been warm and sunny; and, in the cool of the evening, the whole fami
 For a moment the Canterville [[archetypes/ghost|ghost]] stood quite motionless in natural indignation; then, dashing the bottle violently upon the polished floor, he fled down the corridor, uttering hollow groans, and emitting a ghastly green light.  Just, however, as he reached the top of the great oak staircase, a door was flung open, two little white-robed figures appeared, and a large pillow whizzed past his head!  There was evidently no [[motifs/time|time]] to be lost, so, hastily adopting the Fourth Dimension of Space as a means of escape, he vanished through the wainscoting, and the house became quite quiet.
 On reaching a small secret chamber in the left wing, he leaned up against a moonbeam to recover his breath, and began to try and realise his position.  Never, in a brilliant and uninterrupted career of three hundred years, had he been so grossly insulted.  He thought of the Dowager Duchess, whom he had frightened into a fit as she stood before the glass in her lace and diamonds; of the four housemaids, who had gone off into hysterics when he merely grinned at them through the curtains of one of the spare bedrooms; of the rector of the parish, whose candle he had blown out as he was coming late one [[motifs/night|night]] from the library, and who had been under the care of Sir William Gull ever since, a perfect martyr to nervous disorders; and of old Madame de Tremouillac, who, having wakened up one morning early and seen a skeleton seated in an arm-chair by the [[motifs/fire|fire]] reading her diary, had been confined to her bed for six weeks with an attack of brain fever, and, on her recovery, had become reconciled to the Church, and broken off her connection with that notorious sceptic Monsieur de Voltaire.  He remembered the terrible [[motifs/night|night]] when the wicked Lord Canterville was found choking in his dressing-room, with the knave of diamonds half-way down his throat, and confessed, just before he died, that he had cheated Charles James Fox out of £50,000 at Crockford’s by means of that very card, and swore that the [[archetypes/ghost|ghost]] had made him [[motifs/swallow|swallow]] it.  All his great achievements came back to him again, from the butler who had shot himself in the pantry because he had seen a green hand tapping at the [[motifs/window|window]] pane, to the beautiful Lady Stutfield, who was always obliged to wear a black velvet band round her throat to hide the mark of five fingers burnt upon her white skin, and who drowned herself at last in the carp-pond at the end of the [[archetypes/king|King]]’s Walk.  With the enthusiastic egotism of the true [[archetypes/artist|artist]] he went over his most celebrated performances, and smiled bitterly to himself as he recalled to mind his last appearance as ‘Red Ruben, or the Strangled Babe,’ his début as ‘Gaunt Gibeon, the [[motifs/blood|Blood]]-sucker of Bexley Moor,’ and the furore he had excited one lovely June evening by merely playing ninepins with his own bones upon the lawn-tennis ground.  And after all this, some wretched modern Americans were to come and offer him the Rising Sun Lubricator, and throw pillows at his head!  It was quite unbearable.  Besides, no [[motifs/ghosts|ghosts]] in [[concepts/history|history]] had ever been treated in this manner.  Accordingly, he determined to have vengeance, and remained till daylight in an attitude of deep thought.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -214,8 +207,6 @@ La giornata era stata calda e soleggiata; e, nella frescura della sera, tutta la
 “Mio caro signore,” disse il signor Otis, “devo assolutamente insistere affinché oli quelle [[motifs/chains|catene]]; per questo motivo le ho portato una piccola bottiglia del lubrificante Tammany Rising Sun. Si dice che sia completamente efficace dopo un’unica applicazione, e sull’etichetta ci sono diversi attestati a sostegno di questa affermazione, firmati da alcuni dei nostri più eminenti divini locali. La lascio qui vicino alle candele del letto; se ne avesse bisogno, sarò felice di fornirgliene dell’altro.” Dopo queste parole, il ministro degli Stati Uniti posò la bottiglia su un tavolo di marmo e, chiudendo la porta, andò a riposare.
 Per un momento lo [[archetypes/ghost|fantasma]] di Canterville rimase immobile, colmo di indignazione naturale; poi, gettando con violenza la bottiglia sul pavimento lucido, fuggì lungo il corridoio, emettendo gemiti strani e una luce verde spettrale. Proprio nel momento in cui raggiunse la cima della grande scalinata di quercia, una porta si aprì improvvisamente: apparvero due piccole figure vestite di bianco, e un grosso cuscino gli sfrecciò accanto alla testa! Non c’era certo tempo da perdere; così, utilizzando rapidamente la “Quarta Dimensione dello Spazio” come mezzo di fuga, scomparve attraverso il rivestimento della parete, e la casa tornò improvvisamente silenziosa.
 Arrivato in una piccola camera segreta nell’ala sinistra, si appoggiò a un raggio di luna per riprendere fiato e cercò di capire dove si trovasse. Mai, nella sua brillante e ininterrotta carriera durata trecento anni, era stato offeso in modo così grave. Pensò alla Duchessa Vedova, che aveva spaventato a morte mentre stava davanti allo specchio, vestita di pizzo e diamanti; alle quattro cameriere, che erano entrate in isteria solo perché lui le aveva sorriso attraverso le tende di una delle stanze libere; al parroco del villaggio, la cui candela aveva spento una notte in cui era tornato tardi dalla biblioteca. Da allora il poveruomo viveva sotto la cura di Sir William Gull, diventando un perfetto esempio di disturbi nervosi; e poi c’era quella vecchia Madame de Tremouillac, che una mattina si era svegliata e aveva visto uno scheletro seduto in poltrona accanto al camino mentre leggeva il suo diario. Era rimasta a letto per sei settimane a causa di un attacco di febbre cerebrale; dopo essersi ripresa, si era riconciliata con la Chiesa e aveva rotto ogni rapporto con quel noto scettico, Monsieur de Voltaire. Ricordò anche quella terribile notte in cui il malvagio Lord Canterville fu trovato soffocato nel suo bagno, con il re dei dadi a metà strada nella sua gola. Prima di morire, aveva confessato di aver truffato Charles James Fox di 50.000 sterline al gioco d’azzardo, sostenendo che fosse stato lo “spettro” a costringerlo a farlo. Tutti i suoi grandi successi gli tornarono in mente: dal maggiordomo che si era sparato in cucina perché aveva visto una mano verde battere contro il vetro della finestra, alla bellissima Lady Stutfield, costretta sempre a indossare un nastro di velluto nero intorno al collo per nascondere le cicatrici lasciate da cinque dita brucianti sulla sua pelle bianca. Alla fine si era gettata nel laghetto pieno di carpe, alla fine del King’s Walk. Con l’entusiasmo egocentrico tipico di un vero “artista”, ripensò alle sue performance più celebri. E sorrise amaramente al ricordo della sua ultima interpretazione: “Red Ruben, o il Bambino Strangolato”; del suo debutto come “Gaunt Gibeon, il succhiatore di sangue di Bexley Moor”; e dell’ilarità che aveva suscitato una bella sera d’estate giocando a biliardo con le sue stesse ossa sul campo da tennis. E dopo tutto questo. Quei maledetti americani moderni venivano a offrirgli il “Rising Sun Lubricator” e a gettargli cuscini in testa! Era davvero insopportabile. Inoltre, nessun “spettro” nella storia era mai stato trattato in questo modo. Così decise di vendicarsi. E rimase lì, immerso nei suoi pensieri, fino all’alba.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -237,7 +228,6 @@ All others are Counterfeite.
 The whole thing flashed across him.  He had been tricked, foiled, and outwitted!  The old Canterville look came into his eyes; he ground his toothless gums together; and, raising his withered hands high above his head, swore, according to the picturesque phraseology of the antique school, that when Chanticleer had sounded twice his merry horn, deeds of [[motifs/blood|blood]] would be wrought, and Murder walk abroad with silent feet.
 Hardly had he finished this awful oath when, from the red-tiled roof of a distant homestead, a cock crew.  He laughed a long, low, bitter laugh, and waited.  Hour after hour he waited, but the cock, for some strange reason, did not crow again.  Finally, at half-past seven, the arrival of the housemaids made him give up his fearful vigil, and he stalked back to his room, thinking of his vain [[concepts/hope|hope]] and baffled purpose.  There he consulted several books of ancient chivalry, of which he was exceedingly fond, and found that, on every occasion on which his oath had been used, Chanticleer had always crowed a second [[motifs/time|time]].  ‘Perdition seize the naughty fowl,’ he muttered, ‘I have seen the day when, with my stout spear, I would have run him through the gorge, and made him crow for me an ‘twere in [[motifs/death|death]]!’  He then retired to a comfortable lead coffin, and stayed there till evening.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -252,8 +242,6 @@ Non avendo mai visto prima un [[archetypes/ghost|fantasma]], naturalmente fu ter
 “Tu, vecchio fantasma. L’unico vero e originale spettro. Sta’ attento alle imitazioni: tutti gli altri sono falsi.”  
 Tutto gli divenne chiaro: era stato ingannato, sconfitto e superato in astuzia! Lo sguardo fiero di Canterville riapparve nei suoi occhi; strinse i denti senza gengiva e, alzando le mani secche e tremanti sopra la testa, giurò, secondo lo stile pittoresco dell’epoca, che quando Chanticleer avesse suonato due volte il suo liuto gioioso, si sarebbero compiuti atti di [[motifs/blood|sangue]], e l’omicidio avrebbe camminato per le strade con passi silenziosi.
 Appena ebbe finito di pronunciare quel terribile giuramento, dal tetto di tegole rosse di una lontana fattoria si udì il canto di un gallo. Rise a lungo, in modo sommesso e amaro, poi attese. Ore dopo ore, ma per qualche strano motivo il gallo non cantò più. Alla fine, alle sette e mezza, l’arrivo delle domestiche lo costrinse ad interrompere quella angosciosa attesa; tornò nella sua stanza, pensando alla sua vana speranza e al suo scopo irrealizzabile. Lì consultò diversi libri sulla cavalleria antica, che amava molto, e scoprì che in tutte le occasioni in cui quel giuramento era stato pronunciato, Chanticleer aveva sempre cantato una seconda volta. “Che la perdizione colpisca quella maledetta bestia”, mormorò, “giungerà il giorno in cui, con la mia lancia, la ucciderò e la costringerò a cantare, anche se dovesse significare la mia morte!” Poi si ritirò in un comodo sarcofago di piombo e vi rimase fino alla sera.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -269,7 +257,6 @@ After this he was not seen again on any nocturnal expedition.  The twins lay in
 The Otises, however, were deceived, for the [[archetypes/ghost|ghost]] was still in the house, and though now almost an invalid, was by no means ready to let matters rest, particularly as he heard that among the guests was the young Duke of Cheshire, whose grand-uncle, Lord Francis Stilton, had once bet a hundred guineas with Colonel Carbury that he would play dice with the Canterville [[archetypes/ghost|ghost]], and was found the next morning lying on the floor of the card-room in such a helpless paralytic state, that though he lived on to a great age, he was never able to say anything again but ‘[[topoi/double|Double]] Sixes.’  The story was [[motifs/well|well]] known at the [[motifs/time|time]], though, of course, out of respect to the feelings of the two noble families, every attempt was made to hush it up; and a full account of all the circumstances connected with it will be found in the third volume of Lord Tattle’s Recollections of the Prince Regent
 and his Friends.  The [[archetypes/ghost|ghost]], then, was naturally very anxious to show that he had not lost his influence over the Stiltons, with whom, indeed, he was distantly connected, his own first cousin having been married en secondes noces to the Sieur de Bulkeley, from whom, as every one knows, the Dukes of Cheshire are lineally descended.  Accordingly, he made arrangements for appearing to Virginia’s little [[archetypes/lover|lover]] in his celebrated impersonation of ‘The Vampire Monk, or, the Bloodless Benedictine,’ a performance so horrible that when old Lady Startup saw it, which she did on one fatal New Year’s Eve, in the year 1764, she went off into the most piercing shrieks, which culminated in violent apoplexy, and died in three days, after disinheriting the Cantervilles, who were her nearest relations, and leaving all her money to her [[settings/london|London]] apothecary.  At the last moment, however, his terror of the twins prevented his leaving his room, and the little Duke slept in peace under the great feathered canopy in the Royal Bedchamber, and dreamed of Virginia.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -280,8 +267,6 @@ Ora aveva completamente abbandonato ogni speranza di spaventare quella famiglia 
 Dopo questo episodio, non lo si vide più partecipare a nessuna spedizione notturna. I gemelli lo aspettarono in diverse occasioni e, ogni [[motifs/night|notte]], sparpagliavano gusci di noci nei corridoi, causando grande fastidio ai loro genitori e ai domestici, ma senza alcun risultato. Era evidente che i suoi sentimenti erano stati profondamente feriti, tanto da impedirgli di farsi vedere. Di conseguenza, il signor Otis riprese il suo importante lavoro sulla [[concepts/history|storia]] del Partito Democratico, a cui si dedicava da alcuni anni; la signora Otis organizzò un meraviglioso evento per la cottura delle vongole, che stupì l’intera contea; i ragazzi iniziarono a praticare sport come il lacrosse, l’euchre e il poker; Virginia, invece, cavalcava per i sentieri con il giovane Duca di Cheshire, che era venuto a trascorrere l’ultima settimana delle sue vacanze a Canterville Chase. Si riteneva generalmente che lo [[archetypes/ghost|fantasma]] se ne fosse andato; anzi, il signor Otis scrisse una lettera in questo senso al lord di Canterville, il quale rispose esprimendo grande gioia per la notizia e inviando i suoi migliori auguri alla nobile moglie del ministro.  
 Tuttavia, i Otis erano ingannati: lo [[archetypes/ghost|fantasma]] era ancora nella casa, e sebbene ormai quasi invalido, non aveva affatto intenzione di lasciare le cose come stavano, soprattutto perché aveva saputo che tra gli ospiti c’era il giovane Duca di Cheshire. Il prozio del duca, lord Francis Stilton, aveva una volta scommesso cento ghinee con il colonnello Carbury che avrebbe giocato a dadi contro lo [[archetypes/ghost|fantasma]] di Canterville; la mattina seguente fu trovato privo di sensi sul pavimento della sala da gioco, in uno stato di paralisi totale. Sebbene visse fino a un’età avanzata, non riuscì mai più a pronunciare altre parole se non “Doppio Sei”. Questa storia era ben nota all’epoca; tuttavia, per rispetto verso i sentimenti delle due nobili famiglie, si cercò in tutti i modi di farla tacere. Una descrizione completa di tutte le circostanze relative a questo evento si trova nel terzo volume delle “Memorie del principe reggente” di lord Tattle.
 E i suoi amici. Quindi, il [[archetypes/ghost|fantasma]] era naturalmente molto desideroso di dimostrare di non aver perso la propria influenza sui Stilton, con i quali, del resto, aveva un legame di parentela: sua cugina di primo grado, infatti, aveva sposato in seconde nozze il Signor de Bulkeley, da cui, come tutti sanno, discendono direttamente i Duchi di Cheshire. Pertanto, prese accordi per apparire al piccolo [[archetypes/lover|innamorato]] di Virginia nella sua celebre interpretazione del “Monaco Vampiro, o Benedettino Senza Sangue”: uno spettacolo così orribile che, quando la vecchia Lady Startup lo vide – avvenne in una fatale notte di Capodanno del 1764 – iniziò a urlare disperatamente, fino ad avere un attacco apoplettico e morire tre giorni dopo. In quel momento, escluse i Canterville, suoi parenti più prossimi, lasciò tutti i propri soldi al suo farmacista di [[settings/london|Londra]]. Tuttavia, all’ultimo momento, la paura che provava nei confronti dei gemelli gli impedì di lasciare la sua stanza. E il piccolo Duca dormì serenamente sotto il grande baldacchino foderato di piume nella Camera Reale, sognando Virginia.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -329,7 +314,6 @@ But I don’t know what they mean.’
 Virginia made no answer, and the [[archetypes/ghost|Ghost]] wrung his hands in wild [[concepts/despair|despair]] as he looked down at her bowed golden head.  Suddenly she stood up, very pale, and with a strange light in her eyes.  ‘I am not afraid,’ she said firmly, ‘and I will ask the Angel to have [[concepts/mercy|mercy]] on you.’
 He [[motifs/rose|rose]] from his seat with a faint cry of joy, and taking her hand bent over it with old-fashioned grace and kissed it.  His fingers were as cold as ice, and his lips burned like [[motifs/fire|fire]], but Virginia did not falter, as he led her across the dusky room.  On the faded green tapestry were broidered little huntsmen.  They blew their tasselled horns and with their tiny hands waved to her to go back.  ‘Go back! little Virginia,’ they cried, ‘go back!’ but the [[archetypes/ghost|Ghost]] clutched her hand more tightly, and she shut her eyes against them.  Horrible [[motifs/animals|animals]] with lizard tails, and goggle eyes, blinked at her from the carven chimney-piece, and murmured ‘Beware! little Virginia, beware! we may never see you again,’ but the [[archetypes/ghost|Ghost]] glided on more swiftly, and Virginia did not listen.  When they reached the end of the room he stopped, and muttered some words she could not understand.  She opened her eyes, and saw the wall slowly fading away like a mist, and a great black cavern in front of her.  A bitter cold [[motifs/wind|wind]] swept round them, and she felt something pulling at her dress.  ‘Quick, quick,’ cried the [[archetypes/ghost|Ghost]], ‘or it will be too late,’ and, in a moment, the wainscoting had closed behind them, and the Tapestry Chamber was empty.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -372,8 +356,6 @@ Ma non so cosa significhino, ”
 “Significano,” disse lui tristemente, “che devi piangere per i miei peccati, perché io non ho lacrime. E pregare per la mia anima, perché io non ho fede. Se sei sempre stata gentile e buona, l’Angelo della [[motifs/death|Morte]] avrà pietà di me. Vedrai forme spaventose nell’oscurità, voci malvagie ti sussurreranno all’orecchio. Ma non ti faranno del male. Perché contro la purezza di un bambino, le forze dell’inferno non possono prevalere.”  
 Virginia non rispose. Lo [[archetypes/ghost|Spettro]] strinse le mani in un disperato [[concepts/despair|dolore]], guardando il suo viso pallido e i suoi occhi pieni di luce strana. All’improvviso, lei si alzò in piedi, molto pallida, con uno sguardo deciso negli occhi. “Non ho paura,” disse fermamente. “Chiederò all’Angelo di avere pietà di te.”
 Si alzò dal suo posto con un debole grido di gioia, prese la sua mano e, con una grazia antiquata, se la baciò. Le sue dita erano gelide come il ghiaccio, mentre le sue labbra bruciavano come [[motifs/fire|fuoco]], ma Virginia non esitò quando lui la guidò attraverso la stanza avvolta nella penombra. Sulla tappezzeria verde sbiadita erano ricamati piccoli cacciatori; soffiavano nelle loro corna a pomponi e, con le loro manine minuscole, le facevano segno di tornare indietro. “Torna indietro, piccola Virginia!”, gridavano, ma lo [[archetypes/ghost|Fantasma]] stringeva la sua mano ancora più forte, e lei chiuse gli occhi davanti a loro. Terribili [[motifs/animals|animali]] con code di lucertola e occhi spalancati la fissavano dal camino intagliato, mormorando: “Stai attenta, piccola Virginia, potremmo non rivederti mai più”, ma lo [[archetypes/ghost|Fantasma]] proseguiva veloce, e Virginia non ascoltava. Quando raggiunsero la fine della stanza, si fermò e mormorò alcune parole che lei non riuscì a comprendere. Aprì gli occhi e vide il muro dissolversi lentamente come una nebbia, davanti a lei c’era una grande caverna nera. Un freddo pungente li avvolse, e sentì qualcosa tirare il suo vestito. “Veloce, veloce!”, gridò lo [[archetypes/ghost|Fantasma]], “altrimenti sarà troppo tardi, ” In un attimo, la tappezzeria si chiuse alle loro spalle, e la Camera della Tappezzeria rimase vuota.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -393,7 +375,6 @@ The whole family gazed at her in mute amazement, but she was quite [[motifs/grav
 ‘God has forgiven him,’ said Virginia gravely, as she [[motifs/rose|rose]] to her feet, and a beautiful light seemed to illumine her face.
 ‘What an angel you are!’ cried the young Duke, and he put his arm round her neck and kissed her.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -410,8 +391,6 @@ Tutta la famiglia la guardò in silenzio, stupita; lei, però, era molto seria. 
 “Ehi!” esclamò improvvisamente una delle gemelle, che stava guardando fuori dalla finestra per scoprire in quale parte della casa si trovasse quella stanza, “Ehi! Quell’antico albero di mandorlo è fiorito. Posso vedere i fiori chiaramente, alla luce della luna, ”  
 “Dio lo ha perdonato,” disse Virginia con serietà, alzandosi in piedi. Un bellissimo sorriso le illuminò il viso.  
 “Che angelo sei!” esclamò il giovane duca, mettendole un braccio intorno al collo e baciandola.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -435,7 +414,6 @@ The Duke [[motifs/rose|rose]] and kissed his wife lovingly.
 ‘You have always had that, Cecil.’
 ‘And you will tell our children some day, won’t you?’
 Virginia blushed.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -458,5 +436,3 @@ Il Duca si alzò e baciò sua moglie con affetto.
 “L’hai sempre avuto, Cecil, ”  
 “E un giorno lo racconterai anche ai nostri figli, vero?”  
 Virginia arrossì.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

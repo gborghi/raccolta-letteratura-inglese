@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan" data-author="Keats" data-workhref="works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(keats)"></div>
 
 
-<<<<<<< HEAD
 WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON · HOW MANY BARDS GILD THE LAPSES OF TIME! · TO A FRIEND WHO SENT ME SOME ROSES · ON LEAVING SOME FRIENDS AT AN EARLY HOUR · HAPPY IS ENGLAND! I COULD BE CONTENT · Fill for me a brimming bowl · Lines · Sonnet: When I have fears that I may cease to be · O! Were I one of the Olympian twelve · Song: The stranger lighted from his steed · Sonnet to Homer · The Devon Maid · Sonnet on Visiting the Tomb of Burns · Sonnet Written in the Cottage where Burns was Born · Translation from a Sonnet of Ronsard · Ode to Fanny · Song: Hush, hush! tread softly! hush, hush my dear! · Sonnet: · Fame, like a wayward Giri, will still be coy · How fever’d is the man, who cannot look · Sonnet on the Sonnet · You Say You Love · Sonnet to Fanny
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="014_written_on_the_day_that_mr_leigh_hunt_left_prison" data-title="WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON" data-chapter="" data-kind="intro"></span>
 
 

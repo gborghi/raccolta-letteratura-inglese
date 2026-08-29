@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/grief-and-loss-elegy-clothing-and-costume" data-author="Whitman" data-workhref="works/grief-and-loss-·-elegy-·-clothing-and-costume-(whitman)"></div>
 
 
-<<<<<<< HEAD
 Once I Pass’d Through a Populous City · Scented Herbage of My Breast · Crossing Brooklyn Ferry · Cavalry Crossing a Ford · Come Up from the Fields Father · Year That Trembled and Reel’d Beneath Me · Dirge for Two Veterans · When Lilacs Last in the Dooryard Bloom’d · O Captain! My Captain! · Hush’d Be the Camps To-Day [May 4, 1865 · Old Ireland · Outlines for a Tomb [G. P., Buried 1870] · My Picture-Gallery · O Magnet-South · As at Thy Portals Also Death · As I Sit Writing Here · Memories · The Dead Tenor · Thanks in Old Age · The Dead Emperor · The Pallid Wreath · A Twilight Song
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="039_once_i_pass_d_through_a_populous_city" data-title="Once I Pass’d Through a Populous City" data-chapter="" data-kind="intro"></span>
 
 

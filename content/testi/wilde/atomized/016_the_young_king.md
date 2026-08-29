@@ -111,7 +111,6 @@ And lo! through the painted windows came the sunlight streaming upon him, and th
 He stood there in the raiment of a [[archetypes/king|king]], and the gates of the jewelled shrine flew open, and from the crystal of the many-rayed monstrance shone a marvellous and mystical light.  He stood there in a [[archetypes/king|king]]’s raiment, and the Glory of God filled the place, and the saints in their carven niches seemed to move.  In the fair raiment of a [[archetypes/king|king]] he stood before them, and the organ pealed out its music, and the trumpeters blew upon their trumpets, and the singing boys sang.
 And the people fell upon their knees in awe, and the nobles sheathed their swords and did homage, and the Bishop’s face grew pale, and his hands trembled.  ‘A greater than I hath crowned thee,’ he cried, and he knelt before him.
 And the [[characters/young-king|young King]] came down from the high altar, and passed [[motifs/home|home]] through the midst of the people.  But no man dared look upon his face, for it was like the face of an angel.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -202,5 +201,3 @@ E ecco! Attraverso le finestre dipinte entrò la luce del sole che lo avvolse co
 Lì in piedi, vestito come un [[archetypes/king|re]], le porte del tempio incastonato si aprirono improvvisamente, e dal cristallo della lampada multicolore emanò una luce meravigliosa e mistica. Lui stava lì, avvolto nell’abito di un re; la Gloria di Dio riempì quel luogo, e i santi nelle loro nicchie sembrarono muoversi. Vestito come un [[archetypes/king|re]], si presentò davanti a loro: l’organo intonò le sue melodie, i trombettisti suonarono, e i ragazzi cantarono.  
 La gente cadde in ginocchio per la reverenza; i nobili riposero le loro spade e gli resero omaggio; il volto del vescovo impallidì, le sue mani tremavano. “Qualcuno più grande di me ti ha incoronato”, esclamò, e si inginocchiò davanti a lui.  
 Il giovane [[characters/young-king|re]] scese dall’altare e tornò a casa tra la folla; nessuno osava guardarlo in faccia, perché era simile al volto di un angelo.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

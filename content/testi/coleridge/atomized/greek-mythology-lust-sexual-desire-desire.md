@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire" data-author="Coleridge" data-workhref="works/greek-mythology-·-lust-sexual-desire-·-desire-(coleridge)"></div>
 
 
-<<<<<<< HEAD
 AN ODE IN THE MANNER OF ANACREON · KISSES · IMITATED FROM THE WELSH · THE KISS · TO MISS BRUNTON · THE SILVER THIMBLE · CATULLIAN HENDECASYLLABLES · JEUX D’ESPRIT: MY GODMOTHER’S BEARD · THE WILLS OF THE WISP · MILESISCHES MÄHRCHEN · ALLA SUA AMICA
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="034_an_ode_in_the_manner_of_anacreon" data-title="AN ODE IN THE MANNER OF ANACREON" data-chapter="" data-kind="intro"></span>
 
 
@@ -33,12 +30,20 @@ Fluttering his wings within my breast!
 1792.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Mentre di recente in serti legavo [[motifs/flowers|fiori]] gai,  
+sotto certe rose trovai l'[[motifs/love|Amore]];  
+e per la sua alucola festosa  
+rapido come il pensiero afferrai il monello,  
+poi nella mia coppa gettai il prigioniero,   5  
+e lo bevvi nella sua rugiada frizzante:  
+e certo sento il mio ospite irato  
+sbattere le ali dentro il mio petto!  
+1792.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="044_kisses" data-title="KISSES" data-chapter="" data-kind="intro"></span>
 
 
@@ -63,12 +68,30 @@ And breath’d on Sara’s lovelier lips the rest.
 1793.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cupido, se le Leggende narranti dicono il vero,  
+compose un tempo un ricco Elisir di Delizia.  
+Fissò un Calice su fiamme accese d'[[motifs/love|amore]],  
+e vi mescolò Nettare e Ambrosia:  
+con questi le rugiade magiche che la Sera reca,   5  
+spazzate dalla stella Idalia da ali fatate:  
+unì ogni tenero pegno di sacra [[concepts/faith|Fede]],  
+ogni Piacere più mite della mente immacolata —  
+[[motifs/dreams|sogni]] a occhi aperti, i cui colori splendono d'un fulgore giocoso,  
+e la [[concepts/hope|Speranza]], parassita incolpevole del Dolore.   10  
+Il Chimico senz'occhi udì il processo salire,  
+il Calice fumante gorgogliò in sospiri;  
+dolci suoni traspirarono, come quando la Colomba innamorata  
+versa il molle mormorio dell'[[motifs/love|Amore]] corrisposto.  
+L'opera finita l'Invidia poté invano biasimare,   15  
+e ‘Baci’ fu il nome del prezioso Composto.  
+Con metà il Dio benedisse la sua Madre Cipria,  
+e alitò il resto sulle labbra più belle di Sara.  
+1793.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="054_imitated_from_the_welsh" data-title="IMITATED FROM THE WELSH" data-chapter="" data-kind="intro"></span>
 
 
@@ -83,12 +106,20 @@ It wishes to discover.
 ? 1794.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Se mentre ti confido la mia passione  
+giudichi false le mie parole,  
+oh, posa la mano sul mio cuore —  
+senti come pulsa per te!  
+Ah no! respingi la richiesta sconsiderata   5  
+per pietà del tuo [[archetypes/lover|Amante]]!  
+quel tocco che fa fremere alimenterebbe la fiamma  
+che vorrebbe scoprire.  
+? 1794.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="063_the_kiss" data-title="THE KISS" data-chapter="" data-kind="intro"></span>
 
 
@@ -124,12 +155,41 @@ The gentle violence of Joy.
 ? 1794.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un bacio, cara Fanciulla! dissi e sospirai —  
+il tuo sdegno negò il piccolo dono.  
+Ah, perché rifiutare la gioia incolpevole?  
+Può un pericolo annidarsi in un bacio?  
+Quell'invisibile vagabondo della valle,   5  
+lo Spirito della Brezza d'Occidente,  
+allo spuntar del Mattino, al chiudersi della Sera  
+aspira la dolcezza della [[motifs/rose|Rosa]],  
+e aleggia sul fiore illeso  
+risospirandone il molle profumo.   10  
+Vigore all'ala dello Zefiro  
+lanciano i baci di lei che spirano nettare;  
+ed Egli lo scintillio della Rugiada  
+sparge sul colore della [[motifs/rose|Rosa]].  
+Ecco, vergognosa china il capo,   15  
+e saetta un rossore d'un Rosso più cupo!  
+Troppo [[motifs/well|bene]] quelle labbra amabili rivelano  
+i trionfi della [[motifs/rose|Rosa]] che s'apre;  
+o bella! o graziosa! comanda loro d'esser  
+altrettanto passive al soffio d'[[motifs/love|Amore]].   20  
+In accenti teneri, fiochi e bassi,  
+[[motifs/well|ben]] contento odo il sussurrato ‘No!’  
+Il sussurrato ‘No’ — quanto poco inteso!  
+Dolce Menzogna che rende caro il Consenso!  
+Ché su quelle labbra amabili intanto  
+25  
+albeggia il molle sorriso che cede,  
+e tenta con finta dissuasione ritrosa  
+la dolce violenza della Gioia.  
+? 1794.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="066_to_miss_brunton" data-title="TO MISS BRUNTON" data-chapter="" data-kind="intro"></span>
 
 
@@ -149,12 +209,25 @@ I have my Brunton too.’
 1794.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CON LA [[forms/translation|TRADUZIONE]] PRECEDENTE  
+Quella prediletta della Musa Tragica,  
+quando Wrangham ne cantò la lode,  
+Talia perse i suoi colori rosei,  
+e s'ammalò a quei versi:  
+ma fugace fu il sospiro insolito;    5  
+ché presto la Dea scorse  
+una forma-sorella dall'occhio ilare,  
+e danzò di gioia e gridò:  
+‘La [[archetypes/child|figlia]] più dolce della mite Pietà, altera signora,  
+i fati l'hanno data a te!   10  
+Fa' pure che il tuo Poeta vanti il suo nome;  
+anch'io ho la mia Brunton.’  
+1794.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="106_the_silver_thimble" data-title="THE SILVER THIMBLE" data-chapter="" data-kind="intro"></span>
 
 
@@ -230,12 +303,81 @@ SARA.
 1795.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+OPERA D'UNA GIOVANE SIGNORA, INDIRIZZATA ALL'AUTORE DELLE POESIE CUI ALLUDE L'EPISTOLA PRECEDENTE  
+Aveva perduto il suo Ditale d'Argento, e il suo lamento, essendo stato  
+udito per caso da lui, suo Amico, egli subito gliene mandò  
+altri quattro perché scegliesse.  
+Quante volte il mio occhio con sguardo distratto  
+ha galoppato per qualche vecchio romanzo  
+d'[[motifs/birds|Uccelli]] parlanti e Destrieri con le ali,  
+Giganti e Nani, e Demoni e Re;  
+più d'ogni altra cosa, con cura più attenta,   5  
+ho amato leggere della Bella favorita dagli elfi ——  
+come, se desiderava qualcosa sotto il cielo  
+e lasciava sfuggire un solo sospiro votivo,  
+portata su ali aeree e invisibili  
+la cosa si posava ossequiosa ai suoi piedi:   10  
+tali cose, pensavo, non si può [[concepts/hope|sperare]] d'incontrarle  
+se non nella cara deliziosa terra di Fata!  
+Ma ora (per prova lo so [[motifs/well|bene]])  
+c'è pur sempre qualche pericolo nel desiderare a piacere ——  
+la Cortesia è un incanto autorizzato,    15  
+e voi, caro Signore, l'Arci-mago.  
+Molto mi confondeste con quell'assortimento vario:  
+erano davvero un elegante quartetto!  
+La mia mente andò avanti e indietro, e a lungo vacillò;  
+alfine ho scelto (Samuel mi crede in errore)   20  
+quello intorno al cui orlo azzurro  
+figure d'argento paiono nuotare,  
+come nubi bianche di vello che sull'Azzurro del cielo,  
+destate da nessuna brezza, serbano le forme [[concepts/self|medesime]];  
+o Ninfe dell'oceano con membra di tinta nevosa   25  
+che fluttuano lente sulla calma piana cerulea.  
+Proprio uno così, mon cher ami,  
+(lo scudo del dito dell'operosità)  
+gli Dei inventivi, credo, diedero a Pallade  
+nel [[motifs/time|tempo]] in cui la vana Aracne, follemente ardita,   30  
+sfidò la Vergine dagli occhi azzurri del cielo  
+a tentare un duello di ricamo.  
+E di qui il Dito inditalato della [[motifs/grave|grave]] Pallade  
+fu più che calloso alla punta dell'Ago errante.  
+Ma ah, la povera Aracne! Lei, disarmata,   35  
+sbagliando per frettolosa smania, allarmata  
+con tutte le speranze d'una Rivale, i timori d'una Mortale,  
+sempre falliva il punto, e macchiava la tela di [[motifs/tears|lacrime]].  
+Punture innumerevoli, piccole ma dolenti,  
+assai stizzosamente la fanciulla sopportò,   40  
+finché trovò il suo dito di giglio  
+imporporato di molte minuscole ferite;  
+e ai suoi occhi, soffusi d'acquoso dolore,  
+la sua tela ricamata di fiori danzava offuscata, credo,  
+come arbusti in fiore in una nebbia che corre:   45  
+finché, vinta, la Fanciulla disperata cadde a terra.  
+O Bardo! che certo nessuna Musa comune ispira,  
+udii il tuo Verso che arde di fuochi vestali!  
+E io, dalla punta errante dell'ago non sorvegliato,  
+avrei certo patito su ogni nocca   50  
+quelle ferite che un tempo toccarono alla povera Aracne;  
+mentre lui, l'Oggetto tanto amato della mia scelta  
+(il mio petto fremente d'ardore entusiasta),  
+versava nel mio orecchio con voce profonda e solenne  
+come il gran [[archetypes/prophet|Profeta]] del Deserto stette   55  
+e predicò Penitenza presso la Corrente del Giordano;  
+o della Guerra; oppure i canti leggendari  
+[[forms/hymn|innalzati]] in misure semplicissime a lode d'Allà;  
+o ciò che il Bardo, dalle scorte più intime del cuore,  
+versa in numeri più alti sulla [[motifs/grave|tomba]] dell'Amico:   60  
+sì, Bardo cortese! non facesti che obbedire alle leggi  
+della Giustizia, quando mandasti il ditale;  
+quali ferite la tua Musa che sconvolge il pensiero potesse causare,  
+è [[motifs/well|bene]] che i tuoi doni scuda-dita le prevengano.  
+SARA.  
+1795.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="163_catullian_hendecasyllables" data-title="CATULLIAN HENDECASYLLABLES" data-chapter="" data-kind="intro"></span>
 
 
@@ -259,12 +401,29 @@ Shivering with ecstasy sank upon her bosom.
 ? 1799.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Odi, mia amata, un'antica storia milesia! —  
+Alto, e annidato in allori raccolti,  
+luccicava un tempio su un promontorio ventoso;  
+nella fioca lontananza fra i flutti del cielo  
+[[motifs/rose|sorgeva]] una bella isola; il dio delle greggi l'aveva benedetta.   5  
+Dalle rive lontane dell'isola risonante di belati  
+spesso al chiaro di luna veniva fluttuando una barchetta,  
+veniva alla [[motifs/cave|grotta]] marina sotto il promontorio ventoso,  
+dove fra i mirti un sentiero saliva furtivo a giravolte  
+fino ai boschetti dell'alto tempio annidato.   10  
+Là, in un folto di rose consacrate,  
+spesso una sacerdotessa, amabile come una visione,  
+versando l'[[motifs/soul|anima]] al figlio di Citerea,  
+lo pregava d'aleggiare intorno alla fragile canoa,  
+e con invisibile pilotaggio di guidarla   15  
+sull'onda fosca, finché il navigante notturno,  
+rabbrividendo d'estasi, le cadeva sul seno.  
+? 1799.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="361_jeux_desprit_my_godmothers_beard" data-title="JEUX D’ESPRIT: MY GODMOTHER’S BEARD" data-chapter="" data-kind="intro"></span>
 
 
@@ -291,12 +450,32 @@ lines, as inscribed on the margin of Omniana, were written about    1830
 or 1831. First collected in Coleridge’s [[works/poems-(chesterton)|Poems]], 1907.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tanto grandi erano le grazie della sig.ra Mundy  
+che gli uomini si facevano villani per averne un bacio:  
+ciò irritò tanto la dama che un giorno  
+si lamentò con la casta Pallade:  
+né invano rivolse la sua [[motifs/prayer|preghiera]],  
+né invano si volse a quella potenza;  
+la dea ordinò a una lunghezza di pelo  
+di nasconderle il muso in profondo recesso:  
+Persevera pure! sii insensibile all'[[motifs/love|amore]]!  
+ché ho udito la tua supplica!  
+Rubare un bacio sarebbe vano (gridò Pallade)  
+a meno che tu non ti rada prima la barba.  
+?    1791  
+Pubblicati per la prima volta in Table Talk and Omniana, 1888, p. 392. I versi  
+furono trascritti da Coleridge nella copia di Gillman degli Omniana del 1812.  
+Vi è annessa una nota di scusa. J. P. Collier (Old Man’s Diary, 1871,  
+5 marzo 1832, parte I, p. 34) racconta che Coleridge ‘recitò il seguente  
+[[forms/epigram|epigramma]] non molto buono, suo, sulla barba della madrina; la conseguenza  
+fu che venne cancellato dal testamento di lei’. Molto probabilmente i  
+versi, come trascritti a margine degli Omniana, furono scritti intorno al    1830  
+o al 1831. Prima raccolti nei [[works/poems-(chesterton)|Poems]] di Coleridge, 1907.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="367_the_wills_of_the_wisp" data-title="THE WILLS OF THE WISP" data-chapter="" data-kind="intro"></span>
 
 
@@ -314,12 +493,23 @@ First published in Morning Post, December 1, 1801. First collected P.
 and D. W., 1877, ii. 169.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+UNA SAFFICA  
+Vix ea nostra voco  
+Lunatici fuochi di [[characters/witch|Strega]]! [[motifs/ghosts|Fantasmi]] di Luce e di Moto!  
+Senza timore vi vedo tessere le vostre danze lascive  
+presso di me, lontano da me; voi, che tentate il viandante  
+sempre più avanti.  
+Corteggiando, ritraendovi, finché la palude sotto di lui  
+geme — ed è buio! — Questa è astuzia di donna — la conosco!  
+L'appresi da te, dai tuoi sguardi perfidi!  
+Rebecca dagli occhi neri!  
+Pubblicata per la prima volta nel Morning Post, 1º dicembre 1801. Prima raccolta in P.  
+and D. W., 1877, ii. 169.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="433_milesisches_mährchen" data-title="MILESISCHES MÄHRCHEN" data-chapter="" data-kind="intro"></span>
 
 
@@ -346,12 +536,32 @@ B
 [Vide ante, p. 307]  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ein milesisches Mährchen, Adonide:  
+Unter heiligen Lorbeerwipfeln glänzte  
+Hoch auf rauschendem Vorgebirg ein Tempel.  
+Aus den Fluthen erhub, von Pan gesegnet,  
+In Gedüfte der Ferne sich ein Eiland.   5  
+Oft, in mondlicher Dämmrung, schwebt’ ein Nachen  
+Vom Gestade des heerdenreichen Eilands,  
+Zur umwaldeten Bucht, wo sich ein Steinpfad  
+Zwischen Mirten zum Tempelhain emporwand.  
+Dort im Rosengebüsch, der Huldgöttinnen   10  
+Marmorgruppe geheiligt, fleht’ oft einsam  
+Eine Priesterin, reizend wie Apelles  
+Seine Grazien malt, zum Sohn Cytherens,  
+Ihren Kallias freundlich zu umschweben  
+Und durch Wogen und Dunkel ihn zu leiten,   15  
+Bis der nächtliche Schiffer, wonneschauernd,  
+An den Busen ihr sank.  
+L'originale tedesco della [[forms/translation|traduzione]] fu pubblicato in [[works/poems-(chesterton)|Poems]], 1852,  
+Note, pp. 387-9.  
+B  
+[Vide ante, p. 307]
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="446_alla_sua_amica" data-title="ALLA SUA AMICA" data-chapter="" data-kind="intro"></span>
 
 
@@ -381,3 +591,33 @@ Da find’ ich dich, mich findest du.   5
 The German original is translated from an MS. Notebook of ? 1801.  
 O  
 [Vide ante, p. 414]  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sonetto.  
+Donna, siam rei di morte. Errasti, errai;  
+Di perdon non son degni i nostri errori,  
+Tu che avventasti in me sì fieri ardori  
+Io che le fiamme a sì bel sol furai.  
+Io che una fiera rigida adorai,   5  
+Tu che fosti sord’ aspra a’ miei dolori;  
+Tu nell’ ire ostinata, io negli amori:  
+Tu pur troppo sdegnasti, io troppo amai.  
+Or la pena laggiù nel cieco Averno  
+Pari al fallo n’aspetta. Arderà poi,   10  
+Chi visse in foco, in vivo foco eterno.  
+Quivi: se Amor fia giusto, amboduo noi,  
+All’ incendio dannati, avrem l’ inferno,  
+Tu nel mio core, ed io negli occhi tuoi.  
+L'originale italiano è stampato nelle Note a P. W., 1893, p. 632.  
+N  
+[Vide ante, p. 409]  
+In diesem Wald, in diesen Gründen  
+Herrscht nichts, als Freyheit, Lust und Ruh.  
+Hier sagen wir der Liebe zu,  
+Im dichtsten Schatten uns zu finden:  
+Da find’ ich dich, mich findest du.   5  
+L'originale tedesco è tradotto da un Taccuino MS. del ? 1801.  
+O  
+[Vide ante, p. 414]

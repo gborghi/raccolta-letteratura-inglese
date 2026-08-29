@@ -270,7 +270,6 @@ And when he had finished his word the people wept, and the Priest went back to t
 And after that they had unrobed him, he looked at them and said, ‘What are the [[motifs/flowers|flowers]] that stand on the altar, and whence do they come?’
 And they answered him, ‘What [[motifs/flowers|flowers]] they are we cannot tell, but they come from the corner of the Fullers’ Field.’  And the Priest trembled, and returned to his own house and prayed.
 And in the morning, while it was still [[motifs/dawn|dawn]], he went forth with the [[characters/monks|monks]] and the musicians, and the candle-bearers and the swingers of censers, and a great company, and came to the shore of the sea, and blessed the sea, and all the wild things that are in it.  The Fauns also he blessed, and the little things that [[motifs/dance|dance]] in the woodland, and the bright-eyed things that peer through the [[motifs/leaves|leaves]].  All the things in God’s world he blessed, and the people were filled with joy and [[concepts/wonder|wonder]].  Yet never again in the corner of the Fullers’ Field grew [[motifs/flowers|flowers]] of any kind, but the field remained barren even as before.  Nor came the Sea-folk into the bay as they had been wont to do, for they went to another part of the sea.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -466,5 +465,3 @@ Dopo che lo ebbero spogliato, lui li guardò e chiese: “Quali fiori sono quell
 Gli risposero: “Non sappiamo di che tipo siano. Ma vengono dall’angolo del campo dei lavandai.” Il sacerdote tremò, tornò nella sua casa e pregò.  
 La mattina seguente, ancora prima dell’alba, uscì con i monaci, i musicisti, i portatori di candele. E andò sulla riva del mare; benedisse il mare e tutte le creature che vi abitavano. Benedisse anche i fauni, quelle piccole creature che danzavano nei boschi, quelle dallo sguardo luminoso che si nascondevano tra le foglie. Benedisse tutto ciò che esisteva nel mondo di Dio, e la gente fu piena di gioia e meraviglia.  
 Tuttavia, da allora non crescerono più fiori di alcun tipo nell’angolo del campo dei lavandai; quel campo rimase sterile, proprio come prima. E la gente del mare non venne più nella baia, perché andò in un’altra parte del mare.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

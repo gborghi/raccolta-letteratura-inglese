@@ -15,10 +15,7 @@ tags:
 
 
 Coleridge's blank-verse translation of Schiller's historical tragedy in five acts, dramatizing the imperial general Wallenstein's treason against the Emperor, his betrayal by trusted officers, and his assassination. Its central matter is ambition, fate (Wallenstein's trust in his star), political power and corruption, and the cost of war.
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -44,7 +41,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | COUNTESS | May't please you, leave us, Lady Neubrunn! |
 | *(didascalia)* | [Exit LADY NEUBRUNN. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -62,8 +58,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | THEKLA | Lo sono. |  
 | CONTESSA | Vi piaccia lasciarci, signorina Neubrunn! |  
 | *(didascalia)* | [Esce la SIGNORINA NEUBRUNN. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -110,7 +104,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | COUNTESS | How shall I bear to see her? |
 | THEKLA | Collect yourself. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -153,8 +146,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | THEKLA | Zitta!<br>Riprendetevi! Odo venire vostra madre. |  
 | CONTESSA | Come sopporterò di vederla? |  
 | THEKLA | Riprendetevi. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -192,7 +183,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | spirits). 1800, 1828, 1829. |
 | *(didascalia)* | [Before 72] Duchess (anxiously). 1800, 1828, 1829. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -226,8 +216,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [Fra 14, 15] [THEKLA, in estrema agitazione, si getta, ecc.<br>1800, 1828, 1829. |  
 | *(didascalia)* | spiriti). 1800, 1828, 1829. |  
 | *(didascalia)* | [Prima di 72] Duchessa (con ansia). 1800, 1828, 1829. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -302,7 +290,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | Have I for this — |
 | *(didascalia)* | [Stops suddenly, repressing himself. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -373,8 +360,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | CONTESSA *(a parte, al Duca)* | Lasciala in questa credenza. Vedi bene che non può<br>reggere la [[concepts/truth\|verità]] vera. |  
 | WALLENSTEIN | Ho forse per questo — |  
 | *(didascalia)* | [S'arresta improvvisamente, reprimendosi. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -396,7 +381,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | I? |
 | TERTSKY | No! Hast thou not sent him off? Nor Deodate?<br>They are vanished both of them. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -414,8 +398,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | TERTSKY | Lui l'hai mandato via tu. Sì, di certo. |  
 | WALLENSTEIN | Io? |  
 | TERTSKY | No! Non l'hai mandato via tu? Né Deodate?<br>Sono spariti tutt'e due. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -452,7 +434,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | TERTSKY | *(leads the Countess aside, and drawing her attention to the Duchess)* Theresa! |
 | DUCHESS | Sister, come! since he commands it. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -485,8 +466,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | È mia volontà. |  
 | TERTSKY | *(conduce la Contessa in disparte, richiamando la sua attenzione sulla Duchessa)* Theresa! |  
 | DUCHESSA | Sorella, vieni! poiché egli lo comanda. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -509,7 +488,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | It was but yesterday I rescued him<br>From abject wretchedness. Let that go by.<br>I never reckon'd yet on gratitude.<br>And wherein doth he wrong in going from me?<br>He follows still the god whom all his life<br>He has worshipped at the gaming table. With<br>My Fortune, and my seeming destiny,<br>He made the bond, and broke it not with me.<br>I am but the [[motifs/ship\|ship]] in which his hopes were stowed,<br>And with the which [[motifs/well\|well]]-pleased and confident<br>He traversed the open sea; now he beholds it<br>In imminent jeopardy among the coast-rocks,<br>And hurries to preserve his wares. As light<br>As the free bird from the hospitable twig<br>Where it had nested, he flies off from me:<br>No human tie is snapped betwixt us two.<br>Yea, he deserves to find himself deceived,<br>Who seeks a heart in the unthinking man.<br>Like shadows on a stream, the forms of life<br>Impress their characters on the smooth forehead,<br>Nought sinks into the bosom's silent depth:<br>Quick sensibility of [[motifs/pain\|pain]] and pleasure<br>Moves the light fluids lightly; but no [[motifs/soul\|soul]]<br>Warmeth the inner frame. |
 | TERTSKY | Yet, would I rather<br>Trust the smooth brow than that deep furrowed one. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -528,8 +506,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | TERTSKY | Confidasti anche in Isolani;<br>ed ecco! fu il primo a [[motifs/desert\|disertarti]]. |  
 | WALLENSTEIN | Fu solo ieri che io lo trassi<br>dall'abietta miseria. Lasciamo andare.<br>Non ho mai fatto conto sulla gratitudine.<br>E in che fa male, andandosene da me?<br>Egli segue ancora il dio che per tutta la vita<br>ha adorato al tavolo da gioco. Con<br>la mia Fortuna, e col mio apparente destino,<br>strinse il patto, e non lo ruppe con me.<br>Io non sono che la [[motifs/ship\|nave]] in cui stivò le sue speranze,<br>e con la quale, [[motifs/well\|ben]] contento e sicuro,<br>traversò il mare aperto; ora la vede<br>in imminente pericolo fra gli scogli della costa,<br>e s'affretta a salvare le sue merci. Leggero<br>come l'uccello libero dal ramo ospitale<br>dove aveva fatto il nido, egli vola via da me:<br>nessun vincolo umano si spezza fra noi due.<br>Sì, merita di trovarsi ingannato<br>chi cerca un cuore nell'uomo che non pensa.<br>Come ombre su un ruscello, le forme della vita<br>imprimono i loro caratteri sulla fronte liscia,<br>nulla scende nella silenziosa profondità del petto:<br>una pronta sensibilità al [[motifs/pain\|dolore]] e al piacere<br>muove leggermente gli umori leggeri; ma nessuna [[motifs/soul\|anima]]<br>riscalda l'intima compagine. |  
 | TERTSKY | Eppure preferirei<br>fidarmi della fronte liscia che di quella profondamente solcata. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -557,7 +533,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | WALLENSTEIN sinks down into a chair and covers his face. |
 | TERTSKY | O hadst thou but believed me! |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -581,8 +556,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | ILLO | Anche Caraffa, e Montecuculi,<br>mancano all'appello, con altri sei Generali,<br>tutti quanti egli indusse a seguirlo.<br>Questo complotto lo teneva da lungo tempo per iscritto<br>dall'Imperatore; ma fu conchiuso infine,<br>con ogni particolare dell'operazione,<br>pochi giorni or sono con l'Inviato Questenberg. |  
 | *(didascalia)* | WALLENSTEIN si abbandona su una sedia e si copre il volto. |  
 | TERTSKY | Oh, m'avessi tu creduto! |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -600,7 +573,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | TERTSKY | Hadst thou but believed me!<br>Now seest thou how the [[motifs/stars\|stars]] have lied to thee. |
 | WALLENSTEIN | The [[motifs/stars\|stars]] lie not; but we have here a work<br>Wrought counter to the [[motifs/stars\|stars]] and destiny.<br>The science is still honest: this false heart<br>Forces a lie on the [[concepts/truth\|truth]]-telling heaven.<br>On a divine law divination rests;<br>Where [[concepts/nature\|nature]] deviates from that law, and stumbles<br>Out of her limits, there all science errs.<br>True, I did not suspect! Were it superstition<br>Never by such suspicion t' have affronted<br>The human form, O may that [[motifs/time\|time]] ne'er come<br>In which I shame me of the infirmity.<br>The wildest savage drinks not with the victim<br>Into whose breast he means to plunge the sword.<br>This, this, Octavio, was no [[archetypes/hero\|hero]]'s deed:<br>'Twas not thy prudence that did conquer mine;<br>A bad heart triumphed o'er an honest one.<br>No shield received the assassin stroke; thou plungest<br>Thy weapon on an unprotected breast —<br>Against such weapons I am but a [[archetypes/child\|child]]. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -614,8 +586,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [Esce di corsa dalla stanza. |  
 | TERTSKY | M'avessi tu creduto!<br>Or vedi come le [[motifs/stars\|stelle]] t'hanno mentito. |  
 | WALLENSTEIN | Le [[motifs/stars\|stelle]] non mentono; ma qui abbiamo un'opera<br>ordita contro le [[motifs/stars\|stelle]] e contro il destino.<br>La scienza è ancora onesta: questo cuore falso<br>impone una menzogna al cielo che dice il [[concepts/truth\|vero]].<br>Su una legge divina si fonda la divinazione;<br>dove la [[concepts/nature\|natura]] devia da quella legge, e vacilla<br>fuori dei suoi confini, ivi ogni scienza erra.<br>È vero, non sospettai! Se fu superstizione<br>non aver mai con simile sospetto offeso<br>la forma umana, oh, non venga mai quel [[motifs/time\|tempo]]<br>in cui io mi vergogni di tale debolezza.<br>Il più feroce selvaggio non beve con la vittima<br>nel cui petto ha in animo d'immergere la spada.<br>Questa, questa, Octavio, non fu impresa d'[[archetypes/hero\|eroe]]:<br>non fu la tua prudenza a vincere la mia;<br>un cuore malvagio trionfò sopra un cuore onesto.<br>Nessuno scudo accolse il colpo dell'assassino; tu vibri<br>la tua arma contro un petto indifeso —<br>contro armi siffatte io non sono che un [[archetypes/child\|fanciullo]]. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -660,7 +630,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | 'Tis decided!<br>'Tis [[motifs/well\|well]]! I have received a sudden cure<br>From all the pangs of [[concepts/doubt\|doubt]]: with steady stream<br>Once more my life-[[motifs/blood\|blood]] flows! My [[motifs/soul\|soul]]'s secure!<br>In the [[motifs/night\|night]] only Friedland's [[motifs/stars\|stars]] can beam.<br>Lingering irresolute, with fitful fears<br>I drew the sword—'twas with an inward strife,<br>While yet the choice was mine. The murderous knife<br>Is lifted for my heart! [[concepts/doubt\|Doubt]] disappears!<br>I fight now for my head and for my life. |
 | *(didascalia)* | Exit WALLENSTEIN; the others follow him. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -701,8 +670,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | TERTSKY e ILLO esprimono allarme e furore. WALLENSTEIN resta fermo e raccolto. |  
 | WALLENSTEIN | È deciso!<br>Sta [[motifs/well\|bene]]! Ho avuto un'improvvisa guarigione<br>da ogni spasimo del [[concepts/doubt\|dubbio]]: con corso costante<br>di nuovo scorre il [[motifs/blood\|sangue]] della mia vita! L'[[motifs/soul\|anima]] mia è al sicuro!<br>Solo nella [[motifs/night\|notte]] le [[motifs/stars\|stelle]] di Friedland sanno brillare.<br>Indugiando irresoluto, con timori a sbalzi<br>sguainai la spada — fu con interna lotta,<br>finché la scelta era ancora mia. Il coltello assassino<br>è levato sul mio cuore! Il [[concepts/doubt\|dubbio]] dilegua!<br>Ora combatto per la mia testa e per la mia vita. |  
 | *(didascalia)* | Esce WALLENSTEIN; gli altri lo seguono. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -714,7 +681,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | Countess Tertsky (enters from a side room). |
 | COUNTESS TERTSKY | I can endure no<br>longer. No! [Looks around her.<br>Where are they?<br>No one is here. They leave me all alone,<br>[[works/alone-(poe)\|Alone]] in this sore anguish of suspense.<br>And I must wear the outward shew of calmness<br>Before my sister, and shut in within me<br>The pangs and agonies of my crowded bosom.<br>It is not to be borne. — If all should fail;<br>If — if he must go over to the Swedes,<br>An empty-handed fugitive, and not<br>As an ally, a covenanted equal,<br>A proud commander with his army following;<br>If we must wander on from land to land,<br>Like the Count Palatine, of fallen [[concepts/greatness\|greatness]]<br>An ignominious monument — But no!<br>That day I will not see! And could himself<br>Endure to sink so low, I would not bear<br>To see him so low sunken. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -722,8 +688,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 |---|---|  
 | *(didascalia)* | La Contessa Tertsky (entra da una stanza laterale). |  
 | CONTESSA TERTSKY | Non posso più<br>reggere. No! [Si guarda attorno.<br>Dove sono?<br>Non c'è nessuno. Mi lasciano tutta sola,<br>sola in questa acerba angoscia dell'attesa.<br>E devo portare all'esterno una parvenza di calma<br>davanti a mia sorella, e serrare dentro di me<br>gli spasimi e le agonie del mio petto gremito.<br>Non è cosa da sopportare. — Se tutto dovesse fallire;<br>se — se egli dovesse passare agli Svedesi,<br>fuggiasco a mani vuote, e non<br>come alleato, come pari legato da patto,<br>fiero comandante col suo esercito al seguito;<br>se dovessimo errare di terra in terra,<br>come il Conte Palatino, di caduta [[concepts/greatness\|grandezza]]<br>ignominioso monumento — Ma no!<br>Quel giorno io non lo vedrò! E potesse egli stesso<br>sopportare di cadere tanto in basso, io non reggerei<br>a vederlo caduto tanto in basso. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -744,7 +708,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | COUNTESS | Revolted is the Duke, he is preparing<br>To join the enemy, the army leave him,<br>And all has failed. |
 | *(didascalia)* | During these words the DUCHESS totters, and falls in a fainting fit into the arms of her daughter. While THEKLA is calling for help, the curtain drops. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -761,8 +724,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | THEKLA | *(gettando le braccia al collo della madre)* Oh, state salda! state salda, madre mia! |  
 | CONTESSA | Ribelle è il Duca, si prepara<br>a passare al nemico, l'esercito l'abbandona,<br>e tutto è fallito. |  
 | *(didascalia)* | Durante queste parole la DUCHESSA vacilla, e cade svenuta fra le braccia della figlia. Mentre THEKLA chiama aiuto, cala il sipario. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -776,7 +737,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | (ILLO and TERTSKY enter.) |
 | WALLENSTEIN | [[concepts/courage\|Courage]], friends! [[concepts/courage\|Courage]]! We are still unvanquished;<br>I feel my footing firm; five regiments, Tertsky,<br>Are still our own, and Butler's gallant troops;<br>And a host of sixteen thousand Swedes to-morrow.<br>I was not stronger, when nine years ago<br>I marched forth, with glad heart and high of [[concepts/hope\|hope]],<br>To conquer [[settings/germany\|Germany]] for the Emperor. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -786,8 +746,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN (in armi) | Hai raggiunto il tuo scopo, Octavio! Ancora una volta<br>sono quasi privo d'amici come a Ratisbona.<br>Là non mi restava nulla, se non me stesso —<br>ma che cosa possa un uomo solo, ora l'avete provato.<br>I ramoscelli me li avete recisi, e qui io sto,<br>tronco senza foglie. Ma dentro, nella linfa,<br>vive la forza creatrice, e un mondo nuovo<br>ne può germogliare. Già una volta mi sono<br>mostrato per voi valere un esercito — io solo!<br>Davanti alla forza svedese le vostre truppe s'erano disciolte;<br>presso il Lech cadde Tilly, la vostra ultima [[concepts/hope\|speranza]];<br>in Baviera, come un torrente d'[[motifs/winter\|inverno]],<br>si riversò quel Gustavo, e a Vienna<br>nel suo stesso palazzo tremò l'Imperatore.<br>Scarseggiavano i soldati, ché sempre la moltitudine<br>segue la fortuna: tutti gli occhi si volsero a me,<br>loro soccorritore nell'angustia; l'[[concepts/pride\|orgoglio]] dell'Imperatore<br>si piegò davanti all'uomo che aveva offeso.<br>Toccava a me sorgere, e con parola creatrice<br>radunare le forze nei campi desolati.<br>Lo feci. Come un dio della guerra, il mio nome<br>corse per il mondo. Rullò il tamburo — ed ecco!<br>L'aratro, l'officina sono abbandonati, tutti<br>accorrono in frotta alle vecchie insegne care e note;<br>e come il coro dei boschi, ricco di melodia,<br>ratto s'aduna intorno all'uccello del [[concepts/wonder\|prodigio]],<br>quando la gola per la prima volta gli si gonfia del magico canto,<br>così la gioventù guerriera di [[settings/germany\|Germania]]<br>si accalcò intorno all'immagine della mia aquila.<br>Mi sento l'essere che fui.<br>È l'[[motifs/soul\|anima]] che si edifica un [[concepts/body\|corpo]],<br>e il campo di Friedland non resterà deserto.<br>Guidate dunque fuori le vostre migliaia a incontrarmi — sia pure!<br>Sono avvezze a vincere sotto di me,<br>ma non contro di me. Se il capo e le membra<br>si separano gli uni dalle altre, presto sarà<br>manifesto in quale dei due dimorasse l'[[motifs/soul\|anima]]. |  
 | *(didascalia)* | (Entrano ILLO e TERTSKY.) |  
 | WALLENSTEIN | [[concepts/courage\|Coraggio]], amici! [[concepts/courage\|Coraggio]]! Non siamo ancora vinti;<br>sento saldo il piede; cinque reggimenti, Tertsky,<br>sono ancora nostri, e le prodi truppe di Butler;<br>e domani una schiera di sedicimila Svedesi.<br>Non ero più forte, quando nove anni or sono<br>mossi in campo, con cuore lieto e alto di [[concepts/hope\|speranza]],<br>a conquistare la [[settings/germany\|Germania]] per l'Imperatore. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -803,7 +761,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | Let them enter.<br>This<br>May end in something. Mark you. They are still<br>Doubtful, and may be won. |
 | *(didascalia)* | [Exit NEUMANN. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -815,8 +772,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | TERTSKY | Dieci Corazzieri<br>di Pappenheim chiedono licenza di parlarvi<br>a nome del reggimento. |  
 | WALLENSTEIN | Fateli entrare.<br>Questo<br>può approdare a qualcosa. Bada bene. Sono ancora<br>incerti, e si possono guadagnare. |  
 | *(didascalia)* | [Esce NEUMANN. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -872,7 +827,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | ANSPESSADE | 'Tis then but mere appearances which thou<br>Dost put on with the Swede? Thou'lt not betray<br>The Emperor? Wilt not turn us into Swedes?<br>This is the only thing which we [[motifs/desire\|desire]]<br>To learn from thee. |
 | WALLENSTEIN | What care I for the Swedes?<br>I hate them as I hate the pit of hell,<br>And under [[concepts/providence\|Providence]] I trust right soon<br>To chase them to their homes across their Baltic.<br>My cares are only for the whole: I have<br>A heart — it bleeds within me for the miseries<br>And piteous groaning of my fellow-Germans.<br>Ye are but common men, but yet ye think<br>With minds not common; ye appear to me<br>Worthy before all others, that I whisper ye<br>A little word or two in confidence!<br>See now! already for full fifteen years<br>The war-torch has continued burning, yet<br>No rest, no pause of conflict. Swede and German,<br>Papist and Lutheran! neither will give way<br>To the other, every hand's against the other.<br>Each one is party and no one a judge.<br>Where shall this end? Where's he that will unravel<br>This tangle, ever tangling more and more.<br>It must be cut asunder.<br>I feel that I am the man of destiny,<br>And trust, with your assistance, to accomplish it. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -924,8 +878,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | Siete commossi — vedo<br>un nobile sdegno balenarvi dagli occhi, guerrieri!<br>Oh, potesse il mio spirito impossessarsi di voi ora,<br>ardito come un tempo vi guidò alla battaglia!<br>Voi mi sosterreste con le vostre braccia di veterani,<br>mi difendereste nei miei diritti; e questo è nobile!<br>Ma non crediate di poterlo compiere,<br>così scarso è il vostro numero! invano vi sarete<br>sacrificati per il vostro Generale.<br>No! camminiamo sicuri, cerchiamo amici;<br>gli Svedesi ci hanno offerto aiuto, portiamo<br>per un poco l'apparenza della buona volontà,<br>e serviamocene a vostro vantaggio, finché entrambi<br>reggeremo nelle nostre mani il destino d'Europa,<br>e dal nostro campo al mondo lieto ed esultante<br>condurremo fuori la Pace con la ghirlanda sul capo! |  
 | CAPORALE | Non sono dunque che pure apparenze quelle che tu<br>assumi con lo Svedese? Non tradirai<br>l'Imperatore? Non ci farai diventare Svedesi?<br>Questa è la sola cosa che [[motifs/desire\|desideriamo]]<br>apprendere da te. |  
 | WALLENSTEIN | Che m'importa degli Svedesi?<br>Li odio come odio l'abisso dell'inferno,<br>e sotto la [[concepts/providence\|Provvidenza]] confido assai presto<br>di ricacciarli alle loro case oltre il loro Baltico.<br>Le mie cure sono solo per l'insieme: ho<br>un cuore — mi sanguina dentro per le miserie<br>e il gemito pietoso dei miei fratelli Tedeschi.<br>Voi siete uomini comuni, eppure pensate<br>con menti non comuni; mi apparite<br>degni innanzi a tutti gli altri, che io vi sussurri<br>una parola o due in confidenza!<br>Vedete ora! già da ben quindici anni<br>la fiaccola della guerra continua ad ardere, eppure<br>nessuna tregua, nessuna sosta al conflitto. Svedese e Tedesco,<br>papista e luterano! nessuno vuol cedere<br>all'altro, ogni mano è contro l'altra.<br>Ognuno è parte e nessuno è giudice.<br>Dove finirà questo? Dov'è colui che scioglierà<br>questo groviglio, che sempre più s'ingarbuglia.<br>Bisogna reciderlo.<br>Sento di essere l'uomo del destino,<br>e confido, col vostro aiuto, di compierlo. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -949,7 +901,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | ILLO hurries out. |
 | WALLENSTEIN | This hurls us headlong. Butler! Butler!<br>You are my evil genius, wherefore must you<br>Announce it in their presence? It was all<br>In a fair way. They were half won, those madmen<br>With their improvident over-readiness —<br>A cruel game is fortune playing with me.<br>The zeal of friends it is that razes me,<br>And not the hate of enemies. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -969,8 +920,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | Alt, figlioli, alt! Qui c'è un equivoco;<br>udite! — lo punirò severamente. Fermi!<br>Non sentono. (A ILLO.) Corri loro dietro, rassicurali,<br>e riconducimeli, costi quel che costi. |  
 | *(didascalia)* | ILLO esce in fretta. |  
 | WALLENSTEIN | Questo ci precipita a capofitto. Butler! Butler!<br>Voi siete il mio genio maligno, perché mai dovevate<br>annunciarlo in loro presenza? Tutto andava<br>per il verso giusto. Erano mezzo conquistati, quei pazzi<br>con la loro sconsiderata precipitazione —<br>un gioco crudele fa con me la fortuna.<br>È lo zelo degli amici che mi abbatte,<br>e non l'odio dei nemici. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1003,7 +952,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | THEKLA | There he is! |
 | *(didascalia)* | All stand amazed. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1032,8 +980,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | TERTSKY | Non può essere. Suo padre ci ha traditi, è passato all'Imperatore — il figlio non avrebbe osato restare indietro. |  
 | THEKLA | Eccolo! |  
 | *(didascalia)* | Tutti restano attoniti. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1073,7 +1019,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [After 4] [Advancing to THEKLA, who has thrown herself into her mother's arms. 1800, 1828, 1829. |
 | *(didascalia)* | [Before 40] Max (calmly). 1800, 1828, 1829. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1109,8 +1054,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | In verità l'intero discorso è nel migliore stile di Massinger. O si sic omnia! |  
 | *(didascalia)* | [Dopo il v. 4] [Avanzando verso THEKLA, che s'è gettata fra le braccia della madre. 1800, 1828, 1829. |  
 | *(didascalia)* | [Prima del v. 40] Max (con calma). 1800, 1828, 1829. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1138,7 +1081,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | MAX | (pointing to Thekla and the Duchess). But their life!<br>Thine! |
 | WALLENSTEIN | What tidings bring'st thou, Tertsky? |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1162,8 +1104,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | Non un passo! |  
 | MAX | (indicando Thekla e la Duchessa). Ma la loro vita!<br>La tua! |  
 | WALLENSTEIN | Che nuove rechi, Tertsky? |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1197,7 +1137,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | Away! too long already have I loitered.<br>They are emboldened to these outrages,<br>Beholding not my face. They shall behold<br>My countenance, shall hear my voice ——<br>Are they not my troops? Am I not their General,<br>And their long-feared commander? Let me see,<br>Whether indeed they do no longer know<br>That countenance, which was their sun in battle!<br>From the balcony (mark!) I shew myself<br>To these rebellious forces, and at once<br>Revolt is mounded, and the high-swoln current<br>Shrinks back into the old bed of obedience. |
 | *(didascalia)* | [Exit WALLENSTEIN; ILLO, TERTSKY, and BUTLER follow. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1227,8 +1166,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | MAX | Non farlo,<br>non ancora! Questo gesto avventato e sanguinoso li ha gettati<br>in un accesso di furore — concedi loro [[motifs/time\|tempo]] —— |  
 | WALLENSTEIN | Via! Troppo a lungo ho già indugiato.<br>Si fanno arditi a questi oltraggi,<br>non scorgendo il mio volto. Vedranno<br>il mio sembiante, udranno la mia voce ——<br>Non son truppe mie? Non sono il loro Generale,<br>e il comandante a lungo temuto? Voglio vedere<br>se davvero non conoscono più<br>quel volto, che fu il loro sole in battaglia!<br>Dal balcone (badate!) io mi mostro<br>a queste schiere ribelli, e all'istante<br>la rivolta è arginata, e la corrente gonfia<br>rientra nel vecchio letto dell'obbedienza. |  
 | *(didascalia)* | [Esce WALLENSTEIN; ILLO, TERTSKY e BUTLER lo seguono. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1260,7 +1197,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [Before 3] Max (who . . . distance in a visible struggle of feelings, advances). 1800, 1828, 1829. |
 | *(didascalia)* | [After 92] [MAX . . . in extreme emotion. There is . . . instruments. MAX and THEKLA remain without motion in each other's embraces. 1800, 1828, 1829. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1288,8 +1224,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [MAX la stringe fra le braccia. Si ode da dietro la Scena un grido alto, selvaggio, lungamente prolungato, 'Vivat Ferdinandus,' accompagnato da strumenti guerreschi. |  
 | *(didascalia)* | [Prima di 3] Max (che . . . in disparte in un visibile contrasto di sentimenti, si fa avanti). 1800, 1828, 1829. |  
 | *(didascalia)* | [Dopo 92] [MAX . . . in estrema commozione. Si ode . . . strumenti. MAX e THEKLA restano immobili, l'uno stretto all'altra. 1800, 1828, 1829. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1308,7 +1242,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | COUNTESS | The traitors! |
 | TERTSKY | Nay! he was not once permitted<br>Even to address them. Soon as he began,<br>With deafening noise of warlike instruments<br>They drowned his words. But here he comes. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1323,8 +1256,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | TERTSKY | All'Imperatore. |  
 | CONTESSA | I traditori! |  
 | TERTSKY | No! non gli fu concesso neppure una volta<br>di rivolger loro la parola. Appena ebbe cominciato,<br>con assordante fragore di strumenti guerreschi<br>ne soffocarono le parole. Ma eccolo che viene. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1364,7 +1295,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | MAX | Yet more! weight upon weight to drag me down!<br>Think what ye're doing. It is not [[motifs/well\|well]] done<br>To choose a man despairing for your leader;<br>You tear me from my happiness. [[motifs/well\|Well]], then,<br>I dedicate your souls to vengeance. Mark!<br>For your own ruin you have chosen me:<br>Who goes with me, must be prepared to perish. |
 | *(didascalia)* | [He turns to the background, there ensues a sudden and violent movement among the Cuirassiers; they surround him, and carry him off in wild tumult. WALLENSTEIN remains immovable. THEKLA sinks into her mother's arms. The curtain falls. The music becomes loud and overpowering, and passes into a complete war-march — the orchestra joins it — and continues during the interval between the second and third Act. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1400,8 +1330,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [La scena è interamente gremita di uomini armati. |  
 | MAX | Ancora! peso su peso per trascinarmi giù!<br>Pensate a ciò che fate. Non è [[motifs/well\|bene]] fatto<br>scegliere per vostro capo un uomo disperato;<br>mi strappate alla mia felicità. [[motifs/well\|Ebbene]], dunque,<br>consacro le vostre anime alla vendetta. Badate!<br>Per la vostra stessa rovina mi avete scelto:<br>chi viene con me, sia pronto a perire. |  
 | *(didascalia)* | [Si volge verso il fondo; ne segue un movimento improvviso e violento fra i Corazzieri; lo circondano, e lo portano via in selvaggio tumulto. WALLENSTEIN resta immobile. THEKLA si abbandona fra le braccia della madre. Cala il sipario. La musica si fa alta e travolgente, e trapassa in una compiuta marcia di guerra — l'orchestra vi si unisce — e continua durante l'intervallo fra il secondo e il terzo Atto. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1414,7 +1342,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | BUTLER | Here then he is, by his destiny conducted.<br>Here, Friedland! and no farther! From Bohemia<br>Thy meteor [[motifs/rose\|rose]], traversed the sky awhile,<br>And here upon the borders of Bohemia<br>Must sink.<br>Thou hast forsworn the ancient colours,<br>Blind man! yet trustest to thy ancient fortunes.<br>Profaner of the altar and the hearth,<br>Against thy Emperor and fellow-citizens<br>Thou mean'st to wage the war. Friedland, beware —<br>The evil spirit of [[concepts/revenge\|revenge]] impels thee —<br>Beware thou, that [[concepts/revenge\|revenge]] destroy thee not! |
 | *(didascalia)* | [Before 1] Butler (just arrived). 1800, 1828, 1829. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1423,8 +1350,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | La casa del Borgomastro a Egra. |  
 | BUTLER | Eccolo dunque, dal suo destino condotto.<br>Qui, Friedland! e non oltre! Dalla Boemia<br>la tua meteora [[motifs/rose\|sorse]], percorse un tratto di cielo,<br>e qui, sui confini della Boemia,<br>deve tramontare.<br>Hai rinnegato le antiche insegne,<br>cieco! eppure confidi nelle tue antiche fortune.<br>Profanatore dell'altare e del focolare,<br>contro il tuo Imperatore e i tuoi concittadini<br>intendi muovere guerra. Friedland, bada —<br>lo spirito maligno della [[concepts/revenge\|vendetta]] ti sospinge —<br>bada che la [[concepts/revenge\|vendetta]] non distrugga te! |  
 | *(didascalia)* | [Prima di 1] Butler (appena giunto). 1800, 1828, 1829. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1455,7 +1380,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [With a sly glance on BUTLER. 1800, 1828, 1829.] |
 | *(didascalia)* | Gordon (pauses reflecting — then as in deep dejection). 1800, 1828, 1829. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1482,8 +1406,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | BUTLER | Basta, egli viene. |  
 | *(didascalia)* | [Con un'occhiata furtiva a BUTLER. 1800, 1828, 1829.] |  
 | *(didascalia)* | Gordon (si ferma riflettendo — poi come in profondo abbattimento). 1800, 1828, 1829. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1525,7 +1447,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | Governor, in your faithful hands I leave<br>My wife, my daughter, and my sister. I<br>Shall make no stay here, and wait but the arrival<br>Of letters, to take leave of you, together<br>With all the regiments. |
 | *(didascalia)* | [After 16] [Fixes his eye on him. The Burgomaster alarmed. 1800, 1828, 1829.<br>Disclose to you in confidence. [Laying . . . shoulder with a certain solemnity. 1800, 1828, 1829. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1563,8 +1484,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [A GORDON. |  
 | WALLENSTEIN | Governatore, nelle vostre fedeli mani lascio<br>mia moglie, mia figlia e mia sorella. Io<br>non farò qui dimora, e attendo solo l'arrivo<br>di lettere, per accomiatarmi da voi, insieme<br>con tutti i reggimenti. |  
 | *(didascalia)* | [Dopo 16] [Fissa gli occhi su di lui. Il Borgomastro allarmato. 1800, 1828, 1829.<br>vi confido in segreto. [Posando . . . spalla con una certa solennità. 1800, 1828, 1829. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1582,7 +1501,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | How came<br>Imperial troops at Neustadt? Altringer,<br>But yesterday, stood sixty miles from there.<br>Count Galas' force collects at Frauenberg,<br>And have not the full complement. Is it possible,<br>That Suys perchance had ventured so far onward?<br>It cannot be. |
 | TERTSKY | We shall soon know the whole,<br>For here comes Illo, full of haste, and joyous. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1596,8 +1514,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | TERTSKY | Un contadino di Tirschenseil l'ha recata.<br>Poco dopo il levar del sole cominciò la mischia!<br>Una schiera d'Imperiali, da Fachau,<br>s'era aperta la via dentro il campo svedese;<br>il cannoneggiare durò ben due ore;<br>restarono morti sul campo un migliaio<br>d'Imperiali, insieme col loro Colonnello;<br>più oltre di questo egli non sapeva. |  
 | WALLENSTEIN | Come mai<br>truppe imperiali a Neustadt? Altringer,<br>non più tardi di ieri, stava a sessanta miglia di là.<br>Le forze del conte Galas si raccolgono a Frauenberg,<br>e non hanno il pieno numero. È egli possibile<br>che Suys si sia per avventura spinto tanto innanzi?<br>Non può essere. |  
 | TERTSKY | Presto sapremo il tutto,<br>ché ecco viene Illo, tutto frettoloso e gioioso. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1624,7 +1540,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [After 9] [WALLENSTEIN shudders and turns pale. 1800, 1828, 1829. |
 | *(didascalia)* | [Before 11] Wallenstein *(after a pause, in a low voice)*. 1800, 1828, 1829. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1647,8 +1562,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [Prima di 3] Wallenstein *(nello stesso [[motifs/time\|tempo]])*. 1800, 1828, 1829. |  
 | *(didascalia)* | [Dopo 9] [WALLENSTEIN rabbrividisce e impallidisce. 1800, 1828, 1829. |  
 | *(didascalia)* | [Prima di 11] Wallenstein *(dopo una pausa, a voce bassa)*. 1800, 1828, 1829. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1707,7 +1620,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | GORDON | I feel no pang for these. Their own bad hearts<br>Impelled them, not the influence of the [[motifs/stars\|stars]].<br>'Twas they who strewed the seeds of evil passions<br>In his calm breast, and with officious villainy<br>Watered and nursed the pois'nous plants. May they<br>Receive their earnests to the uttermost mite! |
 | BUTLER | And their [[motifs/death\|death]] shall precede his!<br>We meant to have taken them alive this evening<br>Amid the merry-making of a feast,<br>And kept them prisoners in the citadels.<br>But this makes shorter work. I go this instant<br>To give the necessary orders. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1762,8 +1674,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | BUTLER | Il mio è di più dura tempra! La necessità<br>nella sua rude scuola mi ha temprato. E questo Illo<br>e Tertsky del pari, non devono sopravvivergli. |  
 | GORDON | Per costoro non provo alcuna fitta. I loro cuori malvagi<br>li spinsero, non l'influsso delle [[motifs/stars\|stelle]].<br>Furono essi a spargere i semi delle male passioni<br>nel suo petto tranquillo, e con officiosa scelleratezza<br>innaffiarono e nutrirono le piante velenose. Ricevano<br>la loro caparra fino all'ultimo obolo! |  
 | BUTLER | E la loro [[motifs/death\|morte]] precederà la sua!<br>Volevamo prenderli vivi questa sera<br>tra l'allegria di un banchetto,<br>e tenerli prigionieri nelle cittadelle.<br>Ma così si fa più spiccio. Vado all'istante<br>a dare gli ordini necessari. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1794,7 +1704,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | BUTLER | At the right [[motifs/time\|time]]. |
 | *(didascalia)* | Exeunt TERTSKY and ILLO. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1821,8 +1730,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | TERTSKY | Voi però venite al [[settings/castle\|castello]]. |  
 | BUTLER | Al [[motifs/time\|momento]] giusto. |  
 | *(didascalia)* | Escono TERTSKY e ILLO. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1853,7 +1760,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | GORDON | I am endeavouring to move a rock.<br>Thou hadst a mother, yet no human feelings.<br>I cannot hinder you, but may some God<br>Rescue him from you! |
 | *(didascalia)* | [Exit GORDON. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1880,8 +1786,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | BUTLER | Egli è un gran Signore,<br>questo Duca — e io sono di ben poco conto.<br>È questo che volete dire? Che importa<br>al mondo intero, volete insinuarmi,<br>che l'uomo di bassa origine conservi<br>o macchi il proprio [[concepts/honour\|onore]] —<br>purché sia salvo l'uomo di rango principesco.<br>Tutti imprimiamo su noi stessi il nostro valore.<br>Il prezzo che pretendiamo per noi, ci viene dato.<br>Non vive sulla terra uomo di tal grado<br>che io disprezzi me stesso al suo confronto.<br>L'uomo è fatto grande o piccolo dalla propria volontà;<br>poiché io sono fedele alla mia, perciò egli muore. |  
 | GORDON | Sto tentando di smuovere una roccia.<br>Avesti una madre, eppure non hai sentimenti umani.<br>Non posso impedirvelo, ma qualche Dio<br>lo strappi alle vostre mani! |  
 | *(didascalia)* | [Esce GORDON. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1894,7 +1798,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | BUTLER | I treasured my good name all my life long;<br>The Duke has cheated me of life's best [[motifs/jewel\|jewel]],<br>So that I blush before this poor weak Gordon!<br>He prizes above all his fealty;<br>His conscious [[motifs/soul\|soul]] accuses him of nothing;<br>In opposition to his own soft heart<br>He subjugates himself to an iron duty.<br>Me in a weaker moment passion warped;<br>I stand beside him, and must feel myself<br>The worst man of the two. What though the world<br>Is ignorant of my purposed treason, yet<br>One man does know it, and can prove it too —<br>High-minded Piccolomini!<br>There lives the man who can dishonour me!<br>This ignominy [[motifs/blood\|blood]] alone can cleanse!<br>Duke Friedland, thou or I — Into my own hands<br>Fortune delivers me — The dearest thing a man has is himself. |
 | *(didascalia)* | (The curtain drops.) |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1903,8 +1806,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | Butler (solo). |  
 | BUTLER | Ho tenuto caro il mio buon nome per tutta la vita;<br>il Duca m'ha frodato del più bel [[motifs/jewel\|gioiello]] della vita,<br>sì ch'io arrossisco innanzi a questo povero e debole Gordon!<br>Egli antepone a tutto la sua fedeltà;<br>la sua [[motifs/soul\|anima]] consapevole di nulla l'accusa;<br>contro il suo stesso cuore mite<br>egli si assoggetta a un dovere di ferro.<br>Me, in un momento più fiacco, la passione travolse;<br>gli sto accanto, e devo sentirmi<br>il peggiore dei due. E che, se il mondo<br>ignora il tradimento che meditai, pure<br>un uomo lo sa, e può anche provarlo —<br>il magnanimo Piccolomini!<br>Là vive l'uomo che può disonorarmi!<br>Questa ignominia il [[motifs/blood\|sangue]] solo può lavarla!<br>Duca Friedland, tu o io — Nelle mie stesse mani<br>la Fortuna mi consegna — La cosa più cara che un uomo abbia è se stesso. |  
 | *(didascalia)* | (Cala il sipario.) |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1919,7 +1820,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [Exit GERALDIN. |
 | BUTLER | Here's no room for delay. The citizens<br>Declare for him, a dizzy drunken spirit<br>Possesses the whole town. They see in the Duke<br>A Prince of peace, a founder of new ages<br>And golden times. Arms too have been given out<br>By the town-council, and a hundred citizens<br>Have volunteered themselves to stand on guard.<br>Dispatch then be the word. For enemies<br>Threaten us from without and from within. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1930,8 +1830,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | GERALDIN | Saranno qui tra poco. |  
 | *(didascalia)* | [Esce GERALDIN. |  
 | BUTLER | Non c'è tempo da perdere. I cittadini<br>si dichiarano per lui; uno spirito ebbro<br>possiede tutta la città. Vedono nel Duca<br>un Principe di pace, il fondator di nuove<br>e auree età. Armi pure ha distribuito<br>il consiglio cittadino, e cento cittadini<br>si sono offerti volontari alla guardia.<br>Sia dunque presta l'opera. Ché i nemici<br>ci minacciano di fuori e di dentro. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2051,7 +1949,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | DEVEREUX | [[motifs/well\|Well]]! [[motifs/well\|Well]]! Come then, Macdonald, he shall not<br>Lie long in [[motifs/pain\|pain]]. |
 | *(didascalia)* | [Exeunt BUTLER through one door, MACDONALD and DEVEREUX through the other. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2167,8 +2064,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | BUTLER | Sarebbe il suo destino certo. |  
 | DEVEREUX | [[motifs/well\|Bene]]! [[motifs/well\|Bene]]! Vieni dunque, Macdonald, non giacerà<br>a lungo nella [[motifs/pain\|pena]]. |  
 | *(didascalia)* | [Escono BUTLER da una porta, MACDONALD e DEVEREUX dall'altra. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2227,7 +2122,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [Exeunt DUCHESS and COUNTESS. |
 | *(didascalia)* | SCENE — A Gothic and gloomy, &c. 1800, 1828, 1829. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2282,8 +2176,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | THEKLA | Allora la signorina Neubrunn può restare con me. |  
 | *(didascalia)* | [Escono la DUCHESSA e la CONTESSA. |  
 | *(didascalia)* | SCENA — Una sala gotica e tetra, ecc. 1800, 1828, 1829. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2329,7 +2221,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | CAPTAIN | Princess —— |
 | *(didascalia)* | [THEKLA silently makes signs to him to go, and turns from him. The Captain lingers, and is about to speak. LADY NEUBRUNN repeats the signal, and he retires. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2371,8 +2262,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | THEKLA | un piccolo ricordo di quest'ora. Ora andate! |  
 | CAPITANO | Principessa —— |  
 | *(didascalia)* | [THEKLA gli fa in silenzio cenno di andare, e si volge da lui. Il Capitano indugia, e sta per parlare. La DAMA NEUBRUNN ripete il cenno, ed egli si ritira. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2426,7 +2315,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | NEUBRUNN | You frighten me so, lady, that no longer<br>I dare stay here myself. I go and call<br>Rosenberg instantly. |
 | *(didascalia)* | [Exit LADY NEUBRUNN. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2476,8 +2364,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | THEKLA | A una pace profonda, quale egli ha trovato.<br>Qualcosa mi trae, non so come chiamarlo,<br>irresistibile mi trae alla sua [[motifs/grave\|tomba]].<br>Là il mio cuore avrà sollievo, le mie [[motifs/tears\|lacrime]] scorreranno.<br>Oh affréttati, non fare altre domande!<br>Non c'è pace per me finché non abbia lasciato<br>queste mura — mi crollano addosso — Un'oscura potenza<br>mi caccia di qui — Oh [[concepts/mercy\|pietà]]! Che sensazione!<br>Che forme pallide e vuote son quelle! Riempiono,<br>affollano il luogo! Qui non ho più spazio!<br>[[concepts/mercy\|Pietà]]! E ancora! Ancora! L'orrendo sciame!<br>Mi incalzano; mi scacciano da queste mura —<br>quelle vuote, incorporee forme di uomini vivi! |  
 | NEUBRUNN | Mi spaventate tanto, signora, che io stessa<br>non oso più restare qui. Vado e chiamo<br>subito Rosenberg. |  
 | *(didascalia)* | [Esce la DAMA NEUBRUNN. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2489,7 +2375,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | THEKLA | His spirit 'tis that calls me: 'tis the troop<br>Of his true followers, who offered up<br>Themselves to avenge his [[motifs/death\|death]]: and they accuse me<br>Of an ignoble loitering — they would not<br>Forsake their leader even in his [[motifs/death\|death]] — they died for him!<br>And shall I live? ——<br>For me too was that laurel-garland twined<br>That decks his bier. Life is an empty casket:<br>I throw it from me. O! my only [[concepts/hope\|hope]]; —<br>To die beneath the hoofs of trampling steeds —<br>That is the lot of heroes upon earth! |
 | *(didascalia)* | [Exit THEKLA. (The curtain drops.)] |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2497,8 +2382,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 |---|---|  
 | THEKLA | È il suo spirito che mi chiama: è la schiera<br>dei suoi fedeli, che offrirono<br>se stessi per vendicare la sua [[motifs/death\|morte]]: ed essi mi accusano<br>d'un ignobile indugio — non vollero<br>abbandonare il loro capo neppure nella [[motifs/death\|morte]] — morirono per lui!<br>E io dovrei vivere? ——<br>Anche per me fu intrecciata quella corona d'alloro<br>che orna il suo feretro. La vita è uno scrigno vuoto:<br>lo getto via da me. Oh! mia sola [[concepts/hope\|speranza]]; —<br>morire sotto gli zoccoli dei destrieri che calpestano —<br>questa è la sorte degli eroi sulla terra! |  
 | *(didascalia)* | [Esce THEKLA. (Cala il sipario.)] |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2555,7 +2438,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [Exit COUNTESS. |
 | *(didascalia)* | NOTE. In 1834 the literal [[forms/translation\|translation]] of ll. 57, 58 was substituted for the text of the variant and the footnote was omitted. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2608,8 +2490,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | CONTESSA | Se le trovasse, la mia risoluzione è presa —<br>porto con me il mio sostegno e il mio rifugio. |  
 | *(didascalia)* | [Esce la CONTESSA. |  
 | *(didascalia)* | NOTA. Nel 1834 la [[forms/translation\|traduzione]] letterale dei vv. 57, 58 fu sostituita al testo della variante e la nota a piè di pagina fu omessa. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2649,7 +2529,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [After a pause, serious, and in a more subdued manner. |
 | WALLENSTEIN | I too have sacrific'd to him — For me<br>There fell the dearest friend, and through my fault<br>He fell! No joy from favourable fortune<br>Can overweigh the anguish of this stroke.<br>The envy of my destiny is glutted:<br>Life pays for life. On his pure head the [[motifs/lightning\|lightning]]<br>Was drawn off which would else have shattered me. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2685,8 +2564,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | Odo proprio quel Gordon che un tempo<br>soleva predicarmi, ora daccapo predicare;<br>so [[motifs/well\|bene]] che tutte le cose sublunari<br>son sempre vassalle della vicissitudine.<br>Gli dèi avversi esigono il loro tributo.<br>Questo da gran tempo lo sapevano i Pagani antichi:<br>e perciò di loro spontanea volontà offrivano<br>a se stessi delle ferite, così da espiare<br>la [[concepts/jealousy\|gelosia]] delle loro divinità:<br>e vittime umane sanguinarono per Tifone. |  
 | *(didascalia)* | [Dopo una pausa, grave, e con modo più sommesso. |  
 | WALLENSTEIN | Anch'io ho sacrificato a lui — Per me<br>cadde l'amico più caro, e per mia colpa<br>cadde! Nessuna gioia di fortuna propizia<br>può pesare più dell'angoscia di questo colpo.<br>L'invidia del mio destino è saziata:<br>vita si paga con vita. Sul suo capo puro il [[motifs/lightning\|fulmine]]<br>fu attratto, quello che altrimenti avrebbe fracassato me. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2728,7 +2605,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | WALLENSTEIN | And thou too! But I know why thou dost wish<br>My reconcilement with the Emperor.<br>Poor man! he hath a small estate in Cärnthen,<br>And fears it will be forfeited because<br>He's in my service. Am I then so poor,<br>That I no longer can indemnify<br>My servants? [[motifs/well\|Well]]! To no one I employ<br>Means of compulsion. If 'tis thy belief<br>That fortune has fled from me, go! Forsake me.<br>This [[motifs/night\|night]] for the last [[motifs/time\|time]] mayst thou unrobe me,<br>And then go over to thy Emperor.<br>Gordon, good [[motifs/night\|night]]! I think to make a long<br>[[motifs/sleep\|Sleep]] of it: for the struggle and the turmoil<br>Of this last day or two were great. May't please you!<br>Take care that they awake me not too early. |
 | *(didascalia)* | [Exit WALLENSTEIN, the Groom of the Chamber lighting him. SENI follows. GORDON remains on the darkened stage, following the DUKE with his eye, till he disappears at the farther end of the gallery: then by his gestures the old man expresses the depth of his anguish, and stands leaning against a pillar. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2766,8 +2642,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [Il VALLETTO DI CAMERA, che era entrato durante l'ultimo dialogo, e stava in disparte ad ascoltarlo con visibili segni del più profondo interesse, s'avanza in estrema agitazione e si getta ai piedi del DUCA. |  
 | WALLENSTEIN | E anche tu! Ma so perché desideri<br>la mia riconciliazione con l'Imperatore.<br>Pover'uomo! ha un piccolo podere in Carinzia,<br>e teme che gli sia confiscato perché<br>sta al mio servizio. Son dunque tanto povero<br>da non poter più risarcire<br>i miei servi? [[motifs/well\|Bene]]! Con nessuno adopero<br>mezzi di costrizione. Se è tua convinzione<br>che la fortuna m'abbia lasciato, va'! Abbandonami.<br>Questa [[motifs/night\|notte]] per l'ultima [[motifs/time\|volta]] potrai spogliarmi,<br>e poi passa dal tuo Imperatore.<br>Gordon, buona [[motifs/night\|notte]]! Penso di farne un lungo<br>[[motifs/sleep\|Sonno]]: ché la lotta e il tumulto<br>di questi ultimi due giorni furono grandi. Vi prego!<br>Badate che non mi sveglino troppo presto. |  
 | *(didascalia)* | [Esce WALLENSTEIN, col VALLETTO DI CAMERA che gli fa lume. SENI lo segue. GORDON resta sulla scena oscurata, seguendo con l'occhio il DUCA finché scompare in fondo alla galleria: poi con i gesti il vecchio esprime la profondità della sua angoscia, e resta appoggiato a un pilastro. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2810,7 +2684,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | BUTLER | You but remind me,<br>How precious every minute is! |
 | *(didascalia)* | (He stamps on the floor.) |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2849,8 +2722,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | GORDON | Oh — il [[motifs/time\|Tempo]]<br>opera miracoli. In un'ora molte migliaia<br>di granelli di sabbia scorrono via; e rapido come loro,<br>pensiero segue pensiero dentro l'[[motifs/soul\|anima]] umana.<br>Una sola ora! Il vostro cuore può mutare proposito,<br>il suo cuore può mutare proposito — qualche nuova novella<br>può giungere; qualche evento fortunato, decisivo,<br>può cadere dal Cielo e salvarlo. Oh, che cosa<br>non può compiere un'ora sola! |  
 | BUTLER | Non fate che rammentarmi<br>quanto sia prezioso ogni minuto! |  
 | *(didascalia)* | (Batte il piede sul pavimento.) |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2878,7 +2749,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | BUTLER | Burst the doors open! |
 | *(didascalia)* | They rush over the [[concepts/body\|body]] into the gallery — two doors are heard to crash one after the other — Voices deadened by the distance — Clash of arms — then all at once a profound [[motifs/silence\|silence]]. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2902,8 +2772,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | CAMERIERE | Gesù [[characters/maria\|Maria]]! |  
 | BUTLER | Sfondate le porte! |  
 | *(didascalia)* | Si precipitano sopra il [[concepts/body\|corpo]] dentro la galleria — si odono due porte schiantarsi l'una dopo l'altra — Voci attutite dalla distanza — Cozzare d'armi — poi, d'un tratto, un profondo [[motifs/silence\|silenzio]]. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2914,15 +2782,12 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 |---|---|
 | COUNTESS TERTSKY | Her bed-chamber is empty; she<br>herself<br>Is no where to be found! The Neubrunn too,<br>Who watched by her, is missing. If she should<br>Be flown — But whither flown? We must call up<br>Every [[motifs/soul\|soul]] in the house. How will the Duke<br>Bear up against these worst bad tidings? O<br>If that my husband now were but returned<br>[[motifs/home\|Home]] from the banquet: Hark! I [[concepts/wonder\|wonder]] whether<br>The Duke is still awake! I thought I heard<br>Voices and tread of feet here! I will go<br>And listen at the door. Hark! What is that?<br>'Tis hastening up the steps! |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
 | Chi parla | Battuta |  
 |---|---|  
 | CONTESSA TERTSKY | La sua stanza è deserta; lei<br>medesima<br>non si trova in nessun luogo! Anche la Neubrunn,<br>che vegliava su di lei, è scomparsa. Se fosse<br>fuggita — Ma fuggita dove? Dobbiamo destare<br>ogni [[motifs/soul\|anima]] della casa. Come reggerà il Duca<br>a queste, che son le peggiori novelle? Oh,<br>se solo mio marito fosse già tornato<br>a [[motifs/home\|casa]] dal banchetto! Ascolta! Mi [[concepts/wonder\|chiedo]] se<br>il Duca vegli ancora! M'è parso d'udire<br>voci e calpestio di passi qui! Andrò<br>ad ascoltare alla porta. Ascolta! Che cos'è?<br>Qualcuno sale in fretta le scale! |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2951,7 +2816,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [She rushes to the gallery. |
 | *(didascalia)* | [Before 5] Gordon (in an agony of affright). 1800, 1828, 1829. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2976,8 +2840,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | CONTESSA | Che vuol dire troppo tardi?<br>Chi sarà qui egli stesso? Octavio<br>a Egra? Tradimento! Tradimento! Dov'è il Duca? |  
 | *(didascalia)* | [Ella si precipita nella galleria. |  
 | *(didascalia)* | [Prima di 5] Gordon (in preda a un'angoscia di terrore). 1800, 1828, 1829. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3004,7 +2866,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [At these words the COUNTESS starts from her stupor, collects herself, and retires suddenly. |
 | VOICE *(from behind the Scene)* | Keep back the people! Guard the door. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -3027,8 +2888,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | VOCE *(da dietro la scena)* | Fate largo al Luogotenente Generale! |  
 | *(didascalia)* | [A queste parole la CONTESSA si riscuote dal suo stupore, si ricompone, e si ritira all'improvviso. |  
 | VOCE *(da dietro la scena)* | Trattenete la gente! Presidiate la porta. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3053,7 +2912,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | *(didascalia)* | [Exit BUTLER. |
 | *(didascalia)* | [Before 15] Butler (calmly). 1800, 1828, 1829. |
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -3074,8 +2932,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | BUTLER | Per che cosa<br>inveite contro di me? Qual è la mia colpa?<br>Ho liberato l'Impero da un nemico<br>tremendo, e attendo la ricompensa.<br>L'unica differenza fra voi e me<br>è questa: voi poneste la freccia sull'arco;<br>io tirai la corda. Voi seminaste [[motifs/blood\|sangue]], e pure restate<br>attonito che [[motifs/blood\|sangue]] sia germogliato. Io ho sempre<br>saputo ciò che facevo, e perciò nessun esito<br>ha il potere di spaventare o sorprendere il mio spirito.<br>Avete altro da comandare? — ché in questo istante<br>mi affretto con ogni [[characters/speed\|velocità]] a Vienna; a deporre<br>la mia spada grondante innanzi al trono del mio Imperatore,<br>e [[concepts/hope\|spero]] d'ottenere il plauso che un'obbedienza<br>pronta e puntuale può esigere<br>da un giudice giusto. |  
 | *(didascalia)* | [Esce BUTLER. |  
 | *(didascalia)* | [Prima di 15] Butler (con calma). 1800, 1828, 1829. |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3103,7 +2959,6 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | GORDON | To the Prince Piccolomini. |
 | *(didascalia)* | [OCTAVIO, with his whole frame expressive of sudden<br>anguish, raises his eyes to heaven.] |
 | *(didascalia)* | (The curtain drops.) |
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3129,5 +2984,3 @@ La traduzione in versi sciolti di Coleridge della tragedia storica di Schiller i
 | GORDON | Al Principe Piccolomini. |  
 | *(didascalia)* | [OCTAVIO, con tutta la persona atteggiata a un'improvvisa<br>angoscia, leva gli occhi al cielo.] |  
 | *(didascalia)* | (Cala il sipario.) |
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

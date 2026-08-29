@@ -22,10 +22,6 @@ tags:
 - [[works/red-jacket-(from-aloft)-(whitman)|Red Jacket (From Aloft) (Whitman)]]
 - [[works/shop-of-ghosts-(chesterton)|shop-of-ghosts (Chesterton)]]
 - [[works/the-canterville-ghost-(wilde)|The Canterville Ghost (Wilde)]]
-<<<<<<< HEAD
-=======
-- [[works/the-complaint-of-ninathóma-from-the-same-(coleridge)|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/the-mystic-trumpeter-(whitman)|The Mystic Trumpeter (Whitman)]]
 - [[works/wuthering-heights-(bronte)|Wuthering Heights (Bronte)]]
 

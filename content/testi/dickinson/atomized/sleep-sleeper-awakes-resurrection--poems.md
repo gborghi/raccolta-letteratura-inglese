@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--poems" data-author="Dickinson" data-workhref="works/sleep-·-sleeper-awakes-·-resurrection-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 13. Sleep is supposed to be · 96. Sexton! My Master's sleeping here. · 146. On such a night, or such a night, · 194. On this long storm the Rainbow rose — · 319. The nearest Dream recedes — unrealized — · 363. I went to thank Her — · 369. She lay as if at play · 450. Dreams — are well — but Waking's better, · 518. Her sweet Weight on my Heart a Night · 531. We dream — it is good we are dreaming — · 542. I had no Cause to be awake — · 654. A long — long Sleep — A famous — Sleep — · 737. The Moon was but a Chin of Gold · 804. No Notice gave She, but a Change — · 829. Ample make this Bed — · 909. I make His Crescent fill or lack — · 1103. The spry Arms of the Wind · 1315. Which is the best — the Moon or the Crescent? · 1528. The Moon upon her fluent Route · 1533. On that specific Pillow
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="eep_is_supposed_to_be" data-title="13. Sleep is supposed to be" data-chapter="" data-kind="intro" data-tags="topos/the_sleeper_awakes,motif/sleep,motif/dawn,motif/death,motif/white_and_red,concept/immortality,concept/faith,form/hymn,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
 
 
@@ -43,7 +40,6 @@ One in the red array, —
 That is the break of day.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/sleep|Sonno]] si suppone sia,  
@@ -66,8 +62,6 @@ Uno col vessillo gaio,
 Uno in rossa schiera, —  
 Quello è lo spuntare del giorno.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="xton_my_masters_sleeping_here" data-title="96. Sexton! My Master's sleeping here." data-chapter="" data-kind="intro" data-tags="topos/the_sleeper_awakes,motif/the_grave,motif/sleep,motif/flowers,motif/birds,motif/spring,concept/grief_and_loss,concept/immortality,form/elegy,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -84,7 +78,6 @@ Daisies point the way there —
 And the Troubadour.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sagrestano! Il mio Padrone dorme qui.  
@@ -97,8 +90,6 @@ Via dalla [[motifs/door|porta]] della sua stanza —
 Le Margherite indichino la via —  
 E il Trovatore.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_such_a_night_or_such_a_night" data-title="146. On such a night, or such a night," data-chapter="" data-kind="intro" data-tags="archetype/child,motif/death,motif/sleep,motif/night,motif/dawn,concept/mortality,concept/grief_and_loss,concept/innocence_and_experience,form/elegy,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -135,7 +126,6 @@ Strange that the feet so precious charged
 Should reach so small a goal!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 In una [[motifs/night|notte]] così, o una [[motifs/night|notte]] così,  
@@ -168,8 +158,6 @@ E visioni vaste e piccole —
 Strano che piedi di sì prezioso carico  
 Dovessero giungere a meta così piccola!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_this_long_storm_the_rainbow_rose" data-title="194. On this long storm the Rainbow rose —" data-chapter="" data-kind="intro" data-tags="topos/the_sleeper_awakes,motif/storm,motif/death,motif/nature,motif/birds,motif/the_supernatural,concept/mortality,form/lyric,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -191,7 +179,6 @@ The slow archangel's syllables
 Must awaken her.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Su questa lunga [[motifs/storm|tempesta]] l'arcobaleno [[motifs/rose|sorse]],  
@@ -209,8 +196,6 @@ Nessun'alba può ridestare ;
 Le sillabe del lento arcangelo  
 Dovranno svegliarla.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_nearest_dream_recedes_unrealized" data-title="319. The nearest Dream recedes — unrealized —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/dreams,motif/animals,concept/disillusionment,concept/immortality,concept/childhood_and_growth,form/lyric,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -231,7 +216,6 @@ Ah, the Bee flies not
 That brews that rare variety!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Sogno più vicino recede — irrealizzato —  
@@ -248,8 +232,6 @@ Nostalgico di un Miele costante —
 Ah, non vola l'Ape  
 Che distilla quella rara varietà!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="went_to_thank_her" data-title="363. I went to thank Her —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,motif/sleep,motif/the_sea,motif/flowers,motif/the_journey,concept/grief_and_loss,form/elegy,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -268,7 +250,6 @@ To look upon her like, alive,
 But turning back 't was slow.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Andai a ringraziarla,  
@@ -283,8 +264,6 @@ Fu breve [[motifs/cross|attraversare]] il [[motifs/sea|mare]]
 Per guardare una sua pari, viva,  
 Ma il ritorno fu lento.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_lay_as_if_at_play" data-title="369. She lay as if at play" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/death,motif/sleep,motif/eyes_sight,concept/grief_and_loss,concept/mortality,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -311,7 +290,6 @@ To force her [[motifs/sleep|sleep]] —
 So light — so deep —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Giaceva come per gioco  
@@ -334,8 +312,6 @@ Tramando, ne son certa —
 Di forzare il suo [[motifs/sleep|sonno]] —  
 Così lieve — così fondo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="eams_are_well_but_wakings_better" data-title="450. Dreams — are well — but Waking's better," data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/dawn,motif/sleep,motif/birds,concept/disillusionment,form/lyric,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -352,7 +328,6 @@ Than a Solid [[motifs/dawn|Dawn]] — confronting —
 Leading to no Day —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I [[motifs/dreams|Sogni]] — van [[motifs/well|bene]] — ma Vegliare è meglio,  
@@ -365,8 +340,6 @@ Che mai rallegrarono [[motifs/tree|Albero]] —
 Di una Solida [[motifs/dawn|Alba]] — di fronte —  
 Che non conduce ad alcun Giorno —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_sweet_weight_on_my_heart_a_night" data-title="518. Her sweet Weight on my Heart a Night" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/marriage,concept/love_romantic,concept/appearance_vs_reality,concept/faith,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -388,7 +361,6 @@ A Fiction superseding [[concepts/faith|Faith]] —
 By so much — as 'twas real —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il suo dolce Peso sul mio Cuore una [[motifs/night|Notte]]  
@@ -406,8 +378,6 @@ Diede — come a Tutti —
 Una Finzione che soppianta la [[concepts/faith|Fede]] —  
 Di tanto — quanto era reale —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_dream_it_is_good_we_are_dreaming" data-title="531. We dream — it is good we are dreaming —" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,motif/dreams,motif/death,concept/appearance_vs_reality,concept/mortality,setting/egypt,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -434,7 +404,6 @@ And perhaps a phrase in Egyptian —
 It's prudenter — to dream —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sogniamo — è bene che stiamo sognando —  
@@ -457,8 +426,6 @@ Con solo un'Età — e un Nome —
 E forse una frase in Egizio —  
 È più prudente — sognare —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="had_no_cause_to_be_awake" data-title="542. I had no Cause to be awake —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/sleep,motif/dawn,motif/bells,concept/grief_and_loss,concept/mortality,concept/faith,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -490,7 +457,6 @@ The only Raiment I should need —
 I struggled — and was There —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non avevo Causa d'esser desta —  
@@ -518,8 +484,6 @@ E prendendo solo una [[motifs/prayer|Preghiera]] —
 L'unico Abito che mi occorresse —  
 Lottai — ed ero Là —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="long_long_sleep_a_famous_sleep" data-title="654. A long — long Sleep — A famous — Sleep —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/sleep,motif/death,motif/the_grave,concept/mortality,concept/transience,concept/immortality,form/lyric,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -536,7 +500,6 @@ To bask the Centuries away —
 Nor once look up — for [[motifs/noon|Noon]]?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un lungo — lungo [[motifs/sleep|Sonno]] — Un famoso — [[motifs/sleep|Sonno]] —  
@@ -549,8 +512,6 @@ Sopra un Argine di Pietra
 Crogiolarsi via i Secoli —  
 Senza mai alzare gli occhi — per il [[motifs/noon|Mezzogiorno]]?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_moon_was_but_a_chin_of_gold" data-title="737. The Moon was but a Chin of Gold" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/stars,motif/clothing,motif/money_gold,concept/the_natural_order,concept/wonder_and_gratitude,concept/beauty,concept/imagination,form/lyric,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -582,7 +543,6 @@ The [[motifs/stars|Stars]] — the Trinkets at Her Belt —
 Her Dimities — of Blue —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/moon|Luna]] era solo un Mento d'Oro  
@@ -610,8 +570,6 @@ L'Universo — la Sua Scarpa —
 Le [[motifs/stars|Stelle]] — i Ciondoli alla Sua Cintura —  
 Le Sue Mussole — di Blu —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_notice_gave_she_but_a_change" data-title="804. No Notice gave She, but a Change —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/seed_and_germination,motif/winter,motif/spring,concept/mortality,concept/grief_and_loss,concept/resurrection,form/elegy,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -643,7 +601,6 @@ Removed our invitation by
 As Some She never knew —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nessun Avviso diede Lei, se non un Mutamento —  
@@ -671,8 +628,6 @@ E Noi — imploranti ci accostammo —
 Respinse il nostro invito  
 Come di Alcuni che mai conobbe —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ple_make_this_bed" data-title="829. Ample make this Bed —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/death,motif/sleep,motif/dawn,concept/resurrection,concept/faith,form/elegy,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -689,7 +644,6 @@ Let no Sunrise' yellow noise
 Interrupt this Ground —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ampio fate questo Letto —  
@@ -702,8 +656,6 @@ Sia tondo il suo Guanciale —
 Che nessun giallo strepito d'Aurora  
 Interrompa questo Suolo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="make_his_crescent_fill_or_lack" data-title="909. I make His Crescent fill or lack —" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,archetype/tyrant,motif/moon,motif/the_sea,concept/love_romantic,concept/power_and_corruption,form/lyric,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -725,7 +677,6 @@ Which is the Despot, neither knows —
 Nor Whose — the Tyranny —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Io faccio il Suo Crescente colmarsi o mancare —  
@@ -743,8 +694,6 @@ E fronteggiamo un Mutuo Giorno —
 Chi sia il Despota, nessuno dei due sa —  
 Né di Chi — la Tirannia —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_spry_arms_of_the_wind" data-title="1103. The spry Arms of the Wind" data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/wind,motif/the_journey,concept/self_and_soul,concept/immortality,form/lyric,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -766,7 +715,6 @@ And hold the Wick of mine to it
 To light, and then return —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le agili Braccia del [[motifs/wind|Vento]]  
@@ -784,8 +732,6 @@ E se l'[[motifs/soul|anima]] è a [[motifs/home|Casa]]
 E accostarvi il mio Stoppino  
 Per accenderlo, e poi tornare —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ich_is_the_best_the_moon_or_the_crescent" data-title="1315. Which is the best — the Moon or the Crescent?" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/moon,motif/desire,concept/lust,concept/paradox,concept/disillusionment,concept/beauty,form/lyric,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -804,7 +750,6 @@ Transport's decomposition follows —
 He is Prism born.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 FALCE?  
@@ -819,8 +764,6 @@ Rabbrividite a raggiungere.
 Segue la decomposizione del Trasporto —  
 Egli è nato Prisma.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_moon_upon_her_fluent_route" data-title="1528. The Moon upon her fluent Route" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/stars,motif/dawn,concept/faith_and_doubt,concept/the_natural_order,form/lyric,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -837,7 +780,6 @@ Know that which makes them as forgot
 As [[motifs/dawn|Dawn]] forgets them — now —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/moon|Luna]] sul suo fluente Percorso  
@@ -850,8 +792,6 @@ Quelli cui è concesso sapere
 Sanno ciò che li rende dimenticati  
 Come l'[[motifs/dawn|Alba]] li dimentica — ora —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_that_specific_pillow" data-title="1533. On that specific Pillow" data-chapter="" data-kind="intro" data-tags="topos/the_sleeper_awakes,motif/sleep,motif/night,concept/mortality,concept/self_and_soul,form/lyric,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -865,7 +805,6 @@ Or usher us — a stranger —
 To situations new  
 The effort to comprise it  
 Is all the [[motifs/soul|soul]] can do.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -878,5 +817,3 @@ O ci scorterà — stranieri —
 A situazioni nuove  
 Lo sforzo di abbracciarlo  
 È tutto ciò che l'[[motifs/soul|anima]] può.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

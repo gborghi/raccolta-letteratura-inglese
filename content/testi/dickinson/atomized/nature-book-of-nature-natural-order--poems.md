@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/nature-book-of-nature-natural-order--poems" data-author="Dickinson" data-workhref="works/nature-·-book-of-nature-·-natural-order-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 6. Frequently the woods are pink · 66. So from the mould · 70. "Arcturus" is his other name — · 97. The rainbow never tells me · 215. What is — "Paradise" — · 285. The Robin's my Criterion for Tune — · 314. Nature — sometimes sears a Sapling — · 316. The Wind didn't come from the Orchard — today — · 321. Of all the Sounds despatched abroad, · 327. Before I got my eye put out · 333. The Grass so little has to do — · 386. Answer July — · 415. Sunset at Night — is natural — · 436. The Wind — tapped like a tired Man — · 480. "Why do I love" You, Sir? · 495. It's thoughts — and just One Heart — · 516. Beauty — be not caused — It Is — · 525. I think the Hemlock likes to stand · 557. She hideth Her the last — · 575. "Heaven" has different Signs — to me — · 591. To interrupt His Yellow Plan · 602. Of Brussels — it was not — · 620. It makes no difference abroad — · 628. They called me to the Window, for · 668. "Nature" is what we see — · 722. Sweet Mountains — Ye tell Me no lie — · 742. Four Trees — upon a solitary Acre — · 748. Autumn — overlooked my Knitting — · 750. Growth of Man — like Growth of Nature — · 790. Nature — the Gentlest Mother is, · 797. By my Window have I for Scenery · 811. The Veins of other Flowers · 891. To my quick ear the Leaves — conferred — · 975. The Mountain sat upon the Plain · 987. The Leaves like Women interchange · 1075. The Sky is low — the Clouds are mean. · 1077. These are the Signs to Nature's Inns — · 1097. Dew — is the Freshet in the Grass — · 1137. The duties of the Wind are few, · 1170. Nature affects to be sedate · 1175. We like a Hairbreadth 'scape · 1235. Like Rain it sounded till it curved · 1241. The Lilac is an ancient shrub · 1255. Longing is like the Seed · 1259. A Wind that rose · 1278. The Mountains stood in Haze — · 1286. I thought that nature was enough · 1298. The Mushroom is the Elf of Plants — · 1302. I think that the Root of the Wind is Water — · 1407. A Field of Stubble, lying sere · 1415. A wild Blue sky abreast of Winds · 1418. How lonesome the Wind must feel Nights — · 1441. These Fevered Days — to take them to the Forest · 1448. How soft a Caterpillar steps — · 1624. Apparently with no surprise · 1650. A lane of Yellow led the eye · 1746. The most important population · 1748. The reticent volcano keeps
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="equently_the_woods_are_pink" data-title="6. Frequently the woods are pink" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/seasons,motif/nature,concept/wonder_and_gratitude,concept/transience,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
 
 
@@ -36,7 +33,6 @@ Wonderful Rotation!
 By but twelve performed!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sovente i boschi sono rosa —  
@@ -52,8 +48,6 @@ Sul suo asse ha girato!
 Meravigliosa Rotazione!  
 Da soli dodici compiuta!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_from_the_mould" data-title="66. So from the mould" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/immortality,concept/wonder_and_gratitude,concept/grace_and_redemption,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -72,7 +66,6 @@ Peasants like Thee
 Gaze perplexedly!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Così dalla zolla  
@@ -87,8 +80,6 @@ Contadini come me,
 Contadini come Te  
 Guardano perplessi!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cturus_is_his_other_name" data-title="70. &quot;Arcturus&quot; is his other name —" data-chapter="" data-kind="intro" data-tags="motif/stars,concept/critique_of_progress,concept/nature_vs_civilization,concept/faith_and_doubt,concept/childhood_and_growth,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -130,7 +121,6 @@ Old fashioned — naught — everything —
 Over the stile of "Pearl."
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "Arcturus" è il suo altro nome —  
@@ -168,8 +158,6 @@ Sollevi la sua bambina —
 All'antica — nulla — ogni cosa —  
 Oltre la scaletta di "Perla."
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_rainbow_never_tells_me" data-title="97. The rainbow never tells me" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/flowers,motif/birds,motif/storm,concept/faith,concept/truth,form/lyric,histref/classical_antiquity,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -186,7 +174,6 @@ What Cato couldn't prove me
 Except the [[motifs/birds|birds]] were here!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'arcobaleno mai mi dice  
@@ -199,8 +186,6 @@ Eppure eloquenti dichiarano
 Ciò che Catone non poté provarmi  
 Se non fossero qui gli [[motifs/birds|uccelli]]!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_is_paradise" data-title="215. What is — &quot;Paradise&quot; —" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/death,concept/faith_and_doubt,concept/immortality,form/lyric,histref/the_bible,histref/new_england,setting/new_england,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -228,7 +213,6 @@ Maybe — "Eden" a'n't so lonesome
 As [[historical-references/new-england|New England]] used to be!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che cos'è — il "Paradiso" —  
@@ -252,8 +236,6 @@ I riscattati — non rideranno di me —
 Forse — l'"Eden" non è così solitario  
 Come la [[historical-references/new-england|Nuova Inghilterra]] era un tempo!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_robins_my_criterion_for_tune" data-title="285. The Robin's my Criterion for Tune —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/seasons,motif/nature,motif/flowers,concept/identity,form/lyric,histref/new_england,setting/new_england,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -278,7 +260,6 @@ The [[characters/queen|Queen]], discerns like me —
 Provincially —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Pettirosso è il mio Criterio di Melodia —  
@@ -299,8 +280,6 @@ Perché io vedo — alla maniera del New England —
 La [[characters/queen|Regina]], discerne come me —  
 Provincialmente —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ture_sometimes_sears_a_sapling" data-title="314. Nature — sometimes sears a Sapling —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,concept/self_and_soul,concept/grief_and_loss,concept/mortality,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -317,7 +296,6 @@ We — who have the Souls —
 Die oftener — Not so vitally —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[concepts/nature|Natura]] — talvolta strina un Arboscello —  
@@ -330,8 +308,6 @@ Mutamente testimoniano —
 Noi — che abbiamo le Anime —  
 Moriamo più spesso — Non così vitalmente —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_wind_didnt_come_from_the_orchard_today" data-title="316. The Wind didn't come from the Orchard — today —" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/nature,motif/garden,concept/wonder_and_gratitude,form/lyric,setting/rural_england,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -367,7 +343,6 @@ Would you — Say —
 Would you be the [[archetypes/fool|fool]] to stay?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 OGGI —  
@@ -399,8 +374,6 @@ Chi sarebbe il [[archetypes/fool|folle]] a restare?
 Lo saresti tu — Di' —  
 Saresti tu il [[archetypes/fool|folle]] a restare?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_all_the_sounds_despatched_abroad" data-title="321. Of all the Sounds despatched abroad," data-chapter="" data-kind="intro" data-tags="motif/wind,motif/music_and_song,motif/nature,motif/dust,motif/birds,concept/joy,concept/immortality,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -445,7 +418,6 @@ Then knit, and swept —
 In Seamless Company —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di tutti i Suoni spediti per il mondo,  
@@ -486,8 +458,6 @@ Avesse rotto le File,
 Poi riannodato, e spazzato via —  
 In Compagnia senza Cuciture —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="fore_i_got_my_eye_put_out" data-title="327. Before I got my eye put out" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/nature,motif/the_window,motif/stars,motif/birds,concept/the_sublime,concept/self_and_soul,concept/imagination,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -520,7 +490,6 @@ Where other Creatures put their eyes —
 Incautious — of the [[motifs/sun|Sun]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Prima che mi si spegnesse l'occhio  
@@ -549,8 +518,6 @@ Sul vetro della [[motifs/window|Finestra]] —
 Dove le altre Creature posano gli occhi —  
 Incaute — del [[motifs/sun|Sole]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_grass_so_little_has_to_do" data-title="333. The Grass so little has to do —" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,topos/locus_amoenus,motif/nature,motif/flowers,motif/death,motif/sleep,concept/humility,form/lyric,setting/pastoral_countryside,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -582,7 +549,6 @@ The Grass so little has to do
 I wish I were a Hay —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Erba così poco ha da fare —  
@@ -610,8 +576,6 @@ E sognare via i Giorni,
 L'Erba così poco ha da fare  
 Vorrei essere un Fieno —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="swer_july" data-title="386. Answer July —" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/spring,motif/winter,motif/nature,motif/birds,concept/the_natural_order,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -640,7 +604,6 @@ Where be the Bur?
 Here — said the Year —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Rispondi Luglio —  
@@ -665,8 +628,6 @@ Dove sia la Foschia —
 Dove sia il Cardo?  
 Qui — disse l'Anno —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="nset_at_night_is_natural" data-title="415. Sunset at Night — is natural —" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,motif/sun,motif/dawn,concept/the_natural_order,concept/order_vs_chaos,concept/providence,histref/the_bible,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -683,7 +644,6 @@ But do one face us suddenly —
 [[characters/jehovah|Jehovah]]'s Watch — is wrong.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tramonto di [[motifs/night|Notte]] — è naturale —  
@@ -696,8 +656,6 @@ E la Scienza le accoglie con inchino —
 Ma ne affronti una all'improvviso —  
 L'Orologio di [[characters/jehovah|Geova]] — è sbagliato.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_wind_tapped_like_a_tired_man" data-title="436. The Wind — tapped like a tired Man —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/wind,motif/nature,motif/birds,motif/music_and_song,concept/imagination,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -729,7 +687,6 @@ Again, He tapped — 'twas flurriedly —
 And I became alone —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/wind|Vento]] — bussò come un Uomo stanco —  
@@ -757,8 +714,6 @@ Poi come un Uomo timido
 Di nuovo, bussò — fu frettoloso —  
 E io divenni sola —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="y_do_i_love_you_sir" data-title="480. &quot;Why do I love&quot; You, Sir?" data-chapter="" data-kind="intro" data-tags="motif/love,motif/nature,motif/wind,concept/love_romantic,concept/the_natural_order,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -789,7 +744,6 @@ Therefore — Then —
 I [[motifs/love|love]] Thee —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "Perché [[motifs/love|amo]]" Voi, Signore?  
@@ -816,8 +770,6 @@ Perché Lui è Aurora — e io vedo —
 Perciò — Allora —  
 Io [[motifs/love|amo]] Te —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_thoughts_and_just_one_heart" data-title="495. It's thoughts — and just One Heart —" data-chapter="" data-kind="intro" data-tags="topos/beatus_ille,motif/the_book,motif/flowers,motif/birds,motif/winter,concept/humility,concept/joy,concept/immortality,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -859,7 +811,6 @@ And [[concepts/immortality|Immortality]] — can be almost —
 Not quite — Content —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sono pensieri — e un solo Cuore —  
@@ -897,8 +848,6 @@ Che non vorremmo Corretta —
 E l'[[concepts/immortality|Immortalità]] — può essere quasi —  
 Non del tutto — Contenta —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="auty_be_not_caused_it_is" data-title="516. Beauty — be not caused — It Is —" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/nature,concept/beauty,concept/truth,concept/the_sublime,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -916,7 +865,6 @@ Deity will see to it
 That You never do it —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[concepts/beauty|Bellezza]] — non ha causa — È —  
@@ -930,8 +878,6 @@ Vi fa scorrere le dita —
 La Divinità farà in modo  
 Che Tu non vi riesca mai —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="think_the_hemlock_likes_to_stand" data-title="525. I think the Hemlock likes to stand" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/winter,motif/wind,concept/identity,concept/the_sublime,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -958,7 +904,6 @@ Beneath his Tabernacles, play,
 And Dnieper Wrestlers, run.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Penso che all'Abete piaccia stare  
@@ -981,8 +926,6 @@ Ma i Bambini sul Don,
 Sotto i suoi Tabernacoli, giocano,  
 E i Lottatori del Dnepr, corrono.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_hideth_her_the_last" data-title="557. She hideth Her the last —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/animals,concept/the_natural_order,concept/wonder_and_gratitude,concept/humility,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1004,7 +947,6 @@ As make of Our imperfect Mints,
 The Julep — of the Bee —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ella nasconde Sé per ultima —  
@@ -1022,8 +964,6 @@ Tanto impotente sarebbe
 Quanto trarre dalla Nostra imperfetta Menta,  
 Il Giulebbe — dell'Ape —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="aven_has_different_signs_to_me" data-title="575. &quot;Heaven&quot; has different Signs — to me —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/dawn,motif/birds,motif/garden,concept/wonder_and_gratitude,concept/the_sublime,concept/faith,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1055,7 +995,6 @@ Adorned, for a Superior Grace —
 Not yet, our eyes can see —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il "Cielo" ha Segni diversi — per me —  
@@ -1083,8 +1022,6 @@ Ma come Noi stessi, saremo
 Adornati, per una Grazia Superiore —  
 Non ancora, i nostri occhi possono vedere —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_interrupt_his_yellow_plan" data-title="591. To interrupt His Yellow Plan" data-chapter="" data-kind="intro" data-tags="concept/the_natural_order,concept/providence,concept/humility,concept/wonder_and_gratitude,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1111,7 +1048,6 @@ That rides — emits a Thunder —
 A Bomb — to justify —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 A interrompere il Suo Piano Giallo  
@@ -1134,8 +1070,6 @@ Come l'Ape più Minuta
 Che cavalca — emette un Tuono —  
 Una Bomba — per giustificarsi —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_brussels_it_was_not" data-title="602. Of Brussels — it was not —" data-chapter="" data-kind="intro" data-tags="concept/the_natural_order,concept/wonder_and_gratitude,concept/transience,concept/imagination,concept/humility,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1162,7 +1096,6 @@ Upholsterer of the Pines — is He —
 Upholsterer — of the Pond —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di Bruxelles — non era —  
@@ -1185,8 +1118,6 @@ E lo distese sul Suolo —
 Tappezziere dei Pini — è Lui —  
 Tappezziere — dello Stagno —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_makes_no_difference_abroad" data-title="620. It makes no difference abroad —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/seasons,motif/flowers,motif/rose,motif/birds,motif/the_cross,concept/the_natural_order,concept/grief_and_loss,concept/faith,concept/alienation,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1208,7 +1139,6 @@ His separation from His [[motifs/rose|Rose]] —
 To Him — sums Misery —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non fa differenza là fuori —  
@@ -1226,8 +1156,6 @@ Sono nulla per l'Ape —
 La sua separazione dalla Sua [[motifs/rose|Rosa]] —  
 Per Lui — somma la Miseria —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ey_called_me_to_the_window_for" data-title="628. They called me to the Window, for" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/the_window,motif/the_sea,motif/nature,motif/sun,concept/transience,concept/imagination,concept/beauty,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1254,7 +1182,6 @@ Nor Farm — nor Opal Herd — was there —
 Nor Mediterranean —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi chiamarono alla [[motifs/window|Finestra]], perché  
@@ -1277,8 +1204,6 @@ E quando guardai di nuovo —
 Né Fattoria — né Gregge d'Opale — c'era —  
 Né Mediterraneo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ture_is_what_we_see" data-title="668. &quot;Nature&quot; is what we see —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,topos/inexpressibility,motif/nature,motif/animals,motif/the_sea,concept/nature_vs_civilization,concept/inexpressibility,concept/wonder_and_gratitude,concept/the_natural_order,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1298,7 +1223,6 @@ So impotent Our Wisdom is
 To her Simplicity.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La "[[concepts/nature|Natura]]" è ciò che vediamo —  
@@ -1314,8 +1238,6 @@ Ma non abbiamo arte per dirlo —
 Tanto impotente è la Nostra Sapienza  
 Dinanzi alla sua Semplicità.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="eet_mountains_ye_tell_me_no_lie" data-title="722. Sweet Mountains — Ye tell Me no lie —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,archetype/great_mother,motif/nature,motif/eyes_sight,concept/faith,concept/doubt,concept/nature_vs_civilization,concept/love_divine,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1336,7 +1258,6 @@ Fades from the Firmament away —
 To lift Her Brows on You —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dolci [[settings/mountains|Montagne]] — non Mi dite menzogna —  
@@ -1353,8 +1274,6 @@ Il Suo ultimo Culto — Quando il Giorno
 Svanisce via dal Firmamento —  
 Levare i Cigli su di Voi —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ur_trees_upon_a_solitary_acre" data-title="742. Four Trees — upon a solitary Acre —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/sun,motif/wind,concept/the_natural_order,concept/doubt,concept/providence,concept/alienation,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1381,7 +1300,6 @@ They severally — retard — or further —
 Unknown —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quattro Alberi — su un Acro solitario —  
@@ -1404,8 +1322,6 @@ Quale Piano
 Ciascuno — ritardi — o promuova —  
 Ignoto —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="tumn_overlooked_my_knitting" data-title="748. Autumn — overlooked my Knitting —" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/seasons,motif/white_and_red,motif/nature,concept/love_romantic,concept/the_natural_order,concept/beauty,concept/identity,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1422,7 +1338,6 @@ And the little Border — Dusker —
 For resembling Me —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[motifs/autumn|Autunno]] — adocchiò il mio Lavoro a maglia —  
@@ -1435,8 +1350,6 @@ Che somigliasse a Te —
 E il piccolo Bordo — più Scuro —  
 Perché somiglia a Me —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="owth_of_man_like_growth_of_nature" data-title="750. Growth of Man — like Growth of Nature —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/sun,concept/self_and_soul,concept/identity,concept/self_reliance,concept/childhood_and_growth,concept/the_natural_order,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1463,7 +1376,6 @@ But Transaction — is assisted
 By no Countenance —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Crescita d'Uomo — come Crescita di [[concepts/nature|Natura]] —  
@@ -1486,8 +1398,6 @@ Del suo Pubblico —
 Ma la Transazione — è assistita  
 Da nessun Volto —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ture_the_gentlest_mother_is" data-title="790. Nature — the Gentlest Mother is," data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,topos/pastoral_retreat,archetype/great_mother,motif/nature,motif/animals,motif/birds,motif/silence,motif/stars,concept/the_natural_order,concept/providence,concept/wonder_and_gratitude,concept/faith,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1524,7 +1434,6 @@ Her Golden finger on Her lip —
 Wills [[motifs/silence|Silence]] — Everywhere —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[concepts/nature|Natura]] — è la Madre più Gentile,  
@@ -1557,8 +1466,6 @@ E Cura più infinita —
 Il Suo dito d'Oro sul labbro —  
 Vuole [[motifs/silence|Silenzio]] — Ovunque —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_my_window_have_i_for_scenery" data-title="797. By my Window have I for Scenery" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,topos/inexpressibility,motif/the_window,motif/nature,motif/music_and_song,concept/immortality,concept/faith,concept/the_sublime,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1596,7 +1503,6 @@ Apprehensions — are [[characters/god|God]]'s introductions —
 To be hallowed — accordingly —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Alla mia [[motifs/window|Finestra]] ho per Scenario  
@@ -1630,8 +1536,6 @@ Della Reale" Infinità?
 Le Apprensioni — sono le presentazioni di [[characters/god|Dio]] —  
 Da santificare — di conseguenza —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_veins_of_other_flowers" data-title="811. The Veins of other Flowers" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/nature,motif/silence,motif/blood,concept/transience,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1648,7 +1552,6 @@ While She creates and federates
 Without a syllable.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le Vene degli altri [[motifs/flowers|Fiori]]  
@@ -1661,8 +1564,6 @@ Noi coniughiamo la Sua Arte
 Mentre Lei crea e federa  
 Senza una sillaba.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_my_quick_ear_the_leaves_conferred" data-title="891. To my quick ear the Leaves — conferred —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/bells,concept/guilt,concept/alienation,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1679,7 +1580,6 @@ Creation seemed a mighty Crack —
 To make me visible —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Al mio orecchio pronto le [[motifs/leaves|Foglie]] — confabularono —  
@@ -1692,8 +1592,6 @@ Le Pareti — presero a dire —
 Il Creato pareva un possente Crepaccio —  
 Per farmi visibile —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_mountain_sat_upon_the_plain" data-title="975. The Mountain sat upon the Plain" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,archetype/wise_old_man,motif/nature,motif/seasons,motif/dawn,concept/the_natural_order,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1710,7 +1608,6 @@ Grandfather of the Days is He
 Of [[motifs/dawn|Dawn]], the Ancestor —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Monte sedeva sulla Pianura  
@@ -1723,8 +1620,6 @@ Come Bimbi attorno a un padre —
 Nonno dei Giorni è Lui  
 Dell'[[motifs/dawn|Alba]], l'Antenato —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_leaves_like_women_interchange" data-title="987. The Leaves like Women interchange" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/seasons,concept/satire_of_society,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1741,7 +1636,6 @@ Inviolable compact
 To notoriety.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le [[motifs/leaves|Foglie]] come Donne si scambiano  
@@ -1754,8 +1648,6 @@ Ingiungono segretezza —
 Patto inviolabile  
 Verso la notorietà.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sky_is_low_the_clouds_are_mean" data-title="1075. The Sky is low — the Clouds are mean." data-chapter="" data-kind="intro" data-tags="motif/winter,motif/wind,motif/nature,motif/crown,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1772,7 +1664,6 @@ How some one treated him
 Without her Diadem.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Cielo è basso — le Nuvole sono meschine.  
@@ -1785,8 +1676,6 @@ Di come qualcuno lo abbia trattato
 La [[concepts/nature|Natura]], come Noi è talvolta colta  
 Senza il suo Diadema.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ese_are_the_signs_to_natures_inns" data-title="1077. These are the Signs to Nature's Inns —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/bread_and_wine_eucharist,motif/the_inn_tavern,motif/stars,concept/grace_and_redemption,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1808,7 +1697,6 @@ The Purple in the East is set
 And in the North, the Star —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Queste sono le Insegne delle Locande della [[concepts/nature|Natura]] —  
@@ -1826,8 +1714,6 @@ Del suo Conforto che non sfiorisce
 La Porpora a Oriente è posta  
 E a Settentrione, la Stella —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_is_the_freshet_in_the_grass" data-title="1097. Dew — is the Freshet in the Grass —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/dew,motif/childhood,concept/wonder_and_gratitude,concept/appearance_vs_reality,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1849,7 +1735,6 @@ Obtain "Admission" as a [[archetypes/child|Child]]
 Some Wednesday Afternoon.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/dew|Rugiada]] — è la Piena nell'Erba —  
@@ -1867,8 +1752,6 @@ Della Carovana della [[concepts/nature|Natura]]
 Ottenere "Ingresso" come un [[archetypes/child|Bambino]]  
 Un qualche Mercoledì Pomeriggio.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_duties_of_the_wind_are_few" data-title="1137. The duties of the Wind are few," data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/wind,motif/nature,motif/birds,concept/the_natural_order,concept/wonder_and_gratitude,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1895,7 +1778,6 @@ Too wise he seems for Wakelessness,
 However, know not i.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I doveri del [[motifs/wind|Vento]] son pochi,  
@@ -1918,8 +1800,6 @@ Ch'egli esista, o muoia,
 Troppo saggio pare per il Non-risveglio,  
 Comunque, non so io.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ture_affects_to_be_sedate" data-title="1170. Nature affects to be sedate" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/masks_disguise,motif/the_supernatural,concept/appearance_vs_reality,concept/deception,concept/wonder_and_gratitude,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1936,7 +1816,6 @@ Behold our spacious Citizen
 Unto a Juggler turned —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[concepts/nature|Natura]] finge d'esser posata  
@@ -1949,8 +1828,6 @@ Remoti da comprendere
 Ecco la nostra spaziosa Cittadina  
 In Giocoliera mutata —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_like_a_hairbreadth_scape" data-title="1175. We like a Hairbreadth 'scape" data-chapter="" data-kind="intro" data-tags="motif/wind,concept/fate_and_free_will,concept/joy,concept/the_sublime,form/aphorism,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1967,7 +1844,6 @@ That reaches to our utmost Hair
 Its Tentacles divine.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ci piace uno scampo per un Pelo  
@@ -1980,8 +1856,6 @@ La Brezza non sarebbe così fine
 Che giunge al nostro Capello estremo  
 I suoi Tentacoli divini.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ke_rain_it_sounded_till_it_curved" data-title="1235. Like Rain it sounded till it curved" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/storm,motif/water,motif/the_wheel,concept/the_sublime,form/lyric,histref/the_bible,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2004,7 +1878,6 @@ Then like Elijah rode away
 Upon a [[motifs/wheel|Wheel]] of Cloud.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come [[motifs/rain|Pioggia]] suonava finché non curvò  
@@ -2023,8 +1896,6 @@ Smosse i siti dei Centri
 Poi come Elia cavalcò via  
 Su una [[motifs/wheel|Ruota]] di Nube.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_lilac_is_an_ancient_shrub" data-title="1241. The Lilac is an ancient shrub" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/sun,motif/stars,concept/faith,concept/the_sublime,form/lyric,histref/the_bible,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2052,7 +1923,6 @@ But let not [[concepts/revelation|Revelation]]
 By theses be detained —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Lillà è un arbusto antico  
@@ -2076,8 +1946,6 @@ Correre fra i Ciechi
 Ma non sia la [[concepts/revelation|Rivelazione]]  
 Da tesi trattenuta —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="nging_is_like_the_seed" data-title="1255. Longing is like the Seed" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/nature,motif/sun,concept/faith,form/allegory,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2094,7 +1962,6 @@ What Constancy must be achieved
 Before it see the [[motifs/sun|Sun]]!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[concepts/longing|Lo Struggimento]] è come il Seme  
@@ -2107,8 +1974,6 @@ Ogni Circostanza ignota,
 Quale Costanza va compiuta  
 Prima che veda il [[motifs/sun|Sole]]!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="wind_that_rose" data-title="1259. A Wind that rose" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/nature,motif/birds,concept/the_sublime,concept/self_and_soul,concept/grief_and_loss,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2125,7 +1990,6 @@ Restored in Arctic Confidence
 To the Invisible —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un [[motifs/wind|Vento]] che [[motifs/rose|si levò]]  
@@ -2138,8 +2002,6 @@ Come il Gonfio della Separazione
 Restituito in Artica Fiducia  
 All'Invisibile —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_mountains_stood_in_haze" data-title="1278. The Mountains stood in Haze —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/sun,motif/river,motif/fog_and_smoke_placeholder,concept/the_sublime,concept/faith,concept/wonder_and_gratitude,form/lyric,setting/pastoral_countryside,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2161,7 +2023,6 @@ We felt how neighborly a Thing
 Was the Invisible.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I [[settings/mountains|Monti]] stavano nella Foschia —  
@@ -2179,8 +2040,6 @@ Cadde l'Atto della sera
 Che sentimmo che Cosa familiare  
 Fosse l'Invisibile.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thought_that_nature_was_enough" data-title="1286. I thought that nature was enough" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/fire,concept/self_and_soul,concept/love_divine,concept/nature_vs_civilization,concept/faith,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2202,7 +2061,6 @@ And you will lodge a Giant
 And not a smaller man
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Pensavo che la [[concepts/nature|natura]] bastasse  
@@ -2220,8 +2078,6 @@ Ma date spazio a un Gigante
 E alloggerete un Gigante  
 E non un uomo più piccolo
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_mushroom_is_the_elf_of_plants" data-title="1298. The Mushroom is the Elf of Plants —" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/book_of_nature,archetype/trickster,motif/nature,motif/the_supernatural,motif/serpent_snake,concept/transience,concept/the_natural_order,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2253,7 +2109,6 @@ Had [[concepts/nature|Nature]] an Apostate —
 That Mushroom — it is Him!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Fungo è l'[[characters/elf|Elfo]] delle Piante —  
@@ -2281,8 +2136,6 @@ O potesse disprezzarne uno —
 Avesse la [[concepts/nature|Natura]] un Apostata —  
 Quel Fungo — è Lui!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="think_that_the_root_of_the_wind_is_water" data-title="1302. I think that the Root of the Wind is Water —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/wind,motif/water,motif/the_sea,motif/nature,concept/imagination,concept/the_natural_order,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2300,7 +2153,6 @@ There is a maritime conviction
 In the Atmosphere —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 —  
@@ -2314,8 +2166,6 @@ All'Orecchio d'una Corrente —
 C'è una convinzione marittima  
 Nell'Atmosfera —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="field_of_stubble_lying_sere" data-title="1407. A Field of Stubble, lying sere" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/seasons,motif/nature,concept/transience,form/lyric,setting/new_england,setting/rural_england,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2331,7 +2181,6 @@ Is often seen — but seldom felt,
 On our [[historical-references/new-england|New England]] Farms —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Campo di Stoppie, disteso arido  
@@ -2343,8 +2192,6 @@ Irresoluto d'Elemosina —
 Si vede spesso — ma di rado si sente,  
 Nelle nostre Fattorie del [[historical-references/new-england|New England]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="wild_blue_sky_abreast_of_winds" data-title="1415. A wild Blue sky abreast of Winds" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/sun,motif/nature,motif/storm,concept/the_natural_order,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2360,7 +2207,6 @@ That we deplore peculiarly
 Their arrogant campaign —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un selvaggio cielo Blu a fronte di Venti  
@@ -2372,8 +2218,6 @@ Così cordiali in sostanza
 Che deploriamo in modo singolare  
 La loro arrogante campagna —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_lonesome_the_wind_must_feel_nights" data-title="1418. How lonesome the Wind must feel Nights —" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/nature,motif/night,motif/dawn,concept/alienation,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2395,7 +2239,6 @@ Espousing each and spurning all
 Then soaring to his Temple Tall —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come solo deve sentirsi il [[motifs/wind|Vento]] le Notti —  
@@ -2413,8 +2256,6 @@ Accampandosi su mille albe
 Sposando ognuna e tutte sdegnando  
 Poi librandosi al suo Tempio Alto —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ese_fevered_days_to_take_them_to_the_forest" data-title="1441. These Fevered Days — to take them to the Forest" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,topos/locus_amoenus,motif/nature,motif/water,motif/silence,form/lyric,setting/an_enchanted_wood,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2428,7 +2269,6 @@ And shade is all that devastates the stillness
 Seems it sometimes this would be all —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 FORESTA  
@@ -2438,8 +2278,6 @@ Dove Acque fresche strisciano attorno ai muschi —
 E l'ombra è tutto ciò che devasta la quiete  
 Sembra a volte che questo sarebbe tutto —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_soft_a_caterpillar_steps" data-title="1448. How soft a Caterpillar steps —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/silence,concept/wonder_and_gratitude,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2455,7 +2293,6 @@ Intent upon its own career
 What use has it for me —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Con che passo soffice incede un Bruco —  
@@ -2467,8 +2304,6 @@ Il mio lento — occhio terrestre
 Intento alla propria carriera  
 Che uso ha di me —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="parently_with_no_surprise" data-title="1624. Apparently with no surprise" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/flowers,motif/death,motif/sun,concept/the_natural_order,concept/faith_and_doubt,concept/providence,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2484,7 +2319,6 @@ To measure off another Day
 For an Approving [[characters/god|God]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Apparentemente senza sorpresa  
@@ -2496,8 +2330,6 @@ Il [[motifs/sun|Sole]] procede impassibile
 A misurare un altro Giorno  
 Per un [[characters/god|Dio]] che Approva.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="lane_of_yellow_led_the_eye" data-title="1650. A lane of Yellow led the eye" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/white_and_red,motif/nature,motif/sun,motif/eyes_sight,concept/wonder_and_gratitude,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2513,7 +2345,6 @@ In that low [[motifs/summer|summer]] of the West
 Impossible to know —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un sentiero di Giallo guidava l'occhio  
@@ -2525,8 +2356,6 @@ O fiore presuma mostrarsi
 In quella bassa [[motifs/summer|estate]] dell'Ovest  
 Impossibile sapere —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_most_important_population" data-title="1746. The most important population" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/animals,concept/the_natural_order,concept/wonder_and_gratitude,form/lyric,setting/a_garden,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2543,7 +2372,6 @@ Of bumble-[[motifs/bees|bees]] and other nations
 The grass is full.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La popolazione più importante  
@@ -2556,8 +2384,6 @@ Sarebbe inutile dirli.
 Di [[motifs/bees|bombi]] e di altre nazioni  
 L'erba è piena.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_reticent_volcano_keeps" data-title="1748. The reticent volcano keeps" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/silence,motif/fire,concept/immortality,concept/the_natural_order,concept/faith,form/lyric,histref/the_bible,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -2577,7 +2403,6 @@ Admonished by her buckled lips
 Let every babbler be  
 The only secret people keep  
 Is [[concepts/immortality|Immortality]].
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2596,5 +2421,3 @@ Ammonito dalle sue labbra serrate
 Sia ogni chiacchierone  
 Il solo segreto che la gente serba  
 È l'[[concepts/immortality|Immortalità]].
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

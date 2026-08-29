@@ -129,7 +129,6 @@ HANS IN HIS [[motifs/garden|GARDEN]]
 “I am rather afraid that I have annoyed him,” answered the Linnet. “The fact is, that I told him a story with a moral.”
 “Ah! that is always a very dangerous thing to do,” said the Duck.
 And I quite agree with her.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -249,5 +248,3 @@ HANS NEL SUO [[motifs/garden|GIARDINO]]
 “Temo piuttosto di averlo infastidito,” rispose il Fanello. “Il fatto è che gli ho raccontato una storia con una morale.”
 “Ah! è sempre una cosa molto pericolosa da fare,” disse l’Anatra.
 E io sono del tutto d’accordo con lei.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

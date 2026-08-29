@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/birds-music-and-song-nightingale" data-author="Whitman" data-workhref="works/birds-·-music-and-song-·-nightingale-(whitman)"></div>
 
 
-<<<<<<< HEAD
 One Hour to Madness and Joy · To the Man-of-War-Bird · The Dalliance of the Eagles · From Paumanok Starting I Fly Like a Bird · Reversals · Vocalism · The Ox-Tamer · Wandering at Morn · Italian Music in Dakota · Proud Music of the Storm · That Music Always Round Me · My Canary Bird · Of That Blithe Throat of Thine
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="032_one_hour_to_madness_and_joy" data-title="One Hour to Madness and Joy" data-chapter="" data-kind="intro"></span>
 
 

@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/sun-light-and-dark-fire--poems" data-author="Dickinson" data-workhref="works/sun-·-light-and-dark-·-fire-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 11. I never told the buried gold · 24. There is a morn by men unseen — · 113. Our share of night to bear — · 152. The Sun kept stooping — stooping — low! · 204. A slash of Blue — · 219. She sweeps with many-colored Brooms — · 228. Blazing in Gold and quenching in Purple · 232. The Sun — just touched the Morning — · 282. How noteless Men, and Pleiads, stand, · 289. I know some lonely Houses off the Road · 291. How the old Mountains drip with Sunset · 294. The Doomed — regard the Sunrise · 304. The Day came slow — till Five o'clock — · 318. I'll tell you how the Sun rose — · 347. When Night is almost done — · 364. The Morning after Woe — · 365. Dare you see a Soul at the White Heat? · 409. They dropped like Flakes — · 419. We grow accustomed to the Dark — · 425. Good Morning — Midnight — · 469. The Red — Blaze — is the Morning — · 471. A Night — there lay the Days between — · 530. You cannot put a Fire out — · 560. It knew no lapse, nor Diminuation — · 638. To my small Hearth His fire came — · 710. The Sunrise runs for Both — · 716. The Day undressed — Herself — · 764. Presentiment — is that long Shadow — on the Lawn — · 766. My Faith is larger than the Hills — · 776. The Color of a Queen, is this — · 783. The Birds begun at Four o'clock — · 862. Light is sufficient to itself — · 878. The Sun is gay or stark · 888. When I have seen the Sun emerge · 972. Unfulfilled to Observation — · 993. We miss Her, not because We see — · 998. Best Things dwell out of Sight · 1000. The Fingers of the Light · 1018. Who saw no Sunrise cannot say · 1079. The Sun went down — no Man looked on — · 1105. Like Men and Women Shadows walk · 1114. The largest Fire ever known · 1122. 'Tis my first night beneath the Sun · 1132. The smouldering embers blush — · 1148. After the Sun comes out · 1171. On the World you colored · 1173. The Lightning is a yellow Fork · 1194. Somehow myself survived the Night · 1390. These held their Wick above the West — · 1468. A winged spark doth soar about — · 1739. Some say goodnight — at night —
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="never_told_the_buried_gold" data-title="11. I never told the buried gold" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/sun,motif/serpent_snake,concept/transience,form/lyric,histref/greek_mythology,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
 
 
@@ -49,7 +46,6 @@ Should a shrewd betray me -
 "Atropos" decide -
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non dissi mai dell'oro sepolto  
@@ -78,8 +74,6 @@ Potremmo pur dividere -
 Dovesse un astuto tradirmi -  
 "Atropo" decida -
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_is_a_morn_by_men_unseen" data-title="24. There is a morn by men unseen —" data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/spring,motif/stars,motif/music_and_song,concept/immortality,concept/faith,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -114,7 +108,6 @@ Announcing me in other dells -
 Unto the different [[motifs/dawn|dawn]]!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 C'è un mattino da uomini non visto -  
@@ -145,8 +138,6 @@ Attendo le tue lontane - fantastiche [[motifs/bells|campane]] -
 Che mi annunciano in altre valli -  
 Alla diversa [[motifs/dawn|alba]]!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_share_of_night_to_bear" data-title="113. Our share of night to bear —" data-chapter="" data-kind="intro" data-tags="motif/night,motif/light_and_dark,motif/stars,motif/dawn,concept/grief_and_loss,concept/providence,form/hymn,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -163,7 +154,6 @@ Here a mist, and there a mist,
 Afterwards—day!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La NOSTRA parte di [[motifs/night|notte]] da portare,  
@@ -176,8 +166,6 @@ alcuni smarriscono la via.
 Qui una nebbia, e là una nebbia,  
 e dopo—il giorno!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sun_kept_stooping_stooping_low" data-title="152. The Sun kept stooping — stooping — low!" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/nature,motif/light_and_dark,motif/swords_weapons,concept/imagination,concept/the_sublime,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -202,7 +190,6 @@ Charged from my chimney corner —
 But Nobody was there!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/sun|Sole]] continuava a chinarsi — chinarsi — basso!  
@@ -223,8 +210,6 @@ Io che un tempo portai la Coccarda —
 Caricai dal mio angolo del camino —  
 Ma Nessuno c'era!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="slash_of_blue" data-title="204. A slash of Blue —" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/dawn,motif/money_gold,concept/beauty,concept/imagination,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -241,7 +226,6 @@ A Bank of Day —
 This just makes out the Morning Sky.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Uno squarcio di Blu —  
@@ -254,8 +238,6 @@ Un'Onda d'Oro —
 Una Sponda di Giorno —  
 Questo appena compone il Cielo del Mattino.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sweeps_with_many-colored_brooms" data-title="219. She sweeps with many-colored Brooms —" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/nature,motif/stars,concept/beauty,concept/imagination,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -277,7 +259,6 @@ Till Brooms fade softly into [[motifs/stars|stars]] —
 And then I come away —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Spazza con Scope multicolori —  
@@ -295,8 +276,6 @@ E ancora i Grembiuli volano,
 Finché le Scope sfumano dolcemente in [[motifs/stars|stelle]] —  
 E allora io me ne vado —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="azing_in_gold_and_quenching_in_purple" data-title="228. Blazing in Gold and quenching in Purple" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/nature,motif/animals,motif/money_gold,concept/beauty,concept/transience,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -312,7 +291,6 @@ Kissing her Bonnet to the Meadow
 And the Juggler of Day is gone
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sfolgorando in Oro e spegnendosi in Porpora  
@@ -324,8 +302,6 @@ Toccando il Tetto e tingendo il Granaio
 Baciando col suo Cappellino il Prato  
 E il Giocoliere del Giorno è svanito
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sun_just_touched_the_morning" data-title="232. The Sun — just touched the Morning —" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/sun,motif/crown,motif/dawn,concept/unrequited_love,concept/grief_and_loss,form/allegory,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -351,7 +327,6 @@ Her unanointed forehead —
 Henceforth — Her only One!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/sun|Sole]] — sfiorò appena la Mattina —  
@@ -373,8 +348,6 @@ Tastò debolmente — cercando la Sua [[motifs/crown|Corona]] —
 La Sua fronte non consacrata —  
 D'ora in poi — la Sua sola ed unica!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_noteless_men_and_pleiads_stand" data-title="282. How noteless Men, and Pleiads, stand," data-chapter="" data-kind="intro" data-tags="motif/death,motif/stars,concept/mortality,concept/transience,concept/grief_and_loss,form/lyric,histref/greek_mythology,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -396,7 +369,6 @@ Sweep by our disappointed Heads
 Without a syllable —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come inosservati stanno Uomini, e Pleiadi,  
@@ -414,8 +386,6 @@ I Cieli con un sorriso,
 Passano sui nostri Capi delusi  
 Senza una sillaba —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="know_some_lonely_houses_off_the_road" data-title="289. I know some lonely Houses off the Road" data-chapter="" data-kind="intro" data-tags="motif/night,motif/moon,motif/the_clock,motif/money_gold,motif/stars,concept/terror_and_horror,form/ballad,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -470,7 +440,6 @@ While the old Couple, just astir,
 Fancy the Sunrise — left the [[motifs/door|door]] ajar!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Conosco certe Case solitarie fuori dalla [[motifs/road|Strada]]  
@@ -521,8 +490,6 @@ Sogghignano — "Dove"!
 Mentre la vecchia Coppia, appena desta,  
 Crede che l'Alba — abbia lasciato la [[motifs/door|porta]] socchiusa!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_the_old_mountains_drip_with_sunset" data-title="291. How the old Mountains drip with Sunset" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/sun,motif/fire,motif/night,concept/beauty,concept/the_sublime,concept/the_artist_and_society,form/lyric,histref/the_renaissance,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -559,7 +526,6 @@ Domenichino dropped his pencil —
 Paralyzed, with Gold —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come le vecchie [[settings/mountains|Montagne]] grondano di Tramonto  
@@ -592,8 +558,6 @@ Tiziano — mai le disse —
 Domenichino lasciò cadere la matita —  
 Paralizzato, dall'Oro —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_doomed_regard_the_sunrise" data-title="294. The Doomed — regard the Sunrise" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/sun,motif/dawn,motif/birds,concept/mortality,concept/beauty,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -615,7 +579,6 @@ Joyful — for whom the Meadow Bird
 Has ought but [[forms/elegy|Elegy]]!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I Condannati — guardano l'Aurora  
@@ -633,8 +596,6 @@ Precede l'Innamorato — Giorno —
 Gioioso — colui per cui l'Uccello del Prato  
 Ha tutt'altro che [[forms/elegy|Elegia]]!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_day_came_slow_till_five_oclock" data-title="304. The Day came slow — till Five o'clock —" data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/sun,motif/birds,motif/wind,concept/wonder_and_gratitude,concept/beauty,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -661,7 +622,6 @@ A Guest in this stupendous place —
 The Parlor — of the Day —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Giorno venne lento — fino alle Cinque in [[motifs/clock|punto]] —  
@@ -684,8 +644,6 @@ Che potenza era — essere
 Ospite in questo luogo stupendo —  
 Il Salotto — del Giorno —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="l_tell_you_how_the_sun_rose" data-title="318. I'll tell you how the Sun rose —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/dawn,motif/birds,concept/wonder_and_gratitude,concept/faith,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -709,7 +667,6 @@ Put gently up the evening Bars —
 And led the flock away —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vi dirò come il [[motifs/sun|Sole]] [[motifs/rose|sorse]] —  
@@ -729,8 +686,6 @@ Un Dominie in Grigio —
 Alzò dolcemente le Sbarre della sera —  
 E condusse via il gregge —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_night_is_almost_done" data-title="347. When Night is almost done —" data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/night,motif/light_and_dark,concept/joy,concept/grace_and_redemption,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -747,7 +702,6 @@ For that old — faded Midnight —
 That frightened — but an Hour —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando la [[motifs/night|Notte]] è quasi finita —  
@@ -760,8 +714,6 @@ E [[concepts/wonder|stupirci]] d'aver potuto curarci
 Di quella vecchia — sbiadita Mezzanotte —  
 Che spaventò — solo un'Ora —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_morning_after_woe" data-title="364. The Morning after Woe —" data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/nature,motif/birds,motif/the_cross,motif/music_and_song,concept/grief_and_loss,concept/melancholy,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -788,7 +740,6 @@ To fit some Crucifixal Clef —
 Some Key of Calvary —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Mattino dopo la Sciagura —  
@@ -811,8 +762,6 @@ Modulerebbero la Gaiezza
 Per adattarla a una Chiave Crocifissale —  
 A un Tono di Calvario —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="re_you_see_a_soul_at_the_white_heat" data-title="365. Dare you see a Soul at the White Heat?" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/light_and_dark,concept/self_and_soul,concept/purification,concept/the_sublime,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -839,7 +788,6 @@ Until the Designated Light
 Repudiate the Forge —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Osi vedere un'[[motifs/soul|Anima]] al Calor Bianco? —  
@@ -862,8 +810,6 @@ Con Martello, e con Vampa
 Finché la Luce Designata  
 Ripudi la Fucina —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ey_dropped_like_flakes" data-title="409. They dropped like Flakes —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/winter,motif/stars,motif/rose,motif/wind,concept/war_and_its_cost,concept/mortality,concept/providence,form/elegy,histref/american_civil_war,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -881,7 +827,6 @@ But [[characters/god|God]] can summon every face
 Of his Repealless — List.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caddero come Fiocchi —  
@@ -895,8 +840,6 @@ Nessun occhio poteva trovare il luogo —
 Ma [[characters/god|Dio]] può convocare ogni volto  
 Della sua Irrevocabile — Lista.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_grow_accustomed_to_the_dark" data-title="419. We grow accustomed to the Dark —" data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/light_and_dark,motif/night,motif/the_road,motif/eyes_sight,concept/grief_and_loss,concept/self_and_soul,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -928,7 +871,6 @@ Adjusts itself to Midnight —
 And Life steps almost straight.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ci abituiamo al Buio —  
@@ -956,8 +898,6 @@ O qualcosa nella vista
 Si adatta alla Mezzanotte —  
 E la Vita cammina quasi dritta.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="od_morning_midnight" data-title="425. Good Morning — Midnight —" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/night,motif/light_and_dark,motif/sun,concept/melancholy,concept/alienation,form/song,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -984,7 +924,6 @@ But — please take a little Girl —
 He turned away!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Buongiorno — Mezzanotte —  
@@ -1007,8 +946,6 @@ Io scelsi — il Giorno —
 Ma — ti prego accogli una piccola Bimba —  
 Lui si è voltato via!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_red_blaze_is_the_morning" data-title="469. The Red — Blaze — is the Morning —" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/light_and_dark,motif/fire,motif/time,motif/sun,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1025,7 +962,6 @@ The Territory Argent — that
 Never yet — consumed —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Rossa — Vampa — è il Mattino —  
@@ -1038,8 +974,6 @@ Rivelano l'Ampiezza che bruciò —
 Il Territorio Argenteo — che  
 Mai ancora — fu consumato —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="night_there_lay_the_days_between" data-title="471. A Night — there lay the Days between —" data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/night,motif/time,concept/melancholy,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1056,7 +990,6 @@ Too imperceptible to note —
 Till it be [[motifs/night|night]] — no more —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una [[motifs/night|Notte]] — vi stavano i Giorni frammezzo —  
@@ -1069,8 +1002,6 @@ Come Grani sopra una riva —
 Troppo impercettibili da notare —  
 Finché non sia [[motifs/night|notte]] — non più —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="u_cannot_put_a_fire_out" data-title="530. You cannot put a Fire out —" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/desire,motif/water,motif/wind,concept/the_natural_order,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1087,7 +1018,6 @@ Because the Winds would find it out —
 And tell your Cedar Floor —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non si può spegnere un [[motifs/fire|Fuoco]] —  
@@ -1100,8 +1030,6 @@ E riporlo in un Cassetto —
 Perché i Venti lo scoprirebbero —  
 E lo direbbero al tuo Pavimento di Cedro —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_knew_no_lapse_nor_diminuation" data-title="560. It knew no lapse, nor Diminuation —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/stars,concept/immortality,concept/mortality,concept/self_and_soul,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1118,7 +1046,6 @@ But suffered an Exchange of Territory —
 Or World —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non conobbe declino, né Diminuzione —  
@@ -1131,8 +1058,6 @@ Annullate —
 Ma sottoposte a uno Scambio di Territorio —  
 O di Mondo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_my_small_hearth_his_fire_came" data-title="638. To my small Hearth His fire came —" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/light_and_dark,motif/dawn,motif/sun,concept/love_romantic,concept/joy,concept/immortality,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1149,7 +1074,6 @@ With limit of [[motifs/decay|Decay]] —
 Nay, [[concepts/nature|Nature]], it was Day —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Al mio piccolo Focolare venne il Suo [[motifs/fire|fuoco]] —  
@@ -1162,8 +1086,6 @@ Con limite di [[motifs/decay|Declino]] —
 Era [[motifs/noon|Mezzogiorno]] — senza Notizia di [[motifs/night|Notte]] —  
 No, [[concepts/nature|Natura]], era Giorno —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sunrise_runs_for_both" data-title="710. The Sunrise runs for Both —" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/dawn,motif/stars,motif/night,motif/nature,concept/love_romantic,concept/exile,concept/the_natural_order,concept/wonder_and_gratitude,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1191,7 +1113,6 @@ And One upon Her Hem —
 Both lie —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Aurora corre per Entrambi —  
@@ -1215,8 +1136,6 @@ Sul Suo Seno — Uno —
 E Uno sul Suo Orlo —  
 Entrambi giacciono —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_day_undressed_herself" data-title="716. The Day undressed — Herself —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/clothing,motif/stars,motif/light_and_dark,motif/white_and_red,concept/the_natural_order,concept/wonder_and_gratitude,concept/faith,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1243,7 +1162,6 @@ On Ball of Mast in Bosporus —
 And Dome — and [[motifs/window|Window]] Pane —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Giorno si svestì — da Sé —  
@@ -1266,8 +1184,6 @@ Che il tremolio sia visto
 Sul Pomo d'Albero nel Bosforo —  
 E su Cupola — e Vetro di [[motifs/window|Finestra]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="esentiment_is_that_long_shadow_on_the_lawn" data-title="764. Presentiment — is that long Shadow — on the Lawn —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/light_and_dark,motif/night,motif/sun,concept/mortality,concept/transience,concept/fear,form/lyric,form/epigram,form/aphorism,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1282,7 +1198,6 @@ The Notice to the startled Grass
 That Darkness — is about to pass —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 IL PRATO —  
@@ -1293,8 +1208,6 @@ Indice che i Soli tramontano —
 L'Avviso all'Erba trasalita  
 Che la Tenebra — sta per passare —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_faith_is_larger_than_the_hills" data-title="766. My Faith is larger than the Hills —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/flowers,motif/birds,concept/faith,concept/providence,concept/the_natural_order,concept/wonder_and_gratitude,form/lyric,form/hymn,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1321,7 +1234,6 @@ Lest Firmament should fail for me —
 The Rivet in the Bands
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La mia [[concepts/faith|Fede]] è più vasta delle Colline —  
@@ -1344,8 +1256,6 @@ Da cui tanto di vasto dipende —
 Che il Firmamento non venga a mancarmi —  
 Il Rivetto nelle Fasce
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_color_of_a_queen_is_this" data-title="776. The Color of a Queen, is this —" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/crown,motif/the_supernatural,concept/beauty,concept/wonder_and_gratitude,concept/the_sublime,concept/the_natural_order,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1362,7 +1272,6 @@ Fling suddenly on men —
 A Rank — for Iodine —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Colore di una [[characters/queen|Regina]], è questo —  
@@ -1375,8 +1284,6 @@ Si gettano d'improvviso sugli uomini —
 È questo — e Stregoneria — la [[concepts/nature|natura]] serba  
 Un Rango — per lo Iodio —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_birds_begun_at_four_oclock" data-title="783. The Birds begun at Four o'clock —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/birds,motif/dawn,motif/music_and_song,motif/sun,concept/joy,concept/the_sublime,concept/wonder_and_gratitude,concept/the_natural_order,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1413,7 +1320,6 @@ The Miracle that introduced
 Forgotten, as fulfilled.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Gli [[motifs/birds|Uccelli]] cominciarono alle Quattro in [[motifs/clock|punto]] —  
@@ -1446,8 +1352,6 @@ Il Giorno governò il Mondo —
 Il Miracolo che l'aveva introdotto  
 Dimenticato, come compiuto.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ght_is_sufficient_to_itself" data-title="862. Light is sufficient to itself —" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/the_window,motif/animals,concept/self_reliance,concept/grace_and_redemption,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1464,7 +1368,6 @@ To Squirrel in the Himmaleh
 Precisely, as to you.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Luce basta a se stessa —  
@@ -1477,8 +1380,6 @@ Serba un Bagliore altrettanto grande
 Per lo Scoiattolo sull'Himmaleh  
 Esattamente, come per te.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sun_is_gay_or_stark" data-title="878. The Sun is gay or stark" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/death,concept/grief_and_loss,concept/the_natural_order,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1495,7 +1396,6 @@ His mighty pleasure suits Us not
 It magnifies Our Freight
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/sun|Sole]] è gaio o austero  
@@ -1508,8 +1408,6 @@ Che Egli aiutò a far troppo splendente
 Il suo possente piacere non Ci si addice  
 Ingigantisce il Nostro Carico
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_i_have_seen_the_sun_emerge" data-title="888. When I have seen the Sun emerge" data-chapter="" data-kind="intro" data-tags="motif/sun,concept/humility,concept/ambition,concept/the_natural_order,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1526,7 +1424,6 @@ The Earth has seemed to me a Drum,
 Pursued of little Boys
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando ho visto il [[motifs/sun|Sole]] emergere  
@@ -1539,8 +1436,6 @@ O l'accidente del Rumore —
 La Terra mi è parsa un Tamburo,  
 Inseguito da piccoli Ragazzi
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="fulfilled_to_observation" data-title="972. Unfulfilled to Observation —" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/light_and_dark,concept/immortality,concept/faith,concept/the_unseen,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1557,7 +1452,6 @@ New Horizons — they embellish —
 Fronting Us — with [[motifs/night|Night]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Incompiuto all'Osservazione —  
@@ -1570,8 +1464,6 @@ Per il nostro Opposto —
 Nuovi Orizzonti — essi adornano —  
 Fronteggiandoci — con la [[motifs/night|Notte]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_miss_her_not_because_we_see" data-title="993. We miss Her, not because We see —" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/eyes_sight,concept/grief_and_loss,concept/self_and_soul,concept/immortality,form/elegy,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1588,7 +1480,6 @@ We know that their superior Eyes
 Include Us — as they go —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lei Ci manca, non perché vediamo —  
@@ -1601,8 +1492,6 @@ Noi — addormentati sotto —
 Sappiamo che i loro Occhi superiori  
 Ci comprendono — nel loro andare —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="st_things_dwell_out_of_sight" data-title="998. Best Things dwell out of Sight" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/eyes_sight,concept/the_unseen,concept/truth,form/epigram,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1621,7 +1510,6 @@ Exhibit here, as doth a Burr —
 Germ's Germ be where?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le Cose Migliori dimorano fuori dalla Vista  
@@ -1636,8 +1524,6 @@ La Capsula della Mente
 Si esibiscono qui, come fa una Lappola —  
 Il Germe del Germe dove sia?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_fingers_of_the_light" data-title="1000. The Fingers of the Light" data-chapter="" data-kind="intro" data-tags="topos/dawn_parting_alba,motif/dawn,motif/light_and_dark,motif/nature,motif/sun,form/dramatic_monologue,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1664,7 +1550,6 @@ Made loud obeisance and the Gnat
 Held up His Cup for Light.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le Dita della Luce  
@@ -1687,8 +1572,6 @@ Esultante sul Suo Fianco
 Fece sonoro ossequio e il Moscerino  
 Levò la Sua Coppa alla Luce.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_saw_no_sunrise_cannot_say" data-title="1018. Who saw no Sunrise cannot say" data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/eyes_sight,motif/light_and_dark,concept/grief_and_loss,concept/exile,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1705,7 +1588,6 @@ The Blindness that beheld and blest —
 And could not find its Eye.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chi non vide Aurora non può dire  
@@ -1718,8 +1600,6 @@ afflitto per il Giorno.
 La Cecità che contemplò e benedisse —  
 e non seppe trovare il suo Occhio.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sun_went_down_no_man_looked_on" data-title="1079. The Sun went down — no Man looked on —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/nature,motif/birds,motif/crown,concept/wonder_and_gratitude,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1736,7 +1616,6 @@ A nameless Bird — a Stranger
 Were Witness for the [[motifs/crown|Crown]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/sun|Sole]] calò — nessun Uomo guardava —  
@@ -1749,8 +1628,6 @@ La Terra ed io e Uno
 Un Uccello senza nome — uno Straniero  
 Fummo Testimoni per la [[motifs/crown|Corona]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ke_men_and_women_shadows_walk" data-title="1105. Like Men and Women Shadows walk" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/light_and_dark,concept/appearance_vs_reality,concept/the_natural_order,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1766,7 +1643,6 @@ Minuter landscape as Ourselves
 And Boroughs where we live —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come Uomini e Donne le Ombre camminano  
@@ -1778,8 +1654,6 @@ Non desti a percepire
 Paesaggio più minuto quali Noi  
 E i Borghi dove viviamo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_largest_fire_ever_known" data-title="1114. The largest Fire ever known" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/sun,motif/fire,motif/the_city,concept/transience,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1795,7 +1669,6 @@ Rebuilt another morning
 To be again burned down.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il più grande [[motifs/fire|Fuoco]] mai conosciuto  
@@ -1807,8 +1680,6 @@ Una Città d'Occidente,
 Ricostruita un altro mattino  
 Per essere di nuovo arsa al suolo.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_my_first_night_beneath_the_sun" data-title="1122. 'Tis my first night beneath the Sun" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/wind,concept/unrequited_love,concept/exile,form/riddle,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1824,7 +1695,6 @@ But Distance his Delights confides
 To those who visit him —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È la mia prima [[motifs/night|notte]] sotto il [[motifs/sun|Sole]]  
@@ -1836,8 +1706,6 @@ E coglie il [[motifs/wind|Vento]] sul nascere —
 Ma la Distanza confida i suoi Diletti  
 A coloro che gli fanno visita —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_smouldering_embers_blush" data-title="1132. The smouldering embers blush —" data-chapter="" data-kind="intro" data-tags="motif/fire,concept/endurance,concept/love_romantic,form/lyric,histref/greek_mythology,character/prometheus,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1853,7 +1721,6 @@ One requisite has [[motifs/fire|Fire]] that lasts
 [[characters/prometheus|Prometheus]] never knew —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le braci covanti arrossiscono —  
@@ -1865,8 +1732,6 @@ Gli impassibili secondi ardono
 Un requisito ha il [[motifs/fire|Fuoco]] che dura  
 Che [[characters/prometheus|Prometeo]] mai conobbe —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ter_the_sun_comes_out" data-title="1148. After the Sun comes out" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/nature,motif/dawn,concept/joy,concept/wonder_and_gratitude,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1883,7 +1748,6 @@ Fresh as a Cargo from Batize
 [[concepts/nature|Nature]]'s qualities —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dopo che il [[motifs/sun|Sole]] appare  
@@ -1896,8 +1760,6 @@ Ognuno serbasse una notizia —
 Fresche come un Carico da Batize  
 Le qualità della [[concepts/nature|Natura]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_the_world_you_colored" data-title="1171. On the World you colored" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/dawn,motif/sun,motif/birds,concept/grief_and_loss,concept/love_romantic,concept/melancholy,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1917,7 +1779,6 @@ Midnight's awful Pattern
 In the Goods of Day —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sul Mondo che coloravi  
@@ -1933,8 +1794,6 @@ Spinse via il [[motifs/sun|sole]]
 Il Disegno tremendo della Mezzanotte  
 Nei Beni del Giorno —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_lightning_is_a_yellow_fork" data-title="1173. The Lightning is a yellow Fork" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/fire,motif/storm,motif/nature,motif/light_and_dark,concept/the_sublime,concept/wonder_and_gratitude,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1951,7 +1810,6 @@ The Apparatus of the Dark
 To ignorance revealed.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/lightning|Lampo]] è una Forchetta gialla  
@@ -1964,8 +1822,6 @@ E mai del tutto celate
 L'Apparato del Buio  
 All'ignoranza rivelato.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="mehow_myself_survived_the_night" data-title="1194. Somehow myself survived the Night" data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/night,motif/death,motif/dawn,concept/grief_and_loss,concept/mortality,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -1982,7 +1838,6 @@ A Candidate for Morning Chance
 But dated with the Dead.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 In qualche modo io sopravvissi alla [[motifs/night|Night]]  
@@ -1995,8 +1850,6 @@ Come chi è condotto a pena commutata —
 Candidata alla Sorte del Mattino  
 Ma datata con i Morti.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ese_held_their_wick_above_the_west" data-title="1390. These held their Wick above the West —" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/sun,motif/nature,concept/transience,concept/inexpressibility,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -2013,7 +1866,6 @@ That would not let the Eye decide
 Did it abide or no —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questi tennero il loro Stoppino alto sull'Ovest —  
@@ -2026,8 +1878,6 @@ In una Tinta dissimulante
 Che non lasciava all'Occhio decidere  
 Se rimanesse o no —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="winged_spark_doth_soar_about" data-title="1468. A winged spark doth soar about —" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/nature,motif/night,concept/joy,concept/transience,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -2045,7 +1895,6 @@ By feeling it is gone —
 Rekindled by some action quaint
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una scintilla alata s'innalza attorno —  
@@ -2059,8 +1908,6 @@ Un granello di Rapimento — percepito dapprima
 Nel sentire che è svanito —  
 Riacceso da qualche gesto bizzarro
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_say_goodnight_at_night" data-title="1739. Some say goodnight — at night —" data-chapter="" data-kind="intro" data-tags="topos/dawn_parting_alba,motif/night,motif/dawn,motif/light_and_dark,concept/grief_and_loss,concept/love_romantic,form/lyric,cluster/sun,cluster/light_and_dark,cluster/fire"></span>
@@ -2075,7 +1922,6 @@ For parting, that is [[motifs/night|night]],
 And presence, simply [[motifs/dawn|dawn]] —  
 Itself, the purple on the height  
 Denominated morn.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2089,5 +1935,3 @@ Poiché separarsi, quella è [[motifs/night|notte]],
 E presenza, semplicemente [[motifs/dawn|alba]] —  
 Essa stessa, la porpora sull'altura  
 Denominata mattino.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

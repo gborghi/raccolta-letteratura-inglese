@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant" data-author="Coleridge" data-workhref="works/swords-and-weapons-·-power-and-corruption-·-tyrant-(coleridge)"></div>
 
 
-<<<<<<< HEAD
 DESTRUCTION OF THE BASTILE · TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION · LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER · ODE TO THE DEPARTING YEAR · 179 8 FIRE, FAMINE, AND SLAUGHTER · FAMINE. · TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG · ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE · TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE · FRAGMENT OF AN ODE ON NAPOLEON · TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC · NAPOLEON · METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE · FULKE GREVILLE: LORD BROOKE · SAMUEL DANIEL · STOLBERG
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="009_destruction_of_the_bastile" data-title="DESTRUCTION OF THE BASTILE" data-chapter="" data-kind="intro"></span>
 
 
@@ -70,12 +67,57 @@ First ever of the first and freest of the free!   40
 ? 1789.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+Udisti tu quel grido universale,  
+e ancora indugi sulla riva della Gallia?  
+Va’, Tirannia! sotto qualche cielo barbaro  
+piangi i tuoi terrori perduti e la potenza in rovina!  
+E che, se per molte età gementi   5  
+si sentì la tua acre rabbia sospettosa,  
+pure la [[concepts/freedom|Libertà]], destata da fiero Sdegno,  
+ha spezzato furiosa la tua triplice catena,  
+e come la [[motifs/storm|tempesta]] che le viscere profonde della Terra nascondono,  
+alfine s’è aperta il varco e ha sparso lontano le rovine.   10  
+*       *       *       *       *
+IV  
+In sospiri si consumò il loro fiato malato; ogni barlume  
+di [[concepts/hope|Speranza]] aveva cessato di rallegrare il lungo lungo giorno;  
+o se illusorio, in qualche sogno fuggevole,  
+li rendeva agli amici e ai figli cari —  
+Destati dal suono dell’Insulto signorile    15  
+a tutti i raddoppiati orrori d’intorno,  
+spesso rifuggivano dalla schiera dell’Oppressione  
+mentre l’Angoscia levava la mano disperata  
+per la [[motifs/death|morte]] silenziosa; o perso il governo della mente,  
+per ogni vena ardente scorrevano maree di Frenesia.   20  
+V  
+Ma cessate, o petti pietosi, cessate di sanguinare!  
+Tali scene non chiedono più la lacrima umana;  
+vedo, vedo! la lieta Libertà subentrare  
+con ogni virtù patriottica al suo seguito!  
+E guarda gli occhi rapiti di quel contadino;   25  
+sicuro egli vede crescere i suoi raccolti;  
+nessun ceppo vile conoscerà la mente,  
+e l’Eloquenza arderà senza timore.  
+Sì! la Libertà, [[motifs/soul|anima]] della Vita, regnerà,  
+pulserà in ogni polso, scorrerà per ogni vena!   30  
+VI  
+Sarà la Francia sola a respingere un Despota?  
+Sarà lei sola, o [[concepts/freedom|Libertà]], a vantare la tua cura?  
+Ecco, intorno al tuo stendardo ardono gli eroi del Belgio,  
+benché i vessilli del Potere macchiati di [[motifs/blood|sangue]] [[motifs/fire|infiammino]] l’aria,  
+E più ampio ancora diffondi il tuo influsso,   35  
+né mai reclinare il capo stanco,  
+finché ogni terra da polo a polo  
+non vanti un’[[motifs/soul|anima]] indipendente!  
+E sempre, come un tempo, sia la favorita Britannia  
+prima sempre fra le prime e più libera fra le libere!   40  
+? 1789.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="064_to_a_young_lady_with_a_poem_on_the_french_revolution" data-title="TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION" data-chapter="" data-kind="intro"></span>
 
 
@@ -126,12 +168,56 @@ From Flattery’s [[motifs/night|night]]-shade: as he feels he sings.
 September 1794.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Molto [[motifs/love|amo]] indugiare sulla mia prima giovinezza,  
+prima che dicessi addio a quella cupola amica,  
+dove per la prima volta, sotto i pallidi chiostri sonori,  
+udii della [[concepts/guilt|colpa]] e mi [[concepts/wonder|stupii]] del racconto!  
+Pure, benché le ore volassero via su ala spensierata,   5  
+ben gravemente cantavo del Dolore.  
+Sempre, quando la Stella della Sera gettava il suo raggio  
+in spezzato splendore sul fiume ondoso,  
+l’[[motifs/soul|anima]] mia fra la pensosa oscurità del crepuscolo  
+piangeva con la brezza, o Lee Boo!, sulla tua tomba.   10  
+Ovunque errassi, la Pietà era sempre vicina,  
+spirata dal cuore e lucente nella lacrima:  
+non rintocco a morto che non m’empisse l’occhio ansioso,  
+e la [[concepts/nature|Natura]] [[concepts/suffering|sofferente]] piangeva che uno dovesse morire!  
+Così con tristi simpatie calmavo il mio petto,   15  
+calmo, come l’arcobaleno nell’Occidente in pianto:  
+quando la [[concepts/freedom|Libertà]] dormiente, destata da alto Sdegno,  
+con Furia gigante ruppe la sua triplice catena!  
+Fiera sulla sua fronte ardeva la Canicola devastatrice;  
+i suoi vessilli, come meteora di mezzanotte, fluttuavano;   20  
+fra l’urlare dei cieli squarciati dalla [[motifs/storm|tempesta]]!  
+Venne, e sparse battaglie dai suoi occhi!  
+Allora l’Esultanza destò il [[motifs/fire|fuoco]] patriottico  
+e percosse con mano selvaggia la lira tirtaica:  
+Rossa della ferita del [[archetypes/tyrant|Tiranno]] scossi la lancia,   25  
+e percorsi in gioia le pianure fumanti di Francia!  
+Caduto è l’Oppressore, senza amici, orrendo, abietto,  
+e il cuore mi duole, benché la [[concepts/mercy|Misericordia]] vibrasse il colpo.  
+Con pensiero stanco cerco ancora l’ombra,  
+dove la pacifica Virtù intreccia la ghirlanda di Mirto.   30  
+E oh! se Occhi le cui sante occhiate volgono,  
+rapidi messaggeri ed eloquenti, dell’[[motifs/soul|anima]];  
+se Sorrisi più conquistatori, e un Portamento più gentile  
+di quanto il cervello del Maniaco smarrito d’[[motifs/love|amore]] abbia visto  
+foggiando forme celesti nell’aria vuota,   35  
+se questi esigono la cura del Poeta appassionato —  
+se l’Allegria e il Senso addolcito e l’Arguzia raffinata,  
+i tratti irreprensibili di una mente amabile;  
+allora forse la mia mano tremante assegnerà  
+una corona non caduca al santo altare della [[concepts/beauty|Bellezza]].   40  
+Né tu, Sara!, rifiutare questi primi [[motifs/flowers|fiori]] —  
+mai s’annidò il serpente sotto le loro tinte semplici;  
+nessun fiore purpureo porta il [[archetypes/child|Figlio]] della [[concepts/nature|Natura]]  
+dalla belladonna [[motifs/night|notturna]] dell’Adulazione: come sente, canta.  
+Settembre 1794.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="095_lines_to_a_friend_in_answer_to_a_melancholy_letter" data-title="LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER" data-chapter="" data-kind="intro"></span>
 
 
@@ -162,12 +248,36 @@ Barter for food, the jewels of his [[motifs/crown|crown]].
 ? 1795.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Via, quegli sguardi nuvolosi, quel sospiro affannoso,  
+progenie stizzosa di un’ora malata!  
+Né lamentarti così vilmente del potere della Fortuna,  
+quando il cieco Giocatore getta un dado sfortunato.  
+Quel Sole al tramonto lampeggia un barlume mesto   5  
+dietro quelle nubi spezzate, suo corteo tempestoso:  
+domani il mare dai molti colori  
+rotolerà in fulgore sotto il suo raggio [[settings/orient|orientale]]!  
+Selvaggia, come la raffica autunnale, la mano del [[motifs/time|Tempo]]  
+vola sulla sua mistica lira: in [[motifs/dance|danza]] d’ombre   10  
+avanzano i gruppi alterni di Gioia e Dolore  
+rispondendo ai suoi vari accordi [[concepts/sublime|sublimi]]!  
+Porta sull’ala ogni ora un carico di Fato;  
+il villano che, cullato dai miti mormorii della Senna, guidava  
+i suoi buoi stanchi alla stalla notturna,   15  
+oggi può reggere uno Stato sconvolto dalla tempesta.  
+Né mancherà la Fortuna, con sorriso vendicativo,  
+di scrutare la potenza del sanguinario Despota,  
+e forse scagliare il Fantoccio dalla sua altezza  
+a errare non pianto in qualche isola selvaggia.   20  
+Là, tremando triste sotto il cipiglio della tempesta,  
+per avvolgere le membra stanche nella veste purpurea;  
+e mescolati a chiodi e perline, uguale scherno!,  
+barattare per cibo i gioielli della sua [[motifs/crown|corona]].  
+? 1795.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="125_ode_to_the_departing_year" data-title="ODE TO THE DEPARTING YEAR" data-chapter="" data-kind="intro"></span>
 
 
@@ -180,12 +290,18 @@ YÀ’ ±V ¼µ ´µ¹½xÂ @Á¸¿¼±½Äµw±Â Ày½¿Â
 Aeschyl. Agam. 1173-75; 1199-1200.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+8¿z 0¿{, b b º±ºq.  
+YÀ’ ±V ¼µ ´µ¹½xÂ @Á¸¿¼±½Äµw±Â Ày½¿Â  
+£ÄÁ¿²µÖ, Ä±ÁqÃÃÉ½ ÆÁ¿¹¼w¿¹Â ´ÅÃÆÁ¿¹¼w¿¹Â.  
+*       *       *       *       *
+¤x ¼s»»¿½ %¾µ¹. š±v Ã{ ¼’ ÄqÇµ¹ À±Á|½  
+³±½ »·¸y¼±½Ä¹½ ¿0ºÄµwÁ±Â ÁµÖÂ.  
+Eschilo, Agam. 1173-75; 1199-1200.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="144_179_8_fire_famine_and_slaughter" data-title="179 8 FIRE, FAMINE, AND SLAUGHTER" data-chapter="" data-kind="intro"></span>
 
 
@@ -280,12 +396,100 @@ Cling to him everlastingly.
 1798.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+UN’EGLOGA DI GUERRA
+La Scena è un Tratto desolato della Vandea. Si scopre la CARESTIA distesa
+a terra; entrano da lei [[motifs/fire|FUOCO]] e STRAGE.
+Car. Sorelle! sorelle! chi vi ha mandate qui?
+Str. [a [[motifs/fire|Fuoco]]]. Glielo sussurrerò all’orecchio.
+[[motifs/fire|Fuoco]]. No! no! no!
+Gli spiriti odono ciò che gli spiriti dicono:
+sarà giorno di festa all’Inferno.   5
+No! no! no!
+Io stesso, una volta, laggiù lo nominai,
+e tutte le anime che sono dannate
+balzarono d’un tratto in anarchia,
+batterono le mani e danzarono di giubilo.   10
+Non badavano più a me;
+ma ridevano a udire le travi ardenti dell’Inferno
+rieccheggiare a forza le risate!
+No! no! no!
+Gli spiriti odono ciò che gli spiriti dicono:   15
+sarà giorno di festa all’Inferno!
+Car. Sussurralo, sorella! così e così!
+in un oscuro accenno, piano e lento.
+Str. Quattro lettere formano il suo nome —
+E chi ha mandato te?
+Entr.      Lo stesso! lo stesso!   20
+Str. Venne di soppiatto e aprì la mia tana,
+e da allora ho bevuto il [[motifs/blood|sangue]]
+di tre volte trecentomila uomini.
+Entr. Chi te lo ordinò?
+Str.       Lo stesso! lo stesso!
+Quattro lettere formano il suo nome.   25
+Mi sciolse e gridò: Alalà!
+A lui solo è dovuta la lode.
+Car. Grazie, sorella, grazie! gli uomini hanno sanguinato,
+le loro mogli e i loro figli svengono per il pane.
+Stavo in un paludoso campo di battaglia;   30
+con ossa e teschi feci un sonaglio
+per spaventare il lupo e la cornacchia carogna
+e il cane randagio — ma non volevano andarsene.
+Così volai via: come potevo sopportare
+di vederli ingozzarsi della loro squisita pietanza?   35
+Udii un gemito e uno strillo stizzoso,
+e per la fessura del muro d’una capanna —
+indovinate che cosa vidi là?
+Entr. Sussurralo, sorella!, al nostro orecchio.
+Car. Un bimbo batteva la madre morente:   40
+l’una l’avevo affamata, l’altro lo stavo affamando!
+Entr. Chi te lo ordinò?
+Car.        Lo stesso! lo stesso!
+Quattro lettere formano il suo nome.
+Mi sciolse e gridò: Alalà!
+A lui solo è dovuta la lode.   45
+[[motifs/fire|Fuoco]]. Sorelle! io venni dall’Irlanda!
+Siepi e campi di grano tutti in fiamme,
+trionfai sul sole al tramonto!
+E per tutto il tempo che l’opera si compiva,
+avanzando coi miei passi enormi,   50
+rovesciavo indietro la testa e mi tenevo i fianchi,
+era uno spasso così raro
+vedere il bestiame arso correre
+con rozzo galoppo per la [[motifs/night|notte]],
+atterrito dalla luce rossa e rumorosa!   55
+Alla luce della propria capanna in fiamme
+fu fucilato più d’un [[archetypes/rebel|Ribelle]] nudo:
+il rivo di casa incontrò la fiamma e sibilò,
+mentre — schianto! — crollò il tetto, ben so,
+su qualcuna di quelle vecchie balie inchiodate al letto,   60
+che trafficano in scontento e maledizioni.
+Entr. Chi te lo ordinò?
+[[motifs/fire|Fuoco]].      Lo stesso! lo stesso!
+Quattro lettere formano il suo nome.
+Mi sciolse e gridò: Alalà!
+A lui solo è dovuta la lode.   65
+Tutte. Ci sciolse e gridò: Alalà!
+Come gli renderemo l’[[concepts/honour|onore]] dovuto?
+Car. La saggezza viene con la mancanza di cibo.
+Rosicchierò, rosicchierò la moltitudine,
+finché la coppa della rabbia trabocchi:   70
+afferreranno lui e la sua nidiata —
+Str. Lo faranno a pezzi, membro a membro!
+[[motifs/fire|Fuoco]]. O megere ingrate e sleali!
+È questo tutto ciò che sapete fare
+per lui, che tanto fece per voi?   75
+Novanta mesi egli, in fede mia!,
+vi ha lautamente imbandito per entrambe;
+e in un’ora vorreste ripagare
+un lavoro di otto anni? — Via! via!
+Io sola sono fedele! Io   80
+mi aggrappo a lui eternamente.
+1798.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="145_famine" data-title="FAMINE." data-chapter="" data-kind="intro"></span>
 
 
@@ -323,12 +527,43 @@ M. P.
 [Below 81] 1798] 1796 S. L. 1828, 1829, and 1834.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Allora
+non
+lo
+suonare, ma
+fammelo
+pur
+sapere;
+Accennalo oscuramente — piano e sommesso!
+M. P.
+In un oscuro accenno, piano e sommesso.
+An. Anth.
+E da allora ho versato il [[motifs/blood|sangue]]
+di tre volte mille migliaia d’uomini.
+M. P.
+coi miei grandi passi An. Anth.
+Per lui che tanto fece per voi.
+[A Strage.
+Per voi mutò la [[motifs/dust|polvere]] in fango
+col [[motifs/blood|sangue]] dei suoi simili!
+[A Carestia.
+e la fame ne arse altrettanti,
+per far traboccare la vostra coppa di gioia.
+[A Entrambe.
+Ben novanta lune egli, in fede mia!,
+vi ha lautamente imbandito per entrambe!
+E in un’ora vorreste ripagare
+un debito di otto anni? Via! via!
+Io sola sono fedele! Io
+mi aggrappo a lui eternamente.
+LABERIUS.
+M. P.
+[Sotto 81] 1798] 1796 S. L. 1828, 1829 e 1834.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="168_tells_birth-place_imitated_from_stolberg" data-title="TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG" data-chapter="" data-kind="intro"></span>
 
 
@@ -370,12 +605,47 @@ Of [[concepts/slavery|Slavery]] —— the which he broke!
 ? 1799.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+Osserva [[motifs/well|bene]] questa santa cappella!  
+Questo è il luogo natale di Guglielmo Tell.  
+Qui, dove sta il tremendo altare di Dio,  
+stava il letto [[motifs/marriage|nuziale]] dei suoi genitori.  
+II  
+Qui, per la prima volta, bimbo al suo seno,   5  
+lo strinse la madre amorosa;  
+e baciò il piccolo, e benedisse il giorno,  
+e pregò come sogliono pregare le madri.  
+III  
+‘Concedigli salute, o Dio! e lascia  
+che il [[archetypes/child|fanciullo]], tuo servo, viva ancora!’   10  
+Ma Dio aveva destinato di far di più  
+per mezzo suo, che per mezzo d’un esercito armato.  
+IV  
+Dio gli diede il rispetto delle leggi,  
+e pure [[motifs/blood|sangue]] ardente per la causa della [[concepts/freedom|Libertà]] —  
+uno spirito affine alle sue rocce,   15  
+l’occhio del falco, e il [[motifs/fire|fuoco]] che vi arde!  
+V  
+Alla [[concepts/nature|Natura]] e alla Sacra Scrittura  
+soltanto Dio affidò il fanciullo:  
+dove il torrente lampeggiava e ruggiva, spesso  
+l’[[motifs/soul|anima]] sua trovò ali, e si librò in alto!   20  
+VI  
+Il remo teso e la caccia al camoscio  
+avevano formato le sue membra a forza e grazia:  
+su onda e [[motifs/wind|vento]] il ragazzo si gettava,  
+era grande, né sapeva quanto fosse grande!  
+VII  
+Non sapeva che la sua mano eletta,   25  
+resa forte da Dio, avrebbe salvato  
+la terra natia dal giogo vergognoso  
+della [[concepts/slavery|Schiavitù]] —— che egli spezzò!  
+? 1799.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="186_ode_to_georgiana_duchess_of_devonshire" data-title="ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE" data-chapter="" data-kind="intro"></span>
 
 
@@ -470,12 +740,100 @@ Thence learn’d you that heroic measure.
 1799.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+SULLA VENTIQUATTRESIMA STANZA DEL SUO ‘PASSAGGIO DEL MONTE GOTTARDO’  
+E saluta la Cappella! saluta la Spianata selvaggia!  
+dove Tell diresse il dardo vendicatore,  
+con braccio [[motifs/well|ben]] teso, che prima salvò il suo [[archetypes/child|figlio]],  
+poi mirò la freccia al cuore del [[archetypes/tyrant|tiranno]].  
+[[archetypes/child|Figlia]] teneramente nutrita dallo Splendore!  
+E salutasti tu la spianata selvaggia,  
+dove un tempo cadde l’Austriaco  
+sotto il dardo di Tell!  
+O Dama, allevata fra pompa e piacere!    5  
+Dove apprendesti quella misura eroica?  
+Lievi come un sogno i tuoi giorni corsero i loro cerchi,  
+da tutto ciò che insegna all’Uomo la fratellanza  
+lontani, lontani! dal bisogno, dalla [[concepts/hope|speranza]], dalla [[concepts/fear|paura]]!  
+Musica incantevole cullò il tuo orecchio infantile,   10  
+omaggi e lodi blandirono il tuo cuore infantile:  
+blasoni e antichi stemmi aviti,  
+con molte fulgide invadenti forme d’arte,  
+distolsero il tuo occhio dalla [[concepts/nature|Natura]]: vesti sontuose,  
+che velando cercavano d’ornare le tue divine grazie,   15  
+cibi ricchi, e il vino piacevole,  
+furono tuoi senza fatica; né potevi vedere  
+la miseria di chi fatica senza godere.  
+Eppure, [[archetypes/child|figlia]] incorrotta della libera [[concepts/nature|Natura]],  
+salutasti la Cappella e la Spianata selvaggia,   20  
+dove un tempo cadde l’Austriaco  
+sotto il dardo di Tell!  
+O Dama, allevata fra pompa e piacere!  
+Dove apprendesti quella misura eroica?  
+Là s’affollano nel tuo corpo di fibra sottile   25  
+tutte le vive facoltà della beatitudine;  
+e il Genio venne alla tua culla,  
+la fronte cinta di fiamma lambente,  
+e chinandosi, con bacio divino  
+vi spirò una vita più celeste;   30  
+Ma non vanta più d’una bella pari  
+un cuore altrettanto sensibile a gioia e [[concepts/fear|paura]]?  
+E alcune, forse, potrebbero sostenere una gara pari,  
+alcune poche, plasmate a più nobile essere,  
+rivali nel più nobile dono del pensiero.   35  
+Pure queste si dilettano a celebrare  
+la Guerra laureata e lo Stato impennacchiato;  
+o in versi e musica vestire  
+racconti di felicità rustica —  
+Racconti perniciosi! melodie insidiose!   40  
+che indurano il petto del ricco,  
+e scherniscono la sorte infelice,  
+i vizi sordidi e le pene abiette,  
+che per sempre devono essere  
+il destino dell’ignoranza e della penuria!    45  
+Ma tu, [[archetypes/child|figlia]] incorrotta della libera [[concepts/nature|Natura]],  
+tu salutasti la Cappella e la Spianata selvaggia,  
+dove un tempo cadde l’Austriaco  
+sotto il dardo di Tell!  
+O Dama, allevata fra pompa e piacere!   50  
+Dove apprendesti quella misura eroica?  
+Eri una Madre! Quel nome santissimo,  
+che il Cielo e la [[concepts/nature|Natura]] benedicono,  
+non posso vilmente prostituirlo a quelle  
+i cui figli devono loro meno   55  
+di quanto il povero bruco deve  
+alla sua vistosa farfalla madre.  
+Eri una madre! al tuo seno si nutrirono  
+i bimbi che ti amavano. Tu, con occhio ridente,  
+leggevi ogni pensiero crepuscolare, ogni sentimento nascente,   60  
+che tu stessa creavi. Oh! delizia!  
+Essere madre una seconda [[motifs/time|volta]],  
+senza gli amari gemiti della madre:  
+un pensiero, e poi un altro ancora,  
+per tatto, o gusto, per sguardi o toni,   65  
+far scorrere sul senso che cresce,  
+madre dell’[[motifs/soul|anima]] del tuo bambino!  
+L’Angelo della Terra, che, mentre guida  
+il suo pianeta-carro intorno alla meta del giorno,  
+tutto tremante fissa l’occhio di Dio,   70  
+volse un istante altrove il suo volto tremendo;  
+e mentre ti guardava, dal suo dolce aspetto  
+nuovi influssi [[motifs/rose|sorsero]] nel tuo essere,  
+benedette intuizioni e rapide comunioni  
+con la [[concepts/nature|Natura]] viva, nelle sue gioie e nei suoi affanni!   75  
+Da allora l’[[motifs/soul|anima]] tua gioì di vedere  
+il santuario della Libertà sociale!  
+O bella! O [[archetypes/child|figlia]] della [[concepts/nature|Natura]]!  
+Di là salutasti la Spianata selvaggia,  
+dove un tempo cadde l’Austriaco   80  
+sotto il dardo di Tell!  
+O Dama, allevata fra pompa e piacere!  
+Di là apprendesti quella misura eroica.  
+1799.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="189_talleyrand_minister_of_foreign_affairs_at_paris_to_lord_grenville" data-title="TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE" data-chapter="" data-kind="intro"></span>
 
 
@@ -598,12 +956,128 @@ To pause, and resume the remainder to-morrow.
 1800.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+SEGRETARIO DI STATO DI GRAN BRETAGNA PER GLI AFFARI ESTERI, REVISORE DELLO  
+SCACCHIERE, LORD DEL COMMERCIO, FRATELLO ANZIANO DELLA TRINITY HOUSE, ECC.  
+Mio Lord! benché Vostra Signoria respinga ogni deviazione  
+dalle forme da tempo stabilite, pure con alta considerazione  
+imploro l’[[concepts/honour|onore]] di [[concepts/hope|sperare]] che nessun biasimo  
+mi colga, se questa lettera comincia col mio nome.  
+Non osai piombare addosso a Vostra Signoria,   5  
+ma stimai più squisito annunciarmi prima!  
+Mio Lord! ho l’[[concepts/honour|onore]] d’essere Talleyrand,  
+e la lettera è mia! non ritirerete la mano  
+né la prenderete per l’orlo, sgomento,  
+come i ragazzi raccolgono i mezzi penny nel giorno degli [[archetypes/fool|sciocchi]] d’aprile.   10  
+Non sono un lurido Giacobino, né un Cordigliere infuocato  
+di cui le dita senza guanto di Vostra Signoria debbano [[concepts/fear|temere]]  
+infezione o scottatura! Credetemi, è vero,  
+con un disprezzo pari al vostro guardo dall’alto quella masnada  
+che strepita ed espone all’odio della plebaglia   15  
+il più delicato desiderio d’una silenziosa persuasione.  
+Una forma da tempo stabilita questi Terroristi la chiamano  
+tangenti, spergiuro, furto, e il diavolo e tutto il resto!  
+Eppure, malgrado tutto ciò che il Moralista ciancia,  
+è la chiave di volta e il cemento degli Stati civili.   20  
+Quei Rappresentanti americani! E in [[concepts/faith|fede]] mia, facevano sul serio!  
+Ci scandalizzò a [[settings/paris|Parigi]], come cosa misteriosa,  
+che uomini con un Congresso — Ma basta! Sono fiero  
+d’essere rimasto così distinto dalla folla giacobina.  
+Mio Lord! benché il volgo si perda in [[concepts/wonder|stupore]] dinanzi   25  
+alle mie trasfigurazioni, e mi chiami Apostata,  
+un tale nomignolo senza senso, che mai mi irritò,  
+non può indisporre voi o vostro Cugino contro di me:  
+sono Ex-vescovo. E allora? Burke stesso converrebbe  
+che non lasciai io la Chiesa—fu la Chiesa a lasciare me.  
+I miei titoli prelatizi li amai e li ritenni,   31  
+finché rimase ciò che io intendevo per Prelato:  
+e benché le Mitre non abbiano più corso al nostro mercato,  
+sono episcopale ancora fino al midollo del cuore.  
+Nessun [[motifs/time|tempo]] staccherà dal mio nome questo mio motto:   35  
+sarà Non sine pulvere palma in eterno!  
+La vostra bontà, mio Lord, la concepisco eccessiva,  
+o non oserei presentarvi un rotolo così digressivo;  
+e in [[concepts/truth|verità]] con la penna da cima a fondo lo cancellerei;  
+ma odo che lo stile di Vostra Signoria è proprio così.   40  
+Caro mio Lord, abbiamo ragione: quali attrattive può mostrare  
+una cosa che va diritta come una vecchia [[motifs/road|strada]] romana?  
+La tartaruga striscia diritta, la lepre gira e rigira;  
+e la vera linea della [[concepts/beauty|bellezza]] serpeggia sempre dentro e fuori.  
+Argomenta, mio Lord!, in noi una tal nidiata di pensieri fini   45  
+spaccarsi e dividersi in capi moltitudinosi,  
+mentre attrattive che sorprendono (non ce lo si può negare)  
+spuntano da ogni capo, come le orecchie dal [[archetypes/king|Re]] Mida.  
+Se un genio di rango, come un banale zuccone,  
+fosse costretto a puntare subito al punto principale,   50  
+che copiosa vendemmia di iniziazioni  
+perderebbero i Nobili Lord nelle orazioni di Vostra Signoria.  
+La fantasia mi trasporta! Muto come un topo,  
+e veloce come un piccione, son portato alla casa  
+dove tutti quelli che sono Lord, di padre in figlio,   55  
+discutono gli affari di tutti quelli che non lo sono.  
+Vi contemplo, mio Lord!, tutto pieno dei vostri sentimenti,  
+levarvi innanzi al sacco di lana, come un sacco pieno di lana!  
+Vi levate su ogni Membro Anti-Grenvilliano,  
+corto, denso e burrascoso, come un giorno di novembre!   60  
+Corto di persona, intendo: ché la lunghezza dei vostri discorsi  
+la Fama stessa, quel famosissimo cronista, mai la raggiunge.  
+Ecco! la Pazienza vi vede spregiare il suo breve regno,  
+e il [[motifs/time|Tempo]], che tutto ansante s’affannò invano dietro a voi,  
+(come la Vecchia che corse per una camicia con la [[archetypes/child|nipote]])   65  
+crolla e grida: ‘Furono mai dati simili polmoni a un [[archetypes/child|figlio]] d’uomo?’  
+I vostri colpi alle sue viscere la pallida [[concepts/truth|Verità]] li ha confessati,  
+e lo Zelo, incontrastato, tempesta il vostro petto!  
+Benché qualche nobile Lord desideri cenare,  
+il vostro merito consapevole di [[concepts/self|sé]], mio Lord, vi tiene in piedi,   70  
+inestinto e gonfio, come un pallone di carta  
+si regge in alto col fumo della propria candela da un soldo.  
+O SEDICI di Scozia, dovete smoccolare i vostri lucignoli;  
+i vostri Gemelli, [[motifs/stars|stelle]] fisse d’Inghilterra!, s’oscurano,  
+e se non fosse per una forma da tempo stabilita, senza [[concepts/doubt|dubbio]]   75  
+tremolando sempre più in fretta, vi spegnereste tutti.  
+A proposito, mio caro Lord!, un ridicolo abbaglio  
+di alcuni nostri Giornalisti ci ha dato non poco [[concepts/wonder|stupore]]:  
+si disse che, d’aspetto maligno e sinistro,  
+nell’Isola di Gran Bretagna un gran Ministro degli Esteri   80  
+si fece pallido come la giubba d’un garzone mugnaio  
+nell’osservare una stella apparsa in BOOTE!  
+Mentre l’intera [[concepts/truth|verità]] era questa (o quegli ignoranti bruti!):  
+Vostra Signoria era comparsa in stivali.  
+Voi, mio Lord, con la vostra stella, sedevate in stivali, e l’Ambasciatore  
+spagnolo pertanto stimò opportuno svanire.   86  
+Ma forse, caro mio Lord, fra altri crimini peggiori,  
+il tutto non fu che una menzogna del Times.  
+È mostruoso, mio Lord!, in uno stato civile  
+che simili furfanti da Gazzetta abbiano licenza di ciarlare.   90  
+In verità la stampa in generale — se non fosse per le tasse,  
+è falsa in teoria e perniciosa in prassi!  
+Voi ed io, e vostro Cugino, e l’Abate Sieyes,  
+e tutti i grandi Statisti che vivono a questi giorni,  
+siamo d’accordo che nessuna nazione è al sicuro dalla violenza   95  
+se non si mantengono in [[motifs/silence|silenzio]] tutti quelli che devono pensare.  
+Questa stampa, mio Lord — ma è inutile menzionare  
+ciò che entrambi pensiamo—fu una maledetta invenzione,  
+e la [[settings/germany|Germania]] avrebbe potuto onestamente andar più fiera  
+se l’avesse lasciata stare, e avesse scoperto solo la polvere.   100  
+Mio Lord! quando penso alle nostre fatiche e cure,  
+noi che reggiamo il Dipartimento degli affari esteri,  
+e a come con i loro libelli questi giornalisti ci tediano,  
+benché la Rabbia, lo riconosco, sia meno decorosa dello Sprezzo;  
+pure i loro torchi e caratteri li ridurrei in schegge,   105  
+quei neri Diavoli di Stampatori! quei Diavoli di Stampatori!  
+In caso di pace — ma forse sarebbe meglio  
+passare al punto assoluto della mia lettera:  
+per le ferite profonde di Francia, Bonaparte, mio padrone,  
+ha scoperto una nuova sorta di cerotto basilico.   110  
+Ma il vostro [[motifs/time|tempo]], caro mio Lord!, è il miglior tesoro della vostra nazione,  
+ho già invaso troppo a lungo il vostro ozio;  
+se è così, vi supplico con penitente dolore  
+di far sosta, e riprendere il resto domani.  
+1800.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="386_fragment_of_an_ode_on_napoleon" data-title="FRAGMENT OF AN ODE ON NAPOLEON" data-chapter="" data-kind="intro"></span>
 
 
@@ -652,12 +1126,54 @@ Dearest! me thought of him to thee so dear!
 1809. First published from an MS. in 1893.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sovrastata da tassi, a mezza costa del monte delle Muse,  
+lungi dai tuoi dolci mormorii, o Ippocrene!,  
+torbida e nera ribolle una fonte adirata,  
+gettando la sua schiuma infranta in vendicativo livore —  
+la rabbia del Flegetonte, i rauchi lamenti del Cocito  
+ora alterni, ora mescolati, ne rivelavano il corso precipite:  
+Là, colpito da terrore e sorpresa,  
+(ché certo tali luoghi non furono mai a scelta di Musa)  
+Euterpe mi condusse. Muto, con occhi interroganti,  
+stetti in attesa della sua voce celeste.  
+La sua voce incantò il mio terrore e fece scorrere  
+in un rozzo sottocanto la fonte forsennata di sotto.  
+‘Ogni volta che (disse la Dea), aborrito da Giove,  
+il Potere usurpatore intride le mani nel [[motifs/blood|sangue]] —  
+? 1808. Ora pubblicata per la prima volta da un MS.  
+Il Bollitore che canta e il Gatto che fa le fusa,  
+il respiro lieve del Bimbo nella culla,  
+il [[motifs/silence|silenzio]] dell’occhio materno lucente d’[[motifs/love|amore]],  
+e il tenero sorriso che risponde al suo sorriso di [[motifs/sleep|Sonno]].  
+1803. Pubblicata per la prima volta da un MS. nel 1893.
+Due cuori sposati, se mai ve ne furono,  
+imprigionati in celle attigue,  
+attraverso il cui sottile muro divisorio  
+il costruttore lasciò una sola fessura stretta,  
+e dove, contentissimi nello scontento,  
+una gioia in lotta con se stessa —  
+muoiono in una vita più intensa.  
+1808. Pubblicata per la prima volta da un MS. nel 1893.
+ALTRA VERSIONE  
+Il costruttore lasciò una sola fessura stretta,  
+due cuori sposati, se mai ve ne furono,  
+contentissimi nello scontento,  
+ancora là s’aggrappano, e tentano invano di toccarsi!  
+O Gioia! in lotta con la tua stessa gioia,  
+che, anelando al Regno di lassù,  
+vorresti morire in una Vita più intensa,  
+e [[concepts/union|Unione]] assoluta d’[[motifs/love|Amore]]!  
+1808. Pubblicata per la prima volta da un MS. nel 1893.
+Unica Fanciulla, unica compagna, a me al di là  
+d’ogni paragone cara fra tutte le creature viventi —  
+Pensieri, che hanno trovato il loro porto nel tuo cuore  
+Carissima! me, pensiero di lui a te tanto caro!  
+1809. Pubblicata per la prima volta da un MS. nel 1893.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="388_translation_of_the_first_strophe_of_pindars_second_olympic" data-title="TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC" data-chapter="" data-kind="intro"></span>
 
 
@@ -691,12 +1207,39 @@ Casts on the thin mist of th’ uncertain future.
 1816. First published from an MS. in 1893.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+‘Il più possibile parola per parola.’  
+O inni che governate le arpe!  
+(oppure)  
+O inni, sovrani delle arpe!  
+Quale Dio? quale [[archetypes/hero|Eroe]]?  
+Quale Uomo celebreremo?  
+In verità Pisa appartiene a Giove,  
+ma l’Olimpiade (ovvero, i giochi olimpici) la istituì Ercole,  
+primizie delle spoglie di guerra.  
+Ma Terone, per il carro a quattro cavalli  
+che gli recò vittoria,  
+ci conviene ora proclamare ad alta voce:  
+il Giusto, l’Ospitale,  
+il Baluardo di Agrigento,  
+di padri illustri  
+il Fiore, proprio lui  
+che serba la sua [[motifs/city|città]] natale eretta e salva.  
+1815. Pubblicata per la prima volta in Biog. Lit., 1817, ii. 90; 1847, ii. 93. Prima
+raccolta 1893.  
+O! la Superstizione  
+è  
+la  
+gigantesca  
+[[archetypes/shadow|ombra]]  
+che la sollecitudine della debole [[concepts/mortality|mortalità]],  
+col dorso volto al sole nascente della Religione,  
+getta sulla sottile nebbia dell’incerto futuro.  
+1816. Pubblicata per la prima volta da un MS. nel 1893.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="395_napoleon" data-title="NAPOLEON" data-chapter="" data-kind="intro"></span>
 
 
@@ -750,12 +1293,59 @@ Undated. First published in Allsop’s Letters, Conversations, &c. First
 collected P. and D. W., 1877, ii. 373.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Sole con miti raggi maschera la sua rabbia,  
+e, come i Tiranni ambiziosi, temporeggia —  
+mai sopportabile se non quando cade o sorge.  
+? S. T. C. Senza data. Ora pubblicata per la prima volta da un MS.  
+Più fitti delle gocce di pioggia sul rovo di novembre.  
+Senza data. Ora pubblicata per la prima volta da un MS.  
+I suoi accenti nativi al di lei orecchio straniero,  
+esperta nelle lingue di Francia e d’[[settings/italy|Italia]] —  
+o mentre gorgheggia con occhi lucenti levati in alto,  
+le sue dita guizzano come rivi di luce d’argento  
+fra la dorata caligine delle corde vibranti.  
+Senza data. Pubblicata per la prima volta da un MS. nel 1893.  
+Ogni delitto che una volta allontana dalle virtù  
+rende ogni giorno la [[motifs/memory|memoria]] dei loro tratti  
+più fioca e vaga, finché ogni rozza contraffazione  
+può ottenere il lasciapassare alla nostra fiducia  
+firmato da noi stessi. E giustamente son puniti  
+quelli che stimano e cercano l’uomo onesto solo come  
+una serratura più sicura a guardia di tesori disonesti.  
+? S. T. C. Senza data. Pubblicata per la prima volta in Lit. Rem., i. 281. Prima  
+raccolta P. and D. W., 1877, ii. 365.  
+Ovunque io trovi il Buono, il Vero, il Bello,  
+non chiedo nomi — lo spirito di Dio vi dimora!  
+I Tre, non confusi e non divisi,  
+ciascuno per sé, e tutti in ciascuno, vederli  
+nell’uomo e nella [[concepts/nature|Natura]], è Filosofia.  
+Senza data. Pubblicata per la prima volta da un MS. nel 1893.  
+Un [[motifs/wind|vento]] che dimora con l’Aurora  
+fra i Colli d’Arabia e di Persia.  
+Senza data. Pubblicata per la prima volta da un MS. nel 1893.  
+Io [S. T. C.] trovo i versi seguenti fra le mie carte, di mia  
+mano, ma se siano un [[forms/fragment|frammento]] incompiuto, o un contributo alla  
+produzione di qualche amico, non so: —  
+A che giova narrare come sulla sua [[motifs/grave|tomba]]  
+pianse colei che sarebbe morta per salvarlo;  
+Poco conoscono il cuore, quelli che stimano  
+il suo dolore null’altro che il sogno d’una bimba  
+generato da [[motifs/love|amore]] transitorio;  
+una raffica passeggera, che soffiando  
+scuote appena la goccia matura dalla [[motifs/rose|rosa]] —  
+che muore ed è dimenticata.  
+O Donna! [[characters/nurse|nutrice]] di speranze e paure,  
+tutta amabile nella [[motifs/spring|primavera]] dei tuoi anni,  
+che possiedi l’[[motifs/soul|anima]] tua in innocente allegria,  
+amabilissima nelle [[motifs/tears|lacrime]] dell’afflizione,  
+più amabile ancora quando le [[motifs/tears|lacrime]] soffochi.  
+Senza data. Pubblicata per la prima volta in Allsop’s Letters, Conversations, &c. Prima  
+raccolta P. and D. W., 1877, ii. 373.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="400_metrical_experiment_an_experiment_for_a_metre" data-title="METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE" data-chapter="" data-kind="intro"></span>
 
 
@@ -778,12 +1368,28 @@ By her depth, by her height, [[concepts/nature|Nature]] swears thou art mine!
 1801. Now first published from an MS.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Udii oggi una voce rintoccare alto trionfo:  
+la voce del Trionfo, o [[concepts/freedom|Libertà]], era la tua!  
+La sontuosa Tirannia sfidò alla mischia,  
+‘Ebbra d’Idolatria, ebbra di vino.’  
+Di chi poteva essere il Trionfo, [[concepts/freedom|Libertà]], se non tuo?  
+Le [[motifs/stars|stelle]] del Cielo brillano per nutrirti;  
+taciute sono le Raffiche vorticose e ti danno ascolto; —  
+per la sua profondità, per la sua altezza, la [[concepts/nature|Natura]] giura che sei mia!  
+1. Tetrametro anfibraco catalettico Ø ¯ Ø | Ø ¯ Ø | Ø ¯ Ø | Ø ¯
+2. Idem.
+3. Tre pseudo anfimacri, e una sillaba lunga.
+4. Due dattili, e un Anfimacro perfetto.
+5. = 1 e 2.
+6. ¯ Ø ¯ | ¯ Ø ¯ Ø |
+7. ¯ Ø ¯ | ¯ Ø ¯ Ø |
+8. ¯ Ø ¯ | ¯ Ø ¯, ¯ Ø ¯, ¯ Ø ¯
+1801. Ora pubblicata per la prima volta da un MS.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="418_fulke_greville_lord_brooke" data-title="FULKE GREVILLE: LORD BROOKE" data-chapter="" data-kind="intro"></span>
 
 
@@ -836,12 +1442,58 @@ First published in the Courier, Sept. 12, 1806. See Editor’s note,
 Athenæum, April 25, 1903, p. 531.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dio e il Mondo adorano sempre insieme,  
+non piegano le loro leggi a lui, ma le sue alle loro,  
+infedeli a entrambi, prosperi in nessuno dei due,  
+fra i propri desideri sempre destando paure;  
+‘Insensati, come sono tutte le potenze distratte;   5  
+stranieri a Dio, folli in umanità.’  
+Troppo buoni per le cose grandi, e troppo grandi per il bene;  
+i loro Principi servono il loro Prete, &c.  
+A Treatie of Warres, st. lxvi-vii.  
+MOTTO DI ‘A LAY SERMON’, 1817  
+Dio e il Mondo adoriamo sempre insieme,  
+non pieghiamo le nostre Leggi a Lui, ma le Sue alle nostre;  
+infedeli a entrambi, prosperi in nessuno dei due,  
+la Volontà imperfetta non produce che [[motifs/flowers|Fiori]] sterili!  
+Insensati come sono tutti gli Interessi distratti,   5  
+stranieri a Dio, folli in Umanità:  
+troppo buoni per le cose grandi e troppo grandi per il bene,  
+mentre sempre ‘non oso’ fa da servo a ‘vorrei’!  
+S. T. C.  
+La stessa citazione da Lord Brooke è usata a illustrare l’[[forms/aphorism|Aforisma]] xvii,  
+‘Inconsistency’, Aids to Reflection, 1825, p. 93 (con la parola  
+‘both’ sostituita a ‘still’ nel verso 1). Il verso 8 è dal [[characters/macbeth|Macbeth]],  
+Atto I, sc. VII, ‘Letting I dare not,’ &c. Il riferimento a Lord Brooke  
+fu dato per la prima volta in N. and Q., Series VIII, Vol. ii, p. 18.  
+[Vide ante, p. 403]  
+[[forms/sonnet|SONETTO]] XCIV [Coelica]  
+Gli Auguri, che noi di tutto il mondo ammiravamo,  
+adulati dai Consoli, [[concepts/honour|onorati]] dallo Stato,  
+perché l’esito di tutto ciò che si desiderava  
+sembravano conoscere, e tenere i libri del Fato:  
+pure, benché fuori vantassero così il loro ingegno,   5  
+soli fra loro lo disprezzavano.  
+L’Umanità che col suo ingegno s’indora il cuore,  
+forte nelle sue Passioni, ma debole in Bontà,  
+facendo dei grandi vizi sui minori un’Arte,  
+genera [[concepts/wonder|meraviglia]], e muove l’Ignoranza a parlare,   10  
+pure quando la sua fama è portata al sommo,  
+noi ne sappiamo abbastanza per irridere la sua lode.  
+Versi su un [[archetypes/king|Re]] e un [[archetypes/king|Re]] fattore d’Imperatori, alterati dal 93° [[forms/sonnet|Sonetto]] di  
+Fulke Greville, l’amico di Sir Philip Sydney.  
+vv. 1-4 The augurs, &c.  
+v. 5 Abroad they thus did boast each other’s wit.  
+v. 7 Behold yon Corsican with dropsied heart  
+v. 9 He [[concepts/wonder|wonder]] breeds, makes ignorance to speak  
+v. 12 TALLEYRAND WILL laugh his Creature’s praise to scorn.  
+Pubblicata per la prima volta nel Courier, 12 sett. 1806. Vedi nota dell’Editore,  
+Athenæum, 25 aprile 1903, p. 531.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="427_samuel_daniel" data-title="SAMUEL DANIEL" data-chapter="" data-kind="intro"></span>
 
 
@@ -900,12 +1552,64 @@ were first pointed out in an edition of The Friend, issued by H. N.
 Coleridge in 1837.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+EPISTOLA A SIR THOMAS EGERTON, CAVALIERE  
+Stanza    5  
+Deve esserci sempre qualche discordia mescolata  
+all’armonia degli uomini; il cui umore s’accorda  
+meglio con la contesa, intonata a una nota di torto?  
+Sicché quando la guerra manca, la pace deve far guerra con parole,  
+ed essere armata a distruzione altrettanto forte   5  
+di quanto furono nei secoli passati le nostre spade civili:  
+facendo ferite altrettanto profonde, benché non sanguinanti;  
+sicché quando il furore manca, la saggezza confonde.  
+Stanza    14  
+Poiché anche l’ingiustizia può essere regolare;  
+e nessuna proporzione può esservi tra   10  
+le nostre azioni, che sono in moto senza fine,  
+e le ordinanze, che sono sempre fisse:  
+diecimila leggi in più non possono giungere tanto lontano  
+che la malizia non vada oltre, o non viva mescolata  
+così stretta alla bontà, che sempre   15  
+la corromperà, la travestirà o la contraffarà.  
+Stanza    15  
+E perciò quei gloriosi monarchi (che  
+dividono con Dio il titolo di maestà, &c.  
+Stanza    5  
+Deve esserci sempre qualche discordia mescolata  
+all’armonia degli uomini; il cui umore s’accorda  
+meglio con la contesa intonata a note di torto?  
+Sicché quando la Guerra manca, la Pace deve far guerra con parole,  
+con parole armate a distruzione più forti   5  
+di quanto mai furono le spade dei nostri Nemici stranieri;  
+facendo ferite altrettanto profonde, benché non ancora sanguinanti?  
+Ciò che la Guerra lasciò senza cicatrice, la Calunnia lo confonde.  
+Stanza    14  
+La [[concepts/truth|Verità]] giace intrappolata dove l’Astuzia non trova sbarra:  
+poiché nessuna proporzione può esservi tra   10  
+le nostre azioni, che sono in moto senza fine,  
+e le ordinanze, che sono sempre fisse.  
+Diecimila Leggi in più non possono giungere tanto lontano  
+che la Malizia non vada oltre, o non viva commista  
+così stretta alla Bontà, che sempre   15  
+la corromperà, la travestirà o la contraffarà.  
+Stanza    15  
+E perciò il nostro glorioso Alfredo, che  
+unì a quella del [[archetypes/king|Re]] la Maestà dell’uomo buono,  
+non volle lasciare il labirinto della Legge senza un filo —  
+diede alla profonda perizia la sua giusta autorità, — 20  
+*       *       *       *       *
+ma l’ultimo Giudizio (questo il disegno della sua Giuria) —  
+lo lasciò al senso naturale dell’Uomo dei giorni feriali  
+Adattato da un Poeta più antico.  
+Motto di The Friend, [[forms/essay|Saggio]] xiii, 1818, i. 149; 1850, i. 113.  
+L’alterazione e l’aggiunta di Coleridge al testo della poesia di Daniel  
+furono segnalate per la prima volta in un’edizione di The Friend, curata da H. N.  
+Coleridge nel 1837.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="436_stolberg" data-title="STOLBERG" data-chapter="" data-kind="intro"></span>
 
 
@@ -938,3 +1642,36 @@ Er wusste nicht dass seine Hand,   25
 Durch Gott gestärkt, sein Vaterland  
 Erretten würde von der Schmach  
 Der Knechtschaft, deren Joch er brach.  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+BEI WILHELM TELLS GEBURTSSTÄTTE IM KANTON URI  
+Seht diese heilige Kapell!  
+Hier ward geboren Wilhelm Tell,  
+Hier wo der Altar Gottes steht  
+Stand seiner Eltern Ehebett!  
+Mit Mutterfreuden freute sich   5  
+Die liebe Mutter inniglich,  
+Die gedachte nicht an ihren Schmerz  
+Und hielt das Knäblein an ihr Herz.  
+Sie flehte Gott: er sei dein Knecht,  
+Sei stark und muthig und gerecht.   10  
+Gott aber dachte: ich thu’ mehr  
+Durch ihn als durch ein ganzes Heer.  
+Er gab dem Knaben warmes Blut,  
+Des Rosses Kraft, des Adlers Muth,  
+Im Felsennacken freien Sinn,   15  
+Des Falken Aug’ und Feuer drin!  
+Dem Worte sein’ und der Natur  
+Vertraute Gott das Knäblein nur;  
+Wo sich der Felsenstrom ergeusst  
+Erhub sich früh des Helden Geist.   20  
+Das Ruder und die Gemsenjagd  
+Hatt’ seine Glieder stark gemacht;  
+Er scherzte früh mit der Gefahr  
+Und wusste nicht wie gross er war.  
+Er wusste nicht dass seine Hand,   25  
+Durch Gott gestärkt, sein Vaterland  
+Erretten würde von der Schmach  
+Der Knechtschaft, deren Joch er brach.

@@ -77,7 +77,6 @@ But the girl frowned. “I am afraid it will not go with my dress,” she answer
 “Ungrateful!” said the girl. “I tell you what, you are very rude; and, after all, who are you? Only a Student. Why, I don’t believe you have even got silver buckles to your shoes as the Chamberlain’s nephew has;” and she got up from her chair and went into the house.
 “What a silly thing [[motifs/love|Love]] is!” said the Student as he walked away. “It is not half as useful as Logic, for it does not prove anything, and it is always telling one of things that are not going to happen, and making one believe things that are not true. In fact, it is quite unpractical, and, as in this age to be practical is everything,  I shall go back to Philosophy and study Metaphysics.”
 So he returned to his room and pulled out a great dusty book, and began to read.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -123,5 +122,3 @@ Ma la ragazza fece una smorfia. “Temo che non si abbini al mio abito,” rispo
 “[[motifs/well|Beh]], per la mia vita, sei davvero ingrata!” esclamò lo Studente arrabbiato, e gettò la rosa in strada; essa finì nel canale di scolo, calpestata da una ruota di carro.  
 “Ingrata, ” disse la ragazza. “In realtà, sei molto maleducata. E poi, chi sei tu? Solo uno Studente. Non credo nemmeno che tu abbia delle fibbie d’argento alle scarpe, come quelle del nipote del Ciambellano, ” Si alzò dalla sedia e rientrò in casa.
 “Che cosa sciocca sia l’[[motifs/love|Amore]]!” disse lo Studente mentre se ne andava. “Non è nemmeno la metà utile dell’Logica, perché non dimostra nulla e dice sempre cose che non accadranno mai, facendo credere alle persone cose che non sono vere. In realtà, è piuttosto impratico. E poiché, in questa epoca, essere pratici è tutto, tornerò all’Filosofia e studierò la Metafisica.” Così tornò nella sua stanza, tirò fuori un grosso libro polveroso e iniziò a leggere.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

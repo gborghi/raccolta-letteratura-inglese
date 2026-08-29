@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems" data-author="Dickinson" data-workhref="works/war-and-its-cost-·-american-civil-war-·-battlefield-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 8. There is a word · 42. A Day! Help! Help! Another Day! · 67. Success is counted sweetest · 73. Who never lost, are unprepared · 126. To fight aloud, is very brave — · 147. Bless God, he went as soldiers, · 358. If any sink, assure that this, now standing — · 444. It feels a shame to be Alive — · 472. Except the Heaven had come so near — · 540. I took my Power in my Hand — · 639. My Portion is Defeat — today — · 678. Wolfe demanded during dying · 754. My Life had stood — a Loaded Gun — · 759. He fought like those Who've nought to lose — · 865. He outstripped Time with but a Bout, · 1031. Fate slew Him, but He did not drop — · 1152. Tell as a Marksman — were forgotten · 1174. There's the Battle of Burgoyne — · 1176. We never know how high we are · 1227. My Triumph lasted till the Drums · 1264. This is the place they hoped before, · 1293. The things we thought that we should do · 1511. My country need not change her gown, · 1554. "Go tell it" — What a Message —
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="ere_is_a_word" data-title="8. There is a word" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,motif/death,concept/war_and_its_cost,concept/memory_and_time,concept/self_and_soul,form/riddle,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
 
 
@@ -43,7 +40,6 @@ The most accomplished host!
 Is a [[motifs/soul|soul]] "forgot"!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 C'è una parola  
@@ -66,8 +62,6 @@ La schiera più compiuta!
 Il bersaglio più sublime del [[motifs/time|Tempo]]  
 È un'[[motifs/soul|anima]] "dimenticata"!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="day_help_help_another_day" data-title="42. A Day! Help! Help! Another Day!" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/heroism,concept/self_and_soul,concept/war_and_its_cost,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -83,7 +77,6 @@ Steady — my [[motifs/soul|soul]]: What issues
 Upon thine arrow hang!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Giorno! Aiuto! Aiuto! Un altro Giorno!  
@@ -95,8 +88,6 @@ Ondeggiarono le bandiere delle nazioni.
 Salda — mia [[motifs/soul|anima]]: Quali esiti  
 Pendono dalla tua freccia!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ccess_is_counted_sweetest" data-title="67. Success is counted sweetest" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/swords_weapons,concept/paradox,concept/war_and_its_cost,concept/desire,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -118,7 +109,6 @@ The distant strains of triumph
 Break, agonized and clear.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il SUCCESSO è stimato più dolce  
@@ -136,8 +126,6 @@ Al cui orecchio interdetto
 I lontani accordi del trionfo  
 Rompono, straziati e chiari.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_never_lost_are_unprepared" data-title="73. Who never lost, are unprepared" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/crown,concept/paradox,concept/war_and_its_cost,concept/heroism,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -164,7 +152,6 @@ Angels! Write "Promoted"
 On this Soldier's brow!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chi mai non perse, è impreparato  
@@ -187,8 +174,6 @@ Hai Tu la cicatrice Regale?
 Angeli! Scrivete "Promosso"  
 Sulla fronte di questo Soldato!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fight_aloud_is_very_brave" data-title="126. To fight aloud, is very brave —" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/swords_weapons,motif/clothing,concept/heroism,concept/war_and_its_cost,concept/grief_and_loss,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -210,7 +195,6 @@ Rank after rank, with even feet
 And uniforms of [[motifs/snow|snow]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Combattere ad alta voce è gran coraggio,  
@@ -228,8 +212,6 @@ Che per costoro vadano gli angeli,
 Fila dopo fila, con passo uguale  
 E uniformi di [[motifs/snow|neve]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ess_god_he_went_as_soldiers" data-title="147. Bless God, he went as soldiers," data-chapter="" data-kind="intro" data-tags="archetype/hero,motif/swords_weapons,concept/war_and_its_cost,concept/heroism,concept/faith,form/lyric,form/hymn,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -246,7 +228,6 @@ I should not [[concepts/fear|fear]] the foe then —
 I should not [[concepts/fear|fear]] the fight!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Benedici [[characters/god|Dio]], andò come i soldati,  
@@ -259,8 +240,6 @@ In bianco di spalline —
 Allora non avrei [[concepts/fear|paura]] del nemico —  
 Non avrei [[concepts/fear|paura]] della battaglia!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_any_sink_assure_that_this_now_standing" data-title="358. If any sink, assure that this, now standing —" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/death,motif/swords_weapons,motif/silence,concept/war_and_its_cost,concept/heroism,form/lyric,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -277,7 +256,6 @@ When the Ball enters, enters [[motifs/silence|Silence]] —
 Dying — annuls the power to kill.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se qualcuno affonda, assicura che questo, ora in piedi —  
@@ -290,8 +268,6 @@ Temi, solo il Sibilo, prima della Palla —
 Quando la Palla entra, entra il [[motifs/silence|Silenzio]] —  
 Morire — annulla il potere di uccidere.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_feels_a_shame_to_be_alive" data-title="444. It feels a shame to be Alive —" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,archetype/martyr,motif/dust,concept/war_and_its_cost,concept/heroism,concept/guilt,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -323,7 +299,6 @@ Those unsustained — Saviors —
 Present Divinity —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sembra una vergogna essere Vivi —  
@@ -351,8 +326,6 @@ Io penso che l'Uomo che muore —
 Quei non sorretti — Salvatori —  
 Presentino la Divinità —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cept_the_heaven_had_come_so_near" data-title="472. Except the Heaven had come so near —" data-chapter="" data-kind="intro" data-tags="concept/grace_and_redemption,concept/grief_and_loss,concept/disillusionment,concept/faith_and_doubt,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -369,7 +342,6 @@ Afflicts me with a [[topoi/double|Double]] loss —
 'Tis lost — and lost to me —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se il Cielo non fosse giunto così vicino —  
@@ -382,8 +354,6 @@ Che mai pensai di vedere —
 Mi affligge d'una [[topoi/double|Doppia]] perdita —  
 È perduta — e perduta per me —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="took_my_power_in_my_hand" data-title="540. I took my Power in my Hand —" data-chapter="" data-kind="intro" data-tags="archetype/rebel,motif/swords_weapons,concept/heroism,concept/pride,concept/identity,form/lyric,histref/the_bible,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -400,7 +370,6 @@ Was it Goliath — was too large —
 Or was myself — too small?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Presi il mio Potere nella Mano —  
@@ -413,8 +382,6 @@ Fui quella che cadde —
 Fu Golia — a esser troppo grande —  
 O fui io — troppo piccola?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_portion_is_defeat_today" data-title="639. My Portion is Defeat — today —" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/death,motif/blood,motif/swords_weapons,motif/bells,concept/war_and_its_cost,concept/mortality,concept/grief_and_loss,concept/pride,form/lyric,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -443,7 +410,6 @@ Who to have had it, would have been
 Contenteder — to die —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La mia Porzione è Sconfitta — oggi —  
@@ -468,8 +434,6 @@ Per Chi la possiede — e per Colui
 Che ad averla avuta, sarebbe stato  
 Più Contento — di morire —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="lfe_demanded_during_dying" data-title="678. Wolfe demanded during dying" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,topos/war_as_glory,archetype/hero,archetype/tragic_hero,motif/death,concept/heroism,concept/honour,concept/war_and_its_cost,concept/mortality,form/lyric,form/narrative_poem,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -486,7 +450,6 @@ Rendered with a smile
 [[concepts/liberty|Liberty]]'s beguile"
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Wolfe chiese morendo  
@@ -499,8 +462,6 @@ Rese con un sorriso
 "Dolce" disse "la mia propria Resa  
 Lusinga della [[concepts/liberty|Libertà]]"
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_life_had_stood_a_loaded_gun" data-title="754. My Life had stood — a Loaded Gun —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/swords_weapons,motif/animals,motif/fire,motif/death,concept/power_and_corruption,concept/identity,concept/self_and_soul,concept/mortality,concept/paradox,concept/immortality,form/lyric,form/narrative_poem,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -537,7 +498,6 @@ For I have but the power to kill,
 Without — the power to die —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La mia Vita era stata — un Fucile Carico —  
@@ -570,8 +530,6 @@ Lui più a lungo deve — di me —
 Perché io ho solo il potere di uccidere,  
 Senza — il potere di morire —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fought_like_those_whove_nought_to_lose" data-title="759. He fought like those Who've nought to lose —" data-chapter="" data-kind="intro" data-tags="archetype/hero,motif/death,motif/winter,concept/war_and_its_cost,concept/despair,concept/mortality,concept/paradox,concept/heroism,form/lyric,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -595,7 +553,6 @@ But He — was left alive Because
 Of Greediness to die —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 —  
@@ -615,8 +572,6 @@ Quando le Raffiche rovesciano la [[motifs/snow|Neve]] —
 Ma Lui — fu lasciato vivo a Causa  
 Dell'Avidità di morire —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_outstripped_time_with_but_a_bout" data-title="865. He outstripped Time with but a Bout," data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/time,motif/stars,concept/heroism,concept/immortality,form/lyric,histref/christianity,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -633,7 +588,6 @@ The larger Glory for the less
 A just sufficient Ring.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Superò il [[motifs/time|Tempo]] con una sola Sfida,  
@@ -646,8 +600,6 @@ Fino a quest'oggi, corrono,
 La Gloria più grande per la minore  
 Un'Arena appena sufficiente.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="te_slew_him_but_he_did_not_drop" data-title="1031. Fate slew Him, but He did not drop —" data-chapter="" data-kind="intro" data-tags="archetype/hero,motif/swords_weapons,concept/heroism,concept/fate_and_free_will,concept/suffering,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -664,7 +616,6 @@ And He — unmoved regarded Her —
 Acknowledged Him a Man.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Sorte Lo uccise, ma Egli non crollò —  
@@ -677,8 +628,6 @@ ma quando il Suo Peggio fu compiuto
 ed Egli — impassibile La guardò —  
 Lo riconobbe un Uomo.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ll_as_a_marksman_were_forgotten" data-title="1152. Tell as a Marksman — were forgotten" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,archetype/hero,archetype/tyrant,archetype/rebel,motif/swords_weapons,motif/crown,concept/heroism,concept/power_and_corruption,concept/faith,form/narrative_poem,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -716,7 +665,6 @@ Tell his Arrow sent —
 When the cry is meant —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tell come Tiratore — fosse dimenticato  
@@ -750,8 +698,6 @@ Tell la sua Freccia scagliò —
 [[characters/god|Dio]] si dice risponde in Persona  
 Quando il grido è sincero —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="eres_the_battle_of_burgoyne" data-title="1174. There's the Battle of Burgoyne —" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,topos/eternal_return,motif/sun,motif/nature,concept/war_and_its_cost,concept/the_sublime,form/lyric,histref/american_civil_war,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -767,7 +713,6 @@ Could you comprehend it
 You would chastened stare —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ecco la Battaglia di Burgoyne —  
@@ -779,8 +724,6 @@ Ma quella Guerra solenne
 Se tu potessi comprenderla  
 Fisseresti, castigato —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_never_know_how_high_we_are" data-title="1176. We never know how high we are" data-chapter="" data-kind="intro" data-tags="archetype/hero,motif/crown,concept/heroism,concept/identity,concept/self_and_soul,form/aphorism,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -797,7 +740,6 @@ Did not ourselves the Cubits warp
 For [[concepts/fear|fear]] to be a [[archetypes/king|King]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non sappiamo mai quanto siamo alti  
@@ -810,8 +752,6 @@ Sarebbe cosa normale
 Se noi stessi non torcessimo i Cubiti  
 Per [[concepts/fear|paura]] d'essere un [[archetypes/king|Re]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_triumph_lasted_till_the_drums" data-title="1227. My Triumph lasted till the Drums" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/death,motif/swords_weapons,concept/war_and_its_cost,concept/disillusionment,form/lyric,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -836,7 +776,6 @@ A Bayonet's contrition
 Is nothing to the Dead.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il mio Trionfo durò finché i Tamburi  
@@ -857,8 +796,6 @@ Il Transitivo verso.
 La contrizione d'una Baionetta  
 È nulla per i Morti.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_is_the_place_they_hoped_before" data-title="1264. This is the place they hoped before," data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,motif/the_sea,motif/flowers,concept/disillusionment,concept/melancholy,concept/fate_and_free_will,concept/grief_and_loss,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -874,7 +811,6 @@ Before them lies escapeless [[motifs/sea|sea]] —
 The way is closed they came.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questo è il luogo che speravano prima,  
@@ -886,8 +822,6 @@ Che percorrono quest'asse di balsamo —
 Davanti a loro giace un [[motifs/sea|mare]] senza scampo —  
 Chiusa è la via da cui vennero.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_things_we_thought_that_we_should_do" data-title="1293. The things we thought that we should do" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,concept/disillusionment,concept/nostalgia,concept/immortality,concept/faith_and_doubt,concept/childhood_and_growth_placeholder,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -909,7 +843,6 @@ Untenable to Logic
 But possibly the one —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le cose che pensavamo di fare  
@@ -927,8 +860,6 @@ Finita la Disciplina
 Insostenibile alla Logica  
 Ma forse l'unico —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_country_need_not_change_her_gown" data-title="1511. My country need not change her gown," data-chapter="" data-kind="intro" data-tags="motif/clothing,motif/swords_weapons,motif/stars,concept/nationalism_and_patriotism,concept/war_and_its_cost,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -945,7 +876,6 @@ There's something in their attitude
 That taunts her bayonet.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il mio paese non deve mutare la sua veste,  
@@ -958,8 +888,6 @@ Denigrazione discreta, —
 C'è qualcosa nel loro contegno  
 Che ne schernisce la baionetta.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_tell_it_what_a_message" data-title="1554. &quot;Go tell it&quot; — What a Message —" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,archetype/martyr,motif/death,concept/martyrdom,concept/honour,concept/heroism,form/lyric,histref/ancient_greece,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
@@ -973,7 +901,6 @@ Obeyed — a Lure — a [[concepts/longing|Longing]]?
 Oh [[concepts/nature|Nature]] — none of this —  
 To Law — said sweet Thermopylae  
 I give my dying Kiss —
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -986,5 +913,3 @@ Obbedimmo — a un'Esca — a una [[concepts/longing|Brama]]?
 Oh [[concepts/nature|Natura]] — niente di questo —  
 Alla Legge — disse la dolce Termopili  
 Io do il mio Bacio morente —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

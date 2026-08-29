@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/war-and-its-cost-american-civil-war-battlefield" data-author="Whitman" data-workhref="works/war-and-its-cost-·-american-civil-war-·-battlefield-(whitman)"></div>
 
 
-<<<<<<< HEAD
 To Thee Old Cause · France [the 18th Year of these States · Europe [The 72d and 73d Years of These States] · First O Songs for a Prelude · Eighteen Sixty-One · Beat! Beat! Drums! · Virginia--The West · An Army Corps on the March · A March in the Ranks Hard-Prest, and the Road Unknown · The Wound-Dresser · Give Me the Splendid Silent Sun · The Artilleryman’s Vision · As I Lay with My Head in Your Lap Camerado · To a Certain Civilian · Lo, Victress on the Peaks · Spirit Whose Work Is Done [Washington City, 1865] · Adieu to a Soldier · Old War-Dreams · Ashes of Soldiers · Camps of Green · The Bravest Soldiers · The Wallabout Martyrs · True Conquerors · The Dying Veteran · To the Pending Year · Interpolation Sounds
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="006_to_thee_old_cause" data-title="To Thee Old Cause" data-chapter="" data-kind="intro"></span>
 
 

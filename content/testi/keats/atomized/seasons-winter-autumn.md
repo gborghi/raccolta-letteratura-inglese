@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/seasons-winter-autumn" data-author="Keats" data-workhref="works/seasons-·-winter-·-autumn-(keats)"></div>
 
 
-<<<<<<< HEAD
 FANCY · TO AUTUMN · Sonnet: After dark vapours have oppress’d our plains · On Seeing the Elgin Marbles · To — · Sonnet to a Lady Seen for a Few Moments at Vauxhall · Sonnet to John Hamilton Reynolds · What the Thrush Said · Sonnet - The Human Seasons · Lines Written in the Highlands after a Visit to Burns’s Country · Stanzas · The day is gone, and all its sweets are gone!
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="035_fancy" data-title="FANCY" data-chapter="" data-kind="intro"></span>
 
 

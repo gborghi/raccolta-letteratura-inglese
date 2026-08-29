@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/sleep-sleeper-awakes-resurrection--letters" data-author="Dickinson" data-workhref="works/sleep-·-sleeper-awakes-·-resurrection-(dickinson)" data-collection="letters"></div>
 
 
-<<<<<<< HEAD
 To Mr. William Austin Dickinson, Wednesday Noon · To Dr. J. G. Holland, and Mrs. Holland · To Mr. Samuel Bowlers and Mrs. Bowles, 'MARCHIONESS' · To the Misses, Spring, 1861 · To the Misses, December 29, 1861 · To the Misses, Spring, 1883 · To Miss Maria Whitney
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="william_austin_dickinson_wednesday_noon" data-title="To Mr. William Austin Dickinson, Wednesday Noon" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/autumn,motif/death,motif/bells,concept/desire_and_longing,concept/grief_and_loss,concept/wonder,form/letter,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
 
 
@@ -33,7 +30,6 @@ The apples are very fine—it isn't quite [[motifs/time|time]] to pick them—th
 Vinnie tells me she has detailed the news—she reserved the deaths for me, thinking I might fall short of my usual [[forms/letter|letter]] somewhere. In accordance with her wishes I acquaint you with the decease of your aged friend Deacon——. He had no disease that, we know of, but gradually went out. . . . Monday evening we were all startled by a violent church-bell ringing, and thinking of nothing but [[motifs/fire|fire]], rushed out in the street to see. The sky was a beautiful red, bordering on a crimson, and rays of a gold pink color were constantly shooting off from a kind of [[motifs/sun|sun]] in the centre. People were alarmed at this beautiful phenomenon, supposing that fires somewhere were coloring the sky. The exhibition lasted for nearly fifteen minutes, and the streets were full of people wondering and admiring. Father happened to see it among the very first, and rang the bell himself to call attention to it. You will have a full account from the pen of Mr. Trumbull, who, I have not a [[concepts/doubt|doubt]], was seen with a long lead pencil a-noting down the sky at the [[motifs/time|time]] of its highest glory. . . . You will be here now so soon—we are impatient for it—we want to see you, Austin, how much I cannot say here.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Abbiamo appena finito di cenare, Austin. Vorrei scrivere così tanto che quasi trascuro il processo digestivo; probabilmente ne risulterà una dispepsia. Ho ricevuto la tua lettera ieri. Dici che non dobbiamo nemmeno preoccuparci di mandarti della frutta, e che nemmeno i tuoi vestiti dovrebbero causarci problemi. Non voglio mai più che tu dica cose del genere. Mi fanno venire voglia di piangere. Se solo ci avessi preso in giro per questo, dicendo che li avresti comunque voluti, non mi sarebbe importato così tanto se non fossimo riusciti a trovarti qualcosa da inviarti. Invece tu rinunci con tanta serenità al tuo diritto naturale di ricevere cose belle. E non ti lamenti nemmeno dei peschi che ci lasci. Per questo, quasi non riesco più a gustare i frutti che abbiamo. Sono così belli, Austin. Ne abbiamo in abbondanza, “Mentre tu muori di fame, ”
@@ -46,8 +42,6 @@ Le mele sono molto buone; non è ancora il momento giusto per raccoglierle. La s
 
 Vinnie mi ha detto che ha descritto in dettaglio questa notizia; ha riservato l’informazione sulla morte di Deacon per me, pensando che potessi trascurare qualche particolare nel mio solito resoconto. In accordo con i suoi desideri, vi comunico la scomparsa del vostro anziano amico Deacon. Non soffriva di alcuna malattia nota, ma gradualmente ha perso le forze. Lunedì sera, tutti noi siamo stati colpiti dal suono improvviso di una campana della chiesa; pensando subito a un incendio, siamo corsi in strada per vedere cosa stesse succedendo. Il cielo era di un bellissimo rosso, con sfumature cremisi, e raggi di colore oro-rosato provenivano da una sorta di “sole” al centro del cielo. La gente era sorpresa da questo straordinario fenomeno, pensando che qualche incendio stesse tingendo il cielo. L’evento è durato quasi quindici minuti; le strade erano piene di persone meravigliate e ammirate. Padre l’ha visto tra i primi ad osservarlo ed è stato lui stesso a suonare la campana per attirare l’attenzione su di esso. Avrete una descrizione completa scritta dal signor Trumbull, che, ne sono certo, in quel momento stava prendendo appunti con una matita lunga, osservando attentamente il cielo nel suo momento di massimo splendore. Speriamo di vedervi presto qui. Non vediamo l’ora. Vogliamo vedervi, Austin. C’è così tanto che non posso dire qui.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="archetype/death_personified,motif/death,motif/dawn,motif/the_grave,concept/grief_and_loss,concept/resurrection,concept/immortality_divine,concept/friendship,form/letter,histref/the_bible,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -64,7 +58,6 @@ Do you remember the clover leaf? The little hand that plucked it will keep tight
 Please give her [[motifs/love|love]] to Annie, and Kate, who also gave a father.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . So che vivrai per il nostro bene, caro; non lo faresti mai per te stesso. È questo dovere che salva. Mentre cerchiamo di aiutare gli altri, la forza della vita ritorna: all’inizio è molto debole, come un uccellino appena nato, ma col tempo sviluppa le ali.
@@ -77,8 +70,6 @@ Ricordi quella foglia di trifoglio? Quella piccola mano che l’ha raccolta cont
 
 Per favore, donale l’[[motifs/love|amore]], ad Annie, e anche a Kate, che le ha dato un padre.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_marchioness" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, 'MARCHIONESS'" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/death,motif/the_sea,motif/memory,concept/friendship,concept/grief_and_loss,concept/war_and_its_cost,concept/death,form/letter,histref/american_civil_war,setting/the_sea,setting/new_england,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -95,7 +86,6 @@ He is very sorry you are not better. He cares for you when at the office, and af
 Mary sent beautiful [[motifs/flowers|flowers]]. Did she tell you?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[motifs/love|Amore]] per Mary.
@@ -108,8 +98,6 @@ Gli dispiace molto che tu non stia meglio. Si preoccupa per te sia in ufficio ch
 
 Mary ha ricevuto bellissime [[motifs/flowers|fiori]]. Te l’ha detto?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_spring_1861" data-title="To the Misses, Spring, 1861" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/stars,motif/moon,motif/spring,motif/pain,concept/faith_and_doubt,concept/suffering,concept/hope,concept/providence,form/letter,character/elizabeth_barrett_browning,character/george_sand,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -130,7 +118,6 @@ Mary ha ricevuto bellissime [[motifs/flowers|fiori]]. Te l’ha detto?
 . . . Your letters are all real, just the tangled [[motifs/road|road]] children walked before you, some of them to the end, and others but a little way, even as far as the fork in the [[motifs/road|road]]. That Mrs. Browning fainted, we need not read Aurora Leigh to know, when she lived with her English aunt; and George Sand “must make no noise in her grandmother's bedroom.” Poor children! Women, now, queens, now! And one in the Eden of [[characters/god|God]]. I guess they both forget that now, so who knows but we, little [[motifs/stars|stars]] from the same [[motifs/night|night]], stop twinkling at last? Take heart, little sister, twilight is but the short bridge, and the [[motifs/moon|moon]] stands at the end. If we can only get to her! Yet, if she sees us fainting, she will put out her yellow hands. . . .
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . Mandate un “sundown” per L———, per favore, e un croco per F———. [[archetypes/shadow|Ombra]] non aveva stelo, quindi non potevano raccoglierlo.
@@ -147,8 +134,6 @@ Mary ha ricevuto bellissime [[motifs/flowers|fiori]]. Te l’ha detto?
 
 , Tutte le tue lettere sono vere; è solo il sentiero tortuoso che i bambini hanno percorso prima di te: alcuni fino in fondo, altri solo per un tratto breve, magari soltanto fino alla biforcazione della strada. Che quella signora Browning siano svenuta, non c’è bisogno di leggere Aurora Leigh per saperlo, quando viveva con sua zia inglese; e George Sand “non deve fare rumore nella camera da letto di sua nonna”. Poveri bambini. Donne, ora regine. E una, nell’Eden di [[characters/god|Dio]]. Immagino che ora entrambe abbiano dimenticato. Chi lo sa, forse solo noi, piccole [[motifs/stars|stelle]] della stessa [[motifs/night|notte]], smetteremo finalmente di brillare. Non disperare, sorellina: il crepuscolo è soltanto un breve ponte, e la [[motifs/moon|luna]] aspetta alla fine. Se solo riuscissimo ad arrivare fino a lei. Ma se ci vedesse svenire, allora tenderebbe le sue mani gialle verso di noi.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_december_29_1861" data-title="To the Misses, December 29, 1861" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_sea,motif/sleep,motif/letters_writing,motif/tears,concept/death,concept/grief_and_loss,concept/war_and_its_cost,concept/friendship,form/letter,histref/american_civil_war,character/christ,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -163,7 +148,6 @@ Did you get the [[forms/letter|letter]] I sent a week from Monday? You did not s
 Much [[motifs/love|love]] and [[motifs/christmas|Christmas]], and sweet year, for you and F——and papa.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . La tua [[forms/letter|lettera]] non mi ha sorpreso, L——; ho scacciato via la neve dalle mie palpebre abituate a leggerla. Ho riletto per essere sicura di aver capito bene. Poi ho ripreso a cucire i bordi delle stringhe per l’abito di mia madre. Credo di aver lavorato più velocemente, sapendo che non saresti venuto. I miei dita non avevano nient’altro da fare. Strano. Io, che dico “no” così spesso, non riesco a sopportare che gli altri lo facciano. Strano. Io, che fuggo da tante persone, non posso tollerare che qualcuno si allontani da me. Vieni quando vuoi, L——. I nostri cuori sono sempre aperti. Non ricordo più “May”. È lei quella che arriverà l’anno prossimo ad aprile? E sarà anche quel mese in cui fioriranno i fiori rosa del [[motifs/river|fiume]]?
@@ -174,8 +158,6 @@ Hai ricevuto la [[forms/letter|lettera]] che ti ho inviato lunedì scorso? Non h
 
 Molto [[motifs/love|amore]] e [[motifs/christmas|Natale]], e un anno dolce per te e F——e papà.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_spring_1883" data-title="To the Misses, Spring, 1883" data-chapter="" data-kind="intro" data-tags="motif/death,motif/moon,motif/flowers,motif/spring,motif/the_sea,motif/memory,concept/grief_and_loss,concept/friendship,concept/death,concept/wonder,concept/memory,form/letter,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
@@ -196,7 +178,6 @@ I know each moment of Miss W——is a gleam of boundlessness. “[[characters/m
 Thank you once more for being sorry. Till the first friend dies, we think ecstasy impersonal, but then discover that he was the cup from which we drank it, itself as yet unknown. Sweetest [[motifs/love|love]] for each, and a kiss besides for Miss W——'s cheek, should you again meet her.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Grazie, cari, per la vostra [[concepts/sympathy|solidarietà]]. A malapena oso pensare di aver perso un altro amico, ma l’angoscia lo fa capire comunque.
@@ -213,19 +194,14 @@ So che ogni momento trascorso con la signorina W è un lampo di infinito. “A [
 
 Grazie ancora per esservi scusati. Finché il primo amico non muore, pensiamo che l’ebbrezza sia qualcosa di impersonale, ma poi scopriamo che quell’amico era proprio la “tazza” da cui abbiamo bevuto, una tazza che fino ad allora restava sconosciuta. Dolce [[motifs/love|amore]] per ognuno di noi, e un bacio in più sulle guance della signorina W, se doveste incontrarla di nuovo.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/death,motif/memory,concept/death,concept/grief_and_loss,concept/friendship,form/letter,cluster/sleep,cluster/sleeper_awakes,cluster/resurrection"></span>
 
 
 Emily Dickinson's first [[forms/letter|letter]] to the son of her old friend, Mr. Bowles, was written four years after his father's [[motifs/death|death]], and contained a spray of pressed jasmine.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 La prima [[forms/letter|lettera]] di Emily Dickinson al figlio del suo vecchio amico, il signor Bowles, fu scritta quattro anni dopo la morte di suo padre e conteneva un pizzico di gelsomino essiccato.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

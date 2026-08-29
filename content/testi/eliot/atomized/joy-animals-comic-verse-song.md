@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/joy-animals-comic-verse-song" data-author="Eliot" data-workhref="works/joy-·-animals-·-comic-verse-song-(eliot)"></div>
 
 
-<<<<<<< HEAD
 The Naming of Cats · The Old Gumbie Cat · Growltiger’s Last Stand · The Rum Turn Tugger · The Song of the Jellicles · Mungojerrie and Rumpelteazer · Old Deuteronomy · Of the Awefull Battle of the Pekes and the Pollicles · Mr. Mistoffelees · Macavity: the Mystery Cat · Gus: the Theatre Cat · Bustopher Jones: the Cat About Town · Skimbleshanks: the Railway Cat · The Ad-dressing of Cats · Cat Morgan Introduces Himself · A Fable for Feasters · Song: ‘The moonflower opens to the moth’
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="080_the_naming_of_cats" data-title="The Naming of Cats" data-chapter="" data-kind="intro"></span>
 
 

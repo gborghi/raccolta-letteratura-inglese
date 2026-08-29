@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/child-orphan--letters" data-author="Dickinson" data-workhref="works/child-·-orphan-(dickinson)" data-collection="letters"></div>
 
 
-<<<<<<< HEAD
 To Mrs. A. P. Strong · To Mrs. A. P. Strong, Tuesday Evening · To Mr. William Austin Dickinson, Sunday Evening · To Mr. William Austin Dickinson · To Mr. William Austin Dickinson, Sunday Morning · To Mr. William Austin Dickinson, Friday Morning · To Mr. William Austin Dickinson, Friday, Afternoon · To Mr. William Austin Dickinson, Thursday Evening · To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Thursday Morn · To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson · To Dr. J. G. Holland, and Mrs. Holland, Friday Evening · To Dr. J. G. Holland, and Mrs. Holland, January 2d · To Dr. J. G. Holland, and Mrs. Holland · To Dr. J. G. Holland, and Mrs. Holland, Spring, 1878 · To Dr. J. G. Holland, and Mrs. Holland, August, 1879 · To Dr. J. G. Holland, and Mrs. Holland, Thursday · To Mr. Samuel Bowlers and Mrs. Bowles, Written in 1861, on the birth of a son · To Mr. Samuel Bowlers and Mrs. Bowles · To Mr. Samuel Bowlers and Mrs. Bowles · To the Misses, 1874 · To the Misses, Saturday · To the Misses · To Mr. Thomas Wentworth Higginson · To Mr. Thomas Wentworth Higginson, Early Summer, 1880 · To the Rev. Perez D. Cowan, After the death of Mr. Cowan's little daughter Margie November 8, 1879 · To Miss Maria Whitney · To Miss Maria Whitney · To Miss Maria Whitney, 1883? · To Miss Maria Whitney · To Miss Maria Whitney, 1882 · To Miss Maria Whitney · To Mr. C. H. Clark, June 7, 1883 · To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, Mrs. A. B. H. Davis, Mrs. H. F. Hills, Mrs. Jameson, Mr. F. F. Emerson, Maggie Maher, Mr. and Mrs. George Montague, Mrs. W. F. Stearns, Mr. J. K. Chickering, Mrs. Joseph Sweetser, Mr. Thomas, Niles, Mrs. Carmichael, Dr. and Mrs. Thomas P. Field, Mr. Theodore Holland, “H. H.,” Miss Eugenia Hall, Mrs. E. P. Crowell, and Mrs. J. C. Greenough, 1872? · To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, Mrs. A. B. H. Davis, Mrs. H. F. Hills, Mrs. Jameson, Mr. F. F. Emerson, Maggie Maher, Mr. and Mrs. George Montague, Mrs. W. F. Stearns, Mr. J. K. Chickering, Mrs. Joseph Sweetser, Mr. Thomas, Niles, Mrs. Carmichael, Dr. and Mrs. Thomas P. Field, Mr. Theodore Holland, “H. H.,” Miss Eugenia Hall, Mrs. E. P. Crowell, and Mrs. J. C. Greenough · To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, Mrs. A. B. H. Davis, Mrs. H. F. Hills, Mrs. Jameson, Mr. F. F. Emerson, Maggie Maher, Mr. and Mrs. George Montague, Mrs. W. F. Stearns, Mr. J. K. Chickering, Mrs. Joseph Sweetser, Mr. Thomas, Niles, Mrs. Carmichael, Dr. and Mrs. Thomas P. Field, Mr. Theodore Holland, “H. H.,” Miss Eugenia Hall, Mrs. E. P. Crowell, and Mrs. J. C. Greenough, December, 1874 · To Mrs. Edward Tuckerman · To Mrs. Edward Tuckerman · To Mrs. Edward Tuckerman, January, 1879 · To Mrs. Edward Tuckerman, September, 1879 · To Mrs. J.S. Cooper · To Mrs. Henry Hills · To Mrs. Jameson · To the Rev. F. F. Emerson · To Mr. and Mrs. George Montague, 1881? · To Mrs. Joseph Sweetser, November, 1884 · To Mrs. Joseph Sweetser · To Mrs. Carmichael, 1885? · To “H. H.”
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_a_p_strong" data-title="To Mrs. A. P. Strong" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/river,concept/friendship,concept/faith,concept/charity,concept/sin_and_the_fall,form/letter,histref/the_bible,setting/new_england,cluster/child,cluster/orphan"></span>
 
 
@@ -29,7 +26,6 @@ When your [[forms/letter|letter]] came, I had two Western cousins—now at South
 In the following [[forms/letter|letter]] appear farther traces of the later and almost invariable custom of using dashes, instead of conventional punctuation. These, however, will not be given generally. In printing her poems it was found necessary to employ usual punctuation, in order that the meaning should be more easily apprehended; and in the letters the same system, often for the same reason, has been adopted.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non ti ho ancora ringraziato per la tua [[forms/letter|lettera]], ma non per mancanza di gratitudine. Lo faccio ora con tutta sincerità e cordialità, felice e grata. Scriverai presto un’altra lettera, così potrò nuovamente provare quei sentimenti sinceri. Non arrivano certo su richiesta. Finora in questa lettera ti ho presentato me stesso; un altro giorno parleremo di “gioie” e “dolori”. Il raffreddore rende le persone molto materialiste, e lo spirito ne ha sempre paura. Perdonerai tutti gli errori dovuti all’ignoranza; ogni peccato, alla “caduta umana”; la mancanza di affetto fraterno, considerando il versetto “Il fiume più profondo scorre più silenziosamente”; e tutte le altre imperfezioni, in nome dell’incapacità umana. Qui c’è sicuramente spazio per la [[concepts/charity|carità]], e il visitatore celeste non sarebbe venuto se non ci fossero stati questi difetti. “Nessuna perdita senza guadagno”. L’altro giorno sono andato a trovare i tuoi cugini; stavano bene, ed erano chiaramente felici di rivedersi, e anche noi.
@@ -38,8 +34,6 @@ Quando è arrivata la tua [[forms/letter|lettera]], avevo due cugini occidentali
 
 Nella seguente [[forms/letter|lettera]] si trovano ulteriori tracce di quella consuetudine successiva e quasi immutabile di utilizzare trattini al posto della punteggiatura convenzionale. Tuttavia, queste peculiarità non verranno analizzate in modo generale. Nella stampa delle sue poesie si è ritenuto necessario utilizzare la punteggiatura tradizionale affinché il significato fosse più facilmente comprensibile; e anche nelle lettere lo stesso sistema è stato adottato, spesso per gli stessi motivi.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_a_p_strong_tuesday_evening" data-title="To Mrs. A. P. Strong, Tuesday Evening" data-chapter="" data-kind="intro" data-tags="motif/home,motif/letters_writing,motif/summer,concept/friendship,concept/solitude,concept/memory,concept/renunciation,form/letter,setting/new_england,cluster/child,cluster/orphan"></span>
@@ -50,15 +44,12 @@ MY DEAR [[archetypes/child|CHILD]],—Thank you for that sweet note which came s
 I wanted very much to write you sooner, and I tried frequently, but till now in vain, and as I write to-[[motifs/night|night]], it is with haste, and [[concepts/fear|fear]] lest something still detain me. You know, my dear A., that the [[motifs/summer|summer]] has been warm, that at this pleasant season we have much company, that this irresolute [[concepts/body|body]] refuses to serve sometimes, and the indignant tenant can only hold its peace,—all this you know, for I have often told you, and yet I say it again, if mayhap it persuades you that I do [[motifs/love|love]] you indeed, and have not done neglectfully. . . . I think it was in June that your note reached here, and I did snatch a moment to call upon your friend. Yet I went in the dusk, and it was Saturday evening, so even then, A., you see how cares pursued me. I found her very lovely in what she said to me, and I fancied in her face so, although the gentle dusk would draw her curtain close, and I didn't see her clearly. We talked the most of you,—a theme we surely loved, or we had not discussed it in preference to all. I would [[motifs/love|love]] to meet her again, and give my [[motifs/love|love]] to her, for your sake. You asked me to come and see you—I must speak of that. I thank you, A., but I don't go from [[motifs/home|home]], unless emergency leads me by the hand, and then I do it obstinately, and draw back if I can. Should I ever leave [[motifs/home|home]], which is improbable, I will, with much delight, accept your invitation; till then, my dear A., my warmest thanks are yours, but don't expect me. I'm so old-fashioned, darling, that all your friends would stare. I should have to bring my workbag, and my big spectacles, and I half forgot my grandchildren, and my pincushion, and puss—why, think of it seriously, A.,—do you think it my duty to leave? Will you write me again? Mother and Vinnie send their [[motifs/love|love]], and here's a kiss from me.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mio caro [[archetypes/child|Bambino]],—Grazie per quella dolce lettera che hai inviato tanto tempo fa, grazie anche per avermi chiesto di venire a trovarti, e grazie ancora per l’amore che mi hai dimostrato allora, oggi, e per tutta la dolcezza, la gentilezza e la tenerezza con cui ricordi me, il tuo vecchio amico, un po’ stravagante ma sempre sincero.
 
 Volevo davvero scriverti prima, e ci ho provato molte volte, ma fino ad ora senza successo. Scrivo di notte, in fretta, e con paura che qualcosa possa ancora trattenermi. Tu sai, cara A., che l’estate è stata calda; in questa piacevole stagione abbiamo molti ospiti a casa. Il mio corpo, però, a volte si rifiuta di collaborare. Tutto questo lo sai, perché te l’ho detto spesso. Eppure lo ripeto ancora: forse così riuscirò a farti capire che ti amo davvero, e non ho trascurato i miei doveri verso di te. Penso che la tua lettera sia arrivata a giugno; ho trovato un momento per andare a trovare la tua amica. Sono andata al crepuscolo, era sabato sera. Eppure, vedi come le preoccupazioni mi inseguivano. Lei è stata molto gentile con me. Abbiamo parlato molto di te. Un argomento che ci piaceva davvero. Vorrei rivederla ancora, e donarle il mio amore, per il tuo bene. Mi hai chiesto di venire a trovarti. Devo parlarne. Grazie, A. Ma non lascio la mia casa, a meno che non si tratti di una situazione d’emergenza. E anche allora lo faccio controvolentemente, e cerco sempre di tornare indietro. Se mai dovessi lasciare casa mia, il che è improbabile, accetterei con grande gioia la tua invitazione. Fino ad allora, cara A, i miei più caldi ringraziamenti sono per te. Ma non aspettarti che venga. Sono così antiquata, tesoro. Che tutti i tuoi amici resterebbero sbalorditi. Dovrei portare con me il mio cestino da lavoro, gli occhiali grandi. E quasi mi dimenticavo dei miei nipoti, del mio cuscinetto da ricamo. E di Puss. Sul serio, A, pensi davvero che sia mio dovere andarmene? Mi scriverai ancora? Mia madre e Vinnie mandano i loro saluti. E qui c’è un bacio da parte mia.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_sunday_evening" data-title="To Mr. William Austin Dickinson, Sunday Evening" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/letters_writing,motif/home,concept/communication_and_isolation,concept/desire_and_longing,concept/friendship,form/letter,cluster/child,cluster/orphan"></span>
@@ -71,7 +62,6 @@ We have all been rather piqued at Jennie's singing so [[motifs/well|well]], and 
 Two weeks of your [[motifs/time|time]] are gone; I can't help wondering sometimes if you would [[motifs/love|love]] to see us, and come to this still homo. . . . A Senior levee was held at Professor and Mrs. Haven's on Tuesday of last week—Vinnie played pretty [[motifs/well|well]]. There's another at the. President's this next Friday evening. Clarum et venerabile Seniors!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ho ricevuto la tua [[forms/letter|lettera]], Austin; permettimi di ringraziarti per essa e di chiedertene altre non appena sarà possibile. Concordo pienamente con il tuo parere discreto riguardo a Jenny svedese, e lodo il coraggio necessario per esprimerlo, soprattutto quando si contraddice l’opinione di due mondi civili. E poi, affrontare anche [[settings/new-york|New York]] in questa battaglia richiede davvero notevole audacia. In verità, non mi era mai passato per la mente che, tra tutti questi elogi, qualcuno avrebbe osato dissentire. E tantomeno che quel dissidente fosse mio fratello romantico! Avevo infatti cercato in un giovane come te fonte di gioia e di un’estrema bellezza d’animo.
@@ -80,8 +70,6 @@ Siamo tutti stati piuttosto infastiditi dal canto di Jennie, quindi, beh, questa
 
 Sono passate due settimane del vostro [[motifs/time|tempo]]; a volte non posso fare a meno di chiedermi se vi piacerebbe vederci e venire qui. Martedì scorso si è tenuto un evento per gli studenti più anziani presso la casa del Professor e della Signora Haven; Vinnie si è esibito molto bene. Un altro evento simile ci sarà venerdì prossimo sera alla residenza del Presidente. Carissimi e stimati studenti anziani!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson" data-title="To Mr. William Austin Dickinson" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,concept/communication_and_isolation,concept/memory_and_time,form/letter,cluster/child,cluster/orphan"></span>
@@ -90,13 +78,10 @@ Sono passate due settimane del vostro [[motifs/time|tempo]]; a volte non posso f
 Several subsequent letters, all piquant and breezy, but dealing quite entirely with [[concepts/family|family]] matters, experiences with callers, and other personal subjects, have been omitted.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Alcune lettere successive, tutte piene di vivacità e disinvoltura, ma che trattavano interamente di questioni familiari, esperienze con le persone che chiamavano e altri argomenti personali, sono state omesse.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_sunday_morning" data-title="To Mr. William Austin Dickinson, Sunday Morning" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,concept/joy,concept/communication_and_isolation,concept/friendship,form/letter,setting/new_england,cluster/child,cluster/orphan"></span>
@@ -105,13 +90,10 @@ Alcune lettere successive, tutte piene di vivacità e disinvoltura, ma che tratt
 . . . Father has not got [[motifs/home|home]], and we don't know when to expect him. We had a [[forms/letter|letter]] from him yesterday, but he didn't say when he should come. He writes that he “should think the whole world was there, and some from other worlds.” He says he meets a great many old friends and acquaintances, and forms a great many new ones—he writes in very fine spirits, and says he enjoys himself very much. . . . I wish you could have gone with him, you would have enjoyed it so, but I did not much suppose that selfish old school would let you. . . . Last week the Senior levee came off at the President's. I believe Professor Haven is to give one soon—and there is to be a reception at Professor Tyler's next Tuesday evening which I shall attend. You see Amherst is growing lively, and by the [[motifs/time|time]] you come everything will be in a buzz. . . . We all send you our [[motifs/love|love]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 , Il padre non è ancora tornato a [[motifs/home|casa]], e non sappiamo quando si aspetti di arrivare. Ieri abbiamo ricevuto una sua [[forms/letter|lettera]], ma non diceva quando avrebbe fatto ritorno. Scrive che “sembra che tutto il mondo sia lì, e anche persone provenienti da altri mondi”. Dice di incontrare molti vecchi amici e conoscenti, e di fare anche tante nuove conoscenze; scrive in tono molto ottimista, affermando di divertirsi molto. Vorrei che tu fossi andato con lui: ti sarebbe piaciuto molto, ma non credo che quella vecchia scuola egoistica ti avrebbe permesso di partire. La scorsa settimana il diga principale è crollato vicino alla residenza del Presidente. Credo che il Professor Haven terrà presto una conferenza, e il prossimo martedì sera ci sarà una ricevimento a casa del Professor Tyler, a cui parteciperò anch’io. Vedi. Amherst sta diventando sempre più vivace, e quando arriverai tutto sarà in pieno fermento. Vi inviamo tutti i nostri [[motifs/love|affetti]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_friday_morning" data-title="To Mr. William Austin Dickinson, Friday Morning" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,concept/communication_and_isolation,concept/friendship,concept/apocalypse,form/letter,setting/new_england,cluster/child,cluster/orphan"></span>
@@ -122,15 +104,12 @@ DEAR AUSTIN,—I presume you remember a story that Vinnie tells of a breach of p
 Your letters are very funny indeed—about the only jokes we have, now you are gone, and I [[concepts/hope|hope]] you will send us one as often as you can. Father takes great delight in your remarks to him—puts on his spectacles and reads them o'er and o'er as if it was a blessing to have an only son. He reads all the letters you write, as soon as he gets them, at the post-office, no matter to whom addressed; then he makes me read them aloud at the supper table again, and when he gets [[motifs/home|home]] in the evening, he cracks a few walnuts, puts his spectacles on, and with your last in his hand, sits down to enjoy the evening. . . . I believe at this moment, Austin, that there's nobody living for whom father has such respect as for you. But my paper is getting low, and I must hasten to tell you that we are very happy to hear good news from you, that we [[concepts/hope|hope]] you'll have pleasant times and learn a great deal while you're gone, and come back to us greater and happier for the life lived at Cambridge. We miss you more and more. I wish that we could see you, but letters come the next—write them often, and tell us everything.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Austin, —presumo tu ricordi quella storia che Vinnie racconta riguardo a un caso di mancata osservanza di una promessa, in cui la corrispondenza tra le parti consisteva nella risposta di una ragazza a una lettera che non aveva mai ricevuto ma che aspettava ogni giorno. Beh, sto scrivendo una risposta alla lettera che non ho ancora ricevuto, quindi potrai comprendere appieno l’importanza di quell’aneddoto. Da quando ti ho inviato l’ultima mia lettera, non ho fatto altro che cercarti. Ma questo è un mondo incerto, e pensare che tutto possa risolversi in breve tempo è una grande fonte di compiacimento ingiustificato. Sarei molto felice se potessi ricevere tue notizie non appena avrai pubblicato il tuo lavoro. Se per te fosse del tutto possibile, ovviamente!
 
 Le tue lettere sono davvero molto divertenti. Sono quasi le uniche barzellette che abbiamo ora che te ne sei andato, e spero che tu continui a scrivercele il più spesso possibile. A papà fanno un enorme piacere i tuoi messaggi: si mette gli occhiali e li legge più e più volte, come se fosse una vera benedizione avere un figlio unico. Legge tutte le tue lettere non appena le riceve all’ufficio postale, indipendentemente da a chi siano destinate; poi me ne fa leggere ad alta voce a tavola durante la cena, e quando torna a casa la sera, rompe qualche noce, si mette gli occhiali e, tenendo in mano l’ultima tua lettera, si dedica alla serata. Credo davvero che, in questo momento, Austin, non ci sia nessuno al mondo per cui papà abbia tanto rispetto quanto per te. Ma il mio foglio sta per finire. Devo concludere dicendoti che siamo molto felici di ricevere buone notizie da te; speriamo che tu trascorra bei momenti e impari molte cose durante la tua assenza, e che torni da noi più maturo e più felice per tutto ciò che hai vissuto a Cambridge. Ci manchi sempre di più. Vorrei tanto poterti vedere, ma le lettere arrivano solo il giorno dopo. Scrivici spesso e raccontaci tutto.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_friday_afternoon" data-title="To Mr. William Austin Dickinson, Friday, Afternoon" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,concept/communication_and_isolation,concept/memory,concept/friendship,concept/joy,form/letter,setting/new_england,cluster/child,cluster/orphan"></span>
@@ -141,15 +120,12 @@ DEAR AUSTIN,—. . . Some of the letters you've sent us we have received, and th
 Father said he never saw you looking in better health or seeming in finer spirits. He didn't say a word about the Hippodrome or the Museum, and he came [[motifs/home|home]] so stem that none of us dared to ask him, and besides grandmother was here, and you certainly don't think I'd allude to a Hippodrome in the presence of that lady! I'd as soon think of popping [[motifs/fire|fire]]-crackers in the presence of Peter the Great. But you'll tell us when you get [[motifs/home|home]]—how soon—how soon! . . . I admire the “Poems” very much. We all send our [[motifs/love|love]] to you—shall write you again [[characters/sunday|Sunday]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Austin, —. Alcune delle lettere che ci hai inviato le abbiamo ricevute; ti ringraziamo per la tua affettuosa dedizione. Altre invece non le abbiamo ricevute, ma ti ringraziamo comunque per il ricordo che esse rappresentano, anche se l’emblema che le accompagnava è andato perduto. Dove siano finite tutte quelle lettere, le tue e le nostre, qualcuno sicuramente lo sa, ma noi no. Oggi c’è un nuovo postino, ma non sappiamo chi ne sia la colpa. Tu non mi hai mai scritto una lettera, Austin, mentre quella che mio padre mi ha portato l’ho apprezzata molto di più. Pensiamo con grande gioia al tuo ritorno a casa e siamo felici che tu voglia venire.
 
 Mio padre ha detto che non ti aveva mai visto in così buona salute o con un aspetto così sereno. Non ha detto una parola sull’ippodromo né sul museo, ed è tornato a casa in modo tale che nessuno di noi osava fargli domande; inoltre, la nonna era presente, e certamente non penserai che io menzionerei un ippodromo davanti a lei! Sarebbe come se pensassi di far esplodere dei petardi davanti a Pietro il Grande. Ma ci dirai quando tornerai a casa. Quanto prima?. Ammiro molto quei “Poesie”. Vi inviamo tutti i nostri [[motifs/love|affetti]]; ti scriveremo di nuovo domenica.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_thursday_evening" data-title="To Mr. William Austin Dickinson, Thursday Evening" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,concept/loneliness,concept/communication_and_isolation,concept/friendship,concept/faith,form/letter,histref/the_bible,setting/new_england,cluster/child,cluster/orphan"></span>
@@ -162,7 +138,6 @@ Mio padre ha detto che non ti aveva mai visto in così buona salute o con un asp
 I have had some things from you to which I perceive no meaning. They either were very vast, or they didn't mean anything, I don't know certainly which. What did you mean by a note you sent me day before yesterday? Father asked me what you wrote, and I gave it to him to read. He looked very much confused, and finally put on his spectacles, which didn't seem to help him much—I don't think a telescope would have assisted him. I [[concepts/hope|hope]] you will write to me—I [[motifs/love|love]] to hear from you, and now Vinnie is gone I shall feel very lonely. . . . [[motifs/love|Love]] for them all if there are those to [[motifs/love|love]] and think of me, and more and most for you, from
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 , G. H. si è appena ritirato dopo una visita serale qui, e io raccolgo le mie energie rimaste per scriverti qualcosa.
@@ -171,8 +146,6 @@ I have had some things from you to which I perceive no meaning. They either were
 
 Ho ricevuto da te alcune cose di cui non riesco a comprendere il significato. O erano troppo complesse, o semplicemente non significavano nulla. Non so con certezza quale sia la situazione. Cosa intendevi con quella nota che mi hai inviato ieri prima? Mio padre mi ha chiesto cosa avessi scritto, e gliel’ho data da leggere. Sembra che non abbia capito molto. Alla fine si è messo gli occhiali, ma a quanto pare non gli sono stati di grande aiuto. Non credo nemmeno che un telescopio potesse essergli d’aiuto! Spero che mi scriva ancora. Mi piace molto ricevere tue notizie, e ora che Vinnie se n’è andato, mi sentirò molto sola. Ho [[motifs/love|amore]] per tutti voi, se c’è qualcuno che vi ricorda di me. E soprattutto per te.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss_thursday_morn" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Thursday Morn" data-chapter="" data-kind="intro" data-tags="topos/temptation,motif/winter,motif/letters_writing,motif/home,concept/friendship,concept/temptation,concept/desire_and_longing,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
@@ -185,7 +158,6 @@ Oh, I want to come in, I have a great mind now to follow little Jane.into your w
 No, I resist [[concepts/temptation|temptation]] and run away from the [[motifs/door|door]] just as fast as my feet will carry me, lest if I once come in I shall grow so happy that I shall stay there always and never go [[motifs/home|home]] at all. You will have read this note by the [[motifs/time|time]] I reach the office, and you can't think how fast I run.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cara Emily,  
@@ -195,8 +167,6 @@ Oh, voglio entrare. Ora ho davvero voglia di seguire la piccola Jane nel vostro 
 
 No, resisto alla [[concepts/temptation|tentazione]] e scappo via dalla [[motifs/door|porta]] il più velocemente possibile, perché se mai entrassi, diventerei così felice da restare lì per sempre e non tornare mai a [[motifs/home|casa]]. Sarai già arrivato alla fine di questo biglietto quando io arriverò in ufficio. Non puoi nemmeno immaginare quanto velocemente corra.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson" data-chapter="" data-kind="intro" data-tags="motif/home,motif/the_road,motif/the_journey,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
@@ -205,13 +175,10 @@ No, resisto alla [[concepts/temptation|tentazione]] e scappo via dalla [[motifs/
 P. S. I have just shot past the comer, and now all the wayside houses, and the little gate flies open to see me coming [[motifs/home|home]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 P.S. Ho appena superato l’angolo; ora tutte le case lungo la strada e il piccolo cancello si aprono per vedermi tornare a [[motifs/home|casa]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_friday_evening" data-title="To Dr. J. G. Holland, and Mrs. Holland, Friday Evening" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/food_feasting,motif/letters_writing,motif/home,concept/friendship,concept/joy,concept/hope,concept/memory,form/letter,setting/new_england,cluster/child,cluster/orphan"></span>
@@ -232,7 +199,6 @@ It is also a source of pleasure to me that Annie goes to [[motifs/sleep|sleep]],
 Three days and we are there—happy—very happy! To-morrow I will sew, but I shall think of you, and [[characters/sunday|Sunday]] sing and pray—yet I shall not forget you, and Monday's very near, and here's to me on Tuesday! Good-[[motifs/night|night]], dear Mrs. Holland—I see I'm getting wild—you will forgive me all, and not forget me all, though? Vinnie is fast asleep, or her [[motifs/love|love]] would be here—though she is, it is. Once more, if it is fair, we will come on Tuesday, and you [[motifs/love|love]] to have us, but if not convenient, please surely tell us so.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Grazie mille, cara signora Holland: se desiderate che veniamo, Vinnie ed io verremo senz’altro. Avremmo dovuto scrivervi prima, ma nostra madre non si è sentita bene in questi giorni, e non eravamo sicuri di poterla lasciare da sola; ora però sta meglio. Scrivo molto tardi stasera, ma se ancora lo desiderate, Vinnie ed io arriveremo martedì mattina con il treno per Springfield e saremo da voi alle [[motifs/noon|mezzogiorno]].
@@ -249,8 +215,6 @@ Per me è anche una fonte di piacere che Annie vada a [[motifs/sleep|dormire]], 
 
 Tre giorni e saremo lì, felici, molto felici! Domani cucirò, ma penserò a te; la domenica canterò e pregherò, ma non ti dimenticherò mai. Lunedì è già vicino, e buonanotte, cara signora Holland! Vedo che sto diventando un po’ pazza, mi perdonerai tutto, vero? E non mi dimenticherai nemmeno, giusto? Vinnie dorme profondamente, altrimenti la sua [[motifs/love|amore]] sarebbe già qui, anche se in realtà è già qui. Ancora una volta: se possibile, verremo di nuovo martedì, e speriamo che tu ci voglia bene. Ma se non fosse conveniente, per favore dimmelo assolutamente.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_january_2d" data-title="To Dr. J. G. Holland, and Mrs. Holland, January 2d" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/hope,concept/friendship,concept/joy,concept/immortality_divine,form/letter,cluster/child,cluster/orphan"></span>
@@ -261,15 +225,12 @@ May it come to-day?
 Then New Year the sweetest, and long life the merriest, and the Heaven highest—by and by!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Possa accadere oggi stesso?
 
 Allora arriverà il Capodanno più dolce, una vita lunga e felice, e il Cielo, ancora più alto. Presto!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/charity,concept/grief_and_loss,form/letter,cluster/child,cluster/orphan"></span>
@@ -278,13 +239,10 @@ Allora arriverà il Capodanno più dolce, una vita lunga e felice, e il Cielo, a
 Will some one lay this little flower on Mrs. Holland's pillow?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Qualcuno potrebbe mettere questo piccolo fiore sul cuscino della signora Holland?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_spring_1878" data-title="To Dr. J. G. Holland, and Mrs. Holland, Spring, 1878" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/grief_and_loss,concept/faith,form/letter,histref/the_bible,cluster/child,cluster/orphan"></span>
@@ -295,15 +253,12 @@ I thought that “Birnam Wood” had “come to Dunsinane.” Where did you pick
 I suppose you will play in the [[motifs/water|water]] at Alexandria Bay, as the baby does at the tub in the drive. . . . Speak to us when your eyes can spare you, and “keep us, at [[motifs/home|home]], or by the way,” as the clergyman says, when he folds the church till another Sabbath.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Pensavo che “Birnam Wood” fosse “arrivato a Dunsinane”. Dove hai trovato quell’arbusto? Immagino a Broadway. Si dice che [[characters/god|Dio]] sia ovunque, eppure lo consideriamo spesso come qualcuno che si ritira dal mondo. È difficile non riascoltare di nuovo quella frase importante: “Sam sta arrivando”. Ma se il dolore è una prova per una vita inestimabile, allora lui ne è stato compensato. Non aveva ambizioni di redenzione. Ed è proprio per questo che essa gli appartiene. “A chi ha, sarà dato ancora”. Se non fosse per quegli occhi, ci sentiremmo più spesso parlare di te. Non provano rimorso per la loro egoismo? Questo “tabernacolo” rappresenta una prova beata, ma la beatitudine prevale.
 
 Immagino che giocherai nell’[[motifs/water|acqua]] della baia di Alexandria, proprio come il bambino gioca nella vasca da bagno. Parla con noi quando i tuoi occhi te lo permetteranno, e “tienici con te, a [[motifs/home|casa]], o, per così dire”, come dice il prete quando ripone le cose della chiesa in attesa del prossimo sabato.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_august_1879" data-title="To Dr. J. G. Holland, and Mrs. Holland, August, 1879" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/grass,motif/animals,motif/summer,concept/friendship,concept/grief_and_loss,concept/faith,concept/immortality_divine,form/letter,histref/the_bible,setting/new_england,cluster/child,cluster/orphan"></span>
@@ -334,7 +289,6 @@ Our hearts have flown to you before—our breaking voices follow. How can we wai
 Could there be new tenderness, it would be for you, but the heart is full—another throb would split it—nor would we dare to speak to those whom such a grief removes, but we have somewhere heard “A little [[archetypes/child|child]] shall lead them.”
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Amata mia sorellina minore, — oggi Vinnie ha portato a casa un pisello dolce il cui baccello si trovava sul lato opposto al normale. Spaventata da questo presagio, mi affretto a scriverti.
@@ -361,8 +315,6 @@ I nostri cuori sono già volati verso di te; le nostre voci spezzate seguono. Co
 
 Potrebbe esserci una nuova tenerezza, sarebbe per te, ma il cuore è già pieno; un altro battito potrebbe spezzarlo. Non oseremmo nemmeno parlare con coloro a cui un tale dolore ha tolto tutto. Ma abbiamo sentito dire da qualche parte: “Un piccolo [[archetypes/child|bambino]] li guiderà.”
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_thursday" data-title="To Dr. J. G. Holland, and Mrs. Holland, Thursday" data-chapter="" data-kind="intro" data-tags="motif/lamb,motif/death,concept/grief_and_loss,concept/immortality_divine,concept/faith,concept/friendship,form/letter,histref/the_bible,histref/christianity,character/jesus,cluster/child,cluster/orphan"></span>
@@ -379,7 +331,6 @@ I shall never forget the Doctor's [[motifs/prayer|prayer]], my first morning wit
 I am yearning to know if he knew he was fleeing—if he spoke to you. Dare I ask if he suffered? Some one will tell me a very little, when they have the strength. . . . Cling tight to the hearts that will not let you fall.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dopo un po’, caro, ricorderai che esiste un paradiso, ma adesso non puoi ancora saperlo. Gesù lo perdonerà; si ricorderà del suo [[motifs/lamb|agnello]] spogliato.
@@ -392,8 +343,6 @@ Non dimenticherò mai la preghiera del Dottore, quella mia prima mattina con te,
 
 Anelo a sapere se sapeva di stare fuggendo, se ha parlato con te. Oso chiederti: ha sofferto? Qualcuno mi dirà qualcosa, quando avrà la forza. Aggrappati forte ai cuori che non ti permetteranno di cadere.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_written_in_1861_on_the_b" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Written in 1861, on the birth of a son" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/flowers,motif/lamb,motif/wind,motif/childhood,concept/friendship,concept/childhood_and_growth,concept/hope,concept/joy,form/letter,histref/the_bible,setting/new_york,setting/new_england,cluster/child,cluster/orphan"></span>
@@ -408,7 +357,6 @@ Tell him I've got a pussy for him, with a spotted gown; and a dog with ringlets.
 We have very cold days since you went away, and I think you hear the [[motifs/wind|wind]] blow far as the Brevoort House, it comes from so far, and crawls so. Don't let it blow baby away. Will you call him Robert for me? He is the bravest man alive, but his boy has no mamma. That makes us all weep, don't it?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cara Mary, —Puoi lasciare la tua rosa per un po’ solo per guardare la mia?
@@ -419,8 +367,6 @@ Digli che ho per lui una gatta con un abito a macchie, e un cane con le ciocche.
 
 Da quando te ne sei andato, facciamo giorni molto freddi. Penso che tu possa sentire il [[motifs/wind|vento]] soffiare fino alla casa dei Brevoort: arriva da così lontano e si insinua lentamente. Non lasciare che ti porti via, piccolo mio. Potresti chiamarlo Robert per me? È l’uomo più coraggioso che esista, ma suo figlio non ha una mamma. Questo ci fa tutti piangere, vero?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/flowers,motif/memory,concept/memory,concept/grief_and_loss,concept/death,concept/immortality,form/lyric,form/elegy,form/letter,cluster/child,cluster/orphan"></span>
@@ -431,15 +377,12 @@ The following lines, sent with [[motifs/flowers|flowers]], have almost as quaint
 “A [[motifs/death|death]]-blow is a life-blow to some.” If recollecting were forgetting Then I remember not. And if forgetting, recollecting, How near I had forgot! And if to miss were merry, And if to mourn were gay, How very blithe the fingers That gathered this, to-day!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le seguenti righe, inviate insieme a [[motifs/flowers|fiori]], hanno un sapore quasi altrettanto caratteristico e tipico del “settecento” quanto la famosa quartina che inizia con.
 
 “Un colpo che uccide può essere un colpo che dona la vita per altri.” Se ricordare significasse dimenticare, allora non ricordo nulla. E se dimenticare fosse sinonimo di ricordare, quanto vicino sono stato a dimenticare tutto! E se perdere fosse gioioso, e se piangere fosse felice, che allegri sarebbero stati i miei “dita” oggi, mentre raccoglievano queste cose.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="motif/summer,motif/seasons,concept/death,concept/immortality,concept/grief_and_loss,concept/memory,form/elegy,form/lyric,form/letter,cluster/child,cluster/orphan"></span>
@@ -456,7 +399,6 @@ To remember our own Mr. Bowles is all we can do.
 With grief it is done, so warmly and long, it can never be new.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se moriremo, verrai a prenderci, proprio come fai per nostro padre?
@@ -469,8 +411,6 @@ Ricordare il nostro stesso signor Bowles è tutto ciò che possiamo fare.
 
 Fatto con dolore, così appassionatamente e a lungo, non potrà mai essere qualcosa di nuovo.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_1874" data-title="To the Misses, 1874" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/birds,motif/suffering,concept/friendship,concept/grief_and_loss,concept/faith,concept/mortality,form/letter,histref/the_bible,character/jesus,character/judas,cluster/child,cluster/orphan"></span>
@@ -481,15 +421,12 @@ Fatto con dolore, così appassionatamente e a lungo, non potrà mai essere qualc
 The loveliest sermon I ever heard was the disappointment of Jesus in Judas. It was told like a mortal story of intimate young men. I suppose no surprise we can ever have will be so sick as that. The last “I never knew you” may resemble it. I would your hearts could have rested from the first severity before you received this other one, but “not as I will.” I suppose the wild [[motifs/flowers|flowers]] encourage themselves in the dim woods, and the bird that is bruised limps to his house in [[motifs/silence|silence]], but we have human natures, and these are different. It is lovely that Mrs. W——did not disappoint you; not that I thought it possible, but you were so much grieved. . . . A finite life, little sister, is that peculiar garment that were it optional with us we might decline to wear. Tender words to L——, not most, I trust, in need of them.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 . Ero malato, sorellina, e ti scrivo solo ora che posso farlo.
 
 Il sermone più bello che abbia mai ascoltato è stato quello della delusione di Gesù nei confronti di Giuda. È stato raccontato come una storia umana, quella di due giovani legati da un rapporto intimo. Immagino che nessuna delusione umana possa essere più profonda di quella. Quel “Non ti conoscevo mai” potrebbe rappresentare esattamente questo sentimento. Vorrei che i vostri cuori avessero potuto riposare, dopo aver subito la prima ferita, prima di riceverne un’altra. Ma non è così che vuole il destino. Penso che le selvagge [[motifs/flowers|fioriture]] si incoraggino a vicenda nelle foreste oscure, e l’uccello ferito zoppichi silenziosamente verso casa sua. Ma noi abbiamo una natura umana, e questa è diversa. È bello che la signora W——non vi abbia deluso. Non che pensassi fosse possibile, ma eravate così addolorati. Una vita finita, sorellina, è davvero quel “vestito” particolare che, se potessimo scegliere, forse rifiuteremmo di indossare. Parole dolci per L——. Non credo che ne abbia davvero bisogno.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_saturday" data-title="To the Misses, Saturday" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/seed_and_germination,motif/death,concept/faith,concept/friendship,concept/resurrection,concept/charity,form/letter,histref/the_bible,character/paul,cluster/child,cluster/orphan"></span>
@@ -504,7 +441,6 @@ Maggie is making a flying visit to cattle-show, on her very robust wings—for M
 The little postman has come—Thomas's “second oldest,” and I close with reluctant and hurrying [[motifs/love|love]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cari amici, —se indugio, questa lettera non vi arriverà prima di [[characters/sunday|Domenica]]; se invece non lo faccio, dovrò scrivervi molto meno di quanto vorrei. “Fate agli altri ciò che vorreste fosse fatto a voi”. Preferirei davvero che mi trattassero in questo modo.
@@ -515,8 +451,6 @@ Maggie sta facendo una visita “volante” a un’esposizione di bestiame, util
 
 È arrivato il piccolo postino, il “secondo figlio” di Thomas. E con riluttanza e in fretta, concludo questo messaggio pieno d’[[motifs/love|amore]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/death,motif/flowers,concept/friendship,concept/faith,concept/charity,concept/immortality_divine,form/letter,character/marian_erle,cluster/child,cluster/orphan"></span>
@@ -525,13 +459,10 @@ Maggie sta facendo una visita “volante” a un’esposizione di bestiame, util
 DEAR L——,—Thank you, with [[motifs/love|love]], for the kindness; it would be very sweet to claim if we needed it, but we are quite strong, and mother [[motifs/well|well]] as usual, and Vinnie spectacular as Disraeli and sincere as [[characters/gladstone|Gladstone]],—was only sighing in fun. When she sighs in earnest, Emily's throne will tremble, and she will need both L——and F——; but Vinnie “still prevails.” When one or all of us are lain on “Marian Erle's dim pallet,” so cool that she deplored to live because that she must leave it, L——and the ferns, and F——and her fan shall supplement the angels, if they have not already joined them.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro L———, grazie, con [[motifs/love|affetto]], per la tua gentilezza; sarebbe molto bello poterla chiedere se ne avessimo bisogno, ma siamo abbastanza forti, e mamma sta bene come al solito. Vinnie, invece, è straordinaria come Disraeli e sincera come [[characters/gladstone|Gladstone]]; si limitava a sospirare per scherzo. Quando sospira seriamente, il trono di Emily tremerebbe. E allora avrebbe bisogno sia di L——— che di F———; ma Vinnie “vince comunque”. Quando uno di noi, o tutti noi, finiremo su quel letto freddo e buio descritto da Marian Erle – così freddo che ci dispiacerebbe vivere lì, allora L———, le felci, F——— e il suo ventaglio completeranno il lavoro degli angeli, se questi non ci avessero già raggiunti.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="motif/death,motif/animals,motif/summer,motif/prayer,concept/war_and_its_cost,concept/friendship,concept/immortality,concept/the_supernatural,concept/faith,form/letter,histref/american_civil_war,cluster/child,cluster/orphan"></span>
@@ -554,7 +485,6 @@ Not “[[concepts/revelation|Revelation]]” 'tis that waits, But our unfurnishe
 But I [[concepts/fear|fear]] I detain you. Should you, before this reaches you, experience [[concepts/immortality|Immortality]], who will inform me of the exchange? Could you, with honor, avoid [[motifs/death|death]], I entreat you, sir. It would bereave
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —non ritenevo che le forze planetarie fossero annullate, ma che avessero semplicemente subito uno scambio di territori, o di mondi.
@@ -573,8 +503,6 @@ Non è la [[concepts/revelation|Rivelazione]] ad aspettarci, ma i nostri occhi a
 
 Ma temo di trattenervi troppo a lungo. Se, prima che questa notizia vi raggiunga, doveste ottenere l’[[concepts/immortality|immortalità]], chi mi informerà riguardo allo scambio? Potreste, per favore, evitare la [[motifs/death|morte]]. Vi supplico, signore. Sarebbe un grande dolore.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson_early_summer_1880" data-title="To Mr. Thomas Wentworth Higginson, Early Summer, 1880" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,archetype/child,motif/flowers,motif/birds,motif/childhood,motif/grass,concept/childhood_and_growth,concept/grief_and_loss,concept/wonder,form/letter,setting/pastoral_countryside,cluster/child,cluster/orphan"></span>
@@ -587,7 +515,6 @@ DEAR FRIEND,—I was touchingly reminded of [a [[archetypes/child|child]] who ha
 I think it was Vaughan. . . .
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —stamattina una donna indiana con cesti colorati e un bambino adorabile mi ha ricordato commosso di [un [[archetypes/child|bambino]] che era morto]. Alla porta della cucina, lei disse che suo figlio “una volta era morto”, ma che la [[motifs/death|morte]] lo aveva liberato. Le chiesi cosa piacesse al bambino, e lei rispose: “Gli piace camminare”. La prateria davanti alla porta era piena di [[motifs/flowers|fiori]] di erba secca; la invitai ad entrare. Lei discuteva con gli [[motifs/birds|uccelli]], si appoggiava alle pareti fatte di trifoglio, e queste “pareti” crollavano, facendola cadere. Con un linguaggio dolce come una campanella, raccoglieva i girasoli, e insieme a loro affondava nel terreno; i girasoli, ovviamente, erano i più pesanti. Che meraviglioso modo di utilizzare le giornate! Fu osservando scene del genere che Vaughan disse con umiltà.
@@ -596,8 +523,6 @@ Caro amico, —stamattina una donna indiana con cesti colorati e un bambino ador
 
 Credo che fosse Vaughan.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_rev_perez_d_cowan_after_the_death_of_mr_co" data-title="To the Rev. Perez D. Cowan, After the death of Mr. Cowan's little daughter Margie November 8, 1879" data-chapter="" data-kind="intro" data-tags="motif/death,motif/prayer,concept/grief_and_loss,concept/faith,concept/friendship,form/letter,histref/christianity,cluster/child,cluster/orphan"></span>
@@ -610,7 +535,6 @@ Will it comfort my grieved cousin to know that Emily and Vinnie are among the on
 If you feel able, write a few words; if you do not—remember forgetting is a guile unknown to your faithful cousin
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Riuscirà a consolare mio cugino addolorato il sapere che Emily e Vinnie sono tra coloro che in questo momento pensano a lui con particolare tenerezza? E sua dolce moglie è forse troppo debole per ricordare a chi sia affidata la persona che ama?
@@ -619,8 +543,6 @@ Riuscirà a consolare mio cugino addolorato il sapere che Emily e Vinnie sono tr
 
 Se ti senti in grado, scrivi qualche parola; se no, ricorda che dimenticare è un trucco sconosciuto al tuo fedele cugino.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/forgiveness,concept/grief_and_loss,form/letter,cluster/child,cluster/orphan"></span>
@@ -633,7 +555,6 @@ They enter and then knock—then chide their ruthless sweetness, and then remain
 May these molest as fondly!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L’invadenza delle [[motifs/flowers|fiori]] è tollerata anche dai cuori più turbati.
@@ -642,8 +563,6 @@ Entrano, poi bussano; dopo si rimproverano per la loro “dolcezza spietata”, 
 
 Che questi atti molestatori possano avvenire con la stessa tenerezza.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/death,concept/memory,concept/immortality,form/lyric,form/letter,cluster/child,cluster/orphan"></span>
@@ -652,13 +571,10 @@ Che questi atti molestatori possano avvenire con la stessa tenerezza.
 The face in evanescence lain Is more distinct than ours, And ours, considered for its sake, As capsules are for [[motifs/flowers|flowers]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il volto che svanisce è più nitido del nostro; e il nostro, se considerato per sé stesso, è come delle capsule rispetto alle [[motifs/flowers|fiori]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney_1883" data-title="To Miss Maria Whitney, 1883?" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/flowers,motif/birds,motif/snow,motif/childhood,concept/friendship,concept/faith,concept/childhood_and_growth,concept/wonder,form/letter,histref/the_bible,setting/a_garden,character/solomon,character/jesus,cluster/child,cluster/orphan"></span>
@@ -681,7 +597,6 @@ I can easily imagine your fondness for the little life so mysteriously committed
 No ladder needs the bird but skies To situate its wings, Nor any leader's grim baton Arraigns it as it sings. The implements of bliss are few— As Jesus says of Him, “Come unto me” the moiety That wafts the cherubim.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, – non è forse un amico assente tanto misterioso quanto un bulbo sepolto nel terreno, e non è forse il bulbo la forma floreale più affascinante? Non deve aver incantato anche la [[historical-references/bible|Bibbia]], se possiamo dedurlo dalla sua scelta? “Il giglio del campo, ”
@@ -700,8 +615,6 @@ Posso facilmente immaginare il vostro affetto per quella piccola vita affidata m
 
 Nessuna scala ha bisogno dell’uccello per permettergli di dispiegare le ali; né il cupo bastone di alcun leader può costringerlo a smettere di cantare. Gli strumenti della felicità sono pochi. Come dice Gesù di sé stesso: “Venite a me”, voi che portate con voi la grazia che fa volare i cherubini.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/stars,motif/wind,motif/bells,concept/friendship,concept/faith,concept/memory,concept/grief_and_loss,form/letter,histref/the_bible,cluster/child,cluster/orphan"></span>
@@ -726,7 +639,6 @@ Where we thought you were, Austin says you are not. How strange to change one's 
 Vinnie gives her hand.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —Tu sei come [[characters/god|Dio]]. Preghiamo Lui, e Lui risponde “No”. Allora preghiamo di nuovo affinché revochi quel “No”, ma Lui non risponde affatto. Eppure “Cercate e troverete” è il dono della [[concepts/faith|fede]].
@@ -747,8 +659,6 @@ Dove pensavamo che fossi, Austin dice che non ci sei. Che strano cambiare il pro
 
 Vinnie le porge la mano.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney_1882" data-title="To Miss Maria Whitney, 1882" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/stars,motif/the_soul,concept/immortality,concept/death,concept/grief_and_loss,concept/memory,form/elegy,form/letter,cluster/child,cluster/orphan"></span>
@@ -761,7 +671,6 @@ Would you accept it because of him—
 Who abdicated ambush And went the way of dusk, And now, against his subtle name, There stands an asterisk As confident of him as we; Impregnable we are— The whole of [[concepts/immortality|Immortality]] Secreted in a star.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, – Un [[motifs/tree|-albero]] che tuo padre mi ha regalato ha prodotto questo fiore inestimabile.
@@ -770,8 +679,6 @@ Lo accetteresti per lui?
 
 Chi abdicò alle insidie e prese la strada del crepuscolo. Ora, contro il suo nome sottile, c’è un asterisco che ne testimonia l’esistenza con la stessa certezza nostra; siamo impenetrabili. L’intera [[concepts/immortality|immortalità]] è nascosta in una stella.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/childhood,motif/home,concept/childhood_and_growth,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
@@ -780,13 +687,10 @@ Chi abdicò alle insidie e prese la strada del crepuscolo. Ora, contro il suo no
 After the birth of Samuel Bowles the Fifth:
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dopo la nascita di Samuel Bowles il Quinto:
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="c_h_clark_june_7_1883" data-title="To Mr. C. H. Clark, June 7, 1883" data-chapter="" data-kind="intro" data-tags="motif/death,concept/death,concept/grief_and_loss,concept/friendship,concept/faith,concept/heroism_courage,form/letter,histref/christianity,cluster/child,cluster/orphan"></span>
@@ -801,7 +705,6 @@ I never had met your brother but once. An unforgotten once—to have seen him bu
 To know of you when possible would console us much, and every circumstance of him we had hoped to see. . . .
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, avevo la profonda [[concepts/hope|speranza]] di poter vedere tuo fratello prima che lasciasse questa vita, o meglio, prima che lasciasse quella vita che conosciamo. E fatico davvero a esprimere il dolore che provo nel rendersi conto che questa speranza non si realizzerà.
@@ -812,8 +715,6 @@ Non avevo mai incontrato tuo fratello, ma una volta. Un’occasione indimenticab
 
 Sapere di voi, quando possibile, ci consolerebbe molto; volevamo conoscere ogni dettaglio sulla sua situazione.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="and_mrs_j_l_jenkins_mrs_hanson_read_mrs_w_a_s_1872" data-title="To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, Mrs. A. B. H. Davis, Mrs. H. F. Hills, Mrs. Jameson, Mr. F. F. Emerson, Maggie Maher, Mr. and Mrs. George Montague, Mrs. W. F. Stearns, Mr. J. K. Chickering, Mrs. Joseph Sweetser, Mr. Thomas, Niles, Mrs. Carmichael, Dr. and Mrs. Thomas P. Field, Mr. Theodore Holland, “H. H.,” Miss Eugenia Hall, Mrs. E. P. Crowell, and Mrs. J. C. Greenough, 1872?" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/child,motif/childhood,concept/childhood_and_growth,concept/innocence_and_experience,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
@@ -824,15 +725,12 @@ HAPPY “DID” AND MAC,—We can offer you nothing so charming as your own hear
 DEAR BOYS,—Please never grow up, which is “far better.” Please never “improve”—you are perfect now.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Felice “Did” e Mac. Non possiamo offrirvi nulla di più affascinante dei vostri stessi cuori; cuori che cercheremmo di possedere, se solo avessimo le astuzie necessarie.
 
 Cari ragazzi, —per favore non crescete mai, perché è davvero “molto meglio”. Per favore non cercate mai di “migliorarvi”: siete già perfetti così come siete ora.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="and_mrs_j_l_jenkins_mrs_hanson_read_mrs_w_a_s" data-title="To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, Mrs. A. B. H. Davis, Mrs. H. F. Hills, Mrs. Jameson, Mr. F. F. Emerson, Maggie Maher, Mr. and Mrs. George Montague, Mrs. W. F. Stearns, Mr. J. K. Chickering, Mrs. Joseph Sweetser, Mr. Thomas, Niles, Mrs. Carmichael, Dr. and Mrs. Thomas P. Field, Mr. Theodore Holland, “H. H.,” Miss Eugenia Hall, Mrs. E. P. Crowell, and Mrs. J. C. Greenough" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/the_butterfly,motif/flowers,motif/childhood,concept/childhood_and_growth,concept/innocence_and_experience,concept/freedom,concept/joy,form/lyric,form/letter,cluster/child,cluster/orphan"></span>
@@ -853,7 +751,6 @@ KATIE “DID” FROM KATIE “DIDN'T”
 Will the sweet [[archetypes/child|child]] who sent me the butterflies, herself a member of the same ethereal nation, accept a rustic kiss, flavored, we trust, with clover?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Donne piccole,—che cosa scegliete, gerani o tulipani?
@@ -870,8 +767,6 @@ Katie “fece” contro Katie “non fece”
 
 Accetterà la dolce [[archetypes/child|bambina]] che mi ha mandato le farfalle, lei stessa membro della stessa nazione eterea, un bacio rustico, che, si spera, sia profumato di trifoglio?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="and_mrs_j_l_jenkins_mrs_hanson_read_mrs_w_a_s_december_1874" data-title="To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, Mrs. A. B. H. Davis, Mrs. H. F. Hills, Mrs. Jameson, Mr. F. F. Emerson, Maggie Maher, Mr. and Mrs. George Montague, Mrs. W. F. Stearns, Mr. J. K. Chickering, Mrs. Joseph Sweetser, Mr. Thomas, Niles, Mrs. Carmichael, Dr. and Mrs. Thomas P. Field, Mr. Theodore Holland, “H. H.,” Miss Eugenia Hall, Mrs. E. P. Crowell, and Mrs. J. C. Greenough, December, 1874" data-chapter="" data-kind="intro" data-tags="motif/childhood,motif/death,motif/winter,concept/childhood_and_growth,concept/memory,concept/faith,concept/grief_and_loss,form/letter,histref/the_bible,character/santa_claus,cluster/child,cluster/orphan"></span>
@@ -880,13 +775,10 @@ Accetterà la dolce [[archetypes/child|bambina]] che mi ha mandato le farfalle, 
 I am sure you must have remembered that father had “become as little children,” or you would never have dared send him a [[motifs/christmas|Christmas]] gift, for you know how he frowned upon Santa Claus, and all such prowling gentlemen.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sono sicuro che vi siate ricordati che quel padre era “diventato come dei bambini”, altrimenti non avreste mai osato inviargli un regalo di [[motifs/christmas|Natale]], perché sapete bene quanto disprezzasse Babbo Natale e tutti quegli individui che si aggirano di notte.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_edward_tuckerman" data-title="To Mrs. Edward Tuckerman" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/water,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
@@ -895,13 +787,10 @@ Sono sicuro che vi siate ricordati che quel padre era “diventato come dei bamb
 To the Same, sent with yellow [[motifs/flowers|flowers]] when the country was drenched in [[motifs/rain|rain]]
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Allo Stesso, inviato con fiori gialli quando il paese era immerso nella [[motifs/rain|pioggia]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_edward_tuckerman" data-title="To Mrs. Edward Tuckerman" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/friendship,concept/charity,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
@@ -910,13 +799,10 @@ Allo Stesso, inviato con fiori gialli quando il paese era immerso nella [[motifs
 Accompanying a box of the delicious chocolate caramels she
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 "Accompagnando una scatola di deliziose caramelle al cioccolato, lei..."
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_edward_tuckerman_january_1879" data-title="To Mrs. Edward Tuckerman, January, 1879" data-chapter="" data-kind="intro" data-tags="motif/summer,motif/disease_contagion,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
@@ -927,15 +813,12 @@ Your coming is a symptom of [[motifs/summer|summer]].
 The symptom excels the malady.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il tuo arrivo è un segno dell’arrivo dell’[[motifs/summer|estate]].
 
 Il sintomo è più evidente della malattia stessa.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_edward_tuckerman_september_1879" data-title="To Mrs. Edward Tuckerman, September, 1879" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/friendship,concept/fear,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
@@ -948,7 +831,6 @@ Should she, that also would be dismay.
 I incur the peril.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se cara signora Tuckerman non avesse delle pere come le mie, non smetterei mai di soffrire.
@@ -957,8 +839,6 @@ Se lo facesse, anche quello sarebbe motivo di disperazione.
 
 Corro il rischio.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_js_cooper" data-title="To Mrs. J.S. Cooper" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/immortality,concept/memory,concept/death,form/letter,cluster/child,cluster/orphan"></span>
@@ -969,15 +849,12 @@ And to another friend, about the same [[motifs/time|time]], she wrote:—
 Should it be possible for me to speak of my father before I behold him, I shall try to do so to you, whom he always remembered.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 E a un altro amico, più o meno nello stesso [[motifs/time|momento]], scrisse:—
 
 Se fosse possibile per me parlare di mio padre prima ancora di vederlo, cercherò di farlo con voi, che lui ha sempre ricordato.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_henry_hills" data-title="To Mrs. Henry Hills" data-chapter="" data-kind="intro" data-tags="motif/love,concept/friendship,concept/charity,concept/joy,form/aphorism,form/letter,cluster/child,cluster/orphan"></span>
@@ -986,13 +863,10 @@ Se fosse possibile per me parlare di mio padre prima ancora di vederlo, cercher�
 DEAR FRIENDS,—Even the simplest solace, with a loved aim, has a heavenly quality.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cari amici, —anche il più semplice conforto, se rivolto verso un obiettivo caro e amato, possiede una qualità divina.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_jameson" data-title="To Mrs. Jameson" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/animals,motif/childhood,concept/childhood_and_growth,concept/joy,form/letter,character/santa_claus,cluster/child,cluster/orphan"></span>
@@ -1001,13 +875,10 @@ Cari amici, —anche il più semplice conforto, se rivolto verso un obiettivo ca
 [[characters/arthur|Arthur]] forgot to set a trap for Santa Claus, but that industrious mouse will excuse him, if he will steal the cakes instead. And Annie.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[characters/arthur|Arthur]] dimenticò di preparare una trappola per Babbo Natale, ma quel topo laborioso gli perdonerà, se invece ruba i dolci. E anche Annie.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_rev_f_f_emerson" data-title="To the Rev. F. F. Emerson" data-chapter="" data-kind="intro" data-tags="concept/charity,concept/joy,concept/friendship,concept/wonder_and_gratitude,form/letter,cluster/child,cluster/orphan"></span>
@@ -1016,13 +887,10 @@ Cari amici, —anche il più semplice conforto, se rivolto verso un obiettivo ca
 Mother congratulates Mr. Emerson on the discovery of the “philosopher's stone.” She will never divulge it. It lay just where she thought it did—in making others happy.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La madre congratula il signor Emerson per la scoperta della “pietra filosofale”. Non la rivelerà mai. Si trovava esattamente dove lei pensava che fosse: nel rendere felici gli altri.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="and_mrs_george_montague_1881" data-title="To Mr. and Mrs. George Montague, 1881?" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/friendship,concept/charity,concept/joy,form/aphorism,form/letter,cluster/child,cluster/orphan"></span>
@@ -1031,14 +899,11 @@ La madre congratula il signor Emerson per la scoperta della “pietra filosofale
 DEAR COOUSIN,—Thank you for the delightful cake, and the heart adjacent.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro cugino,  
 grazie per la deliziosa torta, e anche per il biglietto che l’accompagnava.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_joseph_sweetser_november_1884" data-title="To Mrs. Joseph Sweetser, November, 1884" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/rose,motif/death,concept/immortality_divine,concept/faith,concept/friendship,concept/grief_and_loss,form/letter,histref/the_bible,histref/christianity,cluster/child,cluster/orphan"></span>
@@ -1055,7 +920,6 @@ More beating that brave heart has to do before the emerald recess.
 With sorrow for Emma's accident, and [[motifs/love|love]] for all who cherish you, including the roses, your velvet allies.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Carissima e adorabile zia Katie, —i tanto amati gigli sono arrivati, e il mio cuore è così pieno di gioia che trabocca. Poiché questa settimana era dedicata a nostra madre, ed era anche Pasqua a novembre.
@@ -1068,8 +932,6 @@ Quel coraggiovole cuore deve ancora subire molte prove prima di raggiungere quel
 
 Con tristezza per l'incidente di Emma, e con [[motifs/love|amore]] per tutti coloro che ti vogliono bene, inclusi i rossi, i tuoi alleati vellutati.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_joseph_sweetser" data-title="To Mrs. Joseph Sweetser" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/flowers,concept/faith,concept/friendship,concept/grief_and_loss,concept/immortality_divine,form/letter,histref/the_bible,cluster/child,cluster/orphan"></span>
@@ -1080,7 +942,6 @@ DEAR AUNT,—I have found and give it in [[motifs/love|love]], but reluctant to 
 With Vinnie's affection, in haste and fondness,
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cara zia,  
@@ -1088,8 +949,6 @@ l’ho trovata e te l’ho inviata con tutto il mio [[motifs/love|affetto]], ma 
 
 Con l'affetto di Vinnie, con fretta e tenerezza…
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_carmichael_1885" data-title="To Mrs. Carmichael, 1885?" data-chapter="" data-kind="intro" data-tags="motif/prayer,motif/death,concept/grief_and_loss,concept/friendship,concept/faith,concept/suffering,form/letter,histref/the_bible,cluster/child,cluster/orphan"></span>
@@ -1106,7 +965,6 @@ Let me [[concepts/hope|hope]] she is [[motifs/well|well]] to-day, and sheltered 
 We congratulate sweet Mrs. Skeel on her beloved booty, and ask a remembrance in her [[motifs/prayer|prayer]] for those of us bereaved.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il mio Vinnie, privo di console, mi convince della sfortuna di aver conosciuto la cara signora Carmichael, di cui “menzionare il nome è già un complimento”, perché in effetti, se entrambi fossimo persone sensibili e capaci di soffrire, temo che la gioia finirebbe per sopraffarci; ma quella “bella incertezza” mi aiuta, qualcosa che a Vinnie viene negato.
@@ -1119,8 +977,6 @@ Spero che oggi stia bene e sia protetta da tutta l’[[motifs/love|amore]] che m
 
 Congratuliamo la cara signora Skeel per il suo amato figlio e chiediamo che nel suo [[motifs/prayer|prego]] ricordi anche di noi che abbiamo perso qualcuno a cui volevamo bene.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="intro" data-title="To “H. H.”" data-chapter="" data-kind="intro" data-tags="motif/silence,concept/inexpressibility,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
@@ -1129,7 +985,6 @@ Congratuliamo la cara signora Skeel per il suo amato figlio e chiediamo che nel 
 SWEET FRIENDS,—I send a message by a mouth that cannot speak.
 
 The ecstasy to guess Were a receipted bliss If grace could talk.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1137,5 +992,3 @@ The ecstasy to guess Were a receipted bliss If grace could talk.
 Carissimi amici, —invio un messaggio attraverso una bocca che non può parlare.
 
 L’ebbrezza di indovinare, sarebbe una felicità concreta, se la grazia potesse parlare.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/joy-animals-comic-verse-song--poems" data-author="Dickinson" data-workhref="works/joy-·-animals-·-comic-verse-song-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 36. Snow flakes. · 111. The Bee is not afraid of me. · 125. For each ecstatic instant · 138. Pigmy seraphs — gone astray — · 167. To learn the Transport by the Pain · 184. A transport one cannot contain · 192. Poor little Heart! · 214. I taste a liquor never brewed · 230. We — Bee and I — live by the quaffing — · 329. So glad we are — a Stranger'd deem · 340. Is Bliss then, such Abyss, · 354. From Cocoon forth a Butterfly · 383. Exhilaration — is within — · 393. Did Our Best Moment last — · 507. She sights a Bird — she chuckles — · 533. Two butterflies went out at Noon — · 661. Could I but ride indefinite · 691. Would you like summer? Taste of ours. · 756. One Blessing had I than the rest · 774. It is a lonesome Glee — · 782. There is an arid Pleasure — · 787. Such is the Force of Happiness — · 839. Always Mine! · 1057. I had a daily Bliss · 1101. Between the form of Life and Life · 1107. The Bird did prance — the Bee did play — · 1118. Exhilaration is the Breeze · 1167. Alone and in a Circumstance · 1265. The most triumphant Bird I ever knew or met · 1388. Those cattle smaller than a Bee · 1405. Bees are Black, with Gilt Surcingles — · 1495. The Thrill came slowly like a Boom for · 1521. The Butterfly upon the Sky, · 1535. The Life that tied too tight escapes · 1575. The Bat is dun, with wrinkled Wings — · 1744. The joy that has no stem no core,
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="ow_flakes" data-title="36. Snow flakes." data-chapter="" data-kind="intro" data-tags="motif/winter,motif/nature,concept/joy,concept/wonder_and_gratitude,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
@@ -34,7 +31,6 @@ And ten of my once stately toes
 Are marshalled for a jig!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fiocchi di [[motifs/snow|Snow]].  
@@ -48,8 +44,6 @@ Che io deposi il pedante,
 E dieci mie dita un tempo maestose  
 Sono schierate per una giga!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_bee_is_not_afraid_of_me" data-title="111. The Bee is not afraid of me." data-chapter="" data-kind="intro" data-tags="motif/animals,motif/nature,motif/river,concept/joy,concept/wonder_and_gratitude,form/lyric,setting/pastoral_countryside,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -66,7 +60,6 @@ Wherefore, mine eyes, thy silver mists ?
 Wherefore, O [[motifs/summer|summer]]'s day ?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'ape non ha paura di me,  
@@ -79,8 +72,6 @@ le brezze giocano più folli.
 Perché, occhi miei, le vostre nebbie d'argento ?  
 Perché, o giorno d'[[motifs/summer|estate]] ?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_each_ecstatic_instant" data-title="125. For each ecstatic instant" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/joy,concept/melancholy,concept/grief_and_loss,concept/paradox,form/epigram,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -97,7 +88,6 @@ Bitter contested farthings —
 And Coffers heaped with [[motifs/tears|Tears]]!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Per ogni istante estatico  
@@ -110,8 +100,6 @@ Aspre elemosine di anni —
 Amari spiccioli contesi —  
 E Forzieri colmi di [[motifs/tears|Lacrime]]!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="gmy_seraphs_gone_astray" data-title="138. Pigmy seraphs — gone astray —" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/flowers,motif/clothing,concept/joy,concept/nature_vs_civilization,concept/humility,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -137,7 +125,6 @@ Royalty enough for me
 To subdue the Bumblebee.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Pigmei serafini — smarriti —  
@@ -159,8 +146,6 @@ Che essere "[[characters/duke-of-exeter|Duca di Exeter]]" —
 Regalità che a me basta  
 Il soggiogare il Bombo.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_learn_the_transport_by_the_pain" data-title="167. To learn the Transport by the Pain" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/eyes_sight,motif/music_and_song,concept/suffering_and_pain,concept/joy,concept/exile,concept/the_artist_and_society,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -187,7 +172,6 @@ To us — the duller scholars
 Of the Mysterious Bard!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Apprendere il Trasporto dalla [[motifs/pain|Pena]]  
@@ -210,8 +194,6 @@ Inudibile, invero,
 A noi — gli scolari più ottusi  
 Del Misterioso Bardo!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="transport_one_cannot_contain" data-title="184. A transport one cannot contain" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,concept/joy,concept/the_sublime,concept/faith,form/epigram,form/lyric,histref/christianity,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -228,7 +210,6 @@ With Holy [[motifs/ghosts|Ghosts]] in Cages!
 The Universe would go!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un trasporto che non si può contenere  
@@ -241,8 +222,6 @@ Sei soldi a uno Spettacolo —
 Con Santi [[motifs/ghosts|Spiriti]] in Gabbie!  
 L'Universo accorrerebbe!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="or_little_heart" data-title="192. Poor little Heart!" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/grief_and_loss,concept/melancholy,concept/unrequited_love,form/song,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -265,7 +244,6 @@ Like Morning Glory!
 [[motifs/wind|Wind]] and [[motifs/sun|Sun]] — wilt thee array!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Povero piccolo Cuore!  
@@ -284,8 +262,6 @@ Gaio piccolo Cuore —
 Come Gloria del Mattino!  
 [[motifs/wind|Vento]] e [[motifs/sun|Sole]] — ti adorneranno!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="taste_a_liquor_never_brewed" data-title="214. I taste a liquor never brewed" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/wine_and_drink,motif/nature,motif/seasons,motif/sun,concept/joy,concept/wonder_and_gratitude,form/hymn,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -312,7 +288,6 @@ To see the little tippler
 Leaning against the [[motifs/sun|sun]]!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 ASSAPORO un liquore mai distillato,  
@@ -335,8 +310,6 @@ E i santi correranno alle finestre,
 A vedere la piccola beona  
 Appoggiata contro il [[motifs/sun|sole]]!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_bee_and_i_live_by_the_quaffing" data-title="230. We — Bee and I — live by the quaffing —" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/wine_and_drink,motif/nature,motif/animals,motif/death,concept/joy,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -364,7 +337,6 @@ By a humming Coroner —
 In a By-Thyme!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Noi — Ape ed io — viviamo di bevute —  
@@ -388,8 +360,6 @@ Primi — al tino — e ultimi alla Vite —
 Da un ronzante Coroner —  
 In un Cespo di Timo!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_glad_we_are_a_strangerd_deem" data-title="329. So glad we are — a Stranger'd deem" data-chapter="" data-kind="intro" data-tags="concept/paradox,concept/grief_and_loss,concept/joy,concept/melancholy,concept/appearance_vs_reality,form/epigram,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -405,7 +375,6 @@ So similar — An Optizan
 Could not decide between —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Così lieti siamo — un Estraneo direbbe  
@@ -417,8 +386,6 @@ Poiché Dolore e [[concepts/joy|Gioia]] son fatti
 Così simili — che un Ottico  
 Non saprebbe scegliere fra loro —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_bliss_then_such_abyss" data-title="340. Is Bliss then, such Abyss," data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/desire,motif/clothing,concept/joy,concept/fate_and_free_will,form/epigram,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -442,7 +409,6 @@ The Lady [[motifs/cross|cross]], or not?
 Verdict for Boot!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È dunque la Beatitudine, tale Abisso,  
@@ -462,8 +428,6 @@ Di', Piede, decidi tu il punto —
 La Signora [[motifs/cross|attraversa]], o no?  
 Verdetto per lo Stivale!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="om_cocoon_forth_a_butterfly" data-title="354. From Cocoon forth a Butterfly" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/nature,motif/summer,motif/the_sea,concept/transience,concept/mortality,concept/nature_vs_civilization,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -501,7 +465,6 @@ And Afternoon — and Butterfly —
 Extinguished — in the [[motifs/sea|Sea]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dal Bozzolo fuori una Farfalla  
@@ -535,8 +498,6 @@ E gli Uomini che facevano il Fieno —
 E il Pomeriggio — e la Farfalla —  
 Si estinsero — nel [[motifs/sea|Mare]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="hilaration_is_within" data-title="383. Exhilaration — is within —" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,motif/bread_and_wine_eucharist,concept/joy,concept/self_and_soul,concept/imagination,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -558,7 +519,6 @@ Within his Closet — Best you can
 Exhale in offering.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Esaltazione — è dentro —  
@@ -576,8 +536,6 @@ Che possiede l'Ampio Reno
 Dentro il suo Stanzino — il Meglio che puoi  
 È esalare in offerta.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_our_best_moment_last" data-title="393. Did Our Best Moment last —" data-chapter="" data-kind="intro" data-tags="concept/grace_and_redemption,concept/joy,concept/transience,concept/self_and_soul,concept/despair,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -599,7 +557,6 @@ Withdraws — and [[motifs/leaves|leaves]] the dazzled [[motifs/soul|Soul]]
 In her unfurnished Rooms
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se durasse il Nostro Momento Migliore —  
@@ -617,8 +574,6 @@ Che Certo come Viene —
 Si ritira — e [[motifs/leaves|lascia]] l'[[motifs/soul|Anima]] abbagliata  
 Nelle sue Stanze non arredate
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sights_a_bird_she_chuckles" data-title="507. She sights a Bird — she chuckles —" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/birds,motif/desire,motif/nature,concept/the_natural_order,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -640,7 +595,6 @@ When Bliss disclosed a hundred Toes —
 And fled with every one —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Avvista un Uccello — ridacchia —  
@@ -658,8 +612,6 @@ Quasi vi bagnasti la Lingua —
 Quando la Beatitudine svelò cento Dita —  
 E fuggì con ognuna —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_butterflies_went_out_at_noon" data-title="533. Two butterflies went out at Noon —" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/the_sea,motif/sun_noon,motif/nature,concept/transience,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -681,7 +633,6 @@ By Frigate, or by Merchantman —
 No notice — was — to me —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Due farfalle uscirono a [[motifs/noon|Mezzogiorno]] —  
@@ -699,8 +650,6 @@ Se incontrate nell'Etereo [[motifs/sea|Mare]]
 Da Fregata, o da Mercantile —  
 Nessuna notizia — giunse — a me —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="uld_i_but_ride_indefinite" data-title="661. Could I but ride indefinite" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,archetype/rebel,motif/animals,motif/flowers,motif/the_journey,concept/freedom,concept/nature_vs_civilization,concept/alienation,concept/joy,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -730,7 +679,6 @@ What [[concepts/liberty|Liberty]]! So Captives deem
 Who tight in Dungeons are.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Potessi solo vagare indefinita  
@@ -756,8 +704,6 @@ E ancorare "al largo della Barra"
 Che [[concepts/liberty|Libertà]]! Così pensano i Prigionieri  
 Che stretti stanno in Segrete.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="uld_you_like_summer_taste_of_ours" data-title="691. Would you like summer? Taste of ours." data-chapter="" data-kind="intro" data-tags="motif/summer,motif/seasons,motif/flowers,motif/rose,concept/joy,concept/wonder_and_gratitude,concept/beauty,concept/mortality,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -774,7 +720,6 @@ Even for [[motifs/death|Death]], a fairy medicine.
 But, which is it, sir?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vorreste l'[[motifs/summer|estate]]? Assaggiate la nostra.  
@@ -787,8 +732,6 @@ Svenuto! Fiasche d'aria!
 Persino per la [[motifs/death|Morte]], una medicina di fata.  
 Ma, qual è, signore?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_blessing_had_i_than_the_rest" data-title="756. One Blessing had I than the rest" data-chapter="" data-kind="intro" data-tags="concept/joy,concept/paradox,concept/wonder_and_gratitude,concept/immortality,concept/self_and_soul,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -820,7 +763,6 @@ Why Floods be served to Us — in Bowls —
 I speculate no more —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Benedizione ebbi io più delle altre  
@@ -848,8 +790,6 @@ Perché il Paradiso differire —
 Perché Diluvi ci siano serviti — in Ciotole —  
 Io non speculo più —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_is_a_lonesome_glee" data-title="774. It is a lonesome Glee —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/music_and_song,motif/wind,concept/joy,concept/the_sublime,concept/loneliness,concept/wonder_and_gratitude,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -866,7 +806,6 @@ Arrestless as invisible —
 A matter of the Skies.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È una Gioia solitaria —  
@@ -879,8 +818,6 @@ Diletto senza una Causa —
 Incoercibile quanto invisibile —  
 Cosa che è dei Cieli.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ere_is_an_arid_pleasure" data-title="782. There is an arid Pleasure —" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/flowers,concept/joy,concept/paradox,concept/melancholy,concept/appearance_vs_reality,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -897,7 +834,6 @@ The finest Honey — curdled —
 Is worthless — to the Bee —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 C'è un arido Piacere —  
@@ -910,8 +846,6 @@ E uno — i [[motifs/flowers|Fiori]] lo aborrono —
 Il Miele più fine — cagliato —  
 È senza valore — per l'Ape —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ch_is_the_force_of_happiness" data-title="787. Such is the Force of Happiness —" data-chapter="" data-kind="intro" data-tags="concept/joy,concept/suffering,concept/paradox,concept/melancholy,form/lyric,form/aphorism,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -928,7 +862,6 @@ Too infinite for Consciousness'
 Slow capabilities.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tale è la Forza della Felicità —  
@@ -941,8 +874,6 @@ Il Carico di Se Stessi —
 Troppo infinito per le lente  
 Capacità della Coscienza.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ways_mine" data-title="839. Always Mine!" data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/sun,motif/seasons,concept/joy,concept/grace_and_redemption,concept/love_romantic,form/hymn,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -960,7 +891,6 @@ Yet upon His Purple Programme
 Every [[motifs/dawn|Dawn]], is first.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sempre Mio!  
@@ -974,8 +904,6 @@ Antico, invero, l'Oriente,
 Eppure sul Suo Programma di Porpora  
 Ogni [[motifs/dawn|Alba]], è la prima.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="had_a_daily_bliss" data-title="1057. I had a daily Bliss" data-chapter="" data-kind="intro" data-tags="concept/joy,concept/paradox,concept/grief_and_loss,concept/nostalgia,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -992,7 +920,6 @@ Increased beyond my utmost scope
 I learned to estimate.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Avevo una Beatitudine quotidiana  
@@ -1005,8 +932,6 @@ Svanì dalla mia vista
 Accresciuta oltre la mia estrema portata  
 Imparai a stimare.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="tween_the_form_of_life_and_life" data-title="1101. Between the form of Life and Life" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/joy,concept/appearance_vs_reality,concept/transience,form/epigram,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1022,7 +947,6 @@ The corkless is superior —
 I know for I have tried
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tra la forma di Vita e la Vita  
@@ -1034,8 +958,6 @@ Ma per estatico bisogno
 Quello senza tappo è superiore —  
 Lo so perché ho provato
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_bird_did_prance_the_bee_did_play" data-title="1107. The Bird did prance — the Bee did play —" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/birds,motif/sun,motif/insects,concept/joy,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1057,7 +979,6 @@ A Caspian were crowded —
 Too near thou art for Fame —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Uccello caracollava — l'Ape giocava —  
@@ -1075,8 +996,6 @@ Erano mari da [[motifs/cross|attraversare]] per giungere
 Un Caspio sarebbe affollato —  
 Troppo vicina sei per la Fama —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="hilaration_is_the_breeze" data-title="1118. Exhilaration is the Breeze" data-chapter="" data-kind="intro" data-tags="motif/wind,concept/joy,concept/the_sublime,concept/transience,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1093,7 +1012,6 @@ A little newer for the term
 Upon Enchanted Ground —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Esultanza è la Brezza  
@@ -1106,8 +1024,6 @@ Sobriamente discendiamo
 Un poco più nuovi per quella sosta  
 Su Suolo Incantato —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="one_and_in_a_circumstance" data-title="1167. Alone and in a Circumstance" data-chapter="" data-kind="intro" data-tags="archetype/trickster,motif/animals,motif/time,concept/identity,concept/alienation,concept/satire_of_society,form/lyric,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1145,7 +1061,6 @@ By spider, or forbid it Lord
 That I should specify.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sola e in una Circostanza  
@@ -1179,8 +1094,6 @@ Quel midollo del Giorno
 Da ragno, o lo vieti il Signore  
 Che io lo specifichi.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_most_triumphant_bird_i_ever_knew_or_met" data-title="1265. The most triumphant Bird I ever knew or met" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/birds,motif/music_and_song,motif/nature,concept/joy,concept/transience,concept/wonder_and_gratitude,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1197,7 +1110,6 @@ To what delicious Accident
 Does finest Glory fit!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Uccello più trionfante che mai conobbi o incontrai  
@@ -1210,8 +1122,6 @@ Si ritirò, e riprese il suo transitivo Stato —
 A quale delizioso Accidente  
 S'addice la Gloria più fina!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ose_cattle_smaller_than_a_bee" data-title="1388. Those cattle smaller than a Bee" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/animals,concept/the_natural_order,concept/justice,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1235,7 +1145,6 @@ To [[concepts/nature|Nature]] we remand them
 To justify or scourge —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quel bestiame più piccolo d'un'Ape  
@@ -1255,8 +1164,6 @@ Inadatti a giudicare
 Alla [[concepts/nature|Natura]] li rimandiamo  
 Perché li giustifichi o flagelli —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="es_are_black_with_gilt_surcingles" data-title="1405. Bees are Black, with Gilt Surcingles —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/animals,motif/nature,concept/the_natural_order,form/epigram,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1273,7 +1180,6 @@ Jugs — a Universe's fracture
 Could not jar or spill.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le [[motifs/bees|Api]] sono Nere, con Sottopance Dorate —  
@@ -1286,8 +1192,6 @@ Midolli della [[motifs/hill|Collina]].
 Giare — che la frattura di un Universo  
 Non potrebbe scuotere né versare.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_thrill_came_slowly_like_a_boom_for" data-title="1495. The Thrill came slowly like a Boom for" data-chapter="" data-kind="intro" data-tags="motif/water,concept/joy,concept/wonder_and_gratitude,concept/melancholy,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1303,7 +1207,6 @@ And stood arrayed before the Change
 In ravished Holiness —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Brivido venne lento come un Boato da  
@@ -1315,8 +1218,6 @@ Mentre l'Estasi mutava la sua Veste
 E stava adorna dinanzi al Mutamento  
 In rapita Santità —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_butterfly_upon_the_sky" data-title="1521. The Butterfly upon the Sky," data-chapter="" data-kind="intro" data-tags="motif/animals,concept/freedom,concept/grief_and_loss,concept/the_natural_order,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1332,7 +1233,6 @@ So soar away and never sigh
 And that's the way to grieve —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Farfalla sopra il Cielo,  
@@ -1344,8 +1244,6 @@ E più alta, io credo,
 Perciò vola via e non sospirare mai  
 E questo è il modo di piangere —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_life_that_tied_too_tight_escapes" data-title="1535. The Life that tied too tight escapes" data-chapter="" data-kind="intro" data-tags="archetype/rebel,motif/horse,motif/animals,concept/freedom,concept/self_and_soul,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1361,7 +1259,6 @@ Will be retaken with a shot
 If he is caught at all —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Vita che legata troppo stretta sfugge  
@@ -1373,8 +1270,6 @@ E vede sorridere i Pascoli
 Sarà ripreso con uno sparo  
 Se mai verrà catturato —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_bat_is_dun_with_wrinkled_wings" data-title="1575. The Bat is dun, with wrinkled Wings —" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/the_uncanny,concept/providence,concept/wonder_and_gratitude,form/riddle,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1401,7 +1296,6 @@ Beneficent, believe me,
 His Eccentricities —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Pipistrello è bruno, con Ali raggrinzite —  
@@ -1424,8 +1318,6 @@ Ascrivi non di meno la lode —
 Benefiche, credimi,  
 Le sue Eccentricità —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_joy_that_has_no_stem_no_core" data-title="1744. The joy that has no stem no core," data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/joy,concept/paradox,concept/transience,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -1440,7 +1332,6 @@ By fundamental palates
 Those products are preferred  
 Impregnable to transit  
 And patented by pod.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1454,5 +1345,3 @@ Da palati fondamentali
 Son preferiti quei prodotti  
 Inespugnabili al transito  
 E brevettati dal baccello.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

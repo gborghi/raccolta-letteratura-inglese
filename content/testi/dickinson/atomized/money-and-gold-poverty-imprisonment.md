@@ -29,7 +29,6 @@ At some imposing [[motifs/door|door]]!
 Smiling when we walk barefoot  
 Upon their golden floor!
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -42,8 +41,6 @@ Sorridendo, mentre chiedono un'elemosina —
 A qualche imponente [[motifs/door|porta]]!  
 Sorridendo quando camminiamo scalzi  
 Sul loro pavimento d'oro!
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -60,7 +57,6 @@ You have passed enfranchised feet!
 Anecdotes of air in Dungeons  
 Have sometimes proved deadly sweet!
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -73,8 +69,6 @@ Cauto, accenna a qualunque Prigioniero
 Che sei passato con piedi affrancati!  
 Aneddoti d'aria nelle Segrete  
 Si son rivelati a volte mortalmente dolci!
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -96,7 +90,6 @@ The Good Man's — "Dividend" —
 And Bad Men — "go to Jail" —  
 I guess —
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -114,8 +107,6 @@ E dopo — c'è il Cielo —
 Il "Dividendo" — dell'Uomo Buono —  
 E i Malvagi — "vanno in Prigione" —  
 Suppongo —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -132,7 +123,6 @@ In far — Bolivian Ground —
 Misfortune hath no implement  
 Could mar it — if it found —
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -145,8 +135,6 @@ Un Diamante — raggiunga
 In lontano — Suolo Boliviano —  
 Sventura non ha strumento  
 Che possa guastarlo — se lo trovasse —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -163,7 +151,6 @@ Expend their furthest pound —
 Of this Man — I am wary —  
 I [[concepts/fear|fear]] that He is Grand —
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -176,8 +163,6 @@ Ma Colui che pesa — Mentre gli Altri —
 Spendono la loro estrema libbra —  
 Di quest'Uomo — io diffido —  
 Io [[concepts/fear|temo]] che Egli sia Grande —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -204,7 +189,6 @@ Of the Heavenly Grace —
 But reduce no Human Spirit  
 To Disgrace of Price —
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -227,8 +211,6 @@ Nel Pacco — Siate il Mercante
 Della Grazia Celeste —  
 Ma non riducete Spirito Umano  
 Alla Disgrazia del Prezzo —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -265,7 +247,6 @@ Enlightening so [[motifs/well|well]] —
 I know not which, [[motifs/desire|Desire]], or Grant —  
 Be wholly beautiful —
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -298,8 +279,6 @@ Quanto più adatte saranno — per il Bisogno —
 Che illumina così [[motifs/well|bene]] —  
 Non so quale, [[motifs/desire|Desiderio]], o Dono —  
 Sia interamente bello —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -316,7 +295,6 @@ An Income in the Air,
 Possession — has a sweeter chink  
 Unto a Miser's Ear —
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -329,8 +307,6 @@ Tenere una Contea fuori di vista,
 Una Rendita nell'Aria,  
 Il Possesso — ha un tintinnio più dolce  
 All'Orecchio d'un Avaro —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -346,7 +322,6 @@ More arduous there is —
 That one should comprehend the worth  
 Was all the price there was —
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -358,8 +333,6 @@ Ché il suo prezzo non era d'Oro —
 Ve n'è di più arduo —  
 Che uno ne comprendesse il valore  
 Era tutto il prezzo che c'era —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -373,7 +346,6 @@ And I am richer then than all my Fellow Men —
 Ill it becometh me to dwell so wealthily  
 When at my very [[motifs/door|Door]] are those possessing more,  
 In abject [[concepts/poverty|poverty]] —
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -385,5 +357,3 @@ E sono allora più ricca di tutti i miei Simili —
 Mal si addice a me dimorare così riccamente  
 Quando alla mia stessa [[motifs/door|Porta]] stanno quelli che posseggono di più,  
 In abietta [[concepts/poverty|povertà]] —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

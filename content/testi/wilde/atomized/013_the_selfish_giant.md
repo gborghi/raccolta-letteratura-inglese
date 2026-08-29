@@ -49,7 +49,6 @@ Downstairs ran the Giant in great joy, and out into the [[motifs/garden|garden]]
 “Who art thou?” said the Giant, and a strange awe fell on him, and he knelt before the little [[archetypes/child|child]].
 And the [[archetypes/child|child]] smiled on the Giant, and said to him, “You let me play once in your [[motifs/garden|garden]], to-day you shall come with me to my [[motifs/garden|garden]], which is Paradise.”
 And when the children ran in that afternoon, they found the Giant lying dead under the tree, all covered with white blossoms.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -83,5 +82,3 @@ Giù al piano di sotto, il Gigante correva felicissimo e uscì nel [[motifs/gard
 “Chi sei tu?” chiese il Gigante, e un senso di timore strano lo invase; si inginocchiò davanti al piccolo [[archetypes/child|bambino]].  
 Il [[archetypes/child|bambino]] sorrise al Gigante e gli disse: “Mi hai permesso di giocare nel tuo [[motifs/garden|jardino]]; oggi tu verrai con me nel mio [[motifs/garden|jardino]], che è il Paradiso.”  
 Quel pomeriggio, quando i bambini corsero lì, trovarono il Gigante morto sotto l’albero, completamente coperto di fiori bianchi.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

@@ -14,7 +14,6 @@ tags:
 <span class="atom-split" data-atom="020_lord_arthur_saviles_crime" data-title="Lord Arthur Savile's Crime" data-chapter="" data-kind="intro"></span>
 
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -239,8 +238,6 @@ Quando il matrimonio ebbe luogo, circa tre settimane dopo, la chiesa di San Piet
 “Mio caro Lord Arthur. A cosa la devi?”  
 “A te, Sybil, ” rispose, porgendo le rose a sua moglie e guardandola negli occhi viola.  
 “Che sciocchezza!” esclamò Lady Windermere. “Non ho mai sentito una stupidaggine del genere in tutta la mia vita, ”
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -342,7 +339,6 @@ Mr. Podgers glanced nervously round, and drew the heavy portière across the doo
 Mr. Podgers smiled, drew from his breast-pocket a small magnifying glass, and wiped it carefully with his handkerchief
 ‘I am quite ready,’ he said.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -437,8 +433,6 @@ Il signor Podgers guardò intorno con nervosismo e chiuse accuratamente la porta
 “Sbrigatevi, per favore!” insistette Lord [[characters/arthur|Arthur]], battendo rabbiosamente il piede sul pavimento lucido.  
 Il signor Podgers sorrise, tirò fuori dalla tasca un piccolo microscopio e lo pulì con cura con il fazzoletto.  
 “Sono completamente pronto,” disse.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -456,7 +450,6 @@ The thought made him sick with horror.  He turned on his heel, and hurried on i
 Where he went he hardly knew.  He had a dim [[motifs/memory|memory]] of wandering through a labyrinth of sordid houses, of being lost in a giant web of sombre streets, and it was bright [[motifs/dawn|dawn]] when he found himself at last in Piccadilly Circus.  As he strolled [[motifs/home|home]] towards Belgrave Square, he met the great waggons on their way to Covent [[motifs/garden|Garden]].  The white-smocked carters, with their pleasant sunburnt faces and coarse curly hair, strode sturdily on, cracking their whips, and calling out now and then to each other; on the back of a huge grey [[motifs/horse|horse]], the leader of a jangling team, sat a chubby boy, with a bunch of primroses in his battered hat, keeping tight hold of the mane with his little hands, and laughing; and the great piles of vegetables looked like masses of jade against the morning sky, like masses of green jade against the pink petals of some marvellous [[motifs/rose|rose]].  Lord [[characters/arthur|Arthur]] felt curiously affected, he could not tell why.  There was something in the [[motifs/dawn|dawn]]’s delicate loveliness that seemed to him inexpressibly pathetic, and he thought of all the days that break in [[concepts/beauty|beauty]], and that set in [[motifs/storm|storm]].  These rustics, too, with their rough, good-humoured voices, and their nonchalant ways, what a strange [[settings/london|London]] they saw!  A [[settings/london|London]] free from the sin of [[motifs/night|night]] and the smoke of day, a pallid, [[archetypes/ghost|ghost]]-like [[motifs/city|city]], a desolate town of tombs!  He wondered what they thought of it, and whether they knew anything of its splendour and its shame, of its fierce, fiery-coloured joys, and its horrible hunger, of all it makes and mars from morn to eve.  Probably it was to them merely a mart where they brought their fruits to sell, and where they tarried for a few hours at most, leaving the streets still silent, the houses still asleep.  It gave him pleasure to watch them as they went by.  Rude as they were, with their heavy, hob-nailed shoes, and their awkward gait, they brought a little of a ready with them.  He felt that they had lived with [[concepts/nature|Nature]], and that she had taught them peace.  He envied them all that they did not know.
 By the [[motifs/time|time]] he had reached Belgrave Square the sky was a faint blue, and the [[motifs/birds|birds]] were beginning to twitter in the gardens.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -470,8 +463,6 @@ Dopo un po’ si trovò di fronte alla chiesa di Marylebone. La strada silenzios
 Non sapeva quasi dove stesse andando. Aveva solo un vago ricordo di essersi aggirato in un labirinto di case squallide, di essere perso in una rete di strade oscure; fu solo all’alba che si ritrovò finalmente al Piccadilly Circus. Mentre tornava a casa, verso Belgrave Square, incontrò i grandi carri diretti al Covent Garden. I conducenti, con le loro facce abbronzate e i capelli ricci e ruvidi, camminavano con passo deciso, schioccando le fruste e chiamandosi a vicenda; sul dorso di un enorme cavallo grigio sedeva un bambino paffuto, con un mazzo di primule nel cappello logoro, che stringeva forte la criniera con le sue manine e rideva. I grandi mucchi di verdure sembravano masse di giada contro il cielo mattutino, come blocchi di giada verde accanto ai petali rosa di una meravigliosa [[motifs/rose|rosa]]. Lord [[characters/arthur|Arthur]] si sentì stranamente commosso, senza riuscire a spiegarsi il motivo. C’era qualcosa nella delicata bellezza dell’alba che gli sembrava indescrivibilmente commovente; pensò a tutti quei giorni che iniziano nella [[concepts/beauty|bellezza]] e poi si trasformano in [[motifs/storm|tempesta]].
 Anche questi contadini, con le loro voci ruvide e cordiali, e i loro modi disinvolti, che strana [[settings/london|Londra]] vedevano! Una [[settings/london|Londra]] libera dal peccato della [[motifs/night|notte]] e dal fumo del giorno, una città pallida, simile a un [[archetypes/ghost|fantasma]], una città desolata di tombe. Gli chiedeva cosa ne pensassero, se conoscessero anche solo la sua magnificenza e il suo disonore, le sue gioie violente e i suoi orribili mali, tutto ciò che essa crea e distrugge dal mattino alla sera. Probabilmente, per loro, era soltanto un mercato dove portavano a vendere i loro frutti, e dove trascorrevano al massimo poche ore, lasciando le strade silenziose e le case immerse nel sonno. Gli piaceva osservarli mentre passavano. Per quanto rozzi fossero, con i loro scarponi pesanti e chiodati, e il loro modo goffo di camminare, portavano con sé un’aria di serenità. Sentiva che avevano vissuto in armonia con la [[concepts/nature|Natura]], e che essa gli aveva insegnato la pace. Li invidiava per tutto ciò che loro non sapevano.
 Quando arrivò a Belgrave Square, il cielo era di un blu tenue e gli [[motifs/birds|uccelli]] avevano già iniziato a cinguettare nei giardini.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -511,7 +502,6 @@ That [[motifs/night|night]] he had an interview with [[characters/sybil-merton|S
 The scene took place in the conservatory of Mr. Merton’s house, in Park Lane, where Lord [[characters/arthur|Arthur]] had dined as usual.  Sybil had never seemed more happy, and for a moment Lord [[characters/arthur|Arthur]] had been tempted to play the coward’s part, to write to Lady Clementina for the pill, and to let the [[motifs/marriage|marriage]] go on as if there was no such person as Mr. Podgers in the world.  His better [[concepts/nature|nature]], however, soon asserted itself, and even when Sybil flung herself weeping into his arms, he did not falter.  The [[concepts/beauty|beauty]] that stirred his senses had touched his [[concepts/conscience|conscience]] also.  He felt that to wreck so fair a life for the sake of a few months’ pleasure would be a wrong thing to do.
 He stayed with Sybil till nearly midnight, comforting her and being comforted in turn, and early the next morning he left for [[settings/venice|Venice]], after writing a manly, firm letter to Mr. Merton about the necessary postponement of the [[motifs/marriage|marriage]].
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -540,8 +530,6 @@ Lord [[characters/arthur|Arthur]] lasciò la casa in uno stato di grande allegri
 Quella [[motifs/night|notte]] ebbe un colloquio con [[characters/sybil-merton|Sybil Merton]]. Le raccontò di essere stato improvvisamente messo in una situazione terribilmente difficile dalla quale né l’[[concepts/honour|onore]] né il dovere gli permettevano di ritirarsi. Le spiegò che il [[motifs/marriage|matrimonio]] doveva essere rimandato per il momento, poiché finché non si fosse liberato da quelle difficoltà, non sarebbe stato un uomo libero. La pregò di fidarsi di lui e di non avere dubbi sul futuro: tutto si sarebbe risolto, ma era necessaria pazienza.  
 La scena ebbe luogo nel giardino d’inverno della casa del signor Merton, in Park Lane, dove Lord [[characters/arthur|Arthur]] aveva cenato come al solito. Sybil non sembrava mai stata più felice, e per un momento Lord [[characters/arthur|Arthur]] fu tentato di comportarsi da codardo, di scrivere a Lady Clementina chiedendole il “farmaco” necessario per proseguire con il [[motifs/marriage|matrimonio]], come se non esistesse affatto il signor Podgers. Tuttavia, la sua parte migliore prevalse presto: anche quando Sybil si gettò in lacrime tra le sue braccia, lui non vacillò. La [[concepts/beauty|bellezza]] che aveva commosso i suoi sensi aveva toccato anche la sua [[concepts/conscience|conscienza]]. Sentì che distruggere una vita così bella per il piacere di pochi mesi sarebbe stato un atto sbagliato.  
 Rimase con Sybil fino a quasi mezzanotte, consolandola e ricevendo a sua volta conforto; la mattina seguente partì per [[settings/venice|Venezia]], dopo aver scritto una lettera decisa e risoluta al signor Merton riguardo al necessario rinvio del [[motifs/marriage|matrimonio]].
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -631,7 +619,6 @@ Lord [[characters/arthur|Arthur]] rushed out of the club with the paper still in
 ‘My dear Sybil,’ cried Lord [[characters/arthur|Arthur]], ‘let us be married to-morrow!’
 ‘You foolish boy!  Why, the cake is not even ordered!’ said Sybil, laughing through her [[motifs/tears|tears]].
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -708,8 +695,6 @@ Lord [[characters/arthur|Arthur]] si fermò. Gli balenò in mente un’idea geni
 Lord [[characters/arthur|Arthur]] uscì di corsa dal club con il foglio ancora in mano, suscitando grande meraviglia nel portiere del club, che cercò invano di fermarlo; poi si diresse immediatamente verso Park Lane. Sybil lo vide dalla [[motifs/window|finestra]] e qualcosa le fece intuire che portasse buone notizie. Corse giù ad incontrarlo e, vedendo il suo viso, capì che tutto andava [[motifs/well|bene]].  
 “Mia cara Sybil,” esclamò Lord [[characters/arthur|Arthur]], “sposiamoci domani!”  
 “Ma ragazzo mio! Il dolce non è nemmeno stato ordinato ancora!” disse Sybil, ridendo tra le lacrime.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -735,7 +720,6 @@ Some years afterwards, when two beautiful children had been born to them, [[char
 ‘My dear Lord [[characters/arthur|Arthur]], what do you owe to it?’
 ‘Sybil,’ he answered, handing his wife the roses, and looking into her violet eyes.
 ‘What nonsense!’ cried [[characters/lady-windermere|Lady Windermere]].  ‘I never heard such nonsense in all my life.’
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -758,5 +742,3 @@ Quando il matrimonio ebbe luogo, circa tre settimane dopo, la chiesa di San Piet
 “Mio caro Lord Arthur. A cosa la devi?”  
 “A te, Sybil, ” rispose, porgendo le rose a sua moglie e guardandola negli occhi viola.  
 “Che sciocchezza!” esclamò Lady Windermere. “Non ho mai sentito una stupidaggine del genere in tutta la mia vita, ”
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

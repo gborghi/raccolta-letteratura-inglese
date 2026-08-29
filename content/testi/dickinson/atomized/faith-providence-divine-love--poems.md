@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/faith-providence-divine-love--poems" data-author="Dickinson" data-workhref="works/faith-·-providence-·-divine-love-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 7. The feet of people walking home · 9. Through lane it lay — through bramble — · 40. When I count the seeds · 164. Mama never forgets her birds, · 193. I shall know why — when Time is over — · 324. Some keep the Sabbath going to Church — · 350. They leave us with the Infinite. · 357. God is a distant — stately Lover — · 359. I gained it so — · 370. Heaven is so far of the Mind · 377. To lose one's faith — surpass · 392. Through the Dark Sod — as Education — · 420. You'll know it — as you know 'tis Noon — · 463. I live with Him — I see His face — · 487. You love the Lord — you cannot see — · 538. 'Tis true — They shut me in the Cold — · 545. 'Tis One by One — the Father counts — · 550. I cross till I am weary · 555. Trust in the Unexpected — · 603. He found my Being — set it up — · 623. It was too late for Man — · 626. Only God — detect the Sorrow — · 680. Each Life Converges to some Centre — · 694. The Heaven vests for Each · 703. Out of sight? What of that? · 724. It's easy to invent a Life — · 740. You taught me Waiting with Myself — · 817. Given in Marriage unto Thee · 820. All Circumstances are the Frame · 827. The Only News I know · 848. Just as He spoke it from his Hands · 871. The Sun and Moon must make their haste — · 968. Fitter to see Him, I may be · 1010. Up Life's Hill with my little Bundle · 1021. Far from Love the Heavenly Father · 1052. I never saw a Moor — · 1055. The Soul should always stand ajar · 1162. The Life we have is very great. · 1178. My God — He sees thee — · 1204. Whatever it is — she has tried it — · 1262. I cannot see my soul but know 'tis there · 1433. How brittle are the Piers · 1442. To mend each tattered Faith · 1450. The Road was lit with Moon and star — · 1500. It came his turn to beg — · 1555. I groped for him before I knew · 1769. The longest day that God appoints
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="e_feet_of_people_walking_home" data-title="7. The feet of people walking home" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/the_sea,concept/immortality,concept/faith,concept/grace_and_redemption,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
 
 
@@ -50,7 +47,6 @@ Which from it's solemn abbeys -
 Such [[concepts/resurrection|resurrection]] pours!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I piedi di chi cammina verso [[motifs/home|casa]]  
@@ -80,8 +76,6 @@ La mia [[concepts/faith|fede]] che il Buio adora -
 Che dalle sue solenni abbazie -  
 Tale [[concepts/resurrection|resurrezione]] riversa!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rough_lane_it_lay_through_bramble" data-title="9. Through lane it lay — through bramble —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,archetype/pilgrim,archetype/child,motif/the_road,motif/animals,motif/serpent_snake,motif/storm,form/allegory,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -106,7 +100,6 @@ This was the [[motifs/road|road]]
 These Children fluttered [[motifs/home|home]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Per viottoli correva - per rovi -  
@@ -127,8 +120,6 @@ Questi erano i compagni -
 Questa era la [[motifs/road|strada]]  
 Questi Bimbi volarono a [[motifs/home|casa]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_i_count_the_seeds" data-title="40. When I count the seeds" data-chapter="" data-kind="intro" data-tags="motif/garden,motif/flowers,concept/faith,concept/immortality,concept/grace_and_redemption,concept/mortality,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -147,7 +138,6 @@ And avoid its Bee,
 I can spare this [[motifs/summer|summer]], unreluctantly.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando conto i semi  
@@ -162,8 +152,6 @@ Colgo per [[concepts/faith|fede]] il suo fiore
 Ed evito la sua Ape,  
 Posso rinunciare a questa [[motifs/summer|estate]], senza riluttanza.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ma_never_forgets_her_birds" data-title="164. Mama never forgets her birds," data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/birds,concept/grief_and_loss,concept/providence,concept/faith,concept/immortality,form/hymn,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -179,7 +167,6 @@ If either of her "sparrows fall,"
 She "notices," above.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mamma non dimentica mai i suoi [[motifs/birds|uccelli]],  
@@ -191,8 +178,6 @@ Con cura sagace intrecciava —
 Se uno dei suoi "passeri cade,"  
 Lei "se ne avvede," lassù.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="shall_know_why_when_time_is_over" data-title="193. I shall know why — when Time is over —" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/immortality,concept/grief_and_loss,concept/providence,form/hymn,histref/christianity,histref/the_bible,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -209,7 +194,6 @@ I shall forget the drop of anguish
 That scalds me now, that scalds me now.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Saprò perché, quando il [[motifs/time|tempo]] sarà finito,  
@@ -222,8 +206,6 @@ E io, per lo [[concepts/wonder|stupore]] del suo strazio,
 Dimenticherò la goccia d'angoscia  
 Che ora mi scotta, che ora mi scotta.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_keep_the_sabbath_going_to_church" data-title="324. Some keep the Sabbath going to Church —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/birds,motif/bells,motif/garden,motif/music_and_song,concept/faith,concept/nature_vs_civilization,concept/immortality,form/hymn,histref/christianity,setting/new_england,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -245,7 +227,6 @@ So instead of getting to Heaven, at last —
 I'm going, all along.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 C'è chi osserva il Sabato andando in Chiesa —  
@@ -263,8 +244,6 @@ E il sermone non è mai lungo,
 Così invece di giungere in Cielo, alla fine —  
 Io ci sto andando, da sempre.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ey_leave_us_with_the_infinite" data-title="350. They leave us with the Infinite." data-chapter="" data-kind="intro" data-tags="concept/faith,concept/providence,concept/the_sublime,concept/immortality,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -286,7 +265,6 @@ You for you, and I, for you and me
 And quick enough, if true.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ci lasciano con l'Infinito.  
@@ -304,8 +282,6 @@ Tu per te, e io, per te e per me
 L'[[concepts/eternity|Eternità]] è ampia,  
 E abbastanza rapida, se vera.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_is_a_distant_stately_lover" data-title="357. God is a distant — stately Lover —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,concept/love_divine,concept/faith,form/lyric,histref/puritanism,histref/new_england,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -322,7 +298,6 @@ Vouches, with hyperbolic archness —
 "[[characters/miles|Miles]]", and "John Alden" were Synonym —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[characters/god|Dio]] è un distante — maestoso [[archetypes/lover|Amante]] —  
@@ -335,8 +310,6 @@ Non scelga l'Inviato — e sdegni lo Sposo —
 Garantisce, con iperbolica malizia —  
 "[[characters/miles|Miles]]", e "John Alden" erano Sinonimo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="gained_it_so" data-title="359. I gained it so —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,motif/desire,motif/stars,concept/grace_and_redemption,concept/joy,concept/poverty,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -360,7 +333,6 @@ For the Contented — Beggar's face
 I wore — an hour ago —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lo guadagnai così —  
@@ -380,8 +352,6 @@ Resa inadatta dalla Grazia d'un istante
 Al Contento — volto di Mendicante  
 Che portavo — un'ora fa —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="aven_is_so_far_of_the_mind" data-title="370. Heaven is so far of the Mind" data-chapter="" data-kind="intro" data-tags="concept/immortality_divine,concept/imagination,concept/self_and_soul,concept/faith,concept/paradox,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -398,7 +368,6 @@ To Him of adequate [[motifs/desire|desire]]
 No further 'tis, than Here —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Cielo è a tal segno della Mente  
@@ -411,8 +380,6 @@ Bello — quanto la nostra idea —
 Per Chi è di adeguato [[motifs/desire|desiderio]]  
 Più lontano non è, che Qui —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_lose_ones_faith_surpass" data-title="377. To lose one's faith — surpass" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/faith,concept/faith_and_doubt,concept/doubt,concept/grief_and_loss,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -429,7 +396,6 @@ Annihilate a single clause —
 And Being's — Beggary —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Perdere la propria [[concepts/faith|fede]] — supera  
@@ -442,8 +408,6 @@ La Credenza — una volta sola — può darsi —
 Annientane una sola clausola —  
 E dell'Essere è — Mendicità —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rough_the_dark_sod_as_education" data-title="392. Through the Dark Sod — as Education —" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/spring,concept/faith,concept/childhood_and_growth,concept/grace_and_redemption,concept/immortality_divine,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -460,7 +424,6 @@ The Mold-life — all forgotten — now —
 In Ecstasy — and Dell —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Attraverso la Zolla Scura — come [[concepts/education|Educazione]] —  
@@ -473,8 +436,6 @@ Dondolando la sua Campana di Berillo —
 La vita nella Muffa — tutta dimenticata — ora —  
 In Estasi — e Valle —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ull_know_it_as_you_know_tis_noon" data-title="420. You'll know it — as you know 'tis Noon —" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/eyes_sight,motif/the_sea,concept/faith,concept/the_sublime,histref/christianity,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -499,7 +460,6 @@ His Conversation — with the [[motifs/sea|Sea]] —
 Consult your Eye!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lo saprai — come sai che è [[motifs/noon|Mezzogiorno]] —  
@@ -520,8 +480,6 @@ La sua Conversazione — col [[motifs/sea|Mare]] —
 "Come lo saprai"?  
 Consulta il tuo Occhio!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="live_with_him_i_see_his_face" data-title="463. I live with Him — I see His face —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/death,concept/immortality,concept/love_divine,concept/faith,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -548,7 +506,6 @@ That Life like This — is stopless —
 Be Judgment — what it may —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vivo con Lui — vedo il Suo volto —  
@@ -571,8 +528,6 @@ Convinzione — Ogni giorno —
 Che una Vita come Questa — non ha sosta —  
 Sia il Giudizio — ciò che vuole —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="u_love_the_lord_you_cannot_see" data-title="487. You love the Lord — you cannot see —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/letters_writing,concept/love_divine,concept/faith,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -589,7 +544,6 @@ But then His House — is but a Step —
 And Mine's — in Heaven — You see.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tu [[motifs/love|ami]] il Signore — che non puoi vedere —  
@@ -602,8 +556,6 @@ E che delizia sarebbe vederla —
 Ma la Sua Casa — è solo un Passo —  
 E la Mia — è in Cielo — Vedi.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_true_they_shut_me_in_the_cold" data-title="538. 'Tis true — They shut me in the Cold —" data-chapter="" data-kind="intro" data-tags="concept/mercy,concept/grace_and_redemption,concept/alienation,concept/faith,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -625,7 +577,6 @@ Forgive Them — Even as Myself —
 Or else — forgive not me —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È vero — Mi chiusero nel Freddo —  
@@ -643,8 +594,6 @@ Io stessa — che lo portai — li —
 Perdono — Come Me stessa —  
 Oppure — non perdonare me —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_one_by_one_the_father_counts" data-title="545. 'Tis One by One — the Father counts —" data-chapter="" data-kind="intro" data-tags="motif/childhood,concept/providence,concept/faith,concept/education,form/allegory,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -671,7 +620,6 @@ And every separate Urchin's Sum —
 Is fashioned for his hand —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È Uno a Uno — che il Padre conta —  
@@ -694,8 +642,6 @@ Del Capo della Schiera —
 E la Somma di ogni singolo Monello —  
 È foggiata per la sua mano —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cross_till_i_am_weary" data-title="550. I cross till I am weary" data-chapter="" data-kind="intro" data-tags="topos/the_quest,archetype/pilgrim,motif/the_journey,motif/the_sea,concept/faith,concept/grace_and_redemption,concept/mortality,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -733,7 +679,6 @@ Or is this [[motifs/death|Death]]'s Experiment —
 Reversed — in Victory?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Io [[motifs/cross|attraverso]] finché non sono stanca  
@@ -767,8 +712,6 @@ Periscono — Moriamo noi —
 O è questo l'Esperimento della [[motifs/death|Morte]] —  
 Rovesciato — in Vittoria?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ust_in_the_unexpected" data-title="555. Trust in the Unexpected —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,motif/money_gold,concept/faith,concept/faith_and_doubt,concept/doubt,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -795,7 +738,6 @@ When Deity assured
 Provided it believed —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fiducia nell'Inatteso —  
@@ -818,8 +760,6 @@ Quando la Deità assicurò
 Ch'era meglio — il non percepire —  
 Purché si credesse —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_found_my_being_set_it_up" data-title="603. He found my Being — set it up —" data-chapter="" data-kind="intro" data-tags="concept/love_divine,concept/marriage_and_fidelity,concept/faith,concept/self_and_soul,concept/desire_and_longing,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -836,7 +776,6 @@ With Equipage of Amber —
 That [[motifs/time|time]] — to take it [[motifs/home|Home]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Egli trovò il mio Essere — lo eresse —  
@@ -849,8 +788,6 @@ E lui sarebbe tornato —
 Con Equipaggio d'Ambra —  
 Quella [[motifs/time|volta]] — per portarlo a [[motifs/home|Casa]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_was_too_late_for_man" data-title="623. It was too late for Man —" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/providence,concept/grace_and_redemption,concept/mortality,form/hymn,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -867,7 +804,6 @@ How hospitable, then, the face
 Of our old neighbor, [[characters/god|God]] !
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Era troppo tardi per l'uomo,  
@@ -880,8 +816,6 @@ Quando la terra non si può avere ;
 Com'è ospitale, allora, il volto  
 Del nostro vecchio vicino, [[characters/god|Dio]] !
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ly_god_detect_the_sorrow" data-title="626. Only God — detect the Sorrow —" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/faith,concept/melancholy,concept/self_and_soul,concept/silence,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -897,7 +831,6 @@ Still secure —
 Just as sure —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Solo [[characters/god|Dio]] — scorge il Dolore —  
@@ -909,8 +842,6 @@ Sempre al sicuro —
 L'Onore di [[characters/god|Dio]] Spirito —  
 Altrettanto certo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ch_life_converges_to_some_centre" data-title="680. Each Life Converges to some Centre —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,archetype/pilgrim,motif/stars,concept/ambition,concept/immortality,concept/faith,concept/identity,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -942,7 +873,6 @@ But then —
 Again.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ogni Vita Converge a un qualche Centro —  
@@ -970,8 +900,6 @@ Ma allora —
 L'[[concepts/eternity|Eternità]] consente il tentativo  
 Ancora.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_heaven_vests_for_each" data-title="694. The Heaven vests for Each" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/stars,motif/summer,concept/faith,concept/immortality,concept/love_divine,concept/the_sublime,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -998,7 +926,6 @@ Enabling the minutest —
 And furthest — to adore —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Cielo si riveste per Ciascuno  
@@ -1021,8 +948,6 @@ Che quasi cessiamo di [[concepts/fear|temere]] —
 Che concede al più minuto —  
 E al più remoto — di adorare —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="t_of_sight_what_of_that" data-title="703. Out of sight? What of that?" data-chapter="" data-kind="intro" data-tags="topos/the_quest,motif/birds,motif/eyes_sight,concept/faith,concept/immortality,concept/heroism,concept/the_sublime,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1044,7 +969,6 @@ Bashful Heaven — thy Lovers small —
 Hide — too — from thee —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fuori di vista? E che importa?  
@@ -1062,8 +986,6 @@ Il Cielo è schivo con la Terra — ecco tutto —
 Cielo ritroso — i tuoi piccoli Amanti —  
 Si nascondono — anch'essi — da te —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_easy_to_invent_a_life" data-title="724. It's easy to invent a Life —" data-chapter="" data-kind="intro" data-tags="motif/sun,concept/providence,concept/mortality,concept/fate_and_free_will,concept/doubt,concept/transience,form/lyric,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1085,7 +1007,6 @@ Proceed — inserting Here — a [[motifs/sun|Sun]] —
 There — leaving out a Man —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È facile inventare una Vita —  
@@ -1103,8 +1024,6 @@ Ma il Suo Piano Imperturbato
 Procede — inserendo Qui — un [[motifs/sun|Sole]] —  
 Là — tralasciando un Uomo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="u_taught_me_waiting_with_myself" data-title="740. You taught me Waiting with Myself —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/faith,concept/love_divine,concept/mortality,concept/self_and_soul,concept/immortality,form/lyric,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1126,7 +1045,6 @@ Of Me — in [[characters/christ|Christ]]'s bright Audience
 Upon the further Hand —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi insegnasti l'Attesa con Me Stessa —  
@@ -1144,8 +1062,6 @@ Perché tu non abbia vergogna
 Di Me — nella luminosa Udienza di [[characters/christ|Cristo]]  
 Sulla Mano più lontana —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ven_in_marriage_unto_thee" data-title="817. Given in Marriage unto Thee" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/marriage,concept/love_divine,concept/faith,concept/immortality,form/hymn,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1162,7 +1078,6 @@ Only the Keeper of this Ring
 Conquer [[concepts/mortality|Mortality]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Data in [[motifs/marriage|Matrimonio]] a Te  
@@ -1175,8 +1090,6 @@ Il Connubio della Volontà, [[motifs/decay|decadrà]] —
 Solo il Custode di questo Anello  
 Vince la [[concepts/mortality|Mortalità]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="l_circumstances_are_the_frame" data-title="820. All Circumstances are the Frame" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/providence,concept/faith,concept/the_natural_order,form/epigram,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1193,7 +1106,6 @@ In Him Existence serve or set
 A Force illegible.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ogni Circostanza è la Cornice  
@@ -1206,8 +1118,6 @@ L'Agio della Sua Volontà —
 In Lui l'Esistenza serve o tramonta  
 Una Forza illeggibile.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_only_news_i_know" data-title="827. The Only News I know" data-chapter="" data-kind="intro" data-tags="motif/the_road,concept/immortality,concept/eternity,concept/faith,form/hymn,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1230,7 +1140,6 @@ Or Admirable Show —
 I'll tell it You —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le Sole Notizie che conosco  
@@ -1249,8 +1158,6 @@ Se Altre Notizie vi saranno —
 O Spettacolo Mirabile —  
 Ve lo dirò —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="st_as_he_spoke_it_from_his_hands" data-title="848. Just as He spoke it from his Hands" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,concept/providence,concept/faith,concept/the_natural_order,form/epigram,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1267,7 +1174,6 @@ Content, soe'er, it ornament
 His absent character.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Così come Egli lo pronunciò dalle sue Mani  
@@ -1280,8 +1186,6 @@ Perisca, o duri —
 Pago, comunque sia, d'ornare  
 Il suo assente carattere.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_sun_and_moon_must_make_their_haste" data-title="871. The Sun and Moon must make their haste —" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/stars,motif/fire,concept/love_divine,concept/providence,form/hymn,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1304,7 +1208,6 @@ The Lord a Candle entertains
 Entirely for Thee —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[motifs/sun|Sole]] e la [[motifs/moon|Luna]] devono affrettarsi —  
@@ -1323,8 +1226,6 @@ Che andava a caccia del Giorno —
 Il Signore una Candela mantiene  
 Interamente per Te —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="tter_to_see_him_i_may_be" data-title="968. Fitter to see Him, I may be" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/seasons,concept/love_divine,concept/grace_and_redemption,concept/paradox,concept/beauty,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1369,7 +1270,6 @@ The [[concepts/beauty|Beauty]] that reward Him best —
 The [[concepts/beauty|Beauty]] of Demand — at Rest —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Più degna di vederLo, potrò essere  
@@ -1410,8 +1310,6 @@ Ma guadagnare — per perdita — Per Dolore — ottenere —
 La [[concepts/beauty|Bellezza]] che meglio Lo ricompensa —  
 La [[concepts/beauty|Bellezza]] della Richiesta — in Quiete —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_lifes_hill_with_my_little_bundle" data-title="1010. Up Life's Hill with my little Bundle" data-chapter="" data-kind="intro" data-tags="topos/the_quest,archetype/pilgrim,motif/the_journey,motif/the_hill,concept/exile,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1428,7 +1326,6 @@ Heart that proposed as Heart that accepted
 Homelessness, for [[motifs/home|Home]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Su per il [[motifs/hill|Colle]] della Vita col mio piccolo Fardello  
@@ -1441,8 +1338,6 @@ Immacolato sia da biasimo
 Il Cuore che propose come il Cuore che accettò  
 L'esser senza Dimora, per [[motifs/home|Dimora]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_from_love_the_heavenly_father" data-title="1021. Far from Love the Heavenly Father" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/serpent_snake,concept/providence,concept/faith,concept/suffering,concept/love_divine,form/hymn,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1459,7 +1354,6 @@ Guides the Little One predestined
 To the Native Land.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lontano dall'[[motifs/love|Amore]] il Padre Celeste  
@@ -1472,8 +1366,6 @@ che con la Mano dell'Amico
 guida il Piccolo predestinato  
 alla Terra Natale.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="never_saw_a_moor" data-title="1052. I never saw a Moor —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/faith,concept/immortality,concept/faith_and_doubt,form/hymn,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1490,7 +1382,6 @@ Yet certain am I of the spot
 As if the Checks were given--
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non ho mai visto una Brughiera--  
@@ -1503,8 +1394,6 @@ Né sono stata in visita in Cielo--
 Eppure son certa del luogo  
 Come se i Biglietti fossero dati--
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_soul_should_always_stand_ajar" data-title="1055. The Soul should always stand ajar" data-chapter="" data-kind="intro" data-tags="motif/the_window,concept/self_and_soul,concept/faith,concept/grace_and_redemption,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1521,7 +1410,6 @@ To search for the accomplished Guest,
 Her Visitor, no more —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'[[motifs/soul|Anima]] dovrebbe sempre star socchiusa  
@@ -1534,8 +1422,6 @@ Il Chiavistello sulla [[motifs/door|Porta]] —
 Per cercare l'Ospite compiuto,  
 Il Suo Visitatore, non più —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_life_we_have_is_very_great" data-title="1162. The Life we have is very great." data-chapter="" data-kind="intro" data-tags="concept/immortality,concept/self_and_soul,concept/faith,concept/paradox,form/lyric,form/hymn,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1551,7 +1437,6 @@ The smallest Human Heart's extent
 Reduces it to none.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Vita che abbiamo è molto grande.  
@@ -1563,8 +1448,6 @@ E ogni Dominio mostrato
 L'estensione del più piccolo Cuore Umano  
 La riduce a nulla.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_god_he_sees_thee" data-title="1178. My God — He sees thee —" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/money_gold,concept/faith,concept/love_divine,concept/wonder_and_gratitude,concept/humility,form/hymn,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1581,7 +1464,6 @@ Oh [[motifs/sun|Sun]] — but just a Second's right
 In thy long Race with him!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mio [[characters/god|Dio]] — Egli ti vede —  
@@ -1594,8 +1476,6 @@ Sul suo Atomo nuota —
 Oh [[motifs/sun|Sole]] — solo il diritto d'un Secondo  
 Nella tua lunga Corsa con lui!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="atever_it_is_she_has_tried_it" data-title="1204. Whatever it is — she has tried it —" data-chapter="" data-kind="intro" data-tags="motif/lamb,concept/grief_and_loss,concept/mercy,concept/love_divine,concept/faith,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1617,7 +1497,6 @@ Give her for her Transgression
 License to think of us —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Qualunque cosa sia — lei l'ha provata —  
@@ -1635,8 +1514,6 @@ Nella tua bella Casa
 Dalle per la sua Trasgressione  
 Licenza di pensare a noi —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cannot_see_my_soul_but_know_tis_there" data-title="1262. I cannot see my soul but know 'tis there" data-chapter="" data-kind="intro" data-tags="motif/clothing,motif/food_feasting,concept/self_and_soul,concept/faith,concept/faith_and_doubt,concept/love_divine,concept/eyes_sight_placeholder,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1654,7 +1531,6 @@ Procuring him perpetual drest
 By dating it a sudden feast.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non posso vedere la mia [[motifs/soul|anima]] ma so ch'è là  
@@ -1668,8 +1544,6 @@ Perché uomini designati non adornino
 Procurandogli perpetua veste  
 Datandola improvvisa festa.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_brittle_are_the_piers" data-title="1433. How brittle are the Piers" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/faith_and_doubt,concept/providence,form/hymn,form/lyric,histref/the_bible,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1686,7 +1560,6 @@ He sent his Son to test the Plank,
 And he pronounced it firm.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come fragili sono i Piloni  
@@ -1699,8 +1572,6 @@ Anzi — fu costruito da lui —
 Mandò suo Figlio a saggiare l'Asse,  
 Ed egli la dichiarò salda.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_mend_each_tattered_faith" data-title="1442. To mend each tattered Faith" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/faith_and_doubt,concept/grace_and_redemption,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1717,7 +1588,6 @@ As if it never Tore
 And spacious as before —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Per rammendare ogni lacera [[concepts/faith|Fede]]  
@@ -1730,8 +1600,6 @@ Come se mai si fosse Strappata
 È assai confortevole invero  
 E spaziosa come prima —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_road_was_lit_with_moon_and_star" data-title="1450. The Road was lit with Moon and star —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,archetype/pilgrim,motif/the_road,motif/moon,motif/stars,motif/the_journey,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1747,7 +1615,6 @@ Unknown his shimmering ultimate —
 But he indorsed the sheen —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/road|Strada]] era accesa di [[motifs/moon|Luna]] e stella —  
@@ -1759,8 +1626,6 @@ Ascendente, benché Terreno —
 Ignota la sua meta scintillante —  
 Ma egli avallava il fulgore —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_came_his_turn_to_beg" data-title="1500. It came his turn to beg —" data-chapter="" data-kind="intro" data-tags="motif/serpent_snake,concept/mercy,concept/poverty,concept/sin_and_the_fall,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1777,7 +1642,6 @@ Lest Gratitude revive the snake
 Though smuggled his reprieve
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Venne il suo turno di mendicare —  
@@ -1790,8 +1654,6 @@ Gli diedi licenza di vivere
 Perché la Gratitudine non ravvivasse la serpe  
 Benché contrabbandata la sua grazia
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="groped_for_him_before_i_knew" data-title="1555. I groped for him before I knew" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/food_feasting,motif/bread_and_wine_eucharist,concept/love_divine,concept/faith,concept/desire,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1807,7 +1669,6 @@ That consecrated it could be
 The only Food that grows
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lo cercai a tentoni prima di sapere  
@@ -1819,8 +1680,6 @@ Benché io dentro di me supponga
 Che consacrato esso potrebbe essere  
 Il solo Cibo che cresce
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_longest_day_that_god_appoints" data-title="1769. The longest day that God appoints" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/sun,concept/grief_and_loss,concept/faith,concept/providence,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1833,7 +1692,6 @@ Remember The longest day that [[characters/god|God]] appoints
 Will finish with the [[motifs/sun|sun]].  
 Anguish can travel to it's stake,  
 And then it must return.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1845,5 +1703,3 @@ Ricorda Il giorno più lungo che [[characters/god|Dio]] assegna
 Finirà con il [[motifs/sun|sole]].  
 L'angoscia può viaggiare fino al suo rogo,  
 E poi deve tornare.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

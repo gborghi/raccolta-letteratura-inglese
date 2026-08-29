@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/satire-of-society-epigram-satire" data-author="Eliot" data-workhref="works/satire-of-society-·-epigram-·-satire-(eliot)"></div>
 
 
-<<<<<<< HEAD
 The Boston Evening Transcript · Cousin Nancy · Mr. Apollinax · A Cooking Egg · Le Directeur · Mélange Adultère de Tout · The Hippopotamus · Coriolan · Landscapes · Defence of the Islands · Y, Z
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="007_the_boston_evening_transcript" data-title="The Boston Evening Transcript" data-chapter="" data-kind="intro"></span>
 
 

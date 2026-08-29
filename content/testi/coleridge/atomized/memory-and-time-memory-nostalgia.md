@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/memory-and-time-memory-nostalgia" data-author="Coleridge" data-workhref="works/memory-and-time-·-memory-·-nostalgia-(coleridge)"></div>
 
 
-<<<<<<< HEAD
 ABSENCE: A FAREWELL ODE ON QUITTING SCHOOL FOR JESUS COLLEGE, CAMBRIDGE · SONNET: TO THE RIVER OTTER · LINES: ON AN AUTUMNAL EVENING · LINES: TO A BEAUTIFUL SPRING IN A VILLAGE · OF BALIOL COLLEGE, OXFORD, AUTHOR OF THE ‘RETROSPECT’, AND OTHER POEMS · RECOLLECTIONS OF LOVE · YOUTH AND AGE · ASSOCIATION OF IDEAS · GOETHE
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="031_absence_a_farewell_ode_on_quitting_school_for_jesus_college_cambridge" data-title="ABSENCE: A FAREWELL ODE ON QUITTING SCHOOL FOR JESUS COLLEGE, CAMBRIDGE" data-chapter="" data-kind="intro"></span>
 
 
@@ -49,12 +46,36 @@ We bless the Wanderer of the [[motifs/night|Night]].
 1791.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dove, ornato di molte spoglie classiche,  
+il CAM fa scorrere il suo venerando fiume,  
+m'affretto a spronare la dotta fatica  
+che severa rimprovera il mio canto malato d'[[motifs/love|amore]]:  
+ahimè! troppo memore dei giorni   5  
+illuminati dai raggi [[settings/orient|orientali]] della Passione,  
+quando Pace, e Letizia e Salute  
+mi arricchirono della migliore ricchezza.  
+Ah belle Delizie! che sull'[[motifs/soul|anima]] mia,  
+sull'ala della [[motifs/memory|Memoria]], volate come ombre!    10  
+Ah [[motifs/flowers|Fiori]]! che la Gioia rubò all'Eden  
+mentre l'Innocenza stava lì sorridendo! —  
+Ma cessa, tenero Cuore, questo vano lamento:  
+quelle Ore volate via su rapide Penne  
+torneranno ancora, [[motifs/crown|coronate]] dall'Assenza,   15  
+e spargeranno intorno rose più vivaci.  
+Il Sole, che mai allenta i suoi fuochi,  
+può riversare il giorno su occhi distratti:  
+la [[motifs/moon|Luna]], che spesso si ritira dal Cielo,  
+rende più caro il suo raggio rinnovato.    20  
+Che importa se lascia il cielo senza benedizione  
+per piangere un poco in veste fosca?  
+Quando riaccende la sua luce amabile,  
+benediciamo la Vagabonda della [[motifs/night|Notte]].  
+1791.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="046_sonnet_to_the_river_otter" data-title="SONNET: TO THE RIVER OTTER" data-chapter="" data-kind="intro"></span>
 
 
@@ -75,12 +96,26 @@ Ah! that once more I were a careless [[archetypes/child|Child]]!
 ? 1793.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Caro Ruscello natio! selvaggio Rivo dell'Ovest!  
+Quanti anni di sorte diversa sono passati,  
+quante ore liete e quante dolenti, dall'ultima volta  
+che feci rimbalzare la pietra liscia e sottile sul tuo petto,  
+contandone i lievi salti! Eppure così profonde s'imprimono   5  
+le dolci scene dell'[[motifs/childhood|infanzia]], che i miei occhi  
+mai chiudo nel raggio del sole  
+senza che subito, con tutte le loro tinte, sorgano le tue acque,  
+la tua asse di traverso, la tua riva di salici grigi,  
+e la sabbia del fondo che, venata di vari colori,   10  
+luccicava attraverso la tua chiara trasparenza! Lungo il mio cammino,  
+Visioni dell'[[motifs/childhood|Infanzia]], spesso avete ingannato  
+gli affanni della solitaria virilità, pur destando i sospiri più teneri:  
+ah, foss'io ancora una volta un [[archetypes/child|Fanciullo]] spensierato!  
+? 1793.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="048_lines_on_an_autumnal_evening" data-title="LINES: ON AN AUTUMNAL EVENING" data-chapter="" data-kind="intro"></span>
 
 
@@ -191,12 +226,116 @@ Till chill and damp the moonless [[motifs/night|night]] descend
 1793.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+O tu selvaggia Fantasia, frena l'ala! Non più  
+esplorare quelle sottili falde bianche, quelle nubi purpuree!  
+Né là con spiriti felici [[characters/speed|affrettare]] il tuo volo  
+bagnata in ricchi fiotti di luce ambrata;  
+né in quel bagliore, dove lento discende il giorno,   5  
+salutare coi contadini d'occidente il raggio del mattino!  
+Ah! comanda piuttosto che i piaceri perduti si muovano,  
+schiera d'ombre, attraverso l'[[motifs/soul|anima]] dell'[[motifs/love|Amore]]!  
+Sul [[motifs/desert|deserto]] invernale della Delusione getta  
+ogni fiore che inghirlandò i riccioli rugiadosi della [[motifs/spring|Primavera]],   10  
+quando arrossendo, come una sposa, dal lindo pergolato della [[concepts/hope|Speranza]]  
+ella balzò, destata dal picchiettare della pioggia.  
+Ora il Sole calante sparge un bagliore più cupo,  
+aiuta, amabile Maga, aiuta il sogno del tuo Poeta!  
+Con bacchetta fatata ordina alla Fanciulla di sorgere,   15  
+con casta Letizia che danza nei suoi occhi d'azzurro chiaro;  
+come un tempo, quando dalla calma dimora delle Muse  
+tornai, col premio del Sapere non negato;  
+quando, mentre m'intrecciava un alloro intorno alla fronte,  
+e accolse il mio bacio, e a metà ricambiò il mio voto,   20  
+per tutto il corpo mi guizzò rapido il cuore scosso,  
+e ogni nervo confessò il dardo elettrico.  
+O caro Inganno! vedo la Fanciulla sorgere,  
+con casta Letizia che danza nei suoi occhi d'azzurro chiaro!  
+Quando l'allodola, alto librandosi, per prima gonfia la gola,   25  
+beffa l'occhio stanco e sparge la nota sonora,  
+io seguo le sue orme sul prato consueto,  
+la scorgo balenare nel chiarore dell'[[motifs/dawn|alba]].  
+Quando il fiore piegato piange sotto la rugiada della [[motifs/night|notte]]  
+e sul lago dorme il lustro d'argento,   30  
+in mezzo al pallido splendore soffice e triste  
+ella incontra il mio sentiero solitario, vestita di raggi di [[motifs/moon|luna]].  
+Con lei vago lungo la sponda del rivo;  
+con lei ascolto i gorgheggi del boschetto;  
+e in ogni [[motifs/wind|vento]] sommesso par che fluttui la sua voce,   35  
+sussurrando sola Pietà in ogni nota consolante!  
+Spiriti d'[[motifs/love|Amore]]! avete udito il suo nome! Obbedite  
+al potente incanto, e venite al mio ritrovo.  
+Sia che su ali raccolte in stormo siate là,  
+dove ricche nevi fioriscono sui Mirti,   40  
+o con tenero languore intorno alla mia bella  
+sospiriate nella sciolta lussureggianza dei suoi capelli;  
+oh, ascoltate l'incanto, e volate fin qui,  
+come musica lontana, viaggiando sulla brezza!  
+Spiriti! a voi fu data la Fanciulla bambina,   45  
+formata dalla mirabile Alchimia del Cielo!  
+Fanciulla più bella non conosce il vasto impero d'[[motifs/love|Amore]],  
+più bella Fanciulla mai sollevò la [[motifs/snow|neve]] del seno.  
+Mille Amori le volano intorno alla fronte;  
+mille Amori siedono struggendosi nel suo occhio;   50  
+l'[[motifs/love|Amore]] le accende il sorriso — nel rosso nettare della Gioia intinge  
+il suo fiore di mirto, e glielo pianta sulle labbra.  
+Ella parla! e odi quel canto gorgheggiato di passione —  
+ancora, Fantasia, prolunga quella voce, quelle note.  
+Dolce come quando quella voce con cadenze estatiche   55  
+desterà gli echi ammorbiditi delle Sale del Cielo!Oh, fosse mia la potenza di [[characters/proteus|Proteo]], Dio mutevole!  
+Un Pergolato intricato di fiori io parrei,  
+per riparare il mio [[motifs/love|Amore]] dal raggio afoso del Meriggio:   60  
+o fiorirei Mirto, dai cui rami odorosi  
+il mio [[motifs/love|Amore]] potrebbe intrecciare liete ghirlande per la fronte.  
+Quando il Crepuscolo scivolasse per la valle che si spegne,  
+per far vento al mio [[motifs/love|Amore]] sarei la Brezza della sera;  
+gemerei nelle morbide pieghe della sua veste gonfia,   65  
+e palpiterei con le mie deboli ali sul suo seno!  
+Su ala di Serafino fluttuerei un Sogno nella [[motifs/night|notte]],  
+per consolare il mio [[motifs/love|Amore]] con ombre di delizia: —  
+o m'innalzerei a essere i Cieli trapunti di stelle,  
+e la guarderei con mille occhi!   70  
+Come quando il Selvaggio, che il corpo sonnolento  
+aveva crogiolato sotto la fiamma senza nubi del Sole,  
+si desta fra i tumulti dell'aria,  
+il diluvio del cielo e il bagliore del bianco [[motifs/lightning|fulmine]] —  
+atterrito fugge davanti allo spazzare della tempesta,   75  
+e triste ricorda l'ora soleggiata del [[motifs/sleep|sonno]]: —  
+così, sbattuto dalle burrasche lungo la via smarrente della Vita,  
+il mio occhio, volto indietro, rivede quel giorno senza nubi,  
+quando presso il mio ruscello natio ero solito vagare,  
+mentre la [[concepts/hope|Speranza]] con baci nutriva l'[[motifs/love|Amore]] bambino.   80  
+Caro ruscello natio! come la Pace, così placido  
+lisciando per fertili campi la tua mite corrente!  
+Caro ruscello natio! dove per prima la giovane Poesia  
+fissò lo sguardo selvaggiamente avida nel suo sogno meridiano!  
+Dove piaceri incolpevoli increspano la guancia della Quiete,   85  
+come i gigli d'[[motifs/water|acqua]] increspano la tua lenta corrente!  
+Cari ritrovi natii! dove la Virtù è ancora gaia,  
+dove la stella fissa dell'[[concepts/friendship|Amicizia]] sparge un raggio soffuso,  
+dove l'[[motifs/love|Amore]] porta una [[motifs/crown|corona]] di Rose senza spine,  
+dove il Dolore addolcito sorride fra le sue [[motifs/tears|lacrime]];   90  
+e la [[motifs/memory|Memoria]], col casto ufficio d'una Vestale,  
+alimenta senza posa la fiamma lambente della gioia!  
+Non più le vostre allodole, che si dissolvono alla vista,  
+faranno vibrare di delizia la corda accordata del cuore —  
+non più i vostri dolci Piaceri pensosi orneranno   95  
+con serti di sobria tinta il mio sedile serale.  
+Pure è cara all'occhio della Fantasia la vostra varia scena  
+di bosco, [[motifs/hill|colle]], valle, e scintillante ruscello di mezzo!  
+Pure è dolce all'orecchio della Fantasia il canto gorgheggiato  
+che s'innalza sull'ala del Mattino fra le vostre valli.   100  
+Scene della mia [[concepts/hope|Speranza]]! lasciate l'occhio dolente  
+come quelle tinte lucenti che dipingono le nubi della sera!  
+Lacrimoso, e rattristandosi col rattristato ardore,  
+il mio occhio insegue il bagliore con sguardo bramoso:  
+vede ombre su ombre incombere di tinta più cupa,   105  
+finché gelida e umida discenda la [[motifs/night|notte]] senza luna  
+1793.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="055_lines_to_a_beautiful_spring_in_a_village" data-title="LINES: TO A BEAUTIFUL SPRING IN A VILLAGE" data-chapter="" data-kind="intro"></span>
 
 
@@ -235,12 +374,44 @@ Or o’er the rough rock bursts and foams along!
 1794.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ancora una volta, dolce Ruscello! vagando presso a te con piede lento,  
+benedico le tue acque lattee fredde e chiare.  
+Sfuggito al lampeggiare delle ore meridiane,  
+con una fresca ghirlanda di [[motifs/flowers|fiori]] pierii  
+(prima di volgermi dalla tua sponda visitata dagli zefiri)   5  
+la mia languida mano inghirlanderà la tua urna muscosa.  
+Ché non per boschetto senza sentieri, con rozzo mormorio,  
+tu consoli la triste ninfa dei boschi, la [[concepts/solitude|Solitudine]];  
+né tuo è lo [[motifs/well|scaturire]] non visto in profondità di caverna,  
+fonte-eremita di qualche cella stillante!   10  
+[[concepts/pride|Orgoglio]] della Valle! le tue acque utili riforniscono  
+i casolari sparsi e il pacifico [[characters/hamlet|borgo]] vicino.  
+La tribù degli elfi intorno alle tue rive amiche,  
+con chiasso infantile e burle che consolano l'[[motifs/soul|anima]],  
+liberi da scuola, i loro cuoricini in pace,   15  
+varano flotte di carta sul tuo petto senz'onde.  
+Il villico qui a sera con sguardo pensoso,  
+fischiando canzoni sconsolate, s'appoggia al suo bastone,  
+o, trasalendo, s'arresta con timore misto a [[concepts/hope|speranza]]  
+per ascoltare il passo consueto della fanciulla tanto amata:   20  
+lei, invano memore dell'ordine della padrona,  
+indugia, la brocca da tempo colma in mano.  
+Ruscello senza vanto! la tua fonte dalle cascatelle di ciottoli  
+richiama la forma sbiadita d'una delizia passata,  
+nel [[motifs/time|tempo]] in cui sorse il sole mattutino della [[concepts/hope|Speranza]],   25  
+e tutto era gioia; salvo quando i dolori altrui  
+imprimevano una fugace tristezza sull'[[motifs/soul|anima]] mia,  
+come nubi di passaggio dipinte sul tuo petto.  
+La corrente della Vita correva allora scintillando verso il [[motifs/noon|mezzogiorno]],  
+o argentea scivolava sotto la pensosa [[motifs/moon|Luna]]:   30  
+ah! ora si fa strada fra rozzi roveti e spine,  
+o sulla rupe scabra prorompe e schiuma via!  
+1794.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="091_of_baliol_college_oxford_author_of_the_retrospect_and_other_poems" data-title="OF BALIOL COLLEGE, OXFORD, AUTHOR OF THE ‘RETROSPECT’, AND OTHER POEMS" data-chapter="" data-kind="intro"></span>
 
 
@@ -266,12 +437,31 @@ The imag’d Rainbow on a willowy stream.
 January 14, 1795.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+SOUTHEY! le tue  
+melodie  
+scivolano  
+nel  
+mio  
+orecchio  
+come letizia lontana, o il mormorio  
+di [[motifs/bees|api]] selvatiche negli acquazzoni solatii di [[motifs/spring|Primavera]] —  
+suoni di senso così mescolato da poter rallegrare  
+il petto solitario, e pur destare una lacrima memore:   5  
+destata dal Canto, la FANTASIA nata dalla [[concepts/hope|Speranza]] getta  
+ricchi scrosci di rugiadosa fragranza dall'ala sua,  
+finché i Mirti cascanti e riarsi della malata PASSIONE  
+rifioriscano! Ma oh! più commosso, io prediligo  
+i tuoi accenti più tristi, che nel Sogno della [[motifs/memory|MEMORIA]] comandano   10  
+alle forme sbiadite della Delizia passata di sorgere;  
+allora, molle sulla pallida guancia dell'[[motifs/love|Amore]], il barlume lacrimoso  
+del Piacere sorride — come fioco eppur bello giace  
+l'Arcobaleno riflesso su un ruscello di salici.  
+14 gennaio 1795.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="234_recollections_of_love" data-title="RECOLLECTIONS OF LOVE" data-chapter="" data-kind="intro"></span>
 
 
@@ -314,12 +504,48 @@ Dear under-song in clamor’s hour.    30
 1807.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+Come è tiepido questo selvaggio Recesso boschivo!  
+Certo l'[[motifs/love|Amore]] ha respirato qui;  
+e questo dolce letto d'erica, mia cara,  
+si gonfia, poi s'abbassa con debole carezza,  
+come per averti ancora più vicina.   5  
+II  
+Otto primavere son volate, dall'ultima volta che giacqui  
+sui colli d'erica dei Quantock rivolti al mare,  
+dove suoni quieti da rivoli nascosti  
+fluttuano qua e là, come cose smarrite,  
+e alta sul capo squilla l'allodola.   10  
+III  
+Nessuna voce aveva ancora fatto l'aria  
+musica col tuo nome; eppure perché  
+quello sguardo che chiede? quel sospiro che anela?  
+quel senso di promessa dappertutto?  
+Amata! passò di là il tuo spirito?   15  
+IV  
+Come quando una madre cerca  
+il segno di [[motifs/rose|rosa]] sul [[archetypes/child|figlio]] da tempo perduto,  
+io t'incontrai, t'amai, mite fanciulla!  
+come chi avessi amato a lungo già prima —  
+tanto profondamente ero stato incantato.   20  
+V  
+Stavi davanti a me come un pensiero,  
+un sogno ricordato in un sogno.  
+Ma quando quegli occhi miti parvero per la prima volta  
+dirmi che l'[[motifs/love|Amore]] operava in te —  
+o Greta, caro fiume domestico!   25  
+VI  
+Non è forse, da allora, il profondo impulso dell'[[motifs/love|Amore]],  
+non è forse il sussurro dell'[[motifs/love|Amore]] stato per sempre  
+incessante, come il tuo dolce rombo?  
+Sola voce, quando le altre voci [[motifs/sleep|dormono]],  
+caro canto di sottofondo nell'ora del clamore.    30  
+1807.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="264_youth_and_age" data-title="YOUTH AND AGE" data-chapter="" data-kind="intro"></span>
 
 
@@ -375,12 +601,61 @@ And tells the jest without the smile.
 1823-1832.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il verso, brezza errante fra i fiori,  
+dove la [[concepts/hope|Speranza]] si posava a nutrirsi, come un'ape —  
+entrambi erano miei! La Vita andava a far maggio  
+con la [[concepts/nature|Natura]], la [[concepts/hope|Speranza]] e la Poesia,  
+quando ero giovane!   5  
+Quando ero giovane? — Ah, doloroso Quando!  
+Ah, che mutamento fra l'Ora e l'Allora!  
+Questa casa che respira, non costruita da mani,  
+questo [[concepts/body|corpo]] che mi fa grave torto,  
+su rupi aeree e sabbie scintillanti,   10  
+con che leggerezza allora guizzava via: —  
+come quegli agili schifi, ignoti un tempo,  
+su laghi sinuosi e fiumi larghi,  
+che non chiedono aiuto di vela o remo,  
+che non [[concepts/fear|temono]] dispetto di [[motifs/wind|vento]] o marea!    15  
+Nulla curava questo [[concepts/body|corpo]] di [[motifs/wind|vento]] o tempo,  
+quando la Giovinezza e io vi abitavamo insieme.  
+I [[motifs/flowers|fiori]] sono amabili; l'[[motifs/love|Amore]] è simile a un fiore;  
+l'[[concepts/friendship|Amicizia]] è un albero che ripara;  
+oh, le gioie che scendevano come pioggia,   20  
+d'[[concepts/friendship|Amicizia]], d'[[motifs/love|Amore]] e di Libertà,  
+prima ch'io fossi vecchio!  
+Prima ch'io fossi vecchio? Ah doloroso Prima,  
+che mi dice: la Giovinezza non è più qui!  
+O Giovinezza! per anni tanti e dolci,   25  
+è cosa nota che Tu e io eravamo uno,  
+penserò che sia solo una tenera fantasia —  
+non può essere che Tu sia andata!  
+La tua campana del vespro non ha ancora suonato: —  
+e tu fosti sempre una mascherata audace!   30  
+Che strano travestimento hai ora indossato,  
+per far credere che tu sia andata?  
+Vedo queste ciocche in bende argentee,  
+questo passo curvo, questa taglia mutata:  
+ma fiori di [[motifs/spring|primavera]] sulle tue labbra,   35  
+e le [[motifs/tears|lacrime]] prendono sole dai tuoi occhi!  
+La vita non è che pensiero: dunque penserò  
+che la Giovinezza e io siamo ancora compagni di casa.  
+Le gocce di rugiada sono le gemme del mattino,  
+ma le [[motifs/tears|lacrime]] della sera dolente!   40  
+Dove non c'è [[concepts/hope|speranza]], la vita è un monito  
+che serve solo a farci dolere,  
+quando siamo vecchi:  
+che serve solo a farci dolere  
+con frequenti e tediosi congedi,   45  
+come un povero ospite di stretta parentela  
+che non si può congedare sgarbatamente;  
+eppure ha protratto oltre misura la sua accoglienza,  
+e racconta la facezia senza il sorriso.  
+1823-1832.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="373_association_of_ideas" data-title="ASSOCIATION OF IDEAS" data-chapter="" data-kind="intro"></span>
 
 
@@ -412,12 +687,37 @@ Napoleon’s overthrow, and Snipkin’s fall.
 ‘Coleridgeiana’. First collected 1893.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I. — Per Somiglianza  
+Coppia sposata, tenera e stizzosa! perché tutto questo strepito?  
+Oh, sorvegliate i vostri umori! recintate le vostre lingue —  
+questa testa vuota dovrebbe avvertirvi su quel punto:  
+i denti erano litigiosi: vennero a rottura, e caddero.  
+S. T. C.  
+II. — Associazione per Contrasto  
+Fidia mutava il marmo in piedi e gambe.  
+Malattia! vile anti-Fidia! tu, perbacco,  
+hai mutato le mie membra vive in pioli di marmo.  
+III. — Associazione per [[motifs/time|Tempo]]  
+SIMPLICIUS SNIPKIN  
+loquitur  
+Tocco questa cicatrice dietro il cranio,  
+e subito mi sorgono nella mente  
+le possenti schiere di Napoleone perdute da Mosca,  
+cacciate a perire fra le zanne del [[motifs/frost|Gelo]].  
+Ché in quel mese [[concepts/self|stesso]], e in quel giorno [[concepts/self|stesso]],  
+giù per Skinner Street presi la mia via frettolosa —  
+la Malizia e il [[motifs/frost|Gelo]] avevano messo i ragazzi a giocare;  
+misi il piede su uno scivolo — oh, passo traditore! —  
+caddi di schianto col [[characters/bottom|sedere]] ammaccato, e mi ruppi la testa!  
+Così la co-presenza del [[motifs/time|Tempo]] lega il grande e il piccolo,  
+la disfatta di Napoleone e la caduta di Snipkin.  
+? 1830. Pubblicato per la prima volta in Fraser's Magazine, gen. 1835, art.  
+‘Coleridgeiana’. Prima raccolta nel 1893.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="439_goethe" data-title="GOETHE" data-chapter="" data-kind="intro"></span>
 
 
@@ -431,3 +731,17 @@ Dahin! Dahin   5
 Möcht’ ich mit dir, o mein Geliebter, ziehn.  
 G  
 [Vide ante, p. 311]  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Wilhelm Meister, lib. III, cap. 1. — Sämmtliche Werke, 1860, iii, p.  
+194.  
+Kennst du das Land, wo die Citronen blühn,  
+Im dunkeln Laub die Goldorangen glühn,  
+Ein sanfter [[motifs/wind|Wind]] vom blauen Himmel weht,  
+Die Myrte still und hoch der Lorbeer steht  
+Dahin! Dahin   5  
+Möcht’ ich mit dir, o mein Geliebter, ziehn.  
+G  
+[Vide ante, p. 311]

@@ -144,7 +144,6 @@ And he [[motifs/rose|rose]] up from his feet, and looked at them, and lo! they w
 And the [[characters/queen|Queen]] said to him, ‘This is thy father whom thou hast succoured.’
 And the [[archetypes/king|King]] said, ‘This is thy mother whose feet thou hast washed with thy [[motifs/tears|tears]].’  And they fell on his neck and kissed him, and brought him into the palace and clothed him in fair raiment, and set the [[motifs/crown|crown]] upon his head, and the sceptre in his hand, and over the [[motifs/city|city]] that stood by the [[motifs/river|river]] he ruled, and was its lord.  Much justice and [[concepts/mercy|mercy]] did he show to all, and the evil Magician he banished, and to the [[characters/woodcutter|Woodcutter]] and his wife he sent many rich gifts, and to their children he gave high [[concepts/honour|honour]].  Nor would he suffer any to be cruel to bird or beast, but taught [[motifs/love|love]] and loving-kindness and [[concepts/charity|charity]], and to the poor he gave bread, and to the naked he gave raiment, and there was peace and plenty in the land.
 Yet ruled he not long, so great had been his [[concepts/suffering|suffering]], and so bitter the [[motifs/fire|fire]] of his testing, for after the space of three years he died.  And he who came after him ruled evilly.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -218,5 +217,3 @@ E lui si alzò in piedi e li guardò; ed ecco, erano un [[archetypes/king|re]] e
 La regina gli disse: “Questo è tuo padre che hai aiutato.”  
 Il re aggiunse: “Questa è tua madre la cui feet hai lavato con le tue [[motifs/tears|lacrime]]”. Si gettarono sul suo collo, lo baciarono, lo portarono nel palazzo, lo vestirono di abiti splendidi, gli posero la [[motifs/crown|corona]] sulla testa e il [[motifs/city|scettro]] nella mano. Governò quella città situata vicino al [[motifs/river|fiume]], e ne fu il sovrano. Dimostrò grande giustizia e [[concepts/mercy|misericordia]] verso tutti; scacciò il malvagio Mago, inviò molti doni preziosi al [[characters/woodcutter|taglialegna]] e a sua moglie, e concesse grande onore ai loro figli. Non permetteva che nessuno fosse crudele con uccelli o animali; insegnava invece [[motifs/love|amore]], gentilezza e [[concepts/charity|carità]]. Dava pane ai poveri e vestiti a chi era nudo; nella terra regnava pace e abbondanza.  
 Tuttavia non governò a lungo: il suo [[concepts/suffering|dolore]] era troppo grande, e le prove che dovette affrontare troppo severe. Dopo tre anni morì. Chi gli succedette governò in modo malvagio.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

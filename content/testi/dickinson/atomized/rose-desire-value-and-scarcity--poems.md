@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/rose-desire-value-and-scarcity--poems" data-author="Dickinson" data-workhref="works/rose-·-desire-·-value-and-scarcity-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 26. It's all I have to bring today — · 34. Garland for Queens, may be — · 35. Nobody knows this little Rose — · 44. If she had been the Mistletoe · 46. I keep my pledge. · 56. If I should cease to bring a Rose · 77. I never hear the word "escape" · 80. Our lives are Swiss — · 163. Tho' my destiny be Fustian — · 179. If I could bribe them by a Rose · 355. 'Tis Opposites — entice — · 506. He touched me, so I live to know · 815. The Luxury to apprehend · 840. I cannot buy it — 'tis not sold — · 872. As the Starved Maelstrom laps the Navies · 1108. A Diamond on the Hand · 1110. None who saw it ever told it · 1117. A Mine there is no Man would own · 1282. Art thou the thing I wanted? · 1291. Until the Desert knows · 1301. I cannot want it more — · 1416. Crisis is sweet and yet the Heart · 1430. Who never wanted — maddest Joy · 1434. Go not too near a House of Rose —
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="s_all_i_have_to_bring_today" data-title="26. It's all I have to bring today —" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/bees,motif/flowers,concept/love_romantic,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
@@ -32,7 +29,6 @@ This, and my heart, and all the [[motifs/bees|Bees]]
 Which in the Clover dwell.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È tutto ciò che ho da portare oggi —  
@@ -44,8 +40,6 @@ Qualcuno la somma saprebbe dire —
 Questo, e il mio cuore, e tutte le [[motifs/bees|Bees]]  
 Che nel Trifoglio dimorano.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rland_for_queens_may_be" data-title="34. Garland for Queens, may be —" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/crown,motif/nature,concept/humility,concept/the_common_man,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -62,7 +56,6 @@ Ah - but remembering thee -
 The [[motifs/rose|Rose]] ordained!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ghirlande per Regine, può darsi -  
@@ -75,8 +68,6 @@ Ah - ma ricordando te -
 [[concepts/nature|Nature]] in equità -  
 La [[motifs/rose|Rose]] consacrata!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="body_knows_this_little_rose" data-title="35. Nobody knows this little Rose —" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/rose,motif/bees,concept/mortality,concept/transience,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -98,7 +89,6 @@ Ah! little [[motifs/rose|rose]], how easy
 For such as thee to die!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nessuno conosce questa piccola [[motifs/rose|rosa]];  
@@ -116,8 +106,6 @@ Solo una brezza sospirerà;
 Ah! piccola [[motifs/rose|rosa]], com'è facile  
 Per una come te morire!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_she_had_been_the_mistletoe" data-title="44. If she had been the Mistletoe" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/flowers,concept/love_romantic,form/lyric,histref/christianity,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -133,7 +121,6 @@ I'll deck [[concepts/tradition|Tradition]]'s buttonhole —
 And send the [[motifs/rose|Rose]] to you.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se lei fosse stata il Vischio  
@@ -145,8 +132,6 @@ E lei è della [[motifs/dew|rugiada]] —
 Ornerò l'occhiello della [[concepts/tradition|Tradizione]] —  
 E manderò a voi la [[motifs/rose|Rosa]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="keep_my_pledge" data-title="46. I keep my pledge." data-chapter="" data-kind="intro" data-tags="motif/rose,motif/bees,concept/faith,concept/immortality,concept/marriage_and_fidelity,form/lyric,character/death_personified,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -165,7 +150,6 @@ Her oath, and mine —
 Will surely come again.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mantengo il mio pegno.  
@@ -180,8 +164,6 @@ Il Bocciolo ed io —
 Il suo giuramento, e il mio —  
 Di certo torneremo ancora.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_i_should_cease_to_bring_a_rose" data-title="56. If I should cease to bring a Rose" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/flowers,concept/mortality,form/lyric,character/death_personified,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -197,7 +179,6 @@ My buds commemorate —
 Claps my murmuring lip!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se io cessassi di portare una [[motifs/rose|Rosa]]  
@@ -209,8 +190,6 @@ Che i miei boccioli commemorano —
 Sarà perché il dito della [[motifs/death|Morte]]  
 Serra il mio labbro mormorante!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="never_hear_the_word_escape" data-title="77. I never hear the word &quot;escape&quot;" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/desire,concept/alienation,concept/innocence_and_experience,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -227,7 +206,6 @@ But I tug childish at my bars
 Only to fail again!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non odo mai la parola "fuga"  
@@ -240,8 +218,6 @@ Da soldati abbattute,
 Senza tirare infantile le mie sbarre  
 Solo per fallire ancora!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_lives_are_swiss" data-title="80. Our lives are Swiss —" data-chapter="" data-kind="intro" data-tags="concept/the_sublime,concept/desire,concept/immortality,form/lyric,setting/europe,setting/italy,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -260,7 +236,6 @@ The siren Alps
 Forever intervene!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le nostre vite sono Svizzere —  
@@ -275,8 +250,6 @@ Le solenni Alpi —
 Le Alpi sirene  
 Per sempre s'interpongono!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_my_destiny_be_fustian" data-title="163. Tho' my destiny be Fustian —" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/rose,motif/flowers,motif/seasons,motif/clothing,concept/humility,concept/immortality,concept/transience,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -303,7 +276,6 @@ Where no [[motifs/autumn|Autumn]] lifts her pencil —
 And no Reapers stand!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sia pure Fustagno il mio destino —  
@@ -326,8 +298,6 @@ In una terra salda,
 Dove nessun [[motifs/autumn|Autunno]] leva la matita —  
 E nessun Mietitore sta!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_i_could_bribe_them_by_a_rose" data-title="179. If I could bribe them by a Rose" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/flowers,motif/birds,motif/seasons,motif/music_and_song,concept/unrequited_love,concept/the_artist_and_society,concept/joy,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -357,7 +327,6 @@ They may not finally say, Yes —
 To drive her from the Hall?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se potessi corromperli con una [[motifs/rose|Rosa]]  
@@ -383,8 +352,6 @@ Che, stanchi del volto di questa Mendicante —
 Non possano infine dire, Sì —  
 Per scacciarla dalla Sala?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_opposites_entice" data-title="355. 'Tis Opposites — entice —" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/eyes_sight,concept/paradox,concept/alienation,concept/poverty,form/epigram,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -406,7 +373,6 @@ Be only
 Me —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sono gli Opposti — che adescano —  
@@ -424,8 +390,6 @@ Benché la Divinità —
 Sia soltanto  
 Io —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_touched_me_so_i_live_to_know" data-title="506. He touched me, so I live to know" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/pilgrim,motif/desire,motif/the_sea,concept/love_romantic,histref/the_bible,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -453,7 +417,6 @@ Lift such a Crucifixial sign
 To her imperial [[motifs/sun|Sun]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi toccò, così vivo per sapere  
@@ -477,8 +440,6 @@ Né la Persiana, confusa al suo altare
 Leverebbe un tale segno Crocifissale  
 Al suo [[motifs/sun|Sole]] imperiale.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_luxury_to_apprehend" data-title="815. The Luxury to apprehend" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/food_feasting,concept/love_romantic,concept/desire,concept/unrequited_love,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -505,7 +466,6 @@ Is laden with a single Crumb
 The Consciousness of Thee.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Lusso di percepire  
@@ -528,8 +488,6 @@ Dove la Certezza può vedere
 È imbandita d'una sola Briciola  
 La Coscienza di Te.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cannot_buy_it_tis_not_sold" data-title="840. I cannot buy it — 'tis not sold —" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/grief_and_loss,concept/unrequited_love,concept/the_unattainable,concept/alienation,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -552,7 +510,6 @@ But just to look it in the Eye —
 Then, turn my Face away.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non posso comprarlo — non si vende —  
@@ -571,8 +528,6 @@ Ma solo per guardarlo nell'Occhio —
 "Fosti tu?" "Tu non intendevi," dirgli,  
 Poi, volgere il mio Viso altrove.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_the_starved_maelstrom_laps_the_navies" data-title="872. As the Starved Maelstrom laps the Navies" data-chapter="" data-kind="intro" data-tags="motif/blood,motif/animals,motif/the_sea,motif/food_feasting,concept/lust,concept/desire,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -599,7 +554,6 @@ For but a Berry of Domingo
 And a Torrid Eye —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come il Maelstrom Affamato lambisce le Flotte  
@@ -622,8 +576,6 @@ Giudico asciutta la mia Cena
 Se non per una Bacca di Domingo  
 E un Occhio Torrido —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="diamond_on_the_hand" data-title="1108. A Diamond on the Hand" data-chapter="" data-kind="intro" data-tags="motif/gems_jewels,concept/value_and_scarcity,concept/desire,concept/paradox,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -639,7 +591,6 @@ And cannot, but are mad for [[concepts/fear|fear]]
 That any other buy.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Diamante sulla Mano  
@@ -651,8 +602,6 @@ Quanti guardano e sospirano
 E non possono, ma impazziscono per [[concepts/fear|paura]]  
 Che un altro compri.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ne_who_saw_it_ever_told_it" data-title="1110. None who saw it ever told it" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/gems_jewels,motif/death,concept/value_and_scarcity,form/riddle,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -668,7 +617,6 @@ General as the Dandelion
 Would you serve it so?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nessuno che lo vide mai lo disse  
@@ -680,8 +628,6 @@ Crescesse il Diamante
 Comune come il Dente di leone  
 Lo trattereste così?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="mine_there_is_no_man_would_own" data-title="1117. A Mine there is no Man would own" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/the_inner_life,concept/value_and_scarcity,concept/self_and_soul,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -698,7 +644,6 @@ What Misers wring their hands tonight
 For Indies in the Ground!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Miniera c'è che nessun Uomo possiederebbe  
@@ -711,8 +656,6 @@ Ma accumulato nella mente
 Quali Avari si torcono le mani stanotte  
 Per Indie dentro il Suolo!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="t_thou_the_thing_i_wanted" data-title="1282. Art thou the thing I wanted?" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/desire,motif/food_feasting,concept/lust,concept/disillusionment,concept/self_and_soul,concept/paradox,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -740,7 +683,6 @@ Increased till I abjured it
 Subsisting now like [[characters/god|God]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sei tu la cosa che volevo?  
@@ -764,8 +706,6 @@ Il mistero del Cibo
 Crebbe finché lo abiurai  
 Sussistendo ora come [[characters/god|Dio]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="til_the_desert_knows" data-title="1291. Until the Desert knows" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/desire,motif/water,motif/dreams,concept/lust,concept/paradox,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -786,7 +726,6 @@ On the familiar [[motifs/road|Road]]
 Galloped in [[motifs/dreams|Dreams]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Finché il [[motifs/desert|Deserto]] non sa  
@@ -803,8 +742,6 @@ Basta — la prima Dimora
 Sulla [[motifs/road|Strada]] familiare  
 Galoppata nei [[motifs/dreams|Sogni]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cannot_want_it_more" data-title="1301. I cannot want it more —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/desire,concept/lust,concept/self_and_soul,concept/unrequited_love,concept/paradox,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -821,7 +758,6 @@ Is Worth itself or Distance
 He fathoms who obtains.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non posso volerlo di più —  
@@ -834,8 +770,6 @@ Per chi facile possiede —
 Il Valore stesso o la Distanza  
 Scandaglia chi ottiene.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="isis_is_sweet_and_yet_the_heart" data-title="1416. Crisis is sweet and yet the Heart" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/desire,motif/flowers,concept/paradox,concept/transience,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -852,7 +786,6 @@ And she will point you sighing
 To her rescinded Bud.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Crisi è dolce eppure il Cuore  
@@ -865,8 +798,6 @@ Quale rapimento preferisse
 E lei sospirando ti addita  
 Il suo Bocciolo revocato.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_never_wanted_maddest_joy" data-title="1430. Who never wanted — maddest Joy" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/wine_and_drink,concept/joy,concept/self_and_soul,concept/appearance_vs_reality,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -883,7 +814,6 @@ No nearer — lest the Actual —
 Should disentrall thy [[motifs/soul|soul]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chi mai non volle — la più folle [[concepts/joy|Gioia]]  
@@ -896,8 +826,6 @@ Il Traguardo perfetto del [[motifs/desire|Desiderio]] —
 Non più vicino — che il Reale —  
 Non disincanti la tua [[motifs/soul|anima]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_not_too_near_a_house_of_rose" data-title="1434. Go not too near a House of Rose —" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/desire,motif/flowers,concept/beauty,concept/transience,concept/joy,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
@@ -912,7 +840,6 @@ Nor try to tie the Butterfly,
 Nor climb the Bars of Ecstasy,  
 In insecurity to lie  
 Is [[concepts/joy|Joy]]'s insuring quality.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -926,5 +853,3 @@ Né provare a legare la Farfalla,
 Né scalare le Sbarre dell'Estasi,  
 Giacere nell'insicurezza  
 È della [[concepts/joy|Gioia]] la qualità che assicura.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

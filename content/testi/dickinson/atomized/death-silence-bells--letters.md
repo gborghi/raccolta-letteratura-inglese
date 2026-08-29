@@ -11,27 +11,21 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/death-silence-bells--letters" data-author="Dickinson" data-workhref="works/death-·-silence-·-bells-(dickinson)" data-collection="letters"></div>
 
 
-<<<<<<< HEAD
 To Mr. William Austin Dickinson · To Dr. J. G. Holland, and Mrs. Holland, 1857? · To Dr. J. G. Holland, and Mrs. Holland, Autumn, 1859 · To Dr. J. G. Holland, and Mrs. Holland, 1864? · To Dr. J. G. Holland, and Mrs. Holland · To the Misses · To the Misses, April, 1860 · To the Misses, December, 1861 · To the Misses, After the death of the Misses—–'s father, Jan. 1864 · To the Misses, Early Summer, 1872 · To Mr. Thomas Wentworth Higginson · To Mr. Thomas Wentworth Higginson · To Mr. Thomas Wentworth Higginson · To Miss Maria Whitney, 1877 · To Miss Maria Whitney, 1878 · To Mr. F. D. Clark, Late Autumn, 1882 · To Mrs. W. A. Stearns · To Mrs. W. A. Stearns, June 8, 1876 · To Mrs. Henry Hills, March, 1879 · To “H. H.” · To Mr. C. H. Clark
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="william_austin_dickinson" data-title="To Mr. William Austin Dickinson" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_journey,concept/communication_and_isolation,concept/memory_and_time,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
 
 
 The next [[forms/letter|letter]] was written three years later, and sent to Boston.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La prossima [[forms/letter|lettera]] fu scritta tre anni dopo e inviata a Boston.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_1857" data-title="To Dr. J. G. Holland, and Mrs. Holland, 1857?" data-chapter="" data-kind="intro" data-tags="motif/death,motif/garden,motif/spring,motif/river,motif/animals,concept/friendship,concept/grief_and_loss,concept/immortality_of_soul,concept/mortality,form/letter,histref/the_bible,setting/a_garden,character/adam,character/david,character/goliath,cluster/death,cluster/silence,cluster/bells"></span>
@@ -68,7 +62,6 @@ Count not that far that can be had, Though sunset lie between— Nor that adjace
 [[motifs/love|Love]] for your embodiment of it.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cara sorella, —Dopo che te ne sei andata, una leggera [[motifs/wind|brezza]] sussurrava per la casa come un uccello silenzioso, rendendola solitaria ma elegante. Quando te ne sei andata, è arrivato l’[[motifs/love|amore]]. Me lo aspettavo. La “cena del cuore” avviene proprio quando l’ospite se n’è andato.
@@ -101,8 +94,6 @@ Non pensare che ciò che è lontano possa essere raggiunto, anche se c’è il t
 
 [[motifs/love|Amore]], per la tua personificazione di esso.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_autumn_1859" data-title="To Dr. J. G. Holland, and Mrs. Holland, Autumn, 1859" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/frost,motif/flowers,motif/birds,motif/death,concept/friendship,concept/grief_and_loss,concept/mortality,concept/endurance,form/letter,setting/new_england,cluster/death,cluster/silence,cluster/bells"></span>
@@ -135,7 +126,6 @@ Will you write to us? I bring you all their loves—many.
 They tire me.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Hollands, — Appartiene a me! Non abbiamo ancora stufe, e le serate diventano sempre più fredde. Domani installeremo le stufe. Quanti bambini scalzi tremano. Spero che il loro padre lo sappia; lui non ha ritenuto necessario dar loro delle scarpe.
@@ -164,8 +154,6 @@ Ci scriverai? Ti porto tutto il loro affetto, molto affetto.
 
 Mi stancano.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_1864" data-title="To Dr. J. G. Holland, and Mrs. Holland, 1864?" data-chapter="" data-kind="intro" data-tags="archetype/death_personified,motif/death,motif/autumn,concept/grief_and_loss,concept/mortality,concept/friendship,concept/truth,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -186,7 +174,6 @@ Tell the dear Doctor we mention him with a foreign accent, party already to tran
 News of these would comfort, when convenient or possible.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cara sorella, —papà ha chiamato per dirmi che il nostro bilanciere è truccato: supera di un’oncia i valori stabiliti dagli uomini onesti. Lui vendeva avena. Non riesco a smettere di sorridere, anche se sono passate molte ore; persino il nostro bilanciere non dice la [[concepts/truth|verità]].
@@ -203,8 +190,6 @@ Dite al caro Dottore che lo menzioniamo con un accento straniero, già coinvolto
 
 Le notizie su queste cose sarebbero rassicuranti, se fossero opportune o possibili.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="motif/death,motif/home,concept/friendship,concept/mortality,concept/equality_in_death,concept/grief_and_loss,form/letter,histref/the_bible,cluster/death,cluster/silence,cluster/bells"></span>
@@ -217,7 +202,6 @@ Austin spoke very warmly and strongly of you, and we all felt firmer, and drew a
 Not all die early, dying young, Maturity of fate Is consummated equally In ages or a [[motifs/night|night]]. A hoary boy I've known to drop Whole-statured, by the side Of junior of fourscore—'t was act, Not period, that died.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cara sorella, è stato incredibilmente dolce che Austin ti abbia vista e si sia trovato in quella casa cara che aveva perso il suo amico. Vedere qualcuno che ti aveva conosciuto era una sorta di conforto. Aiutava a dissipare la [[concepts/fear|paura]] che anche tu potessi andartene, perché nonostante le lettere affettuose e il bellissimo regalo, c’era sempre il timore che tu fossi già partita o volessi farlo. “Dove si trova il tesoro”, lì c’è anche la speranza.
@@ -226,8 +210,6 @@ Austin ha parlato di te in modo molto caloroso e convinto; tutti noi ci siamo se
 
 Non tutti muoiono giovani; la maturità del destino si compie in modo uguale, sia negli anni che in una [[motifs/night|notte]]. Conosco un ragazzo canuto che, pur essendo alto e robusto, è morto accanto a uno più giovane di ottant’anni. È stato un atto, non una fine naturale, ciò che lo ha portato via.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/death,motif/letters_writing,concept/death,concept/grief_and_loss,form/epistle,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -236,13 +218,10 @@ Non tutti muoiono giovani; la maturità del destino si compie in modo uguale, si
 Miss [[characters/lavinia|Lavinia]] Dickinson, was visiting her cousins when their mother died, and Emily's [[forms/letter|letter]] to her sister at that [[motifs/time|time]] seems more appropriate here than in any other connection: —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La signorina [[characters/lavinia|Lavinia]] Dickinson si trovava a visitare i suoi cugini quando la loro madre morì; la lettera che Emily scrisse a sua sorella in quel momento sembra particolarmente appropriata in questo contesto, più di qualsiasi altro.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_april_1860" data-title="To the Misses, April, 1860" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,motif/death,motif/birds,motif/flowers,motif/summer,motif/sleep,concept/death,concept/grief_and_loss,concept/immortality_divine,concept/faith_and_doubt,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -267,7 +246,6 @@ We didn't think, that morning when I wept that you left me, and you, for other t
 Good-[[motifs/night|night]], broken hearts, L——, and F——, and Uncle L——. Vinnie, remember
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 VINNIE, —Non riesco a crederci. Quando arrivano le tue lettere che raccontano ciò che zia L, ha detto “poco prima di morire”. Povera zia L. Ora tutto il mondo sembra svanire intorno a me; vedo solo la sua stanza e angeli che la portano in quei grandi paesi lassù, nel cielo blu di cui non sappiamo nulla.
@@ -288,8 +266,6 @@ Beh, ora è più al sicuro di quanto “noi sappiamo o anche possiamo immaginare
 
 Buona [[motifs/night|notte]], cuori spezzati, L——, e F——, e zio L——. Vinnie, ricorda.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_december_1861" data-title="To the Misses, December, 1861" data-chapter="" data-kind="intro" data-tags="motif/frost,motif/snow,motif/winter,motif/birds,motif/garden,motif/clothing,concept/friendship,concept/melancholy,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -308,7 +284,6 @@ There is something fine and something sad in the year's toilet. . . .
 We often talk of you and your father these new [[motifs/winter|winter]] days. Write, dear, when you feel like it.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Peacock, —ho ricevuto la tua piuma con profonda emozione. È già stata utilizzata in un’opera e ha attraversato il fiume Delaware. Senza dubbio stai cambiando piumaggio, come i canarini. Spero che non soffriri a causa della riduzione del tuo piumaggio in questi giorni di dicembre. La latitudine è davvero fredda per alcune notti. Signori e signore che camminano a piedi nudi nelle nostre grandi città devono trovare il clima scomodo. Una terra piena di gelate non è proprio il posto adatto per me. Spero che tu la trovi congeniale. Credo che siano passati diversi centinaia di anni da quando ti ho incontrato, insieme a F. Eppure sono felice di dire che non diventi meno interessante con il passare del tempo. Penso anzi che diventi sempre più attraente. Mi piacerebbe molto rivedervi entrambi. Forse potrò farlo prima dell’arrivo dei venti caldi del sud. Ma oggi mi sento un po’ confuso. Il futuro sembra incerto.
@@ -323,8 +298,6 @@ C’è qualcosa di bello e qualcosa di triste nel “bagno” dell’anno.
 
 Spesso parliamo di te e di tuo padre in questi nuovi giorni d’[[motifs/winter|—inverno]]. Scrivi, caro, quando ne hai voglia.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_after_the_death_of_the_m" data-title="To the Misses, After the death of the Misses—–'s father, Jan. 1864" data-chapter="" data-kind="intro" data-tags="motif/death,motif/birds,motif/home,motif/frost,motif/winter,concept/death,concept/grief_and_loss,concept/friendship,concept/immortality_divine,concept/charity,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -339,7 +312,6 @@ But never mind that now. When you have strength, tell us how it is, and what we 
 It is not dying hurts us so,— 'Tis living hurts us more; But dying is a different way, A kind, behind the [[motifs/door|door]],— The southern custom of the bird That soon as frosts are due Adopts a better latitude. We are the [[motifs/birds|birds]] that stay, The shiverers round farmers' doors, For whose reluctant crumb We stipulate, till pitying snows Persuade our feathers [[motifs/home|home]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cosa posso dire a questi cari bambini, se non che mio padre e mia madre sono per loro come metà dei loro genitori, e che la mia [[motifs/home|casa]] è anche per loro, ogni volta che lo desiderino e per tutto il tempo che vogliono. A volte mi viene in mente un pensiero ancora più dolce, ma non è adatto per la [[motifs/night|notte]]. Non era forse caro papà sempre così stanco dopo che mamma se n’andava. E non era quasi meraviglioso immaginare i due insieme in queste nuove notti d’inverno? Il dolore appartiene a noi, cari bambini; la gioia invece è loro. Io e Vinnie ci sediamo la [[motifs/night|notte]], mentre mamma racconta quelle storie che ci fanno piangere. Anche se sappiamo che con zio e papà tutto va bene, ed è solo il nostro lato ad essere ferito. Mamma racconta di come lui fosse gentile con tutti quelli che lo guardavano; di come tenesse delicatamente il mazzo di fiori, come se fosse un ospite nella sala di un amico e dovesse comportarsi con dignità. Quel gentiluomo mite e pacifico, che non pensava mai al male, ma solo alla pace per tutti.
@@ -350,8 +322,6 @@ Ma lasciamo perdere ora queste cose. Quando avrai ritrovato le forze, raccontaci
 
 Morire non ci fa soffrire così tanto. Vivere, invece, ci ferisce ancora di più. Ma morire è un altro modo. Un modo gentile, oltre quella “porta”. È come il comportamento degli uccelli del sud: non appena arrivano le gelate, scelgono una latitudine più adatta. Noi siamo quegli uccelli che rimangono. Quelli che tremiamo davanti alle porte dei contadini. Per cui chiediamo con insistenza un po’ di cibo. Fino a quando la neve compassionevole non persuade le nostre piume a tornare “a casa”.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_early_summer_1872" data-title="To the Misses, Early Summer, 1872" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,motif/summer,concept/friendship,concept/grief_and_loss,concept/wonder,form/letter,character/marian_erle,cluster/death,cluster/silence,cluster/bells"></span>
@@ -360,14 +330,11 @@ Morire non ci fa soffrire così tanto. Vivere, invece, ci ferisce ancora di più
 DEAR CHILDREN,—We received the news of your loving kindness through Uncle J——last evening, and Vinnie is negotiating with neighbor Gray, who goes to a wedding in Boston next week, for the procuring of the nest. Vinnie's views of expressage do not abate with [[motifs/time|time]]. The crocuses are with us and several other colored friends. Cousin H——broke her hip, and is in a polite bed, surrounded by mint juleps. I think she will hate to leave it as badly as Marian Erle did. Vinnie says there is a [[motifs/tree|tree]] in Mr. Sweetser's woods that shivers. I am afraid it is cold. I am going to make it a little coat. I must make several, because it is tall as the barn, and put them on as the circus men stand on each other's shoulders. . . . There is to be a “show” next week, and little Maggie's bed is to be moved to the [[motifs/door|door]] so she can see the tents. Folding her own like the Arabs gives her no apprehension. While I write, dear children, the colors Eliza loved quiver on the pastures, and day goes gay to the northwest, [[archetypes/innocent|innocent]] as she.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cari bambini,  
 abbiamo ricevuto la notizia della vostra gentilezza tramite lo zio J ieri sera; Vinnie sta negoziando con il vicino Gray, che parteciperà a un matrimonio a Boston la prossima settimana, per procurarci il nido necessario. Le idee di Vinnie riguardo ai modi di trasporto non cambiano con il passare del tempo. I crocus sono con noi, insieme ad altri fiori colorati. La cugina H si è rotta l’anca ed è a letto, circondata da bicchieri di mint julep. Penso che le dispiacerà lasciare quel posto tanto quanto a Marian Erle. Vinnie dice che nel bosco del signor Sweetser c’è un albero che “tremola”. Temo che faccia freddo. Ne farò alcuni cappotti. Devo ne fare molti, perché quell’albero è alto quanto il fienile. Li indosseranno come i circensi che si mettono gli uni sopra gli altri. La prossima settimana ci sarà uno “spettacolo”, e il lettino di piccola Maggie verrà spostato vicino alla porta, così potrà vedere le tende. Ripiegare i lenzuola da sola, come fanno gli arabi, non le causa alcun problema. Mentre scrivo, cari bambini, i colori che Eliza amava tremolano sui prati. Il giorno splende nel nord-ovest, così [[archetypes/innocent|innocente]] come lei.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/death,motif/eyes_sight,concept/friendship,concept/mortality,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -380,7 +347,6 @@ Of this curious [[forms/letter|letter]] Colonel Higginson wrote: “Mr. Howells 
 In the [[motifs/summer|summer]] of 1863 Colonel Higginson was wounded; in September of the same year began Emily's trouble with her eyes, frequently referred to. In the April following she went to Boston,—her mention of Hawthorne's [[motifs/death|death]] (May, 1864) of itsel placing the date:—
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Spero che la Processione di [[motifs/flowers|Fiori]] non sia stata una premonizione.
@@ -389,8 +355,6 @@ A proposito di questa curiosa [[forms/letter|lettera]], il Colonnello Higginson 
 
 Nell’[[motifs/summer|estate]] del 1863 il colonnello Higginson fu ferito; nel settembre dello stesso anno iniziarono i problemi oculari di Emily, spesso menzionati nelle sue lettere. Nell’aprile successivo si recò a Boston; la sua menzione della [[motifs/death|morte]] di Hawthorne (a maggio 1864) indica chiaramente la data del viaggio.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/flowers,motif/nature,motif/childhood,motif/the_hill,motif/summer,concept/friendship,concept/immortality,concept/faith_and_doubt,concept/grief_and_loss,form/letter,histref/the_bible,cluster/death,cluster/silence,cluster/bells"></span>
@@ -411,7 +375,6 @@ Whose pink career may have a close Portentous as our own, who knows? To imitate 
 He italicised the “cannot.” I mistook the accent for a [[concepts/doubt|doubt]] of [[concepts/immortality|Immortality]], and not daring to ask, it besets me still, though we know that the mind of the heart must live if its clerical part do not. Would you explain it to me? . . . It comforts an instinct if another have felt it too. I was rereading your Decoration. You may have forgotten it.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —ti trovo al crepuscolo: il giorno, stanco, appoggia la sua guancia “antediluviana” sulla [[motifs/hill|collina]], come un [[archetypes/child|bambino]].
@@ -428,8 +391,6 @@ Di chi potrebbe essere una carriera rosa altrettanto significativa e premonitric
 
 Ha messo in grassetto la parola “cannot”. Ho scambiato quell’accento per un [[concepts/doubt|dubbio]] riguardo all’[[concepts/immortality|immortalità]], e, non osando chiedere, quel dubbio continua a tormentarmi. Anche se sappiamo che l’anima deve continuare a vivere, anche se la sua parte “clerica” non lo fa più. Potresti spiegarmelo?, Ricevere conforto dal fatto che qualcun altro abbia provato la stessa cosa è davvero consolante. Sto rileggendo il tuo saggio sulla Decorazione. Forse te ne sei dimenticato.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="motif/death,concept/death,concept/immortality,concept/resurrection,concept/paradox,form/lyric,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -438,13 +399,10 @@ Ha messo in grassetto la parola “cannot”. Ho scambiato quell’accento per u
 A [[motifs/death|death]]-blow is a life-blow to some Who, till they died, did not alive become; Who, had they lived, had died, but when They died, vitality begun.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un colpo mortale rappresenta, per alcuni, un vero e proprio colpo alla vita. Persone che, prima di morire, non erano davvero vive; persone che, se fossero vissute, sarebbero comunque morte. Ma solo dopo la loro morte ha iniziato a manifestarsi la vera vitalità.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney_1877" data-title="To Miss Maria Whitney, 1877" data-chapter="" data-kind="intro" data-tags="motif/death,concept/friendship,concept/mortality,concept/grief_and_loss,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -455,15 +413,12 @@ Vinnie and her sister thank Miss Whitney for the delicate kindness, and remember
 I [[concepts/fear|fear]] we think too lightly of the gift of [[concepts/mortality|mortality]], which, too gigantic to comprehend, certainly cannot be estimated.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vinnie e sua sorella ringraziano la signorina Whitney per quella delicata gentilezza e la ricordano con un particolare [[motifs/love|amore]] in questi giorni difficili.
 
 Temo che sottovalutiamo troppo il dono della [[concepts/mortality|mortalità]], un concetto così immenso da essere impossibile da comprendere appieno, e certamente inestimabile.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney_1878" data-title="To Miss Maria Whitney, 1878" data-chapter="" data-kind="intro" data-tags="motif/night,motif/death,concept/friendship,concept/grief_and_loss,concept/immortality,concept/hope,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -474,15 +429,12 @@ DEAR FRIEND,—I have thought of you often since the darkness,—though we canno
 I [[concepts/hope|hope]] you have the power of [[concepts/hope|hope]], and that every bliss we know or guess hourly befalls you.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —ti ho pensato spesso da quando è calata l’oscurità, anche se non possiamo assistere un altro nella sua [[motifs/night|notte]]. Speravo che tu fossi stato salvato. Il fatto che colui che così spesso ci ha concesso l’[[concepts/immortality|immortalità]] l’abbia ora ricevuta lui stesso, le conferisce un fascino ancora più straordinario.
 
 Spero che abbiate il potere della [[concepts/hope|speranza]], e che ogni felicità che conosciamo o immaginiamo vi accada quotidianamente.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="f_d_clark_late_autumn_1882" data-title="To Mr. F. D. Clark, Late Autumn, 1882" data-chapter="" data-kind="intro" data-tags="motif/death,motif/letters_writing,motif/light_and_dark,motif/frost,concept/death,concept/grief_and_loss,concept/immortality,concept/suffering,concept/friendship,form/letter,histref/the_bible,cluster/death,cluster/silence,cluster/bells"></span>
@@ -501,7 +453,6 @@ I [[concepts/hope|hope]] you may tell us that you are better.
 Thank you for much kindness. The friend anguish reveals is the slowest forgot.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —Ci addolora molto che tu sia stato ancora malato. Speriamo che ora non stia più soffrendo. Grazie per le tue parole sincere quando nostra madre è morta. Parlavamo ogni giorno di scriverti, ma ci sentivamo incapaci di farlo. Se il grande tentativo di salvarle la vita fosse riuscito, avremmo potuto continuare senza sosta; ma essendo fallito, le nostre forze ci hanno abbandonato.
@@ -516,8 +467,6 @@ Speriamo che tu possa dirci che stai meglio.
 
 Grazie per tanta gentilezza. L’angoscia di un amico è quella che più lentamente viene dimenticata.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_w_a_stearns" data-title="To Mrs. W. A. Stearns" data-chapter="" data-kind="intro" data-tags="motif/death,concept/grief_and_loss,concept/death,concept/mortality,concept/friendship,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -526,13 +475,10 @@ Grazie per tanta gentilezza. L’angoscia di un amico è quella che più lentame
 When President Stearns died, this stanza came to Mrs. Stearns:—
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando il presidente Stearns morì, questa poesia arrivò nelle mani della signora Stearns:—
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_w_a_stearns_june_8_1876" data-title="To Mrs. W. A. Stearns, June 8, 1876" data-chapter="" data-kind="intro" data-tags="motif/pain,motif/death,concept/grief_and_loss,concept/suffering_and_pain,concept/mortality,form/lyric,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -541,13 +487,10 @@ Quando il presidente Stearns morì, questa poesia arrivò nelle mani della signo
 [[motifs/love|Love]]'s stricken “why” ves stricken “why” Is all that [[motifs/love|love]] can speak— Built of but just a syllable The hugest hearts that break.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il tormentato “perché” dell’[[motifs/love|Amore]] è tutto ciò che l’[[motifs/love|amore]] può esprimere. Composto da soltanto una sillaba, rappresenta il dolore più profondo nei cuori spezzati.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_henry_hills_march_1879" data-title="To Mrs. Henry Hills, March, 1879" data-chapter="" data-kind="intro" data-tags="motif/death,motif/pain,concept/grief_and_loss,concept/death,concept/immortality,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -560,7 +503,6 @@ For that, even [[concepts/immortality|Immortality]] is a slow solace. All other 
 With cheer from one who knows.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —l’unica ferita senza rimedio è la perdita di una vita umana di cui avevamo imparato ad aver bisogno.
@@ -569,8 +511,6 @@ Per questo motivo, persino l’[[concepts/immortality|immortalità]] rappresenta
 
 Con l’entusiasmo di chi sa.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="intro" data-title="To “H. H.”" data-chapter="" data-kind="intro" data-tags="motif/death,concept/death,concept/immortality,concept/friendship,concept/grief_and_loss,form/letter,histref/greek_mythology,character/helen_of_troy,cluster/death,cluster/silence,cluster/bells"></span>
@@ -583,7 +523,6 @@ After Mrs. Jackson's [[motifs/death|death]], August 12, 1885, Emily wrote of her
 Dear friend, I can fly— Her immortal reply.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dopo la [[motifs/death|morte]] della signora Jackson, avvenuta l’12 agosto 1885, Emily scrisse di lei quanto segue:—
@@ -592,8 +531,6 @@ Dopo la [[motifs/death|morte]] della signora Jackson, avvenuta l’12 agosto 188
 
 Caro amico, posso volare. Fu la sua risposta immortale.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="c_h_clark" data-title="To Mr. C. H. Clark" data-chapter="" data-kind="intro" data-tags="motif/death,concept/death,concept/immortality,concept/friendship,form/letter,cluster/death,cluster/silence,cluster/bells"></span>
@@ -602,7 +539,6 @@ Caro amico, posso volare. Fu la sua risposta immortale.
 This [[forms/letter|letter]], in her bold, clear, detached hand (to an accustomed eye slightly less firm than usual), is the last one, so far as known, which Emily Dickinson wrote. Afterward, she continued to be delicate, though hardly alarmingly so; but just before the fifteenth of May, 1886, she sent two words to her cousins, freighted with startling import,—
 
 LITLLE COUSINS,—Called back.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -610,5 +546,3 @@ LITLLE COUSINS,—Called back.
 Questa [[forms/letter|lettera]], scritta con la sua calligrafia decisa, chiara e distaccata (che a un occhio abituato sembrava leggermente meno ferma del solito), è l’ultima che si sappia sia stata scritta da Emily Dickinson. In seguito continuò ad essere delicata, anche se non in modo particolarmente preoccupante; ma poco prima del quindicesimo maggio 1886 inviò due parole ai suoi cugini, cariche di un significato sorprendente.
 
 Piccoli cugini, —chiamati indietro.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

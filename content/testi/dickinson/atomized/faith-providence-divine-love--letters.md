@@ -11,27 +11,21 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/faith-providence-divine-love--letters" data-author="Dickinson" data-workhref="works/faith-·-providence-·-divine-love-(dickinson)" data-collection="letters"></div>
 
 
-<<<<<<< HEAD
 To Mr. William Austin Dickinson, Monday Morning · To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, December, 1849 · To Dr. J. G. Holland, and Mrs. Holland · To Mr. Samuel Bowlers and Mrs. Bowles · To Mr. Samuel Bowlers and Mrs. Bowles · To Mr. Samuel Bowlers and Mrs. Bowles, January, 1878 · To Mr. Samuel Bowlers and Mrs. Bowles, 1881 · To the Misses · To the Misses, 1868 · To the Misses, About July 4, 1879 · To Miss Maria Whitney · To Mrs. F.S. Cooper, January, 1875 · To Mrs. Henry Hills, February, 1879 · To the Rev. F. F. Emerson · To Mrs. W. F. Stearns, May, 1881 · To Mrs. Joseph Sweetser, 1885 · To Mrs. Todd, September, 1885
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="william_austin_dickinson_monday_morning" data-title="To Mr. William Austin Dickinson, Monday Morning" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_book,motif/silence,concept/faith,concept/desire_and_longing,concept/wonder,form/letter,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
 
 
 DEAR AUSTIN,—. . . I was so glad to get your [[forms/letter|letter]]. I had been making calls all Saturday afternoon, and came [[motifs/home|home]] very tired, and a little disconsolate, so your [[forms/letter|letter]] was more than welcome. . . . Oh Austin, you don't know how we all wished for you yesterday. We had such a splendid sermon from Professor Park—I never heard anything like it, and don't expect to again, till we stand at the great white throne, and “he reads from [[motifs/the-book|the Book]], the [[motifs/lamb|Lamb]]'s Book.” The students and chapel people all came to our church, and it was very full, and still, so still the buzzing of a fly would have boomed like a cannon. And when it was all over, and that wonderful man sat down, people stared at each other, and looked as wan and wild as if they had seen a spirit, and wondered they had not died. How I wish you had heard him—I thought of it all the [[motifs/time|time]]. . . .
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Austin, —. Ero così felice di ricevere la tua [[forms/letter|lettera]]. Avevo fatto molte telefonate tutto sabato pomeriggio e sono tornata [[motifs/home|a casa]] molto stanca e un po’ depressa; quindi la tua lettera è stata davvero una grande consolazione. Oh Austin, non sai quanto ci mancassi ieri! Il professor Park ha tenuto un sermone meraviglioso: non ne avevo mai ascoltato uno simile, e probabilmente non ne ascolterò mai più fino a quando non ci troveremo davanti al grande trono bianco, e “lui leggerà dal [[motifs/the-book|Libro]], il Libro dell’Agnello”. Gli studenti e tutti quelli che partecipano alle attività della chiesa sono venuti nella nostra chiesa; c’era molta gente. Eppure, non si sentiva nemmeno il ronzio di una mosca. Quando tutto è finito, quella persona straordinaria si è seduta. La gente si guardava intorno, pallida e sbalordita, come se avesse visto uno spirito. E si chiedeva se non fosse morta. Quanto vorrei che tu fossi stato lì ad ascoltarlo. Ci ho pensato tutto il tempo.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss_december_1849" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, December, 1849" data-chapter="" data-kind="intro" data-tags="motif/leaves,motif/prayer,motif/the_book,concept/faith,concept/grace_and_redemption,concept/literary_criticism,form/letter,character/currer_bell,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -42,15 +36,12 @@ MR. BOWDOIN,—If all these [[motifs/leaves|leaves]] were altars, and on every o
 Mar. Bowdoin, who was considered by the young girls at that [[motifs/time|time]] “a confirmed bachelor,” also received the accompanying [[characters/valentine|valentine]] from Emily.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Signor Bowdoin, —se tutte queste [[motifs/leaves|foglie]] fossero altari, e su ciascuna ci fosse una [[motifs/prayer|preghiera]] affinché Currer Bell potesse essere salvato, e voi foste [[characters/god|Dio]], rispondereste a quella preghiera?
 
 Il signor Bowdoin, che a quel [[motifs/time|tempo]] era considerato dalle giovani ragazze “un vero scapolo”, ricevette anche la relativa [[characters/valentine|cartolina di San Valentino]] da parte di Emily.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="concept/truth,concept/eternity,concept/faith,concept/immortality_divine,form/lyric,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -61,15 +52,12 @@ This little: [[forms/poem|poem]] was enclosed in the foregoing [[forms/letter|le
 [[concepts/truth|Truth]] is as old as [[characters/god|God]], His twin [[concepts/identity|identity]]— And will endure as long as He, A co-[[concepts/eternity|eternity]], And perish on the day That He is borne away From mansion of the universe, A lifeless Deity.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questo piccolo [[forms/poem|poema]] era incluso nella precedente [[forms/letter|lettera]]:—
 
 La [[concepts/truth|Verità]] è antica quanto [[characters/god|Dio]]; essa rappresenta l’identità gemella di Dio stesso. E sopravviverà finché Egli esisterà, come parte dell’[[concepts/eternity|eternità]]. Perirà, invece, nel giorno in cui Egli sarà allontanato dalla dimora dell’universo, trasformato in una divinità senza vita.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/christ_figure,motif/flowers,concept/faith,concept/love_divine,concept/self_sacrifice,concept/humility,form/lyric,form/hymn,form/letter,histref/christianity,histref/the_bible,character/jesus,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -82,7 +70,6 @@ Other verses, sent at different times, were written in the same general hand,—
 I could not have told it, But since Jesus dared, Sovereign! know a daisy Thy dishonor shared.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Altre strofe, inviate in momenti diversi, furono scritte con lo stesso stile generale: quello tipico del primo periodo medio, tra il 1863 e il 1870; tra queste:—
@@ -91,8 +78,6 @@ Altre strofe, inviate in momenti diversi, furono scritte con lo stesso stile gen
 
 Non avrei mai potuto dirlo, ma poiché Gesù l’ha osato. Sovrano, sappi che anche una margherita ha condiviso la tua disonore.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="topos/the_sublime_in_nature,topos/book_of_nature,motif/birds,motif/prayer,motif/music_and_song,motif/dawn,concept/faith,concept/longing,concept/immortality,concept/wonder,form/lyric,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -109,7 +94,6 @@ A spray of white pine was enclosed with this note:—
 A feather from the whippoorwill That everlasting sings! Whose galleries are sunrise, Whose opera the springs, Whose emerald nest the ages spin Of mellow, murmuring thread, Whose beryl egg, what school boys-hunt In “recess” overhead!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[forms/letter|Lettera]] al signor Samuel Bowles, facsimile
@@ -122,8 +106,6 @@ Non avrebbe forse un [[characters/god|Dio]] di pietra vissuto un momento di tris
 
 Una piuma del gufo notturno Che canta per l’eternità. Le cui “gallerie” sono l’alba, L’opera sua le sorgenti; Il suo nido di smeraldo è intessuto dagli anni Di fili dolci e mormoranti. Quell’uovo di berillo. Che oggetto di meraviglia per gli scolari durante la ricreazione!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_january_1878" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, January, 1878" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/prayer,motif/the_soul,concept/grief_and_loss,concept/love_divine,concept/faith,concept/immortality,form/letter,histref/christianity,histref/the_bible,setting/new_england,character/jesus,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -142,7 +124,6 @@ Dear “Mr. Sam” is very near, these midwinter days. When purples come on Pelh
 Mother is timid and feeble, but we keep her with us. She thanks you for remembering her, and never forgets you. . . . Your sweet “and left me all alone,” consecrates your lips.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi affretto verso di te, Mary, perché non si deve perdere nemmeno un istante quando il cuore si spezza. Perché anche se si è spezzato molte volte, ogni volta è diversa dalla precedente, se davvero si è spezzato. Il fatto che tu sia stata disposta a permettermi di parlarti con te è stato davvero generoso da parte tua, cara.
@@ -157,8 +138,6 @@ Caro “Signor Sam”, questi giorni di metà inverno sono davvero vicini. Quand
 
 Mia madre è timida e debole, ma la teniamo con noi. Ti ringrazia per esserti ricordato di lei, e lei non ti dimentica mai. Quella tua dolce frase “e poi mi hai lasciata sola” consacra le tue labbra.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_1881" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, 1881" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/the_sea,concept/memory,concept/beauty,concept/grief_and_loss,concept/faith,form/letter,histref/the_bible,histref/the_orient,character/gabriel,character/jesus,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -175,7 +154,6 @@ Austin looked at her long and earnestly.
 Thank you indeed.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cara Mary, —Avere dato vita a un viso così bello è di per sé una forma di fama; lo sguardo che quelle donne hanno negli occhi è simile a quello del signor Samuel, “Signor Samuel” è il nome con cui viene ricordato. “Parla, affinché possiamo vederti”, dice Gabriel. Un angelo tanto ideale quanto la sua rapida apparizione e scomparsa. Grazie per questa [[concepts/beauty|bellezza]], che restituisco a malincuore. Mi sembra quasi di commettere una “truffa sorprendente” in quella direzione. Se il suo cuore è altrettanto magico quanto il suo viso, distruggerà molti spiriti. Ma il [[motifs/sea|mare]] ha già stabilito le sue leggi.
@@ -188,8 +166,6 @@ Austin la guardò a lungo e con sincero interesse.
 
 Grazie davvero.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_soul,concept/faith,concept/love_divine,concept/charity,form/letter,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -204,7 +180,6 @@ Meanwhile, we wrap her in our heart to keep her tight and warm.
 . . . Gratitude is not the mention of a tenderness, but its mute appreciation, deeper than we reach—all our Lord demands, who sizes better knows than we. Willing unto [[motifs/death|death]], if only we perceive He die.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ho ricevuto la nota della cara piccola F—— e le scriverò presto.
@@ -215,8 +190,6 @@ Nel frattempo, la teniamo stretta nel nostro cuore per farla sentire al sicuro e
 
 , La gratitudine non consiste nel menzionare una tenerezza, ma nel suo silenzioso apprezzamento, più profondo di quanto possiamo comprendere; è ciò che richiede tutto il nostro Signore, il quale conosce meglio di noi. Siamo disposti a morire, se solo riuscissimo a comprendere che Lui stesso muore per noi.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_1868" data-title="To the Misses, 1868" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/letters_writing,motif/snow,motif/sun,concept/suffering,concept/grief_and_loss,concept/endurance,concept/immortality_divine,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -235,7 +208,6 @@ I am in bed to-day—a curious place for me, and cannot write as [[motifs/well|w
 Write at once, please, I am so full of grief and surprise and physical weakness. I cannot speak until I know.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cari bambini, — Queste piccole note viaggeranno il più velocemente possibile, quanto lo permetterà la velocità del vapore.
@@ -250,8 +222,6 @@ Oggi sono a letto. Un posto strano per me; non riesco a scrivere così bene come
 
 Scrivi subito, per favore. Sono piena di dolore, sorpresa e debolezza fisica. Non riesco a parlare finché non lo saprò.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_about_july_4_1879" data-title="To the Misses, About July 4, 1879" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/fire,motif/bells,motif/moon,motif/birds,motif/dew,motif/the_grave,concept/fear,concept/terror_and_horror,concept/immortality,concept/death,concept/faith,form/letter,histref/the_bible,setting/new_england,character/elijah,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -290,7 +260,6 @@ Forgive me the personality; but I knew, I thought, our peril was yours.
 [[motifs/love|Love]] for you each.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 CARE CUGINE,—Sapevate che c'è stato un [[motifs/fire|incendio]] qui, e che se non fosse per un capriccio del [[motifs/wind|vento]] Austin e Vinnie ed Emily sarebbero rimasti tutti senza casa? Ma forse avete visto il Republican.
@@ -325,8 +294,6 @@ Perdonatemi la confidenza; ma sapevo, pensavo, che il nostro pericolo fosse anch
 
 [[motifs/love|Affetto]] per ciascuna di voi.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/the_soul,motif/seed_and_germination,concept/immortality,concept/grief_and_loss,concept/faith,form/lyric,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -339,7 +306,6 @@ What [[concepts/madness|madness]], by their side, A vision to provide Of future 
 My [[motifs/soul|soul]], to find them, come, They cannot call, they're dumb, Nor prove, nor woo, But that they have abode Is absolute as [[characters/god|God]], And instant, too.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Più lontano del cielo stesso, poiché il cielo è la radice. Ma queste sono solo semi che volano via, ancora più lontani di quelli che non sono mai esistiti, o di quelli che si nascondono e continuano a esistere.
@@ -348,8 +314,6 @@ Che [[concepts/madness|follezza]], al loro fianco. Una visione dei giorni futuri
 
 La mia [[motifs/soul|'anima]], per trovarli, viene. Non possono chiamare, sono muti; né possono dimostrare nulla, né cercare di conquistarli. Ma il fatto che esistano è altrettanto certo quanto quello dell’[[characters/god|Dio]]. E, inoltre, immediato.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fs_cooper_january_1875" data-title="To Mrs. F.S. Cooper, January, 1875" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/water,concept/grief_and_loss,concept/faith,concept/immortality,concept/eternity,form/lyric,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -362,7 +326,6 @@ Though the first moment of loss is [[concepts/eternity|eternity]], other eternit
 Though the great waters [[motifs/sleep|sleep]] That they are still the deep We cannot [[concepts/doubt|doubt]]. No vacillating [[characters/god|God]] Ignited this abode To put it out.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È troppo tardi per esprimere il mio dolore per il mio amico addolorato?
@@ -371,8 +334,6 @@ Sebbene il primo momento della perdita sia un’[[concepts/eternity|eternità]],
 
 Anche se le grandi acque sono «addormentate» e quindi rimangono profonde, non possiamo dubitarne. Nessun Dio incostante avrebbe potuto creare questo luogo per poi spegnerlo.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_henry_hills_february_1879" data-title="To Mrs. Henry Hills, February, 1879" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/flowers,motif/childhood,concept/suffering_and_pain,concept/childhood_and_growth,concept/immortality_divine,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -385,7 +346,6 @@ The odor of the flower might please her, as these little beings are only “on a
 With [[motifs/love|love]] for the mama, and sorrow for her weariness,
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Siamo profondamente addolorati per le sofferenze di quel piccolo, che sono così ingiustamente e inaspettatamente sopportate, e chiediamo alla sua mamma di assicurargli la nostra sincera [[concepts/sympathy|solidarietà]].
@@ -394,8 +354,6 @@ Il profumo di questo fiore potrebbe piacerle, poiché queste piccole creature so
 
 Con [[motifs/love|amore]] per la mamma e tristezza per la sua stanchezza.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_rev_f_f_emerson" data-title="To the Rev. F. F. Emerson" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/light_and_dark,concept/faith,concept/forgiveness,concept/heroism_courage,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -406,15 +364,12 @@ Though tendered by a stranger, the fruit will be forgiven.
 Valor in the dark is my Maker's code.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Anche se offerto da uno sconosciuto, il frutto verrà perdonato.
 
 Il coraggio nell’oscurità è il codice impostato dal mio Creatore.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_w_f_stearns_may_1881" data-title="To Mrs. W. F. Stearns, May, 1881" data-chapter="" data-kind="intro" data-tags="archetype/child,concept/grief_and_loss,concept/immortality_divine,concept/faith,concept/inexpressibility,form/letter,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -427,7 +382,6 @@ Were it any kingdom but the “Kingdom of Heaven,” how distant!
 But my heart breaks—I can say no more.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, spero che tu sappia con quale indescrivibile tenerezza pensiamo a te e a tuo caro [[archetypes/child|bambino]].
@@ -436,8 +390,6 @@ Se si trattasse di un regno qualsiasi, tranne che del “Regno dei Cieli”, qua
 
 Ma il mio cuore si spezza. Non posso dire altro.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_joseph_sweetser_1885" data-title="To Mrs. Joseph Sweetser, 1885" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/flowers,motif/dew,motif/death,motif/the_grave,motif/spring,concept/grief_and_loss,concept/death,concept/patience_and_waiting,concept/immortality_divine,concept/faith,form/letter,histref/the_bible,character/jesus,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -456,7 +408,6 @@ I congratulate you upon your children, and themselves upon you.
 To have had such daughters is sanctity—to have had such a mother, divine. To still have her—but [[motifs/tears|tears]] forbid me. My own is in the [[motifs/grave|grave]]. “So loved her that he died for her,” says the explaining Jesus.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[motifs/rose|rosa]] di zia Katie aveva molti spine, ma era comunque una [[motifs/rose|rosa]], e aveva sopportato con estrema pazienza le difficoltà della crescita. Ogni segno di rispetto verso di lei è davvero ampiamente meritato; non lo chiamiamo cortesia, ma semplicemente riconoscimento. È ancora più dolce che il [[motifs/noon|pomeriggio]] sia sereno, piuttosto che la mattina, perché il pomeriggio arriva dopo tutto, eppure anche la tua mattina aveva quella rugiada che non vorresti mai scambiare con nulla. Grazie per averci raccontato dei tuoi successi.
@@ -471,8 +422,6 @@ Vi congratulo per i vostri figli, e loro stessi per voi.
 
 Avere avuto figlie del genere è una vera santità; avere avuto una madre del genere è divino. Ancora adesso la ho con me, ma le  lacrime mi impediscono di parlare. La mia è nella [[motifs/grave|tomba]]. “La amava così tanto da morire per lei”, dice Gesù nell’episodio che spiega tutto questo.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_todd_september_1885" data-title="To Mrs. Todd, September, 1885" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/rose,motif/wine_and_drink,concept/jealousy,concept/faith,concept/solitude,concept/love_divine,form/letter,character/othello,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -491,7 +440,6 @@ As her unique life drew toward its close, she became, for the last two years, a 
 Only a handful of notes remains, written during the final weeks while Emily brightened the old house with her airy, yet forceful and brilliant personality, for, even ill, she was a pervasive presence.
 
 Upon the [[motifs/death|death]] of Professor Tuckerman, March 15, 1886, she wrote:—
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -509,5 +457,3 @@ Mentre la sua unica vita si avvicinava alla fine, negli ultimi due anni divenne 
 Sono rimaste solo poche note, scritte nelle ultime settimane in cui Emily illuminava quella vecchia casa con la sua personalità spensierata, ma al contempo decisa e brillante; perché, anche ammalata, era una presenza onnipresente.
 
 Al momento della [[motifs/death|morte]] del professor Tuckerman, avvenuta il 15 marzo 1886, lei scrisse:—
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

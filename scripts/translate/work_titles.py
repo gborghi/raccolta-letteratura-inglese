@@ -44,6 +44,8 @@ TITLES = {
         "Questo, quello e l'altro",                             # This and That and the Other
     "Authors/Belloc/Atomized/Economics_for_Helen/Economics_for_Helen.md":
         "Economia per Elena",                                   # Economics for Helen
+    "Authors/Belloc/Atomized/Essays_of_a_Catholic/Essays_of_a_Catholic.md":
+        "Saggi di un cattolico",                                # Essays of a Catholic
     "Authors/Belloc/Atomized/More_Beasts_for_Worse_Children/More_Beasts_for_Worse_Children.md":
         "Altre bestie per bambini peggiori",                    # More Beasts for Worse Children
     "Authors/Belloc/Atomized/Cautionary_Tales_for_Children/Cautionary_Tales_for_Children.md":

@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/imagination-fragment-heroic-couplet--poems" data-author="Dickinson" data-workhref="works/imagination-·-fragment-·-heroic-couplet-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 188. Make me a picture of the sun — · 308. I send Two Sunsets — · 326. I cannot dance upon my Toes — · 352. Perhaps I asked too large — · 374. I went to Heaven — · 441. This is my letter to the World · 505. I would not paint — a picture — · 569. I reckon — when I count it all — · 581. I found the words to every thought · 593. I think I was enchanted · 604. Unto my Books — so good to turn — · 605. The Spider holds a Silver Ball · 613. They shut me up in Prose — · 632. The Brain — is wider than the Sky — · 711. Strong Draughts of Their Refreshing Minds · 736. Have any like Myself · 780. The Truth — is stirless — · 1071. Perception of an object costs · 1126. Shall I take thee, the Poet said · 1129. Tell all the Truth but tell it slant — · 1269. I worked for chaff and earning Wheat · 1481. The way Hope builds his House · 1634. Talk not to me of Summer Trees
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="ke_me_a_picture_of_the_sun" data-title="188. Make me a picture of the sun —" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/birds,motif/seasons,motif/winter,motif/nature,concept/imagination,concept/joy,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
@@ -40,7 +37,6 @@ And skip the Russet — on the [[motifs/tree|tree]] —
 Let's play those — never come!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fammi un ritratto del [[motifs/sun|sole]] —  
@@ -60,8 +56,6 @@ Poi — salta — il [[motifs/frost|gelo]] — sul prato —
 E salta la Ruggine — sull'[[motifs/tree|albero]] —  
 Giochiamo che quelli — non vengano mai!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="send_two_sunsets" data-title="308. I send Two Sunsets —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/stars,concept/imagination,concept/the_artist_and_society,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -78,7 +72,6 @@ Mine—is the more convenient
 To Carry in the Hand—
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mando Due Tramonti—  
@@ -91,8 +84,6 @@ Dicevo a un'amica—
 Il mio—è il più comodo  
 Da Portare in Mano—
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cannot_dance_upon_my_toes" data-title="326. I cannot dance upon my Toes —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/immortality_through_verse,motif/music_and_song,motif/clothing,motif/birds,concept/imagination,concept/the_artist_and_society,concept/beauty,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -124,7 +115,6 @@ Nor any Placard boast me —
 It's full as Opera —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non so [[motifs/dance|danzare]] sulle Punte —  
@@ -152,8 +142,6 @@ Che nomino — con leggerezza — Qui —
 Né alcun Cartellone mi vanta —  
 È colma quanto un'Opera —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rhaps_i_asked_too_large" data-title="352. Perhaps I asked too large —" data-chapter="" data-kind="intro" data-tags="motif/stars,concept/imagination,concept/ambition,concept/the_sublime,concept/paradox,form/epigram,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -169,7 +157,6 @@ Those — dangle easy — on my arm,
 But smaller bundles — Cram.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Forse chiesi troppo in grande —  
@@ -181,8 +168,6 @@ Il mio Cesto contiene — solo — Firmamenti —
 Quelli — dondolano lievi — al mio braccio,  
 Ma i fagotti più piccoli — Stipano.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="went_to_heaven" data-title="374. I went to Heaven —" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/immortality_divine,concept/imagination,concept/beauty,concept/wonder_and_gratitude,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -207,7 +192,6 @@ I — could be —
 Society —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Andai in Cielo —  
@@ -228,8 +212,6 @@ Io — potrei essere —
 In mezzo a così unica  
 Società —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_is_my_letter_to_the_world" data-title="441. This is my letter to the World" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,topos/poet_as_prophet,archetype/prophet,motif/letters_writing,motif/nature,concept/the_artist_and_society,concept/alienation,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -246,7 +228,6 @@ For [[motifs/love|love]] of Her — Sweet — countrymen —
 Judge tenderly — of Me
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questa è la mia [[forms/letter|lettera]] al Mondo  
@@ -259,8 +240,6 @@ A Mani che non posso vedere —
 Per [[motifs/love|amore]] di Lei — Dolci — compatrioti —  
 Giudicate teneramente — Me
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="would_not_paint_a_picture" data-title="505. I would not paint — a picture —" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/imagination,concept/the_sublime,concept/immortality_of_art,concept/beauty,concept/joy,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -294,7 +273,6 @@ Had I the Art to stun myself
 With Bolts of Melody!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non dipingerei — un quadro —  
@@ -324,8 +302,6 @@ Quale sarebbe la Dote,
 Avessi l'Arte di stordire me stessa  
 Con Folgori di Melodia!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="reckon_when_i_count_it_all" data-title="569. I reckon — when I count it all —" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,motif/sun,motif/seasons,concept/immortality_of_art,concept/the_artist_and_society,concept/imagination,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -352,7 +328,6 @@ It is too difficult a Grace —
 To justify the Dream —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Calcolo — quando conto il tutto —  
@@ -375,8 +350,6 @@ Per Coloro che Li adorano —
 È una Grazia troppo difficile —  
 Per giustificare il Sogno —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="found_the_words_to_every_thought" data-title="581. I found the words to every thought" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/creativity_and_artistic_labor,concept/the_artist_and_society,concept/paradox,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -393,7 +366,6 @@ Can Blaze be shown in Cochineal —
 Or [[motifs/noon|Noon]] — in Mazarin?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Trovai le parole per ogni pensiero  
@@ -406,8 +378,6 @@ Come la vostra — comincerebbe?
 Si può mostrare la Vampa in Cocciniglia —  
 O il [[motifs/noon|Mezzogiorno]] — in Mazzarino?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="think_i_was_enchanted" data-title="593. I think I was enchanted" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/conversion,concept/creativity_and_artistic_labor,concept/the_artist_and_society,concept/wonder_and_gratitude,concept/madness,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -456,7 +426,6 @@ But [[works/magic-(chesterton)|Magic]] — hath an Element —
 Like Deity — to keep —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Credo di essere stata incantata  
@@ -501,8 +470,6 @@ I Maghi dormano pure —
 Ma la Magia — ha un Elemento —  
 Come la Divinità — che dura —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="to_my_books_so_good_to_turn" data-title="604. Unto my Books — so good to turn —" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/wonder_and_gratitude,concept/the_artist_and_society,concept/creativity_and_artistic_labor,concept/melancholy,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -529,7 +496,6 @@ Enamor — in Prospective —
 And satisfy — obtained —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ai miei Libri — così dolce volgersi —  
@@ -552,8 +518,6 @@ I loro Volti di Capretto
 Innamorano — in Prospettiva —  
 E saziano — ottenuti —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_spider_holds_a_silver_ball" data-title="605. The Spider holds a Silver Ball" data-chapter="" data-kind="intro" data-tags="concept/creativity_and_artistic_labor,concept/the_artist_and_society,concept/transience,concept/imagination,concept/mortality,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -575,7 +539,6 @@ Then dangle from the Housewife's Broom —
 His Boundaries — forgot —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Ragno regge una Palla d'Argento  
@@ -593,8 +556,6 @@ I suoi Continenti di Luce —
 Poi penzolare dalla Scopa della Massaia —  
 I suoi Confini — dimenticati —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ey_shut_me_up_in_prose" data-title="613. They shut me up in Prose —" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/creativity_and_artistic_labor,concept/the_artist_and_society,concept/identity,concept/childhood_and_growth,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -616,7 +577,6 @@ Abolish his Captivity —
 And laugh — No more have I —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mi rinchiudono nella Prosa —  
@@ -634,8 +594,6 @@ e facile come una Stella
 abolire la sua Prigionia —  
 e ridere — Né più occorre a me —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_brain_is_wider_than_the_sky" data-title="632. The Brain — is wider than the Sky —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/imagination,concept/self_and_soul,concept/the_sublime,concept/identity,concept/faith,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -657,7 +615,6 @@ And they will differ — if they do —
 As Syllable from Sound —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Cervello — è più vasto del Cielo —  
@@ -675,8 +632,6 @@ Ché — soppesali — Libbra per Libbra —
 E differiranno — se mai differiranno —  
 Come la Sillaba dal Suono —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rong_draughts_of_their_refreshing_minds" data-title="711. Strong Draughts of Their Refreshing Minds" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,motif/the_journey,concept/imagination,concept/friendship,concept/self_and_soul,concept/wonder_and_gratitude,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -693,7 +648,6 @@ How powerful the Stimulus
 Of an Hermetic Mind —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Forti Sorsi delle Loro Menti Ristoratrici  
@@ -706,8 +660,6 @@ Del Cammello il tratto — ha raggiunto —
 Quanto potente lo Stimolo  
 D'una Mente Ermetica —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ve_any_like_myself" data-title="736. Have any like Myself" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/spring,motif/nature,concept/faith,concept/imagination,concept/wonder_and_gratitude,concept/immortality,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -744,7 +696,6 @@ And possibly a Steeple —
 Not afterward — by Men —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ha mai qualcuno come Me  
@@ -777,8 +728,6 @@ Che i miei Villaggi si vedono —
 E forse un Campanile —  
 Non dopo — dagli Uomini —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_truth_is_stirless" data-title="780. The Truth — is stirless —" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/truth,concept/faith,concept/the_natural_order,concept/paradox,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -800,7 +749,6 @@ That holds without a Prop —
 That trusts Her — boldly up —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[concepts/truth|Verità]] — è immota —  
@@ -818,8 +766,6 @@ Quella che regge senza un Sostegno —
 La [[concepts/truth|Verità]] sorregge Se stessa — e ogni uomo  
 Che si affida a Lei — arditamente in piedi —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rception_of_an_object_costs" data-title="1071. Perception of an object costs" data-chapter="" data-kind="intro" data-tags="concept/perception_and_consciousness,concept/imagination,concept/paradox,concept/appearance_vs_reality,form/aphorism,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -836,7 +782,6 @@ And then upbraids a Perfectness
 That situates so far —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La percezione di un oggetto costa  
@@ -849,8 +794,6 @@ La Percezione lo fa bello
 E poi rimprovera una Perfezione  
 Che si situa così lontano —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="all_i_take_thee_the_poet_said" data-title="1126. Shall I take thee, the Poet said" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/letters_writing,concept/imagination,concept/the_artist_and_society,form/lyric,histref/christianity,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -872,7 +815,6 @@ Not unto nomination
 The Cherubim reveal —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dovrò prenderti, disse il Poeta  
@@ -890,8 +832,6 @@ Che la Parola doveva colmare
 Non alla nomina  
 I Cherubini rivelano —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ll_all_the_truth_but_tell_it_slant" data-title="1129. Tell all the Truth but tell it slant —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/light_and_dark,motif/childhood,concept/truth,concept/the_artist_and_society,form/epigram,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -908,7 +848,6 @@ The [[concepts/truth|Truth]] must dazzle gradually
 Or every man be blind —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di' tutta la [[concepts/truth|Verità]] ma dilla obliqua —  
@@ -921,8 +860,6 @@ Con spiegazione gentile
 La [[concepts/truth|Verità]] deve abbagliare gradualmente  
 O ogni uomo sarà cieco —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="worked_for_chaff_and_earning_wheat" data-title="1269. I worked for chaff and earning Wheat" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/truth,concept/innocence_and_experience,concept/disillusionment,concept/paradox,form/aphorism,form/lyric,histref/the_bible,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -939,7 +876,6 @@ Wisdom is more becoming viewed
 At distance than at hand.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lavorai per pula e guadagnare Grano  
@@ -952,8 +888,6 @@ E ringraziai l'amico generoso —
 La Saggezza è più avvenente vista  
 A distanza che da presso.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_way_hope_builds_his_house" data-title="1481. The way Hope builds his House" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/faith,concept/paradox,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -970,7 +904,6 @@ As if it were of Ledges smit
 Or mortised with the Laws —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il modo in cui la [[concepts/hope|Speranza]] costruisce la sua Casa  
@@ -983,8 +916,6 @@ Questa superficie
 Come fosse forgiata di Rupi  
 O incastrata con le Leggi —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="lk_not_to_me_of_summer_trees" data-title="1634. Talk not to me of Summer Trees" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/birds,motif/wind,concept/imagination,concept/self_and_soul,concept/immortality,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -998,7 +929,6 @@ And winds do go that way at [[motifs/noon|noon]]
 To their Ethereal Homes  
 Whose Bugles call the least of us  
 To undepicted Realms
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1011,5 +941,3 @@ E i venti vanno per quella via a [[motifs/noon|mezzogiorno]]
 Verso le loro Eteree Dimore  
 Le cui Trombe chiamano il più piccolo di noi  
 A Reami non raffigurati
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

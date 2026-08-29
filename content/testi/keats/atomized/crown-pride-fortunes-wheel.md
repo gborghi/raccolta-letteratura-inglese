@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/crown-pride-fortunes-wheel" data-author="Keats" data-workhref="works/crown-·-pride-·-fortune's-wheel-(keats)"></div>
 
 
-<<<<<<< HEAD
 SPECIMEN OF AN INDUCTION TO A POEM · CALIDORE · TO KOSCIUSKO · Sonnet on Peace · To a Young Lady who Sent Me a Laurel Crown · On Receiving a Laurel Crown from Leigh Hunt · Hymn to Apollo · King Stephen
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="001_specimen_of_an_induction_to_a_poem" data-title="SPECIMEN OF AN INDUCTION TO A POEM" data-chapter="" data-kind="intro"></span>
 
 

@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/stars-night-military-camp" data-author="Whitman" data-workhref="works/stars-·-night-·-military-camp-(whitman)"></div>
 
 
-<<<<<<< HEAD
 On the Beach at Night · On the Beach at Night Alone · When I Heard the Learn’d Astronomer · Bivouac on a Mountain Side · By the Bivouac’s Fitful Flame · Vigil Strange I Kept on the Field One Night · Look Down Fair Moon · Reconciliation · The Torch · The Sleepers · Whispers of Heavenly Death · Night on the Prairies · Thou Orb Aloft Full-Dazzling · A Clear Midnight · After the Dazzle of Day · A Prairie Sunset · Twilight · An Evening Lull · Old Age’s Lambent Peaks · MY 71st Year
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="107_on_the_beach_at_night" data-title="On the Beach at Night" data-chapter="" data-kind="intro"></span>
 
 

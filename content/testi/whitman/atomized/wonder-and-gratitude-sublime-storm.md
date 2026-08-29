@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/wonder-and-gratitude-sublime-storm" data-author="Whitman" data-workhref="works/wonder-and-gratitude-·-sublime-·-storm-(whitman)"></div>
 
 
-<<<<<<< HEAD
 Beginning My Studies · Earth, My Likeness · Patroling Barnegat · Gods · A Child’s Amaze · Mother and Babe · Rise O Days from Your Fathomless Deeps · The Singer in the Prison · Miracles · Who Learns My Lesson Complete? · Yet, Yet, Ye Downcast Hours · Assurances · To a Locomotive in Winter · A Riddle Song · Song at Sunset · An Ended Day · Old Chants · The Unexpress’d
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="010_beginning_my_studies" data-title="Beginning My Studies" data-chapter="" data-kind="intro"></span>
 
 

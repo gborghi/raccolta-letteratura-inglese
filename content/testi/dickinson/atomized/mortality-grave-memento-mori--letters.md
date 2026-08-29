@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/mortality-grave-memento-mori--letters" data-author="Dickinson" data-workhref="works/mortality-·-grave-·-memento-mori-(dickinson)" data-collection="letters"></div>
 
 
-<<<<<<< HEAD
 To Mrs. A. P. Strong, BOSTON, Sept. 8, 1846 · To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, 1852 · To Mrs. Anthon, To the Same, 1860 · To Dr. J. G. Holland, and Mrs. Holland · To Dr. J. G. Holland, and Mrs. Holland, Sabbath Night · To Mr. Samuel Bowlers and Mrs. Bowles · To Mr. Samuel Bowlers and Mrs. Bowles, Early Summer, 1862 · To Mr. Samuel Bowlers and Mrs. Bowles, To Mr. Bowles, June, 1862 · To Mr. Samuel Bowlers and Mrs. Bowles, 1868? · To the Misses · To the Misses, Spring, 1871 · To the Misses · To the Misses, Summer, 1875 · To the Misses, November, 1882 · To Mr. Thomas Wentworth Higginson, April 26, 1862 · To Mr. Thomas Wentworth Higginson, Winter, 1871 · To Mrs. Joseph Sweetser, 1884 · To Mrs. Greenough, After her Mother's Death, October, 1885 · To Mrs. Currier, April 10, 1886
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_a_p_strong_boston_sept_8_1846" data-title="To Mrs. A. P. Strong, BOSTON, Sept. 8, 1846" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/memento_mori,motif/death,motif/the_grave,motif/music_and_song,motif/time,concept/friendship,concept/transience,concept/mortality,concept/faith,concept/self_denial,form/letter,histref/the_bible,setting/new_england,setting/the_grave,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
 
 
@@ -29,7 +26,6 @@ The Chinese Museum is a great curiosity. There are an endless variety of wax fig
 Does it seem as though September had come? How swiftly [[motifs/summer|summer]] has fled, and what report has it borne to heaven of misspent [[motifs/time|time]] and wasted hours? [[concepts/eternity|Eternity]] only will answer. The ceaseless flight of the [[motifs/seasons|seasons]] is to me a very solemn thought; and yet why do we not strive to make a better improvement of them? With how much emphasis the poet has said, “We take no note of [[motifs/time|time]] but from its loss. 'Twere wise in man to give it then a tongue. Pay no moment but in just purchase of its worth, and what its worth ask [[motifs/death|death]]-beds. They can tell. Part with it as with life reluctantly.” Then we have higher [[concepts/authority|authority]] than that of man for the improvement of our [[motifs/time|time]]. For [[characters/god|God]] has said, “Work while the day lasts, for the [[motifs/night|night]] is coming in the which no man can work.” Let us strive together to part with [[motifs/time|time]] more reluctantly, to watch the pinions of the fleeting moment until they are dim in the distance, and the new-coming moment claims our attention. I have perfect confidence in [[characters/god|God]] and His promises, and yet I know not why I feel that the world holds a predominant place in my affections. . . . Your affectionate friend,
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mio caro amico A., è trascorso molto, molto tempo da quando ho ricevuto la tua lettera di benvenuto; spetta a me chiederti perdono, e sono certo che il tuo affettuoso cuore non mi rifiuterà. Tuttavia, molte circostanze impreviste hanno causato questo ritardo. I miei genitori pensarono che un viaggio potesse essermi d’aiuto, quindi ho lasciato casa per Boston una settimana fa. Il viaggio è stato piacevole, e ora sto cercando di sistemarmi, anche se in una città come questa non è facile trovare tranquillità. Sto soggiornando dalla mia zia e sono felice. No, non proprio felice, ma soddisfatto. Sono qui da due settimane ormai, e in questo lasso di tempo ho visto e sentito molte cose meravigliose. Forse ti interesserà sapere come ho trascorso il mio tempo qui: sono stato al Mount Auburn, al Museo Cinese, al Bunker Hill; ho assistito a due concerti e a un’esposizione horticola. Sono anche salito in cima al Campidoglio dello Stato. E praticamente ovunque tu possa immaginare. Hai mai visitato il Mount Auburn? Se no, difficilmente puoi farti un’idea di questa “Città dei Morti”. Sembra che la natura abbia creato questo luogo proprio con l’intento che diventasse un rifugio per i suoi figli: un posto dove, stanchi e delusi, possano riposare all’ombra dei cipressi, chiudendo gli occhi in pace, come di notte o al tramonto.
@@ -38,8 +34,6 @@ Il Museo Cinese è davvero una grande curiosità: vi sono infinite figure di cer
 
 Sembra davvero che settembre sia arrivato. Quanto in fretta è fuggito l’[[motifs/summer|estate]], e quali notizie porterà al cielo riguardo al tempo sprecato e alle ore perdute? Solo l’[[concepts/eternity|eternità]] potrà rispondere. Il continuo susseguirsi delle [[motifs/seasons|stagioni]] mi suscita un pensiero molto solenne. Eppure, perché non ci sforziamo di sfruttarle al meglio? Con quanta enfasi il poeta ha detto: “Non prestiamo attenzione all’[[motifs/time|tempo]] se non quando lo perdiamo. Sarebbe saggio dare al tempo una ‘voce’, utilizzarlo soltanto quando ne conosciamo appieno il valore. E chiedere a [[motifs/death|la morte]] di rivelarci quale sia davvero il suo prezzo”. Allora, abbiamo un’autorità più alta di quella umana per migliorare il nostro [[motifs/time|tempo]]. Poiché [[characters/god|Dio]] ha detto: “Lavorate finché dura il giorno, perché la [[motifs/night|notte]] arriverà e in essa nessuno potrà più lavorare”. Lottiamo insieme per trattenere il tempo con maggiore riluttanza. Per osservare fino a quando le “ali” del momento fugace non svaniscano nell’oscurità, lasciando spazio al nuovo istante che arriva. Ho piena fiducia in [[characters/god|Dio]] e nelle Sue promesse. Eppure, non so perché il mondo occupi un posto così preponderante nei miei sentimenti. Vostro affezionato amico.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss_1852" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, 1852" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,topos/memento_mori,archetype/hero,motif/death,motif/moon,motif/stars,motif/sun,motif/memory,motif/sleep,concept/mortality,concept/immortality,concept/heroism,concept/friendship,form/parody,form/letter,histref/classical_antiquity,character/adam,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -80,7 +74,6 @@ In token of our [[concepts/friendship|friendship]] Accept this Bonnie Doon, And 
 The [[motifs/memory|memory]] of my ashes Will consolation be. Then farewell, Tuscarora, And farewell, sir, to thee.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[topoi/sic-transit-gloria-mundi|Così passa la gloria del mondo,]] Come fa l’ape laboriosa a raccogliere il miele? Mentre viviamo, viviamo. Io resto sempre il mio nemico.
@@ -117,8 +110,6 @@ In segno della nostra [[concepts/friendship|amicizia]], accetta questo “Bonnie
 
 Il [[motifs/memory|ricordo]] delle mie ceneri sarà una consolazione. Allora addio, Tuscarora. E addio anche a te, signore.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_anthon_to_the_same_1860" data-title="To Mrs. Anthon, To the Same, 1860" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,motif/dust,motif/the_grave,motif/snow,motif/summer,motif/flowers,concept/grief_and_loss,concept/friendship,concept/longing,concept/poverty,concept/memory,form/letter,histref/the_bible,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -137,7 +128,6 @@ I write you from the [[motifs/summer|summer]]. The murmuring [[motifs/leaves|lea
 Parents and Vinnie request [[motifs/love|love]] to be given girl.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le suppliche più belle, cara, ma per una persona come me, simile a un lince, sono del tutto inutili. Trovare qualcosa è difficile; le occasioni per perderlo, invece, sono troppo frequenti. In un mondo del genere, devo agire con estrema cautela. Una prudenza così sagace potrebbe sembrare superflua, ma molte cose spingono coloro che soffrono di povertà, cara. E il Salvatore ci dice, Kate: i poveri sono sempre con noi. Sei mai stata povera? Io sono stata mendicante, e poi ricca. Di notte, credo. Per grazia di [[characters/god|Dio]], credo di essere ancora ricca. Ma i volti di quei “lazzarini” continuano a perseguitarmi.
@@ -152,8 +142,6 @@ Vi scrivo dall’[[motifs/summer|estate]]. Il mormorio delle [[motifs/leaves|far
 
 I genitori e Vinnie chiedono che alla ragazza venga dato l’[[motifs/love|amore]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_journey,motif/river,motif/the_grave,motif/dreams,motif/gems_jewels,concept/friendship,concept/mortality,concept/immortality_divine,concept/memory,form/travel_writing,form/letter,setting/washington_dc,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -172,7 +160,6 @@ I [[concepts/wonder|wonder]] if you have all forgotten us, we have stayed away s
 Now, my precious friends, if you won't forget me until I get [[motifs/home|home]], and become more sensible, I will write again, and more properly. Why didn't I ask before, if you were [[motifs/well|well]] and happy?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cara signora Holland, cara Minnie e anche caro dottor Holland. Mi sono allontanato dal gruppo per scrivervi una lettera; voglio dirvi che vi [[motifs/love|amo]] ancora.
@@ -187,8 +174,6 @@ Mi chiedo se ci abbiate tutti dimenticati. Siamo stati lontani così a lungo. Sp
 
 Ora, miei carissimi amici, se non vi dimenticherete di me fino a quando non tornerò a [[motifs/home|casa]] e non diventerò più ragionevole, scriverò di nuovo, e in modo più appropriato. Perché non vi ho chiesto prima se stavate bene e eravate felici?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_sabbath_night" data-title="To Dr. J. G. Holland, and Mrs. Holland, Sabbath Night" data-chapter="" data-kind="intro" data-tags="archetype/death_personified,motif/death,motif/rose,motif/garden,motif/frost,motif/birds,concept/immortality_divine,concept/faith,concept/friendship,concept/mortality,form/letter,histref/the_bible,setting/a_garden,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -207,7 +192,6 @@ Pardon my sanity, Mrs. Holland, in a world insane, and [[motifs/love|love]] me i
 Thank you for your sweet note—the clergy are very [[motifs/well|well]]. Will bring such fragments from them as shall seem me good. I kiss my paper here for you and Dr. Holland—would it were cheeks instead.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non dica nulla, cara signora Holland. Anche se sono cattiva, a volte leggo la mia [[historical-references/bible|Bibbia]], e oggi ne ho trovato un versetto in cui si dice che gli amici non dovrebbero più uscire; non ci sarebbero “lacrime”, e mentre mi sedevo di [[motifs/night|sera]], ho desiderato ardentemente di trovarci lì, invece che qui. In quel meraviglioso mondo che promette tanto. Piuttosto che scrivervi, avrei voluto essere al vostro fianco, e che quei “centoquarantaquattromila” chiacchierassero piacevolmente senza disturbarci. Sono quasi tentata di andare a sedermi in quel Paradiso di cui parla il buon uomo. E iniziare per sempre. Sembra davvero troppo meraviglioso. L’unico “ritratto” che ho del Cielo è un cielo grande e blu, più blu e vasto di qualsiasi altro abbia visto a giugno. In quel cielo ci sono i miei amici, tutti quanti, quelli che sono con me ora, e quelli che “se ne sono andati” mentre camminavamo, e che sono stati “rapiti in Cielo”.
@@ -222,8 +206,6 @@ Perdonate la mia sanità mentale, signora Holland. In un mondo pazzo come questo
 
 Grazie per la tua dolce nota; il clero sta molto bene. Porterò con me quei frammenti che riterrò opportuni. Bacio qui il foglio per te e per il Dottor Holland. Vorrei che fossero guance al posto di questo foglio.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_grave,motif/rose,motif/grass,motif/flowers,concept/faith,concept/faith_and_doubt,concept/friendship,concept/mortality,form/lyric,form/letter,histref/the_orient,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -244,7 +226,6 @@ That bareheaded life, under the grass, worries one like a wasp.
 The [[motifs/rose|rose]] is for Mary.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non dimentichiamo mai Mary.
@@ -261,8 +242,6 @@ Quella vita senza copricapo, sotto l’erba, preoccupa le persone come se fosser
 
 La [[motifs/rose|rosa]] è per Mary.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_early_summer_1862" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Early Summer, 1862" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/animals,motif/summer,concept/friendship,concept/longing,concept/grief_and_loss,concept/love_divine,concept/desire_and_longing,form/letter,histref/christianity,setting/new_england,character/christ,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -285,7 +264,6 @@ Mother sends her [[motifs/love|love]] to you—she has a sprained foot, and can 
 Don't dishearten, Mary, we'll keep thinking of you. Kisses for all.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cara Mary, —Quando ciò che è migliore se n’è andato, so che le altre cose non hanno più importanza. Il cuore vuole ciò che desidera, altrimenti non gliene importa nulla.
@@ -304,8 +282,6 @@ La madre ti manda il suo [[motifs/love|amore]]. Ha un piede slogato, quindi può
 
 Non scoraggiarti, Mary, continueremo a pensare a te. Baci per tutti.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_to_mr_bowles_june_1862" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, To Mr. Bowles, June, 1862" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/ubi_sunt,motif/rose,motif/birds,motif/flowers,motif/memory,motif/the_sea,motif/prayer,motif/the_grave,concept/friendship,concept/longing,concept/transience,concept/memory,concept/grief_and_loss,form/letter,histref/the_bible,setting/new_england,character/elizabeth_barrett_browning,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -334,7 +310,6 @@ Should anybody, where you go, talk of Mrs. Browning, you must hear for us, and i
 Father and mother, and Vinnie and Carlo, send their [[motifs/love|love]] to you, and warm wish for your health—and I am taking lessons in [[motifs/prayer|prayer]], so to coax [[characters/god|God]] to keep you safe. Good-[[motifs/night|night]], dear friend. You [[motifs/sleep|sleep]] so far, how can I know you hear?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —tu te ne vai, e dove tu vai noi non possiamo seguirti. Ma i mesi hanno dei nomi, ognuno arriva una sola volta all’anno. E anche se sembra che non possano mai passare, a volte succede davvero.
@@ -359,8 +334,6 @@ Se qualcuno, doveunque tu vada, dovesse parlare di Madame Browning, devi ascolta
 
 Padre e madre, così come Vinnie e Carlo, vi inviano il loro [[motifs/love|amore]] e i loro sinceri desideri per la vostra salute. Io sto imparando a pregare, affinché possa convincere [[characters/god|Dio]] a proteggervi. Buona [[motifs/night|notte]], caro amico. Se dormite già profondamente, come posso sapere se mi sentite?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_1868" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, 1868?" data-chapter="" data-kind="intro" data-tags="motif/water,motif/letters_writing,concept/friendship,concept/resurrection,concept/faith,concept/transience,form/letter,histref/christianity,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -379,7 +352,6 @@ Come always, dear friend, but refrain from going. You spoke of not liking to be 
 Treason never knew you.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dovrei pensare che tu abbia poche lettere da inviare, poiché le tue sono così nobili da incutere paura negli uomini. E per quanto dolce sia il tuo consenso, esso viene ricevuto con [[concepts/fear|paura]], nel timore che la tua profondità possa condannarci.
@@ -394,8 +366,6 @@ Come sempre, caro amico, ma evita di andare. Hai detto che non vuoi essere dimen
 
 La tradizione traditrice non ti ha mai conosciuto.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,concept/suffering,concept/grief_and_loss,concept/war_and_its_cost,concept/mortality,form/letter,histref/american_civil_war,character/robert_browning,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -406,15 +376,12 @@ La tradizione traditrice non ti ha mai conosciuto.
 'Tis dangerous to value, for only the precious can alarm. I noticed that Robert Browning had made another [[forms/poem|poem]], and was astonished—till I remembered that I, myself, in my smaller way, sang off charnel steps. Every day life feels mightier, and what we have the power to be, more stupendous.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 , Il dolore sembra essere più diffuso di quanto non fosse prima dell’inizio della guerra; non riguarda soltanto poche persone. Se l’angoscia degli altri potesse aiutare quella di ciascuno, ora ci sarebbero molti modi per alleviarlo.
 
 È pericoloso dare valore alle cose, perché solo ciò che è prezioso può suscitare preoccupazione. Notai che Robert Browning aveva scritto un altro [[forms/poem|poema]] e ne fui sorpreso, finché non ricordai che anch’io, a mio modo, “cantavo” sulle scale di una tomba. La vita quotidiana sembra sempre più potente, e ciò che abbiamo il potere di diventare, ancora più straordinario.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_spring_1871" data-title="To the Misses, Spring, 1871" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/suffering,motif/pain,motif/love,concept/friendship,concept/fear,concept/endurance,concept/self_sacrifice,concept/mortality,form/letter,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -433,7 +400,6 @@ Interview is acres, while the broadest [[forms/letter|letter]] feels a bandaged 
 Tell F——we hold her tight. Tell L——[[motifs/love|love]] is oldest and takes care of us, though just now in a piercing place.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La volontà è sempre vicina, caro mio, anche se i modi di agire possono variare. Il terrore dell’[[motifs/winter|inverno]] mi ha reso una creatura timida. Mentre prima mi consideravo così coraggioso.
@@ -448,8 +414,6 @@ Un'intervista è un’esperienza vastissima, mentre la lettera più semplice sem
 
 Dì a F, che la teniamo stretta. Dì a L, che l’[[motifs/love|amore]] è il più antico e si prende cura di noi, anche se poco fa in un modo molto doloroso.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,motif/flowers,motif/tears,concept/grief_and_loss,concept/death,concept/mortality,concept/despair,form/letter,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -466,7 +430,6 @@ Father does not live with us now—he lives in a new house. Though it was built 
 I cannot write any more, dears. Though it is many nights, my mind never comes [[motifs/home|home]]. Thank you each for the [[motifs/love|love]], though I could not notice it. Almost the last tune that he heard was, “Rest from thy loved employ.”
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando, nel giugno del 1874, il padre di Emily morì improvvisamente a Boston – ammalatosi mentre teneva un discorso al Parlamento e deceduto nel giro di poche ore – l’impatto su di lei fu come se le fondamenta del suo mondo fossero crollate. Si riprese in parte, e dopo alcuni giorni scrisse ai suoi cugini:
@@ -479,25 +442,18 @@ Il padre non vive più con noi: ora abita in una nuova casa. Anche se è stata c
 
 Non riesco più a scrivere, cari. Anche se sono trascorse molte notti, la mia mente non torna mai a [[motifs/home|casa]]. Grazie a ciascuno di voi per l’[[motifs/love|amore]] che mi avete dimostrato, anche se forse non me ne sono reso conto. L’ultima canzone che ha ascoltato è stata: “Riposati dal tuo amato lavoro”.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_summer_1875" data-title="To the Misses, Summer, 1875" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/birds,motif/the_grave,motif/death,motif/memory,motif/food_feasting,concept/grief_and_loss,concept/death,concept/memory,concept/friendship,form/letter,setting/the_grave,character/charlotte_bronte,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
 
 
-<<<<<<< HEAD
 DEAR CHILDREN,—I decide to give you one more package of lemon drops, as they only come once a year. It is fair that the bonbons should change hands, you have so often fed me. This is the very weather that I lived with you those amazing years that I had a father. W. D.——'s wife came in last week for a day and a [[motifs/night|night]], saying her heart drove her. I am glad that you loved Miss W——on knowing her nearer. Charlotte Brontë said “Life is so constructed that the event does not, cannot, match the expectation.”
-=======
-DEAR CHILDREN,—I decide to give you one more package of lemon drops, as they only come once a year. It is fair that the bonbons should change hands, you have so often fed me. This is the very weather that I lived with you those amazing years that I had a father. W. D.——'s wife came in last week for a day and a [[motifs/night|night]], saying her heart drove her. I am glad that you loved Miss W——on knowing her nearer. [[characters/charlotte-brontë|Charlotte Brontë]] said “Life is so constructed that the event does not, cannot, match the expectation.”
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 The [[motifs/birds|birds]] that father rescued are trifling in his trees. How flippant are the saved! They were even frolicking at his [[motifs/grave|grave]], when Vinnie went there yesterday. [[concepts/nature|Nature]] must be too young to feel, or many years too old.
 
 Now children, when you are cutting the loaf, a crumb, peradventure, a crust; of [[motifs/love|love]] for the sparrows' table. . . .
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cari bambini, ——ho deciso di darvi un altro pacchetto di caramelle al limone, visto che arrivano solo una volta all’anno. È giusto che queste caramelle cambino mano, dato che voi mi avete nutrito così spesso. Questo è proprio il tipo di tempo in cui ho vissuto con voi in quegli anni meravigliosi in cui avevo un padre. La moglie di W. D. è venuta a trovarci la scorsa settimana per un giorno e una notte, dicendo che il suo cuore le imponeva di farlo. Sono felice che abbiate imparato ad apprezzare Miss W. dopo averla conosciuta meglio. Charlotte Brontë disse: “La vita è fatta in modo tale che gli eventi non corrispondano mai, o comunque non possano corrispondere, alle nostre aspettative.”
@@ -506,8 +462,6 @@ Gli [[motifs/birds|uccelli]] che il padre ha salvato ora si muovono liberamente 
 
 Ora bambini, quando tagliate il pane, lasciatevi cadere qualche briciola, magari solo la crosta, come un segno di [[motifs/love|amore]] per il cibo che offrite ai passeri.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_november_1882" data-title="To the Misses, November, 1882" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,motif/grass,motif/the_sea,motif/memory,motif/wind,concept/grief_and_loss,concept/death,concept/eternity,concept/faith,concept/immortality_divine,form/letter,histref/the_bible,setting/the_grave,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -528,7 +482,6 @@ I cannot tell how [[concepts/eternity|Eternity]] seems. It sweeps around me like
 “Thou gavest it to me from the foundation of the world.”
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cari cugini, —avrei voluto scrivervi prima, ma la morte di nostra madre quasi mi ha sconvolto.
@@ -545,8 +498,6 @@ Non riesco a descrivere come appaia l’[[concepts/eternity|Eternità]]; mi avvo
 
 “Me l’hai dato fin dalle origini del mondo.”
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson_april_26_1862" data-title="To Mr. Thomas Wentworth Higginson, April 26, 1862" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,motif/the_book,motif/animals,concept/immortality,concept/fear,concept/solitude,concept/creativity_and_artistic_labor,concept/faith,form/letter,histref/the_bible,setting/new_england,character/john_keats,character/walt_whitman,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -579,7 +530,6 @@ I could not weigh myself, myself. My size felt small to me. I read your chapters
 Is this, sir, what you asked me to tell you?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Signor Higginson, —la sua gentilezza meritava già la mia gratitudine in passato, ma ero malato e scrivo oggi dal mio letto.
@@ -608,8 +558,6 @@ Non riuscivo a pesarmi. La mia statura mi sembrava piccola. Ho letto i tuoi arti
 
 È questo, signore, ciò che mi avete chiesto di dirvi?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson_winter_1871" data-title="To Mr. Thomas Wentworth Higginson, Winter, 1871" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/grass,motif/water,motif/music_and_song,motif/winter,concept/friendship,concept/mortality,concept/transience,form/letter,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -630,7 +578,6 @@ I will study it, though hitherto,—
 Menagerie to me My neighbor be.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vivere è così sorprendente che lascia poco spazio ad altre attività; tuttavia, avere degli amici, se possibile, rappresenta un evento ancora più bello.
@@ -647,8 +594,6 @@ Lo studierò, anche se finora…
 
 Per me, le gabbie zoologiche sono come i miei vicini.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_joseph_sweetser_1884" data-title="To Mrs. Joseph Sweetser, 1884" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/food_feasting,motif/autumn,concept/faith,concept/friendship,concept/wonder_and_gratitude,form/letter,histref/the_bible,setting/a_garden,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -665,7 +610,6 @@ I [[concepts/hope|hope]] you are [[motifs/well|well]] as you deserve, which is a
 Aunt L———just looked in on us, and I go to make her dish of homestead Charlotte Russe.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cara zia, – Grazie per aver pensato alle ninfee.
@@ -678,8 +622,6 @@ Spero che siate tutti [[motifs/well|beni]] come meritate, il che rappresenta una
 
 La zia L———è venuta a darci un’occhiata, e io ho deciso di prepararle il suo piatto preferito: la Charlotte Russe fatta in casa.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_greenough_after_her_mothers_death" data-title="To Mrs. Greenough, After her Mother's Death, October, 1885" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/the_grave,motif/snow,motif/memory,concept/grief_and_loss,concept/death,concept/memory,concept/endurance,form/letter,setting/the_grave,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -696,7 +638,6 @@ Let me enclose the tenderness born of bereavement.
 To have had a mother—how mighty!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, ho avuto la fortuna di avere una madre per un mese in più rispetto a te: mia madre è morta a novembre, ma mi è toccata anche l’angoscia di vedere la prima [[motifs/snow|neve]] cadere sulla sua [[motifs/grave|tomba]] il giorno dopo. Una cosa che, caro amico, a te è stata risparmiata.
@@ -709,8 +650,6 @@ Lasciate che vi invii la tenerezza nata dal lutto.
 
 Avere avuto una madre, che cosa meravigliosa!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_currier_april_10_1886" data-title="To Mrs. Currier, April 10, 1886" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/spring,motif/death,concept/crime_and_punishment,concept/friendship,concept/memory,concept/death,form/letter,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
@@ -727,7 +666,6 @@ Don't you think fumigation ceased when father died?
 Poor, romantic Miss M——! But perhaps a Police Gazette was better for you than an [[forms/essay|essay]].
 
 I [[concepts/hope|hope]] you are both stronger, and ask a word of gain with these ecstatic days. I give my anxious [[motifs/love|love]], and Vinnie's faithfulness with mine.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -743,5 +681,3 @@ Non pensi che la fumigazione sia cessata dopo la morte di nostro padre?
 Povera, romantica signorina M. Ma forse un giornale di polizia era più adatto a lei di un [[forms/essay|saggio]].
 
 Spero che entrambi siate più forti, e che questi giorni di gioia possano portarvi benefici. Vi dono il mio amore ansioso, e la fedeltà di Vinnie insieme alla mia.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/self-knowledge-immortality-self-reliance" data-author="Eliot" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(eliot)"></div>
 
 
-<<<<<<< HEAD
 Animula · The Cultivation of Christmas Trees · I The Eagle soars in the summit of Heaven · A Note on War Poetry · [At Graduation 1905] · A, B, C · G, H, I · J, K, L · M, N, O · P, Q, R · S, T, U
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="045_animula" data-title="Animula" data-chapter="" data-kind="intro"></span>
 
 

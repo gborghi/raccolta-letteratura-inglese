@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/sea-water--letters" data-author="Dickinson" data-workhref="works/sea-·-water-(dickinson)" data-collection="letters"></div>
 
 
-<<<<<<< HEAD
 To Dr. J. G. Holland, and Mrs. Holland, Saturday Eve · To the Misses, 1872, or 1873 · To Mr. Thomas Wentworth Higginson, June 8, 1862 · To Mrs. Edward Tuckerman, August, 1878
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_saturday_eve" data-title="To Dr. J. G. Holland, and Mrs. Holland, Saturday Eve" data-chapter="" data-kind="intro" data-tags="topos/dance_of_death,archetype/death_personified,motif/death,motif/garden,motif/disease_contagion,motif/a_ship,concept/mortality,concept/equality_in_death,concept/grief_and_loss,form/letter,histref/the_bible,setting/a_garden,cluster/sea,cluster/water"></span>
 
 
@@ -31,7 +28,6 @@ I shall not tell how short [[motifs/time|time]] is, for I was told by lips which
 Ask her if vice versa? Mine is but just the thief's request —“Remember me to-day.” Such are the bright chirographies of the “[[motifs/lamb|Lamb]]'s Book.” Good-[[motifs/night|night]]! My ships are in!—My [[motifs/window|window]] overlooks the wharf! One yacht, and a man-of-war; two brigs and a schooner! “Down with the topmast! Lay her a' hold, a' hold!”
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Hollands,  
@@ -43,8 +39,6 @@ Non dirò quanto sia breve il [[motifs/time|tempo]], perché me l’hanno detto 
 
 Chiedile se vale lo stesso anche al contrario. Il mio caso è proprio questo: si tratta soltanto della richiesta di un ladro, “Ricordati di me oggi, ” Queste sono le “chiare scritture” del “Libro dell’[[motifs/lamb|Agnello]]”. Buona [[motifs/night|notte]]! I miei navigli sono arrivati. La mia [[motifs/window|finestra]] dà sul molo: un yacht, una nave da guerra, due brighe e una goletta, “Tagliate via l’albero maestro! Tenetela ferma, fermatela!”
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_misses_1872_or_1873" data-title="To the Misses, 1872, or 1873" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/music_and_song,motif/eyes_sight,concept/friendship,concept/hope,concept/disillusionment,concept/endurance,form/letter,cluster/sea,cluster/water"></span>
@@ -63,7 +57,6 @@ Glad you heard Rubinstein. Grieved L——could not hear him. He makes me think 
 I am troubled for L——'s eye. Poor little girl! Can I help her? She has so many times saved me. Do take her to Arlington Street.9 Xerxes must go now and see to her worlds. You shall “taste,” dear.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Grazie, caro, per l’[[motifs/love|amore]]. Sto facendo progressi, anche se lentamente.
@@ -78,8 +71,6 @@ Sono contento che tu abbia ascoltato Rubinstein. Mi dispiace che L——non sia 
 
 Sono preoccupata per l’occhio di L. Povera piccola ragazza! Posso aiutarla? Lei mi ha salvato tante volte. Portatela sicuramente in Arlington Street. Ora Xerxes deve andare a prendersi cura dei suoi mondi. Tu dovrai “assaggiarli”, caro.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thomas_wentworth_higginson_june_8_1862" data-title="To Mr. Thomas Wentworth Higginson, June 8, 1862" data-chapter="" data-kind="intro" data-tags="motif/death,motif/dawn,motif/the_sea,motif/animals,concept/creativity_and_artistic_labor,concept/friendship,concept/literary_criticism,concept/ambition,concept/inexpressibility,form/letter,cluster/sea,cluster/water"></span>
@@ -106,7 +97,6 @@ But, will you be my preceptor, Mr. Higginson?
 After these startling letters it was but natural that Mr. Higginson should have asked to see a photograph of his “enigmatical correspondent.” But there was none. She had an unconquerable aversion to seeing herself reproduced in any sort of “mould.” The frontispiece to the first volume of these Letters is taken from an oil painting of Emily, when she was but eight years old, in a group with her brother and sister. The only other known representation of her face is a daguerrotype made a few years later; but it is entirely unsatisfactory, both in expression and individuality. Instead of her photograph, she sent this verbal portrait. Her coy avoidance of Mr. Higginson's request was as characteristically piquant as her answer to his question of her age;—
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —La tua [[forms/letter|lettera]] non menzionava alcun episodio legato all’alcol, perché avevo già assaggiato il rum prima. Domingo arriva solo una volta al mese; tuttavia, poche cose mi hanno dato tanta gioia quanto le tue parole. E se provassi a ringraziarti, le mie [[motifs/tears|lacrime]] mi impedirebbero di parlare.
@@ -129,8 +119,6 @@ Ma sareste voi il mio precettore, signor Higginson?
 
 Dopo queste lettere sorprendenti, era del tutto naturale che il signor Higginson chiedesse di vedere una fotografia della sua “enigmatica corrispondente”. Ma non ne esisteva alcuna. Lei provava un’avversione insormontabile all’idea di vedersi riprodotta in qualsiasi forma. La copertina del primo volume di queste Lettere riporta un ritratto a olio di Emily, quando aveva soltanto otto anni, raffigurata insieme al fratello e alla sorella. L’unica altra rappresentazione conosciuta del suo volto è un dagherrotipo realizzato pochi anni dopo; tuttavia, sia l’espressione che la caratteristica individuale sono completamente insoddisfacenti. Al posto di una fotografia, lei gli inviò questo “ritratto verbale”. Il modo in cui evitò con discrezione la richiesta del signor Higginson era altrettanto caratteristico e incisivo quanto la sua risposta alla domanda riguardante la sua età.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_edward_tuckerman_august_1878" data-title="To Mrs. Edward Tuckerman, August, 1878" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/imagination,concept/joy,concept/friendship,concept/wonder,form/letter,cluster/sea,cluster/water"></span>
@@ -147,7 +135,6 @@ Would adding to it take it away, or is that a penurious question?
 To cherish you is intuitive.
 
 As we take [[concepts/nature|Nature]], without permission, let us covet you.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -163,5 +150,3 @@ Aggiungerci qualcosa lo eliminerebbe, o è questa una domanda troppo limitata ne
 Amar te è qualcosa che viene naturale.
 
 Mentre possediamo la [Natura], senza permesso, desideriamo ardentemente te.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

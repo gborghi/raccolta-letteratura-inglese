@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/whitman/atomized/heroism-hero-last-stand" data-author="Whitman" data-workhref="works/heroism-·-hero-·-last-stand-(whitman)"></div>
 
 
-<<<<<<< HEAD
 The Centenarian’s Story · A Sight in Camp in the Daybreak Gray and Dim · I Saw Old General at Bay · To Him That Was Crucified · O Star of France [1870-71] · From Far Dakota’s Canyons  [June 25, 1876] · To-Day and Thee · Abraham Lincoln, Born Feb. 12, 1809 · Death of General Grant · Washington’s Monument February, 1885 · As the Greek’s Signal Flame · Osceola
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="150_the_centenarian_s_story" data-title="The Centenarian’s Story" data-chapter="" data-kind="intro"></span>
 
 

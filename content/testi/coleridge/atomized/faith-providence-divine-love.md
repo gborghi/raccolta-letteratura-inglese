@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/faith-providence-divine-love" data-author="Coleridge" data-workhref="works/faith-·-providence-·-divine-love-(coleridge)"></div>
 
 
-<<<<<<< HEAD
 ANTHEM FOR THE CHILDREN OF CHRIST’S HOSPITAL · PROGRESS OF VICE · MORIENTI SUPERSTES · O! I HAVE WAK’D AT MIDNIGHT, AND HAVE WEPT · PITY · SONNET: ON RECEIVING A LETTER INFORMING ME OF THE BIRTH OF A SON · THOUSAND HUMAN BEINGS, MEN, WOMEN, AND CHILDREN, MURDERED IN COLD BLOOD, · THE WANDERINGS OF CAIN · TRANSLATION OF A PASSAGE IN OTTFRIED’S METRICAL PARAPHRASE OF THE GOSPEL · HEXAMETERS: PARAPHRASE OF PSALM XLVI · A CHRISTMAS CAROL · REPLY TO THE ABOVE · THE BLOSSOMING OF THE SOLITARY DATE-TREE · THE RASH CONJURER · THE VIRGIN’S CRADLE-HYMN · TIME, REAL AND IMAGINARY · A HYMN · FAITH, HOPE, AND CHARITY FROM THE ITALIAN OF GUARINI · THE TEARS OF A GRATEFUL PEOPLE · A DIALOGUE BETWEEN POET AND FRIEND · THE PANG MORE SHARP THAN ALL: AN ALLEGORY · LOVE, HOPE, AND PATIENCE IN EDUCATION · FORBEARANCE · MY BAPTISMAL BIRTH-DAY · JOB’S LUCK · EPITAPH OF THE PRESENT YEAR ON THE MONUMENT OF THOMAS FULLER · HYMNS — MOON · TO EDWARD IRVING · A METRICAL ACCIDENT · CHRISTOPHER HARVEY THE SYNAGOGUE · W. L. BOWLES
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="004_anthem_for_the_children_of_christs_hospital" data-title="ANTHEM FOR THE CHILDREN OF CHRIST’S HOSPITAL" data-chapter="" data-kind="intro"></span>
 
 
@@ -57,12 +54,44 @@ And each glad scene look brighter for the [[motifs/storm|storm]]!
 1789.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Serafini! che intorno al seggio dell’Eterno v’accalcate  
+Con melodiose estasi di lode:  
+Oh! insegnate alle nostre deboli lingue a levare come le vostre il canto  
+Di fervente gratitudine —  
+Come voi, ispirati di santa fiamma    5  
+A soffermarci su quel nome Onnipotente  
+Che ordinò al [[archetypes/child|figlio]] del Dolore di non più sospirare,  
+E fece che la Gioia in [[motifs/tears|lacrime]] coprisse l’occhio della vedova.  
+Il Genitore d’ogni grazia ode la [[motifs/prayer|preghiera]] del misero;  
+La mite lacrima perora forte lassù;   10  
+La smorta [[concepts/resignation|Rassegnazione]] che lotta con la [[concepts/despair|disperazione]]  
+Il Signore contempla con occhio pietoso;  
+Vede il Bisogno sconsolato struggersi non compianto,  
+La Malattia reclinare in terra il capo,  
+E ordina alla Compassione di cercare i regni del dolore   15  
+Per risanare i feriti, e sollevare gli umili.  
+Ella viene! ella viene! la Potenza dagli occhi miti io vedo  
+Con liberale mano che ama benedire;  
+Le nubi del Dolore fuggono alla sua presenza;  
+Gioite! gioite! voi Figli dell’Affanno!   20  
+I raggi che giocano intorno al suo capo  
+Spandono il loro splendore per l’oscura valle del Bisogno:  
+La giovane mente incolta beve il raggio,  
+E il Vizio riluttante lascia la preda attesa.  
+Cessa, tu madre derelitta! cessa i tuoi tetri lamenti;   25  
+Voi bimbi! tralasciate il singhiozzo inconsapevole;  
+O lasciate che piena Gratitudine ora susciti la lacrima  
+Che un tempo il Dolore costringeva a scorrere.  
+Freddo scortese e tempesta stridula  
+Nel mattino della Vita spesso agghiacciano il viandante,   30  
+Ma presto il sole dell’[[motifs/love|Amore]] scalderà il suo cammino;  
+E ogni lieta scena parrà più chiara per la [[motifs/storm|tempesta]]!  
+1789.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="011_progress_of_vice" data-title="PROGRESS OF VICE" data-chapter="" data-kind="intro"></span>
 
 
@@ -94,12 +123,37 @@ Ah! close the scene — ah! close — for dreadful is the sight.
 1790.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Nemo repente turpissimus]  
+Nel profondo del golfo del Vizio e del Dolore  
+Balza l’Uomo d’un tratto con salto a capofitto?  
+Lo guidano [[concepts/truth|Verità]] e Virtù innate,  
+Le cui guardie sono la Vergogna e il consapevole [[concepts/pride|Orgoglio]].  
+In qualche ora gaia il Vizio s’insinua nel petto;   5  
+Forse indossa la veste di qualche Virtù più mite.  
+Per gradi impercettibili tenta a smarrirsi,  
+Finché lontano dal sentiero della Virtù conduce via i piedi.  
+Allora rapida, per disincantare l’[[motifs/soul|anima]],  
+La [[motifs/memory|Memoria]] richiamerà il passato,   10  
+E la [[concepts/fear|Paura]] davanti agli occhi della Vittima  
+Farà sorgere mali e pericoli futuri.  
+Ma odi! la Voce, la Lira, uniscono i loro incanti —  
+Gaio scintilla nella coppa il Vino generoso —  
+L’ebbra [[motifs/dance|danza]], la bella fragile Ninfa ispira,   15  
+E la Virtù vinta — schernita — con rapida fuga si ritira.  
+Ma presto i Piaceri cessano di tentare;  
+Pur la Vergogna vieta il ritorno alla pace,  
+E severa Necessità costringerà  
+A spingere ancora avanti la corsa disperata.   20  
+I tetri neri sentieri del Vizio il misero deve tentare,  
+Dove la [[concepts/conscience|Coscienza]] balena orrore in ogni occhio,  
+Dove l’Odio — dove l’Assassinio guardan torvi — dove balza lo Spavento!  
+Ah! chiudi la scena — ah! chiudila — ché terribile è la vista.  
+1790.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="061_morienti_superstes" data-title="MORIENTI SUPERSTES" data-chapter="" data-kind="intro"></span>
 
 
@@ -114,12 +168,20 @@ No sparrow falleth to the ground.
 ? 1794.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Pur sei assai più felice di colei  
+Che sente l’[[motifs/love|amore]] della vedova per te!  
+Ché mentre i suoi giorni son giorni di pianto,  
+Tu, in pace, in [[motifs/silence|silenzio]] dormendo,  
+In qualche mondo immoto, ignoto, remoto,   5  
+Hai trovato la cura del possente genitore,  
+Senza il cui tenero pensiero custode  
+Nessun passero cade a terra.  
+? 1794.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="080_o_i_have_wakd_at_midnight_and_have_wept" data-title="O! I HAVE WAK’D AT MIDNIGHT, AND HAVE WEPT" data-chapter="" data-kind="intro"></span>
 
 
@@ -141,12 +203,27 @@ And praise Him Gracious with a Brother’s Joy!
 1794.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Oh! mi son destato a mezzanotte, e ho pianto,  
+Perché ella non era più! — Su, allegro, caro Charles!  
+Tu il tuo migliore amico avrai caro per molti anni:   20  
+Tali calde presaghe sento d’alta [[concepts/hope|Speranza]].  
+Ché non senza interesse la cara Fanciulla  
+Ho guardato — l’[[motifs/soul|anima]] sua affettuosa eppur saggia,  
+Il suo arguto ingegno terso mite come lambenti glorie  
+Che giocano intorno al capo d’un infante santo.   25  
+Egli sa (lo Spirito che vede in segreto,  
+Del cui onnisciente e tutto-diffuso [[motifs/love|Amore]]  
+Implorare alcunché sarebbe impotenza di mente)  
+Che i miei muti pensieri son mesti dinanzi al suo trono,  
+Pronti, quando egli conceda il suo raggio risanatore,   30  
+A effondere il rendimento di grazie con cuore levato,  
+E lodarlo Benigno con la Gioia d’un Fratello!  
+1794.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="098_pity" data-title="PITY" data-chapter="" data-kind="intro"></span>
 
 
@@ -167,12 +244,26 @@ And call’d them Friends, and heal’d their noisome sores!
 ? 1795.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dolce [[concepts/mercy|Misericordia]]! come m’ha sanguinato il cuore  
+Nel vederti, povero Vecchio! e i tuoi capelli grigi  
+Canuti per la raffica nevosa: mentre nessuno si cura  
+Di vestire le tue membra rattrappite e il capo tremante.  
+Padre mio! getta via questa veste lacera   5  
+Che si beffa del tuo tremore! prendi la mia veste — usa  
+Il braccio d’un giovane! Io scioglierò queste rugiade gelate  
+Che pendono dalla tua bianca barba e t’intorpidiscono il petto.  
+Anche la mia Sara ti curerà, come un [[archetypes/child|figlio]]:  
+E tu parlerai, nel canto del nostro focolare,   10  
+Del purpureo [[concepts/pride|Orgoglio]], che guarda torvo la Miseria —  
+Non fece così il mite Galileo,  
+Che incontrò i lebbrosi cacciati dalle porte dei ricchi  
+E li chiamò Amici, e sanò le loro piaghe fetide!  
+? 1795.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="118_sonnet_on_receiving_a_letter_informing_me_of_the_birth_of_a_son" data-title="SONNET: ON RECEIVING A LETTER INFORMING ME OF THE BIRTH OF A SON" data-chapter="" data-kind="intro"></span>
 
 
@@ -193,12 +284,26 @@ And he be born again, a [[archetypes/child|child]] of God.
 Sept. 20, 1796.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quando mi salutarono padre, un timore improvviso  
+M’oppresse lo spirito: mi ritirai e m’inginocchiai  
+Cercando il trono della grazia, ma dentro sentii  
+Che nessuna visitazione celeste attirava in alto  
+La mia debole mente, né impartiva raggio confortante.   5  
+Ahimè! dinanzi al Sire Eterno portai  
+L’inquieto [[motifs/silence|silenzio]] di pensiero confuso  
+E sentimenti informi: il mio cuore sopraffatto  
+Tremò, e vuote [[motifs/tears|lacrime]] mi scorsero sul volto.  
+E ora ancora una volta, o Signore! a te mi piego,   10  
+[[archetypes/lover|Amante]] delle anime! e gemo per la grazia futura,  
+Che prima che il mio bimbo abbia calcato il periglioso labirinto della giovinezza,  
+Il tuo Spirito adombrante discenda,  
+Ed egli rinasca, [[archetypes/child|figlio]] di Dio.  
+20 sett. 1796.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="127_thousand_human_beings_men_women_and_children_murdered_in_cold_blood" data-title="THOUSAND HUMAN BEINGS, MEN, WOMEN, AND CHILDREN, MURDERED IN COLD BLOOD," data-chapter="" data-kind="intro"></span>
 
 
@@ -383,12 +488,190 @@ Cleans’d from bedimming [[concepts/fear|Fear]], and Anguish weak and blind.
 1803.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+per nessun altro delitto se non che la loro guarnigione aveva difeso il luogo con
+perseveranza e coraggio. Perché dovrei ricordare l’avvelenamento del suo
+marito, le sue iniquità in Polonia, o il suo recente attacco immotivato alla
+Persia, la desolante [[concepts/ambition|ambizione]] della sua vita pubblica, o gli eccessi
+libidinosi delle sue ore private! Non ho desiderio di qualificarmi per la
+carica di Storiografo del [[archetypes/king|Re]] dell’Inferno — ! 23 dicembre 1796.
+4{o}.
+come in una visione; e si conclude introducendo l’Angelo Planetario della
+Terra che si prepara a rivolgersi all’Essere Supremo. 1803.
+4{o}.
+Rovina di questo Paese. 1803.
+vantaggi peculiari, di cui questo paese ha goduto, passa in rapida
+transizione agli usi che di questi vantaggi abbiamo fatto. Siamo
+stati preservati dalla nostra situazione insulare dal [[concepts/suffering|soffrire]] noi stessi gli orrori
+reali della Guerra, e abbiamo mostrato la nostra gratitudine alla [[concepts/providence|Provvidenza]]
+per questa immunità con la nostra bramosia di spandere quegli orrori su nazioni
+meno felicemente situate. In mezzo all’abbondanza e alla sicurezza abbiamo levato
+o accompagnato l’urlo per la carestia e il [[motifs/blood|sangue]]. Dei centosette
+ultimi anni, cinquanta sono stati anni di Guerra. Tale malvagità non può passare
+impunita. Siamo stati superbi e fiduciosi nelle nostre alleanze e nelle nostre
+flotte — ma Dio ha preparato il verme roditore, e colpirà
+le zucche del nostro [[concepts/pride|orgoglio]]. ‘Sei tu forse migliore di No la popolosa, che era
+situata fra i fiumi, che aveva le acque intorno a sé, il cui
+bastione era il Mare? L’Etiopia e l’[[settings/egypt|Egitto]] erano la sua forza ed essa era
+infinita: Put e Lubim erano i suoi soccorritori. Pure ella fu deportata, andò
+in cattività: e tirarono a sorte i suoi uomini onorati, e tutti
+i suoi grandi furono legati in [[motifs/chains|catene]]. Anche tu sarai ubriaca: tutte le tue
+fortezze saranno come fichi coi primi fichi maturi; se saranno
+scossi, cadranno proprio nella bocca di chi mangia. Hai
+moltiplicato i tuoi mercanti più delle [[motifs/stars|stelle]] del cielo. I tuoi coronati sono come
+le locuste; e i tuoi capitani come le grandi cavallette che s’accampano
+nelle siepi nel giorno fresco; ma quando il Sole sorge fuggono via, e
+non si sa più dove sia il loro luogo. Non v’è guarigione per la tua
+contusione; la tua ferita è grave: tutti quelli che udranno la fama di te
+batteranno le mani su di te: ché su chi non è passata di continuo
+la tua malvagità?’ Nahum, cap. iii. 4{o}, 1797, 1803.
+fu scritta molti anni prima dell’abolizione della Tratta degli Schiavi da parte del
+Legislativo britannico, e parimenti prima dell’invasione della Svizzera da parte della
+Repubblica Francese, che diede occasione all’Ode che segue [France: an
+Ode. Pubblicata dapprima come The Recantation: an Ode], una specie di
+Palinodia.’ Nota MS. di S. T. C.
+Titolo] Ode for the last day of the Year 1796, C. I.: Ode on the
+Departing Year 4{o}, 1797, 1803, S. L., 1817, 1828, 1829.
+Motto] 3-5 Tutte le edizioni (dal 4{o} al 1834) leggono Æ·¼w¿¹Â invece di ´ÅÃÆÁ¿¹¼w¿¹Â,
+e ³±½ ³’ invece di ³±½; e tutte prima del 1834 ¼·½ invece di ¼’ ½.
+I] Strophe I C. I., 4{o}, 1797, 1803.
+Quand’ecco! lontano innanzi ondeggiando al [[motifs/wind|vento]]
+Vidi i lembi dell’ANNO CHE SE NE VA.
+C. I., 4{o}, 1797, 1803.
+forebade 4{o}, 1797, 1803.
+II] Strophe II C. I., 4{o}, 1797, 1803.
+Dal languore che consuma il cuore della [[concepts/poverty|Povertà]]
+Dall’angoscia di mezzanotte del Morbo
+C. I., 4{o}, 1797, 1803.
+Presa da aspro travaglio e parto portentoso
+(Le sue pupille lampeggianti un bagliore pernicioso)
+La [[concepts/nature|Natura]] malata lotta! Odi! le sue doglie crescono!
+I suoi gemiti sono orribili! ma oh! bellissimi
+I Gemelli promessi che partorisce — Eguaglianza e Pace!
+C. I., 4{o}.
+III] Epode C. I., 4{o}, 1797, 1803.
+[Fra il 51 e il 52]
+Le cui strida, le cui grida furon vane a commuovere
+Il Massacro dal riso alto e dagli occhi rossi
+C. I., 4{o}, 1797, 1803.
+[Dopo il 61]
+Quando cesserà la STRAGE inscettrata?
+Per un poco s’acquattò, o Francia Vittoriosa!
+Sotto il [[motifs/lightning|fulmine]] della tua lancia;
+Con perfido gingillarsi corteggiando la PACE —
+Ma presto balzando su dal suo trance codardo
+Il vanaglorioso sanguinario Figlio dell’[[concepts/pride|Orgoglio]] tradì
+Il suo antico odio per la Fanciulla dagli occhi di colomba.
+Una nube, o [[concepts/freedom|Libertà]]! [[motifs/cross|attraversò]] il tuo orbe di Luce,
+Ed egli certo credette quell’orbe tramontato nella [[motifs/night|notte]]:
+Ché ancora la [[concepts/madness|FOLLIA]] vaga sulla bieca vertiginosa altura della [[concepts/guilt|COLPA]]!
+C. I.
+Quando cesserà l’inscettrata, ecc.
+*       *       *       *       *
+Con perfido gingillarsi vagheggiando la Pace.
+Ma presto balzando su dal suo trance vigliacco
+Il vanaglorioso sanguinario Figlio dell’[[concepts/pride|Orgoglio]] tradì
+Il suo odio per la Fanciulla benedetta e benedicente.
+Una nube, o [[concepts/freedom|Libertà]]! [[motifs/cross|attraversò]] il tuo orbe di Luce,
+Ed egli certo credette quell’orbe spento nella [[motifs/night|notte]]:
+Ché ancora, ecc.
+4{o}.
+Per raggirare questo popolo facilmente raggirabile a migliore
+umore verso le sovvenzioni (e forse anche spaventato
+dai successi dei Francesi) il nostro Ministero mandò un
+Ambasciatore a [[settings/paris|Parigi]] a implorare la Pace. Le sovvenzioni sono
+concesse: e nel frattempo l’Arciduca Carlo volge la
+bilancia della vittoria sul Reno, e Buonaparte è arrestato
+davanti a Mantova. Subito il nostro cortigiano messaggero riceve ordine
+d’increspare le labbra, e di proporre all’altera Repubblica di
+restituire tutte le sue conquiste, e di sopportare che l’Inghilterra
+ritenga tutte le proprie (almeno tutte quelle importanti), come
+gli unici termini di Pace, e l’ultimatum della trattativa!
+˜Á±Ã{½µ¹ ³pÁ ±0ÃÇÁy¼·Ä¹Â
+¤q»±¹½±  ‘¡‘šŸ ‘ ÀÁÉÄ¿Àu¼É½ — AESCHYL., Ag. 222-4.
+Gli amici della [[concepts/freedom|Libertà]] in questo paese sono inerti. Alcuni sono
+timidi; alcuni egoisti; e molti la torpedine fiaccola della
+disperazione ha intorpidito nell’inattività. Vorremmo [[concepts/hope|sperare]]
+che (se il resoconto di cui sopra è esatto — è solo il resoconto
+francese) questo terribile esempio d’infatuazione del nostro Ministero
+li desti a un altro sforzo ancora; e che a uno stesso
+[[motifs/time|tempo]] nelle nostre diverse grandi città il popolo sia
+chiamato a pensare solennemente, e a dichiarare i propri pensieri
+senza timore con ogni metodo che il residuo della
+Costituzione consenta. 4{o}.
+IV] Antistrophe I. C. I., 4{o}, 1797, 1803.
+1797.
+Siede sempre la [[motifs/memory|Memoria]]: la tua veste profanata di sangue.
+Tu con un gemito inimmaginabile
+Rendesti conto delle tue Ore!
+1803.
+le chiome inghirlandate splendevano di glorie candide come [[motifs/snow|neve]] 1797, 1803.
+V] Antistrophe II. C. I., 4{o}, 1797, 1803.
+Su ogni Arpa su ogni Lingua
+Mentre il muto Incanto pendeva:
+Come Mezzanotte da una nube di tuono
+Parlò forte l’improvviso Spirito.
+C. I., 4{o}, 1797, 1803.
+L’improvviso Spirito gridò forte.
+C. I.
+Come Tuono da una Nube di Mezzanotte
+Parlò forte l’improvviso Spirito
+1803.
+[Fra l’83 e l’84]
+Per il flusso del Belgio ingombro di cadaveri,
+Per il [[motifs/blood|sangue]] fraterno fumante [scorrente C. I.] della Vandea.
+C. I., 4{o}, 1797, 1803.
+Il Reno. C. I., 1797, 1803.
+Per sempre dovrà l’isola sanguinaria accigliarsi?
+Per sempre dovrà il suo vasto arco di ferro
+Scoccare le frecce malvagie della Fame sul mondo,
+Odi! come vasta la [[concepts/nature|Natura]] unisce i suoi gemiti quaggiù;
+Sorgi, Dio di [[concepts/mercy|Misericordia]], sorgi! perché [[motifs/sleep|dormono]] i tuoi dardi non scagliati?
+C. I.
+Per sempre dovrà l’Isola sanguinaria accigliarsi?
+Per sempre, non spezzato, dovrà il suo crudele Arco
+Scoccare le frecce della Fame sul tuo Mondo devastato?
+Odi! come vasta la [[concepts/nature|Natura]] unisce i suoi gemiti quaggiù —
+Sorgi, Dio della [[concepts/nature|Natura]], sorgi, perché [[motifs/sleep|dormono]] i tuoi Dardi non scagliati?
+4{o}, 1797, 1803.
+Sorgi Dio della [[concepts/nature|Natura]], sorgi! ah! perché quei dardi non scagliati?
+1797, 1803.
+‘In Europa i villaggi fumanti delle Fiandre e i
+campi putrefatti della Vandea — dall’Africa le innumerevoli
+vittime d’una detestabile Tratta degli Schiavi. In Asia le desolate
+pianure dell’Indostan, e i milioni che un Governatore appaltatore
+di riso fece perire. In [[settings/america|America]] le recenti enormità dei
+mercanti di Scalpi. Le quattro parti del globo gemono
+sotto l’intollerabile iniquità della nazione.’ Vedi
+‘Addresses to the People’, p. 46. C. I.
+VI] Epode II. 4{o}, 1797, 1803.
+1803.
+Ripudiata dal Cielo! folle Avarizia al tuo fianco
+4{o}, 1797.
+A distanza codarda, pur con [[concepts/pride|orgoglio]] che s’accende —
+Al sicuro fra le tue mandrie e i tuoi campi di grano sei stata,
+E t’unisti all’urlo della Fame e del [[motifs/blood|Sangue]].
+Tutte le nazioni ti maledicono: e con avido stupore
+4{o}, 1797.
+Fra i tuoi Campi di grano e le Mandrie sei stata nell’abbondanza
+E t’unisti alle alte urla della Fame e del [[motifs/blood|Sangue]].
+1803.
+Distesa sull’orlo di qualche fonte che lampeggia [[motifs/fire|fuoco]]
+Nella nera Camera d’un monte solforoso.
+4{o}.
+Nel lungo sabato d’alto [[concepts/self|proprio]] contento.
+Purificata dalle passioni carnali che offuscano
+4{o}.
+Nel profondo sabato di beato [[concepts/self|proprio]] contento
+Purificata dai timori e dall’angoscia che offuscano
+1797.
+Nel beato sabato d’alto [[concepts/self|proprio]] contento
+Purificata dalla [[concepts/fear|Paura]] offuscante, e dall’Angoscia debole e cieca.
+1803.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="156_the_wanderings_of_cain" data-title="THE WANDERINGS OF CAIN" data-chapter="" data-kind="intro"></span>
 
 
@@ -465,12 +748,82 @@ the [[concepts/truth|truth]] he will be.
 S. T. COLERIDGE (1828).  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+NOTA PREFATORIA  
+Una composizione in prosa, o almeno non in metro, sembra primâ facie  
+richiedere una spiegazione o una scusa. Fu scritta nell’anno 1798, presso  
+Nether Stowey, nel Somersetshire, luogo (sanctum et amabile  
+nomen! ricco di tante associazioni e ricordi) dove l’autore aveva  
+preso dimora per godere della compagnia e della stretta  
+vicinanza d’un caro e onorato amico, T. Poole, Esq. L’opera doveva  
+esser scritta in concerto con un altro [Wordsworth], il cui nome è  
+troppo venerabile nei recinti del genio per esser inutilmente messo  
+in relazione con una simile bagattella, e che allora risiedeva a poca  
+distanza da Nether Stowey. Il titolo e il soggetto furono suggeriti da  
+me, che parimenti stesi lo schema e il contenuto di ciascuno dei  
+tre libri o canti di cui l’opera doveva constare, e che,  
+si sappia, doveva esser finita in una sola [[motifs/night|notte]]! Il mio  
+socio si assunse il primo canto: io il secondo: e chi dei due avesse  
+finito per primo, doveva mettersi al terzo. Sono passati quasi  
+trent’anni; eppure in questo momento non posso senza qualcosa di più d’un  
+sorriso sollevare la questione di quale delle due cose fosse la più  
+impraticabile: se per una mente tanto eminentemente originale comporre i  
+pensieri e le fantasie d’un altro, o per un gusto tanto austeramente puro e semplice  
+imitare la [[motifs/death|Morte]] di Abele? Mi par di vedere il suo grande e nobile  
+volto come nel momento in cui, spedita la mia porzione del  
+compito a tutta [[characters/speed|velocità]] di dita, m’affrettai da lui col mio  
+manoscritto — quello sguardo d’umoristico sconforto fisso sul suo foglio quasi  
+bianco di carta, e poi la sua silenziosa ammissione di fallimento in finta pietà  
+che lottava col senso dell’estrema ridicolaggine dell’intero  
+disegno — che si sciolse in una risata: e fu scritta la [[characters/ancient-mariner|Ballata del vecchio marinaio]]  
+invece.  
+Anni dopo, tuttavia, l’abbozzo del piano e degli episodi proposti,  
+e la porzione eseguita, ottennero favore agli occhi di più d’una  
+persona, il cui giudizio su un’opera poetica non poteva non pesare su di  
+me, anche se nessuna parzialità paterna fosse stata gettata sullo stesso  
+piatto, come contrappeso: e mi decisi a ricominciare da capo, e a  
+comporre il tutto in stanze, e feci qualche progresso nel realizzare questa  
+intenzione, quando venti avversi sospinsero la mia barca lontano dalle ‘Isole Fortunate’ delle  
+Muse: e poi altri e più gravi interessi indussero un  
+diverso viaggio, verso ancoraggio più fermo e porto più sicuro. Ho invano  
+tentato di recuperare i versi dalla tavoletta palinsesta della mia [[motifs/memory|memoria]]: e  
+posso offrire soltanto la stanza introduttiva, che era stata messa per  
+iscritto allo scopo di procurarmi il giudizio d’un amico sul metro,  
+come saggio: —  
+Cinto d’un intreccio di [[motifs/leaves|foglie]],  
+Quell’intreccio frondoso il suo solo vestito!  
+Un Fanciullo amabile coglieva frutti,  
+Al chiaro di luna, in una landa selvaggia.  
+(In a moonlight wilderness  Aids to Reflection, 1825.)  
+La [[motifs/moon|luna]] era chiara, l’aria era libera,  
+E frutti e [[motifs/flowers|fiori]] crescevano insieme  
+Su più d’un arbusto e più d’un albero:  
+E tutto assumeva una tinta gentile,  
+Sospeso nell’aria d’ombra  
+Come un quadro ricco e raro.  
+Era un clima dove, dicono,  
+La [[motifs/night|notte]] è più amata del giorno.  
+Ma chi sedusse quel bel Fanciullo,  
+Quel bel Fanciullo a indugiare qui?  
+Solo, di [[motifs/night|notte]], un piccolo [[archetypes/child|fanciullo]],  
+In luogo così silenzioso e così selvaggio —  
+Non ha egli un amico, non una madre amorosa vicino?  
+Ho qui dato la nascita, la parentela e la prematura morte delle  
+‘Wanderings of [[characters/cain|Cain]], a poem’, — supplicando però i miei Lettori di non  
+pensare così meschinamente del mio giudizio da supporre che io consideri od  
+offra ciò come una scusa qualsiasi per la pubblicazione del seguente [[forms/fragment|frammento]]  
+(e posso aggiungere, d’uno o due altri nelle sue vicinanze) nella sua  
+primitiva crudezza. Ma troverei difficoltà ancora maggiore a  
+perdonarmi se registrassi pro taedio publico una serie di piccole  
+disavventure e seccature che io stesso desidero dimenticare. Devo dunque contentarmi  
+d’assicurare l’amichevole Lettore che quanto meno egli attribuisce  
+la sua comparsa alla volontà, alla scelta o al giudizio dell’Autore, tanto più vicino alla  
+[[concepts/truth|verità]] sarà.  
+S. T. COLERIDGE (1828).
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="162_translation_of_a_passage_in_ottfrieds_metrical_paraphrase_of_the_gospel" data-title="TRANSLATION OF A PASSAGE IN OTTFRIED’S METRICAL PARAPHRASE OF THE GOSPEL" data-chapter="" data-kind="intro"></span>
 
 
@@ -512,12 +865,47 @@ For us she bore the heavenly Lord!   25
 ? 1799.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Questa parafrasi, scritta all’incirca al [[motifs/time|tempo]] di Carlo Magno, non è affatto  
+priva di occasionali passi di considerevole merito poetico. V’è  
+uno scorrere e un tenero entusiasmo nei versi seguenti che anche nella  
+[[forms/translation|traduzione]] non mancheranno, mi lusingo, d’interessare il lettore.  
+Ottfried descrive le circostanze immediatamente successive alla nascita  
+di Nostro Signore. Interessantissimo è considerare l’effetto quando i  
+sentimenti sono innalzati sopra il tono naturale dalla credenza in qualcosa di  
+misterioso, mentre tutte le immagini sono puramente naturali. È allora che  
+religione e poesia colpiscono più a fondo. Biog. Lit., 1817, i.  
+203-4.]  
+Ella diede con gioia il suo seno virgineo;  
+Non lo nascose, denudò il seno  
+Che allattò quel divinissimo bimbo!  
+Benedette, benedette furono le mammelle  
+Che il Salvatore infante baciò;   5  
+E benedetta, benedetta fu la madre  
+Che gli avvolse le membra nelle fasce,  
+Cantando lo posò sul grembo,  
+Si chinò su di lui con sguardi d’[[motifs/love|amore]],  
+E lo calmò con moto di ninna nanna.   10  
+Benedetta! ché lo riparò  
+Dall’aria umida e gelida;  
+Benedetta, benedetta! ché giacque  
+Con tale bimbo in un solo letto benedetto,  
+Stretti come giacciono bimbi e madri!   15  
+Benedetta, benedetta per sempre,  
+Con le sue labbra virginee baciò,  
+Con le sue braccia, e al suo seno,  
+Abbracciò il bimbo divino,  
+Il suo bimbo divino la vergine madre!   20  
+Non vive su questo cerchio di terra  
+Un mortale che possa cantarne la lode.  
+Possente madre, vergine pura,  
+Nella tenebra e nella [[motifs/night|notte]]  
+Per noi ella partorì il Signore celeste!   25  
+? 1799.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="182_hexameters_paraphrase_of_psalm_xlvi" data-title="HEXAMETERS: PARAPHRASE OF PSALM XLVI" data-chapter="" data-kind="intro"></span>
 
 
@@ -536,12 +924,24 @@ Halleluja! th’ Eternal is with us, the God of our Fathers!
 1799.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dio è la nostra Forza e il nostro Rifugio: perciò non tremeremo,  
+Anche se la Terra sia rimossa e anche se le perpetue Montagne  
+Sprofondino nel Gonfiarsi dell’Oceano! Dio è la nostra Forza e il nostro Rifugio.  
+V’è un [[motifs/river|Fiume]] il cui Fluire allieterà la [[motifs/city|Città]],  
+Alleluia! la [[motifs/city|Città]] di Dio! Jehova l’aiuterà.   5  
+Gli Idolatri infuriarono, i regni si movevano in furore;  
+Ma egli emise la sua Voce: la Terra si sciolse sotto di loro.  
+Alleluia! l’Eterno è con noi, Onnipotente Jehova!  
+Terribili le opere del Signore, sì terribili le sue Desolazioni;  
+Ma Egli fa cessare la Battaglia, brucia la Lancia e il  
+Carro.    10  
+Alleluia! l’Eterno è con noi, il Dio dei nostri Padri!  
+1799.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="187_a_christmas_carol" data-title="A CHRISTMAS CAROL" data-chapter="" data-kind="intro"></span>
 
 
@@ -605,12 +1005,69 @@ Peace, Peace on Earth! the Prince of Peace is born.’
 1799.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+I pastori andarono per la via frettolosa,  
+E trovarono l’umile stalla-capanna  
+Dove giaceva la Vergine-Madre:  
+E ora frenarono il passo impaziente,  
+Ché al Bimbo, che al suo seno si stringeva,   5  
+Un canto di Madre la Vergine-Madre cantava.  
+II  
+Le narrarono come una luce gloriosa,  
+Fluente da una schiera celeste,  
+Intorno a loro splendette, sospendendo la [[motifs/night|notte]]!  
+Mentre più dolci d’un canto di madre,  
+10  
+Beati Angeli annunciarono la nascita del Salvatore,  
+Gloria a Dio nell’alto dei cieli! e Pace in Terra.  
+III  
+Ella ascoltò il racconto divino,  
+E più stretto ancora premette il Bimbo;  
+E mentre gridava, il Bimbo è mio!   15  
+Il latte le corse più rapido al seno:  
+La Gioia [[motifs/rose|sorse]] in lei, come un mattino d’[[motifs/summer|estate]];  
+Pace, Pace in Terra! il Principe della Pace è nato.  
+IV  
+Tu Madre del Principe della Pace,  
+Povera, semplice, e di basso stato!   20  
+Che la contesa svanisca, che la battaglia cessi,  
+Oh perché dovrebbe questo esaltare la tua [[motifs/soul|anima]]?  
+La nota più alta della dolce Musica, la storia del Poeta, —  
+Non t’è mai [[motifs/love|piaciuto]] udire di fama e di gloria?  
+V  
+E non è la Guerra un giovane [[archetypes/king|re]],   25  
+Un maestoso [[archetypes/hero|Eroe]] vestito di maglia?  
+Sotto i suoi passi gli allori [[motifs/spring|germogliano]];  
+Lui i maestosi monarchi della Terra salutano  
+Amico, compagno di giochi! e il suo occhio ardito e lucente  
+Strappa alla fanciulla il sospiro che confessa l’[[motifs/love|amore]].   30  
+VI  
+‘Narra questo in qualche scena più cortese,  
+A fanciulle e giovani in vesti di stato!  
+Io sono una donna povera e umile,  
+E perciò la mia [[motifs/soul|anima]] è esaltata.  
+La Guerra è un ribaldo, tutto contaminato di [[concepts/guilt|colpa]],   35  
+Che al padre vecchio [[motifs/tears|strappa]] il [[archetypes/child|figlio]]!  
+VII  
+‘Un demone assassino, dai demoni adorato,  
+Uccide il padre e affama il figlio;  
+Uccide il marito, e dalla sua tavola  
+Ruba tutto ciò che la fatica della vedova aveva guadagnato;   40  
+Saccheggia il mondo di Dio della sua [[concepts/beauty|bellezza]]; strappa via  
+Ogni sicurezza dalla [[motifs/night|notte]], ogni conforto dal giorno.  
+VIII  
+‘Dunque saggiamente la mia [[motifs/soul|anima]] è esaltata,  
+Che la contesa svanisca, che la battaglia cessi:  
+Sono povera e di basso stato,   45  
+La Madre del Principe della Pace.  
+La Gioia sorge in me, come un mattino d’[[motifs/summer|estate]]:  
+Pace, Pace in Terra! il Principe della Pace è nato.’  
+1799.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="211_reply_to_the_above" data-title="REPLY TO THE ABOVE" data-chapter="" data-kind="intro"></span>
 
 
@@ -627,12 +1084,22 @@ HIMSELF, his MAKER, and the ANGEL [[motifs/death|DEATH]]!
 1802.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Vergogna, caro amico, rinuncia a questo tono ipocrita!  
+Che cosa vorresti che ottenesse un uomo buono e grande?  
+Un posto? titoli? uno stipendio? una catena dorata?  
+O un trono di cadaveri che la sua spada avesse ucciso?   10  
+[[concepts/greatness|Grandezza]] e bontà non sono mezzi, ma fini!  
+Non ha egli sempre tesori, sempre amici,  
+L’uomo buono e grande? tre tesori, [[motifs/love|AMORE]] e LUCE,  
+E PENSIERI CALMI, regolari come il respiro d’un infante:  
+E tre saldi amici, più sicuri del giorno e della [[motifs/night|notte]],   15  
+SE STESSO, il suo CREATORE, e l’ANGELO [[motifs/death|MORTE]]!  
+1802.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="226_the_blossoming_of_the_solitary_date-tree" data-title="THE BLOSSOMING OF THE SOLITARY DATE-TREE" data-chapter="" data-kind="intro"></span>
 
 
@@ -733,12 +1200,106 @@ Why was I made for [[motifs/love|Love]] and [[motifs/love|Love]] denied to me?
 1805.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+UN LAMENTO  
+Mi par d’avere un indistinto ricordo d’aver letto o in uno  
+dei ponderosi tomi di Giorgio di [[settings/venice|Venezia]], o in qualche altra compilazione  
+dagli scrittori ebraici non ispirati, un apologo o tradizione rabbinica  
+del tenore seguente:  
+Mentre i nostri primi genitori stavano dinanzi al loro Fattore offeso, e le  
+ultime   5  
+parole della sentenza risuonavano ancora nell’orecchio d’Adamo, l’insidioso  
+falso  
+serpente, contraffattore e [[archetypes/usurper|usurpatore]] fin dal principio, presuntuosamente  
+assunse su di sé il carattere d’avvocato o mediatore, e fingendo d’  
+intercedere per Adamo, esclamò: ‘No, Signore, nella tua giustizia, non così! ché  
+l’uomo fu il meno in colpa. Piuttosto la Donna torni subito  
+alla    10  
+[[motifs/dust|polvere]], e Adamo rimanga in questo tuo Paradiso.’ E la parola dell’  
+Altissimo rispose a [[characters/satan|Satana]]: ‘Le tenere misericordie degli empi sono  
+crudeli.  
+Demone traditore! se con [[concepts/guilt|colpa]] come la tua ti fosse stato possibile  
+avere  
+il cuore d’un Uomo, e sentire l’anelito d’una [[motifs/soul|anima]] umana verso  
+il suo pari, la sentenza che ora consigli avrebbe  
+dovuto   15  
+esser inflitta a te stesso.’  
+Il titolo del poema seguente fu suggerito da un fatto riferito da  
+Linneo, d’una palma da datteri nel [[motifs/garden|giardino]] d’un nobile che anno dopo anno  
+aveva messo fuori una piena mostra di fiori, ma non produsse mai frutto, finché un  
+ramo d’un’altra palma da datteri fu portato da una distanza di   20  
+alcune centinaia di leghe. La prima carta del MS. da cui il poema  
+è stato trascritto, e che conteneva le due o tre stanze introduttive,  
+manca: e l’autore ha invano messo a dura prova la sua [[motifs/memory|memoria]] per  
+riparare la perdita. Ma un rozzo abbozzo del poema contiene la sostanza  
+delle stanze, e si prega il lettore d’accoglierlo come  
+sostituto.    25  
+Non è impossibile che qualche spirito congeniale, i cui anni non  
+superino quelli dell’Autore al [[motifs/time|tempo]] in cui il poema fu scritto, trovi  
+piacere nel restituire il Lamento alla sua integrità originaria mediante una  
+riduzione  
+dei pensieri al metro richiesto.    S. T. C.  
+1  
+Sotto la vampa d’un sole tropicale le vette dei monti sono   30  
+i Troni del [[motifs/frost|Gelo]], per l’assenza d’oggetti che ne riflettano  
+i raggi. ‘Ciò che nessuno condivide con noi, a stento sembra nostro.’  
+La presenza d’un UNO,  
+Il più amato, che m’ama più d’ogni altro,  
+è per il cuore ciò che l’aria che sostiene dall’interno è per il   35  
+globo cavo con la sua navicella sospesa. Privalo di questa, e tutto  
+ciò che è fuori, che l’avrebbe portato in alto fino al seggio degli  
+dèi,  
+diventa un peso e lo schiaccia nella piattezza.  
+2  
+Quanto più fine il senso per il bello e l’amabile, e quanto  
+più bello e amabile l’oggetto presentato al senso; tanto più   40  
+squisita la capacità di gioia dell’individuo, e tanto più ampi  
+i suoi mezzi e le sue occasioni di godimento, tanto più gravemente  
+sentirà la fitta della solitudine, tanto più inconsistente  
+diventa il banchetto steso intorno a lui. Che importa,  
+se di fatto le vivande e le grazie che servono siano   45  
+ombre o realtà, a chi non ha mano per afferrarle né braccia  
+per abbracciarle?  
+3  
+[[concepts/imagination|Immaginazione]]; scopi onorevoli;  
+Libero commercio col coro che non può morire;  
+Scienza e canto; diletto nelle piccole cose,   50  
+Il [[archetypes/child|fanciullo]] pieno di slancio che sopravvive nell’uomo;  
+Campi, foreste, antiche [[settings/mountains|montagne]], oceano, cielo,  
+Con tutte le loro voci — oh oso accusare  
+La mia sorte terrena come colpevole del mio umore nero,  
+O chiamare avaro il mio destino! Oh no! no!   55  
+È la sua larghezza, e il suo traboccare,  
+Che essendo incompiuto, tanto m’inquieta!  
+4  
+Ché mai tocco di letizia mi commuove il cuore,  
+Ma cominciando timorosamente a rallegrarmi  
+Come un cieco Arabo che dal [[motifs/sleep|sonno]] trasale   60  
+Nella tenda solitaria, tendo l’orecchio alla tua voce.  
+Diletta! non è la tua; tu non sei là!  
+Allora la bolla si scioglie in aria vana,  
+E desiderando senza [[concepts/hope|speranza]] senza requie [[concepts/despair|dispero]].  
+5  
+La madre con anticipata allegria   65  
+Sorride sul [[archetypes/child|figlio]] che, in piedi presso la sua sedia  
+E appiattendo la guancia tonda sul suo ginocchio,  
+Guarda in su, e prepara le sue labbra rosee  
+A imitare i suoni che vengono. A quel dolce spettacolo  
+Ella ode la propria voce con nuovo diletto;   70  
+E se il bimbo per caso balbettasse le note a dovere,  
+6  
+Allora è dieci volte più lieta di prima!  
+Ma se malattia o caso le prendesse il diletto,  
+Che varrebbero allora quei canti, che dolci un tempo  
+Eran dolci solo per la dolcezza della loro eco?   75  
+Cara fanciulla! nessun ciarliero al ginocchio d’una madre  
+Fu mai così caramente pregiato come io pregio te:  
+Perché fui fatto per l’[[motifs/love|Amore]] e l’[[motifs/love|Amore]] mi fu negato?  
+1805.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="228_the_rash_conjurer" data-title="THE RASH CONJURER" data-chapter="" data-kind="intro"></span>
 
 
@@ -809,12 +1370,76 @@ Catholicus.
 ? 1805, ? 1814.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Forti suoni che comandano agli spiriti!  
+Con voce cupa e cava,  
+Fra [[concepts/hope|Speranza]] e Terrore,  
+Sette Volte dissi  
+Iohva Mitzoveh    5  
+Vohoeen!  
+E venne su un folletto in forma di  
+Pavonessa!  
+Vidi, dubitai,  
+E sette volte declamai   10  
+Johva Mitzoveh  
+Yahóevohen!  
+Quand’ecco l’Anti-[[characters/christ|Cristo]] balzando su, cozzando  
+e sbattendo,  
+In forma d’un malizioso ricciuto   15  
+[[motifs/lamb|Agnello]] nero —  
+Con un vasto stormo di Diavoli dietro  
+e di fianco,  
+E davanti a loro la loro Pastora  
+la Madre di [[characters/lucifer|Lucifero]],    20  
+Cavalcando a cavalcioni  
+Su un vecchio Montone nero,  
+Con staffe di Tartaria, le ginocchia fino al mento,  
+E un lustro folletto in camicino attaccato alle sue Mammelle, —  
+‘Arri, mio vecchio Belzy! (ella gridava,   25  
+Cantando al suo cucciolo lattante)  
+Trotta-trotta, trotta! andremo lontano e per ogni dove  
+Trotta, Montone-Diavolo! Trotta! Belzebù!’  
+La sua bella sottana era di Broccato scarlatto,  
+E molle in grembo posava il suo Bimbo   30  
+Coi suoi graziosi Bitorzoli di Corna che  
+spuntavano,  
+E la sua graziosa Codina tutta arricciolata —  
+San Dunstano! ed ecco che cosa viene dal declamare —  
+Di Diavoli che Baraonda!   35  
+‘Eccoci su! che cosa vuoi dunque?’  
+‘Signori! solo che’ — ‘Dite quando e che cosa’ —  
+‘Vorreste esser così buoni’ — ‘Dite che cosa e quando’  
+‘Di scendere di nuovo in questo momento!’  
+‘Lo facciamo! lo facciamo! scendiamo tutti!   40  
+Ma ti prendiamo con noi a nuotare  
+o annegare!  
+Giù giù dal tetro Inghiottitore!’  
+‘Ahimè! sto annaspando in [[motifs/fire|Fuoco]] e Zolfo!  
+Che il Drago v’avesse sgranocchiati, strillate   45  
+e squittite —  
+Cabbalisti! Congiuratori! grandi e piccoli,  
+Johva Mitzoveh Evohen e tutti quanti!  
+Non avessi mai proferito le vostre parole spaccamascelle,  
+Ora potrei star sguazzando in Cagliata e Latte rappreso,  
+Come un Cristiano del Devonshire:   51  
+Ma ora un Filisteo!  
+Voi Uomini della Terra! siate ammoniti da un giudizio così tragico,  
+E pulitevi bene con tutti i libri di magia —  
+Odi! odi! è Dives! ‘Piantala di scocciare, Babbeo!  
+Io son bruciato bianco cenere, e tu sei ancora soltanto rubino.’   56  
+Epilogo.  
+Chiediamo e insistiamo (qui finisce la storia)  
+Che tutti i Papisti Cristiani preghino  
+Che questo infelice Congiuratore possa  
+Invece che all’Inferno, essere solo in Purgatorio — 60  
+Ché allora c’è [[concepts/hope|Speranza]], —  
+Lunga vita al Papa!  
+Catholicus.  
+? 1805, ? 1814.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="242_the_virgins_cradle-hymn" data-title="THE VIRGIN’S CRADLE-HYMN" data-chapter="" data-kind="intro"></span>
 
 
@@ -827,12 +1452,18 @@ Inter fila cantans orat,   5
 Blande, veni, somnule.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+COPIATO DA UNA STAMPA DELLA VERGINE IN UN VILLAGGIO CATTOLICO ROMANO DELLA [[settings/germany|GERMANIA]]  
+Dormi, Jesu! Mater ridet  
+Quae tam dulcem somnum videt,  
+Dormi, Jesu! blandule!  
+Si non dormis, Mater plorat,  
+Inter fila cantans orat,   5  
+Blande, veni, somnule.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="248_time_real_and_imaginary" data-title="TIME, REAL AND IMAGINARY" data-chapter="" data-kind="intro"></span>
 
 
@@ -851,12 +1482,24 @@ And knows not whether he be first or last.
 ? 1812.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+UN’[[forms/allegory|ALLEGORIA]]  
+Sull’ampio piano della vetta d’un monte,  
+(Non sapevo dove, ma era qualche luogo fatato)  
+Le loro penne, come di struzzo, spiegate a vele,  
+Due amabili fanciulli corrono una corsa senza fine,  
+Una sorella e un fratello!  
+Questa distanziava di molto l’altro;  
+Pur sempre corre ella col volto rivolto indietro.  
+E guarda e ascolta per il ragazzo che è dietro:  
+Ché egli, ahimè! è cieco!  
+Per l’aspro e il liscio con passo eguale egli passava,   10  
+E non sa se sia primo o ultimo.  
+? 1812.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="251_a_hymn" data-title="A HYMN" data-chapter="" data-kind="intro"></span>
 
 
@@ -883,12 +1526,32 @@ Where but thy [[archetypes/shadow|Shadow]] falls, Grief cannot be! — 20
 1814.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Mio Creatore! della tua potenza l’impronta  
+in ogni forma e volto di creatura  
+l’[[motifs/soul|anima]] stupita contempla:  
+la tua sapienza, infinita al di sopra  
+del pensiero serafico, un [[motifs/love|amore]] di Padre   5  
+altrettanto infinito dispiega!  
+Da tutto ciò che incontra occhio o orecchio  
+discende un [[concepts/fear|timore]] benigno e santo  
+che, come la rugiada greve del mattino,  
+ristora mentre piega il cuore desolato!   10  
+Gran Dio! quanto mirabili e belle le tue opere!  
+Eppure l’uomo peccatore tu dichiarasti  
+voce e mente di tutta la Terra!  
+Signore, come Tu sei presente in ogni luogo,  
+oh, possiamo noi sempre con cuore attento   15  
+conoscere e trovare la tua presenza!  
+Allora, venga ciò che vuole, bene o male,  
+la [[motifs/spring|sorgente]] della gioia in seno scorrerà costante;  
+perché, se è il Cielo vedere TE STESSO,  
+dove solo cade la tua [[archetypes/shadow|Ombra]], il Dolore non può essere! — 20  
+1814.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="256_faith_hope_and_charity_from_the_italian_of_guarini" data-title="FAITH, HOPE, AND CHARITY FROM THE ITALIAN OF GUARINI" data-chapter="" data-kind="intro"></span>
 
 
@@ -939,12 +1602,56 @@ Shall sing like wingéd Cherubim.
 1815.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[[concepts/faith|FEDE]]  
+Coloro i cui bassi diletti sono dati alla Terra  
+cantino pure i loro Amori terreni! ma noi  
+dobbiamo fare più santa melodia,  
+e, nati dal cielo, canteremo le Cose del Cielo.  
+[[concepts/charity|CARITÀ]]  
+Ma chi per noi guadagnerà il Cuore che ascolta?   5  
+Inudibile come quella delle sfere  
+la nostra musica muore sull’orecchio,  
+incantato dal canto della Sirena mortale.  
+[[concepts/hope|SPERANZA]]  
+Pure abbondino i nostri canti corali!  
+La Potenza che ispira, la loro Fonte viva,   10  
+può scorrere con essi e dar loro forza,  
+se, altrove inascoltati, risuonano in Cielo.  
+TUTTE  
+Soccorri la nostra voce, Grande Spirito! tu la cui fiamma  
+accese il dolce Cantore d’Israele,  
+che fece gonfiare così in alto   15  
+oltre ogni canto mortale il tuo Nome glorioso.  
+[[concepts/charity|CARITÀ]] E [[concepts/faith|FEDE]]  
+Benché rapite al Cielo, la nostra missione e la nostra cura  
+è ancora dimorare sulla Terra,  
+plasmare, lenire, la seconda Nascita dell’Uomo,  
+e risalire al Cielo, Erede prodigo del Cielo!   20  
+[[concepts/charity|CARITÀ]]  
+Che è l’[[motifs/soul|anima]] dell’Uomo priva d’[[motifs/love|Amore]]?  
+[[concepts/hope|SPERANZA]].  [[concepts/faith|FEDE]]  
+È come un’Arpa scordata,  
+che suona, sì, ma suona a sproposito.  
+[[concepts/charity|CARITÀ]].  [[concepts/hope|SPERANZA]]  
+Dal santo [[motifs/love|Amore]] derivano tutti i buoni doni.  
+[[concepts/faith|FEDE]]  
+Ma è [[motifs/time|tempo]] che ogni nazione    25  
+oda quanto altamente cantiamo.  
+[[concepts/faith|FEDE]].  [[concepts/hope|SPERANZA]].  [[concepts/charity|CARITÀ]]  
+Vedi, o Mondo, vedi la tua salvezza!  
+Risuonino i Cieli di lodi.  
+Chi vuole un Trono lassù,  
+[[concepts/hope|speri]], creda e [[motifs/love|ami]];   30  
+e chi non ama canto terreno,  
+ma anela alla musica celeste,  
+[[concepts/faith|Fede]], [[concepts/hope|Speranza]] e [[concepts/charity|Carità]] per lui  
+canteranno come Cherubini alati.  
+1815.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="263_the_tears_of_a_grateful_people" data-title="THE TEARS OF A GRATEFUL PEOPLE" data-chapter="" data-kind="intro"></span>
 
 
@@ -1064,12 +1771,125 @@ Lord, hear us! we entreat!    105
 1820.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un [[forms/dirge|Canto funebre]] e un [[forms/hymn|Inno]] ebraici, cantati nella Grande Sinagoga di St. James’ pl.,  
+Aldgate, nel Giorno dei Funerali di [[archetypes/king|re]] Giorgio III di beata  
+[[motifs/memory|memoria]]. Di Hyman Hurwitz di Highgate, tradotti da un Amico.  
+[[forms/dirge|Canto funebre]]  
+Oppresso, confuso, di dolore e di [[motifs/pain|pena]],  
+e dentro ritraendomi dal colpo,  
+invano cerco il canto di lutto,  
+le parole consuete rifiutano di fluire.  
+Un [[concepts/fear|timore]] trovo in ogni volto,   5  
+ogni voce è di chi si duole;  
+e tutta la mia [[motifs/soul|Anima]], al dolore rassegnata,  
+riflette la tristezza che riceve.  
+L’Astro diurno della nostra gloria tramonta!  
+Il nostro [[archetypes/king|Re]] ha esalato l’ultimo respiro!   10  
+Ogni cuore dimentica il suo battito consueto,  
+come se riconoscesse il potere della [[motifs/death|morte]].  
+La nostra [[motifs/crown|Corona]], il [[motifs/desire|Desiderio]] del nostro cuore è fuggito!  
+La gloria di Britannia muta le sue penne!  
+Leviamo, con la cenere sul capo,   15  
+un lamento per il nostro [[archetypes/king|Re]].  
+Ecco! privo dei suoi raggi l’Astro diurno,  
+triste luccica la [[motifs/moon|Luna]] tra velo di nubi!  
+Le [[motifs/stars|Stelle]] sono fioche! I nostri Nobili piangono;  
+le Matrone lacrimano, i loro Figli gemono.   20  
+Nessuna età ricorda un [[archetypes/king|Re]] così giusto,  
+le sue virtù numerose come i suoi giorni;  
+il Signore Geova era la sua fiducia,  
+e [[concepts/truth|verità]] con [[concepts/mercy|misericordia]] governò le sue vie.  
+Il suo [[motifs/love|Amore]] non era limitato da Clima alcuno;   25  
+ogni diversa Stirpe, ogni Clan lontano  
+egli governò con questa [[concepts/truth|verità]] [[concepts/sublime|sublime]]:  
+‘Solo Dio conosce il cuore — non l’uomo.’  
+La sua parola atterrì i figli della [[concepts/pride|superbia]],  
+l’Iniquità volò via lontano;   30  
+inganno e frode furono dispersi ovunque,  
+e la [[concepts/truth|verità]] riprese il suo sacro dominio.  
+Egli confortò i miseri, e la preda  
+strappò all’empia tirannia;  
+arrestò il ferreo dominio dell’[[archetypes/usurper|Usurpatore]],   35  
+e ordinò al Predatore di non devastare più.  
+Anche tu, Figlia di Iesurun! tu,  
+l’oppressa fra le nazioni e lo scherno!  
+salutasti sulla sua fronte benigna  
+una salvezza che sorgeva come il mattino.   40  
+Beffa d’ogni mente insensibile,  
+duro era il tuo destino, e acuto il tuo dolore;  
+sotto il suo trono trovasti pace,  
+e benedicesti la mano che diede sollievo.  
+Anche quando una nube fatale coprì   45  
+il lunare splendore del suo regno,  
+pure la luce rimase, e sparse  
+mite chiarore sul cammino del viandante.  
+Ma egli non è più — il Giusto! il Buono!  
+né poté la preghiera d’una Nazione ritardare    50  
+il premio celeste, che a lungo era stato  
+la sua parte nei regni del giorno.  
+Oltre l’estensione della possente Isola  
+la Nazione più possente piange il suo Capo:  
+lui la Figlia di Giuda compiangerà,   55  
+con [[motifs/tears|lacrime]] di fervore, d’[[motifs/love|amore]] e di dolore.  
+Britannia piange in silenzioso dolore;  
+il suo cuore preda d’interna sventura.  
+Invano si sforza di trovare sollievo,  
+tanto grande la sua fitta, tanto grande il colpo.   60  
+Britannia! Sorella! ahimè!  
+Volentieri consolerei la tua sventura.  
+Ma, ah! come potrò confortare te,  
+io che ho bisogno del balsamo che vorrei donare?  
+Uniti dunque rechiamoci,    65  
+come intorno alla [[motifs/grave|tomba]] del comune Padre;  
+e versando il nostro cuore in [[motifs/prayer|preghiera]],  
+imploriamo la [[concepts/mercy|misericordia]] del Padre celeste.  
+Finché Geova dal suo trono  
+non ascolti i timori del suo popolo [[concepts/suffering|sofferente]];   70  
+non muti in canto il gemito di chi piange,  
+in sorrisi di gioia le [[motifs/tears|lacrime]] della Nazione.  
+Lode al Signore! Cantate alte lodi!  
+E benedite la giusta mano di Geova!  
+Di nuovo egli vuole un Giorgio, il nostro [[archetypes/king|Re]],   75  
+a dispensare le sue benedizioni alla Terra.  
+[[forms/hymn|Inno]]  
+O intronato nel Cielo! Unico [[archetypes/king|Re]] dei re,  
+Geova! odi le preghiere e i sospiri dei tuoi Figli!  
+Tu che fasci il cuore spezzato! con ali  
+di guarigione sorgi sul tuo popolo!   80  
+Le tue misericordie, Signore, sono dolci;  
+e Pace e [[concepts/mercy|Misericordia]] s’incontrano  
+davanti al tuo seggio di Giudizio:  
+Signore, ascoltaci! ti supplichiamo!  
+Quando nubi irate circondano il tuo trono,   85  
+anche dalla nube tu fai splendere la tua [[concepts/mercy|misericordia]]:  
+e prima che la tua giusta vendetta apra la ferita,  
+la tua grazia prepara il balsamo divino!  
+Le tue misericordie, Signore, sono dolci;  
+ecc.  
+L’albero Padre la tua mano risparmiò — 90  
+non cadde finché il frutto maturo non fu colto:  
+alla sua ombra il Virgulto fiorì bello,  
+e in cambio del Padre tu desti il Figlio.  
+ecc.  
+Questa tua Vite, che tu allevasti,  
+e coltivasti per noi dalla radice regale,   95  
+proteggi, o Signore! e alle Nazioni vicine  
+lungamente dia riparo, e frutto,  
+ecc.  
+Signore, conforta tu la stirpe regale:  
+Pace e Gioia veglino intorno a noi mano nella mano.  
+Visita i nostri Nobili con la tua grazia divina,   100  
+e bandisci il dolore dal paese!  
+Le tue misericordie, Signore, sono dolci;  
+e Pace e [[concepts/mercy|Misericordia]] s’incontrano  
+davanti al tuo seggio di Giudizio;  
+Signore, ascoltaci! ti supplichiamo!    105  
+1820.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="269_a_dialogue_between_poet_and_friend" data-title="A DIALOGUE BETWEEN POET AND FRIEND" data-chapter="" data-kind="intro"></span>
 
 
@@ -1153,12 +1973,89 @@ And only hilt and stump remain.
 ? 1825.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+TROVATO SCRITTO SUL FOGLIO BIANCO ALL’INIZIO DEL ‘BOOK OF THE CHURCH’ DI BUTLER (1825)  
+POETA  
+Noto gli umori e i sentimenti che gli uomini tradiscono,  
+e vi bado più che a quanto fanno o dicono;  
+gli attardati [[motifs/ghosts|fantasmi]] di più d’un atto segreto  
+nato morto o forse strangolato nel nascere;  
+sono questi a rivelare il credo intimo dell’uomo untuoso!   5  
+Segnano il punto dove giace il tesoro — il Valore!  
+Milner, fatto d’impudenza e d’inganno,  
+con lingua biforcuta pronta a sibilare e a leccare,  
+Serpente di Bronzo di Roma — osa arditamente discutere  
+l’arrostimento del tuo cuore, o prode Jan Hus!   10  
+E con torvo trionfo e truculenta allegria  
+assolve di nuovo la perfidia ordita dal Papa,  
+che fece della [[concepts/faith|fede]] giurata d’un impero una menzogna,  
+e fissò un largo stupore nell’occhio del Diavolo —  
+(compiaciuto della [[concepts/guilt|colpa]], eppure punto d’invidia in cuore   15  
+nel vedersi superato nella sua stessa arte nera!)  
+Eppure Milner —  
+AMICO  
+Basta con Milner! siamo d’accordo,  
+chi oggi difende allora avrebbe compiuto il fatto.  
+Ma chi non sente il mite dominio della persuasione,  
+chi non andrà incontro a mezza strada alla mano offerta   20  
+quando il cortese Butler —  
+POETA  
+(a parte)  
+(l’untuoso mezzano di Roma!)  
+AMICO  
+Deplora il consiglio che inacidì una [[characters/queen|regina]] di latte —  
+(ché ‘sanguinaria’ ogni uomo illuminato confessa  
+essere un antiquato errore di stampa:)  
+lei che, rapita dallo zelo oltre i confini del suo sesso,   25  
+con vero cauterio arrestò le ferite della Chiesa!  
+E benché egli ritenga che con troppo larga macchia  
+condanniamo il massacro francese e quello irlandese,  
+pure biasima entrambi — e pensa che il Papa possa errare!  
+Che ne pensi ora? Giova con lancia e scudo   30  
+scendere in campo contro nemici così gentili,  
+le cui mani che invitano reggono il mite Caduceo?  
+POETA  
+Che ne penso ora? Proprio ciò che pensavo prima; —  
+ciò di cui Milner si vanta, anche se Butler lo deplora,  
+ripeto ancora, le parole non mi sviano   35  
+quando il sentimento mostrato addita altra via.  
+L’untuoso Butler sa dire il benedicite al banchetto della calunnia,  
+e benedire ogni haut-goût cucinato da monaco o da prete;  
+[[motifs/leaves|lascia]] che la piena menzogna rimbombi sul gong di Milner,  
+pago di mezze verità che servono altrettanto [[motifs/well|bene]];   40  
+ma orna a dovere i fianchi del suo compagno mitrato,  
+e con lui divide i ringraziamenti della nazione irlandese!  
+Tanto per te, amico mio! che una Chiesa possiedi,  
+e non lasceresti tua madre nei guai!  
+Ma quando un Liberale mi chiede che ne penso — 45  
+spaventato dal [[motifs/blood|sangue]] e dalla fuliggine dell’inchiostro di Cobbett,  
+e dal flemma vischioso di Jeffrey e dalla bava di Connor,  
+vado errando in cerca di qualche [[forms/parable|parabola]] sicura —  
+un emblema talvolta può contenere un tomo!  
+Rinnegando l’indole dell’avo mai catturato,   50  
+vedo una tigre lappare cibo da gattino:  
+e chi lo biasimerà se fa le fusa d’applauso,  
+quando fratel Tigrato perora la buona vecchia causa;  
+e agita la bella coda, e mezzo sguaina gli artigli!  
+Non per questo, inadatto ai lumi moderni,   55  
+mi fido dei chiavistelli e delle [[motifs/cross|traverse]] delle leggi  
+più che del latte protestante appena lappato,  
+che imperla le fauci baffute d’un gatto selvatico addomesticato!  
+1825, o 1826.  
+CANZONE  
+Benché velato in spire di serto di mirto,  
+l’[[motifs/love|Amore]] è una spada che taglia il fodero,  
+e per le fessure che essa stessa ha aperto  
+scorgiamo i lampi della lama!  
+Ma per le fessure che essa stessa ha aperto   5  
+vediamo pure la lama lampeggiante dell’[[motifs/love|Amore]]  
+consunta dalla ruggine, o spezzata in due;  
+e solo l’elsa e il moncone restano.  
+? 1825.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="273_the_pang_more_sharp_than_all_an_allegory" data-title="THE PANG MORE SHARP THAN ALL: AN ALLEGORY" data-chapter="" data-kind="intro"></span>
 
 
@@ -1228,12 +2125,75 @@ Is Kindness counterfeiting absent [[motifs/love|Love]]!
 ? 1825-6.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+Anch’egli è volato via dal suo nido segreto,  
+ultimo e più caro [[archetypes/child|figlio]] della [[concepts/hope|Speranza]], senza nome! —  
+è volato via da me, come la fiamma senza calore  
+che fa falsa promessa d’un luogo di riposo  
+alla mente ancora credente del [[archetypes/pilgrim|Pellegrino]] stanco; — 5  
+o come un Cavaliere Elfo in [[settings/court|corte]] regale,  
+che, vinti tutti i premi nel suo gioco,  
+scivola via dalla vista, e dove nessuno può trovarlo!  
+II  
+Sì! egli è volato via da me — con quale scopo,  
+o perché, non so! Era una [[motifs/home|dimora]] di beatitudine,   10  
+ed egli era [[archetypes/innocent|innocente]], come il grazioso pudore  
+del bimbo, che tenta e schiva il bacio minacciato  
+dal suo duplice nascondiglio di [[motifs/snow|neve]]!  
+Puro come il bimbo, io credo, e tutto acceso  
+come le care speranze che gonfiano il seno materno — 15  
+mentre i suoi occhi si chinano sul pegno stretto al petto; —  
+eppure lieto come il bacio di quel padre due volte felice,  
+che [[motifs/well|bene]] poteva sviare, e pur non fallire  
+là dove il dolce segno inarcava sì dolce scudo —  
+Due volte misero chi è stato doppiamente benedetto!   20  
+III  
+Come fiore staccato in una [[motifs/night|notte]] ventosa  
+egli volò via da me — e si è lasciato dietro  
+(come se a loro non avesse mai giurato [[concepts/faith|fede]])  
+d’entrambi i sessi e d’indole conforme  
+due compagni di gioco, parti gemelli della sua nutrice: — 25  
+l’uno un giovane costante (Stima si chiama)  
+e Gentilezza è il nome della sorella più mite.  
+Pallida somiglianza ora, per quanto bella e buona,  
+di quel Fanciullo lucente che tutti ci ha abbandonati; —  
+ma quando stava nel pieno sguardo di lui,   30  
+e mentre il suo volto ne rifletteva ogni sguardo,  
+e nel riflettere s’accendeva — divenne  
+così simile a Lui, che quasi pareva la stessa cosa!  
+IV  
+Ah! egli è partito, e pur non vuole andarsene! —  
+è ancora con me, e io da lui esiliato!   35  
+Ché vive ancora nel mio cuore segreto  
+l’immagine magica del [[archetypes/child|Fanciullo]] magico,  
+che egli vi fece crescere con la sua arte potente,  
+come in quella sfera di cristallo — prodigio del savio Merlino, —  
+il mirabile ‘Mondo di Vetro’, in cui isolate   40  
+tutte le cose bramate ripetevano il proprio essere; —  
+e là la lasciò, come una Silfide ingannata,  
+a vivere e anelare e languire incompiuta!  
+V  
+Può l’ingegno dell’uomo rivelare più grave dolore?  
+Può fitta più acuta sorgere da odio o da scherno? — 45  
+Sì! ve n’è una più acuta che giace più a fondo,  
+che l’affettuosa Stima non fa che schernire quando vorrebbe sanare.  
+Eppure né scherno né odio l’han congegnata,  
+ma triste compassione e zelo espiatorio!  
+Una fitta più struggente della [[concepts/hope|speranza]] tradita!   50  
+Ed è mia dolorosa sorte provarla,  
+quando, per ordine del Fratello, la Fanciulla gemella  
+col volto distolto e gli occhi incerti  
+indossa la veste sbiadita del compagno fuggitivo;  
+e dentro ritraendosi dal proprio travestimento   55  
+recita il Fanciullo fatato perduto e scomparso.  
+Oh peggio di tutto! Oh fitta sopra ogni fitta  
+è la Gentilezza che contraffà l’[[motifs/love|Amore]] assente!  
+? 1825-6.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="287_love_hope_and_patience_in_education" data-title="LOVE, HOPE, AND PATIENCE IN EDUCATION" data-chapter="" data-kind="intro"></span>
 
 
@@ -1266,12 +2226,38 @@ And both supporting does the work of both.
 1829.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sull’[[motifs/childhood|infanzia]] capricciosa vorresti tenere saldo governo,  
+e scaldarti alla luce di volti felici;  
+[[motifs/love|Amore]], [[concepts/hope|Speranza]] e Pazienza, queste devono essere le tue grazie,  
+e nel tuo cuore per primo tengano scuola.  
+Ché come il vecchio Atlante sul largo collo posa   5  
+il globo stellato del Cielo, e lì lo sostiene; — così  
+queste reggono il piccolo mondo quaggiù  
+dell’[[concepts/education|Educazione]], — Pazienza, [[motifs/love|Amore]] e [[concepts/hope|Speranza]].  
+Mi pare di vederle raccolte in decoroso quadro,  
+le braccia tese levate, le palme oblique,   10  
+e le vesti che toccandosi mentre scendono  
+distintamente si fondono, come [[motifs/snow|neve]] cesellata nella [[motifs/snow|neve]].  
+Oh non separarle mai! Se la [[concepts/hope|Speranza]] giace prostrata,  
+anche l’[[motifs/love|Amore]] sprofonderà e morirà.  
+Ma l’[[motifs/love|Amore]] è sottile, e trae prova   15  
+dalla propria vita che la [[concepts/hope|Speranza]] è ancora viva;  
+e chinandosi, con occhi che trasfondono l’[[motifs/soul|anima]],  
+e coi molli mormorii della colomba madre,  
+richiama con lusinghe lo spirito fuggente, e a metà supplisce; —  
+Così l’[[motifs/love|Amore]] rende alla [[concepts/hope|Speranza]] ciò che la [[concepts/hope|Speranza]] prima diede all’[[motifs/love|Amore]].  
+Pure forse verrà un giorno stanco,   21  
+in cui alfine, sfiniti dal troppo peso,  
+[[motifs/love|Amore]] e [[concepts/hope|Speranza]] cedono sotto il carico.  
+Allora col sorriso d’una statua, la forza d’una statua,  
+sta la sorella muta, Pazienza, per nulla riluttante,   25  
+e sostenendo entrambe fa il lavoro d’entrambe.  
+1829.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="299_forbearance" data-title="FORBEARANCE" data-chapter="" data-kind="intro"></span>
 
 
@@ -1295,12 +2281,29 @@ Give him the rotten timber for his pains!
 ? 1832.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tutto sopporta. — 1 COR. xiii, 7.  
+Con dolcezza accolsi ciò che senza dolcezza venne,  
+e senza sdegno perdonai: — fa’ tu lo stesso.  
+Un torto a te fatto pensalo scintilla d’occhio di gatto  
+che non vedresti, se il tuo cuore non fosse oscuro.  
+Il tuo acuto senso del torto che ha sete di peccato,   5  
+[[concepts/fear|temi]] quello — la scintilla accesa da [[concepts/self|sé]] dal di dentro,  
+che soffiata ti accecherà col suo bagliore,  
+o soffocata ti opprimerà con aria mefitica.  
+Metti su lo spegnitoio, tira su le persiane,  
+e presto lo spirito arieggiato ritrova   10  
+la sua naturale luce del giorno. Se un nemico ha scorto,  
+o peggio che nemico, un amico estraniato,  
+una costola marcita nel robusto fianco della tua [[motifs/ship|nave]],  
+pensalo messaggio di Dio, e con umile [[concepts/pride|orgoglio]]  
+sostituiscila con cuore di quercia; — tuo il guadagno — 15  
+dagli il legno marcio per il suo disturbo!  
+? 1832.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="303_my_baptismal_birth-day" data-title="MY BAPTISMAL BIRTH-DAY" data-chapter="" data-kind="intro"></span>
 
 
@@ -1321,12 +2324,26 @@ Yes! but not his—’tis [[motifs/death|Death]] itself there dies.
 1833.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[[archetypes/child|Figlio]] di Dio adottato in [[characters/christ|Cristo]], — [[characters/christ|Cristo]] mio tutto, —  
+che cosa vanta la terra che non sarebbe perduta a poco prezzo, piuttosto  
+che rinunciare a quel nome beato con cui chiamo  
+il Santo, l’Onnipotente Dio, mio Padre? —  
+Padre! in [[characters/christ|Cristo]] viviamo, e [[characters/christ|Cristo]] in Te — 5  
+Eterno Tu, e sempiterni noi.  
+Erede del cielo, d’ora innanzi non [[concepts/fear|temo]] la [[motifs/death|morte]]:  
+in [[characters/christ|Cristo]] vivo! in [[characters/christ|Cristo]] traggo il respiro  
+della vera vita! — Muovano dunque terra, mare e cielo  
+guerra contro di me! Sul mio cuore mostro   10  
+il sigillo del loro possente signore. Invano tentano  
+di por fine alla mia vita, ché possono por fine solo al suo affanno. —  
+È letto di [[motifs/death|morte]] quello dove giace un cristiano? —  
+Sì! ma non suo — è la [[motifs/death|Morte]] stessa che là muore.  
+1833.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="316_jobs_luck" data-title="JOB’S LUCK" data-chapter="" data-kind="intro"></span>
 
 
@@ -1359,12 +2376,38 @@ Oxoniensis), Bk. III, No. 198. See N. and Q., 1st Series, ii. 516.
 Title] The Devil Outwitted M. P.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L’astuto Belzebù colse ogni occasione  
+per provare la costanza e la pazienza di Giobbe;  
+gli prese gli onori, gli prese la salute,  
+gli prese i figli, gli prese le ricchezze,  
+i cammelli, i cavalli, gli asini, le vacche —  
+e l’astuto Diavolo non gli prese la sposa.  
+Ma il Cielo, che dal male trae il bene,  
+e ama deludere il Diavolo,  
+aveva predisposto di restituire  
+il doppio di tutto quel che Giobbe aveva prima,  
+i figli, i cammelli, i cavalli, le vacche, —  
+Diavolo miope, a non prendergli la sposa!  
+1799. Pubblicata per la prima volta sul Morning Post, 26 sett. 1801. Inclusa nell’
+Annual Register, 1827, e nel Keepsake, 1829. Prima raccolta nel 1834.  
+La prima strofa di ‘Job’s Luck’ è adattata dal Sinngedicht di Fr. v. Logan,  
+Hiob’s Weib, edizione di Lessing, libro III, n. 90: —  
+‘Als der [[characters/satan|Satan]] ging von Hiob, ist sein Anwalt dennoch blieben,  
+Hiobs Weib; er hätte nimmer einen bessern aufgetrieben.’  
+La seconda strofa è adattata dal Sinngedicht di Fr. v. Logan, Auf den  
+Hornutus, ibid., libro I, n. 68: —  
+‘Hornutus las, was Gott Job habe weggenommen,  
+Sei doppelt ihm hernach zu Hause wiederkommen:  
+Wie gut, sprach er, war dies, dass Gott sein Weib nicht nahm,  
+Auf dass Job ihrer zwei für eine nicht bekam!’  
+La fonte originale è un [[forms/epigram|epigramma]] latino di John Owen (Audoenus  
+Oxoniensis), libro III, n. 198. Vedi N. and Q., 1ª serie, ii. 516.  
+Titolo] The Devil Outwitted M. P.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="360_epitaph_of_the_present_year_on_the_monument_of_thomas_fuller" data-title="EPITAPH OF THE PRESENT YEAR ON THE MONUMENT OF THOMAS FULLER" data-chapter="" data-kind="intro"></span>
 
 
@@ -1382,12 +2425,23 @@ Nov. 28, 1833.
 Now first published from an MS.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Robusto luterano, tengo per Oca-e-Frittura  
+sia il Limbo del Papa sia la sua Lavanderia infuocata:  
+mai vidi arguzia nel [[concepts/original-sin|Peccato Originale]],  
+né trovo Peccato nell’Arguzia Originale;  
+ma se ho tutti i torti, e, Ghigno per Ghigno,  
+Anime bruciate devono pagare ogni frecciata troppo felice, —  
+oh, Fuller! molto [[concepts/fear|temo]], tanto vasto è il tuo debito,  
+che tu non sia ancora fuori dal Purgatorio;  
+benché uno, otto, tre e tre si conti quest’anno,  
+e tu, credo, moristi sub Carlo Secondo.  
+28 nov. 1833.  
+Ora pubblicato per la prima volta da un MS.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="380_hymns_moon" data-title="HYMNS — MOON" data-chapter="" data-kind="intro"></span>
 
 
@@ -1449,12 +2503,67 @@ Anathema Maránatha to me!
 First published, Lit. Rem., i. 281.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In una [[motifs/cave|caverna]] fra le [[settings/mountains|montagne]] del Cashmeer, un’immagine di ghiaccio, che  
+si manifesta così: due giorni prima della [[motifs/moon|luna]] nuova  
+appare una bolla di ghiaccio, che cresce di volume ogni giorno  
+fino al quindicesimo giorno, quando è alta un’auna o più;  
+— poi, come la [[motifs/moon|luna]] cala, cala anche l’Immagine finché  
+svanisce. Mem. Leggere tutta la pagina 107 dell’Indostan  
+di Maurice.  
+Pubblicato per la prima volta nel 1893. ‘Hymns to the Sun, the [[motifs/moon|Moon]], and the Elements’  
+figura in un elenco di opere progettate enumerate nel Taccuino  
+Gutch. Le ‘caves of ice’ del [[characters/kubla-khan|Kubla Khan]] possono essere state una  
+reminiscenza della pagina 107 dell’Hindostan di Maurice.  
+La lingua non può parlare quando la bocca è colma di terra —  
+un po’ di zolla riempie le bocche più eloquenti,  
+e una pietra squadrata con qualche pio versetto  
+inciso pulitamente sopra tiene la zolla ben ferma.  
+Pubblicato per la prima volta nel 1893. Cfr. Osorio, atto III, versi 259-   62  
+(ante, p. 560).  
+E con tutto il cuore canto il maestoso canto,  
+amando il Dio che mi fece.  
+Pubblicato per la prima volta nel 1893. Cfr. Fears in [[concepts/solitude|Solitude]], vv. 196-7 (ante,  
+p. 263).  
+Immagine di Dio, Sorella dei Cherubini!  
+Pubblicato per la prima volta nel 1893. Cfr. l’ultimo verso di The Ode to the  
+Departing Year (ante, p. 168).  
+E ricolloca l’Immagine di Dio nell’[[motifs/soul|Anima]].  
+Pubblicato per la prima volta nel 1893.  
+E frecce temprate d’ira.  
+Pubblicato per la prima volta nel 1893.  
+Amò lo stesso [[motifs/love|Amore]], e odiò lo stesso odio,  
+respirò nella sua [[motifs/soul|anima]]! ecc. ecc.  
+Pubblicato per la prima volta nel 1893.  
+O uomo! tu Angelo mezzo morto!  
+Pubblicato per la prima volta nel 1893.  
+Il tuo occhio severo e cupo, e la tua fronte scura  
+mi agghiacciano, come umori di rugiada della malsana [[motifs/night|Notte]].  
+Il mio [[motifs/love|Amore]], fiore timoroso e tenero,  
+si chiude sotto il tuo Tocco, uomo scortese!  
+Alitato da miti brezze di Cortesia  
+e rallegrato dal sole d’uno sguardo appassionato —  
+allora schiude i suoi petali di tinte non volgari.  
+Pubblicato per la prima volta nel 1893. Vedi Remorse, atto I, sc. II, vv. 81-4 (ante,  
+p. 826). Cfr. Osorio, atto I, vv. 80-3 (ante, p. 522).  
+Con arte che mai Alchimista ancora narrò,  
+rese il Piombo scoriaceo duttile come Oro puro.  
+Pubblicato per la prima volta nel 1893.  
+Concedimi un Mecenate, benigno Cielo! ogni volta che  
+le mie follie non lavate chiedono tetra Penitenza:  
+ma quando più orrenda [[concepts/guilt|colpa]] infesta questo cuore,  
+invece di carboni ardenti sul mio Cranio,  
+oh sia mio Destino un Mecenate titolato; —  
+quel feroce Compendio di Pesti Egizie!  
+Reverendissimo Decano, onorevolissimo Signore,  
+Lord, Marchese, Conte, Duca, Principe, — o se v’è di più alto,  
+comunque superbamente soprannominato, egli sarà  
+per me Anathema Maránatha!  
+Pubblicato per la prima volta, Lit. Rem., i. 281.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="391_to_edward_irving" data-title="TO EDWARD IRVING" data-chapter="" data-kind="intro"></span>
 
 
@@ -1481,12 +2590,32 @@ a goose; for thy geese helped to save the Capitol.
 and D. W., 1877, ii. 367.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma voi, onorato IRVING, siete poco disposto quanto me a favorire  
+una simile dottrina! [come quella di Mant e D’Oyly sul Battesimo dei bambini].  
+Amico puro di cuore e fervente! noi abbiamo appreso  
+un diverso sapere! Non possiamo così profanare  
+l’Idea e il Nome di Colui la cui Volontà Assoluta  
+è Ragione — [[concepts/truth|Verità]] Suprema! — Ordine Essenziale!  
+1824. Pubblicato per la prima volta in Aids to Reflection, 1825, p. 373. Prima
+raccolta nel 1893.  
+[LUTERO — DE DÆMONIBUS]  
+I diavoli sono nei boschi, nelle acque, nei deserti e in luoghi bui e  
+stagnanti, pronti a nuocere e a danneggiare la gente, ecc. — Doctoris Martini  
+Lutheri Colloquia Mensalia — (tradotto dal capitano Henry Bell. [[settings/london|Londra]],  
+1652, p. 370).  
+‘L’angelo è come una pulce,  
+il diavolo è un seccatore;—’  
+Non importa! disse S. T. C.,  
+perciò lo [[motifs/love|amo]] anche di più.  
+Sì! eroico Cigno, ti [[motifs/love|amo]] anche quando schiamazzi come  
+un’oca; ché le tue oche aiutarono a salvare il Campidoglio.  
+1826. Pubblicato per la prima volta in Lit. Rem., 1839, iv. 52. Prima raccolta P.
+and D. W., 1877, ii. 367.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="410_a_metrical_accident" data-title="A METRICAL ACCIDENT" data-chapter="" data-kind="intro"></span>
 
 
@@ -1506,12 +2635,25 @@ Of my [[archetypes/innocent|innocent]] [[motifs/blood|blood]]!’     e
 July 7, 1826. Now first published from an MS.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Curioso esempio di metro e rima casuali in una narrazione in prosa (The  
+Life of Jerome of Prague). Il metro è dimetro anfibraco catalettico  
+Ø ¯ Ø | Ø ¯, e le rime sono antistrofiche.  
+Allora Girolamo chiamò       a  
+dal suo Recinto a punte di fiamma;       b  
+che sotto calpestava,       c  
+mentre in su saliva    d  
+dal flutto infuocato, —  e  
+‘Vi cito tutti,    a  
+fra cento anni,     b  
+a comparire davanti a Dio,      c  
+a rendere conto    d  
+del mio [[motifs/blood|sangue]] [[archetypes/innocent|innocente]]!’     e  
+7 luglio 1826. Ora pubblicato per la prima volta da un MS.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="429_christopher_harvey_the_synagogue" data-title="CHRISTOPHER HARVEY THE SYNAGOGUE" data-chapter="" data-kind="intro"></span>
 
 
@@ -1543,12 +2685,37 @@ were reprinted in the notes to The Complete [[works/poems-(chesterton)|Poems]] o
 Harvey, 1874, p. 47.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+LA NATIVITÀ, OSSIA IL GIORNO DI NATALE.  
+Svela il tuo volto, smaschera il tuo raggio,  
+risplendi, sole lucente, [[topoi/double|raddoppia]] il giorno;  
+nessun maligno vapore nebbioso  
+né bruma caliginosa presuma mai  
+d’interporsi alle tue viste perfette,   5  
+in questo giorno che ci fa usare le tue luci  
+per sempre meglio di quanto potremmo  
+una volta contemplato quel beato oggetto,  
+che è insieme la circonferenza  
+e il centro d’ogni eccellenza, ecc.   10  
+Sostituire ai versi dal quinto all’ottavo i seguenti.  
+a inguainare o smussare un solo raggio felice,  
+che dal giorno trae nuovo splendore, —  
+questo giorno che ti dà potere di sorgere,  
+e di splendere sui cuori così [[motifs/well|bene]] come sugli occhi:  
+questo giorno natale di tutte le anime, quando per la prima volta  
+su occhi di carne e [[motifs/blood|sangue]] proruppe  
+quella prima grande luce lucifica,  
+che a te diede raggi, a noi la vista.  
+[S. T. C.]  
+Pubblicato per la prima volta in ‘Notes on Harvey’s Synagogue’, Notes and Lectures,  
+ecc., 1849, ii. 263. Ora raccolto per la prima volta.  
+Le note di Coleridge a The Synagogue, comprese queste righe originali,  
+furono ristampate nelle note a The Complete [[works/poems-(chesterton)|Poems]] of Christopher  
+Harvey, 1874, p. 47.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="431_w_l_bowles" data-title="W. L. BOWLES" data-chapter="" data-kind="intro"></span>
 
 
@@ -1565,3 +2732,20 @@ Of man’s great Author, that thro’ good and ill   10
 Calm he should hold his course, and so sustain  
 His varied lot of pleasure, toil and [[motifs/pain|pain]]!  
 1793  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—— Io resto ancora  
+a piangere le ore della giovinezza (e piango invano)  
+fuggite trascurate: saggiamente tu hai calcato  
+il sentiero migliore — e quell’alto premio che Dio  
+assegnò alla virtù, ergendosi dalla [[motifs/dust|polvere]],   5  
+attenderà il tuo sorgere, Spirito puro e giusto!  
+O Dio! come sarebbe dolce pensare che tutti  
+quanti in silenzio piangono intorno a questa cupa sfera  
+potessero udire la voce della gioia; — ma è volere  
+del grande Autore dell’uomo che, tra bene e male,   10  
+calmo egli tenga il suo corso, e così sostenga  
+la sua varia sorte di piacere, fatica e [[motifs/pain|pena]]!  
+1793

@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat" data-author="Keats" data-workhref="works/ode-·-nature-vs-civilization-·-pastoral-retreat-(keats)"></div>
 
 
-<<<<<<< HEAD
 O SOLITUDE! IF I MUST WITH THEE DWELL · TO ONE WHO HAS BEEN LONG IN CITY PENT · ON THE GRASSHOPPER AND CRICKET · ODE TO PSYCHE · ODE ON MELANCHOLY · Stanzas to Miss Wylie · Sonnet: Oh! how I love, on a fair summer’s eve · Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’ · Teignmouth
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="018_o_solitude_if_i_must_with_thee_dwell" data-title="O SOLITUDE! IF I MUST WITH THEE DWELL" data-chapter="" data-kind="intro"></span>
 
 

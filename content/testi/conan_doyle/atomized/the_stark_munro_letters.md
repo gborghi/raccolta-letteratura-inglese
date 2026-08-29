@@ -14,7 +14,6 @@ tags:
 <span class="atom-split" data-atom="the_stark_munro_letters" data-title="THE STARK MUNRO LETTERS" data-chapter="" data-kind="intro"></span>
 
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -929,8 +928,6 @@ Questa è l’ultima lettera che ero destinato a ricevere dal mio povero amico. 
 
 **La tragedia del Korosko**  
 Pubblicato a puntate sulla rivista *The Strand* tra maggio e dicembre 1897, questo romanzo racconta la storia di un gruppo di turisti europei che si godono il loro viaggio in Egitto nel 1895. Viaggiano lungo il Nilo a bordo del “Korosko”, una nave a vapore con fondo piatto e prua arrotondata. Il loro obiettivo è raggiungere Abousir, alla frontiera meridionale dell’Egitto, da dove inizia la regione dei Dervisci. Vengono però attaccati e rapiti da una banda di guerrieri dervisci. Il romanzo rappresenta una forte difesa dell’Imperialismo britannico, in particolare del progetto imperiale in Nord Africa, e rivela anche la grande diffidenza che molti europei nutrivano all’epoca verso l’Islam.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 

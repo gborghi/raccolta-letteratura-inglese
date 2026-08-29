@@ -15,10 +15,6 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/the-tenant-of-wildfell-hall-(bronte)|The Tenant of Wildfell Hall (Bronte)]]
-<<<<<<< HEAD
-=======
-- [[works/the-ballad-of-the-dark-ladié-(coleridge)|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/the-faded-flower-(coleridge)|THE FADED FLOWER (Coleridge)]]
 - [[works/the-outcast-(coleridge)|THE OUTCAST (Coleridge)]]
 - [[works/to-an-unfortunate-woman-at-the-theatre-(coleridge)|TO AN UNFORTUNATE WOMAN AT THE THEATRE (Coleridge)]]

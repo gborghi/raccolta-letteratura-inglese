@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/self-knowledge-immortality-self-reliance--poems" data-author="Dickinson" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 10. My wheel is in the dark! · 37. Before the ice is in the pools — · 60. Like her the Saints retire, · 79. Going to Heaven! · 89. Some things that fly there be — · 105. To hang our head — ostensibly — · 129. Cocoon above! Cocoon below! · 144. She bore it till the simple veins · 160. Just lost, when I was saved! · 233. The Lamp burns sure — within — · 292. If your Nerve, deny you — · 306. The Soul's Superior instants · 307. The One who could repeat the Summer day — · 320. We play at Paste — · 334. All the letters I can write · 346. Not probable — The barest Chance — · 366. Although I put away his life — · 371. A precious — mouldering pleasure — 'tis — · 384. No Rack can torture me — · 397. When Diamonds are a Legend, · 418. Not in this World to see his face — · 432. Do People moulder equally, · 448. This was a Poet — It is That · 461. A Wife — at daybreak I shall be — · 470. I am alive — I guess — · 483. A Solemn thing within the Soul · 491. While it is alive · 499. Those fair — fictitious People — · 515. No Crowd that has occurred · 524. Departed — to the Judgment — · 544. The Martyr Poets — did not tell — · 578. The Body grows without — · 594. The Battle fought between the Soul · 601. A still — Volcano — Life — · 608. Afraid! Of whom am I afraid? · 615. Our journey had advanced — · 616. I rose — because He sank — · 642. Me from Myself — to banish — · 657. I dwell in Possibility — · 674. The Soul that hath a Guest · 675. Essential Oils — are wrung — · 677. To be alive — is Power — · 721. Behind Me — dips Eternity — · 726. We thirst at first — 'tis Nature's Act — · 733. The Spirit is the Conscious Ear. · 753. My Soul — accused me — And I quailed — · 769. One and One — are One — · 789. On a Columnar Self — · 798. She staked her Feathers — Gained an Arc — · 822. This Consciousness that is aware · 830. To this World she returned. · 855. To own the Art within the Soul · 984. 'Tis Anguish grander than Delight · 1009. I was a Phoebe — nothing more — · 1039. I heard, as if I had no Ear · 1088. Ended, ere it begun — · 1090. I am afraid to own a Body — · 1099. My Cocoon tightens — Colors tease — · 1135. Too cold is this · 1142. The Props assist the House · 1165. Contained in this short Life · 1205. Immortal is an ample word · 1209. To disappear enhances — · 1228. So much of Heaven has gone from Earth · 1238. Power is a familiar growth — · 1260. Because that you are going · 1261. A Word dropped careless on a Page · 1274. The Bone that has no Marrow, · 1294. Two Lengths has every Day — · 1305. Recollect the Face of me · 1399. Perhaps they do not go so far · 1425. The inundation of the Spring · 1431. With Pinions of Disdain · 1436. Than Heaven more remote, · 1454. Those not live yet · 1499. How firm Eternity must look · 1525. He lived the Life of Ambush · 1573. To the bright east she flies, · 1576. The Spirit lasts — but in what mode — · 1584. Expanse cannot be lost — · 1587. He ate and drank the precious Words — · 1630. As from the earth the light Balloon · 1646. Why should we hurry — why indeed? · 1663. His mind of man, a secret makes
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="_wheel_is_in_the_dark" data-title="10. My wheel is in the dark!" data-chapter="" data-kind="intro" data-tags="motif/the_wheel,motif/the_grave,motif/light_and_dark,motif/the_road,concept/faith,concept/mortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
@@ -40,7 +37,6 @@ Pass royal thro' the gate
 Flinging the problem back, at you and I.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La mia [[motifs/wheel|Ruota]] è nel buio.  
@@ -60,8 +56,6 @@ Alcuni con nuovi - maestosi piedi
 Passano regali per la porta  
 Rigettando il problema, a te e a me.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="fore_the_ice_is_in_the_pools" data-title="37. Before the ice is in the pools —" data-chapter="" data-kind="intro" data-tags="motif/winter,concept/wonder_and_gratitude,concept/faith,concept/immortality,concept/grief_and_loss,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -88,7 +82,6 @@ Will the frock I wept in
 Answer me to wear?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Prima che il ghiaccio sia negli stagni —  
@@ -111,8 +104,6 @@ Quando non c'è nessuno qui —
 La veste in cui piansi  
 Mi risponderà da indossare?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ke_her_the_saints_retire" data-title="60. Like her the Saints retire," data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/death,concept/immortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -135,7 +126,6 @@ Reasons the Daffodil
 Profound!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come lei si ritirano i Santi,  
@@ -154,8 +144,6 @@ Argomenta ancora l'Astro —
 Ragiona il Narciso  
 Profondo!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ing_to_heaven" data-title="79. Going to Heaven!" data-chapter="" data-kind="intro" data-tags="motif/crown,motif/autumn,concept/faith_and_doubt,concept/immortality,concept/grief_and_loss,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -192,7 +180,6 @@ Since the might [[motifs/autumn|Autumn]] afternoon
 I left them in the ground.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vado in Cielo!  
@@ -225,8 +212,6 @@ Loro che non ho più trovato
 Dal possente pomeriggio d'[[motifs/autumn|Autunno]]  
 In cui li lasciai nella terra.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_things_that_fly_there_be" data-title="89. Some things that fly there be —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/birds,concept/transience,concept/immortality,concept/grief_and_loss,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -245,7 +230,6 @@ Can I expound the skies?
 How still the [[forms/riddle|Riddle]] lies!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Alcune cose che volano vi sono —  
@@ -260,8 +244,6 @@ Vi sono che, riposando, sorgono.
 Posso io spiegare i cieli?  
 Come quieto giace l'[[forms/riddle|Enigma]]!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_hang_our_head_ostensibly" data-title="105. To hang our head — ostensibly —" data-chapter="" data-kind="intro" data-tags="concept/appearance_vs_reality,concept/self_and_soul,concept/immortality,concept/humility,concept/paradox,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -278,7 +260,6 @@ You — too — take Cobweb attitudes
 Upon a plane of Gauze!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chinare il capo — ostensibilmente —  
@@ -291,8 +272,6 @@ Che in così densa lanugine —
 Tu — pure — assuma pose di Ragnatela  
 Sopra un piano di Garza!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="coon_above_cocoon_below" data-title="129. Cocoon above! Cocoon below!" data-chapter="" data-kind="intro" data-tags="topos/the_sleeper_awakes,motif/metamorphosis,motif/animals,concept/immortality,concept/self_and_soul,concept/grace_and_redemption,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -313,7 +292,6 @@ Then wiser than a "Surrogate,"
 The Universe to know!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Bozzolo in alto! Bozzolo in basso!  
@@ -330,8 +308,6 @@ Un momento per interrogare,
 Poi più saggio di un "Surrogato,"  
 L'Universo conoscere!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_bore_it_till_the_simple_veins" data-title="144. She bore it till the simple veins" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,archetype/martyr,motif/death,motif/crown,motif/flowers,concept/mortality,concept/immortality,concept/grief_and_loss,concept/faith,form/elegy,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -358,7 +334,6 @@ Whose but her shy — immortal face
 Of whom we're whispering here?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lo sopportò finché le semplici vene  
@@ -381,8 +356,6 @@ E nel mezzo così bella,
 Di chi se non suo il timido — immortale volto  
 Di colei che qui andiamo sussurrando?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="st_lost_when_i_was_saved" data-title="160. Just lost, when I was saved!" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,archetype/pilgrim,motif/the_sea,motif/the_wheel,concept/mortality,concept/immortality,concept/faith,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -412,7 +385,6 @@ Slow tramp the Centuries,
 And the Cycles [[motifs/wheel|wheel]]!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Appena perduta, quando ero salva!  
@@ -438,8 +410,6 @@ Mentre le Ere scivolano —
 Lento marciano i Secoli,  
 E i Cicli [[motifs/wheel|ruotano]]!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_lamp_burns_sure_within" data-title="233. The Lamp burns sure — within —" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/fire,concept/self_and_soul,concept/immortality,concept/identity,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -456,7 +426,6 @@ Unconscious that the oil is out —
 As that the Slave — is gone.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Lampada arde sicura — dentro —  
@@ -469,8 +438,6 @@ La Lampada — arde dorata — ancora —
 Ignara che l'olio è finito —  
 Come che lo Schiavo — è andato.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_your_nerve_deny_you" data-title="292. If your Nerve, deny you —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/death,concept/self_and_soul,concept/heroism,concept/mortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -492,7 +459,6 @@ The Poltroon wants Oxygen —
 Nothing more —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Se il tuo Nervo, ti nega —  
@@ -510,8 +476,6 @@ Solleva la [[motifs/door|porta]] della Carne —
 Il Poltrone vuole Ossigeno —  
 Nient'altro —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_souls_superior_instants" data-title="306. The Soul's Superior instants" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,concept/self_and_soul,concept/immortality,concept/the_sublime,concept/faith,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -538,7 +502,6 @@ Of the Colossal substance
 Of [[concepts/immortality|Immortality]]
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Gli istanti Superiori dell'[[motifs/soul|Anima]]  
@@ -561,8 +524,6 @@ A favoriti — pochi —
 Della Colossale sostanza  
 Dell'[[concepts/immortality|Immortalità]]
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_one_who_could_repeat_the_summer_day" data-title="307. The One who could repeat the Summer day —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/sun,motif/seasons,concept/immortality_of_art,concept/imagination,concept/the_artist_and_society,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -581,7 +542,6 @@ And Occident — become Unknown —
 His Name — remain —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Colui che potesse ripetere il giorno d'[[motifs/summer|Estate]] —  
@@ -596,8 +556,6 @@ Quando l'[[settings/orient|Oriente]] sarà oltrepassato —
 E l'Occidente — divenuto Ignoto —  
 Il suo Nome — resterà —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_play_at_paste" data-title="320. We play at Paste —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/education,concept/the_artist_and_society,concept/childhood_and_growth,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -614,7 +572,6 @@ Learned Gem-Tactics —
 Practicing Sands —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Giochiamo a Pasta di vetro —  
@@ -627,8 +584,6 @@ E le nostre nuove Mani
 Appresero Tattiche di Gemma —  
 Esercitandosi a Sabbie —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="l_the_letters_i_can_write" data-title="334. All the letters I can write" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/letters_writing,motif/desire,motif/birds,motif/white_and_red,concept/lust,concept/beauty,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -644,7 +599,6 @@ Play it were a Humming Bird —
 And just sipped — me —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tutte le lettere che so scrivere  
@@ -656,8 +610,6 @@ Nascoste, Labbro, per Te —
 Fingi che fosse un Colibrì —  
 E che sorseggiasse appena — me —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="t_probable_the_barest_chance" data-title="346. Not probable — The barest Chance —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/death,motif/the_journey,concept/grace_and_redemption,concept/fate_and_free_will,concept/immortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -676,7 +628,6 @@ Oh, Groping feet —
 Oh [[characters/phantom|Phantom]] [[characters/queen|Queen]]!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non probabile — la più esile Possibilità —  
@@ -691,8 +642,6 @@ E perisse — solo un Ramo di mezzo —
 Oh, piedi Brancolanti —  
 Oh [[characters/phantom|Spettrale]] [[characters/queen|Regina]]!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="though_i_put_away_his_life" data-title="366. Although I put away his life —" data-chapter="" data-kind="intro" data-tags="motif/love,motif/death,concept/renunciation,concept/marriage_and_fidelity,concept/immortality_divine,concept/grief_and_loss,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -742,7 +691,6 @@ To teach the Angels, avarice,
 You, Sir, taught first — to me.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Benché io riponessi la sua vita —  
@@ -788,8 +736,6 @@ In Paradiso, con me —
 Per insegnare agli Angeli l'avarizia,  
 Che voi, Signore, insegnaste primo — a me.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="precious_mouldering_pleasure_tis" data-title="371. A precious — mouldering pleasure — 'tis —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/the_book,motif/dreams,motif/time,concept/immortality_of_art,form/lyric,histref/classical_antiquity,histref/dante,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -833,7 +779,6 @@ Old Volume shake their Vellum Heads
 And tantalize — just so —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un prezioso — ammuffito piacere — è —  
@@ -873,8 +818,6 @@ Lo supplichi di non andare —
 Vecchi Volumi scuotono le Teste di Pergamena  
 E tentano — proprio così —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_rack_can_torture_me" data-title="384. No Rack can torture me —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/swords_weapons,concept/self_and_soul,concept/pain,concept/immortality,concept/paradox,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -901,7 +844,6 @@ Captivity is Consciousness —
 So's [[concepts/liberty|Liberty]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nessun Cavalletto può torturarmi —  
@@ -924,8 +866,6 @@ Il Tuo Nemico —
 Prigionia è Coscienza —  
 Così la [[concepts/liberty|Libertà]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="en_diamonds_are_a_legend" data-title="397. When Diamonds are a Legend," data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/money_gold,concept/immortality_of_art,concept/transience,concept/beauty,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -942,7 +882,6 @@ Once — it was a [[characters/queen|Queen]] —
 And once — a Butterfly —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quando i Diamanti sono Leggenda,  
@@ -955,8 +894,6 @@ La mia Arte, un Giorno d'[[motifs/summer|Estate]] — ebbe Mecenati —
 Una volta — fu una [[characters/queen|Regina]] —  
 E una volta — una Farfalla —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="t_in_this_world_to_see_his_face" data-title="418. Not in this World to see his face —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/the_book,concept/faith,concept/renunciation,concept/unrequited_love,concept/immortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -977,7 +914,6 @@ And leave me — just my A — B — C —
 Himself — could have the Skies —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non in questo Mondo vedere il suo volto —  
@@ -994,8 +930,6 @@ Possa qualcun altro — così dotto — essere —
 E lasciare a me — solo il mio A — B — C —  
 Lui — potrebbe avere i Cieli —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_people_moulder_equally" data-title="432. Do People moulder equally," data-chapter="" data-kind="intro" data-tags="motif/decay,motif/the_grave,concept/immortality,concept/faith_and_doubt,concept/mortality,histref/the_bible,character/christ,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1022,7 +956,6 @@ Is not a controvertible —
 He told me, [[motifs/death|Death]] was dead —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Le Persone marciscono ugualmente,  
@@ -1045,8 +978,6 @@ Quella parola del Signore
 Non è cosa controvertibile —  
 Mi disse, la [[motifs/death|Morte]] era morta —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_was_a_poet_it_is_that" data-title="448. This was a Poet — It is That" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,topos/immortality_through_verse,archetype/prophet,motif/flowers,concept/immortality_of_art,concept/the_artist_and_society,concept/imagination,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1073,7 +1004,6 @@ Himself — to Him — a Fortune —
 Exterior — to [[motifs/time|Time]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questo era un Poeta — È Ciò che  
@@ -1096,8 +1026,6 @@ La Rapina — non potrebbe nuocere —
 Egli stesso — per Sé — una Fortuna —  
 Esteriore — al [[motifs/time|Tempo]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="wife_at_daybreak_i_shall_be" data-title="461. A Wife — at daybreak I shall be —" data-chapter="" data-kind="intro" data-tags="motif/marriage,motif/dawn,motif/death,concept/immortality,concept/innocence_and_experience,character/christ,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1119,7 +1047,6 @@ So soon to be a [[archetypes/child|Child]] no more —
 Savior — I've seen the face — before!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sposa — all'alba io sarò —  
@@ -1137,8 +1064,6 @@ Così presto non più [[archetypes/child|Bimba]] —
 [[concepts/eternity|Eternità]], sto arrivando — Sire,  
 Salvatore — l'ho visto il volto — già!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="am_alive_i_guess" data-title="470. I am alive — I guess —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/flowers,concept/identity,concept/immortality,concept/joy,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1182,7 +1107,6 @@ Alive — two-fold — The Birth I had —
 And this — besides, in — Thee!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sono viva — suppongo —  
@@ -1222,8 +1146,6 @@ Che infinito — essere
 Viva — due volte — La Nascita che ebbi —  
 E questa — in più, in — Te!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="solemn_thing_within_the_soul" data-title="483. A Solemn thing within the Soul" data-chapter="" data-kind="intro" data-tags="motif/garden,motif/autumn,motif/sun,concept/self_and_soul,concept/mortality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1249,7 +1171,6 @@ A little nearer — Every [[motifs/sun|Sun]]
 The Single — to some lives.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cosa Solenne dentro l'[[motifs/soul|Anima]]  
@@ -1271,8 +1192,6 @@ Che la tua sorte nella Mietitura si fa
 Un poco più vicina — Ogni [[motifs/sun|Sole]]  
 L'Unico — per alcune vite.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ile_it_is_alive" data-title="491. While it is alive" data-chapter="" data-kind="intro" data-tags="motif/love,motif/death,motif/dust,concept/immortality,concept/grace_and_redemption,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1291,7 +1210,6 @@ Show me Division can split or pare —
 Scooping up the [[motifs/dust|Dust]] and chanting "Live"!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Finché è vivo  
@@ -1306,8 +1224,6 @@ L'[[motifs/love|Amore]] è come la [[motifs/death|Morte]], durante la [[motifs/g
 L'[[motifs/love|Amore]] è il Compagno della [[concepts/resurrection|Resurrezione]]  
 Che raccoglie la [[motifs/dust|Polvere]] cantando "Vivi"!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ose_fair_fictitious_people" data-title="499. Those fair — fictitious People —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/immortality,concept/faith,concept/alienation,concept/grief_and_loss,concept/immortality_of_soul,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1344,7 +1260,6 @@ Through easy Miracle of [[motifs/death|Death]] —
 The Way ourself, must come —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Quella bella — fittizia Gente —  
@@ -1377,8 +1292,6 @@ Loro — ammessi a [[motifs/home|Casa]] —
 Per facile Miracolo di [[motifs/death|Morte]] —  
 La Via che noi stessi, dovremo fare —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_crowd_that_has_occurred" data-title="515. No Crowd that has occurred" data-chapter="" data-kind="intro" data-tags="motif/dust,motif/the_grave,concept/immortality,concept/self_and_soul,concept/mortality,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1410,7 +1323,6 @@ Of the Significance of This —
 To Universe — and Me?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nessuna Folla mai avvenuta  
@@ -1438,8 +1350,6 @@ Quale Parallelo può darsi —
 Del Significato di Questo —  
 Per l'Universo — e per Me?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="parted_to_the_judgment" data-title="524. Departed — to the Judgment —" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,motif/death,concept/self_and_soul,concept/immortality_of_soul,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1456,7 +1366,6 @@ Two worlds, like audiences, disperse
 And leave the [[motifs/soul|soul]] alone.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Partita al giudizio,  
@@ -1469,8 +1378,6 @@ L'incorporeo iniziato ;
 Due mondi, come platee, si disperdono  
 E lasciano l'[[motifs/soul|anima]] sola.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_martyr_poets_did_not_tell" data-title="544. The Martyr Poets — did not tell —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,archetype/martyr,motif/letters_writing,concept/immortality_of_art,concept/martyrdom,concept/the_artist_and_society,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1487,7 +1394,6 @@ That when their conscious fingers cease —
 Some seek in Art — the Art of Peace —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I Poeti Martiri — non dissero —  
@@ -1500,8 +1406,6 @@ Legando — piuttosto — alla loro Opera —
 Ché quando le loro dita consapevoli cessano —  
 Alcuni cerchino nell'Arte — l'Arte della Pace —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_body_grows_without" data-title="578. The Body grows without —" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/faith,concept/identity,concept/the_natural_order,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1518,7 +1422,6 @@ The [[motifs/soul|Soul]] that asked its shelter
 In solemn honesty
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il [[concepts/body|Corpo]] cresce al di fuori —  
@@ -1531,8 +1434,6 @@ Mai esso tradì
 L'[[motifs/soul|Anima]] che chiese il suo riparo  
 In solenne onestà
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_battle_fought_between_the_soul" data-title="594. The Battle fought between the Soul" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/heroism,concept/suffering,concept/identity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1554,7 +1455,6 @@ The Sunrise scatters — These endure —
 Enact — and terminate —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Battaglia combattuta tra l'[[motifs/soul|Anima]]  
@@ -1572,8 +1472,6 @@ Come Legioni d'una [[motifs/night|Notte]]
 Che l'Alba disperde — Queste durano —  
 Agiscono — e terminano —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="still_volcano_life" data-title="601. A still — Volcano — Life —" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/desire_and_longing,concept/identity,concept/paradox,concept/pain,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1595,7 +1493,6 @@ Whose hissing Corals part — and shut —
 And Cities — ooze away —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una quieta — Vita — di Vulcano —  
@@ -1613,8 +1510,6 @@ Le labbra che mai mentono —
 I cui Coralli sibilanti si aprono — e serrano —  
 E le Città — colano via —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="raid_of_whom_am_i_afraid" data-title="608. Afraid! Of whom am I afraid?" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/mortality,concept/immortality,concept/self_and_soul,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1636,7 +1531,6 @@ With her fastidious forehead?
 As soon impeach my [[motifs/crown|Crown]]!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Paura! Di chi ho paura?  
@@ -1654,8 +1548,6 @@ timoroso d'affidare al Mattino
 la sua fronte fastidiosa?  
 Tanto varrebbe accusare la mia [[motifs/crown|Corona]]!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_journey_had_advanced" data-title="615. Our journey had advanced —" data-chapter="" data-kind="intro" data-tags="concept/mortality,concept/immortality,concept/self_and_soul,concept/faith,concept/providence,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1677,7 +1569,6 @@ Behind — a Sealed Route —
 And [[characters/god|God]] — at every Gate —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il nostro [[motifs/journey|viaggio]] era avanzato —  
@@ -1695,8 +1586,6 @@ Dietro — una Via Sigillata —
 La Bianca [[motifs/flag|Bandiera]] dell'[[concepts/eternity|Eternità]] — Davanti —  
 E [[characters/god|Dio]] — a ogni Porta —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rose_because_he_sank" data-title="616. I rose — because He sank —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,archetype/martyr,motif/death,motif/the_grave,motif/music_and_song,motif/swords_weapons,concept/immortality,concept/mortality,concept/faith,concept/grief_and_loss,concept/self_and_soul,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1732,7 +1621,6 @@ And ways I knew not that I knew — till then —
 I lifted Him —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Io [[motifs/rose|sorsi]] — perché Lui affondò —  
@@ -1764,8 +1652,6 @@ E Nervo di dentro —
 E modi che non sapevo di sapere — fino ad allora —  
 Lo sollevai —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_from_myself_to_banish" data-title="642. Me from Myself — to banish —" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/crown,concept/self_and_soul,concept/identity,concept/inner_conflict,concept/alienation,concept/madness,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1787,7 +1673,6 @@ Except by Abdication —
 Me — of Me?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Me da Me stessa — bandire —  
@@ -1805,8 +1690,6 @@ Come può essere
 Se non per Abdicazione —  
 Me — di Me?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="dwell_in_possibility" data-title="657. I dwell in Possibility —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,topos/poet_as_prophet,motif/the_window,concept/imagination,concept/immortality_of_art,concept/the_artist_and_society,concept/the_sublime,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1828,7 +1711,6 @@ The spreading wide my narrow Hands
 To gather Paradise —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dimoro nella Possibilità —  
@@ -1846,8 +1728,6 @@ Per Occupazione — Questo —
 Lo spalancare le mie strette Mani  
 A raccogliere il Paradiso —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_soul_that_hath_a_guest" data-title="674. The Soul that hath a Guest" data-chapter="" data-kind="intro" data-tags="motif/crown,concept/self_and_soul,concept/faith,concept/love_divine,concept/alienation,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1864,7 +1744,6 @@ Upon Himself be visiting
 The Emperor of Men —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'[[motifs/soul|Anima]] che ha un Ospite  
@@ -1877,8 +1756,6 @@ La partenza dell'Anfitrione quando
 Presso di Lui è in visita  
 L'Imperatore degli Uomini —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="sential_oils_are_wrung" data-title="675. Essential Oils — are wrung —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/rose,motif/flowers,motif/summer,motif/the_grave,concept/immortality_of_art,concept/transience,concept/mortality,concept/the_artist_and_society,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1895,7 +1772,6 @@ Make [[motifs/summer|Summer]] — When the Lady lie
 In Ceaseless Rosemary —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Oli Essenziali — si spremono —  
@@ -1908,8 +1784,6 @@ Ma questa — nel Cassetto della Dama
 Fa [[motifs/summer|Estate]] — Quando la Dama giace  
 In Rosmarino Incessante —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_be_alive_is_power" data-title="677. To be alive — is Power —" data-chapter="" data-kind="intro" data-tags="concept/identity,concept/self_and_soul,concept/fate_and_free_will,concept/joy,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1926,7 +1800,6 @@ The Maker — of Ourselves — be what —
 Such being Finitude!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Essere vivi — è Potenza —  
@@ -1939,8 +1812,6 @@ Essere vivi — e Volere!
 Il Fattore — di Noi stessi — che sarà —  
 Se tale è la Finitudine!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="hind_me_dips_eternity" data-title="721. Behind Me — dips Eternity —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/dawn,motif/the_sea,concept/immortality,concept/mortality,concept/self_and_soul,concept/faith,concept/memory_and_time,form/lyric,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1968,7 +1839,6 @@ And Midnight to the South of Her —
 And Maelstrom — in the Sky —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dietro di Me — s'immerge l'[[concepts/eternity|Eternità]] —  
@@ -1992,8 +1862,6 @@ Con la Mezzanotte a Nord di Lei —
 E la Mezzanotte a Sud di Lei —  
 E il Maelstrom — nel Cielo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_thirst_at_first_tis_natures_act" data-title="726. We thirst at first — 'tis Nature's Act —" data-chapter="" data-kind="intro" data-tags="motif/water,motif/death,concept/immortality,concept/mortality,concept/desire,concept/faith,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2010,7 +1878,6 @@ Is that Great [[motifs/water|Water]] in the West —
 Termed [[concepts/immortality|Immortality]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Abbiamo sete dapprima — è Atto di [[concepts/nature|Natura]] —  
@@ -2023,8 +1890,6 @@ La cui provvista adeguata
 È quella Grande [[motifs/water|Acqua]] a Occidente —  
 Detta [[concepts/immortality|Immortalità]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_spirit_is_the_conscious_ear" data-title="733. The Spirit is the Conscious Ear." data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/self_and_soul,concept/imagination,concept/identity,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2041,7 +1906,6 @@ Outside the [[settings/castle|Castle]] — that Contain —
 The other — only — Hear —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lo Spirito è l'Orecchio Cosciente.  
@@ -2054,8 +1918,6 @@ Pende un Orecchio più piccolo
 Fuori dal [[settings/castle|Castello]] — che Contiene —  
 L'altro — soltanto — Ode —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_soul_accused_me_and_i_quailed" data-title="753. My Soul — accused me — And I quailed —" data-chapter="" data-kind="intro" data-tags="motif/fire,concept/conscience,concept/self_and_soul,concept/identity,concept/truth,concept/appearance_vs_reality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2072,7 +1934,6 @@ But Her Disdain — 'twere lighter bear
 A finger of Enamelled [[motifs/fire|Fire]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Mia [[motifs/soul|Anima]] — mi accusò — E io tremai —  
@@ -2085,8 +1946,6 @@ Verso l'Artificio del [[motifs/time|Tempo]] — o degli Uomini —
 Ma il Suo Disdegno — più lieve sarebbe reggere  
 Un dito di [[motifs/fire|Fuoco]] Smaltato —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_and_one_are_one" data-title="769. One and One — are One —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/mortality,concept/immortality,concept/self_and_soul,concept/paradox,concept/education,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2103,7 +1962,6 @@ More — would be too vast
 For the [[motifs/soul|Soul]]'s Comprising —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Uno e Uno — sono Uno —  
@@ -2116,8 +1974,6 @@ O l'Eterno —
 Di più — sarebbe troppo vasto  
 Perché l'[[motifs/soul|Anima]] lo Comprenda —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_a_columnar_self" data-title="789. On a Columnar Self —" data-chapter="" data-kind="intro" data-tags="archetype/rebel,concept/self_and_soul,concept/self_reliance,concept/identity,concept/faith,concept/truth,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2139,7 +1995,6 @@ And that Assembly — not far off
 From furthest Spirit — [[characters/god|God]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Su un [[concepts/self|Sé]] Colonnare —  
@@ -2157,8 +2012,6 @@ Noi Stessi — e la Rettitudine —
 E quell'Assemblea — non lontana  
 Dallo Spirito più remoto — [[characters/god|Dio]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_staked_her_feathers_gained_an_arc" data-title="798. She staked her Feathers — Gained an Arc —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/the_sea,concept/aspiration,concept/immortality,concept/self_and_soul,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2175,7 +2028,6 @@ At [[motifs/home|home]] — among the Billows — As
 The Bough where she was born —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Puntò le sue Piume — Guadagnò un Arco —  
@@ -2188,8 +2040,6 @@ Si vede la sua salda Barca —
 A [[motifs/home|casa]] — fra i Flutti — Come  
 Il Ramo dove nacque —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="is_consciousness_that_is_aware" data-title="822. This Consciousness that is aware" data-chapter="" data-kind="intro" data-tags="motif/death,motif/animals,concept/self_and_soul,concept/identity,concept/mortality,concept/alienation,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2216,7 +2066,6 @@ Attended by a single Hound
 Its own [[concepts/identity|identity]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Questa Coscienza che è conscia  
@@ -2239,8 +2088,6 @@ L'[[motifs/soul|Anima]] condannata a essere —
 Scortata da un unico Segugio  
 La propria [[concepts/identity|identità]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_this_world_she_returned" data-title="830. To this World she returned." data-chapter="" data-kind="intro" data-tags="motif/dust,motif/flowers,motif/marriage,concept/immortality,concept/self_and_soul,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2257,7 +2104,6 @@ Dwelt hesitating, half of [[motifs/dust|Dust]],
 And half of Day, the Bride.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 A questo Mondo ella tornò.  
@@ -2270,8 +2116,6 @@ Che al suo sposo, legata,
 Dimorò esitante, metà di [[motifs/dust|Polvere]],  
 E metà di Giorno, la Sposa.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_own_the_art_within_the_soul" data-title="855. To own the Art within the Soul" data-chapter="" data-kind="intro" data-tags="motif/silence,motif/money_gold,concept/self_and_soul,concept/solitude,concept/self_reliance,concept/imagination,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2288,7 +2132,6 @@ As an Estate perpetual
 Or a reduceless Mine.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Possedere l'Arte dentro l'[[motifs/soul|Anima]]  
@@ -2301,8 +2144,6 @@ Il Possesso è per Uno
 Come un Podere perpetuo  
 O una Miniera che mai scema.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_anguish_grander_than_delight" data-title="984. 'Tis Anguish grander than Delight" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/immortality,concept/suffering,concept/faith,form/lyric,histref/the_bible,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2319,7 +2160,6 @@ And Creatures clad in Miracle
 Go up by Two and Two.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 È Angoscia più grande della Delizia  
@@ -2332,8 +2172,6 @@ Quando i Sudari lasciano la presa
 E Creature vestite di Miracolo  
 Salgono a Due a Due.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="was_a_phoebe_nothing_more" data-title="1009. I was a Phoebe — nothing more —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/birds,concept/humility,concept/identity,concept/immortality_of_art,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2350,7 +2188,6 @@ A [[characters/phoebe|Phoebe]] makes a little print
 Upon the Floors of Fame —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ero una [[characters/phoebe|Phoebe]] — niente più —  
@@ -2363,8 +2200,6 @@ Troppo schiva, perché alcuno biasimasse —
 Una [[characters/phoebe|Phoebe]] lascia una piccola impronta  
 Sui Pavimenti della Fama —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="heard_as_if_i_had_no_ear" data-title="1039. I heard, as if I had no Ear" data-chapter="" data-kind="intro" data-tags="motif/dust,motif/light_and_dark,motif/eyes_sight,motif/time,concept/perception_and_consciousness,concept/immortality,concept/self_and_soul,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2391,7 +2226,6 @@ And [[motifs/time|Time]] went out to tell the News
 And met [[concepts/eternity|Eternity]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Udii, come se non avessi Orecchio  
@@ -2414,8 +2248,6 @@ E lo Spirito si volse alla [[motifs/dust|Polvere]]
 E il [[motifs/time|Tempo]] uscì a dare la Notizia  
 E incontrò l'[[concepts/eternity|Eternità]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ded_ere_it_begun" data-title="1088. Ended, ere it begun —" data-chapter="" data-kind="intro" data-tags="motif/the_book,concept/grief_and_loss,concept/transience,concept/providence,concept/unrequited_love,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2432,7 +2264,6 @@ That it was not Our privilege
 The interdict of [[characters/god|God]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Finita, prima d'iniziare —  
@@ -2445,8 +2276,6 @@ Fosse stato vostro, leggerla!
 Che non fosse Nostro privilegio  
 L'interdetto di [[characters/god|Dio]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="am_afraid_to_own_a_body" data-title="1090. I am afraid to own a Body —" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/identity,concept/immortality,concept/faith,concept/mortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2463,7 +2292,6 @@ Duke in a moment of Deathlessness
 And [[characters/god|God]], for a Frontier.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ho paura di possedere un [[concepts/body|Corpo]] —  
@@ -2476,8 +2304,6 @@ Su un Erede ignaro —
 Duca in un attimo d'Immortalità  
 E [[characters/god|Dio]], per Frontiera.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_cocoon_tightens_colors_tease" data-title="1099. My Cocoon tightens — Colors tease —" data-chapter="" data-kind="intro" data-tags="motif/the_butterfly,motif/insects,concept/metamorphosis,concept/immortality,concept/faith,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2499,7 +2325,6 @@ And make much blunder, if at last
 I take the clue divine —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il mio Bozzolo si stringe — i Colori tentano —  
@@ -2517,8 +2342,6 @@ E decifrare a stento il Segno
 E molto sbagliare, se alfine  
 Colgo l'indizio divino —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_cold_is_this" data-title="1135. Too cold is this" data-chapter="" data-kind="intro" data-tags="motif/death,concept/self_and_soul,concept/mortality,concept/immortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2536,7 +2359,6 @@ Nor Rip, nor wrinkle indicate
 But just an Asterisk.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Troppo freddo è questo  
@@ -2550,8 +2372,6 @@ Contusione del Guscio
 Né Strappo, né grinza indicano  
 Ma solo un Asterisco.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_props_assist_the_house" data-title="1142. The Props assist the House" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/identity,concept/childhood_and_growth,concept/immortality,form/allegory,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2571,7 +2391,6 @@ And slowness — then the Scaffolds drop
 Affirming it a [[motifs/soul|Soul]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 I Puntelli assistono la Casa  
@@ -2587,8 +2406,6 @@ Un passato di Asse e Chiodo
 E lentezza — poi le Impalcature cadono  
 Affermandola un'[[motifs/soul|Anima]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ntained_in_this_short_life" data-title="1165. Contained in this short Life" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/childhood,motif/night,concept/transience,concept/self_and_soul,concept/immortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2605,7 +2422,6 @@ Whose nameless Fathoms slink away
 Beside infinity
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Racchiuse in questa breve Vita  
@@ -2618,8 +2434,6 @@ Si volgono per primi al [[motifs/sea|mare]]
 I cui Abissi senza nome sgusciano via  
 Accanto all'infinità
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="mortal_is_an_ample_word" data-title="1205. Immortal is an ample word" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,concept/immortality,concept/grief_and_loss,concept/faith,form/lyric,character/death_personified,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2636,7 +2450,6 @@ Except for its marauding Hand
 It had been Heaven below.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Immortale è una parola ampia  
@@ -2649,8 +2462,6 @@ Che in fondo conosciamo
 Se non fosse per la sua Mano predatrice  
 Sarebbe stato Cielo quaggiù.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_disappear_enhances" data-title="1209. To disappear enhances —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/death,motif/memory,motif/desire,concept/immortality,concept/desire,concept/transience,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2682,7 +2493,6 @@ With the ecstatic limit
 Of unobtained Delight —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Scomparire accresce —  
@@ -2710,8 +2520,6 @@ Ma proteso alla Vista
 Con l'estatico limite  
 Di Delizia non ottenuta —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_much_of_heaven_has_gone_from_earth" data-title="1228. So much of Heaven has gone from Earth" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/faith_and_doubt,concept/immortality,concept/grief_and_loss,form/lyric,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2733,7 +2541,6 @@ Unless you leave him — then return
 And he has hauled away.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Tanto di Cielo se n'è andato dalla Terra  
@@ -2751,8 +2558,6 @@ La Tartaruga non ci prova
 Se non la lasci — e poi ritorni  
 E lei si è trascinata via.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="wer_is_a_familiar_growth" data-title="1238. Power is a familiar growth —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/dust,concept/mortality,concept/self_and_soul,concept/fate_and_free_will,form/aphorism,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2768,7 +2573,6 @@ Lean forward for a final glance —
 Disprove that and you may —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Potere è una crescita familiare —  
@@ -2780,8 +2584,6 @@ Quando coscienza e argilla
 Si protendono per un ultimo sguardo —  
 Confuta questo e potrai —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="cause_that_you_are_going" data-title="1260. Because that you are going" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/death,concept/mortality,concept/immortality,concept/grief_and_loss,concept/faith_and_doubt,concept/love_romantic,concept/grace_and_redemption,form/lyric,form/hymn,histref/christianity,setting/new_england,character/christ,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2840,7 +2642,6 @@ He will refund us finally
 Our confiscated Gods —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Poiché tu te ne vai  
@@ -2895,8 +2696,6 @@ Come inoltre concede
 Egli ci rimborserà infine  
 I nostri Dèi confiscati —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="word_dropped_careless_on_a_page" data-title="1261. A Word dropped careless on a Page" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/letters_writing,motif/the_book,motif/death,concept/immortality_of_art,concept/melancholy,concept/the_artist_and_society,form/epigram,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2913,7 +2712,6 @@ At distances of Centuries
 From the Malaria —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Parola caduta incurante su una Pagina  
@@ -2926,8 +2724,6 @@ Possiamo inalare [[concepts/despair|Disperazione]]
 A distanze di Secoli  
 Dalla Malaria —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_bone_that_has_no_marrow" data-title="1274. The Bone that has no Marrow," data-chapter="" data-kind="intro" data-tags="motif/death,motif/animals,concept/mortality,concept/immortality,concept/conversion,concept/self_and_soul,concept/faith_and_doubt,form/lyric,histref/the_bible,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2949,7 +2745,6 @@ Old Nicodemus' [[characters/phantom|Phantom]]
 Confronting us again!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Osso che non ha Midollo,  
@@ -2967,8 +2762,6 @@ Una funzione nuova?
 Il [[characters/phantom|Fantasma]] del vecchio Nicodemo  
 Ci si para innanzi ancora!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_lengths_has_every_day" data-title="1294. Two Lengths has every Day —" data-chapter="" data-kind="intro" data-tags="motif/time,motif/death,concept/immortality,concept/mortality,concept/memory_and_time,concept/fate_and_free_will,concept/paradox,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2997,7 +2790,6 @@ No Territory new is staked —
 Remain thou as thou art.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Della Vita da possedere —  
@@ -3022,8 +2814,6 @@ Sulla Carta compiuta del Destino
 Nessun Territorio nuovo è tracciato —  
 Rimani tu qual sei.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="collect_the_face_of_me" data-title="1305. Recollect the Face of me" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/memory,motif/death,concept/immortality,concept/faith,concept/grief_and_loss,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3040,7 +2830,6 @@ We commend ourselves to thee
 Paragon of Chivalry.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ricorda il Volto di me  
@@ -3053,8 +2842,6 @@ Altra Cortesia potrà esservi —
 Ci raccomandiamo a te  
 Paragone di Cavalleria.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="rhaps_they_do_not_go_so_far" data-title="1399. Perhaps they do not go so far" data-chapter="" data-kind="intro" data-tags="motif/death,concept/immortality,concept/faith_and_doubt,concept/grief_and_loss,concept/self_and_soul,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3071,7 +2858,6 @@ That comprehension antedates
 And estimates us there —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Forse non vanno così lontano  
@@ -3084,8 +2870,6 @@ Quanto poco abbiamo da [[concepts/fear|temere]]
 Che la comprensione ci precede  
 E ci calcola già là —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_inundation_of_the_spring" data-title="1425. The inundation of the Spring" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/water,motif/seasons,concept/self_and_soul,concept/faith,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3102,7 +2886,6 @@ But acclimated — pines no more
 For that Peninsula —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'inondazione della [[motifs/spring|Primavera]]  
@@ -3115,8 +2898,6 @@ Cerca fioca la sua riva
 Ma acclimatata — non si strugge più  
 Per quella Penisola —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="th_pinions_of_disdain" data-title="1431. With Pinions of Disdain" data-chapter="" data-kind="intro" data-tags="motif/death,motif/birds,concept/self_and_soul,concept/immortality,concept/mortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3136,7 +2917,6 @@ To put off filaments like this
 for [[concepts/immortality|immortality]]
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Con Penne di Sdegno  
@@ -3152,8 +2932,6 @@ Quanto poca fatica sia —
 Deporre filamenti come questi  
 per l'[[concepts/immortality|immortalità]]
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="an_heaven_more_remote" data-title="1436. Than Heaven more remote," data-chapter="" data-kind="intro" data-tags="motif/death,concept/grief_and_loss,concept/immortality,concept/faith,concept/self_and_soul,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3179,7 +2957,6 @@ Is absolute as [[characters/god|God]],
 And instant, too.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Del Cielo più remoti,  
@@ -3201,8 +2978,6 @@ Ma che abbiano dimora
 È assoluto come [[characters/god|Dio]],  
 E istantaneo, pure.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ose_not_live_yet" data-title="1454. Those not live yet" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/death,concept/mortality,concept/immortality,concept/self_and_soul,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3221,7 +2996,6 @@ Costumeless Consciousness —
 That is he —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non vivono ancora quelli  
@@ -3236,8 +3010,6 @@ Del Disco che sarà —
 Coscienza senza Costume —  
 Questo è lui —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="w_firm_eternity_must_look" data-title="1499. How firm Eternity must look" data-chapter="" data-kind="intro" data-tags="concept/immortality,concept/faith,concept/self_and_soul,concept/mortality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3254,7 +3026,6 @@ To whom not any Face cohere —
 Unless concealed in thee
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come salda deve apparire l'[[concepts/eternity|Eternità]]  
@@ -3267,8 +3038,6 @@ La tua Fisionomia
 Per cui nessun Volto ha coesione —  
 Se non celato in te
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_lived_the_life_of_ambush" data-title="1525. He lived the Life of Ambush" data-chapter="" data-kind="intro" data-tags="motif/death,motif/stars,motif/light_and_dark,concept/immortality,form/elegy,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3284,7 +3053,6 @@ The whole of [[concepts/immortality|Immortality]] intrenched
 Within a star —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Visse la Vita dell'Agguato  
@@ -3296,8 +3064,6 @@ Inespugnabili siamo —
 L'intera [[concepts/immortality|Immortalità]] trincerata  
 Dentro una stella —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_the_bright_east_she_flies" data-title="1573. To the bright east she flies," data-chapter="" data-kind="intro" data-tags="motif/death,motif/dreams,motif/dawn,concept/immortality,concept/alienation,form/elegy,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3318,7 +3084,6 @@ Through which existence strays
 Homeless at [[motifs/home|home]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Verso il luminoso oriente ella vola,  
@@ -3335,8 +3100,6 @@ E questo dissolve i giorni
 In cui l'esistenza vaga  
 Senza casa, a [[motifs/home|casa]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_spirit_lasts_but_in_what_mode" data-title="1576. The Spirit lasts — but in what mode —" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/the_sea,concept/self_and_soul,concept/immortality,concept/faith_and_doubt,concept/mortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3368,7 +3131,6 @@ Not even a Prognostic's Push
 Could make a Dent thereon —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Lo Spirito dura — ma in quale modo —  
@@ -3396,8 +3158,6 @@ Prima che la mia Mente fosse seminata,
 Che nemmeno la Spinta d'un Prognostico  
 Poté farvi un'Ammaccatura —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="panse_cannot_be_lost" data-title="1584. Expanse cannot be lost —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/immortality,concept/grief_and_loss,concept/the_sublime,concept/providence,form/elegy,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3422,7 +3182,6 @@ The Tent is listening,
 But the Troops are gone!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Distesa non può perdersi —  
@@ -3443,8 +3202,6 @@ Verso le tue Distese di Splendore —
 La Tenda è in ascolto,  
 Ma le Truppe sono andate!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_ate_and_drank_the_precious_words" data-title="1587. He ate and drank the precious Words —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/the_book,motif/food_feasting,motif/dust,concept/immortality_of_art,concept/self_and_soul,concept/joy,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3461,7 +3218,6 @@ Was but a Book — What [[concepts/liberty|Liberty]]
 A loosened spirit brings —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mangiò e bevve le Parole preziose —  
@@ -3474,8 +3230,6 @@ E questo Lascito d'Ali
 Era solo un Libro — Che [[concepts/liberty|Libertà]]  
 Porta uno spirito sciolto —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_from_the_earth_the_light_balloon" data-title="1630. As from the earth the light Balloon" data-chapter="" data-kind="intro" data-tags="motif/dust,motif/birds,motif/music_and_song,concept/self_and_soul,concept/immortality,concept/mortality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3492,7 +3246,6 @@ As a Bird
 Defrauded of its song.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come dalla terra il lieve Pallone  
@@ -3505,8 +3258,6 @@ Con indignazione,
 Come un Uccello  
 Defraudato del suo canto.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="y_should_we_hurry_why_indeed" data-title="1646. Why should we hurry — why indeed?" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/night,concept/immortality,concept/doubt,concept/mortality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3524,7 +3275,6 @@ Besets the sight
 This mighty [[motifs/night|night]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Perché dovremmo affrettarci — perché mai?  
@@ -3538,8 +3288,6 @@ Una blanda incertezza
 Assedia lo sguardo  
 Questa possente [[motifs/night|notte]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_mind_of_man_a_secret_makes" data-title="1663. His mind of man, a secret makes" data-chapter="" data-kind="intro" data-tags="motif/silence,concept/identity,concept/self_and_soul,concept/alienation,concept/appearance_vs_reality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3554,7 +3302,6 @@ Or even if I deem I do
 He otherwise may know  
 Impregnable to inquest  
 However neighborly —
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3568,5 +3315,3 @@ O anche se credo di averla
 lui può sapere altrimenti  
 Inespugnabile all'inchiesta  
 per quanto amichevole —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

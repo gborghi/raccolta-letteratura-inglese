@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/transience-decay-carpe-diem--poems" data-author="Dickinson" data-workhref="works/transience-·-decay-·-carpe-diem-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 301. I reason, Earth is short — · 337. I know a place where Summer strives · 375. The Angle of a Landscape — · 406. Some — Work for Immortality — · 517. He parts Himself — like Leaves — · 534. We see — Comparatively — · 541. Some such Butterfly be seen · 682. 'Twould ease — a Butterfly — · 978. It bloomed and dropt, a Single Noon — · 981. As Sleigh Bells seem in summer · 997. Crumbling is not an instant's Act · 1038. Her little Parasol to lift · 1125. Oh Sumptuous moment · 1267. I saw that the Flake was on it · 1280. The harm of Years is on him — · 1437. A Dew sufficed itself — · 1475. Fame is the one that does not stay — · 1506. Summer is shorter than any one — · 1515. The Things that never can come back, are several — · 1540. As imperceptibly as Grief · 1659. Fame is a fickle food · 1741. That it will never come again · 1773. The Summer that we did not prize,
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="reason_earth_is_short" data-title="301. I reason, Earth is short —" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/decay,concept/faith_and_doubt,concept/mortality,concept/transience,concept/immortality,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
 
 
@@ -38,7 +35,6 @@ Some new equation given ;
 But what of that ?
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Io ragiono, la terra è breve,  
@@ -56,8 +52,6 @@ In qualche modo, si farà pari,
 Data qualche nuova equazione ;  
 Ma che importa ?
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="know_a_place_where_summer_strives" data-title="337. I know a place where Summer strives" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/mutability,motif/nature,motif/winter,motif/wind,motif/flowers,concept/transience,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -79,7 +73,6 @@ That stiffens quietly to Quartz —
 Upon her Amber Shoe —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Conosco un luogo dove l'[[motifs/summer|Estate]] lotta  
@@ -97,8 +90,6 @@ E spezie — e la [[motifs/dew|Rugiada]] —
 Che s'irrigidisce quieta in Quarzo —  
 Sulla sua Scarpa d'Ambra —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_angle_of_a_landscape" data-title="375. The Angle of a Landscape —" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/the_window,motif/seasons,motif/mutability,motif/eyes_sight,concept/transience,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -130,7 +121,6 @@ And just the Steeple's finger —
 These — never stir at all —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Angolo di un Paesaggio —  
@@ -158,8 +148,6 @@ Il Camino — e il [[motifs/hill|Hill]] —
 E solo il dito del Campanile —  
 Questi — non si muovono mai —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_work_for_immortality" data-title="406. Some — Work for Immortality —" data-chapter="" data-kind="intro" data-tags="motif/time,motif/money_gold,concept/immortality,concept/ambition,concept/transience,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -181,7 +169,6 @@ Beyond the Broker's insight —
 One's — Money — One's — the Mine -
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Alcuni — Lavorano per l'[[concepts/immortality|Immortalità]] —  
@@ -199,8 +186,6 @@ Ha il dono di discernere
 Oltre l'acume del Mediatore —  
 L'uno — è il Denaro — l'altro — la Miniera -
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_parts_himself_like_leaves" data-title="517. He parts Himself — like Leaves —" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/flowers,motif/mutability,motif/the_grave,motif/nature,concept/transience,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -232,7 +217,6 @@ A Sepulchre of quaintest Floss —
 An Abbey — a Cocoon —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Egli si dischiude — come [[motifs/leaves|Foglie]] —  
@@ -260,8 +244,6 @@ In Teche — sia mostrato —
 Un Sepolcro di rarissima Bavella —  
 Un'Abbazia — un Bozzolo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_see_comparatively" data-title="534. We see — Comparatively —" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,motif/memory,concept/grief_and_loss,concept/providence,concept/transience,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -288,7 +270,6 @@ The waking in a Gnat's — embrace —
 Our Giants — further on —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vediamo — Comparativamente —  
@@ -311,8 +292,6 @@ Qualche Mattino di Cruccio —
 Il risveglio nell'abbraccio — d'un Moscerino —  
 I Nostri Giganti — più oltre —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_such_butterfly_be_seen" data-title="541. Some such Butterfly be seen" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/tempus_fugit,motif/animals,motif/stars,concept/transience,concept/beauty,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -329,7 +308,6 @@ As the [[motifs/stars|Stars]] — You knew last [[motifs/night|Night]] —
 Foreigners — This Morning —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una tale Farfalla si vede  
@@ -342,8 +320,6 @@ Soggetta al Tuo Cogliere —
 Come le [[motifs/stars|Stelle]] — che conoscevi ieri [[motifs/night|Notte]] —  
 Straniere — Questo Mattino —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ould_ease_a_butterfly" data-title="682. 'Twould ease — a Butterfly —" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/animals,motif/flowers,concept/transience,concept/mortality,concept/immortality,concept/humility,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -368,7 +344,6 @@ Ample as the Eye —
 Her least attention raise on me —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Darebbe sollievo — a una Farfalla —  
@@ -389,8 +364,6 @@ E il Morire — una Vita intera —
 Ampia come l'Occhio —  
 La sua minima attenzione levi su di me —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_bloomed_and_dropt_a_single_noon" data-title="978. It bloomed and dropt, a Single Noon —" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/flowers,motif/sun,concept/transience,concept/grief_and_loss,concept/beauty,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -422,7 +395,6 @@ Unconscious was — Great [[concepts/nature|Nature]]'s Face
 Passed infinite by Me —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Fiorì e cadde, un Solo [[motifs/noon|Mezzogiorno]] —  
@@ -450,8 +422,6 @@ Che io, passando oltre
 Ignara fui — il Volto della Grande [[concepts/nature|Natura]]  
 Passò infinito accanto a Me —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_sleigh_bells_seem_in_summer" data-title="981. As Sleigh Bells seem in summer" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,motif/memory,motif/bells,motif/dawn,concept/grief_and_loss,concept/transience,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -467,7 +437,6 @@ More distant in an instant
 Than [[motifs/dawn|Dawn]] in Timbuctoo.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Come [[motifs/bells|Campanelli]] di slitta paiono d'[[motifs/summer|estate]]  
@@ -479,8 +448,6 @@ Una Compagnia che conoscevamo —
 Più distante in un istante  
 Che l'[[motifs/dawn|Alba]] a Timbuctù.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="umbling_is_not_an_instants_act" data-title="997. Crumbling is not an instant's Act" data-chapter="" data-kind="intro" data-tags="motif/decay,motif/mutability,motif/dust,concept/self_and_soul,concept/transience,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -502,7 +469,6 @@ Fail in an instant, no man did
 Slipping — is Crash's law.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sgretolarsi non è Atto d'un istante  
@@ -520,8 +486,6 @@ Consecutiva e lenta —
 Fallire in un istante, nessun uomo lo fece  
 Scivolare — è la legge del Crollo.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="r_little_parasol_to_lift" data-title="1038. Her little Parasol to lift" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/the_grave,motif/seasons,concept/mortality,concept/transience,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -538,7 +502,6 @@ Present me from sepulchral Crease
 As blemishless, as Her.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il suo piccolo Parasole alzare  
@@ -551,8 +514,6 @@ Contenta se il Cassetto della [[concepts/nature|Natura]]
 Mi porgerà dalla Piega sepolcrale  
 Immacolata, come Lei.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_sumptuous_moment" data-title="1125. Oh Sumptuous moment" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/death,motif/dawn,concept/joy,concept/transience,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -570,7 +531,6 @@ Ask him unto the [[motifs/gallows|Gallows]] led —
 With morning in the sky —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Oh Sontuoso momento  
@@ -584,8 +544,6 @@ La differenza del Giorno
 Chiedilo a chi è condotto alla [[motifs/gallows|Forca]] —  
 Con il mattino nel cielo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="saw_that_the_flake_was_on_it" data-title="1267. I saw that the Flake was on it" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/mutability,motif/time,motif/winter,concept/transience,concept/appearance_vs_reality,concept/grief_and_loss,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -602,7 +560,6 @@ Sagacious of my mistake
 For the progress' sake" —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Vidi che il Fiocco v'era sopra  
@@ -615,8 +572,6 @@ Sagace del mio sbaglio
 "Sei mutata — Accetta il saccheggio  
 In nome del progresso" —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_harm_of_years_is_on_him" data-title="1280. The harm of Years is on him —" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/sic_transit_gloria_mundi,motif/time,motif/decay,motif/mutability,motif/clothing,concept/transience,concept/mortality,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -633,7 +588,6 @@ Is a minuter Pageant
 Than least Vitality.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il danno degli Anni è su di lui —  
@@ -646,8 +600,6 @@ La Gloria del [[motifs/decay|Declino]]
 È una Parata più minuta  
 Della minima Vitalità.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="dew_sufficed_itself" data-title="1437. A Dew sufficed itself —" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/water,motif/nature,motif/death,motif/sun,concept/transience,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -674,7 +626,6 @@ By Transport's instability
 And Doom's celerity.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una [[motifs/dew|Rugiada]] bastò a se stessa —  
@@ -697,8 +648,6 @@ Quell'orrenda [[forms/tragedy|Tragedia]]
 L'instabilità del Trasporto  
 E la celerità del Fato.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_is_the_one_that_does_not_stay" data-title="1475. Fame is the one that does not stay —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,concept/transience,concept/the_artist_and_society,form/epigram,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -714,7 +663,6 @@ Electrical the embryo
 But we demand the Flame
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Fama è quella che non resta —  
@@ -726,8 +674,6 @@ Un [[motifs/lightning|Lampo]] nel Germe —
 Elettrico l'embrione  
 Ma noi esigiamo la Fiamma
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="mmer_is_shorter_than_any_one" data-title="1506. Summer is shorter than any one —" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/carpe_diem,motif/seasons,concept/transience,concept/mortality,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -744,7 +690,6 @@ Equally to abhor Delight —
 Equally retain him —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'[[motifs/summer|Estate]] è più breve di chiunque —  
@@ -757,8 +702,6 @@ Guarda quanto [[motifs/well|bene]] lo sdegniamo —
 Ugualmente aborrire la Delizia —  
 Ugualmente trattenerlo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_things_that_never_can_come_back_are_several" data-title="1515. The Things that never can come back, are several —" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,motif/the_journey,motif/childhood,concept/transience,concept/grief_and_loss,concept/immortality,concept/nostalgia,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -781,7 +724,6 @@ Himself — at whatsoever Fathom
 His Native Land —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 PARECCHIE —  
@@ -800,8 +742,6 @@ Lo Spirito non si ferma —
 Egli stesso — a qualsivoglia Fondale  
 La sua Terra Natale —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_imperceptibly_as_grief" data-title="1540. As imperceptibly as Grief" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/seasons,motif/autumn,motif/mutability,concept/transience,concept/grief_and_loss,concept/beauty,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -825,7 +765,6 @@ Our [[motifs/summer|Summer]] made her light escape
 Into the Beautiful.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Impercettibilmente come il Dolore  
@@ -845,8 +784,6 @@ O servizio di Chiglia
 La nostra [[motifs/summer|Estate]] compì la sua lieve fuga  
 Nel Bello.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="me_is_a_fickle_food" data-title="1659. Fame is a fickle food" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,topos/vanitas,motif/food_feasting,motif/birds,concept/ambition,concept/transience,concept/satire_of_society,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -865,7 +802,6 @@ Farmer's Corn —
 Men eat of it and die.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La fama è un cibo incostante  
@@ -880,8 +816,6 @@ la sorvolano verso il
 Grano del Contadino —  
 Gli uomini ne mangiano e muoiono.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_it_will_never_come_again" data-title="1741. That it will never come again" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/tempus_fugit,concept/transience,concept/paradox,concept/mortality,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -898,7 +832,6 @@ This instigates an appetite
 Precisely opposite.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che mai più ritornerà  
@@ -911,8 +844,6 @@ Un possesso ablativo —
 Questo istiga un appetito  
 Precisamente opposto.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_summer_that_we_did_not_prize" data-title="1773. The Summer that we did not prize," data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,topos/tempus_fugit,motif/seasons,concept/transience,concept/nostalgia,form/lyric,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
@@ -927,7 +858,6 @@ Bestirs itself — puts on its Coat,
 And scans with fatal promptness  
 For Trains that moment out of sight,  
 Unconscious of his smartness.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -941,5 +871,3 @@ Si riscuote — indossa il suo Cappotto,
 E scruta con fatale prontezza  
 In cerca di Treni in quell'attimo svaniti,  
 Ignaro della propria sveltezza.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

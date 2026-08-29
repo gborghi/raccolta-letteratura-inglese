@@ -68,7 +68,6 @@ Hughie bowed.
 On the outside was written, ‘A wedding present to Hugh [[characters/erskine|Erskine]] and Laura Merton, from an old beggar,’ and inside was a cheque for £10,000.
 When they were married Alan Trevor was the best man, and the Baron made a speech at the wedding breakfast.
 ‘Millionaire models,’ remarked Alan, ‘are rare enough; but, by Jove, model millionaires are rarer still!’
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -119,5 +118,3 @@ Hughie fece un inchino.
 “Per favore, gli trasmettiate le mie più sincere scuse,” balbettò Hughie.  
 “Il Barone,” disse l’anziano signore sorridendo, “mi ha incaricato di portarvi questa lettera”; e gli porse una busta sigillata.
 Sul davanti c'era scritto: “Un regalo di nozze per Hugh [[characters/erskine|Erskine]] e Laura Merton, da parte di un vecchio mendicante”, mentre all’interno c’era un assegno da 10.000 sterline. Quando si sposarono, Alan Trevor fu il testimone principale, e il barone tenne un discorso durante la colazione di nozze. “Le modelle milionarie sono già abbastanza rare”, osservò Alan, “ma, per Giove, le modelle milionarie che sono anche ricche sono ancora più rare!”
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

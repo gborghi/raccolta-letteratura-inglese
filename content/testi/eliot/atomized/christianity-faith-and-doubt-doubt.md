@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/christianity-faith-and-doubt-doubt" data-author="Eliot" data-workhref="works/christianity-·-faith-and-doubt-·-doubt-(eliot)"></div>
 
 
-<<<<<<< HEAD
 Mr. Eliot’s Sunday Morning Service · Journey of the Magi · A Song for Simeon · II Thus your fathers were made · III The Word of the lord came unto me, saying · IV There are those who would build the Temple · V O Lord, deliver me from the man of excellent intention and impure heart · VI It is hard for those who have never known persecution · VII In the beginning god created the world · VIII O Father we welcome your words · IX Son of Man, behold with thine eyes, and hear with thine ears · X You have seen the house built, you have seen it adorned · The Death of Saint Narcissus
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="025_mr_eliots_sunday_morning_service" data-title="Mr. Eliot’s Sunday Morning Service" data-chapter="" data-kind="intro"></span>
 
 

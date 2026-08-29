@@ -37,7 +37,6 @@ CHAPTER 16
 CHAPTER 17
 CHAPTER 18
 CHAPTER 19
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1565,8 +1564,6 @@ Si guardarono l’un l’altro mentre si allontanavano, e sogghignarono. Uno di 
 Dentro, nella parte riservata ai servitori della casa, i domestici seminudi parlottavano a bassa voce tra loro. La vecchia signora Leaf piangeva e si torceva le mani; Francis era pallido come la [[motifs/death|morte]].  
 Dopo circa un quarto d’ora, chiamò il cocchiere e uno dei valletti e salì di nascosto al piano di sopra. Bussarono, ma non ci fu risposta; chiamarono ancora. Tutto era silenzio. Alla fine, dopo aver tentato invano di forzare la porta, salirono sul tetto e scesero sul balcone. Le finestre si aprirono facilmente: i loro chiavistelli erano vecchi.  
 Entrando, videro appeso al muro un magnifico ritratto del loro padrone, così com’era l’ultima volta che lo avevano visto, nella piena bellezza della sua giovinezza e grazia. Sul pavimento giaceva un uomo morto, vestito con abiti da sera, con un coltello nel cuore. Era avvizzito, rugoso, orribile a vedersi. Solo esaminando gli anelli riconobbero chi fosse.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1587,7 +1584,6 @@ The nineteenth century dislike of romanticism is the rage of [[characters/caliba
 All art is quite useless.
 OSCAR WILDE
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1603,8 +1599,6 @@ Non esistono libri morali o immorali: ci sono soltanto libri ben scritti o male 
 L’avversione del XIX secolo verso il realismo è l’ira di [[characters/caliban|Caliban]] che vede il proprio volto in uno specchio. L’avversione verso il romanticismo, invece, è l’ira di [[characters/caliban|Caliban]] che non riesce a riconoscere il proprio volto nello specchio. La vita morale dell’uomo fa parte degli argomenti trattati dall’[[archetypes/artist|artista]], ma la “morale” dell’arte consiste nell’utilizzare al meglio un mezzo imperfetto. Nessun [[archetypes/artist|artista]] desidera dimostrare nulla; anche le verità possono essere dimostrate. Nessun [[archetypes/artist|artista]] nutre simpatie etiche: una simpatia del genere, in un artista, rappresenta soltanto uno stile imperdonabile. Nessun [[archetypes/artist|artista]] è mai “morbido” nel suo modo di esprimersi. L’[[archetypes/artist|artista]] può esprimere qualsiasi cosa; pensiero e linguaggio sono, per lui, strumenti dell’arte. Vizio e virtù, invece, sono soltanto materiali utilizzabili dall’arte. Dal punto di vista della forma, l’esempio supremo di tutte le arti è quella del musicista; dal punto di vista dei sentimenti, l’esempio supremo è l’arte dell’attore. Tutta l’arte è, al contempo, superficie e simbolo. Chi cerca di andare oltre la superficie lo fa a proprio rischio. Chi interpreta i simboli lo fa anch’esso a proprio rischio. È lo spettatore, e non la vita reale, che l’arte riflette veramente. La diversità delle opinioni su un’opera d’arte dimostra che essa è nuova, complessa e vitale. Quando i critici sono in disaccordo, l’[[archetypes/artist|artista]] è, in realtà, in accordo con se stesso. Possiamo perdonare una persona che crea qualcosa di utile, purché non ne sia appassionata. L’unica scusa per creare qualcosa di inutile è amarlo profondamente.
 Tutta l’arte, in fondo, è del tutto inutile.
 **OSCAR WILDE**
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1694,7 +1688,6 @@ The painter turned to his servant, who stood blinking in the sunlight. “Ask Mr
 Then he looked at Lord Henry. “[[characters/dorian-gray|Dorian Gray]] is my dearest friend,” he said. “He has a simple and a beautiful [[concepts/nature|nature]]. Your aunt was quite right in what she said of him. Don’t spoil him. Don’t try to influence him. Your influence would be bad. The world is wide, and has many marvellous people in it. Don’t take away from me the one person who gives to my art whatever charm it possesses: my life as an [[archetypes/artist|artist]] depends on him. Mind, Harry, I trust you.” He spoke very slowly, and the words seemed wrung out of him almost against his will.
 “What nonsense you talk!” said Lord Henry, smiling, and taking Hallward by the arm, he almost led him into the house.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1779,8 +1772,6 @@ Il pittore rifletté per un momento. “Gli piaccio,” rispose dopo una pausa; 
 Il pittore si rivolse al suo servitore: “Chiedi a Mr. Gray di aspettare. Arriverò tra un attimo.” L’uomo annuì e se ne andò.
 Poi guardò Lord Henry. “[[characters/dorian-gray|Dorian Gray]] è il mio più caro amico,” disse. “Ha una natura semplice e meravigliosa. Tua zia aveva ragione riguardo a lui. Non rovinarlo, non cercare di influenzarlo: la tua influenza sarebbe negativa. Il mondo è vasto e pieno di persone straordinarie. Non portarmi via l’unica persona che dona alla mia arte tutto il suo fascino: la mia vita come [[archetypes/artist|artista]] dipende da lui. Ascolta, Harry. Ti affido.” Parlava molto lentamente; le parole sembravano uscire a fatica, quasi contro la sua volontà.  
 “Che sciocchezze stai dicendo!” disse Lord Henry sorridendo, prendendo Hallward per il braccio e quasi trascinandolo dentro la casa.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -1925,7 +1916,6 @@ The lad hesitated, and looked over at Lord Henry, who was watching them from the
 “I wish I could trust myself,” said Lord Henry, laughing. “Come, Mr. Gray, my hansom is outside, and I can drop you at your own place. Good-bye, Basil. It has been a most interesting afternoon.”
 As the door closed behind them, the painter flung himself down on a sofa, and a look of [[motifs/pain|pain]] came into his face.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2067,8 +2057,6 @@ Il ragazzo esitò, poi guardò Lord Henry, che li osservava dal tavolo del tè c
 “Mi fido di te, ”  
 “Vorrei potermi fidare di me stesso,” disse Lord Henry, ridendo. “Andiamo, signor Gray. Il mio calesse è fuori; posso accompagnarti a casa tua. Addio, Basil. È stata un pomeriggio davvero interessante.”  
 Quando la porta si chiuse alle loro spalle, il pittore si gettò su un divano. E sul suo viso apparve un’espressione di dolore.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2176,7 +2164,6 @@ As he was passing out of the door, [[characters/dorian-gray|Dorian Gray]] touche
 “I would sooner come with you; yes, I feel I must come with you. Do let me. And you will promise to talk to me all the [[motifs/time|time]]? No one talks so wonderfully as you do.”
 “Ah! I have talked quite enough for to-day,” said Lord Henry, smiling. “All I want now is to look at life. You may come and look at it with me, if you care to.”
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2280,8 +2267,6 @@ Mentre stava per uscire dalla porta, [[characters/dorian-gray|Dorian Gray]] gli 
 “Ma pensavo che avessi promesso a [[characters/basil-hallward|Basil Hallward]] di andare da lui, ” rispose Lord Henry.  
 “Preferirei venire con te. Sì, devo assolutamente venire con te. Lasciami fare. E mi prometterai di parlarmi tutto il tempo? Nessuno parla come fai tu.”  
 “Ah! Oggi ne ho già parlato abbastanza,” disse Lord Henry sorridendo. “Adesso voglio solo osservare la vita. Puoi venire a osservarla con me, se vuoi.”
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2397,7 +2382,6 @@ It was clear to him that the experimental method was the only method by which on
 While Lord Henry sat dreaming on these things, a knock came to the door, and his valet entered and reminded him it was [[motifs/time|time]] to dress for dinner. He got up and looked out into the street. The sunset had smitten into scarlet gold the upper windows of the houses opposite. The panes glowed like plates of heated metal. The sky above was like a faded [[motifs/rose|rose]]. He thought of his friend’s young fiery-coloured life and wondered how it was all going to end.
 When he arrived [[motifs/home|home]], about half-past twelve o’[[motifs/clock|clock]], he saw a telegram lying on the hall table. He opened it and found it was from [[characters/dorian-gray|Dorian Gray]]. It was to tell him that he was engaged to be married to [[characters/sibyl-vane|Sibyl Vane]].
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2502,8 +2486,6 @@ Iniziò a chiedersi se fosse possibile rendere la psicologia una scienza assolut
 Era chiaro per lui che il metodo sperimentale fosse l’unico modo per giungere a un’analisi scientifica delle passioni; e certamente [[characters/dorian-gray|Dorian Gray]] rappresentava un soggetto ideale, capace di fornire risultati ricchi e significativi. Il suo improvviso e folle amore per [[characters/sibyl-vane|Sibyl Vane]] era un fenomeno psicologico di notevole interesse. Non c’era dubbio che la curiosità avesse un ruolo fondamentale in tutto ciò, insieme al desiderio di nuove esperienze; tuttavia si trattava di una passione molto complessa. Quello che in essa c’era di istinto puramente sensuale tipico dell’adolescenza era stato trasformato dall’azione dell’immaginazione, trasformandosi in qualcosa che al ragazzo stesso sembrava lontano dal senso, e proprio per questo motivo ancora più pericoloso. Sono le passioni il cui origine nascondiamo a noi stessi quelle che ci dominano con maggiore forza. I nostri motivi più deboli sono spesso quelli di cui non siamo consapevoli della loro vera natura. Spesso accade che, quando pensiamo di sperimentare sugli altri, in realtà stiamo sperimentando su noi stessi.
 Mentre Lord Henry rifletteva su queste cose, qualcuno bussò alla porta; il suo valletto entrò e gli ricordò che era arrivato il momento di vestirsi per la cena. Lui si alzò e guardò fuori dalla finestra: il tramonto aveva tinto di un rosso dorato le finestre degli edifici di fronte; i vetri brillavano come lastre di metallo incandescente, mentre il cielo sembrava una rosa sbiadita. Pensò alla giovane vita appassionata del suo amico e si chiese come tutto sarebbe finito.
 Quando arrivò a casa, verso le dodici e mezza, vide un telegramma sul tavolo dell’ingresso. Lo aprì e scoprì che proveniva da [[characters/dorian-gray|Dorian Gray]]; gli comunicava che era stato fidanzato con [[characters/sibyl-vane|Sibyl Vane]].
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2611,7 +2593,6 @@ For a moment a hideous sense of humiliation came over the woman. Her head droope
 The lad was touched. He went towards her, and stooping down, he kissed her. “I am sorry if I have pained you by asking about my father,” he said, “but I could not help it. I must go now. Good-bye. Don’t forget that you will have only one [[archetypes/child|child]] now to look after, and believe me that if this man wrongs my sister, I will find out who he is, track him down, and kill him like a dog. I swear it.”
 The exaggerated folly of the threat, the passionate gesture that accompanied it, the mad melodramatic words, made life seem more vivid to her. She was familiar with the atmosphere. She breathed more freely, and for the first [[motifs/time|time]] for many months she really admired her son. She would have liked to have continued the scene on the same emotional scale, but he cut her short. Trunks had to be carried down and mufflers looked for. The lodging-house drudge bustled in and out. There was the bargaining with the cabman. The moment was lost in vulgar details. It was with a renewed feeling of disappointment that she waved the tattered lace handkerchief from the [[motifs/window|window]], as her son drove away. She was conscious that a great opportunity had been wasted. She consoled herself by telling Sibyl how desolate she felt her life would be, now that she had only one [[archetypes/child|child]] to look after. She remembered the phrase. It had pleased her. Of the threat she said nothing. It was vividly and dramatically expressed. She felt that they would all laugh at it some day.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2713,8 +2694,6 @@ Un’imprecazione gli sfuggì dalle labbra. “Non mi importa niente di me stess
 Per un momento, una terribile sensazione di umiliazione invase la donna. Abbassò lo sguardo e si asciugò gli occhi con mani tremanti. “Sibyl ha una madre. Io no, ”  
 Il ragazzo fu commosso. Si avvicinò a lei, si chinò e le baciò la fronte. “Mi dispiace se ti ho fatto soffrire chiedendo di mio padre. Ma non potevo fare altrimenti. Devo andare ora. Addio. Non dimenticare che adesso avrai solo un figlio da prenderti cura. E credimi: se quell’uomo farà del male a mia sorella, scoprirò chi è, lo troverò e lo ucciderò come un cane. Lo giuro, ”
 La follia esagerata di quella minaccia, il gesto appassionato che l’accompagnava, quelle parole melodrammatiche e assurde rendevano la vita più vivida ai suoi occhi. Quell’atmosfera le era familiare; respirava più liberamente, e per la prima volta da molti mesi ammirò davvero suo figlio. Avrebbe voluto che quella scena continuasse nello stesso tono emotivo, ma lui la interruppe. Bisognava portare giù i bagagli e cercare i cappucci; la locanda era un caos di persone che andavano avanti e indietro. Ci furono trattative con il cocchiere. Quel momento fu perso in dettagli banali. Con un nuovo senso di delusione, agitò il fazzoletto di pizzo logoro dalla finestra mentre suo figlio si allontanava in carrozza. Si rese conto che un’ottima opportunità era andata sprecata. Si consolò raccontando a Sibyl quanto fosse desolato il suo futuro, ora che aveva solo un figlio da prendersi cura. Ricordò quella frase. Le era piaciuta molto. Di quella minaccia non disse nulla. Era stata espressa in modo così vivido e drammatico. Pensava che un giorno tutti se ne sarebbero messi a ridere.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2781,7 +2760,6 @@ Lord Henry shrugged his shoulders. “My dear fellow, mediaeval art is charming,
 “I have known everything,” said Lord Henry, with a tired look in his eyes, “but I am always ready for a new emotion. I am afraid, however, that, for me at any rate, there is no such thing. Still, your wonderful girl may thrill me. I [[motifs/love|love]] acting. It is so much more real than life. Let us go. Dorian, you will come with me. I am so sorry, Basil, but there is only room for two in the brougham. You must follow us in a hansom.”
 They got up and put on their coats, sipping their coffee standing. The painter was silent and preoccupied. There was a gloom over him. He could not bear this [[motifs/marriage|marriage]], and yet it seemed to him to be better than many other things that might have happened. After a few minutes, they all passed downstairs. He drove off by himself, as had been arranged, and watched the flashing lights of the little brougham in front of him. A strange sense of loss came over him. He felt that [[characters/dorian-gray|Dorian Gray]] would never again be to him all that he had been in the past. Life had come between them.... His eyes darkened, and the crowded flaring streets became blurred to his eyes. When the cab drew up at the theatre, it seemed to him that he had grown years older.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2844,8 +2822,6 @@ Lord Henry alzò le spalle. “Mio caro amico, l’arte medievale è affascinant
 “Che sciocchezze dici, Harry!” esclamò il ragazzo, accendendo una sigaretta con un accendino d’argento a forma di drago che il cameriere aveva posato sul tavolo. “Andiamo al teatro. Quando Sibyl salirà sul palco, avrai un nuovo ideale di vita. Lei rappresenterà qualcosa che non hai mai conosciuto, ”  
 “Ho conosciuto tutto,” disse Lord Henry con uno sguardo stanco negli occhi, “ma sono sempre pronto per una nuova emozione. Tuttavia temo che, almeno per me, una cosa del genere non esista più. Comunque, la tua meravigliosa ragazza potrebbe emozionarmi. Amo il teatro. È molto più reale della vita stessa. Andiamo. Dorian, vieni con me. Mi dispiace, Basil, ma nel calesse ci sono solo due posti. Dovrai seguirci in una carrozza, ”  
 Si alzarono e indossarono i cappotti, bevendo il caffè in piedi. Il pittore rimase silenzioso e assorto. C’era un’oscurità nel suo sguardo. Non riusciva a sopportare quel matrimonio. Eppure gli sembrava migliore di molte altre cose che avrebbero potuto accadere. Dopo alcuni minuti, scesero tutti al piano di sotto. Lui se ne andò da solo, come previsto. E osservò le luci lampeggianti del piccolo calesse davanti a sé. Sentì una strana sensazione di perdita. Gli sembrava che Dorian Gray non sarebbe mai più stato per lui ciò che era stato in passato. La vita si era frapposta tra loro. I suoi occhi si offuscarono. Le strade affollate e luminose divennero indistinte davanti a lui. Quando la carrozza si fermò al teatro, gli sembrò di essere invecchiato di anni.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -2924,7 +2900,6 @@ No; it was merely an illusion wrought on the troubled senses. The horrible [[mot
 Yet it was watching him, with its beautiful marred face and its cruel smile. Its bright hair gleamed in the early sunlight. Its blue eyes met his own. A sense of infinite pity, not for himself, but for the painted image of himself, came over him. It had altered already, and would alter more. Its gold would wither into grey. Its red and white roses would die. For every sin that he committed, a stain would fleck and wreck its fairness. But he would not sin. The picture, changed or unchanged, would be to him the visible emblem of [[concepts/conscience|conscience]]. He would resist [[concepts/temptation|temptation]]. He would not see Lord Henry any more — would not, at any rate, listen to those subtle poisonous theories that in [[characters/basil-hallward|Basil Hallward]]’s [[motifs/garden|garden]] had first stirred within him the passion for impossible things. He would go back to [[characters/sibyl-vane|Sibyl Vane]], make her amends, marry her, try to [[motifs/love|love]] her again. Yes, it was his duty to do so. She must have suffered more than he had. Poor [[archetypes/child|child]]! He had been selfish and cruel to her. The fascination that she had exercised over him would return. They would be happy together. His life with her would be beautiful and pure.
 He got up from his chair and drew a large screen right in front of the portrait, shuddering as he glanced at it. “How horrible!” he murmured to himself, and he walked across to the [[motifs/window|window]] and opened it. When he stepped out on to the grass, he drew a deep breath. The fresh morning air seemed to drive away all his sombre passions. He thought only of Sibyl. A faint echo of his [[motifs/love|love]] came back to him. He repeated her name over and over again. The [[motifs/birds|birds]] that were singing in the dew-drenched [[motifs/garden|garden]] seemed to be telling the [[motifs/flowers|flowers]] about her.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -2982,8 +2957,6 @@ Ma il ritratto? Cosa doveva pensare di esso? Conteneva il segreto della sua vita
 No. Era soltanto un’illusione, frutto dei suoi sensi turbati. Quella terribile [[motifs/night|notte]] che aveva trascorso aveva lasciato dietro di sé ombre. All’improvviso, nella sua mente era apparsa quella piccolissima macchia scarlatta che fa impazzire gli uomini. Il ritratto non era cambiato. Era assurdo pensare il contrario.
 Eppure lo stava osservando, con quel suo bel viso segnato dal dolore e quel sorriso crudele. I suoi capelli luminosi brillavano nella luce del mattino; i suoi occhi azzurri incrociarono i suoi. Un senso di infinita compassione lo invase – non per sé, ma per quell’immagine dipinta di se stesso che aveva davanti agli occhi. Quell’immagine era già cambiata, e sarebbe cambiata ancora di più: il suo colore dorato si sarebbe trasformato in grigio, i suoi fiori rossi e bianchi avrebbero appassito. Per ogni peccato che commetteva, una macchia avrebbe rovinato la sua bellezza. Ma lui non avrebbe più peccato. Quell’immagine, cambiata o immutata, sarebbe stata per lui il simbolo visibile della sua [[concepts/conscience|coscienza]]. Avrebbe resistito alle [[concepts/temptation|tentazioni]], non avrebbe più visto Lord Henry. E soprattutto, non avrebbe ascoltato quelle teorie subdole e velenose che, nel [[characters/basil-hallward|giardino]] di [[motifs/garden|Basil Hallward]], avevano per la prima volta suscitato in lui il desiderio di cose impossibili. Sarebbe tornato da [[characters/sibyl-vane|Sibyl Vane]], le avrebbe chiesto scusa, l’avrebbe sposata e avrebbe cercato di [[motifs/love|amarla]] di nuovo. Sì, era suo dovere farlo. Lei doveva aver sofferto molto più di lui. Povera [[archetypes/child|bambina]]! Era stato egoista e crudele con lei. Quel fascino che lei esercitava su di lui sarebbe tornato. Sarebbero stati felici insieme. La loro vita insieme sarebbe stata bella e pura.
 Si alzò dalla sedia e posizionò un grande schermo proprio davanti al ritratto; rabbrividì mentre lo guardava. “Che orrore!” mormorò tra sé, poi andò alla [[motifs/window|finestra]] e la aprì. Uscendo sul prato, trasse un profondo respiro. L’aria fresca del mattino sembrava cancellare tutte le sue cupe emozioni. Pensava solo a Sibyl. Un debole eco del suo [[motifs/love|amore]] tornò in lui. Ripeté il suo nome più e più volte. Gli uccelli che cantavano nel giardino bagnato di rugiada sembravano raccontare alle [[motifs/flowers|fiori]] tutto di lei.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3070,7 +3043,6 @@ For a moment, he thought of praying that the horrible sympathy that existed betw
 For there would be a real pleasure in watching it. He would be able to follow his mind into its secret places. This portrait would be to him the most magical of mirrors. As it had revealed to him his own [[concepts/body|body]], so it would reveal to him his own [[motifs/soul|soul]]. And when [[motifs/winter|winter]] came upon it, he would still be standing where [[motifs/spring|spring]] trembles on the verge of [[motifs/summer|summer]]. When the [[motifs/blood|blood]] crept from its face, and left behind a pallid mask of [[motifs/chalk|chalk]] with leaden eyes, he would keep the glamour of boyhood. Not one blossom of his loveliness would ever fade. Not one pulse of his life would ever weaken. Like the gods of the Greeks, he would be strong, and fleet, and joyous. What did it matter what happened to the coloured image on the canvas? He would be safe. That was everything.
 He drew the screen back into its former place in front of the picture, smiling as he did so, and passed into his bedroom, where his valet was already waiting for him. An hour later he was at the opera, and Lord Henry was leaning over his chair.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -3154,8 +3126,6 @@ Un senso di dolore lo invase al pensiero della profanazione che attendeva quel b
 Per un momento pensò di pregare affinché quella strana connessione tra lui e il ritratto cessasse. Forse una preghiera avrebbe potuto cambiarlo. Ma chi, che conoscesse davvero la vita, avrebbe rinunciato all’opportunità di rimanere sempre giovane, per quanto fantastica fosse tale possibilità, o per quali conseguenze fatali potesse essere costellata? Inoltre, era davvero sotto il suo controllo? Era davvero stata una preghiera a causare quel cambiamento. O forse esisteva qualche ragione scientifica? Se il pensiero poteva influenzare un organismo vivente, non avrebbe potuto influenzare anche cose morte e inanimate? E poi, senza pensieri né desideri consapevoli, le cose esterne a noi non avrebbero forse potuto vibrare in armonia con i nostri umori e passioni, gli atomi comunicando tra loro attraverso un misterioso legame d’amore o di affinità? Ma la ragione non aveva importanza. Non avrebbe mai più tentato alcuna forza terribile con una preghiera. Se il ritratto doveva cambiare, allora sarebbe cambiato. E basta. Perché indagare troppo a fondo?
 Ci sarebbe stato davvero un grande piacere nel guardarla. Avrebbe potuto seguire i propri pensieri nei loro luoghi più segreti. Questo ritratto sarebbe stato per lui lo specchio più magico di tutti: proprio come gli aveva rivelato il proprio [[concepts/body|corpo]], così gli avrebbe rivelato anche la propria [[motifs/soul|'anima]]. E quando l’[[motifs/winter|Inverno]] fosse arrivato, lui sarebbe ancora lì, dove l’[[motifs/spring|Primavera]] tremava sull’orlo dell’[[motifs/summer|Estate]]. Quando il [[motifs/blood|Sangue]] si fosse ritirato dal suo viso, lasciandogli dietro una maschera pallida come la [[motifs/chalk|Gesso]], con occhi cupi e spenti, lui avrebbe conservato lo splendore dell’infanzia. Nessun fiore della sua bellezza sarebbe mai appassito; nessun battito del suo cuore si sarebbe mai indebolito. Come gli dèi greci, sarebbe stato forte, veloce e gioioso. Che importanza aveva ciò che accadeva all’immagine dipinta sulla tela? Lui sarebbe stato al sicuro. Questo era tutto ciò che contava.  
 Riposizionò la tenda davanti al ritratto, sorridendo mentre lo faceva, e poi entrò nella sua camera da letto, dove il suo valletto lo stava già aspettando. Un’ora dopo era all’opera. Lord Henry era appoggiato allo schienale della sua sedia.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3229,7 +3199,6 @@ Dorian shook his head. “You must not ask me that, Basil. I could not possibly 
 As he left the room, [[characters/dorian-gray|Dorian Gray]] smiled to himself. Poor Basil! How little he knew of the true reason! And how strange it was that, instead of having been forced to reveal his own secret, he had succeeded, almost by chance, in wresting a secret from his friend! How much that strange confession explained to him! The painter’s absurd fits of [[concepts/jealousy|jealousy]], his wild devotion, his extravagant panegyrics, his curious reticences — he understood them all now, and he felt sorry. There seemed to him to be something tragic in a [[concepts/friendship|friendship]] so coloured by romance.
 He sighed and touched the bell. The portrait must be hidden away at all costs. He could not run such a risk of discovery again. It had been mad of him to have allowed the thing to remain, even for an hour, in a room to which any of his friends had access.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -3300,8 +3269,6 @@ Dorian scosse la testa. “Non devi chiedermelo, Basil. Non potrei mai permetter
 “Non riesco a spiegartelo, Basil. Ma non posso più riposare per te. Un ritratto ha una sua vita. Proprio sua. Verrò da te a prendere il tè. Sarà altrettanto piacevole, ”  
 “Forse sarà più piacevole per te, ” mormorò Hallward, con rammarico. “Ora addio. Mi dispiace che non mi permetta di guardare quel ritratto un’altra volta. Ma non c’è niente da fare. Capisco perfettamente cosa provi, ”
 Mentre lasciava la stanza, [[characters/dorian-gray|Dorian Gray]] sorrise tra sé e sé. Povero Basil! Quanto poco sapeva della vera ragione. E quanto strano fosse che, invece di essere costretto a rivelare il proprio segreto, fosse riuscito, quasi per caso, a strappare un segreto al proprio amico. Quella strana confessione gli spiegava tutto: le assurde crisi di [[concepts/jealousy|gelosia]] del pittore, la sua devota dedizione, i suoi eccessivi elogi, le sue curiose reticenze. Ora capiva tutto, e provava compassione per lui. Gli sembrava che ci fosse qualcosa di tragico in un’[[concepts/friendship|amicizia]] così influenzata dall’romanzo. Sospirò e suonò il campanello: quel ritratto doveva essere nascosto a tutti i costi. Non poteva correre di nuovo il rischio di essere scoperto. Era stato davvero folle permettere che rimanesse, anche solo per un’ora, in una stanza accessibile a qualsiasi suo amico.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3359,7 +3326,6 @@ It was almost nine o’[[motifs/clock|clock]] before he reached the club, where 
 “I didn’t say I liked it, Harry. I said it fascinated me. There is a great difference.”
 “Ah, you have discovered that?” murmured Lord Henry. And they passed into the dining-room.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -3412,8 +3378,6 @@ Arrivò al club quasi alle nove di sera; trovò Lord Henry seduto da solo nel sa
 “Sì, pensavo ti sarebbe piaciuto, ” rispose Lord Henry alzandosi dalla sedia.  
 “Non ho detto che mi è piaciuto. Ho detto che mi ha affascinato. C’è una grande differenza, ”  
 “Ah. L’hai scoperto?” mormorò Lord Henry. E poi entrarono in sala da pranzo.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3458,7 +3422,6 @@ The [[archetypes/hero|hero]] of the wonderful [[forms/novel|novel]] that had so 
 Over and over again Dorian used to read this fantastic chapter, and the two chapters immediately following, in which, as in some curious tapestries or cunningly wrought enamels, were pictured the awful and beautiful forms of those whom vice and [[motifs/blood|blood]] and weariness had made monstrous or mad: Filippo, [[characters/duke-of-milan|Duke of Milan]], who slew his wife and painted her lips with a scarlet [[motifs/poison|poison]] that her [[archetypes/lover|lover]] might suck [[motifs/death|death]] from the dead thing he fondled; Pietro Barbi, the Venetian, known as Paul the Second, who sought in his [[concepts/vanity|vanity]] to assume the title of Formosus, and whose tiara, valued at two hundred thousand florins, was bought at the price of a terrible sin; Gian [[characters/maria|Maria]] Visconti, who used hounds to chase living men and whose murdered [[concepts/body|body]] was covered with roses by a harlot who had loved him; the Borgia on his white [[motifs/horse|horse]], with Fratricide riding beside him and his mantle stained with the [[motifs/blood|blood]] of Perotto; Pietro Riario, the young Cardinal Archbishop of Florence, [[archetypes/child|child]] and minion of Sixtus IV, whose [[concepts/beauty|beauty]] was equalled only by his debauchery, and who received Leonora of Aragon in a pavilion of white and crimson silk, filled with nymphs and centaurs, and gilded a boy that he might serve at the feast as Ganymede or Hylas; Ezzelin, whose [[concepts/melancholy|melancholy]] could be cured only by the spectacle of [[motifs/death|death]], and who had a passion for red [[motifs/blood|blood]], as other men have for red wine — the son of the Fiend, as was reported, and one who had cheated his father at dice when gambling with him for his own [[motifs/soul|soul]]; Giambattista Cibo, who in mockery took the name of [[archetypes/innocent|Innocent]] and into whose torpid veins the [[motifs/blood|blood]] of three lads was infused by a Jewish doctor; Sigismondo Malatesta, the [[archetypes/lover|lover]] of Isotta and the lord of Rimini, whose effigy was burned at Rome as the enemy of God and man, who strangled Polyssena with a napkin, and gave [[motifs/poison|poison]] to Ginevra d’Este in a cup of emerald, and in [[concepts/honour|honour]] of a shameful passion built a pagan church for Christian worship; Charles VI, who had so wildly adored his brother’s wife that a leper had warned him of the insanity that was coming on him, and who, when his brain had sickened and grown strange, could only be soothed by Saracen cards painted with the images of [[motifs/love|love]] and [[motifs/death|death]] and [[concepts/madness|madness]]; and, in his trimmed jerkin and jewelled cap and acanthuslike curls, Grifonetto Baglioni, who slew Astorre with his bride, and Simonetto with his page, and whose comeliness was such that, as he lay dying in the yellow piazza of Perugia, those who had hated him could not choose but weep, and Atalanta, who had cursed him, blessed him.
 There was a horrible fascination in them all. He saw them at [[motifs/night|night]], and they troubled his [[concepts/imagination|imagination]] in the day. The [[historical-references/renaissance|Renaissance]] knew of strange manners of poisoning — poisoning by a helmet and a lighted torch, by an embroidered glove and a jewelled fan, by a gilded pomander and by an amber chain. [[characters/dorian-gray|Dorian Gray]] had been poisoned by a book. There were moments when he looked on evil simply as a mode through which he could realize his conception of the beautiful.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -3497,8 +3460,6 @@ Eppure qualcuno aveva antenati nella letteratura tanto quanto nella propria razz
 Il [[archetypes/hero|eroe]] di quel meraviglioso [[forms/novel|romanzo]] che aveva avuto un tale influenza sulla sua vita aveva conosciuto anch’egli questa strana fantasia. Nel settimo capitolo racconta come, incoronato di alloro per evitare che lo colpisse la [[motifs/lightning|fulmine]], si fosse seduto, come Tiberio, in un [[motifs/garden|giardino]] a Capri, leggendo quei libri vergognosi di Elephantis, mentre nani e pavoni camminavano intorno a lui e il suonatore di flauto derideva colui che agitava l’incensiere; come Caligola si fosse divertito con i fantini in abiti verdi nelle loro stalle e avesse cenato in un mangiatore d’avorio insieme a un [[motifs/horse|cavallo]] con la fronte adornata di gemme; come Domiziano si fosse aggirato in un corridoio rivestito di specchi di marmo, cercando con occhi stanchi il riflesso del pugnale che avrebbe posto fine alla sua vita, e avesse sofferto di quell’ennui, di quella terribile noia della vita che colpisce coloro a cui essa non nega nulla; come avesse guardato attraverso uno specchio di smeraldo i disordini del circo. E poi, su un palanchino fatto di perle e porpora, trainato da muli con zoccoli d’argento, fosse stato portato lungo la Via dei Granati fino a una casa d’oro, dove aveva sentito le persone piangere per Nerone Cesare mentre passava. E come Elagabalo si fosse dipinto il viso con colori, avesse partecipato alle danze tra le donne, avesse portato la [[motifs/moon|luna]] da Cartagine e l’avesse data in un matrimonio mistico al Sole.
 Ancora e ancora Dorian leggeva questo fantastico capitolo, nonché i due capitoli che seguivano immediatamente; in essi, come in alcuni curiosi arazzi o abilmente realizzati smalti, erano raffigurate le forme orribili e al contempo belle di coloro che vizio, [[motifs/blood|sangue]] e stanchezza avevano reso mostri o pazzi: Filippo, [[characters/duke-of-milan|Duca di Milano]], che uccise sua moglie e le dipinse le labbra con un rosso [[motifs/poison|)veleno]] affinché il suo [[archetypes/lover|amante]] potesse succhiare la [[motifs/death|morte]] da quel cadavere che accarezzava; Pietro Barbi, il veneziano noto come Paolo II, che nella sua [[concepts/vanity|vanezza]] cercò di assumersi il titolo di Formosus, e la cui tiara, valutata duecentomila fiorini, fu comprata al prezzo di un terribile peccato; Gian Maria Visconti, che usava cani per inseguire uomini vivi e il cui corpo assassinato fu coperto di rose da una prostituta che lo aveva amato; i Borgia, con Fratricide a cavallo accanto a loro e il mantello macchiato dal [[motifs/blood|sangue]] di Perotto; Pietro Riario, giovane Cardinale Arcivescovo di Firenze, [[archetypes/child|bambino]] e servitore di Sisto IV, la cui [[concepts/beauty|bellezza]] era eguagliata solo dalla sua dissolutezza; che ricevette Leonora d’Aragona in un padiglione fatto di seta bianca e cremisi, pieno di ninfe e centauri, e che incastonò un ragazzo affinché potesse servirlo alla festa come Ganymede o Hylas; Ezzelin, la cui [[concepts/melancholy|melanconia]] poteva essere curata solo dallo spettacolo della [[motifs/death|morte]], e che aveva una passione per il rosso [[motifs/blood|sangue]], come altri uomini ne hanno per il vino rosso; figlio del Diavolo, si diceva, e colui che aveva tradito suo padre giocando a dadi per ottenere la propria [[motifs/soul|'anima]]; Giambattista Cibo, che in segno di scherno prese il nome di [[archetypes/innocent|Innocente]] e nel cui corpo intorpidito un medico ebreo infuse il [[motifs/blood|sangue]] di tre ragazzi; Sigismondo Malatesta, l’[[archetypes/lover|amante]] di Isotta e signore di Rimini, la cui effigie fu bruciata a Roma come nemica di Dio e degli uomini; che strangolò Polyssena con un fazzoletto, diede [[motifs/poison|)veleno]] a Ginevra d’Este in una coppa di smeraldo, e per onorare una vergognosa passione costruì una chiesa pagana per il culto cristiano; Carlo VI, che amava così follemente la moglie di suo fratello da essere avvertito da un lebbroso dell’insanità che lo stava colpendo; e, con il suo giubbotto tagliato alla moda, il cappello incastonato di gioielli e i riccioli simili ad acanti, Grifonetto Baglioni, che uccise Astorre insieme a sua moglie e Simonetto insieme al suo paggio; la cui bellezza era tale che, mentre giaceva morente nella piazza gialla di Perugia, coloro che lo odiavano non poterono fare a meno di piangere; e Atalanta, che lo aveva maledetto, ma poi lo benedisse.
 C'era una terribile fascinazione in tutto ciò. Li vedeva di [[motifs/night|notte]], e durante il giorno essi turbavano la sua [[concepts/imagination|immaginazione]]. La [[historical-references/renaissance|Rinascita]] conosceva strani metodi di avvelenamento: avvelenamento tramite un elmo e una torcia accesa, tramite un guanto ricamato e un ventaglio incastonato di gemme, tramite un pomander dorato e una catena d'ambra. [[characters/dorian-gray|Dorian Gray]] era stato avvelenato da un libro. C'erano momenti in cui considerava il male semplicemente come un mezzo per realizzare la sua concezione della bellezza.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3545,7 +3506,6 @@ He turned round. “What I have to say is this,” he cried. “You must give me
 “I shall come with you, Dorian, if you wish it. I see I have missed my train. That makes no matter. I can go to-morrow. But don’t ask me to read anything to-[[motifs/night|night]]. All I want is a plain answer to my question.”
 “That shall be given to you upstairs. I could not give it here. You will not have to read long.”
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -3588,8 +3548,6 @@ Lui si girò. “Quello che devo dire è questo,” esclamò. “Devi darmi una 
 [[characters/dorian-gray|Dorian Gray]] sorrise. Le sue labbra si incurvarono in un sorriso di disprezzo. “Vieni su, Basil,” disse tranquillamente. “Tenho un diario nel quale registro ogni giorno della mia vita, e non lascia mai la stanza in cui viene scritto. Te lo mostrerò se vieni con me.”
 “Verrò con te, Dorian, se lo desideri. Vedo che ho perso il treno. Non importa, posso andare domani. Ma non chiedermi di leggere nulla stasera. Tutto ciò che voglio è una risposta semplice alla mia domanda.”  
 “Ti verrà data la risposta di sopra. Non potevo dartela qui. Non dovrai leggere a lungo.”
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3654,7 +3612,6 @@ After a few moments he drew back the latch and slipped out, shutting the door ve
 The man shambled down the passage in his slippers.
 [[characters/dorian-gray|Dorian Gray]] threw his hat and coat upon the table and passed into the library. For a quarter of an hour he walked up and down the room, biting his lip and thinking. Then he took down the Blue Book from one of the shelves and began to turn over the [[motifs/leaves|leaves]]. “Alan Campbell, 152, Hertford Street, Mayfair.” Yes; that was the man he wanted.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -3713,8 +3670,6 @@ Un’idea improvvisa gli balenò in mente. Indossò il cappotto di pelliccia e i
 “No, signore.”  
 L’uomo si allontanò barcollando nei suoi pantofole lungo il corridoio.  
 [[characters/dorian-gray|Dorian Gray]] gettò cappello e cappotto sul tavolo e andò in biblioteca. Per un quarto d’ora camminò avanti e indietro nella stanza, mordendosi il labbro e pensando. Poi prese il “Blue Book” da uno scaffale e iniziò a sfogliarne le pagine. “Alan Campbell, 152, Hertford Street, Mayfair, ” Sì. Quell’uomo era proprio quello che cercava.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -3827,7 +3782,6 @@ It was long after seven when Campbell came back into the library. He was pale, b
 “You have saved me from ruin, Alan. I cannot forget that,” said Dorian simply.
 As soon as Campbell had left, he went upstairs. There was a horrible smell of nitric acid in the room. But the thing that had been sitting at the table was gone.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -3932,8 +3886,6 @@ Trasse un profondo respiro, aprì la porta un po’ di più e, con gli occhi sem
 Fu molto dopo le sette che Campbell tornò in biblioteca. Era pallido, ma assolutamente calmo. “Ho fatto ciò che mi hai chiesto,” mormorò. “Ora addio. Non vediamoci mai più.”  
 “Mi hai salvato dalla rovina, Alan. Non potrò mai dimenticarlo,” disse semplicemente Dorian.  
 Non appena Campbell se ne andò, Dorian salì al piano di sopra. C’era un odore terribile di acido nitrico nella stanza. Ma la cosa che era stata seduta sul tavolo era scomparsa.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -4024,7 +3976,6 @@ The man shook his head. “It is too far for me,” he muttered.
 “Here is a sovereign for you,” said Dorian. “You shall have another if you drive fast.”
 “All right, sir,” answered the man, “you will be there in an hour,” and after his fare had got in he turned his [[motifs/horse|horse]] round and drove rapidly towards the [[motifs/river|river]].
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -4111,8 +4062,6 @@ Mentre la mezzanotte batteva colpi di bronzo nell’aria fosca, [[characters/dor
 L’uomo scosse il capo. “È troppo lontano per me,” borbottò.
 “Ecco una sterlina per voi,” disse Dorian. “Ne avrete un’altra se guiderete in fretta.”
 “Va bene, signore,” rispose l’uomo, “ci sarete in un’ora,” e, dopo che il cliente fu salito, girò il [[motifs/horse|cavallo]] e si diresse rapidamente verso il [[motifs/river|fiume]].
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -4193,7 +4142,6 @@ She raised her hand up to heaven. “Before God I am telling the [[concepts/trut
 “I swear it,” came in hoarse echo from her flat mouth. “But don’t give me away to him,” she whined; “I am afraid of him. Let me have some money for my [[motifs/night|night]]’s lodging.”
 He broke from her with an oath and rushed to the corner of the street, but [[characters/dorian-gray|Dorian Gray]] had disappeared. When he looked back, the woman had vanished also.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -4270,8 +4218,6 @@ Lei alzò la mano al cielo. “Davanti a Dio, sto dicendo la [[concepts/truth|ve
 “Lo giuri?”
 “Lo giuro,” venne come un’eco rauca dalla sua bocca piatta. “Ma non tradirmi con lui,” piagnucolò; “ho paura di lui. Dammi un po’ di soldi per l’alloggio di questa [[motifs/night|notte]].”
 Si staccò da lei con una bestemmia e corse all’angolo della strada, ma [[characters/dorian-gray|Dorian Gray]] era scomparso. Quando si voltò indietro, anche la donna era svanita.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -4395,7 +4341,6 @@ He was carried at once into the blue drawing-room and laid upon one of the sofas
 “No, I will come down,” he said, struggling to his feet. “I would rather come down. I must not be alone.”
 He went to his room and dressed. There was a wild recklessness of gaiety in his manner as he sat at table, but now and then a thrill of terror ran through him when he remembered that, pressed against the [[motifs/window|window]] of the conservatory, like a white handkerchief, he had seen the face of [[characters/james-vane|James Vane]] watching him.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -4515,8 +4460,6 @@ Fu portato subito nel salotto azzurro e adagiato su uno dei divani. Dopo poco [[
 “Mio caro Dorian,” rispose Lord Henry, “sei semplicemente svenuto. Tutto qui. Devi esserti affaticato troppo. Faresti meglio a non scendere a cena. Prenderò io il tuo posto.”
 “No, scendo,” disse, alzandosi a fatica. “Preferisco scendere. Non devo restare solo.”
 Andò in camera sua e si vestì. C’era una sfrenata temerarietà di allegria nei suoi modi mentre sedeva a tavola, ma di tanto in tanto un brivido di terrore lo percorreva quando ricordava che, premuto contro la [[motifs/window|finestra]] del giardino d’inverno come un fazzoletto bianco, aveva visto il volto di [[characters/james-vane|James Vane]] che lo osservava.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -4619,7 +4562,6 @@ On a heap of sacking in the far corner was lying the dead [[concepts/body|body]]
 When the farm-servant had done so, he stepped forward. A cry of joy broke from his lips. The man who had been shot in the thicket was [[characters/james-vane|James Vane]].
 He stood there for some minutes looking at the dead [[concepts/body|body]]. As he rode [[motifs/home|home]], his eyes were full of [[motifs/tears|tears]], for he knew he was safe.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -4713,8 +4655,6 @@ In un angolo c’era un mucchio di sacchi; sopra di essi giaceva il corpo morto 
 “Togliete quella cosa dal viso. Voglio vederlo,” disse, appoggiandosi al battente della porta per non cadere.  
 Quando il servitore ebbe eseguito l’ordine, Dorian fece un passo avanti. Un grido di gioia gli sfuggì dalle labbra: l’uomo che era stato colpito nel bosco era [[characters/james-vane|James Vane]].  
 Rimase lì per alcuni minuti a guardare il cadavere. Mentre tornava a casa, aveva gli occhi pieni di lacrime. Sapeva finalmente di essere al sicuro.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -4778,7 +4718,6 @@ Dorian [[motifs/rose|rose]] up from the piano and passed his hand through his ha
 “Certainly. The park is quite lovely now. I don’t think there have been such lilacs since the year I met you.”
 “Very [[motifs/well|well]]. I shall be here at eleven,” said Dorian. “Good [[motifs/night|night]], Harry.” As he reached the door, he hesitated for a moment, as if he had something more to say. Then he sighed and went out.
 
-<<<<<<< HEAD
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -4838,8 +4777,6 @@ Dorian si alzò dal pianoforte e si passò la mano tra i capelli. “Sì, la vit
 “Mio caro ragazzo, stai davvero iniziando a moralizzare. Presto diventerai come quegli convertiti e i riformatori che avvertono la gente contro tutti i peccati di cui ormai sei stanco. Sei troppo piacevole per fare una cosa del genere. Inoltre, è inutile: noi siamo ciò che siamo, e rimarremo ciò che siamo. Per quanto riguarda essere ‘avvelenati’ da un libro. Non esiste nulla del genere. L’arte non influisce sulle azioni; anzi, distrugge il desiderio di agire. È assolutamente sterile. I libri che il mondo considera immorali sono semplicemente quelli che mostrano alla gente la propria vergogna. Ma non parleremo più di letteratura. Vieni domani. Partirò a cavallo alle undici; potremmo andare insieme, e dopo pranzo ti porterò da Lady Branksome. È una donna incantevole. Vuole consultarti riguardo a alcuni arazzi che sta pensando di comprare. Non mancare. Oppure pranzeremo con la nostra piccola duchessa. Dice che non ti vede mai più. Forse sei stanco di Gladys. Pensavo che lo fossi. La sua lingua tagliente diventa davvero fastidiosa. Comunque, vieni alle undici, ”  
 “Devo davvero venire, Harry?”  
 “Certo. Il parco è davvero incantevole in questo periodo. Non credo ci siano mai stati tanti lillà come quest’anno. Molto bene. Sarò lì alle undici,” disse Dorian. “Buona notte, Harry, ” Mentre raggiungeva la porta, esitò per un momento, come se avesse qualcos’altro da dire. Poi sospirò e uscì.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 
@@ -4866,7 +4803,6 @@ They looked at each other, as they walked away, and sneered. One of them was Sir
 Inside, in the servants’ part of the house, the half-clad domestics were talking in low whispers to each other. Old Mrs. Leaf was crying and wringing her hands. Francis was as pale as [[motifs/death|death]].
 After about a quarter of an hour, he got the coachman and one of the footmen and crept upstairs. They knocked, but there was no reply. They called out. Everything was still. Finally, after vainly trying to force the door, they got on the roof and dropped down on to the balcony. The windows yielded easily — their bolts were old.
 When they entered, they found hanging upon the wall a splendid portrait of their master as they had last seen him, in all the [[concepts/wonder|wonder]] of his exquisite youth and [[concepts/beauty|beauty]]. Lying on the floor was a dead man, in evening dress, with a knife in his heart. He was withered, wrinkled, and loathsome of visage. It was not till they had examined the rings that they recognized who it was.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4888,5 +4824,3 @@ Si guardarono l’un l’altro mentre si allontanavano, e sogghignarono. Uno di 
 Dentro, nella parte riservata ai servitori della casa, i domestici seminudi parlottavano a bassa voce tra loro. La vecchia signora Leaf piangeva e si torceva le mani; Francis era pallido come la [[motifs/death|morte]].  
 Dopo circa un quarto d’ora, chiamò il cocchiere e uno dei valletti e salì di nascosto al piano di sopra. Bussarono, ma non ci fu risposta; chiamarono ancora. Tutto era silenzio. Alla fine, dopo aver tentato invano di forzare la porta, salirono sul tetto e scesero sul balcone. Le finestre si aprirono facilmente: i loro chiavistelli erano vecchi.  
 Entrando, videro appeso al muro un magnifico ritratto del loro padrone, così com’era l’ultima volta che lo avevano visto, nella piena bellezza della sua giovinezza e grazia. Sul pavimento giaceva un uomo morto, vestito con abiti da sera, con un coltello nel cuore. Era avvizzito, rugoso, orribile a vedersi. Solo esaminando gli anelli riconobbero chi fosse.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

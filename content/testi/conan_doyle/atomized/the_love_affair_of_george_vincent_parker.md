@@ -188,7 +188,6 @@ XI. THE WINTER LULL OF 1914
 THE END
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 VOLUME I.
@@ -206,8 +205,6 @@ X. UNO SGUARDO RETROSPETTIVO E SOMMARIO GENERALE
 XI. LA PAUSA INVERNALE DEL 1914
 FINE
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="chapter_02" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
@@ -226,7 +223,6 @@ VIII. THE BATTLE OF LOOS The Second Day — September 26
 IX. THE BATTLE OF LOOS From September 27 to the End of the Year
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 VOLUME II.
@@ -241,8 +237,6 @@ VII. LA BATTAGLIA DI LOOS — Il primo giorno — 25 settembre
 VIII. LA BATTAGLIA DI LOOS — Il secondo giorno — 26 settembre
 IX. LA BATTAGLIA DI LOOS, dal 27 settembre alla fine dell'anno
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="chapter_03" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
@@ -265,7 +259,6 @@ XII. THE BATTLE OF THE SOMME From September 15 to the Battle of the Ancre
 XIII. THE BATTLE OF THE ANCRE November 13, 1916
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 VOLUME III.
@@ -284,8 +277,6 @@ XI. LA CONQUISTA DEL CRINALE DI THIEPVAL
 XII. LA BATTAGLIA DELLA SOMMA Dal 15 settembre alla Battaglia dell'Ancre
 XIII. LA BATTAGLIA DELL'ANCRE 13 novembre 1916
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="chapter_04" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
@@ -306,7 +297,6 @@ X. THE BATTLE OF CAMBRAI First Phase of Battle, November 20
 XI. THE BATTLE OF CAMBRAI Second Phase of Battle, November 30
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 VOLUME IV.
@@ -323,8 +313,6 @@ IX. LA TERZA BATTAGLIA DI YPRES dal 4 ottobre al 10 novembre 1917
 X. LA BATTAGLIA DI CAMBRAI Prima fase della battaglia, 20 novembre
 XI. LA BATTAGLIA DI CAMBRAI Seconda fase della battaglia, 30 novembre
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="chapter_05" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
@@ -345,7 +333,6 @@ X. THE BATTLE OF THE LYS April 13 to May 8
 XI. THE BATTLES OF THE CHEMIN DES DAMES AND OF THE ARDRES May 27 to June 2
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 VOLUME V.
@@ -362,8 +349,6 @@ IX. LA BATTAGLIA DELLA LYS 9-12 aprile
 X. LA BATTAGLIA DELLA LYS 13 aprile - 8 maggio
 XI. LE BATTAGLIE DEL CHEMIN DES DAMES E DELL'ARDRES 27 maggio - 2 giugno
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="chapter_06" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
@@ -383,7 +368,6 @@ X. THE ADVANCE OF HORNE’S FIRST ARMY From September 27 to the end
 XI. OPERATIONS OF THE SECOND AND FIFTH ARMIES September 28 — November 11
 XII. THE END
 APPENDIX
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -402,5 +386,3 @@ X. L'AVANZATA DELLA PRIMA ARMATA DI HORNE Dal 27 settembre alla fine
 XI. OPERAZIONI DELLA SECONDA E DELLA QUINTA ARMATA 28 settembre – 11 novembre
 XII. LA FINE
 APPENDICE
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

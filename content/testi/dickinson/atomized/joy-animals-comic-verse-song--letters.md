@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/joy-animals-comic-verse-song--letters" data-author="Dickinson" data-workhref="works/joy-·-animals-·-comic-verse-song-(dickinson)" data-collection="letters"></div>
 
 
-<<<<<<< HEAD
 To Mr. William Austin Dickinson, Sunday Afternoon · To Mr. William Austin Dickinson, Friday Morning · To Mrs. Anthon · To Dr. J. G. Holland, and Mrs. Holland, 1883? · To Mr. Samuel Bowlers and Mrs. Bowles, Late Autumn, 1862 · To Miss Maria Whitney, 1883? · To Mrs. W. A. Stearns, 1875 · To Mrs. Edward Tuckerman, June, 1883 · To Mrs. F.S. Cooper
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="william_austin_dickinson_sunday_afternoon" data-title="To Mr. William Austin Dickinson, Sunday Afternoon" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/home,motif/wind,concept/desire_and_longing,concept/joy,concept/nature_vs_civilization,form/letter,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
@@ -29,7 +26,6 @@ Let me see—April; three weeks until April—the very first of April—[[motifs
 What a [[motifs/time|time]] we shall have Fast day, after we get [[motifs/home|home]] from meeting—why, it makes me [[motifs/dance|dance]] to think of it; and Austin, if I [[motifs/dance|dance]] so many days beforehand, what will become of me when the hour really arrives? I don't know, I'm sure; and I don't care, much, for that or for anything else but get you [[motifs/home|home]]. . . . Much [[motifs/love|love]] from mother and Vinnie; we are now pretty [[motifs/well|well]], and our hearts are set on April, the very first of April!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 , È una splendida giornata pomeridiana: il cielo è blu e caldo; la [[motifs/wind|vento]] soffia appena abbastanza per far muovere le nuvole, e il sole, oh, che sole! Non è come l’oro, perché l’oro sembra pallido al suo confronto; non assomiglia a nulla di ciò che tu o io abbiamo mai visto! Mi pare che “Ik Marvel” sia nato proprio in un giorno del genere. Vorrei solo che fossi qui con me. Giorni come questi sono stati creati apposta per te e per me. Allora, perché diavolo sei andato via? Oh, caro, non lo so. Ma una cosa so: se desiderarlo potesse farti tornare a [[motifs/home|casa]], oggi saresti qui con me. È piacevole a Boston? Certo che no. Avrei dovuto saperlo meglio, prima di chiedere. Senza dubbio le strade sono fangose, il cielo ha un colore grigiostra. Posso immaginare perfettamente come tutto rumori e scricchioli mentre si muove tra pietre, assi e fango. Non credo che potrò rivederti lì, un altro giorno. Temo che, vivendo in un posto del genere, tu possa trasformarti in una banca, o in uno degli uffici di Pearl Street. Se non hai già assunto qualche forma orribile.
@@ -38,8 +34,6 @@ Lasciami pensare. Aprile; ci sono tre settimane fino ad aprile, il primo giorno 
 
 Che [[motifs/time|momento]] meraviglioso sarà quel giorno di digiuno, quando torneremo [[motifs/home|a casa]] dopo l’incontro. Solo a pensarci mi viene voglia di [[motifs/dance|)danzare]]; e Austin, se danzo così tanto già adesso, cosa ne sarà di me quando arriverà davvero quell’ora? Non lo so. E in realtà non mi interessa molto, né questo né nient’altro, se non riuscire a portarti [[motifs/home|a casa]]. Un sacco di [[motifs/love|affetto]] da parte di mamma e Vinnie; ora stiamo abbastanza bene, e il nostro cuore è già fissato su aprile. Esattamente il primo giorno di aprile!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_friday_morning" data-title="To Mr. William Austin Dickinson, Friday Morning" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/home,motif/birds,motif/insects,concept/desire_and_longing,concept/hope,concept/endurance,form/letter,histref/the_bible,character/plato,character/socrates,character/jove,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -52,7 +46,6 @@ Tuesday evening we had a beautiful [[motifs/time|time]] reading and talking of t
 I had a dissertation from E. C. a day or two ago—don't know which was the author, [[characters/plato|Plato]] or [[characters/socrates|Socrates]]—rather think Jove had a finger in it. . . . They all send their [[motifs/love|love]]. Vinnie sends hers. How soon you will be here! Days, flee away—“lest with a whip of scorpions I overtake your lingering.” I am in a hurry—this pen is too slow for me—“it hath done what it could.”
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro Austin, —. Non vorrei che tu sprecassi troppa energia per quei piccoli ragazzi della scuola: ne avrai bisogno tutta per qualcosa di meglio e più coraggioso una volta lontano da qui. Mi rallegrerebbe molto se, in una bella mattina, tu aprissi la porta dell’aula scolastica e lasciassi che quei ragazzi, insieme alle loro [[characters/nurse|insegnanti]], andassero verso la [[concepts/freedom|libertà]] e il sole di casa nostra. Papà dice che nemmeno tutta Boston potrebbe rappresentare una tentazione per te. Vorrei solo che non fosse una tentazione nemmeno per un altro giorno. Oh, Austin. È sbagliato tormentarti in questo modo proprio mentre stai affrontando tante difficoltà nel cercare di adempiere ai tuoi doveri. Il dovere è qualcosa di cupo e grigio. La casa, invece, è luminosa e splendente, “Lo spirito e la sposa dicono: ‘Vieni, chiunque vaghi lontano, perché tutto è pronto’”. Qui fuori il tempo è meraviglioso: l’aria è dolce e tranquilla; di tanto in tanto una foglia cade; i grilli cantano per tutta la giornata. In un albero rosso sangue, un uccellino canta ancora. Mille piccoli “pittori” tingono di colori colline e valli. Ammetto ora, Austin, che l’[[motifs/autumn|autunno]] è davvero il più bel periodo dell’anno. L’[[motifs/spring|primavera]], invece, sembra solo la meno splendente. Ma entrambe hanno una loro bellezza unica, proprio come le [[motifs/stars|stelle]]. Che felicità se fossi qui con noi a goderci questi momenti. Il frutto sarebbe ancora più dolce, e l’ultimo giorno dell’anno ancora più dorato. E il raccolto delle noci sarebbe ancora più gioioso, se potessimo raccoglierle insieme e nasconderle nel profondo del cesto. Ma tu non ti lamenti. Perché dovremmo noi farlo?
@@ -61,8 +54,6 @@ Martedì sera abbiamo trascorso un bellissimo momento leggendo e ricordando i be
 
 Avevo ricevuto una tesi di E. C. un giorno o due fa. Non so chi ne fosse l’autore, [[characters/plato|Platone]] o [[characters/socrates|Socrate]]. Direi piuttosto che Giove ci avesse messo lo zampino. Tutti inviano la loro [[motifs/love|amore]]. Anche Vinnie manda la sua. Quanto tempo mancherà prima che tu arrivi? Giorni. Che si affrettino, “Altrimenti, con un colpo di frusta di scorpioni vi raggiungerò mentre esitate, ” Ho fretta. Questa penna è troppo lenta per me, “Ha fatto del suo meglio.”
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_anthon" data-title="To Mrs. Anthon" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/letters_writing,concept/suffering_and_pain,concept/endurance,form/letter,setting/new_england,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -71,13 +62,10 @@ Avevo ricevuto una tesi di E. C. un giorno o due fa. Non so chi ne fosse l’aut
 Following are letters written to her sister, Miss [[characters/lavinia|Lavinia]] Dickinson, while Emily was receiving treatment for her eyes in Boston. She was there for this purpose twice,—during the [[motifs/summer|summer]] of 1864, and again in 1865, usually writing of these years as “when I was sick so long,” which has given many persons the idea of an invalidism she never had.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di seguito sono riportate lettere scritte a sua sorella, la signorina [[characters/lavinia|Lavinia]] Dickinson, mentre Emily si trovava a Boston per il trattamento dei suoi occhi. Vi era stata due volte a questo scopo: durante l’[[motifs/summer|estate]] del 1864 e di nuovo nel 1865; solitamente descriveva quegli anni come “quando sono stata malata per così tanto tempo”, il che ha fatto credere a molte persone che soffrisse di una grave invalidità, quando in realtà non era affatto così.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="j_g_holland_and_mrs_holland_1883" data-title="To Dr. J. G. Holland, and Mrs. Holland, 1883?" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/the_journey,concept/friendship,concept/transience,concept/longing,form/letter,setting/the_american_south,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -92,7 +80,6 @@ To thank you for its fragrance would be impossible, but then its other blissful 
 Emily and Vinnie give the [[motifs/love|love]] greater every hour.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Per quanto riguarda la sorellina, non per aggredirla, né per esortarla, ma per ottenere quelle qualità che elevano gli amici, la seguimmo fino a San [[characters/augustine|Agostino]]; da quel punto, la traccia scomparve. O, come dice George Stearns parlando del suo alligatore, “non c’era più alcuna traccia”.
@@ -103,8 +90,6 @@ Ringraziarti per il suo profumo sarebbe impossibile, ma le sue altre qualità me
 
 Emily e Vinnie rendono il [[motifs/love|amore]] sempre più profondo, di ora in ora.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="samuel_bowlers_and_mrs_bowles_late_autumn_1862" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Late Autumn, 1862" data-chapter="" data-kind="intro" data-tags="motif/tears,concept/grief_and_loss,concept/joy,concept/paradox,concept/melancholy,form/lyric,form/letter,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -113,13 +98,10 @@ Emily e Vinnie rendono il [[motifs/love|amore]] sempre più profondo, di ora in 
 So glad we are, a stranger'd deem 'Twas sorry that we were; For where the holiday should be There publishes a tear; Nor how ourselves be justified, Since grief and [[concepts/joy|joy]] are done So similar, an optizan Could not decide between.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sono così felice che sia così. Un estraneo potrebbe considerare triste il fatto che siamo così; perché là dove dovrebbe esserci gioia, ci sono solo lacrime; e non sappiamo nemmeno come giustificarci, visto che dolore e [[concepts/joy|gioia]] sono così simili. Un osservatore esterno non riuscirebbe a distinguerli.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="s_maria_whitney_1883" data-title="To Miss Maria Whitney, 1883?" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/the_journey,motif/nature,motif/autumn,motif/frost,motif/flowers,concept/friendship,concept/transience,concept/immortality,concept/nature_vs_civilization,form/letter,setting/the_mountains,character/othello,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -152,7 +134,6 @@ Did you read Emily Brontë's marvellous verse?
 We are pining to know of you, and Vinnie thinks to see you would be the opening of the burr. . . .
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —la [[motifs/journey|viaggio]] è già terminata, o prosegue ancora? E la [[concepts/nature|Natura]] ti ha allontanato da noi, come temevamo?
@@ -181,8 +162,6 @@ Anche se la terra e gli uomini fossero scomparsi, anche se i soli e gli universi
 
 Sentiamo la mancanza di notizie su di te, e Vinnie pensa che rivederti potrebbe rappresentare l’inizio di una nuova fase.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_w_a_stearns_1875" data-title="To Mrs. W. A. Stearns, 1875" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/snow,concept/transience,concept/friendship,concept/faith,form/letter,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -195,7 +174,6 @@ This, precluding that, is indeed divine.
 Bringing you handfuls in prospective, thank you for the [[motifs/love|love]]. Many an angel, with its needle, toils beneath the [[motifs/snow|snow]].
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Caro amico, —il fatto che il pisello sia transitivo rappresenta l’unica sua “dolorosa caratteristica”.
@@ -204,8 +182,6 @@ Questo, che esclude quella possibilità, è davvero divino.
 
 Vi porto tante cose positive nel futuro; grazie per l’[[motifs/love|amore]] che ricevo. Molti angeli, con le loro “aghi”, lavorano sodo sotto la [[motifs/snow|neve]].
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_edward_tuckerman_june_1883" data-title="To Mrs. Edward Tuckerman, June, 1883" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/the_sea,motif/time,concept/friendship,concept/transience,form/lyric,form/letter,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
@@ -216,26 +192,20 @@ Sweet foot, that comes when we call it! I can go but a step a century, now.
 How slow the [[motifs/wind|wind]], how slow the [[motifs/sea|sea]], How late their feathers be!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che fortuna, arriva proprio quando lo chiediamo! Ora posso muovermi soltanto di un passo ogni secolo.
 
 Quanto è lento il [[motifs/wind|vento]], quanto è lento il [[motifs/sea|mare]]; quanto sono tarde le loro ali a muoversi.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fs_cooper" data-title="To Mrs. F.S. Cooper" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,concept/wonder,concept/the_natural_order,concept/solitude,form/letter,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
 How strange that [[concepts/nature|Nature]] does not knock, and yet does not intrude!
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Che strano che la [[concepts/nature|Natura]] non bussi, eppure non si intrometta.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

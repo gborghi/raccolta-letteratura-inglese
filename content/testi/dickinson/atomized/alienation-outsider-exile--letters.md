@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/alienation-outsider-exile--letters" data-author="Dickinson" data-workhref="works/alienation-·-outsider-·-exile-(dickinson)" data-collection="letters"></div>
 
 
-<<<<<<< HEAD
 To Mr. William Austin Dickinson, Thursday Noon · To Mr. William Austin Dickinson, Tuesday Noon · To Mr. William Austin Dickinson · To Mr. William Austin Dickinson · To Mr. William Austin Dickinson · To Mrs. F.S. Cooper
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="william_austin_dickinson_thursday_noon" data-title="To Mr. William Austin Dickinson, Thursday Noon" data-chapter="" data-kind="intro" data-tags="motif/home,motif/dreams,motif/letters_writing,motif/money_gold,concept/loneliness,concept/memory,concept/solitude,form/letter,histref/the_bible,setting/new_england,character/daniel,cluster/alienation,cluster/outsider,cluster/exile"></span>
 
 
@@ -35,7 +32,6 @@ I had almost forgotten to tell you of a dream which I dreamed last [[motifs/nigh
 Won't you please to tell me when you answer my [[forms/letter|letter]] who the candidate for President is? I have been trying to find out ever since I came here, and have not yet succeeded. I don't know anything more about affairs in the world than if I were in a trance, and you must imagine with all your “Sophomoric discernment” that it is but little and very faint. Has the Mexican War terminated yet, and how? Are we beaten? Do you know of any nation about to besiege South Hadley? If so, do inform me of it, for I would be glad of a chance to escape, if we are to be stormed. I suppose Miss Lyon would furnish us all with daggers and order us to fight for our lives in case such perils should befall us. . . . Miss F. told me if I was writing to Amherst to send her [[motifs/love|love]]. Not specifying to whom, you may deal it out as your good sense and discretion prompt. Be a good boy and mind me!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mio caro fratello Austin,  
@@ -51,8 +47,6 @@ Avevo quasi dimenticato di raccontarti di un sogno che ho fatto la scorsa [[moti
 
 Per favore, quando risponderete alla mia [[forms/letter|lettera]], potreste dirmi chi è il candidato per la Presidenza? Da quando sono arrivato qui, cerco disperatamente di saperlo, ma senza successo. Non so nulla riguardo alle situazioni mondiali, come se fossi in uno stato di trance. E dovete immaginare, con tutto il vostro “buon senso”, che le informazioni che ho sono molto scarse e vaghe. La guerra messicana è già finita? Siamo stati sconfitti? Sapete se qualche nazione sta per assediare South Hadley? Se sì, fatemelo sapere: mi piacerebbe avere l’opportunità di fuggire, nel caso dovessimo affrontare un attacco. Immagino che la signorina Lyon ci fornirebbe tutti dei pugnali e ci ordinerebbe di combattere per salvarci la vita, in caso di tali pericoli. La signorina F. mi ha detto che, se scrivo ad Amherst, dovrei inviarle il mio [[motifs/love|affetto]]. Non specificando a chi, potete farlo secondo il vostro buon giudizio e discrezione. Siate un bravo ragazzo. E pensate a me!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson_tuesday_noon" data-title="To Mr. William Austin Dickinson, Tuesday Noon" data-chapter="" data-kind="intro" data-tags="motif/home,motif/letters_writing,concept/education,concept/desire_and_longing,concept/communication_and_isolation,form/letter,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -63,7 +57,6 @@ MY DEAR BROTHER AUSTIN,—I have this moment finished my recitation in [[concept
 Do write a long [[forms/letter|letter]] to
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Mio caro fratello Austin,  
@@ -72,8 +65,6 @@ Digli a papà che gli sono molto grata per le sue offerte di aiuto finanziario, 
 
 Devo scrivere una lunga [[forms/letter|lettera]] a.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson" data-title="To Mr. William Austin Dickinson" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/democracy,concept/ambition,concept/nationalism_and_patriotism,form/letter,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -82,13 +73,10 @@ Devo scrivere una lunga [[forms/letter|lettera]] a.
 Mr. Edward Dickinson was in Baltimore when the following [[forms/letter|letter]] was written, in attendance upon the Whig Convention which sought, unsuccessfully, the nomination of Daniel Webster for the presidency.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il signor Edward Dickinson si trovava a Baltimora quando fu scritta la seguente [[forms/letter|lettera]]; partecipava infatti alla Convenzione dei Whigs, che cercò, senza successo, di far nominare Daniel Webster per la presidenza.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson" data-title="To Mr. William Austin Dickinson" data-chapter="" data-kind="intro" data-tags="motif/the_journey,concept/solitude,concept/alienation,concept/critique_of_progress,form/letter,histref/the_industrial_revolution,setting/new_england,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -97,13 +85,10 @@ Il signor Edward Dickinson si trovava a Baltimora quando fu scritta la seguente 
 The new railroad was opened for the first regular trip from Palmer to Amherst, May 9, 1853. Mr. Edward Dickinson wrote on that day, “We have no railroad jubilee till we see whether all moves right, then we shall glorify becomingly.” Everything was apparently satisfactory, for the celebration occurred early in June, when more than three hundred New [[settings/london|London]] people visited Amherst. In the following [[forms/letter|letter]] from Emily are indications of her growing distaste to mingle in a social mêlée, despite genuine interest in itself and its cause.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La nuova ferrovia fu aperta per il primo viaggio regolare da Palmer ad Amherst il 9 maggio 1853. Il signor Edward Dickinson scrisse quel giorno: “Non avremo un vero giubileo della ferrovia finché non vedremo se tutto funziona correttamente; solo allora potremo celebrare in modo appropriato”. Tutto sembrava soddisfacente, poiché la celebrazione ebbe luogo all’inizio di giugno, quando più di trecento persone provenienti da [[settings/london|Londra]] visitarono Amherst. Nella seguente [[forms/letter|lettera]] di Emily si percepisce il suo crescente disinteresse a partecipare a quelle feste sociali, nonostante un genuino interesse per esse e per la causa che le sosteneva.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="william_austin_dickinson" data-title="To Mr. William Austin Dickinson" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/letters_writing,motif/home,concept/solitude,form/letter,setting/washington_dc,cluster/alienation,cluster/outsider,cluster/exile"></span>
@@ -112,24 +97,18 @@ La nuova ferrovia fu aperta per il primo viaggio regolare da Palmer ad Amherst i
 Already Emily seems to have exhibited disinclination for journeys, as, in a [[forms/letter|letter]] to his son in Cambridge, dated at Washington, March 13, 1854, Mr. Edward Dickinson said, “I have written [[motifs/home|home]] to have [[characters/lavinia|Lavinia]] come with your mother and you, and Emily, too, if she will, but that I will not insist upon her coming,” Emily, however, did go to Washington with her [[concepts/family|family]], later in the [[motifs/spring|spring]], as a subsequent [[forms/letter|letter]] to Mrs. Holland will show.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Sembra già che Emily avesse mostrato disinteresse per i viaggi; infatti, in una [[forms/letter|lettera]] indirizzata a suo figlio a Cambridge, datata 13 marzo 1854 da Washington, il signor Edward Dickinson scriveva: “Ho scritto a casa affinché [[characters/lavinia|)Lavinia]] venga con tua madre e te, e anche Emily, se lo desidera, ma non insisterò affinché venga.” Tuttavia, Emily andò comunque a Washington con la sua [[concepts/family|famiglia]] più tardi, in quella stessa primavera, come dimostra una successiva [[forms/letter|lettera]] indirizzata alla signora Holland.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_fs_cooper" data-title="To Mrs. F.S. Cooper" data-chapter="" data-kind="intro" data-tags="archetype/ghost,motif/ghosts,concept/memory,concept/the_supernatural,concept/solitude,form/letter,cluster/alienation,cluster/outsider,cluster/exile"></span>
 
 
 My [[concepts/family|family]] of apparitions is select, though dim.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 La mia famiglia di apparizioni è selezionata, anche se poco luminosa.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

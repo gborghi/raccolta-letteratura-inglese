@@ -41,11 +41,7 @@ Raccolta tematica di 7 componimenti di Samuel Taylor Coleridge.
 - [[works/anna-and-harland-(coleridge)|ANNA AND HARLAND]]
 - [[works/mrs.-siddons-(coleridge)|MRS. SIDDONS]]
 - [[works/sonnet-composed-on-a-journey-homeward;-the-author-having-received-intelligence-(coleridge)|SONNET: COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE]]
-<<<<<<< HEAD
 - [[works/the-complaint-of-ninathóma-from-the-same-(coleridge)|THE COMPLAINT OF NINATHÓMA:FROM THE SAME]]
-=======
-- THE COMPLAINT OF NINATHÓMA:FROM THE SAME
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 - [[works/the-mad-monk-(coleridge)|THE MAD MONK]]
 - [[works/the-madman-and-the-lethargist-(coleridge)|THE MADMAN AND THE LETHARGIST]]
 

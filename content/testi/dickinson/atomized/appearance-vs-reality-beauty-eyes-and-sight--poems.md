@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight--poems" data-author="Dickinson" data-workhref="works/appearance-vs-reality-·-beauty-·-eyes-and-sight-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 15. The Guest is gold and crimson — · 116. I had some things that I called mine — · 165. A wounded Deer — leaps highest — · 173. A fuzzy fellow, without feet, · 175. I have never seen "Volcanoes" — · 353. A happy lip — breaks sudden — · 421. A Charm invests a face · 451. The Outer — from the Inner · 500. Within my Garden, rides a Bird · 571. Must be a Woe — · 627. The Tint I cannot take — is best — · 658. Whole Gulfs — of Red, and Fleets — of Red — · 741. Drama's Vitallest Expression is the Common Day · 747. It dropped so low — in my Regard — · 752. So the Eyes accost — and sunder · 793. Grief is a Mouse — · 842. Good to hide, and hear 'em hunt! · 854. Banish Air from Air — · 986. A narrow fellow in the grass · 1131. The Merchant of the Picturesque · 1426. The pretty Rain from those sweet Eaves · 1453. A Counterfeit — a Plated Person —
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="e_guest_is_gold_and_crimson" data-title="15. The Guest is gold and crimson —" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/nature,motif/white_and_red,motif/birds,concept/transience,form/riddle,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
@@ -35,7 +32,6 @@ The Lark's pure territory —
 Or the Lapwing's shore!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Ospite è oro e cremisi —  
@@ -50,8 +46,6 @@ Io lo prego pure — di esplorare
 Il puro territorio dell'Allodola —  
 O la riva della Pavoncella!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="had_some_things_that_i_called_mine" data-title="116. I had some things that I called mine —" data-chapter="" data-kind="intro" data-tags="motif/garden,concept/justice,concept/faith_and_doubt,concept/grief_and_loss,form/allegory,histref/greek_mythology,histref/christianity,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -78,7 +72,6 @@ Jove! Choose your counsel —
 I retain "[[works/shaw-(chesterton)|Shaw]]"!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Avevo alcune cose che chiamavo mie —  
@@ -101,8 +94,6 @@ Rivendicherò la legge —
 Giove! Scegli il tuo avvocato —  
 Io ingaggio "[[works/shaw-(chesterton)|Shaw]]"!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="wounded_deer_leaps_highest" data-title="165. A wounded Deer — leaps highest —" data-chapter="" data-kind="intro" data-tags="motif/blood,motif/animals,motif/masks_disguise,motif/swords_weapons,concept/suffering_and_pain,concept/appearance_vs_reality,concept/self_and_soul,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -124,7 +115,6 @@ Lest anybody spy the [[motifs/blood|blood]]
 And "You're hurt" exclaim!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un cervo ferito balza più alto,  
@@ -142,8 +132,6 @@ In cui con cautela s'arma,
 Che nessuno scorga il [[motifs/blood|sangue]]  
 Ed esclami "Sei ferito"!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="fuzzy_fellow_without_feet" data-title="173. A fuzzy fellow, without feet," data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/seasons,motif/animals,motif/clothing,concept/transience,form/riddle,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -175,7 +163,6 @@ To tell the pretty secret
 Of the Butterfly!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un tipetto peloso, senza piedi,  
@@ -203,8 +190,6 @@ Da me! Ma chi sono io,
 Per svelare il grazioso segreto  
 Della Farfalla!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="have_never_seen_volcanoes" data-title="175. I have never seen &quot;Volcanoes&quot; —" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/madness,motif/dust,concept/suffering_and_pain,concept/appearance_vs_reality,concept/the_sublime,form/lyric,histref/classical_antiquity,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -236,7 +221,6 @@ Will not cry with [[concepts/joy|joy]] "Pompeii"!
 To the Hills return!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non ho mai visto "Vulcani" —  
@@ -264,8 +248,6 @@ Nel Mattino della Resurrezione,
 Non griderà con [[concepts/joy|gioia]] "Pompei"!  
 Alle Colline ritorna!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="happy_lip_breaks_sudden" data-title="353. A happy lip — breaks sudden —" data-chapter="" data-kind="intro" data-tags="motif/masks_disguise,concept/appearance_vs_reality,concept/joy,concept/melancholy,concept/grief_and_loss,form/epigram,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -281,7 +263,6 @@ Fresh gilded — to elude the eyes
 Unqualified, to scan —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un labbro felice — erompe improvviso —  
@@ -293,8 +274,6 @@ Così paziente — come una [[motifs/pain|pena]] —
 Dorata di fresco — per eludere gli occhi  
 Non qualificati, a scrutare —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="charm_invests_a_face" data-title="421. A Charm invests a face" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/masks_disguise,motif/eyes_sight,concept/appearance_vs_reality,concept/desire,concept/imagination,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -311,7 +290,6 @@ Lest Interview — annul a want
 That Image — satisfies —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un Fascino riveste un volto  
@@ -324,8 +302,6 @@ E desidera — e nega —
 Perché il Colloquio — non annulli una brama  
 Che l'Immagine — appaga —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_outer_from_the_inner" data-title="451. The Outer — from the Inner" data-chapter="" data-kind="intro" data-tags="motif/the_wheel,motif/dust,motif/stars,motif/eyes_sight,concept/appearance_vs_reality,concept/self_and_soul,concept/identity,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -352,7 +328,6 @@ The Star's whole Secret — in the Lake —
 Eyes were not meant to know.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Esterno — dall'Interno  
@@ -375,8 +350,6 @@ Una Guancia — forse una Fronte —
 L'intero Segreto della Stella — nel Lago —  
 Occhi non eran fatti per saperlo.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="thin_my_garden_rides_a_bird" data-title="500. Within my Garden, rides a Bird" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/garden,motif/rose,motif/eyes_sight,concept/imagination,concept/appearance_vs_reality,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -408,7 +381,6 @@ To just vibrating Blossoms!
 An Exquisite Reply!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nel mio [[motifs/garden|Giardino]], cavalca un Uccello  
@@ -436,8 +408,6 @@ Rimanda il mio occhio goffo —
 A Corolle ancora vibranti!  
 Una Risposta Squisita!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="st_be_a_woe" data-title="571. Must be a Woe —" data-chapter="" data-kind="intro" data-tags="motif/the_cross,motif/eyes_sight,concept/beauty,concept/grief_and_loss,concept/paradox,concept/grace_and_redemption,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -463,7 +433,6 @@ Extravagance
 To pay — a [[motifs/cross|Cross]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Dev'esserci un Dolore —  
@@ -485,8 +454,6 @@ Nostro signore — non stimò
 Stravaganza  
 Pagare — una [[motifs/cross|Croce]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_tint_i_cannot_take_is_best" data-title="627. The Tint I cannot take — is best —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/eyes_sight,motif/the_grave,motif/seasons,concept/beauty,concept/the_sublime,concept/melancholy,concept/mortality,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -523,7 +490,6 @@ Shuts arrogantly — in the [[motifs/grave|Grave]] —
 Another way — to see —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Tinta che non posso cogliere — è la migliore —  
@@ -556,8 +522,6 @@ Finché l'Occhio Ingannato
 Non si chiude arrogante — nella [[motifs/grave|Tomba]] —  
 Un altro modo — di vedere —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ole_gulfs_of_red_and_fleets_of_red" data-title="658. Whole Gulfs — of Red, and Fleets — of Red —" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,motif/sun,motif/white_and_red,motif/blood,motif/nature,concept/transience,concept/the_sublime,concept/beauty,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -576,7 +540,6 @@ Due — promptly — as a Drama —
 That bows — and disappears —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 —  
@@ -591,8 +554,6 @@ In Schiere Autorizzate —
 Puntuali — pronte — come un Dramma —  
 Che s'inchina — e scompare —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="amas_vitallest_expression_is_the_common_day" data-title="741. Drama's Vitallest Expression is the Common Day" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,topos/all_the_worlds_a_stage,concept/the_common_man,concept/the_artist_and_society,concept/self_and_soul,concept/imagination,form/lyric,character/hamlet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -620,7 +581,6 @@ Only Theatre recorded
 Owner cannot shut —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 GIORNO  
@@ -644,8 +604,6 @@ Nel Cuore Umano —
 Solo il Teatro registrato  
 Il Proprietario non può chiudere —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_dropped_so_low_in_my_regard" data-title="747. It dropped so low — in my Regard —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/the_mirror,concept/disillusionment,concept/appearance_vs_reality,concept/guilt,concept/identity,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -662,7 +620,6 @@ For entertaining Plated Wares
 Upon my Silver Shelf —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Cadde così in basso — nella mia Stima —  
@@ -675,8 +632,6 @@ Di quanto denunciai Me stessa,
 Per aver accolto Stoviglie Placcate  
 Sul mio Ripiano d'Argento —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_the_eyes_accost_and_sunder" data-title="752. So the Eyes accost — and sunder" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/transience,concept/alienation,concept/memory_and_time,concept/love_romantic,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -693,7 +648,6 @@ In a Neighboring Horizon —
 Gone — as soon as known —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Così gli Occhi si affrontano — e si separano  
@@ -706,8 +660,6 @@ Al Volto di Uno
 In un Orizzonte Vicino —  
 Svanito — appena conosciuto —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ief_is_a_mouse" data-title="793. Grief is a Mouse —" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/silence,motif/animals,concept/grief_and_loss,concept/suffering,concept/secrecy_and_concealment,form/riddle,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -735,7 +687,6 @@ Possibly — if they refuse — How then know —
 Since a Rack couldn't coax a syllable — now.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Dolore è un Topo —  
@@ -759,8 +710,6 @@ Le Sue Ceneri — lo faranno
 Forse — se rifiutano — Come saperlo allora —  
 Poiché il Cavalletto non strapperebbe una sillaba — ora.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="od_to_hide_and_hear_em_hunt" data-title="842. Good to hide, and hear 'em hunt!" data-chapter="" data-kind="intro" data-tags="archetype/trickster,motif/animals,concept/secrecy_and_concealment,concept/identity,form/epigram,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -777,7 +726,6 @@ Can one find the rare Ear
 Not too dull —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Bello nascondersi, e sentirli in caccia!  
@@ -790,8 +738,6 @@ Ottimo, sapere e dire,
 Se si trova il raro Orecchio  
 Non troppo ottuso —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="nish_air_from_air" data-title="854. Banish Air from Air —" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/light_and_dark,concept/immortality,concept/paradox,concept/self_and_soul,form/riddle,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -811,7 +757,6 @@ Over your impotence
 Flits Steam.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Bandisci l'Aria dall'Aria —  
@@ -827,8 +772,6 @@ E con una Bionda spinta
 Sopra la tua impotenza  
 Guizza il Vapore.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="narrow_fellow_in_the_grass" data-title="986. A narrow fellow in the grass" data-chapter="" data-kind="intro" data-tags="motif/serpent_snake,motif/nature,motif/animals,motif/childhood,concept/terror_and_horror,concept/the_natural_order,form/riddle,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -862,7 +805,6 @@ Without a tighter breathing,
 And zero at the bone.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Un tipo sottile nell'erba  
@@ -892,8 +834,6 @@ Accompagnato o solo,
 Senza un respiro più stretto,  
 E zero fino all'osso.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_merchant_of_the_picturesque" data-title="1131. The Merchant of the Picturesque" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/childhood,concept/beauty,concept/value_and_scarcity,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -912,7 +852,6 @@ Do one advance so near
 As to behold his ample flight —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Mercante del Pittoresco  
@@ -927,8 +866,6 @@ Dei Contraffatti è così schivo
 Che uno s'avvicini tanto  
 Da scorgere il suo ampio volo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_pretty_rain_from_those_sweet_eaves" data-title="1426. The pretty Rain from those sweet Eaves" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/water,concept/innocence_and_experience,concept/grief_and_loss,concept/love_romantic,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -945,7 +882,6 @@ That vanquished her — defeated Feat —
 Was Fervor's sudden [[motifs/crown|Crown]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La bella [[motifs/rain|Pioggia]] da quelle dolci Gronde  
@@ -958,8 +894,6 @@ Per trattenere il sentimento
 Che la vinse — Impresa sconfitta —  
 Fu del Fervore l'improvvisa [[motifs/crown|Corona]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="counterfeit_a_plated_person" data-title="1453. A Counterfeit — a Plated Person —" data-chapter="" data-kind="intro" data-tags="concept/truth,concept/deception,concept/identity,concept/mortality,form/epigram,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -972,7 +906,6 @@ My [[concepts/nature|Nature]] underlie —
 [[concepts/truth|Truth]] is good Health — and Safety, and the Sky.  
 How meagre, what an [[concepts/exile|Exile]] — is a Lie,  
 And Vocal — when we die —
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -984,5 +917,3 @@ Che alla mia [[concepts/nature|Natura]] soggiacciono —
 La [[concepts/truth|Verità]] è buona Salute — e Salvezza, e il Cielo.  
 Che misera cosa, quale [[concepts/exile|Esilio]] — è una Menzogna,  
 E Vocale — quando moriamo —
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

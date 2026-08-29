@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan" data-author="Eliot" data-workhref="works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(eliot)"></div>
 
 
-<<<<<<< HEAD
 Conversation Galante · La Figlia Che Piange · Sweeney Erect · The wind sprang up at four o’clock · To Walter de la Mare · A Dedication to my Wife · Circe’s Palace · On a Portrait · Nocturne · Humouresque
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="012_conversation_galante" data-title="Conversation Galante" data-chapter="" data-kind="intro"></span>
 
 

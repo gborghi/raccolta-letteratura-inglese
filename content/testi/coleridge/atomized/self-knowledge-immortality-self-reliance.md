@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/coleridge/atomized/self-knowledge-immortality-self-reliance" data-author="Coleridge" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(coleridge)"></div>
 
 
-<<<<<<< HEAD
 A FRAGMENT FOUND IN A LECTURE-ROOM · TO THE AUTHOR OF POEMS · THE SNOW-DROP · SNOW DROP. · THE PAINS OF SLEEP · PSYCHE · NATURE’S ANSWER · HUMAN LIFE · SELF-KNOWLEDGE · ON DONNE’S POEM ‘TO A FLEA · OF HUMANE LEARNING · SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL · DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM · MUSOPHILUS
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="036_a_fragment_found_in_a_lecture-room" data-title="A FRAGMENT FOUND IN A LECTURE-ROOM" data-chapter="" data-kind="intro"></span>
 
 
@@ -40,12 +37,27 @@ Then yawns propitiously a frosty smile. . . .
 1792.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dove nel fango profondo il Cam volge la sua corrente sonnolenta,  
+e palude e desolazione regnano sovrane;  
+dove tutta la Beozia annuvola il cervello nebbioso,  
+la civetta Mathesis zufola il suo canto ripugnante.  
+Lontano, lontano in disparte fuggono le Muse atterrite,   5  
+il Genio indignato aggrotta le ciglia e passa oltre:  
+i Piaceri festosi trasaliscono in mezzo alla loro [[motifs/dance|danza]],  
+e l’Arguzia congelata sta fissa in torpore invernale.  
+Ma ai suoni accorrono con zelante fretta  
+la fredda Operosità e l’Affanno dal piede guardingo;   10  
+e l’Ottusità, che sonnecchia su un giaciglio di piombo,  
+compiaciuta del canto solleva il capo pesante,  
+ascolta un poco i numeri consonanti,  
+poi sbadiglia propizia un sorriso gelido. . . .  
+[Caetera desunt.]  
+1792.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="105_to_the_author_of_poems" data-title="TO THE AUTHOR OF POEMS" data-chapter="" data-kind="intro"></span>
 
 
@@ -98,12 +110,58 @@ With fruits and [[motifs/flowers|flowers]] she loads the tempest-honor’d groun
 1795.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+JOSEPH COTTLE, PUBBLICATE ANONIME A BRISTOL NEL SETTEMBRE 1795  
+Bardo senza vanto! il cui verso conciso eppure chiaro  
+accorda a liscia melodia un senso non domato,  
+viva la tua fama senza appassire, come ‘mai secca’  
+l’Edera inghirlanda quella Quercia, la cui larga difesa  
+mi ripara dall’afoso influsso del [[motifs/noon|Mezzogiorno]]!   5  
+Ché, come quel Ruscello senza nome che scorre furtivo,  
+il tuo modesto verso, caro alla Quiete meditabonda,  
+è ricco di tinte prese in prestito dal cielo: l’occhio incantato  
+vi guarderà senza abbaglio, e [[motifs/love|amerà]] il cielo attenuato.  
+Cingendo la base del monte Poetico   10  
+v’è un fiume, che volge in pigro corso  
+le sue acque nere come carbone dalla fonte dell’Oblio:  
+gli [[motifs/birds|Uccelli]] [[motifs/poison|avvelenati]] dai vapori, che volano troppo basso,  
+cadono in picchiata morta, e vanno a [[characters/bottom|fondo]].  
+Sfuggito a quel fiume greve su ala veloce,   15  
+sotto la fronte alta e accigliata della Montagna,  
+prima che tu incontri nulla di salita perigliosa,  
+un prato d’incanto mitissimo trattiene i piedi non affaticati.  
+Non là la rupe salita fra le nubi, [[concepts/sublime|sublime]] e vasta,  
+che come un [[archetypes/king|re]] gigante incupisce il [[motifs/hill|colle]];   20  
+né là il Pineto alla raffica di mezzanotte  
+fa musica solenne! Ma il rivo incessante  
+al molle Scricciolo o al trillo discendente dell’Allodola  
+mormora dolce sottocanto fra pergole di gelsomino.  
+In questo stesso prato ameno, a tuo piacere   25  
+credo, errasti — cogliendo là [[motifs/flowers|fiori]]  
+di tinta sobria, ed erbe di poteri medicinali!  
+Là per la tomba del Soldato ucciso dal monarca  
+intrecciasti la ghirlanda incompiuta dalle tinte più tristi;  
+e a quella corona più santa aggiungesti fiori   30  
+aspergendola delle rugiade mondatrici del Giordano.  
+Ma ecco, il tuo Henderson desta la Musa ——  
+il suo Spirito chiamò dall’altezza del monte!  
+Lasciasti la piana e ti levasti fra vedute più ricche!  
+Così la [[concepts/nature|Natura]] pianse quando sprofondò la luce del Primo Giorno,   35  
+con [[motifs/stars|stelle]], prima non viste, a trapuntarle la veste di [[motifs/night|notte]]!  
+Lèvati ancora, Amico mio, fra quelle vedute più ricche,  
+forte, rapido, fervente, folgorando il raggio della Fantasia!  
+La Virtù e la [[concepts/truth|Verità]] [[motifs/love|ameranno]] il tuo canto più gentile;  
+ma la Poesia esige il tema appassionato:   40  
+destata dalle rugiade silenziose del Cielo al mite barlume della Sera,  
+quali balsamiche dolcezze spira Pomona all’intorno!  
+Ma se l’aria vessata irrompe come corrente tempestosa,  
+o la raffica stridula dell’[[motifs/autumn|Autunno]] geme in suono lamentoso,  
+di frutti e [[motifs/flowers|fiori]] ella carica il suolo onorato dalla tempesta.  
+1795.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="198_the_snow-drop" data-title="THE SNOW-DROP" data-chapter="" data-kind="intro"></span>
 
 
@@ -182,12 +240,84 @@ With Youth’s returning gleams.
 1800.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+1  
+Non [[concepts/fear|temere]] più, timido Fiore!  
+non [[concepts/fear|temere]] più la potenza dell’[[motifs/winter|inverno]],  
+il disgelo che travolge, l’acquazzone ponderoso,  
+il [[motifs/silence|silenzio]] della [[motifs/night|notte]] gelida!  
+Poiché Laura mormorò sulle tue [[motifs/leaves|foglie]]    5  
+i potenti sortilegi del canto,  
+a te, mite Fiorellino, spettano brezze più gentili  
+e cieli senza nubi.  
+2  
+Il suo occhio carico di significati lacrimosi,  
+guardò finché tutto il [[concepts/body|corpo]] si mosse   10  
+interpretando il pensiero dello Spirito —  
+l’ardente simpatia dello Spirito  
+tremò allora col tuo stelo tremante,  
+e mentre tu ti chinavi sul tuo letto,  
+con dolce simpatia inconsapevole   15  
+chinò il capo cadente.  
+3  
+Chinò il capo, distese il braccio,  
+sussurrò piano le sue rime ammalianti,  
+la Fama udì senza riluttanza l’incanto,  
+e ti portò ai climi Pierii!   20  
+Non [[concepts/fear|temere]] più la [[motifs/frost|Brina]] mattutina  
+che scintillava sul tuo letto di [[motifs/snow|neve]];  
+ché là, fra lauri sempreverdi,  
+immortale fiorirai.  
+4  
+I tuoi petali vantano un bianco più molle,    25  
+l’incanto t’ha così profumata,  
+che il distratto [[motifs/love|Amore]] spesso ti crederà  
+un fiore del suo Mirto.  
+Poi, ridendo del bell’inganno,  
+correrà con qualche [[motifs/wind|vento]] Etesio   30  
+a cercare l’intrecciato boschetto  
+dove Laura giace reclinata.  
+5  
+Tutti coloro cui [[motifs/love|Amore]] e Fantasia fanno grazia,  
+quando gli occhi più grossolani sono chiusi nel [[motifs/sleep|sonno]],  
+i gentili spiriti del luogo   35  
+sospingono su per l’erta insuperabile,  
+sulla cui vasta cima larga e liscia  
+l’Uccello Fenice cela il suo nido,  
+e dove, sovrastato da cipressi,  
+il Lete celeste scorre furtivo.   40  
+6  
+Un suono di mare spirano i rami,  
+mossi dalla Brezza che là indugia;  
+e tutti coloro che distendono le membra sotto  
+dimenticano il groviglio dell’affanno mortale.  
+Strane nebbie si levano lungo le rive,   45  
+a sanare gli ospiti che colà vengono,  
+e a render l’[[motifs/soul|anima]] atta a sopportare di nuovo  
+il suo terreno [[concepts/martyrdom|martirio]].  
+7*  
+La riva cara agli elfi del chiaro di luna,  
+dove crescono Gigli trementi allo Zefiro,    50  
+e si piegano a baciare i loro sé più molli  
+che tremano nella corrente sottostante: —  
+là, portata ogni notte, giace Laura,  
+un Sonno magico le solleva il petto:  
+il suo braccio, bianco viandante dell’Arpa,   55  
+è premuto sotto la guancia.  
+8*  
+L’Arpa appesa in alto da [[motifs/chains|catene]] d’oro  
+di quel [[motifs/wind|vento]] basso che sussurra intorno,  
+si lagna con ritroso rimprovero,  
+a strappi di suono riluttante:   60  
+la musica aleggia mezzo percepita,  
+e solo plasma i [[motifs/dreams|sogni]] della dormiente;  
+AMORI ricordati riaccendono la sua guancia  
+coi barlumi tornanti della Giovinezza.  
+1800.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="199_snow_drop" data-title="SNOW DROP." data-chapter="" data-kind="intro"></span>
 
 
@@ -245,12 +375,63 @@ Full oft where Slumber heaves her breast
 MS. erased.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Al Direttore del Morning Post.  
+Egregio Signore,  
+sono uno dei vostri molti lettori che sono stati altamente gratificati  
+da alcuni estratti dal ‘Walsingham’ della signora Robinson: mi  
+obbligherete inserendo i seguenti versi [sic] subito  
+dopo la lettura della sua bella poesia ‘The [[motifs/snow|Snow]] Drop’. — ZAGRI.  
+I ‘Versi’ non furono mai inviati, o mai apparvero nel Morning Post.  
+Al Buca[[motifs/snow|neve]].  
+1  
+Non [[concepts/fear|temere]] più la [[motifs/storm|tempesta]] invernale,  
+dolce Fiorellino, benedetto dal canto di LAURA:  
+ella guardò la tua forma sottile,  
+la mite Incantatrice guardò così a lungo  
+che, tremando nel vederti chinare,  
+povero Tremante! sul tuo letto nevoso,  
+con la simpatia dell’imitazione  
+anch’ella chinò il capo.  
+2  
+Chinò il capo, distese il braccio,  
+sussurrò piano le sue rime ammalianti:  
+una gentile Silfide udì l’incanto,  
+e ti portò ai climi Pierii!  
+Non [[concepts/fear|temere]] più la [[motifs/frost|Brina]] scintillante,  
+l’Ululato della Tempesta, il buio dell’umido di Nebbia:  
+ché così, fra lauri sempreverdi,  
+immortale fiorirai!  
+3 [Stanza 2]  
+Con ardenti [*sentimenti*] non rimproverati  
+Con [*occhio fermo e pensiero che cova*]  
+Il suo occhio carico di significati lacrimosi,  
+[*La mia Fantasia la vide guardarti*]  
+guardò finché tutto il [[concepts/body|corpo]] si mosse  
+[*Finché tutto il [[concepts/body|corpo]] in moto colse,*]  
+interpretando, la simpatia dello Spirito —  
+l’ardente simpatia dello Spirito  
+tremò allora col tuo stelo tremante,  
+e mentre tu ti chinavi sul tuo letto,  
+con dolce simpatia inconsapevole  
+chinò { il suo [*ritratto*]  
+{ il capo cadente.  
+Prima stesura delle Stanze 1-3. MS. S. T. C.  
+[[motifs/snow|Snow]]-drop’ suona così:  
+Tutto debole e smorto, col capo chino,  
+suo petto materno la [[motifs/snow|neve]] ammucchiata,  
+trema, mentre lo spietato [[motifs/wind|vento]]  
+piega la sua forma esile; la tempesta s’addensa,  
+il suo occhio di smeraldo lascia cadere acquazzoni di cristallo  
+sul suo freddo letto sottostante.  
+The Poetical Works of the late Mrs. Mary Robinson, 1806, i. 123.  
+Lungo quella riva giace Laura  
+ben spesso, dove il Sonno le solleva il petto  
+MS. cancellato.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="218_the_pains_of_sleep" data-title="THE PAINS OF SLEEP" data-chapter="" data-kind="intro"></span>
 
 
@@ -309,12 +490,64 @@ And whom I [[motifs/love|love]], I [[motifs/love|love]] indeed.
 1803.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prima di posare le membra sul letto,  
+non fu mia usanza pregare  
+con labbra in moto o ginocchia piegate;  
+ma in silenzio, per lenti gradi,  
+compongo lo spirito all’[[motifs/love|Amore]],   5  
+in umile fiducia chiudo le palpebre,  
+con reverente [[concepts/resignation|rassegnazione]],  
+nessun desiderio concepito, nessun pensiero espresso,  
+solo un senso di supplica;  
+un senso impresso su tutta la mia [[motifs/soul|anima]]   10  
+ch’io son debole, eppure non senza benedizione,  
+poiché in me, intorno a me, dovunque  
+sono Forza e Sapienza Eterne.  
+Ma ieri [[motifs/night|notte]] pregai ad alta voce  
+in angoscia e in agonia,   15  
+balzando su dalla folla diabolica  
+di forme e pensieri che mi torturavano:  
+una luce livida, una calca che calpesta,  
+senso d’intollerabile torto,  
+e coloro che disprezzavo, quelli soli forti!   20  
+Sete di [[concepts/revenge|vendetta]], la volontà impotente  
+sempre frustrata, e pur sempre ardente!  
+[[motifs/desire|Desiderio]] stranamente mescolato a ribrezzo,  
+fissato su oggetti selvaggi od odiosi.  
+Passioni fantastiche! rissa che fa impazzire!   25  
+e vergogna e terrore su tutto!  
+Atti da nascondere che non erano nascosti,  
+dei quali, tutto confuso, non sapevo  
+se li subissi o li commettessi:  
+ché tutto pareva [[concepts/guilt|colpa]], rimorso o sventura,   30  
+mia o d’altri, sempre lo stesso:  
+[[concepts/fear|paura]] che soffoca la vita, vergogna che soffoca l’[[motifs/soul|anima]].  
+Così passarono due notti: lo sgomento della [[motifs/night|notte]]  
+rattristava e stordiva il giorno che veniva.  
+Il [[motifs/sleep|Sonno]], la larga benedizione, mi parve   35  
+la peggiore calamità del malessere.  
+La terza [[motifs/night|notte]], quando il mio stesso urlo  
+m’ebbe destato dal sogno diabolico,  
+sopraffatto da patimenti strani e selvaggi,  
+piansi come fossi un [[archetypes/child|bambino]];   40  
+e avendo così, con le [[motifs/tears|lacrime]], ridotto  
+la mia angoscia a più mite umore,  
+Tali castighi, dissi, sono dovuti  
+a nature macchiate di peccato nel modo più profondo, —  
+che sempre di nuovo intempestano   45  
+l’inferno insondabile di dentro,  
+per vedere l’orrore delle loro azioni,  
+per conoscerlo e aborrirlo, eppure volerlo e farlo!  
+Tali dolori s’accordano [[motifs/well|bene]] con tali uomini,  
+ma perché, perché cadere su di me?   50  
+Esser amato è tutto ciò che mi serve,  
+e chi [[motifs/love|amo]], lo [[motifs/love|amo]] davvero.  
+1803.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="236_psyche" data-title="PSYCHE" data-chapter="" data-kind="intro"></span>
 
 
@@ -328,12 +561,19 @@ And to deform and kill the things whereon we feed.
 1808.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La farfalla gli antichi Greci fecero  
+bell’emblema dell’[[motifs/soul|anima]], e suo unico nome —  
+ma dell’[[motifs/soul|anima]] sfuggita al servile traffico  
+della vita mortale! — Ché in questa spoglia terrena  
+nostra è la sorte del rettile: molta fatica, molto biasimo,   5  
+moti molteplici che fanno poca [[characters/speed|strada]],  
+e deformare e uccidere le cose di cui ci nutriamo.  
+1808.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="247_natures_answer" data-title="NATURE’S ANSWER" data-chapter="" data-kind="intro"></span>
 
 
@@ -347,12 +587,19 @@ Then die — if die you dare!
 1811.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+È tornata come fu mandata? Non è peggiorata dall’uso?   5  
+Pensa prima a ciò che sei! Richiama alla mente ciò che eri!  
+Ti diedi innocenza, ti diedi [[concepts/hope|speranza]],  
+ti diedi salute, e ingegno, e ampio spazio.  
+Mi rendi [[concepts/guilt|colpa]], letargia, [[concepts/despair|disperazione]]?  
+Stendi l’inventario; ispeziona, confronta!   10  
+Poi muori — se osi morire!  
+1811.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="253_human_life" data-title="HUMAN LIFE" data-chapter="" data-kind="intro"></span>
 
 
@@ -389,12 +636,42 @@ Thy being’s being is contradiction.
 ? 1815.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+-SULLA NEGAZIONE DELL’[[concepts/immortality|IMMORTALITÀ]]  
+Se, morti, cessiamo d’essere; se una tenebra totale  
+[[motifs/swallow|inghiotte]] per sempre il breve lampo della vita, noi siamo  
+come raffiche d’[[motifs/summer|estate]], di nascita e fine improvvise,  
+il cui suono e moto non solo dichiarano,  
+ma sono l’intero del loro essere! Se il respiro   5  
+è la Vita stessa, e non il suo compito e la sua tenda,  
+se anche un’[[motifs/soul|anima]] come quella di [[historical-references/milton|Milton]] può conoscere la [[motifs/death|morte]];  
+o Uomo! tu vaso senza scopo, non voluto,  
+eppure strano alveare di fuchi di scopi [[characters/phantom|fantasma]]!  
+Eccedenza della tremenda attività della [[concepts/nature|Natura]],   10  
+che, mentre guardava un vaso quasi finito,  
+arretrando lenta, con pausa meditativa,  
+formò con mani inquiete inconsapevolmente.  
+Bianco accidente! anomalia del nulla!  
+Se senza radici così, così senza sostanza è il tuo stato,   15  
+va’, pesa i tuoi [[motifs/dreams|sogni]], e siano le tue speranze e le tue paure  
+i contrappesi! — Il tuo riso e le tue [[motifs/tears|lacrime]]  
+non significano che se stessi, ciascuno adattissimo a creare  
+e a ripagare l’altro! Perché gioisce  
+il tuo cuore di gioia vuota per un bene vuoto?   20  
+Perché incappucci il volto sotto il cappuccio del lutto?  
+Perché sprechi i tuoi sospiri e le tue voci lamentose,  
+Immagine d’Immagine, [[archetypes/ghost|Fantasma]] di Elfo Spettrale,  
+per il fatto che una cosa come te sente caldo o freddo?  
+Eppure quale e donde il tuo guadagno, se trattieni   25  
+queste ombre senza costo del tuo [[concepts/self|sé]] ombroso?  
+Sii triste! sii lieto! non essere né l’uno né l’altro! cerca, o fuggi!  
+Non hai ragione alcuna! non puoi averne;  
+l’essere del tuo essere è contraddizione.  
+? 1815.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="298_self-knowledge" data-title="SELF-KNOWLEDGE" data-chapter="" data-kind="intro"></span>
 
 
@@ -412,12 +689,23 @@ Ignore thyself, and strive to know thy God!   10
 1832.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+E coelo descendit ³½ö¸¹ Ãµ±ÅÄy½. — GIOVENALE, xi. 27.  
+“½ö¸¹ Ãµ±ÅÄy½! — e questo è il primo  
+e celeste adagio dell’antico [[motifs/time|tempo]]! —  
+Di’: sai fare te stesso? — Impara prima quel mestiere; —  
+forse potrai conoscere ciò che tu stesso avessi fatto.  
+Che hai, o Uomo, che tu osi chiamare tuo? — 5  
+Che c’è in te, o Uomo, che possa esser conosciuto? —  
+Flusso oscuro, del tutto infissabile dal pensiero,  
+un [[characters/phantom|fantasma]] fioco intessuto di passato e futuro,  
+vana sorella del verme, — vita, [[motifs/death|morte]], [[motifs/soul|anima]], zolla —  
+ignora te stesso, e sfòrzati di conoscere il tuo Dio!   10  
+1832.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="369_on_donnes_poem_to_a_flea" data-title="ON DONNE’S POEM ‘TO A FLEA" data-chapter="" data-kind="intro"></span>
 
 
@@ -493,12 +781,81 @@ First published in Biographia Literaria, 1817, i. 148n. First
 collected P. and D. W., 1877, ii. 370.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Siate fieri come Spagnoli! Saltate d’[[concepts/pride|orgoglio]], o Pulci!  
+d’ora innanzi grandi di Spagna nel Mondo mimico della [[concepts/nature|Natura]].  
+Negli archivi di Febo siete registrate,  
+e questo è il vostro brevetto di Nobiltà.  
+Non più saltimbanchi da poco, né più civili saltim-Giovanni,  
+temuti Antropofagi! granelli di bronzo vivo,  
+vi saluto tutte quante, senza Pro né Contro,  
+discendenti da una nobile razza di Don.  
+Che importa se quella grande Pulce ancestrale non c’è più,  
+immortale con l’immortalante Donne,  
+le sue macchie terrene sbiancate dalla chiosa d’un Papista,  
+nel [[motifs/fire|fuoco]] del purgatorio sul naso di Bardolfo.  
+1811.  
+Ora pubblicata per la prima volta da un MS.  
+[EX LIBRIS S. T. C.]  
+Questo, Hannah Scollock, può essere stato il caso;  
+la tua scritta perciò non cancellerò.  
+Ma ora questo Libro, un tempo tuo, appartiene a me,  
+il S. T. C. del Morning Post e del Courier; —  
+altrove, in Collegio, sapere, arguzia e dottrina,  
+agli Amici e al Pubblico noto come S. T. Coleridge.  
+Ne fa fede qui la mia mano, ad Ashley Green,  
+mille, due volte quattrocento, e quattordici,  
+Anno del Signore — e del mese di Novembre  
+il giorno quindicesimo, se ben ricordo.  
+15 nov. 1814. Ashley, Box, Bath.  
+Pubblicata per la prima volta in Lit. Rem., iii. 57. Prima raccolta in P. and D. W.,  
+1877, ii. 387.  
+•“©•š‘™ ‘  
+Il seguente scherzo burlesco sull’Egoismus fichtiano potrà forse  
+divertire i pochi che hanno studiato il sistema, e a coloro che  
+non lo conoscono potrà dare dell’idealismo di Fichte una somiglianza  
+tollerabile quanto ci si può attendere da una dichiarata caricatura. [S. T. C.]  
+L’Imperativo Categorico, ossia l’annuncio del Nuovo Dio Teutonico,  
+•“©•š‘™ ‘: Ode ditirambica, di QUERKOPF VON KLUBSTICK, Grammatico,  
+e Subrettore in Gymnasio. . . .  
+Eu! Dei vices gerens, ipse Divus,  
+(Parla inglese, Amico!) il Dio Imperativus,  
+qui su questa [[motifs/cross|croce]] di mercato ad alta voce grido:  
+‘Io, Io, Io! Io stesso Io!  
+La forma e la sostanza, il che e il perché,  
+il quando e il dove, e il basso e l’alto,  
+il dentro e il fuori, la terra e il cielo,  
+io, tu, ed egli, ed egli, tu e io,  
+tutte le anime e tutti i corpi sono Io stesso Io!  
+Tutto Io stesso Io!  
+(Sciocchi! tregua con questo trasalire!)  
+Tutto il mio Io! tutto il mio Io!  
+È un cane d’eretico chi solo aggiunga Betty Martin!’  
+Così gridò il Dio con alto tono imperiale:  
+in veste della più rigida cerimonia, che si beffava della [[concepts/beauty|bellezza]],  
+splendeva pronome-verbo imperativo —  
+poi, fattosi sostantivo e plurale-singolare,  
+così proseguì: — ‘Ecco, in Io solo  
+(ché l’Etica vanta una sintassi tutta sua)  
+o se in voi, pure in quanto Io vi delega,  
+in O! Io, voi, il vocativo del dovere!  
+Io, di tutto il Lessico del mondo la radice!  
+Di tutto l’universo del tatto, del suono, della vista,  
+il genitivo e per giunta l’ablativo:  
+l’accusativo del torto, il nominativo del diritto,  
+e in tutti i casi il caso assoluto!  
+Costrutto da [[concepts/self|sé]], io declino tutti gli altri modi:  
+imperativo, da nulla ci deriviamo;  
+pure, come mio super-postulato,  
+assegno un’antecedenza non costrutta  
+a X Y Z, il Dio Infinitivus!’  
+1815.  
+Pubblicata per la prima volta in Biographia Literaria, 1817, i. 148n. Prima  
+raccolta in P. and D. W., 1877, ii. 370.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="419_of_humane_learning" data-title="OF HUMANE LEARNING" data-chapter="" data-kind="intro"></span>
 
 
@@ -517,12 +874,24 @@ Who [[motifs/well|well]] remembers what he [[motifs/well|well]] can do;
 The [[concepts/faith|Faith]] lives only where the [[concepts/faith|faith]] doth breed.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+STANZA CLX  
+Ché solo quell’uomo comprende davvero,  
+e [[motifs/well|bene]] ricorda, ciò che [[motifs/well|bene]] sa fare,  
+le Leggi vivono solo dove la Legge genera  
+obbedienza alle opere cui ci vincola:  
+e come la vita della Sapienza ha espresso,  
+se questo sapete, allora fatelo, e siate benedetti.  
+LORD BROOKE.  
+Motto alle Notes on a Barrister’s Hints on Evangelical Preaching, 1810,  
+in Lit. Rem., 1839, iv. 320.  
+vv. 2,    3  
+Che [[motifs/well|bene]] ricorda ciò che [[motifs/well|bene]] sa fare;  
+La [[concepts/faith|Fede]] vive solo dove la [[concepts/faith|fede]] genera.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="420_sir_john_davies_on_the_immortality_of_the_soul" data-title="SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL" data-chapter="" data-kind="intro"></span>
 
 
@@ -552,12 +921,35 @@ Biog. Lit., Cap. xiv, 1817, II, 12; 1847, II, Cap. i, pp. 14-15. The
 alteration was first noted in 1847.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+(Sez. iv, Stanze 12-14.)  
+Senza dubbio ciò non potrebbe essere, se non perché ella volge  
+i corpi in spiriti, per strana sublimazione;  
+come il [[motifs/fire|fuoco]] converte in [[motifs/fire|fuoco]] le cose che arde;  
+come noi mutiamo i nostri cibi nella nostra [[concepts/nature|natura]].  
+Dalla loro materia grossa ella astrae le forme,   5  
+e trae dalle cose una specie di quintessenza;  
+che trasforma nella sua propria [[concepts/nature|natura]],  
+per portarle leggere sulle sue ali celesti.  
+Questo ella fa quando, dalle cose particolari,  
+astrae i generi universali,   10  
+che sono incorporei e immateriali,  
+e possono albergare solo dentro le nostre menti.  
+Stanza 12 Doubtless, &c.  
+v. 2  Bodies to spirit, &c.  
+v. 4. As we our food, &c.  
+Stanza 13, v. 1 Dalla loro materia grossa ella astrae le loro forme.  
+Stanza    14  
+Così ella fa quando, da stati individuali,  
+astrae i generi universali;  
+che poi, rivestiti di diversi nomi e destini,  
+si fanno furtivamente strada, per i nostri sensi, fino alle nostre menti.  
+Biog. Lit., cap. xiv, 1817, II, 12; 1847, II, cap. i, pp. 14-15. L’  
+alterazione fu notata per la prima volta nel 1847.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="421_donne_eclogue_on_unworthy_wisdom" data-title="DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM" data-chapter="" data-kind="intro"></span>
 
 
@@ -574,12 +966,22 @@ The alteration was first pointed out in an edition of The Friend
 issued by H. N. Coleridge in 1837.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Così gli Eremiti reclusi spesso conoscono  
+più della gloria del Cielo di quanto possa un mondano:  
+come l’Uomo è del Mondo, il Cuore dell’Uomo  
+è un Compendio del gran Libro di Dio  
+delle Creature, e gli Uomini non han bisogno di guardare oltre.  
+Questi versi sono citati da Coleridge in The Friend, 1818, i. 192; 1850,  
+i. 147. I primi due versi suonano così:  
+L’Eremita recluso spesso più conosce  
+delle ruote più intime del mondo, di quanto possano i mondani, &c.  
+L’alterazione fu segnalata per la prima volta in un’edizione di The Friend  
+curata da H. N. Coleridge nel 1837.
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="428_musophilus" data-title="MUSOPHILUS" data-chapter="" data-kind="intro"></span>
 
 
@@ -624,3 +1026,48 @@ Motto to ‘The Landing-Place’, [[forms/essay|Essay]] i, The Friend, 1818, i. 
 1850, 165. The piecing together of the lines in the second stanza of the  
 motto was first noted by J. D. Campbell, in The Athenæum, art.  
 ‘Coleridge’s Quotations,’ Aug. 20, 1892.  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+STANZA CXLVII.  
+Chi non concederà, e dunque osservi questo,  
+che nessuno stato sta sicuro se non sui fondamenti del diritto,  
+della virtù, del sapere, del giudizio da preservare,  
+e di tutte le facoltà del sapere richieste?  
+Benché altri espedienti possano servire al bisogno presente,  
+alla prova peseranno troppo poco.  
+*       *       *       *       *
+Cieca è quell’[[motifs/soul|anima]] che da questa [[concepts/truth|verità]] sa deviare  
+No state stands sure, &c.  
+Motto al [[forms/essay|Saggio]] xvi di The Friend, 1818, i. 190; 1850, i. 145. L’  
+alterazione fu notata per la prima volta nel 1837.  
+STANZE XXVII, XXIX, XXX.  
+Benché la costituzione più forte  
+logori il contagio dei giorni malati,  
+e giunga con gloria a sopravvivere a questa caduta,  
+riguadagnando un’altra [[motifs/spring|primavera]] di lode, &c.  
+Ché questi versi sono le vene e le arterie  
+e le corde vitali indefettibili di quei cuori,  
+che ancora palpiteranno, e ancora eserciteranno  
+il moto che spirito e [[concepts/nature|natura]] entrambi impartiscono,  
+e coi vivi tanto simpatizzeranno  
+che, nutriti di austere potenze, godranno delle loro parti.  
+O benedette lettere! che unite in una sola  
+tutte le età passate, e fanno vivere con tutte:  
+per voi conversiamo con chi non c’è più,  
+e chiamiamo a consiglio i morti-vivi:  
+per voi i non nati avranno comunione  
+di ciò che sentiamo, e di ciò che ci accade.  
+*       *       *       *       *
+O blessed letters, &c.  
+Poiché gli Scritti sono le Vene, le Arterie,  
+e le Corde vitali indefettibili di quei Cuori,  
+essi ancora palpiteranno e ancora eserciteranno  
+le loro potenze più possenti quando la [[concepts/nature|Natura]] non ne impartisce alcuna:  
+e la forte costituzione della loro Lode  
+logori il contagio dei giorni malati  
+Motto a ‘The Landing-Place’, [[forms/essay|Saggio]] i, The Friend, 1818, i. 215;  
+1850, 165. Il montaggio dei versi nella seconda stanza del  
+motto fu notato per la prima volta da J. D. Campbell, in The Athenæum, art.  
+‘Coleridge’s Quotations’, 20 ago. 1892.

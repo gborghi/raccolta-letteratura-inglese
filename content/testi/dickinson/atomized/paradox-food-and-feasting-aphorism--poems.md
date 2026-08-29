@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/dickinson/atomized/paradox-food-and-feasting-aphorism--poems" data-author="Dickinson" data-workhref="works/paradox-·-food-and-feasting-·-aphorism-(dickinson)" data-collection="poems"></div>
 
 
-<<<<<<< HEAD
 166. I met a King this afternoon! · 229. A Burdock — clawed my Gown — · 401. What Soft — Cherubic Creatures — · 439. Undue Significance a starving man attaches · 641. Size circumscribes — it has no room · 689. The Zeroes — taught us — Phosphorous — · 771. None can experience sting · 773. Deprived of other Banquet, · 779. The Service without Hope — · 791. God gave a Loaf to every Bird — · 796. Who Giants know, with lesser Men · 799. Despair's advantage is achieved · 806. A Plated Life — diversified · 807. Expectation — is Contentment — · 838. Impossibility, like Wine · 843. I made slow Riches but my Gain · 850. I sing to use the Waiting · 896. Of Silken Speech and Specious Shoe · 910. Experience is the Angled Road · 969. He who in Himself believes — · 1054. Not to discover weakness is · 1070. To undertake is to achieve · 1082. Revolution is the Pod · 1168. As old as Woe — · 1207. He preached upon "Breadth" till it argued him narrow — · 1223. Who goes to dine must take his Feast · 1226. The Popular Heart is a Cannon first — · 1392. Hope is a strange invention — · 1547. Hope is a subtle Glutton — · 1747. The parasol is the umbrella's daughter,
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="met_a_king_this_afternoon" data-title="166. I met a King this afternoon!" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,archetype/king,archetype/child,motif/crown,motif/horse,motif/clothing,concept/humility,concept/the_common_man,concept/innocence_and_experience,form/ballad,form/narrative_poem,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
 
 
@@ -60,7 +57,6 @@ Has the significance, on high,
 Of this Barefoot Estate!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Ho incontrato un [[archetypes/king|Re]] questo pomeriggio!  
@@ -100,8 +96,6 @@ Attorno a cui i Valletti attendono
 Abbia il significato, lassù,  
 Di questo Scalzo Regno!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="burdock_clawed_my_gown" data-title="229. A Burdock — clawed my Gown —" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/animals,motif/clothing,concept/humility,concept/satire_of_society,form/epigram,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -124,7 +118,6 @@ The Elephant's — calm eyes
 Look further on!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Bardana — mi artigliò la Veste —  
@@ -143,8 +136,6 @@ Sono i Pesciolini a poter disprezzare!
 Dell'Elefante — gli occhi calmi  
 Guardano più lontano!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="at_soft_cherubic_creatures" data-title="401. What Soft — Cherubic Creatures —" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/pride,concept/appearance_vs_reality,concept/grace_and_redemption,concept/humility,form/satire,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -166,7 +157,6 @@ Redemption — Brittle Lady —
 Be so — ashamed of Thee —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Che Soffici — Cherubiche Creature —  
@@ -184,8 +174,6 @@ Un Grado — da Pescatore —
 La Redenzione — Fragile Signora —  
 Sia così — vergognosa di Te —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="due_significance_a_starving_man_attaches" data-title="439. Undue Significance a starving man attaches" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/food_feasting,concept/desire,concept/imagination,concept/paradox,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -203,7 +191,6 @@ In the Receipt — It was the Distance —
 Was Savory —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Indebita Importanza un uomo affamato attribuisce  
@@ -217,8 +204,6 @@ Che le Spezie svaniscono
 Nella Ricetta — Era la Distanza —  
 Ad esser Saporita —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ze_circumscribes_it_has_no_room" data-title="641. Size circumscribes — it has no room" data-chapter="" data-kind="intro" data-tags="concept/pride,concept/identity,concept/self_and_soul,concept/humility,form/epigram,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -235,7 +220,6 @@ Ignores the possibility
 Of Calumnies — or Flies.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Grandezza circoscrive — non ha spazio  
@@ -248,8 +232,6 @@ Perché la grandezza intrinseca
 Ignora la possibilità  
 Di Calunnie — o Mosche.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_zeroes_taught_us_phosphorous" data-title="689. The Zeroes — taught us — Phosphorous —" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/winter,motif/white_and_red,concept/paradox,concept/innocence_and_experience,concept/education,concept/joy,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -265,7 +247,6 @@ Paralysis — our Primer — dumb —
 Unto Vitality!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Gli Zeri — ci insegnarono — il Fosforo —  
@@ -277,8 +258,6 @@ Se Bianco — un Rosso — dev'esserci!
 Paralisi — il nostro Sillabario — muto —  
 Verso la Vitalità!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="ne_can_experience_sting" data-title="771. None can experience sting" data-chapter="" data-kind="intro" data-tags="concept/paradox,concept/poverty,concept/suffering,concept/truth,form/lyric,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -295,7 +274,6 @@ The [[concepts/poverty|Poverty]] that was not Wealth —
 Cannot be Indigence.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Nessuno può provare stento  
@@ -308,8 +286,6 @@ Acquisita per Rovescio —
 La [[concepts/poverty|Povertà]] che non fu Ricchezza —  
 Non può essere Indigenza.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="prived_of_other_banquet" data-title="773. Deprived of other Banquet," data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/food_feasting,motif/birds,concept/poverty,concept/self_reliance,concept/charity,concept/paradox,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -331,7 +307,6 @@ A Berry from our table
 Reserve — for [[concepts/charity|charity]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Privata d'altro Banchetto,  
@@ -349,8 +324,6 @@ Rosso [[archetypes/pilgrim|Pellegrino]], Lui ed io —
 Una Bacca della nostra tavola  
 Riserviamo — per [[concepts/charity|carità]] —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_service_without_hope" data-title="779. The Service without Hope —" data-chapter="" data-kind="intro" data-tags="concept/hope,concept/humility,concept/paradox,concept/charity,form/lyric,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -367,7 +340,6 @@ There is no Diligence like that
 That knows not an Until —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Servizio senza [[concepts/hope|Speranza]] —  
@@ -380,8 +352,6 @@ E impeto di Meta —
 Non c'è Diligenza come quella  
 Che non conosce un Fino a quando —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="d_gave_a_loaf_to_every_bird" data-title="791. God gave a Loaf to every Bird —" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/birds,motif/money_gold,motif/crown,concept/poverty,concept/wonder_and_gratitude,concept/paradox,concept/joy,concept/providence,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -408,7 +378,6 @@ I deem that I — with but a Crumb —
 Am Sovereign of them all —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 [[characters/god|Dio]] diede una Pagnotta a ogni Uccello —  
@@ -431,8 +400,6 @@ Un Mercante delle Indie — un Conte —
 Ritengo che Io — con una sola Briciola —  
 Sia Sovrana di tutti loro —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_giants_know_with_lesser_men" data-title="796. Who Giants know, with lesser Men" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/greatness,concept/alienation,form/epigram,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -449,7 +416,6 @@ Unconscious that his single Fleet
 Do not comprise the skies —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chi conosce Giganti, con Uomini minori  
@@ -462,8 +428,6 @@ Il Moscerino d'[[motifs/summer|Estate]] lo mostra —
 Inconsapevole che la sua unica Flotta  
 Non comprende i cieli —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="spairs_advantage_is_achieved" data-title="799. Despair's advantage is achieved" data-chapter="" data-kind="intro" data-tags="concept/despair,concept/suffering,concept/paradox,concept/mortality,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -486,7 +450,6 @@ Affliction feels impalpable
 Until Ourselves are struck —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il vantaggio della [[concepts/despair|Disperazione]] è conquistato  
@@ -505,8 +468,6 @@ Come il nostro stesso assaggiare —
 L'Afflizione pare impalpabile  
 Finché Noi stessi non siamo colpiti —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="plated_life_diversified" data-title="806. A Plated Life — diversified" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/suffering,concept/self_and_soul,concept/paradox,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -523,7 +484,6 @@ Although Annihilation pile
 Whole Chaoses on Him —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Una Vita Placcata — variegata  
@@ -536,8 +496,6 @@ Un Potere — proclamerà
 Benché l'Annientamento ammassi  
 Interi Caos su di Lui —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="pectation_is_contentment" data-title="807. Expectation — is Contentment —" data-chapter="" data-kind="intro" data-tags="concept/desire,concept/paradox,concept/patience_and_waiting,concept/joy,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -554,7 +512,6 @@ Is a too established Fortune —
 Danger — deepens Sum —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Attesa — è Appagamento —  
@@ -567,8 +524,6 @@ Il Bene, senza allarme
 È una Fortuna troppo assestata —  
 Il Pericolo — approfondisce la Somma —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="possibility_like_wine" data-title="838. Impossibility, like Wine" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/the_unattainable,concept/desire,concept/paradox,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -585,7 +540,6 @@ Enchantment makes ingredient
 As certainly as Doom —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Impossibilità, come Vino  
@@ -598,8 +552,6 @@ E nel primo Sorso
 L'Incanto si fa ingrediente  
 Certo quanto il Destino —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="made_slow_riches_but_my_gain" data-title="843. I made slow Riches but my Gain" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/sun,concept/patience_and_waiting,concept/childhood_and_growth,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -616,7 +568,6 @@ Inferred the less by Growing than
 The Sum that it had grown.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Feci lente Ricchezze ma il mio Guadagno  
@@ -629,8 +580,6 @@ Ma il mio impercettibile Guadagno
 Si deduceva meno dal Crescere che  
 Dalla Somma a cui era cresciuto.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="sing_to_use_the_waiting" data-title="850. I sing to use the Waiting" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/night,motif/home,concept/patience_and_waiting,concept/hope,concept/faith,form/hymn,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -647,7 +596,6 @@ And tell each other how We sung
 To Keep the Dark away.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Canto per usare l'Attesa  
@@ -660,8 +608,6 @@ Noi si [[motifs/journey|viaggi]] verso il Giorno
 E ci diciamo l'un l'altra come cantammo  
 Per Tenere lontano il Buio.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_silken_speech_and_specious_shoe" data-title="896. Of Silken Speech and Specious Shoe" data-chapter="" data-kind="intro" data-tags="archetype/trickster,motif/clothing,motif/marriage,concept/deception,concept/satire_of_society,form/epigram,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -679,7 +625,6 @@ Continual Ban propoundeth He
 Continual Divorce.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Di Serica Parola e Speciosa Scarpa  
@@ -693,8 +638,6 @@ Protratto quanto la Brezza
 Continuo Bando propone Egli  
 Continuo Divorzio.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="perience_is_the_angled_road" data-title="910. Experience is the Angled Road" data-chapter="" data-kind="intro" data-tags="motif/the_road,concept/fate_and_free_will,concept/paradox,concept/endurance,form/epigram,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -711,7 +654,6 @@ Compelling Him to Choose Himself
 His Preappointed [[motifs/pain|Pain]] —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 L'Esperienza è la [[motifs/road|Strada]] Angolata  
@@ -724,8 +666,6 @@ La Disciplina dell'Uomo —
 Che Lo costringe a Scegliersi da Sé  
 La Sua [[motifs/pain|Pena]] Prestabilita —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_who_in_himself_believes" data-title="969. He who in Himself believes —" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/conscience,concept/identity,concept/self_and_soul,form/epigram,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -742,7 +682,6 @@ But defaced Vicariously —
 For Some Other Shame —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chi in Se stesso crede —  
@@ -755,8 +694,6 @@ Ogni seconda [[motifs/time|volta]] —
 Ma sfigurata per Procura —  
 Per la Vergogna di Qualcun Altro —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="t_to_discover_weakness_is" data-title="1054. Not to discover weakness is" data-chapter="" data-kind="intro" data-tags="motif/the_clock,concept/paradox,concept/faith,concept/appearance_vs_reality,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -773,7 +710,6 @@ Behind the most unconscious [[motifs/clock|clock]]
 What skilful Pointers move —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Non scoprire debolezza è  
@@ -786,8 +722,6 @@ Quanto per il Nervo Piramidale
 Dietro il più inconsapevole [[motifs/clock|orologio]]  
 Che abili Lancette muove —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_undertake_is_to_achieve" data-title="1070. To undertake is to achieve" data-chapter="" data-kind="intro" data-tags="concept/heroism,concept/paradox,concept/faith,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -804,7 +738,6 @@ Departed Standards and the few
 Criterion Sources here
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Intraprendere è compiere  
@@ -817,8 +750,6 @@ Ammesse a riverire
 Norme Dipartite e le poche  
 Fonti di Criterio qui
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="volution_is_the_pod" data-title="1082. Revolution is the Pod" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,concept/reform,concept/paradox,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -840,7 +771,6 @@ Revolution shakes it for
 Test if it be dead.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La Rivoluzione è il Baccello  
@@ -858,8 +788,6 @@ Fuggita tutta la sua Porpora
 La Rivoluzione la scuote per  
 Provare se sia morta.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_old_as_woe" data-title="1168. As old as Woe —" data-chapter="" data-kind="intro" data-tags="motif/time,concept/melancholy,concept/joy,concept/paradox,form/aphorism,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -878,7 +806,6 @@ From neither of them tho' he try
 Can Human [[concepts/nature|nature]] hide
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Antico quanto il Dolore —  
@@ -893,8 +820,6 @@ Ma di rado fianco a fianco
 Da nessuno dei due, per quanto tenti  
 Può l'umana [[concepts/nature|natura]] celarsi
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="_preached_upon_breadth_till_it_argued_him_narrow" data-title="1207. He preached upon &quot;Breadth&quot; till it argued him narrow —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/appearance_vs_reality,concept/deception,concept/satire_of_society,form/satire,form/lyric,histref/christianity,character/christ,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -913,7 +838,6 @@ What confusion would cover the [[archetypes/innocent|innocent]] Jesus
 To meet so enabled a Man!
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 LUI ANGUSTO —  
@@ -928,8 +852,6 @@ Come l'Oro schiverebbe la Pirite —
 Quale confusione coprirebbe l'[[archetypes/innocent|innocente]] Gesù  
 Nell'incontrare un Uomo così dotato!
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="o_goes_to_dine_must_take_his_feast" data-title="1223. Who goes to dine must take his Feast" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/imagination,concept/identity,concept/self_and_soul,form/aphorism,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -946,7 +868,6 @@ Our most ignoble Services
 Exhibit worthier.
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Chi va a pranzo deve portare il suo Banchetto  
@@ -959,8 +880,6 @@ Perché imitandola
 I nostri più ignobili Servigi  
 Si mostrino più degni.
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_popular_heart_is_a_cannon_first" data-title="1226. The Popular Heart is a Cannon first —" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,motif/bells,motif/wine_and_drink,concept/satire_of_society,concept/the_common_man,concept/disillusionment,form/satire,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -977,7 +896,6 @@ Ditches for Realms and a Trip to Jail
 For a Souvenir —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 Il Cuore Popolare è un Cannone prima —  
@@ -990,8 +908,6 @@ Né un Passato che guardi fisso —
 Fossi per Regni e una Gita in Prigione  
 Per Ricordo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="pe_is_a_strange_invention" data-title="1392. Hope is a strange invention —" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/self_and_soul,concept/joy,concept/faith,form/epigram,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -1008,7 +924,6 @@ But its unique momentum
 Embellish all we own —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[concepts/hope|Speranza]] è una strana invenzione —  
@@ -1021,8 +936,6 @@ Nulla è conosciuto
 Se non l'unico suo slancio  
 Abbellisce quanto abbiamo —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="pe_is_a_subtle_glutton" data-title="1547. Hope is a subtle Glutton —" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/hope,concept/paradox,concept/desire,form/epigram,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -1039,7 +952,6 @@ And whatsoever is consumed
 The same amount remain —
 
 
-<<<<<<< HEAD
 <span class="qlang-split" data-lang="it"></span>
 
 La [[concepts/hope|Speranza]] è un sottile Ghiottone —  
@@ -1052,8 +964,6 @@ Che non ospita mai che Uno —
 E qualunque cosa sia consumata  
 La stessa quantità rimane —
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 
 
 <span class="atom-split" data-atom="e_parasol_is_the_umbrellas_daughter" data-title="1747. The parasol is the umbrella's daughter," data-chapter="" data-kind="intro" data-tags="motif/clothing,motif/storm,concept/appearance_vs_reality,concept/satire_of_society,form/epigram,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -1068,7 +978,6 @@ The former assists a siren
 In her serene display;  
 But her father is borne and honored,  
 And borrowed to this day.
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1082,5 +991,3 @@ La prima assiste una sirena
 Nel suo sereno sfoggio;  
 Ma suo padre è portato e onorato,  
 E preso in prestito ancor oggi.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65

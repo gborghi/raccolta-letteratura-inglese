@@ -11,14 +11,11 @@ tags:
 <div class="atom-reader" data-work="testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight" data-author="Keats" data-workhref="works/appearance-vs-reality-·-beauty-·-eyes-and-sight-(keats)"></div>
 
 
-<<<<<<< HEAD
 TO * * * * · To G. A. W · To the Ladies who Saw Me Crown’d · Sharing Eve’s Apple · Sonnet Written in Answer to a Sonnet Ending thus: · Oh, I am frighten’d with most hateful thoughts! · Sonnet to Sleep
 
 
 
 
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
 <span class="atom-split" data-atom="005_to" data-title="TO * * * *" data-chapter="" data-kind="intro"></span>
 
 

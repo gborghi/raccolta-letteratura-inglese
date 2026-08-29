@@ -17,7 +17,6 @@ tags:
 DEAR FRIEND:—
 
 To try to speak, and miss the way, And ask it of the [[motifs/tears|tears]], Is gratitude's sweet [[concepts/poverty|poverty]], The tatters that he wears. A better coat, if he possessed, Would help him to conceal, Not subjugate, the mutineer Whose title is “the [[motifs/soul|soul]].”
-<<<<<<< HEAD
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -25,5 +24,3 @@ To try to speak, and miss the way, And ask it of the [[motifs/tears|tears]], Is 
 Caro amico:—
 
 Cercare di parlare, ma sbagliare il modo. Chiederlo alle  lacrime. È questa la dolce „povertà“ della gratitudine, i brandelli che essa indossa. Un mantello migliore, se ne possedesse uno, gli aiuterebbe a nascondere. Non certo a sottomettere, quel ribelle il cui vero nome è “l’anima”.
-=======
->>>>>>> c282309fe5e7c704a7416b43829bed1e031e8f65
