@@ -441,7 +441,7 @@ Prese con un certo distacco una pagina di carta e scrisse quanto segue: un passa
 
 “Questo libro arriva in un momento assolutamente opportuno. Non è generalmente noto che il Professor Charles sia stato il primo a sottolineare l’immensa importanza dell’educazione della mente nell’insegnamento dei bambini. Fu nel maggio del 1875 che fece questa osservazione in presenza di Mr. Gladstone, il quale rimase così colpito dalla profondità e dalla novità di questo punto di vista da scrivere una lunga e interessante cartolina sull’autore a un amico dell’attuale autore. Il Professor Charles può essere definito – anzi, lui stesso si definisce – un ‘uomo fatto da sé’. Nato a Huddersfield da genitori tessitori in quella incantevole città del nord, fin da giovane fu affascinato dagli studi di scienze naturali e riuscì ad essere ammesso all’Università Alexandrovna, ”
 
-# E così via… tratto da “Chi è chi”.
+E così via… tratto da “Chi è chi”.
 
 “Ma questo non sarebbe stato sufficiente per il suo crescente genio.”
 
@@ -619,7 +619,7 @@ Nelle stesse strutture è possibile reperire liste molto complete di parole effi
 
 {
 
-# Assoluto
+Assoluto
 
 }
 
@@ -637,7 +637,7 @@ Creative
 
 {
 
-# Bestiale
+Bestiale
 
 }
 
@@ -647,7 +647,7 @@ Intenso
 
 }
 
-#"C'è qualcosa..."
+"C'è qualcosa..."
 
 {
 
@@ -657,7 +657,7 @@ Autoritario
 
 “In stile del signor — —”.
 
-# Di, davvero
+Di, davvero
 
 {
 
@@ -665,7 +665,7 @@ Ampitheatrical
 
 }
 
-# La signora — —
+La signora — —
 
 {
 
@@ -673,7 +673,7 @@ Scaduto
 
 }
 
-# Miss — — ‘s
+Miss — — ‘s
 
 {
 
@@ -695,13 +695,13 @@ Casuale
 
 {
 
-# Alcalino
+Alcalino
 
 }
 
 {
 
-# Zenotic
+Zenotic
 
 }
 
@@ -713,13 +713,13 @@ In questo, come in ogni altro settore pratico, un esempio concreto vale più di 
 
 Un giovane poeta in pericolo.
 
-# "Pereant qui Nostra" di Mr. Mayhem
+"Pereant qui Nostra" di Mr. Mayhem
 
 Temo che con “Pereant Qui Nostra”, il signor Mayhem non abbia affatto migliorato la sua reputazione; anzi, si potrebbe persino dubitare che sia stata una buona idea pubblicarlo. “Tufts in an Orchard” prometteva molto, e l’autore di quelle splendide parole avrebbe potuto tranquillamente accontentarsi della fama immediata ottenuta con quel primo lavoro.
 
 “Signore, guarda verso l’Inghilterra; l’Inghilterra guarda verso di te.”
 
-#E, davvero…
+E, davvero…
 
 “I grandi vampiri sinceri e la luna”
 
@@ -815,7 +815,7 @@ ON POLITICAL APPEALS.
 
 “Babbler of Hell, importunate mad fiend, dead canker, crested worm” – queste espressioni sono vigorose e originali, ma non bastano a salvare il sonetto. E per quanto riguarda le ultime due righe.
 
-#"Non cercare mai di penetrare lo scudo invisibile degli anni."
+"Non cercare mai di penetrare lo scudo invisibile degli anni."
 
 “Per quello certamente non potresti mai farlo.”
 
@@ -823,11 +823,11 @@ Se diciamo che l’ordine delle righe crea un effetto di totale ridicolo, il sig
 
 Forse i difetti e le qualità di Mr. Mayhem, i suoi limiti “fruttuosi” e le sue ispirazioni energiche possono essere apprezzati al meglio se citiamo il seguente sonetto; inoltre, questo esercizio ci offrirà l’opportunità (che sicuramente Mr. Mayhem non rimprovererà a un vecchio amico come noi) di evidenziare i pericoli nei quali le sue nuove tendenze potrebbero portarlo.
 
-#Inghilterra, se mai dovesse toccarti questo destino…
+Inghilterra, se mai dovesse toccarti questo destino…
 
 Per volere del destino o per caso fortuito
 
-# Da timori meschini di non essere grandi
+Da timori meschini di non essere grandi
 
 E nel torneo con la lancia scomposta…
 
@@ -1869,15 +1869,15 @@ Queste due cose, dunque, la sua pigrizia e la sua esitazione nel criticare, impe
 
 Ma piuttosto, con un’agilità antichissima…
 
-# Di merito perfetto, essi rimangono.
+Di merito perfetto, essi rimangono.
 
-# Trascinati lontano dalla brutale realtà… rimanete così.
+Trascinati lontano dalla brutale realtà… rimanete così.
 
 E nel flusso e nel vortice del tempo, rimangono ancora lì.
 
-#Sabbia consacrata
+Sabbia consacrata
 
-# Dove lasciarono le loro tracce, senza più dolore…
+Dove lasciarono le loro tracce, senza più dolore…
 
 “Un erede della terra inglese… che la terra inglese lo accetti.”
 
@@ -1989,7 +1989,7 @@ Ricevette una risposta quella stessa sera: —
 
 “Telegraph, ‘Vindex.’” W.C.
 
-# “Dottor Sir”
+“Dottor Sir”
 
 “Il vostro gentile favore è a disposizione. Poiché non sono state incluse alcune stampe con i versi, le abbiamo mantenute così come erano; tuttavia le invieremo non appena riceveremo due stampe, comprese anche le spese relative a queste.”
 
@@ -1997,7 +1997,7 @@ Ricevette una risposta quella stessa sera: —
 
 “Alphonse Riphraim.”
 
-# Modifica di indirizzo.
+Modifica di indirizzo.
 
 A causa di questo, Peter Gurney si arrabbiò così tanto che andò direttamente al suo club, compose il numero 239 e disse personalmente, a voce alta e con enfasi, all’editore del “Patriot” che era un sostenitore dei Boeri; poi riattaccò prima che quel straniero stupito avesse il tempo di rispondere.
 
@@ -2017,7 +2017,7 @@ Per quanto riguarda il suo poema, cambiò il titolo in “Vivono!” e lo inviò
 
 "The Laurels"
 
-# 20, Poplar Grove
+20, Poplar Grove
 
 “S.W.
 
@@ -2032,7 +2032,7 @@ Per dire che la mancanza di spazio e la pressione della materia…
 
 Proibitegli di utilizzare i vostri deliziosi versi.
 
-#Che quindi ritorna… Credimi ancora.
+Che quindi ritorna… Credimi ancora.
 
 Con sincera cordialità, Nathaniel Pickersgill.
 
@@ -2134,7 +2134,7 @@ Lo studente, in un momento o nell’altro, avrà provato forti emozioni. Avrà d
 
 Non riesco a passare da un sonno all’altro.
 
-#Vivere appieno per assaporare fino in fondo tutto ciò che la vita ha da offrire
+Vivere appieno per assaporare fino in fondo tutto ciò che la vita ha da offrire
 
 “La soddisfazione dell’aria comune”.
 
@@ -2146,13 +2146,13 @@ Prenderò prima lo stile semplice o quello colloquiale. Scegliete un soggetto ch
 
 Di Pimpernel è abbastanza facile scrivere; ha abitudini straordinarie, non è né disgustoso né comune. Sarebbe molto più difficile scrivere, ad esempio, di erba o prezzemolo.
 
-# Prima scrivi tutto ciò che ti viene in mente, così: —
+Prima scrivi tutto ciò che ti viene in mente, così: —
 
 “La graziosa piccola Pimpernel”
 
 “Posso imparare ad amarti davvero bene?”
 
-#Continua nello stesso stile di “Twinkle, twinkle…”
+Continua nello stesso stile di “Twinkle, twinkle…”
 
 "#Nascosto nell’ombra umida del muschio..."
 
@@ -2174,9 +2174,9 @@ Non vi annoierò con tutti i dettagli del processo, ma annoterò il mio risultat
 
 “Piccolo e insipido Pimpernel…”
 
-# Shepherd’s Holt e la maledizione di avvertimento
+Shepherd’s Holt e la maledizione di avvertimento
 
-# Nascondendosi nell’ombra fresca
+Nascondendosi nell’ombra fresca
 
 “Come un mondo fatto di seta…”
 
@@ -2190,11 +2190,11 @@ Nei suoi inizi, derivava dai capricci di alcuni gentiluomini e signore che aveva
 
 Ma quel primo stato di estasi sacra non può essere più ritrovato. Dobbiamo agire seguendo delle regole. Le regole relative a questo tipo di lavoro sono sei: —
 
-# Mettere il verbo nel posto sbagliato (alcuni lo omettono del tutto)
+Mettere il verbo nel posto sbagliato (alcuni lo omettono del tutto)
 
-# Utilizzare parole che possano essere sia verbi che nomi: i plurali sono molto utili.
+Utilizzare parole che possano essere sia verbi che nomi: i plurali sono molto utili.
 
-#Punteggiatura insufficiente
+Punteggiatura insufficiente
 
 Utilizzare in modo particolare frasi che hanno due o tre significati.
 
@@ -2278,7 +2278,7 @@ To see the yellow mustard grow!
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lascia fuori i parenti
+Lascia fuori i parenti
 
 (6) Le frasi complete vanno poste in posizione avversativa.
 
@@ -2292,11 +2292,11 @@ Sono particolarmente scarsi. Chiunque potrebbe risultare oscuro in un modo così
 
 Inizio con “What Pimpernels”, il che potrebbe significare “Che cosa! Pimpernels?”, oppure semplicemente “What Pimpernels?”, o ancora “What Pimpernels!”; espressioni che rivelano sorpresa, una domanda o ammirazione sbalordita. Ma pensate davvero che rivelerò subito di cosa si tratta? Assolutamente no. C’è qualcosa nel carattere delle persone della nostra isola che ama il mistero. Qualcosa tipico del Nord. Mi lusingo di saperlo fare alla perfezione.
 
-#"Che delizia rara… una vera gratificazione"
+"Che delizia rara… una vera gratificazione"
 
-#Inverni sprecati sotto soli imperfetti
+Inverni sprecati sotto soli imperfetti
 
-# E i pimpernel sono ormai al tramonto…
+E i pimpernel sono ormai al tramonto…
 
 Una mano sconosciuta veste con noncuranza l’inverno…
 
@@ -2320,13 +2320,13 @@ Chi non ha mai visto crescere la senape?
 
 Il senape giallo non è da meno
 
-# Il dono divino della solitudine
+Il dono divino della solitudine
 
-#E fu pubblicato con una copertina magnifica.
+E fu pubblicato con una copertina magnifica.
 
 Per far tintinnare le chiavi nel mio dolore.
 
-#Ho sentito di nuovo il canto del cuculo
+Ho sentito di nuovo il canto del cuculo
 
 Vieni qui, Dolore! vieni qui, Dolore!
 
@@ -2337,13 +2337,13 @@ Vagare sotto la pioggia estiva.
 
 Lontano dal luogo degli uomini…
 
-#E ardendo come un enorme disonore…
+E ardendo come un enorme disonore…
 
-# Mi colpì con violenza in faccia
+Mi colpì con violenza in faccia
 
 Il simbolo della razza dei senape.
 
-# Vedere crescere il senape giallo
+Vedere crescere il senape giallo
 
 Oltre la città, sopra, sotto…
 
@@ -2465,7 +2465,7 @@ Ecco il signor Caliban; dopo essersi fermato per un momento, come se cercasse qu
 
 "#Molte gemme di luce pura e serena"
 
-# Le oscure e insondabili caverne degli abissi marini
+Le oscure e insondabili caverne degli abissi marini
 
 Molte fioriture nascono soltanto per sbocciare nell’oscurità.
 
@@ -2909,7 +2909,7 @@ Mem.: Una preposizione può iniziare con una lettera maiuscola?
 
 Ascoltate e prestate attenzione ai miei Eletti: mi avete udito.
 
-#Gente mia
+Gente mia
 
 Dall’Oriente…
 
@@ -2917,25 +2917,25 @@ Con un’introduzione?
 
 Mem.: Alternativa: “con una borsa e una coperta”.
 
-#Io sono venuto e le nazioni hanno tremato: portavo il Segno
+Io sono venuto e le nazioni hanno tremato: portavo il Segno
 
-# Con un ■■■■■■■■■■■■
+Con un ■■■■■■■■■■■■
 
 ■■■■■■■
 
 Che gloria c’è in me?
 
-# La bestia
+La bestia
 
 Bene!
 
-# Cento libri… sì, addirittura centouno!
+Cento libri… sì, addirittura centouno!
 
 Di tutte le fatiche umane svolte sotto il sole…
 
-# Secondo “sì”? Lo zio dice “cancella”.
+Secondo “sì”? Lo zio dice “cancella”.
 
-# E mi avvolsi di terrore: Sì! Coprii ogni mio passo con la paura.
+E mi avvolsi di terrore: Sì! Coprii ogni mio passo con la paura.
 
 E le donne furono stupite dalle cose orribili che dissi.
 
@@ -2943,7 +2943,7 @@ Gli uomini della Razza Insulare… alcuni di loro si annoiavano terribilmente.
 
 Ma la maggior parte di loro mi pagò bene; e io lodai il Signore.
 
-# E quando… mentre lo spirito era in pieno vigore… ho riso sottovoce, ho bevuto avidamente e ho pronunciato giuramenti.
+E quando… mentre lo spirito era in pieno vigore… ho riso sottovoce, ho bevuto avidamente e ho pronunciato giuramenti.
 
 Dick dice che “Days of Yore” sia una cosa comune. Sangue? Orrore? Storie antiche? Qualcos’altro? Per il momento, consulta anche Emily al riguardo.
 
@@ -2951,13 +2951,13 @@ Come hanno fatto gli uomini prima di me, gli uomini dei tempi passati…
 
 (?)
 
-# Quando lo spirito era pieno… ma quando era raro e debole
+Quando lo spirito era pieno… ma quando era raro e debole
 
 Ho copiato i Salmi a caso. E guarda un po’: è proprio così che era!
 
 ■■■■■■■
 
-# Chiedi a ■■■■■■■
+Chiedi a ■■■■■■■
 
 Editore
 
@@ -2975,39 +2975,39 @@ Della Chiesa dei Ultimi Giorni, la setta di Re Salomone, che è davvero molto st
 
 (Intrappolato.)
 
-# Il destino degli Anglosassoni… gridatelo ad alta voce
+Il destino degli Anglosassoni… gridatelo ad alta voce
 
 , ci stai riprovando di nuovo?, torni tra la folla?
 
-# Ricorda… Devono essere consecutivi
+Ricorda… Devono essere consecutivi
 
 Le cose non sono più come una volta (comune).
 
-# Mai cancellare il passato
+Mai cancellare il passato
 
 Le cose non sono come dovrebbero essere. Le cose e i cambiamenti.
 
 Cose e, altre cose ancora.
 
-# Lascia che sia qualcun altro a occuparsene
+Lascia che sia qualcun altro a occuparsene
 
 E alcuni di voi stanno in posizione strategica… Sono gli uomini più fortunati.
 
-# Quando… la memoria è buona… – utilizzato in “Horeb”.
+Quando… la memoria è buona… – utilizzato in “Horeb”.
 
 Ma altri sono lontano, in un altro campo… e di tanto in tanto…
 
-#Quando tutto sarà finito, attraverseranno dall’altra parte…
+Quando tutto sarà finito, attraverseranno dall’altra parte…
 
 Qualcosa che stanca il corpo e ferisce l’orgoglio.
 
 Dovrà andarsene.
 
-# I ministri del gabinetto giocano a un gioco che tutti dovrebbero evitare
+I ministri del gabinetto giocano a un gioco che tutti dovrebbero evitare
 
-# Si gioca con piccoli pipistrelli e una pallina di celluloide
+Si gioca con piccoli pipistrelli e una pallina di celluloide
 
-# Una piccola rete sul tavolo… conosciuta con quel nome.
+Una piccola rete sul tavolo… conosciuta con quel nome.
 
 Ping e Pong.
 
@@ -3483,7 +3483,7 @@ Un contenuto diffamatorio può essere eliminato. Un semplice errore di informazi
 
 Finalmente, quando avrete preso la vostra decisione, tornate indietro, sbloccate il sistema, pagate e congedatevi. Non pagate mai con assegno. Ricordate quanto sia breve il tempo a vostra disposizione. Ricordate che, se il vostro giornale non pubblicherà un resoconto davvero accurato quando verrà presentato, qualche altro giornale lo farà. Ricordate i “Times”, la “Chronicle” e il maggiore Esterhazy. Ricordate anche le dimissioni di Mr. Gladstone.
 
-# Ricorda il “Maine”.
+Ricorda il “Maine”.
 
 Alcuni esempi pratici ci aiuteranno a comprendere queste regole astratte.
 
@@ -3599,7 +3599,7 @@ Quando il dottor Caliban ed io eravamo soli, aprì l’involucro sigillato e les
 
 “La seguente lettera è stata accettata dal ‘Spectator’ e verrà pubblicata la prossima settimana.” A questo biglietto era attaccato un foglio di carta da nota piuttosto sporco, su cui era scritta la seguente lettera:
 
-# Castello di Balcarry
+Castello di Balcarry
 
 Contea di Mayo.
 
@@ -3607,7 +3607,7 @@ Contea di Mayo.
 
 Al Redattore del “Spectator”.
 
-# Caro Signore,
+Caro Signore,
 
 Tra le vostre storie umoristiche irlandesi, forse la seguente meriterà di essere inclusa. Un caro zio mio, fratellastro di mio padre e marito della talentuosa E. J. S., fu vescovo di Killibardine: un prelato di grande distinzione e notevole senso dell’umorismo.
 
@@ -3816,9 +3816,9 @@ Fuori furono stampati immediatamente. Da allora non hanno mai più subito alcuna
 
 I.
 
-# 497, Jubilee Row
+497, Jubilee Row
 
-# B’ham
+B’ham
 
 19.7.’99.
 
@@ -3842,7 +3842,7 @@ Sicilia.
 
 Ecco, le feste dell’Assunzione della T.S.V.
 
-# Vecchio Stile
+Vecchio Stile
 
 L’anno del N.S.J.C. MCM.
 
@@ -3852,9 +3852,9 @@ Monsieur Mon Frère. Vi inviamo i nostri ringraziamenti per i vostri auguri e vi
 
 Si prega di accettare, Signor Mio Fratello, l’espressione della nostra più distinta considerazione reale.
 
-# Orléans
+Orléans
 
-# Pour le Roy
+Pour le Roy
 
 Magro.
 
@@ -3869,9 +3869,9 @@ Uffici del Secolo
 
 Parigi
 
-# Capoluogo di
+Capoluogo di
 
-# Dipartimento della Senna
+Dipartimento della Senna
 
 Francia.
 
@@ -3879,7 +3879,7 @@ Francia.
 
 Mio caro Kruger. È evidentemente necessario che parli con te in modo chiaro e diretto. Non posso dilungarmi in lunghe spiegazioni, ma se leggerai i libri che ti invio – “L’Origine delle specie” di Darwin, la sociologia di Spencer, l’“Evoluzione dell’idea di Dio” di Grant Allen, ecc. – capirai perché non posso sostenerti in questa tua proposta. Quanto alla tua offerta spregevole, la rifiuto con disprezzo. Solo il mio nome dovrebbe bastare a proteggermi da simili insulti. Voglio che tu sappia che il mio articolo rappresenta l’opinione francese in Inghilterra e attualmente appartiene a una società internazionale; io ne sono l’editore insostituibile.
 
-# Con riserva tua
+Con riserva tua
 
 Yves Guyot.
 
@@ -3889,9 +3889,9 @@ IV.
 
 Il Capellano
 
-# Barford College
+Barford College
 
-# Vecchia Festa di Santa Winifreda
+Vecchia Festa di Santa Winifreda
 
 1900.
 

@@ -5027,7 +5027,7 @@ The clerk answered that he must consult his principal again, and Mr. Bailey, res
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIII
+# CAPITOLO XIII
 
 La mattina seguente, il signor Bailey si svegliò all’alba: una cosa rara per lui e anche sgradevole. Non suonò la campanella; forse sperava di poter continuare a dormire, ma si sentiva stranamente sveglio. La mattina era fresca; andò ad aprire le tende e spalancò la finestra verso il giorno, respirando profondamente quell’aria fresca e pulita. Il suo cervello, sempre pieno di idee, era già attivo e pronto a elaborare nuovi piani. Stava cercando qualcosa da “devorare”.
 
@@ -5417,7 +5417,7 @@ This simple remark elicited on every side large shouts of “You’re quoite roi
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIV
+# CAPITOLO XIV
 
 Vicino al grande capanno del signor Clay c’era un ufficio che, durante il giorno, veniva utilizzato dal responsabile del controllo degli orari. Quella notte fu usato come anticamera per la riunione.
 

@@ -107,7 +107,7 @@ And with that I leave him for a little, to turn from the glories of Modern Scien
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XV
+# CAPITOLO XV
 
 To
 
@@ -4373,7 +4373,7 @@ The captain of this band (“band” is the applicable word) was a strong, burly
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIII
+# CAPITOLO XIII
 
 Da tempo è oggetto di dibattito tra i filosofi se siano i poveri o i ricchi a essere più infelici; e nessuno è più adatto a discutere questa questione dei filosofi, poiché essi provengono dai poveri e vivono tra i ricchi in modo assolutamente spudorato.
 
@@ -4597,7 +4597,7 @@ The Duchess, in common with too many of her kind, had suffered from the extravag
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIV
+# CAPITOLO XIV
 
 “Una donna nobile, qualcosa di pianificato per qualcos’altro”, come ripeteva ossessivamente Wordsworth. Una donna nobile.
 

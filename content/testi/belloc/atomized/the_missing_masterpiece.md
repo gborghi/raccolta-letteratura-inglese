@@ -3395,7 +3395,7 @@ He had not long to wait. Twelve had but just struck when there came a knock at t
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIV
+# CAPITOLO XIV
 
 Henry Bensington aveva scoperto, attraverso una lunga e fruttuosa carriera professionale, che quando la mente si trovava di fronte a un problema apparentemente insolubile, il modo migliore per affrontarlo era ignorarlo per qualche ora e poi tornarci sopra con nuove energie, grazie anche all’aiuto dell’amicizia e di conversazioni varie.
 
@@ -3911,7 +3911,7 @@ There was just that little interval of time without speech which separates the c
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XV
+# CAPITOLO XV
 
 Anche mentre il gentile Gran Duca di Spagna consumava la sua colazione al Plantagenet, con gesti e smorfie tipici dei grandi carnivori, il vecchio ma cortese e risoluto signor Gabriel si ritrovò in privato con il prestigioso capo della sua professione. Sir Henry fu estremamente soddisfatto; raramente mostrava emozioni, ma in questa occasione arrivò persino a prendere la mano del signor Gabriel e stringerla calorosamente.
 

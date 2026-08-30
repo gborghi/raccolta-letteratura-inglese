@@ -3899,14 +3899,14 @@ Quando rivedrò, ahimè, il mio piccolo villaggio…
 
 "Fumer la cheminée: et en quelle saison"
 
-#Rivedrò mai il cortile della mia povera casa?
+Rivedrò mai il cortile della mia povera casa?
 
 Qui ho una provincia, e molti vantaggi in più?
 
 Titolo:  
 Mi piace di più il soggiorno che hanno creato i miei antenati
 
-# Quei maestosi palazzi romani…
+Quei maestosi palazzi romani…
 
 “Più della dura pietra mi piace la sottile ardesia…”
 
@@ -3930,35 +3930,35 @@ Troppo leggere per voi
 Titolo:  
 Qui di queste antiche viaggiatrici
 
-# Volate per il mondo
+Volate per il mondo
 
-# Et d’un sifflant murmure
+Et d’un sifflant murmure
 
 L’ombra delle piante verdi
 
-# Dolcemente spezzati
+Dolcemente spezzati
 
 Offro queste violette.
 
-# Ces lis e queste fioriture
+Ces lis e queste fioriture
 
-# E queste rose qui…
+E queste rose qui…
 
-# Ces vermeillettes roses
+Ces vermeillettes roses
 
 Appena sbocciato…
 
 E anche questi boccioli.
 
-# De vostre doulce haleine
+De vostre doulce haleine
 
-# Eventi imprevisti in questa pianura
+Eventi imprevisti in questa pianura
 
-# Eventualità di questo soggiorno
+Eventualità di questo soggiorno
 
-# Mentre io mi affanno…
+Mentre io mi affanno…
 
-# Il mio grano che andrà via
+Il mio grano che andrà via
 
 Al calore del giorno.
 
@@ -3972,13 +3972,13 @@ Vorrei avere abbastanza spazio per stampare entrambi questi “threnodie” nell
 
 Il cane.
 
-# Dessous ceste motte verte
+Dessous ceste motte verte
 
-# De Lis et Roses Couverte
+De Lis et Roses Couverte
 
-# Gist le petit Peloton
+Gist le petit Peloton
 
-# De qui la folle peluria
+De qui la folle peluria
 
 Titolo:  
 Scalpato da una piuma bianca
@@ -3988,15 +3988,15 @@ Le cosce, i fianchi e il sedere.
 Titolo:  
 Esercizio ordinario
 
-#"Abbaia e muggisce senza sosta"...
+"Abbaia e muggisce senza sosta"...
 
 Correre su e giù
 
-# Centomila esbasi
+Centomila esbasi
 
 "Tutti stranieri e feroci",
 
-# Solo guerra contro le mosche
+Solo guerra contro le mosche
 
 Qui gli infliggevano molti tormenti.
 
@@ -4005,105 +4005,105 @@ Il gruppo di destra
 
 Li rispondevano allo stesso modo…
 
-# Sulle orecchie…
+Sulle orecchie…
 
-# Finemente il aguignoit
+Finemente il aguignoit
 
-# Quando qualcuno mi afferrasse per il polso…
+Quando qualcuno mi afferrasse per il polso…
 
 Con agilità consumata
 
-#"La mosca infelice"...
+"La mosca infelice"...
 
-# Chiudi bene a chiave dentro
+Chiudi bene a chiave dentro
 
-#Far concordare le sue densità
+Far concordare le sue densità
 
-# Peloton lo accarezzava
+Peloton lo accarezzava
 
-# Coloro che conosceva
+Coloro che conosceva
 
-# Non avrebbe voluto farsi vedere
+Non avrebbe voluto farsi vedere
 
 Con un’altra mano che non quella del suo maestro…
 
-# Seguendo sempre la stessa strada…
+Seguendo sempre la stessa strada…
 
 A volte camminava avanti.
 
-# Fai sì che si conoscano quelle feste
+Fai sì che si conoscano quelle feste
 
 Con un semplice movimento della testa.
 
-# Mon Dieu, che piacere era…
+Mon Dieu, che piacere era…
 
-# Quando Peloton si grattava
+Quando Peloton si grattava
 
-# Fai tintinnare la sua campanella
+Fai tintinnare la sua campanella
 
 Con quella testa a foglia!
 
-# Quel piacere, quando Peloton
+Quel piacere, quando Peloton
 
-# Cammino su un bastone
+Cammino su un bastone
 
-# Avvolta in un piccolo panno
+Avvolta in un piccolo panno
 
-# Seduto come un piccolo scimmione
+Seduto come un piccolo scimmione
 
-# Se avesse un piccolo amante…
+Se avesse un piccolo amante…
 
 Con l’aria di una giovane dama.
 
-#"Ma che dolce tempo trascorriamo..."
+"Ma che dolce tempo trascorriamo..."
 
 Non dura molto…
 
-# Car la mort ayant déjà...
+Car la mort ayant déjà...
 
 Sul filo della nostra vita
 
-# Inviato verso Plutone
+Inviato verso Plutone
 
 Nostro piccolo pelotone
 
 Titolo:  
 Ora qui si compie…
 
-# Tra queste ombrose pianure
+Tra queste ombrose pianure
 
 Niente ritorna mai verso di noi.
 
 Il gatto
 
-#Perché sono così confuso
+Perché sono così confuso
 
 Titolo:  
 Non è per aver perso…
 
 I miei anelli, il mio argento, la mia ricchezza…
 
-# Perché mai è così?
+Perché mai è così?
 
 Titolo:  
 Quello che ho perso da tre giorni
 
 I miei tesori, il mio piacere, i miei amori…
 
-# Et quoy? ô Souvenance greve
+Et quoy? ô Souvenance greve
 
 Titolo:  
 “Per un soffio il mio cuore esplode…”
 
-# Quando ne parlo o quando ne scrivo:
+Quando ne parlo o quando ne scrivo:
 
 “È Belaud, il mio piccolo gatto grigio…”
 
-# Elogiati ora, ma chissà cosa accadrà in futuro…
+Elogiati ora, ma chissà cosa accadrà in futuro…
 
 Il più bello capolavoro della natura
 
-# Mai parlare di gatti…
+Mai parlare di gatti…
 
 Titolo:  
 Era Belaud… la morte tra i ratti
@@ -4116,31 +4116,31 @@ Non lodare mai una bellezza così grande…
 Titolo:  
 Mio Dio, che noia…
 
-# Quando quel Belaud si girava e rigirava
+Quando quel Belaud si girava e rigirava
 
 Stupidi che girano intorno a una palla!
 
-# Quell’immensa soddisfazione, quando quella testa sciocca…
+Quell’immensa soddisfazione, quando quella testa sciocca…
 
-#"La coda di Suyvant in mille giri"
+"La coda di Suyvant in mille giri"
 
 Di un volano che imitava il movimento della corsa.
 
-# O quando seduti sul dorso
+O quando seduti sul dorso
 
-# Si faceva una giarrettiera
+Si faceva una giarrettiera
 
-# Et mostrant l’estomaco velu
+Et mostrant l’estomaco velu
 
-# De panne blanche crespelu
+De panne blanche crespelu
 
 “Sembra proprio che quel viso fosse molto bello…”
 
 Qualche dottore della Sorbona!
 
-# O quando allora che lo animavamo…
+O quando allora che lo animavamo…
 
-# Con un paio di colpi di zampe combatteva
+Con un paio di colpi di zampe combatteva
 
 E poi sfogò la sua rabbia
 
@@ -4148,19 +4148,19 @@ All'improvviso, tutto ciò che gli veniva offerto divenne prezioso per lui.
 
 “Belaud estoit mon cher mignon”
 
-# Il mio compagno era ammirato da tutti
+Il mio compagno era ammirato da tutti
 
-# In camera da letto, sul letto, alla tavola
+In camera da letto, sul letto, alla tavola
 
-# Più facile da apprezzare
+Più facile da apprezzare
 
-# Un piccolo cane goloso
+Un piccolo cane goloso
 
-# Non gridava mai di notte
+Non gridava mai di notte
 
 Come quei terribili grossi marcioni…
 
-# Urla terribili e lunghi miagolii
+Urla terribili e lunghi miagolii
 
 Aussi le petit mitouard
 
@@ -4170,19 +4170,19 @@ E a Belaud, che sfortuna.
 
 De Belaud ha perso la gara.
 
-# Que plaise à Dieu, petit Belon
+Que plaise à Dieu, petit Belon
 
-# Qui j’eusse l’esprit assez bon
+Qui j’eusse l’esprit assez bon
 
-# Potere in un bel modo
+Potere in un bel modo
 
-# Descrivere la tua grazia gentile
+Descrivere la tua grazia gentile
 
-# Un verso tanto grazioso quanto te…
+Un verso tanto grazioso quanto te…
 
-#"Belaud, je te promets ma foy,""
+"Belaud, je te promets ma foy,""
 
-# Finché vivrai sulla terra
+Finché vivrai sulla terra
 
 I gatti faranno guerra ai topi.
 

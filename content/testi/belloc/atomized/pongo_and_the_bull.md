@@ -3647,7 +3647,7 @@ Old G. Quinlan Smith so far forgot himself as to say “Rats!” The interpreter
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIII
+# CAPITOLO XIII
 
 “La differenza tra la procedura giudiziaria inglese e quella del Continente è che in Inghilterra un uomo è presunto innocente finché non viene dichiarato colpevole, mentre sul Continente è presunto colpevole finché non viene provata la sua innocenza.” — ADOLF BECK.
 
@@ -3861,7 +3861,7 @@ He had come at the right moment, at least as far as the spectacle was concerned.
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIV
+# CAPITOLO XIV
 
 Sua Signoria: “Era un toro irlandese?”
 

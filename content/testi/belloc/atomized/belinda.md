@@ -2206,7 +2206,7 @@ I domestici di quella famiglia ridotta si scambiavano commenti, con voci timide 
 
 Ecco cos'è la gioventù: irresponsabile verso se stessa e gli altri, fonte di costante preoccupazione per gli anziani, ma animata da passioni primordiali.
 
-# VII
+VII
 
 Il giorno seguente la sua partenza, nella fresca mattina dopo un riposo in una locanda lungo la strada, Horatio fermò il suo cavallo sulla cima di un prato erboso, da dove poteva ammirare i distretti di Wiltshire e Somerset stendersi a ovest, lontano sotto di lui. Si girò nella sella per osservare, da quella distanza tra le colline nebbiose, i luoghi della sua infanzia. Quanto familiari gli sembravano quei boschi lontani, quelle cime che avevano rappresentato la sua casa. Eppure quanto erano cambiati! Il sole appena sorto illuminava quella vista con un tenue velo di luce fresca e uniforme. Ma invano! Per un’ora, quelle colline, quei valli, quei boschi avevano brillato illuminati dal nome sacro di Belinda. Ora la loro gloria era svanita; non erano più nulla. La fiamma della lanterna si era spenta; i campi, gli alberi, erano tutti estranei e vuoti.
 

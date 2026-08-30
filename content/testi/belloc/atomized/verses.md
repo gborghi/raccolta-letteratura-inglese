@@ -4186,9 +4186,6 @@ Dona Eis Requiem.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Titolo:  
-# Versi – Tutti gli eretici
-
 Eretici tutti
 
 Eretici tutti voi, chiunque siate.
@@ -5686,9 +5683,6 @@ That dared attack my Chesterton.
 
 
 <span class="qlang-split" data-lang="it"></span>
-
-Titolo:  
-# Versi – Stanze per un signore
 
 Titolo:  
 Versi per un signore

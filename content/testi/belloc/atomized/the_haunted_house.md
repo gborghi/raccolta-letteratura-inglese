@@ -4675,7 +4675,7 @@ Bo kindly determined to bear him company in his loneliness.
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIII
+# CAPITOLO XIII
 
 Mentre si vestiva nella sua camera da letto, povero Lord Mere de Beaurivage non era affatto soddisfatto.
 
@@ -5295,7 +5295,7 @@ Three of the menservants hoisted the motionless form and got it on to the bed. H
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XIV
+# CAPITOLO XIV
 
 Al piano di sopra, nella sua camera da letto, quel povero vecchio solitario – solitario, tranne che per sua moglie (e quanto fosse grato per il modo in cui lo aveva trattato, e per quello sguardo che gli aveva rivolto mentre lui saliva faticosamente le scale) – sedeva ad aspettare di riprendersi dopo quella salita. Le scale rappresentavano ora un grande problema per lui, la sua salute stava peggiorando, pensò. Forse era proprio questo il motivo delle sensazioni che provava, di ciò che credeva di aver sentito; e si strinse nelle spalle. Non si sarebbe spogliato subito, avrebbe riposato un po’, solo per riprendersi un attimo, poi si sarebbe rivestito. Allora si sarebbe sentito più in forza.
 
@@ -5393,7 +5393,7 @@ In the grey light of morning Lord Hambourne had taken up the telephone again. He
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO XV
+# CAPITOLO XV
 
 Quella notte, il mondo di Rackham cambiò completamente: messaggeri che andavano avanti e indietro; il telefono che non smetteva di suonare; un'infermiera dell’Ospedale Cottage; un'altra infermiera chiamata d’urgenza da Lewes; il medico locale, che si era alzato in fretta dopo una notte insonne e che, appena sentito il nome del suo paziente, fu travolto dalla gioia. Lanterne che andavano avanti e indietro nella notte primaverile, mentre persone venivano inviate a svolgere compiti diversi; motori che ronzavano, vibravano, emettevano suoni stridenti. Tutti gli esseri umani erano svegliati in modo innaturale.
 

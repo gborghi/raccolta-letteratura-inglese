@@ -2077,7 +2077,7 @@ Yet again his mood changed and he burst into an explosion of laughter as he reme
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VIII
+CAPITOLO VIII
 
 Sir Charles Repton camminava a grandi passi per Whitehall. Il lavoro di quella giornata era stato intenso, soprattutto nelle ore successive a quella conversazione mattutina, e lui ne soffriva.
 

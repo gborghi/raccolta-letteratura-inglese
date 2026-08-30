@@ -893,7 +893,7 @@ Il signor Harbury voleva ridere, ma aveva un'espressione seria. “Quanto costa,
 
 “Ah… Non importa, purché sia fuori portata, comunque.”
 
-# Mr Harbury fu deciso
+Mr Harbury fu deciso
 
 “Non ha mai senso menzionare la parola ‘denaro’ se non si parlano di somme precise,” disse. Il signor Harbury sapeva bene di cosa stava parlando, e l’esitazione di Cosmo iniziò a svanire: esitò per un momento, mentre il signor Harbury rimase immobile, proprio come fanno i pescatori sopra acque scure e lisce al tramonto.
 
@@ -1939,7 +1939,7 @@ Morì nel febbraio del 1887, all’età di soli quarantuno anni, tre mesi e due 
 
 La sua fine, sebbene offuscata dai più gravi disturbi nervosi, fu consolata e illuminata dalla presenza di due persone di cui sarebbe ignobile non menzionarle nemmeno brevemente in questo resoconto: il signor Warner, lo studioso amabile a cui (in qualità di suo ex tutore) Lord Benthorpe aveva concesso l’usufrutto della tenuta di Great Monckton, proprio alle porte del parco; e sua moglie, la signora Warner, la cui meravigliosa piccola opera, “Ore di guarigione”, aiutò lo spirito dell’ultima contessa morente a lasciare questa terra per il cielo.
 
-#Lord Benthorpe: il salvatore dell’Impero
+Lord Benthorpe: il salvatore dell’Impero
 
 Si è osservato che la difficoltà nel pronunciare correttamente le sillabe aspirate presenti nel titolo di quest'opera spirituale rivelava la mancanza di esperienza di chi l'aveva scritto nell'arte della scrittura. Non sono in grado di giudicare questa critica; tuttavia, se è fondata, posso almeno sottolineare la meraviglia di una fede capace di compensare qualsiasi ignoranza riguardo alla semplice tecnica di composizione, e di conferire a un testo scritto da uno sperimentato letterato una qualità così elevata.
 
@@ -2437,7 +2437,7 @@ Per non sembrare troppo insistente su qualcosa che, dopotutto, non era altro che
 
 Per quanto riguarda il budino, non ho alcun ricordo al riguardo; inoltre, non c’è molta occasione di menzionare il formaggio.
 
-# La figura in ritirata della signora Warner
+La figura in ritirata della signora Warner
 
 Tuttavia, non devo tralasciare di lodare il gesto con cui Lord Benthorpe aprì la porta, né quello con cui Mrs Warner lo ricompensò mentre entrava nel salotto alle sue spalle. Mentre lei usciva dalla stanza, Mr Burden, osservando la sua figura che si allontanava, non poté fare a meno di ammirare la semplice grazia, l’assoluta assenza di affettazione e, al contempo, la meravigliosa dignità del suo portamento. Quell’impressione fu ulteriormente rafforzata non solo dall’errore che aveva inizialmente commesso riguardo al suo rango sociale, ma anche dal caratteristico abito che indossava: di un brillante verde elettrico, simile a quello che illumina le ali di certi coleotteri tropicali.
 
@@ -2451,7 +2451,7 @@ Fu alle prime ore di mezzanotte che la signora Warner li lasciò; il signor Burd
 
 Espose con grande sincerità i suoi dubbi e le sue speranze riguardo al futuro del suo commercio in Africa; disse apertamente a Lord Benthorpe quanto fossero di gran lunga superiori le opportunità di un politico rispetto a quelle di un mercante nel determinare il probabile futuro di una regione come il M’Korio, e chiese consiglio nei termini più chiari possibili.
 
-#Il ruolo fondamentale degli uomini d’affari per l’impero di Lord Benthorpe
+Il ruolo fondamentale degli uomini d’affari per l’impero di Lord Benthorpe
 
 La risposta di Lord Benthorpe lo sorprese così tanto che all’inizio non ne comprese l’enorme importanza. In sostanza, Lord Benthorpe stesso da tempo cercava una fonte simile di informazioni e, stranamente, aveva deciso di rivolgersi a Mr Burden.
 
@@ -2515,7 +2515,7 @@ Such was Mr Barnett during these rare flashes which his friends already knew, an
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VII
+CAPITOLO VII
 
 L’origine e l’educazione di Lord Benthorpe, di cui i miei lettori hanno già ricevuto notizie, gli impedivano di agire con fretta nelle sue ulteriori trattative con il signor Burden. La sua lunga esperienza amministrativa in Oriente, di cui questi documenti hanno già reso familiare la razza anglo-sassone, gli impediva altresì di lasciare i suoi soci e amici all’oscuro delle opinioni del signor Burden per troppo tempo. Scrisse immediatamente al signor Barnett dopo la partenza di quest’ultimo da Placton, e fu molto soddisfatto di scoprire, nella risposta ricevuta, che il “Costruttore dell’Impero” non era così immerso nei suoi sogni da dimenticare che un certo ritardo nelle questioni finanziarie rappresenta una caratteristica tipica delle persone di buona famiglia. Infatti, il signor Barnett suggerì che trascorressero alcune settimane prima di riprendere l’argomento.
 
@@ -2865,7 +2865,7 @@ Lo disse con quella determinazione e semplicità tipiche di uomini del suo gener
 
 Poi, come fanno coloro che sono più saggi dei loro compagni nel campo di discussione che stanno affrontando, aggiunse un esempio improvviso.
 
-# “Ricordi il prestito per l’irrigazione del Tibet?”
+“Ricordi il prestito per l’irrigazione del Tibet?”
 
 Lord Benthorpe lo guardò e annuì, più per cortesia che per altro motivo, perché in realtà non ne aveva mai sentito parlare.
 
@@ -2885,7 +2885,7 @@ Lord Benthorpe era quasi agitato.
 
 “Non si può fare affari in quel modo”, e poi li chiuse di nuovo.
 
-# Il signor Burden pensò di parlare, e lo fece, mescolando buon senso e rispetto per se stesso:
+Il signor Burden pensò di parlare, e lo fece, mescolando buon senso e rispetto per se stesso:
 
 “Sarò felice di attenermi a qualsiasi decisione prendiate voi signori. Ero certamente preparato, ora o in futuro, ad accettare una somma molto più alta. Ma naturalmente mi atterrò alla prudenza di Lord Benthorpe; e al giudizio di tutti voi, signori, al giudizio di tutti voi.”
 
@@ -2945,7 +2945,7 @@ Lord Benthorpe raccontò, con un po’ troppa prolissità, una storia riguardant
 
 Per quasi un'ora il loro discorso si concentrò su quelle cose che rendono felice una razza conquistatrice; e se ho descritto con tanta lunghezza e dettaglio la scena del loro primo incontro, è solo per il desiderio che ogni membro di questa razza, che possa leggere queste pagine, sappia in quale atmosfera vennero prese le decisioni cruciali della loro storia.
 
-# Il signor Burden si offre di pagare qualsiasi somma sia necessaria
+Il signor Burden si offre di pagare qualsiasi somma sia necessaria
 
 L’interesse dei presenti diminuì. Lord Benthorpe aveva ripetuto la stessa frase due o tre volte; il signor Harbury non aveva parlato per quasi otto minuti, quando finalmente il signor Barnett concluse quella fase della discussione. Si alzò con l’aria di un uomo colmo di energia creativa, uno che aveva portato a termine un compito lungo e finalmente riuscito; il signor Harbury si alzò invece come un atleta pronto ad affrontare nuove sfide, eretto e flessibile. Lord Benthorpe si alzò, come fanno i politici, con aria stanca e muovendosi a scaglioni del corpo; il signor Burden, invece, si alzò come fanno i commercianti, con un po’ di trambusto: si strofinò le mani e di tanto in tanto tirò su il cappotto.
 
@@ -3363,7 +3363,7 @@ Naturale come fosse per un uomo del genere esitare su un argomento del genere, i
 
 Il signor Abbott rispose che il signor Burden poteva “chiedere tutto quello che voleva”, e aggiunse, con una disinvolta allegria: “Qualunque cosa tu intenda fare, segui il mio consiglio, e non farla”. Rise fragorosamente, come è abitudine di queste persone, per la propria battuta spiritosa; si soffiò il naso con un rumore sonoro, tirò fuori una pipa, la riempì con del tabacco nero davvero sorprendente, l’accese e disse:
 
-#"Dai fuori tutto, ragazzo mio… Liberatela!"
+"Dai fuori tutto, ragazzo mio… Liberatela!"
 
 Era passato un po' di tempo da quando il signor Burden aveva subito un simile approccio; e non si può negare che fosse piuttosto infastidito. Forse lo mostrò nel tono della sua voce. Comunque, disse abbastanza rapidamente:
 
@@ -4813,7 +4813,7 @@ Then Mr Burden, power bubbling up within him in spite of his age, in spite of hi
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Girò lentamente la testa; si mosse nervosamente sui piedi, e poi ricominciò…
+Girò lentamente la testa; si mosse nervosamente sui piedi, e poi ricominciò…
 
 “Signori. Ho riflettuto. Ci sono alcune questioni. Non ne parlo spesso, ma ci sono comunque delle cose che potrebbero essere risolte senza danneggiarci né nessun altro. E naturalmente comprendo appieno la situazione.” Tentò di sorridere, ma non ci riuscì. “Sono un uomo di mondo, signori; capisco perfettamente la situazione. So che potrebbe trattarsi di un piccolo sacrificio. Penso che tutti voi saranno d’accordo con me nel ritenere che questa questione debba essere risolta.”
 
@@ -4943,9 +4943,9 @@ Il signor Harbury, il cui giudizio in queste questioni ho sempre fiducia, e che 
 
 Forse sentiva davvero la presenza di una folla: le forze schierate di questo nuovo mondo che si riversavano contro di lui; parlava come se stesse rivolgendosi a molte persone.
 
-# Il signor Burden nel suo ultimo e sfortunato accesso di passione
+Il signor Burden nel suo ultimo e sfortunato accesso di passione
 
-#Da uno schizzo gentilmente fornito dal signor Harbury
+Da uno schizzo gentilmente fornito dal signor Harbury
 
 “Posso distruggerlo! Posso distruggere te, i tuoi preziosi azionisti, e il Duca, e tutto quanto! Posso spiegare perché l’ho fatto! Eh? Oh, mio Dio! E lo pubblicherò io stesso. Se non lo pubblicano sui vostri maledetti giornali, lo affigerò ovunque; coprirò tutta la città con esso; farò apparire i vostri nomi in evidenza, tutti quanti i vostri nomi: quelli che nascondete, e quelli che avete avuto e poi perso, truffatori, ladri, spazzatura!”
 

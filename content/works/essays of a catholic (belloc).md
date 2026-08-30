@@ -23,7 +23,7 @@ tags:
 *by Belloc*  ·  **Cluster:** [[clusters/distributism-·-politics-and-society-·-polemic|Distributism · Politics and Society · Polemic]]
 
 > [!abstract] 
-> Sixteen essays published in 1931 as *Essays of a Catholic Layman in England* (Sheed & Ward; Macmillan in America as *Essays of a Catholic*). Belloc writes as a layman on the New Paganism, usury, the approach to the sceptic, Church and modern State, the conversion of England, legend against myth, the Catholic press, science as an enemy of truth, the schools, industrial capitalism, and the letters to an Anglo-Catholic and to Dean Inge. Three essays of the original order are not yet in this vault copy.
+> Sixteen essays published in 1931 as *Essays of a Catholic Layman in England* (Sheed & Ward; Macmillan in America as *Essays of a Catholic*). Belloc writes as a layman on the New Paganism, usury, the approach to the sceptic, Church and modern State, the conversion of England, legend against myth, the Catholic press, science as an enemy of truth, the schools, industrial capitalism, and the letters to an Anglo-Catholic and to Dean Inge.
 
 ## Capitoli / Chapters
 
@@ -35,7 +35,7 @@ tags:
 - [The Two Cultures of the West](/testi/belloc/atomized/essays_of_a_catholic#story_16_the_two_cultures_of_the_west)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">23.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">20%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">45.6</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">1.2</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">29.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">21%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">53.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 

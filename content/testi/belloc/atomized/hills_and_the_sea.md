@@ -2867,7 +2867,7 @@ In questo modo, quando riuscii a recuperare quell’arte dopo tanti anni, attrav
 
 Il figlio alto dei Sette Venti
 
-# Arrivò cavalcando da Hither-hythe
+Arrivò cavalcando da Hither-hythe
 
 E i suoi zoccoli di cavallo (ricorderete sicuramente) calpestarono la folla creando un varco tra essa; e la sua spada, (come sapete, )
 
@@ -3731,7 +3731,7 @@ Questa fantasia, per quanto tenue, non ebbe nemmeno il tempo di scomparire, quan
 
 Ma lui rispose: “No; non è così che si può raggiungere lo scopo di cui parli. E quella sete, che sicuramente è divina, non può essere saziata da alcun corso d’acqua che possiamo trovare viaggiando, nemmeno dai piccoli fiumi che scorrono qui sotto le valli delle nostre case.”
 
-#Me stesso: “Beh, allora, qual è la fine?”
+Me stesso: “Beh, allora, qual è la fine?”
 
 LUI: “A volte l’ho visto chiaramente: quando quella ricerca delusa terminava, tutto quel viaggio si rivelava soltanto l’inizio di un’avventura ancora più grande; avrei dovuto dirigermi verso un altro luogo, dove ogni senso sarebbe stato appagato e dove la paura della mutazione avrebbe trovato pace.”
 
@@ -3771,7 +3771,7 @@ IO: “Sì, certamente; ma sebbene i desideri siano la prova più forte della ve
 
 Lui: “Eppure tutte queste cose non esisterebbero se non fosse per la mente che le riceve; e come possiamo essere certi di quali siano i canali necessari per la mente? Non potrebbe forse la mente espandersi all’infinito? E tu, poiché rifiuti la mia ipotesi su ciò che ci è riservato, dimmi: qual è la Fine che raggiungeremo?”
 
-#Me stesso: “Per la salvezza della fede, non posso dirlo.”
+Me stesso: “Per la salvezza della fede, non posso dirlo.”
 
 Poi continuò dicendo: “Ho riflettuto su queste questioni per troppo tempo, quindi nessuna contraddizione tra un'esperienza e un'altra può influenzare il mio modo di pensare. So bene che un'indagine approfondita e attenta su qualsiasi argomento può portare a conclusioni opposte; ma, da parte mia, aspetto con fiducia che, nel corso di quella vecchiaia ormai vicina, quando essa finirà, troverò al di là di essa cose simili a quelle che ho conosciuto. Tutto ciò che godo qui è della stessa natura; e se la vita di un uomo dovesse alla fine privarsi di queste cose, allora usare il termine ‘eterno’ sarebbe una falsità o una metafora.”
 

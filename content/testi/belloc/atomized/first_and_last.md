@@ -2522,7 +2522,7 @@ Ce ne sono molti altri che ricordo. Quelli di cui ho scritto altrove mi vergogno
 
 Poi c'era un altro uomo che viaggiava con me da Birmingham; mi ha dato in mano alcuni opuscoli e voleva chiedermi sei penny per ciascuno a Paddington. Ma se dovessi parlare anche solo di questi pochi casi, finirei per esagerare.
 
-# Sulle sorgenti dei fiumi
+Sulle sorgenti dei fiumi
 
 Esistono alcune usanze umane la cui persistenza dona un piacere infinito. Quando l’atmosfera prevalente nelle società è contraria a esse, queste usanze rimangono nascoste sotto le “piastrelle” della società stessa, ma non muoiono mai; e quando una decadenza del pedantismo, del dispotismo o di qualsiasi altra influenza negativa e disumana permette loro di riemergere, eccole ricomparire.
 
@@ -2660,7 +2660,7 @@ L’intero “oggetto” in questione, una volta ricevuto il suo titolo sacro e 
 
 Una volta fatto ciò, passiamo al terzo step del nostro percorso verso la correzione dell’errore. Facciamo sì che l’idolo “parli”. Ovviamente, essendo solo un idolo, dice sciocchezze. Ma grazie ai passaggi precedenti di cui abbiamo appena parlato, dobbiamo credere a quelle sciocchezze. E infatti le crediamo. Ed è così, penso, che l’errore viene generalmente corretto.
 
-# Un esempio già fornito nel titolo gerarchico “Scienza”.
+Un esempio già fornito nel titolo gerarchico “Scienza”.
 
 È stato solo qualche giorno fa che ho preso un giornale settimanale nel quale un signore discuteva di fantasmi: cioè delle presunte apparizioni di vivi e morti, dei morti, sì, ma morti davvero; e dei vivi, anche se assenti.
 
@@ -3750,7 +3750,7 @@ Erano passati dieci anni dall'ultima volta che l'avevo visto. Potrebbero trascor
 
 “No, non il tuo desiderio,” mi disse quella voce interiore, “ma la sua realizzazione, nella quale avresti perso quel desiderio stesso.” E quando ricevetti questa risposta, naturalmente – come fanno tutti quando ascoltano tali voci interiori – iniziai a riflettere con rimorso; ero pronto, se qualche editore onesto fosse passato da quelle parti, ad accettare un’offerta appropriata all’occasione, ad esempio, scrivere almeno cinque volumi sulla Natura del Rimorso: il suo dolore mortale, la sua dolcezza amara, il suo potere di mantenere vive nell’uomo le pure passioni dell’anima, i suoi legami con l’immortalità. Ma nel bosco non c’erano editori; quell’offerta non arrivò mai. Quel momento fu perso. Quei cinque volumi probabilmente non verranno mai scritti. In loro vece vi offro questo, che potete prendere o lasciare. Ma prima di concludere, permettetemi di citare alcune parole molto nobili legate a quella grande locanda chiamata “Il Grifone”, la cui origine risale a un luogo lontano, nella città di March, nella regione dei laghi.
 
-#Inghilterra, mio desiderio… cosa non mi hai rifiutato?
+Inghilterra, mio desiderio… cosa non mi hai rifiutato?
 
 La fine del mondo
 

@@ -285,8 +285,6 @@ THE CHAUNTY OF THE “NONA”
 
 <span class="qlang-split" data-lang="it"></span>
 
-Sonetti e versi – Tarantella
-
 Tarantella
 
 La grazia della “nonna”
@@ -3571,33 +3569,33 @@ La Notte
 
 La Notte Santissima, che ancora veglia
 
-Le chiavi di tutte le porte del sonno
+Le chiavi di tutte le porte del sonno,
 
-Per me, quando le mie stanche palpebre si chiudono…
+A me, quando le mie stanche palpebre si chiudono,
 
-Dà loro riposo.
+Concedi tu riposo.
 
-E lasciate che il loro lamento si diffonda lontano…
+E fa' che il lontano lamento di coloro
 
-Il Requiem del giorno morto
+Che cantano il requiem del giorno morto
 
-Risuona nelle mie orecchie, mentre giaccio sveglio…
+Diventi, alle mie orecchie che vegliano insonni,
 
-Ninnananna dolce.
+Dolce ninnananna.
 
-Lasciate che coloro che custodiscono la luna cornuta…
+Fa' che coloro che custodiscono la luna cornuta
 
-Accanto al mio letto, i loro ricordi sussurrano dolcemente.
+Sussurrino al mio capezzale le loro memorie.
 
-Avrò dunque nuovi sogni e felicità?
+Così avrò sogni nuovi e benedetti
 
-Durante il mio breve riposo.
+Nel mio breve riposo.
 
-"#Piega le tue grandi ali intorno al mio viso#"
+Distendi le tue grandi ali sul mio volto,
 
-Nascondi l’alba dal mio luogo di riposo
+Nascondi l'aurora al mio giaciglio,
 
-Ingannami con la tua falsa felicità
+E ingannami con la tua falsa delizia,
 
 Notte Santa.
 

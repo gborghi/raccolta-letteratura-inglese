@@ -1810,7 +1810,7 @@ Innanzitutto, poiché le più grandi obici capaci di muoversi e di essere utiliz
 
 Schizzo 20.
 
-# Ciò che ha modificato tutto questo negli ultimi anni è…
+Ciò che ha modificato tutto questo negli ultimi anni è…
 
 Innanzitutto, il successo nell’introduzione sul campo di obici molto grandi: questi, pur lanciando i loro proiettili su una distanza estremamente lunga, lo fanno con notevole precisione. Gli austriaci hanno prodotto obici con un calibro compreso tra 11 e 12 pollici; nonostante la loro enorme dimensione, possono essere spostati sul campo e sparati da qualsiasi terreno abbastanza stabile. I tedeschi probabilmente hanno creato obici con un calibro superiore ai 16 pollici, che presumibilmente possono essere spostati soltanto su rotaie. Tuttavia, il calibro di 11 pollici era già più che sufficiente per modificare completamente le condizioni precedenti dello scontro. Bisogna ricordare che la potenza di un cannone aumenta in modo proporzionale al cubo del suo calibro: un obice da 12 pollici non è soltanto il doppio più potente di uno da 6 pollici, ma addirittura otto volte più potente. Ora gli obici potevano sparare da distanze enormi; la loro gittata era molto maggiore, e avevano molte più possibilità di trovare ripari adeguati per evitare di essere visti. Inoltre, se rischiavano di essere scoperti, avevano maggiori opportunità di fuggire; inoltre, le probabilità che i cannoni delle fortezze riuscissero a distruggerli erano notevolmente ridotte.
 
