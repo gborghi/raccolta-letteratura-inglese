@@ -186,12 +186,17 @@ function isStubAtom(a: Atom): boolean {
   return false
 }
 
-function literaryChapter(a: Atom): number | null {
-  const m = (a.title || "").match(/Chapter\s+(\d+)\b/i)
+function chapterNum(s: string): number | null {
+  const m = s.match(/Chapter\s+(\d+)\b/i)
   return m ? Number(m[1]) : null
 }
 
-/** TOC/crumb heading: literary Chapter N from the title, not the folder data-chapter. */
+function literaryChapter(a: Atom): number | null {
+  return chapterNum(a.title || "")
+}
+
+/** TOC/crumb heading: literary Chapter N from the title, not the folder number.
+ *  Folder numbers are often off by a preface (Dickens, Belloc). */
 function displayChapter(a: Atom): string {
   const n = literaryChapter(a)
   if (n != null) return `Chapter ${n}`
@@ -227,6 +232,7 @@ function build(reader: HTMLElement) {
       })
       if (hit) return hit
     }
+    if (byId.has(raw) && !isStubAtom(byId.get(raw)!)) return raw
     if (!byId.has(raw) || isStubAtom(byId.get(raw)!)) {
       const leaf = order.find((o) => o.startsWith(`${raw}--`))
       if (leaf) return leaf
@@ -302,10 +308,20 @@ function build(reader: HTMLElement) {
   }
 
   // ---- table of contents (grouped by chapter) ----
+  // Walk in literary-chapter order so "Chapter 1" is not listed after a
+  // mislabeled preface ("Chapter 20") that happens to be the first file.
+  const tocAtoms = atoms.slice().sort((a, b) => {
+    const na = literaryChapter(a)
+    const nb = literaryChapter(b)
+    if (na != null && nb != null && na !== nb) return na - nb
+    if (na != null && nb == null) return 1
+    if (na == null && nb != null) return -1
+    return order.indexOf(a.id) - order.indexOf(b.id)
+  })
   const tocList = el("ul", "ar-toc-list")
   let curChap: string | null = null
   let curUl: HTMLUListElement | null = null
-  for (const a of atoms) {
+  for (const a of tocAtoms) {
     if (isStubAtom(a)) continue
     const label = a.kind === "intro" ? a.title || "Inizio" : a.title
     if (a.kind === "intro" || !displayChapter(a)) {

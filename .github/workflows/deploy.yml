@@ -50,6 +50,16 @@ jobs:
         run: npx quartz build
         env:
           NODE_OPTIONS: "--max-old-space-size=14336"
+      - name: Copy sharded work indexes
+        # /opere and /cerca fetch these. They live in quartz/static and are not
+        # emitted by `quartz build` (local sync-and-build.sh copies them).
+        run: |
+          mkdir -p public/static
+          cp quartz/static/index_a_m.json public/static/index_a_m.json
+          cp quartz/static/index_n_z.json public/static/index_n_z.json
+          cp quartz/static/index_leaf.json public/static/index_leaf.json
+          cp quartz/static/concepts.json public/static/concepts.json
+          cp quartz/static/works_kw.json public/static/works_kw.json
       - name: Inject atom search entries
         # Merge the committed data/atom_search.json.gz (per-atom search entries) into
         # the raw contentIndex.json before the TF-IDF master is built from it (atoms also
@@ -109,6 +119,14 @@ jobs:
         run: npx quartz build
         env:
           NODE_OPTIONS: "--max-old-space-size=14336"
+      - name: Copy sharded work indexes
+        run: |
+          mkdir -p public/static
+          cp quartz/static/index_a_m.json public/static/index_a_m.json
+          cp quartz/static/index_n_z.json public/static/index_n_z.json
+          cp quartz/static/index_leaf.json public/static/index_leaf.json
+          cp quartz/static/concepts.json public/static/concepts.json
+          cp quartz/static/works_kw.json public/static/works_kw.json
       - name: Inject atom search entries
         run: node scripts/inject-atom-search.mjs
       - name: Compress desktop index + build TF-IDF master

@@ -1921,7 +1921,7 @@ async function main() {
     label: a === "Bronte" ? "Brontë" : a,
     sub: `${authorCounts[a] || 0} works`,
     img: authorEmblem[a] || "author-shakespeare",
-    href: "cerca",
+    href: "authors/" + a.toLowerCase().replace(/\s+/g, "-"),
     cercaAuthor: a,
   }))
 

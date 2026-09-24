@@ -276,9 +276,32 @@ async function init() {
   }
 }
 
+function authorSlug(name: string): string {
+  return name
+    .replace(/ë/g, "e")
+    .replace(/é/g, "e")
+    .toLowerCase()
+    .replace(/\s+/g, "-")
+}
+
+// Homepage timeline rows are static HTML with href="cerca". Point each row at
+// the author page, same slug the wheel uses. Safe if preprocess already wrote
+// authors/<slug>.
+function wireTimeline() {
+  for (const a of document.querySelectorAll<HTMLAnchorElement>("a.hp-tl-row")) {
+    const href = a.getAttribute("href") || ""
+    if (!/(^|\/)cerca\/?$/.test(href)) continue
+    const name = a.querySelector(".hp-tl-name")?.textContent?.trim() || ""
+    if (!name) continue
+    a.setAttribute("href", href.replace(/cerca\/?$/, "authors/" + authorSlug(name)))
+  }
+}
+
 document.addEventListener("nav", () => {
   init()
+  wireTimeline()
 })
 init()
+wireTimeline()
 
 export {}

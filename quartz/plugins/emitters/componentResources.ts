@@ -30,6 +30,8 @@ import sidebarToggleScript from "../../components/scripts/sidebarToggle.inline"
 import feedbackFormScript from "../../components/scripts/feedbackForm.inline"
 // @ts-ignore
 import axisTagsScript from "../../components/scripts/axisTags.inline"
+// @ts-ignore
+import themeGuardScript from "../../components/scripts/themeGuard.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -121,6 +123,9 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   // scripts globally here; each finds its preprocess-injected anchor and self-registers
   // on "nav". Pushed BEFORE the SPA router below so their listeners exist before the
   // first "nav" dispatch. Their CSS lives in custom.scss.
+  // Before any "nav" handler: stop hash navigation from persisting a dark theme.
+  componentResources.beforeDOMLoaded.push(themeGuardScript)
+
   componentResources.afterDOMLoaded.push(
     opereTableScript,
     cercaScript,
