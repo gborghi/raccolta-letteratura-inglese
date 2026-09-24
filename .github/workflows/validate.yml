@@ -17,10 +17,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
       - name: Install dependencies
@@ -65,7 +65,7 @@ jobs:
           echo "- contentIndexMobile.json: $(du -h public/static/contentIndexMobile.json | cut -f1)" | tee -a "$GITHUB_STEP_SUMMARY"
           for t in 0 1 2 3; do echo "- search-t$t.json: $(du -h public/static/search-t$t.json | cut -f1)" | tee -a "$GITHUB_STEP_SUMMARY"; done
       - name: Upload built site
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: public-spa
           path: public
