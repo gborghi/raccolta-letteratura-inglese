@@ -50,7 +50,7 @@ npx quartz plugin restore
 # 3. Build to public/. ~7.8k pages under SPA; large enough to OOM Node at the default heap.
 echo "==> Building Quartz site -> $pub"
 rm -rf "$pub"
-NODE_OPTIONS="--max-old-space-size=14336" node quartz/bootstrap-cli.mjs build
+NODE_OPTIONS="--max-old-space-size=6144" node quartz/bootstrap-cli.mjs build
 dropbox_ignore "$pub"   # re-mark: Quartz rm's + recreates the output dir, dropping the xattr
 
 # 4. Post-build chain (same order as CI, .github/workflows/deploy.yml):
@@ -66,6 +66,13 @@ node scripts/make-mobile-index.mjs
 echo "==> Building tiered search shards"
 node scripts/build-search-shards.mjs
 
+echo "==> Copying sharded index files to public/static/"
+cp "$root/quartz/static/index_a_m.json" "$pub/static/index_a_m.json"
+cp "$root/quartz/static/index_n_z.json" "$pub/static/index_n_z.json"
+cp "$root/quartz/static/index_leaf.json" "$pub/static/index_leaf.json"
+cp "$root/quartz/static/concepts.json" "$pub/static/concepts.json"
+cp "$root/quartz/static/works_kw.json" "$pub/static/works_kw.json"
+
 echo "==> Slimming tags index page"
 node scripts/gen-tags-table.mjs public
 
@@ -74,10 +81,10 @@ node scripts/gen-tags-table.mjs public
 #    must revalidate. Truly-static fonts/images stay immutable.
 echo "==> Writing Cloudflare _headers"
 : > "$pub/_headers"
-# json = search index (contentIndex.json/index.json): stable name, changes every build -> must
-# revalidate, else a browser keeps a stale index (e.g. dead Dropbox-conflict-copy hits in search).
+# json = search index (index_a_m.json/index_n_z.json/index_leaf.json): stable name, changes every build
+# -> must revalidate, else a browser keeps a stale index. Enable gzip compression on Cloudflare.
 for e in js css json; do
-  printf '/*.%s\n  Cache-Control: public, max-age=0, must-revalidate\n' "$e" >> "$pub/_headers"
+  printf '/*.%s\n  Cache-Control: public, max-age=0, must-revalidate\n  Content-Type: application/json\n' "$e" >> "$pub/_headers"
 done
 for e in woff2 svg png jpg jpeg webp avif; do
   printf '/*.%s\n  Cache-Control: public, max-age=604800, immutable\n' "$e" >> "$pub/_headers"
@@ -87,5 +94,4 @@ done
 echo "==> Writing robots.txt"
 printf 'User-agent: *\nAllow: /\n\nSitemap: https://letteratura-inglese.pages.dev/sitemap.xml\n' > "$pub/robots.txt"
 
-echo "==> Done. Output in $pub"
 echo "    Deploy to Cloudflare Pages:  npx wrangler pages deploy \"$pub\" --project-name letteratura-inglese --branch main"
