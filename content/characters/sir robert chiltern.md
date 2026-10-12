@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Sir Robert Chiltern, il politico stimato di Un marito ideale di Wilde (1895), ricattato per un vecchio segreto su cui ha costruito la sua fortuna.
+
+**EN** — Sir Robert Chiltern, the respected politician of Wilde's An Ideal Husband (1895), blackmailed over an old secret on which he built his fortune.
 
 ## Works
 

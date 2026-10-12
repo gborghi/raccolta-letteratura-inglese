@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Bill Sikes, il brutale scassinatore di Oliver Twist che uccide la compagna Nancy.
+
+**EN** — Bill Sikes, the brutal housebreaker of Oliver Twist who murders his companion Nancy.
 
 ## Works
 

@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Giulietta Capuleti, la giovanissima protagonista di Romeo e Giulietta: sposa in segreto Romeo, finge la morte con una pozione e si uccide trovandolo morto.
+
+**EN** — Juliet Capulet, the young heroine of Romeo and Juliet: she secretly marries Romeo, feigns death with a potion and kills herself on finding him dead.
 
 ## Works
 

@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Nick Bottom, il tessitore vanitoso di Sogno di una notte di mezza estate, trasformato da Puck con una testa d'asino e amato per una notte da Titania.
+
+**EN** — Nick Bottom, the vain weaver of A Midsummer Night's Dream, given an ass's head by Puck and loved for a night by Titania.
 
 ## Works
 

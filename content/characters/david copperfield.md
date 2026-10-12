@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — David Copperfield, il protagonista e narratore del romanzo più autobiografico di Dickens (1850), dall'infanzia infelice al successo come scrittore.
+
+**EN** — David Copperfield, hero and narrator of Dickens's most autobiographical novel (1850), from his unhappy childhood to success as a writer.
 
 ## Works
 

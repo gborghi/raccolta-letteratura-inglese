@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Lady Macbeth, la moglie ambiziosa di Macbeth che lo spinge all'omicidio di re Duncan e poi, tormentata dal rimorso, cammina nel sonno cercando di lavarsi il sangue dalle mani.
+
+**EN** — Lady Macbeth, Macbeth's ambitious wife who drives him to murder King Duncan and later, tormented by guilt, sleepwalks trying to wash the blood from her hands.
 
 ## Works
 

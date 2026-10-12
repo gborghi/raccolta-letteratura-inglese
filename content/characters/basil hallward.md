@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Basil Hallward, il pittore che dipinge il ritratto di Dorian Gray e ne è affascinato; viene ucciso da Dorian.
+
+**EN** — Basil Hallward, the painter who creates Dorian Gray's portrait and is infatuated with him; he is murdered by Dorian.
 
 ## Works
 

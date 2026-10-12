@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — Professor George Edward Challenger, the irascible, brilliant scientist-explorer of the lost world and later spiritualist romances.
+*Character* — Professor George Edward Challenger, the irascible, brilliant scientist-explorer of the lost world and later spiritualist romances.
+
+**IT** — Il professor George Edward Challenger, lo scienziato irascibile e geniale di Conan Doyle, protagonista de Il mondo perduto (1912) e di altri racconti.
+
+**EN** — Professor George Edward Challenger, Conan Doyle's irascible, brilliant scientist, hero of The Lost World (1912) and other stories.
 
 ## Works
 

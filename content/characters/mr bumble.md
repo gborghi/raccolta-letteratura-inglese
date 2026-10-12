@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Mr Bumble, il bidello pomposo e crudele dell'ospizio di Oliver Twist («La legge è un asino»).
+
+**EN** — Mr Bumble, the pompous, cruel beadle of the workhouse in Oliver Twist ('The law is a ass').
 
 ## Works
 

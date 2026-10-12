@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Catherine Earnshaw, l'eroina di Cime tempestose, divisa tra la passione per Heathcliff e il matrimonio con Edgar Linton («Io sono Heathcliff»).
+
+**EN** — Catherine Earnshaw, heroine of Wuthering Heights, torn between her passion for Heathcliff and her marriage to Edgar Linton ('I am Heathcliff').
 
 ## Works
 

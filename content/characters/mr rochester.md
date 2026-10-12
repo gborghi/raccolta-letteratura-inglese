@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Edward Rochester, il padrone di Thornfield Hall in Jane Eyre, uomo cupo e appassionato che nasconde in soffitta la prima moglie, Bertha.
+
+**EN** — Edward Rochester, master of Thornfield Hall in Jane Eyre, a brooding, passionate man who hides his first wife, Bertha, in the attic.
 
 ## Works
 

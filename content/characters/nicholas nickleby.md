@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Nicholas Nickleby, il giovane generoso del romanzo di Dickens (1839) che, rimasto senza padre, lotta contro lo zio Ralph e il maestro Squeers per proteggere la famiglia.
+
+**EN** — Nicholas Nickleby, the generous young hero of Dickens's novel (1839) who, left fatherless, fights his uncle Ralph and the schoolmaster Squeers to protect his family.
 
 ## Works
 

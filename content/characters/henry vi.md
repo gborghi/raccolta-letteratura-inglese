@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **3** work(s).
+*Character* — appears in **3** work(s).
+
+**IT** — Enrico VI d'Inghilterra, il re mite e pio della trilogia di Shakespeare, incapace di fermare la Guerra delle due rose e ucciso da Riccardo di Gloucester.
+
+**EN** — Henry VI of England, the gentle, pious king of Shakespeare's trilogy, unable to stop the Wars of the Roses and murdered by Richard of Gloucester.
 
 ## Works
 

@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Claudio, lo zio di Amleto che ha ucciso il fratello, re di Danimarca, per prenderne il trono e la moglie Gertrude.
+
+**EN** — Claudius, Hamlet's uncle, who murdered his brother, the King of Denmark, to take his throne and his wife Gertrude.
 
 ## Works
 

@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Estella, la ragazza bella e fredda di Grandi speranze, cresciuta da Miss Havisham per spezzare il cuore degli uomini; Pip la ama senza speranza.
+
+**EN** — Estella, the beautiful, cold girl of Great Expectations, raised by Miss Havisham to break men's hearts; Pip loves her hopelessly.
 
 ## Works
 

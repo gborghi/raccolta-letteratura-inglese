@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **4** work(s).
+*Character* — appears in **4** work(s).
+
+**IT** — Alfredo il Grande (849-899), re del Wessex che difese l'Inghilterra dai Vichinghi; è l'eroe del poema di Chesterton The Ballad of the White Horse.
+
+**EN** — Alfred the Great (849-899), King of Wessex who defended England against the Vikings; he is the hero of Chesterton's poem The Ballad of the White Horse.
 
 ## Works
 

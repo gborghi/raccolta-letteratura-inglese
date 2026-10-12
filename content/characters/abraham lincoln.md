@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **7** work(s).
+*Character* — appears in **7** work(s).
+
+**IT** — Abraham Lincoln (1809-1865), sedicesimo presidente degli Stati Uniti, guidò l'Unione nella guerra civile e abolì la schiavitù; assassinato nel 1865, è celebrato da Whitman in «O Captain! My Captain!» e «When Lilacs Last in the Dooryard Bloom'd».
+
+**EN** — Abraham Lincoln (1809-1865), sixteenth President of the United States, led the Union through the Civil War and abolished slavery; assassinated in 1865, he is mourned by Whitman in 'O Captain! My Captain!' and 'When Lilacs Last in the Dooryard Bloom'd'.
 
 ## Works
 

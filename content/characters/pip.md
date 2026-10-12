@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Pip (Philip Pirrip), il protagonista e narratore di Grandi speranze di Dickens: orfano di campagna, riceve una fortuna misteriosa e impara a sue spese il valore della lealtà.
+
+**EN** — Pip (Philip Pirrip), hero and narrator of Dickens's Great Expectations: a country orphan who receives a mysterious fortune and learns the hard way the value of loyalty.
 
 ## Works
 

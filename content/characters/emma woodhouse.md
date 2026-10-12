@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Emma Woodhouse, la protagonista di Emma di Jane Austen (1815): bella, ricca e sicura di sé, combina matrimoni altrui con risultati disastrosi.
+
+**EN** — Emma Woodhouse, heroine of Jane Austen's Emma (1815): handsome, rich and self-assured, she meddles in others' marriages with disastrous results.
 
 ## Works
 

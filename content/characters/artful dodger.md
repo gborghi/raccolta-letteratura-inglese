@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — L'Artful Dodger (Jack Dawkins), il borseggiatore sveglio e spavaldo della banda di Fagin che introduce Oliver Twist a Londra.
+
+**EN** — The Artful Dodger (Jack Dawkins), the sharp, swaggering pickpocket of Fagin's gang who brings Oliver Twist to London.
 
 ## Works
 

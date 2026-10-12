@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Bassanio, l'amico di Antonio ne Il mercante di Venezia, che per corteggiare Porzia fa contrarre ad Antonio il debito con Shylock.
+
+**EN** — Bassanio, Antonio's friend in The Merchant of Venice, whose courtship of Portia leads Antonio to borrow from Shylock.
 
 ## Works
 

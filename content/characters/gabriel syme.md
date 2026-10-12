@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Gabriel Syme, il poeta-poliziotto che si infiltra tra gli anarchici con il nome di Giovedì ne L'uomo che fu Giovedì di Chesterton.
+
+**EN** — Gabriel Syme, the poet-policeman who infiltrates the anarchists under the name Thursday in Chesterton's The Man Who Was Thursday.
 
 ## Works
 

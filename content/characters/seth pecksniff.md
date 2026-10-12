@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Seth Pecksniff, l'architetto ipocrita di Martin Chuzzlewit di Dickens, che predica la virtù e pratica l'egoismo; il suo nome è diventato sinonimo di ipocrisia.
+
+**EN** — Seth Pecksniff, the hypocritical architect of Dickens's Martin Chuzzlewit, who preaches virtue and practises selfishness; his name became a byword for hypocrisy.
 
 ## Works
 

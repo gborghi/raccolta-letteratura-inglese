@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — La piccola Nell (Nell Trent), l'eroina de La bottega dell'antiquario di Dickens, che fugge con il nonno e la cui morte commosse l'intera Inghilterra vittoriana.
+
+**EN** — Little Nell (Nell Trent), heroine of Dickens's The Old Curiosity Shop, who flees with her grandfather and whose death moved all of Victorian England.
 
 ## Works
 

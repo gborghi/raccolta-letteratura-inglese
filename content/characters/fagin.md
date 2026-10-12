@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Fagin, il vecchio ricettatore di Oliver Twist che addestra i ragazzi di strada a borseggiare.
+
+**EN** — Fagin, the old receiver of stolen goods in Oliver Twist who trains street boys as pickpockets.
 
 ## Works
 

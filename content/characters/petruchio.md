@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Petruccio, il gentiluomo di Verona de La bisbetica domata che sposa Caterina per la dote e la «doma» con metodi bizzarri.
+
+**EN** — Petruchio, the Veronese gentleman of The Taming of the Shrew who marries Katherina for her dowry and 'tames' her by outlandish means.
 
 ## Works
 

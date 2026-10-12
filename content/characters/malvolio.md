@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Malvolio, il maggiordomo puritano e presuntuoso di Olivia ne La dodicesima notte, beffato con una falsa lettera d'amore.
+
+**EN** — Malvolio, Olivia's puritanical, self-important steward in Twelfth Night, tricked with a forged love letter.
 
 ## Works
 

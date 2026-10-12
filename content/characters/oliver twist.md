@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Oliver Twist, l'orfano del romanzo di Dickens (1838) che fugge dall'ospizio, finisce nella banda di ladri di Fagin a Londra e trova infine una famiglia.
+
+**EN** — Oliver Twist, the orphan of Dickens's novel (1838) who escapes the workhouse, falls into Fagin's gang of thieves in London and finally finds a family.
 
 ## Works
 

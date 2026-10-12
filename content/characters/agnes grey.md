@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Agnes Grey, l'istitutrice protagonista del romanzo di Anne Brontë (1847), che racconta le umiliazioni del suo lavoro presso famiglie benestanti.
+
+**EN** — Agnes Grey, the governess heroine of Anne Brontë's novel (1847), who recounts the humiliations of her work for wealthy families.
 
 ## Works
 

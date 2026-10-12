@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Tamora, la regina dei Goti di Tito Andronico, che sposa l'imperatore Saturnino e si vendica crudelmente di Tito.
+
+**EN** — Tamora, Queen of the Goths in Titus Andronicus, who marries the emperor Saturninus and takes cruel revenge on Titus.
 
 ## Works
 

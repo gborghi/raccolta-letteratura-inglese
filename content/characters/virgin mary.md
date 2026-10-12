@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **16** work(s).
+*Character* — appears in **16** work(s).
+
+**IT** — Maria, madre di Gesù, venerata nella tradizione cristiana; nei testi di Chesterton, Eliot e Coleridge è figura di purezza, intercessione e grazia.
+
+**EN** — Mary, mother of Jesus, venerated in the Christian tradition; in the writings of Chesterton, Eliot and Coleridge she is a figure of purity, intercession and grace.
 
 ## Works
 

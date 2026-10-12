@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Ebenezer Scrooge, l'avaro di Canto di Natale di Dickens (1843) che, visitato dai tre spiriti del Natale, si trasforma in un uomo generoso.
+
+**EN** — Ebenezer Scrooge, the miser of Dickens's A Christmas Carol (1843) who, visited by three spirits of Christmas, becomes a generous man.
 
 ## Works
 

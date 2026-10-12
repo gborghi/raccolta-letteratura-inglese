@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **3** work(s).
+*Character* — appears in **3** work(s).
+
+**IT** — Sweeney, il personaggio rozzo e sensuale di diverse poesie di T. S. Eliot (Sweeney Erect, Sweeney Among the Nightingales, Sweeney Agonistes), simbolo dell'uomo moderno ridotto all'istinto.
+
+**EN** — Sweeney, the coarse, sensual figure of several T. S. Eliot poems (Sweeney Erect, Sweeney Among the Nightingales, Sweeney Agonistes), a symbol of modern man reduced to appetite.
 
 ## Works
 

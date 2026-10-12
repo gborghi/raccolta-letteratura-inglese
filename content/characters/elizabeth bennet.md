@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Elizabeth Bennet, l'eroina intelligente e ironica di Orgoglio e pregiudizio di Jane Austen (1813), che impara a superare i propri pregiudizi su Mr Darcy.
+
+**EN** — Elizabeth Bennet, the clever, ironic heroine of Jane Austen's Pride and Prejudice (1813), who learns to overcome her prejudice against Mr Darcy.
 
 ## Works
 

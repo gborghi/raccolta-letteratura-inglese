@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Calibano, l'abitante selvaggio e deforme dell'isola ne La tempesta, schiavo di Prospero; figura dell'uomo «naturale» e del colonizzato.
+
+**EN** — Caliban, the savage, misshapen native of the island in The Tempest, enslaved by Prospero; a figure of 'natural' man and of the colonised.
 
 ## Works
 

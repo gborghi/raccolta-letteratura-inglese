@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Fanny Price, la timida e retta protagonista di Mansfield Park di Jane Austen, cresciuta come parente povera dagli zii Bertram.
+
+**EN** — Fanny Price, the shy, principled heroine of Jane Austen's Mansfield Park, raised as a poor relation by her Bertram relatives.
 
 ## Works
 

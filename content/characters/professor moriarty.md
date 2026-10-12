@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — Professor James Moriarty, the 'Napoleon of crime'; Holmes's intellectual equal and nemesis.
+*Character* — Professor James Moriarty, the 'Napoleon of crime'; Holmes's intellectual equal and nemesis.
+
+**IT** — Il professor James Moriarty, genio matematico e «Napoleone del crimine», nemico mortale di Sherlock Holmes con cui precipita alle cascate di Reichenbach.
+
+**EN** — Professor James Moriarty, mathematical genius and 'Napoleon of crime', Sherlock Holmes's deadly enemy, with whom he plunges over the Reichenbach Falls.
 
 ## Works
 

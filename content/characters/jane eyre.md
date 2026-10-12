@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Jane Eyre, l'istitutrice orfana e indipendente del romanzo di Charlotte Brontë (1847), che ama Mr Rochester ma rifiuta di rinunciare alla propria dignità.
+
+**EN** — Jane Eyre, the orphaned, independent governess of Charlotte Brontë's novel (1847), who loves Mr Rochester but refuses to give up her self-respect.
 
 ## Works
 

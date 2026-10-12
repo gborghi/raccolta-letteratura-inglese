@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Lord Henry Wotton, l'aristocratico brillante e cinico de Il ritratto di Dorian Gray che, con i suoi aforismi, spinge Dorian verso l'edonismo.
+
+**EN** — Lord Henry Wotton, the brilliant, cynical aristocrat of The Picture of Dorian Gray whose epigrams lead Dorian towards hedonism.
 
 ## Works
 

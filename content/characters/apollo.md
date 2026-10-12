@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **5** work(s).
+*Character* — appears in **5** work(s).
+
+**IT** — Apollo, il dio greco del sole, della musica e della poesia, guida delle Muse; per Keats (Hyperion, Ode to Apollo) è il simbolo stesso dell'ispirazione poetica.
+
+**EN** — Apollo, the Greek god of the sun, music and poetry and leader of the Muses; for Keats (Hyperion, Ode to Apollo) he is the very symbol of poetic inspiration.
 
 ## Works
 
