@@ -1861,7 +1861,7 @@ those Fabians who could hardly have been anything but experts
 in any society, such as Mr. Sidney Webb or Mr. Edward Pease,
 it is due yet more strongly to the greatest of the Fabians.
 Here was a man who could have enjoyed art among the artists,
-who could have been the wittiest of all the FLÃ¢NEURS; who could
+who could have been the wittiest of all the FLâNEURS; who could
 have made epigrams like diamonds and drunk music like wine.
 He has instead laboured in a mill of statistics and crammed
 his mind with all the most dreary and the most filthy details,
@@ -2019,8 +2019,8 @@ he says, with admirable good sense.  Everyone will remember
 the effective appearance of Cyrano de Bergerac in the first act
 of the fine play of that name; when instead of leaping in by any
 hackneyed door or [[motifs/window|window]], he suddenly springs upon a chair above
-the crowd that has so far kept him invisible; "les bras croisÃ©s,
-le feutre en bataille, la moustache herissÃ©e, le nez terrible."
+the crowd that has so far kept him invisible; "les bras croisés,
+le feutre en bataille, la moustache herissée, le nez terrible."
 I will not go so far as to say that when Bernard [[works/shaw-(chesterton)|Shaw]] sprang upon
 a chair or tub in Trafalgar Square he had the hat in battle,
 or even that he had the nose terrible.  But just as we see Cyrano
@@ -2135,8 +2135,8 @@ dice, con ammirevole buon senso. Tutti ricorderanno
 l'efficace apparizione di Cyrano de Bergerac nel primo atto
 del bel dramma che porta quel nome; quando, invece di irrompere da una qualche
 trita porta o [[motifs/window|finestra]], balza d'un tratto su una sedia al di sopra
-della folla che l'ha finora tenuto invisibile; «les bras croisÃ©s,
-le feutre en bataille, la moustache herissÃ©e, le nez terrible.»
+della folla che l'ha finora tenuto invisibile; «les bras croisés,
+le feutre en bataille, la moustache herissée, le nez terrible.»
 Non mi spingerò fino a dire che, quando Bernard [[works/shaw-(chesterton)|Shaw]] balzava su
 una sedia o una tribuna in Trafalgar Square, avesse il cappello in battaglia,
 o addirittura che avesse il naso terribile. Ma proprio come vediamo Cyrano
@@ -5122,7 +5122,7 @@ that under such circumstances his first act would be to produce
 his wit naked and unashamed.  He had been told that he could not
 support a slight play by mere dialogue.  He therefore promptly
 produced mere dialogue without the slightest play for it to support.
-Getting Married is no more a play than Cicero's dialogue DE AMICTIÃ¢,
+Getting Married is no more a play than Cicero's dialogue DE AMICTIâ,
 and not half so much a play as Wilson's NOCTES AMBROSIANAE.
 But though it is not a play, it was played, and played successfully.
 Everyone who went into the theatre felt that he was only eavesdropping
@@ -5196,7 +5196,7 @@ into his own.
 
 Le due importanti commedie che ci ha dato da allora sono IL DILEMMA DEL DOTTORE e SPOSARSI. La prima è, per quanto riguarda i suoi elementi più divertenti ed efficaci, un ritorno al suo vecchio gioco di prendersi gioco degli uomini di scienza. Era un ottimo gioco, ed egli era un giocatore ammirevole. La vicenda stessa del DILEMMA DEL DOTTORE mi sembra meno struggente e importante delle cose di cui [[works/shaw-(chesterton)|Shaw]] si era occupato di recente. Anzitutto, come si è detto, [[works/shaw-(chesterton)|Shaw]] non ha né quel genere di giustizia né quel genere di debolezza che occorrono a comporre un vero problema. Non riusciamo a sentire il Dilemma del Dottore, perché non riusciamo davvero a immaginare Bernard [[works/shaw-(chesterton)|Shaw]] alle prese con un dilemma. La sua mente ama insieme la bruschezza e la finalità; si decide sempre quando conosce i fatti, e talvolta prima. Inoltre questo particolare problema (per quanto [[works/shaw-(chesterton)|Shaw]] sia certamente, come vedremo, più vicino al puro [[concepts/doubt|dubbio]] su di esso che su qualsiasi altra cosa) non colpisce il critico come un problema poi così esasperante. Un [[archetypes/artist|artista]] di vasto potere e di vaste promesse, che è anche un mascalzone di vasta dissolutezza e slealtà, ha una possibilità di vita se trattato in modo speciale per una speciale malattia. I dottori moderni (e persino il drammaturgo moderno) sono in [[concepts/doubt|dubbio]] se egli debba essere specialmente favorito perché è esteticamente importante, oppure specialmente trascurato perché è eticamente antisociale. Oscillano tra le due spregevoli dottrine moderne: l'una che i geni vadano adorati come idoli, e l'altra che i criminali vadano semplicemente eliminati come germi. Che tanto gli uomini ingegnosi quanto gli uomini malvagi debbano essere trattati come uomini non sembra venir loro in mente. In realtà, in queste faccende di vita e di [[motifs/death|morte]] non si pensa mai a simili distinzioni. Nessuno grida in mare: «Cattivo cittadino a mare!» Raccomanderei al dottore, nel suo dilemma, di fare esattamente ciò che sono certo qualsiasi dottore dabbene farebbe senza alcun dilemma: trattare l'uomo semplicemente come un uomo, e non concedergli né più né meno favore di quanto ne concederebbe a chiunque altro. In breve, sono certo che un medico pratico lascerebbe cadere tutti questi visionari e impraticabili [[motifs/dreams|sogni]] moderni sul tipo e sulla criminologia, e tornerebbe ai semplici fatti concreti della [[historical-references/french-revolution|Rivoluzione Francese]] e dei Diritti dell'Uomo.
 
-L'altra commedia, SPOSARSI, è un punto notevole nella carriera di [[works/shaw-(chesterton)|Shaw]], ma solo come commedia, non, come al solito, come eresia. Non è nient'altro che una conversazione sul [[motifs/marriage|matrimonio]], e non ci si può trovare d'accordo o in disaccordo con la sua visione del [[motifs/marriage|matrimonio]], perché vi sono esposte tutte le vedute che chiunque sostenga, e alcune (a mio avviso) che nessuno sostiene. Ma la sua qualità tecnica è di una certa importanza nella vita del suo autore. Merita considerazione come commedia, perché non è affatto una commedia. Segna il culmine e il compimento di quella vittoria di Bernard [[works/shaw-(chesterton)|Shaw]] sul pubblico britannico, o piuttosto sui suoi rappresentanti ufficiali, di cui ho parlato. [[works/shaw-(chesterton)|Shaw]] aveva combattuto una lunga lotta con gli uomini d'affari, quella gente incredibile, che gli assicurava che era inutile avere spirito senza omicidi, e che una buona battuta, che è la cosa più popolare dappertutto altrove, era del tutto invendibile nel mondo del teatro. Nonostante ciò egli aveva conquistato col suo spirito e col suo buon dialogo; e al [[motifs/time|tempo]] di cui ora parliamo era vittorioso e sicuro. Tutte le sue commedie venivano rappresentate come cosa ovvia in Inghilterra e come cosa della moda e dell'entusiasmo più accesi in [[settings/america|America]] e in [[settings/germany|Germania]]. Nessuno che conosca la [[concepts/nature|natura]] dell'uomo [[concepts/doubt|dubiterà]] che in tali circostanze il suo primo atto sarebbe stato produrre il suo spirito nudo e senza vergogna. Gli era stato detto che non poteva sostenere una commedia esile col mero dialogo. Egli produsse pertanto prontamente il mero dialogo senza la benché minima commedia da sostenere. Sposarsi non è più una commedia del dialogo di Cicerone DE AMICTIÃ¢, e nemmeno per metà tanto una commedia quanto le NOCTES AMBROSIANAE di Wilson. Ma sebbene non sia una commedia, fu rappresentata, e rappresentata con successo. Chiunque entrasse in teatro sentiva di stare soltanto origliando una conversazione casuale. Ma la conversazione era così scintillante e sensata che egli continuava a origliare. Questa, credo, essendo la commedia finale di [[works/shaw-(chesterton)|Shaw]], è anche, e a ragione, il suo trionfo finale. Egli è un buon drammaturgo e talvolta persino un grande drammaturgo. Ma le occasioni in cui lo intravediamo davvero come un grande uomo sono queste occasioni in cui è del tutto non drammatico.
+L'altra commedia, SPOSARSI, è un punto notevole nella carriera di [[works/shaw-(chesterton)|Shaw]], ma solo come commedia, non, come al solito, come eresia. Non è nient'altro che una conversazione sul [[motifs/marriage|matrimonio]], e non ci si può trovare d'accordo o in disaccordo con la sua visione del [[motifs/marriage|matrimonio]], perché vi sono esposte tutte le vedute che chiunque sostenga, e alcune (a mio avviso) che nessuno sostiene. Ma la sua qualità tecnica è di una certa importanza nella vita del suo autore. Merita considerazione come commedia, perché non è affatto una commedia. Segna il culmine e il compimento di quella vittoria di Bernard [[works/shaw-(chesterton)|Shaw]] sul pubblico britannico, o piuttosto sui suoi rappresentanti ufficiali, di cui ho parlato. [[works/shaw-(chesterton)|Shaw]] aveva combattuto una lunga lotta con gli uomini d'affari, quella gente incredibile, che gli assicurava che era inutile avere spirito senza omicidi, e che una buona battuta, che è la cosa più popolare dappertutto altrove, era del tutto invendibile nel mondo del teatro. Nonostante ciò egli aveva conquistato col suo spirito e col suo buon dialogo; e al [[motifs/time|tempo]] di cui ora parliamo era vittorioso e sicuro. Tutte le sue commedie venivano rappresentate come cosa ovvia in Inghilterra e come cosa della moda e dell'entusiasmo più accesi in [[settings/america|America]] e in [[settings/germany|Germania]]. Nessuno che conosca la [[concepts/nature|natura]] dell'uomo [[concepts/doubt|dubiterà]] che in tali circostanze il suo primo atto sarebbe stato produrre il suo spirito nudo e senza vergogna. Gli era stato detto che non poteva sostenere una commedia esile col mero dialogo. Egli produsse pertanto prontamente il mero dialogo senza la benché minima commedia da sostenere. Sposarsi non è più una commedia del dialogo di Cicerone DE AMICTIâ, e nemmeno per metà tanto una commedia quanto le NOCTES AMBROSIANAE di Wilson. Ma sebbene non sia una commedia, fu rappresentata, e rappresentata con successo. Chiunque entrasse in teatro sentiva di stare soltanto origliando una conversazione casuale. Ma la conversazione era così scintillante e sensata che egli continuava a origliare. Questa, credo, essendo la commedia finale di [[works/shaw-(chesterton)|Shaw]], è anche, e a ragione, il suo trionfo finale. Egli è un buon drammaturgo e talvolta persino un grande drammaturgo. Ma le occasioni in cui lo intravediamo davvero come un grande uomo sono queste occasioni in cui è del tutto non drammatico.
 
 Dal principio alla fine Bernard [[works/shaw-(chesterton)|Shaw]] non è stato altro che un conversatore. Non è un'offesa dirlo; Socrate lo fu, e persino [[characters/christ|Cristo]] stesso. Egli differisce da quel prototipo divino e da quello umano nel fatto che, come la maggior parte delle persone moderne, parla in una certa misura per scoprire ciò che pensa; mentre essi lo sapevano in anticipo. Ma egli ha le virtù che accompagnano l'uomo loquace; una delle quali è l'[[concepts/humility|umiltà]]. Difficilmente troverete un uomo davvero orgoglioso che sia loquace; egli ha paura di parlare troppo. Bernard [[works/shaw-(chesterton)|Shaw]] si offrì al mondo con una sola grande qualifica, cioè che sapeva parlare onestamente e [[motifs/well|bene]]. Egli non arringava; parlava a una folla. Non scriveva; parlava a una macchina da scrivere. Non costruiva davvero una commedia; parlava attraverso dieci bocche o maschere invece che attraverso una. Il suo potere e il suo progresso letterario cominciarono in conversazioni casuali, e mi sembra supremamente giusto che dovessero finire in una grande e casuale conversazione. La sua ultima commedia non è nient'altro che garrulo chiacchierare, quella grande cosa chiamata pettegolezzo. E sono felice di dire che la commedia è stata efficiente e riuscita quanto la chiacchiera e il pettegolezzo lo sono sempre stati tra i figli degli uomini.
 
@@ -6057,7 +6057,7 @@ The Modern Ideas in question are now nearly two hundred years old,
 when they are not merely as old as the world; and as they are
 expressed by everybody else, their dullness is devastating.
 [[works/shaw-(chesterton)|Shaw]] has seldom allowed them to be dull; because he has cultivated
-a certain art or manÅ“uvre, which may be called the Surprise Attack.
+a certain art or manœuvre, which may be called the Surprise Attack.
 He does besiege the old [[settings/castle|castle]], whether of conventions or convictions,
 but he never scales it on the same side as its other enemies.
 An excellent example of this was the play of St. Joan.
@@ -6191,7 +6191,7 @@ really weak spot; that it is not popular.  But it is a shallow
 view to suppose that he ends with the vulgarity of victory.
 He ends fighting against the [[motifs/stars|stars]] and fates and forces
 of the modern world like any of the tragic heroes;
-sed victa Catoni.  But Cato fought against CÃ¦sar and this
+sed victa Catoni.  But Cato fought against Cæsar and this
 [[archetypes/king|King]] fought against some thing queer and very different.
 Here again, [[works/shaw-(chesterton)|Shaw]] is admirable in seizing a real modern fact.
 Critics supposed that the Prime Minister was meant merely
@@ -6746,7 +6746,7 @@ Creative Evolution; and it is first necessary to note the
 genuine value and controversial [[concepts/courage|courage]] of this distinction.
 Primarily, he means to distinguish Creative Evolution from Darwinism;
 which may be called blind or blundering evolution.
-In the technical terms of the cheap encyclopÃ¦dia,
+In the technical terms of the cheap encyclopædia,
 [[works/shaw-(chesterton)|Shaw]] upholds Lamarck against Darwin.  It is better to say
 (freeing ourselves for a moment from the modern scientific
 passion for invoking authority, or the mere names of authorities)

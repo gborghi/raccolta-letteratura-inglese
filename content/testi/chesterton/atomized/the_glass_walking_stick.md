@@ -80,7 +80,7 @@ The Inside of Life.  1908
 
 Tricks of [[motifs/memory|Memory]].  1910
 
-The Code NapolÃ©on. 1921 and 1922
+The Code Napoléon. 1921 and 1922
 
 Cyrano and Chantecler.  1910
 
@@ -1191,7 +1191,7 @@ the strangest of Spaniards and of men.  Philip the Second not only
 dedicated it to St Laurence, but built it in the shape of a gridiron.
 And I realized something appropriate in the image, beyond the suggestion
 of something in the [[archetypes/king|King]]'s own life of stiffness and of [[concepts/suffering|suffering]].
-SeÃ±or Junoy, the distinguished Catalan writer, said to me, with great
+Señor Junoy, the distinguished Catalan writer, said to me, with great
 imaginative insight:  ‘It seems so cold, and yet it is so ardent.'
 Philip's gridiron, almost like Pickwick's warming-pan, was a cover
 for hidden fire.  The very coldness of the surroundings accentuates
@@ -3314,7 +3314,7 @@ not on any notion that a [[archetypes/king|king]] would not look at a [[concepts
 That this was the historic [[concepts/truth|truth]], about the actual [[concepts/history|history]] of monarchy,
 good or bad, is proved by all the other facts of the case.
 When kingship had risen to its most extraordinary and even
-exaggerated eminence, as in the great France of the Grand SiÃ¨cle,
+exaggerated eminence, as in the great France of the Grand Siècle,
 people were admitted, not merely to the [[motifs/death|death]]-chamber when the [[archetypes/king|King]]
 was dead, but to the bed-chamber when he was alive.  Crowds poured
 through the dressing-room of Louis XIV, that almost almighty monarch,
@@ -3417,7 +3417,7 @@ not easy to describe.
 Architecture is the alphabet of giants; it is the largest system
 of symbols ever made to meet the eyes of men.  A tower stands up
 like a sort of simplified statue, of much more than ‘heroic size'.
-A faÃ§ade is rightly called a face; it has something of the
+A façade is rightly called a face; it has something of the
 character of a huge human face fading or simplifying itself into
 the formality of a diagram; we see it in the childish sketches
 of a cottage with windows for eyes and the front-door for a mouth.
@@ -3627,7 +3627,7 @@ It is like the case of one of those florid classical masks so often
 seen in the sculpture and decoration of the Baroque period.
 Only the French beheld it solid and in the round; a full
 and featured lace; the noble mask of [[forms/comedy|Comedy]] or of [[forms/tragedy|Tragedy]];
-for the smile was the smile of MoliÃ¨re and the frown
+for the smile was the smile of Molière and the frown
 was the frown of Racine.  But we were on the concave
 and not the convex side of that mould or protuberance.
 At that particular period, we saw it as something hollow and empty;
@@ -3639,8 +3639,8 @@ we admired them without praising them.  They were at once
 our enemies and our models; but that very fact shows that they
 were at that moment at their best and we almost at our worst.
 Wycherley wrote an English version of the noblest of all the plays
-of MoliÃ¨re, and it is pretty ignoble.  It is almost enough to ask
-where MoliÃ¨re has stood among French writers and where Wycherley
+of Molière, and it is pretty ignoble.  It is almost enough to ask
+where Molière has stood among French writers and where Wycherley
 has stood among English.  Anyhow, it will be agreed that our great
 period was rather the age of Shakespeare than the age of Wycherley.
 The reasons for this contrast are probably political and may be
@@ -3669,7 +3669,7 @@ that a Europe without flags or frontiers really existed in the past.
 He wants to get nearer to a World State and he hates the nearest
 that the world ever came to a World State--the Roman Empire.
 I find the most enlightened Englishmen strangely blind to the positive
-European importance of the Grand SiÃ¨cle. They seem to be as jealous
+European importance of the Grand Siècle. They seem to be as jealous
 of Louis XIV as if he were still alive.  But a good historian will feel
 something of the magnificence of the legend of Louis, just as he will
 feel something of the magnificence of the legend of Elizabeth.
@@ -4338,7 +4338,7 @@ were people whom the new generation may have managed
 to despise, but have certainly never managed to dismiss.
 The same age which boasts of having broken away finally from
 Victorianism is the age which it seems impossible to restrain
-from writing plays about Browning, books about BrontÃ«s,
+from writing plays about Browning, books about Brontës,
 lives of such very limited and localized Victorians
 as Palmerston and Disraeli; and, above all, a permanent
 Victorian torrent of books about [[characters/queen|Queen]] Victoria herself.
@@ -4875,7 +4875,7 @@ with a row of prim little houses breaking their necks downhill
 in the most decorous single file.  If I were landlord of that street,
 or a visiting philanthropist making myself objectionable down
 that street, I could easily take it all in at a glance, sum it all up
-and say, ‘Houses at Â£40 a year.'  But suppose I could be father
+and say, ‘Houses at £40 a year.'  But suppose I could be father
 confessor to that Street, how awful and altered it would look!
 Each house would be sundered from its neighbour as by an
 earthquake and would stand alone in a wilderness of the [[motifs/soul|soul]].
@@ -5081,7 +5081,7 @@ the [[motifs/memory|memory]] of the Battle I of Waterloo, it would seem that we
 have adopted a rather dingy and ineffectual way of doing it.
 We have never been very fortunate with our public monuments,
 and Waterloo Station would certainly seem to be one of the
-least felicitous.  The great figure on the Colonne de VendÃ´me
+least felicitous.  The great figure on the Colonne de Vendôme
 can afford to smile at the artistic effort.
 
 But there is another [[concepts/reform|reform]], connected with the same set of ideas,
@@ -5136,7 +5136,7 @@ which Napoleon really fought were the very contrary of those cloudy
 and fatalistic things with which his legends have been clothed.
 If ever a man stood for the strong southern sun against the clouds
 and the confusing twilight, it was he.  What Napoleon stood
-for was common sense--le bon sens franÃ§ais. That French
+for was common sense--le bon sens français. That French
 common sense can sometimes be cruel, but never fatalistic.
 It despises dooms and omens and hereditary curses and chosen
 races and all the superstitious necessitarianism of the North.
@@ -5192,7 +5192,7 @@ bigger than he in the nursery and the playground, and for no other
 reason whatever, is an anti-climax to all anarchical romance.
 The Superman is still actually looking up to his elder brother,
 simply be cause he is his elder brother.  We look for Napoleon and we
-find Buonaparte ainÃ©. In Thackeray and nearly all English fiction, it is
+find Buonaparte ainé. In Thackeray and nearly all English fiction, it is
 taken for granted, with a laugh, that a fellow can hardly be expected
 to be very fond of his elder brother.  In the Code of the Corsican Ogre
 it is taken for granted, with entire innocence, that a fellow cannot
@@ -5210,7 +5210,7 @@ virtues and vices of the strong man; but, anyhow, there was
 something that was stronger than Napoleon.  There was something
 that he served and did not really pretend to rule.  He served his
 own family; and he served the whole institution of the family.
-Much of the Code NapolÃ©on turns upon it, and its economic
+Much of the Code Napoléon turns upon it, and its economic
 expression in a peasantry.  It is the supreme and sacred institution
 of Latin society; and whether we are to be friends or foes
 of that society, we shall be wise to understand it better.
@@ -5302,12 +5302,12 @@ It is his vice, he says, to wish everybody to hate him.
 He compares [[motifs/love|love]] to the loose Vandyck collars that are coming
 into fashion, and hatred to the stiff Elizabethan ruff which
 he still retains; it is uncomfortable, but it holds a man's
-head up:  ‘La Haine est un carcan, mais c'est une aurÃ©ole.'
+head up:  ‘La Haine est un carcan, mais c'est une auréole.'
 To be a bitter and exact critic of society, to lash the age,
 to demand that acting, writing, fencing should reach
 a severe standard, to wage a lonely war on stupidity--
 this is a French idea; it is the idea of Rostand's Cyrano,
-just as it is the idea of MoliÃ¨re's Misanthrope.
+just as it is the idea of Molière's Misanthrope.
 It is hard for an Englishman (at least, it is hard for me)
 heartily to like this idealistic cruelty.  It is hard for us
 to imagine scorn as something fruitful and ever-festive; to behold
@@ -5428,7 +5428,7 @@ There is nothing specially ‘practical' about peacock green.
 One was, indeed, handed about from one official to another
 and permitted, with silent pomp, to pass from one large waiting-room
 into another exactly like it.  But it was not really oppressive,
-any more than the French mÃªlÃ©e was really brutal:
+any more than the French mêlée was really brutal:
 the whole thing was a national sport.  And the luggage was
 inspected and passed, the travellers marshalled and set free,
 in exactly the same space of time as they had been at Boulogne.

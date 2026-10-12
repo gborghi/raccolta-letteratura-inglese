@@ -2418,7 +2418,7 @@ on decaying a little too long and degenerate more than was really
 good for their health.  I propose only a moderate indulgence
 in ruin; a cautious and temperate use of a return to barbarism.
 There are many quite modern people in whom the merest touch
-of decomposition, the merest soupÃ§on of corruption and rottenness,
+of decomposition, the merest soupçon of corruption and rottenness,
 would be enough to reassure me.  But there are some modern
 people who are a great deal too modern; who are quite certainly
 devouring and destroying themselves with the nonsense of novelty,
@@ -2818,7 +2818,7 @@ to think that youth never shows its glorious vividness and vitality
 so much as when transfiguring what might be called monotony.
 I feel far more sense of a creative glow, and of something
 passionately alive, in the description of the dreary moorland and dark
-mansion of the BrontÃ«s, or even of the dismal coffee-houses that were
+mansion of the Brontës, or even of the dismal coffee-houses that were
 filled with the first [[motifs/dreams|dreams]] of Dickens, than I feel in the faces
 and conversation of half the young people I see at shows and dances
 to-day. Nor do I think it was a case of [[concepts/imagination|imagination]] existing in spite
@@ -2890,7 +2890,7 @@ But most normal persons are now taught to neglect far too much the sort of
 excitement which the mind itself manufactures out of unexciting things.
 And anybody who can feel the fine shades, in fiction or philosophy
 will agree that the old school called Romantic, or even Byronic,
-which we feel still volcanic in the BrontÃ«s, had really about it
+which we feel still volcanic in the Brontës, had really about it
 a curious confidence in life, an unbroken [[concepts/hope|hope]] in the heart,
 which is strangely stubborn in many people who had been as badly
 brought up as Byron.  Byron himself, with all his parade of pessimism,
@@ -3647,7 +3647,7 @@ poems, like those of Ariosto and Spenser, it is legitimate
 to [[concepts/doubt|doubt]] whether everybody does know what happened to anybody.
 Lord Macaulay was the most persistent of readers, with the most
 perfect of memories; yet it is admitted that he came a cropper,
-or fell out of the race, in the forests of the FaÃ«rie Queene.
+or fell out of the race, in the forests of the Faërie Queene.
 He said that few readers were in at the [[motifs/death|death]] of the Blatant Beast,
 and if he had been there himself he would have known that the Beast
 does not even die.  But while this lack of final perseverance

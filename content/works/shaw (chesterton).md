@@ -1643,7 +1643,7 @@ those Fabians who could hardly have been anything but experts
 in any society, such as Mr. Sidney Webb or Mr. Edward Pease,
 it is due yet more strongly to the greatest of the Fabians.
 Here was a man who could have enjoyed art among the artists,
-who could have been the wittiest of all the FLÃ¢NEURS; who could
+who could have been the wittiest of all the FLâNEURS; who could
 have made epigrams like diamonds and drunk music like wine.
 He has instead laboured in a mill of statistics and crammed
 his mind with all the most dreary and the most filthy details,
@@ -1708,8 +1708,8 @@ he says, with admirable good sense.  Everyone will remember
 the effective appearance of Cyrano de Bergerac in the first act
 of the fine play of that name; when instead of leaping in by any
 hackneyed door or window, he suddenly springs upon a chair above
-the crowd that has so far kept him invisible; "les bras croisÃ©s,
-le feutre en bataille, la moustache herissÃ©e, le nez terrible."
+the crowd that has so far kept him invisible; "les bras croisés,
+le feutre en bataille, la moustache herissée, le nez terrible."
 I will not go so far as to say that when Bernard Shaw sprang upon
 a chair or tub in Trafalgar Square he had the hat in battle,
 or even that he had the nose terrible.  But just as we see Cyrano
@@ -4312,7 +4312,7 @@ that under such circumstances his first act would be to produce
 his wit naked and unashamed.  He had been told that he could not
 support a slight play by mere dialogue.  He therefore promptly
 produced mere dialogue without the slightest play for it to support.
-Getting Married is no more a play than Cicero's dialogue DE AMICTIÃ¢,
+Getting Married is no more a play than Cicero's dialogue DE AMICTIâ,
 and not half so much a play as Wilson's NOCTES AMBROSIANAE.
 But though it is not a play, it was played, and played successfully.
 Everyone who went into the theatre felt that he was only eavesdropping
@@ -5081,7 +5081,7 @@ The Modern Ideas in question are now nearly two hundred years old,
 when they are not merely as old as the world; and as they are
 expressed by everybody else, their dullness is devastating.
 Shaw has seldom allowed them to be dull; because he has cultivated
-a certain art or manÅ“uvre, which may be called the Surprise Attack.
+a certain art or manœuvre, which may be called the Surprise Attack.
 He does besiege the old castle, whether of conventions or convictions,
 but he never scales it on the same side as its other enemies.
 An excellent example of this was the play of St. Joan.
@@ -5165,7 +5165,7 @@ really weak spot; that it is not popular.  But it is a shallow
 view to suppose that he ends with the vulgarity of victory.
 He ends fighting against the stars and fates and forces
 of the modern world like any of the tragic heroes;
-sed victa Catoni.  But Cato fought against CÃ¦sar and this
+sed victa Catoni.  But Cato fought against Cæsar and this
 King fought against some thing queer and very different.
 Here again, Shaw is admirable in seizing a real modern fact.
 Critics supposed that the Prime Minister was meant merely
@@ -5553,7 +5553,7 @@ Creative Evolution; and it is first necessary to note the
 genuine value and controversial courage of this distinction.
 Primarily, he means to distinguish Creative Evolution from Darwinism;
 which may be called blind or blundering evolution.
-In the technical terms of the cheap encyclopÃ¦dia,
+In the technical terms of the cheap encyclopædia,
 Shaw upholds Lamarck against Darwin.  It is better to say
 (freeing ourselves for a moment from the modern scientific
 passion for invoking authority, or the mere names of authorities)

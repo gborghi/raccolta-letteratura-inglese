@@ -2371,7 +2371,7 @@ and a sentimental anarchist.  Nevertheless, I thought then,
 and I think I was right in thinking then, that England suffered
 from the lack of that natural flow of intelligent talk and pleasant
 public manners that can be seen in the cities of the Continent.
-A cafÃ© was a place where even strangers could talk; and a club
+A café was a place where even strangers could talk; and a club
 was a place where even friends could not talk.
 
 I remember throwing out a fanciful suggestion, partly for fun,
@@ -2825,7 +2825,7 @@ XVIII.  On Current Claptrap
 
 IT is not often that we find the one book that ought to
 be written, written by the one man who ought to write it.
-The AbbÃ© Dimnet is a distinguished French authority who has made
+The Abbé Dimnet is a distinguished French authority who has made
 a very lucid and most timely pronouncement on the Art of Thinking,
 for want of which the whole modern world was going mad.
 He suggests, with very sympathetic insight, that there is something
@@ -3312,7 +3312,7 @@ be expected from all the individual members of any profession.
 The poor ordinary parson is not allowed to teach what
 he has learnt, a certain system of religious thought.
 But he is expected, all by himself, to be a sort of compound
-of Savonarola and Swedenborg and M. CouÃ©. All men are not born
+of Savonarola and Swedenborg and M. Coué. All men are not born
 mesmerists or prose poets or persons of magnetic personality.
 But all men can expound a rational scheme of religion and morals,
 if there is one to expound.
@@ -6199,7 +6199,7 @@ The popularity of King George will stand at least as a sort of
 solid reminder of the proportions of things; will tell the world
 that we are not all divorced, that we are not all degenerates,
 that we are not all pestering the world with crazy philosophies and
-Ã¦sthetic perversions; that human life is a thing that can in sober
+æsthetic perversions; that human life is a thing that can in sober
 reality be lived; and as the royal sage added, with a noble irony:
 `Life can be lived well even in a palace.'
 

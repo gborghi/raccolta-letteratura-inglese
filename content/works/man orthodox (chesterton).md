@@ -4730,7 +4730,7 @@ in a very real sense, a fulfilment.
 
 Reader, when you or I meet him [the dragon], under whatever disguise,
 and perhaps rescue a few captives from his black cavern, may we bear
-a brave lance and a spotless shield through the crashing mÃªlÃ©e
+a brave lance and a spotless shield through the crashing mêlée
 of life's narrow lists and may our wearied swords have struck fiercely
 on the painted crests of Imposture and Injustice when the Dark Herald
 comes to lead us to the pavilion of the King.

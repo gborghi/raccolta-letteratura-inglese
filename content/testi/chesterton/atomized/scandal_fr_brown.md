@@ -7356,7 +7356,7 @@ they call [[motifs/love|love]] as [[motifs/well|well]]. Was it my fault that he 
 man who succeeds in things? But the dirty devil swears he'll succeed
 yet; shoot me and run off with my - never mind. I suppose he's a sort of
 madman, but he'll jolly soon try to be some sort of murderer. I'll give
-you Â£5 a week if you'll meet me at the lodge at the end of the pier,
+you £5 a week if you'll meet me at the lodge at the end of the pier,
 just after the pier closes tonight - and take on my job. It's the only
 safe place to meet - if anything is safe by this [[motifs/time|time]].
 
