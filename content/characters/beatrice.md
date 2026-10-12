@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Nome di più figure: la Beatrice arguta di Molto rumore per nulla di Shakespeare, che duella a parole con Benedick fino a innamorarsene; Beatrice Portinari, la donna amata da Dante, citata da Chesterton; la duchessa Beatrice de La duchessa di Padova di Wilde.
+
+**EN** — The name of several figures: the witty Beatrice of Shakespeare's Much Ado About Nothing, who duels in words with Benedick until they fall in love; Beatrice Portinari, Dante's beloved, cited by Chesterton; and Duchess Beatrice in Wilde's The Duchess of Padua.
 
 ## Works
 

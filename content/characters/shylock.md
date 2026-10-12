@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Shylock, l'usuraio ebreo de Il mercante di Venezia di Shakespeare, che pretende «una libbra di carne» da Antonio come pegno del prestito.
+
+**EN** — Shylock, the Jewish moneylender in Shakespeare's The Merchant of Venice, who demands 'a pound of flesh' from Antonio as the bond for his loan.
 
 ## Works
 

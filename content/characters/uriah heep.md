@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Uriah Heep, il viscido impiegato di David Copperfield che si proclama sempre «umile» mentre trama per rovinare il suo principale, Mr Wickfield.
+
+**EN** — Uriah Heep, the slimy clerk in David Copperfield who always calls himself 'umble' while scheming to ruin his employer, Mr Wickfield.
 
 ## Works
 

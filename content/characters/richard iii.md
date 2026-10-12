@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Riccardo III, il re di Shakespeare deforme e machiavellico che conquista il trono con l'inganno e l'omicidio e muore a Bosworth («Un cavallo! Il mio regno per un cavallo!»).
+
+**EN** — Richard III, Shakespeare's deformed, Machiavellian king who seizes the throne through deceit and murder and dies at Bosworth ('A horse! my kingdom for a horse!').
 
 ## Works
 

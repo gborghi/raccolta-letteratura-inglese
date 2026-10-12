@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Re Lear, il vecchio sovrano della tragedia di Shakespeare che divide il regno tra le figlie in base alle loro lusinghe, ripudia la sincera Cordelia e precipita nella follia.
+
+**EN** — King Lear, the aged ruler of Shakespeare's tragedy who divides his kingdom among his daughters according to their flattery, disowns the honest Cordelia and descends into madness.
 
 ## Works
 

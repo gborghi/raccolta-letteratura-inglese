@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Il principe Hal, il futuro Enrico V, in Enrico IV di Shakespeare: passa la giovinezza nelle taverne con Falstaff, poi si riscatta e diventa un re esemplare.
+
+**EN** — Prince Hal, the future Henry V, in Shakespeare's Henry IV: he spends his youth in taverns with Falstaff, then reforms and becomes an exemplary king.
 
 ## Works
 

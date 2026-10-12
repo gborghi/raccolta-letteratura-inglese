@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Samuel Pickwick, il gentiluomo ingenuo e generoso, fondatore del circolo che dà il titolo a Il circolo Pickwick di Dickens (1836-37).
+
+**EN** — Samuel Pickwick, the naive and kind-hearted gentleman who founds the club of Dickens's The Pickwick Papers (1836-37).
 
 ## Works
 

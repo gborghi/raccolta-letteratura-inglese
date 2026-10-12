@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Ippolita, la regina delle Amazzoni del mito greco; in Sogno di una notte di mezza estate è la promessa sposa di Teseo.
+
+**EN** — Hippolyta, queen of the Amazons in Greek myth; in A Midsummer Night's Dream she is betrothed to Theseus.
 
 ## Works
 

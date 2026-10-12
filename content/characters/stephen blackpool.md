@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Stephen Blackpool, l'operaio onesto e sfortunato di Tempi difficili, isolato da compagni e padroni.
+
+**EN** — Stephen Blackpool, the honest, ill-fated millworker of Hard Times, shunned by both fellow workers and employers.
 
 ## Works
 

@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Touchstone (Pietra di paragone), il buffone di corte di Come vi piace che segue Rosalinda e Celia nella foresta di Arden con il suo umorismo pungente.
+
+**EN** — Touchstone, the court jester of As You Like It who follows Rosalind and Celia into the Forest of Arden with his sharp humour.
 
 ## Works
 

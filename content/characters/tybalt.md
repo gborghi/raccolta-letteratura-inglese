@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Tebaldo, il cugino iracondo di Giulietta in Romeo e Giulietta: uccide Mercuzio e viene a sua volta ucciso da Romeo.
+
+**EN** — Tybalt, Juliet's hot-tempered cousin in Romeo and Juliet: he kills Mercutio and is in turn killed by Romeo.
 
 ## Works
 

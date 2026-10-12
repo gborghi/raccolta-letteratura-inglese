@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Sairey Gamp, l'infermiera sciatta e beona di Martin Chuzzlewit di Dickens, che cita sempre un'amica immaginaria, la signora Harris.
+
+**EN** — Sairey Gamp, the slovenly, gin-loving nurse of Dickens's Martin Chuzzlewit, who constantly quotes an imaginary friend, Mrs Harris.
 
 ## Works
 

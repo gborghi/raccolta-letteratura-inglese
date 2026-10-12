@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Viola, l'eroina de La dodicesima notte di Shakespeare: naufragata in Illiria, si traveste da uomo (Cesario) e si innamora del duca Orsino.
+
+**EN** — Viola, the heroine of Shakespeare's Twelfth Night: shipwrecked in Illyria, she disguises herself as a man (Cesario) and falls in love with Duke Orsino.
 
 ## Works
 

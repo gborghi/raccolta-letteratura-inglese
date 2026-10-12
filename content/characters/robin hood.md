@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Robin Hood, il leggendario fuorilegge della foresta di Sherwood che ruba ai ricchi per dare ai poveri, protagonista di ballate inglesi dal Medioevo.
+
+**EN** — Robin Hood, the legendary outlaw of Sherwood Forest who robs the rich to give to the poor, hero of English ballads since the Middle Ages.
 
 ## Works
 

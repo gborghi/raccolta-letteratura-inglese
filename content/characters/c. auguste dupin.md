@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **3** work(s).
+*Character* — appears in **3** work(s).
+
+**IT** — C. Auguste Dupin, l'investigatore parigino di Edgar Allan Poe (I delitti della Rue Morgue, 1841), primo detective della narrativa moderna e modello per Sherlock Holmes.
+
+**EN** — C. Auguste Dupin, Edgar Allan Poe's Parisian investigator (The Murders in the Rue Morgue, 1841), the first detective of modern fiction and a model for Sherlock Holmes.
 
 ## Works
 

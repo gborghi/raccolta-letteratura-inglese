@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Sam Weller, il servitore cockney arguto e fedele di Mr Pickwick ne Il circolo Pickwick di Dickens.
+
+**EN** — Sam Weller, Mr Pickwick's witty and loyal Cockney servant in Dickens's The Pickwick Papers.
 
 ## Works
 

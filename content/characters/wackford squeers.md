@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Wackford Squeers, il crudele e ignorante direttore della scuola di Dotheboys Hall in Nicholas Nickleby di Dickens.
+
+**EN** — Wackford Squeers, the cruel and ignorant headmaster of Dotheboys Hall in Dickens's Nicholas Nickleby.
 
 ## Works
 

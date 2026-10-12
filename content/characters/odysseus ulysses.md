@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **5** work(s).
+*Character* — appears in **5** work(s).
+
+**IT** — Odisseo (Ulisse), l'eroe greco dell'Odissea di Omero, famoso per l'astuzia e il lungo viaggio di ritorno a Itaca; ripreso da Dante, Tennyson e Joyce come simbolo della sete di conoscenza.
+
+**EN** — Odysseus (Ulysses), the Greek hero of Homer's Odyssey, famed for his cunning and his long voyage home to Ithaca; taken up by Dante, Tennyson and Joyce as a symbol of the thirst for knowledge.
 
 ## Works
 

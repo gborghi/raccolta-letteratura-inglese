@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Sir Toby Belch, lo zio beone e burlone di Olivia ne La dodicesima notte, che organizza lo scherzo ai danni di Malvolio.
+
+**EN** — Sir Toby Belch, Olivia's drunken, prank-loving uncle in Twelfth Night, who leads the trick played on Malvolio.
 
 ## Works
 

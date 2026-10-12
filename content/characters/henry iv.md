@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Enrico IV d'Inghilterra (Bolingbroke) nei drammi storici di Shakespeare: usurpa il trono a Riccardo II e regna tormentato da ribellioni e dai rimorsi.
+
+**EN** — Henry IV of England (Bolingbroke) in Shakespeare's history plays: he usurps the throne from Richard II and reigns troubled by rebellions and remorse.
 
 ## Works
 

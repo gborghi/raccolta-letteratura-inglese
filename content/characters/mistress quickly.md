@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **3** work(s).
+*Character* — appears in **3** work(s).
+
+**IT** — Madama Quickly, l'ostessa della taverna della Testa di Cinghiale nei drammi di Shakespeare (Enrico IV, Enrico V, Le allegre comari), amica di Falstaff e famosa per gli strafalcioni.
+
+**EN** — Mistress Quickly, hostess of the Boar's Head tavern in Shakespeare's plays (Henry IV, Henry V, The Merry Wives), Falstaff's friend and famous for her malapropisms.
 
 ## Works
 

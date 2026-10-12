@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Cordelia, la figlia più giovane e sincera di Re Lear: si rifiuta di adulare il padre, viene diseredata, ma gli resta fedele fino alla morte.
+
+**EN** — Cordelia, King Lear's youngest and honest daughter: she refuses to flatter her father, is disinherited, yet remains loyal to him until her death.
 
 ## Works
 

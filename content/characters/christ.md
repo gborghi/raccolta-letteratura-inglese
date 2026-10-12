@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **91** work(s).
+*Character* — appears in **91** work(s).
+
+**IT** — Gesù Cristo, figura centrale del cristianesimo: nei testi della raccolta compare come presenza religiosa e simbolo di sacrificio, redenzione e amore divino.
+
+**EN** — Jesus Christ, the central figure of Christianity: in these texts he appears as a religious presence and a symbol of sacrifice, redemption and divine love.
 
 ## Works
 

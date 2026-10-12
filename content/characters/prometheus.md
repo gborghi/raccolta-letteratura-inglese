@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **3** work(s).
+*Character* — appears in **3** work(s).
+
+**IT** — Prometeo, il titano del mito greco che rubò il fuoco agli dèi per donarlo agli uomini e fu incatenato per punizione; simbolo romantico della ribellione e del progresso.
+
+**EN** — Prometheus, the Titan of Greek myth who stole fire from the gods for humankind and was chained in punishment; a Romantic symbol of rebellion and progress.
 
 ## Works
 

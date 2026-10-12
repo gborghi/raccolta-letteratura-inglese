@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Regan, seconda figlia di Re Lear, ingrata e crudele come la sorella Goneril; partecipa all'accecamento del conte di Gloucester.
+
+**EN** — Regan, King Lear's second daughter, as ungrateful and cruel as her sister Goneril; she takes part in the blinding of the Earl of Gloucester.
 
 ## Works
 

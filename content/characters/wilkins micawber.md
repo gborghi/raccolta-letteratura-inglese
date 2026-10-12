@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Wilkins Micawber, l'impiegato squattrinato e sempre ottimista di David Copperfield di Dickens, convinto che «qualcosa salterà fuori».
+
+**EN** — Wilkins Micawber, the penniless, ever-hopeful clerk in Dickens's David Copperfield, always sure that 'something will turn up'.
 
 ## Works
 

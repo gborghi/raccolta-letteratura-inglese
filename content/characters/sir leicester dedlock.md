@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Sir Leicester Dedlock, il baronetto orgoglioso e conservatore di Casa Desolata di Dickens, marito di Lady Dedlock.
+
+**EN** — Sir Leicester Dedlock, the proud, conservative baronet of Dickens's Bleak House, husband of Lady Dedlock.
 
 ## Works
 

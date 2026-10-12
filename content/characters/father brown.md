@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **6** work(s).
+*Character* — appears in **6** work(s).
+
+**IT** — Padre Brown, il piccolo prete cattolico detective creato da G. K. Chesterton (dal 1910): risolve i delitti grazie alla conoscenza del cuore umano più che agli indizi materiali.
+
+**EN** — Father Brown, the unassuming Catholic priest-detective created by G. K. Chesterton (from 1910): he solves crimes through his understanding of human nature rather than physical clues.
 
 ## Works
 

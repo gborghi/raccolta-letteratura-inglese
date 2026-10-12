@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Rosalinda, l'eroina di Come vi piace di Shakespeare: esiliata nella foresta di Arden, si traveste da ragazzo e mette alla prova l'amore di Orlando.
+
+**EN** — Rosalind, the heroine of Shakespeare's As You Like It: exiled to the Forest of Arden, she disguises herself as a young man and tests Orlando's love.
 
 ## Works
 

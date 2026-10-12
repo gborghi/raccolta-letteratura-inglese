@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Edmund, il figlio illegittimo del conte di Gloucester in Re Lear: ambizioso e cinico, inganna il padre e il fratello Edgar per impadronirsi dell'eredità.
+
+**EN** — Edmund, the illegitimate son of the Earl of Gloucester in King Lear: ambitious and cynical, he deceives his father and brother Edgar to seize the inheritance.
 
 ## Works
 

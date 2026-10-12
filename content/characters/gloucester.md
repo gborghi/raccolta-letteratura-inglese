@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Il conte di Gloucester in Re Lear: ingannato dal figlio Edmund, viene accecato per la sua fedeltà al re, in una trama parallela a quella di Lear.
+
+**EN** — The Earl of Gloucester in King Lear: deceived by his son Edmund, he is blinded for his loyalty to the king, in a subplot mirroring Lear's own.
 
 ## Works
 

@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Edgar, il figlio legittimo del conte di Gloucester in Re Lear: calunniato da Edmund, si traveste da mendicante pazzo («Povero Tom») e alla fine sconfigge il fratello.
+
+**EN** — Edgar, the legitimate son of the Earl of Gloucester in King Lear: slandered by Edmund, he disguises himself as a mad beggar ('Poor Tom') and finally defeats his brother.
 
 ## Works
 

@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Sherlock Holmes, il detective londinese di Baker Street creato da Arthur Conan Doyle (1887): risolve i casi con osservazione e deduzione logica, affiancato dal dottor Watson.
+
+**EN** — Sherlock Holmes, the Baker Street detective created by Arthur Conan Doyle (1887): he solves cases through observation and logical deduction, assisted by Dr Watson.
 
 Conan Doyle's detective, used by Chesterton in 'How to Write a Detective Story' (via the case of 'Silver Blaze') as the model of a solution kept familiar yet hidden.
 

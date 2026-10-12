@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Goneril, la figlia maggiore di Re Lear: lusinga il padre per ottenere il regno, poi lo tratta con crudeltà e trama contro la sorella Regan.
+
+**EN** — Goneril, King Lear's eldest daughter: she flatters her father to gain the kingdom, then treats him cruelly and plots against her sister Regan.
 
 ## Works
 

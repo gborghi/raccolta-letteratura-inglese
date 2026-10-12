@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Il conte di Kent in Re Lear: bandito per aver difeso Cordelia, torna travestito per servire fedelmente il re fino alla fine.
+
+**EN** — The Earl of Kent in King Lear: banished for defending Cordelia, he returns in disguise to serve the king faithfully to the end.
 
 ## Works
 

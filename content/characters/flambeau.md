@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **4** work(s).
+*Character* — appears in **4** work(s).
+
+**IT** — Hercule Flambeau, il grande ladro francese dei racconti di Padre Brown di Chesterton; sconfitto e convertito da Padre Brown, diventa investigatore privato e suo amico.
+
+**EN** — Hercule Flambeau, the great French thief in Chesterton's Father Brown stories; outwitted and reformed by Father Brown, he becomes a private detective and his friend.
 
 ## Works
 

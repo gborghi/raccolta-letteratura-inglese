@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **6** work(s).
+*Character* — appears in **6** work(s).
+
+**IT** — Sir John Falstaff, il cavaliere grasso, spaccone e vitale di Shakespeare (Enrico IV, Le allegre comari di Windsor), compagno di bagordi del principe Hal.
+
+**EN** — Sir John Falstaff, Shakespeare's fat, boastful and irrepressible knight (Henry IV, The Merry Wives of Windsor), the drinking companion of Prince Hal.
 
 ## Works
 

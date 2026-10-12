@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Porzia, l'ereditiera di Belmonte ne Il mercante di Venezia: travestita da avvocato, salva Antonio da Shylock con il celebre discorso sulla misericordia.
+
+**EN** — Portia, the heiress of Belmont in The Merchant of Venice: disguised as a lawyer, she saves Antonio from Shylock with her famous speech on mercy.
 
 ## Works
 

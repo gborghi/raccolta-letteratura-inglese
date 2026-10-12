@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **19** work(s).
+*Character* — appears in **19** work(s).
+
+**IT** — Satana, l'angelo ribelle e avversario di Dio nella tradizione biblica; in letteratura incarna la tentazione, l'orgoglio e la rivolta (si pensi al Satana di Milton).
+
+**EN** — Satan, the rebel angel and adversary of God in the biblical tradition; in literature he embodies temptation, pride and revolt (as in Milton's Satan).
 
 ## Works
 

@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **1** work(s).
+*Character* — appears in **1** work(s).
+
+**IT** — Smike, il ragazzo maltrattato di Dotheboys Hall in Nicholas Nickleby, che Nicholas salva e protegge.
+
+**EN** — Smike, the ill-treated boy of Dotheboys Hall in Nicholas Nickleby, whom Nicholas rescues and protects.
 
 ## Works
 

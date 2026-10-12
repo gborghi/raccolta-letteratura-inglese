@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **2** work(s).
+
+**IT** — Don Pedro, principe d'Aragona in Molto rumore per nulla: organizza i matrimoni dei suoi amici e l'inganno amoroso tra Beatrice e Benedick.
+
+**EN** — Don Pedro, Prince of Aragon in Much Ado About Nothing: he arranges his friends' marriages and the loving trick that unites Beatrice and Benedick.
 
 ## Works
 

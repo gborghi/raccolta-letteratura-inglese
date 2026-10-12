@@ -6,7 +6,11 @@ tags:
   - graph/character
 ---
 
-*Character* — appears in **8** work(s).
+*Character* — appears in **8** work(s).
+
+**IT** — Principe di Danimarca, protagonista della tragedia di Shakespeare (1600 ca.): il fantasma del padre gli chiede vendetta contro lo zio Claudio, e la sua esitazione lo rende il simbolo del dubbio e della riflessione.
+
+**EN** — Prince of Denmark and hero of Shakespeare's tragedy (c. 1600): his father's ghost demands revenge on his uncle Claudius, and his hesitation makes him the emblem of doubt and introspection.
 
 ## Works
 
