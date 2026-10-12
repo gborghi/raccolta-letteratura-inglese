@@ -824,7 +824,7 @@ Chiusa è la via da cui vennero.
 
 
 
-<span class="atom-split" data-atom="e_things_we_thought_that_we_should_do" data-title="1293. The things we thought that we should do" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,concept/disillusionment,concept/nostalgia,concept/immortality,concept/faith_and_doubt,concept/childhood_and_growth_placeholder,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
+<span class="atom-split" data-atom="e_things_we_thought_that_we_should_do" data-title="1293. The things we thought that we should do" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,concept/disillusionment,concept/nostalgia,concept/immortality,concept/faith_and_doubt,concept/childhood_and_growth,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
 
 
 The things we thought that we should do  

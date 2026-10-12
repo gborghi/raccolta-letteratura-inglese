@@ -6,7 +6,7 @@ tags:
   - graph/motif
 ---
 
-*Motif* — appears in **138** work(s).
+*Motif* — appears in **139** work(s).
 
 ## Works
 
@@ -84,6 +84,7 @@ tags:
 - [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering--poems#bbed_by_death_but_that_was_easy|971. Robbed by Death — but that was easy — (Dickinson)]]
 - [[testi/dickinson/atomized/sun-light-and-dark-fire--poems#_miss_her_not_because_we_see|993. We miss Her, not because We see — (Dickinson)]]
 - [[testi/dickinson/atomized/sun-light-and-dark-fire--poems#st_things_dwell_out_of_sight|998. Best Things dwell out of Sight (Dickinson)]]
+- [[testi/dickinson/atomized/faith-providence-divine-love--poems#cannot_see_my_soul_but_know_tis_there|1262. I cannot see my soul but know 'tis there (Dickinson)]]
 - [[works/eyes-that-last-i-saw-in-tears-(eliot)|Eyes that last I saw in tears (Eliot)]]
 - [[works/ix-son-of-man,-behold-with-thine-eyes,-and-hear-with-thine-ears-(eliot)|IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot)]]
 - [[works/minor-poems-(eliot)|MINOR POEMS (Eliot)]]

@@ -6,7 +6,7 @@ tags:
   - graph/concept
 ---
 
-*Concept* — appears in **1** work(s).
+*Concept* — appears in **2** work(s).
 
 ## Works
 
@@ -19,6 +19,7 @@ tags:
 - [[works/cautionary-tales-for-children-(belloc)|Cautionary Tales for Children (Belloc)]]
 - [[works/more-beasts-for-worse-children-(belloc)|More Beasts for Worse Children (Belloc)]]
 - [[works/the-bad-child's-book-of-beasts-(belloc)|The Bad Child's Book of Beasts (Belloc)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield--poems#e_things_we_thought_that_we_should_do|1293. The things we thought that we should do (Dickinson)]]
 
 </div>
 

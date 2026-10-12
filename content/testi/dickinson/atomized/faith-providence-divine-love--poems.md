@@ -1516,7 +1516,7 @@ Licenza di pensare a noi —
 
 
 
-<span class="atom-split" data-atom="cannot_see_my_soul_but_know_tis_there" data-title="1262. I cannot see my soul but know 'tis there" data-chapter="" data-kind="intro" data-tags="motif/clothing,motif/food_feasting,concept/self_and_soul,concept/faith,concept/faith_and_doubt,concept/love_divine,concept/eyes_sight_placeholder,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
+<span class="atom-split" data-atom="cannot_see_my_soul_but_know_tis_there" data-title="1262. I cannot see my soul but know 'tis there" data-chapter="" data-kind="intro" data-tags="motif/clothing,motif/food_feasting,concept/self_and_soul,concept/faith,concept/faith_and_doubt,concept/love_divine,motif/eyes_and_sight,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
 
 
 I cannot see my [[motifs/soul|soul]] but know 'tis there  

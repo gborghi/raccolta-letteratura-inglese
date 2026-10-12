@@ -2004,7 +2004,7 @@ All'Invisibile —
 
 
 
-<span class="atom-split" data-atom="e_mountains_stood_in_haze" data-title="1278. The Mountains stood in Haze —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/sun,motif/river,motif/fog_and_smoke_placeholder,concept/the_sublime,concept/faith,concept/wonder_and_gratitude,form/lyric,setting/pastoral_countryside,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+<span class="atom-split" data-atom="e_mountains_stood_in_haze" data-title="1278. The Mountains stood in Haze —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/sun,motif/river,motif/fog_and_smoke,concept/the_sublime,concept/faith,concept/wonder_and_gratitude,form/lyric,setting/pastoral_countryside,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
 
 
 The [[settings/mountains|Mountains]] stood in Haze —  

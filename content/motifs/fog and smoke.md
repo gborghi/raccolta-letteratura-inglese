@@ -6,7 +6,7 @@ tags:
   - graph/motif
 ---
 
-*Motif* — appears in **26** work(s).
+*Motif* — appears in **27** work(s).
 
 ## Works
 
@@ -30,6 +30,7 @@ tags:
 - [[testi/dickinson/atomized/wonder-and-gratitude-sublime-storm--poems#s_whiter_than_an_indian_pipe|1482. 'Tis whiter than an Indian Pipe — (Dickinson)]]
 - [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering--poems#ere_is_a_languor_of_the_life|396. There is a Languor of the Life (Dickinson)]]
 - [[testi/dickinson/atomized/mortality-grave-memento-mori--poems#e_seen_a_dying_eye|547. I've seen a Dying Eye (Dickinson)]]
+- [[testi/dickinson/atomized/nature-book-of-nature-natural-order--poems#e_mountains_stood_in_haze|1278. The Mountains stood in Haze — (Dickinson)]]
 - [[works/a,-b,-c-(eliot)|A, B, C (Eliot)]]
 - [[works/iii-the-word-of-the-lord-came-unto-me,-saying-(eliot)|III The Word of the lord came unto me, saying (Eliot)]]
 - [[works/marina-(eliot)|Marina (Eliot)]]
