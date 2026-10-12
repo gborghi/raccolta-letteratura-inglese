@@ -1993,7 +1993,7 @@ The moaning [[motifs/wind|Wind]] —
 Hide with sere [[motifs/leaves|leaves]] my [[motifs/grave|Grave]]’s undaisied Slope.  
 (?) October. 1814.  
 [It would be better to alter this metre —  
-ἱἰδ 6‘ ἶδ 10‘ | ἱἱδ 4‘ ἱἱδ 4‘: and still more plaintive if the 1st and  
+10´ 6‘ 6´ 10‘ | 11´ 4‘ 11´ 4‘: and still more plaintive if the 1st and  
 4th were ἱἱδ ἱἱδ as [[motifs/well|well]] as the 5th and 7th.]  
 Now first published from an MS.  
 
@@ -2010,7 +2010,7 @@ Il [[motifs/wind|Vento]] che geme —
 Copri con [[motifs/leaves|foglie]] secche il Pendio senza margherite della mia [[motifs/grave|Tomba]].  
 (?) ottobre. 1814.  
 [Sarebbe meglio alterare questo metro —  
-ἱἰδ 6‘ ἶδ 10‘ | ἱἱδ 4‘ ἱἱδ 4‘: e ancor più lamentoso se il 1° e il  
+10´ 6‘ 6´ 10‘ | 11´ 4‘ 11´ 4‘: e ancor più lamentoso se il 1° e il  
 4° fossero ἱἱδ ἱἱδ [[motifs/well|come]] il 5° e il 7°.]  
 Ora pubblicati per la prima volta da un MS.
 
@@ -2084,12 +2084,12 @@ Why stays my [[motifs/love|Love]]?
 4. Repeated from 2.
 5, 6, 7. A triplet of 4 Trochees — 8 repeated.  
 First published from an MS. in 1893.  
-¯ ˘, ί ˘ ˘, ί ˘ ˘, ί ˘ ˘  
-¯ ˘, ί ˘ ˘, ί ˘ ˘,  
-¯ ˘, ί ˘ ˘, ί ˘ ˘, ί ˘ ˘  
-˘ ί ˘, ί ˘ ˘, ί ˘ ˘, ¯  
-¯ ˘ ˘, ί ˘  
-˘ ί ˘ ˘, ί ˘ etc.  
+¯ ˘, ¯ ˘ ˘, ¯ ˘ ˘, ¯ ˘ ˘  
+¯ ˘, ¯ ˘ ˘, ¯ ˘ ˘,  
+¯ ˘, ¯ ˘ ˘, ¯ ˘ ˘, ¯ ˘ ˘  
+˘ ¯ ˘, ¯ ˘ ˘, ¯ ˘ ˘, ¯  
+¯ ˘ ˘, ¯ ˘  
+˘ ¯ ˘ ˘, ¯ ˘ etc.  
 Songs of Shepherds and rustical Roundelays,  
 Forms of Fancies and whistled on Reeds,  
 Songs to solace young Nymphs upon Holidays  
@@ -2125,12 +2125,12 @@ Perché indugia il mio [[motifs/love|Amore]]?
 4. Ripetuto dal 2.
 5, 6, 7. Una terzina di 4 Trochei — 8 ripetuto.  
 Pubblicati per la prima volta da un MS. nel 1893.  
-¯ ˘, ί ˘ ˘, ί ˘ ˘, ί ˘ ˘  
-¯ ˘, ί ˘ ˘, ί ˘ ˘,  
-¯ ˘, ί ˘ ˘, ί ˘ ˘, ί ˘ ˘  
-˘ ί ˘, ί ˘ ˘, ί ˘ ˘, ¯  
-¯ ˘ ˘, ί ˘  
-˘ ί ˘ ˘, ί ˘ etc.  
+¯ ˘, ¯ ˘ ˘, ¯ ˘ ˘, ¯ ˘ ˘  
+¯ ˘, ¯ ˘ ˘, ¯ ˘ ˘,  
+¯ ˘, ¯ ˘ ˘, ¯ ˘ ˘, ¯ ˘ ˘  
+˘ ¯ ˘, ¯ ˘ ˘, ¯ ˘ ˘, ¯  
+¯ ˘ ˘, ¯ ˘  
+˘ ¯ ˘ ˘, ¯ ˘ etc.  
 Canti di Pastori e rustiche Ballate,  
 Forme di Fantasie e fischiate su Canne,  
 Canti per consolare giovani Ninfe nei Giorni di festa  

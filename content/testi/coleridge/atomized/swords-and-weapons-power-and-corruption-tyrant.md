@@ -1357,13 +1357,13 @@ Whose could the Triumph be [[concepts/freedom|Freedom]] but thine?
 [[motifs/stars|Stars]] of the Heaven shine to feed thee;  
 Hush’d are the Whirl-blasts and heed thee; —  
 By her depth, by her height, [[concepts/nature|Nature]] swears thou art mine!  
-1. Amphibrach tetrameter catalectic ˘ ί ˘ ὼ ˘ ί ˘ ὼ ˘ ί ˘ ὼ ˘ ¯
+1. Amphibrach tetrameter catalectic ˘ ¯ ˘ | ˘ ¯ ˘ | ˘ ¯ ˘ | ˘ ¯
 2. Ditto.
 3. Three pseudo amphimacers, and one long syllable.
 4. Two dactyls, and one perfect Amphimacer.
 5. = 1 and 2.
-6. ¯ ˘ ¯ | ¯ ˘ ί ˘ |
-7. ¯ ˘ ¯ | ¯ ˘ ί ˘ |
+6. ¯ ˘ ¯ | ¯ ˘ ¯ ˘ |
+7. ¯ ˘ ¯ | ¯ ˘ ¯ ˘ |
 8. ¯ ˘ ¯ | ¯ ˘ ¯, ¯ ˘ ¯, ¯ ˘ ¯
 1801. Now first published from an MS.
 
@@ -1378,13 +1378,13 @@ Di chi poteva essere il Trionfo, [[concepts/freedom|Libertà]], se non tuo?
 Le [[motifs/stars|stelle]] del Cielo brillano per nutrirti;  
 taciute sono le Raffiche vorticose e ti danno ascolto; —  
 per la sua profondità, per la sua altezza, la [[concepts/nature|Natura]] giura che sei mia!  
-1. Tetrametro anfibraco catalettico ˘ ί ˘ ὼ ˘ ί ˘ ὼ ˘ ί ˘ ὼ ˘ ¯
+1. Tetrametro anfibraco catalettico ˘ ¯ ˘ | ˘ ¯ ˘ | ˘ ¯ ˘ | ˘ ¯
 2. Idem.
 3. Tre pseudo anfimacri, e una sillaba lunga.
 4. Due dattili, e un Anfimacro perfetto.
 5. = 1 e 2.
-6. ¯ ˘ ¯ | ¯ ˘ ί ˘ |
-7. ¯ ˘ ¯ | ¯ ˘ ί ˘ |
+6. ¯ ˘ ¯ | ¯ ˘ ¯ ˘ |
+7. ¯ ˘ ¯ | ¯ ˘ ¯ ˘ |
 8. ¯ ˘ ¯ | ¯ ˘ ¯, ¯ ˘ ¯, ¯ ˘ ¯
 1801. Ora pubblicata per la prima volta da un MS.
 

@@ -2621,7 +2621,7 @@ and D. W., 1877, ii. 367.
 
 Curious instance of casual metre and rhyme in a prose narrative (The  
 Life of Jerome of Prague). The metre is Amphibrach dimeter Catalectic  
-˘ ί ˘ ὼ ˘ ¯, and the rhymes antistrophic.  
+˘ ¯ ˘ | ˘ ¯, and the rhymes antistrophic.  
 Then Jerome did call       a  
 From his flame-pointed Fence;       b  
 Which under he trod,       c  
@@ -2639,7 +2639,7 @@ July 7, 1826. Now first published from an MS.
 
 Curioso esempio di metro e rima casuali in una narrazione in prosa (The  
 Life of Jerome of Prague). Il metro è dimetro anfibraco catalettico  
-˘ ί ˘ ὼ ˘ ¯, e le rime sono antistrofiche.  
+˘ ¯ ˘ | ˘ ¯, e le rime sono antistrofiche.  
 Allora Girolamo chiamò       a  
 dal suo Recinto a punte di fiamma;       b  
 che sotto calpestava,       c  
