@@ -1,5 +1,5 @@
 ---
-title: QUAE NOCENT DOCENT
+title: Quae Nocent Docent
 author: Coleridge
 type: work
 cluster: Time · Tempus Fugit · Clock

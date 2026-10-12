@@ -1,5 +1,5 @@
 ---
-title: HAMLET
+title: Hamlet
 author: Shakespeare
 type: work
 cluster: Feigned Madness · Denmark

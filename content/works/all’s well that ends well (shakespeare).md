@@ -1,5 +1,5 @@
 ---
-title: ALL’S WELL THAT ENDS WELL
+title: All’s Well That Ends Well
 author: Shakespeare
 type: work
 cluster: Problem Play

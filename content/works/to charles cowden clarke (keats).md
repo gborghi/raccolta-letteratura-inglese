@@ -1,5 +1,5 @@
 ---
-title: TO CHARLES COWDEN CLARKE
+title: To Charles Cowden Clarke
 author: Keats
 type: work
 cluster: Friendship · Tears

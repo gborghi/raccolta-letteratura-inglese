@@ -1,5 +1,5 @@
 ---
-title: THE PICCOLOMINI
+title: The Piccolomini
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

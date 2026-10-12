@@ -1,5 +1,5 @@
 ---
-title: ANTHEM FOR THE CHILDREN OF CHRIST’S HOSPITAL
+title: Anthem for the Children of Christ’s Hospital
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

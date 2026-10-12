@@ -1,5 +1,5 @@
 ---
-title: THE FIRST PART OF THE CONTENTION - (2 HENRY VI)
+title: The First Part of the Contention - (2 Henry VI)
 author: Shakespeare
 type: work
 cluster: Wars of the Roses

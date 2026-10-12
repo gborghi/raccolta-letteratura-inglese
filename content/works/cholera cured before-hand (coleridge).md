@@ -1,5 +1,5 @@
 ---
-title: CHOLERA CURED BEFORE-HAND
+title: Cholera Cured Before-Hand
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

@@ -1,5 +1,5 @@
 ---
-title: PAIN
+title: Pain
 author: Coleridge
 type: work
 cluster: Melancholy · Suffering · Pain and Suffering

@@ -1,5 +1,5 @@
 ---
-title: LOVE’S BURIAL-PLACE
+title: Love’s Burial-Place
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

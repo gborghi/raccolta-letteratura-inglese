@@ -1,5 +1,5 @@
 ---
-title: RELIGIOUS MUSINGS
+title: Religious Musings
 author: Coleridge
 type: work
 cluster: Bible · Sin and the Fall · Fall from Innocence

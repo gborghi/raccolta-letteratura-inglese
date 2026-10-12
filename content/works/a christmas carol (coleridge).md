@@ -1,5 +1,5 @@
 ---
-title: A CHRISTMAS CAROL
+title: A Christmas Carol
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

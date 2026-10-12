@@ -1,5 +1,5 @@
 ---
-title: REASON FOR LOVE’S BLINDNESS
+title: Reason for Love’s Blindness
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

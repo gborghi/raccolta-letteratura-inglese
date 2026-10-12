@@ -1,5 +1,5 @@
 ---
-title: COMPARATIVE BREVITY OF GREEK AND ENGLISH
+title: Comparative Brevity of Greek and English
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

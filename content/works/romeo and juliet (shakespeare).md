@@ -1,5 +1,5 @@
 ---
-title: ROMEO AND JULIET
+title: Romeo and Juliet
 author: Shakespeare
 type: work
 cluster: Verona

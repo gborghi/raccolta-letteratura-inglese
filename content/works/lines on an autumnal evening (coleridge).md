@@ -1,5 +1,5 @@
 ---
-title: 'LINES: ON AN AUTUMNAL EVENING'
+title: 'Lines: On an Autumnal Evening'
 author: Coleridge
 type: work
 cluster: Memory and Time · Memory · Nostalgia

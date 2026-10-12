@@ -1,5 +1,5 @@
 ---
-title: RUFA
+title: Rufa
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

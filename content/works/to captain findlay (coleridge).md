@@ -1,5 +1,5 @@
 ---
-title: TO CAPTAIN FINDLAY
+title: To Captain Findlay
 author: Coleridge
 type: work
 cluster: Journey · Ship

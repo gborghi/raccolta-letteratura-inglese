@@ -1,5 +1,5 @@
 ---
-title: TO ONE WHO PUBLISHED IN PRINT
+title: To One Who Published in Print
 author: Coleridge
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

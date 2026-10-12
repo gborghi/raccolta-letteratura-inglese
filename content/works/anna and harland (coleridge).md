@@ -1,5 +1,5 @@
 ---
-title: ANNA AND HARLAND
+title: Anna and Harland
 author: Coleridge
 type: work
 cluster: Ghosts · Ghost · Death and Love

@@ -1,5 +1,5 @@
 ---
-title: THE NOSE
+title: The Nose
 author: Coleridge
 type: work
 cluster: Sun · Light and Dark · Fire

@@ -1,5 +1,5 @@
 ---
-title: A PLAINTIVE MOVEMENT
+title: A Plaintive Movement
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

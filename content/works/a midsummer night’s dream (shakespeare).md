@@ -1,5 +1,5 @@
 ---
-title: A MIDSUMMER NIGHT’S DREAM
+title: A Midsummer Night’s Dream
 author: Shakespeare
 type: work
 cluster: Dreams · Moon

@@ -1,5 +1,5 @@
 ---
-title: ON AN INSIGNIFICANT
+title: On an Insignificant
 author: Coleridge
 type: work
 cluster: Mortality · Grave · Memento Mori

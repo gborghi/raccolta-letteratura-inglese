@@ -1,5 +1,5 @@
 ---
-title: TO THE HONOURABLE MR. ERSKINE
+title: To the Honourable Mr. Erskine
 author: Coleridge
 type: work
 cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom

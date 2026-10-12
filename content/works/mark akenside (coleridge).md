@@ -1,5 +1,5 @@
 ---
-title: MARK AKENSIDE
+title: Mark Akenside
 author: Coleridge
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume

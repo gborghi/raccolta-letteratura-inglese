@@ -1,5 +1,5 @@
 ---
-title: IMITATION OF SPENSER
+title: Imitation of Spenser
 author: Keats
 type: work
 cluster: Education · Self-Made Man · Wheel

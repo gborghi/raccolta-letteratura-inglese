@@ -1,5 +1,5 @@
 ---
-title: THE VISIONARY HOPE
+title: The Visionary Hope
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

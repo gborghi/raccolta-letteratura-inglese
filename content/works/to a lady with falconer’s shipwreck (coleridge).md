@@ -1,5 +1,5 @@
 ---
-title: TO A LADY WITH FALCONER’S SHIPWRECK
+title: To a Lady with Falconer’s Shipwreck
 author: Coleridge
 type: work
 cluster: Sea · Water

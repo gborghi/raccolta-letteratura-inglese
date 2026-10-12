@@ -1,5 +1,5 @@
 ---
-title: 'SONNET: ON QUITTING SCHOOL FOR COLLEGE'
+title: 'Sonnet: On Quitting School for College'
 author: Coleridge
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience

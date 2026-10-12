@@ -1,5 +1,5 @@
 ---
-title: REPLY TO THE ABOVE
+title: Reply to the Above
 author: Coleridge
 type: work
 cluster: Grace and Redemption · Humility · Bread and Wine Eucharist

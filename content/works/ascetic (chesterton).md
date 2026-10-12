@@ -1,5 +1,5 @@
 ---
-title: THE SONG of the STRANGE ASCETIC
+title: The Song of the Strange Ascetic
 author: Chesterton
 type: work
 cluster: Wine and Drink · Ballad Ballade · Road

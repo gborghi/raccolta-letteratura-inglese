@@ -1,5 +1,5 @@
 ---
-title: 'ON A CATARACT FROM A CAVERN NEAR THE SUMMIT OF A MOUNTAIN PRECIPICE: STROPHE'
+title: 'On a Cataract from a Cavern Near the Summit of a Mountain Precipice: Strophe'
 author: Coleridge
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm

@@ -1,5 +1,5 @@
 ---
-title: THE MADMAN AND THE LETHARGIST
+title: The Madman and the Lethargist
 author: Coleridge
 type: work
 cluster: Terror and Horror · Madness

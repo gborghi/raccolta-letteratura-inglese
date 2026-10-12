@@ -1,5 +1,5 @@
 ---
-title: 'DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM'
+title: 'Donne: Eclogue. ‘On Unworthy Wisdom'
 author: Coleridge
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

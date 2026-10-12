@@ -1,5 +1,5 @@
 ---
-title: SNOW DROP.
+title: Snow Drop.
 author: Coleridge
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

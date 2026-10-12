@@ -1,5 +1,5 @@
 ---
-title: A HINT TO PREMIERS AND FIRST CONSULS
+title: A Hint to Premiers and First Consuls
 author: Coleridge
 type: work
 cluster: Mortality · Grave · Memento Mori

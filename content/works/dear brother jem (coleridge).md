@@ -1,5 +1,5 @@
 ---
-title: DEAR BROTHER JEM
+title: Dear Brother Jem
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

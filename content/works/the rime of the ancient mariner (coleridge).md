@@ -1,5 +1,5 @@
 ---
-title: THE RIME OF THE ANCIENT MARINER
+title: The Rime of the Ancient Mariner
 author: Coleridge
 type: work
 cluster: Bible · Sin and the Fall · Fall from Innocence

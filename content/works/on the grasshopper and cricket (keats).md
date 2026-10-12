@@ -1,5 +1,5 @@
 ---
-title: ON THE GRASSHOPPER AND CRICKET
+title: On the Grasshopper and Cricket
 author: Keats
 type: work
 cluster: Nature · Book of Nature · Natural Order

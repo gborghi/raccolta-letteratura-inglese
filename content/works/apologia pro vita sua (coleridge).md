@@ -1,5 +1,5 @@
 ---
-title: APOLOGIA PRO VITA SUA
+title: Apologia Pro Vita Sua
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

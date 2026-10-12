@@ -1,5 +1,5 @@
 ---
-title: LIMBO
+title: Limbo
 author: Coleridge
 type: work
 cluster: Time · Tempus Fugit · Clock

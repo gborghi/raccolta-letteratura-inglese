@@ -1,5 +1,5 @@
 ---
-title: THE TOWERS of TIME
+title: The Towers of Time
 author: Chesterton
 type: work
 cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt

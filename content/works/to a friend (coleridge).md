@@ -1,5 +1,5 @@
 ---
-title: TO A FRIEND
+title: To a Friend
 author: Coleridge
 type: work
 cluster: Friendship · Tears

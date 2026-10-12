@@ -1,5 +1,5 @@
 ---
-title: NETHER STOWEY
+title: Nether Stowey
 author: Coleridge
 type: work
 cluster: Birds · Music and Song · Nightingale

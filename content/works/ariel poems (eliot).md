@@ -1,5 +1,5 @@
 ---
-title: ARIEL POEMS
+title: Ariel Poems
 author: Eliot
 type: work
 cluster: Allegory · Quest · Pilgrim

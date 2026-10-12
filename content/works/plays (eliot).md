@@ -1,5 +1,5 @@
 ---
-title: PLAYS
+title: Plays
 author: Eliot
 type: work
 cluster: Blood · Verse Drama · Revenge

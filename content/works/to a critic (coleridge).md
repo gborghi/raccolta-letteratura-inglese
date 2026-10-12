@@ -1,5 +1,5 @@
 ---
-title: TO A CRITIC
+title: To a Critic
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

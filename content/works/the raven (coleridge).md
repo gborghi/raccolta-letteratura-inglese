@@ -1,5 +1,5 @@
 ---
-title: THE RAVEN
+title: The Raven
 author: Coleridge
 type: work
 cluster: Birds · Music and Song · Nightingale

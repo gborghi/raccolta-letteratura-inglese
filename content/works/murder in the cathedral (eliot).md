@@ -1,5 +1,5 @@
 ---
-title: MURDER IN THE CATHEDRAL
+title: Murder in the Cathedral
 author: Eliot
 type: work
 cluster: Guilt · Conscience · Fate and Free Will

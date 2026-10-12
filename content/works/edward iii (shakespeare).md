@@ -1,5 +1,5 @@
 ---
-title: EDWARD III
+title: Edward III
 author: Shakespeare
 type: work
 cluster: Court · Medieval England · History Play

@@ -1,5 +1,5 @@
 ---
-title: 1 HENRY IV
+title: 1 Henry IV
 author: Shakespeare
 type: work
 cluster: Court · Medieval England · History Play

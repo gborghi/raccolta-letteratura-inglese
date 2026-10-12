@@ -1,5 +1,5 @@
 ---
-title: TO A PRIMROSE
+title: To a Primrose
 author: Coleridge
 type: work
 cluster: Transience · Decay · Carpe Diem

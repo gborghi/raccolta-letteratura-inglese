@@ -1,5 +1,5 @@
 ---
-title: SONGS OF THE PIXIES
+title: Songs of the Pixies
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

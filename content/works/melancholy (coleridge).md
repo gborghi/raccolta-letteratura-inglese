@@ -1,5 +1,5 @@
 ---
-title: MELANCHOLY
+title: Melancholy
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

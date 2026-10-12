@@ -1,5 +1,5 @@
 ---
-title: A TOMBLESS EPITAPH
+title: A Tombless Epitaph
 author: Coleridge
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

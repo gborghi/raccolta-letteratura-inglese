@@ -1,5 +1,5 @@
 ---
-title: SEPARATION
+title: Separation
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

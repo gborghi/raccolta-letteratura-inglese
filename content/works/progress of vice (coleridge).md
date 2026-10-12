@@ -1,5 +1,5 @@
 ---
-title: PROGRESS OF VICE
+title: Progress of Vice
 author: Coleridge
 type: work
 cluster: Temptation · Good vs Evil · Serpent Snake

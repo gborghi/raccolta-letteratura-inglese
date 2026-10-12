@@ -1,5 +1,5 @@
 ---
-title: THE HAPPY HUSBAND
+title: The Happy Husband
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

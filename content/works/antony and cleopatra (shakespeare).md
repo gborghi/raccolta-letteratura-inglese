@@ -1,5 +1,5 @@
 ---
-title: ANTONY AND CLEOPATRA
+title: Antony and Cleopatra
 author: Shakespeare
 type: work
 cluster: Honour · Ancient Rome

@@ -1,5 +1,5 @@
 ---
-title: 'STOLBERG: ON A CATARACT'
+title: 'Stolberg: On a Cataract'
 author: Coleridge
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm

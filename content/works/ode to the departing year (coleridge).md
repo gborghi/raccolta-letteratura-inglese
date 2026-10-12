@@ -1,5 +1,5 @@
 ---
-title: ODE TO THE DEPARTING YEAR
+title: Ode to the Departing Year
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

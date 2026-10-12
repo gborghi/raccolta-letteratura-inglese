@@ -1,5 +1,5 @@
 ---
-title: SONNETS ON EMINENT CHARACTERS
+title: Sonnets on Eminent Characters
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

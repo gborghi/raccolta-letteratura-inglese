@@ -1,5 +1,5 @@
 ---
-title: TRANSLATION OF THE FIRST STROPHE OF PINDAR’S SECOND OLYMPIC
+title: Translation of the First Strophe of Pindar’s Second Olympic
 author: Coleridge
 type: work
 cluster: Heroism · Hero · Last Stand

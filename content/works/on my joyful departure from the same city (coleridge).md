@@ -1,5 +1,5 @@
 ---
-title: ON MY JOYFUL DEPARTURE FROM THE SAME CITY
+title: On My Joyful Departure from the Same City
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

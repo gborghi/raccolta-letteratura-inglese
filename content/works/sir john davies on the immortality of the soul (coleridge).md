@@ -1,5 +1,5 @@
 ---
-title: SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL
+title: Sir John Davies on the Immortality of the Soul
 author: Coleridge
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

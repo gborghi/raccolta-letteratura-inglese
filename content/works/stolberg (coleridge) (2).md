@@ -1,5 +1,5 @@
 ---
-title: STOLBERG
+title: Stolberg
 author: Coleridge
 type: work
 cluster: War and its Cost · American Civil War · Battlefield

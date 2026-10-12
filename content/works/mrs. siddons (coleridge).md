@@ -1,5 +1,5 @@
 ---
-title: MRS. SIDDONS
+title: Mrs. Siddons
 author: Coleridge
 type: work
 cluster: Terror and Horror · Madness

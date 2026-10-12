@@ -1,5 +1,5 @@
 ---
-title: 'GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY'
+title: 'Grove, Highgate Song, on Hearing a Song in Praise of a Lady’s Beauty'
 author: Coleridge
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

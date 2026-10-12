@@ -1,5 +1,5 @@
 ---
-title: A STRANGER MINSTREL
+title: A Stranger Minstrel
 author: Coleridge
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm

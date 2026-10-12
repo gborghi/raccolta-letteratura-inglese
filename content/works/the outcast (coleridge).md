@@ -1,5 +1,5 @@
 ---
-title: THE OUTCAST
+title: The Outcast
 author: Coleridge
 type: work
 cluster: Alienation · Outsider · Exile

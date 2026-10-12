@@ -1,5 +1,5 @@
 ---
-title: 'HYMN BEFORE SUN-RISE, IN THE VALE OF CHAMOUNI'
+title: 'Hymn Before Sun-Rise, in the Vale of Chamouni'
 author: Coleridge
 type: work
 cluster: Nature · Book of Nature · Natural Order

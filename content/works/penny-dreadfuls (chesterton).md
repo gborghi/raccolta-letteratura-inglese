@@ -1,5 +1,5 @@
 ---
-title: A DEFENCE of PENNY DREADFULS
+title: A Defence of Penny Dreadfuls
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

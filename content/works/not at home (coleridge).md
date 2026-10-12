@@ -1,5 +1,5 @@
 ---
-title: NOT AT HOME
+title: Not at Home
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

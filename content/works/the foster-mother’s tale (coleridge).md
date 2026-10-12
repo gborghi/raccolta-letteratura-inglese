@@ -1,5 +1,5 @@
 ---
-title: THE FOSTER-MOTHER’S TALE
+title: The Foster-Mother’s Tale
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

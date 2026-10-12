@@ -1,5 +1,5 @@
 ---
-title: THE MERCHANT OF VENICE
+title: The Merchant of Venice
 author: Shakespeare
 type: work
 cluster: Blood · Verse Drama · Revenge

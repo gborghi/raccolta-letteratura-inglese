@@ -1,5 +1,5 @@
 ---
-title: TO the UNKNOWN WARRIOR
+title: To the Unknown Warrior
 author: Chesterton
 type: work
 cluster: Heroism · Hero · Last Stand

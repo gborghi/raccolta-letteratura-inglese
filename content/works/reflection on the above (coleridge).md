@@ -1,5 +1,5 @@
 ---
-title: REFLECTION ON THE ABOVE
+title: Reflection on the Above
 author: Coleridge
 type: work
 cluster: Sun · Light and Dark · Fire

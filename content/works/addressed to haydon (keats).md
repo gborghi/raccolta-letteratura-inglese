@@ -1,5 +1,5 @@
 ---
-title: ADDRESSED TO HAYDON
+title: Addressed to Haydon
 author: Keats
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

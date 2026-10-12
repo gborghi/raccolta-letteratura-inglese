@@ -1,5 +1,5 @@
 ---
-title: LEWTI OR THE CIRCASSIAN LOVE-CHAUNT
+title: Lewti or the Circassian Love-Chaunt
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

@@ -1,5 +1,5 @@
 ---
-title: TO KOSCIUSKO
+title: To Kosciusko
 author: Keats
 type: work
 cluster: Heroism · Hero · Last Stand

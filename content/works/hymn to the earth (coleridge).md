@@ -1,5 +1,5 @@
 ---
-title: HYMN TO THE EARTH
+title: Hymn to the Earth
 author: Coleridge
 type: work
 cluster: Nature · Book of Nature · Natural Order

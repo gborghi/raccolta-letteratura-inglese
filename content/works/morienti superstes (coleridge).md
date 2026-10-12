@@ -1,5 +1,5 @@
 ---
-title: MORIENTI SUPERSTES
+title: Morienti Superstes
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

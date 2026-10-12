@@ -1,5 +1,5 @@
 ---
-title: TO GEORGE FELTON MATHEW
+title: To George Felton Mathew
 author: Keats
 type: work
 cluster: Friendship · Tears

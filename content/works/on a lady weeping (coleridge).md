@@ -1,5 +1,5 @@
 ---
-title: ON A LADY WEEPING
+title: On a Lady Weeping
 author: Coleridge
 type: work
 cluster: Friendship · Tears

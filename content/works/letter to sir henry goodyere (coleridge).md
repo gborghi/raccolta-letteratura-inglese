@@ -1,5 +1,5 @@
 ---
-title: LETTER TO SIR HENRY GOODYERE
+title: Letter to Sir Henry Goodyere
 author: Coleridge
 type: work
 cluster: Transience · Decay · Carpe Diem

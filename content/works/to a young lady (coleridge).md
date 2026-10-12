@@ -1,5 +1,5 @@
 ---
-title: TO A YOUNG LADY
+title: To a Young Lady
 author: Coleridge
 type: work
 cluster: Joy · Animals · Comic Verse Song

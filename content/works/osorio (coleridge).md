@@ -1,5 +1,5 @@
 ---
-title: OSORIO
+title: Osorio
 author: Coleridge
 type: work
 cluster: Blood · Verse Drama · Revenge

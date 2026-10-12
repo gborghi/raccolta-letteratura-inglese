@@ -1,5 +1,5 @@
 ---
-title: TO LESBIA
+title: To Lesbia
 author: Coleridge
 type: work
 cluster: Transience · Decay · Carpe Diem

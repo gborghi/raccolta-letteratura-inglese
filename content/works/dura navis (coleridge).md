@@ -1,5 +1,5 @@
 ---
-title: DURA NAVIS
+title: Dura Navis
 author: Coleridge
 type: work
 cluster: Sea · Water

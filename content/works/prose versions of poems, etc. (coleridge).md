@@ -1,5 +1,5 @@
 ---
-title: 'PROSE VERSIONS OF POEMS, ETC.'
+title: 'Prose Versions of Poems, Etc.'
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

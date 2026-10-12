@@ -1,5 +1,5 @@
 ---
-title: SELF-KNOWLEDGE
+title: Self-Knowledge
 author: Coleridge
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

@@ -1,5 +1,5 @@
 ---
-title: A THOUGHT SUGGESTED BY A VIEW OF SADDLEBACK IN CUMBERLAND
+title: A Thought Suggested by a View of Saddleback in Cumberland
 author: Coleridge
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm

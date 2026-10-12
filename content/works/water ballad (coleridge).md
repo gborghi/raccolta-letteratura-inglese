@@ -1,5 +1,5 @@
 ---
-title: WATER BALLAD
+title: Water Ballad
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

@@ -1,5 +1,5 @@
 ---
-title: PROFUSE KINDNESS
+title: Profuse Kindness
 author: Coleridge
 type: work
 cluster: Friendship · Tears

@@ -1,5 +1,5 @@
 ---
-title: OCCASIONED BY THE LAST
+title: Occasioned by the Last
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

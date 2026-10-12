@@ -1,5 +1,5 @@
 ---
-title: COLOGNE
+title: Cologne
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

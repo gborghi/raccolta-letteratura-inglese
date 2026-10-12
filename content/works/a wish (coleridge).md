@@ -1,5 +1,5 @@
 ---
-title: A WISH
+title: A Wish
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

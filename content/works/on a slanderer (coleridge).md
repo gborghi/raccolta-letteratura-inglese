@@ -1,5 +1,5 @@
 ---
-title: ON A SLANDERER
+title: On a Slanderer
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

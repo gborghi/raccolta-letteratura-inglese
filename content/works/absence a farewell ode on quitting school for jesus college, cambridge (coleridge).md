@@ -1,5 +1,5 @@
 ---
-title: 'ABSENCE: A FAREWELL ODE ON QUITTING SCHOOL FOR JESUS COLLEGE, CAMBRIDGE'
+title: 'Absence: A Farewell Ode on Quitting School for Jesus College, Cambridge'
 author: Coleridge
 type: work
 cluster: Memory and Time · Memory · Nostalgia

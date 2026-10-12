@@ -1,5 +1,5 @@
 ---
-title: TO MATILDA BETHAM FROM A STRANGER
+title: To Matilda Betham from a Stranger
 author: Coleridge
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

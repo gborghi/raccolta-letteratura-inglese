@@ -1,5 +1,5 @@
 ---
-title: 'LINES WRITTEN IN THE ALBUM AT ELBINGERODE, IN THE HARTZ FOREST'
+title: 'Lines Written in the Album at Elbingerode, in the Hartz Forest'
 author: Coleridge
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm

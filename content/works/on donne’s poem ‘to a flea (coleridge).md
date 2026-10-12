@@ -1,5 +1,5 @@
 ---
-title: ON DONNE’S POEM ‘TO A FLEA
+title: On Donne’s Poem ‘to a Flea
 author: Coleridge
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

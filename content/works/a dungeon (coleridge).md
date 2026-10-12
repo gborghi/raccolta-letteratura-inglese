@@ -1,5 +1,5 @@
 ---
-title: A DUNGEON
+title: A Dungeon
 author: Coleridge
 type: work
 cluster: Terror and Horror · Madness

@@ -1,5 +1,5 @@
 ---
-title: TO THE NIGHTINGALE
+title: To the Nightingale
 author: Coleridge
 type: work
 cluster: Birds · Music and Song · Nightingale

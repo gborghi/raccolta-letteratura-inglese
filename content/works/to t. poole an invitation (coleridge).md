@@ -1,5 +1,5 @@
 ---
-title: 'TO T. POOLE: AN INVITATION'
+title: 'To T. Poole: An Invitation'
 author: Coleridge
 type: work
 cluster: Paradox · Food and Feasting · Aphorism

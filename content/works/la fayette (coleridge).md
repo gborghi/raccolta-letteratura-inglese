@@ -1,5 +1,5 @@
 ---
-title: LA FAYETTE
+title: La Fayette
 author: Coleridge
 type: work
 cluster: Sun · Light and Dark · Fire

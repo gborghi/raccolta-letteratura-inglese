@@ -1,5 +1,5 @@
 ---
-title: AD VILMUM AXIOLOGUM
+title: Ad Vilmum Axiologum
 author: Coleridge
 type: work
 cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)

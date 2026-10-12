@@ -1,5 +1,5 @@
 ---
-title: THE TAMING OF THE SHREW
+title: The Taming of the Shrew
 author: Shakespeare
 type: work
 cluster: World Upside Down · Comedy

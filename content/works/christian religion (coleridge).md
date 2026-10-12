@@ -1,5 +1,5 @@
 ---
-title: CHRISTIAN RELIGION
+title: Christian Religion
 author: Coleridge
 type: work
 cluster: Bible · Sin and the Fall · Fall from Innocence

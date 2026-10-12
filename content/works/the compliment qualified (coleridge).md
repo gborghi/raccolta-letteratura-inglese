@@ -1,5 +1,5 @@
 ---
-title: THE COMPLIMENT QUALIFIED
+title: The Compliment Qualified
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

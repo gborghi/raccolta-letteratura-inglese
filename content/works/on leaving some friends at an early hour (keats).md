@@ -1,5 +1,5 @@
 ---
-title: ON LEAVING SOME FRIENDS AT AN EARLY HOUR
+title: On Leaving Some Friends at an Early Hour
 author: Keats
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

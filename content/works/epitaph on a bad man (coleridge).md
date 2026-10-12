@@ -1,5 +1,5 @@
 ---
-title: EPITAPH ON A BAD MAN
+title: Epitaph on a Bad Man
 author: Coleridge
 type: work
 cluster: Mortality · Grave · Memento Mori

@@ -1,5 +1,5 @@
 ---
-title: LITERAL TRANSLATION.
+title: Literal Translation.
 author: Coleridge
 type: work
 cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom

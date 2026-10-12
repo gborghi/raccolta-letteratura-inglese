@@ -1,5 +1,5 @@
 ---
-title: HAPPY IS ENGLAND! I COULD BE CONTENT
+title: Happy Is England! I Could Be Content
 author: Keats
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

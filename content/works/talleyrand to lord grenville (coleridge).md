@@ -1,5 +1,5 @@
 ---
-title: TALLEYRAND TO LORD GRENVILLE
+title: Talleyrand to Lord Grenville
 author: Coleridge
 type: work
 cluster: City · London · Theatrum Mundi

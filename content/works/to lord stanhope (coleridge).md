@@ -1,5 +1,5 @@
 ---
-title: TO LORD STANHOPE
+title: To Lord Stanhope
 author: Coleridge
 type: work
 cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom

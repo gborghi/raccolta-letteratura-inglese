@@ -1,5 +1,5 @@
 ---
-title: A SIMILE
+title: A Simile
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

@@ -1,5 +1,5 @@
 ---
-title: ON A LATE CONNUBIAL RUPTURE IN HIGH LIFE
+title: On a Late Connubial Rupture in High Life
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

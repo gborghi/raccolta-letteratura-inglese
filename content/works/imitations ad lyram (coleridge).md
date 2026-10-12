@@ -1,5 +1,5 @@
 ---
-title: 'IMITATIONS: AD LYRAM'
+title: 'Imitations: Ad Lyram'
 author: Coleridge
 type: work
 cluster: Transience · Decay · Carpe Diem

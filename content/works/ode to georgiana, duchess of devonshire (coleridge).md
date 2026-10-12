@@ -1,5 +1,5 @@
 ---
-title: 'ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE'
+title: 'Ode to Georgiana, Duchess of Devonshire'
 author: Coleridge
 type: work
 cluster: Heroism · Hero · Last Stand

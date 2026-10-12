@@ -1,5 +1,5 @@
 ---
-title: 'SONNET: TO THE RIVER OTTER'
+title: 'Sonnet: To the River Otter'
 author: Coleridge
 type: work
 cluster: Memory and Time · Memory · Nostalgia

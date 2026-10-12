@@ -1,5 +1,5 @@
 ---
-title: IMITATED FROM OSSIAN
+title: Imitated from Ossian
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

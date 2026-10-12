@@ -1,5 +1,5 @@
 ---
-title: EPITAPH OF THE PRESENT YEAR ON THE MONUMENT OF THOMAS FULLER
+title: Epitaph of the Present Year on the Monument of Thomas Fuller
 author: Coleridge
 type: work
 cluster: Christianity · Faith and Doubt · Doubt

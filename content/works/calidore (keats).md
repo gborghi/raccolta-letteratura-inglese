@@ -1,5 +1,5 @@
 ---
-title: CALIDORE
+title: Calidore
 author: Keats
 type: work
 cluster: Court · Medieval England · History Play

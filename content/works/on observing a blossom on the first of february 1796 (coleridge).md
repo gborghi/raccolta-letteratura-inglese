@@ -1,5 +1,5 @@
 ---
-title: ON OBSERVING A BLOSSOM ON THE FIRST OF FEBRUARY 1796
+title: On Observing a Blossom on the First of February 1796
 author: Coleridge
 type: work
 cluster: Transience · Decay · Carpe Diem

@@ -1,5 +1,5 @@
 ---
-title: 'TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE'
+title: 'Talleyrand, Minister of Foreign Affairs at Paris, to Lord Grenville'
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

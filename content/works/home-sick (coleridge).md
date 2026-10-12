@@ -1,5 +1,5 @@
 ---
-title: HOME-SICK
+title: Home-Sick
 author: Coleridge
 type: work
 cluster: Alienation · Outsider · Exile

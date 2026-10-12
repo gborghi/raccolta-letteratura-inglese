@@ -1,5 +1,5 @@
 ---
-title: FORBEARANCE
+title: Forbearance
 author: Coleridge
 type: work
 cluster: Grace and Redemption · Humility · Bread and Wine Eucharist

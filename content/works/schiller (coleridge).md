@@ -1,5 +1,5 @@
 ---
-title: SCHILLER
+title: Schiller
 author: Coleridge
 type: work
 cluster: Joy · Animals · Comic Verse Song

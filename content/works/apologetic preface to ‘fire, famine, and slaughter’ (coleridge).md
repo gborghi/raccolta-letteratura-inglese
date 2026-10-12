@@ -1,5 +1,5 @@
 ---
-title: 'APOLOGETIC PREFACE TO ‘FIRE, FAMINE, AND SLAUGHTER’'
+title: 'Apologetic Preface to ‘Fire, Famine, and Slaughter’'
 author: Coleridge
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

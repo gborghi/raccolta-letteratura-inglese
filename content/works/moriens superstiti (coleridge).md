@@ -1,5 +1,5 @@
 ---
-title: MORIENS SUPERSTITI
+title: Moriens Superstiti
 author: Coleridge
 type: work
 cluster: Death · Silence · Bells

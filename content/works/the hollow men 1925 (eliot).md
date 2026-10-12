@@ -1,5 +1,5 @@
 ---
-title: THE HOLLOW MEN 1925
+title: The Hollow Men 1925
 author: Eliot
 type: work
 cluster: Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy

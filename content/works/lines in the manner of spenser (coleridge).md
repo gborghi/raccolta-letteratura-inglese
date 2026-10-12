@@ -1,5 +1,5 @@
 ---
-title: LINES IN THE MANNER OF SPENSER
+title: Lines in the Manner of Spenser
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

@@ -1,5 +1,5 @@
 ---
-title: PITY
+title: Pity
 author: Coleridge
 type: work
 cluster: Martyrdom · Martyr Saint · Cross

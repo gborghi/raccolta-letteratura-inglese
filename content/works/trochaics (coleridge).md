@@ -1,5 +1,5 @@
 ---
-title: TROCHAICS
+title: Trochaics
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

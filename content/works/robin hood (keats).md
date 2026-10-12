@@ -1,5 +1,5 @@
 ---
-title: ROBIN HOOD
+title: Robin Hood
 author: Keats
 type: work
 cluster: Wine and Drink · Ballad Ballade · Road

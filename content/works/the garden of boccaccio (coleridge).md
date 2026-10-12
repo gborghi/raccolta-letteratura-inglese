@@ -1,5 +1,5 @@
 ---
-title: THE GARDEN OF BOCCACCIO
+title: The Garden of Boccaccio
 author: Coleridge
 type: work
 cluster: Flowers · Spring · Garden

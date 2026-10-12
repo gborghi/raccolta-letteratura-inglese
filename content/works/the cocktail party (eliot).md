@@ -1,5 +1,5 @@
 ---
-title: THE COCKTAIL PARTY
+title: The Cocktail Party
 author: Eliot
 type: work
 cluster: Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy

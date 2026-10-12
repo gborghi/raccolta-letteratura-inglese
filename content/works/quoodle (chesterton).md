@@ -1,5 +1,5 @@
 ---
-title: THE SONG of QUOODLE
+title: The Song of Quoodle
 author: Chesterton
 type: work
 cluster: Joy · Animals · Comic Verse Song

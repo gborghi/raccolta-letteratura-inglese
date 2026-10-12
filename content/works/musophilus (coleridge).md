@@ -1,5 +1,5 @@
 ---
-title: MUSOPHILUS
+title: Musophilus
 author: Coleridge
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

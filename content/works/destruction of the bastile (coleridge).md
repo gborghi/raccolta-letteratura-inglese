@@ -1,5 +1,5 @@
 ---
-title: DESTRUCTION OF THE BASTILE
+title: Destruction of the Bastile
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

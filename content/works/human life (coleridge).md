@@ -1,5 +1,5 @@
 ---
-title: HUMAN LIFE
+title: Human Life
 author: Coleridge
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

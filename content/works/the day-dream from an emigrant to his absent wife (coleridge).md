@@ -1,5 +1,5 @@
 ---
-title: THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE
+title: The Day-Dream from an Emigrant to His Absent Wife
 author: Coleridge
 type: work
 cluster: Dreams · Moon

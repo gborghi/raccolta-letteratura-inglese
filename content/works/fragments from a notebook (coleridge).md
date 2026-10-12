@@ -1,5 +1,5 @@
 ---
-title: FRAGMENTS FROM A NOTEBOOK
+title: Fragments from a Notebook
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

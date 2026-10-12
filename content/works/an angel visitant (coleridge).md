@@ -1,5 +1,5 @@
 ---
-title: AN ANGEL VISITANT
+title: An Angel Visitant
 author: Coleridge
 type: work
 cluster: Joy · Animals · Comic Verse Song

@@ -1,5 +1,5 @@
 ---
-title: TWELFTH NIGHT
+title: Twelfth Night
 author: Shakespeare
 type: work
 cluster: Twelfth Night

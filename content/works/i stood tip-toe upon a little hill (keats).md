@@ -1,5 +1,5 @@
 ---
-title: I STOOD TIP-TOE UPON A LITTLE HILL
+title: I Stood Tip-Toe upon a Little Hill
 author: Keats
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

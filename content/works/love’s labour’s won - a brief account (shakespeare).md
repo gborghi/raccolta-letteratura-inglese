@@ -1,5 +1,5 @@
 ---
-title: LOVE’S LABOUR’S WON - A BRIEF ACCOUNT
+title: Love’s Labour’s Won - a Brief Account
 author: Shakespeare
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

@@ -1,5 +1,5 @@
 ---
-title: ON IMITATION
+title: On Imitation
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

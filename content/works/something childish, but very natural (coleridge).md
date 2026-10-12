@@ -1,5 +1,5 @@
 ---
-title: 'SOMETHING CHILDISH, BUT VERY NATURAL'
+title: 'Something Childish, but Very Natural'
 author: Coleridge
 type: work
 cluster: Dreams · Moon

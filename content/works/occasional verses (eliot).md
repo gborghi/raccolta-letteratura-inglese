@@ -1,5 +1,5 @@
 ---
-title: OCCASIONAL VERSES
+title: Occasional Verses
 author: Eliot
 type: work
 cluster: Disillusionment · First World War · Italy

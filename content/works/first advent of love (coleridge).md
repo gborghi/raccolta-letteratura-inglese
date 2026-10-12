@@ -1,5 +1,5 @@
 ---
-title: FIRST ADVENT OF LOVE
+title: First Advent of Love
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

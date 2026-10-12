@@ -1,5 +1,5 @@
 ---
-title: L’ENFANT PRODIGUE
+title: L’enfant Prodigue
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

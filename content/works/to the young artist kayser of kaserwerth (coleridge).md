@@ -1,5 +1,5 @@
 ---
-title: 'TO THE YOUNG ARTIST: KAYSER OF KASERWERTH'
+title: 'To the Young Artist: Kayser of Kaserwerth'
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

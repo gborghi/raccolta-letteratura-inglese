@@ -1,5 +1,5 @@
 ---
-title: EPITAPH
+title: Epitaph
 author: Coleridge
 type: work
 cluster: Mortality · Grave · Memento Mori

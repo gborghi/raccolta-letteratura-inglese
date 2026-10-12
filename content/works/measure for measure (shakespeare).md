@@ -1,5 +1,5 @@
 ---
-title: MEASURE FOR MEASURE
+title: Measure for Measure
 author: Shakespeare
 type: work
 cluster: Ottava Rima

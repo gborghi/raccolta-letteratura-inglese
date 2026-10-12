@@ -1,5 +1,5 @@
 ---
-title: 'LINES: TO A BEAUTIFUL SPRING IN A VILLAGE'
+title: 'Lines: To a Beautiful Spring in a Village'
 author: Coleridge
 type: work
 cluster: Memory and Time · Memory · Nostalgia

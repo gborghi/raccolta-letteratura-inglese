@@ -1,5 +1,5 @@
 ---
-title: 'THOUSAND HUMAN BEINGS, MEN, WOMEN, AND CHILDREN, MURDERED IN COLD BLOOD,'
+title: 'Thousand Human Beings, Men, Women, and Children, Murdered in Cold Blood,'
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

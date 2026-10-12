@@ -1,5 +1,5 @@
 ---
-title: TROILUS AND CRESSIDA
+title: Troilus and Cressida
 author: Shakespeare
 type: work
 cluster: Order vs Chaos · Historical Novel · Fanaticism

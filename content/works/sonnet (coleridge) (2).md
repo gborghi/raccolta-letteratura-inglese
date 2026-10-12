@@ -1,5 +1,5 @@
 ---
-title: SONNET
+title: Sonnet
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

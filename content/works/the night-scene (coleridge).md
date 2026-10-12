@@ -1,5 +1,5 @@
 ---
-title: THE NIGHT-SCENE
+title: The Night-Scene
 author: Coleridge
 type: work
 cluster: Stars · Night · Military Camp

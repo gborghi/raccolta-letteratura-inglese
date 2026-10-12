@@ -1,5 +1,5 @@
 ---
-title: MY BAPTISMAL BIRTH-DAY
+title: My Baptismal Birth-Day
 author: Coleridge
 type: work
 cluster: Grace and Redemption · Humility · Bread and Wine Eucharist

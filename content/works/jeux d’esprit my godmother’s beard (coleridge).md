@@ -1,5 +1,5 @@
 ---
-title: 'JEUX D’ESPRIT: MY GODMOTHER’S BEARD'
+title: 'Jeux D’esprit: My Godmother’s Beard'
 author: Coleridge
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire

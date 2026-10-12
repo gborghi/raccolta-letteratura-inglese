@@ -1,5 +1,5 @@
 ---
-title: GOETHE
+title: Goethe
 author: Coleridge
 type: work
 cluster: Memory and Time · Memory · Nostalgia

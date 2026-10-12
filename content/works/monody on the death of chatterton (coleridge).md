@@ -1,5 +1,5 @@
 ---
-title: MONODY ON THE DEATH OF CHATTERTON
+title: Monody on the Death of Chatterton
 author: Coleridge
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume

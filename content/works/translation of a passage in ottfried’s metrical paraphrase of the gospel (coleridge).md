@@ -1,5 +1,5 @@
 ---
-title: TRANSLATION OF A PASSAGE IN OTTFRIED’S METRICAL PARAPHRASE OF THE GOSPEL
+title: Translation of a Passage in Ottfried’s Metrical Paraphrase of the Gospel
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

@@ -1,5 +1,5 @@
 ---
-title: TO WILLIAM GODWIN
+title: To William Godwin
 author: Coleridge
 type: work
 cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong

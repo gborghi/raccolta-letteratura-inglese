@@ -1,5 +1,5 @@
 ---
-title: ON THE CURIOUS CIRCUMSTANCE
+title: On the Curious Circumstance
 author: Coleridge
 type: work
 cluster: Dreams · Moon

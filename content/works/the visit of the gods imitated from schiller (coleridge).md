@@ -1,5 +1,5 @@
 ---
-title: 'THE VISIT OF THE GODS: IMITATED FROM SCHILLER'
+title: 'The Visit of the Gods: Imitated from Schiller'
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

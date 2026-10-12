@@ -1,5 +1,5 @@
 ---
-title: FROST AT MIDNIGHT
+title: Frost at Midnight
 author: Coleridge
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience

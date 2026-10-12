@@ -1,5 +1,5 @@
 ---
-title: ON A DISCOVERY MADE TOO LATE
+title: On a Discovery Made Too Late
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

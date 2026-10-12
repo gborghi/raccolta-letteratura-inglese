@@ -1,5 +1,5 @@
 ---
-title: TO THE REV. W. L. BOWLES
+title: To the Rev. W. L. Bowles
 author: Coleridge
 type: work
 cluster: Melancholy · Suffering · Pain and Suffering

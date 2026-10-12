@@ -1,5 +1,5 @@
 ---
-title: ADDRESSED TO THE SAME
+title: Addressed to the Same
 author: Keats
 type: work
 cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)

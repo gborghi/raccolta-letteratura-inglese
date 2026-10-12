@@ -1,5 +1,5 @@
 ---
-title: THE FADED FLOWER
+title: The Faded Flower
 author: Coleridge
 type: work
 cluster: Transience · Decay · Carpe Diem

@@ -1,5 +1,5 @@
 ---
-title: A SUNSET
+title: A Sunset
 author: Coleridge
 type: work
 cluster: Sun · Light and Dark · Fire

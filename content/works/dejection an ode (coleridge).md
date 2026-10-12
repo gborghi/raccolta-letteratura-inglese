@@ -1,5 +1,5 @@
 ---
-title: 'DEJECTION: AN ODE'
+title: 'Dejection: An Ode'
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

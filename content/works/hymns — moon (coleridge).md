@@ -1,5 +1,5 @@
 ---
-title: HYMNS — MOON
+title: Hymns — Moon
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

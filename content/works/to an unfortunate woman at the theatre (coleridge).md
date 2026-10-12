@@ -1,5 +1,5 @@
 ---
-title: TO AN UNFORTUNATE WOMAN AT THE THEATRE
+title: To an Unfortunate Woman at the Theatre
 author: Coleridge
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

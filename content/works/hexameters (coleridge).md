@@ -1,5 +1,5 @@
 ---
-title: HEXAMETERS
+title: Hexameters
 author: Coleridge
 type: work
 cluster: Melancholy · Suffering · Pain and Suffering

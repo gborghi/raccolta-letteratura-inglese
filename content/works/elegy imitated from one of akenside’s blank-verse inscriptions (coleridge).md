@@ -1,5 +1,5 @@
 ---
-title: ELEGY IMITATED FROM ONE OF AKENSIDE’S BLANK-VERSE INSCRIPTIONS
+title: Elegy Imitated from One of Akenside’s Blank-Verse Inscriptions
 author: Coleridge
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume

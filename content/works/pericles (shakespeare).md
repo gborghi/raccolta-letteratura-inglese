@@ -1,5 +1,5 @@
 ---
-title: PERICLES
+title: Pericles
 author: Shakespeare
 type: work
 cluster: Blank Verse · Tragicomedy · Romance Play

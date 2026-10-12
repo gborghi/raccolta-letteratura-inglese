@@ -1,5 +1,5 @@
 ---
-title: Jane Austen GE
+title: Jane Austen Ge
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

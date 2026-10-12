@@ -1,5 +1,5 @@
 ---
-title: 'THE PANG MORE SHARP THAN ALL: AN ALLEGORY'
+title: 'The Pang More Sharp Than All: An Allegory'
 author: Coleridge
 type: work
 cluster: Allegory · Quest · Pilgrim

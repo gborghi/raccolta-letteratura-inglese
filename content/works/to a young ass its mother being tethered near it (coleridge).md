@@ -1,5 +1,5 @@
 ---
-title: 'TO A YOUNG ASS: ITS MOTHER BEING TETHERED NEAR IT'
+title: 'To a Young Ass: Its Mother Being Tethered Near It'
 author: Coleridge
 type: work
 cluster: Essay · Critique of Progress · Common Man

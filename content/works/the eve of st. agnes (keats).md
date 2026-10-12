@@ -1,5 +1,5 @@
 ---
-title: THE EVE OF ST. AGNES
+title: The Eve of St. Agnes
 author: Keats
 type: work
 cluster: Dreams · Moon

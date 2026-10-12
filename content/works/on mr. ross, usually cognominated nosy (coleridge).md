@@ -1,5 +1,5 @@
 ---
-title: 'ON MR. ROSS, USUALLY COGNOMINATED NOSY'
+title: 'On Mr. Ross, Usually Cognominated Nosy'
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

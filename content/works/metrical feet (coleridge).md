@@ -1,5 +1,5 @@
 ---
-title: METRICAL FEET
+title: Metrical Feet
 author: Coleridge
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience

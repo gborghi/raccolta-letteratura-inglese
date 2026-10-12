@@ -1,5 +1,5 @@
 ---
-title: HOW MANY BARDS GILD THE LAPSES OF TIME!
+title: How Many Bards Gild the Lapses of Time!
 author: Keats
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

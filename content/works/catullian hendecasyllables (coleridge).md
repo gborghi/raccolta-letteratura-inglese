@@ -1,5 +1,5 @@
 ---
-title: CATULLIAN HENDECASYLLABLES
+title: Catullian Hendecasyllables
 author: Coleridge
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire

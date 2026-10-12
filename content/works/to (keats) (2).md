@@ -1,5 +1,5 @@
 ---
-title: TO * * * * * *
+title: To * * * * * *
 author: Keats
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

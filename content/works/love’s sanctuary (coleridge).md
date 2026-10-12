@@ -1,5 +1,5 @@
 ---
-title: LOVE’S SANCTUARY
+title: Love’s Sanctuary
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

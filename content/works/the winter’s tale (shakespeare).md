@@ -1,5 +1,5 @@
 ---
-title: THE WINTER’S TALE
+title: The Winter’s Tale
 author: Shakespeare
 type: work
 cluster: Blank Verse · Tragicomedy · Romance Play

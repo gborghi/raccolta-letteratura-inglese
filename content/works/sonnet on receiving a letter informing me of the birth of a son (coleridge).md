@@ -1,5 +1,5 @@
 ---
-title: 'SONNET: ON RECEIVING A LETTER INFORMING ME OF THE BIRTH OF A SON'
+title: 'Sonnet: On Receiving a Letter Informing Me of the Birth of a Son'
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

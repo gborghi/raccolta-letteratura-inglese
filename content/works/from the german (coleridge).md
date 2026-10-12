@@ -1,5 +1,5 @@
 ---
-title: FROM THE GERMAN
+title: From the German
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

@@ -1,5 +1,5 @@
 ---
-title: FEARS IN SOLITUDE
+title: Fears in Solitude
 author: Coleridge
 type: work
 cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom

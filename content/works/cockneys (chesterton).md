@@ -1,5 +1,5 @@
 ---
-title: COCKNEYS and THEIR JOKES
+title: Cockneys and Their Jokes
 author: Chesterton
 type: work
 cluster: City · London · Theatrum Mundi

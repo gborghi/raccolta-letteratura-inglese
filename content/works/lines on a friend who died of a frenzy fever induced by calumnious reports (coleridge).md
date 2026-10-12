@@ -1,5 +1,5 @@
 ---
-title: LINES ON A FRIEND WHO DIED OF A FRENZY FEVER INDUCED BY CALUMNIOUS REPORTS
+title: Lines on a Friend Who Died of a Frenzy Fever Induced by Calumnious Reports
 author: Coleridge
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume

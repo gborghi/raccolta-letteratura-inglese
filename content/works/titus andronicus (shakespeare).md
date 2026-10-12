@@ -1,5 +1,5 @@
 ---
-title: TITUS ANDRONICUS
+title: Titus Andronicus
 author: Shakespeare
 type: work
 cluster: Blood · Verse Drama · Revenge

@@ -1,5 +1,5 @@
 ---
-title: REASON
+title: Reason
 author: Coleridge
 type: work
 cluster: Dante

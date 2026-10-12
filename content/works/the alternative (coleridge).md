@@ -1,5 +1,5 @@
 ---
-title: THE ALTERNATIVE
+title: The Alternative
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

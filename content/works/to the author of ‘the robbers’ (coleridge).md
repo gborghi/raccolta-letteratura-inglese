@@ -1,5 +1,5 @@
 ---
-title: TO THE AUTHOR OF ‘THE ROBBERS’
+title: To the Author of ‘the Robbers’
 author: Coleridge
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm

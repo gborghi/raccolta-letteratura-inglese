@@ -1,5 +1,5 @@
 ---
-title: VENUS AND ADONIS
+title: Venus and Adonis
 author: Shakespeare
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire

@@ -1,5 +1,5 @@
 ---
-title: THE PAINS OF SLEEP
+title: The Pains of Sleep
 author: Coleridge
 type: work
 cluster: Guilt · Conscience · Fate and Free Will

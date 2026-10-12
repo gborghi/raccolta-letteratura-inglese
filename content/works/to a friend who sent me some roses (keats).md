@@ -1,5 +1,5 @@
 ---
-title: TO A FRIEND WHO SENT ME SOME ROSES
+title: To a Friend Who Sent Me Some Roses
 author: Keats
 type: work
 cluster: Rose · Desire · Value and Scarcity

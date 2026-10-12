@@ -1,5 +1,5 @@
 ---
-title: FOR A HOUSE-DOG’S COLLAR
+title: For a House-Dog’s Collar
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

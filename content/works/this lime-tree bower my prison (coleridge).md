@@ -1,5 +1,5 @@
 ---
-title: THIS LIME-TREE BOWER MY PRISON
+title: This Lime-Tree Bower My Prison
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

@@ -1,5 +1,5 @@
 ---
-title: THE POETASTER
+title: The Poetaster
 author: Coleridge
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume

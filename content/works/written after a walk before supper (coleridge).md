@@ -1,5 +1,5 @@
 ---
-title: WRITTEN AFTER A WALK BEFORE SUPPER
+title: Written After a Walk Before Supper
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

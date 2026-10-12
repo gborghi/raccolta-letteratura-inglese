@@ -1,5 +1,5 @@
 ---
-title: A CHILD’S EVENING PRAYER
+title: A Child’s Evening Prayer
 author: Coleridge
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience

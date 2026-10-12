@@ -1,5 +1,5 @@
 ---
-title: APPENDIX POEMS WRITTEN IN EARLY YOUTH
+title: Appendix Poems Written in Early Youth
 author: Eliot
 type: work
 cluster: Transience · Decay · Carpe Diem

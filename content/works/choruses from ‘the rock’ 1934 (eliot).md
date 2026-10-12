@@ -1,5 +1,5 @@
 ---
-title: CHORUSES FROM ‘THE ROCK’ 1934
+title: Choruses from ‘the Rock’ 1934
 author: Eliot
 type: work
 cluster: City · London · Theatrum Mundi

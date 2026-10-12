@@ -1,5 +1,5 @@
 ---
-title: TO DISAPPOINTMENT
+title: To Disappointment
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

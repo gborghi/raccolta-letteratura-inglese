@@ -1,5 +1,5 @@
 ---
-title: JULIUS CAESAR
+title: Julius Caesar
 author: Shakespeare
 type: work
 cluster: Honour · Ancient Rome

@@ -1,5 +1,5 @@
 ---
-title: MILESISCHES MÄHRCHEN
+title: Milesisches Mährchen
 author: Coleridge
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire

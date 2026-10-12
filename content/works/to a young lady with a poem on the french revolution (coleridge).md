@@ -1,5 +1,5 @@
 ---
-title: TO A YOUNG LADY WITH A POEM ON THE FRENCH REVOLUTION
+title: To a Young Lady with a Poem on the French Revolution
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

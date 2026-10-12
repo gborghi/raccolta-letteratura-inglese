@@ -1,5 +1,5 @@
 ---
-title: DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE
+title: Duty Surviving Self-Love the Only Sure Friend of Declining Life
 author: Coleridge
 type: work
 cluster: Friendship · Tears

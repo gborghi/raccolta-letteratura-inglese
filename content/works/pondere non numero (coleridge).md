@@ -1,5 +1,5 @@
 ---
-title: PONDERE NON NUMERO
+title: Pondere Non Numero
 author: Coleridge
 type: work
 cluster: Friendship · Tears

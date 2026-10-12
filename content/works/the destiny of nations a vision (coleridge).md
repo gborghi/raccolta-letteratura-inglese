@@ -1,5 +1,5 @@
 ---
-title: 'THE DESTINY OF NATIONS: A VISION'
+title: 'The Destiny of Nations: A Vision'
 author: Coleridge
 type: work
 cluster: Blank Verse · Tragicomedy · Romance Play

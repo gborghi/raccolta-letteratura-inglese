@@ -1,5 +1,5 @@
 ---
-title: AD LYRAM.
+title: Ad Lyram.
 author: Coleridge
 type: work
 cluster: Transience · Decay · Carpe Diem

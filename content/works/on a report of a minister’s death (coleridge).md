@@ -1,5 +1,5 @@
 ---
-title: ON A REPORT OF A MINISTER’S DEATH
+title: On a Report of a Minister’s Death
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

@@ -1,5 +1,5 @@
 ---
-title: THE RASH CONJURER
+title: The Rash Conjurer
 author: Coleridge
 type: work
 cluster: Temptation · Good vs Evil · Serpent Snake

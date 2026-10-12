@@ -1,5 +1,5 @@
 ---
-title: TO THE EVENING STAR
+title: To the Evening Star
 author: Coleridge
 type: work
 cluster: Stars · Night · Military Camp

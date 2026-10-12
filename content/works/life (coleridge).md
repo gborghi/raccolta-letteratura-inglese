@@ -1,5 +1,5 @@
 ---
-title: LIFE
+title: Life
 author: Coleridge
 type: work
 cluster: Death · Silence · Bells

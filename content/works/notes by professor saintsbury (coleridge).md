@@ -1,5 +1,5 @@
 ---
-title: NOTES BY PROFESSOR SAINTSBURY
+title: Notes by Professor Saintsbury
 author: Coleridge
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

@@ -1,5 +1,5 @@
 ---
-title: AN ODE TO THE RAIN
+title: An Ode to the Rain
 author: Coleridge
 type: work
 cluster: Friendship · Tears

@@ -1,5 +1,5 @@
 ---
-title: IMITATED FROM ARISTOPHANES
+title: Imitated from Aristophanes
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

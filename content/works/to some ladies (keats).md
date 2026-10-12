@@ -1,5 +1,5 @@
 ---
-title: TO SOME LADIES
+title: To Some Ladies
 author: Keats
 type: work
 cluster: Friendship · Tears

@@ -1,5 +1,5 @@
 ---
-title: FAREWELL TO LOVE
+title: Farewell to Love
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

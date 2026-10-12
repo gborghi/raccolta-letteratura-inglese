@@ -1,5 +1,5 @@
 ---
-title: 'ON RECEIVING A CURIOUS SHELL, AND A COPY OF VERSES, FROM THE SAME LADIES'
+title: 'On Receiving a Curious Shell, and a Copy of Verses, from the Same Ladies'
 author: Keats
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

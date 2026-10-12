@@ -1,5 +1,5 @@
 ---
-title: THE DEATH OF WALLENSTEIN
+title: The Death of Wallenstein
 author: Coleridge
 type: work
 cluster: Blood · Verse Drama · Revenge

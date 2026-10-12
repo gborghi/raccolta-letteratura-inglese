@@ -1,5 +1,5 @@
 ---
-title: NONSENSE SAPPHICS
+title: Nonsense Sapphics
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

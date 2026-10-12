@@ -1,5 +1,5 @@
 ---
-title: ODE TO A NIGHTINGALE
+title: Ode to a Nightingale
 author: Keats
 type: work
 cluster: Birds · Music and Song · Nightingale

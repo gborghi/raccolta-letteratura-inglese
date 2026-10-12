@@ -1,5 +1,5 @@
 ---
-title: CORIOLANUS
+title: Coriolanus
 author: Shakespeare
 type: work
 cluster: Honour · Ancient Rome

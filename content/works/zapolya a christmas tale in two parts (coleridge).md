@@ -1,5 +1,5 @@
 ---
-title: ZAPOLYA A CHRISTMAS TALE IN TWO PARTS
+title: Zapolya a Christmas Tale in Two Parts
 author: Coleridge
 type: work
 cluster: Crown · Pride · Fortune's Wheel

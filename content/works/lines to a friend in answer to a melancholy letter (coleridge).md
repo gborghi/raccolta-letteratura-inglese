@@ -1,5 +1,5 @@
 ---
-title: LINES TO A FRIEND IN ANSWER TO A MELANCHOLY LETTER
+title: Lines to a Friend in Answer to a Melancholy Letter
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

@@ -1,5 +1,5 @@
 ---
-title: OCCASIONED BY THE FORMER
+title: Occasioned by the Former
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

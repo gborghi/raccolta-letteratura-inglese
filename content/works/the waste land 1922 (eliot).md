@@ -1,5 +1,5 @@
 ---
-title: THE WASTE LAND  1922
+title: The Waste Land 1922
 author: Eliot
 type: work
 cluster: Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy

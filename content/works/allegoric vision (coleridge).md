@@ -1,5 +1,5 @@
 ---
-title: ALLEGORIC VISION
+title: Allegoric Vision
 author: Coleridge
 type: work
 cluster: Allegory · Quest · Pilgrim

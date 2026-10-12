@@ -1,5 +1,5 @@
 ---
-title: REMORSE
+title: Remorse
 author: Coleridge
 type: work
 cluster: Blood · Verse Drama · Revenge

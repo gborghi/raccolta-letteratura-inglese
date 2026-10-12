@@ -1,5 +1,5 @@
 ---
-title: OTHELLO
+title: Othello
 author: Shakespeare
 type: work
 cluster: Blood · Verse Drama · Revenge

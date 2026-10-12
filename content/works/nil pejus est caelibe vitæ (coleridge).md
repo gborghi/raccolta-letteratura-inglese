@@ -1,5 +1,5 @@
 ---
-title: NIL PEJUS EST CAELIBE VITÆ
+title: Nil Pejus Est Caelibe Vitæ
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

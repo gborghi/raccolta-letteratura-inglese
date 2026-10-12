@@ -1,5 +1,5 @@
 ---
-title: THE HISTORY OF KING LEAR - THE QUARTO TEXT
+title: The History of King Lear - the Quarto Text
 author: Shakespeare
 type: work
 cluster: Crown · Pride · Fortune's Wheel

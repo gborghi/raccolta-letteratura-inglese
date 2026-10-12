@@ -1,5 +1,5 @@
 ---
-title: THE FALL OF ROBESPIERRE
+title: The Fall of Robespierre
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

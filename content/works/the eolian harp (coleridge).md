@@ -1,5 +1,5 @@
 ---
-title: THE EOLIAN HARP
+title: The Eolian Harp
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

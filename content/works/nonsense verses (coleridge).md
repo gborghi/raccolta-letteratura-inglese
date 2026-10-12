@@ -1,5 +1,5 @@
 ---
-title: NONSENSE VERSES
+title: Nonsense Verses
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

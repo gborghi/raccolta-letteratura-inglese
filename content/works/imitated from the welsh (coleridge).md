@@ -1,5 +1,5 @@
 ---
-title: IMITATED FROM THE WELSH
+title: Imitated from the Welsh
 author: Coleridge
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire

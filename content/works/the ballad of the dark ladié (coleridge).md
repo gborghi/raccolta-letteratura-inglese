@@ -1,5 +1,5 @@
 ---
-title: THE BALLAD OF THE DARK LADIÉ
+title: The Ballad of the Dark Ladié
 author: Coleridge
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

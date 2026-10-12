@@ -1,5 +1,5 @@
 ---
-title: 'FIRST DRAFTS, EARLY VERSIONS, ETC.'
+title: 'First Drafts, Early Versions, Etc.'
 author: Coleridge
 type: work
 cluster: Ship · Endurance

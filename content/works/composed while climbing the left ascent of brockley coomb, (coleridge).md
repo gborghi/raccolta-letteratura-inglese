@@ -1,5 +1,5 @@
 ---
-title: 'COMPOSED WHILE CLIMBING THE LEFT ASCENT OF BROCKLEY COOMB,'
+title: 'Composed While Climbing the Left Ascent of Brockley Coomb,'
 author: Coleridge
 type: work
 cluster: Nature · Book of Nature · Natural Order

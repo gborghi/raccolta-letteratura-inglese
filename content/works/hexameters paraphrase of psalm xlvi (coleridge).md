@@ -1,5 +1,5 @@
 ---
-title: 'HEXAMETERS: PARAPHRASE OF PSALM XLVI'
+title: 'Hexameters: Paraphrase of Psalm XLVI'
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

@@ -1,5 +1,5 @@
 ---
-title: YOUTH AND AGE
+title: Youth and Age
 author: Coleridge
 type: work
 cluster: Memory and Time · Memory · Nostalgia

@@ -1,5 +1,5 @@
 ---
-title: 'THE GOOD, GREAT MAN'
+title: 'The Good, Great Man'
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

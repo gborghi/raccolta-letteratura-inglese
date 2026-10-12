@@ -1,5 +1,5 @@
 ---
-title: THE MERRY WIVES OF WINDSOR
+title: The Merry Wives of Windsor
 author: Shakespeare
 type: work
 cluster: World Upside Down · Comedy

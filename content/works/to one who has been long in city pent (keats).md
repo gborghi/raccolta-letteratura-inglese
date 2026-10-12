@@ -1,5 +1,5 @@
 ---
-title: TO ONE WHO HAS BEEN LONG IN CITY PENT
+title: To One Who Has Been Long in City Pent
 author: Keats
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

@@ -1,5 +1,5 @@
 ---
-title: UNFINISHED POEMS
+title: Unfinished Poems
 author: Eliot
 type: work
 cluster: Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy

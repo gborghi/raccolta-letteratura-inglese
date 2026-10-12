@@ -1,5 +1,5 @@
 ---
-title: TO MISS BRUNTON
+title: To Miss Brunton
 author: Coleridge
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire

@@ -1,5 +1,5 @@
 ---
-title: 'METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE'
+title: 'Metrical Experiment: An Experiment for a Metre'
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

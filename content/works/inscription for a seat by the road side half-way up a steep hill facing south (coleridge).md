@@ -1,5 +1,5 @@
 ---
-title: INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH
+title: Inscription for a Seat by the Road Side Half-Way Up a Steep Hill Facing South
 author: Coleridge
 type: work
 cluster: Mortality · Grave · Memento Mori

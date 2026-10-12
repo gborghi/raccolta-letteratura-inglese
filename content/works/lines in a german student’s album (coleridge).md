@@ -1,5 +1,5 @@
 ---
-title: LINES IN A GERMAN STUDENT’S ALBUM
+title: Lines in a German Student’s Album
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

@@ -1,5 +1,5 @@
 ---
-title: THE MAD MONK
+title: The Mad Monk
 author: Coleridge
 type: work
 cluster: Terror and Horror · Madness

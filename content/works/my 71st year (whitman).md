@@ -1,5 +1,5 @@
 ---
-title: MY 71st Year
+title: My 71st Year
 author: Whitman
 type: work
 cluster: Stars · Night · Military Camp

@@ -1,5 +1,5 @@
 ---
-title: 'TO TWO SISTERS: (MARY MORGAN AND CHARLOTTE BRENT)'
+title: 'To Two Sisters: (Mary Morgan and Charlotte Brent)'
 author: Coleridge
 type: work
 cluster: Alienation · Outsider · Exile

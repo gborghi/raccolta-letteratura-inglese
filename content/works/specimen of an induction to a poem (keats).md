@@ -1,5 +1,5 @@
 ---
-title: SPECIMEN OF AN INDUCTION TO A POEM
+title: Specimen of an Induction to a Poem
 author: Keats
 type: work
 cluster: Court · Medieval England · History Play

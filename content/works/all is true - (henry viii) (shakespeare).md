@@ -1,5 +1,5 @@
 ---
-title: ALL IS TRUE - (HENRY VIII)
+title: All Is True - (Henry VIII)
 author: Shakespeare
 type: work
 cluster: Court · Medieval England · History Play

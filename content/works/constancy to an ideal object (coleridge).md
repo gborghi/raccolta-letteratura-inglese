@@ -1,5 +1,5 @@
 ---
-title: CONSTANCY TO AN IDEAL OBJECT
+title: Constancy to an Ideal Object
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

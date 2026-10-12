@@ -1,5 +1,5 @@
 ---
-title: ADDRESSED TO A YOUNG MAN OF FORTUNE
+title: Addressed to a Young Man of Fortune
 author: Coleridge
 type: work
 cluster: Money and Gold · Poverty · Imprisonment

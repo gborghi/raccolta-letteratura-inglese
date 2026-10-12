@@ -1,5 +1,5 @@
 ---
-title: NONSENSE
+title: Nonsense
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

@@ -1,5 +1,5 @@
 ---
-title: THE DUNGEON
+title: The Dungeon
 author: Coleridge
 type: work
 cluster: Essay · Critique of Progress · Common Man

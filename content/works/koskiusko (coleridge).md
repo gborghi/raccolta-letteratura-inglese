@@ -1,5 +1,5 @@
 ---
-title: KOSKIUSKO
+title: Koskiusko
 author: Coleridge
 type: work
 cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom

@@ -1,5 +1,5 @@
 ---
-title: ON A READER OF HIS OWN VERSES
+title: On a Reader of His Own Verses
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

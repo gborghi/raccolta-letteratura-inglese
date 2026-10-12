@@ -1,5 +1,5 @@
 ---
-title: TO A VAIN YOUNG LADY
+title: To a Vain Young Lady
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

@@ -1,5 +1,5 @@
 ---
-title: TO HOPE
+title: To Hope
 author: Keats
 type: work
 cluster: Melancholy · Suffering · Pain and Suffering

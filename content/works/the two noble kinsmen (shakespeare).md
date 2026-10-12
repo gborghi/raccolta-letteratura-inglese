@@ -1,5 +1,5 @@
 ---
-title: THE TWO NOBLE KINSMEN
+title: The Two Noble Kinsmen
 author: Shakespeare
 type: work
 cluster: Blank Verse · Tragicomedy · Romance Play

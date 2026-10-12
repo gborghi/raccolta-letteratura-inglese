@@ -1,5 +1,5 @@
 ---
-title: LINES ON THE MERMAID TAVERN
+title: Lines on the Mermaid Tavern
 author: Keats
 type: work
 cluster: Wine and Drink · Ballad Ballade · Road

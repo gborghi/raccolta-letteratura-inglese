@@ -1,5 +1,5 @@
 ---
-title: ODE TO PSYCHE
+title: Ode to Psyche
 author: Keats
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

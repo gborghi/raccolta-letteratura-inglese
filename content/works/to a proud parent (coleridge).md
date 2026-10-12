@@ -1,5 +1,5 @@
 ---
-title: TO A PROUD PARENT
+title: To a Proud Parent
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

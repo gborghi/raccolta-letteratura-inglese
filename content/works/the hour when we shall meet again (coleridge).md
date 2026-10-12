@@ -1,5 +1,5 @@
 ---
-title: THE HOUR WHEN WE SHALL MEET AGAIN
+title: The Hour When We Shall Meet Again
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

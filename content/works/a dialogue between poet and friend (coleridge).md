@@ -1,5 +1,5 @@
 ---
-title: A DIALOGUE BETWEEN POET AND FRIEND
+title: A Dialogue Between Poet and Friend
 author: Coleridge
 type: work
 cluster: Christianity · Faith and Doubt · Doubt

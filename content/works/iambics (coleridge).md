@@ -1,5 +1,5 @@
 ---
-title: IAMBICS
+title: Iambics
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

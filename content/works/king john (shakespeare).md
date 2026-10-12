@@ -1,5 +1,5 @@
 ---
-title: KING JOHN
+title: King John
 author: Shakespeare
 type: work
 cluster: Crown · Pride · Fortune's Wheel

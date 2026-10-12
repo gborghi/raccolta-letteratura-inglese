@@ -1,5 +1,5 @@
 ---
-title: RECANTATION
+title: Recantation
 author: Coleridge
 type: work
 cluster: Wine and Drink · Ballad Ballade · Road

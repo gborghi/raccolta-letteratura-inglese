@@ -1,5 +1,5 @@
 ---
-title: THE REPROOF AND REPLY
+title: The Reproof and Reply
 author: Coleridge
 type: work
 cluster: Flowers · Spring · Garden

@@ -1,5 +1,5 @@
 ---
-title: ODE ON A GRECIAN URN
+title: Ode on a Grecian Urn
 author: Keats
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

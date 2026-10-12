@@ -1,5 +1,5 @@
 ---
-title: A DAY-DREAM
+title: A Day-Dream
 author: Coleridge
 type: work
 cluster: Dreams · Moon

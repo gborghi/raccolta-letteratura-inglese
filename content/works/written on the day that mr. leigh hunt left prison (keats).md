@@ -1,5 +1,5 @@
 ---
-title: WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON
+title: Written on the Day That Mr. Leigh Hunt Left Prison
 author: Keats
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

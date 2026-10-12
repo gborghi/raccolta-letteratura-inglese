@@ -1,5 +1,5 @@
 ---
-title: EASTER HOLIDAYS
+title: Easter Holidays
 author: Coleridge
 type: work
 cluster: Flowers · Spring · Garden

@@ -1,5 +1,5 @@
 ---
-title: LOVE’S LABOUR’S LOST
+title: Love’s Labour’s Lost
 author: Shakespeare
 type: work
 cluster: Love's Labour's Lost

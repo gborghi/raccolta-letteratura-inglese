@@ -1,5 +1,5 @@
 ---
-title: EPIGRAM ON KEPLER
+title: Epigram on Kepler
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

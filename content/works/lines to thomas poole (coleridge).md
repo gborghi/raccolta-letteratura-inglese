@@ -1,5 +1,5 @@
 ---
-title: LINES TO THOMAS POOLE
+title: Lines to Thomas Poole
 author: Coleridge
 type: work
 cluster: Friendship · Tears

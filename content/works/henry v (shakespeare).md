@@ -1,5 +1,5 @@
 ---
-title: HENRY V
+title: Henry V
 author: Shakespeare
 type: work
 cluster: Court · Medieval England · History Play

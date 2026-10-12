@@ -1,5 +1,5 @@
 ---
-title: HUNTING SONG
+title: Hunting Song
 author: Coleridge
 type: work
 cluster: Joy · Animals · Comic Verse Song

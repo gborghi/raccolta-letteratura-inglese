@@ -1,5 +1,5 @@
 ---
-title: FAMINE.
+title: Famine.
 author: Coleridge
 type: work
 cluster: Blood · Verse Drama · Revenge

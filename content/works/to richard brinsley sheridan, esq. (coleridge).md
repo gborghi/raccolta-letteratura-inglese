@@ -1,5 +1,5 @@
 ---
-title: 'TO RICHARD BRINSLEY SHERIDAN, ESQ.'
+title: 'To Richard Brinsley Sheridan, Esq.'
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

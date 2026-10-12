@@ -1,5 +1,5 @@
 ---
-title: TO MY CANDLE
+title: To My Candle
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

@@ -1,5 +1,5 @@
 ---
-title: JOB’S LUCK
+title: Job’s Luck
 author: Coleridge
 type: work
 cluster: Temptation · Good vs Evil · Serpent Snake

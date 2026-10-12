@@ -1,5 +1,5 @@
 ---
-title: A BECK IN WINTER
+title: A Beck in Winter
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

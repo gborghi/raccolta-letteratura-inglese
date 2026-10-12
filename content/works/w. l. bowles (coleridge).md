@@ -1,5 +1,5 @@
 ---
-title: W. L. BOWLES
+title: W. L. Bowles
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

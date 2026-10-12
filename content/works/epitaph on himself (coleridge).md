@@ -1,5 +1,5 @@
 ---
-title: 'EPITAPH: ON HIMSELF'
+title: 'Epitaph: On Himself'
 author: Coleridge
 type: work
 cluster: Sleep · Sleeper Awakes · Resurrection

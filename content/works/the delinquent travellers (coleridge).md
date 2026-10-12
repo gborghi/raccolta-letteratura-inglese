@@ -1,5 +1,5 @@
 ---
-title: THE DELINQUENT TRAVELLERS
+title: The Delinquent Travellers
 author: Coleridge
 type: work
 cluster: Wine and Drink · Ballad Ballade · Road

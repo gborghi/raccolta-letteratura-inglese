@@ -1,5 +1,5 @@
 ---
-title: KUBLA KHAN
+title: Kubla Khan
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

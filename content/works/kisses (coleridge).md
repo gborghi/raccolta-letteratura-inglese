@@ -1,5 +1,5 @@
 ---
-title: KISSES
+title: Kisses
 author: Coleridge
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire

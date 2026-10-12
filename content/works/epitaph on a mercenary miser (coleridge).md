@@ -1,5 +1,5 @@
 ---
-title: EPITAPH ON A MERCENARY MISER
+title: Epitaph on a Mercenary Miser
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

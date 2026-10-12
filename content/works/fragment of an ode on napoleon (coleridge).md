@@ -1,5 +1,5 @@
 ---
-title: FRAGMENT OF AN ODE ON NAPOLEON
+title: Fragment of an Ode on Napoleon
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

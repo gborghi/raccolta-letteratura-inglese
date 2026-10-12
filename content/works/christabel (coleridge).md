@@ -1,5 +1,5 @@
 ---
-title: CHRISTABEL
+title: Christabel
 author: Coleridge
 type: work
 cluster: Supernatural · Uncanny · Double

@@ -1,5 +1,5 @@
 ---
-title: 'THE IMPROVISATORE OR, JOHN ANDERSON, MY JO, JOHN'
+title: 'The Improvisatore or, John Anderson, My Jo, John'
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

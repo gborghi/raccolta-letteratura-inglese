@@ -1,5 +1,5 @@
 ---
-title: ODE TO TRANQUILLITY
+title: Ode to Tranquillity
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

@@ -1,5 +1,5 @@
 ---
-title: ADAPTATIONS
+title: Adaptations
 author: Coleridge
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

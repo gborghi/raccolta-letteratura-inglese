@@ -1,5 +1,5 @@
 ---
-title: ON BALA HILL
+title: On Bala Hill
 author: Coleridge
 type: work
 cluster: Transience · Decay · Carpe Diem

@@ -1,5 +1,5 @@
 ---
-title: TO AN INFANT
+title: To an Infant
 author: Coleridge
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience

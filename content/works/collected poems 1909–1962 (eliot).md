@@ -1,5 +1,5 @@
 ---
-title: COLLECTED POEMS 1909–1962
+title: Collected Poems 1909–1962
 author: Eliot
 type: work
 cluster: Mortality · Grave · Memento Mori

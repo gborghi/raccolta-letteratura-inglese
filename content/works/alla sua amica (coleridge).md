@@ -1,5 +1,5 @@
 ---
-title: ALLA SUA AMICA
+title: Alla Sua Amica
 author: Coleridge
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire

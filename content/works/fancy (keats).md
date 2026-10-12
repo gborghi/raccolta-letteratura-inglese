@@ -1,5 +1,5 @@
 ---
-title: FANCY
+title: Fancy
 author: Keats
 type: work
 cluster: Seasons · Winter · Autumn

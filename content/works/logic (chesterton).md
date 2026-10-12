@@ -1,5 +1,5 @@
 ---
-title: LOGIC and LAWN TENNIS
+title: Logic and Lawn Tennis
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man

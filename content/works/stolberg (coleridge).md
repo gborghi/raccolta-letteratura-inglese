@@ -1,5 +1,5 @@
 ---
-title: STOLBERG
+title: Stolberg
 author: Coleridge
 type: work
 cluster: Heroism · Hero · Last Stand

@@ -1,5 +1,5 @@
 ---
-title: PHANTOM
+title: Phantom
 author: Coleridge
 type: work
 cluster: Dreams · Moon

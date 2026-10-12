@@ -1,5 +1,5 @@
 ---
-title: JULIA
+title: Julia
 author: Coleridge
 type: work
 cluster: Joy · Animals · Comic Verse Song

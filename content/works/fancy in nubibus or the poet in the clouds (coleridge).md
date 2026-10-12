@@ -1,5 +1,5 @@
 ---
-title: FANCY IN NUBIBUS OR THE POET IN THE CLOUDS
+title: Fancy in Nubibus or the Poet in the Clouds
 author: Coleridge
 type: work
 cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)

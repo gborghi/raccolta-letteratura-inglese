@@ -1,5 +1,5 @@
 ---
-title: FOUR QUARTETS
+title: Four Quartets
 author: Eliot
 type: work
 cluster: Dante

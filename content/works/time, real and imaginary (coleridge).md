@@ -1,5 +1,5 @@
 ---
-title: 'TIME, REAL AND IMAGINARY'
+title: 'Time, Real and Imaginary'
 author: Coleridge
 type: work
 cluster: Allegory · Quest · Pilgrim

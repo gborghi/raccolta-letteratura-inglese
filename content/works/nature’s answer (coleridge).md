@@ -1,5 +1,5 @@
 ---
-title: NATURE’S ANSWER
+title: Nature’s Answer
 author: Coleridge
 type: work
 cluster: Guilt · Conscience · Fate and Free Will

@@ -1,5 +1,5 @@
 ---
-title: TO BABY BATES
+title: To Baby Bates
 author: Coleridge
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience

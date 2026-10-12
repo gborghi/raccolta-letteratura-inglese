@@ -1,5 +1,5 @@
 ---
-title: ARGUMENT
+title: Argument
 author: Coleridge
 type: work
 cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)

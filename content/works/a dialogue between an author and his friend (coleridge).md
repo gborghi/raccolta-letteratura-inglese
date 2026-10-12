@@ -1,5 +1,5 @@
 ---
-title: A DIALOGUE BETWEEN AN AUTHOR AND HIS FRIEND
+title: A Dialogue Between an Author and His Friend
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

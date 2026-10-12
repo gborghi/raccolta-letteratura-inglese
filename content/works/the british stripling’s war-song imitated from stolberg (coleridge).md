@@ -1,5 +1,5 @@
 ---
-title: THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG
+title: The British Stripling’s War-Song Imitated from Stolberg
 author: Coleridge
 type: work
 cluster: War and its Cost · American Civil War · Battlefield

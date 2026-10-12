@@ -1,5 +1,5 @@
 ---
-title: TO THE AUTHOR OF POEMS
+title: To the Author of Poems
 author: Coleridge
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

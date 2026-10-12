@@ -1,5 +1,5 @@
 ---
-title: STOLBERG
+title: Stolberg
 author: Coleridge
 type: work
 cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)

@@ -1,5 +1,5 @@
 ---
-title: WORK WITHOUT HOPE
+title: Work Without Hope
 author: Coleridge
 type: work
 cluster: Flowers · Spring · Garden

@@ -1,5 +1,5 @@
 ---
-title: HENRY VI PART ONE
+title: Henry VI Part One
 author: Shakespeare
 type: work
 cluster: Wars of the Roses

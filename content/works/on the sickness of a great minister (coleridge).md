@@ -1,5 +1,5 @@
 ---
-title: ON THE SICKNESS OF A GREAT MINISTER
+title: On the Sickness of a Great Minister
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

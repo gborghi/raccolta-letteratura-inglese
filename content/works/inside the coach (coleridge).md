@@ -1,5 +1,5 @@
 ---
-title: INSIDE THE COACH
+title: Inside the Coach
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

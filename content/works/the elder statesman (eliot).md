@@ -1,5 +1,5 @@
 ---
-title: THE ELDER STATESMAN
+title: The Elder Statesman
 author: Eliot
 type: work
 cluster: Guilt · Conscience · Fate and Free Will

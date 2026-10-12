@@ -1,5 +1,5 @@
 ---
-title: TO THE REV. GEORGE COLERIDGE
+title: To the Rev. George Coleridge
 author: Coleridge
 type: work
 cluster: Essay · Critique of Progress · Common Man

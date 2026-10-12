@@ -1,5 +1,5 @@
 ---
-title: THE DEVIL’S THOUGHTS
+title: The Devil’s Thoughts
 author: Coleridge
 type: work
 cluster: Wine and Drink · Ballad Ballade · Road

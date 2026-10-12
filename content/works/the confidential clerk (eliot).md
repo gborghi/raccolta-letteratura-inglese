@@ -1,5 +1,5 @@
 ---
-title: THE CONFIDENTIAL CLERK
+title: The Confidential Clerk
 author: Eliot
 type: work
 cluster: Child · Orphan

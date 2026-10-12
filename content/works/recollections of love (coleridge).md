@@ -1,5 +1,5 @@
 ---
-title: RECOLLECTIONS OF LOVE
+title: Recollections of Love
 author: Coleridge
 type: work
 cluster: Memory and Time · Memory · Nostalgia

@@ -1,5 +1,5 @@
 ---
-title: LOVE AND FRIENDSHIP OPPOSITE
+title: Love and Friendship Opposite
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

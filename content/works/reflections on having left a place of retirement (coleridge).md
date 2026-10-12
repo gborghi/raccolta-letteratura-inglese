@@ -1,5 +1,5 @@
 ---
-title: REFLECTIONS ON HAVING LEFT A PLACE OF RETIREMENT
+title: Reflections on Having Left a Place of Retirement
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

@@ -1,5 +1,5 @@
 ---
-title: MUCH ADO ABOUT NOTHING
+title: Much Ado About Nothing
 author: Shakespeare
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

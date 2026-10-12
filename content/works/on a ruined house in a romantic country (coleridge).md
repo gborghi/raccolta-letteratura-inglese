@@ -1,5 +1,5 @@
 ---
-title: ON A RUINED HOUSE IN A ROMANTIC COUNTRY
+title: On a Ruined House in a Romantic Country
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

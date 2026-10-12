@@ -1,5 +1,5 @@
 ---
-title: PRIESTLEY
+title: Priestley
 author: Coleridge
 type: work
 cluster: Alienation · Outsider · Exile

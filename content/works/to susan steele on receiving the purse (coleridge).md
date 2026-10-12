@@ -1,5 +1,5 @@
 ---
-title: TO SUSAN STEELE ON RECEIVING THE PURSE
+title: To Susan Steele on Receiving the Purse
 author: Coleridge
 type: work
 cluster: Money and Gold · Poverty · Imprisonment

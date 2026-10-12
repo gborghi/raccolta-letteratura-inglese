@@ -1,5 +1,5 @@
 ---
-title: ASH-WEDNESDAY 1930
+title: Ash-Wednesday 1930
 author: Eliot
 type: work
 cluster: Christianity · Faith and Doubt · Doubt

@@ -1,5 +1,5 @@
 ---
-title: NAMES
+title: Names
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

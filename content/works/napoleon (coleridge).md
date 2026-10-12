@@ -1,5 +1,5 @@
 ---
-title: NAPOLEON
+title: Napoleon
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

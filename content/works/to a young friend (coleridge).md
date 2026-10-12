@@ -1,5 +1,5 @@
 ---
-title: TO A YOUNG FRIEND
+title: To a Young Friend
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

@@ -1,5 +1,5 @@
 ---
-title: FROM AN OLD GERMAN POET
+title: From an Old German Poet
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

@@ -1,5 +1,5 @@
 ---
-title: 'STOLBERG: HYMNE AN DIE ERDE.'
+title: 'Stolberg: Hymne an Die Erde.'
 author: Coleridge
 type: work
 cluster: Nature · Book of Nature · Natural Order

@@ -1,5 +1,5 @@
 ---
-title: ASSOCIATION OF IDEAS
+title: Association of Ideas
 author: Coleridge
 type: work
 cluster: Memory and Time · Memory · Nostalgia

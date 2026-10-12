@@ -1,5 +1,5 @@
 ---
-title: INSCRIPTION FOR A FOUNTAIN ON A HEATH
+title: Inscription for a Fountain on a Heath
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

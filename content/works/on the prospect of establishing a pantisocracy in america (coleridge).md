@@ -1,5 +1,5 @@
 ---
-title: ON THE PROSPECT OF ESTABLISHING A PANTISOCRACY IN AMERICA
+title: On the Prospect of Establishing a Pantisocracy in America
 author: Coleridge
 type: work
 cluster: Essay · Critique of Progress · Common Man

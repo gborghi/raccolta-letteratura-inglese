@@ -1,5 +1,5 @@
 ---
-title: BARON GUELPH OF ADELSTAN. A FRAGMENT
+title: Baron Guelph of Adelstan. A Fragment
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

@@ -1,5 +1,5 @@
 ---
-title: THE WANDERINGS OF CAIN
+title: The Wanderings of Cain
 author: Coleridge
 type: work
 cluster: Bible · Sin and the Fall · Fall from Innocence

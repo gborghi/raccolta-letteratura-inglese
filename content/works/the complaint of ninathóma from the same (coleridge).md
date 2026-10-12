@@ -1,5 +1,5 @@
 ---
-title: 'THE COMPLAINT OF NINATHÓMA:FROM THE SAME'
+title: 'The Complaint of Ninathóma:From the Same'
 author: Coleridge
 type: work
 cluster: Ghosts · Ghost · Death and Love

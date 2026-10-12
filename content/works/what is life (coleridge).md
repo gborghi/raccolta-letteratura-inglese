@@ -1,5 +1,5 @@
 ---
-title: WHAT IS LIFE?
+title: What Is Life?
 author: Coleridge
 type: work
 cluster: Mortality · Grave · Memento Mori

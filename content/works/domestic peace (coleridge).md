@@ -1,5 +1,5 @@
 ---
-title: DOMESTIC PEACE
+title: Domestic Peace
 author: Coleridge
 type: work
 cluster: Joy · Animals · Comic Verse Song

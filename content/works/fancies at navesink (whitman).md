@@ -1,5 +1,5 @@
 ---
-title: FANCIES AT NAVESINK
+title: Fancies at Navesink
 author: Whitman
 type: work
 cluster: Sea · Water

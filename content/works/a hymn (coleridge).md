@@ -1,5 +1,5 @@
 ---
-title: A HYMN
+title: A Hymn
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

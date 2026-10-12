@@ -1,5 +1,5 @@
 ---
-title: THE TRAGEDY OF KING LEAR - THE FOLIO TEXT
+title: The Tragedy of King Lear - the Folio Text
 author: Shakespeare
 type: work
 cluster: Crown · Pride · Fortune's Wheel

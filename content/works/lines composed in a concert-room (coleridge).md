@@ -1,5 +1,5 @@
 ---
-title: LINES COMPOSED IN A CONCERT-ROOM
+title: Lines Composed in a Concert-Room
 author: Coleridge
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

@@ -1,5 +1,5 @@
 ---
-title: THE COMEDY OF ERRORS
+title: The Comedy of Errors
 author: Shakespeare
 type: work
 cluster: Supernatural · Uncanny · Double

@@ -1,5 +1,5 @@
 ---
-title: TO MY BROTHER GEORGE
+title: To My Brother George
 author: Keats
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

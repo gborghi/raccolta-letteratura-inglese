@@ -1,5 +1,5 @@
 ---
-title: TO THE MUSE
+title: To the Muse
 author: Coleridge
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

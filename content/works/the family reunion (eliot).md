@@ -1,5 +1,5 @@
 ---
-title: THE FAMILY REUNION
+title: The Family Reunion
 author: Eliot
 type: work
 cluster: Blood · Verse Drama · Revenge

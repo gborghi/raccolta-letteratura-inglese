@@ -1,5 +1,5 @@
 ---
-title: THE TEARS OF A GRATEFUL PEOPLE
+title: The Tears of a Grateful People
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

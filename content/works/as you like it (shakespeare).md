@@ -1,5 +1,5 @@
 ---
-title: AS YOU LIKE IT
+title: As You Like It
 author: Shakespeare
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

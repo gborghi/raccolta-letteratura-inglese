@@ -1,5 +1,5 @@
 ---
-title: EPIGRAM ON THE SECRECY OF A CERTAIN LADY
+title: Epigram on the Secrecy of a Certain Lady
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

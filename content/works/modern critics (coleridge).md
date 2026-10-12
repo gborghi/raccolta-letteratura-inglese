@@ -1,5 +1,5 @@
 ---
-title: MODERN CRITICS
+title: Modern Critics
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

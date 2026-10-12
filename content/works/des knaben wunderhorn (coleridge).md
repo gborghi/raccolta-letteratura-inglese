@@ -1,5 +1,5 @@
 ---
-title: DES KNABEN WUNDERHORN
+title: Des Knaben Wunderhorn
 author: Coleridge
 type: work
 cluster: Dreams · Moon

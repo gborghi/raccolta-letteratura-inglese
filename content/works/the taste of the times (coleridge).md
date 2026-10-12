@@ -1,5 +1,5 @@
 ---
-title: THE TASTE OF THE TIMES
+title: The Taste of the Times
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

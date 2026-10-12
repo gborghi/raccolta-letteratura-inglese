@@ -1,5 +1,5 @@
 ---
-title: DRINKING VERSUS THINKING
+title: Drinking Versus Thinking
 author: Coleridge
 type: work
 cluster: Wine and Drink · Ballad Ballade · Road

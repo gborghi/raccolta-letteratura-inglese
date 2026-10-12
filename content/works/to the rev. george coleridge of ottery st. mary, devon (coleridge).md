@@ -1,5 +1,5 @@
 ---
-title: 'TO THE REV. GEORGE COLERIDGE OF OTTERY ST. MARY, DEVON'
+title: 'To the Rev. George Coleridge of Ottery St. Mary, Devon'
 author: Coleridge
 type: work
 cluster: Alienation · Outsider · Exile

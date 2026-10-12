@@ -1,5 +1,5 @@
 ---
-title: ON SEEING A YOUTH AFFECTIONATELY WELCOMED BY A SISTER
+title: On Seeing a Youth Affectionately Welcomed by a Sister
 author: Coleridge
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume

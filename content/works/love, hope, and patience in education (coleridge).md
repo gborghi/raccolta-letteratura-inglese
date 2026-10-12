@@ -1,5 +1,5 @@
 ---
-title: 'LOVE, HOPE, AND PATIENCE IN EDUCATION'
+title: 'Love, Hope, and Patience in Education'
 author: Coleridge
 type: work
 cluster: Allegory · Quest · Pilgrim

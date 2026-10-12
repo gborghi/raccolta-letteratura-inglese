@@ -1,5 +1,5 @@
 ---
-title: HOMELESS
+title: Homeless
 author: Coleridge
 type: work
 cluster: Alienation · Outsider · Exile

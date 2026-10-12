@@ -1,5 +1,5 @@
 ---
-title: THE GENTLE LOOK
+title: The Gentle Look
 author: Coleridge
 type: work
 cluster: Melancholy · Suffering · Pain and Suffering

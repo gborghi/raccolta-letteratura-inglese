@@ -1,5 +1,5 @@
 ---
-title: THE VIRGIN’S CRADLE-HYMN
+title: The Virgin’s Cradle-Hymn
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

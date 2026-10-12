@@ -1,5 +1,5 @@
 ---
-title: A FRAGMENT FOUND IN A LECTURE-ROOM
+title: A Fragment Found in a Lecture-Room
 author: Coleridge
 type: work
 cluster: Education · Self-Made Man · Wheel

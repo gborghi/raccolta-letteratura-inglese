@@ -1,5 +1,5 @@
 ---
-title: THE ROSE
+title: The Rose
 author: Coleridge
 type: work
 cluster: Rose · Desire · Value and Scarcity

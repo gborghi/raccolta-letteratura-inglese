@@ -1,5 +1,5 @@
 ---
-title: BURKE
+title: Burke
 author: Coleridge
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

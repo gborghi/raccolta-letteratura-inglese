@@ -1,5 +1,5 @@
 ---
-title: PSYCHE
+title: Psyche
 author: Coleridge
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

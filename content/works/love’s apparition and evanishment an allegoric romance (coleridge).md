@@ -1,5 +1,5 @@
 ---
-title: 'LOVE’S APPARITION AND EVANISHMENT: AN ALLEGORIC ROMANCE'
+title: 'Love’s Apparition and Evanishment: An Allegoric Romance'
 author: Coleridge
 type: work
 cluster: Melancholy · Suffering · Pain and Suffering

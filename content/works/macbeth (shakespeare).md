@@ -1,5 +1,5 @@
 ---
-title: MACBETH
+title: Macbeth
 author: Shakespeare
 type: work
 cluster: Guilt · Conscience · Fate and Free Will

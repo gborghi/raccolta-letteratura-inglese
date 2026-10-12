@@ -1,5 +1,5 @@
 ---
-title: SIR THOMAS MORE
+title: Sir Thomas More
 author: Shakespeare
 type: work
 cluster: Court · Medieval England · History Play

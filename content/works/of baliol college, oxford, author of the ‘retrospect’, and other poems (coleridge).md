@@ -1,5 +1,5 @@
 ---
-title: 'OF BALIOL COLLEGE, OXFORD, AUTHOR OF THE ‘RETROSPECT’, AND OTHER POEMS'
+title: 'Of Baliol College, Oxford, Author of the ‘Retrospect’, and Other Poems'
 author: Coleridge
 type: work
 cluster: Memory and Time · Memory · Nostalgia

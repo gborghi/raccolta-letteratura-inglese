@@ -1,5 +1,5 @@
 ---
-title: A METRICAL ACCIDENT
+title: A Metrical Accident
 author: Coleridge
 type: work
 cluster: Martyrdom · Martyr Saint · Cross

@@ -1,5 +1,5 @@
 ---
-title: RICHARD DUKE OF YORK - (3 HENRY VI)
+title: Richard Duke of York - (3 Henry VI)
 author: Shakespeare
 type: work
 cluster: Wars of the Roses

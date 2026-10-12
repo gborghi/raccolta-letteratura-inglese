@@ -1,5 +1,5 @@
 ---
-title: ON RECEIVING AN ACCOUNT THAT HIS ONLY SISTER’S DEATH WAS INEVITABLE
+title: On Receiving an Account That His Only Sister’s Death Was Inevitable
 author: Coleridge
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume

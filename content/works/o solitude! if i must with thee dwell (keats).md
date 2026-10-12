@@ -1,5 +1,5 @@
 ---
-title: O SOLITUDE! IF I MUST WITH THEE DWELL
+title: O Solitude! If I Must with Thee Dwell
 author: Keats
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

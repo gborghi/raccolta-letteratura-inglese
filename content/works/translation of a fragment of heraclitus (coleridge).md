@@ -1,5 +1,5 @@
 ---
-title: TRANSLATION OF A FRAGMENT OF HERACLITUS
+title: Translation of a Fragment of Heraclitus
 author: Coleridge
 type: work
 cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)

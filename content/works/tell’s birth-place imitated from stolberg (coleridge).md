@@ -1,5 +1,5 @@
 ---
-title: 'TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG'
+title: 'Tell’s Birth-Place: Imitated from Stolberg'
 author: Coleridge
 type: work
 cluster: Heroism · Hero · Last Stand

@@ -1,5 +1,5 @@
 ---
-title: 'Introduction to John Bunyan''s ''THE PILGRIM''S PROGRESS'','
+title: "Introduction to John Bunyan’s The Pilgrim’s Progress"
 author: Chesterton
 type: work
 cluster: Allegory · Quest · Pilgrim

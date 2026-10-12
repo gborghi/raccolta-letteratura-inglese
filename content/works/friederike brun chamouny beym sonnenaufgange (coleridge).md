@@ -1,5 +1,5 @@
 ---
-title: 'FRIEDERIKE BRUN: CHAMOUNY BEYM SONNENAUFGANGE'
+title: 'Friederike Brun: Chamouny Beym Sonnenaufgange'
 author: Coleridge
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm

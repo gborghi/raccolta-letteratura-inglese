@@ -1,5 +1,5 @@
 ---
-title: DEVONSHIRE ROADS
+title: Devonshire Roads
 author: Coleridge
 type: work
 cluster: Wine and Drink · Ballad Ballade · Road

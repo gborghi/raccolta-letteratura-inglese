@@ -1,5 +1,5 @@
 ---
-title: WRITTEN IN AN ALBUM
+title: Written in an Album
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

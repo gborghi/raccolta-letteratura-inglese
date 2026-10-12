@@ -1,5 +1,5 @@
 ---
-title: THE BRIDGE STREET COMMITTEE
+title: The Bridge Street Committee
 author: Coleridge
 type: work
 cluster: Essay · Critique of Progress · Common Man

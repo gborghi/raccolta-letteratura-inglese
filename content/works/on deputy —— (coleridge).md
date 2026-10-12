@@ -1,5 +1,5 @@
 ---
-title: ON DEPUTY ——
+title: On Deputy ——
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

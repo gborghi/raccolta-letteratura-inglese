@@ -1,5 +1,5 @@
 ---
-title: THE SILVER THIMBLE
+title: The Silver Thimble
 author: Coleridge
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire

@@ -1,5 +1,5 @@
 ---
-title: 'LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW'
+title: 'Lines to a Comic Author, on an Abusive Review'
 author: Coleridge
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

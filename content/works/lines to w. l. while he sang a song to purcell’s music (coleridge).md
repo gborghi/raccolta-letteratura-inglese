@@ -1,5 +1,5 @@
 ---
-title: 'LINES TO W. L.: WHILE HE SANG A SONG TO PURCELL’S MUSIC'
+title: 'Lines to W. L.: While He Sang a Song to Purcell’s Music'
 author: Coleridge
 type: work
 cluster: Birds · Music and Song · Nightingale

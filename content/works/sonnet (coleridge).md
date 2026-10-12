@@ -1,5 +1,5 @@
 ---
-title: SONNET
+title: Sonnet
 author: Coleridge
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume

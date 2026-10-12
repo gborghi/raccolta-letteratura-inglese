@@ -1,5 +1,5 @@
 ---
-title: CYMBELINE
+title: Cymbeline
 author: Shakespeare
 type: work
 cluster: Blank Verse · Tragicomedy · Romance Play

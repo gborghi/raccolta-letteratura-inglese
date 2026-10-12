@@ -1,5 +1,5 @@
 ---
-title: THE CASE for the EPHEMERAL
+title: The Case for the Ephemeral
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man

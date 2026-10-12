@@ -1,5 +1,5 @@
 ---
-title: 'SCHILLER: DER EPISCHE HEXAMETER'
+title: 'Schiller: Der Epische Hexameter'
 author: Coleridge
 type: work
 cluster: Sea · Water

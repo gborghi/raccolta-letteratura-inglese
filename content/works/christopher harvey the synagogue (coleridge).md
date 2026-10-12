@@ -1,5 +1,5 @@
 ---
-title: CHRISTOPHER HARVEY THE SYNAGOGUE
+title: Christopher Harvey the Synagogue
 author: Coleridge
 type: work
 cluster: Grace and Redemption · Humility · Bread and Wine Eucharist

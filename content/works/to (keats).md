@@ -1,5 +1,5 @@
 ---
-title: TO * * * *
+title: To * * * *
 author: Keats
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

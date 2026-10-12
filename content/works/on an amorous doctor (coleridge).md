@@ -1,5 +1,5 @@
 ---
-title: ON AN AMOROUS DOCTOR
+title: On an Amorous Doctor
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

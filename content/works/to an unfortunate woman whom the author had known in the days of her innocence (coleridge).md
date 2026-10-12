@@ -1,5 +1,5 @@
 ---
-title: TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE
+title: To an Unfortunate Woman Whom the Author Had Known in the Days of Her Innocence
 author: Coleridge
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

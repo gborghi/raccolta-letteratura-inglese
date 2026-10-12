@@ -1,5 +1,5 @@
 ---
-title: ARGUMENT.
+title: Argument.
 author: Coleridge
 type: work
 cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom

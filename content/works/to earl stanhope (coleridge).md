@@ -1,5 +1,5 @@
 ---
-title: TO EARL STANHOPE
+title: To Earl Stanhope
 author: Coleridge
 type: work
 cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom

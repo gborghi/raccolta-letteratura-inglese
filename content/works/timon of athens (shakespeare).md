@@ -1,5 +1,5 @@
 ---
-title: TIMON OF ATHENS
+title: Timon of Athens
 author: Shakespeare
 type: work
 cluster: Misanthropy

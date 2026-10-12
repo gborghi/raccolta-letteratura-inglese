@@ -1,5 +1,5 @@
 ---
-title: PHILADELPHIA
+title: Philadelphia
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

@@ -1,5 +1,5 @@
 ---
-title: SLEEP AND POETRY
+title: Sleep and Poetry
 author: Keats
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

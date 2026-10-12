@@ -1,5 +1,5 @@
 ---
-title: THE PICTURE OR THE LOVER’S RESOLUTION
+title: The Picture or the Lover’s Resolution
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

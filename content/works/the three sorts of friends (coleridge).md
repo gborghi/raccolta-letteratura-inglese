@@ -1,5 +1,5 @@
 ---
-title: THE THREE SORTS OF FRIENDS
+title: The Three Sorts of Friends
 author: Coleridge
 type: work
 cluster: Friendship · Tears

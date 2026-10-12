@@ -1,5 +1,5 @@
 ---
-title: ODE
+title: Ode
 author: Keats
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

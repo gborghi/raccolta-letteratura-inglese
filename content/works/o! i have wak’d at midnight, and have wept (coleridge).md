@@ -1,5 +1,5 @@
 ---
-title: 'O! I HAVE WAK’D AT MIDNIGHT, AND HAVE WEPT'
+title: 'O! I Have Wak’d at Midnight, and Have Wept'
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

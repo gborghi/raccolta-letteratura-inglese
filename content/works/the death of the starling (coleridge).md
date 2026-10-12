@@ -1,5 +1,5 @@
 ---
-title: THE DEATH OF THE STARLING
+title: The Death of the Starling
 author: Coleridge
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume

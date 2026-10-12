@@ -1,5 +1,5 @@
 ---
-title: A LIAR BY PROFESSION
+title: A Liar by Profession
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

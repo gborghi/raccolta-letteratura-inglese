@@ -1,5 +1,5 @@
 ---
-title: TO FORTUNE
+title: To Fortune
 author: Coleridge
 type: work
 cluster: Money and Gold · Poverty · Imprisonment

@@ -1,5 +1,5 @@
 ---
-title: TO A CHILD
+title: To a Child
 author: Coleridge
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience

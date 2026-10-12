@@ -1,5 +1,5 @@
 ---
-title: VER PERPETUUM
+title: Ver Perpetuum
 author: Coleridge
 type: work
 cluster: Transience · Decay · Carpe Diem

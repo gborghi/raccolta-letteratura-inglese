@@ -1,5 +1,5 @@
 ---
-title: THE KEEPSAKE
+title: The Keepsake
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

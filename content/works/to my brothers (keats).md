@@ -1,5 +1,5 @@
 ---
-title: TO MY BROTHERS
+title: To My Brothers
 author: Keats
 type: work
 cluster: Friendship · Tears

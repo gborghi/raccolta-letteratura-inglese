@@ -1,5 +1,5 @@
 ---
-title: TO EDWARD IRVING
+title: To Edward Irving
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

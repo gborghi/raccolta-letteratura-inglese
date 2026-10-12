@@ -1,5 +1,5 @@
 ---
-title: SPOTS IN THE SUN
+title: Spots in the Sun
 author: Coleridge
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

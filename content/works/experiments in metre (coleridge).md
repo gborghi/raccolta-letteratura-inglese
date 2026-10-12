@@ -1,5 +1,5 @@
 ---
-title: EXPERIMENTS IN METRE
+title: Experiments in Metre
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

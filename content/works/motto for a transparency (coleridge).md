@@ -1,5 +1,5 @@
 ---
-title: MOTTO FOR A TRANSPARENCY
+title: Motto for a Transparency
 author: Coleridge
 type: work
 cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom

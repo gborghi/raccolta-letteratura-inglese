@@ -1,5 +1,5 @@
 ---
-title: 'PHANTOM OR FACT: A DIALOGUE IN VERSE'
+title: 'Phantom or Fact: A Dialogue in Verse'
 author: Coleridge
 type: work
 cluster: Dreams · Moon

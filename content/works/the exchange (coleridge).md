@@ -1,5 +1,5 @@
 ---
-title: THE EXCHANGE
+title: The Exchange
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

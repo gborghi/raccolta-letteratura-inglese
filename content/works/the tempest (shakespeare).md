@@ -1,5 +1,5 @@
 ---
-title: THE TEMPEST
+title: The Tempest
 author: Shakespeare
 type: work
 cluster: Blank Verse · Tragicomedy · Romance Play

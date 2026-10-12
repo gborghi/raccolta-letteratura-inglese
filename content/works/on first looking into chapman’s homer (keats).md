@@ -1,5 +1,5 @@
 ---
-title: ON FIRST LOOKING INTO CHAPMAN’S HOMER
+title: On First Looking into Chapman’s Homer
 author: Keats
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm

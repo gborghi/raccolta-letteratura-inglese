@@ -1,5 +1,5 @@
 ---
-title: VARIOUS POEMS
+title: Various Poems
 author: Shakespeare
 type: work
 cluster: Transience · Decay · Carpe Diem

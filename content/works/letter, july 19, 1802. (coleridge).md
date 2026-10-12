@@ -1,5 +1,5 @@
 ---
-title: 'LETTER, JULY 19, 1802.'
+title: 'Letter, July 19, 1802.'
 author: Coleridge
 type: work
 cluster: Joy · Animals · Comic Verse Song

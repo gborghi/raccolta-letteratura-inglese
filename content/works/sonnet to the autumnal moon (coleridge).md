@@ -1,5 +1,5 @@
 ---
-title: 'SONNET: TO THE AUTUMNAL MOON'
+title: 'Sonnet: To the Autumnal Moon'
 author: Coleridge
 type: work
 cluster: Stars · Night · Military Camp

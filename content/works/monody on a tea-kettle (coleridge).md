@@ -1,5 +1,5 @@
 ---
-title: MONODY ON A TEA-KETTLE
+title: Monody on a Tea-Kettle
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

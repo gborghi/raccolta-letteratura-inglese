@@ -1,5 +1,5 @@
 ---
-title: OLD POSSUM’S BOOK  OF PRACTICAL CATS
+title: Old Possum’s Book of Practical Cats
 author: Eliot
 type: work
 cluster: Joy · Animals · Comic Verse Song

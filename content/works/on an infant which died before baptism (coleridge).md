@@ -1,5 +1,5 @@
 ---
-title: ON AN INFANT WHICH DIED BEFORE BAPTISM
+title: On an Infant Which Died Before Baptism
 author: Coleridge
 type: work
 cluster: Death · Silence · Bells

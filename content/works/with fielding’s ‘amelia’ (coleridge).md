@@ -1,5 +1,5 @@
 ---
-title: WITH FIELDING’S ‘AMELIA’
+title: With Fielding’s ‘Amelia’
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

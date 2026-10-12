@@ -1,5 +1,5 @@
 ---
-title: ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE
+title: On a Late Marriage Between an Old Maid and French Petit Maître
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

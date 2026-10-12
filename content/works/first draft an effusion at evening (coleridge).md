@@ -1,5 +1,5 @@
 ---
-title: 'FIRST DRAFT: AN EFFUSION AT EVENING'
+title: 'First Draft: An Effusion at Evening'
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

@@ -1,5 +1,5 @@
 ---
-title: SUSETTE
+title: Susette
 author: Coleridge
 type: work
 cluster: Joy · Animals · Comic Verse Song

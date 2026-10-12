@@ -1,5 +1,5 @@
 ---
-title: THE RAPE OF LUCRECE
+title: The Rape of Lucrece
 author: Shakespeare
 type: work
 cluster: Honour · Ancient Rome

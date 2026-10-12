@@ -1,5 +1,5 @@
 ---
-title: 'KEEN, FITFUL GUSTS ARE WHISP’RING HERE AND THERE'
+title: 'Keen, Fitful Gusts Are Whisp’ring Here and There'
 author: Keats
 type: work
 cluster: Friendship · Tears

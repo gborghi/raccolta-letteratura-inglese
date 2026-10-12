@@ -1,5 +1,5 @@
 ---
-title: 'FAITH, HOPE, AND CHARITY FROM THE ITALIAN OF GUARINI'
+title: 'Faith, Hope, and Charity from the Italian of Guarini'
 author: Coleridge
 type: work
 cluster: Faith · Providence · Divine Love

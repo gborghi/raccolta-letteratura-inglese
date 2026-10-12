@@ -1,5 +1,5 @@
 ---
-title: THE TWO GENTLEMEN OF VERONA
+title: The Two Gentlemen of Verona
 author: Shakespeare
 type: work
 cluster: Verona

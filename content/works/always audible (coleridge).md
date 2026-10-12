@@ -1,5 +1,5 @@
 ---
-title: ALWAYS AUDIBLE
+title: Always Audible
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

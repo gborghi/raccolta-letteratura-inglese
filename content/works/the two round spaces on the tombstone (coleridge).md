@@ -1,5 +1,5 @@
 ---
-title: THE TWO ROUND SPACES ON THE TOMBSTONE
+title: The Two Round Spaces on the Tombstone
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

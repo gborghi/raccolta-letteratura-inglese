@@ -1,5 +1,5 @@
 ---
-title: THE THREE GRAVES
+title: The Three Graves
 author: Coleridge
 type: work
 cluster: Supernatural · Uncanny · Double

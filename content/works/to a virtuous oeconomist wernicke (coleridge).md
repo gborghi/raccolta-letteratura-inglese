@@ -1,5 +1,5 @@
 ---
-title: 'TO A VIRTUOUS OECONOMIST: WERNICKE'
+title: 'To a Virtuous Oeconomist: Wernicke'
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

@@ -1,5 +1,5 @@
 ---
-title: RICHARD II
+title: Richard II
 author: Shakespeare
 type: work
 cluster: Crown · Pride · Fortune's Wheel

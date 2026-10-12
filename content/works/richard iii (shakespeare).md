@@ -1,5 +1,5 @@
 ---
-title: RICHARD III
+title: Richard III
 author: Shakespeare
 type: work
 cluster: Wars of the Roses

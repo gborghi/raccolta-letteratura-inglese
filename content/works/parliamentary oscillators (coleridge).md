@@ -1,5 +1,5 @@
 ---
-title: PARLIAMENTARY OSCILLATORS
+title: Parliamentary Oscillators
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

@@ -1,5 +1,5 @@
 ---
-title: ODE ON MELANCHOLY
+title: Ode on Melancholy
 author: Keats
 type: work
 cluster: Ode · Nature vs Civilization · Pastoral Retreat

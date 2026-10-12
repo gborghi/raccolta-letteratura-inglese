@@ -1,5 +1,5 @@
 ---
-title: TO NATURE
+title: To Nature
 author: Coleridge
 type: work
 cluster: Nature · Book of Nature · Natural Order

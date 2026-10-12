@@ -1,5 +1,5 @@
 ---
-title: THE OLD MAN OF THE ALPS
+title: The Old Man of the Alps
 author: Coleridge
 type: work
 cluster: Joy · Animals · Comic Verse Song

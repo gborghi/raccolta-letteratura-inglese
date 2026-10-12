@@ -1,5 +1,5 @@
 ---
-title: ISRAEL’S LAMENT
+title: Israel’s Lament
 author: Coleridge
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume

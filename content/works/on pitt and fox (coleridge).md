@@ -1,5 +1,5 @@
 ---
-title: ON PITT AND FOX
+title: On Pitt and Fox
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

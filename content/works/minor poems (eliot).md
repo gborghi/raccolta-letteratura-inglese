@@ -1,5 +1,5 @@
 ---
-title: MINOR POEMS
+title: Minor Poems
 author: Eliot
 type: work
 cluster: Mortality · Grave · Memento Mori

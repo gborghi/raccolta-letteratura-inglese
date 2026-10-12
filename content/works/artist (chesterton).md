@@ -1,5 +1,5 @@
 ---
-title: ON the DISASTROUS SPREAD of AESTHETICISM in ALL CLASSES
+title: On the Disastrous Spread of Aestheticism in All Classes
 author: Chesterton
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience

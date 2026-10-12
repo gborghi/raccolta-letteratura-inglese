@@ -1,5 +1,5 @@
 ---
-title: SAMUEL DANIEL
+title: Samuel Daniel
 author: Coleridge
 type: work
 cluster: Crown · Pride · Fortune's Wheel

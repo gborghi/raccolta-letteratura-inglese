@@ -1,5 +1,5 @@
 ---
-title: NINETY-EIGHT
+title: Ninety-Eight
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

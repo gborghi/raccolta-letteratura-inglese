@@ -1,5 +1,5 @@
 ---
-title: A LOVER’S COMPLAINT TO HIS MISTRESS
+title: A Lover’s Complaint to His Mistress
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

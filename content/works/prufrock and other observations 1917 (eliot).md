@@ -1,5 +1,5 @@
 ---
-title: PRUFROCK  and Other Observations  1917
+title: Prufrock and Other Observations (1917)
 author: Eliot
 type: work
 cluster: Alienation · Outsider · Exile

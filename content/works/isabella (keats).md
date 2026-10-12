@@ -1,5 +1,5 @@
 ---
-title: ISABELLA
+title: Isabella
 author: Keats
 type: work
 cluster: Ottava Rima

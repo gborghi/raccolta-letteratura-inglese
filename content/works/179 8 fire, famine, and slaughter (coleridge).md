@@ -1,5 +1,5 @@
 ---
-title: '179 8 FIRE, FAMINE, AND SLAUGHTER'
+title: '179 8 Fire, Famine, and Slaughter'
 author: Coleridge
 type: work
 cluster: Blood · Verse Drama · Revenge

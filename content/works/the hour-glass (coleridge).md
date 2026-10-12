@@ -1,5 +1,5 @@
 ---
-title: THE HOUR-GLASS
+title: The Hour-Glass
 author: Coleridge
 type: work
 cluster: Mortality · Grave · Memento Mori

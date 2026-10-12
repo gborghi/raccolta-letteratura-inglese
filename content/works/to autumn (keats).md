@@ -1,5 +1,5 @@
 ---
-title: TO AUTUMN
+title: To Autumn
 author: Keats
 type: work
 cluster: Seasons · Winter · Autumn

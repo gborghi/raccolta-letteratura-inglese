@@ -1,5 +1,5 @@
 ---
-title: AN INVOCATION
+title: An Invocation
 author: Coleridge
 type: work
 cluster: Imagination · Fragment · Heroic Couplet

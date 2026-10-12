@@ -1,5 +1,5 @@
 ---
-title: 'FULKE GREVILLE: LORD BROOKE'
+title: 'Fulke Greville: Lord Brooke'
 author: Coleridge
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant

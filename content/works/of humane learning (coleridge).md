@@ -1,5 +1,5 @@
 ---
-title: OF HUMANE LEARNING
+title: Of Humane Learning
 author: Coleridge
 type: work
 cluster: Education · Self-Made Man · Wheel

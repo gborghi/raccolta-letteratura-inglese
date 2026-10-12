@@ -1,5 +1,5 @@
 ---
-title: SONNETS ATTEMPTED IN THE MANNER OF CONTEMPORARY WRITERS
+title: Sonnets Attempted in the Manner of Contemporary Writers
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

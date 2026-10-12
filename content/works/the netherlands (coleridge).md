@@ -1,5 +1,5 @@
 ---
-title: THE NETHERLANDS
+title: The Netherlands
 author: Coleridge
 type: work
 cluster: Sea · Water

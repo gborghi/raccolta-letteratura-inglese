@@ -1,5 +1,5 @@
 ---
-title: EPITAPH ON MAJOR DIEMAN
+title: Epitaph on Major Dieman
 author: Coleridge
 type: work
 cluster: Mortality · Grave · Memento Mori

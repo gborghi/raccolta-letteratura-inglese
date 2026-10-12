@@ -1,5 +1,5 @@
 ---
-title: THE TWO FOUNTS
+title: The Two Founts
 author: Coleridge
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

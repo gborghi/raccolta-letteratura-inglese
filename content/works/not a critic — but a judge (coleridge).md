@@ -1,5 +1,5 @@
 ---
-title: NOT A CRITIC — BUT A JUDGE
+title: Not a Critic — but a Judge
 author: Coleridge
 type: work
 cluster: Artist and Society · Truth · Regency Georgian England

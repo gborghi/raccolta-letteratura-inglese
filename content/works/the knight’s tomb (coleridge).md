@@ -1,5 +1,5 @@
 ---
-title: THE KNIGHT’S TOMB
+title: The Knight’s Tomb
 author: Coleridge
 type: work
 cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt

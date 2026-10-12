@@ -1,5 +1,5 @@
 ---
-title: DE PROFUNDIS CLAMAVI
+title: De Profundis Clamavi
 author: Coleridge
 type: work
 cluster: Melancholy · Suffering · Pain and Suffering

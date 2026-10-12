@@ -1,5 +1,5 @@
 ---
-title: ANOTHER VERSION.
+title: Another Version.
 author: Coleridge
 type: work
 cluster: Mortality · Grave · Memento Mori

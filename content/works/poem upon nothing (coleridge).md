@@ -1,5 +1,5 @@
 ---
-title: POEM UPON NOTHING
+title: Poem upon Nothing
 author: Coleridge
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm

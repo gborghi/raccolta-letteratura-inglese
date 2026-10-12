@@ -1,5 +1,5 @@
 ---
-title: FROM ZAPOLYA
+title: From Zapolya
 author: Coleridge
 type: work
 cluster: Transience · Decay · Carpe Diem

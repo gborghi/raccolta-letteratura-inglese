@@ -1,5 +1,5 @@
 ---
-title: ALCAEUS TO SAPPHO
+title: Alcaeus to Sappho
 author: Coleridge
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

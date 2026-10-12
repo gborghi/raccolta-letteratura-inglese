@@ -1,5 +1,5 @@
 ---
-title: ALICE DU CLOS OR THE FORKED TONGUE
+title: Alice Du Clos or the Forked Tongue
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

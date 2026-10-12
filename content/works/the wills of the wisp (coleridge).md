@@ -1,5 +1,5 @@
 ---
-title: THE WILLS OF THE WISP
+title: The Wills of the Wisp
 author: Coleridge
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire

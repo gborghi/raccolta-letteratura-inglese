@@ -1,5 +1,5 @@
 ---
-title: AN EXPERIMENT FOR A METRE
+title: An Experiment for a Metre
 author: Coleridge
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight

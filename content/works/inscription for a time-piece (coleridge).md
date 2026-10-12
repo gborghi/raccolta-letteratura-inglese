@@ -1,5 +1,5 @@
 ---
-title: INSCRIPTION FOR A TIME-PIECE
+title: Inscription for a Time-Piece
 author: Coleridge
 type: work
 cluster: Time · Tempus Fugit · Clock

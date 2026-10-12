@@ -1,5 +1,5 @@
 ---
-title: PANTISOCRACY
+title: Pantisocracy
 author: Coleridge
 type: work
 cluster: Essay · Critique of Progress · Common Man

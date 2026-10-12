@@ -1,5 +1,5 @@
 ---
-title: 'BEN JONSON: A NYMPH’S PASSION'
+title: 'Ben Jonson: A Nymph’s Passion'
 author: Coleridge
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet

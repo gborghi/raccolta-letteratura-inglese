@@ -1,5 +1,5 @@
 ---
-title: EPITAPH ON AN INFANT
+title: Epitaph on an Infant
 author: Coleridge
 type: work
 cluster: Death · Silence · Bells

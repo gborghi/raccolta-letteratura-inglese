@@ -1,5 +1,5 @@
 ---
-title: SENTIMENTAL
+title: Sentimental
 author: Coleridge
 type: work
 cluster: Rose · Desire · Value and Scarcity

@@ -1,5 +1,5 @@
 ---
-title: ON THE CHRISTENING OF A FRIEND’S CHILD
+title: On the Christening of a Friend’s Child
 author: Coleridge
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience

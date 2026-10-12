@@ -1,5 +1,5 @@
 ---
-title: EPITAPHIUM TESTAMENTARIUM
+title: Epitaphium Testamentarium
 author: Coleridge
 type: work
 cluster: Mortality · Grave · Memento Mori

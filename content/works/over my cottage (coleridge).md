@@ -1,5 +1,5 @@
 ---
-title: OVER MY COTTAGE
+title: Over My Cottage
 author: Coleridge
 type: work
 cluster: Dreams · Moon

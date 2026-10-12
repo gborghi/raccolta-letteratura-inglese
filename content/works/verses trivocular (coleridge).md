@@ -1,5 +1,5 @@
 ---
-title: VERSES TRIVOCULAR
+title: Verses Trivocular
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

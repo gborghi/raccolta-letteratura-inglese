@@ -1,5 +1,5 @@
 ---
-title: ANSWER TO A CHILD’S QUESTION
+title: Answer to a Child’s Question
 author: Coleridge
 type: work
 cluster: Joy · Animals · Comic Verse Song

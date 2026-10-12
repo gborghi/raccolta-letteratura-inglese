@@ -1,5 +1,5 @@
 ---
-title: THE BLOSSOMING OF THE SOLITARY DATE-TREE
+title: The Blossoming of the Solitary Date-Tree
 author: Coleridge
 type: work
 cluster: Bible · Sin and the Fall · Fall from Innocence

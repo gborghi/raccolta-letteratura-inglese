@@ -1,5 +1,5 @@
 ---
-title: HONOUR
+title: Honour
 author: Coleridge
 type: work
 cluster: Satire of Society · Epigram · Satire

@@ -1,5 +1,5 @@
 ---
-title: ON A VOLUNTEER SINGER
+title: On a Volunteer Singer
 author: Coleridge
 type: work
 cluster: Birds · Music and Song · Nightingale
