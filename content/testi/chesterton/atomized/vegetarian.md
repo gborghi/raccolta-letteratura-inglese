@@ -1,5 +1,5 @@
 ---
-title: "vegetarian"
+title: "The Logical Vegetarian"
 author: "Chesterton"
 unitType: work
 parentWork: "works/vegetarian-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/vegetarian" data-author="Chesterton" data-workhref="works/vegetarian-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="vegetarian" data-title="vegetarian" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="vegetarian" data-title="The Logical Vegetarian" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -64,7 +64,7 @@ tanto, tanto, tanto vegetariani.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="vegetarian (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Logical Vegetarian" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood"></span>
 
 
 THE LOGICAL VEGETARIAN  

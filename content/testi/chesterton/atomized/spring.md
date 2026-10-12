@@ -1,5 +1,5 @@
 ---
-title: "spring"
+title: "Second Spring"
 author: "Chesterton"
 unitType: work
 parentWork: "works/spring-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/spring" data-author="Chesterton" data-workhref="works/spring-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="spring" data-title="spring" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="spring" data-title="Second Spring" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -71,7 +71,7 @@ e tutti gli uomini sono a [[motifs/home|casa]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="spring (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/ship,motif/spring,concept/honour,concept/wonder,setting/ship"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Second Spring" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/ship,motif/spring,concept/honour,concept/wonder,setting/ship"></span>
 
 
 Second [[motifs/spring|Spring]]  

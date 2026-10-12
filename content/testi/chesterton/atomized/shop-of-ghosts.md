@@ -1,5 +1,5 @@
 ---
-title: "shop-of-ghosts"
+title: "The Shop Of Ghosts"
 author: "Chesterton"
 unitType: work
 parentWork: "works/shop-of-ghosts-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/shop-of-ghosts" data-author="Chesterton" data-workhref="works/shop-of-ghosts-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="shop-of-ghosts" data-title="shop-of-ghosts" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="shop-of-ghosts" data-title="The Shop Of Ghosts" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -179,7 +179,7 @@ una folla a insorgere.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="shop-of-ghosts (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/decay,motif/desert,motif/ghosts,motif/moon,motif/night,motif/ship,motif/soul,motif/stars,motif/window,concept/body,concept/hope,concept/suffering,form/comedy,setting/castle,setting/desert,setting/london,setting/ship"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Shop Of Ghosts — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/decay,motif/desert,motif/ghosts,motif/moon,motif/night,motif/ship,motif/soul,motif/stars,motif/window,concept/body,concept/hope,concept/suffering,form/comedy,setting/castle,setting/desert,setting/london,setting/ship"></span>
 
 
 The Shop Of [[motifs/ghosts|Ghosts]]
@@ -372,7 +372,7 @@ Non parlai e fu lui a riprendere la parola.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="shop-of-ghosts (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/grave,motif/silence,motif/time,motif/well,character/queen,character/richard,character/robin_hood"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Shop Of Ghosts — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/grave,motif/silence,motif/time,motif/well,character/queen,character/richard,character/robin_hood"></span>
 
 
 "All the new people have left my shop.  I cannot understand it.

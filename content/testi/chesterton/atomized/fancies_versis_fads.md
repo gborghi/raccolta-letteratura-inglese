@@ -1,5 +1,5 @@
 ---
-title: "Fancies Versis Fads"
+title: "Fancies versus Fads"
 author: "Chesterton"
 unitType: work
 parentWork: "works/fancies-versis-fads-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/fancies_versis_fads" data-author="Chesterton" data-workhref="works/fancies-versis-fads-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="fancies_versis_fads" data-title="Fancies Versis Fads" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="fancies_versis_fads" data-title="Fancies versus Fads" data-chapter="" data-kind="intro"></span>
 
 
 FANCIES VERSUS FADS

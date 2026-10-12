@@ -1,5 +1,5 @@
 ---
-title: "rolling"
+title: "The Rolling English Road"
 author: "Chesterton"
 unitType: work
 parentWork: "works/rolling-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/rolling" data-author="Chesterton" data-workhref="works/rolling-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="rolling" data-title="rolling" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="rolling" data-title="The Rolling English Road" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -49,7 +49,7 @@ prima d'andare in Paradiso passando per Kensal Green.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="rolling (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/flowers,motif/night,motif/road,motif/rose"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Rolling English Road" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/flowers,motif/night,motif/road,motif/rose"></span>
 
 
 The Rolling English [[motifs/road|Road]]  

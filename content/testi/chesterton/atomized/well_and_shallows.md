@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows"
+title: "The Well and the Shallows"
 author: "Chesterton"
 unitType: work
 parentWork: "works/well-and-shallows-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/well_and_shallows" data-author="Chesterton" data-workhref="works/well-and-shallows-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="well_and_shallows" data-title="Well And Shallows" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="well_and_shallows" data-title="The Well and the Shallows" data-chapter="" data-kind="intro"></span>
 
 
 The [[motifs/well|Well]] and the Shallows

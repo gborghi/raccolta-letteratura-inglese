@@ -1,5 +1,5 @@
 ---
-title: "suicide"
+title: "A Ballade of Suicide"
 author: "Chesterton"
 unitType: work
 parentWork: "works/suicide-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/suicide" data-author="Chesterton" data-workhref="works/suicide-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="suicide" data-title="suicide" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="suicide" data-title="A Ballade of Suicide" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -56,7 +56,7 @@ credo che oggi non m'impiccherò.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="suicide (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/decay,motif/garden,motif/time,concept/suicide"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Ballade of Suicide" data-chapter="part 01" data-kind="excerpt" data-tags="motif/decay,motif/garden,motif/time,concept/suicide"></span>
 
 
 A Ballade of [[concepts/suicide|Suicide]]  

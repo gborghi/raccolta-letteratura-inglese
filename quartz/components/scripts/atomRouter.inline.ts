@@ -119,7 +119,7 @@ function chapterOf(t: string): string {
   return t.replace(/^.*—\s*/, "")
 }
 // TOC leaf under a chapter group: strip the repeated chapter name so a part reads
-// just "Parte 3" instead of "II The Maniac (part 3)".
+// just "Part 3" instead of "II The Maniac (part 3)".
 // KG aggregator axis -> /cerca facet key (must match the FACET.key values in
 // cerca.inline.ts's FACETS array — verified: topoi/archetypes/motifs/concepts/
 // forms/histrefs/settings/characters/cluster).
@@ -173,7 +173,7 @@ function leafLabel(a: Atom): string {
       .trim()
     if (!s || /^[\s.,;:!?—–-]*$/.test(s)) s = chapterOf(a.title) || a.title
   }
-  return s.replace(/^\((?:part|parte)\s*(\d+)\)$/i, "Parte $1")
+  return s.replace(/^\((?:part|parte)\s*(\d+)\)$/i, "Part $1")
 }
 
 /** Part-title / CONTENTS-only atoms (Chesterton CharlesDickens Chapter_08 etc.). */
@@ -323,7 +323,7 @@ function build(reader: HTMLElement) {
   let curUl: HTMLUListElement | null = null
   for (const a of tocAtoms) {
     if (isStubAtom(a)) continue
-    const label = a.kind === "intro" ? a.title || "Inizio" : a.title
+    const label = a.kind === "intro" ? a.title || "Start" : a.title
     if (a.kind === "intro" || !displayChapter(a)) {
       const li = el("li", "ar-toc-top")
       const link = el("a", "ar-toc-link", label)
@@ -372,14 +372,14 @@ function build(reader: HTMLElement) {
     }
     // crumb + counter: chapter in bold, then the leaf only when it adds info
     const pos = idx(a.id) + 1
-    const leaf = a.kind === "intro" ? a.title || "Inizio" : leafLabel(a)
+    const leaf = a.kind === "intro" ? a.title || "Start" : leafLabel(a)
     const chap = displayChapter(a)
     const showLeaf = !chap || leaf !== chap
     crumb.innerHTML =
       (chap ? `<b>${chap}</b>` : "") +
       (chap && showLeaf ? " &middot; " : "") +
       (showLeaf ? leaf : "") +
-      ` <span class="ar-count">${pos} / ${order.length}</span>`
+      ` <span class="ar-count">part ${pos} of ${order.length}</span>`
     // leaf tag chips: rebuilt fresh every render() call (same pattern as relatedEl
     // below) so they update per atom and survive micromorph body-diffing on nav.
     tagsEl.replaceChildren()

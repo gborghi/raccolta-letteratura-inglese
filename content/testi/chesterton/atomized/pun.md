@@ -1,5 +1,5 @@
 ---
-title: "pun"
+title: "The Pun"
 author: "Chesterton"
 unitType: work
 parentWork: "works/pun-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/pun" data-author="Chesterton" data-workhref="works/pun-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="pun" data-title="pun" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="pun" data-title="The Pun" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -152,7 +152,7 @@ un paesaggio non [[motifs/well|meno]] che una trappola.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="pun (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/lamb,motif/time,motif/well,concept/fear,concept/freedom,concept/hope,concept/self"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Pun — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/lamb,motif/time,motif/well,concept/fear,concept/freedom,concept/hope,concept/self"></span>
 
 
 # pun
@@ -380,7 +380,7 @@ quell'esito alla fine.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="pun (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/well,character/sunday"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Pun — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/well,character/sunday"></span>
 
 
 Here the verbal jest, falling so ridiculously right,

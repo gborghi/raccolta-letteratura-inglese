@@ -1,5 +1,5 @@
 ---
-title: "skeleton"
+title: "The Skeleton"
 author: "Chesterton"
 unitType: work
 parentWork: "works/skeleton-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/skeleton" data-author="Chesterton" data-workhref="works/skeleton-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="skeleton" data-title="skeleton" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="skeleton" data-title="The Skeleton" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -32,7 +32,7 @@ G.K. CHESTERTON
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="skeleton (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/flowers,motif/water"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Skeleton" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/flowers,motif/water"></span>
 
 
 The Skeleton  

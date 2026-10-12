@@ -1,5 +1,5 @@
 ---
-title: "elegy"
+title: "Elegy in a Country Churchyard"
 author: "Chesterton"
 unitType: work
 parentWork: "works/elegy-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/elegy" data-author="Chesterton" data-workhref="works/elegy-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="elegy" data-title="elegy" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="elegy" data-title="Elegy in a Country Churchyard" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -41,7 +41,7 @@ non hanno ancora tombe.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="elegy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bees,motif/birds,motif/cross,motif/home,form/elegy"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Elegy in a Country Churchyard" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bees,motif/birds,motif/cross,motif/home,form/elegy"></span>
 
 
 [[forms/elegy|Elegy]] in a Country Churchyard  

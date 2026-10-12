@@ -1,5 +1,5 @@
 ---
-title: "sexlessness"
+title: "The Equality of Sexlessness"
 author: "Chesterton"
 unitType: work
 parentWork: "works/sexlessness-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/sexlessness" data-author="Chesterton" data-workhref="works/sexlessness-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="sexlessness" data-title="sexlessness" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sexlessness" data-title="The Equality of Sexlessness" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -94,7 +94,7 @@ per una generazione.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="sexlessness (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/time,concept/courage,concept/endurance,concept/fear,concept/freedom,concept/hope,setting/london,character/speed"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Equality of Sexlessness" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/time,concept/courage,concept/endurance,concept/fear,concept/freedom,concept/hope,setting/london,character/speed"></span>
 
 
 The Equality of Sexlessness

@@ -116,6 +116,8 @@ export function buildFullIndex(rawIndex) {
       terms: scored.slice(0, MASTER_CAP),
       snippet: snippets.get(slug) || "",
       ...(titles && titles.length ? { atomTitles: titles.join(" ") } : {}),
+      // set by scripts/postbuild-pages.mjs on thin pages (noindex, out of menu + search)
+      ...(it.noindex ? { noindex: true } : {}),
     }
   }
   return out
@@ -130,7 +132,7 @@ export function buildFullIndex(rawIndex) {
 export function projectToTarget(
   fullIndex,
   targetBytes,
-  fields = ["title", "slug", "tags", "links"],
+  fields = ["title", "slug", "tags", "links", "noindex"],
 ) {
   const slugs = Object.keys(fullIndex)
 

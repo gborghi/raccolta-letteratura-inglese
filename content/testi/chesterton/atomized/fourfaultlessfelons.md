@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons"
+title: "Four Faultless Felons"
 author: "Chesterton"
 unitType: work
 parentWork: "works/fourfaultlessfelons-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/fourfaultlessfelons" data-author="Chesterton" data-workhref="works/fourfaultlessfelons-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="fourfaultlessfelons" data-title="FourFaultlessFelons" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="fourfaultlessfelons" data-title="Four Faultless Felons" data-chapter="" data-kind="intro"></span>
 
 
 

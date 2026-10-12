@@ -1,5 +1,5 @@
 ---
-title: "THE WAR IN SOUTH AFRICA"
+title: "The War in South Africa: Its Cause and Conduct"
 author: "Conan Doyle"
 unitType: work
 parentWork: "works/the-war-in-south-africa--its-cause-and-conduct-(conan-doyle)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/conan_doyle/atomized/the_war_in_south_africa" data-author="Conan Doyle" data-workhref="works/the-war-in-south-africa--its-cause-and-conduct-(conan-doyle)"></div>
 
 
-<span class="atom-split" data-atom="the_war_in_south_africa" data-title="THE WAR IN SOUTH AFRICA" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="the_war_in_south_africa" data-title="The War in South Africa: Its Cause and Conduct" data-chapter="" data-kind="intro"></span>
 
 
 THE WAR IN [[settings/south-africa|SOUTH AFRICA]]

@@ -1,5 +1,5 @@
 ---
-title: "childsnow"
+title: "A Child of the Snows"
 author: "Chesterton"
 unitType: work
 parentWork: "works/childsnow-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/childsnow" data-author="Chesterton" data-workhref="works/childsnow-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="childsnow" data-title="childsnow" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="childsnow" data-title="A Child of the Snows" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -46,7 +46,7 @@ e un [[archetypes/child|Bambino]] viene avanti solo.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="childsnow (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/frost,motif/leaves,motif/night,motif/snow,form/hymn"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Child of the Snows" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/frost,motif/leaves,motif/night,motif/snow,form/hymn"></span>
 
 
 A [[archetypes/child|Child]] of the Snows  

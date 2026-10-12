@@ -1,5 +1,5 @@
 ---
-title: "sin"
+title: "The Unpardonable Sin"
 author: "Chesterton"
 unitType: work
 parentWork: "works/sin-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/sin" data-author="Chesterton" data-workhref="works/sin-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="sin" data-title="sin" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sin" data-title="The Unpardonable Sin" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -46,7 +46,7 @@ dinanzi alla gloria del volto di Dio.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="sin (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet,motif/grave,motif/love,motif/silence,motif/stars,motif/well"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Unpardonable Sin" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet,motif/grave,motif/love,motif/silence,motif/stars,motif/well"></span>
 
 
 # sin

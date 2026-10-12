@@ -1,5 +1,5 @@
 ---
-title: "unity"
+title: "The Higher Unity"
 author: "Chesterton"
 unitType: work
 parentWork: "works/unity-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/unity" data-author="Chesterton" data-workhref="works/unity-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="unity" data-title="unity" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="unity" data-title="The Higher Unity" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -52,7 +52,7 @@ of the [[characters/nancy|Nancy]] Bell» di Gilbert.]
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="unity (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="character/nancy"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Higher Unity" data-chapter="part 01" data-kind="excerpt" data-tags="character/nancy"></span>
 
 
 THE HIGHER UNITY  

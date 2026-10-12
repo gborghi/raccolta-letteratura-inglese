@@ -1,5 +1,5 @@
 ---
-title: "right-and-wrong"
+title: "The Song of Right and Wrong"
 author: "Chesterton"
 unitType: work
 parentWork: "works/right-and-wrong-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/right-and-wrong" data-author="Chesterton" data-workhref="works/right-and-wrong-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="right-and-wrong" data-title="right-and-wrong" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="right-and-wrong" data-title="The Song of Right and Wrong" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -60,7 +60,7 @@ come tormento per i nostri crimini.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="right-and-wrong (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/fool,motif/dance,motif/death,motif/poison,motif/water,motif/well,concept/honour"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Song of Right and Wrong" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/fool,motif/dance,motif/death,motif/poison,motif/water,motif/well,concept/honour"></span>
 
 
 The [[works/song-(poe)|Song]] of Right and Wrong  

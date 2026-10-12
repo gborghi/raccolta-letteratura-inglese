@@ -1,5 +1,5 @@
 ---
-title: "St Francis"
+title: "St. Francis of Assisi"
 author: "Chesterton"
 unitType: work
 parentWork: "works/st-francis-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/st_francis" data-author="Chesterton" data-workhref="works/st-francis-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="st_francis" data-title="St Francis" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="st_francis" data-title="St. Francis of Assisi" data-chapter="" data-kind="intro"></span>
 
 
 

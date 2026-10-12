@@ -1,5 +1,5 @@
 ---
-title: "turnpikes"
+title: "On Turnpikes and Medievalism"
 author: "Chesterton"
 unitType: work
 parentWork: "works/turnpikes-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/turnpikes" data-author="Chesterton" data-workhref="works/turnpikes-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="turnpikes" data-title="turnpikes" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="turnpikes" data-title="On Turnpikes and Medievalism" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -81,7 +81,7 @@ pubblicato nel 1933.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="turnpikes (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/road,motif/time,concept/fear,concept/history,concept/melancholy,concept/paradox,form/comedy,form/history,histref/dante,setting/oxford,setting/paris"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="On Turnpikes and Medievalism — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/road,motif/time,concept/fear,concept/history,concept/melancholy,concept/paradox,form/comedy,form/history,histref/dante,setting/oxford,setting/paris"></span>
 
 
 On Turnpikes and Medievalism
@@ -178,7 +178,7 @@ Ma, in realtà, questa bizzarra espressione non coprirebbe soltanto ciò che si 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="turnpikes (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/self,setting/london"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="On Turnpikes and Medievalism — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/self,setting/london"></span>
 
 
 Next we have, of course, the very considerable historic [[concepts/doubt|doubt]]

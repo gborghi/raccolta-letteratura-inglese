@@ -1,5 +1,5 @@
 ---
-title: "child psychology"
+title: "Child Psychology and Nonsense"
 author: "Chesterton"
 unitType: work
 parentWork: "works/child-psychology-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/child_psychology" data-author="Chesterton" data-workhref="works/child-psychology-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="child_psychology" data-title="child psychology" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="child_psychology" data-title="Child Psychology and Nonsense" data-chapter="" data-kind="intro"></span>
 
 
 

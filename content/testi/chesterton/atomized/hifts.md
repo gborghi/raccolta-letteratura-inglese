@@ -1,5 +1,5 @@
 ---
-title: "HIFTS"
+title: "How I Found the Superman"
 author: "Chesterton"
 unitType: work
 parentWork: "works/hifts-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/hifts" data-author="Chesterton" data-workhref="works/hifts-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="hifts" data-title="HIFTS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="hifts" data-title="How I Found the Superman" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -76,7 +76,7 @@ Email: martin@gkc.org.uk
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="HIFTS (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/tears,motif/well,concept/democracy,concept/eugenics,concept/history,concept/hope,concept/union,concept/vanity,form/epigram,form/history,character/apollo"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="How I Found the Superman — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/tears,motif/well,concept/democracy,concept/eugenics,concept/history,concept/hope,concept/union,concept/vanity,form/epigram,form/history,character/apollo"></span>
 
 
 How I Found the Superman
@@ -239,7 +239,7 @@ Marito e moglie si erano entrambi alzati pesantemente in piedi, e stavano imbara
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="HIFTS (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/night,motif/well,motif/wind"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="How I Found the Superman — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/night,motif/well,motif/wind"></span>
 
 
 '[[motifs/well|Well]], of course, you know,' said Lady Hypatia, with the really

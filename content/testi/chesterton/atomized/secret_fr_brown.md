@@ -1,5 +1,5 @@
 ---
-title: "secret Fr Brown"
+title: "The Secret of Father Brown"
 author: "Chesterton"
 unitType: work
 parentWork: "works/secret-fr-brown-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/secret_fr_brown" data-author="Chesterton" data-workhref="works/secret-fr-brown-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="secret_fr_brown" data-title="secret Fr Brown" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="secret_fr_brown" data-title="The Secret of Father Brown" data-chapter="" data-kind="intro"></span>
 
 
 Title:      The Secret of [[characters/father-brown|Father Brown]]

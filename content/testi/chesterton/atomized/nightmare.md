@@ -1,5 +1,5 @@
 ---
-title: "nightmare"
+title: "(Originally appeared in 'The Daily News', Oct. 16, 1909,"
 author: "Chesterton"
 unitType: work
 parentWork: "works/nightmare-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/nightmare" data-author="Chesterton" data-workhref="works/nightmare-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="nightmare" data-title="nightmare" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="nightmare" data-title="(Originally appeared in 'The Daily News', Oct. 16, 1909," data-chapter="" data-kind="intro"></span>
 
 
 
@@ -73,7 +73,7 @@ ma esso non cavalcherà me.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="nightmare (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/cross,motif/death,motif/garden,motif/horse,motif/love,motif/road,motif/silence,motif/wind,concept/apocalypse,concept/fear,concept/truth,form/epic,setting/egypt,character/jones"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="(Originally appeared in 'The Daily News', Oct. 16, 1909, — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/cross,motif/death,motif/garden,motif/horse,motif/love,motif/road,motif/silence,motif/wind,concept/apocalypse,concept/fear,concept/truth,form/epic,setting/egypt,character/jones"></span>
 
 
 (Originally appeared in "The Daily News", Oct. 16, 1909,
@@ -206,7 +206,7 @@ In una delle lettere di Stevenson c'è un'osservazione caratteristicamente spiri
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="nightmare (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,motif/moon,motif/nature,motif/night,motif/soul,motif/well,motif/wind,concept/doubt,concept/nature,histref/dante"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="(Originally appeared in 'The Daily News', Oct. 16, 1909, — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,motif/moon,motif/nature,motif/night,motif/soul,motif/well,motif/wind,concept/doubt,concept/nature,histref/dante"></span>
 
 
 That is, I fancy, the true doctrine on the subject of Tales

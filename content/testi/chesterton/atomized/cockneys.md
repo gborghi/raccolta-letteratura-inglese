@@ -1,5 +1,5 @@
 ---
-title: "cockneys"
+title: "COCKNEYS and THEIR JOKES"
 author: "Chesterton"
 unitType: work
 parentWork: "works/cockneys-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/cockneys" data-author="Chesterton" data-workhref="works/cockneys-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="cockneys" data-title="cockneys" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="cockneys" data-title="COCKNEYS and THEIR JOKES" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -190,7 +190,7 @@ Part of an etext in progress by Rob Szarka.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="cockneys (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/home,motif/lamb,motif/nature,motif/stars,motif/swallow,motif/tears,motif/time,concept/nature,concept/poverty,concept/truth,form/comedy,form/tragedy,setting/london,setting/new_york,character/mermaid"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="COCKNEYS and THEIR JOKES — part 1 of 3" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/home,motif/lamb,motif/nature,motif/stars,motif/swallow,motif/tears,motif/time,concept/nature,concept/poverty,concept/truth,form/comedy,form/tragedy,setting/london,setting/new_york,character/mermaid"></span>
 
 
 -=[ COCKNEYS AND THEIR JOKES ]=-
@@ -283,7 +283,7 @@ No; [[settings/london|Londra]], in questa faccenda, è attaccata sul suo terreno
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="cockneys (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/monster,motif/birds,motif/leaves,motif/love,motif/marriage,motif/nature,motif/well,motif/wind,concept/democracy,concept/mercy,concept/nature,concept/paradox,concept/truth"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="COCKNEYS and THEIR JOKES — part 2 of 3" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/monster,motif/birds,motif/leaves,motif/love,motif/marriage,motif/nature,motif/well,motif/wind,concept/democracy,concept/mercy,concept/nature,concept/paradox,concept/truth"></span>
 
 
 I believe firmly in the value of all vulgar notions, especially of
@@ -470,7 +470,7 @@ della casa, egli sa di esserne la polena.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="cockneys (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/time,concept/democracy,concept/grotesque,concept/truth"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="COCKNEYS and THEIR JOKES — part 3 of 3" data-chapter="part 03" data-kind="excerpt" data-tags="motif/time,concept/democracy,concept/grotesque,concept/truth"></span>
 
 
 But the vulgar comic papers are so subtle and true that they

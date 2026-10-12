@@ -1,5 +1,5 @@
 ---
-title: "frenchenglish"
+title: "French And English"
 author: "Chesterton"
 unitType: work
 parentWork: "works/frenchenglish-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/frenchenglish" data-author="Chesterton" data-workhref="works/frenchenglish-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="frenchenglish" data-title="frenchenglish" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="frenchenglish" data-title="French And English" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -170,7 +170,7 @@ in cerca di piacere la trovino mai piacevole!"
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="frenchenglish (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/golden_age,archetype/fool,motif/home,motif/love,motif/soul,concept/courage,concept/indolence"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="French And English — part 1 of 3" data-chapter="part 01" data-kind="excerpt" data-tags="topos/golden_age,archetype/fool,motif/home,motif/love,motif/soul,concept/courage,concept/indolence"></span>
 
 
 "French And English"
@@ -290,7 +290,7 @@ quando non ha mai dissodato il rude ma ricco suolo della virtù francese.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="frenchenglish (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/desire,motif/love,motif/soul,concept/freedom,character/sam_weller"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="French And English — part 2 of 3" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/desire,motif/love,motif/soul,concept/freedom,character/sam_weller"></span>
 
 
 The thing can only be made clear to Englishmen by turning it round.
@@ -398,7 +398,7 @@ per produrre e giustificare il terribile fiore dell'indecenza francese.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="frenchenglish (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/soul,motif/time,concept/democracy,setting/paris"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="French And English — part 3 of 3" data-chapter="part 03" data-kind="excerpt" data-tags="motif/soul,motif/time,concept/democracy,setting/paris"></span>
 
 
 When I was in [[settings/paris|Paris]] a short [[motifs/time|time]] ago, I went with an English

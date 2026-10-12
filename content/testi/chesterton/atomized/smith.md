@@ -1,5 +1,5 @@
 ---
-title: "smith"
+title: "Antichrist, or the Reunion of Christendom: An Ode"
 author: "Chesterton"
 unitType: work
 parentWork: "works/smith-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/smith" data-author="Chesterton" data-workhref="works/smith-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="smith" data-title="smith" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="smith" data-title="Antichrist, or the Reunion of Christendom: An Ode" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -79,7 +79,7 @@ Piantala, Smith!
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="smith (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/well,concept/conscience,concept/hope,histref/islam,character/clifford"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Antichrist, or the Reunion of Christendom: An Ode" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/well,concept/conscience,concept/hope,histref/islam,character/clifford"></span>
 
 
 Antichrist, or the Reunion of Christendom: An Ode  

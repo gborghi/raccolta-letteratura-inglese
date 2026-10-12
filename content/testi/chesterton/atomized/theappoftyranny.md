@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny"
+title: "The Appetite of Tyranny"
 author: "Chesterton"
 unitType: work
 parentWork: "works/theappoftyranny-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/theappoftyranny" data-author="Chesterton" data-workhref="works/theappoftyranny-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="theappoftyranny" data-title="TheAppOfTyranny" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="theappoftyranny" data-title="The Appetite of Tyranny" data-chapter="" data-kind="intro"></span>
 
 
 

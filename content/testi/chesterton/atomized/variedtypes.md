@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes"
+title: "Varied Types"
 author: "Chesterton"
 unitType: work
 parentWork: "works/variedtypes-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/variedtypes" data-author="Chesterton" data-workhref="works/variedtypes-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="variedtypes" data-title="VariedTypes" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="variedtypes" data-title="Varied Types" data-chapter="" data-kind="intro"></span>
 
 
 

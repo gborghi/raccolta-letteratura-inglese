@@ -1,5 +1,5 @@
 ---
-title: "human-tree"
+title: "The Human Tree"
 author: "Chesterton"
 unitType: work
 parentWork: "works/human-tree-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/human-tree" data-author="Chesterton" data-workhref="works/human-tree-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="human-tree" data-title="human-tree" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="human-tree" data-title="The Human Tree" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -55,7 +55,7 @@ G.K. CHESTERTON
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="human-tree (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/birds,motif/rose,motif/stars,concept/wonder"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Human Tree" data-chapter="part 01" data-kind="excerpt" data-tags="motif/birds,motif/rose,motif/stars,concept/wonder"></span>
 
 
 The Human Tree  

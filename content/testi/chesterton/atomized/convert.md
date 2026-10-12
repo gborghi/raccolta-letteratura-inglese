@@ -1,5 +1,5 @@
 ---
-title: "convert"
+title: "The Convert"
 author: "Chesterton"
 unitType: work
 parentWork: "works/convert-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/convert" data-author="Chesterton" data-workhref="works/convert-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="convert" data-title="convert" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="convert" data-title="The Convert" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -39,7 +39,7 @@ perché il mio nome è Lazzaro e io vivo.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="convert (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/autumn,motif/dust,motif/leaves,motif/road"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Convert" data-chapter="part 01" data-kind="excerpt" data-tags="motif/autumn,motif/dust,motif/leaves,motif/road"></span>
 
 
 THE CONVERT  

@@ -1,5 +1,5 @@
 ---
-title: "scandal Fr Brown"
+title: "The Scandal of Father Brown"
 author: "Chesterton"
 unitType: work
 parentWork: "works/scandal-fr-brown-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/scandal_fr_brown" data-author="Chesterton" data-workhref="works/scandal-fr-brown-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="scandal_fr_brown" data-title="scandal Fr Brown" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="scandal_fr_brown" data-title="The Scandal of Father Brown" data-chapter="" data-kind="intro"></span>
 
 
 Title:      The Scandal of [[characters/father-brown|Father Brown]]

@@ -1,5 +1,5 @@
 ---
-title: "strange-music"
+title: "The Strange Music"
 author: "Chesterton"
 unitType: work
 parentWork: "works/strange-music-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/strange-music" data-author="Chesterton" data-workhref="works/strange-music-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="strange-music" data-title="strange-music" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="strange-music" data-title="The Strange Music" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -43,7 +43,7 @@ ti imparerò, ti suonerò, e le [[motifs/stars|stelle]] si fermeranno ad ascolta
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="strange-music (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/pain,motif/soul,motif/stars,motif/time,concept/fear,concept/hope,concept/pride"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Strange Music" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/pain,motif/soul,motif/stars,motif/time,concept/fear,concept/hope,concept/pride"></span>
 
 
 The Strange Music  

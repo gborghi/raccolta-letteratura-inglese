@@ -1,5 +1,5 @@
 ---
-title: "intro-pilgrims-progress"
+title: "Introduction to John Bunyan's 'THE PILGRIM'S PROGRESS',"
 author: "Chesterton"
 unitType: work
 parentWork: "works/intro-pilgrims-progress-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/intro-pilgrims-progress" data-author="Chesterton" data-workhref="works/intro-pilgrims-progress-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="intro-pilgrims-progress" data-title="intro-pilgrims-progress" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="intro-pilgrims-progress" data-title="Introduction to John Bunyan's 'THE PILGRIM'S PROGRESS'," data-chapter="" data-kind="intro"></span>
 
 
 
@@ -244,7 +244,7 @@ le cose concepibili, la cosa più pericolosa è essere vivi.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="intro-pilgrims-progress (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/pilgrim,motif/city,motif/prison,motif/soul,motif/well,motif/window,concept/vanity,form/epic"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Introduction to John Bunyan's 'THE PILGRIM'S PROGRESS', — part 1 of 3" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/pilgrim,motif/city,motif/prison,motif/soul,motif/well,motif/window,concept/vanity,form/epic"></span>
 
 
 Introduction to John Bunyan's "THE [[archetypes/pilgrim|PILGRIM]]'S PROGRESS",
@@ -380,7 +380,7 @@ Bunyan, uscito di [[motifs/prison|prigione]], morì tranquillamente nel 1688.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="intro-pilgrims-progress (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/pilgrim,motif/dawn,motif/garden,motif/love,motif/moon,motif/nature,motif/soul,motif/tears,motif/time,motif/wheel,concept/fear,concept/nature,form/epic,form/riddle,histref/french_revolution,histref/puritanism,histref/renaissance"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Introduction to John Bunyan's 'THE PILGRIM'S PROGRESS', — part 2 of 3" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/pilgrim,motif/dawn,motif/garden,motif/love,motif/moon,motif/nature,motif/soul,motif/tears,motif/time,motif/wheel,concept/fear,concept/nature,form/epic,form/riddle,histref/french_revolution,histref/puritanism,histref/renaissance"></span>
 
 
 Nobody will ever plumb the real depths and meaning of that extraordinary
@@ -573,7 +573,7 @@ sapere e dell'arte.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="intro-pilgrims-progress (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/pilgrim,motif/birds,motif/city,motif/flowers,motif/horse,motif/road,motif/soul,motif/time,motif/well,motif/wind,concept/despair,concept/imagination,concept/mercy,form/parable,histref/bible,histref/puritanism,character/achilles"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Introduction to John Bunyan's 'THE PILGRIM'S PROGRESS', — part 3 of 3" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/pilgrim,motif/birds,motif/city,motif/flowers,motif/horse,motif/road,motif/soul,motif/time,motif/well,motif/wind,concept/despair,concept/imagination,concept/mercy,form/parable,histref/bible,histref/puritanism,character/achilles"></span>
 
 
 The "[[archetypes/pilgrim|Pilgrim]]'s Progress" certainly exhibits all the marks of such a

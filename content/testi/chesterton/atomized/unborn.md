@@ -1,5 +1,5 @@
 ---
-title: "unborn"
+title: "By the Babe Unborn"
 author: "Chesterton"
 unitType: work
 parentWork: "works/unborn-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/unborn" data-author="Chesterton" data-workhref="works/unborn-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="unborn" data-title="unborn" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="unborn" data-title="By the Babe Unborn" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -53,7 +53,7 @@ se solo fossi nato.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="unborn (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/storm"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="By the Babe Unborn" data-chapter="part 01" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/storm"></span>
 
 
 "By the Babe Unborn"  

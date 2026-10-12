@@ -1,5 +1,5 @@
 ---
-title: "oldsong"
+title: "The Old Song"
 author: "Chesterton"
 unitType: work
 parentWork: "works/oldsong-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/oldsong" data-author="Chesterton" data-workhref="works/oldsong-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="oldsong" data-title="oldsong" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="oldsong" data-title="The Old Song" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -80,7 +80,7 @@ Aveva mostrato sotto il cielo in frantumi un popolo che era libero.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="oldsong (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/horse,motif/lightning,motif/road,motif/time,motif/well,concept/apocalypse,setting/london"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Old Song" data-chapter="part 01" data-kind="excerpt" data-tags="motif/horse,motif/lightning,motif/road,motif/time,motif/well,concept/apocalypse,setting/london"></span>
 
 
 The Old [[works/song-(poe)|Song]]  

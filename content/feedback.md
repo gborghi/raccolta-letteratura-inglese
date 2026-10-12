@@ -1,5 +1,5 @@
 ---
-title: Segnala un errore o dai un suggerimento
+title: Feedback / Segnala un errore o dai un suggerimento
 description: Segnala errori o proponi miglioramenti — il messaggio arriva direttamente al docente.
 ---
 

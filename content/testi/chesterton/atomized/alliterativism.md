@@ -1,5 +1,5 @@
 ---
-title: "alliterativism"
+title: "Alliterativism (1914)"
 author: "Chesterton"
 unitType: work
 parentWork: "works/alliterativism-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/alliterativism" data-author="Chesterton" data-workhref="works/alliterativism-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="alliterativism" data-title="alliterativism" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="alliterativism" data-title="Alliterativism (1914)" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -48,7 +48,7 @@ che stai violando la neutralità belga.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="alliterativism (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bees,histref/bible"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Alliterativism (1914)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bees,histref/bible"></span>
 
 
 ALLITERATIVISM (1914)  

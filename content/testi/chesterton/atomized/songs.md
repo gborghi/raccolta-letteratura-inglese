@@ -1,5 +1,5 @@
 ---
-title: "songs"
+title: "Songs of Education"
 author: "Chesterton"
 unitType: work
 parentWork: "works/songs-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/songs" data-author="Chesterton" data-workhref="works/songs-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="songs" data-title="songs" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="songs" data-title="Songs of Education" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -55,7 +55,7 @@ ché il Progresso viene presto, e la [[concepts/freedom|Libertà]] troppo presto
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="songs (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/sleep,motif/time,motif/wheel,concept/education,concept/faith,concept/freedom"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Songs of Education" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/sleep,motif/time,motif/wheel,concept/education,concept/faith,concept/freedom"></span>
 
 
 Songs of [[concepts/education|Education]]  

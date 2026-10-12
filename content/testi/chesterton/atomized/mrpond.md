@@ -1,5 +1,5 @@
 ---
-title: "MrPond"
+title: "The Paradoxes of Mr. Pond"
 author: "Chesterton"
 unitType: work
 parentWork: "works/mrpond-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/mrpond" data-author="Chesterton" data-workhref="works/mrpond-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="mrpond" data-title="MrPond" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="mrpond" data-title="The Paradoxes of Mr. Pond" data-chapter="" data-kind="intro"></span>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "government"
+title: "Government and the Rights of Man"
 author: "Chesterton"
 unitType: work
 parentWork: "works/government-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/government" data-author="Chesterton" data-workhref="works/government-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="government" data-title="government" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="government" data-title="Government and the Rights of Man" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -40,7 +40,7 @@ Ma non sono davvero convertito al mio stesso progetto, nemmeno dal mio stesso fa
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="government (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/villain,motif/love,motif/marriage,motif/poison,motif/soul,motif/well,concept/democracy,concept/freedom,concept/reform,concept/self,concept/unattainable,form/parable,setting/london,character/jones"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Government and the Rights of Man" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/villain,motif/love,motif/marriage,motif/poison,motif/soul,motif/well,concept/democracy,concept/freedom,concept/reform,concept/self,concept/unattainable,form/parable,setting/london,character/jones"></span>
 
 
 Government and the Rights of Man

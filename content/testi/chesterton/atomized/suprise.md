@@ -1,5 +1,5 @@
 ---
-title: "suprise"
+title: "The Sword of Surprise"
 author: "Chesterton"
 unitType: work
 parentWork: "works/suprise-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/suprise" data-author="Chesterton" data-workhref="works/suprise-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="suprise" data-title="suprise" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="suprise" data-title="The Sword of Surprise" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -41,7 +41,7 @@ uno straniero per strada.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="suprise (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/river,motif/soul"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Sword of Surprise" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/river,motif/soul"></span>
 
 
 The [[works/sword-(chesterton)|Sword]] of Surprise  

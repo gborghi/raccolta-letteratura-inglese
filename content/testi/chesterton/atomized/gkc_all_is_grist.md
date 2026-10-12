@@ -1,5 +1,5 @@
 ---
-title: "GKC All is Grist"
+title: "All Is Grist"
 author: "Chesterton"
 unitType: work
 parentWork: "works/gkc-all-is-grist-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/gkc_all_is_grist" data-author="Chesterton" data-workhref="works/gkc-all-is-grist-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="gkc_all_is_grist" data-title="GKC All is Grist" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="gkc_all_is_grist" data-title="All Is Grist" data-chapter="" data-kind="intro"></span>
 
 
 All Is Grist

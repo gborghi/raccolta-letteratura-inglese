@@ -1,5 +1,5 @@
 ---
-title: "leisure-state"
+title: "The Ideal of a Leisure State"
 author: "Chesterton"
 unitType: work
 parentWork: "works/leisure-state-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/leisure-state" data-author="Chesterton" data-workhref="works/leisure-state-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="leisure-state" data-title="leisure-state" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="leisure-state" data-title="The Ideal of a Leisure State" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -172,7 +172,7 @@ poeti e artisti e filosofi. Non sarebbero cittadini.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="leisure-state (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/nature,motif/river,motif/time,motif/well,concept/nature,concept/pride"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Ideal of a Leisure State — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="motif/nature,motif/river,motif/time,motif/well,concept/nature,concept/pride"></span>
 
 
 The Ideal of a Leisure State
@@ -324,7 +324,7 @@ per il lavoro; dovremmo o non dovremmo pagare troppo per l'ozio?
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="leisure-state (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dawn,motif/machine,motif/silence,motif/time,motif/water,motif/well,motif/wind,concept/freedom,setting/london"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Ideal of a Leisure State — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dawn,motif/machine,motif/silence,motif/time,motif/water,motif/well,motif/wind,concept/freedom,setting/london"></span>
 
 
 Many of the idealists can only conceive of an idle humanity as

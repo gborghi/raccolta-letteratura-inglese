@@ -1,5 +1,5 @@
 ---
-title: "mending"
+title: "On Mending and Ending Things"
 author: "Chesterton"
 unitType: work
 parentWork: "works/mending-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/mending" data-author="Chesterton" data-workhref="works/mending-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="mending" data-title="mending" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="mending" data-title="On Mending and Ending Things" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -40,7 +40,7 @@ Illustrated [[settings/london|London]] News, 23 dicembre 1905
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="mending (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/crown,motif/nature,motif/poison,motif/time,concept/charity,concept/conscience,concept/nature,concept/reform,setting/london"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="On Mending and Ending Things" data-chapter="part 01" data-kind="excerpt" data-tags="motif/crown,motif/nature,motif/poison,motif/time,concept/charity,concept/conscience,concept/nature,concept/reform,setting/london"></span>
 
 
 On Mending and Ending Things

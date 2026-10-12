@@ -1,5 +1,5 @@
 ---
-title: "CharlesDickens"
+title: "Charles Dickens"
 author: "Chesterton"
 unitType: work
 parentWork: "works/charlesdickens-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/charlesdickens" data-author="Chesterton" data-workhref="works/charlesdickens-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="charlesdickens" data-title="CharlesDickens" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="charlesdickens" data-title="Charles Dickens" data-chapter="" data-kind="intro"></span>
 
 
 ----------------------------------------------------------------------------

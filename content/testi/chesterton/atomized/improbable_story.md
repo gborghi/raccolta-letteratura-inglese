@@ -1,5 +1,5 @@
 ---
-title: "improbable_story"
+title: "A Somewhat Improbable Story"
 author: "Chesterton"
 unitType: work
 parentWork: "works/improbable-story-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/improbable_story" data-author="Chesterton" data-workhref="works/improbable-story-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="improbable_story" data-title="improbable_story" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="improbable_story" data-title="A Somewhat Improbable Story" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -134,7 +134,7 @@ E inchinandosi leggermente al vasetto della senape, l'uomo nel ristorante si rit
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="improbable_story (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/clock"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Somewhat Improbable Story — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/clock"></span>
 
 
 # improbable story
@@ -308,7 +308,7 @@ e gli altri organi sono messi altrettanto male."
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="improbable_story (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/garden,motif/hill,motif/home,motif/horse,motif/road,motif/silence,motif/stars,motif/time,concept/democracy,concept/honour,setting/london"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="A Somewhat Improbable Story — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/garden,motif/hill,motif/home,motif/horse,motif/road,motif/silence,motif/stars,motif/time,concept/democracy,concept/honour,setting/london"></span>
 
 
 "No, I mean another street gone wrong," and he said heavily

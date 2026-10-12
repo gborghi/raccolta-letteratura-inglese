@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote"
+title: "The Return of Don Quixote"
 author: "Chesterton"
 unitType: work
 parentWork: "works/don-quixote-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/don_quixote" data-author="Chesterton" data-workhref="works/don-quixote-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="don_quixote" data-title="Don Quixote" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="don_quixote" data-title="The Return of Don Quixote" data-chapter="" data-kind="intro"></span>
 
 
 THE RETURN OF [[characters/don-quixote|DON QUIXOTE]]

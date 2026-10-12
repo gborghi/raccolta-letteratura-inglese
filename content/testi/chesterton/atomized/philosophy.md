@@ -1,5 +1,5 @@
 ---
-title: "philosophy"
+title: "Philosophy for the Schoolroom"
 author: "Chesterton"
 unitType: work
 parentWork: "works/philosophy-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/philosophy" data-author="Chesterton" data-workhref="works/philosophy-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="philosophy" data-title="philosophy" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="philosophy" data-title="Philosophy for the Schoolroom" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -94,7 +94,7 @@ le tre o quattro sanità e certezze del libero pensiero umano.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="philosophy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/sleep,motif/time,concept/doubt,concept/hope,concept/self,setting/cathedral,setting/london"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Philosophy for the Schoolroom" data-chapter="part 01" data-kind="excerpt" data-tags="motif/sleep,motif/time,concept/doubt,concept/hope,concept/self,setting/cathedral,setting/london"></span>
 
 
 Philosophy for the Schoolroom

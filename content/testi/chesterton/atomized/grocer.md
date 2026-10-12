@@ -1,5 +1,5 @@
 ---
-title: "grocer"
+title: "The Song Against Grocers"
 author: "Chesterton"
 unitType: work
 parentWork: "works/grocer-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/grocer" data-author="Chesterton" data-workhref="works/grocer-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="grocer" data-title="grocer" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="grocer" data-title="The Song Against Grocers" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -86,7 +86,7 @@ proprio come il suo peso, è corto.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="grocer (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/dust,motif/soul,motif/time"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Song Against Grocers" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/dust,motif/soul,motif/time"></span>
 
 
 The [[works/song-(poe)|Song]] Against Grocers  

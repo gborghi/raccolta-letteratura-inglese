@@ -1,5 +1,5 @@
 ---
-title: "skeptic"
+title: "Skepticism and Spiritualism"
 author: "Chesterton"
 unitType: work
 parentWork: "works/skeptic-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/skeptic" data-author="Chesterton" data-workhref="works/skeptic-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="skeptic" data-title="skeptic" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="skeptic" data-title="Skepticism and Spiritualism" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -72,7 +72,7 @@ stesso ne sono uno. . .
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="skeptic (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/nature,motif/tears,motif/well,concept/doubt,concept/faith,concept/nature,form/essay,form/sonnet,setting/london"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Skepticism and Spiritualism — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/nature,motif/tears,motif/well,concept/doubt,concept/faith,concept/nature,form/essay,form/sonnet,setting/london"></span>
 
 
 Skepticism and Spiritualism
@@ -179,7 +179,7 @@ Il problema, dunque, dello scetticismo e delle estasi spirituali è un problema 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="skeptic (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/flowers,motif/supernatural,concept/faith,concept/fear"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Skepticism and Spiritualism — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/flowers,motif/supernatural,concept/faith,concept/fear"></span>
 
 
 For my own part, what little I resent in what little I have

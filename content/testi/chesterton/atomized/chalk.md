@@ -1,5 +1,5 @@
 ---
-title: "chalk"
+title: "A Piece of Chalk"
 author: "Chesterton"
 unitType: work
 parentWork: "works/chalk-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/chalk" data-author="Chesterton" data-workhref="works/chalk-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="chalk" data-title="chalk" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="chalk" data-title="A Piece of Chalk" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -101,7 +101,7 @@ e una civiltà; è qualcosa di ancora più ammirevole.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="chalk (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/chalk,motif/dawn,motif/fire,motif/leaves,motif/nature,motif/snow,motif/soul,motif/stars,motif/summer,motif/time,motif/well,concept/endurance,concept/nature,form/sketch,setting/london,character/apollo,character/robin_hood"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Piece of Chalk — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/chalk,motif/dawn,motif/fire,motif/leaves,motif/nature,motif/snow,motif/soul,motif/stars,motif/summer,motif/time,motif/well,concept/endurance,concept/nature,form/sketch,setting/london,character/apollo,character/robin_hood"></span>
 
 
 A Piece of [[motifs/chalk|Chalk]]
@@ -227,7 +227,7 @@ Preferivano scrivere di grandi uomini piuttosto che di grandi colline; ma sedeva
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="chalk (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/chalk,motif/city,motif/dawn,motif/hill,motif/pain,motif/stars,motif/water,motif/well,concept/despair,concept/mercy,concept/revenge,histref/christianity"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="A Piece of Chalk — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/chalk,motif/city,motif/dawn,motif/hill,motif/pain,motif/stars,motif/water,motif/well,concept/despair,concept/mercy,concept/revenge,histref/christianity"></span>
 
 
 But as I sat scrawling these silly figures on the brown paper,

@@ -1,5 +1,5 @@
 ---
-title: "Incredulity"
+title: "The Incredulity of Father Brown"
 author: "Chesterton"
 unitType: work
 parentWork: "works/incredulity-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/incredulity" data-author="Chesterton" data-workhref="works/incredulity-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="incredulity" data-title="Incredulity" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="incredulity" data-title="The Incredulity of Father Brown" data-chapter="" data-kind="intro"></span>
 
 
 The [[works/incredulity-(chesterton)|Incredulity]] of [[characters/father-brown|Father Brown]] (1926)

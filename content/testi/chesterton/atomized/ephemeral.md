@@ -1,5 +1,5 @@
 ---
-title: "ephemeral"
+title: "THE CASE for the EPHEMERAL"
 author: "Chesterton"
 unitType: work
 parentWork: "works/ephemeral-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/ephemeral" data-author="Chesterton" data-workhref="works/ephemeral-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="ephemeral" data-title="ephemeral" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="ephemeral" data-title="THE CASE for the EPHEMERAL" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -193,7 +193,7 @@ Ci importerà grandemente da quale parte combattemmo.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="ephemeral (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/soul,motif/time,motif/well,form/epigram,histref/catholic_church,setting/germany,setting/new_york,setting/paris"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THE CASE for the EPHEMERAL — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/soul,motif/time,motif/well,form/epigram,histref/catholic_church,setting/germany,setting/new_york,setting/paris"></span>
 
 
 -=[ THE CASE FOR THE EPHEMERAL ]=-
@@ -361,7 +361,7 @@ indietro rispetto alla moda.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="ephemeral (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/tyrant,motif/nature,motif/well,concept/democracy,concept/mercy,concept/nature,concept/pride,concept/suffering,histref/french_revolution,histref/puritanism"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="THE CASE for the EPHEMERAL — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/tyrant,motif/nature,motif/well,concept/democracy,concept/mercy,concept/nature,concept/pride,concept/suffering,histref/french_revolution,histref/puritanism"></span>
 
 
 Similarly I find that I have tried in these pages to express

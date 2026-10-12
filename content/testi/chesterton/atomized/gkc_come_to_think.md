@@ -1,5 +1,5 @@
 ---
-title: "GKC Come to Think"
+title: "Come to Think of It"
 author: "Chesterton"
 unitType: work
 parentWork: "works/gkc-come-to-think-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/gkc_come_to_think" data-author="Chesterton" data-workhref="works/gkc-come-to-think-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="gkc_come_to_think" data-title="GKC Come to Think" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="gkc_come_to_think" data-title="Come to Think of It" data-chapter="" data-kind="intro"></span>
 
 
 COME TO THINK OF IT

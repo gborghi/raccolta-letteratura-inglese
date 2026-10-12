@@ -1,5 +1,5 @@
 ---
-title: "titanicGKC"
+title: "A Ballade of Theatricals"
 author: "Chesterton"
 unitType: work
 parentWork: "works/titanicgkc-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/titanicgkc" data-author="Chesterton" data-workhref="works/titanicgkc-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="titanicgkc" data-title="titanicGKC" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="titanicgkc" data-title="A Ballade of Theatricals" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -64,7 +64,7 @@ e se ti sedessi frantumeresti il tuo trono--
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="titanicGKC (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,concept/truth,form/hymn,setting/london"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Ballade of Theatricals" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,concept/truth,form/hymn,setting/london"></span>
 
 
 A Ballade of Theatricals  

@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill"
+title: "The Napoleon of Notting Hill"
 author: "Chesterton"
 unitType: work
 parentWork: "works/napoleon-of-notting-hill-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/napoleon_of_notting_hill" data-author="Chesterton" data-workhref="works/napoleon-of-notting-hill-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="napoleon_of_notting_hill" data-title="Napoleon of Notting Hill" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="napoleon_of_notting_hill" data-title="The Napoleon of Notting Hill" data-chapter="" data-kind="intro"></span>
 
 
 ----------

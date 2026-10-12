@@ -1,5 +1,5 @@
 ---
-title: "logic"
+title: "LOGIC and LAWN TENNIS"
 author: "Chesterton"
 unitType: work
 parentWork: "works/logic-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/logic" data-author="Chesterton" data-workhref="works/logic-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="logic" data-title="logic" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="logic" data-title="LOGIC and LAWN TENNIS" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -84,7 +84,7 @@ con cui è giocato.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="logic (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/nature,concept/doubt,concept/nature,character/christ"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="LOGIC and LAWN TENNIS — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/nature,concept/doubt,concept/nature,character/christ"></span>
 
 
 LOGIC AND LAWN TENNIS
@@ -199,7 +199,7 @@ Per esempio, ho letto un articolo dell'ammirevole signor Tilden, il grande tenni
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="logic (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dance,motif/nakedness,motif/well,form/essay,histref/bible,character/aquinas"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="LOGIC and LAWN TENNIS — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dance,motif/nakedness,motif/well,form/essay,histref/bible,character/aquinas"></span>
 
 
 In the good old days of Victorian rationalism it used to be

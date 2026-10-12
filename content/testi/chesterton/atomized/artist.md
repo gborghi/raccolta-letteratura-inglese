@@ -1,5 +1,5 @@
 ---
-title: "artist"
+title: "ON the DISASTROUS SPREAD of AESTHETICISM in ALL CLASSES"
 author: "Chesterton"
 unitType: work
 parentWork: "works/artist-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/artist" data-author="Chesterton" data-workhref="works/artist-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="artist" data-title="artist" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="artist" data-title="ON the DISASTROUS SPREAD of AESTHETICISM in ALL CLASSES" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -158,7 +158,7 @@ Lo guardai e dissi soltanto,
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="artist (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/fire,motif/home,motif/love,motif/moon,motif/night,motif/rose,motif/soul,motif/stars"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="ON the DISASTROUS SPREAD of AESTHETICISM in ALL CLASSES" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/fire,motif/home,motif/love,motif/moon,motif/night,motif/rose,motif/soul,motif/stars"></span>
 
 
 ON THE DISASTROUS SPREAD OF AESTHETICISM IN ALL CLASSES  

@@ -1,5 +1,5 @@
 ---
-title: "intro-love-and-freindship"
+title: "Introduction to Jane Austen's 'Love and Freindship',"
 author: "Chesterton"
 unitType: work
 parentWork: "works/intro-love-and-freindship-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/intro-love-and-freindship" data-author="Chesterton" data-workhref="works/intro-love-and-freindship-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="intro-love-and-freindship" data-title="intro-love-and-freindship" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="intro-love-and-freindship" data-title="Introduction to Jane Austen's 'Love and Freindship'," data-chapter="" data-kind="intro"></span>
 
 
 
@@ -230,7 +230,7 @@ per notare la [[historical-references/french-revolution|Rivoluzione francese]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="intro-love-and-freindship (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/grave,motif/love,motif/seasons,motif/time,motif/well,concept/history,concept/hope,concept/truth,form/fable,form/fragment,form/history,form/satire,character/kent"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Introduction to Jane Austen's 'Love and Freindship', — part 1 of 3" data-chapter="part 01" data-kind="excerpt" data-tags="motif/grave,motif/love,motif/seasons,motif/time,motif/well,concept/history,concept/hope,concept/truth,form/fable,form/fragment,form/history,form/satire,character/kent"></span>
 
 
 Introduction to Jane Austen's "[[motifs/love|Love]] and Freindship",
@@ -391,7 +391,7 @@ camera dei bambini.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="intro-love-and-freindship (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/fire,motif/love,motif/nature,motif/time,motif/well,concept/greatness,concept/nature,character/fanny_price"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Introduction to Jane Austen's 'Love and Freindship', — part 2 of 3" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/fire,motif/love,motif/nature,motif/time,motif/well,concept/greatness,concept/nature,character/fanny_price"></span>
 
 
 For "[[motifs/love|Love]] and Freindship," with some similar passages in the
@@ -570,7 +570,7 @@ avuto l'ingegno.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="intro-love-and-freindship (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/love,motif/mirror,motif/window,histref/french_revolution"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Introduction to Jane Austen's 'Love and Freindship', — part 3 of 3" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/love,motif/mirror,motif/window,histref/french_revolution"></span>
 
 
 There is therefore, in considering even her crudest early experiments,

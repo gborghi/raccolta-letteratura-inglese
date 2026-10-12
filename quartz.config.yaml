@@ -14,6 +14,8 @@ configuration:
     - templates
     - .obsidian
     - Authors
+    # provisional knowledge-graph nodes (Clio's QA plan §3); old URLs redirect via data/redirects.json
+    - "**/*placeholder*"
   defaultDateType: modified
   theme:
     fontOrigin: googleFonts
@@ -183,7 +185,7 @@ plugins:
       # settings, topoi, clusters, historical references, etc. "tags" also hidden.
       # Passed as a stringified arrow fn: the plugin serializes filterFn via
       # .toString() and the client rebuilds it with new Function().
-      filterFn: '(node) => !["tags", "testi", "works", "404", "opere", "brani", "sostieni", "feedback"].includes(node.slugSegment)'
+      filterFn: '(node) => !node.data?.noindex && !["tags", "testi", "works", "404", "opere", "brani", "sostieni", "feedback"].includes(node.slugSegment)'
       folderDefaultState: collapsed
       folderClickBehavior: link
     layout:

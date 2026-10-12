@@ -1,5 +1,5 @@
 ---
-title: "cabman"
+title: "The Extraordinary Cabman"
 author: "Chesterton"
 unitType: work
 parentWork: "works/cabman-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/cabman" data-author="Chesterton" data-workhref="works/cabman-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="cabman" data-title="cabman" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="cabman" data-title="The Extraordinary Cabman" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -92,7 +92,7 @@ in seguito raccolto nel volume di saggi Tremendous Trifles.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="cabman (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/time,concept/despair,concept/doubt,form/parable,setting/london"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Extraordinary Cabman — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="motif/time,concept/despair,concept/doubt,form/parable,setting/london"></span>
 
 
 The Extraordinary Cabman
@@ -200,7 +200,7 @@ Ora, quando questa disputa fu finita, o almeno quando fu troncata (perché non s
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="cabman (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/horse,motif/road,motif/stars,concept/democracy,setting/london"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Extraordinary Cabman — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/horse,motif/road,motif/stars,concept/democracy,setting/london"></span>
 
 
 I looked at the man.  No ordinary dishonest cabman would

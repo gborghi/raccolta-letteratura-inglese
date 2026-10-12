@@ -1,5 +1,5 @@
 ---
-title: "quoodle"
+title: "THE SONG of QUOODLE"
 author: "Chesterton"
 unitType: work
 parentWork: "works/quoodle-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/quoodle" data-author="Chesterton" data-workhref="works/quoodle-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="quoodle" data-title="quoodle" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="quoodle" data-title="THE SONG of QUOODLE" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -60,7 +60,7 @@ la Senzanasità dell'Uomo.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="quoodle (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/flowers,motif/water,motif/wind,motif/winter,character/quoodle,character/sunday"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THE SONG of QUOODLE" data-chapter="part 01" data-kind="excerpt" data-tags="motif/flowers,motif/water,motif/wind,motif/winter,character/quoodle,character/sunday"></span>
 
 
 THE SONG OF [[characters/quoodle|QUOODLE]]  

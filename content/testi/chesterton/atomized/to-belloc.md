@@ -1,5 +1,5 @@
 ---
-title: "to-belloc"
+title: "To Hilaire Belloc"
 author: "Chesterton"
 unitType: work
 parentWork: "works/to-belloc-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/to-belloc" data-author="Chesterton" data-workhref="works/to-belloc-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="to-belloc" data-title="to-belloc" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="to-belloc" data-title="To Hilaire Belloc" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -72,7 +72,7 @@ G.K.C.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="to-belloc (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/death,motif/hill,motif/home,motif/love,motif/moon,motif/stars,motif/water,form/epic"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="To Hilaire Belloc" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/death,motif/hill,motif/home,motif/love,motif/moon,motif/stars,motif/water,form/epic"></span>
 
 
 TO HILAIRE BELLOC  

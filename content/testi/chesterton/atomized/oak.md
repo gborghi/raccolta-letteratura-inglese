@@ -1,5 +1,5 @@
 ---
-title: "oak"
+title: "The Song of the Oak"
 author: "Chesterton"
 unitType: work
 parentWork: "works/oak-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/oak" data-author="Chesterton" data-workhref="works/oak-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="oak" data-title="oak" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="oak" data-title="The Song of the Oak" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -70,7 +70,7 @@ G. K. Chesterton
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="oak (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,archetype/lover,motif/blood,motif/death,motif/love,motif/spring"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Song of the Oak" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,archetype/lover,motif/blood,motif/death,motif/love,motif/spring"></span>
 
 
 # oak

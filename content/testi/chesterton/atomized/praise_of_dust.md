@@ -1,5 +1,5 @@
 ---
-title: "praise_of_dust"
+title: "The Praise Of Dust"
 author: "Chesterton"
 unitType: work
 parentWork: "works/praise-of-dust-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/praise_of_dust" data-author="Chesterton" data-workhref="works/praise-of-dust-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="praise_of_dust" data-title="praise_of_dust" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="praise_of_dust" data-title="The Praise Of Dust" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -60,7 +60,7 @@ di [[motifs/dust|polvere]] e nulla più.»
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="praise_of_dust (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/tyrant,motif/blood,motif/city,motif/dust,motif/fire,motif/flowers,motif/well,concept/body"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Praise Of Dust" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/tyrant,motif/blood,motif/city,motif/dust,motif/fire,motif/flowers,motif/well,concept/body"></span>
 
 
 # praise of [[motifs/dust|dust]]

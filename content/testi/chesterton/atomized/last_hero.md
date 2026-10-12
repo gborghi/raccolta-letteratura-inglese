@@ -1,5 +1,5 @@
 ---
-title: "last_hero"
+title: "The Last Hero"
 author: "Chesterton"
 unitType: work
 parentWork: "works/last-hero-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/last_hero" data-author="Chesterton" data-workhref="works/last-hero-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="last_hero" data-title="last_hero" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="last_hero" data-title="The Last Hero" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -74,7 +74,7 @@ _________________________________________________________________
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="last_hero (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/crown,motif/death,motif/flag,motif/flowers,motif/love,motif/night,motif/rose,motif/silence,motif/stars,motif/wind,character/michael"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Last Hero" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/crown,motif/death,motif/flag,motif/flowers,motif/love,motif/night,motif/rose,motif/silence,motif/stars,motif/wind,character/michael"></span>
 
 
 # last [[archetypes/hero|hero]]

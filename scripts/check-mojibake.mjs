@@ -1,0 +1,48 @@
+// Mojibake check over content/ (Clio's QA plan §2). Pattern from the plan:
+//   Ã<non-space> | â€ | Â£ | U+FFFD
+// Default: WARN (GitHub ::warning annotations + step summary, exit 0) while Clio's
+// vault fixes land. Set MOJIBAKE_STRICT=1 (or pass --strict) to fail the build.
+import fs from "node:fs"
+import path from "node:path"
+import { fileURLToPath } from "node:url"
+
+export const MOJIBAKE = /Ã[^\s]|â€|Â£|\uFFFD/g
+
+export function scan(dir) {
+  const hits = []
+  const walk = (d) => {
+    for (const e of fs.readdirSync(d, { withFileTypes: true })) {
+      const p = path.join(d, e.name)
+      if (e.isDirectory()) walk(p)
+      else if (e.name.endsWith(".md")) {
+        const s = fs.readFileSync(p, "utf8")
+        const m = s.match(MOJIBAKE)
+        if (m) {
+          const i = s.search(MOJIBAKE)
+          const line = s.slice(0, i).split("\n").length
+          hits.push({ file: path.relative(process.cwd(), p), count: m.length, line, sample: s.slice(Math.max(0, i - 30), i + 30).replace(/\s+/g, " ") })
+        }
+      }
+    }
+  }
+  walk(dir)
+  return hits
+}
+
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  const args = process.argv.slice(2)
+  const strict = args.includes("--strict") || process.env.MOJIBAKE_STRICT === "1"
+  const dir = args.find((a) => !a.startsWith("--")) || "content"
+  const hits = scan(dir)
+  const total = hits.reduce((a, h) => a + h.count, 0)
+  const level = strict ? "error" : "warning"
+  const gha = !!process.env.GITHUB_ACTIONS
+  for (const h of hits) {
+    const msg = `mojibake x${h.count}: …${h.sample}…`
+    console.log(gha ? `::${level} file=${h.file},line=${h.line}::${msg}` : `${h.file}:${h.line} ${msg}`)
+  }
+  const summary = `mojibake: ${total} occurrences in ${hits.length} files (${strict ? "strict: failing" : "warning only"})`
+  console.log(summary)
+  if (process.env.GITHUB_STEP_SUMMARY) fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, `## Mojibake\n${summary}\n`)
+  if (strict && hits.length) process.exit(1)
+}

@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography"
+title: "Autobiography"
 author: "Chesterton"
 unitType: work
 parentWork: "works/gkc-autobiography-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/gkc_autobiography" data-author="Chesterton" data-workhref="works/gkc-autobiography-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="gkc_autobiography" data-title="GKC-Autobiography" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="gkc_autobiography" data-title="Autobiography" data-chapter="" data-kind="intro"></span>
 
 
 Autobiography

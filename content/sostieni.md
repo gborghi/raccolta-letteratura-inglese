@@ -1,5 +1,5 @@
 ---
-title: Sostieni il sito
+title: Support / Sostieni il sito
 description: Se questa raccolta di letteratura inglese ti è utile, puoi lasciare un contributo con PayPal.
 ---
 

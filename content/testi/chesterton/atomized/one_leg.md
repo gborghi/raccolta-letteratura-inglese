@@ -1,5 +1,5 @@
 ---
-title: "one_leg"
+title: "The Advantages of having One Leg"
 author: "Chesterton"
 unitType: work
 parentWork: "works/one-leg-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/one_leg" data-author="Chesterton" data-workhref="works/one-leg-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="one_leg" data-title="one_leg" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="one_leg" data-title="The Advantages of having One Leg" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -72,7 +72,7 @@ chiudi l'altro occhio.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="one_leg (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/shadow,motif/crown,motif/desert,motif/love,motif/nature,motif/pain,motif/rose,concept/comradeship,concept/nature,concept/poverty,concept/self_deception,concept/sublime,concept/truth,setting/desert,setting/mountains"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Advantages of having One Leg — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/shadow,motif/crown,motif/desert,motif/love,motif/nature,motif/pain,motif/rose,concept/comradeship,concept/nature,concept/poverty,concept/self_deception,concept/sublime,concept/truth,setting/desert,setting/mountains"></span>
 
 
 # one leg
@@ -186,7 +186,7 @@ Per apprezzare qualcosa dobbiamo sempre isolarla, anche se la cosa stessa simbol
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="one_leg (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/love,concept/beauty,form/novel,setting/london"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Advantages of having One Leg — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/love,concept/beauty,form/novel,setting/london"></span>
 
 
 This lonely leg on which I rest has all the simplicity of some

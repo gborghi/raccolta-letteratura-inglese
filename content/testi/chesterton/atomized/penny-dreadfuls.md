@@ -1,5 +1,5 @@
 ---
-title: "penny-dreadfuls"
+title: "A DEFENCE of PENNY DREADFULS"
 author: "Chesterton"
 unitType: work
 parentWork: "works/penny-dreadfuls-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/penny-dreadfuls" data-author="Chesterton" data-workhref="works/penny-dreadfuls-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="penny-dreadfuls" data-title="penny-dreadfuls" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="penny-dreadfuls" data-title="A DEFENCE of PENNY DREADFULS" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -47,7 +47,7 @@ Ma siamo noi le eccezioni morbose; siamo noi la classe criminale. Questo dovrebb
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="penny-dreadfuls (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/prison,motif/soul,concept/conscience,concept/courage,concept/pride,concept/sublime,form/novel,setting/london,character/robin_hood"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A DEFENCE of PENNY DREADFULS — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/prison,motif/soul,concept/conscience,concept/courage,concept/pride,concept/sublime,form/novel,setting/london,character/robin_hood"></span>
 
 
 A DEFENCE OF PENNY DREADFULS
@@ -178,7 +178,7 @@ Per quanto io li abbia visti, in rapporto con le più sudicie bancarelle di libr
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="penny-dreadfuls (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/grave,motif/soul,motif/time,concept/courage,concept/doubt,concept/history,concept/revenge,concept/suicide,form/epigram,form/history"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="A DEFENCE of PENNY DREADFULS — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/grave,motif/soul,motif/time,concept/courage,concept/doubt,concept/history,concept/revenge,concept/suicide,form/epigram,form/history"></span>
 
 
 Among these stories there are a certain number which deal

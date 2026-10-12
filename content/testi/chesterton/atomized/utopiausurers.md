@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers"
+title: "Utopia of Usurers"
 author: "Chesterton"
 unitType: work
 parentWork: "works/utopiausurers-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/utopiausurers" data-author="Chesterton" data-workhref="works/utopiausurers-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="utopiausurers" data-title="UtopiaUsurers" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="utopiausurers" data-title="Utopia of Usurers" data-chapter="" data-kind="intro"></span>
 
 
 

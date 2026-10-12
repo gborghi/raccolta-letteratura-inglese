@@ -1,5 +1,5 @@
 ---
-title: "femina"
+title: "Femina Contra Mundum"
 author: "Chesterton"
 unitType: work
 parentWork: "works/femina-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/femina" data-author="Chesterton" data-workhref="works/femina-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="femina" data-title="femina" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="femina" data-title="Femina Contra Mundum" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -51,7 +51,7 @@ quasi abbastanza.'
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="femina (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/love,motif/moon,motif/stars,concept/fear,concept/wonder,setting/mountains"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Femina Contra Mundum" data-chapter="part 01" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/love,motif/moon,motif/stars,concept/fear,concept/wonder,setting/mountains"></span>
 
 
 Femina Contra Mundum  

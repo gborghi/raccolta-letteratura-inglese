@@ -1,5 +1,5 @@
 ---
-title: "lovers"
+title: "For Lovers Only"
 author: "Chesterton"
 unitType: work
 parentWork: "works/lovers-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/lovers" data-author="Chesterton" data-workhref="works/lovers-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="lovers" data-title="lovers" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="lovers" data-title="For Lovers Only" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -76,7 +76,7 @@ Da The Poet and the Lunatics di Chesterton
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="lovers (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/silence,character/diana"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="For Lovers Only" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/silence,character/diana"></span>
 
 
 For Lovers Only

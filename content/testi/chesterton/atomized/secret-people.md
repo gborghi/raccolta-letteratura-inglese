@@ -1,5 +1,5 @@
 ---
-title: "secret-people"
+title: "The Secret People"
 author: "Chesterton"
 unitType: work
 parentWork: "works/secret-people-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/secret-people" data-author="Chesterton" data-workhref="works/secret-people-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="secret-people" data-title="secret-people" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="secret-people" data-title="The Secret People" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -88,7 +88,7 @@ Sorrideteci, pagateci, oltrepassateci. Ma non dimenticate del tutto.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="secret-people (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/chains,motif/crown,motif/grave,motif/love,motif/nature,motif/pain,motif/rose,concept/freedom,concept/honour,concept/nature,setting/russia"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Secret People" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/chains,motif/crown,motif/grave,motif/love,motif/nature,motif/pain,motif/rose,concept/freedom,concept/honour,concept/nature,setting/russia"></span>
 
 
 The Secret People  

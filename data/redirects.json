@@ -1,0 +1,6 @@
+{
+  "_comment": "Old URL (no leading slash) -> new URL. Static redirect pages are written by scripts/postbuild-pages.mjs (works on both Cloudflare Pages and GitHub Pages). The three placeholder knowledge-graph nodes are excluded from the build (quartz.config.yaml ignorePatterns) — Clio's plan §3.",
+  "concepts/childhood-and-growth-placeholder": "concepts/childhood-and-growth",
+  "concepts/eyes-sight-placeholder": "motifs/eyes-and-sight",
+  "motifs/fog-and-smoke-placeholder": "motifs/fog-and-smoke"
+}

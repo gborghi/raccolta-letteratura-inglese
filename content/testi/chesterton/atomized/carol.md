@@ -1,5 +1,5 @@
 ---
-title: "carol"
+title: "A Christmas Carol"
 author: "Chesterton"
 unitType: work
 parentWork: "works/carol-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/carol" data-author="Chesterton" data-workhref="works/carol-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="carol" data-title="carol" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="carol" data-title="A Christmas Carol" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -44,7 +44,7 @@ Pubblicata anche in "The collected [[works/poems-(chesterton)|Poems]] of G.K.Che
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="carol (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/desire,motif/fire,motif/flowers,motif/stars,character/christ"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Christmas Carol" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/desire,motif/fire,motif/flowers,motif/stars,character/christ"></span>
 
 
 A Christmas Carol  

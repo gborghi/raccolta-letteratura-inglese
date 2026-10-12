@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered 8"
+title: "All Things Considered"
 author: "Chesterton"
 unitType: work
 parentWork: "works/allthingsconsidered-8-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/allthingsconsidered_8" data-author="Chesterton" data-workhref="works/allthingsconsidered-8-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="allthingsconsidered_8" data-title="AllThingsConsidered 8" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="allthingsconsidered_8" data-title="All Things Considered" data-chapter="" data-kind="intro"></span>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Poet and Lunatics"
+title: "The Poet and the Lunatics"
 author: "Chesterton"
 unitType: work
 parentWork: "works/poet-and-lunatics-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/poet_and_lunatics" data-author="Chesterton" data-workhref="works/poet-and-lunatics-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="poet_and_lunatics" data-title="Poet and Lunatics" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="poet_and_lunatics" data-title="The Poet and the Lunatics" data-chapter="" data-kind="intro"></span>
 
 
 The Poet

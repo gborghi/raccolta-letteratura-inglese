@@ -1,5 +1,5 @@
 ---
-title: "diabolist"
+title: "The Diabolist"
 author: "Chesterton"
 unitType: work
 parentWork: "works/diabolist-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/diabolist" data-author="Chesterton" data-workhref="works/diabolist-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="diabolist" data-title="diabolist" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="diabolist" data-title="The Diabolist" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -105,7 +105,7 @@ al quale si fermò e si trattenne.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="diabolist (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/ghost,archetype/lover,motif/fire,motif/insects,motif/love,motif/night,motif/stars,motif/time,motif/well,concept/doubt,concept/truth,histref/milton,setting/cathedral,character/milton"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Diabolist — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/ghost,archetype/lover,motif/fire,motif/insects,motif/love,motif/night,motif/stars,motif/time,motif/well,concept/doubt,concept/truth,histref/milton,setting/cathedral,character/milton"></span>
 
 
 The Diabolist
@@ -262,7 +262,7 @@ Gli lanciai una rapida occhiata al viso. Aveva sporto il collo, come aveva l'abi
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="diabolist (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/love,motif/nature,motif/pain,motif/road,motif/soul,motif/stars,motif/time,concept/democracy,concept/despair,concept/humility,concept/nature,concept/suicide"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Diabolist — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/love,motif/nature,motif/pain,motif/road,motif/soul,motif/stars,motif/time,concept/democracy,concept/despair,concept/humility,concept/nature,concept/suicide"></span>
 
 
 "That is all that I ask you to admit," said I. "Give me

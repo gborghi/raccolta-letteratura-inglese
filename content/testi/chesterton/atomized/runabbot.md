@@ -1,5 +1,5 @@
 ---
-title: "runabbot"
+title: "The Runaway Abbot"
 author: "Chesterton"
 unitType: work
 parentWork: "works/runabbot-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/runabbot" data-author="Chesterton" data-workhref="works/runabbot-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="runabbot" data-title="runabbot" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="runabbot" data-title="The Runaway Abbot" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -95,7 +95,7 @@ Quando i suoi parenti tentarono di spogliarlo del saio da frate, pare che egli m
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="runabbot (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/childhood,motif/home,motif/nature,motif/time,motif/well,concept/nature,setting/castle,character/aquinas"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Runaway Abbot — part 1 of 3" data-chapter="part 01" data-kind="excerpt" data-tags="motif/childhood,motif/home,motif/nature,motif/time,motif/well,concept/nature,setting/castle,character/aquinas"></span>
 
 
 The Runaway Abbot
@@ -186,7 +186,7 @@ Non è molto facile ricostruire il corso di questa furiosa lite familiare, e com
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="runabbot (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/desire,motif/journey,motif/road,motif/well,concept/ambition,concept/courage,setting/italy,setting/paris"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Runaway Abbot — part 2 of 3" data-chapter="part 02" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/desire,motif/journey,motif/road,motif/well,concept/ambition,concept/courage,setting/italy,setting/paris"></span>
 
 
 Thomas of Aquino wanted to be a Friar.  It was a staggering
@@ -310,7 +310,7 @@ più pratica pertinacia dell'uomo che vien detto teorico.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="runabbot (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="topos/double,topos/golden_age,motif/blood,motif/cross,motif/fire,motif/hill,motif/road,motif/rose,motif/storm,motif/time,motif/well,concept/ambition,concept/democracy,concept/faith,concept/history,concept/humility,concept/imagination,concept/imprisonment,concept/mercy,concept/poverty,concept/pride,concept/temptation,form/history,form/riddle,setting/castle,character/cain"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Runaway Abbot — part 3 of 3" data-chapter="part 03" data-kind="excerpt" data-tags="topos/double,topos/golden_age,motif/blood,motif/cross,motif/fire,motif/hill,motif/road,motif/rose,motif/storm,motif/time,motif/well,concept/ambition,concept/democracy,concept/faith,concept/history,concept/humility,concept/imagination,concept/imprisonment,concept/mercy,concept/poverty,concept/pride,concept/temptation,form/history,form/riddle,setting/castle,character/cain"></span>
 
 
 Thus at least did those three strange brethren stagger or trail

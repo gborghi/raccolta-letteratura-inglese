@@ -73,7 +73,7 @@ function syncChrome(): void {
   if (toggleBtn) {
     toggleBtn.innerHTML = open ? "&#10005;" : "&#9776;" // ✕ / ☰
     toggleBtn.setAttribute("aria-expanded", String(open))
-    toggleBtn.title = open ? "Chiudi il menu laterale" : "Apri il menu laterale"
+    toggleBtn.title = open ? "Close the side menu" : "Open the side menu"
   }
   document
     .querySelectorAll<HTMLButtonElement>(".explorer-toggle")
@@ -89,7 +89,7 @@ function wireOnce(): void {
   toggleBtn = document.createElement("button")
   toggleBtn.type = "button"
   toggleBtn.className = "site-nav-toggle"
-  toggleBtn.setAttribute("aria-label", "Apri o chiudi il menu laterale")
+  toggleBtn.setAttribute("aria-label", "Open or close the side menu")
   // The button is JS-only (never present in fetched HTML), so spa.inline.ts's
   // micromorph(document.body, html.body) would remove it on the next client-side
   // navigation as an unmatched body child. data-persist protects it, mirroring

@@ -1,5 +1,5 @@
 ---
-title: "methuselahite"
+title: "The Methuselahite"
 author: "Chesterton"
 unitType: work
 parentWork: "works/methuselahite-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/methuselahite" data-author="Chesterton" data-workhref="works/methuselahite-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="methuselahite" data-title="methuselahite" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="methuselahite" data-title="The Methuselahite" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -33,7 +33,7 @@ Perché, in verità, la debolezza di questo culto della mera vita naturale (che 
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="methuselahite (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/tyrant,motif/nature,motif/soul,motif/time,concept/courage,concept/history,concept/nature,concept/paradox,concept/pride,form/history,form/riddle"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Methuselahite" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/tyrant,motif/nature,motif/soul,motif/time,concept/courage,concept/history,concept/nature,concept/paradox,concept/pride,form/history,form/riddle"></span>
 
 
 The Methuselahite

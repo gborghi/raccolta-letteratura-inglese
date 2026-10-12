@@ -82,7 +82,7 @@ export function buildShards(master) {
   const works = []
   const atoms = []
   for (const [slug, d] of Object.entries(master)) {
-    if (isHiddenSlug(slug)) continue
+    if (isHiddenSlug(slug) || d.noindex) continue // noindex: thin pages (postbuild-pages.mjs)
     ;(isAtom(slug) ? atoms : works).push([slug, d])
   }
 

@@ -1,5 +1,5 @@
 ---
-title: "towers-of-time"
+title: "THE TOWERS of TIME"
 author: "Chesterton"
 unitType: work
 parentWork: "works/towers-of-time-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/towers-of-time" data-author="Chesterton" data-workhref="works/towers-of-time-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="towers-of-time" data-title="towers-of-time" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="towers-of-time" data-title="THE TOWERS of TIME" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -129,7 +129,7 @@ I sentieri secondari piegano verso la strada maestra del [[archetypes/king|Re]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="towers-of-time (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/birds,motif/city,motif/crown,motif/dreams,motif/flowers,motif/garden,motif/home,motif/lightning,motif/mirror,motif/rose,motif/snow,motif/summer,motif/time,motif/wind,concept/freedom,concept/truth,character/queen"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THE TOWERS of TIME" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/birds,motif/city,motif/crown,motif/dreams,motif/flowers,motif/garden,motif/home,motif/lightning,motif/mirror,motif/rose,motif/snow,motif/summer,motif/time,motif/wind,concept/freedom,concept/truth,character/queen"></span>
 
 
 THE TOWERS OF [[motifs/time|TIME]]  

@@ -1,5 +1,5 @@
 ---
-title: "deluge"
+title: "The Deluge"
 author: "Chesterton"
 unitType: work
 parentWork: "works/deluge-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/deluge" data-author="Chesterton" data-workhref="works/deluge-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="deluge" data-title="deluge" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="deluge" data-title="The Deluge" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -49,7 +49,7 @@ e l'avesse vuotato come una coppa.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="deluge (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bees"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Deluge" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bees"></span>
 
 
 The Deluge  

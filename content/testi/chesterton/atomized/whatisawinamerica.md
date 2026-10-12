@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica"
+title: "What I Saw in America"
 author: "Chesterton"
 unitType: work
 parentWork: "works/whatisawinamerica-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/whatisawinamerica" data-author="Chesterton" data-workhref="works/whatisawinamerica-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="whatisawinamerica" data-title="WhatISawInAmerica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="whatisawinamerica" data-title="What I Saw in America" data-chapter="" data-kind="intro"></span>
 
 
 

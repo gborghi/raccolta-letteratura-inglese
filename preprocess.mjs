@@ -6,6 +6,7 @@
 //   and the faceted search page (cerca.md)
 import { promises as fs } from "node:fs"
 import { fixMarkdown } from "./scripts/fix-markdown.mjs"
+import { fixTitlesTree } from "./scripts/fix-titles.mjs"
 import { readFileSync, existsSync } from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
@@ -2199,7 +2200,7 @@ Every chapter, story, scene, section and paragraph-level excerpt across the pros
   // Reuses the same PayPal business account as the sibling Physics/Mathematics sites
   // (item_name changed to "Letteratura Inglese"). Static HTML — no client script needed.
   const sostieni = `---
-title: Sostieni il sito
+title: Support / Sostieni il sito
 description: Se questa raccolta di letteratura inglese ti è utile, puoi lasciare un contributo con PayPal.
 ---
 
@@ -2225,7 +2226,7 @@ Oppure offrimi un caffè:
   // to the shared Google Apps Script mail relay — the message is emailed to the teacher.
   // No database, no login. Slug -> /feedback (matches the footer link).
   const feedback = `---
-title: Segnala un errore o dai un suggerimento
+title: Feedback / Segnala un errore o dai un suggerimento
 description: Segnala errori o proponi miglioramenti — il messaggio arriva direttamente al docente.
 ---
 
@@ -2276,7 +2277,7 @@ Hai trovato un **errore**, un refuso, un problema, o hai un **suggerimento** su 
   // what was not (the English texts, which are public-domain editions).
   // Slug -> /intelligenza-artificiale (matches the footer link in quartz.config.yaml).
   const ia = `---
-title: Intelligenza artificiale
+title: AI / Intelligenza artificiale
 description: Questa interfaccia e le traduzioni italiane sono state realizzate con l'intelligenza artificiale.
 ---
 
@@ -2410,6 +2411,9 @@ Se trovi una traduzione sbagliata o un errore in una pagina, [segnalalo](/feedba
     await fs.writeFile(p, md)
   }
   console.log(`markdown hygiene: ${hygieneFixed} pages fixed (fences, broken links, bold padding)`)
+  // split reading pages titled with their file name -> the work's title (scripts/fix-titles.mjs)
+  const retitled = await fixTitlesTree(CONTENT)
+  console.log(`titles: ${retitled.changed} reading pages retitled from their work`)
   const deadTotal = [...deadStripped.values()].reduce((a, b) => a + b, 0)
   const topDead = [...deadStripped.entries()]
     .sort((a, b) => b[1] - a[1])

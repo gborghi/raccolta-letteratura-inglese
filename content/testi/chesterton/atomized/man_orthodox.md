@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox"
+title: "The Man Who Was Orthodox"
 author: "Chesterton"
 unitType: work
 parentWork: "works/man-orthodox-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/man_orthodox" data-author="Chesterton" data-workhref="works/man-orthodox-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="man_orthodox" data-title="Man Orthodox" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="man_orthodox" data-title="The Man Who Was Orthodox" data-chapter="" data-kind="intro"></span>
 
 
 Selections from G.K.Chesterton

@@ -1,5 +1,5 @@
 ---
-title: "Shaw"
+title: "George Bernard Shaw"
 author: "Chesterton"
 unitType: work
 parentWork: "works/shaw-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/shaw" data-author="Chesterton" data-workhref="works/shaw-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="shaw" data-title="Shaw" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="shaw" data-title="George Bernard Shaw" data-chapter="" data-kind="intro"></span>
 
 
 GEORGE BERNARD SHAW

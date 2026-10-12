@@ -1,5 +1,5 @@
 ---
-title: "Sanity"
+title: "The Outline of Sanity"
 author: "Chesterton"
 unitType: work
 parentWork: "works/sanity-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/sanity" data-author="Chesterton" data-workhref="works/sanity-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="sanity" data-title="Sanity" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sanity" data-title="The Outline of Sanity" data-chapter="" data-kind="intro"></span>
 
 
 G. K. CHESTERTON

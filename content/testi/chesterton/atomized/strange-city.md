@@ -1,5 +1,5 @@
 ---
-title: "strange-city"
+title: "Concerning a Strange City"
 author: "Chesterton"
 unitType: work
 parentWork: "works/strange-city-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/strange-city" data-author="Chesterton" data-workhref="works/strange-city-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="strange-city" data-title="strange-city" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="strange-city" data-title="Concerning a Strange City" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -39,7 +39,7 @@ La poesia è votata a questa concentrazione tanto quanto la religione: il paese 
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="strange-city (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/nature,motif/soul,motif/time,concept/common_man,concept/eternity,concept/imagination,concept/nature,character/witch"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Concerning a Strange City" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/nature,motif/soul,motif/time,concept/common_man,concept/eternity,concept/imagination,concept/nature,character/witch"></span>
 
 
 Concerning a Strange [[motifs/city|City]]

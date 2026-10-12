@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland"
+title: "The Crimes of England"
 author: "Chesterton"
 unitType: work
 parentWork: "works/thecrimesofengland-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/thecrimesofengland" data-author="Chesterton" data-workhref="works/thecrimesofengland-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="thecrimesofengland" data-title="TheCrimesOfEngland" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="thecrimesofengland" data-title="The Crimes of England" data-chapter="" data-kind="intro"></span>
 
 
 

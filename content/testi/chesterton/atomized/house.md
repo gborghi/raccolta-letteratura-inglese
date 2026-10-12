@@ -1,5 +1,5 @@
 ---
-title: "house"
+title: "The House of Christmas"
 author: "Chesterton"
 unitType: work
 parentWork: "works/house-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/house" data-author="Chesterton" data-workhref="works/house-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="house" data-title="house" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="house" data-title="The House of Christmas" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -68,7 +68,7 @@ e tutti gli uomini sono a [[motifs/home|casa]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="house (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/ship,concept/honour,concept/wonder,setting/ship"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The House of Christmas" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/ship,concept/honour,concept/wonder,setting/ship"></span>
 
 
 The House of Christmas  

@@ -1,5 +1,5 @@
 ---
-title: "gargoyles"
+title: "G.K. Chesterton"
 author: "Chesterton"
 unitType: work
 parentWork: "works/gargoyles-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/gargoyles" data-author="Chesterton" data-workhref="works/gargoyles-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="gargoyles" data-title="gargoyles" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="gargoyles" data-title="G.K. Chesterton" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -104,7 +104,7 @@ consacrazione della chiesa.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="gargoyles (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/innocent,motif/animals,motif/blood,motif/crown,motif/fire,motif/jewel,motif/night,motif/noon,motif/prayer,motif/stars,motif/time,motif/water,concept/beauty,concept/grotesque,concept/pride,setting/cathedral,character/witch"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="G.K. Chesterton — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/innocent,motif/animals,motif/blood,motif/crown,motif/fire,motif/jewel,motif/night,motif/noon,motif/prayer,motif/stars,motif/time,motif/water,concept/beauty,concept/grotesque,concept/pride,setting/cathedral,character/witch"></span>
 
 
 G.K. Chesterton
@@ -249,7 +249,7 @@ Ma questo grande disegno non fu mai compiuto a dovere. Il popolo aveva trasporta
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="gargoyles (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dawn,motif/decay,motif/memory,motif/noon,concept/beauty,concept/honour,concept/suicide,histref/christianity,setting/cathedral"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="G.K. Chesterton — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dawn,motif/decay,motif/memory,motif/noon,concept/beauty,concept/honour,concept/suicide,histref/christianity,setting/cathedral"></span>
 
 
 But the rich, who had grown riotous in the long peace,

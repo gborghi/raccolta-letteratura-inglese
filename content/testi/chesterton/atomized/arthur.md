@@ -1,5 +1,5 @@
 ---
-title: "arthur"
+title: "The Myth of Arthur"
 author: "Chesterton"
 unitType: work
 parentWork: "works/arthur-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/arthur" data-author="Chesterton" data-workhref="works/arthur-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="arthur" data-title="arthur" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="arthur" data-title="The Myth of Arthur" data-chapter="" data-kind="intro"></span>
 
 
 

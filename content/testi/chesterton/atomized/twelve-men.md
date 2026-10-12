@@ -1,5 +1,5 @@
 ---
-title: "twelve-men"
+title: "The Twelve Men"
 author: "Chesterton"
 unitType: work
 parentWork: "works/twelve-men-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/twelve-men" data-author="Chesterton" data-workhref="works/twelve-men-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="twelve-men" data-title="twelve-men" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="twelve-men" data-title="The Twelve Men" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -76,7 +76,7 @@ se ben ricordo, il Fondatore del [[historical-references/christianity|Cristianes
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="twelve-men (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/childhood,motif/dance,motif/death,motif/pain,motif/time,motif/well,concept/courage,concept/fear,concept/humility,concept/paradox,concept/truth,form/tragedy,setting/court"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Twelve Men — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/childhood,motif/dance,motif/death,motif/pain,motif/time,motif/well,concept/courage,concept/fear,concept/humility,concept/paradox,concept/truth,form/tragedy,setting/court"></span>
 
 
 THE TWELVE MEN
@@ -215,7 +215,7 @@ Ora, uno di questi quattro o cinque paradossi che si dovrebbero insegnare a ogni
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="twelve-men (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,concept/guilt,histref/christianity,setting/court"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Twelve Men — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,concept/guilt,histref/christianity,setting/court"></span>
 
 
 Now it is a terrible business to mark a man out for the vengeance of men.

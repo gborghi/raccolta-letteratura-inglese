@@ -1,5 +1,5 @@
 ---
-title: "new-omar"
+title: "The New Omar"
 author: "Chesterton"
 unitType: work
 parentWork: "works/new-omar-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/new-omar" data-author="Chesterton" data-workhref="works/new-omar-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="new-omar" data-title="new-omar" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="new-omar" data-title="The New Omar" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -31,7 +31,7 @@ oh, il Paradiso sarebbe Deserto a sufficienza.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="new-omar (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The New Omar" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet"></span>
 
 
 THE NEW OMAR  

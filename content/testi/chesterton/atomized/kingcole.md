@@ -1,5 +1,5 @@
 ---
-title: "kingcole"
+title: "Variations of an Air"
 author: "Chesterton"
 unitType: work
 parentWork: "works/kingcole-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/kingcole" data-author="Chesterton" data-workhref="works/kingcole-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="kingcole" data-title="kingcole" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="kingcole" data-title="Variations of an Air" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -89,7 +89,7 @@ A presto.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="kingcole (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/desire,motif/fire,motif/moon,motif/soul,motif/stars,motif/summer,motif/tears"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Variations of an Air" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/desire,motif/fire,motif/moon,motif/soul,motif/stars,motif/summer,motif/tears"></span>
 
 
 Variations of an Air  

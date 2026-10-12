@@ -1,5 +1,5 @@
 ---
-title: "aristocrat"
+title: "The Aristocrat"
 author: "Chesterton"
 unitType: work
 parentWork: "works/aristocrat-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/aristocrat" data-author="Chesterton" data-workhref="works/aristocrat-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="aristocrat" data-title="aristocrat" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="aristocrat" data-title="The Aristocrat" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -49,7 +49,7 @@ Perché il Diavolo è un gentiluomo. E non mantiene mai le sue promesse.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="aristocrat (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/fool,motif/crown,motif/love,motif/pain,motif/stars"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Aristocrat" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/fool,motif/crown,motif/love,motif/pain,motif/stars"></span>
 
 
 The Aristocrat  

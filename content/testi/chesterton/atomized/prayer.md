@@ -1,5 +1,5 @@
 ---
-title: "prayer"
+title: "A Prayer in Darkness"
 author: "Chesterton"
 unitType: work
 parentWork: "works/prayer-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/prayer" data-author="Chesterton" data-workhref="works/prayer-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="prayer" data-title="prayer" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="prayer" data-title="A Prayer in Darkness" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -43,7 +43,7 @@ udì tutti i grilli cantare, e ne fu lieto.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="prayer (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/grave,motif/night,motif/prayer,motif/silence,motif/stars,motif/tears,concept/madness"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Prayer in Darkness" data-chapter="part 01" data-kind="excerpt" data-tags="motif/grave,motif/night,motif/prayer,motif/silence,motif/stars,motif/tears,concept/madness"></span>
 
 
 A [[motifs/prayer|Prayer]] in Darkness  

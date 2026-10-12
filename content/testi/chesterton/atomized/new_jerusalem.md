@@ -1,5 +1,5 @@
 ---
-title: "New Jerusalem"
+title: "The New Jerusalem"
 author: "Chesterton"
 unitType: work
 parentWork: "works/new-jerusalem-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/new_jerusalem" data-author="Chesterton" data-workhref="works/new-jerusalem-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="new_jerusalem" data-title="New Jerusalem" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="new_jerusalem" data-title="The New Jerusalem" data-chapter="" data-kind="intro"></span>
 
 
 THE NEW JERUSALEM 

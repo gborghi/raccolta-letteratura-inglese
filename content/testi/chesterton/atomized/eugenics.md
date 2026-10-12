@@ -1,5 +1,5 @@
 ---
-title: "Eugenics"
+title: "Eugenics and Other Evils"
 author: "Chesterton"
 unitType: work
 parentWork: "works/eugenics-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/eugenics" data-author="Chesterton" data-workhref="works/eugenics-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="eugenics" data-title="Eugenics" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="eugenics" data-title="Eugenics and Other Evils" data-chapter="" data-kind="intro"></span>
 
 
 [[concepts/eugenics|Eugenics]] and Other Evils

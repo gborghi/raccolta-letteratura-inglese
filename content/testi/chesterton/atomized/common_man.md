@@ -1,5 +1,5 @@
 ---
-title: "Common Man"
+title: "The Common Man"
 author: "Chesterton"
 unitType: work
 parentWork: "works/common-man-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/common_man" data-author="Chesterton" data-workhref="works/common-man-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="common_man" data-title="Common Man" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="common_man" data-title="The Common Man" data-chapter="" data-kind="intro"></span>
 
 
 THE [[concepts/common-man|COMMON MAN]]

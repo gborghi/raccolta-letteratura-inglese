@@ -1,5 +1,5 @@
 ---
-title: "morality"
+title: "Negative and Positive Morality"
 author: "Chesterton"
 unitType: work
 parentWork: "works/morality-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/morality" data-author="Chesterton" data-workhref="works/morality-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="morality" data-title="morality" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="morality" data-title="Negative and Positive Morality" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -36,7 +36,7 @@ Quando le nostre speranze per il [[motifs/time|tempo]] che viene appaiono turbat
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="morality (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/ship,motif/soul,motif/time,motif/well,concept/charity,concept/despair,concept/faith,concept/fear,concept/hope,concept/humility,concept/reform,concept/truth,setting/london,setting/ship"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Negative and Positive Morality" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/ship,motif/soul,motif/time,motif/well,concept/charity,concept/despair,concept/faith,concept/fear,concept/hope,concept/humility,concept/reform,concept/truth,setting/london,setting/ship"></span>
 
 
 Negative and Positive Morality

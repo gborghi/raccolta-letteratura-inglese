@@ -1,5 +1,5 @@
 ---
-title: "THE HISTORY OF SPIRITUALISM VOLUME I"
+title: "The History of Spiritualism, Volume I"
 author: "Conan Doyle"
 unitType: work
 parentWork: "works/the-history-of-spiritualism,-volume-i-(conan-doyle)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/conan_doyle/atomized/the_history_of_spiritualism_volume_i" data-author="Conan Doyle" data-workhref="works/the-history-of-spiritualism,-volume-i-(conan-doyle)"></div>
 
 
-<span class="atom-split" data-atom="the_history_of_spiritualism_volume_i" data-title="THE HISTORY OF SPIRITUALISM VOLUME I" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="the_history_of_spiritualism_volume_i" data-title="The History of Spiritualism, Volume I" data-chapter="" data-kind="intro"></span>
 
 
 THE HISTORY OF [[concepts/spiritualism|SPIRITUALISM]] VOLUME

@@ -1,5 +1,5 @@
 ---
-title: "donkey"
+title: "The Donkey"
 author: "Chesterton"
 unitType: work
 parentWork: "works/donkey-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/donkey" data-author="Chesterton" data-workhref="works/donkey-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="donkey" data-title="donkey" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="donkey" data-title="The Donkey" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -43,7 +43,7 @@ e palme davanti ai miei piedi.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="donkey (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/moon,form/parody"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Donkey" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/moon,form/parody"></span>
 
 
 The Donkey  

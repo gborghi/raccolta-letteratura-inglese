@@ -1,5 +1,5 @@
 ---
-title: "Victorian Age"
+title: "The Victorian Age in Literature"
 author: "Chesterton"
 unitType: work
 parentWork: "works/victorian-age-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/victorian_age" data-author="Chesterton" data-workhref="works/victorian-age-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="victorian_age" data-title="Victorian Age" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="victorian_age" data-title="The Victorian Age in Literature" data-chapter="" data-kind="intro"></span>
 
 
 

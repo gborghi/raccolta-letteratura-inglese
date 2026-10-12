@@ -21,7 +21,7 @@ const outPath = path.join(OUT, "static", "contentIndexMobile.json")
 const MOBILE_TARGET = 8_000_000 // bytes; mobile contentIndexMobile.json budget
 const LINK_CAP = 20 // keep up to N links/entry so the GRAPH still works on mobile
 // (works have ~10 links; only huge aggregator hubs get trimmed)
-const FIELDS = ["slug", "title", "tags", "links"]
+const FIELDS = ["slug", "title", "tags", "links", "noindex"]
 
 if (!fs.existsSync(masterPath)) {
   console.error(

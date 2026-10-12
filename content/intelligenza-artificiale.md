@@ -1,5 +1,5 @@
 ---
-title: Intelligenza artificiale
+title: AI / Intelligenza artificiale
 description: Questa interfaccia e le traduzioni italiane sono state realizzate con l'intelligenza artificiale.
 ---
 

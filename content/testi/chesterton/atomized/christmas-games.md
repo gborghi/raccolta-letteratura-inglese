@@ -1,5 +1,5 @@
 ---
-title: "christmas-games"
+title: "Christmas and the First Games"
 author: "Chesterton"
 unitType: work
 parentWork: "works/christmas-games-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/christmas-games" data-author="Chesterton" data-workhref="works/christmas-games-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="christmas-games" data-title="christmas-games" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="christmas-games" data-title="Christmas and the First Games" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -91,7 +91,7 @@ numero dei professori rimpiange di non aver imitato il contadino.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="christmas-games (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/innocent,motif/cave,motif/dreams,motif/night,concept/history,concept/imagination,form/history"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Christmas and the First Games — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/innocent,motif/cave,motif/dreams,motif/night,concept/history,concept/imagination,form/history"></span>
 
 
 Christmas and the First Games
@@ -202,7 +202,7 @@ Il principio sovversivo può essere applicato a quasi ogni gioco infantile; si p
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="christmas-games (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/animals,motif/nature,motif/night,concept/nature,concept/truth"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Christmas and the First Games — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="motif/animals,motif/nature,motif/night,concept/nature,concept/truth"></span>
 
 
 The two or three truths, of which my uncle's hypothesis is at

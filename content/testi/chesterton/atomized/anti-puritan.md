@@ -1,5 +1,5 @@
 ---
-title: "anti-puritan"
+title: "A Ballade Of An Anti-puritan"
 author: "Chesterton"
 unitType: work
 parentWork: "works/anti-puritan-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/anti-puritan" data-author="Chesterton" data-workhref="works/anti-puritan-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="anti-puritan" data-title="anti-puritan" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="anti-puritan" data-title="A Ballade Of An Anti-puritan" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -54,7 +54,7 @@ qualcuno mi porti in un pub?
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="anti-puritan (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/rose,concept/hope"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Ballade Of An Anti-puritan" data-chapter="part 01" data-kind="excerpt" data-tags="motif/rose,concept/hope"></span>
 
 
 A Ballade Of An Anti-puritan  

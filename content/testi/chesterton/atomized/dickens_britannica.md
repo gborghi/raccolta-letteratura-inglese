@@ -1,5 +1,5 @@
 ---
-title: "dickens Britannica"
+title: "Charles Dickens (Encyclopaedia Britannica)"
 author: "Chesterton"
 unitType: work
 parentWork: "works/dickens-britannica-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/dickens_britannica" data-author="Chesterton" data-workhref="works/dickens-britannica-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="dickens_britannica" data-title="dickens Britannica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="dickens_britannica" data-title="Charles Dickens (Encyclopaedia Britannica)" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -65,7 +65,7 @@ Copyright (c) 1997 Encyclopaedia Britannica, Inc.  All Rights Reserved
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="dickens Britannica (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/grave,motif/hill,motif/journey,motif/machine,motif/memory,motif/mirror,motif/nature,motif/prison,motif/road,motif/rose,motif/time,motif/uncanny,motif/well,concept/imagination,concept/nature,concept/truth,concept/uncanny,form/satire,setting/cathedral,setting/london,character/david_copperfield,character/edwin_drood,character/jones,character/kent,character/othello"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Charles Dickens (Encyclopaedia Britannica) — part 1 of 7" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/grave,motif/hill,motif/journey,motif/machine,motif/memory,motif/mirror,motif/nature,motif/prison,motif/road,motif/rose,motif/time,motif/uncanny,motif/well,concept/imagination,concept/nature,concept/truth,concept/uncanny,form/satire,setting/cathedral,setting/london,character/david_copperfield,character/edwin_drood,character/jones,character/kent,character/othello"></span>
 
 
 Chesterton was, among very many other things, a literary critic
@@ -203,7 +203,7 @@ Non poteva avere neppure dieci anni quando la famiglia fu di nuovo in marcia. Jo
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="dickens Britannica (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/home,motif/love,motif/marriage,motif/time,motif/well,concept/friendship,concept/poverty,concept/self,form/epic,character/nathaniel_winkle"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Charles Dickens (Encyclopaedia Britannica) — part 2 of 7" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/home,motif/love,motif/marriage,motif/time,motif/well,concept/friendship,concept/poverty,concept/self,form/epic,character/nathaniel_winkle"></span>
 
 
 Indeed he had come in more ways than one to the high turning-point
@@ -320,7 +320,7 @@ Come [[works/pickwick-(chesterton)|Pickwick]] fu il fondamento della sua vita pu
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="dickens Britannica (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/love,motif/prison,motif/tears,motif/time,motif/well,concept/ambition,concept/despair,concept/vanity,form/comedy,form/melodrama,form/tragedy,character/hamlet,character/nicholas_nickleby,character/oliver,character/oliver_twist,character/ralph_nickleby,character/sam_weller,character/vincent_crummles"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Charles Dickens (Encyclopaedia Britannica) — part 3 of 7" data-chapter="part 03" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/love,motif/prison,motif/tears,motif/time,motif/well,concept/ambition,concept/despair,concept/vanity,form/comedy,form/melodrama,form/tragedy,character/hamlet,character/nicholas_nickleby,character/oliver,character/oliver_twist,character/ralph_nickleby,character/sam_weller,character/vincent_crummles"></span>
 
 
 It is notable that his next work was [[characters/oliver-twist|Oliver Twist]] (1838); which might
@@ -437,7 +437,7 @@ Sia che chiamiamo il passaggio da [[works/pickwick-(chesterton)|Pickwick]] a [[c
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="dickens Britannica (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="topos/double,archetype/detective,archetype/shadow,motif/clock,motif/desire,motif/time,motif/well,concept/ambition,concept/democracy,concept/doubt,form/comedy,form/historical_novel,form/novel,histref/america,setting/america,character/barnaby_rudge,character/dwarf,character/edwin_drood,character/little_nell,character/marchioness,character/martin_chuzzlewit,character/nicholas_nickleby,character/oliver_twist"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Charles Dickens (Encyclopaedia Britannica) — part 4 of 7" data-chapter="part 04" data-kind="excerpt" data-tags="topos/double,archetype/detective,archetype/shadow,motif/clock,motif/desire,motif/time,motif/well,concept/ambition,concept/democracy,concept/doubt,form/comedy,form/historical_novel,form/novel,histref/america,setting/america,character/barnaby_rudge,character/dwarf,character/edwin_drood,character/little_nell,character/marchioness,character/martin_chuzzlewit,character/nicholas_nickleby,character/oliver_twist"></span>
 
 
 Nevertheless, this pretence of providing for all tastes,
@@ -570,7 +570,7 @@ Tutti questi primi libri di Dickens, da [[works/pickwick-(chesterton)|Pickwick]]
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="dickens Britannica (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/home,motif/mirror,motif/time,motif/well,motif/window,concept/exile,concept/individualism,concept/providence,concept/wonder,form/biography,form/novel,form/satire,setting/london,character/chorus,character/david_copperfield,character/little_nell,character/martin_chuzzlewit,character/nicholas_nickleby,character/puck"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Charles Dickens (Encyclopaedia Britannica) — part 5 of 7" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/home,motif/mirror,motif/time,motif/well,motif/window,concept/exile,concept/individualism,concept/providence,concept/wonder,form/biography,form/novel,form/satire,setting/london,character/chorus,character/david_copperfield,character/little_nell,character/martin_chuzzlewit,character/nicholas_nickleby,character/puck"></span>
 
 
 At this point there is a break in the life of Dickens,
@@ -689,7 +689,7 @@ Vi è tutta la differenza, tra la vita e le avventure di [[characters/david-copp
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="dickens Britannica (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,archetype/hero,motif/death,motif/hill,motif/home,motif/nature,motif/road,motif/soul,motif/tears,motif/time,concept/courage,concept/history,concept/imagination,concept/mercy,concept/nature,form/history,form/novel,form/tragedy,histref/america,histref/christianity,setting/america,character/christ,character/david_copperfield,character/edwin_drood,character/kent"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Charles Dickens (Encyclopaedia Britannica) — part 6 of 7" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,archetype/hero,motif/death,motif/hill,motif/home,motif/nature,motif/road,motif/soul,motif/tears,motif/time,concept/courage,concept/history,concept/imagination,concept/mercy,concept/nature,form/history,form/novel,form/tragedy,histref/america,histref/christianity,setting/america,character/christ,character/david_copperfield,character/edwin_drood,character/kent"></span>
 
 
 The stretch of stories following on [[characters/david-copperfield|David Copperfield]],
@@ -834,7 +834,7 @@ L'accusa di esagerazione è essa stessa esagerata. Ed è pure, cosa assai più i
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="dickens Britannica (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/monster,motif/memory,motif/time,motif/well,concept/greed,concept/history,concept/honour,concept/imprisonment,concept/madness,concept/poverty,concept/reform,concept/suffering,concept/truth,form/history,form/satire,form/tragedy,histref/america,setting/america,setting/london,character/kent,character/nurse"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="Charles Dickens (Encyclopaedia Britannica) — part 7 of 7" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/monster,motif/memory,motif/time,motif/well,concept/greed,concept/history,concept/honour,concept/imprisonment,concept/madness,concept/poverty,concept/reform,concept/suffering,concept/truth,form/history,form/satire,form/tragedy,histref/america,setting/america,setting/london,character/kent,character/nurse"></span>
 
 
 There were other reasons for the injustice in the particular

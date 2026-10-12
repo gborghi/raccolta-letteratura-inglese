@@ -53,6 +53,9 @@ rm -rf "$pub"
 NODE_OPTIONS="--max-old-space-size=6144" node quartz/bootstrap-cli.mjs build
 dropbox_ignore "$pub"   # re-mark: Quartz rm's + recreates the output dir, dropping the xattr
 
+echo "==> Thin pages noindex + redirects"
+node scripts/postbuild-pages.mjs "$pub" "$root/content"
+
 # 4. Post-build chain (same order as CI, .github/workflows/deploy.yml):
 echo "==> Injecting atom search entries"
 node scripts/inject-atom-search.mjs

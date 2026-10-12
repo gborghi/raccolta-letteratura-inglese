@@ -1,5 +1,5 @@
 ---
-title: "Divorce Democracy"
+title: "Divorce versus Democracy"
 author: "Chesterton"
 unitType: work
 parentWork: "works/divorce-democracy-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/divorce_democracy" data-author="Chesterton" data-workhref="works/divorce-democracy-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="divorce_democracy" data-title="Divorce Democracy" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="divorce_democracy" data-title="Divorce versus Democracy" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -61,7 +61,7 @@ Il principio sostenuto dal popolo, contro il quale questa cospirazione plutocrat
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Divorce Democracy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/conscience,concept/democracy,concept/despair,concept/nature,concept/reform,concept/self,concept/slavery,form/essay,form/tragedy,histref/french_revolution"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Divorce versus Democracy — part 1 of 3" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/conscience,concept/democracy,concept/despair,concept/nature,concept/reform,concept/self,concept/slavery,form/essay,form/tragedy,histref/french_revolution"></span>
 
 
 1916
@@ -224,7 +224,7 @@ Vi è un'obiezione enorme ed elementare al rendere popolare il divorzio, che pre
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Divorce Democracy (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/marriage,motif/prayer,motif/prison,motif/well,concept/democracy,concept/doubt,concept/madness,concept/poverty,concept/self,setting/court"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Divorce versus Democracy — part 2 of 3" data-chapter="part 02" data-kind="excerpt" data-tags="motif/marriage,motif/prayer,motif/prison,motif/well,concept/democracy,concept/doubt,concept/madness,concept/poverty,concept/self,setting/court"></span>
 
 
 [[motifs/well|Well]], the Poor Man's Divorce Law will be applied exactly as all
@@ -336,7 +336,7 @@ Ma questo criterio della crudeltà tecnica, che è grossolano ma spiccio applica
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Divorce Democracy (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/city,motif/death,motif/decay,motif/fire,motif/love,motif/marriage,motif/memory,motif/nature,motif/prayer,motif/soul,motif/well,concept/body,concept/democracy,concept/despair,concept/doubt,concept/freedom,concept/honour,concept/nature,concept/wonder,form/parable,form/tragedy,histref/america,setting/america,character/benedick,character/monks,character/nurse"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Divorce versus Democracy — part 3 of 3" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/city,motif/death,motif/decay,motif/fire,motif/love,motif/marriage,motif/memory,motif/nature,motif/prayer,motif/soul,motif/well,concept/body,concept/democracy,concept/despair,concept/doubt,concept/freedom,concept/honour,concept/nature,concept/wonder,form/parable,form/tragedy,histref/america,setting/america,character/benedick,character/monks,character/nurse"></span>
 
 
 It is common to meet nowadays men who talk of what they call Free [[motifs/love|Love]]

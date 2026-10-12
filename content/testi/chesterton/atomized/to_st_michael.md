@@ -1,5 +1,5 @@
 ---
-title: "to_st_michael"
+title: "To St. Michael in Time of Peace"
 author: "Chesterton"
 unitType: work
 parentWork: "works/to-st-michael-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/to_st_michael" data-author="Chesterton" data-workhref="works/to-st-michael-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="to_st_michael" data-title="to_st_michael" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="to_st_michael" data-title="To St. Michael in Time of Peace" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -82,7 +82,7 @@ Ciò che non si spezza è la parola.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="to_st_michael (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/time,concept/honour,setting/mountains,character/michael"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="To St. Michael in Time of Peace" data-chapter="part 01" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/time,concept/honour,setting/mountains,character/michael"></span>
 
 
 # to st [[characters/michael|michael]]

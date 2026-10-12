@@ -1,5 +1,5 @@
 ---
-title: "ascetic"
+title: "THE SONG of the STRANGE ASCETIC"
 author: "Chesterton"
 unitType: work
 parentWork: "works/ascetic-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/ascetic" data-author="Chesterton" data-workhref="works/ascetic-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="ascetic" data-title="ascetic" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="ascetic" data-title="THE SONG of the STRANGE ASCETIC" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -67,7 +67,7 @@ e non vogliono avere lo spasso.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="ascetic (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,concept/faith,form/riddle"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THE SONG of the STRANGE ASCETIC" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,concept/faith,form/riddle"></span>
 
 
 THE SONG OF THE STRANGE ASCETIC  

@@ -1,5 +1,5 @@
 ---
-title: "unknown-warrior"
+title: "TO the UNKNOWN WARRIOR"
 author: "Chesterton"
 unitType: work
 parentWork: "works/unknown-warrior-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/unknown-warrior" data-author="Chesterton" data-workhref="works/unknown-warrior-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="unknown-warrior" data-title="unknown-warrior" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="unknown-warrior" data-title="TO the UNKNOWN WARRIOR" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -47,7 +47,7 @@ che da solo sconfisse la Pubblicità.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="unknown-warrior (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/dance,motif/storm,motif/time,setting/castle"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="TO the UNKNOWN WARRIOR" data-chapter="part 01" data-kind="excerpt" data-tags="motif/dance,motif/storm,motif/time,setting/castle"></span>
 
 
 TO THE UNKNOWN WARRIOR  

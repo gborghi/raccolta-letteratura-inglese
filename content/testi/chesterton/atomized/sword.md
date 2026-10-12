@@ -1,5 +1,5 @@
 ---
-title: "Sword"
+title: "The Sword of Wood"
 author: "Chesterton"
 unitType: work
 parentWork: "works/sword-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/sword" data-author="Chesterton" data-workhref="works/sword-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="sword" data-title="Sword" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sword" data-title="The Sword of Wood" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -439,7 +439,7 @@ per sempre dalla vista degli uomini; e Tryon non poté vedere altro che la picco
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Sword (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/cross,motif/dance,motif/lion,motif/road,motif/time,motif/well,motif/wind,concept/melancholy,form/comedy,form/fable,histref/milton,setting/london,character/milton,character/orlando,character/witch"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Sword of Wood — part 1 of 5" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/cross,motif/dance,motif/lion,motif/road,motif/time,motif/well,motif/wind,concept/melancholy,form/comedy,form/fable,histref/milton,setting/london,character/milton,character/orlando,character/witch"></span>
 
 
 THE SWORD OF WOOD [1928]
@@ -574,7 +574,7 @@ Una giovane dama passava in fretta rasente l'alta siepe che era quasi antica qua
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Sword (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/autumn,motif/death,motif/lightning,motif/nature,motif/road,motif/spring,motif/supernatural,motif/time,motif/wind,concept/beauty,concept/honour,concept/mercy,concept/nature,histref/milton,setting/london,character/buckingham,character/milton"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Sword of Wood — part 2 of 5" data-chapter="part 02" data-kind="excerpt" data-tags="motif/autumn,motif/death,motif/lightning,motif/nature,motif/road,motif/spring,motif/supernatural,motif/time,motif/wind,concept/beauty,concept/honour,concept/mercy,concept/nature,histref/milton,setting/london,character/buckingham,character/milton"></span>
 
 
 Tryon turned again to look back on his tracks; and this [[motifs/time|time]] saw
@@ -795,7 +795,7 @@ o (come suona la più timida frase moderna) un pessimo sportivo.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Sword (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/flowers,motif/lion,motif/road,motif/time,motif/wind,motif/window,concept/ambition,concept/despair,concept/doubt,character/christ,character/queen"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Sword of Wood — part 3 of 5" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/flowers,motif/lion,motif/road,motif/time,motif/wind,motif/window,concept/ambition,concept/despair,concept/doubt,character/christ,character/queen"></span>
 
 
 He acted suddenly in a way adapted to either case.  He introduced
@@ -1017,7 +1017,7 @@ sono uguali in tutte le epoche, e uno dei loro sport è il culto dell'[[archetyp
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Sword (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/dawn,motif/river,motif/road,motif/time,motif/well,concept/courage,concept/doubt,setting/court,setting/london,character/king_of_france,character/satan,character/witch"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Sword of Wood — part 4 of 5" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/dawn,motif/river,motif/road,motif/time,motif/well,concept/courage,concept/doubt,setting/court,setting/london,character/king_of_france,character/satan,character/witch"></span>
 
 
 The next and yet more fascinating fact was Sir Guy.
@@ -1255,7 +1255,7 @@ gettato alla fine.
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Sword (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/silence,motif/time,concept/wonder,character/witch"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Sword of Wood — part 5 of 5" data-chapter="part 05" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/silence,motif/time,concept/wonder,character/witch"></span>
 
 
 Then stood up for an instant in the stormy light, that rare but

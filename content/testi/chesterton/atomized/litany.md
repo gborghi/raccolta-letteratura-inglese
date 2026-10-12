@@ -1,5 +1,5 @@
 ---
-title: "litany"
+title: "A Little Litany"
 author: "Chesterton"
 unitType: work
 parentWork: "works/litany-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/litany" data-author="Chesterton" data-workhref="works/litany-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="litany" data-title="litany" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="litany" data-title="A Little Litany" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -53,7 +53,7 @@ e baciò sulla vostra bocca la mistica [[motifs/rose|rosa]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="litany (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/ghosts,motif/mirror,motif/night,motif/rose,motif/time,concept/body,concept/eternity,concept/mercy,form/litany"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Little Litany" data-chapter="part 01" data-kind="excerpt" data-tags="motif/ghosts,motif/mirror,motif/night,motif/rose,motif/time,concept/body,concept/eternity,concept/mercy,form/litany"></span>
 
 
 A LITTLE [[forms/litany|LITANY]]  

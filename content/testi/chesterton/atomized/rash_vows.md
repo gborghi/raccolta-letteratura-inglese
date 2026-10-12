@@ -1,5 +1,5 @@
 ---
-title: "rash_vows"
+title: "A Defence of Rash Vows"
 author: "Chesterton"
 unitType: work
 parentWork: "works/rash-vows-(chesterton)"
@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/rash_vows" data-author="Chesterton" data-workhref="works/rash-vows-(chesterton)"></div>
 
 
-<span class="atom-split" data-atom="rash_vows" data-title="rash_vows" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="rash_vows" data-title="A Defence of Rash Vows" data-chapter="" data-kind="intro"></span>
 
 
 
@@ -175,7 +175,7 @@ si leverà dal porto ad annunciare che il regno dei codardi
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="rash_vows (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,motif/city,motif/leaves,motif/night,motif/pain,motif/time,concept/freedom,concept/imagination,setting/mountains"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Defence of Rash Vows — part 1 of 2" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,motif/city,motif/leaves,motif/night,motif/pain,motif/time,concept/freedom,concept/imagination,setting/mountains"></span>
 
 
 # rash vows
@@ -367,7 +367,7 @@ questa è la ghignante tirannia della decadenza che si chiama [[concepts/freedom
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="rash_vows (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/desire,motif/flag,motif/love,motif/marriage,motif/moon,motif/soul,motif/stars,concept/aspiration,concept/greatness,concept/immortality,concept/self,concept/suicide,concept/truth,setting/mountains"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="A Defence of Rash Vows — part 2 of 2" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/desire,motif/flag,motif/love,motif/marriage,motif/moon,motif/soul,motif/stars,concept/aspiration,concept/greatness,concept/immortality,concept/self,concept/suicide,concept/truth,setting/mountains"></span>
 
 
 Let us turn, on the other hand, to the maker of vows.
