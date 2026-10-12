@@ -3102,7 +3102,7 @@ Letter, 1832.
 (Nubes 315, 317.)  
 μεγάλαι θεαὶ ἀνδράσιν ἀργοῖς,  
 αἵπερ γνώμην καὶ διάλεξιν καὶ νοῦν ἡμῖν παρέχουσι  
-καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ καταληψιν.  
+καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ κατάληψιν.  
 For the ancients . . . had their glittering VAPORS, which (as the comic  
 poet tells us) fed a host of sophists.  
 Great goddesses are they to lazy folks,  
@@ -3125,7 +3125,7 @@ Can therefore never be again ——
 (Nubes 315, 317.)  
 μεγάλαι θεαὶ ἀνδράσιν ἀργοῖς,  
 αἵπερ γνώμην καὶ διάλεξιν καὶ νοῦν ἡμῖν παρέχουσι  
-καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ καταληψιν.  
+καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ κατάληψιν.  
 Ché gli antichi . . . avevano i loro scintillanti VAPORI, che (come ci dice il poeta  
 comico) nutrivano una schiera di sofisti.  
 Grandi dee sono esse per la gente pigra,  

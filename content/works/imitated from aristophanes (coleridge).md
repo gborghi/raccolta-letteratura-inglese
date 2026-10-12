@@ -32,7 +32,7 @@ tags:
 (Nubes 315, 317.)  
 μεγάλαι θεαὶ ἀνδράσιν ἀργοῖς,  
 αἵπερ γνώμην καὶ διάλεξιν καὶ νοῦν ἡμῖν παρέχουσι  
-καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ καταληψιν.  
+καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ κατάληψιν.  
 For the ancients . . . had their glittering VAPORS, which (as the comic  
 poet tells us) fed a host of sophists.  
 Great goddesses are they to lazy folks,  
