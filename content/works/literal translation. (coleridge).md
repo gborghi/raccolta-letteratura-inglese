@@ -38,7 +38,7 @@ on thy dark pinions over the swelling of Ocean they return to their
 native country. There by the side of fountains beneath Citron groves,  
 the Lovers tell to their Beloved, what horrors, being Men, they had  
 endured from Men.  
-¿ before ¶ ought to have been made long; ´¿ÑÂ QÀM¶ is  
+ο before ζ ought to have been made long; δοῑς ὑπōζ is  
 an Amphimacer not (as the metre here requires) a Dactyl. S.  
 T. C.  
 more naturally interpreted with a very false and dangerous one. But I  

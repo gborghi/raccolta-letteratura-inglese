@@ -193,7 +193,7 @@ on thy dark pinions over the swelling of Ocean they return to their
 native country. There by the side of fountains beneath Citron groves,  
 the Lovers tell to their Beloved, what horrors, being Men, they had  
 endured from Men.  
-¿ before ¶ ought to have been made long; ´¿ÑÂ QÀM¶ is  
+ο before ζ ought to have been made long; δοῑς ὑπōζ is  
 an Amphimacer not (as the metre here requires) a Dactyl. S.  
 T. C.  
 more naturally interpreted with a very false and dangerous one. But I  
@@ -365,7 +365,7 @@ sulle tue ali oscure sopra il gonfiarsi dell'Oceano, essi tornano al
 paese natio. Là, presso le fonti sotto boschetti di cedri,  
 gli Amanti raccontano alle loro Amate quali orrori, essendo Uomini, avevano  
 patito dagli Uomini.  
-¿ prima di ¶ avrebbe dovuto essere reso lungo; ´¿ÑÂ QÀM¶ è  
+ο prima di ζ avrebbe dovuto essere reso lungo; δοῑς ὑπōζ è  
 un Anfimacro e non (come il metro qui richiede) un Dattilo. S.  
 T. C.  
 interpretato più naturalmente con uno assai falso e pericoloso. Ma io  
