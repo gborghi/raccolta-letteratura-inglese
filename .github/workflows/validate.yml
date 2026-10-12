@@ -27,9 +27,12 @@ jobs:
         run: npm ci
       - name: Restore Quartz plugins
         run: npx quartz plugin restore
-      - name: Mojibake check (warning only until the vault fixes land)
-        # Set MOJIBAKE_STRICT: "1" here to make it fail the build (Clio's QA plan §2).
+      - name: Mojibake check (strict)
+        # Fails the build on any garbled Latin/Greek or U+FFFD in content/ (Clio's QA plan §2;
+        # strict since 2026-10-12 once the vault fixes reached 0). Set "0" to downgrade to warnings.
         run: node scripts/check-mojibake.mjs content
+        env:
+          MOJIBAKE_STRICT: "1"
       - name: Build Quartz
         run: npx quartz build
         env:
