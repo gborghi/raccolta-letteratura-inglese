@@ -6,7 +6,13 @@ import fs from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 
-export const MOJIBAKE = /Ã[^\s]|â€|Â£|\uFFFD/g
+// Latin (plan §2): Ã<non-space> | â€ | Â£ | U+FFFD.
+// Greek read as Latin-1/cp1252, two shapes:
+//  - lead byte kept: "Î±Î¼" / "Ï€" -> [ÎÏ] followed by a C1/Latin-1 continuation char;
+//  - lead byte lost (legacy Greek font, Kubla Khan "£±¼µÁ¿½"): a run of 3+ chars from
+//    £ ± ² ³ ´ µ ¶ ¸ ¹ º » ¼ ½ ¾ ¿ À–É (U+00B7 · excluded: "······" is a real dot leader).
+export const GREEK_MOJIBAKE = /[ÎÏ][\u0080-\u00BF]|[\u00A3\u00B1-\u00B6\u00B8-\u00C9]{3,}/g
+export const MOJIBAKE = new RegExp(/Ã[^\s]|â€|Â£|\uFFFD/.source + "|" + GREEK_MOJIBAKE.source, "g")
 
 export function scan(dir) {
   const hits = []
