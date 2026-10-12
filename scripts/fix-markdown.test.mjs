@@ -25,3 +25,15 @@ test("frontmatter untouched + idempotent", () => {
   assert.equal(f(s), "---\ntitle: \"** x **\"\n---\n**a,**  b\n")
   assert.equal(f(f(s)), f(s))
 })
+test("stray [ before a link never ends up in the target", () => {
+  assert.equal(
+    f("says.  [[[characters/lord-darlington\\|LORD DARLINGTON]] crosses R.C.]  No"),
+    "says.  &#91;[[characters/lord-darlington\\|LORD DARLINGTON]] crosses R.C.]  No",
+  )
+  assert.ok(!f("[[[[motifs/x|X]]").includes("[[["))
+  assert.equal(f("a [[motifs/[time|Time]] b"), "a [[motifs/time|Time]] b")
+  assert.equal(f("[[[forms/epigram|Epigram"), "Epigram")
+  const s = "x [[[motifs/home|Home]] y"
+  assert.equal(f(f(s)), f(s))
+  assert.ok(!/\[\[[^\]|]*\[/.test(f("[[ [[[a|b]]")))
+})

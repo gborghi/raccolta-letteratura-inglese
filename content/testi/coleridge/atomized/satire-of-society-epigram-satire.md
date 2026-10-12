@@ -1733,7 +1733,7 @@ They buried him in overhaste —
 Into the earth he has been cast,  
 And in this [[motifs/grave|grave]],  
 Before the man had breathed his last.  
-1799. First published from an MS. in 1893. An expansion of [[[forms/epigram|Epigram]]] No.
+1799. First published from an MS. in 1893. An expansion of &#91;[[forms/epigram|Epigram]]] No.
 12.  
 
 
@@ -1747,7 +1747,7 @@ lo seppellirono con troppa fretta —
 nella terra è stato gettato,  
 e in questa [[motifs/grave|tomba]],  
 prima che l’uomo avesse esalato l’ultimo respiro.  
-1799. Pubblicato per la prima volta da un MS. nel 1893. Ampliamento dell’[[[Epigram|[Epigramma]]] n.
+1799. Pubblicato per la prima volta da un MS. nel 1893. Ampliamento dell’&#91;[[Epigram|[Epigramma]]] n.
 12.
 
 

@@ -1330,7 +1330,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. You must remember, as you said yourself, you have had so few advantages. |
 | MRS | ALLONBY. [[characters/lord-illingworth\|Lord Illingworth]], I want to speak to you for a moment. Do come over. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Will you excuse me, Mrs. Arbuthnot? Now, don’t let your charming mother make any more difficulties, Gerald. The thing is quite settled, isn’t it? |
-| GERALD | I [[concepts/hope\|hope]] so. [[[characters/lord-illingworth\|LORD ILLINGWORTH]] goes across to MRS.<br>ARBUTHNOT.] |
+| GERALD | I [[concepts/hope\|hope]] so. &#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] goes across to MRS.<br>ARBUTHNOT.] |
 | MRS | ALLONBY. I thought you were never going to leave the lady in black velvet. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | She is excessively handsome. [Looks at MRS.<br>ARBUTHNOT.] |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Caroline, shall we all make a move to the music- room? Miss Worsley is going to play. You’ll come too, dear Mrs. Arbuthnot, won’t you? You don’t know what a treat is in store for you. [To DOCTOR DAUBENY.] I must really take Miss Worsley down some afternoon to the rectory. I should so much like dear Mrs. Daubeny to hear her on the violin. Ah, I forgot. Dear Mrs. Daubeny’s hearing is a little defective, is it not?<br>THE ARCHDEACON. Her deafness is a great privation to her. She can’t even hear my sermons now. She reads them at [[motifs/home\|home]]. But she has many resources in herself, many resources. |
@@ -1353,7 +1353,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | MRS | ARBUTHNOT. Devi ricordare, come hai detto tu stesso, che hai avuto ben pochi vantaggi. |
 | MRS | ALLONBY. [[characters/lord-illingworth\|Lord Illingworth]], vorrei parlarle un momento. Venga qui. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Vuole scusarmi, signora Arbuthnot? Su, non lasci che la sua incantevole madre sollevi altre difficoltà, Gerald. La cosa è del tutto decisa, non è vero? |
-| GERALD | [[concepts/hope\|Lo spero]]. [[[characters/lord-illingworth\|LORD ILLINGWORTH]] attraversa la stanza verso MRS.<br>ARBUTHNOT.] |
+| GERALD | [[concepts/hope\|Lo spero]]. &#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] attraversa la stanza verso MRS.<br>ARBUTHNOT.] |
 | MRS | ALLONBY. Credevo che non si sarebbe mai staccato dalla signora in velluto nero. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È straordinariamente bella. [Guarda MRS.<br>ARBUTHNOT.] |
 | [[characters/lady-hunstanton\|LADY HUNSTANTON]] | Caroline, ci spostiamo tutti nella sala della musica? Miss Worsley suonerà. Verrà anche lei, cara signora Arbuthnot, non è vero? Non sa che delizia l’aspetta. [Al DOTTOR DAUBENY.] Devo proprio portare Miss Worsley al presbiterio, un pomeriggio. Mi piacerebbe tanto che la cara signora Daubeny la sentisse al violino. Ah, dimenticavo. L’udito della cara signora Daubeny è un po’ difettoso, non è vero?<br>L’ARCIDIACONO. La sordità è per lei una grande privazione. Ora non riesce più a sentire nemmeno i miei sermoni. Li legge a [[motifs/home\|casa]]. Ma ha molte risorse in se stessa, molte risorse. |
@@ -1425,7 +1425,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | What nonsense, Rachel! |
 | MRS | ARBUTHNOT. Do you think I would allow my son - |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | OUR son. |
-| MRS | ARBUTHNOT. My son [[[characters/lord-illingworth\|LORD ILLINGWORTH]] shrugs his shoulders] - to go away with the man who spoiled my youth, who ruined my life, who has tainted every moment of my days? You don’t realise what my past has been in [[concepts/suffering\|suffering]] and in shame. |
+| MRS | ARBUTHNOT. My son &#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] shrugs his shoulders] - to go away with the man who spoiled my youth, who ruined my life, who has tainted every moment of my days? You don’t realise what my past has been in [[concepts/suffering\|suffering]] and in shame. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | My dear Rachel, I must candidly say that I think<br>Gerald’s future considerably more important than your past. |
 | MRS | ARBUTHNOT. Gerald cannot separate his future from my past. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | That is exactly what he should do. That is exactly what you should help him to do. What a typical woman you are! You talk sentimentally, and you are thoroughly selfish the whole [[motifs/time\|time]]. But don’t let us have a scene. Rachel, I want you to look at this matter from the common-sense point of view, from the point of view of what is best for our son, leaving you and me out of the question. What is our son at present? An underpaid clerk in a small Provincial Bank in a third-rate English town. If you imagine he is quite happy in such a position, you are mistaken. He is thoroughly discontented. |
@@ -1444,7 +1444,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che sciocchezza, Rachel! |
 | MRS | ARBUTHNOT. Credi che permetterei a mio figlio - |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | NOSTRO figlio. |
-| MRS | ARBUTHNOT. A mio figlio [[[characters/lord-illingworth\|LORD ILLINGWORTH]] scrolla le spalle] - di partire con l’uomo che mi ha guastato la giovinezza, che mi ha rovinato la vita, che ha contaminato ogni istante dei miei giorni? Tu non ti rendi conto di che cosa sia stato il mio passato in fatto di [[concepts/suffering\|sofferenza]] e di vergogna. |
+| MRS | ARBUTHNOT. A mio figlio &#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] scrolla le spalle] - di partire con l’uomo che mi ha guastato la giovinezza, che mi ha rovinato la vita, che ha contaminato ogni istante dei miei giorni? Tu non ti rendi conto di che cosa sia stato il mio passato in fatto di [[concepts/suffering\|sofferenza]] e di vergogna. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Mia cara Rachel, devo dirti francamente che ritengo<br>l’avvenire di Gerald considerevolmente più importante del tuo passato. |
 | MRS | ARBUTHNOT. Gerald non può separare il suo avvenire dal mio passato. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | È esattamente ciò che dovrebbe fare. È esattamente ciò che tu dovresti aiutarlo a fare. Che donna tipica sei! Parli con sentimento, e per tutto il [[motifs/time\|tempo]] sei profondamente egoista. Ma non facciamo scene. Rachel, voglio che tu guardi a questa faccenda dal punto di vista del buon senso, dal punto di vista di ciò che è meglio per nostro figlio, lasciando fuori te e me. Che cos’è nostro figlio attualmente? Un impiegato mal pagato in una piccola banca di provincia, in una cittadina inglese di terz’ordine. Se immagini che sia del tutto felice in una simile posizione, ti sbagli. È profondamente scontento. |
@@ -1537,7 +1537,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | SCENE<br>The Picture Gallery at Hunstanton. Door at back leading on to terrace. |
-| *(didascalia)* | [[[characters/lord-illingworth\|LORD ILLINGWORTH]] and GERALD, R.C. [[characters/lord-illingworth\|LORD ILLINGWORTH]] lolling on a sofa. GERALD in a chair.] |
+| *(didascalia)* | &#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] and GERALD, R.C. [[characters/lord-illingworth\|LORD ILLINGWORTH]] lolling on a sofa. GERALD in a chair.] |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Thoroughly sensible woman, your mother, Gerald.<br>I knew she would come round in the end. |
 | GERALD | My mother is awfully conscientious, [[characters/lord-illingworth\|Lord Illingworth]], and<br>I know she doesn’t think I am educated enough to be your secretary.<br>She is perfectly right, too. I was fearfully idle when I was at<br>school, and I couldn’t pass an examination now to save my life. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | My dear Gerald, examinations are of no value whatsoever. If a man is a gentleman, he knows quite enough, and if he is not a gentleman, whatever he knows is bad for him. |
@@ -1561,7 +1561,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | SCENA<br>La Galleria dei Quadri a Hunstanton. Porta in fondo che dà sulla terrazza. |
-| *(didascalia)* | [[[characters/lord-illingworth\|LORD ILLINGWORTH]] e GERALD, a destra al centro. [[characters/lord-illingworth\|LORD ILLINGWORTH]] sdraiato su un divano. GERALD su una sedia.] |
+| *(didascalia)* | &#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] e GERALD, a destra al centro. [[characters/lord-illingworth\|LORD ILLINGWORTH]] sdraiato su un divano. GERALD su una sedia.] |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Donna di grandissimo buon senso, sua madre, Gerald.<br>Sapevo che alla fine si sarebbe arresa. |
 | GERALD | Mia madre è terribilmente scrupolosa, [[characters/lord-illingworth\|Lord Illingworth]], e<br>so che non mi ritiene abbastanza istruito per farle da segretario.<br>E ha perfettamente ragione. A scuola ero di una pigrizia spaventosa,<br>e oggi non passerei un esame nemmeno per salvarmi la vita. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Mio caro Gerald, gli esami non hanno il minimo valore. Se un uomo è un gentiluomo, sa già abbastanza; e se non è un gentiluomo, tutto ciò che sa gli fa male. |
@@ -2097,7 +2097,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | HESTER | Oh! save me - save me from him! |
 | GERALD | From whom? |
 | HESTER | He has insulted me! Horribly insulted me! Save me! |
-| GERALD | Who? Who has dared - ?<br>[[[characters/lord-illingworth\|LORD ILLINGWORTH]] enters at back of stage. HESTER breaks from<br>GERALD’S arms and points to him.]<br>GERALD [He is quite beside himself with rage and indignation.] [[characters/lord-illingworth\|Lord Illingworth]], you have insulted the purest thing on God’s earth, a thing as pure as my own mother. You have insulted the woman I [[motifs/love\|love]] most in the world with my own mother. As there is a God in Heaven, I will kill you! |
+| GERALD | Who? Who has dared - ?<br>&#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] enters at back of stage. HESTER breaks from<br>GERALD’S arms and points to him.]<br>GERALD [He is quite beside himself with rage and indignation.] [[characters/lord-illingworth\|Lord Illingworth]], you have insulted the purest thing on God’s earth, a thing as pure as my own mother. You have insulted the woman I [[motifs/love\|love]] most in the world with my own mother. As there is a God in Heaven, I will kill you! |
 | MRS | ARBUTHNOT. [Rushing across and catching hold of him] No! no! |
 | GERALD | [Thrusting her back.] Don’t hold me, mother. Don’t hold me - I’ll kill him! |
 | MRS | ARBUTHNOT. Gerald! |
@@ -2118,7 +2118,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | HESTER | Oh! mi salvi - mi salvi da lui! |
 | GERALD | Da chi? |
 | HESTER | Mi ha insultata! Insultata orribilmente! Mi salvi! |
-| GERALD | Chi? Chi ha osato - ?<br>[[[characters/lord-illingworth\|LORD ILLINGWORTH]] entra dal fondo della scena. HESTER si stacca dalle<br>braccia di GERALD e lo addita.]<br>GERALD [È del tutto fuori di sé dalla collera e dall’indignazione.] [[characters/lord-illingworth\|Lord Illingworth]], lei ha insultato la cosa più pura che sia sulla terra di Dio, una cosa pura quanto mia madre. Ha insultato la donna che [[motifs/love\|amo]] più di ogni altra al mondo insieme a mia madre. Com’è vero che c’è un Dio in Cielo, io la ucciderò! |
+| GERALD | Chi? Chi ha osato - ?<br>&#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] entra dal fondo della scena. HESTER si stacca dalle<br>braccia di GERALD e lo addita.]<br>GERALD [È del tutto fuori di sé dalla collera e dall’indignazione.] [[characters/lord-illingworth\|Lord Illingworth]], lei ha insultato la cosa più pura che sia sulla terra di Dio, una cosa pura quanto mia madre. Ha insultato la donna che [[motifs/love\|amo]] più di ogni altra al mondo insieme a mia madre. Com’è vero che c’è un Dio in Cielo, io la ucciderò! |
 | MRS | ARBUTHNOT. [Attraversando di corsa la scena e afferrandolo] No! no! |
 | GERALD | [Respingendola.] Non trattenermi, madre. Non trattenermi - lo ucciderò! |
 | MRS | ARBUTHNOT. Gerald! |
@@ -2135,7 +2135,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | SCENE<br>Sitting-room at Mrs. Arbuthnot’s. Large open French [[motifs/window\|window]] at back, looking on to [[motifs/garden\|garden]]. Doors R.C. and L.C. |
-| *(didascalia)* | [[[characters/gerald-arbuthnot\|GERALD ARBUTHNOT]] writing at table.] |
+| *(didascalia)* | &#91;[[characters/gerald-arbuthnot\|GERALD ARBUTHNOT]] writing at table.] |
 | *(didascalia)* | [Enter ALICE R.C. followed by [[characters/lady-hunstanton\|LADY HUNSTANTON]] and MRS. ALLONBY.] |
 | ALICE | [[characters/lady-hunstanton\|Lady Hunstanton]] and Mrs. Allonby. |
 | *(didascalia)* | [Exit L.C.] |
@@ -2161,7 +2161,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | SCENA<br>Salottino in casa della signora Arbuthnot. Ampia [[motifs/window\|portafinestra]] aperta in fondo, che dà sul [[motifs/garden\|giardino]]. Porte a destra e a sinistra, verso il centro. |
-| *(didascalia)* | [[[characters/gerald-arbuthnot\|GERALD ARBUTHNOT]] scrive al tavolo.] |
+| *(didascalia)* | &#91;[[characters/gerald-arbuthnot\|GERALD ARBUTHNOT]] scrive al tavolo.] |
 | *(didascalia)* | [Entra ALICE da destra al centro, seguita da [[characters/lady-hunstanton\|LADY HUNSTANTON]] e MRS. ALLONBY.] |
 | ALICE | [[characters/lady-hunstanton\|Lady Hunstanton]] e la signora Allonby. |
 | *(didascalia)* | [Esce da sinistra al centro.] |
@@ -2474,7 +2474,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | HESTER | [To MRS. ARBUTHNOT.] Come out with us to the [[motifs/garden\|garden]]. |
 | MRS | ARBUTHNOT. Later on, later on. [Exeunt HESTER and GERALD. MRS. ARBUTHNOT goes towards door L.C. Stops at looking-glass over mantelpiece and looks into it. Enter ALICE R.C.] |
 | ALICE | A gentleman to see you, ma’am. |
-| MRS | ARBUTHNOT. Say I am not at [[motifs/home\|home]]. Show me the card. [Takes card from salver and looks at it.] Say I will not see him.<br>[[[characters/lord-illingworth\|LORD ILLINGWORTH]] enters. MRS. ARBUTHNOT sees him in the glass and starts, but does not turn round. Exit ALICE.] What can you have to say to me to-day, George Harford? You can have nothing to say to me. You must leave this house. |
+| MRS | ARBUTHNOT. Say I am not at [[motifs/home\|home]]. Show me the card. [Takes card from salver and looks at it.] Say I will not see him.<br>&#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] enters. MRS. ARBUTHNOT sees him in the glass and starts, but does not turn round. Exit ALICE.] What can you have to say to me to-day, George Harford? You can have nothing to say to me. You must leave this house. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Rachel, Gerald knows everything about you and me now, so some arrangement must be come to that will suit us all three. I assure you, he will find in me the most charming and generous of fathers. |
 | MRS | ARBUTHNOT. My son may come in at any moment. I saved you last [[motifs/night\|night]]. I may not be able to save you again. My son feels my dishonour strongly, terribly strongly. I beg you to go. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [Sitting down.] Last [[motifs/night\|night]] was excessively unfortunate. That silly Puritan girl making a scene merely because I wanted to kiss her. What harm is there in a kiss? |
@@ -2500,7 +2500,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | HESTER | [A MRS. ARBUTHNOT.] Venga fuori con noi in [[motifs/garden\|giardino]]. |
 | MRS | ARBUTHNOT. Più tardi, più tardi. [Escono HESTER e GERALD. MRS. ARBUTHNOT si dirige verso la porta a sinistra al centro. Si ferma davanti allo specchio sopra il camino e vi si guarda. Entra ALICE da destra al centro.] |
 | ALICE | Un signore per lei, signora. |
-| MRS | ARBUTHNOT. Dica che non sono in [[motifs/home\|casa]]. Mostrami il biglietto. [Prende il biglietto dal vassoio e lo guarda.] Dica che non lo riceverò.<br>[[[characters/lord-illingworth\|LORD ILLINGWORTH]] entra. MRS. ARBUTHNOT lo vede nello specchio e trasale, ma non si volta. Esce ALICE.] Che cosa puoi avere da dirmi oggi, George Harford? Non puoi avere nulla da dirmi. Devi lasciare questa casa. |
+| MRS | ARBUTHNOT. Dica che non sono in [[motifs/home\|casa]]. Mostrami il biglietto. [Prende il biglietto dal vassoio e lo guarda.] Dica che non lo riceverò.<br>&#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] entra. MRS. ARBUTHNOT lo vede nello specchio e trasale, ma non si volta. Esce ALICE.] Che cosa puoi avere da dirmi oggi, George Harford? Non puoi avere nulla da dirmi. Devi lasciare questa casa. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Rachel, Gerald ormai sa tutto di te e di me, e dunque bisogna venire a un accordo che convenga a tutti e tre. Ti assicuro che troverà in me il più affascinante e generoso dei padri. |
 | MRS | ARBUTHNOT. Mio figlio può entrare da un momento all’altro. Ieri [[motifs/night\|notte]] ti ho salvato. Potrei non essere in grado di salvarti una seconda volta. Mio figlio sente il mio disonore in modo profondo, terribilmente profondo. Ti prego, vattene. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | [Sedendosi.] Ieri [[motifs/night\|notte]] è stata straordinariamente sfortunata. Quella sciocca puritana che fa una scena solo perché volevo baciarla. Che male c’è in un bacio? |
@@ -2524,7 +2524,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | What do you mean, Rachel? |
 | MRS | ARBUTHNOT. That you are not necessary to Gerald’s career. He does not require you. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | I do not understand you. |
-| MRS | ARBUTHNOT. Look into the [[motifs/garden\|garden]]. [[[characters/lord-illingworth\|LORD ILLINGWORTH]] rises and goes towards [[motifs/window\|window]].] You had better not let them see you: you bring unpleasant memories. [[[characters/lord-illingworth\|LORD ILLINGWORTH]] looks out and starts.] She loves him. They [[motifs/love\|love]] each other. We are safe from you, and we are going away. |
+| MRS | ARBUTHNOT. Look into the [[motifs/garden\|garden]]. &#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] rises and goes towards [[motifs/window\|window]].] You had better not let them see you: you bring unpleasant memories. &#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] looks out and starts.] She loves him. They [[motifs/love\|love]] each other. We are safe from you, and we are going away. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Where? |
 | MRS | ARBUTHNOT. We will not tell you, and if you find us we will not know you. You seem surprised. What welcome would you get from the girl whose lips you tried to soil, from the boy whose life you have shamed, from the mother whose dishonour comes from you? |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | You have grown hard, Rachel. |
@@ -2546,7 +2546,7 @@ The actor and theatre manager Sir Herbert Beerbohm Tree (1852-1917) was the firs
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Che cosa vuoi dire, Rachel? |
 | MRS | ARBUTHNOT. Che non sei necessario alla carriera di Gerald. Non gli occorri. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Non ti capisco. |
-| MRS | ARBUTHNOT. Guarda nel [[motifs/garden\|giardino]]. [[[characters/lord-illingworth\|LORD ILLINGWORTH]] si alza e va verso la [[motifs/window\|finestra]].] Faresti meglio a non farti vedere da loro: porti ricordi sgradevoli. [[[characters/lord-illingworth\|LORD ILLINGWORTH]] guarda fuori e trasale.] Lei lo ama. Si [[motifs/love\|amano]]. Siamo al sicuro da te, e ce ne andiamo. |
+| MRS | ARBUTHNOT. Guarda nel [[motifs/garden\|giardino]]. &#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] si alza e va verso la [[motifs/window\|finestra]].] Faresti meglio a non farti vedere da loro: porti ricordi sgradevoli. &#91;[[characters/lord-illingworth\|LORD ILLINGWORTH]] guarda fuori e trasale.] Lei lo ama. Si [[motifs/love\|amano]]. Siamo al sicuro da te, e ce ne andiamo. |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Dove? |
 | MRS | ARBUTHNOT. Non te lo diremo, e se ci troverai non ti riconosceremo. Sembri sorpreso. Quale accoglienza ti aspetteresti dalla fanciulla di cui hai tentato di macchiare le labbra, dal ragazzo la cui vita hai coperto di vergogna, dalla madre il cui disonore viene da te? |
 | [[characters/lord-illingworth\|LORD ILLINGWORTH]] | Sei diventata dura, Rachel. |

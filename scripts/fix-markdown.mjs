@@ -116,6 +116,18 @@ function fixUnclosed(body) {
   }
 }
 
+// A literal "[" glued to a link ("[[[characters/x|X]] crosses R.C.]", a stage direction
+// whose name was tagged): the wikilink parser reads the target as "[characters/x" and the
+// href comes out as ".../[characters/x" (404). Any "[" left in a target is moved out in
+// front of the link as &#91; (which the wikilink parser does not see) and dropped from the target.
+function fixBracketTargets(body) {
+  return body.replace(/\[\[([^\]|\n]*\[[^\]|\n]*)((?:\\?\|[^\]\n]*)?)\]\]/g, (_m, tgt, rest) => {
+    const lead = tgt.match(/^\[*/)[0].length
+    const clean = tgt.replace(/\[/g, "").trim()
+    return "&#91;".repeat(lead) + (clean ? `[[${clean}${rest}]]` : rest.replace(/^\\?\|/, ""))
+  })
+}
+
 function fixBoldLine(line) {
   if (!line.includes("**")) return line
   // skip *** runs (bold-italic) — pairing is ambiguous there
@@ -164,6 +176,7 @@ export function fixMarkdown(text) {
   body = body.replace(/\[\[\]?L\d+\|([^\[\]\n]+)\]\]/g, "$1")
   body = fixNested(body)
   body = fixUnclosed(body)
+  body = fixBracketTargets(body)
   body = fixBold(body)
   return fm + body
 }

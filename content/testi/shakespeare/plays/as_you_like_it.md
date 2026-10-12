@@ -130,7 +130,7 @@ As You Like It
 | [[characters/celia\|CELIA]] | By our beards—if we had them—thou art. |
 | [[characters/touchstone\|TOUCHSTONE]] | By my knavery—if I had it—then I were; but if you swear by that that is not, you are not forsworn. No more was this knight, swearing by his [[concepts/honour\|honour]], for he never had any; or if he had, he had sworn it away before ever he saw those pancakes or that mustard. |
 | [[characters/celia\|CELIA]] | Prithee, who is’t that thou meanest? |
-| [[characters/touchstone\|TOUCHSTONE]] | One that old Frederick, your father, loves.<br>[[[characters/celia\|CELIA]]] My father’s [[motifs/love\|love]] is enough to [[concepts/honour\|honour]] him. Enough, speak no more of him; you’ll be whipped for taxation one of these days. |
+| [[characters/touchstone\|TOUCHSTONE]] | One that old Frederick, your father, loves.<br>&#91;[[characters/celia\|CELIA]]] My father’s [[motifs/love\|love]] is enough to [[concepts/honour\|honour]] him. Enough, speak no more of him; you’ll be whipped for taxation one of these days. |
 | [[characters/touchstone\|TOUCHSTONE]] | The more pity that fools may not speak wisely what wise men do foolishly. |
 | [[characters/celia\|CELIA]] | By my troth, thou sayst true; for since the little wit that fools have was silenced, the little foolery that wise men have makes a great show. Here comes Monsieur Le Beau. |
 | *(didascalia)* | Enter Le Beau |
@@ -200,7 +200,7 @@ As You Like It
 | [[characters/duke-frederick\|DUKE FREDERICK]] | Bear him away.<br>Attendants carry Charles off<br>What is thy name, young man? |
 | [[characters/orlando\|ORLANDO]] | [[characters/orlando\|Orlando]], my liege, the youngest son of Sir Rowland de Bois. |
 | [[characters/duke-frederick\|DUKE FREDERICK]] | I would thou hadst been son to some man else.<br>The world esteemed thy father honourable,<br>But I did find him still mine enemy.<br>Thou shouldst have better pleased me with this deed<br>Hadst thou descended from another house.<br>But fare thee [[motifs/well\|well]], thou art a gallant youth.<br>I would thou hadst told me of another father. |
-| *(didascalia)* | Exeunt [[characters/duke-frederick\|Duke Frederick]], Le Beau, [[[characters/touchstone\|Touchstone]],] Lords, and attendants |
+| *(didascalia)* | Exeunt [[characters/duke-frederick\|Duke Frederick]], Le Beau, &#91;[[characters/touchstone\|Touchstone]],] Lords, and attendants |
 | [[characters/celia\|CELIA]] | (to [[characters/rosalind\|Rosalind]])<br>Were I my father, coz, would I do this? |
 | [[characters/orlando\|ORLANDO]] | I am more proud to be Sir Rowland’s son,<br>His youngest son, and would not change that calling<br>To be adopted heir to Frederick. |
 | [[characters/rosalind\|ROSALIND]] | My father loved Sir Rowland as his [[motifs/soul\|soul]],<br>And all the world was of my father’s mind.<br>Had I before known this young man his son<br>I should have given him [[motifs/tears\|tears]] unto entreaties<br>Ere he should thus have ventured. |
@@ -1169,7 +1169,7 @@ As You Like It
 | [[characters/celia\|CELIA]] | Sulle nostre barbe—se le avessimo—tu lo sei. |
 | [[characters/touchstone\|TOUCHSTONE]] | Sulla mia furfanteria—se l’avessi—allora lo sarei; ma se giurate su ciò che non è, non siete spergiure. Né lo fu quel cavaliere, giurando sul suo [[concepts/honour\|onore]], perché non ne ebbe mai; o se ne ebbe, l’aveva giurato via prima ancora di vedere quelle frittelle o quella senape. |
 | [[characters/celia\|CELIA]] | Di grazia, chi è colui che intendi? |
-| [[characters/touchstone\|TOUCHSTONE]] | Uno che il vecchio Federico, vostro padre, ama.<br>[[[characters/celia\|CELIA]]] L’[[motifs/love\|amore]] di mio padre basta a fargli [[concepts/honour\|onore]]. Basta, non parlarne più; uno di questi giorni sarai frustato per le tue accuse. |
+| [[characters/touchstone\|TOUCHSTONE]] | Uno che il vecchio Federico, vostro padre, ama.<br>&#91;[[characters/celia\|CELIA]]] L’[[motifs/love\|amore]] di mio padre basta a fargli [[concepts/honour\|onore]]. Basta, non parlarne più; uno di questi giorni sarai frustato per le tue accuse. |
 | [[characters/touchstone\|TOUCHSTONE]] | Tanto più è un peccato che agli sciocchi non sia dato dire saggiamente ciò che i saggi fanno scioccamente. |
 | [[characters/celia\|CELIA]] | In fede mia, dici il vero; ché da quando il poco ingegno che hanno gli sciocchi fu ridotto al silenzio, la poca sciocchezza che hanno i saggi fa gran mostra di sé. Ecco che viene Monsieur Le Beau. |
 | *(didascalia)* | Entra Le Beau |
@@ -1239,7 +1239,7 @@ As You Like It
 | [[characters/duke-frederick\|DUCA FEDERICO]] | Portatelo via.<br>Il seguito porta via Carlo<br>Qual è il tuo nome, giovane? |
 | [[characters/orlando\|ORLANDO]] | [[characters/orlando\|Orlando]], mio signore, il figlio più giovane di Sir Rowland de Bois. |
 | [[characters/duke-frederick\|DUCA FEDERICO]] | Vorrei che tu fossi stato figlio di qualche altro uomo.<br>Il mondo stimava onorevole tuo padre,<br>ma io sempre lo trovai mio nemico.<br>Meglio m’avresti compiaciuto con quest’impresa<br>se fossi disceso da un’altra casata.<br>Ma sta’ [[motifs/well\|bene]], sei un giovane valoroso.<br>Vorrei che m’avessi detto d’un altro padre. |
-| *(didascalia)* | Escono [[characters/duke-frederick\|il Duca Federico]], Le Beau, [[[characters/touchstone\|Touchstone]],] i Signori e il seguito |
+| *(didascalia)* | Escono [[characters/duke-frederick\|il Duca Federico]], Le Beau, &#91;[[characters/touchstone\|Touchstone]],] i Signori e il seguito |
 | [[characters/celia\|CELIA]] | (a [[characters/rosalind\|Rosalinda]])<br>Fossi io mio padre, cugina, farei questo? |
 | [[characters/orlando\|ORLANDO]] | Più fiero sono d’essere figlio di Sir Rowland,<br>il suo figlio minore, e non muterei tal nome<br>per essere adottato erede di Federico. |
 | [[characters/rosalind\|ROSALINDA]] | Mio padre amava Sir Rowland come la propria [[motifs/soul\|anima]],<br>e tutto il mondo era del parere di mio padre.<br>Se prima avessi saputo che questo giovane era suo figlio,<br>alle preghiere avrei aggiunto le [[motifs/tears\|lacrime]]<br>prima che così s’arrischiasse. |
@@ -2230,7 +2230,7 @@ As You Like It
 | [[characters/celia\|CELIA]] | By our beards—if we had them—thou art. |
 | [[characters/touchstone\|TOUCHSTONE]] | By my knavery—if I had it—then I were; but if you swear by that that is not, you are not forsworn. No more was this knight, swearing by his [[concepts/honour\|honour]], for he never had any; or if he had, he had sworn it away before ever he saw those pancakes or that mustard. |
 | [[characters/celia\|CELIA]] | Prithee, who is’t that thou meanest? |
-| [[characters/touchstone\|TOUCHSTONE]] | One that old Frederick, your father, loves.<br>[[[characters/celia\|CELIA]]] My father’s [[motifs/love\|love]] is enough to [[concepts/honour\|honour]] him. Enough, speak no more of him; you’ll be whipped for taxation one of these days. |
+| [[characters/touchstone\|TOUCHSTONE]] | One that old Frederick, your father, loves.<br>&#91;[[characters/celia\|CELIA]]] My father’s [[motifs/love\|love]] is enough to [[concepts/honour\|honour]] him. Enough, speak no more of him; you’ll be whipped for taxation one of these days. |
 | [[characters/touchstone\|TOUCHSTONE]] | The more pity that fools may not speak wisely what wise men do foolishly. |
 | [[characters/celia\|CELIA]] | By my troth, thou sayst true; for since the little wit that fools have was silenced, the little foolery that wise men have makes a great show. Here comes Monsieur Le Beau. |
 | *(didascalia)* | Enter Le Beau |
@@ -2300,7 +2300,7 @@ As You Like It
 | [[characters/duke-frederick\|DUKE FREDERICK]] | Bear him away.<br>Attendants carry Charles off<br>What is thy name, young man? |
 | [[characters/orlando\|ORLANDO]] | [[characters/orlando\|Orlando]], my liege, the youngest son of Sir Rowland de Bois. |
 | [[characters/duke-frederick\|DUKE FREDERICK]] | I would thou hadst been son to some man else.<br>The world esteemed thy father honourable,<br>But I did find him still mine enemy.<br>Thou shouldst have better pleased me with this deed<br>Hadst thou descended from another house.<br>But fare thee [[motifs/well\|well]], thou art a gallant youth.<br>I would thou hadst told me of another father. |
-| *(didascalia)* | Exeunt [[characters/duke-frederick\|Duke Frederick]], Le Beau, [[[characters/touchstone\|Touchstone]],] Lords, and attendants |
+| *(didascalia)* | Exeunt [[characters/duke-frederick\|Duke Frederick]], Le Beau, &#91;[[characters/touchstone\|Touchstone]],] Lords, and attendants |
 | [[characters/celia\|CELIA]] | (to [[characters/rosalind\|Rosalind]])<br>Were I my father, coz, would I do this? |
 | [[characters/orlando\|ORLANDO]] | I am more proud to be Sir Rowland’s son,<br>His youngest son, and would not change that calling<br>To be adopted heir to Frederick. |
 | [[characters/rosalind\|ROSALIND]] | My father loved Sir Rowland as his [[motifs/soul\|soul]],<br>And all the world was of my father’s mind.<br>Had I before known this young man his son<br>I should have given him [[motifs/tears\|tears]] unto entreaties<br>Ere he should thus have ventured. |
@@ -2403,7 +2403,7 @@ As You Like It
 | [[characters/celia\|CELIA]] | Sulle nostre barbe—se le avessimo—tu lo sei. |
 | [[characters/touchstone\|TOUCHSTONE]] | Sulla mia furfanteria—se l’avessi—allora lo sarei; ma se giurate su ciò che non è, non siete spergiure. Né lo fu quel cavaliere, giurando sul suo [[concepts/honour\|onore]], perché non ne ebbe mai; o se ne ebbe, l’aveva giurato via prima ancora di vedere quelle frittelle o quella senape. |
 | [[characters/celia\|CELIA]] | Di grazia, chi è colui che intendi? |
-| [[characters/touchstone\|TOUCHSTONE]] | Uno che il vecchio Federico, vostro padre, ama.<br>[[[characters/celia\|CELIA]]] L’[[motifs/love\|amore]] di mio padre basta a fargli [[concepts/honour\|onore]]. Basta, non parlarne più; uno di questi giorni sarai frustato per le tue accuse. |
+| [[characters/touchstone\|TOUCHSTONE]] | Uno che il vecchio Federico, vostro padre, ama.<br>&#91;[[characters/celia\|CELIA]]] L’[[motifs/love\|amore]] di mio padre basta a fargli [[concepts/honour\|onore]]. Basta, non parlarne più; uno di questi giorni sarai frustato per le tue accuse. |
 | [[characters/touchstone\|TOUCHSTONE]] | Tanto più è un peccato che agli sciocchi non sia dato dire saggiamente ciò che i saggi fanno scioccamente. |
 | [[characters/celia\|CELIA]] | In fede mia, dici il vero; ché da quando il poco ingegno che hanno gli sciocchi fu ridotto al silenzio, la poca sciocchezza che hanno i saggi fa gran mostra di sé. Ecco che viene Monsieur Le Beau. |
 | *(didascalia)* | Entra Le Beau |
@@ -2473,7 +2473,7 @@ As You Like It
 | [[characters/duke-frederick\|DUCA FEDERICO]] | Portatelo via.<br>Il seguito porta via Carlo<br>Qual è il tuo nome, giovane? |
 | [[characters/orlando\|ORLANDO]] | [[characters/orlando\|Orlando]], mio signore, il figlio più giovane di Sir Rowland de Bois. |
 | [[characters/duke-frederick\|DUCA FEDERICO]] | Vorrei che tu fossi stato figlio di qualche altro uomo.<br>Il mondo stimava onorevole tuo padre,<br>ma io sempre lo trovai mio nemico.<br>Meglio m’avresti compiaciuto con quest’impresa<br>se fossi disceso da un’altra casata.<br>Ma sta’ [[motifs/well\|bene]], sei un giovane valoroso.<br>Vorrei che m’avessi detto d’un altro padre. |
-| *(didascalia)* | Escono [[characters/duke-frederick\|il Duca Federico]], Le Beau, [[[characters/touchstone\|Touchstone]],] i Signori e il seguito |
+| *(didascalia)* | Escono [[characters/duke-frederick\|il Duca Federico]], Le Beau, &#91;[[characters/touchstone\|Touchstone]],] i Signori e il seguito |
 | [[characters/celia\|CELIA]] | (a [[characters/rosalind\|Rosalinda]])<br>Fossi io mio padre, cugina, farei questo? |
 | [[characters/orlando\|ORLANDO]] | Più fiero sono d’essere figlio di Sir Rowland,<br>il suo figlio minore, e non muterei tal nome<br>per essere adottato erede di Federico. |
 | [[characters/rosalind\|ROSALINDA]] | Mio padre amava Sir Rowland come la propria [[motifs/soul\|anima]],<br>e tutto il mondo era del parere di mio padre.<br>Se prima avessi saputo che questo giovane era suo figlio,<br>alle preghiere avrei aggiunto le [[motifs/tears\|lacrime]]<br>prima che così s’arrischiasse. |

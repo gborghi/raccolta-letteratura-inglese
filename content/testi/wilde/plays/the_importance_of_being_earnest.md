@@ -463,7 +463,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Algernon | I’ll speak to Bunbury, Aunt Augusta, if he is still conscious, and I think I can promise you he’ll be all right by Saturday. Of course the music is a great difficulty. You see, if one plays good music, people don’t listen, and if one plays bad music people don’t talk. But I’ll run over the programme I’ve drawn out, if you will kindly come into the next room for a moment. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | Thank you, Algernon. It is very thoughtful of you. [Rising, and following Algernon.] I’m sure the programme will be delightful, after a few expurgations. French songs I cannot possibly allow. People always seem to think that they are improper, and either look shocked, which is vulgar, or laugh, which is worse. But German sounds a thoroughly respectable language, and indeed, I believe is so. Gwendolen, you will accompany me. |
 | Gwendolen | Certainly, mamma. |
-| *(didascalia)* | [[[characters/lady-bracknell\|Lady Bracknell]] and Algernon go into the music-room, Gwendolen remains behind.] |
+| *(didascalia)* | &#91;[[characters/lady-bracknell\|Lady Bracknell]] and Algernon go into the music-room, Gwendolen remains behind.] |
 | Jack | Charming day it has been, Miss Fairfax. |
 | Gwendolen | Pray don’t talk to me about the weather, Mr. Worthing. Whenever people talk to me about the weather, I always feel quite certain that they mean something else. And that makes me so nervous. |
 | Jack | I do mean something else. |
@@ -488,7 +488,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Algernon | Parlerò con Bunbury, zia Augusta, se è ancora cosciente, e credo di poterti promettere che per sabato starà benissimo. Naturalmente la musica è una grande difficoltà. Vedi, se si suona buona musica la gente non ascolta, e se si suona cattiva musica la gente non parla. Ma ti illustro il programma che ho preparato, se vorrai avere la cortesia di passare un momento nella stanza accanto. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | Grazie, Algernon. È molto premuroso da parte tua. [Alzandosi e seguendo Algernon.] Sono certa che il programma sarà delizioso, dopo qualche espurgazione. Le canzoni francesi non posso assolutamente permetterle. La gente sembra sempre convinta che siano sconvenienti, e o assume un’aria scandalizzata, il che è volgare, o ride, il che è peggio. Il tedesco invece suona come una lingua del tutto rispettabile e, in effetti, credo che lo sia. Gwendolen, tu mi accompagnerai. |
 | Gwendolen | Certamente, mamma. |
-| *(didascalia)* | [[[characters/lady-bracknell\|Lady Bracknell]] e Algernon passano nella sala della musica, Gwendolen resta indietro.] |
+| *(didascalia)* | &#91;[[characters/lady-bracknell\|Lady Bracknell]] e Algernon passano nella sala della musica, Gwendolen resta indietro.] |
 | Jack | È stata una giornata incantevole, Miss Fairfax. |
 | Gwendolen | La prego, non mi parli del tempo, signor Worthing. Ogni volta che qualcuno mi parla del tempo, ho la assoluta certezza che intenda qualcos’altro. E questo mi rende così nervosa. |
 | Jack | Intendo davvero qualcos’altro. |
@@ -687,7 +687,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | [[characters/lady-bracknell\|Lady Bracknell]] | I would strongly advise you, Mr. Worthing, to try and acquire some relations as soon as possible, and to make a definite effort to produce at any rate one parent, of either sex, before the season is quite over. |
 | Jack | [[motifs/well\|Well]], I don’t see how I could possibly manage to do that. I can produce the hand-bag at any moment. It is in my dressing-room at [[motifs/home\|home]]. I really think that should satisfy you, [[characters/lady-bracknell\|Lady Bracknell]]. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | Me, sir! What has it to do with me? You can hardly imagine that I and Lord Bracknell would dream of allowing our only daughter — a girl brought up with the utmost care — to marry into a cloak-room, and form an alliance with a parcel? Good morning, Mr. Worthing! |
-| *(didascalia)* | [[[characters/lady-bracknell\|Lady Bracknell]] sweeps out in majestic indignation.] |
+| *(didascalia)* | &#91;[[characters/lady-bracknell\|Lady Bracknell]] sweeps out in majestic indignation.] |
 | Jack | Good morning! [Algernon, from the other room, strikes up the Wedding March. Jack looks perfectly furious, and goes to the door.] For goodness’ sake don’t play that ghastly tune, Algy. How idiotic you are! |
 | *(didascalia)* | [The music stops and Algernon enters cheerily.] |
 | Algernon | Didn’t it go off all right, old boy? You don’t mean to say Gwendolen refused you? I know it is a way she has. She is always refusing people. I think it is most ill-natured of her. |
@@ -707,7 +707,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | [[characters/lady-bracknell\|Lady Bracknell]] | Le consiglierei vivamente, signor Worthing, di cercare di procurarsi qualche parente al più presto, e di compiere uno sforzo concreto per produrre almeno un genitore, dell’uno o dell’altro sesso, prima che la stagione sia del tutto conclusa. |
 | Jack | [[motifs/well\|Beh]], non vedo proprio come potrei riuscirci. La borsa a mano posso produrla in qualunque momento. È nel mio spogliatoio, a [[motifs/home\|casa]]. Credo davvero che questo dovrebbe bastarle, [[characters/lady-bracknell\|Lady Bracknell]]. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | Bastarmi, signore! E che cosa c’entro io? Non può certo immaginare che io e Lord Bracknell ci sogneremmo di permettere alla nostra unica figlia — una ragazza allevata con la massima cura — di imparentarsi con un deposito bagagli e di contrarre un’alleanza con un collo di bagaglio? Buongiorno, signor Worthing! |
-| *(didascalia)* | [[[characters/lady-bracknell\|Lady Bracknell]] esce a passo maestoso, in preda a una maestosa indignazione.] |
+| *(didascalia)* | &#91;[[characters/lady-bracknell\|Lady Bracknell]] esce a passo maestoso, in preda a una maestosa indignazione.] |
 | Jack | Buongiorno! [Algernon, dall’altra stanza, attacca la Marcia nuziale. Jack ha l’aria furibonda e va verso la porta.] Per l’amor del cielo non suonare quella melodia spaventosa, Algy. Come sei idiota! |
 | *(didascalia)* | [La musica si interrompe e Algernon entra tutto allegro.] |
 | Algernon | Non è andata bene, vecchio mio? Non vorrai dirmi che Gwendolen ti ha rifiutato? So che è un suo vezzo. Rifiuta sempre tutti. Lo trovo davvero cattivo da parte sua. |
@@ -937,7 +937,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | SCENE<br>[[motifs/garden\|Garden]] at the Manor House. A flight of grey stone steps leads up to the house. The [[motifs/garden\|garden]], an old-fashioned one, full of roses. [[motifs/time\|Time]] of year, July. Basket chairs, and a table covered with books, are set under a large yew-tree. |
-| *(didascalia)* | [[[characters/miss-prism\|Miss Prism]] discovered seated at the table. Cecily is at the back watering [[motifs/flowers\|flowers]].] |
+| *(didascalia)* | &#91;[[characters/miss-prism\|Miss Prism]] discovered seated at the table. Cecily is at the back watering [[motifs/flowers\|flowers]].] |
 | [[characters/miss-prism\|Miss Prism]] | [Calling.] Cecily, Cecily! Surely such a utilitarian occupation as the watering of [[motifs/flowers\|flowers]] is rather Moulton’s duty than yours? Especially at a moment when intellectual pleasures await you. Your German grammar is on the table. Pray open it at page fifteen. We will repeat yesterday’s lesson. |
 | Cecily | [Coming over very slowly.] But I don’t like German. It isn’t at all a becoming language. I know perfectly [[motifs/well\|well]] that I look quite plain after my German lesson. |
 | [[characters/miss-prism\|Miss Prism]] | [[archetypes/child\|Child]], you know how anxious your guardian is that you should improve yourself in every way. He laid particular stress on your German, as he was leaving for town yesterday. Indeed, he always lays stress on your German when he is leaving for town. |
@@ -990,7 +990,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Cecily | No, dear [[characters/miss-prism\|Miss Prism]], I know that, but I felt instinctively that you had a headache. Indeed I was thinking about that, and not about my German lesson, when the Rector came in. |
 | Chasuble | I [[concepts/hope\|hope]], Cecily, you are not inattentive. |
 | Cecily | Oh, I am afraid I am. |
-| Chasuble | That is strange. Were I fortunate enough to be [[characters/miss-prism\|Miss Prism]]’s pupil, I would hang upon her lips. [[[characters/miss-prism\|Miss Prism]] glares.] I spoke metaphorically. — My metaphor was drawn from [[motifs/bees\|bees]]. Ahem! Mr. Worthing, I suppose, has not returned from town yet? |
+| Chasuble | That is strange. Were I fortunate enough to be [[characters/miss-prism\|Miss Prism]]’s pupil, I would hang upon her lips. &#91;[[characters/miss-prism\|Miss Prism]] glares.] I spoke metaphorically. — My metaphor was drawn from [[motifs/bees\|bees]]. Ahem! Mr. Worthing, I suppose, has not returned from town yet? |
 | [[characters/miss-prism\|Miss Prism]] | We do not expect him till Monday afternoon. |
 | Chasuble | Ah yes, he usually likes to spend his [[characters/sunday\|Sunday]] in [[settings/london\|London]]. He is not one of those whose sole aim is enjoyment, as, by all accounts, that unfortunate young man his brother seems to be. But I must not disturb Egeria and her pupil any longer. |
 | [[characters/miss-prism\|Miss Prism]] | Egeria? My name is Lætitia, Doctor. |
@@ -1019,7 +1019,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | Cecily | No, cara [[characters/miss-prism\|Miss Prism]], lo so, ma ho sentito d’istinto che lei aveva mal di testa. Anzi, stavo pensando proprio a questo, e non alla mia lezione di tedesco, quando è entrato il Reverendo. |
 | Chasuble | [[concepts/hope\|Spero]], Cecily, che lei non sia disattenta. |
 | Cecily | Oh, temo di esserlo. |
-| Chasuble | Strano. Se avessi la fortuna di essere allievo di [[characters/miss-prism\|Miss Prism]], penderei dalle sue labbra. [[[characters/miss-prism\|Miss Prism]] lo fulmina con lo sguardo.] Parlavo metaforicamente. — La mia metafora era tratta dalle [[motifs/bees\|api]]. Ehm! Il signor Worthing, immagino, non è ancora tornato dalla città? |
+| Chasuble | Strano. Se avessi la fortuna di essere allievo di [[characters/miss-prism\|Miss Prism]], penderei dalle sue labbra. &#91;[[characters/miss-prism\|Miss Prism]] lo fulmina con lo sguardo.] Parlavo metaforicamente. — La mia metafora era tratta dalle [[motifs/bees\|api]]. Ehm! Il signor Worthing, immagino, non è ancora tornato dalla città? |
 | [[characters/miss-prism\|Miss Prism]] | Non lo aspettiamo prima di lunedì pomeriggio. |
 | Chasuble | Ah sì, di solito gli piace passare la [[characters/sunday\|domenica]] a [[settings/london\|Londra]]. Non è di quelli il cui unico scopo è il divertimento, come invece pare essere, a quanto tutti dicono, quello sciagurato giovane che è suo fratello. Ma non devo disturbare oltre Egeria e la sua allieva. |
 | [[characters/miss-prism\|Miss Prism]] | Egeria? Il mio nome è Lætitia, Dottore. |
@@ -2171,7 +2171,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | [[characters/lady-bracknell\|Lady Bracknell]] | Exploded! Was he the victim of a revolutionary outrage? I was not aware that Mr. Bunbury was interested in social legislation. If so, he is [[motifs/well\|well]] punished for his morbidity. |
 | Algernon | My dear Aunt Augusta, I mean he was found out! The doctors found out that Bunbury could not live, that is what I mean — so Bunbury died. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | He seems to have had great confidence in the opinion of his physicians. I am glad, however, that he made up his mind at the last to some definite course of action, and acted under proper medical advice. And now that we have finally got rid of this Mr. Bunbury, may I ask, Mr. Worthing, who is that young person whose hand my nephew Algernon is now holding in what seems to me a peculiarly unnecessary manner? |
-| Jack | That lady is Miss [[characters/cecily-cardew\|Cecily Cardew]], my ward. [[[characters/lady-bracknell\|Lady Bracknell]] bows coldly to Cecily.] |
+| Jack | That lady is Miss [[characters/cecily-cardew\|Cecily Cardew]], my ward. &#91;[[characters/lady-bracknell\|Lady Bracknell]] bows coldly to Cecily.] |
 | Algernon | I am engaged to be married to Cecily, Aunt Augusta. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | I beg your pardon? |
 | Cecily | Mr. Moncrieff and I are engaged to be married, [[characters/lady-bracknell\|Lady Bracknell]]. |
@@ -2194,7 +2194,7 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 | [[characters/lady-bracknell\|Lady Bracknell]] | Esploso! È stato vittima di un attentato rivoluzionario? Non sapevo che il signor Bunbury si interessasse di legislazione sociale. Se è così, è [[motifs/well\|ben]] punito per la sua morbosità. |
 | Algernon | Mia cara zia Augusta, intendo che è stato scoperto! I medici hanno scoperto che Bunbury non poteva vivere, ecco che cosa intendo — e così Bunbury è morto. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | Pare avesse grande fiducia nel parere dei suoi medici. Sono lieta, comunque, che alla fine si sia deciso per una qualche linea d’azione definita, e che abbia agito dietro appropriato consiglio medico. E ora che ci siamo finalmente sbarazzati di questo signor Bunbury, posso chiederle, signor Worthing, chi è quella giovane persona la cui mano mio nipote Algernon sta ora stringendo in un modo che mi pare particolarmente superfluo? |
-| Jack | Quella signorina è Miss [[characters/cecily-cardew\|Cecily Cardew]], la mia pupilla. [[[characters/lady-bracknell\|Lady Bracknell]] fa un freddo inchino a Cecily.] |
+| Jack | Quella signorina è Miss [[characters/cecily-cardew\|Cecily Cardew]], la mia pupilla. &#91;[[characters/lady-bracknell\|Lady Bracknell]] fa un freddo inchino a Cecily.] |
 | Algernon | Sono fidanzato con Cecily, zia Augusta. |
 | [[characters/lady-bracknell\|Lady Bracknell]] | Come, prego? |
 | Cecily | Il signor Moncrieff e io siamo fidanzati, [[characters/lady-bracknell\|Lady Bracknell]]. |
@@ -2402,14 +2402,14 @@ Hon. [[characters/gwendolen-fairfax|Gwendolen Fairfax]]
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | [In a severe, judicial voice.] Prism! [[[characters/miss-prism\|Miss Prism]] bows her head in shame.] Come here, Prism! [[[characters/miss-prism\|Miss Prism]] approaches in a humble manner.] Prism! Where is that baby? [General consternation. The Canon starts back in horror. Algernon and Jack pretend to be anxious to shield Cecily and Gwendolen from hearing the details of a terrible public scandal.] Twenty-eight years ago, Prism, you left Lord Bracknell’s house, Number 104, Upper Grosvenor Street, in charge of a perambulator that contained a baby of the male sex. You never returned. A few weeks later, through the elaborate investigations of the Metropolitan police, the perambulator was discovered at midnight, standing by itself in a remote corner of Bayswater. It contained the manuscript of a three-volume [[forms/novel\|novel]] of more than usually revolting sentimentality. [[[characters/miss-prism\|Miss Prism]] starts in involuntary indignation.] But the baby was not there! [Every one looks at [[characters/miss-prism\|Miss Prism]].] Prism! Where is that baby? [A pause.] |
+| *(didascalia)* | [In a severe, judicial voice.] Prism! &#91;[[characters/miss-prism\|Miss Prism]] bows her head in shame.] Come here, Prism! &#91;[[characters/miss-prism\|Miss Prism]] approaches in a humble manner.] Prism! Where is that baby? [General consternation. The Canon starts back in horror. Algernon and Jack pretend to be anxious to shield Cecily and Gwendolen from hearing the details of a terrible public scandal.] Twenty-eight years ago, Prism, you left Lord Bracknell’s house, Number 104, Upper Grosvenor Street, in charge of a perambulator that contained a baby of the male sex. You never returned. A few weeks later, through the elaborate investigations of the Metropolitan police, the perambulator was discovered at midnight, standing by itself in a remote corner of Bayswater. It contained the manuscript of a three-volume [[forms/novel\|novel]] of more than usually revolting sentimentality. &#91;[[characters/miss-prism\|Miss Prism]] starts in involuntary indignation.] But the baby was not there! [Every one looks at [[characters/miss-prism\|Miss Prism]].] Prism! Where is that baby? [A pause.] |
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | [Con voce severa, da giudice.] Prism! [[[characters/miss-prism\|Miss Prism]] china il capo per la vergogna.] Venga qui, Prism! [[[characters/miss-prism\|Miss Prism]] si avvicina umilmente.] Prism! Dov’è quel bambino? [Costernazione generale. Il Canonico indietreggia inorridito. Algernon e Jack fingono di essere ansiosi di impedire a Cecily e Gwendolen di udire i particolari di un terribile scandalo pubblico.] Ventotto anni fa, Prism, lei lasciò la casa di Lord Bracknell, al numero 104 di Upper Grosvenor Street, con in custodia una carrozzina che conteneva un neonato di sesso maschile. Non fece mai ritorno. Qualche settimana dopo, grazie alle elaborate indagini della polizia metropolitana, la carrozzina fu ritrovata a mezzanotte, ferma da sola in un angolo remoto di Bayswater. Conteneva il manoscritto di un [[forms/novel\|romanzo]] in tre volumi, di una sentimentalità più ripugnante del consueto. [[[characters/miss-prism\|Miss Prism]] trasale per involontaria indignazione.] Ma il bambino non c’era! [Tutti guardano [[characters/miss-prism\|Miss Prism]].] Prism! Dov’è quel bambino? [Una pausa.] |
+| *(didascalia)* | [Con voce severa, da giudice.] Prism! &#91;[[characters/miss-prism\|Miss Prism]] china il capo per la vergogna.] Venga qui, Prism! &#91;[[characters/miss-prism\|Miss Prism]] si avvicina umilmente.] Prism! Dov’è quel bambino? [Costernazione generale. Il Canonico indietreggia inorridito. Algernon e Jack fingono di essere ansiosi di impedire a Cecily e Gwendolen di udire i particolari di un terribile scandalo pubblico.] Ventotto anni fa, Prism, lei lasciò la casa di Lord Bracknell, al numero 104 di Upper Grosvenor Street, con in custodia una carrozzina che conteneva un neonato di sesso maschile. Non fece mai ritorno. Qualche settimana dopo, grazie alle elaborate indagini della polizia metropolitana, la carrozzina fu ritrovata a mezzanotte, ferma da sola in un angolo remoto di Bayswater. Conteneva il manoscritto di un [[forms/novel\|romanzo]] in tre volumi, di una sentimentalità più ripugnante del consueto. &#91;[[characters/miss-prism\|Miss Prism]] trasale per involontaria indignazione.] Ma il bambino non c’era! [Tutti guardano [[characters/miss-prism\|Miss Prism]].] Prism! Dov’è quel bambino? [Una pausa.] |
 
 
 

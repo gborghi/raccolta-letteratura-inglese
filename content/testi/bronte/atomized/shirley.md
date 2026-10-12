@@ -41234,7 +41234,7 @@ the boiler, which I take to be the heart, is fit to burst."
 
 Ye'll be jingling into poetry just e'now. If the afflatus comes, give
 
-way, Robert. Never heed me; I'll bear it this whet [[[motifs/time|time]]]."
+way, Robert. Never heed me; I'll bear it this whet &#91;[[motifs/time|time]]]."
 
 
 

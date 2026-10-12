@@ -272,7 +272,7 @@ MRS. CARGHILL
 | [[characters/lord-claverton\|LORD CLAVERTON]] | Non molto presto, credo.<br><br><br>Sto per partire. |  
 | GOMEZ | Così mi hanno informato.<br><br><br>Ho amici nella stampa — se non nella nobiltà.<br>Addio per il momento. È stato un elisir<br>rivederti, e accertarmi<br>che possiamo ricominciare esattamente da dove ci eravamo lasciati. |  
 | *(didascalia)* | [Esce GOMEZ] |  
-| *(didascalia)* | [[[characters/lord-claverton\|LORD CLAVERTON]] resta seduto qualche minuto a rimuginare. Un colpo. Entra MONICA.] |  
+| *(didascalia)* | &#91;[[characters/lord-claverton\|LORD CLAVERTON]] resta seduto qualche minuto a rimuginare. Un colpo. Entra MONICA.] |  
 | MONICA | Chi era, papà? |  
 | [[characters/lord-claverton\|LORD CLAVERTON]] | Un uomo che conoscevo. |  
 | MONICA | Oh, dunque lo conoscevi? |  
@@ -894,7 +894,7 @@ MRS. CARGHILL
 | [[characters/lord-claverton\|LORD CLAVERTON]] | Not very soon, I think.<br><br><br>I am going away. |
 | GOMEZ | So I’ve been informed.<br><br><br>I have friends in the press — if not in the peerage.<br>Goodbye for the present. It’s been an elixir<br>To see you again, and assure myself<br>That we can begin just where we left off. |
 | *(didascalia)* | [Exit GOMEZ] |
-| *(didascalia)* | [[[characters/lord-claverton\|LORD CLAVERTON]] sits for a few minutes brooding. A knock. Enter MONICA.] |
+| *(didascalia)* | &#91;[[characters/lord-claverton\|LORD CLAVERTON]] sits for a few minutes brooding. A knock. Enter MONICA.] |
 | MONICA | Who was it, Father? |
 | [[characters/lord-claverton\|LORD CLAVERTON]] | A man I used to know. |
 | MONICA | Oh, so you knew him? |
@@ -1164,7 +1164,7 @@ tags:
 | [[characters/lord-claverton\|LORD CLAVERTON]] | Non molto presto, credo.<br><br><br>Sto per partire. |  
 | GOMEZ | Così mi hanno informato.<br><br><br>Ho amici nella stampa — se non nella nobiltà.<br>Addio per il momento. È stato un elisir<br>rivederti, e accertarmi<br>che possiamo ricominciare esattamente da dove ci eravamo lasciati. |  
 | *(didascalia)* | [Esce GOMEZ] |  
-| *(didascalia)* | [[[characters/lord-claverton\|LORD CLAVERTON]] resta seduto qualche minuto a rimuginare. Un colpo. Entra MONICA.] |  
+| *(didascalia)* | &#91;[[characters/lord-claverton\|LORD CLAVERTON]] resta seduto qualche minuto a rimuginare. Un colpo. Entra MONICA.] |  
 | MONICA | Chi era, papà? |  
 | [[characters/lord-claverton\|LORD CLAVERTON]] | Un uomo che conoscevo. |  
 | MONICA | Oh, dunque lo conoscevi? |  

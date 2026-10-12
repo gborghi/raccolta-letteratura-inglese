@@ -150,7 +150,7 @@ al nuovo Apprendista Operoso; l'Apprendista che si eleva non
 per le sue virtù, ma dichiaratamente per i suoi vizi?
 
 --------------------------------------------------------------------------
-[[[motifs/home|inizio]]] Su alle Opere di G.K.Chesterton sul Web.
+&#91;[[motifs/home|inizio]]] Su alle Opere di G.K.Chesterton sul Web.
 --------------------------------------------------------------------------
 Ultima modifica: 19 luglio 2006
 Martin Ward, Software Technology Research Lab, 
@@ -496,7 +496,7 @@ to the new Industrious Apprentice; the Apprentice who rises not
 by his virtues, but avowedly by his vices?
 
 --------------------------------------------------------------------------
-[[[motifs/home|home]]] Up to G.K.Chesterton's Works on the Web.
+&#91;[[motifs/home|home]]] Up to G.K.Chesterton's Works on the Web.
 --------------------------------------------------------------------------
 Last modified: 19th July, 2006
 Martin Ward, Software Technology Research Lab, 
@@ -525,7 +525,7 @@ al nuovo Apprendista Operoso; l'Apprendista che si eleva non
 per le sue virtù, ma dichiaratamente per i suoi vizi?
 
 --------------------------------------------------------------------------
-[[[motifs/home|inizio]]] Su alle Opere di G.K.Chesterton sul Web.
+&#91;[[motifs/home|inizio]]] Su alle Opere di G.K.Chesterton sul Web.
 --------------------------------------------------------------------------
 Ultima modifica: 19 luglio 2006
 Martin Ward, Software Technology Research Lab, 

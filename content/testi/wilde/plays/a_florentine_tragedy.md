@@ -248,7 +248,7 @@ tags:
 
 | Speaker | Line |
 |---|---|
-| GUIDO | I like it [[motifs/well\|well]],<br>Honest [[characters/simone\|Simone]]; and, with your good leave,<br>Will toast the fair [[characters/bianca\|Bianca]] when her lips<br>Have like red [[motifs/rose\|rose]]-[[motifs/leaves\|leaves]] floated on this cup<br>And left its vintage sweeter. Taste, [[characters/bianca\|Bianca]]. [[[characters/bianca\|BIANCA]] drinks.]<br>Oh, all the honey of Hyblean [[motifs/bees\|bees]],<br>Matched with this draught were bitter!<br>                       Good [[characters/simone\|Simone]],<br>You do not share the feast. |
+| GUIDO | I like it [[motifs/well\|well]],<br>Honest [[characters/simone\|Simone]]; and, with your good leave,<br>Will toast the fair [[characters/bianca\|Bianca]] when her lips<br>Have like red [[motifs/rose\|rose]]-[[motifs/leaves\|leaves]] floated on this cup<br>And left its vintage sweeter. Taste, [[characters/bianca\|Bianca]]. &#91;[[characters/bianca\|BIANCA]] drinks.]<br>Oh, all the honey of Hyblean [[motifs/bees\|bees]],<br>Matched with this draught were bitter!<br>                       Good [[characters/simone\|Simone]],<br>You do not share the feast. |
 | [[characters/simone\|SIMONE]] | It is strange, my lord,<br>I cannot eat or drink with you, to-[[motifs/night\|night]].<br>Some humour, or some fever in my [[motifs/blood\|blood]],<br>At other [[motifs/seasons\|seasons]] temperate, or some thought<br>That like an adder creeps from point to point,<br>That like a madman crawls from cell to cell,<br>Poisons my palate and makes appetite<br>A loathing, not a [[concepts/longing\|longing]]. [Goes aside.] |
 | GUIDO | Sweet [[characters/bianca\|Bianca]],<br>This common chapman wearies me with words.<br>I must go hence. To-morrow I will come.<br>Tell me the hour. |
 | [[characters/bianca\|BIANCA]] | Come with the youngest [[motifs/dawn\|dawn]]!<br>Until I see you all my life is vain. |
@@ -265,7 +265,7 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| GUIDO | Mi piace [[motifs/well\|assai]],<br>onesto [[characters/simone\|Simone]]; e, col vostro buon permesso,<br>brinderò alla bella [[characters/bianca\|Bianca]] quando le sue labbra<br>avranno, come rosse [[motifs/leaves\|foglie]] di [[motifs/rose\|rosa]], sfiorato questa coppa<br>lasciandone più dolce la vendemmia. Assaggiate, [[characters/bianca\|Bianca]]. [[[characters/bianca\|BIANCA]] beve.]<br>Oh, tutto il miele delle [[motifs/bees\|api]] iblee,<br>paragonato a questo sorso, sarebbe amaro!<br>                       Buon [[characters/simone\|Simone]],<br>voi non dividete il banchetto. |
+| GUIDO | Mi piace [[motifs/well\|assai]],<br>onesto [[characters/simone\|Simone]]; e, col vostro buon permesso,<br>brinderò alla bella [[characters/bianca\|Bianca]] quando le sue labbra<br>avranno, come rosse [[motifs/leaves\|foglie]] di [[motifs/rose\|rosa]], sfiorato questa coppa<br>lasciandone più dolce la vendemmia. Assaggiate, [[characters/bianca\|Bianca]]. &#91;[[characters/bianca\|BIANCA]] beve.]<br>Oh, tutto il miele delle [[motifs/bees\|api]] iblee,<br>paragonato a questo sorso, sarebbe amaro!<br>                       Buon [[characters/simone\|Simone]],<br>voi non dividete il banchetto. |
 | [[characters/simone\|SIMONE]] | È strano, mio signore,<br>non posso mangiare né bere con voi, questa [[motifs/night\|notte]].<br>Qualche umore, o qualche febbre nel mio [[motifs/blood\|sangue]],<br>in altre [[motifs/seasons\|stagioni]] temperato, o qualche pensiero<br>che come una vipera striscia di punto in punto,<br>che come un pazzo s’arrampica di cella in cella,<br>m’avvelena il palato e fa dell’appetito<br>un ribrezzo, non un [[concepts/longing\|desiderio]]. [Si scosta.] |
 | GUIDO | Dolce [[characters/bianca\|Bianca]],<br>questo volgare bottegaio mi stanca di parole.<br>Devo andarmene. Domani verrò.<br>Ditemi l’ora. |
 | [[characters/bianca\|BIANCA]] | Venite con la più giovane [[motifs/dawn\|alba]]!<br>Finché non vi vedo, tutta la mia vita è vana. |
@@ -307,11 +307,11 @@ tags:
 | [[characters/simone\|SIMONE]] | Hold the torch, [[characters/bianca\|Bianca]]. [They begin to fight.] |
 | [[characters/simone\|SIMONE]] | Have at you! Ah! Ha! would you? |
 | *(didascalia)* | [He is wounded by GUIDO.] |
-| [[characters/simone\|SIMONE]] | A scratch, no more. The torch was in mine eyes.<br>Do not look sad, [[characters/bianca\|Bianca]]. It is nothing.<br>Your husband bleeds, ’tis nothing. Take a cloth,<br>Bind it about mine arm. Nay, not so tight.<br>More softly, my good wife. And be not sad,<br>I pray you be not sad. No; take it off.<br>What matter if I bleed? [[[motifs/tears\|Tears]] bandage off.]<br>   Again! again! |
-| *(didascalia)* | [[[characters/simone\|Simone]] disarms Guido] |
+| [[characters/simone\|SIMONE]] | A scratch, no more. The torch was in mine eyes.<br>Do not look sad, [[characters/bianca\|Bianca]]. It is nothing.<br>Your husband bleeds, ’tis nothing. Take a cloth,<br>Bind it about mine arm. Nay, not so tight.<br>More softly, my good wife. And be not sad,<br>I pray you be not sad. No; take it off.<br>What matter if I bleed? &#91;[[motifs/tears\|Tears]] bandage off.]<br>   Again! again! |
+| *(didascalia)* | &#91;[[characters/simone\|Simone]] disarms Guido] |
 | [[characters/simone\|SIMONE]] | My gentle Lord, you see that I was right<br>My sword is better tempered, finer steel,<br>But let us match our daggers.<br>[[characters/bianca\|BIANCA]] [to Guido] Kill him! kill him! |
-| [[characters/simone\|SIMONE]] | Put out the torch, [[characters/bianca\|Bianca]]. [[[characters/bianca\|Bianca]] puts out torch.]<br>        Now, my good Lord,<br>Now to the [[motifs/death\|death]] of one, or both of us,<br>Or all three it may be. [They fight.]<br>  There and there.<br>Ah, devil! do I hold thee in my grip? |
-| *(didascalia)* | [[[characters/simone\|Simone]] overpowers Guido and throws him down over table.] |
+| [[characters/simone\|SIMONE]] | Put out the torch, [[characters/bianca\|Bianca]]. &#91;[[characters/bianca\|Bianca]] puts out torch.]<br>        Now, my good Lord,<br>Now to the [[motifs/death\|death]] of one, or both of us,<br>Or all three it may be. [They fight.]<br>  There and there.<br>Ah, devil! do I hold thee in my grip? |
+| *(didascalia)* | &#91;[[characters/simone\|Simone]] overpowers Guido and throws him down over table.] |
 | GUIDO | [[archetypes/fool\|Fool]]! take your strangling fingers from my throat.<br>I am my father’s only son; the State<br>Has but one heir, and that false enemy France<br>Waits for the ending of my father’s line<br>To fall upon our [[motifs/city\|city]]. |
 | [[characters/simone\|SIMONE]] | Hush! your father<br>When he is childless will be happier.<br>As for the State, I think our state of Florence<br>Needs no adulterous pilot at its helm.<br>Your life would soil its lilies. |
 | GUIDO | Take off your hands<br>Take off your damned hands. Loose me, I say! |
@@ -329,11 +329,11 @@ tags:
 | [[characters/simone\|SIMONE]] | Reggi la torcia, [[characters/bianca\|Bianca]]. [Cominciano a battersi.] |
 | [[characters/simone\|SIMONE]] | A voi! Ah! Ah! Vorreste? |
 | *(didascalia)* | [È ferito da GUIDO.] |
-| [[characters/simone\|SIMONE]] | Un graffio, nulla più. La torcia m’era negli occhi.<br>Non guardarmi triste, [[characters/bianca\|Bianca]]. Non è nulla.<br>Tuo marito sanguina, non è nulla. Prendi un panno,<br>fasciamelo intorno al braccio. No, non così stretto.<br>Più dolcemente, mia buona moglie. E non essere triste,<br>ti prego, non essere triste. No; toglilo.<br>Che importa se sanguino? [[[motifs/tears\|Strappa]] via la benda.]<br>   Ancora! ancora! |
-| *(didascalia)* | [[[characters/simone\|Simone]] disarma Guido] |
+| [[characters/simone\|SIMONE]] | Un graffio, nulla più. La torcia m’era negli occhi.<br>Non guardarmi triste, [[characters/bianca\|Bianca]]. Non è nulla.<br>Tuo marito sanguina, non è nulla. Prendi un panno,<br>fasciamelo intorno al braccio. No, non così stretto.<br>Più dolcemente, mia buona moglie. E non essere triste,<br>ti prego, non essere triste. No; toglilo.<br>Che importa se sanguino? &#91;[[motifs/tears\|Strappa]] via la benda.]<br>   Ancora! ancora! |
+| *(didascalia)* | &#91;[[characters/simone\|Simone]] disarma Guido] |
 | [[characters/simone\|SIMONE]] | Mio gentile Signore, vedete che avevo ragione:<br>la mia spada è temprata meglio, acciaio più fine.<br>Ma misuriamo i nostri pugnali.<br>[[characters/bianca\|BIANCA]] [a Guido] Uccidetelo! uccidetelo! |
-| [[characters/simone\|SIMONE]] | Spegni la torcia, [[characters/bianca\|Bianca]]. [[[characters/bianca\|Bianca]] spegne la torcia.]<br>        Ora, mio buon Signore,<br>ora alla [[motifs/death\|morte]] d’uno di noi, o d’entrambi,<br>o forse di tutti e tre. [Si battono.]<br>  Qua e qua.<br>Ah, demonio! ti tengo dunque nella mia stretta? |
-| *(didascalia)* | [[[characters/simone\|Simone]] sopraffà Guido e lo rovescia sulla tavola.] |
+| [[characters/simone\|SIMONE]] | Spegni la torcia, [[characters/bianca\|Bianca]]. &#91;[[characters/bianca\|Bianca]] spegne la torcia.]<br>        Ora, mio buon Signore,<br>ora alla [[motifs/death\|morte]] d’uno di noi, o d’entrambi,<br>o forse di tutti e tre. [Si battono.]<br>  Qua e qua.<br>Ah, demonio! ti tengo dunque nella mia stretta? |
+| *(didascalia)* | &#91;[[characters/simone\|Simone]] sopraffà Guido e lo rovescia sulla tavola.] |
 | GUIDO | [[archetypes/fool\|Sciocco]]! togliete le vostre dita strangolatrici dalla mia gola.<br>Sono l’unico figlio di mio padre; lo Stato<br>ha un solo erede, e quella falsa nemica, la Francia,<br>attende la fine della stirpe di mio padre<br>per piombare sulla nostra [[motifs/city\|città]]. |
 | [[characters/simone\|SIMONE]] | Taci! Tuo padre,<br>quando sarà senza figli, sarà più felice.<br>Quanto allo Stato, credo che il nostro stato di Firenze<br>non abbia bisogno d’un nocchiero adultero al timone.<br>La tua vita ne macchierebbe i gigli. |
 | GUIDO | Togliete le mani,<br>togliete le vostre maledette mani. Lasciatemi, dico! |

@@ -561,7 +561,7 @@ The scene is laid in [[settings/london|London]]
 | [[characters/celia\|CELIA]] | [[motifs/well\|Bene]], Peter, ne sono terribilmente contenta, per te,<br><br><br>Anche se naturalmente noi… io sentirò la tua mancanza;<br>Sai quanto contassi su di te per i concerti,<br>E le mostre di pittura — più di quanto immaginassi.<br>È stato bello, no? Ma ora avrai l'occasione,<br><br><br>[[concepts/hope\|Spero]], di realizzare le tue ambizioni.<br>Mi mancherai. |  
 | PETER | È gentile da parte tua dirlo;<br><br><br>Ma troverai qualcuno di meglio con cui andare in giro. |  
 | [[characters/celia\|CELIA]] | Non credo che andrò più ai concerti.<br><br><br>Vado via anch'io. |  
-| *(didascalia)* | [[[characters/lavinia\|LAVINIA]] entra da sé con la chiave] |  
+| *(didascalia)* | &#91;[[characters/lavinia\|LAVINIA]] entra da sé con la chiave] |  
 | PETER | Vai all'estero? |  
 | [[characters/celia\|CELIA]] | Non lo so. Forse. |  
 | EDWARD | Ve ne andate tutti e due! |  
@@ -816,7 +816,7 @@ The scene is laid in [[settings/london|London]]
 | REILLY | Al contrario. È l’unico modo<br><br><br>in cui lo si possa discutere. Lei non mi ha detto nulla.<br>Ne ha avuto l’occasione, e ha detto abbastanza<br>per convincermi che si è costruito il suo caso,<br>per così dire, strada facendo. Un avvocato<br>dovrebbe conoscere la propria causa prima di entrare in [[settings/court\|tribunale]]. |  
 | EDWARD | Sono almeno libero di andarmene. E mi propongo di farlo.<br><br><br>Ho deciso. Andrò in albergo. |  
 | REILLY | È proprio perché lei non è libero, signor Chamberlayne,<br><br><br>che è venuto da me. Tocca a me darle questo —<br>la sua [[concepts/freedom\|libertà]]. È affar mio. |  
-| *(didascalia)* | [[[characters/lavinia\|LAVINIA]] viene fatta entrare dall’[[characters/nurse\|INFERMIERA]]-SEGRETARIA] |  
+| *(didascalia)* | &#91;[[characters/lavinia\|LAVINIA]] viene fatta entrare dall’[[characters/nurse\|INFERMIERA]]-SEGRETARIA] |  
 | REILLY | Ma ecco l’altra paziente. |  
 | EDWARD | [[characters/lavinia\|Lavinia]]! |  
 | [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Ebbene]], Sir Henry!<br><br><br>Ho detto che sarei venuta a parlare di mio marito:<br>non ho detto che ero pronta a incontrarlo. |  
@@ -998,7 +998,7 @@ The scene is laid in [[settings/london|London]]
 | *(didascalia)* | [Preme il pulsante] |  
 | [[characters/celia\|CELIA]] | È stato molto gentile. |  
 | REILLY | Va’ in pace, figlia mia.<br><br><br>Opera la tua salvezza con diligenza. |  
-| *(didascalia)* | [L’[[[characters/nurse\|INFERMIERA]]-SEGRETARIA compare alla porta. Esce [[characters/celia\|CELIA]]. REILLY compone un numero al telefono di casa.] |  
+| *(didascalia)* | [L’&#91;[[characters/nurse\|INFERMIERA]]-SEGRETARIA compare alla porta. Esce [[characters/celia\|CELIA]]. REILLY compone un numero al telefono di casa.] |  
 | REILLY | REILLY [al telefono]. È finita. Ora puoi entrare. |  
 | *(didascalia)* | [Entra [[characters/julia\|JULIA]] dalla porta laterale] |  
 | REILLY | Andrà lontano, quella. |  
@@ -1031,7 +1031,7 @@ The scene is laid in [[settings/london|London]]
 | REILLY | Accettano il loro destino. |  
 | ALEX | E lei ha fatto la sua scelta? |  
 | REILLY | Sarà prelevata stasera. |  
-| *(didascalia)* | [Entra l’[[[characters/nurse\|INFERMIERA]]-SEGRETARIA con un vassoio, una caraffa e tre bicchieri, ed esce. REILLY versa da bere.] |  
+| *(didascalia)* | [Entra l’&#91;[[characters/nurse\|INFERMIERA]]-SEGRETARIA con un vassoio, una caraffa e tre bicchieri, ed esce. REILLY versa da bere.] |  
 | REILLY | E ora siamo pronti a procedere alla libagione. |  
 | ALEX | Le parole per l’edificazione del focolare. |  
 | *(didascalia)* | [Alzano i bicchieri] |  
@@ -2318,7 +2318,7 @@ tags:
 | [[characters/celia\|CELIA]] | [[motifs/well\|Well]], Peter, I’m awfully glad, for your sake,<br><br><br>Though of course we … I shall miss you;<br>You know how I depended on you for concerts,<br>And picture exhibitions — more than you realised.<br>It was fun, wasn’t it! But now you’ll have a chance,<br><br><br>I [[concepts/hope\|hope]], to realise your ambitions.<br>I shall miss you. |
 | PETER | It’s nice of you to say so;<br><br><br>But you’ll find someone better, to go about with. |
 | [[characters/celia\|CELIA]] | I don’t think that I shall be going to concerts.<br><br><br>I am going away too. |
-| *(didascalia)* | [[[characters/lavinia\|LAVINIA]] lets herself in with a latch-key] |
+| *(didascalia)* | &#91;[[characters/lavinia\|LAVINIA]] lets herself in with a latch-key] |
 | PETER | You’re going abroad? |
 | [[characters/celia\|CELIA]] | I don’t know. Perhaps. |
 | EDWARD | You’re both going away! |
@@ -2591,7 +2591,7 @@ tags:
 | [[characters/celia\|CELIA]] | [[motifs/well\|Bene]], Peter, ne sono terribilmente contenta, per te,<br><br><br>Anche se naturalmente noi… io sentirò la tua mancanza;<br>Sai quanto contassi su di te per i concerti,<br>E le mostre di pittura — più di quanto immaginassi.<br>È stato bello, no? Ma ora avrai l'occasione,<br><br><br>[[concepts/hope\|Spero]], di realizzare le tue ambizioni.<br>Mi mancherai. |  
 | PETER | È gentile da parte tua dirlo;<br><br><br>Ma troverai qualcuno di meglio con cui andare in giro. |  
 | [[characters/celia\|CELIA]] | Non credo che andrò più ai concerti.<br><br><br>Vado via anch'io. |  
-| *(didascalia)* | [[[characters/lavinia\|LAVINIA]] entra da sé con la chiave] |  
+| *(didascalia)* | &#91;[[characters/lavinia\|LAVINIA]] entra da sé con la chiave] |  
 | PETER | Vai all'estero? |  
 | [[characters/celia\|CELIA]] | Non lo so. Forse. |  
 | EDWARD | Ve ne andate tutti e due! |  
@@ -2849,7 +2849,7 @@ tags:
 | REILLY | On the contrary. That is the only way<br><br><br>In which it can be discussed. You have told me nothing.<br>You have had the opportunity, and you have said enough<br>To convince me that you have been making up your case<br>So to speak, as you went along. A barrister<br>Ought to know his brief before he enters the [[settings/court\|court]]. |
 | EDWARD | I am at least free to leave. And I propose to do so.<br><br><br>My mind is made up. I shall go to a hotel. |
 | REILLY | It is just because you are not free, Mr. Chamberlayne,<br><br><br>That you have come to me. It is for me to give you that —<br>Your [[concepts/freedom\|freedom]]. That is my affair. |
-| *(didascalia)* | [[[characters/lavinia\|LAVINIA]] is shown in by the [[characters/nurse\|NURSE]]-SECRETARY] |
+| *(didascalia)* | &#91;[[characters/lavinia\|LAVINIA]] is shown in by the [[characters/nurse\|NURSE]]-SECRETARY] |
 | REILLY | But here is the other patient. |
 | EDWARD | [[characters/lavinia\|Lavinia]]! |
 | [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Well]], Sir Henry!<br><br><br>I said I would come to talk about my husband:<br>I didn’t say I was prepared to meet him. |
@@ -3031,7 +3031,7 @@ tags:
 | *(didascalia)* | [Presses button] |
 | [[characters/celia\|CELIA]] | You have been very kind. |
 | REILLY | Go in peace, my daughter.<br><br><br>Work out your salvation with diligence. |
-| *(didascalia)* | [[[characters/nurse\|NURSE]]-SECRETARY appears at door. Exit [[characters/celia\|CELIA]]. REILLY dials on house-telephone.] |
+| *(didascalia)* | &#91;[[characters/nurse\|NURSE]]-SECRETARY appears at door. Exit [[characters/celia\|CELIA]]. REILLY dials on house-telephone.] |
 | REILLY | REILLY [into telephone]. It is finished. You can come in now. |
 | *(didascalia)* | [Enter [[characters/julia\|JULIA]] by side door] |
 | REILLY | She will go far, that one. |
@@ -3064,7 +3064,7 @@ tags:
 | REILLY | They accept their destiny. |
 | ALEX | And she has made the choice? |
 | REILLY | She will be fetched this evening. |
-| *(didascalia)* | [[[characters/nurse\|NURSE]]-SECRETARY enters with a tray, a decanter and three glasses, and exit. REILLY pours drinks.] |
+| *(didascalia)* | &#91;[[characters/nurse\|NURSE]]-SECRETARY enters with a tray, a decanter and three glasses, and exit. REILLY pours drinks.] |
 | REILLY | And now we are ready to proceed to the libation. |
 | ALEX | The words for the building of the hearth. |
 | *(didascalia)* | [They raise their glasses] |
@@ -3237,7 +3237,7 @@ tags:
 | REILLY | Al contrario. È l’unico modo<br><br><br>in cui lo si possa discutere. Lei non mi ha detto nulla.<br>Ne ha avuto l’occasione, e ha detto abbastanza<br>per convincermi che si è costruito il suo caso,<br>per così dire, strada facendo. Un avvocato<br>dovrebbe conoscere la propria causa prima di entrare in [[settings/court\|tribunale]]. |  
 | EDWARD | Sono almeno libero di andarmene. E mi propongo di farlo.<br><br><br>Ho deciso. Andrò in albergo. |  
 | REILLY | È proprio perché lei non è libero, signor Chamberlayne,<br><br><br>che è venuto da me. Tocca a me darle questo —<br>la sua [[concepts/freedom\|libertà]]. È affar mio. |  
-| *(didascalia)* | [[[characters/lavinia\|LAVINIA]] viene fatta entrare dall’[[characters/nurse\|INFERMIERA]]-SEGRETARIA] |  
+| *(didascalia)* | &#91;[[characters/lavinia\|LAVINIA]] viene fatta entrare dall’[[characters/nurse\|INFERMIERA]]-SEGRETARIA] |  
 | REILLY | Ma ecco l’altra paziente. |  
 | EDWARD | [[characters/lavinia\|Lavinia]]! |  
 | [[characters/lavinia\|LAVINIA]] | [[motifs/well\|Ebbene]], Sir Henry!<br><br><br>Ho detto che sarei venuta a parlare di mio marito:<br>non ho detto che ero pronta a incontrarlo. |  
@@ -3419,7 +3419,7 @@ tags:
 | *(didascalia)* | [Preme il pulsante] |  
 | [[characters/celia\|CELIA]] | È stato molto gentile. |  
 | REILLY | Va’ in pace, figlia mia.<br><br><br>Opera la tua salvezza con diligenza. |  
-| *(didascalia)* | [L’[[[characters/nurse\|INFERMIERA]]-SEGRETARIA compare alla porta. Esce [[characters/celia\|CELIA]]. REILLY compone un numero al telefono di casa.] |  
+| *(didascalia)* | [L’&#91;[[characters/nurse\|INFERMIERA]]-SEGRETARIA compare alla porta. Esce [[characters/celia\|CELIA]]. REILLY compone un numero al telefono di casa.] |  
 | REILLY | REILLY [al telefono]. È finita. Ora puoi entrare. |  
 | *(didascalia)* | [Entra [[characters/julia\|JULIA]] dalla porta laterale] |  
 | REILLY | Andrà lontano, quella. |  
@@ -3452,7 +3452,7 @@ tags:
 | REILLY | Accettano il loro destino. |  
 | ALEX | E lei ha fatto la sua scelta? |  
 | REILLY | Sarà prelevata stasera. |  
-| *(didascalia)* | [Entra l’[[[characters/nurse\|INFERMIERA]]-SEGRETARIA con un vassoio, una caraffa e tre bicchieri, ed esce. REILLY versa da bere.] |  
+| *(didascalia)* | [Entra l’&#91;[[characters/nurse\|INFERMIERA]]-SEGRETARIA con un vassoio, una caraffa e tre bicchieri, ed esce. REILLY versa da bere.] |  
 | REILLY | E ora siamo pronti a procedere alla libagione. |  
 | ALEX | Le parole per l’edificazione del focolare. |  
 | *(didascalia)* | [Alzano i bicchieri] |  

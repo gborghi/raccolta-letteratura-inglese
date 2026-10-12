@@ -841,7 +841,7 @@ The [[concepts/history|History]] of Henry the Fourth
 | BLUNT | I would you would accept of grace and [[motifs/love\|love]]. |
 | [[characters/hotspur\|HOTSPUR]] | And maybe so we shall. |
 | BLUNT | Pray God you do. |
-| *(didascalia)* | Exeunt [[[characters/hotspur\|Hotspur]], Worcester, Douglas, and Vernon at one door, Blunt at another door |
+| *(didascalia)* | Exeunt &#91;[[characters/hotspur\|Hotspur]], Worcester, Douglas, and Vernon at one door, Blunt at another door |
 
 ### Atto 4, Scena 4
 
@@ -1857,7 +1857,7 @@ The [[concepts/history|History]] of Henry the Fourth
 | BLUNT | Vorrei che accettaste grazia e [[motifs/love\|amore]]. |
 | [[characters/hotspur\|HOTSPUR]] | E forse lo faremo. |
 | BLUNT | Prego Dio che lo facciate. |
-| *(didascalia)* | Escono [[[characters/hotspur\|Hotspur]], Worcester, Douglas e Vernon da una porta, Blunt da un’altra porta |
+| *(didascalia)* | Escono &#91;[[characters/hotspur\|Hotspur]], Worcester, Douglas e Vernon da una porta, Blunt da un’altra porta |
 
 ### Atto 4, Scena 4
 
@@ -3697,7 +3697,7 @@ The [[concepts/history|History]] of Henry the Fourth
 | BLUNT | I would you would accept of grace and [[motifs/love\|love]]. |
 | [[characters/hotspur\|HOTSPUR]] | And maybe so we shall. |
 | BLUNT | Pray God you do. |
-| *(didascalia)* | Exeunt [[[characters/hotspur\|Hotspur]], Worcester, Douglas, and Vernon at one door, Blunt at another door |
+| *(didascalia)* | Exeunt &#91;[[characters/hotspur\|Hotspur]], Worcester, Douglas, and Vernon at one door, Blunt at another door |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3733,7 +3733,7 @@ The [[concepts/history|History]] of Henry the Fourth
 | BLUNT | Vorrei che accettaste grazia e [[motifs/love\|amore]]. |
 | [[characters/hotspur\|HOTSPUR]] | E forse lo faremo. |
 | BLUNT | Prego Dio che lo facciate. |
-| *(didascalia)* | Escono [[[characters/hotspur\|Hotspur]], Worcester, Douglas e Vernon da una porta, Blunt da un’altra porta |
+| *(didascalia)* | Escono &#91;[[characters/hotspur\|Hotspur]], Worcester, Douglas e Vernon da una porta, Blunt da un’altra porta |
 
 
 

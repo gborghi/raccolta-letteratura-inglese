@@ -6845,7 +6845,7 @@ straggling and irregular, but the following [[forms/fragment|fragment]] of an [[
 was clearly to be deciphered:--
 
 
-[[[motifs/cross|cross]]]  B I L S T U M P S H I S. M. ARK
+&#91;[[motifs/cross|cross]]]  B I L S T U M P S H I S. M. ARK
 
 Mr. [[works/pickwick-(chesterton)|Pickwick]]’s eyes sparkled with delight, as he sat and gloated over
 the treasure he had discovered. He had attained one of the greatest

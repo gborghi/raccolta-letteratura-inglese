@@ -248,7 +248,7 @@ All’s [[motifs/well|Well]] That Ends [[motifs/well|Well]]
 | PAROLES | Use a more spacious ceremony to the noble lords. You have restrained yourself within the list of too cold an adieu. Be more expressive to them, for they wear themselves in the cap of the [[motifs/time\|time]], there do muster true gait; eat, speak, and move under the influence of the most received star—and though the devil lead the measure, such are to be followed. After them, and take a more dilated farewell. |
 | [[characters/bertram\|BERTRAM]] | And I will do so. |
 | PAROLES | Worthy fellows, and like to prove most sinewy sword-men. |
-| *(didascalia)* | Exeunt [[[characters/bertram\|Bertram]] and Paroles] |
+| *(didascalia)* | Exeunt &#91;[[characters/bertram\|Bertram]] and Paroles] |
 | *(didascalia)* | Enter Lafeu to the [[archetypes/king\|King]] |
 | LAFEU | (kneeling)<br>Pardon, my lord, for me and for my tidings. |
 | [[archetypes/king\|KING]] | I’ll fee thee to stand up. |
@@ -1438,7 +1438,7 @@ All’s [[motifs/well|Well]] That Ends [[motifs/well|Well]]
 | PAROLES | Usate una cerimonia più ampia coi nobili signori. Vi siete contenuto nel limite d’un addio troppo freddo. Siate più espansivo con loro, perché essi si portano nel cappello del [[motifs/time\|tempo]], là fanno rassegna d’andatura vera; mangiano, parlano e si muovono sotto l’influsso della stella più accreditata—e anche se il diavolo guida la danza, tali si devono seguire. Andate dietro a loro, e prendete un congedo più dilatato. |
 | [[characters/bertram\|BERTRAM]] | E così farò. |
 | PAROLES | Degni compagni, e probabilmente si mostreranno nerbutissimi uomini di spada. |
-| *(didascalia)* | Escono [[[characters/bertram\|Bertram]] e Paroles] |
+| *(didascalia)* | Escono &#91;[[characters/bertram\|Bertram]] e Paroles] |
 | *(didascalia)* | Entra Lafeu presso il [[archetypes/king\|Re]] |
 | LAFEU | (inginocchiandosi)<br>Perdono, mio signore, per me e per le mie notizie. |
 | [[archetypes/king\|RE]] | Ti pagherò perché ti alzi. |
@@ -2783,7 +2783,7 @@ All’s [[motifs/well|Well]] That Ends [[motifs/well|Well]]
 | PAROLES | Use a more spacious ceremony to the noble lords. You have restrained yourself within the list of too cold an adieu. Be more expressive to them, for they wear themselves in the cap of the [[motifs/time\|time]], there do muster true gait; eat, speak, and move under the influence of the most received star—and though the devil lead the measure, such are to be followed. After them, and take a more dilated farewell. |
 | [[characters/bertram\|BERTRAM]] | And I will do so. |
 | PAROLES | Worthy fellows, and like to prove most sinewy sword-men. |
-| *(didascalia)* | Exeunt [[[characters/bertram\|Bertram]] and Paroles] |
+| *(didascalia)* | Exeunt &#91;[[characters/bertram\|Bertram]] and Paroles] |
 | *(didascalia)* | Enter Lafeu to the [[archetypes/king\|King]] |
 | LAFEU | (kneeling)<br>Pardon, my lord, for me and for my tidings. |
 | [[archetypes/king\|KING]] | I’ll fee thee to stand up. |
@@ -2862,7 +2862,7 @@ All’s [[motifs/well|Well]] That Ends [[motifs/well|Well]]
 | PAROLES | Usate una cerimonia più ampia coi nobili signori. Vi siete contenuto nel limite d’un addio troppo freddo. Siate più espansivo con loro, perché essi si portano nel cappello del [[motifs/time\|tempo]], là fanno rassegna d’andatura vera; mangiano, parlano e si muovono sotto l’influsso della stella più accreditata—e anche se il diavolo guida la danza, tali si devono seguire. Andate dietro a loro, e prendete un congedo più dilatato. |
 | [[characters/bertram\|BERTRAM]] | E così farò. |
 | PAROLES | Degni compagni, e probabilmente si mostreranno nerbutissimi uomini di spada. |
-| *(didascalia)* | Escono [[[characters/bertram\|Bertram]] e Paroles] |
+| *(didascalia)* | Escono &#91;[[characters/bertram\|Bertram]] e Paroles] |
 | *(didascalia)* | Entra Lafeu presso il [[archetypes/king\|Re]] |
 | LAFEU | (inginocchiandosi)<br>Perdono, mio signore, per me e per le mie notizie. |
 | [[archetypes/king\|RE]] | Ti pagherò perché ti alzi. |

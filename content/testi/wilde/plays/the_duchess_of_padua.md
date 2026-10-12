@@ -74,7 +74,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | ASCANIO | [laughing]  Then he could never have boxed your ears so often as my father did mine. |
 | GUIDO | [smiling]  I am sure you never deserved it. |
 | ASCANIO | Never; and that made it worse.  I hadn’t the consciousness of [[concepts/guilt\|guilt]] to buoy me up.  What hour did you say he fixed? |
-| GUIDO | [[motifs/noon\|Noon]].  [[[motifs/clock\|Clock]] in the [[settings/cathedral\|Cathedral]] strikes.] |
+| GUIDO | [[motifs/noon\|Noon]].  &#91;[[motifs/clock\|Clock]] in the [[settings/cathedral\|Cathedral]] strikes.] |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2399,7 +2399,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | Speaker | Line |
 |---|---|
 | DUCHESS | Thou accursed law,<br>I would that I could tear thee from the state<br>As easy as I tear thee from this book. |
-| *(didascalia)* | [[[motifs/tears\|Tears]] out the page.] |
+| *(didascalia)* | &#91;[[motifs/tears\|Tears]] out the page.] |
 | DUCHESS | Come here, Count Bardi: are you honourable?<br>Get a [[motifs/horse\|horse]] ready for me at my house,<br>For I must ride to [[settings/venice\|Venice]] instantly. |
 | BARDI | To [[settings/venice\|Venice]], Madam? |
 | DUCHESS | Not a word of this,<br>Go, go at once.  [Exit COUNT BARDI.]<br>A moment, my Lord Justice.<br>If, as thou sayest it, this is the law -<br>Nay, nay, I [[concepts/doubt\|doubt]] not that thou sayest right,<br>Though right be wrong in such a case as this -<br>May I not by the virtue of mine office<br>Adjourn this [[settings/court\|court]] until another day? |
@@ -2432,7 +2432,7 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | Chi parla | Battuta |
 |---|---|
 | DUCHESSA | O legge maledetta,<br>vorrei poterti strappare dallo stato<br>con la stessa facilità con cui ti strappo da questo libro. |
-| *(didascalia)* | [[[motifs/tears\|Strappa]] la pagina.] |
+| *(didascalia)* | &#91;[[motifs/tears\|Strappa]] la pagina.] |
 | DUCHESSA | Venite qua, conte Bardi: siete uomo d’onore?<br>Fatemi tenere pronto un [[motifs/horse\|cavallo]] alla mia casa,<br>ché devo cavalcare a [[settings/venice\|Venezia]] all’istante. |
 | BARDI | A [[settings/venice\|Venezia]], madama? |
 | DUCHESSA | Non una parola di questo,<br>andate, andate subito.  [Esce il CONTE BARDI.]<br>Un istante, mio signor Gran Giudice.<br>Se, come dite, questa è la legge —<br>no, no, non [[concepts/doubt\|dubito]] che diciate il vero,<br>benché il diritto sia torto in un caso come questo —<br>non posso io, in virtù del mio ufficio,<br>aggiornare questa [[settings/court\|corte]] a un altro giorno? |

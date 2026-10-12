@@ -844,7 +844,7 @@ Bartholomew si siede
 | [[characters/grumio\|GRUMIO]] | Bussarvi qui, signore? Ma come, signore, chi son io, signore, da bussarvi qui, signore? |
 | PETRUCCIO | [[archetypes/villain\|Furfante]], dico, bussami a questa porta,<br>e picchiami [[motifs/well\|bene]], o ti spacco la zucca da manigoldo. |
 | [[characters/grumio\|GRUMIO]] | Il mio padrone è divenuto rissoso. Dovrei picchiar voi<br>per primo,<br>e poi so ben io chi ne avrebbe la peggio. |
-| PETRUCCIO | Non si fa dunque?<br>In [[concepts/faith\|fede]], messere, se non vuoi bussare, suonerò io.<br>Proverò come sai solfeggiare e cantarla.<br>Lo strapazza per le orecchie. [[[characters/grumio\|Grumio]] s’inginocchia] |
+| PETRUCCIO | Non si fa dunque?<br>In [[concepts/faith\|fede]], messere, se non vuoi bussare, suonerò io.<br>Proverò come sai solfeggiare e cantarla.<br>Lo strapazza per le orecchie. &#91;[[characters/grumio\|Grumio]] s’inginocchia] |
 | [[characters/grumio\|GRUMIO]] | Aiuto, signori, aiuto! Il mio padrone è impazzito. |
 | PETRUCCIO | Ora bussa quando te lo comando, messer [[archetypes/villain\|furfante]]. |
 | *(didascalia)* | Entra |
@@ -1986,7 +1986,7 @@ Bartholomew si siede
 | [[characters/grumio\|GRUMIO]] | Knock you here, sir? Why, sir, what am I, sir, that I should knock you here, sir? |
 | PETRUCCIO | [[archetypes/villain\|Villain]], I say, knock me at this gate,<br>And rap me [[motifs/well\|well]] or I’ll knock your knave’s pate. |
 | [[characters/grumio\|GRUMIO]] | My master is grown quarrelsome. I should knock you<br>first,<br>And then I know after who comes by the worst. |
-| PETRUCCIO | Will it not be?<br>[[concepts/faith\|Faith]], sirrah, an you’ll not knock, I’ll ring it.<br>I’ll try how you can sol-fa and sing it.<br>He wrings him by the ears. [[[characters/grumio\|Grumio]] kneels] |
+| PETRUCCIO | Will it not be?<br>[[concepts/faith\|Faith]], sirrah, an you’ll not knock, I’ll ring it.<br>I’ll try how you can sol-fa and sing it.<br>He wrings him by the ears. &#91;[[characters/grumio\|Grumio]] kneels] |
 | [[characters/grumio\|GRUMIO]] | Help, masters, help! My master is mad. |
 | PETRUCCIO | Now knock when I bid you, sirrah [[archetypes/villain\|villain]]. |
 | *(didascalia)* | Enter |
@@ -2084,7 +2084,7 @@ Bartholomew si siede
 | [[characters/grumio\|GRUMIO]] | Bussarvi qui, signore? Ma come, signore, chi son io, signore, da bussarvi qui, signore? |
 | PETRUCCIO | [[archetypes/villain\|Furfante]], dico, bussami a questa porta,<br>e picchiami [[motifs/well\|bene]], o ti spacco la zucca da manigoldo. |
 | [[characters/grumio\|GRUMIO]] | Il mio padrone è divenuto rissoso. Dovrei picchiar voi<br>per primo,<br>e poi so ben io chi ne avrebbe la peggio. |
-| PETRUCCIO | Non si fa dunque?<br>In [[concepts/faith\|fede]], messere, se non vuoi bussare, suonerò io.<br>Proverò come sai solfeggiare e cantarla.<br>Lo strapazza per le orecchie. [[[characters/grumio\|Grumio]] s’inginocchia] |
+| PETRUCCIO | Non si fa dunque?<br>In [[concepts/faith\|fede]], messere, se non vuoi bussare, suonerò io.<br>Proverò come sai solfeggiare e cantarla.<br>Lo strapazza per le orecchie. &#91;[[characters/grumio\|Grumio]] s’inginocchia] |
 | [[characters/grumio\|GRUMIO]] | Aiuto, signori, aiuto! Il mio padrone è impazzito. |
 | PETRUCCIO | Ora bussa quando te lo comando, messer [[archetypes/villain\|furfante]]. |
 | *(didascalia)* | Entra |

@@ -114,7 +114,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Good evening, [[characters/lady-chiltern\|Lady Chiltern]]! Has my good-for-nothing young son been here? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Smiling.] I don’t think [[characters/lord-goring\|Lord Goring]] has arrived yet. |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | [Coming up to [[characters/lord-caversham\|LORD CAVERSHAM]].] Why do you call [[characters/lord-goring\|Lord Goring]] good-for-nothing? |
-| *(didascalia)* | [[[characters/mabel-chiltern\|MABEL CHILTERN]] is a perfect example of the English type of prettiness, the apple-blossom type. She has all the fragrance and [[concepts/freedom\|freedom]] of a flower. There is ripple after ripple of sunlight in her hair, and the little mouth, with its parted lips, is expectant, like the mouth of a [[archetypes/child\|child]]. She has the fascinating tyranny of youth, and the astonishing [[concepts/courage\|courage]] of innocence. To sane people she is not reminiscent of any work of art. But she is really like a Tanagra statuette, and would be rather annoyed if she were told so.] |
+| *(didascalia)* | &#91;[[characters/mabel-chiltern\|MABEL CHILTERN]] is a perfect example of the English type of prettiness, the apple-blossom type. She has all the fragrance and [[concepts/freedom\|freedom]] of a flower. There is ripple after ripple of sunlight in her hair, and the little mouth, with its parted lips, is expectant, like the mouth of a [[archetypes/child\|child]]. She has the fascinating tyranny of youth, and the astonishing [[concepts/courage\|courage]] of innocence. To sane people she is not reminiscent of any work of art. But she is really like a Tanagra statuette, and would be rather annoyed if she were told so.] |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Because he leads such an idle life. |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | How can you say such a thing? Why, he rides in the Row at ten o’[[motifs/clock\|clock]] in the morning, goes to the Opera three times a week, changes his clothes at least five times a day, and dines out every [[motifs/night\|night]] of the season. You don’t call that leading an idle life, do you? |
 
@@ -144,7 +144,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Buonasera, [[characters/lady-chiltern\|Lady Chiltern]]! È passato di qui quel buono a nulla di mio figlio? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Sorridendo.] Non credo che [[characters/lord-goring\|Lord Goring]] sia ancora arrivato. |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | [Avvicinandosi a [[characters/lord-caversham\|LORD CAVERSHAM]].] Perché chiama [[characters/lord-goring\|Lord Goring]] un buono a nulla? |
-| *(didascalia)* | [[[characters/mabel-chiltern\|MABEL CHILTERN]] è un esemplare perfetto della grazia inglese, il tipo fior di melo. Ha tutta la fragranza e la [[concepts/freedom\|libertà]] di un fiore. Nei suoi capelli corre onda su onda di sole, e la piccola bocca, con le labbra socchiuse, è in attesa, come la bocca di un [[archetypes/child\|bambino]]. Ha l’affascinante tirannia della giovinezza e lo stupefacente [[concepts/courage\|coraggio]] dell’innocenza. Alle persone di buon senso non ricorda alcuna opera d’arte. Ma somiglia davvero a una statuetta di Tanagra, e ne sarebbe piuttosto seccata se glielo dicessero.] |
+| *(didascalia)* | &#91;[[characters/mabel-chiltern\|MABEL CHILTERN]] è un esemplare perfetto della grazia inglese, il tipo fior di melo. Ha tutta la fragranza e la [[concepts/freedom\|libertà]] di un fiore. Nei suoi capelli corre onda su onda di sole, e la piccola bocca, con le labbra socchiuse, è in attesa, come la bocca di un [[archetypes/child\|bambino]]. Ha l’affascinante tirannia della giovinezza e lo stupefacente [[concepts/courage\|coraggio]] dell’innocenza. Alle persone di buon senso non ricorda alcuna opera d’arte. Ma somiglia davvero a una statuetta di Tanagra, e ne sarebbe piuttosto seccata se glielo dicessero.] |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Perché conduce una vita oziosa. |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | Come può dire una cosa simile? Ma se cavalca al Row alle [[motifs/clock\|dieci in punto]] del mattino, va all’Opera tre volte la settimana, si cambia d’abito almeno cinque volte al giorno e pranza fuori ogni [[motifs/night\|sera]] della stagione. Non chiamerà questa una vita oziosa, spero? |
 
@@ -235,7 +235,7 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] enters. A man of forty, but looking somewhat younger. Clean-shaven, with finely-cut features, dark-haired and dark-eyed. A personality of mark. Not popular — few personalities are. But intensely admired by the few, and deeply respected by the many. The note of his manner is that of perfect distinction, with a slight touch of [[concepts/pride\|pride]]. One feels that he is conscious of the success he has made in life. A nervous temperament, with a tired look. The firmly-chiselled mouth and chin contrast strikingly with the romantic expression in the deep-set eyes. The variance is suggestive of an almost complete separation of passion and intellect, as though thought and emotion were each isolated in its own sphere through some violence of will-power. There is nervousness in the nostrils, and in the pale, thin, pointed hands. It would be inaccurate to call him picturesque. Picturesqueness cannot survive the House of Commons. But Vandyck would have liked to have painted his head.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] enters. A man of forty, but looking somewhat younger. Clean-shaven, with finely-cut features, dark-haired and dark-eyed. A personality of mark. Not popular — few personalities are. But intensely admired by the few, and deeply respected by the many. The note of his manner is that of perfect distinction, with a slight touch of [[concepts/pride\|pride]]. One feels that he is conscious of the success he has made in life. A nervous temperament, with a tired look. The firmly-chiselled mouth and chin contrast strikingly with the romantic expression in the deep-set eyes. The variance is suggestive of an almost complete separation of passion and intellect, as though thought and emotion were each isolated in its own sphere through some violence of will-power. There is nervousness in the nostrils, and in the pale, thin, pointed hands. It would be inaccurate to call him picturesque. Picturesqueness cannot survive the House of Commons. But Vandyck would have liked to have painted his head.] |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -977,7 +977,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | [[motifs/well\|Well]], you see I gave this brooch to somebody once, years ago. |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | You did? |
 | [[characters/lord-goring\|LORD GORING]] | Yes. |
-| *(didascalia)* | [[[characters/lady-chiltern\|LADY CHILTERN]] enters alone. The other guests have gone.] |
+| *(didascalia)* | &#91;[[characters/lady-chiltern\|LADY CHILTERN]] enters alone. The other guests have gone.] |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | Then I shall certainly bid you good-[[motifs/night\|night]]. Good-[[motifs/night\|night]], [[characters/gertrude\|Gertrude]]! [Exit.] |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Good-[[motifs/night\|night]], dear! [To [[characters/lord-goring\|LORD GORING]].] You saw whom Lady Markby brought here to-[[motifs/night\|night]]? |
 | [[characters/lord-goring\|LORD GORING]] | Yes. It was an unpleasant surprise. What did she come here for? |
@@ -1155,14 +1155,14 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| [[characters/lady-chiltern\|LADY CHILTERN]] | That makes no matter. She must know at once that she has been mistaken in you — and that you are not a man to do anything base or underhand or dishonourable. Write here, Robert. Write that you decline to support this scheme of hers, as you hold it to be a dishonest scheme. Yes — write the word dishonest. She knows what that word means. [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] sits down and writes a letter. His wife takes it up and reads it.] Yes; that will do. [Rings bell.] And now the envelope. [He writes the envelope slowly. Enter MASON.] Have this letter sent at once to Claridge’s Hotel. There is no answer. [Exit MASON. [[characters/lady-chiltern\|LADY CHILTERN]] kneels down beside her husband, and puts her arms around him.] Robert, [[motifs/love\|love]] gives one an instinct to things. I feel to-[[motifs/night\|night]] that I have saved you from something that might have been a danger to you, from something that might have made men [[concepts/honour\|honour]] you less than they do. I don’t think you realise sufficiently, Robert, that you have brought into the political life of our [[motifs/time\|time]] a nobler atmosphere, a finer attitude towards life, a freer air of purer aims and higher ideals — I know it, and for that I [[motifs/love\|love]] you, Robert. |
+| [[characters/lady-chiltern\|LADY CHILTERN]] | That makes no matter. She must know at once that she has been mistaken in you — and that you are not a man to do anything base or underhand or dishonourable. Write here, Robert. Write that you decline to support this scheme of hers, as you hold it to be a dishonest scheme. Yes — write the word dishonest. She knows what that word means. &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] sits down and writes a letter. His wife takes it up and reads it.] Yes; that will do. [Rings bell.] And now the envelope. [He writes the envelope slowly. Enter MASON.] Have this letter sent at once to Claridge’s Hotel. There is no answer. [Exit MASON. [[characters/lady-chiltern\|LADY CHILTERN]] kneels down beside her husband, and puts her arms around him.] Robert, [[motifs/love\|love]] gives one an instinct to things. I feel to-[[motifs/night\|night]] that I have saved you from something that might have been a danger to you, from something that might have made men [[concepts/honour\|honour]] you less than they do. I don’t think you realise sufficiently, Robert, that you have brought into the political life of our [[motifs/time\|time]] a nobler atmosphere, a finer attitude towards life, a freer air of purer aims and higher ideals — I know it, and for that I [[motifs/love\|love]] you, Robert. |
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 | Chi parla | Battuta |
 |---|---|
-| [[characters/lady-chiltern\|LADY CHILTERN]] | Non importa. Deve sapere subito che si è sbagliata sul tuo conto — e che tu non sei uomo da fare nulla di vile, di subdolo o di disonorevole. Scrivi qui, Robert. Scrivi che rifiuti di sostenere questo suo progetto, perché lo ritieni un progetto disonesto. Sì — scrivi la parola disonesto. Lei sa che cosa significa quella parola. [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] si siede e scrive una lettera. La moglie la prende e la legge.] Sì; così va bene. [Suona il campanello.] E ora la busta. [Egli scrive lentamente la busta. Entra MASON.] Fate recapitare subito questa lettera al Claridge’s Hotel. Non c’è risposta. [Esce MASON. [[characters/lady-chiltern\|LADY CHILTERN]] s’inginocchia accanto al marito e lo cinge con le braccia.] Robert, l’[[motifs/love\|amore]] dà un istinto per le cose. [[motifs/night\|Stasera]] sento di averti salvato da qualcosa che avrebbe potuto essere un pericolo per te, da qualcosa che avrebbe potuto far sì che gli uomini ti [[concepts/honour\|onorassero]] meno di quanto ti onorano. Non credo che tu ti renda abbastanza conto, Robert, di aver portato nella vita politica del nostro [[motifs/time\|tempo]] un’atmosfera più nobile, un atteggiamento più alto verso la vita, un’aria più libera di propositi più puri e di ideali più elevati — io lo so, e per questo ti [[motifs/love\|amo]], Robert. |
+| [[characters/lady-chiltern\|LADY CHILTERN]] | Non importa. Deve sapere subito che si è sbagliata sul tuo conto — e che tu non sei uomo da fare nulla di vile, di subdolo o di disonorevole. Scrivi qui, Robert. Scrivi che rifiuti di sostenere questo suo progetto, perché lo ritieni un progetto disonesto. Sì — scrivi la parola disonesto. Lei sa che cosa significa quella parola. &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] si siede e scrive una lettera. La moglie la prende e la legge.] Sì; così va bene. [Suona il campanello.] E ora la busta. [Egli scrive lentamente la busta. Entra MASON.] Fate recapitare subito questa lettera al Claridge’s Hotel. Non c’è risposta. [Esce MASON. [[characters/lady-chiltern\|LADY CHILTERN]] s’inginocchia accanto al marito e lo cinge con le braccia.] Robert, l’[[motifs/love\|amore]] dà un istinto per le cose. [[motifs/night\|Stasera]] sento di averti salvato da qualcosa che avrebbe potuto essere un pericolo per te, da qualcosa che avrebbe potuto far sì che gli uomini ti [[concepts/honour\|onorassero]] meno di quanto ti onorano. Non credo che tu ti renda abbastanza conto, Robert, di aver portato nella vita politica del nostro [[motifs/time\|tempo]] un’atmosfera più nobile, un atteggiamento più alto verso la vita, un’aria più libera di propositi più puri e di ideali più elevati — io lo so, e per questo ti [[motifs/love\|amo]], Robert. |
 
 
 
@@ -1173,7 +1173,7 @@ The action of the play is completed within twenty-four hours.
 |---|---|
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Oh, [[motifs/love\|love]] me always, [[characters/gertrude\|Gertrude]], [[motifs/love\|love]] me always! |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | I will [[motifs/love\|love]] you always, because you will always be worthy of [[motifs/love\|love]]. We needs must [[motifs/love\|love]] the highest when we see it! [Kisses him and rises and goes out.] |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] walks up and down for a moment; then sits down and buries his face in his hands. The Servant enters and begins pulling out the lights. [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] looks up.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] walks up and down for a moment; then sits down and buries his face in his hands. The Servant enters and begins pulling out the lights. [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] looks up.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Put out the lights, Mason, put out the lights! |
 | *(didascalia)* | [The Servant puts out the lights. The room becomes almost dark. The only light there is comes from the great chandelier that hangs over the staircase and illumines the tapestry of the Triumph of [[motifs/love\|Love]].] |
 
@@ -1184,7 +1184,7 @@ The action of the play is completed within twenty-four hours.
 |---|---|
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Oh, [[motifs/love\|amami]] sempre, [[characters/gertrude\|Gertrude]], [[motifs/love\|amami]] sempre! |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Ti [[motifs/love\|amerò]] sempre, perché sarai sempre degno d’[[motifs/love\|amore]]. Non possiamo non [[motifs/love\|amare]] ciò che è più alto, quando lo vediamo! [Lo bacia, si alza ed esce.] |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] cammina su e giù per un momento; poi si siede e affonda il viso fra le mani. Entra il Domestico e comincia a spegnere le luci. [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] alza lo sguardo.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] cammina su e giù per un momento; poi si siede e affonda il viso fra le mani. Entra il Domestico e comincia a spegnere le luci. [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] alza lo sguardo.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Spegnete le luci, Mason, spegnete le luci! |
 | *(didascalia)* | [Il Domestico spegne le luci. La sala si fa quasi buia. L’unica luce che resta viene dal grande lampadario sospeso sopra lo scalone, che illumina l’arazzo del Trionfo dell’[[motifs/love\|Amore]].] |
 
@@ -1196,7 +1196,7 @@ The action of the play is completed within twenty-four hours.
 | Speaker | Line |
 |---|---|
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | ACT DROP<br><br>SECOND ACT<br>Morning-room at [[characters/sir-robert-chiltern\|Sir Robert Chiltern]]’s house. |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]], dressed in the height of fashion, is lounging in an armchair. [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] is standing in front of the fireplace. He is evidently in a state of great mental excitement and distress. As the scene progresses he paces nervously up and down the room.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]], dressed in the height of fashion, is lounging in an armchair. [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] is standing in front of the fireplace. He is evidently in a state of great mental excitement and distress. As the scene progresses he paces nervously up and down the room.] |
 | [[characters/lord-goring\|LORD GORING]] | My dear Robert, it’s a very awkward business, very awkward indeed. You should have told your wife the whole thing. [[motifs/secrets\|Secrets]] from other people’s wives are a necessary luxury in modern life. So, at least, I am always told at the club by people who are bald enough to know better. But no man should have a secret from his own wife. She invariably finds it out. Women have a wonderful instinct about things. They can discover everything except the obvious. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [[characters/arthur\|Arthur]], I couldn’t tell my wife. When could I have told her? Not last [[motifs/night\|night]]. It would have made a life-long separation between us, and I would have lost the [[motifs/love\|love]] of the one woman in the world I worship, of the only woman who has ever stirred [[motifs/love\|love]] within me. Last [[motifs/night\|night]] it would have been quite impossible. She would have turned from me in horror . . . in horror and in contempt. |
 | [[characters/lord-goring\|LORD GORING]] | Is [[characters/lady-chiltern\|Lady Chiltern]] as perfect as all that? |
@@ -1217,7 +1217,7 @@ The action of the play is completed within twenty-four hours.
 | Chi parla | Battuta |
 |---|---|
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | SIPARIO<br><br>ATTO SECONDO<br>Salottino del mattino nella casa di [[characters/sir-robert-chiltern\|Sir Robert Chiltern]]. |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]], vestito all’ultima moda, è sprofondato in una poltrona. [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] sta in piedi davanti al camino. È evidentemente in uno stato di grande agitazione e angoscia. Col procedere della scena cammina nervosamente su e giù per la stanza.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]], vestito all’ultima moda, è sprofondato in una poltrona. [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] sta in piedi davanti al camino. È evidentemente in uno stato di grande agitazione e angoscia. Col procedere della scena cammina nervosamente su e giù per la stanza.] |
 | [[characters/lord-goring\|LORD GORING]] | Mio caro Robert, è una faccenda molto imbarazzante, molto imbarazzante davvero. Avresti dovuto raccontare tutto a tua moglie. Avere [[motifs/secrets\|segreti]] per le mogli degli altri è un lusso necessario nella vita moderna. Così, almeno, mi dicono sempre al club certe persone abbastanza calve da saperne di più. Ma nessun uomo dovrebbe avere segreti per la propria moglie. Lei li scopre immancabilmente. Le donne hanno un istinto meraviglioso per queste cose. Riescono a scoprire tutto tranne l’evidente. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [[characters/arthur\|Arthur]], non potevo dirlo a mia moglie. Quando avrei potuto dirglielo? Non ieri [[motifs/night\|sera]]. Avrebbe creato fra noi una separazione per tutta la vita, e avrei perduto l’[[motifs/love\|amore]] dell’unica donna al mondo che io adori, dell’unica donna che abbia mai destato l’[[motifs/love\|amore]] dentro di me. Ieri [[motifs/night\|sera]] sarebbe stato assolutamente impossibile. Si sarebbe voltata da me con orrore... con orrore e con disprezzo. |
 | [[characters/lord-goring\|LORD GORING]] | Ma [[characters/lady-chiltern\|Lady Chiltern]] è davvero così perfetta? |
@@ -1328,7 +1328,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Fortunately for them, if one is to judge by results. But tell me definitely, how did the Baron finally persuade you to — [[motifs/well\|well]], to do what you did? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | When I was going away he said to me that if I ever could give him any private information of real value he would make me a very rich man. I was dazed at the prospect he held out to me, and my [[concepts/ambition\|ambition]] and my [[motifs/desire\|desire]] for power were at that [[motifs/time\|time]] boundless. Six weeks later certain private documents passed through my hands. |
 | [[characters/lord-goring\|LORD GORING]] | [Keeping his eyes steadily fixed on the carpet.] State documents? |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Yes. [[[characters/lord-goring\|LORD GORING]] sighs, then passes his hand across his forehead and looks up.] |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Yes. &#91;[[characters/lord-goring\|LORD GORING]] sighs, then passes his hand across his forehead and looks up.] |
 | [[characters/lord-goring\|LORD GORING]] | I had no idea that you, of all men in the world, could have been so weak, Robert, as to yield to such a [[concepts/temptation\|temptation]] as Baron Arnheim held out to you. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Weak? Oh, I am sick of hearing that phrase. Sick of using it about others. Weak? Do you really think, [[characters/arthur\|Arthur]], that it is weakness that yields to [[concepts/temptation\|temptation]]? I tell you that there are terrible temptations that it requires strength, strength and [[concepts/courage\|courage]], to yield to. To stake all one’s life on a single moment, to risk everything on one throw, whether the stake be power or pleasure, I care not — there is no weakness in that. There is a horrible, a terrible [[concepts/courage\|courage]]. I had that [[concepts/courage\|courage]]. I sat down the same afternoon and wrote Baron Arnheim the letter this woman now holds. He made three-quarters of a million over the transaction. |
 | [[characters/lord-goring\|LORD GORING]] | And you? |
@@ -1346,7 +1346,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Per loro fortuna, a giudicare dai risultati. Ma dimmi con precisione: come fece infine il Barone a persuaderti a — [[motifs/well\|insomma]], a fare quel che hai fatto? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Mentre me ne andavo mi disse che se mai avessi potuto dargli qualche informazione riservata di reale valore, mi avrebbe fatto ricchissimo. Rimasi stordito dalla prospettiva che mi apriva, e la mia [[concepts/ambition\|ambizione]] e il mio [[motifs/desire\|desiderio]] di potere erano a quel [[motifs/time\|tempo]] sconfinati. Sei settimane più tardi certi documenti riservati passarono per le mie mani. |
 | [[characters/lord-goring\|LORD GORING]] | [Tenendo gli occhi fissi sul tappeto.] Documenti di Stato? |
-| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Sì. [[[characters/lord-goring\|LORD GORING]] sospira, poi si passa la mano sulla fronte e alza lo sguardo.] |
+| [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Sì. &#91;[[characters/lord-goring\|LORD GORING]] sospira, poi si passa la mano sulla fronte e alza lo sguardo.] |
 | [[characters/lord-goring\|LORD GORING]] | Non avevo idea che tu, fra tutti gli uomini al mondo, potessi essere tanto debole, Robert, da cedere a una [[concepts/temptation\|tentazione]] come quella che ti offrì il Barone Arnheim. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Debole? Oh, sono stufo di sentire questa parola. Stufo di usarla per gli altri. Debole? Credi davvero, [[characters/arthur\|Arthur]], che sia debolezza cedere alla [[concepts/temptation\|tentazione]]? Ti dico che ci sono tentazioni terribili alle quali occorre forza, forza e [[concepts/courage\|coraggio]], per cedere. Puntare tutta la propria vita su un solo istante, rischiare ogni cosa su un solo colpo, che la posta sia il potere o il piacere, poco importa — in questo non c’è debolezza. C’è un orribile, un terribile [[concepts/courage\|coraggio]]. Io ebbi quel [[concepts/courage\|coraggio]]. Quello stesso pomeriggio mi sedetti e scrissi al Barone Arnheim la lettera che ora quella donna ha in mano. Sull’operazione guadagnò settecentocinquantamila sterline. |
 | [[characters/lord-goring\|LORD GORING]] | E tu? |
@@ -1515,7 +1515,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Oh! dull, useful, delightful things, Factory Acts, Female Inspectors, the Eight Hours’ Bill, the Parliamentary Franchise. . . . Everything, in fact, that you would find thoroughly uninteresting. |
 | [[characters/lord-goring\|LORD GORING]] | And never bonnets? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [With mock indignation.] Never bonnets, never! |
-| *(didascalia)* | [[[characters/lady-chiltern\|LADY CHILTERN]] goes out through the door leading to her boudoir.] |
+| *(didascalia)* | &#91;[[characters/lady-chiltern\|LADY CHILTERN]] goes out through the door leading to her boudoir.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Takes [[characters/lord-goring\|LORD GORING]]’S hand.] You have been a good friend to me, [[characters/arthur\|Arthur]], a thoroughly good friend. |
 | [[characters/lord-goring\|LORD GORING]] | I don’t know that I have been able to do much for you, Robert, as yet. In fact, I have not been able to do anything for you, as far as I can see. I am thoroughly disappointed with myself. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | You have enabled me to tell you the [[concepts/truth\|truth]]. That is something. The [[concepts/truth\|truth]] has always stifled me. |
@@ -1538,7 +1538,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Oh! cose noiose, utili, deliziose: le leggi sulle fabbriche, le ispettrici, il progetto di legge sulle otto ore, il diritto di voto... Tutto ciò, insomma, che lei troverebbe assolutamente privo d’interesse. |
 | [[characters/lord-goring\|LORD GORING]] | E mai cappellini? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Con finta indignazione.] Mai cappellini, mai! |
-| *(didascalia)* | [[[characters/lady-chiltern\|LADY CHILTERN]] esce dalla porta che conduce al suo boudoir.] |
+| *(didascalia)* | &#91;[[characters/lady-chiltern\|LADY CHILTERN]] esce dalla porta che conduce al suo boudoir.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Prende la mano di [[characters/lord-goring\|LORD GORING]].] Sei stato un buon amico per me, [[characters/arthur\|Arthur]], un amico davvero buono. |
 | [[characters/lord-goring\|LORD GORING]] | Non so se finora sia riuscito a fare molto per te, Robert. Anzi, per quanto mi pare, non sono riuscito a fare nulla. Sono profondamente deluso di me stesso. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Mi hai permesso di dirti la [[concepts/truth\|verità]]. È già qualcosa. La [[concepts/truth\|verità]] mi ha sempre soffocato. |
@@ -1777,7 +1777,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Advancing to meet them.] Dear Lady Markby, how nice of you to come and see me! [Shakes hands with her, and bows somewhat distantly to MRS. CHEVELEY.] Won’t you sit down, Mrs. Cheveley? |
 | MRS | CHEVELEY. Thanks. Isn’t that Miss Chiltern? I should like so much to know her. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Mabel, Mrs. Cheveley wishes to know you. |
-| *(didascalia)* | [[[characters/mabel-chiltern\|MABEL CHILTERN]] gives a little nod.] |
+| *(didascalia)* | &#91;[[characters/mabel-chiltern\|MABEL CHILTERN]] gives a little nod.] |
 | MRS | CHEVELEY [Sitting down.] I thought your frock so charming last [[motifs/night\|night]], Miss Chiltern. So simple and . . . suitable. |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | Really? I must tell my dressmaker. It will be such a surprise to her. Good-bye, Lady Markby! |
 | LADY MARKBY | Going already? |
@@ -1808,7 +1808,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Facendosi loro incontro.] Cara Lady Markby, che gentilezza venire a trovarmi! [Le stringe la mano e s’inchina con una certa freddezza a MRS. CHEVELEY.] Non vuole accomodarsi, Mrs. Cheveley? |
 | MRS | CHEVELEY. Grazie. Non è quella Miss Chiltern? Mi piacerebbe tanto conoscerla. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Mabel, Mrs. Cheveley desidera conoscerti. |
-| *(didascalia)* | [[[characters/mabel-chiltern\|MABEL CHILTERN]] fa un piccolo cenno del capo.] |
+| *(didascalia)* | &#91;[[characters/mabel-chiltern\|MABEL CHILTERN]] fa un piccolo cenno del capo.] |
 | MRS | CHEVELEY [Sedendosi.] Ho trovato il suo abito così grazioso ieri [[motifs/night\|sera]], Miss Chiltern. Così semplice e... adatto. |
 | [[characters/mabel-chiltern\|MABEL CHILTERN]] | Davvero? Devo dirlo alla mia sarta. Sarà una tal sorpresa per lei. Arrivederci, Lady Markby! |
 | LADY MARKBY | Va già via? |
@@ -2068,13 +2068,13 @@ The action of the play is completed within twenty-four hours.
 | Speaker | Line |
 |---|---|
 | [[characters/lady-chiltern\|LADY CHILTERN]] | How dare you class my husband with yourself? How dare you threaten him or me? Leave my house. You are unfit to enter it. |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] enters from behind. He hears his wife’s last words, and sees to whom they are addressed. He grows deadly pale.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] enters from behind. He hears his wife’s last words, and sees to whom they are addressed. He grows deadly pale.] |
 | MRS | CHEVELEY. Your house! A house bought with the price of dishonour. A house, everything in which has been paid for by fraud. [Turns round and sees [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]].] Ask him what the origin of his fortune is! Get him to tell you how he sold to a stockbroker a Cabinet secret. Learn from him to what you owe your position. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | It is not true! Robert! It is not true! |
 | MRS | CHEVELEY. [Pointing at him with outstretched finger.] Look at him! Can he deny it? Does he dare to? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Go! Go at once. You have done your worst now. |
 | MRS | CHEVELEY. My worst? I have not yet finished with you, with either of you. I give you both till to-morrow at [[motifs/noon\|noon]]. If by then you don’t do what I bid you to do, the whole world shall know the origin of Robert Chiltern. |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] strikes the bell. Enter MASON.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] strikes the bell. Enter MASON.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Show Mrs. Cheveley out. |
 | *(didascalia)* | [MRS. CHEVELEY starts; then bows with somewhat exaggerated politeness to [[characters/lady-chiltern\|LADY CHILTERN]], who makes no sign of response. As she passes by [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]], who is standing close to the door, she pauses for a moment and looks him straight in the face. She then goes out, followed by the servant, who closes the door after him. The husband and wife are left alone. [[characters/lady-chiltern\|LADY CHILTERN]] stands like some one in a dreadful dream. Then she turns round and looks at her husband. She looks at him with strange eyes, as though she were seeing him for the first [[motifs/time\|time]].] |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | You sold a Cabinet secret for money! You began your life with fraud! You built up your career on dishonour! Oh, tell me it is not true! Lie to me! Lie to me! Tell me it is not true! |
@@ -2087,13 +2087,13 @@ The action of the play is completed within twenty-four hours.
 | Chi parla | Battuta |
 |---|---|
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Come osa mettere mio marito sul suo stesso piano? Come osa minacciare lui o me? Esca da casa mia. Non è degna di entrarvi. |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] entra da dietro. Ode le ultime parole della moglie e vede a chi sono rivolte. Impallidisce mortalmente.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] entra da dietro. Ode le ultime parole della moglie e vede a chi sono rivolte. Impallidisce mortalmente.] |
 | MRS | CHEVELEY. Casa sua! Una casa comprata al prezzo del disonore. Una casa in cui ogni cosa è stata pagata con la frode. [Si volta e vede [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]].] Gli chieda qual è l’origine della sua fortuna! Si faccia raccontare come vendette a un agente di cambio un segreto di Gabinetto. Impari da lui a che cosa deve la sua posizione. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Non è vero! Robert! Non è vero! |
 | MRS | CHEVELEY. [Indicandolo col dito teso.] Lo guardi! Può negarlo? Ne ha il coraggio? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Vada! Vada subito. Ha fatto il peggio che potesse. |
 | MRS | CHEVELEY. Il peggio? Non ho ancora finito con lei, con nessuno dei due. Do a entrambi tempo fino a domani a [[motifs/noon\|mezzogiorno]]. Se per allora non farete quel che vi ordino, il mondo intero conoscerà l’origine di Robert Chiltern. |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] suona il campanello. Entra MASON.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] suona il campanello. Entra MASON.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Accompagni fuori Mrs. Cheveley. |
 | *(didascalia)* | [MRS. CHEVELEY ha un sussulto; poi s’inchina con cortesia un po’ esagerata a [[characters/lady-chiltern\|LADY CHILTERN]], che non dà segno di risposta. Passando accanto a [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]], che sta in piedi vicino alla porta, si ferma un istante e lo guarda dritto in viso. Poi esce, seguita dal domestico, che chiude la porta dietro di sé. Marito e moglie restano soli. [[characters/lady-chiltern\|LADY CHILTERN]] sta immobile come chi si trovi in un sogno spaventoso. Poi si volta e guarda il marito. Lo guarda con occhi strani, come se lo vedesse per la prima [[motifs/time\|volta]].] |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Hai venduto un segreto di Gabinetto per denaro! Hai cominciato la tua vita con una frode! Hai costruito la tua carriera sul disonore! Oh, dimmi che non è vero! Mentimi! Mentimi! Dimmi che non è vero! |
@@ -2385,9 +2385,9 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Ah! that is probably the lady. I shall see her myself. |
 | *(didascalia)* | [Just as he is going towards the door [[characters/lord-caversham\|LORD CAVERSHAM]] enters from the smoking-room.] |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | [[motifs/well\|Well]], sir? am I to wait attendance on you? |
-| [[characters/lord-goring\|LORD GORING]] | [Considerably perplexed.] In a moment, father. Do excuse me. [[[characters/lord-caversham\|LORD CAVERSHAM]] goes back.] [[motifs/well\|Well]], remember my instructions, Phipps — into that room. |
+| [[characters/lord-goring\|LORD GORING]] | [Considerably perplexed.] In a moment, father. Do excuse me. &#91;[[characters/lord-caversham\|LORD CAVERSHAM]] goes back.] [[motifs/well\|Well]], remember my instructions, Phipps — into that room. |
 | PHIPPS | Yes, my lord. |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] goes into the smoking-room. HAROLD, the footman shows MRS. CHEVELEY in. [[characters/lamia\|Lamia]]-like, she is in green and silver. She has a cloak of black satin, lined with dead [[motifs/rose\|rose]]-leaf silk.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]] goes into the smoking-room. HAROLD, the footman shows MRS. CHEVELEY in. [[characters/lamia\|Lamia]]-like, she is in green and silver. She has a cloak of black satin, lined with dead [[motifs/rose\|rose]]-leaf silk.] |
 | HAROLD | What name, madam? |
 | MRS | CHEVELEY. [To PHIPPS, who advances towards her.] Is [[characters/lord-goring\|Lord Goring]] not here? I was told he was at [[motifs/home\|home]]? |
 | PHIPPS | His lordship is engaged at present with [[characters/lord-caversham\|Lord Caversham]], madam. |
@@ -2417,9 +2417,9 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Ah! sarà probabilmente la signora. La riceverò io stesso. |
 | *(didascalia)* | [Proprio mentre si dirige verso la porta, [[characters/lord-caversham\|LORD CAVERSHAM]] entra dalla sala da fumo.] |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | [[motifs/well\|Ebbene]], signore? devo restare qui ad aspettarti? |
-| [[characters/lord-goring\|LORD GORING]] | [Assai perplesso.] Un momento, padre. Scusami, ti prego. [[[characters/lord-caversham\|LORD CAVERSHAM]] rientra.] [[motifs/well\|Ebbene]], si ricordi le mie istruzioni, Phipps — in quella stanza. |
+| [[characters/lord-goring\|LORD GORING]] | [Assai perplesso.] Un momento, padre. Scusami, ti prego. &#91;[[characters/lord-caversham\|LORD CAVERSHAM]] rientra.] [[motifs/well\|Ebbene]], si ricordi le mie istruzioni, Phipps — in quella stanza. |
 | PHIPPS | Sì, milord. |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] entra nella sala da fumo. HAROLD, il valletto, fa entrare MRS. CHEVELEY. Simile a [[characters/lamia\|Lamia]], è vestita di verde e argento. Porta un mantello di raso nero, foderato di seta color petalo di [[motifs/rose\|rosa]] appassita.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]] entra nella sala da fumo. HAROLD, il valletto, fa entrare MRS. CHEVELEY. Simile a [[characters/lamia\|Lamia]], è vestita di verde e argento. Porta un mantello di raso nero, foderato di seta color petalo di [[motifs/rose\|rosa]] appassita.] |
 | HAROLD | Chi devo annunciare, signora? |
 | MRS | CHEVELEY. [A PHIPPS, che le viene incontro.] [[characters/lord-goring\|Lord Goring]] non è qui? Mi era stato detto che fosse in [[motifs/home\|casa]]. |
 | PHIPPS | Sua signoria è al momento occupato con [[characters/lord-caversham\|Lord Caversham]], signora. |
@@ -2678,7 +2678,7 @@ The action of the play is completed within twenty-four hours.
 | Speaker | Line |
 |---|---|
 | [[characters/lord-goring\|LORD GORING]] | Great heavens! his own wife! |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] comes back, with a look of scorn and anger on his face.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] comes back, with a look of scorn and anger on his face.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | What explanation have you to give me for the presence of that woman here? |
 | [[characters/lord-goring\|LORD GORING]] | Robert, I swear to you on my [[concepts/honour\|honour]] that that lady is stainless and guiltless of all offence towards you. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | She is a vile, an infamous thing! |
@@ -2686,7 +2686,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | You are mad. What have I to do with her intrigues with you? Let her remain your mistress! You are [[motifs/well\|well]] suited to each other. She, corrupt and shameful — you, false as a friend, treacherous as an enemy even — |
 | [[characters/lord-goring\|LORD GORING]] | It is not true, Robert. Before heaven, it is not true. In her presence and in yours I will explain all. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Let me pass, sir. You have lied enough upon your word of [[concepts/honour\|honour]]. |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] goes out. [[characters/lord-goring\|LORD GORING]] rushes to the door of the drawing-room, when MRS. CHEVELEY comes out, looking radiant and much amused.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] goes out. [[characters/lord-goring\|LORD GORING]] rushes to the door of the drawing-room, when MRS. CHEVELEY comes out, looking radiant and much amused.] |
 | MRS | CHEVELEY. [With a mock curtsey] Good evening, [[characters/lord-goring\|Lord Goring]]! |
 | [[characters/lord-goring\|LORD GORING]] | Mrs. Cheveley! Great heavens! . . . May I ask what you were doing in my drawing-room? |
 | MRS | CHEVELEY. Merely listening. I have a perfect passion for listening through keyholes. One always hears such wonderful things through them. |
@@ -2706,7 +2706,7 @@ The action of the play is completed within twenty-four hours.
 | Chi parla | Battuta |
 |---|---|
 | [[characters/lord-goring\|LORD GORING]] | Santo cielo! sua moglie! |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] torna, con un’espressione di sdegno e di collera sul volto.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] torna, con un’espressione di sdegno e di collera sul volto.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Che spiegazione hai da darmi della presenza di quella donna qui? |
 | [[characters/lord-goring\|LORD GORING]] | Robert, ti giuro sul mio [[concepts/honour\|onore]] che quella signora è immacolata e innocente di ogni offesa verso di te. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | È una creatura vile, infame! |
@@ -2714,7 +2714,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Sei pazzo. Che cosa ho a che fare con i suoi intrighi con te? Che resti pure la tua amante! Siete [[motifs/well\|ben]] assortiti l’uno con l’altra. Lei, corrotta e vergognosa — tu, falso come amico, e perfino traditore come nemico — |
 | [[characters/lord-goring\|LORD GORING]] | Non è vero, Robert. Davanti al cielo, non è vero. Alla sua presenza e alla tua spiegherò tutto. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Lasciami passare, signore. Hai mentito abbastanza sulla tua parola d’[[concepts/honour\|onore]]. |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] esce. [[characters/lord-goring\|LORD GORING]] si precipita alla porta del salotto, quando MRS. CHEVELEY ne esce, raggiante e assai divertita.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] esce. [[characters/lord-goring\|LORD GORING]] si precipita alla porta del salotto, quando MRS. CHEVELEY ne esce, raggiante e assai divertita.] |
 | MRS | CHEVELEY. [Con una riverenza beffarda] Buona sera, [[characters/lord-goring\|Lord Goring]]! |
 | [[characters/lord-goring\|LORD GORING]] | Mrs. Cheveley! Santo cielo! . . . Posso chiederle che cosa faceva nel mio salotto? |
 | MRS | CHEVELEY. Ascoltavo, semplicemente. Ho una vera passione per l’ascoltare attraverso i buchi delle serrature. Vi si sentono sempre cose così meravigliose. |
@@ -2892,7 +2892,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Because it is found. In point of fact, I found it myself, and stupidly forgot to tell the butler anything about it as I was leaving. [Goes over to the writing-table and pulls out the drawers.] It is in this drawer. No, that one. This is the brooch, isn’t it? [Holds up the brooch.] |
 | MRS | CHEVELEY. Yes. I am so glad to get it back. It was . . a present. |
 | [[characters/lord-goring\|LORD GORING]] | Won’t you wear it? |
-| MRS | CHEVELEY. Certainly, if you pin it in. [[[characters/lord-goring\|LORD GORING]] suddenly clasps it on her arm.] Why do you put it on as a bracelet? I never knew it could he worn as a bracelet. |
+| MRS | CHEVELEY. Certainly, if you pin it in. &#91;[[characters/lord-goring\|LORD GORING]] suddenly clasps it on her arm.] Why do you put it on as a bracelet? I never knew it could he worn as a bracelet. |
 | [[characters/lord-goring\|LORD GORING]] | Really? |
 | MRS | CHEVELEY. [Holding out her handsome arm.] No; but it looks very [[motifs/well\|well]] on me as a bracelet, doesn’t it? |
 | [[characters/lord-goring\|LORD GORING]] | Yes; much better than when I saw it last. |
@@ -2920,7 +2920,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Perché è stata ritrovata. A dire il vero l’ho trovata io stesso, e stupidamente ho dimenticato di dirne nulla al maggiordomo mentre uscivo. [Va allo scrittoio e apre i cassetti.] È in questo cassetto. No, in quello. È questa la spilla, non è vero? [Solleva la spilla.] |
 | MRS | CHEVELEY. Sì. Sono così contenta di riaverla. Era . . un regalo. |
 | [[characters/lord-goring\|LORD GORING]] | Non vuole indossarla? |
-| MRS | CHEVELEY. Certamente, se me l’appunta lei. [[[characters/lord-goring\|LORD GORING]] gliela allaccia all’improvviso attorno al braccio.] Perché me la mette come un braccialetto? Non ho mai saputo che si potesse portare come braccialetto. |
+| MRS | CHEVELEY. Certamente, se me l’appunta lei. &#91;[[characters/lord-goring\|LORD GORING]] gliela allaccia all’improvviso attorno al braccio.] Perché me la mette come un braccialetto? Non ho mai saputo che si potesse portare come braccialetto. |
 | [[characters/lord-goring\|LORD GORING]] | Davvero? |
 | MRS | CHEVELEY. [Tendendo il suo bel braccio.] No; ma come braccialetto mi sta molto [[motifs/well\|bene]], non è vero? |
 | [[characters/lord-goring\|LORD GORING]] | Sì; molto meglio di quando la vidi l’ultima volta. |
@@ -2970,7 +2970,7 @@ The action of the play is completed within twenty-four hours.
 | MRS | CHEVELEY. [With a bitter note of triumph in her voice.] I mean that I am going to send Robert Chiltern the [[motifs/love\|love]]-letter his wife wrote to you to-[[motifs/night\|night]]. |
 | [[characters/lord-goring\|LORD GORING]] | [[motifs/love\|Love]]-letter? |
 | MRS | CHEVELEY. [Laughing.] ‘I want you. I trust you. I am coming to you. [[characters/gertrude\|Gertrude]].’ |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] rushes to the bureau and takes up the envelope, finds is empty, and turns round.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]] rushes to the bureau and takes up the envelope, finds is empty, and turns round.] |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3002,7 +3002,7 @@ The action of the play is completed within twenty-four hours.
 | MRS | CHEVELEY. [Con una nota amara di trionfo nella voce.] Voglio dire che sto per mandare a Robert Chiltern la lettera d’[[motifs/love\|amore]] che sua moglie le ha scritto questa [[motifs/night\|sera]]. |
 | [[characters/lord-goring\|LORD GORING]] | Lettera d’[[motifs/love\|amore]]? |
 | MRS | CHEVELEY. [Ridendo.] «Ho bisogno di lei. Mi fido di lei. Sto venendo da lei. [[characters/gertrude\|Gertrude]].» |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] si precipita allo scrittoio e prende la busta, la trova vuota, e si volta.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]] si precipita allo scrittoio e prende la busta, la trova vuota, e si volta.] |
 
 
 
@@ -3034,7 +3034,7 @@ The action of the play is completed within twenty-four hours.
 | Speaker | Line |
 |---|---|
 | MRS | ACT DROPS<br><br>FOURTH ACT<br>Same as Act II. |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] is standing by the fireplace with his hands in his pockets. He is looking rather bored.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]] is standing by the fireplace with his hands in his pockets. He is looking rather bored.] |
 | [[characters/lord-goring\|LORD GORING]] | [Pulls out his watch, inspects it, and rings the bell.] It is a great nuisance. I can’t find any one in this house to talk to. And I am full of interesting information. I feel like the latest edition of something or other. |
 | *(didascalia)* | [Enter servant.] |
 | JAMES | Sir Robert is still at the Foreign Office, my lord. |
@@ -3067,7 +3067,7 @@ The action of the play is completed within twenty-four hours.
 | Chi parla | Battuta |
 |---|---|
 | MRS | SIPARIO<br><br>ATTO QUARTO<br>Come nell’Atto II. |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] è in piedi accanto al caminetto con le mani in tasca. Ha l’aria piuttosto annoiata.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]] è in piedi accanto al caminetto con le mani in tasca. Ha l’aria piuttosto annoiata.] |
 | [[characters/lord-goring\|LORD GORING]] | [Estrae l’orologio, lo esamina e suona il campanello.] È una gran seccatura. Non trovo nessuno in questa casa con cui parlare. E io sono pieno di informazioni interessanti. Mi sento come l’ultima edizione di qualcosa. |
 | *(didascalia)* | [Entra il domestico.] |
 | JAMES | Sir Robert è ancora al Ministero degli Esteri, milord. |
@@ -3445,13 +3445,13 @@ The action of the play is completed within twenty-four hours.
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]], unseen by [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]], makes an imploring sign to [[characters/lady-chiltern\|LADY CHILTERN]] to accept the situation and SIR ROBERT’S error.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]], unseen by [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]], makes an imploring sign to [[characters/lady-chiltern\|LADY CHILTERN]] to accept the situation and SIR ROBERT’S error.] |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Yes. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | You trust me, [[characters/gertrude\|Gertrude]]? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Yes. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Ah! why did you not add you loved me? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Taking his hand.] Because I loved you. |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] passes into the conservatory.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]] passes into the conservatory.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Kisses her.] [[characters/gertrude\|Gertrude]], you don’t know what I feel. When Montford passed me your letter across the table — he had opened it by mistake, I suppose, without looking at the handwriting on the envelope — and I read it — oh! I did not care what disgrace or punishment was in store for me, I only thought you loved me still. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | There is no disgrace in store for you, nor any public shame. Mrs. Cheveley has handed over to [[characters/lord-goring\|Lord Goring]] the document that was in her possession, and he has destroyed it. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Are you sure of this, [[characters/gertrude\|Gertrude]]? |
@@ -3466,20 +3466,20 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Eagerly.] Oh yes, Robert, you should do that. It is your duty to do that. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | It is much to surrender. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | No; it will be much to gain. |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] walks up and down the room with a troubled expression. Then comes over to his wife, and puts his hand on her shoulder.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] walks up and down the room with a troubled expression. Then comes over to his wife, and puts his hand on her shoulder.] |
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]], non visto da [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]], fa un cenno implorante a [[characters/lady-chiltern\|LADY CHILTERN]] perché accetti la situazione e l’errore di SIR ROBERT.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]], non visto da [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]], fa un cenno implorante a [[characters/lady-chiltern\|LADY CHILTERN]] perché accetti la situazione e l’errore di SIR ROBERT.] |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Sì. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Ti fidi di me, [[characters/gertrude\|Gertrude]]? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Sì. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Ah! perché non hai aggiunto che mi amavi? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Prendendogli la mano.] Perché ti amavo. |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] passa nella serra.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]] passa nella serra.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [La bacia.] [[characters/gertrude\|Gertrude]], non sai che cosa provo. Quando Montford mi ha passato la tua lettera attraverso il tavolo — l’aveva aperta per sbaglio, immagino, senza guardare la calligrafia sulla busta — e io l’ho letta — oh! non m’importava più quale disonore o quale punizione mi attendesse, pensavo soltanto che tu mi amavi ancora. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Non ti attende alcun disonore, né alcuna vergogna pubblica. Mrs. Cheveley ha consegnato a [[characters/lord-goring\|Lord Goring]] il documento che era in suo possesso, ed egli l’ha distrutto. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Ne sei sicura, [[characters/gertrude\|Gertrude]]? |
@@ -3494,7 +3494,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Con ardore.] Oh sì, Robert, dovresti farlo. È tuo dovere farlo. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | È molto a cui rinunciare. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | No; sarà molto da guadagnare. |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] cammina su e giù per la stanza con espressione turbata. Poi si avvicina alla moglie e le posa la mano sulla spalla.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] cammina su e giù per la stanza con espressione turbata. Poi si avvicina alla moglie e le posa la mano sulla spalla.] |
 
 
 
@@ -3507,7 +3507,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Oh! none, Robert. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Sadly.] And your [[concepts/ambition\|ambition]] for me? You used to be ambitious for me. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Oh, my [[concepts/ambition\|ambition]]! I have none now, but that we two may [[motifs/love\|love]] each other. It was your [[concepts/ambition\|ambition]] that led you astray. Let us not talk about [[concepts/ambition\|ambition]]. |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] returns from the conservatory, looking very pleased with himself, and with an entirely new buttonhole that some one has made for him.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]] returns from the conservatory, looking very pleased with himself, and with an entirely new buttonhole that some one has made for him.] |
 | *(didascalia)* | [Going towards him.] [[characters/arthur\|Arthur]], I have to thank you for what you have done for me. I don’t know how I can repay you. [Shakes hands with him.] |
 | [[characters/lord-goring\|LORD GORING]] | My dear fellow, I’ll tell you at once. At the present moment, under the usual palm tree . . . I mean in the conservatory . . . |
 | *(didascalia)* | [Enter MASON.] |
@@ -3520,7 +3520,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Takes letter and reads it.] A seat in the Cabinet! |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Certainly, and you [[motifs/well\|well]] deserve it too. You have got what we want so much in political life nowadays — high character, high moral tone, high principles. [To [[characters/lord-goring\|LORD GORING]].] Everything that you have not got, sir, and never will have. |
 | [[characters/lord-goring\|LORD GORING]] | I don’t like principles, father. I prefer prejudices. |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] is on the brink of accepting the Prime Minister’s offer, when he sees wife looking at him with her clear, candid eyes. He then realises that it is impossible.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] is on the brink of accepting the Prime Minister’s offer, when he sees wife looking at him with her clear, candid eyes. He then realises that it is impossible.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | I cannot accept this offer, [[characters/lord-caversham\|Lord Caversham]]. I have made up my mind to decline it. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Decline it, sir! |
 
@@ -3533,7 +3533,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Oh! nessuno, Robert. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Tristemente.] E la tua [[concepts/ambition\|ambizione]] per me? Un tempo eri ambiziosa per me. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Oh, la mia [[concepts/ambition\|ambizione]]! Ora non ne ho altra che questa: che noi due possiamo [[motifs/love\|amarci]]. È stata la tua [[concepts/ambition\|ambizione]] a traviarti. Non parliamo di [[concepts/ambition\|ambizione]]. |
-| *(didascalia)* | [[[characters/lord-goring\|LORD GORING]] torna dalla serra, con l’aria molto soddisfatta di sé, e con un fiore all’occhiello del tutto nuovo che qualcuno gli ha preparato.] |
+| *(didascalia)* | &#91;[[characters/lord-goring\|LORD GORING]] torna dalla serra, con l’aria molto soddisfatta di sé, e con un fiore all’occhiello del tutto nuovo che qualcuno gli ha preparato.] |
 | *(didascalia)* | [Andandogli incontro.] [[characters/arthur\|Arthur]], devo ringraziarti per quel che hai fatto per me. Non so come potrò ripagarti. [Gli stringe la mano.] |
 | [[characters/lord-goring\|LORD GORING]] | Mio caro amico, te lo dico subito. In questo momento, sotto la solita palma . . . voglio dire nella serra . . . |
 | *(didascalia)* | [Entra MASON.] |
@@ -3546,7 +3546,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Prende la lettera e la legge.] Un seggio nel Gabinetto! |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Certamente, e per giunta se lo merita [[motifs/well\|bene]]. Ha quel che tanto ci manca oggigiorno nella vita politica — carattere elevato, elevato tono morale, elevati principi. [A [[characters/lord-goring\|LORD GORING]].] Tutto quel che tu non hai, signore, e non avrai mai. |
 | [[characters/lord-goring\|LORD GORING]] | Non mi piacciono i principi, padre. Preferisco i pregiudizi. |
-| *(didascalia)* | [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] sta per accettare l’offerta del Primo Ministro, quando vede la moglie che lo guarda con i suoi occhi limpidi e candidi. Allora si rende conto che è impossibile.] |
+| *(didascalia)* | &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] sta per accettare l’offerta del Primo Ministro, quando vede la moglie che lo guarda con i suoi occhi limpidi e candidi. Allora si rende conto che è impossibile.] |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Non posso accettare questa offerta, [[characters/lord-caversham\|Lord Caversham]]. Ho deciso di rifiutarla. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Rifiutarla, signore! |
 
@@ -3567,7 +3567,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [With a touch of bitterness.] I suppose I had better write it at once. Such offers are not repeated. I will ask you to excuse me for a moment, [[characters/lord-caversham\|Lord Caversham]]. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | I may come with you, Robert, may I not? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Yes, [[characters/gertrude\|Gertrude]]. |
-| *(didascalia)* | [[[characters/lady-chiltern\|LADY CHILTERN]] goes out with him.] |
+| *(didascalia)* | &#91;[[characters/lady-chiltern\|LADY CHILTERN]] goes out with him.] |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | What is the matter with this family? Something wrong here, eh? [Tapping his forehead.] Idiocy? Hereditary, I suppose. Both of them, too. Wife as [[motifs/well\|well]] as husband. Very sad. Very sad indeed! And they are not an old family. Can’t understand it. |
 | [[characters/lord-goring\|LORD GORING]] | It is not idiocy, father, I assure you. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | What is it then, sir? |
@@ -3593,7 +3593,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | [Con una punta di amarezza.] Suppongo sia meglio scriverla subito. Offerte simili non si ripetono. Le chiedo di scusarmi un momento, [[characters/lord-caversham\|Lord Caversham]]. |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Posso venire con te, Robert, vero? |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Sì, [[characters/gertrude\|Gertrude]]. |
-| *(didascalia)* | [[[characters/lady-chiltern\|LADY CHILTERN]] esce con lui.] |
+| *(didascalia)* | &#91;[[characters/lady-chiltern\|LADY CHILTERN]] esce con lui.] |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Che cos’ha questa famiglia? Qualcosa non va qui, eh? [Battendosi la fronte.] Idiozia? Ereditaria, immagino. E per giunta tutti e due. La moglie [[motifs/well\|non meno]] del marito. Molto triste. Davvero molto triste! E non sono nemmeno una famiglia antica. Non riesco a capirlo. |
 | [[characters/lord-goring\|LORD GORING]] | Non è idiozia, padre, te l’assicuro. |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | Che cos’è allora, signore? |
@@ -3614,7 +3614,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | About me, father, |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | [Grimly.] Not a subject on which much eloquence is possible. |
 | [[characters/lord-goring\|LORD GORING]] | No, father; but the lady is like me. She doesn’t care much for eloquence in others. She thinks it a little loud. |
-| *(didascalia)* | [[[characters/lord-caversham\|LORD CAVERSHAM]] goes out into the conservatory. [[characters/lady-chiltern\|LADY CHILTERN]] enters.] |
+| *(didascalia)* | &#91;[[characters/lord-caversham\|LORD CAVERSHAM]] goes out into the conservatory. [[characters/lady-chiltern\|LADY CHILTERN]] enters.] |
 | [[characters/lord-goring\|LORD GORING]] | [[characters/lady-chiltern\|Lady Chiltern]], why are you playing Mrs. Cheveley’s cards? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Startled.] I don’t understand you. |
 | [[characters/lord-goring\|LORD GORING]] | Mrs. Cheveley made an attempt to ruin your husband. Either to drive him from public life, or to make him adopt a dishonourable position. From the latter [[forms/tragedy\|tragedy]] you saved him. The former you are now thrusting on him. Why should you do him the wrong Mrs. Cheveley tried to do and failed? |
@@ -3628,7 +3628,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lord-goring\|LORD GORING]] | Di me, padre, |
 | [[characters/lord-caversham\|LORD CAVERSHAM]] | [Torvo.] Non un argomento su cui sia possibile molta eloquenza. |
 | [[characters/lord-goring\|LORD GORING]] | No, padre; ma la signora è come me. Non ama molto l’eloquenza negli altri. La trova un po’ chiassosa. |
-| *(didascalia)* | [[[characters/lord-caversham\|LORD CAVERSHAM]] esce nella serra. Entra [[characters/lady-chiltern\|LADY CHILTERN]].] |
+| *(didascalia)* | &#91;[[characters/lord-caversham\|LORD CAVERSHAM]] esce nella serra. Entra [[characters/lady-chiltern\|LADY CHILTERN]].] |
 | [[characters/lord-goring\|LORD GORING]] | [[characters/lady-chiltern\|Lady Chiltern]], perché sta giocando le carte di Mrs. Cheveley? |
 | [[characters/lady-chiltern\|LADY CHILTERN]] | [Trasalendo.] Non la capisco. |
 | [[characters/lord-goring\|LORD GORING]] | Mrs. Cheveley ha tentato di rovinare suo marito. O di cacciarlo dalla vita pubblica, o di costringerlo ad assumere una posizione disonorevole. Dalla seconda [[forms/tragedy\|tragedia]] lei l’ha salvato. La prima gliela sta ora imponendo lei. Perché dovrebbe fargli il torto che Mrs. Cheveley ha cercato di fargli senza riuscirvi? |
@@ -3721,7 +3721,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Robert, it was not Mrs. Cheveley whom [[characters/lord-goring\|Lord Goring]] expected last [[motifs/night\|night]]. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Not Mrs. Cheveley! Who was it then? |
 | [[characters/lord-goring\|LORD GORING]] | [[characters/lady-chiltern\|Lady Chiltern]]! |
-| [[characters/lady-chiltern\|LADY CHILTERN]] | It was your own wife. Robert, yesterday afternoon [[characters/lord-goring\|Lord Goring]] told me that if ever I was in trouble I could come to him for help, as he was our oldest and best friend. Later on, after that terrible scene in this room, I wrote to him telling him that I trusted him, that I had need of him, that I was coming to him for help and advice. [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] takes the letter out of his pocket.] Yes, that letter. I didn’t go to [[characters/lord-goring\|Lord Goring]]’s, after all. I felt that it is from ourselves alone that help can come. [[concepts/pride\|Pride]] made me think that. Mrs. Cheveley went. She stole my letter and sent it anonymously to you this morning, that you should think . . . Oh! Robert, I cannot tell you what she wished you to think. . . . |
+| [[characters/lady-chiltern\|LADY CHILTERN]] | It was your own wife. Robert, yesterday afternoon [[characters/lord-goring\|Lord Goring]] told me that if ever I was in trouble I could come to him for help, as he was our oldest and best friend. Later on, after that terrible scene in this room, I wrote to him telling him that I trusted him, that I had need of him, that I was coming to him for help and advice. &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] takes the letter out of his pocket.] Yes, that letter. I didn’t go to [[characters/lord-goring\|Lord Goring]]’s, after all. I felt that it is from ourselves alone that help can come. [[concepts/pride\|Pride]] made me think that. Mrs. Cheveley went. She stole my letter and sent it anonymously to you this morning, that you should think . . . Oh! Robert, I cannot tell you what she wished you to think. . . . |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3746,7 +3746,7 @@ The action of the play is completed within twenty-four hours.
 | [[characters/lady-chiltern\|LADY CHILTERN]] | Robert, non era Mrs. Cheveley che [[characters/lord-goring\|Lord Goring]] aspettava ieri [[motifs/night\|sera]]. |
 | [[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] | Non Mrs. Cheveley! E chi era, allora? |
 | [[characters/lord-goring\|LORD GORING]] | [[characters/lady-chiltern\|Lady Chiltern]]! |
-| [[characters/lady-chiltern\|LADY CHILTERN]] | Era tua moglie. Robert, ieri pomeriggio [[characters/lord-goring\|Lord Goring]] mi disse che se mai mi fossi trovata in difficoltà avrei potuto rivolgermi a lui per chiedere aiuto, essendo egli il nostro più vecchio e migliore amico. Più tardi, dopo quella scena terribile in questa stanza, gli scrissi dicendogli che mi fidavo di lui, che avevo bisogno di lui, che sarei andata da lui per avere aiuto e consiglio. [[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] estrae la lettera di tasca.] Sì, quella lettera. Alla fine da [[characters/lord-goring\|Lord Goring]] non ci andai. Sentivo che è da noi soli che può venire l’aiuto. Fu l’[[concepts/pride\|orgoglio]] a farmelo pensare. Mrs. Cheveley ci andò. Rubò la mia lettera e stamattina te l’ha mandata anonima, perché tu pensassi . . . Oh! Robert, non posso dirti che cosa voleva farti pensare. . . . |
+| [[characters/lady-chiltern\|LADY CHILTERN]] | Era tua moglie. Robert, ieri pomeriggio [[characters/lord-goring\|Lord Goring]] mi disse che se mai mi fossi trovata in difficoltà avrei potuto rivolgermi a lui per chiedere aiuto, essendo egli il nostro più vecchio e migliore amico. Più tardi, dopo quella scena terribile in questa stanza, gli scrissi dicendogli che mi fidavo di lui, che avevo bisogno di lui, che sarei andata da lui per avere aiuto e consiglio. &#91;[[characters/sir-robert-chiltern\|SIR ROBERT CHILTERN]] estrae la lettera di tasca.] Sì, quella lettera. Alla fine da [[characters/lord-goring\|Lord Goring]] non ci andai. Sentivo che è da noi soli che può venire l’aiuto. Fu l’[[concepts/pride\|orgoglio]] a farmelo pensare. Mrs. Cheveley ci andò. Rubò la mia lettera e stamattina te l’ha mandata anonima, perché tu pensassi . . . Oh! Robert, non posso dirti che cosa voleva farti pensare. . . . |
 
 
 
