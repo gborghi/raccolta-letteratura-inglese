@@ -477,7 +477,7 @@ col mio stesso riso soffocavo il mio stesso spirito.
 <span class="atom-split" data-atom="394_profuse_kindness" data-title="PROFUSE KINDNESS" data-chapter="" data-kind="intro"></span>
 
 
-ήπιοι οὐδὲ ἴσασιν ὅσῳ πλέον πλέον ἥμισυ πάντος.  
+Νήπιοι οὐδὲ ἴσασιν ὅσῳ πλέον πλέον ἥμισυ πάντος.  
 HESIOD. [Works and Days, l. 40.]  
 What a [[motifs/spring|spring]]-tide of [[motifs/love|Love]] to dear friends in a shoal!  
 Half of it to one were worth [[topoi/double|double]] the whole!  
@@ -498,7 +498,7 @@ inscribed on a fly-leaf of Tom. II of Benedetto Menzini’s Poesie,
 
 <span class="qlang-split" data-lang="it"></span>
 
-ήπιοι οὐδὲ ἴσασιν ὅσῳ πλέον πλέον ἥμισυ πάντος.  
+Νήπιοι οὐδὲ ἴσασιν ὅσῳ πλέον πλέον ἥμισυ πάντος.  
 ESIODO. [Le opere e i giorni, v. 40.]  
 Che marea di [[motifs/spring|primavera]] d'[[motifs/love|Amore]] per cari amici in frotta!  
 La metà a uno solo varrebbe il [[topoi/double|doppio]] del tutto!  

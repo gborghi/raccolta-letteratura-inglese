@@ -84,7 +84,7 @@ The pool becomes a mirror.
 Yet from the still surviving recollections in his mind, the  
 Author has frequently purposed to finish for himself what had  
 been originally, as it were, given to him. Σαμερον αδιον ασω  
-[‘ὔριον διον σω 1834]: but the to-morrow is yet to come.  
+[‘Αὔριον ἅδιον ἄσω 1834]: but the to-morrow is yet to come.  
 As a contrast to this vision, I have annexed a fragment of a  
 very different character, describing with equal fidelity the   50  
 dream of pain and disease.  

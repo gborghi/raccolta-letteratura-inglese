@@ -985,7 +985,7 @@ Eighteen hundred Twenty Three,
 Wednesday morn, and I remember
 Ten on the Clock the Hour to be
 [The Watch and Clock do both agree]   5
-An Air that whizzed διὰ γκεφάλου (right across the diameter
+An Air that whizzed διὰ ἐγκεφάλου (right across the diameter
 of my Brain) exactly like a Hummel Bee, alias Dumbeldore,
 the gentleman with Rappee Spenser (sic), with bands of Red, and
 Orange Plush Breeches, close by my ear, at once sharp and

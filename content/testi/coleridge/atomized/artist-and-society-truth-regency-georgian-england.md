@@ -379,7 +379,7 @@ leetle ‘Moorish’.
 T. C. had to be always.
 10 and 11. Ditto.
 13. Again, I should say, anapaestic — but this anapaest and amphibrach
-quarrel is σπονδος.
+quarrel is ἄσπονδος.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -412,7 +412,7 @@ tantinello ‘Moresco’.
 T. C. doveva sempre essere.
 10 e 11. Idem.
 13. Di nuovo, direi, anapestico — ma questa contesa tra anapesto e anfibraco
-è σπονδος.
+è ἄσπονδος.
 
 
 

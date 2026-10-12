@@ -350,8 +350,8 @@ Ode. First published as The Recantation: an Ode], a kind of
 Palinodia.’ MS. Note by S. T. C.
 Title] Ode for the last day of the Year 1796, C. I.: Ode on the
 Departing Year 4{o}, 1797, 1803, S. L., 1817, 1828, 1829.
-Motto] 3-5 All editions (4{o} to 1834) read φημίοις for δυσφροιμίοις,
-and γαν γ’ for γαν; and all before 1834 μην for μ’ ν.
+Motto] 3-5 All editions (4{o} to 1834) read ἐφημίοις for δυσφροιμίοις,
+and Ἄγαν γ’ for Ἄγαν; and all before 1834 μην for μ’ ἐν.
 I] Strophe I C. I., 4{o}, 1797, 1803.
 When lo! far onwards waving on the [[motifs/wind|wind]]
 I saw the skirts of the DEPARTING YEAR.
@@ -406,7 +406,7 @@ restore all its conquests, and to suffer England to
 retain all hers (at least all her important ones), as
 the only terms of Peace, and the ultimatum of the negotiation!
 Θρασύνει γὰρ αἰσχρόμητις
-Τάλαινα  ‘ΡΑΚΟ ‘ πρωτοπήμων — AESCHYL., Ag. 222-4.
+Τάλαινα ΠΑΡΑΚΟΠΑ πρωτοπήμων — AESCHYL., Ag. 222-4.
 The friends of [[concepts/freedom|Freedom]] in this country are idle. Some are
 timid; some are selfish; and many the torpedo torch of
 hopelessness has numbed into inactivity. We would fain [[concepts/hope|hope]]
@@ -533,8 +533,8 @@ Ode. Pubblicata dapprima come The Recantation: an Ode], una specie di
 Palinodia.’ Nota MS. di S. T. C.
 Titolo] Ode for the last day of the Year 1796, C. I.: Ode on the
 Departing Year 4{o}, 1797, 1803, S. L., 1817, 1828, 1829.
-Motto] 3-5 Tutte le edizioni (dal 4{o} al 1834) leggono φημίοις invece di δυσφροιμίοις,
-e γαν γ’ invece di γαν; e tutte prima del 1834 μην invece di μ’ ν.
+Motto] 3-5 Tutte le edizioni (dal 4{o} al 1834) leggono ἐφημίοις invece di δυσφροιμίοις,
+e Ἄγαν γ’ invece di Ἄγαν; e tutte prima del 1834 μην invece di μ’ ἐν.
 I] Strophe I C. I., 4{o}, 1797, 1803.
 Quand’ecco! lontano innanzi ondeggiando al [[motifs/wind|vento]]
 Vidi i lembi dell’ANNO CHE SE NE VA.
@@ -589,7 +589,7 @@ restituire tutte le sue conquiste, e di sopportare che l’Inghilterra
 ritenga tutte le proprie (almeno tutte quelle importanti), come
 gli unici termini di Pace, e l’ultimatum della trattativa!
 Θρασύνει γὰρ αἰσχρόμητις
-Τάλαινα  ‘ΡΑΚΟ ‘ πρωτοπήμων — AESCHYL., Ag. 222-4.
+Τάλαινα ΠΑΡΑΚΟΠΑ πρωτοπήμων — AESCHYL., Ag. 222-4.
 Gli amici della [[concepts/freedom|Libertà]] in questo paese sono inerti. Alcuni sono
 timidi; alcuni egoisti; e molti la torpedine fiaccola della
 disperazione ha intorpidito nell’inattività. Vorremmo [[concepts/hope|sperare]]

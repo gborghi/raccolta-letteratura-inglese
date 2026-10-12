@@ -102,7 +102,7 @@ Slaver and slang of the other side? —
 Thus, his own whim his only bribe,  
 Our Bard pursued his old A. B. C.   70  
 Contented if he could subscribe  
-In fullest sense his name στησε;  
+In fullest sense his name Ἔστησε;  
 (‘Tis Punic Greek for ‘he hath stood!’)  
 Whate’er the men, the cause was good;  
 And therefore with a right good will,   75  

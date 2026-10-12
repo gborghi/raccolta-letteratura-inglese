@@ -58,7 +58,7 @@ tags:
 
 
 ZAPOLYA: A CHRISTMAS TALE IN TWO PARTS
- ὰρ πυρὶ χρὴ τοιαῦτα λέγειν χειμῶνος ν ὥργ.
+ Πὰρ πυρὶ χρὴ τοιαῦτα λέγειν χειμῶνος ἐν ὥρᾳ.
 APUD ATHENAEUM.
 CONTENTS
 ADVERTISEMENT

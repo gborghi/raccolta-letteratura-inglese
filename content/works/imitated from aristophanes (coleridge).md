@@ -30,7 +30,7 @@ tags:
 ## Testo integrale / Full text
 
 (Nubes 315, 317.)  
-μεγάλαι θεαὶ νδράσιν ργοῖς,  
+μεγάλαι θεαὶ ἀνδράσιν ἀργοῖς,  
 αἵπερ γνώμην καὶ διάλεξιν καὶ νοῦν ἡμῖν παρέχουσι  
 καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ καταληψιν.  
 For the ancients . . . had their glittering VAPORS, which (as the comic  

@@ -56,4 +56,4 @@ leetle ‘Moorish’.
 T. C. had to be always.
 10 and 11. Ditto.
 13. Again, I should say, anapaestic — but this anapaest and amphibrach
-quarrel is σπονδος.
+quarrel is ἄσπονδος.

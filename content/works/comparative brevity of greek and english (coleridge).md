@@ -26,7 +26,7 @@ tags:
 
 ## Testo integrale / Full text
 
-χρυσὸν νὴρ εὑρὼν λιπε βρόχον, αὐτὰρ ὁ χρυσὸν  
+χρυσὸν ἀνὴρ εὑρὼν ἔλιπε βρόχον, αὐτὰρ ὁ χρυσὸν  
 ὅν λίπεν οὐχ εὑρὼν ἧψεν ὅν εὗρε βρόχον.  
 Jack finding gold left a rope on the ground:  
 Bill missing his gold used the rope which he found.  

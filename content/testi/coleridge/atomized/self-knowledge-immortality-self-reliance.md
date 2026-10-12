@@ -676,7 +676,7 @@ l’essere del tuo essere è contraddizione.
 
 
 E coelo descendit γνῶθι σεαυτόν. — JUVENAL, xi. 27.  
-“νῶθι σεαυτόν! — and is this the prime  
+“γνῶθι σεαυτόν! — and is this the prime  
 And heaven-sprung adage of the olden [[motifs/time|time]]! —  
 Say, canst thou make thyself? — Learn first that trade; —  
 Haply thou mayst know what thyself had made.  
@@ -692,7 +692,7 @@ Ignore thyself, and strive to know thy God!   10
 <span class="qlang-split" data-lang="it"></span>
 
 E coelo descendit γνῶθι σεαυτόν. — GIOVENALE, xi. 27.  
-“νῶθι σεαυτόν! — e questo è il primo  
+“γνῶθι σεαυτόν! — e questo è il primo  
 e celeste adagio dell’antico [[motifs/time|tempo]]! —  
 Di’: sai fare te stesso? — Impara prima quel mestiere; —  
 forse potrai conoscere ciò che tu stesso avessi fatto.  
@@ -737,13 +737,13 @@ The fifteenth day, if right I do remember.
 15th Nov. 1814. Ashley, Box, Bath.  
 First published in Lit. Rem., iii. 57. First collected P. and D. W.,  
 1877, ii. 387.  
-ΕΓΩΕΚΑΙ ‘  
+ΕΓΩΕΝΚΑΙΠΑΝ ‘  
 The following burlesque on the Fichtean Egoismus may, perhaps, be  
 amusing to the few who have studied the system, and to those who are  
 unacquainted with it, may convey as tolerable a likeness of Fichte’s  
 idealism as can be expected from an avowed caricature. [S. T. C.]  
 The Categorical Imperative, or the annunciation of the New Teutonic God,  
-ΕΓΩΕΚΑΙ ‘: a dithyrambic Ode, by QUERKOPF VON KLUBSTICK, Grammarian,  
+ΕΓΩΕΝΚΑΙΠΑΝ ‘: a dithyrambic Ode, by QUERKOPF VON KLUBSTICK, Grammarian,  
 and Subrector in Gymnasio. . . .  
 Eu! Dei vices gerens, ipse Divus,  
 (Speak English, Friend!) the God Imperativus,  
@@ -811,13 +811,13 @@ il giorno quindicesimo, se ben ricordo.
 15 nov. 1814. Ashley, Box, Bath.  
 Pubblicata per la prima volta in Lit. Rem., iii. 57. Prima raccolta in P. and D. W.,  
 1877, ii. 387.  
-ΕΓΩΕΚΑΙ ‘  
+ΕΓΩΕΝΚΑΙΠΑΝ ‘  
 Il seguente scherzo burlesco sull’Egoismus fichtiano potrà forse  
 divertire i pochi che hanno studiato il sistema, e a coloro che  
 non lo conoscono potrà dare dell’idealismo di Fichte una somiglianza  
 tollerabile quanto ci si può attendere da una dichiarata caricatura. [S. T. C.]  
 L’Imperativo Categorico, ossia l’annuncio del Nuovo Dio Teutonico,  
-ΕΓΩΕΚΑΙ ‘: Ode ditirambica, di QUERKOPF VON KLUBSTICK, Grammatico,  
+ΕΓΩΕΝΚΑΙΠΑΝ ‘: Ode ditirambica, di QUERKOPF VON KLUBSTICK, Grammatico,  
 e Subrettore in Gymnasio. . . .  
 Eu! Dei vices gerens, ipse Divus,  
 (Parla inglese, Amico!) il Dio Imperativus,  

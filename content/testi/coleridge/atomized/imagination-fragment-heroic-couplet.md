@@ -980,7 +980,7 @@ The pool becomes a [[motifs/mirror|mirror]].
 Yet from the still surviving recollections in his mind, the  
 Author has frequently purposed to finish for himself what had  
 been originally, as it were, given to him. Σαμερον αδιον ασω  
-[‘ὔριον διον σω 1834]: but the to-morrow is yet to come.  
+[‘Αὔριον ἅδιον ἄσω 1834]: but the to-morrow is yet to come.  
 As a contrast to this vision, I have annexed a [[forms/fragment|fragment]] of a  
 very different character, describing with equal fidelity the   50  
 dream of [[motifs/pain|pain]] and disease.  
@@ -1092,7 +1092,7 @@ La pozza ridiventa uno [[motifs/mirror|specchio]].
 Pure dai ricordi ancora superstiti nella sua mente, l’  
 Autore ha spesso avuto il proposito di finire da sé ciò che gli era  
 stato in origine, per così dire, donato. Σαμερον αδιον ασω  
-[‘ὔριον διον σω 1834]: ma il domani deve ancora venire.  
+[‘Αὔριον ἅδιον ἄσω 1834]: ma il domani deve ancora venire.  
 Come contrasto a questa visione, ho aggiunto un [[forms/fragment|frammento]] di  
 carattere assai diverso, che descrive con eguale fedeltà il   50  
 sogno del [[motifs/pain|dolore]] e della malattia.  

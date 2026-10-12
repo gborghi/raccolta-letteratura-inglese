@@ -1358,7 +1358,7 @@ Slaver and slang of the other side? —
 Thus, his own whim his only bribe,  
 Our Bard pursued his old A. B. C.   70  
 Contented if he could subscribe  
-In fullest sense his name στησε;  
+In fullest sense his name Ἔστησε;  
 (‘Tis Punic Greek for ‘he hath stood!’)  
 Whate’er the men, the cause was good;  
 And therefore with a right good will,   75  
@@ -1452,7 +1452,7 @@ infrancesati dell’altra parte? —
 Così, il proprio capriccio unica sua mancia,  
 il nostro Bardo seguì il suo vecchio A. B. C.   70  
 contento se poteva sottoscrivere  
-nel senso più pieno il suo nome στησε;  
+nel senso più pieno il suo nome Ἔστησε;  
 (ψ greco punico per ‘egli ha resistito!’)  
 Quali che fossero gli uomini, la causa era buona;  
 e perciò di ben buona voglia,   75  
@@ -2695,7 +2695,7 @@ Essays, &c., iii. 986. Raccolto per la prima volta in P. and D. W., 1877, ii.
 <span class="atom-split" data-atom="350_comparative_brevity_of_greek_and_english" data-title="COMPARATIVE BREVITY OF GREEK AND ENGLISH" data-chapter="" data-kind="intro"></span>
 
 
-χρυσὸν νὴρ εὑρὼν λιπε βρόχον, αὐτὰρ ὁ χρυσὸν  
+χρυσὸν ἀνὴρ εὑρὼν ἔλιπε βρόχον, αὐτὰρ ὁ χρυσὸν  
 ὅν λίπεν οὐχ εὑρὼν ἧψεν ὅν εὗρε βρόχον.  
 Jack finding gold left a rope on the ground:  
 Bill missing his gold used the rope which he found.  
@@ -2705,7 +2705,7 @@ D. W. 1877, ii. 374.
 
 <span class="qlang-split" data-lang="it"></span>
 
-χρυσὸν νὴρ εὑρὼν λιπε βρόχον, αὐτὰρ ὁ χρυσὸν  
+χρυσὸν ἀνὴρ εὑρὼν ἔλιπε βρόχον, αὐτὰρ ὁ χρυσὸν  
 ὅν λίπεν οὐχ εὑρὼν ἧψεν ὅν εὗρε βρόχον.  
 Jack trovando dell’oro lasciò a terra una corda:  
 Bill non trovando più il suo oro usò la corda che trovò.  
@@ -3100,7 +3100,7 @@ Letter, 1832.
 
 
 (Nubes 315, 317.)  
-μεγάλαι θεαὶ νδράσιν ργοῖς,  
+μεγάλαι θεαὶ ἀνδράσιν ἀργοῖς,  
 αἵπερ γνώμην καὶ διάλεξιν καὶ νοῦν ἡμῖν παρέχουσι  
 καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ καταληψιν.  
 For the ancients . . . had their glittering VAPORS, which (as the comic  
@@ -3123,7 +3123,7 @@ Can therefore never be again ——
 <span class="qlang-split" data-lang="it"></span>
 
 (Nubes 315, 317.)  
-μεγάλαι θεαὶ νδράσιν ργοῖς,  
+μεγάλαι θεαὶ ἀνδράσιν ἀργοῖς,  
 αἵπερ γνώμην καὶ διάλεξιν καὶ νοῦν ἡμῖν παρέχουσι  
 καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ καταληψιν.  
 Ché gli antichi . . . avevano i loro scintillanti VAPORI, che (come ci dice il poeta  

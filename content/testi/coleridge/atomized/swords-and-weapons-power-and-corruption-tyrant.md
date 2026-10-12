@@ -281,23 +281,23 @@ barattare per cibo i gioielli della sua [[motifs/crown|corona]].
 <span class="atom-split" data-atom="125_ode_to_the_departing_year" data-title="ODE TO THE DEPARTING YEAR" data-chapter="" data-kind="intro"></span>
 
 
-Ἰοὺ ἰού, b b κακά.  
+Ἰοὺ ἰού, ὢ ὢ κακά.  
 Ὑπ’ αὖ με δεινὸς ὀρθομαντείας πόνος  
 Στροβεῖ, ταράσσων φροιμίοις δυσφροιμίοις.  
 *       *       *       *       *
 Τὸ μέλλον ἥξει. Καὶ σύ μ’ τάχει παρὼν  
-γαν ληθόμαντιν οἰκτείρας ρεῖς.  
+Ἄγαν ἀληθόμαντιν οἰκτείρας ἐρεῖς.  
 Aeschyl. Agam. 1173-75; 1199-1200.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ἰοὺ ἰού, b b κακά.  
+Ἰοὺ ἰού, ὢ ὢ κακά.  
 Ὑπ’ αὖ με δεινὸς ὀρθομαντείας πόνος  
 Στροβεῖ, ταράσσων φροιμίοις δυσφροιμίοις.  
 *       *       *       *       *
 Τὸ μέλλον ἥξει. Καὶ σύ μ’ τάχει παρὼν  
-γαν ληθόμαντιν οἰκτείρας ρεῖς.  
+Ἄγαν ἀληθόμαντιν οἰκτείρας ἐρεῖς.  
 Eschilo, Agam. 1173-75; 1199-1200.
 
 

@@ -28,7 +28,7 @@ tags:
 
 ## Testo integrale / Full text
 
-ήπιοι οὐδὲ ἴσασιν ὅσῳ πλέον πλέον ἥμισυ πάντος.  
+Νήπιοι οὐδὲ ἴσασιν ὅσῳ πλέον πλέον ἥμισυ πάντος.  
 HESIOD. [Works and Days, l. 40.]  
 What a spring-tide of Love to dear friends in a shoal!  
 Half of it to one were worth double the whole!  

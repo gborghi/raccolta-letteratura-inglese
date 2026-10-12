@@ -315,11 +315,11 @@ che la [[motifs/death|Morte]] cantò per [[motifs/sleep|addormentarlo]] con una 
 <span class="atom-split" data-atom="278_epitaphium_testamentarium" data-title="EPITAPHIUM TESTAMENTARIUM" data-chapter="" data-kind="intro"></span>
 
 
-Τὸ τοῦ ΣΤΗΣΕ τοῦ πιθανοῦς Epitaphium testamentarium αὐτόγραφον.  
+Τὸ τοῦ ἜΣΤΗΣΕ τοῦ ἐπιθανοῦς Epitaphium testamentarium αὐτόγραφον.  
 Quae linquam, aut nihil, aut nihili, aut vix sunt mea. Sordes  
 Do Morti: reddo caetera, Christe! tibi.  
 1826.  
-ρως εὶ λάληθρος ταῖρος  
+Ἔρως ἀεὶ λάληθρος ἑταῖρος  
 In many ways does the full heart reveal  
 The presence of the [[motifs/love|love]] it would conceal;  
 But in far more th’ estrangéd heart lets know  
@@ -329,11 +329,11 @@ The absence of the [[motifs/love|love]], which yet it fain would shew.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Τὸ τοῦ ΣΤΗΣΕ τοῦ πιθανοῦς Epitaphium testamentarium αὐτόγραφον.  
+Τὸ τοῦ ἜΣΤΗΣΕ τοῦ ἐπιθανοῦς Epitaphium testamentarium αὐτόγραφον.  
 Quae linquam, aut nihil, aut nihili, aut vix sunt mea. Sordes  
 Do Morti: reddo caetera, Christe! tibi.  
 1826.  
-ρως εὶ λάληθρος ταῖρος  
+Ἔρως ἀεὶ λάληθρος ἑταῖρος  
 In molti modi il cuore colmo rivela  
 la presenza dell'[[motifs/love|amore]] che vorrebbe celare;  
 ma in assai più modi il cuore estraniato fa sapere  
@@ -526,9 +526,9 @@ Poole, ‘Reply of Coleridge on my urging him to exert himself.’ First
 collected in 1893.  
 following quotation from The Select Discourses by John Smith, 1660: —  
 ‘So the Sibyl was noted by Heraclitus as μαινομένῳ στόματι γελαστὰ καὶ  
-καλλώπιστα φθεγγομένη, as one speaking ridiculous and unseemly speeches  
+ἀκαλλώπιστα φθεγγομένη, as one speaking ridiculous and unseemly speeches  
 with her furious mouth.’ The [[forms/fragment|fragment]] is misquoted and misunderstood:  
-for γελαστά, etc. should be μύριστα unperfumed, inornate lays, not  
+for γελαστά, etc. should be ἀμύριστα unperfumed, inornate lays, not  
 redolent of art. — Render it thus:  
 Not her’s, etc.  
 Στόματι μαινομένῳ is ‘with ecstatic mouth’.  
@@ -560,9 +560,9 @@ Poole, ‘Risposta di Coleridge a me che lo esortavo a darsi da fare.’ Prima
 raccolta nel 1893.  
 seguente citazione dai Select Discourses di John Smith, 1660: —  
 ‘Così la Sibilla fu additata da Eraclito come μαινομένῳ στόματι γελαστὰ καὶ  
-καλλώπιστα φθεγγομένη, come una che pronuncia discorsi ridicoli e sconvenienti  
+ἀκαλλώπιστα φθεγγομένη, come una che pronuncia discorsi ridicoli e sconvenienti  
 con la sua bocca furiosa.’ Il [[forms/fragment|frammento]] è citato male e frainteso:  
-perché γελαστά, ecc. dovrebbe essere μύριστα, canti non profumati, disadorni, non  
+perché γελαστά, ecc. dovrebbe essere ἀμύριστα, canti non profumati, disadorni, non  
 odorosi d'arte. — Rendilo così:  
 Non i suoi, ecc.  
 Στόματι μαινομένῳ significa ‘con bocca estatica’.  
